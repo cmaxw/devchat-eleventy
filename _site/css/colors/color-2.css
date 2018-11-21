@@ -1,0 +1,24 @@
+.breaking-title,
+.post-title a:hover,
+.ts-overlay-style .overlay-post-content .post-meta-info li.active,
+.nav-menu > li .nav-dropdown li a:hover,
+.nav-menu .megamenu-tabs-nav > li.active a,
+.widgets ul li a:hover{
+    color: #4db2ec;
+}
+.top-bar .ts-date-item,
+.header-standerd,
+.right-menu li .nav-search .nav-search-button,
+.ts-cat-title span,
+.ts-cat-title:after,
+.widgets-title span,
+.widgets-title:after,
+.widgets .ts-widget-newsletter,
+.ts-newslatter .newsletter-form .ts-submit-btn .btn:hover{
+    background: #4db2ec;
+}
+.header-standerd .nav-menu > li.active > a,
+.widgets .ts-widget-newsletter .newsletter-form .btn,
+.header-standerd .nav-menu > li > a:hover{
+    background: #42a2d6;
+}

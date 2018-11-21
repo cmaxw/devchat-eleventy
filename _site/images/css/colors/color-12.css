@@ -1,0 +1,177 @@
+.navbar-standerd .nav-menu > li.active > a,
+.navbar-standerd .nav-menu > li > a:hover,
+.nav-menu .megamenu-lists .megamenu-list > li > a:hover,
+.nav-menu > li .nav-dropdown li a:hover,
+.navbar-standerd .nav-menu > li.focus > a,
+ .post-meta-info li.cat-name,
+.post-cat,
+.ts-footer.ts-footer-2 .copyright-text p a,
+.post-title a:hover,
+.post-tag a,
+.widgets .category-list li a:hover,
+.footer-menu ul li a:hover,
+.blog-post-slider-item .owl-nav.owl-nav .owl-next i, .blog-post-slider-item .owl-nav .owl-prev i{
+    color: #8db392 !important;
+}
+
+.featured-tab-item .featured-tab-post .active .post-content,
+.featured-tab-item .featured-tab-post > li .active:before,
+.read-more-btn:hover,
+.widgets .ts-widget-newsletter,
+.widget-title:before,
+.widgets .category-list li a span{
+    background: #8db392;
+}
+
+
+
+.featured-tab-item .featured-tab-post .active .post-meta-info li.cat-name,
+.read-more-btn:hover{
+    color: #fff !important;
+}
+
+/*--------- nav bar css ---*/
+body{
+    background: #f8f8f8;
+}
+.post-content p{
+    color: #888888;
+}
+.navbar-standerd{
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.04);
+    border-top: none;
+}
+.navbar-standerd .navigation,
+.navbar-standerd .nav-menu > li > a,
+.right-menu li .nav-search,
+.right-menu .nav-search-inner input[type=text], .right-menu .nav-search-inner input[type=search]{
+    height: 50px;
+}
+.navbar-standerd .right-menu li .nav-search .nav-search-button{
+    line-height: 54px;
+    width: auto;
+}
+.right-menu .nav-search-close-button{
+    top: 8px;
+}
+.navbar-standerd .nav-menu > li > a{
+    padding: 5px 20px;
+    font-size: 13px;
+}
+.top-social li {
+    line-height: 50px;
+    margin-right: 6px;
+}
+
+.post-title{
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+}
+.widget-title,
+.widgets .ts-widget-newsletter .newsletter-introtext h4{
+    font-family: 'Merriweather', serif;
+}
+.post-title.md{
+    line-height: 30px;
+}
+.post-cat{
+    background: transparent;
+    margin-bottom: 12px;
+    padding: 0;
+   
+}
+.ts-grid-box .post-cat{
+    margin-left: 0;
+    position: relative;
+}
+.post-meta-info li{
+    font-size: 13px;
+    color: #979797;
+    position: relative;
+}
+.post-meta-info li.cat-name{
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.post-meta-info li.cat-name:after{
+    position: absolute;
+    right: -18px;
+    top: 4px;
+    width: 1px;
+    height: 12px;
+    content: '';
+    background: #ddd;
+}
+
+.ts-grid-box.ts-grid-content .post-content{
+        padding: 0 30px 25px 30px;
+}
+.ts-grid-box.ts-grid-content .post-content .post-title.md{
+    font-size: 18px;
+}
+.ts-grid-box.ts-grid-content .post-content p{
+    margin-bottom: 20px;
+}
+
+.instagramPhoto .col-md.p-0{
+    margin-right: 6px;
+}
+.instagramPhoto .col-md.p-0:last-of-type{
+    margin-right: 0;
+}
+
+/*------- ts-footer---------*/
+.ts-footer .footer-menu {
+    padding: 28px 0;
+    border-bottom: 1px solid #e3e3e3;
+}
+.ts-footer .footer-menu li a{
+    color: #232323;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: "Heebo", sans-serif;
+}
+
+.widgets.widgets-populer-post{
+    padding: 30px 30px 30px;
+}
+.widgets.widgets-populer-post .widget-title{
+    margin-left: 0;
+}
+
+.widgets .ts-widget-newsletter .newsletter-form .btn{
+    background: #212121;
+    display: block;
+    width: 100%;
+}
+.widgets .ts-widget-newsletter .newsletter-form .btn:hover{
+    background: #5f7b62;
+}
+.widgets .ts-widget-newsletter{
+    text-align: center;
+}
+.widgets .ts-widget-newsletter .newsletter-img-icon{
+    position: absolute;
+    left: 4px;
+    top: -25px;
+}
+.widgets .ts-widget-newsletter {
+    position: relative;
+    overflow: hidden;
+}
+.widgets .ts-widget-newsletter .newsletter-introtext h4{
+    color: #232323;
+    font-weight: 700;
+}
+.post-list-box .post-content img {
+    width: 110px;
+    height: 80px;
+}
+.widgets .category-list li a span{
+    border-radius: 36px;
+    padding: 1px 8px;
+}

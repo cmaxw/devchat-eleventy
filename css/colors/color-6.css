@@ -1,0 +1,48 @@
+.post-cat{
+    margin-left: 0;
+    background: transparent;
+    color: #6cba40;
+    padding-left: 0;
+    margin-bottom: 12px;
+}
+.breaking-title,
+.post-title a:hover,
+.copyright-text a,
+.nav-menu .megamenu-lists .megamenu-list > li > a:hover,
+.post-cat:hover,
+.ts-footer.ts-footer-2 .copyright-text p a,
+.post-cat,
+.post-tag a,
+.post-list-tab .nav-tabs li a.active,
+.nav-menu-item .ts-main-menu .nav-menu > li > a:hover,
+.nav-menu-item .ts-main-menu .nav-menu li.active > a,
+.nav-menu-item.nav-icon-item .ts-main-menu .right-menu li .nav-search .nav-search-button:hover{
+    color: #63b634 !important;
+}
+.ts-title-item .ts-title:before,
+.widget-title:before,
+.pagination li.active a,
+.pagination li a:hover,
+.ts-post-thumb .post-cat,
+.widgets .ts-widget-newsletter,
+.widgets.widgets-item .widget-title:before,
+.post-list-tab .nav-tabs li a:before{
+    background: #63b634;
+}
+.overlay-post-content .post-title a:hover,
+.ts-post-thumb .post-cat,
+.ts-overlay-style .post-cat{
+    color: #fff !important;
+}
+.ts-post-thumb .post-cat{
+    padding-left: 10px;
+}
+.widgets .ts-widget-newsletter .newsletter-form .btn{
+    background: #508831;
+}
+
+.post-content p{
+    font-size: 15px;
+    color: #232323;
+  }
+  

@@ -1,0 +1,42 @@
+.breaking-title,
+.post-title a:hover,
+.ts-overlay-style .overlay-post-content .post-meta-info li.active,
+.nav-menu > li .nav-dropdown li a:hover,
+.nav-menu .megamenu-tabs-nav > li.active a,
+.widgets ul li a:hover,
+.nav-menu .megamenu-lists .megamenu-list > li > a:hover,
+.view-all-link:hover,
+.post-meta-info li.active{
+    color: #d72924;
+}
+.top-bar .ts-date-item,
+.header-standerd,
+.right-menu li .nav-search .nav-search-button,
+.ts-cat-title span,
+.ts-cat-title:after,
+.widgets-title span,
+.widgets-title:after,
+.widgets .ts-widget-newsletter,
+.ts-newslatter .newsletter-form .ts-submit-btn .btn:hover,
+.widget-title:before,
+.header-middle.v2,
+.logo,
+.nav-menu > li.active > a,
+.nav-menu > li > a:hover,
+.ts-title:before,
+.top-bar .top-social li.ts-subscribe{
+    background: #d72924;
+}
+
+/*--- dark color ---*/
+.header-standerd .nav-menu > li.active > a,
+.widgets .ts-widget-newsletter .newsletter-form .btn,
+.header-standerd .nav-menu > li > a:hover,
+.top-bar.v2{
+    background: #c2211c;
+}
+
+.post-video .post-video-content h3 a:hover,
+.widgets.ts-social-list-item ul li a:hover{
+    color: #fff;
+}
