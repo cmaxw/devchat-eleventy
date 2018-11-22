@@ -1,0 +1,518 @@
+---
+layout: layouts/post.njk
+title: >
+      067 RR Gary Bernhardt’s Testing Style
+date: 2012-08-21 14:00:00
+episode_number: 067
+duration: 1:14:46
+audio_url: https://media.devchat.tv/ruby-rogues/RR067GaryBernhardt.mp3
+tags: ruby-rogues
+---
+
+1:17 - <a href="https://www.destroyallsoftware.com/screencasts" data-cke-saved-href="https://www.destroyallsoftware.com/screencasts">Destroy All Software</a>
+
+2:04 - <a href="http://en.wikipedia.org/wiki/Object-oriented_design" data-cke-saved-href="http://en.wikipedia.org/wiki/Object-oriented_design">Object-Oriented Design</a>
+
+2:22 - Testing
+
+2:40 - <a href="http://en.wikipedia.org/wiki/Unix" data-cke-saved-href="http://en.wikipedia.org/wiki/Unix">Unix</a>
+
+3:33 - <a href="https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell" data-cke-saved-href="https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell">Functional Core, Imperative Shell </a>
+
+6:01 - <a href="http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321503627" data-cke-saved-href="http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321503627">Growing Object Oriented Software Guided by Tests</a>
+<ul>
+ 	<li>Isolating</li>
+</ul>
+11:40 - Faking
+
+14:30 - Values
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/Immutable_object" data-cke-saved-href="http://en.wikipedia.org/wiki/Immutable_object">Immutability</a></li>
+</ul>
+20:36 - <a href="http://en.wikipedia.org/wiki/Garbage_collection_%28computer_science%29" data-cke-saved-href="http://en.wikipedia.org/wiki/Garbage_collection_%28computer_science%29">Garbage Collection</a>
+
+24:30 - Mars Rover Curiosity
+
+30:00 - More Testable Code vs. Improved Design
+
+33:01 - <a href="http://www.growing-object-oriented-software.com/" data-cke-saved-href="http://www.growing-object-oriented-software.com/">Growing Object-Oriented Software (GOOS)</a>, <a href="http://en.wikipedia.org/wiki/Test-driven_development" data-cke-saved-href="http://en.wikipedia.org/wiki/Test-driven_development">Test-Driven Development (TDD)</a>
+<ul>
+ 	<li><a href="https://twitter.com/richhickey" data-cke-saved-href="https://twitter.com/richhickey">Rich Hickey</a> Method</li>
+ 	<li><a href="http://www.sandimetz.com/" data-cke-saved-href="http://www.sandimetz.com">Sandy Metz</a></li>
+</ul>
+43:24 - Threading
+
+48:40 - Erlang
+<ul>
+ 	<li>Controllers</li>
+</ul>
+51:53 - Roundtrip
+
+53:54 - <a href="https://www.destroyallsoftware.com/screencasts/catalog/sucks-rocks-1-the-rails-app" data-cke-saved-href="https://www.destroyallsoftware.com/screencasts/catalog/sucks-rocks-1-the-rails-app">Destroy All Software: Sucks/Rocks</a>
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/Shell_script" data-cke-saved-href="http://en.wikipedia.org/wiki/Shell_script">Shell Scripting</a></li>
+</ul>
+<h3>Book Club</h3>
+We are reading <a href="http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321503627" target="_blank" data-cke-saved-href="http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321503627">Growing Object Oriented Software Guided by Tests</a> and we will review with the author on next time!
+
+<h3>Transcript</h3>
+
+<strong>JAMES</strong>: So tell us about your conference Gary.
+
+<strong>GARY</strong>: Umm…. Yeah… I don’t know. [laughter]
+
+<strong>JAMES</strong>: Well that sounds like great. Sounds awesome.
+
+<strong>CHUCK:</strong> I was going to say, it sounds fascinating!
+
+<em><strong>[This podcast is sponsored by New Relic. To track and optimize your application performance, go to Rubyrogues.com/newrelic.]</strong></em>
+
+<em><strong>[Hosting bandwidth provided by the Blue Box Group. Check them out at bluebox.net]</strong></em>
+
+<em><strong>[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control and intelligent code insight refactorings, check RubyMine by going to jetbrains.com/ruby.]</strong></em>
+
+<strong>CHUCK:</strong> Hey everybody! And welcome to Episode 67 of the Ruby Rogues Podcast. This week on our panel we have James Edward Gray.
+
+<strong>JAMES</strong>: Hello everyone!
+
+<strong>CHUCK:</strong> Josh Susser.
+
+<strong>JOSH</strong>: Good morning!
+
+<strong>CHUCK:</strong> Avdi Grimm.
+
+<strong>AVDI</strong>: Hello from Pennsylvania!
+
+<strong>CHUCK:</strong> I’m Charles Max Wood from devchat.tv and this week, we have a special guest and that‘s Gary Bernhardt.
+
+<strong>GARY</strong>: Hello!
+
+<strong>CHUCK:</strong> So Gary, you’ve been on the show before. Do you just want to briefly introduce yourself since you’re not a regular member of the show?
+
+<strong>GARY</strong>: Sure. I’ll just do the really quick version. I own <em>Destroyer All Software</em>, which is a company that produces screencasts every other week. I work mostly in Python, Ruby historically. I tend to become very bored with things and I’m becoming very bored with Ruby at this point to be honest. And yeah, I think that’s a sufficient introduction.
+
+<strong>JAMES</strong>: So<em> Destroy All Software</em> will be soon be “Destroy All Haskell”?
+
+<strong>GARY</strong>: I wouldn’t go that far. [laughs] Not that language.
+
+<strong>JAMES</strong>: That’s awesome. So Gary, <em>Destroy All Software</em>, I’ve watched all the episodes now and I’m actually current. You have like these recurring themes. What would you say the main recurring themes are?
+
+<strong>GARY</strong>: Well, OO design tends to come back over and over again. Although, what I’m talking about when I say OO design usually there’s little resemblance to classical OO design or what Alan Kay would call OO design probably. Another big one, of course, is testing which historically I can talk mostly about isolated testing or closed isolated. Although recently I’ve been talking about things that are still isolated testing I guess, except not doing it in the traditional mock and stub way. And of course, then there’s a lot of Unix stuff that tends to come back, shell stuff, a little bit of Vim, a little bit of Git. I think the 3 big ones though are OO Design, Testing and Unix.
+
+<strong>JAMES</strong>: Yeah. You’re testing is one of the really interesting parts for me I watching it. I think it was watching <em>Destroy All Software</em> that I really got good with mocking and stubbing. I think that’s one of the things that you do very well and it’s easy for me to pick it up watching your episodes and stuff. And that’s always, seems to me, it was a major focus in the series for a long time. And then recently you did this episode, and I’ve talked to multiple people that agree with me that this episode was a real, kind of mind-blowing changing point of view kind of thing. And that one was called “Functional Core, Imperative Shell”. So can you give us like the 10,000 foot view of what that was?
+
+<strong>GARY</strong>: Sure. So in that screencast, I’m still doing isolated testing. In that, I’m testing exactly one class with behavior and it’s not integrating with any others. But instead of using mocks and stubs, I basically just write it in a functional way. So it takes values in and recurrence values and that is a natural way to isolate code because, if the things that you’re passing in have no behavior, they’re just data. And the things that come out are just data and your testing only one class, you’re only executing only one class, then you’re not integrating with anything. You’re naturally isolated. So I do that and then, that is the core of the program: its many classes that have fully functional behavior. They don’t mutate anything and they don’t call at any other classes. And around that is a thin layer of imperative code that does things like observe key stroke coming in and it evokes one of these functional classes, and then updates a reference that the imperative shell holds. So if you hit ‘J’, you could down a row in this Twitter client that I work on in that screencast. Hitting ‘J’ constructs a new version of the cursor that represents where which line we’re looking at and then updates the global reference to it. It’s not truly global, but conceptually global. So those are the 2 pieces: the functional core and the imperative shell.
+
+<strong>JAMES</strong>: So that was really interesting and just to make it totally clear, you did like a lot of things in there for one there’s pretty much no stubbing or mocking at all. I think you did have one tiny stub that was just one specific case but for the most part, there was no stubbing or mocking. Is that right?
+
+<strong>GARY</strong>: Yeah. All the parts that are actually tested in that project are tested in full isolation and there’s one file that has 2 stubs in it but I actually don’t need them. I think I just did it because it’s so natural for me at this point. I accidentally put a stub in for a Tweet but I didn’t need it. So it’s fully isolated except for the Imperative Shell, which is not actually tested. This is the other part that’s kind of weird.
+
+<strong>JAMES</strong>: Yeah. That was really interesting to me because we’ve been reading the <em>Growing Object Oriented Software Guided by Tests</em>, that’s our book club right now. We’re going to talk about it next week’s episode and I’m under the impression from watching you and your series, I don’t if you’ve ever come out and said it, but I’m about 90% sure you’ve read that book, right?
+
+<strong>GARY</strong>: I actually have not read. [laughs]
+
+<strong>JAMES</strong>: Oh! Wow!
+
+<strong>CHUCK:</strong> He’s just smart all by himself.
+
+<strong>JAMES</strong>: Yeah.
+
+<strong>GARY</strong>: I think I was pretty early on the isolation train and I don’t it was actually, what year was that? Do you remember?
+
+<strong>JAMES</strong>: That’s a good question. Not at the top of my head.
+
+<strong>GARY</strong>: Yeah. It’s not very old and I’m almost positive that I was well into the isolation thing before that book came out. I actually started reading it. I actually have a copy of it about 2 feet away from me, but I have not yet completed it.
+
+<strong>AVDI</strong>: 2009, according to Amazon.
+
+<strong>GARY</strong>: Okay. So I was already isolating for about 2 years at that point.
+
+<strong>JAMES</strong>: That’s interesting.
+
+<strong>CHUCK:</strong> So I have a question. When you talk about “isolating”, are you talking about just doing unit test and mocking up stuff that it just calls to? Kind of putting up stubs there so you know it call the right thing, or we’re actually talking about… we’ve talked about in other settings that like the fast test that Corey Haines does where you’re actually almost isolating from its dependencies as well.
+
+<strong>GARY</strong>: Yeah. When I say isolating, I’m usually talking about the second thing you mentioned, which is sort of the broader form. The general rule, if I had to put a rule on it, is execute only one class that actually does something. It might integrate with a second class that just has data in it so it’s really just a struc. But only execute one class that actually does a thing. That’s not a hard and fast rule but if you had to give a rule that would be the one.
+
+<strong>CHUCK:</strong> That’s seems really abstract to me. Can you give me an example?
+
+<strong>JOSH</strong>: I want to jump in. I’ve been getting quiet here. I don’t watch the screencast and I think I got it now. It’s sounds pretty cool but from a perspective of TDD, I can see that if you impose some constraints on your testing style, that you’re not going to stub or mock, and that you only want to be testing small pieces of this system, I can see that that would be useful to help you achieve this. Is that what you do, you’re driving this from the test side?
+
+<strong>GARY</strong>: Yeah. That was what originally led me to it. I love all the good things that come out of isolated testing. And mostly those are, first of all the tests are very fast. A millisecond is a pretty long time if you’re only executing a single class. Everything tends to be extremely fast. And it also tends to give you very good feedback on the design. So if you’re stubbing or mocking every single thing you interact with then you look at that test and you see 6 mocks being set up at the top of it, you know that you’re collaborating with too many objects. So there’s a natural feedback mechanism for interaction complexity in the system. But if you now replace those mocks and stubs with objects with data, you can get the same feedback because you’ll still have to construct all those things it interacts it. It’s just that now their values, which means that you don’t have this artificial boundary that you’re mocking. You have a real boundary which is actually on that class and their types.
+
+<strong>JOSH</strong>: How would you characterize that in terms of what kind of connascence that is? Or connascence.
+
+<strong>GARY</strong>: Oh my. It’s been a long time since I watched one of Jim’s talks on that. <strong>JOSH</strong>: ‘cause it’s like connascence of naming and position…
+
+<strong>GARY</strong>: Value… I don’t know if there’s actually a type of connascence for the… I guess mocking is really all of them. Because you have to mock the right name, you have to have the right position and you have to mock the right type. And those are all weak forms of connascence but, there’s several of them there. Whereas with the value, you just have to get the right, as long as you construct the right class, you’re good. So that is more connascence of just name.
+
+<strong>DAVID</strong>: Can I barge in here?
+
+<strong>GARY</strong>: Yeah. Go ahead.
+
+<strong>DAVID</strong>: Sorry, this is David Brady. I was lurking on the call and I’m in an all day meeting and they just broke for lunch. I would suggest connascence of interface because that’s what we’re up against. Connascence, basically the Litmus test is, what is the thing that has to change in order to break my test or break my code? And we’re mocking the crap out of everything right now because we’re dumb and we’ve actually got a data object… we have no idea what attributes this thing is going to have. So we’re mocking up this interface for it rather than going and defining the class. And it’s starting to hurt. The thing is because we’re mocking, the real interface is actually decoupled from our tests. And I’m starting to feel pain from this because you could stand up the real system and all are specs would pass but that object doesn’t exist yet. And so, I would be tempted to switch to a live object or some kind of a dumb object that at least imposes the same dynamic interface so that I could test it so that if the valid method or the save-it doesn’t work, my test would actually reflect that.
+
+<strong>GARY</strong>: So what you’re talking about there is more of faking, which is creating a secondary implementation that is simpler but does sort of the same thing like in memory storing instead of a database which is fine, but that mixes behavior and state and it’s much more difficult to do well than to either just stub the thing out. I mean it’s much more of locally difficult to create that correct state than it is to just immediately stub something out, or, to just construct a value and pass it in. And I think that constructing a value and passing it in and getting a value out has sort of all the benefits of both the stub and the fake. It’s easy to do but it also does not have that sort of… It’s not smashing over an interface and assuming that interface is there. IT IS the interface. There’s nothing to go out of sync there.
+
+<strong>DAVID</strong>: Okay.
+
+<strong>JOSH</strong>: So this makes sense to me from a testing perspective and I can see how the code could get structured and that would have a lot of really nice attributes about how it works. The thing that seems like would be the place that trips people up all the time is that, if you are down and one of these functional classes. Doesn’t have any side effect or anything but you run into an issue there where it changes its requirements, you say, “Oh! I need to be passing in the birthday instead of just the name.” and then that ripples out into what is passing in a value. So the values that you pass into that thing now changed and then, if you have other pieces in the system that are dependent on what those values are, you now have to follow those dependencies and update all those places too.
+
+<strong>GARY</strong>: Yes. So that is a problem that clearly exists with mocks and stubs as well. That’s the sort of chasing the types down when they change, right? That’s basically what I’m talking about.
+
+<strong>JOSH</strong>: Well, yeah. You get some brittleness in the system there ‘cause everything’s dependent on this one thing.
+
+<strong>GARY</strong>: I think that well, so that depends on whether you using a dynamic language or not. In Ruby, that’s definitely the case. If everything’s been statically linked, then that problem can’t really exist because all the types are right. I think that that’s actually a fundamentally, a dynamic language problem. I don’t see a way that you could avoid that regardless how you’re testing.
+
+<strong>JOSH</strong>: Well, if you’re passing around the hash. Maybe you can talk about the kind of values that you’re passing in. I haven’t watched the screenshot, the screencast over now. Are you actually passing in something as dynamic as a hash where you can decide what key values are in there?
+
+<strong>GARY</strong>: No.
+
+<strong>JOSH</strong>: Or is it a type object?
+
+<strong>GARY</strong>: Yeah. It’s a type object. It’s a struct, a Ruby Struct. Hashes are far too permissive for doing this I think. It takes away all of your control especially because Ruby Hashes return nil by default, which is really bad. So I’m using structs and if there were something more strict… actually I’m not even using struct, I’m using values, which is a library by Tom Crayford that is like struct except even more strict. It won’t return nil for missing things and it won’t allow you to omit fields.
+
+<strong>CHUCK:</strong> What was that called?
+
+<strong>GARY</strong>: Values.
+
+<strong>JAMES</strong>: It’s much closer to the GOOS’ idea of a value object than struct is. So Gary, one of the things in <em>Destroy All Software</em> kind of leading up to this screencast that I brought up is, you do a lot of episodes in my opinion on the back and forth of mocks. That’s actually what I love about watching <em>Destroy All Software</em>. You do a lot of mocking and stuff like that, but I think you did a really good job of showing the pain points of that, showing scenarios where that leads you into trouble and why it led you into trouble and trying to come up with rules where, “Okay. Here’s how you might that scenario.” or things like that. I got the impression watching and tell me if isn’t the case, but I got the impression that in all of that examining the good and bad of mocks, that’s kind of led you to this functional core-imperative shell to try that. Is that right?
+
+<strong>GARY</strong>: I think that’s probably pretty fair first approximation of how I got there. Overtime, I’ve become more and more concerned with immutability, which also factors into that. Because the whole functional core does not mutate anything, it only constructs new values. But the problem with immutability is, in languages that are purely immutable like Haskell for example, it must be very difficult to do things like IO or basically anything stateful. So that’s why Haskell is full of confusing things like the IO monad. But in Ruby, the IO monad doesn’t make a lot of sense to use. I don’t think because it is not statically enforced. So I’ve been thinking about this for years really, all the way back in the Python. How do you marry immutable data to the dynamic languages? You can’t exactly enforce that stuff, so you need to have some kind of division between mutation and not mutation that you understand that it is clear. And that is why I broke it into these 2 pieces, that’s exactly where that came from. The functional core is the code I want to write, and the imperative shell is the code I have to write in order to interface to the rest of the world.
+
+<strong>JAMES</strong>: That’s a really neat way to think about it, I think.
+
+<strong>JOSH</strong>: That’s the way I think of controllers and MVC.
+
+<strong>GARY</strong>: Yeah, exactly.
+
+<strong>CHUCK:</strong> So I’m going to admit to be a little bit lost. I haven’t seen the video that you’re talking about. So can you just briefly sum up what the basic points are of the videos? So that I can kind of, you know, fit with what we have been talking about into the context that you’re talking in.
+
+<strong>GARY</strong>: Yeah. So…
+
+<strong>JOSH</strong>: TLDW!
+
+<strong>GARY</strong>: You can watch it at 2X if that’s true. The basic ideas are that you want to write functional code, code that doesn’t mutate anything, because it is easier to understand and it’s harder to make certain classes of mistakes. Theirs is no state mutate. Just create values, call function, new values come out. That’s all that happens. I want to be able to write code that way because I can write better, more correct code more easily. But because this nasty world of networks and discs and humans, needs to interact with your code, you have to marry that functional stuff to it somehow. So that’s the second piece. The first piece is the functional core which does all of the actual work, all the thinking and the program. And then the imperative shell does things like receive user input and call the functional code or take the values that come out of the functional code and update the screen from them. So it is the boundary between the functional code and the rest of the world. Does that help at all?
+
+<strong>CHUCK:</strong> Kind of. I am wondering then if you’re talking about testing code written in the functional language or are you writing functional code in Ruby and testing it there, or what?
+
+<strong>JAMES</strong>: The screencast is done in Ruby. So like, to give you an example, it’s a Twitter client and so like he said there’s this functional core, this set of objects that talk to each other and behave but they’re functional. They’re immutable. They don’t have side effects. And then the shell is almost like that the UI primarily that sits on top of it. And that it receives, you press this key on your keyboard, grabs that key and just passes it in to one of those functional methods. Or it wants to update the screen, so it calls one of those functional methods which returns like an array of lines that is actually what should be on the screen. So it clears the screen and creates those lines or whatever. And it’s just sending data and employing data back out and then sending it to, like a reading from the keyboard, sending it to the screen or something like that.
+
+<strong>CHUCK:</strong> Ah. Okay.
+
+<strong>JOSH</strong>: Listening to that description, thanks James. I think that clarified a lot of stuff. But listening to that, the first place I went was, “Wow! That must really be hard on the garbage collector.”
+
+<strong>GARY</strong>: Well, that depends on how good your garbage collector is and ours is good.
+
+<strong>JAMES</strong>: That’s actually an interesting point though because you’re right. Ruby’s garbage collector generally is pretty poor. It can be painful but I don’t know if you guys remember I talked recently about doing the ICFP contest. And this year, I used a real functional design there and I actually used the fact that the references weren’t changing to my advantage, so that I could search a very large space without making millions of objects. It was still totally functional and actually ran quite quickly because Ruby’s garbage collector wasn’t so stressed. I don’t think it has to be a bad scenario. But yeah, it certainly can be.
+
+<strong>AVDI</strong>: Yeah, one of the things I was going to ask is, if you’ve started looking into any of the Ruby immutable collection libraries that have started to pop up based on the Clojure standard library.
+
+<strong>GARY</strong>: I haven’t but I would love to. I forget the name but there’s one that’s pretty popular that’s a set of persisting collections…
+
+<strong>AVDI</strong>: Persistent. That was the word I was looking for.
+
+<strong>GARY</strong>: Yeah, which is a confusing word because it is not usually what persistent means.
+
+<strong>AVDI</strong>: Not at all. We’re old anyway.
+
+<strong>GARY</strong>: Yeah, exactly. Going back to the garbage collector thing, the memory thing, I think that, obviously this is a big problem for Ruby, its 2012 right now. I think that either an implementation with a real GC is going to win or Ruby is going to lose a lot of market share. And it’s interesting that this is not actually a problem for Python because CPython is referencecounted. It’s also, it has a garbage collector but the collector only kicks in if you have circular references. So if you have a function in it, creates a bunch of objects and in recurrence and they’re not reference, it immediate freeze them when the function in returns. So it doesn’t have to do a mark and sweep across all these tiny objects you create, which I’ve always thought has been a wonderful benefit of CPython. It allows you to do things like this. It gracefully transitions into this other paradigms. I don’t want to get off on the Python ramp but it’s interesting to know.
+
+<strong>JOSH</strong>: Yeah, not to get too VM implemator crazy here but I find it interesting that people are still doing reference counting in this era. And that, apparently is some sort of performance benefit because if you just look at the amount of CPU cycles, you need to spend counting references if you do it on every method activation or every method return, that you have to count every object and the whole point of shifting from reference counting to mark and sweep is that you don’t have to do that counting all the time. You only have to do it when you run out of space. You can actually count the the number of CPU cycles you’re spending memory, managing memory. And it’s far less if you just do mark and sweep.
+
+<strong>GARY</strong>: I think that’s only true if you have a sufficiently good implementation. And neither C Python nor MRI has historically been any good, basically. When you compare to a real VM, if you compare it to Strongtalk or the JVM, I mean they’ve always been laughable. I think when your VM is that bad, that’s when reference counting wins.
+
+<strong>JOSH</strong>: [laughs] We’ll just leave it at that.
+
+<strong>AVDI:</strong> I’m so curious.
+
+<strong>JOSH</strong>: Enough with the aggression. You’re curious. Are you on Mars?
+
+<strong>AVDI</strong>: [laughs] Yes. Beep. Beep. I have no idea that what noises Mars Rover actually make. I like to imagine them beeping around on the surface.
+
+<strong>CHUCK:</strong> Doesn’t Curiosity actually Tweet?
+
+<strong>AVDI</strong>: Oh yeah.
+
+<strong>DAVID</strong>: A voice encoder on it so it can say, “Now you’ve made me very angry.”
+
+<strong>AVDI</strong>: I’m just waiting for it to run into doctor whoever wandering around.
+
+<strong>CHUCK:</strong> Nice.
+
+<strong>AVDI</strong>: Excuse me. The thing that I’ve been wondering about is I’ve been a fan of making as much of the functions or methods in a program were immutable as possible for a long, long time. I used to like slap-const all over like everywhere on my C++ methods and stuff like that way back in the day. The one thing that does tend to show up when you do more of a functional style is, you wind up putting more complexity into the data structures that you pass from one function to another. And that can become somewhat constrictive overtime as you have a lot of methods that have intimate knowledge about what those value objects are expected to look like. It’s a sort of a real basic example from your screencast, you’re putting up, you’re dealing with an array of strings. An array of strings is a hugely complex data structure but there is kind of a line. In Ruby, there’s a lot there because array has quite a large API. A string has quite a large API. And one of the arguments for mocking and stubbing is that, it makes the API dependencies between you methods and the things your methods use is painful, very quickly. So the more dependencies that are there, the more your method knows about its collaborators, the more mocks and stub you sort of bloat up with. I’m curious if you have any thoughts on that. Is that a problem? The growth of, the knowledge of these data objects or is that sort of, for you, is that not an issue?
+
+<strong>GARY</strong>: Well the functional folks would tell you that it is a benefit because traditionally, what functional programmers want to do is have an intelligent data structure as possible. Intelligent data structure is a term that they use positively. I’m still not entirely sure how I feel about this but, I will say that when I do lots of actual object interactions, I sometimes wish that I had sort of a transaction around it. Because when something wrong happens and I detect it, unrolling in the middle of that operation can be difficult. And one of the things that I noticed is that when you a transition a system from object interactions into values being passed around, you end up with values that are the transaction, which I think is sort of nice. And this is like the most obvious possible thing you could ever say to a functional programmer probably. But I really like that the large scale operations were represented by a single entity that was the operation. So, I think there are definitely benefits there and the functional guys are not dumb. They have reasons that they like intelligent data structures. I think the truth is somewhere in the middle which is why I’ve been programming with the 2 layers: the functional layer and then the imperative layer around it.
+
+<strong>AVDI</strong>: I kind of related to that. Do you see this as being just sort of generally applicable to any programming problem? Or does it work better for… I mean like the demo app that is in the screencast, is kind of a one-way flow, so you have from the Twitterverse through some reformatting onto the screen. And I am curious if stuff that has more back and forth, moving parts, does it still break down as easily?
+
+<strong>GARY</strong>: I’m going to guess that it doesn’t. I think the more that you have active back and forth, the more that MVC, real MVC like Smalltalk MVC, the more that’s going to make sense, I would guess. I’ve been writing functional code for a long time but I haven’t been segregating it this sort of intentionally for very long. I’m not sure about what the implications will be.
+
+<strong>JAMES</strong>: So have you read? I think its Gregory Moeck, if I’m pronouncing his name right, have a blog post recently called “<em>Don’t Make Your Code More Testable</em>”. Have you read that?
+
+<strong>GARY:</strong> I have read it. I’m not sure that I have a very good memory of it. I might need a quick refresher.
+
+<strong>JAMES</strong>: It was basically about how, I feel like you’ve done a lot of this in just Rails software without coming right what I’m saying it. He’s basically talked about that he’s glad that the Ruby community is currently pretty focused on mocking and stubbing and isolated testing, things like that. But we seem to be doing it for the end of making our code more testable, whereas, but he believes the angle we should be striving for is to improve the design. And so shows an example and talks about it where we’re putting everything it miss, separate stuff, not necessarily even thinking about whether or not it improves the design and stuff like that. I thought that this dovetailed nicely with what kind of what you’ve been doing lately and that the functional core, imperative shell and that like, to me, you almost did this because it was that the ideal way you could test this; by removing the mocks and stubs from the equation and taking it down in to just a way over that you could really easily reason about. That was very easy to test and prove correct, but then you still had to deal with the outside world. So you have that layer that just took the basic stuff and passing it in and out. I guess that’s just I wanted to say that I felt like that there was a great synergy there. That you were doing it because it is the best way you could get to the design. Is that what you think?
+
+<strong>GARY</strong>: Yeah. I think that’s fair. Now I do, as soon as you start with that description, I totally remembered Greg’s post and he’s absolutely right. The whole fast test in Rails thing has been sort of a wedge with which we have driven isolation in to Rails programmers heads, but speed is not the best thing about it.  It’s nice to have fast test and it’s important to have fast feedback but the ultimate goal, the really important thing is the design of the system. That has been my top goal since the beginning even though I phrased my discussion of it in terms of speed because I knew that what would grab people most directly. And I would guess that this is probably true for Corey Haines as well, who’s also talked about it a lot. I don’t want to put words in his mouth, but I think he would agree that the speed, we’ve emphasized the speed because that was what grabs people most directly.
+
+<strong>JAMES</strong>: That made sense. Alright, now I want to ask you the really hard question. In growing object oriented software and most TDD driven things, that acceptance test play a really important role. You start with that acceptance test and then you actually drill down to the layers and flush them with the unit test and you know that by doing that, you’re testing the thing end to end. And doing that, with your imperative shell and functional core, what you’re basically saying is the imperative shell was not tested. You didn’t have a test covering end to end. According to the typical test driven definition, how did you have a metric to know that you were done? Or you have done the right things? Or you have not broken needless functionality or things like that?
+
+<strong>GARY</strong>: Well, to directly answer your question, I think I just used the <em>Rich Hickey Method</em> which is I’m smart and I can look at it and know whether it’s right or not. [laughs] But the more general answer, I think, is that if it hadn’t been a command line Twitter client, if it’d been a webout for example, I probably would have written some high-level tests, some integration tests to make sure that everything was working in a sane way. But I never, even though I didn’t test that imperative shell, I never encountered a bug because of that. I would, but that was when I was cowboy-ing some code when I was spiking. But I never encountered a bug in any time other than when I was spiking code in the imperative shell and there’s really only, I think 3 conditionals and they all fire like all the time. There’s very little risk there. The other thing is I say this in a screencast that I keep the shell in the thick size. I think it’s about 150 characters or 150 lines I say, something like that. And I’ll grow it to prototype new stuff but then once I prototyped it, I TDD it into an actual class. So the imperative shell is not growing and I don’t know what happens when the program gets sufficiently large that 150 characters of the outside is noise compared to the size of it. I don’t know what happens there, but for my fairly small program it’s worked wonderfully which of course, the asterisks on like every programming argument ever.
+
+<strong>JOSH</strong>: Yeah. And that’s a segue into the thing that I wanted to ask you about next. So I’ve been reading the drafts of Sandy Metz’ coming out which is going to be phenomenal. And she makes a point that object oriented design is not about writing a little piece of software right now, it’s about dealing with change that happens over the lifetime of the code base and spin yourself up with some foresight. So that when you need to change things, it won’t be crazy. And what you’ve talking about today and what you just said sounds like you have something that works for creating some piece of software right now and it makes you feel confident that it’s going to do certain things, certain ways and it has great advantages for a particular area, but you don’t really know how that’s going to perform in the face of having to change things as you maintain the software overtime.
+
+<strong>GARY</strong>: That is certainly true for me, but one of my reasons for doing was watching the successes that it existed in the functional space with languages like Haskell where this is what they do. This is not one of your tools. This is their tool. The imperative shell is the way they build software and in Haskell, the imperative shell is the outer layer of the program that has IO on its types and that works. The problem that they run into is, as the program scales, it does get more difficult to reason about that. In the screencast, I think I actually mentioned at the end that a single shell is probably not the way to do this. What you want is components that are functional core-imperative shell and communicate with each other. So it’s a program of small programs which of course, is a thing that everyone has been advocating for program design since programs were a thing. So just because… sorry, go ahead.
+
+<strong>JOSH</strong>: Well, I’m wondering, if you start following that in a particular direction do end up with object-oriented programs? You have more and more of these imperative shells with functional cores and as soon as you have a couple dozen of them, typical object-oriented system?
+
+<strong>GARY</strong>: Well I wouldn’t say typical because a typical OO system has no mutable-immutable segregation in it, whatsoever. Whereas, if you did the thing that we’re talking about and you did it many times within one program, yes, you would have units that have imperative external interfaces and functional cores, but the functional core is a new thing. And that’s probably; it’s got to be at least 80% of the weight of the system in order to really say you’re doing this and probably more than 80%. In the very roundabout way, I would say yes but I think it’s a different thing.
+
+<strong>JOSH</strong>: Okay.
+
+<strong>AVDI</strong>: For what it’s worth, that is how GOOS authors grow an object oriented object or authors are kind of advocating for. They use a slightly different term but it’s actually kind of reminiscent of functional core-imperative shell.
+
+<strong>JAMES</strong>: That was exactly I was going to say but they talked about basically putting a way over your own objects between you and every outside source that you have to talk to. And that layer which to them, is basically an adapter and they’re doing it for the reason that they can mock something that they control as oppose to something that they don’t. But if you flip that around, it can also be basically Gary’s idea of the imperative shell.
+
+<strong>AVDI</strong>: Also, I don’t know if you have gotten this far into the book but they also more explicitly get into the actual structure of objects themselves. Basically, they talked about having an imperative API and functional innards.
+
+<strong>GARY</strong>: I have not gotten that far. I did not realize that.
+
+<strong>JAMES</strong>: That’s true. They do kind of bring that up at one point at how having some functional behaviors in the core makes it easier to control and reason about. That’s a good point.
+
+<strong>GARY</strong>: I think that, so something Josh.  Josh, you were talking about, I forget the person’s name but that’s somebody’s book that you were reviewing.
+
+<strong>CHUCK:</strong> Sandy Metz.
+
+<strong>GARY</strong>: Sandy Metz, right. And you mentioned that you, you said that that book talks about interfaces basically, right? Or it focuses on interfaces a bit.
+
+<strong>JOSH</strong>: I don’t think I said interfaces. I think she talks about the point of objected design being setting yourself up for being able to adapt in the face of change.
+
+<strong>GARY</strong>: Okay, I’m sorry. So what I was saying was my imprints from that which is, if you’re doing GOOS style OO, the interfaces are the mechanism by which you’re setting yourself up for change. Not interface in the job assessment but interface in the sense of the boundaries between objects. That is the fundamental reason that I’m doing this as well because either passing value, value in/value out, or, doing GOOS style outside in mocking, both of those are mechanisms for focusing on the interface between the objects. And I think this exactly what the functional people have been doing when they say smart data structures and stupid functions. I think that that is another way of focusing on the interface between things so that the things themselves can vary independently. I have a feeling these are all sort of different ways of expressing the same idea and it’s probably a very fundamental, maybe the most fundamental part of software maintenance.
+
+<strong>JOSH:</strong> Well, there has certainly been a number of languages design that focused on the interface and put a lot of mechanism and structure around, characterizing the interface in a useful way. Zurich said this language called Mesa, which had this really formal interface thing. It wasn’t really that much different from C Header files except that they were compiled separately. So you could actually decouple the implementation and the interface and drop in a different implementation and none of the dependent modules would ever have to be recompiled. So there was the first time I saw it in a very structured way. So, yes, people have put in a lot energy focusing on the interface as focusing on that part of the system. So yeah, I think I agree that that’s a big important part of things.
+
+<strong>AVDI</strong>: So what’s a good brain-teaser? Like if somebody was to listen to this and then want to play with these ideas on their own. What’s a good quota to start with, trying to do such and so, only doing it without any mutable internals. Do you have ideas?
+
+<strong>GARY</strong>: A project I used in the screencast was a Twitter client and I think that is close to an ideal example because I think you said Avdi, is a single direction of dataflow throughout the system. So keystrokes come in. You make decisions and screen goes out. And there’s also networking disc but it’s pretty much unit directional. And also, we haven’t talked about this at all but my Twitter client has several threads going in any given time and I built a very small library just for the fun of it. It’s about 40 lines, I want to say of Ruby. That is another topic that where having all these values is wonderful. Because you can pass one of these values into a thread and they’re all immutable, so you don’t even have to copy it. You just hand the other thread a reference to your object and you know that that thread is not going to do anything bad to you because it can’t because the value’s immutable. A twitter client involves generally a few threads. It’s mostly unit-directional dataflow. It’s a really good example and it’s also a wonderful opportunity for you to manually implement VT100 character codes for the color and positioning, which I highly recommend as an exercise. Because I have realized through writing this Twitter client, I’m totally going to digress here, but I’ve realized that people think that cursors is a special thing, like it does something special. But all cursors does is print VT100 or VT220 or whatever terminal escape codes to standard out. That’s all it really does, there’s no magic there. Anyway, end of digression.
+
+<strong>JAMES</strong>: That’s hilarious.
+
+<strong>JOSH:</strong> I did say that this episode was going to be about ADD. [laughter]
+
+<strong>DAVID</strong>: I just snuck out of a 20 person meeting to be here and I am over, over medicated, which is why I have not been jumping in at every other sentence.
+
+<strong>JAMES</strong>: That point what you’re talking about, about the threading, actually comes up in GOOS as it goes on as well. And their example, they’re building an “auction sniper” and an auction-sniping application. And so they’re dealing with this auction API which is basically XMPP and it’s got its own threading for that and then they’re using Swing, Java Swing for the Gooey, which of course has its own threading and stuff. And they do talk about the value of being able to hand it immutable objects. But I definitely agree with you on that point.
+
+<strong>GARY</strong>: Yeah, it’s a huge win. I don’t know if this is the reason that Erlang is a functional language, but I think it’s one of the big ones. When you do it in-process send, they can just copy the object to the other process. And when they say process, sometimes they mean thread. Well, really they mean thread. Because everything is immutable, they could just copy the references to the values around, sort of deep-copying. It’s a huge performance win for any threaded system.
+
+<strong>JAMES</strong>: Right. It’s quite interesting ideas. It’s interesting the way as separate groups of all these seem to be closing in on this kind of similar ideas. It’s interesting to see that happen.
+
+<strong>JOSH</strong>: And of course, Clojure’s at the middle of it. …all those stuff baked right into it. And I don’t even like Clojure but I like almost every idea in it.
+
+<strong>CHUCK:</strong> Right.
+
+<strong>AVDI</strong>: I’m just waiting for somebody to implement C-- on closure just to make Rich Hickey’s head explode.
+
+<strong>JOSH</strong>: Gary, have you read like the early history of small talk papers?
+
+<strong>GARY</strong>: I have not. No.
+
+<strong>JOSH</strong>: If you go like to smalltalk.org, they have history papers you can read. You know like Alan Kay’s writing about the original stuff. And they talked about the relationship of Smalltalk to the Actor model and then from there, you can learn how it evolved up into Erlang. It’s interesting how at its core, object orientation and functional programming are so similar and yet so different. We talked about this a bit recently when we had Michael feathers on and talking about if this is functional, but you are calling Erlang a functional language and that’s like a whole other conversation. But I find that, you know, people look at Erlang and they think it is functional and I look at it as extremely object oriented. I haven’t done a ton in Erlang and that’s probably not a fair way to think of it.
+
+<strong>GARY</strong>: Erlang sort of embodies this distinction that we’ve been talking about the whole episode. Within a single running actor, it is a functional language. Functions call other functions, they return values with pattern-matching but between the processes, between the actors, that looks quite a bit like an OO system although they don’t have methods. Although, usually they re-implement methods in like every single Actor basically by doing tags to poles. Yeah, I think that Erlang sort of embodies it and it’s old. It’s not new. There’s nothing new about this. We’re just, as usual in this industry, rediscovering things over and over again and we think they’re new.
+
+<strong>JOSH</strong>: Everything old is new again.
+
+<strong>JAMES</strong>: I think it’s interesting knowing in the newer form that we seem to be finding that OO and functional programming can play well with the other. You know in certain context and that there are things they excel at. The whole article about functional below and object orientation on top, that kind of things used to be re-growing pattern this time around.
+
+<strong>CHUCK:</strong> Yeah. It’s kind of funny to me how for a while I was like functional or OO and now it’s kind of the interesting blend that we see. And how some of the functional features that we see implemented in our object oriented languages make it more powerful and don’t really detract from it.
+
+<strong>GARY</strong>: Although, I do have to say that what I’ve been advocating is good OO design for a few years now is really not OO. I mean when I advocate services and values as your primary design mechanisms, that is not OO. It’s not the OO that Alan Kay was talking about for sure, no more than C++ is.
+
+<strong>CHUCK</strong>: What is it then? What would you call it?
+
+<strong>GARY</strong>: I don’t know, just imperative programming with basis.
+
+<strong>JOSH</strong>: I think programming style is often much more interesting that the language that you’re programming in. And I said for a long time, although maybe not recently, that I can do object-oriented programming in almost any language. I can write object oriented code in assembly the language, by just controlling how I’m approaching problem.
+
+<strong>GARY</strong>: Yeah, absolutely.
+
+<strong>JOSH</strong>: And I’ve seen a lot of FORTRAN in Smalltalk. So the language can definitely help support a particular style of programming and the converse. It can also interfere with putting yourself in programming. But the style of programming and the kind of abstractions that you’re using are really what’s important and we’ve been finding that object oriented programming for a long time with all of these design patterns now which were really about what’s your programming style, what’s the kind of abstractions you’re using to characterize your problems.
+
+<strong>GARY</strong>: Right.
+
+<strong>JAMES</strong>: I would say that, Gary, the thing you’ve been showing over and over again with Destroy All Software, the whole services and values, maybe not traditional I would say it’s becoming the popular style of OO although, it’s very much advocated in GOOS. They call services, ‘services’ but it’s the same thing and they call value objects, ‘values’. They’re definitely using the same approach.
+
+<strong>CHUCK:</strong> Alright, well we’re hitting close to picks. So are there any other topics we need to go over before we get in to that?
+
+<strong>DAVID</strong>: I do have a question. Gary, do you ever run into a problem when you start your roundtrip? Where you pull this object from somewhere (but secretly we know it’s a database) and you modify it, which means you copy it, and then somebody else you hand it down the chain, they modify it and they copy it. Meanwhile, Janet has loaded the same object and she started modifying it. This is the central problem of Couch TV. At some point both of you are going to want to save your updated copy of that object. Does the whole thing fall apart at that point? Or do you have to have a really, really clever merge strategy, or what?
+
+<strong>GARY</strong>: Well, let me answer your question with the description of a very hypothetical world, a world which may exist in certain Haskell programs. A controller in the MVC sense, is a function that takes an HTTP request and a state of the database and returns an HTTP response and a set of objects that were modified that should be written. And if you think of the top level in that way, assuming that the controller is your conceptual top level of program, then all the code you call can do whatever it wants and just keep returning, returning, returning new versions of database records. And then the level above the controller, which could be the imperative shell, can merge that into the database and commit them all. I don’t know if that actually answers your question, but that is one of the examples that I use because I think you think about mutating a thing and saving it. But really it’s a value that exists at the end of the request when the transactions committed, that’s when you want to change the database.
+
+<strong>JAMES</strong>: There’s actually a really good series of episodes in <em>Destroy All Software</em> not too long back where Gary re-implemented Sucks/Rocks and as a Rails application. And it’s a really neat series to go watch for what you were just talking about David and that like; he goes a long time before he even introduces Rails at all. And when he does introduce Rails, finally it’s mainly as a persistence layer also as a display layer. But what he does with ActiveRecord’s really cool and that he only like defines 2 class methods on the model and they’re basically like, “Go get me this and go put this back in the database.“ And so like a beginning of a request he uses the “Go get me this.” and then at the end of the request, it’s like “Go get this back and go shove this back in the database.”, that kind of thing. It’s very interesting where you think about that.
+
+<strong>CHUCK:</strong> Yeah. I think I’m finally going to sign up for <em>Destroy All Software</em>.
+
+<strong>DAVID</strong>: You should. It’s freakin’ awesome.
+
+<strong>JAMES</strong>: Yeah. It’s absolutely, I can’t recommend it enough. The amount of stuff I’ve learned from it. Gary talked a lot about his main threads in it but on his unit side, he shows show shell scripting which is just absolutely phenomenal. I’ve learned so many tricks from his shell scripting, Vim usage, I’m not even a Vim user and I enjoy watching that kind of stuff. Git, he shows a lot of things about Git especially if you want to get into messing around different going back through your history and finding out things about your repository and stuff like that. It’s very interesting. It’s very educational.
+
+<strong>DAVID</strong>: I’ve mentioned this before but I’m working with a .NET refugees that are new to Ruby and we’re using RSpec and they’re like, “This is just blowing my mind that you can call your methods on integers and RSpec is this intimately deep thing of magic.” and I’m like, “No, it’s not. You can write RSpec in 15 minutes. Well, Gary can. Here, watch.” And when it was over, there was not a chin that was not lying slack on its owner’s chest. They were like, “Holy freaking crap!” and I’m like, “Yup. Ruby’s that awesome and Gary’s that smart.” And RSpec is no longer that scary.
+
+<strong>CHUCK:</strong> Nice. Alright, well let’s get into the picks. James, do you want to start us off?
+
+<strong>JAMES</strong>: Okay, I’ll do it. I only have one pick this time because it’s so colossally important. I just discovered Katrina Owen’s talk on <em>Therapeutic Refactoring</em> from Scottish Ruby Conf.
+
+<strong>AVDI</strong>: (Pick thief! Pick thief!)
+
+<strong>JAMES</strong>: Pick thief? (laughs) Yey for Chuck for letting me go first!
+
+<strong>CHUCK:</strong> Avdi, what are your picks? [laughter]
+
+<strong>JAMES</strong>: This time is absolutely sensational like I would almost argue but it’s maybe THE ideal refactoring talk and you would have a hard time producing a better one. And we’re getting the why of all that because I liked it so much, I asked Katrina to be on the show and she’s going to be here in 2 weeks. So you absolutely must go watch this talk. It is just sensational. It’s really, really great. So go watch it and then we’ll to her in 2 weeks and talk about how cool it is.
+
+<strong>CHUCK:</strong> Nice. Alright Avdi, what are your picks?
+
+<strong>AVDI</strong>: I’m going to go ahead and reiterate that anyway. I just watched that talk last night and it is nothing short of sublime. Not just for the information presented but for the flow of it. It frankly gave me an inferiority complex as a presenter. It’s one of those talks that it’s just a joy to watch. I mean you can just sit back and just kind of grin your way through it because every part, every moment of it is just pleasurable. If you’ve dealt with any kind of refactoring credit code at all, it’s just so much fun to watch. Let’s see, another code oriented pick. Now where did it go? I had this up. Quick! Somebody else do a pick. I need to find this again.
+
+<strong>CHUCK:</strong> Alright.
+
+<strong>DAVID</strong>: Chuck, I’ve actually got to get back to my lunch hours back up. Can I go next?
+
+<strong>CHUCK:</strong> Yes.
+
+<strong>DAVID</strong>: Okay, I have one pick and it’s going to be fast because I have to drop off the call in about 60 seconds. charitynavigator.org, we got a phone call last week from some agency that was helping battered women and finding missing children. And they were like, “Can we count on you for a donation?” and this was like, “Well, I guess so.”, she’s like, “No! I need a commitment from you because it costs us to send you the mailer.” And this was like, “Okay. I’ll send you $20 I guess.” So they mailed out this thing. In the meanwhile, we kind of scratch our heads and said, “That was kind of a weird phone call.” So the envelope arrives and it looks very legitimate. I Googled for: is there a way to check out a charity? And like the first hit was charitynavigator.org. We typed in the name of the charity and it turns out that 100% of their expenses go to funding the charity and charity operations. None of their money actually goes to finding missing children. So we gave our $20 to a nationally accredited and transparent missing children’s foundation. So that’s my pick. It’s charitynavigator.org. It’s awesome. Basically if you like a charity and you want to find out; basically they show the financial transparency and the efficiency of the organization. So you can see how much of your money goes to actually doing what you want that charity to do and you can see how much they’re lying about their reports or how much they’re covering up their reports. It’s pretty awesome.
+
+<strong>CHUCK:</strong> Nice. Alright, cool. Josh, what are your picks?
+
+<strong>JOSH</strong>:  I have like 6 or 7 written down here but I’m not going to do them all today. I’ll save some for next week. Okay, so my first pick is an iPhone app from some classmates of mine from Rock Health. They are called Cardiio. So, they have this cool iPhone app that lets you check your pulse, measure your heart rate just by holding the phone and it uses the front-facing camera to do some like visual processing of your… It can actually see the blood flow patterns in your face by using certain wavelengths of light. And one of the founders of Cardiio was in MIT and did all this research in the lab there and figured out how to do this. So it’s like real science. It’s not a toy. They’re going to eventually be expanding the app to do all sorts of other things like blood oxygenation and blood pressure and various things like that. So it’s eventually going to be like a medical tricorder.
+
+<strong>DAVID</strong>: Yeah, tricorders are coming. Wow! [laughter]
+
+<strong>JOSH</strong>: So right now you can download it from the iTunes store. It’s $5 and if you think of that compared to, if you have to go by an actual device to measure your pulse rate, it’s a good buy. And it’s just like really great to use. You can show this somebody in a bar and they will be like… People react in very funny ways to this. It’s pretty cool and the promise of the future is just amazing. So it’s worth it just for that.
+
+<strong>CHUCK:</strong> I don’t have to get a Star Trek soundboard for the show.
+
+<strong>JOSH</strong>: And then the other thing I learned about recently is somebody is still saying Ruby Conf got presented about this and I feel really bad that I am blanking on his name at the moment. It’s called GitTip. So if you go to gittip.com, it’s a way that you can tip people in the open source community and thank them for their efforts. As an experiment, I threw up a profile there and I’m now making $5 a week from people who are expressing their thanks and support for me doing stuff like Ruby Rogues and running a conference and all that other stuff I don’t make money on.
+
+<strong>CHUCK:</strong> I think most of us signed up for that, I know James did and I did.
+
+<strong>JOSH</strong>: Yeah. I think that it’s an interesting experiment. It’s only been around for I think about a month and we’ll see where it goes. But it’s worth checking out.
+
+<strong>DAVID</strong>: Can they go negative? Like if I sign up, am I going to end up having to pay $400 a week?
+
+<strong>JAMES</strong>: Take money away. [laughter]
+
+<strong>CHUCK:</strong> That’s right Dave, we’re going to suck you dry.
+
+<strong>DAVID</strong>: Well, there’s karma to consider is what I’m asking.
+
+<strong>CHUCK:</strong> Are you afraid of karma?
+
+<strong>DAVID</strong>: I’ve long learned to be afraid of karma. Terrified. Because I deserve it.
+
+<strong>AVDI</strong>: I just want to say that 100% of my GitTips go towards finding missing children. It’s just that you might need to know that the missing children in question are mine who have wandered off into the backyard. [laughter]
+
+<strong>JAMES</strong>: That’s it. I’m donating it to Avdi price now.
+
+<strong>AVDI</strong>: I actually have bragged about the Normal Homeless Dave’s Foundation which is a codename for “I’m spending all this money on me”.
+
+<strong>JOSH</strong>: Sound like red-headed league.
+
+<strong>DAVID</strong>: Kind of, only the Normal Homeless Dave’s Foundation is specifically dedicated to paying my rent.
+
+<strong>JAMES</strong>: Plus he was bald so the red-headed thing didn’t work for him.
+
+<strong>JOSH</strong>: You have a degree in creative accounting.
+
+<strong>AVDI</strong>: Yes.
+
+<strong>JOSH</strong>: I have one last pick and that’s kind of quick and that’s Alfred. Alfred is like Launchbar or Quicksilver or any of those application launchers. I’ve used all of them and I like Alfred the best and somebody mentioned, I think @tenderlove is complaining about how slow Launchbar is to startup and that’s exactly the reason that I switched from Launchbar to Alfred. It’s a lot snappier. There’s a version of it that does everything I need and then they have a paid power-pack or something that lets you do a lot more innovation with your system and have a lot more functionality. So Alfred is pretty nice and it’s worth checking out. That’s enough for me today. I’m saving some for next week.
+
+<strong>DAVID</strong>: Actually Josh, I have a question for you. I’m still using Quicksilver which hasn’t been updated like in 28 years and I’ve tried Launchbar, hated it. I’ve tried going back to SpotLight that obviously didn’t work. I haven’t considered Alfred, should I?
+
+<strong>JAMES</strong>: Yes.
+
+<strong>JOSH</strong>: That’s why I just picked it man! [laughter]
+
+<strong>DAVID</strong>: Let me rephrase the question. My return type is not Boolean so let me rephrase the question to, can you compare and contrast and say why Alfred is better?
+
+<strong>JOSH</strong>: Quicksilver had a lot of instability at one point. So I have gone Launchbar to Quicksilver because Launchbar was unstable at one of the system updates. And I used Quicksilver for a while but then it got really unstable and it was crashing my system. Like literally, my system would just blue screen of death or cord up or something. I stopped using Quicksilver and that problem went away. I think the problems with Quicksilver, I don’t know if they already got solved.
+
+<strong>DAVID</strong>: See, I have no problems with it which is why I’m still on it. Works on my machine.
+
+<strong>JOSH</strong>: If it ain’t broke, don’t fix it.
+
+<strong>JAMES</strong>: Quicksilver was really the best buy in my opinion, the way it was built and design. Launchbar was really inconsistent in my opinion with its interface and stuff like that. Alfred was really minimal when it came out. So I liked it kind of like Quicksilver but it was minimal and it didn’t do enough of what I used up for. But as they updated it and grown it, it’s really grown into like this awesome system. So now, I think Alfred is about as cool as Quicksilver in its usage and like Josh, I have tons of problems once it was… before Lion, there was Snow Leopard that began to have tons of problems with Quicksilver.
+
+<strong>DAVID</strong>: Does it have big text mode?
+
+<strong>JAMES</strong>: Yes. You can do fullscreen test.
+
+<strong>DAVID</strong>: Okay. Alright, I’ll look at it.
+
+<strong>CHUCK:</strong> Avdi, did you find what you’re looking for?
+
+<strong>AVDI</strong>: I did. I did. So there’s a new article up by Jim Gay called “<em>The Gang of Four is Wrong and You Don’t Understand Delegation</em>”. It’s a nice provocative title and I’ll be honest, I’ve only skimmed in at this point but I think there’s some good stuff in there. I think delegation is a topic that‘s near and dear to me and it hasn’t been as well served as it could be in the Ruby community because I think we’ve, as he points out we’ve only got some sort of a couple of barebones mechanisms for it but there’s kind of a bigger world of delegation out there that’d be nice to explore a bit more. So probably worth a read and I think I’ll do a booze pick as well. This is a beer pick and it’s not one of my obscure Pennsylvania beers this time. This one actually has pretty wide distribution. It’s Stone IPA. It was International IPA Day a few weeks ago and my local beer store did an IPA tasting and the Stone IPA was the real standout for me. We also tried the Stone Ruination IPA which is also good but for like an everyday IPA, I think I actually preferred the regular Stone IPA. So as IPAs go, it’s about as good as it gets or at least as close as I’ve tasted.
+
+<strong>CHUCK:</strong> Awesome. Alright, I’m going to jump in with a couple of picks of shows that I’ve been watching off of Netflix. One is, and this is an old show that was on when I was in high school and I never got really into it. I’m going to give you kind of some background here. Anyway, Dave Brady talked to me into checking out Firefly when I was working with him. So I checked it out and I really liked it and then I got into some of the other stuff that Josh Whedon did. I was talking to some folks quite a while back and they were saying, “Well yeah! You know Josh Whedon did all these stuff including Buffy the Vampire Slayer.” And I was like, “Wasn’t that kind of dumb show?” but I never really watched it. So I finally decided to check it out and I’m about halfway through Season 2 right now. That’s one pick is Buffy the Vampire Slayer. I have not seen the movie.
+
+<strong>JOSH</strong>: Don’t watch the movie.
+
+<strong>CHUCK:</strong> Don’t watch the movie? Not worth it?
+
+<strong>JOSH</strong>: It’s basically insanity. It has nothing to do with the TV show.
+
+<strong>AVDI</strong>: It’s unrelated.
+
+<strong>JOSH</strong>: I like the movie but it’s two different things.
+
+<strong>JAMES</strong>: I like it too but it took a very different approach. It’s not the same thing.
+
+<strong>AVDI</strong>: The movie was basically somebody took Josh Whedon’s idea and wrote a one-off movie about it and then eventually he got to take the idea back and make an actual show.
+
+<strong>JOSH</strong>: Yeah, he’s disowned the movie. Apparently like Donald Sutherland destroyed the movie.
+
+<strong>CHUCK:</strong> I’m trying to decide if I want to ‘cause I that they spun off Angel and I’m trying to decide if I want to watch the 2 concurrently, you know, is they were released or not.
+
+<strong>JOSH</strong>: You actually need to do that. When The Angel show came out, there were some storylines that crossed over.
+
+<strong>DAVID</strong>: Actually, if you’re watching them on DVD, whatever the crossovers happen, they include the crossover episode. So we actually straight to Buffy and then straight to Angel and it actually made sense. There were some points that we were like, “What was that? Why are they calling that girl Fred?” kind of moments, but they include the Angel bits in Buffy and then when you get to that part in Angel, they include that Buffy episode. So it makes sense.
+
+<strong>JOSH</strong>: That must be a different DVD release than I have.
+
+<strong>CHUCK:</strong> Yeah, I’m watching them on Netflix. We’ll see.
+
+<strong>DAVID</strong>: You’re screwed.
+
+<strong>CHUCK:</strong> Anyway, the other show is, it’s Bones. My wife and I, we kind of like the crime drama show and that one’s kind of got some interesting storylines running through it. But at the same time, each one has its own little mystery. You can watch each episode and you might miss some of the character interactions but you can follow the show. We’ve really been enjoying that. So if we just want to do something kind of low-key that we’re not going out to do something, then a lot of times we’ll just watch Bones. And both of those are found on Netflix. Gary, what are your picks?
+
+<strong>DAVID</strong>: Actually guys, my team is coming back in so I got to drop off.
+
+<strong>CHUCK:</strong> Okay.
+
+<strong>DAVID</strong>: Love you. Bye.
+
+<strong>J</strong><strong>OSH</strong>: Call me. [laughter]
+
+<strong>JOSH</strong>: Gary, can you recover from this?
+
+<strong>GARY</strong>: I’ll do my best. I have 2 picks. The first is something I mentioned earlier which is VT100 Escape Codes. I want you to go implement them from scratch. They’re so easy and you will understand how the terminal works. It’s how everything works. Its how like Vim and Emacs draw themselves on the screen. So we’ll put a link to like a reference document for that. But like if you want to set the color to green, you just emit character 27 I think which is escape and then left bracket, and then the number 32 or character 32, semicolon M. like it’s really easy to do these things and it’s all cursors does. And my second pick is, I’m actually going to, I’m working on maybe possibly organizing a conference. That’s going to be called “An Conference”, line the article “an”. Just before this podcast, I registered anconf.com and anconference.com, so that if I mention it no one would squab them. So please come to that one, appendices is going to be awesome. All the speakers are going to be handpicked by me for speaking ability, not for like it’s a Ruby guy or something like that. So those are my 2 picks.
+
+<strong>JOSH</strong>: So you’ll sound hoity toity if you use the term ‘curated’.
+
+<strong>GARY</strong>: I actually, intentionally did not do that. I think I did that on the pre-conference chatter or the pre-podcast chatter.
+
+<strong>JOSH</strong>: Okay, well so you can be the man of the people now.
+
+<strong>GARY</strong>: Yes, I can pretend.
+
+<strong>CHUCK:</strong> Alright, let’s go ahead and wrap this up. Like James said earlier, next week we’re going to be talking to the authors of “<em>Growing Object Oriented Software Guided by Tests</em>” and you can go sign up for Ruby Rogues Parlay on the Ruby Rogues website, rubyrogues.com and that’s also where you can get the show notes. Are there any other announcements or things that we want to bring up before we wrap this up?
+
+<strong>JAMES</strong>: Just want to say thanks to Gary for coming and doing this. He had to wake up early.
+
+<strong>AVDI</strong>: Yeah, thanks a lot.
+
+<strong>JOSH</strong>: Thanks Gary. I feel all your pain.
+
+<strong>CHUCK:</strong> Alright. Well, we’ll catch you all later. Looking forward to that episode next week.

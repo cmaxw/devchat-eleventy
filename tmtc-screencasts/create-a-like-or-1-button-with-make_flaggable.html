@@ -1,0 +1,39 @@
+---
+layout: layouts/post.njk
+title: >
+      Create a 'Like' or '+1' button with make_flaggable
+date: 2011-07-15 01:32:26
+episode_number: 
+duration: 
+audio_url: 
+tags: tmtc-screencasts
+---
+
+<iframe src="http://www.youtube.com/embed/GG-kCSx0taU" frameborder="0" width="560" height="349"></iframe>
+
+With the recent release of the Google Plus beta (ask me for an invite if you want one), I felt it appropriate to show a simple way to create a Like or +1 button for your Rails application. The app and concept is pretty simple, so I won't worry about posting the code below.
+
+<strong>Install</strong><strong>:</strong>
+<pre>gem 'make_flaggable', :git =&gt; 'git://github.com/cavneb/make_flaggable.git'
+bundle install
+rails generate make_flaggable
+rake db:migrate</pre>
+<strong>Models:</strong>
+<pre>class Article &lt; ActiveRecord::Base
+  make_flaggable :like
+end
+
+class User &lt; ActiveRecord::Base
+  make_flagger
+end</pre>
+<strong>Links:</strong>
+
+<a href="https://github.com/medihack/make_flaggable" target="_blank">https://github.com/medihack/make_flaggable</a><a href="https://github.com/cavneb/make_flaggable" target="_blank">
+https://github.com/cavneb/make_flaggable</a>
+
+<a href="http://traffic.libsyn.com/tmtc/make_flaggable.mov">Download</a> 93.4 MB
+<a href="http://traffic.libsyn.com/tmtc/make_flaggable_-_iPhone.m4v">Download (iPod &amp; iPhone)</a> 43.9 MB
+
+<h3>Transcript</h3>
+
+

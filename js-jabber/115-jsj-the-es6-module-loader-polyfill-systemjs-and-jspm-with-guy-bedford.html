@@ -1,0 +1,529 @@
+---
+layout: layouts/post.njk
+title: >
+      115 JSJ The ES6 Module Loader Polyfill, SystemJS, and jspm with Guy Bedford
+date: 2014-07-02 13:00:00
+episode_number: 115
+duration: 
+audio_url: https://media.devchat.tv/js-jabber/JSJ115ES6Modules.mp3
+tags: js-jabber
+---
+
+<h3>Panel</h3>
+<ul>
+ 	<li>Guy Bedford (<a href="https://twitter.com/guybedford" data-cke-saved-href="https://twitter.com/guybedford">twitter</a> <a href="https://github.com/guybedford" data-cke-saved-href="https://github.com/guybedford">github</a> <a href="http://guybedford.com/" data-cke-saved-href="http://guybedford.com/">blog</a>)</li>
+ 	<li>Jamison Dance (<a href="http://twitter.com/jergason" data-cke-saved-href="http://twitter.com/jergason">twitter</a> <a href="https://github.com/jergason" data-cke-saved-href="https://github.com/jergason">github</a> <a href="http://jamisondance.com/" data-cke-saved-href="http://jamisondance.com/">blog</a>)</li>
+ 	<li>AJ O’Neal (<a href="https://twitter.com/coolaj86" data-cke-saved-href="https://twitter.com/coolaj86">twitter</a> <a href="https://github.com/coolaj86/" data-cke-saved-href="https://github.com/coolaj86/">github</a> <a href="http://blog.coolaj86.com/" data-cke-saved-href="http://blog.coolaj86.com/">blog</a> <a href="http://youtube.com/coolaj86" data-cke-saved-href="http://youtube.com/coolaj86">youtube</a>)</li>
+ 	<li>Joe Eames (<a href="http://twitter.com/josepheames" data-cke-saved-href="http://twitter.com/josepheames">twitter</a> <a href="https://github.com/joeeames" data-cke-saved-href="https://github.com/joeeames">github</a> <a href="http://www.testdrivenjs.com/" data-cke-saved-href="http://www.testdrivenjs.com/">blog</a>)</li>
+ 	<li>Charles Max Wood (<a href="https://twitter.com/cmaxw" data-cke-saved-href="https://twitter.com/cmaxw">twitter</a> <a href="http://blog.coolaj86.com/" data-cke-saved-href="http://blog.coolaj86.com/">git</a><a href="https://github.com/cmaxw" data-cke-saved-href="https://github.com/cmaxw">h</a><a href="http://youtube.com/coolaj86" data-cke-saved-href="http://youtube.com/coolaj86">ub</a> <a href="http://youtube.com/coolaj86" data-cke-saved-href="http://youtube.com/coolaj86">Teac</a><a href="http://teachmetocode.com/" data-cke-saved-href="http://teachmetocode.com/">h Me To Code</a> <a href="http://railsrampup.com/" data-cke-saved-href="http://railsrampup.com/">Rails Ramp Up</a>)</li>
+</ul>
+<h3>Discussion</h3>
+01:35 - Guy Bedford Introduction
+<ul>
+ 	<li><a href="https://github.com/ModuleLoader/es6-module-loader" data-cke-saved-href="https://github.com/ModuleLoader/es6-module-loader">es6-module-loader</a></li>
+ 	<li><a href="https://github.com/systemjs/systemjs" data-cke-saved-href="https://github.com/systemjs/systemjs">systemjs</a></li>
+ 	<li><a href="http://jspm.io/" data-cke-saved-href="http://jspm.io/">jspm.io</a></li>
+</ul>
+02:03 - Managing Modules in the Browser
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/Asynchronous_module_definition" data-cke-saved-href="http://en.wikipedia.org/wiki/Asynchronous_module_definition">AMD Modules</a></li>
+</ul>
+03:40 - Writing/Enabling Code 04:18 - Changing/Building Applications 05:25 - <a href="https://github.com/jgable/es6-module-loader" data-cke-saved-href="https://github.com/jgable/es6-module-loader">ES6 Module Loader Polyfill</a>
+<ul>
+ 	<li><a href="https://www.npmjs.org/package/es6-module-loader" data-cke-saved-href="https://www.npmjs.org/package/es6-module-loader">ES6 Module Loader</a></li>
+ 	<li><a href="http://jquery.com/" data-cke-saved-href="http://jquery.com/">JQuery</a></li>
+ 	<li><a href="https://www.youtube.com/watch?v=MXzQP38mdnE" data-cke-saved-href="https://www.youtube.com/watch?v=MXzQP38mdnE">Guy Bedford at MountainWest 2014</a></li>
+ 	<li><a href="http://mtnwestjs.org/2014/sessions" data-cke-saved-href="http://mtnwestjs.org/2014/sessions">MountainWest Official Site</a></li>
+</ul>
+10:07 - Separate Requests/Bundling 12:07 - Global Scripts
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/HTTP_2.0" data-cke-saved-href="http://en.wikipedia.org/wiki/HTTP_2.0">HTTP 2.0</a></li>
+ 	<li><a href="http://msdn.microsoft.com/en-us/library/ff921095.aspx" data-cke-saved-href="http://msdn.microsoft.com/en-us/library/ff921095.aspx">Dynamic Module Loading</a></li>
+ 	<li><a href="http://en.wikipedia.org/wiki/SPDY" data-cke-saved-href="http://en.wikipedia.org/wiki/SPDY">SPDY</a></li>
+ 	<li><a href="http://chimera.labs.oreilly.com/books/1230000000545" data-cke-saved-href="http://chimera.labs.oreilly.com/books/1230000000545">High Performance Browser Networking by Ilya Grigorik</a></li>
+</ul>
+18:18 - Benefits of Modules 20:16 - JSPM
+<ul>
+ 	<li><a href="http://pantsbuild.github.io/3rdparty.html" data-cke-saved-href="http://pantsbuild.github.io/3rdparty.html">Third Party Code Dependencies</a></li>
+</ul>
+22:27 -<a href="http://www.2ality.com/2014/06/es6-schedule.html" data-cke-saved-href="http://www.2ality.com/2014/06/es6-schedule.html">The ECMAScript 6 schedule changes</a> 27:01 - ES6 vs. js/AMD 30:10 - Future 32:05 - Getting Involved
+<ul>
+ 	<li><a href="http://square.github.io/es6-module-transpiler/" data-cke-saved-href="http://square.github.io/es6-module-transpiler/">ES6 module transpiler</a></li>
+ 	<li><a href="http://www.slideshare.net/BrendanEich/esnext" data-cke-saved-href="http://www.slideshare.net/BrendanEich/esnext">es.next Project</a></li>
+ 	<li><a href="https://www.youtube.com/watch?v=u4IdoBU1uKE" data-cke-saved-href="https://www.youtube.com/watch?v=u4IdoBU1uKE">Dave Herman at YUI Conference</a></li>
+ 	<li><a href="https://github.com/google/traceur-compiler" data-cke-saved-href="https://github.com/google/traceur-compiler">traceur-compiler</a></li>
+</ul>
+<h3>Picks</h3>
+<ul>
+ 	<li><a href="https://itunes.apple.com/us/app/xcom-enemy-unknown/id639544885?mt=8" data-cke-saved-href="https://itunes.apple.com/us/app/xcom-enemy-unknown/id639544885?mt=8">XCOM®: Enemy Unknown</a> (Jamison)</li>
+ 	<li><a href="http://carlos.bueno.org/2014/06/mirrortocracy.html" data-cke-saved-href="http://carlos.bueno.org/2014/06/mirrortocracy.html">Inside the Mirrortocracy</a> (Jamsion)</li>
+ 	<li><a href="http://mailgun.com/" data-cke-saved-href="http://mailgun.com">Mailgun</a> (AJ)</li>
+ 	<li><a href="http://stripe.com/" data-cke-saved-href="http://stripe.com">Stripe</a> (AJ)</li>
+ 	<li><a href="http://www.imdb.com/title/tt1840309/" data-cke-saved-href="http://www.imdb.com/title/tt1840309/">Divergent</a> (AJ)</li>
+ 	<li><a href="http://getkanban.com/BoardGame.html" data-cke-saved-href="http://getkanban.com/BoardGame.html">getKanban.com</a> (Chuck)</li>
+ 	<li><a href="http://www.ussoccer.com/" data-cke-saved-href="http://www.ussoccer.com/">U.S. Soccer</a> (Joe)</li>
+ 	<li><a href="http://boardgamegeek.com/boardgame/120814/off-your-rocker" data-cke-saved-href="http://boardgamegeek.com/boardgame/120814/off-your-rocker">Off Your Rocker</a> (Joe)</li>
+ 	<li><a href="http://www.civilization.com/us/games/civilization-revolution-2/" data-cke-saved-href="http://www.civilization.com/us/games/civilization-revolution-2/">Civilization: Revolution 2</a> (Joe)</li>
+ 	<li><a href="http://www.jsdelivr.com/" data-cke-saved-href="http://www.jsdelivr.com/">jsDelivr</a> (Guy)</li>
+ 	<li><a href="https://github.com/indutny/bthread" data-cke-saved-href="https://github.com/indutny/bthread">bthread</a> (Guy)</li>
+</ul>
+<h3>Next Week</h3>
+jQuery UI vs KendoUI with Burke Holland and TJ VanToll
+
+<h3>Transcript</h3>
+
+<strong>JAMISON:  </strong>I like the idea of explaining, of dangling the carrot like, “This is what you could have.”
+
+<strong><em>[This episode is sponsored by Frontend Masters. They have a terrific lineup of live courses you can attend either online or in person. Their upcoming course is JS Framework Showdown with Brian Holt from reddit. You can also get recordings of their previous shows like JavaScript the Good Parts, AngularJS, CSS3 In-Depth, and Responsive Web Design. Get it all at FrontEndMasters.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by WatchMeCode. Have you been looking for regular high-quality video screencasts on building JavaScript done by someone who really understands JavaScript? Derick Bailey’s videos cover many of the topics we talk about on JavaScript Jabber and are up on the latest tools and tricks you need to write JavaScript. He also covers language fundamentals, so there’s plenty for everybody. Looking over the catalogue, I got really excited and I can’t wait to watch them all. Go check them out at JavaScriptJabber.com/WatchMeCode.]</em></strong>
+
+<strong><em>[This episode is sponsored by Component One, makers of Wijmo. If you need stunning UI elements or awesome graphs and charts, then go to Wijmo.com and check them out.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 115 of the JavaScript Jabber Show. This week on our panel, we have Jamison Dance.
+
+<strong>JAMISON:  </strong>Hello friends.
+
+<strong>CHUCK:  </strong>AJ O’Neal.
+
+<strong>AJ:  </strong>Yo, yo, yo, coming at you live from where I am.
+
+<strong>CHUCK:  </strong>Joe Eames.
+
+<strong>JOE:  </strong>Hey there.
+
+<strong>CHUCK:  </strong>I’m Charles Max Wood from DevChat.TV. And I have the recorder running this time. We also have a special guest this week and that’s Guy Bedford.
+
+<strong>GUY:  </strong>Hi everyone.
+
+<strong>CHUCK:  </strong>You want to introduce yourself really quickly?
+
+<strong>GUY:  </strong>Yeah, sure. I’m a web developer based in Cape Town, South Africa actually where I get to work on a travel website. But I really enjoy working with a lot of open source projects and have got quite involved in the open source community recently. In particular, projects I’ve been working on are the ES6 Module Loader Polyfill, SystemJS, and jspm. Yeah, so that’s it.
+
+<strong>CHUCK:  </strong>And those are all module libraries, right?
+
+<strong>GUY:  </strong>Yeah. They’re libraries focusing on very similar problems, which is dealing with how to manage modules in the browser. So, the ES6 Module Loader Polyfill provides ways with dealing with ES6 modules in the browser. But today, SystemJS builds on top of that making it more useful just like Polymer does for Web Components. And then jspm is a package manager for the browser looking at how we can tackle some of these package management problems.
+
+<strong>CHUCK:  </strong>Got it.
+
+<strong>JAMISON:  </strong>So, SystemJS is a library built on the idea of ES6 modules working in the browser. Is that a good summary?
+
+<strong>GUY:  </strong>Yeah, exactly.
+
+<strong>JAMISON:  </strong>I mean, would SystemJS exist if ES6 modules were shipped right now?
+
+<strong>GUY:  </strong>Yes, it builds directly on top of the Polyfill.
+
+<strong>JAMISON:  </strong>Okay.
+
+<strong>GUY:  </strong>So, if ES6 modules were in the browser, SystemJS sits just on top of them. And it basically adds things to make them useful, like loading AMD modules as well. So, it has a compatibility layer so you can also load AMD modules in the browser, load global modules with a shim, those kinds of ideas.
+
+<strong>JAMISON:  </strong>So…
+
+<strong>GUY:  </strong>This sort of, sorry, yeah?
+
+<strong>JAMISON:  </strong>I was just going to say, let’s say I am a web developer who has found one of the module systems out there like AMD or CommonJS with Browserify, or whatever, and I’m muddling my way through it. Why do I care about all this new stuff coming? Why do I care about ES6 or things built on top of it like SystemJS or jspm?
+
+<strong>GUY:  </strong>If you are currently dealing with AMD or CommonJS or something like that, it’s something that you should care about for the future. Right now in your projects, you probably want to stick with simple ways of doing things. And if you aren’t already interested in using ES6, it’s certainly something that’s worth thinking twice about. But the future we want to get to is one in which we have a module system for the browser that allows us to write code in the same way and share code written in similar ways, and to be able to load and build that code in similar ways. And without that, we’re going to continue to have a very fragmented environment, making it much more difficult to share code. So, it’s all about enabling code sharing and enabling strong conventions around how to work with modules. Module management is something every other language has. And we can only really get package management right for the browser once you’ve got a proper way of doing modules in the browser.
+
+<strong>CHUCK:  </strong>So, I’m curious. How do modules change the story of building applications in JavaScript going forward? Especially the ES6 module specifications.
+
+<strong>GUY:  </strong>So, do you mean in terms of how you approach the process of putting together an application?
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>GUY:  </strong>Or the actual build itself? Okay. I suppose the most important thing about modules is you want a way to just be able to require a component in your page. And it’s a problem that we all deal with in web development, is how do you properly isolate your views? And this is something that modules can potentially help with. Ideally, you’d have a world where you could just say, “I want to require this login form,” and then stick it into my page. And you would just be able to then use that functionality. And this is something Web Components work on as well. And we’re dealing with ways of making Web Components work with ES6 modules. But we’re all very much working on the same sort of problem, which is coming up with the work flows for how to make this stuff work easily in the browser.
+
+<strong>CHUCK:  </strong>Yeah, that makes sense.
+
+<strong>JAMISON:  </strong>So, do you want to talk a little bit more about each of those projects? The ES6 module polyfill?
+
+<strong>GUY:  </strong>Yes, ES6 Module Loader Polyfill.
+
+<strong>JAMES:  </strong>Okay. ES6 Module Loader Polyfill. What does that do?
+
+<strong>GUY:  </strong>Alright. So, the ES6 Module Loader Polyfill is exactly what it says it is. So, to explain that I suppose I should tell you what the ES6 Module Loader is. When you write module syntax in the browser, you’re writing in import statements. And that’s telling the browser to go off and fetch that module, execute it for you, and then run your code after it. For example, if I have a piece of code that’s dependent on jQuery, I want to write import jquery and then it’ll run that first before running my code.
+
+So, how does the browser do that? Well, it has its own module loader that will go and deal with this stuff. And this is a module loader that’s defined in JavaScript. So, it has a fetch function. It has a way to know where to find jQuery and these kinds of things. And this is all specified through the loader hooks of the module loader. So, the module loader polyfill basically was this exact same loader with the same hooks and the same functions as you would get in the browser when it’s implemented. Does that answer the question? I’m sorry.
+
+<strong>JAMISON:  </strong>Yeah, it does. So, that seems like a difficult thing to polyfill. It’s not, how do I explain it, it’s adding new semantics to JavaScript, not just new syntax, right? How do you polyfill something like that where you’re not just translating the source into some… I’m struggling to ask this question clearly.
+
+<strong>GUY:  </strong>Yeah, certainly. So…
+
+<strong>JAMISON:  </strong>Well, yeah. Do you want to sound off the question for me?
+
+[Chuckles]
+
+<strong>JAMISON:  </strong>Say the thing I was trying to ask. [Chuckles] And then answer it.
+
+<strong>GUY:  </strong>So yeah, obviously we don’t want to be loading ES6 in the browser passing it into a parse tree. And we use Traceur to do the parsing, which itself is 500 kilobytes. So, it’s not exactly suitable for production. That’s what you do in development. In production, because of the fact that this loader has the ability to have compatibility layers for AMD, CommonJS, for globals, we can actually build our modules into something that isn’t ES6. And then we have a loader that will support that with the right compatibility layers so that you can use that in production. So, it’s just a build step that builds the modules’ intermediate format that allows them to work the same way.
+
+<strong>JAMISON:  </strong>So, does that mean the dream of being able to use AMD and CommonJS and ES6 in the same project, is that real? Can I do this?
+
+<strong>GUY:  </strong>Yeah, you can do it today with SystemJS.
+
+<strong>JAMISON:  </strong>Cool, alright. That was a good segue. So, we’ve moved on to SystemJS. That’s the compatibility layer you were talking about?
+
+<strong>GUY:  </strong>Yeah. So, SystemJS builds on top of the ES6 Module Loader. And it supports existing AMD modules. It supports CommonJS modules like you would get from npm. And through a shim config, it will support globals as well. If you’re familiar with RequireJS, it’s very similar to the sort of thing you’d write with an AMD-style loader.
+
+<strong>JAMISON:  </strong>So, I assume it compiles all of those down to some intermediate format? Is that how it works?
+
+<strong>GUY:  </strong>It can actually support AMD and CommonJS directly, without needing to compile them.
+
+<strong>JAMISON:  </strong>Oh, wow.
+
+<strong>GUY:  </strong>And that’s because it’s got this compatibility layer which can just change the execution environment of the underlying module files. So, it deals with module sources. The loader is actually XHR and eval-based, because the spec is based on parsing sources. So, suddenly that gives us the opportunity to be able to rewrite the code slightly and make sure that everything’s given the right environment.
+
+<strong>JAMISON:  </strong>So, when you say it’s XHR-based, that means built-in support for loading modules on the fly in…
+
+<strong>GUY:  </strong>Yes, exactly.
+
+<strong>JAMISON:  </strong>That’s something. Well, so you’d use that to split up parts of your app in production basically, right?
+
+<strong>GUY:  </strong>Yeah, so…
+
+<strong>JAMISON:  </strong>Oh, go ahead.
+
+<strong>GUY:  </strong>No, sure. Go on.
+
+<strong>JAMISON:  </strong>Oh, I was just going to say, so you spoke about SystemJS and jspm a little bit at MountainWest JS Conference. And one of the things you mentioned was some support for HTTP 2.0 and some of the cool production things that enables you to do. Can you talk a little bit about that, too?
+
+<strong>GUY:  </strong>Sure. So yeah, it very much carries on from your point about dynamic loading in the loader.
+
+<strong>JAMISON:  </strong>Sure.
+
+<strong>GUY:  </strong>So, the way the loader works normally in the browser is it’s requiring everything with separate requests. So, today if you use Browserify you’re building everything into a single script. So, there are very different ways of going about this sort of thing. But the idea is that in ES6, you are sending separate requests in an environment in a few years’ time where HTTP 2.0 is fairly widespread. So, we can assume the existence of HTTP 2.0 in the timescale of the spec. And the problem of having lots of separate module requests is no longer the issue that it is today.
+
+So, in that kind of a world, you don’t have to worry about bundling, which is very convenient. You can just make the requests as you need them. And that’s really nice for dynamic loading as well. Today, we can still bundle. And that’s what we need to still continue doing today. And then you end up tiered bundling approaches. And we’re solving all these problems as well. But a lot of the complexity around that comes because we’re dealing with solving… we’re working around difficult situations that are created because of the fact that we don’t have HTTP multiplexing already today. So, I think things will get simpler. But things need to get a little bit more complex before they can get simpler.
+
+<strong>JAMISON:  </strong>So, you can load partial apps right now but you have to, when you say tier bundling, you mean you have to split your app into multiple pieces, some of which might kind of overlap. And it adds a lot of complexity to your build process, right?
+
+<strong>GUY:  </strong>Well, jspm tried to make this fairly simple. So, jspm provides bundling in the same way that you’d expect with all this. You can bundle a module and it’ll bundle all its dependencies. And then the other thing is to provide bundle arithmetic. So, I want to be able to have my core application code loader initialization. And then later on, I want to click on a new piece of functionality which is going to load a new section of my app. And I want to negate those two trees, so that kind of loading. And there are bundling methods for doing that kind of thing.
+
+<strong>JAMISON:  </strong>Oh, okay. So, you shouldn’t have overlap in that case, because it’ll automatically detect things that are in the first bundle and not include them in the second one.
+
+<strong>GUY:  </strong>Exactly. Yeah, so these are the work flows we’re working on.
+
+<strong>JAMISON:  </strong>That is sweet.
+
+<strong>GUY:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>Yeah, it’s very impressive.
+
+<strong>GUY:  </strong>Yeah, it’s a lot of hard problems, but it’s fun stuff to work on.
+
+<strong>CHUCK:  </strong>What about the things that aren’t really packaged up as modules? So, let’s say you’re pulling in some library that isn’t really set up to be pulled in as a module. It’s just set up to be pulled in as a script tag on your webpage and executed that way?
+
+<strong>GUY:  </strong>Yeah, so existing global scripts, and that’s probably still the majority case that we have. And that’s what… RequireJS and AMD loaders have this idea of a shim configuration. So, you say this global script depends on this other global script. And it creates these variables in the page. And we provide the same thing for SystemJS. And what that allows you to do is write with either upfront configuration or meta syntax in the file itself. You can say what its dependencies are and what its globals are that it writes to the window. And then it’ll pick that up and treat it as if it is a module.
+
+And so again, we’re dealing with having to make all the processes that can deal with all these other types of systems. And that’s where the majority of the workload actually is, in supporting these cases. But we’ve done it pretty well now that you can load globals. You can load things directly from npm. So, we support any module that works with Browserify. It should work with jspm, for example. And so, a lot of the work is on supporting these legacy use cases. I say legacy, I mean legacy in many years’ time. But yeah, there are stories for these kinds of situations.
+
+<strong>JAMISON:  </strong>I want to go back to some of the stuff you were talking about when you were mentioning the future, when HTTP 2.0 is widespread. I’m sure there are people listening that aren’t familiar with HTTP 2.0. Do you want to explain the features that make it easy to do dynamic module loading of individual modules in the future? So, the problem right now is when you request a module, if it has 20 dependencies then you’ll basically be making dozens of requests all at once. And there’s a limit to how many requests you can do at once. And so, things will be blocking and it’ll be sluggish, basically. Is that a good summary of the problem? And then do you want to explain how HTTP 2.0 helps that?
+
+<strong>GUY:  </strong>Sure. That’s a pretty good description. In [many] browsers, you’re typically limited to between six and eight HTTP requests. So, anytime you put a script tag or a link tag into the head of your page, you’re generating a new HTTP request. And at any given time, you’ll only have six or eight of those going before the next batch can happen. And those connections are kept open. They’re able to be shared for the next request. But you do have that underlying bottleneck. And HTTP 2.0 and the work on Speedy is based on the idea that if you just had one connection that carefully contained all those other connections, then you wouldn’t need to have the problem of lots of separate requests. So, instead of having many requests, you have one request. And then just multiplex your requests through that single wire basically. So, it’s just a different way of doing that communication. In a lot of ways, it seems pretty. It’s a nice idea. And it’s a very nice way of looking at things.
+
+<strong>JOE:  </strong>Is the underlying technology of that voodoo? Because it sounds like voodoo.
+
+[Chuckles]
+
+<strong>GUY:  </strong>I don’t think it’s officially voodoo. But yeah, it’s using the same system. But it’s multiplexing. So, you’re putting two connections over one, basically. And yeah, it’s looking really great because well, Speedy is now going to be supported across all browsers. So, it’s pretty much in there. And Safari was the last to go recently. And Speedy is the natural evolution into HTTP 2.0. It’s where the HTTP 2.0 spoke starts. So, it’s definitely coming. It will just take a while. So, this stuff is looking quite far into the future. And I think you have to work with quite large timescales when you’re looking at spec stuff, unfortunately. But it’s really exciting to see where things can be.
+
+<strong>JOE:  </strong>That’s absolutely crazy. I don’t think I could have come up with an entire question the rest of the show after listening to that.
+
+<strong>JAMISON:  </strong>[Chuckles] If you want to learn more about HTTP 2.0, man I always feel like I’m going to say one few, too many P’s or one too many P’s.
+
+<strong>JOE:  </strong>And that really changes the context of what you’re saying if you do that.
+
+<strong>JAMISON:  </strong>Yeah, it does. Words are hard. Computers are harder though. But if you want to learn more about the coming new upgrade to HTTP, Ilya Grigorik’s book about, I think it’s called ‘High Performance Browser Networking’ has a really good section on it. That’s just an aside. But it’s got a better overview than I’ve read in other places.
+
+<strong>JOE:  </strong>So, you’ve been talking a lot about modules and module loaders and ES6 modules and stuff. When do you think we’ll see ES6 modules get supported in the current browsers? They’re not supported today, right?
+
+<strong>GUY:  </strong>Yeah, there’s not support today. It will be a while yet.
+
+<strong>JOE:  </strong>Why?
+
+<strong>GUY:  </strong>We have, okay. So, the ES6 specification, it’s going to be confirmed I believe next year. And ES6 modules are fully drafted into the spec. They’re being reviewed at the moment. And the specification for that is pretty much there which is really nice to see. After that, the next stage, there actually needs to be a separate spec to get them into the browsers. And that’s because of the fact that the way that the ES6 modules interface with browsers is through these loader hooks, so how does the module loader know how to fetch a module? It has to know that it has to plug into the browser’s fetch mechanism. And there’s a very simple spec to create the system dynamic loader in the browser and to define its loader hooks, which still needs to be written.
+
+So, at the moment it’s based on this pseudo-implementation written by Mozilla. And so, we need to see that spec. And once you’ve got that spec, then browsers will be able to start implementing. So, I expect it won’t be before next year. It’ll be, if we’re lucky, next year. But the important thing is that we can start to create these work flows today. And we can actually start to work through the problems and the ways of dealing with ES6 modules in the browser already today in a way that’s production suitable. So, if you’re interested in ES6 modules, you can actually start using this loader and seeing what it’s capable of. And the production workflows that we have today are suitable in IE 8+. So, it’s looking far into the future but it’s fully supported now.
+
+<strong>JOE:  </strong>So…
+
+<strong>JAMISON:  </strong>Another… oh, go ahead, Joe.
+
+<strong>JOE:  </strong>I was just going to ask, if you can do everything that modules are doing today, then what’s the benefit when modules are actually supported by browsers? [Harmony] modules, that is.
+
+<strong>GUY:  </strong>Yeah. So, we do still need to build modules into this intermediate format to make them work in the browser. When modules are natively supported, eventually we’ll be able to not do that. But that’ll be a while again, because we’ll need to wait for browsers to have full adoption of ES6 browsers. So, it’s many, many years’ time. So yeah, it certainly will be a process. But yeah, so the benefit will be that the workflows simplify tremendously over time. So, as browsers adapt, these projects get simpler. The polyfill becomes no longer necessary. Different types of intermediate compilation become unnecessary. And so, things get more complex to support the future and then things will be able to drop out over time. So, it’s built with this kind of timeline in mind where eventually we end up with this very minimal loader. But it starts off by needing both ES6 Module Loader and a project like SystemJS to get there.
+
+<strong>JOE:  </strong>So, will the transition over time be seamless to the consumer of the module loaders or will the code that we use, that we write, actually change as well as modules become supported and as the module loaders stop dropping features because they’re already natively supported?
+
+<strong>GUY:  </strong>Yeah, so the goal of these projects is to make this workflow as easy as it can be. So for example, in due course, SystemJS would dynamically load the ES6 module loader only in browsers that it sees don’t have it. So, there’s an intermediate period where it could do a quick check and then only load the polyfill if it’s needed. And jspm is very much a project built around trying to give developers a workflow today and working towards that workflow that can then take them into ES6 modules and work nicely with that sort of stuff. I haven’t really properly explained jspm, so would it be okay if I just quickly give a proper description?
+
+<strong>JAMISON:  </strong>Oh, for sure.
+
+<strong>GUY:  </strong>[Chuckles] Cool. Yeah, so I mentioned the problem around third-party code dependencies. And just like you have Browserify for npm, jspm tries to do the same kind of thing but for the ES6 module loader. You can install anything by just writing jspm install and you can install something off npm or you can install off of GitHub. And it’s built for the SystemJS loader. And the reason that we do that is because it’s only by having a package manager that understands the module loader that you can get as simple as you just want to install something and require it.
+
+So, it’s this idea that I should just be able to say install and then require the exact same name I just installed. And all the complexity around dependency management, the global shimming, whether it’s AMD or CommonJS or ES6 or has an intermediate format, you shouldn’t have to deal with. You should just be able to say install something and require it. That’s the goal of jspm. And then when you want to go into production, you can write jspm bundle and it’ll bundle it. So, it’s very much, it’s a tricky project to get right. But it’s an exciting thing to be working on.
+
+<strong>JAMISON:  </strong>So, I haven’t used jspm in person. But it looks like it’s the dream. There have been how many, and there are how many, competing frontend repositories for packages with incompatible standards and stuff. Well, not incompatible, different standard for the module format. And this is the final answer to all of them. Just use whatever you want and then it’ll work.
+
+<strong>GUY:  </strong>It’s trying to be. And it’s exploring the space and trying to make that possible. And I think we’ve got pretty close to it, which is really great. I think what’s really great as well is these are some really hard problems. And we’ve got lots of great people working on them in different ways. And I think it’s a really exciting time for the web. I think it’s really important that as an open platform, we have a really good story for installing third-party code. And I think the more people that can work on it and create really good solutions for that, the better the work will be.
+
+<strong>JAMISON:  </strong>So, I know recently the ES6 modules spec just changed a little bit, and there’s a lot of grumpiness about that.
+
+<strong>GUY:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>But I think Yehuda Katz tweeted something about how the reason it changed was because developers built implementations on top of the spec and that informed the committee. That’s how it’s supposed to work. They had some ideas and they showed them to the community and then the community used them and found some problems with them. And now they’re changing it again.
+
+<strong>GUY:  </strong>Exactly.
+
+<strong>JAMISON:  </strong>And it sounds like you’re doing some similar things. You’re trying to use it as soon as possible and make it as widespread as possible.
+
+<strong>GUY:  </strong>Exactly.
+
+<strong>JAMISON:  </strong>Which makes the implementations better but also makes the specs better, hopefully.
+
+<strong>GUY:  </strong>That’s the process. And it’s that they’ve got this feedback loop is amazing. So, we’re creating implementations, getting real-world feedback on them, and then sending that back into the spec, which is really powerful. And that’s how the spec process should work, because you don’t want something specified never used or tested. And then suddenly it appears in the browser one day and it’s not quite right. So, that’s what we can do with these projects as well, is we’re able to provide that feedback. The example you mentioned with the module syntax, it’s actually a fairly minor syntax that most people hadn’t used. And one of the major cases that was causing some of the negative feedback, they’d actually used it wrong. So, it actually proved the point of altering it in the spec.
+
+<strong>JAMISON:  </strong>Oh, you mean the person’s example, they changed it to this, “look how dumb it is?”
+
+<strong>GUY:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>They were using it wrong in there.
+
+<strong>GUY:  </strong>I think one of the major examples of the person who built something on top of it, it was using the module syntax wrong, yeah.
+
+<strong>JAMISON:  </strong>So, it worked.
+
+<strong>GUY:  </strong>[Chuckles] Yeah. And it’s good. It’s really nice to see community involvement. And I think it’s, yeah, it’s all good stuff despite occasional complaints.
+
+<strong>JAMISON:  </strong>So, this is solving the problem from one end, which is everyone writes their modules in slightly different, when I say ‘this’ I mean jspm.
+
+<strong>GUY:  </strong>Yeah.
+
+<strong>JAMISON: </strong> Everyone writes their modules in different module formats or syntax. Is there anything solving the problem from the other end as, “I, as a module author, have made this useful code. What do I do to make it so people can use it?”
+
+<strong>GUY:  </strong>Yeah, and that is a problem, because as a module author, you have to support everything because you want to get your code out as widely as possible.
+
+<strong>JAMISON:  </strong>Yeah.
+
+<strong>GUY:  </strong>[inaudible] on these different systems.
+
+<strong>JAMISON:  </strong>You can’t count on everyone using jspm, so you just say I’ll make it in CommonJS and then whoever wants to can use Require, use whatever they want with it.
+
+<strong>GUY:  </strong>And it is unfortunate. So, module authors do get frustrated by this, because they have to have one version for this format, another version for this, different package to JSON and all this kind of stuff. And unfortunately, that is something that we have to go through. And it’s necessary to making sure that package management can evolve properly. We need to have systems running side-by-side and let the best win, effectively. So, the way that jspm deals with that is it doesn’t add a new, it has no jspm.json. It shares the package.json information and it has some metadata that can be useful in certain scenarios. And if module authors don’t want to use it, there’s an override service.
+
+So for example, if there’s a repo on GitHub like bootstrap for example, and they don’t want to support this jspm configuration in their package.json, we can actually override that through, there’s a repo on GitHub where jspm can override that configuration when you first install it. So, effectively making that sort of stuff possible from both sides. So, if the framework author’s frustrated with all these different systems, a user can still go and set up their own configuration and that will work for everyone using jspm.
+
+<strong>JAMISON:  </strong>That’s cool.
+
+<strong>JOE:  </strong>Yeah, that’s really cool. So, is it at all like that scenario where the guy goes out and he looks and he sees that there are five standards, and he says, “This is ridiculous. There are five different standards. We need a new standard that unifies them all,” and then all of a sudden we have six standards?
+
+<strong>GUY:  </strong>Well, hopefully not. With some, we’ll reduce over time. But the important thing to realize is that this is a hard problem. And it does take work to solve the problem. So, we need to have people working on the problem and creating the standards to make them better.
+
+<strong>JOE:  </strong>So, knowing what you know now, who do you hate more, the creators of CommonJS or the creators of AMD?
+
+[Laughter]
+
+<strong>AJ:  </strong>Yes. That was a question.
+
+[Laughter]
+
+<strong>GUY:  </strong>Do I have to answer it?
+
+<strong>JOE:  </strong>We’re not talking until we get an answer.
+
+[Laughter]
+
+<strong>JOE:  </strong>No further questions will be issued.
+
+<strong>GUY:  </strong>That’s cruel. That’s really cruel.
+
+<strong>JOE:  </strong>No, I have a different question. What is the value of using something like this over just using AMD? What do we get out of this versus just using AMD or CommonJS?
+
+<strong>GUY:  </strong>Certainly. I think if you’re happy using AMD or you’re happy using CommonJS today, keep doing that. There’s no reason to rush into ES6. If you’re already having frustrations in your workflows and you’re thinking about ES6 modules, thinking about how modules can be standardized, then try these projects out. But it’s very much, I think, something that will take time. And for me personally, I just got very frustrated with the fact that you had to choose AMD or CommonJS. And having made that decision, you had to live with it.
+
+And I really just wanted a system of dealing with modules that couldn’t be refuted with a blog post or something like that. I spent about a year building a framework on top of AMD and AMD started to fall out of favor just as the framework was finished. And I found it incredibly frustrating that I built a lot of work on top of a system that could so easily not turn out to be used as widely as I’d hoped. I think with ES6 we have the potential for a really solid foundation. And I think that’s important in development to have solid foundations.
+
+<strong>JOE:  </strong>So, what are some potential pain points people might experience that would cause them to want to look at ES6 modules and by that extension, your stuff?
+
+<strong>GUY:  </strong>Some of the areas that we can do that might be harder in other systems are things like, well firstly, if you do come up against interrupt issues with different module systems. So, wanting to be able to just write modules in a way that’s… wanting to have a spec-supported syntax for writing modules. So, if I can write an app and know that I’ve written all my modules as ES6, I know that that code is going to be safe in the future. I know that five years down the line, more that code will still be something that’s on solid foundations. Whereas if I’m writing code today that’s only going to be around for a few years, it’s not a problem to use other formats, but with ES6 you can, if I was building a codebase that needed to last for a while, it’s nice to build on ES6.
+
+And then, the other problems we can solve are things like effectively the transition into HTTP 2.0. So, moving away from bundling over time. Asset loading. So, you can actually load assets in the module pipeline. I can even load an HTML import in the module pipeline if I wanted to, or CSS is a really useful one as well. So, you’ve got a CSS loading mechanism in a module system, which means that you can have modular components that are combinations of CSS template and JavaScript, which is really what we want. And then we’re also working on things around conditional loading and those kinds of problems too. So, how do you conditionally load libraries depending on the environment? And because we’re building those solutions on top of the ES6 module loader, we’re hopefully doing it in a fairly solid way going forward. What else? I think those are probably the main reasons, yeah.
+
+<strong>CHUCK:  </strong>So, related to that, where do you see things going next, especially from the standpoint of managing code through modules like this?
+
+<strong>GUY:  </strong>Well, what I’d like to see is just it being really easy to start prototyping and building new apps. And for the workflows not to cause so much friction that the thought of including a new library becomes something painful. So, in the same way that npm has done for Node, to see that happening properly in the browser. So, if I want to build a site and just add new, little features to it, it should be an easy install process. With HTTP 2.0, what’s cool is you can actually enable requiring without needing a package manager. So, if I’m using an asset CDN, I can actually load modules directly off that asset CDN without needing to go through an install process. So, I just think that’s really nice to be able to imagine you can have this really complex app, a proper application in the browser, and it can by dynamically loading new modules very easily. And they just fall into this existing registry.
+
+So, if you want to bring in new functionality, you can have much more sophisticated apps in the browser. I think getting package management right is crucial to that. So, the CDN side of it’s what first excited me about jspm, was it started off as how you can make a package management system that can handle multiple versions and in a way that you can just require without installing. And if you go to the jspm.io website today, you can open up the network tab and go into the console and you can type System.import(‘npm:box all -demo’) and that’ll dynamically load a module directly off npm, over 100 modules in the browser. And the page was never designed to load that, but I can just go in and load this new piece of functionality up. And I just found that idea really exciting initially.
+
+<strong>JAMISON:  </strong>I have another question. How do people get involved with this, with your project specifically and with the whole ES6 module community in general?
+
+<strong>GUY:  </strong>Sure. So, I think everyone’s got different problems around this stuff. So, one of the easiest ways to get started with ES6 modules is to just start writing your own code in ES6 and then transpiling into whatever module format you’re using today. So for example, you could start writing ES6, transpiling that into CommonJS and using that, or there are a lot of different compilation techniques. So, some of the projects to check out for that is to just start compiling them today, have a look at the Square ES6 module transpiler. And that can just allow playing around with the syntax.
+
+If you want to actually explore more ES6 features, the es.next project is really interesting to try for static compilation. Also Traceur. And to start trying ES6. If you get more interested in the module side of things, try out SystemJS or jspm.io. So, there are different ways you can approach it depending on what your own needs are. And just try it out, play around, and see what works and what doesn’t. And post issues or post questions and people would be glad to help.
+
+<strong>JAMISON:  </strong>Cool.
+
+<strong>CHUCK:  </strong>Very nice. Any other questions before we get to the picks?
+
+<strong>JAMISON:  </strong>Who’s your pick for the World Cup?
+
+<strong>CHUCK:  </strong>Mine?
+
+<strong>JAMISON:  </strong>No. Well, yours too, I guess, but Guy’s.
+
+<strong>GUY:  </strong>Oh. I abstain from answering the question.
+
+[Laughter]
+
+<strong>GUY:  </strong>[Inaudible] it, so I can’t decide. [Chuckles]
+
+<strong>JAMISON:  </strong>Okay.
+
+<strong>JOE:  </strong>Who do you think won’t win the World Cup?
+
+<strong>JAMISON:  </strong>[Chuckles]
+
+<strong>CHUCK:  </strong>Spain.
+
+[Chuckles]
+
+<strong>JOE:  </strong>[Laughs] I wonder how funny that will be in a week.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>JAMISON:  </strong>Probably not.
+
+<strong>JOE:  </strong>Eh, it’ll still be funny. World Cup lasts a long time.
+
+<strong>JAMISON:  </strong>[Inaudible] most of your jokes, Joe.
+
+<strong>JOE:  </strong>True, very true.
+
+<strong>JAMISON:  </strong>Just kidding.
+
+<strong>JOE:  </strong>Guy, I really just wanted to hear you say one offensive thing.
+
+<strong>CHUCK:  </strong>[Chuckles]
+
+<strong>JOE:  </strong>Just go out on a limb and say one thing about somebody that is controversial.
+
+<strong>AJ:  </strong>It can even be Santa Clause.
+
+<strong>GUY:  </strong>[Chuckles]
+
+<strong>AJ:  </strong>That he’s not real, for example.
+
+<strong>JOE:  </strong>Yeah. You’re the most politic guest we’ve ever had.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>JAMISON:  </strong>Not political. I think he just sounds really nice.
+
+<strong>JOE:  </strong>Politic is a good word. That’s nice.
+
+<strong>JAMISON:  </strong>Is it? I don’t know that word.
+
+<strong>GUY:  </strong>Well, you should have baited me more to say some things.
+
+[Chuckles]
+
+<strong>AJ:  </strong>We don’t know your weaknesses.
+
+<strong>GUY:  </strong>There’s a lot of conflict in this area. But yeah, no, I’m impressed. We all like each other in this stuff.
+
+<strong>JAMISON:  </strong>I think that conflict is because people are excited about it and they care about it. So, it’s a good sign. It sucks when people get angry. But it comes from a place of everyone wanting good modules.
+
+<strong>JOE:  </strong>Let me ask an opposite question, then.
+
+<strong>GUY:  </strong>[Chuckles]
+
+<strong>JOE:  </strong>Who do you think are some of the most impressive contributors to ES6 as a whole? Not just the spec, but really making it happen across the entire spectrum.
+
+<strong>GUY:  </strong>For me personally, I was incredibly inspired by the work that James Berkman was doing on RequireJS. I thought that was incredible commitment and work that he did. I just don’t think he can be appreciated enough for that. In ES6, I wouldn’t name all the names who’ve been responsible for it. But Dave Herman has been the champion of that. And they’ve had to deal with a lot of really hard problems in modules and difficult communities as well. And they’ve been able to navigate that pretty amazingly. And going back over the decisions that they’ve made at quite a technical level, it’s a pretty amazing thing that they’ve done. Yeah. But yeah, there’s lots of really amazing developers. The Traceur team’s pretty cool. It’s a Google project. And the ES6 module transpiler side, they’re doing some great stuff as well. So yeah, it’s pretty exciting to be working with really amazing people. And that’s what I love about open source, really.
+
+<strong>JOE:  </strong>You know I like Traceur, too. But one thing that really frustrates me is actually how little ES6 it actually supports. There are so many things it doesn’t support.
+
+<strong>GUY:  </strong>The compatibility table’s deceiving, because they don’t support lots of the polyfills. But in terms of syntax, they’ve got quite a lot. But yeah, it’s all a work in progress.
+
+<strong>JOE:  </strong>Yeah, no, definitely. But map and set and proxy and the array stuff, that’s pretty frustrating it doesn’t support that.
+
+<strong>GUY:  </strong>One of the hard things about that is you need a runtime. So, you actually need a polyfill in the browser. So, if I want to be able to support all these array features, and what they have with the Traceur runtime is if they add all these things into a single runtime file, there’s going to be this massive runtime. Everyone’s going to complain that you’d have to load in hundreds of kilobytes just to make stuff work. So, you need to modularly load just the runtime you need. And you can only get there if you have a module loader. So, I think we need to do more work with Traceur to get those conditional polyfills working with the module loader. And that’s stuff that we’re working on.
+
+<strong>JOE:  </strong>Oh, that’s a good point.
+
+<strong>GUY:  </strong>But yeah, frustrations are great to hear. It’s always nice to hear about people’s frustrations. [Chuckles]
+
+<strong>JOE:  </strong>Right.
+
+<strong>GUY:  </strong>It’s the only way to get it better.
+
+<strong>JOE:  </strong>[Chuckles] Right.
+
+<strong>JAMISON:  </strong>[Chuckles]
+
+<strong>JOE:  </strong>I’m actually in the middle of authoring a course for Pluralsight on ES6.
+
+<strong>GUY:  </strong>Okay.
+
+<strong>JOE:</strong>  And it’s crazy how many different tools I have to use to just demonstrate all the features because no single tool will support everything. So, it’s like four or five tools at the minimum to show everything in ES6.
+
+<strong>GUY:  </strong>Sure. Yeah, there’s certainly going to be a place for projects that bring them together. And that certainly will be happening. But yeah, it’s a difficult transition. It really is. But yeah, we’re working on it.
+
+<strong>JOE:  </strong>Cool. Well, this has been an awesome episode.
+
+<strong>CHUCK:  </strong>Yup.
+
+<strong>GUY:  </strong>Yeah, thank you.
+
+<strong>CHUCK:  </strong>Alright. Let’s do some picks. Jamison, do you want to start us with picks?
+
+<strong>JAMISON:  </strong>Sure. So, my picks are two today. The first one is XCOM: Enemy Unknown on the iPad. I have it on PC. But it’s such a good iPad game. Well, it depends on what your definition of good is.
+
+<strong>JOE:  </strong>[Chuckles]
+
+<strong>JAMISON:  </strong>It’s a great game if you have time to invest in it. It’s not a pull it out for 30 seconds and then tap on some candy or whatever. But the style of the game fits the format of the iPad really well, I guess is what I mean. It sucked up my weekend, so I didn’t get a ton don besides killing aliens. But that’s valuable work too, I guess. [Chuckles]
+
+And then my next pick is an article by Carlos Bueno. He’s a Facebook engineer who writes amazing stuff and everything he writes is really good. But he just wrote one on culture and hiring in tech companies specifically. And the idea of how some of the preconceptions on what a good technology person acts like or looks like or enjoys or whatever creates this weird mirroring culture that selects people that fit into its own definitions. And it just exposes some things that I’ve seen and I’ve also done on accident when hiring or looking for people to hire or whatever. It’s a really good read. And it’s not mean. It’s just pointing out, “Hey. This is some stuff that happens. You might not even know it. And they could be better.” So, I like it.
+
+<strong>CHUCK:  </strong>Alright. AJ, what are your picks?
+
+<strong>AJ:  </strong>You know I had one thought and it’s gone now.
+
+<strong>CHUCK:  </strong>You reach your [inaudible] for the day?
+
+<strong>AJ:  </strong>Yeah. Yeah, I think so. It’s been a rough week, Chuck.
+
+<strong>JOE: </strong> This is unprecedented. I’ve never heard AJ not want to speak.
+
+<strong>CHUCK:  </strong>[Chuckles] I don’t know if it’s want to speak. I think it’s what to speak about.
+
+<strong>AJ:  </strong>Yeah. That’s probably not a problem.
+
+<strong>CHUCK:  </strong>Joe. Joe, what are your picks?
+
+<strong>JOE:  </strong>So, let’s see. For my picks, I just heard about, speaking of iPad games Jamison, probably the one game that I’ve spent the most time on which again is like XCOM is not a sit down and play for a minute or two. This is a long game that takes a long time to work through. And I’ve picked this in the past. Civilization: Revolution for the iPad. Well, I just found out that Civilization: Revolution 2 is coming out for the iPad at the first of July. So, with no word all of a sudden they’re just releasing it. And I can’t even find what features it has. All I know is I loved Civilization: Revolution for the iPad. And I want them to shut up and take my money. So, that’s my first pick.
+
+My second pick is going to be the World Cup and soccer. I found out that the Sunday game that the US played against Portugal was the most watched soccer game in all of US history. And it had more watchers, more viewers than Game 5 of the NBA finals. It was on some article. The NBA finals had 17 million and that game had 18 million viewers. So, it was an incredibly awesome game to watch. Real heartbreaker at the end, but it was a great game. So, that’s going to be my second pick.
+
+And then my third pick is going to be party game called Off Your Rocker. I picked this one up at the Marbles store that only exists on the west coast. But you can get it online. It’s a game where it’s really fun. I played it with my kids. So, little kids all the way up to adults. My youngest is nine. And one person leaves the room and everybody else draws a card and they pick from the card from three different things what condition everybody’s going to have. And the person who left the room has to come back in and ask people questions and guess. It’s very similar to a game called Psychiatrist. It’s a party game but it actually gives it more structure and a point system whereby somebody can win. Plus, just tons of awesome ideas to pull from. And I’ve had just tons and tons of fun playing that with my family. So, that will be my third and final pick, is Off Your Rocker.
+
+<strong>CHUCK:  </strong>Alright. Well, I’ve only got one pick this week. I went to the Agile Roots Conference. I spoke there this last weekend. And one of the sessions was actually David Adsit had Pluralsight’s copy of the Kanban board game. And it’s not cheap. It’s $450. But it was fun and interesting. So, if you have $450 burning a hole in your pocket and you are interested in such a thing then have your company pay for it. I’ll put a link to it in the show notes. But anyway, I don’t know if I would go spend that much on it. But anyway, Guy do you have some picks for us?
+
+<strong>GUY:  </strong>Yeah, I’ve got a couple. The first one is I don’t know how many people know about a service called jsDelivr. So, that’s a CDN for JavaScript and other assets. And it’s a little bit of a plug because we’ve just worked out an arrangement to provide the CDN for jspm. But it’s a really cool CDN. It’s based on two separate providers. And if one goes down, you still have the other one. It’s CloudFlare and MaxCDN as well. So, that’s pretty cool.
+
+And then the other one I wanted to mention was I’m always incredibly astounded by the projects that Fedor Indutny produces. I don’t know how many people follow him as a developer, but he’s one of the Node core developers. And he [inaudible] a project called bthread, which was actually a way of writing blog posts into the bitcoin block chain, which I thought was pretty cool. It still blows my mind how exactly it works. But you can have these threaded messages in the block chain and he’s rewritten all the encoding algorithms to make that work. And they’re doing some pretty interesting stuff in that bitcoin world. So yeah, I’m fascinated by those projects.
+
+<strong>CHUCK:  </strong>That sounds really interesting. Alright, well I don’t think there’s anything else. So, thanks for coming, Guy.
+
+<strong>GUY:  </strong>Awesome. Thanks so much.
+
+<strong>CHUCK:  </strong>We’ll wrap up the show. We’ll catch you all next week.
+
+<strong>GUY:  </strong>Alright. Cheers.
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] </em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]</em></strong>
+
+<strong><em>[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/jabber and there you can join discussions with the regular panelists and our guests.]</em></strong>

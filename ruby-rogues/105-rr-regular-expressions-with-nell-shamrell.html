@@ -1,0 +1,1067 @@
+---
+layout: layouts/post.njk
+title: >
+      105 RR Regular Expressions with Nell Shamrell
+date: 2013-05-15 15:00:00
+episode_number: 105
+duration: 1:21:56
+audio_url: https://media.devchat.tv/ruby-rogues/RR105RegularExpressions.mp3
+tags: ruby-rogues
+---
+
+<p dir="ltr">01:33 - <a href="http://www.indiegogo.com/projects/devchat-tv" data-cke-saved-href="http://www.indiegogo.com/projects/devchat-tv">DevChat.tv Indiegogo Campaign</a></p>
+<p dir="ltr">02:16 - Nell Shamrell Introduction</p>
+
+<ul>
+ 	<li><a href="https://bluebox.net/" data-cke-saved-href="https://bluebox.net/">Blue Box</a></li>
+ 	<li><a href="http://www.bluebox.net/about/blog/2013/02/using-regular-expressions-in-ruby-part-1-of-3/" data-cke-saved-href="http://www.bluebox.net/about/blog/2013/02/using-regular-expressions-in-ruby-part-1-of-3/">Nell Shamrell: Using Regular Expressions in Ruby (Part 1 of 3)</a></li>
+ 	<li><a href="http://www.bluebox.net/about/blog/2013/03/using-regular-expressions-in-ruby-part-2-of-3/" data-cke-saved-href="http://www.bluebox.net/about/blog/2013/03/using-regular-expressions-in-ruby-part-2-of-3/">Nell Shamrell: Using Regular Expressions in Ruby (Part 2 of 3)</a></li>
+ 	<li><a href="http://www.bluebox.net/about/blog/2013/03/using-regular-expressions-in-ruby-part-3-of-3/" data-cke-saved-href="http://www.bluebox.net/about/blog/2013/03/using-regular-expressions-in-ruby-part-3-of-3/">Nell Shamrell: Using Regular Expressions in Ruby (Part 3 of 3)</a></li>
+</ul>
+<p dir="ltr">03:11 - <a href="https://en.wikipedia.org/wiki/Regular_expression" data-cke-saved-href="https://en.wikipedia.org/wiki/Regular_expression">Regular Expressions</a></p>
+
+<ul>
+ 	<li><a href="https://en.wikipedia.org/wiki/Regular_language" data-cke-saved-href="https://en.wikipedia.org/wiki/Regular_language">Regular Language</a></li>
+</ul>
+<p dir="ltr">08:38 - Being intimidated by Regular Expressions</p>
+
+<ul>
+ 	<li><a href="http://www.slideshare.net/NellShamrell/seattle-rb-regexfinal" data-cke-saved-href="http://www.slideshare.net/NellShamrell/seattle-rb-regexfinal">Beyond the Basics: Regular Expressions in Ruby</a> (Nell’s Seattle.rb SlideShare Presentation)</li>
+ 	<li><a href="http://www.geocities.jp/kosako3/oniguruma/doc/RE.txt" data-cke-saved-href="http://www.geocities.jp/kosako3/oniguruma/doc/RE.txt">Oniguruma Regular Expressions Version 5.9.1</a></li>
+ 	<li><a href="http://rubular.com/" data-cke-saved-href="http://rubular.com">Rubular</a></li>
+</ul>
+<p dir="ltr">14:54 - Managing Regular Expressions</p>
+<p dir="ltr">15:51 - Regular Expression Gotchas</p>
+
+<ul>
+ 	<li>sub and gsub</li>
+ 	<li>regex speed</li>
+ 	<li><a href="http://shop.oreilly.com/product/9781565922570.do" data-cke-saved-href="http://shop.oreilly.com/product/9781565922570.do">O'Reilly Media: Mastering Regular Expressions by Jeffrey E.F. Friedl</a></li>
+ 	<li>Anchoring</li>
+</ul>
+<p dir="ltr">20:39 - Possessive, Greedy and Lazy Quantifiers</p>
+<p dir="ltr">24:10 - Lookaheads, Lookbehinds and Lookarounds</p>
+
+<ul>
+ 	<li><a href="http://ruby-doc.org/core-2.0/String.html#method-i-scan" data-cke-saved-href="http://ruby-doc.org/core-2.0/String.html#method-i-scan">scan</a></li>
+</ul>
+<p dir="ltr">28:21 - Regular Expression Engines</p>
+
+<ul>
+ 	<li><a href="http://www.pcre.org/" data-cke-saved-href="http://www.pcre.org/">PCRE</a></li>
+</ul>
+<p dir="ltr">31:56 - Ruby-Specific ways of working with regular expressions</p>
+
+<ul>
+ 	<li><a href="http://ruby-doc.org/core-2.0/String.html#method-i-match" data-cke-saved-href="http://ruby-doc.org/core-2.0/String.html#method-i-match">match</a></li>
+ 	<li>Capture Groups</li>
+ 	<li>Magic Globals</li>
+ 	<li><a href="http://www.geocities.jp/kosako3/oniguruma/" data-cke-saved-href="http://www.geocities.jp/kosako3/oniguruma/">Oniguruma</a></li>
+ 	<li><a href="https://github.com/k-takata/Onigmo" data-cke-saved-href="https://github.com/k-takata/Onigmo">Onigmo</a></li>
+ 	<li><a href="http://ruby-doc.org/core-2.0/Enumerable.html#method-i-grep" data-cke-saved-href="http://ruby-doc.org/core-2.0/Enumerable.html#method-i-grep">grep</a></li>
+ 	<li><a href="http://ruby-doc.org/core-2.0/String.html#method-i-rindex" data-cke-saved-href="http://ruby-doc.org/core-2.0/String.html#method-i-rindex">rindex</a></li>
+</ul>
+<p dir="ltr">47:02 - What shouldn’t you use regular expressions for?</p>
+
+<ul>
+ 	<li><a href="http://ruby-doc.org/core-2.0/String.html#method-i-include-3F" data-cke-saved-href="http://ruby-doc.org/core-2.0/String.html#method-i-include-3F">include?</a></li>
+ 	<li><a href="http://ruby-doc.org/core-2.0/String.html#method-i-start_with-3F" data-cke-saved-href="http://ruby-doc.org/core-2.0/String.html#method-i-start_with-3F">start_with?</a></li>
+ 	<li><a href="http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454" data-cke-saved-href="http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454">html - RegEx match open tags except XHTML self-contained tags - Stack Overflow</a></li>
+ 	<li><a href="http://www.ex-parrot.com/pdw/Mail-RFC822-Address.html" data-cke-saved-href="http://www.ex-parrot.com/pdw/Mail-RFC822-Address.html">Mail::RFC822::Address: regexp-based address validation</a></li>
+</ul>
+<p dir="ltr">51:09 - Substitutions</p>
+
+<ul>
+ 	<li>Escapes &amp; Escaping</li>
+ 	<li>%r</li>
+ 	<li><a href="http://shop.oreilly.com/product/9780596516178.do" data-cke-saved-href="http://shop.oreilly.com/product/9780596516178.do">O'Reilly Media: The Ruby Programming Language by David Flanagan, Yukihiro Matsumoto</a></li>
+</ul>
+<p dir="ltr">01:00:37 - Regex xkcd Comics</p>
+
+<ul>
+ 	<li><a href="http://xkcd.com/208/" data-cke-saved-href="http://xkcd.com/208/">xkcd | Regular Expressions</a></li>
+ 	<li><a href="http://www.explainxkcd.com/wiki/index.php?title=1171:_Perl_Problems" data-cke-saved-href="http://www.explainxkcd.com/wiki/index.php?title=1171:_Perl_Problems">xkcd | 1171: Perl Problems</a></li>
+</ul>
+<p dir="ltr">01:02:51 - Tricks</p>
+
+<ul>
+ 	<li><a href="http://www.youtube.com/watch?v=EkluES9RvakBest%20of%20Fluent%202012:%20/Reg(exp)%7B2%7Dlained/:%20Demystifying%20Regular%20Expressions" data-cke-saved-href="http://www.youtube.com/watch?v=EkluES9RvakBest%20of%20Fluent%202012:%20/Reg(exp)%7B2%7Dlained/:%20Demystifying%20Regular%20Expressions">Lea Verou: /Reg(exp){2}lained/: Demystifying Regular Expressions</a></li>
+ 	<li><a href="http://www.ruby-doc.org/stdlib-2.0/libdoc/strscan/rdoc/StringScanner.html" data-cke-saved-href="http://www.ruby-doc.org/stdlib-2.0/libdoc/strscan/rdoc/StringScanner.html">StringScanner</a></li>
+ 	<li><a href="http://ruby-doc.org/core-2.0/String.html#method-i-split" data-cke-saved-href="http://ruby-doc.org/core-2.0/String.html#method-i-split">split</a></li>
+</ul>
+<h3>Book Club</h3>
+<a href="http://pragprog.com/book/ehxta/explore-it" data-cke-saved-href="http://pragprog.com/book/ehxta/explore-it">Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson</a>! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
+<h3>Next Week</h3>
+Discourse with Jeff Atwood
+
+<h3>Transcript</h3>
+
+<strong>JAMES:  </strong>We aren’t always good about passing the ball around. So, if you have something to say, speak up.
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] </em></strong>
+
+<strong><em>[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetBrains.com/Ruby.] </em></strong>
+
+<strong><em>[This show is sponsored by Heroku Postgres. They’re the largest provider of Postgres databases in the world and provide the ability for you to fork and follow your database, just like your code. There's easy sharing through data clips or just for your data. And to date, they have never lost a byte of data. So, go and sign up at Postgres.Heroku.com.] </em></strong>
+
+<strong><em>[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] </em></strong>
+
+<strong>CHUCK</strong><strong>:  </strong>Hey everybody, and welcome to Episode 105 of the Ruby Rogues podcast. This week on our panel, we have James Edward Gray.
+
+<strong>JAMES:  </strong>Yey, regex!
+
+<strong>CHUCK:  </strong>We also have Avdi Grimm.
+
+<strong>AVDI:</strong>  Hello from jetlag.
+
+<strong>CHUCK:  </strong>Katrina Owen.
+
+<strong>KATRINA:  </strong>Hello from jetlag’s neighbor.
+
+<strong>CHUCK:</strong>  Josh Susser.
+
+<strong>JOSH:  </strong>Good morning from San Francisco.
+
+<strong>CHUCK:  </strong>I’m Charles Max Wood from DevChat.tv. And we also have a special guest and that’s Nell Shamrell.
+
+<strong>NELL:  </strong>Greetings from Seattle and double yey, regexes!
+
+<strong>CHUCK:  </strong>[Chuckles] Awesome. Now before we get started, one thing I want to mention really quickly is that we put together an Indiegogo -- well ‘we’ being I, I put together an Indiegogo campaign for us to get a much better website. It’ll also include a lot of features that people are asking for regarding the podcast. So if you want to donate, and you appreciate the show, if you go to RubyRogues.com/Indiegogo, just go over there and contribute. Really appreciate it. There are also some spots for corporate sponsorships. So, if your employer is interested, have them go and give us money too. Alright, let’s get into Regular Expressions.
+
+<strong>JAMES:  </strong>Chuck, you did not have Nell introduce herself.
+
+<strong>CHUCK:  </strong>I did not have Nell introduce herself.
+
+<strong>JAMES:  </strong>Come on. Keep up with the plan here, come on.
+
+<strong>CHUCK:  </strong>Okay. Nell, why don’t you go ahead and introduce your self?
+
+<strong>NELL:  </strong>Alright. I’m Nell Shamrell. I’m a Ruby developer based in Seattle. I work for Blue Box. We’re a managed hosting provider specializing in customized solutions. I’ve been doing Regular Expressions for a couple of years now, and enjoy them very much. I’m delighted to be able to talk about them.
+
+<strong>CHUCK:  </strong>I have to say nice things about Blue Box Group. They’re actually providing us with our hosting and are a sponsor of the show.
+
+<strong>JOSH: </strong> And they have the best swag at conferences.
+
+<strong>NELL:  </strong>Yey!
+
+<strong>CHUCK:  </strong>Yes. I have at least two of their t-shirts.
+
+<strong>NELL:  </strong>That’s awesome. I’m definitely going to pass that off to our Marketing Director. She’ll love it.
+
+<strong>JOSH: </strong> I always love the swag from Blue Box. The flashlights they gave us at GoGaRuCo a couple of years ago are awesome. I still use mine.
+
+<strong>CHUCK:  </strong>I missed out on flashlights?
+
+<strong>JOSH:  </strong>Yes. Got to come to GoGaRuCo sometime.
+
+<strong>NELL:  </strong>We might have some extra. I’ll see if I can find some. [Laughter]
+
+<strong>KATRINA:  </strong>Okay, I can kick this off. Regex, how do you pronounce it?
+
+<strong>JAMES:  </strong>[Laughter] Well.
+
+<strong>NELL:  </strong>I personally say reh-gex.
+
+<strong>JAMES:  </strong>Me too, yeah. And the Ruby way of putting the ‘P’ on the end of it, that’s just horrible. Shame, shame, lots of shame.
+
+<strong>NELL:  </strong>It’s kind of un-pronounceable. <strong>JOSH: </strong> [Chuckles] Yeah.
+
+<strong>CHUCK:  </strong>I think I’m going to go in and create a gem and all it really does is alias regex to regexp.
+
+<strong>JAMES:  </strong>[Laughter]
+
+<strong>NELL:  </strong>There you are.
+
+<strong>JAMES:  </strong>No.
+
+<strong>JOSH:  </strong>That won’t confuse anything.
+
+<strong>CHUCK:  </strong>No, not at all.
+
+<strong>JOSH:  </strong>But you could probably use a regex to match either regex or regexp.
+
+<strong>CHUCK:  </strong>Yeah, maybe.
+
+<strong>JAMES:  </strong>You probably could.
+
+<strong>NELL:  </strong>Pretty much ‘p’ or ‘?p’ would probably work.
+
+<strong>JAMES:  </strong>That would work. [Chuckles]
+
+<strong>JOSH:  </strong>So, why did we use Regular Expressions? What are they good for?
+
+<strong>JAMES:  </strong>Great question.
+
+<strong>CHUCK:  </strong>Absolutely. Oh, never mind.
+
+<strong>NELL:  </strong>[Laughter]
+
+<strong>KATRINA:  </strong>Before we actually go there, what are they?
+
+<strong>NELL:  </strong>How I define them, as I say, they’re patterns for strings. A string can either match the pattern or it doesn’t match the pattern. That’s how I usually define it for students.
+
+<strong>KATRINA:  </strong>So, how is this different from a Wildcard?
+
+<strong>NELL:  </strong>You can be much more specific than a Wildcard. You can define context with lookarounds. It’s much more fun. They’re much more powerful than a Wildcard, I think.
+
+<strong>JAMES:  </strong>Yes.
+
+<strong>JOSH:  </strong>And where did they come from?
+
+<strong>JAMES:  </strong>That’s a great question.
+
+<strong>NELL:  </strong>I was looking this up on Wikipedia last night and they’re credited for being invented by Stephen Cole Kleene. He was a mathematician in the 1950’s. He was one of the founders of computer science theory.
+
+<strong>JOSH:  </strong>Oh, and that’s where you get the Kleene Operator.
+
+<strong>AVDI:  </strong>Kleene Star.
+
+<strong>NELL:  </strong>Exactly. The Kleene Star. Yup.
+
+<strong>JAMES:  </strong>So, we should probably mention though that historically, Regular Expressions were used to match Regular Languages. But over the years, we have enhanced the heck out of them.
+
+<strong>NELL:  </strong>Indeed, we have.
+
+<strong>JAMES:  </strong>So, one thing you’ll run into is people telling you things like, “Oh, you can’t match balanced parentheses with Regular Expressions because that’s not regular,” which would be true of pure Regular Expressions, but is not true of our modern day Regular Expressions.
+
+<strong>NELL:  </strong>Exactly.
+
+<strong>CHUCK:  </strong>So, we kept the name?
+
+<strong>JAMES:  </strong>We did keep the name, yes. But they’re absolutely enhanced and they can match some non-regular things like balanced parentheses.
+
+<strong>NELL:  </strong>A good way to see that is to compare grep’s Regular Expression engine with egrep’s Regular Expression engine and you can see how much it advanced just from grep to egrep. It’s advanced further from there.
+
+<strong>JAMES:  </strong>Yeah.
+
+<strong>KATRINA:  </strong>Actually, I looked up what a Regular Language is on Wikipedia. And I have to admit that I think you might need four years of science and computer science theory to actually understand the article. Because I have no idea what it said.
+
+[Laughter]
+
+<strong>JAMES:  </strong>Yeah.
+
+<strong>NELL:  </strong>Agreed.
+
+<strong>JOSH:  </strong>Oh, the math editors got their hands on it.
+
+<strong>JAMES:  </strong>[Chuckles] Yeah, Regular Languages versus context-free grammars and stuff gets really ugly. So, it’s probably just best to say that Regular Expressions have come a long way and they can match some crazy hairy things. I mean, modern regex engines like Perl’s or Ruby’s, you can do recursion inside of them, conditionals, blah…blah…blah. They’re probably Turing complete. I’m not 100% sure on that.
+
+<strong>NELL:  </strong>I was wondering that myself. I came across an article just yesterday. It was on, I think, the Status Code newsletter, and it was by someone who used Perl Regular Expressions to perform arithmetic. And it was absolutely fascinating to see how he did it.
+
+<strong>JAMES:  </strong>Yeah.
+
+<strong>KATRINA:  </strong>Okay. So, back to Josh’s question. The thing that we’re trying to do when we use Regular Expressions is arithmetic, right?
+
+[Laughter]
+
+<strong>JAMES:  </strong>Exactly.
+
+<strong>JOSH:  </strong>I use it for generating MIDI tones and playing music.
+
+[Laughter]
+
+<strong>CHUCK:</strong>  There we go.
+
+<strong>JAMES:  </strong>So, I always describe regex as kind of a mini-language for describing search and replace functionality. So, if you wanted to find something and then potentially replace it with something else, which isn’t strictly Regular Expression but any language that introduces them kind of centers around that concept. So, it’s kind of a language for being able to describe, “Find this, followed by this, perhaps with an optional this,” blah…blah…blah.
+
+<strong>NELL:  </strong>In a way, it sometimes seems like we’re making human language comprehensible to the machine, in a way.
+
+<strong>JOSH:  </strong>I think the first time I ever saw Regular Expressions was on the UNIX command line.
+
+<strong>JAMES:  </strong>Yeah. They’re still used there a lot, right?
+
+<strong>JOSH:  </strong>Yeah. I had to change something in a file and I was fiddling around and found the, I don’t even know what it was back then, it probably wasn’t even UNIX. It was probably some crazy old operating system and there was this SNOBOL language. And you could do the kind of awk and sed-type stuff in SNOBOL. And it took me many years to get over that. [Chuckles] Now, Regular Expressions I think are actually really cool and you can do a lot of interesting stuff with it. But I remember years ago, they were probably the most intimidating thing about dealing with computers for me.
+
+<strong>NELL:  </strong>I did a presentation at Seattle.rb on Regular Expressions recently. And I started it off by saying, “I’ve been intimidated by Regular Expressions.” And I asked everyone in the audience to raise their hand if they’ve been intimidated by Regular Expressions and every hand in the room went up.
+
+<strong>JAMES:  </strong>Yeah, that’s an interesting thing for us to talk about, actually. Because I have noticed, I mean, I have just run into so many people over the years that are literally afraid of Regular Expressions to the point where many of them go so far as just not learning them. You know, because they’re that afraid of them or some people go a little bit down the rabbit hole, but the bare, bare minimum. And it’s surprising to me how many people seem intimidated by them. And I was going to throw it out there, why do we think that is?
+
+<strong>JOSH:  </strong>It’s the learning curve. The learning curve is like, I don’t know, like a reverse hockey stick. It starts off completely vertical. [Chuckles]
+
+[Laughter]
+
+<strong>JOSH:  </strong>And after you manage to get yourself up past this, like that initial threshold, then it levels off really, for a while.
+
+<strong>CHUCK:  </strong>It’s funny that you say that. But for me, the learning curve wasn’t that bad until I tried to get into some of the more advanced things like lookaheads and stuff. But initially, the dot, the dot star, you know?
+
+<strong>JOSH:  </strong>Yeah, but what the heck are they? It’s like you look at them and there’s no place to get a foothold.
+
+<strong>JAMES:  </strong>I think you nailed it there. We often talk about how Regular Expressions look like Snoopy swearing or something like that.
+
+[Laughter]
+
+<strong>JAMES:  </strong>I think it’s that very alien nature of them that, you know, it just looks like a bunch of strung together characters that have no meaning whatsoever, until you learn to break it down into chunks that have meaning, right? I think it’s that alien aspect.
+
+<strong>CHUCK:  </strong>Yeah, it’s very difficult to visually parse it.
+
+<strong>NELL:  </strong>I’ve been on a major Stargate kick lately. And an analogy is…
+
+<strong>CHUCK:  </strong>Good for you.
+
+<strong>NELL:  </strong>Oh, thank you. Is that it’s kind of like seeing those hieroglyphics or those Stargate symbols for the first time and you have no context in which to define meaning from them at first.
+
+<strong>JAMES:  </strong>What a cool example. Yeah.
+
+<strong>JOSH:  </strong>[Chuckles] Well, I wonder if you could use Regular Expressions to parse gate addresses.
+
+[Laughter]
+
+<strong>NELL:  </strong>Oh my, gosh. Oh, I need to play with that now.
+
+[Laughter]
+
+<strong>JOSH:  </strong>There is an XKCD right there.
+
+<strong>CHUCK:  </strong>Now, is that the seven-character ones or the rare eight-character ones? I think there was even a nine chevron one? I kind of remember.
+
+<strong>JOSH:  </strong>Yeah, that was in Stargate Universe.
+
+<strong>NELL:  </strong>Oh.
+
+<strong>JAMES:  </strong>Stargate Universe…
+
+<strong>JOSH:  </strong>The ninth chevron.
+
+<strong>CHUCK:  </strong>Oh, that’s right. That’s how they got on the ship, they couldn’t get back off of.
+
+<strong>JOSH:  </strong>Don’t spoil it.
+
+[Laughter]
+
+<strong>JAMES:  </strong>Yeah, no spoilers. Spoiler alert!
+
+<strong>CHUCK:  </strong>Sorry.
+
+<strong>JAMES:  </strong>So, we talked about how they’re intimidating. But the truth is they’re actually not that complicated if you sit down and break it down. I’d love to tell the story, but my wife came home one time with this big problem from work and they were basically sorting through a ton of data and they didn’t know a good way to do it. And she literally came to me and was like, “They're going to put three people on this and it’s going to take us weeks, you know, look at this.” And she showed me the problem and I’m like, “Oh, you just need some regex.” And I sat down, in one evening, and taught her about 75%-80% of Regular Expression in one evening and made a cheat sheet as we went so she could take it with her to work the next day and found a program that she could install on that computer that would let her run regex against a bunch of files. And so, she did that job solo, in a couple of hours, as opposed to all these resources they were going to throw at it. So, I think the intimidating thing is sad and we need to do a better job of telling people that this is something you can learn and it’s very powerful.
+
+<strong>KATRINA:  </strong>I think part of what’s intimidating about it is that people often, the first time they see it, they haven’t been prepared for it. It just kind of comes out of the blue as this magical incantation that’s already in a program that might seem incomprehensible or difficult to wrap your brain around. And if we just introduce it the way you introduced it to your wife, it might just be okay. You can just show people the simple parts first, and then you can kind of blow their mind by how incredibly powerful it can get.
+
+<strong>NELL:  </strong>One of the pieces of advice I give people is Regular Expressions are iterative, the kind of same way programming is. You start very, very small at first, and then build from there. And that helps keep it from being so overwhelming.
+
+<strong>JAMES:  </strong>So, I’ve actually taught it that way. I taught a class at a local community college and when it came time to show them what Regular Expressions were, I actually did it that way. And my rule was, I was not going to explain it to them, they were going to explain it to me. And I just opened up an IRb session and I picked strings and threw Regular Expressions at it in a way that they could see what was matched. And I just kept doing that over and over again with examples until they figured out what a particular character meant. And then they wrote it up on the whiteboard and we just did that for a couple of hours until they had spec’d out most of the regex syntax.
+
+<strong>NELL:  </strong>Nice!
+
+<strong>CHUCK:  </strong>That’s really cool. By the way, you mentioned that you put together a cheat sheet for your wife. You wouldn’t happen to have that where people can get to it, would you?
+
+<strong>JAMES:  </strong>I don’t, but just use the Oniguruma has a really great syntax sheet, and I’ll put a link to the show notes in. That’s one page anyone playing with regex ought to have bookmarked. It’s just insanely useful.
+
+<strong>NELL:  </strong>If you go to Rubular.com, not only is it a great place to test your Regular Expressions and develop them, but they have a very good basic cheat sheet at the bottom of that webpage. That’s really useful.
+
+<strong>JAMES:  </strong>Which is maybe a good time to mention, there are some tricks for managing Regular Expressions and Nell actually started a thread on Parley a while back about refactoring them. And tons of people threw tips in there and one of the great ones, I forget who said it now actually. But one of the great, it was Myron Marston, said that he’ll play around on Rubular and figure out his Regular Expression. And then, there’s a mode in regex where you can insert comments and he’ll hit make permalink on Rubular and insert it as a comment in the Regular Expression so he can later go back and see the playing around he was doing.
+
+<strong>NELL:  </strong>Oh, I was so happy when I saw that comment. That’s absolutely perfect.
+
+<strong>JAMES:  </strong>Yeah, it’s a killer trick.
+
+<strong>CHUCK:  </strong>Yeah. Well, it gives you a very easy reference point so you can go modify it if you need to. What kinds of gotchas have you guys run into with Regular Expressions? I could start it out just by talking about the, what is it, the little ^ and the $ character? And I used that for a long time and then found out that that represents beginning of line and end of line, not beginning of string and end of string. And that was a gotcha that I had to work around and instead use the A and Z in order to make it beginning of string and end of string. That was one that messed me up for a while.
+
+<strong>JOSH:  </strong>And then, there’s the upper and lower case A and Z.
+
+<strong>CHUCK:  </strong>Uppercase and lowercase A and Z?
+
+<strong>JOSH:  </strong>Yeah.
+
+<strong>NELL:  </strong>It’s true.
+
+<strong>JAMES:  </strong>There is an upper and lower case z, the A is always uppercase.
+
+<strong>JOSH:  </strong>Oh right, yeah.
+
+<strong>CHUCK:  </strong>What’s the difference?
+
+<strong>JAMES:  </strong>The difference is the uppercase Z matches at the end of the string, but it will allow a newline following it, so there can be a newline at the end of the string. The lowercase z matches at the end of the string, period. There can’t be anything after it.
+
+<strong>JOSH:  </strong>Yeah. So, the uppercase Z is like the end of the last line. It doesn’t include the trailing whitespace.
+
+<strong>JAMES:  </strong>Correct.
+
+<strong>NELL:  </strong>Yup.
+
+<strong>JOSH:  </strong>Yey! Okay. For me, it’s those modifier characters at the end of the Regular Expression. I never know when I need them.
+
+<strong>NELL:  </strong>Right. I’d say the ones I use the most are /i, which makes it case insensitive, and /x which allows you to break it up over multiple lines.
+
+<strong>JOSH:  </strong>Yeah, but it’s like, there was /g for a while.
+
+<strong>NELL:  </strong>True.
+
+<strong>JOSH:  </strong>That you had to use everywhere, to do global.
+
+<strong>JAMES:  </strong>That’s a Perl thing, right?
+
+<strong>JOSH:  </strong>Well, it was. Maybe it was in PHP too, I don’t know. But I remember having to use /g to do multiline matches or multiple matches, I guess.
+
+<strong>JAMES:  </strong>Yeah, so in Perl and maybe PHP, I don’t know, they turn a regex from a single match into a global match by tacking on this /g at the end. And these are called regex modes, by the way, when you throw characters in the end of a Regular Expression. So, they turn on global mode, and it’s how they get it to go global. In Ruby, we don’t really have that problem, because we call sub if we want to match once and gsub if we want to match everywhere, right?
+
+<strong>JOSH:  </strong>Oh, you want to hear something amusing about that?
+
+<strong>NELL:  </strong>Yes, please.
+
+<strong>JOSH:  </strong>About the difference between sub and gsub, have you ever benchmarked the performance of them, comparatively?
+
+<strong>JAMES:  </strong>Probably not. No.
+
+<strong>JOSH:  </strong>I did a bit of benchmarking. Just one day, I was curious and I benchmarked sub versus gsub and gsub was consistently faster than sub even for single substitutions.
+
+<strong>JAMES:  </strong>Wow, that’s strange.
+
+<strong>NELL:  </strong>Whoa.
+
+<strong>JOSH:  </strong>Yeah, I don’t know what was going on, but that’s what was happening.
+
+<strong>JAMES:  </strong>So, you brought up a good point there, on regex speed. And Chuck asked earlier what are some of the gotchas. And I would say this bites everyone eventually, they write a too general Regular Expression, especially if you nest quantifiers. So like + and * something like that, and you may not realize it, but as soon as you do that, you make your regex exponential. So that if you hit it with a big enough input, and the regex engine can’t optimize it away, then basically, you’ll need the heat death of the universe before your regex matches.
+
+<strong>NELL:  </strong>Catastrophic backtracking.
+
+<strong>JAMES:  </strong>Right, yeah, exactly.
+
+<strong>CHUCK:  </strong>Could that happen on a very large CSV file, for example?
+
+<strong>JAMES:  </strong>On a very large CSV file, that can definitely happen, you bet. So, there’s lots of tricks for getting around that. There’s a very famous technique in regex called unrolling the loop. I think it comes from ‘Mastering Regular Expression’, a really great O’Reilly book on the topic. And they teach you how to write a regex so that you don’t have that problem. Another tip, just any one tip I would say that can really save you from that is anchor whenever possible.
+
+<strong>NELL:  </strong>Yes.
+
+<strong>JAMES:  </strong>So, those things we’re talking about earlier like A and Z, those are anchors. And not only do they help you get better matches, but anchors allow the regex engine to cheat a lot. So, if it knows that it’ll have to be at the end, then it can rule out just tons of possibilities. So, the more you anchor, the more it can cheat its way to a match very quickly.
+
+<strong>NELL:  </strong>A couple of more advance techniques for that is, one is using atomic groups, which basically means you enclose part of Regular Expression in a group and you turn off backtracking for that specific part. The other is to use possessive quantifiers.
+
+<strong>CHUCK:  </strong>You just used some terms that, for techniques that I may have used in the past, but I’m not really sure what you’re talking about.
+
+<strong>NELL:  </strong>Okay. So, a possessive quantifier, do we want to get into greedy quantifiers, lazy quantifiers and possessive quantifiers now? Or…
+
+<strong>JAMES:  </strong>Sure. Explain away.
+
+<strong>JOSH:</strong>  [Chuckles]
+
+<strong>NELL:  </strong>I’ll go right ahead, alright. So, what a greedy quantifier does, and quantifiers like + and * are greedy by default, is it grabs the entire string and tries to make a match. And then, if the entire string doesn’t match, it’ll backtrack one character then backtrack one character, it’ll try every way possible to make a match. This uses a lot of system resources. What I usually say is they use maximum effort for maximum return. A lazy quantifier, by contrast, starts at the very beginning of the string and tries to match the first character. If that doesn’t match, it goes to the next character and the next character. Basically, they use minimum effort for minimum return. I mean, they’re lazy. They do just enough to make the match. A possessive quantifier uses -- basically it takes the entire string like a greedy quantifier, but it doesn’t do any backtracking. If it can’t make a match, it just lets it go. It fails it. So, it uses minimum effort for maximum return, is how I usually define it.
+
+<strong>JOSH:  </strong>And how do you spell those things? Like one of them is ‘:?’, is that the non-greedy one?
+
+<strong>NELL:  </strong>The non-greedy one, I believe, is ‘!?’. And then, possessive is ‘?+’. Or wait, I don’t know if that was right.
+
+[Laughter]
+
+<strong>JAMES:  </strong>To get the lazy one, you add a ‘?’ on the end of any quantifier.
+
+<strong>NELL:  </strong>That’s correct.
+
+<strong>JAMES:  </strong>The greedy one is + and then the lazy one is just ‘+?’, right? You just throw a question mark on the end of it.
+
+<strong>CHUCK:  </strong>Those are wrapped in parentheses, correct?
+
+<strong>JAMES:  </strong>No.
+
+<strong>CHUCK:  </strong>No?
+
+<strong>JAMES:  </strong>Or you can use parentheses to group something together and then apply them to the end so they apply to the whole group. But by default, they apply to whatever atom, it’s called an atom in regex, came before the quantifier.
+
+<strong>CHUCK:  </strong>Okay.
+
+<strong>JAMES:  </strong>So just one character before or you could do a group to do a whole word, for example, or a whole set of atoms. Another tip, we’ve talked about some tips to avoid shooting yourself in the foot like favor A and Z over ^ and $, anchor whenever possible. Another tip is * is very dangerous.
+
+<strong>NELL:  </strong>It is.
+
+<strong>JAMES:  </strong>You usually want + over * because * matches zero or more. Therefore, it always matches anything, because you can always match zero of something, so you have to be very careful with the * quantifier.
+
+<strong>NELL:  </strong>I tend to go for the + quantifier rather than the * quantifier because that means the character needs to appear one or more times. So, it’ll be there at least once.
+
+<strong>JAMES:  </strong>Yes.
+
+<strong>AVDI:  </strong>So, since I never remember the modifiers for laziness and stuff like that, or for lookaheads and lookbehinds. I tend to just construct a Regular Expression with groups in it. And I’ll have a group for this stuff that’s in front of what I’m actually looking for and/or a group for the stuff that’s behind what I’m actually looking for and then a group for what I’m actually looking for. And then, I’ll just explicitly extract out the group that I was looking for and ignore the rest. Is there a reason I should really take time to switch from doing that to using lookaheads and lookbehinds?
+
+<strong>JAMES:  </strong>Yes. [Pause] Oh, do you want me to give the argument?
+
+[Laughter]
+
+<strong>JAMES:  </strong>So, sometimes it doesn’t matter. And what Avdi’s talking about is you can just explicitly say, “Find this, followed by this.” But then we have things like lookaheads and lookbehinds, the lookaround assertions. And the lookarounds will let you basically peek forward or backwards and look for something, but they won’t match it. So, you can say, “This has to be there or this has to not be there, but don’t match it.” And there aren’t scenarios where that’s significant. So, if you’re able to specify it and then pull it out on the other end, it’s not significant and you’re okay and you can do it either way you want. And not using the lookaheads is probably less brain-melting and stuff. But there are scenarios where it’s significant. Two I can think of off the top of my head are: you need to verify that something comes after, but you need to not match it so that the next match will start at the beginning of that thing, not at the end of that thing. So, this typically applies when you’re using a Ruby method like scan where you’re scanning through all of the options and you need to verify, “There better be a comma at the end of this,” or something, but say your thing starts matching comma and then whatever follows it, you want to guarantee the comma is there, but if you consume that comma, then your next match would fail. So in that case, you need to use a lookaround. And the other one that I know of is sometimes you want to peek ahead for the existence of something and then match if that was there or not. And the example I can think of off the top of my head is the way we typically put commas in numbers where we’re humanifying them. You can reverse the number and then match it from the back. It’s much easier because you can count three characters at a time. But they usually use a lookahead to verify there’s no period there. And that will get it to skip over the decimal portion of the number because then you’ll bump along and the Regular Expression engine will push it forward until there’s no period. Then you can grab three numbers at a time and just start inserting commas. And doing that without a lookaround assertion, I think requires multiple Regular Expressions and stuff, which isn’t necessarily a bad thing.
+
+<strong>NELL:  </strong>Yeah, lookarounds are great for defining the context of what you’re expecting to surround your match.
+
+<strong>JAMES:  </strong>Yeah. TextMate uses that quite a bit in its parsing. So, when it’s parsing through, TextMate is basically hitting the document with a series of Regular Expressions. And you might use a lookbehind to verify there was the death keyword before you syntax highlight this thing as a method name. And it has to do that because it can’t move the match pointer because it’s mid-parse of the documents.
+
+<strong>CHUCK:  </strong>So, one other thing that I’ve seen with Regular Expressions is that it’s not always the same between different languages or different engines. So for example, I do Regular Expressions in JavaScript and then I do Regular Expressions in Ruby, and a lot of the stuff is the same, I would guess a fair bit of it, 80% of it, but then there’s that other 20% of it that’s kind of weird between the two. So, is there some global definition of some of these things that should be in a Regular Expression engine? Or is it just up to the language implementation or engine implementer?
+
+<strong>NELL:  </strong>I’m not sure if there’s a global standard for it. James, do you now offhand?
+
+<strong>JAMES:  </strong>I don’t know of any standard, which is sad. It’s like tux size. You basically, everywhere you go, you run into a different flavor and you have to figure out what’s different. The one that actually causes me to lose sleep at night is the Regular Expression engine inside of Emacs, which I love almost everything about Emacs except its regex engine which should die a horrible slow death. And it has, even inside of Emacs itself, depending on the context you use it in, it basically steadily changes based on the context you use it in. It’s horrible. But know that about the closest thing to a standard is people have considered Perl the golden standard for kind of a long time. It kind of leads the way in a lot of regex development. So, there’s a regex engine called PCRE, Perl Compatible Regular Expression, and that gets used in a lot of places. But it’s kind of ironic because even PCRE, I don’t think is perfectly 100% compatible with Perl because you know the rule, “Only Perl can read Perl.” But it’s close.
+
+<strong>CHUCK:  </strong>[Laughter] Only Perl can read Perl. I love it that.
+
+<strong>JOSH:  </strong>Okay. So, we talked a lot about regexes in Perl. Was Perl the first language where they were like a first-class language feature?
+
+<strong>JAMES:  </strong>That’s a good question. I don’t know.
+
+<strong>NELL:  </strong>I’m not sure on that.
+
+<strong>JAMES:  </strong>I would guess. Perl is definitely what made them popular, right? Because Perl was designed as a reporting language in the beginning and that was definitely a massive part of it.
+
+<strong>JOSH:  </strong>Well, I guess they’re first-class constructs in things like awk and sed and SNOBOL.
+
+<strong>JAMES:  </strong>Sure.
+
+<strong>JOSH:  </strong>So, maybe Perl wasn’t the first. But yeah, I think you’re right, it was the first to make it popular in a sort of general purpose programming language.
+
+<strong>NELL:  </strong>Yeah, Perl introduced Regular Expressions for the masses, sort of.
+
+<strong>JAMES:  </strong>And having them as a first-class citizen, as Josh has brought up, that’s really an important language feature. It’s one of the reasons they’re so cool in Ruby, is that they are an actual object, a first-class citizen. So, think about it. If you have a language where they’re not, what you have to do is you have to represent all Regular Expressions with a string. So then, the problem with that is you go through your normal string processing which usually involves some escape sequences, so you can embed quotes in your strings and stuff. And then, you go through the Regular Expression engine, processing, which usually involves escape sequences. So, you end up having to double or triple or quadruple, in some cases, escape things. It becomes a nightmare. That’s where you get the leaning toothpick thing, right? The .
+
+<strong>JOSH:  </strong>Yeah. Well, maybe we should talk a bit about Ruby-specific ways of working with Regular Expressions. Because they’re a first-class citizen in the Ruby language, there’s all sorts of cool things that integrate into the language and the API. Maybe like the $1 and $2 match constants are a good place to start there?
+
+<strong>NELL:  </strong>Yeah.
+
+<strong>JOSH:  </strong>So, when you do matches in the parentheses, what are those called, capture groups?
+
+<strong>NELL:  </strong>Exactly. And the match method in Ruby, in particular, works great with capture groups.
+
+<strong>JOSH:  </strong>Can you talk about that?
+
+<strong>NELL:  </strong>Certainly, sorry.
+
+[Laughter]
+
+<strong>JOSH:  </strong>You just whetted our appetite.
+
+<strong>NELL:  </strong>So, the match method in Ruby, you provide it a Regular Expression and a string to do the match on and it returns an instance of the MatchData class. And this MatchData class has lots of methods that you can use. You can use to_s to see your match. But where it really shines is when you use capture groups. And the reason it shines for them is you can convert, it returns the capture groups in, it’s sort of like an array, but not exactly. However, you can convert that to an array and iterate over it like you would an array. So, I could take a MatchData object, convert it to an array and then use the each method on it, which can be useful when I have several different capture groups that I want to print out or do things with.
+
+<strong>JOSH:  </strong>And then, there’s this magic globals. So you have $1, $2.
+
+<strong>NELL:  </strong>Exactly.
+
+<strong>JAMES:  </strong>Minor correction there, they’re not global variables. That’s a common…
+
+<strong>JOSH:  </strong>James, you’re stealing my thunder here, I’m…
+
+<strong>JAMES:</strong>  Oh, I'm sorry.
+
+[Laughter]
+
+<strong>AVDI:  </strong>He said magic.
+
+<strong>JAMES:  </strong>Ah, he said magic, okay.
+
+<strong>JOSH:  </strong>[Chuckles] Right. Yeah, so like $1, $2, $3, those represent the first, second, and third capture groups in your MatchData?
+
+<strong>JAMES:  </strong>Right.
+
+<strong>NELL:  </strong>That’s correct.
+
+<strong>JOSH:  </strong>Yeah. So, that’s really convenient. And you could use them within your substitution. So, if you’re doing a sub from a Regular Expression, you then pass in a string to show what you want the result to be substituted as and you can use those $1, $2 variables within there, which is really handy.
+
+<strong>JAMES:  </strong>Except there, you use them as 1, 2.
+
+<strong>JOSH:  </strong>Oh right, yeah.
+
+<strong>NELL:  </strong>It’s true.
+
+<strong>JOSH:  </strong>Yeah, the capture notations. Right, so the $1, $2 are, come on coffee, you’re supposed to be working better than that.
+
+[Laughter]
+
+<strong>AVDI:  </strong>[Inaudible]
+
+<strong>JOSH:  </strong>So, $1, $2. As James said, those aren’t exactly global even though they use the global syntax with the $, in that they are bound to whatever your stack frame is, so the method execution context. And it’s interesting, I discovered this a couple of years ago when I was working on something and had to do some recursive stuff with a method that was using Regular Expression matching, and I didn’t want to lose the state of the match in the parent invocation of the method. And then, when I recursed into it again, I would do the match again and I wanted to be able to use the globals because I -- what was I doing? Oh, I was passing in a block. And the block, I wanted it to be able to use the $ matches to get the capture groups that were matched in the enclosing method. Well, this is way too complicated to explain on the air.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>But basically, you get a match in a block scope, you expected them to be globals because they had a $ in front of them. When you came out of scope, you realize that they were actually local variables on your stack frame and got popped when you came back out of scope.
+
+<strong>JOSH:  </strong>Yeah, I was so confused by it. I had to go talk to Evan Phoenix and he explained to me that in the Ruby VM, each stack frame has a special thing that is only used for keeping track of the Regular Expression MatchData results.
+
+<strong>JAMES:  </strong>And those variables are called thread local variables.
+
+<strong>JOSH:  </strong>No, that’s not thread locals because you can get multiple ones in one thread.
+
+<strong>JAMES:  </strong>Ah! I thought that was thread local, but maybe I’m wrong.
+
+<strong>NELL:  </strong>I thought so too, but I might be wrong.
+
+<strong>JAMES:  </strong>The reason that they’re like that though, it makes total sense when you think about it. If they really were global variables, then they would be extremely scary because if you did something like match a regex if you had like, ‘if this regex matches then set this value to this’, right? But if you had multiple threads running, and two different threads were doing that, the first match might happen in the first thread, then the second match might happen in the second thread, replacing the global variables. Then when you went to assign, you would be assigning something you had no idea what it is. So, there’s a very good reason those variables can’t be global variables.
+
+<strong>JOSH:  </strong>Yeah. In general, thread locals, the scope is the whole thread. It’s not just the stack frame.
+
+<strong>JAMES:  </strong>Interesting.
+
+<strong>J</strong><strong>OSH:  </strong>So, these are even more specific than thread locals. These are like stack frame locals. Which makes them sort of like local variables, so you wonder why they need a special syntax for it, but that’s what you got.
+
+<strong>JAMES:  </strong>So, we should probably mention that Ruby’s had various regex engines over its life span. In the 1.8 era, and I’m not sure if this went all the way back to the beginning. But definitely in the 1.8 era, it used the GNU regex engine, I believe, which was pretty terrible. It was not very capable compared to modern regex engines.
+
+<strong>NELL:  </strong>It didn’t have lookbehinds, which was one of the major drawbacks of it.
+
+<strong>JAMES:  </strong>Yeah, it’s a big [inaudible].
+
+<strong>AVDI:  </strong>I never looked back, darling. It distracts from the now.
+
+[Laughter]
+
+<strong>JAMES:  </strong>But then in Ruby 1.9, we got a massive upgrade to Oniguruma. And Oniguruma is not Perl’s regex engine, but it has pretty close to the same capabilities. And it’s even faster in some ways. Plus, it’s just like the coolest name ever. I think it means ghost wheel.
+
+<strong>NELL:  </strong>Or devil’s chariot is another translation for it.
+
+<strong>JAMES:  </strong>Yes, it’s a very strange translation. So, we got Oniguruma in 1.9 and that came with all kinds of great features. And now in Ruby 2.0, the most recent version of Ruby, the new regex engine is actually called Onigmo. And Onigmo is basically a small fork of Oniguruma where they added in some advanced features of Perl 5.10’s regex engine, I believe. So, one of the new things you get in Onigmo that you didn’t have before is conditionals. You can basically match something and if it’s there, take this branch or if it’s not there, take this branch. So, you can do if-else in your regex, which is pretty cool.
+
+<strong>CHUCK:  </strong>That wouldn’t break my brain.
+
+[Laughter]
+
+<strong>JAMES:  </strong>That wouldn’t hurt. But the reason I brought this up, as Josh said, “Well, why don’t we just use local variables?” And when Oniguruma was introduced into Ruby 1.9, you actually got the ability to use local variables. So, Oniguruma has a named syntax, so instead of referring to things by number, the first set of parentheses, the second set of parentheses, you can name your parentheses. So, this is the protocol and this is the path. And then, you can refer to those by name through the MatchData object that Nell mentioned earlier, or some other Ruby methods that allow you to specify the name. Or if you do it in a certain way, and this is kind of strange, but if you put the regex on the left side of the operator and then do a match and put the string on the right side of the operator and you use named expressions, Ruby will magically create the local variables in that scope and set them to the values.
+
+<strong>NELL:  </strong>Cool.
+
+<strong>AVDI:  </strong>And I can’t decide whether this is a great thing or a bad thing.
+
+<strong>JAMES:  </strong>Yeah, it’s kind of magical and kind of weird, right? And it’s weird that local variables kind of pop out of nowhere, right?
+
+<strong>AVDI:  </strong>Yeah, exactly. And it’s like, I want to use it because it’s really neat and it makes a lot of sense, actually. But at the same time, they do kind of pop out of nowhere. I mean, you can see them in the Regular Expression, assuming that the Regular Expression is right there, but yeah.
+
+<strong>JOSH:  </strong>So, the thing that I was talking about earlier in my use of the capture group magic globals, was I had a method that took a block and it did some matching within the method and then within the block, it was using the capture group variables within the block to access the MatchData that happened within the enclosing method. And that was incredibly convenient when I was doing that, because I didn’t have to actually pass anything in as an explicit argument to the block.
+
+<strong>JAMES:  </strong>Right.
+
+<strong>NELL:  </strong>Cool.
+
+<strong>JAMES:  </strong>You can do that in the sub and gsub too. A lot of people don’t know this, and it’s really handy, sub and gsub take a block. So, if you don’t want to specify, like if you need to do something kind of complicated in producing the result, you can just not specify the replacement string and use a block instead. And inside that block, you’ll have access to all the capture group variables and you can do whatever calculation you need to do using Ruby and build up the answer and whatever the block returns, that will be the replacement.
+
+<strong>JOSH:  </strong>Yes. Oh, I got to mention, one of my favorite Ruby API methods, and that’s the enumerable grep because that’s kind of like sub or gsub but you call it on an array of strings and pass in a Regular Expression and it will go and match the Regular Expression on each of those strings and then you get to play with the results in the block as you iterate over all the values.
+
+<strong>CHUCK:  </strong>So, it’s sort of like a select with a match Regular Expression in the block.
+
+<strong>JAMES:  </strong>Yes.
+
+<strong>JOSH:  </strong>Yeah.
+
+<strong>JAMES:  </strong>It is kind of like that, yes. Grep is actually even cooler than Josh has said because what it’s actually doing is using the === operator, the same way case does, case equal operator, as it’s sometimes called. So, what I love using grep for, aside from regex which is awesome, is if you have a list of different things, you can grep for classes. And because they use the ===, it will match if the objects are of that type. So, you can separate things out. It’s very interesting.
+
+<strong>JOSH:  </strong>And I guess, since Ruby 1.9, with using === for calling lambdas or prox, you can just pass in lambda as well.
+
+<strong>JAMES:  </strong>That’s right.
+
+<strong>JOSH:  </strong>Anything that has that callable API will work.
+
+<strong>JAMES:  </strong>So, my favorite regex methods, since we’re talking about them, there’s two I love that I don’t see people use very often. One is regexes always favor the leftmost match. Because they start at the beginning and then they kind of bump the match along until they find one. So, they always favor the leftmost match, which means when you’re trying to get the rightmost match, it’s a nightmare, because you have to anchor to the end or something and work backwards to get the rightmost match. Or, in Ruby, you can call rindex on a string and pass in a regex and it will hit the string with that regex starting at the end and work its way backwards. So, it will find the rightmost, which is an interesting twist on a regex problem. And the other thing that people never use, and it’s so ridiculously convenient, is, I call it indexing. I think Avdi calls it subscripting, where you just have a string or an array or whatever and you just tack on some brackets and you put in what you want to subscript to. You specify range of characters or whatever. You can also specify a Regular Expression. And it will return the part of that string that matches the Regular Expression, which is kind of cool until you realize you can provide a second argument of which part of the matched Regular Expression you want returned. And that can be an integer for a capture group or it can be a symbol, which is the name of a named capture group in your Regular Expression. I use that way more than the match operator. It’s excellent. So, everybody should play with that.
+
+<strong>NELL:  </strong>On that note, one of the things I really love about the match method, which I didn’t know until recently, is that you can pass two arguments to it, actually. You can pass the string, and then you can pass an integer to specify what character index, what character number I suppose, you want to start the match from. So, you can start the match in the middle of the string, if you want to, or two-thirds of the way through it. It doesn’t necessarily have to start at the beginning.
+
+<strong>JOSH: </strong> And that’s great because they way the match operator in Ruby returns the number, which is the index of where the match happens. So, it’s pretty easy to write a loop that will scan forward through the string chunk by chunk.
+
+<strong>NELL:  </strong>Exactly.
+
+<strong>JAMES:  </strong>Yes. Although when I’m doing that, I use another feature that no one knows about, which is the G anchor and that is an anchor in a Regular Expression that will anchor to the position where the last match stopped. So, if you want to do that and go through where you’re like chewing through items one at a time, one way is to do, like Josh just said, and make a loop where you keep track of where the last match stopped and then you advance the string forward. Another way is just to call scan one time and use the G operator which will force it to anchor to where the last match stopped.
+
+<strong>JOSH:  </strong>I think that’s what makes Regular Expressions Turing complete.
+
+<strong>JAMES:  </strong>It could be. I don’t know. But because you can anchor to where the last match stopped, it keeps your regex from running off into the hinterlands to find a match way after where it matched last time.
+
+<strong>KATRINA:  </strong>I’ve got to try that now.
+
+<strong>JAMES:  </strong>Yeah, it’s an awesome trick.
+
+<strong>KATRINA:  </strong>So, what are some of the things you shouldn’t use Regular Expressions for?
+
+<strong>NELL:  </strong>I usually tell people you can use a Regular Expression to match a literal string. I mean, if I want to match the word ‘cat’ in my string, I can just do /cat/ but that really isn’t necessary. I tell people, “If you’re going to be matching a literal string, just do the literal string, == ‘cat’ or something like that.”
+
+<strong>JAMES:  </strong>Yeah, that’s an excellent example. I read a Perl book once. They said, “Firing up the regex engine to do an equals match is like clubbing somebody to death with a loaded UZI.
+
+[Laughter]
+
+<strong>NELL:  </strong>Yeah, you don’t need that much power.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Yeah. Another one is I think the String class also includes an ‘include?’ or something like that.
+
+<strong>JAMES:  </strong>That’s right.
+
+<strong>CHUCK:  </strong>So, if you want to know if it’s just in there, you don’t need to match something out, or match anything complicated. You can just use that.
+
+<strong>JAMES:  </strong>Or in 1.9, we got ‘start_with?’ and ‘end_with?’. So, usually before that, you would fire up the regex engine and do A and whatever you wanted it to start with. Now, you can just call those methods.
+
+<strong>JOSH:  </strong>That’s true. Hey, let’s talk about the substitution side.
+
+<strong>JAMES:  </strong>Okay, but before we do, can I give my favorite answer to Katrina’s question, ever?
+
+<strong>JOSH:  </strong>Oh, yeah. Yeah, please do.
+
+<strong>JAMES:  </strong>The things you should not use regex to match for, the one that always gets thrown out, is you should not use it to parse HTML. And that you will see people write these crazy hairy Regular Expressions trying to parse through HTML, but HTML is so flexible and complicated. It gets crazy scary fast. And oh yeah, it looks like Katrina linked to it in the show notes. But there is this Stack Overflow thread which you all have to go read, because it is so hilarious. They give this answer of why you shouldn’t use regex to parse HTML.
+
+<strong>JOSH:</strong>  [Laughs]
+
+<strong>JAMES:</strong>  And I promise, you can not read this and not bust out laughing. It’s absolutely [inaudible].
+
+[Laughter]
+
+<strong>JOSH:  </strong>I’m laughing just looking at the page.
+
+<strong>JAMES:  </strong>Yeah, it’s epic. You have to go read that thread.
+
+<strong>CHUCK:  </strong>I’m asking for a spoiler here, I guess, but what do they recommend that you use instead, then?
+
+<strong>JAMES:  </strong>An HTML parser.
+
+<strong>JOSH:  </strong>Yeah. An actual grammar? [Laughs]
+
+<strong>NELL:  </strong>Yes.
+
+<strong>JAMES:  </strong>A parser. That’s true of most things, right? Regex are really powerful and you can, you know, there’s the whole, ‘can you’ and ‘should you’. Can you write a regex that reasonable matches most HTML? You probably actually can, now that they’re so powerful. Should you do that? Definitely not, right?
+
+<strong>JOSH:  </strong>Okay, then there’s the holy grail of regexes, which is an Email address validation regex.
+
+[Laughter]
+
+<strong>NELL:  </strong>Yeah. It’s terrifying.
+
+<strong>JAMES:  </strong>That one comes up all the time. It’s been published in books. It’s been removed from those same books in later editions because it’s so unbelievably complicated and there’s no good reason to do it. Think about it. Even if you prove that the Email is perfectly correct, according to the RFC, which is quite a monumental task, even if you prove that, you’ve proven nothing. You have not proven you can Email that person.
+
+<strong>JOSH:  </strong>[Laughs] Yeah.
+
+<strong>JAMES:  </strong>So, the right thing to do is send an Email to that person, because then you prove everything.
+
+<strong>JOSH:  </strong>Yeah. [Laughs]
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>JOSH:  </strong>I just love that that’s such a known problem that even just saying that makes everyone burst out laughing. [Laughs]
+
+<strong>CHUCK:  </strong>Well it’s funny, too, because I think that’s why a lot of these systems have gone to the, “We’re going to verify your account by sending you an Email.”
+
+<strong>JAMES:  </strong>Right. It’s the only correct way to do it. It’s the only way you know that you can actually communicate with that person.
+
+<strong>JOSH:  </strong>[Laughs] Okay, okay. So, what about substitutions? Shall we accept no substitutions?
+
+[Laughter]
+
+<strong>JOSH:  </strong>So, the thing that I -- okay, so sub and gsub on Regular Expressions in Ruby, you give it a Regular Expression and then you give it a substitution string to say, “Okay, take the MatchData from the string that I was matching and I’m going to mash it around and have it look different.” So, you might be trying to swap the first and the last name and put a comma between them. So, you would match on the first name, match on the last name, and then you would substitute it into 2,1. That sounds awesome to start with, and then you actually start trying to type those things and everything blows up.
+
+[Laughter]
+
+<strong>JAMES:  </strong>So yeah, I was actually a little disappointed when I came from Perl, because Perl substitution strings, they’re pretty killer. You can change the case of things that you’re putting into the substitution string. So you can use these escapes and it’ll lowercase whatever comes after until you define the stop point and stuff like that. And Ruby is missing all that and it just has the groups that we’ve talked about, being able to hit the name or not the name but numbered groups.
+
+<strong>CHUCK:  </strong>So in order to do that, you interpolate the value? You do a #{}?
+
+<strong>JOSH:  </strong>Or you can use the block form.
+
+<strong>JAMES:  </strong>Yeah, that was what I didn’t realize. The block form is aces. If you switch the block form, then you have all of Ruby to make the replacement, right? And you can do whatever you want. So, you can just do $1.upcase or whatever. Whereas Perl does have the same thing actually, it does in a different way. It has an escape or a mode that you put on and then the replacement becomes Perl code instead of a normal replacement string. So, you can do that too. But yeah, the block is how you generate any complicated substitution. And you do have to be careful in substitution with the escapes, which is probably the problem Josh is hinting at the most.
+
+<strong>JOSH:  </strong>Yeah. So James, is there actually something weird going on with the substitution strings, even when they’re single quoted?
+
+<strong>JAMES:  </strong>Yes, there is.
+
+<strong>JOSH:  </strong>So you probably are one of the few -- you and Nell are probably the only people I know who can actually explain that. So, please explain that. [Chuckles]
+
+<strong>JAMES:  </strong>Nell, you want to take a shot at it?
+
+<strong>NELL:  </strong>Why don’t you go ahead and take that one.
+
+[Laughter]
+
+<strong>JAMES:  </strong>It is horribly complicated.
+
+<strong>NELL:  </strong>It is.
+
+<strong>JOSH:  </strong>It’s like diffusing a bomb. [Chuckles]
+
+<strong>JAMES:  </strong>Yes, it is.
+
+<strong>JOSH:  </strong>Oh no, no, go ahead. It’s your turn.
+
+<strong>JAMES:  </strong>So the problem with it is, what Josh is talking about, even if you single-quote your string, you’ll put it there and you’ll think, “Oh, I’m using single-quoting so it’s just whatever I type,” but that’s not the case. And the reason is because it still passes through two layers of escaping. So, single-quoting does have its few escapes. It only has a few, but they are there. The ’ and the , I believe, are the only two escapes it has. So, it passes through that layer of de-escaping, then it passes through the regex engine de-escaping, which is why you’re able to do things like 1 or 2. So even in a single-quote, depending on what you’re trying to match, it gets absolutely nightmare-ish, if you’re trying to match a backslash. That’s where it just goes brain-meltingly bad. It’s because you’re passing through two layers of escaping. And then, it’s much worse in double-quotes replacements because of the massively expanded set of what is an escape in double-quoted strings.
+
+<strong>JOSH:  </strong>Yeah, I can’t tell you how many times I’ve ended up with four or more backslashes in a row.
+
+<strong>JAMES:  </strong>Yes. That’s right. If you’re trying to match some kind of backslash or something, a backslash followed by something, and you have to pass through both of those escape engines so you end up doubling it in each level. That’s what causes the problems.
+
+<strong>CHUCK:  </strong>So, just to clarify, it escapes the string like just the regular string escaping and then does the regex engine escaping?
+
+<strong>JAMES:  </strong>That’s right. It passes through two layers. So just to be valid Ruby syntax, it has to be formed like a normal string, right? So, it’s a string and you have to do whatever escaping you would have to do to make that string in Ruby. Then it gets handed off to the regex engine and the regex engine hits it with its escapes, which is mostly 1,2. The regex engine also allows &amp; I think for prematch and I can’t remember what postmatch is, or maybe I got those backwards. Anyway, there’s a couple of others, is the entire match. And because it goes through two layers of escaping, then in order to get a backslash actually down to the second layer, just to get a backslash through a double-quoted string, it’s two backslashes. But then, if you wanted that to end up getting down to the regex engine, you need \ so that when it goes through the first layer, it becomes  and then when it gets to the second layer, it’s actually what you thought.
+
+<strong>JOSH:  </strong>Okay, and then the kicker here is that if you’re playing around in IRb trying to make this stuff work, when you’re printing the strings that you’re playing with, IRb uses, like if you’re doing a ‘puts’ on it, it inspects the string. So, you get the quoting when you’re printing the string and it goes and inserts whatever in there.
+
+<strong>NELL:  </strong>Exactly.
+
+<strong>JOSH:  </strong>Yeah.
+
+<strong>NELL:  </strong>[Laughs]
+
+<strong>JAMES:  </strong>Yes. It always uses double-quoted strings, which almost always makes the problem worse, right?
+
+<strong>JOSH:  </strong>Yes. [Chuckles]
+
+<strong>JAMES:  </strong>If you hate this problem, you hate any language that does not have regex as a first-class citizen, because everything -- this problem multiplies like a thousand if you don't have a regex syntax because you have to do this every single time you want to define a Regular Expression.
+
+<strong>JOSH:  </strong>Okay, so this jogs my memory. The single most important pro tip that I learned about Regular Expressions in Ruby is the %r{...} literal form of Regular Expressions.
+
+<strong>JAMES:  </strong>Yeah. It’s really [inaudible].
+
+<strong>JOSH:  </strong>Because normally, you define a Regular Expression starting with a slash and ending with a slash and those are your delimiters and everything inside there is your Regular Expression, or maybe that includes the slashes, I don’t know. But if you want to use a slash within there, you have to quote it with a backslash first, but if you use %r then use curly braces or parentheses or whatever as the delimiters, you don’t have to escape the slashes because they’re just ordinary characters. They’re no longer delimiters. So, if you’re doing anything with slashes in it like a URL, if you’re trying to match a URL…
+
+<strong>JAMES:  </strong>Yeah, that’s the perfect example.
+
+<strong>JOSH:  </strong>Or a file path or something. Anything with slashes in it like that, I always use the %r form.
+
+<strong>NELL:  </strong>Exactly. ‘The Ruby Programming Language’ book has a pretty good explanation of it.
+
+<strong>JOSH:  </strong>Yes. That’s where I learned it.
+
+<strong>NELL:  </strong>Me too.
+
+<strong>JAMES:  </strong>%r, you can choose your own delimiters so I usually just use braces because it is really smart and it will even do nested braces right. So even if you have braces inside of it as long as they’re properly nested, then it’ll still work. Sometimes I’ll choose ! or something that’s not likely to occur in my regex.
+
+<strong>JOSH:  </strong>Don’t you use the French quotation marks?
+
+<strong>JAMES:  </strong>Some people do.
+
+<strong>NELL:  </strong>Yeah. I’ve seen that. It’s a way of doing it. But it sometimes adds to the problem more than solves it, depending on the language of the person who’s looking at it.
+
+<strong>JOSH:  </strong>Oh, come on. All of computer engineering is about substituting a more interesting problem for a more boring problem.
+
+<strong>CHUCK:</strong>  [Laughs]
+
+<strong>NELL:  </strong>Pretty much. [Laughter]
+
+<strong>JAMES:  </strong>Nice.
+
+<strong>KATRINA:  </strong>What are French quotation marks?
+
+<strong>JOSH:  </strong>It’s like the raquo and laquo elements in HTML. In French, the quotation marks are like these angled brackets.
+
+<strong>JAMES:  </strong>Yeah. It looks like two less-thans and two greater-thans kind of smashed together [&lt;&lt;&gt;&gt;].
+
+<strong>AVDI:  </strong>Sometimes called guillemets or something like that. I don’t know how it’s pronounced.
+
+<strong>JOSH:  </strong>Yes. Gee-mow.
+
+<strong>JAMES:  </strong>Yeah, but if you want to use that, you’ll need to turn on uft-8 so you can use that character in your syntax.
+
+<strong>JOSH:  </strong>Like I said, a more interesting problem.
+
+<strong>JAMES:  </strong>[Chuckles] Yeah, it’s true.
+
+<strong>NELL:  </strong>Now, you have three problems.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Even in English, if you’re in a word processor, you get the smart quotes, which are the open quotes and end quotes are different characters, because they’re curved different ways.
+
+<strong>JAMES:  </strong>You’ll have to turn on utf-8 to use that too. [Chuckles]
+
+<strong>AVDI:  </strong>That’s it. I’m coding Ruby in Word from now on.
+
+<strong>JAMES:  </strong>Yes.
+
+[Laughter]
+
+<strong>JOSH:  </strong>So Nell, you alluded to that canonical joke.
+
+<strong>NELL:  </strong>Right, right. It’s an XKCD, I don’t have a link offhand. But it basically, I believe it shows a stick figure saying I coded in Perl then I added a regex and now I have two problems. It’s been a while since I looked at it.
+
+<strong>KATRINA:  </strong>Actually, the original quote came up a mailing list a few years back. The XKCD drawing was a stick figure saving the world because they know Regular Expressions.
+
+<strong>JAMES:  </strong>It was awesome.
+
+<strong>NELL:  </strong>That’s right.
+
+<strong>JOSH:  </strong>That one was actually going to be one of my picks, so I have the -- oh actually, I have the other thing as my pick.
+
+<strong>JAMES:  </strong>Like stand back, I know Regular Expression.
+
+<strong>JOSH:  </strong>Yeah. Hang on, I’ll…
+
+<strong>JAMES:  </strong>Sometimes I feel like that, though. Sometimes I see, I literally saw someone solve this problem one time in Ruby and it’s just, because regex are so built-in and so pervasive and supported by so many methods and stuff, sometimes you can take extreme shortcuts if you know a little bit of Regular Expression. And I swear, somebody solved this problem and they wrote a method to do it. And I looked at the method. It’s like a 20-line method. And they came to me and they’re like, “Is there a more efficient way to do this?” And it’s like, “Yes, here is the Regular Expression.”
+
+<strong>JOSH:  </strong>Yeah. It’s like showing someone the exponent operator.
+
+[Laughter]
+
+<strong>JOSH:  </strong>It’s like they’re stuck doing addition and you’re like, “Oh, we have this other operator.” [Chuckles] “Have some power.”
+
+<strong>NELL:  </strong>So, looks like XKCD has done two Regular Expressions comics. The other one is, “If you’re having Perl problems, I feel bad for you son, I got 99 problems. So, I used Regular Expressions. Now, I have 100 problems.”
+
+[Laughter]
+
+<strong>JOSH:  </strong>Yes.
+
+<strong>JAMES:  </strong>Again, proving regex is great for math. So, there you go.
+
+<strong>NELL:  </strong>Yey!
+
+<strong>JOSH:  </strong>Okay. So, what else do we have to talk about here? What’s the worst Regular Expression abuse you’ve ever seen?
+
+<strong>CHUCK:  </strong>You mean, beside the Email addresses?
+
+<strong>JAMES:  </strong>Yeah, you know addresses is the one that comes up over and over and over again.
+
+<strong>JOSH:  </strong>Okay. I’ll accept that answer. [Chuckles]
+
+<strong>NELL:  </strong>One of the picks I have, which I’ll go into later, but it’s '/Reg(exp){2}lained/: Demystifying Regular Expressions', it was a presentation by Lea Verou at O’Reilly Fluent and she goes into regex best practices. And one of them is knowing when to stop Regular Expressions. Being able to filter out the vast majority of non-matches to your Regular Expression, but not creating a huge regex that no one will be able to read, which I think is exactly what that Email validation is.
+
+<strong>JOSH:</strong>  [Chuckles]
+
+<strong>JAMES:  </strong>Yeah, one of the great tricks for not creating a huge expression, that I use over and over again is if I am kind of parsing something, a little something, and I want to pick it apart a piece at a time, you can do that with a big complicated regex, but you shouldn’t. Because the problem with those is that what you end up doing is you’re like, “Oh, that part at the beginning of the string, I didn’t match that right.” So, you go tweak that part only to find out later that you busted how it matches some other case. So that they get unwieldy as they grow and grow. The small change in some area modifies how it matches something else and it gets unwieldy. And you can often get around that problem by using, the Ruby standard library has a StringScanner in it, and StringScanner is like a stupid simple concept. It’s actually one Josh brought up earlier, where you match a regex against some string and basically keep track of where you stopped matching. And string scanner does this for you.
+
+<strong>NELL:  </strong>It’s awesome.
+
+<strong>JAMES:  </strong>So yeah, you can just put a string into it and then you just hit regexes on the string and it forces them to match at where the pointer is. And the pointer starts at the beginning of the string. And then as you match, the pointer jumps forward to the end of that match. So, you can just match things off the top and it almost always makes those large complicated regexes where you’re trying to digest the whole thing, it lets you bust them up into a bunch of stupid simple regexes. So, there should be this, then there should be this, then if this matches, go this way, if this matches, go that way. And that’s a really great trick that I use to simplify complicated Regular Expressions a lot.
+
+<strong>CHUCK:  </strong>Another thing that I do is, depending on how simple what I’m trying to parse is, a lot of times I’ll just use the String split method if I know how they’re delimited, and then use a regex from there.
+
+<strong>KATRINA:  </strong>So, another thing about String split is that you can use a regex in the String split to split on.
+
+<strong>JOSH:  </strong>Yes.
+
+<strong>JAMES:  </strong>Yes. It’s another method, yeah.
+
+<strong>JOSH:  </strong>Oh, here’s one of my favorite tricks with regexes in Ruby. You can use a case statement on a string and then each of the ‘whens’ can take a Regular Expression.
+
+<strong>JAMES:  </strong>Right.
+
+<strong>CHUCK:  </strong>Oh, yes.
+
+<strong>JOSH:  </strong>Yeah, because they match, the === operator, that’s case equality, and regexes can work with the === operator.
+
+<strong>JAMES:  </strong>Going back to what Katrina just said about split, there’s another awesome trick. If you use a regex in split, and your regex contains grouping, capturing I mean, sorry, parentheses, and it captures something, then that capture will also be returned as another element in the matched set. So using split, like if you split on comma, usually it would take away the commas and you would get what was just between the commas. But if you actually need that separator, you could do a regex parenthesis comma parenthesis. And then, you would get the item before the comma and then as a separate entry, the comma, and then the item after the comma. So, you can actually get it to return the separator if you use a Regular Expression.
+
+<strong>KATRINA:  </strong>That’s nifty.
+
+<strong>CHUCK:  </strong>I feel smarter already.
+
+<strong>JAMES:  </strong>Lots of Ruby methods have tricks like that. The ones we’ve been talking about on the whole show, like indexing can take the regex and then change how it behaves. And split, you can definitely tell regex were baked into Ruby from the get go and there’s lots of features that lean on them.
+
+<strong>CHUCK:  </strong>Nice. Alright. Well, I think we’re running close to our time. In fact, I think we’re already in an hour. This has just been fascinating, and I’m sure we could sit here and talk about it for another hour. [Chuckles]
+
+<strong>KATRINA:  </strong>Easily.
+
+<strong>JAMES:  </strong>Go learn some regex.
+
+<strong>CHUCK:  </strong>So, are we going to make any regex jokes? Like you guys have been encouraging me to play with matches the whole time we’ve been talking.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>I’m sure David would have a field day with the regular, but…
+
+<strong>JOSH:  </strong>Didn’t we open with that joke?
+
+<strong>JAMES:  </strong>Yeah, yeah.
+
+<strong>CHUCK:  </strong>Yeah, maybe.
+
+<strong>KATRINA:  </strong>I don’t think we did. I think you promised David you would make the joke and then you didn’t.
+
+<strong>JAMES:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>Oh yeah, that was just in the pre-show.
+
+<strong>JOSH:  </strong>Yeah. [Chuckles] The moment has passed. [Chuckles]
+
+<strong>CHUCK:  </strong>Alright. Well then, if there’s nothing else, let’s go ahead and hit the picks. James, do you want to kick us of with picks?
+
+<strong>JAMES:  </strong>Sure, I will. I got to thank Eric Hodel and Evan Light for these picks, because they were having a conversation on Twitter that I got dragged into, about one of my all-time favorite games. If you’re a regular Rogues listener, you’ve probably figured out that I love Masters of Orion and consider it the best strategy game ever. Well, it turns out you can actually play these really old games even on modern computers. There’s this great site, GOG.com for Good Old Games. And they have Masters of Orion 1 &amp; 2 for $6. I picked them up and my wife and I spent the weekend playing Masters of Orion and it’s still absolutely amazing. It’s still as great as it always was. So if you, like me, love those games, then you should check them out. And if you just love old games, you should check out GOG.com. Another thing that you made me aware of that I didn’t know of is there is a good version of an Orion-like game for the iOS. So, you can play it on your phone or iPad, and it’s call Starbase Orion. It’s really good. It’s very similar to MOO2 in a lot of ways. The combat’s a little different, so it has the minuses of not being quite as tactical as MOO2 was in the combat. But at the same time, it has some neat twists when you’re playing with friends and you can basically go in and help each other in fights, which is kind of neat. And you can play this asynchronously with other people. So, it’s pretty cool stuff, actually. It’s neat for if you like to play these games with other people. So, it’s a super cool strategy game that you can play in different places. Those are my picks.
+
+<strong>CHUCK:  </strong>Alright. Josh, what are your picks?
+
+<strong>JOSH:  </strong>Okay. So, my first pick is, let’s see. Somebody already took one of my picks, which was the XKCD comic about Regular Expressions, but there’s also a t-shirt. So, my pick is the XKCD ‘Stand back everybody, I know Regular Expressions’ t-shirt.
+
+<strong>NELL:  </strong>Huzzah!
+
+<strong>JOSH:  </strong>Yes. You too can save the day with your knowledge of context-free grammars. Okay. And then, it’s been a busy week for me. My other pick is a very clever trick that many people don’t know that you can do in Skype and that’s if you typo something when you’re typing in the chat room in Skype, you can use the old syntax from, I think it was sed or awk or I think SNOBOL, where you type s and then / and then do your search string and / and then your substitution string. So, if you type ‘teh’ and then hit return, you type s/teh/the and it will correct your typo and no one will be the wiser.
+
+<strong>JAMES:  </strong>Most people know that from Perl.
+
+<strong>JOSH:  </strong>Yeah, yeah.
+
+<strong>JAMES:  </strong>It’s Perl syntax.
+
+<strong>CHUCK:  </strong>Yeah, it’s also pretty close to vim.
+
+<strong>JOSH:  </strong>Right, yeah. But it works in Emacs. It’s great. [Chuckles] So, I had been typing that, I mean not in Emacs, it works in Skype. But I’ve been typing that in IRC for years as a message to the other readers that, “Oh, here, I’m correcting my typo in my last thing,” but Skype just does it for you. It was one of those features that I found by accident.
+
+<strong>JAMES:  </strong>There was an IRC client that would do it, too. It might have been Colloquy and you might have had to grab a plug-in for it, but there was an IRC client that when you did that, it would go and grab your last input and fix it and repost it.
+
+<strong>JOSH:  </strong>Okay. So anyway, that’s it for me this week.
+
+<strong>CHUCK:  </strong>Nice. Katrina, what are your picks?
+
+<strong>KATRINA:  </strong>Today, I’m going to pick Brakeman because I can’t believe we actually haven’t picked it yet. Brakeman is an open source vulnerability scanner for Ruby on Rails and it uses static analysis to find security issues. And it is really, really good. And I do believe that this is what the Code Climate Security Monitor uses at its core.
+
+<strong>CHUCK:  </strong>Cool. Avdi, what are your picks?
+
+<strong>AVDI:  </strong>So, James mentioned that using Regular Expressions or trying to write Regular Expressions in Emacs is horrible. And I totally agree because it doesn’t have a Regular Expression literal on its own. But if you do use Emacs, there are a couple of built-in tools that make Regular Expressions a lot nicer. There’s rx, which is basically a macro where you can type out a Regular Expression as an s-expression. It’s kind of like a longhand for Regular Expressions where rather than using the short little symbols, you use things like zero-or-more, one-or-more. And it’s basically just Lisp code, except that you’re building a Regular Expression and then it evaluates that and turns it into an Emacs Regular Expression that’s built-in. There’s also something called Re Builder, something like that, which is basically just an interactive window where you can build up a Regular Expression and back in the main window, it’s showing you what it’s matching and you can see what the different groups are matching and stuff like that. It’s really handy.
+
+<strong>JAMES:  </strong>That Re Builder is awesome, because you can tell it to not use the super dumb default backslashes everywhere mode and you can build it normal and it will insert all the stupid backslashes for you when you take it out.
+
+<strong>AVDI:  </strong>Nice. I did not know that. So, one non-technical pick is going to be Southwest Airlines. I’ve been flying them long enough that I’ve started to wonder if maybe my impression of how much nicer they are than other airlines has gotten kind of skewed. But having spent 12 hours or so under the tender mercies of US Airways, I think that Southwest really is like night and day from other airlines when it comes to what the people are like. I don’t know what they do or what they feed their people, but I miss non-surly flight attendants and gate attendants and all that stuff.
+
+<strong>JAMES:  </strong>Plus one. Yes. I’ve actually seen on Southwest Airlines, there was this short flight and they couldn’t get up from the seat. And so, they weren’t going to do the snack thing. So, the flight attendant in the front literally just starts hawking packages of peanuts to everyone.
+
+[Laughter]
+
+<strong>JAMES:  </strong>That is the kind of thing they do. They are so nice.
+
+<strong>JOSH:  </strong>I’ve been on a cross-country, coast to coast Southwest flight where along about the middle, one of them got up there and led a stretching session.
+
+<strong>JAMES: </strong>[Chuckles] That’s awesome.
+
+<strong>CHUCK:  </strong>Nice. I usually fly Delta and I flew Frontier once or twice and they’re pretty horrible too, Frontier is.
+
+<strong>JOSH:  </strong>I just miss PSA Airlines. They were like Southwest back in the 80’s or whatever they were. They were much more fun than everybody these days. Pacific Southwest Air. Yeah, anyway.
+
+<strong>CHUCK:  </strong>Cool.
+
+<strong>JOSH:  </strong>Sorry about hijacking your pick. [Chuckles]
+
+<strong>AVDI:  </strong>No worries.
+
+<strong>CHUCK:  </strong>So Southwest Airlines, do you have any others?
+
+<strong>AVDI:  </strong>That’s it.
+
+<strong>CHUCK:  </strong>Okay. I’ll go next. I’ve been playing, I was pretty burned out a couple of weeks ago and the way that I got through it was I went and bought StarCraft 2. StarCraft is one of my all-time favorite computer games and…
+
+<strong>JOSH:  </strong>Woohoo!
+
+<strong>CHUCK:  </strong>StarCraft 2 has just been a lot of fun. And so at first, I just played several hours just to get over everything. I’m not sure exactly what my issues were. I just was just kind of fried. But then, I started doing things like I would work for an hour and then I could play a campaign on StarCraft and that worked out. And so now, I’m kind of back in it and feeling good and enjoying coding again. And so, that’s one pick. Another pick that I have is a TV show that I’ve been watching. It’s not my favorite TV show, but I think it’s pretty good. It’s called Continuum and it’s on SyFy here in the US. It’s actually a Canadian TV show. And so, the Canadians get it first and then the Brits get it next and then we get it after that. So anyway, those are my picks. Nell, what are your picks?
+
+<strong>NELL:  </strong>Alright. My first pick is a blog post by Patrick Shaughnessy called ‘Exploring Ruby’s Regular Expression Algorithm’. If you’ve ever been curious about how Ruby or Oniguruma works under the hood in the C code, it’s a fantastic introduction to that. And it’s amazing to see how it works, how the magic of Regular Expressions works and see the code that does that. The next is ‘/Reg(exp){2}lained/: Demystifying Regular Expressions’, which I mentioned earlier. It’s a presentation by Lea Verou at O’Reilly Fluent. And it’s a fascinating, not only walkthrough of regex in general, but also look at regex from a JavaScript web development standpoint. And as I mentioned earlier, it presents several regex best practices, which I haven’t thought of before. So, it was very enlightening. My final pick is a non-technical pick. And it’s Naginata, which is a martial art I’ve been practicing for about a year and a half now. It is a Japanese martial art that’s very similar to Kendo. But rather than using a bamboo sword, it actually uses about a six-foot long pole arm with a bamboo blade at the end. Well, the practice ones use bamboo, the real ones obviously use a real blade. And it’s a fantastic break from my computer screen. It’s a way of uniting body, mind, and spirit. When I’m programming, I’m constantly planning one step ahead and that sometimes spills over into real life. And when I’m doing Naginata, I need to be fully in the moment which helps me think clearer and feel much better. And those are my picks.
+
+<strong>JAMES:  </strong>That’s awesome.
+
+<strong>CHUCK:  </strong>Yeah, that is cool. Alright. Well, let’s go ahead and wrap this up. One thing I want to mention, I should have probably mentioned it at the beginning of the show, is that several people have pointed out that there are issues with the RSS feed not having all of the episodes in it. I am fighting the good fight with FeedBurner and losing. So, if you notice that your feed, podcapture, whatever you want to call it, redirects you to a new feed, sometime soon, that’s me. And it will redirect you to a feed that has all of the episodes in it. So, just be aware, that’s something that we are working on. And that’s also a feature that’s going to go into the new DevChat.tv, is a feed that will behave the way that you want it to. Anyway…
+
+<strong>JOSH:  </strong>Hey Chuck, one last thing.
+
+<strong>CHUCK:  </strong>Yes?
+
+<strong>JOSH:  </strong>I realized looking at Twitter yesterday that yesterday, as we record this, so May 7<sup>th</sup> was the one year birthday of the Ruby Rogues Parley list.
+
+<strong>CHUCK:  </strong>That’s right. We announced it at RailsConf last year.
+
+<strong>JOSH:  </strong>Yeah. So, happy birthday to all those Parley members. Thanks for supporting the show. And if you’re listening to this and haven’t heard of the Parley list before, go to Parley.RubyRogues.com, and that’s our private discussion list and you can chat with us about the shows and other people in our list. We have well over 1000 people on the list now. And it’s really good, high quality content, low noise and lots of fun.
+
+<strong>JAMES:  </strong>Most of the guests we’ve have on are also on the list, including Martin Fowler, who posted in Nell’s thread that I mentioned earlier about Regular Expressions, he’s in there. Jim Weirich, everybody. It’s great.
+
+<strong>NELL:  </strong>I was really flattered when he posted in the thread that I started.
+
+<strong>CHUCK:  </strong>Yeah, I have to say that it’s actually really cool that we have guys like Jim and Martin that actually get in and read the list and participate. It’s really, really cool, at least in my mind.
+
+<strong>JOSH:  </strong>Very cool.
+
+<strong>JAMES:  </strong>Should we mention the Book Club date now that we have one?
+
+<strong>CHUCK:  </strong>Yes.
+
+<strong>JOSH:  </strong>Oh, sure.
+
+<strong>JAMES:  </strong>It is June 19<sup>th</sup>. We’re doing ‘Explore It!’, again by Elisabeth Hendrickson. So June 19<sup>th</sup>, it’s a short book. There’s plenty of time to read it. So, you have no excuses.
+
+<strong>CHUCK:  </strong>Yeah, I was going to say it seems like it’s coming up soon, but yeah it’s not a long read.
+
+<strong>JOSH:  </strong>So wait, we’re recording on the 19<sup>th</sup> so that’ll air or be available for download.
+
+<strong>CHUCK:  </strong>The 26<sup>th</sup>.
+
+<strong>JAMES:  </strong>Good point, you’re right. It comes out the week after.
+
+<strong>JOSH:  </strong>So, everyone else gets an extra week. Although, I think we’re trying more to get the guests and the authors engaged on the Parley list more. So, if you have questions about the book that we can discuss on the air, read it beforehand, get those questions in on Parley and we can talk to the author about that.
+
+<strong>CHUCK:  </strong>Yeah. And finally, I would be remiss if I didn’t tell you that we are all going to be in Austin for Lone Star Ruby Conference. So, if you want to meet all of us, then that’s a good way to do it. So, go register for the conference and we’ll see you there.
+
+<strong>JAMES:  </strong>z.

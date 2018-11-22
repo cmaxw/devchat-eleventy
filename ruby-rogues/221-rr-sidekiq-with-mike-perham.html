@@ -1,0 +1,567 @@
+---
+layout: layouts/post.njk
+title: >
+      221 RR Sidekiq with Mike Perham
+date: 2015-08-19 15:00:00
+episode_number: 221
+duration: 0:55:21
+audio_url: https://media.devchat.tv/ruby-rogues/RR221Sidekiq.mp3
+tags: ruby-rogues
+---
+
+<p dir="ltr" style="text-align: center;"><span style="font-size: 18px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Check out </span><a style="text-decoration: none;" href="http://www.angularremoteconf.com">Angular Remote Conf</a><span style="background-color: transparent; color: #000000; font-family: arial;"> and </span><a style="text-decoration: none;" href="https://devchat.tv/rails-clips">RailsClips</a><span style="background-color: transparent; color: #000000; font-family: arial;">!</span></span></p>
+&nbsp;
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">03:15 - Mike Perham Introduction</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://twitter.com/mperham">Twitter</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/mperham">GitHub</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.mikeperham.com/">Blog</a></span></li>
+ 	<li><span style="font-size: 14px;"><u><a style="text-decoration: none;" href="http://contribsys.com/">Contributed Systems</a></u></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/mperham/sidekiq">sidekiq</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="line-height: 1.6; text-decoration: none;" href="https://github.com/mperham/dalli">dalli</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">03:43 - </span><a style="text-decoration: none;" href="http://contribsys.com/sidekiq/">Sidekiq</a><span style="background-color: transparent; color: #000000; font-family: arial;"> Overview</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/resque/resque">resque</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://jruby.org">JRuby</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">05:18 - Job Runners vs Queuing Systems, Background Jobs</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://www.rabbitmq.com/">RabbitMQ</a></span>
+<ul>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/jondot/sneakers">sneakers</a></span></li>
+</ul>
+</li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">08:47 - Performance</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/celluloid/celluloid">celluloid</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">09:49 - </span><a style="text-decoration: none;" href="https://github.com/celluloid/celluloid">celluloid</a><span style="background-color: transparent; color: #000000; font-family: arial;"> vs Ruby Threads</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">11:47 - </span><a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Global_Interpreter_Lock">The GIL (Global Interpreter Lock)</a></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">12:49 - Passing Data</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">14:01 - Performance Boost From Using </span><a style="text-decoration: none;" href="http://jruby.org">JRuby</a><span style="background-color: transparent; color: #000000; font-family: arial;">?</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">15:48 - </span><a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Actor_model">The Actor Model</a></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/tarcieri/revactor">revactor</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://rubini.us">Rubinius</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/mperham/girl_friday">girl_friday</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">20:39 - Sidekiq Roadmap</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Statistics &amp; History</span></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">21:44 - </span><a style="text-decoration: none;" href="http://www.mikeperham.com/2015/08/06/sidekiq-enterprise">Sidekiq Enterprise</a></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">27:58 - Sidekiq vs Resque</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/mperham/sidekiq/wiki/Scheduled-Jobs">Scheduled-Jobs</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">29:50 - Adding Features to Sidekiq</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">30:28 - “Unique Job”</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">31:17 - </span><a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Idempotence">Idempotency</a> </span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/mperham/sidekiq/wiki/Best-Practices">Sidekiq Best Practices Page</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">33:12 - Mixing In Other Data Stores</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://redis.io">Redis</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="line-height: 1.6; text-decoration: none;" href="http://kafka.apache.org/">Kafka</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://activemq.apache.org/apollo/">Apollo</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">38:42 - Encoding</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">40:04 - Format</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">40:36 - </span><a style="text-decoration: none;" href="https://github.com/mperham/sidekiq/wiki/Active-Job">The Active Job Adapter</a></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">41:23 - Making Open Source Viable and Sustainable</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">44:04 - Launching An Open Source Project</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://www.kickstarter.com/">Kickstarter</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/BSD_licenses">BSD</a><span style="background-color: transparent; color: #000000; font-family: arial;"> &amp; </span><a style="text-decoration: none;" href="http://www.gnu.org/licenses/lgpl-3.0.en.html">LGPL</a><span style="background-color: transparent; color: #000000; font-family: arial;"> Licences</span></span></li>
+</ul>
+<span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Picks</span></span>
+<p dir="ltr"><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://exple.tive.org/blarg/2013/10/22/citation-needed/">Mike Hoye: Citation Needed</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (David)</span>
+<a style="text-decoration: none;" href="http://www.target.com/p/code-master/-/A-17065131">Code Master</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Coraline)</span>
+<a style="text-decoration: none;" href="http://www.robotturtles.com">Robot Turtles</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Coraline)</span>
+<a style="text-decoration: none;" href="https://stups.io">Zalando STUPS</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jessica)</span>
+<a style="text-decoration: none;" href="http://play.elevatorsaga.com/">Elevator Saga</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://developeronfire.com/Podcast/Episodes/episode-17-charles-max-wood-get-involved-and-try-new-things">Developer On Fire: Episode 017 - Charles Max Wood - Get Involved and Try New Things</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="https://modelviewculture.com">Model View Culture</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Mike)</span>
+<a style="text-decoration: none;" href="https://plasso.co">Plasso</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Mike)</span>
+<a style="text-decoration: none;" href="https://vimeo.com/135347162">James Mickens: Not Even Close: The State of Computer Security (with slides) from NDC Conferences</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Mike)</span></span></p>
+
+<h3>Transcript</h3>
+
+<strong>DAVID:</strong>  You can be pro-daisy without being accused of hating roses.
+
+<strong>CORALINE:</strong>  Daisies forever.
+
+<strong>DAVID:</strong>  That’s right.
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally, if you’re not looking for a job and know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/RubyRogues.]</em></strong>
+
+<strong><em>[This episode is sponsored by Codeship.com. Codeship is a hosted continuous delivery service focusing on speed, security and customizability. You can set up continuous integration in a matter of seconds and automatically deploy when your tests have passed. Codeship supports your GitHub and Bitbucket projects. You can get started with Codeship’s free plan today. Should you decide to go with the premium plan, you can save 20% off any plan for the next three months by using the code RubyRogues.]</em></strong>
+
+<strong><em>[Snap is a hosted CI and continuous delivery that is simple and intuitive. Snap’s deployment pipelines deliver fast feedback and can push healthy builds to multiple environments automatically or on demand. Snap integrates deeply with GitHub and has great support for different languages, data stores, and testing frameworks. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many more. Try Snap for free. Sign up at SnapCI.com/RubyRogues.]</em></strong>
+
+<strong><em>[This episode is sponsored by DigitalOcean. DigitalOcean is the provider I use to host all of my creations. All the shows are hosted there along with any other projects I come up with. Their user interface is simple and easy to use. Their support is excellent and their VPS’s are backed on Solid State Drives and are fast and responsive. Check them out at DigitalOcean.com. If you use the code RubyRogues, you’ll get a $10 credit.]</em></strong>
+
+<strong><em>[This episode is brought to you by Braintree. If you're a developer or a manager of a mobile app and searching for the right payments API, check out Braintree. Braintree's new v.zero SDK makes it easy to support multiple mobile payment types with one simple integration. To learn more and to try out their sandbox, go to BraintreePayments.com/RubyRogues.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 221 of the Ruby Rogues Podcast. This week on our panel, we have Jessica Kerr.
+
+<strong>JESSICA:  </strong>Good morning.
+
+<strong>CHUCK:  </strong>Coraline Ada Ehmke.
+
+<strong>CORALINE:  </strong>Hello from Chicago.
+
+<strong>CHUCK:  </strong>David Brady.
+
+<strong>DAVID:  </strong>I forgot how to podcast.
+
+<strong>CHUCK:  </strong>I'm Charles Max Wood from DevChat.TV. Just a couple of quick reminders. First off, I am putting together Angular Remote Conf. So, if you're into Angular, go check it out at AngularRemoteConf.com. And I also have RailsClips up. So, if you're interested in learning how to do APIs with Ruby on Rails, that's what I'm focused on right now. And then we'll get into other stuff after I'm done with that.
+
+We also have a special guest this week, and that's Mike Perham.
+
+<strong>MIKE:  </strong>Howdy, everybody. Thanks for having me.
+
+<strong>CHUCK:  </strong>Do you want to introduce yourself?
+
+<strong>MIKE:  </strong>Sure. I'm Mike. I'm probably best known in the Ruby community for my work on Sidekiq, the background job processing framework. But I'm a long-time open source developer. Previous to that, I did Dalli and a bunch of half a dozen other gems that were moderately successful. But yeah, I've been doing Ruby and Rails eight years now I guess, something like that. So yeah, that's been a good run.
+
+<strong>CHUCK:  </strong>Very cool. Do you want to give us a quick overview on Sidekiq?
+
+<strong>MIKE:  </strong>Sure. Sidekiq came out of my desire to have a background job processing framework that was reasonably high performance. I was working at a consulting company that was working with a client that had a huge farm of Resque. And there were running on... they were a JRuby shop so they were running Resque on JRuby, which is an incredibly inefficient architecture. You have the JVM which is really big. And then you have Resque which is single-threaded. So, you're running a bunch of really fat JVMs to process jobs. They had hundreds of these JVM Resque processes, taking just gigs and gigs and gigs of memory. And probably I think a dozen or two dozen machines.
+
+And so I thought, “This is ridiculous. We need to get some multi-threading in here and they can go down to maybe a machine or two machines and save a ton of money.” And so, that's why I started to build Sidekiq, is to build something that was natively threaded and more high performance than what was out there at the time.
+
+<strong>CORALINE:  </strong>Is performance still the main differentiator between Sidekiq and Resque?
+
+<strong>MIKE:  </strong>Oh, for sure. Resque and delayed_job are still single-threaded. You still have to spin up a process for every job that you want to concurrently process, whereas Sidekiq by default runs 25 threads so you'll process 25 jobs concurrently. So, it's not unusual to see an order of magnitude performance increase when moving from Resque or delayed_job to Sidekiq.
+
+<strong>CHUCK:  </strong>One thing that you mentioned while we were emailing back and forth about what we wanted to talk about was that there was a difference between job runners and queuing systems, so for example Sidekiq and Resque versus RabbitMQ. Can you explain what the difference is there? Because they seem to be used for a lot of the same things.
+
+<strong>MIKE:  </strong>Sure, yeah. There are some subtleties here that I'm paying attention to that maybe people miss. I think of a background job system as something that integrates pretty tightly with the application code. And it typically integrates really tightly with the language and runtime, too. So, with Sidekiq you actually create a class which represents a job that you want to run. And you effectively pass a set of method arguments to it. And then that method will be called in a Sidekiq process somewhere else. So, that to me is like background jobs. And they're much close to the application.
+
+With something like message queuing where you have maybe something like RabbitMQ, you don't have that tight integration with your application or with your code. You just send it a blob of bytes that represent your message. And it can be in any sort of format. You're responsible for serializing and deserializing it on both ends on the client and the worker side. And typically it's language-independent. So, you might be enqueuing from a Perl process a message that will be processed by a Scala process or something like that.
+
+So yeah, I think of background jobs as very tightly integrated with the application whereas an MQ system is something where a bunch of different applications talk to each other through it. Does that make sense?
+
+<strong>CHUCK:  </strong>Makes sense to me.
+
+<strong>MIKE:  </strong>It may be semantics. It may be subtleties that don't matter to a lot of people. But that's the way I see it.
+
+<strong>CORALINE:  </strong>So, with a background job the real advantage there is you get to take advantage of your application code?
+
+<strong>MIKE:  </strong>Exactly. Because it's tightly integrated with your application it's usually much simple to spin off a background job than it is to send a message to an MQ. So, with RabbitMQ for instance, if you want to integrate it into your application, you've usually got to develop some sort of client API and some sort of conventions for your messages and how they're serialized. And then on the other side you've got to build yourself a worker process that processes those messages. So, it'll use the RabbitMQ API to pull messages off and process them. There's nothing out there that will do that automatically for you.
+
+In fact, there has been one bridging of RabbitMQ the MQ system into Ruby. And that's a gem called Sneakers, which does this work that I'm talking about. It sets up a convention for how to create a background job that is passed to RabbitMQ and then pulled off by a Sneakers process somewhere else that then runs your application code.
+
+<strong>JESSICA:  </strong>So, while queuing like on RabbitMQ can be used for decoupling, Sidekiq and background jobs are explicitly not about decoupling. They're just about moving something off of your current thread?
+
+<strong>MIKE:  </strong>Exactly. That's the way I think of it. Rabbit is great when you're trying to communicate between distinctly different applications. Sidekiq and Resque and delayed_job are great when your application just wants to process a set of data in the background.
+
+<strong>CHUCK:  </strong>So, I'm curious. Going back to Sidekiq and the difference between it and Resque, how do you get that performance bump?
+
+<strong>MIKE:  </strong>It's all about threading. And I am lucky enough to have used Celluloid almost from the first... almost from day one. I used Tony Arcieri's Celluloid to make threading easy to deal with. I'm personally... I like concurrency and I like performance, but I think threads are a terrible API and I don't think anyone should use them. I choose to farm out my usage of Celluloid to Tony and his team building Celluloid.
+
+And so, Sidekiq actually doesn't use any threads internally. It doesn't use any mutexes internally. It uses Celluloid APIs exclusively to do all of its concurrency. And that makes things a lot easier to build, a lot easier to reason about, so that I have to deal with race conditions and random crashes far less than if you're using a lower level API like threads.
+
+<strong>CHUCK:  </strong>For those that aren't familiar with Celluloid, can you give the... I don't completely I guess understand the difference between a Celluloid thread and a Ruby thread.
+
+<strong>MIKE:  </strong>Well, under the covers they're the same thing. Celluloid is actually using threads. But the way that Celluloid exposes concurrency through its APIs is much safer than using threads directly. Celluloid is a manifestation of what's called the Actor pattern. So, you create objects and those objects run on their own threads. So, when you call methods on these various objects, you're actually sending a message to another thread to execute that method.
+
+And so, this way you can have a whole bunch of asynchronous objects all collaborating together. But they're not specifically synchronizing with each other. You've not having them use mutexes to coordinate directly. Celluloid handles all of that for you internally. So, it turns out to be a lot easier to reason about, because you're thinking about how are these objects communicating with each other and not thinking about, “Do I need to lock this thing here? Do I need to worry about mutability of this call?” You don't have to worry about any of that because Celluloid handles it all internally.
+
+<strong>CHUCK:  </strong>So, just to clarify one thing and that is that it still has the same limitation with the GIL and things so that it's all single process?
+
+<strong>MIKE:  </strong>Correct. You don't get any parallelism. Two threads will not run at the same time with MRI no matter what you do.
+
+<strong>CHUCK:  </strong>Right.
+
+<strong>MIKE:  </strong>But you do get concurrency. So, while one thread is waiting on I/O, another thread will be running. And since server-side applications are typically very I/O heavy, Sidekiq runs great on MRI. And you'll see real nice speed out of it, even with the GIL. Unless you're doing something like ray tracing or something really CPU-heavy, but if you're doing that in Ruby...
+
+<strong>DAVID:  </strong>[Laughs]
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>MIKE:  </strong>You're a kooky bird.
+
+<strong>JESSICA:  </strong>[Laughs]
+
+<strong>DAVID:  </strong>You deserve what you get.
+
+<strong>MIKE:  </strong>Exactly.
+
+<strong>JESSICA:  </strong>As a non-Ruby dev, what's the GIL?
+
+<strong>MIKE:  </strong>So, the GIL is the global interpreter lock.
+
+<strong>JESSICA:  </strong>Oh, okay.
+
+<strong>MIKE:  </strong>Only one thread can be executing Ruby code at a given point in time. So, Ruby releases the GIL when you make an I/O call. So, if you're calling the database or Memcached or Redis or whatever, it'll release the GIL so another thread can execute Ruby during that time. Or, if you have a native gem, the native gem can say, “I'm going to release the GIL because I know that this computation is thread-safe.”
+
+<strong>JESSICA:  </strong>Is that why you don't have to worry about mutable data because in the end it's single-threaded anyway?
+
+<strong>MIKE:  </strong>The GIL helps with thread safety, but it is not a catch-all. You still get arbitrary spots where a thread can context switch. And so, if you do something like x plus equals 1, you can lose the increment because you're reading. You read, you increment, you write, you can lose increments due to race conditions, even with the GIL.
+
+<strong>JESSICA:  </strong>So, since everything is running in the same process, when you use Sidekiq or Celluloid in general, you should really watch out and not pass mutable data around?
+
+<strong>MIKE:  </strong>You can pass data around as long as you understand that when you're passing that data you're also passing ownership, right?
+
+<strong>JESSICA:  </strong>Right. That's what Rust encodes specifically, I think.
+
+<strong>MIKE:  </strong>In the type system so that you can't write in one place and at the same time read or write somewhere else.
+
+<strong>MIKE:  </strong>Correct. Yeah, typically with Celluloid because you have these objects that are asynchronous you'll typically have a single object, a singleton maybe that is responsible for data structure. And so, to mutate that data structure you'd call a method on that object. And then the thread internally will actually do the mutation so that it's safe.
+
+<strong>CORALINE:  </strong>How is that different on JRuby?
+
+<strong>MIKE:  </strong>Well, JRuby certainly ups the ante, makes it a little trickier because you have true parallelism, that is for sure. Sidekiq's use of Celluloid actors is safe. And it runs on JRuby great. But yeah, you're absolutely right that you do need to be more careful on JRuby than you need to be on MRI.
+
+<strong>CORALINE:  </strong>Is there a performance boost from using JRuby for Sidekiq?
+
+<strong>MIKE:  </strong>I think the answer to that is probably yes. There's a question of how fast does it execute Ruby just plain and simple or just single-threaded. And JRuby usually keeps up with MRI pretty well in that regard. But JRuby will also scale across cores. So, you can be executing those 25 threads that I mentioned that Sidekiq spins up, you can have 25 cores and JRuby will execute 25 background jobs in parallel. From that perspective, there's going to be a huge benefit to JRuby. Typically with MRI you're going to run multiple processes anyways. So, if you have an eight-core machine, you might run eight Sidekiq processes so that you do get the benefit of all those cores.
+
+<strong>CHUCK:  </strong>That makes sense. So then, you get the benefit of having eight workers plus 25 threads working each of those, or however you want to think about it. But essentially then you're getting the parallel, well the concurrency (I don't want to say parallelism), but you get the parallelism through the processes and the concurrency through the threads.
+
+<strong>MIKE: </strong>Exactly.
+
+<strong>JESSICA:  </strong>I've worked with actor systems in Scala. And in that case, we were always careful that any messages passed between actors were immutable, because of course it's on the JVM.
+
+<strong>MIKE:  </strong>Yeah, absolutely. Absolutely.
+
+<strong>JESSICA:  </strong>So, there are lots of threads. Right. And the beauty of the actor system is that within one actor, the actor will only ever run on one thread at a time. So, within the actor it's fine for it to mutate its own data.
+
+<strong>MIKE:  </strong>Exactly. And you know that only one method is going to be called on that actor at any given moment. So, anything you do with internal data to that actor is thread-safe automatically.
+
+<strong>CHUCK:  </strong>Can you explain the actor model really quickly?
+
+<strong>MIKE:  </strong>Sure. I think the simplest way to describe actors is they are just asynchronous objects, asynchronous instances    . So, when you do a foo.new, you can call methods on foo but those methods won't execute on your thread. They're asynchronous. So, you can't depend on the return value for instance unless you explicitly say, “I want to wait on the return value of this method.” So typically, what you're doing is you're using it more as like a message passing. You're not outsourcing logic to another object so that you can call it, calculate it, and work on the return value. You're just calling another object to say, “Do this.” And that object will go do it in the back.
+
+The way that Sidekiq uses it is Sidekiq starts up probably a half a dozen different actors. It has what's called the fetcher which is all it does is fetch jobs from Redis. It has a manager. The manager is what calls the fetcher to fetch jobs. And then the manager managers all the processors which are the actors that actually execute their job. So, a processor says, “Okay, I'm ready for a job.” It calls to the manager. The manager calls to the fetcher to say, “Give me a job.” The fetcher passes it back to the manager. The manager passes it to the processor. The processor then executes it. So, there's all this asynchronous data flow that's happening within Sidekiq constantly. But the point is that each actor has its own one responsibility.
+
+<strong>JESSICA:  </strong>I think of actor model as more OO than OO. Because in Ruby you talk about method calls as message passing, and in actor system it's literally message passing.
+
+<strong>MIKE:  </strong>Right.
+
+<strong>JESSICA:  </strong>And the original OO principle of 'tell, don't ask' really happens in actor models.
+
+<strong>MIKE:  </strong>Yeah. It has to, right, since everything's asynchronous. Right. And in OO, oftentimes the only thing you're using OO for is encapsulation. You just want to encapsulate this logic. You're still going to call asynchronously to work on the return value. But with actors you have to explicitly decide to do that.
+
+<strong>CORALINE:  </strong>Was the actor model something you baked in from the beginning or is that something you came to later?
+
+<strong>MIKE:  </strong>I baked it in immediately. I've worked on several different background job systems before Sidekiq. At previous jobs I wrote three different background job systems before I actually started writing Sidekiq. So, you could argue that I was an “expert” (air quotes) in the field as much as one can be as a [chuckles] hobbyist open source person. But yeah, I knew that I didn't want to deal with threads because I've programmed with threads enough to know that it's just not fun to do that stuff directly and to debug race conditions and that sort of thing. I wanted something a little nicer.
+
+So, I used... Tony Arcieri, the creator of Celluloid, he had a previous actor system called Revactor. And then Rubinius actually ships with an actor API also. So, the previous background job system that I wrote which was called girl_friday, it used this actor API from Rubinius. And that worked out okay. But I didn't like the API all that much. And then Tony started working on Celluloid which was his next generation Revactor. And I knew that because he'd had experience doing Revactor he'd probably do a pretty good job on iteration number two. He'd learn from his mistakes and so on. He did Celluloid for about six months. And then I just decided, “Hey, I'll use it on Sidekiq.” And so, I did. And it worked out great.
+
+<strong>JESSICA:  </strong>So, there's definitely something to the 'right one to throw away' idea.
+
+<strong>MIKE:  </strong>[Chuckles] Yeah, or two or three, right? Exactly. And also, use all the various different systems. Like I said, I'd been using Resque at a previous client. I knew how Resque worked. I'd used delayed_job at a previous job so I knew how that worked. So, I had my own opinions on what were good API designs to include, what ones were bad that I didn't want to include. I'll give you an example. Sidekiq uses the middleware pattern like in Rack. So, you actually yield a block. And that allows you to do before, around, and after code snippets when a job runs. I decided to use middleware instead of callbacks like Resque uses. And Rails loves callbacks. I personally find callbacks to be an anti-pattern and don't like their usage.
+
+<strong>CORALINE:  </strong>Callbacks are the devil.
+
+<strong>MIKE:  </strong>Thank you.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>MIKE:  </strong>[Chuckles]
+
+<strong>CHUCK:  </strong>I have a JavaScript podcast where we discussed some of that.
+
+<strong>MIKE:  </strong>Yeah. So, Sidekiq doesn't use callbacks anywhere because I distinctly hate that pattern.
+
+<strong>CORALINE:  </strong>So, you're on version 3 right now. Is that correct?
+
+<strong>MIKE:  </strong>Sidekiq is on version, yeah, it's 3.4 right now I think. Yeah.
+
+<strong>CORALINE:  </strong>So, what do you have planned for version 4?
+
+<strong>MIKE:  </strong>Oh, lord. Sidekiq is pretty stable right now, honestly. I'm pretty happy with it. I don't have a gigantic road map for it. I've got a Google Summer of Code fellow who's working in, he's in Russia actually. Shout-out to Anton. But he is working on some statistics and history for the web UI so that it'll track job execution history and statistics like how many failed, how many succeeded, what the average time and standard deviation of your job execution was. So, he's working on a plugin on that and I'm mentoring him on that right now. But I've been working, well the last couple of months I've been working on Sidekiq Enterprise which I just released last week. Sidekiq has been in maintenance mode for the last few months while I worked on that product.
+
+<strong>CORALINE:  </strong>What's different about Sidekiq Enterprise?
+
+<strong>MIKE:  </strong>Oh, boy.
+
+<strong>CHUCK:  </strong>[Chuckles]
+
+<strong>MIKE:  </strong>So, this brings us into the commercial open source business model, 'How do you make open source viable and sustainable?' kind of topic. But when I started doing Sidekiq I realized that this was going to be a big project. There was going to be hundreds if not thousands of users using it. And so, I would be getting a lot of support requests. I'd be getting a lot of issues, a lot of PRs. In other words, there'd be a lot of maintenance and a lot of my time required to build Sidekiq and support it like I wanted to support it.
+
+So, I actually started the project with a mind of, “How do I make money? How do I make this sustainable for me? How do I justify my time away from my family in helping perfect strangers on the internet?” So, I actually wanted to develop some sort of business model around Sidekiq. And what I've wound up with is an open core model where Sidekiq is free and open source for everybody to use. And then I sell commercial versions of Sidekiq that have more features. So, I've sold Sidekiq Pro for a number of years now. Sidekiq Pro is an enhancement of Sidekiq that includes a number of additional features that the open source version does not have.
+
+And then last week I introduced Sidekiq Enterprise which is a further variant on top of Sidekiq Pro, which includes even more features. And so, that way I think that the model that I have right now is really nice, works really well, sort of a small, medium, large kind of approach to selling something. You go to a fast food place and they ask you, “Do you want a small, medium, or large?” And the same is true of Sidekiq. Do you want the basics that work really well? Do you want something that has a little more features and really allows you to do a lot of really interesting things with background jobs? Or do you want the ultimate, right? Something that really is good if you're building your entire business on top of Rails and Sidekiq.
+
+<strong>CORALINE:  </strong>What sort of challenges does that pose in your regular daily life to have to support these multiple versions?
+
+<strong>MIKE:  </strong>Well, my day job has transformed from writing code for other people to being mostly a support person. Most of my job every day is support. So, I'm answering emails. I'm on Stack Overflow multiple times a day looking to see if there are any Sidekiq questions that need to be answered. I troll through reddit and Hacker News and all the various different sites where there are developers who are posting questions and chatting about various tools so that I can support and help answer people's questions. Yeah, there are two aspects to my job which is just have a road map for where I want Sidekiq, Sidekiq Pro, and Sidekiq Enterprise to go and build that; but there's also supporting my current customers and my open source users. So yeah, every day is different and yet the same.
+
+<strong>JESSICA:  </strong>Do you ever get bored focusing on one project all the time? And you've been doing it for how many years?
+
+<strong>MIKE:  </strong>I've been doing Sidekiq for three and a half years now.
+
+<strong>JESSICA:  </strong>You must really love it, which is awesome.
+
+[Chuckles]
+
+<strong>JESSICA:  </strong>Just personally I would be like, I would want to work on something else.
+
+<strong>MIKE:  </strong>No, I do love it. Performance and concurrency and asynchronous jobs are something that I've dealt with many times, as I've mentioned before. And I've built them so many times that it is really something that I enjoy. And I feel that I have the expertise to help build something that is really reliable and useful for people. So, the only question in my mind when I started it was, “How do I make this viable so I can actually make it my full-time job?” And now that's where the commercial sales come in. And that's why it's been a real blessing to see the community for the most part react very positively to it. And I've got over 500 customers now who have paid for it. And that really allows me to support them and support the whole breadth of the product full-time.
+
+<strong>JESSICA:  </strong>That's wonderful.
+
+<strong>MIKE:  </strong>Yeah.
+
+<strong>JESSICA:  </strong>Because this work, this running of jobs in the background, it sounds super simple on the surface but it is super hard to do it right.
+
+<strong>MIKE:  </strong>[Chuckles]
+
+<strong>JESSICA:  </strong>And it's fantastic that you love it and you're right. You're expert at it and do it really well.
+
+<strong>MIKE:  </strong>Right. You know, oftentimes the simple case is easy. But then the minute you start adding... you know how it is, right? We're all developers.
+
+<strong>JESSICA:  </strong>Yeah. [Chuckles]
+
+<strong>MIKE:  </strong>You add a feature, the code geometrically explodes in complexity. So, as you build all these features, as you build all these capabilities, the codebase either quickly becomes a rat's nest or maybe you throw your hands up in disgust and just walk away from the project. But I think the fact that I had a number of opportunities to build previous iterations of it, like Tony with his actor system, allowed me to have a better judge as to APIs that I wanted to use in designs. Such that it's been relatively easy for me to build these features. I haven't had to redesign APIs much to add features. It's actually worked out really, really well. So yeah, I'm really happy with it.
+
+<strong>JESSICA:  </strong>And just like Celluloid has made it so that you can use threads without dealing with threads, Sidekiq lets other developers use background jobs and do it well without getting into all those complications.
+
+<strong>MIKE:  </strong>Right, exactly. My belief over the last decade that I've developed over the last decade, has been avoid building your own infrastructure if possible. You should be reusing infrastructure like Sidekiq, like Rack, that make HTTP easy to do, that make background jobs easy to do. So that if you want to fan out a lot of work in parallel, you just create a thousand Sidekiq jobs and Sidekiq will just churn through it in 30 seconds. And that way, you don't have to deal with threads. You don't have to deal with locks. You don't have to deal with any of that kind of stuff. So, that's I think maybe I'm violently in agreement with you [chuckles] but that's the whole idea behind Sidekiq and what I do.
+
+<strong>CHUCK:  </strong>One thing that I've been using, I've been using Resque I'll admit to that. [Chuckles]
+
+<strong>MIKE:  </strong>[Chuckles]
+
+<strong>CHUCK:  </strong>But I've been using Resque and then I've been using the Resque scheduler to schedule specific jobs. So, you basically just get this plugin that you can hook into Resque. Do you have the same kinds of things for Sidekiq?
+
+<strong>MIKE:  </strong>Yeah. So, when I created Sidekiq one of the things that I didn't like about Resque was the fact that you had to add on all these different gems to add features. It feels like Resque on its own is very simplistic and just all it does is spin off work. At the heart of it, it's very simple. So, if you want to do things like scheduled jobs or if you want a web UI to see, to introspect your jobs, you've got to add on all these different gems. And the problem with that is when you version these things differently you get incompatibilities really quickly. And you have to deal with: this UI is only compatible with Resque 1.2 and this is compatible with 1.3 and up. Going back to the more features you had the more complex your codebase gets, the more gems you add, the more complex your versioning and your Bundler graph gets, your dependency graph gets.
+
+So, what I tried to do from day one with Sidekiq is build in all the features that I wanted into the Sidekiq gem itself. So, it does not... to me you can do a ton with Sidekiq without using any sort of third-party gems at all. So, it's got web UI built in. It's got the scheduler built in and delayed jobs built in. It has that concept of the middleware. It has a full API so that you can actually iterate through the data store in Redis. You can iterate through all the metadata about the job system. Yeah, so it probably has four or five different features that are extra for Resque which I felt were important from day one and should be in the base gem.
+
+<strong>CHUCK:  </strong>If there is a feature that's not in Sidekiq that you wish you had, is there a way to add that on? Or do you just...
+
+<strong>MIKE:  </strong>Yeah, absolutely.
+
+<strong>CHUCK: </strong> [beg] Mike?
+
+<strong>MIKE:  </strong>No, no, absolutely. I accept PRs. There's a healthy third-party gem ecosystem for Sidekiq, things like unique jobs. For the longest time Sidekiq did not offer unique jobs. So, there are actually two different third-party gems which add unique job capability to Sidekiq. And that feature is in Sidekiq Enterprise also. So, there are actually three different unique job solutions now. You can use one of the free open source ones. Or you pay for Sidekiq Enterprise and use the one that I wrote and support.
+
+<strong>DAVID:  </strong>A unique job. That's guaranteeing that a job runs once and exactly once?
+
+<strong>MIKE:  </strong>What it tries to do is ensure that you don't enqueue multiple of the same job at the same time. So, if you say for instance, “Sync this address to a third-party API,” if that's your background job, you don't want to sync it multiple times, maybe. You just want to sync it once and then it'll execute and sync what's in the database to your third-party store.
+
+<strong>DAVID:  </strong>Right.
+
+<strong>MIKE:  </strong>You don't need to sync it 20 times if the user updates the address 20 times, especially if your queue's backed up. If that address sync job is still pending in the queue, there's no reason to push it again. So, that's what unique jobs does, is it ensures that the client does not enqueue multiple copies of the same job if that job is still pending.
+
+<strong>DAVID:  </strong>Gotcha. That actually leads me to one of the questions that I'd like to talk about anybody that's doing distributed messaging stuff. If you've got multiple things that are going to monkey with the address thing, like we talked earlier in the show about race conditions and those kinds of problems. With Sidekiq do you see, well you've got to be seeing this. I'm just curious to know how and where you're seeing people dealing with... do they try to go idempotent so that things can be run multiple times without multiple side-effects? Or are you seeing best practices in that? Are you seeing people just give up on idempotency?
+
+<strong>MIKE:  </strong>Well, for sure Sidekiq actually has a wiki page called 'Best Practices' which actually says [chuckles] make your jobs idempotent. So, you're dead on.
+
+<strong>DAVID:  </strong>Nice.
+
+<strong>MIKE:  </strong>Great minds think alike, I guess here.
+
+<strong>DAVID:  </strong>Eh fools seldom differ, sure.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>MIKE:  </strong>Yeah. But for sure I recommend idempotency if you can. But this is not something that is specific to threading. This is not something that's specific to Sidekiq. If you've got 100 Resque processes running, they can get into an issue where the application data store gets into race conditions and maybe you sync an address twice or something like that. Who knows? But yeah, this is something that's endemic to any type of system where you've got concurrency executing. And it's up to the application really to make sure that they're locking the data correctly, or like you say designing their jobs correctly so that they do work in the face of multiple writers.
+
+<strong>DAVID:  </strong>I just realized I miss Josh because he would call for definitions whenever we use jargon. For anybody listening that's new to distributed programming, idempotency is this tendency that if you run a function it will do the job but if you run it twice, it will still stay in that state. So, once the function has run, it won't keep... it won't keep flipping the bit back and forth, back and forth, back and forth. It will set it to one place. And then if you run the job 100 times or twice or whatever, it will stay in the set. That's idempotency.
+
+So [chuckles], this is a bit of a leading question. In fact, you know what? I won't bury the lead. I'll just lead with the lead. So, I worked on a project a couple of years ago where we really, really, really liked Sidekiq. And Redis was not an option for us. And I know you've had the discussion with people in the past because I was on the sidelines watching this discussion. How do you feel about people that want to try mixing in other transports?
+
+<strong>MIKE:  </strong>Right. Other data stores, you mean?
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>MIKE:  </strong>So, there are people who have built variants of Sidekiq that work on say, Amazon SQS. For shops that are heavily invested in AWS, that just makes sense. I forget what the name of it is right now. But the fellow just essentially took the Sidekiq code and ported it to SQS, which is totally cool. Again, that's an LGPL issue. But I'm of the mind that if a system tries to use multiple data stores, you're going to get this half-breed Frankensteinian monster that's okay in a lot of cases but never works really well in all cases.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>MIKE:  </strong>Does that make sense?
+
+<strong>DAVID:  </strong>Mmhmm.
+
+<strong>MIKE:  </strong>Let's use a car analogy. You can build a car that accepts multiple different engines from a V4 to a V12 race engine. But it's not going to work well. You're going to be making all these trade-offs. And so, a lot of people have asked for Sidekiq, like, “I want to use MongoDB for my job store.” Well I don't want to deal with that. Tony Arcieri was actually saying that I should use Kafka, which is another interesting idea. I totally respect Kafka. But the problem is that Sidekiq is focused on the Ruby community. Kafka is not something that the Ruby community knows, understands, or cares about. So, for me to support Kafka would be a little bit crazy.
+
+And so, I chose to just focus on Redis for the data store. It's Sidekiq's one and only data store. I try to make it work as best as possible with Redis. And then if people need to scale beyond what one Redis can do, then I support sharding where maybe you have separate applications using separate Redis instances. Maybe you split your workers across several different Redises. But it's very rare. A single Redis instance on good hardware can do over 5,000 jobs a second.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>MIKE:  </strong>So, it's quite rare for the Ruby community to be doing that kind of volume. That kind of volume, those people are moving to Java or other types of really high performance systems.
+
+<strong>DAVID:  </strong>Yeah. I realize I have misspoken and I apologize. But I think the answer may still be the same. What I'm hearing is that you've tuned Sidekiq to work with Redis. And so, switching in a different backend you feel might throw in like an impedance mismatch.
+
+<strong>MIKE:  </strong>Exactly.
+
+<strong>DAVID:  </strong>The thing that I misspoke is that I did actually mean transport. The system that we worked on a couple of years ago, we did use Redis as our data store. But Resque was not going to work for us as the transport. And so, we ended up basically doing like you said, just stealing your code and building out the same interface so that we could use ApolloMQ.
+
+<strong>MIKE:  </strong>ApolloMQ. I've never even heard of that. Wow, okay.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>MIKE:  </strong>So, you are using a different data store then?
+
+<strong>DAVID:  </strong>No, no. Instead of Resque, which is a queuing mechanism built on top of Resque...
+
+<strong>MIKE:  </strong>On top of Redis you mean?
+
+<strong>DAVID:  </strong>I'm sorry. [Chuckles] No, it's recursive. Resque is built on Resque.
+
+<strong>MIKE:  </strong>[Chuckles]
+
+<strong>DAVID:  </strong>Resque's built on top of Redis.
+
+<strong>MIKE:  </strong>Right.
+
+<strong>DAVID:  </strong>And we still moved the large chunks of data for some of the jobs in Redis as the data store. But the queuing thing to send, basically say, “Hey, you need to pick this job up out of the Redis data core,” we sent over ApolloMQ, which is...
+
+<strong>CHUCK: </strong> So, it's a different protocol for communicating with your queuing system?
+
+<strong>DAVID:  </strong>Yeah, yeah. Basically it's... well yeah, the link you've got here says ActiveMQ. It's of that breed.
+
+<strong>MIKE:  </strong>Huh. Well, so Sidekiq's data format, job data format, is just a hash, a JSON hash. So, from a data perspective, it's very simple and easy for any type of system to act as a client and push jobs.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>MIKE:  Because</strong> pretty much everyone can deal with JSON and hashes. But yeah, like you say, it's coupled really tightly with Redis. And I have no plans to change that. If you think of how complex even something like Active Record is where it's trying to bridge the gap between systems that should just be standard SQL right, but it turns out there's...
+
+<strong>DAVID:  </strong>Yeah, but never are?
+
+<strong>MIKE:  </strong>There's tons of different yeah, edge cases.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>MIKE:  </strong>Think about how different Redis, MongoDB, and Kafka are. And try to bridge that gap. It's impossible. It can't be done. So, [I guess] now somebody's going to start hacking on trying to build that, right?
+
+<strong>DAVID:  </strong>Oh, probably.
+
+<strong>MIKE:  </strong>[Chuckles]
+
+<strong>DAVID:  </strong>Actually, I think everybody listening is like, “Did a technical question just come out of David Brady?” I haven't asked a hard, technical question on this show since nineteen-ninety... anyway...
+
+<strong>MIKE:  </strong>Well, I've never even heard of Apollo before. So, props to you for really getting off the beaten path.
+
+<strong>DAVID:  </strong>Yeah, it's Apache's answer to RabbitMQ or AMQP.
+
+<strong>MIKE:  </strong>Got it.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>MIKE:  </strong>I've heard of ActiveMQ when I was a Java developer a decade ago. ActiveMQ was sort of a thing that people used. But maybe, I guess Apollo might be a next generation version of it or something. Okay.
+
+<strong>DAVID:  </strong>Yeah, yeah. So, I think you've answered the next question which was the problem that we were having was encoding. And we wanted to be able to encode using a standard encoding like protobuf or whatever. If you extract the transport and you extract the encoding, you now actually have Sidekiq able to talk to something that isn't even programmed in Ruby. You can talk to a .NET service on a different server. That's the big win that we were trying to get. But I just realized now that yeah, with jobs being stored as JSON, that completely answers that.
+
+<strong>MIKE:  </strong>Yeah. I'm all for protobuf, like for really high performance systems. The question to me is when you're dealing with MQ and you're talking across applications, to me that should be a more open, extensible, readable message format and not just binary.
+
+<strong>DAVID:  </strong>Yes.
+
+<strong>MIKE:  </strong>Not just binary.
+
+<strong>DAVID:  </strong>Yes.
+
+<strong>MIKE:  </strong>So, that's a perfect example of using HTTP to connect disparate systems, right? HTTP is nice because it's text-based. It's relatively easy to debug. There are good tools for debugging it. So yeah, the question is: at what point do you use a binary format and what point do you use...
+
+<strong>DAVID:  </strong>Right.
+
+<strong>MIKE:  </strong>A simpler text-based format that humans can read?
+
+<strong>DAVID:  </strong>Right. Well, and I don't think it was binary versus text at the time. It was something that we could just drop in and tell the .NET team, “Just call this. You'll get your struct. You'll be fine.”
+
+<strong>MIKE:  </strong>Make it easy for Visual Studio, right? [Chuckles]
+
+<strong>DAVID:  </strong>Yeah, exactly, exactly. Have you stored the jobs as JSON since forever? Or is that new, recent versions?
+
+<strong>MIKE:  </strong>Yeah, no. That's since day one. In fact, the format is Resque's format. So, I actually blatantly stole Resque's job format so that I could be backwards compatible with Resque.
+
+<strong>DAVID:  </strong>Right.
+
+<strong>MIKE:  </strong>So that you could migrate from Resque to Sidekiq relatively easily.
+
+<strong>DAVID:  </strong>Nice.
+
+<strong>MIKE: </strong> So, you can actually enqueue jobs using the Resque API and have Sidekiq pick them up and process them. It's pretty magical.
+
+<strong>DAVID:  </strong>[Chuckles] Yup. No, that's very cool.
+
+<strong>CORALINE:  </strong>Is that what gave you compatibility with Active Job on Rails 4?
+
+<strong>MIKE:  </strong>No. Active Job is an adapter layer above all the different client APIs that all the different job systems expose. So, there is a Sidekiq adapter for pushing an Active Job to Sidekiq. And there's a delayed_job adapter. Then there's a Resque adapter. So, the message format does not need to be the same between the different systems. The Active Job adapter handles creating the job.
+
+<strong>CORALINE:  </strong>Got it.
+
+<strong>MIKE: </strong> But what's nice about the Active Job adapter is that I think it's one line of code for Sidekiq because Sidekiq just takes a hash of data. The line is just calling the client API with that hash, the name of the class, the arguments that it got, and that sort of thing. So, it's actually really, really easy to read.
+
+<strong>CHUCK:  </strong>So, I want to dig into one other thing and that is, how exactly... we talked about you've got the open source and then you've got the Pro and then you've got the Enterprise. I'm curious how you make that all work. How do people actually get the Pro and Enterprise versions? Do you just give them a version key or something? It also seems like since this is Ruby, that people could technically just steal it.
+
+<strong>MIKE:  </strong>So, what I have is a private gem server that has basic authentication on it so that when you purchase it, I have a Ruby script actually running on my server that will generate a user, just a random username and password, and grant you access to my Apache gem server. And then it's just a line in your Gemfile. So, you say the source is on Mike's private gem server. And the gem is Sidekiq Pro, or Sidekiq Enterprise. And so, it's really easy to understand. There's nothing for the user really to do aside from just to add the three lines to their Gemfile and then they have access to it. It's really straightforward. It is plain Ruby code. I prefer to keep it that way so that my customers can debug the code if they have problems so that they can understand the implementation and any limitations to it. I'm selling business tools to businesses.
+
+And businesses in general, they buy their stuff. And I'm also selling to developers and developers understand that this stuff is hard to build. It requires an expert really to build this high quality product. And they understand that support is important also. And so, a person needs to be able to work on this stuff full-time and actually make money. So, people for the most part are paying for it. I don't necessarily track or look for piracy at all. But the sales are going well enough that I can support myself such as it is. And I think the larger question here is one of, how do open source projects make themselves sustainable?
+
+<strong>CHUCK:  </strong>I was going to ask that next.
+
+<strong>MIKE:  </strong>Certainly, this isn't a black or white issue. There is a large gray area, a spectrum of open source projects, from a person who builds a time/date library that is really simple to someone like myself that's building a large complex with lots of moving parts that has dozens of features and hundreds of customers. There's a broad spectrum of price points, of possible business models, et cetera. And so, there's no one easy answer here. But I'm certainly happy to talk about what I did and the trade-offs that I've had to make.
+
+<strong>CHUCK:  </strong>If somebody is getting ready to launch an open source project or they've got an open source project that they've been working on for a while and they're starting to think it'd be nice to get some financial support for this, how do they get started doing that?
+
+<strong>MIKE:  </strong>What I always tell people is have an end goal in mind. What do you want to do with this project? Do you want this project to last for the rest of your life? Do you want it to last for a decade? Or do you want it to last for maybe a year? Maybe you'll just work on it for a year. Jessica said earlier that she couldn't imagine working for three and a half years on something. She'd want to do something else. So, that's perfectly fine. That's a perfectly acceptable answer. In that case maybe you charge. Maybe you do a Kickstarter, because you're going to get a one-time, maybe you do a Kickstarter for $20,000 and then you build something over six months. And then that's it. It's done. It's out there. People can use it for free. For me, I said, “I want to do this for the next 5 to 10 years, maybe make it my life's work.” At this point, I don't know. But that means that I need to able to do it as a full-time job. And that means no Kickstarter. I'm not going to do NPR pledge drives every six months to get a salary. That means I need to have a product that I'm selling constantly. And it also means that I choose to sell as a subscription, not as a one-time fee. And that's because I'm constantly having to support everybody. I'm constantly adding new features, adding bug fixes. Software at least as big as Sidekiq is generally never done. There's always stuff to work on. There are always bugs to be fixed. And so, you have to have that steady income that subscriptions allow you. So, there are a lot of different possibilities you can do here, based on what your end goal is for your project and the size of your project. Like I said, Kickstarter. You can do a one-time fee, maybe just charge people $500 to buy the thing. And then they have it for as long as they want to use it. Or you can charge them subscriptions like I do. Licensing is also a big issue. So, BSD is very permissive and really makes it tough for you to have a commercial version. If people can just fork your code and make their own commercial version or add whatever they want. I choose to license Sidekiq as LGPL so that if people do want to add onto Sidekiq themselves, they have to keep it open source.
+
+<strong>CHUCK:  </strong>Gotcha. And that's LGPL on the open source version and then...?
+
+<strong>MIKE:  </strong>And then there's the commercial versions have their own commercial license.
+
+<strong>CHUCK: </strong>Right. Alright then. Before we get to the picks, I just want to acknowledge our silver sponsors.
+
+<strong><em>[Once again this episode is sponsored by Braintree. Go check them out at BraintreePayments.com/RubyRogues. If you need any kind of credit card processing or payment processing in general, they are a great way to go and we appreciate them sponsoring the show.]</em></strong>
+
+<strong><em>[This episode is sponsored by Code School. Code School is an online learning destination for existing and aspiring developers that teaches through entertaining content. They provide immersive video lessons with in-browser challenges which means that each course has a unique theme and storyline and feels much more like a game. Whether you've been programming for a long time or have only just begun, Code School has something for everyone. You can master Ruby on Rails or JavaScript as well as Git, HTML, CSS, and iOS. And more than a million people around the world use Code School to improve their development skills by learning or doing. You can find more information at CodeSchool.com/RubyRogues.]</em></strong>
+
+<strong>CHUCK:  </strong>David, do you want to start us off with picks?
+
+<strong>DAVID:  </strong>I'm ready. I'm ready. Holy crap. I just have one pick today. And that is a fantastic blog post. It's called 'Citation Needed'. And it addresses the question of why do we use zero-based array indexes versus one-based array indexes? And if you think you know the answer, you're probably wrong, because you're probably going to say something like, “Well, pointer-based arithmetic and pointer plus zero equals the original pointer,” and da-da-da-da. Nope, you're wrong. The reason is so that the president of IBM could do yacht handicapping. And there are some even greater gems in this blog post. It's absolutely fantastic.
+
+It does end up boiling down to a tiny bit of efficiency. That plus one or minus one was really desperately needed in the 1960s. And that's why we have inherited zero-based indexing. And the blog post is absolutely fantastic with the sources and the mind-blowing stuff in there that, this is one of those things that we've just always taken for granted in computer science. And there's a really good historical reason for why we do it that's better than what you thought. So, that's my pick, is the 'Citation Needed' blog post.
+
+<strong>CHUCK:  </strong>Alright. Coraline, what are your picks?
+
+<strong>CORALINE:  </strong>The theme for my picks today is teaching kids how to program. So, I have a couple of board games that I want to talk about. The first is called Code Master by a company called ThinkFun. And it claims to teach kids how to think like a computer. It's basically a fantasy adventure game in which you harvest power crystals and continue to a destination portal and take you to a new world and a new logic challenge. So, there are 60 logic puzzles and they help players develop a mental model of how computers work. In each level there's one specific sequence of actions that leads to success. And basically it trains kids to think about how programming works. So, that's the first pick.
+
+The second one's also a board game called Robot Turtles. It's actually, it was Kickstarted and it's the most backed board game in Kickstarter history. It teaches programming fundamentals to kids ages four and up, from coding the functions and lets them control a silly turtle. Players dictate the movement of their turtle tokens on the game board by playing code cards. And if they make a mistake, they can use a bug card to undo a move. It's inspired by the Logo programming language, which if you're old enough to remember that was pretty cool. And it lets kids write programs with playing cards, for two to five players. So, those are my picks.
+
+<strong>CHUCK:  </strong>Alright. Jessica, do you have some picks for us?
+
+<strong>JESSICA:  </strong>I have one pick. Something that I've been looking at for possibly using at work for automated provisioning the AWS instances and VPCs. We're building that right now. I think freaking everybody's building that right now. Zalando has open sourced their version. It's called STUPS which is S-T-U-P-S. It looks like 'stups' but it's German so it's 'schtupes'. And I think that one's really promising. It's one to look at if this is something that your company is working on. In particular I like, there's a diagram on the STUPS homepage of the different components. And it's fascinating. There's 20 different little pieces that each do some tiny portion of it. And while it's sometimes a little bit frightening, I think it's really cool that this is where architecture is going these days, smaller pieces.
+
+<strong>CHUCK:  </strong>Awesome. I've got a couple of picks here. One is another learn to program thing. It's called Elevator Saga. And I've played with it for a little while. You basically wind up putting in piece by piece ways of making the elevator get to the right place and deliver people within a time period. And so, if you make it take too long or things like that, then it fails you. And it's an in-browser JavaScript thing that you can use to help kids learn to program.
+
+The other one is I was interviewed on Developer on Fire, which is a new podcast. And I talk a lot about the shows and how that all works and encourage people to go out and try new things. So, if you're interested in hearing me on the other end of things where I'm not just part of the discussion but I'm actually being interviewed, then you can go check that out. And I'll put a link to that in the show notes as well. Mike, do you have some picks for us?
+
+<strong>MIKE:  </strong>I do have a couple. My first one is Model View Culture which is a website devoted to diversity. And I'm probably doing them a disservice in describing it. But it talks about our tech culture and increasing the diversity. And one thing over the last couple of years that Twitter has taught me is the pain that a lot of minorities in the tech community feel and the aggressions that they receive every single day. And so, it's been a real educational experience for me. So, I actually subscribed a few months ago and have been reading their zines that come out once a quarter. And I encourage other people to do the same and educate yourself about the problems that our culture has.
+
+My second pick is Plasso, P-L-A-S-S-O. Plasso is the e-commerce system that I use to sell Sidekiq Pro. And it's a really nice system that other developers can use if they're interested in selling a commercial version of their software. Plasso makes it really dead simple to have a Stripe account and then use Plasso as their checkout page and their product page for their software product. So, you don't need to have a server. You don't need to do anything. It's a really nice beautiful-looking website, and really useful.
+
+My third pick is any talk by James Mickens. James is… I think he used to be a researcher at Microsoft. And he is one of the funniest people I've ever seen at technical conferences. Every talk he gives is hysterical. And I watched a talk of his recently called 'Not Even Close: The State of Computer Security' where he talks about how computer security is essentially doomed from the start and is pointless. [Chuckles] A bit of a negative vibe to the talk, but he does it in such a way that it's hysterical. So, I strongly recommend people search for his name and take a look at any talk that he's given.
+
+<strong>CHUCK:  </strong>Very cool. If people want to follow up with you or have questions about Sidekiq, what are the best ways to do that? To follow you and to follow the project.
+
+<strong>MIKE:  </strong>Oh, the best way is, well I'm on Twitter all the time every day. You can certainly open issues on GitHub. We have a mailing list that if you're interested in receiving more email, you can subscribe to the mailing list. But yeah, any way that you can get in touch with me would be welcome. I do have a policy where for my open source stuff I prefer not to get private email. I prefer to keep things in the public. So, I would rather have people open a GitHub issue than to email me privately for instance, if they have Sidekiq questions.
+
+<strong>CHUCK:  </strong>Very cool. Well, thanks for coming, Mike. It was fun to talk and fun to explore some of this stuff.
+
+<strong>MIKE: </strong> My pleasure. Thanks for having me.
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]</em></strong>
+
+<strong><em>[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]</em></strong>

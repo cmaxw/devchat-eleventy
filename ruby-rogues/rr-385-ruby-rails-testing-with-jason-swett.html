@@ -1,0 +1,185 @@
+---
+layout: layouts/post.njk
+title: >
+      RR 385: “Ruby/Rails Testing” with Jason Swett
+date: 2018-10-23 10:00:17
+episode_number: 385
+duration: 1:02:03
+audio_url: https://media.devchat.tv/ruby-rogues/RR_385_Jason_Swett_Ruby_Rails_Testing.mp3
+tags: ruby-rogues
+---
+
+<p class="p1"><span class="s1"><b>Panel: </b></span></p>
+
+<ul>
+ 	<li class="p1"><span class="s2">Dave Kimura</span></li>
+ 	<li class="p1"><span class="s2">Eric Berry</span></li>
+ 	<li class="p1"><span class="s2">Nathan Hopkins</span></li>
+ 	<li class="p1"><span class="s2">David Richards</span></li>
+</ul>
+<p class="p1"><span class="s1"><b>Special Guest:</b></span><span class="s2"> Jason Swett </span></p>
+<p class="p1"><span class="s2">In this episode of Ruby Rogues, the panel talks with Jason Swett who is a host of the podcast show, <a href="http://www.rubytestingpodcast.com"><span class="s3"><i>Ruby Testing!</i></span></a><i> </i>Jason also teaches Rails testing at <a href="https://www.codewithjason.com"><span class="s3">CodeWithJason.com</span></a>. He currently resides in the Michigan area and works for Ben Franklin Labs. Check-out today’s episode where the panelists and the guest discuss testing topics. </span></p>
+<p class="p1"><span class="s1"><b>Show Topics:</b></span></p>
+<p class="p3"><span class="s4">0:00 – <a href="https://sentry.io/welcome/"><span class="s3">Sentry.IO – Advertisement!</span></a> </span></p>
+<p class="p4"><span class="s2">Check out the code: DEVCHAT @ Sentry.io.</span></p>
+<p class="p4"><span class="s2">1:07 – I am David Kimura and here is the panel! Tell us what is going on?</span></p>
+<p class="p4"><span class="s2">1:38 – Jason: I started my own podcast, and have been doing that for the past few months. That’s one thing. I started a new site with CodeWithJason.com. </span></p>
+<p class="p4"><span class="s2">2:04 – You released a course?</span></p>
+<p class="p4"><span class="s2">2:10 – Jason: Total flop and it doesn’t exist, but I am doing something else.</span></p>
+<p class="p4"><span class="s2">2:24 – I bet you learned a lot by creating the course?</span></p>
+<p class="p4"><span class="s2">2:34 – Jason: The endeavor of TEACHING it has helped me a lot.</span></p>
+<p class="p4"><span class="s2">2:50 – Tell us why we should drink the Koolaid?</span></p>
+<p class="p4"><span class="s2">3:02 – Jason: What IS testing? Good question. Whether is it is manual testing or automated testing. We might was well automate it.</span></p>
+<p class="p4"><span class="s2">3:25 – If we are testing our code what does that look like?</span></p>
+<p class="p4"><span class="s2">3:34 – Jason: Not sure what you mean, but I am doing tests at a fine grain vs. coarser grain.</span></p>
+<p class="p4"><span class="s2">4:00 – Show of hands who has...?</span></p>
+<p class="p4"><span class="s2">4:19 – What different tests are there? </span></p>
+<p class="p4"><span class="s2">4:20 – Jason: Good question. One term that one person uses is different to a different person. Let’s start with unit tests vs. integration tests. </span></p>
+<p class="p4"><span class="s2"><i>Jason dives into the similarities and differences between these 2 tests (see above). </i></span></p>
+<p class="p4"><span class="s2">There are different tests, such as: featured tests, acceptance tests, etc.</span></p>
+<p class="p4"><span class="s2">5:45 – What tests are THE best? </span></p>
+<p class="p4"><span class="s2">5:50 – Jason: Good question. The kind of tests you are writing depends on what type of coverage you are going for. </span></p>
+<p class="p4"><span class="s2">If I had a sign-up page for a user, I would...</span></p>
+<p class="p4"><span class="s2">7:36 – What anti-patterns are you seeing? What is your narrative in teaching people how to use them?</span></p>
+<p class="p4"><span class="s2">8:07 – Jason talks first about his background and his interaction with one of his colleagues. </span></p>
+<p class="p4"><span class="s2">8:58 – Question.</span></p>
+<p class="p4"><span class="s2">9:00 – Jason continues with his answers from 8:07.</span></p>
+<p class="p4"><span class="s2">9:32 – Jason: Feel free to chime-in. What have you done?</span></p>
+<p class="p4"><span class="s2">9:42 – I often ignore it until I feel bad and then I say: wait-a-minute I am a professional. Then I realize I ignored the problem because I was acting cowardly. </span></p>
+<p class="p4"><span class="s2">10:29 – For me it depends on the test that it is. </span></p>
+<p class="p4"><span class="s2">One gem that I found is: <a href="https://github.com/NoRedInk/rspec-retry"><span class="s3">RSpec RETRY</span></a>.</span></p>
+<p class="p4"><span class="s2">11:16 – Jason: The test is flapping because of something is wrong with the database or something else. Since you asked about anti-patterns let’s talk about that! </span></p>
+<p class="p4"><span class="s3"><a href="https://rubyonrails.org"><i>Rails</i></a></span><span class="s2"><i> and </i><a href="https://angular.io"><span class="s3"><i>Angular</i></span></a><i> are mentioned. </i></span></p>
+<p class="p4"><span class="s2">13:10 – Do you find that you back off of your unit testing when you are using integration? </span></p>
+<p class="p4"><span class="s2">13:22 – Jason: It depends on the context we are talking about. </span></p>
+<p class="p4"><span class="s2">Jason talks about featured testing, model-level testing, and more.</span></p>
+<p class="p4"><span class="s2">13:58 – What is your view on using MOCKS or FAKES. What should we be doing there?</span></p>
+<p class="p4"><span class="s2">14:10 – Jason: Going to the Angular world I understand Mocks better than now. There was a <a href="https://www.newyorker.com/books/page-turner/this-is-water"><span class="s3">parable</span></a> that I think is applicable here about the young and the old fish. </span></p>
+<p class="p4"><span class="s2">16:23 – Jason continues talking about testing things in isolation.</span></p>
+<p class="p4"><span class="s2">16:36 – Question. </span></p>
+<p class="p4"><span class="s2">16:39 – I have been looking for an area to specialize in and I wrote an eBook. (Check out <a href="https://www.angularonrails.com/author/jadmin/"><span class="s3">here</span></a> to see the articles and books that Jason has authored.)</span></p>
+<p class="p4"><span class="s2">Then I was looking around and I wanted to see what people’s issues are with Rails? They have a hard time with testing. I wanted to help them feel competent with it. </span></p>
+<p class="p4"><span class="s2">18:03 – In your course you have how to choose a framework. </span></p>
+<p class="p4"><span class="s2">I know Ruby has several options on that front – how do you choose?</span></p>
+<p class="p4"><span class="s2">18:24 – Jason: There are 2 factors to consider. </span></p>
+<p class="p4"><span class="s2"><i>Jason tells us what those two factors are. </i></span></p>
+<p class="p4"><span class="s2">Jason: Angular, React and Vue.</span></p>
+<p class="p4"><span class="s2">19:52 – Panelist: I had a conversation with a beginner and we were talking about the different tests. He said the DSL really appealed to him. The surface area of the AI made it approachable for him.</span></p>
+<p class="p4"><span class="s2">20:27 – Jason: I wished I had figured out DSL out a little better. Understanding the concept of a block. The IT is just a function and you can put parentheses in different areas and...</span></p>
+<p class="p4"><span class="s2">21:01 – That makes sense. Let’s revisit the Tweet you wrote.</span></p>
+<p class="p4"><span class="s2">21:35 – Jason: There are certain use cases where it makes sense. Where Gmail was the thing out there. At some point the Internet formed the opinion that...</span></p>
+<p class="p4"><span class="s2">22:39 – Old saying: Nobody gets fired for using Microsoft and then it was IBM. Nothing wrong with those things if that’s what you are trying to do. Sometimes we make decisions to not be criticized. We try to grab big frameworks and big codes so we are not criticized for.</span></p>
+<p class="p4"><span class="s2">23:48 – <a href="https://www.jasonswett.net"><span class="s3">Jason:</span></a> I think developers have this idea that OLD is OUTDATED. Not so. I think it’s mature, not necessarily outdated. I think it’s a pervasive idea.</span></p>
+<p class="p4"><span class="s2">24:31 – I think it suffers a bit when all the mind shares get lumped into one thing. </span></p>
+<p class="p4"><span class="s2"><i>The panelist continues...</i></span></p>
+<p class="p4"><span class="s2">24:53 – Jason: I don’t know if I like this analogy. </span></p>
+<p class="p4"><span class="s2">26:00 – I agree with that sentiment. It’s crazy that the complexity has become so pervasive.</span></p>
+<p class="p4"><span class="s2">26:18 – I think of <a href="https://en.wikipedia.org/wiki/Single-page_application"><span class="s3">SPAs</span></a> as...</span></p>
+<p class="p4"><span class="s2">26:37 – Jason: Going back to the Tweet I wrote, I am pulling in JavaScript but I am preferring to sprinkle Java into Rails. </span></p>
+<p class="p4"><span class="s2">27:02 – Absolutely. I think that’s where we agree on. Late in 2017 we had the guest...</span></p>
+<p class="p4"><span class="s2">“Use JavaScript sprinkles.” </span></p>
+<p class="p4"><span class="s2">27:49 – Panelist chimes-in. </span></p>
+<p class="p4"><span class="s2">28:37 – Jason: That make sense. Use your preexisting...</span></p>
+<p class="p4"><span class="s2">I am afraid of committing to a single framework. I don’t have anything against JavaScript but I am afraid of using only one thing when something else becomes fashionable. </span></p>
+<p class="p4"><span class="s2">29:30 – Have you found that Java sparkle approach is easy to test? </span></p>
+<p class="p4"><span class="s2">29:38 – Jason: I think it’s easier. Client server architecture...</span></p>
+<p class="p3"><span class="s4">30:10 – <a href="https://devchat.tv/get-a-coder-job/"><span class="s3">Advertisement: Get A Coder Job!</span></a></span></p>
+<p class="p4"><span class="s2">30:41 – <a href="https://rubyonrails.org/community/"><span class="s3">Shout-out to the Rails team!</span></a> What other testing frameworks are there? What if you are not the developer but you are the Quality Assurance (QA) person. They have been given the task of testing on the application.</span></p>
+<p class="p4"><span class="s2">31:30 – Jason: So someone who is not a developer and they want to test the application. I don’t want to get out of my role of expertise. I did talk to a <a href="https://www.talentlyft.com/en/resources/quality-assurance-qa-engineer-job-description"><span class="s3">QA engineer</span></a> and I asked them: What do you do? All of his tests are manual. He does the same stuff as a Rails developer would do. </span></p>
+<p class="p4"><span class="s2">32:52 – <i>Panelist talks about pseudo code.</i> </span></p>
+<p class="p4"><span class="s2">34:07 – Jason: I am curious, Dave, about the non-programmer helping with tests what is the team structure? </span></p>
+<p class="p4"><span class="s2">34:23 – Dave: You will have one QA per three developers. </span></p>
+<p class="p4"><span class="s2">34:44 – Jason: If you have a QA person he is integrated within the team – that’s what has been the case for me.</span></p>
+<p class="p4"><span class="s2">35:02 – Dave: It’s a nice thing to have because we need to crank out some features and we have a good idea what is wrong with the app. We can go in there and see if our application is good, but they are combining different scenarios to do the unit tests and see what they are lacking. They are uncovering different problems that we hadn’t thought of.</span></p>
+<p class="p4"><span class="s2">36:07 – The organization has to have the right culture for that to work.</span></p>
+<p class="p4"><span class="s2">36:35 – If it’s a small team then it will help to see what everyone is doing – it’s that engagement level. If the team is too large then it could be a problem.</span></p>
+<p class="p4"><span class="s2">37:15 – Jason: Engagement between whom?</span></p>
+<p class="p4"><span class="s2">37:27 – Both. </span></p>
+<p class="p4"><span class="s2"><i>Panelist goes into detail about different engagement levels throughout the team. </i></span></p>
+<p class="p4"><span class="s2">38:10 – Jason: Yeah that’s a tough thing. </span></p>
+<p class="p4"><span class="s2">38:49 – It’s interesting to see the things that are being created. Testing seems to help that out. We are getting bugs in that area or se didn’t design it well there...</span></p>
+<p class="p4"><span class="s2">We see that we need some flexibility and getting that input and having a way to solve the problems.</span></p>
+<p class="p4"><span class="s2">39:32 – Jason: Continuous deployment – let’s segue into this topic. </span></p>
+<p class="p4"><span class="s2">41:17 – Panelist: Do you have recommendations on how often we should be deploying in that system per day/week?</span></p>
+<p class="p4"><span class="s2">41:40 – Jason: We would deploy several times a day, which was great. The more the better because the more frequently you are deploying the fewer things will go wrong.</span></p>
+<p class="p4"><span class="s2">42:21 – More frequently the better and more people involved. </span></p>
+<p class="p4"><span class="s2">42:45 – Jason continues this conversation.</span></p>
+<p class="p4"><span class="s2">42:51 – Panelist: Continuous integration – any time you were say to forgo tests or being less rigid?</span></p>
+<p class="p4"><span class="s2">43:14 – Jason: I don’t test everything. I don’t write tests for things that have little risks. </span></p>
+<p class="p4"><span class="s2">43:56 – I think it is a good segue into how you write your code. If you write a code that is like spaghetti then it will be a mess. Making things easier to test.</span></p>
+<p class="p4"><span class="s2">44:48 – Jason: This is fresh in my mind because I am writing an app called <a href="https://stackoverflow.com/questions/1459941/what-are-greenfield-and-brownfield-applications"><span class="s3">Green Field.</span></a></span></p>
+<p class="p4"><span class="s2">46:32 – Uniqueness Validations, is mentioned by Jason. </span></p>
+<p class="p4"><span class="s2">47:00 – Anything else to add to testing a Rails application?</span></p>
+<p class="p4"><span class="s2">47:08 – Jason: Let’s talk about 2 things: walking skeleton and small stories. </span></p>
+<p class="p4"><span class="s3"><a href="https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627">This book</a></span><span class="s2"> is a great resource for automated testing. </span></p>
+<p class="p4"><span class="s2">Last point that I want to talk about is small stories: continues deployment and continuous delivery. If you make your stories smaller then you are making your stories crisply defined. Have some bullet points to make it really easy to answer the question. Answer the question: is this story done or not done? Someone should be able to run through the bullet points and answer that question. </span></p>
+<p class="p4"><span class="s2"> 50:02 – I am in favor of small stories, too. Makes you feel more productive, too.</span></p>
+<p class="p4"><span class="s2">50:14 – Work tends to lend itself to these types of stories and running a sprint. </span></p>
+<p class="p4"><span class="s2">51:22 – You don’t have to carry that burden when you go home. You might have too big of a chunk – it carries too much weight to it. </span></p>
+<p class="p4"><span class="s2">51:47 – Book the Phoenix Project. Work in progress is a bad thing. That makes sense. You want to have fewer balls in the air. </span></p>
+<p class="p4"><span class="s2">52:17 – Anything else?</span></p>
+<p class="p4"><span class="s2">52:22 – Jason: You can find me at: CodewithJason.com also Twitter! </span></p>
+<p class="p3"><span class="s4">52:45 – <a href="https://www.freshbooks.com"><span class="s3">Advertisement – Fresh Books!</span></a> </span></p>
+<p class="p4"><span class="s2">1:01:50 – <a href="https://www.cachefly.com"><span class="s3">Cache Fly!</span></a> </span></p>
+<p class="p8"><span class="s1"><b>Links:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li3"><span class="s5"><a href="https://devchat.tv/get-a-coder-job/"><span class="s3">Get a Coder Job Course</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="https://www.erlang.org"><span class="s3">Erlang</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="https://www.ruby-lang.org/en/"><span class="s3">Ruby</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="http://www.rubymotion.com"><span class="s3">Ruby Motion</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="https://rubyonrails.org"><span class="s3">Ruby on Rails</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="https://angular.io"><span class="s3">Angular</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="https://en.wikipedia.org/wiki/Single-page_application"><span class="s3">Single Page Application (SPA)</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="https://github.com/NoRedInk/rspec-retry"><span class="s3">RSpec – Retry</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="http://www.rubytestingpodcast.com"><span class="s3">Ruby Testing Podcast</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="https://mattyford.com/blog/2014/1/23/the-feynman-technique-model"><span class="s3">The Feynman Technique Model</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627"><span class="s3">Book: Growing Object-Oriented Software, Guided by Tests (1st edition)</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="https://twitter.com/jasonswett?lang=en"><span class="s3">Jason Swett’s Twitter</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="https://www.linkedin.com/in/jasonswett"><span class="s3">Jason Swett’s LinkedIn</span></a></span></li>
+ 	<li class="li3"><span class="s6"><a href="https://www.newyorker.com/books/page-turner/this-is-water"><span class="s7">Parable: Young Fish and Old Fish – What is Water?</span></a></span></li>
+ 	<li class="li3"><a href="https://www.angularonrails.com/author/jadmin/"><span class="s1">Jason’s articles and eBook</span></a></li>
+ 	<li class="li3"><a href="https://www.jasonswett.net"><span class="s1">Jason’s Website</span></a></li>
+</ul>
+<p class="p8"><span class="s1"><b>Sponsors:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li3"><span class="s5"><a href="https://sentry.io/welcome/"><span class="s3">Sentry</span></a></span></li>
+ 	<li class="li3"><span class="s5"><a href="https://devchat.tv/get-a-coder-job/"><span class="s3">Get a Coder Job Course</span></a></span></li>
+ 	<li class="li3"><span class="s8"><a href="https://www.freshbooks.com"><span class="s9">Fresh Books</span></a></span></li>
+ 	<li class="li3"><span class="s1">Cache Fly</span></li>
+</ul>
+<p class="p8"><span class="s1"><b>Picks:</b></span></p>
+<p class="p10"><span class="s2">David </span></p>
+
+<ul class="ul1">
+ 	<li class="li10"><span class="s10"><a href="https://www.newyorker.com/books/page-turner/this-is-water"><span class="s11">This is Water</span></a></span></li>
+ 	<li class="li10"><span class="s10"><a href="https://www.newyorker.com/books/page-turner/this-is-water"><span class="s11">The Feynman Technique Model</span></a></span></li>
+</ul>
+<p class="p10"><span class="s2">Nate </span></p>
+
+<ul class="ul1">
+ 	<li class="li10"><span class="s2">Taking some time off</span></li>
+ 	<li class="li10"><span class="s10"><a href="https://github.com/hopsoft/pry-test"><span class="s11">Pry Test</span></a></span></li>
+</ul>
+<p class="p10"><span class="s2">Eric </span></p>
+
+<ul class="ul1">
+ 	<li class="li10"><span class="s10"><a href="http://fakeapp.com/"><span class="s11">Fake App</span></a></span></li>
+ 	<li class="li10"><span class="s10"><a href="https://rubyhack.com"><span class="s11">Ruby Hack Conference</span></a></span></li>
+</ul>
+<p class="p10"><span class="s2">Dave</span></p>
+
+<ul class="ul1">
+ 	<li class="li10"><span class="s10"><a href="https://www.brooksrunning.com/en_us/brooks-adrenaline-gts-18-mens-running-shoes/110271.html"><span class="s11">Brooks Shoes</span></a></span></li>
+</ul>
+<p class="p10"><span class="s2">Jason</span></p>
+
+<ul class="ul1">
+ 	<li class="li10"><span class="s10"><a href="https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087"><span class="s11">The Food Lab</span></a></span></li>
+ 	<li class="li10"><span class="s10"><a href="https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627"><span class="s11">Growing Object-Oriented Software</span></a></span></li>
+</ul>
+
+<h3>Transcript</h3>
+
+

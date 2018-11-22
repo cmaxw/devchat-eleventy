@@ -1,0 +1,433 @@
+---
+layout: layouts/post.njk
+title: >
+      254 RR Building/Scaling a Rails SaaS App with Derrick Reimer
+date: 2016-04-06 07:00:31
+episode_number: 284
+duration: 46:50
+audio_url: https://media.devchat.tv/ruby-rogues/RR254Building:ScalingaRailsSaaSApp.mp3
+tags: ruby-rogues
+---
+
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:25 - Julia Evans Introduction</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://twitter.com/b0rk">Twitter</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/jvns">GitHub</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://jvns.ca/">Blog</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:52 - Derrick Reimer Introduction</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://twitter.com/derrickreimer">Twitter</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/djreimer">GitHub</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.scalingsaas.com/">Blog</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://www.getdrip.com/">Drip</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Software_as_a_service">SaaS = Software as a Service</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://codetree.com/">Codetree</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">05:25 - SaaS Apps vs Other Web Development Projects</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">06:18 - Scaling</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">08:44 - Gathering Feedback</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">12:01 - How has underlying technology helped and gotten in the way?</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.postgresql.org/">PostgreSQL</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">15:18 - Choosing Boring Technology</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">20:49 - Scaling (Cont’d) </span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Caching</span></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://redis.io/">Redis</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">29:07 - Strategies to Keep the Application Manageable</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">31:41 - What makes technology boring and safe to use? Evaluating Technologies</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">“Boringification”</span></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">35:43 - Building Something Useful vs Building Something for Entertainment</span></span></p>
+<span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">40:13 - Prioritization</span></span>
+
+<span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Picks</span></span>
+<p dir="ltr"><a style="text-decoration: none;" href="https://www.npmjs.com/package/writegif"><u>writegif</u></a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 14.6667px;"> (Derrick)</span>
+<a style="text-decoration: none;" href="http://batsov.com/rubocop/"><u>RuboCop</u></a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 14.6667px;"> (Derrick)</span>
+<a style="text-decoration: none;" href="http://hisham.hm/htop/"><u>htop</u></a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 14.6667px;"> (Jessica)</span>
+<a style="text-decoration: none;" href="https://www.amazon.ca/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601"><u>Java Concurrency in Practice</u></a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 14.6667px;"> (Julia)</span>
+<a style="text-decoration: none;" href="https://www.youtube.com/watch?v=MSJaSS_Zj0Y"><u>HOW TO PRONOUNCE GIF!</u></a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 14.6667px;"> (David)
+Teaching a local Ruby class (Avdi)</span></p>
+
+<h3>Transcript</h3>
+
+<strong>DAVID:  </strong>There's a really good, and I don't remember where I saw it and I don't remember enough content on it to pull it up, but it's a list of when you first get started in programming, memory management is hard. And then when you're intermediate in programming threading is hard. And then when you become senior time zones are hard. And then when you're very senior, time zones are still effing hard.
+
+[Laughter]
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on hired they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It's totally free for users. And when you're hired, they give you a $1,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you'll get a $2,000 instead. Finally, if you're not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/RubyRogues.]</em></strong>
+
+<strong><em>[Snap is a hosted CI and continuous delivery that is simple and intuitive. Snap's deployment pipelines deliver fast feedback and can push healthy builds to multiple environments automatically or on demand. Snap integrates deeply with GitHub and has great support for different languages, data stores, and testing frameworks. Snap deploys you application to cloud services like Heroku, DigitalOcean, AWS, and many more. Try Snap for free. Sign up at SnapCI.com/RubyRogues.]</em></strong>
+
+<strong><em>[This episode is sponsored by DigitalOcean. DigitalOcean is the provider I use to host all of my creations. All the shows are hosted there along with any other projects I come up with. Their user interface is simple and easy to use. Their support is excellent. And their VPS's are backed on solid-state drives and are fast and responsive. Check them out at DigitalOcean.com. If you use the code RubyRogues, you'll get a $10 credit.]</em></strong>
+
+<strong>AVDI:  </strong>This is the Ruby Rogues Podcast episode 254. On our panel today we have Jessica Kerr.
+
+<strong>JESSICA:  </strong>Good morning.
+
+<strong>AVDI:  </strong>We have special guest panelist Julia Evans.
+
+<strong>JULIA:  </strong>Hello.
+
+<strong>AVDI:  </strong>Julia, since you are rejoining us again after a while and you were a guest before, would you mind introducing yourself a little bit?
+
+<strong>JULIA:  </strong>Totally. So, I work on machine learning for my official job. But also I really like to think about performance and how computers work and the Linux kernel.
+
+<strong>AVDI:  </strong>I am Avdi Grimm and joining us today is our guest, Derrick Reimer.
+
+<strong>DERRICK:  </strong>Hi, everybody.
+
+<strong>AVDI:  </strong>Derrick, would you mind giving us an introduction?
+
+<strong>DERRICK:  </strong>Sure. So, my name is Derrick and I work on a few different SaaS apps. But primarily these days I'm building Drip which is a marketing automation platform built for small businesses. And big fan of the Ruby Rogues. And I've been a Rubyist for about six or seven years now.
+
+<strong>JESSICA:  </strong>Acronym alert. Could you tell us what a SaaS app is? What do you mean by that?
+
+<strong>DERRICK:  </strong>Yes, you bet. So, SaaS stands for Software as a Service. And it's just basically a general term for any hosted web application that customers pay for to use as a service.
+
+<strong>AVDI:  </strong>I've never heard of such a thing.
+
+<strong>DERRICK:  </strong>[Chuckles] I know. It's a totally foreign concept.
+
+<strong>AVDI:  </strong>[Chuckles]
+
+<strong>JESSICA:  </strong>So, Drip is one of your applications that you support?
+
+<strong>DERRICK:  </strong>Yes. So, Drip takes most of my time during the work day and then I also run a much smaller SaaS app called Codetree which is a project management system built on top of GitHub issues. And that came out of my experience working with a small team on Drip and wanting to use GitHub Issues as our primary project management platform but needing a better solution. So, Codetree is my test bed for getting to try out new things before maybe working on them in a larger context with Drip. And yeah, it's a fun little app to run.
+
+<strong>JESSICA:  </strong>That's interesting. So, you have a balance of a production app for software and a toy app that you use for your own purposes.
+
+<strong>DERRICK:  </strong>Sort of, yeah. I mean, Codetree does definitely have a nice little customer base. And so, it's not totally low-risk in the sense that I can be super frivolous with things that I do in it. But it's definitely a much more forgiving application. It doesn't have nearly the high volume requirements that Drip has. And so, it does let me be a little bit more free in trying things out in it.
+
+<strong>JESSICA:  </strong>What kind of company do you work for? Is this a small company? Is this your company?
+
+<strong>DERRICK:  </strong>Yeah, so I'm a co-founder of Drip. We are a small… we are just under 10 people right now. But for most of our history we've had just a handful of people working on it. We're a self-funded company. So, we started out, it was just me and my co-founder working on it. And my co-founder Rob handles the marketing side of the business. And I'm predominantly focused on building out the technical side of it. And so, for our first year or so it was pretty much just me hacking on away at this product while Rob worked on the business validation side of it and getting early users and early customers. And gradually, we've grown the team. But we still only have three engineers right now working on it. So, we're still pretty lean. And yeah, it's a joy to work on.
+
+<strong>JULIA:  </strong>So, when you talk about SaaS apps what do you think of as the difference between a SaaS app and any other web development project?
+
+<strong>DERRICK:  </strong>I think generally comparing a SaaS app to something like a social networking service or something that's maybe more consumer focused, I think SaaS apps tend to be more in the business to business space which is definitely where Drip falls. And so, the challenges with scaling it are generally different. Like we're self-funded like I mentioned. And so, we haven't raised a bunch of VC dollars and we don't have necessarily the resources to scale up a large team. And we're also working on a different problem space than maybe a more consumer-focused platform. And so, we definitely need to balance the needs of our customers and taking customer feedback to help drive our development. And so, I think it's just a different mindset that you have when you're working on a business-facing application.
+
+<strong>JULIA:  </strong>So, when you say that the challenges of scaling are different, can you talk a little bit about what ways you have to scale?
+
+<strong>DERRICK:  </strong>Sure. So, one thing is scaling our internal team. And you know, going from one engineer working on it to two was kind of a big shift for me. I don't know if any other panelist here have had an experience of you completely owning the codebase and then having to give up some control and letting in that first person to touch your pristine codebase. But that was definitely a hurdle that I had to get over. And that's one aspect of it.
+
+Another aspect is figuring out how to scale out the feature set and how to keep the app usable for your users but also adding functionality all the time. And so, a lot of our earliest users are the early adopter type users. And so, they come in with all kinds of really good feature suggestions but a high volume of feature suggestions. And so, it's kind of on us to parse through and figure out what's going to be the best things to add that's going to benefit the broadest amount of customers and what things are not necessarily the best things to add into the product. So, figuring out how to mine the best ideas out of our customers is an important thing that we have to work on.
+
+<strong>JULIA:  </strong>Right. Sometimes when I use Slack I use the 'slash feedback' feature and I just tell them my ideas about what I think I would like with basically no filter. [Chuckles]
+
+<strong>DERRICK:  </strong>Right, yeah.
+
+<strong>JULIA:  </strong>And of course if they listened to that it would be a disaster.
+
+[Laughter]
+
+<strong>DERRICK:  </strong>I think that's something, I kind of like to call it customer-driven development. And I think you can get a lot of really powerful ideas from your users. And I know a while back there was this movement of people running apps like Drip and taking the opinion that the one who owns the product should completely set the road map and you know best what your users need and user feedback is not necessarily that important. And I feel like that's a short-sighted way to look at it. A lot of our best features have come out of things that our customers have requested. But the thing is, customers don't always know how to express it in the way that is easily consumable. So, a lot of times a customer will propose a solution when really they're trying to tell you what problem they're having. And so, it's up to the product team to take in those things that are coming in as potential solutions and trying to gather as much context around it and then transforming that into an actual solution which is oftentimes not exactly what the customer requested.
+
+<strong>JESSICA:  </strong>Does it help to get feedback you're getting suggestions from multiple customers? Do you find you can recognize a common problem under their various suggested solutions?
+
+<strong>DERRICK:  </strong>That's generally what we look for. And it's funny how this happens, but we obviously, we take in a lot of feature requests through our support system and we'll tag them as a request. And very often we'll notice trends. And it will kind of be, sometimes it's eerie. Like in the span of two weeks we'll get three different requests for something where we can identify there's a common thread there. And so, it's those things that really signal that, okay there's a real need here. And let's put our heads together and try to figure out the best solution. And what really brings a lot of joy and gratification to our team and to our customers is when we're able to take in some of that feedback and in the matter of days or weeks deploy a solution. And I think that's one of the benefits of being small and something that we want to retain for as long as we can. And hopefully [never] outgrow being able to ship solutions really fast.
+
+<strong>JULIA:  </strong>Do you have an example of one of your favorite features that you built because of customer feedback?
+
+<strong>DERRICK:  </strong>There are so many. Well probably, rewinding all the way back to the beginning of Drip, we didn't envision it as a marketing automate platform at first. Really, what we were looking for is an easy way to capture emails. And we were using this on a different product that we ran at the time. And so, we wanted to be able to capture emails on our marketing website and then be able to Drip out content to them through a simple Drip campaign. And really, we didn't envision ourselves, all these automation features that we now have built into the product.
+
+But gradually over time our early users would recommend things like, “Well, I want to be able to move someone out of one campaign when they finished it and into another nurturing campaign.” Or, “I want to be able to apply a tag to someone when they do something interesting on my website.” And so, these requests piled up and piled up. And we started down the path of building one-off solutions to their problems like,
+
+“Okay we'll add a way to at the end of a campaign put a little move operation to put them into something else.” But then we took a step back and we looked at it and we said, “I think customers are asking for a broader feature set that is maybe its own subsystem in and of itself.” And that's kind of where our basic automation rules were built out of. And now fast-forwarding a few years, now we have an entire visual workflow builder built inside of Drip. And all of that was rooted in these initial customer feedback requests.
+
+<strong>AVDI:  </strong>It sounds like you almost built a new theory of what you were as a service.
+
+<strong>DERRICK:  </strong>Yeah, exactly. We definitely pushed back against it. We had our road map and we didn't want to deviate. But ultimately if you get enough requests from your customers then it's hard to ignore it, you know?
+
+<strong>JESSICA:  </strong>Wow. So, you evolved as a product even against your own original intentions.
+
+<strong>DERRICK:  </strong>Yeah, that's right. That's right.
+
+<strong>JESSICA:  </strong>But it's working out.
+
+<strong>DERRICK:  </strong>Oh yeah. We are definitely better for it. And that's why I make sure to remind people that not every single feature of a customer is going to be something you want to build. But definitely listen to them because oftentimes buried somewhere in there is a really, really good idea that might change the whole direction of your application.
+
+<strong>JESSICA:  </strong>Alright. So, your product started with one intention and when you built it you probably built some of that into the coding decisions you made. But as it evolves, how has the underlying technology helped and how has it gotten in the way?
+
+<strong>DERRICK:  </strong>That's a really good question. We realized probably after the first month of getting our first customers in there that we already had legacy. And that's a really hard pill to swallow and I think that's a reason why a lot of early stage companies take so long to actually ship and to actually launch, is because you know that as soon as people start using it, it becomes significantly harder to do anything like, “Oh, I just need to drop this database table and completely change the schema. Once you have actual production data in there, it becomes so much more difficult to change it.
+
+And because of the way we envisioned the product early on, we had things in our data model that didn't accommodate the new paradigm very well. We had a subscriber in Drip which is basically an email address, was tied directly to a campaign. It actually had a foreign key relationship there. And so, once we got to the point where a subscriber could be in any number of campaigns and could flow fluidly through them, we had to unravel that legacy and pull apart those data concepts. And we had a similar thing with opt-in forms. And there are a bunch of other things like that where early on we never would have known that we needed that flexibility in our data model. But looking back it seems obvious. Hindsight is 20/20. But it seems totally obvious that we should have done that at the time. But we just didn't envision where we were going to be in six months.
+
+So, I think the important take-away that we do now as we're building out new concepts in our data model is we try to be really defensive with the way we architect things. And even if we know in our user interface, we're not going to allow something to be a one-to-many relationship. If we think there's any chance that we might need to do that in the future, we go ahead and make our data model support that. And I think that there's obviously a balance there of trying not to over-architect and trying not to look too far into the future. But with things like data model, I think you can have a little more flexibility there.
+
+<strong>JESSICA:  </strong>When you say data model, what database are you using?
+
+<strong>DERRICK:  </strong>So, we are pretty much 100% backed by Postgres.
+
+<strong>JESSICA:  </strong>If you were in Mongo would it be more or less flexible?
+
+<strong>DERRICK:  </strong>[Laughs] Well Mongo, you can do arbitrary documents, man. [Laughs] No, I think… well actually, we do have quite a bit of JSON stored in our Postgres database as well. So, I guess you could say we're partly on the NoSQL schema-free bandwagon.
+
+<strong>JESSICA:  </strong>Ooh, a hybrid data structure.
+
+<strong>DERRICK:  </strong>[Chuckles] Yeah. Yeah, we have things like our customers can send us events and they can attach any arbitrary event data to it. And so, that is… we're storing it in a JSON column which up until this, we haven't been able to query that out very well. But we are eager to upgrade to, I think it's Postgres 9.4 maybe that allows you to do some interesting indexing of JSON data and looking into JSON structures for querying. So yeah, Postgres is definitely making some good advancements on that front.
+
+<strong>AVDI:  </strong>So, speaking of the technology that you use to back up your business or to drive your business, you've written some interesting things about choosing boring technologies. I wonder if you'd fill us in on that.
+
+<strong>DERRICK:  </strong>Sure. This is something I feel pretty strongly about. And I think it is counter to the tinkering side of software developers. We like to work with new technologies. We like trying out new frameworks. We love experimenting with new languages. But I think something that's really important, especially for a self-funded early stage SaaS business is to just stick with the tried and true boring technologies. And so, how we've done that at Drip is obviously Rails is now a very mature framework. We chose Postgres as our database system. We use some Redis in there. We do a lot of Sidekiq viewing. And all of these technologies are pretty battle-tested at this point.
+
+You know, I like to tell the story about when I was starting Codetree, my other smaller side-app. At the time when I was starting it, there was this movement in the Rails community that Rails is too heavy and we should be building out applications with the simpler stack and on and on. And so, I was buying into that hype and considered heavily building it in Sinatra and just choosing this completely different paradigm than what I've been building for the last few years. And then I finally came to my senses and thought, “You know, I should really be building this in the technology stack that I'm most comfortable in. Because at the end of the day what's really important is shipping something quickly, getting it out in front of users as fast as you can. And when you're trying to build your MVP, adding the extra variable in there of now being too familiar with the technology stack is really just going to work against you. And so, I ultimately decided to user Rails for that because I was most comfortable in it. And so, that's my big take-away from that.
+
+<strong>AVDI:  </strong>But all those new and shiny things that you're missing.
+
+<strong>DERRICK:  </strong>I know.
+
+<strong>JULIA:  </strong>So, a thing that just occurred to me about exciting technology is maybe it's exciting largely because of not anything inherent about the technology but just because you're not familiar with it, which is exactly the same thing that makes it risky.
+
+<strong>DERRICK:  </strong>Exactly, yeah. And it's easy to get caught up in a nice, shiny marketing site for this new technology. You see that happening a lot these days. There are a lot of good marketing efforts that are behind high profile open source projects. And maybe they have a nice intro video, a 15-minute video of how to get your system set up in 10 minutes with this thing. And it can easily sell people on the merits of this technology. But then you get a few months into working with it and you realize, “Oh man, I've got a problem here and I need to find an expert, maybe someone to help me solve it,” and there's not much on Stack Overflow. There are no experts on this yet because it's a new technology. And that's when you realize, “Oh, crap. Maybe I should have gone with something [chuckles] that is a little more battle-tested.”
+
+<strong>AVDI:  </strong>You know, if open source framework developers put half the effort into home page design, into documentation and support [chuckles]
+
+<strong>DERRICK:  </strong>Yeah, seriously.
+
+<strong>AVDI:  </strong>Has there ever been a moment that you regretted it? Has there been any point where you were like, “Oh, I wish I'd gone with technology Y.”
+
+<strong>DERRICK:  </strong>I don't feel like I've regretted really any of our technology decisions because I feel like by and large with Drip we've stuck with the boring tech. I definitely am always evaluating new database systems and things that can maybe handle large volumes of data because out database is every growing and we're having to deal with more and more analytics data. But I feel like we have by and large erred on the side of sticking with simple technologies and I definitely don't regret that.
+
+<strong>JULIA:  </strong>Do your simple technologies every surprise you and you discover that they're complicated than you thought?
+
+<strong>DERRICK:  </strong>Well, Postgres always… I'm learning something new every day about Postgres, especially as we're dealing with really large tables. And luckily we have a rock star DBA who works with us. So, I am by no means a Postgres expert. But yeah, just learning more about how Postgres constructs queries internally and how the optimizer chooses different paths based on different signals and how we can re-index things or change the way the query optimizer decides to construct a query is just really fascinating. And that's when I realized that there's so much going on under the hood. And I'm very thankful that all that is happening in a black box and we don't have to deal with all that complexity ourselves.
+
+<strong>JESSICA:  </strong>And yet you're still learning about it. So, even though Postgres is a tried and true technology it's working for you in part because you have a, I hate the word rock star, you have a very experienced person with this technology.
+
+<strong>DERRICK:  </strong>Yes. That is a good point. I think that speaks to another reason why if you're a small team using these boring, predictable technologies can be a good thing is because you're going to be able to find really experienced people to tap if something is above your head. That's definitely not to be underestimated.
+
+<strong>JULIA:  </strong>And also, you're still going to learn things. It's not like you're going to be working every day and never learning anything. You're still going to learn. You're going to use Postgres which is boring and then you're going to learn awesome stuff about how to make this boring piece of software really awesome. And you end up becoming a better developer and it will be the best.
+
+<strong>DERRICK:  </strong>Absolutely.
+
+<strong>JULIA:  </strong>And your app will work.
+
+<strong>DERRICK:  </strong>Yup.
+
+[Laughter]
+
+<strong>JESSICA:  </strong>Right, right. That little side-effect that [inaudible] forget about.
+
+<strong>DERRICK:  </strong>Yeah, exactly.
+
+<strong>JESSICA:  </strong>Derrick, we asked about scale and you talked about two aspects of scale. One was scaling the number of engineers on your team and the other was scaling the feature set in your software. But we haven't mentioned scale in the usual definition which is volume of users, volume of requests.
+
+<strong>DERRICK:  </strong>Right.
+
+<strong>JESSICA:  </strong>Have you struggled with that yet?
+
+<strong>DERRICK:  </strong>We have. We obviously deal with large amounts of data coming into the system. Drip has an analytics component where we encourage our users to install a snippet of JavaScript on their website. And that JavaScript pings back any time a visitor visits their website for the first time so that we can collect their data and we cookie them. And then our users are able to perform calls in JavaScript any time a relevant event happens like someone clicking an interesting link or visiting their pricing page or anything else that they want to trigger automation off of. And so, we do have a large volume of requests coming in.
+
+So, Drip is hosted on Amazon Web Services. And so, we've had a relatively easy time scaling out our fleet of frontend servers. We have I think five or six background job processing servers right now. And so, fortunately being on AWS has been really good for just being able to easily scale out our infrastructure. Obviously it's a complex system and there is a lot to learn. And there always is a lot to learn about scaling through the AWS ecosystem. So, that's the incoming web request side of things.
+
+Probably our biggest “true” scaling challenge has been keeping our queries running fast. In the UI of Drip there's a lot of analytics. When you first log in we present you with a graph of all your recent first-time visitors and how many of those have submitted an opt-in form. For every single email you send, we have to compute and open rate and a click-through rate, and everything like that. And obviously those tables are every growing, the ones that we need to access to compute these values. And so, we try to get creative with caching to really tackle that. And also getting deep into advanced database things.
+
+<strong>JULIA:  </strong>Do you use Redis as a cache?
+
+<strong>DERRICK:  </strong>So, we do use Redis as a cache. So, what we've learned about caching is that not all caches are created equal. [Chuckles] What I mean by that is some pieces of data we can get by with having a standard key-based expiration policy where when the data changes a new key is generated and a new cache needs to be populated. But many times we have something like I'll use an email open rate as an example. When you send a broadcast email obviously the first few hours after the email sends, that open rate is changing all the time. As is the click-through rate. After about a week or so, that number is hardly going to change at all. And so, we found for data like that it's important to refresh it often upfront and then gradually as time goes on we can back off our refresh rate.
+
+And we also found that for expensive queries like this, we’ll always want to present whatever data we have cached at the time. And then as soon as a request comes in for an updated copy of that then we just re-compute it in the background and then send that data down as soon as we have a new computed value for it. And so, we use Redis for many of these types of caches and we have two keys. One that holds the old value and another one that keeps track of when it was last refreshed. And we can use that value to compute when we should actually recalculate that value.
+
+<strong>AVDI:  </strong>You mentioned you've been getting deeper and deeper into the capabilities of Postgres. I'm curious. Are you pushing any of these calculations into Postgres?
+
+<strong>DERRICK:  </strong>We do many of the rate calculations in Postgres itself. It's funny. At this point, our biggest challenge is keeping things in RAM and keeping the relevant data that we need indexed in RAM. So, I think right now we have a database box that's got around 70 gigs of RAM on it. And obviously our dataset is much larger than that. And so, we have certain things like certain queries that is a perfect query in the sense that it never has to hit a table theoretically to calculate it. It can all be done by an index. And we found that even some of those queries are becoming significantly slow. And so, looking at it further we're realizing that even some of our indexes are frequently falling out of cache. And so, you have to start looking at alternative strategies like can we partition this table by date so that newer records are more likely to stay in cache and older ones will fall out?
+
+And so, we haven't gotten too deep into that but we're kind of… that's the season we're in right now, is pushing it to its limits and figuring out what the next step is for our database scaling strategy. We've also considered things like should we set up a completely separate cluster and start splitting customers between databases? And that's probably ultimately something we'll have to do. But obviously we want to hold off doing that as long as possible for the sake of simplicity.
+
+<strong>JESSICA:  </strong>It sounds like you've started out using a boring technology that's easy to use but it sounds like you're doing some stuff with Postgres now that isn't boring.
+
+<strong>DERRICK:  </strong>Definitely.
+
+<strong>JESSICA:  </strong>But yet it's been something that you've implemented gradually as you've needed it.
+
+<strong>DERRICK:  </strong>Right. I think that's the beauty of scaling organically is that we don't have to concern ourselves with any of this upfront as we're trying to gain traction with the business, which is super valuable. And now we're only having maybe a concern with it when we actually have customers paying us money so we can afford to work on these problems. I guess you could say it's one of those good problems to have where you're probably only going to have to deal with it when you actually have a little bit of traction.
+
+<strong>JESSICA:  </strong>That's very different from say a microservices architecture that builds the complexity in upfront with the idea that it's going to be more scalable later.
+
+<strong>DERRICK:  </strong>Right. Yeah, and I think that's why I'm not typically a fan of the microservices architecture. It's also, I think it's an interesting conversation to have to talk about mixing different languages into your system. So, we do have one external service. Drip is primarily a monolithic Rails app but we have one service that handles our click tracking. And basically in every single email we rewrite the links so that we can track ourselves when someone clicks a link in an email. And figuring that this might have a high request volume, a lot of concurrent requests coming in if there's a flood of click events, we decided to write this little service in Node. And it's very small. And all it does is pushes jobs into our Sidekiq queue and then redirects users on.
+
+And so, it's worked really well for us but in the back of my mind I do have this desire to get that rewritten in Ruby just because we haven't needed to leverage the high concurrency scale that Node is able to provide. And I feel like we could easily scale this up with Ruby. And having a Node app in our mix is just one extra thing for any new team member to have to learn. And we gradually forget the best practices for deploying Node apps. And so, it's just, it's an extra layer of complexity that I wish we didn't have in our system.
+
+<strong>JESSICA:  </strong>Oh, so that's a point that if you have a piece of technology that you don't change very often, you don't mess with it very often, you forget how to deploy it and stuff like that.
+
+<strong>DERRICK:  </strong>Exactly.
+
+<strong>JESSICA:  </strong>Yeah. But you… well, you should have a monolith because you haven't reached the scaling point in team size. You still have one team.
+
+<strong>DERRICK:  </strong>Exactly. Yes, that's true.
+
+<strong>DAVID:  </strong>Though the advantage to a microservices architecture is that you can spin up new podcast panelists like right in the middle of the call.
+
+[Laughter]
+
+<strong>DERRICK:  </strong>Welcome, David.
+
+<strong>DAVID:  </strong>Sorry it took me so long booting up. I actually have switched over to the JVM. And so, this is my new boot time.
+
+[Laughter]
+
+<strong>JESSICA:  </strong>The JVM is quite fast. It's just Clojure on the JVM that takes forever.
+
+<strong>DAVID:  </strong>Yes.
+
+[Laughter]
+
+<strong>JESSICA:  </strong>Okay. So yeah, we've spun up a new panelist and we have scaled the podcast.
+
+<strong>AVDI:  </strong>It sounds like, so you've got a Rails monolith. You've been working on it for a decent amount of time now. I'd love to hear a little bit more about just your way of working with Rails, how close or far you are from the conventions and being on the Rails and just any strategies that you've had to employ to keep that manageable.
+
+<strong>DERRICK:  </strong>Sure. So, let's see. So, we're currently a Rails 3 app. And it pains me to say that because I've wanted to be on 4 for quite some time. But we're finally working on our Rails 4 upgrade. And we have been, I would say we stick fairly close to the Rails convention in terms of our architecture. So, early on we stuck with the standard way of building out Rails applications. A lot of code in our models directory and a lot of things bound directly to Active Record models. And like any codebase that gets relatively mature and has many thousand lines of code, we have gradually moved into much smaller, single-purpose objects.
+
+Sandi Metz has had a big influence on me and my team and just her ways of modeling smaller classes in Ruby, that was big mental shift for me when I started getting deeper into that style of architecture. And I think it's made our codebase much better. And of course, there's always going to be those dark corners in the codebase that we want to refactor. And that's always something that we have to balance. It's like, can we spend some time to build another feature or should we stand still for a short period of time and work on refactoring this system? And so, that's always a balance that we have to play. And in general we adhere to the Boy Scout rule of always leaving a class better than when we came in to touch it.
+
+<strong>AVDI:  </strong>I've been surprised by how many groups have a lot of arguments over if there's a new standard of how we do things, does that mean that every time we touch something old, we have to completely upgrade it to the new standard.
+
+<strong>DERRICK:  </strong>Right. So, midway through the life of Drip we adopted RuboCop. And that was another huge win for us, just in terms of code review. I like to call it nitpicking as a service. I don't have to do the nitpicking now that RuboCop is there to nitpick style aspects. And we've definitely used it to just migrate our codebase to a new style of syntax for example, like when we adopted the new hash syntax. Instead of having to go through and manually do that, we just, boom, ran it in one process and that saved us from having to go through and gradually migrated that syntax.
+
+<strong>AVDI:  </strong>What for you is the event horizon of boring? What makes a technology sufficiently boring to be safe to use?
+
+<strong>DERRICK:  </strong>I think the biggest factor is has it been around a long time? And if I look at other larger organizations is it being used by some of the leaders in the industry? And so, obviously with something like Postgres, many, many years, many large companies taking advantage of it. Relatively newer technologies like Redis when we were evaluating its stability, obviously many large organizations using it. So, I think that's for me the biggest is what are the bigger guys doing? And that's the best signal I can have as to whether it's safe to use.
+
+<strong>AVDI:  </strong>Alright. Let somebody else get bitten first or let a few thousand other people get bitten first.
+
+<strong>DERRICK:  </strong>Right.
+
+<strong>AVDI:  </strong>And rub the rough edges off.
+
+<strong>DERRICK:  </strong>Exactly.
+
+<strong>AVDI:  </strong>So related to that, it occurs to me that I think different people probably have different philosophies of evaluating technologies that are out there. I think some people come in on the side of looking to see if there's a problem they don't realize they have. You look around at what's coming down the pipe and it says, do you suffer from these problems? And you're like, “Wow, I never thought about it before but yeah, I guess I do.” And then on the other end of the scale you have people that aren't looking at that at all and really don't go looking around until there's something that's just clear and present and unavoidable in their own applications. Where do you fall on that scale?
+
+<strong>DERRICK:  </strong>Yeah. That's a good question. I do definitely have concerns like okay, a year down the line I can project how large some of our database tables are going to be. And we still need to run basically analytics style queries on it. So, is Postgres really going to scale to that point or are we going to need to look at adopting some other more boutique type database systems specifically for analytics? So, it's definitely something that is on my radar and I'm trying to be wise about asking those who have more expertise about, here are my concerns. Is this going to scale? And so, there's definitely an aspect of planning there that I think anyone trying to write an app responsibly needs to do. And so, I tend to like to file an issue somewhere, just so it's top of mind of, “Hey, in six months let's reevaluate this. Let's take another look and see where we're at, see if we have a good scaling strategy or do we need to start evaluating alternative technologies?”
+
+<strong>JESSICA:  </strong>I feel like I have a process of personal boringification where I'll learn about a new to me thing. And at that point it won't be boring at all. It will be very exciting and also probably a mistake to use in production because I don't know what it is yet. And then I gradually learn about it and maybe use it on this site. And then it boringifies over time.
+
+<strong>DERRICK:  </strong>Yeah. I think that's a good exercise to go through. And definitely setting some time aside to just experiment with things before actually trying to use it in a real production application is always wise to do.
+
+<strong>JESSICA:  </strong>So, the point where you don't care whether you use it anymore is the point where you actually use it?
+
+<strong>DERRICK:  </strong>I think that's a good indicator, for sure.
+
+<strong>JESSICA:  </strong>Yeah. At that point, you know you're not doing it for your reasons. You're doing it for your customers' reasons.
+
+<strong>DERRICK:  </strong>Exactly, yeah. There has to be a better, there has to be a more compelling reason than just, “I want to work with this because I want the experience of working with it.”
+
+<strong>JESSICA:  </strong>Boringification.
+
+<strong>DERRICK:  </strong>[Laughs]
+
+<strong>AVDI:  </strong>That kind of reminds me of my experience with speaking where after I've given a talk a few times it'll start become boring and I'll start to hate it. And that's the point where it really starts to get good, because…
+
+<strong>JESSICA:  </strong>[Laughs]
+
+<strong>AVDI:  </strong>Because I can be completely brutal with editing it at that point.
+
+<strong>DERRICK:  </strong>I think that's a really good example. A while back, I taught a class on Rails at a local coding school. And I was so nervous I wanted to make sure I gave all my students the best information and didn't move too fast, didn't move too slow, and had plenty of examples, and on and on and on. And so, by the end of the class it felt more routine. And I think it only got more valuable over time. So, I've had similar experiences like that.
+
+<strong>JESSICA:  </strong>Earlier when you couldn't come up with an answer to what crazy technology would you like to try, I think that's a sign that you're much more motivated by building something useful than by building something for entertainment value.
+
+<strong>DERRICK:  </strong>Yeah. I would say that earlier on in my career or getting heavy into software development… I'm a self-taught developer and so I'm a tinkerer by nature. And it's kind of in my DNA. But I've definitely seen a shift in myself where I'm more knee-deep in the practical aspects of building a profitable business and not spending too much time getting sidetracked by shiny new objects and trying to stay focused on the task at hand and what do we need to accomplish next to make our customers more successful? And so, I think I've definitely distanced myself or just gotten more self-control about trying to stay focused on what's important and not spending a whole lot of time tinkering with brand new technologies for good and for bad.
+
+<strong>AVDI:  </strong>That seems like a pretty healthy mindset. Just over the past couple of days I've started to think that it might be that a lot of the developer fascination with new and shiny technologies is almost a kind of avoidance behavior. And I've started to realize this as I've started to become very mindful about my own media consumptions. This isn't necessarily related to programming per se, but just cutting back on social media and news and things like that. And there's that sense of, but what am I going to miss if I don't follow all this stuff? But at the same time I've been realizing that I really do use a lot of these inputs, these excuses of inputs as avoidant behavior because it's avoiding the really hard stuff in life. It's avoiding making decisions. It's avoiding building something myself when I'm going and consuming media instead. And I feel… learning isn't easy per se. But I feel like maybe sometimes we use learning these technologies as a kind of avoidant behavior because comparatively speaking it's easier than working through the really hard problems of building, of human organizations, or building things that people need, or making tough decisions.
+
+<strong>DERRICK:  </strong>I think that's a really good point you brought up. And I think the same holds true for yeah, many different types of media like listening to podcasts about business or about software development or listening to… reading productivity books but never implementing any of the actual strategies that they have in there. I think it's, like you said, it's easy to consume and feel like you're actually doing, like you're in the industry doing the work. But until you actually get your hands dirty it can be counterproductive.
+
+<strong>JESSICA: </strong> I think listening to podcasts is highly productive.
+
+<strong>DERRICK:  </strong>Well, I do. I have about I'd say 15 or so podcasts that I try to keep up with.
+
+<strong>JESSICA:  </strong>Wow.
+
+<strong>DERRICK:  </strong>So, definitely not knocking podcasts at all.
+
+<strong>JESSICA:  </strong>They're way more productive than I am.
+
+<strong>DERRICK:  </strong>[Chuckles] I probably don't do a good job of keeping up with all of them. But that's not a knock on podcasts at all.
+
+<strong>JESSICA:  </strong>[Laughs] Oh no, I only had to say that because…
+
+<strong>DERRICK:  </strong>Because we're on a podcast. But that's to say that some of my favorite podcasts like Ruby Rogues always have something actionable for me to take away. And so, what you can do as an astute listener is to actually try to put some of what you're learning from podcasts into play.
+
+<strong>JESSICA:  </strong>I like Avdi's point. Sometimes it's like, well it's hard to get my head around how I would solve problems for the business. But scaling. I could solve a problem of number of concurrent requests.
+
+<strong>DERRICK:  </strong>Right.
+
+<strong>JESSICA:  </strong>Let's pretend that's a problem.
+
+<strong>DERRICK:  </strong>Right.
+
+<strong>JESSICA:  </strong>Let's solve it with more technology and feel important.
+
+<strong>DERRICK:  </strong>That's something that I can look at our frontend for example, just to take an example, and I can try to see if we can squeeze a little bit more performance optimization out of something, or maybe we're not doing it a hundred percent “the right way”. But at the end of the day we're serving requests and we're serving sufficiently fast. And so, that's not a priority to work on right now. And so, it goes against wanting to do things the perfect way or the pure way to do it. But we always have to keep in balance that there are only so many so many hours in the day and so you have to focus your energy where it's best utilized.
+
+<strong>JESSICA:  </strong>We're not looking for the one truth. We're not looking for the one best way. We're looking for a way that works and we can get it done.
+
+<strong>DERRICK:  </strong>Exactly.
+
+<strong>JESSICA:  </strong>And it's not about us and whether we feel highly stimulated today.
+
+<strong>DERRICK:  </strong>Yes. But you did mention that you continually learn things. You're just learning things about technology that's immediate practical to you.
+
+<strong>DERRICK:  </strong>Exactly. Yeah, that's a really good way to put it.
+
+<strong>AVDI:  </strong>How do you decide which is the priority problem to work on if it's not say, scaling to a zillion connections?
+
+<strong>DERRICK:  </strong>We generally have pretty good signals about what's highest priority to work on. Obviously bug reports and things like that always surface to the top. And we use GitHub Issues religiously to track any and everything that may need to get worked on. And we try to go through and prioritize once we obviously prioritize any bugs or things that are broken in the service. Then it's a matter of looking at what features are going to have the greatest impact on the greatest number of customers. And also, what features could potentially benefit the business in terms of marketing. So, something that might be super valuable to our customers and also an opportunity to cross-promote the business for example.
+
+And so, there's a lot of different ways to look at it. But very often we have a queue of things that are ideally we could get done, all of these at the same time. And it's a matter of we don't have the perfect formula for figuring out what's highest priority to work on. But we do frequently reevaluate priorities. And we make sure to have the whole team meet up at least once a week so we get the inputs from the customer success side of the business and the marketing side as well as the development side. And we all put our heads together and we can hear, “Well in support we're getting a lot of requests for this type of thing and we can sync that up with what the development queue looks like and readjust things as needed. And so, I think just communicating often about what the different sides of the business are hearing helps us to at least do the best we can, prioritize the queue.
+
+<strong>AVDI:  </strong>Well, this has been a great conversation. And I think it's about time we got to the picks. So Derrick, do you have any picks?
+
+<strong>DERRICK:  </strong>I do. My first pick, I'm sure everyone here is familiar with Slack. My first pick is an integration for Slack called writegif. And I don't know if anyone here has used GIPHY but that was our first GIF bot that we installed in our Slack channel. And it has gotten increasingly random when you put in whatever keyword you want. And that's largely unsatisfying. And so, I recently found writegif and it has not let us down once. So, I would highly recommend that for all your 'jiffing' needs, or 'giffing' needs, however you say it.
+
+And my second pick would have to be RuboCop. It's had such a big impact on our development process. I would highly recommend it to any Ruby project just to keep your styles consistent and to make it so that you don't have to be the bad guy telling your employees that their style is bad.
+
+<strong>AVDI:  </strong>Alright. Jessica, what about you?
+
+<strong>JESSICA:  </strong>Today, I'm going to pick a Unix utility which is htop, which we have on our Ubuntu servers. And it's like top except you can push F5 and it puts all the processes in a tree. So, you can see all the processes running in your machine and which ones are the parents of which other ones. So, I just used it to find all the different sub-processes that Chrome has started and kill the one that's using the most CPU. And then it wipes out that tab. And it happened to be the htop web page.
+
+[Laughter]
+
+<strong>JESSICA:  </strong>So, this is very useful in production when I've got runaway processes that I need to kill. But it's also useful locally. So, 'brew install htop', that's my pick.
+
+<strong>AVDI: </strong> I'm definitely a big htop fan. Julia, how about you, any picks?
+
+<strong>JULIA:  </strong>Yeah. My pick is the book 'Java Concurrency in Practice' which I just started looking at, because people have been telling me to read it for a very long time. And I was like, I don't care about Java, concurrency. [Chuckles]
+
+<strong>JESSICA:  </strong>That's the train book, right?
+
+<strong>JULIA:  </strong>Is it? I think it's the train book, yeah. And then I realized that it's actually a magical book that is not only applicable to Java concurrency and will also just tell you about things about concurrency for your life when writing concurrent programs.
+
+<strong>AVDI:  </strong>Nice.
+
+<strong>JULIA:  </strong>So, I'm very excited about it.
+
+<strong>AVDI:  </strong>David, are you sure you have no picks?
+
+<strong>DAVID:  </strong>You know what? Hi, ninja ambush pick. The yeah, I just have one pick and because Jessica has to go home before dark today, I'll just keep it really quick. How to pronounce GIF. It's a YouTube link that explains. There's that big long holy war about 'jif' versus 'gif' and it's awesome. There's a really good smack down on how the English language works. And it's fantastic. So, I will link it. And I'm sure it will convince absolutely no one. But you know.
+
+<strong>AVDI:  </strong>[Chuckles]
+
+<strong>DAVID:  </strong>Why not stir up some more controversy?
+
+<strong>AVDI:  </strong>Nice. Well, I thought I didn't have any picks. But then I realized that there really was something that added value to my last week. And that was teaching at a local Ruby class. Our local Knoxville Ruby group put together a RailsBridge course over the course of a Friday evening and Saturday. And they invited me to hang out. And I had a ball. It was a lot of fun. We got some people started up and running with Ruby and Rails. And gave me an opportunity to rant a lot about the state of Ruby on Windows which is something I always enjoy doing. But moreover, it just gave me a chance to teach. And if you haven't done one of these things, look for an opportunity to do it. It's a real fun time. It's a time to hang out with other folks who code and also with people that are just getting started. And boy, if you've lost any of the excitement about coding, I promise you go and teach some people and you will regain it. So, there you go. That's my pick.
+
+And I think that brings us to the end of the episode. So, thank you very much Derrick for coming.
+
+<strong>DERRICK:  </strong>Yeah, thanks for having me. It's been a blast.
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world's fastest CDN. Deliver your content fast with CacheFly. Visit C-A-C-H-E-F-L-Y dot com to learn more.]</em></strong>
+
+<strong><em>[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]</em></strong>

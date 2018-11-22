@@ -1,0 +1,379 @@
+---
+layout: layouts/post.njk
+title: >
+      026 iPhreaks Show – Custom UI Controls with Sam Davies
+date: 2013-10-24 13:00:00
+episode_number: 026
+duration: 
+audio_url: https://media.devchat.tv/iphreaks/iPhreaks026CustomControls.mp3
+tags: iphreaks
+---
+
+Panel
+
+Sam Davies (twitter github blog)
+Rod Schmidt (twitter github infiniteNIL)
+Ben Scheirman (twitter github blog NSSreencast)
+Jaim Zuber (twitter Sharp Five Software)
+Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+00:57 - Sam Davies Introduction
+
+ShinobiControls
+
+01:47 - Custom UI Controls
+04:50 - Design-Time Experience and Documentation
+09:49 - When Should You Use Custom Controls?
+11:40 - Controls
+
+UISlider
+TableView
+UIView
+
+25:40 - OpenGL
+
+CAEAGLLayer Class Reference
+
+27:01 - Transitioning Custom Controls
+30:04 - New for iOS7
+
+Picks
+
+The iOS Design Cheat Sheet (Jaim)
+AFNetworking-ASIHTTPRequest (Jaim)
+Cocoa Controls (Ben)
+Lufthansa Airlines (Ben)
+Samarkand (Ben)
+Geist Dark (Ben)
+NSCalendar-EqualWithGranularity (Rod)
+JVFloatLabeledTextField (Rod)
+Sublime Text (Sam)
+Dash (Sam)
+Introducing iOS7 Day-by-Day (Sam)
+what-if.xkcd.com (Sam)
+
+Next Week
+iOS Game Development with Kyle Richter and Nathan Eror
+Transcript
+BEN: Sounds like you need a shot of espresso, Chuck.
+
+[Laughter]
+
+JAIM: Do pushups maybe, you know.
+
+ROD: Cold shower.
+
+CHUCK: Cold shower, yeah. [Laughs]
+
+CHUCK: Hey everybody and welcome to Episode 26 of The iPhreaks Show! This week on our panel, we have Rod Schmidt.
+
+ROD: Hello from Salt Lake City!
+
+CHUCK: Ben Scheirman.
+
+BEN: Hello from Houston!
+
+CHUCK: Jaim Zuber.
+
+JAIM: I’m good enough, I’m smart enough, doggone it, people – sorry. Hello from Minnesota!
+
+BEN: [Laughs]
+
+JAIM: Can you believe that guy is my senator?
+
+CHUCK: [Laughs]
+
+JAIM: No. He don’t get back to work. I don’t know what’s going on here.
+
+CHUCK: [Chuckles] I’m Charles Max Wood from DevChat.tv, with a quick reminder to go check out GoingRogueVideo.com. I have a 30-minute video on how I went freelance. And we also have a special guest this week, and that’s Sam Davies.
+
+SAM: Hello there from Bristol, the UK!
+
+CHUCK: Do you want to introduce yourself for the people who don’t know who you are?
+
+SAM: Sure! I’m Sam Davies. I work now for a company called ShinobiControls, and we build various different UI controls for both iOS and for Android and things. All kinds of different things; I’m not going to [unclear] you with exactly what we do, but charting and all kinds of different to help people’s [unclear]. I stay at that life as a computer vision researcher back in the day a few years ago. I spent a while of doing that. But Academia just doesn’t really have any money so I had to leave Academia and go do something a bit more applicable so I started doing mobile development and kind of stuff at working machine over a few years ago. Now, I work as a developer evangelist so kind of writing different bits and pieces and teaching people about things as well. I like talking to devs and doing dev work as well.
+
+CHUCK: Very nice. We brought you on the show to talk about “Custom UIControls”.
+
+SAM: Yup! I guess, sure, I’d talk a little bit about what – what they are and why you would want to make custom UIcontrols.
+
+CHUCK: Yeah, that sounds like a good start to me.
+
+SAM: UIControls, we all know exactly what UIControls are because we use them all the time, but what that actually means for somebody who’s using something that really helpful for lots of different groups of people including designers, developers, and for the end user as well. They represent a common vocabulary of ways and what you interact with an app. So we’re all used to UIControls in iOS because we have things like UISliders, we have Buttons, we have segment of control, whole selection of different things, and they were really, really useful.
+
+But the question always comes when you get to the stage where you want something that doesn’t quite – whether the existing ones from iOS don’t exactly do what you want to do – you want to have something slightly different. An example I always give whenever anybody wants to talk to me about this kind of thing is,
+
+<h3>Transcript</h3>
+
+<strong>BEN:</strong> Sounds like you need a shot of espresso, Chuck.
+
+[Laughter]
+
+<strong>JAIM:</strong> Do pushups maybe, you know.
+
+<strong>ROD:</strong> Cold shower.
+
+<strong>CHUCK:</strong> Cold shower, yeah. [Laughs]
+
+<em><strong>[Intro Music]</strong></em>
+
+<strong>CHUCK:</strong> Hey everybody and welcome to Episode 26 of The iPhreaks Show! This week on our panel, we have Rod Schmidt.
+
+<strong>ROD:</strong> Hello from Salt Lake City!
+
+<strong>CHUCK:</strong> Ben Scheirman.
+
+<strong>BEN:</strong> Hello from Houston!
+
+<strong>CHUCK:</strong> Jaim Zuber.
+
+<strong>JAIM:</strong> I’m good enough, I’m smart enough, doggone it, people – sorry. Hello from Minnesota!
+
+<strong>BEN:</strong> [Laughs]
+
+<strong>JAIM:</strong> Can you believe that guy is my senator?
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>JAIM:</strong> No. He don’t get back to work. I don’t know what’s going on here.
+
+<strong>CHUCK:</strong> [Chuckles] I’m Charles Max Wood from DevChat.tv, with a quick reminder to go check out GoingRogueVideo.com. I have a 30-minute video on how I went freelance. And we also have a special guest this week, and that’s Sam Davies.
+
+<strong>SAM:</strong> Hello there from Bristol, the UK!
+
+<strong>CHUCK:</strong> Do you want to introduce yourself for the people who don’t know who you are?
+
+<strong>SAM:</strong> Sure! I’m Sam Davies. I work now for a company called ShinobiControls, and we build various different UI controls for both iOS and for Android and things. All kinds of different things; I’m not going to [unclear] you with exactly what we do, but charting and all kinds of different to help people’s [unclear]. I stay at that life as a computer vision researcher back in the day a few years ago. I spent a while of doing that. But Academia just doesn’t really have any money so I had to leave Academia and go do something a bit more applicable so I started doing mobile development and kind of stuff at working machine over a few years ago. Now, I work as a developer evangelist so kind of writing different bits and pieces and teaching people about things as well. I like talking to devs and doing dev work as well.
+
+<strong>CHUCK:</strong> Very nice. We brought you on the show to talk about “Custom UIControls”.
+
+<strong>SAM:</strong> Yup! I guess, sure, I’d talk a little bit about what – what they are and why you would want to make custom UIcontrols.
+
+<strong>CHUCK:</strong> Yeah, that sounds like a good start to me.
+
+<strong>SAM:</strong> UIControls, we all know exactly what UIControls are because we use them all the time, but what that actually means for somebody who’s using something that really helpful for lots of different groups of people including designers, developers, and for the end user as well. They represent a common vocabulary of ways and what you interact with an app. So we’re all used to UIControls in iOS because we have things like UISliders, we have Buttons, we have segment of control, whole selection of different things, and they were really, really useful. But the question always comes when you get to the stage where you want something that doesn’t quite – whether the existing ones from iOS don’t exactly do what you want to do – you want to have something slightly different. An example I always give whenever anybody wants to talk to me about this kind of thing is, “I’ve got a range slider, but maybe I want a circular one, maybe I want like a knob that you’d go in a sound desk or something like that, how would I go about building that?” The point of building the custom control aspect is that you build something that’s reusable, then you’re not using it just in one project, but you can reuse it or you can package that up and let other people use it or as people in your team open source projects and that kind of thing. So it kind of what UIControls are and why you would want to build that. And then, I guess there’s a lot of different ways to approach the stuff that is always kind of fascinating; it’s looking at the years of experience associated with UIControls because moving from we know, we’re all used to UIControls on the desktop, that’s kind of where that born from, but actually, the user experience with the mobile device is completely different. I’m taking that into account and watching people use things that we build. And I’m not just saying apps, but then even to a finer granularity, it’s particularly important with UIControls. How do people interact with them? Do they understand how to use your app without having to end your controls, without having to have a lesson before your first app? So before you even start, looking at the stuff that we associated with being cool as devs is; getting in and then working up, or how do I draw it on the screen, how do I interact with it, and all that kind of stuff. There’s a vast amount of stuff that needs to happen not necessarily beforehand or not necessarily that you need to sit down and write a big list of it, but there’s a lot of things to consider before you even start with getting into the code, I think.
+
+<strong>BEN:</strong> I have a couple of questions; one of them is, just when billing controls or rather the end user of separate controls, the developers who are using it, since there’s no design-time UI experience for our own custom controls, do you find that that’s a hindrance for developers? Or, is it – with sufficient documentation – is that just a non-issue?
+
+<strong>SAM:</strong> It doesn’t seem to be too much of an issue. When I first started with iOS stuff, I’d find myself always in interface builder. I kind of grew after that and I found that writing stuff and code was a lot easier. Now, since I’ve been doing some work recently, I’ve kind of grown back to storyboard that will enjoy in using them. And I do find, yes, it can be a little bit annoying that there was no design-time stuff, but the truth is there is no way to do it. But equally, you can still do most of your layout and stuff using interface builder, and then you just end up with the later phase of the code that goes with it; it has to be done in code as you’d expect. I think the documentation, and what I viewed it, the documentation is usually enough to deal with, I think.
+
+<strong>BEN:</strong> I know that the design-time experience in, say, visual studio is much more common, but sort of splits developers into the camp of, “Well, I’d rather drag and drop the control and click in configure,” and then there’s a whole different camp who, like you said, finds things a little bit easier to do in code. I certainly in much more of the code type person; I’d rather configure things in a way that’s explicit as you have advantages of using source controls to see when the line was at it or removed. For instance, if you accidentally check the box in the property pane somewhere, it may not be obvious why something is broken. In already diff really be that helpful. However, when you’re looking at a screen that is composed largely of custom UI in interface builder storyboards, it ends up being a series of nested blue boxes which is so helpful.
+
+<strong>SAM:</strong> When I’m fronting, I end up with, “Well, I’ll set the background color in interface builder so I can see what it is now resetting –"
+
+<strong>BEN:</strong> [Laughs]
+
+<strong>SAM:</strong> I’ve got speed of different blue boxes. And then when you forget to set the background color, it gets me, “Why is this one always arriving in purple?”
+
+[Laughter]
+
+<strong>JAIM:</strong> Ben, you just made me nostalgic from my WinForms days. I’m not sure that was possible.
+
+[Laughter]
+
+<strong>SAM:</strong> Yeah!
+
+<strong>BEN:</strong> Yeah, I remember designing custom control in .NET once, and that’s when I learned about the property that you could check to see if you’re in design-time mode so that you could render your View with fake data, which is not necessarily about pattern. There’s no reason why we couldn’t just allow our controls to be instantiated and run and provide some sort of limited design-time at least rendering. I don’t necessarily think you need to be able to configure everything because that opens up another can of worms. But there are certainly people who would rather use interface builder to build applications. I think that it would be a good value at it that was part of the experience.
+
+<strong>SAM:</strong> Yeah, definitely. Certainly, in the .NET, you can data bind things as well within that whatever [unclear] or interface builder as well. So you set, you’ve got properties and things on it, and you set; that has to be bound to particular things, and then you just saw your date to write in the code and then it will come who gets magic be done for you.
+
+<strong>BEN:</strong> I think the iOS sort of design that’s baked all the way through the framework is just to use Delegates and Data Source protocols. And I’ve kind of like that design quite a bit as opposed to data binding where you just say, “This is your DataGrid DataBind,” and then you have to override methods to tell it – I don’t know. I guess it’s hard to speak generically about these things, but whereas the, like data source models, it’s kind of like, “I’m going to ask,” it’s like ask don’t tell, right?
+
+<strong>SAM:</strong> Yeah.
+
+<strong>BEN:</strong> So I’m going to ask my data source how many things I have, how many segments in my chart or whatever.
+
+<strong>SAM:</strong> Yeah, exactly. That’s something that is cater when you’re building custom control whatever it be, then it’s really good to match the pattern that is of use on the platform that you’re using. So in iOS, then delegate is the way forward or kind of tag action pattern or something if it’s a plus in UIControl. But, if you’re looking at Android things, then you probably wouldn’t even be using a delegate pattern; you do some other kind of pattern instead, and that’s really catered. If you’re building a custom control, then it should fit. The understanding and the paradigm that the developers were often is using, you shouldn’t have to learn something new just because you don’t like the way that the platform does something, if that makes sense.
+
+<strong>CHUCK:</strong> I’m a little bit new to this, and I haven’t actually created any custom controls yet for any of the apps that I’m writing, when is it appropriate to go for this? You’ve kind of mentioned that when the standard stuff doesn’t do what you wanted to do, do you have an example of this?
+
+<strong>SAM:</strong> There’s kind of presentation that I’ve done a couple times, which is kind of about building custom UIControls and how to go about it and that kind of thing. For that, I built an example which was – this is the kind of thing I eluded to before where I want to take the UISlider, but in my app design, I actually want it to be circular. I don’t want it to be a linear one; I want it to be like a knob on a sound desk. So I kind of went through the process of, “How would I be able to build this up using iOS?” so we kind of looked at what do we need to subclass in order to do it. Then giving that then, “What interaction pattern should we settle with it? Should we be using del tag actions? Should we be using caviar? So it kind of went through all these different things and built this kind of thing up. That was kind of example where that is a control; it’s a custom control. If you’re building an app that don’t needed, then there’s no reason why you actually need to go and build it as a completely separate little unit; you might just want it to use in that one single app. But that kind of the argument I was making where actually, this is a friendly generic thing that we might want to be able to put a knob in a different app. So I might have an app that controls the volume, and I won’t mind it won’t best change the volume in one app. But then later on, I want to have an app that has different pictures where we’re blending them together and know what to control the opacity so I could reuse exactly the same thing. That’s an example of something that I’ve built. You can get the code for that as well if you took and see what kind of stuff I was talking about.
+
+<strong>BEN:</strong> I think, clearly the examples of the UISlider is a good place to start, where that’s just the View part of MVC. We have a View and it just notifies its collaborators when the value changed just like any UIControl with. And it has like the visual representation of the state that is custom to the application. Do you see a place for other types of controls where their sort of, I don’t know, components might the right word, or they have their own sort of internal MVC architectures and manage their own data?
+
+<strong>SAM:</strong> Yeah, very much. As you say, the UISlider example is a very, very simple one and that just has one pretty much – we set some practice on it to control its behavior to an extent so even about min and max and that kind of thing, but then, as you say, you’ve just got value as the only thing. But yes, there are far more complicated controls as well. TableView is an example of a control which is far more complicated because that manages a state to where it manages how do you visualize separate things and it manages being of [unclear] virtualization and that kind of thing. So if you’ve made the custom version of TableView, for example, if you want to do grid and you want to top multiple columns, then that could be a custom control plus TableView or do something magical at that, or it could be a completely separate control, then that would be an example of where you’ve got your managing data as well when you’ve got delegate and that kind of stuff. Charts, that’s what I mean. So if you want to draw a graph, then that clearly needs to manage some data as well and have various different delegate callbacks and things as well.
+
+<strong>BEN:</strong> So how do you handle things like typically you have your own custom class that’s probably like UIView or UIControl? And as such, when you override and initialize it, you have like init with coder and init with frame and other things. If you only choose one of those initializers, like it’ll only work in that scenarios, if you only choose like init or init with frame, then anytime somebody drags and drops a View onto interface builder or storyboards and sets their class to your class, then they’re not going to benefit from the initializer that you have implemented, so you have init with coder or init with frame and init. Sometimes, I find that there are components, controls or whatever, that we use third-party things. They were just never meant to be used with interface builder differences or never meant to be used as storyboards so things become a little bit different. Do you find that that’s a problem? And do you have any sort of maybe tips on how to mitigate that?
+
+<strong>SAM:</strong> Whenever I’m building, I always tend to – whatever your subclass and if you look at all of the different constructors that you’ve got; UIView, you’d have init, init with frame, and init with coder – I’ve never come up with a nicer solution either than I’d then make my own common init method which would actually do the initialization I wanted, and I just override each of the 3 or however many initializers of the constructors that you’ve got from your subclass, and just call my common init in each of those. So that would then mean that you would definitely get your common initialization code. And then if you need to do anything slightly different from interface builder versus for init with frame for example, I think that when you get init with the coder, then your frame isn’t set at the right time or isn’t set when you expect it to be, and that kind of thing. So you’ve got some different display logic to put in in the different initializers and that kind of thing. But I’ve never come across a way that’s cleaner than that, I don’t think.
+
+<strong>BEN:</strong> I’ve done something similar. The only thing I know to that is if you name your method common init and then that pattern becomes really prevalent everywhere, then you could potentially be overriding a superclass’ common init, right?
+
+<strong>SAM:</strong> Yes.
+
+<strong>BEN:</strong> So I always worry about that, that I might be doing something that is so common. Maybe Apple does, and they don’t tell us.
+
+<strong>SAM:</strong> Yes. Maybe a more class-specific method name would more sensible. And it wouldn’t be on the API, so it wouldn’t be, wouldn’t it?
+
+<strong>BEN:</strong> Yeah [chuckles]. You would just get some sort of mysterious rejection [laughs].
+
+<strong>SAM:</strong> Yes!
+
+<strong>JAIM:</strong> Sam, for the controls that you actually ship, how much of the code it is kind of dealing with the UIViews and how much of it gets done as like our lower level things like Core Graphics?
+
+<strong>SAM:</strong> All of the, depending what controls that you’re looking at, they are all UIView subclasses within them. Charts for example, they are OpenGL and Accelerated. This was the whole point of when we first build charts; in order to get the interaction and the responsiveness that use as expect from touch devices, you just couldn’t do it without dropping down to OpenGL. So all of those are OpenGl, etcetera, except that there’s a vast amount of OpenGL code in those plus, then there’s some various UIView stuff on top of that so all of the different components within a chart, they were all accessible from the API. So, making those UIViews, then the people can understand how to do it. And then there were then some of the other controls. There’s a lot of stuff that is done with Core Animation, particularly, because that’s really – I was going to say Core Animation is really good for animation. You’d hope it would be, given it’s Core Animation.
+
+<strong>BEN:</strong> [Laughs]
+
+<strong>SAM:</strong> Yes, lots of it are done with CALayers and things then enable, again, the responsiveness to that aspect, and that some things are drawn in Core Graphics. But a lot of it, from the user’s perspective, it all looks like UIView. But then, within the kind of implementation, that all depends exactly what you’re doing, and that’s one of the key things from the talk that I gave them; it’s this very much that you need to choose the right technology for what it is that you’re doing, and the visualization and the drawing of that is particularly brought. So you get UIView where you can do some kind of drawing but not a vast amount, but then you can drop to Core Graphics where you’ve got a massive amount of control of what exactly what you’re drawing because it’s just a standard 2D graphics engine. But with that, you don’t have issues. That actually is quite slow if you’re going to try and render every frame, that’s going to be quite slow. Well then you can kind of use, what help out, we start putting things on Core Animation Layers and building up our thing with these layers, and then [unclear] those around because that’s a lot cheaper than you draw it. And then the last resort almost is the OpenGL kind of work. So it’s kind of working out what it is that I need to do and understanding where in the platform that about best fit. It kind of fits with the use the highest level API possible, but then equally, you need to know when to drop down to kind of keep the interactive [unclear] stuff that we have come to its platform, things on Apple devices.
+
+<strong>JAIM:</strong> So if you’re giving advice to a beginner which is maybe try and do things with UIView a base approach first and then dropdown or kind of sit back and think about what exactly is going to happen.
+
+<strong>SAM:</strong> As far as you can with UIView, yeah, it’s a general rule. I’d probably do as much as you can, and then when you start noticing that actually this is really slow or it’s noticeable jerky or it’s starting to drop things. But for example, you could build a lot [inaudible] depending what control it was; you could probably get really good responsiveness of things just to have using UIView with UIImageView and putting some images in it. If you’ve got image, if you’ve got artworks, those images that you don’t need to build to configure it, then you could probably get a really long way with that with possibly using that in UIView on the motion is [unclear]. But then, yeah, if you start to notice things that you want to add it for configurability, then you’re maybe looking at Core Graphics. And then if you start to get responsiveness problems, then start dropping that. I think that’s probably a sensible approach, unless you’ve got experience of all of these things. Then if you suddenly went in and said, “Right, I need to understand exactly how the graphic stock works iOS to be able to work out where the best [unclear],” I think that’s going to be really, really hard place to start, I think.
+
+<strong>BEN:</strong> Another argument in favor of composing things off of builds and controls versus rolling your own is accessibility comes somewhat for free if you do that. So if you turn on something like the voice over capability and accessibility and you tap around, then it’s going to rid off your labels and buttons and things like that. And if you ever custom control, then you’re on your own on how to handle that unless your custom control sort of made up a buttons and labels and that sort of thing.
+
+<strong>SAM:</strong> Accessibility stuff also helps if you’re going to do any UIAutomation testing as well because that’s how you drill down into the View hierarchies of this. It has a lot of advantages constructing in that way.
+
+<strong>BEN:</strong> Speaking of UIButton, UIButton is like my favorite example of how not to design classes.
+
+[Laughter]
+
+<strong>BEN:</strong> It’s not very subclass friendly. I’m wondering if you have any comments for things like that to allow your control to be sort of reused in scenarios which you might not have envisioned when you built it. I’m happy to elaborate on what I mean by not being subclass friendly if that helps.
+
+<strong>SAM:</strong> Yeah, I think that would be quite helpful.
+
+<strong>BEN:</strong> So if you want to build your own awesome button, you might consider subclassing UIButton. And in your ‘initialize it for the subclass’, you would want to set the button type to custom except that properties read only, and it’s only set by the superclasses like factory method for creating button. So you would say UIButton buttonWithType. Unfortunately, if you do buttonWithType and pass in custom, it’s going to return to your UIButton instance, not your subclass.
+
+<strong>SAM:</strong> Yeah.
+
+<strong>BEN:</strong> What we’ve done in the past is instead of subclassing, we just used a category method which were turned on specific configured instance of UIButton, but not a subclass. So it’s just something that would had much rather is something I can in interface builder; it’s just like drag a button on, set its class to my awesome button class, and be done.
+
+<strong>SAM:</strong> Yeah.
+
+<strong>BEN:</strong> But that’s not really a good approach because you run to issues like [unclear] has described before, you can’t necessarily set the type of button.
+
+<strong>SAM:</strong> Yeah, sure. That’s kind of a big no-no when you’re putting it together or they not needed then get to Apple. So everything that we built, not often – well, they’re all factory methods for this thing depending what it is; there’s a whole kind of different set of things that have different options. But you would always have a construct to that or [unclear] that you could construct something with. So you could have a subclass and you’d never get anything that returned stuff that didn’t allow you to change things that you would be able to change otherwise. For example, factory method – it’s making it sounds very confusing. For example where factory methods are used, we have a selection of different kind of activity and progress indicators that are kind of there because UIActivityView is not very customizable; we build some other ones, and you can have like radial ones or linear ones. And because you can have your activity in progress, then you end up with this – we have the concept of linear radio – so 2 different shapes. You can have progress in activity so progress, you kind of update it and it fills up. And activity is just there’s something going on and it will keep spinning. And then we also have this concept of discreet. That’s like made up of blobs or made up of little objects or continuous, which is like a pipe thing filled up or something or a rotating thing. So what this means is actually, that doesn’t fit nicely into a class hierarchy because you actually got 3 different things that you wanted and you don’t know what this kind of weird plus tree thing where everything talks to each other. In order to make that easier for the use of them, we have factory methods for that that kind of return you an object to a particular instance or something that is nice and easy to use. Let’s make example where factory method is quite useful, but that doesn’t prohibit somebody subclassing one of the things that we’ve built and changing the way something works because we don’t return something that’s private for example; we turn something that you can change.
+
+<strong>BEN:</strong> I think that would be helpful in the UIButton case. But that’s good to know that there’s like factory methods for configuring all the common cases.
+
+<strong>SAM:</strong> Yeah. And I think that’s quite an important thing. Whenever you’re designing any controls, then I think we kind of 90-10 kind of approach where it’s worth sensible to folks that will suit 90% of the cases because 90% of the people will want to just drop it and then use it later. Half of them spend 3 hours configuring it because there is one particular uses on this circular UISlider that says, “Well, we have a gradient from the start to the end with 2 colors and a gradient from the center outwards with a different gradient. And then we want to be able to have 2 different sliders that around the same track and all this kind of stuff.” You don’t want that as your first used case. You don’t want somebody to have to sit down and say, “I ain’t anyone want indicator. I ain’t anyone to have one color.” You just want kind of the base use case that everybody is going to want to use. But if possible, have the configure ability for the last 10% that want to get it to locate it in a very specific way. [Inaudible] make it a little bit more difficult to get that almost, I think. It’s the key thing when you’re building it.
+
+<strong>ROD:</strong> Going back to OpenGL, what do you have to do to do OpenGL drawing in the UIView? Is that tricky?
+
+<strong>SAM:</strong> No expo. I do know that when UIView is back with Core Animation layer or layer hierarchy or something like that, what you can do is CALayers of class called CAEAGLLayer, I think. Arrange that with those letters; I can’t quite remember the name. But what you built with those [unclear], well then, tell it that its’ going to be the content for that layer; it’s going to be rendered with OpenGL. So from the point of view of UIView, it’s actually really easy because you have a class method on UI, or am I right? Now, I might not be able to say that [unclear]. Well, there’s a method that sets what method I am and on what type of it. So you can just set that and have a GL there. And then – and this is where I’m a little bit hazy, I think you don’t get some kind of delegate code for doing your GL elsewhere, and then your GL stuff is  don’t much [unclear] the GL so you’re right, you’d shade in as like a string and then they get compiled on the graphics chips in the same way that it normally works.
+
+<strong>ROD:</strong> Okay.
+
+<strong>JAIM:</strong> So if you make custom controls, what’s the process of bringing them into kind of the new era if Apple goes and changes everything like the transition for iOS 6 and iOS 7? What do you have to do?
+
+<strong>SAM:</strong> [Chuckles] Well, this required a fair amount of effort. Once iOS 7 was announced, then there was a lot of work to do from how do we match it so that we can provide the same look? A lot of that controls have kind of a custom way of doing that look and feel. So what it meant was that we provide new styles of things or something so that it matches the look. But in addition to that, there was various of things that new technology allows you to use which is a bit more difficult for – we currently have a thing where we say we’re going to support back to iOS 5 not [unclear] shouldn’t be iOS 6. So you can’t put all the exciting new technologies in iOS 7 which is a bit disappointing. But there are some people that [inaudible] definitely should be approaching. From my perspective, actually building frameworks and things that contain these controls do as far more than issue with the 64-Bit and that was going to be truce. Actually because you didn’t get very long of the day without and part of the simulator of the device didn’t do the same kind of thing, obviously, we didn’t get any privilege on the device sort of thing so it turned out some of our frameworks stopped working because the GL and implementation have changed under the hood on the device. As soon as the first people to start to get the iPhone 5S, then we got some people come back, and that just doesn’t work. We can’t do anything yet because the person in the queue hasn’t got the 5S yet so we can’t really help you out yet.
+
+<strong>BEN:</strong> [Laughs]
+
+<strong>SAM:</strong> Now, we’ve got the 5S and the dev team shouting it round to try and work out what the fix is worth it. So as far as that kind of thing, you cannot respect. But from the point of view of visualization, a lot of [inaudible] was relatively cosmetic I think because of the way that our controls are being designed. Then there was a lot of, “Well let’s get rid of that shadow,” and those kind of thing. And because of it, it means that if [unclear] a new style so if people have 7 app built on iOS 7 without controls, then you cannot; you still make it look like the iOS 6 version of the controls as well; it’s just that it’s kind of an extra theme.
+
+<strong>JAIM:</strong> Okay, so you provide different themes for different versions that they can use to mix and match, whatever they need to do?
+
+<strong>SAM:</strong> Yeah, you can do it. Or, you can build that yourself. A lot of the work that came from our point of view is, a lot of debugging with TableView, but then a lot of working at what should it look like in iOS 7 which was I think there’s a pair of [inaudible] with all of their apps; what should this look like in iOS 7. That was kind of where we kind of with.
+
+<strong>JAIM:</strong> So what cool new things can he do if he just step this for iOS 7 that you’re excited to get rolling on?
+
+<strong>SAM:</strong> I spent quite of my working on this whether or not because I’ve been writing a blog series kind of [unclear] feature on iOS 7 for developers, that’s how I look at what can you do with it. There’s some really cool things not necessarily applicable – obviously, applicable, like your dynamics has been kind of a big, “Look at this. This is amazing physics engine. You can make a Newton’s cradle with it so you cannot have this desk toy that you get with the pendulum [unclear].” And you kind of think, “Wow! That’s really cool!” and then you go, “I don’t really know what I’m going to do with it.” Now, that’s actually useful for an app. There’s a really cool stuff with –
+
+<strong>BEN:</strong> You’re going to abuse it like everybody else is going to abuse it. They’ll just overuse it then eventually the community will say, “Okay, no more of that.”
+
+<strong>JAIM:</strong> No more pendulums, yes.
+
+<strong>BEN:</strong> Then it’ll be fun.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>BEN:</strong> Yeah. It’ll be fun.
+
+<strong>SAM:</strong> Yeah. Same with UIMotionEffect as well; we’ve got [inaudible] but actually, I don’t really know what to do with it now that we’ve done powerlocks. There’s some [unclear] for free, a ViewController transitions that I think is kind of long overdue and it’s quite nice to get some stuff in there, though. I think that is quite, quite useful. There’s a few other bits and pieces as well. I got a tint color simply because it’s pretty simple. I think it’s really handy. So tint color, if I were given a control, it has any UIView subclass; it has a tint color property, which is just one single color that UIView should take as its [unclear] which doesn’t make any sense in iOS 6. But in iOS 7, then that’s what it’s all about. It’s very kind of plain, simple, one-theme color. And it has this kind of property that when you set tint color, then everything that UIViews hierarchy you load at UIView, well then in the View hierarchy, we’ll get then updated with that tint color. So that’s something [unclear] interesting, and that for UI is quite cool because that means if you’re building a control that should look like iOS 7, then you probably have one single color, and you’ve got this tint color property that you can ask for what it should look like. And then you have, there’s another method on that I think could set tint color that will get called when the tint color changes. I know [unclear] when in something else above your hierarchy if you don’t have a tint color set. So that’s kind of an extra little thing that is kind of made for controls, I guess, is ideal.
+
+<strong>BEN:</strong> What would you do if you had a chart and the tint color sort of clash with your chart color, like the users desire tint color something like that?
+
+<strong>SAM:</strong> The problem with something like a chart is that there’s no, not really one clear tint color in many places. If you’ve got – obviously, you’ve got background color which still exist, then you kind of be coloring things like the individual series, which fairly have 1 series and you just got 1 line on your chart, then yeah, maybe that could match the tint color. But that’s up to the user to set that; they can choose what that should be simply because if you have 4 series, that [unclear] got 1 tint color then how should that can relate to my other series, that doesn’t quite make sense. So it’s all left in probably up to the user, I think, for that kind of thing.
+
+<strong>ROD:</strong> Tint color is kind of meant to indicate interactive elements of your control, I think.
+
+<strong>SAM:</strong> Yeah, that makes sense. In which case, it doesn’t really fit in the chart paradigm particularly well since generally, the whole thing is interactive so it’s not like a button where it just has the text that’s interactive. You’ve got a slider or something like that; it doesn’t quite fit the same paradigm.
+
+<strong>JAIM:</strong> I just want to say I have a lot of respect for people that make products that are targeted at developers because every developers think they could do what you do in like a weekend if they just put their heads down, and they think they could do it better.
+
+<strong>SAM:</strong> Yes, this is the biggest kind of [unclear]. I’ve talked with a lot of indie developers and kind of – certainly, I see some people who say, “We use your charts; they’re amazing. We use these controls; we love them, they’re really good,” which is really nice to see. And then you see some other people say, “Yeah, but it has no [unclear]; I could write that,” and I kind of get [unclear] this thing. I would also say, “Yeah, so how I could write that?” At that point, I’m kind of, “Well, feel free to go and write it. But if you can write it in less time that you would charge for the net worth it’d cost you, then go and do it because in charts, there’s many thousands of hours, mine have gone into it, and all of these things have loads and loads of time gone into it.” That’s kind of hour, the point behind ViewControllers is very much that we’re there to try and help developers and make developers lives easier. We’re not there to kind of say, “Look how we’re clever. We can do this, you can’t,” we’re not saying that at all. There are bits of the charts that I couldn’t do without quite a lot of work, but some of the other controls that we build, there’s not a load of rocket science in there. The point is it’s been done for you and we produce something that is easy to use for the point of view of the user and the developer as well. That’s the other thing that is quite key when you’re doing use case design for UIControls. It’s so funny use case where you have to get 2 end users; you’ve got the group of end users who actually just sit and play with them – they need to be satisfied, they need to have an excellent experience, they need to understand the [unclear] and the true response, and that kind of stuff. But then equally, you’ve got the developer is actually going to have to work with your control, and you don’t want to annoy them too much so you’ve got to have an API that’s well-documented, it’s going to be easy to use, and all that kind of stuff. So we’re very much aiming for actually, we’re not saying, “We can do things back then you’ve wrote,” the time has already been spent, and it could take you a lot longer to build this, then the amount of money can’t – I think that’s kind of a key message. And I think for people who have used it, that seems to go quite well. And, I’m certainly not advocating to not doubt for any UIControls kind of build them; that’s how it come a button from us, that’s definitely not the case. There are many things that either we don’t do or maybe you want to be particularly specific or [unclear] experience of going and learning how to build the UIControl, yeah, do that. That’s definitely the case. But if you find something that you think we can help out with, then come talk to us because that’s what we’re there for – we’re there for developers. They are the people we want to please.
+
+<strong>JAIM:</strong> I think the default mindset for a lot of developers is, “I’ll spend 2 weeks,” on something to, say, few hundred bucks. Not rational, but I think that’s where we all started.
+
+<strong>BEN:</strong> Yeah.
+
+[Laughter]
+
+<strong>ROD:</strong> Yeah.
+
+<strong>SAM:</strong> Quite a bit, you cannot say – that’s fine. You don’t have to be paying yourself $3 an hour or something [laughs], that’s the –
+
+<strong>JAIM:</strong> Pretty much.
+
+<strong>ROD:</strong> Even managers will overlook that, which is kind of amazing.
+
+<strong>BEN:</strong> Yeah, the language at which past client went to avoid trying to get another vendor on the approved purchasing list in order to buy a flash control was pretty ridiculous. This was a long time ago, but sort of the end of the story is that I ended up writing some flash, which I’m not qualified to do.
+
+<strong>SAM:</strong> [Laughs]
+
+<strong>ROD:</strong> And I’m sure you were happy about it, too.
+
+<strong>BEN:</strong> Oh, it was the most exciting ever.
+
+<strong>SAM:</strong> Oh! Language is flash script, and –
+
+<strong>CHUCK:</strong> ActionScript.
+
+<strong>BEN:</strong> ActionScript. Yeah [chuckles]. It’s kind of like JavaScript, but worst.
+
+<strong>SAM:</strong> Right.
+
+[Laughter]
+
+<strong>JAIM:</strong> Without the good parts, right.
+
+<strong>BEN:</strong> [Chuckles] Yeah.
+
+<strong>CHUCK:</strong> [Laughs] Alright. Well, should we get to the picks?
+
+<strong>BEN:</strong> Sure!
+
+<strong>JAIM:</strong> Sounds good!
+
+<strong>CHUCK:</strong> Alright. Jaim, do you want to start this off?
+
+<strong>JAIM:</strong> Okay. I’ve got a couple of picks. One thing I found online while helping people make the transition from iOS 6 to iOS 7 is “The iOS Design Cheat Sheet” which has all the different form factors and status bar heights and navigation bar heights, all in one place. So, I’ll send that link. My second pick is a little category that’s built off AFNetworking if you try to transfer, I’m working on some code right now, it transfer “ASINetworking over to AFNetworking” because everyone knows, if you use ASINetworking, it’s kind of like dealing with last week’s sushi, we’re all going to die. So, making the transition for client F –
+
+<strong>BEN:</strong> [Laughs]
+
+<strong>JAIM:</strong> And AFNetworking provides a low category that allows you to drop in kind of the default HTTPRequestOperation and just kind of drop in using a (I forget what it is) compatibility alias, so you can just change your includes and kind of basic stuff just going to work so that’s pretty cool.
+
+<strong>BEN:</strong> Yeah, that’s a really cool trick.
+
+<strong>CHUCK:</strong> Alright. Ben, what are your picks?
+
+<strong>BEN:</strong> On-topic is “CocoaControls.com” which is a cool repository of where you can find controls that other people have written. I visit the site all the time. And then some sort of off-topic picks, I just travelled to India and I travelled on “Lufthansa Airlines” for the first time ever, and I have to say, I was pretty impressed. Free booze and brandy at the end of a meal, I thought that was a good way to sort of get the people flying to shut up and go to sleep.
+
+[Laughter]
+
+<strong>BEN:</strong> So while in India, I went to a really awesome restaurant called “Samarkand” and they had amazing food. And of course, my obligatory beer pick, beer in India leaves a little bit to be desired, I’ll say [laughs]. But I was able to find a nice Belgian dark beer brewed in India called “Geist”. If my understanding is correct, it’s brewed in India. That was definitely the best beer I found there – it was a dark Belgian ale. And, those are my picks!
+
+<strong>CHUCK:</strong> Alright. Rod, what are your picks?
+
+<strong>ROD:</strong> Alright, my first pick is a method on NSCalendar in another category called “NSCalendar-EqualWithGranularity”. I’ve written a code before where I have to extract all the different parts of a calendar just to see if something is on a certain date. Here, you can just say, ‘EqualWithGranularity’ and just give it a day and then they’ll tell you if these 2 dates were on the same day. So, that’s kind of handy function.
+
+<strong>BEN:</strong> Sounds like it could be cool and handy in the unit test also.
+
+<strong>ROD:</strong> It used to be. Apparently, it used to be in the iOS 7 betas, and then for some reason, it got took out. So, this person added it back in. And then my other pick is a “JVFloatLabeledTextField” which is a neat component that I saw online. Basically, it takes the placeholder and the text field. And as soon as you start typing, that placeholder moves up to be a label above the text that looks kind of cool. That is called JVFloatLabeledTextField, and those are my picks.
+
+<strong>CHUCK:</strong> Awesome. My life has been kind of crazy so I don’t have any picks. Sam, what are your picks?
+
+<strong>SAM:</strong> I don’t think you’ve had it before. Whenever I’m doing any text-edit-type things, then I’ve kind of got through all the text [unclear] in the world and kind of come up with “Sublime Text” as my favorite one. That’s Sublime Text, which you can put on things go vintage mode and then it becomes a [unclear] as well, and that’s [unclear] kind of that. I’ve been writing a lot of blog posts lately so that’s my kind of editor of choice for writing markdown and that kind of thing. So, that’s Sublime Text. I think you’ve had “Dash” in the past, maybe a couple of months ago. Dash is amazing, say, documentation browser which is a stand-alone app within OS X. You can load all kind of different documentation set so it’ll probably have all of the stuff from your Xcode and still to iOS OS X. In addition, you can download vast numbers of different documentation sets as well so that you can get the Mozilla developer network JavaScript, and the HTML 5, you can get Ruby, you can get anything. I have it on a hotkey so that whenever I’m [unclear] anything, then I really, really quick to get up and it’ll pull up the documentation for you be quickly. It’s the best documentation that I’ve ever found and it’s great because you can use it for all of these different languages and things. That’s two. I’ve got to promote one [unclear], a blog series I’ve been writing, a daily blog series about “iOS 7 for Developers”. I’m currently on Day 19, I think, so I’ve got another week or so to go at least just a little blog post each day of something cool I found in iOS 7 for Developers, so I’ll send the link over for that. And I find a completely off-topic, it’s something I love reading. I’ve been a fan of xkcd for a long time, but a couple of years ago, maybe a year ago, I started doing “xkcd what-if” which is a weekly thought experiment  and pretty much ridiculous questions like “How many punch cards will it take for all of the date that Google has got on it?”
+
+<strong>BEN:</strong> [Chuckles]
+
+<strong>SAM:</strong> How many printers would it take to be able to print out the entire 2 Wikipedia Live as it gets [unclear] and that kind of thing? And, what would happen if the sun finally set on the entire planet and that kind of thing? So, that’s xkcd what-if, which is a great kind of funny read to distract from [unclear].
+
+<strong>CHUCK:</strong> Interesting. Alright. Well, let’s go ahead and wrap up the show. Thanks for coming, Sam. We really appreciate you taking the time to come and talk to us.
+
+<strong>SAM:</strong> My pleasure. Anytime.
+
+<strong>CHUCK:</strong> We’ll go ahead and wrap up the show. We’ll catch you all next week!

@@ -1,0 +1,488 @@
+---
+layout: layouts/post.njk
+title: >
+      230 JSJ Node at Capital One with Azat Mardan
+date: 2016-09-21 06:00:59
+episode_number: 230
+duration: 1:08
+audio_url: https://media.devchat.tv/js-jabber/JSJ230_Node_at_Capital_One_with_Azat_Mardan.mp3
+tags: js-jabber
+---
+
+<span style="font-weight: 400;">00:51 Jameson is looking for clients who need front and back end code for apps; </span><a href="https://twitter.com/jergason"><span style="font-weight: 400;">@Jergason</span></a><span style="font-weight: 400;"> (Contact him via Direct Message)</span>
+
+<span style="font-weight: 400;">04:40 An explanation of Capital One and its operations</span>
+
+<span style="font-weight: 400;">6:06 How many Capital One developers are using Node and how it is being implemented</span>
+
+<span style="font-weight: 400;">10:30 Process of approval for app/website development</span>
+
+<span style="font-weight: 400;">14:15 How the culture at Capital One affects technology within the company</span>
+
+<span style="font-weight: 400;">18:25 Using Javascript libraries to manage different currencies</span>
+
+<span style="font-weight: 400;">19:40 Venmo and its influence on banking</span>
+
+<span style="font-weight: 400;">22:32 Whether banks are prepared to operate in a cashless society</span>
+
+<span style="font-weight: 400;">29:44 Using HTML and Javascript for updating projects or creating new ones</span>
+
+<span style="font-weight: 400;">35:21 Who picks up Javascript easily and why: “It’s more about grit than raw intelligence.”</span>
+
+<span style="font-weight: 400;">44:00 Upgrading via open source codes</span>
+
+<span style="font-weight: 400;">45:40 The process for hiring developers</span>
+
+<span style="font-weight: 400;">51:35 Typescript vs. non-typescript</span>
+<h3><span style="font-weight: 400;">PICKS:</span></h3>
+<a href="http://www.playnerve.com/"><span style="font-weight: 400;">“Nerve” Movie</span></a>
+
+<a href="https://brave.com/"><span style="font-weight: 400;">Brave Browser</span></a>
+
+<a href="https://www.netflix.com/title/80057281"><span style="font-weight: 400;">“Stranger Things”</span></a><span style="font-weight: 400;"> on Netflix</span>
+
+<a href="http://ftlauderdale.ng-learn.com/"><span style="font-weight: 400;">Angular 2 Class in Ft. Lauderdale</span></a><span style="font-weight: 400;">, Discount Code: JSJ</span>
+
+<a href="http://alistapart.com/article/strategies-for-healthier-dev"><span style="font-weight: 400;">“Strategy for Healthier Dev”</span></a><span style="font-weight: 400;"> blog post</span>
+
+<a href="http://health-ade.com/"><span style="font-weight: 400;">Health-Ade Beet Kombucha</span></a>
+
+<a href="http://www.maximumfun.org/shows/adventure-zone"><span style="font-weight: 400;">“The Adventure Zone” podcast</span></a>
+
+<a href="https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html"><i><span style="font-weight: 400;">On the Cruelty of Really Teaching Computer Science</span></i></a><span style="font-weight: 400;"> article by E.W. Dijkstra</span>
+
+<a href="https://devchat.tv/freelancers"><span style="font-weight: 400;">“The Freelancer Show” podcast</span></a>
+
+<a href="http://www.48days.com/"><span style="font-weight: 400;">“48 Days” podcast</span></a>
+
+<a href="http://node.university/"><span style="font-weight: 400;">Node.university</span></a>
+
+<a href="http://azat.co/"><span style="font-weight: 400;">Azat Mardan’s Website</span></a>
+
+<a href="https://twitter.com/azat_co"><span style="font-weight: 400;">Azat Mardan on Twitter</span></a>
+
+<a href="http://www.cetusa.org/"><span style="font-weight: 400;">CETUSA – Foreign exchange program </span></a>
+
+<h3>Transcript</h3>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Hey everybody, welcome to Episode 230 of the JavaScript Jabber Show. This week on our panel we have AJ O’Neal.</span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">Yo, yo, yo. Coming at you live from Pleasant Grove, Utah.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Aimee Knight.</span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">Hello.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Jamison Dance.</span>
+
+<span style="font-weight: 400;">Jamison:</span> <span style="font-weight: 400;">Hello, friends.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Joe Eames.</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">Yo, yo, yo, coming at you live from the past.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">I'm Charles Max Wood from DevChat.tv. By my calculations, this should come out right around Angular Remote Conf. We are also doing React Remote Conf so if you want to check that out, that’s going to be on October. Jamison also has something he wants to share then we’ll get into the episode and introduce our guest. </span>
+
+<span style="font-weight: 400;">Jamison:</span> <span style="font-weight: 400;">I totally do. This is very self serving, tune my own horn. I have struck it on my own as an independent consultant. I’m looking for clients to help build frontend and backend applications or build great teams. I would love to talk to you if you’re interested. If you like the words I say on this podcast and you think that means I can write code well, for some reason, I like building great applications. I would love to hear from you. The best way is probably just to DM me on Twitter @jergason.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Awesome. </span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">What if I just need a middle and not back or front end, can you help with that?</span>
+
+<span style="font-weight: 400;">Jamison:</span> <span style="font-weight: 400;">Yeah. I know a person that does that. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">He’s hyper specialized front and back only. </span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">That person is me.</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">Is it okay if I chime in and say Jamison is awesome? Everybody should hire him. If you’re listening to this and you don’t immediately offer Jamison a job, there’s something wrong with you. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">I’ll allow that.</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">Just going to say it right out. Just going to say it flat.</span>
+
+<span style="font-weight: 400;">Jamison:</span> <span style="font-weight: 400;">Thank you, Joe.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Jamison is awesome. Jamison is cool when he’s part of your team. We also have a special guest this week. That’s Azat Mardan. I hope I said that right.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Hello, hello. Yeah, you said it right.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">You want to introduce yourself real quick?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Sure, where should I start? Just a brief introduction?</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Yeah.</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">Birth. Birth would be good. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">It was a dark and stormy night.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yeah. I’m a Technology Fellow at Capital One. It’s a bank and a credit card company, financial company. I’m also a JavaScript and Node.js expert. I’ve published and wrote 12 book on JavaScript. Number 13 is coming soon. I also have a few online courses, as well as in person courses, which I’m doing in San Francisco, New York City, and other major cities. That’s the short version. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Very cool. We brought you on today to talk about the JavaScript at Capital One. I think you’ve given a talk on that. I’m just going to let you dictate where we start. Then we’ll start asking questions and start from there. </span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes, absolutely. Back in December at Node Interactive, which was the first time they did this conference, like a full blown Node.js Conference. I highly recommend it. The new Node Interactive would be in September and October this year.</span>
+
+<span style="font-weight: 400;">I gave the talk on Node.js at Capital One. They received really good feedback from people in similar industries, financial industries and also health care government industries. Things sound a little bit different when you work in those industries because they tend to be heavily regulated. Just historically, those regulations, they’re not really great at embracing the innovation, and embracing up and stories. Luckily at Capital One, things are way, way better than the benchmark in the industry, at least side in my opinion.</span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">Can you give us a 10 seconds summary of what Capital One is? I’ve heard the name a ton and I couldn’t tell you what they actually do.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes, absolutely. Where do you live?</span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">I live in Utah in the United States.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Okay, that’s explains.</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">The big question for Jamison is what’s in your wallet?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">What’s in your garage? What’s in your driveway?</span>
+
+<span style="font-weight: 400;">Basically, we have retail presence, the banking branches on the East coast, New York City, Washington DC, those major cities. For other cities and states, we do online banking and online credit cards offering. Capital One started as a big data startup about 25 years ago. A lot of people still consider it as a start up because if you think about other major financial institutions like JPMorgan Chase, CitiBank, Wells Fargo, they exist for 100 years. Capital One is just 20 years since IPO. </span>
+
+<span style="font-weight: 400;">We do credit cards, we do home loans, we do auto loans, we do investing like buying stocks and shares. We also do lot of other cool stuff like budgeting apps and other particular credit score for example, even if you don’t have a credit card account with us. </span>
+
+<span style="font-weight: 400;">Jamison:</span> <span style="font-weight: 400;">Cool.</span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">In your talk, you mentioned that you have a lot of Java in your code, as well as Node. You also talked about how many developers are actually working on that. Since you said, kind of think of it as a start up. How many developers currently are actually using Node? How much of your Stack is actually Node?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">I don’t have exact numbers. This is because we have a lot of teams, a lot of engineers. Some of them have a lot of freedom to pick the frameworks, the library, the languages for example at Capital One Labs. They are going to prototypes. They’re pretty much free to pick any technology available. Maybe they’re using React Native, or L, or Elixir, or some of those cutting edge technologies. </span>
+
+<span style="font-weight: 400;">Unfortunately, I don’t have a precise number but my anecdotal experience from talking with other teams, I think the trend is increasing especially this year. More and more teams are shifting from having two or three teams working together. You will have your backend Java people, usually it would be three to eight people on the backend team. Then they would work with Angular 1.0 frontend team, of where to Angular one shop. Pretty much all of the application by default we use Angular 1.0, now we’re starting to use Angular 2.0.</span>
+
+<span style="font-weight: 400;">You would see two or three teams work together. Typically, what that introduce a lot of overhead in communication. You need more meetings, you need more hands off when the backend code is done, they hand it off to the frontend team and vice versa. If the frontend has a new feature, they need to ask the backend team. </span>
+
+<span style="font-weight: 400;">I worked on two projects so far at Capital One as an architect. I was involved in those projects from being in the trenches. I saw that with my own eyes that by creating generalist teams, by basically using more and more Node.js and JavaScript. We still have to use Java because that’s what our API said build on top. They’re basically reducing the team's sizes so we can move way, way faster. By doing that, we get better time to market which give us more competitive advantage.</span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">Can I make a quick detour and talk about the frontend for a minute?</span>
+
+<span style="font-weight: 400;">Jamison:</span> <span style="font-weight: 400;">Yes. </span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">You have a lot of Angular 1.0. I remember when I met you at NationJs, you talked about that. You are actually already migrating to Angular 2.0, is any of that in production? I’m really curious to hear your thoughts on the teams who made that decision to go that route rather than using React. It just seems like so many people are going that direction now. What the process has been like if you’ve started to just like build things, green field, or if you’re actually migrating things. </span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes, absolutely. I think if we’re speaking at NationJS, we course it in a dollar, like my clean office in Capital One. The current state as far with Angular 1.0 switching to Angular 2.0, actually we use both in production. We have Angular 2.0 and we have React as well.  </span>
+
+<span style="font-weight: 400;">Level money, their web app is build on top of React. The Post of Child example of transitioning from Angular 1.0 and Java Stack into more modern Node.js in Angular 2.0 Stack would be our main website,</span><a href="http://capitalone.com"> <span style="font-weight: 400;">capitalone.com</span></a><span style="font-weight: 400;">. </span>
+
+<span style="font-weight: 400;">Right now if you go to</span><a href="http://www.capitalone.com"> <span style="font-weight: 400;">www.capitalone.com</span></a><span style="font-weight: 400;">, the web pages would probably, we’re doing AB testing, we’re not releasing everything at the same time. Some of those requests there would be sort of Angular 2.0 or from Angular 2.0 code and typescript. Our brilliant team here on the West coast are, we also have some members of the East coast but mostly the Angular 2.0 Revolution started here on the West coast team. </span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">I think you mentioned in your talk to you that there’s a lot of, you talked about it too when we first started the call. The process you have to go through for approving things, something really difficult was things that are still, Angular 2.0 is not even officially released yet. How do you go about that?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">We have an open source office. As with being in the financial industry as I mentioned, you have to go through certain regulations. Open source modules and open source libraries, which you use internally for some tooling, for some internal projects at Capital One, they don’t require pretty much any approvals, they can do that. For something productions phase and customer phasing, there’s a certain  process. We have people working on also streamlining that process as well. Just based on the success of</span><a href="http://capitalone.com"> <span style="font-weight: 400;">capitalone.com</span></a><span style="font-weight: 400;"> and of the other teams, it looks like the process is very much straight forward. </span>
+
+<span style="font-weight: 400;">Jamison:</span> <span style="font-weight: 400;">I have a broader question about that, which is, in my head all those regulations are to attempt to provide stability, and safety, and protection. They kind of get a bad wrap up like they slow everything down and make it hard to do our jobs. Generally, I feel like they come from a desire to make something better. They definitely have an effect on, it’s this trade off. You have to balance stability, and safety, and also kind of moving a gigantic organization. You can’t just put a switch and say, “Okay, we’re on Angular 2.0 for everything, for every developer now.” </span>
+
+<span style="font-weight: 400;">How do you balance stability and security in a large organization with keeping up with new things and making sure you’re not falling behind technically?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes, absolutely, Jamison. All those regulation, they’re there for a reason. These industries like healthcare and government and financial. Basically, it’s like they’re very important in terms of the government tries to protect the consumers from some bad actors on the market. That’s why those regulations exist. I would say the majority of them, they totally make sense. </span>
+
+<span style="font-weight: 400;">For example, when it comes to open source, don’t publish your passwords and API keys into the open source repository. That totally makes sense. We shouldn’t do that. Obviously, in the cases when they don’t make sense or they’re not as former thinking as we’re way. For example, when you’re picking between AGPL and GPL licenses for your open source projects. In those cases, it’s basically education. That’s part of my role also, to educate engineers as well. Okay, what licenses mean, what is the best approach to open source your library, etc. </span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">Those are all kind of tactical things, though. What about more strategic things? Do you say these are experimental teams that get to play with new stuff. They’ll kind of go out ahead and check out the ground, see if it’s safe. Then, they come back and make recommendations. Or is it come from the top down, like some CTO or VP says like, “Our Angular was good. Do that Angular thing.” How do you keep up technically, especially when there’s all this inertia kind of encouraging you not to change things? Both regulations and just large enterprise.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes, yes, absolutely. Basically, it’s about the technology company, about the culture. We’re lucky at Capital One that we have both things. Basically, we have the will to change coming from the leadership. We still have our founder as the CEO. Initially, the new direction came from the top. They realized that we need to start changing. Basically, we move to public cloud. I think one of the few financial institutions that use public cloud don’t use data centers as much as we use it. We start embracing open source more and more.</span>
+
+<span style="font-weight: 400;">Now, you also see the approach from bottom up which are lapse that do a lot of prototyping. Level Money that use pretty much all the cutting edge technologies.  They’re going and building something. They prove that it’s better or maybe it’s not better for some cases than the current status quo. We started the conversations with our architects, maybe we should adopt it on a larger scale.</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">Cool, that makes sense. </span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Charles, see that, I see that as a both end. Also it takes time to change the culture, especially in a big company. There are very few successes when a large company’s transformation succeeded. Also without the sheer number of engineers, right now we have 5,000 engineers. I think we have open positions for 1,000 or 2,000 more engineers.</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">Holy cow.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes, most people don’t realize that Capital One, it’s not just a bank. We are a digital bank, we’re a technology company that focuses on financial services but we’re not just a bank. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Does one trump the other, then? Does the banking trump the technology?  Or does the technology ever get to say we’re not going to bank that way because technologically it doesn’t make sense. </span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Well historically, it used to be where you would have product owners or product managers. They would outsource the development. Whatever consultancy they would choose, those people would come back in 6 or 12 months. They would say, “Hey, this is what we built. See if it’s what you needed.” Most of the time the market would already move</span> <span style="font-weight: 400;">or they would be some discrepancies between the initial design and what has been built. </span>
+
+<span style="font-weight: 400;">Now, we’re using more Agile so basically the technical people they have the say in the product. We have customer labs, we do a lot of customer development. </span>
+
+<span style="font-weight: 400;">Sometimes, it feels like being in a startup especially if you visit our San Francisco office or the office in Virginia, McLean Virginia. It’s like any other start up like Facebook or Google headquarters, they have like bunch of games, and free drinks, and snacks. Obviously, this is also look like the shallow, the digital things, the cultural shift is also happening.</span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">I have a technical question. With banking, obviously floating point is not the greatest. You don’t want people’s fractions of dollars to get messed up. You probably deal with more currencies than just US dollar. Do you have a library for managing currency that you’ve created, or that you prefer to use? How do you handle those types of issues that are present in JavaScript?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes, JavaScript, there’s just one type number, it’s 64bit. It has length limitation. There are a few libraries that support long numbers. I don’t know exactly what people are using because most of the times, our use case is we get the data from the Java APIs. We use Node.js as a middle layer, we call it orchestration layer, some people call it API gateway. Basically, to massage the data. That’s where those libraries could come in handy. That orchestration layer talks with Angular or React frontend.</span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">Okay. Another just way out there question. Everybody loves things like Venmo where you can transfer money fast and easy. We’re starting to see integrations with payment services where it’s Facebook, or Android, or iOS authorization, or it’s this wants to do this with that. Do you see that hitting the major baking industry anytime soon? or are we still a ways away from that kind of convenience?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes. Venom is a peer to peer money transfer, without the credit card fees. </span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">Yeah, now it works in apps as well. You can actually on your iPhone, you can make app purchases.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">That’s totally cool. The Facebook bill to have payments, in Gmail, you can make payments, in PayPal obviously, becoming more and more popular every year, every week, every month.</span>
+
+<span style="font-weight: 400;">My personal opinion in that peer to peer payments, they’re not that complex. A lot of companies double in it, a lot of companies tried that to some success. What is tricky is to make merchants also accept your payments. </span>
+
+<span style="font-weight: 400;">If Venmo or PayPal can do it. For example, if I have PayPal, if I go to a gas station, I probably cannot buy anything with that because their terminals are not supporting. But if I have credit card or a debit card, Visa or Master Card infrastructure, that would be possible. PayPal and a lot of those new FinTech startups like Simple and some of the other ones, they’re trying to kind of bridge that gap by using technology by using credit cards and debit cards. </span>
+
+<span style="font-weight: 400;">The interesting thing would happen with more and more wider adoption of the touch-less payments and assist as people start having more smartphones which supports it. Merchants starts to also use new terminals which supports touch-less payments. That could be a game changer. We’ll see, it’s very interesting. </span>
+
+<span style="font-weight: 400;">I think financial services and the payment, they’re very rightful disruption. What is unique about Capital One, we kind of in both worlds, we are taking the best from the FinTech but we’re also a traditional bank. We have a infrastructure. We can issue Visa or Master Card and do other things that the FinTech start up have to partner with the existing bank in order to be able to do that. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">One thing that I keep hearing people talk about with these digital currencies. We’re talking about Bitcoin, and I’ve heard of a couple of others, can’t think of their names of the top of my head. With those digital currencies, I keep hearing people talk about going to a cashless society. I’m wondering how prepared are banks in general for something like that? Do you think it’s just kind of a non-starter, just from the banking standpoint?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yeah, there was an article, a reporter, journalist. He tried to go cashless for like a year or something like that. He had to memorize his credit card number. Cashless could mean two things. That reporter, he was avoiding credit cards as well. Just go in with his iPhone or Android, whatever he had. It could also mean just not using the paper money. In terms of not using paper money, I’m pretty much cashless just personally. I try to pay with credit cards and debit cards everywhere. In terms of just not using the plastic as well, yeah, we might see. Again, it depends on the merchants. </span>
+
+<span style="font-weight: 400;">Historically, just the habits and the existing infrastructure. It takes time to basically change that. Also, the chips right now that basically, all Europe and Canada, they had this EB chips. In the US, they weren’t popular. Now, we’re seeing the technology being implemented. Some people, they don’t have it because it takes actually longer time to pay with the chip, by using the pin code on the chip. Yeah. There are lot of games and whoever can solve those problems, they would be ahead of the pack.</span>
+
+<span style="font-weight: 400;">In terms of the Bitcoins and the kind of critic currency, just yesterday I’ve met this dev from coinbase, which is like an exchange for a Bitcoins. We had a nice conversation. I think just personally again, I’m not saying as a company, it’s not an official opinion. I think just that there would we some synergy between official money and some institutions issuing those money, like the Federal Reserve and the critic currencies. </span>
+
+<span style="font-weight: 400;">Capital One invested, we have a venture, Capital One Ventures invested in coin, which is a block chain technology. If you think about it, the block chain, it doesn’t have to be all about money. It could replace social security. Because right now, if I publish my social security online, that’s it, basically the game is over. I could be compromised. It’s very, very hard to prevent that. If I have my identity similar to the social security number as a crypt kind of a token, basically I can replay that because it works similarly to like having public and private keys. The applications are very, very interesting, besides just financial services and financial industry. </span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">I want to take us a little bit back towards talking about JavaScript specifically. You mentioned a little bit about the introduction of JavaScript into what sounds like was mostly a Java stack before. Can you talk a little bit more about how that transition works, where there new teams formed, was it the same people writing Java that started writing JavaScript? Sounds like it’s kind of a layer in between the two also. </span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yeah, sure. </span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">Or between the backend and frontend, that’s what I meant by the two.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes, the middle layer. JavaScript is everywhere. The first and the most important place is the browser to build a single page application. That’s why Angular 1.0 was speed, because it’s very nice for building those applications. It’s very good for prototyping.</span>
+
+<span style="font-weight: 400;">Our backend, mostly Java but then you have spots here and there. For example, like Level Money or some teams in the Labs that might use something else. In most of the cases, the backend is Java. That was five years ago, three to five years ago. </span>
+
+<span style="font-weight: 400;">We were hiring new talent that’s already proficient in Angular. At the same time, we were retraining the Java developers to become also generalist developers, by using the Angular 1.0 skills, by leveraging Angular 1.0 on the frontend. That turned out pretty well, part of it because we invest a lot in education. We have Capital One University and Tech College inside of that. We do lot of classes online and in person. We provide to all associates membership to Pluro Site, to Zafari Online. I think that’s good when developers can continue their education. </span>
+
+<span style="font-weight: 400;">Java developers learning Angular 1.0. Last year, Monsoon Team joined us here on the West coast. They were mostly Node.js and Angular 1.0, now they’re Angular 2.0. They brought a lot of talent with them, especially to the</span><a href="http://capitalone.com"> <span style="font-weight: 400;">capitalone.com</span></a><span style="font-weight: 400;"> project, to the home site. It was built initially in JSP, think about like having a monolith and actually using APIs so databases is directly from your web outright. Now, It’s more micro services architecture where you have Angular 2.0 which talks to Node.js. Then Node.js talks to the legacy APIs. We have a couple Java frameworks, in house frameworks, which we use. </span>
+
+<span style="font-weight: 400;">There are a lot of investments in Java. It’s not necessarily making sense to rewrite everything in Node.js. Node.js and JavaScript is mostly for new projects. </span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">I have a more specific question about part of it. You mentioned that single page apps. It sounded like it became the default. I feel like a lot of places, especially maybe larger enterprises, are still struggling with having large existing stacks that do a lot of server rendering of HTML, kind of the more traditional model. Some of them are still figuring out like, “Does it make sense to do a single page app here?” Did you incrementally add single page apps as you built new things, did you rewrite existing pieces? How did you fit those into the existing text stack?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Mostly for new projects when they’re conceived, the initial step during the architecture, they would be like okay, what frontend would look like? Angular 1.0, it’s not a perfect framework especially now we have Angular 2.0 and React. I think it’s sort of a good goal in transitioning from having those monolith written in JSP, now we use JavaScript. We transfer a lot of business logic from the backend to the frontend.</span>
+
+<span style="font-weight: 400;">You have this, the browser rendering which is snappier. You’re transferring the JSON payload instead of transferring all the same headers, all the same HTML for headers and footers. Yes. That was a great step. </span>
+
+<span style="font-weight: 400;">We are not like a stem people start up. We cannot chase all the new and try the technology. Seems like in JavaScript, there is a new framework coming out every hour. When you work outside your large scale, it’s such a big number of teams. You have to pick a framework which is supported by a great company like Google. In case of React, it’s also supported by great company like Facebook. You have that support but also you have a good community. You have these practices. The transition is relatively smooth. </span>
+
+<span style="font-weight: 400;">For example, if you’re Java developer transitioning into Angular, yes, JavaScript has its works but it’s not as dramatic as transitioning to L which is completely functional, or to colossian script, let’s say. </span>
+
+<span style="font-weight: 400;">I think Angular is a great choice for bigger enterprises. Example of why it was also beneficial, we have our own framework built on top of Angular 1.0. Think about it as Twitter bootstrap, but instead of having the Twitter bootstrap look, you would get Capital One look and feel in you applications. </span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">not really a component library, some kind of broader wrapper.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Exactly, exactly. It’s a broader wrapper, it has components in Angular, the directive. Basically you would have CS SAAS, HTML, and maybe some images or fonts, then you’d have JavaScript as well. </span>
+
+<span style="font-weight: 400;">It’s very similar like Twitter bootstrap having jQuery to drive that interactivity. In our framework, in the Capital One framework, they use Angular 1.0 to drive those directives. It’s like any hacker phone or any new project, they can just use Bower to our internal GitHub. Boom, they got those components, they got those directives, they can have a nice style table.</span>
+
+<span style="font-weight: 400;">You know how credit card transactions have dates, they have due dates, etc. That table will automatically seal those transactions accordingly to the style that we use across other Capital One applications. </span>
+
+<span style="font-weight: 400;">Having that type of inner source library, I think that’s great. That saves a lot of time. Basically we have one look and seal for a lot of projects.</span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">Have you had to kind of retrain a lot of people to develop JavaScript skill if they were great programmers already but in different stack or environment?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes, that’s basically part of my full time job. I go to different offices and do a three day training, it’s called Building Node.js Apps. First day we just focus on the JavaScript fundamentals, how to use prototypal inheritance, what other data types, how to use this keyword, etc., etc. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Do you see something in people that pick it up faster? Some skill or technique that they use that makes it easier for them to make that change?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">I think it’s about attitude. Also, I’ve been instructor at Hack Reactor, I’ve seen it over and over. It’s not necessarily the smartest person who becomes a great developer but it’s the the person with the most perseverance. I think 80% is in attitude. </span>
+
+<span style="font-weight: 400;">In my Capital One courses, I’ve worked with Java developers. Basically, Java developers transition from being backend to being backend and also doing the frontend work, to the so called generalist or full stack developers. What they’re struggling, almost all of them they’re struggling with data types. JavaScript there’s no type strides. How do you define a function? Basically the parameters for that function, they don’t know, it could be a string, it could be a number. </span>
+
+<span style="font-weight: 400;">Another thing that when we’re going to express a Nodes like okay, middle layer is like a filter in Java. They have some other analogies that help them to basically understand the Java for better. </span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">I love the quote you just said. It’s a quote now cause I’m going to quote you about how it’s more about grit than maybe raw intelligence, I think that’s pretty powerful. That makes me feel better too. To some extent, I can’t just flex my brain and make myself smarter but I can work harder, and get better at sticking with something, or figuring things out. I really appreciate that.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes. </span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">Everybody says work smarter not harder.</span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">Yeah, those are lazy scrubs.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Actually in some cases, the intelligence could be a curse. I’ve seen a lot of smart people, they just try something. If they fail for the first time, that’s it, they give up. They never develop this ability to persevere.</span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">Luckily I do not have that problem.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">You think you do not have this problem.</span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">I don’t think he has that problem.</span>
+
+<span style="font-weight: 400;">Jamison:</span> <span style="font-weight: 400;">Oh, I definitely do. </span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">I meant it in a way that I’m not smart enough to just expect me to get everything the first try. Of course I need to mess up a bunch of times to figure it out. </span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">If I pick up some new products off the shelf at Best Buy or Walmart and I can’t figure out how it works, I take it back, or throw it away, or give it to somebody else. I can’t stay under technology.</span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">Hence, your hatred for your ES6.</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">No, it’s not JavaScript.</span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">Oh no, what have I done. </span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">I’ll leave it alone. </span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">I have a great next question. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Awesome. </span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">Okay. You also talked about this in your talk as well. It’s just super interesting to me. You actually have some open source projects. I know a couple of them say coming soon but it’s one thing to submit a proto quest to Angular, or React, or even Node, it’s another thing submit a proto quest to something that like Capital One is using in production. Can you talk about some of those projects that you have? What is the process if people want to actually contribute to them?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes, sure. Let me show you a quick story. A couple of weeks ago, I was scrolling my Facebook feed. One of my acquaintances, he basically is like, “Oh, I’m quitting.” He named this company which I know. Actually, I’m a customer of that company. It’s one of those big start ups, real successful startups here in San Francisco. I was surprised like, “Wow.” Although this in media like Tech Ranch and Interbid, they write about this company, supposed to be the dream job. Why he’s quitting? </span>
+
+<span style="font-weight: 400;">Then I privately messaged him. He said they wouldn’t allow him to contribute to open source. I’m like, “Really?” This is 2016, all companies understand how important contributing to open source, how it’s good for their recruiting, for their brand. Companies like Twitter and Facebook, they’ve invested a lot in helping them. This is project but no, he said that that company, I was really surprised. </span>
+
+<span style="font-weight: 400;">Luckily at Capital One, it’s not even a question. We encourage people to contribute to open source. There are basically three ways. Inner sourcing is when you publish something internally, basically you don’t need anyone’s permission. You can just share it with other teams, that’s totally fine.</span>
+
+<span style="font-weight: 400;">The second level is when you’re contributing a patch to some other library like Purchase Park for example. We have contributors to the core Purchase Park. In this case, you need to have a certain number of patches. For each patch, you submit four. Once you get like I think five or six patches within one year, then basically you can apply to be a trusted open source contributor. Once you get that training and that approval to be a trusted open source contributor, you don’t need to submit individual forms. You can contribute as much as you want to that particular project. That’s when you’re contributing to sort part projects outside.</span>
+
+<span style="font-weight: 400;">The third option, it's open sourcing our own projects. Maybe it’s an inner source project that we used and we’re really like maybe it’s some experiment that we want to open source. In this case, the process is a little bit lengthier just because we’re Capital One. I also talked with some of other the big companies. Basically, they don’t open source all projects because there’s sort of legal search, you need to perform trademarks search, you need to perform to make sure you’re not target for any lawsuits. </span>
+
+<span style="font-weight: 400;">It makes sense for large projects, to open source them, to go through that process. For smaller project, they just tell people like, “Okay, just open source it under your profile.” It’s not that unusual in a large companies to see only large projects being open source.</span>
+
+<span style="font-weight: 400;">Capital One, right now, we have three big projects. One of them is Cloud Custodian. Another one is JiJia, which is a Dev Office Dashboard. Both of them we use internally, in our both production and QA and other applications in the setups. I don’t know if that answers your question, but that’s basically the process of open sourcing. We encourage people to contribute to open source and to use open source.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">I really like the way that you’re looking at that. I’ve had clients where there were some general utility library. We weren’t giving away any kind of trade secret, or competitive advantage other than the fact that somebody else would have had spent an hour to writing that code, they wouldn’t let us open source that. Technically, it was their intellectual property just due to the way the contract was written. At the same time, it would’ve benefited so many people and would’ve looked nice on their public profile to have those out there. Yet they were like, “Our competitors can take this code and use it.” It’s like, “Well, yeah. But if your competitive advantage is, they have to write the code too, that’s not much of a competitive advantage.” It’s nice that you’re looking at it from that direction and saying, “Hey, we can contribute to the community at large and make a difference.”</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yeah. Also what happens when this company needs to upgrade the versions. They have to pay someone. If it’s open source, the chance is that the community would support that. You have more eyes on the code, it’ll be more secure, it would be better maintained. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Yeah, especially if it’s something that is that generally useful. </span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yup. It’s useful if it’s popular. The quality is just so much better for open source. That’s why we use it. </span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">You’ve pretty much covered it. I was just going to add, it’s kind of complicated enough, I feel like, at most places to convince a pro level management to open source things. For a company as big as Capital One to do something like that is impressive. </span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yeah. The battle is over. The battle is over, folks, to open source. Just whoever is against open source, they are just like the relics of the past. They would there can be. </span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">I guess I have another question. This is completely unrelated but I always like to try to ask like newer developers question. I feel like I’ve talked to you about this when I was in Virginia. Have you ever hired someone, like out of a boot camp. I'm assuming you definitely hire junior developers with traditional training. What is the on boarding process like for them? Would you say it’s comparable to a regular job? Are there special things that you need to know about since you’re working in a higher risk environment?</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Oh, yes. That’s a great question. You, Aimee, you’ve finished Dev Boot Camp, right?</span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">I went to one in Nashville, called Nashville Software School. Similar.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">This topic is dear to my heart. I was an instructor Tech Reactor here in San Francisco. Historically, Capital One was pretty much always hiring college grads. There were these programs called TDP, Technical Development Program. They;re tech college grads and basically they’re not very little about actual development, most of them. They go on a two year rotation. I think it was two years, I think it’s one year right now, where they work in one team for certain number of months, I think it’s six months, then they move to another team, maybe even in different city. They can move from Virginia to San Francisco, back to Virginia, or Dallas. </span>
+
+<span style="font-weight: 400;">They get to experience real software engineering. They also have experience from different line of businesses, different departments, different teams. I think that’s a really good program. This program is not covering someone who is transitioning to software engineering as like a career change, TDP, they’re just for college grads.</span>
+
+<span style="font-weight: 400;">Recently, couple of years, one or two years, there's been a partnership with Udacity. Audacity, if someone doesn’t know it’s a great, great massive open online courses platform, where it’s very affordable to take courses from Ivy League Universities and Stanford, in the central MIT. Great quality education there, very affordable. </span>
+
+<span style="font-weight: 400;">What Udacity is already doing, also doing in addition to those books, massive open online courses. They’re providing kind of on the job training, it’s called Nanodegrees where people can get and transition into career of let’s say frontend engineer or big data analyst from being let’s say, phone support, phone representative on the support. </span>
+
+<span style="font-weight: 400;">I actually talked with one person who actually was a phone representative at Capital One. He did that Nanodegree. Now, he joined Capital One as a frontend engineer, which I think was fantastic. </span>
+
+<span style="font-weight: 400;">Also, we are working on the technical on boarding. Technical on boarding would be beneficial for experienced engineers. Someone who have been in software engineer for three, four, five years already, but new to Capital One. We want to get them started and show them how to do the engineering at Capital One, what slang do we use, what names do we use for our frameworks and technologies internally. How you can find information, how do you do a giant frontier here at Capital One, how do you test driven developments. Those are very company specific. </span>
+
+<span style="font-weight: 400;">I think Facebook has a similar boot camp where people go through eight week boot camp, even if they’re non-technical employees. They have to go through that boot camp and maybe build a couple of apps. At the end of that boot camp, person, the new hire, they decide which team to join because they got a taste of working in different teams. </span>
+
+<span style="font-weight: 400;">To summarize the answer, I think in technology we should never stop learning. Create platforms like Udacity which can make that learning more effective. Within Capital One, we also have Capital One University which combines the online learning and in person training to help existing engineers and the new hires as well. </span>
+
+<span style="font-weight: 400;">You also asked about did we hire. The Monsoon team here in Oakland on the West coast, they hired a lot of Hack Reactor graduates, just because they know them personally, some of them I knew before joining Capital One, others we hired after.</span>
+
+<span style="font-weight: 400;">Recently, I held to bring one person, I recruited one person from I think it was Dev Boot Camp or Hack Reactor. It was a local boot camp. Yeah, I talked with George, she seems to be happy. It’s been two or three weeks since she started.</span>
+
+<span style="font-weight: 400;">Again, there’s a little bit of a gap in terms of when you join the first day. How do I make my proxy work? How do I search information on the internet? How do I set up my GitHub profile, internal GitHub profile? There are sort of things we are still working on, making them better.</span>
+
+<span style="font-weight: 400;">Aimee:</span> <span style="font-weight: 400;">Sounds good.</span>
+
+<span style="font-weight: 400;">Azat:</span> <span style="font-weight: 400;">Yes, it’s all about learning. You never stop learning. That’s a good thing about technology, you can never can be bored. What do you think about typescript and non-typescript, those things? Should we talk about them?</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Yeah, go ahead. I know that we’ve talked about it, Joe and I have some on Adventures in Angular. I’m fairly pro-typescript. I think Joe likes typescript. What’s your take?</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">I personally haven’t built any production apps typescript. I would be biased in coming from more like a Node.js environment. Don’t really get that many benefits from typescript, at least in my opinion. I totally see the point of having that static taking, having those idea support where you have complete lead coming from the types. Especially for enterprise, once your applications starts to become larger and larger, you have more and more people working. How do you scale in terms of the team size?</span>
+
+<span style="font-weight: 400;">I think that typescript could be an answer to that problem. For prototyping, I would still just personally prefer to not have the prototype, to not have the types, because for me it’s more expressive and just faster. Once you can finish prototyping, you more or less know how your structure should look like. Then, you can start introducing the types and make it more structural, make it more rigid and robust. </span>
+
+<span style="font-weight: 400;">I think typescript supports regular JavaScript. You can write a regular JavaScript, then gradually piece by piece shift to typescript.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yup. Alright, we’re getting to that point where we need to start looking at picks. AJ, do you want to go first?</span>
+
+<span style="font-weight: 400;">AJ:               </span> <span style="font-weight: 400;">Yeah. There’s a movie out right now called Nerve. I think the concept of it is kind of cool. Particularly, because I’m in the personal server business. Within the first 10 minutes of the movie, they explained that the reason that the game can’t be shut down is that everybody who installs the software becomes their own server. It just completely democratizes the internet. Of course, there’s a very negative spin on what that democratization means through the plot of the movie. But conceptually, I think the idea of it is really cool. </span>
+
+<span style="font-weight: 400;">Also, I love any movie that’s got some sort of artistic eight bit kind of thing going on. They have a little bit of that in there where the cinematography has a couple of, I don’t know how to explain it but I like stuff where it meshes real computer grungy things, with more awesome nerve things. That movie does that well. I try to chop those words into something meaningful.</span>
+
+<span style="font-weight: 400;">I also want to pick the Brave browser. I haven’t used it all that much. I think that it’s a really cool concept. I’m a sucker just like everyone else, I want to learn about the one we’re tricked that bigs and hate, that’s going to reduce the amount of plumbing needed in your home or whatever. I hate it when I visit some article and I can’t, I’ve got 16 gigs of ram and it’s using like 8 of them to load the page because of all the ads. The idea of the browser that just doesn’t necessarily remove all of the ads, it’s up to your option, but that replaces ads with ads that loads faster and that are higher quality ads. I think it’s actually really cool. I wish more websites would opt into using the Brave ads system with or without the Brave browser.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright, Joe, what are your picks?</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">Alright. I’m going to pick a TV Show at Netflix. Stranger Things, watched a few episodes of it so far. It is absolutely, completely engrossing, super fun to watch. Just loved watching what I could and wanted to been all night long and watch it all night long, but of course I had to go to sleep, which really, really harsh on my mellow.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">At sleep, you wish.</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">Yeah, I know.</span>
+
+<span style="font-weight: 400;">AJ:</span> <span style="font-weight: 400;">If you have more grit, Joe, you would have step a bit.</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">Yes, that’s my problem. I have no grit. That’s the one problem I have in my whole life.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Too much intelligence.</span>
+
+<span style="font-weight: 400;">Joe:</span> <span style="font-weight: 400;">I thought it was all the brain damage, but it wasn’t it. It was grit. That was my problem.</span>
+
+<span style="font-weight: 400;">Jamison:</span> <span style="font-weight: 400;">I think that brain damage put some grit in your brain.</span>
+
+<span style="font-weight: 400;">Joe:   </span> <span style="font-weight: 400;">        </span> <span style="font-weight: 400;">There you go. Maybe I have too much grit then. Anyway, Stranger Things, awesome. Love the show.</span>
+
+<span style="font-weight: 400;">One of the things that I'm going to be doing at the beginning of October which I’m totally stoked for, John Papa and Dan Wahlin are going to be giving an Angular 2.0 class for two days in Fort Lauderdale, Florida. They asked me to help them out. I’m super excited to be involved with two such great teachers. I really, really like those guys. I’m helping them out with their Angular 2.0 class in Florida. </span>
+
+<span style="font-weight: 400;">If you would like tickets, you could check out</span><a href="http://ftlauderdale.ng-learn.com"> <span style="font-weight: 400;">ftlauderdale.ng-learn.com</span></a><span style="font-weight: 400;">. They’ll be in the show notes. If you use the code JSJ, you get couple of hundred dollars off of your ticket. It’s really October 6th or 7th, I think, in Fort Lauderdale. Super excited. It’s a cool hotel right on the beach. They’ll be having a lot of fun. There you go, those are my picks.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Awesome. Aimee, what are your picks?</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">I have two, the first one is the post on the LS Depart blog. It’s called Strategies for Healthier Dev, which is a short post. I like to be pretty well rounded. I liked a lot of the advice it has in here. It talks about tools out there, they’re like give me your screen, exercising, eating well, all that good stuff.</span>
+
+<span style="font-weight: 400;">On health kick note, I wanted to pick some Kombucha that I tried. I usually get this green stuff that actually has algae in it. It was GT’s Kombucha, the Whole Foods that I usually go to for that was out of it, I was stuck and had to try something new. I always try to get the Kombucha that’s, I try to pick weird flavors that are really healthy. I tried the beet flavor because I thought that would be pretty healthy, I was a little bit scared to try it. I thought it maybe disgusting but it’s actually pretty good. This brand is called Health-Ade. I’ll put a link for the blog post and the new Kombucha in the show notes. That’s it for me.</span>
+
+<span style="font-weight: 400;">Joe:      </span> <span style="font-weight: 400;">That’s my favorite brand.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">Okay, good. I’m not alone.</span>
+
+<span style="font-weight: 400;">Joe:       </span> <span style="font-weight: 400;">Love it.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">They actually have, it looks like they have some interesting ones, there’re a cayenne one, I don’t know if I would try that.</span>
+
+<span style="font-weight: 400;">Joe:      </span> <span style="font-weight: 400;">Try the rose one. That’s certainly a good one.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">Try the which one?</span>
+
+<span style="font-weight: 400;">Joe:      </span> <span style="font-weight: 400;">From roses.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">Okay. I’ll check it out.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Nice. Jamison, what are your picks?</span>
+
+<span style="font-weight: 400;">Jamison:      </span> <span style="font-weight: 400;">It’s been too long since I’ve heard the words Kombucha come out of Aimee’s mouth. I’m glad.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">The world just got brighter.</span>
+
+<span style="font-weight: 400;">Jamison:      </span> <span style="font-weight: 400;">Yes. I have three picks, I have two podcasts and an article, a paper I guess. </span>
+
+<span style="font-weight: 400;">The first podcast is called the Adventure Zone. It is a podcast where a group of brothers and their dad go through a D&amp;D play through. I don’t really play Dungeons and Dragons, I don’t really do role playing. They’re super entertaining to listen to. It’s pretty good.</span>
+
+<span style="font-weight: 400;">I recently read this old article from Dijkstra called On the Cruelty of Really Teaching Computer Science, which is just like Dijkstra in a title. He’s this old, grumpy, famous computer scientist, who has done a ton to advance computer science in general. He’s incredibly, I describe him as very fixed in his beliefs and willing to ditch out tasty burns to people who disagree with him. It’s an interesting read from decades ago on what he saw as the future of computer science education and all of the problems with it. Some of the points, I agree with him, some of them, I don’t, but it was a pretty good read. It’s not super technical, it’s not equations and Math, and things like that.</span>
+
+<span style="font-weight: 400;">My last pick is The Freelancer Show. As I’ve gotten started trying to strike out my own, kind of build up a software shop, Chuck does another podcast called the Freelancer Show. Its Chuck full of useful business information geared towards people in the programming space. I’ve looked a little bit for business and productivity podcasts. That is a waste land. It’s full of disgusting, cheesy, self-promotion, and not a lot of content. The Freelancer Show has been pretty high on the signal to noise ratio. It’s got a giant backlog of interesting stuff. If you have other great kind of productivity or business podcast that you like, I’d love to hear recommendations as well. Those are my picks.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Awesome. I’ll go ahead and jump in here with a few. If you like the Freelancer Show, another show that I listen to, it’s definitely a different format. It’s more aimed at entrepreneurship. A lot of the stuff that he talks about on the show does apply to freelancing and having your own business. It’s the 48 Days Podcast by Dan Miller. If you’ve read 48 Days To The Work You Love, it’s kind of a walk through on how to find a job in 48 days that’s going to be one that you enjoy working in. I think we’ve all been there where we have that job that we wish we could get out of. It’s a terrific way to go. </span>
+
+<span style="font-weight: 400;">He’s also got another book called No More Dreaded Mondays. That’s about striking out on your own. That’s pretty good book too.</span>
+
+<span style="font-weight: 400;">I’m also going to pick at least for the half a week that I’ve been doing it, we have a foreign exchange student staying with us. She’s from Italy. I haven’t figured out the exact dates but I’m pretty sure I was living in Italy when she was born. I may have been living within a half hour of her when she was born. Anyway, it’s been a lot of fun to have her around. She’s been playing with the kids. She’s excited to learn English and excited to see all the crazy stuff that we do here in America. </span>
+
+<span style="font-weight: 400;">My wife took her to Costco, then to Walmart. She was looking around, just wide eyed, “This place is huge.” The stuff that we take for granted, it was kind of fun to see the United States from a different point of view.</span>
+
+<span style="font-weight: 400;">If you’re looking into getting a foreign exchange student, the person who got me and my family to the point where we were going to have one was actually Joe’s wife. Bug Joe and he can hook you up, I guess. Anyway, it’s been super fun so far.</span>
+
+<span style="font-weight: 400;">Azat:           </span> <span style="font-weight: 400;">Thanks. Did you imply that you might be related?</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">No, I was a missionary in Italy for two years. I was there. No, no relation. Alright. Azat, what are your picks?</span>
+
+<span style="font-weight: 400;">Azat:           </span> <span style="font-weight: 400;">I’ll do shameless plug and promote my new platform for free online education related to Node.js and JavaScript. People are distracted if they watch YouTube videos. It’s also not the best experience to do online courses. I decided to just open source all my online courses and provide them for free. You can go to node.university. You will find my online course there.</span>
+
+<span style="font-weight: 400;">In terms of other JavaScript and Node related things, IBM is doing nice things where you can apply for a badge. You can put this in your LinkedIn, you can put it in your website. If you Google IBM Node Badges, you’ll probably find it. They have different badges for Node contributors and for Node evangelists. I got three badges I think, for contributor and evangelist.</span>
+
+<span style="font-weight: 400;">The last pick, non-technical related, I’m learning Spanish and I'm using this cool app, it’s called DuoLingo. It’s from the same people who created the Recapture. It’s really nice, nicely done app that teaches you a new language, if you want to pick up Spanish, or French, or Italian, or maybe JavaScript, I don’t know if they have JavaScript. They should.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">There you go. Have a switch your whole interface on your iPhone over with JavaScript. Alright. If people want to follow you on Twitter or check in on anything else you’re working on, are there any other links that we should share?</span>
+
+<span style="font-weight: 400;">Azat:           </span> <span style="font-weight: 400;">If they just Google my name, Azat, I’ll be probably on the first page, kind of dominate that for sure.</span>
+
+<span style="font-weight: 400;">Joe:       </span> <span style="font-weight: 400;">You got great. SEO for that.</span>
+
+<span style="font-weight: 400;">Azat:           </span> <span style="font-weight: 400;">Thank you. On Twitter, @azat_co. If they go to</span><a href="http://azat.co"> <span style="font-weight: 400;">azat.co</span></a><span style="font-weight: 400;">, that’s my main website.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright, very cool Thank you for coming. We’ll go ahead and wrap this one up. We’ll catch you all next week.</span>
+
+<span style="font-weight: 400;">Azat:           </span> <span style="font-weight: 400;">Thank you.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">Bye.</span>
+
+<span style="font-weight: 400;">Joe:              </span> <span style="font-weight: 400;">Later.</span>
+
+<span style="font-weight: 400;">Azat:           </span> <span style="font-weight: 400;">Bye bye.</span>

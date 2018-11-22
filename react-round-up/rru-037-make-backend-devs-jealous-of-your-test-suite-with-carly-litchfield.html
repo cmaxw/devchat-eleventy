@@ -1,0 +1,148 @@
+---
+layout: layouts/post.njk
+title: >
+      RRU 037: Make Backend Devs Jealous of Your Test Suite with Carly Litchfield
+date: 2018-11-13 11:00:02
+episode_number: 037
+duration: 55:38
+audio_url: https://media.devchat.tv/reactroundup/RRU_037_Make_Backend_Devs_Jealous_Of_Your_Test_Suite_with_Carly_Litchfield.mp3
+tags: react-round-up
+---
+
+<p class="p1"><span class="s1"><b>Panel: </b></span></p>
+
+<ul>
+ 	<li class="p2"><span class="s2">Nader Dabit</span></li>
+ 	<li class="p2"><span class="s2">Lucas Reis</span></li>
+ 	<li class="p2"><span class="s2">Justin Bennett</span></li>
+</ul>
+<p class="p1"><span class="s1"><b>Special Guests:</b></span><span class="s2"> <b>Carly Litchfield</b></span></p>
+<p class="p1"><span class="s2">In this episode, the panelists talk with <a href="https://twitter.com/carly_joh?lang=en"><span class="s3">Carly Litchfield</span></a> who is a Full-stack engineer of React and React Native. The panel and Carly talk about frontend and backend developing and the issues that teams could face day-in and day-out. Listen to today’s episode to hear about that and much more! </span></p>
+<p class="p1"><span class="s1"><b>Show Topics:</b></span></p>
+<p class="p5"><span class="s4">0:00 – <a href="https://www.telerik.com/kendo-ui?utm_medium=social-paid&amp;utm_source=devchattv&amp;utm_campaign=kendo-ui-awareness-jsjabber"><span class="s5">Kendo UI</span></a></span></p>
+<p class="p1"><span class="s2">0:30 – Nader: Welcome! Our panel is Justin, Lucas, myself, and our guest is <a href="https://twitter.com/carly_joh?lang=en"><span class="s3">Carly</span></a>. Welcome to the show! Thanks for joining us. Introduce yourself please. </span></p>
+<p class="p1"><span class="s2">0:56 – Carly: I am a fullstack engineer at a company called Zocdoc. I have been there for 4 years, and we use C# framework. </span></p>
+<p class="p1"><span class="s2">1:17 – Nader: C# interesting!</span></p>
+<p class="p1"><span class="s2">1:26 – Nader: You can do game development and other stuff.</span></p>
+<p class="p1"><span class="s2">1:33- Carly: I haven’t gotten into game development at all, just using C# for web development.</span></p>
+<p class="p1"><span class="s2">1:50 – Nader.</span></p>
+<p class="p1"><span class="s2">1:55 – Carly.</span></p>
+<p class="p1"><span class="s2">2:08 – Nader: The topic for today is: being a frontend developer and a team that is mostly focused on backend. Also, other topics with testing if we have time. How did you get into web development?</span></p>
+<p class="p1"><span class="s2">2:32 – <i>Carly goes into detail about how she got into web development.</i> </span></p>
+<p class="p1"><span class="s2">5:02 – Carly: I have worked with React Native, too.</span></p>
+<p class="p1"><span class="s2">5:22 – Nader: That is my favorite thing to work with (React Native). </span></p>
+<p class="p1"><span class="s2">5:27 – Panel: Everyone was learning about this new domain and this frontend domain. How was the knowledge spread? How was it spread throughout the company? </span></p>
+<p class="p1"><span class="s2">5:50 – Carly: One of the people someone that was on this 3 – person team (Thomas) and he went around to anyone who knew React. He made a lot of tooling. He made a lot of configuration libraries. You’d have your NPM integration like everyone else. It was cool to hook it into our servers. It was crucial to help with adoption. Those libraries aren’t being well maintained and it’s causing some pain. </span></p>
+<p class="p1"><span class="s2">7:32 – Panel: I remember this one case when I was working with an engineer and he was working on backend stuff. He was like I don’t understand here is JSS and JavaScript. Did you have those cultural differences?</span></p>
+<p class="p1"><span class="s2">8:27 – Carly: Yeah, definitely. You will see a thousand two-thousand lines that are written by us and it’s impossible to know how it hooks-up, etc. It’s painful to work with and some of the internal tooling nobody is updating. That served a forcing mechanism b/c we built tons of the frontend that it’s so complicated and we are paralyzed. That served us b/c frontend is hard and we just can’t go plopping around wherever we want. That’s how they tried to use Backbone. We never hired a specific frontend engineer. We just kept hiring backend to learn frontend. It’s harder to hire someone to avoid those mistakes. They will have to learn the hard way, where a Senior Developer can help. Even our Backbone apps were heavy and hard to work with. At that time we thought we were going to go to React. We thought we could hire someone with true frontend experience. We started an interview process and hard to get off the ground. We have gotten a lot better b/c we have Senior and Principle engineers to help. </span></p>
+<p class="p1"><span class="s2">12:12 – Panel: This isn’t easy and this is hard. Building UIs are extremely difficult. </span></p>
+<p class="p1"><span class="s2">13:06 – Carly: I have an old manager that posted a quote...that just shows how much things are changing. These are advanced strategies. On the backend you have all of these services and go to AWS. However, on the frontend the problems aren’t solved, yet. WE don’t have a perfect answer. A lot of the dynamics are interesting and the right answers are yet to be found. </span></p>
+<p class="p1"><span class="s2">14:32 – Panel: I think that in some ways, an application we are finding better ways with static websites and blogs through the WordPress model. We are finding practices to enable people to build intricate things. </span></p>
+<p class="p1"><span class="s2">15:07 – Panel: I used C++ in the beginning of my career. I use a framework called QT. QT is good to building native UIs, but it’s extremely complicated and difficult. And thinking about that from the idea of building not only a UI, but also...we are essentially using tools that aren’t supposed to be used in the way they were designed. </span></p>
+<p class="p1"><span class="s2">16:46 – Carly: I agree. When I was using style components at the beginning – after you do it for a while it’s not weird anymore. It’s great not to have to reuse things. I hear a lot of people concerned with these separations, but maybe they were 3 separate concerns. Maybe one component is one concern, if you will. </span></p>
+<p class="p1"><span class="s2">17:59 – Panel: I agree. If you look at the page model vs. the web model...you want a button to look like THAT button. You want them to look the same, it’s a component or an app. Maybe if you have a Wikipedia page where you have headers and sections, the CSS model makes sense on that particular domain, but with application it’s so complicated. I am a fan of cell components, and...</span></p>
+<p class="p1"><span class="s2">Things are getting better. Another topic – we are in this frontend world and one big problem with the old days was reliability. You talked a lot about testing in the frontend. Let’s talk about testing in your professional life. </span></p>
+<p class="p1"><span class="s2">19:48 – Carly: I moved slowly into backend, and it’s comfortable that you knew you weren’t going to break anything. This testing stuff is great and I actually love it. We need to figure it out on the frontend, too. I built a bunch of tools that doctors use.</span></p>
+<p class="p1"><span class="s2">We started thinking about what can we do to make the frontend more testable.</span></p>
+<p class="p1"><span class="s2">21:40 – Panel: I call that: Layer Oriented Design.</span></p>
+<p class="p1"><span class="s2">21:51 – Carly: When we were on Backbone we used this screen-shot testing framework. We obviously should be focusing on how we made this app rather than how do we test frontend code. But we did it. You could have a Backbone view...</span></p>
+<p class="p5"><span class="s4">22:43 – <a href="https://www.freshbooks.com/?ref=ppc-fb&amp;campaignid=717543354&amp;adgroupid=51893696397&amp;targetid=kwd-298507762065&amp;crid=284659279616&amp;dv=c&amp;ntwk=g&amp;source=GOOGLE&amp;gclid=EAIaIQobChMIqIi-lMLD3gIVTLXACh1Nggt8EAAYASAAEgIxa_D_BwE&amp;gclsrc=aw.ds"><span class="s5">Advertisement – FRESH BOOKS!</span></a></span></p>
+<p class="p1"><span class="s2">23:47 – Nader: How would you change the pictures – were you running it through what?</span></p>
+<p class="p1"><span class="s2">24:02 – Carly: An array of pixel colors. </span></p>
+<p class="p1"><span class="s2">24:10 – Carly: It was cool! We called it Lena. We used it for a year or so and it caught some bugs and it did other things. We built Percy and Storybook. We are ahead of the game with that. In general that is what we have moved to instead. </span></p>
+<p class="p1"><span class="s2">25:30 – Panel: <a href="https://github.com/percy/"><span class="s3">What is Percy?</span></a></span></p>
+<p class="p1"><span class="s2">25:37 – Carly: It will render your components, then it will grab...and every time you push code it will compare the old/new screenshot. You can do mobile stuff, too, which is awesome. </span></p>
+<p class="p1"><span class="s2">26:25 – Panel: When I saw the <a href="https://github.com/percy/"><span class="s3">Percy</span></a> tests – I thought: this makes a difference!</span></p>
+<p class="p1"><span class="s2">26:48 – Carly: How do you know if this random stuff matters? </span></p>
+<p class="p1"><span class="s2">27:15 – Panel: It makes a huge impact. Percy can give it to you and easier to review code that has visual changes. If you added a border and you can see all the red sea of change, so let’s use a border box, etc. It’s really mind-blowing! They have a GitHub hook. If there are changes people have to improve.</span></p>
+<p class="p1"><span class="s2">28:22 – Panel: You mentioned it supporting a bunch of different browsers? What sort of context does Percy run in? Does it have a specific execution...?</span></p>
+<p class="p1"><span class="s2">28:44 – Carly: Options in Firefox and Chrome so far. People at <a href="https://github.com/percy/"><span class="s3">Percy</span></a> talk about cross-browsers and it will have a pipeline. It’s really hard to do. Who knows if it will come but we will see.</span></p>
+<p class="p1"><span class="s2">29:13 – Panel: How do we ensure that things are continuing to work across the browsers?</span></p>
+<p class="p1"><span class="s2">Did we render anything that is completely broke? How do you do testing across browsers?</span></p>
+<p class="p1"><span class="s2">29:44 – Carly: Yeah, we use Browser Stack. We run Selenium IO. </span></p>
+<p class="p1"><span class="s2">31:12 – Nader: It sounds like you have great tools on the frontend. </span></p>
+<p class="p1"><span class="s2"><i>Nader asks a question.</i></span></p>
+<p class="p1"><span class="s2">31:28 – Carly: We have a fairly broken-up frontend. If someone changes something...</span></p>
+<p class="p1"><span class="s2">Running all of those tests can get crazy.</span></p>
+<p class="p1"><span class="s2">32:11 – Panel: <a href="https://docs.cypress.io/guides/core-concepts/introduction-to-cypress.html#Cypress-Is-Simple"><span class="s3">Cypress...</span></a></span></p>
+<p class="p1"><span class="s2">Why did you decide on Cypress – what has been your experience with that?</span></p>
+<p class="p1"><span class="s2">32:35 – Carly: I have not yet figured out a good debugging experience, and I don’t know how you guys are doing it? It’s impossible to debug and it’s not a pleasant experience. I saw Cypress’ advertisement and you can see the difference. They highlight the target, etc. I had to try it! In just a little app that I have – I tested it there. I thought it was awesome b/c it will show you where it failed, etc.</span></p>
+<p class="p1"><span class="s2">I had to get everyone on board and tried to persuade my team to use it. I used these slides and presented it, and it worked fine. It didn’t flake at all. People had to work with the tests and work with Cypress to get the feel for it. Everyone decided to use it, too.</span></p>
+<p class="p1"><span class="s2">35:16 – Panel: The spread of knowledge and it goes back to the beginning. What is this secret group: Frontend Guild?</span></p>
+<p class="p1"><span class="s2">35:33 – <i>Carly answers the question.</i> </span></p>
+<p class="p1"><span class="s2">37:04 – Panel: How does knowledge spread happen in other companies? Such different companies and different scales – how does that happen?</span></p>
+<p class="p1"><span class="s2">37:23 – Panel: As your company grows, communication is definitely a hard thing to accomplish. At ARTSY we try to do different things. One of our principles is...we try to document everything that goes on. Document from a process-level, and other levels, too. We have working practice groups (like the Guild) we talk about frontend issues, and other topics. Lots of meetings and lunch and learns (show and tell). We bring in outsiders in to the company to share their information.</span></p>
+<p class="p1"><span class="s2">38:57 – Nader: At AWS we have <a href="https://www.meetup.com"><span class="s3">Meetups</span></a> that are internal and external. We have talks, too. Every week you can find a few dozen talks around AWS and/or Amazon. You can take an hour or two out of your day to check those out. We also have demo-days that can show people what they are working on. </span></p>
+<p class="p1"><span class="s2">40:06 – Panel: Demo-days sounds very exciting. </span></p>
+<p class="p1"><span class="s2">40:49 – Panel: Find out what motivates people and go from there.</span></p>
+<p class="p1"><span class="s2">40:57 – Panel: Security as a healthcare company there is a lot of regulations, paper, and you have to keep up with standards. Can you talk about that? </span></p>
+<p class="p1"><span class="s2">41:20 – Carly: Yes, GitHub has a great feature...</span></p>
+<p class="p1"><span class="s2">43:20 – Carly: A Web Package I saw recently, and it’s called <a href="https://www.npmjs.com/package/npm-audit-resolver"><span class="s3">NPM / audit resolve.</span></a></span></p>
+<p class="p1"><span class="s2">44:40 – Panel: That audit resolve was purchased by NPM. Yeah, we primarily use...</span></p>
+<p class="p1"><span class="s2">45:04 – Carly: This stuff was existing out there before, and now we know.</span></p>
+<p class="p1"><span class="s2">45:12 – Panel: There is s this cognitive load that is just sitting out there. Being aware of what licenses out use and the features that you aren’t actively investing in.</span></p>
+<p class="p1"><span class="s2">Building something is more than just putting JavaScript on the page – there are more concerns.</span></p>
+<p class="p1"><span class="s2">46:19 – Panel.</span></p>
+<p class="p1"><span class="s2">46:25 – Panel: Building the product is just the tip of the iceberg. It’s all of the other things you have to do to make the delivery good. </span></p>
+<p class="p1"><span class="s2">46:49 – Carly: I agree – especially on the performance-side. </span></p>
+<p class="p1"><span class="s2">48:00 – Panel: I would like to talk about these topics now: Monitoring and CI. How do you set that up? </span></p>
+<p class="p1"><span class="s2">48:19 – Carly: We have these things called <a href="https://github.com/siddharthkp/bundlesize"><span class="s3">Bundlesize.</span></a> </span></p>
+<p class="p1"><span class="s2">49:06 – Panel: What’s the name of the library called?</span></p>
+<p class="p1"><span class="s2">49:10 – Carly: <a href="https://github.com/siddharthkp/bundlesize"><span class="s3">Bundlesize</span></a>, I think. </span></p>
+<p class="p1"><span class="s2">50:41 – Nader: That’s all the time I have for today and thanks for coming on the show, Carly!</span></p>
+<p class="p1"><span class="s2">51:12 – Panel: Wait! Picks!</span></p>
+<p class="p5"><span class="s4">51:23 – <a href="https://www.digitalocean.com/"><span class="s5">Advertisement – Get A Coder Job!</span></a> </span></p>
+<p class="p5"><span class="s4">End – <a href="https://www.cachefly.com"><span class="s5">Cache Fly</span></a></span></p>
+<p class="p1"><span class="s1"><b>Links:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li5"><span class="s6"><a href="https://rubyonrails.org"><span class="s5">Ruby on Rails</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://angular.io/guide/quickstart"><span class="s5">Angular</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://www.javascript.com"><span class="s5">JavaScript</span></a></span></li>
+ 	<li class="li1"><a href="https://elm-lang.org/community"><span class="s5">Elm</span></a></li>
+ 	<li class="li5"><span class="s6"><a href="https://phoenixframework.org"><span class="s5">Phoenix</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://github.com"><span class="s5">GitHub</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://devchat.tv/get-a-coder-job/"><span class="s5">Get A Coder Job</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor"><span class="s5">Charles Max Wood’s Twitter</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://en.wikipedia.org/wiki/Lenna"><span class="s5">Lenna</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://percy.io"><span class="s5">Percy.io</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://github.com/percy/"><span class="s5">Percy – GitHub</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://github.com/siddharthkp/bundlesize"><span class="s5">GitHub – Bundlesize</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://www.npmjs.com/package/npm-audit-resolver"><span class="s5">NPM – Audit Resolver</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://meet.libbyapp.com"><span class="s5">Meet Libby</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://www.toptal.com/backbone-js?adnetwork=search&amp;keyword=%252Bbackbone%2520%252Bdevelopers&amp;creative=274798458847&amp;campaignid=641791600&amp;adgroupid=31204963122&amp;matchtype=b&amp;network=g&amp;device=c&amp;devicemodel=&amp;adposition=1t1&amp;noun=&amp;content=&amp;gclid=EAIaIQobChMInOG4trjD3gIVTbjACh1TigxkEAAYASAAEgIG5vD_BwE"><span class="s5">Backbone</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://reactjs.org/blog/2018/10/01/create-react-app-v2.html"><span class="s5">React – Blog</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606/ref=dp_ob_title_bk"><span class="s5">The Selfish Gene</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://docs.cypress.io/guides/core-concepts/introduction-to-cypress.html#Cypress-Is-Simple"><span class="s5">Cypress.io</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://www.linkedin.com/in/carly-litchfield"><span class="s5">Carly Litchfield LinkedIn</span></a></span></li>
+ 	<li class="li5"><span class="s6"><a href="https://twitter.com/carly_joh?lang=en"><span class="s5">Carly Litchfield Twitter</span></a></span></li>
+</ul>
+<p class="p1"><span class="s1"><b>Sponsors:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li5"><span class="s7"><a href="https://devchat.tv/get-a-coder-job/"><span class="s8">Get a Coder Job</span></a></span></li>
+ 	<li class="li5"><a href="https://www.cachefly.com"><span class="s1">Cache Fly</span></a></li>
+ 	<li class="li5"><a href="https://www.freshbooks.com/?ref=ppc-na-fb&amp;camp=US%2528SEM%2529Branded%257CEXM&amp;ag=%257Efreshbooks&amp;kw=fresh%2520books&amp;campaignid=717543354&amp;adgroupid=53169078638&amp;kwid=kwd-299596828929&amp;dv=c&amp;ntwk=g&amp;crid=289653575014&amp;source=GOOGLE&amp;gclid=EAIaIQobChMIwr_9ofSJ3gIVyrfACh1DkQVNEAAYASAAEgJIUvD_BwE&amp;gclsrc=aw.ds&amp;dclid=CPaQ6KX0id4CFUTcwAodvfQEcA"><span class="s1">Fresh Books</span></a></li>
+ 	<li class="li5"><a href="https://www.telerik.com/kendo-ui?utm_medium=social-paid&amp;utm_source=devchattv&amp;utm_campaign=kendo-ui-awareness-jsjabber"><span class="s1">Kendo UI</span></a></li>
+</ul>
+<p class="p1"><span class="s1"><b>Picks:</b></span></p>
+<p class="p8"><span class="s2">Lucas</span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s10"><a href="https://meet.libbyapp.com"><span class="s11">App – Libby</span></a></span></li>
+</ul>
+<p class="p8"><span class="s2">Carly</span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s10"><a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606/ref=dp_ob_title_bk"><span class="s11">Book: The Selfish Gene</span></a></span></li>
+</ul>
+<p class="p8"><span class="s2">Justin</span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s10"><a href="https://testcafe.devexpress.com"><span class="s11">TestCafé</span></a></span></li>
+ 	<li class="li9"><span class="s10"><a href="https://reactjs.org/blog/2018/10/01/create-react-app-v2.html"><span class="s11">Create React 2.0</span></a></span></li>
+</ul>
+
+<h3>Transcript</h3>
+
+

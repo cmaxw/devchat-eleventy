@@ -1,0 +1,409 @@
+---
+layout: layouts/post.njk
+title: >
+      008 iPhreaks Show – Prototypes with Ben Lachman
+date: 2013-05-30 13:00:00
+episode_number: 008
+duration: 
+audio_url: https://media.devchat.tv/iphreaks/iPhreaks008Prototypes.mp3
+tags: iphreaks
+---
+
+Panel
+
+Ben Lachman (twitter blog)
+Pete Hodgson (twitter github blog)
+Rod Schmidt (twitter github infiniteNIL)
+Ben Scheirman (twitter github blog NSSreencast)
+Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:30 - Ben Lachman Introduction
+
+Acacia Tree Software
+Nice Mohawk
+SousChef
+Ita
+
+03:12 - Prototyping and Mockup Tools
+
+Adobe Photoshop
+Pen and Paper
+Forecast
+Interface Builder
+Balsamiq
+Mockingbird
+Keynote Kung-Fu
+Graffletopia: OmniGraffle Stencils
+Prototypes
+
+15:25 - What makes a good prototype
+18:04 - Building a good prototype
+
+Make a prototype; not a concept
+Start with pen and paper
+
+19:39 - Issues that prototyping helps you identify
+
+Discoverability Features
+Visibility Features
+
+20:11 - Solving issues and sharing prototypes with clients
+
+Usability Testing
+Screenshots
+Briefs 2
+
+27:52 - Laying out your application
+
+Code Spikes
+
+32:43 - Prototyping for Clients
+35:29 - Building Prototypes in HTML
+
+Briefs 2
+
+37:34 - Using iPads/etc. instead of pen and paper
+
+Paper
+SketchBook Pro
+
+39:09 - Buttons
+
+Picks
+
+iPhone Stencil Kit (Ben)
+Play by Play: Neven Mrgan | PeepCode Screencasts (Ben)
+Skala Preview (Ben)
+Xscope (Ben)
+UI Stencils - iPhone Sketch Pad (Rod)
+Screen Time (Rod)
+iPhone Stamp for UI Sketching - The Russians Used a Pencil (Pete)
+POP - Prototyping on Paper (Pete)
+PocketCasts (Pete)
+Spaced (Pete)
+iOctocat (Chuck)
+ioctocat on GitHub (Chuck)
+Briefs 2 (Ben L)
+Coworking (Ben L)
+Paint Code (Ben L)
+Bow Truss (Ben L)
+
+Next Week
+Interface Builder
+Transcript
+PETE: I’m trying to decide who I would rather work for...
+
+[Chuck laughs]
+
+PETE: That mob would be more interesting, but probably a little bit more scary.
+
+[This show is sponsored by The Pragmatic Studio. The Pragmatic Studio has been teaching iOS development since November of 2008. They have a 4-day hands-on course where you'll learn all the tools, APIs, and techniques to build iOS Apps with confidence and understand how all the pieces work together. They have two courses coming up: the first one is in July, from the 22nd - 25th, in Western Virginia, and you can get early registration up through June 21st; you can also sign up for their August course, and that's August 26th - 29th in Denver, Colorado, and you can get early registration through July 26th. If you want a private course for teams of 5 developers or more, you can also sign up on their website at pragmaticstudio.com.]
+
+CHUCK: Hey everybody and welcome to Episode 8 of iPhreaks! This week on our panel, we have Pete Hodgson.
+
+PETE: Hello! I'm so impressed with Charles Max Wood newest episode with or without any thinking, well done!
+
+CHUCK: I looked it up beforehand.
+
+[Pete chuckles]
+
+CHUCK: Rod Schimdt.
+
+ROD: Hello from Salt Lake!
+
+CHUCK: Ben Scheirman.
+
+BEN: Hello from hot and humid Houston!
+
+CHUCK: I'm Charles Max Wood from DevChat.tv. And we have a special guest today, and that's Ben, is it Lachman?
+
+BEN L: Yes, it is! And hello from Athens, Ohio, which is also hot and humid! Probably not as hot as Houston..
+
+CHUCK: So you want to introduce yourself really quickly?
+
+BEN L: Yeah! I've been around the Mac and iOS dev world for about 10 or 12 years at this point; actually, I guess that would be before the iOS dev world really was around. And I write software for a couple of companies of my own. One is "Acacia Tree Software", and the other is newer and I started with a business partner in Cleveland, Ohio named Bob Cantoni and it's called "Nice Mohawk".
+
+So yeah, we write some iOS software, some Mac software, and we do contract work as well.
+
+CHUCK: Awesome. I'm a little curious before we get into what we're going to talk about, how much iOS and Mac stuff do you write as products that you sell versus client stuff that you do for other people?
+
+BEN L: We've done a fairly good job, for like a two-man shop,
+
+<h3>Transcript</h3>
+
+<strong>PETE:</strong> I’m trying to decide who I would rather work for...
+
+[Chuck laughs]
+
+<strong>PETE:</strong> That mob would be more interesting, but probably a little bit more scary.
+
+<em><strong>[This show is sponsored by The Pragmatic Studio. The Pragmatic Studio has been teaching iOS development since November of 2008. They have a 4-day hands-on course where you'll learn all the tools, APIs, and techniques to build iOS Apps with confidence and understand how all the pieces work together. They have two courses coming up: the first one is in July, from the 22nd - 25th, in Western Virginia, and you can get early registration up through June 21st; you can also sign up for their August course, and that's August 26th - 29th in Denver, Colorado, and you can get early registration through July 26th. If you want a private course for teams of 5 developers or more, you can also sign up on their website at pragmaticstudio.com.]</strong></em>
+
+<strong>CHUCK:</strong> Hey everybody and welcome to Episode 8 of iPhreaks! This week on our panel, we have Pete Hodgson.
+
+<strong>PETE:</strong> Hello! I'm so impressed with Charles Max Wood newest episode with or without any thinking, well done!
+
+<strong>CHUCK:</strong> I looked it up beforehand.
+
+[Pete chuckles]
+
+<strong>CHUCK:</strong> Rod Schimdt.
+
+<strong>ROD:</strong> Hello from Salt Lake!
+
+<strong>CHUCK:</strong> Ben Scheirman.
+
+<strong>BEN:</strong> Hello from hot and humid Houston!
+
+<strong>CHUCK:</strong> I'm Charles Max Wood from DevChat.tv. And we have a special guest today, and that's Ben, is it Lachman?
+
+<strong>BEN L:</strong> Yes, it is! And hello from Athens, Ohio, which is also hot and humid! Probably not as hot as Houston..
+
+<strong>CHUCK:</strong> So you want to introduce yourself really quickly?
+
+<strong>BEN L:</strong> Yeah! I've been around the Mac and iOS dev world for about 10 or 12 years at this point; actually, I guess that would be before the iOS dev world really was around. And I write software for a couple of companies of my own. One is "Acacia Tree Software", and the other is newer and I started with a business partner in Cleveland, Ohio named Bob Cantoni and it's called "Nice Mohawk". So yeah, we write some iOS software, some Mac software, and we do contract work as well.
+
+<strong>CHUCK:</strong> Awesome. I'm a little curious before we get into what we're going to talk about, how much iOS and Mac stuff do you write as products that you sell versus client stuff that you do for other people?
+
+<strong>BEN L:</strong> We've done a fairly good job, for like a two-man shop, of keeping things 50/50. So we have a Mac App called "SousChef”, it's a recipe management and cooking assistant.
+
+<strong>BEN:</strong> I love that! I had no idea you built that.
+
+<strong>BEN L:</strong> Oh, yeah!
+
+<strong>BEN:</strong> I picked it up in MacHeist a couple of years ago when I first came on the Mac and that's cool! I liked it a lot.
+
+<strong>BEN L:</strong> Yeah. I do, too! It also has an iOS version that's universal. And then we have a list app that is called "Ita", that's published as Nice Mohawk. And then we usually have one or two contracts going; usually not more than that. So I would say it adds inflows, but it's often 50/50 between the two.
+
+<strong>CHUCK:</strong> Nice. Alright, so this week, we're going to be talking about "Prototypes - Prototyping", which is kind of the, I guess the basic layout; wireframing is another term I've heard for it. There's a lot to talk about there!
+
+<strong>BEN L:</strong> Yeah. Prototyping, as a general topic, kind of has a lot of sub-genres I guess, I would like to call them, and wireframing is one of them; and then mockingup is another one that kind of more graphics-orient people where they're making things picture-perfect as they're going to look in the final app. But yeah, there's a lot of stuff to talk about within the topic as all.
+
+<strong>PETE:</strong> Certainly in the web world, I think it's pretty common for people, when they're doing mockups, to be using Photoshop. Is that also the kind of the whacking of choice in your experience in the Mac and iOS world? Or, are there kind of more specialist tools that do a better job?
+
+<strong>BEN L:</strong> Yeah, there are definitely a lot of tools, particularly on iOS. I feel like they do some really nice -- they just really help you out a lot and let you reduce the amount of just tweaking Photoshop style there that you would do if you were only in Photoshop. I think there are time, because everybody has their own way of going out prototyping, a lot of people start with pen and paper I think just because it's so tactile, which is actually kind of interesting to me because what we end up creating, it's not actually physically typo; you're never touching an app for real, you're just trying to kind of invoke some sort of information.
+
+<strong>PETE:</strong> I still think, from my experience, people tend to get more (I don't know) attached to iPhone apps definitely than to websites. Like if you show a website to a client, if they’re really engaged in it, they'll going to play around of it. But almost every time you show an app to a client, they want to grab it up your hand and play with it.
+
+<strong>BEN L:</strong> Yeah, definitely
+
+<strong>PETE:</strong> It's very kind of tactile thing, in a way.
+
+<strong>CHUCK:</strong> Well, I think some of that is just that the app itself is something you can take with you. If you have a device that runs it, you carry it around your pocket.
+
+<strong>BEN L:</strong> I think it's also the touch interface. I think touch interface is definitely -- because even if you look at web apps that have been really tailored for touch devices, I'm thinking something like forecast.io, you get some of that same instantaneous feedback and almost a tactile feel to their little web app in a very similar way that you would do a well-designed iOS app.
+
+<strong>CHUCK:</strong> I do have one question about prototyping that I've been thinking about for a while, and that is: we have interface builder or storyboards or whatever you want to call them, and then in a lot of cases, you can drag the elements there and kind of say "If you tap this, then load this other next screen", is there a reason why you wouldn't want to just do that for your app?
+
+<strong>BEN L:</strong> You can; I don't feel like Interface Builder has ever really been moved from a programmer's tool to a designer's tool. I don't necessarily mean that you have to be a designer to prototype with something because I would say that I very much stood on the line (my background is completely in computer science, that's what I went to school for), but at this point, I do a lot of kind of the interaction design stuff as well for our projects. So I would say I kind of blur the line between developer and designer up a little bit as do many, I think that some people turn and met them as like renaissance developers or indie developers, that what I was called them. So, I feel like Interface Builder has always still really been a developer-only tool. I don't know anyone who doesn't like a pure designer use Interface Builder; they just seems really too much and too heavy-handed, and there are some things that are just too hard to do. Like try skinning a toolbar button tool where you want like with the custom graphic, it just don't yield the Interface Builder.
+
+<strong>BEN:</strong> Custom anything is hard than Interface Builder, unless you have kind of stock UI looking field just to sort of arrange your thoughts into like "This is the flow of screens I'm going to have". But if you're not doing standard widgets, then Interface Builder doesn't really help you a lot.
+
+<strong>CHUCK:</strong> Yeah, that's what I was kind of driving at; if you're just dealing with buttons, menus, and things that are well-understood that are already in Interface Builder, I've used it to kind of organize things even if it's not fully-functional just to say "Okay, well, we kind of float through it this way and you tap these things this way". But yeah, if there's anything that's non-conventional, then I guess you are kind of off on your own doing something else.
+
+<strong>BEN L:</strong> First thing, you quickly revert to kind of just using a screenshot from Photoshop. If you try to do that -- every time I've used the Interface Builder as soon as I've hit anything custom or anything that didn't quite work, I end up just importing a full screenshot from a Photoshop mockup or something like that. And that seems, there are a lot of tools that let you do that type of thing without having to know all the intricacies of the toolbars in Interface Builder and the unified UI for Xcode. It's just like there are more simple tools for doing the exact same thing at that point.
+
+<strong>CHUCK:</strong> Yeah. One other question I have for everybody on the show is, I think we've all done mockups of various types, what tools have you guys used?
+
+<strong>BEN:</strong> I typically carry around like a little notebook, like a Moleskine or something, and I try to draw in there. Unfortunately, I really suck at like drawing with an actual pencil, so I feel like I should get better at that overtime. But I don't know, it's just like jotting down some overall flow overtime. It doesn't look good, unfortunately, but it helps me clarify my thoughts. So I did that sometimes.
+
+<strong>BEN L:</strong> One of my favorite tricks as far as that is to just take your iPhone and draw around it...
+
+[Ben laughs]
+
+<strong>BEN L:</strong> So that gives you a place to draw and then you can even use the flat edge, not the edge with the volume buttons and switch, to draw like straight lines --
+
+<strong>BEN:</strong> Oh, that's a great idea! Because I always have that with me...[laughs].
+
+<strong>BEN L:</strong> Right. Yeah, like if you're going to be doing that, you always have it with you. So yeah, that's what I've come to over the years because I do real sketching on paper. But, getting the right proportion so I'm not putting way too much on a single screen or not enough stuff is hard to do.
+
+<strong>CHUCK:</strong> I've used "Balsamiq Mockups", and I've also used there's one called "Mockingbird", I'll put links to those in the show notes. But the Mockingbird one is one that will actually work for you in your -- it's a web browser -- but it gives you the templates for multiple apps, so you can lay it out, you could share it because it's on the web.
+
+<strong>BEN L:</strong> Yeah, I also like with Mockingbird that it gives you a historical, like as you make changes, you can kind of do a tree of different designs like you have multiple versions of the same mockup.
+
+<strong>CHUCK:</strong> Yeah, there are a lot of nice features to it.
+
+<strong>BEN:</strong> I've used Balsamiq as well. It's helpful when we're clearing things, ideas with clients and needed to like paste in something into like a PDF or something so we can send it to clients. And it's pretty customizable; it's got that like handwritten feel to it, which can sometimes convey that this is a rough idea, like it's not going to look like this, but this is in general like the layout of the data perhaps. And then you can like double-click on any of these elements to change the textural description behind it and it will like re-render. So like a table of items with like arrows or check marks or whatever, you can do that sort of stuff.
+
+<strong>PETE:</strong> Yeah, I think that's the great thing about themes like Balsamiq; they very clearly are not the final product. I think one of the risks with doing like super hi-fi prototypes is, you give it to a client and they're like "Awesome! We're done!"
+
+[Laughter]
+
+<strong>CHUCK:</strong> Yeah, you'll have this deployed tomorrow, right?
+
+<strong>PETE:</strong> Yeah, exactly. Or, "These are already deployed. Look, I'm using it right now! What are you talking about?"
+
+<strong>CHUCK:</strong> Another one that I've seen is, there are templates for PowerPoint or Keynote --
+
+<strong>PETE:</strong> Yup! I've done that in the -- not personally done that -- but I've been on a team where they did a lot of mockups using Keynote and then put it actually on an iPad in presentation notes so you can kind of tap through things and it's kind of that fake interactive thing where it's just a sequence of things, but you tap at the right place and it gives an idea of how the information architecture works.
+
+<strong>BEN:</strong> Another one I've tried to use in the past is the "OmniGraffle Stencils", so you can just add a new stencil that has a bunch of iPhone-related elements in it. My only issue with this is the ones that are predefined, it looked really good and polished, and then anything that you do outside of that looks really kind of drabbed and empty. And so, it's kind of an inconsistent style of prototype, and I kind of prefer like just the pencil thin lines, no color or minimal color, maybe just gray scale; it's something to convey the idea, but not commit any colors or have like a very polished toolbar with buttons and then really ugly hand drawn buttons underneath it.
+
+<strong>PETE:</strong> I guess it really gets to what the purpose of the prototype of your building is. If it's like fleshing out like the information architecture and stuff like that, then you don't want to draw attention to what color the gradient is and kind of go down that rat hole when you're talking to a client or talking to a user or whatever. But if you're trying to get an idea for what the feel of the app (the look and feel is going to be then), you kind of want to get a super hi-fi, but you don't necessarily want it to be interactive I guess. I don't know that's my theory anyway; that's kind of like two different kinds of prototype.
+
+<strong>BEN L:</strong> Oh, definitely! That's where I would say like there's a bit two parts of prototyping: one would be “Wireframing”; in my mind, this is how I've talked about it at least, wireframing is that first information architecture flow of the app, get everything organized, and make sure it works as far as getting you from where point A to point B that the client or the developer wants. And then “Mockup” would be that "Make sure the great answer right; make sure your buttons look great. We're defining brand; we're defining how the app actually is going to come off as they look and feel."
+
+<strong>PETE:</strong> There was like a web-based tool that let you do -- you could build like a prototype in a web browser and then like open that up in Safari on your phone, but I can't remember the name of the tool…I always wanted to try that app, it seem like a really cool idea.
+
+<strong>BEN L:</strong> Duncan Wilcox has a Mac app that produces web apps, is that the kind of thing you're talking about?
+
+<strong>PETE:</strong> Maybe.
+
+<strong>BEN L:</strong> Actually, he just got prototypes.
+
+<strong>PETE:</strong> Might be that one; I'm going to go ground to see if I can find it.
+
+<strong>CHUCK:</strong> So, what kinds of things make a good prototype?
+
+<strong>BEN L:</strong> I think like the basic goal of prototyping, beyond maybe like impressing a client, is really to test something. I think that's the most important thing you can do with prototyping. So if you are looking at "Does this slope of screens doesn't work? Do users, when I give them this prototype, do they know what to do with the app?" I think that's one of the biggest benefits you can really gain from putting time into the prototyping stage. I think a lot of people only use it as a, maybe a sales tool when doing client work, and I think that it's really useful that way. But the largest benefit and [inaudible] nice results for the quality of your future product can come from that - the testing side of things - and to verify that this thing actually works in the way you want it to. Because there's always a problem of like the Creator's Syndrome, where you know exactly everything about the app that you created and it's really easy for you to use because you know everything about it and you know how to change it when it doesn't work right as well for that matter. But I've seen, whether it's penetrable for a regular user is really useful before you have 6 months of your life into it.
+
+<strong>CHUCK:</strong> Yeah, I was going to say it's a lot cheaper to spend a couple of hours throwing together a prototype of the feature or features that you care about than it is to pay a developer or to spend your own time sitting down and actually coding it out because that can take days or weeks as opposed to hours. And then you can work on the things that are really important because you can show it to people and they can tell you.
+
+<strong>BEN L:</strong> Yeah. And I think like there's also a little bit of insurance policy sometimes. We've had projects where we haven't done the prototyping stuff; we don't do this anymore. But in the past and like at some point in the project, either we or the client get a little bit disillusioned and there has to either be like "Hey, we're not going to finish this project", or something has to change about it because we didn't really outline well enough what the app was actually going to be. We had our legal terms or whatever out of the way, but we didn't have agreement in our mind of what we were actually making that a prototype really would have resolved that problem.
+
+<strong>BEN:</strong> So it's a risk-reducing effort?
+
+<strong>BEN L:</strong> Definitely.
+
+<strong>CHUCK:</strong> So, how do you build to go to prototype? Do you just kind of put it together how you think it's going to work? Are there specific tips for putting together good workflow onto prototype?
+
+<strong>BEN L:</strong> I think there are a couple of things that I would say. The first one is that you should make sure you're making a prototype and not a concept; concepts are generally kind of things that you kind of think up that's an idea that like will solve the world's problems, but isn't maybe realistic to build. So make sure you're dealing with actually solvable problems first of all. And then, I really do recommend starting with pen and paper and sketching things out. I think maybe the speed of it is a real good match for the human kind of creator process. And particularly on mobile devices, really thinking about what is appropriate to go together on a screen that is in more of an issue on iPad than on iPhone actually, because you'll see app sometimes that have two pieces of information that are completely unrelated and don't make sense together on the same screen just because they had a tablet-sized screen and decided to put two views on it. So when prototyping, that's the time you can most easily think about what should go on the screen at any given point of time because it's nicely broken up, too, usually during prototyping.
+
+<strong>CHUCK:</strong> Yeah, that makes sense. The next question I have is, what types of issues do your prototypes usually help you identify?
+
+<strong>BEN L:</strong> I would say discoverability of features is a huge one, and maybe even the visibility of features. So if I give a prototype to a client or a user and they can't find one of our top 3 designing features in the app, something's wrong and it's my problem to figure out how to fix that and make it easier and more visible to the user or client.
+
+<strong>PETE:</strong> I guess this isn't necessarily about prototyping or just the design process in general. What's the full process of going through kind of from identifying there's an issue to like solving that issue? Is it just like trying a lot of different things and see what works? What's good technique for that?
+
+<strong>BEN L:</strong> I think that's a huge question...[Chuckles]
+
+<strong>PETE:</strong> Yeah, right!
+
+<strong>BEN L:</strong> Does anyone else have answers for that? How do they do that? Because I would love to hear it [laughs]...
+
+<strong>PETE:</strong> [Laughs] That's why I'm asking...because I'm definitely not a frontend UI designer kind of guy. And sometimes, it's a bit of a black box to me what comes out of like a designer's head and I kind of always wonder like "How did they figure out?"; what's the full process of saying "Okay, when this doesn't work, so how do we make it work?"
+
+<strong>BEN:</strong> One thing that I have from personal experience, I've done so many projects that involved some sort of design-by-committee to know that that never works. I really feel like you have to have somebody strong-willed who's going to like lead the charge on certain things, and it's healthy to challenge that like "Hey, what do you think about putting this thing over here? And then we could tuck this under settings..." or whatever. And then you talk through those and having a facility to try it out quickly so you don't have to spend like a day or two in development to make a change like this, but you can just kind of whip up a different version of that prototype and have people validate it. Ultimately, though, I think there just needs to be somebody who knows what they're doing in charge of this, or who has like a strong opinion one way or another. Because if you just kind of give it to everybody in the office and say "What do you guys all think?" and then you're going to get 10 different opinions. If you treat all of those equally, I think it leads to a mediocre product.
+
+<strong>PETE:</strong> I guess the only trick that I have, which is based on me being incompetent of doing this myself, is just coming up with random ideas and putting them in front and doing kind of like hallway usability testing or guerilla usability testing, where we'll just take 2 ideas or take 5 ideas and go to Starbucks or go and grab someone who's on a different project and ask them what they think. A lot of times, that perspective from someone who's totally not been arguing about it for the last two days can sometimes really help.
+
+<strong>BEN:</strong> On my first iOS app -- I was new to Mac, new to iOS -- I've released an app with no outside usability testing, whatsoever, and I was the user of the app so I knew what I wanted. It ended up okay, but when I did finally get somebody sit down to do some usability testing on my app, like things facilitated by this conference presenter, I kept wanting to jump in and be like "Oop! It just have this button here", and he was like putting his hand up and he's like "No, no, no! Just let them figure it out." This guy had just total different mental model of what the app location was even doing for him. I think that if I had laid things out a little bit differently, if I had done some usability testing a little bit earlier, then maybe I could have corrected those things before they're baked into the app. And of course after I learned that, I was just kind of like "Well, I'm not going to change it now; that's going to be a lot of work" because I've already gone so far down this path.
+
+<strong>BEN L:</strong> Yeah, I think when you get a prototype in front of people as a user and would just watch them, there is some amount of kind of a little bit of a light bulb that goes on, which is why it's really nice, as you said, to do it early on instead of once you already put bunch of time into making the app the way users are understanding it. So yeah, I think there is that kind of just watch users and you see how people use apps. I, all the time, watch my wife use apps on her phone, and I'm like "Oh, but there's this other way you can do that", which maybe is more efficient way. But the reality is this, if it isn't designed in an evident and dead simple way, people aren't going to use it that way. So, just watching people is great.
+
+<strong>CHUCK:</strong> One thing that I want to ask related to what Ben was saying is, let's say that you've started building an app and then your client has looked at it and he's like "Well, this isn't exactly what I wanted", do you take screenshots of what you already have and then kind of do the wireframing and stuff on the other screens that you want there? Or, do you mockup what you already have? How do you usually approach that to kind of clarify what the vision is at that point?
+
+<strong>BEN L:</strong> This is assuming you haven't done prototyping already, correct?
+
+<strong>CHUCK:</strong> Right. So you haven't done prototyping, your client looks at your app and says "This isn't exactly what I was looking for", do you just mockup what you have and then let them modify it?
+
+<strong>BEN L:</strong> I think that's a hard place to be in. It might be a good of idea to take a step back and do a prototyping around because otherwise, somebody's going to feel like maybe this type will start all the way over. And when you tell any client that "Hey, we're going to have to start over again", or they feel that they're going to have to regardless of whether that's true or not, that can be a place where that project just dies. So I think it's probably worth it to take the 4 hours or 10 hours that it takes to make your [inaudible] as prototype of where do you see the project going and then that's already something you can talk about that says "This isn't the actual thing; this is where we're envisioning it going. And let's talk about of that if it's with where you envision it going." I don't generally send, like I don't give a prototype to a client and say "Hey, why don't you change this and make a prototype how you want it?" because they don't have the experience and kind of thought process of how apps necessarily work available to do that, but they can respond to prototypes really easily generally.
+
+<strong>CHUCK:</strong> Yeah, that makes sense. It's funny I've seen this with a lot of clients, too, where they don't really know what they want until it's right in front of their nose. So they'll tell you what they want, but until they actually see a prototype or see a working model of some kind, they really can't give you a feedback on what it is exactly that they want.
+
+<strong>BEN L:</strong> Yeah.
+
+<strong>PETE:</strong> Well, sometimes, it's the other way around. They tell you exactly what they want and then you build it that way, and they're like "Well, this doesn't make any sense at all!" [laughs] <strong>CHUCK:</strong> Mm-hmm.
+
+<strong>PETE:</strong> And so I like that idea of the prototype kind of being that the start of the conversation about something concrete that you can hang a conversation around rather than a thing in and on itself.
+
+<strong>BEN L:</strong> Yeah, I think it is a problem, I mentioned it earlier, where the client thinks that it's done when you give them a prototype. The product that I've been really excited about recently is "Briefs 2", and it was just released a couple of weeks ago by the people at Martian Craft. It's a really fabulous prototyping tool; it really gives you a lot of flexibility and power to do a lot of custom things. And on top of that, it also has a pretty extensive mockup style template that you do most everything that you would want to do, but not make it look like a finished app; really make it look like it's kind of playful blueprint style template and it's really really nice.
+
+<strong>CHUCK:</strong> Yup. So looking at this, it seems like it's really designed to help you layout your application, like we've been talking about. Do any of these tools actually then export kind of a -- because I keep going back to Interface Builder because I think it's kind of neat -- do any of these export nibs and whatever so that you can actually just load it in your application and have a general layout like this? Or, do you have to go back and build it all by hand when you're done?
+
+<strong>BEN L:</strong> Everything that I've used is a completely separate process. Maybe you can use assets and it is really nice to have, like Briefs for instance gives you a top down view of all the different screens. In Briefs, the general two concepts are: “Screens” that are linked together; and there are “Actors”, which are elements on other screens that can move around, they can change how they look, they can play sounds, they can link to another screen, but they don't have really any counterpart on the actual Objective C side of things. Screens, maybe it's a ViewController, but it's not even quite that well-defined. The ViewControllers can take a lot of different forms (be the popovers, or split views), like Apple has very much blurred the lines between one ViewController per screen, which is what it was back in iOS 3 days.
+
+<strong>BEN:</strong> Those such great times, wasn't it? [Chuck laughs]
+
+<strong>BEN L:</strong> It was so simple...
+
+<strong>BEN:</strong> So easy...You don't have to think about all these screens on one window and --
+
+<strong>BEN L:</strong> Yeah.
+
+<strong>BEN:</strong> Those were simpler days. I kind of likened this whole process to like doing code spikes. So like when we're reaching or we're seeing some work come ahead up in our backlog that is somewhat complicated or we're not really sure how big it is, we need to estimate it so we will schedule a spike. And then the goal of the spike is just to research the things that we need to do, we're going to write some code, do a simple could just be a prototype app, or could be just a branch in our project. And then the end of results is the knowledge that we have after we're done and then we just throw that code away and rewrite it. A lot of people don't want to throw that code away because it's work that they've done, but the real value is the mental state you get after doing that.
+
+<strong>BEN L:</strong> Yeah, it's totally the same with prototyping. It's the knowledge that you gain, the testing that you get to validate that this is usable by an actual person or acceptable by an actual client as opposed to just a conversation that we've had about a really cool idea.
+
+<strong>PETE:</strong> I kind of like that analogy as yet because we definitely do that - the spikes as well. So I guess with spikes, there's definitely one of the kind of the rules I guess is that you have to further code away afterwards so that kind of enforces the fact that you're kind of just experimenting and proving out a concept. Do you think that's a benefit that most of these prototyping tools don't like kind of let you upgrade domain to a full app? Or, if like Briefs had like a little X bolt button that generated a storyboard with all of the screens on, do you think that would be beneficial? Or, it'd be bad because people would end up kind of building crappy code on top of the prototype?
+
+<strong>BEN L:</strong> Yeah, I would never want to go that route just because they're separate thought processes for design and architecture of an app versus prototyping an app. So why would I want what I had prototyped to be just assumed for my basic architecture design for that same app? It very well made me that I don't want my code in kind of a skeleton creative; for me I'd really prefer to build it myself and figure out what their appropriate tools and architecture they already used for this app that we're making. And just use it as a -- it's a great document to refer to. I feel like it improves your efficiency tons when actually writing your user interface code because you know where everything is going; you know what everything is supposed to do. You can just think about how to actually implement it as opposed to trying to think about implementation and design at the same time, which is really switching back and forth between right and left brain, which really is for me is really hard to do on a fly.
+
+<strong>PETE:</strong> That makes a lot of sense. Maybe that's part of the reason why I'm so bad at design; I always get destructed while I'm building a design, like doing a bunch of programming when I should just be thinking of ideas rather than thinking of how much fun it's going to be to implement the idea.
+
+<strong>CHUCK:</strong> I have another question and that is, since you're building apps for other people, do you actually have something in your contract or whatever that says that you'll prototype and then build it? Or, do you just explain to your clients that that's how you do things? And if they have some objection, how do you handle that?
+
+<strong>BEN L:</strong> We haven't crossed a client yet that isn't okay with spending. Because usually prototyping doesn't take a huge amount of time, at least for the initial prototype, so we haven't had a client yet that have said “It's not acceptable to prototype our app”. Like recently in the fall, we didn't take this contract, but I had somebody come to me with a prototype. They've actually done a prototype and app called "AppCooker", it's an iPad prototyping app. They came to me with the prototype and said "Hey, can you build this?" which was amazing like that was the first time that had ever happened because then you could just play with it and see what exactly what they wanted. Now, part of my hesitance in that job was like do you want to take a job for someone's that -- you have to really be sold on their idea and what they want because they've really figured it out, and they're just hiring a programmer at that point.
+
+<strong>CHUCK:</strong> Yeah, I think it's interesting. I haven't really done this with my clients and so I'm interested to see what the options are. And maybe you could come on the Freelancers Show and talk about that; talk about prototyping for clients and stuff.
+
+<strong>BEN L:</strong> Yeah. Take a look at Briefs. I don't see us really outside of pen and paper; I don't see us using many other tools for prototyping going forward. I was part of the Beta testing team when it was like -- so I've been using it for a little while, and I really like it. It does some really nifty things like it sort of a sidekick iOS app, and you can run your prototypes on device over the air and the simulator, too, so it very much mirrors Xcode. You just like select the device that you want to run this Brief on and you launch the Briefs case on the device and then it just works. And it's just easy to use and you can stop and start in the middle of things kind of like similar to breakpoints. I really really like using that so far at least.
+
+<strong>CHUCK:</strong> Nice.
+
+<strong>PETE:</strong> Sound super powerful.
+
+<strong>CHUCK:</strong> Yup. Alright, well, are there any aspects of prototyping that we haven't talked about?
+
+<strong>PETE:</strong> One question I want to ask just for other people, I have this crazy idea (or not crazy idea, I guess), but I have this fantasy of building prototypes in HTML and then seeing how they work and then upgrading them. But, does anyone else have any experience doing that? Because I've never actually done it kind of in anger; I've always fought that it'd be a cool idea, but I've never actually done it in anger.
+
+<strong>CHUCK:</strong> So doing from HTML to an app?
+
+<strong>PETE:</strong> Yeah! I guess this would be more for kind of for prototyping; the why I mean kind of side of it, figuring out the usability. Maybe it's because I'm also a web guide, but I feel like I can bang out something simple very quickly in HTML and it's easy to show to clients because it's just the web page and I guess you could use web technologies to do the UI. Now that I'm saying it, I'm thinking that something like Briefs probably is going to be even more efficient or even quicker to do that kind of stuff than web technologies maybe.
+
+<strong>BEN L:</strong> I think that's been my experience; getting a hand coded web prototype. You can do it, there's nothing narrowed up plenty of tools out there to make it easier. Now, just as far as the tools that people would use to write any native-feeling web app, those are the same things you'd use for a prototype of a native app because that's basically what you're trying to do. But our experience has been always that making it feel exactly right is harder than doing it in a tool that kind of does some of that for you. I think that's also the last big benefit of Briefs (and I keep talking about it, but I'm pretty sold on that I guess), is that it feels very native, which I think is a nice -- if we're talking about sales tools -- is a really nice sales tool. This is how it's going to feel.
+
+<strong>PETE:</strong> Yeah, that makes a lot of sense.
+
+<strong>BEN L:</strong> So, you asked about of things we haven't talked about…One thing that's kind of interesting to me, that it's only been really possible. Like in the past couple of years now (now that we have iPads and some Ruby really fabulous drawing apps for iPads), the possibility that we can kind of move towards doing what traditionally has always been done with pen and paper, all went to the devices that will be using themselves. And I think that that has a really interesting possibility, like is there any benefit from doing your initial design steps on the very device that you're going to be targeting at the end. So, we've been playing around with a couple of different apps. Mostly like “Paper” and “SketchBook Pro”, are the two that we use the most.
+
+<strong>BEN:</strong> I forgot about that; I've been using the Paper app for kind of the same thing I was talking about before with that I use the Moleskine for. And it's fun! I like the style of pictures you can draw with that.
+
+<strong>BEN L:</strong> Yeah, it's pretty fluid and I really like it. We've done a couple bits and pieces of prototyping or concepting, but we haven't used it for a full like initial sketches for an app yet…maybe in the future.
+
+<strong>CHUCK:</strong> Nice, sounds good. One other thing that I want to ask that just kind of came to mind here was, when you're prototyping, sometimes you have buttons or things that don't necessarily take you to the next screen, they just do something kind of behind the scenes so they'll make an API call or they'll persist some change to your local storage. Do you just annotate that some way to say “This button does this”?
+
+<strong>BEN L:</strong> I think their buttons are always an issue for users, which is why they're an issue when you're prototyping because prototyping is just looking at what the user deals with. And if you have a button that just write to a daily basis, or whatever it does, there’s always going to be hard buttons for users to remember to use or see the reason for.
+
+<strong>CHUCK:</strong> Okay.
+
+<strong>BEN L:</strong> So I think that's actually one of the nice benefits of prototyping. It’s that you can find some of these things where like "Oh, how am I going to deal with that thing that I was going to put on the screen?" because it doesn't really make sense to a user in the long run.
+
+<strong>CHUCK:</strong> Right. So it's a usability red flag?
+
+<strong>BEN L:</strong> Yeah.
+
+<strong>CHUCK:</strong> Alright, well, if there's nothing else, then let's go ahead and get into the picks. Ben, what are your picks - Ben Scheirman?
+
+[Laughter]
+
+<strong>BEN:</strong> Okay, so I have 4 quick ones. The first one is the "iPhone Stencil Kit". This is something you can use if you like the pen-and-paper type of prototyping and it will help you draw the exact right back button arrows and everything with their right rounded corner radios and all that stuff. So it's a physical stencil and you would carry it around with you if you like that sort of thing. The next one is just a fascinating look at how Neven Mrgan from Panic Software designs applications; he did "Play by Play". It's not free, I think it's $12, but it's totally worth it. And he just creates an app from scratch only in Photoshop and that's just because that's the tool he loves the most and he's most productive in. Even in the video, he says "I wouldn't recommend using Photoshop for most people", but it's nice to watch him whip around in it and create an app, and then in the end, it looks pretty nice! So I'd recommend watching that. And then some other things that might be helpful is, if you're exporting assets in Photoshop and trying to put them on a device, it gets a little bit cumbersome to export them, rename them for retina and whatever, and then drag them into your project and Xcode doesn't do a good job of letting you overwrite files, so you first have to delete them and drag them in; it's really kind of a pain in the ass dance. So I've been toying around with using "Skala Preview" and "Xscope", both of them are similar tools. Xscope is much broader in scope, but basically it will let you take an image on your computer and mirror it on the iPhone so you can see what it will exactly look like - pixel perfect. The color profile and all that stuff will look just like it if you were to export it so it can save you some time. So, those are my picks!
+
+<strong>CHUCK:</strong> Nice! Rod, what are your picks?
+
+<strong>ROD:</strong> Alright, if you like paper prototyping, you can also get pre-printed notepads with iPhone and iPad images on them that you can draw in. One company that does that is called "UI Stencils". Then another pick I have is an app that I might be doing because I'm consulting for it, it's called "Screen Time", which is an app that helps your kids manage the time that they spend watching TV or playing games, etcetera, and you can keep track of that and then reward them for doing non-screen stuff and things like that.
+
+<strong>CHUCK:</strong> Nice! Pete, what are your picks?
+
+<strong>PETE:</strong> Continuing on the theme of paper prototyping, my first pick is this blog post that I discovered while we were recording this podcast about creating an "iPhone Stamp". So rather than having the biggest laborious dragging a pencil around your iPhone, you make a little rubber stamp, which kind of seems kind of silly actually, but incredibly hipster at the same time so I kind of love the idea of having a rubber stamp that'll --
+
+[Ben laughs]
+
+<strong>PETE:</strong> That'll stamp out your prototype and then sit in the coffee shop with your Moleskine.
+
+<strong>BEN L:</strong> That's awesome.
+
+<strong>PETE:</strong> And the other app that I just found, I've never used this, but it looks kind of cool is "POP - Prototyping on Paper". The idea for this is you draw your prototypes after hipster stamping them out and then you take a photo using your iPhone and then you can kind of link up the screens together. So it's just kind of photos of your paper prototype, but interactive a little bit in that you could kind of click or tap on the little button you drew and it will take you to another screen [inaudible] - seems kind of a cool idea. My third pick is a podcasting app. So for ages I couldn't find a good podcasting app for iOS; it's like one of those things where there's too many options. I asked on Twitter and I was pointed towards an app called "Pocket Casts", and I really really like it. It's really simple, it's really easy to use, it basically just gets out of your way and does everything that I expect it to, so I really like it - Pocket Casts. I think it's probably like a couple of bucks or something. And my last pick is a non-technical pick, it's a TV show called "Spaced", which is this amazingly good British kind of sitcom that was recorded in the, I guess, very late '90s, early 2000s. And the guy Simon Pegg, who's now kind of grown up in doing big things like Star Trek movies and he did that zombie movie Shawn of the Dead, before they did the last stuff, they did this really really hilariously good sitcom called Spaced. It's got loads of really awesome like kind of geeky sci-fi preferences, and like one of the shows is blatantly like they're doing Residents Evil, but kind of like the only way you know that as Resident Evil is if you get all of the in jokes. So if you're a fan of kind of sci-fi and that kind of stuff and probably if you're a fan of the rest of development, then you would love Spaced and it's probably available on Netflix or Amazon in some video, or you can just buy the DVDs, they're pretty cheap. So, that's my last pick!
+
+<strong>CHUCK:</strong> Awesome. I've got a couple of picks. We talked about most of my prototyping tips while we were talking, so my picks are not going to be related to that. But one thing that I ran across, I feel bad when I blank on our guest's names, but I totally blank from GitHub --
+
+<strong>BEN:</strong> Josh Abernathy.
+
+<strong>CHUCK:</strong> Josh Abernathy, that's right. We were talking about the iOS apps for GitHub and he was talking about how they're not tremendously helpful. I got an email from somebody who was the developer of iOctocat, which is an app for the iPhone for GitHub. It manages everything, issues, it gives you your dashboard, and everything else on their iPhone, and it is really cool. And so I'm going to pick "iOctocat" this week as my pick. Ben Lachman, what are your picks?
+
+<strong>BEN L:</strong> I definitely will say "Briefs 2"; I'm really into it right now. Additionally, I would say I've been part of a coworking space here in Ohio, and so I'm going to pick "Coworking" as a great way to be an indie developer and still have a group of people that you identify with and work with on daily basis. And I also want to pick "PaintCode", which is an awesome app for taking Photoshop bits and pieces and turning them into Core Graphics code and Objective C. So, those are my 3 kind of work-related ones. And then a life-related one is, I was recently in Chicago and had the pleasure of visiting Bow Truss Coffee Roasters, which is a micro roaster in Chicago. They have absolutely phenomenal coffee that you can order online. So I will recommend "Bow Truss" as a great micro roaster.
+
+<strong>CHUCK:</strong> Awesome. Well, thanks for coming on the show! It's been fun!
+
+<strong>BEN L:</strong> Yeah! Thanks for having me!

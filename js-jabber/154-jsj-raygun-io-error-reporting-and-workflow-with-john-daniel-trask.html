@@ -1,0 +1,705 @@
+---
+layout: layouts/post.njk
+title: >
+      154 JSJ Raygun.io Error Reporting and Workflow with John-Daniel Trask
+date: 2015-04-08 13:00:00
+episode_number: 154
+duration: 
+audio_url: https://media.devchat.tv/js-jabber/JSJ154Errors.mp3
+tags: js-jabber
+---
+
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">02:35 - John-Daniel Trask Introduction and Background</span></p>
+
+<ul dir="ltr">
+ 	<li><a style="text-decoration: none;" href="https://twitter.com/traskjd">Twitter</a></li>
+ 	<li><a style="text-decoration: none;" href="https://github.com/CmdrKeen">GitHub</a></li>
+ 	<li><a style="text-decoration: none;" href="http://jdtrask.com/">Blog</a></li>
+ 	<li><a style="text-decoration: none;" href="http://www.mindscapehq.com/">Mindscape</a>
+<ul>
+ 	<li><a style="line-height: 1.6; text-decoration: none;" href="https://twitter.com/MindscapeHQ">@MindscapeHQ</a></li>
+</ul>
+</li>
+</ul>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">04:57 - </span><a style="text-decoration: none;" href="https://raygun.io/">Raygun.io</a></p>
+
+<ul dir="ltr">
+ 	<li><a style="line-height: 1.6; text-decoration: none;" href="https://twitter.com/raygunio">@raygunio</a></li>
+</ul>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">06:23 - Crash Reporting The Right Way</span></p>
+
+<ul dir="ltr">
+ 	<li><span style="background-color: transparent; color: #000000; font-family: arial;">Error Grouping</span></li>
+ 	<li><span style="background-color: transparent; color: #000000; font-family: arial;">Suppress Notifications</span></li>
+</ul>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">10:06 - Most Common Errors</span></p>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">12:05 - </span><a style="text-decoration: none;" href="http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/">Source Maps</a></p>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">19:16 - Managing Error Reporting in Gross Environments</span></p>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">22:17 - Determining Where The Issue Is</span></p>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">24:45 - Do People Write Their Own Errors?</span></p>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">26:23 - Frameworks Support</span></p>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">28:28 - Collecting Data: Privacy and Security</span></p>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">30:01 - Does working in error reporting make you judgemental of others’ code?</span></p>
+
+<ul dir="ltr">
+ 	<li><span style="background-color: transparent; color: #000000; font-family: arial;">“DDOSing </span><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;">Yourself”</span></li>
+</ul>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">32:42 - Planning for Rare Exceptions</span></p>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">33:36 - Tactics to Cut Down on Messages</span></p>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">35:53 - Gathering Basic Debugging Information</span></p>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">37:58 - Getting the </span><em>BEST</em><span style="background-color: transparent; color: #000000; font-family: arial;"> Information</span></p>
+
+<ul dir="ltr">
+ 	<li><a style="text-decoration: none;" href="http://www.html5rocks.com/en/tutorials/es6/promises/">Promises</a></li>
+ 	<li><a style="text-decoration: none;" href="http://en.wikipedia.org/wiki/Stockholm_syndrome">Stockholm Syndrome</a></li>
+</ul>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">42:24 - The Backend: </span><a style="text-decoration: none;" href="https://nodejs.org/">Node.js</a></p>
+
+<ul dir="ltr">
+ 	<li><a style="text-decoration: none;" href="https://raygun.io/raygun-providers/node-js">The raygun4node provider</a></li>
+</ul>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial;">43:24 - “Creating an </span><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;">Application”</span></p>
+<p dir="ltr"><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;">Picks</span></p>
+<p dir="ltr"><a style="text-decoration: none;" href="https://ldsconnect.org">LDS Connect</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (AJ)</span>
+<a style="text-decoration: none;" href="https://lds.io">LDS I/O</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (AJ)</span>
+<a style="text-decoration: none;" href="https://www.youtube.com/watch?v=8S0FDjFBj8o">TED Talk About Nothing</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (Dave)</span>
+<a style="text-decoration: none;" href="https://www.youtube.com/watch?v=hpLdTcBsoK4">OlliOlli 2 Soundtrack</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (Jamison)</span>
+<a style="text-decoration: none;" href="http://www.imdb.com/title/tt0107290/?ref_=nv_sr_1">Jurassic Park</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (Joe)
+</span><a style="text-decoration: none;" href="http://www.ng-vegas.org/">ng-vegas</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (Joe)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/B00LTAEV0K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00LTAEV0K&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=DGOCKESAST4P7EDZ">WASD CODE 87-Key Illuminated Mechanical Keyboard with White LED Backlighting - Cherry MX Clear</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/B004D8Q48M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B004D8Q48M&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=KZJVCWXJSFPEHJ2G">Grifiti Fat Wrist Pad</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (Chuck)
+Thank You </span><a style="text-decoration: none;" href="http://devchat.tv/kickstarter">Rails Clips Kickstarter</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> Backers! (Chuck)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/014312417X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=014312417X&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=SZTGOPLB6LFRQHKY">Mastery by Robert Greene</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307887448&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=CGO5XGMSO5VQ5KHK">Ready Player One by Ernest Cline</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://www.imdb.com/title/tt0168122/">The Pirates of Silicon Valley</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (John-Daniel)</span>
+<a style="text-decoration: none;" href="http://littlebits.cc/">littleBits</a><span style="background-color: transparent; color: #000000; font-family: arial; font-size: 15px;"> (John-Daniel)</span></p>
+
+<h3>Transcript</h3>
+
+<strong>CHUCK:  </strong>Man, I look at Joe’s picture, and I just want to say, “Help me, Joe-bi-Wan Kenobi. You’re my only hope.”
+
+<strong><em>[This episode is sponsored by Frontend Masters. They have a terrific lineup of live courses you can attend either online or in person. They also have a terrific backlog of courses you can watch including JavaScript the Good Parts, Build Web Applications with Node.js, AngularJS In-Depth, and Advanced JavaScript. You can go check them out at FrontEndMasters.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by the App Quality Bundle, the ultimate toolset for providing better software. It includes six leading tools for one incredibly low price. It’s a full stack set of tools that covers continuous integration, testing and monitoring for your mobile apps, web apps, and APIs. It’s great for new projects and companies. And the offer is $999 for one year of service for all six services. It is available for new paying subscribers only. Go check out the website at BuildBetter.software for complete terms and conditions. The offer ends April 15, so don’t wait.]</em></strong>
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on JavaScript developers, providing them with salary and equity upfront. The average JavaScript developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 bonus as a thank you for using them. But if you use the JavaScript Jabber link, you’ll get a $4,000 bonus instead. Finally, if you’re not looking for a job and know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept a job. Go sign up at Hired.com/JavaScriptJabber.]</em></strong>
+
+<strong><em>[This episode is sponsored by Wijmo 5, a brand new generation of JavaScript controls. A pretty amazing line of HTML5 and JavaScript products for enterprise application development in that Wijmo 5 leverages ECMAScript 5 and each control ships with AngularJS directives. Check out the faster, lighter, and more mobile Wijmo 5.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 154 of the JavaScript Jabber Show. This week on our panel, we have    AJ O’Neal.
+
+<strong>AJ:  </strong>Yo, yo, yo, coming at you live, carless and stuck at home.
+
+<strong>CHUCK:  </strong>Joe Eames.
+
+<strong>JOE:  </strong>Hey everybody.
+
+<strong>CHUCK:  </strong>Jamison Dance.
+
+<strong>JAMISON:  </strong>Hi friends.
+
+<strong>CHUCK:  </strong>Dave Smith.
+
+<strong>DAVE:  </strong>Greetings.
+
+<strong>CHUCK:  </strong>I’m Charles Max Wood from DevChat.tv. And this week we have a special guest, and that’s John-Daniel Trask.
+
+<strong>JOHN:  </strong>Hey, everyone. Thanks for having me.
+
+<strong>CHUCK:  </strong>No problem. You want to introduce yourself really quickly?
+
+<strong>JOHN:  </strong>Yeah, sure. I’m the cofounder and CEO of a company that builds a crash reporting product. We’re based out of Wellington in New Zealand, which is why I sound a bit slow sometimes. And we pretty much have customers all over the world. So, I’m bouncing around. So, today I’m talking to you from our office in San Francisco.
+
+<strong>CHUCK:  </strong>Oh, wow. I was going to say, “What time is it there in Wellington?” But I guess it doesn’t matter.
+
+[Laughter]
+
+<strong>JOHN:  </strong>Well, it would be 9 am in Wellington but 1pm here. So, we’re all good.
+
+<strong>CHUCK:  </strong>So, did you sleep in this morning then?
+
+<strong>JOHN:  </strong>No, no. On these trips, I come over to the US about once a month. And it’s usually, I try and pack everything in. I was up seeing the guys at Microsoft last week and checking in with customers and checking in with staff and a whole lot of random things. So, there’s actually very little sleep. But there’s a lot of drinking. So, [chuckles] it’s quite hard.
+
+<strong>CHUCK:  </strong>Very nice. [Laughs] Sounds adventurous. Let’s just say that.
+
+<strong>JOHN:  </strong>[Laughs]
+
+<strong>CHUCK:  </strong>So, we brought you on today to talk about error reporting, and I guess crash reporting and things like that. Do you want to give us a brief overview of your background so that we know where to go with this?
+
+<strong>JOHN:  </strong>Yeah, sure. So, super long story condensed down quickly; I started coding at a young age, around nine. And I just loved writing code. And so, I’ve always been trying to build companies around software. So, I’ve been coding for a while. These days, I don’t actually code so much. I went into the industry, worked in one of the large IT services companies in New Zealand, and then decided that it was time to get into the game myself and start a business. So, I coded for the first few years in that business along with my business partners. And eventually we happened along building this product, Raygun at Raygun.io. And so, that started to do really well for us. And so, the company’s been growing. And we have a bunch of engineers. So, I don’t code very much anymore at work. But I still do a bunch of coding at home and in the weekends. I keep my skills sharp. I still enjoy. Basically, I’m a sort of 50/50 programming and business guy. So, that’s my background. I’m also a Microsoft MVP. I speak at a bunch of conferences and obviously on podcasts as well. So, that’s me in a nutshell.
+
+<strong>CHUCK:  </strong>Very cool. Now Raygun.io, does it collect error reporting, crash reports, whatever, from Node.js, frontend JavaScript?
+
+<strong>JOHN:  </strong>It does it from everything. So, we reached the conclusion that it’s not the late 90s anymore. And the polyglot approach of using lots of different languages and platforms has become pretty pervasive, even for a single developer. You might be using three or four different programming languages. So, we wanted to build something where we would handle the data stream of problems from any of those platforms. Within companies, it gets even worse. You can have a Java team, .NET team. Everybody’s using JavaScript in the frontend. We tend to work mostly with Microsoft .NET on our backend. We have a little bit of Go in there. A bit of Node.js as well, and then, of course, JavaScript.
+
+I kind of call JavaScript a horizontal language, because no matter what programming language you’re working in, when you put something on the web you’re forced to use JavaScript for the frontend anyway. So, it’s really for any developer that’s in there. We sort of have found that JavaScript’s becoming probably one of our most commonly used languages to report errors from because people are building more and more elaborate frontend on their systems. Whole apps. And so, discovering what’s breaking in there is super important. And it’s really hard to see those breakages just from server logs.
+
+<strong>CHUCK:  </strong>So, what process do you go through or what process do you recommend your customers go through when they run into an issue?
+
+<strong>JOHN:  </strong>Well, first of all, I don’t actually think that a lot of businesses or developers are doing very much around the software values that occur. I think it’s sort of an emerging space that’s becoming an expected tool slowly. And obviously it would be good for me if it became an expected tool overnight. But I think we started to see a lot of interesting crash reporting out of the Ruby on Rails community. And then it really became super obvious when mobile started taking off, because all of these people were building mobile apps. And you didn’t get any insight to what was going wrong with the software on people’s phones.
+
+So, I typically start with ‘Doing something is better than nothing’ as my advice. And then very quickly it’s, not just send yourself an email or something on every error, which is… we used to see this in the services game, was that some developers were very diligent and they would notify themselves on global unhandled errors and just email themselves. And others wouldn’t do anything. But the ones that did, what would inevitably happen is software is so buggy and error-prone that you slowly desensitize yourself to all of the emails about the crashes. And you start actually missing the occasional really important one.
+
+So, that’s when you start wanting to build a better too around crash reporting to do things like error grouping. So, you’ve got root cause analysis type capabilities in there. You want to be able to suppress, say notifications from old browsers or from crawlers and things like that so that the system is only giving you a very high level of signal-to-noise so that you can take more action on it. So, generally speaking if you’re not doing anything you should do something. and then if you’re doing something, are you doing it in a way that you’re not just going to desensitize yourself to the data stream and then miss when something really critical does break?
+
+<strong>JAMISON:  </strong>That’s been a problem I’ve encountered in past lives before I became smarter. If errors seem useless, everyone just puts an email filter in. And then they never look at them again. If they’re too noisy, they’re worse than if they don’t happen at all.
+
+<strong>JOHN:  </strong>Yeah, absolutely. That’s one of the constant things we’re working on is, how do we make it so that the signal is high? A classic example when we were building Raygun, we dogfooded and instrumented our own website. And were getting a lot of, a bunch of noisy spurious robots crawling the site, triggering erroneous 404s and things like that that we didn’t really care about. And if it wasn’t for the grouping, so to put it in context, let’s say you have 10,000 errors reported. That might only be 10 groups.
+
+And what happened was, [chuckles] this kind of maybe goes to show why I don’t write so much code anymore, I’d actually made this change just before Christmas to our online store and I’d broken the payment method. So, that was pretty poor. And if I hadn’t been getting grouped notifications, like bringing it down to that 10 rather than say 10,000 I probably would have completely missed for the longest time that the payment process was broken. It was only because I could quickly see one in 10, well actually, I’ve screwed this up. Which was pretty good, because I would have gone away for Christmas and come back and thought, “Gosh, sales are a bit quiet. I don’t know what’s going on there.”
+
+[Chuckles]
+
+<strong>JOHN:  </strong>So, it actually saved our bacon a wee bit. So, I joke that it’s important that when anybody tries a product that they reach an Aha moment really quickly. And fortunately, well fortunately for people I guess, they don’t often break their payment system immediately after installing an error tracker.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>So, I’m a little curious, too. What kinds of errors are the most common ones that you see come in?
+
+<strong>JOHN:  </strong>[Chuckles] Most common errors. Well, it varies from platform to platform.
+
+<strong>DAVE:  </strong>Oh wait, wait. I just need to guess. It’s undefined is not a function.
+
+[Laughter]
+
+<strong>JOHN:  </strong>Yeah. I was going to say, basically anything relating to the world of null references is [chuckles], is pretty much a go-to error problem. I’ll tell you something else that we had to fix a while ago which was not really fixed but improved. And it’s specifically in the world of JavaScript, which is we receive a flood of JavaScript errors from various browsers. And there are two problems here.
+
+One, an error that occurs in Chrome but as the same error, it can look different between Chrome, Firefox, and IE. So, we would get three groups. And that was kind of annoying. And so, we put in some smarts to make sure that we could actually convert them between the different browsers so that you’d get one group and we can tell you how this affects Chrome and Firefox, but maybe not IE.
+
+And then secondly was, it’s kind of again, the Microsoft guys, obviously they [localize] things a lot. And so, they actually [localize] error messages in IE to a [inaudible] different languages. And that meant that if we didn’t get [a stack trace], because we do the grouping based on stack traces, if we didn’t get a stack trace, we would have to default back to message-based grouping. And suddenly you get about 25 different groups, because if somebody was running a German version of Windows and you were running English and somebody else was running a Russian version, you’d get three different groups that all had different messages because Microsoft was kind enough to localize the message into the user’s browser’s locale. So, we put some smarts in for that.
+
+So again, trying to bring that noise down, improve the signal. But JavaScript’s a really interesting space to do the crash reporting, because there’s a whole school of things you have to do for that due to the different browsers.
+
+<strong>JAMISON:  </strong>So, do you want to get into all that or is it too low level to talk about?
+
+<strong>JOHN:  </strong>No, I’ve covered some of the high level bits there around the cross-browser grouping. But one thing I’m starting to see more of is people using source maps with their JavaScript files. Do you guys generate source maps for your JavaScript after minification?
+
+<strong>CHUCK:  </strong>I don’t.
+
+<strong>DAVE:  </strong>I do.
+
+<strong>JOHN:  </strong>Right. So, we’re typically finding that not everybody does generate source maps here because it’s a little bit clunky to do it. But for those that are curious what a source map does, it’s a small file that effectively allows you to minify the JavaScript but then turn it back and generate stack traces that actually relate to the un-minified version. So, if you see that ‘e is not defined line 1 position 38,980’ that’s really not useful to you as the actual developer. And a source map allows you to firstly figure out what the symbol was before minification. So, ‘e’ might actually be, say a symbol like the word width or effectively the name of the property or function that was failing. And then it would also realize that because it’s turned into one long string, it’ll be able to say, “Well actually, it’s not on line 1 at position 38,900. It’s actually on line, say, 450, position 3.”
+
+So, it really helps developers more quickly jump in and see where the error occurred in their own codebase. And there’s a growing support for source maps. So, tools like Chrome Dev Tools will automatically try and pick them up if you’ve got the map file reference right in there beside the JavaScript to make it easy to debug with the Dev Tools. So, in my way of thinking, if you’re a good net citizen and you’re minifying your files to improve the load time of webpages, it’s pretty important that you want to put a map file in there to help you debug it when crashes get reported, especially when you’re building really, really big apps. Say you’re using something like Angular or Backbone or whatever at the frontend and you’ve actually got thousands and thousands of lines of JavaScript. It’s pretty useful.
+
+The other thing as an aside is some people don’t like to put their map files on their public servers. So, we allow people to post those in using an API call so that they only share them with us. Again, especially those really rich apps where they put a lot of work into their frontend JavaScript library.
+
+<strong>JOE:  </strong>Mm.
+
+<strong>JOHN:  </strong>I’ve got a question for you, then. Why don’t you generate source maps? [Chuckles]
+
+<strong>CHUCK:  </strong>Because I’m lazy.
+
+[Laughter]
+
+<strong>JOE:  </strong>I don’t do it because Chuck’s lazy.
+
+[Laughter]
+
+<strong>JAMISON:  </strong>Because Chuck doesn’t do it for you.
+
+<strong>AJ:  </strong>Well, let’s talk about that.
+
+<strong>CHUCK:  </strong>Honestly, I’m just…
+
+<strong>AJ:  </strong>How complicated is the process?
+
+<strong>CHUCK:  </strong>Well, I’m using the Rails Asset Pipeline. And it doesn’t do that by default. And I just have never gone to the trouble to figure out how to do it.
+
+<strong>DAVE:  </strong>There’s your problem.
+
+<strong>CHUCK:  </strong>[Laughter] Yeah.
+
+<strong>DAVE:  </strong>Found it.
+
+<strong>JOHN:  </strong>Yeah.
+
+<strong>JOE:  </strong>Chuck doesn’t do it because Rails.
+
+<strong>CHUCK:  </strong>That’s right.
+
+[Laughter]
+
+<strong>DAVE:  </strong>[Inaudible] the day is coming when you won’t be able to make a JavaScript app of any significance in my opinion without source maps.
+
+<strong>JOHN:  </strong>Yeah.
+
+<strong>DAVE:  </strong>It’s just a matter of time.
+
+<strong>JOHN:  </strong>Yeah.
+
+<strong>JOE:  </strong>So, any app without source maps is insignificant.
+
+[Laughter]
+
+<strong>DAVE:  </strong>There’s your definition. Nailed it.
+
+[Laughter]
+
+<strong>JOE:  </strong>That’s a little trick I call logic.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>JOHN:  </strong>Yeah. We’re going to start fights here you guys.
+
+<strong>DAVE:  </strong>Well played.
+
+[Laughter]
+
+<strong>JOHN:  </strong>Yeah. Well, one of the things. The default guide I think that we have published uses, I think it’s Uglify or something like that to generate it. And that involves running a Node process. The thing is, more and more tools are starting to bake it in. So, our company built a few other products outside of Raygun. One is we have Workbench. And that’s a Microsoft community focused project. And that just allows you to generate source maps by pretty much ticking a box beside the JavaScript files in your solution. And that’s in use I think by about a quarter of a million developers today. But you definitely want to have it so that map file generation’s super easy. Maybe the Rails guys could make it a default or something.
+
+<strong>CHUCK:  </strong>Yeah, maybe. And it uses Uglify by default.
+
+<strong>JOHN:  </strong>Right.
+
+<strong>JOE:  </strong>Well, I think part of the issue probably is that if you’re developing, you’re probably not minifying and uglifying while you’re developing. So, the developer themselves probably sees the value of a source map a lot less, especially if it’s not something you’re doing a ton of in-production debugging. And so, you end up not doing it until all of a sudden it’s like, “Oh, I got this horrible problem. Only occurs in production. Now we really need source maps,” unless you just get in the habit. Until you see the value, I think a lot of people don’t bother.
+
+<strong>JOHN:  </strong>Absolutely, absolutely. It’s another thing…
+
+<strong>JOE:  </strong>That’s just like your product, right? Until you see the value, then you’re not bothering with, “Oh, we don’t need errors. We don’t need error reporting.” All of a sudden, “Oh, I’ve got a horrible problem. We can’t fix it.” [Laughs]
+
+<strong>JOHN:  </strong>Yeah. The thing that we find is it’s two-folded. Something’s gone wrong in production. And I think I probably speak for all of you guys, but tell me if I’m wrong, that when you get, “Hey, so the app’s not working. Here’s a screenshot inside a Word file. Does it help you fix it?” And you’re like, “What the hell is this? I can’t…” And again…
+
+<strong>DAVE:  </strong>[Sighs] Epic sigh.
+
+[Laughter]
+
+<strong>JOHN:  </strong>Yeah.
+
+<strong>DAVE:  </strong>I saw one of those this week. In fact…
+
+[Chuckles]
+
+<strong>DAVE: </strong> In fact, there was a scrollable area in the app. And the user wanted to show us all the scrollable areas. So, the user scrolled the area, took a screenshot, scrolled it a little more and took a screenshot, scrolled it a little more and took a screenshot.
+
+<strong>CHUCK:  </strong>Oh no.
+
+<strong>DAVE:  </strong>But all of them in a Microsoft Word doc. It is just wonderful.
+
+<strong>JOE:  </strong>Oh.
+
+<strong>JOHN:  </strong>It’s one of those things though, isn’t it? Where the user is trying really, really hard to help you. They obviously put a lot of work into that. And you’re like, “Oh.”
+
+<strong>DAVE:  </strong>Yeah, kudos to them.
+
+[Chuckles]
+
+<strong>JOHN:  </strong>Yeah. But oh, it’s a pain in the butt. And of course, it’s happened in their browser, in the JavaScript world at least. We do more than just JavaScript but focus on that. But you have no insight into it if you don’t report on it. And one of the crazy things we found was that again while dogfooding, we instrumented all of our other products with Raygun. And what we found was that only about one percent of users ever tell you that something was broken.
+
+And what we subsequently found was that we made more sales by improving the quality of the software. Because when we were… people running the trial period, if something breaks or has a problem, they tend to just go. They walk away from it. Now, we don’t sell Raygun as a product to businesses for their marketing teams. But we actually found that it reduced our cost to acquire customers, because the trial period of using things wasn’t as buggy. It was a better quality experience.
+
+So, firstly it’s helping your developers get insight into things that they would struggle to get the information about to be able to reproduce it in the first place. And that’s cool. But secondly actually, and this is a bit embarrassing, is usually discovering how many other bugs you’ve got in your software that you just didn’t run into on your own dev machine. And that can be a bit frightening. We have customers who talk to us and go, “Oh yeah. We think we might generate 2,000 errors a month.” And they put it in and it’s like, “Yeah, you’re generating 15 million errors a month.”
+
+[Laughter]
+
+<strong>JOHN:  </strong>So, people really have no idea how bad things can be.
+
+<strong>JAMISON:  </strong>So, one issue that’s trickier about client-side error reporting is you don’t control the environment at all. [Chuckles] On the server you run everything yourself. On the client you’re dealing with Chrome extensions and ads that inject JavaScript. And how do you manage error reporting in such a hostile environment or such an, I guess, un-sanitized environment?
+
+<strong>JOE:  </strong>Unsanitary.
+
+[Laughter]
+
+<strong>JAMISON:  </strong>Unsanitary, yeah. That’s a good way to describe it.
+
+<strong>CHUCK:  </strong>I was thinking inconsistent, but…
+
+[Laughter]
+
+<strong>JOHN:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>Think grosser.
+
+[Laughter]
+
+<strong>JOHN:  </strong>[Inaudible] you’re saying…
+
+<strong>DAVE:  </strong>Think double decker outhouse.
+
+[Laughter]
+
+<strong>JOHN:  </strong>Oh, geez.
+
+<strong>JAMISON:  </strong>That is grosser.
+
+<strong>CHUCK:  </strong>Don’t look up.
+
+[Laughter]
+
+<strong>JOHN:  </strong>It’s the yawning that’s the problem. Yeah, it’s a great question. The big thing we see is two separate areas that cause fault. One is third-party JavaScript files that are just erroneous. And you can’t fix them. So, a classic case is say, a Facebook like button or a Twitter share button and it throws errors. But they’re not critical errors, so they’re… one, you’re not going to rock over to Mark’s house and be like, “Yo, Zuck, let’s fix this script, [inaudible].” So, you don’t want to be concerning yourself with that.
+
+And so, within the system we have this workflow. You have four different states where you can… you have active errors, so the errors that are still occurring. You haven’t done anything about them. You have resolved errors. That’s pretty self-explanatory. There’s just ignoring errors, which is, “Hey, just take it off the list for now. But if it happens again, it’ll pop back in.” But then lastly, and super importantly, is this idea of a permanently ignored error. And so, you can jump in and go, “Oh, that error happened in the Facebook library. I’m never going to fix that. Permanently ignore it. Never notify me about it again. It’s outside of my sphere of influence, so it’s gone.” And so, there’s an element where you actually can train the system to not bother you with stuff there.
+
+So anyway, the other thing that occurs, and this happens… I don’t believe that this happens in Firefox but I could be wrong. But in Chrome, the extensions that you install actually run in the same, effectively the user space that the JavaScript executes in. And so, early on we were like, “Man, some people are getting some really weird errors occurring.” And it was because people had buggy extensions that were in there that would actually trigger the window.onerror unhandled exception weakness…
+
+[Chuckles]
+
+<strong>JOHN:</strong> In the JavaScript. Thankfully again though, this is a place where you can actually permanently ignore things triggered by those. Because we’re effectively fingerprinting every exception we receive and then grouping them up. So, you just get rid of the groups. So, that’s a very quick and efficient way of getting rid of things. You can also do other things like merge groups together if you go, “Hey, this error and this error are actually pretty intimately connected. Put them together for me.” So, that two ways that we have to handle the fact that, yeah you’re playing in somebody else’s turf.
+
+<strong>CHUCK:  </strong>One thing that I’m wondering about (and I could see this with these kinds of errors that you’re talking about with somebody else’s library or with the plugin that you’ve got in there), how do you determine where the issue actually is? So sometimes, I’ve seen this in pretty much every programming language I’ve used, you get a stack trace and you can look through it and you can pretty well say, “Okay, this is the code that I control. And yes, this is where the problem’s occurring.” But sometimes it’s also cryptic that it’s really hard to determine where the issue is. Does that make sense? How do you make it so that you can actually instrument it and figure out where the problem lies for those stack traces and other information that don’t give you a good handle on where things are?
+
+<strong>JOHN:  </strong>Yeah. So, that’s a valid question. Sometimes you… effectively a software almost behaves in a way that misdirects you, I guess is where you [get on] with that. There are a couple of things that we do. A typical case actually is when people are confused .It’s normally that they need to set up source maps because [laughs] the stack trace was not helpful to begin with. There’s not a lot we can do where it’s an overall just logic based issue relating to the structure of your own code, like errors that have bubbled up from somewhere down.
+
+You can of course send errors manually. So, if you had a particularly troublesome error of your codebase in JavaScript, you can go and effectively set it up with a try/catch block, handle the error, and still send the error details off to Raygun. So for example, I often suggest that to people when they do have these really, really rich applications that they should probably just write good error handling code in those blocks but record when that hit so that you can see what’s going on. The other thing you can do with that is you can tag and attach custom data to any exception that you send to our service. And so, that means that perhaps you’ve got modules, you might set the current tag for the module that was executing. Or you might set a current tag for an action that was taken. And that gets bolted into the exception report. You can filter on that and do whatever you’d like with it later on. But that can help people.
+
+The way that it typically works is that people get started and they use the window.onerror stuff just to get started. And that gives them, I think that gives people a lot of value right off the bat. But then once they’re on board, they should probably look at how they’re doing their error handling within the app itself.
+
+<strong>CHUCK:  </strong>Do you find that people write their own errors? I don’t see very many people do that in any language I use, where they actually raise MyOwnException or throw MyOwnError.
+
+<strong>JOHN:  </strong>Yeah, they don’t typically do that so much in JavaScript. They certainly do it in languages like Java and .NET and Ruby a little bit I guess. But you can simply, you could put something into try and catch that an error occurred that you weren’t expecting, and then tag or put custom data in there about what was going on. I’m talking about being able to put a little bit more context in there that you as the developer…
+
+<strong>CHUCK:  </strong>Right.
+
+<strong>JOHN:  </strong>Would be the only one to understand what you were actually trying to do. You can almost imagine commenting in an area where you’re like, “Well, this could blow up if XYZ third-party service wasn’t working.” And you might want to just tack that in as a custom message on the exception. So, you just catch and then send to Raygun, even though you weren’t the one throwing the exception.
+
+One of the things we’ve also done is generally try to build in support for various frameworks. So, we’ve got some pretty good support around Angular and Ember and of course jQuery in there, because some of these frameworks, they try and implement their own way of handling errors which can obfuscate some of the details a little bit. For example, Angular would try and generate these really long messages where it’s trying to generate a bit of a call stack as part of the message, which is a bit different to anything else. And in jQuery’s case, it’ll end up where we can hook in and wrap things like Ajax calls to track when there are errors coming back from those calls and be able to provide that, which may not necessarily be surfacing as normal JavaScript exceptions.
+
+<strong>JOE:  </strong>So, can you give some more concrete examples of how you deal with the frameworks?
+
+<strong>JOHN:  </strong>The [cleanest] and most obvious one there is that jQuery one, which is there’s all those nice Ajax helpers that you get with jQuery. And jQuery’s super pervasively used. So, what we do is we will wrap those helper functions like, you’re stretching my developer memory here, but there’s a .ajax() call that you can make. Now, if something goes wrong inside your callback handler for that, we often can’t get very much data about that, unless we actually wrap that call ourselves and do some work in there. So, that’s a classic case.
+
+<strong>JOE:  </strong>Mm.
+
+<strong>JOHN:  </strong>Yeah.
+
+<strong>JOE:  </strong>Are the bigger frameworks, are they actually pretty difficult to work with? Angular, Ember, React. Or are they, is it just a couple of little things here and there?
+
+<strong>JOHN:  </strong>React’s not too bad. That’s just a view framework, so it’s not trying to do quite as much, which is quite nice. Angular with its message generation gets a little bit out of hand, because you can get many, many kilobytes worth of message on the error that’s being thrown, which is just a bit weird and it doesn’t help our customers if they have stupidly long messages on them. So, we do a bit of work.
+
+And the thing is it’s worth noting. I’ve kind of implied it here, but we obviously have some smarts that operate in the actual JavaScript client library that we have available. But every single provider that sends data to Raygun, whether it’s Raygun for Ruby, Raygun for Node, Raygun for JS, on the server side the processing of those messages is handled by different bits of code. So, the grouping logic is specialized for the JavaScript type errors and things like that. So, that’s where we can apply some logic after the send to go, “Oh, this is an Angular related issue. Maybe we should do some work on that message to make it actually a bit more human-friendly,” things like that. So, there’s two parts trying to support the frameworks: the bits that are in the client library and on the server side.
+
+<strong>JOE:  </strong>Mm.
+
+<strong>DAVE:  </strong>So, on the client side, one of the things that makes JavaScript exceptionally difficult to debug, by the way did you see what I did there with ‘exceptionally’?
+
+[Chuckles]
+
+<strong>DAVE:  </strong>Is that sometimes the current synchronously executing call stack is not that valuable unless you also have the asynchronous components that went into that call stack. For example, if you do an Ajax request, I’d like to know what data actually was the input to the Ajax request. But sometimes, when the Ajax response comes back and an error is raised, at that point it’s hard to marry those two up. Does Raygun help you with that?
+
+<strong>JOHN:  </strong>Raygun can help you with that. So, that comes a little bit into things like wrapping those Ajax calls to see what goes wrong with it. I would have to do a quick check to see whether we’re automatically putting in the values that were being passed around. But even if we’re not, you can tack them on as custom data really easily. We do tend to try and collect pretty much everything we can.
+
+One of the more common things that we hear from customers, especially the bigger corporations that are using it, they’re obviously concerned about privacy. So by default, we try and collect everything we possibly can. But we always have a lot of hooks and events that allow them to sanitize that data before it’s sent to us. So, we’ll try and pull in… but for example let’s say you were firing an Ajax request that was for a login. And we’ve got the username and password. Probably don’t want to send that off to us, so we’ve got a really super easy way of doing filtering and doing regexes against key/value pairs and things like that.
+
+<strong>JOE:  </strong>So, after doing this for so long, do you find yourself being judgmental about other people’s code?
+
+<strong>JOHN:  </strong>[Laughs] No. I don’t think you can… I don’t think anybody can become a programmer and not be humbled, no matter how good they are [chuckles] by their own poor coding.
+
+[Chuckles]
+
+<strong>JOHN:  </strong>So, no. Sometimes I find things hilarious. But I’m not judgmental.
+
+[Chuckles]
+
+<strong>JOHN:  </strong>For example, a good buddy of mine, he uses Raygun, which is good. And they ended up where they were tripping an exception on the mouse move event. [Chuckles]
+
+<strong>CHUCK:  </strong>Oh no.
+
+<strong>JOHN:  </strong>[Laughs] Yeah.
+
+<strong>JAMISON:  </strong>Wow, geez.
+
+<strong>JOHN:  </strong>And so, I was like, “Wow. Our data rate’s really…” As a guide, our highest throughput to date has been 110,000 crash reports per second being sent to Raygun. So, I mean it’s a popular product.
+
+<strong>DAVE:  </strong>Nice.
+
+<strong>JOHN:  </strong>But that was a case where yeah, somebody had broken something really badly and [chuckles] sent a lot of data. And that’s one of the challenges with JavaScript error reporting in general, is that you’re effectively DDoS-ing yourself.
+
+<strong>JOE:  </strong>[Laughs]
+
+<strong>JOHN: </strong> Because it’s all coming from the end users’ machines, which is fun. Yeah. I did a presentation recently on writing high-performance software because as developers, we usually all like to write stuff that can handle lots of load. And it’s kind of cool being in a position now where we are dealing with some hard problems. They’re not Amazon-level performance problems. But they’re getting to be pretty big performance challenges. And that’s a lot of fun. You really got to start to think.
+
+<strong>JOE:  </strong>I love that, DDoS-ing yourself.
+
+<strong>JOHN:  </strong>[Chuckles] Yeah. [Inaudible]
+
+<strong>DAVE:  </strong>Isn’t that captured with errors, though? It’s like you can plan for load, but when you screw up, your errors can just shoot for the fences. You don’t even know.
+
+<strong>JOE:  </strong>Right.
+
+<strong>JOHN:  </strong>Yeah. I mean, the worst case we’ve seen was one customer that has about two-thirds the user base of Twitter did a big bang v1 to v2 release. And they didn’t roll it out piecemeal. They just went all-in. And effectively, every interaction with the servers blew up. And so, that was a big problem. It’s kind of interesting. We have very lumpy rates for data coming in. We’ve processed billions and billions of exceptions. And we’re currently working towards a new ingestion and processing pipeline that’s designed to handle billions of messages per day.
+
+<strong>JOE:  </strong>But I imagine you’re a little bit like Twitter. You got to plan on, just for the rare exceptions, when things go pretty poorly.
+
+<strong>JOHN:  </strong>Yeah, yeah. Well, I have this story that I like to tell people, when we first launched the Raygun product which was in February 2013. And we tried practicing all the good software development things. Don’t prematurely optimize, yadda-yadda-yadda. And it was like, “Okay, well this thing’s working pretty well.” And so, one of, I want to say one of the first three customers to sign up was a top-ten Facebook game. And they just decided to log messages to us. So, every time somebody did anything in this game, it would send us a message. So literally, on day three [chuckles] the servers were in flames.
+
+[Chuckles]
+
+<strong>JOHN:  </strong>It was like, “Oh, good work not prematurely optimizing. Way to go.” [Chuckles] So, that was fun.
+
+<strong>JOE:  </strong>So, do you do some kind of tactics to try to cut down on the number of messages if they get crazy? Like, de-bouncing things and batching them up?
+
+<strong>JOHN:  </strong>We have a whole bunch of hooks in there so people can [not send] subsequent errors. The big thing is usually, is more those third-party scripts for people. So, once we put that feature in and talked with some of our bigger customers, that massively reduced the inbound, right? But on the whole, one of the things that we’ve done which is not… a bunch of our competitors for example, they will sample the data. They don’t store everything. We’ve taken the approach rightly or wrongly that we will actually store everything that you send us. And you can go through and you can look at all those reports.
+
+And the good thing about that is it means that if you’re storing custom data or you’re sending us any user data, so we have a feature where you can tag users. So, if you had, say for example an authenticated system. So, imagine say eBay. You can set the user details like an email address and name and that’ll be attached to the report for who had the problem. And then when we receive that, we actually have a report where you can go in and see. Who were the users that were affected by this crash? And then that integrates with tools like Intercom and just with your email client so that you can fire off a message to those users if you want when you’ve actually resolved the error.
+
+So, the use case that we’ve seen with some of the early users is the ability to say, “Oh, these 10 users had a problem in our checkout flow. We fixed it up and we sent them a notification to say hey, sorry about that problem you had on our checkout flow yesterday. We’ve now resolved it and pushed it to production and we’ve credited your account $10.” So, we’re trying to turn those really crappy software experiences into situations where those 10 users are going, “Holy crap. This company is way different to every other vendor that I’ve been working with because they seem to actually care about what I’m doing and they’ve fixed up the problems.”
+
+I think users have been overly trained by the old “PowerPoint has stopped responding,” or, “Finder is blocked up. Do you want to send the error report to Apple?” to kind of go, “Why the hell would I? It doesn’t appear to change anything.”  So, we’re trying to shift that dynamic.
+
+<strong>AJ:  </strong>I like that. That sounds cool.
+
+<strong>CHUCK:  </strong>I’m curious. You’ve got to have done a bunch of work to instrument JavaScript or have your library hook into things in such a way that you’re getting all kinds of good information. If I’m trying to just get basic information out of my application, what kinds of things can I do to gather the information that I need?
+
+<strong>JOHN:  </strong>Just to dig into your question, do you mean relating to crash reports or just general [inaudible]?
+
+<strong>CHUCK:  </strong>Just general debugging. Or even if I get the crash report, how can I dissect it and then figure out where the problem really is? Because sometimes it’s obvious. I did as this kind of question before. But I guess what I’m asking is it doesn’t always tell you where to go to duplicate the bug.
+
+<strong>JOHN:  </strong>Yeah. The thing is it’s a garbage-in, garbage-out system. So, if literally the browser can’t give us anything of use, it’s not probably going to help you a lot other than knowing that something was not going well. The upside there of tying it to something like say the affected user tracking would be that you might actually kind of go, “Oh, well we’re actually friendly with that customer. I’m just going to give them a call or an email and say, what were you just doing in there?” That’s one example.
+
+One thing I have to say is it’s been really, really helpful to JavaScript developers in general to see the improvements around exception management in the browsers themselves over the last six to 12 months. 12 months ago or even 18 months ago, getting that column number was rare. You got it in Chrome. I don’t think Firefox was doing it properly on the global error thing. So, it was really a lot harder to find information out of our crashes. So, if you had minified and you just had an exceptionally long message, even if you made a source map you couldn’t figure it out. So, we’re doing everything that we can do to try and make, give you as much information as you can. But if one of your end user’s still running IE6 there’s not very much in the way of any information we can give you. We just tell you what we can.
+
+<strong>CHUCK:  </strong>So, the other question I have is, besides source maps then, how can I make sure that the best information is being sent back to a system like Raygun or whatever?
+
+<strong>JOHN:  </strong>Well, one of the things you can do is filter the data in our system, sort by browser. So for example, let’s pick on browser again because that’s easy to pick on. Some browsers were better on others at doing this, at capturing the error information. You basically for example used to get really good quality information out of Chrome. So, [in there] you could filter and say, “Just show me the errors about Chrome,” because then I know I’m going to get the best quality stack trace and I’m going to understand what’s going on better than say if I was getting an older version of Firefox. So, that helps. But it’s an ongoing challenge.
+
+<strong>AJ:  </strong>So, I found the best tool for me in helping track my errors is I am now using promises for everything.
+
+<strong>JOHN:  </strong>Right.
+
+<strong>AJ:  </strong>Once it got standardized and it wasn’t a question of, is it this library or is it that library or is it this standard or that standard? Once it was declared promises are holy and we can use them now, I started doing everything with promises. And oh my goodness. Errors are not a problem. They are a problem, but they are nowhere near the problem they used to be.
+
+<strong>JOHN:  </strong>Yeah, absolutely. I would have to… I have this general view about JavaScript. Like I said, I’ve been writing code a long time and I still remember playing JavaScript back in the 90s and just being like, “Oh my god, put a gun to my head. This is the worst thing ever,” because it was such a loose and relaxed language, which some people like. That’s cool. But it’s really great seeing the improvements I think that are coming to the language in general to make it better for building these bigger apps. Because I sometimes, I used to have this joke, and this is probably about the most offensive place to tell it given the podcast is about JavaScript, which is that JavaScript becoming super popular over the last five years is the best example of Stockholm Syndrome I’ve ever seen.
+
+[Chuckles]
+
+<strong>JOHN:  </strong>You have no other option, right?
+
+<strong>JOE:  </strong>[Chuckles]
+
+<strong>JOHN:  </strong>And I remember back in the 90s, it was like JavaScript sucked and you used it to turn on a div or something. I don’t even think we used divs then.
+
+<strong>DAVE:  </strong>No, they were tables.
+
+<strong>JOHN:  </strong>Yeah. And then it was like, it was weird because then everybody started going, “Well, JavaScript’s actually really awesome.” And I’m like, “That’s cool. Awesome compared to what?” And it’s like, “Well, it’s just awesome,” because that’s all there was. However, what we’ve seen is that as the industry decided it was awesome and started doing more and more and more advanced stuff with it, I think we’re really stretching the language and getting in things like promises and a whole range of stuff that’s coming in like ECMAScript 6. It’s looking really cool and like it’s actually going to add a bunch of great stuff to help build better quality solutions.
+
+<strong>AJ:  </strong>I think that’s actually a really good analogy, the Stockholm syndrome idea, because it is all that we have.
+
+[Chuckles]
+
+<strong>AJ:  </strong>And I hate PHP with a passion. I’m like the numero uno PHP basher of all of Utah, if you look on those GitHub lists for…
+
+[Chuckles]
+
+<strong>AJ:</strong>  Most expert in. PHP bashing has I’m number one, I promise.
+
+[Laughter]
+
+<strong>AJ:  </strong>And then people are like, but JavaScript’s just as bad. And my response is like, “Well, but you have to use JavaScript. What’s your excuse with PHP?”
+
+<strong>JOHN:  </strong>Yeah, yeah.
+
+<strong>AJ:  </strong>But I do think that JavaScript, you can choose to use the good parts. And I guess I came in when the whole good parts methodology was being adopted. So, I didn’t use JavaScript back when people were doing really idiotic things like document.write. I came in when Crockford had laid down the iron fist and people were just shaking their heads, “Yeah! Yeah! Yeah!”
+
+<strong>JOHN:  </strong>Yeah. Yeah, one of the things I quite liked, and I know this can sometimes be a bit controversial as well, but I quite liked CoffeeScript. So, the way I like to code, it enforced a bunch of sensibilities on me. And the simplest example being things like double equals can parse to triple equals so I get my type checking. It’s like, little things like that I found quite nice. And I know some people either love it or they hate it. But there’s a whole lot of stuff that’s been going on. I just think there are a lot of smart people now looking at JavaScript and coming up with some really cool improvements to it on the whole, whether it’s to compile to it or actually improve the fundamental spec.
+
+<strong>CHUCK:  </strong>So, we’ve talked a bunch about the frontend. We haven’t talked as much about the backend. So, for Node.js does the story change a lot? Or is it more or less what you would expect from any other error/issue tracking system.
+
+<strong>JOHN:  </strong>We run a separate provider for Node called Raygun for Node. [Chuckles] You’ll notice a patent there. But it’s been specifically built for Node.js crash reporting, because there are other libraries that you want to use in there and various things. We haven’t had… basically we could pull out a bunch of things. And especially on the server side of that grouping for example, there’s not need to pay any attention to, “Hey, did this error come from IE or Firefox?” So, we have a Node provider. It does a good job. It has all the same methods for user tracking and filtering as all the others. But I don’t think there’s anything particularly special worth mentioning about it.
+
+<strong>JAMISON:  </strong>It does good stuff.
+
+<strong>CHUCK:  </strong>Mmhmm.
+
+<strong>JOHN:  </strong>Yeah. [Laughs] Yeah.
+
+<strong>CHUCK:  </strong>So, you use one system on the frontend, one system on the backend, and then you just get completely separate buckets for all of your errors?
+
+<strong>JOHN:  </strong>Yeah, we tend to… we use the terminology of creating an application in Raygun, which is a purely logical container for you. So, let’s say for example I’m running a small shop. And we have one system. It’s a website that has a couple of backend workers. It has a rich client frontend. Now, I might call that one app. And the thing is I could be using, say Java on the backend, so using Raygun for Java on that. The worker processes might be written in Go. And I would use Raygun for Go. And then Raygun for JS on the frontend. And that’s one bucket. And they’ll all flood in there. And they’re all grouped using their own fingerprinting for the different providers and things like that and you getting a whole picture.
+
+But then, let’s say Charles, you’re a very successful guy. You’ve got this huge software company. And you have one system. Let’s say your software company’s Amazon, right? And you might actually have a whole team of people that just own one tiny piece of the app. Maybe it’s the recommended products. You could make that an app in Raygun itself. So, it really comes down to how you want to configure out how you view your system. And we do have a global dashboard as well where you can pick the various things and combine them together to see a full picture, if you were for example in Amazon and wanted to say, “Hey, show me all of our services altogether. And what’s the overall chart of error rates? Is it going down? Is it going up? We need to know.”
+
+<strong>JAMISON:  </strong>AJ, did you get a chance to ask your question?
+
+<strong>AJ:  </strong>Well, it was more like my comment talking about promises have just been really what’s helped me to conquer errors. And also in development, you can just attach window.alert onto the handler. And when you’re starting to seed out to a couple of people, just make it really annoying so that…
+
+[Chuckles]
+
+<strong>AJ: </strong> With that small test group, everybody knows something went wrong. [Chuckles]
+
+<strong>JOHN:  </strong>Yeah. Kind of reminds me of old-school IE, right? They would actually pop up and be like, “script error.” [Chuckles] And it’s like, well that’s actually kind of good for developers because when it was running on your machine, you pretty much couldn’t deploy with popups appearing. And then the errors got relegated down to a console output and are easy to ignore.
+
+<strong>JAMISON:  </strong>I wanted to ask John. Has creating and running this error tracking service changed the way that you write code in your personal projects?
+
+<strong>JOHN:  </strong>To be honest, the biggest change has probably been that I think a lot more about software performance from the get go now. [Chuckles] So, I used to be very diligent at just, “Hey, what’s the bare minimum that’s needed?” And I was very pragmatic. So, I’m just generally more aware about being slammed with lots of use. In terms of say around structurally and crash reporting, I don’t think it’s changed too much to be honest. It’s probably more a case that I’ve found higher value in things like continuous integration and automated deployment so that when something comes out of an error tracker or something, that I can actually make a fix and ship it out really quickly. That’s probably the big one for me.
+
+<strong>CHUCK:  </strong>Alright. Well, if there are no more questions let’s go ahead and get to the picks. AJ, what are your picks?
+
+<strong>AJ:  </strong>So, I feel like you’re disproportionately calling me first. But maybe that’s because I’d just never prepared and I always feel that way. And maybe… anyway, I don’t have too many…
+
+<strong>JAMISON:  </strong>It’s because he loves you the best.
+
+<strong>AJ:  </strong>I don’t have too many awesome picks today. Well, I guess I do have some awesome picks. But they’re self-picks. I’ve been working on this project called LDS Connect. And if you’re LDS and you know what that means, then this is interesting to you. And otherwise it’s not. But it’s an API around LDS.org so that people could build apps for… in the church we have this things called home teaching where it’s just people checking in on each other and making sure everybody’s okay and that kind of stuff. So, to build apps around some of those organizational issues that we have. And now, that’s open and available. And I’ve talked with some people that actually work at the church that are really excited about it. And we’re hoping to see some collaboration and maybe even merging in some distant future. But that’s up and going. So, if you happen to be LDS and you’re interested in creating apps that work with member data, then check it out.
+
+<strong>CHUCK:  </strong>Alright. Dave, what are your picks?
+
+<strong>DAVE:  </strong>Alright. I have two picks for you today. First one is actually an anti-pick. I just wanted to anti-pick JavaScript promises because they’re so 2014.
+
+[Laughter]
+
+<strong>JOE:  </strong>Very nice.
+
+<strong>DAVE:  </strong>The new hotness that all the cool kids are using is of course async and await, ES6. Anyway, promises are dead, people.
+
+Alright, my next pick is a TED talk. It is a talk about nothing. The speaker spends his entire time talking about absolutely nothing. He even gives facts and figures about nothing. And you will learn nothing from it. And I highly recommend you watch it, because it is very informative. And you can find the link in the show notes. Those are my picks.
+
+<strong>CHUCK:  </strong>Alright. Jamison, what are your picks?
+
+<strong>JAMISON:  </strong>I have only a single, solitary pick today. It’s a soundtrack from a video game that just came out on PS4 and Vita. I don’t have either of those so I can’t play the video game. [Chuckles] But the soundtrack is on Spotify and it’s pretty good. It’s called ‘OlliOlli 2’ and the soundtrack is just good coding music. Just chill electronic music. I think I need to get into a different genre. I’m going to pick heavy metal next week, because every week I pick chill electronic music.
+
+[Chuckles]
+
+<strong>JAMISON:  </strong>It’s all I got in life, though. That’s my pick.
+
+<strong>DAVE:  </strong>Is it Olly as in the skateboarding trick?
+
+<strong>JAMISON:  </strong>Yeah, but it’s spelled incorrectly.
+
+<strong>DAVE:  </strong>How is it spelled?
+
+<strong>JAMISON:  </strong>I will post it.
+
+<strong>DAVE:  </strong>Okay.
+
+<strong>JAMISON: </strong> Instead of say it out loud.
+
+<strong>DAVE:  </strong>Excellent.
+
+<strong>CHUCK:  </strong>Joe, what are your picks?
+
+<strong>JOE:  </strong>I’m going to pick the movie Jurassic Park. We watched it last night with my family. I’ve got teenage girls who’ve never seen Jurassic Park before. And Jurassic World’s coming out. And since I have teenage girls, they have to see everything that Chris Pratt is in.
+
+[Chuckles]
+
+<strong>JOE:  </strong>So, they have to see Jurassic World. And it’s a crime to see Jurassic World without seeing Jurassic Park. And it was just a good movie. It does look a little tiny dated, but good movie.
+
+<strong>DAVE:  </strong>Did Jurassic Park come out before your kids were born? Just say it.
+
+<strong>JOE:  </strong>Actually, I’m not sure. My oldest is 16. So…
+
+<strong>DAVE:  </strong>It did. [Laughs]
+
+<strong>JOE:  </strong>It did. Okay.
+
+<strong>DAVE:  </strong>We’re so old, dude. Old!
+
+<strong>JOE:  </strong>Oh my gosh.
+
+<strong>DAVE:  </strong>We are so old!
+
+[Laughter]
+
+<strong>JOE:  </strong>It’s old. So, that’s going to be my first pick.
+
+And then I’m going to pick ng-vegas of course, because I just love the opportunity to work on this awesome conference in a really cool venue. And the big thing that I think is going to be awesome, or one of the things that could be awesome is John Lindquist is going to do an all-day workshop on Angular 2, which would be super awesome. I hope that I can go and watch because I think that he’s a great teacher.
+
+<strong>DAVE:  </strong>That could be really awesome.
+
+<strong>JOE:  </strong>Even though I’ve been playing around with Angular 2 for a while. But he is a super good teacher. He really is a great instructor. So, I’m excited that we were able to work out a deal to get him down there to teach everybody Angular 2. And those are my picks.
+
+<strong>CHUCK:  </strong>Awesome. I actually had to go look up who Chris Pratt was. But now that I see his face, I know that I’ve seen him in movies.
+
+<strong>JOE:  </strong>Dude, have you not seen Guardians of the Galaxy?
+
+<strong>CHUCK:  </strong>I have seen Guardians of the Galaxy. But I don’t know actors’ names.
+
+[Chuckles]
+
+<strong>JOE:  </strong>Okay.
+
+<strong>CHUCK:  </strong>I don’t care who these people are. Anyway…
+
+<strong>JOE:  </strong>You know that Nathan Fillion was in Guardians of the Galaxy, right?
+
+<strong>CHUCK:  </strong>Okay, I know some of these actors’ names. [Chuckles] Anyway, I’ve got a few picks. My first pick is (I don’t know how to say it) WASD CODE keyboard. I picked it up online and I’m really liking it. I got the, I know people get really curious when you say that they have mechanical key switches in it. So, I have the Cherry MX Clear key switches, if you care. And I’m really liking it. And then I got this…
+
+<strong>JOE:  </strong>None of these are ergonomic.
+
+<strong>CHUCK:  </strong>No.
+
+<strong>JOE:  </strong>Can I unpick your pick, because they’re not ergonomic? Please do not use a non-ergonomic keyboard and destroy your life.
+
+[Laughter]
+
+<strong>JAMISON:  </strong>If you could only see my posture right now, Joe.
+
+<strong>JOE:  </strong>[Laughs]
+
+<strong>JAMISON:  </strong>I’m slouched down in a chair. My neck is probably 90 degrees from my back.
+
+<strong>CHUCK:  </strong>I have an ergonomic chair. Who cares about my hands?
+
+<strong>AJ:  </strong>Exactly. You just need to get the Steelcase’s Leap or the Herman Miller Mirra and then you’re good. And everything else…
+
+<strong>CHUCK:  </strong>I don’t really…
+
+<strong>JOE:  </strong>You don’t need your hands to program. Your back is all you need.
+
+<strong>CHUCK:  </strong>That’s right. I still have ten toes.
+
+<strong>AJ:  </strong>Oh, but here’s the thing, is that when you use vim…
+
+[Laughter]
+
+<strong>AJ:  </strong>And you use one of those pc remap key mod tools, then you don’t need an ergonomic keyboard because every keyboard is ergonomic.
+
+<strong>JOE:  </strong>Let’s see how much we can bogart Chuck’s picks more. [Laughs]
+
+<strong>CHUCK:  </strong>I know. And I’m offended by the vim reference.
+
+So anyway, I also got this really fat wrist pad to go in front of it, because yeah it’s kind of a tall keyboard. So, this leveled it up nicely. And I’m really liking it. It was an $8 foam pad I got off Amazon. I’ll put a link to it in the show notes.
+
+<strong>JOE:  </strong>To go with your $150 keyboard.
+
+<strong>CHUCK:  </strong>That’s right. Because that’s how we roll, right? It’s like having a rusted car right next to a mansion. My father-in-law would do that. Anyway…
+
+<strong>DAVE:  </strong>Dude, keyboards are so 2014.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Also, I want to just thank everybody who backed my Kickstarter campaign. I know there were listeners to this show who went and did it. So, it did fund. I put up some stretch goals, but by the time you hear this it’ll be too late.
+
+And then I’ve got a couple of books that I’ve read or been reading. I’ve recently been reading the book ‘Mastery’ by Robert Greene. And he talks about all of these different aspects of becoming a master at something. And there are lots of stories in there. I’m really enjoying it. I have to tell you that the first probably 30 minutes to 45 minutes (I’m listening to it on Audible) I didn’t really enjoy that. But then I really started to get where he was going with it and enjoyed that. So, I’m going to pick that.
+
+And then I’m also going to pick a book that’s been picked on the show before, and that is ‘Ready Player One’. I’ve really enjoyed it. I listened to it in two days on Audible. And it’s just awesome. So anyway, those are my picks. John, what are your picks?
+
+<strong>JOHN:  </strong>Well, I have a few. Since everybody else has claimed a movie, I thought I would throw out that I recently watched or re-watched the ‘Pirates of Silicon Valley’, if you guys have seen that. That’s a 1999 movie telling the story of Microsoft and Apple in the 80s and 90s. And I actually think it does a better job of telling a fair bit of the Steve Jobs story than that Steve Jobs movie that Ashton Kutcher was in, was it a couple of years ago? So, that’s my random movie pick, going back a little bit.
+
+I don’t have any code-related picks this week. But I would say one thing I’ve just been playing with a little bit at home. My wife bought me this littleBits electronics kit for my birthday recently, which is at LittleBits.cc. And it’s been quite cool. I do a little bit of electronics work at home. And effectively you get these kits and they come with lots of little pieces. And so, they just snap together with magnets. But you’ve got things like servos, buttons, Wi-Fi connection. What else have you got in there? You can get an Arduino one and all that. So, I built a little clapper so I can actually walk in and clap my hands. It hears it and with the cloudBit piece, it actually pings their server and you can hook it up to [inaudible] net. And so, you can trigger all sorts of things around the house. It’s like a relatively inexpensive home automation robotics kit thing. And I’ve been having a bit of fun with that. So, that’s my random pick.
+
+And everybody in our office would pretty much tell you that I shouldn’t give you a music pick because I have horrible taste in music.
+
+[Laughter]
+
+<strong>JAMISON:  </strong>Don’t let anyone tell you that. Music is such a personal thing.
+
+<strong>JOHN:  </strong>[Laughs]
+
+<strong>JAMISON:  </strong>You have great taste in music.
+
+<strong>JOHN:  </strong>[Laughs]
+
+<strong>JAMISON:  </strong>I just might not like it.
+
+<strong>CHUCK:  </strong>I’ll back you up on any country music picks.
+
+<strong>JOHN:  </strong>[Laughs]
+
+<strong>DAVE:  </strong>LittleBits looks really cool. Thanks for telling us about that.
+
+<strong>JOE:  </strong>Yeah, it does. This is actually really super cool.
+
+<strong>JOHN:  </strong>Yeah. I’m thinking my wife’s a keeper. [Chuckles] She must have done her homework to find this. It’s pretty neat and very easy. You don’t need to solder anything or do anything like that. You could probably buy this for kids that are probably 10 and up and have them [give it] [inaudible].
+
+<strong>CHUCK:  </strong>Alright. Well, we’re going to end the show there. Thank you for coming. We’ll wrap things up. We’ll catch you all next week.
+
+<strong><em>[Have you noticed that a lot of developers always land the job they interview for? Are you worried that someone else just landed your dream job? John Sonmez can show you how to do this with the course ‘How to Market Yourself as a Software Developer’. Go to DevCareerBoost.com and sign up using the code JJABBER to get $100 off.]</em></strong>
+
+<strong><em>[This episode is sponsored by React Week. React Week is the first week-long workshop dedicated entirely to learning how to build applications in React.js. Because React is just the V in MVC, you’ll also learn how to build full applications around React with the Flux architecture, React Router, Webpack, and Firebase. Don’t miss this opportunity to learn React.js from Ryan Florence, one of the industry’s leading React developers. If you can’t make it out to Utah they’re also offering a React Week online ticket. Go check it out at ReactWeek.com]</em></strong>
+
+<strong><em>[This episode is sponsored by MadGlory. You’ve been building software for a long time and sometimes it’s get a little overwhelming. Work piles up, hiring sucks, and it’s hard to get projects out the door. Check out MadGlory. They’re a small shop with experience shipping big products. They’re smart, dedicated, will augment your team and work as hard as you do. Find them online at MadGlory.com or on Twitter at MadGlory.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] </em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]</em></strong>
+
+<strong><em>[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/jabber and there you can join discussions with the regular panelists and our guests.]</em></strong>

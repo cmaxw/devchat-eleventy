@@ -1,0 +1,470 @@
+---
+layout: layouts/post.njk
+title: >
+      014 iPhreaks Show – Debugging
+date: 2013-07-25 11:00:00
+episode_number: 014
+duration: 
+audio_url: https://media.devchat.tv/iphreaks/iPhreaks014Debugging.mp3?
+tags: iphreaks
+---
+
+Panel
+
+Pete Hodgson (twitter github blog)
+Rod Schmidt (twitter github infiniteNIL)
+Andrew Madsen (twitter github blog)
+Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:31 - Andrew Madsen Introduction
+
+Mixed...
+
+<h3>Transcript</h3>
+
+<em><strong>[This show is sponsored by The Pragmatic Studio. The Pragmatic Studio has been teaching iOS development since November of 2008. They have a 4-day hands-on course where you'll learn all the tools, APIs, and techniques to build iOS Apps with confidence and understand how all the pieces work together. They have two courses coming up: the first one is in July, from the 22nd - 25th, in Western Virginia, and you can get early registration up through June 21st; you can also sign up for their August course, and that's August 26th - 29th in Denver, Colorado, and you can get early registration through July 26th. If you want a private course for teams of 5 developers or more, you can also sign up on their website at pragmaticstudio.com.]</strong></em>
+
+<strong>CHUCK: </strong>Hey everybody and welcome to Episode 14 of iPhreaks! This week on our panel, we have Pete Hodgson.
+
+<strong>PETE: </strong>Good morning from overcast San Francisco!
+
+<strong>CHUCK: </strong>Rod Schmidt.
+
+<strong>ROD: </strong>Hello from Salt Lake City!
+
+<strong>CHUCK: </strong>We also have Andrew Madsen filling in for us.
+
+<strong>ANDREW: </strong>Happy to be here! I'm also in Salt Lake City.
+
+<strong>CHUCK: </strong>And I'm Charles Max Wood from DevChat.tv. Is it overcast out there guys?
+
+<strong>ROD: </strong>Yeah, a little bit.
+
+<strong>ANDREW: </strong>I'm in a basement so I can't tell.
+
+<strong>PETE: </strong>[Laughs] It's very overcast.
+
+<strong>CHUCK: </strong>It's been blowing in stormy weather for a while, but it kind of clears up for a little bit and then...Anyway, nobody wants to hear about the weather.
+
+[Laughter]
+
+<strong>CHUCK: </strong>Andrew, do you want to introduce yourself really quickly before we get started?
+
+<strong>ANDREW: </strong>Sure! I'm Andrew Madsen, I'm a Mac and iOS developer here in Salt Lake. I work on music software for Mixed In Key, and various things on my own, and for contract clients. I've been doing this for 8 years or something and still gets me excited every day, and I love my work!
+
+<strong>CHUCK: </strong>Awesome. Alright, this week, we're going to be talking about "Debugging Applications". I'm really curious to see how this goes. I haven't gotten far enough to have to debug any of my iOS apps yet. I'm a little bit curious mainly because the applications are compiled and then sent over. And then on the device, there's not really a debug mode so I'm a little curious to see what you guys come up with this as far as finding bugs and fixing them.
+
+<strong>PETE: </strong>What do you mean by 'debug mode'?
+
+<strong>CHUCK: </strong>I do most of my development in Ruby and I can kind of build the feedback right into the application especially in a web app; I just put it out to the log or print it to the screen or something. If it's running on an iOS device, you don't always have that option do you?
+
+<strong>ROD: </strong>You're talking about after you've already deployed the app and some user has downloaded it and is running with it?
+
+<strong>CHUCK: </strong>Right.
+
+<strong>ROD: </strong>Okay.
+
+<strong>PETE: </strong>You kind of do I think, I mean you can get to their logs. So if you use NSLog or whatever to log to whatever you want to log whatever messages you want to log to. You can --
+
+<strong>CHUCK: </strong>Do you log those locally, or to third-party servers?
+
+<strong>PETE: </strong>Well, that's a good question. Actually, I guess in theory, you can log into third-party servers, but I've never thought of how to do that.
+
+<strong>ANDREW: </strong>I have done that; TestFlight and probably other similar services. TestFlight is a beta distribution, but also analytics service and SDK that will allow you to redirect specific log messages or even just all of your NSLog messages to their service and then you can see those coming in from all users.
+
+<strong>ROD: </strong>Typically, you won't see NSLog messages unless you can get the user to upload their device log or something.
+
+<strong>PETE: </strong>Oh, this is cool! So I guess with TestFlight, you just use TFLog instead of NSLog and it magically appears!
+
+<strong>ROD and</strong> <strong>ANDREW: </strong>Right.
+
+<strong>PETE: </strong>Sweet! Does that only work for your beta users? Or, can you just turn that on for every user?
+
+<strong>ANDREW: </strong>You can turn on their whole analytics package for every user now.
+
+<strong>PETE: </strong>Oh!
+
+<strong>CHUCK: </strong>That's nice! So then it just pushes all of the logging out to their service and then you can browse through it?
+
+<strong>ANDREW: </strong>Right. Assuming that users have good network connections, of course, it's still a web service.
+
+<strong>CHUCK: </strong>So it doesn't buffer them up and then send them out when it can?
+
+<strong>ANDREW: </strong>I couldn't tell you for sure about that. It does, but I'm not sure if it will do it between whole app launches.
+
+<strong>CHUCK: </strong>Oh, okay.
+
+<strong>ANDREW: </strong>You know what I mean?
+
+<strong>CHUCK: </strong>That's interesting. So if they've been logging stuff through NSLog, then there's not really a terrific way of getting that information?
+
+<strong>ANDREW: </strong>Other than asking the user to go somewhere in the settings on an iOS device, there's a place where you can actually see diagnostic information including logs and send those, but you can also download an iPhone configuration utility from Apple and get them off that way. But it turns out that that's pretty hard for the average user; they end up sending them to the technical instructions and its success rate is quite low. We've actually had a problem in one of our apps recently that a significant number of users have seen, but we've been unable to reproduce so we've been trying to get logs. It really seems only about 1 in 20 users who report a problem -- they report a problem, we asked for a log -- only around 1 in 20 of them actually get back to us with a log because they don't want to spend the time to go through the process.
+
+<strong>CHUCK: </strong>Uhm-hmm.
+
+<strong>ANDREW: </strong>So it is a real problem.
+
+<strong>CHUCK: </strong>Now, the other question I have is, if they are logging to a third-party service, do they log it with like a device idea of some kind?
+
+<strong>ANDREW: </strong>No. With TestFlight, and I suppose this is true now for all of the sorts of services, they're not tied to a particular device. TestFlight gives you account of the number of long sessions that you've used and you can look at information for a single session, but you have no way of tying that back to a specific user. This is good for aggregate data. If you see the same kind of error being bugged lots of times by lots of different people, then it indicates you got it probably out there. But it's not so good for tying a log to a specific user's report.
+
+<strong>PETE: </strong>So could you probably could kind of hack that in by when the app starts up link? The first time it ever starts up, it makes up a unique ID, invites it somewhere, and then every time it starts the session, it logs it and then you could kind of reverse engineer it back into a unique installation at least if you needed to.
+
+<strong>ANDREW: </strong>Sure!
+
+<strong>CHUCK: </strong>Yeah. Because what I'm thinking is not necessarily that you go and knock on somebody's door and say, "Can I borrow your phone because I know you're having problems?" [Pete chuckles] <strong>CHUCK: </strong>I'm thinking more along the lines of, "They did this and they did that then they did this," so I can see how they flow through things if I'm logging enough information.
+
+<strong>PETE: </strong>TestFlight will do that with sessions. So the usage session is all kind of clubbed together --
+
+<strong>CHUCK: </strong>Oh, there we go...
+
+<strong>PETE: </strong>Which is why I wouldn't do it across like restarts of the application, I guess.
+
+<strong>CHUCK: </strong>Okay!
+
+<strong>ROD: </strong>If you want information about the device, they typically log the device OS and what type it is, whether it's a 4S or 5, an iPad, things like that.
+
+<strong>PETE: </strong>I'm guessing that can be really helpful if you got this kind of narrowed down like, "What's going on with this bug?" if it's only happening on like troller iPhone or it's only happening with a certain version of iOS itself. That's going to really help you if you're reproducing your problem, right?
+
+<strong>ROD: </strong>Right. But what's really useful is Crash Reports. So logging is kind of a second line of defense of finding a problem, but service like Crashlytics -- Does TestFlight do crash reports, Andrew?
+
+<strong>ANDREW: </strong>Yes, it does.
+
+<strong>ROD: </strong>So when a crash does occur around with some device, it'll get logged up to the surface service and then you can look at the crash report, and it's symbolicated for you and everything, so it's really nice.
+
+<strong>CHUCK: </strong>That's really cool! So what kind of information do you get from the crash report?
+
+<strong>ANDREW: </strong>Tons of crash report!
+
+[Chuck laughs]
+
+<strong>ROD: </strong>Yeah.
+
+<strong>CHUCK: </strong>Thanks!
+
+[Laughs]
+
+<strong>ROD: </strong>You get the device, the OS, you get the stack trace, all kinds of stuff that are really low-level, too, if you really need to go down at that level; I tried to avoid that one possible, like registers and just about everything.
+
+<strong>ANDREW: </strong>I think the most valuable thing for the average developer is the stack trace. That shows you the current state of the program's execution, what methods were being run, and essentially, when the crash occurred.
+
+<strong>CHUCK: </strong>Does it give you parameters for each method or function call?
+
+<strong>ANDREW: </strong>No.
+
+<strong>CHUCK: </strong>So it just tells you what you see in any other crash or any other stack trace?
+
+<strong>ANDREW: </strong>Right.
+
+<strong>CHUCK: </strong>Called this...Called this...Called this...Crash here.
+
+<strong>ROD: </strong>I think if you really know what you're doing, you can look at the registers and find that out.
+
+<strong>CHUCK: </strong>Okay.
+
+<strong>ANDREW: </strong>Yeah, I think Rod is right. But I would guess 99% with iOS developers don't know what they're doing at that level [laughs] and I include myself at that.
+
+<strong>ROD: </strong>Me too! And there's information on the net somewhere who haven't do it.
+
+<strong>CHUCK: </strong>So if somebody reports a bug, what's kind of the process you go through in identifying it and fixing it?
+
+<strong>ROD: </strong>Not very many people report bugs. So crash reports are pretty important in finding problems for your app. Every time you get a crash, Crashlytics for example will tell you about it, send you an email, and then you can investigate and fix it.
+
+<strong>ANDREW: </strong>But to your question more specifically, assuming you do get a report from an actual user, the first thing to do is to ask them to describe what they were doing when the app crash or when the bug showed up (not always crash). And with any walk, if you're walkie (a lot of times, you're not), you can follow those same steps and reproduce the bug yourself. Once you're at that point of period but to reproduce the bug yourself, you're in good shape because a bug you can reproduce is one you can fix. If not, then you have to try to gather more information including things we've talked about like console logs and crash report, if it's a crash. There are certain other kinds of bugs that you can't really get that kind of information for it, and it really ends up just being you either have to reproduce it yourself or you need to get enough information from them that you can get a hunch and then try something and send them, open on your beta test list, and send them and you both to try kind of thing.
+
+<strong>CHUCK: </strong>Yeah, that makes sense.
+
+<strong>ANDREW: </strong>So the most difficult bugs were ones where you never can reproduce them, so your only option is to make changes, send them to the user, have them test those changes. And then eventually, hopefully, get the bug fixed. But, those fall from ideal.
+
+<strong>CHUCK: </strong>Yeah, that makes sense. I work tech support; in fact, I ran tech support for 2 years for a startup back here. It wasn't iOS apps, but the same kind of thing, right? It is trying to get people to give you information off of their machine over the phone or in an email, and yeah, it's really, really hard. One of the most helpful things that we did on some of those is that we named some of the more common errors so when it came up, they could at least say, "Well, I'm getting this error," and then we knew what it meant because we knew what sorts of things -- it identify to specific symptom, and then we could go from there and say what would cause that kind of a symptom. What about in your development environment, what kind of debugging tools do you have there?
+
+<strong>ROD: </strong>Well, mostly we just use the Xcode Debugger.
+
+<strong>CHUCK: </strong>Right. And you can put breakpoints in and things like that?
+
+<strong>ROD: </strong>Right. You can put breakpoints, you can also -- instead of having it stop at the breakpoint -- you can have it execute an action and keep going like logging or playing a sound. I think we may have talked about that in the previous episode.
+
+<strong>PETE: </strong>Yeah, I think I remember Saul was saying -- it was Saul Mora who was saying he has that kind of setup so that it'll kind of squawk every time it makes a network request or something like that.
+
+<strong>ROD: </strong>Right.
+
+<strong>PETE: </strong>Oh no, every time it wrote to Core Data so he could track how chatty it was. Maybe I'm the mentioning; maybe that's what I was thinking would be cool to do rather than what he said he said. I can't remember them [chuckles].
+
+[Chuck laughs]
+
+<strong>PETE: </strong>Yeah, and you can do like conditional breakpoints. Chuck, if you're kind of coming from a Ruby world, it's very, very powerful compared to what you can do of Ruby.
+
+<strong>CHUCK: </strong>Yeah.
+
+<strong>ROD: </strong>And watch you 30 years.
+
+<strong>PETE: </strong>Yeah. You can say, "Break every 100 times for this loop," or "Break once the counter hits a certain value." Or you can say, "Break when this value is re-assigned." For example, if something's going wrong and you think the start of things is going wrong (it's when a variable is assigned a value), then you can say, "Break when this variable is assigned a value, or re-assigned a value." So it's really, really powerful.
+
+<strong>CHUCK: </strong>Right. And then it just runs it in the emulator and --
+
+<strong>PETE: </strong>On the device as well.
+
+<strong>CHUCK: </strong>Oh! That's right. I have done that.
+
+<strong>ANDREW: </strong>Yeah, debugging on device is really just the same as that in the simulator, and it has full feature as you would expect from a modern compiled language debugger.
+
+<strong>CHUCK: </strong>Do you ever find that there are discrepancies between what runs in the simulator and what runs on the actual device?
+
+<strong>ANDREW: </strong>Well, typically, no. But there are actually some, at least, a couple of APIs that are not available in the simulator. One in particular is if you access the music library on the device, sometimes it's called the ARC hub library, that API is just not available if you're running in the simulator. So if your app depends on that, or a feature in your app depends on that, it simply won't work in the simulator and you have to debug on device. Other things that are, of course, device-dependent are anything that uses specific hardware on the iPhone like camera or gyroscope or accelerometer and that kind of thing because they just clearly don't exist in the simulator. You can simulate some of those things, or you can turn the simulator to deal with rotation, but --
+
+<strong>PETE: </strong>But cramping is also will not work. I discovered this recently when I wanted to do something with backgrounding and the process just stops; it's totally paused as soon as you put it in the background even though it should keep running if you're developing a Voice over IP app or something like that. As far as I can tell, there's no way to have it run in the background in the simulator, which is quite frustrating.
+
+<strong>ANDREW: </strong>Interesting. I haven't run and developed it myself. To be honest, I mostly have done development on device because of those limitations I've just talked about.
+
+<strong>PETE: </strong>Right. Yeah. This isn't really related to debugging, but there's some difference in things like Safari. I believe, it might have changed, but I believe in the simulator, when you're using Safari, you're essentially using the desktop Safari - your desktop WebKit; when you're running it on the device, you're using Mobile Safari. So if you're doing web development and you're testing it in the simulator, you might have different things happen than if you're using it on device. That's pretty rare; there's only a few edge cases where that's the case that I found.
+
+<strong>ANDREW: </strong>I think that's an interesting point because the simulator is not an emulator. And by that, it is not emulating an ARM CPU and it's not emulating the entire device. In fact, it's actually, you're running your app on your Mac datably. So when you compile an app in the simulator, it's compiled for xab 6. That also means, of course, that an app might run much faster in the simulator than on your device because the CPU is running on; it's like it'll be much faster.
+
+<strong>PETE: </strong>The biggest thing there is the memory warnings if you're only developing on your device. If you're only developing in the simulator, then you're basically running an iPhone with like 4GB of RAM or 16GB of RAM or something because that's what your computer has. But then if you switched to running it on like an old iPad, on the device, you suddenly going to get a bunch of memory warnings that you haven't been experiencing when you're running it on the simulator.
+
+<strong>ANDREW: </strong>And it's also, for just rock performance like if you're dealing with animations or scrolling performance, the simulator is not the place to test and optimize that stuff.
+
+<strong>ROD: </strong>You can simulate out of memory conditions. Like on the menu of the simulator, there's a command that says, "Simulate low memory condition," or something like that.
+
+<strong>PETE: </strong>Yeah.
+
+<strong>ROD: </strong>Then there's also simulate that you're on a call, so it helps with those things.
+
+<strong>PETE: </strong>I guess that stuff is actually more convenient on the simulator than the real device. Like if you want to simulate being on a call, you don't actually have to literally terrifying yourself. [Laughter]
+
+<strong>ROD: </strong>Right. And same thing with Core Location; I think that's an Xcode. You can actually tell it to say, "I'm going to simulate it so that I'm at this location."
+
+<strong>ANDREW: </strong>Yeah.
+
+<strong>PETE: </strong>It'll actually simulate driving now.
+
+<strong>ROD: </strong>Right.
+
+<strong>PETE: </strong>So you can actually say, "Simulate, I'm driving around this path," so you can test your turn-by-turn app that you're developing, or something like that.
+
+<strong>CHUCK: </strong>We all need another turn-by-turn app.
+
+<strong>PETE: </strong>I want a turn-by-turn app for dogs.
+
+[Laughter]
+
+<strong>CHUCK: </strong>Oh, wouldn't that be nice?
+
+<strong>PETE: </strong>Yup! <strong>ROD: </strong>Is that so your dog can find its way around? Or, so you can find your dog?
+
+<strong>PETE: </strong>So I can find my dog. I don't know. I just like coming out with ideas...for dogs.
+
+[Laughter]
+
+<strong>PETE: </strong>Or...for the enterprise.
+
+<strong>CHUCK: </strong>Is that remote control dog?
+
+<strong>PETE: </strong>Yeah, for the enterprise [laughs].
+
+<strong>CHUCK: </strong>Oh, there we go.
+
+<strong>PETE: </strong>So we almost kind of touched on this a little bit when we're talking about measuring performance. So Instruments is this thing that lets you kind of measure loads of different characteristics of your application or of the whole system as it's running. One of the really cool things it does is to help you measure what your graphics are doing in terms of whether you're rendering things out and whether you're rendering them on the processor, on the CPU or the GPU. So it has this really nice kind of visual cues so you can turn on this mode in Instruments where it will highlight with different colors areas of the UI that are doing kind of naughty things that are going to affect your frame rate. I found that incredibly useful when trying to figure out why like his scroll isn't scrolling at the right rate or at a good frames per second. And you can also just turn on the graph that measures the frames per second. That's normally like, if I'm debugging a performance issue, I will turn on that graph and watch the frames per second, and then just kind of [inaudible] around the app on the device. Normally, I'll try and find the oldest, crappiest device that it supported because that's the one where you're going to see these issues, and then watch for those frames per second to drop down. That's an issue that they've identified somewhere where this are rendering issue. And then you can kind of start turning on all of these fancy highlighting features to figure out why the frames per second don't load like, "Maybe I'm doing or rendering on the CPU rather than the GPU," or maybe, I don't know, some other issues. That should be useful.
+
+<strong>ANDREW: </strong>Yeah, I think Instruments is one of the most useful and sort of powerful tools we have in our toolbox as iOS developers. Besides what Pete has described, it can help you with all kinds of issues including CPU-bound performance problems, memory problems, where you send a message or something that has been deallocated memory weaks, that kind of thing.
+
+<strong>ROD:</strong> Zombies.
+
+<strong>ANDREW: </strong>Yeah, Zombies is what the tool for finding over releases, where if an object has been deallocated, and then you still try to use it. And the icons, it's pretty funny - cube with some of it has kind of like rotten-green looking...
+
+[Laughter]
+
+<strong>ANDREW: </strong>So if you're not using Instruments to find problems and to fix them, you should be. It's a very powerful tool.
+
+<strong>ROD: </strong>There's some other techniques that you can use to find bugs. There's this before deployment, and that's Asserts. Asserts can help you find places where you're passing bad parameters or some assumption you've made as erroneous. This were popularized by the Eiffel language where you can have pre-conditions and post conditions in variance. So before a method or at the start of a method, you can assert all your parameters, make sure they're correct; those would be your pre-conditions. And then at the end of your method, you can assert the post conditions; what should be true when the method is leaving. And then in Loops, you can assert things that should always be true while the loop is executing. So those can find a lot of bugs, too.
+
+<strong>ANDREW: </strong>I don't know if this is premature, but Rod told me to have a pick ready, and my pick is about Asserts.
+
+<strong>ROD: </strong>You can wait save that for later.
+
+<strong>ANDREW: </strong>Okay. [Chuck laughs]
+
+<strong>PETE: </strong>[Sings] Dab-dab-dam...
+
+[Laughter]
+
+<strong>CHUCK: </strong>Give him more shadowing.
+
+[Laughter]
+
+<strong>PETE: </strong>That's awesome. I love the Eiffel reference, Rod. Now, he's the only person that was Eiffel fanboy.
+
+<strong>ROD: </strong>[Laughs] I never got to use the Eiffel, but it had some good ideas.
+
+<strong>PETE: </strong>I applied to work at whatever that company was that made Eiffel because I was so in love with that. There was one when I was in college, I read [inaudible] designed by contract stuff and I was like secretly into it. I never got to work that, I think they're still around. [Rod laughs]
+
+<strong>PETE: </strong>[Laughs] Anyway, that's nothing to do with debugging iOS applications.
+
+<strong>CHUCK: </strong>[Laughs] So is there a way of debugging or capturing input from your users?
+
+<strong>PETE: </strong>You could use, unless it's packaged in that way, I suppose there's analytics packages that will let you kind of Instrument your applications so you can see people on the screen and how often do they tap on this button. And when they tap on this button, how often do they go to the next stage in the flow or something. So it kind of the same way as you do web analytics to figure out how people are using your web app; you can do the same thing for your iOS apps. So I guess you could maybe use that same functionality to figure out, "This person got free steps, free to flow and then crashed." I don't know if there's a better way of doing that.
+
+<strong>ROD: </strong>Instruments also has UIAutomation so you can kind of script a UI actions; I can test it that way.
+
+<strong>PETE: </strong>Yeah, which is really nice if going back to performance, which is why it's built into instruments, I suspect. If you want to measure the performance in a consistent way, then that's what you do.
+
+<strong>CHUCK: </strong>The other question I guess I have is, a lot of times, the tricky places to debug things are along Boundaries. For example, if you're passing information over to another app to do something, or if you're interfacing with an online backend system or some kind of online persistence or synchronization, are there good techniques for debugging those?
+
+<strong>ROD: </strong>One thing, like say your app is going to get called by another app, be a URL scheme or something, you can tell Xcode (the debugger), "Don't start the debugger until my app is launched," instead of launching it right away.
+
+<strong>CHUCK: </strong>Uhm-hmm.
+
+<strong>ROD: </strong>They can help in that situation.
+
+<strong>ANDREW: </strong>I think the problem you bring up can be pretty tough so I mentioned earlier the problem that we've had at work with iOS app that there are significant number of users that have seen the problem, but we can't reproduce it. Well, it turns out the back problem we're just talking about is really to Facebook sharing. And that's that we can tell; it affects certain Facebook users. Since we are not affected Facebook, it's very hard for us to reproduce, and we also can't go into Facebook and look at their error logs or debug information there. So it sort of reduced to doing debugging by making changes and hoping they have an effect and then testing them out; it's pretty tough. So I don't really know the ways for that kind of a problem; I don't know of a better option.
+
+<strong>ROD: </strong>You could try writing a proxy for Facebook or something, but that might not get you anywhere [chuckles].
+
+<strong>ANDREW: </strong>Yeah. Might be pretty tough.
+
+[Chuck laughs]
+
+<strong>ROD: </strong>Yeah.
+
+<strong>ANDREW: </strong>And it would have to be so close that it would also limit the error.
+
+[Crosstalk]
+
+<strong>PETE: </strong>There's this thing called "Runscope" that's kind of like a proxy where you could just push all the traffic through your Runscope and then it's going to show you the exact traffic going back and forth.
+
+<strong>ANDREW: </strong>Well, that's interesting. This problem seems to be a problem where we do the exact same thing for 2 different users in the Facebook web service returns and error for one of them, not for the other.
+
+<strong>ROD: </strong>Yeah. And there's also the "Charles" that Ben talked about.
+
+<strong>PETE: </strong>Yeah!
+
+<strong>ROD: </strong>I think last week around his podcast or his screencast...
+
+<strong>CHUCK: </strong>Yeah.
+
+<strong>PETE: </strong>Runscope is kind of like Charles in the cloud basically. It's kind of funny, I tweeted the other day, "Someone should make Charles in the cloud as a service," and this Runscope guy has tweeted me back and said, "We did!"
+
+[Laughter]
+
+<strong>CHUCK: </strong>Yeah, I've used Charles in the past and it's pretty handy. I've used for web stuff, I've also used it to spy on apps that I'm running on my Mac to see what they're calling out with. That's always interesting.
+
+<strong>ANDREW: </strong>And there's another app called "Little Snitch", it's I think the sort of popped all the way to do that on the Mac. But I know people that run that all the time to monitor outgoing network connections for things they don't want. You can block them, too.
+
+<strong>CHUCK: </strong>Yeah, and you can use it to check up on things if you're running things through your machine. But from the actual iOS device, I just don't know if there's a terrific way of doing that outside of using something like Runscope or something to see what it's calling back, where it's calling back to them, what it's sending back.
+
+<strong>ANDREW: </strong>Right. Yeah, it's not something. I've done some really wobble ethernet TCP/IP, well actually UDP development, and you can use a program called "Wireshark". But that shows you the binary data that's going out over the ethernet port or to network port. I've actually done that for iOS; you have to route your traffic through your Mac or something, some machine running Wireshark, to see everything that's going to and from.
+
+<strong>CHUCK: </strong>Yup, it's a cool program. Though I'm trying to remember, Ethereal, I think is what it was called before, way long time ago.
+
+<strong>ANDREW: </strong>Yeah, I think you're right.
+
+<strong>CHUCK: </strong>And then it became Wireshark. I used it quite a bit when I was a sys admin to try and figure out what some of the stuff that was going across the network was. Anyway, those are all good resources for that. You can see what's going through. You can also, if you control the backend, a lot of times, you can look through the logs there and see what's being pushed in and where the problems are, what it's sending back through similar logging methods there, which is also pretty nice. And then I have to say that I'm much more specialized on the backend than on the frontend hand-in-hand. If you need a developer that does that, I'm for hire. But yeah, it's really interesting to see where this breaks down and where some of the disconnects are between what you expect and what you actually get.
+
+<strong>ANDREW: </strong>I think it's important to keep in mind that Apple is not really a web company; they make devices and software that runs natively on those devices. You can sort of see that in some of their tools, but tools are not geared toward debugging web integrations so much as the app running on device, which you expect. But sometimes, it would be nice to have some of those tools built in. I think iCloud is actually a good example of that because that is an Apple web service. Well, they've improved a little bit; it's mostly pretty much completely opaque and you just can't debug it at all! If it just works or it doesn't, then it's pretty much out of your hand.
+
+<strong>CHUCK: </strong>Yeah, it's the same with the push notification service that they have.
+
+<strong>ANDREW: </strong>Right.
+
+<strong>ROD: </strong>Yeah.
+
+<strong>CHUCK: </strong>It is, "You do things this way," and then blackbox, it just works. Or, it doesn't. Alright, well, are there any other debugging techniques that you guys use?
+
+<strong>ROD: </strong>Occasionally, if you try to narrow down a bug, you're coming out some code and see how it affects things, then try to narrow it down to the method of the line that's causing the exact problem.
+
+<strong>CHUCK: </strong>There's also the technique of actually printing something to the screen as it moves through. Of course, your breakpoints will give you that.
+
+<strong>ANDREW: </strong>I haven't thought, which was I was at WWDC last month, and I had a problem that I was having actually with the Mac app. I went in the labs to talk to one of the Apple engineers about this problem I was having, and it turned out, this problem is with NSTableView. The engineer that I've got, he was the guy who wrote NSTableView, and it was sort of amazing to see him sit down and within 30 seconds, he had found and fixed my problem. He used the debugger so much more quickly than I can use it, partly of course, that was because he knows the code intimately. But also, just his ability to use the debugger was impressive. One thing I've noticed, instead of using the GUI for the Xcode debugger, he did almost everything using the command-line interface. So Xcode actually gives you a command-line interface to the debugger, which internally is LLDB now (it used to be GDB). I think that's something that can be valuable. If you actually learn how to use the command-line interface for the debugger, there's a lot of functionality there that's either easier to use or not available at all in the GUI, and you can take advantage of that; some of it is very powerful.
+
+<strong>ROD: </strong>And you can use those commands in the Xcode console, too, right?
+
+<strong>ANDREW: </strong>Well, yeah, that's what I mean. He was in Xcode, but he was just using the Xcode console. It gives you a command-line interface to the debugger while you're running.
+
+<strong>PETE: </strong>I've used that a lot to just downpath like the result of an expression. So if you say, p space and then the expression, it will evaluate it there and then.
+
+[Crosstalk]
+
+<strong>ANDREW: </strong>Yeah, PPPoE is an option.
+
+<strong>ROD: </strong>I use that all the time.
+
+<strong>ANDREW: </strong>I use that, too.
+
+<strong>PETE: </strong>I think it's kind of funny because I think that was everyone, or a lot of people, that's like the one bit of the command-line LLDB that we know.
+
+[Andrew laughs]
+
+<strong>PETE: </strong>And then after that, it's your business incredible arcane black ARC.
+
+<strong>ANDREW</strong> and <strong>ROD: </strong>Right.
+
+<strong>ANDREW: </strong>So he was using it for everything. He was setting breakpoint, symbolic breakpoints that way, and printing out stack traces and all that. I just found it interesting that he was so fast; I've never seen more productive that way.
+
+<strong>PETE: </strong>That's awesome.
+
+<strong>ANDREW: </strong>I think, it could be beneficial to learn some of that. Another thing I know about LLDB in particular is that it has a full Python interpreter and a Python API. So you can actually write Python scripts to extend the functionality of the debugger, and you can tell it to run a Python script when you'd hit a breakpoint or some similar thing like that. I actually saw Mark Dalrymple talked at our CocoaHeads meeting I think a couple of years ago, but he had a function that would print. When a breakpoint was hit, it will actually look up the stack trace and look for specific method in the stack trace above the method that was the breakpoint was in. And if that method was not there, it would continue instead of breaking. So it gave him this powerful way to break in a particular method, but only if it was being called from specific other method, and not in any other case. But it was just an example of powerful things you can do if you understand LLDB at a lower level than I think most of us do.
+
+<strong>CHUCK: </strong>Wait a minute...
+
+<strong>PETE: </strong>That's a great example.
+
+<strong>CHUCK: </strong>So you're saying that the debugger is just code?
+
+<strong>ANDREW: </strong>Well, the debugger is a program.
+
+<strong>CHUCK: </strong>I know. I'm just -- that's kind of what I'm trying to say.
+
+<strong>ANDREW: </strong>Yeah. So it has a Python interpreter and the Python API built-in so you can extend, you can write extensions to the debugger in Python, not in some other language. But that can be really powerful. I think it's something very few people are really using.
+
+<strong>ROD: </strong>So there are really useful stuff in Python?
+
+[Pete laughs]
+
+<strong>ANDREW: </strong>[Inaudible]
+
+[Laughter]
+
+<strong>CHUCK: </strong>I didn't say it folks!
+
+[Laughter]
+
+<strong>PETE: </strong>I think there is of the two things that I wish I was better at and kind of I'm sad that I'm not is that all of that command-line debugging stuff, the LLDB and using Python and then DTrace as well, is this other incredibly powerful tool for debugging. I think it's what Instruments is build on top of. But again, it's another one of those like arcane black arts where you used to see someone who's powerful in it and that they do look like they're literally performing magic, but I have no idea how to do it. So DTrace you can say, you could measure every single time a method is called. I can't even think of good examples because it's too magical to my brain to get its set around.
+
+<strong>ANDREW: </strong>Well, we had a problem where an app was rejected from the App Store (it's actually a Mac app again), but rejected from the Mac App Store for opening a file in Rewrite mode that it should have only been opening in Read-Only mode. We had no idea! We weren't doing anything in particular. We were using some higher level of API, some Objective-C API to open this file, and we were not writing to it, but it turned out, it was being opened in Rewrite mode. I used DTrace to find that, so DTrace was able to show me files as they were being opened, the permissions they were being opened with, etcetera. But again, I don't know how to use that. I found somebody else on a blog post that was talking about debugging that exact kind of issue, and they had instructions to use DTrace on the command-line to figure it out. I mainly wish that I knew how to do that.
+
+<strong>PETE: </strong>And Chuck, since you're a Ruby fanboy, Ruby 2.0 is now Instrument to the DTrace so you get some of that; it could be in Ruby nowadays.
+
+<strong>CHUCK: </strong>Yeah, I've heard a few people talking about it. I need to check it out! Alright, well, let's do the picks then. Pete, why don't you start this off?
+
+<strong>PETE: </strong>My first pick, a late entry, is a blog series called "Hooked on DTrace". Since we are just talking about this like, "Oh, I think I've read a blog series about that!" It's from the wonderful smart people at BigNerd Ranch. It's fairly recent. It was February of this year, so I think it's pretty current. I started reading for this -- I'll be honest, there's like 4 parts to this series, I didn't get all the way through -- but it seems like a good place to get started. At least, it gives you some, if nothing else, it gives you some sense of kind of the power of DTrace, maybe will motivate you to learn more. My second pick is the great state of "Colorado". I was in Colorado for a conference then I went backpacking in Colorado Rocky Mountain National Park, in Colorado after that, and it was awesome! Super fun. Really nice place, nice people. So yeah, I like Colorado. It was awesome. And then my third pick, which is kind of random, is a book called "Presentation Patterns" and it's from a guy called Neal Ford, who is a ThoughtWorker and then also a guy from GitHub, and a third-person who I can't remember. It's a book about how to do good presentations, not just kind of visually, but the whole art of giving a good technical presentation. It's supposed to be about presentations in general, but it's definitely geared towards more technical things. It's written in pattern forms so it kind of like design patterns or implementation patterns that kind of the idea of building a pattern language around presentations. I found that really, really useful for me. If you're interested in doing presentations, I highly recommend it. It's very kind of like, because it's in pattern form, there's lots of [inaudible] little chapters that you can read in 5 minutes and just kind of work your way for you quite quickly. There's loads in those of really good ideas. So yeah, that's my third pick - Presentation Patterns. That's all I've got today.
+
+<strong>CHUCK: </strong>Alright. Rod, what are your picks?
+
+<strong>ROD: </strong>First off, I'll do "CocoaLumberjack". It's a logging tool similar to Log4J that makes your logs easier to read, you can color them and filter out certain things based on debugging level, and all that kind of stuff. So if using logs, that will be very useful. And then a couple of books that talked about writing bug for your code that I've latched down to a long a time ago when I started my career. One of them is "No Bugs!" by David Thielen. It talks about using a Debugger and Asserts and all that. And also, "Writing Solid Code" by Steve Macguire, all enough both written by Microsoft employees. My final pick would be the "Major League Baseball at Bat" app because it let me watch the whole under when ESPN app wouldn't. That's it!
+
+<strong>CHUCK: </strong>Nice. Andrew, what are your picks?
+
+<strong>ANDREW: </strong>I only have one pick and my pick is this previously mentioned "Asserts" blog post by Mike Ash. Mike Ash has a blog called NSBlog that it's about Mac and iOS programming and it's very technical, and that's what I like about it. He goes into very well of details, sometimes, assembly about iOS and Mac development topics. But back in May, he did a post about Asserts and the proper use of them. This is something we serve and discussing internally at work, and I think it's valuable that he talks about when an Assert does, what it's good for, when you should use it, when you should use them, when you should not use them. Pretty valuable stuff.
+
+<strong>CHUCK: </strong>Awesome. Alright, well, I've got a couple of picks. I'm going to be going to the Mountain West Ruby Conference. Or not Mountain West, LoneStar Ruby Conference. And then I'm also going to be doing a retreat with the guys from Ruby Rogues. A couple of things that have really paid off for us, first off for travel, I usually fly Delta and I have a Delta Skymiles card. The thing that I really like about all of that is that I can use the Delta App to check into the flight, do all that stuff. It just makes my life a whole lot easier so I'm going to pick the "Delta App". The other thing is this, we looked at a couple of like AirBnB to find our house. And we're staying in a house in Austin for the 3-days with the Rogues guys, so I'm going to pick them as well - "airbnb.com". Just as a great way of finding a good place to stay while you're at a conferences. The other pick that I have is "IRC Chat". Most of the conferences I attend have a back channel IRC Chat discussion, so I really enjoyed that. And I use an app called "Colloquy" to do my IRC stuff. I'll put links to all of that in the show notes. Those are my picks! We'll wrap up the show, I guess.
+
+<strong>PETE: </strong>Can I have a late breaking pick?
+
+<strong>CHUCK: </strong>Go ahead!
+
+<strong>PETE: </strong>I'm going to just throw this into since we were talking about it very briefly. There's a book called "Object-Oriented Software Construction".
+
+<strong>ROD: </strong>Yeah.
+
+<strong>PETE: </strong>Which is written by the Eiffel guys. They talked about this concept of not just talking about of design by contracts so Asserting pre-conditions, post conditions, and in variance. The book is old and crafty, but there are concepts in there that super duper awesome. So I recommend it if you're looking for like an old software book that will probably make you think about the way you do modern software differently than what you're trying at software construction. It's a good place to start.
+
+<strong>ROD: </strong>I've been meaning to read that book; just I haven't gotten to it.
+
+<strong>PETE: </strong>It's a big one.
+
+<strong>ROD: </strong>Yeah.
+
+<strong>PETE: </strong>It's awesome, though.
+
+<strong>CHUCK: </strong>Alright! Well, thanks guys! We'll wrap the show up. We'll catch you all next week!

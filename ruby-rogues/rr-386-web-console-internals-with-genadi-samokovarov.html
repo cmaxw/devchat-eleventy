@@ -1,0 +1,151 @@
+---
+layout: layouts/post.njk
+title: >
+      RR 386: Web Console Internals with Genadi Samokovarov
+date: 2018-10-30 10:00:32
+episode_number: 386
+duration: 41:44
+audio_url: https://media.devchat.tv/ruby-rogues/RR_386_Web_Console_Internals_with_Genadi_Samokovarov.mp3
+tags: ruby-rogues
+---
+
+<p class="p1"><span class="s1"><b>Panel: </b></span></p>
+
+<ul>
+ 	<li class="p1"><span class="s2">Dave Kimura</span></li>
+ 	<li class="p1"><span class="s2">Charles Max Wood</span></li>
+ 	<li class="p1"><span class="s2">David Richards</span></li>
+</ul>
+<p class="p3"><span class="s3"><b>Special Guest:</b></span><span class="s4"> <a href="https://twitter.com/gsamokovarov?lang=en"><span class="s5">Genadi Samokovarov</span></a> </span></p>
+<p class="p1"><span class="s2">In this episode of Ruby Rogues, the panel talks with <a href="https://twitter.com/gsamokovarov?lang=en"><span class="s5">Genadi Samokovarov</span></a> who is a software developer and loves using Ruby. Genadi also likes dance music. You can check out his code at <a href="https://github.com/gsamokovarov"><span class="s5">GitHub</span></a> and his mixes on <a href="https://soundcloud.com/gsamokovarov"><span class="s5">SoundCloud.</span></a> Finally, he blogs about technology that he cares about. Check-out his post about a curious Proc.new case in Ruby. If you are interested in his work experience, check out his resume <a href="http://gsamokovarov.com/resume/"><span class="s5">here</span></a>. Send Genadi an </span><span class="s5">email</span><span class="s2"> or follow his <a href="https://twitter.com/gsamokovarov"><span class="s5">social links.</span></a> </span></p>
+<p class="p1"><span class="s1"><b>Show Topics:</b></span></p>
+<p class="p3"><span class="s6">0:00 – <a href="https://sentry.io/welcome/"><span class="s5">Sentry.IO – Advertisement!</span></a> </span></p>
+<p class="p5"><span class="s2">1:30 – Chuck: Introduce yourself please.</span></p>
+<p class="p5"><span class="s2">1:39 – <i>The guest talks about his background and the company he works for. </i></span></p>
+<p class="p5"><span class="s2">2:03 – Chuck: Did you build the web console or something else? </span></p>
+<p class="p5"><span class="s2">2:05 – Guest. </span></p>
+<p class="p5"><span class="s2">3:20 – Chuck: How do you run Ruby on the web console? </span></p>
+<p class="p5"><span class="s2">3:40 – Guest answers Chuck’s question.</span></p>
+<p class="p5"><span class="s2">4:13 – Chuck: The other question is about security concerns – you don’t want to run in production?</span></p>
+<p class="p5"><span class="s2">4:25 – Guest: No, you don’t want to do that. </span></p>
+<p class="p5"><span class="s2">4:31 – Chuck: Use at home - don’t use it on your work server. </span></p>
+<p class="p5"><span class="s2">5:15 – Panel: It’s one of those features that people overlook on Rails. You have to proactively add in a pack to launch in a web console in that particular view. A lot of times people will either throw away rays (ERB) and they are able to get the same thing but you can interact with the page w/o full rendering of the application. </span></p>
+<p class="p5"><span class="s2">What I just mentioned what does a web console has a space for?</span></p>
+<p class="p5"><span class="s2">6:18 – Guest. </span></p>
+<p class="p5"><span class="s2">7:23 – Panel: What would happen – if I put a debugging code in my application and it got committed and shipped – what would happen?</span></p>
+<p class="p5"><span class="s2">7:46 – Guest answers. </span></p>
+<p class="p5"><span class="s2">8:24 – Chuck: When you deploy a production I don’t even know what this tag is?</span></p>
+<p class="p5"><span class="s2">8:33 – Guest. </span></p>
+<p class="p5"><span class="s2">9:10 – Chuck: Can I run it on <a href="http://sinatrarb.com"><span class="s5">Sinatra</span></a>...or the other ones?</span></p>
+<p class="p5"><span class="s2">9:20 – Guest: If you make a bit of effort...</span></p>
+<p class="p5"><span class="s2">9:42 – Chuck: How does it pass things to the backend?</span></p>
+<p class="p5"><span class="s2">9:52 – Guest. </span></p>
+<p class="p5"><span class="s2">11:22 – Chuck: Let’s say you set this up and you would include the gem in the Rails app – I guess it comes by default. </span></p>
+<p class="p5"><span class="s2">11:36 – Guest. </span></p>
+<p class="p5"><span class="s2">11:58 – Panel: And if you want to embed it in a view in Rails?</span></p>
+<p class="p5"><span class="s2">12:05 – Guest. </span></p>
+<p class="p5"><span class="s2">12:06 – Chuck: That’s nice.</span></p>
+<p class="p5"><span class="s2">12:08 – Guest.</span></p>
+<p class="p5"><span class="s2">12:43 – Panel: I would think that would be the most exciting things. I know the views and how it’s included there is a little bit of a black box for me. I don’t know quite what is going on and that’s after many years of use. Being able to open the web console and see what’s going on and see what I was thinking. Sometimes when I have hard times with my code it’s because I didn’t understand the Rails way and how they organize things. So for me to take a look it dawns on me. </span></p>
+<p class="p5"><span class="s2">13:33 – Guest. </span></p>
+<p class="p5"><span class="s2">13:41 – Panel: I learned Rails on a laptop. I went to terminal mode only and I learned it really, really well. </span></p>
+<p class="p5"><span class="s2">14:21 – Guest.</span></p>
+<p class="p5"><span class="s2">14:27 – Panel: Can web console do a separate JavaScript app and then you have a Ruby API backend – can you use console any plugin to integrate with that?</span></p>
+<p class="p5"><span class="s2">15:00 – Guest.</span></p>
+<p class="p5"><span class="s2">16:20 – Panel: That’s really cool, and good note. When people are developing a gem they keep one type of Ruby or whatever. They don’t take into account that Ruby or the MRI or whatever they are using it’s cool that you are proactive keeping into account the different interpreters and it works across the platform. </span></p>
+<p class="p5"><span class="s2">16:56 – Guest: It’s a tricky business.</span></p>
+<p class="p5"><span class="s2">18:39 – Panel: So is this under active development or...?</span></p>
+<p class="p5"><span class="s2">18:45 – Guest.</span></p>
+<p class="p5"><span class="s2">18:53 – Chuck: What was the hardest part to put this together?</span></p>
+<p class="p5"><span class="s2">19:00 – Guest: Getting it to work!</span></p>
+<p class="p5"><span class="s2">19:09 – Chuck: Nope...just getting it to work.</span></p>
+<p class="p5"><span class="s2">19:15 – Guest.</span></p>
+<p class="p5"><span class="s2">20:43 – Panel: That’s something where I have been in situations where it has given back the Rails spec trace. Not the actual application – I have no idea how to debug it. Then I dig in deeper and find it’s in my application part. It is important to have that.</span></p>
+<p class="p5"><span class="s2">21:13 – Guest. </span></p>
+<p class="p3"><span class="s6">21:51 – <a href="https://devchat.tv/get-a-coder-job/"><span class="s5">Get A Coder Job!</span></a></span></p>
+<p class="p5"><span class="s2">22:15 – Chuck: Anything else or should we talk about the conference for a minute?</span></p>
+<p class="p5"><span class="s2">22:30 – Guest.</span></p>
+<p class="p5"><span class="s2">24:09 – Panel: So you are getting these conferences going – is there a healthy/strong Ruby following in Bulgaria, generally? </span></p>
+<p class="p5"><span class="s2">24:25 – Guest: We do Meetups. It’s pretty active and a healthy community. It’s not as strong as the States, but it’s strong. </span></p>
+<p class="p5"><span class="s2">25:26 – Panel: Nice. I find that it’s interesting – I was around with Ruby in 2004, and people have been using Ruby for a while and Rails was new. It’s fun to build an organization around that and empower people to do great things. It’s great to do work that are learning Ruby. </span></p>
+<p class="p5"><span class="s2">26:08 – Guest. </span></p>
+<p class="p5"><span class="s2">26:25 – Panel: So that’s one of my coworkers and got him using VS code and show people the light to make the switch. </span></p>
+<p class="p5"><span class="s2">26:50 – Chuck: I’ve already switched.</span></p>
+<p class="p5"><span class="s2">27:01 – Panel: We like our tools.</span></p>
+<p class="p5"><span class="s2">27:17 – Guest: I guess my people like VS code b/c it’s easier to maintain. </span></p>
+<p class="p5"><span class="s2">27:35 – Panel: Maybe my mind is so feeble-minded.</span></p>
+<p class="p5"><span class="s2">27:45 – Chuck: I turned on the EMAX for along time and turned on my EMAX in my KS code. I get the nice extras. I don’t feel like there are 10 zillion things to worry about.</span></p>
+<p class="p5"><span class="s2">28:12 – Guest. </span></p>
+<p class="p5"><span class="s2">28:21 – Panel: I think the key is the expressiveness – get it the ways I want </span></p>
+<p class="p5"><span class="s2">28:38 – Chuck: I just want to think of the fact that I am using code – and that’s a good thing.</span></p>
+<p class="p5"><span class="s2">28:54 – Guest. </span></p>
+<p class="p5"><span class="s2">29:04 – Panel: How many attendees did you have? </span></p>
+<p class="p5"><span class="s2">29:08 – Guest.</span></p>
+<p class="p5"><span class="s2">29:22 – Chuck: The conferences that I like to attend that have an attendance of 150, I like b/c it’s intimate. The larger conferences I feel lost in the crowd. It’s just different for me. </span></p>
+<p class="p5"><span class="s2">30:17 – Panel: It makes it easy to break into groups if the conference is small.</span></p>
+<p class="p5"><span class="s2">30:30 – Panel: There are so many things that the experts can teach and show to the beginners. They could teach me something that I didn’t know. It’s powerful b/c you’re talking about projects and get to know each other.</span></p>
+<p class="p5"><span class="s2">31:39 – Guest.</span></p>
+<p class="p5"><span class="s2">32:16 – Panel: One thing I like is that the attendees make a Slack channel, and the speaker can address that during the talk. Sometimes they get answered, but just in case.</span></p>
+<p class="p5"><span class="s2">32:40 – Chuck: Anything you’re working on now?</span></p>
+<p class="p5"><span class="s2">32:43 – Guest.</span></p>
+<p class="p5"><span class="s2">32:52 – Panel: Nice. </span></p>
+<p class="p5"><span class="s2">33:00 – Guest.</span></p>
+<p class="p5"><span class="s2">33:37 – Chuck: How can people find out about these different conferences?</span></p>
+<p class="p5"><span class="s2">33:50 – Guest: We have a Twitter account. </span></p>
+<p class="p5"><span class="s2">33:04 – Chuck: Let’s go to picks!</span></p>
+<p class="p3"><span class="s6">34:12 – <a href="https://www.freshbooks.com"><span class="s5">Advertisement – Fresh Books!</span></a> </span></p>
+<p class="p3"><span class="s6">41:31 – <a href="https://www.cachefly.com"><span class="s5">Cache Fly!</span></a> </span></p>
+<p class="p7"><span class="s1"><b>Links:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li3"><span class="s7"><a href="https://devchat.tv/get-a-coder-job/"><span class="s5">Get a Coder Job Course</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.ruby-lang.org/en/"><span class="s5">Ruby</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="http://www.rubymotion.com"><span class="s5">Ruby Motion</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://rubyonrails.org"><span class="s5">Ruby on Rails</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://angular.io"><span class="s5">Angular</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://bugs.ruby-lang.org/users/7585"><span class="s5">Ruby Issue Tracking System</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://libraries.io/github/gsamokovarov"><span class="s5">Libraries.io</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://balkanruby.com"><span class="s5">Balkan Ruby</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="http://partialconf.com"><span class="s5">Partial Conf</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.chaosgroup.com"><span class="s5">Chaos Group</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://twitter.com/gsamokovarov?lang=en"><span class="s5">Genadi Samokovarov’s Twitter</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://github.com/gsamokovarov"><span class="s5">Genadi Samokovarov’s GitHub</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="http://gsamokovarov.com"><span class="s5">Genadi Samokovarov’s Website</span></a></span></li>
+</ul>
+<p class="p7"><span class="s1"><b>Sponsors:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li3"><span class="s7"><a href="https://sentry.io/welcome/"><span class="s5">Sentry</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://devchat.tv/get-a-coder-job/"><span class="s5">Get a Coder Job Course</span></a></span></li>
+ 	<li class="li3"><span class="s8"><a href="https://www.freshbooks.com"><span class="s9">Fresh Books</span></a></span></li>
+ 	<li class="li3"><span class="s1">Cache Fly</span></li>
+</ul>
+<p class="p7"><span class="s1"><b>Picks:</b></span></p>
+<p class="p9"><span class="s2">David </span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s10"><a href="https://www.amazon.com/Creative-Quest-Questlove/dp/0062670557/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;coliid=I3CCMFYKRBJ3EP&amp;colid=VWHQF5V1539U&amp;qid=&amp;sr="><span class="s11">Creative Quest by Quest Love</span></a></span></li>
+ 	<li class="li9"><span class="s10"><a href="https://www.newyorker.com/magazine/2012/11/12/the-rhythm-in-everything"><span class="s11">The Rhythm in Everything </span></a></span></li>
+</ul>
+<p class="p9"><span class="s2">Dave </span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s10"><a href="https://www.homedepot.com/p/DEWALT-Clamp-Set-4-Piece-DWHT83196D/205418759"><span class="s11">Dewalt Clamps</span></a></span></li>
+ 	<li class="li9"><span class="s10"><a href="https://www.youtube.com/watch?v=HJZ9TnKrt7Q"><span class="s11">Action Text </span></a></span></li>
+</ul>
+<p class="p9"><span class="s2">Charles </span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s10"><a href="https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally-ebook/dp/B0795BLS8D/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1540669361&amp;sr=1-1&amp;keywords=the+diabetes+code"><span class="s11">The Diabetes Code </span></a></span></li>
+ 	<li class="li11"><span class="s2">Keto Diet</span></li>
+ 	<li class="li9"><span class="s10"><a href="https://www.daveramsey.com/elp"><span class="s11">Endorsed Local Providers via Dave Ramsey </span></a></span></li>
+</ul>
+<p class="p9"><span class="s2">Genadi </span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s10"><a href="https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189"><span class="s11">Long Walk Freedom</span></a></span></li>
+</ul>
+
+<h3>Transcript</h3>
+
+

@@ -1,0 +1,370 @@
+---
+layout: layouts/post.njk
+title: >
+      078 iPhreaks Show - Skinny Controllers with Jay Thrash
+date: 2014-11-06 13:00:00
+episode_number: 078
+duration: 
+audio_url: https://media.devchat.tv/iphreaks/iPhreaks078SkinnyControllers.mp3
+tags: iphreaks
+---
+
+The panelists talk to Jay Thrash about skinny controllers.
+
+<h3>Transcript</h3>
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York and L.A. bid on iOS developers, providing them with salary and equity upfront. The average iOS developer gets an average of 5-15 introductory offers and an average salary offer of $130,000/year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It’s totally free for users, and when you're hired they also give you a $2,000 signing bonus as a thank you for using them. But if you use the iPhreaks link, you’ll get a $4,000 bonus onset. Finally, if you're not looking for a job but know someone who is, you can refer them on Hired and get a $1,337 bonus as thanks after the job. Go sign up at Hired.com/iphreaks]</em></strong>
+
+<strong><em>[This episode of iPhreaks is brought to you, in part, by Postcards. Postcards is the simplest way to allow you to feedback from right inside your application. With just a simple gesture, anyone testing your app can send you a Postcard containing a screenshot of the app and some notes. It’s a great way to handle bug reports and feature requests from your clients. It takes 5 minutes to set up, and the first five postcards each month are free. Get started today by visiting www.postcard.es]</em></strong>
+
+<strong><em>[This episode is brought to you by Code School. Code School offers interactive online courses in Ruby, JavaScript, HTML, CSS and iOS. Their courses are fun and interesting and include exercises for the student. To level up your development skills, go to freelancersshow.com/codeschool]</em></strong>
+
+<strong>CHUCK:</strong> Hey everybody and welcome to episode 78 of the iPhreaks Show. This week on our panel we have Pete Hodgson.
+
+<strong>PETE:</strong> Hello, from Berkeley, California.
+
+<strong>CHUCK:</strong> Andrew Madsen.
+
+<strong>ANDREW:</strong> Hi, from Salt Lake City.
+
+<strong>CHUCK:</strong> Alondo Brewington.
+
+<strong>ALONDO:</strong> Hello, from North Carolina.
+
+<strong>CHUCK:</strong> Jaim Zuber.
+
+<strong>JAIM:</strong> Hello, from Minnesota.
+
+<strong>CHUCK:</strong> I'm Charles Max Wood from DevChat.tv, and this week we have a special guest, and that is Jay Thrash.
+
+<strong>JAY:</strong> Hello also from North Carolina.
+
+<strong>CHUCK:</strong> Do you want to give us a brief intro since you haven't been on the show before?
+
+<strong>JAY:</strong> Sure. I'm Jay Thrash; I live here in North Carolina and for the past four – I think it’s been about four or five years now I've been involved with iOS development. Prior to that, I did a lot of web-based development as well as some – way back in the day I worked for a couple of different gaming companies, so I've done kind of the gamut of all kinds of development. Whatever looks interesting is where I typically fall, so.
+
+<strong>CHUCK:</strong> Cool! So this week we’re going to be talking about skinny controllers.
+
+<strong>JAY:</strong> [Chuckles] Yeah, it’s all about putting them on a paleo diet.
+
+<strong>CHUCK:</strong> That’s right [chuckling]. If they're skinny controllers, they have no resemblance to my genes.
+
+<strong>JAY:</strong> [Chuckles] Yeah, so the whole skinny controller thing, I actually came about, for me, I guess about a year or so ago. I'd been working on a number of fairly large scale iOS apps; it was getting more and more difficult to manage them and just deal with the multitude of the view controllers that we used to create those apps.
+
+Although we felt like we were following the conventions of the day, it just felt like there was something wrong with what we were doing. So I took a step back and was looking at some of the other ideas that people had about dealing with how to remove responsibility from view controllers, and since then I've done a few talks both at CocoaHeads and at 360iDev out in Denver on some of the findings that I've run into during that time.
+
+<strong>JAIM:</strong> So it gets pretty cool because they talk about [inaudible 03:43] this nice diagram for MVC and how you're supposed to write apps, but they don’t tell you what do you do when you have to talk to a network or different things. They give you kind of a simple template, but they don’t really explain what else you need to do. It’s kind of, “Here you go. Here’s how you get your apps.”
+
+<strong>JAY:</strong> Exactly. I think the problem or kind of the trap we all fall into was that so much of the example codes, so many of the templates that you get out of the box with Xcode in some ways start you down the wrong path. The one that I can think of in particular, the ones that are based on the table view controllers. They typically have – the view controller is going to be responsible for being both the delegate and the data source of that table view. Over time, you'll find out that may not necessarily be where you want to place those responsibilities.
+
+<strong>CHUCK:</strong> I can definitely see that. I mean, you get examples and they're trying to isolate one concept. For example, the UITableView. And so they go out of their way to actually put in “Here’s how you get the view” and so yeah, they just stick the data right in there because then all you have to do is worry about integrating with the view controller. Your next stage is, “yeah, I'm just going to put my actual data in here.”
+
+<strong>PETE:</strong> And it makes sense in the context of those little examples, right?
+
+<strong>CHUCK:</strong> Absolutely.
+
+<strong>PETE:</strong> If I was building a trivial app like that, then I would argue it probably does make sense and just throw it in the view controller. The problem is that there aren’t that many example apps at a large scale, or at least the scale of apps that we build as professional software people.
+
+<strong>JAY:</strong> Yes, I agree. I think that it’s determining when do you take the step away from the way the example show you how to do it and hopefully you realize when you need to do that way before you get into a position where you’ve created a code base that has become unmaintainable, in a sense.
+
+I've had the fortune a few months ago to begin to work on a new project, so I've done everything I can to make sure that I practice what I preach, in a sense. All of these talks that I've done and some of the articles I've pointed to on my blog and on Twitter, I've tried to follow those examples and I've found that our production has been far greater than what we were able to do on some of the previous projects that we’ve been working on. So I've already altered the gate, seeing some great improvements in just our coding efficiency and our production as a team when we try to move responsibility out of our view controllers and into other objects.
+
+<strong>JAIM:</strong> Let’s step back a bit and let’s talk about what type of things that we typically put into our view controllers that we say, “Here you go view controller; handle this type of stuff”?
+
+<strong>JAY:</strong> Well I think that’s probably the first thing that comes to mind and the one that would be the easiest to move out of your view controllers are data sources – data sources for either table views or collection views. Under the covers, those are typically just going to be some kind of collection-based accessors, right? They might be backed by a simple array; they might be backed by a web service, or core data or something like that, and if you can move those out of the view controller and into standalone classes that implement the data source protocol, then you'll find that not only do your view controllers lose a lot of weight; when you're looking at the code through your view controllers, they become more about dealing with the view life cycle and less about dealing with data.
+
+You'll find that unit testing those data source classes becomes far easier because, in the past, in order to test your data sources, you actually had to instantiate and build up a view controller just so you could test those things. And because they're in a separate class now that’s independent of the view hierarchy, they become much easier to kind of build up, mock out and tear down when the test is done.
+
+<strong>ANDREW:</strong> So I think another advantage of this approach, which is one I've used especially recently is that a lot of times, it seems to me that an app might – tables that are very similar, if not showing the same data in different parts of the app, and this way you can reuse a lot of that logic without duplicating it across two different view controllers who are doing some kind of more complicated class hierarchy where you have a base view controller subclass [inaudible 08:13] to get custom behavior. This turns out to be a lot cleaner for that kind of situation too.
+
+<strong>JAY:</strong> Absolutely, yes.
+
+<strong>PETE:</strong> Likewise for testing as well, right? If you can pull out this code from a view controller and put it into a little plain old PONSO. I think someone referred to these as “PONSOs” the other day – Plain Old NSObjects [laughter]. It’s not my terminology. I think that was Conrad Stoll on a previous episode, he talked about PONSOs. Anyway.
+
+<strong>CHUCK:</strong> [Whistles] Here, PONSO. Here!
+
+<strong>PETE:</strong> Those guys are way easier to test, right? Those objects are way easier to test in isolation and because you can just – you have control over their life cycle, they're really easy to instantiate with fake versions of dependencies rather than having to –. Well a lot of times with frameworky things like view controllers, it’s quite hard to stand them up in isolation because normally you're not the person creating them. Normally, the framework is creating these objects for you, so that’s another pitch; another benefit I give to people is testability.
+
+<strong>JAY:</strong> Right. Up until iOS 7, I think a lot of us understood the view life cycle really well, but with iOS 7 and iOS 8, the way that view transitions have changed, those view life cycles have changed in a sense where at some points you can have multiple views saying that they're actually appearing. And so if you're basing all your tests off of things that were embedded in view controllers, it becomes more difficult to continue testing in those newer versions of iOS.
+
+<strong>CHUCK:</strong> I'm wondering at what stage does it make sense to move things out. I mean, if you're hardcoding maybe an array of dictionaries or something like that into your view controller, do you want to move it out right then, or is that a little bit premature?
+
+<strong>JAY:</strong> I would say the earlier the better, because even if you are hardcoding it like it’s backed by some kind of hardcoded array, once you move it out into another object, you can probably more easily change what the backing is going to be. You can move it from that hardcoded array to maybe a dynamically generated array that you get by parsing a JSON file or something like that, and those changes are now going to be completely encapsulated inside of this PONSO that’s implementing the data source protocol. And your view controller can just happily go on its merry way; it just gets assigned a data source – or the table view gets assigned a data source that just has a different backing store.
+
+<strong>CHUCK:</strong> Can I get a definition or at least an explanation really quickly? When you're talking about the Datastore API, what exactly are you talking about there?
+
+<strong>JAY:</strong> Well I'm just referring to the table view data source protocol, so the protocol that you're supposed to implement as far as self.Arrow and IndexPath, the number of sections, the number of rows in the section and things like that.
+
+<strong>ALONDO:</strong> Now would you recommend when you're extracting this datastore and having a data source class that's going to be accessed by the view controller, and with the possible option of changing that backing store, are you saying that at that point you probably still want to have two classes – one being the data source class and another being the actual instance of a backing store, or do you wait for that?
+
+<strong>JAY:</strong> I guess it just depends on how complex the actual datastore implementation is going to be. I think, for the most part, at least for some of the apps I've been working on recently, we usually have kind of a set of common classes that deal with data, and it’s just a matter of applying that protocol on top of them so they can adapt and be used as data source delegates for mostly collection views.
+
+<strong>ALONDO:</strong> Okay.
+
+<strong>CHUCK:</strong> Are there other instance that you see where people implement this that aren’t – for example, the table view examples or other collections this really applies to or do people tend to fall into this trap?
+
+<strong>JAY:</strong> Sure. Just moving away from the specific example of the data sources, I think that one good place to look is just looking at the Cocoa framework and figure out where are the places at the framework is actually separating dependencies – or I should say, responsibilities – and a lot of those points of separation are typically delineated by protocols.
+
+If you look at a view controller that’s got a table view or a collection view, you typically need a table view data source as well as a table view delegate. There are some responsibilities of those delegate classes that don’t necessarily need to be in your view controller; they could be in separate classes; they could be reused across view controllers.
+
+There was a really good article that I ran across – it’s called Single Responsibility Principle &amp; iOS. It was on the, I think it was the Bendyworks Blog. He actually, the author of this article actually took his foray into this realm of how he structures his apps to the extreme. He was saying that when he builds his apps – or at least he tries to build them in such a way that the view controllers are only limited to managing the view life cycle of the subviews that it manages, and anything like data sources, delegates, IBOutlets and IBActions are moved into other classes.
+
+I haven't been able to go to that extreme, but it is an interesting way of structuring your code.
+
+<strong>PETE:</strong> There's a similar issue in the Ruby world or in the Rails world with controllers being too fat and needing to go on a diet. One of the things that he advocates for is none of the methods in your view controller should be more than one or two lines long, or two or three long and essentially that’s just a traffic cop routing stuff through to the appropriate place. I guess it’s kind of a similar philosophy where you just want the view controller to be doing the bare minimum that it has to do as a view controller, and everything else, you're just delegating to the appropriate thing.
+
+<strong>JAY:</strong> Right.
+
+<strong>CHUCK:</strong> Well, and more recently on the Ruby Rogues podcast, we talked to Martin Fowler about refactoring. He pointed out that the whole point of refactoring is to make it so that you can increase the speed with which you develop your code, and so by going ahead and making a lot of these changes, what you wind up doing is you make it simple enough to where you can look at it and know what you're going to change and why you're going to change it, instead of having to figure out what's going to be affected by the decisions that you make and things like that.
+
+It really makes sense if you're looking at it from a single responsibility principle or some of these other ideas that if you move all of the data-munching out, then it’s easy to see what the view controller is actually doing, and to know where to look to figure out what's going on with your data. And so then you can move ahead quickly if you have to refactor, or if you have to add functionality later on.
+
+<strong>JAY:</strong> Right. Because a lot of times, at least what I found working on iOS apps is that a lot of times the data sets can be pretty well-known ahead of time. You're going to be interacting with some kind of web service or something like that, and it has a pretty well-defined interface, but the structure of the application is what's going to change over time.
+
+We decide, “Oh, we don’t like the layout of this view controller; let’s move some things around.” And if you’ve got your view controllers built in such a way where they're responsible for so many different things, it becomes very difficult to know where are the responsibilities related to just the view hierarchy management and how can I pull those out if I want to restructure the UI.
+
+<strong>JAIM:</strong> I agree with what everyone’s saying that we should keep our view controllers as light as possible, but let’s talk a little bit about specifics because view controllers get huge because we do a ton of different things in there. We've got our actions, our outlets; we’re doing animations. We’re showing things, we’re hiding things, we’re formatting strings – doing all sorts of things. What are some ways that we can move this stuff out of the view controller? How does that work?
+
+<strong>JAY:</strong> One of the points that I made at the talk that I did at 360 was to kind of turn the table a bit on the unfortunate nickname that a lot of people have given the framework – MVC means Massive View Controller.
+
+<strong>CHUCK:</strong> [Laughs] [Crosstalk 16:45]
+
+<strong>JAY:</strong> Yeah. But what I was saying, no, actually if we call it Massive View Controller then really what we’re doing is focusing too much on the symptoms and not the cause, so really a more accurate term would be Misused View Controllers or Misunderstood View Controllers. Exactly what you were saying, we need to find ways to identify responsibility that really isn’t the only reason that it’s in the view controller is just because at the time we are creating it, it seemed like an easy place to put it, but as far as the functionality is concerned, there's no reason why it belongs inside the view controller.
+
+There's another really good article that Chris Eidhof, if you’ve ever read any of the objc.io articles that looks like that online magazine – objc.io [chuckles]. I can’t pronounce [crosstalk 17:38]. It’s easier to read in my address bar than it is to say out loud.
+
+<strong>CHUCK:</strong> Yeah, we’ll put a link in the show notes.
+
+<strong>JAY:</strong> [Chuckles] He had a really good talk – well there's actually, I’ll take a step back. There's an entire issue, a collection of articles, an issue – I think it might have been issue # 1 of the website focused specifically on the concept of building what they called lighter view controllers.
+
+<strong>PETE:</strong> You just stole my pick!
+
+<strong>JAY:</strong> Oh, sorry [chuckling].
+
+<strong>PETE:</strong> That’s okay.
+
+<strong>CHUCK:</strong> Must have been a good one then, huh?
+
+<strong>JAY:</strong> Yeah. And then later, he followed that up with a post on his own blog on the concept of what he called Intentions. This idea of intentions is one way of moving – I'd like to look at them as these functional encapsulations of almost like business logic that you can pull out of your view controller and then reuse them across other view controllers. It’s doing things like being outlets for different controls or different views, and then dealing with how – like when the user is typing information in a TextField or something like that, what type of validations do you need to run?
+
+Now there's no reason why those validation logic has to be in the view controller; it could be encapsulated into an intention. That intention could be the one that is receiving the IBOutlet actions and maybe even conforming to the UITextView or TextField delegate methods, and so as the user’s typing in information, it could be running through your validation logic and either allowing or disallowing what the user typed in. All that’s happening completely independent of the actual view controller that hosts that TextView.
+
+<strong>JAIM:</strong> So how does this class get wired up? Typically we've got our outlets, our actions, we just drag them on the view controller and we use them from there. At this point, we’re creating a new class that receives these things and kind of spits out actions, delegates or notifications or something. How do we wire these up?
+
+<strong>JAY:</strong> The secret sauce in wiring up the intentions is when you go down to the library of objects that you can put into your storyboard scenes. Something that a lot of people overlook is if there is a very simple NSObject that you can drag into your view controller scenes, and then you can change the class for that object to be an instance of one of your intention classes. Then you just design the interface for the intention so that it has the correct either IBOutlets, IBActions or what have you, and then you can actually wire those up right there in the storyboard so that you can look at the storyboard scene and actually see, almost get a visual representation of not only what objects make up the view controller, but also what logic and functionality is driving the interaction between those objects.
+
+<strong>JAIM:</strong> Okay, well that’s very cool. I've never thought about doing the storyboard NIB way of doing that. Generally when I've kind of transferred responsibilities, I'm hand-refactoring, creating classes and passing an info, but you can do it from Interface Builder, so that’s pretty cool.
+
+<strong>JAY:</strong> You can, and the article that Chris wrote deals with that. When he goes through the example of pulling some logic out of your view controller, putting it in an intention, he goes through the steps of showing you how you can wire that up inside the storyboard, and then it makes your code much easier because you're not even having to deal with that in code; it’s all handled in the view controller scene itself.
+
+<strong>ANDREW:</strong> This technique is also one that can be used, of course, for really any object you want to put in a view controller. Yes, [inaudible 21:22] storyboard, so it’s good for the table data source that we were talking about earlier too, because then all you have to do is wire up an outlet to the table view and then wire up [inaudible 21:33] getting data source back to the table controller object.
+
+I think it is kind of a powerful, nice way to structure things using Interface Builder that a lot of people don’t know about or haven't used before.
+
+<strong>JAY:</strong> Right. And in this example, it was – of course because it was a short article, the example he gives is a little bit simplified, but the intention that he created was one that I think would automatically – it did something to the string, like it automatically uppercased whatever you typed in there, or maybe it reversed it or something like that. What's nice is you could just look at that scene in the storyboard and if the intentions are named correctly, you can very easily just see, “Oh, anything that gets assigned to these fields gets run through this intention that’s going to perform some set of logic on it,” and so you don’t have to worry about always having to look at both the code and your storyboard to figure out what's going to happen when the user’s interacting with a given view controller.
+
+<strong>ALONDO:</strong> Now is that a strict one-to-one relationship, or can you have multiple intentions on a particular UIControl?
+
+<strong>JAY:</strong> You can have multiple intentions but I think in order to do that, what you'd have to build up is kind of an intention multiplexer, so to say. Things like the delegates and object can only have one delegate assigned to it, so if there's something that you want to drive based on delegate responsibility, then that delegate could be assigned to an intention multiplexer object, which could then fire off that same behavior to multiple intentions.
+
+<strong>ALONDO:</strong> Okay.
+
+<strong>JAY:</strong> An example I could think of is that maybe you’ve got a screen with multiple fields and a submit button or something like that, and the user can’t hit the submit button until all the fields are full, and then certain fields have validation that you want to run. So you're going to have a combination of intentions running against those fields, so that one intention wants to be able to see all of the fields to make sure all of the data is ready, so that it enables the OK button or the Submit button.
+
+Then then you’ve also got other intentions that are dealing with what's a valid string that can go in this field. Is this an email field? Make sure whatever the user types in is a valid email address.
+
+<strong>ALONDO:</strong> Correct.
+
+<strong>JAY:</strong> I have to admit that it can get a little bit complicated depending on how things are structured, so you just have to take it one step at a time.
+
+<strong>JAIM:</strong> So intention’s something like – validation would be an intention. Would you consider a model as something different, or would that also be a different case of an intention?
+
+<strong>JAY:</strong> Yeah, that's a good point. There certainly are arguments that can be made for placing validation logic in the model itself so that you don’t have to worry about who’s modifying an object that the object knows how to handle its validation, so maybe the intention is simply just passing the call directly into the model to ask, “Hey model, are you valid?” Do you know what I mean? So the actual logic that does the validation isn’t in the intention; it’s actually in the model and the intention is just there to wire things together.
+
+<strong>ANDREW:</strong> Personally, my opinion is that most of the time, validation probably should be done in model for the reason you described. I think there's something in key-value coding that a lot of people don’t really know about or use, but KVC actually includes validation methods so you can implement a valid value for key error basically in your model object.
+
+And they're not invoked automatically; at least not in most cases. They are in core data, and also if you're writing an OSX app and you're using bindings, you can set bindings up to automatically validate newly-entered values and call those validation methods. But anyway, the whole point is Apple really actually already has sort of a convention and a way for doing validation on properties in a model, and personally I like to use those. I think they work out pretty well.
+
+<strong>PETE:</strong> So that makes me wonder where to put this code that is currently in a view model. We've got these fat view models and we want to put them on a diet – sorry, not view models; view controllers, sorry – and so we want to move that code from the view controller somewhere. One of the obvious places that we start to think about is moving it into models instead.
+
+My concern with that is we end up with fat models [chuckles] and I bring context from other places, so for me this is something, again, the Rails community went through was view controllers are too fat, let’s put them on a diet. [Inaudible 26:07] in the models and then it’s like, “Oh, actually it turns out those model classes are too fat as well.
+
+Where's that line, I guess, for different folks? Because for me, I'm super nervous about putting stuff in the model that doesn’t really belong to whatever it is that the model represents. If the model represents the user, I want methods on that model that are kind of the main concepts for a user. Even stuff like validation, it makes me a little bit nervous because it’s not really a domain concept; it’s more like a – it’s something to do with the presentation layer, right? The only reason you'd want to do validation on something is if you're reading it from input, not if you're reading it from core data, for example.
+
+<strong>JAIM:</strong> Yeah, I think if you do the client-side MVC patterns like Apple rides, they don’t talk a lot of the edge cases. You get different domains the Ruby way of doing a model, which is specifically domain knowledge, which is kind of the DDD approach. Probably comes from Java, C# - that type of thing.
+
+Andrew was talking about, yeah, if validation’s a little bit part of the model, it makes sense. But I think one of the problems with the plus-size models is Alondo [chuckling] on the back channel, the temptation is to move everything into the model, which makes them too large, like networking calls – that type of thing. And I agree, those things probably don’t belong in a model. I'd like to see domain concepts, things that probably your product owners or business users will understand.
+
+<strong>PETE:</strong> So I've just invented a new meme which I'm going to try and popularize this as the first art that – I'm going to start tweeting about MVC+P, where P is just Plain Old XObjects, so PONSOs or POROs or POJOs or whatever.
+
+To me, the big thing that people don’t get about MVC and these architectural patterns is you don’t have to put everything in the end of the odyssey. It’s not like, which of these is the right bucket? Sometimes you make a new bucket.
+
+<strong>JAY:</strong> Yes.
+
+<strong>ANDREW:</strong> I would agree. I think that’s probably one of the really important points to get across because when I started, I did assume that I had to try to fit everything into one of those three categories. It’s very liberating to not have to think that way.
+
+<strong>PETE:</strong> And it’s funny, one of the – this is totally off-topic of iOS but this is one of the big issues that people had with Backbone in JavaScript land was Backbone had these models, views and collections and people just shoved everything in the view because they thought that they had to make a view for everything. What they could have done is just make controllers that weren't derived from some framework class; they're just – they are a thing that embodies the concept of a controller, but they don’t need to derive from UIViewController or whatever, at least in the context of Backbone.
+
+I think the same is very true in iOS land. We can have, for example, a service gateway which represents some remote service that we want to interact with. Just because we don’t have a base class to derive that from doesn’t mean that it’s not a kind of a bucket that we can put things into.
+
+<strong>JAY:</strong> I'm really glad that you brought up that point of getting stuck in the three buckets of MVC because that, I think, is what – once you break out of that mold and realize that you don’t have to structure everything in one of those three categories, it’s what opens you up to realize that these other paradigms that exist and you can leverage them to make the code that much easier to build and maintain.
+
+<strong>ANDREW:</strong> A topic that I wanted to bring up that kind of – something we were talking about earlier when we were talking about setting up intentions – and that is, what do you think about this question between doing your user interfaces in storyboards, nibs, versus setting them all up in code?
+
+I mean, this is a debate that kind of comes up in the iOS community every now and then and people feel strongly on both sides, so I'm curious to know what you think and how that relates to these skinny view controllers and keeping classes small in general
+
+<strong>JAY:</strong> I never really considered those two – what the overlap of those two arguments would be. I've definitely seen a he change in my own opinions regarding those topics over the past couple of years. I definitely used nibs pretty regularly, but when storyboards were first introduced, I thought they were a great idea, but I did not use them for at least the first year or so that they were available.
+
+But it’s becoming more and more obvious that leveraging storyboards is something that we’re just going to have to become accustomed to in iOS development because the storyboard editors and viewers are becoming more and more powerful, and they allow you to access and manage things like autolayout and size classes. Now that we have so many devices with so many different screen sizes, having the ability to preview those layouts on the fly becomes a huge advantage.
+
+So as much as part of me wants to be pure in the sense of putting everything in code means there's only one place I have to go. Managing view code can be very tedious; managing the location and the layout of all your frames and things like that – that requires a lot of code. It  becomes code that’s very repetitive, so it’s very easy for you to just look at a big block of code and think that everything’s okay, but there's a lot of – all the methods that you called to, say, stand up your auto-layout constraints.
+
+There's very little signal to a lot of noise because the method that they inserted in the parameter names are so large. It’s very easy to look at a block of code and think that everything’s okay, but it’s not until later that you realize, “Oh I transposed a couple of digits, but I just couldn’t see that because of all the noise that surrounds it.”
+
+<strong>ANDREW:</strong> I like that take. My thinking was, and I have a pretty strong opinion about this topic, but without going into that, my take was that usually that kind of manual UI setup code goes in the view controller. I've worked on projects where just a percentage of the line in view controller is – that code that was being used through UI is a huge percentage, and I think it contributes to making view controller code unreadable and just hard to get through.
+
+Also, I think, like you said with [inaudible 32:15] that we have now, sometimes that code gets really unwieldy. My personal opinion is essentially on the side of nibs and storyboards, especially when we’re talking about keeping view controllers small.
+
+<strong>JAY:</strong> Yeah, when the storyboards were first introduced, I loved the concept. At the time, having everything spread out across multiple nibs made it very difficult just to get a 30,000-foot view of what your application looked like. What was its navigational structure?
+
+Right out of the gates storyboards were kind of this eye-opening feature within Xcode where you could see, potentially, you could see the entire landscape of your entire application. In practice, like a lot of new technology, the first couple of iterations of storyboards, there were some issues and limitations that you have to deal with, but at least for me, the recent implementations of storyboards, I've been very happy with them. A lot of the issues I had using them early on have been rectified, so most of the projects I work on today rely pretty heavily on storyboards.
+
+I do say there is one thing that still bugs me about storyboards and Xcode’s proclivity to always want to make a change in my storyboard files even though I didn’t actually change anything in them. It seems like anytime I go to commit new changes, there's always like a one-line change, some kind of random, one-line change in a storyboard that I don’t know why Xcode wanted to do it but it felt like it needed to go in and diddle with that storyboard while it was open.
+
+<strong>JAIM:</strong> Yeah, I learned to put the storyboard to the background if you're doing any code [inaudible 33:53] with git, or you're doing reset.
+
+<strong>JAY:</strong> Yeah, I spend a lot of time discarding – discard change, discard change, discard change.
+
+<strong>ANDREW:</strong> Yeah, I've had that same problem and it happens with nibs too; it’s just some Interface Builder thing. I think basically, the main thing is that every time you open a nib, if it was most recently opened in an older version of Interface Builder, it will automatically update the xml to, say, which version it was last opened in. Which is not very useful, really, but anyway. Pretty annoying.
+
+<strong>JAY:</strong> Well, the other huge change that happened behind the scenes that was a big improvement was now that the nibs and the storyboards are almost human-readable now, whereas before, it was very esoteric xml and it made it very difficult when you had to merge changes to figure out what was going on. At least now, that xml schema has changed to the point where you can almost visually, in your mind, figure out what the storyboard is laying out, because the elements and the tags are much more logical.
+
+<strong>JAIM:</strong> That’s interesting because as you said, when the storyboards came out, a big drawback to them was if you're working with a team and you had to merge a storyboard together, it was very easy to get yourself into a nightmare situation. I've taken storyboards out of projects because there are fewer people working on them and we had merge headaches – merge nightmares.
+
+Are you saying that’s much improved, in practice?
+
+<strong>JAY:</strong> It is. One of the techniques that we’ve employed to help alleviate that is trying to break down the overall application into multiple storyboards. Typically we’ll have storyboards related to a task or some kind of work flow within the application, so that we’re always editing one gigantic story board that is the entire app. We can kind of delegate responsibility across the team, and we know, “Oh, Jay’s working on kind of the messaging part of the app right now, so if you need to do something on that storyboard, make sure you coordinate out with J likewise, somebody else is working on maybe a setting screen or something like that. It makes it very easy for everyone to work independently and not have to worry about colliding or conflicting change sets.
+
+<strong>ALONDO:</strong> Agreed. That’s one of the first changes that we made once we started running into some difficulties, as the application started to grow and our usage of storyboard started to increase [inaudible 36:11] to minimize conflicts, to split them out in a workflow-oriented manner.
+
+<strong>JAIM:</strong> So we’ve talked about intentions, models – one thing that kind of tripped me up when trying to figure out how to get this stuff out of my view controller was network calls – having a service type layer. Where would you put something like that?
+
+<strong>JAY:</strong> Let’s see – network calls, I typically have those set up underneath my data model layer so the classes that mange access to the overall data store for the application, those are where the network calls get encapsulated, and they're done in such a way that with – now these days with the block-based APIs, it makes it very easy to build up asynchronous-based interfaces. If you think about that from the get-go about how you're going to access data if you do it in a block-based manner to begin with, that even if initially you're backing everything by hardcoded arrays or data that you're loading from a hardcoded text file, even when you go back later and actually change all that to maybe go out and fetch stuff using AFNetworking or what have you, because you’ve got that asynchronous, block-based API in place, it simply just works. It continues to work.
+
+<strong>JAIM:</strong> So could this object be a PONSO, or is this something that lives in your model?
+
+<strong>JAY:</strong> I try to keep them separate from the model itself, so I’ll have a class that can issue the request and based on the response construct the actual model object. A library that I've been using a lot lately for making that conversion is Mantle; I don’t know if any of you have used the Mantle library, but that one’s a really nice library for defining a dictionary of how the fields from, say, a JSON response mapped to properties on your model objects, and it can handle all the transformations for you.
+
+One way to structure that so that you can have the transformations take place in a manner that's independent of your model object, so if you want to keep your model objects pure, one way we’ve done that is by doing the transformations using or encapsulating those within categories, so the methods related to conversions and saving are in a category, but the model object itself is kind of ignorant of how all that happens.
+
+<strong>PETE:</strong> This looks neat. This is, I think, pretty similar to how I approach this kind of stuff as well, building these things that I call service gateways – I don’t know if they have a better name, but essentially an object that is responsible for transforming. Like, you talk to it in terms of domainy things, like “give me a list of users or give me a list of friends of this user” or whatever, and it does all of the networky stuff and then gives you back domainy things using something like Mantle to do the transformations between technical JSONy stuff and interesting domainy stuff.
+
+<strong>JAY:</strong> Right, and it also – at least in my experience – is great because it’s another place where you can kind of replace the actual, real data and plug in fake data for testing and stuff like that. As far as the application is concerned, it’s oblivious to the fact that “Oh, this data is coming from a test file” versus “This data is actually coming from our production servers.
+
+<strong>PETE:</strong> Yup. The flip side to that is also you can test those service gateway things in integration actually talking to a real service and make sure they work but without having to pull in the rest of your application, so you can just kind of drive directly to check that you're integrating correctly with the backed system without needing to run the whole lap or to kind of do all of the high-level stuff that your applications do.
+
+<strong>JAIM:</strong> Yeah, it’s a pretty solid pattern. I had a project I worked on recently where I broke all things – kind of as you said, where something goes to the network that creates the model and the model just goes on its way. Sometimes you might think that – well, I mean, your service isn’t going to change, things like that, but sometimes things do change. The service might change, it might point to somewhere else, they might want to use one of those Parse Windows Azure Mobile Service backends where you have an API, so how you actually get the data can change. I was able to make the change to that one area without really affecting the rest of the app, so it’s a pretty solid pattern.
+
+<strong>PETE:</strong> Yeah. The only reservation I have with these things is if your domain – if the way that you think about things inside the mobile app doesn’t line up with the way that the API works, then sometimes it’s not enough just to be able to map the names of things in JSON to the names of things in your objects. Sometimes there's – you need to kind of convert two API concepts into one user concept.
+
+For example, you have a user and he has an address inside of your app, the address is just part of the user object, but in the API, it’s represented as two separate, distinct things. Sometimes it falls apart; sometimes this direct mapping this object to object-mapping falls apart and you need to put something in the middle that can convert API-domain stuff into models inside of your application. But I guess that’s a problem that you wait to have rather than over-engineering upfront.
+
+<strong>CHUCK:</strong> Well, the other thing though, in my opinion is that this is also one of its strengths by putting it into its own object or model or whatever that handles providing this to the controller itself, is that then you can encapsulate all of that logic. It’s a place where you can handle that – you can handle caching; you can handle these other things; you can break them out into their own responsibilities, their own classes. But because it’s all in one place, it kind of handles its own stuff so you don’t have to worry about it further up the line. Or did I miss something?
+
+<strong>PETE:</strong> No, I'm nodding my head in mute [chuckling].
+
+One thing – we kind of touched on this a little bit, but I guess the last thing that I've been mulling over while we've been talking through this is how, if I'm walking into an application today, or suddenly I've seen the light and I'm in a bit of a bad state today, and I've got a bunch of logic in my view controllers, is there some strategies and migration strategies that I can take for –. Where do I get started if this is all a bit overwhelming and scary? How do I get from where I am today to where I want to be? How do I get started on this diet? What's a good dieting plan, I guess? [Chuckling]
+
+<strong>JAY:</strong> One of the techniques that I like to use – and it’s something that I touched on a little bit earlier – is just to look at where the framework that we use already kind of naturally defines the separations of responsibility. There's a reason why, when Apple was designing the framework that, say, for a table view controller, they didn’t put all the responsibilities of being the delegate and the data source right there in that class. They created protocols that you have to implement. And so if you're going to then turn around and reassign those responsibilities back into the view controller, I think that’s a good opportunity to take a step back and look and say, “Why am I pulling this responsibility back in when just based on how this API is structured, I can put that responsibility somewhere else?”
+
+For view controllers especially, although that article about single responsibility principle goes very far to the extreme, I think that it is good in a sense that if it’s something that’s outside of just the simple view life cycle responsibility, that’s another thing that you could look at and say, “Does this actually belong in my view controller? Should I be putting it somewhere else? Should I encapsulate it?” Is it functionality that simply doesn’t belong here, or is it functionality that I've identified as being present in other view controllers? And by pulling that out so I can now share that and maintain it in a single place.
+
+Those are kind of the two techniques that I like to use is to look at where data sources delegates still cut those kind of protocols come into play, and then anything that’s outside of the standard view life cycle responsibilities, take a deep look and see, “Is this something that is very tightly coupled to my view controller so it makes sense that it should stay there? Or is this something that can be moved out and then reused if I want to reuse it?”
+
+<strong>JAIM:</strong> Another thing that I seek frequently in a view controller – you’ve got appearance-type code. You're setting color, you're setting background colors, setting fonts – how do we get that stuff out of our view controller?
+
+<strong>JAY:</strong> I guess, in my own experience, most of that, because I use storyboards, a lot of that gets handled automatically because I'm defining them in my storyboards. You can also use, I guess to some extent, the appearance classes – the UIAppearance classes – that you can set up in your application delegate to define application-wide styles.
+
+I don’t know; I have seen other apps. I know that some parts of Vesper – that note-taking app – that Brent Simmons helped build with Dave Wiskus and John Gruber – he kind of open sourced their appearance. He has like a – I think it was either a JSON or just a simple, plist-based appearance framework that he can define everything in this plist file and then apply it to the classes and it automatically deals with things like fonts and colors and stuff like that so that they can manage all of that in one file, and it’s something that even a non-programmer can do, and then it gets applied application-wide when the application is built.
+
+<strong>ALONDO:</strong> That’s actually something that we do. We actually created a theme class that makes extensive use of the UIAppearance protocol to handle that.
+
+<strong>JAIM:</strong> Yeah, you can most away with UIAppearance [inaudible 45:53]. Occasional edge cases like UITableView does not conform into protocol, so you have to do some other weird things. But you can get a lot of mileage out of UIAppearance.
+
+<strong>JAY:</strong> Yeah, I think that the UIAppearance does have a lot more power than people give it credit for.
+
+<strong>CHUCK:</strong> Alright, let’s go ahead and do some picks. Pete, do you want to start us off with picks?
+
+<strong>PETE:</strong> You always pick me first and I always struggle because someone else picked my first pick. No, I'm just kidding. I guess I’ll have a brief selection of picks.
+
+My first pick is a previous episode of the iPhreaks Show. We did an episode on VIPER, which is kind of this pattern or architectural pattern or whatever that lines up with quite a lot with a lot of the things we've been discussing. Really interesting, I really enjoyed that episode. That definitely gave me a lot of things to think about. If this discussion has been interesting to folks then I recommend following it up with that VIPER episode, episode 64. There’ll be a link in the show notes for that.
+
+My second pick is a book called Clean Code by Bob Martin – Uncle Bob – and he talks a lot about all these kind of ideas of separation of responsibilities and not putting too much stuff in one place and all that kind of stuff. That’s a good source of more information about this stuff.
+
+And then my third pick, a fun pick I guess, is a service called PubNub. I've been playing with this recently, and it’s a really simple way to do publish-subscribe kind of communication between loads of different devices. I can just say, I want to create a channel called Messages and then different devices – phones or web browsers and Androids and iPhones and all the rest of it can kind of subscribe to these channels and then they can send JSON or any kind of data up to these channels and down from these channels. It’s all kind of this cloud-based pubsub mechanism, which is good if you're building stuff, but it’s also good if you're just wanting to play around with fun little demos of things. It’s super easy to get started with, so that’s my third pick.
+
+They're not an open source thing; they're a paid-for service, but they're pretty cool. So PubNub is my third pick.
+
+<strong>CHUCK:</strong> Awesome. Andrew, what are your picks?
+
+<strong>ANDREW:</strong> Got a few picks today. This past weekend, my wife and I were in Massachusetts for a family wedding and we had a lot of fun. One of the things we did on Saturday was we went to a museum that’s called The Eric Carle Museum of Picture Book Art. It was a museum started by the author of The Hungry Caterpillar book, and it has a gallery with his art, but there are also galleries with other picture book artists, and I thought it was a lot of fun. It was kind of a different kind of art museum that I've ever been to. It’s in Amherst, Massachusetts.
+
+My second pick is Bose QC20 Noise Cancelling Earphones. I'm not really a Bose fan, and I'm not really an earbud fan either, but these earphones just do such an excellent job of noise cancelling better than anything else I've used that I really love them for flying. They have an over-the-ear counterpart that has 10dB more noise cancellation. They're kind of like magic, if you’ve never tried them before.
+
+My last pick is an open source project that came out in the last few days that I just thought was really impressive. It’s a playground for Objective-C, so they're like the Swift playground in Xcode 6 except they work for Objective-C. This guy claims to have written this entire thing in 12 hours, which is really quite impressive if it’s true.
+
+I haven't gotten a chance to actually play with it myself yet, but I'm planning to try it out. It looks pretty impressive. That’s playgrounds for Objective-C. Those are my picks.
+
+<strong>CHUCK:</strong> Cool! Alondo, what are your picks?
+
+<strong>ALONDO:</strong> I have a few picks this week. I was doing an attempt to code by train for the last week and a half, taking the train from here in North Carolina all the way out to Denver, Colorado and back, so my first pick is Amtrak.com. I really did enjoy traveling by train; it’s not without [inaudible 49:47], it’s not perfect, but it really is a cool way to travel. I really enjoyed the experience; it’s pretty awesome.
+
+My second pick is a conference that’s coming up in February that’s being put on by Ray Wenderlich and 360iDev called RWDevCon. It’s basically focused on program tutorials; it’s more of a how-to and a lot more involved than what you typically get in conferences. I'm really looking forward to it; I've already registered, and that is in February of next year in Washington, DC, which is one of my stops along the train tour, as it were.
+
+My third pick is the Ultimate Ears MiniBoom speakers. They're a couple of Bluetooth speakers; I actually can get them individually. I was looking for a better solution than my old jam box for using Bluetooth to play podcasts and music and things while I'm around the house, and this one really, really provides a significant increase in volume and clarity. I'm very pleased with them. So my third pick is Ultimate Ears MiniBoom speakers. Those are my picks.
+
+<strong>CHUCK:</strong> Cool. Jaim, what are your picks?
+
+<strong>JAIM:</strong> Alright, I've got a few picks. One’s kind of an addendum to last week’s episode; we talked about jobs and job hunting and that kind of thing. There's a Stack Exchange for The Workplace, where if you have questions about interviewing, how to behave, what to do, it’s pretty good. And also, check out workplace.stackexchange.com; I'm kind of out of the workforce environment, but it has some pretty good stuff if you're dealing with that type of thing.
+
+And we’re talking about view controllers and splitting up our code, there's one thing we didn’t get to – it’s how do these objects talk to each other? The common way in the Apple world is to do a delegate patter, but that doesn’t scale to every use case, because you can only have one delegate at a time. So objc.io – I can’t say it either – objc.io has a really good blog post on communication patterns, different ways you can communicate between the different objects doing KVO or notifications in addition to delegates, so I recommend that blog post.
+
+Another thing, if you're listening to this episode, you might have a very plus-sized view controller, and how do you get from point A to point B? One book that really helped me in general was Refactoring by Martin Fowler, which is one of the older – it’s an older book, but it’s really one of the more valuable skills you can learn in this industry is how to take mediocre code and make it good code and understand when to make that change. If I would’ve had this book starting out my career, I would’ve saved ten years of making bad choices. Refactoring by Martin Fowler.
+
+He’s got a newer book you talked about on the Ruby Rogues show, right? Is it an update?
+
+<strong>CHUCK:</strong> We talked about Refactoring Ruby Edition, so it’s a little bit different focus, but a lot of the same content.
+
+<strong>JAIM:</strong> Okay, so that would be as good as well, I imagine. So those are my picks.
+
+<strong>CHUCK:</strong> Awesome. I've got a couple of picks. The first one is a book I've been rereading; it’s called Virtual Freedom by Chris Ducker. It’s just a book about outsourcing and it’s super good. If you run your own business and you're looking for ways to kind of get more out of your time then it’s a terrific book and it gives you some really good guidelines on how to do a lot of this stuff, so I can’t recommend it highly enough.
+
+If I'm picking that, I'm also going to be picking my virtual assistant, Mandy. She’s awesome; she does the editing for the show, writes all the show notes, manages a lot of the other stuff related to it, so lots of nice things to say about Mandy. You can find her company at devreps.com. We’ll put a link to that in the show notes as well.
+
+And then also, finally, I've been working – I have to preface this by saying that I've used this company before and I didn’t love the results, but I am much happier with the results this time. I'm using 99designs to have a design done for a conference that I'm organizing in February, and the designs coming back are just awesome, so go check it out if you need – this is for a website. I think they have app design in there as well, but I haven't really looked. But 99 designs is awesome.
+
+If you're curious, the conference is actually a JavaScript conference; it’s going to be online, and the idea is that you don’t have to travel, you don’t have to take time off work. The cost will be low, and that means that it’s online. It’s going to be in the evening three nights/week for two weeks. Anyway, if you're interested in that, you can find it at jsremoteconf.com. It’s just like it sounds, it’s an online conference for JavaScript developers and we’re pulling in a lot of the cool folks that are on JavaScript Jabber regularly or people that we talked to on the show among others, so it should be pretty awesome. If you do JavaScript, I know that’s not necessarily this crowd, but I wanted to pick 99designs because I'm happy with it, and so I may as well mention the conference while I'm at it.
+
+Jay, what are your picks?
+
+<strong>JAY:</strong> Okay, so I'm going to reiterate the earlier pick about using objc.io as a great resource. In particular, the very first issue of the website dealt specifically with the subject that we talked about today, so if you want to learn more about this, then that’s an excellent place to start.
+
+For my other picks, I'm going to go with – one of them is a book that I've been finding very useful recently. It’s actually available on the iTunes bookstore; it’s by Luke Wroblewski, and it’s called Mobile &amp; Multi-Device Designs, Lessons Learned. It’s a collection of some of the design decisions that he’s made over the years doing both web and design of mobile apps, and there are some great, great insight in this book about how you should design your applications in a way that they remain functional yet intuitive and how you can scale those experiences based on the screen size of your device.
+
+My last pick is actually, I guess a one-two combo. I do a lot of work building apps that leverage web services, so I'm constantly looking for tools that let me investigate the web service and see what data is being passed back and forth. Two utilities that I found to be invaluable for that part of my job, one’s called RESTed and the other one’s called Visual JSON.
+
+RESTed lets me formulate calls against the web service and get responses back. Visual JSON also has that capability, but what I like about Visual JSON is it takes these JSON results and kind of displays in a way that makes them a lot more usable. So instead of just being a big dump of text that actually reformats and allows me to expand and contract different parts of the result sets.
+
+<strong>CHUCK:</strong> Awesome. Alright, well thanks for coming, Jay. If people want to get a hold of you or find out more about this topic, what are the best ways for them to do that?
+
+<strong>JAY:</strong> Okay. On Twitter, I'm @jaythrash – J-A-Y-T-H-R-A-S-H – and I do have a blog at jaythrash.com. I don’t [chuckles] write on it as often as I should be, but from time to time I’ll post stuff there that are mostly – these days it’s related to various talks and presentations I've given at either conferences or at our local CocoaHeads group.
+
+<strong>CHUCK:</strong> Awesome. Well, thanks for coming. We’ll wrap the show and we’ll catch you all next week!
+
+<strong><em> [This episode is sponsored by MadGlory. You've been building software for a long time and sometimes it gets a little overwhelming. Work piles up, hiring sucks and it's hard to get projects out the door. Check out MadGlory. They're a small shop with experience shipping big products. They're smart, dedicated, will augment your team and work as hard as you do. Find them online at MadGlory.com or on Twitter @MadGlory.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]</em></strong>
+
+<strong><em>[Would you like to join a conversation with the iPhreaks and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at iphreaksshow.com/forum]</em></strong>

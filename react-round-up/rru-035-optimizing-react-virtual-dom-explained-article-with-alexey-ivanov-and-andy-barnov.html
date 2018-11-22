@@ -1,0 +1,129 @@
+---
+layout: layouts/post.njk
+title: >
+      RRU 035: Optimizing React Virtual DOM Explained Article with Alexey Ivanov and Andy Barnov
+date: 2018-10-30 10:00:33
+episode_number: 035
+duration: 51:22
+audio_url: https://media.devchat.tv/reactroundup/RRU_035_Optimizing_React_Virtual_DOM_explained_article_with_Alexey_Ivanov_Andy_Barnov.mp3
+tags: react-round-up
+---
+
+<p class="p1"><span class="s1"><b>Panel: </b></span></p>
+
+<ul>
+ 	<li class="p2"><span class="s1"><a href="https://github.com/lucasmreis">Lucas Reis</a></span></li>
+ 	<li class="p2"><span class="s1"><a href="https://github.com/zephraph">Justin Bennett</a></span></li>
+</ul>
+<p class="p1"><span class="s1"><b>Special Guests:</b></span><span class="s3"> <b>Alexey Ivanov and Andy Barnov</b></span></p>
+<p class="p1"><span class="s3">In this episode, the panelists talk with <a href="https://twitter.com/savetherbtz?lang=en"><span class="s4">Alexey Ivanov</span></a> and <a href="https://github.com/progapandist"><span class="s4">Andy Barnov.</span></a> They all discuss Alexey’s <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained"><span class="s4">article</span></a> titled: “Optimizing React Virtual DOM.” Listen to today’s episode to hear all the details about this article, the guests’ backgrounds and much, much more! </span></p>
+<p class="p1"><span class="s1"><b>Show Topics:</b></span></p>
+<p class="p1"><span class="s3">0:32 – Panel: Thanks for joining us and talking about this <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained"><span class="s4">article.</span></a> </span></p>
+<p class="p1"><span class="s3">0:52 – Guest: Thanks for having us on your podcast! </span></p>
+<p class="p1"><span class="s3">The guest talks about his community of developers and the offices are in San Francisco, Russia and other places. He talks about how the company helps their customers and how they can scale. Some of their companies are <a href="https://www.groupon.com/?&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=us_dt_sea_ggl_txt_naq_sr_cbp_ch1_ybr_k*groupon_m*e_d*groupon-brand_g*groupon-exact_c*137872562158_ap*1t1&amp;gclid=EAIaIQobChMI9Puun7Kq3gIVDo1pCh2oDgiyEAAYASAAEgJZ7_D_BwE"><span class="s4">Groupon</span></a> and <a href="https://www.ebay.com"><span class="s4">Ebay.</span></a> </span></p>
+<p class="p1"><span class="s3">2:39 – Alexey.</span></p>
+<p class="p1"><span class="s3">3:09 – Panel: The article is <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained"><span class="s4">here.</span></a> </span></p>
+<p class="p1"><span class="s3">What is JSX how does it boil down to? It’s all supposed to help people and help them understand. </span></p>
+<p class="p1"><span class="s3">3:45 – Alexey: It’s about how to structure your state, etc. </span></p>
+<p class="p1"><span class="s3">4:15 – Panel: This keeps things small. He said when I have one idea I write a song and when I have 2 ideas I write 2 songs. If you try to put too many ideas into one post it maybe won’t go too far. </span></p>
+<p class="p1"><span class="s3">4:48 – Alexey.</span></p>
+<p class="p1"><span class="s3">5:50 – Panel.</span></p>
+<p class="p1"><span class="s3">5:56 – Panel: That’s a topic for another episode.</span></p>
+<p class="p1"><span class="s3">The article is interesting in that the large percentage don’t think about rendering performance, so it’s a needed piece of content. Let’s talk about – what is the <a href="https://www.codecademy.com/articles/react-virtual-dom"><span class="s4">React Virtual DOM?</span></a></span></p>
+<p class="p1"><span class="s3">6:32 – Alexey goes into detail with his answer to the panelist’s question. </span></p>
+<p class="p1"><span class="s3">8:50 – Panel: What I like about this article is that you go through a good progression: here is the JSX that you would write and here is the trans piled function is. And you show the virtual DOM pre-presentation is. I think that is a helpful thing. Let’s talk about that. How does React change to those things when it’s rendering? </span></p>
+<p class="p1"><span class="s3">9:50 – Alexey. </span></p>
+<p class="p1"><span class="s3">12:58 – Panel: Okay to recap...when you are rendering an element you write some JSX and the first thing (component) that will map over to the type property is for the Virtual DOM object? And then all of that is compared – when does that happen, the comparison?</span></p>
+<p class="p1"><span class="s3">13:28 – Alexey: You have React and you create...</span></p>
+<p class="p1"><span class="s3">15:20 – Panel: So it’s both React and set state these are the only 2 things that triggered state or is there anything else out there?</span></p>
+<p class="p1"><span class="s3">15:31 – Alexey.</span></p>
+<p class="p1"><span class="s3">15:47 – Panel: Interesting. You talked about the imperative way we did it before – and it’s much simpler to say what you want, but a question is that is there any world case where it does not work well? What are the trade-offs? Have you ever encountered one? </span></p>
+<p class="p1"><span class="s3">16:34 – Alexey: If you have changes in the browse, implementations...it’s simplest and easiest way. You just need to have some little changes...</span></p>
+<p class="p1"><span class="s3">17:53 – Panel: If it’s basic then you don’t have to do manual updates. </span></p>
+<p class="p1"><span class="s3">18:03 – Alexey. </span></p>
+<p class="p1"><span class="s3">Alexey: To make it work you need competence in your bundle. </span></p>
+<p class="p1"><span class="s3">18:36 – Panel: I’ve heard – haven’t worked with – when we have these projects that are really web time based, hundreds of elements in real time on a screen, on a Virtual DOM it’s too slow. You have to be precise. They had performance issues, I’m sure 98.99% of the applications probably perform better with the Virtual DOM. </span></p>
+<p class="p1"><span class="s3">19:46 – Alexey.</span></p>
+<p class="p1"><span class="s3">21:38 – Panel: That is to reduce the amount of state changes so you are reducing the amount of time it renders – right?</span></p>
+<p class="p1"><span class="s3">21:50 – Alexey.</span></p>
+<p class="p5"><span class="s5">22:03 – <a href="https://www.freshbooks.com/?ref=10400&amp;utm_source=sas&amp;utm_medium=affiliate&amp;utm_campaign=87321&amp;sscid=a1k2_rph9e"><span class="s6">FRESH BOOKS!</span></a></span></p>
+<p class="p1"><span class="s3">23:11 – Panel: We talked about how type is the first thing that is checked. It does equal comparison to compare these types. </span></p>
+<p class="p1"><span class="s3">What was really interesting is that class components are the same thing but not so. Is it always going to re-render for those components? </span></p>
+<p class="p1"><span class="s3">24:24 – Alexey: We have to talk about 2 things about this first. In my <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained"><span class="s4">article...</span></a></span></p>
+<p class="p1"><span class="s3">27:49 – Panel: That is a beneficial tool too to control your rendering. You talked about tools to show updates and we will include the link to the article in the links, also I would read it and check out that particular function. It’s cool to see HOW it’s actually rendering.</span></p>
+<p class="p1"><span class="s3">28:29 – Panel: Apparently sometimes things help us in principle cause we need performance. We need to open the tools and understand what is happening? Is it really a bottleneck like I think it is? One of those Twitter things I saw a few months ago...</span></p>
+<p class="p1"><span class="s3">30:52 – Alexey: Yes, do what makes sense to you at the time. </span></p>
+<p class="p1"><span class="s3">32:08 – Panel: We talked about render performance and the pure component and not creating functions...you have a big quote in your article...</span></p>
+<p class="p1"><span class="s3">I have a big question for me: You have a component, and there is a child / parent component. I am curious about that pattern – will it re-render every time? Tell us your thoughts, please.</span></p>
+<p class="p1"><span class="s3">33:16 – Alexey.</span></p>
+<p class="p1"><span class="s3">34:11 – Panel: My only issue with the render props is not a performance issue it’s more of an architectural issue. Sometimes we want things to be interjected. I want to have access to this or that. Sometimes we want to access those on a life cycle. The higher the component makes it easier to add a...</span></p>
+<p class="p1"><span class="s3">That’s my only complaint about render comps.</span></p>
+<p class="p1"><span class="s3">35:35 – Alexey.</span></p>
+<p class="p1"><span class="s3">36:00 – Panel: Like composing consumers?</span></p>
+<p class="p1"><span class="s3">36:06 – Alexey: What we are talking about is...</span></p>
+<p class="p1"><span class="s3">37:00 – Panel: I agree. There are some interesting cases with that pattern when you have a lot of those chained together – function, function, etc. – there are some components that will help you compose... </span></p>
+<p class="p1"><span class="s3">37:34 – Panel: It’s like callback hell all over again.</span></p>
+<p class="p1"><span class="s3">Everything is a tradeoff somewhere. </span></p>
+<p class="p1"><span class="s3">After the tree it looks clean with render props. I like it even with the drawbacks.</span></p>
+<p class="p1"><span class="s3">38:25 – Panel: You spent some time talking about lists of children and how you (if one of the children are removed) then it ends up re rendering all the children cause it’s comparing their positions. You mentioned key is one way to deal with that. Let’s talk about keys. When people use keys they are using an array of an index. It seems like it defeats the purpose of it – is that right? </span></p>
+<p class="p1"><span class="s3">39:20 – Alexey: Yes, you are right. </span></p>
+<p class="p1"><span class="s3">40:19 – Panel: I think that continually and it’s a smaller known thing but people want this key error to go away and they just shove something in there. To some extent it’s good to know if your tool requires something it’s good to know WHY it requires that.</span></p>
+<p class="p1"><span class="s3">40:52 – Panel: Last question. Is that the person to program and be a web developer and they are learning React. This is the tool and they are learning how to use React for an app then when we are throwing articles at them. If they are learning React and these articles are at them I think it’s a cognitive overload. What are your thoughts / advice?</span></p>
+<p class="p1"><span class="s3">42:07 – Guest: How beginner should you be before you learn React? Ideally you should be aware of JavaScript, right? Sometimes people do this to catch up to something shiny. This is just my 2 cents. </span></p>
+<p class="p1"><span class="s3">43:03 – Alexey. </span></p>
+<p class="p1"><span class="s3">44:49 – Panel: When you are going to hire someone to do something or choose a framework always try to do a little bit of work without it. Try to build an application w/o React, and then React is introduced to you, you will only see the benefits that they are brining. One thing that happens inside the React world is that people don’t write an application...</span></p>
+<p class="p1"><span class="s3">Start with the basic building blocks – that makes sense to me. </span></p>
+<p class="p1"><span class="s3">46:05 – Panel: Let’s go to picks!</span></p>
+<p class="p5"><span class="s5">46:13 – <a href="https://www.digitalocean.com/"><span class="s6">Advertisement – Get A Coder Job!</span></a> </span></p>
+<p class="p1"><span class="s1"><b>Links:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li5"><span class="s7"><a href="https://rubyonrails.org"><span class="s6">Ruby on Rails</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://angular.io/guide/quickstart"><span class="s6">Angular</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.javascript.com"><span class="s6">JavaScript</span></a></span></li>
+ 	<li class="li1"><a href="https://elm-lang.org/community"><span class="s6">Elm</span></a></li>
+ 	<li class="li5"><span class="s7"><a href="https://phoenixframework.org"><span class="s6">Phoenix</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://github.com"><span class="s6">GitHub</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.codecademy.com/articles/react-virtual-dom"><span class="s6">React: The Virtual DOM</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/"><span class="s6">Elixir and Phoenix Bootcamp</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://twitter.com/SaveTheRbtz?lang=en"><span class="s6">Alexey Ivanov’s Twitter</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://twitter.com/progapandist"><span class="s6">Andy Barnov’s Twitter</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://youtu.be/cN_DpYBzKso"><span class="s6">Rob Pike’s YouTube Video</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://en.wikipedia.org/wiki/Understanding_Comics"><span class="s6">Understanding Comics</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X"><span class="s6">Understanding Comics – Book</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://devchat.tv/get-a-coder-job/"><span class="s6">Get A Coder Job</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor"><span class="s6">Charles Max Wood’s Twitter</span></a></span></li>
+</ul>
+<p class="p1"><span class="s1"><b>Sponsors:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li5"><span class="s8"><a href="https://devchat.tv/get-a-coder-job/"><span class="s9">Get a Coder Job</span></a></span></li>
+ 	<li class="li5"><a href="https://www.cachefly.com"><span class="s1">Cache Fly</span></a></li>
+ 	<li class="li5"><a href="https://www.freshbooks.com/?ref=ppc-na-fb&amp;camp=US%2528SEM%2529Branded%257CEXM&amp;ag=%257Efreshbooks&amp;kw=fresh%2520books&amp;campaignid=717543354&amp;adgroupid=53169078638&amp;kwid=kwd-299596828929&amp;dv=c&amp;ntwk=g&amp;crid=289653575014&amp;source=GOOGLE&amp;gclid=EAIaIQobChMIwr_9ofSJ3gIVyrfACh1DkQVNEAAYASAAEgJIUvD_BwE&amp;gclsrc=aw.ds&amp;dclid=CPaQ6KX0id4CFUTcwAodvfQEcA"><span class="s1">Fresh Books</span></a></li>
+ 	<li class="li5"><a href="https://www.telerik.com/kendo-ui?utm_medium=social-paid&amp;utm_source=devchattv&amp;utm_campaign=kendo-ui-awareness-jsjabber"><span class="s1">Kendo UI</span></a></li>
+</ul>
+<p class="p1"><span class="s1"><b>Picks:</b></span></p>
+<p class="p8"><span class="s3">Lucas</span></p>
+
+<ul class="ul1">
+ 	<li class="li8"><span class="s3">Check your room for sound </span></li>
+</ul>
+<p class="p8"><span class="s3">Andy </span></p>
+
+<ul class="ul1">
+ 	<li class="li8"><span class="s11"><a href="https://golang.org/"><span class="s12">Go Programming Language </span></a></span></li>
+</ul>
+<p class="p8"><span class="s3">Alexey </span></p>
+
+<ul class="ul1">
+ 	<li class="li8"><span class="s11"><a href="https://understandingcomics177.wordpress.com/understanding-scott-mccloud/https://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X"><span class="s12">Understanding comics </span></a></span></li>
+</ul>
+<p class="p8"><span class="s3">Justin </span></p>
+
+<ul class="ul1">
+ 	<li class="li8"><span class="s11"><a href="https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/"><span class="s12">The Complete Elixir and Phoenix Bootcamp</span></a></span></li>
+</ul>
+
+<h3>Transcript</h3>
+
+

@@ -1,0 +1,783 @@
+---
+layout: layouts/post.njk
+title: >
+      140 RR Heroku with Richard Schneeman
+date: 2014-01-22 14:00:00
+episode_number: 140
+duration: 1:12:29
+audio_url: https://media.devchat.tv/ruby-rogues/RR140Heroku.mp3
+tags: ruby-rogues
+---
+
+<h2><a href="http://teespring.com/rubyroguestee" data-cke-saved-href="http://teespring.com/rubyroguestee">Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well!</a></h2>
+<p dir="ltr">02:51 - <a href="http://www.jobreplacementguide.com/" data-cke-saved-href="http://www.jobreplacementguide.com">The Job Replacement Guide by David Brady</a></p>
+<p dir="ltr">04:42 - Richard Schneeman Introduction</p>
+
+<ul>
+ 	<li><a href="http://www.schneems.com/ut-rails/" data-cke-saved-href="http://www.schneems.com/ut-rails/">Free University Rails Course (UT on Rails)</a></li>
+ 	<li><a href="https://www.youtube.com/user/schneems/videos" data-cke-saved-href="https://www.youtube.com/user/schneems/videos">Richard’s YouTube Screencasts</a></li>
+ 	<li><a href="http://us.battle.net/sc2/en/" data-cke-saved-href="http://us.battle.net/sc2/en/">Starcraft</a></li>
+</ul>
+<p dir="ltr">05:55 - <a href="https://www.heroku.com/" data-cke-saved-href="https://www.heroku.com/">Heroku</a></p>
+
+<ul>
+ 	<li><a href="https://github.com/heroku" data-cke-saved-href="https://github.com/heroku">Heroku (github)</a></li>
+</ul>
+<p dir="ltr">06:42 - <a href="https://devcenter.heroku.com/articles/buildpack-api" data-cke-saved-href="https://devcenter.heroku.com/articles/buildpack-api">Buildpack</a></p>
+
+<ul>
+ 	<li><a href="https://gist.github.com/schneems/36cf49832b16955ae428" data-cke-saved-href="https://gist.github.com/schneems/36cf49832b16955ae428">Richard's Heroku Gist</a></li>
+</ul>
+<p dir="ltr">12:53 - Parallel Installation</p>
+<p dir="ltr">15:03 - Security</p>
+
+<ul>
+ 	<li>Secrets.YAML</li>
+ 	<li><a href="http://rubygems.org/gems/dotenv" data-cke-saved-href="http://rubygems.org/gems/dotenv">dotenv gem</a></li>
+</ul>
+<p dir="ltr">22:26 - <a href="http://12factor.net/" data-cke-saved-href="http://12factor.net">The Twelve Factor App</a></p>
+
+<ul>
+ 	<li>Logging</li>
+ 	<li><a href="http://www.confreaks.com/videos/2661-btvruby2013-millions-of-apps-what-we-ve-learned" data-cke-saved-href="http://www.confreaks.com/videos/2661-btvruby2013-millions-of-apps-what-we-ve-learned">Millions of Apps: What We’ve Learned - Richard Schneeman</a></li>
+ 	<li>Sprockets</li>
+ 	<li><a href="https://npmjs.org/package/mongres" data-cke-saved-href="https://npmjs.org/package/mongres">mongres</a></li>
+ 	<li><a href="https://github.com/schneems/sprockets_better_errors" data-cke-saved-href="https://github.com/schneems/sprockets_better_errors">sprockets_better_errors</a></li>
+ 	<li><a href="http://rubyrogues.com/135-rr-http-2-0-with-ilya-grigorik/" data-cke-saved-href="http://rubyrogues.com/135-rr-http-2-0-with-ilya-grigorik/">Ruby Rogues Episode #135: HTTP 2.0 with Ilya Grigorik</a></li>
+ 	<li><a href="http://en.wikipedia.org/wiki/HTTP_2.0" data-cke-saved-href="http://en.wikipedia.org/wiki/HTTP_2.0">HTTP 2.0</a></li>
+</ul>
+<p dir="ltr">32:28 - <a href="https://www.heroku.com/pricing" data-cke-saved-href="https://www.heroku.com/pricing">Heroku Pricing</a></p>
+
+<ul>
+ 	<li>Sleeping</li>
+ 	<li><a href="https://devcenter.heroku.com/articles/dynos" data-cke-saved-href="https://devcenter.heroku.com/articles/dynos">Dynos</a></li>
+</ul>
+<p dir="ltr">37:48 - Faux Pas Using Heroku</p>
+<p dir="ltr">43:08 - <a href="http://newrelic.com/" data-cke-saved-href="http://newrelic.com/">New Relic</a></p>
+
+<ul>
+ 	<li><a href="https://twitter.com/ryandotsmith" data-cke-saved-href="https://twitter.com/ryandotsmith">@ryandotsmith</a></li>
+</ul>
+<p dir="ltr">45:53 - <a href="https://devcenter.heroku.com/articles/log-runtime-metrics" data-cke-saved-href="https://devcenter.heroku.com/articles/log-runtime-metrics">log-runtime-metrics</a></p>
+<p dir="ltr">46:31 - The Router/Routing Performance</p>
+<p dir="ltr">55:45 - Limitations</p>
+
+<ul>
+ 	<li><a href="http://hirefire.io/" data-cke-saved-href="http://hirefire.io/">HireFire</a></li>
+</ul>
+<h3>Book Club</h3>
+<a href="http://patshaughnessy.net/ruby-under-a-microscope" data-cke-saved-href="http://patshaughnessy.net/ruby-under-a-microscope">Ruby Under a Microscope by Pat Shaughnessy</a>! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014. <a href="http://www.nostarch.com/" data-cke-saved-href="http://www.nostarch.com/">No Starch</a> was kind enough to provide this coupon code your listeners can use to get a discount for <a href="http://nostarch.com/rum" data-cke-saved-href="http://nostarch.com/rum">Ruby Under a Microscope</a>. Use the coupon code <strong>ROGUE</strong> for 40% off! <em>(Coupon expires April 1, 2014.)</em>
+<h3>Next Week</h3>
+Teaching Kids with Ron Evans
+
+<h3>Transcript</h3>
+
+<strong>CHUCK:  </strong>I contracted for a company and one of their security measures was to occasionally send you deliberate spam. And if you clicked on it, you fail.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>I’m not kidding.
+
+<strong>JOSH:  </strong>That is hilarious.
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] </em></strong>
+
+<strong><em>[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]</em></strong>
+
+<strong><em>[This episode is sponsored by Code Climate. Over 1,000 organizations trust code climate to help improve quality and security in their Ruby apps. Get 50% off your first three months for being a Rogues listener by starting a free trial this week. Go to RubyRogues.com/CodeClimate.]</em></strong>
+
+<strong><em>[This episode is sponsored by SendGrid, the leader in transactional email and email deliverability. SendGrid helps eliminate the cost and complexity of owning and maintaining your own email infrastructure by handling ISP monitoring, DKIM, SPF, feedback loops, whitelabeling, link customization and more. If you’d rather focus on your business than on scaling your email infrastructure, then visit www.SendGrid.com.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 140 of the Ruby Rogues podcast. This week on our panel, we have Josh Susser.
+
+<strong>JOSH:  </strong>Good morning.
+
+<strong>CHUCK:  </strong>David Brady.
+
+<strong>DAVID:  </strong>Hi. My name is Warner Brandis. My voice is my passport. Verify me.
+
+<strong>CHUCK:  </strong>Avdi Grimm.
+
+<strong>AVDI:  </strong>Hello from Pennsylvania.
+
+<strong>CHUCK:  </strong>I’m Charles Max Wood from DevChat.TV. And this week, we have a special guest, and that’s Richard Schneeman.
+
+<strong>RICHARD:  </strong>Howdy from Austin, Texas.
+
+<strong>CHUCK:  </strong>So, before we get started, we do have a couple of announcements. The first one is that we had several people let us know that they couldn’t buy T-shirts on the Booster campaign that we did, either because of international shipping or because it only went up to 2XL or it didn’t go small enough. I think there were a few of those too.
+
+<strong>DAVID:  </strong>So, fat Americans and foreigners.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Or fat foreigners.
+
+<strong>JOSH:  </strong>Chuck, maybe you can talk about what Booster campaign you’re referring to.
+
+<strong>CHUCK:  </strong>Right, so that was for our t-shirt campaign. We’ve actually gone ahead and started another campaign. This one’s on Teespring and they do international shipping and they have a few more sizes. So, if you are looking for those.
+
+<strong>DAVID:  </strong>And they have hoodies.
+
+<strong>CHUCK:  </strong>Oh, yes.
+
+<strong>DAVID:  </strong>They have hoodies.
+
+<strong>CHUCK:  </strong>Yeah, I had to order me a hoodie. So anyway, if you want a hoodie, you want a bigger shirt, or you want it shipped somewhere that’s not the US, or if you want to ship somewhere that is the US, then you can get it. It’s at TeeSpring.com/RubyRoguesTee and you can pick that up. We’ll put links in the show notes so that you can find it. The campaign ends in about a week. So, we didn’t have as long a campaign on this one just because of the way that they work over there. But we know people want them, so go sign up. Go get one. Anyway, and then Dave, don’t you have something that you wanted to bring up as well?
+
+<strong>DAVID:  </strong>I do. And I’m a little distracted because I’m actually in, what I should have said in my introduction is I’m in Denver. And I’m actually sitting in Katrina’s seat where she podcasts. And her audio setup is so much better than mine. And I’m really, really distracted by that. So, I just wanted to point that out, that I’m out in Denver visiting with Katrina and it’s awesome. But yes, I have an announcement today. So, hey guys, are you unemployed?
+
+<strong>CHUCK:  </strong>Nope.
+
+<strong>JOSH:  </strong>No.
+
+<strong>RICHARD:  </strong>Nah.
+
+<strong>DAVID:  </strong>I know. Me too. Do you hate your job?
+
+<strong>CHUCK:  </strong>No.
+
+<strong>J</strong><strong>OSH:  </strong>No.
+
+<strong>DAVID:  </strong>You betcha. So do I. Are you worried about where your next rent check will come from if you get laid off?
+
+<strong>CHUCK:  </strong>Uh-uh.
+
+<strong>JOSH:  </strong>No.
+
+<strong>DAVID:  </strong>Yes, me too. And that’s why I’m writing The Job Replacement Guide. Find your next job or gig in record time by using tricks and techniques that I’ve developed over a lifetime of being insufferable. Find out more about it at JobReplacementGuide.com where you can sign up for the mailing list to get advanced content, updates on the book, and a discount when the book launches. Job Replacement Guide because oh, crap.
+
+<strong>JOSH:  </strong>You know Dave, I wasn’t dissatisfied with my job before. But I am now.
+
+[Laughter]
+
+<strong>DAVID:  </strong>That’s excellent. That’s excellent. So, all joking aside, my record is four hours from getting fired cold to reporting for work at my next job. So, I do know a little bit about what I’m talking about. But I’m hoping to have as much fun with talking about it as, it’s a panic-laden subject. But I’m hoping to have a lot of fun with it. And so, that’s my announcement. JobReplacementGuide.com, check it out, please.
+
+<strong>CHUCK:  </strong>Now I’m sad.
+
+<strong>DAVID:  </strong>Why?
+
+<strong>CHUCK:  </strong>Because my record’s six hours and I’ve never met anybody who had one shorter.
+
+[Laughter]
+
+<strong>JOSH:  </strong>I guess things move fast in Utah.
+
+<strong>DAVID:  </strong>Yup. Yup.
+
+<strong>CHUCK:  </strong>Yup.
+
+<strong>JOSH:  </strong>So, hey Richard, how’s it going?
+
+<strong>RICHARD:  </strong>It’s going well, having a great morning.
+
+<strong>CHUCK:  </strong>We should let Richard introduce himself.
+
+<strong>JOSH:  </strong>Yeah.
+
+<strong>CHUCK: </strong> The Heroku guru guy.
+
+<strong>RICHARD:  </strong>Okay. I’m the Heroku guru guy apparently. I work for Heroku. I am a Ruby task force member. I also teach at the University of Texas down in Austin. I teach a Ruby on Rails class. And I don’t know. I play StarCraft or something.
+
+<strong>JOSH:  </strong>[Laughs]
+
+<strong>CHUCK: </strong>You don’t sound sure about that.
+
+<strong>JOSH:  </strong>Are you good?
+
+<strong>RICHARD:  </strong>It might be Tetris. I’m not sure.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>See, it’s StarCraft or something. Yeah well you know, you throw out the professional stuff and then you throw an oddball, like I’m a space camp graduate. So, I couldn’t quite pick. StarCraft, I’m going with StarCraft.
+
+<strong>DAVID:  </strong>Okay.
+
+<strong>JOSH:  </strong>And you’re schneems online.
+
+<strong>RICHARD:  </strong>Yes, schneems online. I have a bunch of videos on YouTube under schneems.
+
+<strong>JOSH:  </strong>And I’ve seen you speak at a bunch of conferences that you write a bit.
+
+<strong>RICHARD:  </strong>Yeah.
+
+<strong>JOSH:  </strong>So, you’re all over the place.
+
+<strong>RICHARD:  </strong>From time to time. I’m a wildcard.
+
+<strong>JOSH:  </strong>You’re a wildcard. Does that mean you need a special kind of [cert] for the nick lookup? [Chuckles]
+
+<strong>CHUCK:  </strong>They cost more.
+
+<strong>JOSH:  </strong>Cool. So, you’re a wildcard, great. So, does that mean that we don’t know what we’re talking about today?
+
+<strong>RICHARD:  </strong>So, at Heroku, I work on the Ruby buildpack. And this is the special piece of software that actually accounts for installing everything you need on the system to actually run your Ruby program. So, you see the bundle install flying by, the assets precompilation crawling by. I along with Terence Lee am responsible for that. So, we’ve been doing a lot of performance optimization. And I’m interested in talking a little bit about that.
+
+<strong>DAVID:  </strong>Richard, you just went from “Who’s this Richard guy?” to “I love you.” [Laughter]
+
+<strong>RICHARD:  </strong>Mission accomplished.
+
+<strong>DAVID:  </strong>Yup.
+
+<strong>JOSH:  </strong>Texas is home to a lot of very loving men.
+
+<strong>DAVID:  </strong>Yes.
+
+<strong>JOSH:  </strong>They just put it out there. Okay. [Chuckles] Okay, so buildpack.
+
+<strong>DAVID:  </strong>This episode is already so weird, it’s so awesome. [Laughter]
+
+<strong>DAVID:  </strong>I’m running on three hours of sleep. This is great.
+
+<strong>JOSH:  </strong>Yeah, and we’re lost without James.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>DAVID:  </strong>Yes. Oh, James.
+
+<strong>JOSH:  </strong>Okay. So, tell us a little more about buildpack, because that sounds interesting and I think many of us don’t really know much about it, or have never heard of it before.
+
+<strong>RICHARD:  </strong>Yeah. So, take a little trip down memory lane. If you used the original version of Heroku, or the Aspen stack as it was called, whenever you deploy to Heroku, all you could do is deploy Ruby apps. And it basically, just the way that they accomplish not having to install dependencies or install a version of Ruby or anything is literally everything was preinstalled. You had one version of Ruby. You had only this handful of gems that were installed. And if you wanted anything else, too bad. You could open a support ticket and request that they gem install on every single system, which in some ways it was cool because deployment was insanely fast. You didn’t have to do anything. And over the years, we worked on making it a lot more flexible. So, after Aspen came Bamboo where you could do, and new tools developed, the ecosystem bundler came about. So, now you can install dependencies and actually practically declare dependencies. And now with our latest platform, I think we released roughly about two years ago, you’re no longer even just limited to Ruby. We’ve got support for JVM languages, Java, Python. We actually just recently hired a buildpack maintainer for PHP, so that’s going to be pretty exciting. I know a lot of Rubyists like to dig on PHP. But there’s a ton of webpages and web apps powered by PHP these days.
+
+<strong>JOSH:  </strong>And also, think about the awesome opportunities for Drupal and Rails integration. [Laughs]
+
+<strong>RICHARD:  </strong>Drails. Railspal.
+
+<strong>JOSH:  </strong>I really want to make a RuPaul joke, but I can’t quite figure it out.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>There you go. So, basically what happens whenever you deploy is the platform essentially hands the buildpack all of your code. And so, it’s a blank slate. We have to figure out what we need to do. So, we take a look in your gem file and we pull out your version of Ruby. We install that version of Ruby. We install of your dependencies via your gem file. We also take a look at what version of Rails or Rack or different frameworks that you’re using. And there’s just a ton of special casing. Anytime you’ve ever gone to a forum post and they’re like, “Oh yeah, hey everything works except for there’s this one weird little side edge case.” We have to handle that for every app on the platform ever. So, it’s definitely interesting. I’ve seen more than my fair share of really weird Ruby bugs. And whenever you’re handling the volume of Ruby deployments, the one in a thousand or even one in a million code edge cases actually happens relatively frequently. So, it’s a lot of fun. <strong>DAVID:  </strong>So, do you just read the gem file and bundle install everything or, I’m hoping this is the case because they’re called buildpacks, do you figure out what the gem dependencies are and then go find something that’s prebuilt that you can just slam in as the first three quarters of the slug or the dyno or whatever and then build on top of that?
+
+<strong>RICHARD:  </strong>So, actually, this works really well into one of the performance patches that we’ve been working on. So, in the last couple of months, we’ve managed to actually get deploy speeds, or the perk 50 of deploy speeds up by about 40%. So, essentially on average, the deploy speeds are 40% faster today than they were a couple of months ago. We do a bunch. What I gave earlier was the oversimplification. After we install your gems, we do cache them. So basically, if you install Rails 4, you never have to install Rails 4 again unless you do something like upgrade Ruby versions, which could potentially poison that cache. You need a different version of the atomic gem since it’s compiled. But one of the really neat things that we’ve done is actually taken a little bit of analysis and seeing some of the most common installed gems on the system and already had those available on the very first push. One of our usability goals is to just have Rails be able to work. Rails new, and then git push heroku master, that’s our golden, what we’re driving for. And we’re also working for we would like your first push to be basically within 95% speed of your second push, for as possible as that is. An example, the postgres gem, or even if you’ve ever had to install the nokugiri gem, both can take a little bit of time. So, on certain versions of Ruby on the Heroku platform, we’ve preinstalled those and make those available as a cache. And if your app needs them, great. It’s already there, doesn’t have to install it. Boom, just works. If it doesn’t need them, it gets cleaned up after the first push and there’s no real loss in speed. So, that’s one way that we’ve been working at getting back some of that awesomeness of just having a bunch of stuff preinstalled on the system, but also allowing a lot of flexibility. So currently, that’s only for our default version of Ruby which is also 2.0.
+
+<strong>JOSH:  </strong>Okay.
+
+<strong>RICHARD:  </strong>Yeah.
+
+<strong>JOSH:  </strong>That’s a pretty good recap.
+
+[Laughter]
+
+<strong>JOSH:  </strong>So, my takeaway from all that was that deploys are going to get a lot faster and there are going to be some nice new features [inaudible] for.
+
+<strong>RICHARD:  </strong>Oh yeah. We’re doing lots of stuff. Just shipped the ability to parallel install gems this morning, that’s why I’m having such a good morning besides being on the show.
+
+<strong>JOSH:  </strong>Parallel gem install.
+
+<strong>RICHARD:  </strong>Yes.
+
+<strong>JOSH:  </strong>But you can’t install perpendicular gems though.
+
+<strong>RICHARD:  </strong>I tried. Didn’t work, didn’t work.
+
+<strong>DAVID:  </strong>Perpendicular gems are the only normal gems though.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>Oh, physics orthogonality joke.
+
+<strong>CHUCK:  </strong>So, when you’re talking about parallel installation though, you’re talking about installing more than one at the same time?
+
+<strong>RICHARD:  </strong>Exactly.
+
+<strong>CHUCK:  </strong>And we keep hearing about the concurrency issues with Ruby. So, are you using something other than MRI or is there some other thing that I’m just overlooking here or what?
+
+<strong>RICHARD:  </strong>Nope. It works on all versions of Ruby that I know of. It’s a feature that was merged into Bundler itself. So, you can now run, if you’re using the most recent version of Bundler, you can run bundle install –j which was a really weird flag for me until somebody pointed out that it was jobs. So, j4 will give you install up to four gems at the same time. And we’re basically just using good practices, using the queue for anytime we’re trying to pass data in between any kind of threads or I guess processes and locks and just code reviews, good tests, all that jazz. Yeah. So, I’m --
+
+<strong>DAVID:  </strong>You can bundle install with multiple jobs?
+
+<strong>RICHARD:  </strong>Yeah, yeah. It’s
+
+<strong>DAVID:  </strong>Hang on. I got to go do something. I’m back.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>That was quick.
+
+<strong>JOSH:  </strong>Yeah. Yeah, yeah, there’s a lot of cool stuff that they’ve been working on for Bundler and Ruby gems and their integration. And we’ll have to have an episode for that in a couple of months once that all settles out. But it sounds pretty exciting, all the stuff that’s been going on.
+
+<strong>RICHARD:  </strong>Oh yeah, yeah. And with installing gems, it’s a perfect candidate for doing parallel things with MRI because a lot of your time is spent doing things like network traffic and working with disks. And so, anytime you’re doing I/O like network traffic or working with disks, we don’t have to have that lock, that global interpreter lock. So, you still get a pretty decent speed improvement even if you’re not using JRuby or Rubinius.
+
+<strong>JOSH:  </strong>Okay, that’s cool.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>JOSH:  </strong>Great. Okay. So, what else? So, you’ve been talking about Rails 4.1 changes and compatibility and the bold new world of secrets.
+
+<strong>RICHARD:  </strong>Oh yes. Yeah, are you all familiar with the secrets YAML conspiracy?
+
+<strong>JOSH:  </strong>[Laughs]
+
+<strong>DAVID:  </strong>No.
+
+<strong>JOSH:  </strong>Well I didn’t know about the conspiracy.
+
+<strong>RICHARD:  </strong>Tonight at nine. So, okay. This is a thing that’s been going on in Rails for a while, the security thing. I don’t know if you’ve heard of it. It’s up and coming in the community where people care about secure apps. And one of the ways that Rails used to get nailed, before all of the remote code execution, was cross-site request forgery where somebody can actually make a request and make your Rails app think it came from your own trusted webpage. So, secrets.YAML was a way to combat that and say, “Alright, we’re going to do it right. We’re going to be really secure. We’re going to make everything secure by default.” And so, there is a token in there where we will actually sign all of our secrets. And as long as this token is secure, it’s just a random string, abcdgoldfish, then everything is secure and everything’s golden.” But when it got implemented and shipped into Rails 4.1, there was an issue. The secrets.YAML, which is really similar in structure to a database.yaml where you’ve got your production, your development, your test environment, it’s just plain text and it’s not in the .gitignore file. So essentially, everybody who created a new Rails 4.1 and then just did git on it, git add . now had this token in their source control. And then if they do something silly like open source their app, then they’re completely open to attack. That was the big kerfluffle. That’s my word of choice for the day.
+
+<strong>JOSH:  </strong>I believe it’s pronounced kerfuffle.
+
+<strong>RICHARD:  </strong>Kerfuffle. Oh, you know I think I’ve gotten into a couple of Twitter arguments on this.
+
+<strong>JOSH:  </strong>Over kerfuffle?
+
+<strong>RICHARD:  </strong>A kerfluffle is just so much gentler and friendlier and funny.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>You do it at slumber parties, all of the above. So, there’s a really long thread on GitHub where they were like, “Hey yo, put this in the .gitignore. It’s obviously secure. We should be secure by default.” And they went back and forth and it was like, “Okay well database.yaml isn’t in a .gitignore by default. So, what are we going to do?” And at the end of the day, we came to the conclusion, “Okay well hey it’s a YAML file. We can put ERB in it.” So, if you want, you can read an environment variable from your YAML file. You can just put an environment variable there, which is something obviously Heroku is a big proponent of. And it’s actually interesting now with a lot more ability to run these containerized apps locally. So, using something like Docker, it’s a lot easier to actually just be able to set things via an environment variable where it’s not going to mess up your entire system. So now by default, it’s actually going to be reading in your production config from this environment variable. So yeah, I don’t know. I feel like I went a little fast there.
+
+<strong>JOSH:  </strong>Can we get a TL;DR on that?
+
+<strong>RICHARD:  </strong>So, whenever you push to Heroku, you’re going to be secure by default. And even if your app is open source, nobody can just view your source code and hack your app.
+
+<strong>JOSH:  </strong>Oh, that sounds good.
+
+<strong>RICHARD:  </strong>Yeah, yeah.
+
+<strong>DAVID:  </strong>Nice.
+
+<strong>RICHARD:  </strong>My favorite security is the security I don’t have to think about.
+
+<strong>JOSH:  </strong>Right. So, I did hear that the next Rails release is going to have the secrets.yaml in gitignore by default.
+
+<strong>RICHARD:  </strong>No.
+
+<strong>JOSH:  </strong>No?
+
+<strong>RICHARD:  </strong>No.
+
+<strong>JOSH:  </strong>I thought that that patch got accepted.
+
+<strong>RICHARD:  </strong>Well instead, by default they’re actually reading from an environment variable.
+
+<strong>JOSH:  </strong>Oh, okay.
+
+<strong>RICHARD:  </strong>Yeah.
+
+<strong>JOSH:  </strong>So, at least the default isn’t your secret goes in your Git repo.
+
+<strong>RICHARD:  </strong>[Chuckles] Exactly, exactly. So, it gives you the option. If you did want to put it in gitignore, totally, do it. If you’re going to be using some sort of containerized deployment like Heroku Docker, whatever, then do that. It just works by default, out of the box.
+
+<strong>JOSH:  </strong>Okay.
+
+<strong>AVDI:  </strong>I really like the dotenv gem for that stuff.
+
+<strong>RICHARD:  </strong>Oh yeah. Brandon Keepers?
+
+<strong>AVDI:  </strong>Yeah. You put your secrets in a .env file which basically looks exactly like a bunch of environment variable assignments. And environment variables take precedence, but otherwise they’re loaded from there. You can add that to your gitignore.
+
+<strong>RICHARD:  </strong>Exactly. The dotenv gem is a way of life for me.
+
+<strong>AVDI:  </strong>Yeah. Yeah, I’ve been using it on all my projects.
+
+<strong>RICHARD:  </strong>Awesome.
+
+<strong>AVDI:  </strong>I even wrote an Elixir version because I couldn’t stand not having it.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>Is that open source?
+
+<strong>AVDI:  </strong>Yeah.
+
+<strong>RICHARD:  </strong>Okay, cool, very cool. Yeah, so the similar thing with database.yaml. So, now are going, so a little backstory. The only way previously to configure Rails to work with Heroku was to actually essentially inject a file into your codebase. So, we would overwrite your database.yaml file, which if you’ve been around the block a time or two that doesn’t sound like fun. That sounds like pretty nasty hacks with unexpected, “Why doesn’t this work?" until you actually do heroku run bash and then cat your database YAML file and realize it’s not what you wrote. So, we actually did a bunch of work to get rid of the need to do that. So, now it is also checked in by default and it will be defaulting to an environment variable and under a URL subkey. So, you can say production and then underneath it you can say URL and then pass it an actual connection, a connection URL to a database, which is pretty cool.
+
+<strong>JOSH:  </strong>Yeah.
+
+<strong>AVDI:  </strong>I did something. It sounds like what I’ve been doing in the app I’ve been working on, again using dotenv. And I’m pushing to Heroku so I noticed that you’ve got the database URL all conveniently in an environment variable so I just figured, “Okay why not just do that locally as well?”
+
+<strong>RICHARD:  </strong>Yeah.
+
+<strong>AVDI:  </strong>So, my local database URL which is postgresql:// or postgres or whatever, ://user@host et cetera, et cetera. And that’s in my .env file. And then when I push it up, it’s using the one from Heroku. It works great. I don’t know why we weren’t using database URLs all this time.
+
+<strong>RICHARD:  </strong>Well, it’s funny. So, in this job, being all the different languages that we support were all grouped together in one team. So, I actually get a lot of exposure to how things work in say Python or Node. And most of the other languages or most of the libraries actually prefer database URLs for connection instead of this hash syntax.
+
+<strong>AVDI:  </strong>Yeah, well that’s the classic way to do it.
+
+<strong>RICHARD:  </strong>Yeah.
+
+<strong>AVDI:  </strong>There are stuff I guess that you probably can’t get into the URLs. I’m sure there are configuration variables like, I don’t know, number of connections or something.
+
+<strong>RICHARD:  </strong>Yeah.
+
+<strong>AVDI:  </strong>You can’t get in there, but for the most part yeah, the URL gives you what you need.
+
+<strong>RICHARD:  </strong>Recently I was alerted to a Rails 3.2 bug where in active record, you can actually specify a database URL and you can put some query parameters at the end of it. So, you can say pool=5 and it just does the right thing. But one of the things, if you say prepared statements = false, it comes back as a string. And the string of false is true.
+
+<strong>AVDI:  </strong>It’s true. [Laughs]
+
+<strong>DAVID:  </strong>Awesome.
+
+<strong>RICHARD:  </strong>So, you’ve got prepared statements.
+
+<strong>DAVID:  </strong>JavaScript would have gotten that right.
+
+[Laughter]
+
+<strong>JOSH:  </strong>Yeah, why aren’t we all using Node? Okay, so Richard, is there any other new cool stuff coming along? So, I don’t know how many people know about the association between the Twelve-Factor App design and Heroku. But the stuff we’ve been talking about fits in there, fits in that whole twelve-factor design of decoupling things and using environment variables. Is there more about the twelve-factor that is getting supported more?
+
+<strong>RICHARD:  </strong>So, I definitely say yes. In terms of when that will actually go in or how it will look, I have no clue. One of the things that I’m really interested in is fixing logging. So, right now, if you’re deploying Rails 4 under Heroku, you actually need a gem. Or you can manually just say, “Hey log to standard out,” because the Rails default is logging to a file. And that works really great for locally, but as soon as you start running one, two, ten, a hundred different machines and you start saying, “Alright now how am I actually going  to group all of these files together in a time-sequenced order?” it becomes a nightmare. And then you have log rotate to make sure that your logs don’t crash your machine. And so, getting logging, I guess. I’m not going to say fixing logging because it’s not really broken. But making logging just a little bit more able to be compatible with a platform so that you just don’t have to worry about it is something I’m interested in. Also, definitely this is not twelve-factor related. And the website Josh was referring to is 12Factor.net so you can go there. It’s sort of a manifesto, might be a little hard to grok. I’ve got a talk actually that covers a lot of it called ‘Millions of Apps: What We’ve Learned’ that more or less handles that. So, one of the other things that are coming is better integration with sprockets. And when I say better integration, I don’t really mean better integration with Heroku. I just mean better integration between development and production. So, that is something that we care a lot about in twelve-factor where your production environment should closely match your development environment or vice versa. <strong>DAVID:  </strong>Nice.
+
+<strong>RICHARD:  </strong>Yeah, if you’re going to be deploying to postgres, don’t develop locally in Mongo. Been there, done that, anybody? No? [Chuckles]
+
+<strong>RICHARD:  </strong>Okay.
+
+<strong>DAVID:  </strong>I’m smart enough to [inaudible] avoided it. [Laughter]
+
+<strong>JOSH:  </strong>Wait, wait, wait, wait, wait, you’re building an app with postgres [inaudible]? Can you do that?
+
+<strong>RICHARD:  </strong>So funny, there’s actually a project called Mongres, since postgres supports JSON data types. Mongres actually implements the Mongo wire protocol basically and allows you to have your app think it’s using Mongo but it’s really secretly using a postgres database. [Laughter] <strong>DAVID:  </strong>That’s awesome.
+
+<strong>RICHARD:  </strong>Do not do this.
+
+[Laughter]
+
+<strong>DAVID:  </strong>This sounds like James Golick’s Friendly ORM, which was he got so mad at Mongo that he went and wrote a NoSQL adapter for Rails that would just stick blobs into, well not blobs, I think JSON, into MySQL.
+
+<strong>RICHARD:  </strong>Oh.
+
+<strong>DAVID:  </strong>Yeah, same idea.
+
+<strong>RICHARD:  </strong>Sounds friendly. So, I don’t know if you all have run into this problem, but with sprockets, there’s this whole idea of they will only precompile certain files. So, application.css will be precompiled. So, you can reference application.css from your HTML and you’re fine. But if you try to say, “Oh I need this one specialized CSS file for this one specialized page, like search.css,” if you do that it blows up because you didn’t tell sprockets to essentially precompile this file. So, it’s not even available. And that was done in interested of speed because everybody doesn’t like how slowly it takes your sprockets to generate. So, this is by far, in a way, the most common support ticket that we get at Heroku. Another interesting thing about just being able to work with such a large platform is just seeing the common types of issues that come in regularly. And a lot of them aren’t really Heroku issues but rather, “Okay it worked on my machine but it doesn’t work on production.” And that’s not necessarily a Heroku problem but it’s more of a, well the tools didn’t necessarily point you in the right direction in development to let you know that you were doing something wrong. So, I have a gem called sprockets_better_errors, I think it’s actually merged into master on the sprockets rails integration, that will raise errors in development if you’re doing something that will cause errors in production.
+
+<strong>CHUCK:  </strong>I was about to say if you see these problems, why don’t you fix them? And it sounds like you are.
+
+[Laughter]
+
+<strong>JOSH:  </strong>That sounds like it’s like lint for your sprockets.
+
+<strong>RICHARD:  </strong>Yeah, almost, sprockets lint. Every time I say sprockets, I just think of George Jetson.
+
+<strong>JOSH:  </strong>Yes, Spacely’s Sprockets, yeah. [Chuckles]
+
+<strong>RICHARD:  </strong>Jane, I pushed the button twice today.
+
+[Laughter]
+
+<strong>AVDI:  </strong>So, apart from sprockets --
+
+<strong>JOSH:  </strong>Hey, hang on, before we move on from sprockets.
+
+<strong>AVDI:  </strong>Yes.
+
+<strong>JOSH:  </strong>Richard, did you get to listen to the episode when we had Ilya Grigorik on recently talking about HTTP 2.0?
+
+<strong>RICHARD:  </strong>I did not, unfortunately. Sorry.
+
+<strong>JOSH:  </strong>Oh okay, so sprockets was a bit of a topic on that show. And we were talking about how, Ilya was saying that sprockets is an insane solution to the problem.
+
+[Laughter]
+
+<strong>JOSH:  </strong>And HTTP 2 is going to fix all that. And one of the things that we talked about was the Google and the Facebook, giant companies that have all these big scaling issues, they have an interest in making or in solving problems a certain way that helps them. But it’s like all these people who are just doing tiny little websites don’t have the same kind of scaling issues. So, a lot of the binary protocol aspects of HTTP 2 might not necessarily be the best thing for your little indie website. So, Heroku’s in an interesting position because you have a big-scaled platform that you’re working. So, a lot of those same kinds of things are going on, but the kind of things that HTTP 2 is doing to bundle together all of your downloads, I guess that’s not something that will work across your whole platform of all of your clients’ apps. Anyway, at some point we got to come back and talk about that, when HTTP 2 is more of an issue.
+
+<strong>RICHARD:  </strong>Oh yeah, yeah. We’re very much customer focus driven. If everybody is saying, “Okay we really care about,” and it sounds silly, it’s like, “Okay we really care about availability,” then that’s where we put the majority of our effort. It’s increasing that or increasing speed, getting these kinds of things. Recently one of the biggest thorns in my side was that we didn’t support WebSockets. So, I’d talk to somebody and they’d be like, “Oh what’s Heroku? I’ve heard it was kind of good. And here’s what my app does. Can I run on Heroku?” But they were using WebSockets and I’d have to say no. But now we’ve recently allowed that through a beta feature. And it’s one of those if there are enough voices using it then it becomes something that we can prioritize and work on. I’m not going to say that I guarantee that we will be solving and working on all those problems. But I think the HTTP 2 case is definitely interesting. I was recently reading an article which was saying that on over something like a 3G connection, mobile connection, using HTTP 2 is relatively negligible. The speed benefit just doesn’t, like the things it’s optimizing for on say a desktop experience, you don’t even run into those in mobile. Unfortunately [chuckles] after I brought that up, I’m totally not an expert in HTTP 2. So, definitely maybe after that comes a little bit more into the limelight, I could come on the show again, maybe.
+
+<strong>CHUCK:  </strong>So, you talked a little bit about not having a feature and then adding it in. There are some pretty common restrictions that you have with Heroku, especially the three-tier. And I understand why you have restrictions on the three-tier. But one of the things that bother me sometimes is not being able to write to the file system. And that’s a global thing.
+
+<strong>AVDI:  </strong>Wait, you can’t?
+
+<strong>RICHARD:  </strong>Well, boom. I just fixed it. You totally can.
+
+<strong>AVDI:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>Oh, you can?
+
+<strong>RICHARD:  </strong>Yeah, you totally can, unless you’re using an older, unless your app is using Bamboo. That was a read-only file system. Now you’re on Cedar, it’s an ephemeral file system. You could read to it, you could write from it, or backwards. You can read and write. But it’s not guaranteed to persist to disk. If your app restarts for any reason, then you lose everything you’ve written to disk.
+
+<strong>CHUCK:  </strong>Okay.
+
+<strong>RICHARD:  </strong>Yeah. And that is good. Most people, they start with one app and then they start doing things like writing images of avatars to that one box. And then they say, “Oh now I need to scale out.” And now they have two boxes, but they only have images on half of them. So, half of the requests come back with images and half of them don’t. So, if you’re using, if you actually really, really care about that thing that you want to write, then you should write it to something that can be globally accessed through a data store postgres, Redis, or even a blob store like S3.
+
+<strong>CHUCK:  </strong>So, my answer to your “Boom. I fixed that,” is “Boom. You rocked.”
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Because I’ve been in a position where it’s like I go download a file that I need to parse. And so, I’ve got to pull it in and pull it apart before it gets to the disk because I can’t really write it. So, that’s definitely a good thing. One other thing that I want to bring up is that with most of the apps that I’ve deployed to Heroku, the dyno spins down. And so, then I have to come back and spin it up or I’ll tell my client, “Oh well I set up a little staging environment over on Heroku and you can go get it here,” and they go hit it and they come back and they go, “It’s not there.” And I’m like, “Well it will be now because you went and warmed it up.”
+
+<strong>RICHARD:  </strong>Mmhmm. So, this is all part of our free tier offering. We actually call that action sleeping. For those listening along at home if you’re not familiar, Heroku gives you 750 hours, which are more hours than exists in a month per month to run an app for free. And this is great as Chuck mentioned for doing things like staging, sending it over to your client just verifying that things work. And one of the ways that we’re able to offer this amount of free things basically for forever, if you go with some other platforms they might say, “Okay well it’s free for a really small amount for a year.” But because we actually know whether or not your app is getting network traffic and if it doesn’t get network traffic for an hour then we basically spin it down and wait for it to get another request. And then we spin it back up. So, we call that sleeping. If you really cannot sleep right now, there’s only one way to disable that and that’s actually adding an additional resource onto that app to make it no longer free. So, that is one way. Or some people will actually just build insanely lightweight rack-based applications. And I want to say in just my own personal metrics, it takes roughly about ten seconds maybe, -ish, plus or minus to actually spin up your app. And then plus any time it takes to actually load your application code. So, every time you do rails server, if it takes five minutes, then it’s going to take five minutes plus ten seconds to un-sleep your app. So yeah, totally, the one way you can get around that is by bumping up your limit or if you’re really popular and you have somebody hitting your website once an hour, then that’s a way too.
+
+<strong>DAVID:  </strong>Is now a bad time to point out that I have multiple times written cron jobs on other servers to check my page every 30 minutes?
+
+[Laughter]
+
+<strong>DAVID: </strong> Just so that the Heroku’s app, the dyno doesn’t spin down.
+
+<strong>RICHARD:  </strong>So, I won’t point out that Heroku also has a scheduler feature that allows you to basically run cron jobs on an app.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>And you can do things like curl in that.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>But I will say, with great power, great scheduler ability comes great responsibility. If everyone, and their cousin, abuses this, then we’re going to have to take the feature away.
+
+<strong>DAVID:  </strong>Tragedy of the commons, yeah.
+
+<strong>RICHARD:  </strong>Yeah, totally. So, I personally would love for there just to be a button to be like, “Okay listen. I’m not going to scale out to a hundred thousand dynos. This isn’t going to be a Facebook. This isn’t going to be whoever. I just don’t want it to go to sleep.”
+
+<strong>JOSH:  </strong>I just want to be able to pay for one dyno.
+
+<strong>RICHARD: </strong>Yes.
+
+<strong>JOSH:  </strong>I don’t want to have to pay for two dynos just to pay for one.
+
+<strong>RICHARD:  </strong>Yes.
+
+<strong>CHUCK:  </strong>No, your first one’s free. You’re only paying for one.
+
+<strong>JOSH:  </strong>No, no, but I want to be able to pay.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>So, what you’re saying is because we give you one for free, you want the second one at a discount?
+
+[Laughter]
+
+<strong>CHUCK:  </strong>No, he wants to be able to --
+
+<strong>DAVID:  </strong>Josh is mad that you have scaling.
+
+<strong>JOSH:  </strong>I guess I can’t do math anymore. I thought that when you started paying for dynos you were actually paying for two.
+
+<strong>RICHARD:  </strong>No. So, you get that number of free hours on your app no matter what.
+
+<strong>JOSH:  </strong>Yeah.
+
+<strong>RICHARD:  </strong>So, whenever you start paying, it’s weird math. And we’re an engineering company run by a bunch of engineers which is why I love working for us because I love eating my own dog food every day.
+
+<strong>JOSH:  </strong>But we all know engineers can’t do math.
+
+<strong>CHUCK:  </strong>Or eat dog food.
+
+<strong>RICHARD:  </strong>But the math thing, so yeah. Basically if you say, use four dynos which is how we measure usage, four should theoretically give you 4x number of server processes.
+
+<strong>JOSH:  </strong>Yeah.
+
+<strong>RICHARD:  </strong>Then you are paying for three of them. You actually still get that first one for free.
+
+<strong>JOSH:  </strong>Oh, okay.
+
+<strong>RICHARD:  </strong>Yeah, yeah, yeah.
+
+<strong>CHUCK:  </strong>Yeah, well I think what Josh is saying is he wants to be able to pay for a don’t go to sleep flag on his single dyno.
+
+<strong>RICHARD:  </strong>Yes.
+
+<strong>JOSH:  </strong>Yeah, especially since like you said, there are issues that you only have to solve when you’re scaling up to multiple servers. So, sometimes it would be nice just, let me just pay to get this thing up and running all the time, but I don’t want to solve those problems yet.
+
+<strong>RICHARD:  </strong>Right.
+
+<strong>DAVID:  </strong>Yeah. Can you guys implement a feature where the second dyno just redirects to the first?
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>DAVID:  </strong>And then I don’t have to solve the scaling problem. Boom! Done. I don’t know how that works. [Laughter]
+
+<strong>AVDI:  </strong>Okay, so I want to know --
+
+<strong>RICHARD:  </strong>No, no, no, to solve your scaling problems, everybody just knows use Node, right? Rewrite all your code.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>Active record has callbacks. Node has callbacks.
+
+<strong>CHUCK:  </strong>MEAN stack. Woohoo!
+
+[Laughter]
+
+<strong>AVDI:  </strong>Alright, so I want to know what other dumb things are people doing in their Ruby apps that are on Heroku?
+
+<strong>RICHARD:  </strong>What? What dumb things?
+
+<strong>JOSH:  </strong>Oh, oh, oh, oh, oh, oh
+
+<strong>AVDI:  </strong>You get to see so many apps.
+
+<strong>JOSH:  </strong>Oh, oh, how many apps on Heroku are running WEBrick?
+
+<strong>RICHARD:  </strong>Oh my, gosh. More than I care to say. So, if you don’t --
+
+[Laughter]
+
+<strong>RICHARD:  </strong>Background. [Chuckles] If you ever just run rails server locally, you’re probably on just, you run rails new rails server, you’re using WEBrick which is a default built-in server that comes with Rails standard library. And it’s actually surprisingly not a bad little server. But it’s not exactly a production grade server. I don’t know. How would you all define WEBrick?
+
+<strong>JOSH:  </strong>It’s simple and reliable, but not necessarily scalable.
+
+<strong>RICHARD:  </strong>Hmm. If WEBrick was a cartoon character --
+
+[Laughter]
+
+<strong>RICHARD:  </strong>No, so anyway, if you just --
+
+<strong>JOSH:  </strong>Papa Smurf? I don’t know.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>Yeah, so I mentioned previously, we’re driving towards that idea where you can just do rails new, git push heroku master, boom. But if you do that, you’re basically still using WEBrick. And we want to be able to support this because there’s a lot of people, if you’re trying to push out a demo in 30 minutes or you have a client meeting coming up and you just want to get something working really quick, really fast, or you just want to show your student project, or you really literally do not care about performance, you’re just mocking something up. Convention over configuration, right? Just use whatever is available. But if you need that performance, originally we were recommending using Thin just because it’s super simple to use. You just drop it in your gem file and we’ll automatically use it. Or now we’re actually using, we’re recommending multiple process backends. One of them is Unicorn. And the other one I really like that I’ve been playing around with is Puma. We don’t have official documentation for Puma, but I would like to get some. I saw a tweet by Evan Phoenix saying he’d be interested in working whatever kind of edge cases we had there. So, to answer your question, a lot. We have a lot of people using WEBrick. And some of them are like, “Hey my app is really slow and I don’t know why.” And it’s like, “Well don’t use WEBrick.” [Sighs]
+
+<strong>JOSH:  </strong>Is that the kind of thing that would, it seems like perhaps a little education, a little feedback from when you do git push heroku, that it would just say, “Hey dude, you’re using WEBrick. Is that what you want to do?”
+
+<strong>RICHARD:  </strong>Yeah. So, we have a couple of different ways to communicate with our users. So, we do have a developer zone, developer center that has all these articles that’s like, “Please don’t use WEBrick, please.” But you can’t necessarily count on people to read the docs. And my mental model of this is I want it to be obvious. I just want it to be in your face, kind of almost information on demand. So, we can do things like actually see, “Oh hey you aren’t specifying a different server.” On Heroku, we actually have, it’s called a Procfile and that’s how you tell us how to run your web server. And we can do things like say, “Hey you aren’t using a Procfile. Therefore you’re using WEBrick. Therefore it’s going to be slow.” We’re slowly getting there. We’re doing some things like, mostly I’ve been focusing on errors. So, if you try to install SQLite, if you try to use SQLite in production, that’s just a bad idea, trademark bad idea. And so, if you try to do that, instead of just blowing up and saying we don’t have the SQLite headers installed on the system, we actually give you a comprehensible, reasonable error message that tells you why you’re getting it, how to fix it, a link explaining more. And definitely down the road, I do plan on, or together Terence and I, we plan on adding more of these helpful nudges in the right direction. But you also can swing both ways, right? I don’t know if you’ve run the Rails test suite recently, but it’s impossible to see the actual tests because there are literally so many warnings in the output. Yeah, so it’s like too much information is also a bad thing. We’re already putting a couple of different warnings in the output and people miss them. Even if you have docs and you give it to them on a platter, I actually would be interested in going maybe even a step further and being able to profile an app and say, “Okay here are the, whatever, ten things that could be improved about this app.” And maybe sending that person a casual email and say, “Hey did you realize this is a way?” A lot of times when people are deploying, they’re in the heat of the moment. They just want to get it out there. Or even worse, people don’t read warnings, even if it says warnings and is rolled up in a nice pretty package at the bottom, that people just see, “Oh okay it worked.” And this also I think comes with time. The more senior someone is, the more likely they are to see those. And even if not, it’s okay. We’re human, or some of us are, most of us. Robots? [Chuckles]
+
+<strong>JOSH:  </strong>Hey, I’m wondering if there’s some sort of opportunity for a plugin with New Relic. I know that there’s a free level of New Relic that you can get on Heroku and that you’ve pretty much offloaded all of the app reporting stuff to New Relic. I like the little dashboard that you get for an app. You could probably put in app status things and more things about the Procfile warning or you’re using WEBrick over there. Or New Relic lets you do plugins and things like that. You could probably also somehow do some kind of integration with reporting exceptional app status through the New Relic interface.
+
+<strong>RICHARD:  </strong>Yeah. I think something like that would be great. One element that we are pretty passionate about is visibility. So, do you guys know ryandotsmith?
+
+<strong>JOSH:  </strong>Oh yeah.
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>RICHARD:  </strong>His name’s just Ryan, but I have to call him ryandotsmith because that’s his Twitter handle. I don’t know. So, one of my favorite quotes of his is, “You don’t have a performance problem. You have a visibility problem,” because if you knew what was slow, you would just fix it. And it’s the same. If you knew you were using WEBrick in production, you would just fix it. It’s a two-second fix. So, one thing that we have been interested in is how to aggregate that data. And one of the ways we’ve done that is actually through logging. Basically Heroku, so when you say log to standard out, but other things even add-ons can actually send information to your logs. And depending on how they’re set up, other add-ons can actually be set to read information out of your logs, just certain information. So, if we did, we could actually just pipe some data in there that says, “Hey here’s the five things you need to be fixed,” and then not just New Relic but anybody, if you wanted to create a startup or whatever that did that. And you can make those. Also the way that we are set up, Heroku is set up is we’re very, very distributed. People say service-oriented architecture. But whenever you say that, a lot of people think, “Oh okay. You just take each model you have and make that an API. And then I don’t know, and then magic. And it’s service-oriented architecture.” So, the Heroku dashboard is a completely separate app from our API endpoints. It’s a separate app from our logging. And if you did something like that, we might even say if there’s enough people asking for it, asking for that visibility, we can actually build something into our dashboard. So yeah, it would be totally awesome.
+
+<strong>JOSH:  </strong>Cool.
+
+<strong>RICHARD:  </strong>Total plug for something nobody knows about is it’s called log-runtime-metrics. That was why I even spun up the whole logs thing. The log-runtime-metrics will actually take memory usage and data off of your dynos and stick it into your logs. And you can then use something else that will pull that data out and can actually graph system usage of your apps. And so, it’s a way to get a really, really low level amount of information without having to actually get it yourself. If you don’t want it, who cares? Don’t look at it. If you do, it’s right there.
+
+<strong>JOSH:  </strong>Cool. Okay. So, we’ve been talking about performance a lot. Got to ask you about the router performance, or the routing performance. And this was an issue a year ago with all the Rap Genius stuff and all the drama around transparency, communication around what’s going on with router changes, and how to deal with them in your app and how not to lose requests. And I know you guys have been working on that behind the scenes and making things better. And every now and then we hear something about it. So, I’m just curious, what’s the state of the world today and what’s coming at us?
+
+<strong>RICHARD:  </strong>The state of the Heroku union. So, funny enough, I was actually on vacation when all that happened. And then immediately from vacation went to Australia RubyConf where I added in an extra ten minutes worth of slides to my presentation addressing that. And I started getting phone calls in the middle of it being like, “Are you talking about this in public?”
+
+[Laughter]
+
+<strong>RICHARD:  </strong>Send us your slides immediately. And then I sent them and they were all like, “Oh okay. Yeah, that’s fine. That’s all valid.” Part of it is an expectation issue and I think that that was one of really the biggest problems were we weren’t setting up the right expectations on how to be successful as a customer and a user of our platform. One of the things that we’ve done since that is very proactively go after a lot of our largest applications and say to them, “Where are you experiencing pain? What is slow?” Then they can actually come back to us and say, “Okay well, hey. I’ve got this weird request queuing metric inside of New Relic. What’s going on there?” So, this is definitely something in terms of just performance on the platform period. We are 100% dedicated to, we’ve now [chuckles] it’s kind of fun. Inside of Heroku, if you really want to work on this project, you’re just like, “Oh I’m going to work on this,” and people are like, “Eh.” And you’re like, “Oh but it’ll get performance,” and everybody’s like, “Yeah, yeah, yeah, do it.” So, something we’re gung-ho about. But specifically with the request queuing, one of the biggest mitigators is I guess I need diagrams and stuff just to, there are so many analogies. You could think of it in terms of you’re running a supermarket and you’re trying to check out the most people as quickly, or have the least amount of weight for each person. And so, some supermarkets actually have somebody telling you which line to go into. But there’s actually a good amount of overhead in doing that, actually having to find out which line is short, which line is not. And sometimes, have you ever gotten into the wrong line? You’re like, “Oh that line is totally shorter.” And then somebody -- <strong>JOSH:  </strong>Richard, is there a way not to get the wrong line?
+
+<strong>DAVID:  </strong>[Chuckles]
+
+<strong>RICHARD:  </strong>Oh, yeah.
+
+<strong>DAVID:  </strong>The other line always moves faster.
+
+<strong>RICHARD:  </strong>Yes, the other line always moves faster. So, basically this is the same problem we run into with distributed queuing. And it is literally a really hard problem. People have PHD theses and white papers to spend years of their lives looking at this thing and then come back and say, “Well, we weren’t able to get any better than random.” So, if you’re using something along the lines of ELB which is elastic load balancer or like Nginx to do load balancing in your apps, you’ll get this style of round robin routing wherein say basically instead of picking what you think is going to be the fastest line, you just get the next line. So, even if one line is slower or another line is slower, over time it’ll just average out. And it actually works pretty well provided you don’t get too many slow requests backed up inside of one another. If you get one really person behind another slow person behind another slow person, as opposed to you start looking at, “Oh hey our average is low,” but then you start looking at, “Oh well then this one person had to wait ten minutes to just buy a grapefruit,” or something. So, if you can do something intelligent at the end of that, if you actually know whether or not a line is available, a line is open just waiting and ready, then it speeds it up quite a bit. So, using a parallel backend like Puma or Unicorn is something that people can do right now. They can do this today to really, really mitigate the problems that you will see with a style of routing that, I’m not going to say necessarily it’s industry standard, but it is used in a lot of different places. And this is something. So, I know everybody in Ruby is massively in love with Erlang right now. You’ll be happy to know that all of our routing is written in Erlang. And we’re adding more people to our team and doing things like actually running simulations on whether or not something like a parallel distributed lock system would be faster or actually just these kinds of questions. Hey, we have this problem, how are we going to solve it? What can we do? Education is totally one of the things. But also, Heroku tends to be above and beyond platform. If we can just take care of this problem for you, we would love to be able to. Right now it doesn’t look like that’s going to be, we’re going to be able to just snap our fingers and make it go away. It is just a fact of reality. But definitely we have some really cool stuff in the pipeline that I totally cannot talk about right now that is going to be pretty helpful there.
+
+<strong>JOSH:  </strong>So, you could just tell us and we’ll leave it off the air.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Yeah, it’s not like we’re recording this or anything.
+
+<strong>DAVID:  </strong>Get the serum.
+
+<strong>JOSH:  </strong>[Laughs] Yeah, just between us.
+
+<strong>RICHARD:  </strong>Node.js. There, I said it.
+
+[Laughter]
+
+<strong>DAVID:  </strong>No!
+
+<strong>JOSH:  </strong>Node! Okay.
+
+<strong>DAVID:  </strong>You’re not my father. That is impossible!
+
+[Laughter]
+
+<strong>RICHARD:  </strong>So, we’re going to use Ruby code to generate PHP code, throw it through HipHop, turn it into C++…
+
+<strong>JOSH:  </strong>And then run it on the JVM.
+
+<strong>RICHARD:  </strong>That’s true, yes.
+
+<strong>DAVID:  </strong>So, I have a quick callback to the performance, but in a specific implementation.
+
+<strong>RICHARD:  </strong>Yeah.
+
+<strong>DAVID:  </strong>I needed to throw up just a one-page app recently for a website I may have mentioned on today’s show. And I was frantic because the episode before this one went up a day before I thought it was going to and DNS was broken and the server was, yeah, it was just this huge frantic, “I just need to get this index page placeholder up right away. What should I do?” And I ended up cargo culting. I’m going to take Heroku and I’m going to put my index.html and the images and all that stuff like that, but I’m just going to write a config.ru, a rack app, that just does file [inaudible] open on index.html as the action in the rack. And I just cargo culted it. Is that a bad idea or an awful idea?
+
+[Laughter]
+
+<strong>RICHARD:  </strong>Anytime you’re trying to speed something up, number one is visibility and logging. Number two is just if you’ve been doing this for a while then you learn certain things are “slow” or slower than other things. And almost by definition, touching the disk or any kind of network operations is going to be slow. So, if you’re doing something along the lines of using maybe caching that somewhere, if it is literally just a static file and then you can cache it in the memory and then just serve it directly out of memory. Or even if you can’t do that and it’s just a marketing page and you have a ton of them and you can put them into memcache, that is going to be so much faster than just reading, actually touching your disk. Just going into memory is going to be a lot faster. Or something that I’ve seen a couple of people do with these static sites is, so there’s a website by the name of NSHipster that Mattt Thompson publishes. And he actually uses I believe, it’s either Jekyll or Middleman, I want to say it’s Jekyll, and uses that to generate the static HTML and then just puts in onto S3 somewhere and then just routes the DNS directly to that. And that is actually surprisingly performant. If you want to even go a step above that put it behind a CDN, like Fastly or CloudFront.
+
+<strong>DAVID:  </strong>There’s only going to be 14 people that [will] open the link.
+
+<strong>AVDI:  </strong>You can set up page rules in CloudFlare. You can stick in front of it.
+
+<strong>RICHARD:  </strong>Yeah.
+
+<strong>AVDI:  </strong>Set up a page rule that just says cache everything. And that’s on their free level.
+
+<strong>RICHARD:  </strong>Oh yeah, totally.
+
+<strong>DAVID:  </strong>Yeah. There’s only going to be 14 people that click on it, but I’m just worried that they’re all going to click on it at the same time, so you know.
+
+[Laughter]
+
+<strong>RICHARD:  </strong>Hate to be that 14<sup>th</sup> person.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>JOSH:  </strong>So, we’ve been going at this a while. Is there anything that has been in the queue a long time and is about to timeout for topics?
+
+<strong>CHUCK:  </strong>So, the only other thing I wanted to bring up was just that there are certain things that are I guess really simple to do on a system like a VPS with a static IP address that you don’t really get out of Heroku. And you can use plugins for those. But I found that sometimes, setting up the plugin people have concerns about the cost because sometimes you have to pay for those. Sometimes, there’s just a little bit more of a barrier to using them. Have you found that that causes people trouble sometimes? Or for the most part are people pretty willing to just try out whatever service and plugin that is available?
+
+<strong>RICHARD:  </strong>So, we were just talking about static sites the other day. And honestly, if you’re running a static site, Heroku is not the best thing. We would love to be the best platform for everything. But pick the right tool for the job. Rails, Ruby, all these kinds of things, you start to talk about sprockets, making really complicated problems even more complicated by adding SAS and appending all these dependencies and all these other things, then that’s where we really shine, is making a complicated system easy. But if you’re working with a simple system, then I recommend that. We do take stock of people’s pain points. And I said previously that what the crowd wills, what people are asking us for, what we are getting feedback. I mentioned previously we’re actively going and working with some of these larger customers to find ways to eliminate some of their pain points. Maybe we might find, okay well you mentioned static IP addresses. Maybe if that is a really common pain point, then that might be something that we could either, if we can solve it in a general way without too much coupling then that might be something we would address. But I also wouldn’t be foolish enough to just say, “No use Heroku for everything regardless.” We want to be the best tool for the job, but if we’re not then maybe bare metal with a dedicated IP address. Is that reasonable?
+
+<strong>CHUCK:  </strong>Yeah, that makes sense. One other question I have for you is that a lot of apps use background jobs.
+
+<strong>RICHARD:  </strong>Yes.
+
+<strong>CHUCK:  </strong>You know, like Resque or whatever. And it seems like the way to deal with some of those things has been to set up another dyno basically, to run that. Is that the way that you typically have people do that and is that just not an option then on the free level?
+
+<strong>RICHARD:  </strong>With the free level, you get 750 hours. That’s shared across however you want to use that. If you wanted to spin up 750 dynos. Oh no, actually, that wouldn’t work. [Laughs] So, theoretically, if you could do this without us automatically charging you for it, spin up 750 dynos for one hour, you would get that for free. Don’t do that, you can’t. But anytime you run the scheduler, that’s actually counting against your hourly usage. So, if you really just need to run this background job infrequently, I actually wrote a gem called threaded_in_memory_queue and it pretends to be a background worker but it really just runs things in your local memory. It’s not a great solution if you need things like persistence [chuckles] of those items, of those jobs you’re enqueuing. But you could use something like that. Or there are some external services. One of them is called HireFire where if you don’t need a persistent background worker, it’s like what we’re talking about right? We just need to do some things in the background sometimes, but not all the time. With a tool like HireFire, you can actually just tell it to spin up a, I don’t know exactly how it works, but you can tell them, “Okay hey, I’m going to throw something in the job. Spin up one dyno and then shut it back down just as soon as possible.” So, that’s one solution. Or like I said, doing it in memory just using threads. That’s not idea, but it’s at least better than having to do it sequentially in the actual request.
+
+<strong>CHUCK:  </strong>Yeah, that makes sense.
+
+<strong>RICHARD:  </strong>Alright.
+
+<strong>CHUCK:  </strong>Alright, that’s all my questions. Nobody else is piping up. Should we get to the picks?
+
+<strong>JOSH:  </strong>Yeah, I guess so.
+
+<strong>DAVID:  </strong>Time for picks.
+
+<strong>JOSH:  </strong>Yeah, we’ve covered a lot. It’s been really good. Thanks, Richard.
+
+<strong>DAVID:  </strong>This has been a great show.
+
+<strong>CHUCK:  </strong>Yeah, absolutely. David, do you want to start with the picks?
+
+<strong>DAVID:  </strong>Sure. I’m going to reuse a pick. Katrina picked ‘So Good They Can’t Ignore You’ a couple of months ago. And I started talking about this Job Replacement Guide stuff and James just went nuts. He’s like, “Dave go read this book. Go read this book. Go read this book.” And it’s my pick. It is a fantastic book. And I was worried about halfway through the book that it was going to basically make my book useless and supplant it. About halfway through, I figured out what the key secret behind his book was. And it is basically that you want to build up career capital that you can then use to acquire more control and autonomy in your job so that you can be happier at what you do. And the Job Replacement Guide is actually the reverse of that, which is to basically say there’s all this control and autonomy that you want and it causes you to filter out all of the options that you think you have. And so, if you can learn to take those filters down, you can find out that you’re just surrounded by opportunities. I’m not actually pitching my book as my pick. But just by way of comparison. So yes, ‘So Good They Can’t Ignore You’ is a fantastic book. I highly recommend it if you want to cultivate your career. He makes a challenging assumption statement at the beginning which is that “Follow your passion” is bad advice. And if that offends you, you need to read this book because he will give you a really compelling case for understanding passion and work and being good at stuff way, way better than you thought you had. So, that's my pick.
+
+<strong>CHUCK:  </strong>Okay, sounds good. Sounds so good I can’t ignore it. Avdi, what are your picks?
+
+<strong>AVDI:  </strong>Well, I’ve been doing some coding lately. I know that sounds crazy. But I have. And so, I thought I’d just quickly run down some of the gems that I’ve been using that have been serving me well and that I haven’t picked before. First of all, I’ve been doing my own object-relational mapping. I haven’t been using an ORM for that. So, I wanted a library that would just make it really easy for me to talk to the database without trying to layer on a bunch of object mapping on top of that. And I have been using the Sequel library. It’s the word sequel spelled out instead of SQL. And it’s really, really nice. I think Ruby used to have a DBI library like Perl’s that abstracted all different databases. And I think that long ago fell into disrepair. And it feels like the new DBI. It does have an ORM layer but you don’t have to use it. You can just totally ignore it. So, Sequel’s very, very cool and it has support for a bajillion databases. Let’s see, what else? I’ve also been using the pony gem. I’ve honestly never understood action mailer. And pony is just a really, really simple way of sending emails from your application. You can do it, send an email with a single method call. And so, I’ve been using that for my emails. And finally, let’s see. Oh yeah, the email-spec gem, the flipside of sending emails from your application is if you’re doing TDD you really want to be able to test that you’re sending the right emails to the right people at the right times. And the email-spec gem reaches its sneaky fingers into action mailer or pony and basically makes them send, stubs them out and makes them send their emails into the email-spec system instead of trying to send them out into the world. And then you can very easily test to see what emails were sent and you can easily do things like simulate clicking a link inside the email that was sent and fun stuff like that. So yeah, lots of good gems. Those are the ones I’ve been using lately. And I think I’ve been talking long enough so I’ll just cut it off there.
+
+<strong>CHUCK:  </strong>Awesome. Josh, what are your picks?
+
+<strong>JOSH:  </strong>Cool. Okay, I got a couple today. My first pick is, okay there’s this object-oriented programming language called Self. It’s been around for quite a while. Late 80s, early 90s, they were doing a lot of development. It came out of Stanford and Dave Ungar’s group. And they just had a new release, the 4.5.0 version of Self. The Mallard release or Majestic Mallard just got dropped. I think it’s pretty exciting. I love Self. It’s a really interesting take on object-oriented programming. It was the first I think really industrial strength prototypical language. And there’s a lot of cool stuff in it. And what’s really interesting is that if you’re using the JVM, the Java Virtual Machine, to run JRuby or Java or Scala or what have you, a lot of the VM performance technology came from the work that was done on Self. I think it’s a great language. It’s like the Scheme of object-oriented programming. There’s a half-dozen concepts in the language and that’s it. So, the Mallard release, it runs on OS X. There’s a disk image you can download to install binaries. And it’s pretty simple to get going. And I think it’s a lot of fun to play around with. So, that was a long rambling pick, but there you go. And then I have a gadget pick. I’ve had an iPhone 5 for a year. And every now and then I drop it a small distance and it’s usually just, it’s never really suffered any damage which is a testament to their new design. But I really like having a bumper case just because I like the way it feels. And I found a good one finally. There weren’t really any good ones. But I think it’s pronounced Spigen, S-P-I-G-E-N is the company. They have a lot of really nice cases. And I found one that I like a lot. It’s a bumper case. And one of the things I like about it is that it’s two pieces. There’s a rubber bumper and then a plastic case or frame that goes around that. You keep it on and they have, I don’t know, two dozen different colors of those frames. So, it’s super customizable. And then I have a completely fun pick, which is a TV pick. So, HBO has a new series that by the time you hear this, just premiered over the weekend. It’s called Looking. And it’s the story of three men, three friends living in San Francisco looking for love. And it’s surprisingly good. I was really lucky and got to go to the premier of it here in San Francisco this week. And it really exceeded my expectations. It’s the first show I’ve seen that I think shows gay characters on TV that felt real. It’s a short series. It’s eight episodes or something. But it looks really good, so I think it’s going to appeal to a lot of people. And I’m looking forward to seeing the rest of the series. Okay, that’s it for me.
+
+<strong>CHUCK:  </strong>Alright. Well, I’ll throw a couple of picks out there. When we went out to Disneyland with the kids, there were some things that we got that were really, really nice to have. And so, I’m just going to pick a few of those. The first one was that we got them these tablets. Now, the first tablets we got, we got them off of a local deal site. They turned out to be crappy. Three of them don’t work. One of them never worked. The other one died within an hour of coming out of the packaging and being turned on, and the last one died after about a day. And then the other one still works for some unknown reason. So, we sent those back and we got some from Amazon that had some better reviews and they have been awesome. So, I’m going to put a link to those in the show notes. Also, there is this RAVPower wireless streaming device that I picked up. And you can put an SD card into it or you can actually plug a USB hard drive or USB key into it. Then you can put movies and music on there. And it will actually stream the media to up to five devices with no glitches and it’s really handy. It transmits its own wireless signal so you can actually just get onto its wireless and then get the media. And so, it was nice to have in the car because then the kids could just get on and watch whatever movies we had on there. And then I bought a 64GB SD card to go in it. And I filled it most of the way up with movies. And amazingly, that’s quite a few movies. And so, then their little tablets, the ones that worked anyway even though they only had 8GB of memory in them, they had access to 64GB worth of movies. So, they could just pick and choose what they wanted to watch. So, it turned out to be just this super-duper way to go. And I can’t say enough good things about it. So, really, really happy with it. So, I’m going to pick those. Incidentally, the RAVPower wireless streaming device, if you get in and configure it, you can configure it to actually connect to another wireless for its internet connection. So, then you can be connected to it and get the audio and video files off of it and you can still connect to the internet. But when we were driving down the road, obviously that wasn’t an option. So, we just did it the other way. And it worked really, really well. So, anyway, those are my picks. Richard, what are your picks?
+
+<strong>RICHARD:  </strong>Alright. You all have a book club right now, right?
+
+<strong>CHUCK:  </strong>Oh, yes.
+
+<strong>RICHARD:  </strong>Is it ‘Ruby Under a Microscope’? Is that correct?
+
+<strong>CHUCK:  </strong>Yup, by Pat Shaughnessy.
+
+<strong>RICHARD:  </strong>Alright, I have a complementary pick to that. My pick is ‘K &amp; R, The C Programming Language’. Lots of Ruby programmers these days are going polyglot and I see no reason why we can’t go back to the basics. It’s what MRI is written in. And I’ve been going back through it and it’s fun. It’s also nice to be reminded of why I love programming in Ruby, some of the niceties that it gives me. Another pick, totally self-serving, is CodeTriage.com. So, this is a service. If you’re interested in helping out more with open source then you can go on to CodeTriage.com. So, let’s say you’re interested in helping out with Rails, you can go to CodeTriage.com/rails/rails and actually subscribe to get unresolved issues where then you could either lurk and just see, “Okay what kinds of things are happening in Rails these days?” or you can actually go on there and help. If it’s a bug, you can verify it. You can check version numbers. You can reproduce it. Maybe even pick up some pull requests there. I know a couple of who have gotten into core contributors groups using this tool, so CodeTriage.com. And I don’t know if I can do this, but Ruby 2.1 is totally a pick of mine. I’m picking this so hard. If you look at the Rails test suite, it runs on a bunch of different versions of Ruby and the Ruby 2.1 version runs 25% faster. It’s just speed, pure speed. So, I guess those are, that’s about all the… Oh, oh actually, I have a book as well. This is another self-serving pick. ‘Heroku: Up and Running’. You can totally edit that out if you want. But that is a book that I wrote and I think it’s pretty good.
+
+<strong>CHUCK:  </strong>Alright, cool.
+
+<strong>JOSH:  </strong>We’re all in favor of shameless self-promotion here. It’s fine. [Chuckles]
+
+<strong>CHUCK:  </strong>Yeah, is anyone else writing a book?
+
+[Laughter]
+
+<strong>DAVID:  </strong>Yes. [Laughter]
+
+<strong>RICHARD:  </strong>Oh, oh also recently Aman Gupta’s blog has had some amazing stuff, especially about Ruby 2.1. If you’re not reading that, then you’re missing out.
+
+<strong>AVDI:  </strong>Yeah, I second it.
+
+<strong>JOSH:  </strong>Yeah. Aman, we’re having a chat with him these days about how soon we can get him on the show to talk about some stuff.
+
+<strong>RICHARD:  </strong>Excellent. I will be tuning in.
+
+<strong>JOSH:  </strong>Okay.
+
+<strong>CHUCK:  </strong>Alright. With that, I guess we’ll wrap up. I do want to remind you about our book club book as Richard pointed out. We’re doing ‘Ruby Under a Microscope’ by Pat Shaughnessy. So, be reading that. And if you want to get more of us, can’t get enough of us, then go to RubyRogues.com/Parley and sign up for our community forum. Thank you for listening.
+
+<strong>DAVID:  </strong>And remember, you’re our favorite listener. [Whispers] Don’t tell the other listeners.

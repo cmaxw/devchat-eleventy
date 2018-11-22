@@ -1,0 +1,485 @@
+---
+layout: layouts/post.njk
+title: >
+      033 RR Book Club – Eloquent Ruby with Russ Olsen
+date: 2011-12-15 19:27:00
+episode_number: 033
+duration: 1:10:10
+audio_url: https://media.devchat.tv/ruby-rogues/eloquent_ruby.mp3
+tags: ruby-rogues
+---
+
+00:45 - <a href="http://www.amazon.com/gp/product/0321584104/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321584104&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=CKURDYPHOJLLOYH7" data-cke-saved-href="http://www.amazon.com/gp/product/0321584104/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321584104&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=CKURDYPHOJLLOYH7">Eloquent Ruby by Russ Olsen</a>
+<ul>
+ 	<li><a href="http://www.amazon.com/gp/product/0321490452/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321490452" data-cke-saved-href="http://www.amazon.com/gp/product/0321490452/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321490452">Design Patterns in Ruby</a><a href="http://www.amazon.com/gp/product/0321490452/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321490452&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=Q53N3R36S6THMV6M" data-cke-saved-href="http://www.amazon.com/gp/product/0321490452/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321490452&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=Q53N3R36S6THMV6M"> by Russ Olsen</a></li>
+</ul>
+07:35 - Unique Control Structure in Ruby
+<ul>
+ 	<li><a href="http://www.ruby-doc.org/docs/ProgrammingRuby/language.html#loops" data-cke-saved-href="http://www.ruby-doc.org/docs/ProgrammingRuby/language.html#loops">until</a></li>
+ 	<li>Unless</li>
+</ul>
+10:19 - Syntax in Book
+<ul>
+ 	<li>Suppress Line Endings</li>
+</ul>
+11:06 - Intended Audience
+
+13:28 - Metaprogramming in Book
+
+15:45 - Beginner vs. Advanced
+<ul>
+ 	<li>“In the beginner’s mind, there are many possibilities.  In an expert’s mind, there are a few”</li>
+</ul>
+16:55 - Communication
+<ul>
+ 	<li>Leading With Terminology</li>
+</ul>
+20:22 - “Writing cleaner code is a battle of inches”
+
+23:25 - Coding Style
+<ul>
+ 	<li>Style Guidelines/Standards</li>
+ 	<li>Examples</li>
+ 	<li>Whitespace</li>
+ 	<li>Two Spaces, Two Indents</li>
+</ul>
+28:00 - Book Quibbles (Discrepancies)
+<ul>
+ 	<li>Explicit Returns</li>
+ 	<li>Method Length</li>
+</ul>
+35:22 - <a href="http://onestepback.org/index.cgi/Tech/Ruby/BraceVsDoEnd.rdoc" data-cke-saved-href="http://onestepback.org/index.cgi/Tech/Ruby/BraceVsDoEnd.rdoc">The Weirich rule</a>
+
+37:50 - <a href="http://www.amazon.com/gp/product/0201633612/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0201633612" data-cke-saved-href="http://www.amazon.com/gp/product/0201633612/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0201633612">Design Patterns</a>
+
+38:30 - Idioms / Accommodating Various Types of Programmers
+
+45:50 - Equals in Ruby
+
+47:55 - Around Filter metaphor
+
+49:38 - “Dragging Along Scope Variables”
+
+51:01 - “Good Code is like a Good Joke, you shouldn’t have to explain it”
+
+<h3>Transcript</h3>
+
+<strong>JOSH:</strong> I wanna see a book about that refactor spaghetti into ravioli.
+
+[Laughter]
+
+Which is the appropriate poster for object-oriented code.
+
+[Laughter]
+
+<strong>CHUCK:</strong> Hey everybody and welcome to Episode 33 of the Ruby Rogues. This week on our panel, we have our special guest Rogue, Russ Olsen.
+
+<strong>RUSS:</strong> Hey, Chuck.
+
+<strong>CHUCK:</strong> So Russ wrote the book that we are reviewing this week, which is Eloquent Ruby. Russ, why don't you tell us a little bit about yourself, and we will introduce the rest of the panel.
+
+<strong>RUSS:</strong> Okay, well I'm a programmer. I've been doing it for longer than I really care to admit. One of the things that I like to tell people is that Lisp is one of my favorite programming languages, because that’s the only one in current use that’s actually older than I am. But I started out life as a mechanical engineer, got interested in programming just because that seemed to be an easier way to solve mechanical engineering problems. And somewhere along the lines, I kind of wasn’t a mechanical engineer anymore, and I've sort of been programming since back in the day when Fortran was popular, segued into the whole Java world, ended up doing Ruby when I got frustrated with Java, and started writing about it a few years ago. So I'm the author of today’s book, Eloquent Ruby. And before that, I wrote Design Patterns in Ruby.
+
+<strong>CHUCK:</strong> All right, well it's great to have to you. We also have on our panel, Avdi Grimm.
+
+<strong>AVDI:</strong> Hello again.
+
+<strong>CHUCK:</strong> James Edward Gray.
+
+<strong>JAMES:</strong> Hey everybody, I just want you guys to know I'm on vacation as of this Friday, so mentally, I'm pretty much already there. And if I contribute anything meaningful to this conversation today, it will be a miracle.
+
+<strong>CHUCK:</strong> Thanks for checking out. Josh Susser.
+
+<strong>JOSH:</strong> Good morning. I just wanna let you all know that James has 6 pages of printed notes that he's going to be contributing today.
+
+<strong>CHUCK:</strong> That’s right. He wrote his own book on Eloquent Ruby.
+
+<strong>JOSH:</strong> [Chuckles] Yes.
+
+<strong>CHUCK:</strong> And I'm Charles Max Wood from teachmetocode.com. Two things that I wanna point out first is it's my birthday today.
+
+<strong>JOSH:</strong> [Singing] Happy birthday to you!
+
+<strong>JAMES:</strong> Happy birthday, Chuck.
+
+<strong>CHUCK:</strong> Yeah, I'm getting old. I'm what, 32 now.
+
+<strong>JOSH:</strong> Ooh, power of two.
+
+<strong>CHUCK:</strong> [Chuckles] Yeah. I think  you are all older than I am. Anyway, the other thing is I'm looking for sub-contractors, so if you wanna do some moonlighting or freelancing or whatever, and need to fill a few hours, let me know. All right, let’s get into this and talk about Eloquent Ruby. Since James has copious notes, we'll let him get some of his important stuff out of the way.
+
+<strong>JAMES:</strong> [Chuckles] Nice. I should not talk about my note taking. Okay, I´ll start off off-topic, since this is my vacation week. Russ mentioned he also wrote Design Patterns in Ruby, and I've read that one too quite a while ago, and I love that book.
+
+<strong>RUSS:</strong> Oh, thank you.
+
+<strong>JOSH:</strong> Yeah, it's a great book. I got it sitting right here on my shelf. I've read it, it's good. Yeah.
+
+<strong>JAMES:</strong> It is good. One of the things I love about that book is Russ goes through the traditional design patterns, the ones that apply to Ruby, and basically shows the differences in how we normally think of the pattern and how it is in Ruby. And then he also goes and shows some patterns that are kind of Ruby-ish, just from Ruby itself. So I just thought I’d ask, you know, what made you wanna write that book?
+
+<strong>RUSS:</strong> That book came out of frustration. I had right before I had written design patterns in Ruby, I worked on those really large Java application, and it was designed by some people who were just absolutely design pattern crazy. So there's various place in the book where I say something like, “You can make a factory that creates an observer that calls back into the… I don't know, name another random pattern, that calls another factory that does this, that does that.” And it doesn’t make any sense. You wanna sort of be restrained in this stuff.
+
+And a lot of those sequences of the crazy, “This pattern calls that pattern, calls this pattern, calls that pattern,” actually came straight from that system I had worked on. And the frustration was sort of two things; I think what people do with patterns is they tend to say all of my problems must be solvable by these however many patterns were invented in 1994, and also that every problem should be soluble by some combination of those patterns. And I can't think of anything new. Like I can't solve the problem the problem in a different way.
+
+So the original design patterns book was sort of like, “Here's an approach to the problem solving, and here’s some patterns that we’ve found.” And unfortunately, we sort of taken those things and crystalized them, so that it's like back to the future. We are back in 1994, every time we go and code, or at least that’s the way some people do it. And so I really wanna… yes, the patterns thing is a great idea when applied sort of with restrain, with common sense. And also, that we've moved on since 1994, we've discovered some new things, we're using different languages, so we shouldn’t be doing things exactly the way we are doing them in 1994. And so it sort of came out of frustration of like trying to turn that frustration into something positive -- and that was the book.
+
+<strong>CHUCK:</strong> I was in junior high school in 1994, and I seriously hope that we've moved on.
+
+<strong>RUSS:</strong> Yeah, it's a lifetime in technology.
+
+<strong>JOSH:</strong> Chuck, was that when you were smoking in the bathroom or setting the gym on fire?
+
+<strong>CHUCK:</strong> [Chuckles] Actually, funny story… somebody actually did set the gym on fire when I was like in the fifth grade.
+
+<strong>RUSS:</strong> But you've denied it, right?
+
+<strong>CHUCK:</strong> Yeah. I deny everything.
+
+<strong>JOSH:</strong> They can't prove it.
+
+<strong>CHUCK:</strong> Actually, they found the girl who did. She lit a garbage can on fire. We are getting off topic. Anyway…
+
+<strong>RUSS:</strong> Speaking of off-topics, somebody plugged their company. I should add in my bio that I currently work for Relevance, and we are looking for Rails programmers. And my friends back at the company will kill me if I don’t say that.
+
+<strong>CHUCK:</strong> How do they find out?
+
+<strong>RUSS:</strong> Thinkrelevance.com
+
+<strong>CHUCK:</strong> Okay. Good deal.
+
+<strong>JOSH:</strong> So you are implying that all your friends back there listen to the podcast?
+
+<strong>RUSS:</strong> Probably one or two will, just because I'm on it.
+
+[Laughter]
+
+<strong>JOSH:</strong> Oh, ouch.
+
+<strong>CHUCK:</strong> [Chuckles] “Yeah, and there are few other guys on that podcast, but we are listening for Russ.”
+
+<strong>RUSS:</strong> Yeah, that’s right.
+
+<strong>CHUCK:</strong> [Chuckles]  so getting in to the book, there were couple of things that I wanted to jump in and talk about. One of the first things was that there was a control structure that I have never actually seen or used before in Ruby, and that is the until.
+
+<strong>RUSS:</strong> Oh right, sure.
+
+<strong>CHUCK:</strong> I didn’t realize that that was there, and I was feeling kind of this is basic to the language. How did I miss this? But you know, it makes sense just like we have unless to have a…
+
+<strong>RUSS:</strong> I think what you were saying there was sort of… I think is common problem I think when people come a new programming language, you come with a set of expectations and experience you have from your last programming language or the one before that. And it's very, very easy to pick up things that are similar like, “Oh, there's a while loop in Java. And if I'm coming from Java, I see the while loop in Ruby, and I really don't have to think about it.” unless, or until, or whatever not so common, so you will frequently see people who will ignore things like that in Ruby, just because they were in the old language. So the fact that they’ve consciously done it, is that they just sort of miss it because it's a little harder to understand.
+
+<strong>CHUCK:</strong> Yeah, I'm going to harken back to our episode last week, and just kind of say that I don't really see myself using it unless it's I'm doing like a double negative or something where I need to… it clears things up because it's not a while not not not not not…
+
+<strong>RUSS:</strong> Yeah.
+
+<strong>JOSH:</strong> I'm trying to remember which language it was, but I remember that programming in something where they had a while loop and an until loop, and the difference was one tested at the beginning of the loop, and the other at the end, it was just…
+
+<strong>JAMES:</strong> That would be horrible.
+
+<strong>JOSH:</strong> Yeah [Chuckles]
+
+<strong>RUSS:</strong> Yeah. I can remember doing that, sure.
+
+<strong>JAMES:</strong> I read a lot of Ruby books and know a lot of Ruby syntax, including some pretty obscure things I wish I could unlearn, like how if you have two strings side by side, then those are automatically concatenated.
+
+<strong>JOSH:</strong> Oh yeah.
+
+<strong>JAMES:</strong> I know a lot of scary Ruby syntax, but this book taught me a piece of syntax I did not know, and that’s the how you can suppress line endings in the double quoted string, if you back slash them with the ‘n’, right before you press return it suppresses that. I didn’t know that. So it really is, I think just what Chuck was saying, it's impressive the scope of how much you’ve covered in this book.
+
+<strong>JOSH:</strong> So I have a question related to that, and that’s who is your intended audience for the books? And let me just unpack that a little. As Chuck and James have mentioned, there's a lot of really detailed, often advanced knowledge about Ruby in the book, but the tone of the book and the way that it addresses the various issues, makes it feel very much like a beginner book. And yet, at the same time, there's almost no discussion of the object-oriented basics, that make the language comprehensible.
+
+<strong>RUSS:</strong> Yeah. I think the two books have similar, but slightly different audiences. So, take Eloquent Ruby, the person that I was thinking of when I was writing Eloquent Ruby was sort of always kind of write for yourself in a sense. And I came to Ruby with a background in Java and C++ and Python. And so the object-oriented sorts of things were not a problem for me. But was a problem where just kind of the writing the idiomatic Ruby, and understanding the flexibility of Ruby and that kind of thing.
+
+So I wrote Eloquent Ruby, is aimed at being sort of your second Ruby book, is really what I was thinking. If you have some background in object-oriented programming, maybe you are picking up the language however, you can like turn to Eloquent Ruby because you already sort of mastered the very basics of Ruby. Or you've read, I don't know, Peter Cooper’s book or something like that, and you know the basics of Ruby and you understand the general ideas of object-oriented programming, and now you wanna know how to do it in Ruby. So that’s kind of the beginning of the book.
+
+And you know, people say about both these books that they go in to some of the advanced things, and I'm really not so sure. I'm not so sure I ever, in either one of these books I talked about terribly  advanced things, simply because I sort of object, for example of everyone always sort of says, “Oh there's metaprogramming, you are talking about metaprogramming; that’s a very advanced idea.” It's only a very advanced idea if you convince yourself it's an advanced idea. I think one of the mistakes that we make is kind of there's an industry or a profession trying to teach new people things like metaprogramming, it's the first thing we do about it is we scare the daylights out of them, right? We say, “Oh, now we are going to learn metaprogramming and it's different than that other stuff, and you should be very frightened to this, because it's hard.”
+
+Well not really, it's different than what you can do on a lot of popular languages, things like java, but it's really not that much harder. You know, yes you have to understand object-oriented programming, yes in order to get the metaprogramming, you have to understand something about how Ruby’s objects go together, but I don't think metaprogramming is really any more complicated than figuring out,  I don't know, something interesting in a web application, you know? Redirecting people back and forth, so you can get authenticated is an interesting and not really complicated, but significant thing. And I don't really see metaprogramming for example, as anything really intrinsically more complicated than that. Most of us have come from backgrounds where you don't do metaprogramming, so it seems scary and complicated to us. I think if you take a brand new person who is learning Ruby as their first programming language, it's not that complicated. So that’s why I have the cheerful, “This is not all that hard,” turn, because I believe with all my heart, that none of those stuff is very hard.
+
+<strong>CHUCK:</strong> Yeah, I think we come to it a lot in kind of the order that we pick it up, so as we advanced through the Ruby syntax,  and the things that are available to us as a toolkit in Ruby, we kind of deemed… well the first things we picked up were the basic syntax and conditionals on how to do all the control structures. So that’s basic stuff. And then we move into, “Okay, so here's how we do some of the object-oriented stuff, and here's how Ruby thinks about this object model.” And so you should pick that up, that’s the next step kind of people move through, so that’s the intermediate stuff. And then they start playing with metaprogramming and stuff. So obviously, since I advanced through everything else, that's the advanced stuff.
+
+<strong>RUSS:</strong> Yes.
+
+<strong>JOSH:</strong> So I think that there's a different way of looking at beginner versus advanced, and…
+
+<strong>JAMES: </strong>Paycheck size?
+
+<strong>JOSH:</strong> Well, there's that. [Chuckles] There is a Zen master Suzuki who said, “In the beginner’s mind, there are many possibilities. In expert’s mind there are a few.” I was like  that, especially when I was trying to learn how to play Go. It shows a lot of stuff and how to do it, but it also dives in to when you don't wanna do it. And I think that that’s a good indication that you are getting to advanced subject matter when you start telling people how to avoid running into problems, and I really liked that every chapter was like, watching out for trouble, and, “Here’s how to avoid shooting yourself in the foot using this.”
+
+<strong>RUSS:</strong> Yeah, if you ever think about if you come to a new project or something and there’s people who have been working on the project on the long time, and so you are the new guy on the project, and maybe you are  pairing with someone else, a lot of the conversation goes like to like, “Oh yeah, we can do this, that, and the other thing,” And the experienced guy or woman says, “Yeah, don't do that.” You know. And I think that's a lot of learning how to really use something is to know where not to go. And I think it's unfortunate sometimes that lots of technical books or screencasts or stuff, they tell you all about what you could do, but they tend to shy away from the, “Yeah, don't do that.” kind of areas and so I kind of wanted to get that front.
+
+It also came… the design patterns in Ruby is also full of… because you see this all the time in people using design patterns is they misuse them. And so, design patterns in Ruby, every chapter about a design pattern ends with how not to use this, when not to use it. And I like that as a check on the… explain something you get all enthusiastic about it, you wanna be positive, and you wanna make sure that the person sees the value in this thing, and then you wanna say, “Yeah, it's a really short knife; don’t take your arm off.”
+
+<strong>JAMES:</strong> Yeah, I think I like where Russ is going with this in that, a lot of things is like how we explain things to programmers seems to be about 90% of the problem. I mean, you know, everybody loves to throw around complicated computer science terms, so we'll say blocks in Ruby or Closures, and that kind of panics people, you know? “Oh my god, Closures? What's that?” But then when you explain to them, “In Ruby, we don't have for loops, we replace everything with iterators. And just like in your for loop, you wanna be able to use those same variables in the middle of the loop, that you had outside of the loop, you know?” So if Ruby didn’t remember that scope, you could be mad about it.
+
+<strong>RUSS:</strong> I think  one of the mistakes we make when we try to explain things is we tend to leave with the terminology. The analogy I like is, think of those big, giant sailing ships from like the 1800s or something or 1900s with a million sails, and you started talking about all the different ropes, those ships are just completely full of ropes. And if you are talking about all the different ropes, well, they have a name for every single of ropes. So if you said, “Oh, yeah you go on the ship and there's this rope and that rope and this rope and that rope,” That doesn’t really tell the person anything, but if you say, “Yeah there’s ropes that hold the sails up, there's holds the mast up, there's an anchor rope that keeps the ship from moving.” And that makes sense. And then you can tag the names on it, right? The one that holds the sails up or  whatever they are called. We tend to leave with the terminology, advanced Ruby and closures and blocks and hooks. You know? No, just sort of tell us what the language can do, and then we'll hang the names on it later.
+
+<strong>JOSH:</strong> I don't think they called them ‘ropes.’
+
+<strong>RUSS:</strong> Probably not.
+
+<strong>JOSH:</strong> [Chuckles]
+
+<strong>RUSS:</strong> I was trying to think of something that I know nothing about.
+
+<strong>JOSH:</strong> Okay. [Chuckles]
+
+<strong>RUSS:</strong> Isn’t that where the phrase “know the ropes” comes from, though?
+
+<strong>JOSH:</strong> Probably.
+
+<strong>JAMES:</strong> All right, I will give you my favorite quote in the book. I thought we came to talk about that. Maybe Russ can tell us why he wrote it this way. My favorite quote is, “Writing cleaner code is a battle of inches.”
+
+<strong>RUSS:</strong> Yeah, well I wrote it that way, because it is. [Chuckles] You can write code and make it work, and it can be the ugliest code and the most confusing code, but it works. And you know, we’re trying to make code work. And so from one point of view, if you make a code work, if you write a line of code and it actually works, aren’t you done at that point?
+
+And the answer is no, because you are trying to make the code talk to the people, make the code actually works, so it's talking to the computer. You are trying to make the code as expressive as you possibly can. You are trying to make it concise. So, you need to fight every step of the way, because you are not going to have line of code, you are going to have probably hundreds of thousands or maybe even tens of thousands, hundreds of thousands of lines of code. So one extra,  token, one little bit of complexity that in each line of code is going to add up to something massive in the end, so you need to fight every inch of the way to make you code clearer, to make it as best as you can. And I think that line comes from this section I'm talking about, like if and unless, and why do you care if not or unless? And it's because unless in a lot of circumstances, says it better. And so you gain that inch or half an inch, and it's worth it.
+
+<strong>CHUCK:</strong> Yeah, I really like that too, because I think a lot of times, we as rubyists and as TDD people, we get into where we are like, red, green, refactor, red, green, refactor and we don't look at those little inches. We tend to look at the overall, “Okay, how can I make this now big refactor on this feature that I just added in, so that it's the whole thing is pretty and elegant,” or whatever, rather than looking at the code and saying, “Well, this small section is clearer. And so you can clean that out, you gain a little bit of ground on the clarity of your code. And a lot of times, that makes the difference more than the major rearranging of code that you might be tempted to do.
+
+<strong>RUSS:</strong> Right. As a world class misspeller, I sort of fight those battle when I write English, is that sure, I can write something and it could be full of words that are misspelled, and it would be absolutely  clear. And you could follow my directions. If I'm writing some directions, but no, I need to go back and fix the misspellings, because that will make it one inch or one foot clearer -- millimeters, or meters for my European friends.
+
+<strong>JOSH:</strong> [Chuckles] So this leads to a question I have, and that’s the book is a great collection of information about how to use Ruby, and lots of syntax and APIs and things like that, but it's also, either implicitly or explicitly, or somewhere in between a treaty on style, and how you wanna be writing your Ruby programs, and what you code should look like, and you’ve even addressed them in a number of places in the book.
+
+So I'm curious, like did you sit down and explicitly think about what kind of coding style you wanted to present, and what were the kind of decisions that went into that? Because I think that a lot of the style in the book this presented is good, but I obviously, wouldn’t be a senior programmer if I didn’t have quibbles about a bunch of stuff that you did.
+
+<strong>RUSS:</strong> No, I think that's fair. I have my own style that I like. But what I tried to do was for the particular style that I kind of advocate in the book, I try and I think maybe succeeded with one kind of spectacular failure. What I did was I spent a lot of time looking at the library code that comes with Ruby. And I spent time looking at Rails, and various other of the more popular gems that you would find. And I looked at the code that they were actually using and said, “Okay, if this is what people are actually doing, if this is what the authors of Rails are doing, if this is what the authors of the Ruby standard library are doing, if this is what I can't remember some of the other ones that I used, then this is more or less the standard Ruby style.”
+
+Remarkably enough, it's pretty uniform. There's not a lot of places where I had to scratch my head and say, “Oh gee, half of it is done this way and half of it is done that way. What am I going to advocate?” The spectacular place where I think I went off the rails without even knowing it, is I tend to leave a lot of whitespace around in my code,  quickly after parentheses. And after the book was published, people kind of started asking about that. I went back and looked at my example code, and discovered that no, that’s just me, but most Ruby people do not leave that whitespace.
+
+So that’s the kind of thing… I mean, there's style, there's your own personal style. And sometimes, it's so personal, that you don't even realize that you are doing it, or you don't see the fact that you are different than everyone else. But sure, there's variations in the style, and that’s fine. I think Ruby is remarkable. I actually have this conversation with… someone was asking me about the book who had a java background, and they were asking me about the style guidelines in the book particularly, but two space indentation and where the braces and the dos and things like that go. And the point of view that he went into it was that, “Well, that’s just you, right?” I mean, obviously people will do it.
+
+And I'm like, “No, mostly Ruby people, Ruby programmers will style it this way. Mostly Ruby programmers do indeed use two spaces, two indent. Mostly, they put the braces here and the dos here.” And he couldn’t really believe it because java style tends to be, if you look at two different… Or put it this way, there are several popular and very different ways to format java code. And there really isn’t the kind of agreement that we have in Ruby, even though the Ruby agreement is relatively loose.
+
+<strong>CHUCK:</strong> Yeah, so I have a question. It's more for Josh, and any and any other quibbles and bits that Avdi can push into his brain.
+
+<strong>JOSH:</strong> [Chuckles] Did you just say ‘quibbles and bits’?
+
+<strong>CHUCK:</strong> I did. [Chuckles]
+
+<strong>JOSH:</strong> [Chuckles] Are you saying I'm being catty?
+
+<strong>CHUCK:</strong> [Chuckles] I don't know about that. Anyway, I'm al I´ll bit curious because you said there were some quibbles about some of the things that were in the book, and then I'm wondering if you can think of any off the top of your head?
+
+<strong>JOSH:</strong> Oh sure. I don't have six pages of notes, but I have a couple of note cards.
+
+<strong>JAMES:</strong> I do.
+
+<strong>JOSH:</strong> [Chuckles] Okay, I´ll try one and then I´ll let James do five. So one of the that I've actually blogged about it, is using explicit return statements in Ruby. And I find that while that can make code more readable in the small, like if you are looking in a particular line, you have an understanding that that value on that line is intended to be returned out of the method. I find that in the large, that kind of coding style leads to code that’s much harder to refactor and move around.
+
+<strong>RUSS:</strong> So you are saying that you would use the explicit return?
+
+<strong>JOSH:</strong> No, I would never use the explicit return.
+
+<strong>RUSS:</strong> Okay.
+
+<strong>JOSH:</strong> And I found that there was a fair number of code examples in the book that use the explicit return, and had like multiple exit points from some functions or methods. And like it just seem like it was an odd mishmash of making the control flow less clear in several of the examples. And I think that that’s what happens in typical coding style, if you are running good programs is that when you have a bunch of explicit returns, in various places that… there was like one particular example that I saw, I think I have it bookmarked. [Chuckles]
+
+<strong>RUSS:</strong> It's in the document class.
+
+<strong>JOSH:</strong> Yes, it was in the document class, just like everything else. [Chuckles] So there was a method. Let’s see some page 346 on the iPad. So self.read path and then you do reader=reader path and then return nil unless reader. And then the next line was ‘reader.read path’ so this is going to sound [unintelligible] on the podcast, because people can't see what I'm doing. So I would have just done that as like reader&amp;&amp;reader.read path.
+
+<strong>JAMES:</strong> Or reader.readpath if reader… something like that.
+
+<strong>JOSH:</strong> Yeah, that would work well. There's a lot of ways to do that, that I think capture what the code is trying to express better. And I saw these like returns all over place, that were then followed immediately by something that did a return. So like the last few lines of the method is an explicit return with a condition, and then the next line is an implicit return. So I guess I found that style a little jarring.
+
+<strong>JAMES</strong>: Josh, I basically agree with what you are saying there, but I do have a question for you. Do you use explicit returns in [unintelligible] statements at the beginning of the method? Because I will do that.
+
+<strong>JOSH</strong>: Yeah, I'm okay with that. Because those things are typically not part of what you are refactoring. And if you are refactoring a method, then it's real obvious that they are up there at the top.
+
+<strong>CHUCK</strong>; Yeah, I was going to say, I'm going to post a guard class outside your door, Josh and it can only return nil.
+
+[Laughter]
+
+<strong>JAMES</strong>: So just to clarify. What Josh was saying is that when you put explicit returns like in the middle of the method or before you are about to return, and you can resolve that as part of the return, then that makes it confusing and difficult for refactory and stuff. But one of the things that I do like is if I'm going to make some conditions before I allow myself to go into this method, like you’ve got to give me this or there's nothing I can do, then I'm fine with putting return, unless whatever that condition is right at the top of the method, because it shows you, “If we don’t make it this far, then we are just done.”
+
+<strong>CHUCK</strong>: Now, aren’t explicit returns what you do at Walmart after Christmas?
+
+<strong>RUSS</strong>: At the end of a long queue.
+
+<strong>CHUCK</strong>: They are about as pleasant. Is that what I'm hearing?
+
+<strong>RUSS</strong>: I think this is certainly in the gray area, where Ruby people do not necessarily see things the same way.
+
+<strong>JOSH</strong>: I have a hard time convincing many people that explicit returns are bad.
+
+<strong>RUSS</strong>: Right.
+
+<strong>JAMES</strong>: Oh, but just to be clear, Josh is right. [Chuckles] No, I'm just kidding.
+
+<strong>RUSS</strong>: I would say that one of the things that makes me a little freer with the returns, that I might ordinarily… I think I actually said it somewhere in the book is that if you are doing it right, you are writing this really, really short methods. You are not writing 60-line methods, you are not writing 45-line methods ideally. Sometimes you get in a bad place, and you wound up doing that, but ideally, you are writing methods that you can take in with one sweep of the eye.
+
+And if you do that, at least in my opinion, it matters much less if you have explicit returns, if you have implicit returns, because you can see the whole method and you can say what it's doing very rapidly. And I think while we might differ a bit, whether explicit returns are good or bad, I think the idea of a short sort of pointed methods that do one thing, is something that Ruby is in general, are really happy about and pretty much agree on – not to put words on anybody’s mouth.
+
+But that’s different from recently in a year or so ago, I was working with some folks who come over from the Java world, so they were picking up Ruby, had gone on Ruby training and were sort of slowly picking it up and writing Rails apps, and they would think nothing of writing a 75-line method. And so I sort of sit down with them and say, “This is not a really good idea. We need to break this up.” And it's not that they are by any means stupid, or anything like that, it's just that there’s a different programming culture there that says that method that goes on for two pages is just fine. Versus I think the Ruby community has pretty much said, “No, we might disagree on what the limit is, but there certainly is the limit, and it's certainly is smaller than 75 lines.”
+
+<strong>JAMES</strong>: It's ironic because in your discussion of all Rubyists generally agree on braces do end and stuff like that, I actually use a different rule for braces and do end than the one that you gave in the book. So that’s kind of interesting.
+
+<strong>JOSH</strong>: Do you use the Weirich rule?
+
+<strong>JAMES</strong>: Yup, I use the Weirich rule. So for those who don’t know, the one Russ gives in the book is a line, so if it's a single line block, then we do braces. And if it's a multi-line block, we do ‘do end’. And the rule that I use for blocks is, if I care about the return value of the block, then it's braces. And if I'm running the block just for side effects, procedural codes, say writing a file or something like that, then I use do end. Now if I use do end, I don’t put it on one line; even if it fits on one line. I'll go ahead and break that to multiple lines. So I do also use Russ’s rules, sort of. But the braces, if turns into multiple lines, it's fine by me, but if I'm interested in the return value. So for example, something like a map or a select, I would always deal with braces, because the return value of the block is significant. I find that gives me a little more information at a glance.
+
+<strong>RUSS</strong>: Yeah, I didn’t really know about the Weirich rule when I wrote the book. [Chuckles] that’s my excuse. I think it actually, certainly from my very limited point of view, it seemed like that people started talking about that just as the book went to press, and I'm not sure I nailed how I feel about it. It's certainly wasn’t reflected in the code that I was looking at, because I probably would have noticed, but I hoped that I would have noticed things like the library that came with Ruby or Rails and things like that. At least I didn’t notice it.
+
+<strong>CHUCK</strong>: I think that’s indicative though of the way that our community works is that, there are always people advancing the craft. And so, I mean, you are never going to get everything in there, exactly the way that people think about it, because by the time you are publishing it, somebody’s come up with something like this and you know, we just do the best we can. And I really feel for the people who writing Rails, that changes like how often so.
+
+<strong>RUSS</strong>: Yeah, I mean that’s the contrast, we've got design patterns from 1994, they are frozen and they are never going to change and we are always going to use them. And I think the fact that we are still experimenting and trying new things out is a really healthy sign, even if it makes my life as an author harder.
+
+<strong>AVDI</strong>: So I have a question. This is as you mentioned, this is a very much book about idiomatic Ruby, and I really have to compliment you on writing a book that is very non-objectionable. I realize it sounds like they [unintelligible] but what I mean by that…
+
+<strong>CHUCK</strong>: Yeah, we didn’t hate it.
+
+<strong>AVDI</strong>: Idiom is kind of a religious topic. And you know, I was really surprised that I read like 400 pages on idiom, and was very rarely ever like yelling on the page, and I think that’s an amazing feat. My question is related to getting idioms out to the larger community. I mean, I think any of us who have written code for a good deal of time, have wanted to write something like this, that captured idioms and jam it down our team member’s throats. And the frustration I think is the people that we most wish would sort of get on board with these idioms are maybe the people are least likely to take a 400-page book and read it through and change our ways. What are your thoughts on propagating these kinds of good… generally agreed to be good idioms in organization, in a way that doesn’t piss people off too much, and doesn’t get management thinking that you are only interested in making the code beautiful, and not in getting features out there. How do we gently promulgate those stuff in our organizations and in the larger community?
+
+<strong>RUSS</strong>: Well, the first thing we have to do is stop pissing people off, I think. By that, I mean it's really easy to get… I mean, this coding stuff is hard, right? Making programs work is not easy. And so if you are spending 8-10 hours a day, just trying to make the darn stuff work, and then you hit a point where you find some code that’s maybe functional, but is Java and Ruby or c++ in Ruby or c# and Ruby, it's really easy to get frustrated, because this stuff is hard enough as it is. And but I think going at it with frustration is absolutely the wrong kind of being frustrated and then letting yourself… giving into that is absolutely the wrong thing. And I think one of the reasons that I don’t think frustrates me anymore is the realization… see, I've spent a lot of my time teaching Java people Ruby, okay? And one of the things is it's a process. First, you learn the basics of the language, and you tend to write in a Ruby or whatever it is you are learning, and it looks exactly like the old thing that you did.
+
+So, if you are a Java programmer, your first Java programs tend to look exactly like their Java equivalence.  It's not that you are evil, it's not that you are stupid, it's not that you don’t care, it's just part of the learning process. And if you teach enough people Ruby, you see they go through these stages and not everyone goes through the same stage, and some people are quicker and some people are slower, some people just have their own things. But in the mean, there’s stages you go through. And it's important to sort of… you find someone and they are doing x and it's particularly idiomatic. You know, you need to sort of figure out where are they are in the process learning and help them get to the next level.
+
+Now, in my actual real, flesh and blood life, am I always that patient and everything? Anybody who knows me would tell you no, I’m not as patient as I should be. But I think that that’s the kind of thing we need to go through is… and so the people who need it won’t read a 400 page book. I'm not really sure. I think maybe the people who need it maybe, they don’t know that they are not really doing the best job they could. Maybe the people who really need this advice… I mean, one of the reasons I wrote Eloquent Ruby is that there was all these knowledge that folks like you and me, we all knew that wasn’t written down anywhere.
+
+So if you come to… I don’t know, if you get into that big sailing ship, and somebody is telling you all about the ropes or whatever they are called, then you say, “Oh, where can I learn about this?” and they are like, “Sorry, you are out of luck; it's not written down anywhere.” You would be frustrated. So I mean, that was one of the motives for writing the book, was to get this all written down, but you have to very few people wanna do a bad job at anything. And most of the time, when people are maybe defensive or don’t wanna change, it's because you are not kind of approaching it right. Or at least that’s the way I chose to look at it.
+
+<strong>JAMES:</strong> I wanna kind of talk about that a little bit. One of the things I did love about the book is so many times, it had me nodding along when you were saying, “you know what, there’s this and that,” and you’d better off to avoid this, or these things are very complicated, and so I better just sit you down and explain to it. I think that’s the…
+
+<strong>AVDI:</strong> I just wanna interject. I really like the one where he says, “I will come and throw you out the window.”
+
+[Laughter]
+
+<strong>RUSS:</strong> [Chuckles] That’s me in my not-so-patient mode.
+
+<strong>JAMES:</strong> I did love that. Like there’s so many things like people like me that have been in Ruby so long, that’s like, “Yup, I’ve run that and it bit me.” And then here’s the discussion of it in Eloquent Ruby, right? “You probably don’t wanna do this because sooner or later, you get cheated by.” You know? And I love that. And to give some examples, the discussion of class variables is probably one of the best ones in any book ever.
+
+<strong>RUSS:</strong> Oh, thank you.
+
+<strong>JAMES:</strong> Show me exactly what’s wrong with Ruby’s class variables and why they’re the devil’s work. I don’t care what zen says. Then you have a really great differences between lambda, proc new, you walk through all of those differences very well.
+
+<strong>RUSS:</strong> Oh, I did that with the O'Reilly book that Matz wrote open, because I can remember the difference between proc and lambda and proc.new. You sort of hit on my two fundamental frustrations with Ruby, which I guess are not really that big, but it's the class variables and the names of those stupid methods.
+
+<strong>JAMES:</strong> Right. And your discussion of equals; Ruby has like 50 different ways to say equals, you know?
+
+<strong>RUSS:</strong> [Chuckles]
+
+<strong>JAMES:</strong> And you kind of makes sense of all of those. Well, actually there’s a reason there’s all these different equals. These are about hashing things, and these are about checking object equality. And I really thought that was very nice to have, all kind of coded down. And one I've never seen in other Ruby book that I loved was when you kind of got into blocks, and have closures and keep their scope, and you actually went into, so that can lead to problems that make it look like Ruby leaks memory, you know? Because you are holding on to these references, and you are making Ruby keep track of all these stuff and that’s why… we hear the complaint all the time that Ruby leaks memory and stuff like that. But often, it's a matter of how we use Ruby. And I really loved having a discussion om that.
+
+<strong>JOSH:</strong> So I like that too, I think it was awesome that you included that information. On the other hand, you went in both feet for using the explicit code blocks rather than the implicit code blocks, without any discussion of the performance impact of that.
+
+<strong>RUSS:</strong> Yeah, yeah. That’s true.
+
+<strong>JOSH:</strong> [Chuckles] Yeah. Anyway, just saying.
+
+<strong>RUSS:</strong> It's a reflection of my idea. I say this all the time, is that when you start talking about performance programmers lose their minds. We are so focused on writing code that performs well, that sometimes we just forget. So, I will go out of my way… and particularly, when I'm talking to programmers who are new to Ruby, which in some sense Eloquent Ruby, surveying that to not talk about performance, because it's not that it's not important, but I think we have our performance worry amplifier knob turned up to 11, way too often. So I'll plead guilty on that one.
+
+<strong>JAMES:</strong> I do wanna cover one other thing I liked about the book. I really liked the metaphors you found for it's some things; like your use of basically an around filter, to explain how blocks are used to execute some codes, maybe before or after both something. When I think of that, I don’t think of an around filter right off the bat. I mean, I realized that’s a perfect use of it. But I think of lots of different things, but that’s just not first one that jumps to my mind. But then when I saw you explain it that way, I was like, “Wow, that’s a great way to explain how to make use of blocks.”
+
+<strong>RUSS:</strong> I think one of the books that I've read in doing research in Eloquent Ruby was Kent Beck’s the Smalltalk book… patterns and practices.
+
+<strong>JAMES:</strong> Smalltalk Best Practice Patterns.
+
+<strong>RUSS:</strong> Yes. And he talked a lot about the execute around thing, and really that whole discussion comes straight from him, so you need to go back in your time machine and congratulate him on that.
+
+<strong>JAMES:</strong> We did that. We read that book and had him on the show.
+
+<strong>RUSS:</strong> Yeah. I listened to that one, yeah.
+
+<strong>JAMES</strong>: Yeah, I liked the metaphors you found for using them. I remember another one where you are saving the blocks and using them alter. I can't remember the exact… where you did that. Again, it was very well… a lot of times, I found the right way to show given concepts.
+
+<strong>JOSH</strong>: I really liked the terminology of ‘dragging along scope variables’. Kicking and screaming.
+
+<strong>RUSS:</strong> Yeah, it's funny. I find myself… and I think probably lots of people do this, I try to spend a lot of time talking to people who are new to Ruby. Kind of a fun thing that I do. In fact, I was doing it last night. And you find yourself… you can struggle with you writing. You can really struggle with trying to find the right way to explain something, but it's funny, sometimes if you just get a group of people and they are asking you questions and you start explaining it, you will hear yourself say things, and you think, “Oh yeah, that’s good. I'm going to use that.” Even though it's sort of you saying it. So I think you sort of have the credit for various people who suffered through my introduction to Ruby classes for some of the metaphors in eloquent Ruby, because a lot of them, I just sort of heard myself saying, “oh yeah, I'm going to use that.”
+
+The one thing I should add is early on the book, I said that, “A good code is like a good joke; you shouldn’t have to explain it,” talking about comments, and I just stuck that in there. And that is like a programming thing that I've heard 100 times, and it's certainly is not original with me. And I was sort of mortified… I think I've been quoted about 1000 times on Twitter with that. And every time, it certainly makes my teeth hurt, because I feel like I've plagiarized it from some other person. But it's sort of like to say, “To be or not to be.” You don’t put a footnote and say, ‘Shakespeare’ or ‘Hamlet.” Right? You just assume that everybody is going to know that. And so I wanna proclaim here for about the 25<sup>th</sup> time, that that was not original to me. I did not make that up.
+
+<strong>CHUCK:</strong> We'll have to retweet that. I'll go ahead and put that out there and basically say, “It wasn’t Russ.”
+
+<strong>RUSS:</strong> [Chuckles]
+
+<strong>JOSH:</strong> Yeah, Russell, thanks for explaining that.
+
+<strong>CHUCK:</strong> Yeah, it remind me of last night, I was at a users group meeting, the guy who was running the show, his name was Brandon, and he was looking for volunteers for the next users group meeting to talk about different topics. And the first guy to volunteer, his name was Brandon also. And he gets up there and he writes on the board, and he was making this list in his own benefit. He’s like, ‘Brandon, not me.’ [Chuckles] And I'm like, “Okay, your self-reference is broken.” But anyway, we need to get into the picks. We're probably going to go over an hour anyway, but I just wanna thank Russ coming on to the podcast again.
+
+<strong>RUSS:</strong> It was my pleasure.
+
+<strong>CHUCK:</strong> And for writing such a super book, because I found it very simple to follow along. I mean, some of the stuff, a lot of the stuff, I knew just because I've just been programing Ruby for a while, but there's so many little tidbits that you pick up in that, that I think is really, really appreciated, so thanks for coming.
+
+<strong>JAMES:</strong> I agree. It's a great book.
+
+<strong>RUSS:</strong> Thank you.
+
+<strong>CHUCK:</strong> Alright. So as far as the picks go, let’s go in alphabetical order, and I guess it's Avdi first.
+
+<strong>AVDI:</strong> Alright, well my first pick, let me preface it by saying, everyone that follows me on twitter knows that I am a distributed revision control system hipster. I really prefer the  user interfaces of some of the more obscure DBCS’s like [unintelligible] to get mish mash of the UI. So you’ll often see me complaining about Git from time to time. And I think if you are going to be forced to use Git, and to really learn how to use Git well, you might as well be entertained while doing it. And to that end, I want to recommend something called ‘think like a Git,’ which is this wonderful website, which is basically a sort of a book or beginnings of a book. You can say on using Git, and it is written in a style that just I mean literally has me laughing out loud in my office as I read through it. It has this wonderful section that starts, ‘Git makes more sense when you understand x,’ and it goes through all the various metaphors that people have used to try to explain Git and it's just wonderful. So think-like-a-git.net, check it out.
+
+Something else that I'm not even sure what to call it, but something that I've been doing for a while, that I will pick out, for several months, I and a couple of friends of mine, have been doing daily remote standup meetings. And we're not on the same team together; one of them, I used to work with, but I haven’t worked with him for a while. But we are all people that work from home, we are all people that are often working sort of on our own, or a little disconnected from other people, were not working in an office. And we have a daily standup on… now we do it on google hangouts where we talk about what we’re working on in general, and what interesting new things we’ve learned and stuff like that.
+
+And I just wanna sort of put that out there as an idea; if you are in a situation where you are developer who is working a little bit in a kind of isolated fashion, or maybe you work in an office, but it's not the sort of place that has fun daily stand ups or something like that, see if there are some people out there who will do a daily standup with you, even though you are not all in the same team together. You’ll probably find people that are willing to do it. It's really a great way to get socialization to learn a few new things, and just for general moral support.
+
+<strong>JOSH:</strong> I love that idea. I remember when working at home and telecommuting was becoming pretty popular in the 90s and in the early... But the big thing was the telecommuters lunch club, where you'd you go out and have lunch with people  who worked at home in your neighborhood, so that you weren’t like shut in all day. This sounds more useful. So cool.
+
+<strong>AVDI:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> Yeah, socialization will probably give you a little more [unintelligible]. I think that’s my problem. Anyway, I guess I'm next. One thing that I tried lately -- and this isn’t a code pick -- there's a website called e-mealz.com, and really the deal was my wife wasn’t feeling well for a while, and so, when dinner time rolled around, basically what would happen was I’d be like, okay, where do you want me to go get dinner? And it was just like, a hassle because I didn’t know what to make, and I didn’t know if we have what we needed to make it. And the cool thing with this website is that it gives you meal plan for the whole week, it gives you a shopping list. And so you just print the thing up, take the shopping list to the store, do all your shopping and then you have everything you need. And the meals are actually pretty good. So I've been doing it for a few days, and so far it's worked out real well. So that’s my first pick.
+
+And my second pick is something that I think a lot of people take for granted, but it really makes a big difference, and that is just having a good word processors, spreadsheet program. And I have the Mac, iWork stuff, OpenOffice seems to work alright as well, but I got it just because I liked that keynote seems to have some good polish to it and stuff. And basically, I'm using it a lot more because I've been doing estimates for potential clients to let them know. Here’s about how long I think it will take, here’s roughly what it will cost in the best case or worst case scenario. And so, filling it in the spreadsheet, or putting it to a tracker and then having that figured out, but then being able to export it to a spreadsheet, where you can then have them visualize how long it's going to take for features that they’ve got and things like that. It's just really, really handy. Those are my picks. We'll go ahead and let James go next.
+
+<strong>JAMES:</strong> Okay. So I've been picking bunch of like tools and stuff lately, so I thought I would have a little more fun with this time. First though, I kind of sort of on-topic pick before I have some fun. Peter Cooper turned me on these videos screencasts on tech pub called The Art of Speaking. It's about Scott Hanselman, I didn’t know what that was, but I guess he’s a big speaker in the C# world and .NET and stuff like that. Anyways, it's a neat video where the team went out, and just kind of gave him this challenge, where like, “Were going to give you 90 minutes to learn CoffeeScript, and then give us a 15 minute talk about it.” Basically they film him as he’s doing this, and you get to follow his thought processes and it's pretty interesting from how he puts together a talk, or what he thinks about the slides. Just hearing the thoughts that were coming through his head that are about why he’s doing the things he’s doing, and what example he’s looking at and why, I found that really useful.” So if you do speak at conferences, you would probably enjoy this video. It’s like an hour and 20 minutes that you see him prepping and gave his presentation. So, pretty good stuff there.
+
+Okay, now back to vacation mode. I'm getting more adventurous in music the older I get. So I'm trying different things. I thought I would just name three albums that maybe not everybody knows and I enjoy. So, the first one is the Green Day Blue Grass tribute. I imagine you all know who Greenday is, but there's a tribute album that's in bluegrass; he does a bunch of greenday’s famous songs, you know, American Idiot and stuff like that in Bluegrass. It's really great. I thought that was kind of weird when I first heard of it, but after listening to it, I really enjoy it. So that's kind of an unusual album that I like.
+
+Another one, I do listen to classical ones and different variations of classical from time to time. But one that’s pretty cool that I found semi-recently is Zoë Keating. She’s a cellist, but she'll often do very modern thing; like she'll play something and loop it back on herself, while she’s playing other things. So even though she’s just like an individual cellist, she can kind of seem to be an entire band -- all by herself. And a great album of hers is Once Cello X 16: Natoma is the name of it. And that album, I find it makes a good programming music, and it's kind of got this legion marches in it and stuff. And pretty good stuff. I enjoy listening to while coding. So that’s my second recommendation.
+
+And then my third but definitely not least, if you are any kind of a geek, and you enjoy things like Firefly, Battlestar Galactica, or anything like that, you absolutely must have Marian Call’s Got to Fly album, which is basically a tribute all those things -- Star Wars, Lord of the Rings. And I know that probably sounds incredibly… music album tribute to those things, but you won’t be laughing after you listen to them. It's absolutely excellent music. So I'm recommending those albums. People should go listen to them and check them out.
+
+<strong>CHUCK:</strong> Awesome. Thanks James. Josh?
+
+<strong>JOSH:</strong> Okay, so my pick is not Textmate 2. [Chuckles]
+
+<strong>JAMES: </strong>Ouch.
+
+<strong>CHUCK:</strong> [Chuckles] It’s a Sublime Textmate 2.
+
+<strong>JOSH:</strong> [Chuckles] Yeah. I've been working on Sublime text, it's not that bad. Okay, but I actually do have a bit of a tool pick here. And it's not one tool, it's a flow of tools. So I'm going to talk about three tools. So the first is Balsamiq mock ups, and I've been using the desktop apps. We tried the hosted web thing light balsamiq and that didn’t seem to work at all for our team. But the desktop balsamiq, It's nice. It's kind of a… if people haven’t used it, it's a low fidelity tool for mocking up UIs, it's pretty well suited for doing web interfaces. And it's nice because it looks like you sketched it in your hands, so you don’t get too attached to like polishing pixels when you really are just trying to shake out the structure of your page. So we’ve been doing that.
+
+But the thing that we started doing last week that just made everything click, was you put together stuff in balsamiq, then we would use Skitch, which is this cute little graphics editor that can really easily do screen grabs, and then you can mark things up and annotate them; draw circles around them, arrows, and labels and so it's really good for that kind of annotation of screen grabs. But the cool thing about it is that when you… you don’t even have  to save stuff from Skitch at all. There's a drag handle of the bottom of the window, so you can just take that… you have a design that you’ve mocked up in balsamiq, and then you use the hot keys in Skitch to grab it, and then you can type one or two draw some big arrows and circle things, which is the thing that you really need to focus on in a story that you are about to work on, and just grab the drag handle at the bottom of the screen, that says ‘drag me’ at bottom the window. And just drag it to a story in pivotal tracker, and it just uploads that image to your story as an attachment.
+
+So it literally just takes like two or three seconds  to be able to go from balsamiq to your pivotal tracker story, and you have your attachment there and you can see what the hell is going on with your story that you need to make. And then if you want to add a little annotation when you are on Skitch, you can do that for some more seconds. So we’ve just been doing that workflow lately, and it's really nice and it's made working on stories so much easier for us. And that’s all I got this week.
+
+<strong>CHUCK:</strong> cool. I'm probably going to start using that with some of my sub-contractors.
+
+<strong>JOSH:</strong> Yeah. By the way, Skitch got bought up by Evernote. So it's now part of the Evernote package.
+
+<strong>CHUCK:</strong> Everstitch.
+
+<strong>JOSH:</strong> [Chuckles] Yeah.
+
+<strong>AVDI:</strong> Yeah, I actually started using that on my android tablet. The Evernote in the Skitch integration, and that’s really nice, actually, because you can just open an image from Evernote into skitch, and then doodle around on it with your finger.
+
+<strong>CHUCK:</strong> Nice.
+
+<strong>JAMES:</strong> I recommended Evernote last week, and then Josh gave me the, “You got to go listen to this podcast where they talked about it for like an hour and twenty minutes.”
+
+<strong>JOSH:</strong> Power users?
+
+<strong>JAMES:</strong> [Chuckles] Yeah, I went and listened to that, and “Wow, that gave me a ton of things I didn’t think about using it for.” So yeah, I've been using it even more.
+
+<strong>CHUCK:</strong> Nice. Alright, Russ what are your picks?
+
+<strong>RUSS:</strong> Well, I've been getting ready for the show. I was thinking a lot about Eloquent Ruby, and the whole process of sort of bringing people into the Ruby community, and so I got a couple of other ones my fundamental pick is something I did last night, which is I went out and we have a Tuesday night, kind of meet up with a couple people from the Ruby community, and a bunch of people who basically know nothing about Ruby or Rails. Some of them are programmers, some of them are coming into… this is their first programing experience. So my pick is to go out with actual human beings -- in person -- who are trying to learn Ruby because you’ll do some good for the community. You’ll spread the love around. But what you will get back, is this feeling of excitement and joy that you haven’t felt since you learned Ruby. And so, it's a really remarkable experience, and I recommend it for everyone. And you can actually sort of do the community some good.
+
+I got a tool, and perhaps this is an old hat, but there's a family of editors that was started by one called WriteRoom, which is basically, it turns your $1,200 MacBook air, or whatever computer you are using, into a $50 typewriter that you can get off of eBay. WriteRoom is a very bare-bones editor that takes over your full screen, kind of gives you a black background, you just start typing and all you see is your text. And it is the greatest thing for getting rid of all the distractions; your email, your twitter, your everything else – you are just writing. And probably not for everyone, but for me, it was the greatest tool to actually getting writing done. And I think I probably would still be writing Eloquent Ruby if it were not for this sort of ‘take over the whole computer’ editors.
+
+And since we are talking about music, my last thing is anything on the ukulele.
+
+<strong>CHUCK:</strong> [Chuckles] That just reminds me of when we had Jim Weirich on the show, because he picked ukuleles and gave us a whole bunch of resources for that.
+
+<strong>RUSS:</strong> There you go. I'll refer you back to that, then.
+
+<strong>CHUCK:</strong> Yeah. It's really interesting to me how many musicians there are in the community out there.
+
+<strong>RUSS:</strong> Yeah, I think. I realize we are sort of getting over time, but maybe my last word is we're not as boring as professional programmers, we are not as boring as our books make us out to be. And I think that if our books, on average, were as fun and as exciting and as excited as the people were, our books would be a lot better.
+
+<strong>CHUCK:</strong> Yeah. Am I the only person on this episode that hasn’t published a book?
+
+<strong>JAMES:</strong> Oh geez. You are behind, Chuck.
+
+<strong>CHUCK:</strong> Yeah, unpublished. Speaking of books, so next month, we've been discussing which book to do and we had a couple of books, Land of Lisp, we got Refactoring in Ruby suggested but we haven’t really zeroed in on the book that we wanna do, so what we're looking for is some feedback from you, the listener, on which book we should cover next month. So between now and Christmas, go ahead and either leave a comment on RubyRogues.com. Just go ahead and do it on episode 33. Or you can Twitter or whatever you want to use to let us know which book we should pick, and then after Christmas, we will pick a book and we'll let you know what that is and we'll review in January.
+
+<strong>JAMES:</strong> Sounds awesome.
+
+<strong>CHUCK:</strong> Alright, I think that’s it.

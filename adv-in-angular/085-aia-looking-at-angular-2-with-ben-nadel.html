@@ -1,0 +1,542 @@
+---
+layout: layouts/post.njk
+title: >
+      085 AiA Looking at Angular 2 with Ben Nadel
+date: 2016-03-24 13:00:00
+episode_number: 085
+duration: 0:57:11
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA085LookingatAngular2.mp3
+tags: adv-in-angular
+---
+
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:14 - Ben Nadel Introduction</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://twitter.com/BenNadel">Twitter</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/bennadel">GitHub</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.bennadel.com/">Blog</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://devchat.tv/adventures-in-angular/029-aia-angular-at-work-with-ben-nadel">Adventures in Angular Episode #029:  Angular At Work with Ben Nadel</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.invisionapp.com/">InVision</a></span>
+<ul>
+ 	<li><a style="font-size: 14px; line-height: 1.6; text-decoration: none;" href="https://twitter.com/InVisionApp">@InVisionApp</a></li>
+</ul>
+</li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:56 - Looking at Angular 2</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">04:01 - Dialect and Mechanics</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">13:17 - Angular 2: Likes and Dislikes</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.bennadel.com/blog/2439-my-experience-with-angularjs---the-super-heroic-javascript-mvw-framework.htm">The Angular Learning Curve Graph</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">28:02 - Promises and Observables</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">32:11 - Change Detection</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://docs.angularjs.org/api/ng/directive/ngModel">ngModel</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">39:13 - The Mental Model</span></span></p>
+<span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">47:12 - </span><a style="text-decoration: none;" href="https://github.com/reactjs/redux">redux</a></span>
+
+<span style="font-size: 14px;">Picks</span>
+<p dir="ltr"><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://dynamite.com/htmlfiles/viewProduct.html?PRO=C72513022044802011=1">Ex-Con #2</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Joe)</span>
+<a style="text-decoration: none;" href="http://www.bennadel.com/">Ben's Blog</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Ward)</span>
+<a style="text-decoration: none;" href="https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87#.gw4zg2msi">Ben Lesh: Learning Observable By Building Observable</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Lukas)
+The Lulu (Lukas)</span>
+<a style="text-decoration: none;" href="https://www.dropbox.com/">Dropbox</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="https://www.facebook.com/mattgiovanisci/videos/10208617188848005/">The Best Podcast Rap Video</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://bjam.in/easy-to-delete">Tef: Write code that is easy to delete, not easy to extend.</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Ben)</span>
+<a style="text-decoration: none;" href="http://bjam.in/wrong-abstraction">Sandi Metz: The Wrong Abstraction</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Ben)</span>
+<a style="text-decoration: none;" href="http://bjam.in/economy-of-keystrokes">Kyle Simpson: The Economy of Keystrokes @ Thunder Plains 2015</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Ben)</span>
+<a style="text-decoration: none;" href="http://www.infoq.com/presentations/Simple-Made-Easy">Rich Hickey: Simple Made Easy</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Ben)</span></span></p>
+
+<h3>Transcript</h3>
+
+<strong>WARD:<em>  </em></strong>Kablamo<em>.</em>
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco and New York and LA get on JavaScript developers providing to put the salary and equity upfront. The average JavaScript developer gets an average of 5-15 introductory offers and an average salary of over $130,000 a year. You just can either accept an offer and go right into interviewing with the company and neither with that any continuing obligations. It's totally free for users, and when you're hired, they'll also give you a $1,000 bonus as a "Thank You" for using them. But if you use the Adventures in Angular link, you'll get a $2,000 bonus instead. Finally, if you're not looking for a job but know someone who is, you can refer them to Hired to get a $1,337 bonus if they accept the job. Go sign up at Hired.com/AdventuresinAngular.]</em></strong>
+
+<strong><em>[Ready to master AngularJS? Oasis Digital offers Angular Boot Camp, a three-day, in-person workshop class for individuals or teams. Bring us to your site or send developers to ours classes in St. Louis or San Francisco – AngularBootCamp.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by Telerik, the makers of Kendo UI. Kendo UI integrates seamlessly with both AngularJS 1.x and 2.0. It provides everything you need to integrate with AngularJS out-of-the-box bindings, component configuration and directives, template directives, form validation, event handlers and much more and yet Kendo UI tooling does not depend on AngularJS. So if you want to use it with Angular or not, that’s totally up to you. You could check it out at KendoUI.com]</em></strong>
+
+<strong><em>[This episode is sponsored by Digital Ocean. Digital Ocean is the provider I use to host all of my creations. All the shows are hosted there, along with any other projects I come up with. Their user interface is simple and easy to use. Their support is excellent. And their VPS's are backed on solid-state drives and are fast and responsive. Check them out at DigitalOcean.com. If you use the code “Angularadventures” you'll get a $10 credit!]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 85 of the Adventures in Angular show. This week on our panel we have Joe Eames.
+
+<strong>JOE:  </strong>Hey there.
+
+<strong>CHUCK:  </strong>Lukas Reubbelke.
+
+<strong>LUKAS:  </strong>Hello.
+
+<strong>CHUCK:  </strong>Ward Bell.
+
+<strong>WARD:  </strong>Howdy doody.
+
+<strong>CHUCK:  </strong>I'm Charles Max Wood from DevChat.tv and this week we have a special guest, Ben Nadel.
+
+<strong>BEN:  </strong>How you guys doing?
+
+<strong>WARD:  </strong>Better than you, Ben. We're doing better.
+
+[Laughter]
+
+<strong>WARD:  </strong>Just thought I'd get that…
+
+<strong>CHUCK:  </strong>We've had you on the…
+
+<strong>LUKAS:  </strong>[Inaudible] start.
+
+<strong>CHUCK:  </strong>We've had you on the show before but…
+
+<strong>WARD:  </strong>Just thought we'd get it right out there, right in front.
+
+[Chuckles]
+
+<strong>BEN:  </strong>Yeah, I always…
+
+<strong>CHUCK:  </strong>We've had you on the show before. Do you want to introduce yourself though real quick?
+
+<strong>BEN:  </strong>Sure. My name is Ben Nadel. And I am the co-founder of a company called InVisionApp. We build a design collaborative and prototyping platform. But primarily I think of myself as an engineer with a pension for product design and development. And a huge, huge fan of JavaScript in general and for the last several years, AngularJS specifically.
+
+<strong>WARD:  </strong>Yeah, so recently you've been doing an amazing series of posts about your forays into Angular 2. And before we get into what that's like, are you looking at it because it amuses you or because you have other ideas in mind? Because you have a substantial investment in Angular 1.
+
+<strong>BEN:  </strong>Sure. I'm a huge fan of Angular. It makes sense to me in a lot of ways and I've had a lot of success with Angular 1. I'm definitely invested in trying to use Angular 2 in the future. What that actually looks like in a practical sense, most likely would be more of a greenfield effort meaning I highly doubt that we'll take parts of our existing application or series of applications and upgrade them to Angular 2. I understand that there's all of the ng-forward and the ngUpgrade stuff. But I think that would probably add more complexity than we want to deal with. But if we were to roll out new portions of an application that stood alone, Angular 2 is definitely something that I would pull for or at least discuss internally with the engineering team at large.
+
+<strong>WARD:  </strong>You can't spend more than a minute looking at your site without realizing that you are writing it in a very strange dialect. What the heck is a [inaudible]?
+
+<strong>BEN:  </strong>[Chuckles] So, that's a great question. I do all of my R&amp;D in ES 5. And specific…
+
+<strong>CHUCK: </strong> Wait, what?
+
+<strong>BEN:  </strong>[Chuckles] I do, yeah. I do all of my R&amp;D in ES 5 and specifically with the intent to be able to put the entire demo on a single page of code, which I get a lot of push-back for both for the ES 5 and for the single-page portions. But I find it to be much easier to think and reason about code when I can see it all on a single page.
+
+And I also, even just from an editor standpoint, let's say I have a token that I need to represent a class then I have to inject that class into another class. When I'm looking at my IDE it's really easy to say double-click on the token and then just jump to other instances of the token in the same page of code. I can quickly jump back and forth between where things are defined and where they're used. And it removes that cognitive load of not only do I have multiple pieces of code, but they're spread across multiple files and now I need to find those files and I need to keep that mental model in my head all the time. But…
+
+<strong>WARD:  </strong>You know that if you wrote in TypeScript, the IDE could help you with that.
+
+<strong>BEN:  </strong>Well, so… I… I mean now and then you get into a whole tooling conversation. So I use Sublime Text as my IDE. And I use IDE in a very lose sense. It's basically a really fast, really fancy text editor. Even when I was going through the five-minute quick-start guide and the Tour of Heroes, I installed a really old, I think it was from Microsoft, a TypeScript plugin that did nothing but the syntax highlighting. Because everything else, like the really fancy TypeScript plugin actually seemed to weigh down the IDE way too much for me. The keys were getting laggy and so on and so forth. So, I just abandoned that altogether. And if I was going to do it in TypeScript, then I'd have to use probably SystemJS and then SystemJS would have to load something from a secondary file.
+
+And I just, I don't know. I didn't want to have to deal with it. As much as I know you guys in the past shows have talked about like oh, you know now is the time for developers to embrace transpilation and build steps and gone is the days of, “Hey, let me update this line of code and then refresh my browser,” as much as I think that probably is absolutely true for production apps, it's not necessarily the world that I want to live in for a, “Oh hey, how does an RxJS stream work? Let me write a piece of code here and just run it in the browser.” I don't want to have to jump through all that. So, I've sort of settled on a single-page model uses a simplified version of RequireJS, do AMD module loading so it's all sort of defined in Require in a single page. And it just makes it easy for me to think about. I hope other people can grasp it.
+
+<strong>WARD:  </strong>So Ben, anybody who visits your blog aside from the excitement that they will get from that, they heart will definitely race when they see the peculiar dialect of JavaScript that you're using in there. What's going on? What's your choice? What's driving that?
+
+<strong>BEN:  </strong>Sure, absolutely. So, I have chosen to write all of my research and demo code in ES 5. And not only in ES 5 but I also use a format that keeps all of the example code in a single file. And I get a lot of push-back both about using ES 5 and putting it all in a single file. But for me personally, that makes it a lot easier to think about. I find that I can scroll up and down in a page a lot faster and a lot more simply than jumping from file to file. And oftentimes it sort of allows the top-down readability of the file to tell a story. Meaning when you have things in separate files, it's alphabetical in your file tray or whatever you use. But in a single page you get to walk the readers through the importance of pieces of code.
+
+So, you have your, for example, application bootstrapping at the top and you have your boot component. And then maybe below that you have this service that's included by the boot component or maybe one of the directives that's included by the boot component. And then below that you could have some sort of service that mocks out HTTP requests. And it just allows me to one, keep a really simple R&amp;D workflow where I don't have to worry about build steps, I don't have to worry about compiling and transpiling and so on and so forth. There's so much to learn with Angular that I try to keep the actual mechanics of putting it together as simple as possible.
+
+And I guess the [only] other thing I would add is that ES 5, I'm using ES 5 as a sort of by-product of that I want to put it all on one page. And that just doesn't work very well unless you start transpiling with something. And in retrospect I actually really enjoy using ES 5 because it's sort of forces you to figure out what parts of the code are the TypeScript parts, what parts of the code are the actual Angular 2 parts, what parts would have been the ES 6 parts. And to some degree, that forces you to understand how it's all wired together, meaning I can't just throw a TypeScript decorator in a place without actually knowing, well how does that actually wire together? What has to call 'dot component' and has to call 'dot class'? And then the class has to reference the constructor and then inside of that I have to be able to register things on the prototype. And that makes sense for, like, [inaudible]. I have to register things in the prototype for life cycle methods because if I do it as instance methods, Angular won't pick it up.
+
+And these are a lot of things you wouldn't even think are variations when you're using ES 6 or TypeScript or something to that nature. So in retrospect, it's actually had a lot of value for me in forcing me to trip over things that I might not have had to think about in the past, or…
+
+<strong>WARD:  </strong>Well, it certainly has had that effect for me as a reader of the code, because I'm so used to seeing everything in TypeScript. And then I say, “Why is this…? Oh, this is a really interesting way to look at it.” You are making use of what they call the DSL. I do see you using some of that in order to be able to find something.
+
+<strong>BEN:  </strong>And the Angular 2 team, they've done a really good job I think of making what would have been TypeScript decorations easy to consume in an ES 5 context with chaining of methods. And some of it's a little quirky like creating optional injectable parameters to a constructor for example. It's a little bit funky. You have to define an array of different parameter metadata. But you would have to do the same thing in TypeScript. It's just all inline and much more succinct. So, you don't think about what it's doing probably.
+
+<strong>WARD:  </strong>Yeah. I can tell you that it is possible… not only is it interesting in its own right and I think that you are… there are so many people who want to put the transpilation stuff aside and would like to stick with ES 5. And you're one of the few people I know who's really invested in that. And so, there should be a lot of people coming to see your stuff, to see how it plays out that way. Because after you get, for me after I get over the initial shock I'm learning a lot about how you think. I'm learning a lot about Angular 2 that way. So, you are definitely getting the message across even though you're living in a cave with…
+
+[Laughter]
+
+<strong>WARD:  </strong>[Inaudible] knives and stuff.
+
+<strong>BEN:  </strong>Well, and it's interesting too because you see how people think about the code, right? So, people will push back and say, “Hey, you guys should really be doing this as TypeScript because you have code all over the place that would be much easier to read.” I was thinking to myself, “Yeah, but some of it would be more succinct. But the actual top-down readability is very similar. I have requires at the top where you would have imports. And I have 'ng dot core' 'dot component' 'dot class' where you would have a decorator. And then I have my constructor and then I have a definition of methods.” So, I think a lot of people don't necessarily react to the, “Oh, you're not using TypeScript.”
+
+I think, and this is just a theory here, I think more people react to the fact that I'm not using prototype-based class definitions. Meaning I'm using the class constructor like a factory for instances that then returns exposed [meta]. I'm using the module pattern as opposed to defining all of the methods on the prototype like you would have to do probably or are much more likely to do using ES 6 and your TypeScript. I think people push back but they don't necessarily why they're pushing back. And it's interesting for me to see that, at least.
+
+<strong>WARD:  </strong>Well, you do use it as a storytelling format. It does read from top to bottom like, okay first I want to tell you this and now I want to tell you that. And you're right, that that… when people break that up is they ultimately would in a production implementation you can't tell by looking at the left-hand navigation panel what the story is. And you definitely are telling a story as you read the code. And you're great with vertical whitespace. You really…
+
+<strong>BEN:  </strong>[Laughs]
+
+<strong>WARD:  </strong>You really think about that. No, I don't think… I think that's…
+
+<strong>BEN:  </strong>No, I…
+
+<strong>WARD:  </strong>I think that seriously is a very positive thing.
+
+<strong>BEN:  </strong>I am very, very regimented about my whitespace. And a lot of people are very unhappy with it. So, it's nice to hear that someone values [inaudible].
+
+<strong>WARD:  </strong>No, I think you're making so much sense. Okay, but enough praising of Ben. You've been banging your head on this Angular 2 stuff for a while. And what are you liking? What's driving you crazy?
+
+<strong>BEN:  </strong>Sure. So, one phrase that I've been mulling over in my head is that learning Angular 2, and I don't mean to be offensive here, but it's like I had a stroke. And now I have to relearn all of the things that I knew in an Angular 1 context. All of the tricks and the mechanics and the wiring together and the interconnectivity of things in Angular 1 either need to be relearned how they work in Angular 2 or it's just things that don't happen in Angular 2. And you need to remap your brain onto how that works. It's an interesting uphill battle, to be honest. I'm loving it but it's an uphill battle for sure.
+
+And it reminds me, there was a show a while back called 'Malcolm in the Middle' and there's an animated GIF that goes around the internet for Hal the father. He goes to turn on the light and the light bulb's not working. So then, he goes into the closet to get a light bulb and the shelf is kind of wobbly. So then, he goes to the drawer to get the screwdriver to fix the shelf and the drawer's squeaky. So then, he goes into the garage to get the WD-40 and the WD-40 is empty. So then, he goes to turn on the car because he has to go to the store and the car's not working right. So then, he's under the car trying to fix the engine and his wife walks in and she's like, “Hey, didn't I ask you to go fix the light bulb?” And he gets up. He's like, “What does it look like I'm doing?”
+
+[Chuckles]
+
+<strong>BEN:  </strong>And I feel very much like that's the Angular 2 learning process. Like, oh I want to make for example a custom drop-down menu. Okay, well now I have to figure out how to have content transcluded into the drop-down menu that represents items. And then I need to figure out, well I can do that but now how do I get the two-way data binding with the ng-model to work or something like a value in a value changed event? And then I trip over that and then I have to figure out, okay, well now that I have the items transcluded what happens if one of the items gets removed from the list or added to the list? Okay, so now how do I monitor that? Do I do some sort of parent/child communication? Do I do something like a view children query list? And well okay, maybe I can figure that out.
+
+Well, what happens if I don't want to have a simple text output for the root of the HTML element of the HTML drop-down? So okay, now I have an option that I want to be able to project HTML into the root. Well, how do I do that? Well, I have to figure out how to access DOM nodes and I have to do that in a safe way because one of the really, really huge uphill battles at least for me mentally is this whole idea that the DOM is completely abstracted away in order to facilitate working in other environments like web workers, like server environments where I don't necessarily have a DOM that I can work with.
+
+And that, that's kind of terrifying because now I feel like it used to be, okay, I had the link function. The link function's where I could access the DOM. And I had the controllers and the services and that was all about logic. And now it's like I don't want to screw anyone else over. So, what happens if I have a widget that's inside of a widget that's inside of a widget that happens to touch the DOM? Now does that break server-side rendering? I don't know. I don't know anything about server-side rendering. That's like a whole, that's like fighting an invisible ghost now that's being supported by Angular 2 that I don't even know how to see. So, that's terrifying and exciting at the same time.
+
+<strong>WARD:  </strong>So, you start one place and then before you can… you have one goal in mind but in order to get there you find yourself going all over the place and learning pieces and perhaps even forgetting where you were trying to go when you started.
+
+<strong>BEN:  </strong>Yeah, absolutely. I have incomplete demos that I've been working on for literally weeks. They're just branches in my local GitHub that every week I'm like, oh right, I know how to do another part of that. Let me go back and [redo] that again.
+
+<strong>WARD:  </strong>Well, I want to remind you before our listeners throw up their hands that you are also famous for a graph that has probably made in on more PowerPoints than any other graph [inaudible].
+
+<strong>BEN:  </strong>[Laughs] Yeah.
+
+<strong>WARD:  </strong>Which is the learning curve graph. We should make a link to that in the show.
+
+<strong>BEN:  </strong>[Chuckles]
+
+<strong>WARD:  </strong>In which you had much the same story about Angular 1 when you were first learning.
+
+<strong>BEN:  </strong>Absolutely. I think the graph will be very similar except for the first point which will be, oh I know a lot about Angular 1. I'm going to be able to sail through Angular 2.
+
+<strong>WARD:  </strong>[Laughs]
+
+<strong>BEN:  </strong>And then there's a deep drop-off when you realize, oh everything I know about Angular 1, that is not helping me anymore.
+
+<strong>WARD:  </strong>You definitely got to put that slide [up].
+
+<strong>BEN:  </strong>Yeah. [Laughs]
+
+<strong>WARD:  </strong>So, I know you have some likes and dislikes.
+
+<strong>BEN:  </strong>True.
+
+<strong>WARD: </strong> So, give us some likes and give us some dislikes. And then we'll tell you why you're wrong.
+
+[Laughter]
+
+<strong>BEN:  </strong>So, I have to say I really, really like the new syntax for the HTML and the brackets and the parentheses. And I know when I first saw it in slides and in presentations I was like, “You guys are crazy. That is nuts.” And it's one of those things where it wasn't even a gradual adoption. It was I saw it looked crazy. I wrote my first demo and I was like, “Oh, that makes so much sense. That's great.” This makes a lot of things a lot clearer. It makes the types of attributes a lot clearer. It makes discerning where events come from a lot clearer. It was truly something you just had to use one time to be able to kind of feel that magic. And I have been really liking that.
+
+Along with that, doing things like setting the classes and setting the styles with 'class dot name' and 'style dot name' and 'optional dot [px]' at the end, things that would have ordinarily been really large ng class objects that typically would have wrapped lines because you had to set so many classes or so many styles, now you can break apart and you can tease them out into an HTML format that makes a lot more sense. And I just, I've been finding the syntax much more pleasing to work with.
+
+And the fact that everything is a component now. I know a lot of people used components in Angular 1. I was very much a sort of attribute, directive kind of person in Angular 1 for a really, really long time. And being forced to do that in Angular 2 definitely, you see the light. You see the joy in that.
+
+But it's not all joy. There are things that I do miss from Angular 1. And…
+
+<strong>WARD:  </strong>Like what?
+
+<strong>BEN:  </strong>Yeah. Okay so for example, link functions. Link functions I think had a very specific purpose in Angular 1 and that was to be the glue that binds the controllers to the templates, to do the DOM interactions that your controller is not supposed to know about. Now it turns out that we can sort of hack that together in Angular 2 because we can say for example, create a component that matches on the selector element my widget. But then you can also create a directive, a non-component directive that matches on my widget. And that directive can provide this “link function” whereas the my widget component can do the, what we would have traditionally thought as a controller. And that way you can find ways to isolate DOM-specific behaviors that you don't necessarily want to muddy up in what I still think of as controllers in an Angular 2 context, controllers and templates which work together to become these components. So…
+
+<strong>WARD:  </strong>Yeah, I absolutely agree. The attribute directive, when you inject the element [ref] into it you are exactly where you were where the link function seemed to be.
+
+<strong>BEN:  </strong>Yeah, exactly. And there are some very practical things like imagine that you have a pop-up or a drop-down menu. And all you want to do is close the menu when someone clicks outside of the host element. Like I click outside of a drop-down menu I want to close. I click outside of a pop-up, I want to close it. Well, there's no native click outside host binding, which side story you can create that because you can plug and play the DOM plugins in Angular 2 which is really nice. But if you don't have that and you need to rely on logic within the component to be able to do that, then you have to start tracking events which feels very much tangential to the concept of whatever component you're building.
+
+<strong>WARD:  </strong>Yeah.
+
+<strong>BEN:  </strong>So, it's nice to put that logic isolated inside of some other parallel directive that also lives on the same component that says oh, I'll take care of listening to the DOM outside of the component and I'll just reach into an injected reference to this component and I'll say I'll call 'dot close pop-up' or 'dot close' or 'dot dismiss' when someone clicks outside. And you don't have to worry about that. You just go about exposing that public API and I'll worry about interacting with the DOM at large, kind of a thing. Which I really enjoyed in Angular 1.
+
+<strong>WARD:  </strong>Have you figured out how to do that in Angular 2?
+
+<strong>BEN:  </strong>Yeah, yeah. You can… so, you can one, you can create custom DOM plugins. So right now, you can just do a parentheses click or a parentheses mouse down, so on and so forth. Well, you can define any kind of DOM binding that you actually like. There's a multi-token… I can't remember what it's called offhand. But it's like event plugin something or other, DOM event plugin, something like that. So you can say, “Hey, if someone tries to bind to an event, call click outside, then use this event listener. And then this is how you unbind the event listener.” So, if you have something like that at a platform level or an application level, then it becomes super easy. Now I have a pop-up and I just bind a host listener that just says, “Hey, if someone does a click outside event, close the menu.” Piece of cake.
+
+But if you can't depend on that, then you can always have two directives bound to the same element where one of them is the “component directive” and one of them is just a non-component directive. And the non-component directive can have the isolated external DOM management so to speak. And then it can just call the same close method that's exposed on the component. So, you sort of have two directives listening to the same host, one of them dealing with the DOM and one of them dealing with the view and business-y logic.
+
+<strong>WARD:  </strong>Yeah. I feel a Ben…
+
+<strong>BEN:  </strong>[Chuckles]
+
+<strong>WARD: </strong> Nadel post coming on.
+
+<strong>BEN:  </strong>I have to say, I think I probably have one somewhere. I can always link it in the show notes. [Inaudible]
+
+<strong>WARD:  </strong>Yeah. Because that's an important thing, the whole business of how components communicate with each other, or directives communicate with each other. It's an important topic and it's not an obvious one. And I think that that's something that we can use more of, and more of from you.
+
+<strong>BEN:  </strong>Yeah, it's very interesting. And the whole provider chain and how it works at different levels, it's fascinating and something I haven't dug too deeply into. But you can definitely see that there's a lot of flexibility which I always feel like the flexibility is a double-edged sword. It's the flexibility to do things in new and interesting and isolated and decoupled ways.
+
+But the flip-side of that is, okay well, now I have to figure out how to do that. Meaning not just from a mechanical standpoint like how do I wire things together, but the, “Should I do it this way? And what are the trade-offs?” Like, why can't I have a globally shared HTTP client? Should my module have its own HTTP client that comes with its own base default request options? Or what happens if I need to have a portion of the app deal with cross-site request forgery prevention which Angular 1 just did across the board based on the XSRF token cookie, right? So, now that's not a core part of the Angular application anymore. So, now I have to implement that. And do I have to implement it across the board or do I want to do it just from my, like an API service, like collection of service classes? Do they have their own…?
+
+<strong>WARD:  </strong>Right. You have a choice.
+
+<strong>BEN:  </strong>Yeah. Yeah, yeah.
+
+<strong>WARD:  </strong>You could do it across the board. But you now have a choice and you're asking yourself, well now that I have a choice, which way should I go? Whereas in Angular 1 you didn't have a choice. There's just one namespace, really.
+
+<strong>BEN:  </strong>Right, exactly. Exactly. So, it's… you have to become not just an application developer. You have to become an application architect. And it's a little scary. It's a little scary if you haven't had the leeway to make those kinds of decisions before. So, I'm sorry. I guess going back to what I do like about Angular 2 and there's a lot I like, but one of the great things is being able to group together collections of services and components and directives that all work together so that I can say… we see that Angular uses this all the time, that I can get the HTTP providers which is actually a collection of providers. It's not just a single thing. Or I get a collection of directives. And what's great about that is that it really simplifies the consumption.
+
+Like if I need to get say, like an accordion directive going I don't necessarily have to explicitly say, “Well, here's my group, my container directive. And then here's my group directive. And here's something else, kind of a directive. It all works together.” You can just say, “Here are my accordion directives as a single token that I can provide to the view,” and now all of those directives become available. The same with providers. Here are all of my HTTP providers. And you don't have to worry about them. That's actually a collection of a whole bunch of different types of things.
+
+<strong>WARD:  </strong>Yeah.
+
+<strong>BEN:  </strong>That was like a little happy, happy, joy, joy dance when I found out. I was like, “Oh, that's amazing.” And it's amazing too because it gives you flexibility in how you want to evolve a particular piece of function out. Meaning let's say I have a component that is defined as a single directive. And I can expose that as a specific directive or as a collection that only has one thing in it. And then down the road I want to bump the version number and here actually this now contains two directives or three directives or a directive and a… I guess a [pipe] wouldn't make sense. But the consuming context doesn't necessarily need to know that, because they just have the collection. And you happen to have added another thing to that provider collection or that directive collection. And it just automatically gets pulled in. And I don't know. This seems to make that upgrade path from version to version of a particular component make a lot more sense.
+
+<strong>WARD:  </strong>Yeah. For our listeners, Angular does this all the time with things like route directives and route providers and HTTP providers which are actually arrays of little services that are all getting registered at the same time. And as a consumer you just use that one name and you get whatever is in that bundle. And that's the kind of flexibility you're talking about, right?
+
+<strong>BEN:  </strong>Absolutely, yeah. So, yeah.
+
+<strong>WARD:  </strong>So, another thing where… it's the tyranny of choice. Because I think there's a way to play Angular 2 where you just pretend everything's flat. Like you could say, “Ah, I only have one level of DI and I only have this.” But all that other stuff is tempting you. One of the things that are tempting you is now you don't just have promises. You've got promises and observables.
+
+<strong>BEN:  </strong>Oh, yeah.
+
+<strong>WARD:  </strong>I noticed you've been having fun with that recently.
+
+<strong>BEN:  </strong>Yeah, yeah. Well, so Angular 2 is very clearly bought into, and I don't mean that in a negative way, but they're back to the idea of these reactive extensions for JavaScript, RxJS. And everything… you can convert to a promise when you need to, but everything seems as some sort of an observable sequence. HTTP client being probably the most prominent thing that we would have consumed from Angular as a promise traditionally, now it's an RxJS stream or observable sequence, whatever you want to call it. The event emitters which you have now warned me is not supposed to be a stream… but clearly there are mechanics in Angular that have bought very heavily into the RxJS mindset.
+
+And I don't know if it was this show or if it was JavaScript Jabber. Somebody had people talking about RxJS not so long ago. And there was a moment where it became very clear to me that it was a good choice. Up until that I was like, “Oh, promises are so much more simple. Why is there so much complexity?” I've seen a bunch of presentations on RxJS and it n ever once clicked for me as a good idea. It just felt like a lot of people solving a lot of problems that I didn't have. And…
+
+[Laughter]
+
+<strong>BEN:  </strong>And you know…
+
+<strong>WARD: </strong>Oh, my.
+
+<strong>BEN:  </strong>Well, you know… because you think about a lot of the apps that people build and maybe I'm talking about myself, they're primarily Ajax-driven CRUD applications, maybe really huge, really robust CRUD applications. But for the most part, the logic probably not stunningly complex. And promises did the job. And they do it with such a simple API that while promises are their own learning hurdle it's a much smaller hurdle. Then you'd figure out that, oh you can do all these really interesting and clever things with promises and you can branch chaining logic and so on and so forth.
+
+But when you guys had on someone talking about promises or RxJS and they said, “Oh, one of the best things about it is you can cancel a [inaudible].” I'm sorry, you can cancel a stream, an RxJS stream. So, imagine you make an HTTP request and then you need to destroy a view you can't do that with a promise. So then, you have to build on all this hackery to say, “Well, if this promise comes back and my view has been destroyed or it's no longer a relevant request I have to ignore it or I have to do something that says don't cause a problem for the user.” And you can just call 'dot unsubscribe' on a sequence, on an observable sequence and it cancels. And that was like, that was the moment. I was like, “Oh yeah, that's… oh my god, how many times have I tripped over the fact that I had to do all this crazy stuff with promises and I can just cancel a stream? Okay, this is definitely something I want to learn about.”
+
+And streams are definitely an uphill battle in and of themselves. There's a ton of operators and they work differently than promises, especially when it comes to error handling. They're very different. But I feel like every day now I'm tripping over something and then figuring out and thinking, “Oh, yeah that makes a lot of sense.” Like I could see how this is actually really powerful. But again it's just one of those things where it's like, okay, I had my stroke. And now I have to relearn everything. And now I'm going to have to relearn everything but the API for everything is much more complex than it used to be. And it's an adventure for sure.
+
+<strong>WARD:  </strong>The API for everything is more complex than it used to be. Do you want to stand by that or you want to say that there are certain things that are way?
+
+[Laughter]
+
+<strong>BEN:  </strong>It feels like everything. But I think I'm probably in that drinking from the fire hose phase of learning and it just feels like there's a lot there.
+
+<strong>WARD:  </strong>Yeah.
+
+<strong>BEN:  </strong>I've barely gotten… I haven't even touched routing yet. I've been digging into Angular 2 for a month and a half and beyond the Tour of Heroes I have not even gotten to routing. So, there's a lot to learn.
+
+<strong>WARD:  </strong>Sure. Yeah, I know change detection is one of those things that's been oh, so much fun or you.
+
+<strong>BEN:  </strong>Ooh, and change detection's another one. So, in Angular 1, I'm far more familiar with Angular 1 so I have sort of a bias of knowledge at this point. I can look at Angular 1 and say, “Oh, that must have been much easier to learn,” because I know it. Angular 2 I don't have that luxury. So, there are things that probably bit me the same as they did before. But now they feel so much more daunting. Change detection is one of those things where when it works and it does work most of the time and it's really seamless, really easy way where I don't really have to think about it at all, you could say the same for Angular 1. I never really had to think about it. Until it breaks and then it breaks in a way that I don't know how to solve yet or it breaks in a way where solving it seems hacky. Like it feels like there's something [missing].
+
+<strong>WARD:  </strong>I remember Ben that we felt like that. And then I had to learn 'dollar apply'. When you first hit an async thing that wasn't one of their async things…
+
+<strong>BEN:  </strong>Right.
+
+<strong>WARD:  </strong>And it wouldn't come back, in Angular 1 you would tear your hair out for the longest time…
+
+<strong>BEN:  </strong>[Chuckles]
+
+<strong>WARD:  </strong>Until somebody showed you 'dollar apply'. And then the light turned on and you never had that problem again. I…
+
+[Chuckles]
+
+<strong>WARD:  </strong>I think that may be what we're encountering here. But you'd have to go through it again. To your point, there are the… it's like this stroke you said. You just, you have to discover it again in a different way.
+
+<strong>BEN:  </strong>Yeah. It's true. And then I think it is… so obviously Angular 2 they've had a strong focus on performance. And I think it is totally reasonable and totally acceptable to take the position that we made some choices that are angled for performance. And in 99% of cases it worked exactly like you'd expect. And in 1% of cases it doesn't. And that's a trade-off. It's not a bug. It’s a trade-off and you just have to be aware of it. And I think that that's totally fine. And I hope that that's where I settle in. But there are some interesting, like creating a custom ng-model binding for a component. I still can't figure that out without…
+
+<strong>WARD:  </strong>Oh, have you tried it yet?
+
+<strong>BEN:  </strong>Yeah, yeah. And I still can't figure it out without using a set timeout. Because what happens is, so the way ng-model works not to get too technical here. I don't want to get misinformation out of it. The way ng-model works is at the particular component level there's the provider is looking for this value accessor. And you have to provide a value accessor that tells ng-model when something's changed. And then ng-model can tell it when external data is changed and now you need to synchronize the view. And if you look at the way things like the input boxes and the select menus are wired up, they all use this default value accessor. And it works perfectly well because they turn around and they just mutate the DOM properties. Like if you check a box they turn around and set some property on the input. And it works totally fine.
+
+If you try to do it with something that doesn't mutate the DOM directly, like let's say you have some sort of a fancy check box where I'm not actually setting a checked property based on this value accessor. Let's say I'm changing the interpolated value of a view in my component. What happens is Angular tells ng-model that some sort of data has changed and then ng-model tells your value accessor that data has changed. And then you take that change and you try to apply it to your component internally and Angular says, “Oh, you can't do that because we've already run change detection on your component. And now you're changing the value after that change detection has run. And that's not going to work in production so don't do that.” So, you have to put a set timeout because the set timeout is wired into the zone.js and the zone.js will trigger another digest or change detection. And I don't know. I have not figured out how to do it yet without a set timeout. And it feels really hacky.
+
+But part of it is frustrating because I feel like I'm responding to the data that Angular is giving. And it's the same thing. I ran into a very similar issue recently with query lists where query list is essentially like a live query against the DOM and the view or content. And you can run into these weird circular situations where Angular says, “Oh hey, by the way your query list has been changed,” and then if you take that query list value and you try to use it to update the view you run into the same problem because you've already run change detection on the view and the change detection on the view then updated the query list. And then you're trying to use the change in the query list to update the view and you get this weird cyclic relationship.
+
+But at the same time it's like, well, but Angular told me about that data. So now you're telling me that the data that Angular told me about is not safe to use? That feels weird.
+
+<strong>WARD:  </strong>Not this cycle. Not this cycle. You have to wait one.
+
+<strong>BEN:  </strong>Well, right.
+
+<strong>WARD:  </strong>But there's an awful lot you can do but you do have to yeah, set timeout is your friend. [Laughs]
+
+<strong>BEN:  </strong>[Inaudible] percent. And I'm hoping that it's just a, look, that's the 1% situation. It's a little bit harder to use because you have to know that. And once you know it, you know it. And then life can move on. But it's you're running into those and then figuring out why they're not working and how to make them work. It's hard to say go into the Angular 2 source code and figure that out. In Angular 1 it was actually relatively simple to do that. There was one loop that just kept running until no more change detection was found. You could look in that loop. It was 50 lines of code. And say, oh okay, that's why it's breaking. Oh and here's where something gets run at the end of a digest. And now I can do an eval async and so on and so forth. In Angular 2, just looking through the source code of Angular 2 is much harder than it was in Angular 1.
+
+<strong>WARD:  </strong>It's much harder code than Angular 1 code is.
+
+<strong>BEN:  </strong>Yeah.
+
+<strong>WARD:  </strong>No question about it.
+<strong>LUKAS:  </strong>Yeah.
+
+<strong>BEN:  </strong>But it's great. It's great. I'm loving it. [Chuckles] It's exciting. I don't want to say… I don't mean to cast or paint any kind of a somber picture here. It's really fun to learn. And I'm in no way regretting learning about it.
+
+<strong>WARD:  </strong>Oh, I think that's what I'm getting from listening to you, is that there are new tricks to the trade. And it's frustrating to have to… where you had great competence before to have to realize that that doesn't apply and to go back through it again. And that's always the challenge of moving from one [inaudible] of a framework to another or from one framework to another. So, I feel you. And I think it's important for our listeners to feel that and to feel your enthusiasm at the same time. It's one of those things that's going to be alright. But you're going to suffer. Like we always suffer.
+
+<strong>BEN:  </strong>Yeah. [Chuckles] Yeah, exactly. There's a light at the end of the tunnel. And I will say not to argue over milliseconds but I do know that I did some sort of very unscientific performance testing with Angular 1 specifically in comparison with React.js which is obviously the hot cool kid on the block. And some things that did not perform as well in Angular 1 performed faster in Angular 2 when compared with React. Not everything, but some of the stuff that I was looking at. So clearly, the focus on performance in Angular 2 has paid off in a very practical way.
+
+<strong>WARD:  </strong>How about the mental model them? Do you feel like, I mean you toyed with React. But you have this Angular 1 to Angular 2 experience. Do you feel, details aside, do you feel that there's a huge shift in the mental model going from Angular 1 to Angular 2 or does it feel like kind of the same? Or how would you compare the mental model to say your experience with React?
+
+<strong>BEN:  </strong>Yeah, sure. I think… okay, so my big win for Angular is just that it's a more robust solution. React is interesting in what it does and it's very fast at what it does. But what it does is very small in scope, really. And all of the things that Angular gives you for free, not that they're all simple to use but they're free, you would have had to invent for yourself or you'd have to use some sort of a community-driven project, which I happen to love the fact that Angular is backed so to speak depending on how you want to look at it by a large company that's heavily invested in using it internally and heavily invested in making it good for people outside of its own company. And that brings a cohesiveness to the platform that I think you don't have in React. And as much as I think JSX, the inline HTML, is interesting to work with, I think having actual HTML is actually a much more simple mental model. You see a custom component on the page and that is the custom component that's rendered. You don't have to worry about the fact that that's actually being replaced with other HTML as part of a render function. And what if I want to pass in custom CSS to a particular React component? Well, now I have to expose some sort of a prop that accepts that and then make sure to apply that prop to the rendered HTML. With Angular it's just, you're dealing with HTML. You want to add a new class to it outside the component? Just do that. Sorry, you want to add custom CSS and styling and have other events bound to it like click handlers and whatnot, you don't have to worry about this sort of passing everything down and then hoping that it gets rendered inside of a particular React component. So, in that respect I find the Angular mental model far easier to wrap my head around.
+
+<strong>WARD:  </strong>Yeah. And then as you say, there's probably an inventory of things that you just expect to be in Angular that you have to go shopping for in React. Like off the top of my head, I'm guessing that dependency injection is one of them. Or is that baked in over there?
+
+<strong>BEN:  </strong>No, I don't think, because it's… unless you have some other framework, React is to my knowledge really strictly just the rendering of views. It does nothing else for you.
+
+<strong>JOE:  </strong>Mmhmm. [Inaudible].
+
+<strong>WARD:  </strong>So, there's no built-in logic for components to talk to each other or an equivalent of whatever a directive is there to interact with something else. You have to figure out how everything is going to coordinate with everything else?
+
+<strong>BEN:  </strong>I mean, I don't want to speak out of turn here because I'm not really a React developer. I've learned a bit because it's interesting but even… there's a lot of, and you see this even in Redux with Dan Abramov and the way that all of his stuff is wired together and bound to components in React, there's all of this, I don't know if this is the right term, but all this functional composition where I'm taking a rendered thing and I'm attaching to another rendered thing that's being attached to a service. And it's like, in order to actually get something to output on a screen, you have to build this at least in my perspective, it's this really complicated mental model of how all of these things are wrapping around each other and connecting to stores and dealing with events. And it's…
+
+<strong>WARD:  </strong>You're speaking my language Ben, now.
+
+<strong>BEN:  </strong>It's frustrating.
+
+<strong>WARD:  </strong>[Inaudible] you always got to come in here. Joe…
+
+<strong>BEN:  </strong>[Chuckles]
+
+<strong>WARD:  </strong>You got to tell us why we're all wrong over here.
+
+<strong>JOE:  </strong>[Laughs]
+
+<strong>WARD:  </strong>Why Ben and I are all wrong.
+
+<strong>JOE:  </strong>Well, it's definitely a different mental model with React. You got to look at React more like my data is now the way that it is because of something that changed. User did something. I got something over a web socket and some data has changed, whatever it is. Data is now different. And then you just take that data and you just got a whole bunch of functions that turn that data into HTML, right? And your whole entire app feels, is exactly like that. My data is in a state. Whatever state it is, the application now looks like this because the data is in this state. When you can think of React in that sense, then it makes a lot of sense. It becomes simple and straightforward. You have to kind of… [Inaudible]
+
+<strong>WARD:  </strong>Really? Because Ben and I have no problem with the idea that data is going to change and is going to come at us.
+
+<strong>BEN:  </strong>[Chuckles]
+
+<strong>WARD: </strong> And the user's going to do something. Hey, we're feeling pretty comfortable with that. It's when you start saying, “What do I have to do to learn about that and flow it around?” that the wheels come off for me. And I take it Ben, that that's what you're saying for you, too.
+
+<strong>BEN:  </strong>Well, so speaking of data, I think the big win for React was Flux and more specifically Redux. That seems to be the winning horse in the race.
+
+<strong>JOE:  </strong>Right. React without those things is much less…
+
+<strong>BEN:  </strong>Ooh, I'd say React without those things is still interesting.
+
+<strong>JOE:  </strong>It's very interesting.
+
+<strong>BEN:  </strong>Well, what I wonder…
+
+<strong>JOE:  </strong>But much less useful for web development.
+
+<strong>BEN:  </strong>[Chuckles] What I wonder is if Redux for example came out as a thing before React and someone said, “Oh hey, what if we use this Redux thing in Angular? What if we use this Redux thing in Ember” or whatever. And then React comes out and says, “Hey, I can also consume Redux guys.” I feel like it would be like, “Oh, okay. Good luck with that.” I also do it except now with a rendering model that makes a lot more sense to me personally. I think React won popularity because of the simple data flow. But the simple data flow is not necessarily what React is. Like you can take Redux and use it in an Angular application.
+
+<strong>JOE:  </strong>Right, right.
+
+<strong>BEN:  </strong>And it makes a lot of sense. And then…
+
+<strong>JOE:  </strong>Yeah, the data flow is sort of assumed to be part of React but in reality it isn't. React just happens… it just so happens that everybody that does React is using Redux, some type of flux.
+
+<strong>WARD:  </strong>We're going to have to have a whole show on why Redux is a complete loser.
+
+[Laughter]
+
+<strong>JOE:  </strong>When…
+
+<strong>WARD:  </strong>You can see where my… where I'm standing.
+
+<strong>JOE:  </strong>In the next six to eight months when we find out that everybody in Angular 2 is using Redux…
+
+<strong>WARD:  </strong>It's going to be a sad thing.
+
+<strong>JOE:  </strong>Will you change your tune? [Laughs]
+
+<strong>WARD:  </strong>It's a sad day. And I win the argument every time I have it with somebody and we get down to the one thing that matters, which is code. You show me yours, I show you mine, and we'll see what happens. All the rest…
+
+<strong>CHUCK:  </strong>[Inaudible] lost the family rating.
+
+<strong>JOE:  </strong>[Inaudible] but that's not what matters, Ward. That's not at all. That's why to-do app syndrome exists, which is it's not about what framework is best. It's what framework looks best in a to-do app. It doesn't matter.
+
+<strong>WARD:  </strong>I'm talking paradigm [inaudible]. I'm ready. Look, I've already won the to-do app [inaudible].
+
+[Laughter]
+
+<strong>WARD:  </strong>Now the question is let's scale it up. Let's start taking it somewhere. But I win… the thing that amazes me is that I win at every scale of complexity, small to large. But, I'm sorry. This is the Ben show. I just…
+
+[Chuckles]
+
+<strong>WARD:  </strong>It just got me going, Ben. What can I tell you?
+
+<strong>CHUCK:  </strong>Okay. Well, we'll have Mandy put in on the schedule.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>And we'll derail this back to Ben.
+
+<strong>WARD:  </strong>I want Ben in my corner on this one, because I know… because Ben is the voice of reason. This is one of the things I like about [inaudible].
+
+[Laughter]
+
+<strong>JOE:  </strong>It's not an argument that can be won or lost. You have to go build a hundred thousand line app in both paradigms and run them. And maintain them for about a year and a half. Then you'll know which one wins or loses.
+
+<strong>WARD:  </strong>Well, since nobody has ever done that in Redux…
+
+<strong>JOE:  </strong>Oh no, that's not at all true.
+
+<strong>WARD:  </strong>I don't believe it.
+
+<strong>JOE:  </strong>No, there are tons of apps that are about [inaudible].
+
+<strong>CHUCK:  </strong>Okay, we got to save this for another episode. Sorry.
+
+<strong>WARD:  </strong>We're saving. Alright, sorry.
+
+[Laughter]
+
+<strong>WARD:  </strong>This is your fault, Ben, that we got…
+
+<strong>BEN:  </strong>Sorry, sorry. [Chuckles]
+
+<strong>WARD:  </strong>I'm holding you personally responsible. Anyway, so Ben, what are you doing about Redux?
+
+[Laughter]
+
+<strong>WARD:  </strong>How is that entering your life? Is it entering your life?
+
+<strong>BEN:  </strong>Well, I've used Redux in research in an Angular 1 app. And there's a lot of stuff to me that makes sense. I think people get overboard. I mean, I don't want to get into it. Obviously I don't want to distract here. But when you start talking about all of these plugins that people build for Redux and now you're taking what was a synchronous single point of truth for an application and now you're building all these plugins that handle asynchronicity and now parts of your reducers depend on the fact that there are these asynchronous plugins. Like now you're taking what was the beauty and the simplicity of a store and making it all crazy the same way that your original app was crazy. And I don't know. That's very naive on my part. I don't have a ton of experience.  But that's how I feel about it.
+
+<strong>CHUCK: </strong> And with that, I think we should get to the picks. Joe, do you have some picks for us?
+
+<strong>JOE:  </strong>Oh, I definitely have picks. Just for fun I'm going to pick Redux and Star Wars.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Every week he has to put his finger right in Ward's eye.
+
+[Laughter]
+
+<strong>WARD:  </strong>Ow! Ow, that hurt!
+
+<strong>JOE:  </strong>Oh my gosh. While I'm at it, I'll pick something that I have been enjoying lately and that is Ex-Con 2. I purchased the game Ex-Con 2. It’s a PC game. I think maybe it plays on Mac. I don't know. I don't try to game on my Mac. That's why I'm on a PC so I don't have to worry about it. But it's been a great game. The Ex-Con game, the first one which was of course a remake of an old Ex-Con game, was awesome. And this one, I've only been playing it a little bit but it's been really fun so far. And it's gotten really good reviews. So, I'm very excited to continue playing that and having a lot of time and that's going to be my main pick for today.
+
+<strong>CHUCK:  </strong>Alright Ward, what are your picks?
+
+<strong>WARD:  </strong>Well, it's pretty easy. I'm going to pick Ben's blog because every time I go in there I am absolutely fascinated by the questions that Ben is exploring in Angular 2 and Angular 1 also. He's always poking at a sore spot or an interesting spot. So, we got to have that link on there. And I really think people should go see what he's doing.
+
+<strong>CHUCK:  </strong>Alright. Lukas, what are your picks?
+
+<strong>LUKAS:  </strong>My picks, I have two of them this week. The first one is an article that Ben Lesh just posted called 'Learning Observable by Building Observable'. And he really just breaks down the underlying mechanisms of an observable. It's really well-written, easy to follow, and apparently it is a six-minute read. It took me a little longer. But really, really cool.
+
+My second pick this week is a drink that I call a Lulu. And it's basically two shots of raspberry syrup…
+
+[Laughter]
+
+<strong>LUKAS: </strong> Two shots of espresso, ice, and a Red Bull. And it is delicious. I've been drinking it for about 10 years. I love them. And so, it's raspberry syrup, espresso, and a Red Bull on ice. Incredibly refreshing. And those are my two picks.
+
+<strong>WARD:  </strong>That takes care of your trying to go to sleep at night, doesn't it?
+
+[Laughter]
+
+<strong>CHUCK:  </strong>I was going to say.
+
+<strong>LUKAS:  </strong>It just murders it.
+
+<strong>CHUCK:  </strong>I'm surprised you don't talk a whole lot faster.
+
+[Chuckles]
+
+<strong>CHUCK:  </strong>With a whole lot more… anyway, [chuckles]. With all that sugar and caffeine. Holy cow.
+
+I've got a couple of picks. The first one is Dropbox. Dropbox has kind of become core to the way that I do the podcasts and everything else. It's the way that I get the podcasts episodes to Mandy. It's the place where I archive all of my stuff when my hard drive gets full because I have a backup system that records these calls to my hard drive as well as to the hardware that I use to record. And anyway, I just, I really, really like it.
+
+I also want to pick the Podcast Rap. And this was shared in Podcasters' Paradise which is a community run by John Lee Dumas, if you've listened to Entrepreneur on Fire. Great stuff. But anyway, that was really funny. And as a podcaster, I just, I wound up laughing through the whole thing because it's hilarious.
+
+And finally I just want to throw a few things out there as far as if you want to meet up. I'm still working out the exact location, but March 30<sup>th</sup> and 31<sup>st</sup> I'm going to be in San Francisco for Build, which is the Microsoft conference. Ta-da. Somebody's chime. Anyway, so if you're in the San Francisco area and you want to get together, the best thing that you can do is probably go subscribe to the mailing list. If you go to AdventuresInAngular.com you can get the podcast episodes emailed to you and anyway, that's awesome stuff. So then, I'm sending emails out to everybody who gets those to let you know.
+
+After San Francisco I'm flying on the 1<sup>st</sup> and I'll be there from the 1<sup>st</sup> to the 7<sup>th</sup>. I'll be in Las Vegas. So, Las Vegas I'm going to be there for MicroConf but I am going to do a meetup there. All of these places, I'll probably just get together for dinner with a whole bunch of folks. So yeah, so if you're going to be there or if you live there or you're going to be there for some event, let me know and then finally, in July I'm going to be in Chicago. So, if you want to meet up and you're in that area let me know and we will definitely pull it together. In Chicago I know actually quite a few people that are closer friends and so I may have a little get together just with them and then have a larger get together with anybody who listens to the shows that I don't really know personally.
+
+But anyway, so yeah, so those are my picks. Ben, what are your picks?
+
+<strong>BEN:  </strong>So, I have a couple of picks but they all fall under a single category so I'll preempt them and then I'll just list them. But there's a series of articles and presentations that I think are really, really interesting in the fact that they talk very much about being practical and pragmatic and not dogmatic and not one rule to do everything and always doing something a specific way. But rather, being reasonable in why you're doing things and accepting the fact that you won't always make the right choices and how you can go back on choices and refactor. And sometimes you refactor the ways that don't look good because they make it easier to work with and so on and so forth. But I think in an age where I think we're inundated with, “This is the right way to do it. This is the framework you should use,” and, “Data should all be immutable and you should always use functional programming,” and so on and so forth, it's great to see some people coming out and saying, “Well yeah, but be reasonable. And be practical and think about things in a way that makes your life easier and has a value add,” and so on and so forth.
+
+So, the articles are one called 'Write code that is easy to delete, not easy to extend' by a guy named Tef, 'The Wrong Abstraction' by Sandi Metz (and who doesn't love Sandi Metz?). Kyle Simpson had a wonderful presentation recently called 'The Economy of Keystrokes' talking about how the readability of code especially in an ES 6 transpiled world is something that you should really think about how you're using appropriately.
+
+And then I haven't finished it yet but a presentation which I think Kyle mentioned by this guy Rich Hickey called 'Simple Made Easy'. And I'll say that Rich Hickey has a quote in his presentation that says, “As programmers we know the value of everything and the cost of nothing.” And he says in the presentation this is why we jump from hot technology to hot technology because all we see is the value add and we never consider the trade-offs and the things that things don't do well. And particularly that feels very meaningful to me in an Angular 2 context where there are things that are difficult but there are things that are really great. And it's not all about everything is super easy. It's about trade-offs and being practical and choosing things for educated reasoning.
+
+And those are my picks.
+
+<strong>CHUCK:  </strong>Awesome. Before I ask you where people can follow your stuff or read these awesome articles that Ward keeps raving about, there is another announcement that I want to put out there and that is the ng-conf team sent out an ng-conf Innovation Award Recognition for individuals who are changing the world of Angular. You can make your nominations up through March 31<sup>st</sup>. And I think we really have some great people on this show that deserve nominations which is why I'm bringing it up. Ward and John have both done quite a bit to put together the documentation. They have also, John did a lot of work on the Tour of Heroes and I think deserves recognition for that; Ward for his work on the documentation that is actually the official documentation. Lukas and Ben both do blogging and other training that helps people figure this stuff out and helps us explore what we're doing and why we're doing it that way. And so, this is my way of just saying, look we got a lot of awesome people out there in the community. And so, go ahead and nominate these guys and give them some recognition for that.
+
+And Ben, where do people follow up with your stuff?
+
+<strong>BEN:  </strong>Sure. So, my website is BenNadel.com and then I'm also @BenNadel on Twitter which is probably the fastest way to get in touch with me. I'm pretty poor about email communication.
+
+<strong>CHUCK:  </strong>Alright. Well, thank you all for coming. We'll go ahead and wrap this show up and we'll catch you all next week.
+
+<strong><em>[Hosting and bandwidth provided by The Blue Box Group. Check them out at Bluebox.net]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by Cache Fly, the world’s fastest CDN. Deliver your content fast with Cache Fly. Visit CacheFly.com to learn more.]</em></strong>
+
+<strong><em>[Do you want to have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]</em></strong>

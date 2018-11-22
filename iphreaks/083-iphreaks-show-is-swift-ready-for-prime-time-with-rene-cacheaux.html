@@ -1,0 +1,420 @@
+---
+layout: layouts/post.njk
+title: >
+      083 iPhreaks Show - Is Swift Ready for Prime Time with René Cacheaux
+date: 2014-12-11 14:00:00
+episode_number: 083
+duration: 
+audio_url: https://media.devchat.tv/iphreaks/iPhreaks083Swift.mp3
+tags: iphreaks
+---
+
+The panelists talk about Swift with René Cacheaux.
+
+<h3>Transcript</h3>
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York and L.A. bid on iOS developers, providing them with salary and equity upfront. The average iOS developer gets an average of 5-15 introductory offers and an average salary offer of $130,000/year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It’s totally free for users, and when you're hired they also give you a $2,000 signing bonus as a thank you for using them. But if you use the iPhreaks link, you’ll get a $4,000 bonus onset. Finally, if you're not looking for a job but know someone who is, you can refer them on Hired and get a $1,337 bonus as thanks after the job. Go sign up at Hired.com/iphreaks]</em></strong>
+
+<strong><em>[This episode of iPhreaks is brought to you, in part, by Postcards. Postcards is the simplest way to allow you to feedback from right inside your application. With just a simple gesture, anyone testing your app can send you a Postcard containing a screenshot of the app and some notes. It’s a great way to handle bug reports and feature requests from your clients. It takes 5 minutes to set up, and the first five postcards each month are free. Get started today by visiting www.postcard.es]</em></strong>
+
+<strong><em>[This episode is brought to you by Code School. Code School offers interactive online courses in Ruby, JavaScript, HTML, CSS and iOS. Their courses are fun and interesting and include exercises for the student. To level up your development skills, go to iphreaksshow.com/codeschool]</em></strong>
+
+<strong>CHUCK:</strong> Hey everybody and welcome to episode 83 of the iPhreaks Show. This week on our panel we have Pete Hodgson.
+
+<strong>PETE:</strong> Hello, from damp San Francisco.
+
+<strong>CHUCK:</strong> Alondo Brewington.
+
+<strong>ALONDO:</strong> Hello, from North Carolina.
+
+<strong>CHUCK:</strong> Jaim Zuber.
+
+<strong>JAIM:</strong> Hello, from dry Minneapolis.
+
+<strong>CHUCK:</strong> Andrew Madsen.
+
+<strong>ANDREW:</strong> Hi, from Salt Lake City.
+
+<strong>CHUCK:</strong> I’m Charles Max Wood from DevChat.tv and this week we have a special guest, and that's René Cacheaux. Did I say that right?
+
+<strong>RENÉ:</strong> That’s right. From freezing cold Austin, Texas.
+
+<strong>CHUCK:</strong> Do you want to introduce yourself really quickly?
+
+<strong>RENÉ:</strong> Sure, I’d love to. I’m an iOS Architect here in Austin Texas at a company called Mutual Mobile. Ever since the iPhone came out, I’ve been really interested in iOS, learning Objective-C and getting my hands dirty with all the versions of iOS that Apple likes to release over and over and over again. I’m just passionate about technology.
+
+<strong>CHUCK:</strong> Cool. So the topic for today is, “Is Swift Ready For Primetime?”
+
+<strong>RENÉ:</strong> The short answer to that question is I think “Yes,” but there’s obviously a lot more to that than a yes or no answer.
+
+<strong>JAIM:</strong> Okay, we’re done here. Great show! Alright!
+
+<strong>CHUCK:</strong> That was what I was going to say. You said “Yes.” We’re done! Yay! [Chuckling] But not quite, huh? What is the nuance then to the conversation?
+
+<strong>RENÉ:</strong> The thing is, I’ve built a couple of apps in Swift already and it’s doable. You can build a full iOS app and ship it to the App Store written completely in Swift. The questions are more about, “Do you have the time to go through the learning curve?” and “Do you have the time to struggle with Xcode and some of the pieces that aren’t quite baked yet?”
+
+There are a lot of pieces with the compiler and the IDE that aren’t quite finished yet, and so you have to really think about, “Do I have the time to spend on this?”
+
+<strong>CHUCK:</strong> So is it really a question of tooling then?
+
+<strong>RENÉ:</strong> Yeah, it’s really a tooling thing because the language is there; it interops really well with Objective-C; you’re able to use all the same patterns that you use normally. It’s a little weird though, when you’re doing things like target-action and stuff like that. But yeah, it’s a tooling thing. The tools get you there, but when you’re doing Objective-C, there are all these nice things that Xcode does for you automatically that aren’t quite there yet.
+
+One of my biggest pet peeves honestly is just line formatting. Every time I indent a line over, in Swift it just doesn’t do anything. It just basically indents you all the way to the left-hand side; it’s really annoying.
+
+<strong>PETE:</strong> Is that supposed to be the standard Swift way of doing line formatting, or is it just the Xcode that crappy?
+
+<strong>RENÉ:</strong> I just think they haven’t built that in yet. That goes line in line with the fact that Xcode refactoring, it doesn’t support Swift yet. You can’t do refactoring with Swift, so all the refactoring tools like renaming classes and stuff that you don’t really think about that you just do day-to-day, when you find that those tools aren’t there, you’ll appreciate them a lot more, I guess.
+
+<strong>PETE:</strong> I would argue that Xcode doesn’t really support refactoring in Objective-C yet [chuckles].
+
+<strong>RENÉ:</strong> That is true, that is true.
+
+<strong>PETE:</strong> That’s cool. I think you might be the first person I’ve spoken to that actually uses the Rename Class and stuff like that.
+
+<strong>RENÉ:</strong> It’s pretty handy for quick changes and stuff like that.
+
+<strong>JAIM:</strong> Well it finally works. It took a long time before it would detect changes in the storyboard [crosstalk 04:49].
+
+<strong>PETE:</strong> Oh I just gave up on it a long time ago. Maybe I should revisit the refactoring and see if it works now.
+
+<strong>ANDREW:</strong> It’s still not great, but –.
+
+<strong>ALONDO:</strong> Yeah, I was going to say it’s better, but I still [crosstalk 04:58].
+
+<strong>ANDREW:</strong> But it works enough to be useful.
+
+<strong>RENÉ:</strong> It’s not as good as AppCode, for sure. It’s not there yet.
+
+<strong>ANDREW:</strong> René, something I wanted to ask. Some friends and I were discussing Swift and especially the state of the tools a couple of days ago, and I haven’t done a lot of Swift – I haven’t done any serious Swift programming for a real app yet. But one complaint somebody brought up was that the debugger does some kind of interesting things when you’re trying to debug Swift and he’s had quite a bit of trouble with that. Have you seen that? Does the debugger seem like it works pretty well for Swift?
+
+<strong>RENÉ:</strong> Well, yeah. There are a lot of interesting things when you’re using the debugger. The main thing is when you’re debugging something in Swift, the LLDB prompt is in Swift itself. And so whenever you’re debugging things that are in Objective-C, which is basically most of your code because all the Apple frameworks are still written in Objective-C, while you’re debugging through that, the bridge isn’t quite clean.
+
+There’s actually something you can do – I don’t know the command off the top of my head, but there’s a way that you can tell LLDB to switch over to Objective-C. It’s a matter of just – it’s a nuance, and thinking, “Okay, am I in Objective-C or am I in Swift? Do we – changing the debugger to have a prettier output?” It’s an output thing; it’s not very pretty.
+
+You also get really weird things when you have protocol variables and constants because of the way that the compiler optimizes virtualization [inaudible 06:15], virtualization and stuff – it gets really icky. It’s not very clear. But again, there are commands to get you through that, but again, it’s not super straightforward. What I recommend is watching the WWDC session on Debugging with Swift. I watch that over and over again; I learn something new every time.
+
+<strong>ANDREW:</strong> Cool! I didn’t know about that ability to switch over to Objective-C mode. Let’s see if we can look that up and put it in the show notes.
+
+<strong>RENÉ:</strong> Yeah, that's super helpful. Super, super helpful.
+
+<strong>ANDREW:</strong> Going in a little different direction, speaking of this whole debate about whether Swift’s ready for primetime, I think one of the important things to consider is what are the advantages of using Swift right now. It’s pretty easy to come up with some disadvantages, like the learning curve and the tools are a little half-baked, but I think the discussion’s more interesting when you know what the advantages are. So I’m curious to know what advantages you think you’re getting out of using Swift right now? We know the theoretical advantages, but what are you seeing really useful?
+
+<strong>RENÉ:</strong> I’ve been doing pure Swift for the last four months now, to the point where my Objective-C is getting a little rusty, which is scary. But the benefits that I see is once you do a learning curve and once you know how to work your way around some weird Xcode things, honestly, it sped up my development time two-fold. I can write apps twice as fast as I could before.
+
+It’s not one big thing that I could pinpoint that’s, say, “This is why.” It’s more of a lot of little things – a lot of little things that in Objective-C you have to take care of, like having hetero files and your imports and a lot of fun stuff. All these little things that you don’t have to do in Swift kind of add up and really help speed up your development process. That’s what I would say is the number one benefit.
+
+<strong>ANDREW:</strong> I think people have talked about classes of bugs that Swift should make much harder to introduce accidentally. Have you seen that kind of a benefit? I mean, there are things like in Objective-C you can message nil and it just silently fails, and Swift doesn’t let you do that or at least it’s kind of the whole optional thing. But have you done enough to notice whether your code seems less buggy by default?
+
+<strong>RENÉ:</strong> I haven’t really noticed it, but I know that it does protect for a lot of really lower-level kind of bugs like buffer overruns and stuff like typecasting and stuff that Swift just won’t let you do.
+
+If anything, I’ll say that one thing I really like about Swift is that the best practice that Apple advocates for for Objective-C are basically encoded into the compiler to the point where your code won’t compile if you don’t follow the best practices.
+
+They’ve done that in lots of different places. For example, with the initializer, there are a lot of rules as to how initializers work, and that’s just following the best practices that were always there in Objective-C, but that you could always not follow.
+
+<strong>PETE:</strong> Have you noticed it’s changed – using Swift [inaudible 08:55] Objective-C has changed the style of programming? I guess I’m getting towards the whole functional aspect [inaudible 09:03]. I feel like idiomatic Swift is going to look different from idiomatic Objective-C.
+
+<strong>RENÉ:</strong> Yup, it does feel very different, and it really depends whether you’re interfacing with existing Cocoa Touch frameworks or if you’re doing something off to the side that’s pure Swift. Those two things feel very different, because as soon as you start touching frameworks, you’re kind of having to opt-in to the Objective-C interop, and you’re having to do some weird things to make your Swift look a little bit more like Objective-C versus when you’re in a pure Swift file and class, you basically can do whatever you want. And that does feel very different.
+
+<strong>PETE:</strong> Do you find yourself trying to push set up adapters or stuff that bridges between as well so you don’t have to deal with the Objective-C stuff as much?
+
+<strong>RENÉ:</strong> Not so much, and mainly because I’ve been doing pure Swift. I’ve talked to other people that have done a mixed language project, and those guys are definitely doing a lot of adapters because they have situations where some legacy Objective-C code is now calling into their Swift code. When you’re doing that, there are always Swift language features that Objective-C just doesn’t even know about, like tuples and things like that, and so you feel like a method returning a tuple, you can’t call that from Objective-C.
+
+I know a lot of people are putting a bridge between the two languages to translate returning a tuple means, “Okay, return this object” or something like that.
+
+<strong>PETE:</strong> Gotcha. I guess that would factor into the decision of when is the “Swift ready for primetime” thing, in the context of someone’s project. If they’ve got this huge, existing application, they’re going to be paying quite a lot of tax initially, I suppose, to set up all of that stuff before they start seeing the productivity benefits of using Swift [inaudible 10:52].
+
+<strong>JAIM:</strong> You brought up one example about a tuple, or something that wouldn’t exist in Objective-C. So if you’ve got your Swift world code and your Objective-C world code, if interop’s a priority, your interfaces – you just want a design that they’re returning things that Objective-C would understand.
+
+<strong>RENÉ:</strong> Right, right. Honestly, the best way to do it is to not return something like the tuple. That’s the easiest way, because that way you can directly annotate your stuff as add Objective-C, making it visible to Objective-C. But if you really, really want to do all the cool fantasy Swift stuff, then yeah, you can do a bridge. But there’s a lot of work that you have to do, right? If you’re returning a tuple, then I have to turn that into an Objective-C object or struct or something so that I can pass it back to my Objective-C interface.
+
+<strong>PETE:</strong> I guess along the same lines, one of the things that I’m – this is really interesting to me to talk to someone who’s been in the trenches using this stuff. The impedance mismatch that seems like is going to be the biggest thing with using Objective-C APIs from Swift is the whole optional thing, right?
+
+<strong>RENÉ:</strong> Yup.
+
+<strong>PETE:</strong> All of those Objective-C APIs are designed around the idea of things being nil and obviously, that’s not the case for Swift. My assumption has been – and this is all theoretical, so I want to find out how far off I am – that it’s going to be super painful messing around with all of that wrapping stuff up in optionals and unwrapping it in optionals at that boundary where you’re talking to an Objective-C API. But once you’ve done that wrapping and unwrapping, everything behind that that’s in pure Swift should flow a lot better than in the old Objective-C world. Is that roughly how it feels, or do you find yourself still having to mess around a bunch with boxing and unboxing things even when you’re not using a legacy API?
+
+<strong>RENÉ:</strong> Back when I was learning Swift, I was doing a lot of boxing and unboxing, and the more comfortable I get with Swift, the less I’ve been doing optionals when I don’t need to.
+
+The impedance mismatch – one of the nice things is it does get cleaner once you come over to Swift, but even better. Everything in Objective-C gets brought over as what’s called an implicitly unwrapped optional, which, if you audit your Objective-C code, it can guarantee that you’re actually passing a real instance back. Because it’s implicitly unwrapped, you don’t need to unbox it to use it. That’s a very dangerous thing though, because if, for some reason, that Objective-C method does return nil for some case and you’re using the implicitly unwrapped optional straight out without unboxing it, you’re going to crash at runtime.
+
+But this is what Apple has done. They’ve gone through all the methods in Cocoa Touch and audited them and said, “Okay, can I guarantee whether or not this returns a value?” And that’s why when Swift first came out, everything from Cocoa Touch was an exclamation mark – it was implicitly unwrapped. Now, you’re starting to see that most of the methods are either optionals with a question mark, meaning it could return nil, or just flat out a value – a non-optional.
+
+Unfortunately, Apple hasn’t given us the ability to audit our methods and mark them as guaranteeing returning value or not, but because they’re implicitly unwrapped, we still have the ability to not have to unbox every single time.
+
+<strong>PETE:</strong> I guess I kind of assumed that that would be part of the work of putting adapters or bridges or whatever in place, is putting something around our old Objective-C code that just says, “This stuff is explicitly going to return an optional thing. This thing is definitely going to return a value.” It would be great if we could do that without having to write code to do it. Presumably that’s an option; it’s just write a little Swift adapter doodad that makes it explicit whether the thing’s going to [crosstalk 14:30]
+
+<strong>RENÉ:</strong> Yup, you could do that. For sure. I mean, it’s interesting because here at work, we’re doing what we call i-Swift, which is basically training for all of our iOS engineers, trying to teach everybody Swift. It’s really interesting, seeing the progression of learning across from Objective-C to Swift guys.
+
+One of the things that’s very difficult is – optionals is not something that just comes to mind very quickly. It’s something that I definitely know that it took me a long time to really grasp how you use them. The concept is not hard to grasp, but the actual usage of it gets kind of difficult. The whole implicitly unwrapped optional has been an interesting topic because a lot of people ask me, “What is this whole question mark exclamation point thing? I just usually switch one from the other until it compiles and I’m ready to go4 [chuckling].”
+
+I kind of freak out a little bit and say, “No, no! Don’t do that.” It’s a learning curve; I guess that's the bottom line.
+
+<strong>PETE:</strong> Yeah. I remember Scala has a lot of these same functional-y things and lots of monadic things like optionals. Definitely for me, it was this really big – it was a learning curve, but it was a learning curve with a couple of steps. That was just the initial conceptual thing, which, like you say, it’s actually pretty straightforward, and then there’s learning to use it.
+
+But I got a second or third kind of leveling up when I started to realize that it’s not just about nullability for things; it’s like you can use the same patterns that you used for optionals. You can think of lots of things of having that same property and you start seeing a monadic thing of –.
+
+Basically you start seeing lots of conditionals just disappear from your code and you just start treating things as data streaming tree functions rather than this imperative “do this if that’s true; otherwise, do this other thing.” I don’t know. I suspect that lots of people are going to have several epiphany “Aha!” moments as they really start grokking all of this stuff in Swift. It’s not just that initial learning thing; it’s like this extra leveling up moments which are super cool and suddenly the scales fall from your eyes and you suddenly see that everything’s turned into a monad.
+
+<strong>RENÉ:</strong> For me, the “Aha!” moment really was when I realized that optionals isn’t the feature for Swift. To me, the feature is nonoptionals – the fact that you can have something that’s guaranteed to have a value. That’s really what I find is really interesting because it gives me a level of comfort when I’m programming and coding and knowing I’m going to have a value here and not having to worry about the weird things that can happen in Objective-C.
+
+<strong>PETE:</strong> Yeah, I think of it a little bit the same way as going from a language where you had to do error checking on every function to a language where you have exception handling. You suddenly realize that if you deal with your exceptional cases at the boundaries of your code like where things could be failing or not failing, then all of your code inside starts to become a lot cleaner because you no longer have to start worrying all the time. You have to stop being so defensive and being, “I don’t know – maybe it could be nil, maybe it couldn’t be nil. I’ve got to check again and again and again.” I get that same feeling of – it really frees you up to start focusing on the problem rather than thinking about all the boring plumbing of programming.
+
+<strong>RENÉ:</strong> Right. That reminds me of another thing that I really love about Swift is all the stuff I don’t have to do. In terms of readability, it’s just a lot easier to read. I find it way easier to read than Objective-C, just because there’s a lot of, like you said, a lot of things that you don’t even have to do. A lot of code just goes away and the language takes care of a lot of things for you.
+
+<strong>CHUCK:</strong> Can you give us some examples of that? I know you talked a little bit about it earlier, but what areas in particular do you not have to do anything about?
+
+<strong>RENÉ:</strong> For starters, you going to need to have a header, which is great, so you don’t have to – every time you create a class – worry about two files, and if I change the interface here, you have to change the interface there. That whole thing just goes away.
+
+Let me think for a second – what else melts away? I mean, the error-checking when you have nonoptionals, when you’re stopping to having to check all that stuff with pattern-matching and switch statements – super powerful. The fact that I can switch on an expression is incredibly useful. It just makes a lot of things more straightforward.
+
+One of my favorite ones is you can initialize a property at the declaration site in Swift, which you can’t do in Objective-C, and that has cleaned up a lot of things for me. The [inaudible 18:51] stuff just straight up in the declaration at the top and there’s just a lot of things that you couldn’t do in Objective-C that you wanted to do that now you can do, and that is a great feeling to be able to have more control over what you want to do.
+
+<strong>ALONDO:</strong> So what if I took the flipped approach and asked the question coming from the other side as someone who hasn’t really taken a deep dive into Swift – what am I giving up in this transition?
+
+<strong>RENÉ:</strong> Well, right now you’re not giving up much because there’s so much interop between Swift and Objective-C and you can always go back into Objective-C when you need things that you could do before. But what you’re losing in a pure, pure Swift environment is the dynamic language. Swift is completely type safe, so there are a lot of things that you can do in Objective-C that you can’t do in Swift.
+
+For example, swizzle methods. I can’t do any swizzling in Swift because the compiler tends to optimize method calls in lining the function pointers and so you’re losing the whole, rich Objective-C runtime that you can do a lot of interesting things.
+
+For example, when you’re parsing JSON, you can have some introspection on your model objects and say “Okay, let me match up my property names with this JSON key names and then let me prepopulate –.” You can’t do that. I tried doing that in Swift; there’s no way because it’s all type safe. And so you lose a lot of the dynamic nature of Objective-C.
+
+<strong>ANDREW:</strong> That brings up something I wanted to ask about, which is, we know we can always still write stuff in Objective-C if we want to. At least right now, because of the good interoperability. I wonder if there are cases where you found that it still actually just makes sense to write something in Objective-C. The thing I’m kind of thinking about is the really low-level C-API, so things like Core Audio or IOKit, a POSIX Socket programming or something like that. From what little I’ve seen it seems like Swift make some of that stuff possibly more difficult that it was in Objective-C/C. Have you run into that at all?
+
+<strong>RENÉ:</strong> I have run into that a little bit. There are two sides to that coin when talking to C from Swift. One of the pros is that a lot of the memory management gets done automatically for you. Apple has also audited those methods and put some identifiers or annotations that tell whether it’s +1 or not, and so you basically get ARC for C calls. That removes all the [inaudible 21:09] release stuff that you had to do if you were going down to Core Graphics or any of the C frameworks. That’s the positive side.
+
+The negative side is, yeah, it gets really arcane when you have C-API that’s using things like function pointers. For example, one time I was trying to do NSRunLoop and set up a RunLoop observer with a C function call back. Back when I was doing it, there was no way to do it. I don’t know if that’s the case anymore; I would be surprised if it has changed, but I wasn’t able to do that. That was the one time that I was actually unable to do something because I was in Swift, just flat out because the language didn’t support it. But that’s the only thing. For the most part, it’s been pretty delightful to use C-APIs in Swift.
+
+<strong>ANDREW:</strong> That gets at what I was thinking of Core Audio, in particular. There are a lot of Core Audio functions that take a callback function and it’s just a C function pointer and I wondered if that was more difficult than Swift. Because it’s super easy in Objective-C, and you could even just quickly trampoline back into your real Objective-C code.
+
+<strong>RENÉ:</strong> Yeah, it’s definitely arcane. They’ve wrapped the concept of a pointer in their own types with NSMutablePointer and stuff like that, but it took me a little while to really grasp what was going on. If I was in Objective-C or C, I would have been able to do it right away.
+
+Again, it’s that tax that you pay that you don’t know upfront what you’re going to hit. I haven’t done millions of apps; I haven’t done super complicated apps, so I still don’t know what other taxes I may have to pay. It’s like “Take your own risk, at your own risk.”
+
+<strong>ANDREW:</strong> Well it seems to me that this is a case where the interoperability between Swift and Objective-C is probably actually a big advantage, not just for the fact that we need to interface with all these Objective-C Cocoa APIs. I’m not sure I think there’s anything wrong with writing small pieces of your app in Objective-C even going forward, and then calling those from Swift.
+
+<strong>RENÉ:</strong> I agree with that, I agree with that. And actually, I want to go back to that question of “What makes sense to write in Objective-C?” Well, anything that’s dynamic. For example, that dynamic parser that does introspection on Objective-C model objects. I would still use Objective-C to build that because I don’t want to have to build a Swift code generator that parses JSON and the outputs a bunch of Swift files, and then you bundle inside your app and compile. I don’t like that. I’d rather just, at runtime, dynamically matchup my JSON keys with my model object property names.
+
+And so things like that, I would just do Objective-C, and I think there are a lot of other use cases out there that makes sense. Like you guys said, that’s where the interop is a huge advantage, that you have that option.
+
+<strong>CHUCK:</strong> I have a question regarding more of the ecosystem around Swift. We have all of the ecosystem that’s around Objective-C; is there good documentation? Are there good Stack Overflow questions, et cetera, et cetera around Swift yet, or we still waiting for the stuff to be written or asked or made?
+
+<strong>RENÉ:</strong> I would say, at the very, very foundational level, there is great documentation from Apple. I mean, Apple has done a great job of updating the Swift Language Programming Guide, which is I think a huge feat because they’ve changed the language so much since the very beginning and every time I go in there and I look at the revisions, it closely matches the diffs that I see in the developer portal.
+
+They’ve done a really good job of keeping that up-to-date, and it’s actually a very well-written piece of documentation. The only problem with that though is it’s very detailed. It’s not like a good learning tool; it’s more like a reference where you want to learn a new topic and you can do a deep dive. It’s not a kind of book that you’d want to read from cover to cover. Higher level things like Stack Overflow – I’ve been finding a lot of things; I really have. I mean, there’s very few times where I type something into Google and I didn’t find anything, which is really nice. And also where there’s a lot of activity is the Apple Developer Forums.
+
+If you’ve found some weird use cases where – this is another caveat with Swift is – if you’re doing any kind of enterprise distribution, for some weird reason, Apple changed the way that enterprise identity certs get created to the point where if you have it, if you include Swift in your app and you try to code sign –. Or I guess when you try to open the app that was signed with the enterprise cert, the app just crashes. Unless you revoke your cert and create a new one, which is not what you want to do because then all your existing apps that are out there aren’t going to work anymore.
+
+It was a really arcane message. I put it into Google – didn’t find anything. Went to the Apple Developer Forums, found four or five posts and got my answer really quickly. So I’ve been finding a lot of answers out there, for sure.
+
+<strong>CHUCK:</strong> The other thing I’m wondering, have you released any apps written in Swift on the App Store?
+
+<strong>RENÉ:</strong> I haven’t personally released anything. I released a bunch of stuff internally. My first Swift app was actually a Mac app for doing stuff with JIRA, for our engineers. You can do it for Mac apps too, I guess is the bottom line there, but no, I haven’t done anything in the App Store quite yet.
+
+<strong>CHUCK:</strong> The reason I’m asking is it seems like Apple tends to favor apps that use the new, cool thing that they’re trying to get people to use, and so I’m wondering if your app is written in Swift, are you more likely to get accepted or get promoted within the App Store because you’re using the technology that they want you to use?
+
+<strong>RENÉ:</strong> I don’t know; that’s a very interesting question. Unlike all the other features, it’s not very user-facing. It’s not something that you can look at and know “Oh, this is written in Swift”, right? It’s very invisible. Versus they want you to be using the accelerometer, they want you to use the camera, and every time they come up with new hardware, they really want you to –.
+
+For example, the watch. All the apps that have WatchKit extensions, they’re going to get promoted and be at the very top of the App Store promotion list. But with Swift, I don’t know. I have no idea. I wouldn’t be surprised if they weren’t just because they were so transparent.
+
+<strong>PETE:</strong> Yeah, I think it’s the same thing. I can’t imagine the average iPhone or iPad or whatever user being, “Oh I want to get me a Swift-powered app.” Swift on the inside. I don’t think people care.
+
+<strong>ANDREW:</strong> Most people would have no idea what that even meant at all.
+
+<strong>CHUCK:</strong> Yeah.
+
+<strong>PETE:</strong> Right.
+
+<strong>RENÉ:</strong> I think it just boils down to Swift is by nature a much safer language, so the chances of the app crashing on you is less. If we think back to 2008, when the iPhone first came out, the first apps that were coming out in the App Store, they would crash a lot. It was really easy to crash an app back then.
+
+With the introduction of ARC and now with Swift, Apple’s really trying to make it harder and harder for users to experience these poor experiences where the app’s just crashing and bail out on you.
+
+<strong>ANDREW:</strong> Yeah, and I think they’ve done a good job. I think a big part of the problem for actually quite a long time was that you had all these people who were coming to iOS that were brand new and coming from platforms where some of those problems are already basically have been solved.
+
+I just remembered knowing that an app was obviously written by somebody and it was their first time because there were crashes due to memory management bugs and you could trigger them super easily. I’m really glad they’ve removed that burden from people and you can be somebody who’s getting started and write an app that’s not going to have these dumb crashes that you wish you didn’t have to know anything about.
+
+<strong>RENÉ:</strong> Yeah, that’s another big thing about Swift, just how Apple has put a focus on being able to learn the language with the whole Playground thing. I find a lot of Java engineers learning Swift fairly quickly; it’s very similar. There are a lot of similar concepts like generics and stuff, but just being able to pull up a Playground and just write code and see it execute immediately is just a huge advantage for learning the language, and I think it’s going to really help get new engineers on-board with the platform. It will be interesting to see a year or two from now how much the iOS community grows just because of Swift.
+
+<strong>CHUCK:</strong> So you think it lowers the learning curve in a significant way?
+
+<strong>RENÉ:</strong> I think so, I really do. Just being able to execute code right away and not having to deal with Xcode build and run and all that fun stuff, it’s incredibly easy to teach someone how to program when they’re seeing every step of the execution running right as you’re typing the code.
+
+<strong>PETE:</strong> I wanted to go back a little bit to more of just the language itself. One of the things you mentioned a little bit early on is the difference between – Objective-C is more of a dynamic, looser language while Swift has got an actual type block. That’s unfair to Objective-C to say Swift has actually got a type system. Objective-C kind of does. Have you seen yourself or other folks at Mutual Mobile who are learning this? Is that a big stumbling block, trying to figure out how to work with a type system that’s a little bit more restrictive, or does it tend to just get out of your way?
+
+<strong>RENÉ:</strong> No, I definitely think it’s just because it’s so different. The type system in Swift is another thing that I really love about the language because it’s very uniform, but it’s very different in Objective-C. Objective-C engineers start learning Swift – there are some simple things that maybe don’t come to mind immediately.
+
+For example, you don’t really think of instantiating an enumeration, right? You’re not really thinking in that term, but that’s how you do it. Everything in Swift is a first classes and type; everything gets instantiated; everything is basically an object.
+
+There are certain things that are stumbling blocks just because it’s so different. But the nice thing though is because it’s so uniform, once you get it, once you learn it, it applies to everything else.
+
+<strong>PETE:</strong> Yeah. Rick Hickey, the guy who created Clojure, has this really cool tool called Simple Made Easy or simple versus easy or something like that. He talks about how really powerful systems or really powerful languages are those that have a few small concepts that fit together really well and that you can use these few small concepts to model a bunch of different things.
+
+The type system is a good example of that, I would say, where once you’ve learned it, you know how it works and it applies in lots of different ways. It applies for enumerations the same as it does for model objects in your code base versus Objective-C where there’s all these little, weird corner cases and special ways of doing things like “Oh, there’s a macro system from C# days, there are also constants.” We have all these different ways of doing things, and so you have to learn all these different ways. I totally love this idea of a very simple language where maybe it’s a bit harder to learn the ideas upfront, but once you’ve learned them, you know it and you can apply that same idea in lots of different concepts.
+
+<strong>RENÉ:</strong> Yeah, that perfectly characterizes my experience with Swift so far. That describes it perfectly.
+
+<strong>PETE:</strong> It’s kind of ironic as well, because I think in that talk he’s like digging Scala, because Scala is just this ridiculous bag of 500 different language features versus Clojure which is just for [inaudible 32:07], basically.
+
+And so yeah, it’s kind of funny because I think the language I hear Swift’s compared most frequently to is Scala but I think it definitely doesn’t have the ridonculous amount of features that Scala does.
+
+<strong>JAIM:</strong> So what are the characterizations that I heard before, if you want to use Swift or Objective-C with a new project, what type of developer are you? Are you the type of person that physically gets CocoaPods and has ten going within an hour? Are you the person that uses the Apple way of doing things? If you’re doing the Apple way of doing things, I heard you had an easier time even this summer, but if you did a lot of CocoaPods, which might be Objective-C libraries, like AFNetworking or something like that, you had a harder time. What type of apps are you having success with?
+
+<strong>RENÉ:</strong> What kind of apps in terms of tooling for engineers?
+
+<strong>JAIM:</strong> Tooling – your approach. Are you doing a bunch of CocoaPods? Are you just sticking with the standard frameworks?
+
+<strong>RENÉ:</strong> Well I am doing a lot of CocoaPods because I depend a lot on libraries that are written in Objective-C. At this point, since Swift is so new, all the Swift libraries, I just done trust them 100% yet. I don’t think that they’ve matured yet and haven’t been adopted and put through their paces enough like the Objective-C libraries.
+
+So yeah, I use CocoaPods for everything, even my pure Swift apps. Again, that’s where the interop is super helpful because I can bring in all those existing libraries and still write all of my code in Swift, but when I need to call into stuff like networking, I can use AFNetworking to just find –.
+
+What’s going to be interesting in the future when it comes to dependency management, for starters, Xcode does not support Swift in static libraries. CocoaPods is very dependent on static libraries. I mean, that’s what it does, right? It creates a bunch of static libraries that you link against.
+
+Right now, as it stands, I can’t write a Swift library and distribute with CocoaPods. Where Apple’s response to that would be will – that’s why we enabled Cocoa Touch frameworks this year. For iOS 8 and above, you can actually do frameworks and bringing a new framework is so much easier. You don’t have to go through all those build settings and search heteropaths and all that fund stuff.
+
+The problem with frameworks is that because iOS 7 doesn’t know how to decrypt them, you can’t use them if you’re supporting 7 and below, so it’s 8 and above only. But it does support Swift, so that’s I think Apple’s preferred way of distributing Swift libraries – it’s going to be through frameworks.
+
+<strong>ANDREW:</strong> I actually picked last week a project called Carthage that’s sort of a counterpart to CocoaPods by Justin Spahrsummers – one of the guys at GitHub. Instead of building static libraries and putting them in your project, it actually just knows how to pull an open source project and build a dynamic framework.
+
+I kind of see that as the future – well, I see it as a better approach than what CocoaPods does. And just a minor footnote is that frameworks have been supported on the Mac forever, so if you’re writing a Mac app, that framework approach is quite viable.
+
+<strong>PETE:</strong> That’s really exciting. I remember you picking that but I probably wasn’t paying attention. I didn’t realize how different the approach is. Having been someone who had to maintain a library that people will link into their apps, I’m very excited that the idea of having a real, grown up dependency management thing that doesn’t include messing around them, compiling everything yourself – well compiling inside of your code, basically. That’s cool. We have him on and talk about that some more.
+
+<strong>ANDREW:</strong> Yeah, he would be great anyway. But yeah, that would be an interesting to talk about. I haven’t dug into actually using that yet. My goal right now is to get my open source projects working with it. It’s supposed to be pretty easy, but I haven’t even tried yet.
+
+<strong>CHUCK:</strong> So if I wanted to start a project in Swift, how would I get started? Do you just create a project the same way you normally would? How does the workflow change other than that you don’t have Dot.h and Dot.m files?
+
+<strong>RENÉ:</strong> If you’re doing a pure Swift app, it’s actually very simple. When you create a new project in Xcode, it’ll actually ask you what language you want it in – Objective-C or Swift? It’s just a drop down and you select Swift and then you’re off and running.
+
+There are some things that won’t be there that you might be familiar with. There’s no main.m – that’s gone – and a lot of other things. That’s the main thing that’s gone. But other than that, you’re ready to go. As long as you create a new project, select Swift and you’ll have all your baked in code like the viewControllers that come baked in with the templates. They’ll all be in Swift and perfectly ready for you to use.
+
+<strong>ANDREW:</strong> Yeah, that brings up something else that I don’t think we touched on at all. Apple has also made it so that all the documentation for the existing frameworks, which are all written in Objective-C, and I think even the new frameworks, are mostly – if not completely – being written in Objective-C. Anyway, they’ve made it so the documentation viewer will show you the Swift declaration for a method, as well as the Objective-C method. You can also view the headers for Objective-C stuff in the Objective-C headers that are part of the framework so you can view those in – I don’t know what you call it. Swift mode, so you can see how – you don’t have to do this mental translation yourself. The tools actually help you do that translation between the Objective-C APIs and the Swift APIs.
+
+<strong>RENÉ:</strong> Which is great because a lot of things get brought in in a different way. Things like, you have an argument that’s type is id – well that gets translated into any object. Block syntax to Clojure syntax. All these things that would be really hard for you to do in your head, it’s super helpful to be able to see the Swift version of those hetero files.
+
+<strong>ANDREW:</strong> I’ve heard people say that if you want to, you can write an app in Swift that works exactly like the Objective-C app you would write, and I think what they mean is that you don’t have to use all of these new Swift-specific features. I think you kind of lose out on some of the benefits of Swift, but it doesn’t mean that there’s a much smaller learning curve than there would be. I mean, you’re still using the same frameworks and the same app architecture that we’re all used to as iOS developers.
+
+<strong>RENÉ:</strong> I completely agree. In the course that I’m teaching here at Mutual Mobile, I didn’t introduce tuple; I didn’t introduce generics. We started basically the goal was, how can we get our engineers building an entire Swift app as quickly as possible? A way to do that was to just teach them what they needed to know – things like optionals and interop and Clojures, but we didn’t have to talk about pattern-matching or we didn’t have to talk about enumeration, associated values. All these things that we didn’t really need to touch upon and they’re able to build an entire app.
+
+Now, is it as nice and as powerful as it could be if those apps were written with all the Swift features? Of course not. But we have a lot of time to learn the language and it’s just a matter of balancing out what you want to learn and the time that you have.
+
+One thing I wanted to touch on real quick was on Playgrounds, because I feel as I talk to engineers, it’s one of those things that you play around with it when you first get Xcode for the first time, and then you kind of forget about it. I use Playgrounds all the time, and I think the gotcha – or I guess the “Aha!” moment I had was when I was building a collection view layout. I thought, “Maybe I can just use Playgrounds so I can change the code and immediately see my layout and how it’s changing.”
+
+What I ended up doing was I put most of the code that I was writing inside of a framework so that I could then go into a Playground and start calling into it. It was one of those experiences that I was like, “Wow, I really finally understood the power behind Playgrounds.” I was able to see my layout change before my eyes immediately without having to build and run, without having to put it on a simulator or put it on a device. I was able to see all the bugs that I had; I was able to change all the inputs immediately and kind of see how that affected my layout. It’s just a tool that I think not everyone thinks to use, but is super powerful.
+
+<strong>JAIM:</strong> Yeah, definitely. The faster you can shorten that feedback cycle, the faster you could learn and figure out what’s going on, so it’s definitely helpful.
+
+<strong>PETE:</strong> I’ve got a quick question. I don’t know if your folks do a lot of testing, but I’m guessing the testing story is harder [inaudible 39:52] automation. It’s a little bit, let’s say, less mature in Swift world and Objective-C world. Are there good options out there, or is it still the Wild West?
+
+<strong>RENÉ:</strong> For functional testing, it’s basically the same thing because that’s all based on the automation tags – or sorry, all the accessibility tags. But when it comes to unit testing, I haven’t done a whole lot of that yet. That’s one of my next things that I’m trying to learn. I have this whole to-do list of things I need to learn, and it’s getting longer every day because Apple keeps releasing stuff. But I haven’t done too much of that. I know a couple of people here have and haven’t said anything crazy; they haven’t run into anything too difficult, but I would be interested to know how well [inaudible 40:21] works with Swift and the performance stuff.
+
+<strong>PETE:</strong> Yeah. I know there are tools – there are some in the beginnings of test frameworks and stuff out there, but I haven’t had a chance to play with it [inaudible 40:43].
+
+<strong>RENÉ:</strong> Okay.
+
+<strong>PETE:</strong> Are there any other interesting or exciting open source tools or libraries in the Swift place that people should be checking out if they’re starting to use Swift, like things that you couldn’t even do with Objective-C that now there’s a nice library that does it for you with Swift?
+
+<strong>RENÉ:</strong> Honestly, I haven’t found the need to use any third parties yet and it’s a conscious choice because I wanted to learn the language. I didn’t want to take any kind of – not that there are shortcuts – but I do want to be very proficient in the language and I feel the best way of doing that is just rolling your own everything to start. But I don’t know of anything that I would recommend. I know that there’s Alamofire, which is the AFNetworking equivalent of Swift, and you mentioned Carthage for the distribution stuff, but other than that, I really haven’t been exposed to much yet.
+
+<strong>PETE:</strong> That makes sense. Actually, you mentioning AFNetworking makes me think – I was planning to ask but haven’t got around to it. How is the interop with blocks clunky, trying to do stuff with blocks?
+
+<strong>RENÉ:</strong> Seamless. It’s absolutely seamless. I have had zero problems with it.
+
+The one thing I like to tell people is that I no longer have to go to freakingblocksyntax.com [chuckling] because the Clojure syntax is just so uniform and so nice. It’s not like “Well, if it’s an argument, it’s this format. If it’s a property, it’s this format.” That’s gone. That’s one of my favorite things, honestly.
+
+<strong>PETE:</strong> That’s awesome. No one is going to miss that syntax.
+
+<strong>ANDREW:</strong> No, I was on that site two hours ago.
+
+<strong>CHUCK:</strong> The owner of that site is going to miss it. Do they have ads on it?
+
+<strong>ANDREW:</strong> I don’t think so.
+
+<strong>PETE:</strong> He’s just doing it for the love of the game.
+
+<strong>ANDREW:</strong> Unless they’re invisible ads.
+
+<strong>CHUCK:</strong> Well I was thinking Google ads or something.
+
+<strong>JAIM:</strong> Subliminal.
+
+<strong>CHUCK:</strong> Alright. Well, any other questions before we go to the picks? No? Okay! Let’s do picks then! Andrew, do you have some picks for us?
+
+<strong>ANDREW:</strong> Yeah, I’ve got one real pick and one half-pick, because it’s a re-pick. My real pick is, well, it’s kind of weird. It’s a GitHub repo but the real meat of the repo is actually just the Read-me. It was written by a Brad Larson and Jenny Clayton and it’s called a Serial Port Example in Swift but that’s actually misleading because it’s hardly even a Serial Port Example at all even the code that we’ve posted but really, what it is is Read-Me which is quite a long post about why they decided to re-write their entire app in Swift and they have a big, old Mac App that does some pretty sophisticated stuff and talks to hardware over Serial Port. He and she are essentially just going through the reasons why Swift is better for them and is sort of focuses on the classes of bugs that Swift eliminates that are quite a problem in Objective-C. They went through and actually audited the source of their bugs throughout, like the last five years and then determine that a pretty big percentage just wouldn’t have happened in Swift so, it’s pretty interesting.
+
+My second pick is something I’ve picked before but it’s kind of relevant to today’s discussion so I want to pick it again and it’s Playgrounds in Objective-C. So, I’m excited about Swift but I’m still an Objective-C fan and I’m also just impressed with this project this guy came up with. He wrote an implementation of Playgrounds that work in Xcode with Objective-C instead of Swift so that’s KZ Playground. Those are my picks.
+
+<strong>JAIM:</strong> You stole my pick.
+
+<strong>ANDREW:</strong> Sorry.
+
+<strong>JAIM:</strong> The post from the – with the robotics, the rewrite. +1, definitely.
+
+<strong>CHUCK:</strong> Alright. Jaim, what are your picks?
+
+<strong>JAIM:</strong> So, actually, this is a blog post about [inaudible 44:14]. I’ll put a link to the blog post where they talked about it; that’s what I was going to do the pick for. So that’s my +1 pick.
+
+My second pick is, I don’t go to see very many movies – about one a year. But I went last week and I saw a documentary on Antarctica. More specifically the type of people that live there year-round. I thought it was just a bunch of scientists doing Science-type stuff? But different types of people keep the thing running and, so it’s called Antarctica and I was interested. So if you go see one movie a year, I wouldn’t say this would be one you have to see but definitely entertaining if you like that type of stuff.
+
+<strong>ANDREW:</strong> So, I actually thought you were going to be picking a different movie which is a Werner Herzog movie called ‘Encounters at the End of the World’ but it sounds like your movie is different but they have the same subject and I would recommend the Werner Herzog one. He just went to Antarctica and kind of investigated the people that live there.
+
+<strong>JAIM:</strong> Oh, very nice. Very common topic, apparently.
+
+<strong>PETE:</strong> It’s a pick-off.
+
+<strong>JAIM:</strong> Right. Who’s got the third Antarctic pick?
+
+<strong>PETE: </strong>I’m googling furiously.
+
+<strong>CHUCK:</strong> I just have to ask. If the world is round then how is there an end of the world?
+
+<strong>ANDREW:</strong> Well, there’s not. But I have a feeling Antarctica does feel like the end of the world when you’re there.
+
+<strong>ALONDO:</strong> It just seems so appropriate for Werner Herzog, too.
+
+<strong>CHUCK:</strong> All right, Alondo, what are your picks?
+
+<strong>ALONDO:</strong> I have two picks. One is a service, a Backend as a Service called Fire Base and we started using it at work and I also will be using for another project as well. Basically wraps up the database and API and authentication to a single service. There are several libraries you can use against it, whether you’re developing for iOS or mobile, in general web or Android. There are additional APIs available that are unofficial third-parties for Ruby and the like. It seems to be performing really well for us for a feature that we’re implementing, and so we encourage people to give it a try, see if you like it.
+
+My second pick is actually something I haven’t picked in a long time, which is a beer I was introduced to that west company meeting. It’s from New Belgium Brewery; it’s called the 1554. It’s a Black Lager and it is really, really good. Those are my two picks!
+
+<strong>CHUCK: </strong>Alright. Pete, what are your picks?
+
+<strong>PETE: </strong>+1 on that beer, it’s a good one. I don’t like New Belgium that much, that I like that beer. My picks this week – this one is going to be a little bit late by the time this podcast comes out, but I’m going to pick it anyway. There’s this project called 24PullRequests at 24pullrequests.com and the idea is it’s like an advent calendar but instead of eating chocolate, you are contributing to the open source projects that you use and love every day. It’s just a little community idea of trying to get people to give back to new projects and get people started with contributing to open source. It’s surprising how easy it is to do once you try. That’s 24PullRequests.
+
+Also, unrelated to Objective-C development, I’ve been doing quite a lot of devops-y stuff in the last few days. Two tools which I’ve been using, which I’m really, really into are Ansible and Terraform. Ansible is kind of a competitor to Chef or Puppet, but I think it’s a really good competitor. I would reach for this tool over Chef or Puppet any day of the week now that I’ve tried it.
+
+And Terraform is this crazy powerful tool which will standup infrastructure for you in the cloud very, very easily. I’ve actually spent the last couple of days typing in a one-line command and having easy two instances stand up, and elastic code bouncing groups and security groups, and clawing code onto them. It’s very cool, I feel like I’m the master of the universe when I play with these tools. So, Ansible and Terraform.
+
+My last pick, it’s getting close to Christmastime everybody! Or the holiday season. And you’re trying to think of what presents you want to ask for or what presents you want to get your loved one. I highly recommend the practice of brewing your own beer. I think a really great present to give someone who you love very much is a beginner brew kit and support your local, independent home brew place rather than going to buy it from one of those big chains.
+
+I’m going to add to the show notes a link to a really cool online resource. It’s an online book called How To Brew, highly recommended by a luminary in the field. There you go, those are my picks. Happy, happy holidays!
+
+<strong>CHUCK: </strong>Awesome. I’ve got a couple of picks. The first one is a video by John Sonmez and it shows how he organizes his week. I’ve kind of adopted that. I’ve tweaked it a few different ways to make it work better for me, but I’m really enjoying it and it’s helping me reach my goals. So I’m going to pick that.
+
+And then related to Pete’s pick about Christmas, honestly just think about things that you can do to help other people. I know that a lot of people aren’t Christian or celebrate another holiday, but just take the moment, take the opportunity – whether you believe in Jesus or believe in something else, or don’t believe in any of those things – to find opportunities to be grateful for what you have, and to help other folks.
+
+René, what are your picks?
+
+<strong>RENÉ: </strong>I have three different picks. They are very different.
+
+First one is an app that I’ve been using for a long time, but it’s something that helps me every day in being productive and that’s the Things app. I think Apple had it free last week, but I have the Mac app and the iPhone app and the iPad app and it does a really, really good job of synchronizing your to-dos across all your different devices. One thing I’m really liking about their implementation is that they’re doing a lot of extensions. You can do things like, if you’re in Safari in the Mac, you can quickly create to-dos straight from Safari – super, super handy. That’s Things.
+
+The second one I have is a WWDC video that I watched maybe 30 or 40 times because it’s so good, and I always like recommending it. It’s from WWDC 2012, and if you’re really into Core Animation and all the UI graphics stuff, I highly recommend this session called iOS App Performance: Graphics and Animations. Highly recommended. Watch it over and over again. Learn something new every time.
+
+The last one is a TV show that I watched during the holidays here in Thanksgiving called Fargo, which is really, really good. If you enjoyed the movie, you’re going to really enjoy the series. I couldn’t stop watching it. It’s by FX and you can watch it on iTunes. Those are my few picks.
+
+<strong>CHUCK: </strong>Very cool. Well thanks for coming on the show!
+
+<strong>RENÉ:</strong> Thanks so much! Thanks for having me, lots of fun and I can’t wait to talk to you guys soon.
+
+<strong>JAIM:</strong> Oh, I have one final pick that I forgot but after you mentioned your thing –. The Hour of Code is coming up this week. The week this thing goes live. It’s a thing for kids to learn how to code using a Scratch type thing.
+
+I worked with some kids earlier this week and they all got to do a Flappy Birds type clone game and they did it within an hour. It’s a great opportunity to get in touch with some kids you know and get them writing code. So check it out. The Hour of Code. It’s coming December 8<sup>th</sup>.
+
+<strong>CHUCK:</strong> Alright. Well, I think that’s it. We’ll wrap up and we’ll catch you all next week!
+
+<strong><em> [This episode is sponsored by MadGlory. You've been building software for a long time and sometimes it gets a little overwhelming. Work piles up, hiring sucks and it's hard to get projects out the door. Check out MadGlory. They're a small shop with experience shipping big products. They're smart, dedicated, will augment your team and work as hard as you do. Find them online at MadGlory.com or on Twitter @MadGlory]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]</em></strong>
+
+<strong><em>[Would you like to join a conversation with the iPhreaks and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at iphreaksshow.com/forum]</em></strong>

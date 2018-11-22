@@ -1,0 +1,375 @@
+---
+layout: layouts/post.njk
+title: >
+      175 iPS Xamarin with James Montemagno
+date: 2016-10-20 06:00:59
+episode_number: 175
+duration: 47:50
+audio_url: https://media.devchat.tv/iphreaks/iPS175_Xamarin_with_James_Montemagno.mp3
+tags: iphreaks
+---
+
+<span style="font-weight: 400;">1:00: Introduction</span>
+
+<span style="font-weight: 400;">3:50: </span><a href="https://www.xamarin.com/"><span style="font-weight: 400;">Xamarin</span></a>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Advantages</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Comparison with </span><a href="http://www.apple.com/swift/"><span style="font-weight: 400;">Swift</span></a></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Cross-platform capability</span></li>
+</ul>
+9:15: Same-day support
+
+12:30: Standard library
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Apple</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Microsoft</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://www.bitrise.io/">Bitrise</a></span></li>
+</ul>
+<span style="font-weight: 400;">16:00: Development process</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">E-sync away</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Uiview.animate</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">C#</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Dev ops</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">iOS simulators</span></li>
+ 	<li style="font-weight: 400;"><a href="https://www.visualstudio.com/"><span style="font-weight: 400;">Visual Studio</span></a></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">CodeLens</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Refactoring</span></li>
+</ul>
+<span style="font-weight: 400;">22:40: Sharing code</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Java libraries</span></li>
+ 	<li style="font-weight: 400;"><a href="https://www.microsoft.com/net"><span style="font-weight: 400;">Dot.net</span></a></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="http://www.newtonsoft.com/json">Json.net</a></span></li>
+</ul>
+<span style="font-weight: 400;">28:00: Xamarin Forms</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Native controls</span></li>
+</ul>
+<span style="font-weight: 400;">34:40: UWP: Universal Windows Platform</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Write Xamarin for Playstation</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Web framework</span></li>
+</ul>
+39:50: What’s new in C# 7
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Tube holes</span></li>
+</ul>
+<h3><span style="font-weight: 400;">Picks:</span></h3>
+<a href="http://www.clarksusa.com/us/"><span style="font-weight: 400;">Clarks Shoes</span></a><span style="font-weight: 400;"> (Jaim)</span>
+
+<a href="https://devchat.tv/react-native-radio/36-xamarin-with-james-montemango"><span style="font-weight: 400;">James on React Native Radio</span></a><span style="font-weight: 400;"> (Charles)</span>
+
+<a href="http://togrp.com/restaurant/stk-atlanta/"><span style="font-weight: 400;">STK Atlanta</span></a><span style="font-weight: 400;"> (Charles)</span>
+
+<a href="https://www.microsoft.com/net"><span style="font-weight: 400;">Dot.net</span></a><span style="font-weight: 400;"> (James)</span>
+
+<a href="https://www.facebook.com/Monorail-Espresso-117657621584837/"><span style="font-weight: 400;">Monorail Espresso Seattle</span></a><span style="font-weight: 400;"> (James)</span>
+
+<a href="http://www.mergeconflict.fm/"><span style="font-weight: 400;">Merge Conflict podcast</span></a><span style="font-weight: 400;"> (James)</span>
+
+<h3>Transcript</h3>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Hey everybody and welcome to the iPhreaks Show. This week on our panel we have Jaim Zuber.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Hello from Atlanta.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I’m Charles Max Wood from Devchat on TV, also in Atlanta. We have a special guest this week and that is James Montemagno.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Hey, how is it going? It’s great to be here.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">It’s good to have you back. Do you want to give folks an introduction because we haven’t had you on for a while?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yeah sure, absolutely. Currently I’m at Microsoft, about two months in since acquisition, everything finalized. I’m a Principal Program Manager on the Xamarin team here at Microsoft. Before that, I was at Xamarin for three years as a Developer Evangelist. If you were in any conferences, user groups, on our blog, GitHub, I just span through with this much amazing Xamarin content, and libraries and apps. Before that, I was actually an iOS, Android and Windows developer using Xamarin at a small startup in Kirkland. As a customer joins Xamarin I fell in love within. I love it so much.</span>
+
+<span style="font-weight: 400;">Now I’m here at Microsoft doing the exact same thing, my job really hasn’t changed. I got a fans here title but with fans here title comes more responsibility. I’m just doing even more of the stuff that I love which is really cool. I think for me if people don’t know what Xamarin is, essentially it’s a native cross platform for iOS, Android, Mac and Windows development. You can do all that in Visuals Studio on a PC or Xamarin Studio on a Mac. No matter where you are developing, you can do that.</span>
+
+<span style="font-weight: 400;">The unique platform and why I fell in love with it because I was a C# Developer. I didn’t want to learn Objective-C and Java, and put up xcode and eclipse five years ago to do that stuff. I wanted one language but I wanted my apps be native.</span>
+
+<span style="font-weight: 400;">Our approach is essentially to ensure that developers have access to every single native API but all in C# would create the C# bindings for iOS, Android, Mac and of course Windows but then you can share a vast amount of dot.net logic, dot.net your backend. Think of it like you’re building an application and you hit a restful endpoint. You pull down some data, you put in a database and then you just play it to your user. All that junk besides the user interface can be shared. 70%, 80%, 90% of your app is shared across all the different platforms but it compiles down into a native applications so users, just an app just great on the app store.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">It makes sense and it’s interesting too. Some people I talked too they’re just like, “Well I just want to build it in Swift because that’s the Apple way.” Then there are other people that basically say, “I built my app in objective-C or Swift and now I want to expand Android so now I have to learn Java.” I know a lot of people look at that and they start looking at things like Xamarin or React Native or Native Script or some of these other systems that go across these platforms and give them the opportunity to reach beyond what they currently have. Do you find that a lot of people are moving to Xamarin for that that kind of capability?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yes it also interests me because previously, I was a customer for a long time, Xamarin was a paid product. We have other products at Xamarin like our task cloud solution or anything but it’s always a pay it product. It’s expensive that the barrier of entry. The nice thing with going with Apple or Google is development is free besides your $99 a year, $299 a year for the developer account that we all have to pay. Even if you’re a Xamarin developer, you’re still going to give Apple that money, that’s fine. Now that everything is free, everything is free in open source. When Microsoft acquired Xamarin, they made everything free including our community edition so there’s no fees, its full pledge which is great.</span>
+
+<span style="font-weight: 400;">             </span> <span style="font-weight: 400;">Enterprises that maybe already had C# developers that have MSDN subscriptions, now it’s all bundled which is beautiful. I think what it is is it’s actually really nice that a lot of people are getting into Swift because Objective-C is different than everything else that’s out there, I mean C++. It’s Objective C++ essentially.</span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">But Swift and C# have some similarities. I like to think of Swift as a C#, F# hybrid in some way. We support F# too. Java is very close to C#, but then of course Windows development and all C#. I think when developers are looking to go from iOS to Android, they start looking at the language and the tooling. I think the tooling in C# wider in Xamarin Studio or Visual Studio's amazing really for Android and iOS development.</span>
+
+<span style="font-weight: 400;">If you happen to want to go to another platform like UWP, maybe Halo Lans or maybe “Oh I have some really cool stuff.”  You can at least restart reusing that knowledge there and start building in out. You may not rewrite your Objective-C application or Swift application. It’s one thing developer asked me all the time. They say, “We have this app and I want to go cross platform, will I just throw everything away?” No, you don’t have to. We have developers that go to Android with Xamarin. Then maybe go to Windows to Xamarin.</span>
+
+<span style="font-weight: 400;">Then over time they may actually convert their objective-C or Swift app over to Xamarin. What’s nice there is that we support storyboards, nib files. It’s all the same stuff. Same thing with Android, Android xml because they’re native apps. We support the same thing which is nice. I think the optic which is huge, huge gains, the amount of downloads and users which has been skyrocketing which is great because that barrier of entry, especially for enterprises. They have that now Microsoft stamp of approval which is very important. We don’t want to buy yet another tool. It’s now just included.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">That’s a good point since you have one whole suite of Microsoft. You had entire spectrum what you’re trying to do? From the backend to the database the cloud, that’s attractive for a lot of companies. I can see the benefits. In the old days, C# just used the language was a huge advantage for a lot of people. I was had done developer for a long time. I grew to love Objective C but starting out, a lot of developers have trouble with the brackets and everything.</span>
+
+<span style="font-weight: 400;">James:       </span> <span style="font-weight: 400;">Stars and all the stuff going on.</span>
+
+<span style="font-weight: 400;">Jaim:           </span> <span style="font-weight: 400;">Yeah like. I had to start my own client with four brackets?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yeah I didn’t love that either.</span>
+
+<span style="font-weight: 400;">Jaim:           </span> <span style="font-weight: 400;">Just like, “What? What’s going on here?” I was missing a lot of things that I’d expected come to special language, the link, the maps. A lot of this is back now with Swift and Swift for place a lot of what I had missed in C#. Even borrowed some like the optionals but it’s not like that something if you done it you're very familiar with. They’re both pretty solid paradigms. You’ve mentioned the cross device store. How ends now the Apple system we’ve got WatchOS, TvOS. How do you setup your project?</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">And iOS and Mac OS.</span>
+
+<span style="font-weight: 400;">Jaim:           </span> <span style="font-weight: 400;">I’ve heard of those things. Is that popular?</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">It’s just we talked so much about iOS. I want to make sure we said Mac OS as well.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Mac OS, I’m guilty, guilty of that.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">What’s the cross platform store? How do we use C# to share code between these devices?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">It’s actually interesting. I also forget. All my slides whenever I present is iOS, Android, and Windows. I always say Mac OS because honestly the optic now since Xamarin’s free is like a lot of developers of these windows application that they want to pour over to Mac OS and Xamarin’s there for you too to do that and leverage those out which is nice.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I always have said for a long time is that, “It’s great if you pick across platform tool and you can get to mobile phone and tablet really easily.” What happens when your company expands and stats growing into other areas and want to find other venues to get your app in front of? Or what happens when apple comes out with a brand new product and you want to be there like day one ready to go or Google does it to. We have always great products from all three  companies that are out there.</span>
+
+<span style="font-weight: 400;">With Xamarin for iOS first, we’ve always had great same days support.  Which have same days support for iOS 10 which is really awesome. A long developer preview we do the same thing for Android. No, not quite always same days support but If you’re any Android listeners you know I’m an Android fan boy. </span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Same day support, what is that mean?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Same day support means, I can start uploading in iOS 10 against the GMZ xcode with the application uploader, to actually ship my iOS 10 app to Apple. That means that we have an official bill that we stamp certify and say this is the build that you can go. Often, that’s our stable release that’s available but sometimes it is still waiting for this but we have to move this. This is good you’re going to go. There’s nothing outstanding. You can ship that. That means you have the APIs everything available to you which is nice.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">What we did with iOS 10 is we said, “Well this was a big dub, dub DC.” A lot of people aren’t really aware because I’m sure iOS developers but the Xamarin developers it’s not just iOS, it’s WatchOS 3, it’s TvOS 10, and it’s Mac OS Sierra. When we shift iOS 10, we shift a support for TvOS and also Watch OS 3 which is really awesome. Our Mac OS Sierra support, we’re getting the preview app of that of the new builds.</span>
+
+<span style="font-weight: 400;">How you set that up is a little bit tricky because I think for watch, it’s kind of like its own beast. If you built any WatchOS application, specially the WatchOS 1, it was this very light weight thing that we had to play around with. WatchOS 2, WatchOS 3, we have some more full fledged applications but you’re still not making huge web class from your watch and putting huge databases on this watch. You need to very aware of it.</span>
+
+<span style="font-weight: 400;">You’re probably doing a little bit more talk back to your main application. TvOS, that’s an always connected awesome device that you can do anything that you want. I think that what you’re building essentially with Xamarin is multiple user interfaces. You have your TvOS UI, you have your WatchOS UI, you have your iOS or iPad or iPhone UI with auto lan, all those stuff.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Then you have this big huge shared code layer. Some of it may go into your watch product. Some of it like your object, I have this person, I have this car. These things that are going to be shared so when I add a new property it’s available everywhere. You may be doing some special communication between your iOS application and WatchOS application, but TvOS gives you a real beautiful way to work because you can share all that same code that you’re probably putting in your iOS and Android application. You just build a unique User Interface on top of it. The same thing goes for Google with Android Wear and Android TV. I don’t think they get as much love. I think Apple’s done a phenomenal job of really pushing developers to build Watch applications and TvOS  devices              </span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">Now even iMessage application. I didn’t realize. I was talking to my buddy Frank Gruber, he was an independent developer and he’s like it’s his own app store and we have support for that too with sticker packs and all that stuff.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">We did an episode on that. It’s really exciting just all the different capabilities that you have.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yes. There’s so much and we’re doing something actually pretty unique at Xamarin. We talked about what Apple is doing, what’s Google doing, what’s a Microsoft doing. Work and we can go with all this code. We’ve created kind of this standard library.</span>
+
+<span style="font-weight: 400;">That’s kind of unique. Traditionally you may have a library that you share between your Mac application, your iOS application and just some like Coco some Objective-C code. The same thing on Android, you have some Java library that you’re sharing. We’re creating this dot.net standard library. We’ve had multiple ways of sharing code but we’re simplifying all of it. We said is listen, there is WPF application, there’s Silver Light application, there’s asp.net application, there’s Xamarin, iOS and Android, Mac OS, there’s unity applicatons. You have all these platforms that you can put C# code on.             </span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">We said, “ Okay, let’s create one standard library. All the APIs and dot.net and you just simply add it to whatever projects that you want.” You have all these amazing library dotnet available to you. You can share it anywhere and it’s guaranteed that’s all the run times are going to actually implement that.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">That’s really cool because unity, which is not a Microsoft coverage, most popular game engine or framework out there by far. They’re adopting, they’ve had mono for a while but they’re adopting the newer open source mono that we have and pledge support for putting in the dot.net standard. Imagine having one library that is doing all of your online offline data synchronization between all of your applications on Mac OS, on TvOS, on Android, on Unity Games, all that can be shared across the application. That’s the dream that I’ve been living for  five years, now we’ve just simplified the process. We really just make it drop that simple. There is my shared code and it shows code that’s going to work.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I guess what I’m wondering is let’s say that I have been building iOS apps for a while and I’m looking at these capabilities and I’m going okay. I don’t lose anything by going to Xamarin, I have to learn C# if I don’t already know it. A lot of the tools look the same, a lot of the capabilities are the same. Is it kind of more or less be the same process with the same kinds of tools and same kinds of processes for building and deploying apps as with Swift?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">That’s a good question. I was a C# developer, that’s obviously why I went immediately towards Xamarin with everything. I’ve written Objective-c apps and Java apps, we’ve all had to boot up eclipse at one time in our life and then never try to boot it again.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Please, no.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yes I said, “Arghh.” I mean things got a lot better with Android Studio, especially with the two hour release.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yeah.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">There’s some things that we can’t get rid of. We can’t get rid of the application uploader, provisioning profiles. We can simplify that. You still have to have a Mac for iOS development even with Xamarin, even if you’re on a PC all day. We do a remote building compilation but your provisioning profiles are there. You don’t have to do their thing. We live it’s just like in terms of service with every new updates to iTunes or iOS. Just hit accept and read it of course.                 </span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">We’re following what Apple has guidelines for, the new laws the developers have agreed to. Some of that other stuff will be the same but the difference is that as I’m developing, I’m thinking about my applications a little different. I’m thinking about what do I not click, not stuff into it, touch up inside event. We can put a bunch of logic in there but should you know you’re putting a lot of that in that share of logic.            </span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">I think what’s actually unique is what we do at Xamarin is that you’re gaining some benefits of the C# language. Which is things like events, delegates, e-sync away, link you already mentioned and there’s somethings in Swift that can kind of get there but e-sync away is probably a largest paradigm. Essentially think of if you can get rid of every single callback block in your code and you never had to have a callback block ever again.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">For instance, uiview.animate people probably used uiview.animate all over their code. You have to do is it’s say, uiview.animate you put in your property, and your time, your property, and you have a callback block. Then you go do something else or may be paint it to something else, paint the back end. </span>
+
+<span style="font-weight: 400;">With Xamarin you don’t have to do that at all because we have C#-ified and updated the API. We have UIview.AnimateAsync. What that means is that you can stay away this animation and then when it’s done just keep executing my code. It’s one line after the other after the other that executes. That actually creates maintainable code, I think that’s one of the major strengths that we have and part of the C# and the C# is moving forward.</span>
+
+<span style="font-weight: 400;">As I think about the development process, where I was five years and I’m sure you were five years, five, six, seven, years ago, there wasn’t continuous integration for mobile, there wasn’t continuous delivery, there wasn’t automated UI testing. </span>
+
+<span style="font-weight: 400;">What’s nice about Xamarin is how well we fit into not only just Microsoft products but other products that are doing this. Companies like Bitrice, I don’t know if anyone’s aware that there is amazing CI and CD service. It’s amazing guys and gals out of Hungary and on London and to this product. Therefore iOS, Android and Xamarin support. Obviously Jenkins, team’s city these build systems that we’re used to. You’re building your Xamarin applications, you’re using things with Microsoft like the Visual Studio team services and building. you have your combo board, you have your scrum board if you want to or maybe that somewhere else in Trello but you're doing all your CI.</span>
+
+<span style="font-weight: 400;">Every commit gets builds the point, send up the hot key app or the test flight wherever I need to go. I think that’s how I thought about how my development has changed. Sometimes it’s not just about the core of building the application it’s like, “Oh cool. I got to share all this code but what does it actually mean in the high level? It means you get to use one testing framework to test all your business logic. You get to use C# to build your automated UI task. You can have very similar paradigms of building your application on a CI service. Similar paradigms of building and shipping on a CD service. I mean hopefully we’re never actually going and doing things manually, dragging and dropping files, hopefully we all have that. We all don’t. I’ve been guilty five years ago emailing files around an AP case and it boils around as I like the column and now there’s a better way. I think it’s really an amazing time to be just a mobile developer in general because everything is moving and simplifying our lives.</span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">If we subscribe to it I guess, the thing is you have to be aware of it because when people say devops in my mind even as a developer I just tune out, I don’t want to do any of that.</span>
+
+<span style="font-weight: 400;">We have this weird, this quote of what is devops. I throw that away because to me I talked about Mobile dev ops, which about what I just said. I want to hit commit, push to GitHUb build and I have it in a minute.</span>
+
+<span style="font-weight: 400;">Jaim:</span> <span style="font-weight: 400;">You should think we did a whole episode on mobile development. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Yeah we’ll just call out for our listener just say, “Look, we talked to Donovan Brown and Josh Weber. You’ll get the whole spiel right after this episode.</span>
+
+<span style="font-weight: 400;">James:</span> <span style="font-weight: 400;">I can do this I mean, I don’t want to harp on devops too much but essentially I think about all the stuff I don’t want to do. We think about the process, I’m sure you’ll have some other episode on devops but it’s kind of cool process, but to me as a developer part of it what I like now is that I don’t have to leave my environment experience. Even if you’re in the world that you’re saying, “I’m objective-c now I have to go over to Android Studio. I have to go with Visual Studio.”  </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">What we’re done is we I said let’s just pull all that development into a single idea whether you’re in Xamarin or your Visuals Studio.Then you’re saying, “Well James, what about iOS emulators and hot stimulators and all this stuff?” What we did is we built an iOS simulator for Windows and it works very magically in its own little way. Essentially I’m inside the visual studio I hit the debug. Then iOS simulator pops up or WatchOS stimulator pops up, or even TvOS stimulator pops up. I’m debugging my TVOS or iOS application on a PC with all the features of the stimulator plus more like touch events.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">That’s a great feature because if you’re coming from visual studio and you’re bonded to the IDE model, you’re just a point of the xcode.  </span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">I don’t even debug. I don’t understand.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">If you’re in that model, it’s great to be on that. It’s F5 I can’t even remember. F5 get up and see my builder tv. That’s a great benefit because there’s a lot of plugins for visual studio like your sharper. That still thing, right?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">You have sharper, you have builder things like Code Lens which will do analysis of every method and look at you Git history and put it right online. Visual Studio has been around. That’s how I got introduced to programming. Back in High school I was doing a terminal or like a counsel based SKR games. It’s how I got started in development. I did like a text adventure. I think this is all I ever want to do, it’s so cool. Like you said Visual Studio has all these great plug in is a great ecosystem.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Refactoring, that type of thing, built in has been working for years where this happen anything refactoring at Swift at this point. It’s just how it is.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">We actually did the same thing over in Xamarin studio. The question I get a lot is, well now that you’ve been acquired by Microsoft, what about all these Mac developers that are on the Mac all day? I don’t even own a PC, I just use Xamarin studio all day. There’s a huge investment in Xamarin studio, we just released 6.0. All that stuff that you’re talking about, the refactoring, things like stat code analysis and just giving you great intellisense. We brought over the Rosland engine which is an open source compiler as a service into Xamarin studio. Which means as a developer if I’m working in Visual Studio or Xamarin Studio, I get the same exact intellisense, refactoring, like all the same code analysis that I would expect which is cool.</span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">The same solutions and projects open either way. Chuck’s over here working on the Mac and I’m over on the PC like we’re in a happy world. We can be pushing to Git or Bitbucket or it doesn’t matter. We’re open to working and collaborating on the same exact project. That really nice sound like cross platform app development but it’s cross platform development environment.</span>
+
+<span style="font-weight: 400;">Jaim:       One thing that I like to discover or at least explore when we say, “We’re sharing code between things?” The standard Xamarin format is always been you write your UIs separate. You get your native iPhone UI. You get your native Android, whatever you’re doing.</span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">Which a lot of people instantly conclude a horror for but I think that’s the feature.   I’m a big believer that they’re different platforms, they should be different. What about the behind the scenes code? The networking code, because a lot of Xamarin is just a very thin wrapper over our UI kit APIs which would not make any sense. There’s no connection in the Android world. How do you share the behind the scenes code?</span>
+
+<span style="font-weight: 400;">James:       </span> <span style="font-weight: 400;">How we share the backend code is a great example of that’s what a lot of applications do. They go make a web request, a Git or post, they pull down data and they deserialize it.</span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">You have a lot of library like Java libraries and libraries available in objective-c and Swift which actually do that in their different APIs but they’re doing the same thing.  Luckily enough, the core part of Xamarin is that you're actually using dot.net. The dotnet framework and the dot.net runtime, the mono runtime that’s embedded into your application’s is very small tiny runtime is giving you access to this rich functionality. Essentially think of as you are all connection or in Android there is a patch, there’s all the different HTTP as our system.net.http, that’s the name space inside the dot.net to gives you access to do anything with the web. Downloading, getting strings, getting streams, let’s say new HTTP client, pass it a URL and it’ll download the string always synchronously for you.</span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">Then it’s kind of similar if you want to deserialize Json. It’s coming back to xml. There’s some things built into the platform but then also a lot of library like Json.net which is a cross platform json deserialize to desiralize.json. That’s like that bulk of your code and that is shares to your models and your controllers if you will. If you’re an MBC type of developer your models in control is all that code.</span>
+
+<span style="font-weight: 400;">Essentially almost anything now is kind of available that the developer will want to do that’s business logic is available in dot.net. It’s huge, I mean dot.net and C# were based of  lot of what things were doing in Java and the Java runtime, the VM that’s available.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">That was cool. C# Java plus, plus.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Based on Java. I mean it’s was a way better version of it in my opinion.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">It expanded while Java just kind of stagnated.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yeah.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">If Java is caught up a little bit.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">One of the thing that I think I kind of perceive here, you could tell me if I’m wrong is that, yeah it’s a wrapper over NSURL whatever you have on Android but when it compiles the apps, it compiles them to different targets anyway and so it can properly bind to the proper library under whichever system it needs.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yeah. If you’re using like an Android API, you start using the Java like they exist. They exist on there so you can have access to that.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">You could have into that to.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">You can do everything you want like you could say using Android or whatever you can bring in the Java library, you can bring into objective-C archive and create your C# wrappers around it. I think probably the biggest thing apps do is make Weber class. I mean they just do. What we said is we have our own HTTP client with its own network connections that handles everything. We got actually a lot pretty lucky because with the iOS 9, TOS changes like our implementation get surrounded. You don’t have to worry about it.</span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">Sometimes your security aspects, you want to go to the native stack. Our HTTP client, they make web request as very unique. You can pass it a handler to overwrite stuff. In the project setting, what’s cool is for iOS you can say which one do you want to use AFnetworking, do you want to use an NSURLconnection or do you want to use our HTTP client handler? Same thing for Android if you need.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Interesting.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">It’s kind of cool that we just handle that. You don’t have to worry about. I will handle it for you.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yeah you pass it through properly.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yeah. I just handle it for you automatically. It’s not like our HTTP client is just some crazy wrapper around the other library. It’s a full dot.net implementation. The code is there on GitHub, you can see what calls it’s doing against the mono runtime just like Android have a Dev at runtime and then iOS runtime is there essentially.</span>
+
+<span style="font-weight: 400;">I think interesting enough you’re talking about the separate UI’s which I think I agree with you 100%, that’s why I feel in love with Xamarin to write native, native, native.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">It’s almost unfair to call it a cross platform solution because it goes to native code and it’s got native UI. That you lose the downsides of the least common denominator things where you try to do both poorly.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Right, the things that people complain about cordovans and stuff like that.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Yeah. Titanium</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">It kind of gave cross platform that bad reputation for a long time. I think that was the biggest form. When I start of presenting on Xamarin was I have this slide about write once run anywhere. That’s the dream. That’s everyone developer’s dream which is it in reality we think about.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Didn’t Java make that up? And it never works for Java ever.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">We actually did something unique  because our biggest request by far was obviously not like this iOS stuff that we had on Visuals Studio and all the stuff was, people in the developers want the right one user interface in Xamarin which is like an xml type markup or some form factor. They want to say a button. Now what they want if that happened was when they say button is they wanted the Xamarin framework to lay down the UI button and Android button widget and Widows button.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">We created a big library called Xamarin forms that sits on top of Xamarin platform. What we did is we abstracted as much as we could of the calming controls and layouts and things. If you created a tab page for instance and put some text boxes inside of it, it will lay down to native UI tab controller and a Tab host over an Android with material design and tab over an Android or on Windows. Then I lied down the native controls and handle it for you but it doesn’t give you everything because something like segmented control, this doesn’t exist, radio buttons still doesn’t exist and iOS I don’t think Apple whatever put radio button in anything. It’s just very anti like just a segmenting controls but they’re different though.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It’s a framework that sits on top of the platform so there is implications. Have you doing like enterprise applications or I built the Xamarin of all conference application of it. I’m sure about 95% of code including the UI isn’t really powerful but if you’re creating the next Instagram you’re creating the next Apple Music application things like that, you’re really image having video, having things like that. You want to go down this amazing traditional route. But we see a lot of enterprises that are creating hundreds of applications. We have this login page and it sure would be nice if we have one login page that we just shared with all of our applications. That’s what Xamarin forms kind of let you do. You can still embed traditional controls into native controls but we did it so you didn’t lose that native goodness because that will be the worst. It’s as if all of a sudden that’s running in a web browse. How about Xamari is all about native? I chose it. No, no Xamarin form is still native. There is some overhead cost with that, the framework. It’s a big huge library you’re  adding. At some point you want to expand. You want to go WatchOS and you want to go to TvOS, you can still do that.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Xamarin forms is actually creating a native controls for each platform which is doing its best to make the both match to each other.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">It’s pretty unique and it works extremely well. If you think about a conference applications it’s a list of sessions and some speaker information, I’ve favourite it things like that. If you download our conference application, I have built in about four weeks with the asher back and then do online offline sync and push notifications, calendar integration, barcode scanning, it’s pretty complex. What you’ll notice is that the iOS application is unique, it actually has a tabs on the bottom where the windows and the Android version of flyout navigation drawer because I did a little bit of work and I said on iOS, “That’s not really the Apple way of having a flyout navigation.” I could have done it and I could have written a little bit less UI but it took a little bit of time to spice it up and I even took a little time to do the, no one does it but I do it I love it, on the tabs. You can have selected and unselected different icons. I did that because I spend a little bit of time and polish it. That’s because I fell in love with all the platforms like I really learn Android, and iOS, and Windows and I still think it’s still important to learn that stuff, that native traditional stuff even if you do choose Xamarin forms in the long run.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">It’s a good solution for line of business things. Things that people need to do and get on today. If you don’t need to use your app, that’s probably a bad idea but if you give a lot of value out of it still a jobs you have two platforms you crank them quickly.  They’ll be going to do whatever they need to do.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">On the top of your code sharing, I’m kind of thinking about taking it a step further and that is I talked to a lot of people about Javascript. I have another show about Javascript and sort of the holy grail of code sharing is, I’ve got this code. I run it in my front end and on my backend. I can put it on my react native app or my native script app and I can put it everywhere. It’s not just, “Okay. I’ve got this common set of business logic that I’m using across all of my different mobile apps but also on my backend server where people are talking to that system and stuff like that. Can you share dot.net code among all of those things. Let’s say I have a web app that displays data and has business logic on the back of that. I can share all of that business logic with my mobiles app as well with Xamarin?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yes that’s the idea. That’s the idea in general. We have a lot of like asp.net developer who are using C# already in their controllers and things like that. What I did specifically is, I’m not a web developer. I stay away from Javascript. I stay away from asp.net I really read a lot of desktop application. A whole lot of printer software and they’re a lot of mobile apps. That’s why I fell in love with, it’s like being really good at one thing is what I love. I’m an Android expert. I can do iOS, I can do some web stuff.</span>
+
+<span style="font-weight: 400;">Four instance our evolve conference application it has a full asp.net website associated with it with controllers and things like that. What I did is there’s not tons of logic on that server but I wanted to ensure that all of my model or speaker sessions, all that stuff, everything. If I change it I need to change of my frontend and my backend and my database. I have one shared library that’s only my models.</span>
+
+<span style="font-weight: 400;">Then that gets  pulled in to my mobile application into my asp.net application and into anywhere else I need to go if I create a Mac application, a watch application, that get’s pulled in. I think of when if I’m building an application, it’s not just one library that gets shared. It’s probably of whole bunch of different libraries and we start looking it like how developers are building Xamarin application so like alright I have this model, I have this database thing, I have this arrest service client and then that it shared across different components.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The UI is what will be a little bit different obviously. There’s that dream and that amazing thing is why across platform like cordovan. There’s always this thing like, “Oh what if I could just run a full website then I can embed it in this app and then this things can happen.” It’s like if all that happens to string and all these frameworks run maybe. I think that’s one part where developers so want more is like, “Wow, what if I had this UWP app and it run in a browser. We call that things silver line that didn’t work out so great in the long run.”</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">UWP what is UWP?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">UWP is the Universal Windows Platform. Essentially it’s around Windows 10 and what Microsoft did was they solidified their windows platform so use it be like a tablet thing, like a phone thing and they say, “We’re going to run Windows 10 everywhere.” Windows 10 runs on Xbox, it run on Halo Lans it runs on Raspberry Pies with IOT core. Essentially they have these versions of windows everywhere. The idea about Universal Windows Platform is that you create one library, one set of UI and scales everywhere.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">What we do at Xamarin forms is we built one UI and you can build iOS, Android, a Windows Universal app, UWP application too that scales everywhere too. You can kind of do that.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Wait, so I can write Xamarin for my Playstation?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">You can think about like this. It’s getting interesting is, think about the mono runtime. The mono runtime can run everywhere. We power games on Apple TV. We power games on X plus. We power games on Linux, a lot of games on Steam power by Monogame or some other game framework power by Mono. But also the Playstation 4 against like transistor by supergiant game is a Monogame, game that’s super popular bastion which is a game on the iPad super and in x plus super powerful, have gone to those other places. You’re not necessarily building a Xamarin application. You’re building an application that sits on top of mono in a way.</span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">You’re still sharing a lot of logic between those application if you want to. But most likely you’re building a playstation for a game, you’re probably going to be like that game dedicated to PS4 or some like that.</span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">We have a lot of cross platform game frameworks. I’m not going to say game engines like unity of the game frameworks like Monogame, or Coco sharp which is a C# version of Cocos2D. But we said you can build a Coco sharp game that will run anywhere. That will run on iOS, Android, PC, Linux, anywhere you want. We did it for that. We also have Urho Sharp which is another really powerful 2D, 3D gaming graphics engine and we’re going to build that library, that framework over the Halo Lans too, it’s kind of put it everywhere.</span>
+
+<span style="font-weight: 400;">        </span> <span style="font-weight: 400;">Again, C# is everywhere. Is the Idea of it, I mean you can really put C# literally anywhere which I think is great. I think that’s really the dream the developers have. There’s billions of devices and who knows what’s next in being able to put that code anywhere is really intriguing whether it’s in the backend or its somewhere else. To me, it’s about structuring smaller libraries that can go anywhere.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yeah. It’s interesting too that you’re pointing out all these different platforms that mono runs on. I mean because we're starting to see this a little with Swift because it’s open source where we interviewed the guys that perfect, is that what those called?</span>
+
+<span style="font-weight: 400;">Jaim:          </span> <span style="font-weight: 400;">Yeah, perfect framework.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yeah, web framework and so it’s like, “Oh okay this runs on Linux, and here’s your web pages that you’ve written in Swift.” I don’t really see Apple pushing that as much, they’re very focused on Swift on their stuff and so it’s an interesting paradigm just to see the difference on with some of the stuff with C#.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Yeah. Definitely, Swift is I mean is a language. Three years ago no one knows what Swift was but there’s a lot coming out. There’s perfect. There’s other web frameworks IBM’s pushing really heavily. Swift is evolving thing and kind of huge thing but it’s still nascent as far as.</span>
+
+<span style="font-weight: 400;">Charles:          </span> <span style="font-weight: 400;">Well we just got Swift three and stuff change.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Stuff is changing. You don’t have the binary compatibility yet. We’re still to make changes for x and x version of xcode. It’s not quite in place where you can do it but C# has been around for a long time. It’s a good development language of the best, all the purpose general type language. You can do anything with it which means you can do everything five different ways which can be a problem.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Work can be nice, putting on.</span>
+
+<span style="font-weight: 400;">Jaim:</span> <span style="font-weight: 400;">If you write the code, it’s nice to write the code. Reading the code sometimes not so much.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">I looked back at the apps five years ago. I was like, “Oh what was I doing?” I did work that way but now I know so much more.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Whenever link came out it just really was a mat with a fold. It was like, “Ohhh.”</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">I went e-sync away and link came out it change my world. C# is still an evolving language. You say it’s stable it’s been around for a long time sure job has been long around. Objective-C is been around for a long time like it’s a stable languages but C# is actively evolving which is can’t C# 6, last year C# 7 on the horizon writing some already cool support Microsoft I guess I’m not anything to do with it. The team there is adding some really cool support for peoples and they’re actually points some really cool things that Swift is doing. C# is a kind of a little bit functional because F# is doing some crazy stuff so kind of pulling these little worlds together, inline functions and all the stuff. It’s really fun because learning languages, it should be fun. I always try to see what’s going on with the latest Swift or what’s coming next to new version, that’s even in Java is still tricking out new version.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">What’s new in C# 7? Like what cool features could someone play with?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yes, C# 7 is on the horizon. You can play around with it if you install the Visual Studio 15 not to be confused with 2015 but the next version is version 15 in Visual Studio. They’ve redone completely how tube holes work. Think of everyone does it know what tube holes in. Usually when you call a method let’s say calculate number, you pass it x and y and add some together you can return only the value.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Tube holes allowed you to bring back multiple values as a return type. The tube hole implementation allows you to structure it in a way that’s very verbose so you have like nice names, so I guess this is person that name, person that this. You can create your own structure to get turn and works with the e-sync go away which is a huge win or adding some pattern matching into it so you can do, switch cases are very popular so you can do pattern matching very similar to what you can do in Swift for instance and write inside of C#.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I’m not sure if they’re going to finish it for C# 7. It’s still kind of evolving but they want to do a way of ensuring something is not null. Right now you can have null properties which are fine and you can have an integer that could be null which is usually you don’t have that. There’s no way in code to say something can never be null. They want to actually add that into API and say, “When I have this method, just put a bang in front of it, like a exclamation point and that value can never be null.”</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I don’t know if it’s going to make the final speck but maybe C# 8 but these are some really cool ideas and what the team there the language that can be doing in the same like what are the struggles that developers are having or what are these other pool language is doing? As we see Swift is doing F# doing, All of these languages like what are these cool things that we can get and even Google is adding some e-sync task type stuff in this some low level library is checked some stuff out. I think it’s a fun time.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">We’re kind of out of time. I do want to ask if people want to check out Xamarin, if they are looking at built that Android app and they think this looks like a really great option. Where do people gets started?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">It’s probably the number two question I get asked where do I start? You go to Xamarin.com go figure, but there is a developer tab on top and I like to say that five years ago when I got started with mobile development at Xamarin this is where I went. I clicked on developer and there is three section, scroll down a little bit and there’s iOS, Android, Xamarin forms. It’s literally the same three sections that have been there but updated with all the new stuff that we’re doing and how the ideas have evolved. It’s like iOS, here’s a single screen, here’s navigation, here’s some native APIs. Same on Android. On Xamarin form, there’s a section for shared code. I do those three. </span>
+
+<span style="font-weight: 400;">Then you learn immediately, if you're brand new to Android you’ve just learned what’s an activity. That’s basically UI view controller. How do I navigate? This activities would just kind of like the navigation controller type of thing. Same with Xamarin forms. </span>
+
+<span style="font-weight: 400;">Then what I say is take at one set further which is something brand new that we have which is Xamarin New University. There is a paid version that was just interactive learning like going to university. We have something called self guided. You’ll find on the developer tab there which is kind of live labs, hour, two hour labs. There is videos and labs associated with it that take you through the entire app development cycle so you can see exactly how it is done and those labs were recorded live so it’s an instructor. It’s not just like someone in a rim it’s just these are instructors and people are asking questions and we’ve been doing that for a few years. That’s really cool, it’s all free.</span>
+
+<span style="font-weight: 400;">That’s a nice thing. It’s all free. Just go to Xamarin, hit the download button, it’s free you can get started and going immediately. If you have any questions, you can email me motz@microsoft.com that’s my direct line I’m not afraid to give it away. That comes right to my inbox. I go here to make developers successful building amazing mobile apps. It’s what I love doing for the last three years and it’s what I look forward to doing in the future and I love it. Talking to amazing developers like you and conferences like this and seeing what we can do and really change. Same company has changed  industries and lives it’s really powerful.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Yeah that’s a lot of what I’m about too. I think it’s the reason why most of our hosts were on the show. We’re going to go ahead and wrap up for quick with picks. Jeim do you have some picks for us?</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">I’ve got one pick today. This convention center is massive. It is like three large convention centers put together because there’s 20,000 people here. You walk a lot. If you are one of the conference that building A into building C, we’ll see you in a half hour pretty much.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I’ve got shoes that are amazing walking shoes. They’re Clarks. I’ve got two pairs, I got a brown pair and the black pair. You can walk forever in these shoes. They’re amazing. They got dress shoes. I’ve got brown shoes that’s more casual, not a dress shoe but will dress so in between but the great shoes super comfortable they’re not cheap but they’re not as expensive as the other shoes that you think that would be more comfortable. They are a great walking shoes and when these were out I’m buying new ones so I can cruise anywhere for as long as I need to with Clarks. That’s my pic.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Nice. I’m going to throw a couple of picks out there. One pick I have is that James was on React Native Radio which is a also part of Devchat.tv and had an awesome interview there so if you’re looking for info on Xamarin, check that out. Check out the interview we did at build with Miguel. Check out James’s episode on iPhreaks from a while back, just great stuff out there.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The other pick I have is our contact at Microsoft Barack took us to this really great steak house last night. If you’re in the Atlanta area, STK that’s over in midtown. “Ohh wow,” That’s all I have to say is, “Ohh wow.”</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">That’s cool.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">James, do you have some picks for us real quick?</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yeah sure absolutely. A lot of people come and ask me how to learn C# even coming over. I stumbled upon this randomly. It’s a Microsoft thing but we have a website called dot.net is the url. There’s a learn section. It’s the most amazing thing I’ve ever seen because you can write C# in the browser and then compile and asher. It’s all free learning like how do I use link? How do I use structures? It’s mind blowing.</span>
+
+<span style="font-weight: 400;">I downloaded it at conferences a few years ago and people are like, “Oh my goodness that’s amazing.” We’re going to get ready like learn some stuff it’s there.</span>
+
+<span style="font-weight: 400;">With the food, if you’re in Seattle, if you ever go, a lot of conferences there, a lot of things happening, the best coffee shop in all of Seattle is called Monorail Espresso. It’s downtown right by the convention center. Cream latte, just a short, 8 ounce is all you ever need to go down a Sunday. There’s a fine, fine gentlemen there that’s been there forever making the most amazing latte in all of Seattle. </span>
+
+<span style="font-weight: 400;">Frank and I talked about a lot on this podcast. Frank and I are good friends. We have a podcast called Merge Conflict. We thought that’s a brilliant name.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Good name, good name.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">We have to live up to iPhreaks and all these other great names. It’s called Merge Conflict and it’s @mergeconflict.fm. It’s a very expensive domain name, surprisingly. But mergeconflict.fm is a weekly development show. Not specific on Xamarin or dotnet or anything. We just cover all things in mobile and everything. It’s really fun. It’s at every Monday at midnight, we release it on GMT, it’s always so it’s there ready in the morning for you.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Awesome.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Yeah.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright well, they’re going to throw us out of here. We are going to wrap up and thanks for coming, James.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">Thanks for having me. It’s so good to be back and be in here live, awesome.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I know right.</span>
+
+<span style="font-weight: 400;">James:          </span> <span style="font-weight: 400;">It’s wholly different, I love it.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Awesome.</span>

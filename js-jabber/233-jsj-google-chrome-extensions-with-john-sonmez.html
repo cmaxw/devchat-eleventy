@@ -1,0 +1,304 @@
+---
+layout: layouts/post.njk
+title: >
+      233 JSJ Google Chrome Extensions with John Sonmez
+date: 2016-10-12 06:00:24
+episode_number: 233
+duration: 45:15
+audio_url: https://media.devchat.tv/js-jabber/JSJ233_Google_Chrome_Extensions_with_John_Sonmez.mp3
+tags: js-jabber
+---
+
+<span style="font-weight: 400;">02:50 The definition of a plug-in</span>
+
+<span style="font-weight: 400;">03:31 The definition of an extension</span>
+
+<span style="font-weight: 400;">05:09 The way to determine the plug-ins and extensions you are running</span>
+
+<span style="font-weight: 400;">08:22 How to create an extension file</span>
+
+<span style="font-weight: 400;">11:02 The appeal of creating extensions</span>
+
+<span style="font-weight: 400;">13:26 How John got into creating extensions</span>
+
+<span style="font-weight: 400;">15:48 Ways to organize extensions</span>
+
+<span style="font-weight: 400;">19:38 Aspects of chrome that will affect extensions</span>
+
+<span style="font-weight: 400;">23:23 Packaging for the Chrome store</span>
+
+<span style="font-weight: 400;">26:22 Using dev tools</span>
+
+<span style="font-weight: 400;">29:42 Conflicting plug-ins/extensions and how to deal with them</span>
+
+<span style="font-weight: 400;">31:30 Open source extensions</span>
+
+<span style="font-weight: 400;">32:32 A quick way to create an extension</span>
+<h3><span style="font-weight: 400;">QUOTES:</span></h3>
+<span style="font-weight: 400;">“I teach software developers how to be cool.” –John Sonmez</span>
+
+<span style="font-weight: 400;">“There wasn’t an ability to extend the dev tools, but now there is.” –John Sonmez</span>
+
+<span style="font-weight: 400;">“One quick way to create an extension is just to take one of these sample apps…and then just start modifying it…” –John Sonmez</span>
+<h3><span style="font-weight: 400;">PICKS:</span></h3>
+<a href="http://www.unchainedmovie.com/"><span style="font-weight: 400;">“Django Unchained”</span></a><span style="font-weight: 400;"> Website</span>
+
+<a href="https://egghead.io/courses/using-angular-2-patterns-in-angular-1-x-apps">“Using Angular 2 Patterns in Angular 1.x” </a>Apps Egghead Course
+
+<a href="http://www.refinery29.com/2016/09/122114/girls-life-boys-life-magazine-sexist-differences">Girls’ Life vs. Boys’ Life</a> on Refinery29
+
+<a href="https://www.webinarjam.com/index/">Webinar Jam</a> Software
+<h1></h1>
+<a href="https://devchat.tv/webinar-5-mistakes-that-are-keeping-you-from-getting-hired">“Five Mistakes That are Keeping You From Getting Hired”</a> Webinar
+
+<a href="https://www.screencastify.com/">Screencastify</a> Chrome Extension
+
+<a href="https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4"><i><span style="font-weight: 400;">How to Fail at Almost Everything and Still Win Big</span></i></a> <span style="font-weight: 400;">Book on Amazon</span>
+
+<a href="https://simpleprogrammer.com/2016/07/04/complete-software-developers-career-guide-introduction/"><i><span style="font-weight: 400;">The Complete Software Developers Career Guide</span></i></a> <span style="font-weight: 400;">Book in Progress</span>
+
+<a href="https://simpleprogrammer.com/"><span style="font-weight: 400;">Simple Programmer</span></a><span style="font-weight: 400;"> Website</span>
+
+<a href="https://www.youtube.com/user/jsonmez"><span style="font-weight: 400;">Simple Programmer</span></a><span style="font-weight: 400;"> on Youtube</span>
+
+<h3>Transcript</h3>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Hey everybody and welcome to episode 233 of the JavaScript Jabber show, this week on our panel we have Aimee Knight.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">Hello from my last week in Baltimore.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Joe Eames.</span>
+
+<span style="font-weight: 400;">Joe:              </span> <span style="font-weight: 400;">Hey everybody.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I’m Charles Max Wood from Devchat.tv, quick shoutout about React Remote Conf coming up soon. We have a special guest this week and that’s John Sonmez.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Hey, what’s up?</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">You’ve been on the show before but do you wanna give us a brief introduction anyway?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Sure. I finally have nailed down my elevator pitch of who I am, what do I do. I teach software developers how to be cool, that’s what I do. That’s it. Basically I do self development for software developers, personal development. I used to say life coaching but that just gives a bad rep. For those of you that know Tony Robbins, I tried to be like Tony Robbins for software developers, helping them with all the areas of their life that are not just writing code.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I did write code for 15 years and I did do a lot of technical training as well. I guess that’s what we’re talking about today is actually a technical topic. Oh my gosh. I’m so busy talking about so many other topics. It’s a shocker. That’s what I do. I run a website called Simple Programmer. The focus of it is really just helping software developers to live better lives and improve their lives, improve their careers, all of those things that sometimes get ignored when you really, really hone down on one skill set, like a technical skill set.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I was gonna try and make an inside joke but I think we’ll just get this some other time. John and I talk every week on another podcast called Entreprogrammers. It’s a mastermind group where we talk about our businesses and give each other advice and things like that.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Yep, shoulders to cry on.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">That’s right. Oh boy, the last couple of weeks for me. Anyway, we brought you on today to talk about Chrome extensions. It was kind of funny because I didn’t know that you knew about this particular topic. Somebody requested it on our topic request form.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">In particular they were saying, “Can you build Chrome extensions with Angular?” I thought about it for a minute and I was like, “I don’t know.” I started looking at how to build a Chrome extension and the first article was John’s.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Yeah. That’s been a pretty popular article. I think it’s How To Create A Chrome Extension in Ten Minutes.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Do you wanna give us a run down? I know that there are Chrome extensions or Chrome plugins and you mentioned before the show that there was a difference. Do you wanna start there with what they are and what the differences are?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Sure. Yes. The word plugin and extension gets confused but extension is the one that rafter because I don’t think many of us are gonna be writing Chrome plugins. In fact, I think Chrome doesn’t let you write plugins anymore. A plugin is basically like, the easiest way to describe it is like shockwave or flash. That’s a plug-in. That’s because it directly integrates into the internals of the browser using some APIs. It’s usually compiled code, read it, it’s a lot more in depth. It can do nasty things. In the old model of browsers, we had just plugins and everything was a plugin. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Extension is different. Extension is just a bunch of HTML, JavaScript and CSS. It’s just web pages that get added on to Chrome. It’s like digging into the internals of Chrome. Anything you could do in a regular web page is really just that, just the web essentially. It extends the capabilities of the Chrome pages and also the browser itself using some APIs that Chrome exposes using whatever you can do on the web pretty much. That’s just really the difference. It’s the difference between some of that’s kind of comes bolted on after the fact. Extension versus something that is really internal under the hood like Flash which will be a plugin.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Just to give a couple of examples, I have a Chrome extension that adds features to Gmail. It makes the Gmail page acts differently. That’s an extension versus a plugin that does like I have a color picker, that acts like it’s actually part of the Chrome program that’s running on my computer. It doesn’t actually modify the behavior of the web page or add a widget to the web page. It’s actually a widget in Chrome itself.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Right. I’m not sure in the color picker. I would be surprised if that’s a plugin, that maybe an extension as well. Here’s a quick way to tell. This is probably useful. If you go in to Chrome and you type, “chrome::/plugin” then you’ll see a list of your plugins.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Oh, I got you.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Okay. You can see in there that it’s probably gonna be like Chrome PDF viewer native client Adobe Flash Player. If you do “chrome://extensions” now you’ll see your extensions. Extensions are the thing that’s making your whole computer slow. I think we would not need faster and faster computers every year. It used to be because of games but now it’s because of Chrome.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">That is true.</span>
+
+<span style="font-weight: 400;">Joe:              </span> <span style="font-weight: 400;">Extensions are also the spyware my kids keep getting on their computer, right?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">I’m not sure if there are some interesting ways to install extensions, they might do like one click install. Extensions can do some stuff. They can’t do stuff to your computer so much. There is a few things that they might building there. Extensions can intercept web pages, modify them. They can run a lot of stuff in the background. They can definitely be used for spyware, that’s definitely a possibility.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I’ve seen when I’m browsing a web page if there’s an active extension on it that when I use the Chrome DevTools, it shows basically a JavaScript tag with Chrome extension, blah, blah, blah bunch of numbers. Is that essentially how extensions work? They just insert crap into the page?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Well, there is a couple of different ways. I guess this is probably worth going the high level overview about how extensions work. One form of extension is called a Page Extensions. Extensions can have multiple parts but essentially if you have a page extension, what it does is it’ll show up as an icon at the top. If you clicked that icon, it’ll render some html page.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">A Browser Action Extension is what I’m talking about there. A Browser Action Extension basically extends the browser itself so it will add some capability. You could click on that in the top nav and it’ll basically load up an HTML page and that HTML page and that HTML page could have JavaScript associated with it, it could just be very playing. It could also load up, have a background page, some JavaScript which is what you might be seeing there.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It could load that up to do all kinds of functionality. The other way that an extension can work in Chrome and it can have both these component is that it could be the Page Action Extension. Those extensions essentially work on specific pages. Within Chrome, if you’re creating an extension, what you can do is you create this manifest file. It’s just a basic file that says, it’s a JSON file, it says what your extension is, what the version is, description, icons and all of the permissions and things like that. You can define in there. You can say, “Okay, for this filter of pages, I want you to run.” You can say which HTML page that’s gonna invoke in that or be like a page extension. It’ll run on that page and it can insert some JavaScript into that page that alter that page.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Extensions essentially can add to the UI of Chrome itself. They can work specifically on pages. They can have content or they can modify the content. They can add some JavaScript to the actual page itself. A lot of times the way that would work is, if you’ve got a page action. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Basically, when you go to a certain site that you wanna execute some code on, let’s say the Gmail one for example that you’re talking about. With the way that that’s working is that in the manifest file, the JSON file, it’s saying, “Okay, forward this particular filter when the web address is Gmail. Go ahead and load up this HTML.” Imagine in there has some HTML that contains an HTML doc that references some JavaScript and then that JavaScript, it executes when that page loads and then look for certain elements on the page and it will modify the DOM there.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">You could really think of it as it’s very simply what you can do with web pages except that you have the ability to execute this on existing pages to execute this JavaScript. In fact, when I was developing extensions, what I would do is I would just take JavaScript and I would just execute it in the console. That’s a good way to test out the extension. You could just take that maybe code if you’ve ever done that before and you can make an extension out of it if you want. Mark makes create extensions because it’s the same idea essentially. That’s a long rant.</span>
+
+<span style="font-weight: 400;">Joe:              </span> <span style="font-weight: 400;">I feel like I know everything now.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">There you go. Just download it all into your brain.</span>
+
+<span style="font-weight: 400;">Joe:              </span> <span style="font-weight: 400;">Alright. What kinds of extensions might a developer be interested in writing on their own?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">That’s a good question. I think for the most part, I’ve saying in about this because could I do extensions and make some money making extensions and what would be useful. I think probably the biggest appeal of extensions is if you have an app already or you have some kind of service, maybe you have a SAAS app or something like that and you want to make something easier to do or add some capability to Chrome to use your existing app.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">That’s probably the number one use case. If you think about it, if you look at your extensions, that make sense right because probably the extensions you have installed come from or a large part of it come from apps that are existing. As an app developer, you wanna be able to get where your user is. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">For example Evernote would be good example. Evernote has a web clipping extension that allows you to clip web pages from inside Chrome. The other place I think that you could use extension is just some of whatever functionality is more like what we used to do in Firefox with Grease Monkey type of thing or where you would wanna modify pages or do automate some kind of process.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Like in one of the website courses I did, what I used to do when I fill up website courses, I’d add up in the top hundred website courses and I’d see who had the most courses that were in there so I could gauge where I was asked. I actually created an extension that would add some JavaScript to the page that would modify the DOM and would display each author name and then next to it the number of courses.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Anytime you have something where you wanna be able to modify the page and that function doesn’t exist, it’s so simple to do that. You could just do it for yourself. You didn’t have to sell it. If you just had something that you’re doing, some data that you’re parsing on a page or you need some functionality to automate, you could definitely create an extension and you don’t even have to put it in a story. You can just drop it on your local system and utilize it.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">What made you get into this? What was the use case that you were trying to account for when you started building something? Or did you just do it out of curiosity?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">It was mostly out of curiosity, I would say. I had done it, a website course on Chrome developer tools and when I was playing around with that, I got interested and in what other Chrome stuff could I learn about. That’s where I got interested in extensions. Like I said, I was trying to create a tool for myself, I was like, “Woah, I wanna create something to be able to view the account of, of course for a website author in the top hundred.”</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">At that time, I think when I was creating this, I was trying to be the most published website author. I was trying to get many courses as possible published. I wanna see where I ranked, where I was at. I had built some JavaScript functionality to do this. I would basically go into the Chrome developer tools and I would drop this JavaScript in the console to execute it on that page.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I realized, “Oh, wait a minute. This will work well for an extension. Instead of me having to drop this on there manually, what if I just have this extension in my browser all the time and it basically just inserted that.” I went down the path to see how hard would this be and I was surprised when I looked into Chrome extensions because it was so simple. It sounds daunting but it was so simple. I had it working like an hour and then I realized, “Okay, this is probably something that I could do a course on and teach people how easy this is.” That’s how I ended up going down that path.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I’ve seen some extensions that are pretty involved though. For example, there’s the Augury extension that basically hooks into all of my Angular stuff and tells me what’s going on there. It seems like there’d be more to it than just, “Oh, I’m gonna drop some JavaScript in here.” There are actual things that they add to the layout, things that they do to hack into Angular so that they can see what’s going on there.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">If you’re just munging through the data on the page and then going, “Okay, there are so many of these.” That seems pretty simple but if you’re getting something more complicated, how do you manage all of the interactions with the original DOM?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">I guess there’s definitely some ways to organize your extensions. An extension can be fairly complex. The concept is simple. You can create an extension in ten minutes. You can basically drop and manifest file, this JSON file, and you can have it say that it should load up this hello.html page. If you just put that in, like I said, ten minutes, five minutes, you could have that up and you can deploy it and drop it in the directory or load it up to Chrome. You’ll have a button that shows up and you can click the button and an HTML page will come up. It’s that fast.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">But just like any web app, you have the capability of creating a complex application. You can do call backs to API, you could Parse multiple pages and have all kinds of logic in there. You’d divide this up just like you would a normal application. If things get complicated, you’re gonna have everything divided up into different directories and manage the parts. It’s not like Chrome or fictions says you have to have one HTML page and everything has to run on there. You can have multiple pages, some extension use quite a few HTML pages and you can have JavaScript behind it.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">You can’t include the JavaScript in the HTML page for security reasons in Chrome but you can have as many JavaScript files as you want and you can utilize all the different features. You can have multiple page actions that your extension works on different pages. It can have different content scripts that it injects into the page and those content scripts can even message back to the page actions.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Within your extension, you can send messages back and forth in order to be able to manipulate different parts of the page or interact with the user interface. In your extension, you could have options that you click in the user interface part and that could actually send messages back to the content script that executes on the page and modify the page in different ways.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">You can get pretty complex with this and there’s a whole good resource to figure out what you can do, is if you just go the developer.chrome.com/extensions, there’s an API guide in there and it gives you all of the information for the Chrome platform APIs. There’s just a ton of stuff that you can accomplish. Simple in theory, right? Simple to get started, simple to create a very simple page but it can be as complex as you want.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I guess down to the actual question that was asked, can I use something like Angular or React as part of my extension?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">I’ve never used it myself but I don’t see any reason why you can’t. I can’t say 100% sure because I haven’t used it myself. You would have to load it up in order to do that. You would have to reference those JavaScript files from within the extension and then you could do it if it’s possible. I wouldn’t see any reason why not because I have to include a jQuery in my extensions because it’s been some time, this was pre Angular. I will include jQuery in order to make things easier.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Did they ever post updates to Chrome that will break certain extensions?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Not that I’ve seen so far. Possibly, there might have been some security things or permissions. I know that some of the extensions that I’ve had in my browser have had to re-request permissions because they’ve changed the permissions or they made it a lot more strict with default permissions are. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">That’s the other thing in your manifest file, just like most apps today. You have to say what you’re gonna do. In fact this is just a good tip for anyone that’s doing extensions. This is a big tripping point is that, if something doesn’t work and you can’t figure out why, make sure that you’ve requested the permissions in the manifest file because you have to specify those.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">That’s probably your most likely breaking point unless you’re doing something that crosses the line between extension and plug-in. Some of the extensions can actually go and do some native stuff but for the most part most extensions don’t do that. Usually, you’re not gonna have an issue.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">What about testing your plugins? Is it just trial and error or do they actually have some way of plugging in the test framework or something on it?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">The best way I found for testing it was just using the Chrome developer tools. Just like you said  that you had found that when you are in the DevTool you could see the extension code being added to the page, that’s exactly how you debug it. You just go in there and look at the Chrome developer tools and you can see the actual JavaScript that’s on there and you can separate points and you can go through there.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">There’s also a mode in the extension tab in Chrome, you can set the developer mode. That allows you to quickly reload extensions and update them and pack them up if you want. That’s typically how I’ve done it. If you have a more complicated extension, you might do something different. If you think about this way too, an extension is basically a web app.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">All extension is some HTML JavaScript and CSS just like any web app. You could actually pull out the core functionality. Suppose I was building a really big extension, I would not want to debug it on the pages inside Chrome itself. I would wanna take as much functionality that isn’t Chrome specific like the user interface that functionality and I would want to take that out and debug that by itself just so I wouldn’t have all the extra complication. It really depends on what level. If it’s just a simple extension, you’re gonna be able to just go into Chrome DevTools and set breakpoints and walk through that way.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">What about packaging it up for the Chrome’s web store?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">It’s really simple. It’s basically just a zip file that has a .crx extension on there. That’s really all you gotta do, you’ve got a directory structure that contains a manifest file and then your HTML and JavaScript and you basically just zip that up. The manifest file says where everything is located and that one just has to be called, I believe it’s manifest.js or .json.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">You can load it into your browser from there. In fact, I think Chrome has a pack extension function. If you go into Chrome, the extension tab in Chrome and you turn on developer mode, you can see pack extension there and you can say where the re-directory is and you can put in that a private key if you’re signing the extension, if you’re gonna go to the app store. It’ll basically zip it up and sign it for you and then you can upload it to the app store.</span>
+
+<span style="font-weight: 400;">Joe:              </span> <span style="font-weight: 400;">What about for beginners? Are color senses the kind of thing that’s suitable for beginners, people that don’t have a lot of experience with web applications to play around with?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Yeah. I think it’s probably a decent thing to start out with if you are a beginner, simply because of how easy it is to create a simple extension. You’re basically kicking back, piggybacking off of the functionality of Chrome itself. It might be actually easier to extend an app or to add something rather than trying to create your own full app.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I think a lot of beginner developers, at least in the web space, do WordPress plugin development as a beginner kind of activity rather than creating their own application but Chrome extension would be even easier than that because you don’t have to use a firmware, you’re just basically using basic HTML and JavaScript at the core. You’ve already got a lot of functionality, you’re adding something as opposed to creating something from scratch.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">You’ll have to excuse me if we already talked about this because I have a lot going out in my house right now. I’m getting ready for a move. Anyways, one thing that I’d be curious about, have we at all discussed like are there any specifics if you want to build out an extensions specifically for the DevTools or just an extension that potentially like any user of Chrome would be interested in.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Have you done anything like that and is there anything that would be important to know for people interested in doing something like that? For instance, I know the Redux DevTools are super helpful. I’m trying to think if there were any other specific DevTool add-ons that I’ve ever used but that one just comes to mind.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Yeah. That’s a good question. I haven’t done anything with the DevTools. I believe that when I was working on extensions, I haven’t been doing it lately or working on extensions but when I was, when I was putting out this material and working, there wasn’t an ability to extend the DevTools but now there is. Now, you could actually create extensions, if I understand correctly, that it could actually extend the DevTool themselves. I’m not exactly sure. I’ve never gone and done that myself but I would imagine it would work the same way. I would imagine it’s just additional APIs that are exposed.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">Yes. Kind of what I’m thinking. That sounds super fun. Maybe we can project.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Yeah.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">When it runs into an error, Chris is that you?</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">If you could somehow get it to cock to your Mac let’s say or something and have it read back stuff to you.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">There you go. I have a pull up on John’s YouTube videos. It’s funny because when I scheduled this, I was thinking to myself and I skimmed the article and I was like, “There’s gotta be more to it than this.” But it seems like it is relatively simple. You just jump in and basically tell it what you want it to do.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">You have to say something really complicated and use some jargon to intimidate everyone.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Yeah. There’s really not a whole lot to it. That’s the pleasant thing about it though. I think a lot of people are intimidated by the idea of developing an extension but they’re really, like I said, when I looked into it, it took me an hour to figure it out and I had an extension working because it is really that simple. It’s just some HTML, just manifest file that says what HTML file to load up and then some JavaScript that executes behind it and then you can do whatever you want to do with it within the HTML and JavaScript.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">You can browse to the APIs from the Chrome API. You can do things like open new tabs and get access in Omnibar and Chrome and get access to which tab to open and switch tabs and cookies and stuff like that. Chrome itself gives you quite a bit of stuff but the basic idea is just so, so simple which is good. So many things are complicated, this is elegantly designed. It’s simple enough that someone can get started and do it in ten minutes.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">One other thing that I’ve run into is, I’m gonna use Privacy Badger as an example for this but I’ve had one plugin that basically made it hard for another plugin to operate because it blocks cookies and blocks other content. You actually have to whitelist stuff as you’re loading the page. It’s kind of frustrating, is there a way to avoid that or can you just not know that it’s gonna do that if it’s messing with cookies or other core functionality features of how the page works?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">It’d be permissions. Remember that manifest files is what a permissions and extensions. When you’re installing extension, they’ll tell you permissions. Most of the time, most people just click okay but if you saw that it was going to utilize some cookies or block some cookies, you could know ahead of time. Aside from that, extensions can clobber each other.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I guess you know there is another aspect of this which is extensions are so easy to create that it’s great but it’s also bad. Extensions can clobber each other on different pages. Like you said, there’s nothing that would stop them from doing that. Anyone can develop an extension and extensions can run JavaScript in the background. With that storm of newbies creating extensions that they don’t understand, or malicious people, you can have some pretty nasty effects. That’s probably the reason why Chrome has gotten some upload. I imagine that they’ll have to figure out. Google have to figure out some point how to deal with this problem is because we have so many extensions and who knows what that extension is doing. It could be very inefficient in executing a lot of JavaScript in the background or loading up a lot of information and using a bloody memory. That’s the downside of things being so easy that it’s accessible to anyone.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Do you know of any good open source extensions that we could go look at for code examples? Maybe on GitHub or something?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">I don’t know of any. I’m sure there are some. I think on the developer page, on the developer.chrome.com/extensions, there’s this Google mail checker extension example. They should have all the sample apps in there. Let me see. Of course it’s broken now. How nice. But it’s supposed to be in there. There may be some other way to access this.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">You know what, I’m gonna drop a link in here and you can probably put it in the show notes but there is. It’s exactly what you said. It’s on GitHub, they have Chrome app samples. They got a lot of stuff in here of different sample apps. That’s pretty cool.</span>
+
+<span style="font-weight: 400;">Joe:              </span> <span style="font-weight: 400;">Awesome.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">One quick way to create an extension too is just to take one of this sample apps that’s already got everything, got the manifest file, got all the structure and then start modifying it until it becomes what you want. Find something that’s close to what you want. I’ve done that a few times. It’s just taking some that’s pretty close to what I want and then change a little bit and then there you go.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright. I don’t know if I have any other questions. Do you Joe or Aimee?</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">Oh, I do not.</span>
+
+<span style="font-weight: 400;">Joe:              </span> <span style="font-weight: 400;">I’m out.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright let’s go and do some picks then. Joe, do you wanna start us off with picks?</span>
+
+<span style="font-weight: 400;">Joe:              </span> <span style="font-weight: 400;">Oh sure. I can start us off with picks. I think I picked on a previous episode that Angel I’ve been watching a bunch of shows that I haven’t normally watched because I don’t watch hours typically but I’ve been recently going through and watching a few movies and I saw a movie yesterday, Django Unchained. I’m not normally a big fan of Quentin Tarantino. His stuff tends to be over the top but I really thought it was a powerful movie. Little bit of social commentary and a little bit of an interesting but yet extreme view of slavery. That was an interesting show. If you just an audio, then it was enjoyable for that perspective as well. That’s something worth watching if that’s a topic that interests you. I’m gonna pick the movie Django Unchained.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">That was definitely an awesome movie. Lots of unleashed violence, but it gives message.</span>
+
+<span style="font-weight: 400;">Joe:              </span> <span style="font-weight: 400;">Yeah. Interesting. Very interesting. I thought it was enjoyable and socially interesting.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright. Aimee, what are your picks?</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">I have two. The first one is going to be a course by Lukas Reubelki who I know is also on one of your podcast but it is new course using Angular 2.0 patterns and an Angular 1.x app. I thought that that course that he did was pretty good.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The other one I was going to pick, this actually came through on Facebook and I haven’t seen it on Twitter. It’s more of the picture that you want to see for anything but it’s on some girls’ blog katherineyoungcreative.com. Someone I guess on Facebook took a picture of Girls’ Life magazine and Boys’ Life magazine for September 2016 that covers of them. The various topics for instance like the Girls’ Life magazine says, “Fall fashion you’ll fall in love with.” And the Boys’ Life magazine talks about exploring your future. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">This girl re-did the Girls’ Life cover and instead of fall fashion you’ll love, she has girls doing good. Instead of your dream hair, she has changed it to your dream career. Even though it’s a blog post that’s super short, it just gets the point across. If you have a teenage daughter or even if you’re older, I thought that was just some good things to ponder a little bit. I’ll put a link for both those things in the show notes and that’s it for me.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I’m really curious because I know that Boys’ Life is put out by the Boy Scouts of America.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">Okay. I don’t know.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I don’t know who puts out Girls’ Life. I think the value set and the aims of the organizations that put it out are probably very different.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">I hope so because I would like to think girl scouts would not be like your dream hair and like it says, one of the things on here is like, are you ready for a boyfriend. And then the different one that she changed is planning your life goals. It’s just sad that people seem to think that this is what girls are interested in. I would venture to say a lot of them are interested in it only because they don’t know any better or the people around them. They don’t just have like any examples of girls who are interested in other types of things so they feel like they have to be into doing their hair and stuff like that because that’s what everyone else around them is doing. Now that there’s anything wrong with that but it’s good to know that there are other options out there.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yup.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">I’m pretty into doing my hair.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Me too. All of it.</span>
+
+<span style="font-weight: 400;">Aimee:         </span> <span style="font-weight: 400;">I don’t see anything wrong with that but it’s good. Personally, I speak from experience. Growing up, that’s what I was surrounded with. Just do a series of meeting different people, I realized there’s a lot more to what I can do with my life and stuff.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Okay. I have a couple of picks. The first one is something that I used for the first time today. It is Webinar Jam which is a webinar software. I’ve been using Crowdcast for the past couple of years. Ultimately, what made me switch was that I’ve been doing the online conferences, I’ve been getting ready to put together some webinars. I really, really wanted something that was more along the lines of both something that was well tested which Google is, I’ve had a few issues with Crowdcast. The other issue is  that I want the high definition video. Crowdcats doesn’t provide that much use Google Hangouts and Webinar Jam is built around Google Hangouts. It all works out, has pretty much the same features.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It actually costs a little less over the course of the year. There are a lot of reasons why I was looking at switching. That’s it. Crowdcast is an awesome software and I really like it but just didn’t quite get what I needed. I’m really liking it. We used it for the Freelancers’ Show Q&amp;A this morning. It worked great. I’m excited to see how things go. I’m using it for Angular Remote Conf this week.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">For my five mistakes that are keeping you for getting hired webinar. You can actually go check out the webinar if you want. I’ll put a link to that in the show notes as well if you’re looking for a job. Really digging it so far. It has all kinds of analytics and stuff that also help you keep track of what’s going on with it. Those are my picks. John, what are your picks?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Okay. I’ve got three picks here. Is it alright if I pick one of my picks for something that I have?</span>
+
+<span style="font-weight: 400;">Charles;       </span> <span style="font-weight: 400;">Yes.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Okay. I should probably pick a Chrome extension, that makes sense. At first there wasn’t one then I realized there’s this pretty awesome Chrome Extension that I’ve been using called Screencastify. It’s awesomely named and it’s awesome. You can find that at screencastify.com. It’s also in the Chrome extensions store. It’s a Chrome extension that’s a screen recorder inside of Chrome which is just awesome.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I’ve been using this to really just irritate customer service by instead of just setting an email when I have problem with things, I record a screencast because it’s so easy to do now. I get to record a screencast, it’ll save up to Google Drive automatically then I just drop them a link and like, “Watch this video.” We don’t have to have five emails going back and forth showing you what’s wrong with your website.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">This is really cool for doing screencasting and showing people how you’re doing things in your browser, making training for employees, things like that. Really simple. Everyone says, “You should do screencast, write it in screencast.” It can be difficult to do. This is something that it’s right there in the Chrome browser, I find myself using it all the time.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">My next pick is a book by Scott Adams, the creator of Dilbert. I was very surprised. I’ve actually read a couple of his books now. I’m really surprised by this guy but he is really awesome. It’s called How to Fail at Almost Everything and Still Win Big, Kind of the Story of My Life. It is a really, really good book. It actually has a lot of good systems in there.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">He talks about systems thinking and coming up with processes for things. It’s just really, really good life advice honestly on how to be successful. It covers a ton of topics from failure and how to overcome failure and not being afraid of failure. Even some stuff on getting in shape. He’s just really, really a brilliant guy that has done a lot of things, a lot more than just creating the Dilbert cartoon. I definitely feel like this is a top book especially for tech people because they’ll probably relate to him quite a bit since that was his background and if you like Dilbert.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The last thing is my own thing. I am currently working on a book, a new book. I can’t believe I’m writing another book after writing Soft Skills but I am and it’s called The Complete Software Developer’s Career Guide, at least that’s a tentative title. You can sign up, I’m basically giving it away for free while I’m working on it at my blog. You guys just go to simpleprogrammer.com or if you go to simpleprogrammer.com/careerguide, you can sign up and get the chapters, basically the entire book for free while it’s being created, it’ll be emailed to you. Eventually, it’ll come out and I’m hoping to have a nice two volumes set form but you can get all the information for free. It basically covers from the beginning of your career to advanced state of your career and everything in between and from a soft skill type of perspective. All the things that you need to know in order to succeed. How to get a job and raise up in your career. How to work with your co-workers. All of that stuff. Those are my picks.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright. I know you have a lot going on. Are there any links besides the one that you just shared that you want people to go check out as far as simpleprogrammer.com or YouTube channel or anything like that?</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Like I said, just check out the book. If you wanna sign up in simpleprogrammer.com, if you wanna find me and what I’m doing. You can find me in YouTube and everything else from there as well. I’m doing a lot of YouTube stuff now. I’m doing probably two to three videos a day.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright. We’ll go ahead and wrap this up. Thanks for coming John.</span>
+
+<span style="font-weight: 400;">John:            </span> <span style="font-weight: 400;">Yeah. Thanks for having me. Anytime.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yup. One other thing I’ll just add is if you wanna hear John and I and two of our other friends talk about our businesses every week, check it out at entreprogrammers.com. With that, we’ll wrap it up, we’ll catch you all next week.</span>

@@ -1,0 +1,522 @@
+---
+layout: layouts/post.njk
+title: >
+      029 JSJ Bower.js with Alex MacCaw and Jacob Thornton
+date: 2012-10-02 09:00:00
+episode_number: 029
+duration: 
+audio_url: https://media.devchat.tv/js-jabber/JJ029-BowerJS.mp3
+tags: js-jabber
+---
+
+Panel
+
+Alex MacCaw (twitter github blog)
+Jacob Thornton (Fat) (twitter github blog)
+AJ O’Neal (twitter github blog)
+Jamison Dance (twitter github blog)
+Joe Eames (twitter github blog)
+Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript)
+
+Discussion
+
+Bower.js (web)
+Bower.js (twitter)
+Bower.js (github)
+SXSW
+Package managers
+ender-js
+BPM
+hem
+Benefits
+Small components
+Yeoman.io
+Browserify
+Dependencies
+Segmenting the community
+Transports
+Mozilla (github)
+Commands
+Building an actual package manager
+node.js
+Moving parts of a package manager
+Events
+Challenges
+Ember.js
+Mobile web application development
+Google Chrome apps
+Desktop apps in JavaScript
+
+Picks
+
+Kershaw Ken Onion Tactical Blur Folding Knife (AJ)
+The xx: Coexist (Jamison)
+Neil Armstrong’s Solemn but Not Sad Memorial Cathedral (Jamison)
+Collective Soul Cat (Jamison)
+Amazon Prime (Joe)
+Star Trek Original Series on Amazon Prime (Joe)
+Functional Programming Principles in Scala: Martin Odersky (Joe)
+Domo (hiring!) (Joe)
+Delegation in Google (Chuck)
+Civilization IV (Chuck)
+Fujitsu ScanSnap (Chuck)
+Bill Nye’s Twitter Account getting suspended was not cool (Jacob)
+Github + Twitter profile redesign (Jacob)
+Avoid 7/11 Hot Dog Flavored Chips (Jacob)
+The Big Picture (Alex)
+CoffeeScriptRedux (Alex)
+Stripe (Alex)
+
+<h3>Transcript</h3>
+
+<strong>CHUCK:</strong> What are we talking about today, guys?
+
+<strong>ALEX:</strong> Package managers.
+
+<strong>JAMISON:</strong> Bower!<strong> </strong>
+
+<strong>CHUCK: </strong>Bower.
+
+<strong>JAMISON:</strong> It’s like a 5-year old pronouncing “browser”.
+
+<strong>ALEX:</strong> [Chuckles] I wanted to call it “browser”, but the name had been taken.
+
+<strong><em>[This episode is sponsored by ComponentOne, makers of Wijmo. If you need stunning UI elements or awesome graphs and charts, then to wijmo.com and check the out.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by The Blue Box Group. Check them out at bluebox.net]</em></strong>
+
+<strong>CHUCK:</strong> Hey everybody and welcome to episode 29 of JavaScript Jabber Show. This week on our panel, we have AJ O'Neal.
+
+<strong>AJ:</strong> Yo, Yo, Yo, comin’ at you live from… Earth.
+
+<strong>CHUCK:</strong> We also have Jamison Dance.
+
+<strong>JAMISON:</strong> Hi!
+
+<strong>CHUCK:</strong> Joe Eames.
+
+<strong>JOE:</strong> Howdy.
+
+<strong>CHUCK:</strong> Charles Max Wood from devchat.tv, that's me and this week, we have two special guests; we have Alex Maccaw. Is that how you say it?
+
+<strong>ALEX:</strong> That’s right. Good morning.
+
+<strong>CHUCK:</strong> And we have Jacob Thornton.
+
+<strong>JACOB:</strong> Oh, yeah. Hey.
+
+<strong>CHUCK:</strong> Is it Thornton? Did I say it wrong?
+
+<strong>JACOB:</strong> You did it perfect. If you say “Fat”, that’s so much easier.
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>JAMISON:</strong> Where does that name come from?
+
+<strong>JACOB:</strong> I don't know.
+
+<strong>CHUCK:</strong> It comes from yo, yo, yo, planet earth!
+
+<strong>JACOB:</strong> [Chuckles] Exactly, planet earth.
+
+<strong>CHUCK:</strong> Anyway, this week we are going to be talking about Bower, which is (you can correct me, at any time), it is package manager for browser libraries and it includes some kind of build mechanism or build package mechanism thing.
+
+<strong>ALEX:</strong> Not quite. I guess the idea for Bower is to be like a slightly lower level than most package managers. And it’s trying not to do any build stuff; so it just installs and resolves dependencies and then it provides like an API that build tools can consume. It’s really meant just to be like something that’s relied on by your build stack to install dependencies and then your build stack is supposed to do the different transport build stuff.
+
+<strong>CHUCK:</strong> Right. And it runs in Node, which means you install it with NPM, right?
+
+<strong>ALEX:</strong> Yeah, you can do that.
+
+<strong>CHUCK:</strong> I thought it was kind of funny that you install a package manager with a package manager.
+
+<strong>ALEX:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> So this was a twitter Project, isn't it? Did I read that wrong?
+
+<strong>JACOB:</strong> Yes it is.
+
+<strong>CHUCK:</strong> Do you wanna tell us a little bit about how it got started?
+
+<strong>JACOB:</strong> Sure. I guess it started really back in South by Southwest. A few of us were sitting around this table with a few beers. It was like Alex, Tom Dale, Paul Irish, a handful of other people. And were kind of arguing about package managers so, at the time, I had written this thing called ender; Tom and Yehuda had written BPM, Alex had been working on some weird thing that no one has ever heard of
+
+[Laughter]
+
+<strong>JACOB:</strong> Hem or something. Is that right?
+
+<strong>ALEX:</strong> That is correct, yes.
+
+<strong>JACOB:</strong> Do use that? It’s pure love. I remember that. So we all have these crazy opinions; like Tom was like, “Oh, it’s got to be written in Ruby,” because he likes all about Ruby, and Alex is like, “Oh, no. It’s got to be written in CoffeeScript or JavaScript because it’s for the browser,” and I was like, “No, guys. It’s got to be written in C, so this is so fast,” and everyone thought I was the craziest, but that’s fine. But we had this really interesting discussion going on for a while and I think we had a lot of the same ideas; particularly around kind of like common problems that we had all run into with our respective attempts at trying to solve the package management problem for the front-end.
+
+And so, about a few months went by and I was thinking about it all the time and it was like really kind of driving me crazy. And then my manager Dan Webb, who's this internet nerd that you guys might know about, he's a really cool guy; convinced him that it would be a really good idea if Twitter invested in a package management tool and started moving the frontend architecture towards one like this. Because we, for example, have like four or five different tweet boxes in production and all these different things which would be solved by having something like a package manager that you could really publish and like consume packages in like consistent way across the company.
+
+And so, yeah, I got to like bring Alex out of the revenue team to help work on it, I guess. And then we did and that’s kind of how it started. And then we spent a lot of time, more than any project that ever kind of seen or heard about really on the frontend, we like spent so much time, like going around and talking to people that are way smarter than us and giving their opinions on what they wanted or if they were in the space like how they’ve done things or how they do things differently. So it was really cool. We kind of started out with Google doc that had just like tons and tons of people on it, just kind of commenting and sharing ideas and I think it worked really well. So yeah, that’s kind of how it started and then we just wrote it and right now, it’s been integrated into the Twitter stack by the super smart amazing guy --- and that’s all gone really well.
+
+<strong>CHUCK:</strong> Cool. So I'm a little bit curious about what problem it solves. I mean, it is definitely more convenient than say going out to the website for each library you need and downloading it from them. But I mean, other than that, dependency resolution, are there other benefits to this approach?
+
+<strong>ALEX:</strong> Yeah, I mean. It’s crazy that people are actually managing JavaScript dependencies manually. Like, we don't do that for any other language. And so, why are we satisfied with that for JavaScript? And so yes, it will satisfy dependencies for you; it will go out and fetch and download them then for you. But the interesting thing is that as soon as you got a package manager, a lot of people start thinking in terms of small components; and so you got a lot of like smaller modular libraries being released rather than these big JavaScript libraries that we see at the moment.
+
+<strong>CHUCK:</strong> Interesting. Okay. Do you see this being integrated into other frameworks like backend frameworks like some of the PHP frameworks or Ruby on Rails or anything like that, to manage some of the dependencies and some of the other ways they used to get those JavaScript packages into their package management or public folders or whatever?
+
+<strong>ALEX:</strong> Yeah. We've been working with the Rails core team and Sprockets in getting some integration there.
+
+<strong>CHUCK:</strong> You just made me happy.
+
+<strong>JACOB:</strong> Yeah, yeah. Yeoman was a tool Paul and those guys are working on and it’s integrated in that. I don't think it’s going to be integrated into… what’s the popular Node one -- Browserify. Talked to that guy a little bit with sub stack and he didn’t seem real thrilled [chuckles] about it.
+
+<strong>JAMISON:</strong> I was going to ask about that. How is it different from stuff like Browserify or Ender?
+
+<strong>JACOB:</strong> Its main difference is… well, it’s really different from Browserify. It’s  different from Ender in a few fundamental ways; Ender is really all about kind of client install packages around like the CommonJS transport and like building them into a way that you can require them, like from the browser doing like var x = require my library x or whatever. But Bower is not really trying to do that; it’s just installing dependencies around versions and then it provides this API for your build tools it consume and like you got to choose how you kind of consume them.
+
+<strong>ALEX:</strong> So one of the things we wanted to move away from was NPM. And Jacob was --- by NPM with Ender and I think I was as well. Because there's a lot of packages in NPM which Node packages and it’s good to actually separate up the Node packages and the browser packages. And so we needed like a separate repository.
+
+<strong>JACOB:</strong> Oh yeah, definitely. I have a very different install philosophy, so Ender uses NPM to install things. And NPM has this way of resolving dependencies, which is kind of each package you depend on gets its own tree of dependencies; and so if I installed three different jQuery plugins for example, each one could depend on its own version of jQuery, and so you'd end up with three different versions of jQuery installed and like bundled into your app -- which for the frontend is not awesome at all.
+
+And so, that was something that we really wanted to avoid with Bower. And so it actually tries to use the same one and then it will throw warnings and errors and other types of things to kind of let you know when things conflict or versions aren’t satisfied and things like that. But the dependency they’re like shared within a project, and flat as opposed to nested -- if that makes sense.
+
+<strong>JAMISON:</strong> So you don't have like trees of dependencies? Each project tries to use installed dependencies and if they are not installed, installs them?
+
+<strong>JACOB:</strong> It installs them, yeah. But installs it in like a flat way, so package will install jQuery and will look at versions and it will look at the second package. It will continue to try to like fix the versions the best it can to get it to satisfy all the projects. If it can’t satisfy the version for like all the requirements, which we haven't run into yet, if it is the case, it will like throw one there and be like, “Hey, you need to deal with this.”
+
+<strong>CHUCK:</strong> Are there any folks out there using it right now? I know you said it’s being integrated into Twitter’s technology stack. Are there other folks that you know that are already using this?
+
+<strong>JACOB:</strong> I have my suspicions that GitHub is working on integrating it, just because of josh’s involvement. I don't know if that’s true or not, he's sort of been playing it a lot. But it’s only about like a week old, I’d say. We've gotten a lot of really good response; like I think within the first week, we've got more kind of star gazers or whatever they are called now in any other frontend package, but I haven't heard of anyone that’s specifically like, “Oh yeah, we've moved on our entire abstraction on top of this,” yet.
+
+<strong>ALEX:</strong> I know Google is looking at it.
+
+<strong>JACOB:</strong> Yeah, yeah. Google is definitely looking at it. So, again the Yeoman project is using it.
+
+<strong>JAMISON:</strong> It seems like lots of the other package managers are more opinionated on what transport mechanism and what require style you use. Like you said with Ender, uses CommonJS and same with Browserify, there's Jam that kind of makes use of RequireJS. And it looks like you deliberately didn’t really specify anything like that; it’s just to install stuff. And the way you actually use that code in your app is pretty much up to you, right?
+
+<strong>JACOB:</strong> Right, exactly. I feel like transports, in a  lot of ways, while I understand they are trying to solve like problems, because they are solving really similar problems in really different ways, like it’s  kind of ended up almost like segmenting the community more than it probably should have. And so, I think with Bower, we saw a real common problem across all the different transports and so we are trying to think of a way to solve it without further segmenting the community -- which I think something the other package managers like haven't really been able to do. And so yeah, this is our kind of way of trying to do that.
+
+<strong>ALEX:</strong> We also wanted to ensure that you didn’t have to edit a library if you wanted to include it in the Bower repository. That was like a key requirement. Because there's a lot of jQuery plugins and things that just aren’t going to support CommonJS.
+
+<strong>JACOB:</strong> Yeah, for sure.
+
+<strong>CHUCK:</strong> So when you're talking about transports, what exactly are you talking about? I'm not sure I completely follow what you were just going over.
+
+<strong>JACOB:</strong> So you could say CommonJS requires regular require styles one or you could say AMD is one or the RequireJS style is one. Just regular script tags and like augmenting global object is one kind of… just different ways of kind of importing light code into your code base. That’s what I meant.
+
+<strong>CHUCK:</strong> Okay, that makes sense. So if you want to add a package to Bower, how do you go about doing that?
+
+<strong>ALEX:</strong> It’s basically like a URL shorter, and so it’s first come, first served; there's no authentication or anything. You just put your package up on GitHub or some Git repository and you go to the command line, you say Bower add  and then the name of the repository, and then the end point which is the Git URL.
+
+<strong>JACOB:</strong> Yup. One thing that was really important for us is not having some hard dependency like GitHub or something like that, because at Twitter and other larger companies, you tend to have these internal kind of registries or something going on already. And so, everything is just pretty simply Git-based. And actually,  I don’t know if you’ve seen this yet Alex, but this guy has been working on a patch for Bower RC file, so you can specify alternative registries and stuff.
+
+<strong>ALEX:</strong> That's awesome.
+
+<strong>JACOB:</strong> Yeah, it’s really cool.
+
+<strong>CHUCK:</strong> So what kinds of things do you foresee being added to this in the future?
+
+<strong>JACOB:</strong> To begin with, I think we are just focusing on kind of geting the core things going. Like its only 0.1.3 release, and I think there's a lot more we can do around that. And then I guess like how I've always heard it explained and that I've kind of liked was that, first, you try to solve the problem, then you like make it pretty and then you make it like really fast. And I think it’s already really pretty because Alex and I just wrote really nice code. [Chuckles] but I think there's more problems to solve. And then I think we really need to focus on making it just a lot faster. Git is really slow. We kind of made one giant improvement for that, which is we cached all Git things into like a local .bower thing in your home or whatever it is. I think theres a lot more we can do around speed. Alex has been talking about downloading things that are on GitHub and parse and other things.
+
+<strong>CHUCK:</strong> Are there any other approaches that you could see that might work well for the frontend other than the package manager that you thought about, but decided not to go with?
+
+<strong>JACOB:</strong> I don't know. Alex, have you thought of anything?
+
+<strong>ALEX:</strong> I'm sorry, I didn’t get that.
+
+<strong>CHUCK:</strong> For example, one idea that I've had, I know it would be prohibitively expensive, but maybe to provide a CDN where people can get the web packages and just load them directly into their browser?
+
+<strong>JAMISON:</strong> I think there are a couple of those already.
+
+<strong>ALEX:</strong> Yeah. Google has one.
+
+<strong>JACOB:</strong> Yeah, or CdnJS. Actually cdnjs, they host and stuff, and they have a tool which will actually do a lot of these stuff were talking about for you. It’s worth checking out. The problem with that is it’s expensive and it’s something which is kind of you have to be in the boys club to be on the cdn. And so like, it doesn’t really work for every project, and it also doesn’t work for internal things as much.
+
+<strong>ALEX:</strong> And then there's concatenation as well. Like speed; just opening up a TCP connection is pretty expensive. And so, ultimately, we feel just couldn’t be concatenating their files down to one big file which will then get shipped across.
+
+<strong>JACOB:</strong> Also, it kind of discourages people to do smaller components; which I think is bad, like when you need to start moving towards like Alex was mentioning earlier like people running smaller packages and smaller JavaScript libraries. And like CDN encourages people to continue to write these huge things.
+
+<strong>CHUCK:</strong> That makes sense.
+
+<strong>JACOB:</strong> I don't think that's maybe best solution. I think it would work in some situations, but I don't think in the long term, it’s the right idea probably.
+
+<strong>JAMISON:</strong> That's also like the ultimate dependency. Like some third-party network service has to be up for your app to work. And even if it’s a really big one that hopefully is better at staying up than you, that’s still really scary.
+
+<strong>JACOB:</strong> Yeah, for sure.
+
+<strong>JAMISON:</strong> So it looks like you can use Bower to manage CSS and HTML and images and stuff too. So it’s for like you could make some widgets out and things and put them on there, right?
+
+<strong>ALEX:</strong> That's the idea. And what we’re hoping in the future, we'll have the shadow DOM and these components, like HTML tags and all those assets will be pulled in automatically.
+
+<strong>JAMISON:</strong> What's the shadow DOM?
+
+<strong>JACOB:</strong> Oh man, shadow DOM. There's all these really, really cool things being kind of worked on I guess by some Google nerds; this guy named Dmitri, they are working on this spec called, “web components”. And it has basically just a number of different ways for people to kind of make components or widgets or something in like a more standard way. And so they have given us lots of little cool tricks and stuff like shadow dom and scope styles, and the ability to import an HTML page,  like including your page rather than importing CSS and the JavaScript and everything separately, you can just import like one HTML, like link one HTML page and stuff like that. It’s really cool.
+
+There's also a Mozilla library that is being worked on. His name is escaping me right now, but Mozilla, if you go to their GitHub page, they are working on kind of a shim for it, that’s pretty cool.
+
+<strong>JAMISON:</strong> NexTag? Is that the one?
+
+<strong>JACOB:</strong> Yeah, NexTag.
+
+<strong>JAMISON:</strong> Tim talked about, no it wasn't Tim… James Burke talked about that a little bit.
+
+<strong>JACOB:</strong> Oh, yeah for sure. It’s pretty cool.
+
+<strong>JAMISON:</strong> I have to read up on this because I've never heard of it and it looks pretty intense.
+
+<strong>JACOB:</strong> It’s really good stuff. It’s like the most exciting spec, I feel like in the last…
+
+<strong>CHUCK:</strong> One more thing before we maybe move on to a different topic, is there anything else that we wanna go over with Bower or we pretty much covered what it’s  about?
+
+<strong>JOE:</strong> I got one question. For like learning Bower, what resources besides your page are out there right now, is that pretty much it? It’s just the homepage?
+
+<strong>ALEX:</strong> Frankly, there's not much to Bower. We have that webpage on GitHub. You have to scroll it. A  lot of people don't realize that you have to scroll it.
+
+<strong>JACOB:</strong> Oh, I fixed that.
+
+<strong>ALEX:</strong> Oh, you fixed it. Awesome. So, there's instruction in there, but that’s basically it. Frankly, there isn't much to it at the moment.
+
+<strong>JACOB:</strong> Yeah, there's like command line docs too. Like you can do –help on basically every command, which I think is maybe even  better than our…. It’s like less plot and more like just the nitty gritty of how things work. But yeah, like Alex said, it’s  really pretty simple. And then again it’s super young and I think that as time goes on for the community, we'll start writing more and we'll have time to write more about how to do certain things that are very specific, like integrating to build stack or using that with sprockets or something like that.
+
+<strong>CHUCK:</strong> Awesome. One last question and that is how does it work with the build tools that are out there? You said you added things in that specifically make that easier. I'm wondering what those are.
+
+<strong>JACOB:</strong> Yeah. There's two commands; they're basically both under the .list command, there's two options you can pass it. So, traditionally, if you use NPM or a different package manager, usually if you are installing your dependencies and then you run whatever NPM list or whatever package manager you are using, it kind of list out the different dependency inversions that you haven't solved. So we basically have just kind of extended this behavior with like a map and another option which has totally escaped me, but, you can call it programmatically and it will just… or you can actually call it from the command line and it will generate a json so you can output a config file straight to your repository or whatever your project. But yeah, it kind of lists the different file paths and things like that you would need if you're a build tool, like where things live, the name of the projects and something like that or name of the dependencies or something like that.
+
+<strong>CHUCK:</strong> Okay. Cool. So I wanna change tactics a little bit, because there's another thing that I'm interested in that we really haven't dug at much, and that is building an actual package manager. You were talking about languages, Ruby versus JavaScript or C or whatever, for speed and things like that. Is there a reason that you settled on NodeJS other than the fact that this is a package manager for JavaScript stuff?
+
+<strong>ALEX:</strong> That’s the main reason, yeah. I mean I think it will be crazy if we use a language other than JavaScript for a web package manager.
+
+<strong>JACOB:</strong> Yeah. This actually largely the reason other projects have bootstrapped for example; one of the main reasons we ended up using less was because of the storage [unintelligible] and then JavaScript.
+
+<strong>CHUCK:</strong> Okay. So what are kind of moving parts for a package manager? I think most people are pretty familiar with like repository of packages and then the client. Is there more to it than that?
+
+<strong>JACOB:</strong> The moving parts of package management? Not really. I mean, we have kept it pretty simple, so it’s basically just that. I mean, if you look at the internal kind of project, you have… for a long time we just had a package and a manager of like two different objects, but yeah it’s  not hard. You can do it. I think we wrote the entire project originally in this like real crazy way, probably in a couple weeks, probably 2-3 weeks; we had something that was like pretty usable and not too far away from what you are seeing today.
+
+<strong>ALEX:</strong> Why don't you talk about the event stuff, Jacob? That was quite interesting.
+
+<strong>JACOB:</strong> Uhh… yeah.
+
+<strong>ALEX:</strong> [Chuckles] Maybe it wasn't interesting.
+
+<strong>JACOB:</strong> I think that it’s a mildly common thing. So NPM was doing it or is doing it also. And I think a lot of people are starting to do this, which is their mixin in events or extending emitter or whatever they are working on these things. So the API that you kind of end up with is like all event-driven and it’s kind of nice to work with at least I think from like a consumable way. So you get data events, area events and end events. And these are all passed like information that’s useful. So you would say for example, bower.command.install and then you had listened to the number of events you get back, which are all just regular events you would expect rather than having function, function everywhere; like callback, nested callback, blah, blah, blah.
+
+<strong>CHUCK:</strong> Are there any challenges that you ran into that were kind of a pain to work around?
+
+<strong>JACOB:</strong> I think yeah, there's always like real weird things. I think originally, kind of getting we wanted to do the resolving of dependencies with versioning was pretty tricky. A lot of our problems also came from the fact that we were relying on Git -- which I still think is the right decision -- but it was like tricky like, “Okay, how should we do versioning?”
+
+<strong>JAMISON:</strong> Do you just tag versions with some version numbers?
+
+<strong>JACOB:</strong> Yeah, exactly.
+
+<strong>JAMISON:</strong> Okay.
+
+<strong>JACOB:</strong> So we found a lot of [inaudible] and we thought that it was good convention and something that we like people to continue to do, kind of. [Chuckles] And it does get a little tricky, so like for example, not everyone is really like super crazy about semantic versioning, for example, very specifically. And so you get people like, I’ll pick on Ember for example, they are using something that’s like almost there. I wish Yehuda was here so I'll just like call him out. Like they have some release like (this is totally wrong but) 1.2.1 and then they're trying to specify like a beta release, and so they did like 1.2.1.beta.6, but really, you are supposed to do 1.2.1-beta.6 and so, it’s not semver, so it fails as a version -- which is kind of like sucky, but also then just not versioning correct.
+
+<strong>CHUCK:</strong> So are you enforcing semantic versioning then?
+
+<strong>JACOB:</strong> Yeah, definitely. I've worked really closely with Isaac on a lot of this stuff. I feel like he's just an amazing job with NPM and had tons and tons of information to share about it. And so, he's been of sure like a real serious advisor and been like completely amazing, and we’re sharing a lot of components. And we’re also like as this project evolves, we need to start breaking out stuff because he's also kind of expressed interest in like consuming some of our things we worked on. We did this templating thing that was really cool, that I haven't seen a lot of command line tools do. Originally, I think Rod --- kind of paved the way with it, but were using mustache for all our command line output, sand so, were just pretty cool and we have this kind of interesting color mixin system thing we’re using for colored output. It’s pretty cool.
+
+<strong>JAMISON:</strong> That’s kind of sweet. I never had thought about using templates for command line stuff, but it makes a lot of sense, actually.
+
+<strong>JACOB:</strong> Yeah, it’s really great. Particularly because of like whitespaces are like important. And like in Mustache, the spec around white spaces is so strict, it turns out really awesome and its really extra readable. If you look at the NPM source for example, it’s like really intense string concatenation all over the place.
+
+<strong>JAMISON:</strong> Yeah.
+
+<strong>JACOB:</strong> So I think it’s a really cool kind of way. I think that’s the one advantage is like getting more frontend nerds up into command line tools, because you get to see them like doing word stuff like that in a good way.
+
+<strong>JAMISON:</strong> Can I ask like a wildly off topic question?
+
+<strong>JACOB:</strong> No. [Chuckles] Just kidding.
+
+<strong>JAMISON:</strong> [Chuckles] So package management is one of these wild west areas that there's lots of stuff going on in JavaScript and this is kind of your solution to try and fix it. What do you think the next big problem that people are going to look at is going to be, in front end JavaScript stuff?
+
+<strong>JACOB:</strong> I think I would follow Alex on Twitter.
+
+<strong>JAMISON:</strong> [Chuckles]
+
+<strong>JACOB:</strong> [inaudible] …that was like a real big thing that everyone was building. And I was on this package manager thing; about a lot of people are doing, so I’d just follow him. Something crazy. Personally, I think there's a lot of crazy stuff around mobile web application development, so [inaudible] their mobile web app has more users than both their Android and iPhone thing combined. We had a similar thing in Twitter. I don't know. I've heard some rumors that different big players working on different kind of mobile web UI things. I think something around that will come out, but I don't know if it will be as like intense as the package manager thing. I'm not really sure. I don't know.
+
+<strong>ALEX:</strong> I've got one. The Google Chrome apps, they are now, it’s  not well known, but as part of Google Chrome, you can now create like a desktop app, all written in JavaScript and HTML and behind the scenes it uses Chrome, but none of your users need to know that. Because you are running on a desktop, you can just go crazy with the effects and the graphics and the apps were completely native. And so this is something that I've been working on with a few Googlers and I've been working on this framework to create really native looking UIs, but in JavaScript and HTML.
+
+<strong>JAMISON:</strong> That’s sweet.
+
+<strong>JACOB:</strong> Yeah, there you have it. That’s what it is.
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>JAMISON:</strong> Now we don't need to follow him on Twitter.
+
+<strong>ALEX:</strong> I basically saved you there from weird tweets.
+
+<strong>JAMISON:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> What were you going to say, Joe?
+
+<strong>JOE:</strong> Don't tell Microsoft that you’re building desktop apps in JavaScript.
+
+<strong>ALEX:</strong> [Chuckles] It’s true.
+
+<strong>CHUCK:</strong> Why? What will happen?
+
+<strong>JOE:</strong> Oh that's their Windows 8 thing. You can build desktop apps in JavaScript.
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>JAMISON:</strong> I thought that was like widgety things too.
+
+<strong>JOE:</strong> Yeah. Widgets, apps, whatever.
+
+<strong>CHUCK:</strong> Yeah.
+
+<strong>AJ:</strong> I actually really like the idea of desktop apps. Like I started a little tool for it and then got side tracked. The idea to deploy something with Node on somebody’s computer and then write it in the browser, (well, I think that’s a desktop app still) but have access to all of the, you know, stuff.
+
+<strong>ALEX:</strong> Yeah, so with Chrome actually, they give you… you have access to the USB hardware. You don't even need to actually run anything else. And the package will do that for you and do like one click installs to the chrome store. And they basically put like the Chrome store and all their platforms. So they basically snuck an SO on to basically every platform. It’s incredible.
+
+<strong>CHUCK:</strong> This is through Chrome?
+
+<strong>ALEX:</strong> Yes, this is through Chrome basically.
+
+<strong>JAMISON:</strong> So once you are running desktop apps in JavaScript, what is the advantage of doing that over writing a desktop app like in a traditional desktop app language? Is it just because you get to use all the cool front end stuff that you already know about if you’re like a frontend developer and is moving into desktop stuff?
+
+<strong>ALEX:</strong> Yeah. That, and the speed in development. And CSS I think is just incredible; like you'll find that a lot of native iOS apps actually just use PNGs, it’s like the old days of the web. It’s really hard to get these graphics working; and with just HTML and CSS, it’s just so simple.
+
+<strong>CHUCK:</strong> So, are there any other aspects or problems that you solved with this that you wanna talk about before we get into the picks?
+
+<strong>ALEX:</strong> No, I think I've said all I can.
+
+<strong>CHUCK:</strong> So is the only difference between candidates for NPM versus a Bower whether you are going to use them on your website versus on Node?
+
+<strong>ALEX:</strong> Yeah, that's correct.
+
+<strong>CHUCK:</strong> Okay. Cool. Well, let’s go ahead and get into the picks. We'll make AJ go first.
+
+<strong>AJ:</strong> All right. So, over the past, since I was thirteen (that was 13 years ago), my pocket knife has gotten duller even though it’s been sharpened several times and well it’s  losing metal and the spring in it doesn’t really work anymore.
+
+<strong>JAMISON:</strong> Is this a metaphor for old age?
+
+<strong>AJ:</strong> No.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>AJ:</strong> No. I wasn't intending it that way. So anyway, one of my coworkers has this Kershaw knife; it’s actually [inaudible] and its a 3-inch knife. And so I was looking at Amazon and I picked out this one that was very similar, except it had a blade that I liked and it has a nice angle to it, and better for ripping open plastic packages when you are ordering from Amazon Prime. But it turns out that it’s a 3 ½ inch knife and its quite a bit bigger than what I was expecting, but it’s way awesome.  Great for cutting bagels, from opening Amazon packages, stabbing someone in a different situation.
+
+<strong>JAMISON:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> Going through the airport with. I get where you are going.
+
+<strong>AJ:</strong> [Chuckles] Can’t do that with it. It’s  just bigger than a knife that I normally carry. It’s not big enough to be considered a weapon because it was actually slightly under 3 ½. And for most states, 3 ½, if it’s bigger than 3 ½ that’s where it becomes questionable. It could be considered a weapon. And in a few states that are very strict will go as low as 2 ½, but Utah is a very conservative state, so I believe in [inaudible]. Anyway, so I'll put a link to it. It’s the Kreshaw Ken Onion Tactical Blur Folding Knife and it’s been great. I'm also looking at getting a leather --- waive because it has some tools that missed from my swiss army knife, but the wave is kind of heavy, so not sure about that yet.
+
+<strong>CHUCK:</strong> Any other picks?
+
+<strong>AJ:</strong> No. But I do wanna say sorry that I was like off for most of the show. I didn’t feel like speaking because I [inaudible] too much.
+
+<strong>CHUCK:</strong> That’s okay. We'll forgive you.
+
+<strong>AJ:</strong> Sounded really good.
+
+<strong>JAMISON:</strong> We still love you.
+
+<strong>CHUCK:</strong> Jamison, what are your picks?
+
+<strong>JAMISON:</strong> Okay. My first pick is the new XX album, Coexist. It’s really good. It’s just good like chill, pop-ish music. I don't know how to describe it, but it’s a great listen.
+
+And then I was going to pick this computer science thingy that made me sound really smart, but I didn't actually read it, so I don't get to pick it. Hopefully, I'll read it and then get to pick it.
+
+<strong>AJ:</strong> That never stopped me before.
+
+[Laughter]
+
+<strong>JAMISON:</strong> My secrets, they're out. Neil Armstrong, he died a while ago and somebody in the Atlantic wrote up his funeral, and it’s  amazing. It’s just great writing and made me cut some onions. That’s my other pick. Neil Armstrong’s Funeral Eulogy write up thing in the Atlantic.
+
+And then my last pick is the thing that has made me laugh until I cried. I don't think that’s ever happened to me before. It’s a YouTube video called Collective Soul Cat. And it’s beautiful.
+
+<strong>CHUCK:</strong> Nice, okay. Can you make sure you get links to those in the show notes, Jamison?
+
+<strong>JAMISON:</strong> Collective Soul Cat is probably the most important one of those.
+
+<strong>CHUCK:</strong> Okay. Joe, what are your picks?
+
+<strong>JOE:</strong> I'm going repick something you picked previously, Chuck, Amazon Prime because I've found out just recently that the original Star Trek series is on Amazon Prime -- which is totally awesome.
+
+For my second pick, I wanna pick this Coursera just launched a Scala class. It’s a seven week long Scala class and it’s really cool. So I'm going to pick that as well. For anybody who wants to learn functional programming, Scala is completely awesome.
+
+For my last pick, I'm going to pick Domo, the company I'm working for right now. Just been really enjoying things, mostly because today is cake day at Domo. They brought in a whole bunch of cake in this really crafty like super awesome cupcakes. And since its  cake day at Domo, I picked Domo who is actually hiring for front end developers here in Utah. So if you either live in Utah or wants to move in Utah and a frontend web developer, give us a contact.
+
+<strong>AJ:</strong> Hey I have [inaudible] because everybody is talking about how they are hiring. We’re hiring too. Looking for web devs and basically if you're smart and you can learn things, come to us.
+
+<strong>CHUCK:</strong> What was that?
+
+<strong>AJ:</strong> It’s my coworker; he said, “We want someone in IT.”
+
+<strong>CHUCK:</strong> [Chuckles] Okay. Well, I'll go ahead and do my picks next. My first pick is actually a feature of Google’s Gmail or Google Apps Mail. I found out that there was a feature in there where you can actually delegate access to your inbox to someone else. And since I've switched VAs, my new VA, I actually gave her access to my inbox and I was sitting there trying to figure out how I could. Because if I signed in and then she signs in from where she's at, it says, “Well, you're one person, so obviously, you can’t be in Utah and Pennsylvania at the same time,” and so it will kick one of you out. And so, I've been trying to figure out how I can give her access.
+
+And it turns out that if you're in Google apps, if you go into your settings for your domain and you just check the box that says that you can delegate to somebody else on your domain, all of a sudden you can say, “Hey, give this person access to this inbox.” And so it’s really nice. And so she can go in and pull the emails that she needs out of there, forward them to her account and work from there. So for example, I’ve had transcripts for several of my shows done and they never got put up, and so she was able to go in and find those and forward them to herself so that she could then get them and put them on to the shows that they’ve been done for. And I guess that’s also a way of saying keep an eye out because there will be transcripts coming down the pipe for all of these shows.
+
+Anyway, my other pick is something that I've been wasting an enormous amount of time with and that is Civilization IV. I found it in the Mac Appstore and it’s a fun game. At first I wasn't quite sure about it, but I've kind of gotten to like it. It’s a turn based game; it’s sort of like Risk or StarCraft or something like that. A general mix of that. I'm not sure exactly how to describe it, but anyway I've been enjoying it; it’s like 10 or 20 bucks on the Appstore.
+
+And finally, my last pick is I bought this, it’s a Fujitsu ScanSnap; it’s a scanner, it’s  just on my desk. It’s  this teeny thing that just feeds paper through it. It’s small enough that I can put it in my laptop bag when I travel and take it with me and scan my receipts there. And it has all these functions; so you can scan something and then you can say, I want this in Evernote and Dropbox and a PDF and there are like a dozen of options that it gives you every time you scan and you just click the little icons for all the ones you want. And so for me, I just put them into Dropbox and then once I have them in Dropbox, I just sort them to the appropriate basket and then I'm done. It’s been really nice.
+
+I've been really, really enjoying having it because it also has a program that comes with it for business cards and so you just feed the business card through, and the cool thing is that it then feeds it into a program that will read the business card, and you can actually export the little contact file things that you can import into Google. So then I just import all my contacts onto Google and I'm done in the Google contacts. Anyway, really, really enjoying those and I'll put links to those in the show notes.
+
+Let’s let Jacob give us his picks.
+
+<strong>JACOB:</strong> Something that I got also emotional about was one of my favorite twitter accounts, Bill Nye Tho, got suspended.
+
+<strong>JAMISON:</strong> Noooooo.
+
+<strong>CHUCK:</strong> Don't you work at Google? Can’t you unsuspend Bill Nye?
+
+<strong>JACOB:</strong> I don't. I'm unemployed now. I quit.
+
+<strong>CHUCK:</strong> Oh. So you're still doing Bower even though you're not at Twitter anymore?
+
+<strong>JACOB:</strong> Yeah. I'm still running basically all our open source projects -- out of love for the open source.
+
+<strong>CHUCK:</strong> We appreciate it.
+
+<strong>JACOB:</strong> Bill Nye Tho, great injustice. I'm sad about it. Have you guys seen the new GitHub profile redesigns and the new GitHub design stuff? That's really cool.
+
+<strong>JAMISON:</strong> I just saw like the frothing rage that people had about it.
+
+<strong>JACOB:</strong> Oh, like it. I'm like on the other side. I think there's like a few things that would be nice like they bury members and organizations and a few little things. But I'm into it. It’s cool. I like it.
+
+<strong>CHUCK:</strong> I think it depends on how much you use the features that they buried. For example, I was having a little bit trouble because I had to go hunt for the organizations, so I could switch to the one I wanted. But other than that, I mean most of the stuff is like no big deal.
+
+<strong>JACOB:</strong> It looks better.
+
+<strong>CHUCK:</strong> Yeah, it does look better.
+
+<strong>JAMISON:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> Every time Facebook changes their layout, people complain; so why should GitHub be any different.
+
+<strong>JACOB:</strong> Yeah, for sure.
+
+<strong>JAMISON:</strong> Now I can finally relate to my grandpa.
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>JACOB:</strong> Twitter also kind of changed their profile that's kind of dope looking, I like it. You can have like a second background kind of header thing. It’s cool. That’s about it. I had some hotdog flavored chips from 711 yesterday that were not good. That's my last pick. Avoid at all cost.
+
+[Laughter]
+
+<strong>CHUCK:</strong> I was going to say, “What part of hotdog flavored chips makes you wanna buy them?”
+
+<strong>JACOB:</strong> This is the problem: I was talking to this Oakland girl and like Oakland and JavaScript is a whole thing, but the east bay, you’ve just got to watch those kids because they'll just suck you in with the hotdog flavored chip recommendation and you'll be enticed and feel bad. So, avoid.
+
+<strong>CHUCK:</strong> So you did it for a girl, enough said. All right, Alex, what are your picks?
+
+<strong>ALEX:</strong> Okay, so my first pick is a blog called The Big Picture, which is actually run by a programmer at Boston. It’s boston.com/bigpicture. And this guy just receives all of these photos of the Wire and Reuters and all these other reporters and basically, it has a theme; there's a few themes a week of all these incredible photo. And so, I check that out every other day. That’s  amazing.
+
+My second pick is CoffeeScriptRedux. Now this is a rewrite of CoffeeScript to use PEGjs. [unintelligible] are just awesome. You can describe a whole language in, I don't know, 500-line file. It’s incredible. And so, this guy Michael has rewritten CoffeeScript to use PEGjs and it’s much more easy to understand, but also source map support. And source maps are awesome because they basically mean you don't have to go through compiled JavaScript in the browser when you are debugging and that sort of thing.
+
+My last pick would be Stripe. We have just launched…
+
+[Laughter]
+
+<strong>JACOB:</strong> One of my picks will be just, everyone quit your job.
+
+[Laughter]
+
+<strong>ALEX:</strong> So there's a little bit of self-promotion there. We just launched in Canada, were going to be launching in the rest of the world, soon hopefully and it’s just an awesome service for doing payments online.
+
+<strong>CHUCK:</strong> Yeah. Lots of love for Stripe, definitely. Okay. Well, that's all of our picks. Next week, I believe we have somebody scheduled. Let me pull up my calendar here real quick. It’s going to be Noel Rappin. He is the author of Time and Space in JavaScript or something like that. Good friend of mine and probably going to learn a lot about learning and teaching JavaScript -- that’s what he's going to talk to us about, so. Anyway, beyond that, I just wanna thank you guys for coming.
+
+<strong>ALEX:</strong> Thank you very much.
+
+<strong>JACOB:</strong> Thanks for inviting us.
+
+<strong>CHUCK:</strong> Yeah, really appreciate it and looking forward to what Bower has to offer. And yeah, we'll catch everybody next week. Thanks for listening.

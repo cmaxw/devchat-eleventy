@@ -1,0 +1,693 @@
+---
+layout: layouts/post.njk
+title: >
+      132 RR Nothing to Hide with Steve Klabnik
+date: 2013-11-20 14:00:00
+episode_number: 132
+duration: 1:23:37
+audio_url: https://media.devchat.tv/ruby-rogues/RR132Secrets.mp3
+tags: ruby-rogues
+---
+
+<p dir="ltr">01:48 - Steve Klabnik Introduction</p>
+
+<ul>
+ 	<li><a href="http://rubyrogues.com/rest-done-right-with-steve-klabnik/" data-cke-saved-href="http://rubyrogues.com/rest-done-right-with-steve-klabnik/">021 RR REST Done Right with Steve Klabnik</a></li>
+</ul>
+<p dir="ltr">02:52 - <a href="http://www.youtube.com/watch?v=LjZk8PP-u3c" data-cke-saved-href="http://www.youtube.com/watch?v=LjZk8PP-u3c">GoGaRuCo 2013 - No Secrets Allowed by Steve Klabnik</a></p>
+
+<ul>
+ 	<li>“I’ve Got Nothing to Hide”</li>
+</ul>
+<p dir="ltr">10:51 - Secrecy</p>
+
+<ul>
+ 	<li>Government Gaining Power vs Citizens Losing Power</li>
+ 	<li>Breaking Laws</li>
+ 	<li>Selected Enforcement</li>
+</ul>
+<p dir="ltr">19:27 - How Long Has This Been Going On?</p>
+
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/Stasi" data-cke-saved-href="http://en.wikipedia.org/wiki/Stasi">The Stasi</a></li>
+</ul>
+<p dir="ltr">22:23 - Why Should Software Developers Care?</p>
+
+<ul>
+ 	<li>Cookies</li>
+ 	<li><a href="http://fluidapp.com/" data-cke-saved-href="http://fluidapp.com/">Fluid App</a></li>
+</ul>
+<p dir="ltr">27:14 - <a href="https://www.torproject.org/" data-cke-saved-href="https://www.torproject.org/">The Tor Project</a></p>
+
+<ul>
+ 	<li>Anonymizing Proxy</li>
+</ul>
+<p dir="ltr">31:24 - Standing Up to the NSA</p>
+<p dir="ltr">32:17 - Hosting Outside of the US</p>
+<p dir="ltr">36:33 - Acquiring Information</p>
+
+<ul>
+ 	<li><a href="http://www.amazon.com/gp/product/076454280X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=076454280X&amp;linkCode=as2&amp;tag=chamaxwoo-20" data-cke-saved-href="http://www.amazon.com/gp/product/076454280X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=076454280X&amp;linkCode=as2&amp;tag=chamaxwoo-20">The Art of Deception: Controlling the Human Element of Security by Kevin D. Mitnick</a></li>
+</ul>
+<p dir="ltr">42:42 - Worrying About Security &amp; Negative Consequences</p>
+
+<ul>
+ 	<li><a href="http://bitcoin.org/" data-cke-saved-href="http://bitcoin.org/">BitCoin</a></li>
+ 	<li>Encryption</li>
+</ul>
+<p dir="ltr">49:12 - What Can Developers Do?</p>
+
+<ul>
+ 	<li>Valuable Data</li>
+</ul>
+<p dir="ltr">59:16 - Vulnerability</p>
+
+<ul>
+ 	<li><a href="http://intro.linkedin.com/" data-cke-saved-href="http://intro.linkedin.com/">LinkedIn Intro</a></li>
+</ul>
+<h3>Book Club</h3>
+<a href="https://leanpub.com/fp-oo" data-cke-saved-href="https://leanpub.com/fp-oo">Functional Programming for the Object-Oriented Programmer by Brian Marick</a>! We will be interviewing Brian on December 18th, and the show will air on Christmas Day. Oh! And here’s a $5.00 off code to get the book: <strong>please_remember_the_starving_artist</strong> So, well, Merry Christmas!
+<h3>Next Week</h3>
+Threading with Emily Stolfo
+
+<h3>Transcript</h3>
+
+<strong>JOSH:  </strong>Aren’t you always one of those guys?
+
+<strong>STEVE:  </strong>I am always one of those guys [Chuckles]. No matter what “those” is, I’m probably one of those guys.
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] </em></strong>
+
+<strong><em>[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]</em></strong>
+
+<strong><em>[This episode is sponsored by SendGrid, the leader in transactional email and email deliverability. SendGrid helps eliminate the cost and complexity of owning and maintaining your own email infrastructure by handling ISP monitoring, DKIM, SPF, feedback loops, white labeling, link customization and more. If you’d rather focus on your business than on scaling your email infrastructure, then visit www.SendGrid.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by Code Climate. Over 1,000 organizations trust Code Climate to help improve quality and security in their Ruby apps. Get 50% off your first three months for being a Rogues listener by starting a free trial this week. Go to RubyRogues.com/CodeClimate.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 132 of the Ruby Rogues Podcast. This week on our panel, we have James Edward Gray.
+
+<strong>JAMES:  </strong>So, I just talk into this can at the end of this string you handed me? <strong>CHUCK:  </strong>Yup. We also have David Brady.
+
+<strong>DAVID:  </strong>I can neither confirm nor deny the existence of a one-time [pad].
+
+<strong>CHUCK:  </strong>Josh Susser.
+
+<strong>JOSH:  </strong>I think I can’t use these semaphore flags. How do they work?
+
+<strong>CHUCK:  </strong>I’m Charles Max Wood from DevChat.TV. And this week, we have a special guest, Steve Klabnik.
+
+<strong>STEVE:  </strong>Hey everybody. A witty saying proves nothing.
+
+<strong>CHUCK:  </strong>So, you’ve been on the show before. Do you want to introduce yourself since you haven’t been on for a while?
+
+<strong>STEVE:  </strong>Totally. Hi everybody, I’m Steve. I write lots of codes in various things, mostly Ruby at this point. I have been doing a lot of work over the last couple of years. Teaching, working on Rails, writing books, designing APIs, tweeting too much, getting really angry on the internet. Yeah, like lots of that.
+
+<strong>JOSH:  </strong>And keep it up.
+
+<strong>STEVE:  </strong>Yeah. I try.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Wait, somebody’s angry on the internet?
+
+<strong>DAVID:  </strong>And wrong. There are lots of wrong people and it’s really easy to get mad at them for being wrong.
+
+<strong>JOSH:  </strong>Who’s the most wrong person on the internet?
+
+<strong>JAMES:  </strong>Ouch.
+
+<strong>STEVE:  </strong>Uhhh…
+
+[Laughter]
+
+<strong>STEVE:  </strong>I don’t know if I can say that.
+
+<strong>JOSH:  </strong>[laughs] Okay.
+
+<strong>STEVE:  </strong>[laughs] <strong>CHUCK:  </strong>I was going to say this isn’t a political or religious podcast, so…
+
+[Laughter]
+
+<strong>CHUCK:  </strong>In the interest of keeping our clean rating…
+
+[Laughter]
+
+<strong>STEVE:  </strong>But since we’re going to talk about secrecy today anyway, that also makes sense. I’ll keep that information redacted.
+
+<strong>JAMES:  </strong>[Chuckles] Yeah.
+
+<strong>DAVID:  </strong>Nice.
+
+<strong>CHUCK:  </strong>Here we go. The big long bleep.
+
+<strong>STEVE:  </strong>Yeah.
+
+<strong>JAMES:  </strong>So Steve, you gave us a scary talk at GoGaRuCo. What was that about?
+
+<strong>STEVE:  </strong>Yeah, so one of the interesting things about conferences is that whenever you pitch to a conference, it’s months before the conference actually happens. And so one of the things I’ve enjoyed doing as I’ve been trusted by conference organizers to speak more is I tell them, “Oh we’ll just figure out closer to the conference.” And then that way I can come up with something that’s much more topical. So Josh, since we’re friends, decided to entrust me in this way. And then it was shortly before the conference, we’re like, “Okay we do need to figure out what I should talk about now.” And then NSA leaks had been all over the media recently and I’m one of the people who have been talking about this topic. So we decided that I would a talk on that stuff since every Ruby conference has tons of non-Ruby talks as well. So it was a more, just like a “We are the people who build these systems. We should be thinking about the implications of the stuff that we build.” And so in that talk I put together some information about the history of surveillance, some stuff about certain software systems that we can use to help prevent ourselves from being surveilled. And then a little jab at how hard these things are to use towards the end. So that’s sort of the summary of the talk.
+
+<strong>CHUCK:  </strong>I think you should come give that talk in Bluffdale, Utah.
+
+<strong>STEVE:  </strong>Yeah. Yeah, that’d be great. For anybody that does not know, in the middle of Utah, the NSA -- or was it NSA? I think it’s NSA. Well, some three-letter agency of the government, has been building this massive, massive data center that is going to be able to hold the next hundred  years  of information produced on the internet, even taking into account our current rate of growth of producing information on the Internet.
+
+<strong>DAVID:  </strong>Yeah, it’s like a multi-petabyter, Exabyte of data. Yeah.
+
+<strong>STEVE: </strong>Yeah. It’s really, really massive and excessive and slightly terrifying.
+
+<strong>CHUCK:  </strong>I’m just angry that it slows down my BitTorrents.
+
+<strong>STEVE:  </strong>[laughs]. Well they’ve got to copy all those bits, too. So it’s going to take twice as long to copy all those bits, right? That’s how that works, right?
+
+<strong>DAVID:  </strong>You know if they would offer a caching service, we would line up to fund them.
+
+<strong>JAMES:  </strong>I know, right?
+
+<strong>STEVE:  </strong>Yeah, some people have said archive.org.
+
+<strong>JAMES:  </strong>Best app I’ve ever--
+
+<strong>DAVID:  </strong>Yeah. They’re going to end up with all the porn in the world. And we could just get it from them and it would be so much faster.
+
+<strong>JAMES:  </strong>[Chuckles]
+
+<strong>STEVE:  </strong>Yeah. So this is actually an interesting side-effect, talking about keeping track of all the porn. One of the things about this privacy situation that people don’t know is everyone does dumb things when they’re a teenager, right? So if you send a risqué photo to your boyfriend or girlfriend via, I’ll just say Snapchat even though Snapchat is not for that kind of thing because everybody laughs about it being so. One of the weird implications of this new world is that photo of you, when you think it's going to go away is actually going to be stored forever and ever into the future. So that's one of the parts of this changing social norms involved in this kind of surveillance stuff.
+
+<strong>JOSH:</strong>  You remember how when we were in high school and the principal would threaten us with having something go on our permanent record?
+
+<strong>STEVE:</strong>  Yeah. [Chuckles]
+
+<strong>JOSH:</strong>  It's a very Ferris Beuller moment, right? Now we actually have permanent record that matters that things can go on. But it's not something your principal can threaten you with. It’s the other way around.
+
+<strong>STEVE:</strong>  Right. And people change over time, right? So you guys know I care a lot about these social justice issues. But frankly, I used to be really freaking terrible about them. There was a time when I thought being gay was immoral. So if the personal record of everything I've ever said had been kept forever, it would be very easy for people to dig up me saying a bunch of terrible things in my past because I've grown and learned and changed over time. And so one of the weird things about this idea of a permanent record and stuff is that it doesn't account for the fact that humans are very different as our lives go on and go forward, right?
+
+<strong>JOSH:</strong>  Yeah, that's a good point. There's also our judgment in general improves as we learn and experience more. So I love seeing people--
+
+<strong>JAMES:</strong>  Theoretically.
+
+<strong>STEVE:</strong>  Yeah [chuckles].
+
+<strong>JOSH:</strong>  Okay. So we all have the potential [chuckles]
+
+<strong>JAMES:</strong>  Right. That's better.
+
+<strong>JOSH:</strong>  To learn and have our judgment improve. Some people don't take advantage of it.
+
+<strong>DAVID:</strong>  Thank you.
+
+<strong>JOSH:</strong>  [Chuckles] I know I've said some pretty ridiculous things about programming as recent as 20 years ago.
+
+<strong>DAVID:</strong>  [laughs]
+
+<strong>JAMES:</strong>  One of the things I really liked in your talk, Steve, was at one point you talk about people who say, "I've got nothing to hide," which was so funny because that was so me going into your talk. I would say that, "Oh I have nothing to hide." And you said that that means I'm under-informed on this issue, which I liked. Why do you say that?
+
+<strong>STEVE:</strong>  So the reason I say that is because even if you don't have something to hide, the details around what you do can form a story that's very different than what actually happens. So an example from my talk, I used this hypothetical situation where let's say that you have just the phone record. So one of the things from these various NSA scandals was that they had access to all the metadata about phone calls. So metadata being data about data. So they don't have the actual details of the phone conversation. In some cases they do. But in this case for this purposes, let's just assume that all they know is who you called and at what time. So with those two bits of information, if I told you that a woman called a man that she works with a couple of times during the day and then went to a doctor's office that did women's health care services and then she called that man again and then called her husband and then called her mother and then called an abortion clinic, you would have a mental model of a story of what happened in your head even though that may not be the story that actually happened. So one alternate scenario is that she found out that her daughter had gotten pregnant and needed those kinds of abortion services and she was calling the father of the person who got her daughter pregnant. So the story can be something that's totally different than what you actually do. And it can look really, really damning. Or even if you don't have anything to hide in some senses, especially when you start talking about people who do not have privilege, it's very difficult. So for example, there are many places in the United States today, including a recent story I heard from someone in New York City about getting beat up if you were gay. So even if you may be not one to hide that aspect of your personality, if you're a teenage kid in some place where that's not acceptable and the metadata shows this image that you're gay, which is a thing that happens and that comes out, it can have very negative consequences for your life. And that's really dangerous, right? So it doesn't actually matter if you're doing anything moral or immoral. People have privacy reasons for a variety of things.
+
+<strong>DAVID:</strong>  My wife has had that almost exact day happen to her. And she was a billing clerk for a medical insurance company. So she went to the doctor and she picked up the billing information and she went to the abortion clinic and picked up the billing information.
+
+<strong>STEVE:</strong>  Right.
+
+<strong>DAVID:</strong>  So it's a completely different day.
+
+<strong>STEVE:</strong>  Absolutely. So you don't have this complete picture of what goes on and it can be scare. And then when it's there forever to be dug up at any period of time. I always think whenever they interrogate someone on the cop shows, they're like "Where were you the night of the 17th at 6pm?" And I'm like, I don't remember what happened last week, man. [Laughter]
+
+<strong>STEVE:</strong>  I can't tell you where I was at that particular time. So when you have this massive database of facts, part of this also is that we implicitly trust the computers have the true and accurate facts about the world, which is a whole other can of worms. But when you have this, "We have a database with the logs and it says at this time period you went and did this thing. Did you?" And you're like, how are you supposed to say no or maybe? It's very different.
+
+<strong>JOSH:</strong>  Isn't there a feature on the iPhone for that now?
+
+<strong>STEVE:</strong>  [Chuckles]
+
+<strong>JOSH:</strong>  It'll just tell you where you were at what time.
+
+<strong>STEVE:</strong>  I think so.
+
+<strong>JOSH:</strong>  So I think the "You've got nothing to worry about if you've got nothing to hide" attitude is interesting to compare to what the government itself and what corporations are pushing forward, which is more secrecy and more ability to protect what they're up to. And you contrast that with individuals. We’re losing our privacy and our ability to protect our personal information.
+
+<strong>STEVE:</strong>  Yes. There’s simultaneously, Edward Snowden is the most terrifying person in the universe because he can see all of the secrets but when a government wants to see the secrets, it's totally cool and harmless and we shouldn't worry about it. It’s like there's definitely some sort of weird non-consistency there.
+
+<strong>DAVID:</strong>  It's not weird and inconsistent. It’s terrifying.
+
+<strong>STEVE:</strong>  [Chuckles] That's true.
+
+<strong>DAVID: </strong> It's control fraud. People in power are seeking to increase their privacy and their ability to wield that power. And people who are out of power are losing secrecy and their ability to avoid being controlled by the people in power. Why are we not crapping our pants over this?
+
+<strong>STEVE:</strong>  Yeah. I just laugh. I’m enjoying the fact that I’m not the one that's going all super intense about this. [Laughs] [Inaudible]
+
+<strong>DAVID:</strong>  Excellent.
+
+<strong>JAMES:</strong>  [laughs]
+
+<strong>STEVE:</strong>  Yeah, it's a problem. It’s super hard. It’s super hard to get people to care.
+
+<strong>CHUCK:</strong>  Well one other thing that I find interesting about this discussion is the fact that you're saying that problems arise from there being incomplete data. And instead, I think a lot of people freak out because maybe the government is hearing and recording everything, not just that they're keeping track of when you made the call and who you called and how long it lasted and where you were when you made the call. But people freak out because they assume that the government has the phone call or has the location data where you were all the time off of your iPhone. And it's interesting, the different ways that people worry about this where some of them are just like, "Well if they have any information then that's bad," and other people worry that they have all the information and that that's bad.
+
+<strong>STEVE:</strong>  Right. It also depends on what your aims are too. So for those of us of the persuasion that our government is mostly in the wrong and probably should be significantly altered, that is a statement of threats. So therefore, we do worry about full plans because sometimes the things that we do... One of the other things that ties in with this too is that I’ve read, I think the statistic is two felonies a day that you commit. Every single person in the States commits two felonies a day.
+
+<strong>DAVID:  </strong>Yeah, but that’s an average.
+
+<strong>JOSH:  </strong>Yeah, I’ve heard three.
+
+<strong>DAVID:  </strong>I’m carrying a lot of people.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>That’s what I was going to say.
+
+<strong>DAVID:  </strong>Just two?
+
+<strong>STEVE:  </strong>Right. So it’s really impossible to know all of the laws that you’re actually bound by and what the implications of those laws are. And once you start getting into international treaties and all these other things, nobody’s a domain expert other than lawyers in law. So it’s unreasonable to expect that we’re able to know all laws that apply to us. And it’s impossible to follow all of them because a lot of them are contradictory because they’re made by humans and humans are not exactly super consistent. So it’s very, very difficult. So for example, let’s just even take California. So you can be doing something, medical marijuana which is totally legal under California state law but is illegal at the federal level. But Obama has said that he’s not going to prosecute normal people that are doing it so you’re kind of safe, probably.
+
+<strong>JAMES:  </strong>As long as you qualify as a normal people.
+
+<strong>DAVID:  </strong>Uhuh.
+
+<strong>CHUCK:  </strong>[Chuckles]
+
+<strong>STEVE:  </strong>Exactly, right? So there’s this really Kafkaesque situation where you can’t actually know all the things that you’re doing wrong and you can’t actually know what all the punishments are. And it’s basically until the Eye of Sauron looks at you that you then can have all this stuff dug up. And since we’ve normalized this idea that everyone [inaudible] [so I normalized it] but since everyone breaks laws continually and that’s just a thing, that’s like a norm. Nobody’s going to say you’re a bad person for speeding, for example. Maybe there are some people that do. But I never found anyone who has not sped occasionally while driving. But if you then have this record of speeding over time and then in the future you become interesting, now you have this wealth of back history. So that’s a big problem.
+
+<strong>DAVID:  </strong>And the Eye of Sauron, well that gets into the notion of selective enforcement where if you have ubiquitous surveillance and a government that is biased towards one group, we could go after – let’s just turn the stress of the call up a notch – we could go after all the gay people or we could go after all the Mormons. Hey, why not? Let’s pick a side, right? And we could just selectively enforce them and basically say, “Here are all the times you were speeding. We’re going to revoke your driver’s license.” Bam! All of the gays and all the Mormons are now walking.
+
+<strong>STEVE:  </strong>Absolutely.
+
+<strong>DAVID:  </strong>And everyone, we could basically put the entire country on its feet instead of just one or two groups. But we choose which group we want. We decide that Edward Snowden is a criminal and then we go get the evidence because we’ve got evidence on everyone now.
+
+<strong>STEVE:  </strong>Right.
+
+<strong>JAMES:  </strong>And it’s important to stress that biases like that don’t have to conscious decisions. We have tons of documentation about how all of us carry around these biases that are just programmed into us because of where we grew up or things like that.
+
+<strong>STEVE:  </strong>Yeah, absolutely.
+
+<strong>JOSH:  </strong>The other side of the conversation is there’s always a cost benefit analysis in these things. And if the benefit that we were getting from all of this surveillance was it was actually making things better significantly, then I think it would be a different conversation to have. But nobody can actually point at and of this surveillance and say that it’s having a positive effect. That it’s actually making people safer or catching criminals or preventing terrorism.
+
+<strong>STEVE:  </strong>Right. You can only make that statement in a very broad way. You can’t point any specific incidents. And as ridiculous as the “Well let’s give all the gays and Mormons speeding tickets” angle is, you do have to remember that it was only the 1940s that we literally rounded up all the Japanese people and threw them into camps. So our government has done things very similar to that in the past. Like, “We suspect that you’re conspiring with an opposing government. Therefore, we’re going to throw you in a camp.”
+
+<strong>DAVID:  </strong>Well that was okay though because they were bad guys.
+
+<strong>STEVE:  </strong>Right, exactly. Yeah. And I know what you’re saying. But also, it’s not conspiracy-theory-level to suggest that specific groups of people may be targeted by the government and have really shitty things done to them. Just look what we do to Muslims right now.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>Well and the “They’re the bad guys” thing, look at the recent government shutdown. Depending on which side you’re on, you’re really angry at the other side. Because they wouldn’t compromise on something that was obviously good and okay. So who’s to say that we’re going to target that group because they generally sympathize with our political rivals?
+
+<strong>JAMES:  </strong>In defense of our government, sort of, I do think they are in an incredibly challenging position. As citizens we expect them to stop things like terrorist threats and stuff like that. And we just assume that they do that. But we also tie their hands in some ways like “Well, okay. But you can’t invade anybody’s privacy when you’re doing it,” or whatever, which makes it really hard. Because you have to have lots of information in order to know what’s coming or whatever. I think I understand how things like this come about, how you end up in this scenario. But at the same time, once you’re there it’s hard not to see the ridiculousness of it, of something like grabbing the metadata off of all the phone calls or something like that.
+
+<strong>STEVE:  </strong>It’s also hard to remember too that there is vast support for a lot of this from a large majority of the populace. So it’s really easy to paint this as the government doing terrible things to us that we don’t want. But there are a significant number of people who do want this kind of thing. So that’s its own kind of issue.
+
+<strong>JAMES:  </strong>Right. Yeah, that’s a really good point, actually. How long has this been going on? It surprised me in your talk. We talked about the significance of the Utah location. In your talk you talked about the significance of giving it in San Francisco and you give a pretty old example there.
+
+<strong>STEVE:  </strong>Yeah, so one of the examples from San Francisco directly was building, I think the address is 641 Folsom Street or something. That’s where AT&amp;T’s offices are in SoMa, which if those of you who don’t know the details of San Francisco, that’s where all the startups are. And basically they had a wire splitter on the backbone internet connection to copy all of everything and just keep it. So that was something that happened in the last 10 or 15 years. I don’t remember super specifically when. But generally speaking, surveillance is something that’s much older than the internet, too. The internet has just allowed it to scale and has changed the nature of surveillance. But we specifically surveilled Martin Luther King for example. The FBI wrote a letter to Dr. King suggesting that he should kill himself as an example of something that we do to people that we find politically inconvenient. So the internet has made the nature of their surveillance change and made it much less personal. But the amount of surveillance the NSA can do today would make the Stasi over – they would kill people for this kind of information.
+
+<strong>JOSH:  </strong>I was actually just going to bring up the Stasi. And that if you look at our reactions to government surveillance of the populace in decades past, I remember in the ‘80s, people would talk about the Stasi like it was the worst thing you could do to a society.
+
+<strong>DAVID:  </strong>Can we get a definition? I just learned about the Stasi a year ago from reading James Bond novels.
+
+<strong>JAMES:  </strong>I do not know what they are.
+
+<strong>STEVE: </strong>Okay.
+
+<strong>CHUCK:  </strong>Yeah, I was going to say I was in elementary school in the ‘80s. So I have no idea.
+
+<strong>JOSH:  </strong>[laughs]
+
+<strong>STEVE:  </strong>So basically it was like whenever Germany was split to the East Germany and West Germany, the Stasi is an abbreviation for a bunch of German that I don’t know because I have not done enough Duolingo yet. [Chuckles] But basically they were essentially like the NSA of the East Germany half.
+
+<strong>JOSH:  </strong>It was the secret police.
+
+<strong>STEVE:  </strong>Right. So they did tons of surveillance on citizens. They collected data about what was going on and just shenanigans, et cetera.
+
+<strong>JOSH:  </strong>And one of their big programs was that they paid people to inform on their neighbors.
+
+<strong>STEVE:  </strong>Right.
+
+<strong>DAVID:  </strong>Wow.
+
+<strong>CHUCK:  </strong>That’s nuts.
+
+<strong>DAVID:  </strong>Black market in ratting people out.
+
+<strong>JOSH:  </strong>Yeah. Whereas we just like people on Facebook now.
+
+<strong>STEVE:  </strong>Right. [Laughter]
+
+<strong>DAVID:  </strong>That’s my price. I would do it. You name the crime, I’ll tell you how many likes.
+
+<strong>STEVE:  </strong>So here’s another interesting thing too, since you brought up liking on Facebook. One of the weird situations about how we don’t fully understand the systems we build, and this is the software angle, we should care. Even if you theoretically don’t care about your privacy, whatever. That’s fine. But as software developers, we have to think about what our task in the future is. So we only think about the Facebook like button as being a way for Facebook to know the stuff we like, right? But the problem is cookies. So when you log into Facebook, anytime you connect to Facebook.com you send a cookie along to it. So you embed the Facebook like button on your website, that means that the Facebook cookie with the refer information of the page that you’re on gets sent to the Facebook button. So as one really silly example again of something that’s just moderately embarrassing that people might want to keep secret is for example your porn preferences. So I obviously have just heard this. I don’t know this from personal experience, but lots of porn websites have social media integration these days. So they have
+
+<strong>DAVID:</strong>  You didn’t hear it from me.
+
+<strong>STEVE:  </strong>Yeah. I’ve heard this through industry research that there’s Reddit like buttons and even Facebook like buttons and Twitter share buttons and all that stuff. So if that embeds any content from Twitter or Facebook, Facebook could know the porn that you’re looking at even if you don’t actually like any of those buttons because the iframe would send along the refer data from the page that it was being embedded into. So they can keep track of that information because of the systems we build. So it’s not an intended consequence of the way that we make [this thing].
+
+<strong>CHUCK:  </strong>I want to get one level deeper on this real quick and that is that
+
+<strong>JOSH:  </strong>Can you hang on? Because I want to say how to deal with that. So there’s actually a fairly straightforward way to mitigate that problem. And I use Fluid app on the Mac to run my Facebook, my Twitter, and my Gmail. So basically things that have long-running cookies that they get just what Steve was talking about. If you have a Facebook cookie in your browser, it can tell Facebook about what sites you’re looking at.
+
+<strong>CHUCK:  </strong>Oh, I so couldn’t have asked for a better setup. Keep talking.
+
+<strong>JOSH:  </strong>Yeah, so in my main Safari, I keep it flushed of cookies from Facebook and Twitter and other social sites and I only run those things in a Fluid App that has a separate cookie jar so those cookies never get into the main Safari cookie jar. So if I go and look at a site that has some weird crap on it and a Facebook referral link, then Facebook doesn’t find out that I’m looking at that. And I just do that as a matter of course to keep things separate so that things don’t get all blown up all over the place.
+
+<strong>JAMES:  </strong>There can be a lot of advantages to doing stuff like that too, just in that Fluid gives you a way to apply style sheets just to those things and stuff. Like I recently put Facebook in a Fluid app and then built a style sheet that went and shut off all the ads which were a third of Facebook’s page now. And then I had all this room and stuff. There can be other nice side-effects of that. But yeah, what Josh is basically saying is by keeping Facebook in that separate app then only Facebook has Facebook’s cookies or data. And then when we’re browsing around the web and you go to some site with Facebook integration, it doesn’t actually know who you are and can’t use that data.
+
+<strong>CHUCK:  </strong>Yeah. One thing I do want to point out though is that I have had, and this is where I was going before, I have had at least two, maybe three ISPs where I could actually sign into the web portal that they have and I could go and look at all the websites that I’ve been to. So they keep track of it. So even though Fluid keeps Facebook from knowing it, or if you use Chrome’s incognito mode so that it shuts all that stuff off and all of the plugins in your browser that may be tracking some of this information, your ISP knows where you’ve been going. And so even still, there is some level of somebody knowing this information. And it’s possible for them to use it against you. Now hopefully they’re being benign about it. But we’ve had things come out in the past where the government or other entities have worked out deals with ISPs and other companies to basically gather all that data anyway.
+
+<strong>STEVE:  </strong>Right. You can correlate access times. Tor is a tool that I talked about that can help protect your privacy to a certain degree. But if you have a significant amount of data on the entry and exit points of Tor, you can correlate the access times and you can know that someone is visiting that site, even if you lose the trail in between, especially when you want to get targeted information about “Is this person going to this site?” It’s not always perfect.
+
+<strong>JAMES:  </strong>So what is Tor? How does it work? Why don’t we talk about that?
+
+<strong>STEVE:  </strong>Yeah. So Tor is a project that conspiracy theory here was originally started by the Navy. What’s interesting about all of the stuff we do with technology is so much of it comes out of military research. So the reason that the web is decentralized is because we wanted to be able to survive nukes taking out a city or whatever. So same sort of deal with Tor. Tor is short for The Onion Routing protocol. TOR, The Onion Routing. And basically what it is, is they use the onion to describe it because you basically layer up an internet connection with multiple levels of encryption. So let’s say that I want to visit a website. So we’ll just say the Ruby Rogues website. What happens is when I sign up and I turn on Tor, which the easiest way to do it is to go grab the Tor browser bundle from Tor’s website which includes a Firefox that has the Tor access stuff pre-setup so just like you build a Fluid app for a different site, for different things, it’s really nice to have this Tor-enabled browser to leave your normal browser alone. But you start up Tor and what happens is your computer connects to the Tor cloud of servers and it says, “Hey is there any good entry nodes that I can use?” So it chooses an entry node. And what happens is when your browser says, “I would like to go to foo.com,” it sends that to the entry node. And what the entry node does is it picks, well I shouldn’t say super [inaudible] picks but basically the Tor network determines how to route your request through at least three servers and it wraps them in encryption every time. So server A sends a doubly-encrypted message to server B. Server B unwraps one level of encryption and then sends that message to server C. Server C unwraps that next level of encryption and then sends it along. So what happens is that B does not know who sent the message to A. They just know they got a message from A. And C does not know who sent the message to B. They just know they got the message from B. So at every bounce that happens through the system, you unwrap a level and you lose one round of history. So it’s impossible to trace the connection back to the original person because it’s gotten lost in this bouncing around. So the downside is, as you can imagine, it’s pretty slow. Because you’re connecting through at least three intermediate servers before getting to your final server and it doesn’t protect against everything. So like I said, if you have both ends you can correlate the access times and know that it’s like, “Oh this person is browsing this site.” If a large number of nodes were compromised by a particular entity, then they could know all, have enough nodes known to be able to say, “Oh A did sent the message to B and B did send a message to C and C did send a message to D,” or whatever. But we have pretty good reason to believe that most of those nodes are not compromised. And there’s also if there’s a bug in Tor, obviously that can be a problem.
+
+<strong>JOSH:  </strong>Okay, so short of the level of anonymity that Tor provides and all of the onion routing, what about just straightforward anonymizing proxy?
+
+<strong>STEVE:  </strong>Yeah, so basically as long as you can trust that the person who runs the proxy is not actually keeping the data, which is something that you maybe can’t. Because a lot of these issues really do come down to trust and who you trust and how much you trust them. So if I was running an anonymous proxy that’s like “We keep no log files. We throw everything away every 30 seconds,” or whatever, then you probably can trust that that’s okay. Probably. It just depends on at what point they are then forced to… One of the weird things is national security letters. So if the government sends a national security letter to you, you are not allowed to talk about the fact that you received a national security letter. So even if you were running a free anonymous proxy and then you get a message from the government and they say you must install this software that keeps track of all the log data, and by the way you’re not allowed to say that we told you this, you then have to keep telling people essentially a lie or face criminal contempt of court charges. And being attacked by the government is a scary thing.
+
+<strong>JAMES:  </strong>This has been a problem in some of the recent cases that as the NSA starts to apply these pressures and stuff, very few companies are able to stand up to them because as you said, just doing that puts you on a severe side of criminal law. And it can get very ugly, very fast. So only very large companies will do anything at all about standing up to them, and sometimes not even then.
+
+<strong>CHUCK:  </strong>Wasn’t there an example of Google doing that?
+
+<strong>DAVID:  </strong>Lavabit made the news as well.
+
+<strong>STEVE:  </strong>Yeah.
+
+<strong>DAVID:  </strong>Because they chose to fold up their operations instead of turning stuff over.
+
+<strong>JAMES:  </strong>That’s right.
+
+<strong>DAVID:  </strong>And they’re getting hammered with contempt of court stuff.
+
+<strong>STEVE:  </strong>Right.
+
+<strong>JOSH:  </strong>What about hosting stuff outside the US?
+
+<strong>STEVE:  </strong>So one of the weird problems is that we exert a modern from of imperialism where we make other countries follow our laws even though they’re our laws. And one way that we do that is through free trade agreements. For example right now, this morning WikiLeaks leaked the contents of this document called the secret Trans-Pacific Partnership trade agreement, TPP PPPPPP [Chuckles].
+
+<strong>CHUCK:  </strong>That’s our government.
+
+<strong>STEVE:  </strong>Yeah. And so basically they essentially say if you don’t follow our copyright laws, then shit’s going to get real bad for you. And so even though other countries may have better information on server stuff, first of all our country is not beyond just straight up hacking your shit because it’s in another country so we can get away with it. So we do this to China all the time and we brag about it. Stuxnet was revealed to be created by the Israeli defense forces and I think that we had some involvement in Stuxnet as well. And so first of all, they just don’t care about the rule of law in other countries. So you’re probably hosed. And they may not be willing to stand up for… imagine this is the conversation, right? Okay [chuckles]. I like to make lots of analogies to my parents sometimes. So I used to get really mad that my dad would not let me play video games that I wanted to play because he knew that I was in the right to play video games my mom thought was wrong. But once I grew up and got a girlfriend, I realized that if I had a kid, I’m not going to pick a fight with my wife just to let my kid play video games. So it’s the same kind of thing where if you’re the French government and I am a United States citizen and the United States government says, “Hey France, we really want this person. Yeah, we might have to violate some of your laws to do it but we’re going to nail him anyway,” the French government is not going to stand up for you, the individual, to ruin their trade agreements and cause an international kerfuffle.
+
+<strong>CHUCK:  </strong>Well especially since you are the US’s kid, not France’s kid.
+
+<strong>STEVE:  </strong>Exactly. So the incentives are just not there to actually protect you.
+
+<strong>CHUCK:  </strong>Yeah, it’s pretty interesting. And between your house and France, they own all the pipe all the way over there.
+
+<strong>STEVE:  </strong>Yeah. So that’s definitely a problem.
+
+<strong>DAVID:  </strong>And they own a lot of, you look at the internet topography, we own a lot of the pipe between France and Belgium. You send an email from Paris to London and it goes through San Francisco.
+
+<strong>STEVE:  </strong>And also two, you have to remember that courts are interesting. So for example, this is not related to privacy but it’s one example of the government using courts to silence people for various reasons. So I have a friend of a friend who lived in Salt Lake City a while back. And he was concerned about the fur trade. So he had some meetings to discuss some activism that can be done around this fur trade. And he had three meetings and after the third meeting, a fur factory burned down mysteriously. So the government called this thing called a grand jury, which is something that activists know a lot about but individuals often don’t know about (grand juries), basically to investigate who burned down this factory. Now my friend of a friend was called as a witness to this grand jury which by the way, all the proceedings are secret. And basically they said, “We know that you did not burn down this factory. We know that you were not involved in it directly in any way. All we want to know is the names of the people who were at the meeting.” And he said, “I’m not telling you.” And they said, “You do know that this is not a court of law, so you do not have your Fifth Amendment rights. And it’s not even about you, so it’s not self-incrimination. So you have to tell us.” And he said, “I’m not telling you.” And they said, “That’s criminal contempt of court.” And he said, “I’m not telling you.” So they actually threw him in jail for, I believe the initial sentence was six years or something and he got it reduced down to a year and a half or two years. But even though they said, “We know that you did not commit a crime, but you need to tell us who these people are,” and so that’s super, super negative. And it’s something that happens to activists quite a lot. So those kinds of things could happen to you as a software owner running a thing. “Tell us who your users are, or else we’re going to throw you in jail,” is very common.
+
+<strong>JOSH:  </strong>So one of the things that we were told – this is a little bit of a tangent – I’ve worked on healthcare applications and one of the things we were told is, it’s the same thing for credit cards, you don’t want to collect any information about your users that you don’t actually have a need for. And it just makes it easier not to have to take care of the data at all. You can say, “Okay great. We’ve collected their social security number and we’ve used all these layers of encryption and data hygiene to make sure that nobody can get access to it,” but if you don’t actually have a need for that data, just don’t collect it. And then the cost of having to manage that data securely is zero. So it’s just a general best practice not to collect any information that you do not have a need for. And I think it’s the same thing with “What is your user list?” If the only thing you have for your users is the email addresses that they logged in as, that’s a lot better than having their name and their phone number and their social security number and their credit card number and all that. But if you’re clever enough, you can build something that doesn’t require any email address. You can just do it based off URLs or whatever. So at some point it becomes work not to collect anything from users, but there’s definitely a nice local minimum where it’s easy not to collect the information. And then you don’t have to worry about compromising your users.
+
+<strong>STEVE:  </strong>Right. One of the trends is lean startups. And one of the things about lean is that you need to perform experiments to understand your business better. And a lot of those experiments involve collecting data and crunching data, [inaudible]. You should be making data-driven decisions about your startup. So that has been a social movement over the last couple of years is, “collect more data, collect more data, collect more data,” but not necessarily for nefarious purposes but can be accidentally used for such.
+
+<strong>JAMES:  </strong>Yeah. It’s shocking how much data can easily be used. Does everybody remember the Firesheep, the Firefox plugin?
+
+<strong>CHUCK:  </strong>Oh, yeah.
+
+<strong>JAMES:  </strong>It just grabbed your cookies and then boom, they were logged in to all the sites you were interacting with right then. And it’s like, “Wow that’s shocking.”
+
+<strong>STEVE:  </strong>Yeah. For anyone who’s not familiar with Firesheep, it was a plugin for Firefox that basically anyone else who was connected to your local network and had non-secure cookies, it would show you a copy of them and allow you to be logged in as that person. So you could, before Facebook and GitHub and stuff required HTTPS for logging in, you could go to a Wi-Fi café, connect to their free internet and then see everyone in the café who was on Facebook and just click on one of their names and you’d be logged in as them because it would steal their cookie.
+
+<strong>JOSH:  </strong>What do you call that? A session replay attack?
+
+<strong>STEVE:  </strong>I believe that that would be yes, a session replay. I think.
+
+<strong>DAVID:  </strong>And that touches up to a really important point. So far we’ve been talking about big nebulous things that don’t really affect most of us directly on a day-to-day basis, like governments and international politics and that sort of thing. But if you read ‘The Art of Deception’ by Kevin Mitnick, he talked about private investigators and what they will do to acquire information and the speed with which they can gain access to bank account information. And identity thieves are very, very sophisticated. And yeah, I’m running, whatever Google Latitude has changed and it’s got a different name now, but my phone now knows where I work and where I eat lunch every day and it’s telling me right now that I’m eight minutes away from my favorite café. It knows my patterns from day-to-day of physical travel. And when I flew to Austin for LoneStar Ruby Conf, it knew that I was traveling and it constantly told me how many minutes away I was from the airport because it knew very soon that I was going to need to get back to the airport and I needed to know how much time that was going to be. So yeah, the government’s got that. Fine, whatever. It’s in Bluffdale, Utah and they’ve got a copy of it. But Google is hackable. It’s exposable. Adobe just got leaked, what 130 million usernames and passwords. And if you’ve shared your password between your Adobe account and any other account, they’re going to try that and they’re going to get in. And now all of a sudden, a private investigator or an identity thief knows where I am, where I typically am at a given time. And that starts to create physical vulnerability. They know when they can come burgle my house. I’m not saying that’s their primary goal, but that’s what I mean. This information is so much more. It’s available to the criminal class, which does affect us on a day-to-day basis. We all know somebody who’s had their bank accounts drained by an identity thief.
+
+<strong>JAMES:  </strong>How can we balance those separate needs? There’s this push from mainstream consumers I think for things like Google Now and things like that, that relate all these details and give you this up-to-date information. And as we push forward with things like Google Glass, that becomes even more valuable. I look at something and I get all of this information and data about it. But the flipside of that is that that’s more data that can link to all these other things about me and you can learn ridiculous amounts of things about me. The PlayStation store’s been hacked multiple times. What can you learn just by the video games people play and stuff like that? How do we balance that?
+
+<strong>STEVE:  </strong>One of the things, I’m not even sure that it is balanceable because it is going to happen now regardless of whether we want it to or not. So I don’t 100% know what the answer is exactly, but I do know that we can’t really turn the clock back. That’s not really an option.
+
+<strong>DAVID:  </strong>Yeah. Going off the grid is no longer an option. We can find you just by the dark spot in the grid.
+
+<strong>CHUCK:  </strong>Well and I’m really curious too. At what point do people in general start getting upset or worrying about it? I know that the government’s going to walk a fine line to not tick off a majority of people and really cause themselves a problem? Or at least I would assume--
+
+<strong>JAMES:  </strong>I don’t know.
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>JAMES:  </strong>This whole Snowden thing, a lot of people have been mad about that from the get go and it doesn’t seem to faze them very much at all. How long was it before Obama even said, “I’m going to look into the NSA practices”? He didn’t say that ‘til recently, right? <strong>CHUCK:  </strong>Yeah.
+
+<strong>STEVE:  </strong>And just the general act of blowback too. We landed a plane with the head of a sovereign nation on it because we thought he was on the plane. So that is just completely mind-blowingly ridiculous and we have suffered no consequences. So part of the issue is just that there is basically no drawback for what we’re doing. So our government is making rational decisions because there’s no negative. And I’m not saying that there’s going to be a negative anytime soon. But that’s the problem in my perspective, is just that there’s no limiting factor. And so it’s hard.
+
+<strong>JOSH:  </strong>Okay, so you say that there are no negative consequences, at least in the short term. Well we don’t actually know. We’ve seen how much of the government’s business is conducted in secrecy and we don’t know what kind of negative repercussions have happened in secret diplomatic channels.
+
+<strong>STEVE:  </strong>Right. That’s true. And also you have to remember too that, so everyone pays attention to the point at which things become visible, but a pot of water goes from 0 to 100 degrees before it starts boiling. So every 10 degree increment doesn’t look any different until you hit the boiling point and then all of a sudden it’s like, “Whoa, that 10 degree change is a super big deal.” But it’s not, actually. It’s about gradual buildup. So it definitely is possible that we’re in a stage of gradual buildup for an eventual backlash. Absolutely. And that doesn’t mean that the gradualness should be discounted either.
+
+<strong>DAVID:  </strong>There’s a depressingly optimistic counterargument to the “There’s no negative consequences” and that is that saying that there’s no consequences for the number one superpower in the world doing all this crap, that is exactly the “too big to fail” argument. And that has been proven not to work. And the reality is we’re not the number one superpower in the world in anything except for incarcerating people. We’re number four at best in everything. So it’s coming. There’s going to be a time when we’re going to mess with China and China’s going to say no. And there will be a backlash. And wow, not I’m into political doomsday-ism. Quick, somebody tell a fart joke.  Oh wait, that’s my job.
+
+[Laughter]
+
+<strong>DAVID:  </strong>But my point is that it can’t go on forever. And we can’t go off the grid. So maybe the solution is to push back on those in power and say, “No. If we don’t get privacy, neither do you. We need total transparency across the board.” And I realize that’s kind of a pipe dream as well right now. But it certainly could be helpful. I think if we were all educated on what information was allowed to be secret and why and there were watchers to watch the watchers basically, instead of this single corruptible absolute power central agency, I’m think it could maybe work.
+
+<strong>JOSH:  </strong>Let’s talk about Bitcoin.
+
+[Laughter]
+
+<strong>JAMES:  </strong>Okay, let’s.
+
+<strong>JOSH:  </strong>That was about three mental leaps from what you were talking about.
+
+<strong>DAVID:  </strong>Yeah, sorry.
+
+<strong>JOSH:  </strong>No, but “people watching the watchers” and all that is very much thinking along the mindset of what got us into all this trouble. And as Einstein often gets misquoted, “You can’t solve a problem with the same mindset that you used to create it.” [Chuckles] But if you look at something like Bitcoin. Whether or not you like Bitcoin or other merits of it can be debated, there is this cool thing about it where it’s meant to be this distributed anonymized accounting system. And you can make sure that everybody’s paid everybody the amount they should without compromising their identity. And when I went to work on smartcards in the ‘90s, I thought it was really cool. This was on the brink. People were talking about anonymous secure transactions. And it looked like there was a chance that we were going to be able to come up with an electronic replacement for cash that was just as anonymous as cash. And I said, “Hey this is really cool. I want to be part of that.” And then a few years later, just everyone had given up on that and they said, “No, the governments will never allow us to do financial processing without being able to track the identities of everyone involved.” And everyone just gave up on it. So I think there is something like a war going on where there are people who are trying to create systems that are decentralized and are essentially impervious to the kind of surveillance that we’ve been talking about. But there’s a lot of pushback against creating those systems.
+
+<strong>STEVE:  </strong>The WikiLeaks guys actually talk about this a lot. So if you read some of the stuff that Julian Assange and Jacob Appelbaum have written, they talk about how encryption is like the laws of physics. Math does not bend for governments. So if you can create a strong enough encryption, it doesn’t actually matter who is paying attention because if it takes more processing time than we have, seconds left in the universe before the sun collapses, then it’s effectively secret.
+
+<strong>JOSH:  </strong>Okay. But--
+
+<strong>DAVID:  </strong>We think.
+
+<strong>JOSH:  </strong>I think that mindset of “do things in a decentralized way”, there’s something there. And I don’t know how much the… Like you said, nobody knows all the laws that they’re breaking [chuckles]. So are there laws about what we have to collect on people and how we have to manage that data? That means that we can’t be as anonymous as we’d like.
+
+<strong>STEVE:  </strong>Yeah. It’s definitely a non-trivial problem, for sure.
+
+<strong>JOSH:  </strong>Okay. So short of worrying about those laws, what are the kinds of things that we as web developers and software developers should be doing so that we are not unnecessarily compromising our users’ privacy?
+
+<strong>JAMES:  </strong>Yeah, I think that’s a great question. We’ve already talked about some individual things like Tor and placing your apps in separate containers to get cookie jars or when Firesheep was big, everybody would tunnel over ssh to get their internet connection when they were out in public and there were tools for that like Sheepsafe and stuff that helped you dodge that. So yeah, what’s on an app level?
+
+<strong>JOSH:  </strong>Now there are some basic stuff that I think that most web developers who are awake and not under a rock know about and that’s like you don’t store passwords in clear text in the database. And one that most people I think are aware of is that if somebody tries to login and fails, you don’t tell them what failed, the user id or their password, you just say you can’t log in. That way, you protect against attacks that are trying to fish to say, “Oh does this user have an account on your system?” So you don’t even let them know that. And then if somebody tries to go to a page in your application that is protected by authorization controls, you just give them the 404. The page isn’t there rather than letting them know there is a page there, but they can’t get to it. There are things like that that we do in building our applications in the name of security. So what are the things we’re doing in the name of protecting our users?
+
+<strong>STEVE:  </strong>I think the most fundamental things to remember is that technology is not agnostic. We like to pretend that the tech that we build doesn’t have any effect on the real world or on people or that it’s apolitical or that it doesn’t actually affect anyone, but that’s not actually true. So you have to think through what are the implication of what you can do, which is the most important first step is just having the mindset of acknowledging that this is an issue. So yeah, I think all those suggestions are good obvious ones, Josh. I think that a lot of this for me comes down to what’s the worst case scenario and what does that look like? So if my database was opened tomorrow, who would be in trouble and for what? So if we start storing this extra kind of data and that gets leaked, what are the possible implications of that? Should we be storing this somewhere or not? People think about this with credit cards all the time. That’s why you don’t want to deal with PCI compliance so you pay someone else to handle your payment stuff so you don’t have to deal with that regulatory issue. Because if you had leaked people’s credit card numbers, you’d be terrible, right? So if we start thinking about data in that kind of way. There are other kinds of data that are valuable, not just credit card info. That’s a good mindset to get into to help start working on these kinds of things.
+
+<strong>JAMES:  </strong>What are kinds of valuable data? That’s a good question, actually.
+
+<strong>STEVE:  </strong>Everything is. That’s part of it. [Chuckles] Everything is valuable to a certain degree. So if you what email addresses people use, you can then correlate things together. If you know what access they come from, you can know that I am for example not in my hometown right now because you can see via my Twitter that I tweeted about it being cold in Brooklyn last night. So you can make an educated guess that I’m probably not in Los Angeles. And so it’s those kinds of things. I think it’s super individual. It’s hard to really say in general like this is data that’s useful and this is data that’s not. All data is useful. The question is, for what?
+
+<strong>JOSH:  </strong>Right, yeah. I know. Personally, I don’t do any of that foursquare check-in that lets people know where I am. Because I’m a little paranoid about that kind of thing. On the other hand, if I go speak at a conference, everyone in the world knows that I’m in Portland or Miami or someplace and not at home. So there’s definitely past a point where you can’t be lurking in anonymous and protecting your identity completely unless you’re Why The Lucky Stiff.
+
+<strong>STEVE:  </strong>Right.
+
+<strong>JAMES:  </strong>[laughs]
+
+<strong>JOSH:  </strong>And going that route.
+
+<strong>STEVE:  </strong>And even he wasn’t perfect, right? It only took one reporter to dedicate herself to figuring it out before she figured it out.
+
+<strong>JAMES:  </strong>So what you’re saying is we should all just post IP addresses for printers and communicate that way?
+
+<strong>STEVE:  </strong>[laughs] Yes. Snail mail only. But oh, they actually read tons of snail mail, too. So that’s actually not significantly more secure.
+
+<strong>JAMES:  </strong>[chuckles] Damn it.
+
+<strong>CHUCK:  </strong>I’m going to change my online presence to I The Lucky Stiff.
+
+<strong>STEVE:  </strong>[laughs]
+
+<strong>CHUCK:  </strong>Just don’t tell anybody, okay?
+
+[Laughter]
+
+<strong>JAMES: </strong>It’s funny how we just take it for granted. In Twitter, Twitter now has to use location services. And if you read it, it stamps your tweets with where you tweet it from. And it’s interesting. I almost like it as a consumer of Twitter because I watch people and it’s like, “Oh that person’s all the way on the other side of the country right now. What are they doing?” or whatever. But at the same time I realize, “Oh that’s kind of creepy that I know that.”
+
+<strong>CHUCK:  </strong>Yeah, well 99% of the time it doesn’t matter. Nobody’s going to come and accost you wherever you’re at. Nobody’s going to go break into your house because they know you’re out of town. I’m sure it does happen, but I think in the vast majority of cases it doesn’t. So for most people it’s a comfortable thing to share their location data. And that’s part of the thing that’s both good and bad about it is that then if the government does need some data on you, “Was he actually in this town at this time because this crime was committed and we think he was involved?” then all of a sudden it’s not such a great thing. And so it really boils down to I think what Steve was getting at earlier and that is that the amount of data and the type of data really depends on who’s trying to use it and what they want to use it for.
+
+<strong>JOSH:  </strong>And also, something came out recently about all those mug shot websites where when somebody gets arrested and they get booked and they have a mug shot taken, that’s just one step in the process. And very often, people are just released and there are never any charges and there’s an arrest record but that’s it. But you go to these websites and now there’s this information about someone being arrested and it’s all over the internet. And even though they were never convicted of a crime, there’s still that record. And then there are other similar things.
+
+<strong>STEVE:  </strong>Last month for example, someone in the Perl community got arrested for domestic abuse. And someone happened to be looking at one of those websites and noticed like, “Holy shit. That guy yesterday got booked for this.” So that was a Perl drama situation in a programming community with something from his personal life spewed over, et cetera.
+
+<strong>JOSH:  </strong>Right. But then there’s years ago somebody wrote a website PleaseRobMe.com
+
+<strong>STEVE: </strong>Yes.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>JOSH:  </strong>Which took all of the public check-in information. Oh, there are just all sorts of other websites where it takes publicly available information and makes it really… Oh right. There’s the website that finds people who are posting photographs of their credit cards and debit cards on Twitter --
+
+<strong>STEVE:  </strong>Yeah.
+
+<strong>DAVID:  </strong>Wow.
+
+<strong>JOSH:  </strong>With all of their numbers.
+
+<strong>JAMES:  </strong>What?
+
+<strong>CHUCK:  </strong>What?
+
+<strong>JAMES:  </strong>People do that?
+
+<strong>JOSH:  </strong>Yeah.
+
+<strong>DAVID:  </strong>People are like, “Got my brand new credit card. Woo!”
+
+<strong>JOSH:  </strong>Yeah, or “Oh I got my driver’s license.” So there are people posting really dumb personally identifying information publicly on Twitter and Facebook.
+
+<strong>CHUCK:  </strong>[laughs]
+
+<strong>JOSH:  </strong>So people have been compiling these as satire accounts and things. But it can do real damage. And there are websites that are sort of in the black market area of the internet where they compile personally identifying information and resell it. So there’s all this identity theft websites that deal in this business.
+
+<strong>STEVE:  </strong>And there was a time before people used real databases where for example you could Google for visa and then four digits and it would find some online store’s whatever.txt that was all their user account information with all their credit card numbers, back in the day. Obviously we’re a little better than that now.
+
+<strong>JAMES:  </strong>That’s so cool.
+
+<strong>STEVE:  </strong>Yeah, and terrifying.
+
+<strong>DAVID:  </strong>My favorite bit of that was Jeremy Clarkson from Top Gear a couple of years ago published his bank account information in the newspaper and said identity theft is a storm in a teacup. And he basically then said, “Here, you can get my address from the electoral roll,” and da-da-da-da-da. And the very next day, he against his will made a £500 donation to the British Diabetic Association.
+
+[Laughter]
+
+<strong>JOSH:  </strong>Right. Yeah, there was some guy five years ago who had some internet service that was protecting identity theft and he rented a truck and drove around LA with his social security number on the side of the truck. And then he got hacked.
+
+[Laughter]
+
+<strong>JOSH:  </strong>He was like, “Well my service will protect me.” But then even that couldn’t do it. But my point is that it’s not just protecting against the government or official surveillance. It’s that there are other abuses of our information and place where we deserve privacy and it’s important and valuable. That it’s not just about government surveillance and the things that we do to protect ourselves and our users against unwarranted surveillance.
+
+<strong>STEVE:  </strong>And it’s so great [inaudible]. I’ve had stalkers show up to where I said I was tweeting and I’ve had best friends show up to where I was tweeting and I’ve had people that I hadn’t met on the internet before that I was happy to say hello to just show up because I tweeted I was somewhere.
+
+<strong>JOSH:  </strong>Right. But let me just finish the thought, is that the things that we do to safeguard our users against unwarranted surveillance are also useful for protecting their information against people who are using it for obviously nefarious purposes.
+
+<strong>STEVE:  </strong>Yeah, totally.
+
+<strong>DAVID:  </strong>This gets into the theory of vulnerability where if you are internally invulnerable, you can afford to be vulnerable external, like limitlessly. You can let people in and out to whatever level because you’re not vulnerable internally. Internally if you are vulnerable, there is some external level matching the degree of your vulnerability and the severity of it. There is some external level of invulnerability that you must maintain. Okay, that’s kind of fun psychological theory. But I wonder if this is a separate episode. Actually, I wonder if this is an entire six-month course about what we can do. If we’ve admitted, if we’re just declaring bankruptcy on privacy and on security and on freedom from stalkers… like Steve you said you’ve had stalkers show up where you where tweeting but you don’t want to reclaim that privacy because you’ve had friends and you’ve met new people doing this. So in order to do that, you have to become invulnerable in that space. And the way you do that is by having a plan and knowing what you’re going to do. So knowing what you’re going to do if your identity gets stolen, knowing what you’re going to do if the government executes a no knock warrant on you at three o’clock in the morning, knowing what you’re going to do if somebody publishes the complete anthology of homophobic rants from Steve Klabnik.
+
+<strong>STEVE:  </strong>[laughs]
+
+<strong>DAVID:  </strong>Right? You would handle this. You’re not lying awake worrying about this like, “Yup, I did that. I shouldn’t have and I’m different now.” and people would be “Okay” and we’d all move on. I’m elaborating the point now. But my question is, is there something that we can do now to prepare against this kind of stuff for when it goes bad? How do we deal with things when things go bad?
+
+<strong>STEVE:  </strong>I think that one of the most important things to remember is that things are different. So we are all human and we all do make mistakes. And so sometimes, I’m not saying in the sense of government spying stuff that’s sure, but like when something that is awkward comes up because of a certain thing. I’ve sent missed text messages to people where I send one thing to someone I meant to send to someone else. So we need to be to a certain degree charitable when these kinds of personal private boundaries get mixed up in a weird way. We need to say, “Oh yeah. It is really awkward that there’s a photo of you topless on the internet or naked or whatever. I’m not going to look at it or I’m going to still respect you as a human being because we all f-d up and do things that we’re not proud of. So I understand that was intended to be private and it’s not private. My bad.” And so developing that kind of empathy. Because really, this is about new social understandings, right? The reason this is a problem is because it violates our notions of what’s private and what’s public. And those have been shifting for a long time in that before we had mass media, what was private was very, very different than today. And so a lot of this is readjusting our cultural norms to a world where what some things we think are private and we say them are not private. I can think of recent incidents for example with mailing lists that are private where someone who is not part of that private group gets access to a list and then people are upset because it violated, even though it’s being sent over the clear in emails that are clearly not actually private, that doesn’t matter. Because it was social expectation that’s been violated. So we need to work on these social norms and figure out what the right boundary is and be charitable when these boundaries are screwed up in the meantime, at least when it’s appropriate. Obviously, if you willfully violate boundaries, it’s another thing entirely. But accidental violation will happen somehow.
+
+<strong>JAMES:  </strong>I think we need to start being conscientious to our role in this.
+
+<strong>STEVE:  </strong>Yes.
+
+<strong>JAMES:  </strong>I remember an incident a while back where somebody asked a question about people on the mailing list. And I’ve actually, I don’t know why, read the entire intro email that nobody ever reads, to the mailing list. And it turned out that this mailing list had this feature where you could just send an email message to a certain address and it would respond to you with every single person on that mailing list.
+
+<strong>DAVID:  </strong>Wow.
+
+<strong>JAMES:  </strong>And so I did this and I used it to answer the question and somebody was like, “How did you get that information?” And I was like, “Oh it’s available on the mailing list.” It didn’t even occur to me back then, which it’s like “Wow, that’s so horrific.” But it was actually the mailing list owner was like, “Wow, we didn’t even know that feature was in there or active or whatever. That’s super scary.” And it is.
+
+<strong>STEVE:  </strong>One recent privacy violating thing is this whole LinkedIn intro situation. So a lot of people said, “Oh well the programmers who built that were just doing their jobs,” or whatever. So sometimes we will be asked by management or by other people to do things that we find to be not acceptable. And one of the things that I’m super conflicted about is that other professions have things like ethics boards which determine what the appropriate social norms for profession are. And so it allows people who are working to push back against management that want them to do something that’s unethical by saying “I could lose my license. I’m not going to do that,” or whatever. And we have nothing other than, what you’re going to quit your job over this? And people have reasons they can’t quit jobs and stuff. So there’s often times when we’re asked to do unethical things and we need to make sure that we don’t absolve ourselves by saying that, “Oh, we’re just the toolmakers. What you do with the tools is good or bad.” If you build tools that are primarily used for bad, then that’s bad.
+
+<strong>DAVID:  </strong>[in a German accent] We’re just following orders.
+
+<strong>JOSH:  </strong>So I heard somebody speak about the new LinkedIn connection feature that way, that it was unethical, and I agree with that. I don’t want to point fingers too badly, but it looks like there is so much opportunity for abuse there in that they’re not disclosing all the risks. What’s the name of the thing?
+
+<strong>STEVE:  </strong>I believe it’s called LinkedIn Intro.
+
+<strong>JOSH:  </strong>Intro, yes. That’s the name of it. Basically if you sign up for it, it routes all of your email through their email server and then they modify your email message by the server information.
+
+<strong>DAVID:  </strong>Oh, yeah. Yeah. That is so--
+
+<strong>JOSH:  </strong>And the crazy thing about it is that if I sign up for that service, then
+
+<strong>STEVE:  </strong>If I send you an email--
+
+<strong>JOSH:  </strong>And if you send me an email, then it goes through the LinkedIn servers anyway.
+
+<strong>DAVID:  </strong>Because all your email. They become your proxy. They become your email service.
+
+<strong>JOSH:  </strong>Oh, yes.
+
+<strong>STEVE:  </strong>Yes.
+
+<strong>DAVID:  </strong>But they promise they won’t peek.
+
+<strong>JAMES:  </strong>Yeah, don’t worry. They’re not using it for evil.
+
+<strong>CHUCK:  </strong>[laughs]
+
+<strong>JOSH:  </strong>Now Google does that too. All my Gmail goes through the Google servers and then they actually look at it and figure out what ads to show me based on that and maybe some other things. So it’s clear that there are cases where I’m okay with people getting their hands on my email. But I think that the way LinkedIn presented it was not… Like if you put your email on Google servers, you know your email is in Google servers.
+
+<strong>DAVID:  </strong>Yes.
+
+<strong>STEVE:  </strong>Yes, exactly.
+
+<strong>JAMES:  </strong>But sometimes it’s hard to think of the implications of even that. My buddy Greg Brown was really good about telling me, “You don’t realize how much Google actually knows about you.” They have your email. They have your web searches. They have your analytics for your website. They have a staggering… People sometimes use Google as DNS. If you do that, they know everywhere you’re going on the internet.
+
+<strong>STEVE:  </strong>There was a really interesting story. I think this will be the last one as we’re getting off into tangents, but where an article on ReadWriteWeb about Facebook came above the Facebook page on the Google search for Facebook login. So what happened was as people would type Facebook login to Google and then click on the first link result and then they would use that to find the Facebook login page to login to Facebook. So what happened was instead, they got this ReadWriteWeb page which has Facebook integration and so they logged into Facebook and there’s these hundreds of angry comments about, how could you change the Facebook UI? This is such bullshit. I can’t imagine that these people are changing this over and over again. What’s the new… they’re totally reva… where are all my friends? And they did not even understand they weren’t on Facebook, they were on a news site because people use Google. They rely that much on Google they don’t even type facebook.com. They load up Google first.
+
+<strong>CHUCK:  </strong>Wait, you can go straight to facebook.com? [Laughter] <strong>JOSH:  </strong>Okay, so I have family who when they want to search something, go to the Safari search box and type google to get to the Google home page so that they can then type the search term into Google’s search box. And they’ll type the word apple to click on the link to take them to apple.com.
+
+<strong>JAMES:  </strong>My mother-in-law will often just take a URL and put it in the Google search box. So she has the URL to go to the proper place, but she feeds it to the Google search box. <strong>DAVID:  </strong>Wow.
+
+<strong>CHUCK:  </strong>I was going to say I know people that do that. They go to Google.com and then put it in the search bar.
+
+<strong>STEVE:  </strong>I bet they occasionally have done very silly things where a computer-y person later was like, “That’s dumb.” Because ultimately people just want to get their stuff done. So if that’s how they get their stuff done, that’s how they do it. But it does mean that Google has a really unreasonable amount of power in a situation that we may not realize at first because they do control the way that we access the web, period. And so that’s important.
+
+<strong>JAMES:  </strong>The best we can do at this point is start to be aware of these issues, start to be aware of our role in these issues. And maybe try to consider if the actions we’re taking are, how does Katrina say it in that great talk she gave recently? Are we cooperating or defecting?
+
+<strong>STEVE:  </strong>Yeah, absolutely. And to know that what we do is inherently social and it does affect people and we can’t not care about it. And so we’re all figuring this out together. There’s no solid answer. And it will require lots of debate and new technical tools and all sorts of other stuff.
+
+<strong>DAVID: </strong>Yeah. And just remember, if you’re not part of the solution, we know where to find you.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Alright. Well let’s go ahead and do the picks. Dave, what are your picks?
+
+<strong>DAVID:  </strong>I have one pick today and it is freaking awesome. It is so incredibly awesome I cannot believe it hasn’t been picked before. I had to go to the RubyRogues.com/picks. By the way, if anybody’s listening and you want to know what we’ve ever picked in the past or where to find a pick, that’s where you go to get it. I can’t believe this has never been picked before. TMate. TMate.io. T-M-A-T-E.io. It is the coolest freaking thing ever. If you love tmux as much as I do, and I know you all do, what this is, is if you ever try to remote pair with somebody there’s this hassle of negotiating what tool you’re going to use and “Let’s go ahead and use tmux. But now we’ve got to standup a server on Amazon and we have to exchange ssh keys so that we can all get in.” That is all gone. That is all a thing of the past. What you do is on your machine, there’s a Homebrew installer for it, there’s an Ubuntu installer for it. I think there’s one for Windows. I’m not sure. But there’s definitely Linux and Mac. And except for Sandi Metz, who cares about Windows users, right? Anyway, you install it and then you just go on your local machine in a terminal window. You cd in the directory that you want to work in and you type tmate and bam, you’re in a tmux session on your local machine. And then what it does is it goes to tmate.io and says I want to register a VPN service into my machine for tmate. And it sends back an ssh with this really long gnarly session id string to tmate.io. You give that to your partner over Skype or Instant Messenger and they go to a terminal and type ssh and this thing and they connect to the tmate.io services and that VPNs them into your tmux session on your machine. It is slick. It is fast. It is awesome. And I’m going to screw this guy’s name up. He’s Swedish. The guy who taught me this is Kevin. His last name is spelled Sjoberg. I’m going to try this Kevin. Please forgive me. His last name is pronounced hi-be-ri or hi-ba-ri. Anyway, I call him Kevin Crowbar because I cannot pronounce any of the Swedish letters in his name. But he showed me that and it’s freaking amazing. So that’s my pick today, is TMate.
+
+<strong>CHUCK:  </strong>Awesome.
+
+<strong>JAMES:  </strong>I feel compelled to point out how interesting that is from an information standpoint. [Chuckles]
+
+<strong>STEVE:  </strong>Yeah. [Chuckles]
+
+<strong>DAVID:  </strong>Well it jails the directory so that they can’t get out of, like they can’t see the, I think you can get out of the directory and take them with you, but they can’t cd out of, I think. There’s a trick to it. So yeah, they can’t get to your home directory.
+
+<strong>JAMES:  </strong>I was more noting on the interesting information TMate would have about users connecting with them.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>CHUCK: </strong>Alright James, what are your picks?
+
+<strong>JAMES:  </strong>So I found two things that have been super useful to me lately. One is I wanted to set up email on a new site and I have used SendGrid in the past for things like that. But this was a smaller deal and it felt like SendGrid was overkill and I have some desire not to use them anyway. And so I wanted to find a new service and it was advertised in Ruby Weekly, this Mandrill service. And I tried it and wow. I’ve never seen an email service that was so ridiculously easy to get up and running. I just logged in. it’s free up to a certain point. And you know that typically means “Give me a credit card and then when you go over the line, I’ll start charging you,” or whatever. It was none of that. It was just login, create an account, boom. Do you want to use our API? Do you want to use SMTP? Whatever. Here, take these credentials, dump them in here, you’re good. It was so ridiculously easy. I’m really loving it. So Mandrill for email. And then I also switched computers recently. And one of the things I wanted to change was how I managed windows on my computer. And on Linux, they have all this awesome tiling window managers. Whereas on Mac OS X, we don’t really have those because you can’t really replace the windows manager because Apple. But we do have a lot of utilities that mimic some of that behavior. And I think people know Divvy maybe as the most common one. We’ve actually talked about it on the show before. But there’s one called Moom, M-O-O-M. And I think it’s like Divvy but with a bunch of cool extra features that’s really nice. You can drive the whole thing from your keyboard so you can even draw out these rectangular sections you want the window to fill with your keyboard and the window adjusts to that and stuff like that. It’s really intuitive. Or you can use the mouse. And you can set presets or windows just snap to certain things when you hit a keystroke or whatever. I really enjoyed it. So Mandrill and Moom. Those are my picks.
+
+<strong>CHUCK:  </strong>Alright, Josh what are your picks?
+
+<strong>JOSH:  </strong>Okay. Let’s see. Sarah Mei wrote a really cool blog post this week. And it’s probably been mentioned on Ruby5 or something like that already. But I’m going to mention it too. The title of her blog post is ‘Why You Should Never Use MongoDB’. And it’s a very controversial title, but I happen to agree with her. I think that the blog post is great to read just because in Sarah’s typical fashion, she actually uses data and science and deductive reasoning to support true things. And it’s a great analysis of things and showing that the idea, the TLDR on it is that even if MongoDB works for the problem that you have today, if you don’t really understand where your application’s going and what the uses of the data are, you’re probably going to get stuck and have to pay that cost in the future. So I think it’s a great article worth checking out.
+
+<strong>JAMES:  </strong>It was good.
+
+<strong>JOSH:  </strong>Yeah. Definitely worth reading. And then the other pick that I have is a classic cookbook. So I’ve picked a bunch of cookbooks over the years on this show. So I’m picking what’s arguably the first cookbook. It’s ‘Mrs. Beeton’s Book of Household Management’. And there’s this great website that actually has all the information in it because it’s in the public domain because the thing is over 150 years old. Something like that. It’s from 1850s. And this is written in an era in England where people didn’t have refrigerators. And the way that they cooked was very seasonal. And the ways that they had to plan cooking and all that. It’s just fascinating. And the book is a great way to get insight into what life was like 150, 200 years ago. Something like that. So I find it fascinating. It was really surprising to me. The most surprising thing about reading this book was how much salt pork they used in everything they cooked. Trying to care of good nutrition throughout the year when you don’t have access to fruits and vegetables is hard. So I think we just really have no idea about food in our modern culture. And reading this book was a good way to see just how much our diet has changed over a very short period of time in human evolution. Anyway, that’s it for me this week.
+
+<strong>CHUCK:  </strong>Alright. So my first pick, I went down to RubyConf and when I was looking at booking the hotel, all the rooms were really, really expensive. So I went on Airbnb and I found a room for $500 for the whole trip. And I had to walk a few blocks to the hotel and back every day. But it was totally worth it and it was a nice place to stay. So I’m going to pick Airbnb. I know it’s been picked on several of the shows before. So probably not a surprise. Another pick that I have is something that I use. And I know that it doesn’t solve all of the privacy problems we’ve been talking about and we discussed something that is somewhat like it in the fact that you browse. When you’re pushing traffic, you push traffic through their system and it comes out the other end and goes through several servers. This one’s just a plain old VPN service. It’s called proXPN. And it’s been pretty nice. If I’m in a coffee shop or a restaurant or something that has Wi-Fi and I don’t quite trust the Wi-Fi, a lot of times I’ll fire that up and that way I could browse and not worry about who might be sniffing my traffic, at least on the end that I’m sitting on. And if you use the code TMTCS, that’s teach me to code screencasts, TMTCS, then you can get I think it’s 20% off for life. So anyway, those are my picks. Steve, what are your picks?
+
+<strong>STEVE:  </strong>Alright, so I’ve got two things that are awesome. It is two, really technically three, but two. I’ve been doing a lot of work on my own productivity and getting me to do a good schedule and stuff lately. So I have two tools that are super awesome for that. The first one is Beeminder. So Yehuda actually turned me onto this thing. Beeminder is super cool. What it does is, first of all it knows how to automatically import data from a bunch of different things. So for example, Duolingo. I’ve been doing German on Duolingo. And I couldn’t get in the habit of doing German on Duolingo. So what happened was I signed up for a Beeminder account, I hooked up my Duolingo account, and I said “Cool. I want to earn on average 20 points on Duolingo a day for the next year.” And so Beeminder goes, “Cool” and it makes a graph. And then whenever it tracks to your data as you use the service and if you’re ever in danger of falling below that line on the graph, it emails you and it’s like “Hey you’re about to fail on your goal.” And if you do end up dropping too far below your goal, it freezes your goal tracking and says “Pay us $5 or you can’t get your goal turned back on.”
+
+<strong>JAMES:  </strong>That is so awesome.
+
+<strong>STEVE:  </strong>And then the second time you fail, it’s $10 and the third time you fail, it’s $15. And you could categorize it however much you want. And you can use it to import data from a ton of different services. And they also have a generic API that you can hook up your own stuff into. So I’ve been super excited about using it to keep track of the things that I want to accomplish. And it’s really, really awesome. It’s not perfect because it assumes that you can put some sort of numerical count of your goal on it. So it’s really easy for stuff like I want to commit to GitHub at least twice a week or I want to do five pushups every day. It’s really hard for like I want to get better at painting. You need to figure out a way to put a number to something. But it’s amazing for that. And I use that in tandem with Lift, which is lift.do. It’s an app that is positive goal tracking. So Lift allows you to check in with what you’ve done so far. So I have all of my morning routine in Lift. So I check it off every day. And it’s got social integration so your friends can be like “Good job at drinking more water today, Steve,” or whatever. So Beeminder is like negative reinforcement and Lift is positive reinforcement. So I think those two things are super awesome and I’ve been using them to get a lot of stuff done lately. And the third/second pick is The Extensible Web Manifesto. This is ExtensibleWebManifesto.org. I will mostly let it speak for itself. Basically it represents a shift in the way that web standards are going to be developed. And that is something that we should care about as web developers. So this is what I will be talking about largely for the next upcoming year is about this and the implications of this and how it moves forward. But basically the current web standards process is not very great at building the kind of web that we as programmers want. So browsers implement something, it’s standardized, and then we write a JavaScript shim on top of it because it’s terrible, right?
+
+<strong>CHUCK:  </strong>[laughs]
+
+<strong>STEVE:  </strong>So the idea is to invert that flow. So we prototype new features in JavaScript. And then when we’re happy with them, they get standardized. And then browsers implement them natively. It’s like imagine if jQuery was a native browser plugin that automatically was downloaded instead of being JavaScript that we transfer on every single webpage we go to. That’s one of the moderate pitches. But you can check it out and it’s something I will be talking a lot more about in the future, is that and the implications of that. So that’s my picks.
+
+<strong>CHUCK:  </strong>Alright, well let’s go ahead and wrap up the show. Thanks for coming, Steve. Really appreciate that.
+
+<strong>STEVE:  </strong>Yeah, thanks for having me. It’s super fun as always.
+
+<strong>JAMES:  </strong>Always good to talk to you.
+
+<strong>CHUCK:  </strong>Yup. I’ve got a couple of things, couple of business items. First off, we are reading ‘Functional Programming for the Object-Oriented Programmer’ by Brian Marick. And then we also have our silver sponsor and that is Elixir Sips. So you can go get them at ElixirSips.com and let them know that you heard about them on Ruby Rogues.
+
+<strong>STEVE:  </strong>What do they do?
+
+<strong>CHUCK:  </strong>It’s a screencast series, like Ruby Tapas.
+
+<strong>STEVE:  </strong>Ah, but for Elixir. Cool.
+
+<strong>CHUCK:  </strong>Yes. And it’s a paid thing. I think it costs about the same as Ruby Tapas.
+
+<strong>DAVID:  </strong>Can I just say I never thought we would top the acronym POOTER but it makes me so happy that we’re reading FPOOP now. [Laughter]
+
+<strong>JAMES:  </strong>That does it.
+
+<strong>CHUCK:  </strong>Alright, well thanks for listening and we’ll catch you all next week.

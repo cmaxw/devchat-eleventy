@@ -1,0 +1,38 @@
+---
+layout: layouts/post.njk
+title: >
+      Cassandra Basic Schema and Ruby Gem
+date: 2011-07-24 17:42:23
+episode_number: 
+duration: 
+audio_url: 
+tags: tmtc-screencasts
+---
+
+<object width="640" height="390" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/6Ogc8q1bJDA?version=3&amp;hl=en_US&amp;rel=0" /><param name="allowfullscreen" value="true" /><embed width="640" height="390" type="application/x-shockwave-flash" src="http://www.youtube.com/v/6Ogc8q1bJDA?version=3&amp;hl=en_US&amp;rel=0" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object>
+
+You can get cassandra at <a href="http://cassandra.apache.org/">cassandra.apache.org</a> and the ruby gem by running:
+<pre>gem install cassandra</pre>
+I did run into a problem with the trift_client gem when installing. If you get a Load Error, run this.
+<pre>sudo chmod 644 /usr/local/lib/ruby/gems/1.8/gems/thrift_client-0.6.3/lib/thrift_client/*.rb
+sudo chmod 755 /usr/local/lib/ruby/gems/1.8/gems/thrift_client-0.6.3/lib/thrift_client/connection</pre>
+Here are some of the Cassandra commands from the video:
+<pre>#connects to the cassandra server using the Twitter keyspace
+store = Cassandra.new(“Twitter”)
+
+# create a new column family in the Twitter keyspace called Users
+cf_def = CassandraThrift::CfDef.new(:keyspace =&gt; “Twitter”, :name =&gt; “Users”)
+store.add_column_family(cf_def)
+
+# add or create a row to the column family
+store.insert(“Users”, “cmaxw”, {“name” =&gt; “Charles Max Wood”, “description” =&gt; “Awesome coder”})
+
+# remove a column from a row
+store.remove(“Users”, “cmaxw”, “description”)</pre>
+<a href="http://traffic.libsyn.com/tmtc/Cassandra.m4v">Download </a>17.2 MB
+<a href="http://traffic.libsyn.com/tmtc/Cassandra_-_iPhone.m4v">Download (iPod &amp; iPhone)</a> 20.9 MB
+<a href="https://spreadsheets.google.com/a/contemporaryva.com/spreadsheet/viewform?ndplr=1&amp;formkey=dE5mV3JCYnFWbDg5UDlZRE92VlBrYWc6MQ#gid=0">Take the 2011 Readers Survey</a>
+
+<h3>Transcript</h3>
+
+

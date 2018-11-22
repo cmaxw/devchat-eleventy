@@ -1,0 +1,435 @@
+---
+layout: layouts/post.njk
+title: >
+      027 iPhreaks Show – Game Development with Kyle Richter & Nathan Eror
+date: 2013-10-31 13:54:00
+episode_number: 27
+duration: 
+audio_url: https://media.devchat.tv/iphreaks/iPhreaks027GameDev.mp3
+tags: iphreaks
+---
+
+Panel
+
+Kyle Richter (twitter)
+Nathan Eror (twitter github)
+Ben Scheirman (twitter github blog NSSreencast)
+Andrew Madsen (twitter github blog)
+Jaim Zuber (twitter Sharp Five Software)
+Rod Schmidt (twitter github infiniteNIL)
+Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+
+01:01 - Kyle Richter &amp; Nathan Eror Introduction
+
+Empirical Development
+
+01:18 - The Future of iOS Devices (Speculations)
+
+Hardware Controllers
+Apple TV
+Latency
+
+04:33 - Building Games on the iOS Platform
+
+Sprite Kit
+Unity
+Cocos2d
+UIKit
+
+08:08 - Creative Assets (Art, Sound, Etc.)
+
+Infinity Blade II
+Letterpress
+Doodle Jump
+Slender
+
+13:45 - Challenges of Building a Game
+
+Artist/Developer Relationships
+Production Art
+Tileable Art
+
+22:29 - Tools
+26:42 - Optimizations
+
+Pre-Allocating
+Only Rendering What’s Necessary
+
+33:48 - Shaders
+36:51 - GameCenter
+40:04 - Getting into Game Development
+
+Picks
+
+Trainyard (Ben)
+Space Team (Ben)
+Duolingo (Ben)
+Game Coding Complete by Mike McShaffry (Ben)
+Physics of Light - John Carmack (Ben)
+Bret Victor - Inventing on Principle (Ben)
+Overcoming iOS Game Memory Limits (Jaim)
+Big Nerd Ranch Blog (Andrew)
+Code Signing and Mavericks (Andrew)
+CocoaColor (Andrew)
+NinjaHit (Rod)
+Joybox (Rod)
+OpenGameArt (Chuck)
+080 JSJ Impact.js with Dominic Szablewski
+JavaScript Jabber #081: Testing Promises for Async JavaScript with Pete Hodgson (Chuck)
+Linear algebra for game developers ~ part 1 (Nathan)
+Linear algebra for game developers ~ part 2 (Nathan)
+Linear algebra for game developers ~ part 3 (Nathan)
+3D Math Primer for Graphics and Game Development by Fletcher Dunn and Ian Parberry (Nathan)
+#AltDevBlog (Nathan)
+Sleep Cycle (Kyle)
+Pivvot (Kyle)
+Hungry Shark Evolution (Kyle)
+
+Next Week
+New iOS APIs
+Transcript
+CHUCK: Alright, Nathan, how do you say your last name?
+
+NATHAN: Eror, just like –
+
+CHUCK: Eror, okay.
+
+NATHAN: Yeah, just like NSError, except that it spelled differently.
+
+KYLE: Your middle initial is “S”, right?
+
+BEN: [Laughter]
+
+NATHAN: I wish. I’ve considered getting it legally changed.
+
+CHUCK: Hey everybody and welcome to Episode 27 of the iPhreaks Show! This week on our panel, we have Ben Scheirman.
+
+BEN: Hello from Houston, eagerly awaiting the iPad event.
+
+CHUCK: Andrew Madsen.
+
+ANDREW: Hi from Salt Lake City and I don’t get to buy anything today.
+
+CHUCK: Jaim Zuber.
+
+JAIM: Hello from Minneapolis!
+
+CHUCK: Rod Schmidt.
+
+ROD: Merry Christmas from Salt Lake City!
+
+CHUCK: I’m Charles Max Wood from DevChat.tv. This week, we have 2 special guests. We have Kyle Richter.
+
+KYLE: Good morning from Key West!
+
+CHUCK: And, do you prefer Nate or Nathan?
+
+NATHAN: Either one, it’s up to you.
+
+CHUCK: Nathan Eror.
+
+NATHAN: Hello! I’m also in Houston.
+
+CHUCK: Alright. Do you guys want to do a brief introduction since you haven’t been on the show before?
+
+KYLE: Sure, we can do that! My name is Kyle Richter. I’m the co-founder of Empirical Development.
+
+NATHAN: And I’m Nathan Eror. I am the game and development lead for Empirical Development.
+
+CHUCK: Awesome. Nobody plays games on their iOS device, so I’m not quite sure why we have you here.
+
+KYLE: No, it’s the passage fad for sure. I suspect that they’ll just be over in the next couple of weeks.
+
+CHUCK: Yeah.
+
+BEN: Once I get hardware, controllers are really going to ruin it.
+
+CHUCK: [Laughs] Do you think that’s going to be a thing?
+
+BEN: Yeah, they announced it at dub dub, that you’ll be able to get like sort of a Nintendo like shrink wrapped controller on top of the iPhone. I’m still waiting for one of those to come out. I want to play with one.
+
+KYLE: Logitech just released their print ad a couple of weeks ago for their first one. Mysteriously, it shows empty hand is holding a knife saying something’s missing [sound].
+
+BEN: Oh! Awesome.
+
+CHUCK: [Laughs]
+
+<h3>Transcript</h3>
+
+<strong>CHUCK:</strong> Alright, Nathan, how do you say your last name?
+
+<strong>NATHAN:</strong> Eror, just like –
+
+<strong>CHUCK:</strong> Eror, okay.
+
+<strong>NATHAN:</strong> Yeah, just like NSError, except that it spelled differently.
+
+<strong>KYLE:</strong> Your middle initial is “S”, right?
+
+<strong>BEN:</strong> [Laughter]
+
+<strong>NATHAN:</strong> I wish. I’ve considered getting it legally changed.
+
+<em><strong>[Intro Music]</strong></em>
+
+<strong>CHUCK:</strong> Hey everybody and welcome to Episode 27 of the iPhreaks Show! This week on our panel, we have Ben Scheirman.
+
+<strong>BEN:</strong> Hello from Houston, eagerly awaiting the iPad event.
+
+<strong>CHUCK:</strong> Andrew Madsen.
+
+<strong>ANDREW:</strong> Hi from Salt Lake City and I don’t get to buy anything today.
+
+<strong>CHUCK:</strong> Jaim Zuber.
+
+<strong>JAIM:</strong> Hello from Minneapolis!
+
+<strong>CHUCK:</strong> Rod Schmidt.
+
+<strong>ROD:</strong> Merry Christmas from Salt Lake City!
+
+<strong>CHUCK:</strong> I’m Charles Max Wood from DevChat.tv. This week, we have 2 special guests. We have Kyle Richter.
+
+<strong>KYLE:</strong> Good morning from Key West!
+
+<strong>CHUCK:</strong> And, do you prefer Nate or Nathan?
+
+<strong>N</strong><strong>ATHAN:</strong> Either one, it’s up to you.
+
+<strong>CHUCK:</strong> Nathan Eror.
+
+<strong>NATHAN:</strong> Hello! I’m also in Houston.
+
+<strong>CHUCK:</strong> Alright. Do you guys want to do a brief introduction since you haven’t been on the show before?
+
+<strong>KYLE:</strong> Sure, we can do that! My name is Kyle Richter. I’m the co-founder of Empirical Development.
+
+<strong>NATHAN:</strong> And I’m Nathan Eror. I am the game and development lead for Empirical Development.
+
+<strong>CHUCK:</strong> Awesome. Nobody plays games on their iOS device, so I’m not quite sure why we have you here.
+
+<strong>KYLE:</strong> No, it’s the passage fad for sure. I suspect that they’ll just be over in the next couple of weeks.
+
+<strong>CHUCK:</strong> Yeah.
+
+<strong>BEN:</strong> Once I get hardware, controllers are really going to ruin it.
+
+<strong>CHUCK:</strong> [Laughs] Do you think that’s going to be a thing?
+
+<strong>BEN:</strong> Yeah, they announced it at dub dub, that you’ll be able to get like sort of a Nintendo like shrink wrapped controller on top of the iPhone. I’m still waiting for one of those to come out. I want to play with one.
+
+<strong>KYLE:</strong> Logitech just released their print ad a couple of weeks ago for their first one. Mysteriously, it shows empty hand is holding a knife saying something’s missing [sound].
+
+<strong>BEN:</strong> Oh! Awesome.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>KYLE:</strong> I don’t know if they’ve got the irony of that.
+
+<strong>NATHAN:</strong> There is a second one, and the name is just getting me at the moment, that actually are pictures of -- they’re starting to come out now. I think it’s going to be a big deal just because of the Apple TV. I think the Apple TV is so much big of deal than people are letting on it. I know Kyle agrees with me [chuckles].
+
+<strong>CHUCK:</strong> Do you think that they’re going to open up the Apple TV for developers?
+
+<strong>KYLE:</strong> I have a theory on what’s going to happen there, and I don’t think they need to open it up. With AirPlay, if you keep the price of the Apple TV down to $99 and use AirPlay to use as a next gen gaming console, you don’t really have to do anything. The big problem that we have is, with no tactile feedback on the iPhone, you can’t see what you’re tapping on the iPhone while playing the game on the Apple TV. But with the game controllers, you would be able to do that now so you kind of have like game controller in your pocket that has a GPU on it that you hook up to any Apple TV and start playing instantly.
+
+<strong>BEN:</strong> I wonder about the lag, though. Because Real Racing, was it, that they demoed live where you could have like 4 people racing at the same time on the same Apple TV. We tried that at the office for just for 2 people, and the lag was enough to make me not want to do it again.
+
+<strong>KYLE:</strong> Definitely the lags, the last piece of the puzzle that they need, the game controllers where the big hardware problem. But in theory, it’s all on a land. It should be super fast. The WiFi pipes are more than big enough to carry the video. It’s just a matter of optimizing the Apple TV away from being designed extreme video where second lag didn’t really matter to something that’s designed to handle interactive games where they have to really get that lag time up.
+
+<strong>NATHAN:</strong> Latency is always going to be the issue especially with games. Everyone expects there are 60 frames per second and for good reason, but it’s getting better. And it’s already a lot better than it was when that first announcement was made. I’m assuming, especially as a lot of things in the game role, this stuff they kind of takes time; we kind of wait for technology to catch up to where we want it to be. I think Apple is already pushing data to level in a C standard. Yeah, that’s going to be a few years down the road before we see that in Apple TVs and iOS devices, but the storm is coming.
+
+<strong>CHUCK:</strong> For right now, what generally is your approach to building games on the iOS platform?
+
+<strong>KYLE:</strong> I’ll let Nathan feel that one since he’s kind of in-charge of that for the company [chuckles].
+
+<strong>NATHAN:</strong> Yeah, sorry, I’m on mute there. It really depends on the type of game. There are multiple different approaches you can take. Is it a 3D game? Is it a 2D game? Is it an action-packed fast twitch kind of game? Is it more of an RPG? Is it none of those and something more like trivia or a word game? Depending on the type of game it is, will kind of help decide part of your process. First of all, what tools do you use? Do you go straight up Objective C and use UIKit? And yes, probably, if it’s a word game, unless you’ll [unclear], or if it’s a trivia game or something like that. But if it’s a 2D game, maybe you hop on the new hotness in iOS 7 and use Sprite Kit – most Sprite Kit is really cool; it definitely has some of its own limitations. The first thing to decide is what tools do you use? A 3D game, you want to use a 3D engine like Unity, which most likely, you want to use some type of engine for a 3D game rather than building your own just because that’s a pretty complex process and you waste all of your time building the engine and that might actually make a fun game. So you use the Unity engine or Unreal UDK or some of the other third-party engines. Pretty much at this point, all of the good 3D engines are all commercial. The open source ones have kind of died off because the commercial ones have gotten pretty cheap, licensing was. But for 2D, there is Cocos2D, and then of course, there is now Apple Sprite Kit. You can even do quite a bit, and I’ve done this with UIKit. There’s no reason to do it now because the physics engine, even though it isn’t UIKit, using Sprite Kit is so easy, there’s really no reason to use UIKit’s physics engine for a game, but you probably could. So long story short, first you have to decide what kind of game it is, and you need to decide which platforms you’re going to be on. Because one advantage you have building a game is – and this can be looked at as an advantage or a disadvantage – is games were expected to have very different and unique UIs compared to any of the standard app – they’re expected to be very custom. So it’s much easier to design a game to be cross-platform than it is to design an app to be cross-platform because you’re most likely not going to be using most of the system UI APIs. In a lot of cases, it’s just an OpenGL View, and that’s really the only View you would use from the system, everything else was custom. So if you’re going cross-platform, then you need to decide, “Are you going to do that all by yourself?” or “Are you going use a cross-platform engine like Unity?” So really, it comes down to deciding what you want, where you want the game to be, and how you want it to look. From there, it’s not much different than standard development; it’s just software with a slightly different approach.
+
+<strong>CHUCK:</strong> I don’t know enough about game development to really know what all goes into it. How much of it is artwork versus how of it is programming?
+
+<strong>NATHAN:</strong> At least 50/50. The artwork is extremely important, obviously, and it’s not just your standard flat 2D or image PNG as it sometimes. Often, games have characters whether they’re humanoid or not that have some type of animation. And the animation is often pre-built and pre-canned like a character running and jumping and throwing, those kinds of things. Those kinds of animations are usually pre-built by an artist and brought into the game. And then there’s also audio, of course, not just background music, but also environmental audio whether it’s the background like there’s atmospheric audio, there’s also music. Atmospheric audio would be like birds chirping and stuff like that, and there’s music, and then there’s also sound effects which could be people getting punched or dying or whatever they might be. So there are a lot of different creative assets to go in as well, both audio and visual. I think art and sound are at least half of the work, if not more, in building a game. The art is different; the way you build the art is different, the way you package the art is different. If you’re doing animations, there are a lot of ways of doing that. You can have an artist pre-build the animations into key frames and you pre-render them and display them. Or, you can use like in reverse kind of manner like animation kind of stuff where it’s humanoid animations which are built in another tool something like Maya or 3DS Max or something like that by an artist which then you play in your engine. So yeah, art is at least half of it. It does require having a good artist with the knowledge of production art especially if you’re doing a 3D game – 2D games, you can get away with a little less kind of game development knowledge because you’re mostly just building 2D images, used PNGs that you build in photoshop.
+
+<strong>KYLE:</strong> It goes without saying that Tetris is obviously going to be a lot more development than artwork something like Infinity Blade II is probably more art time than development time, so it depends on what type of game you’re looking at. There are very simplistic artwork games like – I don’t want to say Letterpress is a simplistic game – but the artwork for it is not as in-depth as a First Person Shooter would be.
+
+<strong>ROD:</strong> Doodle Jump.
+
+<strong>BEN:</strong> Yeah. Infinity Blade is just UI gesture recognized or played on top of a movie, right?
+
+[Laughter]
+
+<strong>KYLE:</strong> It almost seems like it’s the old-myth type game where it’s animating through the still movies, the old style they used to do. Blood Bath was an old Mac game that did that where its original first person single point shooter and it was just amassed images of movies of things popping up and getting shot and popping back down. So sometimes, it feels like we’re going back to that world on the iOS.
+
+<strong>BEN:</strong> Like Dragon’s Lair.
+
+<strong>KYLE:</strong> Yeah, like Dragon’s Lair! Absolutely.
+
+<strong>NATHAN:</strong> Oh, man! That’s all pre-canned stuff, all the arcade stuff is – even those animations in Mortal Combat, that was only partially interactive. Those animations are all pre-canned people. It’s really strange to look back at it now, but it’s still kind of cool.
+
+<strong>KYLE:</strong> Yeah, especially the complex fatality stuff in Mortal Combat…
+
+<strong>NATHAN:</strong> Yeah.
+
+<strong>KYLE:</strong> It’s all just amassed videos.
+
+<strong>NATHAN:</strong> And you mentioned, we both mentioned Letterpress a couple of times now, and you mentioned it from our perspective – I don’t know this for sure because I haven’t actually talked to Lauren – but I get the impression that there’s actually no art in Letterpress other than length of the icon. It looks like it’s all – by no art, I mean like PNG resources and stuff like that, there’s virtually none in there; it’s all fonts and not rendered on a fly so that’s almost like a no-art game compared, like you said, in Infinity Blade which is probably, I’d say probably at least 3 quarters of the work were doing art and animations.
+
+<strong>KYLE:</strong> Nathan, you brought up an interesting point there about Letterpress. I have a copy of the IPA on my computer and I just dropped it into Slender which can actually reverse, compile out the assets, entirely the crack…
+
+<strong>BEN:</strong> [Laughs]
+
+<strong>KYLE:</strong> There’s only 18 assets inside the project for a total of 232 kilobytes so it’s almost all completely rendered in code.
+
+[Crosstalk]
+
+<strong>BEN:</strong> This was so perfect, it’s almost like it was rehearsed.
+
+[Laughter]
+
+[Crosstalk]
+
+<strong>BEN:</strong> I was actually doing that exact thing except with a different tool, not a different tool like for pay, but like just the app crash script, they can unpack the IPAs for you.
+
+<strong>KYLE:</strong> It’s one of my favorite little hidden features of Slender. I like to see how other people build their apps. We tossed it in kind of last minute and it’s always really need the kind of tossing app is, see what can happen. It has also really upsets developers when I email them and say, “Hey, do you know you can save 27% of the download speed of Angry Birds if you remove these duplicate images?
+
+<strong>BEN:</strong> [Laughs]
+
+<strong>KYLE:</strong> So it definitely gets me in some trouble sometimes.
+
+<strong>BEN:</strong> One of the hold ups I would have, I think I have probably set a record somewhere for like most game programming books purchased and read without ever producing a single game. I’m like fascinated by the topic in general, but whenever I would get started, I would always get hung up on something. One of them was like there were no good game engines way back in the day so you would always start by writing your own game loop. A lot of that stuff is solved. Now, seems like the problem is lack of artwork. Since I’m not a designer, I would have to either just get some spreadsheets that are freely available in the internet, and then you can’t really ship with those? I’m wondering, what are the challenges that you guys see with building a game? Is it artwork or is it something else?
+
+<strong>KYLE:</strong> I think because we’re all developers, artwork seems to be the big problem for us. I think most developers, and I’m sure I will get some backlash on this, we started being developers because we wanted to make video games because they’re the most interesting thing on the computers when we are growing up with them. It’s, “I want to make games, too. I want to make a game just for myself,” and I think we all have that experience when we first started to kind of play around with games – it’s “I can’t draw,” so  I have bunch of stick figures running across the screen, it’s really not interesting. So what a lot of people have done is, a single developer partnering up with a single designer and they’ll produce a world-class game, and that’s really what you need to do if you want to be that one-man shop with a game like that. Not a lot of developers have that artistic talent and not a lot of really talented artist have that developer talent, so it’s really kind of a partnership you have to form in. The amount of developers that can do game art and make it look really good, I think I can count on one hand that I’ve met.
+
+<strong>JAIM:</strong> How do you learn how to kind of speak designer as a developer?
+
+<strong>CHUCK:</strong> [Laughter]
+
+<strong>KYLE:</strong> Practice [chuckles]…a lot of practice and a lot of trial and error. They have a completely different mindset and you especially getting an artist who hasn’t done games before; it’s like getting an artist who hasn’t done an app before. They don’t understand how things need to be sliced up, they don’t understand how things need to be presented, and they might be able to do some really cool concept art, but it just doesn’t work in the real world. Nathan is working on a game project with us right now where the artist will design these beautiful mockups for the iPhone screen; it’s kind of a first-person 2D scrolling game like Mario. The artwork doesn’t really lend itself to that kind of scrolling behaviors. It’s not something that can be continuous. It definitely raises a lot of problems for the artist and it takes a long time for them to learn what goes into a game as well because when you’re playing a game, you don’t really think about all the pieces that have to be put in there together if from an artwork perspective, which is very visible to us as opposed to the other code. So it’s definitely a lot of trial and error. If you’re working with an artist who has never done a game before, it’s definitely a lot of back and forth and arguing.
+
+<strong>NATHAN:</strong> There’s really a very strict delineation and a big difference between concept art and production art in a game. If you’re an artist concepting out an app, a regular non-game app in photoshop, a large percentage of what you do in photoshop can easily be translated directly into the app. Where in a game, when you concept out stuff – because a game is a continuously moving simulation, so there’s very little static content. The screens don’t just stop in a spot. Things are always moving and hopefully, at least, 60 times per second, your world is being simulated. So the art that you design has a concept, while it might look great requires a completely different set of skills to turn it into production art. Like if you have a background, if it’s a 2D game, you have a background landscape; that landscape needs to be repeatable in some way. So if you’re going to be moving side-to-side, I’m talking about moving side-to-side in 2D for example, when you have a landscape in the background, then as the character moves, you have to be able to repeat that landscape. So each of the image have to be perfectly tileable, so the things like that you need to consider when doing production art. And it’s a different skill. It’s not as creative I guess as doing concept art would be so it’s also difficult to tag artist in that direction sometimes. There are some that really like to be [in] production art. And in a lot of cases, just not a pure necessity, I’ve become pretty decent with photoshop, just have a necessity to turn concept art into something I can actually use on a real game.
+
+<strong>KYLE:</strong> Nathan cautioned an interesting point there, and it’s a tileable art, which is kind of the vein of our existence when doing game dev, is you have a very limited amount of the RAM which stores the textures in it, the actual artwork, so you really want to try to cut down on that and make everything as repeatable as possible. And the people doing the concept art, they don’t think in terms like that. They’ll think, “Yeah, let me hand you a sky map that eat megabytes,” and it doesn’t really pile it all so you have to kind of fight that battle as well.
+
+<strong>NATHAN:</strong> Yeah, and you run into multiple [unclear], depending on what type of game it is. If some of them are optimization issues, some of the background stuff can be an optimization issue especially if it’s a standard kind of platform or a game where you’re designing the levels, a game designer is designing the levels manually. If it’s a procedurally generating game, then there are all kinds of other issues that get thrown in there that you need to – if it’s not procedurally generated, then you can hand tweak the levels even with some of the repeating backgrounds of stuff. If there’s like a little cork somewhere, you can hide that cork; putting something else on top of it. But if you’re doing things procedurally, it’s a lot more difficult to find those corks until you actually run the game. So it’s a lot of a ‘import the art; code what I need; run it; tweak a little bit; stop it; tweak a little bit; run it; tweak a little bit’. I’d say, as a developer or a game designer, that last kind of 20% of the game development, the tweaking part, is actually a lot more than 20%. I spend probably more time tweaking float values in sizes of things than I do actually writing code that feels like sometimes, just because you never what’s going to feel. And that’s a really important concept to get across in game development. One of the probably the best things you can do, if you’re starting to build a game you’ve never done it before, probably one of the best things you can do for yourself and for your game, is to get to a working prototype as quickly as possible and play it – at least you can play it because then you’ll know very quickly whether or not it’s fun. Is the concept not going to be fun? Is my implementation not going to be fun? Or, do I see to tweak a little bit? And then get into the hands of other people and get feedback from them as well, and hopefully, actually watch them play it over their shoulder. But it’s really, really important in a game to get something up and running as quickly as possible because really what makes a game fun isn’t the initial concept as much as it is the feel of the game especially if like an action type of game. Getting that exact right value for your player’s mass so when he jumps, he jumps at the right pace, so all those kinds of things, given the exact right number, it could be the difference between 5.01 and 5.015 for a value. You just don’t know. You have to tweak until you get it right. I won’t even get into differences between hardware and making that a problem. The cool thing about developing a game, from that perspective, it is just much of an art as it is pure engineering. Even as an engineer, you’re spending a lot of time kind of tweaking the feel of things, at least if you’re an indie. Now, if you’re in a big triple A shop, you’re coding a part of the engine and that’s it. But if you’re doing it on a small team, then everyone is constantly running and tweaking and changing values. Everyone becomes a designer and it has a lot of creative say in the game at that point, and that’s when it gets really fun.
+
+<strong>BEN:</strong> Do you end up having to – just because our feedback cycle of like you’re tweaking some like multiplication factor for some mass acceleration and gravity and whatever in order to make the game feel right, and you’d switch this value around and rebuild, and run to that part of the game where you can jump up on the ledge and make sure it feels right. Do you ever do things like embed those controls with a newer game in like a DevBuild so you could tweak those settings?
+
+<strong>NATHAN:</strong> Absolutely. This is where our tools become really important. For something like game developers, or the game developer I know, loves to do is to build tools. Pretty much every game project I’ve ever been on has had at least one custom tool of some kind to make the process easier. And then there are things built into the engines that help with that kind of stuff as well. We use Unity for a lot of our games, the Unity 3D engine, not only because it’s cross-platform, but also because the Unity editors are really good environment for that. You can actually just hit command P or press the play button and your game executes immediately inside of the editor and you can tweak the values while it’s running and get some of that feel. Although it’s not the same as writing on a device, it kind of gets you part of the way there. And then yes, one of the other things that you want to get in the game as quickly as possible is a way to tweak those values when it’s running on a device, whether that’s a developer console that pops up. I’ve done just open up a basic telnet session over TCP in same commands. I’ve even scene games, I haven’t done this myself, but I’ve [unclear] goes as far as to embed an HTTP server directly into the debug build so they typically request it and have a little popup in the browser so they can tweak values in the browser while they’re running the game.
+
+<strong>BEN:</strong> That’s awesome. It’s almost like a remote HTTP quick console.
+
+<strong>NATHAN:</strong> Yup. That’s exactly. And another thing you can do is use the debugger for that, obviously. But having something, especially in the case like Empirical for example, our team is distributed. So it’s going to be nice if I can get to all the guys in the team and give them a way to pop up in the developer console, change the values. And then the changes they make can be sent back to me in some way or when the developers to change things up. But the other thing you want to get as quickly as possible is to get the thing running so you can start tweaking the feel and yeah, they really shorten that build-run cycle. Even if it’s just a configuration file, that doesn’t work as well in iOS, obviously. But if you’re working on a Mac or something, just changing some values in the configuration file really quickly, they can also make it easy, and then also having ways to get to those levels. So if you’re tweaking something that –
+
+<strong>BEN:</strong> Yeah, slipping more up straight to it, yeah.
+
+<strong>NATHAN:</strong> Right, yeah. If you’re tweaking something, it only happens in a certain part of a certain level fun ways to work to that part and get everything set up properly. So you’ll definitely find game developers spend a good portion of their time, I’d say 1/3, maybe even more of their time building tools to make the actual process easier and more fruitful. The whole goal is to get a fun game. Discovering that – and you don’t really design a fun game as much as you kind of discover a fun game – you definitely have some ideas of what you think might be fun and you put things together in a way that hopefully will be fun. But the final product is never what the original thought was, the original design was; it’s really you can kind of discover it through tweaking and testing and getting in front of other people and that kind of stuff.
+
+<strong>KYLE:</strong> What you guys are talking about here is actually where CheatCodes came from. The developers of that earlier games entered CheatCodes into the games about –
+
+[Crosstalk]
+
+<strong>KYLE:</strong> Not the cheat, but so they could test stuff – jump the levels, unlock weapons, and all that kind of stuff. They just started eventually leaving them turned on and in the game and they became CheatCodes as we know them, so it’s definitely not a new concept or anything like that that allowing developers to kind of cheat their way through a game. But it’s been with us since really the beginning of video gaming.
+
+<strong>BEN:</strong> I want to go back to something you said earlier about the sort of side-scrolling games. I did it in game development session at a conference. As a result of it, I wanted to have like a cool game demo so I downloaded the Metroid Sprites, which was really freaking awesome. You had like the Samus running around and I could tap the screen to make her jump and she would do the flip animation and then continue running. But it was an endless scroller kind of like cannibal to Temple Run. One thing I noticed is, so I had this ground texture that was like twice the screen width, and I would just move it underneath her to keep the player stationary. And then when it got sufficiently for up screen, I would deallocate that particular ground texture and allocate a new one for up in the future, and it give you the solution that you’re running on ground forever. But what I noticed is that the dealloc and the realloc of the new class, the new object, even though I was using the same texture, that was a perceptible hiccup in animation. So what I ended up doing is just recycling it exactly how you would recycle TableView cells. I’m wondering, this sort of mindset shift that you have like very little time to do your work, what techniques do you tend to use? Or, what are the things do you stay away from inside of your game loop to avoid things like this?
+
+<strong>KYLE:</strong> The really interesting thing with game development is, unlike a normal app, you’re rendering the entire game loop, the entire scene, 60 or so times a second, so optimization really comes into play a lot more than it comes into with a normal app. So even shaving off a couple of milliseconds or color OpenGL reset identity can make a really big difference. Nathan, I’m sure you have some particular optimizations that you like to use over and over again.
+
+<strong>NATHAN:</strong> Yeah, there are a lot of standard things. The recycling thing is very common. Like Kyle said, if you want your game to render 60 frames per second, then everything including all the other overhead required to render, not just your calculations that you need to do. But every bit of overhead, from sending textures across to the GPU and all that kind of stuff to actually finally blip the final end of your screen. You have .017 seconds to do all of that, and you have to do it consistently in under .017 seconds, or your game will hiccup and you will drop frames. So yeah, there are ton of optimizations. First, you hit on one of them, and that’s allocating on pretty much any platform. Malloc is slow; allocating memory is slow. So it doesn’t really matter what engine, what platform you’re on; pre-allocating stuff as you need a lot. So something you’ll hear in developer, especially if the developer has come from the console world – I did my console time back in the PS2 and Gamecube days, and it hasn’t really changed since then from what I understand. Something that you’ll hear console developers complain about when they move to something like the iPhone is virtual memory. As a console developer like on a Playstation or something like that, you’re given a block of memory. Exactly how big that block of memory is, and it’s always yours for the entire run of your game. You can allocate however you want, you can use that memory however you want, it’s yours, and nothing’s going to get swapped anywhere – that’s your memory. Obviously, you don’t get that on iOS. You’re forced to use the whole virtual memory system, which can occasionally fraught with peril if you don’t use it carefully. So what a lot of game developers will do, and I’ve been in this, too, in most of the games I build – is to pre-allocate everything. The whole launch cycle, the loading – loading much stuff in advance is possible. You get to that first launch screen as quickly as you can, but while they’re picking to the menu, you should be loading everything else. Because if you need to allocate a lot of objects during the execution of a runloop, it’s not something you think about too often when you’re building a regular app. But really, every line of code that you write is all that we put together and going to be run all at the same time and it all has to run in under .017 seconds. So that little bit of overhead it takes to allocate an object is going to cause a lot of trouble. So pre-allocating things and just kind of keeping them off to the side, so kind of building things up in memory, but not necessarily rendering them because you don’t want the necessarily things that aren’t looking for the next things. So pre-allocating, sending things up, and not doing any kind of allocating during the run of the app is important as possible. Strategically using the stack versus the heap and then the next thing would be only rendering was necessary. We’re talking about iOS here, so I’ll take some very iOS specific approaches. But the iOS GPU is a tile-based render and it worked best when it knows exactly what to do for each pixel. I’m trying to think of a better way of saying this, when you render a scene to the screen, and this even true in UIKit, what’s going on the background is every pixel that needs to be rendered, you need to decide what color of that pixel is going to be for that particular frame. So if you’re rendering a game and you have multiple layers on top of all the layers, if one of those layers is being obscured – say you have 10 layers deep of something, but you have to render each layer before you get to the final one, that’s a lot of overhead; that’s called “overdrop” in the game world. That’s where the whole transparency issue becomes a big deal. That’s something, if you done any work with ScrollViews and TableViews and that kind of stuff, you’ve probably dealt with opacity and transparency because similar issues, when you’re trying to scroll a TableView roll fast to 60 frames per second, you want to give the GPU as little to do as possible. So if you have 10 layers of things where really all could potentially be transparent because they have enough of value, then each of those need to be rendered in succession and then you blend on top of them. But if you can do things like if you know, for example, something is going to be completely opaque, then flag it as opaque, and then you don’t need to worry about rendering anything underneath it. The render in the GPUs is very smart and very intelligent at deciding, “Oh, these thing is opaque so I don’t need to worry about even trying to draw anything behind it,” and the GPU won’t even call the shaders to get that pixel all over to scrap the first one; that’s kind of what it’s built for.
+
+<strong>BEN:</strong> I have a quick question…maybe not so quick [chuckles], I was at a really good presentation by Jonathan Blocksom at CocoaConf and he was talking about all just sort of lay the land of all the graphics technologies available on Mac and iOS. We have Scene Kit and Sprite Kit, we have GL Kit, and I was looking specifically – I can’t remember which one it was, actually now – I think it was Scene Kit where you can do a lot of things without necessarily knowing about like Vertex shaders and Pixel shaders and all of the stuff in OpenGL ES 2.0.
+
+<strong>NATHAN:</strong> Right.
+
+<strong>BEN:</strong> Those are things that, since I’m kind of old school, I learned way before shaders existed, so I’m happy to take on this sort of higher level obstructions. I’m wondering if those things make sense to build on top of those things. Or, do you find yourself wanting to drop down into these lower levels?
+
+<strong>NATHAN:</strong> Absolutely, it kind of cuts both ways there, because you can do a lot just using those technologies. Most of the stuff you’re going to do in Vertex and Fragment shaders are the same stuff over and over again because a lot of the stuff you learned when you were doing fixed-function in GL, which I also did back in the late 90s before there was a shader language, a lot of the stuff you’d do in that part of the pipeline, the rendering part of the pipeline is just replicating shaders anyway. There’s a lot of standard shaders that basically do what you would have done in the fixed-function pipeline, and you use a lot of that stuff anyway. Now, there are definitely a lot of optimizations you can do using shaders from the both optimized rendering speed, the optimized binary size. I’ve seen some really interesting stuff done in shaders where parts of the environment in the 3D world like flags waiving in the wind are actually all implemented inside of a shader, and all of the data for how a flag should waive is embedded in the PNG in the alpha channel, things like that. You can do crazy stuff like that for optimization’s sake with shaders so it’s nice to have them when you need that, but the majority of what you’re going to do, especially building a 2D game, is you’re going to be using the standard stuff anyway. So absolutely, what I said before about getting something running very quickly and testing it and playing it and making it fun, that’s much more important than having the access to that other stuff. I think it’s either faster than you use that. You might end up having to switch later for whatever reason. You’re running it at performances so you just can’t do what you want with the technology you’re currently using, occasionally, you have to switch. But yeah, it’s totally great to use those things. I highly recommend them. Because I come from the world of doing GL by hand, I feel a little hamstrung when I don’t have them. But that doesn’t mean I actually would use them anyway in a lot of cases. I don’t use them when I do UIKit stuff…
+
+<strong>BEN:</strong> Right. I don’t know if we can switch the conversation a little bit and talk about some of the facilities that iOS has beyond graphics to facilitate gaming, specifically I’m talking about GameCenter. We have like the Matchups and the Leaderboards and that sort of stuff.
+
+<strong>NATHAN:</strong> GameCenter is really amazing technology for anybody who has done Leaderboards or achievements or multiplayer before the days of GameCenter; that stuff was a nightmare. I remember back in the iPhone 2.0 days before it was even called iOS, I’m doing a Leaderboard for a game, we had to write the PHP server, we had to implement antihacking stuff. With the way that GameCenter is set up is everybody has got accounts now; all the stuff shared across it, and access in Leaderboard’s achievements is maybe .30 lines of code to get that all setup and running. So it really saves you a lot of headache. The multiplayer stuff is really amazing, too, especially the match making. If there are enough people and they’re looking for a game, match-making can really add a lot to the platform. You don’t have to worry about error, correction, or anything like that. Turn-based multiplayer was added in iOS 5 and that really came around added a whole new element in the multiplayer stuff and Apple continues to kind of expand on GameCenter and add to it. A lot of people don’t know that GameCenter even has a voice chat engine built-in to it, and anybody who’s ever worked with Voice Over IP knows that that stuff is a real nightmare, too, to get right. With GameCenter, you can actually get that up and running. I think, 4 lines of code is all you need to get that all setup. So it really makes game development a lot easier and adds all that stuff that people are looking to for a game. Shipping an app without a Leaderboard now or a game without a Leaderboard now is really unthinkable, and GameCenter kind of gives it to you for a very, very low overhead.
+
+<strong>KYLE:</strong> I’m still surprised that so few have – I actually haven’t found any apps that I can think of off the top of my head or games that used the voice chat feature. I think it’s really cool and it’s amazing how easy it is to use, and I really don’t know if anyone is using it.
+
+<strong>BEN:</strong> Is it only real-time? Or, could you do like asynchronous voice? Like if I’m playing Letterpress and I’m like, “Oh, man! Check out this word,” or something like that, I can record it. Is it all just real-time VOIP?
+
+<strong>KYLE:</strong> It’s built on top of the AV Foundation kits for sounds so if you wanted to do just kind of a delayed message like leaving a voicemail for somebody, you don’t even have to go down to a level of voice chat; you would just kind of record that audio and pass it over as part of the game data to next layer, so it’s even easier than that. But a lot of games just don’t think people are interested in real-time chat or any kind of delayed asynchronous chat especially in a turn-based game. So it doesn’t make sense that you can’t talk to your opponent and it’s always been kind of a pet-peeve of mine that you’re playing Scrabble or Letterpress or Risk with somebody on iOS using turn-based and you can’t communicate with that person at all; it’s really frustrating sometimes. And the technology and the tools are all given to us for, like I said, very low overhead from GameCenter and Game Kit to do that.
+
+<strong>JAIM:</strong> You guys talked a little bit at the beginning that game programming is part of the reason that you have to enter development of the first place, and it gets true for a lot of developers. But when they get into, and actually doing work as a career, they’re doing line of business web apps, something like that. But you guys actually made the switch where you’re doing a lot of game development and actually doing it as part of your job, not just as a night and a weekend thing. Can you guys talk a little bit about how you guys made the switch to do that?
+
+<strong>KYLE:</strong> Sure! It’s a hard switch to make. The problem that you have is, like you said, everybody wants to be a game developer; everybody wants the work on games because they perceived that’s very fun. You think that in a video game test, you get to sit around play games all day. Same thing with the game developer, you think that’s kind of the world that it is. So the market is really crowded. Unfortunately, when the market is really crowded, it’s hard to get a job for it. And when you can’t get a job for it, it’s usually not as well-paying as a typical development job doing databases or websites. So the problem that I had, and a lot of other people had, was we tired ourselves to be programmers, we went to college or school to be programmers to make games, and then very quickly we realized there’s not a lot of money in it. With iOS, there can be a lot of money in it, but there’s also a lot of games. I like to call it kind of a lottery. You can make a really great game, and I’m sure there’s thousands of thousands of really amazing games out there that nobody has ever downloaded or never really took off. So the problem is, you can put a ton of time into it and not actually make any money off. You spend more than a year making a game and never actually see any profit from it. Whereas if you’re a consultant for somebody else, if you’re working in a cubicle job, you know you’re getting paid for the time you put into it, so there’s a lot of risk involved with it. As far as working professionally for a game development shop like Empirical Development, it’s really good to kind of build up that portfolio. It’s kind of a catch 22 as you can’t build up the portfolio if you’re not working in the career field. What you want to do is you want to work on hobbyist programs, you want to join an open source games out there, and there are plenty of games out there that are written in the open source kind of mentality. I haven’t seen too many on the iOS platform, but definitely on a Mac and Windows and Linux, there’s a lot of open source kind of contribute games out there. So the trick is this, do a lot of it; build up your portfolio. More so, with any other type of developer out there for game developers, it’s all about your portfolio. It’s what you’ve worked on, it’s what you’ve done for those games, and any developers can be looking at your portfolio. But with a gaming portfolio, it’s doubly important.
+
+<strong>NATHAN:</strong> The problem with getting into the game industry per se like as a developer at a studio especially a bigger studio is they are notorious for taking advantage of the fact that you can make games there. And pretty much any kid in college wants to make a game. I’m not a kid in college anymore so I’m not willing to spend 80-hours a week working for virtually no pay on this kind of really go-for kind of jobs in the code base. I want to help build the game, and that’s not what you get especially coming out as kind of entry level person into the video game industry. I was lucky and got kind of get steered away from that approach like I almost set it down there when I first came out and I got steered away from it into the middle ware and tool side. That was an interesting kind of entry into the game of development industry where it’s working on compilers and debuggers and profilers and that kind of stuff or consoles. That’s kind of another backdoor way into the industry. Me, I’m a graphics geek. As much as I love games, I really love computer graphics. So I found other ways to work on graphics without working on games, whether I was working on some visualization toolkits and stuff like that. I kind of went for trying to go for gigs that were heavy on things that are important to game development like graphics or tools and optimization, that kind of stuff. So I kind of had the foundation for actually building a game without having to suffer at the hands of Activision or EA or something. But right now, yeah, build a game. Build a game and put it out there; you’re probably not going to make any money out of it so you might as well make it free so more people see it. That’s the only way you’re going to kind of break in or that actually become part of a – the best way to become a game developer is to make a game, and it doesn’t really matter what it is, just start doing it. Like I said, get to something you can build, something you can touch as quickly as possible, and tweak it from there. You’re already a programmer so you know how to do that. So get something you can touch as quickly as possible and start tweaking it. Eventually, the game will pop up the other side. It just takes a lot of time and dedication, and you have to really want to do it because game development is not easy, so getting into it is difficult because it’s not easy and because it seems so cool from the outside.
+
+<strong>KYLE:</strong> I would venture guess and say that there’s not many entry-level game positions out there for iOS, and the ones that are out there, there’s probably just unbelievable competition on. So make sure you’re not entry-level work on games. In your spare time, do a lot of us did, we tried to get into a platform that we love. It’s once you come home from your day job, just sit all night and you work on a code that you’re passionate about and you get some products out there. If you make something for yourself, then hopefully, other people will like it and you can kind of take off with them.
+
+<strong>CHUCK:</strong> Yeah, makes sense.
+
+<strong>JAIM:</strong> So work those nights and weekends, that’s what I’m hearing.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>JAIM:</strong> Do-It-Yourself.
+
+<strong>BEN:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> Nice.
+
+<strong>KYLE:</strong> Unfortunately, there’s just not a lot of space for people coming in who are inexperienced with it already.
+
+<strong>NATHAN:</strong> Yeah, the competition is too fierce, the budgets are too tight, and it’s really hard to justify bringing someone on to get them trained up.
+
+<strong>CHUCK:</strong> Yup.
+
+<strong>BEN:</strong> I don’t think it necessarily has to be like something that you shy away from because it’s a crowded market or it’s difficult to get into. Because for me, I was learning how to do Object to run it in programming and I was really interested in software design and games or a way to flex those like different parts of my programming muscles, and exercise things that I would normally not think about like a game loop or running things efficiently or scene graphs or whatever, just lots of things like that. So I think, there’s value in just doing it as a way to advance your own sort of skills.
+
+<strong>NATHAN:</strong> Yeah, and it definitely make you a better developer, just like learning a new programming language will make you a better developer. Anything you do that’s out of your comfort zone and make you think about things from a different angle will make you better.
+
+<strong>KYLE:</strong> Idea of optimization, you need to do to get a game that run right is only going to help you do everything else when it comes to programming.
+
+<strong>CHUCK:</strong> Yeah. Alright, well, there’s a party in Cupertino, so let’s get to the picks.
+
+<strong>BEN:</strong> [Laughs]
+
+<strong>CHUCK:</strong> Ben, do you want to start this off?
+
+<strong>BEN:</strong> I’ve got a lot so I’m going to go really quickly. This is a game by an indie developer who sort of just fell into immediate success. I haven’t played it in a long time, but if you haven’t played it, it’s well worth it. It’s called “Trainyard” by Matt Rix, and he is now a full-time game developer. Another game that takes use of the GameCenter sort of local Matchups is called “Space Team”. It’s a free game and it’s hilarious. Basically, you get a screen, and the things that it’s telling you to do to fix the spaceship are buttons on somebody else’s iPad so you got to shout out the instructions and it’s always like flip the goggle flinger, and he’s got to look for that button or switch on his screen, and he’s shouting out things to you and it gets worst the more people there are. That’s a hilarious game. Another app I’ve been using recently is the “Duolingo” that gets a really solid iOS app and I’ve been using it to learn a little bit of French. And then some other picks I’ve got, one of my favorite game programming books is called “Game Coding Complete” by Mike McShaffry. This just totally blew my mind. It’s like 1800 pages or something, it’s huge, but it goes into like how you design games and how you work with assets. It’s completely outdated at this point, but I think the concepts are still relevant, and that’s just a fascinating read. And then 2 videos, one of them is called the “Physics of Light” by John Carmack. He gave this at Quakecon earlier this year, I think, and it’s just a really good talk by one of the luminaries in the game development industry and how games simplify the Physics of Light, and they can take shortcuts that make it seem real And then lastly is another video by Bret Victor called “Inventing on Principle” where he talks about some sort of innovative in game or like in app tools you could use to sort of get more rapid feedback on what you’re building. I don’t want to spoil the punch line, but just go watch it. And those are my picks!
+
+<strong>CHUCK:</strong> Alright. Jaim, what are your picks?
+
+<strong>JAIM:</strong> I have one pick. I’ve got a blog post I may have mentioned before, but it’s “Overcoming iOS Game Memory Limits”. I don’t do a lot of whole like game stuff, but I encounter a lot of the same type of problems doing kind of a notation engine for a music application or playing music and drawing parts of the screen, so drawing stuff offscreen. But memory management is a problem with a lot of apps so I’ve got a blog post from Game Closure, and that’s my pick!
+
+<strong>CHUCK:</strong> Alright. Andrew, what are your picks?
+
+<strong>ANDREW:</strong> I’ve got 3 picks today. The first one is the “Nerd Blog” which is Big Nerd Ranch’s blog. They have a lot of good technical posts mostly about iOS development, although occasionally about other things because I think they’re sort of trying to expand to more than just iOS and Mac. Second one is a post by Craig Hockenberry on his blog this week which was in iOS Dev Weekly  and Mac Dev Weekly, but it goes through some problems with code signing and the upcoming 10.9 release and also has a solution and it helped me fixed this very problem this week, so there’s that. And then the last one is a little app that I use all the time called “CocoaColor”. It’s on the Mac App Store, I think it’s a few bucks, and it looks terrible. The UI is really quite core…
+
+<strong>BEN:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>ANDREW:</strong> But, it’s really useful and it will generate code for NSColor, UIColor, CSS Colors, NSGradient, and that kind of thing with a UI with color picker and all that. It can also translate back from an NSColor call to paste that into your color picker if you want to tweak it so it’s nice. And, those are my picks!
+
+<strong>CHUCK:</strong> Awesome. Rod, what are your picks?
+
+<strong>ROD:</strong> Alright, I’ve got 2 picks. The first pick is actually a game that I wrote with some friends a while ago – we haven’t updated it because it hasn’t done well – but it’s still interesting because it actually is a game that you play in the real world. So if you played like the assassination game in college, if you know what that is, it’s similar, it’s called “NinjaHit”. You use the camera to basically go kill people, your target. It was fun to develop. So if you want an idea of what you can do in the real world, you might check that out. And then my second pick is “Joybox”, which is a RubyMotion gem for writing games. It is a wrapper around Cocos2D and Box2D which is a physics engine. So I prefer a higher level of obstruction for writing games, and it looks like a lot of fun, and the website is pretty cool, too, so check that out. Those are my picks.
+
+<strong>CHUCK:</strong> Awesome. Alright, I’ve got a couple of picks. The first one – I’m stealing it off of the ImpactJS episode that we did on JavaScript Jabber – it’s “OpenGameArt.org”, and it’s a bunch of art that you can use in your games. In fact, I’m going to pick the “ImpactJS Episode” where it’s actually a system for writing games in HTML5 canvass and things like that. They actually have a utility that you can use to port them over to iPhone games. I also want to pick the “next episode on JavaScript Jabber” where our very own Pete Hodgson came on and talked about asynchronous testing. So if you’re a fan of Pete, then go pick up the latest JavaScript Jabber and I’ll get links to both of those in the show notes as well. Nathan, what are your picks?
+
+<strong>NATHAN:</strong> I’ve got a few. First of all, mine are going to point towards the thing that people always seem to ask me when they get started in game development, and that’s Math – and Math is hard as we all know. There are some pretty good resources out there for the kind of Math that you would do as a game developer. Now, there’s a really great series of posts on the 2D Linear Algebra for Game Development on the Wolfire blog, it’s called “Linear algebra for game developers” and it’s a 3 part. It’s a really, really simple, straightforward introduction to Vector Math, and I think there’s a little bit of Matrix stuff in there as well. But really important, if you’re building a game where things have to move, it’s the Math that you’ll spend most of the time doing. Another one is also Math-related, and it’s a book. The second edition just recently came out called the “3D Math Primer for Graphics and Game Development”. You can pick that up on Amazon or wherever, but it’s the book that taught me 3D Math or graphics Math in general. Another one is more general game development, not necessarily in iOS, but that’s “#AltDevBlogADay”. It’s a ton of people on the game industry just it was their kind of the take off back in the day and we were doing iDevBlogADay, which is a bunch of iOS indie devs just posting in their own blogs and they kind of aggregated them all together. This is the same thing, but it covers the entire game development industry. There’s a ton of people writing games out there that are also blogging about their process, whether it be Physics, Art, Production, Design, whatever they’re putting on their blogs is getting aggregated to #AltDevBlogADay. It’s a fantastic and fascinating resource to follow. I believe those are all my picks for now.
+
+<strong>CHUCK:</strong> Awesome! Kyle, what are your picks?
+
+<strong>KYLE:</strong> I have 3, all apps, surprisingly enough [chuckles]. The first is app called “Sleep Cycle”. Since the iPhone came out, people have been trying to develop an app that can properly detect REM sleeps so it can wake you up when you’re not in an REM sleep. Sleep Cycle is the first one I’ve seen that can actually do it well. I’ve been using it for about a week now, and it’s quite an amazing app, just check it out. “Pivvot” is iOS game that’s fairly new. It came out a few weeks, maybe a month ago now, and it’s a very simplistic type game. It’s something that anybody could have written even with very limited game program and experience, and it has such an amazing gameplay. We were talking about doing art-free or low-art type apps, this is a great example of what somebody can do with a very limited art resources and still make a really fantastic app. The final one is called “Hungry Shark Evolution”. This is a game that my girlfriend actually got me hooked on. You play a shark and it evolves every time, it gets bigger, and you just kind of swim around and eat fish. It’s a nice little no-thought action game.
+
+<strong>NATHAN:</strong> It feels I could [say] something about Pivvot; that’s a good example. Someone who wasn’t a game developer becoming one, would it be the guy who built it actually was doing a bunch of music for indie games and decided wanted to build his own, and Pivvot is among of the ones that came out of that. So, it is possible.
+
+<strong>KYLE:</strong> And it’s doing very well, too, which is always nice to see from smaller less-known developers, and it’s really just a great example of what you can do when you don’t have tremendous resources behind you.
+
+<strong>CHUCK:</strong> Yeah, that’s really cool. Hopefully, we can get a few more people to try their hand at writing games. Alright, well, I don’t want to take too much more time because I know you guys want to go see the Apple event. So, I’m going to wrap up the show. Thanks for coming, guys!
+
+<strong>KYLE:</strong> Thanks for having us! It was a lot of fun.
+
+<strong>NATHAN:</strong> Yeah, thanks a lot!
+
+<strong>BEN:</strong> Yeah, thanks!
+
+<strong>CHUCK:</strong> Alright, well, we will catch you all next week!

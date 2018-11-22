@@ -1,0 +1,56 @@
+---
+layout: layouts/post.njk
+title: >
+      Acceptance Testing with Evan Light and Jorge Dias
+date: 2011-08-25 17:08:25
+episode_number: 
+duration: 
+audio_url: 
+tags: teachmetocode
+---
+
+[powerpress]
+
+<a href="https://github.com/elight/coulda">Coulda</a>
+<a href="https://github.com/xing/filet">Filet</a>
+<a href="http://ruby-doc.org/stdlib/libdoc/test/unit/rdoc/classes/Test/Unit.html">Test::Unit</a>
+
+Thoughts on what make good acceptance tests:
+<ul>
+	<li>Don’t write brittle tests</li>
+	<li>Communication between the coder and customer</li>
+	<li>Not being low level</li>
+	<li>Keep them at the same level of abstraction</li>
+</ul>
+Thoughts on Cucumber:
+<ul>
+	<li>Jorge likes Cucumber’s Given-When-Then</li>
+	<li>Cucumber’s plain english definitions are extra overhead when your customer isn’t going to read your</li>
+	<li>english definitions.</li>
+	<li>Evan likes Cucumber for:</li>
+<ul>
+	<li>Popping the why stack</li>
+	<li>Given When Then And</li>
+</ul>
+	<li>Evan doesn’t like:</li>
+<ul>
+	<li>It’s an external DSL</li>
+	<li>Boundary between the test language and the code</li>
+	<li>Has loose coupling between step definitions</li>
+</ul>
+</ul>
+We need our acceptance tests to run fast too.
+
+How do you test your javascript?
+<ul>
+	<li>Selenium tests on the critical parts</li>
+	<li>Ignore the javascript and test the ajax requests.</li>
+	<li>capybara-webkit</li>
+</ul>
+<a href="https://github.com/grosser/parallel_tests">parallel_tests gem</a>
+<a href="https://github.com/ngauthier/hydra">Hydra</a>
+<a href="https://github.com/mavenlink/jasmine-fixtures">jasmine-fixtures</a>
+
+<h3>Transcript</h3>
+
+

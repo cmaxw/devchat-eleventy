@@ -1,0 +1,254 @@
+---
+layout: layouts/post.njk
+title: >
+      114 AiA Life Lessons from Angular Air - Jeff Whelpley - Angular Remote Conf
+date: 2016-10-13 06:00:39
+episode_number: 114
+duration: 46:28
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA114_Life_Lessons_from_AngularAir_-_Jeff_Whelpley_-_Angular_Remote_Conf_2016.mp3
+tags: adv-in-angular
+---
+
+<b></b><span style="font-weight: 400;">1:50 - Introducing Jeff Whelpley at Angular Remote Conf</span>
+<ul>
+ 	<li style="font-weight: 400;"><a href="https://twitter.com/jeffwhelpley?lang=en"><span style="font-weight: 400;">Twitter</span></a></li>
+ 	<li style="font-weight: 400;"><a href="https://github.com/jeffwhelpley"><span style="font-weight: 400;">Github</span></a></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://angularair.com/">Angular Air</a></span></li>
+</ul>
+<span style="font-weight: 400;">3:40 -  Working on Angular Air</span>
+
+<span style="font-weight: 400;">6:25 - Lessons from Ben Lesh</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://plus.google.com/events/c2ic6t5id964kdo47dr0of5d3ag">Episode Link</a></span></li>
+</ul>
+<span style="font-weight: 400;">8:20 - Lessons from Gleb Bahmutov</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://plus.google.com/events/ce9lds6bk5nnre76da8hhig0n60">Episode Link</a></span></li>
+</ul>
+<span style="font-weight: 400;">11:50 - Lessons from Aaron Frost</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://plus.google.com/events/c497n1rurigtea0nlq3q7c9qn9c">Episode Link</a></span></li>
+</ul>
+<span style="font-weight: 400;">14:00 - Lessons from Shai Reznik</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://audio.angularair.com/e/ngair-70-the-making-of-ng-show-with-shai-reznik/">Episode Link</a></span></li>
+</ul>
+<span style="font-weight: 400;">16:50 - Lessons from Joe Eames</span>
+<ul>
+ 	<li style="font-weight: 400;"><a href="http://audio.angularair.com/e/48-ngair-why-empathy-will-make-you-a-better-developer-with-joe-eames/"><span style="font-weight: 400;">Episode Link</span></a></li>
+</ul>
+19:10 - Lessons from Uri Goldshtein
+
+21:40 - Lessons from Wesley Cho and Jesus Rodriguez
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="http://audio.angularair.com/e/47-ngair-how-to-become-an-open-source-contributor/">Episode Link</a></span></li>
+</ul>
+<span style="font-weight: 400;">25:40 - Lessons from Brad Green</span>
+
+<span style="font-weight: 400;">28:50 - Lessons from Igor Minar</span>
+
+31:40 - Lessons from Victor Savkin and Dan Abramov
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="http://audio.angularair.com/e/angular-air-episode-53-angular-2-reactive-redux-with-victor-savkin-c-dan-abramov-and-rob-wormald/">Episode Link</a></span></li>
+</ul>
+<span style="font-weight: 400;">34:30 - Lessons from Amy Knight</span>
+
+<span style="font-weight: 400;">36:05 - Lessons from Patrick Stapleton</span>
+
+<span style="font-weight: 400;">39:00 - Lessons from Jamie King and Kyle Newman</span>
+<ul>
+ 	<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt0489049/"><i><span style="font-weight: 400;">Fanboys</span></i></a><span style="font-weight: 400;"> movie</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://plus.google.com/events/cthcfidro7bh8428hl8o5kt4128">Episode Link</a></span></li>
+</ul>
+
+<h3>Transcript</h3>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">This episode is sponsored by hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York and LA bid on JavaScript developers providing them a salary and equity up front. The average JavaScript developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. When you’re hired, they also give you a $1,000 bonus as a thank you for using them. But if you use the JavaScript Jabber link, you’ll get a $2,000 bonus instead. Finally, if you’re not looking for a job and know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at hired.com/adventuresinangular.</span>
+
+<span style="font-weight: 400;">Let’s get started. First off, I just wanna welcome everybody to Angular Remote Conf. It’s not as large as it was last year but I think it’s gonna be just as good. We have some excellent speakers and I’m really looking forward to a lot of the things that are going to come up throughout this week. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">We have one sponsor for this conference and that is hired.com. You can check them out at hired.com. Just tell them that you heard about it at Angular Remote Conf. Basically the idea is that you get companies apply to have you come interview with them instead of the other way around. It should be fun and it should be interesting and they are hired.com.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Our first speaker is Jeff Whelpley. His talk is life lessons from Angular Air. Jeff is the CTO at GetHuman, host of Angular Air and co-organizer of the Boston Angular meetup and a Google Developer Expert specializing in of course, Angular. He is also an avid Red Sox and a Star Wars fan. Nobody’s perfect, right? My dad’s a huge Yankees fan. Anyway, I’ll let you go ahead and take it from here.</span>
+
+<span style="font-weight: 400;">Jeff:             </span> <span style="font-weight: 400;">Thank you, Chuck. I really appreciate the intro. This is actually the second year in a row that I’m giving off Angular Remote Conf. It’s actually a funny story because this year they asked me to speak and gave me a link to sign up and that type of thing and said that you can pick your spot. When I open up, I clearly saw this first spot was open which to me was sort of an indication that they were suddenly telling me, “Jeff, will you please be the keynote speaker?” That’s sort of the way that I interpret this. Yes, I will and I am very honored to be the opening keynote speaker for Angular Remote Conf. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">This is also a very special day for Angular by the way. We’re starting off here talking about some life lessons from Angular Air but drop the data, there’s gonna be some great talks that I’m really looking forward to tonight. I’m also looking forward to seeing live stream from Mountain View, the meet up tonight from the Angular headquarters. In all front and to purposes, this is Angular day and this is kicking off. Welcome. Let’s get down to it. I’m the host of Angular Air which I hope that everybody listening has seen or watched either on the video, feed or through the podcast.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I’ve been a host for about a little over a year but it was actually started two years ago by Kent C. Dodds. Obviously, there are many podcasts around including Chuck’s podcasts which I think Kent saw and wanted to do something similar. He did a great job setting up Angular Air to be successful bringing on high quality guests. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">This house that Kent built has grown quite a bit. First episode back in October 2014 right around when Angular 2.0 beta was announced. Since then, there’s been over 82 episodes in the US because there’s a couple of episodes that either got lost or various issues happened, somewhere around 82. A lot of YouTube views, podcasts, downloads, we have a sizable audience and it’s been extremely fun to work within the community and talk to a lot of people.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">There’s so many great people within the Angular community. I hope that a lot of people listening to this do see that. There’s so many talented, smart, kind hearted people within the community and it’s really been a joy to get to know a lot of these people. We’re gonna, today, go over some of the biggest lessons that I’ve learned from these people.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Building this deck and thinking about this presentation, I realized that I could have created a two hour presentation because there’s so many amazing stories, lessons, everything that I’ve learned and everybody on the panel has learned and everybody listening has learned over the years. I tried to focus it on about 10 or 11 specific things, some were technical but also apply to your life in general and your career as a software developer, especially with Angular.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">First, Ben Lesh, if you don’t know, is a software developer at Netflix, he is the lead maintainer of RxJS. We’ve had Ben on the show a couple of times to talk about RxJS. I guess the biggest thing that I have learned from Ben, most valuable at least to me, is that he is a deep expert in a specific technology, Reactive Programming and RxJS specifically. He has conviction about everything that he works on and he has very strong opinions but a key thing with Ben is that he is not religious about it and I find that really unique with the type of experts like Ben where he can have such strong opinions and be able to very definitively explain his position but at the same time not be so over board about it that you shut everybody else out.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Talking to Ben especially the last time that he was on the show, he really made me think about that. How many people, how many of us really hone in on some particular technical decision or some opinion and then we hold onto it so tight, then we just block everybody else out and we don’t listen. If you really hear Ben talk both in his conference talks, on Twitter and everything, you’ll see that people bring oppressions to him, bring other points. He never dismisses them. He always says, “You know, that is a good point.” And he brings up counterpoints or sometime he admits, sometimes he’s like, “You’re absolutely right.” This is not the best fit for RxJS or your use case is different. He’s very open about that and it’s super refreshing. I think it’s rare what he is able to accomplish.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Alright, Gleb, Gleb is my buddy, he lives in Boston here with me, in United States. He is amazing. Works at Kensho for his day job but as many of you know who have seen or worked with Gleb in any fashion online, he has a number of different open source projects, avid blogger, just really evolved in the community. He has spoken at a number of different conferences.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">He’s involved in many different areas from testing to performance. One of the first times that we had him on was to talk about performance. With Gleb, I could talk about a million different things that I’ve learned from him but there’s one particular thing that I always go back to that he is so good at optimizing for web performance. He has so many great tips. Definitely listen to that Episode 27 just for a wide variety of specific web application optimization and performance tips. </span>
+
+<span style="font-weight: 400;">I think the thing that he was greatest about talking to him in that  particular episode was his philosophical approach to performance. To not prematurely optimize, to think about just getting code out the door, more focus on user behavior and get the app right from the users’ point of view and then go back.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Once you have performance problems, don’t do these micro optimizations. Forget about that. Just do a top-down analysis of what’s wrong and drill into it. It was funny, he actually went through a specific example. Naturally, most people is to over optimize at that micro benchmark level. You think that things are gonna be fast just by some algorithm that you use the way that you letter instead of var or whatever it happens to be which most of the time doesn’t help with anything. If you take this approach where it’s top-down to get it working and then focus on performance, it ultimately leads to a lot better outcome in the end. One interesting result of Gleb’s approach, he sort of has taken to the extreme where there’s so many people especially recently have maybe knocked on Angular 1.0 for napping performance.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">That’s like a thing you hear, that Angular 1.0 is slow. Gleb always gets annoyed when he hears that because every single thing he has worked on in Angular 1.0 has been fast. It doesn’t matter what example, he actually took from ng-conf year and a half and note this passaging conf that one before where Dave Smith gave a presentation talking about the difference between Angular 1.0, Angular 2.0 and React in rendering this huge web app. It showed like Angular 1.0 performance is just like awful.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Gleb wrote this big blog post afterwards. He’s like, “No, I don’t think you’re doing this right.” He basically broke down and built in Angular 1.0 an app there was at par performance with React and Angular, close to Angular 2.0, maybe like a little bit off but pretty close. Definitely don’t prematurely optimize, go from the top-down.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Aaron Frost, huge in the community. He runs ng-conf, he is a software developer at Domo. He’s done a number of great talks over the years. The thing that really stuck out for me that we talked about in the last time he was on Angular Air when he was talking about the Angular community touches on the talk that he did when he keynoted the NG-NL conference in Amsterdam.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">He talked about building bridges. How important it is when you are working in an open source community, working with other developers, other Angular developers. In general as a software developer, how important it is to build bridges for other people which means helping others out. Once you conquered something, you figured out how to do something crazy. You cross that chasm, in a deep arena and gone passed all those difficulties.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It’s super important that you look back and help others along the way. That’s how we grow as a community. That’s how we bind together. That has struck me as always has me thinking, whatever I accomplish, feeding that back into the systems.</span>
+
+<span style="font-weight: 400;">Even if it’s not speaking at conferences or whatever, getting the habit of posting your solution on GitHub or even helping people on some of the Slack or other Gitter, whatever channel forums once you’ve resolved something. Any little bit helps. Just even within your own company, reach out to the junior developers, the other people who aren’t at the level you’ve been able to achieve, help them along.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Ultimately, when everybody gets in that mindset, you benefit as well because other people are doing that to help you along. I know for me personally, I’ve had a lot of other bridge builders like Aaron reach back to help me so I tried to do the same.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Shai, the founder of the Consulting Company, hirez.io. As a general, a funny guy. We had him on a couple months ago to talk about the behind the scenes for his NG show presentation at ng-conf. We talked all sorts of interesting aspects of it including the fact that, I don’t think he actually finished it until hours before he went on. That was a whole interesting story you should definitely listen to.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">One of the things that really struck accord with me that I still think about these days is how we talked about how important it is to build your own confidence and not be afraid of showing your personality in the things you do, in interactions you have with the community especially for giving a talk or that type of thing.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">He alluded to one thing that I had some background information on before at Angular connect last year, I thought Shai gave a great presentation there, something he did with Lucas but I think Shai was a little bit disappointed afterwards. He was down that maybe he didn’t get as creative reaction as he did at ng-conf earlier that year.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It’s hard sometimes for us when we do get down just in general. There’s gonna be disappointments in all of our lives. As software developers, we run into values and it’s highs and lows. We just have to learn how to get past whether it’s perceived or not. Those lows and just keep barreling ahead. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">In doing NG show which honestly was hilarious and went over extremely well, Shai didn’t hold back regardless of what he may have felt before of anything in the past. He just put all of himself into it like full tilt. That’s super admirable. We talked about how with talks that I’ve done, sometimes I’ve cut out some jokes and some stuff that is like my personality. I was afraid it wouldn’t go over. He was like, “Why would you do that? Just do it.”</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Sometimes it won’t go over, sometimes it will. If you feel good about that, if that’s you, assuming that it’s not offensive like it is something that is good for the community, you should do it. I thought that was really good advice.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Joe, another member of Angular podcast with Chuck as well as JavaScript Jabber as well as Pluralsight author runs ng-conf. There’s so many thing within the community. He’s been on the show a number of times. The time he came on early this year to talk about empathy was one of my favorites. He got into how it’s so important to create deep and meaningful connections with other people, especially the people that you work with.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Despite me speaking here today and some of the stuff that I’ve done, I really even am an introvert at heart. I feel most at ease when I’m just by myself coding away for 14 hours straight. I love that, that refreshes me. It’s important regardless of how introverted you are or what your own personality is, it is important to create these connections with other people, it does make us better for a number of different reasons.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Ultimately, we have to work in teams, we have to work with other people, we have to understand what they like and dislike, how they react to some of the stuff that we’re doing. It does feedback to help us better as developers. There’s many aspects to this that we can’t go into in the show. From the aspect of you understanding your end user for the product you’re building, it’s important. For you working with the other developers on that project, it’s important so you don’t rip each other’s heads off but also you are able to establish the rapport that you work off each other’s strengths instead of just working in the silent fashion and sometimes leading to conflicts that slow everybody down.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">This is like a soft skills type of discussion in this particular show but I would definitely recommend it for anyone to get feel for, if there’s any question or whatsoever of how understanding other people can help you as a developer in your career.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Uri is awesome, Uri Goldshtein, he is involved in so many different things. Originally, the creator of the Angular Meteor Library. That is integration between Angular 1.0 and the Meteor library for a back end and the Meteor front end of Angular 1.0, replacing, if anyone knows meteor, the original bay had a front end templating language and it can be replaced by Angular or React or whatever else.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Uri focused on the Angular version of that and also for Angular 2.0 as well. More recently, he’s been focusing on GraphQL and Apollo. A lot of rework there. The thing that I want to bring up with Uri is he’s in love with any of that. I think he’s super smart, I think the stuff that he does is great. The thing that is most interesting to me about Uri is just like his passion and how he literally can make anything seem really sound really exciting and interesting.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I find myself when, you’ll listen to Uri’s talks, I’ve had him at my meetup a number of different times. Sometimes, he’s speaking in such level like technical level that I don’t understand what he’s talking about but he just sounds like super exciting and I get fired up in a way that’s what kind of value is in that.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">If you really think about it, that is like a super valuable skill to be able to develop if you can. In other words, just being to inspire other people. It’s like a subtle skill that, it seems easy but it’s actually pretty hard. How many people have it? Uri definitely has it. It’s worthwhile to take notice of people like that. When you are inspired, think about sometimes the reason of the person that’s instilling that and think about why, what they’re doing.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">If you are interested in being a leader and doing some of that type of stuff, although it comes naturally to some people, it can be learned, it can be something that you can develop over time. It can be something that is really powerful.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">We had Wesley Cho and he’s a strategy guest on the show. A couple of different times he talked about open source software. They are the core maintainers of NG Bootstrap using the Twitter Bootstrap library with Angular both previously with Angular 1.0 and now with Angular 2.0. During the shows, we talked about what it takes to get into open source, why you should do open source and that type of thing.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">One of the interesting things that we talked about there was the obligation of people, of companies to contribute back. All of us use open source. If you are listening to this podcast, I would think that you all use open source in some level, that you use Angular, you use all these other Node libraries, everything else that’s out there.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The thing is that that didn’t come from nowhere. It doesn’t just magically appear out of nowhere. There’s people that are working hard and they’re not getting paid. Wesley has day jobs but they are huge contributors in the community because they’ve really believe in giving back. They believe that it’s important.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Part of this bridge building thing like I mentioned, but also part of it is that you’re using this particular library work. It’s important that your business is really encouraging and wants you to contribute back and tries to help. Because ultimately, that’s how all this ecosystem thrives, that this support comes from the companies where there is actually money whether isn’t an open source necessarily.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The companies actually get something back because they get to influence a library that is part of their critical system, they get to almost as a recurring tool, that when people do it right, that the people that are a part of that project see that there are the contributors. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Netflix is a great example of this. They are huge open source contributors. They really believe in the community, make a big effort out of it. Frankly, developers see that. Developers see how integrated they are. At least my anecdotal feel for talking to other developers is that builds up their cred that inspires developers to want to work there. There’s a lot of benefits that come from it.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I do think that a lot of businesses don’t necessarily see that but I will encourage all of you to not only yourselves contribute to open source, give back at that, but also encourage the place you work to be more involved. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">One last thing with this is I talked about in the previous shows when you talk about individuals contributing like everybody listening to this, it doesn’t have to be that you are doing this complex code change. There are many different level of contribution, first of which being just talking to other community members and helping them out. Just be on Gitter, be on IRC, be on Slack, see what the problems people are having and try to help them. It doesn’t have to be a code contribution. Something giving back to open source in that way.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Of course if you can take that next level up and you can submit initial in GitHub, that helps. If you can go even further and submit a PR for change, that helps even more. If you can go even further and try to become a regular core contributor, that’s the best. Definitely encourage everybody to be more involved.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Brad Green is the head of the Angular project and the product lead. He runs a couple of different teams within Google. Been on the show a number of different times. Brad is seriously one of my heroes. A lot of people are in this deck but just in terms of like the complete package of what he does. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">In particular, I think there’s something that probably people don’t appreciate him enough for which is that really Angular would not be what it is today and likely be not around if it wasn’t for him, if it wasn’t specifically for his ability to work within the Google infrastructure, the political structure and creates space for Angular. The thing I’ve learned from him is how, although politics within companies is often seen as a bad thing and your ability to play politics. That’s always bad connotations or whatever.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Brad proves that when you use those political skills for good, for the good of the community, it can be a beautiful thing. Specifically, they created Angular as, for those people that don’t know, it was created by Michiko on one particular project just to help designers out. Pretty quickly, people inside Google and outside Google started to attach themselves to it and found that it was useful and it grew just on it’s own. That was totally on its own. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The key part where Brad came in was in finding a way, it’s just amazing when you think about it, working the system within Google to find a way that internal teams started using it. That was key. When you think about support for Angular and the reason why there’s such a huge team working on it right now, it’s because there’s so many teams within Google that is using Angular for a project.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">That is the result of the work that Brad’s been doing to get teams, initially some of the teams that he was working on he was managing already and then spread out from there. I respect that so much. There’s so many things that probably, if you are interested in managing and relation type, it’d be worth your while the next time you’re at a conference or see Brad in person to try to ask him some about that. He just has endless wealth of information. I love Brad.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Also, Angular core team is Igor. You should know Igor, the tech lead for the Angular project. Igor is amazing as well. He has a very specific philosophy just about life. People talk about killing people with kindness, reaching out to others, this altruistic mentality, but nobody lives it like Igor. Seriously nobody.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">This particular picture, there’s a story behind it. Daniel Steiger, who is the guy on the left, is a software developer at GV but he wrote a couple of years ago this blog post about Angular, it hit the number one on Hacker News, just like ripping Angular describes. He was super popular and all sorts of flame wars on Twitter that resulted etc.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Because Daniel’s at GV, about a month after that came out, he was in Mountain View at the GV Summit where he ran into Igor. The times that I’ve been in these types of situation where somebody insulted my baby, that really went too far and a lot of people felt that, a lot of people in the community were mad at this guy.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Igor wasn’t. He just said that he wanted to talk to him, he sat down and he didn’t yell at him, he wasn’t angry at all. It wasn’t like he was trying to fake. I think this is truly Igor’s mentality, he just asked him questions, really tried to understand Daniel talk, explain some of his points of view, the current state of things, what they’re working on, etc.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">By the end of it, they were legit friends. Daniel talked about it, Igor talked about afterwards. They hug, made up. To this day, although Daniel still rips on Angular. If you notice, he will always admit that the core team is talented, they have some great ideas but still Angular sucks. But we see at least it was something that mindset of reaching out instead of pushing away. It does have a big impact even to the people that are seemingly so entrenched in their position.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">We had Victor and Dan on the show, both of whom are brilliant. They are huge thought leaders in the community. So much of what they’re thinking and the stuff they produce, we are all benefiting from. I would just say between Victor and Tobias, they are the guys that crank through some of the most complicated parts of Angular core, Angular 2.0 core.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">We had them on the show, we were talking about Redux, data state management, Reactive Redux, a whole bunch of different topics. There were some things definitely that Dan and Victor agreed with. It was interesting though to see where I wouldn’t say differences but there was a slight different philosophies that were chosen.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">There’s number of things about this that basically one of the differences or one thing where we talked about was that Dan is a big believer in tooling, debuggability, making sure that everything was clarity over, even if it’s less powerful, even if you have to write more code, he’s much more interested in that and even if you have to do things synchronously.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Whereas I think Victor is open to anything but a lot of stuff that he’s been writing about is more Reactive Programming and in some of the discussions, he was taking that side of things. With something like RxJS, it’s more powerful, you can do all these super powerful things with less lines of code. There is strong reasons to do that when you understand what’s going on.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">There are trade-offs, this is something that Victor talked about. There are trade-offs that you, that power potentially comes at the cost of simplicity. You have to understand what’s going on to some degree. The thing take out of this besides that specific difference is how you can have two different opinions that have equal validity, that are both strong and know both people are right.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">You get into this mentality sometimes especially like React versus Angular. Who’s better? Reality is why is someone actually better. Why can’t there just be different philosophies, different ways of thinking, different things that are better for different situations? For sure, Victor has that type of mindset and pass it all the time. I encourage all of you to think along the same lines.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Aimee Knight was the panelist for a while on Angular Air, she’s been with us on JavaScript Jabber. There’s so many things that I’ve learned from Aimee but probably the biggest thing is how to reset your perception. At least for me for sure and I think I see this with other people, it’s so easy to fall into a trap where you assume that other people think the same way as you.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It happens all the time both at work, in political life. There are politics on that type of stuff. The reality is that people think differently. People have different backgrounds that they come from. So many times, both on my show, also in JavaScript Jabber, you hear Aimee saying, “Well, what about this other perspective? What about from people who are coming from this other way of thinking?”</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I find that so useful. I’ve started to really take this to heart to bake into my own thinking, both on the show and at work. It’s something that you have to actively push yourself to do because your natural inclination is to think and assume that other people think the way you do. I love Aimee. She’s super smart and appreciate her constantly pushing for people to expand their perception.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Patrick, he is my compadre. He helps me run Angular Air. He is my co-maintainer on Angular Universal. In fact, to be quite honest, he really does almost all the coding. At this point, because I have grown to be much busier at my day job, I feel like sometimes I’m just the cheerleader of watching Patrick crank at code. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The life lesson is when you meet Patrick and talked to him, you definitely get the impression that he’s a smart guy right away, no doubt. A number of times where he says something, and this happens way more often with him in particular for whatever reasons, something about his brilliant mind sees five steps ahead of other people. He says something and I frankly don’t understand it. I’m like, “What the F are you talking about?” I sometimes joke with him about it and that type of thing.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It’s easy sometimes for us to dismiss other people when we don’t understand what they’re saying. I’ve had so many times time and again when even on my own within later on looking through code and it just hits me or further substance discussions with him when I realized that thing that he mentions like weeks, months ago, I was like, “Holy cow. You said this before but now I finally realize what the hell you were talking about and that was amazing. You were absolutely right.”</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Don’t take for granted, assume other people, put them in these categories or assume the thoughts they have are invalid. You can always try to drill into it. It gets confusing because there are some times where Patrick I think does legitimately doesn’t have too much sleep and just says something off the cuff.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The times when I do actively joke back at him and ask some questions and get into it, you can parse that out and make the difference between what it is something that you just didn’t see at first versus maybe something that’s he’s gonna get more sleep. Definitely try to do that with the people you work with. Drill underneath the surface level of what they say.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I gotta say, Chuck’s had a lot of great people on JavaScript Jabber, super famous people within the developer community but I gotta say I must win the award for having the most famous people outside of the Angular community on my show with Jaime King who’s been an actress in number of different shows and Kyle Newman, director of Fanboys, director of Taylor Swift's’ video which I can’t remember the name of right now and a number of other movies.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">We were talking about Star Wars right before the last The Force Awakens, Kyle is like Star Wars fanatic. In fact, his movie Fanboys is about fans of Star Wars breaking to George Lucas’ home to see Star Wars episode one before it came out. Very funny. Definitely recommend it. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The amazing thing with Kyle, I lived just down the street from him and we played role playing games together, Dungeons &amp; Dragons, we read comic books all the time, did a lot of different things, played soccer. The most amazing things about Kyle is as early as I can remember, eight years old, he loved movies. There wasn’t a doubt in his mind, he wanted to make movies.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">He actually even did projects back then like mini movies with his own camcorder. He thought about endlessly Star Wars and different his own like mini Star Wars movies. He constantly sought about it, obsessed over it. As he got older, it’s not surprising to see that he is now a very successful movie director.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It tells me and then it speaks to me about how when you have a very, very clear picture of the goal, you know exactly what you want, you can see it and define it in a very specific way and you have the drive to get there, you can do so many amazing things. I think the thing that a lot of us fall into is that it’s hard for us to very specifically say what we want.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">At first you might think, “No, I think I do.” But really, think about yourself right now. If you would think, what do you want to, what exactly do you wanna be doing in five years from now? What do you want in your life to be? I guarantee that almost anyone listening will have a hard time with that question.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I have a hard time with that question. It’s something that you have some ideas about a little things like maybe I want more money and maybe wanna be doing this or whatever but it’s hard to get really clear. The thing is if you can do that though, if you can somehow figure out a way and think about a way to have that very clear picture and conviction to that, you increase your chances of getting there. You can do so many more amazing things. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The lesson here is as much as we get buried in this stuff and stuff like what we’re working on today, especially as software developers, you should pick your head up from time to time and have discipline and start thinking about that. Think about what you want in the next five years, in the next ten years and start building into your own plan that you’re working on today.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">That’s the end of presentation. I do have one final thank you to probably the most important, some of the most important lessons that I’ve learned with respect to Angular Air is from the original creator of Angular Air, Kent C. Dodds. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">He has done so much for the community. Whereas myself and I think a lot of other people involved in open source. You try to do what we can. The people that are involved even when we’re helpful, it’s something that we have our day jobs, we have so many priorities and we try to give this much time as we can.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The thing that I’ve always seen with Kent that’s amazing is that he treats his open source work, he works on JavaScript Jabber which is his new show that he’s working on. He treats it like his job. I see him, it’s so clear how he has this very focused approach and methodical approach, everything he does with his work in that world, in open source world and with his talks and everything like that. That’s really admirable. </span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I think that it’s something that I do aspire to have that level of professionalism in both worlds. It’s hard to create that balance. It’s almost like this little healthy rivalry, I think because I see him doing certain things and it reminds me that I’m slacking. I gotta pick up the pace. I appreciate that a lot for everything that he does and you should thank him too.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Thanks a lot to everyone else in the show that I didn’t get the chance to mention and once again, thank you chuck for having me on.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright. Looks like we have a few minutes for questions if anyone has questions for Jeff. There was one in here that said, “Any schedule for the Angular Air episode about Angular Universal Tutorial?”</span>
+
+<span style="font-weight: 400;">Jeff:             </span> <span style="font-weight: 400;">Yes. If you’ve been watching Angular Universal Repo, you may have noticed that it’s been going under a crazy amount of changes lately. It’s because with the breaking changes of RC5, although it was mildly and annoyance for people who are writing apps and Angular 2.0, it was devastating for Angular Universal.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The thing that they broke that the breaking API change and in the library changes was essentially the bulk of what Angular Universal did. Essentially, the past two weeks, Patrick and I, mostly Patrick, have been rebuilding all the Angular Universal from the ground up. It’s been like a major rewrite. We have to get past this hump which we will publish or Patrick published last night the RC7 updates.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Whenever the main release comes out, we’ll be on top of that but then we’ll swing back to things like making sure the documentation is updated over the course of next week. We will have the show probably within a month out. We’ll have the tutorial show for Angular Universal.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">My question is when is Adventures in Angular and Angular Air gonna do a crossover show?</span>
+
+<span style="font-weight: 400;">Jeff:             </span> <span style="font-weight: 400;">Oh dude, we totally should like old school cartoon style. Let’s plan on that.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Definitely. Thank you, Jeff.</span>
+
+<span style="font-weight: 400;">Jeff:             </span> <span style="font-weight: 400;">No problem. Thank you, Chuck.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">They have people wanna check out Angular Air. Visit angularair.com.</span>
+
+<span style="font-weight: 400;">Jeff:             </span> <span style="font-weight: 400;">That’s right and you follow me on Twitter @jeffwhelpley. Appreciated. Thanks.</span>

@@ -1,0 +1,695 @@
+---
+layout: layouts/post.njk
+title: >
+      145 RR Data Analytics with Heather Rivers
+date: 2014-02-26 14:00:00
+episode_number: 145
+duration: 0:58:46
+audio_url: https://media.devchat.tv/ruby-rogues/RR145DataAnalytics.mp3
+tags: ruby-rogues
+---
+
+<p dir="ltr">00:00 - RIP Jim Weirich</p>
+<p dir="ltr">03:30 - Heather Rivers Introduction</p>
+
+<ul>
+ 	<li><a href="https://twitter.com/HeatherRivers" data-cke-saved-href="https://twitter.com/HeatherRivers">twitter</a></li>
+ 	<li><a href="https://github.com/rivers" data-cke-saved-href="https://github.com/rivers">github</a></li>
+ 	<li><a href="http://heatherrivers.com/" data-cke-saved-href="http://heatherrivers.com/">blog</a></li>
+ 	<li><a href="http://www.modeanalytics.com/" data-cke-saved-href="http://www.modeanalytics.com/">MODE Analytics</a></li>
+</ul>
+<p dir="ltr">05:40 - Data Analytics</p>
+
+<ul>
+ 	<li><a href="http://www.amazon.com/gp/product/0307887898/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307887898&amp;linkCode=as2&amp;tag=chamaxwoo-20" data-cke-saved-href="http://www.amazon.com/gp/product/0307887898/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307887898&amp;linkCode=as2&amp;tag=chamaxwoo-20">The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries</a></li>
+ 	<li><a href="https://support.google.com/analytics/answer/1638635?hl=en" data-cke-saved-href="https://support.google.com/analytics/answer/1638635?hl=en">Real-Time Analytics</a></li>
+ 	<li><a href="http://blog.kissmetrics.com/how-netflix-uses-analytics/" data-cke-saved-href="http://blog.kissmetrics.com/how-netflix-uses-analytics/">How Netflix Uses Analytics To Select Movies, Create Content, and Make Multimillion Dollar Decisions</a></li>
+</ul>
+<p dir="ltr">09:23 - Analytics vs Business Intelligence</p>
+<p dir="ltr">10:02 - Metrics vs Analytics</p>
+<p dir="ltr">10:51 - Real-Time Analytics and Business Decisions</p>
+
+<ul>
+ 	<li>Vanity Metrics</li>
+</ul>
+<p dir="ltr">12:28 - Using Information and Choosing the Right Metrics</p>
+
+<ul>
+ 	<li>Lean Analytics</li>
+ 	<li><a href="http://www.amazon.com/gp/product/1449335675/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1449335675&amp;linkCode=as2&amp;tag=chamaxwoo-20" data-cke-saved-href="http://www.amazon.com/gp/product/1449335675/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1449335675&amp;linkCode=as2&amp;tag=chamaxwoo-20">Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll</a></li>
+</ul>
+<p dir="ltr">18:34 - Collecting Information</p>
+
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/Extract,_transform,_load" data-cke-saved-href="http://en.wikipedia.org/wiki/Extract,_transform,_load">Extract, Transform, Load</a></li>
+ 	<li>Column-Based Data Store</li>
+ 	<li><a href="http://www.thefreedictionary.com/statistical+regression" data-cke-saved-href="http://www.thefreedictionary.com/statistical+regression">Statistical Regression</a></li>
+ 	<li><a href="http://www.postgresql.org/docs/9.3/static/tutorial-window.html" data-cke-saved-href="http://www.postgresql.org/docs/9.3/static/tutorial-window.html">PostgreSQL</a></li>
+</ul>
+<p dir="ltr">30:02 - <a href="http://en.wikipedia.org/wiki/A/B_testing" data-cke-saved-href="http://en.wikipedia.org/wiki/A/B_testing">Split Testing (A/B Testing)</a></p>
+<p dir="ltr">33:53 - Changing Bucket Proportion</p>
+<p dir="ltr">34:16 - Picking Up Analytics Tricks</p>
+<p dir="ltr">35:42 - Tools &amp; Resources</p>
+
+<ul>
+ 	<li>Ruby and Data Analytics</li>
+ 	<li><a href="http://docs.python.org/library/" data-cke-saved-href="http://docs.python.org/library/">Python</a></li>
+ 	<li><a href="http://www.numpy.org/" data-cke-saved-href="http://www.numpy.org">NumPy</a></li>
+ 	<li><a href="http://www.nltk.org/" data-cke-saved-href="http://www.nltk.org/">Natural Language Toolkit</a></li>
+ 	<li><a href="http://www.r-project.org/" data-cke-saved-href="http://www.r-project.org">The R Project for Statistical Computing</a></li>
+</ul>
+<p dir="ltr">41:05 - Addressing Analytics</p>
+
+<ul>
+ 	<li>Qualitative and Quantitative Data</li>
+</ul>
+<p dir="ltr">43:46 - Statistical Thinking</p>
+
+<h3 dir="ltr">Next Week</h3>
+Ruby Under a Microscope with Pat Shaughnessy
+
+<h3>Transcript</h3>
+
+<strong>JAMES:  </strong>Hey everyone. We just got the news moments before we’re recording that Jim Weirich has passed away. We’re all deeply sad today. And we’ll definitely talk more about this in the future. But for now, I would just like to give you my very favorite Jim Weirich story before we get started. Jim and I had quite a rivalry over the years because I wrote the TextMate book and he was such a big Emacs fan, a die-hard Emacs fan. And the rivalry kind of came to a head at one year at LoneStar Ruby Conf when my wife was learning to Ruby and she took a class that Jim taught. And so, he gave her flack through the entire class, harassing her for using TextMate because she had learned from me. And so then, later in the conference, we were all gathered together in one room to hear some odd programmers. And Jim Freeze was handing out books and making jokes. And he’s like, “Oh, I got this TextMate book here. I don’t know who wrote that.” And I shouted out from the side of the room, “Jim Weirich.” And everybody cracked out. But if you know Jim at all, you know that the loudest booming laugh came from the back from Jim himself. So, that is the sound I will miss most of all. And Jim wins in the end because I'm now a die-hard Emacs user. So, farewell, my friend. We will miss you very much.
+
+<strong>JOSH:  </strong>Absolutely.
+
+<strong>CHUCK:  </strong>Yeah. We’re all, I think, really sad to see him go. You know, the conferences won't be the same without him.
+
+<strong>AVDI:  </strong>No.
+
+<strong>CHUCK:</strong>  Yeah. It seems like every time I’d go to a conference, I’d wind up having lunch with him at least once. And we would talk about anything, usually anything I wanted to talk about. And he was always just gracious and helpful and was happy to look at my code and happy to show me what he was working on. I'm really going to miss him too.
+
+<strong>JAMES:</strong>  For sure. But Jim would definitely tell us to go do an awesome show about Data Analytics.
+
+<strong>JOSH:</strong>  Yes.
+
+<strong>AVDI:</strong>  Yes, he would.
+
+<strong>JOSH:</strong>  So, let’s go do that. We’re going to do an episode in tribute to Jim sometime soon. So, we’re saving all of our stuff for that.
+
+<strong>CHUCK:</strong>  Yup.
+
+<strong>JAMES:</strong>  Alright, let’s do it.
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] </em></strong>
+
+<strong><em>[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]</em></strong>
+
+<strong><em>[This episode is sponsored by Code Climate. Code Climate’s new security monitor alerts you immediately when vulnerabilities are introduced into your Rails app. Sleep better knowing that your data is protected. Try it free at RubyRogues.com/CodeClimate.]</em></strong>
+
+<strong><em>[Does your application need to send emails? Did you know that 20% of all email doesn’t even get delivered to the inbox? SendGrid can help you get your message delivered every time. Go to RubyRogues.com/SendGrid, sign up for free and tell them thanks.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 145 of the Ruby Rogues Podcast. This week on our panel, we have James Edward Gray.
+
+<strong>JAMES:  </strong>Good morning everyone.
+
+<strong>CHUCK:  </strong>Josh Susser.
+
+<strong>JOSH:  </strong>Hello, hello.
+
+<strong>CHUCK:  </strong>Avdi Grimm.
+
+<strong>AVDI:  </strong>Hello from Pennsylvania.
+
+<strong>CHUCK:  </strong>I’m Charles Max Wood from DevChat.TV. And this week, we have a special guest and that is Heather Rivers.
+
+<strong>HEATHER:  </strong>Hello from San Francisco.
+
+<strong>JOSH:  </strong>Hey, Heather.
+
+<strong>CHUCK:  </strong>You're our favorite. Do you want to introduce yourself real quick?
+
+<strong>HEATHER:  </strong>Sure. I'm Heather. I'm a Software Engineer primarily working in Ruby these days. Right now, I work at a startup called MODE Analytics.
+
+<strong>CHUCK:</strong>  Is that regular web analytics or is that some other kind of analytics?
+
+<strong>HEATHER:</strong>  Our goal is to make analysts more productive, basically. So, if you go and talk to a bunch of analysts from different companies right now and you ask them about their workflows, it sounds very, very inefficient. It doesn’t sound like 2014. They're not using version control, there's no centralized place where they share all their scripts that they use in these multi-step analyses. So, we’re trying to drag analysis into 2014 and make it like GitHub for data analysis is the snowclone pitch or like short template pitch.
+
+<strong>CHUCK:</strong>  That makes sense.
+
+<strong>JAMES:</strong>  You're saying taking all those huge text files and just importing them into Excel, that’s not cutting it anymore?
+
+<strong>HEATHER:</strong>  [Chuckles] It’s fascinating how big a part of modern analysis Excel still is. Even just everyone at the very end takes the results and pastes them into Excel to generate the final visualizations which is just fascinating to me. I guess it works. They don’t use it as much anymore for the complex.
+
+<strong>JAMES:</strong>  In a class I took one time, they said if you ever want to know where a particular product is needed, like if you're looking for a market where there's a void and you could make a product and have it fit in, the way to find out is to ask yourself what those people are using Excel for.
+
+<strong>CHUCK:</strong>  [Laughs]
+
+<strong>HEATHER:</strong>  I completely agree. And that’s what we’re doing. So, we’re trying to make the visualization part just another step in the workflow and kind of end to end tools that let people stop using Excel, basically. And I say, “This is a former Microsoft employee.”
+
+<strong>JAMES:</strong>  Wow, cool. [Chuckles]
+
+<strong>CHUCK:</strong>  So, did they disown you then after this?
+
+<strong>HEATHER:</strong>  Yeah.
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>HEATHER:</strong>  Big time. Oh, I was big favorite at Microsoft, totally into Microsoft.
+
+<strong>JAMES:</strong>  [Chuckles] That’s awesome.
+
+<strong>CHUCK:</strong>  I'm a huge fan of Lean Startup and they talk a lot about learning and how to learn the right things, how to measure the right things. Is data analytics focused on that or is it more on after you’ve collected the right things, making it into something intelligible so you can make good decisions based on what you know?
+
+<strong>JAMES:</strong>  He means we need a definition.
+
+<strong>HEATHER:</strong>  [Chuckles]  Analytics, I think, is such an overloaded term especially because the media are reporting so much on analytics these days and it’s pretty unclear to them what that means exactly and it’s unclear to a lot of us. It’s still unclear to me to some degree but there's radically different things it can be called. There's real-time analytics which is, if traditional analytics is like you're doing split testing and analyzing the results, you're like steering a big steamer ship. You're like course-correcting one degree here and there to get somewhere two weeks from now. Real-time analytics is like the red siren that goes off to tell you there's a hole in your ship and you're going to sink and die if you don’t fix it right now. So, those are radically different things but they're both called analytics. So, the term is kind of overloaded, I think.
+
+<strong>JAMES:</strong>  That’s a really good point, actually.
+
+<strong>AVDI:</strong>  And which are you focused on?
+
+<strong>HEATHER:</strong>  We are focused on the long-term, the steering the ship analytics. Real-time analytics has such a specific use. It’s operational, it’s for immediate disaster. It’s heavily for decision making other than decisions such as should we get our site back online.
+
+<strong>AVDI:</strong>  When you say ‘real-time’, you're talking about the analytics that analyzes the fact that you just got up the jillion exceptions from the production server and that means something’s probably wrong.
+
+<strong>HEATHER:</strong>  Right yeah, abnormalities that are automatically detected in your system. There was this article yesterday about Netflix and House of Cards and how they were doing real-time analytics. Basically, they're [inaudible] with a dashboard. The media reported that as, “That’s how they do analytics.” And I said, “Not really though.” They're not deciding whether to shoot Season 3 of House of Cards based on that [inaudible].
+
+<strong>AVDI:</strong>  Actually, Netflix is one of my questions although it’s a question about their long-term analytics.
+
+<strong>HEATHER:</strong>  Right. So, I don’t know that much about Netflix’s analytics. I just know that they're kind of an exception to the rule that most analyses these days is actually dead simple, like shockingly simple and that’s not a problem. That is where the value lies, simple regressions of just huge datasets is incredibly valuable. It’s been proven over and over even by companies like Google that people more commonly assume have this very sophisticated analyses. I do know that Netflix is kind of an exception and has assumed very sophisticated analysis going on.
+
+<strong>AVDI:</strong>  And that fascinated me because I was reading about how they figured out that most people binge-watch episodes of series. When I heard that, I thought, “I wonder who came up with the right question for that.” Because I mean, I could totally see having lots of analytics that charts and bar graphs that say which shows are getting the most views or even which sorts of people are watching the same sorts of shows. What surprised me was that somebody thought to come up analytics that says what is somebody watching after the last show and does it relate to the previous show in some way. And that kind of blew me away because it seems like a big part of this analytics question is asking the right questions in the first place.
+
+<strong>JOSH:</strong>  Heather, can we talk about analytics versus business intelligence?
+
+<strong>CHUCK:</strong>  One is [inaudible].
+
+<strong>JOSH:</strong>  [Laughs]
+
+<strong>HEATHER:</strong>  Where those terms overlap?
+
+<strong>JOSH:</strong>  Yeah.
+
+<strong>HEATHER:</strong>  Business intelligence is not a term, honestly, that I encounter a lot. I think it’s just mutated…
+
+<strong>JAMES:</strong>  It’s probably a good thing.
+
+<strong>HEATHER:</strong>  Yeah. I think it’s just a mutated word for analytics that make their way over to the other side of the company, like the other side of the building. It’s the same thing, though.
+
+<strong>JOSH:</strong>  Okay. So, if I'm a developer and I'm talking to a product person and we’re talking about business intelligence, I can just map that to the word analytics in my head?
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>HEATHER:</strong>  That’s what I've been doing and it’s been working out okay. So, [chuckles] I think so.
+
+<strong>JOSH:</strong>  [Chuckles] Okay. On the other side of the spectrum, there's the word metrics. So, how do metrics and analytics fit together? [Crosstalk]
+
+<strong>HEATHER:</strong>  Sure. I think metrics is also, it can mean a lot of different things. It can mean your key success metrics, that’s the context that I'm hearing the most. It can mean like operational metrics, the health check kind of things. So, [inaudible] has a lot of different uses. And then, we’re also new to this, I think, we’re not sure about the terms like data science is another term. I saw a really funny slide from some presentation that said, “Data science is statistics on a Mac.” [Laughter]
+
+<strong>HEATHER:</strong>  And a data scientist is a statistician who lives in San Francisco, I heard that’s you.
+
+[Laughter]
+
+<strong>JAMES:</strong>  You’ve said several things I think may be worth touching on. One view very clearly [inaudible] between real-time analytics and long-term analytics and talked about how you're steering your ship. One of the things I thought you said interesting in there though was you said real-time analytics are not what you're using to make those business decisions. Actually I think maybe that should be amended to real-time analytics should not be what you're using to make those business decisions. I'm not comfortable speaking for everybody out there. But that’s an interesting point, right? Those charts we see, we’re kind of obsessed with that right now in the computer world as everybody likes to brag about how they put up this giant screen TV on the wall and there are 65 charts on it and that lets them know what's going on at any given second. But like you said, that’s probably not how we should be basing our business decisions, right?
+
+<strong>HEATHER:</strong>  Absolutely. That’s another kind of metrics that you're reminding me of which is vanity metrics which are…
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>CHUCK:</strong>  I love those.
+
+<strong>HEATHER:</strong>  Despite the name, I think they're really useful like having vanity metrics up on a screen in your office is great. It’s just like a little positive reinforcement that people are really using your product. When you work on computers, you can get kind of disconnected from real users and I think it’s important to maintain that connection. So, having vanity metrics on the wall, totally, go for it. Just don’t make decisions on it.
+
+<strong>CHUCK:</strong>  Right. Don’t get complacent because the numbers look nice.
+
+<strong>HEATHER:</strong>  Exactly.
+
+<strong>CHUCK:</strong>  I'm really curious. I really want to get into the nuts and bolts of this. And I've seen so many people build analytic systems or at least build systems to collect information. And I'm a little curious, do you typically recommend certain system or database over another for this and does that make it easier then, to analyze the data later on?
+
+<strong>HEATHER:</strong>  That’s a tough question because it’s so dependent on the situation. But one myth, I think -- I think it’s a myth. I should mention, I'm not a data science expert. I'm a Software Engineer but I also will call myself a computer scientist and I still manage to work a lot on computers. Anyway, with that caveat. So, another transportation analogy that I like, this one’s from the CT of Cloudera. Hadoop is like a train and a relational data store is like a sports car. There's this myth that Hadoop is the future, it’s the solution to all of our problems. But it’s like a train; it’s like not that many people actually need a train. If you need agility and you don’t have a bazillion dollar to set up a train, you can use a sports car to transport a more common amount of stuff. So, traditional relational data source are actually pretty good for a lot of analysis.  And big companies that might surprise you still use just SQL for their day to day analysis. And they just have very special use cases for things like Hadoop.
+
+<strong>CHUCK:</strong>  I guess my next question along the same lines then and this is getting into areas that I'm not as familiar with, how do you make those numbers or the information that you’ve gathered paint an accurate picture? Because you keep talking about like on the news and the vanity metrics are really nice for PR, but you basically spin those to make yourself look good. And when you're trying to steer the ship, what you want is an accurate map. You don’t want the world as you wish it were, you want the world as it is so that you can make it into port and do the business that you need to do.
+
+<strong>HEATHER:</strong>  Yeah. I was just reading, kind of skimming through Lean Analytics, the analytic side of the Lean Startup. I came across something I thought was funny which is like an entrepreneur has to constantly keep these two opposing views in his head or her head, obviously, which is like you are the vanity metric side and then the real side where you have to be crushed by the results of your analysis.
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>HEATHER:</strong>  And then you constantly have to simultaneously believe that everything’s great and you're going to do great while making decisions based on the other side which is the cold, hard reality of the results of your tests.
+
+<strong>JAMES:</strong>  That’s really neat, right? The vanity metric, you do up on the wall is ‘how fast are we bringing users in’. And you can watch that bar climb and climb and totally boost your spirits. But probably a more important question business-wise is, “Okay, when a new user comes in, how long do they stick around? What do they actually do?” The more longer-term questions, the reality of the situation as you said, right?
+
+<strong>CHUCK:</strong>  The other thing is that in the Lean Startup, they actually talk about if we make this change, we’re still gaining users but are we gaining them as fast, are we gaining them faster or is it making our business better in these other measurable ways? Whereas the vanity metrics tell you we’re still growing.
+
+<strong>HEATHER:</strong>  Yeah. It’s important to choose the right metrics, for sure, in the beginning and not get distracted by the others. The metrics that you choose are totally different depending on your business. But definitely, whatever leads to your company making money, is a good one. Whatever positive reinforcement makes sense for your product.
+
+<strong>JAMES:</strong>  So, if we’re getting 50 million new users but they're all on the free account, that’s probably not helping us that much.
+
+<strong>HEATHER:</strong>  Yeah. Sometimes you have to balance tradeoffs like maybe you convert more people. You know, the freemium tradeoff basically. You have to decide where to put your pay wall to maximize profits from the intersection of these two opposing forces.
+
+<strong>JOSH:</strong>  Heather, where does your product fit into say, a typical technology stack on a website?
+
+<strong>HEATHER:</strong>  Sure. Basically, we provide this nice, hopefully, web interface that lets you connect to your own data store, whatever that is. There's just a gem and you just run this connector process and you store your own credentials. We never touch your database credentials which is obviously great for all parties. And then it just pulls and you can use the web interface to query your data and it generates these visualizations automatically and you can have version control for your scripts and share them with your team. You can authorize -- everyone on a certain domain can see my analysis by default and can also run scripts on the same data source. Like if I'm running this process, everyone on my team suddenly has access and they set up. They can just go to the website and verify their email address and suddenly they can be writing SQL to see things from our data warehouse.
+
+<strong>JOSH:</strong>  Okay. Maybe another way of trying to get it, what I was asking is, where do you instrument things to collect the data? Are you collecting it in the browser? Are you collecting it in the server?
+
+<strong>HEATHER:</strong>  Oh, sorry. Yes, [inaudible]. We’re not really a mix panel type thing or a -- there are many companies that were commonly can just…
+
+<strong>JOSH:</strong>  KISSmetrics.
+
+<strong>HEATHER:</strong>  Yeah. We’re not really in that space at all. It’s just a tool for analysts. It’s not involved in the collection side at all. It’s just a bulk in the analysis side. Sorry, I should have clarified that.
+
+<strong>JOSH:</strong>  Okay, great. This whole time I'm thinking, “Okay, it’s like KISSmetrics kind of thing.” But you're actually the next stage. After I've collected all the data on my site, then you give me tools to make sense of it.
+
+<strong>HEATHER:</strong>  Yep, absolutely.
+
+<strong>JOSH:</strong>  Ah, okay.
+
+<strong>HEATHER:</strong>  Important clarification.
+
+<strong>JAMES:</strong>  [Chuckles]
+
+<strong>JOSH:</strong>  [Inaudible] starts this morning, sorry.
+
+<strong>JAMES:</strong>  That’s kind of interesting though, like how do you recommend people collect the metrics especially if you're going to just throw around some arbitrary SQL to figure things out. That’s cool and stuff and databases do it well. But we would prefer not to slow down traffic to the site or whatever. What are your thoughts on those kinds of tradeoffs?
+
+<strong>HEATHER:</strong>  That’s a good question. I'm kind of new to that but my current solution is, because I'm new in the infrastructure with this company, is just centralized logging, setting up a centralized logging system so that whatever events you care about, just throw this in a log file in an easily parsible way and then have that, from all of your servers, check that to one place so that they're all mixed in together and parsed and searchable and exportable so that later, it will really [inaudible] all of this and you have the whole history forever in this one other place.
+
+<strong>JAMES:</strong>  Gotcha. I know some companies will do a slave database too where they’ll slave the main one but then they’ll do their reporting off the slave instead of the main one which is kind of neat. That’s interesting because you were talking about logging and parsing them. So, in your analytics, data can come from anywhere? Does it have to come from like a SQL database, for example?
+
+<strong>HEATHER:</strong>  Right. So, there are these ETL Systems, Extract-Transform-Load Systems, that people write generally that are very customized to your infrastructure. So, people do various amounts of mutations to their production data when they prepare it to be analyzed. I think something that’s really common is putting it into something like Vertica like a column-based data store that’s way better for analysis, way more performant generally. I think the less you can get away with mutating the data, the better. Just reduces everyone’s mental overhead for the people that are bridging the gap between engineering and analysis which is an increasing pool of people.
+
+<strong>CHUCK:</strong>  One thing that I'm curious about, do you tend to cache data or generate views or things like that for commonly built reports? Things like, you want analytics over each data point is a day but you have multiple transactions or, I don’t know what you call them, data points, I guess, during each day and you just want to know how many of them there were? Do you wind up caching that somewhere or creating another database table or view or whatever you call it to handle that? Or do you…
+
+<strong>HEATHER:</strong>  That’s a good question. It’s not something we have tackled in earnest yet, but it’s definitely something we’re all thinking about doing in the near future. So, we’ll see but hopefully.
+
+<strong>CHUCK:</strong>  Yeah. I know that if you're querying a table that has millions or hundreds of millions of records in it and you're trying to pull out specific ones, especially if it’s not indexed, a lot of times it’s a little bit tricky and can take a while.
+
+<strong>HEATHER:</strong>  Yeah, definitely. Analysis takes a really long time. And it’s kind of amazing. At Yammer where I was first introduced to this whole world, analysis often took just several minutes to run. They had a really nice ETL pipeline that had this -- it was in Vertica at the end. And our analysts just would write these queries that just took several minutes to run every time. So, I think a common way to approach that would be to work up these analyses on a very smaller subset of the data and then finally run it on the full data and have that take 10 minutes or something.
+
+<strong>AVDI:</strong>  Can we have some definitions on ETL and column-based databases?
+
+<strong>HEATHER:</strong>  Sure. ETL is extract, transform, and load. And that’s kind of like, maybe you have a production database and then you have a slave, as James was saying -- sorry, a follower. And the follower, you have some automated process that just periodically takes the follower data and maybe it parses something that you're storing in certain ways so that it’s easier to analyze them to pipeline them. And maybe you drop some information that you know you're never going to care about or something, and it loads it into this other data store somehow. And so, that would be an example of the ETL system, I think. I never actually worked on one, but that is my understanding.
+
+<strong>JOSH:</strong>  Yes. I spent a couple of months working on a project like that last year. That was a great summary.
+
+<strong>HEATHER:</strong>  Okay, excellent.
+
+<strong>AVDI:</strong>  Is that something that happens in real time or is that something you run a job and pull a whole bunch of data out that just captures like one snapshot?
+
+<strong>JOSH:</strong>  I'll say both things happen, and sometimes on the same system.
+
+<strong>AVDI:</strong>  Okay.
+
+<strong>HEATHER:</strong>  And then column-based data store is just a database that stores things with the pros and cons reversed kind of at a low level so that certain kinds of analysis are easier.
+
+<strong>JOSH:</strong>  Yes. So typically, in a relational database, they store all of the data for a particular row contiguously so it’s really easy to fetch all the data for a particular record in one query. But the column orientation is usually you want to know all the names and all the phone numbers of people. So, if you store all the names together contiguously in the physical storage, it’s a lot easier to do those kind of queries.
+
+<strong>AVDI:</strong>  So, in ActiveRecord terms, this is doing I think what they call a pick?
+
+<strong>JOSH:</strong>  Pluck.
+
+<strong>AVDI:</strong>  Pluck.
+
+<strong>JAMES:</strong>  Yeah.
+
+<strong>AVDI:</strong>  Except the database is structured for that to be very efficient.
+
+<strong>JAMES:</strong>  Or also group by queries in a more traditional SQL sense where you typically smash them all down to get statistics on one particular column or something.
+
+<strong>CHUCK:</strong>  It’s a good way to think about how you think about the data. I've done quite a bit with Cassandra. And typically the way that it stores is it stores, you do have the concept of kind of a record so you can't pull all of the name and the value off of each value in the record. But the way that it manages it is the atomic level of data is actually a tuple with the key in the value. And then they associate up to their parent and then they tend to build the data, as you said, sort of around those tuples based on what their keys are in the space that they live in. And it gets kind of hairy to really get it but when you get it, then you can start to understand how to optimize to get that data out. And it also allows you to ignore any openings because since it’s column-focused instead of row-focused, you don’t actually have to store nulls or nils, it just allows you to bypass all of that and only look at the relevant values.
+
+<strong>JAMES:</strong>  Ah, good point. Yeah, if a column is mostly blank, then that column just has a lot less entries, right?
+
+<strong>CHUCK:</strong>  Yup, exactly.
+
+<strong>JAMES:</strong>  So, we’ve talked about getting the data and the various means of doing that and those kinds of things to get more into the specific analysis of it. I really like what you said, Heather, about we find often that a very simple regression over a data set is the best thing. Can you talk some more about that?
+
+<strong>HEATHER:</strong>  I like talking about that because I hate it whenever -- I think there's a myth, the world needs to know. And this is definitely one of those things I hear over and over about the types of analyses that big companies are doing.
+
+<strong>AVDI:</strong>  I'm sorry. Before you get into it, can I get one more definition? What do we mean by regression in this context?
+
+<strong>HEATHER:</strong>  A statistical regression. I don’t know if anyone has a really good way of explaining that off the top of their head. I don’t.
+
+<strong>JAMES:</strong>  It’s the tool Economists use, right? It’s basically where you take a set of data and you are trying to reduce it down to the one key changing factor. Am I describing it well? I don’t know.
+
+<strong>HEATHER:</strong>  Like regression to the mean, I don’t know. [Chuckles]
+
+<strong>CHUCK:</strong>  The Free Dictionary says the relation between selected values of X and observed values of Y from which the most probable value of Y can be predicted for any value of X.
+
+<strong>JAMES:</strong>  Yeah. So, Economists do this and my understanding of it, this is my understanding. So, if I'm wrong, all the listeners can send me hate mail. But my understanding is that you have a bunch of data like [inaudible] or something, tons of data. And the point of regression is to try to reduce it down to, “That’s nice that we have all these data but we would like to track this one factor. We would like to get it down to this key factor that we can follow through and see what's happening.” That’s as I understand it.
+
+<strong>AVDI:</strong>  Okay.
+
+<strong>HEATHER:</strong>  So yeah, going back to the earlier thing. One example I like of this simple analysis at scale beating everything else, beating it to a pulp, so I have a background in linguistics and people have been trying to model human language for so long. And they’ve been making these incredibly complex nuanced linguistics-backed algorithms trying to understand human language. And Google just came in and with just the stupidest, simplest algorithms with a massive amount of data, just blew everyone else away for machine translation. That’s just one example of how simple at scale wins.
+
+<strong>JAMES:  </strong>You know, that’s a really good point. They used their advantage in data to avoid solving the hard problem, right?
+
+<strong>HEATHER:  </strong>Yeah, exactly.
+
+<strong>JOSH:  </strong>There’s a lot to be said for brute force.
+
+<strong>JAMES:  </strong>[Laughs] If you’re the brute. [Chuckles]
+
+<strong>HEATHER:  </strong>Yeah. Blunt tools are very, very useful. You know, a giant hammer.
+
+<strong>JAMES:  </strong>That’s a good point. So, you try to focus on the simplest way we can get these results and get meaningful data as opposed to whether or not we’ve built this impressive technological monstrosity.
+
+<strong>HEATHER:  </strong>Right. And I think it’s more a reflection of the way people actually do analysis, is that most of it is fairly simple and a lot more than you think is SQL based. I’m always just continually surprised how much of the world’s analysis relies on SQL. And I mean honestly, Excel, which is amazing.
+
+<strong>JAMES:  </strong>Yeah, Postgres has some really neat features for this like window functions where you can just basically calculate things as you’re walking over a series of rows and keep accumulating and stuff. That makes some of those SQL operations way easier to do and can be really useful in reporting.
+
+<strong>HEATHER:  </strong>Yeah. People definitely use Postgres for analysis.
+
+<strong>CHUCK:  </strong>So, you mentioned that you’re not as much a statistician as you are maybe a programmer, somebody who implements a lot of this stuff. So, I’m a little curious. What kinds of things do you find yourself doing most of the time?
+
+<strong>HEATHER:  </strong>For my day to day, I only work around analysis basically. I’m an engineer. So, I’m doing backend, web APIs and infrastructure, and things like that all day. But I’m surrounded by conversations about analysis and I’m very interested in it conceptually. So, even though it’s not my background, that’s something I’ve been thinking about a lot lately. And that is the target audience for the product that we’re building.
+
+<strong>JAMES:  </strong>If you could boil it down, I feel like I need the tips least likely to shoot myself in the foot. Like, “Don’t complicate it.”
+
+<strong>HEATHER:  </strong>Common…
+
+<strong>JAMES:  </strong>Yeah, yeah, right.
+
+<strong>HEATHER:  </strong>In terms of doing analysis, you mean?
+
+<strong>JAMES:  </strong>Yes, absolutely.
+
+<strong>HEATHER:  </strong>Well, people screw up split testing a lot, I think. They don’t bucket correctly.
+
+<strong>JAMES:  </strong>Let’s explain split testing for the people that don’t know what it is.
+
+<strong>HEATHER:  </strong>Sure. So, A/B testing is maybe a term that’s more familiar to people. You have a new home page you want to try out, is the canonical example I think. And it’s just a new image or some small change. And you want to know which one is going to lead to more signups. So, when a visitor goes to your site, you use some kind of hashing algorithm to place them randomly into a bucket, either A or B. And then you show the image for that bucket. So, roughly half of your visitors or whatever, however you configure it, will see one image, and half will see the other, A or B. And then you analyse the results. You log which one that they saw and then what they did. And you analyse that and say, “Well image A outperformed image B. It increased signups by 5%. So, we’re going to stay with A,” or whatever. And split testing is a more general term, I believe, that just means arbitrary number of buckets.
+
+<strong>JAMES:  </strong>And then what are the mistakes people make on that?
+
+<strong>HEATHER:  </strong>I think there are a lot of mistakes initially that people make. One is just from talking to people, it seems like a lot of people’s hashing algorithms are based on user IDs or session variables, just some random value in the session, which makes it really hard to analyse across sessions. Like logged in and logged out state will be treated and logged inconsistently. So, one thing I would recommend is to use a consistent value. Don’t hash on user ID. Hash on something just random that you start with it in the session or you just generate one for all users. And if someone transitions from logged out to logged in, just copy that value over and use the same value. That’s one thing people screw up a lot. And it leads to some…
+
+<strong>JAMES:  </strong>Hang on. Let me see if I understood that.
+
+<strong>HEATHER:  </strong>Sure.
+
+<strong>JAMES:  </strong>That’s very interesting. So, what you’re saying is because we do something like user ID then the idea is there are people crawling around your site potentially that are not logged in. And so, I see them as one data point when they’re not logged in, whatever the hashing algorithm does for an anonymous or guest user basically. But then as they transition over to the other side, they’re like, “Hey I like this site. I’m going to stick around,” or whatever, they log in and now I’ve lost them because that data point jumped over some invisible barrier that I just can’t see anymore because it got hashed differently. And so, I’ve lost them. And what you are saying is if I would just assign some unique identifier to them at the outset and move that over, I could follow them through the whole system, which might be more interesting. Did I get it?
+
+<strong>HEATHER:  </strong>Exactly. And not only more interesting, but it invalidates all of your results if you have any number of these. Sometimes, the results of this, the differences are so small. It’s just one percentage point. But it’s a really important percentage point. And if you make a mistake like this, your results are no longer statistically valid. You just can’t use them anymore. So, that’s a big bummer if you’ve been running a test for two weeks and you realize you did it wrong and you have to throw out all your numbers and start again. So, it’s best to think about these things upfront.
+
+<strong>JAMES:  </strong>Or worse, if you don’t realize you did it wrong, right? [Chuckles]
+
+<strong>HEATHER:  </strong>Or worse, if you base your decisions on junk data. Yeah, definitely worse.
+
+<strong>JAMES:  </strong>[Chuckles]
+
+<strong>HEATHER:  </strong>And then another thing people screw up is changing the proportions of their buckets. You definitely cannot do that mid-test. That will completely invalidate all of your results.
+
+<strong>JAMES:  </strong>Right. you’ve got to have an even section going into the bucket the whole time in order to be able to say with any kind of confidence what effect it’s having.
+
+<strong>HEATHER:  </strong>Yeah, absolutely.
+
+<strong>JAMES:  </strong>It’s really cool. You talk about how, like you said, you’re not even trained as a statistician. And I think that’s a very valid point. I’m not either. And I do work on a lot of these things. How do we do that? How do we pick up these analytic tricks without making the classic beginner mistakes? Is it that companies really need to consult with professional analysts in order to get good ideas with data? Are there some good ways we can try to avoid making super simple mistakes? How do you think companies should handle that?
+
+<strong>HEATHER:  </strong>That’s a good question. Personally, I really think that someone with real statistical knowledge, because there’s just a lot that’s just totally over my head anyway even though I’ve read up on the basics. I think it’s worth running your assumptions by someone who is really specialized in that. If you can bring on a full-time analyst, that’s amazing. But a lot of people aren’t in that position, in which case I would recommend not just reading ‘Lean Analytics’ and making decisions that way. There are a lot of subtleties to the actual decision making. But the tools have gotten so good that people from all sorts of backgrounds can jump in and get most of the way there, I think. And maybe even not screw up, even if they don’t consult with a statistician. But I would still recommend it.
+
+<strong>JAMES:  </strong>Yeah. So, what are the great tools for figuring things out?
+
+<strong>HEATHER:  </strong>Definitely MODE Analytics. MODEAnalytics.com [Laughs].
+
+<strong>JAMES:  </strong>What? Never heard of it.
+
+<strong>HEATHER:  </strong>[Laughs] No, we’re in beta actually. But if anyone really wants to try this out, feel free to email me and I’ll get you in the beta. But I think the reason we’re pursuing this is that we don’t think there are a lot of great tools out there. There’s just people are doing a lot of analysis from their computers, just command line or Python scripts, running everything locally. The tools are no easier than that.
+
+<strong>JAMES:  </strong>Right.
+
+<strong>JOSH:  </strong>So, you said you were doing a lot of work in Ruby for this. Is there something interesting in the intersection of Ruby and data analytics?
+
+<strong>HEATHER:  </strong>So, probably not [substantively]. We’re using it because we’re very familiar with it and for the parts of our infrastructure that we just need to be able to change really quickly, like just the web interface, it makes sense to use Ruby. We’re also using Sinatra in front of some pretty simple services that we expect to build out over time. So, I don’t think Ruby in particular has that much overlap with analysis. But it’s definitely a great language. It’s working great for us.
+
+<strong>CHUCK:  </strong>So, I’m curious. Are there any gems or particular tools that make it easier to do analytics in Ruby? You said there wasn’t a large overlap, but is there a [inaudible] one?
+
+<strong>HEATHER:  </strong>Yeah. You know, I honestly think Python is the only choice for things like this. Academia definitely prefers Python. So, a lot of the libraries, basically the only options are in Python.
+
+<strong>JAMES:  </strong>You’re talking about things like NumPy and stuff like that, I assume?
+
+<strong>HEATHER:  </strong>Yeah, and NLTK, the natural language toolkit, and things like that. Academia has taken a stand there. They’re going with Python for the time being.
+
+<strong>JOSH:  </strong>Python beat R?
+
+<strong>JAMES:  </strong>[Chuckles]
+
+<strong>HEATHER:  </strong>Well, both of them.
+
+<strong>JAMES:  </strong>It’s a syntax thing, right? R is cool and stuff, but boy, it’s definitely a brain leap in the syntax and playing with it, for me.
+
+<strong>JOSH:  </strong>Yeah.
+
+<strong>JAMES:  </strong>I guess I’m speaking only for me. But it definitely is for me.
+
+<strong>JOSH:  </strong>Yeah. Well, for a while it seemed like R was the go-to system for doing numerical analysis. And I hadn’t heard that everyone had moved away from that. Of course, I don’t really pay attention. [Chuckles]
+
+<strong>HEATHER:  </strong>I don’t think it’s a transition so much as people use both and either, depending on the problem. Python is sometimes used just for basic. It’s just what people use, and then maybe an R regression on top of that, or just one or the other.
+
+<strong>JOSH:  </strong>Okay.
+
+<strong>JAMES:  </strong>I have a buddy who’s a physicist and always dealing with just massive amounts of geological data and stuff and he swears by Python and NumPy and stuff like that. That’s how he does his job.
+
+<strong>HEATHER:  </strong>That’s pretty common.
+
+<strong>CHUCK:  </strong>If I want to learn more about this, are there some good books that I should be picking up?
+
+<strong>HEATHER:  </strong>I wish I could recommend some. [Chuckles] Book learning, it’s hard. I can’t get through a book these days.
+
+<strong>JAMES:  </strong>[Laughs]
+
+<strong>HEATHER:  </strong>So, I don’t. I just learn from the internet.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Blogs?
+
+<strong>HEATHER:  </strong>Blags.
+
+<strong>JAMES:  </strong>I have the utmost respect for what you just said.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>So, are there blogs out there that you follow regularly then?
+
+<strong>HEATHER:  </strong>Honestly, no. Nope. I just [chuckles] shuffle around. I’m sure there are great resources and I wish I had looked them up in advance to tell you. But I just didn’t.
+
+<strong>JAMES:  </strong>Is that one of the advantages of going with a company like MODE Analytics? Obviously, you get access to your toolset and stuff. But is there some way to interact with the MODE Analytics team and get access to this insight, the shared insight that you have?
+
+<strong>HEATHER:  </strong>Yeah. I think we’re going to definitely encourage that kind of knowledge sharing, especially among teens. But also, we’re definitely building products, like GitHub brought code out into the open. We want to bring analysis out into the open by default. And then if it’s really like “business intelligence”, then you can make it private. But we want to help people not redo work that others have done and see how others have done things, whether that’s for the wide open web or just within their company.
+
+<strong>JAMES:  </strong>That’s really cool.
+
+<strong>HEATHER:  </strong>Yeah, we think so, pretty excited about it.
+
+<strong>CHUCK:  </strong>Alright, do we have any other more questions that we want to ask or other insights from our experience that we want to share?
+
+<strong>JOSH:  </strong>So, a little bit outside the scope of the analytics conversation, how is it doing the start-up thing, doing Ruby, and doing all that in San Francisco these days?
+
+<strong>JAMES:  </strong>Ruby doesn’t scale.
+
+<strong>CHUCK:  </strong>Neither does San Francisco.
+
+<strong>HEATHER:  </strong>It’s really, really team-dependent. I happen to be on a team that I really like. So, I think it’s great. I think Ruby is such a good tool for this stage of development, and maybe longer. We’ll see. You kind of reassess as you go with these things, scaling technology. But right now, it’s letting us get so much done so fast.
+
+<strong>CHUCK:  </strong>Cool.
+
+<strong>JAMES:  </strong>That actually gives me one more question. You talk about how you like using Ruby at this stage because it lets you move quickly and iterate fast. At what point of an application is the right time to start thinking about analytics?
+
+<strong>HEATHER:  </strong>That is a really hard question. It’s like saying when is it premature optimization? It’s so situation-dependent that it’s hard to come up with a general answer. But I believe in addressing bottlenecks as they arise. So, if you feel like you don’t know what the next step is, especially if there’s something that’s a really good candidate for something like split testing or cohort analysis, then I would say that’s the time to get into analytics.
+
+<strong>CHUCK:  </strong>I want to point out too, I think we talked about analytics like it’s something that’s really hard. And I think if you have a lot of data, especially complicated data and complex decisions to make based on that data, then it can get hard. But if you’re just getting started and you have ten people signing up every month, you can collect analytics. You can do A/B testing and start figuring out what matters to those folks, and it’s not going to be that complicated because you’re not looking at that much data to make your decisions. So, you can start at the beginning and just keep it simple until you actually need something more complicated to give you the information you need.
+
+<strong>HEATHER:  </strong>That’s a really good point. And that brings up a small distinction which is qualitative and quantitative data. So, until you reach a certain scale, you can’t really do quantitative analytics. You can’t get statistical significance.
+
+<strong>CHUCK:  </strong>Right.
+
+<strong>HEATHER:  </strong>Like one way to make the decision about when to start doing analytics is when you have enough data to get statistical significance.
+
+<strong>CHUCK:  </strong>So, what you’re saying is that if you only have ten data points, then each point is significant I guess, because it’s one-tenth of the overall measurement?
+
+<strong>JAMES:  </strong>[Chuckles] I guess that’s one way to look at it. I would say more of what she was saying, not to put words in Heather’s mouth, but it’s like if you do a poll. Is that poll representative of the actual community or whatever? You have to have enough data in order to know that you’ve hit a significant segment in order to say that you can actually use that data to determine things and you don’t just have a self-selecting crowd.
+
+<strong>CHUCK:  </strong>Oh, I see. Gotcha.
+
+<strong>HEATHER:  </strong>Exactly. It might be noise. If you have a thousand users, it might be pure noise. But if you have 10,000 or 20,000 and you run it long enough, you can actually determine causal relationships for sure.
+
+<strong>JOSH:  </strong>So Heather, one of the big problems with statistical thinking is that our brains aren’t really well-wired for it. And much of the results that we get out of the mathematical analyses are really counterintuitive.
+
+<strong>HEATHER:  </strong>Yeah, absolutely.
+
+<strong>JOSH:  </strong>Is that a particular challenge in the work that you guys are doing? And what are you doing about that? Is there special stuff that you do? Or do you just assume everyone’s statistically trained enough to understand these things?
+
+<strong>JAMES:  </strong>They replace your brain.
+
+<strong>JOSH:  </strong>[Chuckles] Oh, I want that. Can I get that?
+
+<strong>JAMES:  </strong>Me too.
+
+[Laughter]
+
+<strong>HEATHER:  </strong>Yeah, right now we definitely assume certain knowledge. But we want to build [help] site into a place to learn and hopefully increase learning by just making it easier to see what analysts are doing and let them annotate their work. So, hopefully people can learn by example from each other that way. But yeah, I feel like, what was that book, ‘Watership Down’, where the rabbits count and they have one, two, and many. They have a special word for many.
+
+<strong>JAMES:  </strong>[Laughs]
+
+<strong>HEATHER:  </strong>I feel like that’s totally how humans work too.
+
+<strong>JAMES:  </strong>Yeah, absolutely.
+
+<strong>JOSH:  </strong>I love that you used that comparison. I’ve used that too. One, two, three, four, many.
+
+<strong>HEATHER:  </strong>Yeah, exactly. Do you remember the word?
+
+<strong>JOSH:  </strong>Hrair.
+
+<strong>HEATHER:  </strong>Oh, nice. There we go.
+
+[Laughter]
+
+<strong>JAMES:  </strong>I’ve actually read studies on babies where they would do things with them early on to see how well they associate numbers and stuff. And it seems clear they can recognize differences in numbers even almost right at birth, just by reactions when they hold up different quantities and kinds of toys and stuff. But they most naturally recognize exponential jumps. They don’t recognize the difference between 4 and 5. But 4 and 16 or whatever, then they register the difference. It’s interesting.
+
+<strong>HEATHER:  </strong>I saw that and I was really fascinated because I feel like it’s so hard for us [inaudible] exponentially later in life after we’ve had these integers just beaten into us. And it’s like, we’re born with that innate capability but we just have to rediscover it.
+
+<strong>JAMES:  </strong>Yeah, it’s true. In a problem I was working at, at work yesterday, we’re like, well it’s 200 entries combined with 200 entries. How bad is that? And it’s like, 40,000. That’s pretty bad. But then what if it’s 200 entries combined with 200 entries combined with 200 entries. Well then, it’s 8 million. And then it’s a whole different ballgame.
+
+<strong>HEATHER:  </strong>[Chuckles] Yeah. It’s always a struggle.
+
+<strong>JAMES:  </strong>Cool. Well yes, cool stuff. We’re looking forward to see what MODE Analytics does.
+
+<strong>HEATHER:  </strong>Awesome. Definitely get you guys in on the beta.
+
+<strong>JAMES:  </strong>Absolutely.
+
+<strong>AVDI: </strong> Cool.
+
+<strong>CHUCK:  </strong>Yeah, cool.
+
+<strong>JOSH:  </strong>Ooh, nice.
+
+<strong>CHUCK:  </strong>Alright. Well, should we get to the picks?
+
+<strong>JAMES:  </strong>Let’s do it.
+
+<strong>HEATHER:  </strong>Sure.
+
+<strong>CHUCK:  </strong>Alright. Avdi, what are your picks?
+
+<strong>AVDI:  </strong>Let’s see. Well, I’ve been digging into some of the more advanced capabilities of bash lately.
+
+<strong>JAMES:  </strong>[Laughs]
+
+<strong>AVDI:  </strong>There are a lot of interesting things that I could point out with bash, but just to pick one, I will say fire up a recent version of bash that’s version 4 or later. I understand that certain backwards operating systems don’t come with version 4 even though it’s been out since 2009.
+
+<strong>JAMES:  </strong>What operating systems?
+
+<strong>AVDI:  </strong>[Laughs] I’ll let you find out for yourself. But yeah, get yourself a recent version of bash and type in help coproc, c-o-p-r-o-c. And check out how to do coprocesses in bash. Kind of cool. For some less programmy picks, this is basically me becoming an old geezer, but I have recently discovered the joy of knee socks.
+
+[Laughter]
+
+<strong>AVDI:  </strong>I have been…
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Oh no.
+
+<strong>AVDI:  </strong>I’ve been wearing them.
+
+<strong>JOSH:  </strong>It’s pretty cold there, is it Avdi?
+
+<strong>AVDI:  </strong>It is very cold here. And I have recently been wearing a very tall pair of boots. If it redeems me at all, they’re a pair of Doc Martens. And none of my socks were really long enough to work with them. And so, I ordered some knee socks and I discovered a wonderful thing about knee socks. Because they go up over the part of the calf where the leg starts to narrow again, they actually have something to hold onto. And they stay up. They’re the first socks I’ve ever had that stay up.
+
+[Laughter]
+
+<strong>AVDI:  </strong>So, I’ve been using some under armour HeatGear boot socks. Those have been working pretty well. I also tried out the thorlo combat boot socks. But yeah, love this socks that stay up thing.
+
+<strong>JOSH:  </strong>Avdi, for your next birthday I’m buying you some sock garters.
+
+[Laughter]
+
+<strong>JOSH:  </strong>Then you’ll really be able to do the old geezer thing.
+
+<strong>JAMES:  </strong>No kidding.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Yeah, next conference somebody’s going to walk up and pull his pant leg up. Yup.
+
+[Laughter]
+
+<strong>JAMES:  </strong>You know, he used to be the most fashionable among us. I’m just saying.
+
+<strong>JOSH:  </strong>Excuse me?
+
+<strong>JAMES:  </strong>Oh, sorry. Sorry.
+
+<strong>AVDI:  </strong>Oh, wow.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>I’m not sure about where this is going.
+
+<strong>AVDI:  </strong>There are going to be words after the episode.
+
+[Laughter]
+
+<strong>AVDI:  </strong>And finally, for those of you who happen to be within the Victory Brewing company distribution radius, all three of you, I recently got some DirtWolf Double IPA, their new Double IPA. And it is just a wonderful celebration of American hop varieties. If you like flowery, hoppy beers, I would say definitely check it out.
+
+<strong>CHUCK:  </strong>Cool. Josh, do you have some picks for us?
+
+<strong>JOSH:  </strong>Yeah, I have two videos. One is a little relevant to our interest today, and that’s Coda Hale gave a talk a couple of years ago on instrumenting your application to collect metrics. And it was a great talk. And I have a video of it that got recorded when he gave that talk at Pivotal Labs. So, that’s a pick. And then I have a second video. And this is my absolute favourite memory of Jim Weirich. And this was Jim and Ron Evans and I serenaded Aaron Patterson, Tenderlove, at Ruby on Ales a couple of years ago. And Jim was really well-known for his ukulele and singing skills. So, this is Jim at his best, I think. So, that’s it for me.
+
+<strong>CHUCK:  </strong>Awesome, James do you have some picks for us?
+
+<strong>JAMES:  </strong>I do. I got to spend some time with Greg Brown this morning pairing on a problem and stuff. And it was so good to reconnect with a buddy of mine. And he reminded me of lots of cool stuff and has me reading lots of interesting things. So, one is Practicing Ruby, which is basically the subscriber service that Greg has run for years and just generated ridiculous amounts of cool content. It’s 93 articles and most of them are open now. And the rest will be soon. So, you can just go to the Practicing Ruby site and read. And there’s tons of great material in there. You should really check it out. And really good stuff, and support Greg if you want to because he makes more great content. And the other thing is while we were talking today, he turned me onto this cool article about logging. And as I got off the call with him, I was reading it the entire time between when I got off and when we started this call. And you think, logging, what’s there to know? And if you think that, you should totally read this article because it will blow your mind. It talks about the different kinds of logging, like analytical and data logging and stuff, and what those mean and what a log is and how that’s important and how does it relate to distributed computing. And it’s just super cool. It’s like a novel almost on logging. And it will make you think about things in a very different way. So, two cool great picks. And then just to have something totally ridiculously fun, I guess we finally decided it’s pronounced jif now, not gif, but Gifpop! is this website where you can take your animated gifs and get them turned into actual physical cards. They’re holograms. So then, you move it back and forth and your gif is animating.
+
+<strong>CHUCK:  </strong>[Laughter] That’s awesome.
+
+<strong>JAMES:  </strong>This is so ridiculously cool. You have to check this out. That’s it. Those are my picks.
+
+<strong>CHUCK:  </strong>Alright. I’ve got a couple of picks here. The first one, I mentioned it on the show so I’m going to make it a pick, is ‘The Lean Startup’ book by Eric Ries. Great book. That’s all I’m going to say. And then in honour of Jim Weirich, I’m actually going to pick a couple of projects that we all use. If you don’t use them, you just don’t know you use them probably: Rake, Builder. And then I’m finally going to pick his Y-Combinator talk from RubyConf a couple of years ago. So those are my picks. Heather, do you have some picks for us?
+
+<strong>HEATHER:  </strong>Yeah. I have a couple of picks. I’m glad you mentioned the logging article, James. One of my picks, I mentioned centralized logging earlier. So I’ve been using logstash recently and I really love it. So, I pick it. Basically, you just put a jar file on all of your servers and you tell it where, you just configure it so it knows where to find your log files and what patterns to expect in them. And then it ships all of your logs to a centralized location where they’re all indexed by elastic search. And it comes with this pretty nice web interface out of the box, like thin interface on top of elastic search, so that you can get a really good visual sense for what’s going on in all of your production boxes. So, that’s been pretty great. And then my last pick is something that’s pretty well-known but I just want to make extra sure everyone’s heard of it. I was reminded of it earlier this week because of the whole Michael Dunn thing. But it’s @_floridaman and it is the best use of the Twitter platform that I’ve ever heard of. Basically, someone is just scraping news headlines for headlines containing the words Florida man and tweeting that. And when you read them all in a row, it sounds like the world’s weirdest antihero.
+
+<strong>JAMES:  </strong>[Laughs]
+
+<strong>HEATHER:  </strong>And so, I find that pretty delightful. A lot of weird things happen in Florida.
+
+<strong>JAMES:  </strong>[Chuckles] That’s amazing.
+
+<strong>AVDI:  </strong>Yes, they do.
+
+<strong>CHUCK:  </strong>Alright, well thanks for coming Heather. It was a really great discussion. And hopefully, folks who are trying to collect data and use it to make the right decisions will get something out of this.
+
+<strong>HEATHER:  </strong>Thanks so much.
+
+<strong>JOSH:  </strong>Yeah, thank you.
+
+<strong>CHUCK:  </strong>I just want to remind everybody that we are reading ‘Ruby Under A Microscope’. We will be doing that episode next week.
+
+<strong>JAMES:  </strong>We’re not actually reading the Ruby source code under a microscope. We’re reading a book called Ruby.
+
+<strong>AVDI:  </strong>My god, it’s made of pixels!
+
+[Laughter]
+
+<strong>JAMES:  </strong>Don’t spoil the episode.
+
+<strong>CHUCK:  </strong>Alright, so I guess that’s all of our announcements. So, we’ll wrap up and we’ll catch you all next week.
+
+<strong>JAMES:  </strong>Oh yeah, I forgot a funny part to my story that I opened the show with, because I was so nervous. But we had that exchange at LoneStar that I talked about and then a year or so later, we both showed up at MountainWest in Utah. And I opened the conference that year, so I knew I would get to talk before him. And I modified my slides so that when I introduced myself, I told everybody I was Jim Weirich. And I told them there were only two important things they needed to know about me. One, that I wrote the TextMate book.
+
+[Laughter]
+
+<strong>JAMES: </strong> And two, that I just love to talk to people. So, I told them that, “Ask your friends to point me out, Jim Weirich. And then come up and talk to me about TextMate, because I like that.” And he just was cracking up. It was great.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>It’s funny, because that was my very first Ruby conference. I had just made the transition from QA into fulltime development. So, I had no idea who you were or Jim was. And one of my friends had been talking to me about testing. And so, I showed up a little bit early getting back from lunch or early for the conference on one of the days. And I just walked in and sat down and I didn’t realize that I had sat next to Jim Weirich. And I had heard his name because David said that he would pay real money to hear Jim Weirich talk about oatmeal. But again, I didn’t introduce myself to him or anything. But I looked at him and I said, “It looks like you’ve been to a few of these things. At least I’m hoping you have been,” not knowing that he goes to all the conferences. [Laughter]
+
+<strong>CHUCK:  </strong>And I’m like, “My friend keeps trying to explain to me mocking and stubbing and I don’t get it. Can you explain to me? Do you get it?” And he wrote Flexmock. But he didn’t even point that out. He just started explaining to me, “Well, it’s…”
+
+[Laughter]
+
+<strong>CHUCK:  </strong>And it was so great. But that was my first Ruby conference experience. And meeting folks like Jim just made a huge difference to me coming into the community.
+
+<strong>JAMES:  </strong>So, here’s a funny follow-up on that, that exact story that Chuck just told. Jim spoke, I believe last at that conference, or if not last it was toward the end. And he modified his slides in two ways. One, he began his talk about oatmeal because David Brady had said that. [Laughter]
+
+<strong>JAMES:  </strong>So, he had pictures of oatmeal and started talking about oatmeal. And two, at the end, he told everybody he had written the Emacs book which was a Photoshopped version of the TextMate book. [Laughter]
+
+<strong>JAMES:  </strong>And he had replaced the word TextMate with Emacs. It was amazing.
+
+[Laughter]
+
+<strong>JAMES:  </strong>So long, Jim Weirich.

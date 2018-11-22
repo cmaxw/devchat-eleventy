@@ -1,0 +1,102 @@
+---
+layout: layouts/post.njk
+title: >
+      RR 323: Queuing and Amazon SQS with Kinsey Ann Durham
+date: 2017-08-15 04:00:52
+episode_number: 323
+duration: 53:29
+audio_url: https://media.devchat.tv//ruby-rogues/RR_323_Queuing_and_SQS_with_Kinsey_Ann_Durham_mixdown.mp3
+tags: ruby-rogues
+---
+
+<h2 style="text-align: center;">RR 323: Queuing and Amazon SQS with Kinsey Ann Durham</h2>
+This episode of Ruby Rogues features panelists Charles Max Wood, Dave Kimura, and Eric Berry. Special guest Kinsey Ann Durham joins to talk about queuing and Amazon SQS. Tune in to learn more!
+
+<strong>[00:01:19] Kinsey Ann Durham</strong>
+
+Kinsey writes code for a company called Go Spot Check. She is always a lead mentor in a San Francisco based company called Bloc.
+
+<strong>[00:02:50] Background on Amazon SQS</strong>
+
+Go Spot Check is using Amazon SQS on a smaller scale. Kinsey thinks it is sasy to use. She recommends using something like Amazon SQS or even RabbitMQ. It has provided the company with the ability to explore different architecture patterns and tools.
+
+<strong>[00:04:50] Can you talk a little about your company and what led to using Amazon SQS?</strong>
+
+Go Spot Check is a start up in Denver. They focus on recording and data collection for big companies that need to know what is happening in retail, grocery stores, and bars. The focus is on alcohol and retail brands. The company analyzes the data collected that previously held no insight. Go Spot Check is currently moving into a computer vision aspect. Kinsey works off a separate service off of main aspect of Go Spot Check.
+
+<strong>[00:06:46] What does your stack look like? Is it built off Ruby?</strong>
+
+Yes, it is a Rails API only. The computer vision is done in Python.
+
+<strong>[00:08:45] Are you feeding the images through the queue? How does the queuing fit in?</strong>
+
+Started using Amazon SQS because they wanted to have a more decoupled way of developing. This allowed them to decide the contract between the two services and decide what they wanted it to look like up front. Kinsey describes that it is easy to create fake messages for testing with Amazon SQS. Image data is sent back and forth through the queue. The company does a lot of planograms. Information is taken from that data and posted onto a queue from the machine learning side of things. On the Rail side of things, the data can be picked up in API and sent back to the main app.
+
+<strong>[00:10:50] Does it accept binary data in the queue? </strong>
+
+It does not send actual images. All comparison data that has been processed is sent from the machine learning aspect side of things. An article has been published that shows that people do send images in the queue.
+
+<strong>[00:11:35] Do you use SQS in parallel with SNS (Simple Notification Service)?</strong>
+
+Kinsey says that they haven’t used SNS. This is because there hasn’t been a need. They are using it to post messages to communicate between different services.
+
+<strong>[00:12:40] What point would you need to consider a SQS over a Sidekick?</strong>
+
+Kinsey didn’t look into using Sidekick; she was excited to use SQS. She wanted to try it out and see if it was easy to use. Thought it would be more complex than it has been. She enjoys the free features of Amazon such as message visibility and timeout, which is handled by them. It can be customized and two different queues can be used.
+
+<strong>[00:16:15] How do you write the workers for an SQS queue?</strong>
+
+Kinsey has a plain Ruby object in the API that she can reuse with any queue. There are three queues in the company.
+
+<strong>[00:19:45] Are there any other uses for queues and SQS?</strong>
+
+Kinsey hasn’t come across any personally but she is sure there are some.
+
+<strong>[00:23:40] What if you’re someone who is new? Where would you recommend they get started?</strong>
+
+Suggest getting started with SQS Amazon, SQS documentation. Can get up to speed quickly. Amazon SQS is easy to get up and running. Kinsey is tailoring her Ruby Dev Summit talk to people who are new.
+
+<strong>[00:30:35] How do you go about mentoring?</strong>
+
+Kinsey loves mentoring. Developers have side projects or freelance work, but Kinsey likes to mentor because she feels like she makes a difference while continuing to learn. An important part of mentorship is giving support. This support level to students’ means not only offering students help with technical skills. Her goal is to build a well-rounded developer: someone who will be a great team member and people will want to work with in the future. This involves helping students build soft skills such as networking, interviewing skills, and helping them build confidence.
+
+<strong>[00:33:52] How would people get involved with mentorship?</strong>
+
+Kinsey is involved with an organization called Bloc - they are always hiring mentors. She shares that people can always get involved in their local community. Schools are looking for mentors. People at local meet ups and Rails Bridge are also both good ways to volunteer. Kinsey learned through mentors - she didn’t go to school to learn code. Mentors changed her life and are important to her, which is why she now mentors.
+
+<strong>[00:36:30] Advice For Women </strong>
+
+Kinsey’s advice for women who want to work in the technology world is to go for it. She urges women to get as many people and resources on their side as possible, including great developers who are willing to mentor. She emphasizes the importance of confidence and says to be ready for comments on gender. She believes that - while there are definitely still diversity issues with socioeconomic background, sexual orientation, race, gender, etc. it is getting better – women are more welcome in the technology field than they have previously been.
+
+There are technology organizations that are doing well and have no problems with welcoming women into the workplace. People in the field need to be open to having discussions about gender inequality. Open dialogue with team members is the key to solving problems. Some people have grown up not realizing the way they think is wrong. They don’t connect that what they say or think is offensive because it is all they know; it is unconscious to them. This is the type of person that is hard to change.
+<h3><strong>Picks</strong></h3>
+<strong>Eric: </strong>
+<ul>
+ 	<li><a href="https://opencollective.com">Open Collective </a></li>
+ 	<li><a href="https://opencollective.com/wwcode">Open Collective – Women Who Work </a></li>
+</ul>
+<strong>Dave</strong>:
+<ul>
+ 	<li>Health insurance</li>
+</ul>
+<strong>Charles:</strong>
+<ul>
+ 	<li><a href="http://www.amazon.com/dp/0981808298/?tag=chamaxwoo-20"><em>Profit First </em></a></li>
+ 	<li><em><a href="http://www.amazon.com/dp/0060763280/?tag=chamaxwoo-20">Secrets of the Millionaire Mind</a> </em></li>
+</ul>
+<strong>Kinsey</strong>:
+<ul>
+ 	<li>Guide program applications for mentors at RubyConf</li>
+ 	<li><em><a href="http://www.amazon.com/dp/0978739213?tag=chamaxwoo-20">Release It</a> </em></li>
+</ul>
+<h3><strong>Links for Kinsey</strong></h3>
+&nbsp;
+<ul>
+ 	<li><a href="https://twitter.com/kinseyanndurham?lang=en">Twitter</a></li>
+ 	<li><a href="https://www.instagram.com/kinseyanndurham/">Instagram</a></li>
+ 	<li><a href="https://github.com/durhamka">GitHub</a></li>
+</ul>
+
+<h3>Transcript</h3>
+
+

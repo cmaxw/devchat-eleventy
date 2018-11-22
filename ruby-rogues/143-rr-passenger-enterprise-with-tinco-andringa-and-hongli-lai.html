@@ -1,0 +1,493 @@
+---
+layout: layouts/post.njk
+title: >
+      143 RR Passenger Enterprise with Tinco Andringa and Hongli Lai
+date: 2014-02-12 14:00:00
+episode_number: 143
+duration: 0:43:44
+audio_url: https://media.devchat.tv/ruby-rogues/RR143Passenger.mp3
+tags: ruby-rogues
+---
+
+<p dir="ltr">01:35 - Hongli Lai and Tinco Andringa Introductions</p>
+
+<ul>
+ 	<li><a href="http://www.phusion.nl/" data-cke-saved-href="http://www.phusion.nl/">Phusion</a></li>
+</ul>
+<p dir="ltr">02:29 - <a href="http://phusionpassenger.com/" data-cke-saved-href="http://phusionpassenger.com">Phusion Passenger</a></p>
+<p dir="ltr">04:29 - <a href="http://rack.github.io/" data-cke-saved-href="http://rack.github.io/">Rack</a></p>
+<p dir="ltr">05:04 - <a href="http://nodejs.org/" data-cke-saved-href="http://nodejs.org/">Node.js</a>, <a href="http://www.meteor.com/" data-cke-saved-href="http://www.meteor.com/">MeteorJS</a>, <a href="http://www.python.org/" data-cke-saved-href="http://www.python.org/">Python</a> Support</p>
+<p dir="ltr">06:51 - Processes and Threads</p>
+
+<ul>
+ 	<li><a href="http://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/" data-cke-saved-href="http://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/">Ruby Rogues Episode #58 - Book Club: Working with Unix Processes with Jesse Storimer</a></li>
+ 	<li><a href="http://rubyenterpriseedition.com/" data-cke-saved-href="http://rubyenterpriseedition.com">Ruby Enterprise Edition</a></li>
+ 	<li><a href="http://www.modrails.com/documentation/Users%20guide%20Apache.html#_the_smart_spawning_method" data-cke-saved-href="http://www.modrails.com/documentation/Users%20guide%20Apache.html#_the_smart_spawning_method">Smart Spawning</a></li>
+</ul>
+<p dir="ltr">18:38 - Advantages of Phusion Passenger Enterprise</p>
+
+<ul>
+ 	<li><a href="http://answers.yahoo.com/question/index?qid=20061209033415AAUEayl" data-cke-saved-href="http://answers.yahoo.com/question/index?qid=20061209033415AAUEayl">Rolling Restarts</a></li>
+</ul>
+<p dir="ltr">21:16 - Mass Deployment</p>
+<p dir="ltr">22:48 - <a href="http://phusionpassenger.com/" data-cke-saved-href="http://phusionpassenger.com">Passenger</a> vs <a href="http://rubygems.org/gems/unicorn" data-cke-saved-href="http://rubygems.org/gems/unicorn">Unicorn</a></p>
+<p dir="ltr">25:07 - Error Resistant Deploys</p>
+<p dir="ltr">26:47 - Hosting</p>
+
+<ul>
+ 	<li><a href="http://www.dreamhost.com/" data-cke-saved-href="http://www.dreamhost.com/">DreamHost</a></li>
+</ul>
+<p dir="ltr">28:48 - <a href="http://httpd.apache.org/" data-cke-saved-href="http://httpd.apache.org/">Apache</a>, <a href="http://nginx.org/" data-cke-saved-href="http://nginx.org/">Nginx</a> Support</p>
+<p dir="ltr">31:22 - Stability Issues</p>
+<p dir="ltr">33:46 - <a href="https://www.phusionpassenger.com/documentation_and_support" data-cke-saved-href="https://www.phusionpassenger.com/documentation_and_support">Documentation and Support</a></p>
+
+<ul>
+ 	<li><a href="https://groups.google.com/forum/#!forum/phusion-passenger" data-cke-saved-href="https://groups.google.com/forum/#!forum/phusion-passenger">Phusion Passenger Discussions (Google Group)</a></li>
+ 	<li><a href="http://vimeo.com/phusionnl/review/85970704/29c734399f" data-cke-saved-href="http://vimeo.com/phusionnl/review/85970704/29c734399f">Recent Technical Advances in Phusion Passenger</a></li>
+</ul>
+<h3>Book Club</h3>
+<a href="http://patshaughnessy.net/ruby-under-a-microscope" data-cke-saved-href="http://patshaughnessy.net/ruby-under-a-microscope">Ruby Under a Microscope by Pat Shaughnessy</a>! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014. <a href="http://www.nostarch.com/" data-cke-saved-href="http://www.nostarch.com/">No Starch</a> was kind enough to provide this coupon code your listeners can use to get a discount for <a href="http://nostarch.com/rum" data-cke-saved-href="http://nostarch.com/rum">Ruby Under a Microscope</a>. Use the coupon code <strong>ROGUE</strong> for 40% off! <em>(Coupon expires April 1, 2014.)</em>
+<h3>Next Week</h3>
+Passion
+
+<h3>Transcript</h3>
+
+<strong>JAMES:  </strong>I don’t know. What do you do, Avdi? Do you just hang out on the beach all day?
+
+[Laughter]
+
+<strong>JAMES:  </strong>I’ve seen your ice pictures recently, which is why I said that.
+
+<strong>AVDI:  </strong>Yeah, I just hang out on Hoth and just have some sun. Hunt down the occasional wampa.
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] </em></strong>
+
+<strong><em>[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]</em></strong>
+
+<strong><em>[This episode is sponsored by Code Climate. Code Climate automated code reviews ensure that your projects stay on track. Fix and find quality and security issues in your Ruby code sooner. Try it free at RubyRogues.com/CodeClimate.]</em></strong>
+
+<strong><em>[Does your application need to send emails? Did you know that 20% of all email doesn’t even get delivered to the inbox? SendGrid can help you get your message delivered every time. Go to RubyRogues.com/SendGrid, sign up for free and tell them thanks.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 143 of the Ruby Rogues Podcast. This week on our panel, we have Avdi Grimm.
+
+<strong>AVDI:  </strong>Hello.
+
+<strong>CHUCK:  </strong>James Edward Gray.
+
+<strong>JAMES:  </strong>Hello everyone.
+
+<strong>CHUCK:  </strong>I’m Charles Max Wood from DevChat.TV. And this week, we have two special guests. We have Hongli Lai.
+
+<strong>HONGLI:  </strong>Yes, thank you.
+
+<strong>CHUCK:  </strong>And Tinco Andringa.
+
+<strong>TINCO:  </strong>[Chuckles] Hi.
+
+<strong>CHUCK:  </strong>I tried very hard not to mess those names up.
+
+<strong>HONGLI: </strong> Sounds very good. Thank you for hosting us today.
+
+<strong>CHUCK:  </strong>Yeah. So, do you guys want to introduce yourselves really quickly?
+
+<strong>HONGLI:  </strong>So, I’m Hongli Lai. I’m one of the co-founders of Phusion. And at Phusion, we make Phusion Passenger, the application server for Ruby. Tinco is our first employee.
+
+<strong>TINCO:  </strong>I’ve been at Phusion since the beginning, sort of, quite a short while after the beginning. And at the moment, I’m leading the Union Station product, which is a metrics or a web application metrics app that you can use to keep your Ruby on Rails applications in check.
+
+<strong>JAMES:  </strong>Wow, cool.
+
+<strong>CHUCK:  </strong>Cool.
+
+<strong>HONGLI:  </strong>And I have a lot of experience with the open source world even before I started Phusion. And we met together at the university, so we’ve actually known each other for a long time now.
+
+<strong>CHUCK:  </strong>Oh, cool. Now, you guys are based down in the Netherlands, right?
+
+<strong>TINCO:  </strong>That is correct.
+
+<strong>JAMES:  </strong>So Passenger. Tell us about Passenger.
+
+<strong>HONGLI:  </strong>Passenger is, hmm, yeah. Where should I begin? I should start from the very beginning, explaining what Passenger is, like you are five?
+
+<strong>JAMES:  </strong>Sure, yeah absolutely. In fact, I would prefer if all of our guest from now on assume that I am five, because it’s [inaudible].
+
+[Laughter]
+
+<strong>CHUCK:  </strong>I act like I’m five.
+
+<strong>HONGLI:  </strong>Okay. So, suppose you have a Ruby app. You want to put it on the internet so that other people can use it. How do you do that? Well, there has to be some way for the browser to talk to your Ruby app. But your Ruby app or Rails app cannot do that by itself. And if you come from a PHP world, then it would be very natural to put your app on Apache and then Apache would take care of that connection between your browser and the app. It doesn’t work like that with Ruby because Apache does not support Ruby by default. Neither does Nginx. And that’s where Passenger comes from. Passenger fills in that role and ensures that a web server that is Apache or Nginx can understand what your Ruby app is saying and that it can establish a connection between the browser and your Ruby app so that it can actually do something. That is Passenger in a nutshell. And Passenger is unique compared to other Ruby app servers in that it’s more of an integrated whole. It’s more of a holistic solution. It takes care of more things, has less moving parts, and it just tries its best to be damn simple and really easy to use and to be as least a hassle as possible.
+
+<strong>TINCO:  </strong>Yeah. And because Passenger, like other Ruby application servers, implements the Rack standard, it can host and Ruby on Rails application without modification.
+
+<strong>HONGLI:  </strong>Yeah, or any, Sinatra or Padrino or whatever other Rack framework you use.
+
+<strong>CHUCK:  </strong>Does it support any other, I guess I don’t really know if there are other web frameworks that run on Rack. But does it support any other systems?
+
+<strong>HONGLI:  </strong>When it comes to Ruby, since five years ago everybody supports Rack. Before Rack was invented circa 2009 or something, you had Rails, you had Merb and then you had a bunch of other frameworks that all had their own interfaces. Then came Rack and everybody supported Rack after a year or so, so there is now nothing that does not support Rack in Ruby space.
+
+<strong>CHUCK:  </strong>Okay. Now one other thing, I’m going to go off on a little bit of a non-Ruby tangent for a minute. When I install it, it asks me if I want to install it for Node and a couple of others.
+
+<strong>HONGLI:  </strong>Yes.
+
+<strong>JAMES:  </strong>Python, Meteor, yeah I actually wasn’t aware of this.
+
+<strong>HONGLI:  </strong>Yes, that’s because this is new. Since half a year ago, we started supporting Node.js and Meteor as well. And actually, Python support has been there since 2008. It was introduced as a proof of concept. Passenger was designed from the beginning to be able to handle not just Ruby. And then we added Python for fun just to show that it’s possible. But we never really marketed that. And we never really documented that. And it’s just since recently that we started to really push Passenger as a polyglot web server.
+
+<strong>JAMES:  </strong>That’s interesting. So yeah, how does that work internally? Is it still basically the same engine with a little bit different interface on what it’s talking to or what?
+
+<strong>HONGLI:  </strong>I don’t understand what you mean, sorry.
+
+<strong>TINCO:  </strong>Well it’s sort of, there’s a loader that’s written in Ruby for the Ruby side of things, but the internals are all in C++.So it’s basically a small Ruby or Python or Node.js app. It loads the app. [Our part] loads the app and then it sets up the protocol to talk to Passenger itself, which is in C++.
+
+<strong>HONGLI:  </strong>Yeah. The Passenger core, say 90% of the code, it’s in C++. And that part is the same no matter what language you use. And the language-specific parts that establish the connection between the language agnostic core and the actual language, that’s just a very small part.
+
+<strong>JAMES:  </strong>Wow, that’s cool.
+
+<strong>CHUCK:  </strong>So when I’m talking to people about Passenger, I start hearing about things like workers and threads and all kinds of stuff. And I haven’t really taken the time to look at how Passenger runs my Rails app or Rack app internally. Can you talk a little bit about that, about workers and spawning and all that stuff?
+
+<strong>HONGLI:  </strong>Yeah, sure. I think I should start with what a process is because I notice that a lot of times, people get confused by the distinction between process and thread. So, if you go through the basics, let’s say you have a command line and you’ll type ls or something, that starts a program. And that program, that instance of a program is called a process. A process by definition and by how it is implemented on UNIX does not share memory with any other processes. And if one process crashes, then it does not affect any other process as well. So, processes can crash independently from each other. And if you look at the context of Rails, then when people say worker, then what they actually mean is a Rails process, or a Ruby process. And a process is just that, an instance of your Ruby program responsible for handling requests. And traditionally, Rails apps were only able to handle one concurrent request per process. Things have changed now. I will talk about that a little bit later. But it’s still true for many kinds of deployment setups, one concurrent request per process. So, what people do is they spawn multiple processes, multiple instances of the app, each one handling one request concurrently. And then they put all of that behind a load balancer, say Nginx. And then Nginx selects a process which is free to handle things so that you can make use of multicore and can have more concurrency and that sort of stuff. So, when people say that Ruby has a global interpreter lock, that’s got nothing to do with processes. And it does not mean that Ruby cannot use multicore. It can. You just have to use multiple processes. And what I just said about spawning multiple processes, putting it behind a load balancer, that’s actually what Passenger already does for you internally. So, if you use something like Unicorn, then you have to do all this manually and Passenger just takes care of all of this automatically without you having to do anything. And a thread runs inside a process. A process can have multiple threads. And threads can share memory with each other as long as they are running inside the same process. So, if you have a thread from process A, then it cannot share memory with a thread from process B because processes don’t share memory. And a thread is capable of providing extra concurrency. Nowadays, pretty much all Ruby frameworks have excellent support for multithreading. So, you can actually start an instance of your application that can handle more than one request at a time by having multiple threads. And how those threads are used, it depends on the application server. For example, a Passenger, the open source version, is a strictly multi-process application server, so it will start multiple processes, each one which are single-threaded, while Unicorn has the same design. It is also strictly multi-process, while Puma for example is multithreaded. And in Passenger Enterprise you also get the multithreading capabilities. There are benefits as well as disadvantages to using threads. So, if you’re interested, I can talk more about that. But it all boils down to multiprocessing is easier to do. Less things can go wrong. But it also uses more resources. While multithreaded it can potentially, not always, but potentially give you more performance. But it’s also hard to do, can give you more bugs, et cetera.
+
+<strong>CHUCK:  </strong>Yeah, we had quite a discussion about threads and processes with Jesse Storimer a while back, so I’ll just put a link to that in the show notes so that people can go and listen to that if they want a more in-depth discussion of all of that stuff.
+
+<strong>HONGLI:  </strong>Sure.
+
+<strong>JAMES:  </strong>You had a really good description of it though, in the various tradeoffs. So, like you said, it’s more expensive to spawn up more processes resource-wise. You may need more hardware quicker whereas threads are generally cheaper and stuff. So, you can get farther. How have recent advancements in Ruby, say Ruby 2.0 and Ruby 2.1 where garbage collection and such got significantly better, or the new copy-on-write friendly stuff, should make multi-processes maybe a little less expensive, right?
+
+<strong>HONGLI:  </strong>Out of all of those things, the only thing that makes multi-process less expensive is the copy-on-write garbage collector.
+
+<strong>JAMES:  </strong>Right.
+
+<strong>HONGLI:  </strong>Well actually, we did something like that back in 2008. Maybe some people still remember that with….
+
+<strong>JAMES:  </strong>Ruby Enterprise Edition.
+
+<strong>HONGLI:  </strong>Yeah, yeah, exactly. Our findings back then was that on average, you can save 33% memory if you spawn your application in a specific way. And that is by using the smart spawning method in Passenger, or the preload app setting in Unicorn. So, with Ruby 2.0 and 2.1 you can get those kinds of advantages too. But it’s still relatively heavyweight compared to threads. Threads are still a lot lighter.
+
+<strong>JAMES:  </strong>Sure. So, let me explain that a little, for people that don’t know. I’m sorry, I forgot the Passenger setting, but the preloading in Unicorn, and what was the Passenger setting?
+
+<strong>HONGLI:  </strong>Smart spawning. It’s on by default.
+
+<strong>JAMES:  </strong>Right. So, what that does, you said that processes don’t share memory, but actually that’s not entirely accurate.
+
+<strong>HONGLI:  </strong>Yeah, yeah.
+
+<strong>JAMES:  </strong>Right.
+
+<strong>HONGLI:  </strong>It’s not entirely accurate.
+
+<strong>JAMES:  </strong>There is some sharing that goes on as an operating system optimization thing.
+
+<strong>HONGLI:  </strong>Yes.
+
+<strong>JAMES:  </strong>So when you spawn a process, by default a good, efficient OS like Unix will just put a new entry in the process table but it won’t bother to copy everything over. And what it will do instead is as you begin to change bits of memory in the program, then it will copy that memory over and change it in the new process. But in the meantime, it will just reference back to the original process. This is called the copy-on-write. So, when you change it, it copies it over. And we’ve talked about how Ruby’s garbage collector has gotten better recently and storing object flags and stuff in a separate place so that it wouldn’t invalidate everything that loads before. So, what Hongli is talking about is these web servers have a feature where they will preload your app, they’ll load up Rails and everything, and get the app running. And that loading of all that, a lot of that doesn’t change. Like you probably don’t change your model classes and stuff like that, just the instances of the models right? And so by preloading all of that and then forking from there, you have all this shared memory that doesn’t end up getting copied over as long as you don’t modify that memory. So, it makes it slightly cheaper and that those processes are referring to the same chuck of memory. So, that’s why advancements like Ruby’s copy-on-write-friendly garbage collector was so important.
+
+<strong>HONGLI:  </strong>Yes, exactly.
+
+<strong>JAMES:  </strong>So Ruby Enterprise Edition, that was your attempt to do all of this before Ruby was really ready for that. You built your own custom version of Ruby to make this kind of thing friendlier.
+
+<strong>HONGLI:  </strong>Yes. It actually came out of a research project at the university, and also because back then we were extremely cash-strapped and we didn’t want to bother paying $15 extra per month for the extra memory. So, then we thought, “Hey, let’s optimize the Ruby interpreter.”
+
+<strong>CHUCK:  </strong>[Laughs] That is so the programmer way, right?
+
+<strong>HONGLI:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>Well, we don’t want to spend $15 per server, so we’re going to pay somebody salary to go in and change Ruby.
+
+<strong>HONGLI:  </strong>Well, we were students back then, so the government paid our salary.
+
+<strong>JAMES:  </strong>[Laughs] Nice.
+
+<strong>CHUCK:  </strong>Oh, there you go.
+
+<strong>HONGLI:  </strong>Yeah, but it was still not much. The $15 per month, it made the difference between whether you can eat well or not.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Oh, there you go, whether you get the high quality or low quality ramen noodles.
+
+[Laughter]
+
+<strong>HONGLI:  </strong>Exactly.
+
+<strong>JAMES:  </strong>We talked about this before the show, but I’m on the Ruby committers and I actually remember the discussions when Ruby Enterprise Edition came out. There was a lot of discussion about whether or not those changes would be adopted into Ruby core itself. And obviously something like them eventually made it in, in later versions. But they didn’t take the changes straight up. It’s a complicated issue actually. A lot of people didn’t understand why they didn’t just apply the changes directly into Ruby. But Ruby is meant to be a general purpose programming language. And the changes made in Ruby Enterprise Edition definitely made it more efficient, but for a certain kind of process, like a process that forks for example, and then slightly less in the more general case. So, that’s what the debate back then was about and why it took Ruby so long to gain these features and stuff. So, it’s an interesting thing. [Inaudible] changes, but much later I would say.
+
+<strong>HONGLI:  </strong>Yes.
+
+<strong>CHUCK:  </strong>So one thing that I’m a little curious about, we’ve talked about processes and the advantages of going with processes, especially for MRI. But we keep hearing discussions about threading in JRuby and Rubinius, which have different locking mechanisms that aren’t as, they’re not the global interpreter lock. So, it is a little bit easier to do threading on those. Does Passenger take advantage of any of that? Or is it still spawning separate processes for each worker or whatever?
+
+<strong>HONGLI:  </strong>Passenger, well it depends on which version of Passenger. The open source version of Passenger only supports one thread for process while the enterprise version supports multiple threads per process and you could have as many threads or as many processes as you want. You can totally configure that. So, if you run that on JRuby and Rubinius, then yes you can take full advantage.
+
+<strong>CHUCK:  </strong>Yeah, I was talking to a potential client and he mentioned that I wasn’t living right because I wasn’t using Passenger Enterprise. And I looked at him and I…
+
+[Laughter]
+
+<strong>CHUCK:  </strong>My Scooby sense lit up and I was like, “Enterprise?”
+
+[Laughter]
+
+<strong>JAMES:  </strong>That’s interesting. So, Enterprise takes the combination of both. You can configure processes and threads so you can basically have the best of both…
+
+<strong>HONGLI:  </strong>Yes, it’s hybrid.
+
+<strong>JAMES:  </strong>Oh, cool.
+
+<strong>TINCO:  </strong>Yeah, it’s actually a fun story that we, back in 2008 we didn’t take the Enterprise very seriously so we got Ruby Enterprise Edition as an ironical name for just something that saves a little bit of memory.
+
+<strong>JAMES:  </strong>And now you have an Enterprise version.
+
+<strong>TINCO:  </strong>[Chuckles] Yeah, now we have…
+
+<strong>HONGLI:  </strong>Yeah, now we actually have an enterprise offering.
+
+<strong>TINCO:  </strong>Yeah.
+
+<strong>JAMES:  </strong>That’s hilarious.
+
+<strong>CHUCK:  </strong>Do you want to talk about that for a minute? What are the advantages of the Enterprise Edition?
+
+<strong>HONGLI:  </strong>So, we already had the multithreading thing I discussed earlier. There are also more advanced resource control mechanisms. Oftentimes, there might be problems with the application due to bugs or maybe problems in the OS settings or…
+
+<strong>JAMES:  </strong>Whoa, whoa, whoa. You’re not talking about my applications [inaudible].
+
+<strong>HONGLI:  </strong>Oh no, yours are totally perfect.
+
+<strong>JAMES:  </strong>[Laughs]
+
+<strong>CHUCK:  </strong>He’s talking about mine, but I didn’t want to say anything.
+
+<strong>JAMES:  </strong>Oh, alright, just to be clear, okay.
+
+<strong>HONGLI:  </strong>We’re talking about ours. [Chuckles]
+
+<strong>JAMES:  </strong>Sorry, go ahead.
+
+<strong>HONGLI:  </strong>Okay. Sometimes, it happens that for example you have a memory leak somewhere or maybe you have an infinite loop somewhere because you made a typo. That sort of thing happens. Passenger has these safeguard mechanisms that can help keep your server stay alive and defend those things. You can put a timer on your request so that if it takes too long time, then your request is aborted by killing the process, and of course also automatically restart it. Or you can put a memory limit on things so that if something leaks then it doesn’t run out of hand. And then your process just gets [resetted] after that, those kinds of things. And you can have more fine-grained control over the number of processes you want so that you can put quotas on your server per app, in case you have multiple apps on your server.
+
+<strong>TINCO:  </strong>There’s also the rolling restarts.
+
+<strong>HONGLI:  </strong>Yes. Rolling restarts is, it allows you to have better continuity for your website. Like if you do multiple deployments a day or something, then by using rolling restarts, your app will not suffer any downtime or delays during a restart.
+
+<strong>CHUCK:  </strong>Can I clarify really quickly? So when you say rolling restarts, are you talking about the process of basically waiting for the worker to finish the request that it’s working on and then restarting and then pulling the next request that it needs to handle?
+
+<strong>HONGLI:  </strong>Yeah, something like that.
+
+<strong>JAMES:  </strong>I think they were talking more about how Unicorn will spawn a new master process and then the old ones die off, which I think is what you were referring to Chuck.
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>HONGLI:  </strong>Yeah.
+
+<strong>JAMES:  </strong>And then a new request will come in on the new master, right?
+
+<strong>HONGLI:  </strong>Yeah. When using rolling restarts, the processes will spawn in the background and only when that is done, it will be atomically replaced with an existing process. And that is very quick so that the user does not notice any of the restart time, which may take several seconds normally.
+
+<strong>CHUCK:  </strong>Very nice.
+
+<strong>JAMES:  </strong>That’s interesting.
+
+<strong>CHUCK:  </strong>So, I’m looking at the list here. What do you mean by mass deployment?
+
+<strong>HONGLI:  </strong>So mass deployment is, let’s say you have 15 or 50 websites [inaudible] directory. And you want to deploy them all. You want to put them all online. With mass deployment, you don’t have to write 50 virtual host entries in your web server configuration file. You just type passenger start and then passenger will automatically set up a web server for you that can server all those websites using the folder name as the virtual host name.
+
+<strong>JAMES:  </strong>Nice.
+
+<strong>CHUCK:  </strong>So, is it bypassing Apache doing that then?
+
+<strong>HONGLI:  </strong>It is using an Nginx core internally.
+
+<strong>CHUCK:  </strong>Okay.
+
+<strong>TINCO:  </strong>Yeah. So, it’s using the Nginx API to dynamically add the virtual host entries.
+
+<strong>CHUCK:  </strong>Do you have to have Nginx installed or is that included in Passenger Enterprise?
+
+<strong>HONGLI:  </strong>It is included.
+
+<strong>CHUCK:  </strong>Okay. Yeah, some of these others, too, I’m a little bit curious about. So, live IRB console?
+
+<strong>HONGLI:  </strong>Yes. So, sometimes, we have an issue with a process and we don’t really know what’s going on inside the process. We want to inspect its internal state. And then with Passenger Enterprise you can attach an IRB console to that process and then you can run whatever Ruby code inside the context of that process to inspect the state that you want.
+
+<strong>CHUCK:  </strong>Oh, wow! That’s handy.
+
+<strong>JAMES:  </strong>Yeah, that’s nice.
+
+<strong>HONGLI:  </strong>And also Ruby debug support of course.
+
+<strong>CHUCK:  </strong>Of course. [Chuckles]
+
+<strong>HONGLI:  </strong>Of course.
+
+<strong>JAMES:  </strong>You said earlier that you think of Passenger as a more holistic solution than something like Unicorn. Can you talk about the differences?
+
+<strong>HONGLI:  </strong>With Unicorn, you usually have to do, you have to take care of more things. There are more moving parts. Like with Unicorn, you have to set up multiple Unicorn processes and then you have to put those Unicorn processes behind an Nginx reverse proxy. So, those are two steps. And then the third step is to set up process monitoring to ensure Unicorn gets started when the system starts, gets restarted if it crashes, those kinds of things. And all of that is taken care of for you by Passenger. So, in Passenger, you just edit your virtual host entry inside your Nginx configuration file or Apache configuration file. You just say, “I have this virtual host and my app is here. Take care of all the other boring, mundane stuff for me,” and then it’s done.
+
+<strong>JAMES:  </strong>That’s interesting. So, you’re saying that Passenger does its own internal process monitoring and load balancing and stuff like that?
+
+<strong>HONGLI:  </strong>Yeah. All those kinds of stuff are internal. It takes care of that for you.
+
+<strong>CHUCK:  </strong>Is there any way to make it do that for things like background processes of daemons that I’ve set up?
+
+<strong>JAMES:  </strong>Because Passenger handles so many details like load balancing and managing the processes and stuff, does that make it more of a black box, more of a thing I can’t see inside of? Like with Unicorn, I can just list my processes and I can see there, “Oh here’s my master process. Here’s my worker processes.” If one of them has hung, I could just kill it right there, or whatever. How does Passenger make that kind of information available? Or does it?
+
+<strong>HONGLI:  </strong>Passenger does make that kind of information available. It’s just that you don’t have to care about it if you don’t want to. If you want to, you can. There is the passenger status command line tool as well as the Passenger memory stats command line tool. And with those tools, you can see exactly what’s going on and which processes you have. You can even manually kill things if you want. Passenger will restart stuff.
+
+<strong>JAMES:  </strong>Nice.
+
+<strong>CHUCK:  </strong>So, one thing that I’m looking at here on the enterprise page is that it says error-resistant deploys. Now is that just the resource management? Or…
+
+<strong>HONGLI:  </strong>No. Error-resistant deploy is a specific feature for the following scenario. Sometimes, you deploy a new version of your app, but that version has a bug in it that you didn’t really notice before. And as a result, your app will fail to start. And normally, if you deploy a bad version like that, it will result in total website downtime because then no new version of your app can be started. It fails already during spawning. And if you have the resistance option enabled and Passenger detects that, it will refuse to continue with the restart and it will actually set a flag on the application. Then it will remember the fact that it failed to start and will refuse to spawn any further processes and it will also refuse to shut down existing processes. In other words, it will try to keep the old version of your deploy running as long as possible so that the website can be available for as long as possible while you fix the problem.
+
+<strong>JAMES:  </strong>Interesting.
+
+<strong>CHUCK:  </strong>That’s really interesting.
+
+<strong>HONGLI:  </strong>So, those kinds of features are really designed to maximize uptime.
+
+<strong>JAMES:  </strong>Right.
+
+<strong>TINCO:  </strong>Yeah. So, the common theme of Passenger Enterprise is that we want to provide a service to people who are building apps and do not want to focus on any sys admin stuff or as little as possible.
+
+<strong>CHUCK:  </strong>Yeah, now that is one other thing that I’m a little curious about, and that is that with systems like PHP, you mentioned at the beginning of the show, the shared hosting and a lot of the other hosting options out there, there are just a ton of them. And with Rails, it doesn’t seem like there are quite as many because there’s some level of setup. Even with Passenger, you have to go and install it on the server because most of the time it doesn’t come with it. Do you think that Passenger or Passenger Enterprise may contribute to that becoming a little bit less of a hosting story and it just becomes a common thing to have Passenger installed as well as mod_php or whatever.
+
+<strong>HONGLI:  </strong>Passenger is actually already installed on many hosting platforms, for example DreamHost has been using it since almost day one. We explicitly designed for DreamHost. And there are many other hosts out there. I cannot remember them by name, but I know there are many others.
+
+<strong>JAMES:  </strong>In cases where it’s installed, you just have to activate that particular Apache or Nginx module, right?
+
+<strong>TINCO:  </strong>Yeah, yeah. If Passenger is installed, you can just add the line passenger enabled on to your Nginx configuration file and it will work.
+
+<strong>JAMES:  </strong>Cool, cool.
+
+<strong>TINCO:  </strong>So it’s yeah, just a single line to activate it when it’s installed. But yeah, PHP has a huge advantage because it’s integrated in Apache and Apache is installed on so many machines by default.
+
+<strong>JAMES:  </strong>Right.
+
+<strong>TINCO:  </strong>It’s always going to be one extra step. And…
+
+<strong>HONGLI: </strong> Yeah, we do try to make it as easy as possible, for example by providing the Debian packages. So that you can just apt-get install the passenger module and then done. Everything else, taken care for you automatically.
+
+<strong>CHUCK:  </strong>Eat your heart out, Red Hat.
+
+[Laughter]
+
+<strong>HONGLI:  </strong>We are also working on rpms, but it will take a while.
+
+<strong>CHUCK:  </strong>Nah, [inaudible]. I’m just kidding.
+
+<strong>JAMES:  </strong>Do you have any sense of if Passenger is run more on Apache or Nginx?
+
+<strong>TINCO:  </strong>We support both of them equally.
+
+<strong>HONGLI:  </strong>It started out with only Apache and then later we added Nginx and now we have excellent support for both.
+
+<strong>TINCO:  </strong>I think our customers are preferring Nginx lately.
+
+<strong>HONGLI:  </strong>Yeah. It seems like more and more users and customers are switching to Nginx, definitely gaining traction.
+
+<strong>TINCO:  </strong>Yeah.
+
+<strong>JAMES:  </strong>Interesting.
+
+<strong>CHUCK:  </strong>So, I want to talk a little bit about some of the features that have come into Passenger over the last several years. One feature that was really handy, and I think it came out in a response to RVM was that you can specify which Ruby interpreter you use per app.
+
+<strong>HONGLI:  </strong>Yes.
+
+<strong>CHUCK: </strong> Which was something that I really missed when you first came out, because it was a global setting for your entire server. Was there a lot of work that you had to do to make that work or was it more or less just a few changes to the way that it spawns the app?
+
+<strong>HONGLI:  </strong>Well, it was a lot of work but not because we had to support multiple Rubies. It’s like we started supporting multiple Rubies since Passenger 4 but Passenger 4 also included a lot of other internal changes. We started out with a lot of design decisions and assumptions and then after a few years, it turns out that a lot of those assumptions no longer hold. So, we had to change a lot of things. And [inaudible] was Passenger 4 has much better internals and much more features, much more language-agnostic and that’s also how multiple Ruby versions are implemented.
+
+<strong>TINCO:  </strong>Yeah, basically we moved to an evented architecture and the whole system became so modular that adding features like that became easier.
+
+<strong>CHUCK:  </strong>What features are you looking at adding now?
+
+<strong>HONGLI:  </strong>For now, we are only focusing on stability. On longer term, the daemon management stuff is definitely something that we want to take a look at, as well as introducing rpms.
+
+<strong>TINCO:  </strong>Yeah. We’re also busy trying to penetrate the Node.js market and the Meteor market. We have actually had some good response from the communities of Node.js and we’re working together with them to make it a cool experience for them.
+
+<strong>HONGLI:  </strong>So, these are our plans for now. We don’t have anything super long term yet.
+
+<strong>CHUCK:  </strong>You keep mentioning that you’re working on stability. Where are the stability issues with Passenger? Because I run it and I don’t have any problems with it, but generally I’m not running things that are all that complicated or get that much traffic.
+
+<strong>HONGLI:  </strong>The stability issues are just whatever issues people report on our bug tracker.
+
+<strong>TINCO:  </strong>Yeah. So, we have a lot of customers with completely different setups and different applications. And people come with the weirdest platforms so sometimes there are operating system bugs we have to work around. Sometimes, there are just weird applications that do stuff a bit different. And it’s mostly getting Passenger to work with every environment that our customers use.
+
+<strong>HONGLI:  </strong>Yeah, Passenger is written in C++ and it’s pretty low-level software. So, a lot of things at that level can go wrong. And although the main use case is tested pretty well, a lot of people have strange I/O patterns or strange traffic [inaudible] that can trigger edge cases where things don’t work so well. And we just to make sure all those stuff works.
+
+<strong>JAMES:  </strong>It’s really cool. I like the dedication you have to making it as robust as possible and just trying to make it so everybody has a solid experience on it. I think that really pays off when you’re using software. I know, when I’ve installed it and gone through, it’s just been so easy to get going with and put up. And even when I do have something wrong, which is pretty much always my fault, it pops up these great error pages and stuff telling me exactly what to do.
+
+<strong>CHUCK: </strong>Oh yeah, I love those error pages.
+
+<strong>HONGLI:  </strong>Good to hear.
+
+<strong>CHUCK:  </strong>I don’t love seeing them, but I love the information that’s on them when I get them. <strong>JAMES:  </strong>Yeah.
+
+[Laughter]
+
+<strong>JAMES:  </strong>It’s usually something like, “Hey dummy. You forgot to blah, blah, blah. Please go do this now.” [Chuckles]
+
+<strong>HONGLI:  </strong>Yeah, we did spend a lot of time writing those error pages. Like we regularly search Twitter and Stack Overflow for people complaining about Passenger. They don’t always complain to use directly, but they complain anywhere else. And we actively search them, analyze the use cases where things go wrong and we put code inside Passenger to take care of that and to warn them. That’s just a lot easier than trying to answer the same question for the 600<sup>th</sup> time.
+
+<strong>JAMES:  </strong>Yeah. Yeah, it is.
+
+<strong>CHUCK:  </strong>Well, one other thing that’s interesting about that, I think, is that since Passenger is open source, we’re pretty accustomed to our open source software being written by one or a handful of people who are out doing it in their spare time, not necessarily backed by a company that’s really dedicated to keeping it up and supporting it and making it better. And so going to Stack Overflow is a knee-jerk reaction I think in most of these cases anyway. But if people do want to report a bug or things, what’s the best way for them to get that information to you?
+
+<strong>TINCO:  </strong>Yeah. So, we have the mailing list that we browse daily. We’re always on there so you can get a response from Hongli or from me rather quickly. And our paying customers, they have a dedicated email address that we respond to even more quickly when we get the time. Yeah.
+
+<strong>HONGLI:  </strong>You can find it if you go to the Phusion Passenger website and then you click docs and support. Everything is there.
+
+<strong>TINCO:  </strong>Yeah, we’re five guys now I think, or six maybe.
+
+<strong>HONGLI:  </strong>Six.
+
+<strong>TINCO:  </strong>Six. [Laughs] So, we’re growing a lot lately. And it’s really cool to be supporting a product in this way. Because people are sometimes, they are surprised that we respond so quickly. Like if you post a bug on our list, it will be, within a day, there will be a serious developer making a fix or whatever. And we’re experiencing that there’s a demand for this. There’s been this feeling in the Ruby community, or maybe at Hacker News community or whatever, that the Ruby community is shrinking or that it’s becoming less and less vocal. But we’re actually experiencing that the Ruby community is still as large as it was. But it’s also becoming more serious. There are bigger businesses. In our customer base, we see that. When we launched back in 2008, most users were single server or few servers except for the startups that hit it big, usually a lot of small people that used Ruby on Rails. And then the past few years, the customers just got bigger. And now we’re serving multiple enterprise customers. It’s become a really serious business, the Ruby on Rails world.
+
+<strong>HONGLI:  </strong>Yes. It’s maturing a lot.
+
+<strong>JAMES:  </strong>Yeah, that’s a good point.
+
+<strong>CHUCK:  </strong>That’s good to hear.
+
+<strong>JAMES:  </strong>I just want to say, I think it’s pretty cool. It’s neat, what you’ve built. It’s fun to use and play with, and thanks for doing that. It’s awesome.
+
+<strong>TINCO:  </strong>No problem. Thanks for using. [Chuckles]
+
+<strong>HONGLI:  </strong>No problem, yes. Pleasure is all ours.
+
+<strong>CHUCK:  </strong>Alright. Well, let’s go ahead and wrap this up and get to the picks. James, do you want to start us with the picks?
+
+<strong>JAMES:  </strong>Sure. I’ve got three. Let’s see. First, I do this tactic all the time and I’ve never written about it or anything, and then I saw that Ernie Miller wrote it up on his blog. So, this is the ‘7 Lines Every Rakefile Should Have’ in it, for your gem. And it’s basically just how to launch an IRB console from your Rakefile. And I do that all the time and thought that was cool. So, good blog post there. Another blog post I enjoyed recently, we talked a little bit about Sinatra on this show today. This was a post about how to structure Sinatra applications, which I think people often bring up as one of the complaints about Sinatra. In Rails, you have the provided structure, and how are you supposed to structure in Sinatra? And this article has several ideas in it. But really, the main one is that you can build these little modules or apps and then just mount them under another app and that gives you your hierarchical structure much like Rails. So, it’s a cool read, if you spend any time building Sinatra applications. And then finally, I’ve been playing some new iOS games. Adam Keys told me about Lost Cities on the iOS and he and I have been playing a few rounds of that. That’s great fun. If you’ve never played the card game, it’s really good and simple but it’s kind of maddening with the choices and you end up watching the time and trying to squeeze out as many moves as you can in the time allowed. It’s pretty addictive. And this is one of those few games where I actually think it’s a little bit better on the iOS because in real life, if you want to know how many turns you have left you have to count the number of counts left on the deck. Whereas on the iOS it just tells you the number all the time. And it keeps a running score, whereas in the real game, you typically count it at the end. And so it’s easier to see how you’re doing as you play. So yeah, Lost Cities on the iOS. It’s pretty fun. Okay, those are my picks.
+
+<strong>CHUCK:  </strong>Alright. Well, I’ve got some picks. The first one is a game called Relic Runners. And it’s a lot of fun. Basically, it’s kind of a mix between Lost Cities and Settlers of Catan. [Chuckles] It is the best way I could describe it. It’s a lot of fun. But basically, you run from, or you have your game piece move from spot to spot and you’re building roads or trails. And anyway, what you’re trying to do is you move to the temples and they give you special abilities and then you eventually, when the temple is completely excavated then you have a relic that you’re trying to get. And so you have a way of moving that you can use to get those. Anyway, it’s a lot of fun. So, just take my word for it. It’s a kind of complicated game to explain on a podcast like this. But we really enjoyed it. And so I’ll put that up there. One other pick I have is, and I’ve picked them before on the show but they just made my day, or my week last week. It’s hover.com. Now hover.com is my domain registrar. I finally got to move everything off of GoDaddy.
+
+<strong>JAMES:  </strong>Woohoo!
+
+<strong>CHUCK:  </strong>GoDaddy just makes me crazy.
+
+<strong>JAMES: </strong> It’s a great day.
+
+<strong>CHUCK:  </strong>Anyway, what they have is they have a valet service that will move all your domains over for you. So, I just went and changed my GoDaddy password and gave it to them. They went in. They moved all my domains over. You as the listener probably didn’t even feel it move when RubyRogues.com moved over. And that’s because they set up all the name servers. They copied all of the records over and just made it happen. [Chuckles] And I couldn’t be happier. So, I’m off of GoDaddy. Everything’s on Hover. Their interface is way nicer to use. And I just can’t say enough good things about them. So, go check them out. Finally, I’ve been trying this Focus@Will. It’s FocusAtWill.com. And what it is, is they have a science page. Now, I’m not a neuroscientist so I don’t know if it’s junk or not. But it really does work for me in the sense that when I’m listening to the music, and they talk about the tempos and the type of music and stuff, it basically shuts off the voices in your head so that you can focus on what you’re doing. And it really does turn off all the back chatter in my head so that I don’t get distracted as easily. And then I just have that clear thought process around what I’m working on. So, you can go check that out at FocusAtWill.com. And those are my picks. Hongli, what are your picks?
+
+<strong>HONGLI:  </strong>My picks are two-fold. One is the Rails Composer. So, Rails Composer is a template for Rails. You can pass it to rails new and then it will allow you to pick a lot of components that are often used. For example, Device or OmniAuth, CanCan, Bootstrap, RSpec, all those kinds of things. And it just makes it a lot easier than for you to edit your gem files for the 600<sup>th</sup> time. So, this is great. And the other pick that I have is the UX Crash Course. And I think this is really important for pretty much everybody who ever works in the frontend. User experience is so important. It’s not just about design or about aesthetics. It’s about making sure that people experience your app in the right way. For example, in the Passenger installer, also a lot of user experience design has been put into it. And the kinds of principles that this website describes there, they’re not necessarily related to a visual user experience. So, this seems to be a good guide.
+
+<strong>TINCO:  </strong>So, I picked the third choice and it’s a keynote that I watched. I did some research. I’m refactoring the Union Station app at the moment. And there were a lot of models that were used in multiple applications that should be in one gem. And I did some research and I came across an old Uncle Bob Martin talk. It’s the keynote at Ruby Midwest 2011. So, it’s pretty old. But it’s very fun watching. If you haven’t seen it, you should look at it. He goes a bit abstract and a bit far, but the ideas are inspiring and it’s nice. And it’s Uncle Bob Martin. So, it’s fun.
+
+<strong>CHUCK:  </strong>Great. Well, thanks for coming, guys. We all really appreciate you coming and talking about Passenger with us.
+
+<strong>HONGLI:  </strong>Thank you for inviting us.
+
+<strong>TINCO:  </strong>Yeah, no problem. It was fun.
+
+<strong>HONGLI:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>Now before we get too far gone, I also want to remind everybody that we are reading ‘Ruby Under a Microscope’ and we will be talking to Pat Shaughnessy on February 27<sup>th</sup>.
+
+<strong>JAMES:  </strong>Woohoo!
+
+<strong>CHUCK:  </strong>So, that means that you’ll get the episode March 3<sup>rd</sup> or something.
+
+<strong>JAMES:  </strong>I was reading it literally before I came on this call. I read the chapter on hashes.
+
+<strong>CHUCK:  </strong>Awesome.
+
+[Chuckles]
+
+<strong>CHUCK:  </strong>So yeah. So, go check that out. And thanks for listening and we’ll catch you all next week.

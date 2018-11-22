@@ -1,0 +1,246 @@
+---
+layout: layouts/post.njk
+title: >
+      iPS 183 .NET and Visual Studio with David Carmona
+date: 2016-12-15 06:00:45
+episode_number: 183
+duration: 43:18
+audio_url: https://media.devchat.tv/iphreaks/iPS183_NET_and_Visual_Studio_with_David_Carmona.mp3
+tags: iphreaks
+---
+
+<span style="font-weight: 400;">00:16 Intro to David Carmona from Microsoft</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">.NET, Visual Studio</span></li>
+</ul>
+<span style="font-weight: 400;">1:46 Overview of .NET</span>
+
+<span style="font-weight: 400;">8:39 .NET Core open source vs. .NET</span>
+
+<span style="font-weight: 400;">14:09 C# language and .NET platform</span>
+
+<span style="font-weight: 400;">18:33 Async/Await</span>
+
+<span style="font-weight: 400;">25:26 Visual Studio and IntelliSense</span>
+
+<span style="font-weight: 400;">27:42 Live unit testing</span>
+
+<span style="font-weight: 400;">34:52 Getting started in .NET</span>
+
+<span style="font-weight: 400;">36:51 Visual Studio for Mac and .NET for iOS development</span>
+<h3><span style="font-weight: 400;">Picks</span></h3>
+<a href="http://www.kasiasdeli.com/"><span style="font-weight: 400;">Kasia’s Deli</span></a><span style="font-weight: 400;"> (Jaim)</span>
+
+<a href="https://en.wikipedia.org/wiki/C%C3%A1diz"><span style="font-weight: 400;">Cadiz, Spain</span></a><span style="font-weight: 400;"> (David)</span>
+
+<a href="http://donovanbrown.com/"><span style="font-weight: 400;">Donovan Brown demo on DevOps</span></a><span style="font-weight: 400;"> (David)</span>
+
+&nbsp;
+
+<span style="font-weight: 400;"><a href="https://hired.com/join/?utm_campaign=q2-16-podcast&amp;utm_content=2k&amp;utm_medium=iphreaks&amp;utm_source=podcast&amp;utm_term=cat-tech-ios">Hired.com</a></span>
+
+<h3>Transcript</h3>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Hey everybody and welcome to the iPhreaks show. Today in our panel we have Andrew Madsen.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Hello from New York City!</span>
+
+<span style="font-weight: 400;">Jaim:        </span> <span style="font-weight: 400;">I’m Jaim Zuber. I’m also in New York City. With us in New York City is David Carmona from Microsoft.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Hello, very good to be here.</span>
+
+<span style="font-weight: 400;">Jaim:        </span> <span style="font-weight: 400;">Can you tell us a little bit about yourself?</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">I work in Microsoft in the developer division. Most of the stuff that you saw yesterday at Connect, that came from this division in Microsoft. We do from the Visual Studio tools to things like .NET, anything related to development productivity and development tools and services, that’s part of this division. My particular role, I lead the team for tools for .NET, Visual Studio, Visual Studio Code for .NET. I also take care of languages, C#, VB, F Sharp, [00:05:30].</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">When we found out we’re going to be talking to you, the thing I sort of wanted to talk to you about is .NET as an ecosystem, Visual Studio as a tool and the languages but specifically from the perspective of an iOS developer which is what I am, and one of our audience is. I have done Objective-C for 10+ years and Swift since it came out and that’s really the world I live in but of course .NET is huge and I always hear good things about it from the people who do .NET development. That’s something that I wanted to kind of explore a little more.</span>
+
+<span style="font-weight: 400;">I must say as a long time Xcode user and somebody who actually likes Xcode, I’m also very qualified to complain about it, a lot of us are. We hear people who use Visual Studio, at least I hear people who use Visual Studio often kind of sing it praises. They say a lot of nice things about it. I’d like to explore that a little bit too.</span>
+
+<span style="font-weight: 400;">Why don’t you give us just a really brief interview if the whole .NET?</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">I can do that. I think that it’s super cool to be here. If you think two years, actually two years and one day ago, this conversation would be very difficult because most of our development tools were focused on Windows. That’s the reality. I think it’s one of the, of course, not only request that we have but needs in the market. Why do you guys focus so much on the Windows productivity [00:07:01] I am targeting other devices, I can still use some pieces of your platform and I would love, and as you say, we receive very good feedback on both .NET and Visual Studio as tools that developers really love and enjoy. They’re really delightful experiences for the developers and having extending that to a level that can be shared with any developer and that was the key theme for yesterday’s Connect was any developer, any app, any platform. That has been our focus for the last two years.</span>
+
+<span style="font-weight: 400;">Now, how we do that? I think it could be our mistake thinking that we need to take the same approach that we took in the past for any developer. The reality is that we want to provide choices. We don’t want to tell developers, “Hey, if you want to use our platform, throw everything you have. Move to the Microsoft platform.” That’s not our intention. .NET is a [00:07:59] technology. It’s a technology that I love and admire for many years. There are many good things about that but the first thing to say is that it’s not your only solution if you want to use Microsoft technology. We have things from mobile center that we announced yesterday, Visual Studio mobile center that you can use perfectly fine staying in iOS Native development even Xcode Native iOS development. It provides many services for you to build, test, deploy, and monitor your applications in iOS without any other connection with the Microsoft platform.</span>
+
+<span style="font-weight: 400;">That’s the first thing. It’s hurtful for me performing because I’m a .Net guy but I’m perfectly fine, totally fine. I would start there. That’s the first thing that I would say is start there. Many nice things happening in there. Same thing on the site. You’re developing [00:08:50] for your mobile applications there are high level abstraction services. In [00:08:56], like up service, they are beautiful to use. With just a few lines of code you can do magic in there. It’s not needed for you to use .NET. You can do it on any language.</span>
+
+<span style="font-weight: 400;">Now, that said, now we move into my territory, .NET territory. We recently did a random sampling where we ask our developers, “What do you like about .NET? What are the key things that you like about .NET?” We also ask what do you want next for .NET? It’s funny because the key things are super clear. .NET developers, buy a large portion, one of the things that they love is the languages. The languages that we have for .NET, they are very, very nice language. It’s like C#. C# is like the star for .NET although you can use VB and F Sharp. F Sharp, it’s almost our religion nowadays from [00:09:52] we have Sharp, we have like people who are super passionate about it, about the vast majority of .NET developers are using C# and what they tell us is that it’s a very nice compromise between being a supermodel language, anything. And we lead a lot of areas with C# like Async [00:10:12], very modern concepts that we implemented very early in the languages that developers love while at the same time, keeping it multipurpose. C# is great for doing [00:10:25] developments so you can create an [00:10:27] with a lot of data access, borrowing data access that you can automate with C#.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Line of business.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Line of business. Sorry, thank you for that. But at the same time, C# has the beauty that you can go ask deep as you want. You can directly interact with the platform. You have an access to the memory that you don’t have usually in these high level languages which is especially interesting for mobile applications. That’s where I connect with mobile applications. Why C# and .NET in general are mobile applications? With Xamarin, the main goal for Xamarin is how we could bring that beauty of the language and the platform to mobile applications. The key principles when we did that, and we’ve been working with Xamarin for a long time as partners, we both loved .NET. I was [00:11:18] I think after the acquisition they are just part of the entire VS solution.</span>
+
+<span style="font-weight: 400;">The way that I look at .NET on mobile applications is the duality between creating rich experiences for users but at the same time having great productivity for developers. It’s that duality of being able to do the two things at the same time. Depending on the approach that you take sometimes you are [00:11:48] one versus the other. You want to be cross-platform, high abstraction, you usually sacrifice a little bit, the user experience, if you are super Native taking every single bit of your device you’re targeting, you’re usually sacrificing the developer productivity.</span>
+
+<span style="font-weight: 400;">With Xamarin, because it’s based on .NET and you have  that access to the internals of the platform, you can do basically everything so there’s nothing for example in your case guys, with iOS, there’s nothing that you can’t do with Xcode, Objective-C and Swift that you cannot do with C#. You have access to all the APIs, access to everything.</span>
+
+<span style="font-weight: 400;">Jaim:        </span> <span style="font-weight: 400;">Definitely. I did .NET development before I did [00:12:29] developments. Going from C# to Objective-C was a massive step back as far as language and what you can do. I grew to love Objective-C. A lot of people have problems with it. Now that Swift is becoming the more mainstream app language, we have a lot of that power back that we’re missing on. The typing array, functions, math that we do. We have a lot of the functionality. We’re used to dealing in that way. The jump in Swift and C# is much less than Objective-C. One thing we do have [00:13:12].</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">I actually want to talk to you about that if we can but first I want to say, one thing that’s a little confusing for me coming from sort of outside the Microsoft ecosystem is there’s .NET which has been around since 2001. It has been a really good way to do Windows development and more recently Xamarin became sort of much more feasible for cross platform but there’s also this I think relatively new thing at Microsoft which is called .NET Core open source. What is the difference? What is .NET Core versus just plain .NET?</span>
+
+<span style="font-weight: 400;">David:              Let me tell you a little story first and then how everything fits together. The story is that two years and one day ago, we announced that .NET we wanted to be two things. One open source, so we open source .NET and the second one, full open source, MIT license, super flexible license with contribution from the committee, the full thing. The second thing is cross plat, working not only on Windows but also Linux and Mac. That brings interesting challenges also from the technical point of view. .NET by definition, it was a component of Windows. You get .NET, assistant .NET, you get in with Windows. We don’t release .NET, we release .NET as part of Windows which that model obviously doesn’t work if you want to do cross plat. Then the other thing is of course, we wanted this new .NET to be specially focused on the new types of applications. The new types of applications are mobile applications on client and microservices on the server. You are looking for a very lightweight highly customizable, flexible frameworks that you can mix and match for [00:15:13] that you want. That for us was a major exercise of refactoring the whole .Net to make sure that it was aligned with those goals. .NET Core is rethinking .NET to be aligned with those goals. .NET Core is the one that is cross plat. It is not monolithic. Something that you see with Java, traditional .NET is it comes as a big piece. There’s no way for you to decompose that. If you are targeting mobile devices or you’re targeting microservices, that’s an approach that is not going to work for you, you need the thing to be highly flexible so you can pick the pieces [00:15:48]. We need all that work with .NET Core, we also need that for being cross plat. It is all open source. That’s .NET Core.</span>
+
+<span style="font-weight: 400;">Now, the big question, and that’s the question that I think we have to explain a little bit more detail is how is it related to .NET? Is .NET Core something completely different or is it not, or it’s the same thing? We didn’t compromise any of those goals for .NET Core so we made some decisions that it was focused on making sure that .NET Core was the best for mobile and cloud applications. But at the same time, we want to make sure that a system on the developers and in general, if you want to create an application across all those workloads, you can share not only your skills but also the [00:16:36].</span>
+
+<span style="font-weight: 400;">There’s something from the skills point of view, we are sharing the same library so you lend the library once and you can use this in the library everywhere. You know how to do sockets for the random sample in one platform and you know how to do it in the other. We also wanted to leverage code. The key thing for that to happen is that we create this something called .NET standard. .NET standard is just a contract, it’s not a real thing. There’s not something that you don’t load, let’s load on the Standard, it’s just a contract that we have every single platform in .NET. The .NET framework implements that contract, Xamarin implements that contract, .NET Core, implements that contract.</span>
+
+<span style="font-weight: 400;">What that contract does is the surface area that is common across all of the platforms. That means that you have the same API across all the platforms so you don’t need to learn a different API. [00:17:30] platform will provide additional APIs. For example, you’re running iOS, you will have of course all the Native capabilities in the device that you don’t have if you are targeting .NET Core in the cloud. But you can use the same code across all of them if you address and you use those contracts.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">[00:17:47] streams, dates, like that.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Even much higher level than that. Serialization, XML, JSON, anything that makes sense to be shared across the platform. What we did was taking .NET framework a mono ride, the platform that is based for Xamarin, we saw what was overlap between them and that we made .NET Standard. That’s basically high level. There are more details in there.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">For iOS developers, this is sort of like a foundation. .NET Core is like a foundation.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Yeah. You can look at it from that.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Okay. That is actually very helpful. If I remember it right, Xamarin is built on Mono.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Yes.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">But maybe someday they can switch to .Net Core.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Not a key goal. If we see that there’s going to be a benefit, then we will do it. No question. But right now the relatives at Xamarin works great on Mono.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Xamarin on Mono. Mono has been open source for forever on Xamarin.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Yeah, that is true.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Jaim started to mention this and I kind of want to get back into it, I’d like to hear what makes C# a great language and what makes .NET numerically great platform?</span>
+
+<span style="font-weight: 400;">David:         </span> <span style="font-weight: 400;">We started before by talking about languages which is by far one of the key things that .NET developers are saying, “Hey, this is why I’m using .NET.” Let me go in= C# for a second but before that, the other key things that you see in .NET developers are saying why I’m using .NET, second one is tooling.</span>
+
+<span style="font-weight: 400;">The reality is that Visual Studio and .NET is a great combination. The productivity that you have by using the tools is amazing. Visual Studio is an IDE that does some magic. We had the compilers for .NET are called Roslyn. This is a project that we did. They took us like five years. It’s a big, big project. It was basically rethinking the compiler concept and we thought it in a way that makes it super easy to be [00:20:04]. We have these great refactorings, not only intelligent [00:20:10] but also things that are only possible because we have that super nice conjunction of Visual Studio and Roslyn, that’s the second thing.</span>
+
+<span style="font-weight: 400;">The third thing that they’re saying is the community, .NET six million developers. You will find anything that you want out there. It’s not only a great open source community it’s also a great component community, it’s also a great [00:20:37] overflow, it’s one of the most popular things in the [00:20:39] overflow. You go anywhere and there’s a .NET component, or a .NET version, or a .NET person that can help you use [00:20:47] for example. Those are the three key things that they say about .NET. Now, double clicking on the language site, from the high level I mentioned a little bit of our principles for C# in particular, is how we can keep it a multi-purpose language. We don’t want it to be a language that can be only used in one platform because that’s another strength of .NET, is that you can develop iOS application one day and Android application the next day, cloud backend, based on Docker on Linux the day after that all using the same language. That’s something that we don’t want to lose.</span>
+
+<span style="font-weight: 400;">Andrew:      </span> <span style="font-weight: 400;">Hearing Docker and Linux is blowing me.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">.Net Core, we can go in that later but for us, .NET Core and Docker are like another magical combination. If we thought .NET Core from the [00:21:41] to make sure that it was great on containers. It is lightweight. It is super high performance for that scenario. We just published that [00:21:53] are amazing. A year ago, we are multiplying by 50, 40 by performance. It’s crazy. With that kind of principle for C# at the same time C# for us is being always super modern language. We want C# to be always in the edge of modern languages. We want C# to be leading in a lot of areas. [00:22:20] there are a lot of [00:22:25] that came first to C# and we strongly believe that that’s still the direction that we want to have for the language. We don’t want to be a language that is lagging behind other languages even if it’s a multi-purpose, used by six million people. We want .NET to be leading in the [00:22:42]. We are very transparent with the .NET community on that because if you are looking for something like [00:22:51] this is not the thing, this is going to change. Meaning, that this is always evolving and we are even evolving faster and faster every time to always keep C# a nice language.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">I think I hear yesterday from the stage that C# 7 is—and it seems to me that Microsoft ever since the very beginning of C#, are very aggressive about pushing forwards and they have not—well, here’s C# and it’s never going to change. They’re very aggressive about pushing the language forward, adding features that really help developers. One of the ones I hear about a lot is Async await, everybody says that.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">That’s [00:23:31]</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Can you tell us what does is Async await?</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Think of this pattern, [00:23:37] pattern on when you are—you have two approaches for to in general, like long time operations, of course you can wait for them that nobody does that anymore especially when you have [00:23:52] that horrible one but then, you have two ways of doing that with [00:23:58]. I’m going to focus on the UI but the same thing also applies to the server. You can either do multi-threading. You launch operations on a different thread which of course has a lot of issues or you’ll implement a pattern [00:24:11] are implementing a pattern which are called back pattern.</span>
+
+<span style="font-weight: 400;">If you have the concept in C# was in the past, we’re still [00:24:18] but because of a delegate you can call a function when that function finishes, it will call you to a delegate or whatever the term is, every language is different. That turns easily into, I don’t want to say spaghetti [00:24:33] but let’s say challenging call because you have, when you are doing that callback and you have to [00:24:41] when the callback is calling you back and what happens is when there’s an error, you can [00:24:48] your [00:24:49] is not trained for—it’s much easier to develop on a sequential way where you’re just calling methods so now it calls this method then it has to call me back to this other method so I have to remember, I have to maintain the states.</span>
+
+<span style="font-weight: 400;">That is a super common pattern. The change that we did with async is keeping the beauty of that. In the client side, we don’t want to blog the UI for example but how can we make it look and behave like sequential call. The [00:25:23] of that is you have the concept of async methods, when you have a [00:25:28] for example, you see a method and it’s appending in async in front of that method, you can call that method by just saying await. With that, when you call that method, under the hood, what the  is doing is the old fashion way. Meaning, it will call that method and when it’s finished, it will call you back. But you don’t see that. Your call is sequential. You say, “I’ll wait,” and then the method, and then you continue writing. The next line, you do whatever you want to do on the [00:26:01] under the hood, that is still doing an asynchronous call but is transparent for you. You don’t see it.</span>
+
+<span style="font-weight: 400;">Jaim:        </span> <span style="font-weight: 400;">[00:26:10] the textbook example that is your app, your press a button it goes to a web service. [00:26:15] and you do the [00:26:17] . We don’t write this code over and over again. The bug problem is [00:26:26]</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">And then think of the complexity of having multiple methods, multiple level of nesting in there. That thing can get super complicated. With async await, it’s beautiful. You see that code, it’s super easy to follow, very, very nice to the eye.</span>
+
+<span style="font-weight: 400;">Jaim:        </span> <span style="font-weight: 400;">Cool. How long has that been in C#?</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">That was awhile ago. I don’t remember exactly. I think it was 2010, VS 2010. But I will need to check that.</span>
+
+<span style="font-weight: 400;">Jaim:        </span> <span style="font-weight: 400;">A few years. What about [00:27:01]? You mentioned [00:27:02].</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Oh maybe, async was 2013 and [00:27:06] was 2010. I need to check that because [00:27:09] was before async. [00:27:11] is super cool if you are doing things like data centric applications. When you are dealing with a database or something like that. [00:27:21] is—the concept behind [00:27:22] is how you can bring to the language itself, concepts that are applying to the data. Right now, you have a clear separation between your language and access to the data with things like [00:27:39]. Bringing those two together, you can have some interesting stuff happening.</span>
+
+<span style="font-weight: 400;">We added some new keywords to the language like from select, thing like those but don’t think of that as equal. It has nothing to do with sequence. It is at a structural level that you can use on an object model. You can directly for example, go to your object mobile and query that object model directly using the language. You have the concept of that query directly in the language. The results will come in an object manner. They will be automatically in your brain, there still objects. It’s like magic just happened. It’s like ORM, object-relational mapping but included in the language.</span>
+
+<span style="font-weight: 400;">The cool thing about that is that we have the mapping to SQL for example to any database. If you are using any database, you can use that but it could be objects in memory. You don’t have to use database. You have an array, you can query, “Hey, give me the items in that array where this property is greater than five.” Whatever. [00:28:58] from the language, you can write that sentence, it is super integrated, fully [00:29:02] so while you’re writing that, you have full [00:29:04] on the properties. Very, very nice way of doing that. Under the hood, depending on the provider, that will turn into a sequel sentence that will execute on a database or it will be just an enumeration happening in memory.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Very cool. I didn’t know that. Putting that in the language level is pretty interesting.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Yeah.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">You just brought up IntelliSense and this something I hear in Visual Studio. People say they really want it. I’d love to get into some of the things that make Visual Studio really good. What do people say they love about Visual Studio? What do you love about it?</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">The first thing is that I can open Visual Studio and I can do anything that I want. Sometimes it could be overwhelming. When you do find your [00:30:03] you see so many things in there that is mind-blowing that you can create in the same IDE and iOS application or microservice running on Docker or Windows application. It’s very interesting. I have everything that I need in one IDE, that’s something interesting. The other thing is that that doesn’t compromise the [00:30:24] any of those applications. You develop a muscle with Visual Studio, we use the same Visual language for all of those applications. So once you develop that muscle, you have a lot of baggage that you can apply to in any of your projects.</span>
+
+<span style="font-weight: 400;">For me, moving from being a Windows developer to be a Docker developer took me one day. It’s the same muscle that I already have that I can apply now to Docker. That consistency in VS is something that developers like a lot. When you go into the specific features, I think that anything you experience is just amazing writing in VS. There are so many things in there that is difficult to say but you mentioned IntelliSense, there are many others. The whole refactoring [00:31:08] everything. That combination that I mentioned before between VS and Roslyn, amazing. [00:31:15] things that you can do there. I know it will make you super proud of it. From small things like refactoring, what you type, to things like code analysis, while you are typing [00:31:26] announce yesterday the life unit testing, creating unique tests with Visual Studio. Writing unique tests could be easily one of the most worrying things in the world because it [00:31:37] for other developer that is not producing real value. With things like life unit testing, it makes it super easy.</span>
+
+<span style="font-weight: 400;">We have another thing called IntelliTest included in Visual Studio. That is basically creating unique test for you and you just need to customize it there.</span>
+
+<span style="font-weight: 400;">Jaim:        </span> <span style="font-weight: 400;">Let’s talk a little bit about the live unit testing because that’s the thing that you’ve been able to do with third party things from Visual Studio way back when. For X code, it just doesn’t really happen. If there’s some third party things that are getting close to it, you can actually write a test without compiling or running the app, and get feedback with a test [00:32:12]. You’re in your code, writing code, watching your test start to pass.</span>
+
+<span style="font-weight: 400;">When you break something, you know right away before you compile or run the app. That’s usually important that really helps to the testing workflow. If you just write about the test, start writing code and seeing your test start to pass. It really helps you stay in the zone. That’s what I love to see. All these things that Visual Studio does are things that are possible with Swift and Xcode, is to have an influence coming from a statically typed language, a lot of the same type of features and things but it just hasn’t been built yet.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">For those that are listening [00:32:54] the KeyNote, the demo that they showed during the KeyNote yesterday with live unit testing, they have some C# code open in Visual Studio and on each line actually there was a little symbol over the left, a green check mark for pass and red x for failed, I think there was a gray line for not covered but this was lined by line in the code telling you which code was covered by the test, which lines of code were part of failing test, and which lines of code were [00:33:25] or all the tests passed. They showed how fixing the problem that was causing some tests to fail did not require a build or run unit test, it just—the IDE figured out that a change have been made and the test were now passing. It was pretty impressive. It definitely seemed nicer than what we have in Xcode.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Something that we tried to do in VS, we call it the Shift Left. We’re living in a world [00:33:54] and you will see that later to [00:33:55] mobile center. We move more and more to a DevOps world where you are in CI [00:34:03], you’re embracing CI [00:34:03], everything is happening in a continuous loop. Sometimes, what is channelling for the developer is because now they don’t have to worry only about the call, they are responsive for the entire [00:34:16] from the moment [00:34:17] to the moment that is in CI and [00:34:20] you have continuous deployment.</span>
+
+<span style="font-weight: 400;">That is challenging you from what you mentioned before, staying in the zone, how come we made the developers stay in the zone. And the zone for the developers is the editor, it’s writing call. We always, every time that VS requires getting away from the code is for us, it’s an area of improvement. We try to give everything that you need in that experience. Unit testing, it’s like the first [00:34:48] unit testing, it happens right after you called or very close to calling, almost you would say that in the same place.</span>
+
+<span style="font-weight: 400;">By moving it to the left meaning, while you are typing, you get real feedback, real virtual feedback of unit testing called [00:35:07] that’s moving things to the left while you are calling. We’re applying the same concept to multiple things. When you move more to the right, you have things like code analysis. [00:35:17] naming convention rules or styling rules or even code quality like security things or even the performance, things like that.</span>
+
+<span style="font-weight: 400;">Now, in VS, we’ve run also in real time. When you are typing, we can run those analyzers for you. You will have your feedback while you type. If you move even more to the right, you have things like code lens which is like a hot device on top of your code, we overlay it on your code important information for you to know. That could be things like— [00:35:59] that method to things like  [00:36:04] was working on that method before.</span>
+
+<span style="font-weight: 400;">If you are more to the right [00:36:08] you can know, “Hey, there’s our developer. He’s working on this method. Yesterday I can connect with him directly from here.” Thing like those. Things like performance tips. All of that, all of that information even that is coming more to the right like even continuous integration, and deployment production, all in one place for providing tips for the developer while they are coding. That’s definitely an area where we’re investing a lot.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">It’s interesting to hear you talk about this. For the developers, a lot of the developers, they have to use their [00:36:46]. Anything that makes the IDE a better app, it makes you more productive. I have very little experience with Visual Studio but I do remember working on a little Windows app and writing some sample to deal with the UI and getting code completion in the [00:37:08] and thinking that’s—</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Oh my god, that was a long time ago.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">It wasn’t actually a long time ago. It’s just that I didn’t [00:37:16]. Another thing that wasn’t actually showed in the KeyNote I think was being able to really easily deploy your code from Visual Studio to the cloud. That seemed really cool to me. I mean, you started in projects, write some code, went to cloud, it’s running in the cloud, it seemed quite an easy process. It seems like that’s something Microsoft is pretty focused on.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">It’s like the opposite of the shift left, is the shift right. How we can make it easier for developer to also move to the next step of the stage. Deploying is one of the easy ones but there are more that we are removing [00:38:03]. That’s the way that we look at it, continuous integration. How can we make it easier for the developer to set up a continuous integration pipeline directly from the IDE. It’s not an operation that you’re going to do a lot of times but by removing those barriers, we think it will help developers to embrace modern DevOps practices. That’s definitely another area that we want to focus on.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">A lot of iOS developers are iOS developers and they don’t do service-side development but almost every iOS app has some service-side component. Whether it’s being built by another team at your company or whatever, or you’re using a backend service [00:38:51]. Actually Asher, I think, provides this kind of care, you don’t write any service—</span>
+
+<span style="font-weight: 400;">David:         </span> <span style="font-weight: 400;">Yeah, true.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">I have often wondered what would it take for me to do a little bit of service-side development in .NET coming from a company, I recently left, or was at a company for a long time where all of our backend stuff was written in .NET. I know that it’s powerful and people like it. I’m kind of curious now, how would I get started? What does it take to start writing a little bit of .NET?</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">I think the first thing to mention is to mention is choice. You mentioned, “Maybe I don’t need it.” I couldn’t say that, “Hey, yes because it’s there, you don’t need to use it.” We do have a spot of Asher, higher level. Without service we have the concept of mobile apps. We have [00:39:44] you can use [00:39:46] and you can manage tables and things like those, identity and things like those. Even part of mobile centers so you don’t need to write any code. But once you want to write that code, with .NET core, it’s actually super simple now. If you go to</span><a href="http://www.dot.net/"> <span style="font-weight: 400;">www.dot.net</span></a><span style="font-weight: 400;"> that’s our URL, it’s difficult to pronounce but once you see it in paper, it’s super easy</span><a href="http://www.dot.net/"> <span style="font-weight: 400;">www.dot.net</span></a><span style="font-weight: 400;">. You have a place in there to get started. One of the cool things about dot.net core is that you can do several applications with two lines of code. It’s super simple. You can easily do [00:40:26] application with two lines of code. You can start from there. Then, on top of .NET Core, we have something called ASP.NET. ASP.NET is a web framework. You don’t want to do every single request reply with that kind of a console application. You want abstraction on top of that that allows you to create views, to create controllers, to create routing, those kinds of things. Once we come comfortable with the typical Hello World and replying to basic request, you can embrace ASP.NET Core and you can create easily [00:41:08]. [00:41:08] are basically a [00:41:11] base with mark up on them that you can easily combine with your data and start creating more powerful applications based on data, based on data identity or whatever you need there.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Cool. I think we’re going to talk a little about Visual Studio for Mac which is one other thing yesterday. It seems like one of the big things in Visual Studio for Mac is really brand new, it’s the ability to write .NET service-side ASP.NET.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Yeah. [00:41:38]</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">That’s nice for those of us who don’t actually own a Windows machine.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Yeah. Everything comes together. For that to happen, we need first, having .NET on a Mac, that happened now it was the tooling. We already had—VS code is another alternative for that case that we had for a while. It’s very focused on the code experience. It’s a really nice code editor. It is better for creating service-side applications. People use it a lot for service-side applications. If you are more of a mobile developer so you live in an IDE, and then you will prefer to start something like VS for Mac where you have all the powerful designers, simulators, so you live in the mobile side but then you also have a service-side development.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Very cool. I’m wondering, I think we’re getting [00:42:41] I’m wondering if there’s anything you think that we have not talked about that we should talk about.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Oh wow. We talk about a lot of things. No, I think this summary that I would say is this conversation two years ago would have been very different and we didn’t have so many options at that time. I think if you are a Mac developer on an iOS developer is the time for you to take a look to the solution that Microsoft provides. My key recommendation there is don’t look at it as all or nothing. I could expect people and I see a lot of people embracing .NET like, “Oh my god, I love .NET. I’m going to do everything in .NET,” and so on but that doesn’t have to be the case. There’s a lot of different solutions depending on the technology that you use. We represented that as a slot machine yesterday. We have many combinations that you can use and there’s a combination that is super low friction that you can start using right away which is moving your DevOps to assure for mobile applications, super powerful, super easy, full support for iOS applications in there. It’s actually a very nice first step.</span>
+
+<span style="font-weight: 400;">Then, if you’re happy, you can continue evaluating all other options in Microsoft. If you’re [00:44:00] .NET, I will be super happy.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">This is definitely a change at Microsoft. It’s been really interesting to see. Microsoft is not trying to convince everyone to go buy a Windows machine, be a .NET developer, and write Windows app. They want to help you be a good developer no matter what from here on. I thought, there was a demo during KeyNote that was really interesting. It was pretty much the first demo that they did Visual Studio code on a Mac with a Note app [00:44:29] to Docker. There was no Windows.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">It was definitely on purpose. It was our clear message [00:44:38]. It’s not that we’re playing catch up on those areas, you’re a not developer on a Mac, oh we have some cool stuff. VS code is just amazing for Note development and the integration with Docker is just amazing. Then hosting in Asher [00:44:54]. There’s a lot of cool stuff, if you’re not a developer, deploying to Linux on Mac, definitely a good demo to watch. It’s good.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Alright David, if there’s nothing else, do you have a pick for us?</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">A pick?</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Or more than one pick. I actually forgot, Jaim has a pick too.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">You go first so I can learn how to pick things.</span>
+
+<span style="font-weight: 400;">Jaim:        </span> <span style="font-weight: 400;">I’ve got one pick and Andrew will probably [00:45:22] to this. We all went with Chuck and AJ from JavaScript Jabber, we went to Kasia’s Deli. [00:45:29] sandwich and it was—. Kasia’s is kind of a pretty big famous place and tourist place but I thoroughly enjoyed the food there. It was very fun. Worth touring if you’re in New York. Definitely give [00:45:29] You want to go there. This is on the way off the subway, we were heading anyway so we went to get to it. It was fantastic. If you’re in New York, it’s [00:45:53] places. Broadway, [00:45:55] 2</span><span style="font-weight: 400;">nd</span><span style="font-weight: 400;"> Avenue Deli that the locals are telling me to go to but Katz’s is most amazing. Definitely check it out.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Let me try. One personal one that I would recommend anybody going to Europe, I’m from Spain originally and I from a beautiful in Spain that not a lot of people know. It’s not a tourist place. If you go to Spain, you will probably go to Barcelona, you will probably go to Madrid, add to that a city called Cadiz. I’m from there, that’s my hometown. It’s beautiful because it’s not crowded like the rest of Spain sometimes and you have beautiful beaches, it’s a beautiful place to spend especially summer. That would be my one pick. The second one I have to say this because I love that yesterday. You have to watch Donovan Brown’s demo yesterday on DevOps. When he’s talking about—I know that he’s on the server-side but I enjoyed that demo so much yesterday. You go to [00:46:52] it’s happening probably like half of the KeyNote, Donovan Brown is his name and he’s so funny. He’s talking about our experience as developers when we have [00:47:03] getting into the office and asking for something, he was so hilarious that I would recommend you to watch.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">We had Donovan on the show a month or two ago.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">That’s great. I love Donovan.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">We talked about DevOps. Yeah, he’s a great speaker.</span>
+
+<span style="font-weight: 400;">David:            Yeah, I love him.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">My brother is studying abroad in Oviedo, Spain.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Nice.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">That was 10 years ago and he just never stops talking about Spain. But I’ve never been there, someday.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Well, let me know. I can recommend some restaurants.</span>
+
+<span style="font-weight: 400;">Jaim:        </span> <span style="font-weight: 400;">Fantastic. Thanks a lot David for coming on the show.</span>
+
+<span style="font-weight: 400;">David:</span> <span style="font-weight: 400;">Thank you. It’s my pleasure.</span>
+
+<span style="font-weight: 400;">Andrew:  </span> <span style="font-weight: 400;">Alright. Thanks David.</span>
+
+<span style="font-weight: 400;">David:     </span> <span style="font-weight: 400;">Thank you very much.</span>

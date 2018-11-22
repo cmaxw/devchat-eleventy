@@ -1,0 +1,222 @@
+---
+layout: layouts/post.njk
+title: >
+      177 iPS Package.swift with Marcin Krzyzanowski
+date: 2016-11-03 06:00:51
+episode_number: 177
+duration: 37:30
+audio_url: https://media.devchat.tv/iphreaks/iPS177_Package-swift_with_Marcin_Krzyzanowski.mp3
+tags: iphreaks
+---
+
+<span style="font-weight: 400;">1:00: Introduction</span>
+
+<span style="font-weight: 400;">2:00: </span><a href="https://swift.org/package-manager/"><span style="font-weight: 400;">Swift Package Manager</span></a>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Carthage</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Sources folder</span></li>
+</ul>
+<span style="font-weight: 400;">3:30: GitHub Repository</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Sub modules</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">CocoaPods</span></li>
+</ul>
+<span style="font-weight: 400;">13:40: X-code</span>
+
+<span style="font-weight: 400;">19:00: Frameworks</span>
+
+<span style="font-weight: 400;">22:30: Providers</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Brew</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Apt</span></li>
+</ul>
+<span style="font-weight: 400;">24:50: Future road map</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Apple</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Giro box</span></li>
+</ul>
+<span style="font-weight: 400;">33:10: Contacting Marcin</span>
+<ul>
+ 	<li style="font-weight: 400;"><a href="https://twitter.com/krzyzanowskim?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><span style="font-weight: 400;">Twitter</span></a></li>
+ 	<li style="font-weight: 400;"><a href="http://blog.krzyzanowskim.com/"><span style="font-weight: 400;">Blog</span></a></li>
+ 	<li style="font-weight: 400;"><a href="https://github.com/krzyzanowskim"><span style="font-weight: 400;">GitHub</span></a></li>
+</ul>
+<span style="font-weight: 400;">Picks:</span>
+
+<a href="http://www.imdb.com/title/tt2140479/"><span style="font-weight: 400;">The Accountant</span></a><span style="font-weight: 400;"> (Rod)</span>
+
+<a href="https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1"><span style="font-weight: 400;">12 Week Year</span></a><span style="font-weight: 400;"> (Charles)</span>
+
+<span style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=1hPSFnix_jk">Din Group</a> (Marcin)</span>
+
+<span style="font-weight: 400;"><a href="http://dduan.net/2016/10/10/distribution-tests/">Project Distribution Test</a> (Marcin)</span>
+
+<a href="http://www.hired.com/iphreaks"><span style="font-weight: 400;">Hired.com</span></a>
+
+<h3>Transcript</h3>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Hey everybody and welcome to Episode 179 of The iPhreaks Show. This week on our panel we have Rod Schmidt. </span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">Hello from Salt Lake.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">I’m Charles Max Wood from Devchat.tv. This week we have a special guest and that’s Marcin Krzyzanowski.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Hi guys.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Do you want to give us an introduction real quick?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yes. I’m from Poland, Warsaw. iOS developer now. In the past, I was enterprise solutions developer, then I switched to iOS for the full time, it’s a couple of years already. You may heard some of my project up in sales projects like Crypto Swift and Objective PGP which is the OpenPGP implementation of Objective-C. This is mostly about me.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Nice. You mentioned when we were getting ready that we had talked about the Swift Package Manager a couple of times. I think we’ve talked about it in passing, I don’t think we’ve done a show directly about it so I think this will be interesting to just dig into it, what it is and how it works.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yeah. I must admit, I’m not a specialist in the term of Swift Package Manager. I have to use that, I read the source code, and I’m just trying to understand this tool and the direction, where it goes to, and what is going on in terms of Swift Package Manager.  </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Yup. One thing that I noticed because when I think of a package manager I’m usually thinking about something like Apt, or if you’re in Ruby it’s Ruby Gems. Usually, there’s some kind of central repository of libraries that you can pull in to actually get the packages. It seems like the Package.swift actually works a little bit different from that.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yeah, it is. Look at the Carthage, this Carthage iOS dependency manager. The Carthage don’t have the main repository as well. It works similar to Swift Package Manager that you point to GitHub repository and use that coach. This is how the Swift Package Manager works, you point to the GitHub repository and that’s all. If the repository is prepared to work with Swift Package Manager, you can use that. If not, you don’t. </span>
+
+<span style="font-weight: 400;">There is a requirement, there is a little amount of work that has to be done by the maintainer of the repository to prepare mostly the structure of the project to work with Swift Package Manager. It’s not just adding the Manifest file like it is with the CocoaPods. You have to prepare the structure of the folders of the files to work specifically with Swift Package Manager while this how they think it should be.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">How in particular is that? I’ve been looking at the documentation and it looks like it’s sources and Package.swift, is that it?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yeah, it still. Actually in the early days I opened the bug, the future request that, “Why do you force me to have this source folder and task folder and so on? Why I can’t use whatever I want.” It’s still open. Maybe it will be implemented that you will be able to organize your folder structures in your own way and just pointing to here, you will find sources here, you will find test.</span>
+
+<span style="font-weight: 400;">Today, the main thing is sources. You create sources folder, if that’s a library you just put the Swift files there. If that’s executable, you put the main.swift file that indicate this executable. Next is sources, if you want to have a test, you create tests folder and put all the tests inside.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Gotcha. This just sets it up so that another project with Package.swift on that system will then pull in the right thing and know where to find the files.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yeah. Basically if you point to the repository, the Swift Package Manager is looking for Package.swift Manifest file. In CocoaPods, it’s something that outspect and Carthage is cat-file I believe. </span>
+
+<span style="font-weight: 400;">In here, we have Package.swift and it is regular Swift file. Actually, when I read the code of the Swift Package Manager, it is all like this. This file is compiled and output the JSON, and the JSON is used by the Swift Package Manager again. Based on that actions, it’s performed actions, build, link, clean, and whatever the actions are there.</span>
+
+<span style="font-weight: 400;">This Manifest file is a Swift regular file. It’s not quite new because if we look at the CocoaPods, in CocoaPods it’s just Ruby file. You can’t do whatever you want with Ruby, the same here. That’s how it works. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Can you reference or pull in things that are on CocoaPods or available through Carthage, or do you have to have a Git url or a local folder or something with the library in it?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">You need a Git repository, it’s one of the limitations. CocoaPods have the feature I really like, like a development pods, it’s called something like this where you just point the local path and the CocoaPods start using your local files and you can edit them and use it in your project. Here, it’s the project but you have to have Git repository even if it’s locally, you have to have Git repository that you point to. That’s one limitation. </span>
+
+<span style="font-weight: 400;">The other limitation is you can’t specify the branch. I’m not sure what is the future of this particle limitation, if it will be changed or not. As for today, you can only specify either the master branch or the tags, and that’s all. It maybe a little bit hard to follow if you have a lot branches like a develop branch, and so future branch you want to use but you can’t.</span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">If your package has dependencies itself, you specify that in the Package.swift file as well?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yes. </span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">As another GitHub URL?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yes. Swift Package Manager is for dependency management. You can specify dependency for your library or your application just like in any other dependency managers. You specify the Git repository and version. This is fetched locally build and inside it build the Swift module, and you can just input this module in the application.</span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">Right. Each package becomes a module.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yeah. You may have a lot of modules. I said there’s a source folder you create. Another thing you have to know is that if you create two folders inside the sources, like module one and module two, there will be two modules that you can use. </span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">Can you make sub modules?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Actually I’m not sure if you can accept module but you can exclude the files, that’s for sure. I used that with the test because I had a test that I could execute in my machine but not really on the junkies. I had this rule that if something than exclude this file and just don’t use that so it will post a built. </span>
+
+<span style="font-weight: 400;">I’m a heavy user of CocoaPods. I’m not really into Carthage. I just use CocoaPods, it’s a tool that I think mostly works. If you build a Podspec with CocoaPods, you also have the rules and you specify, “Here are the sources, please exclude this one,” and so forth, and so forth. It’s similar here, but here you have to write it in Swift. It’s like a package sources exclude up and here goes the string to the finally one to exclude.</span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">Right. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">One thing that I’m also wondering about is what if you include two packages or two modules that have dependencies on two different versions of the same dependency, what happens? Does it complain or does it just figure it out?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">I don’t know, to be honest. I don’t think it will be able to distinguish and use both of them. In codes, there’s a lot of fix it to do things. One of such to do a fix it, fix me thing is around the dependency. I think it’s not possible. I’m not sure but I would say not possible today. Probably it will be implemented but I think it’s not.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Yeah. It looks like they assume semantic versioning so you can specify the major version so one or two, and then your minor version should be non-breaking changes or additions. I was just curious because if you have one package that assumes one data or one DATX, another one that assumes two DATX.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yeah. That may be tricky because at the end you have a static library. The symbols so that maybe problem with some duplicated symbols or something. I don’t know but I think it’s not the easy problem to overcome.</span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">What about Xcode? Xcode doesn’t support the Package Manager right now so how do you use packs with packages with Xcode?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">You don’t. As far as I know, you don’t.</span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">It produces a library when you run this with Swift Package Manager?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yeah, it is but you have to tell it to produce the library. Here’s the thing, Swift Package Manager itself can build a project out of this Manifest file. You may have a repository and you can just generate the Xcode file, it’s fine. If you open the Xcode file, you will just see the regular Xcode project which targets and so on if not using the Swift Package Manager. </span>
+
+<span style="font-weight: 400;">A few days ago, this is neat. I have a framework library and I have application and I want to link my framework with my application to do some tests. For that, I need a library and I don’t have that library. By default, if you run the comment “Swift build” it will create objects compiled files. There is no library, there’s nothing like my framework dynamic clip or a static library but is not. If you go to the Manifest file, you may say that you want to produce such a library and it works. You have to type something like products that append and there’s something but you specify type of the library if it’s dynamic or static, and it will build the library that you can use and you can link with your Xcode project. That will require editing of the Package.swift that you don’t control because you just fetch the external repository and it’s not really yours so you have to edit that, you have to for and it’s not really easy to do.</span>
+
+<span style="font-weight: 400;">I come up with the idea, maybe it is possible to specify this information about the output with the comment line. Basically, this is something I’m working on right now. I’m digging the sources, I’m trying to add this functionality as a proof of concept and we will see how it works. If it will be acceptable, it will go to the mainstream. If not, I will learn how this Swift Package modules works internally.</span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">It sounds like you could use a Swift Package Manager as like a build tool and build your entire project with it if you want instead of Xcode.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yeah. I’m doing that. Yeah, you can. It is a replacement for this Xcode build tool. You just go to the repository, run Swift build and it just builds. I use it a lot because it’s fast and it’s the only way to build Swift to a Linux. That is more useful in Linux than Mac OS. You have to remember that today, all the good platforms are supported by Swift Package Manager, just Mac OS and Linux. You can’t build the binary of library for iOS for example.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">That’s good to know.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yeah. It will be changed. In a source code, you just have to call it the architecture and the system, you have to call it and shift places. I believe it will be changed in the future. </span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">You can’t even build libraries for iOS?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">You can’t. It’s hard to code the sources that is strictly only for Mac OS. I believe it is feasible. It’s feasible and easy to do, probably I’m just thinking. On Mac OS, we have this fat binaries, we can repo a lot of binaries in the one file. Maybe there’s something with Linux that needs some time to implement that. </span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">What about frameworks, you can build those with Swift Package Manager?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">I would like to say yes but I haven’t seen one yet. I saw this dynamic library but not the Mac OS framework like a framework. I haven’t seen that. I don’t think there’s an option to build that not at the moment. But maybe it is, maybe.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">One thing that I’m seeing just looking at the documentation here is that for one, it looks like you can actually pull in C modules. Is there something you have to do special for that or can you just write some C code that outputs some library you can load in?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">There’s a support for C, C++, and Objective-C code that can be compiled and used by the Swift project later. Basically, it’s compile the sources and build the Swift module around that. Thanks to that, you can import that in your Swift code. For that, you just need sources. You have to have this folders structure. It maybe annoying for the Swift or for the C projects, usually they have slightly different organization but you can use whatever you want, you can pass the link, additional parameters to the link or to the compiler that will help you build this code base in particular. It is possible and it just works. When it works, it just works.</span>
+
+<span style="font-weight: 400;">One thing is actually building from the source, building the C code. The other thing is using system C libraries like LibZ or LibGTK. We can use that, Linux specifically. For that, you have to create the specific manifest file and just repository with two files, Package.swift and Swift module. In the Package.swift, just specify your name and in the module is the text file, as we know from Xcode where we specify the Swift module for the C code. You define the path to include to the linker and name of the library and it just works. It needs these separate package to use. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Gotcha. The other thing I’m seeing here is providers, you have Brew or Apt. You can point packages that way?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">True. I was confused by this one. At first I thought that it maybe works. You don’t really have to do anything because all the dependency is already specified in this Manifest file and you just make run the comment built and it will install all the dependency build and finish with a success but I think it’s not. The providers is parts of the software you may need or you need adequate but you have to install it separately, like manually.</span>
+
+<span style="font-weight: 400;">You have Brew on the Mac OS, and Apt on the Linux. The two are supported but these two are the new ones in the sources. It works like this. If you need some package from Brew, then you specify that in Manifest file as a provider. During the built comment, Swift Package Manager would print just information that will probably you need to execute this comment to have this library working on these executable working in the runtime because it won’t work otherwise. Just a helper, just telling you, “Please do that.” This acquire but I will not run this comment for you.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Okay, interesting. All you’re really telling it is suggest to the user that they should install the packages and actually install the package.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Exactly. Yeah, it’s just a suggestion. I thought that it maybe execute the Brew comment but it’s not, just a suggestion, you should do that. </span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">What about the future road map for the Swift Package Manager, what can you tell us about that?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">To be honest, if you subscribe to mailing lists, there’s not much conversation around this project in these days, I don’t know why. There are two or three evolution proposals, one of it is currently in review. The other one implemented or partially implemented. It looks like it’s still immature project or the product. I’m sure it will get better, it really gets better because the smart people working on it. Apple seems to be focused to make it the default Package Manager for Swift. It is especially important for these whole server side Swift on the Linux. </span>
+
+<span style="font-weight: 400;">On the Mac OS to be honest, we have Xcode and we will compile it somehow. But on Linux guys, what they create to make files by hands, or they’re really maybe confused how to start with Swift. Maybe this is why we have just Mac OS support and Linux support and we don’t have iOS support yet because when the two platforms will stabilize, there will be less work to just add the new architectures. Because all the features they want to have are already in place. Not all the features in place already, it’s changing, the new features are coming. Not all comes in with the discussion via this evolution list because as I said there’s not much of it.</span>
+
+<span style="font-weight: 400;">Though there is a lot of internal discussion in Apple about the future of this tool and they have a vision. I believe they know what they want to achieve. I must say, they’re very open to the new contributors and the new ideas. If you have idea and you have a problem, you just go directly to the guys like Danielle Danburg and just ask him, he just responds to you and tell you, “I think that maybe we go this way or this way.” With your idea. I feel the open source spirit that it’s not the open source in the usual way I think. What I mean by that there is some discussion inside Apple like they have the internal ideas that are not really discussed in public. If you don’t ask, you will never know.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Yeah. I found the community proposal that Apple has on the Swift Package Manager repo on GitHub. It actually has a future features list on it. They say in no particular order so I don’t know if any of these are really super high priority for them.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yeah. They work on it. If you check the Giro Box at swift.com. If you check that and if you just filter by the Package Manager, there’s seven pages of open bugs and future request. The list is quite long and this has a lot of things to do yet and fix still. </span>
+
+<span style="font-weight: 400;">There’s a lot of proposals about the pinning, it’s called pinning and this is something we know as that’s a lock file from Gemfile or CocoaPods. The file that described actual dependencies used by the project with the exit versions. You can distribute it with your team and make sure that you’re on the same page. </span>
+
+<span style="font-weight: 400;">There’s a proposal. Basically, the proposal is let’s add the new comment, Swift build pin that will create this file, it’s a .pin file. You can use that. We use that, you can add it to the Git and share it with your team. The only controversy around that is why do we need separate comment, why it is not the part of the build process like the last step of the build comment? This is a discussion, there’s a lot of resenting why we should, why we shouldn’t.</span>
+
+<span style="font-weight: 400;">I stand in the position that it should be created automatically. When you build for the first time and fetch the dependency, this file should be created automatically. Sometimes it may be convenient. This is the last thing to discuss around this project, part and public.</span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">Okay. I thought I had heard that they were going to integrate it with Xcode, and maybe that wasn’t going to be until next year or after.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Yeah. There’s a rumor. I believe there is a plan to have a good integration with the Xcode but for now the tool is not ready to do that. They will definitely do that, I don’t know how but it’s Apple, it’s basically the same team that is building the Xcode. You come in to know, just agree on the interface. It’s not yet.</span>
+
+<span style="font-weight: 400;">The thing with these products, with these libraries that you have to edit Manifest file. Just showing that not really focused now. They’re not focused on integrating with Xcode. It will be at some stage.</span>
+
+<span style="font-weight: 400;">I just went when something about this blog post, I made this package, it’s Swift manual. I wrote it because I maintain some Swift library and people ask for support to Swift Package Manager. I’m not really using that but I have to support that, you have to take that. When I check the documentation, the official documentation, it was not clear how to build the Package.swift file so I open the source code and just dumped all the possible values to the blog post. It was good. I have told that this information is currently available as a part of the Swift because manager repository is not by me but they updated the documentation. It should be easier for the newcomers to build the Manifest file. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;"> Sounds good. If people want to see what you’re working on these days or follow you on Twitter, anything like that, what should do they do?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Just follow me on Twitter. My Twitter handle is part of my last name so probably you will find it in the description to this podcast. I have a blog. You can just check if there’s something new there. I blog about Swift mostly these days. I do a lot of tweets about Swift. Of course you can check out my GitHub. There’s some repositories you might find useful.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Alright. Let’s go ahead and move to picks. Rod, do you have some picks for us?</span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">Sure. I just have one pick. Over the weekend, I saw The Accountant and I really enjoyed it. That’s my pick.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Alright. I like my Accountant too. I’m just kidding. I’m not kidding, I do like him but anyway. </span>
+
+<span style="font-weight: 400;">I’ve got a pick here, it’s a book. The book is called the 12 Week Year and if you’re in business for yourself or you’re trying to do some self-improvement and things like that, it’s a goal oriented system that helps you plan out how you’re going to get stuff done. For me, it’s been really, really useful just be able to sit down and say, “Okay, what do I want to accomplish within the 12 weeks.” Which conveniently ends on December 31st as of when I started the 12 Week Year. </span>
+
+<span style="font-weight: 400;">These are the things I want to get done, or have accomplished, or whatever. These are the tactics that I’m going to follow in order to accomplish those goals. And then it breaks it down by week and then by day so you have all of the things on the day that you’re doing whatever it is you’re doing and you get to score your week at the end of the week and see how well you did. It has been really, really helpful for me just to be able to focus and get all of that stuff done. I’m going to pick the 12 Week Year. That’s all I have this week. Marcin, what are your picks?</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">I have two picks. First one is one talk by Din Group, Introduction to LLVM Swift Compiler. It’s a very good introduction to how the LLVM is built, how the Swift fit into LLVM architecture, and how the Swift compiler and optimizer works into practice. I really recommend that. Inga is a Polish developer, she’s really smart. In the past, I attended her other talk about C++ compiler and it was really great. I was really happy to find that she prepared this talk about LLVM Swift Compiler. That was first.</span>
+
+<span style="font-weight: 400;">The second is Project Distribution Test by Daniel Duan. I find it useful, this is the tool to test your framework, how it works with CocoaPods, Carthage, and I don’t remember if Swift Package Manager is included. Basically it is useful if you maintain the framework library. I have this problem with my libraries. 80% of the issues are about installation that the Carthage is not working, that the CocoaPods is not working. I do not always remember to check it before the release. With this tool, you just configure, run the comment, it will build the project, check if it built correctly and you’re done, Distribution Test. </span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">Alright. Thank you for coming, Marcin. Hopefully this gets people down the road a little bit with their Swift projects. We’ll go ahead and wrap this up and we’ll catch everyone next week.</span>
+
+<span style="font-weight: 400;">Marcin:</span> <span style="font-weight: 400;">Thank you for having me.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">You are welcome. Thank you for coming.</span>
+
+<span style="font-weight: 400;">Rod:</span> <span style="font-weight: 400;">See yah.</span>

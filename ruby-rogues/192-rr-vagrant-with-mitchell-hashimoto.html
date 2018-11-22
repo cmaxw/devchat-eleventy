@@ -1,0 +1,598 @@
+---
+layout: layouts/post.njk
+title: >
+      192 RR Vagrant with Mitchell Hashimoto
+date: 2015-01-28 14:00:00
+episode_number: 192
+duration: 0:56:03
+audio_url: https://media.devchat.tv/ruby-rogues/RR192Vagrant.mp3
+tags: ruby-rogues
+---
+
+<p dir="ltr">02:22 - Mitchell Hashimoto Introduction</p>
+
+<ul dir="ltr">
+ 	<li><a href="https://twitter.com/mitchellh" data-cke-saved-href="https://twitter.com/mitchellh"><u>Twitter</u></a></li>
+ 	<li><a href="https://github.com/mitchellh" data-cke-saved-href="https://github.com/mitchellh"><u>GitHub</u></a></li>
+ 	<li><a href="http://about.me/mitchellh" data-cke-saved-href="http://about.me/mitchellh"><u>Blog</u></a></li>
+</ul>
+<p dir="ltr">03:17 - <a href="https://www.vagrantup.com/" data-cke-saved-href="https://www.vagrantup.com/"><u>Vagrant</u></a></p>
+
+<ul dir="ltr">
+ 	<li>Windows Users</li>
+ 	<li>Provisioning</li>
+ 	<li>Testing Chef Recipes</li>
+ 	<li><a href="http://en.wikipedia.org/wiki/Provisioning" data-cke-saved-href="http://en.wikipedia.org/wiki/Provisioning"><u>Provisioning</u></a>: Defined</li>
+ 	<li><a href="https://www.virtualbox.org/" data-cke-saved-href="https://www.virtualbox.org/"><u>VirtualBox</u></a></li>
+ 	<li><a href="http://www.vmware.com/" data-cke-saved-href="http://www.vmware.com/"><u>VMware</u></a></li>
+ 	<li><a href="http://en.wikipedia.org/wiki/Hypervisor" data-cke-saved-href="http://en.wikipedia.org/wiki/Hypervisor"><u>Hypervisors</u></a></li>
+</ul>
+<p dir="ltr">10:38 - Management</p>
+
+<ul dir="ltr">
+ 	<li><a href="https://www.freebsd.org/" data-cke-saved-href="https://www.freebsd.org/"><u>FreeBSD</u></a></li>
+ 	<li><a href="http://en.wikipedia.org/wiki/Open_source" data-cke-saved-href="http://en.wikipedia.org/wiki/Open_source"><u>Open Source</u></a></li>
+</ul>
+<p dir="ltr">12:18 - Use Cases</p>
+<p dir="ltr">14:21 - Provisioning (Cont’d)</p>
+
+<ul dir="ltr">
+ 	<li><u><a href="https://www.chef.io/chef/" data-cke-saved-href="https://www.chef.io/chef/">Chef</a></u>
+<ul>
+ 	<li><a href="https://docs.chef.io/chef_solo.html" data-cke-saved-href="https://docs.chef.io/chef_solo.html"><u>chef-solo</u></a></li>
+</ul>
+</li>
+ 	<li><a href="http://puppetlabs.com/" data-cke-saved-href="http://puppetlabs.com/"><u>Puppet</u></a></li>
+ 	<li><a href="http://en.wikipedia.org/wiki/Shell_script" data-cke-saved-href="http://en.wikipedia.org/wiki/Shell_script"><u>Shell Scripts</u></a></li>
+</ul>
+<p dir="ltr">17:05 - Developer Productivity</p>
+
+<ul dir="ltr">
+ 	<li><a href="http://docs.vagrantup.com/v2/share/" data-cke-saved-href="http://docs.vagrantup.com/v2/share/"><u>Vagrant Share</u></a></li>
+</ul>
+<p dir="ltr">18:54 - Sharing</p>
+<p dir="ltr">21:52 - Destroy =&gt; Recreate</p>
+<p dir="ltr">23:23 - <a href="http://www.orafaq.com/wiki/Seed_data" data-cke-saved-href="http://www.orafaq.com/wiki/Seed_data"><u>Seed Data</u></a></p>
+<p dir="ltr">24:27 - Dev &amp; Ops</p>
+<p dir="ltr">28:44 - Documentation</p>
+<p dir="ltr">33:00 - <a href="https://hashicorp.com/" data-cke-saved-href="https://hashicorp.com/"><u>HashiCorp</u></a></p>
+
+<ul dir="ltr">
+ 	<li><a href="http://en.wikipedia.org/wiki/Open_core" data-cke-saved-href="http://en.wikipedia.org/wiki/Open_core"><u>Open Core</u></a></li>
+ 	<li><a href="http://www.mikeperham.com/" data-cke-saved-href="http://www.mikeperham.com/"><u>Mike Perham</u></a>
+<ul>
+ 	<li><a href="http://sidekiq.org/" data-cke-saved-href="http://sidekiq.org/"><u>Sidekiq</u></a></li>
+</ul>
+</li>
+ 	<li>The Future</li>
+</ul>
+<p dir="ltr">40:20 - <a href="http://en.wikipedia.org/wiki/Single_responsibility_principle" data-cke-saved-href="http://en.wikipedia.org/wiki/Single_responsibility_principle"><u>Single Responsibility</u></a></p>
+<p dir="ltr">43:15 - The Plugin System</p>
+<p dir="ltr">45:38 - Balancing Schoolwork and Writing Vagrant (Encouragement?)</p>
+
+<ul dir="ltr">
+ 	<li><a href="http://en.wikipedia.org/wiki/John_Resig" data-cke-saved-href="http://en.wikipedia.org/wiki/John_Resig"><u>John Resig</u></a></li>
+ 	<li><a href="http://yehudakatz.com/" data-cke-saved-href="http://yehudakatz.com/"><u>Yehuda Katz</u></a></li>
+</ul>
+<p dir="ltr">47:57 - Marketing an Open Source Project</p>
+
+<ul dir="ltr">
+ 	<li>Speaking at Conferences</li>
+ 	<li>Meetups</li>
+ 	<li>Get Onto <a href="https://news.ycombinator.com/" data-cke-saved-href="https://news.ycombinator.com/"><u>Hacker News</u></a></li>
+ 	<li>Be Friendly with Early Adopters</li>
+</ul>
+
+<h3>Transcript</h3>
+
+<strong>CHUCK:  </strong>Ugh. Sometimes I hate computers.
+
+<strong>JESSICA:  </strong>[Laughs]
+
+<strong>CORALINE:  </strong>That only happens when I use them.
+
+<strong>CHUCK:  </strong>[Laughs] There you go.
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally, if you’re not looking for a job and know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept a job. Go sign up at Hired.com/RubyRogues.]</em></strong>
+
+<strong><em>[This episode is sponsored by Codeship.com. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.com, continuous delivery made simple.]</em></strong>
+
+<strong><em>[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]</em></strong>
+
+<strong><em>[Snap is a hosted CI and continuous delivery that is simple and intuitive. Snap’s deployment pipelines deliver fast feedback and can push healthy builds to multiple environments automatically or on demand. Snap integrates deeply with GitHub and has great support for different languages, data stores, and testing frameworks. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many more. Try Snap for free. Sign up at SnapCI.com/RubyRogues.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 192 of the Ruby Rogues Podcast. This week on our panel, we have Coraline Ada Ehmke.
+
+<strong>CORALINE:  </strong>Hi everybody.
+
+<strong>CHUCK:  </strong>Jessica Kerr.
+
+<strong>JESSICA:  </strong>Good morning.
+
+<strong>CHUCK:  </strong>I’m Charles Max Wood from DevChat.TV. And this week we have a special guest. That’s Mitchell Hashimoto.
+
+<strong>MITCHELL:  </strong>Hi.
+
+<strong>CHUCK:  </strong>Do you want to introduce yourself real quick, Mitchell?
+
+<strong>MITCHELL:  </strong>Sure. So, I guess especially in the Ruby community most people may know about Vagrant which is the development environment tool written in Ruby. That was a project I started five years ago. But I’ve also made a lot more dev ops related tools. So, that’s more the direction I’ve headed recently with a few more tools, Packer, Serf, Consul, Terraform, and a commercial tool called Alice. And so, that’s the world I’m living in right now.
+
+<strong>CHUCK:  </strong>Awesome. I have to tell you, I use Vagrant every day now. So, totally love it.
+
+<strong>MITCHELL:  </strong>That’s great to hear. Thanks.
+
+<strong>JESSICA:  </strong>I totally wish I used Vagrant every day now. But we’re not set up on it and I regret it every day.
+
+<strong>MITCHELL:  </strong>[Chuckles]
+
+<strong>CHUCK:  </strong>Well, all you have to do is create a Vagrant file and then ‘vagrant up’.
+
+<strong>JESSICA:  </strong>Oh, sure.
+
+<strong>MITCHELL:  </strong>Yes, that’s…
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>MITCHELL:  </strong>It’s effort for one person and then the whole team benefits.
+
+<strong>CHUCK:  </strong>Yeah. Do you want to explain real quick what Vagrant is?
+
+<strong>MITCHELL:  </strong>Sure, yeah. So, Vagrant is a tool focused at improving development environments, so improving the repeatability of creating development environments and improving the speed at which you could get that development environment, and also improving the portability of development environments.
+
+So, the problem it’s solving is basically that you start at a job, or someone, a new employee starts at your job and you want them to get committing on your project, whether it’s a web server or a backend system or a web application or backend system or a frontend or anything really. And there are a number of prerequisites they need on the webserver. They need the code. They probably need Ruby. They need Bundler. They need all these things. And instead of figuring out how to get them all to work on their system, which might be Mac, might be Windows, might be Linux.
+
+Instead of doing that, what Vagrant does is you describe it with Vagrant’s, in a Vagrant configuration file. You install Vagrant on their system which has installers for all those platforms. And then they type ‘vagrant up’. And it uses usually virtualization in order to install all those things in a repeatable environment. And so, even if they’re on Windows usually the most common case is it’ll spin up a Linux virtual machine headless so you don’t see it or anything. But it’s running on your computer. It installs everything on there. And so, they could get working really quickly.
+
+<strong>CORALINE:  </strong>It was actually what we used Vagrant for at one of my previous employers where we were migrating technology stack from .NET to Ruby and Ruby on Rails. And we had a lot of Windows developers with a lot of Windows boxes. And the company really wasn’t keen on replacing all those Windows boxes with Macs right away. They did it on a rolling basis. So, I worked on a project called Vagrant Inception which was basically a way of setting up all those Windows machines to do dev on that stack. And it went really smoothly. I was really impressed with the tool.
+
+<strong>MITCHELL:  </strong>Nice. That’s great to hear. And yeah, actually most people don’t know. We live in a very Mac-oriented culture here, especially in the Ruby community. So, what’s surprising to a lot of folks is that Windows users are actually our biggest users by a pretty large majority for Vagrant.
+
+<strong>CORALINE:  </strong>Interesting. Why do you think that is?
+
+<strong>MITCHELL:  </strong>I think it is just the pain of setting up the toolchains, because I think a lot of, of course not to downsize the size of the Microsoft dev community. The .NET community is massive. But still, a lot of the web trends are, Ruby aside, it’s also Python. It’s also things like JavaScript and all of those tools, Node, and Python and Ruby. All the tools surrounding them like Bundler and things like that just don’t work that great on pure Windows. And they also are a pain to get installed. They’re second-class citizens. It’s unfortunate. But it’s always test on Mac first and then wait until someone reports the Windows bug to realize there’s a Windows bug. So, it’s very second-class.
+
+So, I think a lot of the popularity is the fact that Vagrant gives you a Linux environment without a lot of pain, actually without really any pain compared to something like Cygwin. And then you could just run it like normal in there, in a first-class environment.
+
+<strong>CHUCK:  </strong>Yeah, I have to say that one of the things that I’ve been doing with Vagrant, well there are two things and they’re related. And one is basically setting up or provisioning a machine, on my machine, that yeah is basically set up to run the application that I’m working on. And it’s nice because if it requires a different version of Ruby or requires a different version of some other package, then I can specify that and it’ll just get it installed
+
+The other thing I use it for is testing my Chef recipes. And the reason that they’re related is because most of the provisioning I do is using Chef Solo to get things going.
+
+<strong>MITCHELL:  </strong>Yup, yeah. And actually, that was the genesis reason really, for Vagrant actually, was that I worked for, I was a developer just for a Ruby on Rails consultancy. And we would see a lot of different projects with a lot of different Ruby versions and a lot of different gem dependencies. Bundler didn’t exist then. So, that was trickier back then. And a lot of different web servers we were trying, Fusion was new then, trying it out for some. We were still using the old Mongrel setup back then, that sort of thing. And it was just a huge pain to get all these projects to run in parallel, because you’re working on a new client but you’re doing maintenance for an old. And so, that’s really the pain that initially set me off thinking about the problem and then eventually building Vagrant later, a little bit later.
+
+<strong>JESSICA:  </strong>We’ve mentioned the word provisioning a couple of times. Can we define that?
+
+<strong>MITCHELL:  </strong>Yeah. In the context of what we’re talking about, what we mean by that is basically going from some base machine which is usually just like Ubuntu or something installed, to installing and configuring all the software you need to get it to run your code. So, the provisioning step for most Ruby dev environments would be install Ruby, install Bundler, and install maybe a database, and those sorts of things.
+
+<strong>JESSICA:  </strong>Vagrant runs on top of VirtualBox, right?
+
+<strong>MITCHELL:  </strong>It ships out of the box to support VirtualBox as well as a couple of others. But the interface to VirtualBox is totally plugin-oriented. So, you could run it on top of, it also runs on top of VMWare, Hyper-V, QEMU and some other ones.
+
+<strong>JESSICA:  </strong>Okay. So, in that case VirtualBox or VMWare, that’s the program that actually runs a Linux kernel inside your computer, right?
+
+<strong>MITCHELL:  </strong>Correct.
+
+<strong>JESSICA:  </strong>It creates the virtual machine?
+
+<strong>MITCHELL:  </strong>Yeah, it’s the hypervisor, that’s right.
+
+<strong>JESSICA:  </strong>And then does Vagrant do the provisioning of setting up the software?
+
+<strong>MITCHELL:  </strong>Yeah, so most hypervisors are pretty, I don’t want to say dumb because they’re actually really complex pieces of software. But they hand things off at a point where they can’t see into the machine. Much in the same way that your processor and your computer is running Mac but it really doesn’t know it’s running Mac, doesn’t know how to access Mac, doesn’t know how to move files in Mac, doesn’t know any of that. And in much the same say, that’s what the hypervisor’s doing.
+
+So, on top of that Vagrant’s adding a lot of smarts in terms of knowing, it could access it via SSH. I know how to figure out how to access it via SSH. Once I’m in there, it knows how to figure out what OS it’s running. Based on the OS it’s running it’s able to know how to set the hostname or to install Chef or to do these other things. So, it gets rid of a lot of the boilerplate steps that the hypervisor can’t really help with.
+
+<strong>JESSICA:  </strong>Oh wow. So, Vagrant runs with different hypervisors and also different operating systems running within the virtual machine?
+
+<strong>MITCHELL:  </strong>Yeah, yeah. So, it actually makes a pretty complex matrix. I like to joke that the bugs I get for Vagrant now, it’s been around for five years so it’s pretty stable. And the bugs I get for Vagrant now are a little outrageous mostly, because the matrix of it, it runs on multiple operating systems. It then runs multiple hypervisors. It then, within those hypervisors supports multiple different guest operating system types including Windows. And then within those guest operating system types it supports provisioners, multiple networking types, multiple synced folder types. So, you get these bug reports that are just like, really specific crazy cases of a kind of obscure combination of that matrix.
+
+<strong>JESSICA:  </strong>Wow. That’s a lot of abstraction.
+
+<strong>MITCHELL:  </strong>[Chuckles] Yeah, yeah.
+
+<strong>JESSICA:  </strong>No wonder we like it.
+
+<strong>CORALINE:  </strong>How do you manage that level of specificity with all these special cases for all these special use cases for Vagrant? What does that management process look like with such a large open source project?
+
+<strong>MITCHELL:  </strong>Yeah, it would be impossible without being an open source project. So, a lot of the ability for us to support all that is because someone in the open source community will make a pull request to fix things.
+
+Like for example, I don’t know much about FreeBSD. So, when networking or NFS or something isn’t working on FreeBSD I tag the issue but can’t do much in the short term to fix it. It’s not something I could just look at and be like, “Oh, I know exactly how to fix this.” It would require me to really spin up FreeBSD which luckily I could do pretty easily because of Vagrant. But it would require me to spin that up, play around with it, and try to figure it out. But usually that takes a lower priority than the ones I do know how to fix quickly. And oftentimes during that period where I’m not really working on it there’ll be a pull request in order to fix it. And that’s really helpful.
+
+<strong>JESSICA:  </strong>Wow. So, there are all these different technologies that Vagrant is building on top of. And you’re able to make use of the scattered knowledge of these technologies throughout the community.
+
+<strong>MITCHELL:  </strong>Right, yeah, yeah.
+
+<strong>JESSICA:  </strong>Sweet.
+
+<strong>MITCHELL:  </strong>What open source has really taught me is that every use case is being used. So [chuckles] you’ll…
+
+<strong>JESSICA:  </strong>[Laughs]
+
+<strong>MITCHELL:  </strong>You find the weirdest, from your perspective, the weirdest use case or edge case or something. But it’s just what that person needs. But it’s interesting because they might be one of a handful of people in the world that actually needs that, that feature to work with that specific combination. But of course, once an open source project reaches a certain point, it’s inevitable like Murphy’s Law that it’s going to happen.
+
+<strong>JESSICA:  </strong>You mentioned two use cases for Vagrant, two problems that it solves. One was spinning up new developers and getting their environment going quickly, or new computers for an existing developer. The other was being able to run multiple different environments, to have local copies of those on your machine but they’re separate so they never interfere with each other. We have a different one. The reason that I’m dying to use Vagrant is because every time I fix a configuration problem on my machine, I hate every minute of it, of getting the right version of Ruby and the gems installed and uninstalled. Because it’s work that I’m doing that helps me exactly once.
+
+<strong>MITCHELL:  </strong>Yeah.
+
+<strong>JESSICA:  </strong>It’s not reproducible. It doesn’t help everyone on my team going forward.
+
+<strong>MITCHELL:  </strong>Yeah, that’s I guess not a use case I had said. But definitely because we had… one, I initially made it because everyone had their own configurations locally. And the application configurations really get back into the Git repo or something. But when someone makes a change where they, a common one for some reason we used to have is that we would run our test suite against SQLite but we would run Postgres in production. And there are differences there. So, the tests would pass but then they would fail in production. So, someone would go ahead and make the change to run the tests in Postgres. But then you got to figure out organizationally how you get Postgres installed and configured on everyone’s machine. And that’s like, you can’t really fix that through the Git repo unless you have shell scripts which might not work, probably won’t work, those sorts of things. So, there’s a whole other piece of overhead there.
+
+<strong>CORALINE:  </strong>So, it goes a long way in solving the works on my machine problem.
+
+<strong>MITCHELLE:  </strong>Yeah. What I like to say is that it removes a huge amount of the surface area that causes that problem. It won’t make it impossible, but a large swath of it is gone.
+
+<strong>JESSICA:  </strong>And I like your point about now you can commit the environment changes along with the code that depends on them.
+
+<strong>MITCHELL:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>So, one thing that I’ve seen though is that with provisioning for example where you’re basically, when you create the new virtual machine it does all the setup steps for your environment. There’s a bit of a learning curve there as far as things like Chef Solo or Puppet or whatever you’re going to use to provision your new system. So, are there ways that you’ve found that are really good to short-circuit that? Or…
+
+<strong>MITCHELL:  </strong>Yeah, yeah, just use shell scripts. [Laughs]
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>MITCHELL:  </strong>Yeah, that’s what I recommend to everyone starting it, because there’s really no reason right off the bat to learn Chef or Puppet at the same time as Vagrant. It’s asking a lot to learn multiple new tools not directly… it’s not like learning, for a developer, it’s not like learning another library or an API library, something you work with every day. It’s bridging this, sitting in this weird dev ops, between ops and between dev like thing. So, it’s a little bit foreign. It’s a little bit different. It requires thinking a little differently. So, I recommend just trying to learn one at a time.
+
+I recommend learning Vagrant first mostly because learning Chef or Puppet without Vagrant is annoying, because you’d have to be spinning up and spinning down real servers to test these things on. So, if you learn Vagrant first at least you have the throwaway machine that you could get all the time to learn it. But most pragmatically, to get up and running just use shell scripts. I think a lot of projects I start, almost all of them, they’re just like, I have the standard Rails shell script I use that sets up everything for Rails, and the standard Go shell script and things like that. So, I just use shell scripts.
+
+<strong>CHUCK:  </strong>Hm.
+
+<strong>JESSICA:  </strong>That’s interesting. So, Vagrant sits in between the hypervisor, which is sitting on top of your operating system, and on top of the hypervisor is Vagrant. And on top of Vagrant you can run other provisioning systems like Chef and Puppet?
+
+<strong>MITCHELL:  </strong>Yeah. So, that’s another plugin point. So there’s, yeah Chef, Puppet, Ansible, Salts, shell scripts, and file copying are the built-in plugins for what the category of provisioners. And you could mix and match those in your Vagrant file.
+
+<strong>JESSICA:  </strong>And then, so if you use Chef or Puppet to provision your Vagrant machine locally then potentially you can use those same recipes to provision tests in production machines?
+
+<strong>MITCHELL:  </strong>Yup, yeah, and that’s…
+
+<strong>CHUCK:  </strong>I did that yesterday.
+
+<strong>MITCHELL:  </strong>Yeah, yeah, yeah, and so that’s where you eventually want to get to and definitely can.
+
+<strong>JESSICA:  </strong>Yeah, when provisioning is repeatable and reproducible, then programming becomes a lot more of a science.
+
+<strong>MITCHELL:  </strong>Yeah, definitely, definitely. And it also just avoids issues that are really annoying. It sucks when you’re a developer and it’s not working because of something totally unrelated to the application.
+
+<strong>JESSICA:  </strong>Totally.
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>CORALINE:  </strong>Is developer productivity one of your primary goals in creating Vagrant and some of the other tools you’ve talked about?
+
+<strong>MITCHELL:  </strong>Yup. I would say that was probably the primary goal out of the gate with it. And as time has gone on, a lot of the focus, when Vagrant initially came out what I thought was cool about it or what I thought was valuable about it was its ability to manage a virtual machine on VirtualBox. That’s all it could do then and that’s what I thought was useful about it.
+
+And over the years, it’s approaching five years old now, over the years, very quickly within the first couple of years, I learned just from folks telling me that the value they’re getting on it is not from that but more from having productivity because they don’t need to teach their developers multiple [inaudible]. “Oh, it’s a Ruby system from 2008.” “Oh, it’s a new modern one, so you do this,” or, “It’s a PHP project. You do this.” Instead, they just teach them ‘vagrant up’ to get working, ‘vagrant ssh’ to access the machine, ‘vagrant destroy’ when you’re done. And no matter what project it is, they know those are the commands they need to run.
+
+So then, the focus of the project really switched over to developer productivity and developer user experience and that sort of thing. So, a lot of the newer features coming into Vagrant in the past year have been really focused around that. So, things like we have a feature called vagrant share which is pretty nifty. It generates a URL that anyone in the world can visit and it’ll route to your virtual machine. So, you could be working on, it’s really useful for consultants for example, because you could be working on an application. Your employer can be around the world. And instead of figuring out how to deploy that thing and figuring out ops and maybe it doesn’t fit directly into Heroku or something. If it’s a little more complicated then instead of figuring all that you could just do a ‘vagrant share’, send them the URL, and they could see it. And we’re continuing to introduce workflow features like that.
+
+<strong>CHUCK:  </strong>Here’s a workflow issue that I’m running into with Vagrant. And that is that when I want to provision a new machine, a lot of times I find myself copying recipes for Chef. And then I have to set up the Vagrant file each time to pull in the recipes that I want and things like that. Is there a better way to share my Vagrant file and my recipes? I can put the recipes or the cookbooks in one place and then just tell Vagrant where to find them. But should I just be copying and pasting my Vagrant file around? Because that’s what I’ve been doing. Or is there a better way to do that?
+
+<strong>MITCHELL:  </strong>Yeah. Yeah, I think the best thing to do is actually to copy that thing around. You could probably make the Chef part better. We support Chef-Zero now, Chef-Apply now. So, you can probably make that better by doing a shell step before that and cloning it out into your virtual machine from another repo and then doing the apply from there.
+
+<strong>CHUCK:  </strong>Mmhmm.
+
+<strong>MITCHELL:  </strong>But it’s an optimization. But yeah, I would say the best option is to clone around. Because what you do want is you don’t actually want your Vagrant files to be that DRY in the sense of not repeating yourself. Because you want it to stick really closely with the project because maybe it’s a Ruby project that is not going to be touched for the next five years. And the way you run Ruby environments has changed a lot in five years but it wouldn’t work with the old one.
+
+So, let’s say you start a project now and then in 20-, I don’t even know what year it is, in 2020 you want to go back and maintain it because it’s just some small site that you haven’t had to change. But it doesn’t work with the latest version of Ruby or the latest best practices of Ruby or something like that. You don’t really want the Vagrant file to be tied to, to be iterated on, on that project. You want it to just work, especially in the maintenance case. You don’t really want it to be the cleanest thing so much as you want it to just work, especially if it’s an old project. So, I like to just tell people, yeah, just copy and paste it because you’ll get that property that way.
+
+<strong>JESSICA:  </strong>You get the property that it doesn’t change on you unexpectedly because you upgraded something else?
+
+<strong>MITCHELL:  </strong>Yeah, exactly. You change the Vagrant file and the app you’re working on keeps working. But unless you’re changing the Vagrant and doing a ‘vagrant up’ on every single application that’s using that Vagrant file, you don’t know. And I don’t know. I would be really annoyed if I had to go back and work on an application that definitely worked before and then doesn’t work anymore because someone was cleaning something up for another project.
+
+<strong>JESSICA:  </strong>Yeah. That’s one of the dangers of DRY, those surprises.
+
+<strong>MITCHELL:  </strong>Yeah, yeah.
+
+<strong>CHUCK:  </strong>Yeah. But different project, you ‘vagrant up’ and it creates a new virtual machine. So, you’re probably not going to clobber the virtual machine by moving to a different project.
+
+<strong>MITCHELL:  </strong>No yeah, I’m not worried about that so much as actually the Vagrant file not working anymore for your project.
+
+<strong>CHUCK:  </strong>Right.
+
+<strong>JESSICA:  </strong>And that goes back to the part about it being committable. The code in a particular commit should be tied to a particular Vagrant file, because the Vagrant file describes the environment in which that code works.
+
+<strong>MITCHELL:  </strong>Yeah, that’s right.
+
+<strong>JESSICA:  </strong>Mitchell, I wanted to mention. I heard a really interesting use case for Vagrant while I was at Steel City Ruby last summer. I talked to a bunch of people who work at TeamSnap. And one thing they do is every morning when they come in they destroy and start up their development environments from scratch.
+
+<strong>MITCHELL:  </strong>Yeah. I would say that’s how it was meant to be used. So hopefully… but in practice a lot of folks don’t do that, which is fine. It’s a general-purpose tool. So, they should just do what’s best for them. But that was the original dream, is really to just destroy it and recreate it every day.
+
+<strong>JESSICA:  </strong>Oh, cool. Yeah, I love that because then you don’t accumulate that just happens to make stuff work but wouldn’t for somebody else.
+
+<strong>MITCHELL:  </strong>Right, yup. And that way you know the Vagrant file’s always clean. If Vagrant’s already up and running and someone commits a change to the Vagrant file and you’re not doing a destroy and up, then you don’t actually know if they broke that process. And if your whole team’s doing it every day, then you know for sure that every day it’s at a stable point, which is most important for new employees when they come on.
+
+<strong>JESSICA:  </strong>If it hurts, do it more often.
+
+<strong>MITCHELL:  </strong>[Chuckles] Yeah.
+
+<strong>CHUCK:  </strong>[Chuckles]
+
+<strong>JESSICA:  </strong>Yeah, totally. We have problems with this right now in our QA environments. They’re not automatically spun up and then spun down and then spun up from scratch. And so, when I need to test something I go hunting for a QA environment that has the right data in it. And that just feels wrong.
+
+<strong>MITCHELL:  </strong>Ugh. Yeah, that’s rough.
+
+<strong>CHUCK:  </strong>Yeah. And that’s another thing that I really like about Vagrant, is that you can build seed data into the process and things like that. And so, depending on how you automate things you can use different seeds or you can do all kinds of stuff, either by modifying the Vagrant file or by ‘vagrant ssh’ in and then run ‘rake db seed’ with whatever options you need to run it, in Rails anyway.
+
+<strong>MITCHELL:  </strong>Yup.
+
+<strong>CHUCK:  </strong>So, it’s just a terrific way to bring things up and down. So, you just ‘vagrant destroy’ when you’re done and then you can bring it back up and seed something else into it.
+
+<strong>MITCHELL:  </strong>Exactly, yeah.
+
+<strong>CHUCK:  </strong>The real trick that I found is I’m still working out some of the Chef recipes that I use. And so, getting all of the configurations in place sometimes can be painful. But that’s a Chef issue more than it is a Vagrant issue.
+
+<strong>MITCHELL:  </strong>Mmhmm. And funny enough, we get so many of those, especially for people who… like you clearly know that boundary. But for a lot of people, they’re just trying to get real work done. And they don’t really, they’re developers that don’t really know. They haven’t worked with ops in any way really, so they don’t yet have the experience to know the boundaries of things. So, we get a lot of issues and mailing list posts that are really not Vagrant’s. I happen to know about it because I know about Chef and those sorts of things. But it’s really not a Vagrant-related issue. And it’s just kind of funny.
+
+<strong>CORALINE:  </strong>You mentioned a relationship between dev and ops. How do you think tools like Vagrant are changing that relationship and what do you see the future of that relationship being like?
+
+<strong>MITCHELL:  </strong>Well, I think they’re changing it by bringing… it’s less throwing your code over a wall. It’s more the code that, ops people are writing in terms of Chef is getting shared down to developers. Developers are able to play with it, play with it safely if they want, because you could just ‘vagrant destroy’ and start over if you messed up. So, it allows developers to understand more the role of ops. It gives them more of an appreciation if they’re helping get their development environment up and running smoother and that sort of thing.
+
+I think the biggest help that these sorts of tools have is more cultural than technical. I think the trend I’ve seen is that I think the original dream of something like DevOps was to have everyone doing ops and dev together. Maybe not everyone doing it, but actually everyone working really closely together. And unfortunately I’m still not seeing that be the case in a lot of larger companies. But I think that’s okay, because there seems to be a growing respect for the other side. And that’s more the important thing.
+
+It was historically, and in many organizations still a pretty hostile environment because developers are sort of, there’s a battle of what’s it called, incentives where developers want to, they’re paid and their success is based on shipping features and shipping changes. And operator success is based on things not breaking. And the best way to make things not break is to never ship anything. So, there was this weird broken system where developers were trying to ship and operators were purposely slowing them down so that they were more stable. And I think that is getting a lot better because of the understanding of each other and closer working together.
+
+<strong>JESSICA:  </strong>That’s awesome.
+
+<strong>MITCHELL:  </strong>Yeah, it’s tricky.
+
+<strong>CHUCK:  </strong>Do you hear much about teams where basically the ops team is the one putting together the Vagrant stuff instead of the development team?
+
+<strong>MITCHELL:  </strong>Yeah. It’s actually, that’s actually more common. In startups and small companies and consultancies, developers are all the ones doing the Vagrant file creation. And large companies when they get started with Vagrant, it’s usually that way. But very quickly ops takes over it, because setting up dev environments is historically an ops problem. So, they jump on it and it helps them a lot in terms of improving speed at which they could set up development environments, because if they’re sharing Chef and Puppet for production, it’s a lot less time. They’re sort of, ‘they’ being ops people, are sort of used to having the special snowflake laptops. And then they have production which they really care about. But then another developer comes on and they have to onboard a laptop. It’s kind of frustrating because they don’t want to. It doesn’t really matter to them. But now it’s a lot easier because you could just share a lot more.
+
+<strong>JESSICA:  </strong>So, that’s an interesting approach. And this also happened at some other places where I forked, was a developer was the one to bring in Vagrant And one person learned Vagrant and Chef and then set it up and made it work for everyone. Or maybe it was Puppet. It doesn’t matter. And it helped all of us. And then you bring up the part where that can fall to ops. So, if you were that developer then you are going to be in with the ops department. And man, is that a boost to productivity.
+
+<strong>MITCHELL:  </strong>Yeah, definitely.
+
+<strong>CHUCK:  </strong>The other thing is that if you have your ops team at least give input into this process, what you’ll find is that in a lot of cases, your Vagrant boxes or your virtual machines will start to look a lot like production. And then you get a lot less of the issues. I think Coraline mentioned this earlier, where it works on your machine but doesn’t necessarily work in production because there are those small variations.
+
+<strong>JESSICA:  </strong>That’s a beautiful thing.
+
+[Chuckles]
+
+<strong>JESSICA:  </strong>And when you have less on that “works on my machine,” then you have less friction between dev and ops.
+
+<strong>MITCHELL:  </strong>Mmhmm.
+
+<strong>CHUCK:  </strong>Yes.
+
+<strong>CORALINE:  </strong>So, one of the things I noticed when I was looking over Vagrant is that the documentation is incredible. And that is really rare for an open source project. How did you get to that point?
+
+<strong>MITCHELL:  </strong>[Laughs] I don’t know. So, the reason why I did that, I don’t know. I don’t know. I don’t know. Actually it’s more confusing to tell people, “Don’t do that,” when I was originally working on Vagrant, and any subsequent project as well. It was just you can’t ship, even if no one’s using it. Like if Vagrant’s [inaudible], no one knew who I was, no one knew the project, I was just another person on GitHub. Even before that, I knew that you can’t ship something without documentation. You just can’t do it. So, I [inaudible] spent a week just writing documentation for a week straight, making it pretty-looking and getting it to work.
+
+And I think the aesthetic part of it is, it’s a little superficial but it’s kind of stereotypical but I grew up in LA. And I know how in LA it’s cutthroat how important physically you look for making a first judgment. And that’s probably definitely wrong. But I’ve seen the psychological effect of that. And so, yeah I wanted to have that for Vagrant, which is I just want, the website can’t just be a text file. It can’t just be a readme. It can’t just be an off-the-shelf docs thing unless it has the right connotation associated with it. So, we got a nice design. I’m not a designer. I just asked for permission from somebody to use their design. They gave it to me. I used a design and made sure I paid $15 on DeviantArt to get a logo made for it, that sort of thing. And I just put up the website and made sure that the homepage was pretty, just because if it’s pretty then I figured that someone would spend a little more time giving it a chance, whereas if it was ugly, someone might just close it. And so, that’s the whole philosophy around that.
+
+<strong>JESSICA:  </strong>That’s fantastic. It’s production value.
+
+<strong>MITCHELL:  </strong>Yeah, yeah exactly. It just would suck to lose a user from not having good docs or not having a good enough landing page where they don’t give it the time of day. Again, whether that’s wrong or not is, I firmly believe in myself that it will help them. So, if I could give them the best chance of letting it help them then that would be beneficial to both of us.
+
+<strong>JESSICA:  </strong>It does. It brings the technology nearer at hand. It makes it easier to grasp. It makes it easier to use, more pleasant to use, and less intimidating. And when there’s hundreds of things that we should all be learning right now, it’s that little bit of approachability, makes a big difference.
+
+<strong>MITCHELL:  </strong>Mmhmm, yeah.
+
+<strong>CHUCK:  </strong>Yeah, well and I really love the point that you had there too where you basically said if it’s going to help somebody out, then they should be able to find it. And I totally get behind that because it just is true. Something as useful as Vagrant, it’s sad that people don’t know it’s there.
+
+<strong>MITCHELL:  </strong>Yeah, and that’s the biggest problem. And actually, when Vagrant was first released it went on Hacker News which was kind of nice. But for the most part for the first six months it didn’t really grow in usage. And that was a lesson to me. I thought at the time that if you build something and it provides value then it’ll eventually, “You build it and they will come,” was the mantra that I had in my head. And what I learned was that’s in the general sense, I don’t believe it anymore. I don’t think that’s true. I think you need to actually do some evangelism and marketing and that sort of stuff. So, the turning point for Vagrant really was when I started to actually go to local Ruby conferences and preach the use cases for it and why it exists. And that was the inflection point of growth.
+
+<strong>JESSICA:  </strong>So true, so true, that “If you build it, they will use it,” is a fallacy.
+
+<strong>MITCHELL:  </strong>Yeah.
+
+<strong>JESSICA:  </strong>It takes marketing. It takes advertising. And all of that is a service to your users. It says that you care about them because you’re making it easier for them to use Vagrant.
+
+<strong>MITCHELL:  </strong>Yup, yup.
+
+<strong>CORALINE:  </strong>It sounds like you’re running your OSS project as a business. Is that way it started? Which came first, Vagrant or your business?
+
+<strong>MITCHELL:  </strong>Yeah, it was by a big margin, Vagrant. There was zero ever, zero intention to build a business around it. So yeah, Vagrant development was started in 2009 and it came out in 2010 and a couple of months later. And the business itself was started in 2013. So, that was quite a ways away. And even the business itself, my company is not focused around monetizing Vagrant itself so much as monetizing the getting from development to production and all the steps in between where Vagrant is just the free piece to get you started.
+
+<strong>CHUCK:  </strong>So, how do you go from having a successful open source project like Vagrant to having a business around some of the things that Vagrant does?
+
+<strong>MITCHELL:  </strong>To me, what I want to say, my gut response is that it’s once you have the users it’s really not that hard. That’s what I want to say. But that’s really not super true. Okay, to qualify it I guess is once you have the users it’s really not that hard to make an okay living from it. But if you want to do better, then it’s a lot harder because then you have to fight with the decision of, do I do something like open core or do I [inaudible] or am I doing consulting? What am I doing here?
+
+Because if you’re just trying to do okay, then there’s always little things you could do. And the little things I did early on, I don’t do this anymore, but the little things I did early on was allow users to pay for features to speed them up, to prioritize them. And the only people that would do that are companies. I say users, but really it would be companies being like, “No, we really need this feature.” And they’re contracting me to build a feature that benefits a lot more people than just them. But that’s a pretty easy way to get by. But I don’t think you’ll make as much money as a typical corporate job.
+
+But then past that point you have to make really hard decisions. Like open core will inherently fragment your community, because now every feature you’re building you have to pass it through the filter in your head which is, “Do I make this free or do I make this paid?”
+
+<strong>JESSICA:  </strong>What’s open core?
+
+<strong>MITCHELL:  </strong>Open core is an open source business model where the core of a project, the boundaries are up to you, but the core of the project is free and open source. But then fringe features on the outside cost money. So, it’s very much the idea that you use a bit of it for free. But if you want this other feature you have to buy a commercial version. And for an open source project that’s really dangerous because those are the parts of the system where people can’t contribute because they’re usually not open source. I think someone who’s done actually a really fantastic job of turning their open source into a business is Mike Perham. I don’t know actually how to pronounce the last name. But Perham. I think he’s done a really great job with Sidekiq. But yeah, it’s hard. It’s really hard.
+
+<strong>JESSICA:  </strong>How did you get into HashiCorp? What is it about HashiCorp that’s better than what you were doing before?
+
+<strong>MITCHELL:  </strong>The thing about that was side-related to Vagrant. And then Vagrant became a key part of it as time went on, sort of surprisingly. But during college, I made Vagrant during college as well, but during college in addition to that I was doing undergraduate research with who’s now my cofounder. And we had to deal with deploying really different applications across really large clusters. So, Windows apps, Mac apps, Linux apps, Linux kernel modules, Mac kernel modules, web services, a Rails site, a Django site, everything you can imagine. We had to deal with deploying it.
+
+And the number of servers, “servers” we had weren’t millions because that would be the biggest data center in the world. But it’s not that big because the way it was is we worked for a project that was basically like [folding at] home where you had agents on everyone’s machine that could run code. So, we had to deploy those machines and that sort of thing. And that really, it sucked. It was really hard and tooling wasn’t good. And it was really brittle and fragile. And so, that got me thinking about ops a lot more and thinking about, “Oh, well how does this become easier?” And I always thought about that. We always thought about that, me and my cofounder. And when we started the business around Vagrant it was really to dedicate more time to Vagrant. But the goal of the company was always to simplify data center management and application deployment, or what’s more formally called application delivery right now. But that was always a goal.
+
+So, that’s a long-winded answer to say that Vagrant is a key piece that we have because it’s what connects developers to a pipeline that could lead to production. And a lot of people ignore that, or a lot of people don’t have as much control over that as we do, because they had to integrate with other things like, [inaudible] there’s just not that many because there’s not much structure in development environments.
+
+And no one really builds for development environments because developers don’t pay for very many things. And developer budgets are really small. Sometimes that insults developers, but realistically a developer will spend a few hundred dollars on the software that’s running on their machine. And an operator’s going to spend a million dollars a server. So, it’s nothing. So, no one really focuses on the developers. And so yeah, we have the… and that’s why Vagrant’s totally free. We don’t want to try to monetize developers because that would just be pinching pennies in terms of what we’re really trying to do with the data center.
+
+<strong>CHUCK:  </strong>Yeah, but lends you some credibility.
+
+<strong>MITCHELL:  </strong>Yeah, it certainly helps a lot. And there’s also a lot of responsibility with that, too. Because you can’t just throw things into an open source project to help your commercial endeavors. So, there are a lot of things that there is… for example we launched our commercial product Atlas in December. And there is a feature in Vagrant that knows how to communicate to Atlas but we made sure that it’s a plugin. And we made sure that the interface that it’s using, everyone else has access to as well to write their own plugin. So, we wanted to make sure that Vagrant remains as unbiased as possible while we have the opportunity to work better with our systems.
+
+<strong>CORALINE:  </strong>So, across the suite of products and projects that HashiCorp has going on, what’s your vision for the world that you’re trying to create? What is the future you’re working toward?
+
+<strong>MITCHELL:  </strong>The future really is automated data centers. And that process is really automated development to production. So really, development to production if you’re doing Heroku is actually quite simple. It’s one step. But it’s also a really restrictive box they put you in, in terms of what you could run in there and how many processes you can have and what network protocols they could use to communicate. And a lot of companies don’t fit into that box. So, what we’re trying to do is build tools around all this stuff so that instead of fitting their applications into something like Heroku, they’re fitting our tools into their applications. And so, we’re building very specific tools to solve very specific problems to help get them there. And then with the end goal of high-density data centers where very few people are needed to manage them and keep them stable.
+
+<strong>JESSICA:  </strong>You mentioned very specific tools for very specific problems. So, this is not one tool to rule them all.
+
+<strong>MITCHELL:  </strong>Yeah. I think in general it’s a good engineering principle but also one we’ve taken from I guess a product design standpoint which is yeah, we have five open source projects right now. And the reason there are five is because they’re all things we feel are important. But they’re also all things we feel stand on their own as useful things. And sure, putting one feature into another project, into another project could have worked. I think we’ve always thought about, “What if it’s a Vagrant feature?” If it’s a Vagrant feature then millions of people get it right away, whereas if it’s a new project we have to fight through adoption again and figure out, people have to learn about it and that sort of stuff. But really, they’re separate. And you could bloat one project or you could just make them separate and integrate them optionally in some way. And that’s the approach we’ve taken.
+
+CORALINE:  Sounds like applying…
+
+<strong>JESSICA:  </strong>Single responsibility.
+
+<strong>MITCHELL:  </strong>Yeah.
+
+<strong>CORALINE:  </strong>That’s exactly what I was going to say. [Chuckles]
+
+<strong>JESSICA:  </strong>[Laughs] Go ahead Coraline.
+
+<strong>CORALINE:  </strong>So, it’s basically applying the single responsibility principle to your pipeline.
+
+<strong>MITCHELL:  </strong>Mmhmm. Yeah, and it’s worked out really well. What we’ve learned is that we have a couple of things now that run in production. And things you deploy to production, you don’t do so lightly. There are a lot of checks to make sure that it works at scale, the scale you need. What are the ways you could crash it? What are the ways that it’s unstable? Where are the places that it works really well? How do you handle maintenance? There are a lot of checklists that you have to, mental checklist you have to go through in order to get something into production. And having very specific tools has helped speed that up because they have to test less things. And there’s less concern.
+
+Like for example, this is an absurd example but just to drive the point home. If Vagrant, which is a development tool, had a console built into it which is our service discovery, production service discovery and configuration tool which might mean nothing to developers. But just imagine that those two projects are together, even if you don’t understand what both do. And imagine you’re deploying that thing to production. Then if I pushed a change to Vagrant that changes the way that virtual box networks are configured. If that change somehow affects, somehow causes a crash which causes service discovery to fail in production, it’s a little ridiculous.
+
+And it’s also not something you even want. The chance of it happening is low. But it’s not a chance you even want to have. Why even have that possibility? So, making them separate tools, that’s impossible. We could ship updates to different software projects on their own schedule. We know that shipping an update to Vagrant’s not going to affect the production stability of another one of our users. It’s just a better principle.
+
+<strong>CHUCK:  </strong>So, one other thing that I’ve run across working with Vagrant is the plugin system. So, I’ve done plugins so that I, just to fiddle around with things like making it work with parallels or adding other functionality to Vagrant. How do you manage that so that people don’t explode Vagrant? Or do you just trust people to uninstall a plugin if it makes Vagrant not work?
+
+<strong>MITCHELL:  </strong>Yeah, there’s a lot of plugins, especially during upgrades that make Vagrant not work. It’s hard to make an internal API that’s stable because it’s Ruby. Actually, that’s the biggest difficulty is that it’s Ruby. So, people dig into everything, can discover everything. So, they use everything. And so, there are a lot of times that that happens.
+
+And the plugin system’s really there because there were at some point very early on we were getting a lot of feature requests where the response from myself and other maintainers of the project was really like, “Ah, it’s a good idea. But is it that important or is it something we want to support? Are that many people going to use it? Is it a good enough idea?” And that’s an annoying question to ask someone who clearly thinks it’s a good idea. The reporter thinks it’s a good idea. But you’re saying, “No, it’s a good idea but we don’t want to support it.” It’s like, well, that’s frustrating. So, we built the plugin system really early on to give an avenue for those features that we don’t know if they’re good enough yet, and also as a way to incubate stability. And that’s actually worked in practice a handful of times. It’s not often, but there have definitely been a number of features and some major features that have made it into Vagrant just from plugins.
+
+And so yeah, in terms of the complexity question plugins are free to do whatever they want. It’s up to the user to make sure that they’re happy. And luckily finding plugins is annoying enough that the person who’s finding these plugins is working for it. And so, hopefully they’re more advanced users or they understand the challenges. But a plugin system is definitely tricky. And it’s tricky to get right. And I don’t claim that Vagrant’s is right but it does work for us right now.
+
+<strong>JESSICA:  </strong>That’s interesting that the plugin system has become an on-ramp for both contributors and features.
+
+<strong>MITCHELL:  </strong>Yup, yup, both.
+
+<strong>JESSICA:  </strong>That’s another thing that makes it accessible to more people.
+
+<strong>MITCHELL:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>Alright. Well, do we have any other questions or thoughts before we get into the picks?
+
+<strong>JESSICA:  </strong>I do have one more question. Mitchell, you mentioned you wrote Vagrant during college?
+
+<strong>MITCHELL:  </strong>Mmhmm.
+
+<strong>JESSICA:  </strong>Was this undergrad or graduate?
+
+<strong>MITCHELL:  </strong>Undergrad.
+
+<strong>JESSICA:  </strong>Undergrad level. How did that work with balancing it with schoolwork? And you mentioned you did undergrad research.
+
+<strong>MITCHELL:  </strong>Yeah.
+
+<strong>JESSICA:  </strong>Did you get encouragement from faculty and other students to do this?
+
+<strong>MITCHELL:  </strong>No, I didn’t get discouragement either. I just didn’t really talk about it. For some reason, some kids, their heroes, some kids’ heroes are rock stars or actors or scientists or something like that. My personal heroes when I was in college were open source titans, people like Yehuda Katz and John Resig and people like that. And I would watch as many talks from those people as possible. And I was really interested in the work they were doing and things like that. And so, to me I always just wanted to work on open source because it was cool to me. It was fun. And I prioritize it above everything else.
+
+So, I was definitely one of those students who I wasn’t the best student mostly because I just didn’t try very hard. My cofounder’s the opposite. He’s an exceptional student and knew everyone in our department at college. And it’s funny because even today we go to alumni events and no one even knows I went to college there, because I skipped so many classes and didn’t go to labs.
+
+<strong>JESSICA:  </strong>[Laughs]
+
+<strong>MITCHELL:  </strong>And frankly…
+
+<strong>JESSICA:  </strong>[Laughs]
+
+<strong>MITCHELL:  </strong>Yeah, and frankly there was a cost associated with that which is that my grades weren’t great. They were more than passable but they weren’t exceptional. And it was just because I always value industry work and open source higher. And that’s had its own benefits. That’s worth it for some reasons. And luckily my cofounder has complementary skills. And he’s been pushing me more and more on the academic side as I’ve been pushing him more and more on open source design and community and those sorts of things.
+
+<strong>JESSICA:  </strong>Awesome. That’s great.
+
+<strong>MITCHELL:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>I would have been shocked when I was in college to meet a professor that knew what Ruby was.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Or that had any clue about open source or any of that stuff. So, I’m really not surprised you didn’t get much encouragement.
+
+<strong>MITCHELL:  </strong>Yeah well, like I said though. I didn’t try to talk to them. So, I don’t know. A lot of colleges now use Vagrant.
+
+<strong>JESSICA:  </strong>[Laughs]
+
+<strong>MITCHELL:  </strong>[Chuckles]
+
+<strong>CHUCK:  </strong>There’s some irony for you.
+
+<strong>MITCHELL:  </strong>Yeah, in a way, in a way.
+
+<strong>JESSICA:  </strong>Awesome. Okay, thank you.
+
+<strong>CHUCK:  </strong>So, one other thing that you did mention that I wanted to ask about was how do you market an open source project like this? How do you get the word out? We talked about the documentation but are there other better, bigger ways to do that?
+
+<strong>MITCHELL:  </strong>Not really. It’s hard. But what I like to tell people, you only got to do it once. Once Vagrant was popular enough, every other project we’ve launched after that is pretty easy to market. It’s just a tweet away from word of mouth happening, which is a blessing. But to get that first one is just work.
+
+I think speaking at local conferences is pretty inexpensive, especially there are Ruby conferences in every major city. If you live near a city then if you get accepted as a speaker then the ticket’s free. So, you just got to get there. So, that’s a good one. Meetups before conferences is even better. Trying to get onto sites like Hacker News. However you feel about the culture and comments and stuff of Hacker News, it is eyeballs on your website. So, trying to get onto sites like that.
+
+Also trying to, being really friendly. This is one that people miss. But being really friendly to your early adopters because they’re also going to be the people that are blogging about things. And that’s a really good way to long tail, get growth, because that will go onto Google. And eventually someone will google something like repeatable development environments and that will pop up even if it’s months later. And then you get another person who might be enthusiastic.
+
+And it’s just a slow process. I don’t think there’s any shotgun way to just launch it into the stratosphere. So, I think it just takes a little bit of time. But once you’re there, it becomes a lot, it builds momentum.
+
+<strong>CHUCK:  </strong>Yeah, I think I first ambushed you at a local conference.
+
+<strong>MITCHELL:  </strong>Nice. Do you remember which one?
+
+<strong>CHUCK:  </strong>MountainWest.
+
+<strong>MITCHELL:  </strong>Nice, yeah. That’s one of my favorites.
+
+<strong>CHUCK:  </strong>Yeah, I don’t remember if you were speaking on the DevOps track or the Ruby track. But either way.
+
+<strong>MITCHELL:  </strong>I think it was the Ruby one probably. When I started speaking there, there was not a DevOps track.
+
+<strong>CHUCK:  </strong>Ah, okay. Cool. Yeah, I’ve ambushed quite a few people at MountainWest Ruby Conference.
+
+<strong>MITCHELL:  </strong>Nice.
+
+<strong>CHUCK:  </strong>Alright. Well, any other questions, thoughts?
+
+<strong>JESSICA:  </strong>I’m ready for picks.
+
+<strong>CHUCK:  </strong>Alright.
+
+<strong>CORALINE:  </strong>Yay.
+
+<strong>CHUCK:  </strong>Jessica, do you want to go first?
+
+<strong>JESSICA:  </strong>Sure. In the spirit of developers and operations people coming together I will pick ‘The Phoenix Project’.
+
+<strong>MITCHELL:  </strong>Nice.
+
+<strong>JESSICA:  </strong>It’s probably been picked before because it’s such a great book. It’s a novel about IT and it is strangely compelling. I was astounded by how interested I was in getting back to reading it even though it’s just about some poor operations manager who gets promoted when he least expected it.
+
+<strong>MITCHELL:  </strong>[Chuckles]
+
+<strong>JESSICA:  </strong>But it is a good illustration of a way to make operations more efficient and bring it to the same goals as the developers. Read it. It’s fun. You’ll learn something. It’s not completely realistic but it’s close. That’s it.
+
+<strong>CHUCK:  </strong>Alright. Coraline, what are your picks?
+
+<strong>CORALINE:  </strong>The first pick is something called Prose.io. A lot of people use GitHub pages to publish static websites maybe using Jekyll or something like Jekyll. And Prose.io is basically a content authoring interface for working with tools like that. It gives you syntax highlighting, formatting toolbar, draft previews, and just integrates really, really well with static websites that are hosted on GitHub.
+
+My second pick is actually something that came out of some of the mentoring and pairing I’ve been doing lately. We typically use Screenhero but sometimes bandwidth can be an issue. So lately, I’ve been using Nitrous.io which is a cloud-based Ruby development environment. It has a built-in IDE that’s very similar to Sublime and full console access. And when you’re editing a file in collaborative mode you have a cursor for every person that’s connected. So, you can see who’s doing what. And you can even run Rails from the virtual box that gets set up, up there. So, it’s a really great collaborative tool if you’re working with someone remotely and you want to be able to simultaneously work on the same files on the same project.
+
+<strong>CHUCK:  </strong>Awesome. I’ve got a couple of picks. The first one is Slack. It’s an application. It’s a web app. They also have a Mac app which I think just wraps around the web interface. But it’s really nice. I’ve been using it with one of my clients, just keep up and ask a bunch of questions. So, I’m really digging that.
+
+We’re also using KanbanFlow. So, I’ll put a link to that in the show notes as well.
+
+And the other thing that I want to pick is we had John Sonmez on the show a few weeks ago. And he actually has an email course about blogging. So, if you’ve been thinking about getting started with blogging it’s really terrific. And so, I’m going to go ahead and pick that. And we’ll put a link to that in the show notes as well.
+
+Mitchell, what are your picks?
+
+<strong>MITCHELL:  </strong>So, mine are just sort of unrelated development. Just two little (sort of indie, I think they’re indie, one is for sure), software things that I’ve purchased in the past week.
+
+One is called AirPair. It’s an app that could stream, sort of, any audio or video to also any device, like a Chromecast or an Apple TV or another laptop. But I’ve fallen in love with Chromecast so I have two now at my house. And I just use it as my speaker system and to watch any video and things like that. So, that thing.
+
+And then the other one is something called Waltr, W-A-L-T-R. And it’s just this really simple app that it doesn’t even have a UI. It does, but it’s just one color that says Waltr. And you just drag and drop any video files on it in any format, in any resolution, with any audio quality. Just drag and drop them on there and it converts them to iPhone or iPad format and sends them automatically to your device. So, I use that to download videos and not have to worry about, how do I encode it to get it into iTunes? I just drop in onto Waltr and it shows up. That’s it.
+
+<strong>CHUCK:  </strong>Awesome. Alright, well thanks for coming. I’ve been a fan for a while and it’s been fun to chat.
+
+<strong>MITCHELL:  </strong>Cool, yeah.
+
+<strong>JESSICA:  </strong>Yeah, thanks.
+
+<strong>MITCHELL:  </strong>Thanks for having me.
+
+<strong>CORALINE:  </strong>Thank you, Mitchell.
+
+<strong>JESSICA:  </strong>And thanks for making such a great thing.
+
+<strong>MITCHELL:  </strong>Oh, thanks, thanks. No problem.
+
+[Chuckles]
+
+<strong>CHUCK:  </strong>Alright. Well, I guess we’re done. We’ll wrap up and we’ll catch you all next week.
+
+<strong><em>[This episode is sponsored by WatchMeCode. Ruby and JavaScript go together like peanut butter and jelly. Have you been looking for regular high-quality video screencasts on building JavaScript done by someone who really understands JavaScript? Derick Bailey’s videos cover many of the topics we talk about on JavaScript Jabber and Ruby Rogues and are up on the latest tools and tricks you’ll need to write great JavaScript. He covers language fundamentals so there’s plenty for everyone. Looking over the catalogue, I got really excited and can’t wait to watch them all. Go check them out at RubyRogues.com/WatchMeCode.]</em></strong>
+
+<strong><em>[This episode is sponsored by MadGlory. You’ve been building software for a long time and sometimes it’s get a little overwhelming. Work piles up, hiring sucks, and it’s hard to get projects out the door. Check out MadGlory. They’re a small shop with experience shipping big products. They’re smart, dedicated, will augment your team and work as hard as you do. Find them online at MadGlory.com or on Twitter at MadGlory.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at Blubox.net.]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]</em></strong>
+
+<strong><em>[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]</em></strong>

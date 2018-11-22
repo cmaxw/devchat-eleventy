@@ -1,0 +1,473 @@
+---
+layout: layouts/post.njk
+title: >
+      112 iPS Apple Pay with Erik Kerber
+date: 2015-07-09 15:00:00
+episode_number: 112
+duration: 
+audio_url: https://media.devchat.tv/iphreaks/iPhreaks112ApplePay.mp3
+tags: iphreaks
+---
+
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:05 - Erik Kerber Introduction</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://twitter.com/erikkerber">Twitter</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/eskerber">GitHub</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.erikkerber.com/">Blog</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.target.com/">Target</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://itunes.apple.com/us/app/target/id297430070?mt=8">Target App</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:38 - </span><a style="text-decoration: none;" href="https://www.apple.com/apple-pay/">Apple Pay</a></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">04:01 - Why care about Apple Pay?</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Reference/PassKit_Framework/index.html">PassKit</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">05:44 - Integration</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://stripe.com/">Stripe</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">09:53 - The API</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Encryption</span></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">12:48 - How To Do/Setup/Use Apple Pay </span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">17:41 - Apple Pay and </span><a style="text-decoration: none;" href="https://www.apple.com/ios/ios9-preview/">iOS 9</a></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">19:56 - Offline Use</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">22:16 - Apple Pay and the Apple Watch    </span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">27:30 - Pain Points</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">30:47 - The Impact of Adding Apple Pay to the Target App</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Picks</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://despair.com/collections/demotivators">Demotivators</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jaim)</span>
+<a style="text-decoration: none;" href="http://www.blitzortung.org/">Blitzortung</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Mike)</span>
+<a style="text-decoration: none;" href="http://www.hopperapp.com">Hopper</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Andrew)</span>
+<a style="text-decoration: none;" href="http://www.arrl.org/what-is-ham-radio">Ham Radio</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Andrew)</span>
+<a style="text-decoration: none;" href="http://www.scouting.org/">Boy Scouts of America</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://elixir-lang.org/">Elixir</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="https://pragprog.com/book/elixir/programming-elixir">Programming Elixir: Functional |&gt; Concurrent |&gt; Pragmatic |&gt; Fun by Dave Thomas</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://revealapp.com/">Reveal</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Erik)</span></span></p>
+
+<h3>Transcript</h3>
+
+<strong>CHUCK:</strong> You guys are Minneapolis friends.
+
+<strong>JAIM:</strong> Hey, we’re taking over.
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York and L.A. bid on iOS developers, providing them with salary and equity upfront. The average iOS developer gets an average of 5-15 introductory offers and an average salary offer of $130,000/year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It’s totally free for users, and when you're hired they also give you a $2,000 signing bonus as a thank you for using them. But if you use the iPhreaks link, you’ll get a $4,000 bonus instead. Finally, if you're not looking for a job but know someone who is, you can refer them on Hired and get a $1,337 bonus as thanks after the job. Go sign up at Hired.com/iphreaks]</em></strong>
+
+<strong><em>[This episode is sponsored by the App Quality Bundle, the ultimate toolset for providing better software. It includes six different tools for one incredibly low price. It’s a full stack set of tools that covers continuous integration, testing and monitoring for you web apps, mobile apps and APIs. It’s great for new projects and companies. The offer is $999 for one year of service for all six services. It is available for new paying subscribers only. Go check out the website at buildbetter.software for complete terms and conditions. The offer ends April 15, so don’t wait.]</em></strong>
+
+<strong><em>[This episode is sponsored by DevMountain. DevMountain is a coding school with the best, world-class learning experience you can find. DevMountain is a 12-week full time development course. With only 25 spots available, each cohort fills quickly. As a student, you’ll be assigned an individual mentor to help answer questions when you get stuck and make sure you are getting most out of the class. Tuition includes 24-hour access to campus and free housing for our out-of-state applicants. In only 12 weeks, you’ll have your own app in the App store. Learn to code, it’s time! Go to devmountain.com/iphreaks. Listeners of Iphreaks will get a special $250 off when they use the coupon code IPHREAKS at checkout.]</em></strong>
+
+<strong>CHUCK:</strong> Hey everybody, and welcome to Episode 112 of the iPhreaks Show. This week on our panel we have Jaim Zuber.
+
+<strong>JAIM:</strong> Hello, from [inaudible] South of Minneapolis.
+
+<strong>CHUCK:</strong> Andrew Manson.
+
+<strong>ANDREW:</strong> Hello, from Salt Lake City.
+
+<strong>CHUCK:</strong> Mike Ash.
+
+<strong>MIKE:</strong> Howdy, from fair-fetched Virginia.
+
+<strong>CHUCK:</strong> I’m Charles Max wood from Devchat.tv. Yeah, I’m back. We also have a special [crosstalk]–
+
+<strong>JAIM:</strong> Dut-dut-duh!
+
+<strong>CHUCK:</strong> Yeah, I know. I think every week in June, I had something scheduled right when we record this. And the other shows I’ve missed, like two out of the four or five, but this one just, yeah, anyway.
+
+We also have a special guest this week; it’s Erik Curber.
+
+<strong>ERIK:</strong> Hi, from Minneapolis.
+
+<strong>CHUCK:</strong> You want to introduce yourself?
+
+<strong>ERIK:</strong> Yeah, sure. I work for Target – the Target. I’m an iOS developer on, we’ll call, our flagship applications. So we have a few out there – I mean, if you’re into Targetland, cartwheels are big one that people tend to use quite a bit. I work on the actual Target, the app, which is, you know, where you’re going to do all your commerce and in-store stuff.
+
+I’ve been doing iOS development for a long time now and I’ve worked pretty tightly with the Apple Pay integration back when we launched [inaudible] come in here and talked about.
+
+<strong>CHUCK:</strong> Yeah, we did. We brought you in to talk about Apple Pay. Do you want to give a quick overview, I’m assuming most people know who it is because iOS developers keep track of what Apple’s doing but at least give us some place to start from.
+
+<strong>ERIK:</strong> It’s Apple’s big payment feature they introduced back. Read alongside the iPhone 6 back in last September, and it is basically their payment system built on top of an existing tokenization system that I’d – the name of it [inaudible] my mind. But basically what it does is it provides a secure way for an iPhone user to have a credit card to their phone and you use that to make payments both in-store and via an NSC terminal, or in an application itself like for instance, what we did with the Target app. Now it’s got a pretty solid tokenization system that backs it up, now the code behind that is to make it more secure in terms of somebody trying to intercept your token you pass to an NSC terminal that becomes useless to them without some of the existing infrastructure that put it in place.
+
+So it’s meant to not – well, I guess their goal or their dream is to have it replace credit cards, but another goal that they have is to minimize what we have in your wallets so all of your payment information – I think that Apple has might especially is that you can do everything with your iPhone or with anything else – your Apple watch and your Apple ecosystem, I guess you could say.
+
+<strong>CHUCK:</strong> Right. So as an iOS developer, why do we care about Apple Pay? Because it seems like it’s kind of a point of sale thing.
+
+<strong>ERIK:</strong> Right. Well point of sale is half of it. The other half is what you can do in the app, so there’s a techie part of PassKit framework so it’s the same framework that handles your passbooks. Actually, it also gives you the ability to buy stuff within an app itself. Now the key difference between in-app purchases, which are typically used to buy what you might call software items like level upgrades or something in a game – Apple Pay is meant to actually buy physical items or physical world things, so when you use Apple Pay in an app, you are actually using your credit card, and in addition to the touch ID in iPhone 6 – six isn’t [inaudible] actually. Buy something, say in a Target app, so suppose you just want to buy a pair of beetle phones and you can use Apple Pay to actually purchase it to the app channel as opposed to actually going to the store as well.
+
+It’s got some other cool user case outside of just buying things – I think Ubers [inaudible] the world. You can use it to actually pay for your cab rental, so I think one of the coolest user cases is you don’t need to create an account. With Apple Pay, one of the biggest ideas behind of it is you can just go into an app, your phone knows kind of who you are, knows your address and your payment information, and you can actually pay for your Uber ride with your Apple Pay so you’re in the Uber app and you’re buying something with your credit card.
+
+It’s a whole world of commerce, possibilities that you can just get with a secure payment system they’ve built up.
+
+<strong>MIKE:</strong> So how is that to integrating into an iOS app? I guess if you’ve done that with Target, how is it to work with? What kind of difficulties did you run into?
+
+<strong>ERIK:</strong> Well, the API itself is actually pretty simple. I think if you look at the Apple documentation, it’s probably about two or three crashes you create. You create an object we call PK – payment requests – and you pass it into a PK payment, a view controller, and there’s a few delegate methods you handle with that are actually, will trigger one of the user changes with their credit card or their shipping address or contact information. And it gets solved pretty simple like – I honestly like to joke about it is that the DOS address port which is probably one of the most maddening APIs Apple gives us, but that‘s what I consider the easy part. Now the part that’s actually more difficult suppose you have an app of yourself or you’re working for a company that wants to do Apple Pay – actually there’s quite of a backend support which supports it well. So you actually have the – handle the entire ecosystem of Apple Pay yourself depending on who exactly is for payment processor.
+
+So I guess to elaborate on that, if you use Stripe for instance, they kind of handle that for you. They’d actually provide special flavor of their STK, handle the backend for you. But if you’re like us, you just a [inaudible] payment processor, it’s quite a bit more effort to survey and ingrate the backend of tokenization with some of the payment processors that they use, so it’s actually when you do this I guess for some reason, it’s a whole ecosystem challenge, more so even than just what you do in the iOS app itself.
+
+<strong>JAIM:</strong> So let’s talk about Stripe. If you’re doing a Stripe integration, they just write an STK, do we talk with the STK directly? Do we need to do any server work? We have our server teams working down on stuff like this.
+
+<strong>ERIK:</strong> Yeah, so it’s a little bit easier with Stripe because they actually handle the – so the user puts the thumb on the touch ID and it creates a token. And you actually sent that token to Stripe and they sort of do some magic around that. And in the Stripe world actually gives you back a Stripe token so – and that thing actually works with their API backend and beyond that, it’s actually like a regular credit card to you.
+
+But you do still have some server work to go with in terms of, “Okay you’ve authorized a payment”. You actually have to tell your own servers to fulfill that order, so your server has to take in that Stripe token and say, “Okay, they bought a pair of shoes, now–,“ or “Fulfill this shoe order,” and it uses that – the Stripe backend – and fulfill that order, if that makes sense, so.
+
+Your server will actually send the final token to Stripe, and then your backend will also have to do whatever it needed to do to fulfill the order.
+
+So there’s not much you can do with Apple Pay that just involves your app and some magic backend, like you’re going to need a backend of your own.
+
+<strong>CHUCK:</strong> You know that’s because there’s some fulfillment DDO that you have to work with, whereas with let’s say in-app purchases. You’re just working through iTunes.
+
+<strong>ERIK:</strong> Right. And I think  you could, in theory, send all that final stuff straight to the Stripe from your iPhone but that’s kind of wrong. How does that purchase get backed up in any way, something that I would not recommend because of them?
+
+<strong>MIKE:</strong> Asking for trouble there if you’re letting arbitrary clients talks directly to an API like that. [Chuckles]
+
+<strong>ERIK:</strong> Yeah.
+
+<strong>CHUCK:</strong> Refund all the things. [Chuckles] I was just trying to figure out then. So as an iOS developer, if you’re implementing things with Apple Pay, you’re going to be working with somebody on the backend or doing backend programming as well, right?
+
+<strong>ERIK:</strong> Yeah. And most likely you’ll be working with a mollusk special API that actually accepts – you’ll get back some data from the Apple Pay STK, and that’ll include things like the payment token and them some other sort of metadata about the transaction such as the total order of it. And you have to have the backend except that payload and usually that backend will then take that token data and send it off to the payment processor which usually owns the proper key to decrypt that. So you’re going to work with them to create an API to accept that for one.
+
+<strong>CHUCK:</strong> So I guess the other thing is, is the API that you’re building then pretty simple on the backend? [Crosstalk] Is it sort of painful?
+
+<strong>ERIK:</strong> Of course it wasn’t, and it’s one of the good things to talk about is that Apple Pay makes it easier for users, and that it turns all your information on it. But you kind of build this on top of any existing infrastructure, chances are you’re going to have some tug-of-war over who owns what. Princeton’s suppose you have a backend that’s like, “Okay, we store these addresses, we store your payment information.” I always say that when you have a way to relinquish all of that storage to Apple. I mean, you kind of have to work around some of the assumptions you’re backend might’ve made to make it work with your system. And so for a big existing company it’s probably pretty tough.
+
+Now if you’re creating a startup and [inaudible] use Apple Pay, he can probably streamline what you’re doing to just match – it’s kind of what we have going on here but I guess kind of loop back around – it kind of depends what you’re starting with to see how complex your APIs are.
+
+<strong>CHUCK:</strong> Right. And how much of the information is opaque to the backend service? Because you said that they had a key, they had to decrypt some of the information.
+
+<strong>ERIK:</strong> Yup. It’s just the actual payment information. The payment, I mean, the thing that decrypts the payment token into like what comes out of it is like the total amount of the purchase and some other stuff.
+
+What is actually visible to the backend in our app is we actually do getting our [inaudible] their shipping address, their contact information and stuff like that. So we do send those – we do get those in text so we can send to our backend, but the payment itself is decrypted by whoever owns the private key.
+
+<strong>CHUCK:</strong> Gotcha.
+
+<strong>JAIM:</strong> So in dealing with the users of Apple Pay, do they have any control over which credit cards are used for this? Is their iTunes accounts – how do the users have control over what accounts are being set up with Apple Pay?
+
+<strong>ERIK:</strong> Yeah, even the ones that are in iTunes you need to go to the verification process so – I think if you’re using through it for the first time and you had one credit card in iTunes and you, say, upgraded to iOS 8, I think what you’d see is, “Hey, do you want to add this iTunes card to Apple Pay?” And if you say ‘yes’ then you actually have to go to their bank verification process where they usually – depends on the bank itself, but I think like purchase for instance will send you a six digit confirmation code. So you really control it by just going through that process for any card you want on Apple Pay. And then of course you still have to then select that card when you’re about to make a purchase as well.
+
+<strong>JAIM:</strong> Okay, so you’re making a pay if you have multiple cards registered to your name, you can then choose which one to use?
+
+<strong>ERIK:</strong> Yeah, [inaudible] if you actually – you tap on the payment method on the Apple Pay sheet it’ll bring up a secondary view that’ll have all of your available cards that you can use.
+
+<strong>JAIM:</strong> Very cool. I think we should back up and talk about how do we even do Apple Pay? I’ve seen stores and coffee shops in San Francisco and say, “Hey, we take Apple Pay.” And I’m like, “Wait a minute, am I even set up for that?” And I had to look up my money because I knew I had a watch, which supposed it could work, but how do you do that from the watch? Or with phones?
+
+<strong>ERIK:</strong> Was that Bluebottle by any chance?
+
+<strong>JAIM:</strong> It was Bluebottle, yes.
+
+<strong>ERIK:</strong> Right across the Stripes headquarters?
+
+<strong>JAIM:</strong> Yup.
+
+<strong>ERIK:</strong> So with that, you’re wondering how you know do you have it set up?
+
+<strong>JAIM:</strong> Yeah. [Crosstalk] [inaudible].
+
+<strong>ERIK:</strong> So yeah, I mean if you set up Apple Pay at that time, what will happen is you put your phone next to the [inaudible] reader. If the context of the Apple Pay will actually automatically pop up even if your phone’s locked, I think you can just apply your thumb to the fingerprint scanner and it’ll all go through.
+
+Alright, now if you’re on the watch, there’s a little bit of user interaction you need to do ahead of time which is double tap on the, how do you call that, the slip button? The non-physical crown button and it’ll actually enable the Apple Pay contacts itself. Now if you don’t have it set up then you just probably won’t do anything if you approach the terminal. Basically you have to have it set up at that time. You won’t prompt do that or anything.
+
+<strong>JAIM:</strong> Okay, so if you have it set up you’ll get some notification, your wrist will vibrate or something and you’ll say, “Oh, I have the option to do Apple Pay,” just like when you’re near?
+
+<strong>ERIK:</strong> If you do the phone, yes. By near I mean you put the phone like a few inches of the reader itself. But if you’re with a watch, you have to double tap the slip button and then it’ll – once you put your wrist by the terminal then the payment will just go up through. [Crosstalk]
+
+The double tap is kind of a replacement for the touch ID’s sensors, triggering the payment itself.
+
+<strong>JAIM:</strong> Okay, so it doesn’t really notify you you’re within ten feet or anything technically…
+
+<strong>ERIK:</strong> Nosh Yup.
+
+<strong>JAIM:</strong> Okay.
+
+<strong>ERIK:</strong> Yeah, so there’s a lot of terminals out there that my reaction is if an NSC terminal and I’ll put my phone up there. And most of the time, it’ll work. I mean I’m not an expert in point of sales systems, I don’t know what dictates if it’ll work or not. I mean, it’s pretty obvious that some places just by having an NSC reader can accept Apple Pay without any work, if you saw that with like The Walgreens. But usually if you see and NSC terminal there’s a good chance that it’ll work. You just kind of have to put your phone right next to it just to make sure or see the big Apple Pay sticker they may have on top of it.
+
+<strong>CHUCK:</strong> I work for some companies that had proximity sensors that would let you in the doors. I’m just waiting for somebody to try and hipjack the credit card machine.
+
+<strong>ERIK:</strong> Yeah. [Chuckles]
+
+<strong>MIKE:</strong> I used to do that actually if I had an NSC credit card. I do that every so often it was very rare defined terminal that actually accepted them and was at the right height and all that, butefinitely doable.
+
+<strong>CHUCK:</strong> jump up and down with your hips
+
+<strong>MIKE:</strong> Right.
+
+<strong>ERIK:</strong> Yeah, I mean I haven’t actually opened up the NSC chip printing is not Apple Pay it’s a cool [inaudible] but for now just basically going to activate the phone terminals. I guess you may be talking about whether or not an NSC reader on the door would recognize our phone in general, but–
+
+<strong>MIKE:</strong> Oh, you just have to charge people to get into the building. [Chuckles]
+
+<strong>ERIK:</strong> Oh, there you go.
+
+<strong>ANDREW:</strong> I wonder what you were talking about; if somebody comes up to a physical reader and they don’t have Apple Pay set up, there’s no provision for them; the phone won’t prompt them to set it up or anything, which actually sort of makes sense but in terms of adding Apple Pay support to your app, what the experience like if a user goes to check out in your app and they’ve not set up Apple Pay up on their phone but you have Apple Pay in your app? Can you detect that? Is there some way to tell them they need to go set t up or what, or how does that work?
+
+<strong>ERIK:</strong> Yeah, there’s a series of classic methods on PK, a payment view controller that actually, say, can use Apple Pay and then one that says can use Apple Pay using payment types and you could pass in a series of payments works like Visa or Mastercard. Depending on if those are turned or not you can know if they have a capable device and if they have cards on there that can make the payment off. If they don’t, then you could probably just place a custom view by yourself and let them know to go add it.
+
+But for now I think you can’t actually put a – as of iOS 8, you can’t add a card in your app itself; we actually have to go over the settings app ad open up the passcode for Apple Pay cabinet and add it from there.
+
+<strong>ANDREW:</strong> Right, okay that makes sense. Another question that comes to my mind is, is there any minimum for using Apple Pay? I know of course whatever payment processing you’re using may enforce some minimum, but could you charge somebody one cent? Does Apple care?
+
+<strong>ERIK:</strong> No, they don’t. Not sure if you’re company would lose money after process – I don’t know what a credit card thief for one cent is. [Chuckles]
+
+<strong>ANDREW:</strong> Yeah.
+
+<strong>MIKE:</strong> I think they’re usually structured as some sort of like fixed fee around 20 or 30 cents plus percentage, so yeah you would probably be paying a customer to take your stuff. [Crosstalk] So it’s just curious you mentioned as of iOS 8, if you look at iOS 9 at all and is there anything interesting coming up in this area there?
+
+<strong>ERIK:</strong> Yeah, so I’ve been digging my head through what’s public and they did had some cool stuff. Now, actually I had talked to [inaudible] and the impression that I got, a lot of the magic is still NDA, but in terms of how the new – they did some kind of bad grown to date. They announced this support for private network cards, which is kind of like a very big deal. I think in the Keynote they showed this cold had their whatever reward card they had in Apple Pay. Now that one, you do actually need to add it within your app itself. [inaudible] thing is – you know I remember there’s a lot of talk back when it was first released that you can add these to Mastercard or AmErikan Express but there’s all these we call “private label cards” on the wild end. You can’t add to them because they’re getinub back by those three. Or I guess as of iOS 9, discovers well, and there’s basically no way for Apple to talk to the banks that handle those.
+
+Now they did have support for private cards with iOS 9. Now the details they had are still kind of getting through but my impression is that you actually have them in your app and they are just passbook passes just like a ticket to a baseball game, only represents something that you can pay with instead of just an arbitrary ticket.
+
+Now the other kind of [inaudible] part of that is, from what I believe, is that you don’t – you can’t add these private cards in the settings apps so if I had, suppose Starbucks had a drone card, I couldn’t actually go to the settings app and just type in whatever credit card number they have on their card because they wouldn’t be able to recognize or tell that it’s – what kind of card it is. So instead I believe you are not only able to but required to add private label cards from your app itself, so there’s newbie controllers that actually allow you to add a payment card to passbook, and you can kind of leverage some of your own private back and APIs to sort of grab what those card numbers are and add them.
+
+Yes, some may have tried to wrap my head around but it’s [inaudible] going to be possible with the iOS 9.
+
+<strong>CHUCK:</strong> I’m also wondering, does Apple Pay work when you’re offline?
+
+<strong>ERIK:</strong> No. Communications need to happen between Apple and your phone itself, so – that’s actually a good question. Maybe I’m not entirely correct on that one so–.
+
+Imagine that you have Apple Pay, you have this cryptogram on your in a secure enclave on the phone, and there doesn’t need to be a transaction between your phone, Apple and the bank when you have the credit card. Now, I was actually – I think I may be wrong in saying – I said that before because once you have that [inaudible] enclaves, then all that inscription happens in the secure enclave itself and it is sent into RedFC and verified on the point of sales back in – back to tem processor on Apple. Gosh, I should know that but I believe it should work.
+
+<strong>MIKE:</strong> I had to say that it has to be because it’s too fast in the phone’s end. You know, it takes like a second for it to–. [Crosstalk]
+
+<strong>ERIK:</strong> Yeah, you’re totally right on that idea, calculates the cryptogram or the token on the diyf. Just the sink inside the phone itself. So yeah, RedConduct in the should not in this–.
+
+<strong>JAIM:</strong> We’ll just edit that out.
+
+<strong>ERIK:</strong> Yeah. [Chuckles]
+
+<strong>ANDREW:</strong> I also know that Apple Pay works on the watch even if you don’t have your phone with you. That‘s one of those few things that works without the phone being nearby, so that must work offline. But of course if you’re accepting Apple Pay in your app, it’s sort of hard to place an order and do a processing without a network connection.
+
+<strong>ERIK:</strong> Actually, it’ll not work without the phone and the watch, it’s such an interesting thing. I don’t know, the watch stuff also has a secure enclave and it’s probably the reason why.
+
+<strong>ANDREW:</strong> Yeap, well you’ll figure that out once you go to the store and you forgot your phone and your wallet, but you have your watch on.
+
+<strong>CHUCK:</strong> [Chuckles] Nice.
+
+<strong>MIKE:</strong> They really should have something on the watch that’s like stabs you on the wrist when it noticed that you’ve left your phone behind, you know, before you get too far. [Chuckles]
+
+<strong>ANDREW:</strong> You know I was just thinking about it yesterday at a coffee shop, because I was at a coffee shop and I had my phone sitting out on the table. I just had the thought, if I forget my phone when I leave my watch should tell me that I left my phone somewhere you know. But, no. they don’t have that.
+
+<strong>MIKE:</strong> It’s some conspiracy – the more you lose your phone, the more you have to buy new ones so they really don’t have the incentive.
+
+<strong>ANDREW:</strong> Yeah, of course; they want to sell as many phones as they can. They don’t really even have Find My iPhone on the watch – well, I guess that’s not true. They have that thing where you can pin your iPhone and it make a sound. That is the best feature ever by the way.
+
+Yeah, I use it to find my phone in the couch plenty of times.
+
+I’m curious to know – speaking about the watch – is there any support adding Apple Pay to an Apple watch app?
+
+<strong>ERIK:</strong> An Apple watch app? No.
+
+<strong>ANDREW:</strong> Yeah, so I don’t know if Target has some Apple watch app but imagine there’s a Target app, I think there’s an Amazon app for sure, but can you – what, people buy stuff from their watch?
+
+<strong>ERIK:</strong> We do have a watch app. They just announced it in the last WWC that you can add Apple Pay cards to your watch directly on your watch instead of just going – right now you cannot go through your phone and do that. Actually–
+
+<strong>ANDREW:</strong> Yeah, I had to call my bank to add cards to my watch even though they were already on my phone. So that’s a little silly.
+
+<strong>ERIK:</strong> Yeah, it’s actually – maybe I misinterpreted that. If you could make Apple Pay purchases on your watch it’s so – that’s a research gap on my part.
+
+<strong>CHUCK:</strong> It’s still raises the question, though, of whether it really makes any sense at all to browse a store on your watch.
+
+<strong>ANDREW:</strong> Well, you know I find things that you want to buy and, I don’t know, to me that does not actually make any sense.
+
+<strong>ERIK:</strong> That doesn’t make sense but I can trade stocks in my watch. There’s no reason I couldn’t pay for an Uber from my watch, right? You wouldn’t browse, you wouldn’t shop or something like that. But some of those really straightforward transactions like a cab ride, that might make sense.
+
+<strong>ANDREW:</strong> I guess you’re right.
+
+<strong>JAIM:</strong> So here’s a wacky idea: could you use the in-app buying stuff as sort of a substitute for a point of sale terminal sort of like the Apple Store experience where you go into the physical store, pick up another item you want, you point your phone at it, pay in the app and walk out the door?
+
+<strong>ERIK:</strong> You can try to think of some weird old type stories, you can do that with the Target app because with our app you can purchase something or ship for you, or you can purchase to pick up in the store. Now you can in theory sit on the store, buy it in the app, say to pick up in the store and then walk over to the service desk and pick it up. I mean that is a real use case. Now, I think there’s some – we’re trying to encourage you not to do that – I can’t remember why though, but if we do it like in-store pricing or [inaudible] or [crosstalk] I mean I guess something’s stopping you.
+
+<strong>MIKE:</strong> It might just be a matter of patience, too. If it takes ten minutes for someone to get the item people are going to complain because people are unreasonable.
+
+<strong>ANDREW:</strong> Well, Apple [inaudible] and in the Apple Store you can use Apple Pay in the app to buy something and walk out the door and you never even have to talk to a person in the store, but you always feel like a shoplifter. You do it.
+
+<strong>ERIK:</strong> Yeah right, I was just thinking of that as they [inaudible] that.
+
+<strong>MIKE:</strong> Yeah, and I wonder how did they even know that you’re not shoplifting – how does that work?
+
+<strong>ANDREW:</strong> I’ve used it a few times and nobody’s even said anything to me. I know where they keep the bags at the Apple Store and I’ve grabbed a bag myself without even talking to anyone and no questions asked.
+
+<strong>MIKE:</strong> You see, that’s only half of the experiment; you still need to do the control group where you actually do steal so you can see if they do catch it [chuckles].
+
+<strong>ANDREW:</strong> I’ll let you try that one.
+
+<strong>MIKE:</strong> I’ll report back if I ever get out of jail.
+
+<strong>CHUCK:</strong> I was just going to say I’ll video Andrew doing it.
+
+<strong>JAIM:</strong> It’s for science. It’s all for science.
+
+<strong>CHUCK:</strong> [Chuckles] There you go.
+
+<strong>ERIK:</strong> Actually, I’ve heard a funny story around that in learning how they know or do not know whether you stole something. Well, who watch NBA basketball in the 90’s here – anybody?
+
+<strong>CHUCK:</strong> A little bit.
+
+<strong>ERIK:</strong> Rex Chapman was busted a little bit ago – I mean what’s the date here, September 19, 2014 for stealing a bunch of stuff from Apple Stores all the time, but acting like he bought them. [Chuckles] He would just pick up an item and walk out the store, and they’ve actually busted him but it’s a funny story because he made 22 million dollars during his NBA career, but–.
+
+<strong>MIKE:</strong> I guess the word [inaudible] kind of answers that question isn’t it?
+
+<strong>ERIK:</strong> Yeah. Judging from the Keynote I think sports people are having trouble of forming Apple products than just shooting a bunch in one picture. [Inaudible]
+
+Who knows if that one isn’t staged? [Chuckles] But great marketing material.
+
+<strong>MIKE:</strong> Well, apparently they must charge pro sports players way more than they charge us, because that one guy who’s like, “I want an iPad or five thousand dollars,” you know.
+
+<strong>CHUCK:</strong> Yeah.
+
+<strong>MIKE:</strong> They must have a special catalog for those guys.
+
+<strong>CHUCK:</strong> I guess so.
+
+<strong>ERIK:</strong> Well played in.
+
+<strong>JAIM:</strong> I had.
+
+<strong>ANDREW:</strong> Yeah, it’s the Apple iPad edition, right?
+
+<strong>JAIM:</strong> Yes, that’s right. [Chuckles]
+
+<strong>MIKE:</strong> Comes as a gold chest trap.
+
+<strong>CHUCK:</strong> [Chuckles] Yeah I have a watch crown on the side – a giant one.
+
+<strong>JAIM:</strong> So when we were developing for Apple Pay, there’s a reason why the PassKit framework is it like Objective C, or is it like the same API?
+
+<strong>ERIK:</strong> PassKit’s Objective C, its address book is the same API. Now actually, thankfully it’s something that actually digest the member is they did release, I believe, it was iOS 9 not iOS 8.4 then. They released kind of [inaudible] around the address book stuff, which, so thankful for that [inaudible] PK PassKit contact info class actually wraps that horrible address book API into something that’s Objective C or Swift-friendly. The horrible passbook API is Objective C.
+
+<strong>JAIM:</strong> A horrible C API on Apple – I’ve never heard of that.
+
+<strong>ERIK:</strong> Right.
+
+<strong>MIKE:</strong> Yeah, they’re usually so nice and friendly.
+
+<strong>JAIM:</strong> But for iOS developing, for this pretty straightforward [inaudible] lot of quirks.
+
+<strong>ERIK:</strong> Yeah, it’s super straightforward. It’s something you can usually find one class with a straight phase, nothing too complex. The only sort of – because there’s one kind of other painful thing that always got me was – is kind of the little undocumented behaviors that you sort of [inaudible] when you work your way through itself. The first one I ran into was there’s a call back or a delegate method for – they didn’t change their shipping address. And it gives you that passbook reference – not passbook, the address book reference. And so what you do is you try to grab all the information out of there – there’s their name, there’s their zip code, there’s their city, there’s their address – except [inaudible] city and street are no doubt. And you have no idea why you’re thinking you just screwed up your address book calls which, of course. But after you play it for a while you see those field docs get populated when they complete the payment, [inaudible] made actually scan their finger. That’s actually a feature – not a bug in terms of you get the call back whenever they switch, just like the shipping address, but Apple doesn’t want you to have access to the finer details of the shipping address until they’ve actually confirmed their purchase. So you can’t actually grab their street address until you know they’re going to ship there.
+
+Now maybe we can kind of swing back to is it easier or hard depending on if you have [inaudible] backend with you or our backend happen to assume that you have the whole address when you calculate shipping address or sales tax. So it’s kind of those little new onsets that sort of they bite you when you least expect it.
+
+And another one was it’s all over there online. All items are done with NSTest phone numbers. And if you screwed it up or sent an unknown number on it, you’re NSTest number doesn’t like, the view controller’s basically just nailed out when you request one. And there’s not a lot of information to why in the [inaudible] console it just says “failed to print payment view controller. Good luck figuring out why.” [Chuckles]
+
+<strong>JAIM:</strong> Thanks Apple.
+
+<strong>CHUCK:</strong> Yeah.
+
+<strong>MIKE:</strong> Those are always delightful.
+
+<strong>ERIK:</strong> Yeah. So one of the things I ran to is that they don’t accept Princeton’s nil if you’re doing a shipping method so you can have them select which shipping method they were going to use – overnight, standard or whatnot. But if you don’t provide an actual total for that, like suppose your backend API just totally can’t help with that anytime. It’s just how I feel about the whole view controller.
+
+<strong>MIKE:</strong> So how do you candle that then if it’s something you just can’t provide but it forces you to?
+
+<strong>ERIK:</strong> Well, you just don’t use it. For instance, when we first launched we just didn’t give the opportunity to select shipping method; we just kind of defaulted them to our standard, and they wanted to pay tons and tons of dollars to get it overnight, then we just couldn’t do that.
+
+With Apple Pay we eventually fixed that so we can now support that. But this is kind of one of those other [inaudible] where the framework itself said, “You know, we’re not going to provide our [inaudible] cost, price, shipping methods using our UI, so–.
+
+<strong>MIKE:</strong> Maybe that’ll be an incentive to improve that if possible. And that sometimes Apple just does not like to face up the real world but sometimes it just pushes things along. I don’t know.
+
+<strong>ANDREW:</strong> I don’t know how much you can say about this so feel free to just defer the question, but I’m sort of curious to know what impact adding Apple Pay had on the Target app.
+
+So say you have an app that already allows users to buy things using your existing payment processing/ordering system where they just put their credit card number into the app; does adding the convenience of Apple Pay – and also the security benefits and stuff – does that seem to have an effect on, you know, made purchasing more attractive for some set of users?
+
+<strong>ERIK:</strong> Yeah, it definitely has paid off in the [inaudible]. I think Apple even mentioned that in some of their sessions, conversion for Apple Pay is just much higher that traditional payment methods. And if you hadn’t cover sign conversion basically means number of users that buy something versus number of users that use the app for something in their shopping cart.
+
+It’s very high for Apply Pay; part of that is there’s a lot of enthusiasts that are excited to use it, and we’re all for helping them use that to make their purchases.
+
+It does come with like a much [inaudible] just some kind of pain points and development-wise. Like for instance, Target has a list of credit cards or shipping addresses on file for your account, and then so does Apple – how do you sort of mesh those options on one solid UI that have two entirely different data sources?
+
+We did put some square pegs and some round holes just to give Apple Pay an option that’s selectable next to your either three credit cards that are on file in our app, but I do think it’s worth it. People not only want Apple Pay apps but I think largely they expect it nowadays. I mean, you can even see that in some review sometimes where an app won’t support Apple Pay and people would give it a [inaudible] and say, “Why don’t you support Apple Pay?” Madly enthusiast.
+
+<strong>ANDREW:</strong> Yeah, that’s interesting. I imagine they do that in stores, too. I know I sort of prefer to shop at stores that accepts Apple Pay now, for various reasons but one is the grocery store near me supports Apple Pay and that scenario of forgetting my phone and my wallet was a true scenario and I was able to pay with my watch and it was no big deal and it was kind of cool.
+
+<strong>CHUCK:</strong> Right. Alright, anything else that we should talk about with Apple Pay? I think I’ve actually learned quite a bit; it’s not something I’ve looked into at all. Erik has done a good job of answering my questions.
+
+<strong>ERIK:</strong> Glad to help. It’s not easily t just simply dive into an experiment simply because of all the backend work you have to do. It’s more than just [inaudible] a few classes on Objective C or Swift and seeing it pop up on the screen.
+
+<strong>ANDREW:</strong> You can give me your credit card number and I’ll experiment with it. [Chuckles] Alright, well let’s go ahead and do some picks.
+
+Jaim, do you want to start us off with picks?
+
+<strong>JAIM:</strong> Sure, I’ll start off. I’ve got on pick. Back when I was a younger developer, those motivational posters were pretty common back then – it must’ve been thrown in by whatever company did office supply to the cubicles. Here, we’ll throw in these motivational poster. So one of my co-worker’s actual plan that we will group a place in one of these motivational ones with a Demotivator. And it never carried out but I like to think about it, so every once in a while I go over to the demotivation site and can get a picture of a bear sitting in a stream with a salmon in his mouth and [inaudible] ambition which all looks pretty nice, but underneath it it’s a journey of a thousand miles sometimes ends very badly–.
+
+We have to replace the motivations ones with one of these and see if anyone ever notices. We never got around to do it but [inaudible].
+
+<strong>ANDREW:</strong> It’s a noble goal because excessive happiness is a huge problem in the world today. [Chuckles]
+
+<strong>JAIM:</strong> You’re [inaudible] for activity. So yeah, that’s my pick – Demotivators.
+
+<strong>CHUCK:</strong> Alright. Mike, do you have some picks for us?
+
+<strong>MIKE:</strong> I’m going to pick Blitzortung today, which is on my mind because we had an ice pick storm roll here in Virginia yesterday, and what it is, is it volunteers run electronic lightning detectors all over the world and feed all the data back to a central server, which then plots real-time lightning strikes on a map of the world on your computer and you could just watch this stuff go on, and it’s really cool, and it’s even useful because you can look at what’s going on in your area and see where the storms are coming in. Or it’s just fun to sort of sit back and enjoy and marvel at the fact that stuff can be detected and shown in real-time from so far away.
+
+<strong>ANDREW:</strong> That sounds cool.
+
+<strong>CHUCK:</strong> Yeah.
+
+<strong>MIKE:</strong> My cousin was a storm-chaser, so he’s doing that kind of stuff – that seems pretty cool.
+
+<strong>CHUCK:</strong> Basis for the movie Twister, right?
+
+<strong>MIKE:</strong> Something like that.
+
+<strong>JAIM:</strong> [Inaudible] about that party game.
+
+<strong>ANDREW:</strong> Yeah, something like that.
+
+<strong>JAIM:</strong> Driving towards a tornado and playing Twister – is that the movie? [Chuckles]
+
+<strong>MIKE:</strong> My memory’s not quite clear, but I think that’s what happened, yes.
+
+<strong>CHUCK:</strong> Yes, they were cruising down the road. Right hand, yellow. Alright Andrew, do you have some picks for us?
+
+<strong>ANDREW:</strong> Yeah, I’ve got a couple picks. My first pick is an app called Hopper. We’ve probably picked it before, but Hopper is a disassembler for OS 10 and Linux – I didn’t actually realize it was for Linux. I remember I was just [inaudible] I just found the website again, but anyway–.
+
+<strong>JAIM:</strong> It was a recent addition.
+
+<strong>ANDREW:</strong> Oh, okay yeah. Anyway Hopper can disassemble a binary and the cool thing about it is it’s got a lot of – written for Objective C programmers originally, and it can do – it can take the disassembling and show you pseudo-code that is in Objective C so that even if you cannot disassemble it like it’s your native language, this can really help you figure out what’s [inaudible] binary that you don’t have the source code for is doing, and that also includes Apple’s frameworks, so you can look into some methods in the UI Kit that you’re trying to figure out how it works and actually get some ideas on how it works even if you’re not Mike.
+
+Although, imagine, Mike, you use Hopper really often.
+
+<strong>MIKE:</strong> Yes, that’s definitely one of my favorite apps and I certainly second your recommendation – it’s a great tool. Definitely worth the money.
+
+<strong>ANDREW:</strong> Yeap. It’s not a free app but it’s one of those the first time you use it to figure something out or fix a bug or whatever is worth the money you paid.
+
+My second pick is Ham Radio. I mentioned that I’m a Ham Radio operator a few episodes ago and I actually got an e-mail from an iPhreaks listener saying he’s been a long time listener and he didn’t realize I was at Ham and kind of telling me about some of the stuff he’s done, which was really cool. He’s with his kids done some high altitude balloon projects that use amateur radio and–.
+
+Anyway I spent the weekend at a Ham Radio even called “field day” where we set up radio stations, run up emergency power for 24 hours and try to talk to as many people in US and Canada, and it just reminded me how fun the hobby is and how much it means to me. It’s why I am an engineer and why I’m a programmer.
+
+So if you’re interested in technical hobbies, there’s a lot to do at Ham Radio, a lot of different areas offered, various interests. From building radios to just talking to people, to doing satellite communication, emergency preparedness – there are people who do all kinds of different things so it’s a great technical fun hobby.
+
+Those are my picks.
+
+<strong>CHUCK:</strong> I think my Ham Radio license expires, so I think I need to go and take the test again.
+
+<strong>ANDREW:</strong> Yeah, I think you have a two-year grace period and then you go take the test again.
+
+But you do need a license, but the entry level license is not difficult. If you’re a programmer you can study for and pass that license pretty easily.
+
+<strong>CHUCK:</strong> Yeah, it’s pretty simple. Alright I’ve got a couple of picks, one of them is scouting – Boy Scouts of AmErika. Great organization and I really enjoyed being involved. I’m involved in a couple of different levels at the district and my local unit so, you know, just great organization, teaches good values, fun activities – I just can’t say enough good things.
+
+Another pick that I have, I’ve been playing lately with the programming language Elixer, and so I’m going to pick that. I’m going to pick Dave Thomas’s book about Elixer. It’s a really good introduction and I’m really enjoying digging in. And those are my picks.
+
+Erik, what are your picks?
+
+<strong>ERIK:</strong> I want to call – I don’t know if you guys have done this before – but Reveal is something that I use that I use that is absolutely irreplaceable. Yeah, so Reveal is basically a view [inaudible] key debugger kind on similar to a DOM inspector if you look it over, I’ve done with the development. But what’s really cool about it is that it gives you a lot of real-time native debugging techniques such as you can view and edit constraints in real-time on it. It’s similar to what Apple introduced in terms of their view [inaudible] key inspector, but in my opinion it’s done much better [inaudible] as opposed to what XCode gives you – it is real-time.
+
+<strong>CHUCK:</strong> Alright, let’s go ahead and wrap up the show. Thank you for coming Erik! If people want to know more about Apple Pay or about you or about what you’re doing a Target or just in general, what are the best ways to find out more?
+
+<strong>ERIK:</strong> Probably you just want to just Twitter. Send me a DM at Erik Kerber – E-R-I-K K-E-R-B-E-R.
+
+<strong>CHUCK:</strong> Alright. [Crosstalk] Thanks a lot.
+
+<strong>ERIK:</strong> Thanks you guys – I had fun.
+
+<strong><em>[This episode is sponsored by MadGlory. You've been building software for a long time and sometimes it gets a little overwhelming. Work piles up, hiring sucks and it's hard to get projects out the door. Check out MadGlory. They're a small shop with experience shipping big products. They're smart, dedicated, will augment your team and work as hard as you do. Find them online at MadGlory.com or on Twitter @MadGlory.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]</em></strong>
+
+<strong><em>[Would you like to join a conversation with the iPhreaks and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at iphreaksshow.com/forum]</em></strong>

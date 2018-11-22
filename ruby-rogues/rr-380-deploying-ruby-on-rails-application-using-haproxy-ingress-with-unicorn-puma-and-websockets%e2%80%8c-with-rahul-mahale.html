@@ -1,0 +1,144 @@
+---
+layout: layouts/post.njk
+title: >
+      RR 380: "Deploying Ruby on Rails application using HAProxy Ingress with unicorn/puma and websockets‌" with Rahul Mahale
+date: 2018-09-18 10:00:03
+episode_number: 380
+duration: 1:00:55
+audio_url: https://media.devchat.tv/ruby-rogues/RR_380_Deploying_Ruby_on_Rails_application_using_HAProxy_Ingress_with_Rahul_Mahale.mp3
+tags: ruby-rogues
+---
+
+<p class="p1"><span class="s1"><b>Panel: </b></span></p>
+
+<ul class="ul1">
+ 	<li class="li1"><span class="s3">Charles Max Wood</span></li>
+ 	<li class="li1"><span class="s3">Dave Kimura</span></li>
+ 	<li class="li1"><span class="s3">Eric Berry</span></li>
+</ul>
+<p class="p1"><span class="s1"><b>Special Guests:</b></span><span class="s3"> Rahul Mahale</span></p>
+<p class="p1"><span class="s3">In this episode of Ruby Rogues, the panel talks to Rahul Mahale. Rahul is a Senior DevOps Engineer at BigBinary in India. He has also worked with SecureDB Inc., Tiny Owl, Winjit Technologies among others. In addition, he attended the University of Pune. The panel and the guest talk about <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a>. </span></p>
+<p class="p1"><span class="s1"><b>Show Topics:</b></span></p>
+<p class="p3"><span class="s5">1:25 – <a href="https://www.teepublic.com/t-shirt/3074500-ruby-rogues?store_id=172938"><span class="s4">Swag.com for t-shirts and mugs, etc. for Ruby Rogues / DevChat.tv.</span></a> </span></p>
+<p class="p1"><span class="s3">1:49 – Chuck: Why are you famous?</span></p>
+<p class="p1"><span class="s3">1:57 – Guest’s background. </span></p>
+<p class="p1"><span class="s3">4:35 – Chuck: <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a> – Anyone play with this?</span></p>
+<p class="p1"><span class="s3">4:49 – Panelist: Yes. Funny situation, I was working with <a href="https://www.heroku.com/languages"><span class="s4">Heroku</span></a>. <a href="https://www.heroku.com/languages"><span class="s4">Heroku</span></a> is very costly, but great. </span></p>
+<p class="p1"><span class="s3"><i>The story continues...</i></span></p>
+<p class="p4"><span class="s3">6:13 – Panelist: I was so overwhelmed with how difficult it was to launch a simple website. Now, that being said we were using the <a href="https://aws.amazon.com/eks/"><span class="s4">Amazon EKS</span></a>, which is the <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a>. They don’t have nearly as much good tools, but that’s my experience.</span></p>
+<p class="p4"><span class="s3">6:48 – Chuck: I haven’t tried <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a>. </span></p>
+<p class="p4"><span class="s3">8:58 – Rahul: I would like to add a few comments. Managing <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a> service is not a big deal at the moment, but...</span></p>
+<p class="p4"><span class="s3">11:19 – Panelist: You wouldn’t recommend people using <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a> unless they were well versed? What is that term?</span></p>
+<p class="p4"><span class="s3">11:40 – Rahul: Not anyone could use the <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a> cluster. Let’s offer that complexity to another company that can handle and mange it.</span></p>
+<p class="p4"><span class="s3">13:02 – The guest continues this conversation.</span></p>
+<p class="p4"><span class="s3">14:02 – Panelist: I didn’t know that <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a> needed different nodes. </span></p>
+<p class="p4"><span class="s3">14:28 – Rahul continues this topic. </span></p>
+<p class="p4"><span class="s3">15:05 – What hardware requirements do they need?</span></p>
+<p class="p4"><span class="s3">15:19 – Rahul: Yes, they do need a good system. Good amount of memory. Good network space. </span></p>
+<p class="p4"><span class="s3">15:45 – Panelist asks Rahul a question. </span></p>
+<p class="p4"><span class="s3">16:30 – Rahul: Let’s answer this into two parts. </span></p>
+<p class="p4"><span class="s4"><a href="https://kubernetes.io"><i>Kubernetes</i></a></span><span class="s3"><i> topic is being discussed in detail. </i></span></p>
+<p class="p4"><span class="s3">18:41 – Chuck adds comments and asks a question.</span></p>
+<p class="p4"><span class="s3">18:58 – Rahul talks about companies and programs. Check out this timestamp to hear his thoughts. </span></p>
+<p class="p4"><span class="s3">20:42 – Another company is mentioned added to this conversation.</span></p>
+<p class="p4"><span class="s3">21:55 – Additional companies mentioned: Google, Microsoft, IBM, etc. (Rahul)</span></p>
+<p class="p4"><span class="s3">22:14 – Chuck: It’s interesting how much community plays a role into success stories. Whether or not it’s best technologies it comes down to where there are enough people to help me if I don’t know what to do.</span></p>
+<p class="p4"><span class="s3">22:43 – Rahul: People, even enterprises, are there. </span></p>
+<p class="p4"><span class="s3">23:15 – Chuck: At what point (let’s say I docked my app) should they be looking at <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a>? Are you waiting on traffic? How do you make that call?</span></p>
+<p class="p4"><span class="s3">23:56 – Rahul answers the questions.</span></p>
+<p class="p4"><span class="s3">26:29 – Rahul: If your application is...</span></p>
+<p class="p3"><span class="s6">27:13 – <a href="https://www.digitalocean.com/"><span class="s4">Announcement – Digital Ocean!</span></a></span></p>
+<p class="p4"><span class="s3">27:51 – Chuck: How does someone get started with <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a>?</span></p>
+<p class="p4"><span class="s3">27:53 – Rahul answers the question.</span></p>
+<p class="p4"><span class="s3">30:00 – Chuck: It sounds like you have an amateur setup – Dave?</span></p>
+<p class="p4"><span class="s3">30:21 – Dave: I think the problem is that there is not a <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a> for dummies blog post. There has always been some sort of “gottcha!” As much as these documents say that there are solutions here and there, but you will see that there are networking issues. Once you get that up and running, then there are more issues at hand. The other strange thing is that once everything seems to be working okay, and then I started getting connectivity issues. It’s definitely not an afternoon project. It takes researching and googling. At the end, it takes a direction at large that the community is investing into. </span></p>
+<p class="p4"><span class="s3">32:58 – Chuck makes additional comments.</span></p>
+<p class="p4"><span class="s3">33:21 – Dave adds more comments. Sorry bad joke – Dave. </span></p>
+<p class="p4"><span class="s3">33:40 – Topic – Virtualization. </span></p>
+<p class="p4"><span class="s3">34:32 – Having Swamp is a good idea.</span></p>
+<p class="p4"><span class="s3">34:44 – Rahul adds his comments.</span></p>
+<p class="p4"><span class="s3">36:54 – Panelist talks about virtualization and scaling.</span></p>
+<p class="p4"><span class="s3">37:45 – Rahul adds in comments about the ecosystems. </span></p>
+<p class="p4"><span class="s3">38:21 – Panelist talks about server-less functions. </span></p>
+<p class="p4"><span class="s3">39:11 – Rahul: Not every application can...</span></p>
+<p class="p4"><span class="s3">40:32 – Panelist: I guess the whole downside to... </span></p>
+<p class="p4"><span class="s3">41:07 – Rahul talks about this.</span></p>
+<p class="p4"><span class="s3">43:03 – Chuck to Eric: Any problems with <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a> for you?</span></p>
+<p class="p4"><span class="s3">43:05 – Eric: Yes – just spelling it! For me it feels like you are in a jet with all of these different buttons. There are 2 different types of developers. I am of DevOps-minded. That’s why we are getting solutions, and tools like </span><span class="s4">Heroku</span><span class="s3"> to help. When I listen to this conversation, I feel quiet only because you guys are talking about spiders and I’m afraid of spiders. </span></p>
+<p class="p4"><span class="s3">44:44 – Dave to Eric: Having information and knowledge about <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a> will help you as a developer. Having some awareness can really help you as a developer. </span></p>
+<p class="p4"><span class="s3">45:43 – Chuck: There are all these options to know about it – they way he is talking about it sounds like it’s the person on the jet. Don’t touch the red button and don’t’ cut the wrong wire! It feels like with software – it’s a beautiful thing – you erase it and reinstall it! </span></p>
+<p class="p4"><span class="s3">46:50 – Dave: What? What are all of these crazy words?! What does this exactly mean? The visibility is definitely not there for someone who is just tinkering with it.</span></p>
+<p class="p4"><span class="s3">47:16 – Rahul: It’s not for someone who is tinkering with it. Definitely. </span></p>
+<p class="p4"><span class="s3">50:02 – Chuck: We have been talking about benefits of <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a> – great. What kinds of processes to setup with <a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a> to make your life easier?</span></p>
+<p class="p4"><span class="s3">50:40 Rahul answers the question.</span></p>
+<p class="p4"><span class="s3">53:54 – Rahul’s Social Media Accounts – check them out under LINKS.</span></p>
+<p class="p3"><span class="s6">54:29 – <a href="https://devchat.tv/get-a-coder-job/"><span class="s4">Get a Coder Job Course</span></a></span></p>
+<p class="p8"><span class="s1"><b>Links:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li3"><span class="s7"><a href="https://www.teepublic.com/t-shirt/3074500-ruby-rogues?store_id=172938"><span class="s4">T-Shirts for Ruby Rogues!</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://devchat.tv/get-a-coder-job/"><span class="s4">Get a Coder Job Course</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.ruby-lang.org/en/"><span class="s4">Ruby</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.javascript.com"><span class="s4">JavaScript</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="http://www.phoenixsoftware.com/ode.htm"><span class="s4">Phoenix</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.heroku.com/languages"><span class="s4">Heroku</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://aws.amazon.com/eks/"><span class="s4">Amazon EKS</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://cloud.google.com/kubernetes-engine/"><span class="s4">Kubernetes Engine</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://kubernetes.io/docs/setup/minikube/"><span class="s4">Kubernetes Setup</span></a></span></li>
+ 	<li class="li4"><a href="https://azure.microsoft.com/en-us/services/kubernetes-service/"><span class="s4">AKS</span></a></li>
+ 	<li class="li3"><span class="s7"><a href="https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/"><span class="s4">Kubernetes – Creating a single master cluster...</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://github.com/kubernetes-incubator/kubespray"><span class="s4">Kubernetes GitHub</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.docker.com/products/docker-enterprise"><span class="s4">Docker</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://rancher.com"><span class="s4">Rancher</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.katacoda.com/courses/kubernetes"><span class="s4">Learn Kubernetes Using Interactive...</span></a></span><span class="s6">by Ben Hall</span></li>
+ 	<li class="li3"><span class="s7"><a href="https://allthingsdevops.bigbinary.com"><span class="s4">Podcast – All Things Devops</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="http://nanobox.com"><span class="s4">Nanobox</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://cloud66.com"><span class="s4">Cloud 66</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.chef.io"><span class="s4">Chef</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://puppet.com"><span class="s4">Puppet</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.ansible.com"><span class="s4">Ansible</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.saltstack.com"><span class="s4">Salt Stack</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.orangecomputers.com/node/"><span class="s4">Orange Computers</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://slashrahul.in"><span class="s4">Rahul Mahale’s Blog</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://slashrahul.in/talks_and_workshops/"><span class="s4">Rahul’s Talks and Workshops</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.linkedin.com/in/slashrahul"><span class="s4">Rahul Mahale’s LinkedIn</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.facebook.com/slashrahul"><span class="s4">Rahul Mahale’s Facebook</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://www.youtube.com/watch?v=Detcse2Bc7c"><span class="s4">Rahul Mahale’s Kubernetes Workshop via YouTube</span></a></span></li>
+</ul>
+<p class="p8"><span class="s1"><b>Sponsors:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li3"><span class="s7"><a href="https://sentry.io/welcome/"><span class="s4">Sentry</span></a></span></li>
+ 	<li class="li3"><span class="s8"><a href="https://www.digitalocean.com/"><span class="s9">Digital Ocean</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://devchat.tv/get-a-coder-job/"><span class="s4">Get a Coder Job Course</span></a></span></li>
+</ul>
+<p class="p8"><span class="s1"><b>Picks:</b></span></p>
+<p class="p4"><span class="s3">Charles</span></p>
+
+<ul class="ul1">
+ 	<li class="li4"><span class="s3">Conference</span></li>
+ 	<li class="li3"><span class="s10"><a href="https://itunes.apple.com/us/app/terragenesis-space-colony/id1039841501?mt=8"><span class="s11">Game – TerraGenesis – Space Colony</span></a></span></li>
+ 	<li class="li3"><span class="s10"><a href="https://www.audible.com/ep/title/?asin=B00FPMTFRM&amp;source_code=GO1GBSH09091690EI&amp;device=d&amp;cvosrc=ppc.google.%252Bthe%2520%252Bone%2520%252Bthing&amp;cvo_campaign=250471809&amp;cvo_crid=260177648374&amp;Matchtype=b&amp;gclid=EAIaIQobChMIvP6IiYTG3QIVDtvACh0E4QZ4EAAYASAAEgI3xPD_BwE&amp;gclsrc=aw.ds"><span class="s11">Book – The One Thing</span></a></span></li>
+</ul>
+<p class="p4"><span class="s3">Dave</span></p>
+
+<ul class="ul1">
+ 	<li class="li3"><span class="s10"><a href="https://www.orangecomputers.com/node/"><span class="s11">Orange Computers</span></a></span></li>
+</ul>
+<p class="p4"><span class="s3">Eric</span></p>
+
+<ul class="ul1">
+ 	<li class="li3"><span class="s10"><a href="https://cloud66.com"><span class="s11">Cloud 66</span></a></span></li>
+ 	<li class="li3"><span class="s10"><a href="http://nanobox.com"><span class="s11">Nanobox</span></a></span></li>
+</ul>
+<p class="p4"><span class="s3">Rahul</span></p>
+
+<ul class="ul1">
+ 	<li class="li3"><span class="s7"><a href="https://allthingsdevops.bigbinary.com"><span class="s4">Podcast – All Things Devops</span></a></span></li>
+ 	<li class="li3"><span class="s7"><a href="https://kubernetes.io"><span class="s4">Kubernetes</span></a></span></li>
+</ul>
+
+<h3>Transcript</h3>
+
+

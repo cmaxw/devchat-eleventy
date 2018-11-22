@@ -1,0 +1,130 @@
+---
+layout: layouts/post.njk
+title: >
+      RRU 036: Signal R with Brady Gaster LIVE at Microsoft Ignite
+date: 2018-11-06 11:00:51
+episode_number: 036
+duration: 47:45
+audio_url: https://media.devchat.tv/reactroundup/RRU_036_Signal_R_with_Brady_Gaster_LIVE_at_Microsoft_Ignite.mp3
+tags: react-round-up
+---
+
+<p class="p1"><span class="s1"><b>Panel: </b></span></p>
+<p class="p2"><span class="s2">Charles Max Wood</span></p>
+<p class="p1"><span class="s1"><b>Special Guest:</b></span><span class="s2"> Brady Gaster </span></p>
+<p class="p2"><span class="s2">In this episode, Chuck talks with <a href="https://twitter.com/bradygaster"><span class="s3">Brady Gaster</span></a> about <a href="https://www.asp.net/signalr"><span class="s3">SignalR</span></a> that is offered through Microsoft. Brady Gaster is a computer software engineer at Microsoft and past employers include Logical Advantage, and Market America, Inc. Check out today’s episode where the two dive deep into SignalR topics. </span></p>
+<p class="p1"><span class="s1"><b>Show Topics:</b></span></p>
+<p class="p1"><span class="s2">0:00 – Advertisement: <a href="https://angularbootcamp.com"><span class="s4">AngularBootCamp.Com</span></a> </span></p>
+<p class="p1"><span class="s2">0:56 – Chuck: Hello! We are going to talk about <a href="https://www.asp.net/signalr"><span class="s4">SignalR,</span></a> which is an offering through Microsoft. </span></p>
+<p class="p1"><span class="s2">1:09 – Guest: It started in 2011 that’s when I got involved, but I wasn’t with Microsoft, yet, at that point. I was working on the technology, though. </span></p>
+<p class="p1"><span class="s2">Effectively you can do real time HTMP but what they did (Damon and David) let’s create a series of abstractions but not we have for Java. They basically cam up this idea let’s do web sockets and then go back to pole / pole / pole. It’s to see what the server and the client can support. </span></p>
+<p class="p1"><span class="s2"><i>Guest talks about </i><a href="https://socket.io"><span class="s4"><i>Socket.io</i></span></a><i>, too. </i></span></p>
+<p class="p1"><span class="s2">6:45 – Chuck: What we are talking about real time coordination between apps. </span></p>
+<p class="p1"><span class="s2">6:56 – Guest: Web sockets, 1 million...and 2.6 million messages a second! </span></p>
+<p class="p1"><span class="s2">7:05 – Chuck: I can set that up like I usually set up web sockets?</span></p>
+<p class="p1"><span class="s2">7:17 – Guest: There is a client library for each. Effectively you have a concept called a connection. </span></p>
+<p class="p1"><span class="s2">9:48 – Chuck: How do you handle authentication on the frontend?</span></p>
+<p class="p1"><span class="s2">9:56 – Guest: We have server side things that we can attribute things. </span></p>
+<p class="p1"><span class="s2">10:09 – Chuck.</span></p>
+<p class="p1"><span class="s2">10:12 – Guest: If you authenticate to the site then the site passes the token and it basically sits on top of the same plumbing. </span></p>
+<p class="p1"><span class="s2">10:38 – Chuck.</span></p>
+<p class="p1"><span class="s2">10:42 – Guest.</span></p>
+<p class="p1"><span class="s2">10:54 – Chuck.</span></p>
+<p class="p1"><span class="s2">10:58 – Guest: We recently just had the <a href="https://www.dotnetconf.net"><span class="s4">DOT NET CONF</span></a>. We had an all night, 24-hour thing. </span></p>
+<p class="p1"><span class="s2">11:48 – Chuck: Here you are, here you go.</span></p>
+<p class="p1"><span class="s2">You hook it all up, JavaScript into your bundle.</span></p>
+<p class="p1"><span class="s2">12:05 – (<i>The guest talks about how to install.</i>)</span></p>
+<p class="p1"><span class="s2">13:12 – Chuck: I could come up with my own scheme. </span></p>
+<p class="p1"><span class="s2">13:25 – Guest: The traditional example is SEND A MESSAGE and then pass you string. Well tomorrow I do that and I just change the code – it’s great b/c I send up a ping and everybody knows what to do what that ping. It’s just a proxy. </span></p>
+<p class="p1"><span class="s2">14:17 – Chuck: I am trying to envision what you would use this for? If you are worried about it being stale then you refresh. But if you want the collaborative stuff at what point do you ask: Do I need SignalR?</span></p>
+<p class="p1"><span class="s2">15:00 – Guest: When I do my presentations on SignalR and being transparent I want to send you 1,000 messages but 1 or 2 messages will be dropped. You don’t want to transmit your order data or credit card information. Do you have a hammer and you need a screw?<span class="Apple-converted-space">  </span>If you need stock tickers and other applications SignalR would work. </span></p>
+<p class="p1"><span class="s2">Keeping your UI fresh it is a great thing. </span></p>
+<p class="p1"><span class="s2">19:02 – Chuck: You do that at the Hub? You set up the Hub and it passes everything back and forth. What can you do at the Hub for filtering and/or certain types of events?</span></p>
+<p class="p1"><span class="s2">19:26 – Guest: I am looking at a slide. What’s the cool thing about SignalR and the API is it’s deceptively simple on purpose. If you want to call out to clients, you can get a message to all of your clients if you select that/those feature(s). </span></p>
+<p class="p1"><span class="s2">Some other features you have are OTHERS, and Clients.Group. </span></p>
+<p class="p1"><span class="s2">20:57 – Chuck: Can you set up your own?</span></p>
+<p class="p1"><span class="s2">20:58 – Guest: I don’t know. </span></p>
+<p class="p1"><span class="s2">21:12 – Chuck: Clients who belong to more than one group.</span></p>
+<p class="p1"><span class="s2">21:23 – Guest: Dynamics still give some people heartburn. </span></p>
+<p class="p1"><span class="s2"><i>(The guest talks about </i><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><span class="s4"><i>C#,</i></span></a><i> Dev, Hub, and more!)</i></span></p>
+<p class="p6"><span class="s5">23:46 – <a href="https://devchat.tv/get-a-coder-job/"><span class="s3">Advertisement: Get A Coder Job!</span></a></span></p>
+<p class="p1"><span class="s2">24:23 – Chuck: How do people get started with this? Do they need Azure?</span></p>
+<p class="p1"><span class="s2">24:30 – Guest: You don’t need Azure you can go to <a href="https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/introduction-to-signalr"><span class="s4">Microsoft</span></a> and it’s apart of the .NET team, too. </span></p>
+<p class="p1"><span class="s2">26:39 – <i>Guest talks about how to install</i><a href="https://twitter.com/SignalR?lang=en"><span class="s4"><i> SignalR</i></span></a><i> – see links below!</i></span></p>
+<p class="p1"><span class="s2">27:03 – Chuck: You don’t have to KNOW .NET.</span></p>
+<p class="p1"><span class="s2">27:11 – Guest: It was created by that team (*fair enough*) but you don’t have to know .NET.</span></p>
+<p class="p1"><span class="s2">27:57 – Guest: You can I could do JavaScript all the way.</span></p>
+<p class="p1"><span class="s2">29:04 – Chuck: Yes, we keep moving forward. It will look different what people are using.</span></p>
+<p class="p1"><span class="s2">29:21 – Guest: That was an early thing and I was reading through the old bugs from 2011/2012 and that’s one thing that kept coming up. I didn’t want to use <a href="https://jquery.com"><span class="s4">jQuery</span></a> to use SignalR – now you don’t. It’s a happy thing. </span></p>
+<p class="p1"><span class="s2">30:45 – Guest: Someone suggested using <a href="https://developer.android.com/reference/android/os/Parcel"><span class="s4">PARCEL.</span></a> I have a question do you have any recommendations to have <a href="https://www.npmjs.com/package/node-sass"><span class="s4">NODE-SASS</span></a> workflow to have it less stressful? </span></p>
+<p class="p1"><span class="s2">31:30 – Chuck: It’s out of Ruby that’s my experience with Node-Sass.</span></p>
+<p class="p1"><span class="s2">31:40 – Guest: I haven’t used Ruby, yet.</span></p>
+<p class="p1"><span class="s2">31:46 – Guest: I haven’t heard of Phoenix what is that?</span></p>
+<p class="p1"><span class="s2">31:50 <i>– Chuck answers.</i></span></p>
+<p class="p1"><span class="s2">Chuck: It’s functional and very fast. </span></p>
+<p class="p1"><span class="s2">Once you’ve figured out those features they almost become power features for you. Elixir has a lot of great things going for it.</span></p>
+<p class="p1"><span class="s2">32:50 – Guest: I tried picking up GO recently. </span></p>
+<p class="p1"><span class="s2">33:08 – Chuck: Lots of things going on in the programming world.</span></p>
+<p class="p1"><span class="s2">33:18 – Guest: I have always had a mental block around Java. I was PMing the Java guys and I asked: will this stuff work on...</span></p>
+<p class="p1"><span class="s2">Once I got it then I thought that I needed to explore this stuff more! </span></p>
+<p class="p1"><span class="s2">I want to learn Ruby, though. </span></p>
+<p class="p1"><span class="s2">34:16 – Chuck: Anything else in respect to <a href="http://signalr.net"><span class="s4">SignalR?</span></a></span></p>
+<p class="p1"><span class="s2">34:15 – Guest: I really think I have dumped everything I know about Signal R just now. </span></p>
+<p class="p1"><span class="s2">I would draw people to the DOCS pages. </span></p>
+<p class="p1"><span class="s2">A guide for anything that could happen on the JavaScript side – check them out!</span></p>
+<p class="p1"><span class="s2">We have tons of new ideas, too!</span></p>
+<p class="p1"><span class="s2">37:33 – Picks! </span></p>
+<p class="p6"><span class="s5">37:42 – <a href="https://www.freshbooks.com/?ref=ppc-na-fb&amp;camp=US%2528SEM%2529Branded%257CEXM&amp;ag=r%252F+%257Efreshbooks&amp;kw=freshbooks&amp;campaignid=717543354&amp;adgroupid=51893696557&amp;kwid=kwd-298507762065&amp;dv=c&amp;ntwk=g&amp;crid=284685866051&amp;source=GOOGLE&amp;gclid=EAIaIQobChMI--6zho6H3gIVjsVkCh2wsQx6EAAYASAAEgL9B_D_BwE&amp;gclsrc=aw.ds&amp;dclid=CO7qmoiOh94CFUnHwAodiCQBUA"><span class="s3">Advertisement – Fresh Books!</span></a> </span></p>
+<p class="p6"><span class="s5">47:54 – <a href="https://www.cachefly.com"><span class="s3">Advertisement – Cache Fly!</span></a></span></p>
+<p class="p1"><span class="s1"><b>Links:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li1"><span class="s6"><a href="https://vuejs.org"><span class="s4">Vue</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://jquery.com"><span class="s4">jQuery</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://angular.io"><span class="s4">Angular</span></a></span></li>
+ 	<li class="li7"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><span class="s4">C#</span></a></li>
+ 	<li class="li6"><span class="s7"><a href="https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor"><span class="s4">Chuck’s Twitter</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://www.asp.net/signalr"><span class="s4">SignalR</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://twitter.com/SignalR?lang=en"><span class="s4">SignalR’s Twitter</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://github.com/SignalR/SignalR"><span class="s4">GitHub SignalR</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://socket.io"><span class="s4">Socket.io</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://www.npmjs.com/package/node-sass"><span class="s4">Node-SASS</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://docs.microsoft.com/en-us/aspnet/signalr/overview/guide-to-the-api/hubs-api-guide-javascript-client"><span class="s4">ASP.NET SignalR Hubs API Guide – JavaScript Client</span></a></span></li>
+ 	<li class="li6"><span class="s8"><a href="http://signalr.net"><span class="s9">SignalR.net</span></a></span></li>
+ 	<li class="li6"><span class="s6"><a href="https://realtalkjavascript.simplecast.fm"><span class="s4">Real Talk JavaScript</span></a></span></li>
+ 	<li class="li6"><span class="s6"><a href="https://developer.android.com/reference/android/os/Parcel"><span class="s4">Parcel</span></a></span></li>
+ 	<li class="li6"><span class="s6"><a href="https://twitter.com/bradygaster"><span class="s4">Brady Gaster’s Twitter</span></a></span></li>
+ 	<li class="li6"><span class="s6"><a href="https://github.com/bradygaster"><span class="s4">Brady Gaster’s GitHub</span></a></span></li>
+ 	<li class="li6"><span class="s6"><a href="https://www.linkedin.com/in/bradygaster"><span class="s4">Brady Gaster’s LinkedIn</span></a></span></li>
+</ul>
+<p class="p1"><span class="s1"><b>Sponsors:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li6"><span class="s10"><a href="https://angularbootcamp.com/"><span class="s9">Angular Boot Camp</span></a></span></li>
+ 	<li class="li6"><span class="s11"><a href="https://www.digitalocean.com/"><span class="s4">Fresh Books</span></a></span></li>
+ 	<li class="li8"><span class="s12"><a href="https://devchat.tv/get-a-coder-job/"><span class="s13">Get a Coder Job Course</span></a></span></li>
+ 	<li class="li8"><span class="s12"><a href="https://www.cachefly.com"><span class="s13">Cache Fly</span></a></span></li>
+</ul>
+<p class="p2"><span class="s1"><b>Picks:</b></span></p>
+<p class="p9"><span class="s2">Brady</span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s2">Team on General Session</span></li>
+ 	<li class="li9"><span class="s14"><a href="https://www.korg.com/us/"><span class="s15">Korg</span></a></span></li>
+ 	<li class="li9"><span class="s14"><a href="https://www.seahawks.com/"><span class="s15">SeaHawks</span></a></span></li>
+ 	<li class="li9"><span class="s2">Brady’s kids</span></li>
+ 	<li class="li9"><span class="s14"><a href="https://www.logitech.com/en-us/product/spotlight-presentation-remote"><span class="s15">Logictech spot light</span></a></span></li>
+ 	<li class="li9"><span class="s14"><a href="https://www.apple.com/airpods/"><span class="s15">AirPods</span></a></span></li>
+</ul>
+<p class="p9"><span class="s2">Charles </span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s16"><a href="https://www.expressvpn.com/"><span class="s15">Express VPN</span></a></span></li>
+ 	<li class="li9"><span class="s2">Hyper Drive</span></li>
+ 	<li class="li9"><span class="s16"><a href="https://en.j5create.com/collections"><span class="s15">J5 ports and SD card readers</span></a></span></li>
+ 	<li class="li9"><span class="s17"><a href="https://podwrench.com"><span class="s15">Podwrench</span></a></span></li>
+</ul>
+
+<h3>Transcript</h3>
+
+

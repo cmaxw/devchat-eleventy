@@ -1,0 +1,219 @@
+---
+layout: layouts/post.njk
+title: >
+      AiA 214: NgRx Tips & Tricks with Adrian Fâciu
+date: 2018-11-06 11:00:47
+episode_number: 214
+duration: 1:02:17
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA_214_NgRx_Tips_%26_Tricks_with_Adrian_Faciu.mp3
+tags: adv-in-angular
+---
+
+<p class="p1"><span class="s1"><b>Panel: </b></span></p>
+
+<ul>
+ 	<li class="p2"><span class="s2">Charles Max Wood</span></li>
+ 	<li class="p2"><span class="s2">John Papa</span></li>
+</ul>
+<p class="p1"><span class="s1"><b>Special Guest:</b></span><span class="s2"> <a href="https://medium.com/@adrianfaciu"><span class="s3">Adrian Faciu </span></a> </span></p>
+<p class="p2"><span class="s2">In this episode, Chuck talks with <a href="https://medium.com/@adrianfaciu"><span class="s4">Adrian Faciu</span></a> who is a developer for Visma and is a blogger. The panel talks to Adrian about his blog titled, “NgRx Tips &amp; Tricks.” They ask Adrian in-depth questions about NgRx, among many other topics. Listen to today’s episode for more details! </span></p>
+<p class="p1"><span class="s1"><b>Show Topics:</b></span></p>
+<p class="p1"><span class="s2">0:00 – Advertisement: <a href="https://angularbootcamp.com"><span class="s3">AngularBootCamp.Com</span></a> </span></p>
+<p class="p1"><span class="s2">0:55 – Chuck: Hi! Our guest is <a href="https://medium.com/@adrianfaciu"><span class="s3">Adrian Faciu.</span></a></span></p>
+<p class="p1"><span class="s2">1:10 – Guest: Hello! I am <a href="https://medium.com/@adrianfaciu"><span class="s3">Adrian</span></a> and I am a developer who works for a Norwegian company, but I live in Romania!</span></p>
+<p class="p1"><span class="s2">1:35 – Chuck.</span></p>
+<p class="p1"><span class="s2">1:36 – Guest.</span></p>
+<p class="p1"><span class="s2">1:47 – Chuck: The market is so global. I have talked with many different guests from different parts of the world – it’s really neat! It’s this global phenomenon. </span></p>
+<p class="p1"><span class="s2">2:12 – Guest: It’s a great thing!</span></p>
+<p class="p1"><span class="s2">2:23 – Chuck: They have an office where you live?</span></p>
+<p class="p1"><span class="s2">2:31 – Yes. </span></p>
+<p class="p1"><span class="s2">2:37 – Chuck: How are you guys using Angular over there?</span></p>
+<p class="p1"><span class="s2">2:47 – Guest: We have several different products. We customize using them with internalized tools. </span></p>
+<p class="p1"><span class="s2">3:04 – Chuck: <a href="https://blog.angularindepth.com/@adrianfaciu"><span class="s3">Real quick let’s talk about your blog post.</span></a> I will admit I am not that familiar with NgRx, so I will ask newbie questions. Now do you want to explain what this is?</span></p>
+<p class="p1"><span class="s2">3:41 – Guest: Sure! The short story of the article is I saw people doing things the hard way. And after I figured out some things, people encouraged me to write about my experience. </span></p>
+<p class="p1"><span class="s2">4:37 – Chuck: John Papa just signed-in!</span></p>
+<p class="p1"><span class="s2">4:53 – Guest: Yes NgRx is...</span></p>
+<p class="p1"><span class="s2">5:02 – Chuck: You used classes for all actions what do you mean by that?</span></p>
+<p class="p1"><span class="s2">5:05 – <i>Guest answers the question into detail. </i></span></p>
+<p class="p1"><span class="s2">6:31 – Chuck: Let’s say we have a class that uses a log error...</span></p>
+<p class="p1"><span class="s2">6:42 – Guest: For example you have actions that...</span></p>
+<p class="p1"><span class="s2">7:02 – Chuck: When you use the reducer...</span></p>
+<p class="p1"><span class="s2">7:10 – Guest: There are other tricks we can use like keeping all of them in the same file...</span></p>
+<p class="p1"><span class="s2">8:00 – Guest talks about the union type. </span></p>
+<p class="p1"><span class="s2">8:24 – Chuck: You learned this by doing things wrong – what happens when you do these things wrong? </span></p>
+<p class="p1"><span class="s2">8:30 – <a href="https://github.com/adrianfaciu"><span class="s3">Guest:</span></a> If you don’t put all of your classes in the right file then you end up with a lot of files. If you don’t create hero types then you’d have to...</span></p>
+<p class="p1"><span class="s2">10:02 – Chuck: If you import user actions then does it import all of the other types?</span></p>
+<p class="p1"><span class="s2">10:08 – Guest: Import everything from that file.</span></p>
+<p class="p1"><span class="s2">10:17 – Chuck: If you have any questions, John, feel free to chime-in!</span></p>
+<p class="p1"><span class="s2">10:29 – John: Yeah I am scanning through this. </span></p>
+<p class="p1"><span class="s2">The negative I hear a lot of through actions, it’s cause we create constants – the action class creators, it seems to cause an undue amount of stress. How much actual code do you actually have to write – how do you feel about that?</span></p>
+<p class="p1"><span class="s2">11:12 – Guest: I didn’t want to write all of this code! That’s what I wanted to avoid. </span></p>
+<p class="p1"><span class="s2">11:44 – John: I wrote them, didn’t like them, I went back to them...</span></p>
+<p class="p1"><span class="s2">It wasn’t just that I created a new action I had to create the constant and other things – also the place you do the union type, I’d forget to do the union type at the end! If you don’t have all of those things then it won’t work. Even on a simple project I’d have 120 lines of code for a simple task.</span></p>
+<p class="p1"><span class="s2">12:49 – Guest: Yes. Sometimes I would forget this or that. I’d have to figure out what I did wrong. I went back and created classes for a lot of things. I like the benefits. </span></p>
+<p class="p1"><span class="s2">13:19 – John: I like your ideas and your tips in your <a href="https://blog.angularindepth.com/@adrianfaciu"><span class="s3">blog.</span></a></span></p>
+<p class="p1"><span class="s2">How do you feel about the NAMES of those actions?</span></p>
+<p class="p1"><span class="s2">13:55 – Guest. </span></p>
+<p class="p1"><span class="s2">14:51 – John: Important part is the naming of the string inside of it – that’s the value...</span></p>
+<p class="p1"><span class="s2">So you can see the actions that are being displayed. </span></p>
+<p class="p1"><span class="s2">15:25 – Guest: If you didn’t do it right that’s where the problem would be.</span></p>
+<p class="p1"><span class="s2">15:38 – John: To me it’s a love/hate relationship b/c there is so much code to it. I usually copy and paste which means that I usually forget to change something. I agree, but I don’t’ like creating it.</span></p>
+<p class="p1"><span class="s2">16:05 – Guest: I’ve been trying to figure out a solution for it eventually I gave up.</span></p>
+<p class="p1"><span class="s2">16:23 – John: Moving onto effects – inside that happens inside of the Redux cycle – if you want to do something outside of it that’s when you do effects right? </span></p>
+<p class="p1"><span class="s2">16:40 – Guest.</span></p>
+<p class="p1"><span class="s2">16:49 – John: Using the effects is good or do it a different way?</span></p>
+<p class="p1"><span class="s2">17: 20 – Guest: It makes my components cleaner. I have seen projects that DON’T use it and it’s not the best.</span></p>
+<p class="p1"><span class="s2">17:36 – John: Like getting a list of customers...</span></p>
+<p class="p1"><span class="s2"><i>(I am using my hands and nobody can see me!)</i></span></p>
+<p class="p1"><span class="s2">It’s weird to me to NOT use the effects!</span></p>
+<p class="p1"><span class="s2">18:52 – Guest: If you implement some type of caching then it’s everything to put everything in the state. </span></p>
+<p class="p1"><span class="s2">19:07 – Chuck: I haven’t used it as much as I would like, but I haven’t do much with it.</span></p>
+<p class="p1"><span class="s2">19:23 – John: I am curious from somebody hasn’t dove into it – does effects make sense to you, Chuck?</span></p>
+<p class="p1"><span class="s2">19:39 – Chuck: It seems like effects is a side effect? Like calling out an external API...</span></p>
+<p class="p1"><span class="s2">20:10 – John: Yeah even multiple effects. </span></p>
+<p class="p1"><span class="s2"><i>John asks a question.</i></span></p>
+<p class="p1"><span class="s2">20:23 – <i>Guest answers the question.</i></span></p>
+<p class="p1"><span class="s2">20:29 – Chuck: I like that you can make constrained assumptions and all of the complicated...</span></p>
+<p class="p1"><span class="s2">21:10 – Guest: I am using my effects like functions. </span></p>
+<p class="p1"><span class="s2">21:26 – <i>John’s question.</i></span></p>
+<p class="p1"><span class="s2">21:31 – Chuck: Doing everything! </span></p>
+<p class="p1"><span class="s2">You said implement the 2-payload method – that doesn’t make sense?</span></p>
+<p class="p1"><span class="s2">21:43 – Guest: Not 100% convinced you need it. What people are doing on these actions...</span></p>
+<p class="p1"><span class="s2">22:43 – Chuck: How much magic you want?</span></p>
+<p class="p1"><span class="s2">22:50 – Guest.</span></p>
+<p class="p1"><span class="s2">22:59 – John: I am confused about ERROR HANDLING. What do you advise for people to do?</span></p>
+<p class="p1"><span class="s2">23:21 – Guest: Basically, when you deal with that effect you deal with the actions, and the actions...</span></p>
+<p class="p1"><span class="s2">If you get an error on it it’s done. I was trying to explain there that...do it on another stream. Try it on another stream and handle it. What happened to me – I did it on the action state and I got an error and then everything will stop. </span></p>
+<p class="p1"><span class="s2">24:27 – John: That’s not good!</span></p>
+<p class="p1"><span class="s2">24:32 – Chuck.</span></p>
+<p class="p1"><span class="s2">24:35 – John: Good tip!</span></p>
+<p class="p1"><span class="s2">24:40 – Chuck: Angular has gotten better at that. I still find, though...</span></p>
+<p class="p1"><span class="s2">25:06 – John.</span></p>
+<p class="p1"><span class="s2">25:16 – John: Hey I appreciate these blog posts that don’t always show the happy path. To show the unhappy path is a good idea. </span></p>
+<p class="p1"><span class="s2">25:32 – Chuck. </span></p>
+<p class="p1"><span class="s2">26:00 – Going down your list, Adrian, let’s talk about effects are services. I agree, but not that we have...</span></p>
+<p class="p1"><span class="s2">26:24 – Guest: I have seen cases where people forget that. They say I want to call a service, how do I do that? They forget...</span></p>
+<p class="p1"><span class="s2">26:50 – <a href="https://twitter.com/John_Papa?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor"><span class="s3">John:</span></a> You have to provide your services somewhere. The old way was you could go into the...</span></p>
+<p class="p1"><span class="s2">What do you do?</span></p>
+<p class="p1"><span class="s2">27:28 – Guest: Most of the applications...</span></p>
+<p class="p1"><span class="s2">28:17 – John.</span></p>
+<p class="p1"><span class="s2">28:25 – <a href="https://twitter.com/cmaxw?lang=en"><span class="s3">Chuck:</span></a> I love deleting code!</span></p>
+<p class="p1"><span class="s2">28:32 – John: You end up in a spaghetti pool, though, if you needed that deleted code. Nooooo!!!</span></p>
+<p class="p1"><span class="s2">29:00 – Chuck.</span></p>
+<p class="p1"><span class="s2">29:01 – Guest. </span></p>
+<p class="p6"><span class="s5">29:10 – <a href="https://devchat.tv/get-a-coder-job/"><span class="s4">Advertisement: Get A Coder Job!</span></a></span></p>
+<p class="p1"><span class="s2">29:49 – John: Let’s talk about reducers – the smallest part of your tip sections. You say, “keep them simple” – how do you keep them simple?</span></p>
+<p class="p1"><span class="s2">30:07 – Guest: I have received this observation from several people. This is the biggest problem I had. </span></p>
+<p class="p1"><span class="s2">How to keep them simple...</span></p>
+<p class="p1"><span class="s2">31:08 – John: When someone makes that type of code – where would you want them to put it?</span></p>
+<p class="p1"><span class="s2">31:23 – Guest: It depends on different types of actions. Maybe I have some sort of matter that I added to the data – an action from my application we can catch it into an effect and...</span></p>
+<p class="p1"><span class="s2">Not all of the actions have to go to the reducer. </span></p>
+<p class="p1"><span class="s2">32:04 – John: I say, “Hmm...” when I see reducers like this...they are running a synchronized code inside of a reducer. And I see that a lot. </span></p>
+<p class="p1"><span class="s2">32:24 – Chuck.</span></p>
+<p class="p1"><span class="s2">32:28 – John: You go call a reaction, and...sometimes they are doing HTP there, but it’s hard to explain. </span></p>
+<p class="p1"><span class="s2">33:11 – John: What are some of the things that they can do to step-into, when they are using these?</span></p>
+<p class="p1"><span class="s2">33:16 – Guest: That’s why I only have these things about the reducers. </span></p>
+<p class="p1"><span class="s2">33:48 – Chuck: I am wondering what is the life cycle look like? What do you call a reducer from an effect from an action or vice versa?</span></p>
+<p class="p1"><span class="s2">34:09 – <i>Guest answers the question.</i> </span></p>
+<p class="p1"><span class="s2">34:37 – John: It can be confusing with all of these different terms. Where does it end? Your component you have to say: call this action. Perform this action and then the action says get customers – the NgRx library listens for that and helps connect to the reducer for you. Look into the action and then return that to a stream to whatever...</span></p>
+<p class="p1"><span class="s2">35:29 – Guest: Yes, it sends it to reducers. </span></p>
+<p class="p1"><span class="s2"><i>Guest goes into more detail.</i></span></p>
+<p class="p1"><span class="s2">36:09 – John: You never talk to the reducer directly?</span></p>
+<p class="p1"><span class="s2">36:17 – Chuck: ...is that something I should have done before – or does it call <a href="https://blog.angularindepth.com/ngrx-tips-tricks-69feb20a42a7"><span class="s3">effects</span></a> and the effects load the information into the state and the reducer pulls it out for the action?</span></p>
+<p class="p1"><span class="s2">36:46 – Guest. </span></p>
+<p class="p1"><span class="s2">36:58 – Chuck.</span></p>
+<p class="p1"><span class="s2">37:03 – Guest. </span></p>
+<p class="p1"><span class="s2">37:53 – John: It really depends on what you want to do, Chuck. </span></p>
+<p class="p1"><span class="s2"><i>John will give a hypothetical scenario. </i></span></p>
+<p class="p1"><span class="s2">38:58 – Chuck: In your scenario, let’s say...</span></p>
+<p class="p1"><span class="s2">39:14 – John: Everything is right up until the end there. </span></p>
+<p class="p1"><span class="s2">It’s a little magical, honestly. I just know here is my selector and here is my data! </span></p>
+<p class="p1"><span class="s2">40:17 – Chuck: Selector is essentially I am interested in THIS state or THIS state change. </span></p>
+<p class="p1"><span class="s2">40:40 – Guest. </span></p>
+<p class="p1"><span class="s2">40:50 – Chuck: So when that changes...</span></p>
+<p class="p1"><span class="s2">40:56 – Guest.</span></p>
+<p class="p1"><span class="s2">40:59 – John. </span></p>
+<p class="p1"><span class="s2">41:05 – Chuck: A little piece of the overall store.</span></p>
+<p class="p1"><span class="s2">41:18 – Guest: My tip there was a bout the selectors...</span></p>
+<p class="p1"><span class="s2">42:30 – Chuck: So I can hand off my selector to multiple places?</span></p>
+<p class="p1"><span class="s2">42:36 – Guest: Yep. You don’t need to know anything else. </span></p>
+<p class="p1"><span class="s2">42:44 – Guest: Combine it as needed. Another benefit here is memorization. It says that each time you select pure functions it wont call the function again. </span></p>
+<p class="p1"><span class="s2">43:42 – I am seeing a trend in your tips, too. I am seeing easier way to code. You are always saying selector technique. There are a lot of terms in NgRx module. Dispatchers and states and stores...it’s nice to have a way to create the code easier.</span></p>
+<p class="p1"><span class="s2">44:21 – Guest: It does take a lot of time for someone to grasp.</span></p>
+<p class="p1"><span class="s2">44:30 – Chuck.</span></p>
+<p class="p1"><span class="s2">44:35 – John: Don’t use the store all over the place – that’s what Adrian says!</span></p>
+<p class="p1"><span class="s2">44:54 – Guest: I think it’s more like dumb components. I have a container of all of these dumb components. The container is the one that KNOWS. </span></p>
+<p class="p1"><span class="s2">46:22 – Chuck: It’s just a button. </span></p>
+<p class="p1"><span class="s2">46:28 – Guest: You click the button and it triggers. Whenever you want to use that component then you...</span></p>
+<p class="p1"><span class="s2">46:48 – Chuck: Any types of data that you wouldn’t want to use in your NgRx store?</span></p>
+<p class="p1"><span class="s2">47:07 – Guest: It depends – I am not holding any logging information there, though. </span></p>
+<p class="p1"><span class="s2">47:51 – John: I like to ask WHY. Property initialization. You are saying...</span></p>
+<p class="p1"><span class="s2">48:11 – Guest: It’s less code and it’s reasonable. If I can have less code then I’d love to have it. I think it’s cleaner b/c it’s not that much code. Most people might think blah, blah, blah, but I think it looks okay.</span></p>
+<p class="p1"><span class="s2">48:46 – John: I can see why it would be less code. </span></p>
+<p class="p1"><span class="s2">48:57 – Guest. </span></p>
+<p class="p1"><span class="s2">49:07 – John: I haven’t seen this: looking at your property initializer...</span></p>
+<p class="p1"><span class="s2">Looking at your code here, Adrian...</span></p>
+<p class="p1"><span class="s2">The store object itself is a reference to the NgRx store. That means you have to...</span></p>
+<p class="p1"><span class="s2">To me I don’t want my app to know that NgRx is involved. I started to do this...I was creating an Angular service, which...</span></p>
+<p class="p1"><span class="s2">Have you done this before?</span></p>
+<p class="p1"><span class="s2">50:33 – Guest:<span class="Apple-converted-space">  </span>I have seen this function but I haven’t played with it. It makes sense. This takes it a step further. Like you say it’s perfect b/c nobody knows anything about that store, but it’s a new level. I think you have some benefits with that way of doing it, too.</span></p>
+<p class="p1"><span class="s2">51:23 – John: The one thing that sticks out is company name is your observable, then your...</span></p>
+<p class="p1"><span class="s2">52:10 – Guest: Yeah that’s good b/c it might be better! They might not even know what NgRx is, and you have a service so just use them. Yeah it’s just an observable. </span></p>
+<p class="p1"><span class="s2">52:33 – Chuck: You don’t want to see my garage.</span></p>
+<p class="p1"><span class="s2">52:44 – Guest: Some services are underrated. Like you suggested we could use them for much more.</span></p>
+<p class="p1"><span class="s2">53:01 – Guest: It was nice writing these tips.</span></p>
+<p class="p1"><span class="s2">53:19 – Chuck: What are working on now? </span></p>
+<p class="p1"><span class="s2">53:23 – Guest: Writing a new blog.</span></p>
+<p class="p1"><span class="s2">53:41 – Chuck: We will keep an eye out for it. Where do you post?</span></p>
+<p class="p1"><span class="s2">53:55 – Guest: Usually Medium, and Twitter.</span></p>
+<p class="p1"><span class="s2">Search for my name and you will find me, b/c I have the same handler on all the places.</span></p>
+<p class="p1"><span class="s2">54:15 – Chuck &amp; John: Let’s go to picks!</span></p>
+<p class="p1"><span class="s2">54:30 – <i>Chuck is talking about future episodes and potential topics.</i> </span></p>
+<p class="p1"><span class="s2">You can vote stuff up on Trello on NgRx so we can go deeper on this topic.</span></p>
+<p class="p6"><span class="s5">55:40 – <a href="https://www.freshbooks.com/?ref=ppc-na-fb&amp;camp=US%2528SEM%2529Branded%257CEXM&amp;ag=r%252F+%257Efreshbooks&amp;kw=freshbooks&amp;campaignid=717543354&amp;adgroupid=51893696557&amp;kwid=kwd-298507762065&amp;dv=c&amp;ntwk=g&amp;crid=284685866051&amp;source=GOOGLE&amp;gclid=EAIaIQobChMI--6zho6H3gIVjsVkCh2wsQx6EAAYASAAEgL9B_D_BwE&amp;gclsrc=aw.ds&amp;dclid=CO7qmoiOh94CFUnHwAodiCQBUA"><span class="s4">Advertisement – Fresh Books!</span></a> </span></p>
+<p class="p6"><span class="s5">1:02:00 – <a href="https://www.cachefly.com"><span class="s4">Advertisement – Cache Fly!</span></a></span></p>
+<p class="p1"><span class="s1"><b>Links:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li1"><span class="s6"><a href="https://vuejs.org"><span class="s3">Vue</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://jquery.com"><span class="s3">jQuery</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://angular.io"><span class="s3">Angular</span></a></span></li>
+ 	<li class="li8"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><span class="s3">C#</span></a></li>
+ 	<li class="li6"><span class="s7"><a href="https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor"><span class="s3">Chuck’s Twitter</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://twitter.com/John_Papa?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor"><span class="s3">John Papa’s Twitter</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://medium.com/@adrianfaciu"><span class="s3">Adrian’s Medium</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://twitter.com/adrianfaciu"><span class="s3">Adrian’s Twitter</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://github.com/adrianfaciu"><span class="s3">Adrian’s GitHub</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://blog.angularindepth.com/@adrianfaciu"><span class="s3">Adrian’s Blog Post</span></a></span></li>
+ 	<li class="li6"><span class="s7"><a href="https://medium.com/@adrianfaciu/testing-ngrx-effects-3682cb5d760e"><span class="s3">Adrian’s Article: Testing NgRx Effects</span></a></span></li>
+</ul>
+<p class="p1"><span class="s1"><b>Sponsors:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li6"><span class="s8"><a href="https://angularbootcamp.com/"><span class="s9">Angular Boot Camp</span></a></span></li>
+ 	<li class="li6"><span class="s10"><a href="https://www.digitalocean.com/"><span class="s3">Fresh Books</span></a></span></li>
+ 	<li class="li9"><span class="s11"><a href="https://devchat.tv/get-a-coder-job/"><span class="s12">Get a Coder Job Course</span></a></span></li>
+ 	<li class="li9"><span class="s11"><a href="https://www.cachefly.com"><span class="s12">Cache Fly</span></a></span></li>
+</ul>
+<p class="p2"><span class="s1"><b>Picks:</b></span></p>
+<p class="p10"><span class="s2">John </span></p>
+
+<ul class="ul1">
+ 	<li class="li10"><span class="s13"><a href="https://github.com/johnpapa/angular-ngrx-data"><span class="s14">NgRx Data</span></a></span></li>
+ 	<li class="li10"><span class="s2">Conferences<span class="Apple-converted-space">  </span>- Don’t feel mofo </span></li>
+</ul>
+<p class="p10"><span class="s2">Charles </span></p>
+
+<ul class="ul1">
+ 	<li class="li10"><span class="s13"><a href="https://discordapp.com/"><span class="s14">Discord App</span></a></span></li>
+</ul>
+<p class="p10"><span class="s2">Adrain</span></p>
+
+<ul class="ul1">
+ 	<li class="li10"><span class="s13"><a href="https://blog.angularindepth.com/ngrx-tips-tricks-69feb20a42a7"><span class="s14">Angular In-depth Doc</span></a></span></li>
+ 	<li class="li10"><span class="s13"><a href="https://wallabyjs.com/"><span class="s14">Wallaby</span></a></span></li>
+</ul>
+
+<h3>Transcript</h3>
+
+

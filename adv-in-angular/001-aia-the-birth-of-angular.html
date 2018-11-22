@@ -1,0 +1,336 @@
+---
+layout: layouts/post.njk
+title: >
+      001 AiA The Birth of Angular
+date: 2014-07-31 13:00:00
+episode_number: 001
+duration: 
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA001BirthofAngular.mp3
+tags: adv-in-angular
+---
+
+In the inaugural episode of Adventures in Angular, the panelists talk to Miško Hevery about the birth of AngularJS.
+
+<h3>Transcript</h3>
+
+<strong>CHUCK:</strong> This is really gonna happen, huh?
+
+Hey everybody, and welcome to Episode 1 of The Adventures in Angular Podcast. This week on our panel, we have Joe Eames.
+
+<strong>JOE:</strong> Hey, everybody!
+
+<strong>CHUCK:</strong> Aaron Frost.
+
+<strong>AARON:</strong> Hello.
+
+<strong>CHUCK:</strong> Brian Ford.
+
+<strong>BRIAN:</strong> Hello!
+
+<strong>CHUCK:</strong> I'm Charles Max Wood from devchat.tv, and we have Miško Hevery here to help us kick off the show.
+
+<strong>MIŠKO:</strong> Thanks for having me.
+
+<strong>AARON</strong>: Miškoooo…
+
+<strong>CHUCK</strong>: Miško… yeah, that’s right. [Chuckles]
+
+<strong>AARON:</strong> We love you…
+
+<strong>CHUCK:</strong> So the title of this show is The Birth of Angular. And we are going to just talk about where Angular came from. Before we do that though, I just wanna briefly talk about the show itself. We are going to be doing a few things a little bit differently on the show. One of the first things that’s different is that it’s going to be a little bit shorter. The other shows, we usually aim for about an hour; this one is going to be about a half hour. We might go a little longer here or there. And it's really focused on a framework which is kind of first for me at least, because all my other show’s focused on language or ecosystem, (ecosystem being iOS) as opposed to an actual framework. So, it should be fun, and we can hopefully get a little bit more into the weeds to talk about what you need to know to really succeed with Angular.
+
+<strong>AARON:</strong> That’s cool, man. I'm excited.
+
+<strong>CHUCK:</strong> So, where did Angular come from?
+
+<strong>MIŠKO:</strong> From want of imagination, I guess. [Chuckles] It actually has been a pretty long road. The original idea was actually that I was just frustrated with how much time and effort it takes to build a simple form that can persist data. I don’t mean like a full-on app. I didn’t mean like… you know, how long does it take to put on a simple form on a site that can collect your email address and your name, and then maybe email this to you or store it in the database or something.
+
+Just imagine you are kind of a mom and pop shop and you just wanna have a guest book or something where people can sign or something like that. And the moment you wanna do something, you have to understand things like application, and databases, and all kinds of crazy stuff. And so the original thought for AngularJS was really something very simple which was, “Can we, just by adding forms and a bunch of input elements on a page, (and maybe a little bit of a JavaScript), could we turn that into a self-persisted, the URL bookmarkable kind of a database, so that when you come to a site and you fill in a lot of form and you hit the send button, it gives you a URL that you can actually come back [unintelligible] URL and [unintelligible] that in the future.
+
+So the original goal was not to create the framework as it is; the original goal was to allow people (or maybe not the programing savvy) to be able to put a little more interactivity to their static page -- and one would normally have to.
+
+<strong>CHUCK:</strong> So, more of a toolkit?
+
+<strong>MIŠKO:</strong> Kind of, yeah. The target audience was actually for web designers; for somebody who doesn’t actually know how to program but can build a bunch of tags on a page, and turn a form that if anybody is going to do, should be something that’s actually persistable.
+
+<strong>CHUCK:</strong> Is that kind of the route of the way that Angular extends HTML?
+
+<strong>MIŠKO:</strong> It is.
+
+<strong>AARON:</strong> When you were thinking this, were you like working on your own projects at home, or what were you working on when you decided you needed to make the beginnings of it?
+
+<strong>MIŠKO:</strong> Well, I had a full-time job at Google; we’re in this group called Test Mercenary, where we went to different people around Google, to different teams and help them with testing hygiene. And the goal was kind of a ‘teach a man to fish’ kind of a thing. You know, how can we teach this to the people in this project how best to structure their code for testability, and how best to write the unit tests and so on. So that was kind of my day job. And kind of in the spare free time, I was going to [unintelligible] this idea of Angular and persistent. And the thing I forgot to mention was my boss who said, “You know Miško, I think this JavaScript thing might be useful to know. And you are a Java guy; maybe you should learn to build something in JavaScript to kind of learn how to use it.” And so the idea of a persistable form was kind of what was born out of that discussion.
+
+<strong>CHUCK:</strong> What do you mean by ‘a persistable form’?
+
+<strong>MIŠKO:</strong> I mean you just imagine writing a static HTML page, you make forms and input fields on it, and throw in a special script at the top and all of a sudden that form, when you hit ‘submit’ button, actually persists to some cloud storage, which you don’t have to provision; it automatically provisions it for you. So you don’t really have to know nothing about programming; you just have to know that you make a form, and you throw this tag over there, all of a sudden, it will be persisted.
+
+<strong>AARON:</strong> That’s cool. And that was kind of the idea behind your initial go at the Angular framework?
+
+<strong>MIŠKO:</strong> Again, it's not a framework at that point; it's really just meant for web designers or web developers. So how did it become a framework I guess is the question that everybody’s wondering, right?
+
+<strong>JOE:</strong> Yes.
+
+<strong>MIŠKO:</strong> So time goes on, and I kind of worked on this thing in my spare time. And as you can imagine, we had to have a database running in the cloud, and we have to solve lot of interesting problems about how we can do cross URL communication and persisted data and storage, and so on and so forth. And so we actually built all these stuff up. And I say ‘we’ because there was another guy working with me, Adam Abron; the two of us kind of building this in our free time.
+
+Fast-forward a little bit and my Google day job, I started working on a project called Google Feedback, which the idea was that you come to a Google website, if something doesn’t work quite right, you click a button in the corner and then highlight that portion of the screen and say, “This thing over here, doesn’t look right to me. I would like to bug report to it.” These things go back to Google, and then Google tries to automatically correlate similar bug reports together into a cohesive thing, and based on which these things people report more often, you can [unintelligible].
+
+<strong>JOE:</strong> Working on the backend?
+
+<strong>MIŠKO:</strong> Right. So imagine you have a form, and let’s say this form is even hosted on file home//, you throw a script tag and then the form becomes persistable, the data has to go somewhere. So in addition to having a script tag that you are going to include to your site, we were also running a database in a cloud which actually allows you to store provision and manage all those data out of all these forms. And on this particular backend, I was working with a fellow called Adam Abrons, and he actually built the backend while I was more focused on the form and JavaScript.
+
+Fast forward a little bit, and we come to Google where I started working on a new project called Google Feedback. And Google feedback it allows the users to highlight the portion of the page and send them back to Google, and Google then correlate similar reports and do something useful like create bug fixes.
+
+Now if you can imagine, if you release to [unintelligible] Google, lot of data coming from all the users, and so we need to have a backend UI which would allow to try out all the comments coming from all the users. And this UI was actually being built in GWT, Google Web Toolkit.
+
+As you can imagine, a lot of what this application would do was show different forms, different data that was submitted by the user. And so I was kind of scratching my head and saying, “This is really just like simple static form that can persist data, and so on.” And so I started really wondering like, “Hey, could I really build something on a large scale app, with this idea of just having tags on your HTML that can persist forms?” Because if you think about it, any web application is really just glorified bunch of forms.
+
+<strong>AARON:</strong> Yeah.
+
+<strong>MIŠKO:</strong> Ok, so this is the point where part of the frustration… what got to me where GWT is the compiled language… I don’t wanna get into all the details of it, but it's not easy. And we’ve put in a lot of effort to bring up a GWT application. I believe it took something like three engineers six months before we got kind of a basic UI going in GWT.
+
+And the other frustrating part about GWT was that the code was really not written with testing in mind; the GWT framework really was not doing things to make it easy to write unit tests. Because of my prior life, I was a testing advocate, this was a big thing that I really cared about, to make sure that the app I build in GWT would be testable.
+
+And so in kind of a moment of frustration, I went to my boss, Brad and, “You know what, this is a crazy. Why would you ever wanna stuff build it this way? I believe with this thing I've been playing with on the side, I can redo this whole app in just a couple of weeks.” And Brad kind of called me on it. Called my bluff, and he was like, “Ok, if you know you can do it, go for it.”
+
+And so it took, I think it took me like three weeks to rebuild it. I took random pieces of the Angular library [unintelligible] tags on the page, and then kind of reassembled, reshuffled it until they were able to build a web app using this thing that was originally meant for web designers, but it was kind of repurposed for developers that actually understood coding. So this was really the birth of Angular.JS.
+
+<strong>AARON:</strong> Can I ask you a few questions about what it looked like back then?
+
+<strong>MIŠKO:</strong> Yeah.
+
+<strong>AARON:</strong> So, was it a lot heavier like jQuery and less frameworky, or what did the code and syntax look like?
+
+<strong>MIŠKO:</strong> Good question. The idea how tags for example is just is showing [unintelligible], those were always there, but they were hard coded into the system. You couldn’t just say, “Oh, let me make a new directive.” Like, we gave you a set and that’s the set you have; you couldn’t add or remove things from it. Dependency injection wasn’t really part of it. We also had proper testing; we used injection internally, but we did not have a dependency injection framework that would automatically [unintelligible] your application. So there was really no need for us, because it was meant for web designers, so they would never have to write…
+
+<strong>AARON:</strong> Sure, yeah.
+
+<strong>MIŠKO:</strong> One of the things that happened was that when we started rebuilding the application using the bits and pieces of Angular, we saw things that will be kind of [unintelligible]. These things like ‘ng-if’ and ‘ng-hide’ are super useful, but they are fixed; I cannot extend them. I really wish I had something like a zippy or a tag or something like that. This is where the idea came of turning them into proper directives, so that it can actually be extended.
+
+And one of the first things we did is we said, “Ok, could we take this special set of core directives that are hard coded to the system, and could we extract them into reusable components, so that even Angular itself was built using the same mechanism but somebody else would be extending them.” We didn’t wanna have this two crossed world where Angular gets a special directive and special powers, and then the users just get some kind of a second class directive system; we wanted to prove to ourselves that Angular itself could be built… the core directives could be built by the same API that anybody else could build.
+
+<strong>AARON:</strong> Got you. How long it took before you started like adding controllers for code reuse and for modularity? How long did you get into it before you started adding those?
+
+<strong>MIŠKO:</strong> It's funny you bring up controllers, because controllers went through lot of different life cycles. At the very beginning, controller, we would do this trick where the controller was the scope. Like, we would monkey patch the methods from the controller on to the scope, and all the rules of scope inheritance would apply and you would have this weird, strange world where you would automatically inherit any parent controllers. And it was kind of a mess. So the controller thing is something we've been struggling and we’re revamping many times over so then later on, the control became something you inject scope into. And now the latest reincarnation of controller app syntax is our way of trying to tame this particular beast.
+
+<strong>CHUCK:</strong> What were some of the other differences between this early version of Angular that you used to build the feedback app for Google, and the version that we use today?
+
+<strong>MIŠKO:</strong> Like I said there was a lot more dependency injection in there. The code was a lot less structured. For example, the whole bootstrapping wasn’t even there, you know? You could think of it like at the very beginning, the only thing we really had was the HTML compiler, which could match up the tag directives against it.
+
+And once you put it together and other teams want to start using it, then they start asking you questions like, “How can I make it easier? How can I abstract things away?” And it was a constant and continuous kind of a refactoring process of turning this bunch of random code into a reusable framework that we could offer to the world.
+
+<strong>CHUCK:</strong> Was that framework that you offered the world sort of beta tested at Google then?
+
+<strong>MIŠKO:</strong> You could say that. Keep in mind that you really got the genealogy of the source code. The code started in a mercurial repository somewhere, and then eventually we moved it into Git, and then into a GitHub. These are all basically things that we, (me and Adam) have been working on in our free time. Eventually, the code gets open sourced; and only when it gets open sourced do we actually bring the code into Google, where it gets morphed a few more times into kind of  a real, reusable framework. And those small parts to Igor, who has pushed up a lot… kind of made it a real project into a real reusable component. So the history of the code is very long, and very convoluted. I wish I could say like, “Oh, the framework was born on this day.” But really, it was not something that we set out to do, and you cannot really say that all the code got written in this particular location or even in this particular repo. If you really look at the history of it, it is a long history; a lot of it was repurposed, rebuilt, rethought.
+
+<strong>CHUCK:</strong> So when did it initially release publicly?
+
+<strong>MIŠKO:</strong> Again, what does ‘publicly’ means? You mean like version 1.0 or when we open sourced it?
+
+<strong>CHUCK:</strong> Yeah, when did you open source it?
+
+<strong>MIŠKO:</strong> That was right before we brought the code into Google, and that was before my son was born, so that must have been 4.5-5 years ago.
+
+<strong>AARON:</strong> Awesome.
+
+<strong>CHUCK:</strong> What lead up to that decision? I mean, it's something we all appreciate now, but…
+
+<strong>MIŠKO:</strong> It was just a convenient way of getting code that was written outside of Google into Google. How do you get somebody rights to… this is the code you’ve been working on, and now you wanna bring it as part of Google,  so you just say, “Well, I'm just going to open source it, get an MIT license. And now, anybody, including Google is free to use it.” So that was just the simplest path of least resistance.
+
+<strong>CHUCK:</strong> Were there any political barriers to that, or were people pretty open to the idea?
+
+<strong>MIŠKO:</strong> You know, that’s a very good question. And [unintelligible] to Google is like single unity of something, whereas if you think about it, Google is made up of a lot of people and a lot of managers and so on. And it really depends on what kind of people you happen to be surrounded with. And I have to say that my manager Brad, and his manager, they were very supportive and open, and they were really interested in the gist of it rather than what is created and where. They were interested with, “Ok, what is the goal we are trying to build? What are we trying to make better? How can we get there in the right way?” Rather than worry about what is and isn’t politically acceptable. At the end of the day, everybody did the right thing. And really, if you are interested in doing the right thing, you can always find a way that gets you there.
+
+<strong>AARON:</strong> Did it ever have a different name besides Angular? Did it ever have like Miško's Framework? Like, I'm sure that’s what it was called first. What was like the name you called it before Angular?
+
+<strong>MIŠKO:</strong> Angular was coined by Adam Abrons, kind of at the very beginning before we actually brought it in at Google. So it's kind of been known as Angular ever since. But it did have a name before that, and that was Vanilla Binder.
+
+<strong>AARON:</strong> Vanilla Binder?
+
+<strong>MIŠKO:</strong> [Chuckles] Yeah.
+
+<strong>AARON:</strong> You should have kept with that one. That one is super catchy.
+
+<strong>CHUCK:</strong> Then it would have been mb-if.
+
+<strong>AARON:</strong> Yeah.
+
+<strong>MIŠKO:</strong> [Chuckles]
+
+<strong>AARON:</strong> That’s funny, man. That’s cool.
+
+<strong>JOE:</strong> Is that Vanilla or Manila?
+
+<strong>MIŠKO:</strong> That’s a good question too. I actually thought that the… Manila Binder is the one that you put it inside of your cabinet was actually with the v, [Chuckles] not realizing that actually it's Manila with an ‘m’.
+
+<strong>BRIAN:</strong> So you call that Vanilla Binder, VB?
+
+<strong>MIŠKO:</strong> Right.
+
+<strong>CHUCK:</strong> That wouldn’t have been confusing.
+
+<strong>BRIAN:</strong> Well, I think we got some good ideas for ng-conf next year - Vanilla Binders.
+
+<strong>CHUCK:</strong> [Chuckles] That’s right, edible office supplies.
+
+<strong>MIŠKO:</strong> I'm not going to get any kick out of it.
+
+<strong>BRIAN:</strong> [Chuckles] That’s like the nuances of the language that most people don’t get to know, right? So it's kind of a cool little factoid. So that's cool.
+
+<strong>JOE:</strong> Was there ever a time when you thought that this was really just not going to go anywhere at all?
+
+<strong>MIŠKO:</strong> Yeah. I mean, you always think that when you are at the very beginning. I certainly didn’t imagine this kind of success, but I was kind of hoping… at the very beginning, right before we kind of brought it in to Google, we got super excited when we got one person trying it out and building random things on it. And we kind of showed it to a lot of different people, and it was kind of interesting because most people’s reaction was like, “What? You are bringing code back to HTML? Didn’t you get a note that that’s a bad idea?” You try to explain that it's not quite the same thing; it's actually a good idea. I mean, there's a lot of push back that happened. So, a lot of the feedback that I was getting at the very beginning was like, “Why would you ever wanna put code in HTML?”
+
+The other thing that I was really struggling with is how to explain to people what the cell binding, persistent thing was. And I think the closest I came up with at the very beginning was just saying, “Hey, it's like the spreadsheet for the web. And in the spreadsheet, the UI is fixed; you don’t get to choose the way the page looks like. But with this thing, you can kind of get all the spreadsheet and all the [unintelligible] benefit you especially, but you actually get to control the UI through writing your own HTML.” It was kind of like I was trying to explain to people what exactly I was trying to do.
+
+<strong>AARON:</strong> That explanation you just gave, you eventually morphed that into this other vision, that actually, I heard you present when I first was learning of Angular, which is that it's a framework; it's a better web. And you explained that the browser’s a viewport for XML, not designed with web apps. Like when did you formulate that idea? That kind of caught me real quick.
+
+<strong>MIŠKO:</strong> Yeah, so overtime, if we try to explain and find explanation for people what exactly you are building, these are kind of things that you try and they kind of stick. But I always find it interesting how people thinks like, “Oh, I had this vision from the very beginning,” not realizing that actually, you have different visions, you smoked lot of things before you get the stuff really light and [unintelligible] and it becomes the common vocabulary. So, there's no linear path from point A to point B.
+
+<strong>AARON:</strong> I think this isn’t a point question. I think for most of the fans, as far as like the people who love your team on top of the language, when did and how did you guys get Brian involved?
+
+<strong>MIŠKO:</strong> So before Brian, there was Igor. And Igor is a guy I found on Twitter. It was kind of love at first sight; we decided that he likes testing, and I like testing, and then “Oh my god, we’re from the same country. How can we not like each other?”
+
+<strong>JOE:</strong> Yeah. We all know about the Miško-Igor bromance. We get it. [Chuckles]
+
+<strong>MIŠKO:</strong> All right, all right. I'm glad you get that one.
+
+<strong>AARON:</strong> So how did you guys find Brian? Because he’s pretty much every one has a man crush on him now too, so how did you guys get Brian involved?
+
+<strong>MIŠKO:</strong> Brian, yes so once we get Igor, and Igor kind of whooped it out to shape. And Igor is really the front-facing, the ‘community grower’ kind of a guy. And Brian was our first intern. And the goal we had for Brian was to build Batarang. Maybe Brian can speak more about it.
+
+<strong>BRIAN:</strong> Yeah, sure. So I was just a college kid hunting for internships, and so interviewed at Google just kind of generically. I passed some technical interviews, and then eventually the time came to match me to a particular project. So I talked to a couple different teams, and I talked to Igor, and Igor was like super intimidating on the phone. He was like, “This is really important. We don’t want you unless you are really excited about this. This is important.” So I was like, “This guy sounds like he's kind of scary.”
+
+But I really wanna do JavaScript stuff, so I went with the projects, and showed up at Google and found out that Igor is just this big, lovable guy that’s not actually scary at all. So I worked on this extension ‘Batarang’ that lets you kind of introspect Angular and see difference things, and debug things and get performance metrics, and that’s how I got started with the project. When my internship was over, I kind of continued working part time while I finish my degree, and then I graduated, and now I'm on the team full time. So that’s my life story as it pertains to Angular.
+
+<strong>JOE:</strong> So Brian, at what point did you start being known as the ‘Joseph Gordon-Levitt’ of Angular?
+
+<strong>BRIAN:</strong> Actually, I think that was just this morning.
+
+<strong>JOE:</strong> [Chuckles]
+
+<strong>BRIAN:</strong> [Chuckles] I think you coined that, actually.
+
+<strong>JOE:</strong> Awesome. Well, I look forward to hearing that from more sources.
+
+<strong>AARON:</strong> [Chuckles] It’s going on in a podcast now, so it's official.
+
+<strong>BRIAN:</strong> I need to update my Twitter bio.
+
+<strong>JOE:</strong> Yeah, you do.
+
+<strong>CHUCK:</strong> Why did you call it Batarang?
+
+<strong>BRIAN:</strong> That's a good question. So originally, there were a couple different names that we had for it, but they were all around this kind of like Angular, Chrome dev tools extension thing and we thought like, “Oh, that’s going to be kind of hard to Google.” Like Angular and Chrome, because you'll get bug reports from GitHub about some specific issue in a specific version of Chrome or the specific version of Angular, and all of these sort of things. So we went with Batarang, because if you search Angular and Batarang, what else is there going to be?
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>BRIAN:</strong> The name by the way for those that aren’t familiar with it, comes from with this boomerang-like thing that Batman has, and Angular has this kind of superhero theme in our release names, so we thought this was a fun, goofy thing to name it. I don’t know if I'm beating the thing from Batman on Google search results quite yet, [chuckles] but maybe soon.
+
+<strong>AARON:</strong> [Chuckles] Come on community. Let’s get some bots going.
+
+<strong>BRIAN:</strong> No, you can’t game Google searches. You can’t do it.
+
+<strong>AARON:</strong> That's true.
+
+<strong>CHUCK:</strong> So we are getting toward the end of our time. Is there anything else that we need to know about kind of the origin story of Angular?
+
+<strong>JOE:</strong> I like what you did there, Chuck; we were talking about super heroes and you talked about the ‘origin’ story of Angular.
+
+<strong>CHUCK:</strong> That’s right.
+
+<strong>JOE:</strong> I like that.
+
+<strong>BRIAN:</strong> Maybe the only other thing, because I get a lot of questions on this that I can’t answer would be, “What other software or other solutions in the web worlds inspired you or influenced you?” I know in the past you said Flex, and kind of running away from the things that GWT was doing, that was also kind of a big deal, but were there any other things that you looked up that you think were influential?
+
+<strong>MIŠKO:</strong> I think Flex was the big one because I was actually working for Adobe on a product that we were trying to release, it was going to be competition to Flex, right before Adobe bought Macromedia, which kind of got Flex and of course, the project I was working on got canceled. It was actually how I got to Google, because I was a bit sad and I had to look for other opportunities. But Flex did actually influence a lot of the ideas, especially the ideas around data binding and things, and the declarative notion of like throwing bunch of… you know, in Flex, it was XML that kind of looked like HTML, but this idea of just throwing declarative stuff on the page and actually instantiating components behind it.
+
+<strong>AARON:</strong> That’s interesting. I do meet a lot of Angular people who were like Flex developers in the past life, so that makes sense.
+
+<strong>CHUCK:</strong> All right, well let’s get to some picks. Aaron, do you wanna start us with the picks?
+
+<strong>AARON:</strong> My first pick is Samsung is coming out with a new 105-inch TV and you can preorder it for $120,000.
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>AARON:</strong> That sounds insane, but I'll put a link in the show notes so you can see it.
+
+<strong>MISKO:</strong> TV or a new Tesla; let me think about that.
+
+<strong>AARON:</strong> I know, right?
+
+<strong>BRIAN:</strong> You should also include a link to your kick starter, so people can donate towards you purchasing this television.
+
+<strong>AARON:</strong> Yeah, I will.
+
+<strong>BRIAN:</strong> [Chuckles]
+
+<strong>AARON:</strong> The other thing is Can I Use, which is a site I use a lot. Got a face lift. If anyone hasn’t seen it recently, go check it out. I mean, the color scheme is the same which makes you sad, but it looks nicer; it's cool.
+
+And then there's a program called JS Homes, which I'm going to include in the notes, but I’d like everyone to go check it out. It's by a dude named Eric Elliott, and he’s trying to fight poverty with code. And this JS Homes Kickstarter will allow him to get equipment and facilities to train homeless people on how to code. And he's got some real life practical examples of how he's helped people. So JS Homes is another thing that I'm going to pick this week. So those are my three picks.
+
+<strong>CHUCK:</strong> Very cool. Brian, what are your picks?
+
+<strong>BRIAN:</strong> My first pick is AngularJS itself.
+
+<strong>MIŠKO:</strong> Hey man, I was going to pick that. That is so not fair.
+
+[Laughter]
+
+<strong>BRIAN:</strong> Someone’s going to do it eventually, so.
+
+<strong>CHUCK:</strong> Why don’t you just go ahead and pick things like ‘air’ and ‘food’.
+
+<strong>BRIAN:</strong> Yeah. [Chuckles] Yeah, abstractions, concepts…. So, my real pick is Angular ins, which is a project that I'm making or try and work on this summer. And the idea is to instrument Angular to give you real time feedback on certain best practices; so things like you are using [unintelligible] wrong, or you’re manipulating the DOM from a controller, which you shouldn’t do. And so it's still kind of work in progress, but hopefully by the time this podcast is actually released, you'll be able to use it.
+
+<strong>AARON:</strong> I love that idea. That’s awesome, man.
+
+<strong>CHUCK:</strong> Yes, very nice. All right, Joe what are your picks?
+
+<strong>JOE:</strong> I'm only going to make one pick today. The new Weird Al album, ‘Mandatory Fun’ just came out. I've been listening to it on Spotify, and really enjoying it. Maybe I'll do a second pick which is Spotify. I upgraded it to the premium Spotify, $10/month and I never thought that I’d be paying for music sort of roundabout way, and really appreciating that too. So I've been having a lot of fun listening to Weird Al’s Mandatory Fun on my Spotify account.
+
+<strong>CHUCK:</strong> Cool. I'm just going to pick a couple of chrome plugins that I use that are pretty handy. One of them is Pretty JSON. If you're working on JSON APIs, (which you probably are if you are using Angular) then if you just load up the end point with pretty JSON instead of getting this awesome blob of text, it's just this wall of text, Pretty JSON actually parses it out and then shows you what’s there. And in some cases, I'm actually passing back HTML within the JSON, and it actually renders that, so it will render the header tags and all that stuff too. So it's really nice. I really like that.
+
+Another one is ModHeader. And this was handy for me when I was actually trying to fake out an end point that I was writing that a specific agent would be using. In this case, it was for an RSS app, and I was trying to tell it that I was iTunes, and so it would return RSS instead of HTML. And so by using the ModHeader plugin, I was actually able to fake it out so that it would say, “Hey, I'm iTunes. You need to give me an RSS feed instead of the HTML representation.” So I like both of those and yeah, those are my picks.
+
+Miško, what are your picks?
+
+<strong>MIŠKO:</strong> Well, since Brian already took AngularJS, I'm going to time travel. I'm going to pick internet archive, and I'm going to ask you to go find GetAngular.com back in the history, so you can see the site as it was originally.
+
+<strong>CHUCK:</strong> Very nice. And finally, before we wrap up, do you have some tip or trick or favorite thing that you like to do with Angular?
+
+<strong>MIŠKO: </strong>Write tests.
+
+<strong>AARON</strong>: Tip of the week: write tests.
+
+<strong>CHUCK:</strong> But TDD is dead.
+
+<strong>AARON:</strong> Whaaat?
+
+<strong>JOE:</strong> Nice.
+
+<strong>AARON:</strong> What about Brian? Tip of the week?
+
+<strong>BRIAN:</strong> My tip of the week is before you file an issue on GitHub, search existing issues -- including closed issues -- and see if someone else has also filed this. That’s my tip. It's kind of self-serving.
+
+<strong>CHUCK:</strong> Awesome. Aaron, do you have a tip of the week?
+
+<strong>AARON:</strong> Yeah, don’t go crazy on your ng classes. Keep them simple.
+
+<strong>CHUCK:</strong> Joe?
+
+<strong>JOE:</strong> My tip of the week is use good names for your injectable objects in Angular.
+
+<strong>CHUCK:</strong> And my tip of the week is depending on what your backend is, I ran into an issue with CORS, which is the cross, whatever something because I was using a different subdomain.
+
+<strong>JOE:</strong> Cross Origin Restriction?
+
+<strong>CHUCK:</strong> Yeah, so make sure you understand that and have the right headers on your backend, if you are going cross domain.
+
+<strong>JOE:</strong> Cool, all right.
+
+<strong><em>[This episode is sponsored by Mad Glory. You’ve been building software for a long time and sometimes it gets a little overwhelming; work piles up, hiring sucks, and it's hard to get projects out the door. Check out Mad Glory. They are a small shop with experience shipping big products. They're smart, dedicated, will augment your team, and work as hard as you do. Find them online at madglory.com or on Twitter at @madglory.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by The Blue Box Group. Check them out at bluebox.net]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by Cache Fly, the world’s fastest CDN. Deliver your content fast with Cache Fly. Visit cachefly.com to learn more.]</em></strong>

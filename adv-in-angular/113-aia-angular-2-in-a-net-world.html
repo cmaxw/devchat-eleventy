@@ -1,0 +1,406 @@
+---
+layout: layouts/post.njk
+title: >
+      113 AiA Angular 2 in a .NET World
+date: 2016-10-06 06:00:25
+episode_number: 113
+duration: 1:03:01
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA113_Angular_2_in_a_NET_World.mp3
+tags: adv-in-angular
+---
+
+<b></b><span style="font-weight: 400;">1:25 - Introducing Marcel Good</span>
+<ul>
+ 	<li style="font-weight: 400;"><a href="http://www.getbreezenow.com/"><span style="font-weight: 400;">Breeze</span></a></li>
+ 	<li style="font-weight: 400;"><a href="https://github.com/marcelgood"><span style="font-weight: 400;">Github</span></a></li>
+ 	<li style="font-weight: 400;"><a href="https://twitter.com/superswiss"><span style="font-weight: 400;">Twitter</span></a></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">info@ideablade.com</span></li>
+</ul>
+<span style="font-weight: 400;">2:15 - Introducing Steve Schmitt</span>
+<ul>
+ 	<li style="font-weight: 400;"><a href="https://www.ideablade.com/"><span style="font-weight: 400;">IdeaBlade</span></a></li>
+ 	<li style="font-weight: 400;"><a href="https://github.com/steveschmitt"><span style="font-weight: 400;">Github</span></a></li>
+</ul>
+4:00 - Why replace a MVC with Angular 2.0?
+
+<span style="font-weight: 400;">6:30 - Transitioning platforms</span>
+
+<span style="font-weight: 400;">9:50 - Projects on Angular 2.0</span>
+
+14:50 - Visual Studio and other tools for Angular 2.0
+
+<span style="font-weight: 400;">24:50- Debugging</span>
+
+<span style="font-weight: 400;">27:30 - Using Webpack in Visual Studio</span>
+
+<span style="font-weight: 400;">30:20 - Structuring an application in .Net</span>
+
+<span style="font-weight: 400;">34:20 - Managing app data</span>
+
+<span style="font-weight: 400;">39:20 - Managing changes</span>
+
+<span style="font-weight: 400;">49:15 - Examples of Visual Studio working with Angular 2</span>
+<h3>Picks:</h3>
+<a href="https://www.siliconvalley-codecamp.com/"><span style="font-weight: 400;">Silicon Valley Code Camp</span></a><span style="font-weight: 400;"> (Ward)</span>
+
+<a href="https://devintersection.com/"><span style="font-weight: 400;">DEVintersection conference in Las Vegas</span></a><span style="font-weight: 400;"> (Ward)</span>
+
+<a href="https://www.youtube.com/watch?v=SfWR3dKnFIo"><span style="font-weight: 400;">Brian Lonsdorf - “Oh Composable World!” Keynote speech</span></a><span style="font-weight: 400;"> (Lukas)</span>
+
+<a href="http://www.michaelvey.com/books.php"><i><span style="font-weight: 400;">Michael Vey</span></i><span style="font-weight: 400;"> Series</span></a><span style="font-weight: 400;"> by Richard Paul Evans, specifically book six: </span><a href="https://www.amazon.com/Michael-Vey-6-Fall-Hades/dp/1481469827"><i><span style="font-weight: 400;">Fall of Hades</span></i></a><span style="font-weight: 400;"> (Charles)</span>
+
+<a href="https://itunes.apple.com/us/app/myvegas-slots-play-free-las/id714508224?mt=8"><span style="font-weight: 400;">myVEGAS Slots</span></a><span style="font-weight: 400;"> iPhone game (Charles)</span>
+
+<a href="https://github.com/Breeze/temphire.angular2"><span style="font-weight: 400;">Temphire Angular 2.0 Examples</span></a><span style="font-weight: 400;"> (Marcel)</span>
+
+<a href="https://itunes.apple.com/us/app/google-trips/id1081561570?mt=8"><span style="font-weight: 400;">Google Trips</span></a><span style="font-weight: 400;"> (Marcel)</span>
+
+<a href="http://www.hulu.com/watch/980384"><i><span style="font-weight: 400;">8 Days A Week</span></i></a> <span style="font-weight: 400;">Beatles documentary on Hulu (Steve)</span>
+
+<h3>Transcript</h3>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Hey everybody and welcome to episode 113 of the Adventures in Angular Show. This week on our panel we have Lukas Ruebbelke.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">Hello.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Ward Bell.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Hello everybody.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I’m Charles Max Wood from Devchat.tv. We’ve got two special guests this week. We have Marcel Good.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Hello.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">And Steve Schmitt.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">Hello podcast.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Do you gentlemen want to introduce yourselves really quickly?</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Sure, yeah. I can start. My name is Marcel Good. With Ward Bell, I’m a partner at IdeaBlade. I developed business and enterprise applications for much of my career with technologies such as .Net as we would be talking about today, Java as long as others. Prior to making the transitions to the modern web development, developing large scales in a page applications. Develop WPF and Silverlight applications as well as mobile phone apps.</span>
+
+<span style="font-weight: 400;">The client side development is part of my background. Visual Studio has been a trusted tool for many years for me.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">Hi. My name is Steve Smith. I’ve been a developer for years. Let’s just say I started out doing Cobalt. Since then I’ve gone back and forth between Microsoft and Java technology stacks. Most of my Java work was doing web applications where using JSP, and Servlets, and those kind of Java technologies.</span>
+
+<span style="font-weight: 400;">I’ve been doing Microsoft for the past five years or so. Happy to be doing .Net development, especially when it comes to web applications. That’s what we’re doing now mostly at IdeaBlade.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I so wanted to say my dad told me about Cobalt but I don’t think I’m that young.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Your dad is not that young.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yeah, whatever. Anyway, the topic for today is Angular in the .Net world, which is interesting because I think in a lot of cases when we’re talking about Angular, we’re talking about something that we can build on the frontend and just connect to whatever backend. Different communities do have different ways of thinking about it. It’ll be interesting to dig into how .Net developers look at Angular.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">If I could piggyback on that Charles, occasionally I get an angry comment on my blog about like, “Why in the world would you do this? This is a ridiculous example. You could just do this in freelance of code on the server.” I just have to stop and realize that people are still doing a lot of server side rendering. I think for me, I think a lot of frontend developers were just like, “Oh it’s all on the client. This is the brave new world.” Not necessarily the case or in case I’ll go do training or consulting with the client and half the room is hostile because they really want to do things on the server. We’re trying to basically pull them into doing things in a client in the browser.</span>
+
+<span style="font-weight: 400;">I think I’m really curious about what is the general temperature of the .Net community in the shift from server-side rendering to client-side rendering. Maybe the better question is why not just stay with MVC, it’s worked, we’ve done it. Why would we move away from MVC?</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">Just to make a counterpoint to that, what we’re finding is that the people who come to us and say, “Hey, we want to do this modern app using Angular 2.0 or whatever the flavor of the month.” They’re really trying to replace a desktop application, or in some cases a Silverlight application, something where they had a very rich experience for the user.</span>
+
+<span style="font-weight: 400;">They say we really like the web model, the development model, the deployment model, our users don’t want to give up anything. We’ve given them already with their say their desktop application which they’ve written in, C# using the VPF or WinForms even.</span>
+
+<span style="font-weight: 400;">What we’re seeing is not people who are trying to replace an MVC application with something more modern but rather a desktop application. They said, “Hmm, if we do this then we have more deployment options. People can use it on their tablets or whatever.” We’ll be better set for the future that way.</span>
+
+<span style="font-weight: 400;">It’s a different question, just say, “Okay, why should I replace my MVC app with an Angular 2.0 app versus why should I replace my desktop app with an Angular 2.0 app?”</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Right.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">When I met you guys, Marcel and Steve, maybe you’re going to go there or so. You guys were entirely on the server. That was your Java app. We stroll in the door to supplement with a little client-side WinForms app. I think it wasn’t that long ago.</span>
+
+<span style="font-weight: 400;">You guys lived the life of a comparable MVC, whatever the Java growing MVC is. You got real experience making that transition. Maybe you can explain why it feels right to you.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Yeah. That’s correct. Both Steve and I came from the more traditional web application world where we did everything server-side with Java using frameworks such as Struts. Before that, even just plain server and stuff. We know that world pretty well. </span>
+
+<span style="font-weight: 400;">I think along the way, many of us realized that writing rich interactive applications with that technology is a bit misplaced. We have tried early on in this community to see the little Ajax into these traditional web applications to make them feel a little bit more interactive, more like the desktop applications. That’s really what’s taken over and where it has gone.</span>
+
+<span style="font-weight: 400;">If you look at an Angular 2.0 application today, it’s really the Ajax on hyper drive. Because where we’re doing everything on the client and we’re making Ajax calls to the server to get data instead of constantly round tripping back to the server.</span>
+
+<span style="font-weight: 400;">To add on what Steve has said earlier, it is indeed the case that most people that we interact with, the most customers that come to us, they’ve already made that transition earlier. They’re either prefer desktop applications because they’ve realized the web is just not as flexible as a desktop application. Or, they like the web model and they have gone the Silverlight around.</span>
+
+<span style="font-weight: 400;">I think they like the .Net productivity, they like developing in C#, but they also like the web model, and Silverlight, and that model legally gave them that richness and interactivity and more of the desktop application feeding on the web.</span>
+
+<span style="font-weight: 400;">We’ve made that transition. The customers that we’re talking to have made that transition. Today, you still have really two camps in the .Net world. You still have those that feel like they want to do everything on the server. They’re writing MVC apps. They are looking at what the future holds there.</span>
+
+<span style="font-weight: 400;">You have the other camp that has made that transition already and has realized that leveraging the client’s capabilities into client-side computing in this world can actually build fairly rich web applications that feel like desktop applications. They can deliver that kind of richness. Even though we don’t like it, but we can deliver a grid, like a lot of our enterprise customer they really love the grids. Scrolling around, filtering, sorting, and searching. You can do that with Angular 2.0. It works because it’s all client-side. With the MVC model, that’s not as easy because you’re constantly round tripping back to the server.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Tell us briefly about what kinds of projects you’ve actually worked on with Angular 2.0. For many of us, Angular 2.0 is relatively new. Many of the people you’re talking to, including me write mostly demos, you guys have actually built some things.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Right. Many of the apps that we’re working on right now would have already built our Silverlight replacements. We have existing customers that we’ve worked with in the past. We have written pretty extensive Silverlight applications for them.</span>
+
+<span style="font-weight: 400;">With Microsoft killing off Silverlight, and Chrome, Google with Chrome actually even more proactive than Microsoft themselves killing off support for the Silverlight plug in with, I forgot which version it was but it was early this year. A lot of them find themselves in the position where their Silverlight application only runs in Internet Explorer at this point. That’s okay for just internal use. I have a customer in Germany for example, they’ve written a large system that they run their own business on and they users are all internals. They can dictate Internet Explorer, no problem.</span>
+
+<span style="font-weight: 400;">For those that have a bit more diverse use base where they can’t necessarily dictate what the browser is, that’s one of the reason customer’s staff worked with. They’ve actually got an application that is available externally to their users. They’re people coming from Mac Safari, Mac Chrome, Windows Chrome, Windows Internet Explorer, Edge, you find all the browsers. With the Silverlight application, they’re just pretty much in a corner.</span>
+
+<span style="font-weight: 400;">That’s a lot of the projects that we’re doing. Taking these Silverlight applications and basically rewrite them as an Angular 2.0 application and refining that. That’s actually not that big of a deal because a lot of the concepts, the patterns that I think we’re going to talk a little bit more in this podcast about, a lot of those things transition over to the Angular 2.0 model. We can build equivalent, rich applications using HTML, JavaScript, actually mostly TypeScript nowadays where it could be done. I haven’t actually written raw JavaScript in a while. A TypeScript than all the web technologies and we can replicate these Silverlight apps.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Can you give us a sense of the size of these kinds of apps that you’ve done so far?</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Yeah. For example, one app has about 6000 lines of code. That’s mixed server and client, over 100 components. Angular components in the sense, about 120 business entities that populated from about 154 tables.</span>
+
+<span style="font-weight: 400;">Another app that we’re currently working on at the moment, around 2500 lines of code. We expect that to be at the end more like 3500, 4000 lines of code. It’s at the moment about 50 components, that would probably be else to be more like 100 at the end and 140 entities. They do a lot of mapping at their own levels. They’re actually almost 800 tables behind that 140 entity model.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">That first application Marcel was talking about, that was originally a Silverlight application. They saw the writing on the wall in terms of what was happening with Silverlight. Basically, they wanted more deployment options. They have a rather diverse client base. They’re kind of information aggregate across their industry. They really wanted to make sure their app was future proof in that way.</span>
+
+<span style="font-weight: 400;">We looked at the existing Silverlight application and found it with what’s in Angular 2.0. All the basic component structure and everything could easily support what they’re already doing. I think it took about three months to develop that. There’s just something in the order of 60 different logical screens in that application.</span>
+
+<span style="font-weight: 400;">We had a basic working application in about three months. Since then, they’ve come up with all these other things they want to add on. They’ve seen the productivity we’ve been able to give them.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Let’s talk some tech. A lot of people that we run into are saying, “Well, Angular 2.0 seems to be written for the .Net world and all the tooling. I live in a .Net world, the Microsoft world, I need to use Visual Studio. It hasn’t felt so great.” What kinds of tools are you guys using? How do you deal with it?</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">For these apps, for customers that are coming from the .Net world and obviously those that have existing Silverlight applications they have developed with Visual Studio. They have a .Net backend. As far as the backend goes, we don’t really have any reason to change that. If you’re comfortable with the Microsoft server stack, then .Net, is a great server site, the technology, with entity framework and web API and all that, that works really well.</span>
+
+<span style="font-weight: 400;">You would find yourself inside of Visual Studio to develop your server-side. You might as well stay in Visual Studio to develop your client-side instead of constantly switching tools. That’s really I think where lot of the questions come from the .Net community because they’re really used to doing everything in Visual Studio. We have worked with customers that the moment you mention command line, they jump at you. Everything needs to happen inside of Visual Studio. There needs to be an extension, or a plug in, or what not, so that they can do everything in Visual Studio. That’s the world that they work in.</span>
+
+<span style="font-weight: 400;">We’re actually using a bit of a hybrid for these kind of projects. We do most everything in Visual Studio, client and server-side. That’s actually working fairly well now with Visual Studio update, 2015 update 3. Before that was a little bit rocky because Visual Studio for example completely ignored the TS Config json file. You have to basically tell it all your TypeScript compiler options in the project by itself. Not everything had an equivalent setting in the project files. It was a bit rocky.</span>
+
+<span style="font-weight: 400;">But now, it works pretty well. We can build inside of Visual Studio the complete application. We still find ourselves to have a command line open on the side and run the TypeScript compiler in watch mode for example, because there’s still a little bit of queered stat. It seems to work that if you edit a single TypeScript file and you save it, tend to compile on save works. If you edit multiple files, you can save them all. Visual Studio only seems to compile one of the files.</span>
+
+<span style="font-weight: 400;">It’s a bit of hybrid world I would say right now. Where others are using NPM for getting all the packages, there’s not really way around that. Microsoft is pretty much reducing NuGet to just delivering of assemblies. All kind of content scripts and content in general, they’re going to take out of NuGet and basically point you to NPM. One point that Bauer but it seems like Bauer is not that popular anymore.</span>
+
+<span style="font-weight: 400;">It’s basically the web tools that everybody else uses, if they’re not using Visual Studio. Things like NPM where you can use gulp to do some automation. It integrates actually quite nicely in Visual Studio. There’s something called the task where on you can actually tie gulp tasks to build events inside a Visual Studio.</span>
+
+<span style="font-weight: 400;">If you should build in Visual Studio and you need to gulp tasks to be executed, at the same time, you can do that. You can even do it when you open the solution that it immediately starts TypeScript compiler in watch mode for example. That’s kind of nice. You don’t even have to open the command prompt on the side, and remember to run the TypeScript compiler in watch mode.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">For me, that was one of the big changes coming from Angular 1. Because we’ve done some projects in there, and there. You download the libraries you need manually. Maybe you could use NuGet to get them or something like that. With Angular 2.0, it’s all the dependency on all of these NPM modules. You’re going to use NPM whether you like it or not. Like Marcel said, it puts some things in Visual Studio or you can get some extensions to make that pretty seamless. Because otherwise I’m like, “Why can’t you just do all this with MSBuild.” The build tools in Visual Studio.</span>
+
+<span style="font-weight: 400;">Starting work on I think it’s even Angular 1, everybody would say, “Ah, you have to use WebStorm or something like this.” By the time Angular 2.0 came out, I think this is Ward talking. “How come we use in Visual Studio, use VS Code. It’s so much better.”</span>
+
+<span style="font-weight: 400;">I’m pretty comfortable in Visual Studio. I like it pretty well. Since I’m doing server-side development at the same time, maybe my brain is a little too ossified. I can’t switch back and forth between editors with such facility that gives me whiplash. I like to be able to stay within Visual Studio when I can. I’m getting used to the command line. Again, like everybody else, this is where we all came from at some point.</span>
+
+<span style="font-weight: 400;">To Marcel’s point also, they’ve been developing Visual Studio continually, adding more features, making it very capable with TypeScript and with the whole Angular 2.0 environment. I think having Visual Studio Code out there as a separate thing is good. I think that they’re trying to lead bug one another in terms of adding features, and capabilities, and so forth. Hope that continues.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">We just recently actually been final made a commitment to TypeScript 2.0. Making Visual Studio honor different versions of TypeScript, is that doable?</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Well, sort of. We are using two now with pretty much all the projects as we migrated into the final version of Angular 2.0. You can’t really easily use different versions of TypeScript in Visual Studio. If you want to use basically the latest one that you have installed. That’s what it goes with. </span>
+
+<span style="font-weight: 400;">There is a setting in the project file that says which version of the TypeScript you want to use. All that really seems to do is complain if it finds that you have installed a newer version than what you’re saying and what it’s saying in a project file. It basically offers you to update the setting in the project file.</span>
+
+<span style="font-weight: 400;">That works a lot nicer in Visual Studio Code that actually pays attention to even your package json and looks at what depends if you have in there. If you have a newer version mentioned in the package json, what’s coming with Visual Studio Code. You can tell Visual Studio Code to actually use what’s specified in your work space, not what it chips with. That’s a bit of an issue with Visual Studio to jump around between different versions.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Why would I want to do that, Marcel? Don’t I usually just say like I want to use this version like Angular? Like I want to use 2.0.2, let’s go. Then it’s going to be okay.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Right. Generally that’s okay for your active projects that you’re working on. You may have a project that you’re working on a year ago, six months ago. You’re opening it up and it’s still on 1/8 maybe or even something earlier. It may not compile on the two. Because they have been breaking changes over the months, over the different versions of TypeScript. We have run into this as well where we’ve started.</span>
+
+<span style="font-weight: 400;">We’ve actually done Angular 1 projects barely early on with TypeScript. I think the first version of TypeScript was 1.1 something, or 1.2 something that we started with on that project. Over time, newer versions of TypeScript actually introduce making changes. We couldn’t compile the old code anymore with the new version of TypeScript. None of these breaking changes were really nature but it required to clean up a few files to make sure that they compile TypeScript and that the latest working of TypeScript.</span>
+
+<span style="font-weight: 400;">That’s when you may find yourself in a situation where you have the latest version of TypeScript installed. You’re opening up an older project, then it doesn’t build anymore.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">Yeah. There’s a place in Visual Studio where you can tell it where to search for the TypeScript and other tools like this. It may be possible to put a projects placeholder for your project directory and have it looped there. I haven’t even tried that.</span>
+
+<span style="font-weight: 400;">Most of you generally want to try to stay up with the latest because they keep adding things all the time. There are definitely cases where, as Marcel pointed out, you need backwards compatibility and you prefer to stand a single version for a single project until you decide to upgrade it. Not when some other project decides the whole machine needs to be upgraded.</span>
+
+<span style="font-weight: 400;">Ward:       </span> <span style="font-weight: 400;">How do you guys debug your app? I know Visual Studio people love to be able to break point right into the code inside Visual Studio. My sense is that that has something to do, of course the rest of us outside of Visual Studio world wouldn’t even think of doing that. I don’t know, maybe go and use WebStorm breaking. I think they added breakpoints in there. Anyway, what do you got for Visual Studio?</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">We actually debug in Chrome. I’ve never actually tried it but I suspect if you were to use Internet Explorer, that you could actually debug in the Visual Studio. The Visual Studio debugger just basically does not work with Chrome. They don’t really know each other, if you will.</span>
+
+<span style="font-weight: 400;">We’re finding ourselves debugging in Chrome. That works really well, obviously. The moment that you’re hitting the server, you’ll be debugging in Visual Studio as far your server code is concerned.</span>
+
+<span style="font-weight: 400;">Personally for example, I don’t even hit a five anymore in the Visual Studio. Debug the entire application in the debugger because it just takes too long. I’m now used to the much faster turnaround when I change a TypeScript file, it gets compiled on save and I just hit five in the browser to refresh and off I go. If I do have an issue, server-side set them running into a bug. The problem is actually on the server. I attach the Visual Studio debugger to is-express so I can debug what’s going in the server. At the same time I debug the client inside of Chrome.</span>
+
+<span style="font-weight: 400;">That’s how I work. That’s what I recommend. I still see a lot of people do F5 and like pay the price of spinning out the debugger in Visual Studio. All they’re really changing is the client code.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yeah, that’s terrible.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">It’s terrible, yeah. There could be a lot more productive. I just basically let the server run. Unless Visual Studio decides to kill it or is-express decides to stop. The server is always running because most of the time I’m developing client-side code. That’s what these applications are about. Most of the action is happening on the client. I spend my time developing client code. I don’t need to concentrate, spin up the debugger in Visual Studio.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yeah. That makes a lot of sense. When it comes to production, all of our samples are SystemJs but I hear you guys, somebody’s exploring Webpack. In Visual Studio that’s not a combination I’m used to hearing about.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Not really. With the recent project that we’re working on, both Steve and I are in that project. We started to use Webpack and actually bundling the entire app. Although this morning we just went back to SystemJS app going to the final version of Angular 2.0. I was running into an issue where somehow Webpack is just a bootstrap into the bundle size. I suspect it’s the UI control high breeze from DevExpress that we’re usually that bring in traded bootstrap somehow. It’s complaining that require is undefined.</span>
+
+<span style="font-weight: 400;">That’s something we have to look into. Other than that we’ve actually have quite good success with Webpack bundling up the scripts, including in lining the HTML templates. They have basically just a single bundle that gets downloaded to the browser.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">We started this performance. When the larger app gets, you’ve got loading of each one those component independently and each HTML template. As well as all the Angular modules themselves which all downloaded independently. They serve, what do have, 600 roundtrips, something like this just to see the homepage of the application.</span>
+
+<span style="font-weight: 400;">With Webpack, we’ve basically combined all of our files into one. All of our application files into one. There’s all the vendor component libraries that we use, that’s the second one.</span>
+
+<span style="font-weight: 400;">We have Webpack watching, trying to changes in our code base. It rebuilds our application bundle, not the vendor bundle but just the application bundle. When we F5 we load the page, it comes to much quicker. It’s actually faster than doing the SystemJS even if we’re changing one file. If you F5 the browser and reload everything, you could still be for a long wait.</span>
+
+<span style="font-weight: 400;">To Marcel’s point, we found some problem. We’ll get back to fixing it again and using Webpack once again. It was pretty easy to switch back and forth. Between SystemJs loading where we’d load each individual file and Webpack where we’ve bundle more of, it’s just a couple changes and a couple of files to switch back and forth between the two.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Does being in the .Net world, I’m thinking about this, what you’re talking about does that affect the way you structured the application. What files go where, that kind of thing? Or with somebody which following along with documentation and had a certain structure that was where that was pointing. Would they be at use that structure? What is the effect on my files structure?</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Yes, with .Net classic, if we want to call that as the current version of that .Net. We don’t really do anything special as far as the structure is concerned. I started out with taking the quick start from Angular IO. Basically through within Visual Studio solution on change. Other than adding the Visual Studio solution but the structure is exactly the same. The SystemJs conflict is in the root. There is an app folder where the apps that’s all exactly the same.</span>
+
+<span style="font-weight: 400;">However if you go into .Net Core, that’s a little bit of a different story because .Net Core actually prescribes a certain structure of your solution. They differentiate between what they call your development directories. What’s actually getting deployed on the server and surf that by the web servers. You have basically a www root folder into your solution. Only the stuff that you’re putting into that folder will actually get surfed up by IAS.</span>
+
+<span style="font-weight: 400;">There’s a bit of the issue or a question initially where are you going to put your TS files. The JS files obviously going to have to be in the www root because they have to be surfed up at one time. The question is are you going to put the TS files into the www root as well.</span>
+
+<span style="font-weight: 400;">The answer to that is yes. If you want to debug in Chrome, technically you shouldn’t. Like base on the recipe that Microsoft provides for .Net Core is like your source code. Stuff should actually be outside of the www root including your entire Node modules folder.</span>
+
+<span style="font-weight: 400;">You’re supposed to use gulp pass to basically move the pieces of your Node modules. You actually needed run time. As well as all your runnable code, etc. You’re supposed to do that into the www root folder where you’re building.</span>
+
+<span style="font-weight: 400;">It is a bit of a not quite convinced about that setup. I understand where they’re coming from that you’re in control of what ultimately is publicly visible from your web server. We off the way we structured the code today is that technically everything we do is publicly visible. Many of us deployed the entire Node modules folder into the www root of your Webster. Technically you could load up any script that’s sitting in your node modules folder.</span>
+
+<span style="font-weight: 400;">Microsoft is taking a little bit of a different approach with .Net Core and says, “You shouldn’t really do that. You should only move the scripts that you’re actually using into the www root so nobody gets any ideas of trying to access something that they shouldn’t. That’s not actually used by the application.”</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">When Webpack is used, it’s walking the dependency tree. Only bringing in the things you need in putting those into this bundle. That might be the deployment model that’s most favorite at some point. Even in Core as to use something like Webpack that brings in the things you need. Puts them in the right place so they can be served with the clients and that’s it. As opposed to some other thing they copies them individually.</span>
+
+<span style="font-weight: 400;">Ward:       </span> <span style="font-weight: 400;">I want to shift topics a little bit here. I want to talk about data. We had a show not too long ago about Redux and all these critique of two-way data binding and the readability, all that stuff. I’m still waiting for the Redux, or the NGRX Aficionado to show me and anything other than a five entity application.</span>
+
+<span style="font-weight: 400;">You guys mention that you have lot more. You refresh your memory about how many more and how you’re managing data in your applications? What you’re using to do it with? What the consequences of using that thing are in terms of where you spend your time writing applications.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">We generally have the main models that are in excess of 100 entities. Sometimes more 200, 300 entities.</span>
+
+<span style="font-weight: 400;">Ward:       </span> <span style="font-weight: 400;">They are in related. They in related. It’s like a 100 separate things.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Exactly. We’re talking about graphs.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">Customers that have orders. Orders have order details. Products which are related to pricing. Those common contracts and so on and so forth. This is an endless tree of entities. Each which has dozens of properties. All this things are things that, again, we’re coming from a lot of cases, desktop application paradigm where the users are expected to be able to manipulate these things the way they want to. I want to add a new order. I’m going to add some line items to that order. I’ll get modified this other over here. Take some line item for that one and move them onto this one and then save the whole thing at once.</span>
+
+<span style="font-weight: 400;">This is what they used to doing with their desktop application. This is what the paradigms that Microsoft and other sub built up over time is that the way you develop this things is entity oriented fashion where you’re dealing with your objections see sharper now TypeScript, whatever. Classes that represent these different types of business entities and you manipulate them. You perform some save operation and sends them all into some database.</span>
+
+<span style="font-weight: 400;">When you put them on the screen, there’s some data binding happening between the properties of these individual entities. The actual controls that they see on the screen. The developer doesn’t have to worry too much about that. They can put these things on their screen. They can setup a data binding between the screens elements and objects. After that it just works.</span>
+
+<span style="font-weight: 400;">We’re talking to people who’ve developed these kinds of applications. This is the kind of thing that they want to still be able to do. Even when we’re working on the web. Angular 2 component model fits nicely with what they used to in terms of this controls that they had to develop the desktop applications. Also, they said, “Okay, what about the data manipulation? How do we save these things? How do we query them? Do we have control over the transaction boundaries?” Things like that.</span>
+
+<span style="font-weight: 400;">That’s where Breeze comes in. It’s a library that basically lets you do these kinds of operations on the client where in you can define queries to pull data in from the server. You can manipulate data on the client. Take a look at just the entities that have changed. Perform validation on them. Then send those changes back to the server for saving.</span>
+
+<span style="font-weight: 400;">This is what they’ve been used to from their client applications. Using various Microsoft data access technologies. This is what Breeze gives you in the JavaScript client on the browser.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">I think one important point to make here is that these applications that we typically build, and the enterprise, and business environment, these are cored applications, primarily. They are meant to modify data. They’re doing searches, they’re bringing data, and they’re modifying it, they’re saving it back.</span>
+
+<span style="font-weight: 400;">For that kind of model, the approach that we have with Breeze in our opinion fits much better than a Redux model because this world you typically modify parts of an entity graph before then you eventually hit save and you want all those changes to be saved to the server and communicated also throughout your application if you have parts of your UI that are bound from the same data. If you changed the custom name on here for example and you save it, you expect that name to pretty much we did like that on other parts of the UI as well.</span>
+
+<span style="font-weight: 400;">Ward:       </span> <span style="font-weight: 400;">Marcel, I have been told repeatedly by the Aficionado Redux that this leads to other terrible chaos and complete fragility and applications just immediately collapse under the complexity. Does that occur to you at any time on any application of this scale across not only here, how many projects we’ve worked in Angular 2 but anywhere else.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">No, not in my experience that I’ll have. We’re actually using a unit of work pattern in the middle tier to encapsulate the task or the work flow that UI is working on, the data that goes with that. You typically have in these applications you have some transaction boundary. You’re sitting on a screen, you’re looking at some data, customers and orders, and what not, making some changes to that. Before you’re leaving the screen, you’re meant to save the data or the changes so that you don’t lose them.</span>
+
+<span style="font-weight: 400;">The paradigm stuff that you see in these applications are these units of work that you see repeated throughout the apps. You’re sitting on a screen, you’re making some changes, you save it. Having an entity graph that can be in flight gives you the ability to utilize the Angular 2.0 router guards for example to then just ask the unit of work. By extension, the Breeze entity manager, do you have any pending changes? If so, you can prompt the user to say, “Do you want to save? Or you want to throw them away? Or do you want to cancel and stay where you are?”</span>
+
+<span style="font-weight: 400;">We actually have not had any issues in terms of complexity, or the application imploding, or anything like that. We’re trying to manage the data.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">I realized Ward just set me up for an ambush. Let me just be clear here.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">I’m leaving to let you start, Lukas. Because I want to ask one more question of these.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">Oh going to just walk into that.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">You can come in but surely, surely using apparatus must require hundreds, perhaps thousands of lines of codes. Set these entities modules. Isn’t that true, Marcel?</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">Hold on, hold on, hold on.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Let’s let Lukas have his say.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Really? We should let Lukas speak? Okay.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">Yes, if you can just indulge me here for a second. The reason why I like Redux is because one, it is a mechanism or a pattern to minimize shared mutable state. Secondly, is it gives a place to essentially do a transaction to mutate state in one place and then propagate it to the rest of the application.</span>
+
+<span style="font-weight: 400;">Ward’s Redux prejudice is aside, it’s seems to me that like these are some of the same mechanisms that you just discuss. For instance you have UI, you’re making some changes, I think you call it a transaction boundary. That is essentially keeping, that’s state that you’re doing will maintain within that. When you are ready to actually say, we’re ready actually to move forward transaction, then you save it. It basically propagates through your entity model. When you say entity model, I’m presuming you mean that you have a single model that storing basically the data or the state, or the entire application.</span>
+
+<span style="font-weight: 400;">One, those suddenly aligned with like, “Okay we have this boundary to minimize shared mutable state.” That’s good. That’s a technique I use a lot. Redux aside is I think you really need to have that boundary. I have this transactional mechanism that okay I’m ready to actually commit this to my application model. There’s a sensible way to propagate to the rest of the application. It seems to me that we’re using the same pieces. They’re just maybe called something different or coming out from a different angle. I think minimizing shared mutable state, having a sensible way to communicate that to the rest of the application, having your state in a single place and not strewing a crush your application but having a single source of truth. This seems like pretty fundamental concepts that I would hope we get all agree on.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Yes, that is true. I think philosophically I would say the two approaches are more relying than many want to accept. Maybe, yes. I definitely agree that in the world that we’re in, with object wraps we have to seeing crazy things that being done in applications whereas as you say the mutable state is spread all across the application you have to like push forward the pieces that ultimately need to come together, that you need to save to the server, etc.</span>
+
+<span style="font-weight: 400;">Yes, I totally agree that a more central place where you’re managing your changes. You can basically say, “Okay, I’m good, I want to have to save.” That’s definitely the model that we’re using around Breeze. Breeze actually facilitates that because of the domain model. The single domain model that have, the entity modelling Breeze. Breeze becomes the single source of truth if you will for all your data and ask you’re making changes to it. The same entity is bound in different parts of the UI. Those changes immediately propagate. You always saving your changes through the central place being Breeze. Breeze handles the communication server-side. We probably more relying on the approaches than we think in this world.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">Back at Ward’s point there, by the way. Doesn’t this get all crazy when you’ve got about how many, 100, 200 entities, and so forth? One of the things is that if we’re working with people, this is their business. The domain model represents their business. They’re pretty familiar with that. They’ve got this whole C# model. They’re dealing with .Net, they’ve got this C# entity model, domain model on the server. What we’re doing now with Breeze is basically we generate TypeScript classes to parallel those C# classes. So that they get the same domain model, same set of entities for doing their client-side development that they have on the server.</span>
+
+<span style="font-weight: 400;">They’re dealing with all of these nice comfortable set of entities. They’ve represent their domain model, they’re already used to working with. They can work with them in the TypeScript code as well. They get all the benefits of strong typing and tell us and see where all the properties are on the given entity and so forth when they’re developing their client-side code.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">All that stuff just sounds fantastic. I think at this point, I’m prepared to break bread and saying potato-potato, tomato-tomato. You guys have definitely said things that I think are fantastic. Ward, it’s just have to learn to give a little to get a little buddy.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">One of the other things I’ve heard about it, the advantages of having immutable and so forth is that you get better performance because you can tell Angular, “Well, nothing here has changed so you don’t need to change detection on this tree of data or so forth.”</span>
+
+<span style="font-weight: 400;">Frankly with Angular 2.0 I haven’t really seen any performance problems with using our immutable object either. Maybe having 2000 objects on the screen is enough to stress it or maybe our machines that we’ve used are just too powerful not to see the problem.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">The thing we haven’t explored yet because we have a need to do it. Precisely because you have an experience to perform these challenges. If and when should we ever run into it? One of the key features that we can still, just like immutability relies on, you change the way the component is designed so that it’s got a push feature that says, “Don’t even bother with change detection unless I tell you. The identity change unless I tell you.”</span>
+
+<span style="font-weight: 400;">Because Breeze has a vending model, you could do that same thing and only tell change detection to kick in when a relevant change occurs, and wire that straight in. That’s something we haven’t done yet but it’s something I want to demonstrate how to do so we too can use that same performance feature when we need it. Turning off the continual change detection. Only kicking the cycle change detection when something happens.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">We’re actually doing something I’ve ever, we’ve got an observable that we have a publisher that sense these events across the application to other things that are listening to them and so forth. We can show you that later.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Let’s see. Here’s a question that somebody had. Are there good simple examples of Angular 2.0 working with Visual Studio and all that stuff? Do we have anything for those folks?</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Yeah, we do. That’s actually one of my picks for the end of the podcast. We have this reference application here. The IdeaBlade that have developed a long time ago initially for Silverlight and WPF. A framework that we’ve developed back then about .Net product that we’ve had in the past. We still have it but we’re not actively doing anything with it anymore.</span>
+
+<span style="font-weight: 400;">There’s reference application has hang around with us. That used in a workshops with customers. I pointed potential new customers add it. They have actually back in days with Silverlight. Some have used it successfully as a building block to them, build their own application on top of it.</span>
+
+<span style="font-weight: 400;">I’ve recently redevelop the app with Angular 2.0. We have published that. It’s a Visual Studio solution. It basically demonstrates the patterns that we typically use in these applications. It has an API .Net backend. We follow just published the Node.js backend for the same exact clients. The same exact client code can run against .Net backend as well as a Node.js backend with pretty much no changes on the client.</span>
+
+<span style="font-weight: 400;">We’re definitely trying to promote that. Point people who are struggling and are new to this world, and trying to figure out how do I build this applications with Angular 2.0, with that half screens that I navigate around, to have the domain model behind it, where I can make changes that I can save, changes that I can reject, etc. That’s an example that we can make available to anybody who’s interested in.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">In that you brought up an interesting point. We talked a lot about Breeze in connection with .Net but that’s by no means the only server technology.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">That is correct. Breeze is a server agnostic. It has become a bit of a perception problem because we bent to market initially with the .Net backend out of the box. We call it the .Net productivity path. To primarily have a solution for these said customers that we talked about earlier that our coming from the WPF and Silverlight world. They’re faced with having to redevelop these applications.</span>
+
+<span style="font-weight: 400;">The .Net backend was the first out of the box backend that we shipped with sql server, and entity framework, all the good stuff. In the meantime we shaped all the backends out of the box with Node, MongoDB, Node Sequelize, if you need to talk to us relational database. We have a Java backend out of the box. Whatever your server technology of choice is, Breeze can support that.</span>
+
+<span style="font-weight: 400;">We’re actually working with a customer right now that is using a .Net backend but we’re using servicestack. Not let API and not entity framework. We have to basically adapt Breeze to understand the pay loads from their existing services because we’re not redeveloping their server-side, we’re only redeveloping the client-side. We’re having no issues getting Breeze to map the pay loads that are coming from their service Stack backend. Understand that payload turn it into entities. Same thing on the safe that we can send the payload and take it a part on the server and handed off to their persistence layer.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">If only I could afford Breeze.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">It is free.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Ohhh, okay.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Open source.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">It’s a pay check out.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">For Lukas, I’ve got a special deal.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">Give me dollars.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Well exactly, half off. It’s been a wonderful show. I think we should move on to picks because we’re running out of time.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yeah. I’m just going to chime in. Yeah, let’s do it. Before we do that though, I do want to give Marcel and Steve the opportunity to tell people how to follow them, find out what they’re doing, that kind of thing.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Yeah. We’re most active I would say around our GitHub repositories. If you’re interested in anything that we’re doing around Breeze. Breeze is our product. I’m not sure if people realize that but the company IdeaBlade is the company behind the Breeze libraries. We have a search of interest.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">What is Breeze? Just kidding.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">If you’re interested in Breeze, you can find us on GitHub or the easiest is go to getbreezenow.com. Look at the documentation download. You can reach us through the GitHub repositories app. Most definitely we respond to that. We have various samples out there not just Breeze libraries itself but the Tempier example that I just talked about is out there as well.</span>
+
+<span style="font-weight: 400;">That’s how you can reach us. You can always email infoideablade.com. We can help with developing applications. Our main business is consulting. We’re helping folks that are struggling with these kinds of applications, trying to figure out how to develop them. If you really need of help then reach out to us. I’m on Twitter as well @superswiss. You can reach me through tweets as well.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Steve, how do they find you?</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">They don’t. Through you actually, Ward.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Steve’s Twitter is at Ward Bell.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">Marcel said, most of me seems to be on GitHub. I’d keep me to do some blogging but I haven’t really done it. I’m not tweeting these days but what Marcel said.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright. Let’s go ahead and do our picks then. Lukas, you want to start this off with picks?</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">Come back to me in like two seconds. I’m looking for a link here.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright. Ward, what are your picks?</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Well, I’m doing two conferences. The most immediate one is Silicon Valley Code Camp which is free. To the bay area, its largest code camp in the country. October 1st and 2nd. It’s coming up soon. I’m hoping our show was out by then. At Evergreen Valley College in the south bay. It covers just an incredible ray of technologies. We’ve got great speakers around the bay including Doug Crawford. Then there’s a not so great like me. Please come up with the registration in the notes.</span>
+
+<span style="font-weight: 400;">The other one is that I’m doing Debit or Sections in Las Vegas in the fall. John, and Dan Wahlin, and a bunch of others. That’s also in October, later in October. It’s a great cast of people there. That one does cost some money but hey, you get to go to Vegas.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Awesome. Lukas, what are your picks?</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">I’m back. I’ve found it. This is going to be a bit weird. Don’t get mad, my Angular friends. I’m a huge fan of Brian Lonsdorf. Dr Boolean, he’s just really big into really just functional programming. I fell in love with him. Material one because he wrote a guide to functional JavaScript. He did a really amazing workshop in front of masters. He just gave a talk called Oak Imposable World at React Rally and it’s just really, really good. He’s talking about NG state, control flow, and open up code volume, handling heirs, etc. I thought it was just really entertaining very well all out talk. I think just even these Angular developers enters a lot, we could take away from that in just writing highly compassable functional pieces of guild.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright. I’m going to share a few picks here. The first one is a book that I’ve been reading. It’s the Fall of Hades. It’s the sixth I think in the Michael Vey book series. I’ve been enjoying those for few years. You probably heard me picks some of the other books. It’s young adult fiction. It’s pretty light which is nice. Because when I’m stressed or I just need to unwind, it’s not a plot that I really have to think too hard about. It’s also fun in the sense that these kids all have electrical powers, they do cool stuff. Anyway, they’re trying to save the world. Anyway, I’ve been enjoying those.</span>
+
+<span style="font-weight: 400;">Another pick that I have is I’ve been playing this game on my iPad and phone. I don’t know why I like it so much but I do. Its myVEGAS Slots. I just tell it to auto spin and I just watch it spin slots. I’m not actually betting real money so it’s actually really, really pointless.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">No but you still consider with the drink in your hand. I know you don’t drink but you could still have it in your hand. You could smoke. I know you don’t smoke but you get all the cigarette. You could just reproduce the entire experience, a rotten experience of a lawn fin Las Vegas in your home. Sounds great.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yeah. Since I don’t smoke, I don’t drink, I don’t gamble actual money anyway.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">I love you Chuck. You’re just a model for me.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Marcel, what are your picks?</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Yeah. One pick I already gave away with that the Tempier Angular 2.0 examples. If you’re interested in that, check it out. You can find it at github.com/breeze/tempier.angular2. We’ll probably include the link in the show notes. I think definitely a great starting point if you’re trying to figure out how do I write data driven applications using Angular 2.0. If you’re interested in some of the patterns that we have to offer.</span>
+
+<span style="font-weight: 400;">My second pick, I travel a lot. I’m originally from Switzerland. I have family over there. As I said I travel a lot. I just download Google Trips the other day that recently was just released. If you’re traveling a lot or into traveling, that’s an application for your phone that runs on iOS and Angular that I can highly recommend. It takes out your itinerary based on your Gmail feed. It gives you information about your destination. Once you get there you can find out what are the things to do at your locations, and strict reminders, and stuff like that.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright. Steve, what are your picks?</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">Yeah, pretty cool. I intended the point a couple of Visual Studio extensions that would really make it easier to work with Angular 2.0 but I’m disappointed. I couldn’t find anything that was really solid. It looks like people are starting to develop the extensions for the next version of Visual Studio which is Visual Studio “15”. We just currently in preview, I’m not even using that one yet.</span>
+
+<span style="font-weight: 400;">Like I said, VS Code is leading the way to for the next version of Visual Studio. I’m hoping to see a lot of these things in VS Code there. Anyway, I’m going to keep an eye out for looking forward to trying the new preview.</span>
+
+<span style="font-weight: 400;">In a non-tech thing, I’m looking forward to checking out 8 Days a Week, which is a documentary about the early days of the Beatles on Hulu. I’m kind of a Beatle maniac so I want to check that out.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Very cool. Thank you all for coming. I’ll have to say thanks to IdeaBlade as well for sparing you a little time I guess, come talk to us. We’ll go and wrap the show up and we’ll catch you all next week.</span>
+
+<span style="font-weight: 400;">Marcel:        </span> <span style="font-weight: 400;">Thank you very much, Chuck.</span>
+
+<span style="font-weight: 400;">Steve:          </span> <span style="font-weight: 400;">Thank you.</span>

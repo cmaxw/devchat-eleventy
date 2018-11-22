@@ -1,0 +1,413 @@
+---
+layout: layouts/post.njk
+title: >
+      169 JSJ Property-based Testing (QuickCheck) with Zach Kessin
+date: 2015-07-22 15:00:00
+episode_number: 169
+duration: 
+audio_url: https://media.devchat.tv/js-jabber/JSJ169Property-basedTesting.mp3
+tags: js-jabber
+---
+
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:20 - Zach Kessin Introduction</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://twitter.com/zkessin">Twitter</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/zkessin/">GitHub</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.oreilly.com/pub/au/2277">Zach's Books</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://parrot-uni.com">Parrot</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://devchat.tv/js-jabber/057-jsj-functional-programming-with-zach-kessin">JavaScript Jabber: Episode #057: Functional Programming with Zach Kessin</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.erlang-quickcheck-book.com/">Testing Erlang With Quickcheck Book</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">04:00 - </span><a style="text-decoration: none;" href="http://mostlyerlang.wordpress.com/">Mostly Erlang Podcast</a></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">05:27 - Property-based Testing (</span><a style="text-decoration: none;" href="https://hackage.haskell.org/package/QuickCheck">QuickCheck</a><span style="background-color: transparent; color: #000000; font-family: arial;">)</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">07:22 - Property-based Testing and Functional Programming</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/jsverify/jsverify">jsverify</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">09:48 - Pure Functions</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Shrinking</span></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">18:09 - Boundary Cases</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">20:00 - Generating the Data</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">23:23 - Trending Concepts in JavaScript</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">32:33 - How Property-based Testing Fits in with Other Kind of Testing</span></span></p>
+<span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">35:57 - Test Failures</span></span>
+
+<span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Panel</span></span>
+<p dir="ltr"><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html">Nolan Lawson: Taming the asynchronous beast with ES7</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Aimee)</span>
+<a style="text-decoration: none;" href="http://nodevember.org/">Nodevember</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Aimee)</span>
+<a style="text-decoration: none;" href="http://hipstersound.com/">Hipster Sound</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jamison)</span>
+<a style="text-decoration: none;" href="https://www.youtube.com/watch?v=ByNs9TG30E8&amp;feature=youtu.be">Om Next by David Nolen </a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jamison)</span>
+<a style="text-decoration: none;" href="https://open.spotify.com/track/6W9diysjR1V67SRLaygwlI">Gallant - Weight In Gold</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jamison)</span>
+<a style="text-decoration: none;" href="http://www.reactrally.com/">React Rally</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jamison)</span>
+<a style="text-decoration: none;" href="http://www.imdb.com/title/tt1235547/">Better Off Ted</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Joe)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/0804137250/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0804137250&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=Z7OKUSEBIBXRA5XV">Armada: A Novel by Ernest Cline</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Joe)</span>
+<a style="text-decoration: none;" href="http://www.erlang-quickcheck-book.com/">Testing Erlang With Quickcheck Book</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Zach)</span>
+<a style="text-decoration: none;" href="http://parrot-uni.com">Parrot Universal Notification Interface</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Zach)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/1491868848/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1491868848&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=OBJZ6LTA3FWMC5WX">The Famine of Men by Richard H. Kessin</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Zach)</span></span></p>
+
+<h3>Transcript</h3>
+
+<strong><em>[This episode is sponsored by Frontend Masters. They have a terrific lineup of live courses you can attend either online or in person. They also have a terrific backlog of courses you can watch including JavaScript the Good Parts, Build Web Applications with Node.js, AngularJS In-Depth, and Advanced JavaScript. You can go check them out at FrontEndMasters.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on JavaScript developers, providing them with salary and equity upfront. The average JavaScript developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 bonus as a thank you for using them. But if you use the JavaScript Jabber link, you’ll get a $4,000 bonus instead. Finally, if you’re not looking for a job and know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/JavaScriptJabber.]</em></strong>
+
+<strong><em>[This episode is sponsored by Wijmo 5, a brand new generation of JavaScript controls. A pretty amazing line of HTML5 and JavaScript products for enterprise application development in that Wijmo 5 leverages ECMAScript 5 and each control ships with AngularJS directives. Check out the faster, lighter, and more mobile Wijmo 5.]</em></strong>
+
+<strong><em>[This episode is sponsored by DigitalOcean. DigitalOcean is the provider I use to host all of my creations. All the shows are hosted there along with any other projects I come up with. Their user interface is simple and easy to use. Their support is excellent and their VPS’s are backed on Solid State Drives and are fast and responsive. Check them out at DigitalOcean.com. If you use the code JavaScriptJabber, you’ll get a $10 credit.]</em></strong>
+
+<strong>JOE:  </strong>Hello everybody and welcome to episode 169 of The JavaScript Jabber. Today on our panel we have Jamison Dance.
+
+<strong>JAMISON:  </strong>Hello, friends.
+
+<strong>JOE:  </strong>And Aimee Knight.
+
+<strong>AIMEE:  </strong>Hello.
+
+<strong>JOE:  </strong>And I'm Joe Eames, your host. And we have a special guest on the show with us today. And that is Zach Kessin.
+
+<strong>ZACH:  </strong>Hi, guys.
+
+<strong>JOE:  </strong>Zach is here to talk to us about property-based testing. So, before we get into that, Zach do you want to give us a little bit of an introduction as to who you are and your background?
+
+<strong>ZACH:  </strong>Sure. I've been in this business, the web, for over 20 years now. I'm also the host of the Mostly Erlang Podcast. So, go listen to that. And I've written a couple of books for O'Reilly and [inaudible]. And I've done… I've just sort of done a lot of everything over the years. I'm also starting a startup called Parrot doing some cool stuff.
+
+<strong>JOE:  </strong>Awesome.
+
+<strong>JAMISON:  </strong>I think we actually talked to you a while ago about functional programming, right?
+
+<strong>ZACH:  </strong>Yes. Yes, I've been on the show before.
+
+<strong>JAMISON:  </strong>You were living in Israel at that time.
+
+<strong>ZACH:  </strong>I am currently… So, it's a little complicated. I live in Israel but I'm currently spending a chunk of time in London for work. So, I'm currently sitting in an apartment in the East End of London, in the middle of Petticoat Lane Market. And if we wait around a couple of hours, the Jack the Ripper tour will walk by.
+
+<strong>JOE:  </strong>Really?
+
+<strong>ZACH:  </strong>Yes, [inaudible].
+
+<strong>JAMISON:  </strong>So, you can put a sweet bowler hat on and jump out and scare them or something?
+
+<strong>JOE:  </strong>And a cape. You need a cape, right?
+
+<strong>ZACH:  </strong>You need a cape, yeah. Well, it's right by the spot where Jack left the anti-Semitic blame it on the Jews graffiti. So, I've always been tempted to put on my bright white yamaka and go through [inaudible].
+
+<strong>JAMISON:  </strong>[Chuckles]
+
+<strong>ZACH:  </strong>“Sorry guys, it's all our fault. We didn't mean to. But there you go.” [Chuckles] But I wouldn't do that to one of the tour guides. They're just [inaudible].
+
+<strong>JOE:  </strong>[Chuckles]
+
+<strong>ZACH:  </strong>I've been tempted.
+
+<strong>JOE: </strong> Or you could dress up as a woman of the night, put some ketchup all over you and lay out there on the ground. [Chuckles]
+
+<strong>ZACH:  </strong>Yeah, well on the other hand, I do have a daughter who does special effects make up.
+
+<strong>JOE:  </strong>Oh, how awesome would that be? So, tell us about this Mostly Erlang Podcast.
+
+<strong>ZACH:  </strong>So yeah, I've been doing Erlang for a couple of years. I was doing JavaScript and PHP about four or five years ago and wanted to find something a little more powerful, a little better. And I started looking at other languages. I took a look at Haskell and it broke my brain. I looked at Scala. Clojure wasn't really a big thing yet. I stumbled upon Erlang and it's like, “Holy cow. This is the right way to do scale.” It turns out those guys figured out, the telecom guys solved the problems we're solving now 20 years earlier.
+
+<strong>JOE:  </strong>[Chuckles]
+
+<strong>ZACH:  </strong>They may have heard about the c10k in 2003 or whatever. They scratched their heads and went, “Well, we did that years ago.” So, I wrote a book for O'Reilly on building web applications with Erlang. And I started to get involved in the Erlang community more and more. And I'm like, “We should have a podcast.” So, I called Chuck up and he gave me some good advice. And we've been doing it for a couple of years now. The reason we call it Mostly Erlang is we occasionally talk about other things. We've had episodes on F# and a couple of [inaudible], Haskell and Idris and Elm and certainly plenty on Elixir if you're an Elixir fan. So, just did one on Lisp-flavored Erlang which is a Lisp that runs on the Erlang ecosystem. So yeah, it's been a fun podcast. And we typically have a panel of four people who are in four different countries and quite possibly four different time zones.
+
+<strong>JOE:  </strong>Wow.
+
+<strong>ZACH:  </strong>Yeah. I've gotten used to in the invite emails putting time zones in explicitly.
+
+<strong>JOE:  </strong>[Chuckles]
+
+<strong>ZACH:  </strong>Makes life easier.
+
+<strong>JOE:  </strong>So, let's get into our topic, property-based testing. I think that it's probably a good idea to just start off with just an introduction as to…
+
+<strong>ZACH:  </strong>Okay.
+
+<strong>JOE:  </strong>what property-based testing is, benefits, drawbacks to that, et cetera.
+
+<strong>ZACH:  </strong>Okay. So, property-based testing, also known as, the original version was called QuickCheck and I use the two terms interchangeably, was invented in the Haskell space by John Hughes who was at the time a professor (which he still is) at Chalmers University in Gothenberg, Sweden. He then went on to found a company called QuviQ, co-found it, which ported QuickCheck to Erlang, in part because they had a bunch of customers who wanted it. And versions of it have since been ported to, it just popped up in many languages including JavaScript.
+
+So, the idea is when you do a unit test, let's say you're testing just something that goes really simple like appending two lists. So, you come up with a couple of test case examples. You say, well, we'll take a look at this with two elements and the empty list and we'll append them together. And let's put two elements and three elements. And you know, you make sure it'll work, your tests work. And then you say, “Okay, I'm done.” The problem is that could only test the things you think of. So, the idea of property-based testing is what if we let the computer, which is good at boring, repetitive stuff, come up with a hundred or a thousand or a hundred thousand, depending on how much time you feel like giving it, random test cases. And then we'll write some code to verify that they worked. With me so far?
+
+<strong>AIMEE:  </strong>Yep.
+
+<strong>JOE:  </strong>Yes.
+
+<strong>ZACH:  </strong>So, the idea of this is it will come up with the weird failing test case that you will never think of. A good example of this was I was working in Erlang, there's a web framework for Erlang called Chicago Boss and it has an interface to MySQL. So, I wrote a test for it. And this is just a very simple property-based test and said, “Okay, generate a random string. Save it to the database. Read it back and make sure you get the same string back.” That's what you'd want in a database driver.
+
+<strong>AIMEE:  </strong>So, as you're explaining this, I think for people who are unfamiliar, it might be helpful to explain why property-based testing is usually synonymous with functional programming. That just helped me to grasp the concept better.
+
+<strong>ZACH:  </strong>It mostly is synonymous to functional programming I think because it was invented by people who work in functional programming, in Haskell. And then the first two versions were Haskell and Erlang. I don't think there's anything particularly functional programming specific about it, although it tends to work well if you have immutable variables. On the other hand, I've also done, seen people do property-based testing where you basically had it driving Selenium to test a web application. You can do that, too. Mostly, I think it's just an artifact to the fact that the people who invented it were Haskell and Erlang developers or researchers. Does that make sense?
+
+<strong>AIMEE:  </strong>That does. I was kind of thinking about some of the talks that I was watching about it because this was a concept that I wasn't terribly familiar with prior to us talking about it today. Just with functional programming you have these functions that do one thing. You put something in, you expect something out. So, sometimes with object-oriented programming maybe you don't want side effects but sometimes there are. So, just as I was listening to them, it helped me to understand the thought process going into this and how you make assertions, not necessarily about what you expect out but the properties of what you expect to come out.
+
+<strong>ZACH:  </strong>Right. You could certainly make an assertion like if you're using Selenium to make an assertion like, “This field exists and is visible on the page,” or, “This div contains text that is an integer between 1 and 12,” if you had a time of day thing, right? So, the hours field you might say that, “This contains an integer that is between 1 and 12,” or 0 and 23 depending on if you're using 24-hour time or not. So, you could certainly do that. And even in Erlang you have the ability to test stateful systems that have side effects by firing events at them and doing a sequence of function calls. So, it's something you see in the function world a lot.
+
+But JSVerify is a platform for, a property-based test package for JavaScript that's quite good. And on the day we're recording this I think I saw about eight GitHub, I think I saw two or three pull requests merged on it today on GitHub. So, it's being very actively worked on. [Inaudible].
+
+<strong>JAMISON:  </strong>Can I ask a question that's kind of related to this?
+
+<strong>ZACH:  </strong>Sure.
+
+<strong>JAMISON:  </strong>You were talking before Aimee asked her question about this test you wrote to verify that your database driver saved stuff correctly. And I'm assuming the end of the story is, and you found a bug in it, right?
+
+<strong>ZACH:  </strong>Yes.
+
+<strong>JAMISON:  </strong>So, how do you handle tests like that, that touch…? I mean if you're just manipulating an array in memory or something, you can run 10,000 test cases. If you're reading and writing to and from a database, it seems like there are resources constraints, there are dependencies on outside state. You talked about that a little bit. But it seems like this is a really great idea for pure functions and then when it hits the real messy world where you can't have all your data in memory and all your output to be writing to memory, how do you do that?
+
+<strong>ZACH:  </strong>Well, so what I did in this case, and this was merely a test that did not end up getting checked into, put into the CI build, was basically I treated it as an integration test. And I said, “Okay, write a new record to the database.” There was an ORM type thing going on, “And read it back.” And generate a bunch of random strings. So, what it does is it will keep doing that. And eventually it'll find one that breaks.
+
+Now, the problem you're thinking is, well chances are what breaks is going to have a lot of noise in it, right? It's not going to be a three-character string. It'll probably be like a 30-character string. So, what most good property-based test frameworks do is they actually have a thing called shrinking where they'll take that 30-character string and just do basically a depth-first search on it and start automatically removing elements. So, all of the things that are not relevant to the bug get pulled out before it shows it to you. So, you see the simplest possible case.
+
+But in terms of state, yeah sometimes that is hard where you have to, if you have a stateful system, testing a stateful system is a tricky thing. In that case, it was a test system. I set that up so that I could dump the database and not really worry about it. But in other cases yeah, you have to have cleanup code or something. But that's a general problem of testing stateful systems.
+
+<strong>JAMISON:  </strong>Sure. It just seems like testing pure functions is not the hardest problem. And so, a system that is a lot better at testing pure functions is helping people that are already in a great position, not helping people with their real-world pain.
+
+<strong>ZACH:  </strong>Right. But yeah, this is true. That being said, a lot of people have been [using] QuickCheck for tests. If all that you could test was pure functions, it would not be very interesting. So basically, you test a non-pure function. If you have an event-based system, like a web application…
+
+<strong>JAMISON:  </strong>I'm sorry. I'm being a poor podcaster. We should talk about what pure functions are first, before we get too far into this.
+
+<strong>ZACH:  </strong>Oh, this is a good point.
+
+<strong>JAMISON:  </strong>Sorry, I didn't define that.
+
+<strong>ZACH:  </strong>A pure function is something like, a function that has no external dependencies of any sort. So, if you have a function that takes a list of numbers, a list and sorts it, that would be a pure function. You get a list in, you get a list out. And if you put the same list in a hundred times, you'll always get the same list out.
+
+On the other hand, an impure function is one that either reads or writes to the global state of the world. So, it could be something like manipulating the DOM or even something as simple as checking the time of day. It is now 5:28pm where I'm doing this. But of course, if we had a test that depended on it being 5:28pm then that's not a good test. Or, you'd have to at least think about that a little harder.
+
+<strong>JAMISON:  </strong>Yeah, that makes a lot of sense.
+
+<strong>ZACH:  </strong>And if you go into Haskell, the type system will actually differentiate pure and impure functions. For the rest of us, we just have to name it by hand. But yeah, if you look at say manipulating the DOM, if you have different things manipulating the DOM and you don't really know which order they happen in, then you don't know what the end result is going to be. So, in terms of how do you test something that's stateful, basically what you want to do is create a sequence of events and then execute that sequence of events. And have a model for what should happen. And then you run it and then you make a bunch of assertions and you verify that your model… now, one way you could do it is if you [inaudible].
+
+For example, if you're doing something in the browser with Selenium you could take… or even not with Selenium, just something like… what is the JavaScript test framework of choice in the browser these days? Mocha, Jasmine?
+
+<strong>JAMISON:  </strong>Oh man, like everything else, I don't know that there is a super solid winner. I think Mocha or Jasmine are both fairly popular.
+
+<strong>JOE:  </strong>Yeah, yeah, Mocha or Jasmine.
+
+<strong>ZACH:  </strong>Okay. So, if you had a bunch of tests that you were running through Jasmine or Mocha, it doesn't matter, you might want to verify that they work the same on all browsers. So, you could then launch it in Internet Explorer, use Selenium to just drive this, launch one copy in Internet Explorer, every developer's favorite web browser, right? Not. And one copy in Firefox and one copy in Chrome and see that the results are the same for some definition of 'the same'. Or, you could do something like say okay, let's say you had a to-do list application. You could have a couple of possible operations you could perform on it. You can add an item. You could mark it done. You could delete an item. Or let's just say you had those three.
+
+So, you can have a model for, “Okay if I add four items then delete one of them then add two more,” and so on, then you can say, “Alright, at the end of it I expect to have this many, to be in this state. Let's run it and see and then let's just generate 100 sequences and see what happened.” I will warn you that one general piece of advice [inaudible] JavaScript that is probably true is when you're doing shrinking which I mentioned earlier, if you're doing stateful stuff, you may want to set it up such that you can shrink down to a wait. Because sometimes that confuses things where you do four operations but only the first and the fourth are relevant, but the other two just take up some time that lets something happen.
+
+So, bugs using this approach. One of the best ones that I know of, does anybody drive a Volvo?
+
+<strong>JAMISON:  </strong>I have in the past. Not right now, though.
+
+<strong>ZACH:  </strong>Okay. So, Volvo hired QuviQ, John Hughes's company, to write QuickCheck tests or properties to test the components that go into their cars, because cars contain a lot of computers. And let's face it, a car these days is just a computer with a motor [anyways], or a network of computers, right? And you'd like to hope that the software that goes into your car worked better than the software that does a lot of other things. I don't know if it is. But I'd like to hope it is.
+
+<strong>JOE:  </strong>Agreed.
+
+<strong>ZACH:  </strong>So, there's a bus that connects all the computers in your car and there's a priority level on the bus. And you can have [inaudible] high priority, which is good because you want the thing that's running your radio to have a lower priority than the thing that's running, say the brakes. So, they basically set up a system where they would send events in and expect that they'd come out in the correct order as determined by priority. The problem was there were two versions of the standard. One had smaller number of priority levels and the other one had a much bigger number. And the way you differentiated was you set a bit. You set the high order bit.
+
+So, something was not checking that bit right and just considering it as part of the integer. So, something that should have had a very high priority came out having a very low priority. And they discovered this by basically generating random sequences of commands and then firing them in until they found one that did the wrong thing. And you just say, “Okay, 100 commands go in. You should get 100 commands coming out. They should always be in the correct order,” or however it works. And then they found one that wasn't. And then they were able to reduce it down to just a few things.
+
+Another example was a friend of mine, Heinz N. Gies, has a virtualization package called Project-FiFo which is based on Solaris. And he found a very weird bug which I'm not going to describe because I don't remember how it worked, where if you instantiate, created a new virtual machine, instantiate it, killed it, and did something else all within a certain amount of time, it did something really weird it should never have done. It's one of those bugs you probably would never find manually, because it requires just this weird sequence of events. So, that is the examples of some things that have been found. And of course, my database driver bug is another good example.
+
+<strong>JAMISON:  </strong>So, it sounds like the broad theme of stuff that QuickCheck or property-based testing can help you with is if you're used to thinking of boundary cases when you're testing things, you would probably write your properties in a way that would test the boundary cases. But it'll also do weird stuff that you don't anticipate, basically.
+
+<strong>ZACH:  </strong>Right. There are always more boundary cases than you thought of.
+
+<strong>JOE:  </strong>It might be a good idea for us to quickly explain boundary cases.
+
+<strong>ZACH:  </strong>So, a good boundary… okay, so a boundary case… well, here's a good example in that MySQL bug. So, the bug in question was if you sent the string backslash-backslash-space into the database, the backslashes got deleted. So, you just have this case where you have, for some reason you have a special value where this one value or this one substring doesn't behave like all the others. Or another case might be where you have, if things are added and removed from a list very quickly, maybe they're coming in the wrong order, or things like that. We just have this weird cases where, especially with concurrency, where events don't happen in the way you expect.
+
+<strong>JAMISON:  </strong>Another way to think about boundary cases might be, you maybe have designed this function with some implied range of properties. Like say you wrote a function that sorts integers and you wrote it in a way that it can only take in 100 integers, for some reason. I don't know why you would do that.
+
+<strong>ZACH:  </strong>Yeah, I don't know why you'd do that.
+
+<strong>JAMISON:  </strong>But then you would feed in the 101 integers and see what it does, kind of. So, it's places where you think the behavior might change if you pass a certain limit in or something like that.
+
+<strong>ZACH:  </strong>Right. Exactly. Or, testing what would happen if the user enters bad input, because users never do that. So, those are good examples. And the idea is that you don't want to have to think of all these weird cases. So, there are two other topics that you say. First of all, how do you generate the data and the properties? There's this whole concept of shrinking I've been wandering around. Why don't we start with generating the data?
+
+<strong>JOE:  </strong>Yeah.
+
+<strong>ZACH:  </strong>Obviously every package is going to be a little bit different. If you're working in JavaScript there's a package called JSVerify. So, it has a nice DSL for how to generate the data. Basically if you look at it, there are a couple of ways. You basically give it a set of rules for how to generate it. And then you give it a function. And if that function evaluates to true, the test passes. And you can embed it in Mocha or Jasmine as appropriate. So, that's the short version. And basically there are a bunch of functions that all compose. So, you can say, “Okay, I want an integer,” or, “I want an integer between 1 and 12,” or, “I want a boolean,” or whatever. And then you can do things like say, “I want a JSON with these fields,” and then each field is a property. So, it has the same thing.
+
+So, a field might be an integer or an array of integers or an array of… or you could have one of a choice, so you can give it 12 possible user IDs or something. You just have to pick one at random from that list, and there are weighted lists and other things. So, there are all sorts of things. Basically there are all sorts of generators. There's integers of various sizes, there's UTF8 strings. There's natural numbers with or without a maximum size. And again, all of these compose where you can say, it's a list of integers or a list of, this is an integer or a real or a string. And then you could say it's a list of that choice. Does that make sense?
+
+<strong>JOE:  </strong>Yeah, I think so.
+
+<strong>ZACH:  </strong>And then what you have to do is say, “Okay, now that I have this data, what do I do with it?” How do I verify that the function does what I think it's supposed to do? Now in some cases, there are sort of four general patterns. There are four easy patterns to doing this.
+
+So, the first one is if you have another implementation that does roughly the same thing, or the same thing, compare against that. So for example, let's say you're generating JSON instead of just using the one that's built into JavaScript. Why you'd do that specifically, I don't know. Or let's say you're generating some other data format, not JSON, right? So, chances are there's a version of that data format implemented in some other language. You might have an implementation in, let's just say Python, that can validate true or false that this is a valid example of whatever format you're looking at. So, you generate your data. You convert it into that format. You pass it to the Python program. And that says, “Yes. It's good.” So, that's one option.
+
+The other thing you can do is, the identity test where you can say, “Okay, if I encode this and then decode this, or write it out then read it back or something like that, I should always get back the same thing I put in.” So, I take some data, I encode it to XML, I decode it back into my program. I should get back the same data I put in, right? There are a lot of types of examples of encode/decode or read/write, or fire it off to the server and wait for it to come back. Alright?
+
+<strong>JAMISON:  </strong>So, I have a question that is broad. It seems like there's been a recent trend in programming languages in general but especially in JavaScript of taking more ideas that have been popular for a long time in functional programming, like immutable data, pure functions. These are things that are more popular now in JavaScript and maybe a year ago almost no every day JavaScript developer had heard of them or had a reason to care about them. And it seems like QuickCheck or property-based testing is part of that same trend. Do you think there's a reason why these things are all of a sudden springing up in JavaScript?
+
+<strong>ZACH:  </strong>I think it's because a lot of very smart people working in both industry and in academia have been really thinking about this. And then things like Clojure and Haskell and Erlang which are bringing it into the mainstream attention, and Scala and Elm along with some other things. So, I think that's part of it. I think the… the problem with JavaScript is it tends to use a lot of mutable state. Now, it's certainly not unique. A lot of languages do this. And I think we're starting to realize that having lots of mutable state is like having lots of GOTO's in a program and it just ends up making the program harder to maintain and harder to figure out, where did this state come from? And we certainly have that problem in JavaScript where callbacks happened in an order I was not expecting, things like that.
+
+<strong>JAMISON:  </strong>Sure.
+
+<strong>ZACH:  </strong>Where you could in theory, I hadn't done it, use QuickCheck to mock out a backend where you could muck with the order in which things happened to see if there's some order that would break things. If you have these four Ajax calls going out and then you assume they will come back in this order. But if they come back in that weird order, the whole thing goes kablooey.
+
+<strong>JOE:  </strong>Right.
+
+<strong>ZACH:  </strong>You'd like to know about it and fix that, and then have repeatable tests that would verify that it doesn't reoccur.
+
+<strong>JAMISON:  </strong>So, it sounds like you're saying some of the problems we solve in JavaScript are helped by things from functional programming.
+
+<strong>ZACH:  </strong>Yeah. Look, it is always good to learn from what other people are doing. Haskell, the Haskell guys, and I'm not a Haskell programmer by any means, are very explicit about the fact that they're doing the idea lab thing. They're a place where people are going to play with crazy ideas and how far can we push a type system so it'll do the things. You end up with things like Idris, which is a cool topic for another day. We did a podcast on it on Mostly Erlang. You could go look.
+
+<strong>JAMISON:  </strong>So, maybe another question is why… Java has been around for a long time. It's really popular. And my impression is they have not had the same functional programming renaissance that JavaScript has had. Maybe that's because on the JVM you can just switch to Clojure or Scala or something. But it seems like JavaScript is kind of unique in mainstream non-explicitly functional programming languages in that it's becoming the standard or the more accepted way to write it, instead of becoming a different language. Does that make sense?
+
+<strong>ZACH:  </strong>Right. Well, I think there are a couple of reasons. The reason Java, well a reason Java…
+
+<strong>JAMISON:  </strong>Or C or C++, right? C is not changing to be… the default accepted way to write C is not going to change to be pure functions anytime soon, I feel like.
+
+<strong>ZACH:  </strong>Well, yeah. I think with C that would be very hard. You can do it but it would be very difficult. I admit it's been a very long time since I've written any amount of C. I think part of it is just simply in JavaScript you have some things like first class functions that make it possible. Doing functional stuff in Java is hard because you don't have a first class function. And you can fake it by doing weird things with anonymous objects and stuff. Whereas JavaScript has these lovely first-class functions that they kind of stole from Scheme, which is a good thing. So, I think that's a major part of it.
+
+And that functions, callbacks and functions, for all that they occasionally get messy, are a core competency of JavaScript programmers. Whereas I think in some other languages like Java, even though Java 8 now supports lambdas, lambda being a computer science term for an anonymous function for those of you who've not heard the term before, then… most JavaScript programmers are used to dealing with closures. And with things like anonymous functions where say a Java programmer might not have that, would not be used to that. I think that's one way.
+
+The other thing is Java has some other features that more or less make it good for, or at least try to, for building large-scale systems like a vaguely almost not quite decent type system.
+
+<strong>JAMISON:  </strong>So, it's almost like the total lack of anything besides functions in JavaScript makes people reach out for these functional principles as a way to solve complexity problems because there's not much support in the language. Is that where you're going with that?
+
+<strong>ZACH:  </strong>Yeah. You have functions. They're good. In Java, you don't have functions. So, you can't really do that. In C, you have functions but you really can't pass them around in the same way you would with JavaScript.
+
+<strong>JOE:  </strong>So, I came from a C# world background before I went to JavaScript heavily. And I don't think that what we're seeing is necessarily unique to JavaScript, because I remember a time when functional programming became very popular in C#. And when immutable data became something that people were really talking about. And then we started seeing third-party projects that were based on these sorts of things and to enable these sorts of things.
+
+But I do think that what Zach is saying is somewhat true. And that is, especially with these other languages, they're actually a lot stricter. JavaScript is extremely flexible. So, it can move through, do other paradigms easily, or easier than something like C#. C#'s very close to Java, right? So, it can do these sorts of things easier. With C# it takes a long time for them to change how C# works. And it's just more set in… I don't know if set in stone is the right thing, but just less versatile. Whereas JavaScript is pretty versatile. And JavaScript's just really new in comparison. Although JavaScript's actually older than C#, we just didn't really program much with it until more recently.
+
+<strong>ZACH:  </strong>Yeah. The first decade of JavaScript… I remember the first ever JavaScript “application”, with application in quotes, I saw was probably about 1996 or 1995, something like that. It was on a bank's web page. And it was like a loan calculator or a mortgage calculator or a savings calculator or something. So, if I put in $500 into my bank account and then at 2% interest, and put another $500 every month, after five years how much money will I have? That kind of thing.
+
+<strong>JOE:  </strong>Right.
+
+<strong>ZACH:  </strong>Which is a perfectly useful application. But it's not particularly big.
+
+<strong>JOE:  </strong>Right.
+
+<strong>ZACH:  </strong>This is not Gmail or the Google presentation software, the Google Docs version of PowerPoint, whatever they call it. JavaScript, and other languages, I think PHP falls into this too, really started to be very, doing very small little simple things. Take a few values out of a database, shove them onto a page. Validate a form before you submit it, do some simple math. And then we've grown them to the point of beyond all sanity. If you look at JavaScript from the late 90s and I've been around long enough that I do that, versus JavaScript of 2015, it's almost barely not… it really should not be the same language. I think this is part of the reason you're getting so many compile to JavaScript languages like CoffeeScript and Elm and ClojureScript and all the others, of which there are more than you could shake a stick at these days.
+
+<strong>JOE:  </strong>Yeah, tons.
+
+<strong>ZACH:  </strong>Because JavaScript as a language was not designed for this kind of thing. And I give great kudos to anybody who can make it work. That being said, I'd like to see if people can use property-based testing to find those weird corner cases in their applications, be they in the browser or in Node, I don't really care, or whatever other context. Or by the way, everything I've said will apply to any of a dozen languages. There are certainly property-based test frameworks for most languages. And so, if this sounds interesting to you, you can certainly do it in Erlang or JavaScript or Haskell. But you can also do it in F# of Java or Scala. Clojure and Elm, including ClojureScript build this stuff in, into a base package, by the way. Objective-C too, if you're an iOS dev. I [inaudible] used all of these. [Inaudible] many of them, in fact. But they're there.
+
+<strong>JAMISON:  </strong>So, you mentioned earlier when you were talking about that property-based test you wrote for your database driver that you used it as part of an integration test. Can you maybe talk a little bit more about how property-based testing fits in with other kinds of testing that you do? Do you do all your tests in property-based testing? Is there a certain subset of things that you use it and you still have traditional unit and integration tests for other things?
+
+<strong>ZACH:  </strong>Well first of all, let me just draw some axes of tests here. So, [we talk about] unit tests and integration tests. And in terms of, I think if you were to see where property would be tested, you'd have to draw a second line at a right angle and say, on one side you have what we'll call example-based tests and on the other hand you have property-based tests where you can have a unit tests that is a property and you can have an integration test. And it's just a question of what you're using it for. The difference is not whether it's a unit test or an integration test. They're both useful. It's more of the idea of you're generating the inputs randomly or semi-randomly. You'd find those corner cases.
+
+<strong>JAMISON:  </strong>Okay.
+
+<strong>ZACH:  </strong>So, you might have something… if you were building a set of set operators you might want to do something like say, you want to verify that the union operator is commutative. So, you generate two sets, union them, A union B and then B union A and verify you get the same thing out. Do that 100 times. That would be the equivalent of a unit test where you're just going to generate 100 tests or 1000 tests or whatever. On the other hand, you might also say, look I'm going to generate not the inputs to a function but a sequence of events that I'm going to fire against my system, and then compare it to a model which would be much more like an integration test.
+
+Again, you're using the same principles of, we're generating our tests at random and then seeing what happens, see if we can find that weird corner case that we know must be there somewhere. And the way [inaudible] doing that basically is you start with a very simple model that only does one or two things. And with unit tests, you write a test, write some code. Write another test, write some more code, et cetera. So, with property-based tests you write a property. If it's going do evented properties, maybe it has two events it can have. And then you add a third event and then you add a fourth event. And at some point you may actually end up with more than one property. That's perfectly valid, too. So, it evolves. You just evolve the property over time.
+
+Generally also, you can also [inaudible]. If you find the failing case, you can save it. Basically convert it to a unit test for just preventing regressions. Now, if you ran a standard run of 100 tests and it found it, I usually don't bother. Because chances are, if I found it in the first 100 random tries, it'll find it in the next 100 too. So, it's not worth saving. But sometimes you can say, “Okay.” Normally it will run 100 instances of properties. Some just say, “Okay. I'm going to set this thing up,” as I leave for the day. So, it'll run 100,000 iterations and it'll take all night. And find out if this really weird bug is in there somewhere, and then come back in the morning to the results. And those you want to save.
+
+<strong>JAMISON:  </strong>That's another interesting theme in property-based testing, that it definitely adds an element of randomness, right? For me, test failures that are intermittent are one of the most frustrating parts of software development. So, that's a scary part of property-based testing, to be honest.
+
+<strong>ZACH:  </strong>Right, right, right.
+
+<strong>JAMISON:  </strong>That you now have added a bunch more things that can sometimes fail.
+
+<strong>ZACH:  </strong>Right. No, that's true. The truth is there are two categories of things that will fail in a property-based test. You have thing A which is it'll fail if you say generate 100 test cases. You have type A which if you do that 10 times, it'll fail 9 times.
+
+<strong>JAMISON:  </strong>Sure.
+
+<strong>ZACH:</strong>  And those are usually really easy. The thing is you would probably have written a unit test for it anyway.
+
+<strong>JAMISON:  </strong>Sure.
+
+<strong>ZACH:  </strong>And then you have type B where if you run 100,000 instances and you're lucky you catch it, those are the ones you probably wouldn't have written a thing for anyway. So, those are the ones you want to… yeah, it's going to take you, it may take you a while to find them. On the other hand, you probably never would have [inaudible] any other way.
+
+<strong>JAMISON:  </strong>Sure.
+
+<strong>ZACH:  </strong>Anyway, if you have more questions about this, I have a book on doing this in Erlang. It's called Erlang QuickCheck Book. Even if you're not an Erlang person I think it'll be pretty useful. It's currently under development. And you can buy it on my website and I'll put a link in there.
+
+<strong>JOE:  </strong>Awesome. Well, it's time to wrap this up. We're going to move onto the picks section. So, let's have Aimee go first.
+
+<strong>AIMEE:  </strong>Okay. So, my first one, going off of what we talked about last week. We were talking about ES7 and at the end we got into the async/await stuff. And so, my first pick is going to be just an article talking about that. And I really like this person's blog posts. So, I haven't been able to read this all the way through yet, but I'm going to guess that it's going to be really good.
+
+My second pick is Nodevember. I am actually going to be speaking at this for the first time, so I'm very excited about that. But…
+
+<strong>ZACH:  </strong>Congratulations.
+
+<strong>JAMISON:  </strong>Hooray!
+
+<strong>AIMEE:  </strong>[Laughs] I'm super excited. But it's also an awesome conference. Nashville is incredible. I think that they are still looking for speakers. And as the name of the conference says, it's in November. So, you have a while to think about it. But I would highly recommend attending. And they already have the keynote speakers up. And Douglas Crockford is one of them. So, check that out. And that's it for me.
+
+<strong>JOE:  </strong>Awesome. Jamison, how about you?
+
+<strong>JAMISON:  </strong>Got a few picks. My first pick is HipsterSound.com. It's just background music that was recorded in cafes. So, if you're working from home or in an office but you want just the random ambiance, I don't know. It helps me concentrate. Some people hate it. I like it.
+
+<strong>JOE:  </strong>I thought it was going to be a recording that you made of yourself.
+
+<strong>JAMISON:  </strong>Hipster noise?
+
+<strong>JOE:  </strong>[Laughs]
+
+<strong>JAMISON:  </strong>It's just me sorting through my exclusive rare record collection.
+
+<strong>JOE:  </strong>[Laughs]
+
+<strong>ZACH:  </strong>I am in no way, shape or form a hipster.
+
+<strong>JAMISON:  </strong>This is a deep cut from this rare bootleg album.
+
+<strong>JOE:  </strong>You tying your shoes.
+
+<strong>JAMISON:  </strong>No, it's less annoying than that. Yeah, me grooming my waxed mustache or something.
+
+<strong>JOE:  </strong>Right, tying your Hush Puppies, should I say?
+
+<strong>JAMISON:  </strong>[Chuckles] Yeah.
+
+My next pick is a talk by David Nolen who's like the Grand Vizier of ClojureScript. He's really smart. And I love all of his talks. But this one is on Om Next, so the next version of his ClojureScript UI framework based on React. And it's really good if you're into React. But it's also really good to just see some of the really exciting ideas coming out of frontend JavaScript development.
+
+And then another pick is just a song I've really liked this last week. It's called 'Weight in Gold' by an artist called Gallant. I have never heard of them. I just found it on some random Spotify playlist.
+
+And then my last pick is React Rally. It'll be about a month away by the time this podcast goes live. It's August 24<sup>th</sup> and 25<sup>th</sup> in Salt Lake City. A JavaScript conference for React. The speaker lineup is live right now. If you go to ReactRally.com you'll be able to see who's speaking. And I think it'll be super great and you should buy a ticket and come. Those are my picks.
+
+<strong>JOE:  </strong>Awesome. I'll go next and Zach, we'll have you wrap us up. So, my first pick is going to be the sitcom Better Off Ted which I absolutely loved when it was on TV. I watched it religiously. Only had a single season, but it's super fun to watch. And I know I've picked it before but I'm going to pick it again.
+
+And then this is something that has been picked before because it was in pre-order but has now just released. And that is the book 'Armada' by the same author who wrote 'Ready Player One'. So, this 'Armada' is more, if you happen to be old enough to have seen the movie The Last Starfighter, it is somewhat similar to that storyline, at least the beginning of it is. And it just came out on my Kindle a couple of nights ago. I was so excited. I'm here about 11pm, all of a sudden I get this notification. Armada's ready to download and read. So, I've been reading it. And I'm super excited to read it. I'm picking it before I know if it's great, because I know it's going to be great. And if it's not, then Jamison owes everybody $10.
+
+<strong>ZACH:  </strong>That works.
+
+<strong>JOE:  </strong>[Laughs] Alright, Zach…
+
+<strong>JAMISON:  </strong>Why do I owe you $10? I'm confused.
+
+<strong>JOE:  </strong>Because I have no money to pay anybody. So, this is the bet I'm making with everybody, that I'm going to be right. That the book's going to be good. And if I'm wrong, then…
+
+<strong>JAMISON:  </strong>Then you have have Jamison [inaudible]. You have no consequence?
+
+<strong>JOE:  </strong>Yes, Jamison pays my bets.
+
+<strong>JAMISON:  </strong>Yeah, I'll cover you.
+
+<strong>JOE:  </strong>[Laughs]
+
+<strong>ZACH:  </strong>I like that deal. So, I have three. First of all, I have a book on using QuickCheck with Erlang. I was actually working on one with JavaScript but it's on indefinite hold, so don't buy that because it's not really for sale. It's called 'The Erlang QuickCheck Book'. It goes over a lot of what we discussed using the examples of Erlang. But most of what I said will also work in other languages. So, it may still be useful for you.
+
+Second of all, I am starting with a friend of mine, [inaudible] and I are starting a startup called Parrot. Parrot Universal Notification Interface. If you're building a SASS type business that needs to notify people and you're wondering, how do you talk to this customer who's using JIRA and that one's using Pivotal and the other guy wants GitHub issues and other people are using Bitbucket? We provide you one API that you can talk to and just let your customers figure out how they want to get notified. So, if that's interesting it's Parrot-UNI (for universal notification interface) dot com.
+
+And the third pick is a novel. It's called 'The Famine of Men'. And it's by Richard H. Kessin, who's my father. But that being said, it's a really good novel. And it's about a virus that comes in and causes men to stop producing testosterone. And the people who hunt it down and figure out what to do about it. A really good book. And I recommend it highly. And that's not just because it's written by my father, but I really enjoyed it. So, those are my three picks.
+
+<strong>JOE:  </strong>Awesome.
+
+<strong>ZACH:  </strong>And I really wish that virus really exists because there are certain parts of the world, if we could dump it on it, would probably do a world of good. But that's probably…
+
+<strong>JOE:  </strong>[Laughs]
+
+<strong>ZACH:  </strong>A violation of a bunch of UN treaties, so just as well.
+
+<strong>JOE:  </strong>Meh. Alright. Well, thanks again for coming on the show. We've appreciated having you on. It's been a great show.
+
+<strong>JAMISON:  </strong>Yeah, thank you.
+
+<strong>JOE:  </strong>And we will see everybody next week. And thanks for tuning in and listening.
+
+<strong><em>[This episode is sponsored by MadGlory. You’ve been building software for a long time and sometimes it’s get a little overwhelming. Work piles up, hiring sucks, and it’s hard to get projects out the door. Check out MadGlory. They’re a small shop with experience shipping big products. They’re smart, dedicated, will augment your team and work as hard as you do. Find them online at MadGlory.com or on Twitter at MadGlory.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] </em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]</em></strong>
+
+<strong><em>[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/jabber and there you can join discussions with the regular panelists and our guests.]</em></strong>

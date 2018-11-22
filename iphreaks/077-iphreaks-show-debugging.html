@@ -1,0 +1,352 @@
+---
+layout: layouts/post.njk
+title: >
+      077 iPhreaks Show - Debugging
+date: 2014-10-30 13:00:00
+episode_number: 077
+duration: 
+audio_url: https://media.devchat.tv/iphreaks/iPhreaks077Debugging.mp3
+tags: iphreaks
+---
+
+The panelists talk about debugging.
+
+<h3>Transcript</h3>
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York and L.A. bid on iOS developers, providing them with salary and equity upfront. The average iOS developer gets an average of 5-15 introductory offers and an average salary offer of $130,000/year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It’s totally free for users, and when you're hired they also give you a $2,000 signing bonus as a thank you for using them. But if you use the iPhreaks link, you’ll get a $4,000 bonus onset. Finally, if you're not looking for a job but know someone who is, you can refer them on Hired and get a $1,337 bonus as thanks after the job. Go sign up at Hired.com/iphreaks]</em></strong>
+
+<strong><em>[This episode of iPhreaks is brought to you, in part, by Postcards. Postcards is the simplest way to allow you to feedback from right inside your application. With just a simple gesture, anyone testing your app can send you a Postcard containing a screenshot of the app and some notes. It’s a great way to handle bug reports and feature requests from your clients. It takes 5 minutes to set up, and the first five postcards each month are free. Get started today by visiting www.postcard.es]</em></strong>
+
+<strong><em>[This episode is brought to you by Code School. Code School offers interactive online courses in Ruby, JavaScript, HTML, CSS and iOS. Their courses are fun and interesting and include exercises for the student. To level up your development skills, go to freelancersshow.com/codeschool]</em></strong>
+
+<strong>CHUCK:</strong> Hey everybody and welcome to episode 77 of the iPhreaks Show. This week on our panel we have Andrew Madsen.
+
+<strong>ANDREW:</strong> Hi, from Salt Lake City.
+
+<strong>CHUCK:</strong> Jaim Zuber.
+
+<strong>JAIM:</strong> Hello, from Minneapolis.
+
+<strong>CHUCK:</strong> I'm Charles Max Wood and I got my voice back, and this week we’re going to be talking about debugging. Now I know that this is mostly for my benefit, because you guys don’t write bugs into your code, but I'm kind of curious. There are a lot of different ways to find bugs when you're developing or writing your code? What seem to be the most effective ways for you guys to locate problems that you see in your iOS or Mac program?
+
+<strong>ANDREW:</strong> That’s a pretty broad question, but  I think one thing that is not always possible but is super, super helpful for any kind of debugging is you get a problem report from a user or tester, or maybe even just another developer, and you're supposed to work on it.
+
+Typically, for me, the first step is to try to reproduce that problem. Sometimes that’s actually really difficult or maybe even not quite possible, but in general, if you can reproduce a bug, you're much, much closer to finding it and if you can’t reproduce it, the whole problem is so much harder.
+
+<strong>CHUCK:</strong> I was going to say, in a lot of cases, that’s the hard part because you have to figure out which edge case they're triggering in order to get the bug.
+
+<strong>ANDREW:</strong> Yeah, definitely. There'd been plenty of times where it’s taken me a really long time to figure out how to reproduce a bug, and then as soon as I can reproduce it, “Oh, it’s no big deal to fix it.” It’s actually the figuring out how to trigger the bug that’s the hard part.
+
+<strong>CHUCK:</strong> Yeah, because when I'm writing my code, I’ll fire up the emulator, or if it’s web development I’ll fire up the browser and I’ll exercise the Happy Path. “Oh, yup, works.”
+
+And the other thing is, people have different devices so iOS 8 will run on the iPhone 5, 5s and 6. Do you ever run into issues that are device-specific?
+
+<strong>ANDREW:</strong> I would say that’s been less common. Certainly for performance, which is, in some ways, doing performance optimization has similarities with debugging, but there are definitely performance differences between devices.
+
+<strong>CHUCK:</strong> But that’s mostly an Android problem, huh? I'm just kidding.
+
+<strong>ANDREW:</strong> Well, and I was actually going to say the screen size differences. I've worked on universal apps that work on both the iPad and the iPhone, and you can definitely have bugs that are specific to either the iPad or the iPhone because of differences in the UI on the two.
+
+<strong>JAIM:</strong> Yeah, I think we’re getting to the point where with the iPhone 6 and iPhone 6 Plus, there are enough different layout differences that you can get things where – it doesn’t lay out right in iPhone 6. Or maybe if you have the 6 Plus, you’ve got a totally different layout because your screen size is different, so we’re definitely getting into that area.
+
+<strong>ANDREW:</strong> Yeah, I think it’s always been a good idea to have multiple devices to test on, but I think it’s getting even more important. I've heard from a lot of developers that were buying an iPhone 6 that they wanted the 6 because of the size, but they were going to buy a 6 Plus also because they want both to test on the two different screen sizes. That kind of gets expensive, but it can be pretty important for really being able to thoroughly test your app on the devices it’s actually going to be running on.
+
+<strong>JAIM:</strong> That’s right. “It’s my test device that’s why I'm spending this money, right?”
+
+<strong>CHUCK:</strong> [Laughs] I like the way you think.
+
+<strong>ANDREW:</strong> I tell people that every time I buy a new iPhone. “You're getting a new iPhone? You just got the new one last year!” and I say, “Yeah, well it’s my job.”
+
+<strong>CHUCK:</strong> There you go. If I did a little more iOS development I think I could convince my wife.
+
+So I'm curious. Let’s say you find the bug and you can duplicate it, say, on the emulator or on a device that you actually have access to – your own phone. What tools do you use to figure out where the problem is from there?
+
+<strong>ANDREW:</strong> The real standard that I use almost all the time – and I think the same will be true for all developers – is just the Debugger. If you have some idea of where problem is occurring in your code, you set up the right point and single step through, and that’s often the only thing you really need to do to actually track down the source of the problem because that lets you really inspect exactly what's going on in your program every step of the way.
+
+Logging – there are cases where that doesn’t really work very well. Maybe you’ve got some timing issue, particularly for multi-threading problems this comes up, but there are cases where just breaking in the Debugger affects the problem somehow, or is difficult for one reason or another and you can kind of fall back to caveman debugging or using an NSlogs to figure out where things are going off the rails.
+
+<strong>CHUCK:</strong> I have to say that I tend to opt more toward the caveman debugging and just have to print a ton of crap and then go, “Oh! It’s right there!” and then I pull it all back out. I find that that’s a little bit lower impedance, at least, to start with than setting up the Debugger and setting a breakpoint.
+
+<strong>ANDREW:</strong> Well that actually brings up an interesting side point which is that I found it really helpful to have a lot of log statements in my app. Typically, what we do – at Mixed In Key what we do is we have a debug log macro that in debug builds, so that’s the builds the developers are running. There's a lot of extra stuff logged out to the console, but that automatically gets turned off and release builds that users will see.
+
+What I've done in some things I've written myself is made it so there's a debug mode that the app can be put into where it does print all that extra log information. And then when I get a bug report or a problem report from a user, I can have them run the app in debug mode and send me the log and it gives me a better idea of what's going on than they would be able to describe just from what the UI’s doing, and often I can actually see where things went wrong. Really what it usually does is it helps me reproduce the bug.
+
+<strong>CHUCK:</strong> Is there a good technique for that, for getting it to switch modes like on the settings screen, or is there another way that you usually do that?
+
+<strong>ANDREW:</strong> I actually have not done that in an iOS app; I've done it in Mac apps. What I usually do in Mac apps is make it so if you just hold down a hot key, like hold down the option key or something when you start the app up, it will go into debug mode.
+
+<strong>CHUCK:</strong> I can do that on my phone – hold down the option key. I'm just kidding.
+
+<strong>ANDREW:</strong> Well, so I wonder if there are any restrictions on that. Does Apple care if you put in a thing in your settings menu that says “Run in debug mode,” that kind of thing?
+
+<strong>CHUCK:</strong> I don’t know.
+
+<strong>ANDREW:</strong> I don’t know either.
+
+<strong>CHUCK:</strong> If it’s a Mac app, then you can just have them access the file system and send you the log.
+
+<strong>ANDREW:</strong> Right. Well, there's actually an app on the Mac, on OSX, called Console. It’s in the utilities folder and that displays system logs; that’s what it’s made for. It can copy and paste out of it but it can also export logs as files. They're also just stored on the system somewhere in a library folder, so they're completely user-accessible quite easily on the Mac.
+
+On iOS, you can get them as well. We have two people at Mixed In Key who do testing – that’s their job – and they certainly know how to use the – what is it – the iPhone Configurator app and you can also use Xcode to get system logs off of an iOS device. I think that’s really not beyond the capability of a motivated user, the kind of user that is really helpful in tracking down bugs or beta testers. They can do that stuff if they're somebody that knows their way around.
+
+<strong>CHUCK:</strong> That makes sense.
+
+<strong>JAIM:</strong> So I've got a challenge whenever I get an app with a lot of logging things – it’s how do you parse through that log and make sense. Maybe you're having – an event happens when ViewController shows up or something else shows up, and you’ve got hundreds of lines between the two events that you're trying to track. What are some ways that we can kind of make sense with these huge log files?
+
+<strong>ANDREW:</strong> Now you're asking the hard questions. I don’t know; I'm not sure I have a good answer for that. I agree that that can be a problem; sometimes you get a log with just all kinds of stuff in it and 99% of it is completely normal. I'm talking now about this kind of debug logging that I was talking about, but 99% of it is normal stuff – normal operation. Really figuring out where the problem is and how that’s related to the stuff that’s come before can be difficult. I don’t have a good answer for you, Jaim. Do you have an answer?
+
+<strong>JAIM:</strong> Well, let’s just talk about some techniques. One thing, we've got a nice log sending in there in the Xcode window and command-F, we can kind of format our own logs to something we can –.
+
+<strong>CHUCK:</strong> Search through.
+
+<strong>JAIM:</strong> Search for, yeah. So we have a search string, we can go through that. I've heard of people actually writing up Ruby scripts, they just kind of go through the logs and show you the interesting things. If you have some kind of convention for what you're logging, different events and kind of tie them back to something else – something that you can separate logically – then you can kind of see more of the important stuff that you're trying to stuff and ignore a lot of the noise.
+
+<strong>ANDREW:</strong> Yeah, so that’s actually – I typically will prefix my log statements with sort of the module they're part of, or feature they're part of, the subsystem they're part of, so that then you can filter your log down. If you're debugging a problem with networking, you really only want to see the logging that’s related to networking, and so maybe you prefix all of those with ‘networking’ and it makes your log easier to search. So that is something I've done.
+
+<strong>JAIM:</strong> That makes sense. Instead of doing your Command-F, Command-G, you can trigger, you can find a way through the log console window.
+
+<strong>CHUCK:</strong> Yeah, and you can also – I've seen where they generate some kind of ID, so it can be like GUID, which is a globally unique identifier, or some other string so it can be – if it’s a podcasting app, you can do ‘episode-’ and then some identifier for the episode, so you know that you’ve entered that episode and come out of it, or it processed or things like that. You can put that information in there and then you can essentially trace just one thread of execution.
+
+The nice thing about iPhone apps in particular though is that you don’t have multiple users using the same app at the same time, and so in a lot of cases, the log is going to be sequential, and so if you can figure out when they enter a particular view or when they do a particular thing, then you can start from there and see where they went and what may have caused the issue. Whereas on especially server apps or Mac apps where somebody might remotely access the machine and so two people are using it at once, they’ll have two threads of execution at the same time.
+
+<strong>ANDREW:</strong> Yeah, that’s a good point. At least on the Mac, the system logs have a process ID, so you actually can filter between multiple copies of a given process, but it is easier when you know you’ve only got one user using the app and doing things in a linear sequence.
+
+<strong>CHUCK:</strong> Do you ever find that your logging is insufficient? In other words, the information that you need to debug it is not being logged?
+
+<strong>ANDREW:</strong> Absolutely, and that brings up something that’s good to mention. I actually just most recently did this a couple of hours ago, which is maybe you’ve got a user that’s reporting a problem and you’ve kind of got some idea of where it’s going on but you can’t reproduce it and you can’t figure out exactly what's happening. I've certainly, many times, made a special build for somebody that just logs a bunch of extra data around the area where I think the problem might be happening and then send it to them and ask them to run it. That can help you get diagnostic information that’s sort of targeted that you didn’t anticipate, but it allows you to sort of respond to what they’ve told you so far to further narrow things down.
+
+<strong>CHUCK:</strong> How much technical knowledge do they usually need in order to do that? Can you give them a build that they can just – that my mom could put on her phone?
+
+<strong>ANDREW:</strong> Well, typically when I'm working with these kinds of problems it’s with our beta testers or internal testers, so I'm not so sure about giving it to just a regular end user.
+
+Sometimes you kind of need to read into your communications with them, how skilled they are, so I've definitely had regular users where it comes out but they're actually a developer or whatever, and then they're going to be comfortable doing anything you ask them to do. But if it’s just somebody who bought their first iPhone yesterday, probably not.
+
+<strong>CHUCK:</strong> That makes sense.
+
+<strong>JAIM:</strong> So what are some techniques to getting those debug builds out to beta customers?
+
+<strong>ANDREW:</strong> Well, if you're on the Mac, like I usually am, you zip it up and email it to them.
+
+<strong>JAIM:</strong> [Inaudible 13:38] Okay, that’s a good question.
+
+<strong>ANDREW:</strong> On iOS, you can of course do ad hoc builds manually but we usually have used in the past, we’ve used TestFlight that works pretty well. That’s sort of in flux right now because Apple bought it and they're making changes and – I don’t know, it’s kind of half re-released. But TestFlight – there are some other services that do that same kind of thing, but that can be really useful when you find those kind of motivated users that will help you test and debug and track down problems.
+
+<strong>JAIM:</strong> Is this TestFlight in the sense of an ad hoc build where you have the device ID?
+
+<strong>ANDREW:</strong> Yeah. I'm actually talking about the TestFlight service that Apple bought, and you do need to get their device ID. But we’ve had that happened before; we've had somebody report a problem and we really need their help to track it down, to debug it. Once we've figured out that they're going to be helpful, we add them to our beta tester pool and you can get good people that way because they're already motivated users; they were using your app and sending you feedback before you asked them too, and it’s good to have those kind of people in your pool.
+
+<strong>JAIM:</strong> That sounds good. So you're limited to how many users? What is it, a hundred or something like that?
+
+<strong>ANDREW:</strong> It was a hundred; it seems like they’ve upped that, but I can’t remember off the top of my head now. We've got less than a hundred, for sure, at Mixed In Key.
+
+<strong>JAIM:</strong> Another option is to do, if you're doing an enterprise build, you have a larger limit on what users you can have upload or download the app – that’s one other approach. A little more tedious, because you're mixing kind of downloads, and I'm not sure how that would work if you're [inaudible 15:10] at the same bundle ID or not, or if they need to, or if that works with the provisioning profile. But that’s the way I've kind of distributed things to selected users without having to get their information, [inaudible 15:22] them sign up through TestFlight.
+
+<strong>ANDREW:</strong> So that’s it; that’s another good option. I think, particularly, if you're doing enterprise apps, enterprise distribution, it makes a lot of sense.
+
+I just looked it up and I guess Apple increased the limit from a hundred to a thousand users/app.
+
+<strong>CHUCK:</strong> Oh, very nice.
+
+<strong>ANDREW:</strong> At least for TestFlight, so that’s a big improvement.
+
+<strong>JAIM:</strong> So in this case with the TestFlight distribution, using the same bundle ID, you have access to all the information they’ve created from the app so if they got themselves in a weird state, you can kind of see what they were doing. Is that how you do it, or are you changing the bundle IDs so it’s a separate app?
+
+<strong>ANDREW:</strong> No, we’ve used the same bundle ID. But that actually reminds me that another sort of capability you can put in your app that’s useful that we’ve done is – typically the apps I work on are not the kind of apps that download some data from a web service and show it in a Table View kind of thing. They’re really content-creation apps, so they always have user data and it’s not user data that can easily be replicated if it gets lost or if something happens to it. It also means that sometimes bugs turn up that are specific to the documents that a user has created.
+
+The point is, on iOS, you want to have ways for users to get that data out of the app for various reasons. One of those reasons is that they can send it to you to debug problems in it. There have been times where the bug is, that they do some sequence of things and the data that the app saves gets corrupted or is wrong somehow, and it can be really hard to troubleshoot that if you can’t actually look at the data that’s problematic.
+
+<strong>CHUCK:</strong> I'm wondering a little bit, most of the debugging that I wind up doing – I mean, the harder debugging is definitely in the case of some user using your app and getting all the information you need from them. I am curious, in the course of just regular app development, what tools do you use when you run into something unexpected there? So nobody’s actually seen it yet except you; you're just adding some feature to the app and it either doesn’t do what it’s supposed to do or it breaks, fails, crashes, whatever you want to call it.
+
+<strong>ANDREW:</strong> I consider that part of – even though you call that debugging, that’s really just a big part of development in general. You're working on something, you're continuously testing it while you're working on it and as you're going – unless you're really, really good or really, really lucky – things never work perfectly the first time. When you write a new feature, it’s never going to be perfect the first time, as soon as you hit compile the first time.
+
+That kind of test-debug-development cycle is just part of development. And again, I think the debugger’s – just the debugger in Xcode or LLDB is really the main tool that you're going to be using for that kind of thing. Breakpoints and single-stepping are simple but usually powerful.
+
+<strong>JAIM:</strong> Yeah, definitely. I find I use the debugger a lot more than logging statements, and I think a lot of that comes from the background you had before you were doing iPhone development. If you're coming from a more Ruby web background, it’s easier to do a lot of logging statements; if you come from a more client-side development background, you're kind of used to the GDB, LLDB, so you're a little more comfortable with setting a breakpoint to look at things around. I think a lot of it comes down to what you were doing before.
+
+At early development, I was doing Embedded Linux where I had no other way of debugging. I could do logging, but if I wanted to get inside something I was doing GDB and had to learn it pretty well. I got to the point where I don’t use features in the various debugging tools that heavily; I think it’s almost kind of an anti-pattern. It’s like, if you learned every little thing of how to use your debugger, that’s kind of an anti-pattern in itself. If you're writing the code the right way, you shouldn’t need to.
+
+As I've gained experience in the development world, I'd find I'm using less and less of the heavy features of the debugger and just kind of setting a breakpoint, “Okay, what I expected to happen happened” and kind of go on from there.
+
+<strong>ANDREW:</strong> That’s an interesting idea, but I think you're right that as you get better at the development you're doing, you'll probably need fewer of the advanced debugger features.
+
+When I've kind of gone down the path of trying to use some advanced technique in the debugger, it’s often then when it was because I really had no idea what I was doing in trying to understand the problem. As you get better, you have sort of a better sense for how things can go wrong and how to simply find them. That’s not always true, of course, but that’s interesting.
+
+<strong>JAIM:</strong> Yeah. If this index in the loop is greater than this and this other thing is this, then you breakpoint, or then you go up to – and your next stack frame above this is something else. I mean, you can get some crazy stuff in there, but I don’t really lean into it [crosstalk 19:54].
+
+<strong>ANDREW:</strong> Yeah. I was actually going to save part of this for later, but there are some really sophisticated features in modern debuggers. But I think 99.9% of the time, those are not really necessary – maybe not even useful, because most problems, if you understand your code well, it’s just easier to track down than you would require those kind of features to track down.
+
+<strong>CHUCK:</strong> My experience is that the debugger is, when you either don’t know where to look – or the other circumstance, because you mentioned the first circumstance. The other circumstance is if it’s complicated, and it’s complicated to the point where I can’t easily look at it and know what's going on and I don’t know how to simplify it to the point where I can just say, “Oh well, it’s obviously here.” Then a lot of times I have to go and put the debugger in, set up a breakpoint, halt the world and say, “Okay, where is everything? Okay, this is what I expect” and then step through it. But that also then indicates to me that I may need to think about refactoring my code.
+
+<strong>JAIM:</strong> Definitely. Another thing that we’re probably glossing over is, if you're coming from a different background, debugging in Objective-C is quite different than other languages. We should probably talk about some of the quirks we encountered the first time we are doing this.
+
+Like what's the difference between print and print object – p and po? What's going on there?
+
+<strong>ANDREW:</strong> Yeah, that’s a good point, and that actually brings up something that I think a lot of new developers don’t know, which is that when you're stopped in the Xcode debugger, you’ve got an LLDB Console and you can use the whole LLDB command line interface, which is quite powerful.
+
+I remember, at one point, that being confusing to me, and po prints out an Objective-C object and it actually prints out the string that you get when you call description or send the description message to that object. P is for printing primitives like ANDs and floats and all the stuff that come from C. It’s sort of one of those parts of Objective-C that’s baggage form C that really does trip people up when they're first starting.
+
+<strong>JAIM:</strong> So if you're creating a new object and you want to have a reasonable debug output when you print it, you just have to create a string with the relevant information in your description and return that. Does that sound right?
+
+<strong>ANDREW:</strong> Yeah, and that’s something I always do. If I'm creating an Objective-C class that’s a Model Object or any kind of object for that matter, that’s one of the very first things I do is override description and put something useful in there because it really makes your life easier when you're in the debugger, or even if you're just going to use logging because, of course, NSlog will also use the output of the description method when you log objects using it.
+
+So what about, Jaim, you said that you actually got to where you could use GDB really well just on the command line? I wonder if you use the LLDB command line very much in Xcode.
+
+<strong>JAIM:</strong> Most of my GDB fu has been lost to the ages. Most of what I do is just down the LLDB command line that’s in Xcode – printing objects, getting the frame, seeing the bounds, that type of stuff – so I don’t get into crazy stuff because you have access to the stack frames of the different threads in the debugging window, so I don’t see myself getting into it that much.
+
+When I was doing this before, it was embedded work and there was no GUI really, so I had to do that all myself. But for Xcode, it does what I need to do; just go into the console.
+
+<strong>ANDREW:</strong> I know there are some people that – for whatever reason – they do use that command line. I had experience where I was sitting in the labs at WWDC last year and had a problem I was trying to debug in my app. This is always kind of fun at WWDC, but the problem was with a Table View on OSX. The engineer that I was there with is the guy who wrote NSTableView, so he knows it better than anyone in the world.
+
+I've been working on this problem for quite a while, or I wouldn’t have taken it to him, and his fingers just started flying across the keyboard in the debugger, and within 20 seconds he had found the problem, told me what it was and how to fix it. It was pretty amazing to watch. And he was doing it all on the command line, not because he had to – I don’t think – but he was just more comfortable that way.
+
+<strong>JAIM:</strong> And it comes down to your background, what you were doing before you're doing app development. If you're comfortable with GDB and the command line stuff, you can fly in it.
+
+<strong>ANDREW:</strong> So one of the things I do use the command line interface for besides po to print things out is, in LLDB there's an expression command. It’s EXPR, and that will just let you run a line of Objective-C code that you – well, it’ll actually let you run an expression, but the thing I use that for is you can set a value of a variable to something else.
+
+For example, maybe you're stepping through an algorithm and you see that a value is not what you expected it to be, but you kind of want to test the rest of your code path as if that value were right, you can break after the line where it goes wrong and fix it, and see what happens – just as a debugging technique. That’s really the only other thing I use the command line interface for, but there's a whole lot there that I know that I don’t know or I know about but just don’t find a use for a lot.
+
+<strong>JAIM:</strong> Yeah, I think a lot of people don’t realize that you have a lot of C-type functionality in the command line. If you ever tried to print out the bounds of a view, you always get some kind of error, because it doesn’t know what the type is but you can cast it to CGRect and then you'll get a nice output.
+
+<strong>ANDREW:</strong> Yeah, someday they’ll fix that because – I don’t know. It just seems to me like they could make that and make Xcode smart enough to figure that out. But yeah, that’s a really big one, right? Casting the return value of some method you're calling to what you know it is because Xcode doesn’t know.
+
+<strong>JAIM:</strong> Mm-hm. I can’t figure it out, or sometimes if you have a dot notation accessing a property, LLDB will handle it better if you change it to a message using the brackets. A lot of times it’ll, “Oh, I know what that is now.”
+
+<strong>ANDREW:</strong> Yeah, it doesn’t seem to know that there's a property with that name.
+
+Also, kind of going back to what you were asking about, Chuck, besides the debugger, another really powerful tool that Xcode gives us is Instruments.
+
+<strong>CHUCK:</strong> And you know all about Instruments, right?
+
+<strong>ANDREW:</strong> Oh, I don’t know if [crosstalk 25:23].
+
+<strong>CHUCK:</strong> Working at Mixed In Key.
+
+<strong>JAIM:</strong> Guitars, pianos –.
+
+<strong>ANDREW:</strong> No, our customers are DJs. They just pull out a laptop and play.
+
+<strong>CHUCK:</strong> Oh, there you go.
+
+<strong>ANDREW:</strong> So Instruments, the debugging tool, is super powerful, and that can help you instrument – meaning put test instruments into your app and look at lots of different aspects of your app’s runtime behavior including memory usage, CPU usage, thread usage, disk I/O, all kinds of stuff like that, graphics card utilization.
+
+It’s something kind of experienced iOS and Mac developers know about, but it’s one of those things that beginners sometimes take a while to get into and to learn. Once you really get a feel for it, it’s a really powerful tool and can help in a lot of different scenarios. So I think we should talk about that.
+
+<strong>CHUCK:</strong> So what exactly does it give you then? What kind of instrumentation can you put into your code with Instruments?
+
+<strong>ANDREW:</strong> Well Instruments is built on an open source app called dtrace. I'm not a dtrace expert by any means, but as I understand it you can actually write your own instruments, sort of the sky’s the limit. It comes with Instruments to help you track down a bunch of common stuff. I think probably the most common once are the Time Profiler instruments, so that lets you see which parts of your code are using the most CPU or actually really which parts of your code your app is spending the most time in. If you're doing something and it’s taking a long time and you want to optimize performance, you'd use the Time Profiler to figure out where the bottleneck in your code is to see there's this for-loop that’s taking forever and that's where the app’s spending all its time. And then you know where to focus your optimization efforts.
+
+It actually lets you drill all the way down to the lowest level calls, like all the way down to the system calls, so you can figure out where time is being wasted.
+
+I think another really common one – probably the next most common one, or most useful one – is the Leaks instrument. There's Allocations instrument and the Leaks instrument, but those help you figure out where memory is being used by your app. The Allocations instrument in particular will show you which parts of your code are allocating lots of memory, and it also helps you see which objects are in memory that are taking up a lot of memory. The instrument will show you, say, your app is currently using 50Mb of memory and 40Mb of that is instances of this one class. Maybe you're allocating too many of those in a tight loop and you need an auto-release pool; maybe you're forgetting you're storing them all in an array, in a cache, and never flushing it. Anyway, it can help you find those kinds of problems with memory usage, so that’s really useful.
+
+<strong>JAIM:</strong> Yeah, it’s definitely useful for media apps like what you're working on. If you're [inaudible 28:41] images, they can get quite large; sound files, those things get quite large and if you don’t clean them up correctly, your app goes down, and you don’t really get that much information on what's happening. So going through the Allocations instrument is very useful for those kinds of apps.
+
+<strong>ANDREW:</strong> Yeah. I think on iOS where memory is still really at a premium – I think in the desktop world, a while ago, we kind of moved into this mindset of, “Well memory’s cheap and there's lots of it.” Besides, your app’s not going to get killed if you use too much; it just will slow down because it swaps the disk, right? But on iOS, that’s still not the case and really knowing where your app is using memory is super important.
+
+Did I leave any instruments out, Jaim? Are there ones that you use that are useful and valuable?
+
+<strong>JAIM:</strong> Yeah, Leaks and Allocations are good. I mean, sometimes if you're getting performance problems, you actually see the CPU usage. I had some things where we’re doing a lot of DSP type work and we were actually constrained by CPU usage, so I've used those types of things.
+
+But I think Leaks and Allocations are the ones I go to most often. I think that they're the most useful.
+
+<strong>ANDREW:</strong> Okay. So I do a lot of – Mixed In Key’s apps are quite CPU heavy, because we do audio analysis and various other things that really tax the CPU, and so performance optimization is really important for us, and Time Profiler, that I talked about, is useful for that.
+
+I've used the OpenGL ES Analysis a few times; there's a Core Animation instrument that can be useful for tracking down graphic performance problems, but I think the Time Profiler and the Leaks/Allocations instrument were of course the ones that get used all the time.
+
+<strong>JAIM:</strong> Definitely. So what are some other tools that we can use to get information, either from our QA departments, from the CEOs, or from users? Are there some ways that we can get better information on what's happening if people are finding bugs in the field?
+
+<strong>CHUCK:</strong> One thing that I've seen mostly on the Mac but occasionally on iOS is if a program crashes, sometimes it sends a crash report back, or it’ll ask you if you want to send a crash report back, on the Mac.
+
+<strong>ANDREW:</strong> Yeah, I thought to talk about that earlier and it kind of slipped my mind. Crash reporting in your app can be really valuable. On iOS there – I guess Apple actually announced at WWDC that they're going to finally send people or let developers get the crash reports for their apps through iTunes Connect and get them for real, like every one. At least that’s what I understood. But even so, there are third party crash reporting services for iOS like Crashlytics and HockeyApp and TestFlight used to be one that you could use for that.
+
+Well one thing on the Mac that I've noticed is if an app crashes, you get this dialog that says, “Would you like to send this crash report to Apple?” A lot of users don’t realize that that crash report that goes to Apple does not go to the developer, because I've gotten plenty of emails that say, “The app crashed and I sent you the crash report.” And I have to explain to them, “No, you sent the crash report to Apple; I don’t get that at all.
+
+<strong>CHUCK:</strong> Oh, really?
+
+<strong>ANDREW:</strong> Yeah. I mean, they don’t know, right? They don’t know who put that window up on the screen, and I think they just assume that it’s going to go to whoever wrote the app. After all, it’s a lot more useful to the developer of the app that crashed that in it is to Apple, really, right?
+
+Anyway, crash reports. Getting crash reports from your users is very valuable, and I think it’s almost to the point where you, as a responsible developer, you really need to be doing that because you might release an update and it’s crashing for some significant portion of the user base. Without crash reports, if it’s really a common thing, you would have caught it in testing if you were going to be able to reproduce it easily. Getting a crash report that helps you track that down is very important and valuable.
+
+[Crosstalk 32:32]
+
+<strong>CHUCK:</strong> So how do you get those then if Apple is gobbling them up?
+
+<strong>JAIM:</strong> Well I’ll ask that question too. I generally push for something like Crashlytics, which you will install along with your app, and it will actually send you stack traces of what's happened when you get the crashes. If I have influence on the project, I recommend using something like that.
+
+<strong>ANDREW:</strong> Yeah, same with me. Personally, I'm kind of impartial with HockeyApp; I don’t like that menu bar app that Crashlytics uses. But anyway, any of those sort of crash reporting tools that are out there for iOS apps can be used to gather these crash reports, and then they do get sent to you instead of to Apple.
+
+Like I said, I think this is supposed to be changing where Apple is going to send crash reports for your app to you, so you don’t strictly need one of those. They may still offer features that are nice, but doing automatic symbolication – I'm not really sure if Apple’s going to do that or not.
+
+On the Mac, we actually have our own crash report. Mixed In Key has our own crash reporter code, but it’s really pretty simple because crash reports on the Mac are just saved in a system folder, and so our crash reporter basically on launch just checks to see if there are new crash logs in that folder for the app. If there are, it puts up a window and says, “We noticed the app crashed. Would you like to send us the problem report?” and we have a box there that the user can type into any steps that they were – whatever they were doing when the app crashed to maybe try to get some more information from them. That has been really valuable.
+
+It’s actually been valuable from a user support, kind of customer support point of view because when we get a crash report, sometimes, if they’ve entered stuff in that box, we will email them. We, the developers, see it and will email them and say, “Hey, we saw that the app crashed. Thanks for reporting it” and we would ask some more information. People are often quite pleasantly surprised that you cared enough about their problem to get back to them and tried to get help fixing it.
+
+<strong>JAIM:</strong> So the crash reporting leads to a different question: what do you do when you get the crash report and it’s none of your code – it’s all in some system thing, it only occurs on iOS 7. Do you have any techniques for handling those kinds of crashes?
+
+<strong>ANDREW:</strong> No, does anybody? I think, in theory, sometimes those crashes you can actually get – if you really know what you're doing you can get a lot of information out of crash reports like that. But it’s kind of one of those things where, most of the time, you feel like – well, I basically have to throw up my hands because there's not a single line of my code here. Unless I can reproduce this crash, I just have no hope of tracking it down. So I don’t have a good answer for that. What about you?
+
+<strong>JAIM:</strong> Well, I'm just trying to figure out how to explain this to my clients. It’s like, “Well, it’s a crash here. Yes, we don’t want crashes to happen, but I'm not exactly sure what we’re doing here to cause this.”
+
+<strong>ANDREW:</strong> Well I think there's a sort of triage that should be done on crash reports. If you're getting a hundred of those a day and it’s the same crash report, at some point you got to say, “Well, yeah this is not in our code but it’s a serious problem and we got to do whatever we can to fix it.”
+
+If you get one, and it’s the only time you’ve ever seen that crash and it makes no sense to you – I'm not saying all crashes are not important, but prioritization is a pretty good thing. Sometimes you do just have to say, “Well, we can’t figure this out, but it’s not that big of a deal.”
+
+<strong>JAIM:</strong> Definitely, but I never liked that conversation.
+
+<strong>CHUCK:</strong> [Chuckles] Well –.
+
+<strong>ANDREW:</strong> I know what you mean.
+
+<strong>CHUCK:</strong> I mean, what it really comes down to then, being a contractor is, do they trust you? Are you pulling their leg because you honestly don’t know how to solve the problem because you're incompetent? Or are you telling them because there's just not a good answer to the actual situation? Sometimes there's a way to work that out and sometimes there isn’t, but if you're an employee somewhere, sometimes you have other options because it’s like “Okay, well I'm going to go explore this” and you're costing them salary; you're not costing them time that you're going to bill them for later.
+
+<strong>ANDREW:</strong> Yeah. Just from a political relationship point of view, it kind of does come down to your expertise and the trust thy have in you, but that is a hard conversation to have and I've had it before. You don’t want them to feel like you're just trying to get out of work or trying to pass the buck or whatever. Sometimes there are problems that are – at least, maybe they're fixable but it’s just going to take such an investment of time that it’s really not worth it to fix a crash that only two people have ever seen.
+
+<strong>CHUCK:</strong> Yeah. Alright, well –.
+
+<strong>ANDREW:</strong> I think that’s true for bugs in general, not just crashes.
+
+<strong>CHUCK:</strong> Yeah. Well, I know that some of us have stuff going on this afternoon, so I'm going to start heading us toward the picks. Is there anything though that we absolutely should've covered that we didn’t, before we do that, that we can talk about really fast?
+
+<strong>ANDREW:</strong> Well I think on crash reporting, one thing that I did want to talk about is symbolication. That’s when you get a crash report, just a raw crash report for Mac or iOS apps, it does not have human read – it doesn’t have your method names in a [inaudible 37:29]. It’s just got these numbers that correspond to locations in the program code, and symbolicating is the process of taking those logs and figuring out how the numbers in the call stacks relate to actual method names and lines of code in your source code.
+
+The way you can symbolicate those is you have to save out the .DSIM files, which are debug symbols when you build your app, and those are stored in Xcode’s archive, if you use the Xcode archive feature. On iOS, Xcode will actually symbolicate logs for you, so if you’ve got the .DSIM for that version of the app that the crash log is for, you can just drag the crash log index into the organizer and it’ll symbolicate it for you.
+
+On the Mac, it’s been kind of a mess for quite a while, but I guess I’ll make it just one of my picks. But there are some tools out there for doing Mac crash log symbolication that can make that process easier. That’s something, I think, that confuses new people, because you get this log back and it’s like, “Well there's a bunch of numbers here; I don’t know how this relates to my code.”
+
+<strong>CHUCK:</strong> Magic numbers. Those always make me so happy.
+
+Alright! Well cool, that’s a lot of great information and advice. Should we get to the picks?
+
+<strong>JAIM:</strong> Let’s do it!
+
+<strong>CHUCK:</strong> Alright, Jaim do you want to start us off with picks?
+
+<strong>JAIM:</strong> Alright, I'm going to do two picks. My first pick is apple crisp – it’s delicious. Everyone should have some apple crisp this season; it’s a good season for apples, so go ahead and find some of those and make an apple crisp and go ahead.
+
+Second, I saw a blog post from John Siracusa on the Swift language. Very insightful, talking about its kind of pedigree is kind of a system language but modern features and talking about the different pros and cons of that approach. I thought that was a great article among many that he has done, but this was an exceptionally good one. Those are my picks!
+
+<strong>CHUCK:</strong> Noice! Andrew, what are your picks?
+
+<strong>ANDREW:</strong> I got three picks today. First on is a music pick, but it’s kind of also programming-related. It’s the album IBM1401 A User’s Manual by Jóhann Jóhannsson. He’s an Icelandic composer and this album is sort of a – I don’t know how to – I guess it’s sort of a concept album about the IBM 1401 data processing computer, which his dad was a technician on the first one of those that was imported into Iceland in the ‘60s, I think. His dad actually figured out how to make that computer make really simple music, and he found some tapes of that music his dad made with it and turned it into – used it as the inspiration for a whole album. I really like the music, but it’s also got that geek appeal.
+
+My next pick is BBEdit. As we record, BBEdit 11 was just announced. BBEdit is a text editor for the Mac and it’s been around for – I don’t know – since the early ‘90s, 20+ years. It’s just really well-done; it’s the favorite of a lot of old-school Mac programmers, I think. I don’t use it for writing; I'm in Xcode most of the time, but when I need sort of a separate text editor, BBEdit’s usually the one I go to. It’s not free, but I think it’s well worth the money. As I recall, they have a free version called TextWrangler that’s a little bit stripped down, but it’s sort of the same underlying engine.
+
+And then my last pick is an app called MacSymbolicator. I was just alluding to this, but symbolicating crash logs on the Mac has been a little bit of a pain for the last few years. It seems like every time I come up with a process to symbolicate a crash log using the debugger or whatever, it breaks with the next release of Xcode or whatever. I never quite know what's gone wrong, but this is an app that makes it really simple to symbolicate your crash logs. You just drag your debug symbols file into the crash file into this app and it symbolicates it for you. That's MacSymbolicator. Those are my picks.
+
+<strong>CHUCK:</strong> Very cool. Alright, I'm just going to promote one thing that I'm working on right now, and that is if you're interested in learning how to write mobile apps with JavaScript, we’re going to be doing a roundtable discussion with several of the creators and maintainers of the various ways of doing that. If you text “MobileJS” to 38470, then you'll get the information about it, and it’s going to be on November 5<sup>th</sup>. You’ll get a text, you'll get all the information, and we’ll kind of move ahead from there. I'm still working on putting the website up for it, but it should be up by the time the show comes out.
+
+Anyway, that’s my only pick, so we’ll go ahead and wrap up. Thanks for coming, guys.
+
+<strong>ANDREW:</strong> Thank you.
+
+<strong>JAIM:</strong> Yeah.
+
+<strong>CHUCK:</strong> We’ll catch you all next week!
+
+<strong><em>[This episode is sponsored by MadGlory. You've been building software for a long time and sometimes it gets a little overwhelming. Work piles up, hiring sucks and it's hard to get projects out the door. Check out MadGlory. They're a small shop with experience shipping big products. They're smart, dedicated, will augment your team and work as hard as you do. Find them online at MadGlory.com or on Twitter @MadGlory.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]</em></strong>
+
+<strong><em>[Would you like to join a conversation with the iPhreaks and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at iphreaksshow.com/forum]</em></strong>

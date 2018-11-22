@@ -1,0 +1,403 @@
+---
+layout: layouts/post.njk
+title: >
+      004 RR Databases, SQL, & NoSQL
+date: 2011-05-27 00:22:00
+episode_number: 004
+duration: 
+audio_url: https://media.devchat.tv/ruby-rogues/RubyRogues20110526.mp3
+tags: ruby-rogues
+---
+
+<h3>Panel</h3>
+<ul>
+ 	<li>Aaron Patterson (<a href="http://twitter.com/tenderlove" data-cke-saved-href="http://twitter.com/tenderlove">@tenderlove</a>)</li>
+ 	<li>Charles Max Wood (<a href="http://twitter.com/cmaxw" data-cke-saved-href="http://twitter.com/cmaxw">@cmaxw</a>)</li>
+ 	<li>Fernand Galiana (<a href="http://twitter.com/kitesurfer" data-cke-saved-href="http://twitter.com/kitesurfer">@kitesurfer</a>)</li>
+ 	<li>James Edward Gray II (<a href="http://twitter.com/JEG2" data-cke-saved-href="http://twitter.com/JEG2">@JEG2</a>)</li>
+ 	<li>Peter Cooper (<a href="http://twitter.com/peterc" data-cke-saved-href="http://twitter.com/peterc">@peterc</a>)</li>
+</ul>
+<h3>Discussion</h3>
+<ul>
+ 	<li><a href="http://copiousfreetime.rubyforge.org/amalgalite/" data-cke-saved-href="http://copiousfreetime.rubyforge.org/amalgalite/">amalgalite</a></li>
+ 	<li><a href="https://github.com/ryandotsmith/queue_classic" data-cke-saved-href="https://github.com/ryandotsmith/queue_classic">Queue Classic</a></li>
+ 	<li><a href="http://mysql.com/" data-cke-saved-href="http://mysql.com">mysql</a></li>
+ 	<li><a href="http://postgresql.org/" data-cke-saved-href="http://postgresql.org">postgresql</a></li>
+ 	<li><a href="http://sqlite.org/" data-cke-saved-href="http://sqlite.org">sqlite</a></li>
+ 	<li><a href="http://mongodb.org/" data-cke-saved-href="http://mongodb.org">mongodb</a></li>
+ 	<li><a href="http://redis.io/" data-cke-saved-href="http://redis.io">redis</a></li>
+ 	<li><a href="http://fallabs.com/tokyocabinet/" data-cke-saved-href="http://fallabs.com/tokyocabinet/">tokyo cabinet</a></li>
+ 	<li><a href="http://oracle.com/" data-cke-saved-href="http://oracle.com">oracle</a></li>
+ 	<li><a href="http://en.oreilly.com/rails2011/public/schedule/detail/19058" data-cke-saved-href="http://en.oreilly.com/rails2011/public/schedule/detail/19058">Aaron's RailsConf Keynote</a></li>
+ 	<li><a href="http://www.gnu.org/licenses/gpl.html" data-cke-saved-href="http://www.gnu.org/licenses/gpl.html">GPL License</a></li>
+ 	<li><a href="http://en.wikipedia.org/wiki/MIT_License" data-cke-saved-href="http://en.wikipedia.org/wiki/MIT_License">MIT License</a></li>
+ 	<li>key-value stores</li>
+ 	<li>document stores</li>
+ 	<li><a href="http://memcached.org/" data-cke-saved-href="http://memcached.org">memcached</a></li>
+ 	<li><a href="http://mxcl.github.com/homebrew/" data-cke-saved-href="http://mxcl.github.com/homebrew/">homebrew</a></li>
+ 	<li><a href="http://www.rabbitmq.com/" data-cke-saved-href="http://www.rabbitmq.com/">rabbitmq</a></li>
+ 	<li><a href="http://www.amqp.org/" data-cke-saved-href="http://www.amqp.org/">amqp</a></li>
+ 	<li><a href="http://kr.github.com/beanstalkd/" data-cke-saved-href="http://kr.github.com/beanstalkd/">beanstalk</a></li>
+ 	<li><a href="http://https//github.com/blog/542-introducing-resque" data-cke-saved-href="http://https://github.com/blog/542-introducing-resque">resque</a></li>
+ 	<li><a href="https://github.com/collectiveidea/delayed_job" data-cke-saved-href="https://github.com/collectiveidea/delayed_job">delayed job</a></li>
+ 	<li><a href="http://cassandra.apache.org/" data-cke-saved-href="http://cassandra.apache.org/">cassandra</a></li>
+ 	<li><a href="http://aws.amazon.com/simpledb/" data-cke-saved-href="http://aws.amazon.com/simpledb/">amazon simpledb</a></li>
+ 	<li><a href="http://hadoop.apache.org/" data-cke-saved-href="http://hadoop.apache.org/">hadoop</a></li>
+ 	<li><a href="http://couchdb.apache.org/" data-cke-saved-href="http://couchdb.apache.org/">couchdb</a></li>
+</ul>
+
+<h3>Transcript</h3>
+
+<strong>CHUCK:</strong> All right. We got some new theme music today.
+
+<strong>JAMES:</strong> Yay!
+
+<strong>PETER:</strong> Death metal!
+
+<strong>JAMES:</strong> [Chuckles] Peter, you love death metal.
+
+<strong>CHUCK:</strong> You all hearing this?
+
+<strong>JAMES:</strong> No, it doesn’t play for us. [Chuckles]
+
+<strong>CHUCK:</strong> All right. Well, we wanna welcome everybody out to another Ruby Rogues podcast. Today, we have on our panel, James Edward Gray from Gray Productions. We have Aaron Patterson from AT&amp;T interactive. Peter Cooper from Ruby Inside, Rails Inside and Coder.io. Fernand, I don’t know who you work for. I didn’t do my homework that way, so you wanna fill us in?
+
+<strong>FERNAND:</strong> Sure. Actually, I'm self-employed. I've been doing that for I guess over a year and a half to two years now. And I host a Rails Users Group in Denver, Colorado. And I've contributed several projects, you know, Zia for graphic packaging for Rails. And our house, a automation system built on top of Ruby. So that’s the short description of me.
+
+<strong>CHUCK:</strong> All right. And I'm Charles Max Wood from Teach Me To Code. All right, so this week we are going to be talking about databases. And usually, what we to start out is we actually start going around the panel and ask what databases people are using or have used. There's a lot of out there, and instead of jumping into that, I'm a little bit curious as to where people come down, as far as SQL and NoSQL. So we are going to go around the panel and ask that instead. Let’s go ahead and start with Aaron.
+
+<strong>AARON:</strong> Oh, boy. NoSQL or SQL.
+
+<strong>JAMES:</strong> Way to put him on the spot. He’s freshly back from Rails Conf.
+
+<strong>AARON:</strong> [Chuckles] I think that I'm a fan of NoSQL, but no is into NoSQL. So I am a fan of SQL, but really I don’t actually particularly care. I just use whichever one is best suited for the job. So, yeah.
+
+<strong>CHUCK:</strong> That makes sense.
+
+<strong>AARON:</strong> That’s lame, I know. Not super exciting.
+
+<strong>CHUCK:</strong> [Chuckles] That’s okay. James, what do you prefer? SQL or NoSQL.
+
+<strong>JAMES:</strong> I only use SQL server. That’s it.
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>JAMES:</strong> Oh, I'm kidding. I like a wide variety tools. Actually, I do a lot of work with both PostgreSQL and MySQL. I definitely favor PostgreSQL these days and I think it’s time we all just move over there and forget about MySQL. But as far as NoSQL tools, I've been using those a ton too. I'm a big Redis user and over. I was really into Tokyo Cabinet for a long time until they basically abandoned it for Kyoto Cabinet and that kind of of turned me off, so I don’t tend to use that as much anymore. I've used Beanstalk for QA and various NoSQL databases. But I've definitely saved Redis as one of my favorite. And then sometimes I've been known to throw stuff in a flat file. I like to play with lots of different approaches the data.
+
+<strong>AARON</strong>: How about CSV?
+
+<strong>JAMES:</strong> How about CSV. CSV I've never used that, ever.
+
+<strong>AARON:</strong> [Laughs]
+
+<strong>JAMES:</strong> Okay. I use it sometimes.
+
+<strong>CHUCK:</strong> [Chuckles] All right, Fernand what do you use?
+
+<strong>FERNAND:</strong> I use Access on all my projects [laughs] just kidding. I definitely use an operational database -- PostgreSQL, MySQL. I think it really depends on the type of project you are handling; the size of database, what your datasets are going to look like. I do like NoSQL solutions when you have requirements where the schema is loosely defined. For that actually, throwing a bone out there, I really like MongoDB. I've used it on several occasions and definitely for logging stuff, when you have perhaps you know, not so well-defined data structure, I think it works really well. I like the way you query in Mongo, I think it’s very intuitive going from an SQL background. Also liked it. I've used it on one project where it’s kind of a funny, oxymoron type stuff but it is basically --- databases, so you can build database, play with it, write some reports and statistics and throw it away. And I think Mongo work really, really well for that, because it’s very simple to create a database, to populate it and to experiment with it and let it go. So it’s a persistent story in a way. You know I have used the Tokyo Cabinet and Redis, which I think are good solutions but again, it depends on your problem area and the requirements that you have for your projects.
+
+<strong>CHUCK:</strong> All right. Terrific. How about you, Peter? What have you been using?
+
+<strong>PETER:</strong> Yeah, I'm a bit like Aaron I guess, is that I don’t really care too much about what I use, but unlike Aaron, I kind of used the wrong tool for the right job.
+
+<strong>AARON:</strong> [Laughs]
+
+<strong>PETER:</strong> By that, I mean like I often just kind of like respond to whatever current fad is. Like. I used to literally just stick to MySQL the whole time. I loved it as well. I am pretty good with it. Sort of running big deployment with it. But then everyone who’s kind of done that with MySQL knows the problems that are kind of involved there. So when the NoSQL thing started to come along, I did have to play with various things. Got kind of got swept up with MongoDB fad briefly. I still use it here and there. but not with any anger just mostly because I don’t really like the APIs to it. I think it’s becoming the important thing for me. The API is hooks in to this things is just as important as the underlying technologies since I'm not a complete database head. But then also, this is a nice submission on my part, I actually do really like SQLite. I do really like it. If you are working on something like really small so it doesn’t get lot of traffic. So for example Ruby Flow, when I started building that, it’s kind of when they first change the default in Rails to using SQLite instead of the MySQL demands that were in there. I just thought to give this a go. And it just worked. And then I kind of deployed it. I was like, “Well I haven’t got time to migrate this to MySQL.” And I just left it on there and it’s been fine. Not a single problem. I'm actually a big fan of rolling stuff out on SQLite where it makes sense. So yeah. Also, just like what James have mentioned, Redis -- massive fan of Redis. But it’s just not quite easy enough to deal with most of the databases and stuff in very logical way with that for me to be using it for every single thing. But where it makes sense, I do. I love it. It’s great. So that’s me.
+
+<strong>CHUCK:</strong> Super.
+
+<strong>JAMES:</strong> I loved SQLite. I'm so glad Peter brought it up because I actually forgot to mention it. I’ve actually scaled it to some pretty high levels, if you have the kind of site where your user data is totally separate from all other user data; like its internal data only that you would never share with anybody else. Sometimes I´ll set that up and I´ll just make a SQLite database for each user and as the connections are coming in, I´ll set up a connection to the right file and then just use that throughout the request. And that’s scales beautifully, very far.
+
+<strong>AARON:</strong> SQLite is great. I love it because you can hack it.
+
+<strong>JAMES:</strong> Absolutely.
+
+<strong>AARON:</strong> It’s super easy to embed, it’s super easy to use. It’s also fun because you can easily do in memory databases, which is really fun so if you wanna just create a database and throw it away, you don’t even have to worry about it.
+
+<strong>PETER:</strong> And it works with active record, which is good.
+
+<strong>AARON:</strong> Yeah.
+
+<strong>JAMES:</strong> And the other awesome thing about in-memory databases, you can build an in-memory database and then dump it to the file system, if you want. So like, a couple of times where I've had to do a whole bunch of processing really quick, I build up the whole thing in memory and then dump it to the file system; it’s dramatically faster than dumping it all as you go.
+
+<strong>PETER:</strong> It’s a bit like the Redis approach.
+
+<strong>JAMES:</strong> Right, exactly.
+
+<strong>CHUCK:</strong> I actually worked for a company that stored settings for each user in the SQLite database. And that SQLite database was stored as binary data in the MySQL database.
+
+<strong>AARON:</strong> [Chuckles]
+
+<strong>JAMES:</strong> Wow. I don’t think I would recommend that.
+
+<strong>CHUCK:</strong> Yeah, I don’t know that I would either. I don’t know if any of the guys that did it would either. But it was interesting and it’s interesting to know that there's a possibility of doing something like that.
+
+<strong>PETER:</strong> Was that --- brothers? [Laughter]
+
+<strong>CHUCK:</strong> No.
+
+<strong>JAMES:</strong> If you are playing with SQLite, there's a under loved Ruby library for it -- extension -- it’s called Amalgalite by Jeremy Hindgardner. And it embeds SQLite in the extension. So I like it way better than the library that Rails uses for SQLite.
+
+<strong>AARON:</strong> What? Why?
+
+<strong>JAMES:</strong> Because it embeds the SQLite in the extension, so whenever I use the version that Rails uses, then I deploy it to the production server and it does a different version of SQLite. And since it just dynamically links to that, I guess bugs and stuff in my SQL code; whereas if I have SQLite embedded in the extension like it was meant to be embedded in the extension, then I don’t have that problem because the SQLite code is right there.
+
+<strong>PETER:</strong> That’s how Paul does it. The DVD SQLite module actually includes it right in the same approach.
+
+<strong>JAMES:</strong> That’s the way the SQLite team tells you to embed SQLite.
+
+<strong>CHUCK:</strong> So can I clarify really quickly what you are saying is the deal in Rails binds to a C library and the other one is pure Ruby?
+
+<strong>AARON:</strong> No.
+
+<strong>CHUCK:</strong> No?
+
+<strong>AARON:</strong> The other one is all C as well; it’s just that it ships with the SQLite C code embedded.
+
+<strong>CHUCK:</strong> Okay.
+
+<strong>JAMES:</strong> And SQLite is an embedded database. And that’s what you are supposed to do with it; you are supposed to embed it.
+
+<strong>CHUCK:</strong> Okay.
+
+<strong>AARON:</strong> But then you have to deal with compilation problems on all of the systems. I don’t wanna deal with that.
+
+<strong>JAMES:</strong> Compilation problems? Yeah, I guess I do see that aspect of it. But I don’t know, I think linking against the dll is probably about equal evil, in my opinion.
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>PETER:</strong> SQLite is a good compiler, though.
+
+<strong>JAMES:</strong> Yeah, exactly.
+
+<strong>PETER:</strong> I've never had a problem it.
+
+<strong>JAMES:</strong> Exactly. I can't ever think of a place I’ve tried to compile SQLite and it didn’t just work.
+
+<strong>AARON:</strong> Have you tried compiling on like Solaris or AIX or something like that?
+
+<strong>JAMES:</strong> No, but I've never tried running my Rails app there either.
+
+<strong>AARON:</strong> So, you start running a project like that, and then all of a sudden you get a bug report that’s like, “Here, compile this on aax.” And you are just like, “What?”
+
+<strong>CHUCK:</strong> [Chuckles] So I have to ask two questions then: the first one is, what was the name of that library then, James?
+
+<strong>JAMES:</strong> Amalgalite.
+
+<strong>CHUCK:</strong> Amalgalite. And then the second question is, is MySQL or Solaris or whatever we are all talking about Oracle, right? I mean Oracle owns all of those properties, right?
+
+<strong>JAMES:</strong> [Chuckles] Oracle is MySQL.
+
+<strong>FERNAND:</strong> I'm surprised nobody brought up MySQL as a database. What are you guys feeling on that?
+
+<strong>JAMES:</strong> Yeah, aren’t we all using that? I mean, come on.
+
+<strong>AARON:</strong> I use Oracle at work.
+
+<strong>JAMES:</strong> You do?
+
+<strong>AARON:</strong> Yeah.
+
+<strong>CHUCK:</strong> Because he works for an enterprise.
+
+<strong>AARON:</strong> Yes.
+
+<strong>CHUCK:</strong> Yeah, I work for a university that used it and the DBAs had to have like special certifications and stuff to deal with it.
+
+<strong>PETER:</strong> --- of insanity.
+
+<strong>CHUCK:</strong> [Chuckles] Yeah. So I'm a little curious -- and this is more for my edification than and my ignorance I guess -- it seems like there are lot of MySQL haters or at least we prefer anything than MySQL, I'm wondering is it because you like the other databases better or is there something in particular you don’t like about MySQL?
+
+<strong>JAMES: </strong>Who wants to go first on that one?
+
+<strong>AARON:</strong> I´ll go first. I don’t hate MySQL at all, and I don’t actually hate any particular technology; I just wouldn’t use it and that comes from a few things. First off, I don’t like the licensing. I don’t like that it’s GPL. So that causes problems with like dealing for example, C extensions; when you link against MySQL do you have to follow the GPL clause or is MIT okay. And I am a programmer; I don’t have the mind to think about problems like that. Whereas with SQLite, it’s like --- domain, don’t have to bother, don’t even have to think about it. Totally free to use it. <strong>CHUCK:</strong> What about PostgreSQL?
+
+<strong>AARON:</strong> PostgreSQL is MIT. The other thing I don’t like about MySQL simply comes from the underlying protocol and how you actually use the C libraries. Specifically when you do compared statements versus regular statements, the data types that come back are different, so that makes writing an adaptor around their API kind of difficult because you can't say that their return value are consistent. For example, if you select a date using the normal statement or using the normal API, you get a string back; whereas if you select it using a prepared statement API, you get a special struck back. So you have to put special cases on your code to deal with those situations. I mean that stuff we wrap up in active records. So most people don’t have to deal with it, but I have to deal with it -- and it’s a headache for me.
+
+<strong>CHUCK:</strong> Okay.
+
+<strong>JAMES:</strong> Peter, you chimed in. You said you like MySQL?
+
+<strong>PETER:</strong> I just say I like it. For all the bad reasons that people like MySQL which is in the past -- less so now -- but in the past, it’s very easy to install, very easy to get going, to integrate with everything. You know, PostgreSQL I mean, and I must admit I have very little experience with PostgreSQL. I think things have changed in that department over in the last few years. But when I was looking at it three or four years ago, it was quite a process. It was one which was kind of like really dense text files and you have to like hook this up, hook this up and you know, there was work to be done and a lot of hoops to jump through. I hope they’ve improved that. But MySQL just was a lot easier back in the day.
+
+<strong>CHUCK:</strong> Huh. Yeah, I've been using MySQL, but it’s mainly because that’s what I've been using forever. So I've always been curious as to why people prefer one over the other. And so Aaron brought up some interesting reasons to look into PostgreSQL and some of these other. James, you keep bringing up that you like PostgreSQL a lot better than MySQL. Are there any particular reasons or capabilities or anything that you see in PostgreSQL that’s not in MySQL?
+
+<strong>JAMES:</strong> Absolutely. So I was a bit of a MySQL fan for a long time too and kind of late making the switch just because that’s what I learned on and that’s what I was comfortable with. I was like Peter, I looked at PostgreSQL a couple of times in the past and though, “Man, it’s kind of a pain in the butt to get into.” I definitely feel it’s gotten better especially if you use homebrew, I mean it’s just homebrew install PostgreSQL and you are done. So I really like that. And then once you get in to PostgreSQL and you realize that it really is a great database, and it’s built with a great feature set in mind. And just all the time they are finding stuff in there that you just love. It’s so capable. So David Brady, who couldn’t join us today, actually wrote an email telling us that once upon a time, he implemented an adventure game; a small text adventure game using PostgreSQL scripting language. And that’s a great example of how powerful PostgreSQL and how easy it is to do things. So like I've been promoting queue class library for Ruby lately, that I saw at Red Dirt and it’s a queue system implemented inside of PostgreSQL using its amazing locking capabilities and its published subscribe that’s built in and stuff like that. Aaron was just showing off Hstore, which is PostgreSQL built in NoSQL key values store. He was showing that off on his keynote at RailsConf. So you know, once you get into PostgreSQL, you realize there's just tons of features in there. And so many things like you actually do when you are on MySQL. When you are on MySQL and you are ready to add text searches, like, “Okay, which thing am I going to get to do a text search?” because you can't really do it in MySQL. I mean, you kind of can if you switch tables, but that gets into one of MySQL’s major weakness how switching tables is like horrible and you lose some features and gain others. Whereas PostgreSQL just has that built right in; full text search. You just set it up and you are done. So yeah, PostgreSQL is definitely a programmer’s database, in my opinion. <strong>PETER:</strong> You are selling me.
+
+<strong>CHUCK:</strong> Yeah, I was going to say, full text search is built in and I'm just like, “Oh, yeah. Okay, I can do that.”
+
+<strong>PETER:</strong> We’re listening.
+
+<strong>CHUCK:</strong> [Chuckles] No kidding. Fernand, do you have an opinion on this?
+
+<strong>FERNAND:</strong> Actually, I'm more like someone who likes to keep things simple. So I think it all depends on the requirements and what type of application you are actually building. I mean I think MySQL, that’s my --- if you are dealing with tens of thousands of record or --- of like millions and millions and perhaps lots of update to the database. I mean that’s the simple way. And I agree with Peter, the install is simple. The distribution is pretty wide, so it’s getting on your system. So it’s almost like, this kind of making me think in a way, like your performance optimization type scenarios, like if you try to put in your performance prior to getting something done, you are going to end up doing it over and over again. So I think any database solution is probably fine until you get a phone call at 3 am, your application is --- up. So I think really, I use the best tool for the job and basically try to figure out when it is going to be the most efficient debugging and finding the issue with your database tool. So I think it kind of brings up those arguments related to a database but I would coin it as the ---  principle which kind of states you keep a site intact, task --- expecting it to be a good database admin or good system admin. I think there's also perhaps due to cost measure and things like that, but I think if you really are doing a lot of database within your application, a lot of database requirements which has repetition or you are dealing with millions or terabytes worth of data, then also is the developer the best person to actually make those kind of decisions versus bringing in a database administration into your organization. So that’s kind of like, I think everybody got jobs in a database or sys admin for that matter, but where you get to a point where you’re getting diminishing returns, right?
+
+<strong>JAMES:</strong> That’s kind of a really good point actually. I think that in our industry, we tend to just have the developer do all the database work. But there are actually people that know how to do that or are better at it than we are, no matter what we tell ourselves. And sometimes a project is big enough that you probably ought to take that seriously and use a professional.
+
+<strong>CHUCK:</strong> Yeah, I agree. One thing that Fernand brought up too is kind of using the right tool for the job and also using the right tool for you. I kind of got both of those out of that. But in using the right tool for the job, I mean there are a lot of different types of databases and a lot of different problems that they solve. And so I'm kind of going to go through some of the different types of the databases and get some opinions on what they are good for and what people might be using them for that they ought to reconsider. And the first one I wanna ask about is the key value type database. And so you have things like memcached or Redis or Tokyo Cabinet I think is also key value. I might be wrong on that. But what are those good for and what problems do they solve well?
+
+<strong>JAMES:</strong> So I would say they are great for when you want a big hash in the sky is basically what they're good for and then they are all have their different flavors. For example, memcached is still the best of the best for simple caches, in my opinion. And I really like it for that it has better expiration than Redis, it has better memory adjustments than Redis.
+
+<strong>PETER:</strong> No.
+
+<strong>JAMES:</strong> No? I think it excels at that. Peter, what do you think?
+
+<strong>PETER:</strong> I mean no, I just did all of my experiments, I used memcached a few years ago now. So it may have well improved. But just like in very, very basic tests, I just found memcached to be… I find it slower than Redis, for start. Not by a massive amount, but a little bit. But no, I just found Redis to be a lot more configurable on the memory side of things. I mean I guess he’s been adding in a lot more stuff recently like you have a different type of storage systems that can be coming in. I guess perhaps I see a lot more promise in Redis than memcached going forward. I just prefer the configuration of it now. I just find it a lot more configurable than memcached.
+
+<strong>JAMES:</strong> So I will agree that Redis is very configurable, but actually what I was referring to -- and I didn’t make this clear -- memcached has better algorithms for some things. For example, when you set a time to live on a key in memcached, and you set it for ten minutes, but then you keep reading that key over and over again, its ten minutes from the last time you read that key. So basically if the data stays hot, it stays in memory. When you set a time to live in Redis as ten minutes, then that means ten minutes. And even if you are accessing the heck out of it, ten minutes from now is gone. So that I think makes it not as good a choice for cache handling and stuff like that. In Redis, you can fix that but you have to also do a right to do a key to update the time to live basically -- which kind of kills the point, in my opinion. And then the other thing when I said memory and memcached, when memcached runs out of memory, it uses a more intelligent algorithm to expire the keys, and it will favor keys for getting rest usage or haven’t been used in a long time, so it tends to do a better job of dropping things out of the cache. They are old and not really been used anymore. Whereas Redis uses a very simple fast algorithm, but doesn’t do as good a job in expiring the right things.
+
+<strong>CHUCK:</strong> Oh, interesting.
+
+<strong>JAMES:</strong> So I still think memcached is king on caches. Redis is kind of like, to me, in my opinion it’s the ultimate networking toolkit database. It’s basically like if you want a data structure on the network, that you can share between process or request whatever, I think Redis really kills at that. It’s really good for real time statistics. Like for a while, it was used to do those download counts on rubygems.org; whereas people will download every increment counters in Redis then you could go sit on the page and watch it update, that was an excellent use of Redis. And then Tokyo Cabinet is basically kind of falling into obscurity, so I won't even bother to say what I think it’s good for.
+
+<strong>CHUCK:</strong> All right. Anyone else wanna chime in on that? Aaron?
+
+<strong>AARON:</strong> Pretty much NoSQL stuff that I've used in production, we typically use it for caches really. I've never had to scale up Mongo at all. The databases I have to scale up are Oracle and MySQL. But the MySQL times, we used MySQL for millions of rows, but the only time we used it for that was the read only cache, so I've never had to deal with it for rights. As far as I can tell, it seems bad if we had to deal with it for rights, but as far as NoSQL stuff, really I've only used it for cache. And we typically use memcached or Tokyo Cabinet, but I guess we are switching off that because of stuff that James is talking about [chuckles]. But yeah, I mean… I don’t know.
+
+<strong>CHUCK:</strong> All right.
+
+<strong>FERNAND:</strong> Sorry. I totally agree with James on the memcached versus Redis. I just wanted to add notes. There is features as James pointed out, I think in PostgreSQL, to basically embed hashes in a column on a table. But I also think that’s this is fine and PostgreSQL obviously gives you some hooks to query there. But I think if you start getting into those areas, it’s getting over somewhat the gray area to me and that’s where you may wanna consider a NoSQL solution. Because if you are starting stashing hash of values inside a column and you started getting down that path, you probably wanna step back and look at what you actually are going to do with that data. And I think that’s where you may wanna consider a NoSQL type solution, especially knowing how you actually wanna query and extract that data back out. And I think when I look at as far as NoSQL solution, again I bring up Mongo because that’s the one that I know the most in that views. You know, it’s very easy to actually start pushing some data on to that store and especially if you wanna extract some reporting or statistics out of it. So I think that a good use case scenario for considering a NoSQL solution.
+
+<strong>JAMES:</strong> So now that we are moving in to Mongo, Mongo is more of a document database than a key value store which is a little bit different, in that its basically more like instead of a hash in the sky, it’s more like a hash of hashes, in the sky -- kind of.
+
+<strong>AARON:</strong> Have you used it in production, James?
+
+<strong>JAMES:</strong> No, I haven’t. I've played with it a couple of times. There’s something that I really like about Mongo, which I think it’s a real developer-friendly database and I like that about it. And like Fernand says, when you are getting into scenarios where your data is changing and like the schema version of it, or things like that, then it seems like it is almost an ideal tool. And the thing that continually scares me off of Mongo is I worry that some of the production concerns have like never been addressed. Like I can't get anybody to realistically tell me how you are supposed to back up a Mongo database without taking offline. I mean like, seriously back it up. Just drop a backup or things like that. That kind of worry be about putting in to production. And maybe it’s just that I haven’t dug deep enough in that world and find the right things. So I'm a little bit scared of putting it into production.
+
+<strong>AARON:</strong> I've heard the same things especially after this Amazon outage. I've heard some horror stories after that. Like not being able to recover Mongo database.
+
+<strong>CHUCK:</strong> I've heard that too. I've also heard that Mongo, I think it’s Mongo. In fact, I'm almost positive it was because I was talking to somebody about it. It logs the queries that come in to a log, and so you can basically play it back and get your database back depending on when you took a snap shot of that file, but it’s kind of an eventual consistency thing. It doesn’t do it on every query; it does it every so often. So you do run the risk of not being able to get everything back if you are backing up that file.
+
+<strong>AARON:</strong> I typically use these things as caches so that I have in case like the thing dies, I can rebuild it from say a regular SQL database.
+
+<strong>FERNAND:</strong> Yeah, I agree with you guys. I mean that definitely have been a flaw with Mongo. And I think they are kind of out of date. I don’t think they have actually addressed some of the issues, but I think perhaps you can extrapolate that to be more generalistic, but I think if you do look at NoSQL, it think it might be advantageous also to know whether you can actually recreate the database in case you run into those issues where something gets corrupted or you are losing things. And I think a good scenario, especially for Mongo is that you can put it in there but you can easily rebuild it or you don’t really care about the accuracy of the data for that matter, right? So the two cases where I thought it was a good match is for basically logging some kind of events coming out of your application where just having every single logs may not actually matter on that much or the ability to actually be able to dump it to a mongo instance, run some queries, do some reporting and throw it away or be able to rebuild. So I think that’s a good scenario for that.
+
+<strong>CHUCK:</strong> That’s really interesting. I've talked to a few people about data warehousing. And that might be really interesting because with data warehousing, what you effectively do is flatten your data so that you don’t have to worry about joins in this and that, and then you do the queries on it. And I can see where that would be handy in Mongo. I also started this kind of a fun little project; I started writing a blog engine on Sinatra and used MongoDB as my backend. And you know, you can stop and start Mongo and it will shut off your database and then bring it back up. So, it is persistently storing it. And I haven’t really looked at where or how, but you know, just interesting things. I kind of liked it for the fact that I could let people then extend the blog engine eventually, and effectively just add fields to the posts or whatever on the blog, without actually worrying about the actual schema.
+
+<strong>FERNAND:</strong> And I think that’s the interesting thing. I guess I disagree with you James on that. It is really more than a hash of hash, because you don’t have to traverse the whole thing because you do have a language that you can leverage to navigate, add up the document hierarchies. I think that’s kind of attractive about Mongo.
+
+<strong>JAMES:</strong> That’s a good point. Fernand makes a good point there. Even to go one further, Mongo can actually have things nested in its fields, almost like hash in a hash in a hash, and you can still query across it. So that is kind of neat.
+
+<strong>FERNAND:</strong> The other thing too. I'm thinking about this just triggered a point here James, is the other cool thing about Mongo that people may want to think about too is that because it is so flexible because there's no predefined schema and it’s easy to modify schema on the fly, I found it also kind of interesting to basically refine your schema. You can experiment with it and look at how you are going to traverse down the hierarchy and basically kind of maybe use it as a prototyping tool to figure out what the best way to set your schema together, right? So that’s kind of an interesting thing too.
+
+<strong>JAMES:</strong> That’s an interesting idea. I really like the point Aaron and Fernand made where they basically say use the relational database as the authority and then when you go to this external tools, put what you need in there to use them but then maintain the database as the authority. I do try to do that whenever I can; even in my background jobs, I may use like resque or beanstalk or something to throw the jobs in, but I always make sure that if the entire queue just gets blown anyway, I don’t even care because I can just requeue everything. And I usually have a task to do exactly that coming to the database and requeue everything.
+
+<strong>CHUCK:</strong> So that’s another thing I really wanna touch on at least is I'm a little bit curious, as far as these database backed queues, I mean you have things as simple as in jobs where it basically just adds a table and fields to the database and then just has a daemon that queries it and runs. But you also have things like resque and beanstalk that backup on to something else, like Redis and then basically just pull stuff off the queue in order.
+
+<strong>JAMES:</strong> Are you asking which ones do we like?
+
+<strong>CHUCK:</strong> Yeah. I'm curious about which ones you like and I'm curious as well as to how those fair versus that ones that just seem to use their own internal storage in some way, in memory storage or something to store the queue structure itself.
+
+<strong>JAMES:</strong> Okay. Shall we go around the table on queues?
+
+<strong>AARON:</strong> Sure.
+
+<strong>CHUCK:</strong> Yeah, let’s just do it really quickly because it’s not core to what we’re talking about, but it is something that’s interesting.
+
+<strong>JAMES:</strong> Okay.
+
+<strong>CHUCK:</strong> So yeah, just go ahead and I guess we'll just start with you, James.
+
+<strong>JAMES:</strong> So, as far as queues go, there's basically like you said, attempts to do it in a relational database. Probably the two that we should talk about in those are delayed job, which works very well as far as just being very simple that integrates with the Rails app. If you have moderate queuing needs, it’s going to be fine. It’s all you ever need really. The --- delayed job is using your relational database for something they don’t particularly excel at. So if you get data into a certain point, it’s basically enough to fall off a cliff just because relational database kind of that suck at that kind of thing. So that’s an example of it. The library I mentioned earlier Queue Classic in PostgreSQL using PostgreSQL locking and subscribe that’s a little bit better just because PostgreSQL has a way saner locking. And so that’s probably a better solution if you are on PostgreSQL. And then there's really queues that really queues, like being stuck and probably ampq kind of thing, that people know. The problem with ampq kind of stuff it’s a really great powerful queue and way over complicated, which I think makes working with it not friendly. Beanstalk is almost exactly the opposite of that and the minimal queue that can possibly work. And its very good about that in every aspect except introspection, which is where it has problems. You can't really look at what jobs are in the queue and stuff like that. So probably, a pretty good balance of those in my opinion is resque, which is the. Redis does perform pretty well for that kind of stuff. You can queue it up and you get the introspection. So generally, I've been favoring resque lately.
+
+<strong>CHUCK:</strong> Anyone else?
+
+<strong>FERNAND:</strong> I agree with James’ statement. One thing for me that I'm not really big on and I guess that we can touch back on database and I know we talked about searching text query type stuff. To me, it’s like Redis happen to be the backup mechanism for resque strategy, but I'm not too big on it. I think it’s that simple to install, so if you do have minimum requirements for queuing, I think that works well. But I think beanstalk, I really like it because it’s really dead simple to install. But I think also, there's a limitation there. So you know, if you do have some pretty advanced queuing strategies, I think beanstalk or ampq might be a better candidates for that. But ampq, you know, it’s almost like an --- exam; just you get it and installs anywhere it’s pretty painful to actually deal with the installation process in my opinion. But also I guess that brings up the question of like for text chain, yeah you know, it is supported in MySQL and it is supporting PostgreSQL but is it actually the bad thing. It could be if you have simple requirements for text searching, that maybe the option, but should it be part of your decision versus considering --- or sort of solution. I guess that would be a good question for the panel.
+
+<strong>JAMES:</strong> So just to get back to that or real quick. PostgreSQL offers two different text searching indexes for different strategies of text searching. And their real inverted indexes, like you are supposed to do a text search like sphinx does. So I think it’s a very different scenario, comparing MySQL’s text scenario to PostgreSQL.
+
+<strong>CHUCK:</strong> All right. Well, there's one more thing I wanna dive in to and we are already hitting the edge of our time contract, as far as the episode goes. I'm curious if any of you guys have done anything with some of the column-based databases like Casandra or kind of the big table approach like Hadoop?
+
+<strong>JAMES:</strong> I haven’t played with those yet. They are on my list of things to play with. I would like to try messing with Casandra a little. I've messed with Amazon SimpleDB a little bit and which isn’t really a common database. It’s just different. I ran into a few problems with it and didn’t really enjoy it, but I do enjoy with Casandra. I also wanna play with Couch. I know that it’s been out a while and it’s not as popular as Mongo but it looks like it’s also way more robust than Mongo, as far as like data integrity and stuff, I kind of wanna play with Casandra and Couch at some point -- but I haven’t yet.
+
+<strong>CHUCK:</strong> All right. Anyone else? [Silence] All right. Well let’s get into the picks then. I'm going to go ahead and start with Peter this time. Peter, what are your picks for this week?
+
+<strong>PETER:</strong> Well I guess this is probably relevant to the database thing just because you guys mentioned it earlier. I'm actually using MongoDB in production and so I thought, hang on, I'm going to look up how the backup systems is working for this. Yeah, there's just a thing that comes with Mongo called Mongodump and it does hot database backup; it kind of pulls this like the write into disc and does it all for you. That’s what I'm using. The problem with Mongo is you do have to spend a lot of time digging through their wiki just to find out stuff about things like that. So that might be why some people have not been able to find it. But it is a part of Mongo. And yeah, so I guess that’s a pick in a sense. Other than that, something that I wanted to mention was a thing in the Ruby world this week was a tool called mailcatcher, which like you’ve probably seen these apps that allow you to send email like within your system like from your Rails web app you are working on the whatever and then the kind of preview it. I think there’s one is around like $40 and everyone uses it. It’s really popular. But this mailcatcher is totally free, it’s basically like normally in one Ruby app, that runs an event machine loop and then within that runs a Sinatra and an smtp server all at once. And then basically, you send mail to it, you load up the Sinatra web app and local host, and they put it on port 1080 I think. And then literally the emails coming to it in real time. It uses like web sockets to keep it up to date, so that as soon as you send email into that, it comes up and you can dig in to HTML, the plain text, all that kind of stuff. So I´ll send over the link for that so that you can include that. So I was just kind of impressed. I knew you build that kind of stuff with an event machine and run different daemon processes at the same time, but it was just kind of cute seeing it kind of like a really small example and it’s entirely open source. So I was impressed with that. I think I´ll just throw one other thing. The JavaScript guy that has been working on something called inliner, which the description on it reminded me kind of a bit like Aaron-esque actually. He basically says, “Inline the crap out of your site,” And he’s put in kind of like a heart “work offline, mobile” kind of stuff. So basically what it does is it just takes webpage, you put in the URL it takes all the images, CC, JavaScript, everything. Just compress it all down to a single file using like data urls and all that kind of stuff with the cache manifest so then you can use it anywhere. Interesting stuff. Interesting development. So I´ll assimilate to that as well.
+
+<strong>CHUCK:</strong> All right. Cool. Aaron?
+
+<strong>AARON:</strong> I'm going to go with this week I'm going to go with scheme.
+
+<strong>JAMES:</strong> Scheme?
+
+<strong>PETER:</strong> [Gasps]
+
+<strong>AARON:</strong> [Chuckles] Specifically, chickenscheme. I don’t know why. I've been playing with it for a while. It’s totally awesome. If you wanna learn scheme, you can check out chickenscheme. I like it a lot because it seems like a more practical scheme. Like if you go get racket, its sometimes kind of slow and stuff, but chickenscheme is very fast and is a practical scheme to use, fun to play with and pretty much everything in the language is a pun of some sort. For example, they have gems, but they call them eggs.
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>AARON:</strong> So if you go into their IRC channel, which is #chicken, everybody is super friendly and you are typically greeted with Bok! Bok! Bok!
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>AARON:</strong> So, you should check it out. So chickenscheme.
+
+<strong>CHUCK:</strong> Man, on IRC on Ruby-language, it respond with like Cha-ching!
+
+<strong>JAMES:</strong> That’s right. <strong>CHUCK:</strong> All right. Any other picks, Aaron? Before we move on.
+
+<strong>AARON:</strong> No, I can't think of anything else. Chickenscheme. Check it out.
+
+<strong>CHUCK:</strong> All right. James, what do you got?
+
+<strong>JAMES:</strong> So, we have all those apps that eat tabs in our browser now. You know, you have one tab with Gmail and if you got like campfire and stuff like that. That drives me crazy. I can't stand having tabs in the browser eaten up because I already made fifty of them to build my websites, so I don’t have any more to give. They are all used up.
+
+<strong>CHUCK:</strong> There's a solution for that?
+
+<strong>JAMES:</strong> There's a solution for that. Yes, there is. Actually there's multiple. First of all, my favorite email client now is Mailplane. And all it does is make Gmail and stick it to an external app and tie it in through all the Mac system. So you can access the Mac address book. And you can easily do attachments in a very Mac-like way, etc. But it’s literally the Gmail interface. You'll see it and it looks exactly like Gmail, because it is. It’s just running Gmail inside of this external app. So that was my favorite way to get Gmail out of the browser. And if you want a more general solution for that but doesn’t for whatever specific app you wanna do with Facebook or GitHub or Campfire or whatever, its fluid. Fluid is the name of the app. It’s at fluidapp.com. And it basically just lets you make applications out of websites. So that’s how you get them out of your browser tabs.
+
+<strong>CHUCK: </strong>All right, now the mail one, what was it again? Mailplane?
+
+<strong>JAMES: </strong>Plane.
+
+<strong>CHUCK</strong>: All right, keep going.
+
+<strong>JAMES:</strong> That’s it. That’s all I got.
+
+<strong>CHUCK:</strong> All right. I'm going to jump in next. I made a discovery of lastpass. It’s kind of like one password, except it doesn’t seem to be in my way as much. And from what I understand, it also gives you the option of sharing your password with somebody else. Now, by sharing, it doesn’t mean that it gives them the password, it just means that if they are using last pass, that it will auto fill your credentials for that website in for them. And this is relevant because my other pick is contemporary VA. I've hired myself a virtual assistant because I have been so busy that I needed somebody to take stuff off of my plate. And so anyway my virtual assistant actually went into Teach Me To Code and I migrated everything over to a new server and to a new WordPress installation. And when I did that, it messed up the enclosures on the screencasts, and she just went in to fix them for me this morning. And I didn’t have to do anything except email her and say, “Move this information here.” So it’s been super nice. And so it’s contemporary VA. I have a 20-hour a month retainer with them. I've been using them for a couple of days and it has been so nice. The last one that I wanna put out there is vimgolf.com. I've spent countless hours lately playing with vim golf while I'm waiting for different activities to happen with different websites. And you know, it only takes a second to do a submission. But anyway, what you do is you gem install vim golf and then from there, you do vim golf puts and then whatever the number is for the puzzle that you are trying to solve. And then what it does is it the keystrokes that you used to edit the file and then save and exit. And it tells you how many key strokes it took. And so on my way up, I went all the way to the bottom of vim golf and worked on the very first puzzle and yeah, I saw James Edward Gray on my way up and passed him. So anyway, vim golf, I have learned a ton about vim the last couple of days just from vim golf because they show you the people who have done it just a little bit better than you, and so I've picked up some of the tricks that they’ve used. And then I used some of the other tricks that I've learned and usually wind up moving up. Anyway, it’s been really cool.
+
+<strong>JAMES:</strong> Dude, you need to school me because my vim is terrible, obviously.
+
+<strong>CHUCK:</strong> [Chuckles] All right. Fernand, I don’t think we explained really what the picks are. I'm sure you kind of gotten an idea but basically, the idea is that there are things that we use. It doesn’t have to be just in our coding, but just in general that make our lives easier. Or just fun things, you know if there's a novel that you really enjoyed or there's a coding tool that you like or a library that you think everyone should try. Anything like that. Just share it with us. So are there any things that you wanna share with us that you have been using recently?
+
+<strong>FERNAND:</strong> Sure. I guess I got a few. One that I shared with James, that was jQuery template that basically allows you to write HTML tags using your jQuery scripts. I think I really dig it, I think it’s very easy to use and flexible. Another thing, I guess related to the theme that we are talking about today and that’s something that I saw out of Rails Conf last week and its look pretty cool and has something that I kind of wanted, which is basically the ability to batch SQL statements. It’s a bulk API I think and I think it’s mainly being used with sproutcore. And I started looking at that and I'm trying to figure out the best integrated in the Rails application. I think it looks pretty cool. I think it’s still under a lot of development at the moment. And then what I've been using that I think is really great is the greataround.com, which basically allows you to rent your car to your friends while you are not using it. So you can make money when your is parked. I think it’s really cool. And actually, Jules, if you are listening to the podcast, can you bring my car back? [Laughter] Just kidding. It’s an interesting idea. I think it’s worth checking out.
+
+<strong>CHUCK:</strong> All right. That sounds interesting. Now, what was the API that you were saying? I didn’t quite get that.
+
+<strong>FERNAND:</strong> It’s bulk_api. I´ll send you the link.
+
+<strong>CHUCK:</strong> Okay, sounds good. So I think that’s it. I wanna thank our panelists again for coming on to the podcast. We have Fernand, thanks for coming on in the podcast.
+
+<strong>FERNAND:</strong> Thank you for having me.
+
+<strong>CHUCK:</strong> James Edward Gray, thank you for coming as well.
+
+<strong>JAMES:</strong> Sure.
+
+<strong>CHUCK:</strong> Peter, thanks for showing up.
+
+<strong>PETER:</strong> Thanks guys!
+
+<strong>CHUCK:</strong> Aaron, we can't see a dance on the podcast, but we appreciate you for being here.
+
+<strong>AARON:</strong> Thank you.
+
+<strong>JAMES:</strong> We are very glad for that.
+
+<strong>CHUCK:</strong> Yeah, and I wanna thank everybody for listening, for supporting the podcast. We’ve gotten a lot of great feedback. And so if you have any feedback, you can email me. My email is Chuck@teachmetocode.com or anyone on the panel, can probably find me and get a hold of me. Go in to iTunes and leave a review. You can just click on the iTunes link in the side bar and that will take you to a place where you can leave us a review. And I really appreciate it, you know? Leave a five star review if you can. If we don’t deserve it, then please leave something else. But you know, just let us know what you think and share it with your friends.
+
+<strong>PETER:</strong> Yeah, it’s super important actually. There's like a different country from the US because they keep all the review separate, so there might be no reviews for us, like in the UK or something. So if you are in a different country, review. So much more valuable as well.
+
+<strong>JAMES:</strong> And that’s only one star per panelists, so we definitely get that.
+
+<strong>CHUCK:</strong> Yeah, absolutely.
+
+<strong>PETER:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> All right. Well, thanks guys. We’re going to wrap it up and we'll catch you next week!
+
+<strong>JAMES:</strong> Bye.
+
+<strong>CHUCK:</strong> Bye.
+
+<strong>FERNAND:</strong> See ya.

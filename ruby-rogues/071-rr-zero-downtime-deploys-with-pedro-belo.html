@@ -1,0 +1,501 @@
+---
+layout: layouts/post.njk
+title: >
+      071 RR Zero Downtime Deploys with Pedro Belo
+date: 2012-09-24 14:00:00
+episode_number: 071
+duration: 1:05:37
+audio_url: https://media.devchat.tv/ruby-rogues/RR071ZeroDowntimeDeploys.mp3
+tags: ruby-rogues
+---
+
+Pedro Belo Introduction
+<ul>
+ 	<li><a href="http://www.heroku.com/" data-cke-saved-href="http://www.heroku.com/">Heroku</a></li>
+</ul>
+2:03  - Zero Downtime Deploys
+<ul>
+ 	<li><a href="http://www.amazon.com/" data-cke-saved-href="http://www.amazon.com">Amazon</a></li>
+</ul>
+3:53  - <a href="http://en.wikipedia.org/wiki/Continuous_delivery" data-cke-saved-href="http://en.wikipedia.org/wiki/Continuous_delivery">Continuous Deployment</a>
+
+4:26  - <a href="http://unicorn.bogomips.org/" data-cke-saved-href="http://unicorn.bogomips.org/">Unicorn</a>
+<ul>
+ 	<li><a href="http://railsconf.com/" data-cke-saved-href="http://railsconf.com/">RailsConf</a></li>
+ 	<li><a href="http://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer" data-cke-saved-href="http://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer">Ruby Rogues Episode 58: Book Club - Working With Unix Processes with Jesse Storimer</a></li>
+ 	<li>Unix Processes</li>
+ 	<li>Migrations</li>
+</ul>
+13:00  - <a href="http://www.heroku.com/" data-cke-saved-href="http://www.heroku.com/">Heroku</a>
+<ul>
+ 	<li>Assets</li>
+ 	<li>Migrations</li>
+</ul>
+18:13  - AB Cutovers
+<ul>
+ 	<li>Gradual Deployment</li>
+ 	<li>Coordinated Rollbacks</li>
+</ul>
+22:45  - <a href="http://jruby.org/" data-cke-saved-href="http://jruby.org/">JRuby</a>
+<ul>
+ 	<li><a href="https://rubygems.org/gems/activerecord" data-cke-saved-href="https://rubygems.org/gems/activerecord">ActiveRecord</a></li>
+</ul>
+24:49  - <a href="http://en.wikipedia.org/wiki/NoSQL" data-cke-saved-href="http://en.wikipedia.org/wiki/NoSQL">NoSQL</a>
+<ul>
+ 	<li>Schema Migrations</li>
+</ul>
+30:00 - Feature Flippers/Toggle/Sliders
+<ul>
+ 	<li>Staging Environment</li>
+ 	<li>FakeWeb / WebMock</li>
+ 	<li>Coordinated Rollback</li>
+</ul>
+41:20  - Crosstalk
+<ul>
+ 	<li><a href="http://www.github.com/" data-cke-saved-href="http://www.github.com">GitHub</a></li>
+ 	<li><a href="https://airbrake.io/" data-cke-saved-href="https://airbrake.io/">Airbrake</a></li>
+</ul>
+43:00  - <a href="http://www.splunk.com/" data-cke-saved-href="http://www.splunk.com/">Splunk</a>
+<ul>
+ 	<li>ConfigByte</li>
+</ul>
+43:42  - <a href="http://graphite.wikidot.com/" data-cke-saved-href="http://graphite.wikidot.com/">Graphite</a>
+<ul>
+ 	<li>Sequential Version #</li>
+</ul>
+46:58  - Logstash
+<ul>
+ 	<li><a href="http://www.chef.io/" data-cke-saved-href="http://www.chef.io">Chef</a> / <a href="http://puppetlabs.com/" data-cke-saved-href="http://puppetlabs.com/">Puppet</a></li>
+</ul>
+
+<h3>Transcript</h3>
+
+<strong>JOSH:</strong> Hey, guys.
+
+<strong>JAMES:</strong> Hello, hello.
+
+<strong>AVDI:</strong> Howdy.
+
+<strong>JOSH:</strong> Good morning. Hey, how you doing Pedro?
+
+<strong>PEDRO:</strong> Hey. Pretty good. Pretty good. And you man?
+
+<strong>JOSH:</strong> Well, I am awake. [laughter]
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]</em></strong>
+
+<strong><em>[This episode is sponsored by JetBrains </em>--<em> makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]</em></strong>
+
+<strong><em>[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]</em></strong>
+
+<strong>CHUCK:</strong> Hey everybody and welcome to episode of 71 of the Ruby Rogues Podcast! This week on our panel, we have Avdi Grimm.
+
+<strong>AVDI:</strong> Hello from Pennsylvania.
+
+<strong>CHUCK:</strong> We have Josh Susser.
+
+<strong>JOSH:</strong> Hey, good morning everyone!
+
+<strong>CHUCK:</strong> James Edward Gray.
+
+<strong>JAMES:</strong> Chuck, we are going to need to use my formal title from now on.
+
+<strong>CHUCK:</strong> Is that ‘Your Majesty’? Kind of like ‘Your Worship’?
+
+<strong>JAMES:</strong> No. I'm going with “Ninjeneer Snowflake”.
+
+<strong>CHUCK:</strong> [laughs] OK. Our resident Snowflake, and we also have special guest and that's Pedro Belo.
+
+<strong>PEDRO:</strong> Hey, yeah. Good morning guys!
+
+<strong>CHUCK:</strong> Pedro, do you wanna introduce yourself really quick?
+
+<strong>PEDRO:</strong> Yeah, for sure. So, I'm a developer at Heroku. I've been working on the API right now, but I joined the company quite a few time ago; did quite a few different projects in there. And yeah, I guess that's what I'm doing.
+
+<strong>CHUCK:</strong> Cool. So, we are going to be talking about <em>Zero Downtime Deploys</em>, which sounds kind of interesting to me. I keep hearing the term, and for some reason my mind conflates it with <em>continuous deployment,</em> which I guess is a different idea. So, zero downtime deploy means that you run your deploy and your users don’t see the site go down for even a second, right?
+
+<strong>PEDRO:</strong> Exactly. There is not a single user that is affected by the deploy. And not only like 500 errors, like we talking about like assets; they show properly. They don’t got any like weird CSS from the previous version or anything like that, right?
+
+<strong>CHUCK:</strong> Right.
+
+<strong>JOSH:</strong> So aside form just niceness, why is that important?
+
+<strong>PEDRO:</strong> That is a great question. I wouldn’t think it’s that important like, a year ago or this is something that started growing in me together with the growth of the Heroku API, right? So in the beginning, we had like, let’s say, five requests a sec or something like that. And then at that point, it doesn’t hurt you too much, right? Maybe you will see one 500 or another on a deploy but it’s like really rare. But now, if you are talking about a website that has hundreds of calls a second, then as soon as something goes wrong in a deploy, like you will see 20 exceptions or even more. So, I think when you have a big site, it becomes pretty important so you can establish trust with your customers. They down want to get 500s. They rely on you and that's why I think it’s important.
+
+<strong>JOSH:</strong> I guess some of it really is just related to revenue. If you think about Amazon, they deploy -- I don’t know how often they deploy, but I've never seen them be down. And I think they calculate their revenue in like millions of dollars per second.
+
+<strong>PEDRO:</strong> [laughs]
+
+<strong>JOSH:</strong> You know, if they have to take the site down for a few minutes to do a deploy, that would be a big impact to the revenue.
+
+<strong>PEDRO:</strong> Oh, my god. Yeah.
+
+<strong>JAMES:</strong> Also, I mean to me, it kind of encourages the continuous deployment thing right? If there is no -- the always be deploying meme – I’m not really talking about continuous integration but, if there is no cost to deploy them, then why not do it?
+
+<strong>CHUCK:</strong> Yeah.
+
+<strong>JAMES:</strong> What I loved about this idea -- I saw Pedro give this talk on the videos at Rails Conf about zero downtime deploys and what I love about this topic is I was like thinking at the time, “Well, everybody knows how to do that. You just use <em>Unicorn</em> right?” And then, if you go and listen to Pedro’s, you will see it’s actually a very complicated thing to do a zero downtime deploy. And you have to consider a lot of aspects of how it’s going to go and what's going to happen. And so, it’s one of those talks where you think, “Oh, yeah. I know how to do that.” And then it gets pretty deep. So Pedro, why don’t you tell us what are some of the things you have to consider to really get it right?
+
+<strong>PEDRO:</strong> Yeah for sure. So, I can mention I think Unicorn is only part of the problem right? Which will be the server environment. Before that comes into play, there is a bunch of aspects that a developer has to consider. And a typical example I give to begin with is just <em>migrations</em>. There's a lot of cases where migrations can cause weird things to array of processes. And one example with SQL, I guess a simple example is dropping a field right? So let’s say you remove all the code that is reading and writing to some column in the database. And at that point you might think, “Yeah, I’m to deploy this.” So, you write a migration that drops this field. And the second you run this migration, all the Rails processes that are running, they are going to start throwing errors whenever they try to save a record in that table. And that is of course because they cache the columns. So Rails is trying to set a new one on that column and then PostGres or your database is telling Rails like, “Hey, this column doesn’t exist anymore.”
+
+<strong>JOSH:</strong> So, right. That's a great point. What you basically saying is that, because Rails has already loaded those models into memory and it really just checks like the first time it tries to access that table, it gets a list of some field names in that things are always there. Then, if you do some migration and then try to save, it may try to set that  field name to something which isn’t going to be there anymore.
+
+<strong>PEDRO:</strong> Exactly. And a lot of people confused this but there is a command I believe to tell Rails to recache the columns. And a lot of people think they can put that on the migration after they changed the table and that everything will be fine. But that of course doesn’t affect the running processes; that only allows you to use the field that you just added on your migration inside the migration. So, it’s one thing to think about.
+
+<strong>JAMES:</strong> Right. Now, how does that play with like Rails’ more recent like <em>dirty handling</em> though, right? If you don’t try to set that field, will it not try to put it in, I think?
+
+<strong>PEDRO:</strong> That is a great question. I had more experience with Rails 2.0 unfortunately, but now <em>dirty handling</em>, does that apply to new records too?
+
+<strong>JAMES:</strong> Yeah. That's a good question. I don’t know.
+
+<strong>PEDRO:</strong> I have a feeling – at least in Rails 2.0 -- Well, yeah I can’t say for sure if they have their own too but -- is only for updates.
+
+<strong>JAMES:</strong> Yeah, you may be right about that. In an update scenario, as long as you don’t change that particular field then it wouldn’t be sent, but I'm not sure about a new record.
+
+<strong>PEDRO:</strong> Exactly. Yeah.
+
+<strong>JAMES:</strong> So let’s actually take one step back. We kind of glossed over the whole Unicorn thing. Why don’t we talk about what Unicorn is actually doing to achieve a zero downtime.
+
+<strong>PEDRO:</strong> Right. So Unicorn will be on the server front. The issue there is that usually, you want to run several processes like running your applications so you can serve a request while using it at the same time. But now, the problem with that is that bouncing servers is always pretty messy. Like, there is no way that it can bounce a bunch of service at the same time, so you need to coordinate this work. You need to find a way that it can bounce servers without of course affecting the requests that are coming in, right? So Unicorn does that by forking. So basically, the Unicorn process can always respond to requests even when it’s bouncing, right? When you ask Unicorn to bounce, it will fork the master process like boot new workers. And while this is happening, it is still answering request in the old master right? And then once the new master is ready to go, it will eventually start receiving the requests and it killed the old master. And it does that -- it’s beautiful right? It does that on the process. You don’t have to worry about it. It’s pretty amazing.
+
+<strong>JAMES:</strong> Right. So we talked about – we had an episode a while back about Jesse Storimer’s <em>Working with Unix Processes</em>. And using that terminology, basically it just forks another master because they share the accepting socket, then the new master can just start accepting things off of that same socket and feeding it to its own set of workers, which are using the updated change -- the updated code. And then once that system is totally in place, then it sends kill signals to the old master, so that it will eventually stop serving requests.
+
+<strong>PEDRO:</strong> Exactly. But now, in my experience at least, Unicorn addressed the hot compatibility issue -- like addressed the issue of bouncing server without losing requests. But now, you still probably would want something else in your stack like a load balancer, so you are like more resilient to losing instances, right? If you have one box with Unicorn process when you like let’s say, time workers, you probably want to more resilient; if this box goes down, your request should go to another right? So, I don’t know. My experience, even though Unicorn helps a lot with the zero downtime deploys, you still will end up with another component in the stack.
+
+<strong>JAMES:</strong> That's a good point. And now that everybody uses Unicorn, right? Sometimes there's good reasons to something like Fin, say because you want the EventMachine back-end or something like that to do some kind of event-driven processing.
+
+<strong>JOSH:</strong> So I have a question about the Unicorn and killing processes in the midst of handling your request. So I can understand that there's a way to write things so that that's safe. What I don’t understand is what are all the particular constraints are for what you have to do in the controller and your model. So if I'm in the middle of doing a request, and say I have a couple of different models that I’m modifying and  I have an after commit hook on something that causes me to go update something else, if I've committed one change, but I haven’t committed the other change and then I killed the process in the middle of that, that seems like that would be a problem for my data and ---.
+
+<strong>JAMES:</strong> That doesn’t happen. So the way Unicorn does it is the old master sends a signal to its individual workers. So Unicorn structure, you’ve got a master process accepting incoming connections handing them down to some pool of workers. And the master process sends a signal to the workers that basically equates to, “Please stop once you've finished the current request”. So at the end of that worker cycle, when it has completely finished your request -- which means the database should be in a fine state – then that particular worker is safe to die right? And then what old master does is once all the workers have died, then its good. <strong>JOSH:</strong> OK. That makes sense.
+
+<strong>JAMES:</strong> Your request does not actually get killed mid-request.
+
+<strong>CHUCK:</strong> What about new requests?
+
+<strong>JAMES:</strong> New requests -- depending on when they come in -- there is a period when its launching the new master and stuff, some requests are going to hit your new code and some requests are going to hit your old code, but either way, it should be a stable scenario. In that, entire request is served using the old setup or the entire request is served using the new set up -- but there's no mixing. And then just as that process gets further and further along, the old stuff gets shut down and the later stuff is still running. So, request eventually just take the new stuff.
+
+<strong>CHUCK:</strong> That makes sense.
+
+<strong>JAMES:</strong> But as Pedro was explaining, there's still other ways you can run into problems like – why don’t we talk about assets, because that's probably one of the most under looked scenarios, right Pedro?
+
+<strong>PEDRO:</strong> Oh, god yeah. We had so many issues with assets and not only Heroku itself – the Heroku API itself but of course a lot of our users? We got a lot of support tickets back in the day like they do deploy and they—Well, one of the common issues in Rails too is that after you do a deploy, your users wouldn’t see any asset. And that's because of how we used to generate the older JS CSS file. It would do that on the main and it would write this file in the file system. It does that in Heroku; if you have any architecture where you have two servers running application and more, what happens is that one of the servers will get a request in root and we generate those files, but then request to get those files is going to another server that doesn’t have them yet.  I mean, the Rails process on that server will end up 404 and your clients won’t see any asset.
+
+<strong>JAMES:</strong> Right. There this kind of problem too of like, say you changed some assets and then triggered the re-compile and generate the new files, then isn’t it a problem that something going through one of those old requests might not actually have the right CSS, right? Or something like that.
+
+<strong>PEDRO:</strong> Exactly. Exactly. That's the other side of the problem; definitely another thing to consider which makes assets a huge pain in the ass.
+
+<strong>JAMES:</strong> So let’s talk about some of these like, how can  you handle assets in a safe way for both scenarios?
+
+<strong>PEDRO:</strong> Right. So for Rails 2.0, there is definitely a plug-in (I can send the link later. I don’t know how you guys do this.) There is a plugin that would change the way Rails generates those files and it will do that ----, I think. So whenever you get a request, it will generate a file and not get a request for the controller. So if you get a request for older JS and Rails doesn’t have that in memory, it will create this file. So this would address this issue. Now, of course Rails 3.1 and up, they have the asset pipeline which is of course I think is going to do it much better, but it does come with its own set of problems right? And one that we noticed is one that we talked about. So you can run the rake tests -- compile it will create a bunch of assets in your public folder. But then, if you have two versions of your application when you want to make sure that the assets from the previous version are still available on your current version, right?
+
+<strong>JAMES:</strong> Right. And it does, by default the pipeline would do the right thing because I believe those generated assets they have like MD5 hash or something in them or a stamp or time stamp -- I can’t remember what. But the danger there is if you replace the directory that they were in, right?
+
+<strong>PEDRO:</strong> Exactly. They are going to do the right thing by default, but the danger is if you lose the assets from the previous version. They have a rake test to clean old assets. And a few people normally do this otherwise your assets folder keeps growing like crazy -- anytime you have a new release, you basically have a copy for all your assets again. But now the downside of this is if of course if you clean your assets, then you can have 404 as for request from the old version.
+
+<strong>JAMES:</strong> Right. So what else? What else do you have to think of when you are trying to actually do this right?
+
+<strong>PEDRO:</strong> Right. So, migrations we can go back – there's so many things -- adding columns, well adding columns is safe but like adding indexes, renaming columns, that is a lot of things to be concerned. But another example that I give people is just your application stuff -- just a form. If you have a form, you change the name of the input in the form and now you have to consider that a Node version of application might be posting to a new controller that doesn’t handle that param yet. So in this case, you know, it’s a bunch of edge cases like this and we should have a good solution like, “Hey guys, there is this gem that will address all this for you”, but I think we are not quite there unfortunately. So basically, like every time you are changing server, you consider why the older version of the application is going to be OK with it. And if it’s not, you have to introduce a new version of application -- like you have to do it basically two step deploy, where the first deploy makes your application ready for the change of deploying and then the second one uses that change.
+
+<strong>JOSH:</strong> Yeah. Or you just have two versions of the application; the second one has a bunch of compatibility stuff built in to it. I've seen that done as well. Although not as systematically as you have been talking about. So, I have  sort of a higher level question before we get too far gone on this and that's -- one of the things you hear about for zero downtime deployment is AB cutovers. You have your server running on the A box and then you deploy in the B box, and then you go fill the load balancer so suddenly all of your request to go in the new server. And that's a pretty straightforward way of doing it. Although yeah, since they share a database, all the things we have been talking about definitely apply there. But it’s not as granular -- so you don’t have to deal with so many details with what you are talking about. So, at what level of scale does that become impractical or the techniques that you are talking about lend themselves towards a better solution?
+
+<strong>PEDRO:</strong> That's a good question. I would say I feel like 20 to 40 requests a second, I would say we started seeing occurrences of this more regularly, right? You know, I talked about this and stuff like I wouldn’t apply those principles to my blog for instance. It’s not that I don’t care about the readers, but I just don’t feel that I have enough readers that they will experience problems right? But I would say after  20 to 40 requests a second, there is a good chance that on a deploy you affect your users and you have to do one of those complicated set ups so one of those things -- issues.
+
+<strong>JOSH:</strong> OK. But is it also related to the number of servers that you have running?
+
+<strong>PEDRO:</strong> Hmm, that is a good question. I guess that would only be affected by how you deploy to those servers. In a talk I gave there is a few principles that I can use it. I guess the most common one is you have a load balancer and then what you do is you take a server out of the rotation and then you --- the servers. At that point you don’t need Unicorn; you can basically just kill them -- as long as they finish processing any request they have on the queue, the users won’t experience any downtime right? If you have a load balancer and you do the  configuration right, then you can have like a thousand servers and this shouldn't impact anything, right?
+
+<strong>JOSH:</strong> Yeah. Right.
+
+<strong>JAMES:</strong> So you are kind of talking about a <em>rolling deploy</em> there where you slowly take servers out of the circulation while adding new servers into the circulation.
+
+<strong>PEDRO:</strong> Exactly. I think that's a very common pattern and it works really well for us, so definitely a big fan of this technique.
+
+<strong>JAMES:</strong> It’s also really good if you do it and then you figure out something bad has happen and you need to roll back; as long as you don’t kill that old server right away, then it’s just a matter of reinserting it in to the location right?
+
+<strong>PEDRO:</strong> Exactly. It’s funny how we talk about zero downtime deploys, but it seems like if you get this concept right, if you can guarantee the two versions of your application can run at any time, then you get other benefits that you have mentioned right? Maybe you can deploy a new version like have 5% of your traffic go in there. And if anything goes wrong, you just roll back and if everything is good, you send all the traffic over, right?
+
+<strong>JAMES:</strong> That's really cool. So at Heroku, do you have some kind of interface that allows you to do that? Send some portion of your traffic to a new system?
+
+<strong>PEDRO:</strong> For Heroku users, we don’t have this yet unfortunately. We do have an experimental feature that allows the user to tell Heroku that, “OK, I know what is zero downtime; my application is ready for this. So you can run two versions of it doing deploy so I don’t have downtime.” Because one of the issues that we have is -- say if you have a big Rails app, it might take a minute to boot. And in Heroku, the way it works by default is that it avoids running two versions of application exactly because of all these issues we are talking about. So there is a flag where you can tell Heroku like “I know about this problem. We are going to boot a new Rails process for you while still routing request to your old one.” So that's a feature we have. It’s in alpha. We are still trying that out.  But for sure, I hope that the future we will be able to offer something as powerful as allowing users to route a percentage of the traffic to the new version. That would be amazing.
+
+<strong>JAMES:</strong> Yeah. I agree.
+
+<strong>CHUCK:</strong> That would be really cool.
+
+<strong>JOSH:</strong> So Pedro, are you aware of similar techniques for doing stuff in JRuby?
+
+<strong>PEDRO:</strong> That's a great question. I don’t use JRuby myself. I would hope that the JVM I have some cool tricks that can help. But yeah, not sure. That's a great question. Are any of you guys familiar with JRuby?
+
+<strong>JAMES:</strong> I've used it a little, but not enough in deployment to know what the answers are. But I  would be pretty surprised if there is not a big Java server out there that has good tricks for that kind of thing.
+
+<strong>JOSH:</strong> We should ask Joe Kutner about that.
+
+<strong>PEDRO:</strong> Nice. But of course this server part is only of -- I mean the server is only part of the issue. With migrations, you still have to do consider -- like I said the field that you drop from the database. I'm not sure that there is anything that the JVM can bring that would help you dealing with this.
+
+<strong>JAMES:</strong> Yeah actually that one is a really hard problem. Because even you talked about deploy version of your app where you are like ready for the change and then deploy a version where you have made the change. But in that database scenario, that's pretty tough because you can’t tell Rails, “Ignore this call.” You know.
+
+<strong>PEDRO:</strong> [laughs] Exactly.
+
+<strong>JAMES:</strong> Not easily.
+
+<strong>PEDRO:</strong> I wonder if this is something that should come into Rails or maybe to the database layer, right? I wonder if like you could tell or maybe there is way or I'm pretty sure there is not a way today, but I wonder if someday we will have a way to tell PostGres to, I don’t know, have an <em>alias of a column</em> for instance, or something crazy like that.
+
+<strong>JOSH:</strong> That seems like something that could potentially be wedged into the ORM. Active Record could help you with something like that.
+
+<strong>JAMES:</strong> Yeah you could just define like a dummy method there for that particular field that accepts the assignment that throws it away.
+
+<strong>PEDRO:</strong> Yeah. Active Record would be a great place to have more compatibility with those changes. I would love to see this.
+
+<strong>JOSH:</strong> So in your Rails Conf talk Pedro, you mentioned something about NoSQL and I don’t think you spent much time on it. And I'm curious, have you been seeing some other stuff going with the NoSQL database driven applications? Does it have like a whole different set of problems to worry about or is it easier?
+
+<strong>PEDRO:</strong> We have some experience with NoSQL at Heroku. We definitely use Redis a lot. Mongo we have some apps on. And now we are trying DynamoDB Amazon’s it’s like a key value storage right? So, in my experience, you don’t have these schema problems that you have with a transactional database but you still have the data manipulation problem right? So for sure, you can drop a field without having issues but if you want to rename a field, then you still have to find a way to change the existing records. In the talk I showed the patterns for renaming a column in a traditional database is to add a new one, write to both and then you can cut it in and just read from the new one right?
+
+<strong>JOSH:</strong> Right. Yeah.
+
+<strong>PEDRO:</strong> I feel like in my experience, for NoSQL is you have to apply the same principle. You don’t have the issue with the schema, but your data still presents the same constraint, right?
+
+<strong>JOSH:</strong> Yeah. I find it interesting that a lot of people look in NoSQL that they think, “Oh, its schema less. I don’t have to worry about schema migrations anymore.” [laughter]
+
+<strong>JAMES:</strong> That's one way to think about it.
+
+<strong>JOSH:</strong> Really, it means you have to think about them forever rather than just on your running migrations.
+
+<strong>PEDRO:</strong> This is a great way to put it. Yeah.
+
+<strong>JAMES:</strong> At least until you have fully transitioned off of that schema.
+
+<strong>PEDRO:</strong> Right.
+
+<strong>JAMES:</strong> So, yeah that's kind of tricky stuff.
+
+<strong>JOSH:</strong> I wanna know about trouble shooting; what can go wrong and what do you need to be prepared to deal with?
+
+<strong>PEDRO:</strong> If you don’t address the issues that come with running most version of your app?
+
+<strong>JOSH:</strong> Yeah. This seems like pretty complicated stuff. And I know that in your talk, you covered a whole lot of material, but I expect that there is a whole bunch of learning that went into discovering that material. And a whole bunch of issues you tripped over. What are some of the things that we should be prepared to deal with when we are trying this out for the first time?
+
+<strong>PEDRO:</strong> Right. That's a great question. I even post it on the talk. Like I think until a year ago, pretty much, we are doing like a maintenance to deployment in Heroku, right? So would put status post and take API offline, run migrations and put it back. And I think the last one was a year ago. And after that, we just had one maintenance to go from PostGres 9.0 to 9.1. So I guess until that point, we are just doing maintenance to -- because we are running, we are not confident that we could deploy all the time without downtime. And some of the things that we noticed, the first thing that you will see of course are exceptions right? So, a lot of PG errors or MySQL errors or whatever database you use. And if you have something like <em>Airbreak</em> or <em>Exceptional</em>, you definitely get emails about those. And you get this in the way of deploying this exception will never show up again, so the tendency is to not give too much attention to those until you are at a level that you are handling pretty much the exception that you get, right? So Exception is definitely the first one. But then like I said, with assets get pretty complicated because now suddenly it was not an error but it was 404, and this one I feel like people they first realize about this when the customer complains or when the customer cannot understand the website or things like this. You see tweets maybe like, “Oh my god this website is all white.” Or they open support tickets. Now on the server-side, I guess the way to handle this will be to just carefully have a feeling about your performance right? Like at Heroku, we are doing heavy work right now on just monitoring and having numbers about your servers right? So I have a graph of the rate of errors in my server and you can see how it can also have like a live chart of 404s. So when are doing deploys, you see a spike in those 404s and if you are really following those numbers, you will see patterns in there. But that's of course is pretty hard and I realized this is not very accessible for every developer.
+
+<strong>JAMES:</strong> Yeah the assets issue can be really tough because all that happens is some page doesn’t look like it’s supposed to look like or something -- which is not something we get an email for – like you said.
+
+<strong>PEDRO:</strong> Exactly.
+
+<strong>JAMES:</strong> You know, one thing I have thought of in talking with you about this is a lot of people like to use <em>feature flippers, </em>you know, where you can flip the feature on or off. And some of the feature flippers store like whether or not that feature is currently active in the database. So then you can kind of live flip it on a running instance. And it seems like that would be pretty good for these scenarios because you could do the deploy which is basically stage one, preparing the application for a change you are going to make as long as all features deploying in off state right? And then you can feature flip that on and see how things are going, right? That’s like the second stage without having to do two deploys basically.
+
+<strong>PEDRO:</strong> Exactly. Like I said, you would definitely use a lot of these in Heroku. I didn’t know about this <em>feature flipper. </em>Is that a patter?
+
+<strong>JOSH:</strong> I've heard <em>feature toggle</em> as well.
+
+<strong>PEDRO:</strong> OK yeah.
+
+<strong>CHUCK:</strong> Yeah. I'm trying to remember what the Gem is because we’ve had other people bring it up in the show before and I just can’t off the top to my head.
+
+<strong>JOSH:</strong> There is a whole bunch of them.
+
+<strong>AVDI:</strong> There are several. I've heard flipper, there is also the concept of <em>feature sliders,</em> which is the idea of something that takes a little  bit further and lets you decide what percentage of requests are going to the new feature or break it up some other way so you know, decide that certain privileged users or something, people have opted in to beta or whatever have the feature rolled out to them rather than just for everyone.
+
+<strong>JAMES:</strong> And that's a great way to get to like what Pedro was talking about with try it out on the portion of users. Make sure everything is going OK, right?
+
+<strong>PEDRO:</strong> Exactly. So you can try with new users on another server but now with this, you are trying for another user inside that code. It’s funny how you have different ways to control this.
+
+<strong>CHUCK:</strong> So I'm wondering a little bit then with this kind of thing, especially with continuous deployment; do you really kind of worry setting up some kind of staging environment or do you just run the test and then assume that since the test passed that it worked? That it will work.
+
+<strong>PEDRO:</strong> Yeah. We definitely have a staging environment for sure. But it’s funny that you mentioned continuous deployment. If you think about all those issues, it seems crazy that you can have a continuous deployment just deploying all your stuff all the time because you have to be very careful about what you are deploying. So, like in Heroku, what we are trying to do is -- I don’t have continuous deployment today we definitely have a script that we just deploy in the application without – we do all the checks and just make sure the deploy is one instance, wait a little bit, test again ----. So, the way we are trying to address continuous deployment is before things goes massive. So maybe what we see, just last week is that people were opening a pool request and then we are going to see there is migration that might cause problems. So we ended up splitting the pool request into two and then what we can do is we merge the first one, deploy that and then merge the second. So then you need to know what is the state of master before you can merge the pool request. Otherwise if you merge both of them at the same time, then you are going to deploy both migrations at the same time, they might have down time.
+
+<strong>JAMES:</strong> Yeah. It’s funny how the whole thing snow balls.
+
+<strong>PEDRO:</strong> [laughs] Exactly. I really wish I had a great solution to tell people. But for now just talking about the problem and the very like, <em>medieval</em> things we are doing to work around it.
+
+<strong>JOSH:</strong> OK. What about the big thing about now with big Rails application is you split them up and do a bunch of different services and have them all talk to each other. Are there any other special considerations for that with the approach you are talking about?
+
+<strong>PEDRO:</strong> Yeah. I love this. There's definitely a recurring theme for us at Heroku and I'm sure for pretty much all of Ruby developers right now. I think with APIs, if you do an API right it means you probably have a version of your API and going to salvage contracts, you are not going to change them. So, it’s almost like you have a database that won’t change. So changing an API in a destructive way means ---, right? So from the consumer side of things, it’s almost like you have a database that is very stable and I don’t see much that you have to worry about in terms of zero downtime deploys.
+
+<strong>AVDI:</strong> As long as you have good regression tests on those APIs.
+
+<strong>PEDRO:</strong> Yeah. The testing part is definitely the biggest complication. We are trying <em>Artifice</em> these days to test all the distributed components, but I still feel like we don’t have like a great solution for all the tests he needs in the distributed system, but we definitely working a lot in that. Do you guys have much experience in testing, like the use of <em>FakeWeb</em>, <em>WebMock</em> or do you use something else?
+
+<strong>JAMES:</strong> I have used <em>FakeWeb</em> in the past. Yeah.
+
+<strong>AVDI:</strong> <em>WebMock</em> is a really nice library. Usually I used it in sort of conjunction with VCR.
+
+<strong>PEDRO: </strong>With which one?
+
+<strong>AVDI:</strong> VCR.
+
+<strong>PEDRO:</strong> Oh right. Yeah nice.
+
+<strong>JOSH:</strong> OK. But back to the kind of service-oriented architecture style things. It seems like you would wanna have sort of two versions of the service running at the same time internally so that you can have the one for the -- and you'd wanna set that up before you do the deploy for your main application?
+
+<strong>JAMES:</strong> Yeah. I kind of feel like that's kind of one of the advantages of SOA. It’s more complicated, but you could refresh that service in the back-end and make sure that’s fine. And as long as it supports both the old way and the new way, then you should be able to bounce the main app with no problem, right? So, it kind of gives you that second layer and lets you make that change before you need to make that change.
+
+<strong>AVDI:</strong> It does kind of introduce a question though because like if you are adding a new feature to that the front-end depends on, do you just rely on the fact that you are going to have that or that you are definitely going to have the new version of the API in production before that front-end gets rolled out? Or do you also put some fall-back code in the front-end for if you are somehow forced to downgrade – to rollback a back-end update. Do you put some handling code in the front-end that actually checks the version of the API that's available?
+
+<strong>JOSH:</strong> That sounds like you are borrowing trouble there. [laughter]
+
+<strong>CHUCK:</strong> Kind of. But at the same time I mean—
+
+<strong>AVDI:</strong> But it’s going to happen though.
+
+<strong>CHUCK:</strong> Yeah. If you deploy your service over here and then you have your main app over here, and when you roll the main app up you see, “Oh, it’s having a problem” and you realized that the problem is the service over off to one side, then you probably are going to have to roll them both back unless your main app is capable of handling the case where the service get rolled back in that particular API call isn’t available anymore.
+
+<strong>AVDI:</strong> That means you actually have to have procedures in place for coordinated roll back.
+
+<strong>JAMES:</strong> Well, another way you could do it – I mean we did talk about if the API on the back-end is versioned, right? And so, if you are on version 2, now you are on version 3, if you roll the app back that shouldn't be a problem as long as the service still supports version two.
+
+<strong>AVDI:</strong> No, no. I'm not talking about rolling the app back.
+
+<strong>JAMES:</strong> OK. I lost it then. Sorry.
+
+<strong>AVDI:</strong> I think the case of rolling the app back is pretty well understood. I mean if you have a service you have versioned APIs, and---
+
+<strong>JAMES:</strong> Oh. I get what you are saying.
+
+<strong>AVDI:</strong> You know, you support all the versions of the API in the service – that's pretty straight forward but let’s say you wanna roll out a new version of front-end which is going to depend on new features in the API in the back-end, so you roll them out and you discover a huge problem with the service and you never thought about, “What do we do if the front-end is rolled out and its dependent on this new version of the service, but the service has to be rolled back right now?”
+
+<strong>JAMES:</strong> Right. So I guess my preference for that scenario would be one of the things we’ve already talked about. Like one, if you have feature flippers in place then you feature flipped it to switch to version three of the service back-end, right? You notice the problems; you feature flip it back and assuming the app would go back to---
+
+<strong>AVDI:</strong> So you would put some provisions in the app for different levels of service?
+
+<strong>JAMES:</strong> That would probably my first choice in that, I think feature flippers help solve a lot of these kinds of problems. But even so, you should be safe to do a roll back on the front-end because the old version of the app would target like version two (the previous version) and so, if you rolled back, then effectively you are undoing the change in the service---.
+
+<strong>AVDI:</strong> I guess one of the questions this leads to is simply, if you are doing a service-oriented architecture, do you kind of release your updates in lockstep, where it makes perfect sense to roll back the front-end at the same time you roll back the services? Or do you let yourself have a more lose relationship between the releases where different things may get updated at different times depending on where changes are needed?
+
+<strong>JOSH:</strong> We got to start reading Paul Dix’s book. [laughter] This is the kind of thing that seems like you get the new version of the service running and then you start using it on a small portion of your front-end servers.
+
+<strong>JAMES:</strong> Yeah. I really like that library Avdi linked to. We’ll put it on the show notes. It lets you do things like that; do portions of, you know, you try this to 5% of my users or something.
+
+<strong>CHUCK:</strong> So one thing that does occur to me though is we are talking about like one service update and one main app update at the same time. But, you know, what if there is some cross talk that has to happen between 2 or 3 or 4 services during one operation? I mean then it becomes even more complicated.
+
+<strong>JOSH:</strong> Time for coffee break. [laughter]
+
+<strong>AVDI:</strong> Distributed systems are hard. Let’s go shopping.
+
+<strong>CHUCK: </strong>[laughs]
+
+<strong>JAMES:</strong> That when you put up the big maintenance page: “We’ll be back later”.
+
+<strong>CHUCK:</strong> Yeah. Something bad happen like what happened on GitHub yesterday. [laughter]
+
+<strong>JAMES:</strong> I mean, it’s good to know that you know, there is still a lot to learn here and a lot to address these issues. I mean, Pedro tells us Heroku is still struggling to figure all these out. And we still see GitHub do things where they got that ---. And so, it’s good to know. It’s a big problem set and it’s difficult and we are trying to work on it, but it’s complicated. So what else Pedro? Any other advice for us?
+
+<strong>JOSH:</strong> Well I wanna know about like, visualization and you know, tooling and how you see what is going on.
+
+<strong>JAMES:</strong> That's a good question.
+
+<strong>PEDRO:</strong> So Heroku right now we are using Airbrake  for exceptions. And now, there is a lot of things going on with logging. You can see Mike, one of the engineers working with me; he gave a talk on logging as data. I don’t know if you guys are familiar with this, I don’t know what it’s called like this where you don’t think about logs as something that you throw out to see what is going on if you do a logs as data, so you can use data transformation, data analysis tools on your logs to so see what is going on with your current system right? So we are using <em>Splunk</em> right now and a few other tools. So, basically the Heroku API, has a -- we have a bunch of things, like any of the clients we produce easily like 10-12 lines of logging. Like you know, there is a log that is the generic request; like what is the status, who is the user, what is the app and what is the path. And then once again, with the controller, let’s say you are adding a config file to an app, so you have a log in that you know, user one, app two, add the config file to the app. And now, all these stream of logs is going to different tools. One of those tools is converting those logs and showing them on <em>Graphite</em>, which is a great tool to visualize your logs over time, give you some introspection into patterns and what’s going on over the time. The same log also goes into Splunk, so you can do some ad hoc queries like if there is something that is going that is wrong, I want to see -- let’s say the API is slow -- one of the things we do quickly like, “I want to see by the path, which path is slower or are they always lower.” So this kind of like investigation where it happens on Splunk and then Graphite, definitely helps you to just monitoring things over time.
+
+<strong>CHUCK:</strong> Do you actually store the version of whatever it is that you are logging against so that you can see, we deployed version 2.2 or whatever. So now these metrics or these logging refers to this other thing after you deploy.
+
+<strong>PEDRO:</strong> Exactly. So we definitely do that. In fact, there is no way to log without this. So every log has the component name, I guess the host name and the process PID and the version that it’s running. So, definitely we can see a change over different versions and so track this down if something weird happens.
+
+<strong>CHUCK:</strong> What do you use for the version number? Do you actually version your services or do you actually go in and use like the Git patch or whatever?
+
+<strong>PEDRO:</strong> No, we do a sequential number. So just keep incrementing this every time we deploy.
+
+<strong>CHUCK:</strong> OK. So every time you deploy. So this is <em>deploy 455</em> or whatever.
+
+<strong>PEDRO:</strong> Exactly. Yeah. And we have a little  tool that will basically do the whole deployment work flow. It will grab master, make sure the specs pass or whatever -- we are still figuring that out. But then capture a new branch, see what’s the latest sequence, capture that, push, get mirror, deploy that to stage, run the integration test, then deploy to in production, run some of the integration tests, wait some time to see if some exception will come up and then we will deploy to the rest of the fleet.
+
+<strong>CHUCK:</strong> Right.
+
+<strong>JAMES:</strong> That's pretty cool what you are talking about using logs as more computer data than human data. And I know Heroku has done a lot here. We had a talk recently at our local Ruby users group where one of the Heroku employees was showing how even those services like checking server status, check HTTP has been written to throw just basically this log line of key value pairs that then like you said can be used with something like Splunk. And really cool when you combine that with like sys log and aggregating it on central servers and stuff like that. It’s kind of disappointing that we haven’t seen a lot of good tooling for that yet. I mean, Splunk is ridiculously expensive right? Which you almost have to be Heroku to afford right?
+
+<strong>PEDRO:</strong> [laughs] Right. Yeah, it’s definitely a shame. Splunk is super expensive and they are not -- I don’t know of any open source tool that can easily replace it unfortunately. One that I know that is in the works at least is called <em>logsstash</em>. It’s a tool that Jordan Sissel -- he is writing this open source tool that is aiming to be a Splunk like log introspection, log analysis tool. So I would definitely check this out. I think I GitHub is trying this out and I know some people are trying this too. And hopefully soon we will have a pretty strong option in there.
+
+<strong>CHUCK:</strong> Right. That makes sense. So one other thing that comes to mind with deployment that we -- I don’t know how much we really touched on it -- but what about deploying new servers? Something like <em>Chef</em> or <em>Puppet</em> or whatever, you know, setting that up, setting up the third party software that we are going to use; be that the database engine or a queuing system or things like that. How do you manage all of that? And I guess from there, you just register it with the load balancer and pool it in to the mix.
+
+<strong>PEDRO:</strong> Exactly. Yeah. I'm super familiar with how we set up instances at Heroku. We have a team that is all dedicated to that we call <em>foundation</em>. So they give us the basic instances we need that they deal with Amazon APIs and they provide like an API that Heroku kernel components talk to. They do use Chef to set up with the instances. And it’s like what you said; after we have an instance app, we add to the load balancer. We start tracking those and we make sure all the deploy scripts and all the tools we have are aware of this instance. But there's definitely a lot of value in having something that's sitting between your components in Amazon. So you can have this abstraction layer working for you.
+
+<strong>CHUCK:</strong> Right. Are there any other questions that we have? It’s about time that we get to picks anyway.
+
+<strong>JAMES:</strong> I just wanna say it’s cool stuff. Thanks for coming and talking to us about it Pedro. It’s more complicated than you think at first glance. You know.
+
+<strong>PEDRO: </strong>Yeah. Thank you guys.
+
+<strong>JOSH:</strong> Yeah. I would just like to say, like doing the Olympics; the most impressive thing is making something really hard look easy. [laughter] Thanks for coming on. It’s great.
+
+<strong>CHUCK:</strong> Yeah absolutely. All right let’s get to the picks. Avdi, you wanna start us off?
+
+<strong>AVDI:</strong> Sure. So something Josh tweeted the other day reminded me of one of my favorite programming essays of all time. Well, to start, everyone is probably familiar at this point with Paul Graham’s famous essay <em>Hackers and Painters,</em> where he draws a parallel between programmers and painters. But somebody else wrote an answer to that called “Dabblers and Blowhards”, which is one of the funniest programming essays I've ever read. And it points out all the ways in which programmers are not like painters. And it’s from the perspective of somebody who’s been both a professional artist and a professional programmer. So it’s a good read. For a less developer oriented pick, I was recently reminded that one of my favorite bands, <em>They Might Be Giants </em>has been turning out a series of children CDs lately -- CDs and DVD combinations actually. I've been following They Might be Giants for years and I guess they realized that their audience is people like me who are getting old and having kids at this point. Anyway, as soon as I was reminded of that, I went in and got three of these children CDs they’ve made; <em>Here Come the ABCs</em>, <em>Here Come the 123s</em> and <em>Here Comes Science</em>. And our little ones have just been eating them up. They love it. And the great thing about it is that, we can put them on and nobody in the house objects to it because from little kids to teenagers to adults, we all love They Might be Giants. So if you have kids, or even if you don’t, check out some of TMG’s children CDs.
+
+<strong>CHUCK:</strong> Awesome. Yeah who doesn’t love They Might be Giant?
+
+<strong>JAMES:</strong> +1 on They Might be Giants.
+
+<strong>CHUCK:</strong> James, what are your picks?
+
+<strong>JAMES:</strong> OK. So if there was a theme at Ruby Rogues recently, I think that you are going to see that it’s kind of a SOA and it came up in the discussion today. We are going to have a talk on <em>Hexagonal Rails</em> pretty soon. It’s going to come up again. And we are reading <em>Service Oriented Architecture Design in Rails</em> or whatever the book title is. (The next book we choose needs shorter title. I'm telling you.)
+
+<strong>CHUCK:</strong> [laughs]
+
+<strong>JAMES:</strong> I know what the next book is and it has a long title too. Anyways, so I've been kind of looking into this SOA thing quite a bit because it keeps coming up and there is an absolutely excellent set of blog posts on <em>Songkick’s SOA Architecture</em>. And it’s like four blog posts; they don’t take you very long to read maybe 30 minutes, you can set aside and go through all four of them. It’s just ridiculously insightful. They talk about how the services reflect how the data is used rather than how it’s stored and things like that. They show in these articles – they started with the big, monolithic Rails application and then moving to service-oriented architecture. So, they actually show you how they did that. And it’s a really cool bit of refactoring where they basically just introduced one layer of direction and then slowly replace what's behind that layer of ---- which really are awesome. Anyway, great series of articles. Don’t take very long to read and it will definitely get you up to speed on some of the things that we are talking about, will be talking about etc. So, that is my first pick. My second pick is, like Avdi, I'm getting old and having kids and I too are interested in showing them cool science stuff. And if you wanna do that, there is this YouTube channel that is called “Sick Science!” and it’s really awesome. They are really short videos; usually they are under 2 minutes. They show you some cool, sciency like trick that you can do with items you probably have in your kitchen or could easily pick up on the next trip to the grocery store.
+
+<strong>JOSH: </strong>Is that the one where he made the soap bubbles full of fog from CO2 or from dry ice?
+
+<strong>JAMES:</strong> Yes and used it to blow out a candle. Yeah. That's in there. There's he makes a color wheel and then spins it really fast to show you how colors combine. He’ll do things like show you how to make fake blood for Halloween. Today they have one about cabbages and using red cabbages like a base and then you can drop like acids and bases into it and it will switch to different colors. Just really cool stuff that is pretty easy to do. So if you have kids, they probably will get super big kick out of it and you can kind of learn things as you do it. Awesome, awesome entertainment education for kids. Those are my picks.
+
+<strong>CHUCK:</strong> Awesome. I have a question for you James; you said that you are getting old and having kids, and I have to ask you, do you have to do one to do the other?
+
+<strong>JOSH:</strong> [laughs] You don’t have to but, the older you get maybe the more likely it becomes or something like that.
+
+<strong>AVDI:</strong> Until it starts becoming less likely again.
+
+<strong>CHUCK:</strong> [laughs] Yeah. That's what I was thinking.
+
+<strong>JAMES:</strong> Then you cross that threshold then it goes back the other way, right.
+
+<strong>CHUCK:</strong> Yeah. All right Josh what are your picks? [silence]
+
+<strong>JOSH:</strong> The mute button. [laughs]
+
+<strong>CHUCK:</strong> [laughs] That comes up every few weeks, doesn't it?
+
+<strong>JOSH:</strong> Yeah. So, reaching a couple of hours into the future, my first pick is the iPhone 5. [laughter]
+
+<strong>CHUCK:</strong> Awesome! [laughter]
+
+<strong>JOSH:</strong> Yeah, it’s just great.
+
+<strong>JAMES:</strong> How did he know that?
+
+<strong>JOSH:</strong> [laughs] OK. Let’s see. So I've been getting a page set up for launching an app. And I know about LaunchRock and I tried that out and I didn’t like using it all that much. It’s really easy to set up but it wasn’t all that flexible. So I found this other called <em>Kickoff Labs</em> and I like their products. It’s a similar kind of thing; you can easily set up a page and collect user sign ups before your app is ready to go. But they have  a  really nice integration and they have good metrics and the CSS is much easier to customize – that kind of thing. And the company is really responsive. And so I've been pretty happy with that. Let’s see, my other pick is I’ve mentioned before the “The Food Lovers' Primal Palate” it’s my niece and her fiancé, they wrote this book and called “Make it Paleo” -- I mentioned that a long time ago as a pick. They have some new stuff that they are offering now. And I've been loving their cookbook. I love cooking stuff out of that. But I haven't really gone Paleo yet, but I’m thinking about doing it after the madness of GoGaRuCo is done and actually think about making that kind of significant change to how I eat. But they have this new eBook out, which is a 30-day Intro to Paleo which I'm excited about trying. And then they also have this free app for the iPhone and for the Android, that has basically all the ingredients and shopping lists for all of the recipes in their cookbook Make it Paleo Cookbook. So it’s almost like getting a free version of the cookbook. I think it’s called <em>My Kitchen</em>. So, I'm just going to put a link to their books page; that will probably be easiest thing for people to find in their show notes but they are <em>primal-palate.com</em>.
+
+<strong>CHUCK:</strong> Awesome.
+
+<strong>JOSH:</strong> Yeah, so that’s my picks for this. And then, you know, wish me luck with GoGaRuCo and soon I’ll be picking our conference videos. Oh, actually I have one last pick and that's at Steel City Ruby Conference last month, Corey Haines did a really nice talk. It was the first talk for the conference and Steel City was billing itself as the best first conference for Ruby developers. And Corey started it off with the talk about <em>How to Get the Most out Of Your Conference Experience</em>. So, I recommend that everyone who is coming to GoGaRuCo and it’s their first conference, go watch that video. And everybody else who is going to a conference for the first time, I recommend you watch the video too. It’s up in Confreaks. It’s a half-hour and it’s a nice talk. Corey is a great speaker and it’s always a pleasure to watch him do a talk. So that's it. I'm done.
+
+<strong>CHUCK:</strong> Cool.
+
+<strong>JAMES:</strong> I have a question. When will Josh be fixing dinner for the Ruby Rogues?
+
+<strong>JOSH:</strong> When you all come to San Francisco.
+
+<strong>JAMES:</strong> OK. Just checking.
+
+<strong>CHUCK:</strong> All right so. My picks; I'm going to do a couple of them that are just kind of equipment things that I have ordered off of Amazon. (They should be arriving today. In fact, all of them should be.) The first one is, we had the power go out here like a week and a half ago. And when it came back on, it fried our TV, which didn’t make my wife very happy because that's one of the ways that she gets some sanity when the kids are home from school. So, anyway I went ahead and ordered some <em>surge protectors</em>. It’s kind of funny because we were having this discussion (my wife and I were) and she’s like, “I don’t want surge protectors up there.” because she is thinking the power strips and that for some reason she had conflated power strips and surge protectors which isn’t always -- the power strips don’t always have surge protectors in them. And so I've ordered a couple that are just basically plug bricks that you just plug in and they kind of stick out of the wall a little  bit,  but aren’t more cords at by where the TV is. I’ll put links to the ones that I bought in the show notes. And it also kind of freaked me out a little bit because my computer is plugged in to one that does have a surge protector in it, but you know, it still does a hard shut down when the power goes out. And so I also order a <em>UPS</em>. I’ll put a link up to that as well. And those are just kind of some things that I've just been fiddling with. One other thing that I've purchased, I don’t know if I picked this last week or not. I just can’t remember not really willing to go look so, if I picked it last week, I'm sorry but anyway, the headphone jack on my iPod has gone out or going out. I love listening to my iPod and I didn’t really want to go buy a new one and so what I did is I went and I bought some <em>LG Tone Bluetooth headphones</em> and it’s just been really, really nice to have those. The cool thing is that I can walk away and come back, and they are still connected. And I also ordered a speaker—a Bluetooth wireless speaker that just recharges off of USB that I'm going to be putting in my office, so that again, I can listen to the iPod when I'm in here. But it’s nice because I can pair it with other devices whenever I'm out and about so. Anyway, those are my picks. Pedro, do you have some picks for us?
+
+<strong>PEDRO:</strong> Yeah for sure. One is a talk. It’s not particularly new, but it’s a talk by Brandon Keepers from GitHub called “Why Our Code Smells”. And I think it brings a lot of the stuff like if you read a lot of books, they show you know already a lot of the things in there, but I really like how he put those things together. So it’s funny; it actually talks a little about the stuff you guys talked about before with Steve and Nat on <em>Growing Object-Oriented Software Guided by Tests</em>. He also touched a little on book that Avdi wrote, <em>Objects on Rails</em> and they are stuff like refactoring and Uncle Bob.  So he puts this all together. I think in particular because it’s very contextual for Rails developers, so he gives examples from GitHub and I think it was a good talk. The second one is a project I was checking out yesterday actually called “Zeus”. So, it’s an open source project in Go that will load your Rails app in memory. And the idea that you run that once and then if you need access to Rails app again, the process is already running, so it’s super quick. Yesterday maybe it’s probably super early to tell, but I think there is a lot of potential for like faster specs, faster rake tests and all those stuff.
+
+<strong>CHUCK:</strong> Awesome.
+
+<strong>PEDRO:</strong> That's it.
+
+<strong>CHUCK:</strong> All right. Well, one thing that we forgot to do at the beginning of the show that we need to do  is the <em>This Week on Parley</em>.
+
+<strong>JAMES:</strong> I’ll do it!
+
+<strong>CHUCK:</strong> OK. [laughs] That was fast. [laughter] Oh! Pick me! Pick me!
+
+<strong>JAMES:</strong> No, I cheated. I was looking it up since we had been talking about it. So I cheated. [laughs] On Parley, there's lots of good discussions lately, but one of my favorites is -- we had a relatively less experienced programmer who used to writing 20 or 30-line scripts come on and ask, “Now I'm moving in to scripts that are getting bigger and bigger. They are reaching the 300-400 line range. Is this the time when I start introducing objects and how do I do that? Why do I do that?” It sparked a really interesting discussion about the things he were doing and you know, like it doesn't add more overhead and things like that. But this spun a whole other thread that got into <em>pair programming</em>, why you should be doing that and how people do that and tools they use for that like screen sharing versus shared tmux set ups and stuff like that. And so just this one question lead to, I think two very interesting discussions on when is the right way to transition and what can we learn from each other and stuff like that; all great discussions that we are having on the Parley mailing list right now.
+
+<strong>CHUCK:</strong> Awesome. Yeah, there's awesome stuff there and that’s definitely one of the things that was my favorite too. Anyway, let’s wrap this show up. Thanks Pedro for coming again. And we’ll be on next week talking about more awesome stuff. Who do we have next week?
+
+<strong>JAMES:</strong> Nobody yet. <em>To be determined</em>.
+
+<strong>CHUCK:</strong> OK. I will start sending emails willy nilly to line up somebody cool. That or we will just pick a topic off our list. But yeah, we are done.
+
+<strong>JOSH:</strong> OK. Cool.
+
+<strong>AVDI:</strong> Woo!
+
+<strong>JAMES:</strong> Awesome.

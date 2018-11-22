@@ -1,0 +1,77 @@
+---
+layout: layouts/post.njk
+title: >
+      Building a Star-Rating System in Ruby on Rails with jQuery
+date: 2011-07-05 19:37:28
+episode_number: 
+duration: 
+audio_url: 
+tags: tmtc-screencasts
+---
+
+<object width="640" height="390" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/4fSJTjATUfo?version=3&amp;hl=en_US&amp;rel=0" /><param name="allowfullscreen" value="true" /><embed width="640" height="390" type="application/x-shockwave-flash" src="http://www.youtube.com/v/4fSJTjATUfo?version=3&amp;hl=en_US&amp;rel=0" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object>
+<h3>Specification</h3>
+<ul>
+	<li>Clicking a star rating turns on the stars to the left of the star I clicked.</li>
+	<li>Clicking a star submits the star rating.</li>
+	<li>When I refresh the page, the star ratings should be persistent.</li>
+</ul>
+We’ll be using Rails’ functions including:
+<ul>
+	<li>form_for</li>
+	<li>hidden_field</li>
+	<li>Rails Helpers</li>
+</ul>
+We’ll be using jQuery functions including:
+<ul>
+	<li>click</li>
+	<li>each</li>
+	<li>ajax</li>
+</ul>
+&lt;code&gt;
+&lt;% form_id = "movie_#{movie.id}_rating" %&gt;
+&lt;%= form_for movie.ratings.last || movie.ratings.build, :html =&gt; {:id =&gt; form_id , :class =&gt; "star_rating_form"} do |f| %&gt;
+&lt;%= f.hidden_field :movie_id %&gt;
+&lt;%= f.hidden_field :stars, :id =&gt; form_id + "_stars" %&gt;
+&lt;% end %&gt;
+&lt;% (1..5).each do |i| %&gt;
+&lt;li id="&lt;%= form_id %&gt;_&lt;%= i %&gt;" data-stars="&lt;%= i %&gt;" data-form-id="&lt;%= form_id %&gt;"&gt;&lt;/li&gt;
+&lt;% end %&gt;
+&lt;/code&gt;
+
+&lt;code&gt;
+var set_stars = function(form_id, stars) {
+for(i=1; i &lt;= 5; i++){
+if(i &lt;= stars){
+$('#' + form_id + '_' + i).addClass("on");
+} else {
+$('#' + form_id + '_' + i).removeClass("on");
+}
+}
+}
+
+$(function() {
+$('.rating_star').click(function() {
+var star = $(this);
+var form_id = star.attr("data-form-id");
+var stars = star.attr("data-stars");
+
+$('#' + form_id + '_stars').val(stars);
+
+$.ajax({
+type: "post",
+url: $('#' + form_id).attr('action'),
+data: $('#' + form_id).serialize()
+})
+});
+
+$('.star_rating_form').each(function() {
+var form_id = $(this).attr('id');
+set_stars(form_id, $('#' + form_id + '_stars').val());
+});
+});
+&lt;/code&gt;
+
+<h3>Transcript</h3>
+
+

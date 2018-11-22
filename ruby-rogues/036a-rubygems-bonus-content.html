@@ -1,0 +1,122 @@
+---
+layout: layouts/post.njk
+title: >
+      036A RubyGems Bonus Content
+date: 2012-01-05 05:03:00
+episode_number: 036A
+duration: 0:15:10
+audio_url: https://media.devchat.tv/ruby-rogues/rubygems_org_bonus_content.mp3
+tags: ruby-rogues
+---
+
+<ul>
+ 	<li>Funny Gem Names</li>
+ 	<li>rack-rewrite</li>
+ 	<li>informal</li>
+ 	<li>metadata</li>
+ 	<li>slimgems</li>
+</ul>
+
+<h3>Transcript</h3>
+
+<strong>CHUCK:</strong> What I'm thinking that we may wanna do is actually do the picks and the podcast, and then post some bonus content. So we'll keep recording after the picks. And I'll just put up another audio file.
+
+<strong>AVDI:</strong> All right, so here's my question: CPAN was a for years, sort of the gold standard that other packaging systems were held up to, and sort of the thing that for years in Ruby land were like, “Oh, when are we going to get our CPAN?” And Gems has really improved by leaps and bounds to a system that’s in many ways comparable. One of the things that people are confused by when they are getting into the Ruby ecosystem is the Gem names and the sort of organization of Gems or rather lack thereof.
+
+So if you look at a CPAN, what you see is this sort of self-curated hierarchy. So you have like, if I'm looking for an XML parser based on LibXML, I look at XML::LibXML. And then underneath the XML, LibXML library, there is a bunch of sub modules of that and related modules of that. So there's like… the different parts of it like LibXML SAX, so if you want a SAX parser, it's the XML::LibXML::SAX. It's sort of fairly logical hierarchy of libraries, whereas if I want it for a Ruby, I need to know that it's called [??] theory. Any thoughts on that? Do you think about like adding some kind of categorization or hierarchy or anything along those lines?
+
+<strong>NICK:</strong> So my experience, I came from .NET, so I'm happy with anything. [Chuckles] I don’t have that pro same experience, so I haven't thought about adding. And to be honest, I don’t know if it would help. I don’t wanna go through the 182 thousand and categorize them.
+
+<strong>AVDI:</strong> [Chuckles] Right.
+
+<strong>NICK:</strong> And I think that something  where metadata can shine. And I think that’s something where we can say, “Okay, Avdi’s categorization service will look at this attribute or this thing, and then we're going to display those into categories. So then you can go look at there if you wanna browse that way.”  And then you would promote that if people liked it.
+
+<strong>AVDI:</strong> As far as I know for Perl, I don’t think there's any kind of central category authority; it's just sort of a self-maintained system.  Somebody starts the XML namespace, and then somebody else adds another module to that name, names their module the same thing or with the same prefix.
+
+<strong>NICK:</strong> Yeah, I'm definitely sick of the silly names, but I don’t know if there's a good general way to solve that problem that isn’t going to be chaotic or piss a lot of people off.
+
+<strong>AVDI:</strong> I don’t completely hate the silly names either. I think there's one advantage of that which is that, I mean, what if there are two competing XML parser libraries based on LibXML? Is one going to be called like LibXML, and the other one called XMLLib? I actually kind of like the fact that we have memorable names for different takes on a problem.
+
+<strong>JOSH:</strong> I like that too. And I think that having the “official sounding” names that carve out the name space or some turf in the name space. I think that’s actually a little bit of problem. I know that when John Trupiano came out with rack-rewrite, I think a lot of people assumed that it was part of Rack and that was how you were supposed… it's like the officially sanctioned way of doing URL rewriting in your application. And I came out with the informal Gem, which I kind of like the way it's named, but it doesn’t say anything about rack or rewrite in the name. I think that can make it harder for people to find.
+
+<strong>AVDI:</strong> Right. Absolutely. Definitely a problem.
+
+<strong>JAMES:</strong> I wanna throw down on the crazy name side. I mean, “nokogiri” means chainsaw in Japanese. That’s my entire argument.
+
+<strong>JOSH:</strong> [Chuckles]
+
+<strong>NICK:</strong> It's motto is the best. It's like violence. What is it?
+
+<strong>JOSH:</strong> “XML is like violence; if it doesn’t solve your problem, you're not using enough of it.”
+
+<strong>JAMES:</strong> Exactly.
+
+<strong>CHUCK:</strong> So back to the CPAN thing for me, whenever I see it and read it or hear it, I'm always thinking, “C-SPAN.” It just takes me to a completely different place.
+
+<strong>NICK:</strong> [Chuckles] You just fall asleep immediately in front of a congressional hearing?
+
+<strong>CHUCK:</strong> That’s right.
+
+<strong>JOSH:</strong> I sometimes feel like someone is filibustering my bundle install.
+
+[Laughter]
+
+<strong>CHUCK:</strong> I'm going to have to build an add-in for bundle now, that’s “bundle filibuster.”
+
+<strong>JAMES:</strong> Purposefully slows it down some more.
+
+<strong>CHUCK:</strong> That’s right.
+
+<strong>JOSH:</strong> So, as long as we're doing after show stuff, like Nick, I want to hear about your grading of our dramatic reading of the RubyGems.org source.
+
+<strong>NICK:</strong> It was really good. I liked it. It's a good episode. I don’t know if I have any other specific critiques. It was funny. It was fun to hear you guys read through something. I think you guys should do more of it.
+
+<strong>JAMES:</strong> The whole time, he was sitting there going, “You guys are missing everything!”
+
+<strong>NICK:</strong> You guys missed a few things, but I mean, everyone does that. I think that’s just natural part of it. I would like to do that too. I don’t know if people will find it helpful, but I think that’s a fun experience. I get intimidated when it's like you open up and you see like a mess. Like one up the Git code some day and look at it. And you get scared just by the peer  side of  the directory. I think that experience of like going through and showing how others are reading code is great.
+
+<strong>CHUCK:</strong> So I have another question. I'm wondering back when there was the whole argument over Ruby Gems and slim Gems, did that really affect RubyGems.org all that much? Or were they just going to use the same APIs that Ruby Gems uses?
+
+<strong>NICK:</strong> No, I mean I know Laurence is really angry about it, so at least maybe he is. So that was a mess. But there was some poor maintainership, I feel, that was going on from the Ruby Gems side. I'm not going to lie about that. I was really angry too. And of course I think nothing wrong about forking and going your own direction and making sure that things work. And if that means work for Laurence, who’s the guy that wrote some Gems, that’s awesome. That’s good. It's great.
+
+If I had my say, Lauren would  be on the Ruby Gems team, and he would be responsible for maintaining all the things that they took out, that slim Gems added back in. But from a RubyGems.org site, it didn’t affect anything. And in fact, one thing we should add we should start tracking user agents. So when you request a Gem, it sends along user agent with the version of Ruby Gems you have. So I think that’s a telltale sign. And I think right now, I think Ryan on the Ruby Gems team, he built some script to like parse the logs for it to see what the adaption rate it. And usually it's pretty good. Like not everyone is running 1.3 from several years ago, basically.
+
+So for the most part, it didn’t affect me, but I felt his pain. I think everyone did. You get a ton of warnings, and you don’t know what to do. I think overall, that’s a poor way of communicating things. The Ruby Gems client side is a very different beast on the server side. It needs to be a little more stodgy and conservative than we can. I mean, it needs to run only on Ruby. It can’t have any magic stuff. It needs to work on every freakin platform that Ruby worked on, especially Windows. So when things break there, it kind of stinks.
+
+And they need to realize, (and I think that they have now, we talk a lot about it internally and there were some turmoil; and I think we are, for the most part, over it), that communicating things that are changing in Ruby Gems is different between people that write Ruby Gems and people that use Ruby Gems. And for a long, long time, it was only people that… we only, I think case of users was people that wrote Ruby Gems, because if you wrote Ruby Gems, then you use Ruby Gems. And now, there's like classic consumers and producers. So I think now, they heard the cry -- the call. So hopefully, things will be better. I'm optimistic.
+
+<strong>JAMES:</strong> That’s a great point that when Ruby Gems would change something and deprecate something, it would throw fifty million warnings at the user who couldn’t do anything about it.
+
+<strong>NICK:</strong> Exactly.
+
+<strong>CHUCK:</strong> Another question I have is what’s your favorite part to work on in Ruby Gems?
+
+<strong>NICK:</strong> That’s a good question.
+
+<strong>CHUCK: </strong>One part you could just sit around, fiddle with and just no consequences, you know, just to see what you could do with it. What would it be?
+
+<strong>NICK:</strong> I think I did the bundler stuff that’s new or the old event server. So this is with rubyGems.org. So basically, it's terrifying because if you break it, then everyone can’t install Gems. But at the same time, you need like to Gem install and to be really fast. So that’s what I wanna play with. And the bundler endpoint needs help, so I would love to work on that more. To be honest, it hasn’t been touched since we wrote it. Me and my worker Matt, wrote it over the summer, and we haven’t touched it since them. I’d love to work on that more and see what the bundler [??] there. Time is very limited as well.
+
+<strong>CHUCK:</strong> Right. And I'm also a little bit curious as to maybe what most challenging parts are.
+
+<strong>NICK:</strong> Okay. Definitely, I think the hardest thing there is probably the indexer.  What the whole act is just a wrapper around the indexer. And I think that’s definitely one of the harder parts because it's doing a lot of different queries in the database to figure out what Gems are the right ones to pick. And it just does a lot of manual processing. So it has to say like, “Okay, once I get all the Gems, I need to throw that up on us three, and we'll do some other magic bits in order to get it ready for people to use.
+
+So that part I think is the core of what these few months after we're back from first Rails conf I went to, was figuring out. And largely, it has a really changed. Like the part to upload the S3 has changed, and the part of query in the database has changed, but I think the whole part of understanding what the heck Ruby Gems needs, is not easy. And that was part of a Gem cutter… it was decrypting and understanding what was going on inside of it. So that part I think is probably the hardest. The rest of it is really easy. You guys definitely did an awesome job of going through the models. The domain model is really simple and it's a pleasure to work with. I think it's that backend junk that is easily the hardest thing.
+
+<strong>CHUCK:</strong> I guess somebody already asked this, I was going to ask if somebody can contribute something to it that’s not already there, what would it be?
+
+<strong>NICK:</strong> So I talked a lot about the API, but there's other things in the site that kind of stink. The stacked pages, we've got a lot of trouble with lately. Basically, you know, we had a lot of trouble running a cron job, not so much that cron job but more so the stack like the grass. I don’t think they are very nice. I wrote the ones that are like on the profile pages, but someone else wrote the ones that are like for each Gem. And they were kind of crappy overall. Like if I have my choice right now, I’d turn them all out. And instead, I’d write an API, so that people fetch all that data and write their own grass with and have fun with it, because they would probably produce a lot better looking things than I would. So that would be really cool. [Chuckles]
+
+I think we talked a lot about redoing the API, Eric and I did. And he wrote an API wrapper for the site, and it's part of why I picked him as a contributor, is because he understands what’s going on and he like obviously found a lot of the inconsistencies and had a lot of questions. And my answers were usually like, “Well, that’s just how I did it.” [Chuckles] And that’s the answer for a lot of Ruby Gems stuff. He came up with a few things we could do if we make another version in it of the API. And that would be a nice thing to do, and that would be really easy as well because all the code is there, it's just changing what's returned in the end points and stuff. So that would be fun to work on. It's just a whole brand new version of the API, and then we can have things be more cleaner and consistent and easy to use from a developer’s perspective, for people adding on more stuff to Ruby Gems.
+
+<strong>CHUCK:</strong> Cool. Did you guys have any questions? James or Avdi.
+
+<strong>JAMES:</strong> No, I think I'm satisfied. I just wanna say thanks, Nick. I mean, geez. You have a really complicated process that’s at the heart of what we do every day, and it's kind of cool just to hear it broken down.
+
+<strong>NICK:</strong> Thanks.
+
+<strong>AVDI:</strong> Likewise, thanks a lot.
+
+<strong>CHUCK:</strong> Yeah. Been fun!
+
+<strong>NICK:</strong> Thanks, guys.

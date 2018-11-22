@@ -1,0 +1,427 @@
+---
+layout: layouts/post.njk
+title: >
+      136 RR Consulting vs Product Work Part 2 with Steven Proctor
+date: 2013-12-18 14:00:00
+episode_number: 136
+duration: 0:51:51
+audio_url: https://media.devchat.tv/ruby-rogues/RR136ConsultingProductWork.mp3
+tags: ruby-rogues
+---
+
+<p dir="ltr">01:37 - Steven Proctor Introduction</p>
+
+<ul>
+ 	<li><a href="http://www.simpli.fi/" data-cke-saved-href="http://www.simpli.fi/">Simpli.fi</a></li>
+</ul>
+<p dir="ltr">03:36 - Background</p>
+
+<ul>
+ 	<li><a href="http://rubyrogues.com/121-rr-consulting-vs-product-work-with-adam-keys/" data-cke-saved-href="http://rubyrogues.com/121-rr-consulting-vs-product-work-with-adam-keys/">121 RR Consulting vs Product Work with Adam Keys</a></li>
+</ul>
+<p dir="ltr">08:37 - Bringing in Consultants</p>
+<p dir="ltr">13:39 - Managing Teams</p>
+
+<ul>
+ 	<li>Who Should Get Hired?</li>
+ 	<li>Full-Time Employees vs Consultants</li>
+</ul>
+<p dir="ltr">20:15 - Ruby Consultants</p>
+<p dir="ltr">27:34 - Motivation, Interest and Avoiding Burnout</p>
+<p dir="ltr">30:31 - Fulfillment and Forward Progress</p>
+<p dir="ltr">34:29 - Changing Culture</p>
+
+<h3>Book Club</h3>
+<a href="https://leanpub.com/fp-oo" data-cke-saved-href="https://leanpub.com/fp-oo">Functional Programming for the Object-Oriented Programmer by Brian Marick</a>! We will be interviewing Brian next week, and the show will air on Christmas Day. There's still time left to get your $5.00 off code to get the book: <strong>please_remember_the_starving_artist</strong>
+<h3>Ruby Rogues Parley</h3>
+<a href="http://parley.rubyrogues.com/" data-cke-saved-href="http://parley.rubyrogues.com/">Sign up for our Discourse Discussion Board!</a>
+<h3>Ruby Rogues T-Shirts!</h3>
+Support the show! <a href="https://www.booster.com/rubyrogues" data-cke-saved-href="https://www.booster.com/rubyrogues">Buy a T-Shirt!</a>
+<h3>Next Week</h3>
+Functional Programming for the Object-Oriented Programmer with Brian Marick
+
+<h3>Transcript</h3>
+
+<strong>JOSH:  </strong>It’s like digging your own grave with a backhoe.
+
+[Chuckles]
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] </em></strong>
+
+<strong><em>[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]</em></strong>
+
+<strong><em>[This episode is sponsored by Code Climate. Over 1,000 organizations trust Code Climate to help improve quality and security in their Ruby apps. Get 50% off your first three months for being a Rogues listener by starting a free trial this week. Go to RubyRogues.com/CodeClimate.]</em></strong>
+
+<strong><em>[This episode is sponsored by SendGrid, the leader in transactional email and email deliverability. SendGrid helps eliminate the cost and complexity of owning and maintaining your own email infrastructure by handling ISP monitoring, DKIM, SPF, feedback loops, whitelabeling, link customization and more. If you’d rather focus on your business than on scaling your email infrastructure, then visit www.SendGrid.com.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 136 of the Ruby Rogues podcast. This week on our panel, we have James Edward Gray.
+
+<strong>JAMES:  </strong>Good morning everyone.
+
+<strong>CHUCK:  </strong>Katrina Owen.
+
+<strong>KATRINA:  </strong>Good morning.
+
+<strong>CHUCK:  </strong>Josh Susser.
+
+<strong>JOSH:  </strong>Good morning from San Francisco where it’s 85° out today.
+
+<strong>CHUCK:  </strong>I’m Charles Max Wood from DevChat.TV. I'm just going to give a quick reminder. You got two and a half weeks to get the 1/3 off on Rails Ramp Up, if you want to sign up. We also have a special guest this week and that’s Steven Proctor.
+
+<strong>STEVEN:</strong>  Howdy from Dallas-Fort Worth.
+
+<strong>CHUCK:</strong>  You want to introduce yourself, Steven?
+
+<strong>STEVEN:</strong>  Yeah. I'm a Ruby immigrant. I have been spending most of my time in .NET up until about the past year when I got laid off. Sent an email out to the Ruby user groups in the area and got picked up from someone taking a chance at someone on someone who’s got development experience but has only played with Ruby. So, I'm currently at Simplify and doing Ruby and some Erlang here as well.
+
+<strong>JAMES:</strong>  Cool.
+
+<strong>CHUCK:</strong>  Very nice. So, before we get going too far, we have some sad news. Katrina, do you want to give us our sad news?
+
+<strong>KATRINA:</strong>  The sad news is that I am retiring. [Crosstalk]
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>CHUCK:</strong>  She hit the lottery. She no longer has to work.
+
+<strong>KATRINA:</strong>  [Chuckles] Exactly.
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>KATRINA:</strong>  I've had a year as a panelist on the Rogues and it’s been a fantastic year. And I'm going to take some time off where I'm talking less and doing more, is basically the long and short of it.
+
+<strong>JAMES:</strong>  Deliberate practice?
+
+<strong>KATRINA:</strong>  Yeah, deliberate practice, writing code, not so much speaking at conferences and being on podcasts.
+
+<strong>JAMES:</strong>  I hear you.
+
+<strong>CHUCK:</strong>  Yeah.
+
+<strong>JAMES:</strong>  For sure, we are absolutely going to miss you.
+
+<strong>JOSH:</strong>  Won't be the same around here without you.
+
+<strong>CHUCK:</strong>  I'm not going to cry on the show, I promise.
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>STEVEN:</strong>  I'm speaking on behalf of the listeners, I'm sure we will all miss you as well.
+
+<strong>JAMES:</strong>  And come back for an episode anytime you want.
+
+<strong>KATRINA:</strong>  Oh, thank you.
+
+<strong>CHUCK:</strong>  Yup.
+
+<strong>KATRINA:</strong>  I will. Invite me to talk about exercism and I will not shut up.
+
+<strong>CHUCK:</strong>  [Laughs]
+
+<strong>JOSH:</strong>  I think it’s about time we had an episode on exercism. [Chuckles]
+
+<strong>JAMES:</strong>  No kidding. Actually, I listened to the Lucas one because I ended up missing that week and that is kind of a show about exercism and [inaudible]. But we could definitely say more.
+
+<strong>KATRINA:</strong>  Yeah.
+
+<strong>CHUCK:</strong>  Yeah. I’ll bring some Holy Water and incense and we’ll be good.
+
+<strong>KATRINA:</strong>  Well said. So, let’s talk about product.
+
+<strong>JAMES:</strong>  Let’s do it.
+
+<strong>CHUCK:</strong>  Yeah. To give a little bit of background, we did an episode, I think it was 122, 121?
+
+<strong>STEVEN:</strong>  121, I believe.
+
+<strong>CHUCK:</strong>  And we had Adam Keys on and we talked about product work versus contract work. And Steven left a pretty interesting comment on that episode. And so, I invited him back to come and say his piece about why product work doesn’t -- I was going to say doesn’t suck but I've had some decent jobs in my days. So, yeah. But anyway, so you want to fill us in a little bit on your background there so that we can get an idea of where you're coming from and talk about this?
+
+<strong>STEVEN:</strong>  Yeah. So, as I mentioned in the intro, I’ve got a background doing .NET with Microsoft technologies, some Java before that, a little bit as internships and as a small transition between groups, between jobs inside the same company. I was with one of those groups for ten years, almost. Same team, same products, it was a product suite doing web application development for food and beverage industry. So we had a bunch of different stacks. So, with a group that size and we got up to about maybe 14 people. And so, I think part of my questions came down to the difference between the Ruby culture and environment and then some of the more enterprise-y style environments as well as kind of getting in with the term of the tenure that people have on projects, whether it’s a consultant for three months or closer to the more, I guess, average term of about two years between people jumping through jobs or projects. And then, that perspective from someone who’s been doing it, who was on the same team working on the same products for almost ten years.
+
+<strong>JAMES:</strong>  I think Adam brought up some of that, that he felt being in the same position over a long period of time changed how he viewed things and his commitment to them and stuff like that.
+
+<strong>STEVEN:</strong>  Yeah. And that’s one of the things I really noticed was going through that ten years. And you guys touched a little bit on the flipside of it as well. But going through ten years of it, you kind of tend to know all those little inconsequential decisions or that seem inconsequential at the time and realize how big of a bundle that those things add up over the years. And I believe the consultants have a great opportunity when you're coming into that thing, as you guys kind of talked about. I think you mentioned it James, where you talked about how you love coming to a new project and bringing a fresh perspective. And I think that’s one of those balances that probably don’t happen enough on the teams.
+
+<strong>JAMES:</strong>  Yeah, you're right. There are advantages both ways. If you're the new person coming in and you don’t have the baggage that other people have, the, “Oh, we do it this way all the time, blah, blah, blah because I don’t remember. It’s lost in the annals of history.” Whereas the new person is like, “But what if we do it this way?” But then the team has the advantage of, “They’ve made a lot of those mistakes ten times and they remember why they turned out not to be great ideas,” and stuff like that. So, I think it cuts both ways, right?
+
+<strong>STEVEN:</strong>  Yeah, one of my favorite stories I remember seeing at one of my previous jobs about the, “Why do we do it this way?” I don’t know if you guys are familiar with the anecdote of the five gorillas in a cage with the bananas hanging down and the ladder. The basic premise is they put five gorillas in a cage with bananas hanging down where they could get to the ladder and grab them. But anytime that one of them would do it, they would send the fire hose at that gorilla and the rest of the gorillas and just hose them down. And over time, they would replace one gorilla in, one at a time. And then the gorillas would hold him back so they wouldn’t get sprayed down because they’d get sprayed down too if the new gorilla went for the bananas. And then they noticed that after every time doing that, after they’ve completely recycled out all of the old gorillas, that anytime they’d cycle out another gorilla, they were still exhibiting that behavior even though none of those gorillas had gotten sprayed down originally.
+
+<strong>JAMES:</strong>  That’s interesting.
+
+<strong>STEVEN:</strong>  I don’t know how true that is but those are the kind of perfect anecdote for that kind of, “Why do we do that this way?”
+
+<strong>JAMES:</strong>  Right.
+
+<strong>JOSH:</strong>  So, you're saying that gorillas can cargo cult too.
+
+[Laughter]
+
+<strong>STEVEN:</strong>  They may even be better at it than us [laughs] which I don’t know if that’s a plus or a minus.
+
+<strong>JOSH:</strong>  So, have you seen something like that happen on projects at work where the team is still following some ancient practices that no one really understands anymore and they may or may not be helping?
+
+<strong>STEVEN:</strong>  Yeah, I've seen it. And I've seen it come to even where we do know why and we’ve got the history but we still do it. And I think part of that history was it’s all too painful to change. It’s like, “Well, okay. I don’t know that we can ever spend the time doing this.” We’ve had stuck ourselves in the corner even though this isn’t a place we want to be at. And it’s trying to get that motivation where I think they’ve been there for a long time or you’ve gone through a bunch of projects, you may come in to a bunch of projects where it’s that and be the repair guy. You don’t necessarily learn the value of those lessons which I think if you were a consultant, I would assume that as you guys go through a number of things, you can guys pick up lessons being the repair person that you might not have gotten if you're just coming in as the first time do-it-yourself consultant. Is that roughly a valid statement?
+
+<strong>JAMES:</strong>  Sure. I would day I've learned a lot of things. I mean, I think even just programming in general, a lot of times I see a chunk of code and I'm like, “Ah, I can replace that with something much simpler,” or whatever. And then I’d write the thing and it gives me a whole new appreciation for why it was the way it was, sometimes.
+
+<strong>STEVEN:</strong>  I guess it was more of the -- I didn’t know how much you guys have found yourself learning from calling in to be, you’ve worked on for repair projects. Because as you become someone in a -- I've noticed for me and my coworkers, though it’s a small sample size, was we kind of notice this value of those decisions after you’d been in this codebase a long time. Well, some of those principles really do matter because all these times we kind of thought they weren’t going to be that big of a deal. They snowball and become a nice big bundle of a mess.
+
+<strong>JOSH:</strong>  And what do you think that’s related to? I mean, like team composition? You’ve got permanent employees, who’ve been on the project for ten years, consultancy drop in.
+
+<strong>STEVEN:</strong>  I think that’s just one of those and you start out with a younger team as well, because this group was a startup. So, everybody was in their -- I think almost everybody was in their 20’s at that point. And some of them, I know I got in the job right out of college and I did have some good mentors but they were still 25 or 27 with some good experience on their own. But I think it’s one of those, you have to be bitten by it before you really understand the appreciation.
+
+<strong>JOSH:</strong>  Sure. I think there's a lot of problems that until you feel them, you don’t really believe them. As good as we are with language, some things you got to see for yourself.
+
+<strong>JAMES:</strong>  Yeah. It’s hard to make people appreciate the value of having, it’s like you can throw together some code and it works and it’s fine. And you can probably change it up to a point. And then there's some point where if it’s designed poorly, that the weight of those changes eventually becomes crippling [chuckles] at some point. It’s whether or not you hit that point. And so, a lot of people are just, with a lot experience, they would just program to make certain decisions earlier on so that they can try to push that pain as far away as possible, giving ourselves more breathing room. But I think there are situations where like projects get into this kind of mess and then they bring on consultants that have a lot of experience with the goal of training the team up to recognize these issues and how they got there and improve the thing over time. That happens, right?
+
+<strong>STEVEN:</strong>  Yeah. I think that’s one of the big things that, sadly, we don’t see enough with consultants. And I don’t know that it’s from lack of effort by consultants but maybe more with the people that bring them in as a whole where they’ll bring in either a consulting firm or a couple of independent contractors or freelancers and bring them in and try to then assign them work instead of assigning them as a coach and a mentor. And then they become say, “We’ll bring them in to get this work done,” which then becomes a handoff versus helping to dig the team out of the mess that they're in, not only with code but with education.
+
+<strong>JAMES:</strong>  That’s a really good point.
+
+<strong>JOSH:</strong>  So, I think we talked a bit with Adam about the non-technical things that consultants can help with on projects, some of the team dynamics and teaching agile skills, project management, things like that. But I don’t think we got into the -- we’ve been talking about how there's all of these accumulated sort of institutional memory on a team and they know all the decisions and all the reasons why things were decided the way they were five or ten years ago, “Oh, we got to do it that way because of X.” And I think that there's also some institutional memory on the team of how to deal with people. If you’ve been working with people on the team for five or ten years, you probably know how each other work pretty well. And some of these things are functional and some of these things are dysfunctional. Everybody worked where they got their good points and their bad points. And a lot of work goes on in the team is figuring out how to work together well as a team and that you bring in a consultant and they don’t have all of that knowledge, “Although, I've been working with Frank for ten years,” and, “You just got to talk to him this way if you want anything out of him.”
+
+<strong>STEVEN:</strong>  I can definitely see that. I think the other thing that happens is that they get pulled in when the dysfunction starts to make a peak which I think probably would test the contractors even more so than had they been brought in at more of a stable time. So now, the contractors are essentially thrown into the fire because you're pulled in when deadlines are being made or things are switching or the team’s flailing and there's a lot of conflict. Like you're pulled there at the worst times of the project, right?
+
+<strong>JAMES:</strong>  Yeah. And that can also create tension between the full-timers and the contractors because ‘why do we need them now’ kind of thing.
+
+<strong>STEVEN:</strong>  Yeah or, “Well, they’re bringing them in and we’ve been saying this for ten years or we’ve been saying this for two years, but then they come in and they can get the ear of the person that can make the decisions because it’s hit the proverbial fan.” And they're probably -- my rough understanding is probably three to six times more expensive than someone that they would hire to do the same job as a full-time employee. And so, there’s the, “Well, we’re paying them a lot more as well.” So, that combination kind of plays with the managerial aspect and influence, it seems.
+
+<strong>CHUCK:</strong>  Yeah, I've seen that a few times. I've also seen it with new full-time employees that get hired. They come in and they somehow get the ear of whoever makes the decisions and kind of makes that happen. And in my experience, a lot of times is because these people have just done a sales job to the manager as to why they should be hired. The consultant has to do it in order to get the job and get paid. And the new employee is the same kind of thing. They came in and they basically had to sell themselves. They will sell the manager on hiring them and then they could come in and say, “Well, I've had this expertise and I see that there's this pain.” And for some reason, yeah, it does. They get a little bit more credibility in that space than somebody who’s been there for a few years and has been saying the same thing.
+
+<strong>STEVEN:</strong>  And sadly, I think the contractor gets a little bit of the worse rap than the person who’s been hired on as a full-time employee. I think part of that because is we know that the full-time employee is going to be sticking around or more likely to stick around. They're probably more invested in the success of the company than the contractor would be if they're just coming in for a three to six month stint type of thing. Sadly, there may not be as much hostility or enragement over the new full-time employee that’s able to get that versus the contractor. Is that something you guys have kind of noticed?
+
+<strong>CHUCK:</strong>  I think it depends on the team.
+
+<strong>JOSH:</strong>  Yeah. So, a lot of these things that we’re discussing here can come down to the fact that managers don’t know how to manage their teams. And sometimes, they bring in consultants to help fix the problems they’ve created.
+
+<strong>CHUCK:</strong>  Yeah. The other thing is that, I mean, I've seen consultants come in to a team of full-time employees and be treated like outsiders. And I've seen consultants come in to a team and be treated like the person who’s going to solve all of their problems. And so, it really just depends on the team’s approach and what their expectations are. If the team doesn’t see the need for the consultant or the contractor, then yeah, I can definitely see where the ‘what do we need them for’ is not going to really make a difference and ‘how is it that he can say what we’ve been saying for the last three years and get it done’. And then other folks see it as, “Okay. Obviously, he’s coming in. He’s saying the right things and we’re making headway.” I've seen it work both ways.
+
+<strong>JOSH:</strong>  This is what gets talked about all the time when we talk about full-time employees versus consultants. It’s always that divide and that dynamic. But the underlying dynamic is that the way the team is being run or managed isn't working. And bringing in a consultant is just one thing that management can do when they're stuck. But there's a lot of other things that they do and I think much of time, bringing in consultants is just management doesn’t know what to do anymore and they just want somebody to help. That doesn’t mean that that’s the only fix. And a well-functioning healthy product team can go for years and years and years and years and not need consultants to come in.
+
+<strong>STEVEN:</strong>  Yeah. And it also seems, as the relatively new person to Ruby, that the Ruby culture’s intake on consultancy is drastically different than things that I’ve seen with the more enterprise companies. We got acquired twice and the second company is a big giant monolithic company whose name everybody would know but I will refrain from stating.
+
+<strong>JOSH:</strong>  Yeah, we don’t want to lose our family-friendly rating.
+
+[Laughter]
+
+<strong>STEVEN:</strong>  But as we got acquired by them, it would not be unusual to hear about projects that were five or ten year implementation projects which they would consult out to these other companies to get the software up and running. Whereas Ruby, you hear a lot more about the Thoughtbots, the Pivotals, [inaudible], Chad Fowler’s company that was acquired by LivingSocial. You get the 8<sup>th</sup> Lights which seemed to be more contractor and consultancy friendly.  I’m wondering, is that due to the kind of glut of people that are into Ruby where Ruby isn’t the mainstream language so it becomes more friendly to contractors?
+
+<strong>JOSH:</strong>  I think some of it has to do with the realities of what the companies are like, how they're structured and funded. And that the economics of hiring a full-time employee when you're a small agile startup are really different from the economics of bringing in temporary help. And a lot of what we see Ruby is for, or at least a couple of years ago as the Ruby culture was expanding and developing, is we have a lot of startups using Ruby to do websites. And that was like a huge part of the Ruby culture that was there, I think. And a lot of those startups were built around, “Okay, we’re going to use firms like Pivotal or Hashrocket to help us build our product.” Or, “We’re going to bring in other consultants who are familiar with this technology that we’re just learning.” So, I think there was just so much in the way the companies were developing. It wasn’t necessarily that it was the Ruby technology. It was the culture of the Ruby ecosystem to be all consultant-focused.
+
+<strong>STEVEN:</strong>  Yeah, I guess that’s where I was getting at. It seems like the Ruby culture is a lot more consultant friendly where you could even go off and possibly freelance in your free time in the evenings as opposed to some of these other companies that I’ve seen.
+
+<strong>JOSH:</strong>  And I think that happens when you have, like Ruby developers are still a scarce resource. There's much more demand for good Ruby developers than there are good Ruby developers to be had. So, I think that going out and being a consultant is much easier in that environment. As long as there's going to be not enough Ruby developers to go around, you're going to be able to go out there and be a consultant. It’s going to be really straightforward to do that. It’s not going to be like you have to spend all your time doing business development and trying to find a client.
+
+<strong>JAMES:</strong>  Right. Whereas some other languages like, I don’t have the experience, but I've heard that .NET, there's a lot of programmers to go around. So, that makes a different environment.
+
+<strong>CHUCK:</strong>  One other thing that I've seen as well with a lot of my clients is that they are really interested in getting things out there quickly. And so, with a lot of these companies like Pivotal Labs and Hashrocket, they can commit as many resources as they need to meet those deadlines. And the other thing is that a lot of the people who are starting these companies don’t necessarily have the technical background to be able to talk to somebody and know whether or not they're the right fit for what they're trying to do. And so, I've also seen arrangements where some of these companies like Pivotal Labs or whoever, they not only start building the product but they also start helping this company find people who can eventually take it on long term. And so, there's a lot of space for that where people just need the expertise and need a quick wrap up and they get it from these companies.
+
+<strong>STEVEN:</strong>  Yeah. And I think that’s part of the difference in what I’ve seen, where I was coming from when I made those comments was generally, I see the bigger consultancy firms that are these size of ThoughtWorks. Not saying ThoughtWorks is one of them, but the bigger, where they have different cities and different things or different headquarters for different cities spread around, able to throw out a number of people. And the Microsoft community, while I love some of the languages, they still have a weird enterprise-y feel. And that’s one of the things I love about the Ruby community is the smaller feel with things like open source. And I don’t know how much of that plays into that mindset of, “Well, we need to get a lot of these contractors in,” because there’s the fear of open source. So, they have to develop all these products themselves. I don’t know if that makes a difference on having to pull in that workforce where they’re done like that. So now, you pull in this big consultancy firm to do a lot of your work to go create this part of a product which, in Ruby, you can find as a simple gem that you can pull in.
+
+<strong>JAMES:</strong>  What about, I've heard an idea pass that programmers as they stay with the project over time, they become less sensitive to the pains that are in the code and less aware of them and that makes them less able to react to them and make better design decisions. And so, it’s been suggested that it could even be a valuable thing to, even on a long term project, rotating people around where they don’t spend more than two years or whatever working on a given part of it to keep shifting them through and keep those ideas fresh. What do we think about that as a strategy?
+
+<strong>STEVEN:</strong>  I think that’s true up until a certain point. And then once you’ve been there a while, you start to get another aha moment. I think there’s a value somewhere in the middle at which you start seeing really low return. So, you see really high return on those things when you’re just starting. And then you start to taper off. And then I think as you start being on there longer, you start to notice other things that have happened because you’ve been dealing with the pain so frequently. You might not be able to place your finger on what it is, but I think there may be a weird value there. If you’ve only been there for a while, you’re really productive. Or once you’ve been there a long time, you start becoming really productive. But once you’re in that little middle area, you’ve kind of become pain and don’t quite notice it as much.
+
+<strong>JOSH:</strong>  So, it’s sort of like being a teenager.
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>JOSH:</strong>  I'm not kidding. [Chuckles] It’s the awkward growing pain stage of your employment.
+
+<strong>JAMES:</strong>  I think that makes sense like on projects I've been on for a really long time, only it is that I'll slip into some kind of rhythm but then I'll find something usually external that inspires me in some way. And it will get me to come back and take a fresh look at the project that I'm on and the parts of it I've gotten used to and be like, “Oh, why is that that way? That’s dumb. If I re-architect that, I can make a lot of things easier,” or whatever.
+
+<strong>STEVEN:</strong>  Yeah. I would say that probably because consultants change a little more often than the project team, they are not immune but they’re a little less likely to get burned out than the people who’ve been working on the same project for four years or so.
+
+<strong>JAMES:</strong>  Yeah. I will tell you that’s one of my major motivations for being a consultant is just that like, it never really bothers me if I'm not super deeply connected with the specific thing or the app I'm working on now does because I know over time, that will change. But the clients I've tend to stick with for long periods of time are ones that have kind of a broad scope and are solving lots of different problems so that it keeps me interested and I don’t get stuck in a rut. I get worried but just working on one site over and over again, I would burn out, I feel like.
+
+<strong>STEVEN:</strong>  Yeah, I think that’s a hard thing to do. I found that’s a very hard thing to do as a full-time employee, is you tend to get pigeonholed. So, to try and work to not get stuck in a rut takes a lot of effort. Whereas if you’re moving, even if you’re full-time, but moving in between projects, you’re less likely to be said, “Oh, you’re the guy for this. We’ve got another bug come up. We need you to go back here and do this. We need you to do this. We need you to do that,” versus being able to try on new technologies. Ruby, again, seems a little more welcoming in trying out new technologies as opposed to some of the other environments that I have seen, and so, to help keep that rut from necessarily being dug into as much.
+
+<strong>JAMES:</strong>  That said, I think it was mainly Adam on that episode that changed my mind about thinking about some of that. And that if you have a company like LivingSocial which Adam works for, what we see on the outside is that they have a daily coupon deal website. But that’s obviously a very shallow description of what they do all day. They have teams that work on various parts. I'm sure they have tons of internal tooling with various systems for this and that. And they're developing other things and trying them and stuff. And so, that said, I think now I understand how people in those longer term positions get that variety that I crave.
+
+<strong>STEVEN:</strong>  Yeah, if you got a bigger company like that as well where it’s easier to move around, I absolutely agree. And that’s where it’s like it’s almost a project-level scope versus a company scope.
+
+<strong>CHUCK:</strong>  One other thing that I could see that really would pay off for somebody that’s either on a project long term or with a company long term is that you really are there long enough to make a dent. I mean, I go in as a consultant to not work on something. I worked on one project for a year where I was consulting on it. I got things up to where the guy wanted it. But a lot of times I feel like I'm in and out before I can really make some of the meaningful changes that I want to make. And I can see where if you find fulfillment in that kind of thing where it’s I can influence the organization, I can influence this project where you're on it for two or three years, you really can make a big difference as to how it’s run and what it’s about.
+
+<strong>STEVEN:</strong>  I do think you get to see that more. I would say good consultants even if they’re only there for three or six months have that effect. The catch is they probably don’t necessarily see the effect because it takes a little longer to show through, especially after they’ve left. So, unless you’re keeping in contact with some of those people you’ve worked with, you may not be able to say that. Or you may not be able to see the effect that you had until you touch back base with some of the people you worked with.
+
+<strong>CHUCK:</strong>  Well, I've also worked with a few small startups that it seemed like they made forward progress while I was there. And then, in spite of any training or help that I gave them, they didn’t make much forward progress after I left. And if I had been there for two or three times as long, I think I could have made more of a difference.
+
+<strong>JAMES:</strong>  That’s a common problem in teaching chess. I've actually taught chess lessons to students and then they're analyzing the board and they explained to me out loud the thinking of what they should be doing right now. And then they reach down and make a move that does none of those things.
+
+[Laughter]
+
+<strong>JAMES:</strong>  It’s a strange mental block we have between being able to know the rules and apply them or something. And now, it’s a very funny thing. Everybody makes that mistake, I think.
+
+<strong>STEVEN:</strong>  I think that comes back to Josh’s great metaphor, being a teenager. I think you have the teenager cycle in your development life cycle but I think you also have those little slumps for any position you’re on. It’s just depending on how long you’re here and how much you notice it.
+
+<strong>JAMES:</strong>  I personally appreciate the value of the person that’s been there a long time in the area of domain knowledge. That’s the one thing, in my opinion, that’s really hard for the consultant to compete with. Because like in my current project, I am a consultant but the person I work most directly for, they’ve been doing this for many, many, many years. And so, it’s really funny when they ask for something from me because they will often tell me, “Here's what we could use and I don’t want to tell you how to do your job. But if you're like me, your first instinct is going to be to go this way. And I just want to warn you, here's the problems you can run into if you try that,” which is super great because it keeps me from stepping in a lot of potholes.
+
+<strong>STEVEN:  </strong>Yeah, I think the domain knowledge, and I think that’s part of that growing out of it and understanding it, is as you’re there longer, you start to get that better domain knowledge and know, “Here’s the traps and here’s the pitfalls and pratfalls and everything else.” I do think the good consultant, as you say, can come in and say, “Well, is that really a trap or is that just the way you’ve always done it and you’ve become immune to it?” So, do we take five hours and go clean this part up and make a huge impact type of thing.
+
+<strong>JAMES:</strong>  What do we feel about the ability of the consultant to change the culture? I had a discussion recently about a board that runs a company that doesn’t have a very positive view of pairing, for example. And so, they just see it as a numbers game. And so, from their point of view, if I assigned two programmers to some task, that means that costs twice as much and I get half as much done because I can split them up and have them doing two different things. Whereas I think as an industry, we mostly know that’s pretty false. [Chuckles] And so, I was talking about the idea of bringing in a consultant who is kind of a pairing expert to show the value of -- like, one thing where I think it could really help this particular company is that the system they have is very big, lots of pieces, lots of moving parts. And so, what you have is particular knowledge ends up in one person’s head because they worked on one particular part and they haven't touched the other parts recently/at all. And so, it’s hard to spread that knowledge around which then means when we’ve got some block or issue somewhere, either (a) somebody who really doesn’t have that knowledge has to go in there and see if they can puzzle it all out, or (b) you’ve got to wait on that particular person to become available with free cycles again. And I argued the value of pairing in spreading that knowledge around and putting it in different people so that then you could more easily respond to things as they come up. And this is one case where I feel like consulting could change the culture of that group for the better.
+
+<strong>KATRINA:</strong>  I think one of the really difficult things with changing the culture is that nobody likes a revolution. And so, if you come in and you dictate changes, the culture is not going to change [inaudible]. They might make some changes for a short while but then, as soon as the person is no longer there to dictate the behavior, everyone will revert. Whereas someone who’s really good at affecting culture will come in and ask challenging questions that have people on think deeply about why they choose to do different things or debate deeper on underlying issues and perhaps force people to go find facts to back up their opinions. And that’s a really hard thing to do.
+
+<strong>JOSH:</strong>  I've been thinking about these models of consulting relationships in sort of archetypes of fictional characters. And a lot of what I hear is they're sort of the music man model of the consultant. You have the guy who just comes to town and is selling some flavor of steak oil and is going to come change your culture and make everyone magically able to play musical instruments. And everybody’s seen that or at least heard first hand of someone who’s had to deal with that. And then there's the Kung Fu model of Kwai Chang Caine quietly wanders into town, sees something that needs fixing and does his best to fix it. And in doing so, provides a model that everyone in town can learn about doing the right thing. We got these little morality plays all the time. And then you have the A-Team versus the Magnificent Seven. [Chuckle]
+
+<strong>JOSH:</strong>  The A-Team is the team that already exists and they’ll just come in and fix your problem [inaudible] of collateral damage. And then you have the Magnificent Seven who’s the custom-assembled team who’s going to come in and solve your problem because they're just the right people for it.
+
+<strong>JAMES:</strong>  Are we starting the programming jokes website right now?
+
+[Laughter]
+
+<strong>JOSH:</strong>  Works for me. That’s just what I came up with in the last minute.
+
+<strong>JAMES:</strong>
+
+[Laughs] I love it. It’s great.
+
+<strong>JOSH:</strong>  But I wonder if it’s useful to characterize stuff that way. I had fun doing it but I don’t know how useful it is.
+
+[Chuckles]
+
+<strong>JAMES:</strong>  I've definitely seen those things and I think Katrina is real right on about how hard it is to change culture and actually that exact case was kind of thrown back at me in the scenario I was describing. I think you have to be kind of more subversive than that in some ways to see the value of it. You have to bring in the pairing person, do a little pairing and then somehow, you have to make the others recognize the value of that. The, “Look, isn't this great? We actually both know this part now and we could both change it,” or whatever. We have to find some way of spreading that word which is, I admit, very difficult.
+
+<strong>STEVEN:  </strong>And from the other side, I think the subversive is needed due to the fact of if they’re pulling you in and expecting you to program, I’ve seen too many times where they silo off the contractors. Do not disturb them. They’re highly valuable. They’re being paid an exorbitant amount of money. So, why are you sitting there distracting them?
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>STEVEN:  </strong>Like, “Do they need to go to the meeting?” “No, they’re the contractors. We want them busy working.”
+
+<strong>JAMES:  </strong>Yeah.
+
+<strong>STEVEN:  “</strong>But you guys have to come to this meeting.” Whereas, if you’re more subversive, it may be more of the, “Well, you’ve had the domain knowledge. Why don’t you work me through this knowledge,” versus, “Not only is he going to do it, I’m going to do the same job as James. So, wait. We’re now paying a contractor and a regular employee to do the same job.”
+
+<strong>JAMES:</strong>  That gets back to what you were talking about earlier, the value of contractors as mentors and educators and stuff. Something like pairing, especially, can be a great opportunity for that exchange of ideas to happen.
+
+<strong>STEVEN:  </strong>Yeah, I think the trick is trying to get it done without going into that mindset with management and other people who are paying the bills of giving the same argument of, “Well now, we have two people doing the same thing. But one of them is a contractor which is even more expensive,” even though that’s why you brought the contractor in.
+
+<strong>JAMES:</strong>  Right. Or we don’t want the contactor teaching that person because the contractor costs a lot of money. We’ll have our normal person teach that person but then that exchange of ideas may not be happening as well.
+
+<strong>CHUCK:</strong>  Alright. Well, it’s been a pretty good conversation. It sounds like we’re kind of winding down. Should we get into the picks?
+
+<strong>KATRINA:</strong>  Sure.
+
+<strong>JOSH:</strong>  Sounds good.
+
+<strong>JAMES:</strong>  Do it.
+
+<strong>CHUCK:</strong>  Alright. Katrina, since we’re going to miss you terribly, why don’t you go first?
+
+<strong>KATRINA:</strong>  I have so many picks. I'm only going to pick three though. I've been saving them.
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>JOSH:</strong>  Katrina, you can have my pick slots this week.
+
+<strong>JAMES:</strong>  Picksplosion, go for all!
+
+<strong>CHUCK:</strong>  Yeah, do it.
+
+<strong>KATRINA:</strong>  Okay. So, the first pick is Omakase Charity. Theresa Preston- Werner started a company specifically addressing the problem with tech people who have a lot of money but don’t give to charity because so many charities are just really bad at spending the money well, you never know where it goes. You hear about them on the news later that it was actually going to pay for expensive meals for very important people. And so, what Theresa did is start a company where she and her team do all of the research about which charities they think are good charities to give to. And what you do is you just give Omakase Charity $10 or $25 or $50 a month and they give your money to whoever they choose. And they're very metric-driven and they're very specific about choosing small goal-based, transparent, comprehensive charities. And so, they make sure that your money goes to a good place. Omakase Charity is also very transparent about where the money is going.
+
+<strong>JOSH:</strong>  Katrina, there's two quick questions on that. One, do you still get the tax right off for making the donation through them?
+
+<strong>KATRINA:</strong>  You know what? I don’t know. I'm assuming yes but don’t quote me on it.
+
+<strong>JOSH:</strong>  Okay. And then, the second question is, does this insulate you from getting all of the requests for more donations…
+
+<strong>JAMES:</strong>  [Laughs] I know, right?
+
+<strong>JOSH:</strong>  From the other charities?
+
+<strong>KATRINA:</strong>  If it does, that’s like even better, right?
+
+<strong>JOSH:</strong>  Yeah.
+
+<strong>KATRINA:</strong>  I don’t know. I'm working on disentangling myself from some of the existing places that I've been giving so that I can give it all to Omakase.
+
+<strong>JAMES:</strong>  But still, it’s really awesome.
+
+<strong>JOSH:</strong>  Yeah.
+
+<strong>KATRINA:</strong>  Yes, it’s really awesome. My next pick is kind of just a fun pick. It’s Hacker Factor’s Gender Guesser. You put in a writing sample and then it guesses the gender of the person who wrote it. And I'm very pleased because the verdict is that I'm male which is going to be very, very good for my career.
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>KATRINA:</strong>  But my third pick is a book called ‘Multipliers’ by Liz Wiseman and Greg Mckeown. I'm not quite sure about the pronunciation of that. It’s a business book; it’s not a technology book. It talks about different types of leadership, talks about how some people can come into an organization and everyone gives more, becomes smarter, is feeling engaged. And as a team, they achieve more. And then other leaders will come in and hire a bunch of smart people and then not let them do their job in many ways. And so, this book talks about a lot of the patterns that they’ve seen as they’ve looked at a lot of these different types of leaders and very specific about the behaviors that they have and how you might be able to emulate the better leaders and get rid of some bad habits. It’s been a very, very interesting book. If I keep going, am I going to keep going? Picksplosion?
+
+<strong>JAMES:</strong>  Go for it, you're on a roll.
+
+<strong>CHUCK:</strong>  Keep going, yeah, do it.
+
+<strong>KATRINA:</strong>  Alright. HowToBakeAPotato.com.
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>KATRINA:</strong>  [Chuckles] If you’ve ever wondered how to get the perfect baked potato and you’ve failed at it, now you no longer have to fail because HowToBakeAPotato.com tells you how and it’s really, really easy. And then I have githug which is a project that helps you understand how to use git which I thought was really cute. Let’s see. One more, King James Programming. It’s a tumblr. It combines -- oh dear, what's it called? Markov chain, yeah.
+
+<strong>JOSH:</strong>  Yeah. We used to call this Travis de-generators.
+
+<strong>JAMES:</strong>  [Laughs]
+
+<strong>KATRINA:</strong>  Yes, exactly. It’s brilliant. It combines markup change from the Bible and very well respected programming literature. And it’s pretty funny.
+
+<strong>STEVEN:  </strong>I think it’s ‘Structure and Interpretation of Computer Programs’.
+
+<strong>KATRINA:  </strong>Yes.
+
+<strong>STEVEN:  </strong>The Harold Abelson MIT intro book.
+
+<strong>JAMES:</strong>  That’s awesome.
+
+<strong>KATRINA:</strong>  Yes. I think so. Okay, that’s all I've got today.
+
+<strong>JAMES:</strong>  So awesome.
+
+<strong>CHUCK:</strong>  Awesome.
+
+<strong>JOSH:</strong>  I'm going to jump in. I have one really quick pick. This is all I'm doing this week and that’s in response to How to Bake a Potato, it’s BaconMethod.com.
+
+<strong>JAMES:</strong>  Bacon Method?
+
+<strong>JOSH:</strong>  Yes. [Chuckles] This is how to make perfect bacon by baking it in the oven. And I believe the person behind this site, yes, Dan Benjamin.
+
+<strong>CHUCK:</strong>  It is a Dan Benjamin?
+
+<strong>JOSH:</strong>  Yeah, Dan Benjamin telling the world how to make perfect bacon. So, I'm done.
+
+<strong>CHUCK:</strong>  That’s awesome. James, you have any picks?
+
+<strong>JAMES:</strong>  Yeah. In the spirit of what we’re going to miss from Katrina. She always has this ridiculously practical picks. Like awhile back, it was the How to Make Eye Contact with the right amount of eye contact and How to Bake a Potato. And way, way back, a long time ago, she had a cooking one that was about how to tell if a pan is the right heat when you're heating it up. And I watched that video and it was like mind-blowing to me. It was one of the coolest things I have ever seen. So, I went in and was immediately just explaining to my wife this unbelievable knowledge I gained. And it turned out she knew this all along. We’ve been married for like 15 years at the time and she had never told me. So, I was heartbroken. And my pick is also a Katrina pick actually because she picked it several episodes ago and I actually went and read it. And it was an absolutely great book. So, I'm going to pick it again to encourage people to go do what I did and read it. It’s a book called ‘So Good They Can't Ignore You’. And it’s really great. Katrina brought it up on about how it kind of tears down the passion hypotheses like ‘follow your passion’ being pretty bad advice to give someone. It talks about that. And that’s just one part of it which is great until I changed my mind. But the rest of it is, what do you do once you’ve come to that realization? Once you realize that it’s bad advice, what do you do? It touches on many areas from goal selecting, mission statement, marketing, et cetera. It touches on all of that. And some of them is a lot of really great concepts or maybe even just great ways to think about these things that make them easier to just stuff them in your head, in my opinion. A lot of good ideas kind of got picked up in Amy Hoy’s 30x500 are kind of restated in here and I think I like the form of them in here a little better. It’s just a lot of great ideas in here. Super cool book. If you want to know how to make plans and move forward and what you should be doing. It’s a really great book for that. That’s my only pick.
+
+<strong>CHUCK:</strong>  Awesome. I don’t have any picks this week. Steven, do you have any picks for us?
+
+<strong>STEVEN:  </strong>Yeah, I’ve got a few that I’ll rattle off real quick. So first, I checked. You guys haven’t been picked so I’m going to pick you guys. So, Ruby Rogues is my first pick.
+
+<strong>JOSH:</strong>  Wait! Can you do that?
+
+[Laughter]
+
+<strong>STEVEN:  </strong>I just did it.
+
+<strong>CHUCK:</strong>  Apparently.
+
+<strong>JOSH:</strong>  Man! All this time, we should have been bringing in somebody from the outside to pick us years ago. [Chuckles]
+
+<strong>STEVEN:  </strong>I feel very [inaudible]. Second pick is Goodreads. All these talks of the books that you guys recommend throughout the thing, throughout all the different shows. Goodreads is an online bookshelf tracking. I think a number of you actually have accounts from stalking and seeing if you guys are on there. If anybody wants to add me, I’ll give the link for the show notes. But it allows you to add your books, track progress, figure out how many books you’ve actually read, what year, and in a year, and things like that. Another pick is f.lux. I’m assuming that’s how you pronounce it. And it goes with an anti-pick of the blue electronic lights on all the electronics now. So, f.lux will actually change your monitor colors depending on the time of day. So, it takes a lot of the blue out of your monitor after dark. It takes a while to get used to, but it’s something I found for working in the evenings. It helps turn my brain down a little more than that bright blue light that glows, sitting in the dark room. And then just a few other hero picks is LaVar Burton with his Reading Rainbow and Jim Henson with The Muppets. So, just a shout-out to that era of entertainment and growing up. And then I’ve got one kind of selfish pick, is I’m starting a podcast on my own. It’s called Functional Geekery. So, I’m going to try and interview people about functional programming and how that integrates with the object-oriented and trying to cover a bunch of different topics and languages from JavaScript to Clojure to Erlang to Haskell if I can figure out who to get on from Haskell, and topics like that, hoping to run a gamut of one-on-one conversation about different languages. So, those are my picks.
+
+<strong>JAMES:</strong>  Awesome.
+
+<strong>CHUCK:</strong>  Awesome. Alright. Well, before we wrap up, I just want to remind everybody, we will be talking to Brian Marick about Functional Programming for the Object-Oriented Programmer next week.
+
+<strong>JAMES:</strong>  And go get a t-shirt.
+
+<strong>CHUCK:</strong>  Go get a t-shirt. Booster.com/RubyRogues and we’ll put links to both of those in the show notes.
+
+<strong>JAMES:</strong>  Time’s running out.
+
+<strong>CHUCK:</strong>  Yup. We've sold about 65 to date. So, we need another 35 to reach our goal.
+
+<strong>JAMES:</strong>  Come help do that.
+
+<strong>CHUCK:</strong>  Yup. Alright. Well, we’ll wrap up the show then. Thanks for coming, Steven.
+
+<strong>STEVEN:</strong>  Thank you, guys, for having me. It was an honor.
+
+<strong>CHUCK:</strong>  Alright. We’ll catch you all next week.

@@ -1,0 +1,547 @@
+---
+layout: layouts/post.njk
+title: >
+      RR 312 How to Handle WTF's
+date: 2017-05-30 04:00:07
+episode_number: 312
+duration: 49:52
+audio_url: https://media.devchat.tv//ruby-rogues/RR_312_How_to%20_Handle_WTF%27s.mp3
+tags: ruby-rogues
+---
+
+<hr />
+
+<h2 style="text-align: center;">How to Handle WTFs</h2>
+
+<hr />
+
+On today’s episode of Ruby Rogues we are chatting about WTFs. On our panel we’ve got Dave Carmona, Brian Hogan and I’m Charles Max Wood. We talk a bit about some of the recent WTFs we’ve encountered and some of our tricks for handling it, including talking to a Rubber Duck. It’s a fun episode so check it out!
+<h4>WTF’s in Two Flavors</h4>
+Charles starts out the episode inquiring to the panel about two different kinds of WTFs. The whats and the whys. WTFs that happen and developers don’t understand what the WTF is, and then on the other hand WTFs that happen and the developer doesn’t know why it’s happening.
+<h4>Unreadable Perl and the Rubber Duck</h4>
+David talks a bit about how hard it is sometimes to read and understand what is happening with Perl code, even if you wrote it yourself. Sometimes debugging Perl codes many years later, running into syntax errors end up being a ‘Why’ WTF. He introduces a method to use for ‘Why’ WTFs that he calls the ‘Rubber Ducky Debugging’ method. The ‘Rubber Ducky Debugging Method’ is when you place a rubber duck on your desk, and when you encounter a WTF you can simply talk through the issue to the duck to help you think through your issue. Brian and Charles add that this method works fine with real people as well and have done it many times with their wives, even for issues that don’t involve code.
+<h4>Blaming it on Past Brian</h4>
+Brain mentions that sometimes when working with someone else’s code, it’s easy to blame the previous developer. Unfortunately in his case, Brian finds that “Past Brian” has often been the culprit.
+<h4>Dave and Code he Doesn’t Understand</h4>
+When encountering classes that are really big with many different methods, find the entry point. If it doesn’t have a traditional initializer or call method for the entry point, you can look around other relevant parts of the code to try and figure it out. Sometimes if it’s obfuscated, you can go through variables and rename them to more relevant names to identify what they are doing to help understand the method at hand.
+<h4>Puts Debugging</h4>
+<a href="https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html">Aaron Patterson had written an article on his blog</a> about ‘Puts debugging’ that turned Dave onto the the untraditional debugging method. Dave will sometimes write a separate debugger class to separate puts into a different log to keep it organized.
+<h4>Brian’s Version of Puts Debugging</h4>
+Brian mentions that when working on a rails application he will sometimes <code>raise</code> the object he wants to inspect. Errors in Ruby are often something you wouldn’t expect and being able to quickly inspect the object using <code>raise </code>.Using raises the whole stack including the object, session, and cookies , etc.
+<h4>Dave’s Ruby Lifesavers</h4>
+Dave also adds that adding the gems to your development <code>better_errors</code>, and then en <code>binding_of_caller</code> are lifesavers. It allows for a more interruptive session with raised errors. Also, in Rails 4 the console feature was added, allowing you to tweak things and play around to debug. Also, <a href="http://pryrepl.org/">Pry</a> is really useful for loop through and investigate. Dave also notes that Pry, while being a great tool, can sometimes be a bit annoying if you have a large number of loops.
+<h4>Crazy Bug Story - Brian</h4>
+Brian talks about how in Elixir the declaring of methods is very similar to Ruby but at the end of <a href="https://elixir-lang.org/">Elixir</a> method calls you add keyword <code>do</code>. If you do this in Ruby, the interpreter’s error message is unusual and doesn’t give any information that helps you find the issue, making it very hard to find the issue. This could be very time consuming for the debugger. He adds that having a second pair of eyes helps with issues like these.
+<h4>Crazy Bug Story - David</h4>
+David talks about working on a personal project late into the night. Using <a href="http://www.rubydoc.info/gems/rails">Rails 5.1.1</a>, he thought that maybe his issue with the enumerators. He considered that maybe the issue was with Rails 5.1.1 being that is newer. To test to find out if he caused the error, he recreated a simple bit of code that uses enumerators and saw that it worked, then created the same project in 5.1.1 and it also worked, concluding that he created the issue. Later he found he declared the datatype for the enumerator as a string instead of an int. Brian added that creating a fresh application to test for errors is a great way to start debugging, in comparison to immediately to asking others what the problem might be. This method of checking can have a quick pay off if the code is simple. Also, creating new applications to test gives a great foundation of knowing that the problem is in your own code.
+<h4>Crazy Bug Story - Charles</h4>
+Charles’ bug was something he encountered in his podcast feed application he created in Rails 4. Charles didn’t read the error message very well so he tried it debugging it with Puts Debugging. It’s turned out that he was using a <code>strftime</code> method that he had accidentally formatted the string wrong, using -’s instead of /’s.
+<h4>Characterizing with a Test</h4>
+In issues like Charles’ you can take input that’s going into a method and then setup an integration test. Tests like this can be made fairly quickly. By copying and pasting the input parameters into a test like a <a href="https://github.com/teamcapybara/capybara">Capybara</a> test, then you can get a better idea of where the issue actually is.
+<h4>Creating the Error to Fix the Error</h4>
+Brain mentions that sometimes when he has a specific error, he will try to write a new set of code that reproduces the issue. Then from there he will try to ‘break’ the broken code in efforts to find a debugging solution in the original code.
+<h4>Making your Production Environment The Same as Your Development Environment</h4>
+If you’re using something like caching in your production environment, make sure it is set up in your developmental environment. Debugging caching issues can be some of the most complicated bugs to fix. If you set up your environment to be the same it helps. If you need to start the caching over during development or tests, it’s as simple as a CLI command. When you’re doing feature tests, if you do it with caching enabled, you can use <code>timecop</code>. <a href="https://github.com/travisjeffery/timecop">Timecop</a> allows you to essentially time travel to test timing issues without having to wait.
+<h4>Favorite Development Tools</h4>
+Some of the panelist’s favorite tools are <a href="http://pryrepl.org/">Pry</a>, <a href="https://github.com/banister/binding_of_caller">binding_of_caller</a>, <a href="https://github.com/charliesome/better_errors">better_errors</a>, <a href="https://rubygems.org/gems/konami-fo/versions/0.0.3">Konami</a>, and <a href="http://www.sinatrarb.com/">Sinatra</a>. <a href="https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US">Google Chrome’s RailsPanel extension</a> Works like <a href="https://github.com/MiniProfiler/rack-mini-profiler">MiniProfiler</a>, but digs in further. By adding this gem to your development environment and running it on Chrome, it shows you all the requests that come through, the controller in action, and lists out all the parameters, as well as active record calls and errors.
+<h4>Favorite Production Tools</h4>
+Brian suggests using any tools available to capture exceptions and error messages. Capturing these issues before the user contacts you makes recreating the issue and debugging it a lot easier. Dave mentions using <a href="https://newrelic.com/ruby">New Relic</a> to capture performance of application as well as error notification. With New Relic you can adjust the notification threshold and give it actions like sending it to a <a href="http://slack.com/">Slack</a> channel. Then use something like <a href="http://sumologic.com/">Sumo Logic</a> to concatenate and combine the logs if it’s coming from various servers.
+<h4>Shipping Logs Off</h4>
+<a href="http://www.fluentd.org/">FluentD</a> can be used to ship off logs to analyze. In some cases management won’t be okay with shipping things off. Doing things internally can sometimes be too much and using a third party aggregation tools can be helpful.
+<h4>Some Tools Can Be Heavy</h4>
+Sumo Logic applet is Java based and takes up quite a bit of space. Jenkins is also a Java setup and takes many parameters to get running. In some cases with smaller applications, applets like Sumo Logic can take up more space than the application. Trying to parse multiple servers can be daunting and will definitely need a centralized logging option.
+<h4>Other Logging Tools</h4>
+<a href="http://elastic.co/">Elastic.co</a> and <a href="https://www.elastic.co/products/logstash">Logstash</a> are other logging tools. They have integrations with tools like <a href="https://hub.docker.com/">Docker</a> and <a href="https://www.elastic.co/products/kibana">Kibana</a>. If you can roll your own logging tools then great. But it’s usually time consuming and takes resources.
+<h4>Getting Information from People and Assume It’s Wrong</h4>
+Charles mentions that in some cases, especially in cases where something you’re using is dated, resources can be limited to get information on a bug you’re having. Brian suggests that when this happens, getting information out of people is a good place to start. Also, when getting information from people, assume that it’s wrong. People tend to have a pretty poor recollection of what happened. You can sometimes take what they say and compare it to the logs to create tests and logically work out how something has happened. Users will sometimes leave out things like accidentally leaving a field blank, or hitting backspace, or something simple. Extracting information from the users to get relevant information is a skill. Sometimes the best way to get information from a user is to just watch them use the application. Sometimes they will use the application in ways unexpected. Approaching the problem with “Let’s fix this together” helps with getting the client to help.
+<h4>Getting Access with Production Data</h4>
+David mentions that If there is an issue with the production side of things, pulling data down into your own database and your own separate testing environment can keep it safe while debugging. If you’re able to recreate the issue than most likely it’s an application issue, otherwise it’s something to do with the environment like caching.
+<h4>Safely Percautions of Having Client Data on Your Computer</h4>
+If you’re pulling data down, you should absolutely have your devices encrypted. There is no reason not to. Also when pulling data down, you can create a mirror of the data dump. There are systems that dump data that will also obfuscates or remove particular information including personal information like emails.
+<h4>Troubleshooting ActionCable: Step 1 - Cry in a Corner</h4>
+David tells how he was troubleshooting an <a href="https://github.com/rails/rails/pull/22586">Actioncable</a> issue and his first step was to cry in a corner for 5 minutes. Afterwards he used Chrome Dev tools to trace back the code’s method where it was getting declared. Sometimes if an application is complicated it can be running many moving parts and be difficult. When debugging something complicated start at the browser level. Check for connection then try pushing a message in the console. If you get it then you’re connecting but not broadcasting. If you have a complicated subscription model for authorizing a channel, it can be even harder, again start with checking to see if it’s connecting.
+<h4>tail -f | grep ‘exception’</h4>
+Charles remembers a simple way to watch for issues while debugging. A simple use of <code>tail -f | grep ‘exception’</code> tails the logs and shows only the exceptions. You can use this along with Put debugging by putting the word in all your puts.
+
+<hr />
+
+<h3>Picks</h3>
+<h5>Brian</h5>
+<a href="http://learningmusic.abelton.com/">Learningmusic.abelton.com</a>
+<h5>David</h5>
+<a href="https://github.com/dejan/rails_panel">RailsPanel</a>
+His new 5 foot long 12 plug power strip
+<h5>Charles</h5>
+<a href="https://build.microsoft.com/">Microsoft Build</a>
+<a href="https://www.dotnetrocks.com/">.Net Rocks Podcast</a>
+<a href="http://livinlavidalowcarb.com/blog/tag/podcast">Ketogenic Diet &amp; Livin’ La Vita Low Carb</a>
+<a href="http://rubydevsummit.com/">Rubydevsummit.com</a>
+
+<hr />
+
+<h3>Transcript</h3>
+
+<h2 style="text-align: center;">RR 312: How to Handle WTFs</h2>
+<strong>CHARLES:</strong>
+
+Here we go.
+
+[Music]
+
+<strong>CHARLES:</strong>
+
+Hey, everybody and welcome to the Ruby Rogues podcast. This week on our panel we have Dave Kamara.
+
+<strong>DAVE:</strong>
+
+How’s it going?
+
+<strong>CHARLES:</strong>
+
+Brian Hogan.
+
+<strong>BRIAN:</strong>
+
+Hello.
+
+<strong>CHARLES:</strong>
+
+I’m Charles Max Wood from Devchat.tv and this week we are going to be talking about what do you do when you run into WTF’s?
+
+<em>[Dear Ruby developer, are you sick and tired on working on crappy old legacy code bases? There’s got to be a better way. If you want to get a better job, here’s what you can do. Find a technology that’s really in demand. Build a side project using that technology. And then, use that side project and experience to get your next better job. I’ve done this myself several times. That definitely works! What I think that’s a really good technology right now is Angular. Angular is really in demand right now. That’s not going away any time soon. I have a free guide to getting started with Angular and Rails at angularonrails.com/rr. Good luck and enjoy this episode of Ruby Rogues.]</em>
+
+<strong>CHARLES: </strong>
+
+Now, I’m kind of get this started because this was something we talked about as a potential topic a couple of weeks ago. And I’m wondering when we talked about WTF’s, are we talking about WTF’s as in code we don’t understand? Or WTF’s as in “Why am I getting this error? I don’t know understand and I’m really frustrated about it.”?
+
+<strong>DAVE:</strong>
+
+I think both are, you know, are valid directions because especially if you’ve kind of written the code, I’m not sure if you’ve ever written Pearl, but Pearl is not meant to be read. It’s meant to be written.
+
+<strong>BRIAN:</strong>
+
+Also true but mean.
+
+<strong>CHARLES:</strong>
+
+No, mean is Javascript.
+
+<strong>DAVE:</strong>
+
+I’ve written some SAP and Perl. As an author of it, you should be able to understand what you wrote.
+
+<strong>CHARLES:</strong>
+
+Now, there’s an assumption for you.
+
+<strong>DAVE:</strong>
+
+But in Perl that’s just wasn’t the case, so a year later I have to go back and debug something. I’m like, “I have no idea what’s going on here.” But, then, you know, there’s also sometimes where I get a syntax error or a logic error, and I’m like, “Why?” What in the world is going on here? More often than not, after I give things a first glance, I resort to the Rubber Duck Debugging method.
+
+For those who don’t know, the Rubber Duck Debugging method is where you have a physical, little, yellow rubber ducky on your desk, and you talk to it like it’s a person. You explain your issue what’s going on, what’s happening, what it should be doing, why are you pointing out some code, just like you’re kind of doing a little screen share with the rubber ducky. Just the process of explaining it aloud to the duck, you kind of hit that moment of epiphany where you like, “Oh, that’s what’s going on.”
+
+<strong>BRIAN:</strong>
+
+It’s a fantastic technique and I’ve seen develop some people with that. My wife is not a programmer but she’s pretty technical person. I often have that same kind of discussion with her just sort of impassing like I’ll be away from work. And I was like, “Yeah, I was really struggling with this problem at work.” And she’ll say, “Hey, tell me about it.” And I’ll just start talking about it. In mid-sentence, I was like, “Never mind, I got it.” And I’ll run, take care of it. I think she probably would prefer I would use the duck more.
+
+<strong>CHARLES:</strong>
+
+I’ve done that before. Not just with programming problems either, like business issues, people issues, you know. And yeah, it’s the same thing. It’s so funny because I’ll come down and she’s looking at me. She has no clue what I’m talking about then I’ll say, “I got it. I got it.” And I just run off.
+
+<strong>BRIAN:</strong>
+
+And you occasionally hear the background, “Glad I could help!”
+
+<strong>CHARLES:</strong>
+
+Yup.
+
+<strong>BRIAN:</strong>
+
+But it is super helpful. You know, I’ve been kind of with those problems where you have both of those things. You don’t understand the code. And you’ll kind of hear a message that you don’t understand. I’ve been cornered that more than I care. And usually the culprit is this really terrible programmer named “Past Brian” because “Past Brian” has cost “Current Brian” a lot of frustration.
+
+Just with strange things, I don’t know, I think that sometimes… So it’s not really use to kind of point the blame in a previous developer. “Oh, that’s Bob’s code. Bob doesn’t work here anymore. Blame it on Bob.” Other times, in reality, a lot of times, I think a lot of problems that programmers encounter really are of their own making. So Dave, what do you do when you encounter some code you don’t understand?
+
+<strong>DAVE:</strong>
+
+Try to step through each… If we’re talking about Ruby, we’re talking about a class that is just really big with a lot of different methods. I think finding the entry point into that class is usually the first thing. So if it doesn’t have your standard initializer, if it’s not really clear with like a call method or something, then, you kind of point into… I would first try to find the other relevant parts of the application that is calling that to kind of see the entry point. From there, if things are really obfuscated. So it’s not very clear in plaintext like the method name. If you have a lot of xyz’s, i’s, ii’s, and stuff in there, then, that just starts to get really frustrating. But I may go through and start renaming some of the variables as I identify what they’re doing. And then, I will… I’m a big fan of puts debugging. So I read up an article about that and that really fix my code. That’s how I like to debug.
+
+<strong>CHARLES:</strong>
+
+I do that all the time too.
+
+<strong>BRIAN:</strong>
+
+I do that constantly and I’m afraid someone’s going to yell at me for not using like prior or proper step or something like that. Now, that works, man. It’s faster sometimes. I’m glad I’m not alone. That’s awesome.
+
+<strong>DAVID:</strong>
+
+More often than not, working on Ruby on Rails application and using puts debugging, while tailing your development logs, is really painful. So I’ll sometimes write a separate debugger class that actually logs into separate file. And then, I’ll tell that file. So I’m putting in the puts in there, in the application, we freshen the page or whatever. I only see the relevant code I want to see. So that’s been a big time saver and helper rather than parsing through ugly logs.
+
+<strong>BRIAN:</strong>
+
+Yeah, I know when I’m working in a Rails application, I’ll do… It’s not necessarily puts debugging but I put it in the same category. I would just literally raise whatever object - .inspect.
+
+<strong>CHARLES:</strong>
+
+I did that yesterday.
+
+<strong>BRIAN:</strong>
+
+Yeah, I do that a lot because that’s… “Hey, that’s the object I’m looking.” Almost all the time in Ruby, for me, one of the errors that I encounter is it’s giving me back something I’m not expecting. It’s one of the errors that you think, oh yeah, that shouldn’t be a problem but it happens way more often than it should. Why am I getting that instead of this? Oh because I programmed it wrong or something. But it’s nice to be able to just really quick inspect that object.
+
+And yeah, sometimes I have the controller file open or I have the view open already, I guess I could do it a different way but it’s quicker to just type the word “raise” in front of the thing. And I get the whole stack and not only do I get the object. And kind of in the object, all display out but I get to see the session, the cookies, and everything else over there too. It’s pretty old school debugging. Not fancy but sometimes it works really well.
+
+<strong>DAVID:</strong>
+
+And another thing, if you’re working in a Ruby on Rails application, adding the gems to your development group, binding the color, and better_errors. I’m sorry, better_errors, and then, binding the color. Those are life savers. It’s a much… I would say, much more interactive session when an error is raised. You’re able to see where the error has been raised. Then, it gives you a console where you’re be able to type in and you know, check things out. I think the new Rails 5… I forgot when they added in the web console. But I know now, it would just center Rails error when that’s raised. Also, there’s a web console where you kind of tweak things and play around with.
+
+<strong>CHARLES:</strong>
+
+And I think they put that in Rails 4.
+
+<strong>DAVID:</strong>
+
+Yeah but I’m also a big fan of binding.pry. I just kind of really need to loop through and try to figure something out. A binding.pry is really nice but it’s also one of those really annoying things where I often resort to the puts debugging. Because if you have a loop of 100 items, binding.pry is going to get really annoying. You put yourself right there in the middle of the loop. But you know, it’s not too bad. Other what are some of the craziest errors that you guys have experienced?
+
+<strong>BRIAN:</strong>
+
+I can volunteer. I spend an hour on this. I have been working with Elixir and Ruby. And in the syntax for a few things like declaring methods is pretty similar. The only difference in Elixir is after you specify the name of the function and your arguments, you put the keyword “do”, kind of like what you’re doing in Ruby block. If you do that in Ruby, you define a method within Ruby, Ruby’s interpreter gives you a relatively difficult to decipher error message that doesn’t have anything to do with the mistake you made. It’s a little tricky to figure it out. So if you’re not actually looking for what you did wrong, you don’t actually catch it. You might find yourself spend like an hour like I did trying to figure out until someone else looked at my code and said, “Hey, you have a do there. And you’re not supposed to have that.” That’s just one of those things where getting a second pair of eyes to look at something after you’ve been staring at it for a while is a really great way to shortcut the time you spent.
+
+<strong>DAVE:</strong>
+
+Yeah, absolutely. Yeah, so I’ll admit mine that I had last time. It was 2am and I was working on a personal project. It’s usually Rails 5.1.1 so I thought that I had sampled across a bug… with the numerators of the model. So for the life of me, I couldn’t get to save the numerator even though I had it selected from the dropdown. My way around debugging was to you know, launch a Rails 5, new test app, you know, just create a simple scaffold with the numerator. Set the value. It saved. I saw the value in the database. We’re good.
+
+And then, I created Rails 5.1.1 application, just a simple test app and did the exact same thing. And it worked. So I did something completely wrong in my application. Luckily for me, at 2am, I’m already exhausted. The first thing I went and check is the database. It’s all that I had. My data type for the numerator is a string, not an integer. So that’s why it’s not working right but that was just a got-lucky instead of you know, trace back throughout the application. Definitely, that’s a frustrating one.
+
+<strong>BRIAN:</strong>
+
+Well, I think it’s really interesting the way that you went about debugging that. The whole idea of, “Hey, I’m going to create another project, a completely new project from scratch.” It’s kind of a very scientific method. You’re creating yourself this nice and clean environment to try and recreate the problem. That’s something that I don’t see a lot of developers try first. A lot of developers that I help, especially junior developers, and commonly they say, “Can you tell what’s wrong with my code?” And that’s one of the first things I suggest to them. Try creating a brand new app so you can eliminate any other dependencies. And see if you can recreate the problem there. If you can, then, you’ve got to dig deeper. But if you can’t, you’re going to go back. So that’s really cool that you used that same approach. I wonder how common that approach is.
+
+<strong>DAVID:</strong>
+
+Well, if you ever submit an issue to the Rails Github repo, I think one of the first things they ask, you know, “Hey, can you create a simple application with this. We already know what it reproduces.”
+
+<strong>BRIAN:</strong>
+
+I bet that really helps. That probably really helps them narrow it down because there could be hundreds of different conflicting gems at this point, and libraries that could be causing the problem.
+
+<strong>DAVID:</strong>
+
+Or just Edge cases that they just didn’t think of. So, yeah. But you know honestly, if it’s a simple issue like a numerator and a model, then, it’s very quick and fast. It took me, maybe 2 or 3 minutes to setup each instance of Rails application with that in there. I knew it’s going to be very quick and a rewarding effort because it’s going to tell me immediately that there is a bug in the Rails core or there is not. I’m an idiot or someone else is. It was a quick test and it definitely paid off.
+
+Then, I was confident and I think that was a lot of it is. Your level of confidence and where it could be. Is it in something that I created or is it something that someone else created? And then, reported to the appropriate team or party. And so at that point, after I created the applications, I was confident that the error is somewhere in my code. And that, you know, it really narrowed down where I was able to look.
+
+<strong>CHARLES:</strong>
+
+Yup. The thing that I was trying to fix last night… so I pushed up a new version of the feed app that I use to build the RSS feeds for the podcast. You know, it’s something that I cost to build a few years ago. It’s still running in Rails 4. And you know, I had another developer working on it and he has made some changes. And apparently, there was a bug in some of that. Yeah, I didn’t read the error message very well. And so, I just stepped through with the puts debugging. I probably should have characterized with the test but I didn’t. Anyways, it was pretty interesting just, you know, “Okay, it’s getting this data. What’s the problem then?” It turns out that I was doing a string print time, strip time, I call it. And I had the wrong format in it – formatting string is bad.
+
+<strong>BRIAN:</strong>
+
+That will get you. I heard you say that you should have characterized with the test. That is a technique that I bring on every once in a while. I’d like to hear more about how you employ that one – solving problems.
+
+<strong>CHARLES:</strong>
+
+Generally, if there’s some issue in the code, I’d like to put a test around it. And in this case, what it happened was the format of the date had been not specified quite right. And I’m not sure if the Javascript library I was using for the date picker had changed or you know, what exactly it changed. But it was using dashes instead of slashes. And what I really should have done is I should’ve just captured what was being sent, then, setup an immigration test that quickly verify that it handled that input exactly. You can write really quick test in a lot of those cases.
+
+In fact, I probably wouldn’t have needed to parameterize anything. It could just have gotten away by saying, “Well, here’s the module that tells that it has a parse date.” Basically, give it the date, you know. Just copy the date string out of the field and just send it in. But what that does is it validates my thinking, right? Especially, if I can copy and paste the input parameters, I get a much better idea about what’s actually being sent in. And then, there’s not the chance that I typo-ing it or making an assumption about what’s actually being sent because a lot of times when I type the input in, then, I’ll type in, “Oh well, this is what it’s getting because this is what I think it’s getting.” Instead of I can just, you know, copy it or sometimes you can find tools. You can pull the parameters out of the logs. And you get some really good ideas of, “Okay, this is what’s actually being sent. And I can just you know, lift the hash, drop it into copy bar test in Rails, and just run from there.
+
+<strong>BRIAN:</strong>
+
+Yeah, I’m going to ask you how you go back getting those these web consoles. Do you guys go the log, the running application, or do you raise an exception somewhere just to capture the POST request?
+
+<strong>CHARLES:</strong>
+
+I’ve done all of those. It’s just depends on where I’m at that day.
+
+<strong>BRIAN:</strong>
+
+I find a lot of value in that especially when I’m picking up an app from somebody else. “Here is a bug. Can you investigate this bug?” If there isn’t a test case for that specific scenario, I’ve sometimes actually created a test that tries to reproduce the error rather than creating a test that gives you the right answer. I created a test that reproduces the error, just walking through what’s happening. It’s easier for me to do that than it is than try to make the app do it, trying to get to the very stages of the app like logging in, setting up for an account.
+
+Now, on the more complicated apps, it can be kind of unsure to do that. So if I created a test case that proves that the error exists, then, I can sort of use that, say, change the code to break that task and change the test to fit the code. I’m not sure if anybody thinks like that. But it’s sort of a weird way that my brain works when I’m debugging things.
+
+<strong>CHARLES:</strong>
+
+You know sometimes it is easier to approach it from, “It should break like this,” than, “It should work like this.” That makes total sense to me.
+
+<strong>DAVID:</strong>
+
+Suggestion to the listeners, if you are already using something like caching on your production environment with your caching or any other, you know, Rails fetch kind of methods, also set that up in your development environment. If you’re using Redis or something like that, try to get your development environment to match your production environment as closely as possible because you may find that some of your caches are becoming stale when they should, and stuff like that. I have to debug caching issues. And those are pretty one of the most difficult once to try to figure out what’s going on in my opinion. It’s because you’re expecting one thing and something completely different that’s happening. And now, you have to figure out if it’s a caching issue or some other kind of logic issue within your code.
+
+<strong>BRIAN:</strong>
+
+That’s a really good point. I mean, I have spent… I will have caching. Because I’m doing the development, I don’t want the caching to happen in development mode. I make sure it’s off. And then, I find when I roll it in the production that there’s clearly an error where the caching isn’t being expired properly. It’s silly of me to have not run it that way at least at staging level. I get burned by that a couple of times. Now, as soon as I decide I’m going to use caching, I suck it up. It gets turn on in development mode and it stays on for the whole time. If I need to clear the cache manually or start things over, that’s a CLI command or script way to just clear things out. It’s a really good point.
+
+<strong>DAVID:</strong>
+
+To add on to that, if you’re doing your unit test, or the feature test rather, with the caching enabled, then, you can also use the timecop gem to kind of forward your… it does actually change your system but it makes your application think that it’s a later time. So when we call time.hour or something, it will return a future time. You can use timecop to move forward in the future to test to make sure that you are caching, you are doing kind of rush-it-all caching. Or maybe you have a blog post and you want to say that this comment was added 2 minutes ago. You know, 3 minutes later, it’ll just say that this comment was added 5 minutes ago. You can test or stuff like that to make sure that you don’t have some kind of caching issue.
+
+<strong>BRIAN:</strong>
+
+That’s a really good point.
+
+<strong>CHARLES:</strong>
+
+Yup.
+
+<strong>DAVID:</strong>
+
+You can tell that I ran into a lot of these things.
+
+<strong>CHARLES:</strong>
+
+So what are your favorite tools? I mean, we’ve mentioned better_errors and color. We mentioned pry. Are there kind of some go-to tools that you just install right off the bat on the Ruby app, Rails app, or even rack-based things like Konami, Sinatra, or something you just use as a go-to for this kind of debugging?
+
+<strong>DAVID:</strong>
+
+I use Google Chrome a lot. I’m not sure why. I have a lot of memory in my computers so it doesn’t affect me too much. But there’s a Chrome extension that allows you to… it’s basically like having many profile within your development tools of Chrome but it dig so much deeper what many profiler does. As I’m talking, I’m trying to find the name of it. I can’t think of it for the life of me. You all know, what I’m talking about? RailsPanel! So simple. I was supposed to link to that.
+
+<strong>CHARLES:</strong>
+
+I’ve never heard of it.
+
+<strong>DAVID:</strong>
+
+It’s really cool. It’s basically when you are developing and if you have it running, you do have to add a gem to your development environment but it gives you a layout of all the request that are coming through.  It shows you the controller in action, things that are getting cold, the time it took. It lists them out in a nice readable format – all the parameters.
+
+<strong>CHARLES:</strong>
+
+That’s nice.
+
+<strong>DAVID:</strong>
+
+And then, also the active record calls, any kind of rendering, or things that are getting cached, or logs or errors that are getting posted.
+
+<strong>CHARLES:</strong>
+
+Very cool.
+
+<strong>DAVID:</strong>
+
+It’s definitely a need thing.
+
+<strong>BRIAN:</strong>
+
+Sounds really useful.
+
+<em>[This episode is sponsored by compose.io. Compose is a fully managed database hosting with extra security scaling and performance. Posted on dedicated SSD servers, you can pick from highly available databases, MongoDB, Elasticsearch, Redis. Compose Enterprise comes with easy scaling, which you can add additional notes any time. It has auto-scaled resources like storage, memory and IOPS, RESTful API’s, central console to manage all your deployments, and premium support with guaranteed response time with priority ticketing. With Compose Enterprise, you can free up your time to focus on building your app instead of managing your database. Check them out at enterprise.compose.com. And if you try Compose, you get a free special edition t-shirt. Hurry, quantities are limited! That’s enterprise.compose.com.]</em>
+
+<strong>CHARLES: </strong>
+
+What about in production because a lot of these are things that, I guess you could run it in production but that doesn’t seem like a terribly good idea? Do you use like error monitoring, or things like that?
+
+<strong>BRIAN:</strong>
+
+Whatever tool is currently available on the project that I can use to capture exceptions. Now, that maybe Airbrake or it may be an open-source alternative to that. But capturing error mess ages so I know… by the time that user decides to contact me, I already know that it’s a problem. That’s so important to the apps that I run. It’s just a little bit of that. It gives me as much data as I can so I can recreate on staging environment.
+
+<strong>DAVE:</strong>
+
+Yup.
+
+<strong>CHARLES:</strong>
+
+Yup.
+
+<strong>DAVE:</strong>
+
+For me, I use of a variety of different tools to kind of catch production stuff. So fortunately but not unfortunately, even for my Ruby apps, I have several web servers all behind a load balancer. Where the actual error generated from, which server, you don’t really know. My servers are… and just run the script and recreate new ones as I need. It’s not like a persistent error. It would just be something that happens.
+
+I use New Relic. One, to capture just the performance of the application but they also have the error notification. And the error notification, I have it as a load threshold. So if an error does happen, then, it actually sends off to a Slack channel that identifies, you know, “Hey, you receive this number in a short amount of time.” Then, because I do have multiple web applications, I can’t just pull up a log file and search for the error because it could be in a different server. So you use similar logic to kind of concatenate and combine all of the logs from the different servers to one manageable place.
+
+<strong>BRIAN:</strong>
+
+I was working on a project once that we were actually using Fluentd and shipping the logs off to Fluentd so we could aggregate the logs together. That was really cool because it was an environment where we really didn’t feel comfortable shipping things off to an actual service. As cool as that is, it’s another thing to manage so I kind of recommend to do something like that internally if you have no choice. But use somebody else’s service, it will make your life easier if you do. I want to point that out because maybe some people are listening and they say, “Wow, we can’t manage RAM, stay cool, or whatever.” It doesn’t feel comfortable shipping all of our log data to somebody else.
+
+<strong>CHARLES:</strong>
+
+Right.
+
+<strong>BRIAN:</strong>
+
+You can set up things like Fluentd or other aggregation tools to ship all your logs off to somewhere else and then, do analysis on them.
+
+<strong>DAVID:</strong>
+
+I really do like Semiologic because they do have a free version. However, I think my biggest complaint about them is that they have an applet that you have to install. On its server, it’s Java-based. And I think it takes couple hundred of megabytes of memory to run. That’s kind of annoying but I deal with it.
+
+<strong>CHARLES:</strong>
+
+It reminds me a little bit of Jenkins. It was like, it has all these Java setup. And I remember, just fighting with it is like, oh well, you have to specify that it has more memory and all kinds of other crazy stuff, instead of just saying, “Just run this.”
+
+<strong>DAVID:</strong>
+
+So you know, on a couple of smaller applications, initially playing around with Semiologic. Semiologic, the log applet, took up more memory than the Rails application. That’s just ridiculous. That should not ever happen.
+
+<strong>CHARLES:</strong>
+
+Oh, that’s crazy.
+
+<strong>DAVID:</strong>
+
+But I think for the most part, other than a crappy UI that they have. Sometimes, I’m not a huge fan of it but I think the benefits outweigh, you know, just instead of having to parse multiple servers. 3-4 servers isn’t too much to manage but if you have 20 applications servers, definitely, you have to have some kind of centralized log store.
+
+<strong>CHARLES:</strong>
+
+Yup.
+
+<strong>DAVID:</strong>
+
+I think ElasticSearch has one or whatever, has now log stash. I haven’t check around that too much yet. It looks like open-source self-hosted. I think that does something very similar.
+
+<strong>BRIAN:</strong>
+
+Yeah, you can ship, you can get different… There’s migration with Docker and things like that too so you can ship the container. It kind of logs off to it. And then, you can go through and you can use like Kibana as your dashboard to pull the data out of it, and things like that. And again, it’s one of those things where if you’ve got time and you’ve got resources, you can make that a priority to kind of roll your own. Yeah, that’s cool. That would probably be beneficial. If you don’t, just know that it’s not necessarily an easy process to get all that up and running. It’s time-consuming. There are few hurdles you run into.
+
+<strong>CHARLES:</strong>
+
+One thing that I’m wondering about is it seems like that there are a lot of places where we can get that information about the errors that we’re running into. But what if there’s not? What if there isn’t great information? For example, I just listened to the episode we did with Peter Bhat Harkins about some of the Rails conditions and stuff. You can’t always… the information isn’t always necessarily there anymore. If you don’t have the information, you can just kind of noodle it out in your head or how do you track down that information? It’s not in the log. It didn’t even raise an exception maybe.
+
+<strong>BRIAN:</strong>
+
+Try and get as much information out of people as you can, and then, assume that most of it is false. That sound really cynical but people tend to have a poor recollection of what actually happened. But if you piece together what you can see in logs with what they’re telling you, and you can use your experience, a lot of times you can get good idea of where the problem might be going.
+
+A lot of it is, let’s look at the test that we have or if we don’t have any tests, let’s look at the code, let’s trace the code. And try to logically work out how this might have happened. I have sat with other developers on a whiteboard. And just try to trace the request to an application, just try to, “What are all of the things that go through? What are all the ways that could possibly happen?” And figure it out. It’s a little bit of detective work. It’s not just, “Oh yeah, this is happening.” There’s so many times.
+
+I hate to say it but there’s so many times when to user was withholding information like they double send or didn’t fill anything out. There’s one application it comes time mind. A friend of mine, we’re talking about where a previous developer had not put any validations on the model. The thing is, the previous developer was told not to put any validations on the model because they wanted to be able to enter whatever they need to enter into it. The new developer was dealing with the problem of, “Hey, how come when we run our reports, there are blank data?” This new developer took him a week to figure it out. The reason there’s blank data is because you’re putting blank data in the database. The user thought that they would just, “Oh, the data will just magically appear.” No, you have to enter that data. So that’s one of many stories that you run into.  Assuming that users are telling you the truth, not withholding any information, you can always go to what they say. But I’m cynical, I’ve had many bad experiences.
+
+<strong>DAVID:</strong>
+
+The user always lies. It’s a pun off Gregory House on House MD. I love that show. I think extracting relevant information out of the user… It really is important especially if you’re debugging something because chances are you’re not the one who came across the bug. It was reported to you. To have the communication skills to ask the appropriate questions, to basically pull their teeth out to get the relevant information that you need to troubleshoot the issue is really important.
+
+My pet peeve is someone will tell me like, “Hey, David, do you have time? We need to look at something.” “Well, yeah, sure, what’s up?” They’re like, “Do we have a problem with this application?” “No, not that I know of.” And then, the conversation goes like, “Well, it’s broken.” “Oh, okay, I’ll look into it.” And so I load up the application, it works. I checked the previous test case runs, they all passed. I’m like, “Alright, nothing’s wrong.” And I continue on my day. Few weeks later, “So did you get that issue fixed?” I’m like, “What issue?” You know, gathering relevant information is almost as important as actually debugging the issue.
+
+<strong>BRIAN:</strong>
+
+One of the things that I did a long time ago was do the whole helpdesk thing and you help people with their computer issues. One of the skills that I learned when I was doing that was just observe them work. If you’re lucky enough to be able to observe the people who are using your application, you learn a lot about what issues come up. If you can say, “Hey, can I come watch you use the application and see if you can get that error show up again?” You can do that and if you’re not on premises, you can still walk them through doing a screen share with you, or something like that. So you can observe them moving around the application.
+
+Sometimes the user interface isn’t as clear as to person using it as it is to the developer. They’re using an ORB or they was that was unintended. You can’t blame that on user error. A lot of times, there needs to be a change to the design to prevent that from happening, or something like that. But if you’re fortunate enough to be able to do that, if you can get them to cooperate and approach it with, “Hey, I want to help you figure this out.” And the best way for me to help you figure this out is to see if we can recreate this together. So we can sort of make the application gives us the same error together.
+
+You can use a developer can then setup any kind of logging, additional logging or whatever traps you need to do to pour more data. And then, you can watch how they interact with the application and you can pull that information together. If it happens again, you’re in business. That has been successful for me. That approach has worked for me. In most cases where I’ve employed it, sometimes I will encounter the occasional, “I don’t have time. I’m too busy. You fix it. You’re the developer.” But that’s not as common, I don’t recommend going in with the attitude of “Oh, this is going to blow me off.” I really do try to get at it with, “Hey, I want to help you solve this. Let’s work on this together if you have some time to try to solve this together. And people are pretty receptive to that.
+
+<strong>DAVID:</strong>
+
+And getting access to their production data is also… you know, I’ve never tried to actually troubleshoot in the production environment. If there is a production issue, I pull down the production database into my own local testing environment. And then, try to debug from there because I definitely don’t want to change around customer data. If I may be able to recreate the error that they describe, I know that I’m probably having an application issue. Otherwise, it could be an environment issue, which could refer back to a caching issue, or something like that.
+
+<strong>BRIAN:</strong>
+
+I just want to just ask. You’re saying that you’re taking their production data and bringing them down to a local development environment. Do you have precautionary words for developers who might do that? And take their laptop home with all their data on it?
+
+<strong>DAVID:</strong>
+
+Well, one, if you have a laptop or even a desktop, it should be uncorrupted, you know. There’s a… with solid-state speeds and hardware AES encryption, there’s no reason not to do that. If you’re not doing that, shame on you.
+
+<strong>BRIAN:</strong>
+
+I just hear some development manager, “Yeah, just take the production database to your desktop machine.” I know many places that that approach would not fly, in hospitals, things like that.
+
+<strong>CHARLES:</strong>
+
+Oh yeah.
+
+<strong>BRIAN:</strong>
+
+Yeah, you just have a whole laptop full of social security numbers, no big deal, right?
+
+<strong>DAVID:</strong>
+
+But you know, at the same time, it doesn’t have to be a thumb down to your local development environment, just kind of testing or staging environment where you can have a mirror of a read-only from your production database in a controlled and secure environment that you were able to access and kind of have the functions that you need to.
+
+<strong>CHARLES:</strong>
+
+Well, I’ve actually seen scripts where it basically does the… and before it puts into the staging system that I actually… yeah, it goes in and sanitizes email addresses and all that stuff.
+
+<strong>DAVID:</strong>
+
+Yeah. I’ve seen a lot of those kinds of scripts. They don’t take longer, right? They’re really worth the time.
+
+<strong>CHARLES:</strong>
+
+I’m just trying to think if there are any other tricks that I use for this. I mean, usually, it’s pretty straightforward. If I’m getting really fancy, I’ll actually pull out pry or something.
+
+<strong>DAVID:</strong>
+
+Yeah, you know, I was troubleshooting an Action Cable issue the other day. And I think, the first step on that was to cry about 5 minutes in a corner. And then, open up the Chrome dev tools. Trace back from the “in” back to the code where it’s getting declared. Actually, it’s kind of tricky to debug because you have so many different things, especially if your applications a bit more complicated, where the message is broadcast through a job.
+
+So you have something like Scikit running but then you also have your Redis channels that your Action Cables communicating through. You have the client-side Javascript, and then, your back-end channel logic. There’s just so many moving parts in Action Cable that’s really difficult. But the typical process for debugging something like that is to start at the browser level, to go in and test to make sure that on the page, I’m expecting to have a connection. Do I get a connection? And then, at the console level, you know I have a console app running, I’ll try to push a message.
+
+Or on another browser, in Incognito mode or something, I’ll try to push message. I should then receive it. From there, if I’m not getting it, I know that, “Okay, I’m successfully connected to the channel but then, something is not broadcasting.” That’s a much easier thing to troubleshoot.
+
+The more difficult kind of thing is if you have a complicated subscription model for authorizing a channel, then, you have to troubleshoot, Wise is not even showing up or Wise is not connecting, and stuff like that. Most recently, I found that my application had in the public directory, created a cache of all of the Javascripts, which it normally does. But that was actually causing an issue when I was running my test environment because it wasn’t picking up the new channels. I kind of freak out. I actually have to clear the assets cache that was generated to actually try and troubleshoot. And then, things just kind of working.
+
+<strong>CHARLES:</strong>
+
+That makes sense. One other trick that I use, I did remember one more thing. A lot of times I use the tail command on my logs just to watch things go by. And then I know specifically what I’m looking for, I’ll actually pipe that to a grep command and so, it’s just tail –f, which just starts watching the log from where you append. And then, yeah, the grep command, or I could just grep for exception, like the word ‘exception.’ A lot of times it will bring that up.
+
+<strong>DAVID:</strong>
+
+That is actually a great idea. I don’t know why I’ve never thought of doing that. I use grep or so many things but I just never thought about actually tailing the logs. So I’m going to recheck my previous statement about writing a debugger class. And if you just create something consistent like if you’re doing puts debugging, then you can just grep APPLICATIONERROR, all caps, and single word. And then, just grep for that. Then, just put that in all your puts.
+
+<strong>BRIAN:</strong>
+
+That’s kind of like, the puts debugging gives me some kind of key that I can use to filter down with ACK or some of their tool.
+
+<strong>CHARLES:</strong>
+
+Yup. I used to be a system administrator and so that was you know, that’s kind of where that trick came from.
+
+<strong>DAVID:</strong>
+
+That’s awesome. I’ve never thought of doing that.
+
+<strong>CHARLES:</strong>
+
+Well, now you have. Claim it as your own idea.
+
+<strong>DAVID:</strong>
+
+I made this.
+
+<strong>CHARLES:</strong>
+
+That’s right.
+
+<strong>CHARLES:</strong>
+
+I know that some of us have some time constraints so I’m going to push this toward picks, unless there’s something else that you’re just dying to share.
+
+<em>[This episode is sponsored by hired.com. Are you searching for a new job? That could be stressful, scary and time consuming. Plus your recruiters try to sell you on roles you don’t actually want. And the job feels like you’re throwing your resume into a black hole, never to be seen again. And sometimes, you go all the way through the interview process just to find out at the very end, that the salary offer or the company culture doesn’t match what you’re looking for. Hired is the world’s most intelligent, talent-matching platform for full time and contract opportunities in engineering, development, design, product management, data science, sales and marketing. We make your job search faster, focused and stress free. Instead of endlessly applying to companies and hoping for the best. Hired puts you in control on when and how you connect would compelling new opportunities. After completing one simple application, we help employers apply to hire you. And when hiring you, you receive personal interview request and up front salary information so you could make informed decisions about what opportunities to pursue over a condensed timeline. Hired offers access to more than 4000 innovative employers including big brand names like Facebook and smaller emerging startups. The size and type of company you want to connect with is totally up to you. And we help you find new opportunities in 17 major cities in North America, Europe, Asia and Australia. Hoping for a relocation? Let them know!  Your privacy and autonomy in your job search is of utmost importance and if you go check them out at the show’s link. That’s hired.com/rubyrogues. You can get double your normal hiring bonus. So instead of $300, you get $600 by signing up on our link. That’s hired.com/rubyrogues]</em>
+
+<strong>CHARLES:</strong>
+
+Alright, Brian, why don’t you start with picks?
+
+<strong>BRIAN:</strong>
+
+I only have one this time but it is a link from Ableton. Ableton makes software for music production. Ableton Live is their product. They launched a website called learningmusic.ableton.com and it is a series of interactive lessons that teach you basic concepts of music making. They cover rhythm, beats, single notes, chords and scales. Incredibly well-developed interactive curriculum that will give you a head start on understanding how to make songs, how to create your first composition. It will actually show Youtube videos of a drum loop or a drum track from a song. And then, below it will actually show how you would recreate that rhythm. And then, you can use these nice comparisons.
+
+It’s one of the most interesting and well-put together curriculum I’ve ever seen. I hope this becomes a bit of inspiration for other people when showing. It’s a lot more than reading and videos. It really is interactive for me. They challenge you throughout each of the lessons. Even if you have no interest in writing your first song or making music, I still encourage you to take a look at it from a development standpoint because it is incredibly cool platform, really neat implementation. I could be wrong but I’ve heard a couple people tell me that it was created using the Elm programming language on the front-end. That’s also kind of interesting to me because I really enjoy spending time with Elm. I recommend everyone to really check that out.
+
+<strong>CHARLES:</strong>
+
+Awesome. Dave, what are you picks?
+
+<strong>DAVID:</strong>
+
+So my first pick, I’m going to say RailsPanel because that’s been a really cool tool and a Google Chrome extension to use. It’s a lot of fun.
+
+And then, my second pick is I just recently bought a power strip. Yes, I pick a power strip. This power strip is a five-foot long power strip with 12 plugs. And I’m using it to add to my brick server to just kind of give me more space. I’m using up three plugs for a little power brick. And you know, I got this thing from Micro Center for like 20 bucks. It has 12 plugs on it and it’s like five-foot long. The closest match I’ve found is from Home Depot. It’s like $80. This thing is like a quarter of the price. That’s amazing.
+
+<strong>CHARLES:</strong>
+
+Nice. I’m going to jump in here with a few picks. One of them is I’ve mentioned on before last week. I was in Microsoft Build. It’s funny because a lot of people kind of have this big idea about Microsoft, the evil empire, the bastion of closed-source software. And they’ve really done a lot to bring things around and be a little bit more open-source friendly. And so, I’m going to pick that. I also got to hang out with the guys from .NET Rocks!, which is another large development podcast. Quick shout out to Richard and Carl, that was just fun hanging out with them, as well. But yeah, overall, it was a very positive experience. I had a good time, enjoyed Seattle, and ate some good food. And so I’m going to pick that.
+
+And then, the other thing that I’m going to pick, I’m not sure if I’ve mentioned this on this show but I started doing a Ketogenic diet. Basically what it is, it is low-carb, high-fat, moderate protein. Anyway, it’s kind of fun to just learn all the stuff. I’ve been listening to a podcast called Livin’ La Vida Low-Carb by Jimmy Moore. That’s a lot of fun. He also has a book called Keto Clarity, which brings the Ketogenic diet, you know, goes into a bunch of other stuff. And so, yeah, definitely liking that. And then, I wound up getting Ketone needles for my blood. It pricks my finger every morning, twice now. Once for Ketone and once for blood sugar because I’m diabetic. I’ve been monitoring things that way. But it’s really been interesting because I kind of take my health by the horns, and really just go for it. There’s some recipes in the Keto book. If you’re thinking about doing something like this, but yeah, they also cite a whole bunch of references of people who have better control or stop having to take medication for diabetes, and things like that. And so, I’m looking at this as a long-term play toward really controlling my diabetes and controlling my health. So anyway, that’s the stuff I’m playing with.
+
+And then, finally, I’ve had ads run. In fact, I need to make sure that it doesn’t go out in any more episodes. But I was going to do a Ruby Remote Conf in June and I just couldn’t pull together enough speakers that I was excited to have. We had some. Some of whom were actually on this panel but you know, not enough. So what I decided to do is I’m actually going to postpone the conference. And instead of doing a 2-day conference, I’m going to do it more like a summit style. And so, if you’re interested in this, if you go to rubyremoteconf.com, I’m just going to forward that over to rubydevsummit.com. Yeah, we’re going to do like 10 days. I’m going to bring a whole bunch of people. I’m just going to invite people that I want to hear from. Anyway, it’s going to be a terrific conference. It should be really fun just to see what we have there. If you have thoughts about topics you’d like to hear, then, join the mailing list because I’m going to email out a survey for this.
+
+And then, if you go to rubydevsummit.com/survey, it will also take you to that survey. Anyway, we’re going to pull this together, probably on October. It will be free. And then, you can pay to have access to the videos after the conference. That’s kind of the way we’re kind of looking this now. So yeah, if you’re interested in any of that, then, check it out. I guess with that, we’ll go ahead and wrap this up. We’ll catch everyone next week.
+
+<strong>DAVID:</strong>
+
+See you later.
+
+<strong>BRIAN:</strong>
+
+Take care, everybody.
+
+<em>[Bandwidth for this segment is provided by Cachefly, the world’s fastest CDN. To view your content fast with Cachefly, visit cachefly.com to learn more.]</em>

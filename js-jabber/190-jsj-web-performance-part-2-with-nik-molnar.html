@@ -1,0 +1,607 @@
+---
+layout: layouts/post.njk
+title: >
+      190 JSJ Web Performance Part 2 with Nik Molnar
+date: 2015-12-16 16:00:00
+episode_number: 190
+duration: 1:17:11
+audio_url: https://media.devchat.tv/js-jabber/JSJ190Performance.mp3?rss=true
+tags: js-jabber
+---
+
+<p dir="ltr" style="text-align: center;"><span style="font-size: 18px;"><span style="background-color: transparent; color: #000000; font-family: arial;">There’s still time! Check out and get your </span><a style="text-decoration: none;" href="https://jsremoteconf.com/">JS Remote Conf</a><span style="background-color: transparent; color: #000000; font-family: arial;"> tickets!</span></span></p>
+&nbsp;
+<p dir="ltr"><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://devchat.tv/js-jabber/184-jsj-web-performance-with-nik-molnar">JavaScript Jabber Episode #184: Web Performance with Nik Molnar</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Part 1)</span></span></p>
+<p dir="ltr"></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:04 - Nik Molnar Introduction </span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://twitter.com/nikmd23">Twitter</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/nikmd23">GitHub</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://nikcodes.com/">Blog</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://getglimpse.com/">Glimpse</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://www.pluralsight.com/courses/webpagetest-deep-dive">[Pluralsight] WebPageTest Deep Dive</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:58 - RAIL (Response, Animation, Idle, Load)</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">06:03 - How do you know what is being kicked off? How do you avoid it?</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">08:15 - </span><a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Frame_rate">Frame Rates</a></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://frames-per-second.appspot.com/">frames-per-second.appspot.com</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://csstriggers.com">CSS Triggers</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">16:05 - Scrolling</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://creativejs.com/resources/requestanimationframe/">requestAnimationFrame</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">19:09 - </span><a style="text-decoration: none;" href="https://w3c.github.io/web-animations/">The Web Animation API</a></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">21:40 - Animation Accessibility, Usability, and Speed</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://haveibeenpwned.com/">haveibeenpwned.com</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://youtu.be/7ubJzEi3HuA">Ilya Grigorik: Speed, Performance, and Human Perception @ Fluent 2014</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">27:14 - HTTP and Optimization</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://conferences.oreilly.com/velocity/devops-web-performance-2015/public/schedule/detail/42385">Yesterday's perf best-practices are today's HTTP/2 anti-patterns by Ilya Grigorik</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://devchat.tv/ruby-rogues/135-rr-http-2-0-with-ilya-grigorik">Ruby Rogues Episode #135: HTTP 2.0 with Ilya Grigorik</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://tools.ietf.org/html/rfc7540">Hypertext Transfer Protocol Version 2 (HTTP/2)</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://caniuse.com/#feat=http2">Can I use...</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://tools.ietf.org/html/rfc7540#section-8.2">Server Push</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">35:25 - ES6 and Performance</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.incaseofstairs.com/2015/06/es6-feature-performance/">ES6 Feature Performance</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/kpdecker/six-speed">six-speed</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">40:46 - Understanding the Scale</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://www.youtube.com/watch?v=JEpsKnWZrJ8">Grace Hopper: Nanoseconds</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://www.youtube.com/watch?v=1-vcErOPofQ">Grace Hopper on Letterman</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">43:30 RAIL (Response, Animation, Idle, Load) Cont’d</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">46:15 - </span><a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/API/Navigator/sendBeacon">Navigator.sendBeacon()</a> </span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">47:51 - </span><a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management">Memory Management</a><span style="background-color: transparent; color: #000000; font-family: arial;"> and </span><a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)">Garbage Collection</a></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://www.youtube.com/watch?v=LaxbdIyBkL0">Memory Management Masterclass with Addy Osmani</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://addyosmani.com/blog/video-javascript-memory-management-masterclass/">Addy Osmani: JavaScript Memory Management Masterclass</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://www.red-gate.com/community/books/under-the-hood-dotnet-memory-management">Under the Hood of .NET Memory Management by Chris Farrell and Nick Harrison</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Nik)</span></span></li>
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Memory vs Performance Problems</span></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://www.youtube.com/watch?v=aiv1JOfMjm0">Rick Hudson: Go GC: Solving the Latency Problem @ GopherCon 2015</a></span></li>
+</ul>
+<span style="font-size: 14px;">Picks</span>
+<p dir="ltr"><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.dancarlin.com/hardcore-history-series/">Hardcore History Podcast</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jamison)</span>
+<a style="text-decoration: none;" href="http://danluu.com/empirical-pl">Static vs. Dynamic Languages: A Literature Review</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jamison)</span>
+<a style="text-decoration: none;" href="http://fullertj.tumblr.com/">TJ Fuller Tumblr</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jamison)</span>
+<a style="text-decoration: none;" href="http://dn.ht/picklecat/">Pickle Cat</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jamison)</span>
+<a style="text-decoration: none;" href="https://sub.watchmecode.net/">WatchMeCode</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Aimee)
+Don’t jump around while learning in JavaScript (Aimee)</span>
+<a style="text-decoration: none;" href="https://www.youtube.com/watch?v=eLfW_XMwBGk">P!nk - Bohemian Rhapsody</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Joe)</span>
+<a style="text-decoration: none;" href="http://www.infoq.com/presentations/Design-Composition-Performance">Rich Hickey: Design, Composition and Performance</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Joe)</span>
+<a style="text-decoration: none;" href="http://undisclosed-podcast.com/">Undisclosed Podcast</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (AJ)</span>
+<a style="text-decoration: none;" href="https://www.youtube.com/watch?v=8nZMseDOiJo">History of Gaming Historian - 100K Subscriber Special</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (AJ)</span>
+<a style="text-decoration: none;" href="http://javascriptjabber.com/15minutes">15 Minute Podcast Listener chat with Charles Wood</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="https://jsremoteconf.com/">JS Remote Conf</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="https://allremoteconfs.com/">All Remote Confs</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://supercell.com/en/games/clashofclans/">Clash of Clans</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://www.starwars.com/games-apps/star-wars-commander">Star Wars Commander</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="https://onlycoin.com/">Coin</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://www.theairhook.com/">The Airhook</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://www.goldieblox.com/">GoldieBlox</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span></span></p>
+
+<h3>Transcript</h3>
+
+<strong>JAMISON:</strong>  Joe, are you welding?
+
+[sizzling sound]
+
+<strong>CHUCK:</strong>  That's a lot of bacon you're cooking there, buddy.
+
+<strong><em>[This episode is sponsored by Frontend Masters. They have a terrific lineup of live courses you can attend either online or in person. They also have a terrific backlog of courses you can watch including JavaScript the Good Parts, Build Web Applications with Node.js, AngularJS In-Depth, and Advanced JavaScript. You can go check them out at FrontEndMasters.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on JavaScript developers, providing them with salary and equity upfront. The average JavaScript developer gets an average of 5 to 15 introductory offers and an average salary of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they give you a $2,000 bonus as a thank you for using them. But if you use the JavaScript Jabber link, you’ll get a $4,000 bonus instead. Finally, if you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/JavaScriptJabber.]</em></strong>
+
+<strong><em>[This episode is sponsored by DigitalOcean. DigitalOcean is the provider I use to host all of my creations. All the shows are hosted there along with any other projects I come up with. Their user interface is simple and easy to use. Their support is excellent and their VPS’s are backed on Solid State Drives and are fast and responsive. Check them out at DigitalOcean.com. If you use the code JavaScriptJabber, you’ll get a $10 credit.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 190 of the JavaScript Jabber Show. This week on our panel we have Jamison Dance.
+
+<strong>JAMISON:  </strong>Hello, friends.
+
+<strong>CHUCK:  </strong>Aimee Knight.
+
+<strong>AIMEE:  </strong>Hello.
+
+<strong>CHUCK:  </strong>Joe Eames.
+
+<strong>JOE:  </strong>Hey, everybody.
+
+<strong>CHUCK:  </strong>I'm Charles Max Wood from DevChat.TV. Quick reminder: don't forget to get your tickets to JS Remote Conf, January 14<sup>th</sup> through 16<sup>th</sup>. We also have a special guest this week, and that's Nik Molnar.
+
+<strong>NIK:  </strong>Hey everybody. Thanks for [having me back] on the show.
+
+<strong>CHUCK:  </strong>Do you want to introduce yourself again?
+
+<strong>NIK:  </strong>Sure. I'm Nik Molnar. I am a Program Manager at Microsoft where I work on my web diagnostics and debugging tool called Glimpse. And I live in Austin. There you go. Everything you need to know about me.
+
+<strong>JOE:  </strong>I got to say, you're one of the most awesome guests simply because your name is closer to Mjölnir than any other guest we've ever had.
+
+<strong>NIK:  </strong>I used to get called Nik P.I. quite a lot because back in the X-Files days, people thought that I sounded like Agent Mulder.
+
+<strong>JOE:  </strong>Oh.
+
+<strong>AIMEE:  </strong>That's awesome.
+
+<strong>JOE:  </strong>Yeah. I'm going to call you Thor from now on.
+
+<strong>NIK:  </strong>I will take that. I can be a Norse god for you.
+
+[Chuckles]
+
+<strong>CHUCK:  </strong>Alright. Well, do we want to pick up where we left off with web performance? I guess this is part two.
+
+<strong>NIK:  </strong>Yeah, let's…
+
+<strong>CHUCK:  </strong>Were there questions that we had in the hopper?
+
+<strong>JAMISON:  </strong>I have questions. So, I feel like we spent a lot of time talking about getting first load of your web app fast, things to reduce the file size, reduce parsing time, and stuff like that. A lot of web applications now are thick clients where they have a lot of JavaScript running on the client actually. And what do you do once your code is already there but you want to speed up stuff that's happening in response to user interaction? How do you diagnose those problems? It feels like a whole different set of tools and techniques for actually speeding up the code versus speeding up resource loading.
+
+<strong>NIK:  </strong>You're absolutely right. And it really can be. The guys over at Google have actually put together a little acronym that they call RAIL, R-A-I-L. It stands for Response, Animation, Idle, and Load. And those four components together are how they holistically look at web performance. And you're right. We spent a lot of time looking at load last time, because load is still the biggest bottleneck that we have on the web. And things are getting better. But there are the best practices and the most information published around how to improve load. And there's the most amount of tooling around that.
+
+But response and animation, particularly responding to user input or animation with scrolling or moving elements around the page, those are things that we need to start focusing on more and more. And until recently, the tooling just wasn't there to allow us to do that. So, the Chrome team and the Chrome Dev Tools I feel like have been paving the way in that regard. IE and Firefox have really done a pretty good job of keeping up or catching up. And they have tools that allow us to see things like the paint time or the JavaScript execution time.
+
+And so, I think in the last show we briefly mentioned on the server you might run something like a CPU profiler to find out how long code was taking to execute. And on the JavaScript side, you're going to do the same thing. And those profilers are built right into the debugging tools of your browser [inaudible] of choice. And you can start a profiling session, run through your app, click a couple of buttons, maybe even automate the path that you're going through, and then stop it. And it will break down how much time was spent in each of the different methods of your code. So, you could figure out where hot paths are, the methods that are slow, and you go in and focus on making those faster.
+
+And so, the reality though is that JavaScript for the most part, you'll find that a lot of times you find slowness in JavaScript when it comes to working with the DOM. And it's not because the DOM in and of itself is bad, but because reading and writing from the DOM creates this ripple effect that might force the browser to have to do a whole bunch of work. And what we want to do is when we think about JavaScript, I think holistically we should think about our JavaScript and our HTML layout and maybe some CSS layout or CSS decorations that we're putting on top of our page, how all of those things work together to create a performant experience.
+
+<strong>JAMISON:  </strong>So, can you elaborate on that a little bit? You said that when you touch the DOM, it kicks off a bunch of extra stuff. How do you know what is being kicked off and how to avoid that?
+
+<strong>NIK:  </strong>So, how do you know? I can just tell you right now. It's kind of a very generic thing that happens. Alright, so you execute some JavaScript. And let's say you take an element and you move it. You set its top from X to Y. And so, now that element has moved on the page. So, after your JavaScript has run, this kicks off the ripple effect that I'm talking about. So, the rendering engine of the browser now needs to recalculate the geometry of your page. It needs to re-lay it out, right? Because you moved this div from X to Y, and so that might squish some other elements of the page. It might expand a different element. It might re-flow some text. Things in the page can move around, so it needs to recalculate the geometry and the structure.
+
+That's not changing anything about the way the page looks yet. But it's just figuring out where all the boxes and shapes should be. Now, any time that you recalculate the layout, then the browser needs to repaint all of the colors and the images and the text back on top of that new set of geometries. And so, a lot of times when we talk about JavaScript performance and the DOM, that ripple effect of recalculating layout and then repainting, all of those things get added up. And that really, you have to think about all of those holistically.
+
+So, in the Chrome Developer Tools, they have a Timeline tab that you can start recording and browse around and click some buttons, do whatever it is that you need to do in your app, whatever gestures you need to do. And it will actually show you all of those things broken down by color. So, JavaScript is in yellow and paint is in green, and calculating styles is in purple. And so, you can see broken up into these different chunks of time how long it's taking to do each one of those things. And so of course, like we mentioned last time when we were talking about the network, the idea here is you want to do less. The least amount of things that you can do, the smaller you make those [inaudible] and the circles and the ripple, the better.
+
+<strong>AIMEE:  </strong>As long as we're talking about the DOM, one thing that I've heard talked about a lot recently, and I had to go look it up because I wasn't completely familiar with it, was frame rate. So, I was hoping that if you wanted to go over that in case there are other people who are not quite sure what this means, since it's talked about so much right now, and why the web animation API is important to that?
+
+<strong>NIK:  </strong>Yeah, sure. So, frame rate is this really interesting thing. I was like you, Aimee. If any of the audience is video gamers, frame rate is something that they're used to. When I was in college, my roommate, they would go and they'd buy some new computer and they'd be like, “Oh, I'm playing Max Payne and I'm getting 60 frames a second,” and, “I'm getting 45 frames a second.” I'm like, “That's cool, man.” I play Duck Hunt. How many frames per second are in Duck Hunt? It's just not something that I really ever thought of until more recently, until we got the tooling and we started to get some documentation around what we need to do.
+
+So, the screen that is attached to the device that you're listening to this podcast on, so maybe your phone or if you're sitting in front of a desktop computer, a monitor. There's a pretty good chance that that screen is running at 60 hertz. What that means is that within every second, the screen refreshes everything that it's showing. Now, that doesn't mean that you'll see a change on the screen. It's just that the hardware is sitting there refreshing it 60 times every second. So, when we start to think about a frame rate, that's how many times within that second can we actually change the image? Now, the hardware is trying to do it 60 times every second, at 60 hertz. And for a really nice buttery smooth experience when animation doesn't look like it gets janky or jaggy or you start to see stuttering, then we also want those animations to run at 60 frames a second, optimally.
+
+And reality is, if you can't hit 60 frames a second, you just want it consistent. So, maybe it's 24 frames a second, maybe consistent at 24 frames per second, instead of your application going faster and slower in the middle of my animation. So, if you want to see what it looks like to animate things at different frames per second, there's kind of a cool website out there. It's frames-per-second, that's 'frames dash per dash second dot appspot dot com'. Now, what that allows you to do is add different types of sports balls, like a baseball or a soccer ball or a basketball, to the screen and then say that you want to animate it across the screen and how many frames per second. And so, if you throw a couple of balls up there and you look at what 24 frames a second versus six frames a second or something really bad like five frames a second looks like, you can see the jank and you can see the stuttering. And if you're on a mobile device particularly where that animation might be tied to a touch event, so like imagine you're on your… I'm on my iPhone and I'm trying to scroll through a page. And I put my finger down on my phone and the pixel sticks right there on my phone. As I move my finger up the page, it's sticking right onto my finger, that's perfect. That's a nice smooth 60 frames per second animation. But if it's kind of playing follow the leader, like I move my finger up to the top of my phone and then the page catches up to my finger, that's the stuttering and that's the jank. And that's what we don't want. So, jank is the word that people in this community use when we're getting bad frame rates.
+
+So, why we started talking about frame rates and why it's important to performance is because this frame rate and this goal of 60 frames per second really dictates the amount of time or the budget that we have to get work done. So, if we take one second which is a thousand milliseconds, and we divide that by the number of times the screen is going to be refreshed, that's 60 hertz, a thousand divided by 60 comes out to be about 16 milliseconds, which means that my screen is being updated about every 16 milliseconds.
+
+So, if I'm doing some parallax effect or some animation where I'm trying to update the screen more than every 16 milliseconds, or I'm doing work more quickly than that, it doesn't really matter. I'm just doing extra work that I can throw away, because the fastest the screen is going to be able to update is every 16 milliseconds. So, maybe there's a scroll event that's firing and I fire off five of those scroll events within 10 milliseconds and I'm trying to update the position of some element five times within that same 10 milliseconds. It doesn't really matter. The user isn't going to see any but the last update, just because the hardware is not refreshing until 16 milliseconds.
+
+Now, on the opposite side, we don't want to do things much more slowly than that, and that's where this ripple effect comes back in and how it ties into our 16-millisecond budget. So, I click a button and that executes some event handler in my JavaScript which changes the position of something on the screen, which means that the layout needs to be recalculated. And because that layout's been recalculated, we need to do a repaint. The full ripple effect has happened. If I can't do all of that work, not just my JavaScript code that I wrote but all of the ripple effect, within 16 milliseconds, when the hardware comes back around and it says, “Okay, I'm ready to do an update,” and you're not ready because you're still processing through that work, the browser will… well, I'm sorry, not the browser. The hardware will say, “Looks like they're not ready. I'm going to drop this frame. I'm going to skip it. And so, when you start skipping frames, that's when the frame rate drops and when the user will start to see and feel jank.
+
+So, that's a very long explanation. But all that to say, the key point to take away there is you want a 60 frame per second frame rate or at least as consistent as possible, but 60 is optimal. That means that you have about 16 milliseconds to get your JavaScript work done and all of its corresponding ripple effect. So, understanding what you’re changing in the DOM when you're changing it matters.
+
+So, there's actually a website out there called CSStriggers.com. CSStriggers.com lists out all of the different properties that are available that you might want to change via JavaScript or CSS and what part of the browser rendering engine it affects. There's always a ripple effect. So, when you start thinking about things that you might associate with the box model, flow, top, left, width, height, all of those are going to not only affect layout but they're also going to affect paint.
+
+Now, there are some properties like opacity for example that have been optimized for the GPU. Your CPU doesn't really have to do a lot of work there. It's just optimized for the GPU to do something extremely efficiently. And in those cases, we consider those to be jank-free properties. Some of the transforms have this exact same property to them. You don't have to do a new layout. You don't have to do a new CPU paint. You can just do a GPU paint. And those are very smooth, very fast. And if you can keep all of your animations to do transforms where you're rotating or skewing or moving something by using those properties, or fading the opacity, then you're going to get a very nice, buttery smooth experience.
+
+So Aimee, that was a very long answer to your question. Do you think that that clears things up? Is that what you found when you were exploring this stuff on your own?
+
+<strong>AIMEE:  </strong>Yes. That helps.
+
+<strong>CHUCK:  </strong>I just want to clarify one thing and that is when I hear frame rate I'm usually thinking video games where you're repainting full-on image stuff. But this really does apply to other animations in web pages that we see. For example, things sliding up, sliding down, sliding in, fading out, all that stuff.
+
+<strong>NIK:  </strong>Yeah. It applies to all of those animations. And it's even the animations that you're not programming into your site. So, the scroll bar is an animation. And so, you can definitely build a site that has no JavaScript and horrible scroll performance. And so, the frame rate is something that you're probably going to have to think about no matter what, even if you're not doing awesome explosions on your page.
+
+<strong>AJ:  </strong>Yeah, I've seen tons of sites with parallax where I'm trying to scroll on my MacBook and it's like, [makes slow sound effects], and I can't get down the page because it's so janky.
+
+<strong>JAMISON:  </strong>Yeah, can you talk about that specifically? About why sometimes scrolling is so janky and what to do to solve it. It seems like the general, just like last time you talked about the general advice is do less. Is it the same kind of thing, just make less stuff happen when you scroll?
+
+<strong>NIK:  </strong>It is do less, particularly if you're trying to animate while scrolling. That's kind of a big no-no. A quick and dirty way of getting around that is if you know you have some animations going on your page, when the scrolling starts, stop all of those animations. Make the whole page basically static. And then when the scrolling ends, restart. Now, that can be computationally expensive as well. But basically you want to try to avoid that.
+
+Another thing that you might look at doing is there's an API built in the browsers called 'request Animation Frame'. Now, I mentioned that the hardware is trying to refresh every 16 milliseconds. Well, every time a frame has finished being painted to the screen, 'request Animation Frame' will be called. And it takes in a callback. And so basically, the problem with JavaScript is it works on an event loop, right? And so, if we could just train all of our users only to click buttons or make gestures in perfect 16 millisecond increments, we'd be fine. But the problem…
+
+<strong>CHUCK:  </strong>Get on that folks.
+
+<strong>NIK:  </strong>[Chuckles] Yeah, exactly. But the problem is because we have these 16-millisecond budgets and they might click a button 8 milliseconds into our 16-millisecond budget, we've just cut our budget in half. And so, now we have even less time to do all of that work. But what 'request Animation Frame' does is it says, “Hey, I just finished painting a frame. Go ahead and start some work now,” giving you the most amount of that budget possible. And so, on a scroll, what you might do is just capture the state that you need to. So, maybe like the window's Y position. And you might squirrel that away into some closure or something like that and only update the screen with that scroll position or move the element or do whatever you need to when the page is ready to be repainted again.
+
+Basically, you could imagine you want to have a JavaScript-based sticky element on the page. And it always stays near the top of the page as you scroll down. And you might do that with the onscroll event handler and some JavaScript code. The naive implementation would say every time that scroll event is fired to take the Y position, do some math, move that element to where you want it to be relative to the Y position of the page. The better implementation would be to take that Y position and register a callback for 'request Animation Frame' so that when the browser is ready to do its updating, you now know where the position of the scrollbar is and you can do the math at that time. So, you're not doing more work than the browser can keep up with. You're slowing everything down. It sticks with the same mantra of do less. It's just doing less in a smart way.
+
+<strong>AIMEE:  </strong>I had to go answer a Slack message really quick earlier. Did you talk about how using the Web Animations API helps?
+
+<strong>NIK:  </strong>I did not talk about the Web Animations API.
+
+<strong>AIMEE:  </strong>Okay.
+
+<strong>NIK:  </strong>So, let's take a step back. So, animation on the web has been done for a very, very long time. It was one of the reasons why jQuery got so popular. It had a very simple animation API. The challenge with doing animations in JavaScript has always been how do browser vendors optimize that? And so, the CSS animations and transition specifications came along. And browser vendors loved it, because it was a declarative syntax. Declarative syntaxes generally are very easy for browser vendors to reason about and optimize around. So, that's why CSS transitions and animations, you might have read, are highly optimized and they can go straight to the GPU. And that's because the vendors can reason about your declarative CSS syntax.
+
+So, what that meant though for the last few years since we've had those CSS APIs is if you wanted to do JavaScript animation, you either had to use the really clunky slow way of doing it, or you had to have this weird transition where you were writing JavaScript to change some CSS class or something like that, that would then kick off the CSS animation. And so, the holy grail has always been, well I want to do my imperative JavaScript animation code and have that have the same performance optimizations as my declarative CSS code. And so, the Web Animations API is basically a specification that unifies that experience. And it adds in a bunch of other bells and whistles on top of it. Now, no browser actually has fully implemented that spec right now. Several of them have basic support for 'element dot animate'.
+
+And if you look at that API and you squint your eyes a little bit, you're passing around these arrays of objects. And the object is a key/value pair. If you squint your eyes just right at it, you're like, “Wait a minute. This looks like I'm passing around CSS that I've written in JavaScript.” And that is kind of basically what it is. But now we're getting to leverage the optimizations that the browser vendors have already put in place to make those animations run so much more smoothly, because they're GPU-optimized. So, that's why that animation API is important from a performance perspective, let alone the fact that it lets you more easily do chaining and cancel an animation and do all kinds of other fancy things that animators actually care about.
+
+<strong>AJ:  </strong>So, I wanted to say, obviously having consistency is super important. Like if you're going to do 60 frames, do 60 frames. There's nothing wrong with 24. That's how a lot of movies operate. But I also have noticed recently that there are a lot of trendy animations that make it actually less accessible. Because one thing that humans do is, just like t-Rex, we recognize movement, right? And if movement's too smooth, then we don't notice it. So, I've noticed recently, YouTube just made their pause and play button, you don't get a simple quick notification that it's changing state. It slowly and gently morphs. And with a lot of people, their eye acuity is based on movement. So, if your transitions are too smooth, people aren't going to get the information that you're trying to give them because it doesn't trigger a change in their brain because it's just too fluid.
+
+<strong>NIK:  </strong>Yeah. There's certainly a lot of accessibility, but even just more like human-computer interaction or human factors to take into effect with animation. I remember when Ajax was really first lighting up and becoming a thing. There was a lot of talk that any time you brought new data on the screen, I don't know if you guys remember this, it would flash yellow behind it and then the yellow would fade away. And that was all the usability experts were saying. “Well, look. Hyperlinks are blue and they're underlined and everybody understands that mechanism. So, when you change the page unexpectedly, we're going to do this yellow flash and that's what we're recommending.” And that was popular for a little while until everybody kind of said, “Well, that's butt ugly. So, we're not going to do that.”
+
+But you're absolutely right. Animation will draw somebody's eye for good or for bad, which is why every single ad is always animated, because they're trying to draw your eye over there. And so, it needs to be used appropriately and effectively.
+
+<strong>AJ:  </strong>Yeah. I've found that personally my reaction time, if something is supposed to let me know that there's a change, I need about a hundred-millisecond lapse between the action and the change. Maybe a hundred, a hundred and fifty. If it happens too quickly then I, I personally get confused or it doesn't quite fit with me. And if it happens too late, if it's like 500 milliseconds, then it seems laggy.
+
+<strong>NIK:  </strong>Yes. Yeah, so 100 milliseconds, humans perceive to be instantaneous. So, we talked about this on the last show a little bit. So, if I click on a button or something like that, or I touch the screen or resize something with my fingers, the system needs to respond within a hundred milliseconds. It doesn't need to give the full response but it needs to indicate to me that my gesture has been accepted or I'll think that the battery in my mouse is dead or something like that. But you're certainly right. Things can happen too quickly and people don't believe it.
+
+So, my buddy Troy Hunt in Australia, he's a security expert, he runs a website named HaveIBeenPwned.com. And every time that Sony or Adobe or Target or whatever company announces there's a data breach, he collects all the data and indexes it based on email address. And you can go and search for your own email to see if your account was compromised in whatever the latest security alert was. And he actually had problems with his system operating too quickly, because he was doing some very efficient caching and things like that, where users would believe that the system wasn't up to date yet because they were getting their response from the searches way too quickly. So, he had to add some artificial delay in there.
+
+<strong>AJ:  </strong>I heard Hipmunk did that, too. I think it was Hipmunk or one of those flight sites.
+
+<strong>NIK:  </strong>Yeah. I would say that a very overwhelmingly large majority of people are in the opposite camp where things are too slow.
+
+<strong>JAMISON:  </strong>[Laughs]
+
+<strong>NIK:  </strong>Not too fast. And if you are getting into the too fast situation, good on you. That's a very good problem to have.
+
+<strong>AIMEE:  </strong>I think it was a Fluent Conf talk by Ilya Grigorik, if I'm saying that correctly. He talked about, and I'll put a link in the show notes, but he talked about something they did where they sped it up and users actually didn't realize that the app was working as it did because users were expecting a delay and there wasn't a delay there. But I'll try to find it and put it in the show notes because I thought it was an interesting talk.
+
+<strong>NIK:  </strong>Yeah. You know, the whole idea of speed and that is very interesting. So, Tim Kadlec does a talk that I saw once where he kind of equates, this gets back to the animation and how things flow, to choreography. And it's not… he had this really interesting point where people don't perceive dance or ballet to be beautiful because the dancer holds some perfect pose where she's standing on the tips of her toes. Or then, I don't know the names of these moves. Aimee [might go] and help me out.
+
+<strong>AIMEE:  </strong>[Laughs]
+
+<strong>NIK: </strong> But then you know, jumps into the air and makes an X symbol, I'm pretty sure that's the technical name for that, X symbol in the air, that's not what's awesome, is that they can hit those two things. What's awesome is the fluidity and motion, the choreography between those two points. And I really like that. If we think about, I'm looking at an item details page and I hit 'add to cart', well you know, first I'm looking at a widget and now all of a sudden the number over the cart icon becomes a one. But there can be this beautiful choreography where we transition that over there and it makes sense to the user. And it isn't jarring and it's not irritating and it's not too slow and it's not too fast. But that's exactly what choreographers do when they're putting together a group of people who are going to do a performance. And so, I think that there's probably room for specialization within the UX world of UI choreographers.
+
+<strong>AIMEE:  </strong>So, switching topics a little bit, one of the questions that I had was about how if the new HTTP 2 spec will change some of the optimization approaches that people are currently doing right now?
+
+<strong>NIK:  </strong>It certainly does. And Ilya, who you mentioned earlier, is kind of the go-to guy on this. He has a presentation that he did at Velocity Conference around exactly that, that your old best practices may not apply anymore. And I'll put the, I'll hand over the link for the show notes for this. But essentially, some of the best practices that we've known for a long time, the ones that Steve Souders wrote in his books around HTTP 1 were things like reduce DNS lookups, reuse TCP connections, use a CDN, minimize number of HTTP redirects, use as few bytes as possible for what you transfer, compress, cache, and any resources you don't absolutely need, get rid of. All of those best practices that I just rattled off, those stay the same between HTTP 1 and HTTP 2. So, if you're doing those things, continue to do them.
+
+Now where things get a little bit more tricky is around the best practices of domain sharding, around the best practices of concatenating together resources, munging multiple JavaScript or CSS files together, or maybe a sprite, and inlining assets, maybe like you do a base64 encoded image or something like that into a page. Those things, we kind of need to reevaluate. So for example, the domain sharding thing where you might have img1.mywebsite.com and img2.mywebsite.com, you might have done that because browsers would only make X number of TCP connections to a given host. So, it opened up 6 to img1 and if you wanted more to be open then you could throw some of your images on img2 and you get six more from there. And that was a way to increase parallelization. But in HTTP 2, now we can do multiplexing over one connection. So, one TCP connection can be sending multiple assets back and forth. And we can even prioritize those assets and do some really interesting things there. And so, the reality is you don't really need that sharding anymore.
+
+To complicate things a little bit further though, the truth may be somewhere in between those two. Ilya just kind of says to remove them. And I can see his point. But in the world we are right now where users are probably split and some of them are using HTTP 1 and some of them are using HTTP 2, you kind of have to figure out, how do I evolve my performance practices? You're not just going to switch from the 1.1 best practices to 2.0 best practices. And so, for sharding in particular, you can do some smart sharding where that img1 and img2, if both of those host names resolve back to the same IP address, well that's good enough for the trick to work in HTTP 1.1 clients but in HTTP 2 it will see those two hosts, know that they go to the same IP address, and it will merge that onto one connection. So, just being a little careful about your DNS configuration, you can get the best of both worlds in HTTP 2 and in 1.
+
+Similarly with concatenating resources. We've always concatenated our resources to reduce the number of HTTP requests that were being made. But that came with some drawbacks. If I was concatenating together four or five different scripts and one of those changed, I had to invalidate the caching for all of the scripts because they were all bundled together. The browser just saw it as one. And so, because HTTP 2 allows you to send multiple responses down on one connection, that's not as important anymore. And so, there's been a lot of advice out there to no longer bundle things together. In HTTP 2, don't bundle things is what's being said.
+
+But now that people are starting to try that out, they're realizing that there are some other benefits of bundling besides just getting around TCP connection limits. So, Khan Academy just within the last couple of weeks put out a post on their blog where they noticed that when they were bundling their files together as they always have in the past, compression ratios were much better than if they individually compressed each file.
+
+<strong>JAMISON:  </strong>Oh.
+
+<strong>NIK:  </strong>So, if they had 10 files and you bundle them together and then compress, you get a much smaller number of bytes at the end than compressing the 10 individual files. The compression contexts are just so much smaller. And so, they're coming back and [inaudible] once again, what's the happy medium here? That happy medium is probably, well bundle some stuff together. If it belongs together, maybe it should be bundled together even though you have the HTTP 2 advantages, just for compression reasons.
+
+<strong>AJ:  </strong>So, I want to ask. It doesn't seem like there's a standard way to, and maybe this is a different topic but the server push allows you to say, “I know that you're going to request these assets so I'm going to go ahead and give them to you.” And it seems like that is completely application-specific, not like there's a standard way of saying, “The server's going to parse and cache your HTML file and it's gonna serve those up.” But it's like, your application has to decide to do that, or what's the best way. And so, a lot of features of HTTP 2 aren't ready for use yet. Is that, is my understanding correct or incorrect?
+
+<strong>NIK:  </strong>I'm going to pause that, AJ. I'm going to take a step back and I just want to tell everybody what server push that you're talking about is. In HTTP, we've always known that it's a request/response paradigm, right? The client says, “I'm looking for asset X,” and the server would say, “Okay, here you go. Here's asset X,” or it would return some kind of an error response. In HTTP 2, the client can now say, “I'm looking for asset X,” so let's say I'm looking for index.html, and the server can say, “Okay, here you go. Here's index.html. But I also know that you need logo.png and you need screen.css and you need this JavaScript file. So here, I'm going to push these down to you with a promise that you are going to need them.” And basically it's a way of priming the cache, getting that network connection started, before the client even realizes that it needs it.
+
+So, to your point AJ, exactly that scenario that I just said where we're pushing down logo.png and screen.css, the application has to know about that and actually has to say, “Well, index.html gets those files and I need to push them here.” And that's true. At this point right now, HTTP 2 is, the spec has been implemented and technically those things are feasible, but the best way of exposing that to web developers is still being worked out. So, I know that there's a Java web server, I'm pretty sure Jetty is the one that does it, there's a Java web server that keeps analytics of requests and response by looking at referrers. And if it notices logo.png and screen.css is always also being immediately followed up after index.html, it will start to build up a heuristics model and automatically do the push. So, the web developer's not changing their application at all. They just get these freebies because they're on top of that server.
+
+And so, I think that over time we're going to start to see frameworks and servers and the intermediaries between the code that I write and what my users use in the browser, it will start to get smarter about these things. But I think as of right now, it's basically manual with a couple of people who have figured out ways to automate it in some scenarios.
+
+<strong>AJ:  </strong>Yeah, that makes sense. Because just like you were saying, how would you cache bust that and be like, “No, I don't need the 10 megabytes of CSS and JavaScript. I've got it.”
+
+<strong>NIK:  </strong>Yeah, exactly. That's funny that you mentioned that. That's actually a feature of HTTP 2 that a lot of people don't talk about, is the client now has a way of canceling a request that it's made. In the past, the only way it could cancel was to terminate the TCP connection, which was very expensive because it adds a lot of overhead. But if your user has gone and navigated to another page in the middle of downloading some asset, now the browser could say, “You know what? Keep this connection open but cancel that thing.” You know, there's a lot of different ways that HTTP 2 is going to make web applications faster.
+
+<strong>AJ:  </strong>Coolie.
+
+<strong>AIMEE:  </strong>Okay. My final question. These are all things I've just been super interested in. So, next one, lots of people are using Babel, a lot of people are using TypeScript, some people probably are not just using native browser support since it doesn't support everything right now for ES 6. But how much do those things affect performance?
+
+<strong>NIK:  </strong>That is a difficult question to answer.
+
+<strong>AIMEE:  </strong>[Chuckles]
+
+<strong>NIK:  </strong>Because it will…
+
+<strong>AIMEE:  </strong>I don't…
+
+<strong>NIK:  </strong>It will depend on your code that you're writing that those transcompilers are doing something with. And some of those transcompilers are, some of them have different focuses. Some of them are more focused on being absolutely as correct as possible whereas others might cheat, or not completely implement the ES6 feature, the “right way”, because it's just not reasonable. And so, I'll give you an example of this.
+
+Traceur has an implementation of the let. So, let is kind of like var but it allows you to put a scope around a variable and so the variable's not hoisted like we've always been used to with JavaScript and var. Well, to do that in ES5, they do it by wrapping up your variable declaration and usage inside of a catch statement, so the code that it emits is something like: try, the one line inside of the try block is throw an exception, and then in the catch block they can put a let around… they basically are able to use a let because catch works that way already. Now, try/catch blocks in your code mean that some browsers aren't able to optimize the performance of that method in a certain way. So, I know that in Traceur, using let actually will slow down your code quite significantly as if you didn't. But you know, there's lots of new features in ES6 and different ones are faster and some of them are slower.
+
+And so, if you look at six-speed on GitHub, it's kpdecker on GitHub, six-speed is a microbenchmark. And so, whenever there's a microbenchmark like this, be wary because it's not necessarily real-life right? They're doing one very small thing executing it over and over and over again in a loop and figuring out if this thing is faster or smaller. And you probably never write code that loops over an arrow function execution a million times. That's probably not your code. So, does this matter? Maybe not. But it's interesting from an academic perspective. And so, what he has done is gone through a bunch of different ES6 features, written the corresponding code in ES5, executed it across many different browsers including Chrome, Firefox, IE, Edge, Safari, and Node as well, and then run the ES6 implementation that he hand-wrote through all of the different transcompilers.
+
+So, he has Babel and Traceur and TypeScript and a couple of other ones in there. And then he runs the corresponding code on each browser. So, in some places you will find code that is 10 times slower than if you hand-wrote the ES5 code. And in other places there is code that is identical and even faster in a couple of places, 1.6, 1.2 times faster than what you would write if you wrote it by hand. And so, it really depends on what feature you're trying to use. Now, I would say Aimee the reality is, is I don't think that the language features, when we think about ES6 we're thinking about new keywords and new syntax or syntactic sugar over the syntax that we already have, I don't think that that usually is what trips us up with JavaScript. It's reading and writing from the DOM and that corresponding ripple effect. And so, if you're not dealing with the DOM in your code, you're doing some computation or something like that, I don't think you're going to see a huge difference when ES6 is natively implemented or you're running on a native implementation. You may see a difference…
+
+<strong>AJ:  </strong>If ES6 is every natively implemented.
+
+<strong>NIK:  </strong>Yeah, that's true. That's true. But you will see a difference depending on how it is back-compiled based on your transpiler.
+
+<strong>JAMISON:  </strong>That's a point I think that deserves even more emphasis, talking about… I guess at that point you're getting into the hot loop of your code. There's some part of your code that gets run more than other parts. And slow downs in that part of your code will drastically, will more strongly impact the performance of your app overall. We talked about this at work and I found another benchmark that shows similar numbers. It's a different set of test cases and a different person doing them so they're not exactly the same. But there are some things that are 20 times slower in Babel compiled code than the ES5 version of… so, it's a different feature but you're doing the same thing, kind of. And the debate was, “Well, 20 times slower sounds awful. No one wants their code to be 20 times slower.” But the other side of the debate is if it's one microsecond and now it's 20 microseconds, that doesn't matter. [Chuckles]
+
+<strong>NIK:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>That's not going to actually make your app slower. And if you make an HTTP request that takes 200 milliseconds, then all of the micro-optimizations you got from not using the newest features are totally blown away by the 200 milliseconds that it takes for the response to come back.
+
+<strong>NIK:  </strong>Yeah, yeah.
+
+<strong>JAMISON:  </strong>So, it's… I don't know. You got to balance the benchmarks with what's actually slow in your app.
+
+<strong>NIK:  </strong>You're exactly right. I think one of the biggest difficulties for developers when talking about performance is understanding the scale of the numbers that we're talking about. I heard a lot of arguments years ago that Bill Gates should run for president. And the reason was because he was the only person who could understand the numbers that were in the trillions and the billions that our nation has to deal with. And I was like, “Okay, that's kind of an interesting point,” because I didn't understand hundreds of thousands of dollars until I bought my first home. And I'm like. “Now I understand hundreds of thousands of dollars.”
+
+<strong>JAMISON:  </strong>[Chuckles]
+
+<strong>NIK: </strong> Millions of dollars is beyond me. But Grace Hopper, she was very fundamental in compilers and computer science, she was in the army. Or, I don't actually know. She was in the military of some sort, some branch, maybe the Navy. I'm not sure. Anyway, she has this amazing video that she did right about the time she's about to retire where she tried to visualize performance. And her generals were arguing with her, were yelling at her for how long things were taking. And so, she called down to the shop where the circuits were being made and she said, “Can somebody please cut me off a nanosecond? I want to be able to show people what a nanosecond was.” And they were all kind of like, looking at her like she was crazy. “What are you talking about?” And she was like, “Well, this is easy to figure out.” We know what the speed of light is. I want to know in a piece of wire how far data or electrons can flow in a nanosecond.
+
+And so, it's kind of weird because it's wire and we're talking about the speed of light and so it doesn't completely equate. But basically if you go with the analogy that she's making, one nanosecond is 11.8 inches long. And so, she jokes in the video that when they call me and tell me things are slow, I hold up the piece of wire and say, “How many nanoseconds do you think are between me and the satellite where you're bouncing that communication off of?” And so, I thought that was pretty funny. So, basically a foot is a nanosecond. If you go to a microsecond, what you were just talking about Jamison, that's 984 feet.
+
+And so, on the video she takes out this coil of wire that you can maybe wear around your head like a necklace or something like that. And she said, you know, I believe that any developer that's wasting microseconds should have to wear one of these all day. I did the calculation to extend this, because we don't even deal with microseconds usually in web apps. We're talking about milliseconds at best. And so, one millisecond is 186 miles. That's how far we can transfer that data. So, every time we throw away a millisecond we have to think about the scope and how big that is. And so, there's also a funny video where she does the same thing with David Letterman. Right after she retired David Letterman had her on the show. And so, I'll make sure we get that into the show notes.
+
+<strong>CHUCK:  </strong>So, I'm pretty famous on this show for liking things that are Rails and I like the way you started that out with RAIL. Have we talked about all four points in that?
+
+<strong>NIK:  </strong>No, we have not. So, Rails is the Response, Animation, Idle, Load. So, Load I think we covered pretty well in the last show. Basically, they come down to the recommendation that you should be loading your page with a speed index of a thousand milliseconds. And I think that they said that if it's on mobile the speed index should be around 3,000 milliseconds.
+
+Response we've loosely talked about. That's providing feedback to the user's gesture in a hundred milliseconds. So, if I click on a button, it needs to be depressed in a hundred milliseconds so I know that the system has received my input gesture. But you know, it's actually funny. Maybe we have talked about all this but we've just danced around them and not called them out specifically.
+
+Animation they say should hit, you should be striving for 60 frames a second and driving back to that 16-millisecond budget I mentioned earlier. And so, making sure that all of your animation is being done within 16-millisecond blocks of time, trying to break it up into something that fits that and leverage 'request Animation Frame'.
+
+Now the last one is Idle. And this is if you have a chunk of work that you need to do but you don't have to do it right now, it would be nice if you could wait until the user was idle on your app. Maybe they're reading a paragraph of text and so there's no movement going on. They're not scrolling or doing anything like that. Hey, you have some time where nothing else is going on to process a chunk of work. And so, what they are recommending that you do is you group that chunk of work into about 50-millisecond chunks of time. And that's so that, 50 is a number that they've chosen because if you do… the user does a scroll or something like that, you want to be able to respond to them fairly quickly and not be locked up doing too much work at that point.
+
+And so, there's actually a new API, [inaudible] the name of it. It's only shipping in Chrome right now. I think it's something like 'request idle callback'. And basically the browser will detect when the user is in one of these idle states and say, “Okay, now is a good time. Go pop some work off of whatever queue you have and do some processing. And I'll tell you if they're idle again.” And that way you're not sitting there trying to manage and figure out when they're idle. And so, Paul Lewis, aerotwist on Twitter, has a very good Udacity course on all of this stuff, particularly around RAIL. So, if you're interested in it I'm pretty sure it's a free course. I recommend going and checking that out.
+
+<strong>JAMISON:  '</strong>Request idle' looks cool. It seems like a good time to do things like analytics, maybe collect a bunch of user data and then you send it off when they're idle instead of sending it on every click or something like that.
+
+<strong>NIK:  </strong>Yeah actually that's funny that you give that exact scenario. You're going right at the heart of the type of stuff that you might do. But for that scenario there's another new API called the Beacon API.
+
+<strong>JAMISON:  </strong>Oh, jeez.
+
+<strong>NIK:  </strong>[Chuckles] Yeah. JavaScript's moving quickly these days. So, the Beacon API is specifically made for sending analytics type data, whether it's RUM metrics that you're gathering or maybe Google Analytics style usage data, and firing that off at a moment when the network activity is low. And so, this 'request idle callback' is probably a little bit more geared for CPU-intensive work, not necessarily network-intensive work. But Beacon is really good at that.
+
+<strong>JAMISON:  </strong>Interesting. I've heard of Beacon but I didn't know that's what it was for.
+
+<strong>NIK:  </strong>Yeah. If you've ever had to try to write a beacon, it's surprisingly difficult. You would think, “Oh, I'll just Ajax some data off.” But when do you send that request? And so you might think, “Oh, I'll do it inside of the unload event.” Okay, well most browsers actually don't allow you to make asynchronous calls inside of unload. They just ignore that. So, now you could do a synchronous inside an unload, but that completely slows down the user's experience. Especially if you're sending back unimportant to the user data like analytics. Well, now you just defeated the purpose. You've slowed down their experience just so you can watch what they're doing. So, other people, they'll use like a tracking GIF or something like that. But there's only so much data you can put on URL parameters, et cetera, et cetera. It's actually more complicated than it seems like it should be. And so, Beacon is there to make those scenarios much more simple.
+
+<strong>CHUCK:  </strong>You know, I've seen memory issues. It seems like they've gotten better over the years. Is it still an issue or is that only on mobile devices though?
+
+<strong>NIK:  </strong>It's certainly more of an issue…
+
+<strong>JAMISON:  </strong>Oh, I can write memory leaks in any language and [inaudible].
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>…best.
+
+<strong>CHUCK:  </strong>But for the most part, you have to create a lot more objects in memory on your page to get it to really hurt yourself on the desktop.
+
+<strong>JAMISON:  </strong>Not if you have a [full] loop. I mean, apps are staying open longer as people are building more and more…
+
+<strong>CHUCK:  </strong>Yeah, fair enough.
+
+<strong>JAMISON:  </strong>Application type things in JavaScript. And so, a little leak can hurt you whereas before you just open your page and close it so you'd never notice.
+
+<strong>AJ:  </strong>And the more objects you create, the more have to get garbage collected. And that garbage collection has to happen at some point in time. So, if you have a loop where you're just using a temporary object once for a function, that object builds up memory until that loop exits and then it's appropriate time for it to be garbage collected. And that does cause pauses.
+
+<strong>CHUCK:  </strong>Of course, Chuck. You can't just be right.
+
+[Laughter]
+
+<strong>JAMISON:  </strong>We've dove too deeply though. Let's back up.
+
+<strong>NIK:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>JavaScript is garbage collected.
+
+<strong>AJ:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>Why do I care? This should all be solved for me.
+
+<strong>CHUCK:  </strong>Magic!
+
+<strong>NIK:  </strong>Well, theoretically from an academic standpoint, if you think about what garbage collection is, this is really supposed to abstract away memory from a developer so that memory looks like it's an infinite commodity. You just keep on consuming it and the collector is in the background hiding away the fact that you're running out of it and it's cleaning up things for you. Theoretically, that sounds great. But in reality, we pay a cost for that. So, obviously there are lots of languages that are not garbage collected. I am lucky to say that in my professional career of 18 years, I've never had to write production code that wasn't managed. Only in university did I have to do that. And so, that makes me feel embarrassed at times but it also makes me feel very happy. [Chuckles]
+
+<strong>CHUCK:  </strong>Oh, yeah. Yeah, I've written some iOS code before they really pushed automatic resource counting on you, which still isn't garbage collected but it's mostly automatic and doesn't write.
+
+<strong>JAMISON:  </strong>People sometimes could say you're sheltered. But to me being sheltered sounds like a good thing because you don't have to deal with all the rain and the hail falling on you.
+
+<strong>CHUCK:  </strong>Yeah, it's a nice land to live in, believe in me.
+
+<strong>JAMISON:  </strong>Yeah. Yeah.
+
+<strong>CHUCK:  </strong>Malloc and free, baby.
+
+<strong>NIK:  </strong>I have a few less scars, that's for sure.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>AJ:  </strong>And there's the security aspect, too. Like, where does every root exploit in the iPhone come from?
+
+<strong>CHUCK:  </strong>Oh, that's true.
+
+<strong>AJ:  </strong>You know? And Internet Explorer. Every, well some of those are just poor programming, but Sony exploits come from memory management. And so, it’s something that most developers aren't equipped to do.
+
+<strong>NIK:  </strong>Yeah, exactly.  For me, being a developer is kind of who's borne of the web, that's always been my platform of choice since day one, since before JavaScript was even there. I've always had garbage collection. And the challenge there is the garbage man has to do work. He's got to go down the street and it takes some time for him to empty out all of the stuff that you've thrown out on the side. And so…
+
+<strong>JAMISON:  </strong>Do we, I'm sorry. Did we get a clear enough definition of what garbage collection is? Just in case people aren't familiar.
+
+<strong>NIK:  </strong>Let me provide one.
+
+<strong>JAMISON:  </strong>Okay.
+
+<strong>NIK:  </strong>So essentially, as you are creating new DOM elements, variables, all these different objects and things that you're using in your language, at some point you build more and more and more and more until you no longer have space to continue to create. The workbench is full. And so, the garbage collection is an engine that will basically pause your work. It says, “Hey, you can't do anything else on this workbench. I'm going to go through, I'm going to clean up everything that needs to be cleaned up, everything that you aren't using.” And the way that it does that is there's actually a tree structure that's maintained in your code. And it walks through all of that tree structure and it marks things that are being referenced. So, your root object, your window object is referencing the navigator and the navigator is referencing X, Y, and Z. And so, it keeps track of everything that's being referenced. And anything that does not get that check mark, like, “Check this is still being used,” will get cleaned up.
+
+And so, this actually reminds me of, we just had thanksgiving here in the states last week. And I was the guy in charge of cooking and so there was a huge mess. There was flour all over the place and I was making gravy and cranberry sauce. And my sister-in-law would come behind me and say, “Nik, are you done with this knife? Are you done with this spatula? Are you done with this pot?” And if I said yes, she washed it and put it in the dishwasher so we could keep the counter free for me to continue to work and make more things.
+
+<strong>JAMISON:  </strong>That's actually a good analogy. I'm going to steal that.
+
+<strong>NIK:  </strong>[Chuckles] Take it. Yours.
+
+<strong>JAMISON:  </strong>[Chuckles]
+
+<strong>NIK:  </strong>You just have to attribute me. So, every time after you say it, you say, “By Nik Molnar.”
+
+<strong>JAMISON:  </strong>[Laughs] Done.
+
+<strong>NIK:  </strong>And so, my sister-in-law was the garbage collector. Now, truth be told what I just described to you is a simplistic world view of garbage collection. But it's good enough to know that I had to stop smoking my turkey every time my sister-in-law asked me what I wasn't using. And that's wasted time. And so, in our JavaScript programs we get to a point where there's memory pressure. We need to clear off the counter. We need to clear the workbench. The browser will stop your code from executing. You will see jank. You will see stutter. Or the user will see jank and stutter. And it will go through and it will clean up all of the memory, freeing up a little bit more space for you.
+
+And so, when we talk about performance, memory and performance don't necessarily have a ton to do with each other except for this intersection of garbage collection. And if you're burning through memory or you have a memory leak where things are continually being created and you don't really realize it and it's causing the garbage collector to have to go in to clean it more often than it should, then yes, you will see performance. Addy Osmani has a video that he calls the 'JavaScript Memory Management Masterclass' that if you're really interested in this, I recommend that you watch.
+
+Now, a little earlier we were talking about, well does memory even matter anymore? Maye it only matters on mobile. Well, we all know that mobile is more and more, that it represents more and more of the usage of our applications. So, mobile is important. Yes, it does have less memory generally. So, you'll feel that pressure more quickly than you would on a high-powered desktop machine. But you'll still run into memory management issues on a high-powered desktop machine as well. And so…
+
+<strong>AJ:  </strong>Well, and phones have gotten to the point where they almost have as… they in many cases have as much memory as your cheap laptops that you're getting at Walmart.
+
+<strong>NIK:  </strong>Yeah, exactly. The bottom line is though that as we continue to get more and more power on the hardware, we're getting more and more power in our software, right? We were just talking about the Web Animations API or there's Web Audio, or putting video into websites left, right, and center nowadays. So, every time we get a larger counter, we find more tools and more things that we want to make and create that can consume that memory more quickly.
+
+But the other thing to realize is you don't get all of the memory on the machine. So, if I'm looking at my laptop and it has eight gigs of RAM in it, I don't get eight gigs of RAM to run my website. My operating system is taking at least half off the top and then it's sharing that across all of the different apps that I might be having between my browser and my email client and this, that, and the other. And then I've got, I can even count, I probably have at least 30 tabs open right now that's trying to share memory. That'd be an interesting game, how many tabs do you have open right now? So, the memory space gets whittled down pretty quickly and very easily across applications, mobile or not.
+
+<strong>JAMISON:  </strong>So, that's kind of laying out the problem and why it exists. What do you do about it? Do you just watch Addy Osmani's video? Do what he says?
+
+<strong>NIK:  </strong>Just do what Addy says. I think that's a good start.
+
+[Chuckles]
+
+<strong>NIK:  </strong>The tooling is also built into the dev tools from the browser vendors. So, in Chrome you can run a memory profile. Basically what you usually end up doing is you will take a snapshot. It will capture the state and memory for your app at some point in time. And then you will do the thing that you think is consuming a lot of memory and take another snapshot. And then you can do a diff. And it will tell you literally like, “You had X number of new strings allocated, and this is the number of strings that were deallocated, and here's how long it took to run garbage collection and how many times garbage collection was run, et cetera, et cetera, et cetera.” And so, you could start to track down exactly why memory is being used or where it's coming from.
+
+Memory gets really interesting because a lot of memory management has to do with understanding the data structures that you're using in your code. Because a lot of times a particular object that you're like, “Oh, I'm not using this anymore. There's no way that this should be sticking around,” will be pinned because something else is holding onto it that you don't realize. I'll have to send you guys the link. There is a book by my old employer Redgate. Actually, it's focused on .NET and memory management in .NET but the general principles and patterns for how to tackle these problems are very, very well laid out in this book. And even thought the API calls might look slightly different than they would in JavaScript, I'll recommend it. And it's free. So, I'll make sure that it shows up in the show notes and I can't find it right off the top of my fingertips right now. That was a real let-down.
+
+<strong>JAMISON:  </strong>No, we can just post it in the show notes and then you'll be a wizard.
+
+<strong>CHUCK: </strong> Yup.
+
+<strong>NIK:  </strong>Perfect.
+
+<strong>JOE:  </strong>Is there an easy way to tell when you have a performance problem if it's a memory problem versus an actual performance problem?
+
+<strong>NIK:  </strong>So, memory problems can happen in two different places and that's going to be on the server side or the client side. Typically on the server side you will see memory problems resulting in longer than normal server response times, especially if it's intermediate. Because what ends up happening is if you run into a huge problem and garbage collection happens or the application just might get recycled entirely by IS or Apache or whatever web server you're using that usually means that your caches are also getting flushed, the data caches that you have, not HTTP caches. And so, the next time you run that request, it's got to go and query all the data again and things like that.
+
+And then on the client side it's going to, you're going to notice it with jankiness in your application. And you might say, “Man, I'm not even really doing anything here in my JavaScript but things are running slow.” That's probably a sign of a memory issue. So, there's not a very easy way to look at a problem and say, “Oh, this is memory,” or, “This is CPU,” without running the tools on it. So, if you're not sure, I would say start with a CPU profiler on either the server or the client. And you'll be able to see what your code is doing. And then if you're like, “You know, all of this seems like it should be fine and I'm taking much longer than that,” then maybe look at a memory profiling tool.
+
+The other thing that you might want to do is at least just turn on a counter in whatever tool of choice that you have for keeping track of when the garbage collector runs. And so, the memory profilers in all different languages will do that. And so, if you see that you're getting a lot of GCs, garbage collections running, then you probably have a memory problem. And so, usually it'll draw a graph that shows your memory usage. And so, if your memory usages continue to go up and up and up and up, that might be a problem. But the more alarming one is when it goes up and then it falls back down and then it goes up again and it falls back down. And it kind of makes a saw tooth pattern. And that's kind of problematic because you know that you're continuing to hit memory pressure. And when it drops back down again on the saw tooth, that's usually synced up with garbage collection running. And so, when you see that, memory usage isn't the problem. Getting it collected very often typically can be.
+
+<strong>JAMISON:  </strong>I think that problem seems like it's a bigger problem the more performance sensitive your application is, too. Like I know on games they spend a ton of effort reducing garbage collection pause times and things like that.
+
+<strong>NIK:  </strong>Yeah, exactly. Because games are extremely low latency, right? You don't want to go to shoot the bad guy and then garbage collection happens in your root.
+
+<strong>JAMISON:  </strong>Sure. [Chuckles]
+
+<strong>NIK:  </strong>You know, I think the other thing is SPAs are very popular and they're getting very popular for a couple of years now. But web developers haven't necessarily had long-lived pages. You make another request, you've completely dumped the memory space, you download the new page and you start over again. And so, we traditionally haven't been running into memory pressure situations. And I think that now as you're putting more and more client, right client side functionality into the app, is when you're really starting to see that. So, it's kind of a new discipline for us and certainly not one that I'm an expert in. You guys could probably do a whole other show with a memory wizard and talk just about that.
+
+<strong>AJ:  </strong>So, if you are interested in learning about interesting problems and solutions in garbage collection, Golang 1.5 came out a little while ago and they seem to have found the holy grail and they've got a talk that I'll link to that's pretty cool.
+
+<strong>JAMISON:  </strong>As far as how to do garbage collection well, you mean?
+
+<strong>AJ:  </strong>Yeah, they do it multi-threaded and they make it so there's no GC pause because they've round-robined between the threads. Whichever thread is allocated memory has to dedicate some time to cleaning up memory. And then there's only a small pause to make sure that each thread has done its own work. So, it has only a very little bit of memory to go through instead of having to go through all the memory of all the threads.
+
+<strong>JAMISON:  </strong>That sounds hard. I'm glad someone else did it.
+
+<strong>AJ:  </strong>[Laughs] Yeah.
+
+<strong>JAMISON:  </strong>[Chuckles] It sounds like they did a great job.
+
+<strong>AJ:  </strong>It sounds like it.
+
+<strong>NIK:  </strong>Yeah, I have no experience there so I can't comment. But that sounds pretty incredible. I know that Go is getting a lot of attention right now for a lot of the right reasons. So, it'll be interesting to see how that community grows over time.
+
+<strong>AJ:  </strong>Yeah, if they were dynamic, you could load stuff on the fly, I'd be using Go instead of Node right now.
+
+<strong>CHUCK:  </strong>Alright, then. Before we get to the picks I just want to acknowledge our silver sponsors.
+
+<strong><em>[This episode is sponsored by Thinkful.com. Thinkful.com is the largest community of students and mentors. They offer one-on-one mentoring, live workshops, and expert career advice. If you're looking to build a career in frontend, backend, or full-stack development, then go check them out at Thinkful.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by TrackJS. Let's face it, errors cost you money. You lose customers or resources and time to them. Wouldn't it be nice if someone told you when and how they happen so you could fix them before they cost you big-time? You may have this on your backend application code, but what about your frontend JavaScript? It's time to check out TrackJS. It tracks errors and usage and helps you find bugs before your customers even report them. Go check them out at TrackJS.com/JSJabber.]</em></strong>
+
+<strong>CHUCK:  </strong>Jamison, do you want to start us off with picks?
+
+<strong>JAMISON:  </strong>I totally want to. I've been so ready for these. First pick is a podcast, cheating on us, but it's in a totally different genre and I don't think you would listen to this and be like, “I guess I don't have to listen to JavaScript Jabber anymore.” It's called the Hardcore History Podcast by this guy named Dan Carlin. And the episodes are three hours long, three or four hours long. And it's just about history. He's an amazing story teller and he picks interesting events. And then he pulls interesting threads out of them.
+
+So, I've just been listening to, it feels more like books on tape than a podcast just because they're so long and they're so, they're these connected stories. I listened to one about Xerxes the Persian emperor guy. And then there's this series of five, it's like 20 hours on World War I. And I always liked history in school and then I fell away from it. So, it's been fun to learn about this stuff again. So, he's got a bunch of them for free and then you can buy his back catalog, basically. Because the production value is high. You can tell he puts a ton of time into them. It's not just like… yeah, so he makes money by selling old ones, basically.
+
+My next pick is this article called 'Empirical Programming languages'. Oh, no that's the URL. The article is called 'Static vs. Dynamic Language: A Literature Review'. There's a lot of debate about if dynamic languages are better or statically typed languages are better. And there's been a bunch of studies about the productivity and stability benefits of either one. And this article just looks at all the studies and points out some that don't really tell you anything useful and some that seem like they tell you useful things. So…
+
+<strong>JOE:  </strong>And makes a final conclusion for us to know?
+
+<strong>JAMISON:  </strong>No. The final conclusion is a big shrug. It's an 'it depends', which is…
+
+<strong>JOE:  </strong>Oh, I could have done that then.
+
+<strong>JAMISON:  </strong>Which is helpful to cut through, there's so much rhetoric around this, right? Especially if you're into the statically typed purely functional languages. They talk so much about how it's just so amazing and nothing can ever go wrong and there's no downside. And there's some research that suggests there's a downside to everything. Surprise. But it's really long but it's also really well written.
+
+And then my next two picks are less [chuckles] they require less of your brain power. One is this guy's Tumblr. He's called TJ Fuller and he just makes awesome GIFs. I posted one in the Skype chat and it terrified AJ. They're kind of these weird glitchy animated GIFs of animals.
+
+And then the other one is Pickle Cat. It's this WebGL HTML5 audio experiment of a cat shooting pickles with its laser eyes. Those are my picks.
+
+<strong>CHUCK:  </strong>Ooh, you know that's quality. Pickles and cat.
+
+<strong>JAMISON:  </strong>Yup. And laser eyes.
+
+<strong>CHUCK:  </strong>And laser eyes. Of course. Alright, Aimee, do you have some picks for us?
+
+<strong>AIMEE:  </strong>Yup, I do. So, I'm really surprised that I haven't picked this a long time ago, because I should have. But when I was at Nodevember and I was talking to Derick Bailey, it reminded me that I needed to pick this. So, there are so many different tutorial sites out there right now. But a lot of them are focused on a specific framework. And there's not a lot out there to just learn JavaScript. So, I wanted to pick the WatchMeCode screencasts, because those are the actual screencasts I subscribe to, to help me prepare for my JavaScript interviews after my bootcamp. And I thought they were really helpful because chances are, and I would hope that if you do have to answer technical questions for an interview they're asking you more JavaScript questions than framework questions.
+
+And then my second pick was just a tip that I've been doing. And I mentioned it to other people and people really seem to like this. So, if you're newer, I think it's important to realize that you shouldn't jump around too much, especially if you're a JavaScript developer. There's a lot going on right now. So, I specifically did Angular a lot my first year because I know it was a way to contribute to my team really quickly. But now I've stepped away from that and really focused on the backend. And it's been a deliberate effort on my part to not jump around the next thing I see coming up and to stick it out and tackle some goals I've set for myself with Node right now. So, my point being stick to one thing at a time, set some goals for that one thing, and don't move around until you've reached goals. And that's it for me.
+
+<strong>CHUCK: </strong> Alright. Joe, what are your picks?
+
+<strong>JOE:  </strong>Oh, those guys have so many awesome picks. I don't want to follow that show.
+
+<strong>JAMISON:  </strong>Yeah, it became…
+
+<strong>JOE:  </strong>But I will.
+
+<strong>JAMISON:  </strong>Oh, okay. [Laughs]
+
+<strong>CHUCK:  </strong>I was holding out.
+
+<strong>JOE:  </strong>[Laughs] The suspense is killing you?
+
+<strong>CHUCK:  </strong>That's right.
+
+<strong>JOE:  </strong>Alright. I'm going to pick a song that Pink did. She did a cover of the Bohemian Rhapsody. And she did it at a live show in Australia. And it was really awesome. Strangely enough, I heard it while I was driving through Germany near Frankfurt in the middle, well not in the middle of the night, but late one night, on the way to a castle which makes the story so much more interesting, right?
+
+<strong>NIK:  </strong>Joe, I'm not familiar with that song. Can you sing a little bit for us?
+
+[Laughter]
+
+<strong>JOE:  </strong>You know what? I could but I'd have to charge you for it. I have a strict copyright on my voice. So no, I'm not going to bludgeon your ears with my voice. But Pink did an awesome job covering Bohemian Rhapsody. The problem is, it's not apparently available. It's not on Spotify or anything like that. But you can find it on YouTube, a really good recording of it from her, this live show she did in Australia. And apparently she never put it on an album as far as I can tell. I think you can buy the CD for the live show of Australia but I couldn't find it streaming anywhere. But I really liked it. I thought it was awesome. So, that's going to be my first pick.
+
+And then my second pick is going to be, since we're talking about such an erudite concept today, I'm going to pick Rich Hickey's talk 'Design, Composition, and Performance'. One of those talks that really every developer should watch, whether it's a rite of passage or whatnot. It's a great talk and absolutely illuminating. And so, that will be my second and final pick.
+
+<strong>CHUCK:  </strong>Alright. AJ, what are your picks?
+
+<strong>AJ:  </strong>Alright. So, I'm going to pick Undisclosed is a podcast that is kind of a sibling podcast to Serial which is about the case of a high school kid that got put in jail for, was convicted of committing murder without any evidence against him. And Undisclosed, they go into really, really nitty-gritty details about the case. And so, I've listened to all of Serial and all of Undisclosed up to this point. And it's just been really enlightening and scary and it makes me think that if I ever am on trial for something, please hire me an infographic artist, not a lawyer.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>AJ:  </strong>Because people just need to see pretty picture and know that these things aren't possible because these times overlap and therefore I'm not guilty. Oh, and by the way, there's no evidence against me.
+
+And then there's a YouTube channel called Gaming Historian which is really cool. And in particular he has a video on the history of himself, how he became the Gaming Historian. And I thought it was very insightful and inspiring because he just talks about how he against opposition and people telling him, “You're an idiot. You can't actually be a gaming historian. That's not a thing,” that he did it anyway and has become successful enough. And I just thought it was really cool. And that's all I have for you today.
+
+<strong>CHUCK:  </strong>Alright. I've got a couple of picks. The first one is, and I'm going to pick it mainly because it just popped up in my face again. I'm doing 15-minute calls with podcast listeners. So, if you listen to the show and you really want to chat for 15 minutes I've had people ask me about how to find a job. I've had people tell me what they wanted me to do with the shows. I've had people give me ideas for different things that I could do as far as info products go. I've had people talk to me about life and kids, just anything really. I just want to get to know who you are and get to know a little bit about you. So, if you want to do that, go to JavaScriptJabber.com/15minutes and you can book a time with me there. It'll be a 15-minute Skype call so we'll be talking web cam to web cam.     The other pick I have, I'm going to throw this out there. It's JS Remote Conf. I wasn't going to pick it but Aimee pointed out WatchMeCode by Derick Bailey. And Derick is the latest person that I've added to the speaking roster. So, he will be speaking at JS Remote Conf as well along with Aimee and AJ and a few other people. So, super excited about that.
+
+Finally, I'm actually going to be putting on 12 conferences next year. That sounds crazy. I'm doing one every month. As part of the deal I had, I actually replaced on of the conferences, podcasting conference, with a React Conference because I had a whole bunch of people ask me for it. And then I had a whole bunch of people come back and say, “Hey, I wanted the podcasting conference.” So, I'm going to put that on, too. I don't know when that is. But you can get tickets to all those conferences by going to AllRemoteConfs.com. I've been working hard on that. And yeah, you should be able to buy tickets and stuff there. And you can see what we're doing. We're covering Git and Postgres and NoSQL and JavaScript and Angular and React and a whole bunch of others.
+
+So, there are going to be a bunch there that you're going to want to go to and you can buy a three-pack, a six-pack, a nine-pack, or a season pass which gets you into all of them. I'm also working with a few people to get developer leadership podcasts. I'm talking to Marcus Blankenship about that. And I'm also talking to Erik Isaksen who does the Web Platform Podcast. And we're working on putting together a Web Components Conference. So, if you're interested in any of that, you can go check it all out. It should be on AllRemoteConfs.com and if it's not then I'll update you in a future show.
+
+Finally, I've gotten addicted to two games on my iPhone that are pretty similar. The first one is Clash of Clans. And I don't know. I'll probably be not addicted to it in another week. But for right now, I'm really enjoying it. So, I'm going to pick that. My handle on there is the same as my handle everywhere else. So you should be able to figure out who's me.
+
+The other one is Star Wars Commander. And it's a lot like Clash of Clans except it's all Star Wars themed. So, you can join the Rebellion or you can be smart like me and join the Empire. So anyway, super cool. A lot of fun. So, I'm going to pick those.
+
+Nik, what are your picks?
+
+<strong>NIK:  </strong>I went with a bit of a holiday shopping theme, so it's kind of a gift guide for geeks. Things that I've liked or that my friends have liked that I thought were cool. The first is a smart credit card. I think Coin currently is the only one shipping. I have a Coin 2.0 and it lets me switch between my AMEX and my Visa and my debit card all with carrying just one piece of plastic in my pocket.
+
+The next is the Airhook. This was Kickstarted and it's just about to ship. It's this little thin piece of plastic that you, if you're on a plane a lot like I am, you can open up a tray table, you jam this in there and you close the tray table, and it's a stand for your phone or your tablet and a drink, because I found myself looking down at the open tray table all the time and getting neck injuries watching videos on my iPad. And so, this lets me prop it up and mount it to the back of the seat really easily.
+
+<strong>CHUCK:  </strong>I need one of those.
+
+<strong>NIK:  </strong>Yes.
+
+<strong>CHUCK:  </strong>I mean, that sounds really cool.
+
+<strong>NIK:  </strong>Yeah, it's pretty slick. It's like $20 and I get to receive mine. I'm supposed to be getting it in a couple of weeks. But I'm pretty excited about it and the videos for it look pretty nice.
+
+<strong>CHUCK:  </strong>So, is it too late to support the Kickstarter campaign?
+
+<strong>NIK:  </strong>I think it's too late to support the Kickstarter but you can still pre-order them on their website.
+
+<strong>CHUCK:  </strong>Okay.
+
+<strong>NIK:  </strong>TheAirhook.com. And then the last one I was watching the thanksgiving day parade and I heard Al Roker or somebody say something that I hadn't heard before that I thought was interesting, is there was a float by GoldieBlox, B-L-O-X, which is a children's toy company. They make toys for, particularly targeted at young girls trying to get them interested in engineering and STEM fields. And so, the float that they had going down New York, down [inaudible] in New York City, you could actually go and buy the little toy and make that float. And that was the first time you were able to make a float that you saw in the parade. And so, GoldieBlox has this little doll and a story that goes with each little kit. And you read the story about how GoldieBlox used her engineering prowess to save the day. And then whatever little simple machine she built, you had all the tools to go and build the same thing. So, there's like a fun little dog watcher and things like that. And so, all the little girls in my lives, my nieces and my friends' daughters and stuff like that, that's what they're getting from us for the holidays. So, those are my picks.
+
+<strong>CHUCK:  </strong>Alright. Well, if people want to follow up with you or see what you're working on, I know we asked this before, but yeah, where do they go?
+
+<strong>NIK:  </strong>Best way to do that is my blog or Twitter. My blog is Nik Codes, N-I-K codes dot com. And my Twitter is NikMD23. And since we last chatted my new Pluralsight course came out.
+
+<strong>CHUCK:  </strong>Yay.
+
+<strong>NIK:  </strong>Yay. So, my 'WebPage Test Deep Dive', which we discussed a little bit in the last episode. But this is nearly three hours covering every different feature of WebPage Test. And I got a lot of good feedback on my other course after the last show. So, I would love for the audience to do the same about my new course and tell me what's good and bad and can make the course as good as it can be. So, that's where to follow up with me.
+
+<strong>CHUCK:  </strong>Alright. Well, thanks again for coming. It's been a lot of fun. We'll wrap up and we'll catch you next week.
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]</em></strong>
+
+<strong><em>[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]</em></strong>

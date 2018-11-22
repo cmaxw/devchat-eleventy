@@ -1,0 +1,186 @@
+---
+layout: layouts/post.njk
+title: >
+      EMx 025: Rethinking App Env & Anything else Elixir related with Saša Jurić
+date: 2018-10-30 10:00:32
+episode_number: 025
+duration: 1:04:39
+audio_url: https://media.devchat.tv/elixir-mix/EMx_025_Rethinking_app_env_%26_anything_else_Elixir_related_with_Sasa_Juric.mp3
+tags: elixir-mix
+---
+
+<p class="p1"><span class="s1"><b>Panel: </b></span></p>
+
+<ul>
+ 	<li class="p1"><span class="s2">Mark Ericksen</span></li>
+ 	<li class="p1"><span class="s2">Josh Adams </span></li>
+ 	<li class="p1"><span class="s2">Charles Max Wood </span></li>
+</ul>
+<p class="p1"><span class="s1"><b>Special Guest:</b></span><span class="s2"> Sasa Juric</span></p>
+<p class="p3"><span class="s2">In this episode of Elixir Mix, the panel talks with Sasa Juric who is the author of Elixir in Action (2</span><span class="s3"><sup>nd</sup></span><span class="s2"> edition) and uses Elixir, Erlang, and OTP. He is from Zagreb, Croatia and you can check out his blog <a href="https://www.theerlangelist.com"><span class="s4">here</span></a>! The panel talks about his <a href="https://www.manning.com/books/elixir-in-action-second-edition"><span class="s4">book,</span></a> past and current projects, in addition to configurations, and Elixir. </span></p>
+<p class="p4"><span class="s1"><b>Show Topics:</b></span></p>
+<p class="p5"><span class="s5">0:00 – <a href="https://devchat.tv/get-a-coder-job/"><span class="s6">Advertisement: Get A Coder Job!</span></a></span></p>
+<p class="p4"><span class="s2">0:50 – Chuck: Panel. Our guest is Sasa Juric. Introduce yourself to us please.</span></p>
+<p class="p4"><span class="s2">1:12 – Guest: I am known for writing my book and my blogs. I am president to the Elixir forum and helping people out. I have been using Elixir for 5 years; in the past I have used C++ and others.</span></p>
+<p class="p4"><span class="s2">1:46 – Chuck: App env and configuration and sounds like we could talk about more. Let’s start there, though.</span></p>
+<p class="p4"><span class="s2">1:59 – Guest.</span></p>
+<p class="p4"><span class="s2">2:03 – Panel: A little background with configuration b/c it’s been a topic in the community. There is a lot of discussion around it. What is the right way? And there is a change in how we deploy software. We have more docker containers and multiple stages of deployment and tons of configurations through environment settings. Anything you can talk about that? </span></p>
+<p class="p4"><span class="s2">2:51 – (<i>Guest answers those questions. He discusses in detail about </i><a href="https://docs.docker.com/engine/reference/commandline/config/"><span class="s6"><i>docker configurations.</i></span></a><i> </i></span></p>
+<p class="p4"><span class="s2"><i>Also, the guest talks about the various settings per the different environments.)</i></span></p>
+<p class="p4"><span class="s2">7:25 – Panel: That was a thorough summary. </span></p>
+<p class="p4"><span class="s2">7:29 – Guest: I can talk more.</span></p>
+<p class="p4"><span class="s2">7:35 – Panel: So we have background on configuration is setup and the goals we have. What are some of the ways that a person with Elixir – how do they start? Tips / advice? They have their app and trying to go to production?</span></p>
+<p class="p4"><span class="s2">8:22 – (<i>Guest answers the question.)</i></span></p>
+<p class="p4"><span class="s2">Guest: 90% of the time, this is what you want to do. This is what you do...build it and put it in the folder structure, and you are good to go. Why is this good? You don’t have to have a bunch of...</span></p>
+<p class="p4"><span class="s2">If you are using Phoenix than you need Node.js and you don’t want to have that on your production. You can easily run side-by-side different versions of Erlang and Phoenix. </span></p>
+<p class="p4"><span class="s2">11:40 – Panel: You can do that in a single docker file? </span></p>
+<p class="p4"><span class="s2">11:47 – Guest.</span></p>
+<p class="p4"><span class="s2">11:51 – Panel: You just copy the files...</span></p>
+<p class="p4"><span class="s2">11:56 – Panel: I learned I could do that by the distiller 2.0...I hadn’t encountered that before.</span></p>
+<p class="p4"><span class="s2">12:11 – Guest: Look into the distillery. I want to give compliments to Paul and the team is great. Go to Distillery and see the tutorials. </span></p>
+<p class="p4"><span class="s2">12:37 – Panel: People think I don’t want to use docker there is an option....</span></p>
+<p class="p4"><span class="s2">13:01 – Guest.</span></p>
+<p class="p4"><span class="s2">13:04 – Chuck: Different types of configuration? </span></p>
+<p class="p4"><span class="s2">13:13 – Guest: Right this discussion too which is probably talking about my blog post, and I have this wild thought about configurations. We can discuss the issues and different solutions. We have these configurations files and they contain these time various configurations and...</span></p>
+<p class="p4"><span class="s2">There is usually more than 1 configuration file. </span></p>
+<p class="p4"><span class="s2">17:53 – Panel: You only get agreement. I have had that problem, too, saying what is this configuration? What are THE Settings that are present and yeah that is a problem? You identify these problems in your blog, where it’s not checked in and the code will not...</span></p>
+<p class="p4"><span class="s2">I have had to work around that in my projects. We are going to create a sample project and it will have defaults. So we can improve the situation.</span></p>
+<p class="p4"><span class="s2">18:45 – Panel: Class based configurations – I get angry. </span></p>
+<p class="p4"><span class="s2">19:05 – Guest: I try to challenge this status quo. Some people agree and others disagree. Some say this blanket statement. </span></p>
+<p class="p5"><span class="s5">19:54 – <a href="https://www.lootcrate.com"><span class="s6">Loot Crate!</span></a></span></p>
+<p class="p4"><span class="s2">20:47 – Guest: Another thing to note is that configurations are free form key values. Remember, my point is that it boils down to some function being involved with these values. </span></p>
+<p class="p4"><span class="s2"><i>(Guest continues...)</i></span></p>
+<p class="p4"><span class="s2">23:36 – What is your direction that you are proposing?</span></p>
+<p class="p4"><span class="s2">23:40 – Guest: We are going to discuss other issues. </span></p>
+<p class="p4"><span class="s2">23:49 – Panel: As background, as apart of that whole configuration in those distillery docs...</span></p>
+<p class="p4"><span class="s2">24:41 – What is the next step in the discussion?</span></p>
+<p class="p4"><span class="s2">24:48 – Guest: Let’s take a step back.</span></p>
+<p class="p4"><span class="s2"><i>(Guest talks about Distillery 2.0.)</i></span></p>
+<p class="p4"><span class="s2">27:09 – <i>Guest continues...</i></span></p>
+<p class="p4"><span class="s2">29:50 – Panel: That makes sense and flexible. </span></p>
+<p class="p4"><span class="s2">29:58 – Guest: The other complaint is that the Phoenix generator is pushing the community in the wrong direction by forcing a lot of things by default. When you generate your project with...</span></p>
+<p class="p4"><span class="s2">My team we have used the configuration b/c it seems the right way to do, but what constitutes this? Should this go here and what is a configuration?</span></p>
+<p class="p4"><span class="s2">30:52 – Panel: I don’t have a synced answer – I don’t have a boundary to say what does or doesn’t’ go in there. </span></p>
+<p class="p4"><span class="s2">31:13 – Guest: Like the operator might decide to change the HPP port or maybe you want to...? You have to make the decision – what will those things be?</span></p>
+<p class="p4"><span class="s2">31:32 – Panel: React to a configuration change, it’s very clear to...</span></p>
+<p class="p4"><span class="s2">31:57 – Guest: It is very arbitrary by its nature. One of the main things (in the blog post) my coworker said it felt like a configuration. What does that mean? Should we have some sort of rules? What is a configuration and what isn’t?</span></p>
+<p class="p4"><span class="s2">32:33 – Panel comments.</span></p>
+<p class="p4"><span class="s2">32:55 – Guest: Now I am swinging in a new extreme. You started with parameters nothing more and there is nothing more than functions and parameters. </span></p>
+<p class="p4"><span class="s2">34:41 – Chuck: You keep bringing up <a href="https://www.json.org"><span class="s6">JSON</span></a> is there a reason why?</span></p>
+<p class="p4"><span class="s2">34:55 – Guest: I am not a super fan of JSON for various reasons but we decided on JSON b/c it’s fairly easy. Most of our clients and admin can add it.</span></p>
+<p class="p4"><span class="s2">35:18 – Chuck: Asks a question.</span></p>
+<p class="p4"><span class="s2">35:30 – Guest: Getting a configuration...</span></p>
+<p class="p4"><span class="s2">36:35 – Panel.</span></p>
+<p class="p4"><span class="s2">36:39 – Guest: With Distillery 2.0...</span></p>
+<p class="p4"><span class="s2">36:47 – Chuck: What formats do you like if you don’t like JSON?</span></p>
+<p class="p4"><span class="s2">36:58 – Guest: I am not sure. I would like to run everything in <a href="https://elixir-lang.org"><span class="s6">Elixir</span></a> directly. </span></p>
+<p class="p4"><span class="s2">37:47 – Panel: I have been using <a href="https://twitter.com/kubernetesio?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor"><span class="s6">Kubernetes</span></a>. I like that I can have comments. </span></p>
+<p class="p4"><span class="s2">38:00 – Panel. </span></p>
+<p class="p4"><span class="s2">38:10 – Panel.</span></p>
+<p class="p4"><span class="s2">38:17 – JSON is terrible but you can use it and everyone can, too.</span></p>
+<p class="p4"><span class="s2">38:27 – Guest: I would probably pick JSON between those two. It’s the lesser of 2 evils.</span></p>
+<p class="p4"><span class="s2">38:40 – Panel.</span></p>
+<p class="p4"><span class="s2">39:03 – Guest: The key is to clean up this configuration in the first place. My impression is...</span></p>
+<p class="p4"><span class="s2">39:30 – Panel: I wrote a library, and there was configuration but it doesn’t belong – it’s not a configuration setting nor...so where should those kinds of settings be? I know they are just parameters, but...so we can pull out our configuration files?</span></p>
+<p class="p4"><span class="s2">40:11 – Guest: It should be grouped by scope. Take Phoenix application...</span></p>
+<p class="p4"><span class="s2">41:54 – Panel: That’s your exposed configuration – conceivably – but it should be hard coded. </span></p>
+<p class="p4"><span class="s2">42:04 – Guest: It won’t be hard coded, and the server will be different in production than your machine. </span></p>
+<p class="p4"><span class="s2">42:17 – Panel.</span></p>
+<p class="p4"><span class="s2">42:30 – Guest: Precisely. You have to ask: is this a configured parameter or not?</span></p>
+<p class="p4"><span class="s2">42:43 – Chuck: Can you talk about how to encrypt and/or protect these secrets?</span></p>
+<p class="p4"><span class="s2">42:56 – Guest: There are these secrets that are broad secrets via...and it depends on you how you’re going to protect them. Use some encryption scheme.</span></p>
+<p class="p4"><span class="s2">43:20 – Panel.</span></p>
+<p class="p4"><span class="s2">43:28 – Guest: Right.</span></p>
+<p class="p4"><span class="s2">43:31 – Chuck: In <a href="https://rubyonrails.org"><span class="s6">Rails</span></a> it has a secret file, too and you have to provide the key to the app. Then your KEY is a secret. It feels like this circular problem. </span></p>
+<p class="p4"><span class="s2">43:53 – Guest.</span></p>
+<p class="p4"><span class="s2">44:54 – Panel: When you are dealing with that sort of thing...library will absolutely assume...and it limits flexibility.</span></p>
+<p class="p4"><span class="s2">45:17 – Guest: It’s not just an <a href="https://elixir-lang.org"><span class="s6">Elixir</span></a> thing I have seen it in <a href="https://www.erlang.org"><span class="s6">Erlang</span></a>, too. </span></p>
+<p class="p4"><span class="s2">47:32 – Chuck: Any stories of people getting this wrong or right? I guess people don’t talk about that; any good stories?</span></p>
+<p class="p4"><span class="s2">47:54 – Guest: A lot of stories, actually! </span></p>
+<p class="p4"><span class="s2">49:52 – Panel: Being that Elixir is a more functional language, how do I put in a configuration that will be available at runtime and available very early. I think that is why we stick things up there by putting it in there. </span></p>
+<p class="p4"><span class="s2">50:35 – Panel.</span></p>
+<p class="p4"><span class="s2">50:43 – Panel: If it is a library and passes it to a configuration - where does it put it?</span></p>
+<p class="p4"><span class="s2">50:53 – Panel: A library and not an application...</span></p>
+<p class="p4"><span class="s2">51:05 – Guest. </span></p>
+<p class="p4"><span class="s2">51:45 – Panel: Where do I put it?</span></p>
+<p class="p4"><span class="s2">52:03 – Guest: There are some libraries that have to be configured before we start. The only case that needs some setting before we start is <a href="https://docs.oracle.com/javase/7/docs/api/java/util/logging/Logger.html"><span class="s6">LOGGER.</span></a> </span></p>
+<p class="p4"><span class="s2">53:00 – Panel.</span></p>
+<p class="p4"><span class="s2">53:15 – Guest.</span></p>
+<p class="p4"><span class="s2">54:00 – (<i>Guest mentions à la Carte – check it out </i><a href="https://libraryh3lp.blogspot.com/2013/06/library-la-carte-resurrected-open.html"><span class="s6"><i>here!</i></span></a><i> It’s just a factory.)</i></span></p>
+<p class="p4"><span class="s2">55:38 – Chuck: Let’s do picks!</span></p>
+<p class="p5"><span class="s5">55:46 – <a href="https://www.freshbooks.com"><span class="s6">Fresh Books!</span></a></span></p>
+<p class="p4"><span class="s1"><b>Links:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li5"><span class="s7"><a href="https://www.ruby-lang.org/en/"><span class="s8">Ruby</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://elixir-lang.org"><span class="s8">Elixir</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.javascript.com"><span class="s8">JavaScript</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://reactjs.org"><span class="s8">React</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.erlang.org"><span class="s8">Erlang</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://twitter.com/kubernetesio?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor"><span class="s8">Kubernetes</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.json.org"><span class="s8">JSON</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://docs.oracle.com/javase/7/docs/api/java/util/logging/Logger.html"><span class="s8">Logger</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://docs.docker.com/engine/reference/commandline/config/"><span class="s8">Docker Config</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.theerlangelist.com"><span class="s8">Rethinking App Env</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://hexdocs.pm/distillery/config/runtime.html"><span class="s8">Distillery Documentation</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.manning.com/books/elixir-in-action"><span class="s8">Elixir in Action</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.manning.com/books/elixir-in-action-second-edition"><span class="s8">Elixir in Action – Book – 2nd edition</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://hexdocs.pm/elixir/library-guidelines.html"><span class="s8">Elixir – Library Guidelines</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://elixirforum.com"><span class="s8">Elixir Forum</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://12factor.net"><span class="s8">The 12-Factor App</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://hexdocs.pm/distillery/home.html"><span class="s8">Distillery’s Documentation</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://github.com/bitwalker/toml-elixir"><span class="s8">GitHub: Toml-Elixir</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://github.com/basho/riak_ensemble"><span class="s8">GitHub: Riak_Ensemble</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://github.com/hkgumbs/elm-beam"><span class="s8">GitHub: Elm – Beam</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://github.com/hkgumbs/codec-beam"><span class="s8">GitHub: CodeC-Beam</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://hexdocs.pm/elixir/library-guidelines.html"><span class="s8">Library Guidelines – Elixir</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://michal.muskala.eu/2017/07/30/configuring-elixir-libraries.html"><span class="s8">Configuring Elixir Libraries</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://hexdocs.pm/distillery/config/runtime.html#a-la-carte-otp-applications"><span class="s8">Handling Configurations</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://etcher.io"><span class="s8">Etcher</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://tweetmashup.com"><span class="s8">Tweet Mashup</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.youtube.com/watch?v=pO4_Wlq8JeI"><span class="s8">Sasa’s YouTube Video</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://twitter.com/sasajuric?lang=en"><span class="s8">Sasa’s Twitter</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://github.com/sasa1977"><span class="s8">Sasa’s GitHub</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.elixirconf.eu/elixirconf2016/sasa-juric"><span class="s8">Sasa’s Information at Elixir Conf</span></a></span></li>
+ 	<li class="li5"><span class="s7"><a href="https://www.linkedin.com/in/sa%25C5%25A1a-juri%25C4%2587-21b23186/"><span class="s8">Sasa’s LinkedIn</span></a></span></li>
+ 	<li class="li8"><span class="s1">Josh Adams’ Email:</span><span class="s2"> josh@smoothterminal.com</span></li>
+</ul>
+<p class="p4"><span class="s1"><b>Sponsors:</b></span></p>
+
+<ul class="ul1">
+ 	<li class="li5"><span class="s11"><a href="https://www.lootcrate.com"><span class="s12">Loot Crate</span></a></span></li>
+ 	<li class="li9"><span class="s13"><a href="https://www.freshbooks.com"><span class="s14">Fresh Books</span></a></span></li>
+ 	<li class="li9"><span class="s15"><a href="https://www.cachefly.com"><span class="s14">Cache Fly</span></a></span></li>
+ 	<li class="li9"><span class="s15"><a href="https://devchat.tv/get-a-coder-job/"><span class="s14">Get a Coder Job!</span></a></span></li>
+</ul>
+<p class="p11"><span class="s1"><b>Picks:</b></span></p>
+<p class="p12"><span class="s2">Sasa</span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s16"><a href="https://hexdocs.pm/distillery/config/runtime.html"><span class="s14">Run-time</span></a></span></li>
+ 	<li class="li9"><span class="s16"><a href="https://hexdocs.pm/elixir/library-guidelines.html#content"><span class="s14">Library Guidelines</span></a></span></li>
+ 	<li class="li5"><span class="s17"><a href="https://www.manning.com/books/elixir-in-action-second-edition"><span class="s8">Elixir in Action – Book – 2nd edition</span></a></span></li>
+ 	<li class="li9"><span class="s18"><a href="https://www.theerlangelist.com"><span class="s14">The Erlangelist</span></a></span></li>
+ 	<li class="li9"><span class="s16"><a href="https://www.youtube.com/watch?v=pO4_Wlq8JeI"><span class="s14">Solid Ground</span></a></span></li>
+</ul>
+<p class="p12"><span class="s2">Chuck</span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s16"><a href="https://tweetmashup.com"><span class="s14">Tweet Mashup</span></a></span></li>
+ 	<li class="li9"><span class="s16"><a href="https://devchat.tv/my-javascript-story/"><span class="s14">My JavaScript Story Channel</span></a></span></li>
+ 	<li class="li9"><span class="s16"><a href="https://itunes.apple.com/us/app/shush-microphone-manager/id496437906?mt=12"><span class="s14">Shush App</span></a></span></li>
+</ul>
+<p class="p12"><span class="s2">Mark</span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s16"><a href="https://etcher.io"><span class="s14">Etcher.io</span></a></span></li>
+</ul>
+<p class="p12"><span class="s2">Josh</span></p>
+
+<ul class="ul1">
+ 	<li class="li9"><span class="s16"><a href="https://github.com/hkgumbs/elm-beam"><span class="s14">Elm Beam</span></a></span></li>
+</ul>
+
+<h3>Transcript</h3>
+
+

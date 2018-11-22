@@ -1,0 +1,426 @@
+---
+layout: layouts/post.njk
+title: >
+      026 AiA Testing Tools
+date: 2015-01-22 14:00:00
+episode_number: 026
+duration: 
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA026TestingTools.mp3
+tags: adv-in-angular
+---
+
+The crew talks about testing tools in Angular.
+
+<h3>Transcript</h3>
+
+<strong>JOE: </strong>I don’t know if you’ve noticed it, but I just said “[up Chuck?]”.
+
+<strong>WARD:</strong> [Chuckles] We're really struggling to get out of the gutter this morning.
+
+[Laughter]
+
+<strong>CHUCK:</strong> It's so warm and comfortable down there though!
+
+<strong><em>[Does your team need to master AngularJS? Oasis Digital offers Angular Boot Camp, a three-day, in-person workshop class for individuals or teams. Bring us to your site or send developers to ours --  AngularBootCamp.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by Wijmo 5, a brand new generation of JavaScript Controls. A pretty amazing line of HTML5 and JavaScript products for enterprise application development, Wijmo 5 leverages ECMAScript 5 and each control ships with AngularJS directives. Check out the faster, lighter and more mobile Wijmo 5.]</em></strong>
+
+<strong>CHUCK:</strong> Hey, everybody and welcome to Episode 26 of the Adventures in Angular podcast. This week on our panel, we have Joe Eames.
+
+<strong>JOE:</strong> Hey, everybody!
+
+<strong>CHUCK:</strong> Lukas Reubbelke.
+
+<strong>LUKAS:</strong> Holler!
+
+<strong>CHUCK:</strong> John Papa, [silence] with the mute button. I'm Charles Max Wood from DevChat.tv. A quick reminder to go check out JS Remote Conf; it's an online conference for JavaScript. We also have a special guest; once again, we have Ward Bell on the call.
+
+<strong>WARD:</strong> Hello, everyone!
+
+<strong>JOE:</strong> And we have to mention our missing panelist and why he's missing.
+
+<strong>CHUCK:</strong> Go ahead.
+
+<strong>JOE:</strong> Aaron Frost is missing today because he's having a baby, so congratulations to Aaron and his wife! (Well, his wife is having a baby, let’s be clear.) But congratulations to him and his wife and we hope that everything goes well for them.
+
+<strong>LUKAS:</strong> Go, Team Aaron!
+
+<strong>CHUCK:</strong> Congrats!
+
+<strong>WARD:</strong> The little icicle will be the new baby.
+
+<strong>JOE:</strong> That’s right! I love it. “Icicle.”
+
+<strong>CHUCK:</strong> I always have my programmer friend say, “Congratulations on your recent fork!”
+
+[Laughter]
+
+<strong>LUKAS:</strong> [Mimics sad trombone sound]
+
+<strong>CHUCK:</strong> Anyway, this week we're going to be talking about testing tools. We're kind of following up last week's episode. So first off, we kind of wanted to talk about some of the barriers that we have to testing; some of the problems we have to solve with these tools. I'm going to kind of time box it to you know maybe three to five minutes just because I really wanted to get into the tools, but you know there are some things that just make it so that it's not as easy or natural to test. So one of the things I'm just going to start out with that makes it hard for me to test sometimes is just that the test run long. I don’t run the tests all the time if they take more than a couple of minutes to run.
+
+<strong>WARD:</strong> But that implies you actually have some.
+
+<strong>CHUCK:</strong> Yes.
+
+<strong>WARD:</strong> Because they can’t run long if you don't have any, which is what I usually see.
+
+<strong>JOE:</strong> Unless you consider zero time to be long.
+
+<strong>WARD:</strong> Yeah. When I look at it, the first thing I notice is that testing is just not part of people’s… what they think of doing as programming. It's just that they don't have any experience with it at all, and so it's just another thing that they have to learn. And the second thing that is that they don't even know how to get budget for it because they don’t know how to argue for it. So I think there's a lot of social dimension before you even get to the technical impediments. Does that ring true you, Lukas?
+
+<strong>LUKAS:</strong> That is indeed the case. I think it is a mindset that you know… it's a hard time equivocating value to writing tests. It's a mindset shift that not only do you have to champion it and really believe in it, but you have to be prepared to go to the stakeholders and say, “In conjunction with actually doing the work we need to actually allocate time for writing tests, which ultimately in the long run, saves time.” But I think people are uncomfortable making that case to the stakeholders.
+
+<strong>WARD:</strong> Yeah. And usually the boss says, “You know what, you can’t take that long.” And then you look at it and say, “Well, what the heck can I jettison here?” And people who don't have a lot of testing experience are pretty quick to throw the test overboard.
+
+<strong>LUKAS:</strong> And I've even seen examples where clients have come in and said, “We’ve already written this code. How about we just hire you to come in and write tests?” And I think that writing code without at least a testing mindset really creates some extraneous and superfluous mechanisms in your code that if you're testing, is it really encourages you to keep your code lean and very specific to what you're doing to satisfy your tests. And so, even I think people have these like, “We'll write the code, and then we'll write the test,” which really not only incurs the time to write the tests but to actually refactor the code that you’ve actually written.
+
+<strong>WARD:</strong> And I don’t think I should talk about it as if there were those people who are out there somewhere. I got to tell you that I have personally participated in throwing the test overboard. Trying to set up a kind of deal with that, you know, scheduling with a customer and they tell me that they don't want to pay for tests, I surrender immediately. So I'm as much to blame as anybody, but these are things that happen.
+
+<strong>CHUCK:</strong> I have people basically say, “Well, I'm so good at testing that it doesn't take any more time for me to write the tests,” and I don't believe them. And so it is. It's overhead up front but you get the trade off in maintainability down the road. And so it's not something that you can definitely… argue that has immediate value. It's that long term it's going to save you money when the next guy has to come in and write this, then he's going to know he broke something when he broke something.
+
+<strong>WARD:</strong> So I'm trying to come up with a scheme to make it more palatable which works more along lines of… I'm going to steer clear of trying to do code coverage and all that stuff but you know, when I create a new thing, I'm going to at least create the test harness for it and see that I can spin that component up under a test. That's the price of admission for getting that feature. Okay, boss? I'm not going to spend a lot of time writing test after test but I'm going to get into position so had when something goes wrong we can go to step two which is create the test that confirms the bug and then fix it, so that the tests prove their value as we do things. So that’s [inaudible] and see how… I think that I can move that one. So Joe, I mean, somehow you're able to convey -- in a way that I can’t -- how important this is and get people to buy in to making test a part of the development experience. What do you do?
+
+<strong>JOE:</strong> You know, my biggest thing has always been you just got to drink the Kool-Aid. It's so hard to convince people upfront. And even if you convince them intellectually, it still doesn't come down to action. By far the best way that I've convinced people to test is by having them pair with me for several days to a week and we do completely test driven development By the end, everybody that I've paired with has been like convinced and sold and they've become full blown test driven developers.
+
+<strong>WARD:</strong> Well, since I can't pair with the guy who writes the check, I have to come up with…
+
+[Laughter]
+
+<strong>JOE:</strong> I hear ya.
+
+<strong>WARD:</strong> And that's why I'm trying to figure out a way to sneak it in into the planning and not try and go nuts with how much testing I'm going to do. Because like Chuck said, you can't say that it has zero cost, so how can I get the test as part of the budget for the feature, and not surrender on it; not make it so dominant in the cost of developing that feature, so that I at least have a test bed waiting for me when I need to circle back. Because the really hard thing is when you have to go back and you’ve got nothing and the pressure is on and then you don't do it either.
+
+<strong>JOE:</strong> Yeah. When it comes to that kind of justification, I think this much like safety; you never make it a separate line item. So let’s say, “Go ahead and do this but don't worry about harnesses and making sure that people don't die while building this building, right?” It's part of the cost of building a feature. And so estimates include the costs of tests and don’t let anybody tell you different.
+
+<strong>CHUCK:</strong> That’s what I do. Are you doing contracts or are you doing full time employee somewhere?
+
+<strong>WARD:</strong> My company, IdeaBlade, we're a software consulting company; we're always doing it for somebody else. Now internally, we don’t have any problem at all for our Breeze product and our dev force product because we understand what it takes and it's just part of developing a product and we don't have to justify it to anyone but when you're asking somebody for money and time and they are sitting there tapping their fingers, because they only call you when they're running out of time. It's really tough. And really, you’re going to have to say, “No, you know what….” I mean, how do you do this? You say, “You know that feature you want, you can’t have it because I got to use that time to put in to the testing on the feature you do want, so you got to prioritize.” That's a tough conversation.
+
+<strong>CHUCK:</strong> Yeah. I do what Joe says. And I'm a contractor, so the other thing that I do though is I typically try not to bill by the hour. So I'll either do weekly billing or I'll do like a fixed bid and then I just do the tests. Because if you're not talking about how much time, it's a different conversation so then they don't care because they are just going to pay for you to do it instead of paying for you to spend time to do it.
+
+<strong>LUKAS:</strong> So I do something kind of in the middle that’s worked well for me, and that is I kind of treat this -- like the test harness -- as a bit of a value add. And so I’m really helping myself by setting up at least a foundation to write test, but what has happened is that say I'm going to do these features but it's kind of a value-added feature, I'm going to go ahead and lay a basic test harness and set up some fundamental test that your developers can then take and run with or if we continue this engagement, it's already there. And so investing maybe just like an hour or two into setting that up is ultimately is you're providing value to the project but you're setting up developers to pick it up, and you're encouraging them to write tests by making it easy for you. As well as if the engagement continues, then you already have that in place. And for me personally, I’ve found that kind of the ceremony of getting up and running with tests is oftentimes the greatest barrier is how do you get the environment set up and then how do you essentially set up your unit under test to get it to actually run and spin up in the environment. And so by just taking that initial step and making it easy for developers to pick up, I've found that the clients really appreciate that. And it just is kind of conducive for continuing work down the road.
+
+<strong>CHUCK:</strong> So I'm going to push the segue button because I said three to five minutes and we talked about it for ten. So what do your test harnesses look like, guys? When you set this stuff up, what do you do?
+
+<strong>JOE:</strong> What tools are you using?
+
+<strong>WARD:</strong> Well, we could start by talking about the frameworks within which we write the tests because there are some choices there when you're writing JavaScript tests.
+
+<strong>JOHN:</strong> You have to write code first, right? But how do you run it? Because those are two very simple problems.
+
+<strong>WARD:</strong> Right. Unless you're Joe.
+
+<strong>JOE:</strong> [Laughs]
+
+<strong>JOHN:</strong> Joe just writes tests.
+
+<strong>CHUCK:</strong> He just breathes on the code and it sprouts tests spontaneously.
+
+<strong>WARD:</strong> [Chuckles] Anyway, assuming we're talking about JavaScript here, historically, where we started was with QUnit. JQuery had QUnit tests and it seemed like everybody was using QUnit at the time, so wrote Breeze with QUnit test -- lots of them. And that was great. And I probably wouldn't have departed from it until I started writing Angular and where all the tests are written in Jasmine. And now, that encounter, I said… because at first I was just looking at them intellectually, right? And I say, hey, you know what? I'm not buying into this TDD style versus just writing asserts and stuff because I can write the test names in a readable way. You know, what is that about? So that did not sell me, the fact that it had some association with BDD. What does BDD stand for?
+
+<strong>CHUCK:</strong> Behavior-Driven Development.
+
+<strong>WARD:</strong> Thank you. The acronym stick but the meaning doesn’t.
+
+<strong>JOHN:</strong> I thought it was “Big Dirty Dudes”.
+
+[Laughter]
+
+<strong>CHUCK:</strong> That’s my other podcast. Oh, sorry.
+
+<strong>WARD:</strong> So what I've discovered though that there were substantive differences between Jasmine and QUnit and that was a real wake up call. And for me, (I'll just tell what mine is and somebody else can jump in), the biggest thing, by far, was the nested describe. And you say to yourself, “You’ve got to be kidding, Ward.” But no, in QUnit, you have this wacky thing called a module where you sort of separate… you break your collections of tests by using this module statement but you can’t have depth in it. You can’t have nesting. And what I actually found as I was writing tests is that I would have some sort of… like if I'm trying to test a component, I’d have some sort of global set up and then I wanted to go down a particular path and explore part of the path of what that component can do and that meant that I’d have some more setup associated with that. And then I wanna come back and I wanna go down another path. The different path of the component and that has its own setup. But no, no, no, you can’t do that in QUnit. So you end up with these massive amounts of setup; each time where you start creating set up that spans multiple paths, so you're only using some of it for some and then you're using the other parts of the setup for the other. And so what you end up is with this big chunks of set up, some of which you're using and some of which you're not.
+
+Now, if you remember from last week, we talked about one of the things that’s most important in making tests efficient and keeping it from being brittle and that’s to have as little setup as you can possibly have for the tests you're trying to do. So you can see how having massive amounts of set up to cover all the different paths I want gets in the way of having nice short, crisp tests. Whereas with these nested describes, I can really just sort of focus on as I was taking a step down a particular path that I'm trying to test, I could create only the setup that was necessary to pursue that line of inquiry. And that made my test so much more rational, so much more crisp and therefore less vulnerable to the kinds of changes that might occur elsewhere that can break your tests.  That was such a huge difference that I would say the nested describes turned made the single biggest difference for me in choosing one framework over another. And now I'll shut up. Who else has an opinion?
+
+<strong>JOE:</strong> So I'm kind of interested, Ward, you have a background with .NET, right?
+
+<strong>WARD:</strong> Yes, I do.
+
+<strong>JOE:</strong> Were you testing in .NET before you started testing on the frontend?
+
+<strong>WARD:</strong> Yes.
+
+<strong>JOE:</strong> So, what tools were you using to test in .NET? What frameworks?
+
+<strong>WARD:</strong> Mostly… you know what, I can hardly remember how to even write C# anymore! That’s how terrible it is.
+
+[Chuck and Joe laughs]
+
+<strong>WARD:</strong> But I was using the xUnit stuff. In other words, I think I was using Microsoft test, yeah.
+
+<strong>JOE:</strong> Okay. So, I have a similar experience. So when I came from xUnit, I chose QUnit because it was similar. And then again I've found Jasmine and found the nested describes and I'm like, “[gasps] I love this!” And then somebody showed Mocha and said, “Hey, with Chai, you can actually kind of like pick from a plethora of syntaxes.” And I liked that even better.
+
+<strong>CHUCK:</strong> So what's the difference with Mocha and Chai?
+
+<strong>JOE:</strong> You can actually choose either the QUnit style or you can do the typical… the Jasmine style and there are even some others that are just minor variations on that, but mostly it's the choice between those two.
+
+<strong>WARD:</strong> So let me back up a little bit to help people. Jasmine is kind of like you get a suite of… you get the runner and the describes and then the before and the after. Then you get an assertion library… or in the tests, so you say… it prescribes exactly how your code, the assertion that something is true, false, equal whatever it is, right? And then you also get a built in mocking library. So all those things come together in a single package in Jasmine. And that’s great. You install Jasmine, you got it. But if you want some variation, you kind of depart from the scheme.
+
+Mocha is like a cafeteria plan. It says, “Hey, we got a test runner for you. We have “before“,“before each“,“after“,“after each”, “it“.” And after that, you decide what kinds of assertion libraries you wanna use and you decide what kind of mocking library you would use and go out there and have fun and pick them, which compels you, as a Mocha… as somebody who decides that they like Mocha, it compels you to go out there and make some choices; one of which is Chai for the assertions. And for the mocking, it would compel you to go out and get something and the one I got is Sinon.
+
+And so as you move, you got the QUnit thing that we are talking about. Then there's a giant divide in the whole paradigm in which you write things; as you move from Mocha to Jasmine and Mocha, both of which I think are in the same relative camp in terms of the style of test that you write, but they divide on whether you say, “I want the Jasmine suite and that’s what I get.” Or whether you want the “cafeteria plan” which is kind of Mocha, that’s kind of the big picture for me. Would anybody disagree or qualify that?
+
+<strong>JOE:</strong> I totally agree. And I would put in a little bit of opinion here that I much prefer Sinon’s mocking library over the built in one in Jasmine, which is kind of one of the reasons I like Mocha -- even though you can totally use Sinon’s mocking with Jasmine.
+
+<strong>WARD:</strong> And I did. What I was doing in my Jasmine phase, I used Sinon’s rather than Jasmine’s own mocking.
+
+<strong>JOHN:</strong> And Ward, if you remember, when we were doing [unintelligible] together, we're doing Jasmine stuff with mocking and stubbing and then we pulled in the Sinon stuff. We ran them side by side and we've found that Sinon actually gave us better and more concise and clear information when there were problems as well. So that’s one of the reasons we switched over to Sinon even when using Jasmine.
+
+<strong>WARD:</strong> Exactly. And then we’d go back and forth because I was trying to… you know, anyway, but yes, that was it.  By the way, there was a period of time there when Jasmine was not very supportive of async. It was really kind of like clunky. And I think that drove a lot of people to Mocha.
+
+<strong>JOE:</strong> Yes.
+
+<strong>WARD:</strong> But that's no longer a reason to choose Mocha over Jasmine because Jasmine has good async support now too. And by the way, if folks out there in the audience, if you're writing JavaScript code, you're writing asynchronous code. Even if you don't go async, even if you don’t make a call to a server,  something like that. It's still structured in async and you’ve got to be prepared to write asynchronous tests. And so it's critical that your library provide easy support for whatever mocking framework you pick, it has to provide easy support for writing asynchronous style test.
+
+<strong>CHUCK:</strong> That all makes sense as far as like writing… mostly I use those kinds of frameworks for my unit tests, right? So, smaller components, you know, maybe that have to go and talk to something else, manage some data, stuff like that. And so, I'm testing just some small piece of my code. One thing that I've ran into with Jasmine in particular is that Jasmine, at least by default, likes to run in the browser. And when I'm running my stuff, I like to run it on the command line and then just set up some kind of automatic runner so that when I change something, it goes, “Okay, you changed something. I'm going to run the test and I'm going to tell you if everything is still good.” Is there way to do that with my Angular tests?
+
+<strong>WARD:</strong> I never thought of it as a browserly thing. And Joe did a whole nice little course of running it with Karma.
+
+<strong>JOE:</strong> Yeah. So absolutely, Karma is the right tool there to answer that because it just pulls the… even though it's running, it's still in an actual browser. It's pulling it to get you the output on the command line.
+
+<strong>CHUCK:</strong> So does it open up the browser?
+
+<strong>WARD:</strong> Yes.
+
+<strong>CHUCK:</strong> Okay.
+
+<strong>JOE:</strong> Well, you can choose. With Karma, you can decide if you wanna run… you can run and pick all the browsers or you can choose to use in it PhantomJS, which is a headless browser.
+
+<strong>CHUCK:</strong> Okay.
+
+<strong>JOE:</strong> So Karma gives you that option. You tell Karma how you want to run… what browsers you wanna run the tests in. You can run them and make sure that your code runs in IE as well as Chrome and Firefox, and then of course if you wanna run them fast, PhantomJS is going to be probably the fastest choice. Although actually, Chrome with Karma is super, super fast.
+
+<strong>WARD:</strong> We should mention that. We mentioned Karma and for those who don't know, how you would describe it? Is it is a test engine or something like that…
+
+<strong>JOE:</strong> Yeah, it's weird.
+
+<strong>WARD:</strong> But what it is capable of doing aside from automating your… which you run your tests as it ties in the node and all, is that it can simultaneously run your tests in a great number of browsers, so that they're all firing at once as it is plowing through the test. They are plowing through them in all the different browsers. And that can be helpful to you if you're trying to assure yourself that it will run in all those environments. I think I spend very little time doing that myself because of the nature of the stuff that I'm working on. So I’ve usually just paired it down to the fastest thing which Phantom because there's nothing to actually show or Chrome… but for me, it's almost always just running silently in Phantom off to the side.
+
+<strong>JOE:</strong> Yeah. So a little bit of history when Jasmine QUnit first came out, you would you just open them up in a browser window and then either manually hit refresh or you could always hook up… what's that little plug in that… was it auto request, the name of the plugin?
+
+<strong>CHUCK:</strong> There are a couple of them for Chrome and Firefox. And so, you just pick your poison.
+
+<strong>JOE:</strong> You pick that up and then along came Karma built by the Angular team where they said, “Hey, why not have a nice little command line tool that will just automatically run the server stuff for you?” It's a node utility; it opens up the browsers for you, runs the tests in the browsers and then grabs the output on the console and it shows it to you in the console and kind of lets you know, “Hey, you had so many tests run and this many pass and this many didn’t pass.” It kind of takes a step higher level. And again for me, like Ward, I'm only testing on one browser because I'm not too worried about cross browser compatibility (not like my code won’t run in multiple browsers, but the nature of what I'm testing is not likely to break in another browser, it's pretty straightforward ES5. I'm not doing weird CSS… trying to test CSS stuff which is hard with unit tests anyway.) So most of the time, I just run it in a single browser.
+
+<strong>WARD:</strong> And during development and doing TDD, your focus is on “am I making sense?” Not “is this going to run across all the browsers.” That’s kind of a different phase of quality assurance.
+
+<strong>CHUCK:</strong> Yeah. And typically with that I'm using something like web driver or Selenium I guess, whatever you wanna call it or something like that which is kind of what Protractor or some of the other tools are based on to do that kind of stuff. So it's, “Okay, fire up a browser and the simulate your clicks and stuff.”
+
+<strong>WARD:</strong> So Charles, earlier you said something about the unit tests and I'm not sure that we have agreement on what you meant by unit tests versus something else, because I actually, by my definition, I would say that I write relatively few… I don’t wanna say I write relatively few unit tests, but I write an awful lot of what I would call integration tests. So what did you mean when you said “unit tests”?
+
+<strong>CHUCK:</strong> So most of the time when I'm talking about unit tests, yeah, I'm kind of including my integration tests in there, but mostly it's if there's some logic that’s encapsulated in say a controller or a model, usually it's the models for the services in Angular. You know, so it goes, it has as a job, it does a particular thing, and so I test that it does that particular thing and does it right. And so you know if fetch the data, then I'm probably going to be mocking something out or have some service running off somewhere that can actually go to, to get the information and then the unit test is you know this little piece does what I thought it did.
+
+<strong>WARD:</strong> Okay. So I summarize that (this is not original to me), but a pure unit test for me it a test of a component in which every one of its dependencies is faked in some way. The minute you're not using a test double for one of its dependencies, then you're in to some degree of integration test, and therefore it's a spectrum. So at the pure end, they are all faked; and at the full integration end, you're actually using the real thing all the way to the back end. And you might even go right to it to the server. And particularly with the framework, with library like Breeze, which if I'm testing Breeze as I'm developing it, I have to actually know for a lot of the tests -- not all of them by any means -- but for certain significant number of them, I might have to know… actually it interacts with the server, a real server in the way I think it did. So, I'll write integration tests that even cross processes and go all the way to the server. Because I have to because what I'm testing is does this thing work?
+
+I mean, that's really what I'm after, right? Does it work? And if I'm faking for example the HTTP response, that’s great and all and I can explore a lot of things with that approach, but I don't have the confidence… because my framework is supposed to talk to a server, I only have the confidence that it's actually working with a real server. So, I write tests that tend more towards, for my stuff, they tend more towards integration. Whereas if I'm writing an application (which I think is most of our audience) then I pull it back and I try not to make cross process server calls. I try and have relatively few of them do that. But I'm always along that whole spectrum there. I'm not so much writing what I would call pure unit testing which I fake absolutely every single dependency.
+
+<strong>CHUCK:</strong> I have to say, on the frontend, I'm mostly there with you. And so I usually kind of think of my unit tests as including those integration tests that hit some back end somewhere. In a lot of cases, it's a lot easier to set that up than to actually go figure out how to mock out the HTTP response and get all of the right stuff in the right place so that my fake acts like that response in the ways that I care about.
+
+<strong>WARD:</strong> Right. The downside is of course you have now… in order to run your tests, you have to spin up a server, and you’re going to pay a performance price. So the more tests you have, the slower it runs. So you have to find that balance and decide what subset of those tests are appropriate during development, wherein you're going to be running those tests continuously. And I imagine a TDD guy, (hey, Joe) would have a position on what tests to run and what tests not to run.
+
+<strong>JOE:</strong> My biggest goal has always been to run a hundred percent of my unit tests 100% of the time, but when you have like, when we have a hundred thousand lines of code over in Domo, it kind of ended up being a problem. And so what was nice was WebStorm allowed you to create those little sessions where you just run a subset of your tests and then I just run the full set right before check in and then I could pick, oh, just test around there around what I'm actually working on right at the moment and be strategic that way. But I know that with server side languages, it's easier to run an entire suite of test, but client side, things are just a little bit slower. So when you're talking about ten thousand or fifteen thousand tests, oftentimes that's… especially if you're going to do TDD where you wanna be able to change code, glance over and see within a second whether or not what you did broke anything and then look back, well then that's not going to be feasible. So usually it's just the tests right around the code that I'm working on.
+
+<strong>WARD:</strong> One of the features of both Jasmine and Mocha that I use when doing that kind of thing where I'm just exploring a particular area is that you can, say, I know I have ten thousand test, but I'm going to do “describe.only” here…
+
+<strong>JOE:</strong> I've done that before. The one thing I absolutely have to recommend that you pair with that is a check in gate rule that says that if you have any dot only’s in your tests that fails your check in [chuckles] or another test that will fail that is required for check in… because the worst thing in the world is checking in that dot only and then somebody else checks gets the latest and all of a sudden they are only testing one thing and trying to track it down is pain, so.
+
+<strong>JOHN:</strong> You know what I also think is a pain in the butt is sometimes I wanna test in only a couple things. And I haven’t found a good way of doing that yet where you actually, say this test I’m going to run, I'm going to run that test too. And they might be in different describes and different files even.
+
+<strong>JOE:</strong> So WebStorm lets you create sessions. It does it with Jasmine, right? I think you can tell it, “I only want to run these sets of tests.”
+
+<strong>WARD:</strong> Jasmine you can do it; Mocha, you can’t. And that’s the one of the things that Jasmine is better at.
+
+<strong>JOE:</strong> Yeah. So that’s a really nice feature.
+
+<strong>JOHN:</strong> Yeah. We do a lot of skipping in tests too. One thing I like about these frameworks is when you skip… at least highlighting like, “these are pending, these are being skipped,” because again, you don’t want that in the CI process. But there are times where you wanna skip them from the time being.
+
+<strong>JOE:</strong> Right. That’s another thing is using a tool where you actually just say, “Hey, for right now, I wanna do these bits…” it's like session information, it's not in any file that gets checked in, so you never have to worry about accidentally checking in the fact that we’re only testing these tests. That's another amazing thing with pairing up WebStorm and Jasmine.
+
+<strong>WARD:</strong> Right. And if you’re doing it in a browser, you can do that with filters which is what I often do.
+
+<strong>JOE:</strong> Yes!
+
+<strong>WARD:</strong> So that gets into the other thing about whether you're using Karma and whether you're using the browser as a test runner, (we can talk about that at an appropriate moment) but I'm wondering else does somebody else has something they wanted to talk about first?
+
+<strong>JOE:</strong> Only that people need to improve the testing frameworks out there so that it's easier to do these types of things.
+
+<strong>CHUCK:</strong> Well, a lot of this is pretty young. I mean, the concepts have been around for a while but…
+
+<strong>JOE:</strong> But this is a problem like four years ago.
+
+<strong>CHUCK:</strong> Yeah.
+
+<strong>JOE:</strong> You know, I knew about this problem four years ago. It's my fault for not contributing to Mocha.
+
+<strong>CHUCK:</strong> Yeah. It's all Joe’s fault! I like this game.
+
+<strong>JOE:</strong> [Chuckles]
+
+<strong>WARD:</strong> It's how we work, right? We zoom in. We focus. And now we want really fast test right around the error. We're not interested in the other 10,000 tests that running off to the side, but we're terrified that we might check that… lock that in and check it in so you have to have those prechecks. By the way, Joe, you should paste that check in blocker so people can get a hold of it because that sounds like good stuff.
+
+<strong>JOE:</strong> Yeah. Well, I'll admit, that also depends on like what you're using. We did it like… if you put it in, it's so specific to your environment but we had it in our CI system that wasn’t actually a Git gate, but I know that you can do it with skip filters as well, right?
+
+<strong>WARD:</strong> Right. I thought that’s what you were talking about.
+
+<strong>JOE:</strong> Yeah. We were doing it. It was a CI thing. I think we had some custom grunt task that ran and looked for dot only in a certain subdirectory and then it would throw an error.
+
+<strong>WARD:</strong> All right. We would get John Papa write one of those things.
+
+<strong>JOE:</strong> Go, John, go!
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>JOHN:</strong> No, thank you.!
+
+<strong>CHUCK:</strong> So are there times… I'm really a command line person and Ward, you brought this up, but are there times when you wanna run it in the browser?
+
+<strong>WARD:</strong> Well, I do a lot… [laughs]
+
+<strong>JOHN:</strong> Yes and no. I think there's a time where you wanna do one or the other. There are plenty of times where terminal makes total sense. If you're just getting going; you just wanna run things and kind of [unintelligible] out of the way or if you wanna run your CI process. But then to me, when I switch to the browser, is when I'm doing some testing and I want to continually look at the output. I know there's going to be an error. I know there's really going to have an issue. I wanna see what's happening. The browser is such a much easier place to run them and see the output. So for me, if I want kind of the test to be out of the way and only notify when something breaks, to me it's terminal -- which is most of my mode -- and then I switch to the browser whenever I need to dive into what exactly is going on.
+
+<strong>WARD:</strong> Yeah I'm using them to debug my tests because as I'm writing my tests, it's probably more likely that my test is messed up than that my code is messed up.
+
+<strong>JOHN:</strong> Yeah and you can just debug it in the browser too, which makes it so much easier.
+
+<strong>LUKAS:</strong> Pro tip!
+
+<strong>JOHN:</strong> I see people trying to use node inspector a lot to do these testing, debugging and terminal and while you can do that stuff, you don’t really need to. I think just the browser is there; just use it.
+
+<strong>CHUCK:</strong> Yeah, that makes sense.
+
+<strong>WARD:</strong> I think it had a lot to do with whether… also, you know, there are people who are visual a lot more than there are CLI people. And I know where I fit in that spectrum; sometimes I really like just being able to let my keys do the walking and it's all very fast and there's no doubt about it, but there are other times (and maybe because it's I'm more a manager these days,) I just need that mouse. [Laughs] This is true confessions time. You know, I'm feeling really embarrassed now. You're not a real programmer these days unless you're heads down, doing everything in the CLI.
+
+<strong>CHUCK:</strong> Yeah, well I use Emacs anyway, so saying you need the mouse is blasphemy.
+
+<strong>WARD:</strong> There you go. There you go. And I bet you do everything with black on black because you can see it then.
+
+<strong>JOE:</strong> [Laughs]
+
+<strong>CHUCK:</strong> That’s right. And then I use my x-ray vision super powers.
+
+<strong>JOHN:</strong> Yeah, let’s get to the real big question here: who uses dark themed editor versus the light themed? [Chuckles]
+
+<strong>CHUCK:</strong> Dark theme! [Chuckles]
+
+<strong>JOHN:</strong> Yeah, that's Ward’s biggest issue with me. We'd be much better friends if I use a light theme because he yells at me every time I bring up my dark theme.
+
+<strong>WARD:</strong> I can’t see the damn thing! And you know what, go ahead. I love this. I go to a conference and  somebody does a whole thing in black on the big screen in front of a big audience with red type on it. Good luck with that.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>LUKAS:</strong> Pro tip!
+
+<strong>JOHN:</strong> Have you ever thought that maybe nobody wants to actually see… be able to [unintelligible] in the screen? Maybe that’s part of the strategy.
+
+<strong>WARD:</strong> It's just “look at me,” right? Because if they can’t see the screen, they might as well just look at me – which I actually think now is a good idea.
+
+<strong>JOHN:</strong> Which is exactly… those people who go to conferences and wear those like Elvis suits and crazy hats and sunglasses…
+
+<strong>WARD</strong>: Who would do that?
+
+<strong>CHUCK:</strong> Snake skin boots?
+
+<strong>JOHN:</strong> Yeah.
+
+<strong>WARD:</strong> [Laughs]
+
+<strong>CHUCK:</strong> All right. We're deviating a little bit. I wanna talk briefly about acceptance tests and then we've got to get to the picks.
+
+<strong>WARD:</strong> I wish I had something to say about acceptance tests.
+
+<strong>CHUCK:</strong> So this is something that I have done in the past and mostly I’d usually do it with whatever I'm comfortable with, with something like selenium web driver or PhantomJS. Both of them have Ruby wrappers on them. And so I can just use my regular testing system to hook into them and test drive the application. But I only really do it on the kind of the main paths, right? The things that are the money makers. I don’t acceptance test the entire application because the barrier is a little higher to writing the tests and they are a little bit more brittle because if you changed the interface, then you break the tests. And the other thing is that they just a lot longer to run and so I'm usually just running them in CI or if I know that I've made major changes to one of those happy paths or one of those main workflows. And so that’s kind of the approach. So usually, I only have two or three kind of longer scripts that run through a workflow and make sure that those all work, but then you run it against the entire app front to back, database to AngularJS.
+
+<strong>WARD:</strong> Right. So in the Angular world, the tool of choice for these end to end tests is Protractor. And that’s been on my list to learn for some time, but I think I maybe, like many people who have tried the kind of thing you're describing there, Chuck, periodically over the years and never been able to make it work successfully or pay off but I… so I've been burned stove as it were and I'm afraid to go back but I get this feeling that the story maybe different with Protractor. So, (a) I think you guys have to do a show on Protractor with Julie; but (B) I'm wondering if any of you guys have actually dipped your toe in that water.
+
+<strong>CHUCK:</strong> In the Protractor water?
+
+<strong>WARD:</strong> Yes.
+
+<strong>JOHN:</strong> Yeah. I have done some Protractor work, although not nearly as much as I have in the unit testing work… My results have been mixed and honestly, I'm a Mocha guy these days but I've found that Jasmine just works tremendously better with Protractor -- for whatever reasons -- just less issues. And I even had a chat with Julie one time and she even said yeah she’s done more with Jasmine so I'm not sure what the reasons for it are, but less issues popped up. What are you looking to hear about Protractor?
+
+<strong>WARD:</strong> For me, if I had my choice, I wanna know how do you make that easy? How do you make good decisions about what to do in it and what not do in it, so that I can begin to cost justify bringing that to bear. I realize that there should be a sellable cost benefit in it in as much as people are hiring QA teams and QA teams are sitting there half the time playing like monkeys over the keyboard, and I’d rather have automation do that. And we have like lots of samples and every time we change things, we've got to run them and somebody has to sit there like a human being and click the keys and smoke test. If it was cheap enough to build some smoke tests in with an IDE tool… end to end tool, I think we can pay it off and I could convince myself and my customers to make that investment. But there's a little hill to climb and I just wanna know that: (a) when I climb the hill, it's worth it; and (b) that the hill isn’t as high as it looks. So that’s kind of what my personal interest would be. Now, Lukas, you have tried this?
+
+<strong>LUKAS:</strong> Yes. So I've done some Protractor. This was about a year ago and they just changed the syntax to be quite a bit easier. And this is how I see it, so this is just my opinion: I think as it is now, (I know it's getting better, that Julie is working very hard on this tool), is that I think it's good for doing some kind of… this some quick test on some of the critical paths. And so how I see it is kind of your dev team, kind of just double checking everything before they send it out to somebody in QA. I have found with integration tests, coming from Flex and doing a lot of it there, then now into frontend development is that they tend to be fairly brittle. So for instance, you get a lot of false positives because your timing is not right. You need to increase your delays because in the server, you set it for two seconds and it takes four seconds to return a result. And so I think for getting in there and like testing for edge cases, I don’t think you'll ever be able to eliminate the effectiveness of having a human actually go through that and actually kind of click through and try to find those weird edge cases.
+
+With that said, I do think that it is useful for testing features before you throw them over the fence to QA and so that’s kind of been the workflow is that we rigorously test everything via unit test, and then we kind of have some high level integration test that kind of tests the joints of the application, where things connect and that just caught some things before we send it out to QA and allows us to kind of say like, “Oh, well this isn’t going to work, let’s just fix this before we sign out and put it into kind of the public arena for stakeholders to see,” and stuff like that. So I think it's just kind of a good mitigation step to take, but I don’t think you’ll ever truly replace human rigorous testing.
+
+<strong>JOE:</strong> I agree with that.
+
+<strong>WARD:</strong> Yeah. But you're not selling it real well, so let me help put some pressure on that. So “be nice” is not how you sell something. And maybe what you're saying is just not worth it, but I wanna know why can it be worth it? Having a set of automated smoke tests, here’s what my dream is, because I know how much time I can calculate the amount of time I spend every time we put out a new release and I'm guarding against a regression, I have to go through and run all the main paths through all the different pieces of software that we're shipping every time. And I can’t afford to make sure that I have QA people doing that drudgery. So right now, I'm doing it and it costs hours of my time and that’s not free, so I need to know that I could actually write some tests that would run through those main scenarios and I would get the payback. Do you think it's there?
+
+<strong>LUKAS:</strong> Yes, absolutely. And so I think definitely (and you can take this as far as you want), but where the real benefit is if you’ve ever sent something to QA that you kind of sent over the fence and you had this very long feedback loop of maybe in a day, or if you're working with an offshore team, it's like, tomorrow I'll find out what's the state of this. And a lot of times, something will break and then you have to communicate like, “Oh, this was actually how it was supposed to work.” Or “you’ve made some flub assumptions about the application,” is by being able to automate those tests on your local machine before you actually incur or you actually commence like that process of going through QA (which is a fairly long feedback loop) is you're essentially creating a very tight feedback loop locally to address those issues.
+
+And especially for me, being lazy, is I don’t like to have to load up the browser you know, click through 17 different times like, “Oh, did I break anything?” is you can definitely cover a lot of like low hanging fruit out in a lot of the basic interactions very easily. So one, is it saves you from having to do like the basic interactions, but it allows you to have a type of feedback loop when something doesn’t work which I think is really important because I've had that disconnect with QA where it's like I’ve submitted my ticket, my PR and I'll find out tomorrow if it's going to pass or not. And so having that 24-hour lag, being able to reduce that to minutes I think is really valuable.
+
+<strong>WARD:</strong> Yeah. I think I can put that on the spreadsheet. I don’t think I’d get anywhere telling my boss that I don’t want to do it, but I think I can put it on the spreadsheet and tell them what it costs to have the kind of failures that you're describing. So that’s helpful. That's helpful.
+
+<strong>CHUCK:</strong> The other thing that I've seen with a lot of these is that some businesses, if one of the main processes or workflow doesn’t work, I mean they are losing thousands of dollars every few minutes or few hours, and so just by having something that sort of guarantees that it works and works properly… and with some of these, you can actually sit there and watch it, click through it's just another layer that says, “look, top to bottom, front to back, end to end -- whatever you wanna call it -- this just works” and so you get that. The other thing I wanna point out, I don’t know if you guys have actually worked QA. I did QA for six months at Mozy, and they refused to let us do these kind of scripting for the tests. And so Lukas was talking about a 24-hour turn around, but on some of the products that we were testing, it was 2-3 days to get through all of the test scripts. And we had a team in India that we were throwing it over the fence to, to do a lot of the simpler testing. And so if we had been able to just script a lot of these systems, we can at least then be comfortable with several of these processes just knowing that they are functional and that they do their job and it can help us pinpoint areas where we really need to go and dig in and make sure this stuff works.
+
+<strong>WARD:</strong> Why would they prevent QA from writing scripts?
+
+<strong>CHUCK:</strong> I'm not going to say anything about my boss there.
+
+[Laughter]
+
+<strong>CHUCK:</strong> He was the reason I left. That’s all I'm going to say about it.
+
+<strong>LUKAS:</strong> What’s the dirt? Come on, don’t even… we'll refer to him as “Bob”.
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>WARD:</strong> Because I see QA teams trying to write or to automate their processes and it's painful. It's painful to watch them do it and I'm just so hopeful that Protractor would somehow change the story and maybe it does, and maybe it doesn’t and that’s why I certainly liked this… I’d love to listen in on the show in which these issues were explored because… I know Julie knows how hard it is. She’s not just somebody who stands out there and tries to put… paint it with rainbow colors.
+
+<strong>CHUCK:</strong> Yeah, the tools are still kind of hard. So anyway, we are way over our time. I'm going to push us toward the picks but yeah, I think Lukas, also really well outlined the benefits especially for developers. So yeah, let’s do picks! Lukas, do you wanna start us off with picks?
+
+<strong>LUKAS:</strong> Sure. So my pick is I've been playing around with the new ng-model options in AngularJS and I've found it to be really super helpful. And I think it's a really neat kind of way to do some interesting things that previously was really hard to do in Angular. For instance, how do I update the model on blur instead of on key up? It's super simple now. So if you haven’t checked out ng model options, I’d give it a spin. It's really cool. I'm really glad that they’d put it in.
+
+<strong>CHUCK:</strong> All right, Joe, what are your picks?
+
+<strong>JOE:</strong> So my pick is (it's the same thing I picked on the JavaScript Jabber just because it's so awesome and epic, I have to pick it twice) which is the book Firefight (The Reckoners) by Brandon Sanderson. It just came out. I've been reading it every possible chance I get. I absolutely love it. Book two of his Reckoners series which has just been my favorite book of 2014 and I'm absolutely loving this book. I expect it to be my favorite book of 2015. So that’s my pick is Firefight.
+
+<strong>LUKAS:</strong> We love Brandon Sanderson here.
+
+<strong>JOE:</strong> [Chuckles] Yes, we do.
+
+<strong>LUKAS:</strong> He's excellent.
+
+<strong>CHUCK:</strong> All right. Ward, do you have a pick for us?
+
+<strong>WARD:</strong> Can I say no? [Chuckles]
+
+<strong>CHUCK:</strong> You can say no. That’s fine.
+
+<strong>WARD:</strong> I feel terrible. I'm drawing on blank here. And I can think of things that are funny, but… no.
+
+<strong>CHUCK:</strong> All right. I've got a quick pick (this is the same pick I had on JavaScript jabber as well) it's called DeskTime. And I've just decided I wanna be a little bit more efficient in the way that I spend my time. When I'm not doing contracts and stuff, you know, more time means more money. So yeah, I've been using it to keep track of how efficient and where I'm spending my time. And I'm really digging it so far. It's not  the same as like keeping track of time for clients but it tells you what apps you have open and things like that so then I can identify the areas where I am spending time that I shouldn’t be spending time on things.
+
+<strong>WARD:</strong> You mean like you're always on Twitter, right?
+
+<strong>CHUCK:</strong> Yeah.
+
+<strong>JOE:</strong> Or World of Warcraft?
+
+<strong>CHUCK:</strong> [Chuckles] Yeah, stuff like that.
+
+<strong>JOE:</strong> “You happen to have World of Warcraft open for 80 hours this week. Perhaps you should tone it down.” [Chuckles]
+
+<strong>CHUCK:</strong> [Chuckles] Yeah. Anyway, that’s my pick. So we'll go ahead and wrap up the show. One more thing: Joe, do you have any ng-conf announcements?
+
+<strong>JOE:</strong> Yes, indeed! Reiteration that in addition to live stream -- which is available for anybody to watch -- the ng-conf talks, we are also doing a special program called ng-conf extended which allows people to volunteer to hold a community event and get swag t-shirts et cetera for the people attending and have them show up. And if you are interested in doing that and being a host for a community event to watch ng-conf with some like-minded Angularians, please get on to the site and there's a form to fill out. Contact us and we'll help you get that done.
+
+Also, I want to make a quick announcement about Friday night is game night. If you happen to be attending, plan on staying Friday night for lots of awesome activities; my favorite of which is going to be the Starcraft 2 Tournament, but also there would be a Magic The Gathering tournament, a foosball tournament, Xbox tournament and Super Smash Brothers on the Wii U -- all with fantastic prizes. And last but not least, if you do not have a ticket and you happen to identify as female, we have some tickets reserved specifically for women in tech. If you're interested in that, in the show notes, I'll have the contact information for Judy and she can help potentially get you a ticket to ng-conf and that’s it.
+
+<strong>CHUCK:</strong> Very cool. Definitely need more women in tech.
+
+<strong>JOE:</strong> Agreed!
+
+<strong>CHUCK:</strong> All right. Well, I think that’s it. So, we'll wrap up and catch you all next week!
+
+<strong><em>[This episode is sponsored by Mad Glory. You’ve been building software for a long time and sometimes it gets a little overwhelming; work piles up, hiring sucks, and it's hard to get projects out the door. Check out Mad Glory. They are a small shop with experience shipping big products. They're smart, dedicated, will augment your team, and work as hard as you do. Find them online at madglory.com or on Twitter at @madglory.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by The Blue Box Group. Check them out at bluebox.net]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by Cache Fly, the world’s fastest CDN. Deliver your content fast with Cache Fly. Visit cachefly.com to learn more.]</em></strong>
+
+<strong><em>[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you wanna support the show? Now you can. Go to adventuresinangular.com/forum and sign up today!]</em></strong>

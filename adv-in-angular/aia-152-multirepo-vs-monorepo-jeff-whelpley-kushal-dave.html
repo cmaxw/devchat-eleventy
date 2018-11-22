@@ -1,0 +1,136 @@
+---
+layout: layouts/post.njk
+title: >
+      AiA 152 Multirepo vs Monorepo with Jeff Whelpley and Kushal Dave
+date: 2017-08-15 04:00:30
+episode_number: 152
+duration: 1:14:54
+audio_url: https://media.devchat.tv//adventures-in-angular/AiA_152_Multirepo_vs_Monorepo_with_Jeff_Whelpley_and_Kushal_Dave.mp3
+tags: adv-in-angular
+---
+
+<h2 style="text-align: center;"><strong>AiA 152: Multirepo vs Monorepo with Jeff Whelpley and Kushal Dave</strong></h2>
+On today's episode of Adventures in Angular, we have panelists Ward Bell, Joe Eames and Charles Max Wood. We have special guests, Jeff Whelpley and Kushal Dave. The discussion ranges from the organization of code bases to the benefits of using Monorepo vs Multirepo. Tune in!
+
+<strong>[00:01:45] – Introduction to Jeff Whelpley and Kushal Dave</strong>
+
+Kushal is CTO at Scroll, a start-up. Before that, he was at Foursquare, Chartbeat, Google, and IBM. He has worked in a lot of monorepo code base. Although he actually has experience working on a lot of Multirepo situations.
+
+Jeff is the CTO of a small startup in Boston called GetHuman that helps people with customer service problems. He has been on Adventures in Angular a couple of times before. He has also been in a couple of other podcasts before, as well as in the open-source community.
+
+<strong>[00:03:20] – Introduction to the issue</strong>
+
+Typically, when you’re working in just one or two people team, you don’t really have that many issues centered on dev process, coordinating changes between each other, and trying to figure out the best optimal way to organize your code. Most of the time, you understand the entire code base because you’re working with everything. It gets to be a much different problem once you get to have a larger team. In essence, everything is starting slow down because of different overhead related to the process that was needed in order to make sure got quality changes. You basically have to spend a lot of time and thought around your developer process, how you structure your code, how you physically setup, and organize your entire code base.
+
+<strong>[00:06:20] – How to organize your code bases?</strong>
+
+When Kushal worked at Google, everything is in a single giant repository. There are one or two exceptions for client code and some infrastructure things. It allowed people to feel that they could change any of the code and it made it easy to keep everybody in sync with the state of the code. There is some sort of workflow and process things that you have to change in order to get that right. Probably, the biggest one is trying to keep the repo from working in long running branches because things start to diverge. That was the model of Foursquare too.
+
+<strong>[00:08:15] – How do you run all of the CI across everything?</strong>
+
+The answer changes to different sizes. At Scroll and for most of the time that Kushal was at Foursquare, it was efficient to run all the builds on every commit. If you just have one mega build that just runs continuously, that’s good enough up until 30 or 40 developers. Once you hit that size, there’s a variety of build tools out there that you can use and understand the structure of your code base. Once you’ve used one of these build tools, declaratively indicate which artifacts depends on which libraries, and what the full dependency thing is, you can build only the relevant CI’s. You can decide whether this change only touches this binary or this test.
+
+Chuck also like the approach of having everything in master. If it was experimental, it would still go into master and their CI would effectively run the different builds with the different feature flags. If what you did broke something that somebody else was working on in a process, you could just adjust it midstream.
+
+<strong>[00:16:00] – Gatekeeper process</strong>
+
+The gatekeeper process protects the whole code base but at the same time, it’s in the layer of bureaucracy.
+
+We’ve been reviewing every piece of code before it’s allowed to land in master. Everybody on our team commits multiple times a day to master. All the changes, as much as possible are really small, especially the feature flag check. In that world, there is this bureaucracy. Hopefully, it’s not holding you up too much. The flipside of that is when you’ll feel really confident that you didn’t break anybody who depends on you and you’re going to have to revisit this change a month from now.
+
+For the past 9 months or so, Jeff tried a bunch of different configurations. He tried monorepo and other configurations from the other end of the spectrum - many small packages. As he was interviewing people with their different setups, they’ve all encountered the same types of problems. Regardless if you’re using monorepo or not, as long as you’re trying to keep your changes small and specific, and implemented quickly, it can alleviate any other pains.
+
+<strong>[00:22:10] – Guard rails</strong>
+
+The guard rails are just the reviewers. For us, every change that’s getting reviewed means that in some extent, there’s a human check on that. I’m not sure if you can but I certainly know that Reviewable and Fabricate both offer sort of wide range of configuration options. I can imagine the world in which you can programmatically keep people from landing changes that didn’t have that level.
+
+In Github, there are guard rails. That actually helps the reviewers. It’s reassuring to have some technology that this person is associated with this set of boundaries. If you want to step outside of the boundaries, they’re going to have to get some other person who understands the code that’s outside of the line to join in approving that. If their organization is big, this is something that they might have to think about.
+
+Jeff advises to really be careful about what you’re doing. Is this a change where you are just bumping version numbers or is this something that you have to change a business logic?
+
+<strong>[00:28:15] – Allowing different people to upgrade dependencies</strong>
+
+The only way Kushal has ever seen it done is a brutal all-nighter by somebody who has to sit there and get everything working. But one of the things that Google does is they develop a lot of patterns about how to refactor code to make things easier.
+
+One solution that Jeff sees is the complete opposite of the spectrum from monorepo. Dr. Gleb Bahmutov is a huge fan of open-source smaller repos - a lot of the mentality of keeping things small, separate and distinct. He’s decided that he’s going to stick in the many repo universe and just create tooling to solve some of these problems. For versioning, he runs this server that detects that a new version has been published. It will automatically try to update it and run all the tests. But according to Kushal, if you have different repos, you can move differently in terms of dependencies but if you’re now out of sync, you may suddenly have incompatible dependencies across what you’re doing. It’s a question of when you want to deal with the problem.
+
+Chuck talks about the ways you can get out of sync. With the multirepo, you can get out of sync not just on the dependencies and the build process, but also on the API’s. If you have a module that you’re working on over here and whatever are consuming it on the other side as a driver may not be updated yet so it doesn’t talk properly. Jeff also noticed that with Angular DI, if you aren’t actually using the same version, you run into issues because it has to be the exact same thing at every level or else the injection token is different.
+
+<strong>[00:36:50] – Develop within Monorepo or develop in a separate repo</strong>
+
+Chuck thinks that it depends. If there are a lot of dependencies and shortcuts that he can take by relying on the monorepo, he will do it on the monorepo like if it auto loads the correct libraries automatically. And then, they don’t have to do a whole lot of setup. If it’s small, independent, and it’s going to move quickly, then, a separate repo may be the right answer.
+
+Kushal adds that there are a lot of benefits in doing it in the monorepo. With feature flags, you have the benefit of reviewing it. It also allows you and others to keep up with everyone in terms of breaking API changes, other than having some brutal merge.
+
+Jeff will do it in a separate repo. If this an experimental thing, it disturbs people less. It alleviates the notifications that go on. That is why Kushal’s team also built a lot of custom Slack cooks in order to get some notifications tailored to the parts that they only care about.
+
+<strong>[00:44:50] – How do you work it out so that things aren’t so tightly coupled?</strong>
+
+There are no circular dependencies between your packages even transitively. As your monorepo grows you may eventually have some tooling that requires that for your build system. Can this layer have this type of functionality? Or does it need to be moved into a new package? It also means it improves your architecture.
+
+Kushal’s team is working on Java. This object that users and organizations create can know about each other’s’ objects but the users can never depend back into organizations or vice versa. You can think of the layered model of networking. We have the pure data model objects are not allowed to know anything about the service layer that interacts with the database. The database can know about those model objects. The web tier can obviously know about both the model objects and the service tier because it utilizes both of those.
+
+<strong>[00:47:30] – How are those relationships defined?</strong>
+
+They are defined in build files. If you look at Pants or Blaze or Buck, all those build systems have explicit dependency configurations so you can sort of keeping any of those invariants from being broken.  But Kushal’s team just have a Wiki page that lists out the rules. They also have a test that looks for any cycles in any package dependencies.
+
+Jeff’s team created a CLI tool that walks down all subdirectories from where they’re running it. It finds all the package JSON in all your subdirectories and it creates the dependency graphs. They haven’t fully moved to a monorepo but they did start to consolidate. They have a couple of larger repos. This tool will see the dependency graph for all the NPM modules and also see the dependencies between the repos based off of the NPM module dependencies.
+
+<strong>[00:50:20] – Multimonorepo </strong>
+
+It’s not perfect to have one larger repo that has basically all of the none-deployable codes. Jeff and his team have a separate set of repos for the actual deployable code. They haven’t made the jump to where Kushal is advocating – using build tools.
+
+<strong>[00:50:20] – To open-source </strong>
+
+When you want an open-source portion of what you’re doing but not the entire company’s code base, Jeff thinks that there’s really no way out of having a separate repo for that.
+
+Google has this giant internal repo because not everything in it is open-source. Angular is open-source. That’s at least one driver that Angular is in the public Github repo and Google use so much of Angular. And some companies want the sort of open collaboration and free support and upgrades from the community. Other companies see that they’re giving away some kind of competitive advantage that they’re not willing to give up.
+
+<strong>[00:55:40] – Monorepo is better in all cases</strong>
+
+Jeff recognizes that there’s a number of organizations that have successfully implemented it but there isn’t an easy way for someone to do it. It’s not common knowledge and does not have a well-known set of tooling and best practices. There’s still a lot to go to get to the point where it’s a no-brainer and everybody knows how to do this the right way.
+
+Ward doesn’t know how to do a monorepo but according to him, if he is in an organization or starting an organization, he would go figure out how to do it and would want his organization to have a monorepo. Chuck tends to lean to monorepo but doesn't always do it either. Another caveat is even if he starts with the monorepo, that doesn’t mean that’s where he’s going to end. The answer is if you put them all in separate repos and it turns out that you need benefits of having them all in the same place, you can move them all in one repo. It may not be easy depending on how big and complicated you make your mono or the way you tie together your disparate repos.
+
+Kushal is all in. The only time that he wouldn’t do it is if he’s building disparate open-source projects and wanted them to play the open-source ecosystem. The net benefit is that everyone is moving together rapidly because monorepo is optimized for speed. But Kushal wishes that the tooling is better and that many people move to this model. Joe is also open to monorepo in a larger organization. He thinks that the separate repos keep things but monorepo can solve a lot of problems.
+
+<strong>[01:01:55] – Places to go</strong>
+
+Jeff has a bunch of articles for people who are pro-monorepo and are advocating for that. He has yet to find one that sets forth like a good mental model or decision framework. This is what Jeff hopes to create in the next couple of weeks before the conference.
+
+<strong>Picks</strong>
+
+<strong>Ward Bell</strong>
+<ul>
+ 	<li>Hiking</li>
+ 	<li>Fishing</li>
+ 	<li><a href="http://sierranewsonline.com/hiking-and-fishing-with-sally-in-little-lakes-valley/">Southern Sierras</a></li>
+</ul>
+<strong>Chuck Max Wood</strong>
+<ul>
+ 	<li><a href="http://profitfirstbook.com/">Book: Profit First by Mike Michalowicz</a></li>
+ 	<li>Ketogenic Diet</li>
+ 	<li>Air-conditioning</li>
+</ul>
+<strong>Joe Eames</strong>
+<ul>
+ 	<li><a href="https://www.amazon.com/Everybody-Lies-Internet-About-Really/dp/0062390856">Book: Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are by Seth Stephens-Davidowitz</a></li>
+ 	<li>Rent a scooter to ride around Rome</li>
+</ul>
+<strong>Jeff Whelpley</strong>
+<ul>
+ 	<li><a href="http://whlp.ly/survey-repo">Survey: Monorepo vs Multirepo</a></li>
+ 	<li><a href="https://twitter.com/jeffwhelpley">Twitter: @jeffwhelpley</a></li>
+ 	<li><a href="https://medium.com/@jeffwhelpley">Medium: @jeffwhelpey</a></li>
+</ul>
+<strong>Kushal Dave</strong>
+<ul>
+ 	<li><a href="https://medium.com/git-out-the-vote/strengthening-products-and-teams-with-technical-design-reviews-ae6a1bec5216">Technical Design Reviews</a></li>
+ 	<li><a href="https://www.amazon.com/Orphan-Masters-Son-Pulitzer-Fiction/dp/0812982622">Book: The Orphan Master’s Son</a></li>
+ 	<li><a href="https://twitter.com/krave">Twitter: @krave</a></li>
+ 	<li><a href="https://hackernoon.com/a-lighter-pull-request-workflow-972301e30c5">Medium: Workflow</a></li>
+</ul>
+
+<h3>Transcript</h3>
+
+

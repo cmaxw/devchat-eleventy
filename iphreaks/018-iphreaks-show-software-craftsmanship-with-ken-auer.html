@@ -1,0 +1,509 @@
+---
+layout: layouts/post.njk
+title: >
+      018 iPhreaks Show – Software Craftsmanship with Ken Auer
+date: 2013-08-29 13:00:00
+episode_number: 018
+duration: 
+audio_url: https://media.devchat.tv/iphreaks/iPhreaks018SoftwareCraftsmanship.mp3
+tags: iphreaks
+---
+
+Panel
+
+Ken Auer (twitter github RoleModel Software)
+Pete Hodgson (twitter github blog)
+Andrew Madsen (twitter github blog)
+Ben Scheirman (twitter github blog NSSreencast)
+Jaim Zuber (twitter Sharp Five Software)
+Rod Schmidt (twitter github infiniteNIL)
+Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+
+00:57 - Software Craftsmanship Defined
+01:26 - Manifesto for Software Craftsmanship
+03:43 - Apprenticeship
+
+Situated Learning: Legitimate Peripheral Participation (Learning in Doing: Social, Cognitive and Computational Perspectives) by Jean Lave &amp; Etienne Wenger
+Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt
+
+09:25 - At what level do you consider somebody a “Craftsman”?
+10:46 - How can you tell somebody is a Craftsman?
+
+Pair Programming
+
+15:14 - Empathy
+
+One Love For Nurses
+
+20:36 - Code Retreats, Katas, and Reviews
+
+RoleModel Software’s Craftsmanship Academy
+
+28:07 - Pairing Partner Knowledge Levels and Learning
+31:38 - Professionals and Professionalism
+35:26 - Cost vs Value
+
+Don't Make Squirrel Burgers
+
+Picks
+
+Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt (Pete)
+My Life with Code Reviews (Pete)
+CodeRunner (Andrew)
+QuickRadar (Andrew)
+Rogue Brutal Bitter IPA (Ben)
+Web Economy Bullshit Generator (Ben)
+7 Little Words (Ben)
+Plants vs. Zombies 2 (Ben)
+LSNewsletterInvite (Rod)
+Toastmasters International (Jaim)
+exercism.io (Chuck)
+4 Pics 1 Song (Chuck)
+Go to User Group Meetings (Chuck)
+Situated Learning: Legitimate Peripheral Participation (Learning in Doing: Social, Cognitive and Computational Perspectives) by Jean Lave &amp; Etienne Wenger (Ken)
+
+Next Week
+Autolayout with Cesare Rocchi
+Transcript
+
+CHUCK: Hey everybody and welcome to Episode 18 of The iPhreaks Show! This week on our panel, we have Pete Hodgson.
+
+PETE: Hello from San Francisco! I can’t think of anything funny to say.
+
+CHUCK: Andrew Madsen.
+
+ANDREW: Hi from Salt Lake City!
+
+CHUCK: Ben Scheirman.
+
+BEN: Hello from Houston!
+
+CHUCK: Jaim Zuber.
+
+JAIM: Hello from Minneapolis!
+
+CHUCK: Rod Schmidt.
+
+ROD: Hello from Salt Lake!
+
+CHUCK: I’m Charles Max Wood from DevChat.tv. This week, we have a special guest, and that’s Ken, is it Auer?
+
+KEN: That’s correct! And I’m in Holly Springs, North Carolina.
+
+CHUCK: Awesome. We brought you on the show today to talk about “Software Craftsmanship”.
+
+KEN: Good! That’s what I came for!
+
+CHUCK: Oh, good!
+
+BEN: You mean cowboy coding?
+
+CHUCK: [Laughs] Cowboy coding…
+
+KEN: Not at all.
+
+CHUCK: [Laughs] Don’t make him get his gun.
+
+BEN: [Chuckles]
+
+CHUCK: Do you want to just explain what Software Craftsmanship is?
+
+KEN: In a nutshell, I would say caring about the craft and what you’re doing and how you’re building yourself with. I tend to come from the school that Software Craftsmanship as opposed to the people who software craftsman and impress other people [unclear].
+
+CHUCK: [Laughs] I like that. I know a lot of the latter. I know a few other former, too. I’ve talked to few people about Software Craftsmanship before. The one that comes to mind first off is Micah Martin who’s Uncle Bob’s son over at 8th Light. When I talked to him, he actually mentioned the Manifesto for Software Craftsmanship. Is that something that you try and stand by? And, is there a lot of culture and (I’m trying to think of what the right word is), sort of like the Agile Manifesto where there’s all of this extra stuff around it. Does the Software Craftsmanship kind of have that as well?
+
+KEN: I think, what are in the Software Craftsmanship Manifesto, if I understand it right because I wasn’t there when they put it up, it’s really just about software people that are often just get them treated like mushrooms; shelved in the dark in the corner if they don’t, and hopefully they go out. The whole idea was, “This is something that we should be proud of and do well.
+
+<h3>Transcript</h3>
+
+<strong>CHUCK: </strong>Hey everybody and welcome to Episode 18 of The iPhreaks Show! This week on our panel, we have Pete Hodgson.
+
+<strong>PETE:</strong> Hello from San Francisco! I can’t think of anything funny to say.
+
+<strong>CHUCK:</strong> Andrew Madsen.
+
+<strong>ANDREW:</strong> Hi from Salt Lake City!
+
+<strong>CHUCK:</strong> Ben Scheirman.
+
+<strong>BEN:</strong> Hello from Houston!
+
+<strong>CHUCK:</strong> Jaim Zuber.
+
+<strong>JAIM:</strong> Hello from Minneapolis!
+
+<strong>CHUCK:</strong> Rod Schmidt.
+
+<strong>ROD:</strong> Hello from Salt Lake!
+
+<strong>CHUCK:</strong> I’m Charles Max Wood from DevChat.tv. This week, we have a special guest, and that’s Ken, is it Auer?
+
+<strong>KEN:</strong> That’s correct! And I’m in Holly Springs, North Carolina.
+
+<strong>CHUCK:</strong> Awesome. We brought you on the show today to talk about “Software Craftsmanship”.
+
+<strong>KEN:</strong> Good! That’s what I came for!
+
+<strong>CHUCK:</strong> Oh, good!
+
+<strong>BEN:</strong> You mean cowboy coding?
+
+<strong>CHUCK:</strong> [Laughs] Cowboy coding…
+
+<strong>KEN:</strong> Not at all.
+
+<strong>CHUCK:</strong> [Laughs] Don’t make him get his gun.
+
+<strong>BEN:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> Do you want to just explain what Software Craftsmanship is?
+
+<strong>KEN:</strong> In a nutshell, I would say caring about the craft and what you’re doing and how you’re building yourself with. I tend to come from the school that Software Craftsmanship as opposed to the people who software craftsman and impress other people [unclear].
+
+<strong>CHUCK:</strong> [Laughs] I like that. I know a lot of the latter. I know a few other former, too. I’ve talked to few people about Software Craftsmanship before. The one that comes to mind first off is Micah Martin who’s Uncle Bob’s son over at 8<sup>th</sup> Light. When I talked to him, he actually mentioned the Manifesto for Software Craftsmanship. Is that something that you try and stand by? And, is there a lot of culture and (I’m trying to think of what the right word is), sort of like the Agile Manifesto where there’s all of this extra stuff around it. Does the Software Craftsmanship kind of have that as well?
+
+<strong>KEN:</strong> I think, what are in the Software Craftsmanship Manifesto, if I understand it right because I wasn’t there when they put it up, it’s really just about software people that are often just get them treated like mushrooms; shelved in the dark in the corner if they don’t, and hopefully they go out. The whole idea was, “This is something that we should be proud of and do well.” When the Agile Manifesto came out, a lot of people hijacked that and said, “Oh, this is a huge object documentation,” and there were a lot of things that see different transcoding that we’ve done forever and justify it. I think the idea the Software Craftsman Manifesto said, “No, no, no. It wasn’t about programmers ruling the world and doing what we feel like. It is really about, truly about building,” and that somehow can get lost in the Agile Manifesto you can supposedly be doing in many people’s lives. If you’re doing what Agile says, then it was really kind of response to people adapting Agile and just doing software very [unclear].
+
+<strong>BEN:</strong> Yeah, the manifesto differently reads like it’s an addendum to the Agile Manifesto, not only working software, but well-crafted software not only responding to change, but instead only adding value. I do think that it’s kind of like when the Agile Manifesto came out, there are these things on the left and things on the right. When you look at them listed like that, well of course, you want the things on right. Whereas, this is just saying, it’s kind of like an asterisk by each one of little terms and saying, “This doesn’t give you an excuse to (let’s say) just change software for the sake of changing it, or rather make everything pluggable for the sake of making it pluggable, but only if you’re adding value,” that sort of thing.
+
+<strong>KEN:</strong> Yeah, absolutely. Actually, so we mentioned Micah, I had a little workshop in around 2002 or so, I just taught the Software Apprentice Workshop because I’ve been taking on apprentices for quite a long time and thought it was time to talk about it more in the itinerary because I was fed up with the stuff that was coming out of college just quite honestly. I couldn’t afford to pay people who didn’t know what they were doing as much as they thought they were worth. So I started apprenticing and had this workshop and invited Bob Martin, and he said, “I’d like to bring my son with me,” I said, “Sure!” Micah came, and then few years later he told me he’d start the 8<sup>th</sup> Light, and I was his inspiration. I said, “Wow! I didn’t know that you were paying attention.” It’s kind of neat to hear that some of what we did during that workshop took to group.
+
+<strong>PETE:</strong> That’s awesome. That’s a cool story.
+
+<strong>KEN:</strong> But really, when I started my company in 1997, I’d already come to the point of realization that the software that I was doing and software that was being taught in school was so far different. Also, I’ve come from a pretty collaborative environment that we really lifted each other up and really cared about what we were doing. When I started my new company, I wanted that environment plus some. And when I got to the point where I said, “Man, I need help here, I couldn’t afford to hire somebody who already skilled because there’s so many contracts going,” so I hired an apprentice. It’s how well that worked, and just kept doing it for many years, I won’t go back now.
+
+<strong>PETE:</strong> I think the part of the Software Craftsmanship thing that I find really interesting is the Apprenticeship, the model which I guess how can it’s back to like actual craftsman that worked with their hands kind of thing like people making furniture and stuff like that. Can you talk a little bit more about how that works?
+
+<strong>KEN:</strong> Yeah, sure! Actually many years ago, when I was trying to figure out what would a software studio look like, I was going to this book called “Situated Learning”. The title is actually really long, it’s like Situated Learning: Legitimate Peripheral Participation (Learning and Doing: Social, Cognitive and Computational Perspectives), which is a really long way of saying, “Learning by Being There”.
+
+<strong>CHUCK:</strong> [Laughs] I like it.
+
+[Crosstalk]
+
+<strong>CHUCK:</strong> That’s how I learn!
+
+<strong>KEN:</strong> Yeah! It’s actually a really interesting book. It’s a study of several different participation, some of different industries where learning by “Participation” was supposed to be happening, and it’s in studies of even the butcher shop how they, suppose they have the apprenticeship, that one place for the butchers were in a different room, then the apprentices in another place with the butchers in the same room as the apprentices, and the huge difference and what was happening. So it’s really important just to be in a place where context matters.
+
+<strong>JAIM:</strong> Yeah, I’ve picked up a lot of things just by listening to other developers. When I was learning, just listening in this new people talk and just picking up with how they’re approaching a problem. So I think that’s definitely valid.
+
+<strong>KEN:</strong> Andrew Hunt, one of the designers of the Agile Manifesto, many people know that, the Pragmatic Programmers Bookshelf, he wrote a book few years ago called Pragmatic Thinking and Learning. It’s all about how you really kind of rewire your brain to get beyond the idea of being an advanced beginner, whereas an advanced beginner is a guy who follows rules and doesn’t necessarily know what they’re doing; the context matters. The thing that the book doesn’t address, though, it’s really more kind of rewiring yourself to think outside the box, but it doesn’t really say “How do you get the situation” where you learn about context mattering. To me, it answers that question that it’s unasked in that book. It’s amazing what I’ve seen in having apprentices in our shop, what they pick up in 3-6 months that a lot of people don’t pick up in 3-6 years. I’d go some place also in a consulting gig and start trying to work with somebody who’s been in the industry for a while and it’s so amazing how many bad habits they’ve picked up and instill that nobody has ever told them. That’s not a good way to do that. Whereas, the apprentices on our shop, they get stocked around in 3-6 months and told them, “That’s not a good way to do that.” But not a bit early, please don’t …
+
+[Laughter]
+
+<strong>KEN:</strong> I said it in the afternoon…
+
+<strong>PETE:</strong> Are they kind of like totally blank slates like fresh out of high school? Or, they’re folks that have been doing programming and were interested in starting as a crew? How is that work?
+
+<strong>KEN:</strong> The answer to that one is ‘yes’. It really can be anybody. I didn’t experiment before I got my first apprentice thinking, “Okay, I’m going to take somebody from scratch and teach her everything,” and found out that teaching, if [unclear] and all that kind of stuff, the people who never seen it before is something I didn’t really want to spend my energy on. I found that instead; finding somebody who knew that basic mechanics, however they learned it, it doesn’t really matter how they learned it, whether they took a course, whether they picked up a book. I tell people, programming is like a basketball; there’s only about 7 fundamental things you ever do, but you’ve got to get to the point where you’re fluent at it before somebody is willing to pay you to do it. So you got to be able to take those fundamental pieces that you can learn anywhere, but now it’s about applying it in the game, as they would say.
+
+<strong>CHUCK:</strong> I guess my question is this, you bring on an apprentice, you get them to the point where they become, I think the next level is, Journeyman. And then once they’re Journeyman for a while, eventually, the master the craft and they become a Craftsman. I have to ask this, I’m just curious, at what level do you consider somebody a craftsman? Another way of asking this question is what does their code look like? What behaviors do they have as a craftsman?
+
+<strong>KEN:</strong> I think it was well beyond code. There’s guys who can write nice clean code, but put them in a room with a client and they’d have no idea, they’re just insulting the client or not paying attention or whatever. To me, a craftsman is somebody who does the whole package, goes from somebody with an idea to turning it to something that’s useful for them. So, there’s a lot of pieces to that. Of course, I’m in the software services business where we do that, so maybe there’d be craftsman who just [unclear] expects and they’re still craftsman, but not my world. But really, it gets to the point where, “Can I trust them with any budget?” if somebody came in and said I need software, they say, “Sure, I can do that,” and you know that they can. But that’s how I would define a craftsman. And they can do it, of course, with quality and something they don’t have to apologize for afterwards.
+
+<strong>CHUCK:</strong> Interesting. I know you’ve kind of answered this in the sense that they need to be able to talk to a client, they need to be able to boil down a problem into code, but can you look at somebody’s code and get an idea that they are onto craftsman?
+
+<strong>KEN:</strong> You can sure [unclear], they’re not.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>BEN:</strong> [Laughs] We have plenty of cases of that.
+
+<strong>KEN:</strong> Yeah, certainly. I don’t spend a whole lot of time looking at people’s code when I’m interviewing them. Typically, when I interview anybody, I bring them into pair programmer at least for a day or two. You don’t just see what they code, but how they code, how they approach problems, how they think. Are they willing to learn? Are they open to other people’s ideas? Which no way you can do that in an interview on paper looking at somebody’s code. I’ve had some guys who they look great on GitHub, but when we bring them in, they just don’t know how to interact with anybody and I’m starting to wonder whether the code in GitHub came from them or somewhere else.
+
+<strong>PETE:</strong> We do the same thing at ThoughtWorks. The most valuable thing for us, for me I think, when we’re interviewing people is pairing with them. It’s interesting how quickly you can get a feel for how would be to work with someone just by pairing with them for even just a couple of hours.
+
+<strong>KEN:</strong> Not just pairing with them, but just how they think. I’ve had people come in and said, “I got ready something in iOS. Well, I don’t know Objective C,” that’s not a problem. We’re going to put your problem together and write through it and we’ll help you with the syntaxes, that’s not even important right now. Of course, they don’t know Objective C, but that’s okay. That’s just one piece of skill that they need to know, but you could see how quickly they pick it up. I don’t remember if it were Ruby or whatever.
+
+<strong>PETE:</strong> I almost feel like that’s more important, or as important a skill anyway for someone in the software, is how quickly can they synthesize new ideas because they’re not going to be writing Objective C with the same APIs for the next 5 years of their life. Or maybe does, but they’d still be doing Objective C. Part of the challenges of software people is having to learn new stuff all the time.
+
+<strong>CHUCK:</strong> And at the risk of a sounding a little bit snobbish I guess, a lot of times, I bring people in a pair programming with them. And really, what I’m looking for beyond what we’ve talked about is, “Can I stand and sit by this guy for another 10 minutes?”
+
+<strong>PETE:</strong> That’s not snobbish. You’re going to work with those people. That’s like Ken was kind of getting out with saying, “Part of being in professional services is not just write and slinging good code; it’s also being able to interact with people.” And part of doing good Agile Software Development is a lot of individuals’ interactions. So if you can’t interact with people, then it doesn’t matter how good you are at writing code.
+
+<strong>CHUCK:</strong> One example of this I can just tell real quickly, I had a subcontractor last year. We were working with a very large company in Colorado building up a portal for them. The project manager we were working with, he was kind of picking things up as we went and wanted to be involved. I basically just explained to him, “You can do that, but we’re going to bill you for anything that you do that we wind up having to fix if it’s not right because the code has to be right.” He was totally fine with that because he kind of came to it with the apprentice mindset. I explained this to my subcontractor and what happened was, at one point, the client came back and asked a couple of questions about the code and the subcontractor basically told them, “We’ll pull the latest changes,” and kind of basically told them he couldn’t believe that he didn’t think of doing this himself. And me, at least to say, before the client even complain to me about it, he was gone. It really does just come down to ‘there’s more to this than just the writing code’ because the guy wrote good code. But the problem was that he was deliberately kind of bashing on the head of the client, and you just can’t deal with that. I don’t deal with that. Anyway, it really is important to have those, and it’s in the manifesto here: it’s “To have those productive partnerships with your clients, with your customers”.
+
+<strong>PETE:</strong> I think that goes beyond – I think a lot of us on this call are kind of in the consulting/contracting. So I think even if you’re a fulltime employee at a product company and you’re building software, if you don’t have empathy for your users, then you’re not going to build great software for them. All of that stuff comes down to empathy; if someone doesn’t have empathy for the people they work with or the people who they’re building software for, then they might write and awesome algorithm, but that algorithm isn’t going to add value.
+
+<strong>KEN:</strong> It’s amazing you want to go working with some of the larger organizations as typically, in smaller organizations they don’t last that long. But in larger organizations, you can find people who – it’s just a job for them. They’re doing what they do to keep their job and they don’t particularly care about the users or anything like that. It’s really amazing how many times the folks who don’t care about the users aren’t very good coders in spite of what they say. And they may have a reputation for being good coders, but when you look at their code, all it shows is they’re smarter than some of the other guys as far as being able to sling on an algorithm. But if the code is not readable because they don’t care if somebody else is coming behind them to read it, they’re just doing their job. I guess that’s really the idea of software craftsmanship: Do you love what you’re doing? Or is that the job that pays well?
+
+<strong>CHUCK:</strong> The other thing that I think is interesting about that -- because I’ve worked at a handful of companies that had guys that were really, what I think of is software craftsman, or at least, they’re well on their way than any of other guys that were just there to do the job; they were just there to basically put in 8 hours and collect the pay check. And not only did you see the kinds of things that you’re explaining here, but in those companies, a lot of times, there were other problems that eventually all of the guys that were sort of the software craftsman or on the way to that, they left because of those reasons. And these other guys stuck around until it got so painful that there was just no way that even the same person would stay. So it’s interesting that the software craftsman tend to want to go where they’re appreciated and where they can actually apply their craft, and be part of the community, add value, and be appreciated for it.
+
+<strong>KEN:</strong> I think it’s the same in just about any industries. It’s amazing as I’ve gone through this and didn’t furnish up a lot of folks. We hone the large kids and we have a lot of folks who were trying to, in a home school community, they’re trying to like, “How do I get my children not just through academics primary and secondary level, but beyond that?” They’re fascinated about something not to talk to about the people in their industries, they say the same thing. It’s universal. People who care about their craft rise to the top and they can’t stay in a place where it’s not happening. I have a lot of friends who are in the medical community who writes medical software and then they just have some others that I know. And same thing, it’s the doctors who are really good at what they do are struggling with “How do I actually care for patients these days because there’s so much bureaucracy and things that are put in the way of really caring for your patients,” and it drives him crazy. Example of them recently, they’re doing pretty innovative things. My daughter just started going to a chiropractor who just says, “Everything is direct pay, and you pay by the month. You’re a subscriber here, you use this like you use a gym.” There’s no paper work, he never gets with her insurance agencies, and it’s a lot cheaper and he’s sane, and that means a lot of that.
+
+<strong>CHUCK:</strong> Yeah, makes a lot of sense. I actually am in a Mastermind group with a doctor and a nurse. The nurse has chosen to go out of her way to put up a podcast, that’s One Love for Nursing .com or .org, I don’t remember, I’ll have to look. And then there’s another doctor who has, he care so much for people and feels like the industry and the government and all the regulations have made it so impossible that he’s actually trying to move on to other parts of his career to try and serve people that way. It’s really interesting to see how people approach that.
+
+<strong>PETE:</strong> I think the doctor-nursing thing is really interesting. My wife is a nurse, and her going through nursing school actually make me think a lot about like this; this kind of craftsmanship-apprenticeship thing because the nursing profession versus nurses versus doctors has a very different style and learning. Nursing is all about empathy and caring for your patients and is very, very used at focus as probably you could say, and it’s a lot of apprenticeship, it’s a lot of learning by doing and being on the ward and doing things. Obviously, doctors are also an amazing people and I don’t want to kind of disrespect them, but I think the way that they learn is very, very different and it kind of disconnects them a little bit from their users compared to nurses.
+
+<strong>KEN:</strong> Although I don’t see the medical profession to doctors, they go through all these internship, it’s required to spend time contextual learning in their world. Some of the contextual learning they deal with is all the souvenirs from the regulations or not, but they are doing the contextual learning in that process.
+
+<strong>PETE:</strong> Yeah, true.
+
+<strong>CHUCK:</strong> One thing I’ve wondered about software craftsmanship over the last few years – it’s been several years since I’ve talked to anybody about it – I’m really curious to know, have there been sort of this methodologies, I guess, or like Scrum or Extreme Programming or whatever that have come out of agile? Are there corollaries? I’m not even sure what the right word is… But are there things like that that have come out of software craftsmanship?
+
+<strong>KEN:</strong> There’s a handful of those things that are out there. One of the things that’s…Oh, man! I’m blank; I cannot recall them. The things where you just go off and code…
+
+<strong>PETE:</strong> Code Retreat.
+
+<strong>KEN:</strong> Yeah, the Code Retreat, but they’re not; the Code Retreats, that’s one thing that folks are doing, but it’s the…Oh! The Katas, Code Katas.
+
+<strong>CHUCK:</strong> Oh, yes.
+
+<strong>KEN:</strong> It’s basically saying, “Let’s get better and better at this by doing over the same code multiple times,” just doing coding for the sake of tuning your skill just as if you’re doing your guitars, you would do scales, or whatever, I’m sure you’re going to be doing. That’s something that has come out. Personally, to me, I don’t just make a whole lot; I’ve definitely done them a couple of times. But to me, it’s just “Hey, get your code done and do it well and have it reviewed by somebody and learn from people in context.” One of the things that I found years ago that kind of got lost from some of the early talks about Extreme Programming is when Kent Beck articulated Extreme Programming, he said, “Look, take all the Best Practices (if you know that software) and turn the knobs up to ten, that what’s make it extreme.” So what’s the Best Practice in programming? One of the things that we learn, people get studies, and try to find out how do you get good quality software, most of them were expecting that Testing was going to be the number 1 contributor to good quality. And time and again, they found out that actually Code Review was the bigger contributor. So say the Code Review is important, that turn the knobs up to ten. What better way to do a Code Review than real-time Code Review whether it’s their programming or just, “Hey, I just did this in the last hour. Could somebody look at it for me?” I think that’s just a huge, huge thing and it’s amazing how many times when I just even know that somebody’s going to review my code [chuckles]…
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>KEN:</strong> That’s half of what makes Code Reviews can be a contributor. If you know there’s always going to review your code, you’re going to clean it up. You don’t want to have somebody see your worst code. People don’t have to clean up code if they’d think about it. So I would say that’s one of the biggest things. I don’t see talked about as much in the software craftsmanship, I mean the contributor.
+
+<strong>PETE:</strong> I’ve known just that same phenomenon whereas open source software like people will do a better job with, definitely, with pull request. Just in general, people writing open source, I think tend to write a little bit more fastidious in their quality because they know that, potentially, lots of people are going to be peeking for this code and they don’t want to look stupid.
+
+[Crosstalk]
+
+<strong>BEN:</strong> We had a fair amount of success with that; with the pull request base-code review stuff. We do a fair amount of pair programming, but we don’t have like a hardened pass rules says like 100% pair programming. But the whole pull request thing, and it’s not one of those things where like, “Oh, we don’t trust you. You have to have all your code reviewed.” It’s more like a culture of “We want somebody to give us their guidance and their feedback on our code because we’re all concern with quality,” and the whole GitHub pull request workflow has worked out really well for us.
+
+<strong>KEN:</strong> Certainly. That is certainly a big contributor to being – that’s one of the few tools I’ve seen that electronic means really does help. People talk about, “Oh, anybody can work from wherever they want; remote workers are great blah, blah, blah. “ I said, “Well, if the code is not getting reviewed on a tight loop, you’re missing a lot. I still don’t think if anything replaced having people in the same room and having frequent interaction. But the way at times, quite honestly, if we have a bunch of people in the same room, they’ll all talk to each other, and say, “Hey, guys! Anybody working together today?” [Laughs]
+
+<strong>CHUCK:</strong> Yeah.
+
+<strong>PETE:</strong> My favorite is everyone with huge earphones on talking to each other via IRC. [Crosstalk]
+
+<strong>PETE:</strong> Yeah, that’s what we’re doing right now.
+
+[Laughter]
+
+<strong>PETE:</strong> At least we’re using our voices.
+
+<strong>CHUCK:</strong> I’ve also seen pair programming stand in for Code Reviews. That makes a lot of difference, too. And you get real-time feedback, which is also nice.
+
+<strong>KEN:</strong> That’s a great way to teach the apprentices. One of the things that would talk about interviewing folks and pair programming with guys and figure out are they craftsmen or how close are they be craftsmen. With the apprentices, we found that, well pair programming is great, but on pair programming with somebody who’s brand new, their eyes go this over and, “Well, I’m just going to provide the amount of reason that I spew up in such a short period of time just closing well,” but [unclear].
+
+<strong>BEN:</strong> There’s the statement.
+
+[Laughter]
+
+<strong>KEN:</strong> But no, seriously, the young guys, they’re getting too much of the time. So in a lot of these, we pair programming for a little while. I let them go write code and in an hour, they write the code that had taken me 5 minutes, and they were like poorly. But then it only takes about 5 minutes to clean it up and show them, “Hey, here’s why we have done it this way; Oh, this part over here is good; Oh, wow! That’s really clever! I hadn’t thought about that, that’s a different way approach,” you have to consider. So we have our craftsmanship academy that we’ve offered and we’re doing again sometime soon. Basically, it’s a 12-week of margin. I just give them a series – actually, the same problem over again in multiple pull languages and then extending things to it. While they’re doing it, one of the biggest things I do in academy is, every few hours, I say, “Okay, who’s got some code for me to [unclear] yet?” Put it up on the screen, go through it, discuss why I’ve changed this, why they did this this way, why do that way?” And the next code I reviewed, boy! It’s getting more better, and then I just do code reviews every few hours. Most of the people who’ve been in that say, “Well, that is the most invariable pieces, not the rest of the curriculum, it’s not the other things that I do that I certainly put other pieces into the academy, but that’s the one piece that I don’t know how you replace that; you can’t do that through GitHub, you can’t do that by reading news groups, you can’t do it any other way.”
+
+<strong>PETE:</strong> Is that kind of like mob code reviews where you throw that up on a projection and the whole group kind of talks about it together?
+
+<strong>KEN:</strong> Sometimes, I do it that way. As the Craftsmanship Academy goes further, I’ll ask people, “Okay, what’s wrong with this code?” and they’ll tell me. Other times, I’ll tell them, really depends on what we’re starting with. But in that kind of situation, I’m the Craftsman and they’re the apprentices so my words are right even if it’s not.
+
+[Laughter]
+
+<strong>KEN:</strong> But typically, in that case, it is. When I worked with Journeyman and others that are in there; maybe I’ll be wrong more often. But, it’s just the fact that every sling  and watching the process really and hearing the discussions and even the interactions like questions well, “Yeah, I understand what you’re saying, but I was thinking this,” I said, “Okay, well, let me explain to UI you’re thinking wrong.” Or “Let me explain to UI that’s a good trait of thought, but you fell as like this piece of information into account.”
+
+<strong>PETE:</strong> One of the things you said that was interesting, you’re kind of saying that pairing with someone who’s really junior when you’re already senior is sometimes doesn’t work. I think – I’m pretty sure this is not an original idea – but a colleague of mine was talking about that there’s that Dreyfus model, you referenced that earlier when we’re talking about Pragmatic Thinking and Learning, this idea that you’re kind of on different realms on the latter of a scale so you might be a beginner Objective C, or you might be kind of pretty good, or eventually you’re like the grand wizard master. My friend was kind saying that he thinks that if the gap between those 2 levels, between the 2 pass is too much, then it’s the non-effective way of learning. And also, if the gap isn’t that far, you told them it’s not an effective way of learning. So [unclear] as effective, 2 very junior people pairing together will be productive, but they’re not going to be in super intense learning mode; 2 senior people pairing together won’t be, a really junior person, really senior person, maybe won’t be because, like they say, the junior person has kind of have a hair blown back and it doesn’t really understand what’s going on. But if you take a mid-level guy and pair him up with the junior person, I think that probably is the most effective way for both of those people to learn together.
+
+<strong>KEN:</strong> The gap is, and also the people who are pair programming, I’ve been doing this long enough that I can pair pretty well with the junior person, which other folks in our shop who are probably are better programmers than I am, but don’t do as good of the job if you pair him with somebody. Some of it is just recognize and how do you adjust to the person you’re working with. But there is that gap; one of the things I’ve learned to do is just do it in small doses with small people…small people…with young people.
+
+<strong>BEN:</strong> [Laughs]
+
+<strong>KEN:</strong> You can deal with the gap and understanding by making the time gaps larger or smaller. The time gap in between allows people to review what they just wrote in front of them and learn it and grasp it. Where, a more experienced person will grab that very quickly.
+
+<strong>CHUCK:</strong> One other thing I want to add to this is that, if 2 senior people are getting together, there’s not just one skill set that’s like boom! Programming! There are a lot of different skills related to programming so I maybe kind of a craftsman level at one aspect of programming, but somebody else is way ahead of me, or at least, far enough ahead of me to really help me out with maybe configuring my text editor, or setting up continuous integration, or whatever. So a lot of times, what I wind up doing, because I feel like I am kind of that senior level, at least, in the technologies that I program in, is I’ll find people who have that seniority in an area where I feel like I’m still Journeyman or beginner, and I’ll work things out with them so that we can get together and pair on that, and then I can level up by watching them work. And because I have enough context around the other things that they’re working with, I tend to pick it up pretty quickly. But it’s nice because then you can kind of work your way up. So you find other craftsmen who have complimentary skill sets as yours and you can still continue to move up as a professional or as a craftsman.
+
+<strong>KEN:</strong> Absolutely.
+
+<strong>CHUCK:</strong> I have another question, and that is, -- I know I’m going to tick some people off with my opinion on this, but that’s fine –
+
+<strong>JAIM:</strong> Oh, I can’t wait…
+
+<strong>CHUCK:</strong> The third point on the manifesto is a Community of Professionals. I’m curious as to what you guys consider to be professionals?
+
+<strong>PETE:</strong> I’m so ticked off right now.
+
+<strong>CHUCK:</strong> Oh, just wait until I – [Laughs]
+
+<strong>JAIM:</strong> Darn you, Chuck.
+
+[Laughter]
+
+[Crosstalk]
+
+<strong>PETE:</strong> I’m ramping up…my fury is ramping up.
+
+<strong>CHUCK:</strong> But, what do you guys think? I want to hear what you think first.
+
+<strong>KEN:</strong> To me, community is people who are – if you look at the definition of community originally -- the bunch of people living in the same place that interact with each other on a regular basis and hopefully improve the environment for everybody. To me, that’s a community. There’s online communities, there’s communities that sit in the same room together; I think there’s a lot of folks who they’re only community is the online community, And there’s people, quite honestly in my shop, the only community is the one we had here, and that’s great because we have guys who are connected to both communities and they bring the online community in, and other are just we learn from each other internally. But it’s really give and take to try to make everything better for the rest of them. The professional part, you get paid, if you’re professional.
+
+<strong>CHUCK:</strong> Alright, that’s where I’m going to disagree with you a bit. That is that, when we talk about professionals or pro, or whatever, one example that usually comes up at least when I’m talking to my dad is pro-golfers. So I’m going to use them as an analogy really quickly. A pro-golfer, he is somebody who gets – this is the technical definition – they get paid a certain amount, and if you get paid over a certain amount in a year to play golf, then you’re a professional. If you win a hole-in-one contest and you win a car, that puts you under professional bracket; you’ve earned enough money or gained something of value from golfing within that year, and you basically gain pro status. However, when you see them go and play at the tournaments, you see them go and do press stuff, they’re dressed a certain way, they look a certain way, they talk a certain way, to me, that also falls in with professionals. Now, I’m not saying that a professional has to go to work every day in a shirt and tie, but if you’re dealing with a client, then you should dress appropriately, if you’re dealing with them face to face. If you’re talking to them, you probably shouldn’t be cursing at them, you should probably be polite to them, things like that. I think that all falls in with professionalism. I’m not saying that you have to be uptight, but I see a lot of behavior out there from “Professionals” that I don’t feel like this professional. I really feel like in a lot of cases – I see this much more in the more open source communities than I do in the iOS community, but I know there are people out there like this out there, too. But the thing is this, put a good face on and represent yourself well or represent the community well.
+
+<strong>KEN:</strong> Oh, then it goes back to the community professionals. If you’re really trying to make things better for everybody, you’re going to behave in a professional way as you’re describing that. So it’s really – maybe the warning should be at community at professionalism. Because professional, just means you’re paid doesn’t mean you’re going to get paid for long. Some of the things you just described, if you’re cursing your client, guess what, you’re not going to get paid very long, brother. I can see a lot of guys out there that I don’t know what they do for a living because I’ve spent a lot of time interviewing people who, of people pay you?
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>KEN:</strong> Can you tell me who pays you? And I’ll try to find out why? But there’s a lot of folks out there unfortunately I think who are “Professionals”, they are getting paid by somebody, and why? I don’t know. I don’t know who pays some of these folks.
+
+<strong>BEN:</strong> Well, there’s the notion of like, there’s the cheaper, there’s the sort of a wide range of the cost of software development, and there’s always going to be like cheaper labor. The problem is this: the ramifications of choosing cheaper labor and having it go wrong, are way more expensive than paying for the right way. It’s the same thing if you buy a cabinet from Walmart versus buying it from an actual woodworker. There’s going to be like a vast difference of quality; one is going to last longer and it’s not going topple over and ruin the things that are inside of it or whatever. There’s definitely like the perception of like what are you getting. If somebody’s going to mow your lawn, you’re going to go for the cheapest labor you can find. There’s kind of some of that mentality still in our industry.
+
+<strong>KEN:</strong> I’ve certainly found that there’s people who are cheaper and there’s people who are more expensive, and that has nothing to do with the quality of the work. I’ve certainly had people who -- I hired them as subcontractors or whatever, and they price themselves out of the ballpark. When I first hear the prices, it’s like, “Okay, let me see. How good do you have to be to be worth that?” And they say something or do something in amidst of the conversation, which convinces me they’re not worth it because I don’t know if I can work with these guys. Got too big of an ego or whatever else there is…
+
+<strong>BEN:</strong> Yes. So price doesn’t imply quality, right?
+
+<strong>KEN:</strong> Yeah! And I’ve seen people who crank out websites for peanuts that do a really good job at it. I’m not comparing websites with significant web applications, but I’ve been amazed sometimes at people who I think they’re cheap, and they aren’t! Very professional; they do a good job, they quickly grasp what you want, they quickly produce something that’s really good. They don’t realize how underpaid they are in some cases, but they’re cranking it out sort of fast and making a good living and [unclear].
+
+<strong>BEN:</strong> That’s kind of something that will balance yourself out, like the laws of nature; that person will eventually realize if they’re on high demand, that they’re doing it right by their clients, and they will start charging more, hopefully. And then there are other people who realized the pricing structure of our industry and they’re pretty good at talking the talk and will over price themselves. Eventually, those people might realize that they’re not finding anymore work. I kind of feel like those things naturally solve themselves. But I get frustrated from time to time when I see companies always looking to hire the junior developer because they cost less or trying to do offshore because it’s going to cost like 1/3 in labor or whatever, and I’m not really fully understanding the ramifications of that choice.
+
+<strong>CHUCK:</strong> Right because it cost them 10x in maintenance [unclear]. [Crosstalk]
+
+<strong>BEN:</strong> I forget where the stat come from, but you know how like a senior developer who might cost like 50% more in salary or maybe 100% more is way more effective. like up to 8x more effective. I can’t remember the source of the original quote, but 87% of stats are made up –
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>BEN:</strong> But there’s some truth to that notion that the person who has a watchful eye for quality, and has soft skills and knows how to communicate with other developers and the client, and is a true professional, those people are going to save you money as opposed to a bunch of people who aren’t necessarily concern with those things.
+
+[Crosstalk]
+
+<strong>KEN:</strong> The folks who do that in some – first I got to make sure they’re not just self-proclaimed senior developers. The other thing that I’ve seen is, after all people in our shops, I have apprentices do things on a project, the key thing is you need to have the people doing the simple things; you cannot cheat people doing simple things, and more expense of people doing the harder things, but you need to have somebody who knows the difference. If you don’t have a senior person who knows the difference, just say, “You know what, this is simple enough. This apprentice over here I’ve been working with for long, he could just not right out.” If you don’t have the wisdom to recognize, it’s a very dynamic thing, that can change 4x in a day; it’s not like the project is hard or simple. At any given projects, you’re going to have things that are hard, and things that are simple. Usually, the craftsman who figured out the difference and set the direction, once the direction is set, then you can form that pieces to cheaper labor who are going learn and eventually they lifted up to the craftsman level.
+
+[Crosstalk]
+
+<strong>KEN:</strong> But like you said, an hour rate -- I talk to people, “Are you buying hours? Or, you’re buying a solution?”
+
+<strong>BEN:</strong> Yeah. I think that you can also – I agree with everything you just said, except that you can’t just [unclear] to a team of junior developers. I think there needs to be that leadership that can help raise the skill level and coach these folks. Not that junior developers are bad, everybody has got to start somewhere, but you need to have that mentorship capability for you to grow. Otherwise, you’re granted a solution, you do the best you can, but you have no way of like sort of measuring your own progress.
+
+<strong>KEN:</strong> And that goes to the junior developers having the senior people around them to review their code and do all that kind of work. So it’s not just getting a junior developer and closing your eyes [chuckles].
+
+<strong>PETE:</strong> I think one of the antipatterns or something that I see client sometimes using is to kind of think of these things as tangible resources. I have 4 junior resources, 2 mid-level resources, and 3 senior resources, I’m going to allocate work to those resources. If start thinking of resources and start thinking of people on a team and allocate work to the team and trust the team to kind of balance that work amongst themselves, then you get the best of both worlds where you can kind of blend the cost to be well from a purely kind of financial point of view without losing the perspective of improving the folks inside of that team.
+
+<strong>KEN:</strong> Absolutely. And that’s what we sell here [laughs].
+
+<strong>PETE:</strong> I think, really, when it comes down to it, what we’ve just been talking about, is this kind of fallacy of cost versus value. It doesn’t really matter how much something cost, it matters how much value it’s providing.
+
+<strong>BEN:</strong> I try selling that argument to clients.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>PETE:</strong> We have to do that all the time.
+
+<strong>BEN:</strong> “It doesn’t matter how much it cost.,” “Yes, it does. I have a wallet and has a finite number of bills in it.”
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>PETE:</strong> We do have that discussion a lot with clients. ThoughtWorks were very expensive, and there’s absolutely alternative consultancies that are a lot cheaper. So I have that conversation with clients fairly regularly like, “You guys are too expensive and…”
+
+<strong>BEN:</strong> Yeah. I definitely see that as well. I have a friend who has started a consultancy. When companies are asking him about rates, instead of telling them the rate, he would say, “Oh, we’re the most expensive in Austin,” and they would kind of like take a step back and he’s like, “Well, when you’ve had your fun with the smaller shops who would charge less and you’re not satisfied, then come talk to me.” If you have the results to back it up and you have the reputation, then that certainly would work.
+
+<strong>CHUCK:</strong> Because that doesn’t sound conceited at all.
+
+<strong>BEN:</strong> Yeah.
+
+<strong>ROD:</strong> [Laughs]
+
+<strong>JAIM:</strong> The trick is to explain that the upfront cost is just the down payment on the software.
+
+<strong>PETE:</strong> Right. It’s not a capital cost; you’re going to need to lever this thing and build it and evolve it every time, that kind of stuff.
+
+<strong>JAIM:</strong> Yup.
+
+<strong>PETE:</strong> That’s kind of sad and I find it a little bit depressing that we’re in an industry where we almost have to tell, certain types of clients who are looking for work, we almost have to tell them, “Go and use those cheap guys and learn your lesson and we’ll talk to you later on,” I don’t know, it’s kind of sad that that’s the state.
+
+<strong>KEN:</strong> Some of the thing I think being about a craftsman is just trying to figure out -- I have somebody that come into my shop, it’s what are you willing to invest and what you’re trying to get? And then try to figure out, “How do we get you closer to your expectations for your budget?” If that worked out, too, then it’s professional and it’s craftsmanship to tell them, “You can get what you’re asking for with that amount of money; anybody tells you that you can, either lying to you or naïve,” I’ve told people that many times. If they choose to believe me or not, that’s up to them, that it’s professional and it’s craftsmanship to do that. Part of the idea as a craftsman is somebody says, “I want something on a budget,” try to figure out what can fit within your budget rather than just say you don’t have the million dollars, you don’t have half a million, or whatever your price is, we’re [unclear] talking to you yet.
+
+<strong>BEN:</strong> That reminds me of the story of Squirrel Burgers. Have you guys heard that one?
+
+<strong>PETE:</strong> It must be a Texan [unclear].
+
+[Laughter]
+
+<strong>CHUCK:</strong> Squirrel!
+
+<strong>BEN:</strong> I did hear about it in Texas.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>BEN:</strong> I’ll summarize it here. I heard this when I was taking Scrum training back in 2007 or something. My Scrum trainer told the story, it was about estimates, you estimate something and takes 6 weeks, they say, “No, I really need it in 5 weeks, no later,” that means somebody is sort of negotiating your estimate for you. Without sacrificing quality, there’s really no way you can do this. So you have to start to be careful with how you engage in those types of scenarios. The thing about the squirrel burger is sort of like you’re running a restaurant and this guy and this guy comes in and ask for a burger and fries and a shake and it cost $7.50, but he only has $2. So at this point, the business owner gets kind of creative and said, “Well, you know what, I don’t need to use the expensive beef, I can go around back and pick up the dead squirrel that’s outside, serve that to him and charge him $2, and then hopefully, were both happy,” except that guy will return again, or perhaps, the next customer will do the same. Your manager is going to start realizing that you can negotiate your estimates and sacrifice quality – I’m sort of butchering the story, I’ll make a link to the full story. But I really think that it’s a serious problem when people start negotiating your estimates for you. So the moral of the story is just kind of “Don’t ship crap to meet a short deadline”. You need to be able to have those conversations with customers to reduce scope. Maybe you can deliver the same feature, but with a slightly different vision that is cheaper to implement, but isn’t necessarily sacrificing quality and the software.
+
+<strong>PETE:</strong> I see this a lot with people like programmers thing like, “How do I get my manager to allow me to do pair programming or to allow me to write unit tests?” I get very frustrated with that and I kind of tell them like, “Your job is to write good quality code, that’s your job.” You don’t go to your manager and say, “Can I please do a good job?” you do a good job. Particularly for a non-technical manager, they don’t really understand, they don’t see the internal quality of the software going down because they keep pushing for deadlines to be kind of short and order. That’s not their fault; they don’t have that skill set and they are not into code so they don’t have the ability to see the quality of your code slightly degrading over time. So it’s your responsibility as a professional, it only goes back to that kind of thing about professionalism, to not let your team produce crap.
+
+<strong>CHUCK:</strong> I hear this a lot, it’s that a craftsman scientist work. And ultimately, back in the day when they were actually making physical products, they really did, they put their name on their work. If you’re Journeyman or your apprentice made it, you sold it, you still put your name on it. So it’s the same kind of thing here. Take pride in your work; take pride in what you’re putting out there. People are going to see the commit logs for whatever you’re working on, they’re going to see your comments and the code, and they’re going to know that you worked on it. Beside your reputation or anything else, I would be a little bit embarrassed if somebody came out and said, “Well, I’ve worked on some of Chuck’s code, it’s sort of poor code!” So I would much rather have somebody come out and say, “He did it right! He’s definitely out that level.” That’s the kind of pride I take in my work, and it’s important to me to put that across both for my clients and for anyone else who comes along to work on the code.
+
+<strong>JAIM:</strong> It’s a good way. I’m thinking about it. Signing your work.
+
+<strong>BEN:</strong> Xcode does that for you, right at the top.
+
+[Laughter]
+
+<strong>CHUCK:</strong> So does Git. You set those variables and you push it to the server as your name right there on it. Alright, well, let’s go ahead and do the picks then. Let’s let Pete start this off this week.
+
+<strong>PETE:</strong> You always let me go early on, I’m very [unclear] on them, Chuck.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>KEN:</strong> The check is in the mail.
+
+<strong>PETE:</strong> I have 2 picks this week. The first one, I can’t resist it, I’m sorry if I’m stealing someone else’s, the book “Pragmatic Thinking and Learning”, which we kind of talked around a couple of times during this episode. I suspect I’ve picked this before because I love this book and I always tell people about it. It’s about how your brain works, it’s about learning models, and the way that you interact with people and the way that your perspective of things changes how you see the world around you versus other people, both of kind of like hand-wavy touchy feeling stuff, but I kind of describe it as the most important non-technical, the most valuable kind of non-technical book I’ve read. So I really, really highly recommend it. It’s awesome. And it’s a fun kind of geeky read; it’s written for software developer so it refers to your brain as like a jewel call CPU with a single bus to your memory and like lost of some allergies so it makes you feel less freaked out by the hand-wavy touchy feeling stuff. It’s good. And then my second pick is a blog post from a colleague of mine called “My Life with Code Reviews”. This is fellow ThoughtWorker who wrote – actually, before he works at ThoughtWorks, 2 kind of contacts were he was working in an organization or teams that were doing code review. One of this was a good situation, one of them is a bad situation, so it’s a very interesting kind of fruitful analysis of when he thinks code reviews work, and when he thinks that they don’t work. This is kind of feeds in to that kind of the debate maybe about code views versus pair programming and stuff like that. So it’s a good read, I recommend it. And I recommend his blog in general; he’s very good, very smart guy. That’s it for me this week.
+
+<strong>CHUCK:</strong> Awesome. Andrew, what are your picks?
+
+<strong>ANDREW:</strong> I have 2 picks today, and neither one related to what we’ve talked about, but they’re both things that I have got a lot of use out of, and I must admit, I’m kind of stealing this from Ben. I don’t know if you’ve seen, but he did a CocoaConf talk on Tools for iOS Developers, and he put up a blog post, and these are both on there. The first is a little app called “CodeRunner”, this is a Mac app, basically a text editor that knows how to compile and run a bunch of different languages. I use it all the time for running quick snippets of code that I just want to test. I use it a lot when I’m writing Stackoverflow answer and I want to create a small self-contained example and test it without firing up Xcode and creating a project. It’s not free, but $5, which is well-worth than I think. The other one is an app called “QuickRadar” that is also a Mac app that lets you…
+
+<strong>BEN:</strong> Yes.
+
+<strong>ANDREW:</strong> Sorry?
+
+<strong>BEN:</strong> Plus 1, plus 1 [chuckles].
+
+<strong>ANDREW:</strong> Oh, plus 1, yeah! So QuickRadar lets you submit bugs to Radar, which is Apple’s bug reporting tool without actually having to use the Radar web interface, which is a joke, basically. I seriously laughed when I go to the website because it looks like it was written in 2001 and has not been touched since then.
+
+<strong>PETE:</strong> It does give you kind of nostalgic of like landscape or something? [Laughs].
+
+<strong>ANDREW:</strong> Well, they just barely updated the message that said, “Requires Safari 1.0”…
+
+[Laughter]
+
+<strong>BEN:</strong> Did you see the redesign that came out like silently, and then was reverted a couple of days later?
+
+<strong>ANDREW:</strong> Yeah…
+
+<strong>BEN:</strong> It looks like an iPad…
+
+<strong>ANDREW:</strong> Yeah. Looked like an iOS, 6 iPads.
+
+<strong>BEN:</strong> Yeah.
+
+<strong>ANDREW:</strong> I think we all kind of know why that went away so quickly.
+
+<strong>BEN:</strong> Real quick, not to hijack your picks, QuickRadar is awesome, but it doesn’t work if you’re trying to make some crash reports. If you say it’s a crashing bug, the site now requires you to upload a crash report, which that tool doesn’t let you do. So for the last couple, I was wondering why they weren’t able to post To-Dos because there were crashes, so I had to do that on the web.
+
+<strong>ANDREW:</strong> Yeah, it won’t let you upload files about which – you sometimes want to upload files even for non-crash, but it was like you have a little sample project or something that reproduces it. But I think the developer said, he’s working on adding file uploads, hopefully, he can do that soon. It even serve for bugs that don’t need to upload the file; it’s a great quick way to type in a bug and send it to Apple. So those are my picks.
+
+<strong>CHUCK:</strong> Awesome. Ben, what are your picks?
+
+<strong>BEN:</strong> I’ve got 4; I’ll try get through them quickly. The first one, I was just in Oregon, my home state and I really love it there. I spent few hours at the Rogue Ales, and I had a “Rogue Brutal Bitter IPA”, which is really good.
+
+<strong>PETE:</strong> Plus 1!
+
+<strong>BEN:</strong> Yes. And then I was in the Made in Oregon store for bringing back gifts for my kids, and I picked up a Portland State IPA, which I had never heard of before, again, by Rogue. It turns out that’s the same beer, just reprinted. So, plus 1 for that because I get to drink good beer again.
+
+<strong>PETE:</strong> I need to start doing beer picks, what am I thinking?
+
+<strong>BEN:</strong> Yes. Yes.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>BEN:</strong> Well, you did. I actually had a couple of yours…
+
+<strong>PETE:</strong> I need to continue doing that.
+
+[Crosstalk]
+
+<strong>BEN:</strong> The next one, maybe, I don’t know, are like a family-rated podcast? I’ll censor myself, just this time. It’s the “BS Generator”. This thing was made in 1995…I don’t know when it was made, this website. But you click a button and it generates a random Web Economy BS Generator. I just clicked it, and it says, ‘synergize efficient e-services’. Anyway, this is kind of a fun little tool to play around with. And it’s surprising it’s still relevant today. And then my last 2 picks are just a couple of apps I’ve been playing with on my phone. The first one is called “7 Little Words”, it’s a word game where you get word segments like a 3-4 letter tiles, then you’ll get a list of descriptions, and you have to sort of piece together words that fit descriptions. It’s a really good game that you can play just sort of casually; there’s no time limit or anything like that. And then the last one, “Plants vs. Zombies 2”, which is pretty fun. It’s a little of in-app purchase landline, but so far I haven’t had it purchase anything. Anyway, those are my picks!
+
+<strong>CHUCK:</strong> Awesome. Rod, what are your picks?
+
+<strong>ROD:</strong> I just got one pick today. It’s called “LSNewsletterInvite”, it’s some code, it lets you present a newsletter sign up, nice-looking newsletter sign up dialogue in your iOS app. That’s useful because a lot of people complain that they can’t talk to their customers on the iTunes store. So you get them sign up for your newsletter then you can converse with them. That’s my pick.
+
+<strong>CHUCK:</strong> Cool! Jaim, what are your picks?
+
+<strong>JAIM:</strong> I know it’s a common theme about what we’re talking about today. Chuck, you talked about kind of representing yourself well to professional; Ken mentioned getting all with your clients, kind of important. We also talked about how do we explain maybe our higher rates to our clients versus different competitor. A lot of us got into tech because we know the interface with computers better than people - computers, makes sense; people, not so much. So how does a tech person kind of develop these soft skills? For past few years, I’ve been a part of a Toastmasters Group in Minnesota, we’re actually Techmasters Group – we’re called Techmasters, we’re all IT people. But if you do a lot of coding, I recommend checking out “Toastmasters”, there’s probably a group nearby, maybe check out a company that has kind of a large offer team, you might get some people that are kind of the same page. That’s something that’s really kind of help to explain what’s important to me going forward. So that’s my pick – Toastmasters.
+
+<strong>CHUCK:</strong> Awesome. Alright, I’m going to pick a couple of things here. The first one is “exercism.io”, it’s E-X-E-R-C-I-S-M.io. It is a series of exercises for whatever the languages you want to program in. It was started by Katrina Owen who’s on the Ruby Rogues Podcast, and I’ve really been having fun with that. Another pick, kind of a fun pick that I’ve been playing on my iPhone, it’s called “4 Pics 1 Song”. I was playing 4 Pics 1 Word for a while (that was fun), but my wife got me hooked on this other one, and it’s a lot of fun. It gives you 4 pictures and then you have to use the letters that they give you to spell out the name of the song that it’s trying to give you hints for. Lots of fun, super way to go. And then one other pick that I have, and this is just in general, it’s “Go to Your Users Group”. There are couple of great CocoaHeads groups out here in Utah, there are a bunch of other groups all over the place if you want to go find CocoaHeads or some other group that does programming. It’s really an excellent way to meet new people, be exposed to new ideas, and just get involved. Anyway, those are my picks. Ken, what are your picks?
+
+<strong>KEN:</strong> Well, I was going to say Pragmatic Thinking and Learning, that be to that one, and “Situated Learning” book. Although, I think it was written in 1991, it’s really good. I found that sometimes, reading outside of [unclear] is very helpful. I learned a lot reading architectural books early on, and patterns, and things like that, and this is certainly, certainly very helpful in understanding importance of architectural learning.
+
+<strong>CHUCK:</strong> Awesome. Alright, well, we’ll recommend people that they go check out those books. Ken, if people want to get a hold of you, or hire you, or anything like that, how do they find you?
+
+<strong>KEN:</strong> RoleModelSoftware.com, that should do it.
+
+<strong>CHUCK:</strong> Awesome. Alright, we’ll wrap up the show then. Thanks for coming guys, and thanks for coming, Ken! We’ll catch you all next week!

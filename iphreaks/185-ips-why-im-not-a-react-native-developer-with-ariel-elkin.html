@@ -1,0 +1,350 @@
+---
+layout: layouts/post.njk
+title: >
+      185 iPS Why I'm Not A React Native Developer with Ariel Elkin
+date: 2016-12-29 06:00:47
+episode_number: 185
+duration: 44:14
+audio_url: https://media.devchat.tv/iphreaks/iPS185_Why_Im_Not_A_React_Native_Developer_with_Ariel_Elkin.mp3
+tags: iphreaks
+---
+
+<span style="font-weight: 400;">Introduction</span>
+<ul>
+ 	<li style="font-weight: 400;"><a href="https://arielelkin.github.io/"><span style="font-weight: 400;">Ariel Elkin</span></a></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://arielelkin.github.io/articles/why-im-not-a-react-native-developer.html">Why I Am Not a React Native Developer</a></span></li>
+</ul>
+<span style="font-weight: 400;">1:20: React Native</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Functional reactive programming</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Reactive architecture</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Inconsistent state</span></li>
+</ul>
+<span style="font-weight: 400;">7:15: Context of iOS app</span>
+
+<span style="font-weight: 400;">9:50: Developing in React Native</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">What went well</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">What didn’t go well</span></li>
+</ul>
+<span style="font-weight: 400;">18:45: JavaScript patent</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Example with Facebook</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Example with Airbnb</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Patent trolling</span></li>
+</ul>
+<span style="font-weight: 400;">29:30: More concerns with React Native</span>
+<ul>
+ 	<li style="font-weight: 400;"><a href="https://www.ubuntu.com/"><span style="font-weight: 400;">Ubuntu</span></a></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://parse.com/">Parse</a></span></li>
+</ul>
+<h3><span style="font-weight: 400;">Picks:</span></h3>
+<a href="http://paulgraham.com/disagree.html"><span style="font-weight: 400;">How to Disagree by Paul Graham</span></a><span style="font-weight: 400;"> (Ariel)</span>
+
+<a href="http://www.humournet.com/misc.humour/real_programmers.txt"><span style="font-weight: 400;">Bullet list of what real programmers are</span></a><span style="font-weight: 400;"> (Ariel)</span>
+
+<a href="http://chainsawsuit.com/comic/2014/09/16/on-research/"><span style="font-weight: 400;">Chainsawsuit comic</span></a><span style="font-weight: 400;"> (Ariel)</span>
+
+&nbsp;
+
+<a href="http://hired.com/iphreaks"><span style="font-weight: 400;">Hired.com/iphreaks</span></a>
+
+<h3>Transcript</h3>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">Hey everybody and welcome to the iPhreaks show. Today on our panel we have Andrew Madsen.</span>
+
+<span style="font-weight: 400;">Andrew:      </span> <span style="font-weight: 400;">Hello from Salt Lake City.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">I’m Jaim Zuber from cold Minneapolis. Today we have a guest, we have Ariel Elkin. Ariel, can you say hi?</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">Hi everybody, I’m from London, England.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">We brought you on the show because you had done an article a month or two back on your experiences with React Native entitled Why I’m not a React Native</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">Developer? Can you tell us a little bit about that?</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">The article came about because the company I was working on at that time had asked me to give React Native a trial. I was working as an iOS developer at that</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">time. I had worked on a couple of apps for that company and a dozen more prior</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">to that. The idea was to make this new internal app using React Native and also</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">evaluate its potential for migration towards React Native away from Xcode and</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">Android studio.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">We’ve discussed React Native on the show but can you give us a real brief</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">introduction of what it is?</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">React Native is a cross-platform development framework that allows you to write apps in the target iOS and Android using a single code base. Traditionally, you</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">would have an Objective-C or Swift code base for your iOS apps and then you</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">have to make a separate Java code base for your Android apps. The idea behind a</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">cross-platform framework is just have a single code base written in a single</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">language and [00:01:59] a compiler and then you get binaries at work on iOS and</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">binaries at work on Android.</span>
+
+<span style="font-weight: 400;">One of the strong selling points of React Native is that, the contrary to many of other cross-platform development frameworks that we have seen up to now which produce what’s really a mobile website wrapped inside a webview. React Native allowed you to write code that produce an app that’s used Native, fully Native user interface components. You’re not seeing JavaScript and HTML inside a web, rather UI Kits, UI Kit objects, UI controls, UI views, UI buttons being produced out of JavaScript or JXS code. That’s why they added the Native bit to Swift.</span>
+
+<span style="font-weight: 400;">At the same time, another thing that’s really appealing about React Native is that, it reuses the React framework which allows functional reactive programming which is a pretty compellingly to think about user interfaces and your app as a whole.</span>
+
+<span style="font-weight: 400;">Andrew:      </span> <span style="font-weight: 400;">Can you briefly say what that really means, functional reactive programming or</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">using reactive architecture to build an app? How was that different from what a</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">normal iOS developer does when they’re using UI Kit?</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">What we normally do on iOS is we specify all of the steps required for the OS that generates the UI. We subclass a UIview and then when I like the difference is to have a public variable which has a property observer and whenever the super</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">view of the child UI view updates that variable, then whatever is on the code</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">on the property observer automatically updates user of the interface on that</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">child view.</span>
+
+<span style="font-weight: 400;">The point is you specify the steps required to update the UI. In React’s declarative paradigm, just going to take this from the documentation, you simply express how your app should look at a given point of time and React will automatically manage all UI updates when your underlying data changes. When you update the state inside the app, when the model on your data itself changes, React takes care of all the plumbing required to make a change in the UI.</span>
+
+<span style="font-weight: 400;">This is much easier to see and code. An easy way to think about it is that you compare a for-loop, suppose you have an array of numbers and you want to sort them, you can sort them using a for-loop, but you can also sort them, which should be an imperative way but you can also sort them using the sort function on an array. The latter is the declarative functional way to do it. Don’t specify all the steps required but write a function that had a list required within it. I think of it as essential, I think it’s a bit of difference between a for-loop and that step in that sort function [00:05:53] an array.</span>
+
+<span style="font-weight: 400;">Andrew:      </span> <span style="font-weight: 400;">One of the big draws of using this is that, a lot of the bugs that come up in</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">writing a typical UI are basically problems where you don’t correctly maintain</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">state. State becomes inconsistent. That is the state that is determining how</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">your UI looks or reacting to changes in that state to update the UI reactive</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">programming you don’t do that kind of programming. You say how you want the UI to look in terms of [00:06:25] instead of managing all of that yourself.</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">That’s</span> <span style="font-weight: 400;">exactly right. You don’t manually update the views yourself. One of the results of this is that, you end up thinking about UI elements and other things in your app as functions rather than instances of classes. They take an input and they</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">react with the result. The purpose of a React component is the basic building block of the React app. The purpose of the component is to return itself on the state it’s supposed to be when requested.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">What does this mean in the context of iOS app? If you’re data file iOS developer would choose your background, [00:07:22], now you’re doing it in JavaScript. If you want to create a simple app that shows itself on the screen, how do you do that?</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">The first you do after installing React Native is call, use a command line tool to</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">generate a new React Native project and that generates an Xcode project with</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">build settings, build phases required to work properly with the React Native</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">STK. One way to go about it is to create a JavaScript file or use a pre-existing</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">JavaScript file, make a route component, class route extends component and then</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">you override the render function of that component and that rendered function</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">should return all the child components of that pre component. There, you would</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">just write JS Xcode which specifies the component that should returns.</span>
+
+<span style="font-weight: 400;">Once such component again is a class child component that extends component and again will have a render function which you override and then you check the state is. According to the state of that component, you return views. View in this case is a kin to a UI view. You style it similar to the way you would style things in the CSS, specify a background color with [00:09:14] and put it in the data syntax similar to, it looks like a blend of HTML tags and CSS in between which is a JSX of JavaScript+, this extension that lets you fix something similar to HTML and CSS which is really useful for expressing this kind of UIs.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">You spent a number of time developing a React Native, what went well with the</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">project?</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">Many things, many things. To start with, we’re talking about the declarative style</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">of programming was a breath of fresh air. I found that to be a really useful</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">way to think about user interfaces and they were good to be relieved that the</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">responsibility of manually updating views myself. All you update is state. The</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">plumbing is already taken care of for you. That was a big breath of fresh air.</span>
+
+<span style="font-weight: 400;">Another thing I loved on the React Native was how fast the development cycle is. We’re used to writing our Swift or Objective-C code and hitting a command arm and then waiting for the app to compile, waiting for the binary to form and then transferring that binary over to the simulator or device and then you’re taking to the app it’s in the state it is upon start up. For medium to large apps, you’re talking about 30 seconds or 20 to 30 seconds on average  for you to see the changes that you just wrote.</span>
+
+<span style="font-weight: 400;">The more you code on iOS, the more used you can get to this delay. But it’s something that really surprise me, how fast an iOS development could be. React Native does the extremely fast development cycles because it’s not recompiling your whole app. Your app is compiled just once and then the changes you make to the JavaScript code are injected into the running app whether it’s on simulator or the device. You hit command R on the simulator or on the device and the app is instantly reloaded, the JavaScript is instantly reread and the app is instantly regenerated. You have to wait probably less than a second or two and you get the same result you’d get if you hit command R in Xcode.</span>
+
+<span style="font-weight: 400;">The React Native team went even further and decided to implement something called the hot reloading. This is something that addresses those development scenarios when you’re working on a particular piece of UI that’s deep down in your navigation stack. Think about a table you sell that’s inside a table that you reach by another table view that you reach by another table view. If you were to modify its UI, whether it’s on the storyboard or whether it’s in a code, whenever you run the app again, you're back at where the app is at start up. You need to literally click on the simulator, drill down in that table view to see if the UI looks the way it’s supposed to.</span>
+
+<span style="font-weight: 400;">If hot reloading or React Native, the STK reloads just the file that you recently edited. It is not reload the set of all files that you’re app discomposed off. You don’t have to navigate from the start of the screen to the cell to see the changes. The cell, deep down in the navigation stack changes before your eyes. That’s something that web developers are used to. That’s something that came as a innovation to me as an iOS developer. Java was my first language and again, you have to compile and learn your own Java code. It took a while.</span>
+
+<span style="font-weight: 400;">Over many programming sessions, you’re talking about hours of development time where you’re just sitting, staring at the screen waiting for the app to compile and run and for you to then drill back to the seed you we’re at. That’s a lot of time that saved, a lot, a lot, a lot of time that saved. Of all the benefits that can afford, one of them is that, it doesn’t kill the buzz. I don’t know if you guys had it, you’re working on an app and you’re at the zone, you have this sweet spot of great concentration and then you have to wait for the whole thing to compile to run unto your device. That breaks the momentum a little bit. That pain point is entirely removed with React Native and I loved that. I really, really loved that.</span>
+
+<span style="font-weight: 400;">One last lovely feature of React Native which is it it’s a cross-platform. I got to make my first Android app, thanks to React Native. All it took was modify the Android great old file, plug in an Android device and it run. It looked exactly the way it looked on my iOS device. The advantages were obvious. You get to reach the millions of users who we’re asking for an Android version. You don’t need to rewrite it all from scratch in Java. Your code will produce the same app on Android. It’s incredibly advantageous.</span>
+
+<span style="font-weight: 400;">Andrew:      </span> <span style="font-weight: 400;">You’ve just gone through all of the things that were really pretty great about using</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">React Native for the project you used it for. But the title of your blog post</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">is Why I’m not a React Native Developer? Let’s get into a little bit of your</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">reasoning there about why is React Native not the perfect solution?</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">To get back to return back into that title again. It’s why me, Ariel, I’m not a</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">React Native developer. There are many reasons for which it didn’t work for me.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">But I do acknowledge that it worked out great for other people. Neither my own</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">personal reasons, I’d like to point that out. There were a set of deal</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">breakers. To briefly go over them, there is at that time, the road maps where</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">the development of React Native was [00:16:50]. The league of these was really</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">not scary. React Native also required you to use JavaScript, which is for me is</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">a problem for a set of reasons. Finally, the fact that you have to deal with</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">many, many dependencies as a result of using JavaScript but you also rely on a</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">hundreds of other people’s code to use the React Native.</span>
+
+<span style="font-weight: 400;">Andrew:      </span> <span style="font-weight: 400;">I think we can spend plenty of time on some of the shortcomings of JavaScript</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">but I think the patent that you talked about is something that probably most</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">people don’t consider it right away. It’s just out of most developers minds</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">anyway most of the time. Let’s talk a little bit about that.</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">Sure. You have a standard [00:18:59]  style license and in addition to that, a lot of other Facebook open source projects, we have a file that’s the additional grant of patent rights version 2.0. It’s a document that’s a bit schizophrenic, that’s multiple personality. It starts by granting you a perpetual worldwide royalty free, non exclusive, irrevocable license to use React Native and then you get the falling clause. “The license granted hereunder will terminate automatically and without notice if you initiate directly or indirectly or take a direct financial interest in any</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">patent assertion against Facebook or any of its subsidiary or corporate</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">affiliates against any party such patents assertions arises in all earning</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">point from any self toward technology product or service of Facebook under that</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">against any party relating to the software.”</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I’ma lawyer and as a lawyer, we should probably clarify this, what this boils down to is that if I, according to [00:20:39] that if I initiate any lawsuit where I</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">accused Facebook of patent infringement against my intellectual property, then</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">my license to use React Native would be immediately terminated as a result. The</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">precise interpretation of this additional grant of patent rights clause is one</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">that’s more for IP lawyers, software IP lawyers rather than for the software</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">engineers. I’m not in the position to provide any qualified advice, but I do</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">know that one lawyer has provided a pretty pessimistic interpretation.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It basically says that if, because the scenario that this could lead to is that, you</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">are a  company with wide variety of products. You develop your own IP and you develop your own apps and you use React Native on your apps. Say you make jetpacks which can be controlled with virtual reality or something. You have an app for it that uses React Native. Facebook could, say, steal your IP for the jetpacks. If you were to get into any kind of litigation against Facebook for IP infringement, the license granted hereunder by the additional grant of patent rights would terminate automatically and without notice.</span>
+
+<span style="font-weight: 400;">Jaim:</span> <span style="font-weight: 400;">That seems a little farfetched but Facebook is a huge company that does tons of</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">things. They’re doing news and analytics. They have their hooks in a lot of</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">different areas. If you’re a large company, this is a real concern. I’ve talked</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">with other companies like [00:23:15] breaker for us because, if you get to a [00:23:19] with Facebook over something and they can shut off your code, that’s a real problem. Maybe if you’re a startup, you’re going to the radar and you have no chance of going after Facebook with any patent stuff regardless of what they</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">do. But if you’re a large company, that risk becomes pretty large.</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">Airbnb uses and contributes to React Native. They’re happy to [00:23:49] and obviously this is because they did not believe that this patent situation imposes any threat to them. Does it propose any concrete threat to anybody? This is really</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">a question for lawyers to decide and I would also like to add that to my</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">knowledge, this is never been taken to court. There have been no precedents</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">where Facebook actually had to invoke this clause. But a lawyer did point out</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">that there was good reason to be worried. Even a generous reading of this additional grant of patent rights does seem to lead the possibility of Facebook to look further [00:25:08] patents and with a lot of breathing room.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The fact that Facebook happens to be a serial IP infringer today reassures me</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">little if it possible for Facebook to become serial IP infringer tomorrow and</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">punish retaliation for my side by revoking my license to use React Native. This</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">is pessimistic but it’s a good idea to think of worst case scenario in computer</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">sciences but we do to evaluate are algorithms. We don’t care if an algorithm</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">does extremely well one percent of the time. We care how badly it can possibly</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">to take the typical linear search algorithm.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Linear search algorithm will perform extremely well if the target value is the first</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">one on the list, they will perform ultimately. But they will perform very</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">poorly if the target value is at the end. It’s possible for the target value to</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">be at the end. If we evaluate our algorithms based on worst possible case, we</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">should evaluate software licenses in the same way.</span>
+
+<span style="font-weight: 400;">Jaim:</span> <span style="font-weight: 400;">That makes a lot of sense. The people at Facebook might be benevolent now but</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">shareholder takeover, someone else is in charge, they suddenly decided so their</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">fiduciary duty they go after people like this. It just happens and this is a</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">lot.</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">Patent trolling is a thing. People make money out of patent trolling other people.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">Facebook is doing very well now with their core businesses. Will this situation</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">be the same 50 years from now? 100 years from now? We don’t really know. I</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">guess the main reason for which I worry about is, it’s not really that I have</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">any particular grudge against Facebook as the company itself because Facebook</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">has kept very silent, too silent about this document. I’m not the first one to</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">raise this issue. You’ll find many GitHub issues and form posts where</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">developers voice their concerns about the additional grants of patent rights in</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">React and then React Native 2.0.</span>
+
+<span style="font-weight: 400;">The only response from Facebook was given from developers.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">No lawyer, to my knowledge no member of Facebook’s legal department spoke out in clarifying matters. We assured everybody as we hold [00:28:37] the case that we have nothing to worry about and there’s nothing sinister about this additional grant patent rights. If there is nothing sinister about the additional grant of patent rights, why wouldn’t Facebook say so? It wouldn’t really custom anything to publish to make a formal statement and say, “Guys, there’s no reason to worry. We will not patent troll anyone in the future. You have the wrong</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">interpretation because of A, B and C or motivations including the additional</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">grant of patent rights such and such.” Why the silence?</span>
+
+<span style="font-weight: 400;">Jaim:</span> <span style="font-weight: 400;">There are undoubtedly an army of lawyers within Facebook saying to that [00:29:20].</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">You can neither confirm nor deny, there will be patent trolls in the future.</span>
+
+<span style="font-weight: 400;">Jaim:</span> <span style="font-weight: 400;">So Ariel, along with the patent stuff, let’s talk about some of the other concerns</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">that you had with React Native.</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">One of them was the fact that at the time I wrote the article, there was no clear</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">long term explicit long term commitment from Facebook for the project. There</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">was no road map of features.</span>
+
+<span style="font-weight: 400;">What were the upcoming features for React Native? What is this thing going to be</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">implemented by the end of this year? Was it ever going to be implemented? Were</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">they aware of this bug? What should developers be on a lookout for? What was of</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">Facebook React Native team going to work on for the foreseeable future for this</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">coming year for the next year, that’s something that a common practice in open</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">source platform makers so you can think about Ubuntu.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Ubuntu has a long term support plans. Ubuntu will publish a desktop and server release every six months and that will come out reliably. If you go to their website, you’ll see that your version of Ubuntu will be supported until 2016 and then you’ll know that any graph shows that your version of Ubuntu will be superseded by a new version until 2019. It is a concrete form of commitment by the Ubuntu makers. It will keep releasing suggestion updates to your platform because this is the crucial bit.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The React Native is not a component of your app. It’s not a networking library. It’s not a JSON parsing library. It’s the entire platform your app is developed on.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">If it were to develop on [00:32:07], if Facebook were to give up React Native</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">for any reason then the community would have to keep developing it. That might</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">not be a situation you would want to be. That has happened in the past before.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">One such example was the Parse platform which Facebook acquired and then killed for some reason and many people, I mean myself included was heavily relying on Parse.</span>
+
+<span style="font-weight: 400;">Jaim:</span> <span style="font-weight: 400;">Parse is a platform that made money [00:32:50] charge for their services for React</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">Native is probably that driving revenue for Facebook.</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">Yeah, there is that. Even if Parse lets you have a local database and a remote</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">database for you to store data from your app, if that [00:33:17] called from</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">other that and you have to switch to something else, it wouldn’t be at the</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">complete end of the world. It still a component, it’s not the entire underlying</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">software development platform. Your app is entirely dependent on React Native.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">It’s not just [00:33:37], it’s the own platform. Will the community ensure that</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">the project survives? Maybe? Maybe not?</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I was not particularly satisfied with the Parse open source service. It worked</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">great for very basic functionality at the time we adopted it which was a couple</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">of months after the Parse server went open source. But in projection</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">environment, that’s not a satisfactory. [00:34:26] has improved the situation on</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">that respect a month ago, the React Native wiki on GitHub now has a roadmap</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">which, I quote, outline some of the upcoming plans for React Native. It’s a</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">great step forward and I guess it’s very important to know when the change is</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">to the core library to the, will there be breaking changes in the future?</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">That’s great information. We haven’t heard anybody from Facebook say, “Guys, we will maintain React Native for lifetime of your app.” That’s an important concern.</span>
+
+<span style="font-weight: 400;">Jaim:            </span> <span style="font-weight: 400;">I agree. If you’re investing tons of money at your app, if you’re hiring team of</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">developers, five, ten developers, you could have millions of dollars invested</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">in your app and also the platform that you’ve been working on disappears.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">That’s a big source of risk for companies. It’s something you can’t just really</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">discard. You have to take it on. I don’t think it’s the end of the world for a</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">lot of companies to think something will come up. That’s okay but you should be</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">aware of the risk.</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">Another thing is that, neither Apple nor Google have offered to coordinate [00:36:05] with Facebook nor did they consider React Native as a first class citizen on their ecosystems. Facebook isn’t counting, to my knowledge, with any formal support or coordination from the makers of the platforms that React Native is targeting which is a bit ironic when your aim is to reduce silos. It takes 15 minutes to drive from the Facebook headquarters to the Google headquarters and another 15 minutes to drive from Apple headquarters.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">If Mark really cared about coming costs on mobile development, then he would take Larry and Tim out to lunch one day and ask them to support whether in tech or in spirit his cross platform mobile development efforts. But to this day</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">neither Larry nor Tim have pronounced one word in favor of React Native. In</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">fact, Tim pushes for improving Apple’s software development platform to make it</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">a superior to any alternatives. Larry is pouring money into competing cross</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">platform development framework, mainly Flutter which allows to write cross</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">platform iOS and Android apps in doc.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">This speculation admittedly but the problem is that there is too much room for speculation if you trust Facebook. If you trust having no promises from Facebook then if you trust Facebook enough to not have any promises from them to keep maintaining your software development project then that won’t be a problem. If you don’t, then that will be a problem. But I don’t want to have to trust, I just want to form a commitment.</span>
+
+<span style="font-weight: 400;">Jaim:</span> <span style="font-weight: 400;">That’s good. We’re running a little bit low on a time. Anything else you want to tell</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">us about before we get to the picks?</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">There’s one thing I would like to point out, that is I don’t wish in any way, it is not</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">my intention in any way to demonize React Native or Facebook. I believe that</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">the Facebook and React Native team made an incredibly strong and fantastic</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">effort to make a great cross platform development framework. They have</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">obstructed the sense of essential UI Kit components, they ported CSS [00:39:22].</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">They wrote and assembled development tools needed for you to endlessly see</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">JavaScript files come to life as an app on an iOS simulator or device and an</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">Android too.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">They’ve done an amazing effort. It’s just that I believe that there was none in the</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">right direction. At the same time, one of the reasons that I wrote the article</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">is because I saw that there was a lack of critical evaluations of React Native.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">There’s a general lack of critical evaluation to new platforms and frameworks.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">A typical blog post you see lacks lyrical about how great a platform is and how</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">great a library is.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It’s of course, it’s extremely important for us to point out the strong points of</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">libraries but these articles should be more balanced. This is part of a trend</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">which I guess we’ve all noticed which is critical [00:40:42] not being nice.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">You should be. Therefore, you should not be critic. I think there are ways to</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">be nice and critical at the same time. I think we should not confuse the two.</span>
+
+<span style="font-weight: 400;">Jaim:</span> <span style="font-weight: 400;">That makes a lot of sense, I think. It’s important to have a culture where you can</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">say that things aren’t perfect and there’s always tradeoffs. If you’ve been</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">doing this long enough, if you realize there are tradeoffs with any approach</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">you take, it’s going to work in some cases and not in some cases. Let’s get to</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">the picks. Ariel, what do you have for us?</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">I have three picks. One is directly relevant to what we’re just talking about is</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">one of the world’s greatest essays written by Paul Graham which is How to</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">Disagree. He explains how to disagree, what’s hard to distinguish good quality</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">disagreement from bad quality disagreements. That’s one of the foundational</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">guidelines of the Wikipedia community for instance. He basically makes a</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">beautiful [00:42:06] case for disagreeing critically and [00:42:14] passion</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">force but also constructively.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The second one is a bullet list of what real programmers are. It’s a funny list of</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">definitions of what real programmers are. One of them for instance is real</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">programmers never work nine to five. If any real programmers are around at nine</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">am, it’s because they were up whole night. Another one, to poke fun at myself</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">and my criticism to JavaScript is, real programmers never program [00:42:57] no</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">objects.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Another one of my picks is a comic chainsawsuit which I love. In this particular comic is a criticism on how people tend to do a lot of research nowadays. Maybe I’m also deserving of that criticism.</span>
+
+<span style="font-weight: 400;">Jaim:</span> <span style="font-weight: 400;">Awesome. I’m looking forward to checking those out. Thank you so much for coming on the show, Ariel. It’s been a good [00:43:30] of you of some of the downsides of React Native. As you mentioned it’s a great tool but it might not be for everyone. Thanks for sharing your experience.</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">My pleasure. Thank you again for having me on the show and one last thing, let’s</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">not confuse criticism with contempt. I do not have contempt for React Native. I</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">just want to offer some criticism to make the discussion more balanced. That’s</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">it.</span>
+
+<span style="font-weight: 400;">Andrew:      </span> <span style="font-weight: 400;">I think that’s good. Thanks, Ariel.</span>
+
+<span style="font-weight: 400;">Ariel:           </span> <span style="font-weight: 400;">My pleasure. Thank you guys. It was great talking to you.</span>
+
+&nbsp;

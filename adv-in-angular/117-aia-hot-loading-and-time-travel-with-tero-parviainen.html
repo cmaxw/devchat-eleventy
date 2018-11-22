@@ -1,0 +1,365 @@
+---
+layout: layouts/post.njk
+title: >
+      117 AiA Hot Loading and Time Travel with Tero Parviainen
+date: 2016-11-03 06:00:08
+episode_number: 117
+duration: 50:38
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA117_Hot_Loading_and_Time_Travel_with_Tero_Parviainen.mp3
+tags: adv-in-angular
+---
+
+<span style="font-weight: 400;">2:40 - Introducing Tero Parviainen</span>
+<ul>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">NgConf Presentation: </span><a href="https://www.youtube.com/watch?v=vsl5O4ps7LE"><span style="font-weight: 400;">“Generative Art in Angular 2”</span></a></li>
+ 	<li style="font-weight: 400;"><a href="https://teropa.info/"><span style="font-weight: 400;">Website</span></a></li>
+ 	<li style="font-weight: 400;"><a href="https://github.com/teropa"><span style="font-weight: 400;">Github</span></a></li>
+</ul>
+</ul>
+&nbsp;
+<ul>
+ 	<li style="font-weight: 400;"><i><a href="https://teropa.info/build-your-own-angular/"><span style="font-weight: 400;">Build Your Own AngularJS </span></a><span style="font-weight: 400;">ebook</span></i></li>
+</ul>
+&nbsp;
+
+<span style="font-weight: 400;">4:10 - Hot Loading</span>
+<ul>
+ 	<li style="font-weight: 400;"><a href="https://teropa.info/blog/2016/08/08/angular-2-hot-loading-with-ngrx-store-and-webpack.html"><span style="font-weight: 400;">“Angular 2 Hot Loading with @ngrx/store and Webpack” article by Tero</span></a></li>
+</ul>
+<span style="font-weight: 400;">5:45 - Using @ngrx/store</span>
+
+<span style="font-weight: 400;">8:25 - How is Time Travel possible with reloading?</span>
+
+<span style="font-weight: 400;">13:40 - Playback</span>
+
+<span style="font-weight: 400;">17:10 - Backends and Side Effects</span>
+
+<span style="font-weight: 400;">21:05 - Overloading and discarding of your old application</span>
+
+<span style="font-weight: 400;">24:40 - Pressing F5 versus Time Travel</span>
+
+<span style="font-weight: 400;">26:40 - Using Breeze.js</span>
+
+<span style="font-weight: 400;">27:35 - Workflow setup</span>
+
+<span style="font-weight: 400;">29:50 - Tero Parviainen and Music</span>
+<ul>
+ 	<li style="font-weight: 400;"><a href="https://github.com/teropa/in-c"><span style="font-weight: 400;">In-C on Github</span></a></li>
+</ul>
+<span style="font-weight: 400;">34:55 - Using the process with NgRX and Redux</span>
+
+<span style="font-weight: 400;">37:20 - Learning code languages and assembling your toolkit</span>
+
+<b>Picks:</b>
+
+<a href="https://www.youtube.com/watch?v=6v_S3VkxbD0"><span style="font-weight: 400;">Carmen Popoviciu’s talk “Neural Networks and Machine Learning: Building Intelligent Angular Applications</span></a><span style="font-weight: 400;"> (Lukas)</span>
+
+<a href="https://ultimateangular.com/hello-rxjs"><span style="font-weight: 400;">RxJS free course</span></a><span style="font-weight: 400;"> (Lukas) </span>
+
+<a href="https://github.com/code4craft/hello-design-pattern"><span style="font-weight: 400;">Hello World using every design pattern </span></a><span style="font-weight: 400;">(Ward)</span>
+
+<a href="https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234"><i><span style="font-weight: 400;">The 12 Week Year</span></i></a><span style="font-weight: 400;"> (Charles)</span>
+
+<a href="https://devchat.tv/conferences/js-remote-conf-2017"><span style="font-weight: 400;">JS Remote Conf 2017</span></a><span style="font-weight: 400;"> (Charles)</span>
+
+<a href="https://devchat.tv/angular-remote-conf-2016"><span style="font-weight: 400;">Angular Remote Conf videos</span></a><span style="font-weight: 400;"> (Charles)</span>
+
+<a href="http://xgrommx.github.io/rx-book/content/which_operator_do_i_use/index.html"><span style="font-weight: 400;">RxJS Operator Selector</span></a><span style="font-weight: 400;"> (Tero)</span>
+
+<a href="https://www.youtube.com/watch?v=PUv66718DII"><span style="font-weight: 400;">Bret Victor “Inventing on Principle”</span></a><span style="font-weight: 400;"> (Tero)</span><span style="font-weight: 400;">
+</span><a href="https://ultimateangular.com/"><span style="font-weight: 400;">Ultimate Angular course platform</span></a><span style="font-weight: 400;"> (Lukas)</span>
+
+<h3>Transcript</h3>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Hey everybody and welcome to Episode 117 of the Adventures in Angular Show. This week on our panel we have Lukas Ruebbelke.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">Yow.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">John Papa, Ward Bell.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">I am here, present and accounted for.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I’m Charles Max Wood from Devchat.tv. We have a special guest this week, it’s Tero Parviainen.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Thank you.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">You want to introduce yourself?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Sure. I’m Tero, I’m a programmer in Helsinki, Finland. I work as an independent contractor these days mostly doing front end development, various companies, and then I do a lot of writing around the things I do. I recently wrote a book about Angular called Build Your Own AngularJS, I’ve written a lot of articles and things like that. Lately, my main interest has been combining programming and music. I’ve been trying to do things with web development and music creation at the same time.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Very cool. It was your talk at NG Conf that was the music, touching the screen, and all that stuff.</span>
+
+<span style="font-weight: 400;">Tero;</span> <span style="font-weight: 400;">Yeah. I did one of those in NG Conf.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">That’s a must see moment, I have to say. Oh, this just sounds terrible but I was almost in tears. I’m always reaching for the cry and tell, anyway. Everybody knows me as a weeper.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">It’s so beautiful, Tero, stop.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Yeah, I was almost because I have no idea what I was doing there and thought it was gonna work. It seemed to work out at the end.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">The stuff like that that reminds us that programming should be fun.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Yeah, that’s very much what was I going for. You can have fun and you can also learn things while you’re having fun and that’s a nice way to pick up new technologies to do something fun with them.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Absolutely. I read this article that you wrote, it looks like it came out about two months ago as we record this, about Angular 2.0 hot loading with ngrx/store and webpack. I thought it was really interesting because we have the Angular CLI now, you make a change to your typescript and it will reload the page but when it reloads the page, it reloads the page and so all of your state is gone and everything like that. This looks like it was a little bit more forgiving and a little bit more interesting way of doing things so that when you reload, you keep your state and you have your app pick up where it left off.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Yeah, that’s exactly right. That’s essentially what hot loading means. Being able to change your code while retaining the state you are in in your application, not destroying whatever you had done before that which is what usually happens when the page is reloaded or even when something like one of these lab reload, things like browser sync reloads the app, you usually need to start from the initial state of the application then the code changes.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I’m a little curious and we’ve talked about ngrx/store and you also said that you can use Redux if you can plug it in. Why do you need each piece of this? Let’s start with the ngrx/store. Why is that critical to being able to maintain state when it reloads the page?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">First of all, I don’t think there’s anything fundamental in hot loading that requires Redux or ngrx/store. Those happen to provide the way we can do it right now with the tooling that we have. They key idea there is that with something like ngrx/store or Redux, you have your state separated from the rest of your application. You have this one data structure somewhere inside the store which holds all the information there is to know about what’s going on in your application.</span>
+
+<span style="font-weight: 400;">The rest of your code is essentially stateless. You have components that don’t have anything interesting inside the must state except the stuff that get in from the store or that they get in as inputs. That means that when a hot code change situation happens, you can use the webpack hot module replacement tool to react to that and all you need to do is grab the state from inside your Redux store, ngrx/store at that moment and then you let the application actually fully reload. The Angular application gets destroyed, another one gets initialized, but then you can plug your old state back into the new application.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">What happens immediately after that is the same UI is rendered because the UI is fully derived from the application’s state. That means there doesn’t to actually be any support for hot loading in the framework itself if you can follow this architectural pattern. That’s why I’m able to do that today as we speak in the application I’m building even though there isn’t really any official support for hot loading in Angular at the moment.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I just wanna ask one more clarifying question, I’ll let some of the other guys chime in. Basically, this is doing a hot module replacement as what you said, it’s not reloading the page and wiping out my state, it’s actually building a new Angular app and then loading the state into the app from my Redux store, ngrx/store.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Exactly. We’re using webpack to unhook into the event that occurs when the code changes. That gives a callback function and in that callback we ground the state from the application that’s about to get destroyed, then we let it get destroyed, we let the new one load up and then as it loads up we put the state back in there.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">One of the reasons why I really like Redux is because you have referential transparency in your users. Meaning, there’s no hidden state that if you put something in, like a object, you’re going to get a value out. If you put that same object in, you’re always going to get that same value which I think that’s really what makes time travel possible is that because the application, what you see is actually separate from the state. You can just basically pull a state out and then you put it back in, it’s going to re render the same way every single time. But I’d love to get your take on how time travel is even possible with reloading and how Redux enables that with referential transparency.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">I was actually just listening to your episode on Redux earlier today. It was a really interesting discussion. There’s something you didn’t really talk about there which is what they called developer tooling thing. I think it’s a really important part of the whole Redux thing because that was essentially the reason why Redux was invented and everyone was looking for ways to get this developer experience of being able to do hot loading and time travel. That’s how we ended up in Redux, that’s kinds of where it comes from.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Time travel then, it’s slightly different I would say from the hot loading thing which is that, but related to this also. Time travel means that you are able to essentially move back and forward in history in your application state. You can kind of step back using some developer tools that are available to some state your application was in let’s say five minutes ago and then you can combine it with the hot loading to make some code changes and then play back your actions from before and you get some kind of this alternative present where the code has changed in between but you don’t have to do those steps manually, again.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The referential transparency comes in there. You can rely on the fact that reducer will always pretend the same new state when you give it to same old state and the actions. You can actually have these actions in memory that you can replay. You can rely on it to kind of get to the same point when you do that, or you can change that history and change those actions and get to a different state. There is nothing going on that isn’t either an input or an output of reducer.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Just to clarify on this point, because the whole idea of time travel or loading state from the current app into an updated app, my brain, especially with some of the other JavaScript and Ruby apps that I’ve built, that would get you into some funky states. What you’re telling me is that because everything derives off of the state in the ngrx/store, I can’t get into a weird state that’s impossible to reach any other way.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">You certainly can. I don’t mean to say that you can’t do that because you can easily get to combinations that you otherwise can’t. What I am saying is that that’ll be always something you can actually look at and see the steps on how you got there. There’s nothing hidden anywhere else except in the data structures you can actually see from your developer tools. But sure, because you can get kind of state combinations by filling with the developer tools which your UI actually doesn’t make possible, you can always get to a weird situation and these are very much I think power tools. You have to kind of be comfortable with the technology you’re working with to be able to use them because of these things that might happen.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I wouldn’t necessarily recommend something like this to be used by someone who’s just learning Angular because you kinda have to know how data flows in Angular first before you can kinda start to mess with that too much.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">It’s also important that there aren’t any side effects in your business, sort of in the domain of what you’re talking about. For example, you’re not charging a credit card as you go and things like that.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Yeah, very much. One of the key constraints with this is that your reducers need to be pure functions. They need to just get information and return information and do nothing. This does get tricky when you are working with an application that does talk to a server, for example, because then all bets are all freely if you have side effects.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Then, you have to have the sort of development server that can not charge anyone’s credit card because this doesn’t extend to whole systems like accounting for the server as well or that’s actually very rare, I’ve never heard anyone doing that.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Step back a second and give us the problem domain in which playback with alternative outcomes is a requirement of your system.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">For example if I’m working on some list of information where I can add, hide, and remove items and edit items, I might do all those steps manually in my application once you add a couple of items and make some edits. But then if I’m not happy with how that code is working out, I can actually go and change my code, have it reloaded into the page, and then replay all those past actions of adding the items, editing the items from before without having to manually do that again. And then I can see how those actions apply to my new version of my application. That’s essentially automation that I’m doing there, I’m kind of bypassing the need to manually repeat the steps all over again.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">There are kind of many ways you can use these tools because you have the whole freedom to say skip action scene in the past. One other use case would be to see how the application would behave if I had skipped adding some particular item in the lists five minutes ago, for example, but everything else would be the same. I can quickly test different scenarios in what happened in my application without having to always do that manually using the UI itself.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Some additional like use cases for that is, even like one like automated testing or like Q&amp;A. Basically, I’ll even run a series of actions like a test sweep frequently and test that. As well as even like remote debugging where somebody like if you’re throwing the bug in your application by kind of preserving that action stack if you will, then you basically pick that up and then basically replay the actions that the user took and get themselves into that erroneous state. One being able to replay actions and automate that, but as well as recreate specific actions that essentially fill in air caused a problem in your UI is that’s really, really helpful if you’re able to travel back in time and replay those things in terms of automating or testing.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Yeah, it definitely is. If you have a system set up where your automated exception reporting includes for example the actions that the user took when they got that error, you can reproduce that problem exactly on your local developing environment. You don’t have to rely on the user’s description of the problem necessarily because you have everything that you need to reproduce that.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Even without thinking about it, even like a complex multistep form. Let’s say you have five steps in the form and you’re on step four, you realize like, “Oh, I need to go back and change something on step two.” You can actually back up, make a change, and then step back forward and still kinda maintain that state. Anytime I think you’re doing data changes over time using time travel and having that separation allows you to just move in or see things like going back in time, I need to change one thing that I needed to go back forward in time to preserve all the existing state.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Yup.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">One thing that I’m wondering about because you mentioned back ends and side effects. I was gonna say most but I really mean all of the Angular apps that I’m writing have a back end and are gonna have the side effect of writing to the back end and talking to the back end. Is this strictly for testing and debugging front end with front end state or is it something that I can run with the back end hooked up? Generally, if my app stays in sync between the store and the back end, I’m okay.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">It depends on the situation a bit. It is definitely harder when you have a live UI that’s actually talking to a real backend because you have these side effects going on. If they’re not quite important in your system, they might fail the next time you try them. This does only apply to things that you can either repeat safely which many operations are, let’s say updates or things like that. But it’s not always the case.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">You either need to kind of have, if you want to use this during normal development and not just testing, you need to write something for that to essentially isolate your frontend from your backend in that sense.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">As Tero says, unless everything you’re doing in the back end is either important, this is not gonna work. If it is, if your whole system is designed that way, then that’s a different story. But I wouldn’t do this with book orders or any of the classic problems.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">It definitely works better for some apps than others. What I’ve been lately doing is say a kind of music creation app and that’s purely a front end app. It’s kind of different and that it’s not a business application that talks to a data base. This stuff is just really breezy because I can just do things in the browser without worrying about the rest of the world. It is really easy to do.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">It’s great for all kinds of what if scenarios which might actually have also business implications as well. For example, if you wanted to load a series of trades and see what would happen to those trades in the phase of other pricing information that you might have, you can sort of replay what if scenarios, what might happen to my investments over time if I went left versus I went right, that kind of thing.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">There’s plenty of places where what Tero is talking about are applicable outside of the realm of musical creation, not nearly as important as musical creation but they are there.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">That is very true. Basic data entry application, that is a lot less helpful than this stuff because it is usually so tightly integrated with some backend that usually isn’t constructed in a way that makes it safe to do this.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Time travel is one thing but hot loading is much more widely applicable. The fact that you can just change your code and have it applied to your application while it’s running, that doesn’t have any of this limitations that time travel has. Hot loading is really the part that I use much more than the time travels stuff. Hot loading is something I do all the time whereas the time travel and the messing with the history is something I do maybe a couple times a week or something. It’s much less frequent.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I guess that makes sense because you load your current application in over the top of the current state, then it doesn’t matter how you got there. Your application pretty much just does its thing.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Exactly, yeah.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">What’s the unit of which you were overloading and how do you get rid of the old one on the fly?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">I didn’t quite follow that part.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">You mean the old application?</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Yes. We got an Angular app, it’s all composed of modules and blah blah. There’s something that triggers the client, let’s say, “Oh, I hear there’s a new module in town. How do I get rid of the old one and bring the new one in? How do I even clobber the old one?</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Bibiti bobiti boo.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Yeah, that’s pretty much the short answer, but I can give you the long one. It all begins with the webpack. Webpack tells you that it’s been a code of change and then you can stick a little back to webpack. Okay, I can handle this so you can say, “I accept this hot load and I’ll take care of the rest.” What you do then is you have a reference in your say name entry point flood in your Angular application to your NG module ref object. That’s the thing that we, since RC6 or whatever, is what we bootstrap. It has a method on it called Destroy which destroys the whole application. All the services and all the components in it, pulls it out of the page, and that basically cleans up the old application as long as you don’t have your own code in there.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">It’s not granular at the level of intervision module, you’re whacking the whole application.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Exactly. That’s why with the current tooling, we have to do this with something like Redux because we can’t do it on individual components or anything else like that. I am always restarting the whole application, but from the fact that all the state is in the store, I keep that and it follows that I don’t really noticed that because for the new application, the same state results in the same UI state on the screen. It is a bit flexible. It’s not really hot loading, it’s just effectively hot loading. It looks like hot loading.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">It’s a little like I jumped out of the car I’m driving and jumping into a brand new carn, not like I don’t take off the front wheel and put a new wheel.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">The good thing about that is that it works right now, it works pretty well and the bad part is that it’s not that fast, it takes some time for webpack and typescript to kind of bundle up the new application and then for it to kind of load in the browser. The feedback loops aren’t as fast as they could be. I hope that tooling here can improve because I don’t see any reason for why we couldn’t have things like component level reloading because that’s something they have in React already, for example.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">There are tools that wrap your individual UI components and can’t handle the webpack module replacement on that level by essentially replacing that component object instance on the fly end sticking the whole state back into that. That probably is possible to do and it would be a lot faster and work even if you don’t use something like Redux necessarily. But it’s not something that exists today. It’s something that needs to be done by someone and I hope maybe some listener would pick up on that.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">How is this different from just pressing F5 on the browser or having it reload for me?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">The difference is that if you have done some actions on the applications, clicked on some buttons maybe, maybe entered some data into some forms which is state inside variables inside the application. In this case essentially, state changes in your Redux store. You don’t lose that in this case. What you do when you just refresh the page. If you’re working on some part of the application that requires five clicks on something to get to, you don’t have to do that every time because you’re already in that part of the application with that state as you were in earlier. That ends up kind of being a big deal when you have to try a hundred different things to get it right.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">I missed the part at which you were somehow taking the state that you’ve accumulated the events that lead to the state of the Redux state and scroll it away somewhere. Did you scroll it away somewhere?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Webpack, with its hot module replacement, has this kind of magical store or this kind of object in which you can tuck things and then you can get them back on the next version of the application. You have a place to put them.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">You serialize the store state somewhere then do the swap then play it back and then we’re back in business. Is that how that works?</span>
+
+<span style="font-weight: 400;">Tero:</span> <span style="font-weight: 400;">Exactly. There’s no serialization going on in the system live object because it’s an immutable JavaScript data structure that’s in the store. We can just keep that there as a value and just use the same one because we’re not having to put it on a disc somewhere or anything like that, it’s just a live object. That’s what makes it so easy with Redux. There’s just this one thing, this essentially one variable inside the store that we need to keep.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">We can do some breeze by the way, just saying.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">It sounded like it works in a similar enough way to yeah, you could.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">That’s only persistent state. Let me be clear. Breeze is for persisted state. It’s not for entire application state. One of the things that Tero is talking about, and part of the Redux paradigm is everything, whether it’s application state or persistence state is at least theoretically maintainable in the store and therefore can be restored. That includes whatever I was looking at last, all kinds of things about the application that aren’t normally tucked away in the database and passed around to some other user.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Tell me what your workflow looks like when you’re working on an application running this kind of a set up.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">What I usually do is when I hold the application I’m working on right now is this kind of generative music application that makes music in the browser. I fire it up using the webpack development server and then I essentially start coding. I’m usually working on either, well I might be working on how the actual logic of the application works or how the visualization around it works or what it actually sounds like.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The short way to express it is I have no idea what I’m doing most of the time so I try a hundred different things to find one good idea. That’s what you usually do when you’re working with visuals or music or stuff like that. What I do is I try one thing then I let that kind of change get picked up by my set up with the webpack hot loading and then I see what happens with that.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">The reason the hot loading stuff is important here is that I might be 15 minutes into some piece of music that the application is generating and if I would have to kind of start from the beginning each time that just not work. I can just do things in place in the context that I am in at any given time. What I do is I try whether making this or that sound louder works or quieter or changing the colors somewhere. All this kind of little things, I test them in rapid successions so that I can find the stuff that I actually like.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">What I’m doing with this kind of hot loading stuff is really pronounced because you really need to test things before you know what works and what doesn’t. But to some extent, I think that also applies to any application development because you have to be able to try whether this form layout or that form layout is better. You kind of have all these ideas that most of the time you don’t know if they’re good or not. But if they’re cheap to test, you can test more of them and even spend more time finding the ones that actually work.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">What’s the bigger music contest here? We’re talking about it for like music. How does this fit into your bigger picture? I’m dying to know.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">I’m actually currently preparing for a conference talk. I’m doing it at NG Europe next week which is about this. What I’m doing is I am taking this piece of 1960’s minimalist classical music by Terry Riley called In C and making it run in the browser because it has in that piece of music in that score embedded into it a kind of generative system where it can generate a different score every time it’s played and every time an orchestra plays it, it comes out with a different piece of music. What I’m trying to do is explore that idea by generating music based on that score inside the web browser.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">While doing that, figuring out what the whole idea in that score isn’t and learning a lot about how to make noises in browsers and things like that. I’m essentially playing with things and with Angular and with RxJS and with web audio.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">You’re sometimes acting as the composer by adding new programmatic elements?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">More like an arranger. I choose the instruments that are played and so on. But the score itself is the original one really. What makes it interesting is that the score works in a way that it’s different for each performance because players have a freedom to choose how fast they go through the piece. You get different layers of different instruments every time it’s played and it’s this kind of whole landscape of music really. You take a different path through it every time. That’s just something that’s really interesting to me. As a programmer, software is the way I try to explore these things.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It’s really an extension of what I was doing with my NG Conf Software. I’m just playing and learning these technologies by using these kinds of projects as the medium for that.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">You had visualizations to go with this, I assume. Set things are appearing and disappearing as you’re playing. You must be using a lot of the RxJS library as part of this game, using observables to drive this, are you seeing this as a series of events that you’re managing through the course of it?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Exactly. Of course music is something that takes place over time. For that, RxJS is perfect because it’s about modeling things that happen over time. What I’m doing is I have one observable that generates this sort of rhythm events at a steady interval and then those are generating actions that I then dispatch into my Redux or ngrx/store and the reducer in there then decides what music should be played based on this. It’s very much kind of using both RxJS and the ngrx stuff to make this whole thing work.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">I’m using the ngrx effects library as well to actually produce some of the side effect. There’s actually an ngrx effect observable that is reacting to these actions and actually plays the music using web audio. I’m combining a lot of these things around this ngrx family of technologies to do this thing.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Where are the code demos?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">This is all on GitHub, actually. It’s a repository called In-C on my profile. It’s an Angular app, you can just clone and run it.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Did you just say N-sync?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">No, I did not say N-sync.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Tero is starting a boy band.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">That’s my next project.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">He’s got such a baby face..</span>
+
+<span style="font-weight: 400;">Luke:           </span> <span style="font-weight: 400;">You work just to have, going to have to put the link in the show notes. In fact, I didn’t understand hardly anything you said to be honest. You lost me at like layers of orchestral music from minimalist 60s, like hippie.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">I’m thinking Philip Glass, man.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">It’s very much from the same world. This minimalist from the 60s Philip Glass, Steve Reich and Terry Riley.</span>
+
+<span style="font-weight: 400;">Luke:           </span> <span style="font-weight: 400;">Ward, did you slow dance at prom to this stuff?</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Absolutely. Nothing sets the mood like Einstein on the beach. That is such seductive music.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I am wondering, you’ve mentioned webpack and Angular webpack and how you hook all this stuff in. Is this just on top of what you get out of the Angular CLI or do you usually build this up some other way?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">I haven’t actually used the CLI much, I’m not using it for this project. I started it before the CLI switched to webpack in the summer. That’s why I’m not using it here. But as I understand it, you still have your webpack configuration in there and you can change it. You can plug in this hot loading if you want to, also with CLI projects.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">That will be possible in the future. The initial versions of the CLI will be somewhat inflexible in terms of the ability to configure the webpack thing. But it is shortly thereafter that that’ll be opened up because it’s important. People wanna be able to configure their own webpack.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Yeah, Ward goes on, vacation comes back, what are we talking about? jQuery?</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">You know I was gonna say jQuery and I knew there was something wrong with that.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">JQuery and N-sync.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">There we go. The other questions I have is with Redux, you’ve mentioned Redux instead of ngrx, is there a way to pull that in instead of ngrx and make this still hot load the same way?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Yes, I believe. I haven’t used Redux with Angular 2.0 yet because I’ve been using ngrx but those two are, in this sense, at least so close to each other that I don’t see how you couldn’t do it because they essentially both implement the exact same pattern and you can get the state out of both of them, you can plug it into both of them, all the pieces out there. Anyone who’s using Redux should be able to do the same thing just as easily.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">Did you have to become an observable guru to pull this off? Did you have to learn all 60 operators or were you able to find the set that are helpful to you as you’re trying to manage these event streams? Of course the following question is what is that set? What must an Angular 2.0 developer master in order to be able to cope with the kinds of stranger dealing with?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">That’s an interesting question. I actually did not have to use a whole lot from RxJS to be able to do this. There’s maybe a handful of operators like 110 at least that I’m using. Most of them are things that are not the most esoteric ones, select from ngrx and filter and things like that. That’s because actually with something like this, with ngrx, most of your application logic or the kind of complex business logic or in this case, the music generation logic that you have is gonna be actually in your reducer. In that level, there’s no observables involved. Those are just pure functions that take in data and return data and they’re synchronous and there’s nothing you have to do with observables there. That’s where you actually make all the kind of difficult decisions about what the application actually does.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">RxJS is just used for the plumbing of getting then the state from the store to the UI and getting it from the store to the audio player and kind of on those stages. But for most of the logic, RxJS and observables don’t actually come into the picture at all.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">That’s kind of consistent with Ben Lesh telling us about that although it’s a rich tool kit, most everybody can get where they need to get with a set of about, as you say, about ten operators. Even when somebody wants to do something as interesting as what you’re striving for, it’s within our reach.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Yeah. Though I did actually begin doing this as I try to kind of model the whole things as an observable in a stream. But then at some point, I just thought at thinking, “Why am I doing this? It’s way too difficult.” I was in deep in the RxJS documentation all the time and trying to figure out whether it’s a flat map or a flat map latest or whatever that I need in this particular case. But then I realized I don’t actually need to do all that stuff because most of these decisions I’m making could be made as pure functions with pure data.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">It’s only at the edges that I need RxJS and this actually, again, it’s is pretty much consistent with, I later heard Ben Lesh say, I don’t know if it was Angular connect or one of these conferences lately where he said that, “You don’t actually need to use RxJS for everything, you just need it for the acing stuff and the rest is perfectly fine to not use it.”</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">That was exactly what he said as he was updating his thing form the earlier which had been the theme had been RxJS whole things and now it’s sort of like no, no, no.</span>
+
+<span style="font-weight: 400;">Luke:           </span> <span style="font-weight: 400;">[0:43:03.5], he said, he made a tweet where he said like, “Look, you don’t have to use observables for all the things. There’s a place for it.” He certainly does not. I think you know definitely, it’s important to make that clear distinction between this is a good fit and this is not a good use case. I talked about this in Angular connect is, I think really what people run into is they look at the 10,000 RxJS operators and they just get like super overwhelmed.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">When I started I’m in the docs, I’m like, “I don’t even know where to start.” I’m so confused. When you set aside those operators and you actually really focus on understanding the shape of the stream itself that like the observable, the basic observable shape or the sequence of you have your initial output which is like some event and your final input which is essentially your subscribe block and then you realize, “Okay, this is actually the nature of the stream, the shape of the stream.” From there, you can just put in the basic operators that you need which I think are really, like everyone has said, ten of kind of main operators that you just use a lot like I think map is one of the most fundamental ones but then scan to preserve state within the stream.</span>
+
+<span style="font-weight: 400;">                    </span> <span style="font-weight: 400;">Switch map if you essentially switch one stream to another. Merge if you need to combine streams. Filter is a good one. Those are kinda like the five, six that I just use a lot. I think of people just they don’t understand the actual shape and the nature of the stream and then they get confused in the operators.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Yeah, I very much agree. This was actually gonna be my pick but I’m gonna just say it now that on the RxJS website, they have this perfect tool for dealing with this issue when you start by thinking of your problems as Lukas just explained by thinking of what do I have right now and what do I need to have. It has this kind of choose your own adventure and selector for step by step taking you to the place, it actually tells you what operator you need. It says, “I have one observable and I need another kind of observable.” You can very easily find the operator that way. I use it all the time because that’s the only way I know how to figure out what operators I need.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">I think there’s a missed opportunity here. I don’t how many remember the gang of four design patterns book which is something that swept through. Somebody brilliant wrote a Hello, World that used every single pattern in the book. I think it’s time, it’s time for somebody to write the Hello, World used this absolutely every single operator. Lukas, I think you’re the man to do it.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">I’m thinking how that would work. I’m especially thinking how would I do that with the iterator and the observable pattern because that is basically the observable.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">That’s your challenge, buddy.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">Alright. We’ll see what I can come up with. Tero, I need to talk to you after this episode.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Yeah, let’s collaborate on this.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Your mission should you choose to accept it?</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">I think it’ll be a stitch. I think that would get my Programmer of the Year award.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Long time I had a plan to use web page which uses all the popular frameworks on the same page.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">You’re including new tools in that, right?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Of course. </span>
+
+<span style="font-weight: 400;">Ward:</span> <span style="font-weight: 400;">That’s the only possible answer to which framework should I use. All of them.</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">All of them, yes.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">Including flex and Silverlight and everything.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright. Well, this has been really fun. But let’s get to some picks. Lukas, do you want to start us out with picks?</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">Sure. I have a one pick and one plug. My pick this week is I was watching Carmen’s talk at Angular Connect on Machine Learning and Neural Networks. It was phenomenal. I can only imagine how much work she put into that presentation. She did just a phenomenal job. It really sparked my interest on Neural Networks and Machine Learning. She gets 1000 high fives from me for just putting on just a phenomenal talk.</span>
+
+<span style="font-weight: 400;">A little bit of a plug. As of today when this is being recorded, I just actually released a free RxJS course on Ultimate Angular, it’s an expansion of my talk that I gave at Angular Connect but it’s a screencast and there’s some exercises that you can walk through for observables. It’s totally free. I’ll put the link in the show notes. Feel free to go in and check it out. I’d love to hear what you think about it.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">I’m going to chime in with a couple of picks. I’m pretty sure I picked this last week but anyway I’ve just really been into this book, I’m going to mention it again and just talk through some of the stuff  that’s going on. It’s called The 12 Week Year and it’s basically a book that gets you to focus and buckle down and make some plans, focus around 12 weeks instead of a year. Part of the premise of the book is that a lot of people plan for a years, they do annualize planning and the problem is a year out is a lot of times too far to really focus on what you need to now. You get to the end of January and you’re like, “Oh, I still have 11 months. I’m a little behind but I’ll get there.” Same in March, I’m still a little behind. Another nine months, I’m good, I’ll get there.</span>
+
+<span style="font-weight: 400;">If you focus on those 12 weeks, or basically three months, then you can sit down and say, “This is what I need to accomplish in these 12 weeks.” You can make a plan for what you have to get done each week and you can accomplish your goals. There’s a whole system behind it and I am really, really digging it. I’m definitely going to continue with it. I’m working on pulling together a group that does weekly accountability meetings and all of the other stuff mentioned in the book. I’m really, really liking it.</span>
+
+<span style="font-weight: 400;">The other things that I will mention really quickly are one, by the time this episode goes out, I should have the website up for JS Remote Conf. next year. If you want to go to the big JavaScript conference I put on every year online, go check that out. Call for proposals will be open. I’m doing early bird and I might you extra early bird tickets.</span>
+
+<span style="font-weight: 400;">We’ll just kind of see where that lands. But yeah, I’m working on that and I’m working on a whole bunch of other stuff. If you wanna know what’s going on there, then check that out and I’m also gonna start posting stuff to the blog on devchat.tv, also keep an eye out for that. Tero, do you have some picks for us?</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">I have two picks, one is the RxJS choose your own adventure operator picker that I just mentioned that’s on the RxJS website which lets you find the operator you need in an easy and quick way. The other pick is a talk that’s been out for a few years by Bret Victor called Inventing On A Principle which is available online. This is kind of the talk that inspired a lot of the hot loading and all this kind of developer tools when it came out because it’s all about finding this connection to the work that you’re doing and then being able to kind of have a conversation with the application that you’re building.</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">That’s a classic, plus a thousand for that talk.</span>
+
+<span style="font-weight: 400;">Tero:            </span> <span style="font-weight: 400;">It’s a really good talk and it’s not just about these tools, it’s just more like the underlying principles behind them but it’s a really good kind of motivation for why you actually want to have tools like this.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Ward, did you find your Hello, World?</span>
+
+<span style="font-weight: 400;">Ward:          </span> <span style="font-weight: 400;">I think I have, I’m pasting it in or pasting a couple examples and I’m thrilled to say it’s out there.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Alright, sounds good. One last thing, Lukas, you and Todd Motto pulled together some Angular stuff. Do you wanna talk about that real quick?</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">In what context? We pulled together a lot of Angular stuff.</span>
+
+<span style="font-weight: 400;">Charles:       </span> <span style="font-weight: 400;">Didn’t you pull together course?</span>
+
+<span style="font-weight: 400;">Lukas:         </span> <span style="font-weight: 400;">Yes. Todd Motto and I have joined forces for Ultimate Angular. He pulled over his Angular 1.0 courses which are fantastic and we’re currently shooting an Angular 1.0 performance course as well as an Angular 2.0 course. This is also where I just launched this free Hello RxJS course. The idea is that we’ll have kind of some main courses but then we have plans to put as much valuable free content as we can on the platform as well. This is pretty much what Todd and I have been doing pretty much doing nonstop for the last six weeks. This Hello RxJS course was the first one actually released on this platform. You can find out more at ultimateangular.com.</span>
+
+<span style="font-weight: 400;">Charles:</span> <span style="font-weight: 400;">I think that’s everything. If you want to see the talks for Angular Remote Conf. you can still get them. I’ll put a link to that in the show notes as well, I forgot to mention that. We’ll go ahead and wrap this up and we’ll catch you all next week.</span>

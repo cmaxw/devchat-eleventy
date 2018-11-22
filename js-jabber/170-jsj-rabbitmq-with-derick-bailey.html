@@ -1,0 +1,813 @@
+---
+layout: layouts/post.njk
+title: >
+      170 JSJ RabbitMQ with Derick Bailey
+date: 2015-07-29 15:00:00
+episode_number: 170
+duration: 
+audio_url: https://media.devchat.tv/js-jabber/JSJ170RabbitMQ.mp3
+tags: js-jabber
+---
+
+<p dir="ltr" style="text-align: center;"><span style="font-size: 18px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Check out </span><a style="text-decoration: none;" href="http://devchat.tv/rails-clips">RailsClips</a><span style="background-color: transparent; color: #000000; font-family: arial;">!</span></span></p>
+&nbsp;
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:38 - Derick Bailey Introduction</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://twitter.com/derickbailey">Twitter</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/derickbailey">GitHub</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://derickbailey.com/">Blog</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://entreprogrammers.com">Entreprogrammers</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://derickbailey.com/email-courses/rabbitmq-patterns-for-applications/">RabbitMQ: Patterns for Applications by Derick Bailey</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">03:36 - </span><a style="text-decoration: none;" href="https://www.rabbitmq.com/">RabbitMQ</a></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Request%E2%80%93response">request-response Messaging Pattern</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">05:22 - Synchronous/Asynchronous; Chronological/Non-Chronological</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">10:33 - Why Do JS Devs Care About RabbitMQ?</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">12:10 - RabbitMQ and Complexity</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">14:04 - RabbitMQ’s Model</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://redis.io/topics/pubsub">Pub/Sub - Redis</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.amazon.com/gp/product/0321200683/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321200683&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=VZV2A6RNVG6ALDKV">Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions by Gregor Hohpe</a> </span></li>
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Exchanges, Queues, and Bindings</span></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">22:15 - Event Emitters, Organizing Your Code</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Documentation</span></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">31:18 - Service Busses &amp; Monitoring Systems</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://particular.net/nservicebus">NServiceBus</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">32:58 - How do you decide you need a messaging system?</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">36:40 - When Applications Crash…</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">39:24 - Event Sourcing</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://kafka.apache.org/">Kafka</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">44:05 - Fault Tolerance/Failure Cases</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">“Just let it fail”</span></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">50:21 - Putting RabbitMQ in Place</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Scheduling</span></span></li>
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Long Wait vs Short Wait</span></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">58:28 - Formatting Your Messages</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://derickbailey.com/email-courses/rabbitmq-patterns-for-applications/">RabbitMQ: Patterns for Applications by Derick Bailey</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">01:04:13 - “Saga” (Workflow)</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">01:05:10 - </span><a style="text-decoration: none;" href="http://rabbitmq4devs.com/">RabbitMQ For Developers</a> </span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Use code </span><strong>JSJABBER</strong><span style="background-color: transparent; color: #000000; font-family: arial;"> for 20% off the bundle!</span></span></li>
+</ul>
+<span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Picks</span></span>
+<p dir="ltr"><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.w3schools.com/">W3Schools</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (AJ)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/0451524934/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0451524934&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=O527RFNKEWL36J3U">1984 by George Orwell</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (AJ)
+The edit button on the </span><a style="text-decoration: none;" href="https://developer.mozilla.org/">MDN</a><span style="background-color: transparent; color: #000000; font-family: arial;"> page (AJ)</span>
+<a style="text-decoration: none;" href="https://www.youtube.com/watch?v=FG53AleSdCc">[YouTube] W3Schools is just... Better</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (AJ)</span>
+<a style="text-decoration: none;" href="https://golang.org/">The Go Programming Language</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (AJ)</span>
+<a style="text-decoration: none;" href="https://www.youtube.com/watch?v=CF9S4QZuV30">[YouTube] Go Programming: Learn the Go Programming Language in One Video</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (AJ)</span>
+<a style="text-decoration: none;" href="https://hackthe.computer">hackthe.computer</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (AJ)</span>
+<a style="text-decoration: none;" href="http://www.astrolog.org/labyrnth/algrithm.htm">Maze Algorithm</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (AJ)</span>
+<a style="text-decoration: none;" href="https://www.youtube.com/watch?v=7kMbPU_6Me4">A* Algorithm</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (AJ)</span>
+<a style="text-decoration: none;" href="http://www.reactrally.com/">React Rally</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jamison)</span>
+<a style="text-decoration: none;" href="http://idlewords.com/talks/web_design_first_100_years.htm">Web Design: The First 100 Years</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jamison)</span>
+<a style="text-decoration: none;" href="https://www.youtube.com/watch?v=oYk8CKH7OhE">Evan Czaplicki: Let's be mainstream! User focused design in Elm @ Curry On Prague 2015</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Jamison)</span>
+<a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Parachute_cord">Paracord</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/B0046UZRNU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0046UZRNU&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=MV5S3E6KR3C6A3IG">Soto Pocket Torch</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://exploringjs.com/">Exploring ES6: Upgrade to the next version of JavaScript by Dr. Axel Rauschmayer</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Derick)</span>
+<a style="text-decoration: none;" href="http://www.daysofwonder.com/smallworld/en/">Small World</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Derick)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/B009MYAQQS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B009MYAQQS&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=T4R6SBTEJOII6OQ3">Star Wars Darth Bane Trilogy</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Derick)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/LEGO-Empire-Strikes-Slave-75060/dp/B00R1MSM82">LEGO Star Wars The Empire Strikes Back Slave I Set #75060</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Derick)</span></span></p>
+
+<h3>Transcript</h3>
+
+<strong>AJ:  </strong>Sounds like a secret society to me.
+
+<strong>CHUCK:  </strong>It's so secret that we record our meetings and put them up online for people to watch.
+
+<strong><em>[This episode is sponsored by Frontend Masters. They have a terrific lineup of live courses you can attend either online or in person. They also have a terrific backlog of courses you can watch including JavaScript the Good Parts, Build Web Applications with Node.js, AngularJS In-Depth, and Advanced JavaScript. You can go check them out at FrontEndMasters.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on JavaScript developers, providing them with salary and equity upfront. The average JavaScript developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 bonus as a thank you for using them. But if you use the JavaScript Jabber link, you’ll get a $4,000 bonus instead. Finally, if you’re not looking for a job and know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept a job. Go sign up at Hired.com/JavaScriptJabber.]</em></strong>
+
+<strong><em>[This episode is sponsored by Wijmo 5, a brand new generation of JavaScript controls. A pretty amazing line of HTML5 and JavaScript products for enterprise application development in that Wijmo 5 leverages ECMAScript 5 and each control ships with AngularJS directives. Check out the faster, lighter, and more mobile Wijmo 5.]</em></strong>
+
+<strong><em>[This episode is sponsored by DigitalOcean. DigitalOcean is the provider I use to host all of my creations. All the shows are hosted there along with any other projects I come up with. Their user interface is simple and easy to use. Their support is excellent and their VPS’s are backed on Solid State Drives and are fast and responsive. Check them out at DigitalOcean.com. If you use the code JavaScriptJabber you’ll get a $10 credit.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 170 of the JavaScript Jabber Show. This week on our panel we have Jamison Dance.
+
+<strong>JAMISON:  </strong>Hello, friends.
+
+<strong>CHUCK:  </strong>AJ O'Neal.
+
+<strong>AJ:  </strong>Yo, yo, yo, coming at you live.
+
+<strong>CHUCK:  </strong>I'm Charles Max Wood from DevChat.tv. I know this is a JavaScript Podcast, but I just want to do a quick shout-out. I just launched Rails Clips. So, if you are doing Rails and you want videos about how to do Rails, I'm releasing one free and one paid every week. So, go check out the free ones and if you like them, then sign up.
+
+We also have a special guest this week, and that's Derick Bailey.
+
+<strong>DERICK:  </strong>Hey, how's it going?
+
+<strong>CHUCK:  </strong>I'm doing well. I think we're all doing well. Do you want to introduce yourself, Derick?
+
+<strong>DERICK:  </strong>Sure. So, like you said my name is Derick Bailey. I am an entrepreneur and a software developer and engineer and all that kind of related stuff, down in Waco, Texas. Kind of middle of nowhere, famous for bad things, Waco, Texas.
+
+[Chuckles]
+
+<strong>CHUCK:  </strong>Yeah. Oh, that reminds me...
+
+<strong>JAMISON:  </strong>Famous for bad things and [inaudible]. Can be a good thing.
+
+<strong>CHUCK:  </strong>I want to bring this up before we get too far, and that is that I'm going to be in the Dallas/Fort Worth area. We're doing a meet-up. Some local folks are going to tell me where a good place to eat is. So, watch my Twitter account. This comes out the day before I fly down there. And we're doing it that Thursday night. So, if you're listening to this the day it comes out or the day after, and you want to come hang out over dinner, then watch my Twitter account and I'll be tweeting out where I'm going to be and all that stuff.
+
+<strong>DERICK:  </strong>I might just take you up on that as well. I'm only a couple of hours away from there.
+
+<strong>CHUCK:  </strong>Oh, cool.
+
+<strong>DERICK:  </strong>That would be awesome.
+
+<strong>CHUCK:  </strong>Yeah, we talk all the time. It would be nice to meet in person.
+
+<strong>DERICK:  </strong>Totally.
+
+<strong>CHUCK:  </strong>We brought you on to talk about RabbitMQ.
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>Do you want to give us a brief introduction to what that is? I know some people are familiar and others aren't.
+
+<strong>DERICK:  </strong>Before I tell you what RabbitMQ is specifically, I'm going to give you an analogy of what it does for you. Have you ever written a piece of JavaScript in your web browser that makes an Ajax request to get information from your server?
+
+<strong>AJ:  </strong>Absolutely not. That's insecure and dangerous.
+
+<strong>DERICK:  </strong>Totally. Nobody's ever done that.
+
+<strong>CHUCK:  </strong>No, never.
+
+<strong>DERICK:  </strong>Never. Alright. So, what you're doing is essentially messaging. You're making a request. You're sending possibly some URL parameters or a small JSON or XML document across the HTTP protocol. And you've got this message that's being sent across. And the server is handling that and sending a response back. That is a really straightforward example of the request/response messaging pattern. And RabbitMQ allows you to have that kind of request/response as well as a whole bunch of other really great patterns like event messages and command messages and everything else that you could think of, and have that happening in your backend systems.
+
+So, you're not just limited to having asynchronous code on the frontend with the web browser. But you can also have it in the backend using a system like RabbitMQ which is a message broker and a message queuing system. RabbitMQ essentially will allow you to publish a message through an exchange, have it routed to an appropriate queue based on some metadata in that message, and then have some other piece of software behind the scenes pick up that message out of the queue and go process it and do whatever it is that you need to do.
+
+<strong>CHUCK:  </strong>So, I do asynchronous stuff. I typically don't use RabbitMQ. But I know somebody's sitting there thinking, “Okay, so I've got this backend for my backend...”
+
+<strong>DERICK:  </strong>Right.
+
+<strong>CHUCK:  </strong>“And there are some things I just want synchronous.” Writing to the database for example, I want to make sure that's in there, that it's done, that the next person to read, it's going to get the latest info. How do you answer that?
+
+<strong>DERICK:  </strong>Well, there's a lot of subtlety in those kinds of scenarios. And quite frankly, sometimes you do want it to happen synchronously with that web request. There are some things that really just have to happen synchronously. Otherwise you're going to get really screwy states coming back to the user that made the request. But in a lot of cases, the processing that you want to do really doesn't have to happen right away for that one individual user.
+
+And the most common example, the easiest place to get started with the idea of asynchronous code happening at some other time, is with sending an email. We all know. We all have personal experience with email taking forever to get sent and received by whoever it is. You might be on instant message or a phone call or something like that and someone just says, “Oh, just email it to me.” And, “Sure, okay. I'll send an email. There, I just sent it.” And 10 minutes later, you're both sitting there thinking, “Okay, is it there yet? Is it there? I don't know.” “Have you gotten it yet?” “No, not yet.” And it just takes forever for an email to get sent across all around the internet, get routed through all of the tubes of the internet and all that. And it's a great example of a place where you can very quickly and easily put a backend service in place to handle sending the email and add a lot of reliability and robustness to your code at the same time.
+
+<strong>AJ:  </strong>So, you said synchronous and asynchronous. But it sounded more like you were talking about chronological and non-chronological.
+
+<strong>DERICK:  </strong>I'm going to have to defer that to somebody who understands those differences better. So, what do you mean?
+
+<strong>AJ:  </strong>Well, whenever you're making a web request, it's asynchronous. But whether you wait for something to finish before you start another task or before you do something that's sequential, like I have to receive the email before I can open up the PDF, print it, and then fax it to my bank that will handwrite it and send it over to the wire transfer department, right?
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>AJ:  </strong>So, that happens in a sequence, in a chronological sequence that I can't do in any other order.
+
+<strong>DERICK:  </strong>Gotcha.
+
+<strong>AJ:  </strong>Versus every web request is asynchronous in that it does not happen at the time that you click the button. But it happens at some future time. And the events may or may not happen in a chronological order. I might click the save button and then click on the settings button before the save has completed, which would not be chronological but both use cases are asynchronous.
+
+<strong>DERICK:  </strong>Yes. Yeah, you're absolutely right. That's probably an important distinction to make. But most people don't really make that distinction in my experience. Although quite frankly, now that I'm thinking about it more, I think it is an important distinction to make.
+
+<strong>AJ:  </strong>Okay. Yeah, I just wanted to make sure I was understanding correctly. And I think I am.
+
+<strong>CHUCK:  </strong>Right.
+
+<strong>DERICK:  </strong>Yeah. So, a good way to think about that is when you have an Ajax-based application, Ember.js, Angular, Backbone, whatever it is, and you click that save button and you get that nice little spinner icon that tells you that something is happening in the background, and you can open up your developer tools and see the network request going across HTTP. And all of that is asynchronous like you were saying. It's happening in the background. The browser is taking care of it for you. But the UI is still potentially usable by the person sitting at their browser. They might click on another link or go somewhere else or do whatever the application lets them while that asynchronous process to go save data is happening. Versus chronological like you said.
+
+In a system like a podcast hosting service that I previously ran, I had a chronological need to get data out of the database to make sure that the requested file was actually available. And then update the database with a log entry to say that the request was made. And then send across this piece of data to my analytics service so that I could have better reporting for that request. And then send the file back down to the user. This was a chronological sequence that I needed to have happen in my system.
+
+Although as it turns out, it wasn't necessarily chronologically required to happen in that order. It turns out I could do the analytics stuff behind the scenes at a later point in time. But some of those database calls did need to happen in that very specific sequence. I can't very well send the file back to the user before I verify that the file exists. It would be pointless trying to do that. You've got to verify that the file exists first.
+
+<strong>JAMISON:  </strong>I want to back up a little bit.
+
+<strong>DERICK:  </strong>Sure.
+
+<strong>JAMISON:  </strong>Why do JavaScript programmers care about RabbitMQ? It's kind of a very backend-specific technology. And it's like a niche of a backend. It's not even what you need to build a CRUD app.
+
+<strong>DERICK:  </strong>Right.
+
+<strong>JAMISON:  </strong>It's other kinds of stuff. So, why do we care?
+
+<strong>DERICK:  </strong>Performance and reliability and stability are three big reasons. With any given HTTP request that you're going to make to your web server written in Node.js or Ruby or PHP or Python or Go or whatever it is that it happens to be written in, your application needs to be as responsive as possible. Not in terms of responsive web design, but in terms of speed. You don't want the user sitting there waiting. You don't want to be forced to show that spinner icon unless you absolutely have to, because things must happen right now. Chances are though, there's a lot of things that don't need to happen right now, things that can happen later in that request. And you don't really care that it's being done behind the scenes. The user clicks a button and they move on and go about their business while there's some processing happening in the background.
+
+But beyond that, beyond just the ability to have code processed in the background, things like RabbitMQ and other message queuing and messaging-based systems will give you a lot of stability in your code, a lot of reliability in your code, and also the ability to further decouple different parts of your system which simplifies the code in each of those parts.
+
+<strong>JAMISON:  </strong>I'm being the devil's advocate here.
+
+<strong>DERICK:  </strong>Sure.
+
+<strong>JAMISON:  </strong>I've actually used RabbitMQ and I like it. But I feel like it did not make things simpler. It added complexity, especially if all I was doing was just getting data and shuffling it around, right?
+
+<strong>DERICK:  </strong>Yeah. If you're just getting data...
+
+<strong>JAMISON:  </strong>Can you talk a little bit about...
+
+<strong>DERICK:  </strong>It's going to be overkill in a lot of cases. A good example of a place where RabbitMQ is going to be unnecessary is a database read request. There's not a lot of value in going through RabbitMQ to read out of the database when your web server has direct access to the database anyways. You're just adding a layer of complexity in there.
+
+Counterpoint to that, I built a scheduling system that runs nightly batch processes and it's all based on jobs and job steps. Well, I need to know which of the jobs are scheduled to run next. And the service that manages that sits behind the scenes. It's not part of the web server. The web application is a frontend that sits on top of the database. But the scheduling mechanism sits behind the scenes in a completely separate process. Well, I don't want to go through the database in order to get what schedules are running next. I want to go through the actual source of data, the scheduling process that knows which schedules are going to run next. So, in that case I do make a call through RabbitMQ using the request/response pattern. And I have that scheduling service actually tell the web server which schedules are ready to run next. And the web server takes that information and displays it in the HTML for the end user.
+
+There certainly are cases where RabbitMQ is going to be overkill. It's not like a magic golden hammer where everything is suddenly a message to be processed. There are a lot of times where it's not going to be the right thing to do.
+
+<strong>JAMISON:  </strong>That makes sense. So, can you talk a little bit more about RabbitMQ's model? I feel like you can think of it as an event bus but it also can do a lot more. And I know when I was getting started with it I had a hard time with some of its very abstract concepts without... I feel like there weren't great motivating examples for all the...
+
+<strong>DERICK:  </strong>Right.
+
+<strong>JAMISON: </strong> Different kinds of stuff you can do with channels and things like that.
+
+<strong>CHUCK:  </strong>Yeah, plus one on that. There were a whole bunch of terms that I remember.
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>And I tried it. I'd bang my head against the wall for a month and then I said, “I'm going to use something simpler.”
+
+<strong>JAMISON:  </strong>Yeah.
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>And then everyone goes back to Redis or whatever.
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>JAMISON:</strong>  Which is not [inaudible]
+
+<strong>DERICK:  </strong>Yeah, exactly.
+
+<strong>JAMISON:  </strong>Scary but is really easy.
+
+<strong>DERICK:  </strong>Right, right. So, Redis gives you a very simple pub/sub implementation. And it's great for that. If you've already got Redis up and running, by all means just get a simple abstraction layer on top of Redis and do pub/sub through there. It's a very basic implementation and you're not going to get a lot of the extra whistles and bells but it works really well. RabbitMQ...
+
+<strong>JAMISON:  </strong>Can you talk about pub/sub first, just to make sure we're all on the same page?
+
+<strong>DERICK:  </strong>Yeah. So, pub/sub is essentially just events. It's a distributed way of handling events. In your browser when you click on that DOM element and jQuery is handling that click event, well you can have an unlimited number of jQuery event handlers on that one DOM element click. You can just keep adding them all day long. Pub/sub is the same kind of thing. Something happens, there's an event that says, “Hey, this happened.” Pub/sub, you publish that message through some message broker, whether it's in memory or it's RabbitMQ or whatever mechanism you want to use. And then there are subscribers to that event on the other side of the publishing mechanism. RabbitMQ works really well for pub/sub.
+
+But it does add a lot of complexity like you're saying, a lot of additional bits of overhead and new terminology to think about in comparison to something like Redis. The advantages that you get with RabbitMQ include additional messaging patterns and architectural patterns that are maybe possible with Redis but are going to be not quite as elegant, and definitely not nearly as purpose-built. It'd be sort of the equivalent of buying a bunch of lumber that is  pre-shaped to look like drawers but then being required to shape the drawers and build the desk yourself, versus going and buying a desk kit that has everything pre-cut to the right size and the right shape and you just assemble it yourself. Redis being the ‘do it yourself’, RabbitMQ being the ‘assemble it yourself’.
+
+<strong>JAMISON:  </strong>Sure.
+
+<strong>DERICK:  </strong>So, in terms of the terminology and the patterns and everything else, RabbitMQ actually does a really good job of baking in a lot of these enterprise integration patterns. There's a book by that name that was released 10 years ago, a little more than 10 years ago, that's got just tons and tons and tons of patterns that are used when sending messages back and forth between applications. And RabbitMQ takes a lot of these ideas and bakes them in. But it still gives you a lot of flexibility and it does some things in ways that can be confusing upfront. Quite honestly, I spent almost a year using RabbitMQ before I completely wrapped my head around its model and its terminology and how these patterns actually fit into RabbitMQ.
+
+So, at the core of RabbitMQ is the message broker, the thing that takes a message and determines which queue that message goes into. So, on the outsides of that message broker at a very high level, you have a message producer which is what it sounds like. It's the thing that sends a message. And then you have a message consumer, which again is the thing that it sounds like. It takes the message out of the queue and actually processes that message. Well, in there in the mix as well inside of RabbitMQ you have exchanges and you have queues and you have bindings. And these exchanges, queues, and bindings are what make up the message broker itself.
+
+So, you publish a message to an exchange inside of RabbitMQ. That exchange looks at the metadata in all of its bindings and compares that metadata in the bindings with the metadata on the message that is being published. And it determines where that message should go. So, if you have for example an exchange called 'student' you might have a queue called students.enroll or something like that. And the names are arbitrary. You can call these things whatever you want. But you want to have a connection between that student exchange and the student enroll queue so that you can have code on the backend enroll students in whatever course they're supposed to be enrolling in.
+
+There's a relationship that you need in between those things. And you build that relationship with a binding. You tell the exchange that there is a binding to this queue with this particular routing key. And when you publish a message through the exchange, you tell the message, “Hey, I've got this routing key for enrolling students.” And then the exchange pushes that message to the appropriate queue so that the appropriate code can actually pick up the message and handle it the way I needs to be handled.
+
+<strong>JAMISON:  </strong>So, let me see if I can summarize it. You publish to a specific exchange and then within that exchange you can have some field on a message that routes it to different queues. And then you have workers that pull it off queues. Is that kind of summing it up?
+
+<strong>DERICK:  </strong>Yeah, yeah. That's a pretty good summary.
+
+<strong>JAMISON:  </strong>I feel like I left off the bindings, though.
+
+<strong>DERICK:  </strong>Right. The queue has a binding... I'm sorry, the exchange has a binding to a queue that says, “For this exchange with this routing key, send the message to this queue.” And then the message itself includes a routing key. So, when you end the message to that exchange the exchange sees the routing key on the message and makes the comparisons and forwards the message to the appropriate queue.
+
+<strong>JAMISON:  </strong>Sure, that makes sense.
+
+<strong>CHUCK:  </strong>So, it sounds a little bit to me like what I think about when I think about a lot of the development frameworks, right?
+
+<strong>DERICK:  </strong>Right.
+
+<strong>CHUCK:  </strong>Where you have a request come in and that comes off of your producer.
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>It comes into the exchange which is basically your routing system.
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>And then it sends that off to a presenter or controller or whatever. The difference is that it's not just going to send it to one to fill one request, but it'll send it to whoever is supposed to get that information.
+
+<strong>DERICK:  </strong>Right.
+
+<strong>CHUCK:  </strong>So that they can handle it appropriately. And then on the other end, there's a consumer that does the work.
+
+<strong>DERICK:  </strong>Right. So, a good example of multiple distribution of the message might be an instant messaging system. You could have an exchange set up inside of RabbitMQ for instant message. Let's say you're building a Slack competitor and you want to do it with RabbitMQ. So, you have an exchange for every room that you want inside of your IM system. And when somebody connects to your IM system, they will create their own private queue inside of RabbitMQ. And they will bind that queue to the instant message exchange for whatever room they want to be in. So, that way whenever somebody sends a message to that exchange that represents that room, the message will get distributed to all of the people that have queues that are bound to that particular exchange. That making sense?
+
+So, your Slack chat room is an exchange. You send a message to the exchange and the chat room distributes that message to all of the current subscribers, all the people that are in that room.
+
+<strong>JAMISON:  </strong>In my experience, using event emitters, there's a little bit of difficulty it adds to understanding the flow of your application.
+
+<strong>DERICK:  </strong>Yes.
+
+<strong>JAMISON:  </strong>Because things are pretty decoupled, right? You just say...
+
+<strong>DERICK:  </strong>Right.
+
+<strong>JAMISON:  </strong>Emit this event with some name.
+
+<strong>DERICK:  </strong>Right.
+
+<strong>JAMISON:  </strong>And then you have to search through the code and find where you're listening on some event emitter for an event with that name. And with RabbitMQ, I got that same feeling, only a lot. [Chuckles]
+
+<strong>DERICK:  </strong>Yeah, [inaudible]
+
+<strong>CHUCK:  </strong>[Chuckles]
+
+<strong>JAMISON:  </strong>A lot harder to [inaudible] because...
+
+<strong>DERICK:  </strong>Because now you're stepping outside the bounds of the system.
+
+<strong>JAMISON:  </strong>Yeah, you just say...
+
+<strong>DERICK:  </strong>Just outside the bound of that event code.
+
+<strong>JAMISON:  </strong>Yeah, publish to some exchange. And then I just, I spent a long time trying to figure out what is actually in the end consuming this message.
+
+<strong>DERICK:  </strong>Right, right.
+
+<strong>JAMISON:  </strong>Because it's not as simple as just... it's a lot more decoupled than publish to this exchange, listen on an exchange. There are all these steps in between. Do you have any tips for how either you can organize your code or how you can use tooling in Rabbit to figure out how things are connected later on?
+
+<strong>DERICK:  </strong>First and foremost, documentation. It is absolutely critical to document the message structure, the actual contents that you're sending along, the message intent (why am I sending this message and what do I expect to happen with it?), and then the message producers and consumers, meaning you document which code is allowed to produce this message and which code is allowed to consume this message. And I know a lot of developers scream and balk at documentation because quite frankly documentation lies. It doesn't get updated. But it really, truly is critical. There's almost no way around that. Even when talking about event emitters inside of standard code, it's critical to have documentation around these events that are  being emitted and why they're being emitted, for what purpose, all those kinds of things so that you can make sense of it.
+
+Because when you start talking about these decoupled architectures, yeah you're introducing a lot of potential confusion by having things decoupled this way. It's a trade-off. You either have complexity in code because every object literally has to know about every other object in the system, or you have complexity in architecture because now these two objects don't have any clue about each other but they're still communicating with this message exchange in the middle.
+
+<strong>CHUCK:  </strong>Yeah, but see the thing that I like about it and the thing that 'de-complexed' (I think that's a word) your application is that... let's go back to the student enrollment example for a minute. A student was created. Pop that on the exchange. Now, I don't have to worry about if I'm on that end of things, I don't have to worry about any of the other stuff that has to happen.
+
+<strong>DERICK:  </strong>Right.
+
+<strong>CHUCK:  </strong>Somebody else is going to go write, or me, it could be me, but somebody else is going to be writing the client on the other end. So, somebody else is in charge of emailing the student and collecting the student data and doing the other 10 or 15 things that have to happen as part of student enrollment.
+
+<strong>DERICK:  </strong>Exactly.
+
+<strong>CHUCK:  </strong>And so, all I have to care about in writing my part of the application that maybe collects that information and throws it in the database is let everybody else know about it.
+
+<strong>DERICK:  </strong>Right.
+
+<strong>CHUCK:  </strong>Done, period.
+
+<strong>DERICK:  </strong>So, think about another example. Head out to GitHub.com right now and create a new repository in your account. I guarantee that that is not happening in real-time with the request that you just made to the web server. There is no way they could possibly do all of that from the web server. They would be scaling out to millions of web server instances in order to handle that kind of traffic. It's completely unreasonable. There are far too many failure cases. There are far too many problems that they can run into, far too much code and process and complexity in having that happen directly in the web server. I know actually GitHub uses Redis to handle those kinds of things. They've got a really nice Ruby client that sits on top of Redis and manages their queue of work that way.
+
+So, you're already doing these kinds of things when you're out there using large-scale systems like GitHub. And sending email for example is another great message queuing system that you already use. And quite frankly, you see this in the real world, too. It's not just software that this happens.
+
+You go to McDonald's and you place an order. Well, you're sending a whole bunch of messages across a system here. You've told the person ringing up the order what you want. They ring it in to the system. That system distributes the message to the fries station, to the burger-flipping station, to the drinks station, to the server station who compiles everything together and then hands you your order. But while you're doing that, the person ringing up orders is continuing on to the next person, and the next person, and the next person. The entire system does not shut down in order to accommodate your one order. The system is very much composed of messages that are processed asynchronously, sometimes chronologically, sometimes not. But it all comes together at the end in your order on your tray, handed to you.
+
+<strong>CHUCK:  </strong>I like the example and I want to propose a counter-example which is you pull up to the window, you tell them what you want, the guy goes in the back, pulls the hamburger patties out of the freezer, starts thawing them out. When they get thawed, then he cooks them, then he puts all the condiments on, on the bun, pulls the French fries out of the freezer, throws them in the fryer, and then comes back. You're a half hour and the guy behind you is waiting another half hour. And that's...
+
+<strong>DERICK:  </strong>And by the time the fries are done, your burger's already cold.
+
+<strong>CHUCK:  </strong>Yeah. And so, the complexity hasn't changed between the two. It's just that you've got more workers doing the work.
+
+<strong>DERICK:  </strong>Right.
+
+<strong>JAMISON:  </strong>I would argue strongly that it's more complex [chuckles]. It's just, it's less synchronous for sure.
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>But it's way more decoupled. And you said earlier that you like just being able to shove your message off somewhere else and someone else takes care of it.
+
+<strong>DERICK:  </strong>Right.
+
+<strong>JAMISON:  </strong>But that someone else is probably you in six months when it breaks.
+
+<strong>CHUCK:  </strong>Oh, fair enough. Fair enough.
+
+<strong>JAMISON:  </strong>And so, [chuckles] now it's...
+
+<strong>CHUCK:  </strong>And, and...
+
+<strong>JAMISON:  </strong>And getting it hooked up was not the hard part. The hard part was debugging when I didn't remember exactly what was going on and then trying to trace through and then finding that there's nothing to trace through.
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>I just have to search around in code for any references to RabbitMQ to figure out what's going on.
+
+<strong>CHUCK:  </strong>So, there's some real trade-offs here, right?
+
+<strong>DERICK:  </strong>I would argue that that's not a problem caused by RabbitMQ. That's a problem caused by developers not taking care of the documentation appropriately.
+
+<strong>JAMISON:  </strong>I don't think I've ever worked on a project where development has been taken care of, or documentation has been taken care of appropriately.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>DERICK:  </strong>That's a culture...
+
+<strong>JAMISON:  </strong>So, that's why the answer 'Document it better' feels like a cop-out almost. I understand documentation is valuable.
+
+<strong>DERICK:  </strong>You're going to have this complexity either way.
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>DERICK:  </strong>The complexity is going to be there. You're either going to have 20 levels of nested callbacks in your Node.js app or you're going to have a decoupled system that sends messages across a queue and handles the processing in the background. There are certainly times when the level of decoupling will cause damage to your system. And I've certainly done that myself. I've put RabbitMQ in place or event emitters in place or whatever else in place and thought to myself at a later point, “Wow, that was a really bad idea. I made this code terribly complex compared to what it should have been.” And so, I'll go in and rip that out and put the code back into the chronological sequence with callbacks or promises or whatever it happens to be. It's not a golden hammer by any means. It's a way to recognize that there are processes that do not need to happen synchronously and can happen elsewhere, and frankly should happen elsewhere, because you need the code for that process to be extremely tight, extremely reliable, and resilient to failure when failure happens.
+
+<strong>JAMISON:  </strong>Sure.
+
+<strong>DERICK:  </strong>Credit card processing is a great example of that. If you ever do any kind of credit card processing, well first off you're not going to it yourself.
+
+<strong>CHUCK:  </strong>[Chuckles]
+
+<strong>DERICK:  </strong>You're going to send it to something like Stripe.com. Stripe is not going to do that real-time for you. It's going to do some pre-authorization checks and validation checks. But the actual charge is going to happen at a later point in time so that Stripe can manage failure conditions that are very common in credit card processing.
+
+<strong>JAMISON:  </strong>Sure. I don't think I expressed my concern well enough. Because I'm not arguing against the idea of queuing. You're certainly not going to want to do things like image resizing or whatever.
+
+<strong>DERICK:  </strong>Right, yeah.
+
+<strong>JAMISON:  </strong>There's a whole bunch of stuff you don't want to do in the request/response cycle.
+
+<strong>DERICK:  </strong>Yup.
+
+<strong>JAMISON:  </strong>But I'm wondering, is there any solution besides write a bunch of documentation? That's like, I guess that's like me being super fat and saying “How do I lose weight? But don't tell me to diet and exercise.”
+
+[Chuckles]
+
+<strong>DERICK:  </strong>Right.
+
+<strong>JAMISON:  </strong>Is there anything else I can do? Is there a magic diet pill for RabbitMQ?
+
+<strong>DERICK:  </strong>Yeah, yeah. There are. There's not a magic diet pill but there are exercise programs and diet programs to which you can subscribe.
+
+<strong>JAMISON:  </strong>[Chuckles]
+
+<strong>DERICK:  </strong>And now we're getting into the realm of what's typically called a service bus and a monitoring system associated with that service bus. So, I did an interview with Udi Dahan, world-famous software developer and architect and the creator of a service bus called NServiceBus. It's a .NET based system, hence the N, NServiceBus. So, he's got this phenomenal set of patterns and practices baked into this service bus that he created. But on top of that, he has a paid platform that provides management and monitoring and logging, and a lot of phenomenal insight into what's going on in the message queue. RabbitMQ gives you pretty good insight out of the box. You can load up the web management plugin and see messages flowing through the system and see how many are in what queue and going through what exchange and all that kind of stuff.
+
+But at some point, you're going to run into the limitations of what that web management interface will do for you. And with a system like NServiceBus and the platform that it provides, you'll get a lot more management and monitoring capabilities because NServiceBus itself has a lot of these patterns and practices baked in so that it will track this information for you. It will know which messages are going where and why. And you'll be able to see that workflow a little bit easier. Although in the end you're still going to have to look at code in order to really understand the complete flow. The kind of platform tools that NServiceBus and Udi's company provide will give you some of that insight.
+
+<strong>JAMISON:  </strong>Sure.
+
+<strong>CHUCK:  </strong>So, what I'm wondering is if you're looking at your system and you're trying to decide whether or not you need a messaging system like this, what are the things that you should be looking at? What are the code smells, so to speak, that you should be looking for in your app that are telling you, “I could really benefit from a system like this”?
+
+<strong>DERICK:  </strong>There's a couple of things to look for. The first one is that back of your mind nagging feeling that you just don't want to put this code here. You know it needs to happen after this point in time. But why am I putting this here when it's something that could be done later? I just don't know how to do it later. That's one of those nagging feelings that's when you're not used to doing asynchronous stuff in backend processing, it can be hard to recognize.
+
+<strong>CHUCK:  </strong>Can I push back on that a little bit? Because some of these things, it may happen real fast. And your application may be real simple. And so, even though it is something that you could push off to be done asynchronously, it's not really causing you pain.
+
+<strong>DERICK:  </strong>Right.
+
+<strong>CHUCK:  </strong>And adding a queuing system is going to add complexity. And I think Jamison outlined that nicely.
+
+<strong>DERICK:  </strong>Yeah. If you're adding a queuing system in some inappropriate places, it certainly will add complexity. In places where you already have complexity because you have a lot of failure conditions that need to be handled, you're looking at a place where a queuing system should be in place
+
+A database write for example is a great place to put in a queuing system, because honestly, what does real-time mean? Nobody can really define real-time with absolute certainty. When you say the next person that loads the page needs to see that updated data, well what if they load the page half a millisecond after you submit that save button and the process has not yet updated the backend database? Well, it was after. So, is that not real-time enough? There's always going to be a reasonable amount of time that is considered real-time. And for most systems, I would bet that it's in the order of minutes, not milliseconds. So, when you're talking about systems that have failure conditions and error conditions that need to be accounted for, you know what, a database write actually can be a pretty good candidate for that. Not all the time, granted, but it can be.
+
+If you have some absolutely critical chunk of code that's running and doing multiple things in the database and you can't do transactional code for whatever reason, but you have to handle for all of these error conditions of the database going down, or a record not being available yet, or whatever the case may be, well that's a good candidate for doing this behind the scenes where you can have that kind of failure condition handled very well with a queuing system. You don't need to force     the user to wait 10 or 20 or 30 seconds while all this complex logic is processing. You can have a backend system handling those error conditions. And even allowing the system to completely fail. You could have the database go down, and who cares because the frontend doesn't rely on that part of that database? It's read-only on the frontend. And then later on when the developers actually pick that up and fix it, then the message gets processed and the data gets updated.
+
+<strong>JAMISON:  </strong>That's actually a really cool thing we haven't talked explicitly about, I feel like, where if you put stuff in a queue in RabbitMQ, it stays there until someone pulls it out. It's durable.
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>It's not like it's just going to disappear. So, I've thought about using that.
+
+<strong>CHUCK:  </strong>What if a bus hits your RabbitMQ server?
+
+<strong>DERICK:  </strong>At some point, your application will crash. What if your building catches on fire?
+
+[Chuckles]
+
+<strong>DERICK:  </strong>There's going to be some failure condition.
+
+<strong>JAMISON:  </strong>What if you give Jamison access to your codebase?
+
+[Laughter]
+
+<strong>DERICK:  </strong>Exactly.
+
+<strong>JAMISON:  </strong>These are all similar.
+
+<strong>DERICK:  </strong>Exactly.
+
+<strong>CHUCK:  </strong>Right. But does it persist to disk? So, at least...
+
+<strong>JAMISON:  </strong>Yeah, yeah. It persists to disk.
+
+<strong>DERICK:  </strong>It can. It depends on how you configure it. If you need 100,000 messages a second, you don't want to persist that to disk. RabbitMQ will handle 100,000 messages a second. That's in the order of 3 billion messages a day or something. But you don't want to persist to disk because you'll be subjected to the latency of disk writes if you're doing that. But if you have a few hundred messages a minute, like most of the systems I write, then yeah, disk persistence is phenomenal.
+
+And back to that same podcast hosting service that I talked about earlier, I had a phenomenal crash in my system when I forgot that I had a read-only database plan. I had this free database that was running a production system serving up thousands of podcast episodes every hour. And I was logging each request for an episode to the database. And I very quickly slammed into this read-only database file size limit. And of course being a free plan, the hosting service was not about to just up the size of the database and let me keep going. So, the frontend of the application where people would manage their podcasts, it was crashed. It wouldn't do anything because the database was read-only. The backend which was supposed to be analyzing all of my requests and doing the analytics service calls and everything was crashing, because it couldn't write my analytics data to the database.
+
+But I had RabbitMQ in the place as well. I had every one of my analytics requests sitting inside of a queue. And three days later, when a customer finally told me that none of their analytics had been updating for the last three days, I went and panicked and pulled my hair out and vomited a few times, and I fixed the problem with the code, upgraded my database to a paid solution, and went and looked at RabbitMQ. And there sitting in my queue were 55,000 messages waiting to be processed. So, I bumped up the number of instances of my application on Heroku and three hours later, it looked like my system had never had a problem because all of my analytics data was available as if it had never had a problem.
+
+<strong>CHUCK:  </strong>That's cool.
+
+<strong>JAMISON:  </strong>That reminds me of a talk by somebody from LinkedIn, Martin Kleppmann. I think it's called 'Turning the Database Inside Out' where he talks about how most of what we do with data in the backend can be modeled with a queue. And then you just pass it to different system.
+
+<strong>DERICK:  </strong>Yeah. And there's a really cool thing that's been, it's been around in the enterprise world for a while called event sourcing. And it's starting to gain some traction in the newer technologies with Ruby and Node.js and whatnot. And I can't remember the exact terminology used. But there's an Apache open source system called Kafka which is a write-only log of events. And what it does is basically allows you to just stream events into this thing. And then any consumer, anything that needs to know about the data going into this stream of events tells Kafka an offset, “Hey, I'm at this point in the queue. Give me the next 5 or 10 or 20 or however many messages.” And Kafka would just spit them out to you. And then you'll have your other code go and process that.
+
+And people are doing database writes like this. They're sending database update requests through Kafka and then on the other end they're just reading these requests out of the Kafka stream of events in order to update the actual system on record.
+
+<strong>AJ:  </strong>So, I want to go back for just a minute, because there was something you said that I just didn't understand. So, you said you had this database system. And it couldn't handle all the reads that were happening.
+
+<strong>DERICK:  </strong>Couldn't handle the writes. I probably said that...
+
+<strong>AJ:  </strong>Oh, the writes. Sorry, no, no, you said writes. I said it wrong. Okay. So, it couldn't handle the writes that were happening.
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>AJ:  </strong>But in front of it you've got this other database system that was somehow magically able to handle the writes. So, that is a point of confusion for me, because a database is a database is a database. If it stores data, it's a database. If it's a file, it's a database. If it's a message queue, it's a database. If it's Postgres, it's a database.
+
+<strong>DERICK:  </strong>Sure.
+
+<strong>AJ:  </strong>So, you're telling me you had 55,000 messages that your little one-off message queue server was able to store...
+
+<strong>DERICK:  </strong>Correct.
+
+<strong>AJ:  </strong>Because your database wasn't able to store? What the heck?
+
+<strong>DERICK:  </strong>[Laughs] Okay, so I probably told that story with a few missing details.
+
+<strong>CHUCK:  </strong>Aw, I thought I got it.
+
+<strong>DERICK:  </strong>The way the system was set up is when a request for a podcast episode comes in, two network calls were made. One to write the podcast episode request event to my database and then a second request to write the same event to RabbitMQ. And the reason I did that was because at the time I did not have a lot of faith in RabbitMQ or in my analytics service that I was using. These were both brand new technologies to me and I was concerned. And I didn't want to lose my analytics data in case I had to switch analytics service providers or in case RabbitMQ ended up not being what I wanted to use. So, I was doing dual writes. I was writing to the database and writing to RabbitMQ. The code on the other end of RabbitMQ would get the event ID out of the message, go find that event information in my actual database, and then use the event information from the database to make the call out to the analytics service.
+
+So, it was a bad setup for what I actually needed at the time. But I did it that way because I didn't trust the technologies I was using yet. And in the end, I ended up changing that setup because it just wasn't necessary to do it that way. RabbitMQ was...
+
+<strong>AJ:  </strong>So, what's the magic, though? So, you've got this battle-tested database. And then I'm assuming it was Postgres, right? Or something similar?
+
+<strong>DERICK:  </strong>It was MongoDB.
+
+<strong>AJ:  </strong>Oh. Okay, never mind. That explains it.
+
+<strong>DERICK:  </strong>You know, Snapchat for databases.
+
+<strong>AJ:  </strong>Okay.
+
+[Laughter]
+
+<strong>DERICK:  </strong>But it doesn't matter what database it was. It could have been Oracle or SQL Server or whatever. But the problem that I ran into was that there was a hard file size limit on my database.
+
+<strong>AJ:  </strong>Ah, okay, okay, okay, okay.
+
+<strong>DERICK:  </strong>I was using a free database plan on a shared host. And I ran into the file size limit of that free hosted database plan. And because of that, most of my application went into crash mode because most of the application needed to be able to write to the database. But the one thing that did not need write access was the media server for the podcast host. It only needed read access. So, the media service continued to serve podcast episodes and RSS out to subscribers. But my clients, my customers for the podcast hosting service were not getting analytics service updates or were not able to update the podcast with new episodes because the database was in read-only mode.
+
+<strong>AJ:  </strong>Okay. Alright, that makes more sense.
+
+<strong>CHUCK:  </strong>So, when I look at RabbitMQ, I'm really tempted to go try it out again. You mentioned something about fault tolerance?
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>Or failure cases.
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>So, if something fails do you just... part of me is like, “Okay, do you build that all into the client or do you just throw another event back onto the exchange?”
+
+<strong>DERICK:  </strong>No, it's even better. You just let it fail. Because when you just let it fail, the message will automatically go back into the queue in RabbitMQ.
+
+<strong>CHUCK:  </strong>Oh, so your client just comes back and says, “That didn't work.”
+
+<strong>DERICK:  </strong>Well, it depends on the exact scenario that you're looking at. It depends: the only valid answer in software development, right?
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>DERICK:  </strong>So, there are a number of cases where you quite literally just crash the application and you don't care, because your developers are going to get notified of the crash and they're going to go fix the problem. And then when the application comes back up, it'll pick up the message again and re-process it. That's exactly what happened with my example of the messaging, analytics messages with my podcast host.
+
+And there's another great example of that scenario with my interview with Aria Stewart. She was a developer at PayPal working on the Kraken.js team. And she's got this great story about, I don't remember if it was PayPal or a previous job, where she talks about credit card processing. I think it was a previous job where she talks about credit card processing and handling small transactions. And over a weekend, the credit card processing failed because of a date change, date format change in the credit card processing service. And so, no credit card charges were processed over the weekend.
+
+And the developers didn't care, because all of these messages to process the credit card were stored in the queue somewhere. They came back in Monday morning, fixed the problem with the new date format, and 3,000 some odd credit cards were charged. And out of that, a few dozen maybe were declined for whatever reason. So, a few dozen people got some free service for a few days on whatever site that was. But it's a great example of 'just let it fail' because the message is going to go back into the queue and be processed later.
+
+<strong>CHUCK:  </strong>So, when you say “Just let it fail,” I guess that's where I'm not understanding. So, do you just not respond with success?
+
+<strong>DERICK:  </strong>It depends on the scenario, like I said. If you're doing something like GitHub and you're clicking that create repository, well how many times has GitHub gone down in the last six months? It's gone down a number of times. And often, right in the middle of people trying to create repositories. Their queue system gets backed up and you'll see that little photocopy machine light going back and forth saying, “We're creating your GitHub repository for you.” Or a few years ago you would have seen that hardcore forking comment that they had on there but finally took down.
+
+But whatever the message is, there is some status indicator on the website that says, “Hey, we're working on this.” And at a later point in time, when their queue finally gets drained of all of its messages and everything gets processed, then your repository shows up. So, from the user perspective the user saw success the whole time. They clicked that create button and the web server said, “Success. I sent off the request to make your repository real.” The backend system however, was crashing like mad. But the frontend system didn't care. All the frontend system knew was the request had been sent off. And it was now waiting for the status update to say that the repository had actually been created.
+
+<strong>CHUCK:  </strong>Right. But does your RabbitMQ client or your consumer have to report back to RabbitMQ then that there was a successful completion of the job?
+
+<strong>DERICK:  </strong>Yes.
+
+<strong>CHUCK:  </strong>Okay.
+
+<strong>DERICK:  </strong>By default, RabbitMQ uses acknowledge mode which requires you to explicitly ACK to acknowledge or NACK to not acknowledge a message, and whether or not that message was successfully processed.
+
+<strong>CHUCK:  </strong>Okay. And so then, if it blows up then it never gets an ACK and so it times out eventually and puts it back on the list.
+
+<strong>DERICK:  </strong>Yeah, exactly.
+
+<strong>CHUCK:  </strong>And then somebody else picks it up and blows up again until you fix the problem.
+
+<strong>DERICK:  </strong>Yeah, it's exactly what happens. Your consumer will have a live, open connection to RabbitMQ. And when that consumer crashes, that connection gets closed. Well, RabbitMQ sees, “Hey, this old consumer ID is no longer connected. And this consumer had these messages that it was holding onto and working with. Well, since this consumer is no longer connected, we're just going to NACK these messages back to the end of the line in the queue,” and at some later point in time either the same process is going to restart or another instance is going to stand up or whatever the case is and the message will get handled later.
+
+<strong>CHUCK:  </strong>And then if you have some workflow that flows out of that, then part of your consumer's job is to put more messages back into the exchange so that...
+
+<strong>DERICK:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>So that somebody else can go do the rest of the work.
+
+<strong>DERICK:  </strong>Exactly. And there's a lot of different ways to handle that, too. You can have error notifications flowing back through RabbitMQ, which I do in some cases.
+
+With the job scheduling system I think I mentioned previously, when the job on the external system fails which is a very common thing, I will send a job error notification back through RabbitMQ. And the main scheduling instance, the main scheduling software, will receive that error notification and make appropriate updates in the database and mark predecessor jobs or successor jobs as unresolvable because they can't be resolved because the current job failed. And the dependencies are set up that way so that the previous jobs have to complete before the next jobs can actually run. So, there's a lot you can do with status notifications and status updates by sending messages back through RabbitMQ when something happens, whether it's success or failure or just percentage complete, or something like that.
+
+<strong>CHUCK:  </strong>My other question is, and this harks back a little bit to where you were talking about you've put RabbitMQ into place in certain instances and then realized that it didn't fit and so you pulled it back out. Are there specific things that you should look for when you put it in place to make sure that it is a good fit?
+
+<strong>DERICK:  </strong>Yeah. The necessity of things happening chronologically for the user is something to think about, like we talked about before. If you're doing a simple database update and you have a very low volume of users and you're updating your first name and last name in a really simple user object in a really simple user system, well chances are you just don't need RabbitMQ in that situation. Because it's a very low-risk situation to where if the update fails, who cares? You can go change your name again after the error is fixed. It's not that big of a deal.
+
+On the other hand, if you have a lot of complex business logic with a lot of database calls involved, that's a good candidate for putting your database updates behind RabbitMQ because of the number of failure conditions that need to be handled and the complex logic of dealing with failures in different ways at specific points in time. Does that make sense?
+
+<strong>CHUCK:  </strong>Mmhmm.
+
+<strong>AJ:  </strong>So, it sounded to me when you were going over use cases of where RabbitMQ makes sense, it seems like there's three kinds of things. One, any time that you're relying on a process being in memory as part of the completion, the completion logic is somehow being handled in memory, that's bad. Because your server goes down, you lose it. So, if there's anything where you've got to wait 20 seconds to find out if something worked or not, if you put it off in a queue, you're saying you get the error recovery. So, that seemed to be the solution there.
+
+One thing you didn't really talk about or maybe you did but I don't know... well, scheduling. What about something that it's not that it needs to be done in the next 20 seconds or that it will take five minutes to do, but I don't want to do it until 6pm tonight, or batching. It seems like that would be something that this would be good at but I don't think you really talked about that in particular.
+
+<strong>DERICK:  </strong>I think RabbitMQ could be a part of that solution. But it is not the solution. What you're really talking about is more like a CRON job where you have some code that's going to kick off at 6pm every Monday night on the third Monday of a blue moon, or whatever the scheduling mechanism is. I built...
+
+<strong>AJ:  </strong>I normally do blue moons, so that was a good example.
+
+<strong>DERICK:  </strong>Yeah, totally.
+
+[Laughter]
+
+<strong>DERICK:  </strong>So, I built an enterprise-grade job scheduling system that does what you're talking about. It runs a sequence of jobs and steps at specific times every day. But RabbitMQ is only a part of that solution. RabbitMQ is not the part that actually manages time and waits for time. I used an off-the-shelf straight out of npm component to schedule at 6pm every day, run this code. That was, they're a dime a dozen for npm modules and Ruby modules and .NET module to do that kind of code. What RabbitMQ does for me is it allows to distribute the work that's being done to other systems. So, when that component, that timer component, kicks off my callback function at 12:15am every night, it's not doing real work at that point. It's kicking off a message through RabbitMQ to say, “Go load and run this schedule.”
+
+The scheduling mechanism itself, the real true brains of the operation, is nothing more than keeping track of which jobs and steps have been run, and making sure that they run in the right sequence. This job depends on that job. That job depends on a previous job. So, I have to start with a previous job and then after that one completes, run that job. And then after that one completes, run this job. So, the brains of the system does that kind of work. But how the job executes is by sending a message across RabbitMQ to a very specific worker that knows how to do the specific work for the specific job step.
+
+So, it's essentially distributed computing. That's really what it is. We're using messages to facilitate distributed computing. Instead of having everything happening in memory, in process, we're sending a message across a queue to a different process, potentially on a different server in order to run it somewhere else.
+
+<strong>AJ:  </strong>Okay.
+
+<strong>CHUCK:  </strong>Yeah, I was going to ask about scheduled jobs, too.
+
+<strong>DERICK:  </strong>Right. And then you had a third question, I think previously about long wait versus short wait?
+
+<strong>AJ:  </strong>Well yeah, so it seems like if something is going to be pretty much instantaneous, you're saying it's good to put in the message system because then you've got a log of it. But if it's something that's going to be handled very quickly, then maybe you don't need a message system in that case.
+
+<strong>DERICK:  </strong>Again, it depends on the scenario. You might have something that responds very quickly but you don't have a standardized communication mechanism to get the information out of it. So, the job schedule, the thing that knows when to start the schedule in my system, like I said, it's a straight out of npm component just to say, “At 6pm every night, run this.” Well, that doesn't have a database behind it. It's in memory stuff. Well okay, I take that back. That one does have a database behind it. But that database configuration is very specifically just for that schedule to have persistence.
+
+I don't want to subvert that scheduling module by going straight to the database to get that information. I might not even have access to the right database table or database collection or whatever it is in order to get the information out. And even if I do, I would have to duplicate the logic and processing code that says, “This record entry means it's going to run at this day, at this time.” I don't want to duplicate all of that logic. Yeah, this thing would be really fast and respond to me, but it would be a really bad idea for me to subvert that module and go to its backend in order to get the information that it stores.
+
+Instead, I'm going to use RabbitMQ. And I do use RabbitMQ to send a request to that system, to that scheduling piece, the part that knows about what's going to run next, and then it uses the module, so the scheduling module itself, to read the list of what's going to run next and send it back to me using the request/response pattern in RabbitMQ. And that request/response pattern is very specifically designed for these scenarios where you need information to handle or to deal with your current process. You just need to get it from somewhere else.
+
+It'd be the equivalent of me saying, “Hey Chuck, go get me those French fries from the fry station so that I can complete this order.” While Chuck is off doing that, he's off getting the French fries while I'm filling up the drinks so that I can put the drink on the tray. And Chuck comes back, hands me the French fries, and I put the French fries on the tray. That's request/response. I made a request to Chuck to go get the French fries. He responded by going to get the French fries and handing them to me.
+
+<strong>CHUCK:  </strong>Do you want fries with that?
+
+<strong>DERICK:  </strong>Exactly.
+
+<strong>AJ:  </strong>Har, har, har.
+
+<strong>CHUCK: </strong> So, that does lead to another thing. There's a lot of discussion when you get into queuing about how to format your messages.
+
+<strong>DERICK:  </strong>Right.
+
+<strong>CHUCK:  </strong>So, in some cases people use JSON. Other people, they'll use just enough information for you to go look it up in a database. Other people put the whole object in there. Usually it depends on what you're doing with it and whether or not you can rely on your data source to be what you expect it to be.
+
+<strong>DERICK:  </strong>Right.
+
+<strong>CHUCK:  </strong>Do you have any thoughts on that beyond that as far as formatting your messages?
+
+<strong>DERICK:  </strong>A lot of thoughts about that, quite honestly. I wrote an entire book about exactly that [chuckles] called 'RabbitMQ: Patterns for Applications'. It's an email course as well as a book. The gist of it for what you just described though is, yes, meaning I do all of those things. The actual data format, JSON versus XML, well okay. Which data format are your systems going to communicate with the easiest? If you're doing legacy systems like old .NET and old Java then you're probably going to use XML. But if you're using more modern systems, even newer .NET stuff or Node.js or Ruby you're probably going to use JSON.
+
+But the message content is important. And knowing whether or not you should send a full and complete message with every bit of data you need versus just an ID that you can look up later depends on a number of different factors, some of which include the stability of the data, whether or not the backend system has access to a data source to retrieve that data from, or security needs.
+
+So, back to the podcast hosting example for a security need example, the podcast hosting service used Stripe.com to manage subscriptions and credit card payments. Stripe has webhooks. So, whenever a credit card was processed or failed to process or whatever, Stripe would send my system an event through a webhook. My webhook code would immediately respond to Stripe. It would say, “Okay, I got the message. Thank you very much,” because that's one of the requirements that Stripe has, is that you have a very fast response and it has to be a 200 OK response. Otherwise, Stripe thinks that the webhook failed.
+
+Well, I didn't want the webhook to ever fail. So, I would take that event ID that Stripe sent me and the event type that Stripe sent me, and I would throw it across RabbitMQ. And then I would immediately respond to Stripe saying, “Okay, I got it. Thank you very much.” And Stripe would say, “Okay, great. Your webhook is awesome.” And then in the backend, behind RabbitMQ, I would take that event ID and that event type and make a request to the Stripe API over HTTP using Stripe's RESTful API that they have, and I would load the complete content of that event from the Stripe API.
+
+And that did a couple of things for me. It made my webhooks super-duper fast and responsive because the message was very small sending across RabbitMQ, meaning I could send a lot of these messages in a relatively short period of time. But it also added a layer of security because when I only have that event ID from that Stripe event, that means I am forced to make a call out to the Stripe API and load the complete event from Stripe. That protects me from forgery on this webhook. Without that kind of protection in place, if I were putting the entire event message in RabbitMQ and only relying on the event message in RabbitMQ, then somebody could forge a message if they knew the URL of y webhook. They could potentially give themselves free service or even refund money to themselves and steal money from me by issuing a bunch of refunds through this webhook.
+
+So, to prevent that kind of malicious behavior, I have my backend code behind RabbitMQ take the event ID, load the complete event document from Stripe itself, and that right there gives me confidence that this event is valid. Because it's getting the real event data from Stripe, not from the webhook. If the event doesn't exist, well I ignore the event message. I say, “I'm not going to do anything with this. Just go delete the message.” If the event does exist inside of Stripe, I say, “Great, I've got my event information. I'm going to go process this credit card transaction completion or transaction failure or whatever it was.”
+
+<strong>CHUCK:  </strong>Yeah. And there are a lot of different scenarios that are flashing through my head with this, because I've just set up a subscription for Rails Clips.
+
+<strong>DERICK:  </strong>Right.
+
+<strong>CHUCK:  </strong>And so, yeah, this makes a lot sense because like you said, it prevents the forgery and stuff. But then on the other end, if it's, “Hey, we failed to collect payment,” then fire off an email and go queue up their account for cancellation.
+
+<strong>DERICK:  </strong>Exactly.
+
+<strong>CHUCK:  </strong>And this, and this, and this, and this. And then if I get another webhook that says, “Hey, they paid,” then it comes in and, “Were they queued up for failure?” and so, email them back and say, “You know what? Never mind.” And yeah, all of these different things. And I can create events for all of those and just say, “Hey, exchange. They paid.” [Chuckles]
+
+<strong>DERICK:  </strong>Right.
+
+<strong>CHUCK:  </strong>And then the exchange says, “Okay. These queues need to get notified so that the email goes and everything else.”
+
+<strong>DERICK:  </strong>Exactly. So, that's a great example of using RabbitMQ to facilitate a lot of complex logic. And you could run into trouble like we talked about before by having all of these decoupled processes. And so, it is important to have documentation and monitoring in place. But we're also getting into the realm of what's often called a 'saga' or a workflow, really, inside of a messaging system. And there's another interview that I did with Jimmy Bogard where we talk about sagas. And we talk about how this workflow is managed.
+
+And really, the example of McDonald's is another great example of a sage or workflow. You have that ticket, that receipt, that lists all of the things that need to be placed on this tray. And you have somebody sitting there checking off one at a time each item that was put onto the tray. And when all of the items have been checked off, that person hands the tray to you and your order is complete. That person is workflow management. They are managing a bunch of asynchronous processes in order to make sure that everything gets onto the tray and that the tray gets served up to you at the very end.
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>DERICK:  </strong>So, I've mentioned these interviews a number of times, with Aria and Jimmy and Udi. And all of these interviews are available in a package that I've put together called RabbitMQ for Developers. It's a giant package of screencasts and eBooks and these interviews. And it's got a lot of information packed into it. The RabbitMQ Patterns email course and eBook that I mentioned previously is also a part of this, along with another eBook that I called 'RabbitMQ Layout' which talks about the different exchange types and how you can use different exchange types in different scenarios and what the best scenarios are for the different exchange types so that you can use RabbitMQ effectively.
+
+<strong>CHUCK:  </strong>That's awesome. Where do people go to get that?
+
+<strong>DERICK:  </strong>Hit WatchMeCode.net/RMQforDevs. The number four or the word for, either way works. And by the way, if you do hit that page and you click that checkout button to buy it, enter in the discount code of JSJABBER and you'll get 20% off. The full package is $250. There's also a $50 and $150 tier. But the JSJABBER discount code will get you 20% off of any of those tiers of the package.
+
+<strong>CHUCK:  </strong>And that's case-sensitive?
+
+<strong>DERICK:  </strong>It might be. So, try it all lowercase letters just to be sure, rmq4devs, WatchMeCode.net/RMQforDevs.
+
+<strong>CHUCK: </strong> And the coupon code, is that case-sensitive?
+
+<strong>DERICK:  </strong>The coupon code is not case-sensitive, JSJABBER. All caps, lowercase, whatever.
+
+<strong>CHUCK:  </strong>No spaces?
+
+<strong>DERICK:  </strong>Nope, no spaces, just JSJABBER.
+
+<strong>CHUCK:  </strong>Okay. Alright, cool. Alright, well, let's go ahead and do picks.
+
+<strong>DERICK:  </strong>Sure.
+
+<strong>CHUCK:  </strong>AJ, do you want to start us off with picks?
+
+<strong>AJ:  </strong>Oh yeah, I do. I'm going to pick something very controversial to start off.
+
+<strong>DERICK:  </strong>Alright.
+
+<strong>AJ:  </strong>Very controversial.
+
+<strong>CHUCK:  </strong>Don't do it.
+
+<strong>AJ:  </strong>I'm going to pick W3Schools.
+
+<strong>CHUCK:  </strong>What?
+
+<strong>JAMISON:  </strong>Oooh.
+
+<strong>CHUCK:  </strong>Like, our whole audience is going, “Huh?” and not just because W3Schools but because AJ and W3Schools. AJ has ranted on this show.
+
+<strong>AJ:  </strong>Yeah. Okay, so that's the thing, right? Is years ago we hated W3Schools and there was the W3Fools website.
+
+And so, in the book 1984, I'm going to pick the book 1984 as well, there's the five-minute hate. And that's where everybody gets together and they just hate for five minutes. They hate their enemy so that all these people of, I forget what they called the name of their country or whatever, but like we used to have pledge of allegiance in school in the morning. Well, they get up and they do their five-minute hate of the enemy. And I think we kind of did this with W3Schools. We did this five-minute hate all the time where it's just a ritual. We got together like, “Oh, what about W3Schools?” “Oh, they suck, yeah. Haha.” Right? And at some point, W3Schools got better and MDN got a lot worse. So, I actually appreciate that when I'm googling for stuff, W3Schools comes up first. I click on it and it's got a really simple, relevant example right there that I can copy and paste or that I can share with a friend.
+
+Now, that said, I also will pick the edit button on the MDN page, because we can make MDN a lot better. And I think that we should. Because I think that MDN should be the portal that we want to bring people to because it's a wiki. It's open. It's developer-friendly. It's got all those positive ethos. But it's just not up to par right now. And so, I want to start a campaign to say, “Hey, let's make MDN better.” Because our last campaign didn't work so well. I mean, it did because we got the attention of W3Schools and they fixed up. But the last campaign was, “W3Schools sucks. Therefore, rant,” instead of, “W3Schools is placing first but MDN isn't, so let's make MDN better.” And I think we need to make MDN, the Mozilla Developer Network, we need to make that better.
+
+So, I got a little video that I'll put in the notes that shows exactly what I'm talking about in case you're not familiar.
+
+Also, I want to pick Golang. Golang is just awesome. And if you haven't been programming in Go and you've been programming in Node, take a peek at it. It's a really fun language. It's really intuitive. I say intuitive in the way that Apple is intuitive where if you're used to Windows and you go to Apple it's confusing because things are so simple and straightforward and you're like, you're so busy looking for menus and deep nested things to click on that you don't see what's right in front of you. Golang can kind of be like that, too.
+
+It's super intuitive from the perspective of somebody that's not used to hardcore development maybe. To somebody that's been a developer for a long time, when you first look at it, it's confusing because it does things at a much simpler and more elegant way without a lot of ceremony. Well, assuming you're outside of the JavaScript world, because in JavaScript there's not much ceremony. But it does things some people would call backwards, like defining types after the name rather than before and omitting types when you can imply them by assignment. So, there's a video I'll put in the notes that is 'Learn Go in 30 minutes' or maybe it was 60 minutes. But it's an excellent video.
+
+And then I'm also going to pick HackThe.computer. The competition will probably be over by the time this airs. But the website I think is still going to be up with the challenges and whatnot. They're like your basic homework assignments that you would get in college, except hard. So, there's a maze assignment and I thought, “Oh, that'll be easy,” because I'll just go and do a depth-first search and I'll find the exit to the maze and I'll win. But no. I had to go research algorithms that I didn't know about before and I've still only managed to pass two of the three tests. So, it's peaked my interest.
+
+This isn't just your average code contest kind of thing. It is generating buzz for the purpose of recruiting on... it's Space Monkey who's doing it. But it's actually legitimately interesting problems to solve and they don't give you an easy pass on them. And then I might link to a couple of the algorithms that I found when I was trying to complete the maze challenge which I still got to figure out the last little bit to master it. And yeah, that's that.
+
+<strong>CHUCK:  </strong>Alright.
+
+<strong>JAMISON:  </strong>August 24<sup>th</sup> to 25<sup>th</sup> in Salt Lake City, I'm running a conference called React Rally. It's at ReactRally.com. It's a React.js conference. We'll have people talking about React Native, Relay, GraphQL, Flux, all the cool technologies that React is bringing to the JavaScript community. I'd love to see you there. We're still selling tickets. So, if you go to ReactRally.com you can buy a ticket and come check out a great conference.
+
+My first pick is a talk called 'Web Design: The first 100 Years'. And the reason I liked it is because it spends the first half of the talk talking about airplanes, which are pretty cool, it turns out, and the technological advancements in the field of aviation. And how they tailed off after a while, how we went from not being able to fly to going supersonic in a pretty short amount of time. And then we went backwards. And it's comparing that to the evolution of technology and how Moore's Law has broken down basically. And now we're getting more cores. We're getting slower processors even. And how we can deal with that as programmers and designers.
+
+<strong>DERICK:  </strong>Nice.
+
+<strong>JAMISON:  </strong>I thought it was just really interesting.
+
+And my second pick is my favorite talk ever on functional programming. It's called 'Let's be mainstream! User-focused design in Elm'. We've mentioned Elm a little bit and I think we're going to talk to the Elm creator soon. But he just has some really interesting ideas on how to make purely functional, strongly-typed programming a lot more approachable to mainstream developers instead of this cabal of elite PhD nerds that require you to know stuff about Category Theory, which is pretty unfriendly if you just want to build websites. It's just a fantastic talk and it reflects my experiences in trying to learn some of the more esoteric functional programming languages. So, those are my picks.
+
+<strong>CHUCK: </strong> Yeah. So, real quick. The Elm episode will be coming out toward the end of August, just to give people a little more information. And we did talk to Evan Czaplicki who's the creator of Elm and Richard Feldman who's an enthusiast on Ruby Rogues. So, if you want to go check that out right now, you can do that, too.
+
+I am only going to pick one thing this week, and that is paracord. Paracord is this nylon. It's like a small rope. It's not braided. It's kind of woven. Some of it has patterns in it. Some of it doesn't. You can go look it up on Amazon if you want to go buy some. But I'm pretty involved in scouting. And at roundtable, we have a meeting after roundtable for the roundtable staff where we talk about what we're going to train on next time. So anyway, after roundtable, one of the staffers for his session, because we did a round robin session, he taught people how to tie a fob for their keychain. And that was fun. And so, he was teaching us how to do it afterward because we were all like, “Oh, I want one.” So, we did that and then he taught us how to tie a Turk's head knot which you can actually use as a neckerchief slide or you can tie bracelets with it and stuff like that. It's essentially a woven ring. And anyway, so that was way fun. And I'm really getting into it. So, it's just a nice thing to do with your hands while you're sitting and listening or doing something else. I've really, really gotten into it.
+
+I'm also going to pick, he had this really cool thing that you put a BIC lighter into. And then what you do is you push the button down and it's almost like a mini-blowtorch. And it's really convenient for melting the ends of the paracord, which you have to do after you're done tying your knot. So, I'll put a link to that in the show notes as well. And yeah, so mini-flamethrower and rope. Derick, what are your picks?
+
+<strong>DERICK:  </strong>So, I've got a number of things here that I wrote down, the first of which is I've been playing with ES6 or ES2015 which it's now called I guess. And the best resource by far that I've found for learning and playing with ES6 features is Dr. Axel Rauschmayer's 'Exploring ES6' eBook. You can get to it at ExploringJS.com. It's a phenomenal book, very well-written, very easy to understand, lots of good examples in there. And I've actually been using that to live-learn ES6 on my WatchMeCode.net subscription service. Along with ES6 you'll need a transpiler for current browsers and runtimes. And Babel.js is phenomenal at that.
+
+Next up is going to be a board game. I recently started playing the Small World board game. And it's just a ton of fun. If you've ever played Risk, it's kind of like Risk in that you have little countries and areas that you're trying to take over. But it's also got a dash of World of Warcraft in there in that you have all of these orcs and goblins and trolls and humans and things. And they are attacking each other. And it's a really fun game from two players on up to five or six players, I think. It's a lot of fun.
+
+After that, I'm going to get into my really geeky side and recommend some Star Wars stuff.
+
+<strong>CHUCK:  </strong>Woohoo!
+
+<strong>DERICK:  </strong>A couple of months ago, I read the Darth Bane trilogy of books and just absolutely loved them. There's an Amazon trilogy compilation of all three books in one that I read on my Kindle. And it was just phenomenally fun to read. I got through over a thousand pages of content in record time, like three weeks for me which is just an unheard of rate of me reading a book. Just phenomenally fun, great story, great character development. Hugely expansive universe that Star Wars is and they cover a lot of really cool stuff in there, a lot of things that I've always wondered about and questioned from the movies and from other things that I've seen and read. And this covers a lot of the stuff on why the Sith are the way that they are. And it's a really good read.
+
+And then to go along with the Lego infatuation that I currently have, I'm going to recommend the Lego Slave I Ultimate Collector Series, which is $200 I think. But it's 2,000 Lego pieces. And I recently built it after having obtained a set. And it was a phenomenally fun Lego set to build. The engineering in this thing is a freaking marvel. It is so solidly built. It's got some phenomenal features in it as well. It's a Lego set that is meant to be displayed but is so dang sturdy you can actually play with this thing. It's a really, really fun build to do if you're into Legos and Star Wars.
+
+<strong>CHUCK:  </strong>It's like they knew kids were going to have those Legos, right?
+
+<strong>DERICK:  </strong>Yeah, exactly. [Chuckles]
+
+<strong>CHUCK:  </strong>Alright well, one other question for you really quickly, and that is if people want to know what you're up to these days, or get any of your other products, how do they find that stuff?
+
+<strong>DERICK:  </strong>Best way to do that is at DerickBailey.com, D-E-R-I-C-K Bailey dot com. You can get to everything from there including a list of my products, all of my email courses, eBooks, videos that I do, my Twitter account. Everything will be linked from DerickBailey.com.
+
+<strong>CHUCK:  </strong>Yeah. And if you want to hear Derick and I talk every week, you can go to Entreprogrammers.com.
+
+<strong>DERICK:  </strong>Woohoo, Entreprogrammers. It's a phenomenal resource if you're an entrepreneur and developer like us. It's a weekly fly on the wall listen in on everything that we talk about in our support group.
+
+<strong>CHUCK: </strong>Yeah, I like that term, support group.
+
+<strong>DERICK:  </strong>Yeah, that's what it really is.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>DERICK:  </strong>We call it a mastermind group because that's the popular term for entrepreneurs, is to be in a mastermind. But honestly, it's a support group. I view it that way and I get a phenomenal amount of support out of that group.
+
+<strong>CHUCK:  </strong>Yeah, we get Derick to quit stuff.
+
+<strong>DERICK:  </strong>Yeah. It's fun. [Laughs]
+
+<strong>CHUCK:  </strong>Alright. Well, go leave us a review on iTunes. Thanks for listening and we'll catch you all next week.
+
+<strong><em>[This episode is sponsored by MadGlory. You’ve been building software for a long time and sometimes it’s get a little overwhelming. Work piles up, hiring sucks, and it’s hard to get projects out the door. Check out MadGlory. They’re a small shop with experience shipping big products. They’re smart, dedicated, will augment your team and work as hard as you do. Find them online at MadGlory.com or on Twitter @MadGlory.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] </em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]</em></strong>
+
+<strong><em>[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/jabber and there you can join discussions with the regular panelists and our guests.]</em></strong>

@@ -1,0 +1,118 @@
+---
+layout: layouts/post.njk
+title: >
+      RR 321: Visual Studio Code Ruby Plugin with Penn Lv
+date: 2017-08-01 04:00:07
+episode_number: 321
+duration: 57:42
+audio_url: https://media.devchat.tv//ruby-rogues/RR_321_Visual_Studio_Code_Ruby_Plugin_with_Penn_Lv_mixdown.mp3
+tags: ruby-rogues
+---
+
+<h2 style="text-align: center;">RR 321: Visual Studio Code Ruby Plugin with Penn Lv</h2>
+This episode of Ruby Rogues features panelists Dave Kimura, Brian Hogan, and Charles Max Wood. Two special guests join the panel today: Eric Barry and Penn Lv. Tune in and learn more about Visual Studio Code’s Ruby Plug-in!
+
+<strong>[00:01:55] Introduction to Eric Barry</strong>
+Eric turned over Teach Me To Code to Charles, which helped build relationships for Charles that built the Ruby Rogues podcast. Eric is a software engineer who has been working in programming since 1998. He works for Skipio and has been a Ruby on Rails developer for nine years.
+
+<strong>[00:03:15] Introduction to Penn Lv</strong>
+Penn is a software engineer for Redim. He works on the Ruby extension for Visual Studio Code. This extension deals with enhanced Ruby language support.
+
+<strong>[4:00] What goes into building a language plug-in/language setup for VS code, what do you have to do in order to make that work in the electron set-up?</strong>
+Usually when you try to build an extension for VS code it is just a NodeJS application. It has nothing to do with electrons; it is just a Node application. Everything is run in a separate process. Just about how to build an extension for VS code.
+
+The first category is formatters, or colorization. For both of those you can write plain JavaScript. There are two categories that are difficult: first is de-buggers. The VS code is a set of common UI for de-bugging. Which is language diagnostic. Write an extension and hook up language debug.
+
+The second is a language server to write language experience. VS code has a concept called language server protocol. Need to write an extension that follows protocol and tells the VS code about semantic information about your program.
+
+<strong>[00:06:25] – In order to get some of the nice features for the language you have a Ruby process running somewhere that you talk to in order to do some of the syntax checking?</strong>
+Yes, have to run that in a stand-alone process. It analyzes Ruby, but it can’t run that in Node JS process.
+
+<strong>[00:06:52] So what’s the goal? What makes the VS code team write a Ruby program?</strong>
+Ruby for VS Code was his ticket to the VS code team. Penn wrote for himself. It is his hobby project.
+
+<strong>[00:07:32] How many contributors are on the project? Who works with you?</strong>
+It is a community project. There are probably in between 50 to 100 contributors.
+
+<strong>[00:08:33] What’s your process of knowing what to allow and what not to allow to modify it? How do you know what PRS to accept and how do you stay on top of it?</strong>
+It is challenging to know what to allow. Penn claims to still not be a professional Rubyist. The first step is to run test cases. His way of reviewing code is by downloading the code. He looks into every piece of the code, learns it, and plays around it. If it works, he adds it.
+
+<strong>[00:10:23] How main PRs do you regularly get and how much time does it take to keep that maintained?</strong>
+Every weekend he goes through everything. He will have maybe five to six VS code extensions and check them thoroughly.
+
+<strong>[00:13:30] Indentation when blogging in VS code</strong>
+Two months ago he finished a feature dealing with auto indentation. The option for this is called editor.autoindent. Indentation gets adjusted automatically while you type.
+
+<strong>[00:18:10] Recommendations for plug-ins</strong>
+Charles recommends Emacs key bindings and Penn recommends the VS code extension Vim.
+
+<strong>[00:21:49] Do you do most of your work in TypeScript?</strong>
+Yes. At the very beginning they were using JavaScript. They were one of the first adopters of TypeScript and are now all TypeScript.
+
+<strong>[00:22:50] How much of a commitment would it be to add TypeScript to an existing project?</strong>
+The setup of TypeScript is not easy. If you are using a NodeJS application and they have TypeScript or typing support there is no specific thing that needs to be done to make it happen. In VS code there is a feature called automatic type acquisition. If creating a new project that uses an express package, which already has a typing file for it. VS code provides you with auto complete. Also don’t need to worry about typescript file if you are not going to create a library. Can do TypeScript gradually.
+
+<strong>[00:26:16] What do you see that’s left to do in the Ruby plug-in?</strong>
+A language server is the missing part.
+
+<strong>[00:27:35] Is that currently being done in other editors?</strong>
+No one does that right now. RubyMine has the best support currently.
+
+<strong>[00:28:13] Does your work translate to Atom as well?</strong>
+Atom has basic support for Ruby but it is just about colorization, indentation, and formatters. Everyone is waiting for a language server for Ruby.
+
+<strong>[00:31:38] If you have multiple languages or modes that you have to handle within the same file how do you set up VS code to handle that?</strong>
+Users cannot customize that. A language support extension has to handle that.
+
+<strong>[00:34:50] What is the font that you use in VS code?</strong>
+Source code pro
+
+<strong>[00:35:08] If people want to give this a try, what are the best ways to do that?</strong>
+First go to <a href="http://code.visualstudio.com">code.visualstudio.com</a>. Then, install VS code. At the welcome page instructions will show you how to use the command palate, give you an interactive playground, and show the best place to get familiar with everything. The welcome page also has links: one is VS tips and tricks, which are shared by the community. There is a Youtube channel, which shows how to make VS Code productive.
+
+<strong>[00:36:32] If someone is working on an esoteric language and there is no support in there language in VS code yet. Where would you recommend they start?</strong>
+There is a docs session on the website that tells you how to write extensions for VS Code. Penn thinks if you build a debugger it is most difficult. There needs to be an understanding of real debuggers. Look at some of existing debugger, understand how they read source code, get an understanding from there.
+
+<strong>[00:38:22] Was there an extension that you used as a model while writing the Ruby extension for VS code that you recommend people look at?</strong>
+First looked at Python. Then switched to PHP, which is pretty similar to the Ruby extension. The protocol is very similar. That’s how he learned to make the Ruby extension.
+
+<strong>[00:40:58] If people want to contribute, is there a GitHub they can go look at?</strong>
+The organization name is Ruby IDE and GitHub name is vscode-ruby. There is a Wiki Page on how to setup and explain concepts behind everything.
+
+<strong>[00:41:22] How long did it take you to get the plug-in till it was publicly useable?</strong>
+A couple of hours. He was at his girlfriend’s parent’s house bored, got a job with VS code because of it.
+
+<strong>[00:44:40] What’s your biggest sales pitch for VS code?</strong>
+Compared to some of competitors, VS code is fast. The best part of VS code is that it is open source. Everything is on GitHub, including issues and user feedback. Users know every issue that is being worked out. All information is open to users. Can file an issue and they will respond immediately.
+
+<strong>[00:47:00] Are there plug-ins for other languages?</strong>
+There is an elm plug-in.
+<h4>Picks</h4>
+<strong>Dave</strong>:
+<ul>
+ 	<li><a href="https://azure.microsoft.com/en-us/services/cognitive-services/">Azure’s cognitive services</a></li>
+</ul>
+<strong>Brian</strong>:
+<ul>
+ 	<li><a href="https://www.omnigroup.com/omnifocus">OmniFocus</a></li>
+</ul>
+<strong>Eric</strong>:
+<ul>
+ 	<li><a href="https://gohugo.io/">Hugo</a></li>
+ 	<li><a href="https://www.netlify.com/">Netlify</a></li>
+ 	<li><a href="http://www.codesponsor.io">Code Sponsor</a></li>
+</ul>
+<strong>Charles</strong>:
+<ul>
+ 	<li>Building stairs</li>
+ 	<li><a href="http://www.upwork.com">Upwork</a></li>
+</ul>
+<strong>Penn</strong>:
+<ul>
+ 	<li><a href="http://sam.cat-v.org/">The Text Editor Sam by Rob Pike</a></li>
+ 	<li><a href="http://rubyweekly.com/">Ruby Weekly</a></li>
+</ul>
+
+<h3>Transcript</h3>
+
+
