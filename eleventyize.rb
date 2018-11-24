@@ -36,6 +36,7 @@ date: #{date.strftime("%Y-%m-%d %H:%M:%S")}
 episode_number: #{meta['episode_number']}
 duration: #{meta['duration']}
 audio_url: #{meta['audio_url']}
+podcast: #{post_type}
 tags: 
   - #{post_type}
   - podcast
