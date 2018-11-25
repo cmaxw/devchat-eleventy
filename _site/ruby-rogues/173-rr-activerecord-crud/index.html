@@ -1,0 +1,2254 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Basic Page Needs =====================================-->
+	<meta charset="utf-8">
+
+	<!-- Mobile Specific Metas ================================-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Site Title- -->
+	<title>173 RR ActiveRecord CRUD
+ - Ruby Rogues</title>
+
+	<!-- CSS
+   ==================================================== -->
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/animate.css">
+
+	<!-- IcoFonts -->
+	<link rel="stylesheet" href="/css/icofonts.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="/css/owlcarousel.min.css">
+
+	<!-- slick -->
+	<link rel="stylesheet" href="/css/slick.css">
+
+
+
+	<!-- navigation -->
+	<link rel="stylesheet" href="/css/navigation.css">
+
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="/css/magnific-popup.css">
+
+
+
+
+	<!-- Style -->
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="stylesheet" href="/css/colors/color-2.css">
+
+	<!-- Responsive -->
+	<link rel="stylesheet" href="/css/responsive.css">
+
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+	<div class="body-inner-content">
+		<!-- top bar start -->
+		<section class="top-bar v4">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 align-self-center">
+						<div class="ts-breaking-news clearfix">
+							<h2 class="breaking-title float-left">
+								<i class="fa fa-bolt"></i> Our Latest Episodes :</h2>
+							<div class="breaking-news-content float-left" id="breaking_slider1">
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end col-->
+
+					<div class="col-md-4 align-self-center">
+						<div class="text-right xs-left">
+							<div class="ts-date-item">
+								<i class="fa fa-clock-o"></i> Sunday, August 24</div>
+						</div>
+
+					</div>
+					<!--end col -->
+
+
+				</div>
+				<!-- end row -->
+			</div>
+		</section>
+		<!-- end top bar-->
+
+		<!-- ad banner start -->
+		<section class="header-middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 align-self-center">
+						<div class="header-logo">
+							<a href="/">
+								<img src="/images/logo/logo-web-small.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<div class="col-md-8 align-self-center">
+						<div class="banner-imgr">
+							<a href="index.html">
+								<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<!-- col end -->
+				</div>
+				<!-- row  end -->
+			</div>
+			<!-- container end -->
+		</section>
+
+		<!-- header nav start-->
+		<header class="header-standerd">
+			<div class="container">
+				<div class="row">
+
+					<!-- logo end-->
+					<div class="col-lg-12">
+						<!--nav top end-->
+						<nav class="navigation ts-main-menu navigation-landscape">
+							<div class="nav-header">
+								<a class="nav-brand mobile-logo visible-xs" href="index.html">
+									<!-- <img src="/images/footer_logo.png" alt=""> -->
+								</a>
+								<div class="nav-toggle"></div>
+							</div>
+							<!--nav brand end-->
+
+							<div class="nav-menus-wrapper clearfix">
+								<!--nav right menu start-->
+								<ul class="right-menu align-to-right">
+									<li class="header-search">
+										<div class="nav-search">
+											<div class="nav-search-button">
+												<i class="icon icon-search"></i>
+											</div>
+											<form>
+												<span class="nav-search-close-button" tabindex="0">✕</span>
+												<div class="nav-search-inner">
+													<input type="search" name="search" placeholder="Type and hit ENTER">
+												</div>
+											</form>
+										</div>
+									</li>
+								</ul>
+								<!--nav right menu end-->
+
+								<!-- nav menu start-->
+								<ul class="nav-menu">
+									<li class="active">
+										<a href="#">Podcasts</a>
+										<div class="megamenu-panel ts-mega-menu">
+											<div class="megamenu-lists">
+												<ul class="megamenu-list list-col-2">
+													<li class="active">
+														<a href="/js-jabber">JavaScript Jabber</a>
+													</li>
+													<li>
+														<a href="/ruby-rogues">Ruby Rogues</a>
+													</li>
+													<li>
+														<a href="/adv-in-angular">Adventures in Angular</a>
+													</li>
+													<li>
+														<a href="/my-javascript-story">My JavaScript Story</a>
+													</li>
+													<li>
+														<a href="/my-ruby-story">My Ruby Story</a>
+													</li>
+													<li>
+														<a href="/my-angular-story">My Angular Story</a>
+													</li>
+													<li>
+														<a href="/react-native-radio">React Native Radio</a>
+													</li>
+													<li>
+														<a href="/react-round-up">React Round Up</a>
+													</li>
+													<li>
+														<a href="/views-on-vue">Views on Vue</a>
+													</li>
+													<li>
+														<a href="/freelancers">The Freelancers' Show</a>
+													</li>
+													<li>
+														<a href="/iphreaks">iPhreaks</a>
+													</li>
+													<li>
+														<a href="/elixir-mix">Elixir Mix</a>
+													</li>
+													<li>
+														<a href="/the-dev-rev">The Dev Rev</a>
+													</li>
+												</ul>
+												<ul class="megamenu-list list-col-2">
+                                                    <li>
+                                                        <a href="#"><strong>Retired Shows</strong></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/tmtc-screencasts">Teach Me To Code Screencasts</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/teachmetocode">Teach Me To Code Podcast</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/rails-clips">Rails Clips</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/web-sec-warriors">Web Security Warriors</a>
+                                                    </li>
+                                                </ul>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#">Lifestyle</a>
+										<div class="megamenu-panel">
+											<div class="megamenu-tabs">
+												<ul class="megamenu-tabs-nav">
+													<li class="active">
+														<a href="#">Health</a>
+													</li>
+													<li>
+														<a href="#">Food</a>
+													</li>
+													<li>
+														<a href="#">Fashion</a>
+													</li>
+													<li>
+														<a href="#">Travel</a>
+													</li>
+												</ul>
+												<div class="megamenu-tabs-pane active">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Can't shed those Gym? The problem might be in</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Smart packs parking sensor tech and beeps</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Deleting fears from the brain means you might never</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel4.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+	
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-1.html">Technology</a>
+									</li>
+									<li>
+										<a href="#">Video</a>
+										<div class="megamenu-panel">
+											<div class="row">
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech4.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-2.html">Travel</a>
+									</li>
+									<li>
+										<a href="#">Features</a>
+										<ul class="nav-dropdown">
+											<li>
+												<a href="#">Category layout</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="category-1.html">Category layout 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-2.html">Category layout 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="category-3.html">Category layout 3</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-4.html">Category layout 4</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-5.html">Category layout 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-6.html">Category layout 6</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Posts Formate</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="single-post-1.html">Single Post 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-2.html">Single Post 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-3.html">Single Post 3 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-4.html">Single Post 4 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-5.html">Single Post 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-6.html">Single Post 6</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-7.html">Single Post 7</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-8.html">Single Post 8</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-9.html">Single Post 9</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-10.html">Single Post 10</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Pages</a>
+												<ul class="nav-dropdown">
+													<li>
+														<a href="author.html">Author</a>
+													</li>
+													<li>
+														<a href="404.html">404 </a>
+													</li>
+	
+												</ul>
+											</li>
+										</ul>
+									</li>
+	
+								</ul>
+								<!--nav menu end-->
+							</div>
+						</nav>
+						<!-- nav end-->
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- header nav end-->
+
+        
+	<!-- single post start -->
+	<section class="single-post-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<ol class="breadcrumb">
+						<li>
+							<a href="/">
+								<i class="fa fa-home"></i>
+								Home
+							</a>
+						</li>
+						<li>
+							<a href="/ruby-rogues">Ruby Rogues</a>
+						</li>
+						<li>Travel</li>
+					</ol>
+					<!-- breadcump end-->
+					<div class="ts-grid-box content-wrapper single-post">
+						<div class="entry-header">
+							<h2 class="post-title lg">Swiss authorities say Uber drivers should treated as employees</h2>
+							<ul class="post-meta-info">
+								<li>
+									<a href="#" class="post-cat ts-yellow-bg">Travel</a>
+								</li>
+								<li class="author">
+									<a href="#">
+										<img src="/images/avater/author.png" alt=""> Donald Ramos
+									</a>
+								</li>
+								<li>
+									<i class="fa fa-clock-o"></i>
+									March 21, 2019
+								</li>
+								<li class="active">
+									<i class="icon-fire"></i>
+									3,005
+								</li>
+								<li class="share-post">
+									<a href="#">
+										<i class="fa fa-share"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- single post header end-->
+						<div class="post-content-area">
+							<div class="post-media post-featured-image">
+								<a href="/images/news/travel/travel2.jpg" class="gallery-popup">
+									<img src="/images/news/travel/travel2.jpg" class="img-fluid" alt="">
+								</a>
+							</div>
+							<div class="entry-content">
+								
+02:44 - Eileen Uchitelle Introduction
+<ul>
+ 	<li><a href="https://twitter.com/eileencodes" data-cke-saved-href="https://twitter.com/eileencodes">twitter</a></li>
+ 	<li><a href="https://github.com/eileencodes" data-cke-saved-href="https://github.com/eileencodes">github</a></li>
+ 	<li><a href="http://www.eileencodes.com/" data-cke-saved-href="http://www.eileencodes.com/">blog</a></li>
+ 	<li><a href="http://phishme.com/" data-cke-saved-href="http://phishme.com/">PhishMe</a></li>
+ 	<li><a href="http://api.rubyonrails.org/classes/ActiveRecord/Batches.html" data-cke-saved-href="http://api.rubyonrails.org/classes/ActiveRecord/Batches.html">ActiveRecord::Batches</a></li>
+</ul>
+03:23 - <a href="http://en.wikipedia.org/wiki/Phishing" data-cke-saved-href="http://en.wikipedia.org/wiki/Phishing">Phishing</a>
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/Gray_box_testing" data-cke-saved-href="http://en.wikipedia.org/wiki/Gray_box_testing">Gray Map Testing (Gray Box)</a></li>
+ 	<li><a href="http://en.wikipedia.org/wiki/Penetration_test" data-cke-saved-href="http://en.wikipedia.org/wiki/Penetration_test">Penetration Testing (Pen Testing)</a></li>
+</ul>
+05:43 - Incorporating Data
+<ul>
+ 	<li><a href="http://confreaks.com/videos/3286-mwrc-crud-the-consequences-of-not-understanding-how-activerecord-translates-into-mysql" data-cke-saved-href="http://confreaks.com/videos/3286-mwrc-crud-the-consequences-of-not-understanding-how-activerecord-translates-into-mysql">[Talk] Eileen Uchitelle: CRUD! The Consequences of Not Understanding How ActiveRecord Translates into MySQL</a></li>
+ 	<li><a href="https://speakerdeck.com/eileencodes/crud-what-to-do-when-active-record-mysql-and-your-data-betray-you" data-cke-saved-href="https://speakerdeck.com/eileencodes/crud-what-to-do-when-active-record-mysql-and-your-data-betray-you">[Slides] Eileen Uchitelle: CRUD! The Consequences of Not Understanding How ActiveRecord Translates into MySQL</a></li>
+</ul>
+09:37 - Deleting
+<ul>
+ 	<li>contact.destroyall</li>
+ 	<li>“find_each” and "delete_all"</li>
+ 	<li><a href="http://railsapps.github.io/updating-rails.html" data-cke-saved-href="http://railsapps.github.io/updating-rails.html">Rails 4.2</a></li>
+ 	<li><a href="http://en.wikipedia.org/wiki/Code_smell" data-cke-saved-href="http://en.wikipedia.org/wiki/Code_smell">“Code Smell”</a></li>
+ 	<li><a href="http://stackoverflow.com/questions/3335196/clojure-vs-ruby" data-cke-saved-href="http://stackoverflow.com/questions/3335196/clojure-vs-ruby">Clojure vs. Ruby</a>
+<ul>
+ 	<li><a href="https://www.ruby-lang.org/en/" data-cke-saved-href="https://www.ruby-lang.org/en/">Ruby</a></li>
+ 	<li><a href="http://clojure.org/" data-cke-saved-href="http://clojure.org">Clojure</a></li>
+</ul>
+</li>
+ 	<li>table.all</li>
+ 	<li>.WHERE</li>
+ 	<li><a href="http://en.wikipedia.org/wiki/Legacy_system" data-cke-saved-href="http://en.wikipedia.org/wiki/Legacy_system">Legacy</a></li>
+</ul>
+19:20 - Creating
+<ul>
+ 	<li><a href="https://github.com/smangelsdorf/batch_insert" data-cke-saved-href="https://github.com/smangelsdorf/batch_insert">batch insert</a></li>
+ 	<li><a href="http://www.bigrubyconf.com/" data-cke-saved-href="http://www.bigrubyconf.com">Big Ruby Conf</a>
+<ul>
+ 	<li><a href="http://www.bigrubyconf.com/#schedule" data-cke-saved-href="http://www.bigrubyconf.com/#schedule">Schedule - Eileen’s Workshop</a></li>
+</ul>
+</li>
+</ul>
+23:14 - Reading
+<ul>
+ 	<li><a href="http://apidock.com/rails/ActiveRecord/Batches/ClassMethods/find_each" data-cke-saved-href="http://apidock.com/rails/ActiveRecord/Batches/ClassMethods/find_each">find_each</a>
+<ul>
+ 	<li><a href="http://apidock.com/rails/String/encoding_aware%3F" data-cke-saved-href="http://apidock.com/rails/String/encoding_aware%3F">aware</a></li>
+</ul>
+</li>
+ 	<li><a href="http://apidock.com/rails/ActiveRecord/Calculations/pluck" data-cke-saved-href="http://apidock.com/rails/ActiveRecord/Calculations/pluck">pluck</a></li>
+ 	<li><a href="http://apidock.com/rails/ActiveRecord/Base/update_attribute" data-cke-saved-href="http://apidock.com/rails/ActiveRecord/Base/update_attribute">update_attribute</a></li>
+</ul>
+30:25 - ActiveRecord with SQL
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/SQL" data-cke-saved-href="http://en.wikipedia.org/wiki/SQL">SQL</a></li>
+ 	<li><a href="http://api.rubyonrails.org/classes/ActiveRecord/Relation.html" data-cke-saved-href="http://api.rubyonrails.org/classes/ActiveRecord/Relation.html">ActiveRecord::Relation</a>
+<ul>
+ 	<li><a href="http://apidock.com/rails/v4.0.2/ActiveRecord/Relation/to_sql" data-cke-saved-href="http://apidock.com/rails/v4.0.2/ActiveRecord/Relation/to_sql">to_sql</a></li>
+</ul>
+</li>
+</ul>
+34:26 - Problem - Finding Tools
+<ul>
+ 	<li><a href="http://rubygems.org/gems/bullet" data-cke-saved-href="http://rubygems.org/gems/bullet">bullet gem</a></li>
+ 	<li><a href="https://github.com/MiniProfiler/rack-mini-profiler" data-cke-saved-href="https://github.com/MiniProfiler/rack-mini-profiler">rack-mini-profiler</a></li>
+ 	<li><a href="http://newrelic.com/" data-cke-saved-href="http://newrelic.com">New Relic</a></li>
+ 	<li><a href="https://github.com/pinnacol/data_graph" data-cke-saved-href="https://github.com/pinnacol/data_graph">eager loading</a></li>
+ 	<li><a href="http://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=020161622X&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=XSKNYU2TY6EEEAHZ" data-cke-saved-href="http://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=020161622X&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=XSKNYU2TY6EEEAHZ">The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas</a></li>
+</ul>
+41:35 - Teaching ActiveRecord 45:08 - Other Features of ActiveRecord with SQL (Lower Level)
+<ul>
+ 	<li><a href="https://github.com/walf443/php-sql-maker-insert_multi" data-cke-saved-href="https://github.com/walf443/php-sql-maker-insert_multi">multi-insert</a></li>
+</ul>
+47:25 - Domain Models and Optimizations
+<ul>
+ 	<li><a href="http://api.rubyonrails.org/classes/ActiveModel.html" data-cke-saved-href="http://api.rubyonrails.org/classes/ActiveModel.html">ActiveModel</a></li>
+ 	<li><a href="http://redis.io/" data-cke-saved-href="http://redis.io">redis</a></li>
+</ul>
+<h3>Book Club</h3>
+<p dir="ltr"><a href="http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321984137&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=WPGL6ZIINZQSHTFT" data-cke-saved-href="http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321984137&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=WPGL6ZIINZQSHTFT">Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck</a></p>
+<a href="http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B002TIOYVM&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=YMP7XASM5JBW7UE6" data-cke-saved-href="http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B002TIOYVM&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=YMP7XASM5JBW7UE6">Refactoring in Ruby by William C. Wake and Kevin Rutherford</a>
+<h3>Next Week</h3>
+Rubygems with Eric Hodel
+
+<h3>Transcript</h3>
+
+<strong>DAVID:  </strong>I have been conducting a scientific experiment on myself. And…
+
+<strong>JAMES:  </strong>To see how quickly it would take one of us to get to the desire to strangle you? Or what?
+
+<strong>DAVID:  </strong>No, no.
+
+[Laughter]
+
+<strong><em>[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]</em></strong>
+
+<strong><em>[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]</em></strong>
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally, if you’re not looking for a job and know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept a job. Go sign up at Hired.com/RubyRoguesPodcast.]</em></strong>
+
+<strong><em>[Snap is a hosted CI and continuous delivery that is simple and intuitive. Snap’s deployment pipelines deliver fast feedback and can push healthy builds to multiple environments automatically or on demand. Snap integrates deeply with GitHub and has great support for different languages, data stores, and testing frameworks. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many more. Try Snap for free. Sign up at SnapCI.com/RubyRogues.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 173 of the Ruby Rogues Podcast. This week on our panel, we have Avdi Grimm.
+
+<strong>AVDI:  </strong>Hello from Pennsylvania.
+
+<strong>CHUCK:  </strong>James Edward Gray.
+
+<strong>JAMES:  </strong>I can’t talk that fast.
+
+<strong>CHUCK:  </strong>David Brady.
+
+<strong>DAVID:  </strong>Every cloud has some silver wiring.
+
+<strong>CHUCK: </strong>I’m Charles Max Wood. And this week, we have a special guest, Eileen Uchitelle.
+
+<strong>EILEEN:  </strong>Hi everybody.
+
+<strong>CHUCK:  </strong>Do you want to introduce yourself really quickly?
+
+<strong>EILEEN:  </strong>Sure. I’m Eileen Uchitelle. I live in upstate New York. I’m the lead developer at PhishMe. PhishMe provides simple solutions that help our customers educate their workforce about phishing by sending simulated spear phishing attacks. And I learned a lot of the Active Record tricks from working on our massive amounts of data that we have, and breaking the server.
+
+<strong>JAMES:  </strong>Eileen, you have to retell your phishing joke here, because it was just, cracked me up in the talk.
+
+<strong>EILEEN:  </strong>Okay. Everyone should know what phishing is, but if you don’t, shoot me an email and I’ll send you some links to click on.
+
+[Laughter]
+
+<strong>JAMES:  </strong>That’s so great.
+
+<strong>CHUCK:  </strong>Yeah. I have a minor objection to what PhishMe does. But I guess if you have people in your company who will click those links, you need to know who they are. It just feels a little bit like, “We’re going to see if we can trick you.”
+
+<strong>EILEEN:  </strong>Well, it’s not about tricking. It’s about educating.
+
+<strong>CHUCK:  </strong>Yeah. I understand. I just…
+
+<strong>EILEEN:  </strong>Because your weakest link is going to be your employees. You could have all of the infrastructure you want to keep hackers out. But if somebody gets the credentials from a user through an email that they entered their username and password to the internet system, it’s all over.
+
+<strong>DAVID:  </strong>I love the fact that we’re barely a minute into the call and you have already said something very, very cynical about phishing and workplace security. And that is, how did you put it? Sorting through loads and loads and loads of data.
+
+<strong>JAMES:  </strong>[Chuckles]
+
+<strong>DAVID:  </strong>I’m guessing that’s data on people who clicked on links.
+
+<strong>EILEEN:  </strong>Not just that. Mostly yeah, though.
+
+<strong>DAVID:  </strong>Okay. Okay. Mostly though. [Chuckles]
+
+<strong>EILEEN:  </strong>There’s data on how many, [chuckles] on who we send emails to.
+
+<strong>DAVID:  </strong>Oh, okay. That’s fair.
+
+<strong>EILEEN:  </strong>Yeah.
+
+<strong>DAVID:  </strong>So, it’s not just who’s dumb, but also…
+
+<strong>EILEEN:  </strong>Who’s not.
+
+<strong>DAVID:  </strong>Who’s not. Yeah, okay.
+
+<strong>EILEEN:  </strong>Yeah.
+
+<strong>DAVID:  </strong>That’s better. I would feel cynically vindicated if you had data on who’s dumb and who’s how dumb. But if you’ve got the big data on who’s not, then it makes me feel a little bit better.
+
+<strong>CHUCK:  </strong>Well, and they’ve got data on who wants cheap drugs.
+
+<strong>DAVID:  </strong>Yeah.
+
+[Laughter]
+
+<strong>DAVID:  </strong>Oh, Eileen, did you get my email about the Cialis? I wanted to talk with you about that.
+
+[Laughter]
+
+<strong>DAVID:  </strong>For a friend.
+
+<strong>JAMES:  </strong>Save that for after the show.
+
+<strong>EILEEN:  </strong>For a friend.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>EILEEN:  </strong>Is that you who’s been sending me all of those scam emails on my Gmail account? [Chuckles]
+
+<strong>DAVID:  </strong>It depends. Was it you that emptied out my credit card this morning?
+
+[Chuckles]
+
+<strong>EILEEN:  </strong>Maybe.
+
+[Laughter]
+
+<strong>JAMES:  </strong>We have a loving relationship here with our guests.
+
+<strong>DAVID:  </strong>That’s right, that’s right. I actually think the idea of gray hat and penetration testing is brilliant. I think it’s absolutely genius.
+
+<strong>EILEEN:  </strong>Although we don’t do [inaudible] pen testing.
+
+<strong>DAVID:  </strong>In a way, isn’t it though? Aren’t you basically doing pen te-, well okay, pen testing is an actual thing. [Inaudible]
+
+<strong>EILEEN:  </strong>Pen testing that you meant [chuckles].
+
+<strong>DAVID:  </strong>Yeah, and that’s what I mean, is metaphorically or alle-, meta-, it is metaphorically. You’re pen testing the human link in an organization.
+
+<strong>EILEEN:  </strong>Yup.
+
+<strong>JAMES:  </strong>But the human link is always the strongest.
+
+[Laughter]
+
+<strong>JAMES:  </strong>Okay. So Eileen, you have all this data, massive amounts of data, and what you learned is that Active Record can or cannot handle it?
+
+<strong>EILEEN:  </strong>It can handle it. You just have to know how to, a lot of times the things that you learn first in Active Record are maybe not the best for lots of data. So, if you’re using destroy_all, you’re not going to want to do that on 300,000 records because you’re going to have a bad day.
+
+<strong>JAMES:  </strong>[Laughs]
+
+<strong>DAVID:  </strong>Well, you’re going to have a long day.
+
+<strong>EILEEN:  </strong>Yeah, especially if you have callbacks. Although if you have callbacks, then you need the destroy_all, maybe. But a lot of it was ways around that. So, sometimes if you need to delete a record, 300,000 records that also have 300,000 related records, it’s better to just delete those two separately with a delete_all. So, it deletes them all at once without having to instantiate each object and fire callbacks just to delete its associated record.
+
+<strong>JAMES:  </strong>Yeah, but that example in your talk got pretty twisty. And I confess that even I wasn’t aware of all the depths of it, I think, because I’ve just never tried it on a has_many :through or something. And that got pretty twisty, although I see that there’ve been some patches to try to clean that up in Rails.
+
+<strong>EILEEN:  </strong>Yeah. It’s still really confusing. Every time I have to talk about it, I have to back out, especially with has_many versus has_many :through, the default dependency, because if you don’t set a dependency it defaults to one of them, but they’re different. So, has_many :through defaults to nullify. So, it just updates all of the foreign id’s to null instead of deleting them. So, they’re still in your database. And then if it’s a has_many, the default is delete_all, so it deletes them. So, they’re not even the same. You’d have to constantly be sorting it out. And I think that’s why a lot of people end up just using destroy, try and see if destroy would destroy all.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>EILEEN: </strong> Because you know how that works. It ignores, destroy_all ignores the dependency, which I don’t think it used to. [Chuckles]
+
+<strong>DAVID:  </strong>I have to confess Eileen, after watching your talk I got into a situation where we had a very elaborate data structure set up. We had some, for the sake of illustration, this was not the data model that we had but for the sake of illustration, we had meals. And meals had many foods in them. And each food had many nutrition amounts. So basically, you could take a meal and determine calories and carbs and all that stuff, right? And so, you’ve got thousands and thousands, in this case we had hundreds of thousands of records where you had this double dependency. It was like a delete_all on this child but the children were going to delete_all on their grandchildren. And so, by deleting out a couple of hundred thousand records, you were actually deleting out 10 million records in the database.
+
+And I walked through this with somebody and it ended up touching four or five tables. And this was after watching your talk. And I walked my pair through, “It’s going to delete this. It’s going to delete this. It’s going to delete this.” And I’m like, “Okay, to do this by hand and do it correctly, safely, we’re going to have to write this triple left join SQL statement. So, you know what? Eileen says this is a bad idea because it will take a long time. Let’s just let Rails do it and let’s go watch Eileen’s talk while it’s doing it.” And [chuckles] we did. We went and we just picked the objects and said destroy.
+
+So, we made exactly the call that you warned us about, but this is the beauty of it. We made it with the knowledge that you had given us where we walk in going, “This is going to take a long time but it’s going to do it right, because it’s going to do it all in an object-oriented fashion rather than hoping that we get all the SQL gears lined up to make the one-punch delete go quickly.” And I thought it was an interesting rehearsal of your talk. And I think we did it for the right reason. And it only took an hour. So, we went and worked on something else while the database was locked up.
+
+<strong>EILEEN:  </strong>Only an hour.
+
+[Chuckles]
+
+<strong>JAMES:  </strong>Only an hour, yeah.
+
+<strong>DAVID:  </strong>We lucked out. We lucked out.
+
+<strong>JAMES:  </strong>So, just to maybe clarify for our listeners what the differences is here a little bit, Active Record models have classable methods called destroy_all and delete_all. On just the basic use case, so if you did contact.destroy_all, you would instantiate all those contact objects and call destroy on them, which means that callbacks would be honored and dependencies would be destroyed, et cetera.
+
+<strong>DAVID:  </strong>Right.
+
+<strong>JAMES:  </strong>Whereas if you called delete_all, it would just run a delete database query that would wipe out those records.
+
+<strong>DAVID:  </strong>Right.
+
+<strong>JAMES:  </strong>So, without having to instantiate a million objects and stuff. So, faster but you don’t get the callbacks and the dependency management.
+
+<strong>DAVID:  </strong>Right.
+
+<strong>JAMES:  </strong>And the part we’ve been discussing a little bit is that it gets quite twisty when you’re doing something like contacts.addresses.destroy_all or delete_all to the point where I think I would almost recommend not going that way. And I think that’s pretty much the way Eileen gave it in her talk. She showed you just use a simple where clause to scope to what you actually want and call it on that, because it’s safer.
+
+<strong>EILEEN:  </strong>Yeah, and especially if you’re looking for speed. But the newest version of Rails 4.2 actually fixes that. At one point, delete_all on a relationship would create an in statement that would take 130 seconds if you were deleting 10,000 records, and that’s on my machine. Everyone’s machine would be a little bit different. But still, it’s a long time. And that’s actually fixed in Rails 4.2. So, it just does a simple delete statement as if you were doing contacts.where and doing a delete on a scoped version of it.
+
+<strong>DAVID:  </strong>Yeah. To clarify James, what you said earlier, you mentioned that this instantiates the objects. Just for anybody that’s not familiar, the two Ruby programmers out there that haven’t actually played with Rails, instantiating an Active Record object doesn’t just mean using up the memory. It means reading the record in from the database. So, you’re talking over the wire and you’re wasting a lot of time in addition to memory. I’m sorry to be pedantic and nitpicky. But I wanted to clarify that we’re not just wasting memory here. When you say destroy, you’re actually beginning with a load. And yeah, you’re just behind the [eight ball] to begin with.
+
+<strong>JAMES:  </strong>I actually feel like I wish destroy_all was implemented as find_each and then eaching over that batch and calling destroy. In fact, I find myself wishing that about most “all” things in Rails. Now, delete_all would be an exception. When I call delete_all I expect it to go to the database and handle it under the hood in one query or whatever. But I almost always find that anywhere I see the use of the word all in a Rails program, it’s probably a code smell. And that generally, it should be rewritten to use find_each, if only for the reason of not locking up the database while it’s doing whatever it’s going to do. I don’t know. What does everyone even think about that?
+
+<strong>CHUCK:  </strong>I use all, but I haven’t… most of the time there aren’t enough records for it to really go and lock up for a long time. It’s usually one or two things that it generates over time that it has a lot to it. And those ones yeah, you don’t want to lock up the database on those.
+
+<strong>EILEEN:  </strong>Yeah. A lot of my examples actually came from I built an entire year’s worth of sample data for PhishMe as if a client had had an entire year’s worth of sending scenarios to all of their employees. And that was for our sales staff so they could actually interact with real data. And it looked real and it looked like how a company’s data was supposed to look like after one year, or how they’re supposed to go, how their trajectory is supposed to look of how many people they have failing. So, I hit a lot of those problems with this because I needed to create and destroy data, tons of data, ridiculous amounts. So much that I crashed my SQL server on our staging machine. [Chuckles]
+
+<strong>DAVID:  </strong>Awesome.
+
+<strong>EILEEN:  </strong>So, I had to [chuckles].
+
+<strong>DAVID:  </strong>That’s awesome.
+
+<strong>EILEEN:  </strong>I had to rework some of those queries.
+
+<strong>JAMES:  </strong>I want to just say that, Chuck mentioned using all but it’s not usually enough records to matter. I think that’s really probably the key question you should ask yourself anytime you use all in some scenario is, “Okay, is this my blog? Is it only going to have the 15 categories I create or whatever?” then fine, all is fine. There’s no problem with that. But if this is anything where users will be entering in records, then I don’t want to make any kind of prediction about what the upper limit on that count is. Does that make sense?
+
+<strong>EILEEN:  </strong>Yup. Yeah, it’s a lot of, it is that you don’t see these problems when you’re running the Rails tests or when you’re building your first blog because you don’t have that much data. These are the kind of problems you hit when you have an application that has been living and breathing for five years. Yeah.
+
+<strong>CHUCK: </strong> So, do you optimize prematurely or is it premature optimization if you assume that it’s going to grow beyond a reasonable number to just do all on?
+
+<strong>EILEEN:  </strong>You don’t delete a lot of stats, generally stay around. So, we don’t usually all a lot. And usually when we are deleting stuff, like [recipient groups] or whatever, it goes to a background task.
+
+<strong>CHUCK:  </strong>No, I guess what my question is, is do you wait until you see the problem? Just start out using all and then change it?
+
+<strong>EILEEN:  </strong>No. Actually, we…
+
+<strong>CHUCK:  </strong>Is that a painful change to make?
+
+<strong>EILEEN:  </strong>No, usually actually we try to preempt it. We have find_each all over our application.
+
+<strong>CHUCK:  </strong>Is there a tradeoff?
+
+<strong>EILEEN:  </strong>Especially since we’ve in the last year, it’s been a lot of, anytime we’re going to deploy something, we look it over really closely especially if it’s got a csv or it’s doing anything to something that could be a lot of records. We make sure that we’re using find_each and we test how hard it’s going to hit.
+
+<strong>JAMES:  </strong>So yeah…
+
+<strong>EILEEN:  </strong>But sometimes, we mess up [chuckles] and miss it.
+
+<strong>JAMES:  </strong>I think I don’t really view this particular case as premature optimization so much just because rolling a find_each loop isn’t a big commitment or anything. And find_each is just going to fetch it in some batches, by default a thousand, but you can set whatever number you want, right?
+
+<strong>EILEEN:  </strong>Right, unless you need an order, and then you can’t use find_each.
+
+<strong>JAMES:  </strong>That’s true. There are cases where it makes it more difficult. But there are a lot of things. I think all is really dangerous. [Chuckles] I don’t know how much people think about this. So, one of the things that you see complained about a lot in Rails forums and stuff is people say my Rails application just constantly consumes memory and grows and grows and grows and grows. And there are a lot of reasons for that, why that can happen. Improper use of Ruby’s closures and stuff we’ve talked about on the show before. But a very common reason for it is the use of .all.
+
+So, if you need, a lot of times I’ll see Rails code out there where people need to fetch some records and maybe filter them in a complex way. And they can’t figure out how to write the SQL for it. So, they’ll say, “Well, I’ll just pull them in and then select with Ruby and filter over them or reject or whatever.” But the problem with that is if you pull 10,000 records in and all of those records had several fields and then they were instantiated into Active Record objects, and strings are bigger in Ruby because of all the extra flags and stuff, you could really balloon the memory that your application is using. And when you’re done with that request, it’s not just going to go away. That’s not going to get handed back to the operating system in most cases.
+
+So, that’s how you can balloon these memory requirements and stuff like that. Whereas using an approach like find_each and then selecting over the ones you need and getting the more limited set or taking the time to figure out the SQL and using from a SQL if you absolutely have to, which I think is pretty rare. But I think there are just way better solutions that are probably for the long term health of your app. That’s my opinion, though.
+
+<strong>DAVID:  </strong>I’ve seen cases where applications will be written to interface with Active Record but the receiving API for whatever reason is expecting an array. And if you hand off, if you just do person.where.where.where and you filter it down, if you hand that off, 99 times out of 100 that will work correctly if you have written your interface to expect something enumerable. But that one time in a hundred, you actually make a mistake and you actually expect an array. And so, you end up either having to do .all or I’m not sure if you can do a .to_a on an Active Record relation or not. But that’s where I’ve seen it abused. And yeah, it becomes a head scratcher. And usually it’s a legacy code issue.
+
+<strong>JAMES:  </strong>I guess I should clarify a little bit. I don’t have a problem with appropriately restrictive .where followed by a .all. That’s fine.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>JAMES:  </strong>If you’re not going to get all the records. I have a problem with and think it is generally…
+
+<strong>DAVID:  </strong>Table.all?
+
+<strong>JAMES:  </strong>Yeah. Yeah, table.all, exactly, where you just, especially if users are entering into that table. That just feels a little too cavalier to me. Who knows how much data’s going to be in that thing someday.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>JAMES:  </strong>So, we’ve talked a little about deleting. But Eileen, you covered all of the CRUD actions. So, how about creating? You had some cool things to say about creating.
+
+<strong>EILEEN:  </strong>Yup. One of the things that I learned in that sample application I was building, I needed to put, I don’t know, something like 300,000 records into the database. And it was just, it wasn’t anything that was going to be customer-facing. So, I needed it to go faster than creating each record individually. So, I used a batch insert. Now, I could have used in file and in my example I don’t because it’s not as much fun.
+
+<strong>JAMES:  </strong>[Laughs] I love it.
+
+<strong>DAVID:  </strong>[Chuckles]
+
+<strong>EILEEN:  </strong>Because the code is three lines and it’s like, “Okay. Well, that was boring.” But the batch insert is a little bit more fun. You had to go through each of the columns of the csv and then line them up with the database columns and attributes and then put it into the database that way. And so, I would not recommend using it at all for a customer-facing version, because I did not need to worry about SQL injection at all. So, I just was like, “Dump this data into the database,” and be awesome. And it went from taking something like a minute to insert all of the records. But when I did it with the batch insert, it took three seconds.
+
+So, it just dumps, well, the example was 10,000 records. But when I was dumping 300,000 it still takes only 10 seconds instead of an hour, which was really great because I didn’t have time to wait for each record to be inserted into the database. Because when you’re using Active Record to insert, I guess there is no batch insert comparable in Active Record. So, it’s going to insert and then save each record which also fires callbacks if there are any callbacks you have. So, the problem with that is that it takes a lot longer because it needs to be like, “Okay. Insert record, save record. Insert record, save record,” rather than batch insert, it’s just, “Here, have all of the records and don’t save them. Just put them into the database.”
+
+<strong>JAMES:  </strong>Right. Yeah, that’s a really good point. I’ve used a similar trick in the past where I was loading a whole bunch of records right in a row. And one of the reasons that can tend to be really slow on the database side is every time you type in a record, if you have several indexes on that table then all those indexes need that new entry and they need recalibration. And if you’re going to add 10,000 records, then that’s basically 10,000 recalibrations of the index, in which case one would really do, at the end.
+
+And most databases will let you do that. You can shut off the indexing for a short time. So, you can do an execute command and shut off the indexing, then throw all those records in there, and then turn the indexing back on. And when you do that, it will recalibrate itself with the data that’s in the table now and you can skip a lot of the slowness on the database side. But you’re right. You still face instantiation of the objects and stuff like that, whereas with the way you did it with batch insert, you were basically just piping data into the database which was super cool.
+
+<strong>EILEEN:  </strong>Yeah. It’s also kind of fun to watch it go by on the logs. [Chuckles]
+
+<strong>JAMES:  </strong>I love how you…
+
+<strong>EILEEN:  </strong>It’s just all of this data. It’s just like, [inaudible].
+
+<strong>JAMES:  </strong>I love how you optimize all your examples for fun factor. That’s cool.
+
+<strong>EILEEN:  </strong>Yeah.
+
+[Chuckles]
+
+<strong>EILEEN:  </strong>And also, I use 10,000 as an example because it’s fast enough that you’re not bored when you’re testing, but slow enough to show a slowdown.
+
+<strong>JAMES:  </strong>Actual differences, yeah.
+
+<strong>EILEEN:  </strong>Yeah, because this was actually a workshop that I did at Big Ruby first. And I couldn’t do it and have been like, “Okay, so we’re going to wait here for three minutes.”
+
+<strong>JAMES:  </strong>Right. [Chuckles] Please hold.
+
+<strong>EILEEN:  </strong>Or ten minutes, or who knows how long. Let’s see how long it takes. I always figured everybody would just get bored. So, I did 10,000 records because it was just fast enough that you don’t get too bored.
+
+<strong>JAMES:  </strong>That’s awesome. What about reading? What are the good strategies for reading large data?
+
+<strong>EILEEN:  </strong>Well, so we already talked about find_each which is really awesome if you have lots of records. You don’t want to be doing an each on a 100,000 records because it’s going to instantiate each object and be slow. But you also need to realize that you can’t do anything, you can use aware with the find_each but you can’t use limits or order. It’s going to do it, when you say do this in batches, it’s going to do it on all the records that you have in your where. So, if you wanted to do it on the first ten, that’s just not, well you wouldn’t do that because then you wouldn’t be batching it. But if you wanted to do it on the first thousand and only the first thousand, then find_each does nothing for you. So, it’s all about if you have lots of records and you need to do something to all of those records and not limit them or order them, because it does it on the primary key.
+
+<strong>JAMES:  </strong>Yeah, I think…
+
+<strong>EILEEN:  </strong>It does the order by the primary key.
+
+<strong>JAMES:  </strong>And then it adds, yeah, the reason you can’t have an order or a limit is that’s what it needs to do to actually fetch them in batches. It has to impose some kind of ordering and then pick a limit and fetch that many and then fetch the next group of that many, and the next group of that many, et cetera.
+
+<strong>EILEEN:  </strong>Yup. Another thing that you can use is pluck. And so, if you needed to just output the first name of, say you have 10,000 contacts and you need all the first names for some strange reason, and you can use pluck. So, you just get that attribute. If you have a contact and you want them where they belong to a certain user and they belong to a certain country and you just want the first name of those records, instead of collecting all of the records and then having to Active Recordly go through each record and find the name on it, it will just get you just the first names. So, you can just output just the first names with it. It will select the contacts based on the contact’s first name. So, you don’t have the whole record. You just have the attribute that you’re looking for. So, it’s faster because it’s returning an array of strings instead of objects.
+
+<strong>JAMES:  </strong>Right. And Active Record’s instantiation process is heavyweight because it does a lot of things, like checking for things like single table inheritance and stuff like that, where it can need to instantiate different objects as different types and things like that. So, it’s not a real light process.
+
+<strong>EILEEN:  </strong>No, it’s not. But that’s the kind of thing that you don’t see if you’re using it on only ten records, which is why it’s kind of funny because these problems don’t come up in the Rails codebase. Because the Rails codebase tests are only doing one or two records. They’re not doing performance tests.
+
+<strong>JAMES:  </strong>Yeah, that’s a good point.
+
+<strong>EILEEN:  </strong>So, even when you add stuff you don’t see those problems. You’re like, “Oh look at that. That’s great.” You’re not going to notice weird SQL statements, like for the delete, active delete because it’s the most interesting. You’re not going to see the fact that it was creating an in statement that’s massively long and has all the id’s for all the records you want to delete, because it’s only deleting one record. So, you’re like, “Oh, that looks great.” You’re actually probably not even checking your SQL statements unless you’re actively working on the SQL statement in Active Record.
+
+<strong>JAMES:  </strong>I vote we switch the Rails tests to use PhishMe’s production database.
+
+<strong>EILEEN:  </strong>[Chuckles]
+
+<strong>CHUCK: </strong> There we go.
+
+<strong>JAMES:  </strong>That ought to flush out any issues.
+
+<strong>EILEEN:  </strong>Yeah.
+
+<strong>DAVID:  </strong>I already am. I sent Eileen an email last week.
+
+<strong>JAMES:  </strong>[Laughs]
+
+<strong>CHUCK:  </strong>She clicked it, didn’t she?
+
+<strong>DAVID:  </strong>I’ve been doing updates ever since, yup.
+
+[Chuckles]
+
+<strong>JAMES:  </strong>That’s awesome.
+
+<strong>EILEEN:  </strong>Click all the links.
+
+[Chuckles]
+
+<strong>EILEEN:  </strong>And then with update, so it’s really easy to just go through each record with an each and be like, “Oh, update_attributes and all these attributes." But if you’re updating a lot of records, say you need all the contacts where they belong to this user and you need to update all of them to a different user because it’s a company. And one user’s leaving, so they need all the contacts [inaudible] the other user. You could do, instead of updating each record individually and going through and doing an each like contact.update_attributes(:user_id =&gt; 2), you can do update_all. So, it would be contacts.update.where wherever you need, where user_id is 1, update_all to user_id is 2. And then it does one single SQL statement that’s update [inaudible]. Well, update contacts set contacts user_id to 2 instead of doing each one individually.
+
+<strong>JAMES:  </strong>Yeah, and so another batch method. I know there used to be a difference too, and I can’t remember if this has been changed, it’s been argued about many times, but I know in previous versions of Rails there was a method called update_attributes which you could pass a hash to. And it basically followed the, you already had, when it did the update it would honor callbacks and all of that kind of thing.
+
+And then update_attribute, with no S, would just take the name of one attribute and the value you wanted to set it to. And it would do the database, almost like a delete_all in that it would just issue this statement but it would not run through the callback series and stuff, which was good and bad. If you used it accidentally thinking it was the same as update_attributes, you may have robbed yourself of some checks and stuff that you intended to have. But the upside of it was that if you knew what you were doing and used it correctly and you knew it was okay to skip the extra work, then it was faster.
+
+<strong>EILEEN:  </strong>Yup. And that’s also a good method that can be used as long as, a lot of it is just making sure you read the documentation. But that’s also assuming the documentation is correct. [Chuckles]
+
+<strong>JAMES:  </strong>Yeah, that’s a good point. So, what are we saying in all of these cases? You have to know the various different ways to create, read, update, delete data, and you have to know what that implies about your data and how you should use it. Or what’s the big takeaway here?
+
+<strong>EILEEN:  </strong>Yeah. That’s what a lot of it is, because some of it comes down to your dependencies that you have set. And if you don’t know what you’re setting or don’t have that memorized, you’re going to have… you don’t have to have it memorized, but you need to look it up each time. You need to check your records and make sure that you’re not doing some weird stuff when you’re making a big change like deleting all records or updating a bunch of records or stuff like that. And a lot of it is just paying attention to what’s happening to the SQL, because you don’t need to know exactly what’s causing it per se. But if you’re looking at the SQL you’ll see the problems and it’s easier to trace it back. I think it’s too often we want Active Record to be the magical unicorn that just does everything for us. And that’s not how it works, because…
+
+<strong>DAVID:  </strong>Well, it will do everything for you. It’s just sometimes it’s very…
+
+<strong>EILEEN:  </strong>Well, it will. It just might crash your…
+
+<strong>DAVID:  </strong>Yeah, sometimes it just does it very badly.
+
+[Chuckles]
+
+<strong>EILEEN:  </strong>Yeah. Instead of a unicorn, it’s a bull running through your…
+
+<strong>JAMES:  </strong>[Laughs] The magical bull.
+
+<strong>EILEEN:  </strong>[Chuckles] Yeah, and you have to figure out how to put it back to sleep.
+
+<strong>DAVID:  </strong>So, how do you, for the people that are newish to Rails, assuming I’ve got a smattering of SQL knowledge and I’m familiar with Active Record, how do I see the SQL? I want to say I feel like that’s a really basic question, but I have found some wrinkles to this answer recently that I didn’t know. So, I’m going to throw that one out there for you. How do you check in on your SQL to make sure it’s behaving?
+
+<strong>EILEEN:  </strong>Well usually, I will watch the logs. But a lot of times I actually will run my queries in the console before I put them in my application.
+
+<strong>DAVID:  </strong>Oh okay. So, are you…
+
+<strong>EILEEN:  </strong>So, then it outputs the SQL when you do that.
+
+<strong>DAVID:  </strong>Right. Oh, okay. So, you go to the log and have it output the SQL.
+
+<strong>EILEEN:  </strong>Yeah, yes, yes.
+
+<strong>DAVID:  </strong>And then you go to the console and paste it in. Okay.
+
+<strong>EILEEN:  </strong>Yeah. Or I will write the Active Record way in the console and see what the SQL output is. And then that’s, I’ve seen some weird stuff just by doing that, because sometimes you’ll… one time we actually found that we didn’t know that there was a problem until you hit something like 100 records. And this was an older version of Rails where, I don’t remember what it did. It didn’t create an in statement but it created something similar in the destroy_all or delete_all or whatever. And it was the delete_all. And it would do a stack level too deep if you tried to run it more than 50 records or something, or more than 500 records. I can’t remember the exact number. And this is not a current version of Rails. This is an old version. But that we found by running it in the console and just increasing the number of records we were deleting each time to figure out where the breakpoint was.
+
+<strong>JAMES: </strong> Wow, interesting.
+
+<strong>EILEEN:  </strong>And then we looked at the SQL and we were like, “Oh. That’s why it’s broken, because it’s doing this really weird,” I think it would do, so if you were deleting contacts categorizations, so contacts.categorizations.delete_all, it would do delete from categorizations where categorizations contact_id is 1 or id is 2 or id is 3. And because it was chaining all those ORs together, it actually hit a stack level too deep because it couldn’t continue chaining the records.
+
+<strong>DAVID:  </strong>Wow.
+
+<strong>EILEEN:  </strong>Yeah. That’s actually the first part where the idea of this talk came from was, “What other weird stuff can I find in Active Record that will break if you have lots of records?”
+
+<strong>DAVID:  </strong>Yeah. I’m part of the cohort of programmers who got into Rails around the Rails 1.2. We upgraded to 2.0 and then had a healthy career in Rails 2 and only upgraded kicking and screaming to 3, and then now to 4 as is necessary. But there’s a method that’s been added to Active Record Relation in Rails 3, or Active Record 3.0 that was a surprise to me. Somebody wrote it out and they just typed .to_sql. And I’m like, “Wait, what?” And it turns out that you can write, in the Rails console, you can write any join whatever and instead of hitting .all to get the records or hitting enter to get back the relation object, you can type .to_sql and you’ll get back a string that will show you what this thing is going to do.
+
+So, you don’t actually have to go look at it in the log. You can actually say, “If I were to run you what would you do, crazy little query?” and it will give you back the insane little query. And this is probably old news to everybody that’s kept up with their art, unlike me. But if you’re one of these crusty old Rails hackers that learned everything there was to learn in Rails 2 and then never checked in on the gang from Idaho, [chuckles] go check out the to_sql method because it’s freaking awesome.
+
+<strong>EILEEN:  </strong>Yeah, I actually always forget about it because I think I use it a lot but not thinking that people don’t necessarily know about it.
+
+<strong>DAVID:  </strong>Yeah.
+
+<strong>EILEEN:  </strong>But it’s definitely a great little method.
+
+<strong>JAMES:  </strong>You mentioned some tools that can help you find common problems. I think probably one of the more famous ones in the area of what we’ve been talking about is the N+1 query. So, what’s an N+1 query and how can we know if we have one?
+
+<strong>EILEEN: </strong> [Chuckles]
+
+<strong>DAVID:  </strong>It’s select N+1 from Ns where…
+
+<strong>JAMES:  </strong>[Laughs]
+
+<strong>DAVID:  </strong>N equals less than 1? I don’t know.
+
+<strong>EILEEN:  </strong>It’s when you do a query instead of, you could do one query where it collects all the records and one instead it does each one individually. So, when you need 100 records you end up doing 100 queries.
+
+<strong>JAMES:  </strong>Right. So, if you had your contacts and then their addresses or something like that in an associated table. So, if you did a query to get your contacts, that’s the one in the N+1, the one query to get your contacts. But then as you’re walking through the contacts, if you each over all of their addresses to put them in a page, then each one of those you end up having a query for every contact, because you end up going to get their addresses. And so, that’s the N+1, if you have N contacts, a query per contact and then the plus 1 that fetched the original list of contacts. And we do it a lot in Rails, I think, just because the syntax is so natural I think. Oh, I’ll just each over these and you don’t think, “Oh wait, is that another database query?” And luckily, they’re really easy to fix, but maybe you could tell us Eileen, how do you find them?
+
+<strong>EILEEN:  </strong>There’s a gem called the bullet gem that helps you find them and lets you know when you should be adding, when you can use eager loading and reduce your N+1 queries. I haven’t used it too much, but it’s a very useful little gem.
+
+There’s for not just N+1 queries, one of the gems that I’ve used a lot to find what query is slow when I’m loading a page and I know something is destroying my memory but I don’t know what it is because there’s so much on the page, I’ll use rack-mini-profiler. And that puts a little badge in your application that just records the query times from the database and tells you which ones are the slowest.
+
+<strong>JAMES:  </strong>That’s awesome.
+
+<strong>EILEEN:  </strong>Yeah. I’ve used it a lot for when we have lots of data on a page and I have no idea which ridiculous stats, amount of stats [chuckles] are slow. And it’s very, very helpful for that.
+
+And of course, New Relic that I’m sure everyone has heard of by now. New Relic is great for telling you when something is going horribly wrong on your application. And then pointing you where to start looking, because it will tell you what query is causing the server to slow down, or why users are having slow load times, or what is hogging the memory on your database.
+
+<strong>JAMES:  </strong>Yeah, it can be pretty awesome for seeing outliers, right?
+
+<strong>EILEEN:  </strong>Yup.
+
+<strong>JAMES:  </strong>You’ve got this action that almost every time you execute it, it’s 0.02 seconds and then every once in a while it’s 13 seconds. [Chuckles]
+
+<strong>EILEEN:  </strong>Yup.
+
+<strong>JAMES:  </strong>You’re like, wow, what’s that? [Chuckles] We should probably mention too that Active Record can change some of these behaviors on you without you knowing. One of my favorite cases is the eager loading. Active Record chooses between multiple strategies of eager loading. So, often if you do contact eager load their addresses, often it will actually do that in two queries: one query to load the contacts and then one query to load all of the addresses. And then it’ll sort it out in Ruby land, which belongs to what.
+
+But there are times if your where clause references one of the associated tables that Active Record will switch strategies to loading them all in one giant query where it has to basically specify the fields of both tables so that it can collapse it down to one record that comes back. And then in Ruby, it can basically split them back apart as the two separate entities they are. It’s fascinating but it can actually dramatically change performance characteristics. So, you may just add one more field to a where clause not realizing that you just totally switched query strategies. And now your query’s going to be significantly different in performance.
+
+<strong>EILEEN:  </strong>Yeah. A lot of weird things can happen with Active Record especially when you start having relationships between models. And that’s where you have to be really careful, because you can relate stuff in any way you want. And then this is more advanced for this topic, but when you start getting into adding scopes onto your has_many associations, things start to get really weird. Behaviors start to change and there are quite a few open bugs in the Rails issues tracker related to those scopes. Not that they should be broken, there are a lot of sharp edge cases, especially on a has_many :through with scopes for eager loading and stuff.
+
+<strong>DAVID:  </strong>There’s a bit of advice in the old ‘Pragmatic Programmer’ book. One of the rules of thumb that they give is never trust evil wizards.
+
+<strong>EILEEN:  </strong>Yeah.
+
+<strong>JAMES:  </strong>[Laughs]
+
+<strong>DAVID:  </strong>And they define an evil wizard as a software wizard or something that does magic in the code that doesn’t tell you, you don’t know what it’s doing. It’s totally okay to use a wizard if you know what the wizard is doing. And this sounds like a really good example of a potentially very evil wizard. You’re doing it. You even inspect it and you look at the to_sql and you go, “Oh, it’s doing this. Okay, this totally makes sense.” And then you add something and suddenly there’s a principle of least surprise violation [chuckles] because you expected it to continue to behave the way it did and all of a sudden it didn’t just add the column to your query, it completely changes the query.
+
+And yeah, this is a good case for maybe being in the habit of, when you see something weird know where to look into Active Record. Know where the console is, know what the to_sql is, and don’t be afraid to go in and look at things that you are pretty sure haven’t changed. Because if nothing has changed, then your server isn’t really broken. And if you’re at the console, something’s broken on your server, right? So, that’s the dangerous part. And I think people criticize Active Record for this, because it’s too clever sometimes. It’s got too much magic.
+
+And I have to give the Active Record guys a lot of props for putting in these inspection methods where they can basically say, “Look, I can do the magic trick. You can stand behind me and watch my hands while I do the magic trick,” where in Rails 2 and whatnot sometimes it was hard to find out what the magic was. And now, it’s a lot easier to check things.
+
+<strong>JAMES:  </strong>Yeah, I agree. How do we ensure, let’s say that when we’re teaching new programmers, new Rails programmers even, it doesn’t even have to be new programmers. When we’re teaching people Rails, how do we get Active Record across and let them enjoy the power and flexibility of Active Record and manage to somehow give them enough tools that they don’t shoot themselves and their database in the foot?
+
+<strong>EILEEN:  </strong>I’m not sure actually. I think that you don’t, that newer programmers…
+
+<strong>DAVID:  </strong>That’s a great answer. [Chuckles]
+
+<strong>EILEEN:  </strong>I think that newer programmers aren’t going to hit these issues because, [inaudible] maybe they will, but it’s not as likely that you would be the only developer thrown onto some legacy project that’s got tons of records that will crash your database. And I don’t know. I don’t think that there’s, I think this is the kind of thing where it’s actually, I think it’s kind of fun to learn the hard way about this kind of stuff.
+
+<strong>JAMES:  </strong>[Chuckles] I love it.
+
+<strong>EILEEN:  </strong>Because you tell someone all the time, “Oh, don’t use find here or you don’t use each here because you’re going to have a problem,” but they’re not going to recognize the problem or appreciate the problem until they’ve hit it themselves.
+
+<strong>JAMES:  </strong>Yeah, I think that’s a great point. It’s something you probably have to run into and see once and then you understand. Early in my web application building career, I had a thing that needed identifiers that basically came out of a fixed list. And I generated a big enough fixed list that I was sure we would never run out of them. And as the site got more and more popular, I was just ridiculously wrong. And then so as it would start to get toward the end of that list, all of a sudden it started taking massive amounts of time to create these entries. And that was because it was running through, trying to find an identifier that hadn’t been used before. And it just ate up all this time as the number of free identifiers got less and less. And yeah, it was great. I just destroyed the whole web application with some fixed array. It was great.
+
+<strong>EILEEN:  </strong>Yeah, it’s always fun to hunt down those issues, too, because you don’t necessarily know that they’re coming from a lot of data.
+
+<strong>JAMES:  </strong>Right.
+
+<strong>EILEEN:  </strong>Until you’ve gone through all of your other options. But it can be, they can be fun little digging experiments. And in a couple of years, all of these examples of how to get around Active Record might not exist anymore. You might have to find other ways.
+
+<strong>JAMES:  </strong>Right.
+
+<strong>EILEEN:  </strong>So, I think the takeaway to new developers would really just be pay attention to your SQL. And pay attention to your data, because assuming that, “Oh, this one record will delete as fast as 10,000 records,” is not a good assumption.
+
+<strong>JAMES:  </strong>I think there may be a few things we can do in our favor. Like one, I really like what you’ve been saying Eileen, about just trying things in IRB and make sure you have the log statements hook up so that they execute right there as they do in the Rails console. And that way, you can watch the queries as they go. And then maybe when we’re teaching, we don’t just teach one way to read. Let’s teach three ways to read a record or something like that.
+
+<strong>EILEEN:  </strong>Yeah.
+
+<strong>JAMES:  </strong>And then if you’re playing with the different things and seeing the different statements that each of them create, then hopefully you can start to imagine the different scenarios.
+
+<strong>EILEEN: </strong> Mmhmm.
+
+<strong>AVDI: </strong> One of the things that I’ve found really helpful has been just working at a lower level with SQL. With some of the stuff I’ve been doing, I’ve been using the Sequel library, which it has a model layer that I haven’t really used yet. But mostly, I’ve just been using its lower level gateway layer. And the cool thing about that is just most of the method, the calls that you make, map one-to-one to the SQL that’s generated. So, there isn’t really a strategy issue where it’s like you say one thing and it expands out to a huge amount of SQL. It’s taking care of basic stuff like interpolating values in for you. But it’s just been really helpful to build up the kind of queries I might have done in Active Record once manually.
+
+And just seeing, I feel like I’ve come away with a better sense now when I do something in Active Record or in some library like Active Record, I sort of have a sense in the back of my mind what’s going to be necessary to accomplish that, that I didn’t really have before. And I’m curious if you’ve ever fooled around using Active Record’s even lower level facilities. I guess we’ve been sort of talking about its lower level facilities. But have you found it helpful just executing raw SQL or something close to raw SQL as a way to get a better idea of what’s required?
+
+<strong>EILEEN:  </strong>Oh yeah, definitely. There was one time we had to do this crazy join. And if it’s Active Record, we were like, “We can’t do this. We have to do it in SQL to figure out what the SQL should be first before we can do it.” Because what it needed to do because of all the errors we were hitting in the SQL where it was like, “No such column” or “You have an error in your statement.” So, we were like, “Okay, we have to take this out and go into SQL, figure out how to do the SQL part, then go back to Active Record.”
+
+<strong>JAMES:  </strong>Plus one your Sequel recommendation. I’ve also played with it quite a bit lately and I agree with you that when I’m not wanting to think about things in terms of objects and ORM layers, I find Sequel a very natural way to mess around with the database. And because it has that lower level in the way it works, it has a lot more of the niceties that Eileen’s talk and stuff has been wishing for. So for example, in Sequel there is multi_insert, which is basically batch insert.
+
+<strong>AVDI:  </strong>Mm. So, one question that I have is, a lot of the stuff that we’re talking about, a lot of these optimizations what we’re talking about, I think it’s safe to say they involve a certain amount of understanding either of your data model or of your domain models. And what I mean by that is that a lot of these optimizations involve asserting, “Okay, I know what actually needs to go on here. So, I’m going to drop down to a lower level and do something that’s more efficient. And I know that I’m skipping callbacks, but I know that this model doesn’t have any callbacks that I need to be worried about, or I’m going to handle that callback stuff separately myself.” So, that’s knowing things about the Active Record models. And some of these are also optimizations based on, “I understand the underlying tables.”
+
+But all these things are basically breaking the encapsulation a little bit. And so, I’m curious. Have you come up with any strategies for keeping these kinds of encapsulation-breakages, or lifting the lid so to speak, isolated, not letting them spread throughout the codebase?
+
+<strong>EILEEN:  </strong>I don’t know. You’re talking to the person, because I’m not a fan of callbacks. [Chuckles]
+
+[Laughter]
+
+<strong>EILEEN:  </strong>So, my recommendation would be to not use callbacks so then you don’t have a problem when you use delete_all and wonder why your new callback didn’t fire.
+
+<strong>DAVID:  </strong>Nice.
+
+<strong>JAMES:  </strong>[Chuckles] That’s actually a great point, though.
+
+<strong>AVDI: </strong> [Great] answer, actually. So yeah, that’s a totally legit way of approaching it is, “Look. On this project, we don’t use callbacks and so we don’t have to worry about it.”
+
+<strong>EILEEN:  </strong>Yeah. Or if you’re going to add a callback, you need to do research into how the application is being used before you do that. And I feel like they should only be added if there’s really just no other way around it. We have callbacks in PhishMe. But half the time I’m just, “I didn’t know this was happening," because it’s happening silently.
+
+<strong>AVDI:  </strong>Right, spooky action at a distance.
+
+<strong>EILEEN:  </strong>Yeah.
+
+<strong>AVDI:  </strong>Yeah, but I guess there are things that you have to do sometimes. There are things, if you delete a bunch of data, you have to go and sometimes you have to update some references somewhere else or remove references somewhere else. And I guess you have to handle that somehow.
+
+<strong>EILEEN:  </strong>Yeah. That’s a case by case basis where one of the things where I had the batch insert I needed to, there was a partner application that needed to increment the counter. So, I was like, “Well, I can’t increment. I don’t want to just use regular Active Record create just because I need to increment a counter.” That’s a lot of time wasted.
+
+So, what I did was I actually, as I was creating the array of records that needed to be inserted with the batch insert, I would increment the counter at the same time. So, the counter would actually get updated before it inserted the records. Not that I would necessarily recommend doing that in your application per se. But there are ways around it where you could still use the stuff that’s in the callback without necessarily using the callback itself. So, it’s in the same part as your delete code or your insert code, and you can see it happening.
+
+<strong>DAVID:  </strong>And if you did that in a transaction, I would totally pass that in a code review. I would not freak out about that.
+
+<strong>EILEEN:  </strong>Right. And yeah, yeah, you could do that in a transaction of course, yeah.
+
+<strong>JAMES:  </strong>Sometimes when I find myself needing to encapsulate a series of database steps involving a model or models, what I’ll do is I’ll just place a class method on that model then try to put the word out that the convention is that we handle this with that class method. I realize that’s not foolproof and people can bypass that. But then when that leads to a problem, it’s also a fairly easy fix where you just switch to calling the class method typically. And I think that’s one way you can bundle the things that go together, together.
+
+<strong>EILEEN:  </strong>Yeah. A lot of it’s about getting creative when you have problems. Even the things, the examples I have, won’t work for everybody for every situation. But some of the takeaway of it should be, don’t assume that Active Record is going to help you. And that sometimes you just need to go spelunking in the Active Record documentation and find something that can help your specific situation. Or, send a pull request. [Chuckles]
+
+<strong>JAMES:  </strong>Yeah, good call.
+
+<strong>CHUCK:  </strong>One thing that occurred to me, most of this seems to be centered around SQL and relational databases. If you’re using Active Model, I guess a lot of this may or may not apply depending on how you have it implemented, and which database you’re working with and what the limitations are there.
+
+<strong>EILEEN:  </strong>I haven’t done these experiments with non-SQL databases. I’m not entirely sure what would happen. A lot of this comes out of actual work that I’m doing. So, because I don’t have an application that has a NoSQL database or anything really other than MySQL, SQLite, or Postgres, I haven’t really experimented with those. But it would be interesting to dive into that and see how it handles these same issues.
+
+<strong>JAMES:  </strong>I would say that all the databases I’ve worked with have some similar kinds of concerns. For example, just to pick a popular one, Redis. I think pretty much everybody who works with Redis a significant amount of time figures out at some point, don’t call keys [chuckles] by itself, unknown qualified keys, which is going to force it to walk all the keys, which is basically what we were saying about the dangers of all earlier. So, I think different databases, the specifics may change a little but the overall thread I think still holds up.
+
+<strong>EILEEN:  </strong>Yup.
+
+<strong>CHUCK:  </strong>Awesome. Well, let’s go ahead and do some picks. Avdi, do you want to start us off with the picks?
+
+<strong>AVDI:  </strong>Sure. I don’t actually think I have any technological picks, at least computer picks, today. But I got a couple of non-computer picks. One I was just thinking about the other day and I thought that I picked it once. But I guess I haven’t. It’s the concept of a balance bike for teaching young children to ride their bike. I forget where I first ran across this. But the idea is that rather than giving them a bike with training wheels, you give them a bike without pedals. But otherwise, it’s just a regular two-wheel bike.
+
+And I did this by getting a cheap little bike from Walmart and cutting off the chain and pulling the pedals off. And the idea behind it is that training wheels basically teach kids to steer wrong. They don’t teach them the right feel for banking to turn on a bike. So, once you take the training wheels off, they have to retrain. And I tried this idea out. Like I said, I just got a little bike and took the pedals off.
+
+So, so far with two young children, the result for both has been, the full process of teaching them how to balance on a bike has been giving them the balance bike and telling them to go have fun. There really hasn’t been a training process per se because they just get on it and they start walking around just with their feet on the ground. And then they start to coast, kick and coast for a few inches, and then for a few feet. And before you know it, they’re banking around on the driveway and you never had to do anything. And then once they get on, then you get them a proper bike and they already know how to control it and they’re not falling all over the place. Well, not as much anyway. So, so far, two kids, it’s worked beautifully both times. I’m really impressed with this concept.
+
+And I will also pick my latest multi-tool. I recently got myself a multi-tool to replace the old Leatherman that I’ve been carrying around for many, many years. And I got the Leatherman Skeletool which is just a beautiful little piece of hardware. It’s a little smaller than my old one. It’s got all the tools that I regularly use and none of the ones I don’t.
+
+So, it’s got a blade, which is openable from the outside. You don’t have to open the whole thing up. It’s got pliers, wire cutters. It’s got a screwdriver with a couple of different heads that you can plug in. And it’s got a nice, big hefty clip that also doubles as a proper bottle opener, not that nasty little thing that you find on most knives that you have to flip out and make a couple of tries at the bottle cap before the darn thing actually comes off. And it’s all, if you go look at a picture of it, it’s all put together in this just gorgeously machined aluminum package or stainless package. So, I’m really happy with this thing. And I think that is it for me.
+
+<strong>CHUCK:  </strong>Awesome. David, what are your picks?
+
+<strong>DAVID:  </strong>Well, I have a couple. Actually, I have three because Nick Quaranto just pinged me on Twitter and said, “Hey. Any chance Nickel City Ruby could get a shout-out on Ruby Rogues?” and the answer is yes.
+
+So, my other picks are [chuckles]…
+
+<strong>JAMES:  </strong>No.
+
+[Laughter]
+
+<strong>DAVID:  </strong>Yeah, so NickelCityRuby.com. They’re open for registration right now. And I’m sorry, that’s a really lousy pick isn’t it because I haven’t been to Nickel City Ruby. I just know Nick Quaranto by association on Twitter. He and I have chatted and he’s cool. And I’ve heard good things about that conference. So yes, Nick, you can get a shout-out on our show just by tweeting at us in the middle of a recording.
+
+Okay, so I have two, wow, all my picks are YouTube. But I’ve got some serious heavy YouTubing and then I’ve got some really lightweight fluff, not to detract from the heavy stuff. But I felt like I couldn’t keep a good balance.
+
+So, let me start with some of the most important YouTubing you can do this week. If you haven’t seen this, by the time this goes up, this will have been going on now for three or four weeks. But feministfrequency has been running a series of videos called ‘Tropes vs Women in Video Games’. And she makes the point that women are used as background decoration in video games. And not just as background decoration, or not just women, but actual violence against women. And when she starts picking video games, you start, as a man I’m watching this and I’m thinking, “Okay, but that’s just one game.” And then she picks another and another and another and another and another. And you realize it’s in every stinking game out there. Games that don’t even need edgy sexy content have hyper-sexualized content. And it’s always aimed at objectification of women.
+
+So, she’s done two parts. I believe she ran a Kickstarter to fund a multipart series, a mini-series on it. I don’t know if there’s a third part coming. I assume there is. And I want to say they’re fantastic. They’re not enjoyable to watch, but they are important to watch. And so, I think that was some of the most important stuff I found on the internet last week. And I actually watched it before last week’s show but I wanted to digest it and really process it before I picked it on the show. So, ‘Women as Background Decoration: Tropes vs Women in Video Games’ by feministfrequency. That’s my first pick.
+
+The second one is just some pure YouTube silliness. And that’s a couple of guys named Rhett and Link. And these guys just goof off and sing beautifully. But they also sing hilarious songs. My particular favorites right now are the ‘Breakup Song’ and ‘My OCD’. And if you want to know, just in the middle of the song they just say one of the things you can do to mess with people with OCD, in the middle of the show they just throw out ‘googling askew’. And if you’re listening near a computer right now, just open up google and type in ‘askew’, A-S-K-E-W and hit Enter. And if you have OCD, your browser will hurt your brain right there in the web. So, there you go. [Chuckles] I like the song pretty much just for that little Easter egg in it.
+
+And these guys also do a daily, I think it’s daily, they do a video podcast called ‘Good Mythical Morning’ that’s kind of fun and silly and stupid. And it’s just good, clean fun. A couple of Virginia boys goofing around and having a good time, and I think it’s fun to watch them. And they sing well. Their ‘Fast Food Folk Song’ is absolutely astonishing, not because they do an entire song based off of the Taco Bell menu but because they sing it live. And the guy on the other end actually gets the order right at the end of the song. That one’s worth watching just on the merit of that alone.
+
+So, those are my picks. It’s been a while since we’ve done a legendary epic D. Brady pick. So, there you go. That should scratch your itch for a while.
+
+<strong>CHUCK:  </strong>Alright, James. What are your picks?
+
+<strong>JAMES:  </strong>Well, first I just feel like I need to plus 1 everybody else’s. I too used a balance bike with my daughter and we haven’t moved her to the real bike stage yet. She’s just four. But probably now would be a good time actually. And I agree that it’s pretty silly easy. You can get specific balance bikes. Just but the thing called that if you want to, which is what we did. And also, ‘Tropes vs Women’, absolutely excellent. Everybody should watch it. Super important. Okay, on to my own picks.
+
+I’m on a video kick and I haven’t had a pick explosion in a while, so here goes. Dave Thomas gave a keynote at Elixir Conf and it’s really good. I love watching Dave Thomas speak and it is always entertaining. But what I love most is he usually makes me think about things in different ways. And this keynote is definitely one of those. He talks about what’s been happening while he’s been learning Elixir, and how is that changing how he thinks about programming, and what kind of programs he’s been writing, and stuff like that. Very interesting, good brain-stretching keynote.
+
+Another talk I saw recently was ‘TDD, where did it all go wrong’ by Ian Cooper. And this was really good. It was a TDD back to basic principles kind of thing, and talking about what it means, and how have we misinterpreted it in places. I usually don’t enjoy talks like that too much. But this one was really just super practical and great at describing things. And I thought it was really good. I think it may have actually been Avdi that told me to go watch this talk. So, thanks Avdi.
+
+And then another really short one that I saw recently and it’s kind of on topic for what we talked about today. Code School has this series called Feature Focus. And I’ve only watched one, the free one, for it. But I really like this. They basically pick a feature in a Rails app in this one. I don’t know if that’s always the case. But they were like, “Let’s write a search, like Basecamp’s search.” And they implement a reasonable solution of it and show you that in about 10 or 12 minutes or whatever. And then they go basically ask an expert I guess. In this case, the expert was DHH, creator of Basecamp. Ha-ha.
+
+And they go to DHH and they’re like, “Here’s how we did our search. What do you think?” And he gives them some feedback. “Well, I like what you did here. I would do this a little different.” And he talked about how they were using these simple query methods almost like fetching all the records from the database. And he’s like, “Yeah, you’re not going to get with that for very long. It’s probably, you just need to use elastic search or something.” And anyways, cool feedback, neat series. It took 20 minutes just to watch the episode which is great. I love that it wasn’t five hours. So, super cool stuff.
+
+Those are tech talks. For non-tech stuff, videos, I recently watched all of the new Cosmos series, which is currently available for streaming on Netflix.
+
+<strong>DAVID:  </strong>Ooh, yeah.
+
+<strong>JAMES:  </strong>Oh my gosh. So good. I am a huge science nut. I watched the original Cosmos with Carl Sagan. And I still learned tons of stuff from it. And besides that, it’s just freaking gorgeous.
+
+<strong>DAVID:  </strong>Plus it’s Neil freaking Tyson.
+
+<strong>JAMES:  </strong>Right, Neil deGrasse Tyson. This has basically everything going for it. It’s amazing. 13 episodes I think. Really good stuff. If you have a remote interest in anything science, you should watch this. It’s so good.
+
+And then finally, one last pick. How do you get video on your TV? One way is Chromecast, I’ve been using recently. This is the little device from Google that’s super cheap. You just plug it in. It’s got about the easiest setup ever. And then you can stream things to your TV. It doesn’t get much more ridiculously easy than that, at least in my case. My dad did have some problems with it at his house. And I think it has to do with distance to the router and the Chromecast uses the 2.4 gigahertz frequency. Is that what it is? I can’t remember. Anyways, not the bigger 5.whatever. So, he did have a few issues. So, he didn’t find it quite as painless as I did. But it’s been pretty painless for me. And we found when we’re programming together at my house, it’s great just to be able to throw our screen up on the TV and talk about the code on an HD TV and stuff. It’s really nice.
+
+So, those are all my picks with video. Sorry there were so many.
+
+<strong>DAVID:  </strong>It’s like a back to back D. Brady pick.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>DAVID:  </strong>Awesome.
+
+<strong>CHUCK:  </strong>Very nice. I’ve got a few picks. I’ve been cleaning up my office. So, I’m going to pick a couple of things I’ve probably picked on the show before in the past.
+
+One of them is my ScanSnap S1300i. It’s a really small scanner, with a little feeder on it. Anyway, I had this huge pile of papers that I needed to go through. And I got through them in a few hours, just scanned them into my machine. I can now sort them on my computer. With my receipts, I actually have a scanning app. I don’t remember what it’s called, but I’ll put it in the show notes. But yeah, so then I can snap a picture of receipts, because the receipts don’t always scan nicely with this thing. Most of them do, but sometimes it just won’t read them and I don’t know why. And so, I’ve got those picks.
+
+And then one other thing. I just went to a webinar on landing pages and stuff. So, if you’re putting out products and stuff, if you go to LeadPages.net and sign up for their webinar, it is really good. And it helps you figure some stuff out. So, I highly recommend that. And those are my picks. Eileen, do you have some picks for us?
+
+<strong>EILEEN:  </strong>One thing I’ve started using recently, it’s called jrnl. And it’s a command line terminal application that stores your notes in a plain text file. But everything can be tagged and dated and encrypted. And you can have multiple journals and save off whatever you want. So, if you’re already using the terminal it’s great, because then you don’t have to open another application to save notes on things.
+
+And my other pick is Rails 4.2 beta is out. And anyone looking to make Rails contributions or their first contribution, they want help on documentation and testing and making Rails 4.2 super solid. So, it’d be a great way to get your first Rails commit, or just to increase your Rails commits. Everybody on core and the contributors are helpful, especially if you’re like, “Hey, it’s my first time.” They’ll be nice. Don’t be scared. Everybody’s super awesome. And that’s what I have.
+
+<strong>CHUCK:  </strong>That’s right. You can get some tender love.
+
+<strong>EILEEN:  </strong>Yup.
+
+[Laughter]
+
+<strong>DAVID:  </strong>If anybody needs a reason to upgrade to Rails 4.2, I can give it to you in just one method call: pluck.
+
+<strong>JAMES:  </strong>Pluck came in before Rails 2.
+
+<strong>DAVID:  </strong>Well, no. Pluck takes a single argument in Rails 3.
+
+<strong>JAMES:  </strong>Ah.
+
+<strong>DAVID:  </strong>And the first time you use pluck to get a customer’s last name, you think, “Man, I wish I could do pluck last name, first name and get back an array of arrays. It’s just obvious. It’s the obvious intuitive extension.” And it’s not there in Rails 3 and it is there in Rails 4. So, come for the 4.0-ishness, but stay for the pluck. That’s why you should upgrade.
+
+<strong>EILEEN:  </strong>Yeah, plus you get adequate record and my sped up delete_all.
+
+<strong>DAVID:  </strong>Sweet.
+
+<strong>CHUCK:  </strong>Awesome.
+
+<strong>JAMES:  </strong>Woohoo!
+
+<strong>EILEEN:  </strong>And a bunch of other…
+
+<strong>DAVID:  </strong>You’ve got code in Rails 4?
+
+<strong>EILEEN:  </strong>I have a commit in it.
+
+<strong>DAVID:  </strong>Awesome. That’s awesome.
+
+<strong>EILEEN:  </strong>Actually, tenderlove has helped me tremendously in showing me the way around Active Record and to do.
+
+<strong>JAMES:  </strong>Well, good, because that guy’s been of marginal value until now, you know?
+
+<strong>EILEEN:  </strong>[Chuckles]
+
+<strong>CHUCK:  </strong>No kidding, right?
+
+<strong>JAMES:  </strong>[Chuckles] When is he going to do something, you know?
+
+<strong>EILEEN:  </strong>[Chuckles] Right?
+
+<strong>CHUCK:  </strong>Cool. Well, we’ll go ahead and wrap up the show. I do want to remind everybody that we’re reading ‘Refactoring: Ruby Edition’. We’ll be talking to Martin Fowler in a few weeks. And so, go pick up the book. And other than that, I guess we’re done. So, we’ll wrap it up and we’ll catch you all next week.
+
+<strong><em>[A special thanks to Honeybadger.io for sponsoring Ruby Rogues. They do exception monitoring, uptime, and performance metrics and are an active part of the Ruby community.]</em></strong>
+
+<strong><em>[This episode is sponsored by MadGlory. You’ve been building software for a long time and sometimes it’s get a little overwhelming. Work piles up, hiring sucks, and it’s hard to get projects out the door. Check out MadGlory. They’re a small shop with experience shipping big products. They’re smart, dedicated, will augment your team and work as hard as you do. Find them online at MadGlory.com or on Twitter at MadGlory.]</em></strong>
+
+<strong><em>[Working and learning from designers at Amazon and Quora, developers at SoundCloud and Heroku, and entrepreneurs like Patrick Ambron from BrandYourself, you can level up your design, dev, and promotion skills at Level Up Con taking place October 8</em></strong><strong><em><sup>th</sup></em></strong><strong><em> and 9</em></strong><strong><em><sup>th</sup></em></strong><strong><em> in downtown Saratoga Springs, New York. Only two hours by train from New York City, this is the perfect place to enjoy early fall and Oktoberfest while you mingle with industry pioneers in a resort town in upstate New York. Get your ticket today at LevelUpCon.com. Space is extremely limited for this premium conference experience. Don’t delay. Check out LevelUpCon.com now.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]</em></strong>
+
+<strong><em>[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]</em></strong>
+
+								<p class="text-bg">Leidanett was living a life of almost unfathomable despair a year ago no one knows (1995)</p>
+								<p>
+									<span class="tie-dropcap">A</span> farmers in the US’s South—faced with continued failure in their efforts to run on successful farms their
+									launched a lawsuit claiming that “white racism” is to the blame for their inability to produce crop yields.
+								</p>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<blockquote>
+									Black farmers in the US’s South faced with continued failure in their efforts to run the successful farms launched a lawsuit
+									<cite>Steve Jobs</cite>
+								</blockquote>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should
+								</h3>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<p>
+									<img class="float-left" src="/images/news/news-details/post_style.jpg" alt="">
+								</p>
+								<h3>For the first time the Secretart end</h3>
+								<ul>
+									<li>But there was also no shortage of new</li>
+									<li>Prasad made these comments on</li>
+									<li>He gave details of the answers provided</li>
+									<li>The government forthcoming in before</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South faced with the thecontinu failure in their own efforts to run and succe farms is to blame
+									for their inability to an sell an black farme a subpar product at
+								</p>
+								<p>
+									the most Mid-South Farm on Gin Show in them March 2017.Despite above average rainfall the black farmers saw limited
+								</p>
+
+								<div class="gallery-img">
+									<a href="/images/gallery/gallery1.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery1.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery2.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery2.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery3.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery3.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery4.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery4.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery5.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery5.jpg" alt="">
+									</a>
+								</div>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<div class="post-video">
+									<img class="img-fluid" src="/images/news/travel/travel9.jpg" alt="">
+									<div class="post-video-content">
+										<a href="https://www.youtube.com/watch?v=_0UO1NcheAE" class="ts-play-btn">
+											<i class="fa fa-play" aria-hidden="true"></i>
+										</a>
+										<h3>
+											<a href=""> For the first time the Swiss State Secretart for Economic indicated that Uber taxi</a>
+										</h3>
+									</div>
+								</div>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should be classed
+									as employees
+								</h3>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability to produce crop yields and on equivalent to that switched
+									seeds in order to sell black farmers a subpar product at the Mid-South Farm & Gin Show in March 2017. Despite above
+									average rainfall, the black farmers saw limited soybean yield from the Stine seeds during the 2017 harvest.
+								</p>
+								<p>
+									<a href="">
+										<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+									</a>
+								</p>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair
+								</h3>
+								<ul>
+									<li>
+										But there was also no shortage of news for the worlds of film.
+									</li>
+									<li>
+										Prasad made these comments on behalf of the Treasury benches.
+									</li>
+									<li>
+										He gave details of the answers provided by Defence.
+									</li>
+									<li>
+										The government has been forthcoming in declaring the aircraft.
+									</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability
+								</p>
+							</div>
+							<!-- entry content end-->
+						</div>
+						<!-- post content area-->
+						<div class="author-box">
+							<img class="author-img" src="/images/avater/author.png" alt="">
+							<div class="author-info">
+								<h4 class="author-name">Elina Themen</h4>
+								<div class="authors-social">
+									<a href="#" class="ts-twitter">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<a href="#" class="ts-facebook">
+										<i class="fa fa-facebook"></i>
+									</a>
+									<a href="#" class="ts-google-plus">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<a href="#" class="ts-linkedin">
+										<i class="fa fa-linkedin"></i>
+									</a>
+								</div>
+								<div class="clearfix"></div>
+								<p>Black farmers in the US’s South—faced with continued failure in their efforts to run for the successful farms their
+									launched </p>
+
+							</div>
+						</div>
+						<!-- author box end-->
+						<div class="post-navigation clearfix">
+							<div class="post-previous float-left">
+								<a href="#">
+									<img src="/images/news/travel/travel6.jpg" alt="">
+									<span>Read Previous</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+							<div class="post-next float-right">
+								<a href="#">
+									<img src="/images/news/tech/tech5.jpg" alt="">
+									<span>Read Next</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+						</div>
+						<!-- post navigation end-->
+					</div>
+					<!--single post end -->
+					<div class="comments-form ts-grid-box">
+						<h3 class="comment-reply-title">Add Comment</h3>
+
+						<form role="form" class="ts-form">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										<input class="form-control" name="name" id="name" placeholder="Your Name" type="text" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" name="email" id="email" placeholder="Your Email" type="email" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" placeholder="Your Website" type="text" required="">
+									</div>
+									<!-- form group end-->
+								</div>
+								<!-- Col end -->
+								<div class="col-md-6">
+									<div class="form-group">
+										<textarea class="form-control msg-box" id="message" placeholder="Your Comment" rows="10" required=""></textarea>
+									</div>
+								</div>
+								<!-- Col end -->
+								<div class="col-md-12">
+									<p class="comment-form-cookies-consent">
+										<input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes">
+										<label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+									</p>
+								</div>
+							</div>
+							<!-- Form row end -->
+							<div class="clearfix">
+								<button class="comments-btn btn btn-primary" type="submit">Post Comment</button>
+							</div>
+						</form>
+						<!-- Form end -->
+					</div>
+					<!-- comment form end-->
+					<div class="ts-grid-box mb-30">
+						<h2 class="ts-title">Most Popular</h2>
+
+						<div class="most-populers owl-carousel">
+							<div class="item">
+								<a class="post-cat ts-yellow-bg" href="#">Travel</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+
+							<div class="item">
+								<a class="post-cat ts-blue-light-bg" href="#">Technology</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Music</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/music/music2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+						</div>
+						<!-- most-populers end-->
+					</div>
+
+				</div>
+				<!-- col end -->
+				<div class="col-lg-3">
+					<div class="right-sidebar">
+						<div class="ts-grid-box widgets social-widget">
+							<h2 class="widget-title">Follow us</h2>
+							<ul class="ts-social-list">
+								<li class="ts-facebook">
+									<a href="#">
+										<i class="fa fa-facebook"></i>
+										<b>12.5 k </b>
+										<span>Likes</span>
+									</a>
+
+								</li>
+								<li class="ts-google-plus">
+									<a href="#">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-twitter">
+									<a href="#">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-pinterest">
+									<a href="#">
+										<i class="fa fa-pinterest-p"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Photos</span>
+								</li>
+								<li class="ts-linkedin">
+									<a href="#">
+										<i class="fa fa-linkedin"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-youtube">
+									<a href="#">
+										<i class="fa fa-youtube"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets widget-banner">
+							<a href="#">
+								<img class="img-fluid" src="/images/banner/sidebar-banner2.jpg" alt="">
+							</a>
+						</div>
+						<!-- widgets end-->
+						<div class="post-list-item widgets">
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<li role="presentation">
+									<a class="active" href="#home" aria-controls="home" role="tab" data-toggle="tab">
+										<i class="fa fa-clock-o"></i>
+										Recent
+									</a>
+								</li>
+								<li role="presentation">
+									<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
+										<i class="fa fa-heart"></i>
+										Favorites
+									</a>
+								</li>
+							</ul>
+
+							<!-- Tab panes -->
+							<div class="tab-content">
+								<div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+
+								</div>
+								<!--ts-grid-box end -->
+
+								<div role="tabpanel" class="tab-pane ts-grid-box post-tab-list" id="profile">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports1.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+								</div>
+								<!--ts-grid-box end -->
+							</div>
+							<!-- tab content end-->
+						</div>
+						<!-- widgets end-->
+
+						<div class="ts-grid-box widgets category-widget">
+							<h2 class="widget-title">Categories</h2>
+							<ul class="category-list">
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Sports
+										<span class="ts-green-bg">25</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Fashion
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Technology
+										<span class="ts-blue-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Music
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Food
+										<span class="ts-yellow-bg">10</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets ts-grid-box post-tab-list ts-col-box">
+							<h3 class="widget-title">Populer Post</h3>
+							<div class="ts-overlay-style">
+								<div class="item">
+									<div class="ts-post-thumb">
+										<a href="#">
+											<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+										</a>
+									</div>
+									<div class="overlay-post-content">
+										<div class="post-content">
+											<h3 class="post-title">
+												<a href="#">Tourism in Dubai is boom international tourist</a>
+											</h3>
+											<ul class="post-meta-info">
+												<li>
+													<i class="fa fa-clock-o"></i>
+													March 21, 2019
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- ts-overlay-style  end-->
+
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">18 month shoots himself by gun </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/tech/tech2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">The body is a healing system. </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+
+						</div>
+
+						<div class="ts-grid-box widgets tag-list">
+							<h3 class="widget-title">Tags</h3>
+							<ul>
+								<li>
+									<a href="#">Tech</a>
+								</li>
+								<li>
+									<a href="#">Fashion</a>
+								</li>
+								<li>
+									<a href="#">Sports</a>
+								</li>
+								<li>
+									<a href="#">Football</a>
+								</li>
+								<li>
+									<a href="#">Styles</a>
+								</li>
+								<li>
+									<a href="#">Rech</a>
+								</li>
+								<li>
+									<a href="#">Lifestyle</a>
+								</li>
+								<li>
+									<a href="#">Technology</a>
+								</li>
+								<li>
+									<a href="#">Guide</a>
+								</li>
+								<li>
+									<a href="#">Food</a>
+								</li>
+								<li>
+									<a href="#">Animal</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- right sidebar end-->
+				<!-- col end-->
+			</div>
+			<!-- row end-->
+		</div>
+		<!-- container-->
+	</section>
+	<!-- single post end-->
+
+
+        
+		<!-- footer social list start-->
+		<section class="ts-footer-social-list section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="footer-logo">
+							<a href="#">
+								<img src="/images/logo/footer_logo.png" alt="">
+							</a>
+						</div>
+						<!-- footer logo end-->
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-8 align-self-center">
+						<ul class="footer-social">
+							<li class="ts-facebook">
+								<a href="#">
+									<i class="fa fa-facebook"></i>
+									<span>Facebook</span>
+								</a>
+							</li>
+							<li class="ts-google-plus">
+								<a href="#">
+									<i class="fa fa-google-plus"></i>
+									<span>Google Plus</span>
+								</a>
+							</li>
+							<li class="ts-twitter">
+								<a href="#">
+									<i class="fa fa-twitter"></i>
+									<span>Twitter</span>
+								</a>
+							</li>
+							<li class="ts-pinterest">
+								<a href="#">
+									<i class="fa fa-pinterest-p"></i>
+									<span>pinterest</span>
+								</a>
+							</li>
+							<li class="ts-linkedin">
+								<a href="#">
+									<i class="fa fa-linkedin"></i>
+									<span>Linkedin</span>
+								</a>
+
+							</li>
+						</ul>
+					</div>
+					<!-- col end-->
+
+				</div>
+			</div>
+		</section>
+		<!-- footer social list end-->
+
+		<!-- newslater start -->
+		<section class="ts-newslatter section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="ts-newslatter-content">
+							<h2>
+								Sign up for the Newsletter
+							</h2>
+							<p>
+								Join our newsletter and get updates in your inbox. We won’t spam you and we respect your privacy.
+							</p>
+						</div>
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-6 align-self-center">
+						<div class="newsletter-form">
+							<form action="#" method="post" class="media align-items-end">
+								<div class="email-form-group media-body">
+									<i class="fa fa-paper-plane" aria-hidden="true"></i>
+									<input type="email" name="email" id="newsletter-form-email" class="form-control" placeholder="Enter Your Email" autocomplete="off">
+								</div>
+								<div class="d-flex ts-submit-btn">
+									<button class="btn btn-primary">Subscribe</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- newslater end -->
+
+		<!-- footer start -->
+		<footer class="ts-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="footer-menu text-center">
+							<ul>
+								<li>
+									<a href="#">Support</a>
+								</li>
+								<li>
+									<a href="#">Suggestion</a>
+								</li>
+								<li>
+									<a href="#">Privacy</a>
+								</li>
+								<li>
+									<a href="#">About</a>
+								</li>
+								<li>
+									<a href="#">Our Ads </a>
+								</li>
+								<li>
+									<a href="#">Terms</a>
+								</li>
+							</ul>
+						</div>
+						<div class="copyright-text text-center">
+							<p>&copy; 2018, Vinazine. All rights reserved</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- footer end -->
+
+
+	</div>
+
+
+	<!-- javaScript Files
+	=============================================================================-->
+
+	<!-- initialize jQuery Library -->
+	<script src="/js/jquery.min.js"></script>
+	<!-- navigation JS -->
+	<script src="/js/navigation.js"></script>
+	<!-- Popper JS -->
+	<script src="/js/popper.min.js"></script>
+
+	<!-- magnific popup JS -->
+	<script src="/js/jquery.magnific-popup.min.js"></script>
+
+
+
+	<!-- Bootstrap jQuery -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script src="/js/owl-carousel.2.3.0.min.js"></script>
+	<!-- slick -->
+	<script src="/js/slick.min.js"></script>
+
+	<!-- smooth scroling -->
+	<script src="/js/smoothscroll.js"></script>
+
+	<script src="/js/main.js"></script>
+</body>
+
+</html>

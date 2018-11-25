@@ -1,0 +1,1635 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Basic Page Needs =====================================-->
+	<meta charset="utf-8">
+
+	<!-- Mobile Specific Metas ================================-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Site Title- -->
+	<title>162 iPS Dependency Injection and Mocking in Swift with Veronica Ray
+</title>
+
+	<!-- CSS
+   ==================================================== -->
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/animate.css">
+
+	<!-- IcoFonts -->
+	<link rel="stylesheet" href="/css/icofonts.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="/css/owlcarousel.min.css">
+
+	<!-- slick -->
+	<link rel="stylesheet" href="/css/slick.css">
+
+
+
+	<!-- navigation -->
+	<link rel="stylesheet" href="/css/navigation.css">
+
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="/css/magnific-popup.css">
+
+
+
+
+	<!-- Style -->
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="stylesheet" href="/css/colors/color-2.css">
+
+	<!-- Responsive -->
+	<link rel="stylesheet" href="/css/responsive.css">
+
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+	<div class="body-inner-content">
+		<!-- top bar start -->
+		<section class="top-bar v4">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 align-self-center">
+						<div class="ts-breaking-news clearfix">
+							<h2 class="breaking-title float-left">
+								<i class="fa fa-bolt"></i> Our Latest Episodes :</h2>
+							<div class="breaking-news-content float-left" id="breaking_slider1">
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end col-->
+
+					<div class="col-md-4 align-self-center">
+						<div class="text-right xs-left">
+							<div class="ts-date-item">
+								<i class="fa fa-clock-o"></i> Sunday, August 24</div>
+						</div>
+
+					</div>
+					<!--end col -->
+
+
+				</div>
+				<!-- end row -->
+			</div>
+		</section>
+		<!-- end top bar-->
+
+		<!-- ad banner start -->
+		<section class="header-middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 align-self-center">
+						<div class="header-logo">
+							<a href="/">
+								<img src="/images/logo/logo-web-small.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<div class="col-md-8 align-self-center">
+						<div class="banner-imgr">
+							<a href="index.html">
+								<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<!-- col end -->
+				</div>
+				<!-- row  end -->
+			</div>
+			<!-- container end -->
+		</section>
+
+		<!-- header nav start-->
+		<header class="header-standerd">
+			<div class="container">
+				<div class="row">
+
+					<!-- logo end-->
+					<div class="col-lg-12">
+						<!--nav top end-->
+						<nav class="navigation ts-main-menu navigation-landscape">
+							<div class="nav-header">
+								<a class="nav-brand mobile-logo visible-xs" href="index.html">
+									<!-- <img src="/images/footer_logo.png" alt=""> -->
+								</a>
+								<div class="nav-toggle"></div>
+							</div>
+							<!--nav brand end-->
+
+							<div class="nav-menus-wrapper clearfix">
+								<!--nav right menu start-->
+								<ul class="right-menu align-to-right">
+									<li class="header-search">
+										<div class="nav-search">
+											<div class="nav-search-button">
+												<i class="icon icon-search"></i>
+											</div>
+											<form>
+												<span class="nav-search-close-button" tabindex="0">✕</span>
+												<div class="nav-search-inner">
+													<input type="search" name="search" placeholder="Type and hit ENTER">
+												</div>
+											</form>
+										</div>
+									</li>
+								</ul>
+								<!--nav right menu end-->
+
+								<!-- nav menu start-->
+								<ul class="nav-menu">
+									<li class="active">
+										<a href="#">Podcasts</a>
+										<div class="megamenu-panel ts-mega-menu">
+											<div class="megamenu-lists">
+												<ul class="megamenu-list list-col-2">
+													<li class="active">
+														<a href="/js-jabber">JavaScript Jabber</a>
+													</li>
+													<li>
+														<a href="/ruby-rogues">Ruby Rogues</a>
+													</li>
+													<li>
+														<a href="/adv-in-angular">Adventures in Angular</a>
+													</li>
+													<li>
+														<a href="/my-javascript-story">My JavaScript Story</a>
+													</li>
+													<li>
+														<a href="/my-ruby-story">My Ruby Story</a>
+													</li>
+													<li>
+														<a href="/my-angular-story">My Angular Story</a>
+													</li>
+													<li>
+														<a href="/react-native-radio">React Native Radio</a>
+													</li>
+													<li>
+														<a href="/react-round-up">React Round Up</a>
+													</li>
+													<li>
+														<a href="/views-on-vue">Views on Vue</a>
+													</li>
+													<li>
+														<a href="/freelancers">The Freelancers' Show</a>
+													</li>
+													<li>
+														<a href="/iphreaks">iPhreaks</a>
+													</li>
+													<li>
+														<a href="/elixir-mix">Elixir Mix</a>
+													</li>
+													<li>
+														<a href="/the-dev-rev">The Dev Rev</a>
+													</li>
+												</ul>
+												<ul class="megamenu-list list-col-2">
+                                                    <li>
+                                                        <a href="#"><strong>Retired Shows</strong></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/tmtc-screencasts">Teach Me To Code Screencasts</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/teachmetocode">Teach Me To Code Podcast</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/rails-clips">Rails Clips</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/web-sec-warriors">Web Security Warriors</a>
+                                                    </li>
+                                                </ul>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#">Lifestyle</a>
+										<div class="megamenu-panel">
+											<div class="megamenu-tabs">
+												<ul class="megamenu-tabs-nav">
+													<li class="active">
+														<a href="#">Health</a>
+													</li>
+													<li>
+														<a href="#">Food</a>
+													</li>
+													<li>
+														<a href="#">Fashion</a>
+													</li>
+													<li>
+														<a href="#">Travel</a>
+													</li>
+												</ul>
+												<div class="megamenu-tabs-pane active">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Can't shed those Gym? The problem might be in</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Smart packs parking sensor tech and beeps</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Deleting fears from the brain means you might never</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel4.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+	
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-1.html">Technology</a>
+									</li>
+									<li>
+										<a href="#">Video</a>
+										<div class="megamenu-panel">
+											<div class="row">
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech4.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-2.html">Travel</a>
+									</li>
+									<li>
+										<a href="#">Features</a>
+										<ul class="nav-dropdown">
+											<li>
+												<a href="#">Category layout</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="category-1.html">Category layout 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-2.html">Category layout 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="category-3.html">Category layout 3</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-4.html">Category layout 4</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-5.html">Category layout 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-6.html">Category layout 6</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Posts Formate</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="single-post-1.html">Single Post 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-2.html">Single Post 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-3.html">Single Post 3 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-4.html">Single Post 4 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-5.html">Single Post 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-6.html">Single Post 6</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-7.html">Single Post 7</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-8.html">Single Post 8</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-9.html">Single Post 9</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-10.html">Single Post 10</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Pages</a>
+												<ul class="nav-dropdown">
+													<li>
+														<a href="author.html">Author</a>
+													</li>
+													<li>
+														<a href="404.html">404 </a>
+													</li>
+	
+												</ul>
+											</li>
+										</ul>
+									</li>
+	
+								</ul>
+								<!--nav menu end-->
+							</div>
+						</nav>
+						<!-- nav end-->
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- header nav end-->
+
+        
+	<!-- single post start -->
+	<section class="single-post-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<ol class="breadcrumb">
+						<li>
+							<a href="/">
+								<i class="fa fa-home"></i>
+								Home
+							</a>
+						</li>
+						<li>
+							<a href="/iphreaks"></a>
+						</li>
+						<li>Travel</li>
+					</ol>
+					<!-- breadcump end-->
+					<div class="ts-grid-box content-wrapper single-post">
+						<div class="entry-header">
+							<h2 class="post-title lg">Swiss authorities say Uber drivers should treated as employees</h2>
+							<ul class="post-meta-info">
+								<li>
+									<a href="#" class="post-cat ts-yellow-bg">Travel</a>
+								</li>
+								<li class="author">
+									<a href="#">
+										<img src="/images/avater/author.png" alt=""> Donald Ramos
+									</a>
+								</li>
+								<li>
+									<i class="fa fa-clock-o"></i>
+									March 21, 2019
+								</li>
+								<li class="active">
+									<i class="icon-fire"></i>
+									3,005
+								</li>
+								<li class="share-post">
+									<a href="#">
+										<i class="fa fa-share"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- single post header end-->
+						<div class="post-content-area">
+							<div class="post-media post-featured-image">
+								<a href="/images/news/travel/travel2.jpg" class="gallery-popup">
+									<img src="/images/news/travel/travel2.jpg" class="img-fluid" alt="">
+								</a>
+							</div>
+							<div class="entry-content">
+								
+<span style="font-weight: 400;">01:13 - Veronica Ray Introduction</span>
+<ul>
+ 	<li><a href="https://twitter.com/nerdonica"><span style="font-weight: 400;">Twitter</span></a></li>
+ 	<li><a href="https://medium.com/@nerdonica"><span style="font-weight: 400;">Medium.com: Veronica</span></a></li>
+ 	<li><a href="https://www.linkedin.com/"><span style="font-weight: 400;">LinkedIn</span></a></li>
+</ul>
+<span style="font-weight: 400;">01:47 - </span><a href="https://en.wikipedia.org/wiki/Dependency_injection"><span style="font-weight: 400;">Dependency Injection</span></a>
+
+<span style="font-weight: 400;">02:41 - Decoupling Code</span>
+
+<span style="font-weight: 400;">03:39 - Local Reasoning; Testing</span>
+
+<span style="font-weight: 400;">04:45 - Mocking in Swift</span>
+
+<span style="font-weight: 400;">Dependency Injection (Cont’d)</span>
+<ul>
+ 	<li><a href="http://ocmock.org/"><span style="font-weight: 400;">OCMock</span></a></li>
+</ul>
+<span style="font-weight: 400;">15:36 - Well-done Mocks</span>
+<ul>
+ 	<li><span style="font-weight: 400;">Value Types</span>
+<ul>
+ 	<li><a href="https://developer.apple.com/videos/play/wwdc2016/207/"><span style="font-weight: 400;">What's New in Foundation for Swift</span></a></li>
+ 	<li><a href="https://developer.apple.com/videos/play/wwdc2016/419/"><span style="font-weight: 400;">Protocol and Value Oriented Programming in UIKit Apps</span></a></li>
+</ul>
+</li>
+</ul>
+<span style="font-weight: 400;">18:03 - Resources</span>
+<ul>
+ 	<li><a href="https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/"><span style="font-weight: 400;">Veronica Ray: Real World Mocking in Swift</span></a></li>
+ 	<li><a href="http://blog.eliperkins.me/mocks-in-swift-via-protocols"><span style="font-weight: 400;">Mocks in Swift via Protocols</span></a></li>
+ 	<li><a href="http://blog.pragmaticengineer.com/swift-the-only-modern-language-with-no-mocking-framework/"><span style="font-weight: 400;">Swift: The Only Modern Language without Mocking Frameworks</span></a></li>
+ 	<li><a href="https://github.com/square/Cleanse"><span style="font-weight: 400;">Cleanse</span></a></li>
+</ul>
+&nbsp;
+
+<span style="font-weight: 400;">Picks</span>
+<ul>
+ 	<li><a href="http://slither.io"><span style="font-weight: 400;">slither.io</span></a><span style="font-weight: 400;"> (Caleb)</span></li>
+ 	<li><a href="https://sharpfivesoftware.com/category/tdd/"><span style="font-weight: 400;">Sharp Five Software Category: TDD</span></a><span style="font-weight: 400;"> (Jaim)</span></li>
+ 	<li><a href="https://www.htcvive.com/us/"><span style="font-weight: 400;">HTC Vive</span></a><span style="font-weight: 400;"> (Layne)</span></li>
+ 	<li><a href="https://www.amazon.com/dp/B00ALBR2MC/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1"><span style="font-weight: 400;">The Eye of Minds by James Dashner</span></a><span style="font-weight: 400;"> (Layne)</span></li>
+ 	<li><a href="https://hello.is/"><span style="font-weight: 400;">Sense</span></a><span style="font-weight: 400;"> (Veronica) </span></li>
+ 	<li><a href="http://latenightsw.com"><span style="font-weight: 400;">Script Debugger 6</span></a><span style="font-weight: 400;"> (Andrew)</span></li>
+</ul>
+
+<h3>Transcript</h3>
+
+<p class="p1"><span class="s1"><b><i>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York and L.A. bid on iOS developers, providing them with salary and equity upfront. The average iOS developer gets an average of 5-15 introductory offers and an average salary offer of $130,000/year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It’s totally free for users, and when you're hired they also give you a $1,000 signing bonus as a thank you for using them. But if you use the iPhreaks link, you’ll get a $2,000 bonus instead. Finally, if you're not looking for a job but know someone who is, you can refer them on Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/iphreaks]</i></b></span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Hey everybody and welcome to the iPhreaks Show, episode number 162. This week on our panel, we have Caleb Hicks.</span></p>
+<p class="p1"><span class="s1"><b>CALEB:</b> Hey, I’m here in Salt Lake City today.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Layne Moseley.</span></p>
+<p class="p1"><span class="s1"><b>LAYNE:</b> Hello there. I’m out in Utah.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> And we have just been joined by Jaim Zuber.</span></p>
+<p class="p1"><span class="s1"><b>JAIM:</b> Hello! I’m [inaudible] most times so sorry.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> It’s okay. We’re glad to have you. And I’m Andrew Madsen, also in Salt Lake City and we have a guest today. Her name is Veronica Ray. Veronica, would you like to introduce youself?</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah, sure thing. So I work on iOS at the video team at LinkedIn and I live in New York City.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Nice. The LinkedIn app is actually – is a pretty good app. Do you work on the LinkedIn app itself or are you doing other stuff on the video team?</span></p>
+<p class="p1"><span class="s1">C: So I’m doing a bit of both. I’m working on a new app that I can’t really talk about that’ll be launched soon and I’ve also been working on features in the main LinkedIn app that will be – we laid it to the new app.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Oh, cool. Well, we brought you on today to talk about dependency injection and mocking in Swift. This is something that I think you know more than any of us about. So maybe you could give us just a brief introduction of what dependency injection is and why mocks are an important part of that.</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah, sure thing. So the infamous definition of dependency injection I found was giving an object its instance variable. The idea is you don’t want an object creating everything it need to function, creating services, creating all these things; you just give the object what it needs when you initialize it and then it can make your objects more independent, easy to compose because you can – you’re just giving it what it needs so it can be used in more places and it decouples your code a lot.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> So why is decoupling code important? I think we’ve all heard it’s important but why is it important?</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> For a couple of different reasons but I think the main one that comes to my head is just that it makes it easier to reason about your code. And there’s a WWDC video this year where they talked about local reasoning. So if – maybe you’re new to code base, maybe you’ve been looking at it for a while but at a particular class or whatever you’re working on in your code, it makes it easier to debug it or [inaudible] about it. You don’t have these bugs that happen and you’re like totally baffled by why this bug is happening because maybe some totally unrelated part of your code is affecting it. It’s definitely better for thinking about your code and it’s better for avoiding these really nasty bugs that could take so much time to debug.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Alright. So I like everything you just talked about, Veronica, particularly this local reasoning idea’s interesting to me because it means that when you’re reading a piece of code, you have – as I understand, it means you’re reading a piece of code, maybe it’s unfamiliar to you, maybe it’s new. You didn’t – you last worked on it a long time ago. [Crosstalk] But you’re not having to maintain so much mental state even just to figure out what this code is doing because you’re thinking about the code you’re looking at instead of all this other code that’s in a million other places. Does that sound about right?</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah, that’s definitely right.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> It seems like this has some implications for testing as well.</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah, definitely. Testing isn’t the only great reason to do this but it ends up being one of the key reasons for doing this and what I’ve been really thinking about and focusing on. And in terms of a lot of the material for that, Real World Mocking talk at try! Swift in Tokyo was based on the work I did, going from basically no testing in this new app we’re working on to having a decent amount of testing that made us feel comfortable continuing the ship code.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> So creating mocks in Objective-C was one thing but now creating it in – creating mocks in Swift is definitely a little more – it’s a different challenge. So how do you approach that and what are some best practices with mocking in Swift.</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah, so I started thinking about mocking in Swift just because when you write tests, it just comes up. I have a Java background so we have Mockito and I’ve used some of these mocking frameworks before so when I started writing tests, one of the main classes that came up was – I started thinking about mocking was [inaudible] or defaults. So you start writing tests where your setting up issues and defaults – maybe you’re making sure certain defaults are set and then you have to do a [inaudible] on.</span></p>
+<p class="p1"><span class="s1">And you see this code bloat where you have this code that you keep writing everywhere and you start thinking about how can I reduce this duplicated code? What are the implications if we change the real user defaults in this test? Does that matter? And you start thinking about how do I do tests? Some of the key things that I realized about writing good mocks is choosing well what gets mocked so writing a mock for something has upfront investment, it has maintenance cost. And you don’t have to write mocks for everything; you have to think about is not using the [inaudible] class going to really benefit your test? Maybe you worry about having slow test so you have a mock or NSURL session. Or maybe you’re worried about messing with the user’s data or you worry about sending [inaudible] notifications. I’ve thought through a lot of these different issues and for our own app, I came to the conclusion about what classes we should mock in and what classes we really shouldn’t write mocks for. That’s one of the bigger things.</span></p>
+<p class="p1"><span class="s1">When you go specifically for iOS, you start thinking about – you’re interacting with all these Apple framework classes – should you write mocks for them? So that’s a whole can of worms that I also thought about. [Chuckles]</span></p>
+<p class="p1"><span class="s1"><b>LAYNE:</b> So I have a good experience – well, I don’t want to say a good experience but I have an experience with this. Yesterday actually, I was testing a bit of code that you wrote a file to disk so that was pretty simple. But then I decided to upload that file to CloudKit. The moment I did that and I uploaded this code to the build server, all of a sudden, it crashed and it went crazy because there is no entitlements for CloudKit and honestly, I wouldn’t want that code when I’m testing to hit CloudKit. So I did not use dependency injection for this at all, instead, I added this nasty code to check and say, “Hey, am I testing? Then don’t do this.” I felt bad about that; I didn’t like it. [Chuckles] so I’m wondering, in that case, how would you describe changing this in using dependency injection to solve this problem.</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah, the way I think I had when I worked with NSNotificationCenter, it was kind of a long process of actually doing it and even though I didn’t end up using the NSNotificationCenter mock, I’m really glad I went through the process of – I’ve seen, how would you do this the right way or how would you avoid doing some nasty code. So what I would do is think about where CloudKit is used in your app. If you need a dependency injection, how many classes would need to have CloudKit passed in as a dependency? What I would do is try writing – if you’re writing a mock, I never really written mocks for CloudKit but for any kind of class you’re using, I would try writing a simple mock and making it as simple as possible because I’m sure whatever you could write for CloudKit would be – could be very complicated if you wanted it to match Apple’s APIs closely. But that’s not really the goal; the goal is to have your mock do for you what you need. So maybe all you want to do is check that this certain function call was made or that this instance variable change.</span></p>
+<p class="p1"><span class="s1">So what I would do is I would just think about what you don’t want to do; you don’t want to really upload this file for real and just make the simplest mock to help you avoid your problem. In you code base, use the mock instead of the real class and I think if you don’t already have any dependency injection in your app already, that might take some work but yeah, that’s my process and I’ve done this for NSNotificationCenter manager and its user defaults, the two main ones that I’ve done this process for.</span></p>
+<p class="p1"><span class="s1"><b>LAYNE:</b> Yeah, that makes a lot of sense. In fact, I think I recall reading something in one of your blog posts where you had a mock that just set a flag saying, yes, this function was actually called and I think – in my case at least, that would make quite a bit of sense.</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah, one of the pitfalls that I encountered when I made that my NSNofiticationCenter mock was that I tried to match it so closely with the real object that I was trying to basically – to have all these functions that were suddenly different and I was creating this mapping of observers and [inaudible] and values and getting all the types so I – it was not a positive experience. And someone on my team was like, “So what are you trying to do here? Are you trying to just exactly recreate NSNotificationCenter? Or are we just trying to see that we actually said – we called this function. We actually – we [inaudible] is or do we just want to avoid not sending real notifications? In that case, you can just have a seriously empty function.”</span></p>
+<p class="p1"><span class="s1">And I found when I talked to someone, he actually successfully did a mock NSNotificationCenter in their app. What they did was just they wanted to make sure the function was [inaudible] and for them, it wasn’t this painful experience where they were like, “I’ll never mocking NSNotificationCenter again.” They were like, “Oh yeah, this was useful; this was good.”</span></p>
+<p class="p1"><span class="s1"><b>JAIM:</b> That’s a good point. It speaks to separating the responsibilities and that’s one of the reasons we use the notification center is to break up the responsibilities in your code. So if you’re just checking for [inaudible] methods called, that’s all that that method should be doing. And we test the other side in a different test, in a different class so that’s a good approach is – I wouldn’t want to re-implement anything like NSUserDefaults or notifications. That sounds like a terrible headache.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Not only do you not want to reimplement; it seems to me like if you – you’re not actually – you’re not trying to test the thing you’re mocking either; you’re trying to test [inaudible] uses it. That depends on it so it doesn’t really make sense to implement all of the functionality that was there in the real thing anyway.</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah, that’s completely right. That’s one of the pitfalls of when people are having negative experiences with mocking, that’s just a bad thing to do. And another thing is it gets kind of dangerous and scary when you’re trying to make your mock exactly like the real thing if it is a type you don’t own. Because if you – if you’re mocking a class you wrote yourself, at least you know when you change that class. You’re doing the extra work to update the mock but there’s no surprises. Like when Apple changes their API suddenly and suddenly there’s a lot of surprises when your test don’t work anymore, the best approach is to really make your mock as simple as you need them to be. And don’t – yeah, you’re not testing the real thing.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> You mentioned this in your talk at try! Swift but there’s a framework at Objective-C called OCMock. It’s pretty widely used for mocking in ObjectiveC and makes creating mocks somewhat easier from there. You just have to write everything yourself. You talked about how with – OCMock is basically not worth using in Swift even though you technically could. Why don’t you tell us a little bit about what it really takes to write your own mock in Swift and maybe some of the Swift-specific ways that you can really nicely write mocks?</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Oh yeah. So the god news is that writing your own mocks isn’t a huge amount of work. One of the great things that we have at our disposal is protocols. So what I would consider a really good practice that people are really catching on to is creating a mock with protocols.</span></p>
+<p class="p1"><span class="s1">I had a user defaults protocol that had the key functions that I wanted to be part of my mock and then I would have my mock conformed to that protocol. So that has a lot of nice benefits because when you’re just conforming to a protocol, you don’t need to take in all the instance variable of the superclass; it can just make your mock – it just makes your mock a lot simpler.</span></p>
+<p class="p1"><span class="s1"><b>JAIM:</b> It’s a good approach for the framework types like if you want to do them, you can extract the protocol. You can actually create an extension on the class itself with Swift so you’re actually accessing the methods that you just find in your [inaudible] but you don’t need the entire thing so your class is dependent on a full version of UI application or whatever framework type things you’re going to need so it’s a solid approach.</span></p>
+<p class="p1"><span class="s1">One of the things that really changed with Swift testing and mocking – everyone did OCMock with Objective-C and doing the standard, old-way of doing things like in Java, the earliest way of creating mocks is just sub-classing a class and overwriting it which was pretty tedious with Objective-C so everyone will see is – they’ll see a mock because it was easy; a couple lines of code, you’re up and running versus creating a header file, creating implementation file, make sure everything lines up correctly, the header files line up.</span></p>
+<p class="p1"><span class="s1">With Swift, it became very easy to create a new class. Either you’re overwriting it or just creating a protocol so those type of things became very easy. Early on when they announced Swift, I was like, “How are we going to test this stuff? It’s a static language,” and I think Matt Thompson was one of the few who said, “Hey, it’s easy to create a – to overwrite a class. You can do it inside the class. It doesn’t include the names base.” Can you do it inside the method? I don’t remember but it’s trivial to create a class at this point so that’s the standard technique that I’ve seen that I’ve been using.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Maybe you could talk just a little bit about what really makes for – and we’ve covered some of this but what makes for well-done mocks? Part of the thing I’m looking at is for Swift stuff and you’ve – you talked in your try! Swift talk about value types versus reference types when you’re making mocks? That’s an interesting thing, too.</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah, and I think that’s super interesting with some of the changes and announcements made at WWDC because I feel like when I gave the talk, I definitely feel like a lot of people knew about value types versus reference types and people are saying if you use value types, you don’t have to write a mock for them because it’s just data in, data out. And I think – it can seem like a very daunting task to look in your code base and be like, “Okay, so how do I make these reference types value types?” And I think this has just been an on-going process for me whenever I see a reference type thinking like, could it be a value type? And lately thinking through that and talking to people about it.</span></p>
+<p class="p1"><span class="s1">But yeah, the great thing about value types is that yeah, you don’t have to write mocks for them. Though something that I have done if there’s – if you have a value type but you have some kind of complex setup code, you can maybe put that in a separate class to instantiate it and do the setup code so that you could use it easier.</span></p>
+<p class="p1"><span class="s1">One thing I was excited about was the new value types in Foundation. None of them really – or ones I would’ve written mocks for but I think that’s just such a great direction to go in and I’m just so excited that we have What’s New in Foundation for Swift was a session that was super great. Also, there was a session about protocols and value types. I forgot the name of it but I just think value types are like really – becoming a lot more popular and encouraged from Apple and I think that’s – and I love how Apple’s using testing examples in their sessions this year. If you’re really wanting to learn more about this, there’s definitely great resources.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> We unfortunately have a short show today so we can’t talk to you as long as we would like to. But before we wrap up and – I know there’s a lot we didn’t cover but before we wrap up, is there anything you think that we really need to talk about that we have not talked about yet? And I – let me add, there’s something I think we should talk about which is what if somebody wants to learn a bunch more about this and start writing good tests for their Swift code and learn about how to write good mocks and do all that?</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah, definitely. Maybe they don’t want to go back and read – a lot of the resources are from Java, like a lot of the really – the classic resources that people point to or use Java examples which is fine but I would say, well, not to plug my own talk too much but my talk is probably one of the few resources out there that are Swift-specific. And I think that there’s also some really good articles out there if you want to. I’m going to have two blog posts that are really helpful. One is the mocks in Swift via protocols blog post by Eli Perkins. I think another key thing to understand is why don’t we have a mocking framework for Swift and why is it not likely given – Swift’s design that we’ll be have one in the future.</span></p>
+<p class="p1"><span class="s1">There’s a really great article called Swift: The Only Modern Language without Mocking Frameworks. So it’s really good to have some context and to understand as Swift developers and iOS developers, what is the pond that we’re in and how can we learn from other communities like Java but also operate within the constraints? And some of the great advantages we have like – for example, there’s a new dependency injection framework that square released last week called Cleanse and it makes use of Swift’s really great type system. So I think one thing, if I’m going to leave us with one thought, is it might seem like it’s this bad news that we don’t have an OCMock for Swift but there’s so much amazing innovation happening using the strength that Swift has. So I want us to continue to write tests, continue to think about how to do great test and take advantage of what Swift offers us.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Yeah, it’s fun – I think it’s actually fun and it’s an exciting and good time for us to re-evaluate some of the things that we’ve done in the past and come up with truly better and best ways to do things in Swift using nice things about Swift instead of trying to shoe horn everything into what we already did in Objective-C.</span></p>
+<p class="p1"><span class="s1">Well, I think this has actually been really interesting. It makes me want to learn more at something that I don’t already know a lot about and it would be nice to learn about it and hopefully improve my code with.</span></p>
+<p class="p1"><span class="s1">Should we get to picks?</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah!</span></p>
+<p class="p1"><span class="s1"><b>LAYNE:</b> I have a quick thought if you don’t mind.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Sure Layne!</span></p>
+<p class="p1"><span class="s1"><b>LAYNE:</b> You know, I haven’t done a lot of dependency injection with Apple platforms but I wrote a bunch of Node code a couple of years ago and it was strictly dependency injection. I have to say from experience there, it’s awesome and it makes testing a complete breeze and totally great. So any advancement so we can get in Swift and get people doing it overall will help everybody out.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> There’s a lot to look forward to in other words. Okay, well let’s get to picks. Let’s see; Caleb, do you want to start us with your picks?</span></p>
+<p class="p1"><span class="s1"><b>CALEB:</b> Sure. My pick this week is the game that’s called slither.io. You can play it online; I’s also an iOS app and I’m sure on other platforms as well.</span></p>
+<p class="p1"><span class="s1">Some blog post came out earlier this week, mentioning that the developer of this app is making something like $100,000 a day right now so it’s a very popular game, but basically you – for me it’s perfect for when I’m at home and just tired after a long day of work or whatever and I just want something to relax with. Kind of a mindless game and you play as a snake and you’re trying to get longer but there are other snakes that you are trying to avoid running into. So it’s kind of a massive multiplayer online snake game which is a lot of fun.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> The fact that somebody is making $100,000 a day from a game that kids play on their TI-83 calculators in high school twenty years ago kind of annoys me but I’m also proud of him. [Chuckles]</span></p>
+<p class="p1"><span class="s1"><b>CALEB:</b> It’s a lot of fun so check it out, slither.io or just slither on the App Store.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Thanks Caleb. Let’s see – Jaim, do you have some picks for us?</span></p>
+<p class="p1"><span class="s1"><b>JAIM:</b> Alright, I’m just going to go straight to the self-promotion for my picks. I did a couple of blog posts about property injection and [inaudible] and testing with Singletons that [inaudible] of creating stubs and mocks for classes. So this shows a technique for the Singletons which are hard to test if you use them the standard way but actually can be fairly easy if you do your own dependency injection magic. They both cover Swift so I’m just going to do a link to that.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Great. Layne, do you have some picks for us?</span></p>
+<p class="p1"><span class="s1"><b>LAYNE:</b> I do. I have two and they’re slightly related to each other. The first one is I got to try out the HTC Vive this week which is I think probably the best consumer virtual reality headset. And I have to say that I am extremely impressed and also very excited for what the future has to bring in virtual reality because it was totally awesome. Loved it.</span></p>
+<p class="p1"><span class="s1">The other thing is I’m reading a book right now called The Eye of Minds by James Dashner. It’s also in the virtual reality space. It depicts a future where we can – humans can get into a casket thing that hooks up little wires to you nervous system and then you go into a virtual world and it completely simulates reality because it’s literally giving you all the normal sensations that we have. Pairing that with seeing cool virtual reality, it’s just kind of a cool thing to see where we might be able to go with that kind of technology.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> I haven’t got to try one of those yet but I know somebody that has one and I need to check it out, the Vive I mean.</span></p>
+<p class="p1"><span class="s1"><b>LAYNE:</b> If you can try one, you deserve to because it’s pretty cool. [Chuckles]</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Veronica, do you have any picks for us?</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> Yeah! Sure do. So one of my favorite gadgets that I’ve been using for a while, it’s called Sense. It’s by a company named Hello. It’s on your nightstand and it’s able to sense the environment around you so the light, the sound, the humidity. And it also is paired with a sleep tracker that you just clip on to your pillow. I use it for the alarm feature; I’d say it’s one of the most joyful gadgets I have because the alarm, when it sounds, it makes this amazing musical noise and it lights up in all these bright colors, and to turn the alarm off to give it a nice little tap on the head. So I’ve been using it for a while and it’s given me good information about by sleep [inaudible] and help me make changes in my environment so that I can sleep better.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Cool. I’ve just got one pick today. My pick is a Mac app called Script Debugger. This is basically an IDE for AppleScript which seems like a strange pick but the developer of this just released version 6 today. He’s cut the price in half which is nice but if you do anything with AppleScript, whether it’s scripting apps which I actually do occasionally, or if you’re a developer – Mac developer that maintains an app that has an AppleScript dictionary which I do, this is just a really valuable tool. It has a built-in debugger and obviously that’s where the name comes from but really, it’s like a whole IDE for AppleScript. It supports AppleScript, Objective-C which means you could actually write complete Mac apps in AppleScript if you really want to using the Objective-C bridge. And partly, the reason why I’m picking it is because it just is fun for me to see a developer that’s putting so much love and attention to what is a really niche tool and just doing a great job with it so that’s my pick.</span></p>
+<p class="p1"><span class="s1">I think that’s everything. Thanks for coming on, Veronica. If people want to know more about you or find you, how can they do that?</span></p>
+<p class="p1"><span class="s1"><b>VERONICA:</b> I’m very active on Twitter. My Twitter is @nerdonica.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> Okay.</span></p>
+<p class="p1"><span class="s1"><b>CALEB:</b> One of my favorite Twitter names I’ve ever seen.</span></p>
+<p class="p1"><span class="s1"><b>ANDREW:</b> So everybody go follow @nerdonica. Thanks for coming on everybody and see you all next week.</span></p>
+<p class="p1"><span class="s1"><b><i>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]</i></b></span></p>
+
+								<p class="text-bg">Leidanett was living a life of almost unfathomable despair a year ago no one knows (1995)</p>
+								<p>
+									<span class="tie-dropcap">A</span> farmers in the US’s South—faced with continued failure in their efforts to run on successful farms their
+									launched a lawsuit claiming that “white racism” is to the blame for their inability to produce crop yields.
+								</p>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<blockquote>
+									Black farmers in the US’s South faced with continued failure in their efforts to run the successful farms launched a lawsuit
+									<cite>Steve Jobs</cite>
+								</blockquote>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should
+								</h3>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<p>
+									<img class="float-left" src="/images/news/news-details/post_style.jpg" alt="">
+								</p>
+								<h3>For the first time the Secretart end</h3>
+								<ul>
+									<li>But there was also no shortage of new</li>
+									<li>Prasad made these comments on</li>
+									<li>He gave details of the answers provided</li>
+									<li>The government forthcoming in before</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South faced with the thecontinu failure in their own efforts to run and succe farms is to blame
+									for their inability to an sell an black farme a subpar product at
+								</p>
+								<p>
+									the most Mid-South Farm on Gin Show in them March 2017.Despite above average rainfall the black farmers saw limited
+								</p>
+
+								<div class="gallery-img">
+									<a href="/images/gallery/gallery1.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery1.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery2.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery2.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery3.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery3.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery4.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery4.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery5.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery5.jpg" alt="">
+									</a>
+								</div>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<div class="post-video">
+									<img class="img-fluid" src="/images/news/travel/travel9.jpg" alt="">
+									<div class="post-video-content">
+										<a href="https://www.youtube.com/watch?v=_0UO1NcheAE" class="ts-play-btn">
+											<i class="fa fa-play" aria-hidden="true"></i>
+										</a>
+										<h3>
+											<a href=""> For the first time the Swiss State Secretart for Economic indicated that Uber taxi</a>
+										</h3>
+									</div>
+								</div>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should be classed
+									as employees
+								</h3>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability to produce crop yields and on equivalent to that switched
+									seeds in order to sell black farmers a subpar product at the Mid-South Farm & Gin Show in March 2017. Despite above
+									average rainfall, the black farmers saw limited soybean yield from the Stine seeds during the 2017 harvest.
+								</p>
+								<p>
+									<a href="">
+										<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+									</a>
+								</p>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair
+								</h3>
+								<ul>
+									<li>
+										But there was also no shortage of news for the worlds of film.
+									</li>
+									<li>
+										Prasad made these comments on behalf of the Treasury benches.
+									</li>
+									<li>
+										He gave details of the answers provided by Defence.
+									</li>
+									<li>
+										The government has been forthcoming in declaring the aircraft.
+									</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability
+								</p>
+							</div>
+							<!-- entry content end-->
+						</div>
+						<!-- post content area-->
+						<div class="author-box">
+							<img class="author-img" src="/images/avater/author.png" alt="">
+							<div class="author-info">
+								<h4 class="author-name">Elina Themen</h4>
+								<div class="authors-social">
+									<a href="#" class="ts-twitter">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<a href="#" class="ts-facebook">
+										<i class="fa fa-facebook"></i>
+									</a>
+									<a href="#" class="ts-google-plus">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<a href="#" class="ts-linkedin">
+										<i class="fa fa-linkedin"></i>
+									</a>
+								</div>
+								<div class="clearfix"></div>
+								<p>Black farmers in the US’s South—faced with continued failure in their efforts to run for the successful farms their
+									launched </p>
+
+							</div>
+						</div>
+						<!-- author box end-->
+						<div class="post-navigation clearfix">
+							<div class="post-previous float-left">
+								<a href="#">
+									<img src="/images/news/travel/travel6.jpg" alt="">
+									<span>Read Previous</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+							<div class="post-next float-right">
+								<a href="#">
+									<img src="/images/news/tech/tech5.jpg" alt="">
+									<span>Read Next</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+						</div>
+						<!-- post navigation end-->
+					</div>
+					<!--single post end -->
+					<div class="comments-form ts-grid-box">
+						<h3 class="comment-reply-title">Add Comment</h3>
+
+						<form role="form" class="ts-form">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										<input class="form-control" name="name" id="name" placeholder="Your Name" type="text" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" name="email" id="email" placeholder="Your Email" type="email" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" placeholder="Your Website" type="text" required="">
+									</div>
+									<!-- form group end-->
+								</div>
+								<!-- Col end -->
+								<div class="col-md-6">
+									<div class="form-group">
+										<textarea class="form-control msg-box" id="message" placeholder="Your Comment" rows="10" required=""></textarea>
+									</div>
+								</div>
+								<!-- Col end -->
+								<div class="col-md-12">
+									<p class="comment-form-cookies-consent">
+										<input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes">
+										<label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+									</p>
+								</div>
+							</div>
+							<!-- Form row end -->
+							<div class="clearfix">
+								<button class="comments-btn btn btn-primary" type="submit">Post Comment</button>
+							</div>
+						</form>
+						<!-- Form end -->
+					</div>
+					<!-- comment form end-->
+					<div class="ts-grid-box mb-30">
+						<h2 class="ts-title">Most Popular</h2>
+
+						<div class="most-populers owl-carousel">
+							<div class="item">
+								<a class="post-cat ts-yellow-bg" href="#">Travel</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+
+							<div class="item">
+								<a class="post-cat ts-blue-light-bg" href="#">Technology</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Music</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/music/music2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+						</div>
+						<!-- most-populers end-->
+					</div>
+
+				</div>
+				<!-- col end -->
+				<div class="col-lg-3">
+					<div class="right-sidebar">
+						<div class="ts-grid-box widgets social-widget">
+							<h2 class="widget-title">Follow us</h2>
+							<ul class="ts-social-list">
+								<li class="ts-facebook">
+									<a href="#">
+										<i class="fa fa-facebook"></i>
+										<b>12.5 k </b>
+										<span>Likes</span>
+									</a>
+
+								</li>
+								<li class="ts-google-plus">
+									<a href="#">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-twitter">
+									<a href="#">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-pinterest">
+									<a href="#">
+										<i class="fa fa-pinterest-p"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Photos</span>
+								</li>
+								<li class="ts-linkedin">
+									<a href="#">
+										<i class="fa fa-linkedin"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-youtube">
+									<a href="#">
+										<i class="fa fa-youtube"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets widget-banner">
+							<a href="#">
+								<img class="img-fluid" src="/images/banner/sidebar-banner2.jpg" alt="">
+							</a>
+						</div>
+						<!-- widgets end-->
+						<div class="post-list-item widgets">
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<li role="presentation">
+									<a class="active" href="#home" aria-controls="home" role="tab" data-toggle="tab">
+										<i class="fa fa-clock-o"></i>
+										Recent
+									</a>
+								</li>
+								<li role="presentation">
+									<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
+										<i class="fa fa-heart"></i>
+										Favorites
+									</a>
+								</li>
+							</ul>
+
+							<!-- Tab panes -->
+							<div class="tab-content">
+								<div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+
+								</div>
+								<!--ts-grid-box end -->
+
+								<div role="tabpanel" class="tab-pane ts-grid-box post-tab-list" id="profile">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports1.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+								</div>
+								<!--ts-grid-box end -->
+							</div>
+							<!-- tab content end-->
+						</div>
+						<!-- widgets end-->
+
+						<div class="ts-grid-box widgets category-widget">
+							<h2 class="widget-title">Categories</h2>
+							<ul class="category-list">
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Sports
+										<span class="ts-green-bg">25</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Fashion
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Technology
+										<span class="ts-blue-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Music
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Food
+										<span class="ts-yellow-bg">10</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets ts-grid-box post-tab-list ts-col-box">
+							<h3 class="widget-title">Populer Post</h3>
+							<div class="ts-overlay-style">
+								<div class="item">
+									<div class="ts-post-thumb">
+										<a href="#">
+											<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+										</a>
+									</div>
+									<div class="overlay-post-content">
+										<div class="post-content">
+											<h3 class="post-title">
+												<a href="#">Tourism in Dubai is boom international tourist</a>
+											</h3>
+											<ul class="post-meta-info">
+												<li>
+													<i class="fa fa-clock-o"></i>
+													March 21, 2019
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- ts-overlay-style  end-->
+
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">18 month shoots himself by gun </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/tech/tech2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">The body is a healing system. </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+
+						</div>
+
+						<div class="ts-grid-box widgets tag-list">
+							<h3 class="widget-title">Tags</h3>
+							<ul>
+								<li>
+									<a href="#">Tech</a>
+								</li>
+								<li>
+									<a href="#">Fashion</a>
+								</li>
+								<li>
+									<a href="#">Sports</a>
+								</li>
+								<li>
+									<a href="#">Football</a>
+								</li>
+								<li>
+									<a href="#">Styles</a>
+								</li>
+								<li>
+									<a href="#">Rech</a>
+								</li>
+								<li>
+									<a href="#">Lifestyle</a>
+								</li>
+								<li>
+									<a href="#">Technology</a>
+								</li>
+								<li>
+									<a href="#">Guide</a>
+								</li>
+								<li>
+									<a href="#">Food</a>
+								</li>
+								<li>
+									<a href="#">Animal</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- right sidebar end-->
+				<!-- col end-->
+			</div>
+			<!-- row end-->
+		</div>
+		<!-- container-->
+	</section>
+	<!-- single post end-->
+
+
+        
+		<!-- footer social list start-->
+		<section class="ts-footer-social-list section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="footer-logo">
+							<a href="#">
+								<img src="/images/logo/footer_logo.png" alt="">
+							</a>
+						</div>
+						<!-- footer logo end-->
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-8 align-self-center">
+						<ul class="footer-social">
+							<li class="ts-facebook">
+								<a href="#">
+									<i class="fa fa-facebook"></i>
+									<span>Facebook</span>
+								</a>
+							</li>
+							<li class="ts-google-plus">
+								<a href="#">
+									<i class="fa fa-google-plus"></i>
+									<span>Google Plus</span>
+								</a>
+							</li>
+							<li class="ts-twitter">
+								<a href="#">
+									<i class="fa fa-twitter"></i>
+									<span>Twitter</span>
+								</a>
+							</li>
+							<li class="ts-pinterest">
+								<a href="#">
+									<i class="fa fa-pinterest-p"></i>
+									<span>pinterest</span>
+								</a>
+							</li>
+							<li class="ts-linkedin">
+								<a href="#">
+									<i class="fa fa-linkedin"></i>
+									<span>Linkedin</span>
+								</a>
+
+							</li>
+						</ul>
+					</div>
+					<!-- col end-->
+
+				</div>
+			</div>
+		</section>
+		<!-- footer social list end-->
+
+		<!-- newslater start -->
+		<section class="ts-newslatter section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="ts-newslatter-content">
+							<h2>
+								Sign up for the Newsletter
+							</h2>
+							<p>
+								Join our newsletter and get updates in your inbox. We won’t spam you and we respect your privacy.
+							</p>
+						</div>
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-6 align-self-center">
+						<div class="newsletter-form">
+							<form action="#" method="post" class="media align-items-end">
+								<div class="email-form-group media-body">
+									<i class="fa fa-paper-plane" aria-hidden="true"></i>
+									<input type="email" name="email" id="newsletter-form-email" class="form-control" placeholder="Enter Your Email" autocomplete="off">
+								</div>
+								<div class="d-flex ts-submit-btn">
+									<button class="btn btn-primary">Subscribe</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- newslater end -->
+
+		<!-- footer start -->
+		<footer class="ts-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="footer-menu text-center">
+							<ul>
+								<li>
+									<a href="#">Support</a>
+								</li>
+								<li>
+									<a href="#">Suggestion</a>
+								</li>
+								<li>
+									<a href="#">Privacy</a>
+								</li>
+								<li>
+									<a href="#">About</a>
+								</li>
+								<li>
+									<a href="#">Our Ads </a>
+								</li>
+								<li>
+									<a href="#">Terms</a>
+								</li>
+							</ul>
+						</div>
+						<div class="copyright-text text-center">
+							<p>&copy; 2018, Vinazine. All rights reserved</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- footer end -->
+
+
+	</div>
+
+
+	<!-- javaScript Files
+	=============================================================================-->
+
+	<!-- initialize jQuery Library -->
+	<script src="/js/jquery.min.js"></script>
+	<!-- navigation JS -->
+	<script src="/js/navigation.js"></script>
+	<!-- Popper JS -->
+	<script src="/js/popper.min.js"></script>
+
+	<!-- magnific popup JS -->
+	<script src="/js/jquery.magnific-popup.min.js"></script>
+
+
+
+	<!-- Bootstrap jQuery -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script src="/js/owl-carousel.2.3.0.min.js"></script>
+	<!-- slick -->
+	<script src="/js/slick.min.js"></script>
+
+	<!-- smooth scroling -->
+	<script src="/js/smoothscroll.js"></script>
+
+	<script src="/js/main.js"></script>
+</body>
+
+</html>

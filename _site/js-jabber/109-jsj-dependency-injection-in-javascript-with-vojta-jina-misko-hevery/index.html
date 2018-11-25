@@ -1,0 +1,2084 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Basic Page Needs =====================================-->
+	<meta charset="utf-8">
+
+	<!-- Mobile Specific Metas ================================-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Site Title- -->
+	<title>109 JSJ Dependency Injection in JavaScript with Vojta Jína & Misko Hevery
+</title>
+
+	<!-- CSS
+   ==================================================== -->
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/animate.css">
+
+	<!-- IcoFonts -->
+	<link rel="stylesheet" href="/css/icofonts.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="/css/owlcarousel.min.css">
+
+	<!-- slick -->
+	<link rel="stylesheet" href="/css/slick.css">
+
+
+
+	<!-- navigation -->
+	<link rel="stylesheet" href="/css/navigation.css">
+
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="/css/magnific-popup.css">
+
+
+
+
+	<!-- Style -->
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="stylesheet" href="/css/colors/color-2.css">
+
+	<!-- Responsive -->
+	<link rel="stylesheet" href="/css/responsive.css">
+
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+	<div class="body-inner-content">
+		<!-- top bar start -->
+		<section class="top-bar v4">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 align-self-center">
+						<div class="ts-breaking-news clearfix">
+							<h2 class="breaking-title float-left">
+								<i class="fa fa-bolt"></i> Our Latest Episodes :</h2>
+							<div class="breaking-news-content float-left" id="breaking_slider1">
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end col-->
+
+					<div class="col-md-4 align-self-center">
+						<div class="text-right xs-left">
+							<div class="ts-date-item">
+								<i class="fa fa-clock-o"></i> Sunday, August 24</div>
+						</div>
+
+					</div>
+					<!--end col -->
+
+
+				</div>
+				<!-- end row -->
+			</div>
+		</section>
+		<!-- end top bar-->
+
+		<!-- ad banner start -->
+		<section class="header-middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 align-self-center">
+						<div class="header-logo">
+							<a href="/">
+								<img src="/images/logo/logo-web-small.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<div class="col-md-8 align-self-center">
+						<div class="banner-imgr">
+							<a href="index.html">
+								<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<!-- col end -->
+				</div>
+				<!-- row  end -->
+			</div>
+			<!-- container end -->
+		</section>
+
+		<!-- header nav start-->
+		<header class="header-standerd">
+			<div class="container">
+				<div class="row">
+
+					<!-- logo end-->
+					<div class="col-lg-12">
+						<!--nav top end-->
+						<nav class="navigation ts-main-menu navigation-landscape">
+							<div class="nav-header">
+								<a class="nav-brand mobile-logo visible-xs" href="index.html">
+									<!-- <img src="/images/footer_logo.png" alt=""> -->
+								</a>
+								<div class="nav-toggle"></div>
+							</div>
+							<!--nav brand end-->
+
+							<div class="nav-menus-wrapper clearfix">
+								<!--nav right menu start-->
+								<ul class="right-menu align-to-right">
+									<li class="header-search">
+										<div class="nav-search">
+											<div class="nav-search-button">
+												<i class="icon icon-search"></i>
+											</div>
+											<form>
+												<span class="nav-search-close-button" tabindex="0">✕</span>
+												<div class="nav-search-inner">
+													<input type="search" name="search" placeholder="Type and hit ENTER">
+												</div>
+											</form>
+										</div>
+									</li>
+								</ul>
+								<!--nav right menu end-->
+
+								<!-- nav menu start-->
+								<ul class="nav-menu">
+									<li class="active">
+										<a href="#">Podcasts</a>
+										<div class="megamenu-panel ts-mega-menu">
+											<div class="megamenu-lists">
+												<ul class="megamenu-list list-col-2">
+													<li class="active">
+														<a href="/js-jabber">JavaScript Jabber</a>
+													</li>
+													<li>
+														<a href="/ruby-rogues">Ruby Rogues</a>
+													</li>
+													<li>
+														<a href="/adv-in-angular">Adventures in Angular</a>
+													</li>
+													<li>
+														<a href="/my-javascript-story">My JavaScript Story</a>
+													</li>
+													<li>
+														<a href="/my-ruby-story">My Ruby Story</a>
+													</li>
+													<li>
+														<a href="/my-angular-story">My Angular Story</a>
+													</li>
+													<li>
+														<a href="/react-native-radio">React Native Radio</a>
+													</li>
+													<li>
+														<a href="/react-round-up">React Round Up</a>
+													</li>
+													<li>
+														<a href="/views-on-vue">Views on Vue</a>
+													</li>
+													<li>
+														<a href="/freelancers">The Freelancers' Show</a>
+													</li>
+													<li>
+														<a href="/iphreaks">iPhreaks</a>
+													</li>
+													<li>
+														<a href="/elixir-mix">Elixir Mix</a>
+													</li>
+													<li>
+														<a href="/the-dev-rev">The Dev Rev</a>
+													</li>
+												</ul>
+												<ul class="megamenu-list list-col-2">
+                                                    <li>
+                                                        <a href="#"><strong>Retired Shows</strong></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/tmtc-screencasts">Teach Me To Code Screencasts</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/teachmetocode">Teach Me To Code Podcast</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/rails-clips">Rails Clips</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/web-sec-warriors">Web Security Warriors</a>
+                                                    </li>
+                                                </ul>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#">Lifestyle</a>
+										<div class="megamenu-panel">
+											<div class="megamenu-tabs">
+												<ul class="megamenu-tabs-nav">
+													<li class="active">
+														<a href="#">Health</a>
+													</li>
+													<li>
+														<a href="#">Food</a>
+													</li>
+													<li>
+														<a href="#">Fashion</a>
+													</li>
+													<li>
+														<a href="#">Travel</a>
+													</li>
+												</ul>
+												<div class="megamenu-tabs-pane active">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Can't shed those Gym? The problem might be in</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Smart packs parking sensor tech and beeps</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Deleting fears from the brain means you might never</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel4.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+	
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-1.html">Technology</a>
+									</li>
+									<li>
+										<a href="#">Video</a>
+										<div class="megamenu-panel">
+											<div class="row">
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech4.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-2.html">Travel</a>
+									</li>
+									<li>
+										<a href="#">Features</a>
+										<ul class="nav-dropdown">
+											<li>
+												<a href="#">Category layout</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="category-1.html">Category layout 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-2.html">Category layout 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="category-3.html">Category layout 3</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-4.html">Category layout 4</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-5.html">Category layout 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-6.html">Category layout 6</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Posts Formate</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="single-post-1.html">Single Post 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-2.html">Single Post 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-3.html">Single Post 3 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-4.html">Single Post 4 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-5.html">Single Post 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-6.html">Single Post 6</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-7.html">Single Post 7</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-8.html">Single Post 8</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-9.html">Single Post 9</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-10.html">Single Post 10</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Pages</a>
+												<ul class="nav-dropdown">
+													<li>
+														<a href="author.html">Author</a>
+													</li>
+													<li>
+														<a href="404.html">404 </a>
+													</li>
+	
+												</ul>
+											</li>
+										</ul>
+									</li>
+	
+								</ul>
+								<!--nav menu end-->
+							</div>
+						</nav>
+						<!-- nav end-->
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- header nav end-->
+
+        
+	<!-- single post start -->
+	<section class="single-post-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<ol class="breadcrumb">
+						<li>
+							<a href="/">
+								<i class="fa fa-home"></i>
+								Home
+							</a>
+						</li>
+						<li>
+							<a href="/js-jabber"></a>
+						</li>
+						<li>Travel</li>
+					</ol>
+					<!-- breadcump end-->
+					<div class="ts-grid-box content-wrapper single-post">
+						<div class="entry-header">
+							<h2 class="post-title lg">Swiss authorities say Uber drivers should treated as employees</h2>
+							<ul class="post-meta-info">
+								<li>
+									<a href="#" class="post-cat ts-yellow-bg">Travel</a>
+								</li>
+								<li class="author">
+									<a href="#">
+										<img src="/images/avater/author.png" alt=""> Donald Ramos
+									</a>
+								</li>
+								<li>
+									<i class="fa fa-clock-o"></i>
+									March 21, 2019
+								</li>
+								<li class="active">
+									<i class="icon-fire"></i>
+									3,005
+								</li>
+								<li class="share-post">
+									<a href="#">
+										<i class="fa fa-share"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- single post header end-->
+						<div class="post-content-area">
+							<div class="post-media post-featured-image">
+								<a href="/images/news/travel/travel2.jpg" class="gallery-popup">
+									<img src="/images/news/travel/travel2.jpg" class="img-fluid" alt="">
+								</a>
+							</div>
+							<div class="entry-content">
+								
+<h3>Panel</h3>
+<ul>
+ 	<li>Vojta Jína (<a href="https://twitter.com/vojtajina" data-cke-saved-href="https://twitter.com/vojtajina">twitter</a> <a href="https://github.com/vojtajina" data-cke-saved-href="https://github.com/vojtajina">github</a>)</li>
+ 	<li>Misko Hevery (<a href="https://twitter.com/mhevery" data-cke-saved-href="https://twitter.com/mhevery">twitter</a> <a href="https://github.com/mhevery" data-cke-saved-href="https://github.com/mhevery">github</a> <a href="http://misko.hevery.com/" data-cke-saved-href="http://misko.hevery.com/">blog</a>)</li>
+ 	<li>AJ O’Neal (<a href="https://twitter.com/coolaj86" data-cke-saved-href="https://twitter.com/coolaj86">twitter</a> <a href="https://github.com/coolaj86/" data-cke-saved-href="https://github.com/coolaj86/">github</a> <a href="http://blog.coolaj86.com/" data-cke-saved-href="http://blog.coolaj86.com/">blog</a> <a href="http://youtube.com/coolaj86" data-cke-saved-href="http://youtube.com/coolaj86">youtube</a>)</li>
+ 	<li>Joe Eames (<a href="http://twitter.com/josepheames" data-cke-saved-href="http://twitter.com/josepheames">twitter</a> <a href="https://github.com/joeeames" data-cke-saved-href="https://github.com/joeeames">github</a> <a href="http://www.testdrivenjs.com/" data-cke-saved-href="http://www.testdrivenjs.com/">blog</a>)</li>
+ 	<li>Jamison Dance (<a href="http://twitter.com/jergason" data-cke-saved-href="http://twitter.com/jergason">twitter</a> <a href="https://github.com/jergason" data-cke-saved-href="https://github.com/jergason">github</a> <a href="http://jamisondance.com/" data-cke-saved-href="http://jamisondance.com/">blog</a>)</li>
+ 	<li>Aaron Frost (<a href="https://twitter.com/js_dev" data-cke-saved-href="https://twitter.com/js_dev">twitter</a> <a href="https://github.com/aaronfrost" data-cke-saved-href="https://github.com/aaronfrost">github</a> <a href="http://www.jsdotnext.com/" data-cke-saved-href="http://www.jsdotnext.com/">blog</a>)</li>
+ 	<li>Charles Max Wood (<a href="http://twitter.com/cmaxw" data-cke-saved-href="http://twitter.com/cmaxw">twitter</a> <a href="https://github.com/cmaxw" data-cke-saved-href="https://github.com/cmaxw">github</a> <a href="http://teachmetocode.com/" data-cke-saved-href="http://teachmetocode.com/">Teach Me To Code</a> <a href="http://railsrampup.com/" data-cke-saved-href="http://railsrampup.com/">Rails Ramp Up</a>)</li>
+</ul>
+<h3>Discussion</h3>
+01:39 - Introductions
+<ul>
+ 	<li><a href="https://angularjs.org/" data-cke-saved-href="https://angularjs.org/">AngularJS</a></li>
+</ul>
+02:52 - <a href="http://en.wikipedia.org/wiki/Dependency_injection" data-cke-saved-href="http://en.wikipedia.org/wiki/Dependency_injection">Dependency Injection</a>
+
+05:21 - Testing
+<ul>
+ 	<li><a href="http://requirejs.org/" data-cke-saved-href="http://requirejs.org/">RequireJS</a></li>
+ 	<li><a href="https://github.com/iammerrick/Squire.js/" data-cke-saved-href="https://github.com/iammerrick/Squire.js/">Squire.js</a></li>
+</ul>
+16:26 - Dependency Injection (Cont’d)
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/Dependency_injection#Three_types_of_dependency_injection" data-cke-saved-href="http://en.wikipedia.org/wiki/Dependency_injection#Three_types_of_dependency_injection">Three Types of Dependency Injection</a></li>
+ 	<li>(Pattern vs Mechanics)</li>
+ 	<li>Lazy Loading</li>
+</ul>
+24:58 - Injector (Container)
+
+26:13 - <a href="https://www.youtube.com/watch?v=_OGGsf1ZXMs" data-cke-saved-href="https://www.youtube.com/watch?v=_OGGsf1ZXMs">Vojta Jina - Dependency Injection - NG-Conf</a>
+
+26:52 - Angular 2.0 and Dependency Injection
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/Dependency_injection#Assembling_examples" data-cke-saved-href="http://en.wikipedia.org/wiki/Dependency_injection#Assembling_examples">Assembling Examples</a></li>
+</ul>
+31:40 - <a href="https://github.com/angular/di.js" data-cke-saved-href="https://github.com/angular/di.js">di.js</a>
+<h3>Picks</h3>
+<ul>
+ 	<li><a href="http://jstherightway.org/" data-cke-saved-href="http://jstherightway.org">JS: The Right Way</a> (Aaron)</li>
+ 	<li><a href="http://devfestfam.com/" data-cke-saved-href="http://devfestfam.com">DevFest Family 2014</a> (Aaron)</li>
+ 	<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/Ready-Player-One-Audiobook/B005FRGT44/ref=a_search_c4_1_1_srTtl?qid=1400014338&amp;sr=1-1" data-cke-saved-href="http://www.audible.com/pd/Sci-Fi-Fantasy/Ready-Player-One-Audiobook/B005FRGT44/ref=a_search_c4_1_1_srTtl?qid=1400014338&amp;sr=1-1">[Audible] Ready Player One by Ernest Cline</a> (Aaron)</li>
+ 	<li><a href="http://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307887448&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=LVYHM23HRPDQ25L4" data-cke-saved-href="http://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307887448&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=LVYHM23HRPDQ25L4">[Amazon] Ready Player One by Ernest Cline</a> (Aaron)</li>
+ 	<li><a href="http://www.audible.com/pd/Fiction/Lost-Boys-Audiobook/B002V0M532/ref=a_search_c4_1_2_srTtl?qid=1400014352&amp;sr=1-2" data-cke-saved-href="http://www.audible.com/pd/Fiction/Lost-Boys-Audiobook/B002V0M532/ref=a_search_c4_1_2_srTtl?qid=1400014352&amp;sr=1-2">[Audible] Lost Boys by Orson Scott Card</a> (Aaron)</li>
+ 	<li><a href="http://www.amazon.com/gp/product/0061091316/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0061091316&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=PEX5EBPZNXEDVK46" data-cke-saved-href="http://www.amazon.com/gp/product/0061091316/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0061091316&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=PEX5EBPZNXEDVK46">[Amazon] Lost Boys by Orson Scott Card</a> (Aaron)</li>
+ 	<li><a href="http://en.wikipedia.org/wiki/Dependency_injection" data-cke-saved-href="http://en.wikipedia.org/wiki/Dependency_injection">Dependency Injection</a> (AJ)</li>
+ 	<li><a href="http://java.dzone.com/articles/unstable-future-angularjs" data-cke-saved-href="http://java.dzone.com/articles/unstable-future-angularjs">Sarah Ervin: The Unstable Future of Angular.js</a> (AJ)</li>
+ 	<li><a href="https://gist.github.com/coolaj86/1a384f21c91f8af78db1" data-cke-saved-href="https://gist.github.com/coolaj86/1a384f21c91f8af78db1">Static vs Dynamic vs Automatic Dependency Injection</a> (AJ)</li>
+ 	<li>Rock Climbing (AJ)</li>
+ 	<li><a href="http://us.battle.net/hearthstone/en/" data-cke-saved-href="http://us.battle.net/hearthstone/en/">Hearthstone</a> (Jamison)</li>
+ 	<li><a href="http://www.liquidhearth.com/" data-cke-saved-href="http://www.liquidhearth.com/">Liquid Hearth</a> (Jamison)</li>
+ 	<li><a href="http://www.youtube.com/watch?v=F83hH0eu09k" data-cke-saved-href="http://www.youtube.com/watch?v=F83hH0eu09k">Nosaj Thing – Drift</a> (Jamison)</li>
+ 	<li><a href="https://www.thatconference.com/" data-cke-saved-href="https://www.thatconference.com/">That Conference</a> (Joe)</li>
+ 	<li><a href="http://pluralsight.com/training/Courses/TableOfContents/front-end-web-development-get-started" data-cke-saved-href="http://pluralsight.com/training/Courses/TableOfContents/front-end-web-development-get-started">[Pluralsight] Front End Web Development: Get Started by Joe Eames</a> (Joe)</li>
+ 	<li><a href="https://www.kickstarter.com/projects/832232974/elstree-1976" data-cke-saved-href="https://www.kickstarter.com/projects/832232974/elstree-1976">ELSETREE 1976</a> (Joe)</li>
+ 	<li><a href="http://www.instructables.com/id/Electric-Height-Adjustable-Desk/" data-cke-saved-href="http://www.instructables.com/id/Electric-Height-Adjustable-Desk/">Electric Height Adjustable Desk</a> (Chuck)</li>
+ 	<li><a href="http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321721330&amp;linkCode=as2&amp;tag=chamaxwoo-20" data-cke-saved-href="http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321721330&amp;linkCode=as2&amp;tag=chamaxwoo-20">Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz</a> (Chuck)</li>
+ 	<li><a href="http://www.amazon.com/gp/product/1451663889/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1451663889&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=LTXLUKRUKSTLAFEN" data-cke-saved-href="http://www.amazon.com/gp/product/1451663889/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1451663889&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=LTXLUKRUKSTLAFEN">How to Talk So Kids Will Listen &amp; Listen So Kids Will Talk by Adele Faber and Elaine Mazlish</a> (Misko)</li>
+ 	<li><a href="http://thechangelog.com/rich-hickeys-greatest-hits/" data-cke-saved-href="http://thechangelog.com/rich-hickeys-greatest-hits/">The Changelog: Rich Hickey’s Greatest Hits</a> (Vojta)</li>
+</ul>
+<h3>Next Week</h3>
+Zones with Brian Ford
+
+<h3>Transcript</h3>
+
+<strong><em>[This episode is sponsored by Frontend Masters. They have a terrific lineup of live courses you can attend either online or in person. Their upcoming course is JS Framework Showdown with Brian Holt from reddit. You can also get recordings of their previous shows like JavaScript the Good Parts, AngularJS, CSS3 In-Depth, and Responsive Web Design. Get it all at FrontEndMasters.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by WatchMeCode. Have you been looking for regular high-quality video screencasts on building JavaScript done by someone who really understands JavaScript? Derick Bailey’s videos cover many of the topics we talk about on JavaScript Jabber and are up on the latest tools and tricks you need to write JavaScript. He also covers language fundamentals, so there’s plenty for everybody. Looking over the catalogue, I got really excited and I can’t wait to watch them all. Go check them out at JavaScriptJabber.com/WatchMeCode.]</em></strong>
+
+<strong><em>[This episode is sponsored by Component One, makers of Wijmo. If you need stunning UI elements or awesome graphs and charts, then go to Wijmo.com and check them out.]</em></strong>
+
+<strong>CHUCK:  </strong>Hey everybody and welcome to episode 109 of the JavaScript Jabber Show. This week on our panel, we have AJ O’Neal.
+
+<strong>AJ:  </strong>Yo, yo, yo, coming at you live from what used to be a block of ice but is now a bowl of soup.
+
+<strong>CHUCK:  </strong>Joe Eames.
+
+<strong>JOE:  </strong>Hey everybody.
+
+<strong>CHUCK:  </strong>Jamison Dance.
+
+<strong>JAMISON:  </strong>Hello friends.
+
+<strong>CHUCK:  </strong>I’m Charles Max Wood from DevChat.TV. And we have two special guests this week, Misko Hevery…
+
+<strong>MISKO:  </strong>Hello.
+
+<strong>CHUCK:  </strong>And Vojta Jina.
+
+<strong>VOJTA:  </strong>Hello.
+
+<strong>CHUCK:  </strong>I was very careful to say those right.
+
+<strong>VOJTA:  </strong>Yeah, you are cool. You did it totally right.
+
+<strong>CHUCK:  </strong>Do you guys want to introduce yourselves really quickly?
+
+<strong>MISKO:  </strong>Sure. My name is Misko. I am the guy who stared Angular not knowing what it would become. I’ve been working on it ever since for about five years now. Vojta?
+
+<strong>VOJTA:  </strong>Yeah. My name is Vojta. I’ve been working with Misko and a bunch of other crazy guys on AngularJS. I think I joined that team a little bit over three years ago. I like testing. I like functional programming. And I like music. I play the trumpet. I think that’s about it.
+
+<strong>JAMISON:  </strong>That’s sweet.
+
+<strong>AJ:  </strong>So, here’s what I want to know. How can people be part of the Angular team three years ago, when we all know that no one had ever heard of it before two years ago?
+
+<strong>VOJTA:  </strong>That’s a good question.
+
+<strong>MISKO:  </strong>Time travel.
+
+<strong>CHUCK:  </strong>[Laughs]
+
+<strong>AJ:  </strong>So, you went back in time to work on it for another two years to get it to the state that it’s at now?
+
+<strong>MISKO:  </strong>Angular is so good, it warps time.
+
+[Laughter]
+
+<strong>AJ:  </strong>Alright. Can you just warp again and get version 2 out then?
+
+<strong>MISKO:  </strong>Working on it.
+
+<strong>AJ:  </strong>Well, couldn’t you warp back six years ago and work on it then so it’s ready now?
+
+<strong>MISKO:  </strong>[Chuckles]
+
+<strong>JAMISON:  </strong>That’s the discussion we always have when we come close to a deadline, is we could either work more on our code or we can work on a time machine and be years late and still ship on time.
+
+<strong>CHUCK:  </strong>Right.
+
+<strong>JOE:  </strong>Exactly.
+
+<strong>JAMISON:  </strong>Anyways.
+
+[Chuckles]
+
+<strong>CHUCK:  </strong>So, we brought you on today to talk about dependency injection. Now, I know Angular does not rely on dependency injection at all.
+
+<strong>MISKO:  </strong>Right. That’s an interesting way of putting it.
+
+<strong>CHUCK:  </strong>[Chuckles]
+
+<strong>JAMISON:  </strong>It’s a lie.
+
+<strong>VOJTA:  </strong>I’m actually excited, like what are we going to be talking about, because I’m not sure if… how long is it supposed to be, this podcast?
+
+<strong>JOE:  </strong>Two hours.
+
+<strong>CHUCK:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>Yeah. [Chuckles]
+
+<strong>CHUCK:  </strong>Give or take an hour and a half.
+
+<strong>VOJTA:  </strong>I don’t think I know that much stuff about DI to talk about it for that long.
+
+<strong>JAMISON:  </strong>When you talk about code examples, you just pronounce every symbol separately and that stretches it out a lot.
+
+<strong>VOJTA:  </strong>Okay. That might work.
+
+<strong>JAMISON:  </strong>[Chuckles]
+
+<strong>CHUCK:  </strong>So, my understanding of dependency injection is actually relatively simple. Is there more to it than passing some object in that gets stuffed onto it inside of the scope? I know there’s a better definition than that.
+
+<strong>MISKO:  </strong>Well, I’d characterize it differently.
+
+<strong>CHUCK:  </strong>Okay.
+
+<strong>MISKO:  </strong>I think dependency injection at its core is simply saying that instead of looking or creating the dependencies, you simply say, you declare them in your constructor. You say, in order for me to do my job, I need help from object X and just simply ask for that object in the constructor. And it basically becomes not your problem. It becomes the problem of whoever’s constructing you to also supply all the dependencies to you.
+
+<strong>VOJTA:  </strong>When I explain these things, I actually always try to split it into two things. One thing is dependency injection as a pattern, which is something that Misko just described. And then something we call dependency injection container or framework, which is the framework that can do the wiring or assembling together. So, it basically takes all the little components of your app and assembles it together based on declarative notations or something.
+
+<strong>CHUCK:  </strong>I have to say, I like your definition for dependency injection way better than mine.
+
+[Laughter]
+
+<strong>VOJTA:  </strong>Okay, cool.
+
+<strong>CHUCK:  </strong>So, are there tradeoffs then between maybe explicitly declaring dependencies as opposed to passing them in, in a constructor?
+
+<strong>VOJTA:  </strong>No tradeoffs. It’s great.
+
+[Laughter]
+
+<strong>AJ:  </strong>That’s interesting.
+
+<strong>VOJTA:  </strong>Of course there are tradeoffs.
+
+<strong>AJ:  </strong>My code feels differently.
+
+<strong>VOJTA:  </strong>I think it’s again, it depends whether we are talking… I think the pattern, I think it has many advantages, especially for testing and for better code reuse and maintainability. I’m pretty sure it has some downsides too. Like for instance, I think you have to type a little bit more. And that’s basically why we use these dependency injection frameworks or containers because they help us with this problem of typing too much.
+
+<strong>AJ:  </strong>So, question though. I’ve heard it said several times that dependency injection makes testing easier. But I’m not really sure that I buy that, in terms of the alternate solutions. Like for example with RequireJS or with CommonJS you could just overload the require function and provide an alternate module just as well. So, are we saying that dependency injection is easier to test than using script tags? Or are we saying that it’s easier to test in relation to the other module?
+
+<strong>MISKO:  </strong>You’re on the right track with the Require and module system. And if you squint a little bit, Require is actually a form of dependency resolution, or form of dependency injection, the difference being that RequireJS runs exactly once at the beginning to bootstrap your application. One the classes get loaded, the RequireJS doesn’t do anything. This is in contrast to dependency injection which over time can inject a different thing. So, once you load a particular module in RequireJS, you have to restart the VM to get a different module in there, whereas with dependency injection, you’re dealing with instances rather than classes. And so you can, every time you invoke the injector, you could have a different set of dependencies. So, in a way RequireJS is dependency injection for your code, whereas dependency injection is DI for your instances, if that makes sense.
+
+<strong>VOJTA:  </strong>Essentially, when you start doing testing, when you write unit tests, every unit test is basically a little app. So, in every unit test you do a little bootstrap. And so, in a static language like in Java for instance, it would be much harder. But because of the way JavaScript is very dynamic, you can monkey patch and overwrite anything. And therefore, yes you can test it with RequireJS because what you do is some kind of hack where you load module X and you override it to some mock value. And then in another test, you again monkey patch that state to something else. That works. You can do it. But it’s, I think it brings many problems like you need to clean up after every test.
+
+<strong>AJ:  </strong>Really, what my point was, is that the way that Angular does it with the, you pass in the variable names into a function, that is just one of the mechanics of the framework. You could have just as easily used a Require syntax, a syntax that looks like Require, and it still could have done all the work behind the scenes that Angular is doing. It’s just I was just trying to bring up the difference between the mechanics of the dependency injection with function names versus the mechanics of one of the other module systems. They could all have the same easy of testability if they had the bit on the backend that when the function gets called, it reinitializes or whatever.
+
+<strong>VOJTA:  </strong>So, I would say almost. Because if you do what you’re just describing, which means “Yeah, let’s take all DI stuff and let’s use the same [inaudible] or the syntax of RequireJS, you would… wait actually, sorry. With RequireJS it would be actually the same because yes, RequireJS you have the array of all the stuff that you want. And then you get them as argument, that would be the same. But if you did CommonJS where you do var x = require something, that would be more like a service locator pattern which is very similar, but the difference is that even in your test, you need to create this context and then pass in the context. And each of those components will look up or will request whatever they want imperatively.
+
+<strong>JOE:  </strong>I’d like to jump in a little bit on this as well. Because for one thing, dependency injection is just a way of getting something done and it’s very language agnostic. [Inaudible] doing Java, dependency injection in Java 10, 15 years ago. So, it’s not just about locating a service. But on top of that is a personal note. Testing with RequireJS is not easy. It’s a huge, huge, huge pain in the butt. And Merrick and I wrote, well Merrick did all the writing of SquireJS to actually enable true testing of RequireJS. And it is so difficult.
+
+<strong>JAMISON:  </strong>It’s so painful.
+
+<strong>VOJTA:  </strong>Yeah. I actually wanted to mention this library. Yeah, that’s a good example of the problems that you have with RequireJS because you have to monkey patch the context in order to override the services.
+
+<strong>JOE:  </strong>And I think AJ’s point wasn’t necessarily that Require is or is not easy to test with. But every time I, I don’t want anybody out there to think that Require is actually easy to test with, because it’s not.
+
+<strong>AJ:  </strong>Well, yeah. I was just saying dependency injection in of itself isn’t any easier or more difficult to test. It’s how the management behind the mechanic is constructed. It’s the implementation. Because I implemented dependency injection and I didn’t do anything to make it easy to test. So, it would have been just as difficult to test as RequireJS.
+
+<strong>MISKO:  </strong>Well, so the difference between RequireJS and injector is that RequireJS is global, right? If you create exactly one injector in Angular and you make that injector global, then you are in the same situation as you are with RequireJS.
+
+<strong>AJ:  </strong>Right.
+
+<strong>CHUCK:  </strong>Yeah, I want to point out that the reason that a lot of people like dependency injection is because it gives you this flexible way of managing your dependencies. Because it basically inverts the dependency stack because you pass them in. And so, if you want to test something, you can pass something in that just behaves in the right way, in other words it meets the contract that the rest of the function expects, and then can do things to validate your testing throughout your application or throughout your module.
+
+And so, for that reason, you get in and you want to test one controller with one module and another controller with another module. Or you want to test them both with the same, I don’t know, HTTP or something set up. But they’re testing different things because they use them in different ways. Then you can set up the test harness in one, one way, set up the test harness in the other the other way. And you just pass them in as dependencies and it just works. And so, you’re setup is a lot cleaner because when you’re done you can just throw it away instead of going back to the global state and saying, “Okay, now change back to what the real global state should be so that I can verify the next thing in my stack.”
+
+<strong>VOJTA:  </strong>Yeah, exactly.
+
+<strong>JOE:  </strong>Yeah. And dependency injection also, it really does inherently make testing easier depending on how you implement how you’re going to do dependency injection. But thinking of a static language like Java or C#, if you’re injecting the dependencies to a class in the constructor, then you don’t need the dependency injection framework anymore during test time. You just simply, when you instantiate the class, you pass in whatever objects you want to be those things when you construct the class.
+
+Or in the case of JavaScript, if your dependency injection is built around a function and your function takes in parameters and that’s your dependency injection, then when you go to test that function you could just have to pass in objects that match the interfaces of what the real objects are. And your test objects can be something entirely different. So, you can completely scrap the framework when it comes test time. It’s during runtime when you need the framework. So, dependency injection from that standpoint does really enable testing and makes it a lot easier.
+
+<strong>CHUCK:  </strong>Well, the other thing that I like about dependency injection is that it can take advantage of the global state in the sense that if you don’t pass, if you don’t inject the dependency, you just leave it empty, undefined or nil or whatever you want to define it as, you can just set a default in there. So, you go in and you say, “Well, if it’s not defined then define it to this,” and then it’ll just behave in a default way with the default dependency. And so, if you’re concerned about global, having this global state or being able to inject if you need to, you can do both.
+
+<strong>JOE:  </strong>Right. And I know with Angular, it’s a little bit different. If you’re injecting dependencies for a controller, that’s different than when you’re injecting dependencies for a service. I don’t know. Maybe one of you guys can speak to that.
+
+<strong>VOJTA:  </strong>How is it different?
+
+<strong>JOE:  </strong>Well, the setup in the test is different, right?
+
+<strong>MISKO:  </strong>That’s because we don’t have a true injection system. And when we are instantiating a controller, we’re saying injector.instantiate but when we’re instantiating a service, we say injector.get. And that’s kind of the difference you’re seeing over there. But actually, in Angular 2.0 and also in AngularDart this has been unified.
+
+<strong>JOE:  </strong>Oh, really? That’s interesting. Was that a very conscious effort?
+
+<strong>MISKO:  </strong>No. It turns out, originally Angular did not have dependency injection and it has been shoehorned in after the fact. And so, what you’re seeing here is a couple of these places where the shoehorning in was not done as good as it should have been done.
+
+<strong>JOE:  </strong>Really? I actually am surprised to hear that. I thought that when you built it, DI was part of the original idea to begin with.
+
+<strong>MISKO:  </strong>See how good I am at refactoring code?
+
+[Laughter]
+
+<strong>CHUCK:  </strong>He may have refactored your memory, too.
+
+<strong>JOE:  </strong>That’s right.
+
+[Laughter]
+
+<strong>VOJTA:  </strong>But DI has been in Angular for quite a long time. [Inaudible] at the beginning.
+
+<strong>MISKO:  </strong>It has been there before anybody else worked on it except me and Adam Abrons.
+
+<strong>JOE:  </strong>So, Misko I know that you, before you did Angular, you were big into testing to begin with over at Google, right? So, when you built Angular, was it not as testable to begin with? Or did you just have other ways of testing that didn’t involve DI and then added it later?
+
+<strong>MISKO:  </strong>No, testing was always part of the code I had written. It’s just that originally, the goal of the system was slightly different. The goal was for a web designer, somebody who doesn’t necessarily know how to program, to be able to add a bunch of tags into HTML and through static HTML into a dynamic, interactive page. And for that world, you don’t necessarily need dependency injection because others are not really adding behavior to it. It’s not until later on when we turned it into a framework which was meant for web developers rather than web designers the need for dependency injection really came to be.
+
+<strong>JOE:  </strong>Interesting. So, right from the beginning it was more about being the DSL for the web?
+
+<strong>MISKO:  </strong>Yeah. The idea was, what if you could take a static HTML page that you load out of file:// and just add a bunch of extra tags into it and all of a sudden that page could persist itself, send an email, store the form that you have filled in so when you come back later you can see the same form again.
+
+<strong>JOE:  </strong>Cool. I’m just curious. At what point did it grow into something else?
+
+<strong>MISKO:  </strong>So, it grew into something else when I was working on a project at Google which is now called the Google Feedback. And we were building something in GWT and was getting really frustrated just how unproductive I was being, and basically told the team, “Well you know, I’m toying with this idea on the side. And I bet you many of these ideas could be reused here. And we could build the application much faster than we could build it in GWT.” So, the boss called me on it and said, “Sure. If you think you can rewrite it in a couple of weeks, give it a try.” And a few weeks later, I actually did rewrite it, a hacked up version of Angular. And ever since then, people were like, “Hmm, maybe this is worth pursuing more.” And so, this is the point where Angular stopped being a web designer tool, started being really for web developers.
+
+<strong>JAMISON:  </strong>So, I have a question that’s kind of going back a little bit to the dependency injection in general idea. I’ve heard the whole idea of building dependency injection into a framework, in some ways it conflicts with module systems like RequireJS or Browserify or whatever. If those module systems that existed were more friendly to testing, do you think that frameworks would need to build in their own dependency injection systems?
+
+<strong>MISKO:  </strong>Yes. And again, I want to point out that frameworks such as RequireJS and Browserify are concerned with loading static code into the VM. This is a very different concern from dependency injection. Dependency injection is concerned with creating instances of that code that was loaded using RequireJS. So, you can think of RequireJS as the very fancy way of inserting script tags into your application, whereas you can think of the dependency injection system as a very fancy way of calling the new operator on your application. So, the two while very similar and have the same vocabulary and in some ways deal with the same thing, are actually concerned with two very distinct things.
+
+<strong>JAMISON:  </strong>That makes sense.
+
+<strong>AARON:  </strong>That’s a great explanation.
+
+<strong>JOE:  </strong>Wouldn’t it be possible though for a library loading app or a system like Require to actually do both and make it friendly and make it work enough so that you wouldn’t need a separate DI?
+
+<strong>MISKO:  </strong>Yeah. I think Vojta can speak more to that.
+
+<strong>VOJTA:  </strong>Well, I think with the new DI we tried to, I wouldn’t say put it together because these are still two separate things. We have module loader, which is either ECMAScript 6 loader or RequireJS and then we have DI framework. Well, we just try to make sure you don’t have to type too much. So basically, for instance in current Angular 1.x you have to define something like DI modules so that you can load the code into the dependency injection framework. And so, if you are using RequireJS as well, then you end up with basically defining two kinds of modules for everything, DI module and RequireJS module. So, with the new DI system we try to simplify this so that in most cases you don’t have to define any modules. You just use the default RequireJS or any other module loader modules. And DI can consume those. So, it’s much simpler. But these two things are still separated.
+
+<strong>MISKO:  </strong>So, I want to add to that a little bit, which is if you step back from RequireJS and dependency injection system and if you realize that JavaScript is unique because code and data is one and the same thing, you can create a function and you can pass it around. A function, if you think about it, is code. This is not the case in Java. You can’t dynamically create classes and pass them around. The namespace of classes and methods is separate from the namespace of variables that you pass around. But in JavaScript, it’s one and the same, right?
+
+So, if you squint a little bit, you can say, “Hey, what is the difference between injecting and instance of a class or injecting data that happens to be the class,” so you can say, I can inject a foo instance or I can inject the foo type itself. And if you look at it this way, then if you say well, really what tools like RequireJS do is they load or dependency inject the types rather than the instances of those types. They have a minor deficiency which is that they load all these data into a global state rather than loading them into the modules and injectable state so that you could easily reload them if you feel that’s necessary.
+
+But if you could merge the two pieces together, then you could basically be in a situation where you could have an injector and say, “Give me an instance of foo,” and then the injector says, “Well okay, I have to make a new foo first.” But in order to make a new foo, I first have to get the type foo, which then recurses on itself and says, “Well, how do I get foo?” Now, there’s a little bit of a problem of asynchronicity in there because foo might not be loaded. It has to be dynamically lazy loaded, which means there are some promises or something as the result. But if you squint hard enough, you can imagine a world where loading data and loading code is really one and the same. Does that make sense or am I gone into deep end?
+
+<strong>JOE:  </strong>Maybe I’m not squinting hard enough.
+
+[Laughter]
+
+<strong>AJ:  </strong>I think I understand what you’re saying. So, when we first started a couple of minutes ago, I did not know as much about dependency injection as I do now because I’ve been scouring Wikipedia and stuff trying to understand these things that don’t quite, that I wasn’t grasping properly. So, dependency injection actually doesn’t necessarily have anything to do with the dynamic way in which it’s done in Angular, right? The whole concept of, you’re requiring the modules by whatever they happen to be named in the function, that’s not actually the pattern of dependency injection. Dependency injection is the pattern of, you provide a mechanism by which a service makes known what it needs and an injector provides an instance of that service to the module that needs it.
+
+<strong>MISKO:  </strong>Well technically, the pattern of dependency injection is simply saying, “I am not going to make or look for my dependencies.” In other words, make means calling the new operator and look for them means using some global variable to find them. I’m not going to do these things. Instead I’m just going to ask for the dependency as a parameter in a constructor. That’s all the dependency injection means at its pattern level.
+
+The second part, which is the containers, if you have this pattern that you simply say, “I’m not going to look for things. I’m going to ask for things,” then an interesting property emerges out of the system, which is that if you say, “I want to make a new foo,” then you say, “Okay. Well, how do I make a new foo?” You just call new foo. Okay, but foo has arguments. So, if you can reflect upon the arguments, and this is the part that I had through these annotations thing, if you can reflect upon the arguments, then you can say, “Oh, I see. The foo requires bar.” Therefore, in order to make foo, I first have to make bar. So, you get into this recursive pattern. Once the bar is constructed, then you can take the instance of it and put it inside of foo and then you can construct the foo.
+
+And so, you realize that if you follow this pattern of declaring your dependencies then you can self-assemble the application. It’s just a property that happens automatically without any kind of extra effort. And because it happens automatically then you can build a framework around it that says, “Okay. If somebody asks for a particular instance of something, then just recursively resolve the arguments of the constructor until the whole graph of objects gets constructed.”
+
+<strong>VOJTA:  </strong>Nice job, Misko.
+
+<strong>MISKO:  </strong>Thank you, Vojta.
+
+<strong>VOJTA:  </strong>I agree with you.
+
+[Laughter]
+
+<strong>MISKO:  </strong>The earlier point about squinting. So, imagine you’re in a world. You’re running an application, right? The application is already constructed. And one of the controllers says, “I need to get a hold of a user object,” which is on a database, it’s on a server, so it has to go and fetch the data somehow. And one way to think about it is saying, well instead of me writing the code that I have to go fetch a user data, what if I could just say, in my constructor, I just need the user data. Now it becomes a problem of the container rather than the problem of the code to go fetch the data. And if you can do that, then all of a sudden you’re in a world where, hey you can just name your data sources and they get injected into your codebase. And you no longer have to deal with loading the data yourself.
+
+And now, if you take one more step and say, wait, well what’s the difference between loading data and loading code? And it turns out in JavaScript there is no difference, then you can say, just like you can ask for an instance of foo, you can now ask for type of foo. And what you get out of it is lazy loading of code. So, until somebody actually needs to instantiate a particular class, there is no need to load that class. And so, making a request instantiate class means making the request to get a hold of the type first which might make a request to load the script tag, which then in turn recurses upon itself and says, “Okay. To make an instance of it I have to call new, which then instantiates new.” So, this is the kind of thing we’re trying to get to, is that we would like to treat, if you treat code and data the same, then you can get the lazy loading of code for free.
+
+<strong>VOJTA:  </strong>Yeah. I think Misko is basically trying to say that DI can also give you basically file-by-file lazy loading for free, in theory. You could make it so that every dependency, every file, is loaded lazily at the time when it’s actually requested where somebody really needs it during the runtime.
+
+<strong>CHUCK:  </strong>Now, you guys keep mentioning injectors and I don’t quite follow what those are.
+
+<strong>VOJTA:  </strong>Injector is basically the container.
+
+<strong>CHUCK:  </strong>Okay.
+
+<strong>VOJTA:  </strong>Yeah, the container that keeps probably references to all the instances and the container that resolves the dependencies and instantiates things.
+
+<strong>CHUCK:  </strong>Okay.
+
+<strong>MISKO:  </strong>So, to put it differently, normally you would say new Foo, with capital F and you would say something like var foo, with lowercase f, equals new capital Foo. You’re saying make me an instance of Foo. With the injector world you would say lowercase foo equals injector.get capital Foo. And at first you’re looking at this and you’re saying, “Wait, wait, wait, you just made me type a whole bunch of more characters. How is this an improvement over just calling the new operator?” And the difference is, and this is a very subtle difference that takes a while to grok, is that you have to do this thing exactly once, this injector.get. You have to do it exactly once on a top-level object representing your application. All other instantiations happen through recursion, whereas when you use a new operator you actually have to type the new operator every time you need something. Vojta, I love how there’s silence every time I say something.
+
+[Laughter]
+
+<strong>VOJTA:  </strong>Yes.
+
+<strong>JAMISON:  </strong>That’s the silence of agreement.
+
+<strong>VOJTA:  </strong>When we are talking about all these general ideas on how DI works and why we do that, from my side I would say I did a talk at the ng-conf actually which was about the new DI system. But the first 10 minutes is I was basically trying to explain these things. So, if anybody’s interested in that, I would recommend that. I think I did a better job at that talk than I’m going to do today, because I was actually prepared for it.
+
+<strong>JAMISON:  </strong>You weren’t born ready to talk about dependency injection?
+
+<strong>VOJTA:  </strong>Not really.
+
+[Chuckles]
+
+<strong>VOJTA:  </strong>No, but yeah I think it’s the first 10 minutes or something.
+
+<strong>AARON:  </strong>So Vojta, you mentioned a second ago that a good DI system will give you the ability to potentially lazily load code at the time that you need it. Are you hinting to something that’s going to be in Angular 2?
+
+<strong>VOJTA:  </strong>It could be. We have something we call asynchronous injection in the new DI, which is a step in that direction. So, it is possible but I don’t think it, at least at this point, it’s not a big goal for me. Or I don’t think it’s the reason why we are making a new DI.
+
+<strong>AARON:  </strong>Okay.
+
+<strong>JAMISON:  </strong>Do you want to talk a little bit about what is new with the dependency injection in Angular 2.0?
+
+<strong>VOJTA:  </strong>Sure. There are many new things. I’m just thinking, what’s the most important stuff?
+
+<strong>MISKO:  </strong>Hierarchical injection, sir.
+
+<strong>VOJTA:  </strong>Yeah, that’s probably one of the most important news, which is in Angular 1.x it is pretty hard to lazy load code. Or even as you probably know, everything is a singleton. There is only a single instance of everything. And so, in Angular 2.0 we have this feature we called hierarchical injectors, which basically mean that you have a tree of injectors. And in each of those injectors you can create a new instance of any service you want. And you can also lazy load code or lazy load other providers into an injector.
+
+So, for instance in a typical Angular app you might create a new child injector for each route. And that means that you can have, some services can be marked as per route. So, for instance let’s say you have a template cache, you might say that this template cache has scope or there should be a new instance per route. And then it means that for every route, you get a new instance of this template cache. And at the same time, you can load additional code again, per route, because of these hierarchical injectors.
+
+Then I think a big change is something we already mentioned, and that is the nicer integration with module loaders. So, either RequireJS or ECMAScript 6 loader, or any loader you want to use. So, I think this integration is much nicer. You don’t have to type that much. This new DI can basically consume RequireJS modules or ECMAScript 6 modules. What else?
+
+<strong>MISKO:  </strong>You no longer have to use strings.
+
+<strong>VOJTA:  </strong>Yeah. I think that’s a big feature too. Basically, in Angular 1.x the way you would describe, the way any component declares its dependencies is done through strings. So, if your controller needs to get HTTP service you mark it with HTTP. So, string is, we call it token, which is like the ID of the interface, what you need. And this changes in Angular 2.0 where the token can be anything basically. It can be string but it can be a reference to an object or a function.
+
+And so, what we recommend or the way we do it, we actually use, we annotate these dependencies not with strings but with references to the default implementation. And that is kind of neat because in most of the cases where you don’t need to override anything, you don’t need to load any code in the DI and you just annotate. You have a function and it requires one argument of type foo, then you just say inject foo and you actually pass it the reference to that type, not a string. And that’s all the DI needs. You don’t need to [put] modules or any code into the injector because the injector can instantiate this service based on that token, because that token is actually a reference to the class or constructor function.
+
+I’m not sure if this makes any sense. I think it’s pretty hard to explain it without code examples. But if anybody is interested, you can check it out on GitHub and there are some examples.
+
+<strong>JAMISON:  </strong>I was going to say, where can people go look to see the examples? Get the link in the show notes, I guess.
+
+<strong>VOJTA:  </strong>Yeah. I will send the link to the chat and then I guess you can post it somewhere. That’s basically, I think the major changes or the major new features. One of the big changes is also we got rid of, I’m not sure if you know, in Angular 1.x there are these two phases. It was config phase and the run phase, which causes a lot of confusion. And so, I’m happy we got rid of it. So, there’s no run or config phase. There’s just one phase.
+
+<strong>JOE:  </strong>Cool.
+
+<strong>CHUCK:  </strong>Awesome. Well, I know we have some people that need to take off pretty quickly and I want to make sure we have time for picks. But is there anything else that we should talk about that we’ve missed with dependency injection?
+
+<strong>JOE:  </strong>I want to find out what the status is on DI.js.
+
+<strong>VOJTA:  </strong>So, DI.js is what I was just talking about. That’s the new DI system for Angular 2.0. What’s the status? The status is that we are using it for Angular 2.0 so it’s used in templating. It is still in a pretty early stage, but I think you can use it on anything you want. The basic set of features is done. And I don’t think there’s going to be any major changes into the core stuff. I’m still working on it and we are still trying to figure out better ways how to do it. There are many open questions and problems that I’m not sure how to solve properly that I would be really happy about. But I think the core stuff is not going to change.
+
+<strong>JOE:  </strong>Has anybody else actually utilized it that you know of?
+
+<strong>VOJTA:  </strong>I don’t know. I know that there are people experimenting with it, especially in project, in Node.js. That’s one of the things that I should probably mention too, that this new DI is designed to work [inaudible] in the browser. We use it on Angular so that’s in the browser, but it’s also designed to work on Node.js. At some point I would like to refactor Karma to use this DI instead of the old custom DI that I made for Karma. But I’m not sure when that’s going to happen. But it will. I just don’t know when.
+
+<strong>JAMISON:  </strong>That sounds like a call for help.
+
+<strong>VOJTA:  </strong>Oh yeah, totally.
+
+[Chuckles]
+
+<strong>VOJTA:  </strong>I will totally accept pull requests with that.
+
+[Chuckles]
+
+<strong>VOJTA:  </strong>There are seven open issues now. So, it’s very active.
+
+[Laughter]
+
+<strong>VOJTA:  </strong>No, this is actually one of the very few projects that I keep up with issues. So, I actually triage them pretty quickly. Seven open issues and 38 closed. Isn’t it awesome?
+
+[Laughter]
+
+<strong>JAMISON:  </strong>That sounds like a good ratio.
+
+<strong>VOJTA:  </strong>Yeah, that’s great. If you look on Angular, it’s going to be 7 million and 30 [inaudible]
+
+[Laughter]
+
+<strong>JAMISON:  </strong>The scrubs.
+
+<strong>CHUCK:  </strong>Awesome.
+
+<strong>VOJTA:  </strong>Yeah, so it’s pretty nice, a little tiny project. So, don’t create any issues.
+
+[Laughter]
+
+<strong>JAMISON:  </strong>But yeah, if you ask for help, that issues number is going to go up.
+
+<strong>AARON:  </strong>Yeah.
+
+<strong>JAMISON:  </strong>Cause yourself problems.
+
+<strong>AJ:  </strong>Yeah, seven’s a really good number. You probably should just stick with that one.
+
+<strong>VOJTA:  </strong>Can you freeze GitHub issues so that people can’t post issues?
+
+<strong>JAMISON:  </strong>I think you can turn off issues.
+
+<strong>AJ:  </strong>Yeah, you could turn them off. But I think what you could do is just keep number seven open. Keep it your furthest goal.
+
+<strong>VOJTA:  </strong>I see.
+
+<strong>AJ:  </strong>Let people open up number eight, but always fix number eight and close it immediately so no one sees it.
+
+<strong>VOJTA:  </strong>Okay.
+
+<strong>AARON:  </strong>You don’t want to encourage anyone.
+
+[Laughter]
+
+<strong>AJ:  </strong>Or, instead of linking to the issues, you could link to a specific issue like issue number three and be like, “If you have an issue, comment here.”
+
+[Chuckles]
+
+<strong>CHUCK:  </strong>Alright, let’s go ahead and do the picks.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>Aaron, do you want to start us with picks?
+
+<strong>AARON:  </strong>Yeah, I’ve got a couple of picks. I got four of them. So, one of them is JSTheRightWay.org. I thought that it was a good spot for people learning JavaScript to go, just see, hey who are some of the main players I can follow? What are the main frameworks? What are some of the more popular tools, gaming engines? What is the history of it? I just thought it was an all-around good site. I like the look and feel of it. So, I want to pick JSTheRightWay.org.
+
+And then I want to pick DevFest Family. It was a small family developer conference that was put on locally. And we had a lot of kids show up. And we had a lot of people write their first lines of code. And it was a great experience. If you guys see any DevFests in your local area, if they have anything to do with families, you should definitely take your wife and kids or whoever your family is to the event because it’s a lot of fun.
+
+And then the last two are two books. So, one of them is ‘Ready Player One’. Have any of you guys read that?
+
+<strong>JOE:  </strong>Yes, loved it. Absolutely loved it.
+
+<strong>AARON:  </strong>So, it’s a book I could not stop listening. I binged listened to it. It’s about 80’s pop culture and video gamers. And there’s an Easter egg hidden somewhere in the biggest game ever written.
+
+<strong>JOE:  </strong>It’s a fictional novel.
+
+<strong>AARON:  </strong>Yeah. Humanity obsesses around playing the game nonstop until they can find it because the winner gets a fortune bigger than you can measure. But it’s a really cool book and I couldn’t stop listening to it. I thought it was awesome. And it’s got all of the 80’s pop culture you can handle. So, it was a lot of fun to read.
+
+The other one, it’s called ‘Lost Boys’. It’s by Orson Scott Card. And for me, it was basically a book about someone a lot like me. So, I really identified with it. And I thought it was going to have a real cutesy type ending and then within the last chapter, there’s this programmer guy and he’s a lot like me and all of a sudden his family goes through this huge tragedy and I’m in tears. And I’m in my car driving on the freeway. It was a great read though. So, the ‘Lost Boys’ and ‘Ready Player One’ are the two books I’ll pick.
+
+<strong>CHUCK:  </strong>Now, you said you listened to them?
+
+<strong>AARON:  </strong>I listened to them in the car. I have a 35-minute commute each way. So, I listen to books.
+
+<strong>CHUCK:  </strong>Is that on Audible?
+
+<strong>AARON:  </strong>Yeah.
+
+<strong>CHUCK:  </strong>Awesome. Alright, we’ll try and get links to both Audible and Amazon.
+
+<strong>AARON:  </strong>Cool.
+
+<strong>CHUCK:  </strong>AJ, what are your picks?
+
+<strong>AJ:  </strong>The Wikipedia article on dependency injection, because up until just now, I’d never heard it aside from in connection with Angular. And I didn’t grasp the way that Angular does black function magic, black magic on functions, is not dependency injection. Dependency injection is what it does behind the scenes in handling those dependencies which was adequately explained today. And the Wikipedia article that shows Java examples with dependency injection helps frame your mind a little bit better around the pattern as a concept outside of the framework of Angular, which I think is important if you want to understand this.
+
+But also, there as this article that is perhaps a little bit, it has a negative slant to it. It’s thought-provoking if you look at it in the right light. But it’s ‘The Unstable Future of Angular.js’. I think that AngularJS has a stable future. It just talks about some of the funny things that happen in there, which one of my videos was linked to it in there. And it hit Hacker News and it was a big deal. But it talks about the black magic problem.
+
+<strong>VOJTA:  </strong>Is that by the guy that used to work on Drupal?
+
+<strong>JAMISON:  </strong>Yeah, I think so.
+
+<strong>VOJTA:  </strong>That was actually good reading. I read that article. I think there were some good ideas there, or good opinions.
+
+<strong>AJ:  </strong>Yeah, they’re good opinions. But I just don’t want to come across, because I buffeted a little bit with you guys about the meaning of things, and I don’t want to come across as anti-Angular. I really like Angular.
+
+<strong>VOJTA:  </strong>No, no. If it’s the article I’m thinking about, I think it was good thoughts. It was obvious that that guy had experience from working on a pretty successful and big project.
+
+<strong>AJ:  </strong>Well, I just sent a link. You tell me if it’s the same one. Anyway, and then I just came up with a little example of static versus dynamic versus automatic dependency injection that I’ll have in the show notes. I guess it’s not really a pick, just something to put in there.
+
+And I’ll pick rock climbing, because it’s good. I found out that you can put your thumb over top of your index finger and it gives you a better hold. I don’t do a lot of rock climbing but somebody was showing me how to scale a wall and they rock climb. And that’s what they taught me and it makes it easier if you ever want to climb a wall.
+
+<strong>CHUCK:  </strong>Alright. Jamison, what are your picks?
+
+<strong>JAMISON:  </strong>I have two picks. One is I’m tangentially picking Hearthstone, the computer trading card game from Blizzard. I thought it was dumb every time I heard about it until I tried it. And it’s pretty great.
+
+So, there’s a website called Liquid Hearth. It’s a community website. And it’s from this lineage of community websites around strategy games. It’s descended from some really well-known and really well done sites. So, lots of good stuff on there about how to learn to play the game better basically, if you want to learn how to waste your time more efficiently.
+
+[Chuckles]
+
+<strong>JAMISON:  </strong>And then the other thing is just an album I started listening to this week. It’s called Drift and it’s by this artist called Nosaj Thing, I think. But the first word is spelled weird. It’s S-A-G, or no, S-A-J. Nosaj Thing. I don’t know. But it’s chill, electronic music. It’s the same kind of music I always pick. So, if you hate that, don’t listen to it. Those are my picks.
+
+<strong>CHUCK:  </strong>Alright. Joe, what are your picks?
+
+<strong>JOE:  </strong>Alright, so I’ve got three picks. The first one is That Conference, which I’ve picked in the past. But I think it’s totally worth picking again. An awesome conference in Wisconsin in August this year. They do bacon, which is very important to me. Lots of bacon. And it’s at an indoor waterpark. So, it doesn’t get any cooler. I’m taking my entire family. And I’m actually going to be speaking there on Angular best practices. So, Vojta or Misko, if you guys want to learn anything about that, come and attend. [Chuckles]
+
+<strong>MISKO:  </strong>You know, I really should attend one of these best practices, because people keep asking, what’s the best practice with Angular?
+
+[Chuckles]
+
+<strong>MISKO:  </strong>And I have to make it up, because it turns out I haven’t built any Angular apps yet.
+
+[Laughter]
+
+<strong>CHUCK:  </strong>The answer is do what Joe does.
+
+<strong>JOE:  </strong>Yeah.
+
+<strong>AARON:  </strong>[inaudible] what Joe knows.
+
+<strong>JOE:  </strong>[Chuckles] My talk’s actually going to be based a lot on my course, my Pluralsight course of the same name, which leads me into my second pick which is my latest course released. It’s on getting started in frontend web development, with Pluralsight. And it’s actually been super popular, which is really cool to see that a lot of people want to either get into frontend web development or get better at it. And I spent a lot of time putting that course together because it was basically the course for me. When I got into frontend web development years ago, I felt like there was just so much to learn and I needed somebody to lay out the landscape. And nobody did. And so, it just took me forever to just get a lay of the land. And so, this course is really a course that I built for me years ago, of course, just updated with today’s technology. So, that’s on Pluralsight.com. It’s the number five course right now.
+
+And then my last pick is going to be a Kickstarter project. It’s a documentary about the actors that were the characters that were wearing masks in the movie Star Wars. So, the guys who played storm troopers or the guy who played Greedo. And it’s a documentary about those actors and what it was like for them. And I don’t know totally what it is all about. I haven’t even read all the Kickstarter material. I just backed it because I’m a huge Star Wars geek. And I love that sort of stuff. So, that’s my last pick.
+
+<strong>CHUCK:  </strong>Awesome. I’ve got a pick or two. One of them is I’ve been looking at standing desks for a while. And I currently have the Lifehacker Ikea you get an end table and a shelf and you screw the shelf onto the end table version. It works fine. But I keep thinking I want one that adjusts. And I found one that you basically build for yourself. They use pinewood in the tabletop. But they show you how to put it together with the linear actuators to move it up and down and stuff. And overall, they spend $200 to $250 in parts and then built it themselves. And so anyway, that got me interested. So, I’m going to pick that.
+
+And I’m also going to pick a book. This was where I was first introduced to dependency injection. And that is ‘Practical Object-Oriented Design in Ruby’. And they give some examples in both tests and code in the specific chapters related to that. So, I’m going to pick that as well. Misko, what are your picks?
+
+<strong>MISKO:  </strong>Well, I’m going to be non-traditional. So, I have two kids. And I’m really into trying to figure out, into parenting, et cetera. And I read this one book a while ago that I thought was really interesting. It was called ‘How to Talk So Kids Will Listen &amp; How to Listen So Kids Will Talk’. And it contains a lot of practical information about what to say in what situations. The reason I really like this book is because after reading this book I was like, “Yeah, I know how to talk to my kids.” And then I realized, “Wait a minute. My boss does the same exact thing to me.”
+
+[Laughter]
+
+<strong>MISKO:  </strong>So, it turns out that kids are people too. And all these tricks are just good empathy listening and good ideas to anybody. And it’s explained in very practical terms. And I really liked it. So, we are all kids at all ages. And I guess I’m a kid to my boss because he uses those tricks on me.
+
+<strong>VOJTA:  </strong>It’s a great book.
+
+<strong>JOE:  </strong>Awesome.
+
+<strong>VOJTA:  </strong>I like it too.
+
+<strong>CHUCK:  </strong>You just spent some of my dollars. Actually, more specifically, you just spent some of my Audible credits. Vojta, what are your picks?
+
+<strong>VOJTA:  </strong>I’m going to do one pick. And that is I’m going to pick a guy. His name is Rich Hickey. And it’s the guy who wrote Clojure, which is basically a Lisp that runs on top of JVM. And I got really excited about his talks and stuff recently. I would say, in a similar way, I was excited about testing four years ago. I’m now excited again about functional programming and using immutable structures. And the way he thinks about things is just, I think it’s great. And I think we could learn a lot from that. And so, yeah I will send you a link to some of his talks. I think the most famous is probably called ‘Are We There Yet?’ I really recommend any of his talks. It’s fun. And I think that’s about it.
+
+<strong>JOE:  </strong>Sweet.
+
+<strong>CHUCK:  </strong>Alright. Well, thanks for coming. Really appreciate you guys taking the time.
+
+<strong>AARON:  </strong>Yeah, thanks guys. That was a lot of learning that just happened. Thank you.
+
+<strong>CHUCK:  </strong>Yeah, no kidding.
+
+<strong>MISKO:  </strong>Thanks for having us.
+
+<strong>VOJTA:  </strong>Thanks for having us. Yeah, it was fun.
+
+<strong>AJ:  </strong>Sexy voices like yours? We’ll have them anytime.
+
+[Chuckles]
+
+<strong><em>[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]</em></strong>
+
+<strong><em>[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/jabber and there you can join discussions with the regular panelists and our guests.]</em></strong>
+
+								<p class="text-bg">Leidanett was living a life of almost unfathomable despair a year ago no one knows (1995)</p>
+								<p>
+									<span class="tie-dropcap">A</span> farmers in the US’s South—faced with continued failure in their efforts to run on successful farms their
+									launched a lawsuit claiming that “white racism” is to the blame for their inability to produce crop yields.
+								</p>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<blockquote>
+									Black farmers in the US’s South faced with continued failure in their efforts to run the successful farms launched a lawsuit
+									<cite>Steve Jobs</cite>
+								</blockquote>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should
+								</h3>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<p>
+									<img class="float-left" src="/images/news/news-details/post_style.jpg" alt="">
+								</p>
+								<h3>For the first time the Secretart end</h3>
+								<ul>
+									<li>But there was also no shortage of new</li>
+									<li>Prasad made these comments on</li>
+									<li>He gave details of the answers provided</li>
+									<li>The government forthcoming in before</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South faced with the thecontinu failure in their own efforts to run and succe farms is to blame
+									for their inability to an sell an black farme a subpar product at
+								</p>
+								<p>
+									the most Mid-South Farm on Gin Show in them March 2017.Despite above average rainfall the black farmers saw limited
+								</p>
+
+								<div class="gallery-img">
+									<a href="/images/gallery/gallery1.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery1.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery2.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery2.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery3.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery3.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery4.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery4.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery5.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery5.jpg" alt="">
+									</a>
+								</div>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<div class="post-video">
+									<img class="img-fluid" src="/images/news/travel/travel9.jpg" alt="">
+									<div class="post-video-content">
+										<a href="https://www.youtube.com/watch?v=_0UO1NcheAE" class="ts-play-btn">
+											<i class="fa fa-play" aria-hidden="true"></i>
+										</a>
+										<h3>
+											<a href=""> For the first time the Swiss State Secretart for Economic indicated that Uber taxi</a>
+										</h3>
+									</div>
+								</div>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should be classed
+									as employees
+								</h3>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability to produce crop yields and on equivalent to that switched
+									seeds in order to sell black farmers a subpar product at the Mid-South Farm & Gin Show in March 2017. Despite above
+									average rainfall, the black farmers saw limited soybean yield from the Stine seeds during the 2017 harvest.
+								</p>
+								<p>
+									<a href="">
+										<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+									</a>
+								</p>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair
+								</h3>
+								<ul>
+									<li>
+										But there was also no shortage of news for the worlds of film.
+									</li>
+									<li>
+										Prasad made these comments on behalf of the Treasury benches.
+									</li>
+									<li>
+										He gave details of the answers provided by Defence.
+									</li>
+									<li>
+										The government has been forthcoming in declaring the aircraft.
+									</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability
+								</p>
+							</div>
+							<!-- entry content end-->
+						</div>
+						<!-- post content area-->
+						<div class="author-box">
+							<img class="author-img" src="/images/avater/author.png" alt="">
+							<div class="author-info">
+								<h4 class="author-name">Elina Themen</h4>
+								<div class="authors-social">
+									<a href="#" class="ts-twitter">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<a href="#" class="ts-facebook">
+										<i class="fa fa-facebook"></i>
+									</a>
+									<a href="#" class="ts-google-plus">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<a href="#" class="ts-linkedin">
+										<i class="fa fa-linkedin"></i>
+									</a>
+								</div>
+								<div class="clearfix"></div>
+								<p>Black farmers in the US’s South—faced with continued failure in their efforts to run for the successful farms their
+									launched </p>
+
+							</div>
+						</div>
+						<!-- author box end-->
+						<div class="post-navigation clearfix">
+							<div class="post-previous float-left">
+								<a href="#">
+									<img src="/images/news/travel/travel6.jpg" alt="">
+									<span>Read Previous</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+							<div class="post-next float-right">
+								<a href="#">
+									<img src="/images/news/tech/tech5.jpg" alt="">
+									<span>Read Next</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+						</div>
+						<!-- post navigation end-->
+					</div>
+					<!--single post end -->
+					<div class="comments-form ts-grid-box">
+						<h3 class="comment-reply-title">Add Comment</h3>
+
+						<form role="form" class="ts-form">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										<input class="form-control" name="name" id="name" placeholder="Your Name" type="text" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" name="email" id="email" placeholder="Your Email" type="email" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" placeholder="Your Website" type="text" required="">
+									</div>
+									<!-- form group end-->
+								</div>
+								<!-- Col end -->
+								<div class="col-md-6">
+									<div class="form-group">
+										<textarea class="form-control msg-box" id="message" placeholder="Your Comment" rows="10" required=""></textarea>
+									</div>
+								</div>
+								<!-- Col end -->
+								<div class="col-md-12">
+									<p class="comment-form-cookies-consent">
+										<input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes">
+										<label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+									</p>
+								</div>
+							</div>
+							<!-- Form row end -->
+							<div class="clearfix">
+								<button class="comments-btn btn btn-primary" type="submit">Post Comment</button>
+							</div>
+						</form>
+						<!-- Form end -->
+					</div>
+					<!-- comment form end-->
+					<div class="ts-grid-box mb-30">
+						<h2 class="ts-title">Most Popular</h2>
+
+						<div class="most-populers owl-carousel">
+							<div class="item">
+								<a class="post-cat ts-yellow-bg" href="#">Travel</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+
+							<div class="item">
+								<a class="post-cat ts-blue-light-bg" href="#">Technology</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Music</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/music/music2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+						</div>
+						<!-- most-populers end-->
+					</div>
+
+				</div>
+				<!-- col end -->
+				<div class="col-lg-3">
+					<div class="right-sidebar">
+						<div class="ts-grid-box widgets social-widget">
+							<h2 class="widget-title">Follow us</h2>
+							<ul class="ts-social-list">
+								<li class="ts-facebook">
+									<a href="#">
+										<i class="fa fa-facebook"></i>
+										<b>12.5 k </b>
+										<span>Likes</span>
+									</a>
+
+								</li>
+								<li class="ts-google-plus">
+									<a href="#">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-twitter">
+									<a href="#">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-pinterest">
+									<a href="#">
+										<i class="fa fa-pinterest-p"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Photos</span>
+								</li>
+								<li class="ts-linkedin">
+									<a href="#">
+										<i class="fa fa-linkedin"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-youtube">
+									<a href="#">
+										<i class="fa fa-youtube"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets widget-banner">
+							<a href="#">
+								<img class="img-fluid" src="/images/banner/sidebar-banner2.jpg" alt="">
+							</a>
+						</div>
+						<!-- widgets end-->
+						<div class="post-list-item widgets">
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<li role="presentation">
+									<a class="active" href="#home" aria-controls="home" role="tab" data-toggle="tab">
+										<i class="fa fa-clock-o"></i>
+										Recent
+									</a>
+								</li>
+								<li role="presentation">
+									<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
+										<i class="fa fa-heart"></i>
+										Favorites
+									</a>
+								</li>
+							</ul>
+
+							<!-- Tab panes -->
+							<div class="tab-content">
+								<div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+
+								</div>
+								<!--ts-grid-box end -->
+
+								<div role="tabpanel" class="tab-pane ts-grid-box post-tab-list" id="profile">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports1.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+								</div>
+								<!--ts-grid-box end -->
+							</div>
+							<!-- tab content end-->
+						</div>
+						<!-- widgets end-->
+
+						<div class="ts-grid-box widgets category-widget">
+							<h2 class="widget-title">Categories</h2>
+							<ul class="category-list">
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Sports
+										<span class="ts-green-bg">25</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Fashion
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Technology
+										<span class="ts-blue-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Music
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Food
+										<span class="ts-yellow-bg">10</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets ts-grid-box post-tab-list ts-col-box">
+							<h3 class="widget-title">Populer Post</h3>
+							<div class="ts-overlay-style">
+								<div class="item">
+									<div class="ts-post-thumb">
+										<a href="#">
+											<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+										</a>
+									</div>
+									<div class="overlay-post-content">
+										<div class="post-content">
+											<h3 class="post-title">
+												<a href="#">Tourism in Dubai is boom international tourist</a>
+											</h3>
+											<ul class="post-meta-info">
+												<li>
+													<i class="fa fa-clock-o"></i>
+													March 21, 2019
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- ts-overlay-style  end-->
+
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">18 month shoots himself by gun </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/tech/tech2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">The body is a healing system. </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+
+						</div>
+
+						<div class="ts-grid-box widgets tag-list">
+							<h3 class="widget-title">Tags</h3>
+							<ul>
+								<li>
+									<a href="#">Tech</a>
+								</li>
+								<li>
+									<a href="#">Fashion</a>
+								</li>
+								<li>
+									<a href="#">Sports</a>
+								</li>
+								<li>
+									<a href="#">Football</a>
+								</li>
+								<li>
+									<a href="#">Styles</a>
+								</li>
+								<li>
+									<a href="#">Rech</a>
+								</li>
+								<li>
+									<a href="#">Lifestyle</a>
+								</li>
+								<li>
+									<a href="#">Technology</a>
+								</li>
+								<li>
+									<a href="#">Guide</a>
+								</li>
+								<li>
+									<a href="#">Food</a>
+								</li>
+								<li>
+									<a href="#">Animal</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- right sidebar end-->
+				<!-- col end-->
+			</div>
+			<!-- row end-->
+		</div>
+		<!-- container-->
+	</section>
+	<!-- single post end-->
+
+
+        
+		<!-- footer social list start-->
+		<section class="ts-footer-social-list section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="footer-logo">
+							<a href="#">
+								<img src="/images/logo/footer_logo.png" alt="">
+							</a>
+						</div>
+						<!-- footer logo end-->
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-8 align-self-center">
+						<ul class="footer-social">
+							<li class="ts-facebook">
+								<a href="#">
+									<i class="fa fa-facebook"></i>
+									<span>Facebook</span>
+								</a>
+							</li>
+							<li class="ts-google-plus">
+								<a href="#">
+									<i class="fa fa-google-plus"></i>
+									<span>Google Plus</span>
+								</a>
+							</li>
+							<li class="ts-twitter">
+								<a href="#">
+									<i class="fa fa-twitter"></i>
+									<span>Twitter</span>
+								</a>
+							</li>
+							<li class="ts-pinterest">
+								<a href="#">
+									<i class="fa fa-pinterest-p"></i>
+									<span>pinterest</span>
+								</a>
+							</li>
+							<li class="ts-linkedin">
+								<a href="#">
+									<i class="fa fa-linkedin"></i>
+									<span>Linkedin</span>
+								</a>
+
+							</li>
+						</ul>
+					</div>
+					<!-- col end-->
+
+				</div>
+			</div>
+		</section>
+		<!-- footer social list end-->
+
+		<!-- newslater start -->
+		<section class="ts-newslatter section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="ts-newslatter-content">
+							<h2>
+								Sign up for the Newsletter
+							</h2>
+							<p>
+								Join our newsletter and get updates in your inbox. We won’t spam you and we respect your privacy.
+							</p>
+						</div>
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-6 align-self-center">
+						<div class="newsletter-form">
+							<form action="#" method="post" class="media align-items-end">
+								<div class="email-form-group media-body">
+									<i class="fa fa-paper-plane" aria-hidden="true"></i>
+									<input type="email" name="email" id="newsletter-form-email" class="form-control" placeholder="Enter Your Email" autocomplete="off">
+								</div>
+								<div class="d-flex ts-submit-btn">
+									<button class="btn btn-primary">Subscribe</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- newslater end -->
+
+		<!-- footer start -->
+		<footer class="ts-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="footer-menu text-center">
+							<ul>
+								<li>
+									<a href="#">Support</a>
+								</li>
+								<li>
+									<a href="#">Suggestion</a>
+								</li>
+								<li>
+									<a href="#">Privacy</a>
+								</li>
+								<li>
+									<a href="#">About</a>
+								</li>
+								<li>
+									<a href="#">Our Ads </a>
+								</li>
+								<li>
+									<a href="#">Terms</a>
+								</li>
+							</ul>
+						</div>
+						<div class="copyright-text text-center">
+							<p>&copy; 2018, Vinazine. All rights reserved</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- footer end -->
+
+
+	</div>
+
+
+	<!-- javaScript Files
+	=============================================================================-->
+
+	<!-- initialize jQuery Library -->
+	<script src="/js/jquery.min.js"></script>
+	<!-- navigation JS -->
+	<script src="/js/navigation.js"></script>
+	<!-- Popper JS -->
+	<script src="/js/popper.min.js"></script>
+
+	<!-- magnific popup JS -->
+	<script src="/js/jquery.magnific-popup.min.js"></script>
+
+
+
+	<!-- Bootstrap jQuery -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script src="/js/owl-carousel.2.3.0.min.js"></script>
+	<!-- slick -->
+	<script src="/js/slick.min.js"></script>
+
+	<!-- smooth scroling -->
+	<script src="/js/smoothscroll.js"></script>
+
+	<script src="/js/main.js"></script>
+</body>
+
+</html>

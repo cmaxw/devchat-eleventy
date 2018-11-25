@@ -1,0 +1,1933 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Basic Page Needs =====================================-->
+	<meta charset="utf-8">
+
+	<!-- Mobile Specific Metas ================================-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Site Title- -->
+	<title>079 AiA Reactive Programming and Redux with Angular 2 with Rob Wormald
+</title>
+
+	<!-- CSS
+   ==================================================== -->
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/animate.css">
+
+	<!-- IcoFonts -->
+	<link rel="stylesheet" href="/css/icofonts.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="/css/owlcarousel.min.css">
+
+	<!-- slick -->
+	<link rel="stylesheet" href="/css/slick.css">
+
+
+
+	<!-- navigation -->
+	<link rel="stylesheet" href="/css/navigation.css">
+
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="/css/magnific-popup.css">
+
+
+
+
+	<!-- Style -->
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="stylesheet" href="/css/colors/color-2.css">
+
+	<!-- Responsive -->
+	<link rel="stylesheet" href="/css/responsive.css">
+
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+	<div class="body-inner-content">
+		<!-- top bar start -->
+		<section class="top-bar v4">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 align-self-center">
+						<div class="ts-breaking-news clearfix">
+							<h2 class="breaking-title float-left">
+								<i class="fa fa-bolt"></i> Our Latest Episodes :</h2>
+							<div class="breaking-news-content float-left" id="breaking_slider1">
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end col-->
+
+					<div class="col-md-4 align-self-center">
+						<div class="text-right xs-left">
+							<div class="ts-date-item">
+								<i class="fa fa-clock-o"></i> Sunday, August 24</div>
+						</div>
+
+					</div>
+					<!--end col -->
+
+
+				</div>
+				<!-- end row -->
+			</div>
+		</section>
+		<!-- end top bar-->
+
+		<!-- ad banner start -->
+		<section class="header-middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 align-self-center">
+						<div class="header-logo">
+							<a href="/">
+								<img src="/images/logo/logo-web-small.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<div class="col-md-8 align-self-center">
+						<div class="banner-imgr">
+							<a href="index.html">
+								<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<!-- col end -->
+				</div>
+				<!-- row  end -->
+			</div>
+			<!-- container end -->
+		</section>
+
+		<!-- header nav start-->
+		<header class="header-standerd">
+			<div class="container">
+				<div class="row">
+
+					<!-- logo end-->
+					<div class="col-lg-12">
+						<!--nav top end-->
+						<nav class="navigation ts-main-menu navigation-landscape">
+							<div class="nav-header">
+								<a class="nav-brand mobile-logo visible-xs" href="index.html">
+									<!-- <img src="/images/footer_logo.png" alt=""> -->
+								</a>
+								<div class="nav-toggle"></div>
+							</div>
+							<!--nav brand end-->
+
+							<div class="nav-menus-wrapper clearfix">
+								<!--nav right menu start-->
+								<ul class="right-menu align-to-right">
+									<li class="header-search">
+										<div class="nav-search">
+											<div class="nav-search-button">
+												<i class="icon icon-search"></i>
+											</div>
+											<form>
+												<span class="nav-search-close-button" tabindex="0">✕</span>
+												<div class="nav-search-inner">
+													<input type="search" name="search" placeholder="Type and hit ENTER">
+												</div>
+											</form>
+										</div>
+									</li>
+								</ul>
+								<!--nav right menu end-->
+
+								<!-- nav menu start-->
+								<ul class="nav-menu">
+									<li class="active">
+										<a href="#">Podcasts</a>
+										<div class="megamenu-panel ts-mega-menu">
+											<div class="megamenu-lists">
+												<ul class="megamenu-list list-col-2">
+													<li class="active">
+														<a href="/js-jabber">JavaScript Jabber</a>
+													</li>
+													<li>
+														<a href="/ruby-rogues">Ruby Rogues</a>
+													</li>
+													<li>
+														<a href="/adv-in-angular">Adventures in Angular</a>
+													</li>
+													<li>
+														<a href="/my-javascript-story">My JavaScript Story</a>
+													</li>
+													<li>
+														<a href="/my-ruby-story">My Ruby Story</a>
+													</li>
+													<li>
+														<a href="/my-angular-story">My Angular Story</a>
+													</li>
+													<li>
+														<a href="/react-native-radio">React Native Radio</a>
+													</li>
+													<li>
+														<a href="/react-round-up">React Round Up</a>
+													</li>
+													<li>
+														<a href="/views-on-vue">Views on Vue</a>
+													</li>
+													<li>
+														<a href="/freelancers">The Freelancers' Show</a>
+													</li>
+													<li>
+														<a href="/iphreaks">iPhreaks</a>
+													</li>
+													<li>
+														<a href="/elixir-mix">Elixir Mix</a>
+													</li>
+													<li>
+														<a href="/the-dev-rev">The Dev Rev</a>
+													</li>
+												</ul>
+												<ul class="megamenu-list list-col-2">
+                                                    <li>
+                                                        <a href="#"><strong>Retired Shows</strong></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/tmtc-screencasts">Teach Me To Code Screencasts</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/teachmetocode">Teach Me To Code Podcast</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/rails-clips">Rails Clips</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/web-sec-warriors">Web Security Warriors</a>
+                                                    </li>
+                                                </ul>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#">Lifestyle</a>
+										<div class="megamenu-panel">
+											<div class="megamenu-tabs">
+												<ul class="megamenu-tabs-nav">
+													<li class="active">
+														<a href="#">Health</a>
+													</li>
+													<li>
+														<a href="#">Food</a>
+													</li>
+													<li>
+														<a href="#">Fashion</a>
+													</li>
+													<li>
+														<a href="#">Travel</a>
+													</li>
+												</ul>
+												<div class="megamenu-tabs-pane active">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Can't shed those Gym? The problem might be in</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Smart packs parking sensor tech and beeps</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Deleting fears from the brain means you might never</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel4.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+	
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-1.html">Technology</a>
+									</li>
+									<li>
+										<a href="#">Video</a>
+										<div class="megamenu-panel">
+											<div class="row">
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech4.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-2.html">Travel</a>
+									</li>
+									<li>
+										<a href="#">Features</a>
+										<ul class="nav-dropdown">
+											<li>
+												<a href="#">Category layout</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="category-1.html">Category layout 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-2.html">Category layout 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="category-3.html">Category layout 3</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-4.html">Category layout 4</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-5.html">Category layout 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-6.html">Category layout 6</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Posts Formate</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="single-post-1.html">Single Post 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-2.html">Single Post 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-3.html">Single Post 3 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-4.html">Single Post 4 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-5.html">Single Post 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-6.html">Single Post 6</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-7.html">Single Post 7</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-8.html">Single Post 8</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-9.html">Single Post 9</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-10.html">Single Post 10</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Pages</a>
+												<ul class="nav-dropdown">
+													<li>
+														<a href="author.html">Author</a>
+													</li>
+													<li>
+														<a href="404.html">404 </a>
+													</li>
+	
+												</ul>
+											</li>
+										</ul>
+									</li>
+	
+								</ul>
+								<!--nav menu end-->
+							</div>
+						</nav>
+						<!-- nav end-->
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- header nav end-->
+
+        
+	<!-- single post start -->
+	<section class="single-post-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<ol class="breadcrumb">
+						<li>
+							<a href="/">
+								<i class="fa fa-home"></i>
+								Home
+							</a>
+						</li>
+						<li>
+							<a href="/adv-in-angular"></a>
+						</li>
+						<li>Travel</li>
+					</ol>
+					<!-- breadcump end-->
+					<div class="ts-grid-box content-wrapper single-post">
+						<div class="entry-header">
+							<h2 class="post-title lg">Swiss authorities say Uber drivers should treated as employees</h2>
+							<ul class="post-meta-info">
+								<li>
+									<a href="#" class="post-cat ts-yellow-bg">Travel</a>
+								</li>
+								<li class="author">
+									<a href="#">
+										<img src="/images/avater/author.png" alt=""> Donald Ramos
+									</a>
+								</li>
+								<li>
+									<i class="fa fa-clock-o"></i>
+									March 21, 2019
+								</li>
+								<li class="active">
+									<i class="icon-fire"></i>
+									3,005
+								</li>
+								<li class="share-post">
+									<a href="#">
+										<i class="fa fa-share"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- single post header end-->
+						<div class="post-content-area">
+							<div class="post-media post-featured-image">
+								<a href="/images/news/travel/travel2.jpg" class="gallery-popup">
+									<img src="/images/news/travel/travel2.jpg" class="img-fluid" alt="">
+								</a>
+							</div>
+							<div class="entry-content">
+								
+<p dir="ltr" style="text-align: center;"><span style="font-size: 18px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Check out </span><a style="text-decoration: none;" href="https://allremoteconfs.com/freelance-2016">Freelance Remote Conf</a><span style="background-color: transparent; color: #000000; font-family: arial;"> and </span><a style="text-decoration: none;" href="https://allremoteconfs.com/react-2016">React Remote Conf</a><span style="background-color: transparent; color: #000000; font-family: arial;">!</span></span></p>
+&nbsp;
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:34 - Rob Wormald Introduction</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://twitter.com/robwormald">Twitter</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/robwormald">GitHub</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.roblog.io/">Blog</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:53 - How </span><a style="text-decoration: none;" href="https://github.com/rackt/redux">redux</a><span style="background-color: transparent; color: #000000; font-family: arial;"> Works and How it Works in the Context of Angular 2</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/ngrx/store">ngrx/store</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://facebook.github.io/react/">React</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://facebook.github.io/flux/">Flux</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">06:19 - Data Structuring and Immutability</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://medium.com/google-developer-experts/angular-2-introduction-to-redux-1cf18af27e6e#.fs370dms1">Gerard Sans: Angular 2 — Introduction to Redux How to use Redux in Angular 2 Applications</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">09:11 - Angular 2 Frustrations</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Performance</span></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">15:54 - Filtering and Ordering</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">18:12 - Application Logic and Testing</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://staltz.com/">André Staltz</a></span>
+<ul>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://staltz.com/why-react-redux-is-an-inferior-paradigm.html">Why React/Redux is an Inferior Paradigm</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://cycle.js.org/">Cycle.js</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://elm-lang.org/">The Elm Programming Language</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://egghead.io/series/cycle-js-fundamentals">[egghead.io] Cycle.js Fundamentals</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/staltz/flux-challenge">flux-challenge</a> </span></li>
+</ul>
+</li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">29:21 - Mixing redux and </span><a style="text-decoration: none;" href="https://github.com/Reactive-Extensions/RxJS">RxJS</a></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications">Victor Savkin: Managing State in Angular 2 Applications</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/ngrx/store">ngrx/store</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">31:12 - Resources/Code Examples</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://egghead.io/series/getting-started-with-redux">[egghead.io] Dan Abramov: Getting Started with Redux</a> </span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">41:12 - Should the Angular team embrace redux?</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/angular/tactical">tactical</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">44:42 - ngrx: Problems</span></span></p>
+<span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">47:28 - RxJS 5 and Getting Started</span></span>
+
+<span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Picks</span></span>
+<p dir="ltr"><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://www.imdb.com/title/tt3501584/">iZombie</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Joe)</span>
+<a style="text-decoration: none;" href="http://www.imdb.com/title/tt0212671/">Malcolm in the Middle</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Joe)</span>
+<a style="text-decoration: none;" href="https://egghead.io/series/cycle-js-fundamentals">[egghead.io] Cycle.js Fundamentals</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Lukas)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/B0058NNAG0">Pilot G-Tec-C Gel Rolling Ball Pens</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Lukas)</span>
+<a style="text-decoration: none;" href="https://allremoteconfs.com/freelance-2016">Freelance Remote Conf</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="https://allremoteconfs.com/react-2016">React Remote Conf</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://ng-nl.org/">NG-NL</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="https://www.rushmypassport.com/">RushMyPassport</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&amp;redirect=true&amp;ref_=oh_aui_detailpage_o05_s00">Mogo Portable Seat</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://www.imdb.com/title/tt4192998/">Occupied</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Rob)</span>
+<a style="text-decoration: none;" href="https://egghead.io/series/cycle-js-fundamentals">[egghead.io] Cycle.js Fundamentals</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Rob)</span>
+<a style="text-decoration: none;" href="https://egghead.io/series/getting-started-with-redux">[egghead.io] Dan Abramov: Getting Started with Redux</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Rob)</span>
+<a style="text-decoration: none;" href="https://gitter.im/angular/angular">Angular 2 Gitter Channel</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Rob)</span></span></p>
+
+<h3>Transcript</h3>
+
+<strong>ROB:</strong> Do it like this. "Hey. Hey. Hey."
+
+<strong>LUKAS:</strong> Hey. Hey. Hey. [Chuckles] We get that little look in their – Rob, what are you doing? Coming on the show.
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco and New York and LA get on JavaScript developers providing to put the salary and equity upfront. The average JavaScript developer gets an average of 5-15 introductory offers and an average salary of over $130,000 a year. You just can either accept an offer and go right into interviewing with the company and neither with that any continuing obligations. It's totally free for users, and when you're hired, they'll also give you a $2,000 signing bonus as a "Thank You" for using them. But if you use the Adventures in Angular link, you'll get a $4,000 bonus instead. Finally, if you're not looking for a job but know someone who is, you can refer them to Hired to get a $1,337 bonus if they accept the job. Go sign up at Hired.com/AdventuresinAngular.]</em></strong>
+
+<strong><em>[Ready to master AngularJS? Oasis Digital offers Angular Boot Camp, a three-day, in-person workshop class for individuals or teams. Bring us to your site or send developers to ours classes in St. Louis or San Francisco – AngularBootCamp.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by Telerik, the makers of Kendo UI. Kendo UI integrates seamlessly with both AngularJS 1.x and 2.0. It provides everything you need to integrate with AngularJS out-of-the-box bindings, component configuration and directives, template directives, form validation, event handlers and much more and yet Kendo UI tooling does not depend on AngularJS. So if you want to use it with Angular or not, that’s totally up to you. You could check it out at KendoUI.com]</em></strong>
+
+<strong><em>[This episode is sponsored by Digital Ocean. Digital Ocean is the provider I use to host all of my creations. All the shows are hosted there, along with any other projects I come up with. Their user interface is simple and easy to use. Their support is excellent. And their VPSes are backed on solid-state drives and are fast and responsive. Check them out at DigitalOcean.com. If you use the code “Angularadventures” you'll get a $10 credit!]</em></strong>
+
+<strong>CHUCK:</strong> Hey everybody and welcome to episode 79 of the Adventures in Angular Show. This week on our panel we have Lukas Reubbelke.
+
+<strong>LUKAS:</strong> Hello.
+
+<strong>CHUCK:</strong> Joe Eames.
+
+<strong>JOE:</strong> Hello.
+
+<strong>CHUCK:</strong> I’m Charles Max Wood from Devchat.tv. Quick shout-out for Freelance Remote Conf coming up real soon, and React Remote Conf coming up in a few months.
+
+We also have a special guest this week and that's Rob Wormald!
+
+<strong>ROB:</strong> Hey.
+
+<strong>CHUCK:</strong> Do you want to introduce yourself? We haven't had you for a month or so.
+
+<strong>ROB:</strong> I'm Rob Wormald. I actually work on the Angular Tube Mobile team – so we have a new mobile team – and I’m on that team so we’re focusing on performance and rendering speed and all sorts of fun things for Angular on mobile.
+
+<strong>JOE:</strong> Cool! [Crosstalk]
+
+<strong>LUKAS:</strong> Rob – I'll jump in here really quick if you don’t mind, Chuck.
+
+<strong>CHUCK:</strong> Do it.
+
+<strong>LUKAS:</strong> I got you guys in a headlock and I said, "Look, we got to get Rob on. Angular in Redux is my new favorite thing. And you wrote ngRx store which is in our library and I really enjoyed working with Angular 2 and Redux style over the last couple of weeks.
+
+I apologize for being such a pain in the neck and asking you about a jillion questions, but really my entire way that I can see data flowing through an Angular application completely inverted to the single state tree with the basic state falling down, events flowing up. And for the sake of our listeners, could you give us a 1000 foot view of how Redux works, and then how it works in the context of Angular 2?
+
+<strong>ROB:</strong> You see, I think the bigger question to that is actually the best place to look and learn from this is React. It is probably bad for me to say that.
+
+<strong>CHUCK:</strong> No!
+
+<strong>ROB:</strong> I know right. So, React is a big cell – is that data is a one-way flow thing and the React patterns starts with this Flux. And Flux is a whole series of different pieces which I'm not really well-versed to explain. But that basic idea that you just patch actions up and state flows down and it means you are not modifying data and mutating data comes from React lands.
+
+So, Redux is sort of a distillation of that idea if you like. Flux never really made sense to me. I don't think I’ve used it and [inaudible] React particularly, but I think some of the ideas are great. Redux itself makes a lot of sense to me. I think that it’s a really conceptually simple idea. And the basic thousand view of it is that if you think about a reducer function, which you have an array of numbers and you wanted to sum them up, the way a reduce function works is it will take an accumulator, like the previous value and the current value and you return the new state.
+
+Redux expands that for applications and what it means is that you basically – you have function which takes the current state of the application and also takes some action. So, you get like an "I want to update somethings" or "delete something." And you do some change; you update your state, and you return the new state of your application and it means a couple of things. It means that, one, everything changeable in your application is kept in a very focused place. There is only one place that it happens which makes it very easy to keep track of.
+
+And the other things then is that if we're doing that, then it opens up a whole bunch of possibilities like undo and redo and logging and dev tools – all sorts of interesting things. There are two benefits of that being that it’s, A, it's really understandable, right? You don't have changes happening all over your application; they only happen in one place. And then there's the benefit in terms of speed and the ability what enables frameworks to handle from there.
+
+Angular 2 uses it. Also if you're using that, whether it's a Redux with a capital "R" or the Redux style of doing things if you like. In Angular 2 application – because Angular 2 applications can take advantage of immutability and enables some really big speed and performance benefits; immutability and reactivity which is what my library does. So you’re going to get the benefits from a [inaudible] point of view but then, there’s some very concrete performance benefit of using a Redux-style of type of mutation in Angular 2.
+
+<strong>LUKAS:</strong> One of the things that's interesting is in Angular 1, it was very common to pull a data structure into your controller. You might access it, move it around a little bit, and then make it available to be bound to your view. Whereas, I found that doing it in this Angular 2 Redux style using the async pipe is – I basically simply say pull the structure from this particular service which returning an observable, and it just basically flows down right into your templates and populates them.
+
+And so what's interesting is that essentially your structure or your data that your binding to now moves even further up the chain, if you will, into a more centralized location that's much simpler to reason instead of having these pockets of immutable data that you're working with.
+
+<strong>ROB:</strong> I think that it's exactly right. I think that's probably – if you're in Angular 1 dev, that'll be the largest change – a largest way that you think about applications. I’m sorry – the largest change [inaudible] when you think about application.
+
+And obviously, everything you do in Angular 1 today, you can still do in Angular 2. You know all that; we're not making any recommendations to say "You cannot do this" or "this no longer works". But it opens up some possibilities that weren't really possible in Angular 1. Being able to do things – and I guess you should say that Redux as an idea is about immutability. And then, that works just fine if you can plug Redux into Angular 1 pretty well and there's a bunch of people – Gerard Sans has done some really good work on that. He's got a really good blog post on Redux in Angular 2. And so that's, Redux is an immutable idea. Meaning that every time you change the state you are going to get a new copy of the state, a new reference which Angular can do a – serve a much faster check against and that speeds things up.
+
+But Angular 2, specifically, if your go one level beyond that, and that's where you take the Redux-type idea and then you wrap that or provide that with an observable, meaning the actual storage is pushing data out your view, then you got a farther performance benefit that you can actually turn off change detection. It means that your data is telling Angular "Hey, I have changed" rather than Angular checking your data.
+
+So, the check staff is much faster with immutable data but if you go full reactive, then it means that you can actually turn off that detection step and actually say to Angular "Hey, my data has changed. Now go ahead update the view" as opposed to Angular checking to see if your data has changed.
+
+I think that's quite an important difference. Redux, with a capital R, will give you the first step of faster data checking or faster binding, faster updating. But the observable way is that much better. It's that much faster, that much performant. That's a big step forward for Angular over just the vanilla Redux out doing things.
+
+<strong>JOE:</strong> I want to jump in and vent some frustrations about Angular 2 here.
+
+<strong>LUKAS:</strong> Do it. Let’s hear it.
+
+<strong>CHUCK:</strong> Vent!
+
+<strong>JOE:</strong> In Angular 1 there is a filter called the "Filter” filter, which is an awesome name, and I'm pretty sure it was included in the ng-wat talk that was given last year. [Crosstalk]
+
+<strong>LUKAS:</strong> The “filter” filter filter?
+
+<strong>JOE:</strong> Yeah. There's also an order by filter which, I assume anybody who's done in Angular 1 will be [inaudible]. You have an array of data, you throw on the filter filter and you could filter to it, just the elements that you want. Or you throw on the [inaudible] filter, you could filter the elements you want. And everybody was ecstatic with stuff like that. And I think that today they still love those sorts of features because you don't think about it. Just throw this on and boom, things work. I don't have to write the filtering myself, I don't have to write the ordering myself. I just put this whole thing on and it works. What nobody realized is what the performance cost was.
+
+<strong>ROB:</strong> Like?
+
+<strong>JOE:</strong> Like checking and rerunning. You have to rerun that filter every time anything happens and that creates this huge performance bottle neck. Browsers are so much faster than what we think they are so it only shows up in certain situations but it was there, right?
+
+<strong>ROB:</strong> Yep.
+
+<strong>JOE:</strong> It was bad enough that I [inaudible] a significant portion of people who have seen performance problems in Angular. When I do a talk I ask how many people have seen a performance problem in Angular, a serious one, and 20% of the hands were up which is a really high number.
+
+So in Angular 2, the performance is just unbelievably fantastic but there is no filter. Filter – it’s their pipes now, [inaudible] filters but there is no filter pipe and there is no [inaudible] pipe. And people may come to this and say "why not?" and then you start digging into the documentation and quickly realize how to create your own custom pipe; you can try to do one. And you go down this very dangerous road that if you don't really pay attention to the documentation and really understand some things that are going on, you can get into very dangerous situations where you cause a huge performance problem or else you try to implement something that doesn't work the way that you think it's going to work.
+
+<strong>ROB:</strong> Sure.
+
+<strong>JOE:</strong> The way that pipes works and whether they are a pure pipe or an impure pipe are only evaluated on certain times. I love the idea, and I really wish that this idea of immutable data structure is unlike Redux would be adopted because it completely obviates this entire issue.
+
+<strong>ROB:</strong> Sure. I'll say – this is me as a developer developing new applications and not as an Angular core team developer. That idea of immutable base structure is like, I would say that "that's what you must be doing" as a developer today you need to be thinking that way.
+
+As a core dev – as an Angular core developer, it would be better to think that way. We'll certainly let you think about it the old way. I think a lot of this is like – at the end of the day, we on the core team, the goal is it has to be fast to the core, right? Adding on a filter filter is somethings that can be sugared on later and there's no doubt in my mind, whether we implement it or one of the amazing community members implement it – I'm sure that a set of pipes that will do this very well. That kind of thing will come and – we have to – what we are going to do is to make Angular 2 easier at the expense of performance if that makes sense. That is basic tenet is to make fast and sugaring as easy on top of that.
+
+<strong>JOE:</strong> There's a significant difference in Angular 1 and 2. Angular 1 was easy at the expense of performance. Angular 2 is not quite as easy as Angular 1.
+
+<strong>ROB:</strong> Yes. I would say that conceptually there's a lot of less surface area, right. [Crosstalk]
+
+<strong>JOE:</strong> Yes.
+
+<strong>ROB:</strong> We have components and services. But there are certainly some – you have to know a little more sometimes of what's really going on. And I think immutability is a very good example of that, right? You need to be aware of – it's less forgiving, I would say. The way that we would describe it is it’s more explicit where we would say "Ah! Don't worry about the binding because we'll check it." or "Don't worry about the filter; you can run it 10000 times in a second. That’s fine. I think that across the framework, you'll see the idea of like – it a little bit less forgiving, but it gives that trade-off of a much greater performance from the beginning.
+
+<strong>JOE:</strong> Right. My steam in Angular 1 is easier. That’s only for a certain perspective but that the idea that "don't worry about it”, it’s [inaudible]. That is much easier in Angular 1. [Crosstalk]
+
+<strong>ROB:</strong> You see the same thing in template bindings, right? In Angular 1, you can have an undefined object and bind your property with that and Angular 1 just wouldn't complain about it. Whereas Angular 2 will complain which is frustrating sometimes, right? You have to use the [inaudible] operator, think a little bit more about how you're handling it. But again there's a reason for that. And the reason for that is to [inaudible] performance rank.
+
+<strong>LUKAS:</strong> That's an interesting question because – or conversation because on one hand, do you enable people to do things that are potentially detrimental for the sake of being easy. So in Angular 1 you just bind to all the things and you didn’t really have to think about it until it just stopped working. Where with Angular 2, we are imposing some sensible best practices that we learned from other communities. One, immutable data structures, reactive work flows and different things but there's a bit of a learning curve. And so, [crosstalk].
+
+<strong>JOE:</strong> Be careful there because it is not like Angular 1 is enforcing these things. Just saying, is Angular 1 now – will work with those things and be awesome and [inaudible]. Sorry, Angular 2 will be. I’m saying Angular 1. Angular 2 is not enforcing these things like immutable data structures.
+
+<strong>LUKAS:</strong> Right, but the sugar – you are getting a lot less sugar so [inaudible] the pipe pipes. You are not getting these 42,000 built in directives that you just sprinkle your dom with and you are good to go. The framework is twice as powerful with half the footprint because its leveraging a lot of – basically the native dom events for instance that you bind directly to those. There's a lot of things that kind of pruned off that you can go back in and film, but for instance, where is the filter filter? That's not there because they are basically forfeiting that for the sake of performance and if you want, you can put it back but there is that learning curve where somebody from one axis will be like "Hey, what happened to my filter filter?" And they got to go dig in and they realize "Oh, I actually need to go write this myself."
+
+You got that trade off where you got that a ton of sugar in Angular 1 and it’s really easy to get up and running but eventually in – Rob and I have seen it and I'm sure everyone – where you show up in some enterprise and they use that sugar in the worst possible way and it’s like "Just turn the thing down, let's start over. You know you don't store stated event” and whatever. Where with Angular 2, you have a lot less sugar to hang yourself with.
+
+<strong>JOE:</strong> And [inaudible] sugar smells horrible.
+
+<strong>LUKAS:</strong> Oh man, it's to work my taste.
+
+<strong>CHUCK:</strong> So for anybody that’s listening that’s curious specifically about the "filter filter" and it doesn’t exist as a pipe or the order by filter that doesn’t exist in a pipe just so that by now, the way to handle this is in your component. You handle your filtering and your ordering yourself and in that way, you're only re-filtering and reordering when the data changes so you have to handle it yourself. But then the performance is skyrocketed a gazillion times higher than it was with Angular 1.
+
+<strong>ROB:</strong> You could write a filter pipe – a filter filter pipe [inaudible]. And again, the problem becomes – you kind of have two options here. You can write a filter filter pipe which works with immutable data so it's not going to run unless your object or reference changes. And that's perfectly performant and that’s perfectly fine, it’ll work and it’s not give you change detection errors. But you have to then – sort of two cases where we have to say, okay, this is the way it works if you're doing it immutably and this is the way it's going to work if you are not going to do that. The difference being change the array versus push to the array. So, it snowballs quickly if we provide one for each use case. I hope that, as more people switch to Angular 2 they’ll realize the benefits of doing things immutably.
+
+And I should say – somebody is going to call me out on this if I don't say this is that immutable data in itself is actually less format [inaudible], right? It has higher memory pressure. A number of things that immutable data itself is not faster; it is not a panacea to everything. But being immutable allows the framework to be faster and that's quite a clear delineation, right? I don't want to say that using immutable JS or just doing things immutably is faster and better in itself. It's important to note that doing that enables the framework to be faster.
+
+And so, I think we'll see a library of awesome pipes for this. That's a better way to do it. Angular Core will continue to be lightweight; it’ll continue to not dump all the things in and like HTTP and the router are not part of Core. Things that were eventually broken out of Angular 1 like the router or like touch and all these things. We're starting with this idea of let's keep things in core only as core and then you can plug in what you need, right? If you never use the filter filter you shouldn't have to pay the penalty for those bites.
+
+<strong>JOE:</strong> Right.
+
+<strong>LUKAS:</strong> Next question. I noticed in the application that recently completed using ngRx and Redux that the logic in my application just shrunk down to hardly anything. Rob, you've seen it. Basically, it’s a cred app and I have this reducer that’s doing [inaudible], add all the items, create item, update item, delete item. It's a very small structure as opposed to doing it in Angular 1 or not in the Redux style. The question that I have is how does doing it in Redux style affect how you approach testing? In my case, I think the question that I have is, all my logic is in my reducers. And so, I wrote some test for my reducer that took five minutes, what else is there to test? I don't know. Maybe I test my – [inaudible] my HTTP calls, but there's no logic in there. Everything is in the reducers. So, I'm curious; doing an application in this Redux style, how does that affect the testable surface area, and generally what to do you focus one?
+
+<strong>ROB:</strong> I think the first thing is, as you said, because the vast majority of your logic lives in a reducer. Reducers are really simple to test, right? They are pretty much pure JavaScript. There's nothing about them that is special to Redux or Rx or ngRx or anything; it's literally just a reducer function. And it's pure in the sense that given the same inputs, it should give you the same outputs every single time. And it makes it super simple to test; there's very little mocking to do. You don’t have to worry; that part of the logic is super easy to test. And then it becomes questionable; is my components rendering as expected to? And obviously Angular covers that pretty well.
+
+The really interesting thing – and this is something that in my library that I’m going to look at providing publicly. You know like the test and how I’m testing the stored code base if you like, the ngRx store code base.
+
+I'm using Reactive Extension Marvel testing and if you haven't looked at RxMarbles or how – RxMarbles uses this idea where you can describe an application in the way stuff flows through to observable as a series of graphics. It's dots on the line. And testing that actually, if you can think about everything – I always use the term which I stole from Andre Staltz, everything is a stream. And if you can think about everything you do in the application as stream. So a stream of inputs gets changed into a stream of requests, which gets changes to a stream of state changes – that kind of thing is really interesting to test. It is actually almost – and I’m going to say this since I’ stranger – but it’s almost fun to test it this way because you can write your tests graphically. You can actually describe your application as dots on a line and how data flows.
+
+I think it's going to open up some really interesting ideas and how we test applications. Obviously, I'm kind of sealing my [inaudible] right now, the Rx library. But I think that overall – generally things get much easier to test. And really, the hard part of testing – your UI end and obviously Angular is often really good at that. So, I think that it will make testing everything but your UI will be far, far easier than it is today, and then obviously Angular will cover the UI testing end of that. Is my component doing what I expected to do given data [inaudible]?
+
+<strong>LUKAS:</strong> So are you talking like protractor or like end to end testing?
+
+<strong>ROB:</strong> Protractor or even the unit testing within the framework. Julius did some really good work on – we have some sort of test component builder where you can hand in the component and hand in some data. And we’ll be able to do assertions on "is the [inaudible] doing what I expected it to do?" Kind of the same way you test Angular apps today.
+
+But again, you can test the vast majority of your application logic assuming you pulled that out to a Redux store right in action of all these things. You can test all these parts in isolation. You can all these, that you expect that when this request goes out and you get this response back, this happens – all that stuff can be tested really in a nicely isolated fashion almost without Angular being involved at all. And really then, the only Angular-specific type thing becomes Angular component in [inaudible]. Because everything is not wrapped inside an Angular service. Everything is not Angular.module to create a service; everything is just ES 6 classes that you can pool into a test and run. It makes is really nice and easy.
+
+<strong>JOE:</strong> Right.
+
+<strong>ROB:</strong> That’s majority of the test that I have written, divert from my library. Don't use anything specific; they are just Jasmine test drive. It just executes – it means they run headless and no, they run fast. It's all really JavaScript as opposed to Angular JavaScript for testing which is nice.
+
+<strong>JOE:</strong> We're talking about Redux, right? And you mentioned Andre Staltz. I was wondering if you wanted to comment on his recent blog post that blew up on Reddit, Hackernews about React– Redux as a bad paradigm.
+
+<strong>ROB:</strong> Am I going to comment on that?
+
+<strong>JOE:</strong> Or your thoughts? Not judgements. I don't care about if you give a judgement or don't give a judgement about what he said. But your thoughts about what he said – Redux on Angular 2. And he's saying that "Hey, elements cycle –“ that their paradigm is different than Redux's. You know Redux is – I don’t know if it’s definitely the best but it’s probably at least right now the most accurate – closest to – adoption of the Elm architecture for Redux or for React – excuse me – Redux. So it’s trying its best to be Elm in React and as far as I know the most accurate one – the closest one out there. That's what Redux is. So he's saying that it’s not – basically saying it’s not close enough cycles but closer – which is an entirely different framework. And Elm is much purer and Redux just doesn't cut it.
+
+<strong>ROB:</strong> So, I would say that the first thing is that I am lucky enough that I get to hang out in the Egghead's Slack channel where both Dan and Andre and where really terribly smart people hang out. I think that the drama about that was overblown as JavaScript is; it tends to be. [Crosstalk]
+
+<strong>CHUCK:</strong> What?
+
+<strong>JOE:</strong> In terms of what he could [crosstalk].
+
+<strong>LUKAS:</strong> I'm going to pinch you for that.
+
+<strong>JOE:</strong> JavaScript’s? Nah. We don't do drama at all.
+
+<strong>ROB:</strong> I would say this. I really like what Redux does. I think that conceptually, Redux is amazing.
+
+<strong>LUKAS:</strong> Again, Redux is not a new idea. I think Dan will tell you that, that it’s not new; it is inspired by Elm. It is inspired by stuff from the '70s if you read about computer science books. It's not a new concept.
+
+I would say that – I'm not really a React [inaudible]. I’m reactive all – Redux makes a huge amount of sense to me. And whether it’s pure enough or whatever, I think it’s kind of [inaudible] because Redux is like 45 lines of code. Maybe it’s less than a hundred lines of code anyway. And I think that the concept of Redux – the mental model of Redux is the important thing. The implementation is less important and that's my library, ngRx, is literally – it’s Redux rewritten for Rx, right?
+
+And I would say this; Redux doesn't really make any comment on anything except state management. Like it doesn't really cover making HTTP requests. All that stuff is handled by middleware. It’s all outside of Redux's core idea.
+
+I think Andre's point – again, I’m not [inaudible] to speak for Andre, but I think having a redone, if you like Redux – redone Redux in Rx and reactive extensions. I think that it’s actually – I will say it's better done with Rx. I think that honestly – again, I'm like the observable fanboy in the Angular team but I think that most things are better done in Rx, not just Redux.
+
+I think probably Andre's – if you’ve not used Cycle and you are an Angular and React developer, I would highly recommend it. He's got a new series up on egghead. Just from expanding the way you're thinking on applications a little bit – [inaudible] his framework is amazing. And honestly, a lot of stuff that we're going to be moving into – Angular is kind of the reactive stuff – for me, it's hugely inspired by what Andre's doing. I think that the way he thinks that applications is really interesting
+
+So I think – it’s this idea of can you compare a framework versus a library. And people talk about React to being a library and you talk about Angular being a framework. Redux is a little bit like that for me. The idea of Redux – Redux is a very simple library. You kind of have to compare Redux as a library with this entire ecosystem with dev tools and middleware and [inaudible] and promises and all that kind of stuff that goes along with it. Versus if you like Cycle's pure Rx paradigm.
+
+For me the reactive way works a lot better because the whole thing just – when you can think about it, again, like it’s a single string of stuff. The cycle paradigm, if you like – I don't want to say it's better or that Redux is inferior but I do think it's a much more streamlined way of thinking. I think it's a much more unified way of thinking about stuff. That's what I like about that sort of cycle, and reactivity, and that sort of stuff is that everything is very much in the same kind of flow. You don't have to change the context of how you're thinking.
+
+Whereas Redux, you got a reducer and you got a component and then you got to do your get state. And all that kind of stuff to me like there's shifting that has to happen. Middleware is different than the store, it's different than a reducer and all these kind of things; you have to understand the various pieces and when things happen and how things flow. Whereas with the kind of cycle and foundation of pure reactive application, it's all a stream. It's all just kind of compositionally fit. Things that supposed one into the other and to the other and to the other.
+
+It's hard to say which is better but I prefer, personally, the sort of reactive way and I think Andre is the same. He's did a really interesting – he’s got a really interesting repo up called – something like the Redux challenge. If you go to his GitHub, you’ll find it. It was like a case of like “here's a problem to be solved” and I think that when you look into that problem and there’s things like "cancelling requests" and there's a number of sort of things that is quite difficult in asynchronous application. And I think that the point of repo is that that's far easier with reactive sort of RxJS style of programming and that I would certainly agree with. That the reactive model makes thing – makes some very complicated things very simple to do more so than a React-Redux kind of [inaudible].
+
+<strong>JOE:</strong> I just wanted to sum up what you said. You're saying that Redux is not necessarily inferior or superior but is a great way to do things. But you have a slight preference for Redux with more Rx involved? Is that?
+
+<strong>ROB:</strong> Yeah. I would say that if you were Redux, so lower case Redux if you like. Like the Redux idea is that much better in Rx. Is that a fair statement, right? Redux is awesome and it's that much more awesome in a reactive style when everything kind of flows into applications in the same way.
+
+<strong>JOE:</strong> So [crosstalk].
+
+<strong>ROB:</strong> And [inaudible], if you would read Dan's docs on Redux, one of the things he says in there is that you can really do Redux in three lines of Rx. There's no kind of secret about – behind that you can do the kind of Redux concepts in Rx with three lines of code.
+
+<strong>JOE:</strong> Where could somebody go to learn about that? Mixing Redux and Rx? Because the stuff that’s out there –and Redux is just Redux. The stuff that's out there on Rx is mostly just [inaudible]. Isn't there a blog post by Victor Savkin where he talks about this type of thing?
+
+<strong>ROB:</strong> Yeah. Victor's done a really good blog post. Go to victorsavkin.com, look at the most recent one at the time of this podcast being published. And he talks about kind of – in Rx, the concept is scan and scan, respectively, Rx's reduce basically. So, he does a really good implementation of what it means. It's really just actions scanned into state. And his blog post is a really good [inaudible] point of view. My library, and I hate to keep namedropping it, but my library is that. It's Rx implemented in – I'm sorry, it's Redux and you mentioned, Rx. And again it's like maybe 50 lines of code, 60 lines of codes? It's not a complex library. And [crosstalk].
+
+<strong>JOE:</strong> What's the library called?
+
+<strong>ROB:</strong> It's going to be – so the org is ngRx. It's an Angular Rx and the specific library is store. That's ngRx/store. That's just literally – I had Dan's egghead videos open and probably just re-implemented it by re-watching his videos several dozen times basically. A very simple difference is that instead of you getting a subscribe event from Redux and saying get state, subscribe events in Rx, an Rx implementation will deliver you the new state. That's – it’s pushing it to you rather than being told to pull it and that's the basic, simple difference. Read Victor's post. Gerald Sans says it’s really good Rx – I'm sorry, Redux in Angular kind of post. And if you can compare those two approaches, you can see that they are like 98% same, the difference is Rx is pushing data and Redux is pulling data if that makes sense.
+
+<strong>CHUCK:</strong> So, I've been trying to keep a – if I wanted to go and try this out on my own. Is there a good walkthrough or good code examples where I can go and either copy and paste something and tweak it? Or go in and actually follow some instructions to get here?
+
+<strong>ROB:</strong> I think Gerald's post links into a couple of good examples. My GitHub repo links to – I have a Plunker, so you can just see a to-do app in isolation and it’s just really nice and easy to understand. And a couple of really cool folks in my org have done a really comprehensive application with a server and a full-on release, for example. And that's in the same GitHub org.
+
+I think Victor's got a Plunker link as well to his kind of specific momentation of this. Looking at these, we see that they are 89% the same. There's a couple of good Plunkers out there, couple of links to the GitHub Read Me on my page. Victor’s posts a couple of links and then Gerald Sans posts has a couple of Plunkers of pure Rx – I'm sorry, pure Redux in Angular 2.
+
+The cool thing is all of the amazing work that Dan and the React community have done in terms of Redux and how to understand Redux and how that works – all that stuff pretty much applies. The only difference is what’s rendering it. But the kind of – the vast majority of understanding what Redux is about is the same as [inaudible] of information. So you could watch – the first thing I said to anybody who's interested [inaudible] to watch Dan's egghead series on Redux because it's how I learned to do it. It's a really amazing series on just understanding conceptually what's going on and how data flows. I think that if you can understand conceptually what's going on, then the sort of last 10% of plugging it into your framework of choice is very simple to do.
+
+<strong>LUKAS:</strong> So in our [inaudible] you should actually mention one – Dan's excellent egghead series, I think that was a pick a week ago or so. It's phenomenal – is that Dan Abramov and Andre Staltz are actually friends and collaborate. They talk; we see them chatting and emailing the egghead Slack channel. And do there really is not the blood feud that the internet would have us to believe. And I think that if anything, Andre got caught up for just some of the [inaudible] that they use. A barrier – maybe he could have chosen a better word and I think in hindsight, maybe he would admit that. With that said, it is important as Angular developers to realize that their paradigms within these libraries; and so there is Redux with a library with a capital "R", but then there's redux the concept which ports very well to Angular 2. And what Andre Staltz and the cycle.js library, there's a lot of idea that he has that we can bring back to Angular 2 and take those ideas, pick them up and use them and leverage them. And I think that's the most important thing.
+
+So I think even having someone like Dan who is super smart, Andre who is super smart and say "this is how I do it" and Andre will say "well no, I think you should do it this way. This is a better way." then I think smart intelligent individuals will look at those arguments and kind of filter out and finds some middle ground that works best for them. Personally, I'm with Rob – is I love ngRx because it's Redux with observables. It's a really good balance between the two. Redux, lower "R", with observables is really cool.
+
+I saw my code base for a simple master detail view just shrink down to a fresh and what it was. It was much easier to reason with. So, that's the big thing is. The kind of the drama – internet drama side– is that there are really good ideas from really smart people that we should try to understand and see what we can bring back to Angular.
+
+<strong>ROB:</strong> I think that the best thing you can do as an Angular developer in Angular 1 is looking to [inaudible] in Angular 2; it’s obviously with Angular 2. But play with React, play with Rx, play with cycle. Learn from these people because as you were saying, they are smart people and some of these ideas – most of these ideas are very [inaudible]. I think a lot of cases out on the internet, you get this idea of – you see posts like React versus Angular, there will be blood and things like that. And a lot of cases, that does everybody at the [inaudible] because being able to learn from this – keeping in mind what react is good at, what Redux is good at, what Cycle is really good at. All these things are really good ideas. The more that we can keep open-minded and learn from these things, the better for everybody.
+
+And I think that, again, as I said, Andre and Dan, and all these people, they all talk. Dan has come over to my repo a couple of times and offered advice and said "do this" or "think about it this way" or whatever. I think that everybody does better. Everybody's framework, everybody's codes, everybody's apps would be better if we can learn from each other. And I know it's kind of a touchy view of things but that's really important rather than getting caught up in "who's going to win in 2016". That's not what really it’s about. And I don't think any of the teams who build these applications, certainly the Angular team and the React team, they collaborate. Angular 2 uses React’s native render.There's a lot of collaboration on that and in a lot of cases, the kind of versus can be overblown sometimes.
+
+<strong>CHUCK:</strong> Well, a lot of times what I hear from people who are on the edge of the community or outside of the community, they see Angular and React, for sure gets from Google and Facebook, and then "Who's going to own the web?" You know? And so they want to take it all the way out to wherever it's going to go. And in reality we're all just trying to make a better web.
+
+<strong>JOE:</strong> I think it's worth mentioning that when you’re talking about what does one do better, what does another do better, it's less about this one’s better for this type of application or that type of application, but which framework does rendering better or how do they handle rendering and understanding that – understanding their pieces. Versus it's not so simple of “Oh, this one's better for building these kinds of apps; this one's better for building these kinds of apps."
+
+<strong>ROB:</strong> Sure.
+
+<strong>LUKAS:</strong> As you know, there are libraries for Redux, that [inaudible] specific things. For instance, one that I saw the other day was Reselect which is a simple selector library Redux that allows you to memo-wise certain things in terms like that with ngRx and the sheer amount of love that I have about library. How would somebody go about adding some of these other Redux style ideas to your library specifically? Do you start to think about things like Reselect or some of the things that exist and adding them and augmenting ngRx/store?
+
+<strong>ROB:</strong> Somebody actually asked this question. There's a really good GitHub discussion and then I jumped in there and kind of talked about it. And so, there's a couple of ways to think about this. The first thing is that a lot of that stuff is used directly in Redux like [inaudible] can pull mock the [inaudible] and use it with ngRx.
+
+The second thing is that the hard part or the complicated part of Redux is often asynchronous, like dealing with making a request and handling response and dealing with errors and all that stuff. All of that stuff is pretty much handled out-of-the box with Rx. That’s nothing specific to ngRx or the store library or anything like that. That's the reason that’ RxJS exists, it’s asynchronous programming with data streams.
+
+So, upstream from doing stuff before you put it into the store or through the reducers, Redux really handles a huge amount of that for you. I'm sorry, Rx really handles a huge amount of that for you. Stuff like Reselect, again, is generally provided by RxJS operators. So things like distinct until change and call and combine latest and merge and zip – there are other half a dozen operators that fix this kind of stuff.
+
+So, a lot of that stuff comes for free in doing it with RxJS. And I think that one of the things that I used to be [inaudible] doing in my free time, which is getting less and less and less, is to kind of do some examples of how that stuff works. I think that will come again; as the community gets up to speed with Rx and how this stuff works. And obviously the Angular community is really – in Angular 1, the community was amazing. They did a huge amount of work on writing library and writing docs, tutorials, blogs, and people are [inaudible] Angular 1 in the community, right? What I hope is that the Angular 2 community will very much pick up on that.
+
+And so stuff like, as I said, reselect, Redux, and middleware, and all these kinds of things; a lot of the [inaudible] are Rx and I think a lot of that just comes down to understanding how Rx does things. For me, it's been a pre-brain exploding six months or so but we're really getting into reactive programming. I should probably start a blog and start writing these things down rather than talking about them on podcast; it’s kind of ad hoc. A lot of it’s handled and that's why the idea of doing Rx is interesting to me and it's just the question of being able to document it.
+
+One other thing that Dan said in that – when he jumped in that GitHub issue was in a lot of cases, we should be able to plug ngRx and use some kind of existing Redux stuff. So, like Redux dev tools is like the coolest thing about using a Redux is to have this awesome little control panel that you can see, you can step [inaudible] your data, undo and redo; it's just an amazing sort of implementation of this. And he's assured me that you can plug that in pretty much during [inaudible]. And so that's one of the things that I will be looking to do shortly here is see about making sure that we can make kind of the reactive way kind of the off the shelf Redux stuff play nicely together.
+
+Short answer, some of it is not necessary, some of it is provided by Rx. Some of it, you can pull from the Redux side of the equation and use that. So, that's a nice thing that a lot of stuff will really play nicely together and that's what I'm excited about Angular 2 in general. Stuff really has to be way less like Angular-specific. There's no dollar sign cue; there's no dollar sign interval. None of this stuff is really Angular-specific anymore. That means you'll be able leverage a huge of off the shelf existing logic and pull it into Angular 2 apps like, as I said, Flux, Redux; all these things, you can pretty much plug into Angular 2 app without very much work at all which will be really nice.
+
+<strong>JOE:</strong> Alright. So I have a very loaded question for you.
+
+<strong>ROB:</strong> Shoot.
+
+<strong>JOE:</strong> Do you feel like the Angular team should officially embrace Redux the way that react officially places flux, although most people are embracing the Redux flavor of flux.
+
+<strong>ROB:</strong> So, I was actually at Google on Monday and Victor and I had this exact conversation about is it worth us making an official [inaudible]. The short answer to that is right now we don't know. It's tricky because the sort of Angular – say like when I was not an Angular team member – part of me says absolutely yes. The team should make a [inaudible] and I think that part of the community wants us to make that call. There's a portion of the community that wants us to say this is the best way of things.
+
+The part of that is that our best solution may not work for everybody. It may be different than what Google uses internally. It may be different than what people want to use externally. And so, short answer to that question is I really don't know. I don't know that we will, straight away – I will say that on the mobile team we are – it's one of the things that we're looking at is dealing with offline and state and all these really hard problems we're certainly looking at solving.
+
+I think a lot of us is – there's a difference between ‘I have an Angular 1 app today then I want to upgrade to Angular 2’ versus ‘I'm going to start a green field Angular 2 app’. Given those two scenarios you would handle the two differently. So, I don't know.
+
+One of the things that Alex talked about – Alex [inaudible] of the team, he wrote a library called tactical and tactical is about state management and offline management and sync. And so, I think that they’ll probably lend that to being we will provide a number of component services things you could assemble in the way that you like. I don't know that we will provide a Redux. I don't that we will say Redux or Rx, Redux or ngRx or whatever is the best way to do it. I do think that we will say something along the lines of stuff like "You can do it the Angular 1 way, but there are certainly performance benefits to doing it immutably, reactively, whatever because that's an objective truth that an Angular 1 or Angular 2 app using immutable data or using reactive data will be that much faster, that much performant, that much objectively better than an Angular 1 kind of style app.
+
+So, I don't know; it's kind of hard. We have a huge amount of work to do. And I don't know if we can own a state management library because it’s never going to solve everybody's problems. And I think for us, the best thing to do is to make sure that the framework can support these cases and make those cases performant and easy and fast and enable the community to do the best they can. The best rest library out there was Restangular for Angular 1, not written by the Angular team. Ui-router, right? Like best router not written by the Angular team. There are huge amount of incredibly intelligent developers working in Angular and I think that this – it will almost do a disservice to say we're going to do it and you guys are not going to do better. That's more than everything. I'm excited to see [inaudible] the community start to switch to Angular 2, what kind of really awesome stuff comes out of that community rather than the Angular team doing it in the best way.
+
+<strong>JOE:</strong> I just want to hear you say that it's going to solve all my problems and everybody else’s as well.
+
+<strong>ROB:</strong> Definitely. Absolutely. Totally solve [crosstalk].
+
+<strong>CHUCK:</strong> And end world hunger.
+
+[Chuckle]
+
+<strong>LUKAS:</strong> It's going to be the last job description that you will ever [inaudible].
+
+<strong>JOE:</strong> Rob, ngRx that's your baby, that’s you're thing, right?
+
+<strong>ROB:</strong> Yep.
+
+<strong>JOE:</strong> Okay. Are there any problems right now with ngRx that you know of that you want to solve?
+
+<strong>ROB:</strong> Yeah! So I have a little bit of a road map right now. The things is, and this is one philosophical point that I'm really trying to stick to right. I don't want to solve all the problems in ngRx/store. NgRx/store is done as far I'm concerned. That library is pretty much [inaudible] complete and I think that somebody’s going to come to me next week and say that this is a terrible error and you need to fix this and whatever. They’re like – I don't plan to add any more features to the Redux implementation. Because like Dan's library, it’s very simple. But, what I do want to solve when I think that the long term plan for that library, and I will just say to your listeners "Please come and join our Gitter channel." I don't have time to do this because I'm also busy writing a framework. There's a huge amount of cool stuff that can [inaudible] this.
+
+I have an offline library like an index [inaudible] and I want to build a really awesome Restangular type thing that sits on top of that. What I really want to get to is a sweet, a really small, really focus little services that all play nicely with each other. And so it stores off the state management into Redux. But that is not the whole story of [inaudible] stretch the imagination. All of this is my little vision of this little portion of the JavaScript world. I think I would really like to have people's opinions on it. I really want more people to do stuff with it and say "This is the best way to do rest; this the best way to do web sockets; this is the best way to do X, Y and Z." And I think that ngRx – and the reason I have a stand-alone [inaudible] is that I hope it becomes a suite of kind of community driven components that everybody participates on. And little things; you can pick and choose the parts that you want, you don't have to pick [inaudible] libraries; that's all to many problems at once. So, I want to do kind of the NPM [inaudible] thing. We have small focus modules.
+
+To answer your question, the [inaudible] up, I don't think there are any problems but I think that there are a number of other problems/use cases to be solved yet in Angular. That's where I’d like to see the community as a whole go and not just under my org but under the right orgs. The framework is awesome; it’s really solid, but it doesn't cover – there isn't a Restangular yet; there isn't – there aren’t some of these other really awesome libraries with Angular 1 yet. So that's the problem/outstanding stuff I’d like to see solved. Does that answer your question? Was that evading your question?
+
+<strong>JOE:</strong> Absolutely. It was the best answer evasion and answer I've ever had. [Chuckles] No, that was a great answer.
+
+<strong>CHUCK:</strong> Yep.
+
+<strong>ROB:</strong> It's perfect but there are more things to be done.
+
+<strong>CHUCK:</strong> Anything else that we should ask him about this before we start hitting into picks?
+
+<strong>ROB:</strong> I would say that one of the big, outstanding things, and I do a little bit of contributing to the RxJS into this. So we're using RxJS 5 which is a replacement from RxJS 4 and RxJS 3. It's slightly different and the documentation yet is still coming in line for that.
+
+So a lot of people - often when they jump into this, it's like where are the docs for this? I'd say the first things is that it's really a like Rx 4 and Rx 3 and really good examples that exist out there in the web pretty much still apply. So if you don't find stuff for Rx 5 exactly, a lot of the information for Rx 4 really still applies. I will sort of name drop that I've done a couple of good talks and a few people have done some really good talks on Rx like Ben Lesh has done some really good talks on Rx.
+
+So, learning about reactive programming in general is a really good idea. The question that people often ask me is how do I get started and for me the answer for that is understanding what an observable is. And if you can understand what an observable is and what it gives you, then it really enables you to understand the rest of what everything is doing. Learn about observables, learn about Rx and that will make everything you do better.
+
+And as I said cycle right now is the purest use-case of Rx right now. So, learning Cycle, getting how cycle works is a really good way to understand what will be coming down here in Angular. And no, I don't have anything else to ask me about.
+
+<strong>CHUCK:</strong> Alright. Let's go have some picks then. Joe, do you have some picks for us?
+
+<strong>JOE:</strong> Oh, have I got picks! Boy, howdy. [Chuckles]
+
+<strong>JOE:</strong> I want to pick the TV show iZombie. Apparently there's new episodes coming back now. They’re probably have been out and started some new episodes again. It’s a crime, procedural, lot of law and order except the main character's a zombie which I think is really cool. I had a lot of fun with that so I’m going to pick iZombie.
+
+I’m also going to pick a classical show that we've been binge watching at my house recently on Netflix and that is Malcolm in the Middle. Such a funny show especially if you have any kids at all. It's so funny. I totally identify so much. It's kind of like Seinfeld. The people that are like somebody that you know but are so extreme that it just makes think of somebody that you know like that. I really enjoyed that show. So, those are my picks.
+
+<strong>CHUCK:</strong> Lukas, what about you? What are your picks?
+
+<strong>LUKAS:</strong> So we spend a lot of time talking about CycleJS. So one of my picks is CycleJS fundamentals on egghead. It’s a totally free series about Cycle. Super awesome. And my second pick is a pen that is called the pilot G-tech C. Gel ballpen, ultra fine point and I'm actually writing notes down so I won't forget them and this probably one of the best pens that I've ever used.
+
+<strong>CHUCK:</strong> Alright. I've got a few picks to throw out there. I'll get the self-serving ones out of the way. I'm doing Freelance Remote Conf and also related to this conversation, we are doing a React Remote Conf. Freelance Remote Conf is going to be a couple of weeks after this one comes out so go get your tickets right now. And React Remote Conf is coming out in May so check that out as well.
+
+I've got a few picks also. I'm going to be out in Amsterdam. We're going to do a live Adventures in Angular episode during ng-nl, which is an Angular conference in Amsterdam so I'm going to be out there. So, if you're out there on the 17<sup>th</sup> or if you want to be out there on 17<sup>th</sup>, I'm just going to have – host a little get together probably at some restaurant near the hotel and just see who wants to come hang out. [Crosstalk]
+
+<strong>ROB:</strong> I'll come to that part because I'll be there, so I’ll come to that party.
+
+<strong>CHUCK:</strong> Oh, cool. That'll be fun. So, Rob will be headlining the act and yeah it'll be a lot of fun. And I kind of need to jump off some hoops to get my passport replaced because I couldn't find it. I haven't used it in five years. So, I went through rushmypassport.com and that worked out pretty nicely. I should be getting my passport on Monday. I mailed all of the paperwork this last Monday. So, usually if you expedite, it takes three to five weeks which really wouldn't work for ng-nl, but they have a system where they can expedite it through the state department and they can get it to you in a few days so super happy with them
+
+And finally I got this one-legged stool. It's always a joke, the one-legged stool. But lately my wife's been sick so I've been doing the Mom stuff and the Dad stuff. And I have just been exhausted. Since my podcasting rig is on my standing desk, it's kind of rough to stand for several hours during the day after I haven't slept and I've been running around all-day long doing kid stuff as well. I picked that up. It's a $99 on Amazon and you can just lean back on it. It showed up this morning. I haven't had the chance to try it yet but I'm super excited for those days where I just want to do my stuff for my standing desk without actually having to hold myself upright the entire time. Those are my picks. Rob, what are your picks?
+
+<strong>ROB:</strong> The first one since I didn't know we could do TV shows, I recently binge watched a series on Netflix called Occupied which was a 10 part series about Norway in the future and what would happen if they stop producing oil. Really an amazing 10-part series. Check that out. It's on Netflix.
+
+<strong>CHUCK:</strong> That's going to be scary because oil is a major export for them and price for a barrel of oils has gone down to a point where some countries struggle like Norway.
+
+<strong>ROB:</strong> It was really probably one of the best TV shows I've watched in the past couple of years. I cleared the whole thing in about a day and half. That was really good. Also just to emphasize, Lukas said the CycleJS fundamentals and also Dan's Redux fundamental series, you could – those two series, if you’re going to watch them will pretty much suite you very well if you're an Angular developer going forward.
+
+The other thing would be we have a new Angular mobile org. So if you – there’s a new GitHub orgs or GitHub repos popping up on GitHub so we have an Angular offline repo. There's a new Angular fire coming. So my pick is a bunch of really cool stuff outside of the Angular core repo and so watch out for that stuff coming out a bit.
+
+<strong>CHUCK:</strong> Sounds good. If people want to follow up with you, see what you're working on these days what should they do?
+
+<strong>ROB:</strong> Follow me on Twitter because I'm constantly spewing interesting and brain [inaudible] stuff on Twitter. The other – I guess the other pick I should mention, the Angular 2's Gitter channel is full of some really smart people who are really helpful. So if you have problems with Angular 2 or you have questions with Angular 2, jump in that Gitter channel. That’s gitter.im/angular/angular. And that's full of really helpful, really incredible community members who are doing really good work. So, it is a good place to start.
+
+<strong>CHUCK:</strong> Awesome. So thanks for coming on short notice, Rob.
+
+<strong>ROB:</strong> No worries. Thanks for having me.
+
+<strong>CHUCK:</strong> We're going to wrap up the show. We'll catch up next week.
+
+<strong><em>[Hosting and bandwidth provided by The Blue Box Group. Check them out at bluebox.net]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by Cache Fly, the world’s fastest CDN. Deliver your content fast with Cache Fly. Visit cachefly.com to learn more.]</em></strong>
+
+<strong><em>[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to adventuresinAngular.com/forum and sign up today!]</em></strong>
+
+								<p class="text-bg">Leidanett was living a life of almost unfathomable despair a year ago no one knows (1995)</p>
+								<p>
+									<span class="tie-dropcap">A</span> farmers in the US’s South—faced with continued failure in their efforts to run on successful farms their
+									launched a lawsuit claiming that “white racism” is to the blame for their inability to produce crop yields.
+								</p>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<blockquote>
+									Black farmers in the US’s South faced with continued failure in their efforts to run the successful farms launched a lawsuit
+									<cite>Steve Jobs</cite>
+								</blockquote>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should
+								</h3>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<p>
+									<img class="float-left" src="/images/news/news-details/post_style.jpg" alt="">
+								</p>
+								<h3>For the first time the Secretart end</h3>
+								<ul>
+									<li>But there was also no shortage of new</li>
+									<li>Prasad made these comments on</li>
+									<li>He gave details of the answers provided</li>
+									<li>The government forthcoming in before</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South faced with the thecontinu failure in their own efforts to run and succe farms is to blame
+									for their inability to an sell an black farme a subpar product at
+								</p>
+								<p>
+									the most Mid-South Farm on Gin Show in them March 2017.Despite above average rainfall the black farmers saw limited
+								</p>
+
+								<div class="gallery-img">
+									<a href="/images/gallery/gallery1.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery1.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery2.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery2.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery3.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery3.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery4.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery4.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery5.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery5.jpg" alt="">
+									</a>
+								</div>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<div class="post-video">
+									<img class="img-fluid" src="/images/news/travel/travel9.jpg" alt="">
+									<div class="post-video-content">
+										<a href="https://www.youtube.com/watch?v=_0UO1NcheAE" class="ts-play-btn">
+											<i class="fa fa-play" aria-hidden="true"></i>
+										</a>
+										<h3>
+											<a href=""> For the first time the Swiss State Secretart for Economic indicated that Uber taxi</a>
+										</h3>
+									</div>
+								</div>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should be classed
+									as employees
+								</h3>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability to produce crop yields and on equivalent to that switched
+									seeds in order to sell black farmers a subpar product at the Mid-South Farm & Gin Show in March 2017. Despite above
+									average rainfall, the black farmers saw limited soybean yield from the Stine seeds during the 2017 harvest.
+								</p>
+								<p>
+									<a href="">
+										<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+									</a>
+								</p>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair
+								</h3>
+								<ul>
+									<li>
+										But there was also no shortage of news for the worlds of film.
+									</li>
+									<li>
+										Prasad made these comments on behalf of the Treasury benches.
+									</li>
+									<li>
+										He gave details of the answers provided by Defence.
+									</li>
+									<li>
+										The government has been forthcoming in declaring the aircraft.
+									</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability
+								</p>
+							</div>
+							<!-- entry content end-->
+						</div>
+						<!-- post content area-->
+						<div class="author-box">
+							<img class="author-img" src="/images/avater/author.png" alt="">
+							<div class="author-info">
+								<h4 class="author-name">Elina Themen</h4>
+								<div class="authors-social">
+									<a href="#" class="ts-twitter">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<a href="#" class="ts-facebook">
+										<i class="fa fa-facebook"></i>
+									</a>
+									<a href="#" class="ts-google-plus">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<a href="#" class="ts-linkedin">
+										<i class="fa fa-linkedin"></i>
+									</a>
+								</div>
+								<div class="clearfix"></div>
+								<p>Black farmers in the US’s South—faced with continued failure in their efforts to run for the successful farms their
+									launched </p>
+
+							</div>
+						</div>
+						<!-- author box end-->
+						<div class="post-navigation clearfix">
+							<div class="post-previous float-left">
+								<a href="#">
+									<img src="/images/news/travel/travel6.jpg" alt="">
+									<span>Read Previous</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+							<div class="post-next float-right">
+								<a href="#">
+									<img src="/images/news/tech/tech5.jpg" alt="">
+									<span>Read Next</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+						</div>
+						<!-- post navigation end-->
+					</div>
+					<!--single post end -->
+					<div class="comments-form ts-grid-box">
+						<h3 class="comment-reply-title">Add Comment</h3>
+
+						<form role="form" class="ts-form">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										<input class="form-control" name="name" id="name" placeholder="Your Name" type="text" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" name="email" id="email" placeholder="Your Email" type="email" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" placeholder="Your Website" type="text" required="">
+									</div>
+									<!-- form group end-->
+								</div>
+								<!-- Col end -->
+								<div class="col-md-6">
+									<div class="form-group">
+										<textarea class="form-control msg-box" id="message" placeholder="Your Comment" rows="10" required=""></textarea>
+									</div>
+								</div>
+								<!-- Col end -->
+								<div class="col-md-12">
+									<p class="comment-form-cookies-consent">
+										<input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes">
+										<label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+									</p>
+								</div>
+							</div>
+							<!-- Form row end -->
+							<div class="clearfix">
+								<button class="comments-btn btn btn-primary" type="submit">Post Comment</button>
+							</div>
+						</form>
+						<!-- Form end -->
+					</div>
+					<!-- comment form end-->
+					<div class="ts-grid-box mb-30">
+						<h2 class="ts-title">Most Popular</h2>
+
+						<div class="most-populers owl-carousel">
+							<div class="item">
+								<a class="post-cat ts-yellow-bg" href="#">Travel</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+
+							<div class="item">
+								<a class="post-cat ts-blue-light-bg" href="#">Technology</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Music</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/music/music2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+						</div>
+						<!-- most-populers end-->
+					</div>
+
+				</div>
+				<!-- col end -->
+				<div class="col-lg-3">
+					<div class="right-sidebar">
+						<div class="ts-grid-box widgets social-widget">
+							<h2 class="widget-title">Follow us</h2>
+							<ul class="ts-social-list">
+								<li class="ts-facebook">
+									<a href="#">
+										<i class="fa fa-facebook"></i>
+										<b>12.5 k </b>
+										<span>Likes</span>
+									</a>
+
+								</li>
+								<li class="ts-google-plus">
+									<a href="#">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-twitter">
+									<a href="#">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-pinterest">
+									<a href="#">
+										<i class="fa fa-pinterest-p"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Photos</span>
+								</li>
+								<li class="ts-linkedin">
+									<a href="#">
+										<i class="fa fa-linkedin"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-youtube">
+									<a href="#">
+										<i class="fa fa-youtube"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets widget-banner">
+							<a href="#">
+								<img class="img-fluid" src="/images/banner/sidebar-banner2.jpg" alt="">
+							</a>
+						</div>
+						<!-- widgets end-->
+						<div class="post-list-item widgets">
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<li role="presentation">
+									<a class="active" href="#home" aria-controls="home" role="tab" data-toggle="tab">
+										<i class="fa fa-clock-o"></i>
+										Recent
+									</a>
+								</li>
+								<li role="presentation">
+									<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
+										<i class="fa fa-heart"></i>
+										Favorites
+									</a>
+								</li>
+							</ul>
+
+							<!-- Tab panes -->
+							<div class="tab-content">
+								<div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+
+								</div>
+								<!--ts-grid-box end -->
+
+								<div role="tabpanel" class="tab-pane ts-grid-box post-tab-list" id="profile">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports1.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+								</div>
+								<!--ts-grid-box end -->
+							</div>
+							<!-- tab content end-->
+						</div>
+						<!-- widgets end-->
+
+						<div class="ts-grid-box widgets category-widget">
+							<h2 class="widget-title">Categories</h2>
+							<ul class="category-list">
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Sports
+										<span class="ts-green-bg">25</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Fashion
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Technology
+										<span class="ts-blue-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Music
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Food
+										<span class="ts-yellow-bg">10</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets ts-grid-box post-tab-list ts-col-box">
+							<h3 class="widget-title">Populer Post</h3>
+							<div class="ts-overlay-style">
+								<div class="item">
+									<div class="ts-post-thumb">
+										<a href="#">
+											<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+										</a>
+									</div>
+									<div class="overlay-post-content">
+										<div class="post-content">
+											<h3 class="post-title">
+												<a href="#">Tourism in Dubai is boom international tourist</a>
+											</h3>
+											<ul class="post-meta-info">
+												<li>
+													<i class="fa fa-clock-o"></i>
+													March 21, 2019
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- ts-overlay-style  end-->
+
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">18 month shoots himself by gun </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/tech/tech2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">The body is a healing system. </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+
+						</div>
+
+						<div class="ts-grid-box widgets tag-list">
+							<h3 class="widget-title">Tags</h3>
+							<ul>
+								<li>
+									<a href="#">Tech</a>
+								</li>
+								<li>
+									<a href="#">Fashion</a>
+								</li>
+								<li>
+									<a href="#">Sports</a>
+								</li>
+								<li>
+									<a href="#">Football</a>
+								</li>
+								<li>
+									<a href="#">Styles</a>
+								</li>
+								<li>
+									<a href="#">Rech</a>
+								</li>
+								<li>
+									<a href="#">Lifestyle</a>
+								</li>
+								<li>
+									<a href="#">Technology</a>
+								</li>
+								<li>
+									<a href="#">Guide</a>
+								</li>
+								<li>
+									<a href="#">Food</a>
+								</li>
+								<li>
+									<a href="#">Animal</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- right sidebar end-->
+				<!-- col end-->
+			</div>
+			<!-- row end-->
+		</div>
+		<!-- container-->
+	</section>
+	<!-- single post end-->
+
+
+        
+		<!-- footer social list start-->
+		<section class="ts-footer-social-list section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="footer-logo">
+							<a href="#">
+								<img src="/images/logo/footer_logo.png" alt="">
+							</a>
+						</div>
+						<!-- footer logo end-->
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-8 align-self-center">
+						<ul class="footer-social">
+							<li class="ts-facebook">
+								<a href="#">
+									<i class="fa fa-facebook"></i>
+									<span>Facebook</span>
+								</a>
+							</li>
+							<li class="ts-google-plus">
+								<a href="#">
+									<i class="fa fa-google-plus"></i>
+									<span>Google Plus</span>
+								</a>
+							</li>
+							<li class="ts-twitter">
+								<a href="#">
+									<i class="fa fa-twitter"></i>
+									<span>Twitter</span>
+								</a>
+							</li>
+							<li class="ts-pinterest">
+								<a href="#">
+									<i class="fa fa-pinterest-p"></i>
+									<span>pinterest</span>
+								</a>
+							</li>
+							<li class="ts-linkedin">
+								<a href="#">
+									<i class="fa fa-linkedin"></i>
+									<span>Linkedin</span>
+								</a>
+
+							</li>
+						</ul>
+					</div>
+					<!-- col end-->
+
+				</div>
+			</div>
+		</section>
+		<!-- footer social list end-->
+
+		<!-- newslater start -->
+		<section class="ts-newslatter section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="ts-newslatter-content">
+							<h2>
+								Sign up for the Newsletter
+							</h2>
+							<p>
+								Join our newsletter and get updates in your inbox. We won’t spam you and we respect your privacy.
+							</p>
+						</div>
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-6 align-self-center">
+						<div class="newsletter-form">
+							<form action="#" method="post" class="media align-items-end">
+								<div class="email-form-group media-body">
+									<i class="fa fa-paper-plane" aria-hidden="true"></i>
+									<input type="email" name="email" id="newsletter-form-email" class="form-control" placeholder="Enter Your Email" autocomplete="off">
+								</div>
+								<div class="d-flex ts-submit-btn">
+									<button class="btn btn-primary">Subscribe</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- newslater end -->
+
+		<!-- footer start -->
+		<footer class="ts-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="footer-menu text-center">
+							<ul>
+								<li>
+									<a href="#">Support</a>
+								</li>
+								<li>
+									<a href="#">Suggestion</a>
+								</li>
+								<li>
+									<a href="#">Privacy</a>
+								</li>
+								<li>
+									<a href="#">About</a>
+								</li>
+								<li>
+									<a href="#">Our Ads </a>
+								</li>
+								<li>
+									<a href="#">Terms</a>
+								</li>
+							</ul>
+						</div>
+						<div class="copyright-text text-center">
+							<p>&copy; 2018, Vinazine. All rights reserved</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- footer end -->
+
+
+	</div>
+
+
+	<!-- javaScript Files
+	=============================================================================-->
+
+	<!-- initialize jQuery Library -->
+	<script src="/js/jquery.min.js"></script>
+	<!-- navigation JS -->
+	<script src="/js/navigation.js"></script>
+	<!-- Popper JS -->
+	<script src="/js/popper.min.js"></script>
+
+	<!-- magnific popup JS -->
+	<script src="/js/jquery.magnific-popup.min.js"></script>
+
+
+
+	<!-- Bootstrap jQuery -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script src="/js/owl-carousel.2.3.0.min.js"></script>
+	<!-- slick -->
+	<script src="/js/slick.min.js"></script>
+
+	<!-- smooth scroling -->
+	<script src="/js/smoothscroll.js"></script>
+
+	<script src="/js/main.js"></script>
+</body>
+
+</html>

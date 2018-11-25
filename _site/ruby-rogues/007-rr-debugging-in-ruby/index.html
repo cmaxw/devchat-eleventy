@@ -1,0 +1,1889 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Basic Page Needs =====================================-->
+	<meta charset="utf-8">
+
+	<!-- Mobile Specific Metas ================================-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Site Title- -->
+	<title>007 RR Debugging in Ruby
+ - Ruby Rogues</title>
+
+	<!-- CSS
+   ==================================================== -->
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/animate.css">
+
+	<!-- IcoFonts -->
+	<link rel="stylesheet" href="/css/icofonts.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="/css/owlcarousel.min.css">
+
+	<!-- slick -->
+	<link rel="stylesheet" href="/css/slick.css">
+
+
+
+	<!-- navigation -->
+	<link rel="stylesheet" href="/css/navigation.css">
+
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="/css/magnific-popup.css">
+
+
+
+
+	<!-- Style -->
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="stylesheet" href="/css/colors/color-2.css">
+
+	<!-- Responsive -->
+	<link rel="stylesheet" href="/css/responsive.css">
+
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+	<div class="body-inner-content">
+		<!-- top bar start -->
+		<section class="top-bar v4">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 align-self-center">
+						<div class="ts-breaking-news clearfix">
+							<h2 class="breaking-title float-left">
+								<i class="fa fa-bolt"></i> Our Latest Episodes :</h2>
+							<div class="breaking-news-content float-left" id="breaking_slider1">
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end col-->
+
+					<div class="col-md-4 align-self-center">
+						<div class="text-right xs-left">
+							<div class="ts-date-item">
+								<i class="fa fa-clock-o"></i> Sunday, August 24</div>
+						</div>
+
+					</div>
+					<!--end col -->
+
+
+				</div>
+				<!-- end row -->
+			</div>
+		</section>
+		<!-- end top bar-->
+
+		<!-- ad banner start -->
+		<section class="header-middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 align-self-center">
+						<div class="header-logo">
+							<a href="/">
+								<img src="/images/logo/logo-web-small.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<div class="col-md-8 align-self-center">
+						<div class="banner-imgr">
+							<a href="index.html">
+								<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<!-- col end -->
+				</div>
+				<!-- row  end -->
+			</div>
+			<!-- container end -->
+		</section>
+
+		<!-- header nav start-->
+		<header class="header-standerd">
+			<div class="container">
+				<div class="row">
+
+					<!-- logo end-->
+					<div class="col-lg-12">
+						<!--nav top end-->
+						<nav class="navigation ts-main-menu navigation-landscape">
+							<div class="nav-header">
+								<a class="nav-brand mobile-logo visible-xs" href="index.html">
+									<!-- <img src="/images/footer_logo.png" alt=""> -->
+								</a>
+								<div class="nav-toggle"></div>
+							</div>
+							<!--nav brand end-->
+
+							<div class="nav-menus-wrapper clearfix">
+								<!--nav right menu start-->
+								<ul class="right-menu align-to-right">
+									<li class="header-search">
+										<div class="nav-search">
+											<div class="nav-search-button">
+												<i class="icon icon-search"></i>
+											</div>
+											<form>
+												<span class="nav-search-close-button" tabindex="0">✕</span>
+												<div class="nav-search-inner">
+													<input type="search" name="search" placeholder="Type and hit ENTER">
+												</div>
+											</form>
+										</div>
+									</li>
+								</ul>
+								<!--nav right menu end-->
+
+								<!-- nav menu start-->
+								<ul class="nav-menu">
+									<li class="active">
+										<a href="#">Podcasts</a>
+										<div class="megamenu-panel ts-mega-menu">
+											<div class="megamenu-lists">
+												<ul class="megamenu-list list-col-2">
+													<li class="active">
+														<a href="/js-jabber">JavaScript Jabber</a>
+													</li>
+													<li>
+														<a href="/ruby-rogues">Ruby Rogues</a>
+													</li>
+													<li>
+														<a href="/adv-in-angular">Adventures in Angular</a>
+													</li>
+													<li>
+														<a href="/my-javascript-story">My JavaScript Story</a>
+													</li>
+													<li>
+														<a href="/my-ruby-story">My Ruby Story</a>
+													</li>
+													<li>
+														<a href="/my-angular-story">My Angular Story</a>
+													</li>
+													<li>
+														<a href="/react-native-radio">React Native Radio</a>
+													</li>
+													<li>
+														<a href="/react-round-up">React Round Up</a>
+													</li>
+													<li>
+														<a href="/views-on-vue">Views on Vue</a>
+													</li>
+													<li>
+														<a href="/freelancers">The Freelancers' Show</a>
+													</li>
+													<li>
+														<a href="/iphreaks">iPhreaks</a>
+													</li>
+													<li>
+														<a href="/elixir-mix">Elixir Mix</a>
+													</li>
+													<li>
+														<a href="/the-dev-rev">The Dev Rev</a>
+													</li>
+												</ul>
+												<ul class="megamenu-list list-col-2">
+                                                    <li>
+                                                        <a href="#"><strong>Retired Shows</strong></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/tmtc-screencasts">Teach Me To Code Screencasts</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/teachmetocode">Teach Me To Code Podcast</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/rails-clips">Rails Clips</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/web-sec-warriors">Web Security Warriors</a>
+                                                    </li>
+                                                </ul>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#">Lifestyle</a>
+										<div class="megamenu-panel">
+											<div class="megamenu-tabs">
+												<ul class="megamenu-tabs-nav">
+													<li class="active">
+														<a href="#">Health</a>
+													</li>
+													<li>
+														<a href="#">Food</a>
+													</li>
+													<li>
+														<a href="#">Fashion</a>
+													</li>
+													<li>
+														<a href="#">Travel</a>
+													</li>
+												</ul>
+												<div class="megamenu-tabs-pane active">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Can't shed those Gym? The problem might be in</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Smart packs parking sensor tech and beeps</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Deleting fears from the brain means you might never</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel4.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+	
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-1.html">Technology</a>
+									</li>
+									<li>
+										<a href="#">Video</a>
+										<div class="megamenu-panel">
+											<div class="row">
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech4.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-2.html">Travel</a>
+									</li>
+									<li>
+										<a href="#">Features</a>
+										<ul class="nav-dropdown">
+											<li>
+												<a href="#">Category layout</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="category-1.html">Category layout 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-2.html">Category layout 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="category-3.html">Category layout 3</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-4.html">Category layout 4</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-5.html">Category layout 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-6.html">Category layout 6</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Posts Formate</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="single-post-1.html">Single Post 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-2.html">Single Post 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-3.html">Single Post 3 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-4.html">Single Post 4 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-5.html">Single Post 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-6.html">Single Post 6</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-7.html">Single Post 7</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-8.html">Single Post 8</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-9.html">Single Post 9</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-10.html">Single Post 10</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Pages</a>
+												<ul class="nav-dropdown">
+													<li>
+														<a href="author.html">Author</a>
+													</li>
+													<li>
+														<a href="404.html">404 </a>
+													</li>
+	
+												</ul>
+											</li>
+										</ul>
+									</li>
+	
+								</ul>
+								<!--nav menu end-->
+							</div>
+						</nav>
+						<!-- nav end-->
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- header nav end-->
+
+        
+	<!-- single post start -->
+	<section class="single-post-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<ol class="breadcrumb">
+						<li>
+							<a href="/">
+								<i class="fa fa-home"></i>
+								Home
+							</a>
+						</li>
+						<li>
+							<a href="/ruby-rogues">Ruby Rogues</a>
+						</li>
+						<li>Travel</li>
+					</ol>
+					<!-- breadcump end-->
+					<div class="ts-grid-box content-wrapper single-post">
+						<div class="entry-header">
+							<h2 class="post-title lg">Swiss authorities say Uber drivers should treated as employees</h2>
+							<ul class="post-meta-info">
+								<li>
+									<a href="#" class="post-cat ts-yellow-bg">Travel</a>
+								</li>
+								<li class="author">
+									<a href="#">
+										<img src="/images/avater/author.png" alt=""> Donald Ramos
+									</a>
+								</li>
+								<li>
+									<i class="fa fa-clock-o"></i>
+									March 21, 2019
+								</li>
+								<li class="active">
+									<i class="icon-fire"></i>
+									3,005
+								</li>
+								<li class="share-post">
+									<a href="#">
+										<i class="fa fa-share"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- single post header end-->
+						<div class="post-content-area">
+							<div class="post-media post-featured-image">
+								<a href="/images/news/travel/travel2.jpg" class="gallery-popup">
+									<img src="/images/news/travel/travel2.jpg" class="img-fluid" alt="">
+								</a>
+							</div>
+							<div class="entry-content">
+								
+<ul>
+ 	<li>Debuggers and Tools
+<ul>
+ 	<li><a href="http://rubyforge.org/projects/ruby-debug/" data-cke-saved-href="http://rubyforge.org/projects/ruby-debug/">Ruby Debug</a></li>
+ 	<li><a href="https://github.com/banister/pry" data-cke-saved-href="https://github.com/banister/pry">pry</a></li>
+ 	<li><a href="http://www.sapphiresteel.com/" data-cke-saved-href="http://www.sapphiresteel.com/">Ruby in Steel</a></li>
+ 	<li>other IDE's</li>
+</ul>
+</li>
+ 	<li>Formatting Debug Output
+<ul>
+ 	<li><a href="http://rubyquicktips.com/post/1405061475/viewing-a-model-in-yaml" data-cke-saved-href="http://rubyquicktips.com/post/1405061475/viewing-a-model-in-yaml">YAML's y method</a></li>
+ 	<li><a href="http://www.ruby-doc.org/core/classes/Object.html#M001025" data-cke-saved-href="http://www.ruby-doc.org/core/classes/Object.html#M001025">Object#inspect</a></li>
+ 	<li><a href="https://github.com/michaeldv/awesome_print" data-cke-saved-href="https://github.com/michaeldv/awesome_print">awesome_print</a></li>
+</ul>
+</li>
+ 	<li>Outputting debug information
+<ul>
+ 	<li><a href="http://www.ruby-doc.org/core/classes/Kernel.html#M001403" data-cke-saved-href="http://www.ruby-doc.org/core/classes/Kernel.html#M001403">puts</a></li>
+ 	<li><a href="http://www.ruby-doc.org/core/classes/Kernel.html#M001409" data-cke-saved-href="http://www.ruby-doc.org/core/classes/Kernel.html#M001409">p</a></li>
+ 	<li><a href="http://www.ruby-doc.org/core/classes/Kernel.html#M001410" data-cke-saved-href="http://www.ruby-doc.org/core/classes/Kernel.html#M001410">raise</a></li>
+ 	<li><a href="http://ruby-doc.org/stdlib/libdoc/pp/rdoc/index.html" data-cke-saved-href="http://ruby-doc.org/stdlib/libdoc/pp/rdoc/index.html">pp</a></li>
+</ul>
+</li>
+ 	<li>Other debugging tricks
+<ul>
+ 	<li><a href="http://corelib.rubyonrails.org/classes/Thread.html#M001136" data-cke-saved-href="http://corelib.rubyonrails.org/classes/Thread.html#M001136">abort_on_exception = true</a></li>
+ 	<li>The Ruby executable's -d switch and the $DEBUG constant</li>
+ 	<li>Using a logger to output data from a specific piece of code</li>
+ 	<li>The debug method in Rails helpers and views</li>
+ 	<li>Using <a href="http://www.ruby-doc.org/core/classes/Object.html#M001022" data-cke-saved-href="http://www.ruby-doc.org/core/classes/Object.html#M001022">Object#freeze</a> on to find what is modifying the object</li>
+ 	<li>Passing a dummy object that uses method_missing to output method calls and arguments</li>
+ 	<li>Do not debug alone</li>
+ 	<li>Spike the debugging, git stash the changes, write the test, unstash the changes and verify the result</li>
+</ul>
+</li>
+</ul>
+
+<h3>Transcript</h3>
+
+<strong>CHUCK:</strong> Hey everybody and welcome back to the Ruby Rogues Podcast. This is Charles Max Wood and this week on our panel, we have James Edward Gray from Gray Productions. He's been a long time member of the community and we’re happy to have him here just about every week.
+
+<strong>JAMES:</strong> Me too.
+
+<strong>CHUCK:</strong> I almost forgot to mention that it’s his birthday. He's an old man.
+
+<strong>JAMES:</strong> It’s my birthday today, that’s right.
+
+<strong>GREGORY:</strong> What are you like 75 years old, James?
+
+<strong>JAMES:</strong> That’s pretty close, yeah. Just 75.
+
+<strong>CHUCK:</strong> [Chuckles] That’s all, just 75. That was Gregory Brown chiming in. Greg is the master over at Ruby Mendicant University. He's also the author and maintainer of Prawn PDF library, and does a whole bunch of other stuff for the community, including jumping in the middle of the Ruby Gems debate. Welcome, Greg. I have to apologize though I'm running a little slow. I got back from vacation yesterday and my brain isn’t working at full speed. Also, we have Mike Moore. Mike is a Rubyist here that I actually had lunch with him the other day and he's the organizer of the Mountain West Ruby Conference, the Ruby Web Conference and is the host at the Ruby Verse Podcast. Welcome, Mike.
+
+<strong>MIKE:</strong> Hello.
+
+<strong>CHUCK:</strong> And the last but not least, we also have Peter Cooper who runs Ruby Inside and… I'm drawing a blank. What else do you do? [Chuckles]
+
+<strong>PETER:</strong> Ruby Weekly, JavaScript Weekly, lots of kind of cool stuff.
+
+<strong>JAMES:</strong> He's your weekly news guy.
+
+<strong>CHUCK:</strong> That’s right. And I'm Charles Max Wood from teachmetocode.com. And we'll go ahead and jump in and get started.
+
+<strong>JAMES:</strong> So can I ask a question off the intros?
+
+<strong>CHUCK:</strong> Go ahead.
+
+<strong>JAMES:</strong> I've never listened to the Ruby Verse. Mike, what it’s about?
+
+<strong>MIKE:</strong> Ruby verse is an excuse for me to talk to people, and they talk about different subjects and then I edit it so they sound extra smart and that’s about it. So it’s kind of a no frill, information-only podcast.
+
+<strong>JAMES:</strong> So interviews mainly, is that what you do?
+
+<strong>MIKE:</strong> Interviews mainly, yeah. Only, actually.
+
+<strong>JAMES:</strong> Okay, cool.
+
+<strong>CHUCK:</strong> He's interviewed some really cool people. It’s definitely worth checking out RubyVerse.com
+
+<strong>JAMES:</strong> Yeah, I´ll check that up.
+
+<strong>CHUCK:</strong> All right. This week we are going to be talking about debugging, and I think we are going to get into debuggers a little bit too. It was interesting when we were talking about it before we got started, a lot of people were saying, “I don’t know a whole lot about debuggers.” And it sounds like people do most of their debugging in ways other than using an explicit debugger. So I'm a little curious, and I´ll just let whoever wants to jump in, but what do you use when you have a bug that you have to track down in your code?
+
+<strong>PETER:</strong> That answers it really, doesn't it?
+
+<strong>MIKE:</strong> I use put as.
+
+<strong>CHUCK: </strong>Put as.
+
+<strong>MIKE:</strong> Yeah, [03:25] basically.
+
+<strong>CHUCK:</strong> You know, I think a lot of us at various stages in our careers and even yeah, where we are at now, where some of us are pretty advanced in our careers, mostly you more than I, if you think of something that you can find pretty easily or quickly up, put as is a really quick and easy way to do it.
+
+<strong>PETER:</strong> No, just use p.
+
+<strong>JAMES:</strong> That's right, p! Yay, Peter!
+
+<strong>MIKE:</strong> Actually, what I use instead of doing puts or in combination with it, is I will actually use raise quite a bit which is a message because then it halts the execution. <strong>JAMES:</strong> [Chuckles] That’s awesome.
+
+<strong>CHUCK:</strong> [Chuckles] That’s interesting.
+
+<strong>JAMES:</strong> That is by the way my favorite way to debug Rails; when I'm in the middle of something and it’s down some action and I wanna see what an object is, I just raise and whatever the object is, I can call .inspect on it so it turns it into a string for the error message. There's reload the page and it pops right up at the top of the page.
+
+<strong>CHUCK:</strong> So I have a little bit of an issue with that method and that is just that, you kind of have to run things over  and over again to get different bits of information. So, if you don’t pull up the object and see the issue right there, then if you call another raise or put as, I mean you have to change it  and then run it again. I mean isn’t that a little bit slow or inefficient?
+
+<strong>JAMES:</strong> Yeah, you are right that it is. So let me ask you this, Chuck. What do you do in the middle of a Rails stack when you wanna look something up, what do you do?
+
+<strong>CHUCK:</strong> I usually actually use the Ruby debug library. You just require it and then you put debugger in there and it effectively opens up an interactive prompt kind of like IRB, where you can then query the state of your stack at that point.
+
+<strong>JAMES:</strong> So in my experience,  I've noticed that there's two kinds of people on the world. Two kinds of programmers, that I seem to come across and it’s half the world does their debugging in a debugger and that’s just how they do it. And whenever they run into a bug, they immediately fire up the debugger and that’s what they tend to do. The other half of the world is like what most of us have mentioned, just a little bit of application of puts and we tend to track things down that way. And it’s always been interesting to me because I've used the debugger in the past. I can use a debugger and I know how it works. I've actually tried to hook myself on them a couple of times, and I've actually tried to get into the habit of using them regularly and I cannot do it. And I think the reason for me, I've been trying to figure that out and I believe it’s that it is a context shift; it’s when I'm sitting there and I'm working on the code and I have it all on my head, then I'm working on the code and I have it in my head, so it makes sense for me to just say, there's probably something going wrong somewhere right around here, so let me just see what it is printing right around here and then print that out and then stay in the same context. But when I have to stop, and then fire up the debugger and set a break point and get it to step through to the right point and all that, I had to stop thinking about the problem for a while and that context shift bothers me.
+
+<strong>MIKE:</strong> That’s a really good point. That’s why I actually find using raise is not really inefficient, especially because when I do my debugging, I try to think through the path somewhat. I'm not just sort of putting in a put statement or a raise in a random place and seeing what happens, but trying to think through the path. And then what it does is it allows me to focus on just one thing at a time, because when I drop into a debugger, the explorative nature of being able to interactively interact with objects and things like that gets me distracted. And I find that like what normally happens is I´ll do raise statements and I´ll run it, and then based on the outcome of that, I really know where the very next place that I might put it would be and it just helps me focus on one thing at a time.
+
+<strong>CHUCK:</strong> That makes sense. I have to say that I don’t really see a huge difference between using a debugger like Ruby debug or Ruby debug 1.9, depending on which version of Ruby you are running versus using put statements, because effectively, you just put the debugger the breakpoint in where you would put your put statement. And then from there, you can step through your code to the next place you would put it if you are not seeing an apparent problem there. But effectively, what you are doing is you are running a whole bunch of put statements; it’s just that you’ve kind of frozen the context, you don’t have to run it over and over.
+
+<strong>JAMES:</strong> Right.
+
+<strong>GREGORY:</strong> But I think that’s actually a disadvantage because you basically need to come up with an execution plan ahead of time, for where you are going to put those break points. Where if you stopped the world and then what you can do is you can make the decision at that time where the next place to go would be. So I don’t really think that there's a whole lot of value looking in five predetermined places when the first answer is going to tell you yes or no, yes or no, yes or no, sort of thing.
+
+<strong>CHUCK:</strong> Right, but I guess what I'm trying to say is that, you get the first, “No, this isn’t the problem,” and you’ve already got the contact set up so that you can immediately move on to the next place, unless it’s previous in the execution. Because you can always step forward, you just can't step backward. So you move on to the next spot if it’s further down the execution chain and you get another…
+
+<strong>GREGORY:</strong> You can step sideways when you realize that your first idea was wrong. I mean, normally when you are looking at a debugging problem, you want to divide up the space rather than going deep. You wanna try to figure out whether your initial idea was right or wrong. If your initial idea was right, but you didn’t get enough contacts there, the debugger is nice because you can step down to the next step moving forward. But if your whole idea was wrong, then you have to start over and set up a whole nother context.
+
+<strong>CHUCK:</strong> Yeah, that’s true.
+
+<strong>GREGORY:</strong> And I don’t know Chuck, where are you finding a situation where debugging something is taking all that much time to run it.
+
+<strong>CHUCK:</strong> I'm just going to answer Greg's question real quick. The places that I found this the most effective really is in code that I didn’t write and I don’t completely understand anyway. So under that context, it’s nice because then I can stop the world and I can say what is everything doing. Then I get a feel for the context where it’s at, and then I could move through it.
+
+<strong>GREGORY:</strong> That’s where debugger and pry probably overlap in their value. A couple of weeks ago I was saying that I like using pry, basically from exact purpose that  you said because if you are trying to figure out where to go, then having an interactive prompt is very, very useful. So if that is a use case, I definitely agree with that in terms of the general value of it.
+
+<strong>CHUCK:</strong> Yeah. In general, I don’t go directly to the debugger either; I usually actually do start with put statements. But if the solution, it doesn’t become apparent in try or to, then I would plug the debugger in so that I can actually walk through it step by step and see where I'm going wrong.
+
+<strong>JAMES:</strong> I think that’s actually a really good point. As far as debugging, I do actually just prefer puts or as Peter pointed out in Ruby, we have p, which is even better. But I have used a debugger in the past to understand an algorithm. Like it’s a tight loop and it’s using a couple of variables, and it’s one of those that’s complicated enough that I can't work it out in my head what's in which variable each time through the loop and I just wanna walk through a few phases of it, I do like a debugger for that because I can walk through the phases loop, examine each variable and then do it again and again.
+
+<strong>GREGORY:</strong> So basically, the longer the life cycle of the problem, the more useful a debugger gets to be, especially if you don’t understand the code that you are working on, because you can sort of look at it at the intermediate points. And so there's a long set of intermediate steps then yeah, that makes sense. I think like when we first talked about debugging where we are more thinking, “Oh, something broke,” and if you can isolate that and then that’s where you don’t necessarily need the debugger.
+
+<strong>CHUCK:</strong> Right.
+
+<strong>JAMES:</strong> I think Greg is actually on to something there too in that I don’t spend a lot of time just randomly bug hunting these days. And I think that’s because I'm so good about testing, and always doing that, and so my cycle is really short from the time on the amount of code I write before it’s actually being run somewhere and I see a problem. And when you only have three lines to look in, you generally know right where the problem is. So I think I've gotten to a point where I just don’t spend much time debugging more. And when I am kind of planning something out or trying to see how pieces work together, I tend to fire up IRB and play with objects a little bit until I've got it in my head pretty good. So then I go back in and write some tests around it and build it. So I think that’s part of the point is the reason the debugger is not that valuable to me is I've managed to really shorten that cycle between when years ago I would write 6000 lines of code and then try to run it -- and that’s horrible. And at that point, debugger is very helpful.
+
+<strong>GREGORY:</strong> Totally agree.
+
+<strong>CHUCK:</strong> Right. So James is just so good that… yeah… he's just so good.
+
+<strong>GREGORY:</strong> James doesn’t write buggy code. Period.
+
+<strong>JAMES:</strong> That’s right. If you just don’t make mistakes, you don’t need a debugger at all. That’s the way to go.
+
+<strong>PETER:</strong> He's right though.
+
+<strong>CHUCK:</strong> It is true. And we talk about tests as kind of a way of avoiding bugs, but there's another means or methodology of finding bugs that I was taught that I haven’t used a lot, and that is that you write a test that basically exposes the bug. Do you guys do debugging in that way at all, where you know there's a problem so you write a test that basically should pass when you the fix bug.
+
+<strong>GREGORY:</strong> I've had to do that extensively, especially because in open source projects that become so important. But in just I worked on a lot of things that has very high complexity and you will have regressions if you don’t actually automate the test for finding the problems. So, I mean, what the process normally is for example like the best example is Prawn. PDF generation is crazy hard and when things break, it’s possible that later on they will break again in not obvious ways. So what normally would happen is people would basically say, “I try to do this and then my PDF blew up.” And we do combination of messing around in IRB and put statements. And I didn’t use pry at the time, but I definitely would have if I had it available to me. That’s a place for a debugger. So you do this sort of exploration process until you feel like you know where the problem is, and then I will typically try to build a minimal example, but reproduces the problem. And then once you got that, if you have just the simple example that really only touches the things that really matter at the core that reproduces the problem, it’s so easy to turn that into a test, that even if you are not doing TDD day to day, it would be like… it would just be irresponsible not to turn it into a test because…
+
+<strong>PETER:</strong> Dude. You know that's cold. Its bug driven development.
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>GREGORY:</strong> I guess what I'm just saying is like the more complex something is, the more people who have to use it and work on it, the more that your test should cover every regression. Because by the time you have a bug fixed, it should be so easy to produce that. But I don’t know that I would start there as my first step. A lot of times, we will fix the bug in a spike, and then back that out and then write the test, get failure and then make it pass.
+
+<strong>CHUCK:</strong> Right.
+
+<strong>JAMES:</strong> So Bug Driven Development, that’s BDD?
+
+<strong>GREGORY:</strong> That’s right.
+
+<strong>JAMES:</strong> Sorry, just checking.
+
+<strong>GREGORY:</strong> Actually, that was the original idea behind TDD. The original concept before the concept of the driven development was that test were regression suites. So the whole point of BDD was to tell people, look it’s not more than that, but it still includes that as a core component. The regressions suites are really, really valuable.
+
+<strong>JAMES:</strong> I got to agree with Greg. To me, in any bug hunt, step one is find the bug and you have to get to the point where it’s repeatable. That’s the whole point; once its repeatable, then its super easy to fix, right? So if I'm going to do that, I would much rather do that by being just writing the test that narrows it down. But even if it was a non-tested code for whatever reason, the first thing I would do is I would try to come up with the exact series of steps that lead me to the bug every time. And I would probably try to automate that so I could sit there and try something run it again, try something, run it again.
+
+<strong>CHUCK:</strong> Have any of you guys actually worked in QA?
+
+<strong>JAMES:</strong> Nope.
+
+<strong>GREGORY:</strong> I've trained QA people before.
+
+<strong>CHUCK:</strong> Okay. So I'm the only one here with actual QA experience. And that's exactly what the process is for QA; both in validating new releases and in finding bugs is you break it down into an exact process to replicate the bug. Or in the case of acceptance testing, you present an exact case that should produce an exact outcome, and then you verify that the outcome matches. And it’s not very different from what we do in our unit and integration tests but that’s exactly it; you break it down into step by step by step that a kindergartener could follow to break your code or to verify that it actually works.
+
+<strong>JAMES:</strong> But that’s so helpful. I mean as a programmer, once I have those steps, I can always figure it out. As soon as I've isolated it to the point where it fails every time, it’s a few seconds from that.
+
+<strong>GREGORY:</strong> And I think that’s part of that you were saying before even though you were joking about it just not having to debug all that often, I think that using regression suites actually reduces the amount of time that you are hunting down old bugs or reintroducing. Because once you make a test for something, then if you got that wrong, if you found out that you didn’t get all the problem, it will eventually fail when you change something, or it will fail another way and you have another test. So overtime, your more stable parts of your code gets better and better guarded against these bugs. And so once you basically squashed them forever with tests, if they ever reproduce, you just get a really quick feedback look and you know that the regression is related to the change that you’ve just made right then and there and not one that might have been made six months ago.
+
+<strong>CHUCK:</strong> Yeah, and I think honestly that when we think about kind of the hairiest or the most painful debugging experiences we have, it’s usually not the ones where we ran the test suite and it said, “Oh by the way it is broken.” It’s usually the other way around where it wasn’t covered by the test suite. And by putting those tests in, you protect against that kind of behavior in the future. I have another question that I want to get into, and this is kind of related to debugging but it kind of grows out of something that Greg said he was talking about and he was riffing off of what James said about complicated loops and things that you can't hold it all on your head, or figure out exactly what it’s doing over the course of its execution. And so I'm wondering if the need for a debugger indicate some sort of deficiency on your code cleanliness or clarity.
+
+<strong>GREGORY:</strong> That’s an interesting question. So I'm trying to think about when I've needed that and it’s been in situations where if I simply printed out the intermediate results of some complicated process, it would be overwhelming, or not especially meaningful to look at that output. So what I've wanted to do is grab a hold of that object and interrogate it with some interactive calls and play around with it and that sort of stuff. But that sort of means that there's some amorphous blob siting in the middle of a complicated process and it could be an indication that there's a lot of dependencies that are tied up with one another, or that the flow has an intermediate steps knowing way more about the process than it should have to, and sort of thing. And I find that like for example, if you go into that, then you break down the problem more and you say take something that used to be class with 200 methods and make it compose some other objects that like the more that you can do to isolate things, then the easier it gets to be to have a low ceremony debugging process. So I think that’s interesting to think is that a metric that there is a sign of a problem, is it a code smell, so to speak. I think maybe so.
+
+<strong>CHUCK:</strong> Uh-huh. Well it also makes it easier to test. So I mean, there are both sides of that coin and they may be related as well, where you have the, “I have to use the debugger because this is so complicated that I can't keep track of it on my own with simple put as statements.” But at the same time, testing long or complicated methods can be kind of hairy as well; where if you’ve tested all the underlying pieces, then testing the overarching functionality isn’t necessarily as tricky.
+
+<strong>JAMES:</strong> I think that situation can kind of arise naturally too even if you are doing pretty good composition of breaking things apart. And that like if you have two or three processes for example that are interacting with each other, it can get pretty complicated pretty fast. And I've run into scenarios there where it’s very difficult using just some print statements to figure out what is going on. Unfortunately, it really is a bunch of processes , then something like Ruby debug generally isn’t all that much more helpful to me anyway. It doesn't easily allow me to grab all three and peek inside at the same time with that exact same thing.
+
+<strong>GREGORY:</strong> Yeah, definitely you need sort of need that integration testing harness that will deal with  looking at it from the whole picture.
+
+<strong>CHUCK:</strong> Yeah, that would be interesting. I'm a little curious as to what that would look like.
+
+<strong>JAMES:</strong> Yeah. At that point, I tend to use a shared log file and have everybody start writing to the log so that you can see with each process identifying it’s process id and things. So there again, I'm just using a more elaborate form of a put statement, in that I'm throwing them in a log just so I can see what each one is thinking at the same time.
+
+<strong>CHUCK:</strong> All right. I have one more question that I wanna jump in on, and then maybe we can change tactics a little bit. Have any of you guys used the debuggers that are built in to the IDEs? And do you find them more of a useful tool or more of a distraction?
+
+<strong>GREGORY:</strong> I've never used an IDE for Ruby ever.
+
+<strong>PETER:</strong> Don’t bother.
+
+<strong>JAMES:</strong> Don’t bother [chuckles]. I think they are a lot more popular in languages like Java and stuff, where the language is so static that the IDE can make a ridiculous amount of assumptions, and thus do a lot of things for you. You can say all the refactoring and stuff like that that languages like that have because they are very static and you can always count on  them. In Ruby, where everything is so dynamic, that it is basically impossible for the IDEs to know exactly what they are looking at, I think that lowers the appeal. And I don’t know, then again, it seems like there's kind of two levels of programmers; there's the level where they wanna have as much as possible done for them, and then the ones where they really want to just be in control of everything. So I guess this is me saying I'm an ego maniac and I just really need that level of control. So yeah for me, it’s just a text editor.
+
+<strong>CHUCK:</strong> [Chuckles] Happy birthday, ego maniac.
+
+<strong>JAMES:</strong> [Chuckles] Right. Exactly.
+
+<strong>PETER:</strong> [Chuckles]
+
+<strong>MIKE:</strong> I used to be a .NET developer, and I used to spend an awful lot of time in Visual Studio and we used the debug a lot in that environment. I think the difference between Ruby and an environment like Java or like the .NET world is like the amount of complexity in the environment and in that culture. And the debugger is useful because that’s really the only way to discover, not really what the problem is that you are having but just how system works, right? Because you can't go and just look at the source code. You can’t gem open and go through your different libraries. Eventually got to place a break point and inspect all the different actors that are going on in your system at runtime, to try and get an idea about what the system is actually trying to do or how the system is trying to accomplish the task at hand. And so, I agree it’s  probably a philosophical approach to the how you code and how you organize all of your different concerns and solidify it to instructions that are getting saved into a file somewhere. But I also think that there are just some things to be said about these big giant companies trying to push out a solution that's going to solve everybody’s needs, and the overwhelming complexities it comes with that.
+
+<strong>PETER:</strong> Have you tried Ruby Instil?
+
+<strong>MIKE:</strong> I've played with it a little bit.
+
+<strong>PETER:</strong> The debugger in that, I mean I have to try all these things just for the fact that I end up writing about them. So I need to play with them a bit, but yeah, it’s just like a Visual Studio; it’s hugely visual studio. Its IDE for Ruby on Windows. It’s like one guy working on it and he had done a crazy job on it. But the debugger in it I think was like written from scratch, so it’s not using any of the existing stuff and it has like in Visual Studio, you get like conditional break points; so you can like put in condition that you want to be true like x==10, at literally any point in the program where there's a local variable called x==10, it will stop. You can chance variables on the fly in your break points and everything. It’s just really crazy. But I'm not using Windows and I'm not using Visual Studio, but if I were, it’s just a really slick implementation. And I imagine it’s a lot like what is on Visual Studio for .NET developers, but I've never done any .NET developing, so I'm imagining it’s a similar situation in that area, though.
+
+<strong>MIKE:</strong> We never really used the debugger in Visual Studio to debug our code; not nearly as much as we did just trying to figure out what the hell system.windows.forms is doing. It’s so opaque; you just can't see through it.
+
+<strong>JAMES:</strong> Right. When is this chunk of code being called, when does this change to this, kind of  thing.
+
+<strong>MIKE:</strong> Yeah, I mean and after like the 300<sup>th</sup> page of MSDN documentation, you just start to not remember what you are reading anymore, and just going straight to the sources or straight to the behavior within the debugger is a lot easier way to learn.
+
+<strong>JAMES:</strong> So I got a couple of things out of there. Mike mentioned gem open, which actually my particular technique is gem unpack. I'm not sure if that is similar. Where just throws the source code into a folder that I can crack open and go look at exactly what Ruby is doing -- and I really love that. That kind of made me think, maybe we can go around the  horn. Anybody have any other great tips for debugging? Because I have a couple I think I could give that may be helpful.
+
+<strong>PETER:</strong> Why don’t you start first?
+
+<strong>JAMES:</strong> Okay. So in Ruby, especially if you have threads going and a thread dies with an exception, the default behavior is to just carry on. And it’s not until you do something like join that thread where you'll get the exception, and I've seen multiple people just totally mystified by this behavior because their program actually had some problem way back when, but then they find out about it later. And on Ruby’s thread class, there's a method called “abort on exception =” and if you  and if you call abort on exception = and pass true, then the minute any thread has an exception, the entire Ruby interpreter will just die with your stack trace. And that’s like super helpful for debugging thread exceptions. Then other things that are cool to know about, Ruby has a debug flag, its -d that you pass in the interpreter. And it sets a global variable, $DEBUG to true whenever you use that flag. And this causes Ruby to have lot more error spitting behavior which is great; you get a lot more feedback from things that happen. But you can also use it yourself. So you can just write statements in Ruby and say like puts such and such if $DEBUG. And then that way, when you want to trigger those statements, you can just start Ruby with the –d. When you don’t wanna throw those statements, you cannot start Ruby with the –d. So I kind of like that mechanism for debugging prints when I wanna put some in, I'm working with something. Sometimes it doesn’t work well, if you're using a lot of other libraries or stuff because they tend to be so chatty in their behavior that drowns out the other stuff. But if it’s just a simple program yourself you are using, it’s pretty good technique. Some other things we've already mentioned puts and of course p, which is ruby’s debugging print that prints more like Ruby sees the object. Other things that are nice if you have yaml loaded, yaml makes a y method. It’s literally just the letter y and that will print out as a yaml document basically. Which is sometimes helpful for more complex objects with a bunch of fields, so you can use that as another form of debugging print. And I know that there's libraries out now that do really cool stuff like awesome print and stuff. I don’t tend to use those. I actually had somebody ask me the other day, we were looking at an IRB session and he said, “Do you have you can just turn that on and it would show us the names of these objects.” And I said, “Sure.” And I did .map&amp;:name, so I could see the names of the objects. And I think there again, it’s back to the context shifting. I prefer to use my programming to show me what I wanna see. But if you do like those automatic shows you more information, you might look at something like awesome print. And then one other tip that I thought of at the time are are having this conversation in Rails, there's a method in the views that help our method called debug and you can pass it an object and this time it’s little “debug”, but you can pass it an object an it basically turns it into yaml, sticks it into pre tags and then drops in to the page right there. So that can be useful for seeing what's going on inside of Rails. It will ---- your page really bad, but you'll be able to see what's going on. So those are just some of the many debugging tips I can think of that I´ve used before.
+
+<strong>CHUCK:</strong> Wow. That was awesome.
+
+<strong>JAMES:</strong> I was saving them up.
+
+<strong>GREGORY:</strong> So I've got a couple; and this I don’t use very often at all, but I found that’s useful or at least interesting when I do use it, is that pretty much object freeze is useless for pretty much everything, except that if you freeze an object that you expect not to change, and then pass it through a path where it’s not supposed to change and then something tries to change it, it will blow up on you. So if you’ve got like some object that’s been passed around that’s been modified when it’s not supposed to be, like maybe there is an array that has a dangling reference somewhere that’s being changed or something like that, if you freeze the object, then it will get you to the exact line where the modification was attempted.
+
+<strong>CHUCK:</strong> Oh, that’s interesting.
+
+<strong>JAMES:</strong> That’s a really good trick and it made me think of one more that I've seen if you are using a API like rexml some kind go xml parsers, pull API where it reads and then calls methods as events happen or something like that, basically any evented API, sometimes if you wanna figure out what exactly is going on, you can pass just an object with method missing defined, that just puts whenever called and shows what arguments it got and stuff like that. So you can see are being called with which arguments and that shows you exactly the interface that you need to implement. But yeah, Greg's trick you are using freeze is very helpful in those scenarios too.
+
+<strong>GREGORY:</strong> So another one that I don’t use often but is still interesting I think is that if you require yaml, you are actually, you got a y method and y pretty much works like p, but it makes the output in yaml. And then again that’s not especially useful, like I wouldn’t use it as a replacement for like pp or something like that. But what it does do which is interesting is because of the way that yaml works, is it will make references to the same object look very explicit. So if you think that you are dealing with a bunch of copies of objects but you're actually dealing with references to the same object, it’s sometimes a lot clearer to look at it through the yaml output than it is through any other inspect format that I've seen.
+
+<strong>CHUCK:</strong> Yeah, that sounds useful too. I think James mentioned that. I'm taking notes, but I didn’t write who said what. One other trick that I think James kind of mentioned in reverse, that I would bring up is that you can create a logger. And I've don’t this before where I've just needed specific output from a specific process, and so what I would do is instead of doing a whole bunch of put as in there, I would just put a logger. And so I’d create a logger, I’d have it logged to its own file and then I would just have it dump a whole bunch of information out to it and then dig through it that way. And James also mentioned pulling in where you have everything logging to the same place and that's also useful in a lot of cases, where you have multiple threads or process working in the same way or working on the same data.
+
+<strong>GREGORY:</strong> So James, when you  use that approach, do you do something to make sure that the logs indicate which process is which?
+
+<strong>JAMES:</strong> Yeah, I try to pretty much always do that. In fact, that’s the one thing that bugs me about Rails logger is that it doesn’t, by default, include the process id and I always will do that; if I set up the log, I will make sure that is part of the information at the beginning of the line that the process id is in there so I can tell exactly which program did what.
+
+<strong>CHUCK:</strong> Oh yeah, that's a good idea. I haven’t really thought about it but it makes sense.
+
+<strong>JAMES:</strong> It’s really helpful. I got one other tip for debugging because I've only learned this one recently and it’s like a whole new world for me. So this is my best recommendation. And I actually saw it tweeted this is ironic because I saw it tweeted just the other day and I made sure to retweet it, but  seriously do not debug alone. You don’t have to, and you will not believe what a difference that makes. I've recently been working on a project where there's another developer available to me and I can't believe how when I run into a problem, if I go get that other developer and ask for help, I think it’s hard because by default it kind of make us look bad like, “Oh, can I bug you for a second?” But it’s like whenever I try to debug it on my own, it’s like 45 minutes or whatever, I'm sitting there doing it and whenever I ask for that help, I swear within 10 minutes we both have it And it’s just the fact that two minds really are better than one. Its whatever you miss, the other guy will see. Whatever you didn’t think, he will. And man, it makes all the difference in the world. So open invitation if you are stuck and you are fighting a bug, call me on Skype I´ll be your wing man.
+
+<strong>CHUCK:</strong> Sounds good.
+
+<strong>GREGORY:</strong> That’s a really good point James. I think part of it is that whenever a bug happens, it’s basically impossible at least for me, not to already have a path in mind that I wanna go down. So I might miss some obvious things on the surface that weren’t on that path that someone else just looking at the screen you could see.
+
+<strong>CHUCK:</strong> Yeah, one other thing that I want to add to that is that a lot of times if I've written the code, then I have some certain expectations of certain parts already worked and if I have somebody else come in, then they don’t have those same assumptions and a lot of times, they’ll take you in a different direction.
+
+<strong>JAMES:</strong> Exactly. A lot of times you are like, “I just know it’s over here.” But the other guy, he doesn’t have those. And he's like, no its probably that other method you wrote that’s crap. And he'll say that and he'll force you to prove it. And maybe it’s not true; maybe that’s not really the thing, but it’s the fact that he forces you prove do that, that he doesn’t have those preconceived notions. And I've got to stress that whenever I can debug with someone else, every time I'm amazed that how quickly we go straight to the heart of the problem. So stop debugging alone. That’s my advice.
+
+<strong>GREGORY:</strong> So this is a bit of a tangent, but just because you mentioned the word “prove”, I actually used little informal proofs all the time when I think that some assumption of mine about a system should be true but I know that if I just assume it, that it could cause problem for me. So a lot of times, I´ll right up the little examples or mess around an IRB to test the concept rather than just trusting my intuition, because if it works out the way that expected to, it’s good because I can sort of assume it’s going to be true which reduces the solution space. If it’s wrong, then I have to completely rethink things. So sometimes, I´ll attack a bug by checking my assumptions without even necessarily directly working on the bug itself.
+
+<strong>CHUCK:</strong> Yeah, and I think a lot of those proofs that you are talking about make really good tests.
+
+<strong>GREGORY:</strong> Right. They certainly sometimes so it depends on whether they test anything of value, because sometimes what they are are just exploratory sort of things. But in the end, for the most part, if there are some behavior that you are trying to verify and you don’t have a test for it, the structure of that naturally translates to the test -- without a doubt. There's just a question of sometimes those are like not really describing a behavior, they are just exploring some part of the process. And that doesn’t necessarily need to become a part of your test suite.
+
+<strong>CHUCK:</strong> Yeah, that makes sense. Now I wanna ask a question, and I know that this is pretty specific to the problems that you might run into or the the bug that you may find, but what is your process once you found a bug for actually fixing it or solving the problem? I mean at that point, do you write the test first and then solve it? Or do you just  go in and change it and see if that makes the difference?
+
+<strong>GREGORY:</strong> For me, I normally will try to and see if can make a difference, make it fix and then I rerun through the manual test process. And then once I've confirmed that, I´ll normally stash my changes at a test, and then reinstate them to see if the test passes.
+
+<strong>JAMES:</strong> Cool use of stash. I like it.
+
+<strong>CHUCK:</strong> Anyone else? Is that how everyone else does it?
+
+<strong>JAMES:</strong> Yeah, I think finding a bug for me is usually building the tests, so at that point I already have it and then I feel free to go in there and just start hammering a way of fixing it because if I break something else, then hopefully my test will show me that, right?
+
+<strong>GREGORY:</strong> So James, let me ask you this, do you find sometimes that you are writing tests… the reason why I don’t normally start with tests is because a lot of times I´ll write a test but it’s at too high of a level and then I write another test and then I write another test. So I get a reproduction but it is not really the minimal reproduction. And then I get a test that is valuable as a validation, but doesn’t necessarily describe a behavior and it doesn’t describe the bug at low enough level to be a sufficient fix. And so you find yourself sometimes running too many tests that way?
+
+<strong>JAMES:</strong> That’s a good point. I do tend to guess what level it’s at and you are totally right that I guess wrong fairly often. Oh, that’s got to be  in the a controller and you go write a test around that controller and you find it, but then you did and you are like, oh no, actually it was down on this model method. And when that happens to me, I actually… this isn’t the most efficient way so I am not offering a great solution, but when that happens to me, I just go rip the test out of my controller and I rewrite it as I model test when I've moved it down. So I've kind of honed in on it, but you are right, I'm kind of wasting some effort there.
+
+<strong>GREGORY:</strong> That was what I was curious about because I mean, if you are guessing reasonably well, it might not be terribly inefficient to do it that way. But the test leftover, the ones that weren’t at the right level, I've actually found those… because I used to just leave them in when I try to do testing that way. And then I found that those would make for brittle test because they'll be testing something that like exposes the problem, but isn’t quite at the right level so they don’t fully solve the problem. And they also, if you get a failure from one of those tests, it’s not necessarily a sign of the problem later moving on. So it’s good to hear that you remove them because that's always the thing that I wrestled with and caused me to avoid writing them.
+
+<strong>JAMES:</strong> I think that’s actually kind of an interesting point because then I think people have taboos about removing tests, but if a test is useless for any reason because things have changed or my understanding has changed or whatever, I don’t have any problem removing a test. I would rather have the right amount of test, covering what I wanna cover, then some ability to brag that, “ooh, look I wrote ten times the amount of test I did as normal code.”
+
+<strong>PETER:</strong> But it’s my baby!
+
+<strong>JAMES:</strong> It’s my baby, right. It’s not important to me. I'm a baby killer.
+
+<strong>PETER:</strong> Nooo! You heard it here first.
+
+<strong>CHUCK:</strong> [Chuckles] All right. Well, I'm going to go head and make the call. We’re going to move on to the picks so that we can honor that time contract that I always bring up when I end the conversation. If you are new to the podcast, the picks are basically just the things that we find that we like. Usually, most of them are code related  that make our jobs or lives easier, but you know, we do bring in other things as well just whatever we are into at the time. So I'm going to go ahead and we'll let the birthday boy go first. James, I know one of your picks is birthday cake, right?
+
+<strong>JAMES:</strong> Yeah, who doesn’t love birthday cake. So the pick I'm going to make today for my birthday, my wife took me on to the game store and let me basically just pick up whatever I want. Actually, the Ruby community has been kind of getting in to games. I've noticed if you go to the conferences and stuff there’s usually some kind of fight events going on with gaming and I totally encourage that you get into that if you haven’t yet tried a few out. But for those of you who don’t know, there's this massive world of games out there, board games we are talking about here, card games that kind of thing that does not mean Monopoly and Scrabble. So if that's your idea of a board game, you have no idea what you are talking about and you are really missing this cool world that is out there. Lots of Euro games; the best ones tend to come from Europe. So I'm going to recommend everybody who is not yet checked out all the cool games that are out there. If you just want something great to play with your wife or friend, then try something like Lost Cities or Jambo. If you want a great group game that you will have a total blast, it’s a lot of fun, try Pandemic, which is actually a cooperative game, so you are all on the same side against the board which is trying to destroy you. It’s a very fun game, everybody loves it. And then if you just wanna go crazy, then you can try games like Agricola or Race For The Galaxy and things like that. But all great games. So if you haven’t checked out the world of gaming lately, you need to try that. You are missing something.
+
+<strong>CHUCK:</strong> Wow. I haven’t heard of any of those. Now I feel ashamed.
+
+<strong>JAMES:</strong> [Chuckles] See? I gave you a great pick.
+
+<strong>CHUCK:</strong> Yeah, well my wife and I were into the board games and we've played several of the ones that come out of Europe; just none of these.
+
+<strong>JAMES:</strong> So what ones do you play, Chuck?
+
+<strong>CHUCK:</strong> We really got into Catan a while ago. We also got into Ticket To Ride… I'm trying to think. You put me on the spot and I don’t remember.
+
+<strong>JAMES:</strong> Ticket To Ride is very good as well. Those are both good and a little bit casual, and a little bit gateway, so you can go farther, keep going. You are getting there.
+
+<strong>CHUCK:</strong> Oh, you are going to ruin my life. All right Peter, go ahead.
+
+<strong>PETER:</strong> Okay. First I'm going to tell James the cake is a lie.
+
+<strong>JAMES:</strong> [Chuckles] Oh no!
+
+<strong>PETER:</strong> That’s important to know. I´ll just do a very quick antipick, which is that Scrabble is an amazing game. It’s a very good game and it’s probably the only board game that I actually like and will consistently play. So just different strokes, to different folks, I guess. I'm just a big, big, Scrabble fan. So to hear it being dismissed, so callously just wrangles my… yeah I´ll stop picking on those cool words.
+
+<strong>JAMES:</strong> Actually, that’s hilarious because the one normal board game that everybody plays that I do still play all the time is Scrabble is so I was unfair in dismissing it.
+
+<strong>PETER:</strong> So, yay for Scrabble. So I used to play normally, but my wife is quite good at it and she is very relentless; she's a different person when she plays it and she will like take me to the cleaners. So I've kind of got off Monopoly since marrying here. So, moving on to slightly technical things though, this is kind of like  attack James day, I kind of wanna stand up for Michael Dvorkin and Awesome Print because awesome print really is awesome. I really do love it and there's lots of cool stuff in there like you can do just ap and it let you use an active record class and bam, it will show you all the attributes. And you know it will kind of just use magic in a lot of cases to work out what you see about something and not necessarily what you are technically trying to represent. So it’s just lots of cool stuff in there. Worth checking out, Awesome Print. And along similar lines because we are talking about Rails a little bit, there's something called Rails foot notes and I've not used this, but I've seen so many people raving about it on twitter so that I thought I should mention it. It puts like a bar on your browser and you can define what stuff you want to appear in there, and that can include debug information and session information, stuff like that. So that could be useful if you are doing sort of more light higher level debugging in a Rails app so people just keep recommending it to me and I've just been too lazy to try it, but I might as well pass that on. And last but not least, I've been just kind of like casually keeping an eye on the Go programming language over the last year or so. I think it came like two years ago now, and I just sort of have a casual on it. And there was an article out recently called, The Go Programming Language, or: Why all C-like languages except one suck. And basically, it’s quite  a long kind of introduction why Go is cool compared to say C, C++, C# and what it brings to the table. And it just sums up Go so well and why you should perhaps give it a go. And Go is a cool language. I think we are going to see a lot of systems programing being done in it over the next 5 to 10 years’ timeframe. It’s still a baby. I´ll be sending the link across so you can put that in the show notes. So that’s me.
+
+<strong>CHUCK:</strong> Awesome. Sounds interesting to me too. All right, I´ll go ahead and go next. While I was traveling to Disney land with my kids, there were a couple of things that really paid off for me; one was the android appstore had an app that gave us all the wait times and fast pass times for Disneyland while we were there. So I literally will just pull out my phone, turn it on and unlock it, and I could see what the wait times were and I could take my kids to the lines wouldn’t kill them off because they are 4 and 5 to wait in. It was really, really, super nice. So I´ll put a link to that in the show notes if I can find one. Otherwise I´ll just put the name of the App because I don’t remember what it is. One other pick that I have is my sister turned me on to a book called Elantris by Brando Sanderson. The copy she had had been my brother’s before she got her hands on it and it was pretty well abused and worn out. So I started reading it. I actually bought it on the Kindle store on my iPad app, and it’s a really fun book, I'm really enjoying it. So I guess my pick are just a game and android app. That’s what I did the last week.
+
+<strong>JAMES:</strong> At least you didn’t say, “Everything James said is bad.”
+
+<strong>CHUCK:</strong> Well, I didn’t have to. Peter already said that.
+
+<strong>JAMES:</strong> Thanks. I'm not showing up for another podcast on my next birthday.
+
+<strong>CHUCK:</strong> [Chuckles] All right, by then hopefully your count of episodes and my count of episodes will be the same again because you’ve been on more than I have now.
+
+<strong>JAMES:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> All right, Gregory Brown, what do you have to pick this week?
+
+<strong>GREGORY:</strong> Well, the first thing is my wife and I decided we wanted to stop being couch potatoes and get some exercise. And this is something that I've already seen a lot of Ruby programmers do, but we've been doing the couch to 5k program. And basically, the idea is that like in a period of 9 weeks, you can go from a completely sedentary lifestyle to being able to run a 5K. I don’t know that that is realistic, but we've been doing it for three weeks now. And it sure works because it starts off by just incrementally trading walking and running. So you get more running and less walking, overtime.  And for someone who is very, very bad about being consistent or determined about exercise, the program has worked for me and it’s actually fun. And there's also stuff you can get apps for it for android or iPhone or whatever we've been using. You can also get mp3s that are set to music that do the timings for you, which are nice. So I would recommend the couch to 5k program for anyone who wants to get into exercise in a really gradual way. I'm in hideous shape in terms of my physical fitness, and it’s really helped a lot in just a couple weeks. So the other thing and I swear that Peter hasn’t given me a check for this -- at least not yet -- is I’d like to recommend Ruby Flow, which is a site that Peter runs where basically… I don’t know how to describe it except for that it’s like meant to serve some of the same purposes of what you would use, Reddit Ruby or Hacker News for. But it’s a totally different thing, because there is not voting associated with it. You basically get just a little blob of HTML, where you can put a paragraph in a link and then that gets put there like with everybody else’s stuff in that day. And I found that during the whole Ruby gems fiasco that I've been trying to get information out to people about that, and I did this stuff on my personal blog which now has a reasonable audience, but didn’t before and that was a way to reach people. And it was also a way just to sort of get information out there without it being yet another point for conversation. So I think that it did drive people over to the blog. I mean there's a comment system on the Ruby Flow, But it seems more like it used for posts than it is for comments. And it’s a cool site. In fact, I like it so much that we are stealing his idea, and were going to have something like that a more curated list for the students at RMU. We're building a system inspired by Ruby Flow, so the students at RMU can show what they are interested in. But just the mechanics of it are neat and I wish it was more used than it is even though it has surprisingly good traffic. He didn’t pay me for that endorsement, but maybe he should.
+
+<strong>PETER:</strong> Yeah, you get $5 off the show.
+
+<strong>CHUCK:</strong> [Chuckles] Yeah, I have to agree with you on that one, Greg. When I was getting started with blogging and things, it was a great way to build traffic to my site and as well to look and see what was going on and figure out what people wanted to hear about. It is definitely a great way to get your message out there, as well to interact with other rubyists who are out there sharing what they have to share as well. So last but not least, we got mike Moore. Mike, what picks do you have for us?
+
+<strong>MIKE:</strong> So I wanna give another plug for the open gem. Open Gem is a plugin for Ruby gems and so you install it with gem install open_gem and you can call gem open open_gem and it will open the gem in your editor. And it’s not going to make a copy like unpack will, it’s actually going to give you all the files that are on your file system that Ruby is using to run that library, so that you can actually edit it right then and there. So if you need to debug an external dependency, you just open up a gem as it’s set in your system and edit it. It’s a really great little tool. <strong>CHUCK:</strong> Sounds good. Sounds pretty handy.
+
+<strong>JAMES:</strong> So when I'm doing that and I don’t wanna edit a gem on the system because I'm like scared of that…
+
+<strong>MIKE:</strong> Then don't save.
+
+<strong>JAMES:</strong> Then don’t save, yeah that’s a good point. But then you have to run it, right? So you have to save to run it, right?
+
+<strong>MIKE:</strong> Yeah.
+
+<strong>JAMES:</strong> When I'm doing that, I just use Ruby’s monkey patching; so I just like grab a method and I copy it out of the gem that I unpacked and just drop it in whatever file I'm messing with right there and I edit the hell out of it and when I'm all done, I just delete it.
+
+<strong>MIKE:</strong> I like Open Gem because it’s a little bit easier for me to read different source code in my editor than it is to use something like GitHub file viewer and stuff like that. So I'm just more comfortable reading code in my own environment instead of on a webpage. I just like it. So since I've found it, I end up reading a lot more source code. So it’s part of that whole issue that folks are talking about a year or so ago but just reading source code. And I found the open gem plugin to be a really handy little tool for doing that.
+
+<strong>JAMES:</strong> It is a cool idea, it seemed lots of people do it.
+
+<strong>CHUCK:</strong> Yeah, I've heard about it too. Was there anything else, Mike?
+
+<strong>MIKE:</strong> No, that’s it.
+
+<strong>JAMES:</strong> Mike was the quiet member of the show, but entire time at the back channel, he was telling us what to talk about. So this episode is brought to you by Mike Moore.
+
+<strong>MIKE:</strong> That’s actually what I do in my Ruby podcast, so.
+
+<strong>CHUCK:</strong> Well that’s what makes a good interview. All right, we are going to wrap this up then. I wanna thanks in no particular order, Mike Moore, James Edward Gray, Gregory Brown, Peter COOPER and I'm Charles Max Wood. Thanks you guys for coming on the podcast.
+
+<strong>MIKE:</strong> Thank you.
+
+<strong>JAMES:</strong> Thank you.
+
+<strong>CHUCK:</strong> There are a couple for things I wanna point out; first off, if you go to rubyrogues.com you can get the show notes. Also there's a new link at the top that says “request a topic.” We're using user voice or that. I'm not completely fond of the interface, but you can vote for existing topics that other people have suggested or you can suggest your own. I appreciate both of those, and that gives us an idea of what you wanna hear about so that we can talk about stuff that’s relevant to you. The other thing is go ahead is to leave comments on the post, so that we can see if there's anything to add. I think this particular discussion, I think there are probably other tricks that we don’t know about or have missed, and so if you have other debugging tips, go ahead and leave those in the comments. And finally, leave us a review in iTunes. We really appreciate the feedback that we get there on iTunes. You can rate it, you can write a review. Writing a review helps us out a little bit more and it only takes a couple of minutes. So by all means, do that and we will catch you next week.
+
+<strong>JAMES:</strong> Bye!
+
+								<p class="text-bg">Leidanett was living a life of almost unfathomable despair a year ago no one knows (1995)</p>
+								<p>
+									<span class="tie-dropcap">A</span> farmers in the US’s South—faced with continued failure in their efforts to run on successful farms their
+									launched a lawsuit claiming that “white racism” is to the blame for their inability to produce crop yields.
+								</p>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<blockquote>
+									Black farmers in the US’s South faced with continued failure in their efforts to run the successful farms launched a lawsuit
+									<cite>Steve Jobs</cite>
+								</blockquote>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should
+								</h3>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<p>
+									<img class="float-left" src="/images/news/news-details/post_style.jpg" alt="">
+								</p>
+								<h3>For the first time the Secretart end</h3>
+								<ul>
+									<li>But there was also no shortage of new</li>
+									<li>Prasad made these comments on</li>
+									<li>He gave details of the answers provided</li>
+									<li>The government forthcoming in before</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South faced with the thecontinu failure in their own efforts to run and succe farms is to blame
+									for their inability to an sell an black farme a subpar product at
+								</p>
+								<p>
+									the most Mid-South Farm on Gin Show in them March 2017.Despite above average rainfall the black farmers saw limited
+								</p>
+
+								<div class="gallery-img">
+									<a href="/images/gallery/gallery1.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery1.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery2.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery2.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery3.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery3.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery4.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery4.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery5.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery5.jpg" alt="">
+									</a>
+								</div>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<div class="post-video">
+									<img class="img-fluid" src="/images/news/travel/travel9.jpg" alt="">
+									<div class="post-video-content">
+										<a href="https://www.youtube.com/watch?v=_0UO1NcheAE" class="ts-play-btn">
+											<i class="fa fa-play" aria-hidden="true"></i>
+										</a>
+										<h3>
+											<a href=""> For the first time the Swiss State Secretart for Economic indicated that Uber taxi</a>
+										</h3>
+									</div>
+								</div>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should be classed
+									as employees
+								</h3>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability to produce crop yields and on equivalent to that switched
+									seeds in order to sell black farmers a subpar product at the Mid-South Farm & Gin Show in March 2017. Despite above
+									average rainfall, the black farmers saw limited soybean yield from the Stine seeds during the 2017 harvest.
+								</p>
+								<p>
+									<a href="">
+										<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+									</a>
+								</p>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair
+								</h3>
+								<ul>
+									<li>
+										But there was also no shortage of news for the worlds of film.
+									</li>
+									<li>
+										Prasad made these comments on behalf of the Treasury benches.
+									</li>
+									<li>
+										He gave details of the answers provided by Defence.
+									</li>
+									<li>
+										The government has been forthcoming in declaring the aircraft.
+									</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability
+								</p>
+							</div>
+							<!-- entry content end-->
+						</div>
+						<!-- post content area-->
+						<div class="author-box">
+							<img class="author-img" src="/images/avater/author.png" alt="">
+							<div class="author-info">
+								<h4 class="author-name">Elina Themen</h4>
+								<div class="authors-social">
+									<a href="#" class="ts-twitter">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<a href="#" class="ts-facebook">
+										<i class="fa fa-facebook"></i>
+									</a>
+									<a href="#" class="ts-google-plus">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<a href="#" class="ts-linkedin">
+										<i class="fa fa-linkedin"></i>
+									</a>
+								</div>
+								<div class="clearfix"></div>
+								<p>Black farmers in the US’s South—faced with continued failure in their efforts to run for the successful farms their
+									launched </p>
+
+							</div>
+						</div>
+						<!-- author box end-->
+						<div class="post-navigation clearfix">
+							<div class="post-previous float-left">
+								<a href="#">
+									<img src="/images/news/travel/travel6.jpg" alt="">
+									<span>Read Previous</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+							<div class="post-next float-right">
+								<a href="#">
+									<img src="/images/news/tech/tech5.jpg" alt="">
+									<span>Read Next</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+						</div>
+						<!-- post navigation end-->
+					</div>
+					<!--single post end -->
+					<div class="comments-form ts-grid-box">
+						<h3 class="comment-reply-title">Add Comment</h3>
+
+						<form role="form" class="ts-form">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										<input class="form-control" name="name" id="name" placeholder="Your Name" type="text" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" name="email" id="email" placeholder="Your Email" type="email" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" placeholder="Your Website" type="text" required="">
+									</div>
+									<!-- form group end-->
+								</div>
+								<!-- Col end -->
+								<div class="col-md-6">
+									<div class="form-group">
+										<textarea class="form-control msg-box" id="message" placeholder="Your Comment" rows="10" required=""></textarea>
+									</div>
+								</div>
+								<!-- Col end -->
+								<div class="col-md-12">
+									<p class="comment-form-cookies-consent">
+										<input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes">
+										<label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+									</p>
+								</div>
+							</div>
+							<!-- Form row end -->
+							<div class="clearfix">
+								<button class="comments-btn btn btn-primary" type="submit">Post Comment</button>
+							</div>
+						</form>
+						<!-- Form end -->
+					</div>
+					<!-- comment form end-->
+					<div class="ts-grid-box mb-30">
+						<h2 class="ts-title">Most Popular</h2>
+
+						<div class="most-populers owl-carousel">
+							<div class="item">
+								<a class="post-cat ts-yellow-bg" href="#">Travel</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+
+							<div class="item">
+								<a class="post-cat ts-blue-light-bg" href="#">Technology</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Music</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/music/music2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+						</div>
+						<!-- most-populers end-->
+					</div>
+
+				</div>
+				<!-- col end -->
+				<div class="col-lg-3">
+					<div class="right-sidebar">
+						<div class="ts-grid-box widgets social-widget">
+							<h2 class="widget-title">Follow us</h2>
+							<ul class="ts-social-list">
+								<li class="ts-facebook">
+									<a href="#">
+										<i class="fa fa-facebook"></i>
+										<b>12.5 k </b>
+										<span>Likes</span>
+									</a>
+
+								</li>
+								<li class="ts-google-plus">
+									<a href="#">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-twitter">
+									<a href="#">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-pinterest">
+									<a href="#">
+										<i class="fa fa-pinterest-p"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Photos</span>
+								</li>
+								<li class="ts-linkedin">
+									<a href="#">
+										<i class="fa fa-linkedin"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-youtube">
+									<a href="#">
+										<i class="fa fa-youtube"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets widget-banner">
+							<a href="#">
+								<img class="img-fluid" src="/images/banner/sidebar-banner2.jpg" alt="">
+							</a>
+						</div>
+						<!-- widgets end-->
+						<div class="post-list-item widgets">
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<li role="presentation">
+									<a class="active" href="#home" aria-controls="home" role="tab" data-toggle="tab">
+										<i class="fa fa-clock-o"></i>
+										Recent
+									</a>
+								</li>
+								<li role="presentation">
+									<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
+										<i class="fa fa-heart"></i>
+										Favorites
+									</a>
+								</li>
+							</ul>
+
+							<!-- Tab panes -->
+							<div class="tab-content">
+								<div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+
+								</div>
+								<!--ts-grid-box end -->
+
+								<div role="tabpanel" class="tab-pane ts-grid-box post-tab-list" id="profile">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports1.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+								</div>
+								<!--ts-grid-box end -->
+							</div>
+							<!-- tab content end-->
+						</div>
+						<!-- widgets end-->
+
+						<div class="ts-grid-box widgets category-widget">
+							<h2 class="widget-title">Categories</h2>
+							<ul class="category-list">
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Sports
+										<span class="ts-green-bg">25</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Fashion
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Technology
+										<span class="ts-blue-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Music
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Food
+										<span class="ts-yellow-bg">10</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets ts-grid-box post-tab-list ts-col-box">
+							<h3 class="widget-title">Populer Post</h3>
+							<div class="ts-overlay-style">
+								<div class="item">
+									<div class="ts-post-thumb">
+										<a href="#">
+											<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+										</a>
+									</div>
+									<div class="overlay-post-content">
+										<div class="post-content">
+											<h3 class="post-title">
+												<a href="#">Tourism in Dubai is boom international tourist</a>
+											</h3>
+											<ul class="post-meta-info">
+												<li>
+													<i class="fa fa-clock-o"></i>
+													March 21, 2019
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- ts-overlay-style  end-->
+
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">18 month shoots himself by gun </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/tech/tech2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">The body is a healing system. </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+
+						</div>
+
+						<div class="ts-grid-box widgets tag-list">
+							<h3 class="widget-title">Tags</h3>
+							<ul>
+								<li>
+									<a href="#">Tech</a>
+								</li>
+								<li>
+									<a href="#">Fashion</a>
+								</li>
+								<li>
+									<a href="#">Sports</a>
+								</li>
+								<li>
+									<a href="#">Football</a>
+								</li>
+								<li>
+									<a href="#">Styles</a>
+								</li>
+								<li>
+									<a href="#">Rech</a>
+								</li>
+								<li>
+									<a href="#">Lifestyle</a>
+								</li>
+								<li>
+									<a href="#">Technology</a>
+								</li>
+								<li>
+									<a href="#">Guide</a>
+								</li>
+								<li>
+									<a href="#">Food</a>
+								</li>
+								<li>
+									<a href="#">Animal</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- right sidebar end-->
+				<!-- col end-->
+			</div>
+			<!-- row end-->
+		</div>
+		<!-- container-->
+	</section>
+	<!-- single post end-->
+
+
+        
+		<!-- footer social list start-->
+		<section class="ts-footer-social-list section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="footer-logo">
+							<a href="#">
+								<img src="/images/logo/footer_logo.png" alt="">
+							</a>
+						</div>
+						<!-- footer logo end-->
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-8 align-self-center">
+						<ul class="footer-social">
+							<li class="ts-facebook">
+								<a href="#">
+									<i class="fa fa-facebook"></i>
+									<span>Facebook</span>
+								</a>
+							</li>
+							<li class="ts-google-plus">
+								<a href="#">
+									<i class="fa fa-google-plus"></i>
+									<span>Google Plus</span>
+								</a>
+							</li>
+							<li class="ts-twitter">
+								<a href="#">
+									<i class="fa fa-twitter"></i>
+									<span>Twitter</span>
+								</a>
+							</li>
+							<li class="ts-pinterest">
+								<a href="#">
+									<i class="fa fa-pinterest-p"></i>
+									<span>pinterest</span>
+								</a>
+							</li>
+							<li class="ts-linkedin">
+								<a href="#">
+									<i class="fa fa-linkedin"></i>
+									<span>Linkedin</span>
+								</a>
+
+							</li>
+						</ul>
+					</div>
+					<!-- col end-->
+
+				</div>
+			</div>
+		</section>
+		<!-- footer social list end-->
+
+		<!-- newslater start -->
+		<section class="ts-newslatter section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="ts-newslatter-content">
+							<h2>
+								Sign up for the Newsletter
+							</h2>
+							<p>
+								Join our newsletter and get updates in your inbox. We won’t spam you and we respect your privacy.
+							</p>
+						</div>
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-6 align-self-center">
+						<div class="newsletter-form">
+							<form action="#" method="post" class="media align-items-end">
+								<div class="email-form-group media-body">
+									<i class="fa fa-paper-plane" aria-hidden="true"></i>
+									<input type="email" name="email" id="newsletter-form-email" class="form-control" placeholder="Enter Your Email" autocomplete="off">
+								</div>
+								<div class="d-flex ts-submit-btn">
+									<button class="btn btn-primary">Subscribe</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- newslater end -->
+
+		<!-- footer start -->
+		<footer class="ts-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="footer-menu text-center">
+							<ul>
+								<li>
+									<a href="#">Support</a>
+								</li>
+								<li>
+									<a href="#">Suggestion</a>
+								</li>
+								<li>
+									<a href="#">Privacy</a>
+								</li>
+								<li>
+									<a href="#">About</a>
+								</li>
+								<li>
+									<a href="#">Our Ads </a>
+								</li>
+								<li>
+									<a href="#">Terms</a>
+								</li>
+							</ul>
+						</div>
+						<div class="copyright-text text-center">
+							<p>&copy; 2018, Vinazine. All rights reserved</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- footer end -->
+
+
+	</div>
+
+
+	<!-- javaScript Files
+	=============================================================================-->
+
+	<!-- initialize jQuery Library -->
+	<script src="/js/jquery.min.js"></script>
+	<!-- navigation JS -->
+	<script src="/js/navigation.js"></script>
+	<!-- Popper JS -->
+	<script src="/js/popper.min.js"></script>
+
+	<!-- magnific popup JS -->
+	<script src="/js/jquery.magnific-popup.min.js"></script>
+
+
+
+	<!-- Bootstrap jQuery -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script src="/js/owl-carousel.2.3.0.min.js"></script>
+	<!-- slick -->
+	<script src="/js/slick.min.js"></script>
+
+	<!-- smooth scroling -->
+	<script src="/js/smoothscroll.js"></script>
+
+	<script src="/js/main.js"></script>
+</body>
+
+</html>

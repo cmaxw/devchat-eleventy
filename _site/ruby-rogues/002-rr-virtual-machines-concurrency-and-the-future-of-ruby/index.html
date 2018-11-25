@@ -1,0 +1,1787 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Basic Page Needs =====================================-->
+	<meta charset="utf-8">
+
+	<!-- Mobile Specific Metas ================================-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Site Title- -->
+	<title>002 RR Virtual Machines, Concurrency, and the Future of Ruby
+ - Ruby Rogues</title>
+
+	<!-- CSS
+   ==================================================== -->
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/animate.css">
+
+	<!-- IcoFonts -->
+	<link rel="stylesheet" href="/css/icofonts.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="/css/owlcarousel.min.css">
+
+	<!-- slick -->
+	<link rel="stylesheet" href="/css/slick.css">
+
+
+
+	<!-- navigation -->
+	<link rel="stylesheet" href="/css/navigation.css">
+
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="/css/magnific-popup.css">
+
+
+
+
+	<!-- Style -->
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="stylesheet" href="/css/colors/color-2.css">
+
+	<!-- Responsive -->
+	<link rel="stylesheet" href="/css/responsive.css">
+
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+	<div class="body-inner-content">
+		<!-- top bar start -->
+		<section class="top-bar v4">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 align-self-center">
+						<div class="ts-breaking-news clearfix">
+							<h2 class="breaking-title float-left">
+								<i class="fa fa-bolt"></i> Our Latest Episodes :</h2>
+							<div class="breaking-news-content float-left" id="breaking_slider1">
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end col-->
+
+					<div class="col-md-4 align-self-center">
+						<div class="text-right xs-left">
+							<div class="ts-date-item">
+								<i class="fa fa-clock-o"></i> Sunday, August 24</div>
+						</div>
+
+					</div>
+					<!--end col -->
+
+
+				</div>
+				<!-- end row -->
+			</div>
+		</section>
+		<!-- end top bar-->
+
+		<!-- ad banner start -->
+		<section class="header-middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 align-self-center">
+						<div class="header-logo">
+							<a href="/">
+								<img src="/images/logo/logo-web-small.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<div class="col-md-8 align-self-center">
+						<div class="banner-imgr">
+							<a href="index.html">
+								<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<!-- col end -->
+				</div>
+				<!-- row  end -->
+			</div>
+			<!-- container end -->
+		</section>
+
+		<!-- header nav start-->
+		<header class="header-standerd">
+			<div class="container">
+				<div class="row">
+
+					<!-- logo end-->
+					<div class="col-lg-12">
+						<!--nav top end-->
+						<nav class="navigation ts-main-menu navigation-landscape">
+							<div class="nav-header">
+								<a class="nav-brand mobile-logo visible-xs" href="index.html">
+									<!-- <img src="/images/footer_logo.png" alt=""> -->
+								</a>
+								<div class="nav-toggle"></div>
+							</div>
+							<!--nav brand end-->
+
+							<div class="nav-menus-wrapper clearfix">
+								<!--nav right menu start-->
+								<ul class="right-menu align-to-right">
+									<li class="header-search">
+										<div class="nav-search">
+											<div class="nav-search-button">
+												<i class="icon icon-search"></i>
+											</div>
+											<form>
+												<span class="nav-search-close-button" tabindex="0">✕</span>
+												<div class="nav-search-inner">
+													<input type="search" name="search" placeholder="Type and hit ENTER">
+												</div>
+											</form>
+										</div>
+									</li>
+								</ul>
+								<!--nav right menu end-->
+
+								<!-- nav menu start-->
+								<ul class="nav-menu">
+									<li class="active">
+										<a href="#">Podcasts</a>
+										<div class="megamenu-panel ts-mega-menu">
+											<div class="megamenu-lists">
+												<ul class="megamenu-list list-col-2">
+													<li class="active">
+														<a href="/js-jabber">JavaScript Jabber</a>
+													</li>
+													<li>
+														<a href="/ruby-rogues">Ruby Rogues</a>
+													</li>
+													<li>
+														<a href="/adv-in-angular">Adventures in Angular</a>
+													</li>
+													<li>
+														<a href="/my-javascript-story">My JavaScript Story</a>
+													</li>
+													<li>
+														<a href="/my-ruby-story">My Ruby Story</a>
+													</li>
+													<li>
+														<a href="/my-angular-story">My Angular Story</a>
+													</li>
+													<li>
+														<a href="/react-native-radio">React Native Radio</a>
+													</li>
+													<li>
+														<a href="/react-round-up">React Round Up</a>
+													</li>
+													<li>
+														<a href="/views-on-vue">Views on Vue</a>
+													</li>
+													<li>
+														<a href="/freelancers">The Freelancers' Show</a>
+													</li>
+													<li>
+														<a href="/iphreaks">iPhreaks</a>
+													</li>
+													<li>
+														<a href="/elixir-mix">Elixir Mix</a>
+													</li>
+													<li>
+														<a href="/the-dev-rev">The Dev Rev</a>
+													</li>
+												</ul>
+												<ul class="megamenu-list list-col-2">
+                                                    <li>
+                                                        <a href="#"><strong>Retired Shows</strong></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/tmtc-screencasts">Teach Me To Code Screencasts</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/teachmetocode">Teach Me To Code Podcast</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/rails-clips">Rails Clips</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/web-sec-warriors">Web Security Warriors</a>
+                                                    </li>
+                                                </ul>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#">Lifestyle</a>
+										<div class="megamenu-panel">
+											<div class="megamenu-tabs">
+												<ul class="megamenu-tabs-nav">
+													<li class="active">
+														<a href="#">Health</a>
+													</li>
+													<li>
+														<a href="#">Food</a>
+													</li>
+													<li>
+														<a href="#">Fashion</a>
+													</li>
+													<li>
+														<a href="#">Travel</a>
+													</li>
+												</ul>
+												<div class="megamenu-tabs-pane active">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Can't shed those Gym? The problem might be in</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Smart packs parking sensor tech and beeps</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Deleting fears from the brain means you might never</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel4.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+	
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-1.html">Technology</a>
+									</li>
+									<li>
+										<a href="#">Video</a>
+										<div class="megamenu-panel">
+											<div class="row">
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech4.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-2.html">Travel</a>
+									</li>
+									<li>
+										<a href="#">Features</a>
+										<ul class="nav-dropdown">
+											<li>
+												<a href="#">Category layout</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="category-1.html">Category layout 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-2.html">Category layout 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="category-3.html">Category layout 3</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-4.html">Category layout 4</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-5.html">Category layout 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-6.html">Category layout 6</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Posts Formate</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="single-post-1.html">Single Post 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-2.html">Single Post 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-3.html">Single Post 3 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-4.html">Single Post 4 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-5.html">Single Post 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-6.html">Single Post 6</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-7.html">Single Post 7</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-8.html">Single Post 8</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-9.html">Single Post 9</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-10.html">Single Post 10</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Pages</a>
+												<ul class="nav-dropdown">
+													<li>
+														<a href="author.html">Author</a>
+													</li>
+													<li>
+														<a href="404.html">404 </a>
+													</li>
+	
+												</ul>
+											</li>
+										</ul>
+									</li>
+	
+								</ul>
+								<!--nav menu end-->
+							</div>
+						</nav>
+						<!-- nav end-->
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- header nav end-->
+
+        
+	<!-- single post start -->
+	<section class="single-post-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<ol class="breadcrumb">
+						<li>
+							<a href="/">
+								<i class="fa fa-home"></i>
+								Home
+							</a>
+						</li>
+						<li>
+							<a href="/ruby-rogues">Ruby Rogues</a>
+						</li>
+						<li>Travel</li>
+					</ol>
+					<!-- breadcump end-->
+					<div class="ts-grid-box content-wrapper single-post">
+						<div class="entry-header">
+							<h2 class="post-title lg">Swiss authorities say Uber drivers should treated as employees</h2>
+							<ul class="post-meta-info">
+								<li>
+									<a href="#" class="post-cat ts-yellow-bg">Travel</a>
+								</li>
+								<li class="author">
+									<a href="#">
+										<img src="/images/avater/author.png" alt=""> Donald Ramos
+									</a>
+								</li>
+								<li>
+									<i class="fa fa-clock-o"></i>
+									March 21, 2019
+								</li>
+								<li class="active">
+									<i class="icon-fire"></i>
+									3,005
+								</li>
+								<li class="share-post">
+									<a href="#">
+										<i class="fa fa-share"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- single post header end-->
+						<div class="post-content-area">
+							<div class="post-media post-featured-image">
+								<a href="/images/news/travel/travel2.jpg" class="gallery-popup">
+									<img src="/images/news/travel/travel2.jpg" class="img-fluid" alt="">
+								</a>
+							</div>
+							<div class="entry-content">
+								
+<h3>Panel</h3>
+<ul>
+ 	<li>Charles Max Wood (<a href="http://twitter.com/cmaxw" data-cke-saved-href="http://twitter.com/cmaxw">@cmaxw</a>)</li>
+ 	<li>David Brady (<a href="http://twitter.com/dbrady" data-cke-saved-href="http://twitter.com/dbrady">@dbrady</a>)</li>
+ 	<li>Evan Phoenix (<a href="http://twitter.com/evanphx" data-cke-saved-href="http://twitter.com/evanphx">@evanphx</a>)</li>
+ 	<li>James Edward Gray II (<a href="http://twitter.com/JEG2" data-cke-saved-href="http://twitter.com/JEG2">@JEG2</a>)</li>
+ 	<li>Peter Cooper (<a href="http://twitter.com/peterc" data-cke-saved-href="http://twitter.com/peterc">@peterc</a>)</li>
+</ul>
+<h3>Discussion</h3>
+<ul>
+ 	<li><a href="http://rubini.us/" data-cke-saved-href="http://rubini.us/">Rubinius</a></li>
+ 	<li><a href="http://jruby.org/" data-cke-saved-href="http://jruby.org/">JRuby</a></li>
+ 	<li><a href="http://ruby.gemstone.com/" data-cke-saved-href="http://ruby.gemstone.com/">Maglev</a></li>
+ 	<li><a href="http://ruby-lang.org/" data-cke-saved-href="http://ruby-lang.org">MRI (Ruby 1.8.x)</a></li>
+ 	<li><a href="http://ruby-lang.org/" data-cke-saved-href="http://ruby-lang.org">Yarv (Ruby 1.9.x)</a></li>
+ 	<li>JIT compilers</li>
+ 	<li>Java Virtual Machine (JVM)</li>
+ 	<li>Global Interpreter Lock (GIL)</li>
+ 	<li>Thread Safety</li>
+</ul>
+The music is "Not Your Choice" by Wetnurse and available on <a href="http://www.metalsucks.net/2011/03/01/nyc-sucks-volume-2-free-metal-download-now/" data-cke-saved-href="http://www.metalsucks.net/2011/03/01/nyc-sucks-volume-2-free-metal-download-now/">Metal Sucks</a>.
+
+<h3>Transcript</h3>
+
+<strong>CHUCK:</strong> Hey everybody and welcome back to the Ruby Rogues podcast. We are here with our panelists; we have David Brady from heartmindcode.com, James Edward Gray form Gray Productions, we have Peter Cooper from RubyInside, RailsInside, RubyFlow and Coder.IO. I'm Charles Max Wood from teachmetocode.com. And we have as a guest, a new panelist, Evan Phoenix from Engine Yard. He is the creator of Rubinius and just done some awesome stuff in the community. Welcome everybody!
+
+<strong>DAVE:</strong> Hello.
+
+<strong>JAMES:</strong> Yay!
+
+<strong>CHUCK:</strong> All right. So, what we are talking about this week is kind of a hybrid between Ruby VMs and kind of the future of Ruby and where things are going to go. I'm really excited to have Evan on the podcast in particular, since he´s actually behind one of the VMs and can add some expertise to this discussion. To start out, I really wanna find out what everyone is using; so we´re just going to go around the panel and I guess I'll just call in everybody one by one and we'll see what everybody is using – which VMs you've used and what you´ve used them for. So let’s go ahead and start with David.
+
+<strong>DAVE:</strong> No. [Chuckles] Which VMs that I´ve used, I've used JRuby, obviously MRI, well it isn’t really a VM. I don't know if Yarv counts. And I attempted to contribute to Rubinius couple of years ago, but I was really dumb and a bad programmer back then, so I failed.
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>EVAN:</strong> I'm sure we can fix that now.
+
+<strong>DAVE:</strong> Awesome.
+
+<strong>CHUCK:</strong> All right. What about you, James?
+
+<strong>JAMES:</strong> So I’ve used JRuby quite a bit; mostly to gain access to the Java ecosystem at times, and I do like that part of it. One of the things I have run into a couple of problems with JRuby a few times, when I was trying to in a way to a POSIX-like environment. JRuby has a few things that are kind of difficult in a POSIX environment, because it does quite do things like fork and stuff like you would expect. I’ve used Rubinius recently and… wow we´re getting some feedback here, too. You guys hear the feedback?
+
+<strong>CHUCK:</strong> Yeah. It might be me. Let me turn down my headphones a little bit. Is that any better?
+
+<strong>JAMES:</strong> Yes, that’s better. Okay back to where I was. I recently used Rubinius after seeing some awesome talks at Ruby Conf about how crazy cool Rubinius has gotten. And I'm really liking that, so I’m really looking forward to talking to Evan more about that. I think Rubinius is shipping up to be one of the most transparent virtual machines, as far as being able to look at your code and how it sees your code and things like that. And I'm really liking that, but back when I’ve played with Rubinius, it was not one 1.9 ready yet, so that was kind of making me sad. But I know that’s in the works. And then of course Yarv, I’ve moved pretty much everything to Ruby 1.9 at this point, that’s my interpreter of choice, and I think everybody else should do that same.
+
+<strong>CHUCK:</strong> All right. How about you, Peter?
+
+<strong>PETER:</strong> I’ve been experimenting with most of them or most of the known ones now. I wouldn’t count some of the other ones like --- or things like that. But in terms of actually using on sort of day to day basis for work and what not, it’s Ruby 1.9.2 all the way of MRI, of course. But that said, I have been sort of been messing around with some of the source that I was actually adding a few bizarre features. And I must admit; I think I'm pretty going to end up to Rubinius at some point, but it’s  still kind of early days for that and I need to really play with it a lot more, so it will be really cool just hearing what Evan sort of brings to the table today. So it’s just having the time to dig into it, so I’d love to hear more about that.
+
+<strong>CHUCK:</strong> Right. And in the interest of saving Evan for last, I’ll go ahead and chime in. so far, I’ve really only played with MRI. I’ve done a little bit 1.9.2, most of it has just been that I was too lazy to switch and you can all me poo poo me for that, but let’s see what Evan says. I'm kind of curious since he works so much on Rubinius, what other ones he's used.
+
+<strong>EVAN:</strong> No pressure here guys, right?
+
+<strong>CHUCK:</strong> Nope [Chuckles]
+
+<strong>EVAN:</strong> You are just saying it because I'm in the room, right?
+
+<strong>JAMES:</strong> Right.
+
+<strong>EVAN:</strong> [Chuckles] So yeah, obviously I use Rubinius a lot. I'm actually kind of a weird Ruby user in a way, because my every day is like working on Rubinius features and that kind of stuff, which is like Ruby code, but it’s not like writing a Rails app or writing big Ruby application other than Rails being a big Ruby application, I guess. So, yeah, I mean, I run Rubinius the vast majority of the day, because that’s what I'm working on building. But I still have 1.8.7 installed that I use occasionally – just out of habit, for the most part.
+
+<strong>JAMES:</strong> Evan, do you ever play with the other virtual machines to see the kind of things they’ve done and how they do that?
+
+<strong>EVAN:</strong> Sure. Yeah I mean, I certainly read their source. I’ve gone through 1.9 and I’ve gone through JRuby at different points in time to see… it´s usually I'm looking for a specific thing, like how is xyz handling caching or whatever it might be and I would kind of dig in to look for that specific aspect of it. So I am pretty intimately aware on how all of them function.
+
+<strong>CHUCK:</strong> All right, that leads to the question that I have. What really is the difference between them? I mean, I'm assuming they are all more or less Ruby, right? So what does one give you that the other doesn’t?
+
+<strong>EVAN:</strong> Okay. Let’s, see, how should I start this. I guess I'll start with 1.8. So, 1.8 is mostly written by Matz, obviously it’s got… so I'm going to consider all these as broken up in to sort of two big pieces, right? Just for terminology sake, I'm going to set a few piece of terminology to sort of clarification. I'm going to talk about the kernel. And the kernel is also synonymous with the core library; and that is in 1.8´s case, everything like string, class, hash, all that kind of stuff. Those things that are built into Ruby that you can use without having to do any requires, right? I'm making that clarification because while talking to people, sometimes they will actually say, “Oh, do you mean the standard library?” and I'll just say the standard library is actually a separate piece. It’s IRB and all those things that come with Ruby. So for clarification, there's the kernel of each of them, and then there is the execution engine, right? So 1.8 has obviously the kernel we are used to all the classes, all the methods. And then its execution engine is really just sort of a very simple AST evaluator, right? And Matz pretty fairly admits this, that it’s sort of the simplest possible way of interpreting a language. Kind of the CS101 way of interpreting a language. That’s sort of the baseline for all of these, right? So 1.9 obviously adds two separate things; it changes the kernel. It adds all the encoding and the new API and all that kind of business. And then also, it adds the bytecode VM as the execution engine. So, instead of evaluating the output that 1.8 used, it sends it through one more step, where it turns it into bytecode. And the reason for that is that bytecode can be evaluated faster than you can evaluate just the raw, original AST that 1.8 uses, right? So when you see the performance between 1.8 and 1.9, that’s what you are seeing. Basically, you are just seeing the difference between those two things for the most part. JRuby then, obviously runs on a JVM and does this thing called, that Rubinius does too, called mixed mode, right? So one of the big things is that you were able to run your code, but then it can also be on the fly, optimized into a more optimal form. And in the JRuby case, it normally runs actually similar to the 1.8 works; it sort of just evaluates the abstract tree of code, just by walking down using sort of simple tree evaluator. And then as things heat up, it actually converts them into JVM bytecode.
+
+<strong>CHUCK:</strong> Is that what's referred to as a Jit?
+
+<strong>EVAN:</strong> Yes. Jit refers to anything, really, any piece of technology where you have compiler at runtime. So that you’ve been… JRuby will run a method a bunch of times and then decide like, “Hey, this method is being used a lot; we should probably go ahead and turn it into JVM bytecode,¨ and it will go ahead and do that. And that´s the piece that does that is that Jit; that compiler at runtime. And then obviously, that is sort of two sort of make it a little more meta. That is actually a Jit on top of another Jit, because the JVM has its own modes and Jit and all that kind of stuff below what JRuby does.  So it’s actually sort of multiple levels in the JRuby case. And then Rubinius converts all code down to Rubinius byte code, and then has a bytecode evaluation thing for running that bytecode. So it’s very similar to Yarv in that case. And then as things heat up, as methods and blocks are used more inside them system, it will actually take those methods and ship them off to a thread that runs in the background. And it will compile those methods and blocks and such into raw machine code. So rather than going to like bytecode, it actually goes to a machine code. It happens to use LLVM to do that, but that's sort of an implementation detail. So, those are sort of the big differences and the speed differences are really about how fast each implementation can make one or more of those phases.
+
+<strong>JAMES:</strong> You talked about how the OOVM is used on the lower level to do the virtual machine implementation, basically. Originally, when Rubinius was planned, I believe that the plan was actually Ruby top to bottom. And then actually you've settled on C++ at the very bottom and then Ruby in the core, instead of --- and things like that -- if I understand it correctly. What was the reason for that change?
+
+<strong>EVAN:</strong> Sure. That change is mostly pragmatism. We wanted to be writing it in Ruby, but at the time and even to a certain extent, there´s times now and I’ll elaborate. I wanted to get something out there that people could use. I didn’t want this to sort of become this sort of academic project, that was just this sort of purely… something that was never going to come with progression. And so that meant that I had to sort of decide like, figuring out how to make Ruby top to bottom is actually quite difficult. You can go and look at those original prototypes are actually still in the Rubinius repository; they are back at commits the very first few commits in the repository or in all Ruby VM that ran on top of 1.8 – I think it was 1.8.2 at the time or 1.8.1. Obviously, you have to go down to the lower layer at some point. So you translate that Ruby into C or whatever you might do, that became the sort of time suck. And I wasn't really super interested in that, so I just basically decided, ¨Okay, I'm just going to drop down or I'm going to do it in these pieces that need to be in C. I'm just going to do it in C for now.¨ And we've over time, moved those pieces to C++, but for the most part, it´s purely a pragmatic thing. And as time goes on, we actually go back. So we've had things that we originally implemented in C++ that we, overtime, actually tear out and make them Ruby, because they are actually faster now with the Jit and everything than they were before.
+
+<strong>CHUCK:</strong> Right. So, I have a question -- and it’s a little different from James’ question -- and that is that, I hear about the Jits and some of the other ways of implementing the language. And I guess what my question is, I don't completely understand what the advantages are of… I mean, I can kind of see using a Jit and some of the advantages there, but what are some of the advantages of say, using the JVM versus using some of the other ways of implementing the language?
+
+<strong>EVAN</strong>: Well, sure. I mean, the --- on top of JVM is again sort of like a pragmatic thing in the case of me dropping that in C++. Think of the JVM basically as a thing that provides a whole bunch of services; and some of them are very high level services like turning abstract data structure of bytecode into machine code, right? And so that’s just one way of doing it. I can smell what an expression is, to I'm going to answer it. So why doesn’t Rubinius use JVM? The reason is that, that would have been no fun. I started this project for fun. And if I had used the JVM, then I wouldn't have been able to do all the fun parts.
+
+<strong>JAMES:</strong> Charles Nutter just died a little inside.
+
+<strong>DAVE:</strong> Well, maybe for Charles, different thing is fun.
+
+<strong>EVAN:</strong> [inaudible] the whole windows manager for Windows, so talk about your projects so, [silence] I don't even know, how you mute this thing?
+
+<strong>JAMES:</strong> I know. That was what I was looking for too.
+
+<strong>CHUCK:</strong> I think everyone was trying to mitigate the…
+
+<strong>JAMES:</strong> It´s in preferences, under notifications, ¨mute all sound effects¨.
+
+<strong>CHUCK:</strong> Yeah. Sorry for the break in flow there, folks.
+
+<strong>JAMES:</strong> Oh yeah, that depends if you have crazy version of Skype.
+
+<strong>EVAN:</strong> I have the old version.
+
+<strong>JAMES:</strong> I'm using the ridiculous new version.
+
+<strong>CHUCK:</strong> Me too, and I hate it. Anyway.
+
+<strong>EVAN:</strong> So I mean, when I started this project, I started it for fun; I wanted to write a VM that’s interesting to me. So that’s how the whole project started.
+
+<strong>JAMES:</strong> So the obvious follow up to that is, are you still having fun?
+
+<strong>EVAN:</strong> Oh yeah, it’s a blast.
+
+<strong>CHUCK:</strong> I'm kind of curious; how do you find a place like Engine Yard, that will pay you to work on something like this all day?
+
+<strong>EVAN:</strong> They found me.
+
+<strong>DAVE:</strong> Okay, [inaudible] how can I find someone like that? [Laughter]
+
+<strong>EVAN:</strong> Actually, it’s funny I just talked about this at a Conf. So was doing it for fun, it was my hobby. And I wanted to be working on it. So I just basically kept working on it and talked to people about it and some people thought I was crazy and I will say, ¨Yes, it’s  a crazy project, but it’s  fun.¨ That kind of thing. Basically what I'm telling you guys, right now. And you say that enough times and you keep working on it and eventually someone says like, ¨Hey, I think you are right. Maybe this isn't such a crazy thing. Maybe we do really need to be working on this.¨ So yeah, I think there's a sort of ´right place, right time´ kind of thing to it, but I think if you are enthusiastic about something and you wanna tell people about it and you wanna work on it, I think that enthusiasm breathes enthusiasm on others.
+
+<strong>CHUCK:</strong> All right. So I have another question. The idea for this particular talk was actually Aaron’s idea and it’s unfortunate that he couldn’t be here and part of it, but he was talking about the future of Ruby and how the VMs relate to that and so, I'm interested in your take on that. How did the different VMs affect the future of Ruby? Where do you see those kind of tying together?
+
+<strong>EVAN:</strong> Well, it’s an interesting time. I don't think that Ruby is really going anywhere, so I think it’s still a good place to be. One thing that is very positive for me is I see a lot of people who care about Ruby and who sort of want to innovate, who want to push it forward, who want to do crazy things and change it and how it could be. Years ago when I started this project and JRuby had been around before that, and then there's Ruby on --- and Maglev, all the sort of explosion of things. And people actually said like, is it bad that there are all these implementation of Ruby that people keep building? Is it going to suck the air out of the room for other people? And I think the answer has been that no, it hasn’t sucked the air out of the room for anyone. What all it has done is it has shown that there's people who want to be working in this space and who wanna keep making Ruby better and who are finding new ways to do that. As for if you want me to get out my crystal ball or put on my oracle´s hat or whatever it is oracles wear…
+
+<strong>DAVE:</strong> (Yes please.)
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>EVAN:</strong> I will say that people ask me this all the time like, ¨Do I want Rubinius to be the main Ruby JVM?¨ And my answer is always the same is that my opinion of this doesn’t matter. It’s not up to me. I don't have a giant marketing machine behind me. I don't have a way of forcing people to do something, right? All I can do is build the best possible thing that I can build for myself, and that people take requests and stuff and make the best for everyone involved. And hopefully, that leaves to some kind of success. And has worked thus far, so I would sort of leave it at that.
+
+<strong>JAMES:</strong> So you said about wanting to innovate and I’ve noticed in the changes in Rubinius over time, it seems like you guys like to experiment inside the VM a little like, ¨Let’s try out this new form of concurrency,¨ or stuff like that. Can you talk a little bit about that or why you do that?
+
+<strong>EVAN:</strong> Sure. So I'm a big proponent of… I mean, Rubinius started with me kind of just tinkering. We just sort of screwing around, fiddling around, finding out what was fun, and I would add weird experiments. Some of you might remember, I did this thing for Rubinius called --- which was this big crazy patch to 1.8.2 or whatever it was, 1.8.3 that didn’t really go anywhere, but it was sort of this place where I could just write all kinds of weird, crazy crap. And Rubinius is the same way. I try to not to say no. if someone has some weird, crazy idea and myself included, I’d rather just indulge that idea and see what can come out of it. And the specific case like, (and we'll probably get into this later) we are working on this sort of Rubinius 2.0 right now; it has full concurrency, so it’s concurrent in exactly the same way the JVM is concurrent. It doesn’t… threads can run exactly on the same, you can make use of multiple cores off of these kind of stuff. And that work essentially came out of me sort of… (Chuckles) this is going to sound bad because I'm going to get this all the time, but it came out of a dare. Someone sort of dared me to do it. And I decided that, “Oh, alright. It’s been enough time. I'm going to give it a week. I'm going to totally just tear in to this thing. I'm going to see how far I can get in a week.” And in a week, I got like so much further than I thought I would get. So I’m like, “Okay this is sort of totally realistic thing to do.” And so and that’s working great. So I'm all for basically not people sort of picking their on poison and go in weird and crazy. I mean, we've rewritten the compiler a few times really just because people get sick of it or it have weird things or those badly organized whatever, and so it would get rewritten. And “Okay, great, it´s rewritten and we'll go on with life now.” So, yeah.
+
+<strong>CHUCK:</strong> Related to the concurrency, and this is something that came up for me at Mountain West Ruby Conference when Yehuda got up and he talked about the future of Ruby. It lead to this long talk with him and Jim Weirich and basically the talk was I would ask him a bunch of really fundamental questions I didn't know the answers to and then they would use terms that I didn’t understand, so I’d ask them about those. And you know, so we started talking about the global interpreter lock and things like that. And I guess my question is, because I brought it up with James Bach a couple of days ago, when I talked to him and he said that it would probably take more than just removing the global interpreter lock and making Ruby work around that, to get it to be fully concurrent. And so I guess my question is twofold; what kinds of things did you have to do besides working around or removing the global interpreter lock to get it to be fully concurrent and the other questions and I think this is something that some of our other panelists might be able to answer to, is how do you see concurrency playing into what we currently can’t do well with the current Ruby implementation?
+
+<strong>EVAN:</strong> Sure. Wait, what was the first question?
+
+<strong>CHUCK:</strong> What did you have to change other than removing or working around the GIL in order to make it work well?
+
+<strong>EVAN:</strong> Okay. So the GIL is a crutch; it is there to say that the entire VM is not thread safe. And so, in order to do anything VM-related, you have to hold it.
+
+<strong>CHUCK:</strong> So you kick the crutch out from under it, and it falls down?
+
+<strong>EVAN:</strong> [Chuckles] Yeah. So basically, what I ended up doing, there´s multiple pieces; so remove the GIL and then go through and look at… so Rubinius, because of the approach we've taken, something really big on our side, we have a minimal amount of unmanaged code, if you will.  With a minimal amount of C++ code, that I had to go through and so I would go through all the C++ data structures and I would say like, all right, is this thing going to get used concurrently, and if so, how should it function concurrently? A simple case I can give you here is as simple table, right? The simple table is implemented in C++ because it´s special level thing, it has to exist all the time. So two threads can be asking for a symbol at the same time. So we would need a way; we will just use exactly the normal procedures, nothing crazy. Just add some kind of locking inside the symbol lookup just to do that, right? And go through all of those data structure and do the same thing. And it was practical in terms of Rubinius because like I said, we have a minimal number of those data structures. I can write them on the whiteboard. I can draw little boxes and I can label all of them pretty easily. And so because of that, it was not a trivial task, but it was a task easily tackled. It wasn't this daunting thing, right? So that was sort of phase one. Phase two is the fact that, now you got Ruby code that’s going to be running fully concurrent, that it wasn't before. So now, any line of Ruby code can be running simultaneously with any other line of Ruby code, basically. So you have to figure out, how do you wanna deal with that concurrently running Ruby code. First off, the VM can’t crash if you are running Ruby code concurrently; that’s what we did in step one. But now, in step two, we make it this weird, inconsistent Ruby objects, right? So a good example here is a bug I fixed just this week, just yesterday, where two threads were requiring net http at the same time; and because of the timing of them, they actually both succeeded. And so you got two threads simultaneously requiring the same file running the same code to initialize net http at exactly the same time. And obviously, it caused a whole kind of totally weird bugs. And so I had to go in and I had the lock around the required machinery, so that they would be lock step, so that these threads would have to wait, so that they could actually check whether or not a --- is required. And so we do that at different points in time, right? The third way is we don't want locks though. So if I were through, I would say like, “Okay, well, I’m just going to tackle this. I'm going to add a lock to every single data structure, every Ruby object and to lock everything,” it wouldn’t be any better than the GIL for the most part because you will be locking everything everywhere and you [inaudible] overheads. And in fact, things like a string hash, people have come to expect a certain level of performance from them. And Charles, we've talked about this at length for years now, you can’t really have locks to those, because it will slow them down to such a degree that people will basically just file tickets all the time about how much your x implementation sucks, because array is slow or whatever. So you have to structure the code instead in a way that allows for a degree of concurrency that will keep the data structure working even if it’s being manipulated at two object at the same time. So in the case of, JRuby and this is the same with Rubinius, if you can get these weird cases in array, where you get these strange concurrency error exceptions being raised, because those will be detected for basically these kind of interesting cases, where we do those instead of having locks for that kind of stuff. So it’s really these sort of three steps. So, my opinion of this whole project was actually the same as before I started this. I was going to be super hard. Most code isn't going to run, it locks everywhere and strangely enough, that’s not true. In theory, you would think that’s true, but in practice, it’s not actually true. Rails runs fine even with this crazy, weird require bug, Rails runs fine.
+
+<strong>JAMES:</strong> So I think you kind of hit on this, but I was curious to know if the VM developers communicate with each other, work together to solve problems. You did mentioned there that you and Charles Nutter have discussed things, but then along the similar lines, you are doing some experimentation now in Rubinius, so is there a chance that as you guys prove that Ruby can live without the GIL or whatever, do you think there is a chance that that some of that work could filter to the other VMs?
+
+<strong>EVAN:</strong> Yeah, we totally worked together. People actually thought for a long time that we would be enemies in a way because we were sort of are competing, but it’s a big --- for everybody. So yeah, we've definitely brainstormed on algorithms and ways of handling problems and all that kind of stuff for years now. And APIs have flowed between us. Like I said, this concurrency error thing is always something that Rubinius has taken from JRuby. And the FFI layer was something that I worked on in Rubinius because we needed it flowed out into JRuby, right? And that’s fine. I love when that happens. So, we do a lot of communications in that regard. Back in the day when Maglev first started, Maglev actually was a fork of Rubinius’ kernel, it’s probably totally different now. But originally, we just told him like, “Hey, you can just take all the Rubinius code and just do whatever you want with it.” So that was sort of their starting ground. So we definitely help out and communicate like that. As we figure out answers to problems, some can be fixed and some cannot. So, the problem with the GIL -- I'm sorry to say -- likely can’t be fixed in MRI. And reason is that, doing so would require rewriting pretty much every single C function in MRI. They are all, for the most part, written to expect the GIL, and because all of that code is unmanaged, it doesn’t do bounce checking; it will just, “Oh yeah this is a char star, let me grab that, let me cast through char star, let me walk through it as memory if someone at the same time is say, truncating that or doing something else, they can get the completely wrong thing and they can just walk off into memory and corrupt the whole thing and then the VM crashes.” So because they have so much unmanaged code, it becomes this sort of maintenance, rewrite nightmare. But there are certainly things that have trickled out from the different VMs into other space.
+
+<strong>CHUCK:</strong> Interesting. So one other question I have about concurrency and that is is let’s say that I'm implementing a library, what things do I need to be aware of with implementing my library to make sure that its fully concurrent and will work well, won’t get any weird issues when I'm running it under JRuby or Rubinius or something else that will allow it to be executed concurrently?
+
+<strong>EVAN:</strong> The first thing is just to organize all the state around some instance. This is why most of the programs work fine is because most of the programs do that exact same thing, right? So try not to have a lot of shared global stage. And even if you have an object, even if you don't use locks, even if you just have one object that has its own state that is… You know, a good example here would probably be like if you’re writing an http library, an http client, when you make a new http client, and you connect out, the socket for that connection should live within that connection and all those sorts of normal things that you would do. Because that way, all of those individual pieces can just be, you can have multiple instances that run on different parameters, right? You don't have to worry; you can just basically tell the person, “Oh, this library is not thread safe, so make sure use a separate instance per thread.” That’s the simplest possible way. And actually that is a very easy way to do it and it will work pretty much everywhere that you wanna do it, right? So there's two cases that you obviously going to need explicit thread safety, one is where you are going to have this shared state that is some sort of shared global state and you been obviously because those threads are going to be accessing them mutually. Another place obviously if you have something that is designed to be run between threads, right? So there’s two cases that you are obviously going to need explicit thread safety; one is where you are going to have this shared state that’s some sort of shared global state. And you are going to obviously locking because threads are going to be accessing them mutually, right? Another place obviously, if you have something that is designed to be run between threads, right? So if your library itself explicitly,  internally, uses those threads, then you know where all the, “Okay this is going to be piece of shared state and that’s going to be a piece of shared state ,”and those are the places that you would want to have that locking done, right? But the first case is totally the easiest one and that’s the one I steer people towards. Because as long as your state is encapsulated inside one object, even if you have to tell people, “Oh well, this library isn't thread safe,” you need to add a lock around its usage, that’s fine too. You are basically saying like, “I don't care to deal with this other part, but I´ve at least have made that easy for you.” <strong>JAMES:</strong> That makes sense. So Evan, you said that you can’t really decide if Rubinius becomes Ruby 2; that’s not really a decision in your hand or whatever, but what would you like Rubinius to become? What role would you like it to fill on our community?
+
+<strong>EVAN:</strong> I would just like people to use it. I’d like to hear that people like it and that it makes their Ruby experience good. The level of the usage or majority usage or whatever is not super… again, because that’s out of my hands, honestly I don't have much an opinion on. I don't think about it. Instead, I just think about, like when someone says, “Okay, could Rubinius do this? This would make my life a lot easier.” Honestly, I think a lot about that because that person has specific thing that could make their life a lot better. Just a simple quick example of that is -- and it’s kind of a hilarious example -- is the back traces. Rubinius has these back traces that are very specific to Rubinius, that convey a lot of information. We’ve had those back traces for probably 3-4 years, and I think in 3-4 years, I have worked on a total of one hour. So that wasn't siting down and working on it for an hour; it was like 5 minutes here, 5 minutes for the first implementation, 5 minutes somewhere else, 10 minutest some other place. But it’s easily one of the things I hear the most about Rubinius. I love working on it because it conveys all those pieces of information to me. So it’s really about making people who wanna use Rubinius happy. And obviously I make those people happy and they'll wanna use in their companies and that's what I want.
+
+<strong>JAMES:</strong> So one last question kind of not on Rubinius this time; Evan, didn't you recently speed up the gem index quite a bit?
+
+<strong>EVAN:</strong> I did.
+
+<strong>JAMES:</strong> Did that come out of your experience working with Rubinius or was that just a side fun project?
+
+<strong>EVAN:</strong> No, that was just me doing them a favor.
+
+<strong>JAMES:</strong> Doing everybody a favor.
+
+<strong>EVAN:</strong> Yeah.
+
+<strong>CHUCK:</strong> No kidding.
+
+<strong>EVAN:</strong> Yeah. So what happened was I’ve been talking with Nick… what´s his name… ´
+
+<strong>JAMES</strong>: Quaranto.
+
+<strong>EVAN</strong>: Yeah, there you go. I’m bad with names, so I’m not going to attempt his last name.  So, were friends, we've talked a bunch of times. (And for friends, I should probably be able to pronounce his last name.)
+
+<strong>JAMES:</strong> [Chuckles] If you were friends.
+
+<strong>EVAN:</strong> Yeah. We were friends. [Chuckles] So, he had been saying that he's worried that the Ruby gems is going to get overloaded and discussed that. So I’ve been more active with Ruby Central and the Ruby Gem server side because I wanted to help them out because I feel it’s an important thing to do. And while we were having a conversation about what's taking the longest time on the server and the generating gem indexes came up. Gem Cutter is great because Nick´s got all the code on GitHub; I just downloaded it and got a database dump and started just doing performance tuning  and there we go. It only took about an hour.
+
+<strong>JAMES:</strong> Awesome. Thank you.
+
+<strong>EVAN:</strong> Sure.
+
+<strong>CHUCK:</strong> Now bundle install only take us two years, instead of five.
+
+<strong>EVAN:</strong> Yeah, I don't know, this might not be released thing. Oh, no I think it is. So for Bundler 1.1 they are trying to get some other hooks into rubygems.org, so that it will speed up bundle installs and stuff like that, so hopefully that will help too.
+
+<strong>CHUCK:</strong> All right. I'm going to go ahead and wrap up this section of the podcast. I really try and keep this on schedule, so that we can get done within the hour that we kind of promised to our listeners. So we are going to go ahead and move on to the picks of the week. So this is something that I forgot to warn Evan about, so we'll let him go last, so he has about 5-10 minutes to come up with something. But anyway, the picks of the week are just things that you found that you like, essentially. It can be things related to your coding practices or just anything else, really. You know, if you find a nice office chair, it doesn’t really particularly affect your coding, but you know, it’s still something interesting that people might wanna hear about. And I’ve already picked up several things from last week that I’ve been really excited about, so. Anyway, we are going to go ahead and start with James. James, what's your pick this week?
+
+<strong>JAMES:</strong> Okay, so Evan, am I right that you are about to have a baby?
+
+<strong>CHUCK:</strong> Who? Me?
+
+<strong>JAMES:</strong> Evan.
+
+<strong>EVAN:</strong> Sorry, say that again?
+
+<strong>JAMES:</strong> Am I right that you are about to have a baby?
+
+<strong>EVAN:</strong> I am.
+
+<strong>JAMES:</strong> Okay. So here's my picks just for you. When I was having my baby, I read tons and tons of parenting books -- most of which are terrible. And so I'll do you a favor and tell you the two really good ones. All right, are you ready?
+
+<strong>EVAN:</strong> Yeah.
+
+<strong>JAMES:</strong> The `Brain Rules for Baby´ is an awesome book. It’s about how our brain works and how we learn things. And they use that to tell you things you can do for your kid to help them learn things. So just to give like one simple example; kids, if you praise their efforts over their ability, that it encourages them to do more and try harder things. So for example, if they come home and get a good grade on a test, instead of saying, “You're so smart,” if you just say, “Wow, it’s  obvious you worked really hard,” or something like that, then you´re saying  that they worked hard and that's great and it encourages them to do more and try harder things. And that study show that they will actually take on bigger problems and they'll be more comfortable with failures because they know they can just work hard. So it’s a really cool book that teaches you a lot about how we learn and think and that’s cool. And then the other book that I can’t live without as a parent is called, Free-Range Kids. And it’s basically about the cultured fear that we live in as parents, like can you let your kids talk to strangers and things like that and it goes through and gives you the actual hard statistics on how many kids have died from poisoned Halloween candy. Any guesses?
+
+<strong>DAVE:</strong> [Laughs]
+
+<strong>JAMES:</strong> Anybody wanna take a guess?
+
+<strong>CHUCK:</strong> None. <strong>EVAN:</strong> I'm going to guess, zero.
+
+<strong>JAMES:</strong> You are exactly right, sir. Never. It was a column in a newspaper one time. So all the horrible things we've done to our holiday over an imaginary problem that’s never actually happened. Those books are awesome and I recommend both of them to all parents.
+
+<strong>EVAN:</strong> My wife, Abbie has a book called, The Panic-Free Pregnancy, which is sort of like this book that specifically goes through to a few other books. So there’ll be section where it will say like, “You probably have this other book. And they talk about this, don’t worry about that.”
+
+<strong>CHUCK:</strong> [Chuckles]
+
+<strong>JAMES:</strong> That’s exactly what Free-Range Kids is like. It’s basically said things like, “If you see it on the news, you can forget about it because the news only covers the one in a million things that never happen to anybody.”
+
+<strong>EVAN:</strong> Yeah. Awesome.
+
+<strong>CHUCK:</strong> All right. When you said, “Free-Range kids,” I was thinking like organic meat. [Laughter]
+
+<strong>CHUCK:</strong> And you were talking about the other technique of praising effort and I can tell you after having worked with David, it works on him too.
+
+<strong>DAVE:</strong> Yup.
+
+<strong>JAMES:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> All right Dave, go ahead and share your picks.
+
+<strong>DAVE:</strong> So I may be committing a social faux pas here, but I'm actually going to pick something of my own; which is this weekend, I swore in my wrath that I would never write another freakin line of JavaScript again. And CoffeeScript a great way to get away from doing JavaScript because it compiles down to JavaScript -- and it compiles down to JavaScript that´s better than most JavaScript programmers can write. So I realized I need a good way to do this. So then I thought, “Well, there should be a cookbook for this.” So I went out and launched coffeescriptcookbook.com. And being a complete spaz, I went out, launched the site and then I realized I needed to do two things; the first one was I needed to go tell the CoffeeScript guys that it’s now existed. I'm like, “Hey, let’s talk about community involvement. Hi guys, I started a cookbook.” And the second thing I needed to do was write my first line of CoffeeScript ever, so I’ve had people come back and say, “I can’t contribute to the cookbook because I just don't know enough CoffeeScript.” And I'm like, “Baloney, I watched the whole site there's a contributing guide, it’s completely open source.” So my pick is for everyone else, please come to CoffeeScriptCookbook.com and start adding idiomatic CoffeeScript recipes so that we can get a great resource out there for people.
+
+<strong>CHUCK:</strong> Ready, fire, aim. I love it.
+
+<strong>DAVE:</strong> Yup.
+
+<strong>CHUCK:</strong> All right Peter, what have you got for us?
+
+<strong>PETER:</strong> I just wanted to say to James actually, that you worked really hard on those items that you put in today.
+
+<strong>DAVE:</strong> [Chuckles]
+
+<strong>PETER:</strong> Yeah, apparently, it works really well. Yeah, I kind of like --- my work last week I guess. Throwing out just tons of books and things just kind of used up all my good item, so I'm going to give you some not quite so useful items this week. I guess the one thing I really wanna push is RailsCasts. I actually mentioned RailsCasts last week, but as you may have seen or may not, Ryan Bates has launched a new design on there, so very interesting. I must admit, the logo perhaps doesn’t run down quite so well with some people. And it does look a bit different. Absolutely awesome. Love his work as always. I also wanna recommend MailChimp, which you may have heard of, which is an email delivery service specifically for sort of doing lists, newsletters and stuff like that, which is something I’ve been getting into a lot lately. Just the services has been second to none and  if you wanna put any kind of list and especially if you wanna put together a really small one, I think like under 2000, you can get a free account on there now. So I pay quite a bit because I´ve got quite a few subscribers now, but if you got under certain amount, you can go on there, free. Deliverability, excellent. I can’t say enough good stuff about them, so yeah, definitely something for you there if you got audience. And last but not least, this one is perhaps going to make things a little bit indecent, but you don't have to visit if you don’t like this kind of thing. There's a site called sickipedia.org. It’s kind of like where you go on and you post a joke and then it gets either voted up or down. And then it shows you like the jokes that got voted the best for each day, week and so on. But they are really crude; very extremely not safe for work.  There is actually one clean joke on this. I just thought I’d bring that one clean joke into the show. This one is one of the hottest jokes this week. It was, ¨Parallel lines: they´ve got so much in common, it’s a shame they’ll never meet.”
+
+<strong>DAVE:</strong> Nice.
+
+<strong>PETER:</strong> I love a good joke. It’s a great way of starting the day.
+
+<strong>CHUCK:</strong> All right, thanks Peter. So, I'll give a couple. I have just started using Vim again. I used it off and on when I was a systems administrator, because I can always count on it being on the machine that I was working on. And so, I’ve picked up Mac Vim, it’s one of my picks. And the other pick that's related to that is Janus. And it is a GitHub project by Carl and Yehuda, and it’s under CarlHuda account on GitHub. And what it is it actually sets up a whole bunch of stuff for your Vim setup and kind of bootstraps everything, so that you don't have to figure out everything on your Vim RC. It does a lot of the syntax highlighting and stuff for you, and adds a whole bunch of other nice conventions for you to get a little bit more out of Vim. So, those are my two tech picks. I also wanna point out that we've been a little bit missed in talking about the different VMs and not  mentioning RVM, which is something that everybody should go check out, so that you can try out all of these different virtual machines like Rubinius and JRuby. You can also get Ruby 1.9 on there. If you haven't, just installed it or compiled it from scratch. So I wanna point those out. And finally, I also want to turn everybody on to book series that I’ve found on iTunes and it’s called Trader Tales by Nathan Lowell. I’ve listened to the first three books and they are awesome. So if you just do a search in iTunes for “Trader Tales”, there's six books -- and they are awesome. I listen to them while I'm coding and stuff. So, anyway, that's what I’ve got. Evan, do you have any picks or anything that you wanna share with us?
+
+<strong>EVAN:</strong> Sure. So, I'm kind of a “minimal editor command line” person, so like, if I learn a new trick or something that I could use every day; if I learn a new trick, once per year that I stick with, that's actually a lot for me. Because my muscle memory just sucks for it. I can only do a few things and once I get them and they don't bug me, I stick to them. Rubinius has a very large repository. So for the most part, when I'm searching for files I would use ack, which is sort of like grep and that kind of stuff. Which is fine, but it’s actually kind of slow. It’s a lot slower than Grep. So a lot of times, I’d be like, “This is taking too long,” and I will just use grep. So someone finally told me that there is git-grep, that will only grep the things; it will ignore all your ignored files and it will do those kind of stuff, and it will do very similar color coding to ack, but its super-fast. So that’s my pick.
+
+<strong>CHUCK:</strong> Awesome. I'm going to have to check that out. And I know Dave well enough that the wheels in his head are turning.
+
+<strong>DAVE:</strong> Well, my experience with ack is actually it’s faster than grep. But if you are trying to do a find.grep, that’s excruciatingly slow compared to ack. Like, if you wanna search the files in a directory tree, if you… so if you do like a find.pipe into xargs, that takes forever. Now, does git-grep actually dive into like the Git history like the Git log and all that stuff?
+
+<strong>EVAN:</strong> I don't think it does. I mean, I think it can, perhaps and I could probably just look, but I think what it does is it basically just looks through the working copy and ignores all the ignored things. Let me give you an example. So Rubinius is big; it’s a 100Megs Git repository and it has a huge number of… we have this directory called external libs, which has things like libffi and llvm and all these stuff that we used to build Rubinius. I almost never want to look at those things. Ack, it invariably searches all of those things first, before it looks even for the files that are in the directory that I wanted look for, right? And so if I use Git-Grep, we actually have the external libs directory as a Git ignore, because we… [inaudible]
+
+<strong>DAVE:</strong> Ah, that’s the difference. Okay. Yeah.
+
+<strong>EVAN:</strong> And so it’s super-fast.
+
+<strong>DAVE:</strong> That's cool.
+
+<strong>CHUCK:</strong> All right. Well, we're going to go ahead and wrap this up. Thanks everybody for coming out. We had on our panel again, James Edward Gray, Peter Cooper, David Brady, Charles Max Wood and Evan Phoenix. And just thanks once again for coming on to the podcast. The music I got off of the free music archive and it is by a band called “Wet Nurse” and it is called Not Your Choice. So I wanna thank them as we'll. And we will catch you next week. We will be talking about templating languages; specifically things like Erb or HAML, Slim, Mustache, things like that. So, if you are interested in that kind of stuff, then come back and catch us next week. One other thing, we are in iTunes now. So if you go to rubyrogues.com, on the right, there's a little iTunes icon. If you click on that, then it will take into iTunes so that you can check out the podcast and subscribe there. And just thanks once again to everybody who´s listened and who has let their friends know about it. We appreciate it and we'll catch you next week!
+
+<strong>DAVE:</strong> Leave a review.
+
+<strong>CHUCK:</strong> Yeah, leave a review. Bye!
+
+								<p class="text-bg">Leidanett was living a life of almost unfathomable despair a year ago no one knows (1995)</p>
+								<p>
+									<span class="tie-dropcap">A</span> farmers in the US’s South—faced with continued failure in their efforts to run on successful farms their
+									launched a lawsuit claiming that “white racism” is to the blame for their inability to produce crop yields.
+								</p>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<blockquote>
+									Black farmers in the US’s South faced with continued failure in their efforts to run the successful farms launched a lawsuit
+									<cite>Steve Jobs</cite>
+								</blockquote>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should
+								</h3>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<p>
+									<img class="float-left" src="/images/news/news-details/post_style.jpg" alt="">
+								</p>
+								<h3>For the first time the Secretart end</h3>
+								<ul>
+									<li>But there was also no shortage of new</li>
+									<li>Prasad made these comments on</li>
+									<li>He gave details of the answers provided</li>
+									<li>The government forthcoming in before</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South faced with the thecontinu failure in their own efforts to run and succe farms is to blame
+									for their inability to an sell an black farme a subpar product at
+								</p>
+								<p>
+									the most Mid-South Farm on Gin Show in them March 2017.Despite above average rainfall the black farmers saw limited
+								</p>
+
+								<div class="gallery-img">
+									<a href="/images/gallery/gallery1.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery1.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery2.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery2.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery3.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery3.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery4.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery4.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery5.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery5.jpg" alt="">
+									</a>
+								</div>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<div class="post-video">
+									<img class="img-fluid" src="/images/news/travel/travel9.jpg" alt="">
+									<div class="post-video-content">
+										<a href="https://www.youtube.com/watch?v=_0UO1NcheAE" class="ts-play-btn">
+											<i class="fa fa-play" aria-hidden="true"></i>
+										</a>
+										<h3>
+											<a href=""> For the first time the Swiss State Secretart for Economic indicated that Uber taxi</a>
+										</h3>
+									</div>
+								</div>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should be classed
+									as employees
+								</h3>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability to produce crop yields and on equivalent to that switched
+									seeds in order to sell black farmers a subpar product at the Mid-South Farm & Gin Show in March 2017. Despite above
+									average rainfall, the black farmers saw limited soybean yield from the Stine seeds during the 2017 harvest.
+								</p>
+								<p>
+									<a href="">
+										<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+									</a>
+								</p>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair
+								</h3>
+								<ul>
+									<li>
+										But there was also no shortage of news for the worlds of film.
+									</li>
+									<li>
+										Prasad made these comments on behalf of the Treasury benches.
+									</li>
+									<li>
+										He gave details of the answers provided by Defence.
+									</li>
+									<li>
+										The government has been forthcoming in declaring the aircraft.
+									</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability
+								</p>
+							</div>
+							<!-- entry content end-->
+						</div>
+						<!-- post content area-->
+						<div class="author-box">
+							<img class="author-img" src="/images/avater/author.png" alt="">
+							<div class="author-info">
+								<h4 class="author-name">Elina Themen</h4>
+								<div class="authors-social">
+									<a href="#" class="ts-twitter">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<a href="#" class="ts-facebook">
+										<i class="fa fa-facebook"></i>
+									</a>
+									<a href="#" class="ts-google-plus">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<a href="#" class="ts-linkedin">
+										<i class="fa fa-linkedin"></i>
+									</a>
+								</div>
+								<div class="clearfix"></div>
+								<p>Black farmers in the US’s South—faced with continued failure in their efforts to run for the successful farms their
+									launched </p>
+
+							</div>
+						</div>
+						<!-- author box end-->
+						<div class="post-navigation clearfix">
+							<div class="post-previous float-left">
+								<a href="#">
+									<img src="/images/news/travel/travel6.jpg" alt="">
+									<span>Read Previous</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+							<div class="post-next float-right">
+								<a href="#">
+									<img src="/images/news/tech/tech5.jpg" alt="">
+									<span>Read Next</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+						</div>
+						<!-- post navigation end-->
+					</div>
+					<!--single post end -->
+					<div class="comments-form ts-grid-box">
+						<h3 class="comment-reply-title">Add Comment</h3>
+
+						<form role="form" class="ts-form">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										<input class="form-control" name="name" id="name" placeholder="Your Name" type="text" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" name="email" id="email" placeholder="Your Email" type="email" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" placeholder="Your Website" type="text" required="">
+									</div>
+									<!-- form group end-->
+								</div>
+								<!-- Col end -->
+								<div class="col-md-6">
+									<div class="form-group">
+										<textarea class="form-control msg-box" id="message" placeholder="Your Comment" rows="10" required=""></textarea>
+									</div>
+								</div>
+								<!-- Col end -->
+								<div class="col-md-12">
+									<p class="comment-form-cookies-consent">
+										<input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes">
+										<label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+									</p>
+								</div>
+							</div>
+							<!-- Form row end -->
+							<div class="clearfix">
+								<button class="comments-btn btn btn-primary" type="submit">Post Comment</button>
+							</div>
+						</form>
+						<!-- Form end -->
+					</div>
+					<!-- comment form end-->
+					<div class="ts-grid-box mb-30">
+						<h2 class="ts-title">Most Popular</h2>
+
+						<div class="most-populers owl-carousel">
+							<div class="item">
+								<a class="post-cat ts-yellow-bg" href="#">Travel</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+
+							<div class="item">
+								<a class="post-cat ts-blue-light-bg" href="#">Technology</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Music</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/music/music2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+						</div>
+						<!-- most-populers end-->
+					</div>
+
+				</div>
+				<!-- col end -->
+				<div class="col-lg-3">
+					<div class="right-sidebar">
+						<div class="ts-grid-box widgets social-widget">
+							<h2 class="widget-title">Follow us</h2>
+							<ul class="ts-social-list">
+								<li class="ts-facebook">
+									<a href="#">
+										<i class="fa fa-facebook"></i>
+										<b>12.5 k </b>
+										<span>Likes</span>
+									</a>
+
+								</li>
+								<li class="ts-google-plus">
+									<a href="#">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-twitter">
+									<a href="#">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-pinterest">
+									<a href="#">
+										<i class="fa fa-pinterest-p"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Photos</span>
+								</li>
+								<li class="ts-linkedin">
+									<a href="#">
+										<i class="fa fa-linkedin"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-youtube">
+									<a href="#">
+										<i class="fa fa-youtube"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets widget-banner">
+							<a href="#">
+								<img class="img-fluid" src="/images/banner/sidebar-banner2.jpg" alt="">
+							</a>
+						</div>
+						<!-- widgets end-->
+						<div class="post-list-item widgets">
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<li role="presentation">
+									<a class="active" href="#home" aria-controls="home" role="tab" data-toggle="tab">
+										<i class="fa fa-clock-o"></i>
+										Recent
+									</a>
+								</li>
+								<li role="presentation">
+									<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
+										<i class="fa fa-heart"></i>
+										Favorites
+									</a>
+								</li>
+							</ul>
+
+							<!-- Tab panes -->
+							<div class="tab-content">
+								<div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+
+								</div>
+								<!--ts-grid-box end -->
+
+								<div role="tabpanel" class="tab-pane ts-grid-box post-tab-list" id="profile">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports1.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+								</div>
+								<!--ts-grid-box end -->
+							</div>
+							<!-- tab content end-->
+						</div>
+						<!-- widgets end-->
+
+						<div class="ts-grid-box widgets category-widget">
+							<h2 class="widget-title">Categories</h2>
+							<ul class="category-list">
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Sports
+										<span class="ts-green-bg">25</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Fashion
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Technology
+										<span class="ts-blue-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Music
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Food
+										<span class="ts-yellow-bg">10</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets ts-grid-box post-tab-list ts-col-box">
+							<h3 class="widget-title">Populer Post</h3>
+							<div class="ts-overlay-style">
+								<div class="item">
+									<div class="ts-post-thumb">
+										<a href="#">
+											<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+										</a>
+									</div>
+									<div class="overlay-post-content">
+										<div class="post-content">
+											<h3 class="post-title">
+												<a href="#">Tourism in Dubai is boom international tourist</a>
+											</h3>
+											<ul class="post-meta-info">
+												<li>
+													<i class="fa fa-clock-o"></i>
+													March 21, 2019
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- ts-overlay-style  end-->
+
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">18 month shoots himself by gun </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/tech/tech2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">The body is a healing system. </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+
+						</div>
+
+						<div class="ts-grid-box widgets tag-list">
+							<h3 class="widget-title">Tags</h3>
+							<ul>
+								<li>
+									<a href="#">Tech</a>
+								</li>
+								<li>
+									<a href="#">Fashion</a>
+								</li>
+								<li>
+									<a href="#">Sports</a>
+								</li>
+								<li>
+									<a href="#">Football</a>
+								</li>
+								<li>
+									<a href="#">Styles</a>
+								</li>
+								<li>
+									<a href="#">Rech</a>
+								</li>
+								<li>
+									<a href="#">Lifestyle</a>
+								</li>
+								<li>
+									<a href="#">Technology</a>
+								</li>
+								<li>
+									<a href="#">Guide</a>
+								</li>
+								<li>
+									<a href="#">Food</a>
+								</li>
+								<li>
+									<a href="#">Animal</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- right sidebar end-->
+				<!-- col end-->
+			</div>
+			<!-- row end-->
+		</div>
+		<!-- container-->
+	</section>
+	<!-- single post end-->
+
+
+        
+		<!-- footer social list start-->
+		<section class="ts-footer-social-list section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="footer-logo">
+							<a href="#">
+								<img src="/images/logo/footer_logo.png" alt="">
+							</a>
+						</div>
+						<!-- footer logo end-->
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-8 align-self-center">
+						<ul class="footer-social">
+							<li class="ts-facebook">
+								<a href="#">
+									<i class="fa fa-facebook"></i>
+									<span>Facebook</span>
+								</a>
+							</li>
+							<li class="ts-google-plus">
+								<a href="#">
+									<i class="fa fa-google-plus"></i>
+									<span>Google Plus</span>
+								</a>
+							</li>
+							<li class="ts-twitter">
+								<a href="#">
+									<i class="fa fa-twitter"></i>
+									<span>Twitter</span>
+								</a>
+							</li>
+							<li class="ts-pinterest">
+								<a href="#">
+									<i class="fa fa-pinterest-p"></i>
+									<span>pinterest</span>
+								</a>
+							</li>
+							<li class="ts-linkedin">
+								<a href="#">
+									<i class="fa fa-linkedin"></i>
+									<span>Linkedin</span>
+								</a>
+
+							</li>
+						</ul>
+					</div>
+					<!-- col end-->
+
+				</div>
+			</div>
+		</section>
+		<!-- footer social list end-->
+
+		<!-- newslater start -->
+		<section class="ts-newslatter section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="ts-newslatter-content">
+							<h2>
+								Sign up for the Newsletter
+							</h2>
+							<p>
+								Join our newsletter and get updates in your inbox. We won’t spam you and we respect your privacy.
+							</p>
+						</div>
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-6 align-self-center">
+						<div class="newsletter-form">
+							<form action="#" method="post" class="media align-items-end">
+								<div class="email-form-group media-body">
+									<i class="fa fa-paper-plane" aria-hidden="true"></i>
+									<input type="email" name="email" id="newsletter-form-email" class="form-control" placeholder="Enter Your Email" autocomplete="off">
+								</div>
+								<div class="d-flex ts-submit-btn">
+									<button class="btn btn-primary">Subscribe</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- newslater end -->
+
+		<!-- footer start -->
+		<footer class="ts-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="footer-menu text-center">
+							<ul>
+								<li>
+									<a href="#">Support</a>
+								</li>
+								<li>
+									<a href="#">Suggestion</a>
+								</li>
+								<li>
+									<a href="#">Privacy</a>
+								</li>
+								<li>
+									<a href="#">About</a>
+								</li>
+								<li>
+									<a href="#">Our Ads </a>
+								</li>
+								<li>
+									<a href="#">Terms</a>
+								</li>
+							</ul>
+						</div>
+						<div class="copyright-text text-center">
+							<p>&copy; 2018, Vinazine. All rights reserved</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- footer end -->
+
+
+	</div>
+
+
+	<!-- javaScript Files
+	=============================================================================-->
+
+	<!-- initialize jQuery Library -->
+	<script src="/js/jquery.min.js"></script>
+	<!-- navigation JS -->
+	<script src="/js/navigation.js"></script>
+	<!-- Popper JS -->
+	<script src="/js/popper.min.js"></script>
+
+	<!-- magnific popup JS -->
+	<script src="/js/jquery.magnific-popup.min.js"></script>
+
+
+
+	<!-- Bootstrap jQuery -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script src="/js/owl-carousel.2.3.0.min.js"></script>
+	<!-- slick -->
+	<script src="/js/slick.min.js"></script>
+
+	<!-- smooth scroling -->
+	<script src="/js/smoothscroll.js"></script>
+
+	<script src="/js/main.js"></script>
+</body>
+
+</html>

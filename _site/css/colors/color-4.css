@@ -1,0 +1,35 @@
+.navbar-standerd .nav-menu > li.active > a,
+.navbar-standerd.nav-item .nav-menu > li > a:before,
+.navbar-standerd .nav-menu > li > a:hover,
+.ts-top-nav li a:hover,
+.navbar-standerd .nav-menu > li > a:hover,
+.ts-heading .view-all-link:hover,
+.ts-grid-item .ts-overlay-style .post-meta-info li.active,
+.post-title a:hover,
+.nav-menu .megamenu-tabs-nav > li.active a,
+.nav-menu > li .nav-dropdown li a:hover{
+    color: #e21e22 !important;
+}
+
+.ts-heading .ts-title:before,
+.widget-title:before,
+.widgets .ts-widget-newsletter,
+.ts-newslatter .newsletter-form .ts-submit-btn .btn:hover,
+.top-bar .top-social li.ts-date,
+.navbar-standerd.nav-item .nav-menu > li > a:before,
+.widgets ul li a:hover,
+.pagination li.active a, .pagination li:hover a{
+    background: #e21e22;
+}
+.widgets .ts-widget-newsletter .newsletter-form .btn:hover{
+    background: #232323;
+}
+.overlay-post-content .post-title a:hover{
+    color: #fff !important;
+}
+
+.post-content p{
+    font-size: 15px;
+    color: #232323;
+  }
+  

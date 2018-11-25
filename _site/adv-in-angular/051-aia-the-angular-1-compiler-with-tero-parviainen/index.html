@@ -1,0 +1,1775 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Basic Page Needs =====================================-->
+	<meta charset="utf-8">
+
+	<!-- Mobile Specific Metas ================================-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Site Title- -->
+	<title>051 AiA The Angular 1 Compiler with Tero Parviainen
+</title>
+
+	<!-- CSS
+   ==================================================== -->
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/animate.css">
+
+	<!-- IcoFonts -->
+	<link rel="stylesheet" href="/css/icofonts.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="/css/owlcarousel.min.css">
+
+	<!-- slick -->
+	<link rel="stylesheet" href="/css/slick.css">
+
+
+
+	<!-- navigation -->
+	<link rel="stylesheet" href="/css/navigation.css">
+
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="/css/magnific-popup.css">
+
+
+
+
+	<!-- Style -->
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="stylesheet" href="/css/colors/color-2.css">
+
+	<!-- Responsive -->
+	<link rel="stylesheet" href="/css/responsive.css">
+
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+	<div class="body-inner-content">
+		<!-- top bar start -->
+		<section class="top-bar v4">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 align-self-center">
+						<div class="ts-breaking-news clearfix">
+							<h2 class="breaking-title float-left">
+								<i class="fa fa-bolt"></i> Our Latest Episodes :</h2>
+							<div class="breaking-news-content float-left" id="breaking_slider1">
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end col-->
+
+					<div class="col-md-4 align-self-center">
+						<div class="text-right xs-left">
+							<div class="ts-date-item">
+								<i class="fa fa-clock-o"></i> Sunday, August 24</div>
+						</div>
+
+					</div>
+					<!--end col -->
+
+
+				</div>
+				<!-- end row -->
+			</div>
+		</section>
+		<!-- end top bar-->
+
+		<!-- ad banner start -->
+		<section class="header-middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 align-self-center">
+						<div class="header-logo">
+							<a href="/">
+								<img src="/images/logo/logo-web-small.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<div class="col-md-8 align-self-center">
+						<div class="banner-imgr">
+							<a href="index.html">
+								<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<!-- col end -->
+				</div>
+				<!-- row  end -->
+			</div>
+			<!-- container end -->
+		</section>
+
+		<!-- header nav start-->
+		<header class="header-standerd">
+			<div class="container">
+				<div class="row">
+
+					<!-- logo end-->
+					<div class="col-lg-12">
+						<!--nav top end-->
+						<nav class="navigation ts-main-menu navigation-landscape">
+							<div class="nav-header">
+								<a class="nav-brand mobile-logo visible-xs" href="index.html">
+									<!-- <img src="/images/footer_logo.png" alt=""> -->
+								</a>
+								<div class="nav-toggle"></div>
+							</div>
+							<!--nav brand end-->
+
+							<div class="nav-menus-wrapper clearfix">
+								<!--nav right menu start-->
+								<ul class="right-menu align-to-right">
+									<li class="header-search">
+										<div class="nav-search">
+											<div class="nav-search-button">
+												<i class="icon icon-search"></i>
+											</div>
+											<form>
+												<span class="nav-search-close-button" tabindex="0">✕</span>
+												<div class="nav-search-inner">
+													<input type="search" name="search" placeholder="Type and hit ENTER">
+												</div>
+											</form>
+										</div>
+									</li>
+								</ul>
+								<!--nav right menu end-->
+
+								<!-- nav menu start-->
+								<ul class="nav-menu">
+									<li class="active">
+										<a href="#">Podcasts</a>
+										<div class="megamenu-panel ts-mega-menu">
+											<div class="megamenu-lists">
+												<ul class="megamenu-list list-col-2">
+													<li class="active">
+														<a href="/js-jabber">JavaScript Jabber</a>
+													</li>
+													<li>
+														<a href="/ruby-rogues">Ruby Rogues</a>
+													</li>
+													<li>
+														<a href="/adv-in-angular">Adventures in Angular</a>
+													</li>
+													<li>
+														<a href="/my-javascript-story">My JavaScript Story</a>
+													</li>
+													<li>
+														<a href="/my-ruby-story">My Ruby Story</a>
+													</li>
+													<li>
+														<a href="/my-angular-story">My Angular Story</a>
+													</li>
+													<li>
+														<a href="/react-native-radio">React Native Radio</a>
+													</li>
+													<li>
+														<a href="/react-round-up">React Round Up</a>
+													</li>
+													<li>
+														<a href="/views-on-vue">Views on Vue</a>
+													</li>
+													<li>
+														<a href="/freelancers">The Freelancers' Show</a>
+													</li>
+													<li>
+														<a href="/iphreaks">iPhreaks</a>
+													</li>
+													<li>
+														<a href="/elixir-mix">Elixir Mix</a>
+													</li>
+													<li>
+														<a href="/the-dev-rev">The Dev Rev</a>
+													</li>
+												</ul>
+												<ul class="megamenu-list list-col-2">
+                                                    <li>
+                                                        <a href="#"><strong>Retired Shows</strong></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/tmtc-screencasts">Teach Me To Code Screencasts</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/teachmetocode">Teach Me To Code Podcast</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/rails-clips">Rails Clips</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/web-sec-warriors">Web Security Warriors</a>
+                                                    </li>
+                                                </ul>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#">Lifestyle</a>
+										<div class="megamenu-panel">
+											<div class="megamenu-tabs">
+												<ul class="megamenu-tabs-nav">
+													<li class="active">
+														<a href="#">Health</a>
+													</li>
+													<li>
+														<a href="#">Food</a>
+													</li>
+													<li>
+														<a href="#">Fashion</a>
+													</li>
+													<li>
+														<a href="#">Travel</a>
+													</li>
+												</ul>
+												<div class="megamenu-tabs-pane active">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Can't shed those Gym? The problem might be in</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Smart packs parking sensor tech and beeps</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Deleting fears from the brain means you might never</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel4.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+	
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-1.html">Technology</a>
+									</li>
+									<li>
+										<a href="#">Video</a>
+										<div class="megamenu-panel">
+											<div class="row">
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech4.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-2.html">Travel</a>
+									</li>
+									<li>
+										<a href="#">Features</a>
+										<ul class="nav-dropdown">
+											<li>
+												<a href="#">Category layout</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="category-1.html">Category layout 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-2.html">Category layout 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="category-3.html">Category layout 3</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-4.html">Category layout 4</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-5.html">Category layout 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-6.html">Category layout 6</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Posts Formate</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="single-post-1.html">Single Post 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-2.html">Single Post 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-3.html">Single Post 3 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-4.html">Single Post 4 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-5.html">Single Post 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-6.html">Single Post 6</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-7.html">Single Post 7</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-8.html">Single Post 8</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-9.html">Single Post 9</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-10.html">Single Post 10</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Pages</a>
+												<ul class="nav-dropdown">
+													<li>
+														<a href="author.html">Author</a>
+													</li>
+													<li>
+														<a href="404.html">404 </a>
+													</li>
+	
+												</ul>
+											</li>
+										</ul>
+									</li>
+	
+								</ul>
+								<!--nav menu end-->
+							</div>
+						</nav>
+						<!-- nav end-->
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- header nav end-->
+
+        
+	<!-- single post start -->
+	<section class="single-post-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<ol class="breadcrumb">
+						<li>
+							<a href="/">
+								<i class="fa fa-home"></i>
+								Home
+							</a>
+						</li>
+						<li>
+							<a href="/adv-in-angular"></a>
+						</li>
+						<li>Travel</li>
+					</ol>
+					<!-- breadcump end-->
+					<div class="ts-grid-box content-wrapper single-post">
+						<div class="entry-header">
+							<h2 class="post-title lg">Swiss authorities say Uber drivers should treated as employees</h2>
+							<ul class="post-meta-info">
+								<li>
+									<a href="#" class="post-cat ts-yellow-bg">Travel</a>
+								</li>
+								<li class="author">
+									<a href="#">
+										<img src="/images/avater/author.png" alt=""> Donald Ramos
+									</a>
+								</li>
+								<li>
+									<i class="fa fa-clock-o"></i>
+									March 21, 2019
+								</li>
+								<li class="active">
+									<i class="icon-fire"></i>
+									3,005
+								</li>
+								<li class="share-post">
+									<a href="#">
+										<i class="fa fa-share"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- single post header end-->
+						<div class="post-content-area">
+							<div class="post-media post-featured-image">
+								<a href="/images/news/travel/travel2.jpg" class="gallery-popup">
+									<img src="/images/news/travel/travel2.jpg" class="img-fluid" alt="">
+								</a>
+							</div>
+							<div class="entry-content">
+								
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">01:33 - Tero Parviainen Introduction</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://twitter.com/teropa">Twitter</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://github.com/teropa">GitHub</a> </span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://teropa.info/">Blog</a></span></li>
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://teropa.info/build-your-own-angular">Build Your Own AngularJS with Tero Parviainen</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">02:28 - Getting Started Digging the Angular Source Code</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://docs.angularjs.org/api">Angular Documentation</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">05:05 - </span><a style="text-decoration: none;" href="https://docs.angularjs.org/guide/compiler">The Angular Compiler</a> </span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">06:13 - Advantages of Understanding the Compiler</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">07:42 - Directives</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">10:21 - Combining Controllers and Directives</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">12:43 - Routing</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">13:42 - What do we need to know about the Directive API?</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">15:12 - Transclusion</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">17:46 - Getting Started with the Compiler</span></span></p>
+
+<ul dir="ltr">
+ 	<li><span style="font-size: 14px;"><a style="text-decoration: none;" href="https://www.youtube.com/watch?v=jIo5UmA5cGg">Tero Parviainen: Inside The AngularJS Directive Compiler</a></span></li>
+</ul>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">19:08 - How much do you need to know?</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">20:55 - Why use the compile phase?</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">22:02 - Angular 2</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">25:02 - The Clojure and JavaScript Worlds</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><span style="background-color: transparent; color: #000000; font-family: arial;">Picks</span></span></p>
+<p dir="ltr"><span style="font-size: 14px;"><a style="text-decoration: none;" href="http://teropa.info/build-your-own-angular">Build Your Own AngularJS with Tero Parviainen</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Lukas)</span>
+<a style="text-decoration: none;" href="http://www.ussoccer.com/womens-national-team">The U.S. National Women’s Soccer Team</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Joe)</span>
+<a style="text-decoration: none;" href="http://www.imdb.com/title/tt1235547/">Better Off Ted</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Joe)</span>
+<a style="text-decoration: none;" href="http://www.imdb.com/title/tt2096673/">Inside Out</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Ward)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/B00JO9Y176/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00JO9Y176&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=OIQYBVN2TZXHXR7V">Aftershokz AS500 Bluez 2 Open Ear Wireless Stereo Headphones</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Chuck)</span>
+<a style="text-decoration: none;" href="http://www.paulgraham.com/progbot.html">Paul Graham: Programming Bottom-Up</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Tero)</span>
+<a style="text-decoration: none;" href="http://www.amazon.com/gp/product/0393351599/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0393351599&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=KPGGHL4SZP7HDQCT">Flash Boys: A Wall Street Revolt by Michael Lewis</a><span style="background-color: transparent; color: #000000; font-family: arial;"> (Tero)</span></span></p>
+
+<h3>Transcript</h3>
+
+<strong>WARD:</strong> He's being really quiet to realize what a big mistake this was to come on the show.
+
+<strong><em>[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco and New York and LA get on JavaScript developers providing to put the salary and equity upfront. The average JavaScript developer gets an average of 5-15 introductory offers and an average salary of over $130,000 a year. You just can either accept an offer and go right into interviewing with the company and neither with that any continuing obligations. It's totally free for users, and when you're hired, they'll also give you a $2,000 signing bonus as a "Thank You" for using them. But if you use the Adventures in Angular link, you'll get a $4,000 bonus instead. Finally, if you're not looking for a job but know someone who is, you can refer them to Hired to get a $1,337 bonus if they accept the job. Go sign up at Hired.com/AdventuresinAngular.]</em></strong>
+
+<strong><em>[Does your team need to master AngularJS? Oasis Digital offers Angular Boot Camp, a three-day, in-person workshop class for individuals or teams. Bring us to your site or send developers to ours -- AngularBootCamp.com.]</em></strong>
+
+<strong><em>[This episode is sponsored by Wijmo 5, a brand new generation of JavaScript Controls. A pretty amazing line of HTML5 and JavaScript products for enterprise application development. Wijmo 5 leverages ECMAScript 5 and each control ships with AngularJS directives. Check out the faster, lighter and more mobile Wijmo 5.]</em></strong>
+
+<strong><em>[This episode is sponsored by Digital Ocean. Digital Ocean is the provider I use to host all of my creations. All the shows are hosted there, along with any other projects I come up with. Their user interface is simple and easy to use. Their support is excellent. And their VPSes are backed on solid-state drives and are fast and responsive. Check them out at DigitalOcean.com. If you use the code “angularadventures” you'll get a $10 credit!]</em></strong>
+
+<strong>CHUCK:</strong> Hey, everybody! Welcome to Episode 51 of the Adventures in Angular show. This week on our panel, we have Ward Bell.
+
+<strong>WARD:</strong> Hello!
+
+<strong>CHUCK:</strong> Lukas Reubbelke.
+
+<strong>LUKAS:</strong> Hello!
+
+<strong>CHUCK:</strong> Joe Eames.
+
+<strong>JOE:</strong> Hey, everybody!
+
+<strong>CHUCK:</strong> I'm Charles Maxwood from DevChat.tv. We've got a special guest this week, and that's Tero Parviainen.
+
+<strong>TERO:</strong> Nailed it.
+
+<strong>WARD:</strong> [Laughs] [Incomprehensible]
+
+<strong>TERO:</strong> [Chuckles]
+
+<strong>CHUCK:</strong> Do you want to introduce yourself, Tero?
+
+<strong>TERO:</strong> Sure! I'm a programmer based in Helsinki, Finland. I've done a bunch of web, full stack development over the years, like a background in Java and Ruby and Clojure. But for the past couple of years, I've pretty much specialized in front-end development and doing web applications as an independent contractor for different companies here in Helsinki, and I've mostly been doing that with Angular. As part of that story, I've also started writing a bunch of things about Angular. I've written some articles and I'm also in the process of writing a book about Angular "Build Your Own Angular". And as part of that, I've gotten some internals of that framework in a much more depth than I really ever wanted to. That's where I am at the moment.
+
+<strong>CHUCK:</strong> Alright.
+
+<strong>LUKAS:</strong> Tero, if you don't mind, this is what I would like to know. How did you actually get into just digging into the Angular source code? And, what was your first and immediate reaction within the first 30 seconds of seeing it?
+
+<strong>TERO:</strong> The reason why I went into it is, I started using Angular and people were saying that it's really difficult to learn and there's like bunch of magic in it; all the change detection stuff and the Directives and things like that. And, I always feel like very uncomfortable using APIs, and then frameworks, and libraries that I don't understand fully. I've had this experience with a bunch of different things in the past, like there are parts of moving on Rails where it's something I used for years that I still don't quite know how they work. And it's not nice to use APIs like that because you always have this feeling that you probably could do whatever you're doing better in a more idiomatic way or a more concise way or whatever if you only knew how to do that. And it seemed like with Angular, there was a big chance of that happening again because people were saying that it was difficult and the documentation wasn't there or things like that. So, what I started to do is, I started to explore the source code. I actually started from the Scopes and the change detection system because that was something I hadn't really been in any of the frameworks I had used before so I wanted to know how that works and sort of demystify it for myself. And then I ended up writing an article about that and then the book.
+
+So yeah, first 30 seconds... I can't really remember. Maybe it's just something I wiped from my mind because it was a shock or something. But I think, one of the first things that came to my mind was that, there was a lot of code, like there's just a wall of code because the Angular 1 code base is written so that there's not a huge amount of files in it, but there are very large files in it. When you open up one of them, it's daunting to look at something like root scope JS or compiler JS when there are more than a thousand lines of code in there. That's one of the reasons why I actually started to learn it in the strategy that I [incomprehensible], which was to actually reverse engineer it to write my own version of it, or like a clone of it and going to force myself to learn from the first principles, what's going on there, instead of trying to approach the existing code like [incomprehensible] and try to understand that.
+
+<strong>CHUCK:</strong> We've got you here to talk about the Compiler, which I'll admit I had to go look up [laughs]...
+
+<strong>TERO:</strong> Right.
+
+<strong>CHUCK:</strong> Because I just took for granted that Directives work, I guess...
+
+<strong>TERO:</strong> Yeah.
+
+<strong>CHUCK:</strong> So, the Compiler is the thing that goes through the HTML code and identifies the Directives you have in there and then makes them work?
+
+<strong>TERO:</strong> Exactly. The Compiler is sort of internal Angular facility that makes it possible for us to use Directives. What it does is, it goes through the whole HTML DOM tree that you have in your host page and your templates and finds all the Directives that match and applies them to those elements. While doing that, it'd also goes over all the Directive definition objects that you have; all the configuration objects that you have there that have to do with linking and scope creation and scope binding [incomprehensible] Controllers, and Templates, and Transclusion, all these different features are all things that are implemented by the Compiler. So everything that you can do with Directive really is things that are driven by the Directive Compiler.
+
+<strong>CHUCK:</strong> I have to ask.. I came at Angular as kind of I-want-to-just-make-it-work. What are the advantages to me to actually understanding the Compiler as opposed to just taking for granted that the Directives will do what I want them to.
+
+<strong>TERO:</strong> To me, at least, it was that the Directive API itself is so difficult to understand. It's a very big API with I think 15 different configuration options and who knows how many combinations of those options that you can have.
+
+I think what happens with most people, at least what happened with me initially, was that you end up learning a sort of subset of that API, but you don't ever bother learning everything about it and then you just use that subset like you know that there's a link function that you can have and you can do things in there. And, that's fine! You can get your problems solved like that. It's great. But what I tend to see happening is that people end up doing things in the Directives that they could accomplish much more easily by using more of the Directive API. They end up doing some DOM manipulation that you could replace with Transclusion or something like that.
+
+I just wasn't able to pick up all the nuances of that API from the API and the documentation itself. And I just want to understand a little bit more about what goes on inside because that's the ultimate documentation, it's the source code itself.
+
+<strong>WARD:</strong> May I back up a little bit? Because we have our applied audience who are Angular folks so I'm going to tell you, the way I came to Angular, I don't think I wrote a Directive for at least 2 months. I was very happy for developing in Angular and I saw that the Directive was sitting out there and that the API was, well, let's just say was bizarre. But it didn't trouble me because I came equipped with enough Directives to make it useful. I didn't actually write a Directive for a very long time. Is my experience unusual in that respect? And why is it that when I read about people talking about Angular like the thing they go for is Directives and the thing they think is hard is Directives, whereas, to me, it's like "why is everybody obsessing about Directives?" So, tell me, what's crazy about my experience or not? And, what's the big deal about Directives?
+
+<strong>TERO:</strong> In my opinion, it's not crazy at all because that's, at least, my experience as well. I started using just ngController and Controllers because I knew Controllers were coming from Backbone or something like that. I thought that Directives were this thing that you use for special purposes when you need to do something to extend HTML that you'd just write your app using Controllers. That's what I did for a good while. But it started to shift at some point when I started thinking that you could actually get a lot more mileage out of this idea that you can extend HTML while coming up with your own elements and attributes that you wish existed in HTML, but don't. And Directives are the way to do that. I think that's actually pretty much the original idea of Angular back from 5 or 6 years ago, which was to have this HTML-DSL for applications. At some point, it seems that it wasn't really being used like that by the community, which has used Controllers and treated it as sort of MVC framework.
+
+But then, for myself and I think more generally in the community Directives have, people have started to use them in more scenarios in the past year or so especially when after the material about the Angular 2 has been started to come out where Directives have a much more central role in the sets of components. I think, that's where Angular itself and the community seems to be going at the moment; not using bare Controllers as much as having Directives for pretty much everything.
+
+<strong>WARD:</strong> I want to ask a little bit about that because that is a dramatic move and the whole Directive languages, we all agree, is so much harder. So, somebody is approaching their own application. I've seen that shift, too, like they're saying "Never write a Controller; always put in the Directive", I probably over simplifying that. But, what's the criteria by which you think somebody approaching their application should say, "That's the right place for the MVC-style, for the Controller-style", and over there, that problem set is the right kind of target for thinking about the Directive-style. First of all, do you see it that way? Do you see that kind of developer coming from that kind of decision? And if so, how would you guide them?
+
+<strong>TERO:</strong> What I tend to do recently is not treat this as 2 different ways to do it, but actually combine those 2 by actually still using Controllers, by having each Controller paired with a Directive, which is pretty much essentially what components in Angular 2 will be like. I still have the Controller, but it always comes with a Directive that's applied to some element. And then the big reason, the good thing about that is that you can have Directive with Isolate Scopes. That's, at least for me, the big difference. Whereas with ngController or Controllers without Directives always share this surrounding scope and have this prototypical scope inheritance going on, and that causes a lot of confusion for a lot of people with all the shadowing that goes on, and more generally with the fact that all the state on the scope is being shared between all this different Controllers in a way that's not controlled them anyway.
+
+<strong>WARD:</strong> Didn't that go away with the Controller S pattern? With the Controller S pattern, you're really insulated from the outside scope, right?
+
+<strong>TERO:</strong> Yeah, but by convention, yeah. From your expressions, you can see which Controller things come from, but they're still there; you can still access them by aliasing Controllers so they're still there.
+
+But with Isolate Scopes, actually, they just won't be there so you have true encapsulation, where the data is just not going to be on the scope. So, it's a stronger guarantees about modularity there.
+
+<strong>WARD:</strong> Okay. But all the routing systems like the UI-Router and the new router and all that other stuff are thinking in terms of, again, of Controllers rather than Directives. So, how do you cross that boundary?
+
+<strong>TERO:</strong> What I usually do is, for each route, I tend to have one Controller which receives any data from the route that it needs. But all it really does is have a template that instantiate one root component for that View, and then everything else downwards from that is all Components.
+
+I think, with the new router that's coming out, it's actually going to change a bit since it's supposed to be able to have route directly to Component instantiate. Even that kind of bridging won't be needed anymore. I'm not sure if that's going to be the case for Angular 1, but at least for 2, that's going to be the case, I think.
+
+<strong>WARD:</strong> Yeah, that sounds right for Angular 2. Okay! So, that helps position me Controller versus Directive and where your thinking is. Now, [chuckles] I'm more comfortable having you say, "Okay, folks, now that I'm just stirring you towards Directives, here is what you need to know." So, what do we need to know?
+
+<strong>TERO:</strong> Well, yeah, quite a lot of things to know about the Directive APIs; you can do anything really with it because the API is so huge. But one thing, at least, is that for use case which we're talking about for Components, there are really I think 3 or 4 options that you need to understand. One is that, when you make a Component Directive, you have the scope attribute on the Directive definition object, which you can define this Isolate Scope and you want to understand how those work and how you can pass things into a Component Directive from outside and how those bindings behave when things change over time. And then you want to know how templates work and how you can have this Directives that actually provide their own internal HTML, and optionally, you might want to know about how Transclusion works and how you can actually pass in pieces of HTML from outside to that Component. And finally, you want to understand how Controllers integrate with Directives and then that you can have this Controller attribute on your Directive definition object that gets paired with the Directives in which you then have the actual logic of that component.
+
+Those, I think, came up with 3 or 4 attributes in total that, I think, Component Directives should have, and that you can get a lot of mileage out of those.
+
+<strong>WARD:</strong> For those of our audience who gag on the very word "Transclusion", can you translate that into the very simplest finish that you...
+
+<strong>TERO:</strong> [Laughs]
+
+<strong>WARD:</strong> [Laughs] How would you tell somebody what Transclusion is without ever saying or using the word Transclusion? It's actually, in my view, something that people would recognize as something that they would want to do but the word gets in the way. So, how would you tell people what they're really dealing with so they don't get scared?
+
+<strong>TERO:</strong> Right. For the use case for Transclusion is. it's like you have some Component in your application. I think the economical example of something like that would be like a tab bar with a tab component. So you have a component that sets itself up as a tab with its own template that sets up the various elements and attributes that are needed for a tab. But then you want, as the user of that tab Directive, to actually provide the actual content that goes inside the tab from outside. What you do there is, in your HTML, you type in the tab element and then inside, it's you nest whatever HTML you want to go inside the tab. The way you can make that work with Angular is you can have this Directive tab that has its own template, but then you can specify this Transclude option on the Directive, which gives you the possibility to get the HTML that was nested inside, whether that was applied, and put it somewhere inside the template of that Directive where you want it to go inside somewhere in that tab [incomprehensible], so essentially, just like passing in. A no argument to a Directive which happens to be a bunch of HTML or tree of DOM nodes. That's really what it is. Yeah, the API gets in the way and the word gets in the way. But as a concept, I don't think that's complicated and it's very useful in many scenarios.
+
+<strong>WARD:</strong> Right. So if I have a page and has got rainbows and unicorns and bunnies and I want to have those in separate tabs, you're just saying that right those and then the goal is to move bunnies into the bunny Directive and so forth, that kind of thing?
+
+<strong>TERO:</strong> Exactly, yeah. In Angular 2, I think, the same is accomplished with web components standard where I think you have what it called "Content Text" or something that actually in the standard way. You can say that "I want to shift this content from the component user to inside the component to this location." So, it's really a concept that's useful outside of Angular as well as in the web component standard just not by that name.
+
+<strong>CHUCK:</strong> So, if people want to dig into the compiler and see where all of these stuff is implemented so they can understand better how it does this stuff, where do people get started? Do you just open up the compiler in JS file? Or...
+
+<strong>TERO:</strong> Yeah, you can do that...
+
+<strong>JOE:</strong> I think somebody has recently given an awesome talk that explains this.
+
+[Chuckles]
+
+<strong>TERO:</strong> Yeah. So you can open up that file, it's just that it's really scary. I think something like 15,000 lines of JavaScript code plus another thousand or so of documentation. It's, by far, I think the biggest thing in the whole Angular code base, and it's really kind of dense code, and I've spent several months exploring it myself. I wouldn't necessarily recommend doing that to anyone else, but yeah, I did a talk about this at ng-vegas and before that, at NG-NL in Amsterdam where I essentially introduced the most fundamental parts of the compiler from the ground up, which was hopefully will give someone who's interested in that some pointers on how to get started with that.
+
+And there's a whole treat-its-own on the Compiler in my book, which I think there's about 300 pages on Compiler JS in that book because it's so big and so complicated. I think it makes sense to spend a lot of time on that because it's hard to understand and it's really essential to how Angular works.
+
+<strong>WARD:</strong> How deep do we need to understand it in order to be able to write Directives effectively, the kind that I would normally write, not something exotic. Do I really need to know all of that stuff, Tero? Or, is there a straightforward way for me to do the straightforward things?
+
+<strong>TERO:</strong> Not necessarily everything. I don't think to be able to use this, say, something like Components or something like that because it could be a really failed abstraction if everyone had to understand all the implementation details in order to use it. And, I don't think it's that bad. But, when you get into trouble, when it doesn't behave like you expect, when something isn't working or you get an exception or just something isn't being applied, I find that having insight into how it works gets you into those kinds of problems. It's a lot quicker because you can actually think about what's going on there instead of trying to formulate the Google search for the same [incomprehensible] and trying to find out what's going on. So, it's really a tradeoff between how much headaches you have been getting from the Compiler as you've been doing Angular development and whether spending time learning the internals will actually help you save time during your [inaudible] work. That's actually the reason for me. And I found that I can solve problems much quicker when I'm doing applications, when I know how the thing I'm using is actually doing what it's doing. And as a bonus, you get to do all these esoteric feature that aren't documented [inaudible] and can do things that most people don't even think of doing because they're not known that well and not documented that well.
+
+<strong>WARD:</strong> That reminds me of something that we kicked around several months ago which is -- and I think, Lukas, you raised the question -- that with any Directive, there's a Compiler phase and a link phase and almost all of us spend all of our time just thinking about the link phase and we couldn't come up with really very many great reasons to use the Compile phase. You got any insights on that [laughs]?
+
+<strong>TERO:</strong> I don't think I've ever, in any of my applications (I've done many things really in the Compile phase). I think the only reason you would be interested in that is when you have to do some DOM manipulation and you want to save some cycles on doing that in Compile phase because when you have like [incomprehensible] or something, you get compiled once, but you can't get links several times, for example, for each item in some array for different clones. So, when you want to manipulate at the DOM, you can do it just once before the thing gets cloned so you can save [inaudible] really. But outside of that, I don't really see any points in doing anything there.
+
+<strong>WARD:</strong> Okay, I'm going to ask you a forward-looking question. We know that Angular 2 is coming and it's going to be different. What kinds of things -- by that mean, you're going to have a similar constructs in Angular 2 to try and cope with the same kinds of tasks that we address with the Directive -- what are you hoping to see in terms of capabilities they carried forward and what are you hoping to see in the way of simplifications?
+
+<strong>TERO:</strong> I'm hoping to have this component style, and I know it will be carried over to Angular 2 and it's refined to be able to construct the component, and I really hope to see a lot more of that as well like things that are already in the Directive API, but the API isn't good enough for something that's too hard to use that people don't use them as much, and get those streamlined into separate things that are understandable, and not all are part into that single configuration object. So most of all, I'm looking forward to having the current features in a nicer package because I think you can do pretty much everything we want to do with the current API; it's just some of it is too difficult.
+
+That's my main hope for Angular 2. I'm also looking forward to the actual digging into the source code of Angular 2 as well because I'm interested in that. Base on what I've seen so far, it seems that it's going to be a lot easier to do that for a couple of reasons. One is that it seems to have been actually designed to the code right now, whereas the current version is such grown over the years with features being added to the same file, which is the reason it has ended up in the state that it is currently. For example, the compiler in Angular 2 is this whole sub-system of tens of different classes that have different responsibilities that actually are well-defined so you can actually think about feature-like templates in isolation of everything else. The second reason is that, it's in TypeScript. And whatever you think about of TypeScript, one thing is that it makes reading code a lot easier because of the Type Annotations that you have in there. So when you look at a function inside the Angular code base, you can see its arguments and it's returned by you, the types of those right from the function signature without having to dig into the function implementation and try to figure out what this function is supposed to return and what it takes, which is what you have to do with ES5.
+
+<strong>WARD:</strong> That's a good observation. I guess you know what your next book is going to be -- Inside Angular 2!
+
+<strong>TERO:</strong> Maybe!
+
+<strong>WARD:</strong> [Laughs]
+
+<strong>TERO:</strong> I hope the quality of the code won't be too good because then everyone would understand it without having to buy a book.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>WARD:</strong> Exactly. Well, you can have a pamphlet. I have one completely sideways question for you. You said that you had spent a lot of time in Clojure, how does that inform your thinking? Is there any relationship in your mind between what's going on in the Clojure world and what's going on in the JavaScript world?
+
+<strong>TERO:</strong> Yeah, there's a lot of things that, especially in the JavaScript world, that the Clojure including form, especially right now with what's going on, with what David Nolan is doing with Om library for ClojureScript, which is a React wrapper that has big ideas based on immutable data structures and things like that. And actually, just today, I was watching what they're doing right now integrating GraphQL and pull-based queries into the Om library. What I immediately thought about was that I want someone to do this for Angular 2 like have query annotations on components that will actually declaratively specify what data an Angular components needs and have the system pull that in using something like real-life from the server. I think it's just begging to being implemented something like that, and they're doing that in ClojureScript in Om. And just more in general things like immutable data which is going to be a possibility for us to use in Angular 2 application; it's the Clojure, well, it's all about that and they've been doing that for years. They're building substantial web applications now all based on immutable data. I'm really looking forward to exploring, bringing those things into Angular 2. It's not really practical to do that with Angular 1.
+
+<strong>WARD:</strong> Yeah, that will be an interesting -- immutability will have an interesting effect on the style in which we write our applications. It's not so much what's in Angular 2 as it is in terms of how we think about arranging things, right?
+
+<strong>TERO:</strong> Yeah, definitely. Yeah, exactly. And the whole architectural forcing you to do one-way data flow, for example, because you can't do mutation with components; you have to go to the Root and things like that. It'll completely change the way architecture applications. And I'm liking what I'm seeing than doing in the Clojure world, especially with Angular 2 and the way the components work there. It would be a nice fit, I think.
+
+<strong>LUKAS:</strong> One more very technical question, Tero... What is the hottest place in Finland?
+
+<strong>TERO:</strong> Well...
+
+[Laughter]
+
+<strong>TERO:</strong> Hottest place in Finland... Alright, now, it seems to be my apartment because I don't have airconditioning, and it's pretty hot in here right now.
+
+<strong>LUKAS:</strong> I was going to say, the sauna, but I think we just said the same exact thing.
+
+<strong>WARD:</strong> Oh, god...
+
+[Laughter]
+
+<strong>TERO:</strong> Yeah, yeah, we all live in saunas in Finland.
+
+<strong>LUKAS:</strong> [Laughs]
+
+<strong>WARD:</strong> I think that's the only thing we really know about Finland over here.
+
+<strong>CHUCK:</strong> [Laughs] Yeah.
+
+<strong>TERO:</strong> We do have Angry Birds and things like that we're really proud of.
+
+<strong>CHUCK:</strong> Awesome. Alright, should we do some picks? Lukas, do you want to start this off with picks?
+
+<strong>LUKAS:</strong> Sure! So I'm going to spite everyone, and I'm actually going to choose Tero's book as my pick, "Build Your Own AngularJS". I purchased it, and it is a treasure trove of information. It's actually quite, quite large so I've just spent going through it buffet-style and picking up the pieces that I like, but it's very well-written, lots of very good examples and kind of meat to dig your teeth into so well done, Tero.
+
+<strong>TERO:</strong> Nice. Thank you!
+
+<strong>CHUCK:</strong> Alright, Joe, do you have some picks for us?
+
+<strong>JOE:</strong> You bet. I'm in a very quickly pick, the "U.S Women's National Soccer Team". Chuck, if you're hoping to pick that, sorry, buddy.
+
+<strong>CHUCK:</strong> I know. That's why I hate going last, but...
+
+<strong>JOE:</strong> [Laughs] Yup. They won the Women's World Cup, they're awesome, and I cannot see enough good things about them. And then, I'm also going to pick a TV Show that was on TV quite a few years ago. It's called "Better Off Ted". You can find that on Netflix. I think it only had one season, but it was awesome. Hilarious show if you liked Seinfeld, the office arrested development, parks, those kinds of corky humor shows. It's particularly appealing because it's set in an office space where they develop all kinds of things, doing a lot of research and development, and it's nice corky humor sitcom. Very funny; love watching just some hilarious episodes. So, that's my pick!
+
+<strong>WARD:</strong> And I thought you watched Alf and Three's Company.
+
+<strong>CHUCK:</strong> [Laughs]
+
+<strong>JOE:</strong> I watched those, too!
+
+<strong>CHUCK:</strong> There goes Ward, dating himself again.
+
+<strong>JOE:</strong> Uhuh...
+
+<strong>CHUCK:</strong> Ward, what are your picks?
+
+<strong>WARD:</strong> Actually, I wanted to watch the Howdy Duty show, but that's really going back. Actually, I'm not going tech today. I'm going to pick "Inside Out", the Pixar movie, which I was surprised by how intelligent and funny and thoughtful that was. I don't happen to have an 11-year old daughter in my life, but I thought they were real insights into what's going on as children mature and what happens to the emotions. It's actually based on some real science in there, and yet it never fails to be entertaining. I hoped there's something in there for kids because for an adult, it was very strong. I don't know how many of you have seen it, but it's definitely worth your money.
+
+<strong>CHUCK:</strong> Yeah, I enjoyed that, too. Alright, I've got a quick pick. I got some headphones a couple of weeks ago and I just really like them. They're the "Bluez 2 AfterShokz". They've got the, I don't know what you call it, the headband that goes behind your head, and that part I don't particularly love, but it holds the pads in place for the phone conduction, the phone conduction headphones and so they sit right in front of your ear and they sound great and I really like them, so I'm going to pick those. They're not particularly cheap, but they're really nice.
+
+That's my pick. Tero, do you have some picks for us?
+
+<strong>TERO:</strong> Yeah! I have a couple of picks. One is an old essay by Paul Graham called "Programming Bottom-Up" in which he writes about Lisp, and the fact that Lisps are these extensible programming languages. What happens with them is that when people write applications in the Lisps, they don't just write their applications in Lisps, but they actually write DSLs by using the extension features of the languages that give them a higher level languages in which writing applications is easier. What you end up doing is you'll evolve 2 things, which is your application code and the DSL in which you write that application code. The reason I'm picking it is because I think we have that, too, in Angular. We have Directives which give us an extensible DOM. So, what we can do, what I often find useful to do when I'm running a new feature for an app is going to the HTML and just dream up the perfect elements and attributes and events that I hope existed in HTML that would make writing that feature really easy. And then when I'm done with that, I can go into the other side and implement the Directives that make that dream HTML a reality. I think that that idea from Lisp that you can do with macros applies well to what we can do with Directives in Angular.
+
+My second pick is a book I recently read called "Flash Boys", which is about high frequency trading. It reads like a thriller, almost. It's about the fact that really trading, stock trading is not done by traders directly anymore, specifically computers talking to each other. It goes into help people exploit this by a game in the system by doing things like co-locating their computers with the computers of the stock markets to game [inaudible] see some things like that. It's kind of really scary stuff and I really enjoyed reading it.
+
+Those were my picks!
+
+<strong>CHUCK:</strong> Alright. Super cool! Well, if people want to know more about you or your book or anything else that you're working on, do you want to let us know where all that is?
+
+<strong>TERO:</strong> Sure! Everything is on my website, teropa.info, that's my blog. I have the link to my book page in there and I have the link to my Twitter and GitHub and everything on that website.
+
+<strong>CHUCK:</strong> Alright! Well, we'll go ahead and wrap up the show. Thank you all for listening. Leave us a review on iTunes. I'll catch you all next week!
+
+<strong><em>[This episode is sponsored by Mad Glory. You’ve been building software for a long time and sometimes it gets a little overwhelming; work piles up, hiring sucks, and it's hard to get projects out the door. Check out Mad Glory. They are a small shop with experience shipping big products. They're smart, dedicated, will augment your team, and work as hard as you do. Find them online at madglory.com or on Twitter at @madglory.]</em></strong>
+
+<strong><em>[Hosting and bandwidth provided by The Blue Box Group. Check them out at bluebox.net]</em></strong>
+
+<strong><em>[Bandwidth for this segment is provided by Cache Fly, the world’s fastest CDN. Deliver your content fast with Cache Fly. Visit cachefly.com to learn more.]</em></strong>
+
+<strong><em>[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you wanna support the show? Now you can. Go to adventuresinangular.com/forum and sign up today!]</em></strong>
+
+								<p class="text-bg">Leidanett was living a life of almost unfathomable despair a year ago no one knows (1995)</p>
+								<p>
+									<span class="tie-dropcap">A</span> farmers in the US’s South—faced with continued failure in their efforts to run on successful farms their
+									launched a lawsuit claiming that “white racism” is to the blame for their inability to produce crop yields.
+								</p>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<blockquote>
+									Black farmers in the US’s South faced with continued failure in their efforts to run the successful farms launched a lawsuit
+									<cite>Steve Jobs</cite>
+								</blockquote>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should
+								</h3>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<p>
+									<img class="float-left" src="/images/news/news-details/post_style.jpg" alt="">
+								</p>
+								<h3>For the first time the Secretart end</h3>
+								<ul>
+									<li>But there was also no shortage of new</li>
+									<li>Prasad made these comments on</li>
+									<li>He gave details of the answers provided</li>
+									<li>The government forthcoming in before</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South faced with the thecontinu failure in their own efforts to run and succe farms is to blame
+									for their inability to an sell an black farme a subpar product at
+								</p>
+								<p>
+									the most Mid-South Farm on Gin Show in them March 2017.Despite above average rainfall the black farmers saw limited
+								</p>
+
+								<div class="gallery-img">
+									<a href="/images/gallery/gallery1.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery1.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery2.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery2.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery3.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery3.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery4.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery4.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery5.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery5.jpg" alt="">
+									</a>
+								</div>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<div class="post-video">
+									<img class="img-fluid" src="/images/news/travel/travel9.jpg" alt="">
+									<div class="post-video-content">
+										<a href="https://www.youtube.com/watch?v=_0UO1NcheAE" class="ts-play-btn">
+											<i class="fa fa-play" aria-hidden="true"></i>
+										</a>
+										<h3>
+											<a href=""> For the first time the Swiss State Secretart for Economic indicated that Uber taxi</a>
+										</h3>
+									</div>
+								</div>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should be classed
+									as employees
+								</h3>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability to produce crop yields and on equivalent to that switched
+									seeds in order to sell black farmers a subpar product at the Mid-South Farm & Gin Show in March 2017. Despite above
+									average rainfall, the black farmers saw limited soybean yield from the Stine seeds during the 2017 harvest.
+								</p>
+								<p>
+									<a href="">
+										<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+									</a>
+								</p>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair
+								</h3>
+								<ul>
+									<li>
+										But there was also no shortage of news for the worlds of film.
+									</li>
+									<li>
+										Prasad made these comments on behalf of the Treasury benches.
+									</li>
+									<li>
+										He gave details of the answers provided by Defence.
+									</li>
+									<li>
+										The government has been forthcoming in declaring the aircraft.
+									</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability
+								</p>
+							</div>
+							<!-- entry content end-->
+						</div>
+						<!-- post content area-->
+						<div class="author-box">
+							<img class="author-img" src="/images/avater/author.png" alt="">
+							<div class="author-info">
+								<h4 class="author-name">Elina Themen</h4>
+								<div class="authors-social">
+									<a href="#" class="ts-twitter">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<a href="#" class="ts-facebook">
+										<i class="fa fa-facebook"></i>
+									</a>
+									<a href="#" class="ts-google-plus">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<a href="#" class="ts-linkedin">
+										<i class="fa fa-linkedin"></i>
+									</a>
+								</div>
+								<div class="clearfix"></div>
+								<p>Black farmers in the US’s South—faced with continued failure in their efforts to run for the successful farms their
+									launched </p>
+
+							</div>
+						</div>
+						<!-- author box end-->
+						<div class="post-navigation clearfix">
+							<div class="post-previous float-left">
+								<a href="#">
+									<img src="/images/news/travel/travel6.jpg" alt="">
+									<span>Read Previous</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+							<div class="post-next float-right">
+								<a href="#">
+									<img src="/images/news/tech/tech5.jpg" alt="">
+									<span>Read Next</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+						</div>
+						<!-- post navigation end-->
+					</div>
+					<!--single post end -->
+					<div class="comments-form ts-grid-box">
+						<h3 class="comment-reply-title">Add Comment</h3>
+
+						<form role="form" class="ts-form">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										<input class="form-control" name="name" id="name" placeholder="Your Name" type="text" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" name="email" id="email" placeholder="Your Email" type="email" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" placeholder="Your Website" type="text" required="">
+									</div>
+									<!-- form group end-->
+								</div>
+								<!-- Col end -->
+								<div class="col-md-6">
+									<div class="form-group">
+										<textarea class="form-control msg-box" id="message" placeholder="Your Comment" rows="10" required=""></textarea>
+									</div>
+								</div>
+								<!-- Col end -->
+								<div class="col-md-12">
+									<p class="comment-form-cookies-consent">
+										<input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes">
+										<label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+									</p>
+								</div>
+							</div>
+							<!-- Form row end -->
+							<div class="clearfix">
+								<button class="comments-btn btn btn-primary" type="submit">Post Comment</button>
+							</div>
+						</form>
+						<!-- Form end -->
+					</div>
+					<!-- comment form end-->
+					<div class="ts-grid-box mb-30">
+						<h2 class="ts-title">Most Popular</h2>
+
+						<div class="most-populers owl-carousel">
+							<div class="item">
+								<a class="post-cat ts-yellow-bg" href="#">Travel</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+
+							<div class="item">
+								<a class="post-cat ts-blue-light-bg" href="#">Technology</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Music</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/music/music2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+						</div>
+						<!-- most-populers end-->
+					</div>
+
+				</div>
+				<!-- col end -->
+				<div class="col-lg-3">
+					<div class="right-sidebar">
+						<div class="ts-grid-box widgets social-widget">
+							<h2 class="widget-title">Follow us</h2>
+							<ul class="ts-social-list">
+								<li class="ts-facebook">
+									<a href="#">
+										<i class="fa fa-facebook"></i>
+										<b>12.5 k </b>
+										<span>Likes</span>
+									</a>
+
+								</li>
+								<li class="ts-google-plus">
+									<a href="#">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-twitter">
+									<a href="#">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-pinterest">
+									<a href="#">
+										<i class="fa fa-pinterest-p"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Photos</span>
+								</li>
+								<li class="ts-linkedin">
+									<a href="#">
+										<i class="fa fa-linkedin"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-youtube">
+									<a href="#">
+										<i class="fa fa-youtube"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets widget-banner">
+							<a href="#">
+								<img class="img-fluid" src="/images/banner/sidebar-banner2.jpg" alt="">
+							</a>
+						</div>
+						<!-- widgets end-->
+						<div class="post-list-item widgets">
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<li role="presentation">
+									<a class="active" href="#home" aria-controls="home" role="tab" data-toggle="tab">
+										<i class="fa fa-clock-o"></i>
+										Recent
+									</a>
+								</li>
+								<li role="presentation">
+									<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
+										<i class="fa fa-heart"></i>
+										Favorites
+									</a>
+								</li>
+							</ul>
+
+							<!-- Tab panes -->
+							<div class="tab-content">
+								<div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+
+								</div>
+								<!--ts-grid-box end -->
+
+								<div role="tabpanel" class="tab-pane ts-grid-box post-tab-list" id="profile">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports1.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+								</div>
+								<!--ts-grid-box end -->
+							</div>
+							<!-- tab content end-->
+						</div>
+						<!-- widgets end-->
+
+						<div class="ts-grid-box widgets category-widget">
+							<h2 class="widget-title">Categories</h2>
+							<ul class="category-list">
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Sports
+										<span class="ts-green-bg">25</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Fashion
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Technology
+										<span class="ts-blue-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Music
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Food
+										<span class="ts-yellow-bg">10</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets ts-grid-box post-tab-list ts-col-box">
+							<h3 class="widget-title">Populer Post</h3>
+							<div class="ts-overlay-style">
+								<div class="item">
+									<div class="ts-post-thumb">
+										<a href="#">
+											<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+										</a>
+									</div>
+									<div class="overlay-post-content">
+										<div class="post-content">
+											<h3 class="post-title">
+												<a href="#">Tourism in Dubai is boom international tourist</a>
+											</h3>
+											<ul class="post-meta-info">
+												<li>
+													<i class="fa fa-clock-o"></i>
+													March 21, 2019
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- ts-overlay-style  end-->
+
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">18 month shoots himself by gun </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/tech/tech2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">The body is a healing system. </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+
+						</div>
+
+						<div class="ts-grid-box widgets tag-list">
+							<h3 class="widget-title">Tags</h3>
+							<ul>
+								<li>
+									<a href="#">Tech</a>
+								</li>
+								<li>
+									<a href="#">Fashion</a>
+								</li>
+								<li>
+									<a href="#">Sports</a>
+								</li>
+								<li>
+									<a href="#">Football</a>
+								</li>
+								<li>
+									<a href="#">Styles</a>
+								</li>
+								<li>
+									<a href="#">Rech</a>
+								</li>
+								<li>
+									<a href="#">Lifestyle</a>
+								</li>
+								<li>
+									<a href="#">Technology</a>
+								</li>
+								<li>
+									<a href="#">Guide</a>
+								</li>
+								<li>
+									<a href="#">Food</a>
+								</li>
+								<li>
+									<a href="#">Animal</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- right sidebar end-->
+				<!-- col end-->
+			</div>
+			<!-- row end-->
+		</div>
+		<!-- container-->
+	</section>
+	<!-- single post end-->
+
+
+        
+		<!-- footer social list start-->
+		<section class="ts-footer-social-list section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="footer-logo">
+							<a href="#">
+								<img src="/images/logo/footer_logo.png" alt="">
+							</a>
+						</div>
+						<!-- footer logo end-->
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-8 align-self-center">
+						<ul class="footer-social">
+							<li class="ts-facebook">
+								<a href="#">
+									<i class="fa fa-facebook"></i>
+									<span>Facebook</span>
+								</a>
+							</li>
+							<li class="ts-google-plus">
+								<a href="#">
+									<i class="fa fa-google-plus"></i>
+									<span>Google Plus</span>
+								</a>
+							</li>
+							<li class="ts-twitter">
+								<a href="#">
+									<i class="fa fa-twitter"></i>
+									<span>Twitter</span>
+								</a>
+							</li>
+							<li class="ts-pinterest">
+								<a href="#">
+									<i class="fa fa-pinterest-p"></i>
+									<span>pinterest</span>
+								</a>
+							</li>
+							<li class="ts-linkedin">
+								<a href="#">
+									<i class="fa fa-linkedin"></i>
+									<span>Linkedin</span>
+								</a>
+
+							</li>
+						</ul>
+					</div>
+					<!-- col end-->
+
+				</div>
+			</div>
+		</section>
+		<!-- footer social list end-->
+
+		<!-- newslater start -->
+		<section class="ts-newslatter section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="ts-newslatter-content">
+							<h2>
+								Sign up for the Newsletter
+							</h2>
+							<p>
+								Join our newsletter and get updates in your inbox. We won’t spam you and we respect your privacy.
+							</p>
+						</div>
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-6 align-self-center">
+						<div class="newsletter-form">
+							<form action="#" method="post" class="media align-items-end">
+								<div class="email-form-group media-body">
+									<i class="fa fa-paper-plane" aria-hidden="true"></i>
+									<input type="email" name="email" id="newsletter-form-email" class="form-control" placeholder="Enter Your Email" autocomplete="off">
+								</div>
+								<div class="d-flex ts-submit-btn">
+									<button class="btn btn-primary">Subscribe</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- newslater end -->
+
+		<!-- footer start -->
+		<footer class="ts-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="footer-menu text-center">
+							<ul>
+								<li>
+									<a href="#">Support</a>
+								</li>
+								<li>
+									<a href="#">Suggestion</a>
+								</li>
+								<li>
+									<a href="#">Privacy</a>
+								</li>
+								<li>
+									<a href="#">About</a>
+								</li>
+								<li>
+									<a href="#">Our Ads </a>
+								</li>
+								<li>
+									<a href="#">Terms</a>
+								</li>
+							</ul>
+						</div>
+						<div class="copyright-text text-center">
+							<p>&copy; 2018, Vinazine. All rights reserved</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- footer end -->
+
+
+	</div>
+
+
+	<!-- javaScript Files
+	=============================================================================-->
+
+	<!-- initialize jQuery Library -->
+	<script src="/js/jquery.min.js"></script>
+	<!-- navigation JS -->
+	<script src="/js/navigation.js"></script>
+	<!-- Popper JS -->
+	<script src="/js/popper.min.js"></script>
+
+	<!-- magnific popup JS -->
+	<script src="/js/jquery.magnific-popup.min.js"></script>
+
+
+
+	<!-- Bootstrap jQuery -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script src="/js/owl-carousel.2.3.0.min.js"></script>
+	<!-- slick -->
+	<script src="/js/slick.min.js"></script>
+
+	<!-- smooth scroling -->
+	<script src="/js/smoothscroll.js"></script>
+
+	<script src="/js/main.js"></script>
+</body>
+
+</html>

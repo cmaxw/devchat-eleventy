@@ -1,0 +1,1860 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Basic Page Needs =====================================-->
+	<meta charset="utf-8">
+
+	<!-- Mobile Specific Metas ================================-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Site Title- -->
+	<title>088 RR Concurrency and Celluloid with Tony Arcieri
+ - Ruby Rogues</title>
+
+	<!-- CSS
+   ==================================================== -->
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/css/animate.css">
+
+	<!-- IcoFonts -->
+	<link rel="stylesheet" href="/css/icofonts.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="/css/owlcarousel.min.css">
+
+	<!-- slick -->
+	<link rel="stylesheet" href="/css/slick.css">
+
+
+
+	<!-- navigation -->
+	<link rel="stylesheet" href="/css/navigation.css">
+
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="/css/magnific-popup.css">
+
+
+
+
+	<!-- Style -->
+	<link rel="stylesheet" href="/css/style.css">
+
+	<link rel="stylesheet" href="/css/colors/color-2.css">
+
+	<!-- Responsive -->
+	<link rel="stylesheet" href="/css/responsive.css">
+
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+	<div class="body-inner-content">
+		<!-- top bar start -->
+		<section class="top-bar v4">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 align-self-center">
+						<div class="ts-breaking-news clearfix">
+							<h2 class="breaking-title float-left">
+								<i class="fa fa-bolt"></i> Our Latest Episodes :</h2>
+							<div class="breaking-news-content float-left" id="breaking_slider1">
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+								<div class="breaking-post-content">
+									<p>
+										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end col-->
+
+					<div class="col-md-4 align-self-center">
+						<div class="text-right xs-left">
+							<div class="ts-date-item">
+								<i class="fa fa-clock-o"></i> Sunday, August 24</div>
+						</div>
+
+					</div>
+					<!--end col -->
+
+
+				</div>
+				<!-- end row -->
+			</div>
+		</section>
+		<!-- end top bar-->
+
+		<!-- ad banner start -->
+		<section class="header-middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 align-self-center">
+						<div class="header-logo">
+							<a href="/">
+								<img src="/images/logo/logo-web-small.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<div class="col-md-8 align-self-center">
+						<div class="banner-imgr">
+							<a href="index.html">
+								<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+							</a>
+						</div>
+					</div>
+					<!-- col end -->
+				</div>
+				<!-- row  end -->
+			</div>
+			<!-- container end -->
+		</section>
+
+		<!-- header nav start-->
+		<header class="header-standerd">
+			<div class="container">
+				<div class="row">
+
+					<!-- logo end-->
+					<div class="col-lg-12">
+						<!--nav top end-->
+						<nav class="navigation ts-main-menu navigation-landscape">
+							<div class="nav-header">
+								<a class="nav-brand mobile-logo visible-xs" href="index.html">
+									<!-- <img src="/images/footer_logo.png" alt=""> -->
+								</a>
+								<div class="nav-toggle"></div>
+							</div>
+							<!--nav brand end-->
+
+							<div class="nav-menus-wrapper clearfix">
+								<!--nav right menu start-->
+								<ul class="right-menu align-to-right">
+									<li class="header-search">
+										<div class="nav-search">
+											<div class="nav-search-button">
+												<i class="icon icon-search"></i>
+											</div>
+											<form>
+												<span class="nav-search-close-button" tabindex="0">✕</span>
+												<div class="nav-search-inner">
+													<input type="search" name="search" placeholder="Type and hit ENTER">
+												</div>
+											</form>
+										</div>
+									</li>
+								</ul>
+								<!--nav right menu end-->
+
+								<!-- nav menu start-->
+								<ul class="nav-menu">
+									<li class="active">
+										<a href="#">Podcasts</a>
+										<div class="megamenu-panel ts-mega-menu">
+											<div class="megamenu-lists">
+												<ul class="megamenu-list list-col-2">
+													<li class="active">
+														<a href="/js-jabber">JavaScript Jabber</a>
+													</li>
+													<li>
+														<a href="/ruby-rogues">Ruby Rogues</a>
+													</li>
+													<li>
+														<a href="/adv-in-angular">Adventures in Angular</a>
+													</li>
+													<li>
+														<a href="/my-javascript-story">My JavaScript Story</a>
+													</li>
+													<li>
+														<a href="/my-ruby-story">My Ruby Story</a>
+													</li>
+													<li>
+														<a href="/my-angular-story">My Angular Story</a>
+													</li>
+													<li>
+														<a href="/react-native-radio">React Native Radio</a>
+													</li>
+													<li>
+														<a href="/react-round-up">React Round Up</a>
+													</li>
+													<li>
+														<a href="/views-on-vue">Views on Vue</a>
+													</li>
+													<li>
+														<a href="/freelancers">The Freelancers' Show</a>
+													</li>
+													<li>
+														<a href="/iphreaks">iPhreaks</a>
+													</li>
+													<li>
+														<a href="/elixir-mix">Elixir Mix</a>
+													</li>
+													<li>
+														<a href="/the-dev-rev">The Dev Rev</a>
+													</li>
+												</ul>
+												<ul class="megamenu-list list-col-2">
+                                                    <li>
+                                                        <a href="#"><strong>Retired Shows</strong></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/tmtc-screencasts">Teach Me To Code Screencasts</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/teachmetocode">Teach Me To Code Podcast</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/rails-clips">Rails Clips</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/web-sec-warriors">Web Security Warriors</a>
+                                                    </li>
+                                                </ul>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#">Lifestyle</a>
+										<div class="megamenu-panel">
+											<div class="megamenu-tabs">
+												<ul class="megamenu-tabs-nav">
+													<li class="active">
+														<a href="#">Health</a>
+													</li>
+													<li>
+														<a href="#">Food</a>
+													</li>
+													<li>
+														<a href="#">Fashion</a>
+													</li>
+													<li>
+														<a href="#">Travel</a>
+													</li>
+												</ul>
+												<div class="megamenu-tabs-pane active">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Can't shed those Gym? The problem might be in</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Smart packs parking sensor tech and beeps</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-purple-bg" href="#">Health</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Deleting fears from the brain means you might never</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-yellow-bg" href="#">Food</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/foods/food3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+												<div class="megamenu-tabs-pane">
+													<div class="row">
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel3.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+														<div class="col-12 col-lg-4">
+															<div class="item">
+	
+																<div class="ts-post-thumb">
+																	<a class="post-cat ts-orange-bg" href="#">Travel</a>
+																	<a href="#">
+																		<img class="img-fluid" src="/images/news/travel/travel4.jpg" alt="">
+																	</a>
+																</div>
+																<div class="post-content">
+																	<h3 class="post-title">
+																		<a href="#">Tourism in Dubai is booming by international tourist</a>
+																	</h3>
+																</div>
+															</div>
+														</div>
+	
+													</div>
+	
+												</div>
+												<!-- mega menu end-->
+	
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-1.html">Technology</a>
+									</li>
+									<li>
+										<a href="#">Video</a>
+										<div class="megamenu-panel">
+											<div class="row">
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech2.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+	
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+	
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+												<div class="col-12 col-lg-3">
+													<div class="item">
+														<div class="ts-post-thumb">
+															<a href="">
+																<img class="img-fluid" src="/images/news/tech/tech4.jpg" alt="">
+															</a>
+															<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="fa fa-play-circle-o ts-video-icon"></a>
+														</div>
+														<div class="post-content">
+															<h3 class="post-title">
+																<a href="#">Tourism in Dubai tourist favorite place</a>
+															</h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="category-2.html">Travel</a>
+									</li>
+									<li>
+										<a href="#">Features</a>
+										<ul class="nav-dropdown">
+											<li>
+												<a href="#">Category layout</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="category-1.html">Category layout 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-2.html">Category layout 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="category-3.html">Category layout 3</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-4.html">Category layout 4</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-5.html">Category layout 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="category-6.html">Category layout 6</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Posts Formate</a>
+												<ul class="nav-dropdown">
+                                       <li>
+                                          <a href="single-post-1.html">Single Post 1</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-2.html">Single Post 2 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-3.html">Single Post 3 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-4.html">Single Post 4 </a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-5.html">Single Post 5</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-6.html">Single Post 6</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-7.html">Single Post 7</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-8.html">Single Post 8</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-9.html">Single Post 9</a>
+                                       </li>
+                                       <li>
+                                          <a href="single-post-10.html">Single Post 10</a>
+                                       </li>
+                                    </ul>
+											</li>
+											<li>
+												<a href="#">Pages</a>
+												<ul class="nav-dropdown">
+													<li>
+														<a href="author.html">Author</a>
+													</li>
+													<li>
+														<a href="404.html">404 </a>
+													</li>
+	
+												</ul>
+											</li>
+										</ul>
+									</li>
+	
+								</ul>
+								<!--nav menu end-->
+							</div>
+						</nav>
+						<!-- nav end-->
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- header nav end-->
+
+        
+	<!-- single post start -->
+	<section class="single-post-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<ol class="breadcrumb">
+						<li>
+							<a href="/">
+								<i class="fa fa-home"></i>
+								Home
+							</a>
+						</li>
+						<li>
+							<a href="/ruby-rogues">Ruby Rogues</a>
+						</li>
+						<li>Travel</li>
+					</ol>
+					<!-- breadcump end-->
+					<div class="ts-grid-box content-wrapper single-post">
+						<div class="entry-header">
+							<h2 class="post-title lg">Swiss authorities say Uber drivers should treated as employees</h2>
+							<ul class="post-meta-info">
+								<li>
+									<a href="#" class="post-cat ts-yellow-bg">Travel</a>
+								</li>
+								<li class="author">
+									<a href="#">
+										<img src="/images/avater/author.png" alt=""> Donald Ramos
+									</a>
+								</li>
+								<li>
+									<i class="fa fa-clock-o"></i>
+									March 21, 2019
+								</li>
+								<li class="active">
+									<i class="icon-fire"></i>
+									3,005
+								</li>
+								<li class="share-post">
+									<a href="#">
+										<i class="fa fa-share"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- single post header end-->
+						<div class="post-content-area">
+							<div class="post-media post-featured-image">
+								<a href="/images/news/travel/travel2.jpg" class="gallery-popup">
+									<img src="/images/news/travel/travel2.jpg" class="img-fluid" alt="">
+								</a>
+							</div>
+							<div class="entry-content">
+								
+01:07 - Tony’s Introduction
+<ul>
+ 	<li><a href="http://www.livingsocial.com/" data-cke-saved-href="http://www.livingsocial.com/">LivingSocial</a></li>
+ 	<li><a href="https://github.com/celluloid/celluloid" data-cke-saved-href="https://github.com/celluloid/celluloid">Celluloid</a></li>
+</ul>
+01:36 - Unofficial Rogue: <a href="https://twitter.com/TheRealAdamRobb" data-cke-saved-href="https://twitter.com/TheRealAdamRobb">Adam Robbie</a>
+
+01:54 - <a href="http://parley.rubyrogues.com/" data-cke-saved-href="http://parley.rubyrogues.com/">Ruby Rogues Parley: Sign up via Stripe! </a>
+
+02:32 - The History of Ruby’s Concurrency/Threading
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/Green_threads" data-cke-saved-href="http://en.wikipedia.org/wiki/Green_threads">Green threads</a></li>
+ 	<li><a href="http://www.newrelic.com/" data-cke-saved-href="http://www.newrelic.com">New Relic</a></li>
+</ul>
+08:49 - The Multiprocess Model
+
+12:56 - Processes vs Threading
+
+14:38 - Taking Better Advantage of Threading
+
+15:38 - <a href="http://en.wikipedia.org/wiki/Global_Interpreter_Lock" data-cke-saved-href="http://en.wikipedia.org/wiki/Global_Interpreter_Lock">The GIL (Global Interpreter Lock)</a>
+<ul>
+ 	<li>
+<div><a href="http://en.wikipedia.org/wiki/YARV" data-cke-saved-href="http://en.wikipedia.org/wiki/YARV">YARV by Koichi Sasada</a></div></li>
+ 	<li>
+<div><a href="http://jruby.org/" data-cke-saved-href="http://jruby.org/">JRuby.org</a></div></li>
+ 	<li>
+<div><a href="http://rubini.us/" data-cke-saved-href="http://rubini.us/">Rubinius</a></div></li>
+</ul>
+21:47 - <a href="https://github.com/celluloid/celluloid" data-cke-saved-href="https://github.com/celluloid/celluloid">Celluloid</a>
+<ul>
+ 	<li>Actor-Based Object-Oriented Concurrency</li>
+ 	<li>
+<div><a href="http://www.erlang.org/" data-cke-saved-href="http://www.erlang.org/">Erlang</a> &amp; <a href="http://www.scala-lang.org/" data-cke-saved-href="http://www.scala-lang.org/">Scala</a></div></li>
+ 	<li>
+<div><a href="http://confreaks.com/videos/1302-rubyconf2012-the-celluloid-ecosystem" data-cke-saved-href="http://confreaks.com/videos/1302-rubyconf2012-the-celluloid-ecosystem">RubyConf 12 - The Celluloid Ecosystem by Tony Arcieri</a></div></li>
+ 	<li>
+<div><a href="http://celluloid.io/" data-cke-saved-href="http://celluloid.io/">Celluloid.io</a></div></li>
+ 	<li>
+<div><a href="https://github.com/tarcieri/reeltalk" data-cke-saved-href="https://github.com/tarcieri/reeltalk">tarcieri/reeltalk</a></div></li>
+</ul>
+25:55 - Inter-Thread Communication
+
+28:49 - Celluloid Starter Projects
+<ul>
+ 	<li><a href="http://en.wikipedia.org/wiki/Dining_philosophers_problem" data-cke-saved-href="http://en.wikipedia.org/wiki/Dining_philosophers_problem">Dining philosophers problem</a></li>
+ 	<li>
+<div><a href="http://en.wikipedia.org/wiki/Cigarette_smokers_problem" data-cke-saved-href="http://en.wikipedia.org/wiki/Cigarette_smokers_problem">Cigarette smokers problem</a></div></li>
+</ul>
+31:38 - <a href="https://github.com/celluloid/celluloid" data-cke-saved-href="https://github.com/celluloid/celluloid">Celluloid</a> Competing with <a href="http://nodejs.org/" data-cke-saved-href="http://nodejs.org/">node.js</a> and <a href="http://www.erlang.org/" data-cke-saved-href="http://www.erlang.org/">Erlang</a>
+<ul>
+ 	<li><a href="http://adhearsion.com/" data-cke-saved-href="http://adhearsion.com/">Adhearsion</a></li>
+ 	<li><a href="http://akka.io/" data-cke-saved-href="http://akka.io/">Akka</a></li>
+</ul>
+33:25 - Projects using <a href="https://github.com/celluloid/celluloid" data-cke-saved-href="https://github.com/celluloid/celluloid">Celluloid</a>
+<ul>
+ 	<li><a href="http://sidekiq.org/" data-cke-saved-href="http://sidekiq.org/">Sidekiq</a></li>
+</ul>
+34:34 - Using <a href="https://github.com/celluloid/celluloid" data-cke-saved-href="https://github.com/celluloid/celluloid">Celluloid</a> in the Future
+<ul>
+ 	<li>Peer-to-peer System</li>
+</ul>
+36:59 - <a href="http://en.wikipedia.org/wiki/Rack_(web_server_interface)" data-cke-saved-href="http://en.wikipedia.org/wiki/Rack_(web_server_interface)">Rack</a>
+
+39:02 - Helping to develop <a href="https://github.com/celluloid/celluloid" data-cke-saved-href="https://github.com/celluloid/celluloid">Celluloid</a>
+<ul>
+ 	<li><a href="http://typesafe.com/products/console" data-cke-saved-href="http://typesafe.com/products/console">Akka Typesafe Console</a></li>
+</ul>
+41:02 - “Let it Crash” Philosophy
+
+44:20 - Tips for Concurrent Programming
+<ul>
+ 	<li><a href="http://visualvm.java.net/" data-cke-saved-href="http://visualvm.java.net/">VisualVM</a></li>
+ 	<li><a href="http://pragprog.com/book/vspcon/programming-concurrency-on-the-jvm" data-cke-saved-href="http://pragprog.com/book/vspcon/programming-concurrency-on-the-jvm">Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors by Venkat Subramaniam</a></li>
+ 	<li><a href="https://groups.google.com/forum/?fromgroups#!forum/celluloid-ruby" data-cke-saved-href="https://groups.google.com/forum/?fromgroups#!forum/celluloid-ruby">Celluloid (Google Group)</a></li>
+</ul>
+<h3>Book Club</h3>
+<a href="http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321127420" data-cke-saved-href="http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321127420">Patterns of Enterprise Application Architecture by Martin Fowler</a>
+<h3>Next Week</h3>
+Rogues Only Episode
+
+<h3>Transcript</h3>
+
+<strong>JAMES:  </strong>I figured we’d just ask him every hard question we could think of and see if we could stress him out.
+
+<strong><em>[Hosting and bandwidth provided by Blue Box Group. Check them out at BlueBox.net.]</em></strong>
+
+<strong><em>[This episode was sponsored by Jet Brains, makers of Ruby Mine. If you like having an IDE that provides great inline debugging tools, built-in version control and intelligent code insight and refactorings, check out Ruby Mine by going to JetBrains.com/Ruby.]</em></strong>
+
+<strong><em>[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]</em></strong>
+
+<strong>JAMES:  </strong>Hey everybody and welcome to Episode 88 of the Ruby Rogues podcast. I’m James Gray. And with me today are Avdi Grimm.
+
+<strong>AVDI:  </strong>Hello.
+
+<strong>JAMES:  </strong>Katrina Owen.
+
+<strong>KATRINA</strong>:  Hello from Oslo.
+
+<strong>JAMES:  </strong>And Tony, is it Arcieri?
+
+<strong>TONY:  </strong>Arcieri, yes close enough.
+
+<strong>JAMES:  </strong>Okay. Tony, this is your first time on the show so, why don’t you introduce yourself?
+
+<strong>TONY:  </strong>I’m Tony Arcieri. I work on the Site Reliability Team at Living Social and I’m also the author of ‘Celluloid’ which is a concurrent object-oriented programming framework for Ruby.
+
+<strong>JAMES:  </strong>So, we asked him on the show to ask him a lot of XML questions.
+
+<strong>TONY:  </strong>Yeah, awesome.
+
+[laughter]
+
+<strong>JAMES:  </strong>Before we get to the show, we do have a few announcements. First of all, I think the last time I hosted the show because Chuck was gone we had our first official Unofficial Rogue that we announced then. And now that I’m hosting another show, we have another one. It’s Adam Robbie. Adam, thank you very much for your support of the show, we appreciate you. Another announcement is that everybody underdog has been bugging us to make it possible to sign up to Parley without PayPal and Chuck has done that. So, you can go to parley.rubyrogues.com and you can sign up there using your credit card through Stripe.
+
+<strong>AVDI:  </strong>Yehey, Stripe!
+
+<strong>JAMES:  </strong>Yehey, Stripe! Yes, this is very good. And I think that’s it for announcements. So, today we thought we would discuss concurrency in general and probably Celluloid more specifically since we have Tony here to pick his brains. Tony, why don’t you give us a rough overview of maybe the history of Ruby’s concurrency?
+
+<strong>TONY:  </strong>Well, if you started pre-1.9, you might remember the dark ages where there were only green threads. And the big problem there is you’d see other thread doing a system call, right? So, you have something calling out to your database say or something like that, right? Since you have green threads, green threads mean they run inside the interpreter, right? So, there’s only one native thread. As soon as anyone that has green threads makes the system call, it would block the entire interpreter so you can only do one system call at a time. So kind of prior to 1.9, maybe multi thread or even Ruby didn’t make a whole lot of sense. [chuckles] In addition to that, IO would add a significant amount of overhead because it was kind of doing all this work to sort of munge all your IO requests into a single select system call there. It used to be running more than one thread if they were both doing heavy IO, it would have a pretty significant performance overhead. We’re talking like 20% here or something. So eventually, it all got fixed when 1.9 came out, every thread in 1.9 maps directly to a native thread at the operating system level. So, you can do multiple system calls once. It’s pretty awesome. There’s still a global interpreter lock, so only one thread can be executing Ruby code at a given point in time. But the good thing is you have, say a multi thread Rails app or some of your threads are trying to talk to the database at the same time, they can actually do that and it works out pretty well. So, I’d say things have gotten better in the past few years, at least.
+
+<strong>JAMES:  </strong>So just to be clear, in 1.8, even though it was effectively not parallel, so to speak, it did go through like kind of almost herculean efforts to try to not sleep a thread while waiting on IO. Is that correct?
+
+<strong>TONY:  </strong>Yeah. So long as you were doing all Ruby code. So, if all your IO is from Ruby, then yeah, it has this really gnarly code about 10,000 lines into xx that looks at all the IO objects that every single green thread was waiting for and kind of puts them all together into what’s called an fd_set for select. So, you take that big list of file descriptors, you hand off to the kernel, and the kernel will tell you which ones are xx on and then the scheduler will just go through that and xx any thread that had an IO object that was ready to do IO. So, it kind of sort of worked. If you would use New Relic on a 1.8 app, that’s kind of what it’s doing. It’s running a thread in the background sending a bunch of diagnostic data to New Relic and then your app is running in the main thread.
+
+<strong>JAMES:  </strong>Yeah. I think this is kind of a sticking point for a lot of people understanding Ruby’s threading model. So just to say it, one more time in kind of a clarifying way is like, in Ruby 1.8, if you split off two threads and then just did a bunch of math, then that goes in cap and in parallel basically. What happens is it’s quickly jumping back and forth between the two of them. But you’re not going to like save time or anything because, in fact, you should probably spend time because the thread context changes. But if you split up, say you were writing an IRC bot, for example, and the bot needed to read from the socket to get all incoming data. But if you also did some work in another thread, like figuring something out, some response you were going to give, it’s possible those could happen in parallel because at the time, it was waiting on IO. They could switch to that other thread. Did I get that right?
+
+<strong>TONY:  </strong>Yeah, definitely. You were saying with trying to do math at the same time in two threads, that’s still a sticking point in 1.9 with the GIL. But other than that, either 1.8 or 1.9 can definitely do parallel IO operations. On 1.9, you can do some cooler stuff like, Cript E, for example, will release the global interpreter log. So, you could have several threads actually doing Cript E at the same time.
+
+<strong>JAMES:  </strong>Because now, basically in 1.9, it’s any system call instead of just IO specific stuff.
+
+<strong>TONY:  </strong>Yeah, yeah. So 1.9, since every Ruby thread is backed by a native thread, if you’re doing any C extension, for example, like it doesn’t have to be a system call per se. It can just be something that’s working entirely in C land, independent of anything in Ruby land, and it can go crank away on something computationally intensive. But it can release the global interpreter lock so you can have stuff in Ruby land running in parallel.
+
+<strong>JAMES:  </strong>How does multi processor systems, now that we have so many of those, they still don’t reap benefits from 1.9’s architecture, right?
+
+<strong>TONY:  </strong>That’s pretty much the case except in the example I just gave where you have a C extension releasing to GIL? So, if you want to use it today, I believe you can do parallel encryption/decryption with open SSO. I’m not actually 100% sure there is a GIL unlock in place but I knew Nahi, if you’re familiar with him has been talking about doing that. So, it’s possible to do a little bit of parallel computation but it has to be in a C extension right now.
+
+<strong>JAMES:  </strong>So, we’ve basically been talking about threading but Ruby actually has another concurrency model that it picks up from UNIX, right? Want to talk a little bit about that?
+
+<strong>TONY:  </strong>So, you’re talking about the multi process model, I assume. Yeah, so I mean, multi process is how people have kind of traditionally done parallelism with Ruby apps. So you have a Rails application, you have a multi core computer. So, you run several copies of your app and you get parallelism that way just because the OS is scheduling multiple processes. I mainly work on an app that works this way. And I think, there’s a lot of problems just in terms of sort of managing this app and just in terms of the resources it uses where this isn’t a particularly ideal set up. So, one of the main problems I see in Rails apps in general is you kind of have this really fixed concurrency threshold that’s entirely based on how many processes you can run. So, if you’re running 100 mongrels or 100 unicorns or whatever you want to call it, you can only use service 100 requests at once and soon as you hit that cap, you’ve exceeded capacity right there. So, a lot of these apps is probably pretty easy for say, attacker or a hacker trying to do a denial and service attack against your Rails app just to exceed that concurrency threshold just because it’s so low. So, I think that’s kind of a problem. I think multithreaded apps can be a lot more elastic in terms of what those limits are.
+
+<strong>JAMES:  </strong>That’s a good point. There are some kind of strengths to the process model though, right? Like for example, if I do have a multiprocessor machine and I launch multiple processors then obviously the scheduling is handled by the OS. So, it’s possible that those processes can end up on separate cores and I can take advantage of that.
+
+<strong>TONY:  </strong>Yeah, definitely. I mean, it’s the easy was to do multi-core with say 1.8, or 1.9 even.
+
+<strong>JAMES:  </strong>Right, and to make it clear on why this model sometimes is used for servers, it has to do with how Unix handles things like file descriptors. Because a lot of times what they’ll do is they’ll launch some program and then open a socket for accepting connections say, and then fork a bunch of copies. And because they’re pointed at that same socket, then when they accept, the kernel actually sorts out who gets a given request and ends up working on it, right?
+
+<strong>TONY:  </strong>Yeah. It’s a pretty traditional model and it’s a pre-fork server. So yeah, you can share that list and socket across processes and they all accept them at the same time and the kernel kind of does round robin as far as which process actually ends up getting that incoming connection. On the other hand, you end up sharing a lot of other file descriptors between processes, like say, you open connections to your database or any other external service in your system. You have initializers that are maybe doing stuff that needs to set those connections up, then you fork. Problem you have then is you end up with a lot of clean up as far as trying to shut those file descriptors down and reopen them because otherwise, you have like a connection to your database shared between end processes and that’s not going to work very well. So you know, there are plusses and minuses to the whole file descriptors sharing aspect of the multi-process model.
+
+<strong>JAMES:  </strong>That’s a good point. So, on processes versus threading, another huge trade-off, in my opinion, is how easy it is to share data among those processes. Threading seems to be substantially easier to share data among those different units. Do you agree with that?
+
+<strong>TONY:  </strong>Yeah, definitely. I mean, I believe there are some libraries to use some of the UNIX facilities for sharing stuff across processes, things like system five shared memory. You can actually share data between processes. And Python does this fairly successfully, I think, with its multiprocessing library. But really, any of that is going to be a lot harder than just using threads where you have a single heap. And it’s really easy to just pass objects back and forth. It’s also a bit of a double-edged sword because if it’s easy to share state, it’s also easy to mutate that state too and you may end up mutating some objects shared between threads and maybe you didn’t want to do that.
+
+<strong>JAMES:  </strong>Right. So, when we’re doing threading, then the complication becomes doing things like synchronizing and stuff like that to make sure that the data’s not being changed out from under us, right?
+
+<strong>TONY:  </strong>Yeah, definitely. And one other alternative is immutable state so you just ensure that nobody can mutate any of these objects that have been shared. And one of my picks is eLibrary to do just that. So, we can talk about that a little later.
+
+<strong>KATRINA:  </strong>We’ve talked a lot about what makes taking advantage of threading hard. Could you say a little bit about what we’d have to do to take better advantage of threading?
+
+<strong>TONY:  </strong>I think Celluloid helps with that quite a bit. There are a lot of sort of traditional problems of building multithreaded programs. Like James said, synchronization is the big one. What you would normally do is use some sort of synchronization primitive, like a monitor in Mutex or Latch or something like that to basically control concurrent access to some of that state. So, Celluloid makes that implicit. So with Celluloid, you spin up an actor or a cell and all communication between that and the rest of the system between other actors or other threads is all automatically synchronized. So, it’s fairly easy to use, I think.
+
+<strong>KATRINA:  </strong>We’re still going to run into problems with the GIL though, right?
+
+<strong>TONY:  </strong>Yeah. In 1.9, if you’re trying to do parallel computation, it’s just not going to work because the GIL, it only lets you run one Ruby thread at a time.
+
+<strong>JAMES:  </strong>Tony, maybe this is a good time to ask you, why do we have the GIL? I mean, we keep talking about how we run into it and it causes these problems. Why is it there and why haven’t we gotten rid of it?
+
+<strong>TONY:  </strong>Well, the main reason, I think, it hasn’t been eliminated yet is because it’s really hard. [chuckles] So, Java originally started out with green threads and made the same move from basically a single native threaded model with multiple virtual green threads to actual native threads that are running in parallel. And that’s a really hard move to make, basically. You take your GIL and you have to break it up. So you have instead one big lock, a bunch of tiny locks. And if you really didn’t plan on doing that ahead of time, I think it’s really, really hard. Supposedly, Koichi who wrote YARV had a patch to 1.9 to remove the GIL. Sort of like hypothetically, there was a similar patch to C Python to do the same thing. And apparently, it was really slow and they just decided not to go ahead with it. So really, I don’t think this is a bad thing per se. I think trying to take MRI and make it into a truly parallel multithreaded virtual machine, it would probably make it even more unstable than it is right now.
+
+<strong>KATRINA:  </strong>So basically…Oh, sorry.
+
+<strong>TONY:  </strong>I was just going to say even on Ruby 1.9.3, P362 just came out and had a number of regressions with multithread programs that will make them just crash. So, if you’re using Celluloid, you probably don’t want to use that release of 1.9.3.
+
+<strong>KATRINA:  </strong>So, no to using JRuby and Rubinious then?
+
+<strong>TONY:  </strong>Yeah. So, JRuby and Rubinious are definitely the two most well-known, I think, implementations of Ruby that run in parallel on multiple cores.
+
+<strong>AVDI:  </strong>Is my perception correct that a lot of the problem with the GIL is from the fact that Ruby, that MRI keeps a lot of static data?
+
+<strong>TONY:  </strong>Yeah. That’s certainly a problem and the C extension API is another huge problem. They’ve been working for years trying to improve that and Rubinious.
+
+<strong>AVDI</strong>:  Because you also can’t instantiate more than one instance of a Ruby interpreter in a process, right?
+
+<strong>TONY:  </strong>Yeah, that’s true. So, they were trying to do this Multi-VM API that would give you multiple scripting containers pretty much. And that went by the wayside, I think. That was something [crosstalk]…
+
+<strong>AVDI:  </strong>That found its way into MRuby, right?
+
+<strong>TONY:  </strong>Yeah, I think so. They have a really simple embedding API. So, I think it works kind of like Lua where you can just run a separate interpreter through thread.
+
+<strong>AVDI:  </strong>Right. I mean, because that’s what you would do in a language like Tcl or something is you could just instantiate a new interpreter, like instantiate as many interpreters as you wanted. They were basically local to your thread or whatever. But my impression with Ruby was that the way the implementation was started out, it started out using a lot of C statics. And I guess, you could almost compare it to what happens to a Ruby app when you start out using a whole lot of class methods.
+
+<strong>TONY:</strong>  Yeah. [chuckles]
+
+<strong>AVDI:</strong>  And fast forward five years or so, and you find yourself wanting to have multiple instances of something and realizing that you’re going to have to re-architect the entire application because of all the class methods.
+
+<strong>TONY</strong>:  Yeah. I don’t know how much of an issue this actually is for 1.9 because I know originally Koichi planned on having this sort of Multi-VM support where you could have several scripting containers in the same virtual machine. At one point, they were even talking about a common API between MRI and JRuby and Rubinious. So you could spin up as many of these as you wanted in any of those VMs. And people just stopped caring the whole thing and I don’t know what happened to it but it was kind of the plan from the start. They just never actually finished it, I don’t think.
+
+<strong>AVDI:  </strong>I still care. [laughter]
+
+<strong>JAMES:  </strong>I think one of the reasons the GIL was introduced, just to kind of circle back to that, is because it does make C extension stuff easier, right? The C extensions don’t have to care if they’re -- Ruby doesn’t have to be re-entrant as far as C extensions go. Is that right?
+
+<strong>TONY:  </strong>That’s right until you want them to work on Rubinious now.
+
+[laughter]
+
+<strong>TONY:</strong>  So they added sort of a -- I mean, they got a lot of crazy stuff going on at Rubinious, right? They have a copying garbage collector. So, to make that work, they kind of have to have this sort of this interaction mechanism between the values of Ruby objects and where they actually live in memory. So in MRI, that’s just like a pointer, like this is where this object is in memory. And on Rubinious, they need to be able to move this around and maybe at the same time, your code is running right. And so, it gets a little bit nuts as far as that stuff goes. But other than that, originally in the C extension, API is definitely not designed for your code running in one thread and the Ruby interpreter running in another really. So, it’s interesting in Rubinious.
+
+<strong>JAMES:  </strong>That’s a good point. Okay, so we’ve talked about all these complexities and why this is hard. And so, we’ve mentioned Celluloid a little but why don’t you tell us exactly what Celluloid is? What is it?
+
+<strong>TONY:  </strong>Celluloid is a little bit hard to explain because it’s built on the actor model but the actual actor model is a little bit different from what Celluloid exposes to you. So Celluloid is, I’ve been describing it as actor-based object-oriented concurrency. So, it’s using the actor model underneath but the API it presents to you is sort of an object-oriented API. And if you’re looking for an analog in something like Erlang or Scala, it’s closer to an Erlang gen_server. Or in AKKA and Scala, there’s these things called xx which are supposed to be the bridge between doing object-oriented stuff and doing actor-oriented stuff. So, Celluloid just gives you that. It just gives you these concurrent objects and that’s like the fundamental parameter for building everything. So, I don’t know if you want me to keep going. [laughs]
+
+<strong>JAMES:  </strong>Well, there’s like several different pieces to it. I watched your Ruby Conf talk recently and you talked about the different levels of it.
+
+<strong>TONY:  </strong>Yeah, yeah. I mean, so there’s Celluloid and there’s a bunch of side projects that sort of complement it. So, the other thing that really sets Celluloid apart from other actor libraries is it has this sort of internal pipelining model where you can have, inside of an actor, you can have several tasks going on at the same time and these are actually modeled as fibers. Fibers are coroutines, right? So, the neat thing you can do is take a single actor and you can put an IO reactor. In high performance IO, there’s this idea that reactor pattern supplements stuff like EventMachine IO, right? So, Celluloid has this sub-project called Celluloid-IO where you can put your reactor inside of an actor and then have several of these coroutines just kind of servicing different IO requests at the same time. So you can have one actor, one native thread servicing thousands of connections and you don’t need to actually spin up a separate need of thread for each of these connections you want serviced, right? Sort of like a hybrid of multithread system with Celluloid and then event-based system similar to EventMachine or newjs.
+
+<strong>JAMES:  </strong>So for example, that might be useful in managing a chat server or something where you have lots of people connecting to it all talking at various times and stuff and you could use the reactor to handle something like that.
+
+<strong>TONY:  </strong>Yeah, definitely. A chat server is a great example just because, you know, that’s a storage system where most of your connections are probably idle most of the time, right? So, you may have a user who’s gone to the store or something. They’re not even looking at the computer. So, you probably don’t want to dedicate an entire native thread just waiting for them to get back from the store basically. So yeah, you can definitely use it to build chat servers. I have one that I’ve really been meaning to finish, it mostly works. But it is a WebSocket-based chat server called ReelTalk. ReelTalk is the web server for Celluloid. So, if you’re looking for an example of doing that, it’s in my Github there. So, you can check out ReelTalk.
+
+<strong>AVDI:  </strong>So, could you explain a little what the principal mechanism for having different threads talk to each other, inter-thread communication in Celluloid?
+
+<strong>TONY:  </strong>Yeah. So, the primitive is called the Mailbox, like mailbox is an idea from the actor model. They’re really similar to like in Go. There’s channels that used to talk between Goroutines and actor model mailboxes to talk between actors and channels and mailboxes are really similar. The main difference is in the actor model, your mailbox is pinned to your single actor just the same way that you have a mailbox pinned to your front lawn basically, right? So, if you have Channels, you could potentially and multiple Goroutines waiting for messages on the same channel. So you’ve got to kind of figure out all the semantics in those cases. With the mailbox, it’s sort of this many-to-one communication system just like the postal mail, right? So, there’s only one actor waiting on a given mailbox at a time and that mailbox belongs to that actor exclusively. Sort of under the covers there right now, everything’s just standard Ruby Mutexes and condition variables; although, I’d love to play with some of this. At least on the JVM, there’s a lot of neat stuff for making this sort of thing a lot faster. So, there’s all the stuff in java.util.concurrent I’d like to start playing with to make some faster mailboxes on Celluloid.
+
+<strong>JAMES:  </strong>That kind of brings up a good point. Do you recommend using Celluloid more on the JVM since you do have native threads there and stuff like that, and no GIL?
+
+<strong>TONY:  </strong>Yeah, definitely. JRuby is probably my main recommended platform for Celluloid just because the JVM is sort of like man centuries of development effort and research into being fast at running multithread programs. So almost a decade ago, the principal architects of the hotspot git compiler, Cliff Click left Sun to go to work for this company Azul where they were building a massively, massively multi-core systems for running Java. Like they had 768 cores up to 768 gigabyte heap so they had a single heap in this box. I mean, the JVM has run on some massively-able type core computers and it’s really well attuned for it. So yeah, I would definitely recommend checking out JRuby for Celluloid programs.
+
+<strong>KATRINA:  </strong>So, if I wanted to start playing around with Celluloid, what would be some good weekend projects or starter projects?
+
+<strong>TONY:  </strong>Some of these classical concurrency problems, I think, are a good way to start out like the ‘Dining Philosophers Problem’, for one. That’s kind of one of the classical. There’s an example that comes with Celluloid, it’s the ‘Cigarette Smokers Problem’. It’s sort of similar to the Dining Philosophers Problem but there are a couple more actors involved in the system. So basically, I would say pick one of them. If you’re specifically interested in the multi-core -- they're not multi-core, sorry. Just like solving concurrent problems effectively. Basically, look up any of these classical problems and try to implement with Celluloid.
+
+<strong>KATRINA:  </strong>What are some really bad starter projects like things to look forward?
+
+<strong>TONY:  </strong>I don’t know. A lot of people get on the mailing list and they really love the idea. And they’re like, “I want to build a framework to do really crazy distributed computing problems and how do I get started on this?” And I’m kind of like, “Well, maybe before you go off and write a framework, you might want to write something a little more self-contained. You might want to try to start small, I guess. And not shoot for the moon right off the bat there or something.”
+
+<strong>KATRINA:  </strong>Yeah, cool.
+
+<strong>JAMES:  </strong>Yeah, because concurrency is harder to think about, right? I know whenever I’m doing something that has to be concurrent, even if it’s fairly simple where I don’t really have to communicate between the pieces or stuff like that. I really have to stop and think about it, “How does this happen? What are the order of events,” and stuff like that. It takes something to get your head around.
+
+<strong>TONY:  </strong>Yeah, definitely. I’m not saying it’s super easy or Celluloid gets rid of all the headaches of concurrency or anything like that. I think it does take, it’s something you just got to get in there and start playing with it and wrap your head around it. I think it gets easier with time. Some people seem to disagree. [laughter] But I started writing multithread programs in C in like the late 90’s. So I guess, I've been doing this for a while. [chuckles] But yeah, I’m not saying it’s the super easy by any stretch of the imagination. But I think with Celluloid, it’s a lot easier than doing it in other languages and maybe you don’t offer a factor like abstraction.
+
+<strong>JAMES:  </strong>So, do you think with Celluloid and stuff, we’re getting to a point where in Ruby, we can write programs much like they do node.js or Erlang. Are we competing with that or do we still have a ways to go?
+
+<strong>TONY</strong>:  Yeah, definitely. I mean, one of the foremost projects using Celluloid is Adhearsion which is a telephony of framework for Ruby. So, that’s sort of similar to what Erlang was originally conceived for, which was they wanted a language for developing PBX software at Ericsson. So, I’m not saying Celluloid solves all the same problems that Erlang did. They wanted to have zero downtime. They wanted to have a really, really consistent system with very strong rigid guarantees on mutation state and things like that. But you know, from a practical perspective, I don’t know how much of that is actually necessary to build useful programs. Erlang's philosophy is sort of, “Let it crash. Your program is going to have bugs,” that kind of thing. So, I think as long as you can carry that spirit over, which is sort of the main thing we’ve done in AKKA which is probably the other biggest sort of Erlang clone out there. As long as people are building programs around that idea, as long as you actually can let your threads crash and have a system to recover and gets you back in a consistent state when that happens, I think Ruby is a great language for building concurrent programs in.
+
+<strong>KATRINA:  </strong>You mentioned Adhearsion, what are some other projects that are using Celluloid?
+
+<strong>TONY:  </strong>So Sidekiq would be the other big one. Sidekiq is a multithreaded job execution engine similar to Resque. It’s kind of funny because I’ve been doing a lot of open source work on Resque lately. But I would probably, if you’re doing new stuff today, I would probably recommend Sidekiq or Resque, just because it’s got a pretty big community around it now doing multithreaded job worker stuff. So, definitely check out Sidekiq as well.
+
+<strong>KATRINA:  </strong>And you could totally run this on Heroku?
+
+<strong>TONY:  </strong>Yeah, people have had various issues running Sidekiq on Heroku. But in general, I think it works okay.
+
+<strong>JAMES:  </strong>We switched to Sidekiq recently at work and I don’t have the exact numbers but you can definitely see a performance difference in being able to fire up those threads and not needing so many processes. It’s definitely more efficient for sure.
+
+<strong>TONY:  </strong>Yeah, yeah. Awesome!
+
+<strong>JAMES:  </strong>So, are there other things you would like to do with Celluloid down the road?
+
+<strong>TONY:  </strong>I have a side project going. I’m trying to write like a peer to peer clad storage system which is a pretty complicated problem. But this is actually sort of like the next generation of the project that kicked off all my other projects that have had to do with concurrency. Back in 2006, I was working with the senior project team at the University of Colorado to write this sort of peer to peer file transfer system and we were building it on top of EventMachine. So that’s kind of where I ceased to -- I contributed to it a little bit. But the more I looked at the source code of EventMachine, the more sort of WTFs per second were happening there. Basically, I didn’t think it was really practical to build a large complicated concurrent program on top of EventMachine. And now that I've kind of looked back on that, now that I have Celluloid, now that there are all these fundamental components in place, I’m trying to write a new peer to peer system with it. So, we’ll see how that goes, I guess.
+
+<strong>JAMES:  </strong>You mentioned earlier that you have a web server that you wrote in Celluloid. So, we can actually run Rails on top of that?
+
+<strong>TONY:  </strong>People have tried. The problem is Celluloid uses fibers for its sort of internal pipelining and fibers and Rack do not go along very well, at least on MRI. A few people have tried to run Rails on it, though it does have a Rack adaptor and you can attempt to run Rails on top of Reel if you want to. I’ll see how much success people report on like JRuby and Rubinious where it doesn’t really have those fiber limitations. But I don’t really know of anybody using Rails on top of Celluloid in production or anything.
+
+<strong>JAMES:  </strong>Yeah. I’ve actually seen you talk about Rack before and talked about the problems there. You want to give us a quick overview of why that doesn’t mix so well?
+
+<strong>TONY:  </strong>Yeah. Let’s see. There is this other web server, Goliath, that was trying to do something similar with fibers basically, where it would expose synchronous APIs that were kind of like the ones you’re used to, the ones that work great with multithread programs. I was trying to expose these on top of EventMachine. It used fibers to do that. And one of the things people ran into was the fact that fibers only have a four kilobyte stack and that’s pretty small. So, your average Rack middleware on your typical Rails new type application, like the kind your generator will spit out is pretty huge, like each piece of Rack middleware you add, adds another stack frame. So, it’s kind of a design flaw in the way where Rack middleware works. Maybe it should iterate across your middlewares instead of building them up on your stack or something like that. But basically, unless you pull some of your middlewares out, you can exceed that four kilobyte limit on the fiber stacks and then your app is going to crash. [chuckles] So yeah, I probably wouldn’t recommend mixing Rails and Celluloid for that reason. On JRuby, fibers mapped to native threads. So, there’s not a problem there. And on Rubinious, every fiber has a large stack. I don’t know exactly how big they are but they are certainly larger than four k. So, it’s pretty nice.
+
+<strong>JAMES:  </strong>That’s interesting. Let’s see, do we have any other questions?
+
+<strong>KATRINA:  </strong>I have one more. And it’s not directly related to the threading and the Celluloid. But if people wanted to help you develop these things, what are sort of the things where you’d like to have some help?
+
+<strong>TONY:  </strong>Generally, where I’ve seen a lot people jumping in is like, they’re writing an app and there is some feature they want that they don’t have and I’m getting poll requests for that. So, people are just kind of adding the stuff they need that isn’t already there. Like just yesterday, I got a PR to do a sort of implicit supervision hierarchy. So right now, if you want to take advantage of the sort of ‘let it fail’ stuff, the error handling stuff in Celluloid, you got to explicitly unlink everything together and in Akka and this other framework, for Scala. You’re just like, you make a new actor, you are the supervisor for the new actor. So, every time you make a new actor, the parent actors supervise their children. So I mean, that’s a really cool idea and I got a PR for it just the other day. So pretty much, most of the stuff is people kind of self-identifying their own needs and contributing that way.
+
+<strong>KATRINA:  </strong>Is there anything you’d wish for, if you could wish for something?
+
+<strong>TONY:  </strong>So there’s this really cool thing in Akka called the TypeSafe Console which is this giant dashboard of all sorts of metrics about your Akka programs. So, I think something like that would be really helpful for both debugging Celluloid programs and sort of doing performance tuning. So yeah, that would be great. It’s not there yet. I wish we can kind of catch up to Akka on some of those stuff.
+
+<strong>KATRINA:  </strong>Cool.
+
+<strong>JAMES:  </strong>You talked a lot about the ‘Let it crash’ philosophy and let me see if I can articulate this well. But in the past when I’ve had to write like say a Daemon that runs for a really, really long time and just forever in Ruby, the best way I’ve found to do that is to set up a very minimal loop at the top over some set of tasks. And then whatever task I want to do, fork a process and do all my work in there and then, let that process go away. And the reason I landed on that is one, exit is like the ultimate GC, and that Ruby programs can balloon and get big as you get a bunch of objects from the database and stuff like that. And then, memory doesn’t really tend to get released back over time and so, you can just kind of end up in these states. So, if I separate it on another process and did that work and then that process exit, it’s like I didn’t have that problem anymore. That was how I was able to build programs that ran such a long time. If you go with a heavy threading model or stuff, how do you deal with those kinds of circumstances?
+
+<strong>TONY:  </strong>It’s definitely not easy especially you’re talking about dealing with cancelling memory leaks and that kind of thing.
+
+<strong>JAMES:  </strong>Just to be clear, it doesn’t even necessarily have to be a leak, right?
+
+<strong>TONY:</strong>  Yeah.
+
+<strong>JAMES:</strong>  You could just do a big query and get a bunch of data for something you do infrequently and report that’s generated once a day.
+
+<strong>TONY:</strong>  Yeah, yeah.
+
+<strong>JAMES:</strong>  But once you’ve allocated those resources, then you don’t get those back really.
+
+<strong>TONY:  </strong>Well, you don’t until the GC runs basically. [chuckles]
+
+<strong>JAMES:  </strong>Right.But then your program still has that larger memory space. I don’t believe Ruby actually ends up releasing that memory back to the current rule, is that right? I may be wrong there.
+
+<strong>TONY:  </strong>So basically, you’re saying the heap grows over time.
+
+<strong>JAMES:  </strong>Sure, yeah.
+
+<strong>TONY:  </strong>This is, again, where if this is really an issue, you definitely want to be using JRuby where the JVM has like ten different garbage collectors you can choose from. And actually, the JVM can shrink the heap if it decides basically that there’s so much extra space inside the heap that it wants to really send back to the kernel, it can definitely do that. Off hand, I don’t know about MRI per se, whether it can do that. I’m used to typically having a fairly high allocation rate in the APSA or debug. So, that isn’t usually a problem that comes up for me where something uses a bunch of RAM linked for some one off-thing and then it stops using a bunch of RAM for a while. And it might be useful to release that memory back. Yeah I mean, these programs are ideal with just allocate, allocate, allocate. So yeah, I’d say use the JVM if you’d like to have that ability there.
+
+<strong>JAMES:  </strong>It kind of reads to one last question, I guess, we could probably close on. What would be your list of advice for people getting into concurrent programming? Are there certain things you would recommend? “Just go this way. It really helps.” It sounds from this conversation that we’ve had, one of the top tips is probably, “Switch to the JVM, switch to JRuby,” because you’ve got better garbage collection choices, native threads, no GIL, that kind of thing. What other tips? Should everybody start at Celluloid? What tips do you have for concurrent programming?
+
+<strong>TONY:  </strong>So, to go along with the JVM in general, there’s a really cool and free debugger for the JVM. Not really a debugger but a visualization tool, I guess, called VisualVM. And one of the main things VisualVM offers is a real time view of what every thread in the system is doing. So, you can sort of see a picture of like these threads are running, these threads are sleeping. You can get a thread -- it’s like a little thread dump button, so you can get a dump of all their stacks and see what they’re actually doing. And so, VisualVM is definitely really a handy tool for seeing what’s going on in your multithreaded program. Let’s see, additional advice as far as should you start with Celluloid or should you start with a native Ruby thread API. I’d say, probably do a little bit of both. It’d be good if you play it around with Ruby threads and kind of figure out how they work. And I think, this is something where there isn’t a good resource right now is kind of, “How do I do multithread programming with all the stuff built into the standard library?” There’s actually a ton of stuff. Like, I’m still discovering stuff after years of doing this. So yeah, I wish there were kind of a better resource for getting started with multithread programming with the Ruby standard library. Maybe eventually, I’ll write something like that. I don’t know. We’ll see.
+
+<strong>KATRINA:  </strong>Are there any good resources for other languages just to help get your brain wrapped around the whole idea of concurrent programming?
+
+<strong>TONY:  </strong>Yeah. There are several book about the JVM specifically. I'm trying to think. I read a good one from the pragmatic programmers. I forgot the exact name. I think it’s called ‘Concurrent Programming on the JVM’. It covers all the stuff in java.util.concurrent. So, there are these really neat things called Lock Free Data Structures on the JVM where you can try to get a set of values, like say a concurrent hash wrap and none of that will ever block because it’s all synchronized using sort of these, using things like spinlocks and that kind of thing where you’re not actually requiring a Mutex. So, it’s really fast. Several threads can access it at the same time and they’re not going to be contended on Mutex. So definitely, check out some of these JVM books, I would say.
+
+<strong>JAMES:  </strong>Alright. Well, thanks Tony. That was just a ton of like crazy useful info.
+
+<strong>TONY:</strong>  Yeah, yeah.
+
+<strong>JAMES:</strong>  Shall we do some picks?
+
+<strong>TONY:  </strong>Yeah, sure.
+
+<strong>JAMES:  </strong>Okay. Avdi, do you want to go first?
+
+<strong>AVDI:  </strong>I don’t have a lot this week. I saw a funny show last night. There’s a Hulu original series called Spy. And I guess it’s an English show. It’s all in British accents and it’s kind of got that dry humor going. It was fun. If you watch Hulu, look it up. Spy.
+
+<strong>JAMES:  </strong>Katrina?
+
+<strong>KATRINA:  </strong>Yeah, sure. The other day, I was pair programming with one of my colleagues and I did a commit. And he asked me, “Why did your camera go on?” So, this is a batch script I wrote based on a program called Image Snap. And it just snaps an image, snaps a picture using your webcam every time you commit. So, that’s a lot of fun. I’ve been collecting these pictures from every commit for months. And it’s actually pretty hilarious because you can see me, starting out in the evening and then a whole series of commits where the last one, I’m practically asleep. So, that’s just one of the picks. And then, the other pick that I have is YourLogicalFallicyIs.com, which is very useful in these times of great debates. That’s all I’ve got.
+
+<strong>JAMES:  </strong>I love that site. Okay. So, I have a few picks. I’ll do just quickly here. In playing with concurrency a little bit, one of the things I’ve played with quite a bit recently is StatsD, which is this Daemon service that you can send just stats to it over a UDP socket which means it’s usually quite a bit quicker than your typical connection, and when you’re gathering stats that’s usually really important because you don’t want to drag your system to its knees. It’s a server invented by Etsy, I think. And they talk a lot about how they use it. But anyway, there’s a great Ruby client for it that makes this easy to play with and stuff. So, I recommend checking that out. Then recently in the normal world, I find myself in meetings all of a sudden which is not something I’ve done recently. And meetings that are big and involving a lot of debate over issues and stuff like that. So, we’re using Robert’s Rules of Order. And I found this great book that’s made by the body that maintains Robert’s Rules of Order. But it’s a really small kind of Quick Notes version is almost what it feels like, which is really nice because the big Robert’s Rules manual is like 700 pages. And this one’s just like 180, and I’ve read it in about four hours or so. It’s a really great intro for most of the stuff you need to participate in meetings like that. Also on the meeting front, consensus building tools are pretty helpful. And this is a pretty neat one I’ve run into lately called Fist-To-Five. And it’s about how everybody holds up a fist or so many fingers and that tells you their position on, if they have major objections or minor objections and stuff like that. And that tells you who to take the discussion to next and those kinds of things. Really good for helping a group reach a consensus much faster. So, those are the tools I’ve found helpful in meetings I’m now in. Tony, what about your picks?
+
+<strong>TONY:  </strong>I’ve got a couple concurrency related things here. The first one was what I alluded to earlier, for immutable state. It’s called Hamster. It’s efficient, immutable, thread-safe collection classes for Ruby. So, what these are, are immutable persistent data structures. And persistent means not that they’re written to disc but that basically when you make a new version, when you would normally mutate, it sort of shares parts of the old one. So, it’s really efficient. Whenever you want to change something, it just changes the little pieces that you actually want to modify and everything else gets shared with the older version. So, it’s sort of like Scala Z for Ruby. Basically, if you’ve ever heard of Scala Z, but it’s got immutable sets, lists, stacks, queues, and vectors. So, these would go great with Celluloid for building concurrent programs. Then, the other I have, this is from Charlie Nutter of the JRuby project. He made a library called cloby. And what cloby does is take the closure, software transactional memory engine effectively and lets you use it in Ruby. What you can do is extend cloby on any Ruby object and then you get transactional semantics on instance variables. So, you could have several threads. Potentially, you’re trying to modify an object at the same time. But you get transactional semantics. So, all these modifications you’re making are happening in big groups. And if you throw an exception, I believe, it’s going to roll back and none your modifications will actually happen. So, there’s two neat libraries to check out if you’re trying to build concurrent programs in Ruby.
+
+<strong>JAMES:  </strong>Awesome. And did you mention earlier that there’s a mailing list for Celluloid?
+
+<strong>TONY:  </strong>There is. There’s a Google group. It’s just Celluloid-Ruby is the name of the Google group. So hopefully, you can find it there.
+
+<strong>JAMES:  </strong>Cool. That’s probably pretty helpful for people dealing with this kind of stuff.<strong> </strong>
+
+<strong>TONY:  </strong>Yeah, definitely.
+
+<strong>JAMES:  </strong>Alright. Well, thanks Tony, very much again for coming and talking to us and talking to us about all this kind of complicated stuff. We appreciate it.
+
+<strong>TONY:  </strong>No problem.
+
+<strong>JAMES:  </strong>Alright. We’re going to wrap up this episode and you can find us or leave us a review on iTunes. And we will see you next week.
+
+								<p class="text-bg">Leidanett was living a life of almost unfathomable despair a year ago no one knows (1995)</p>
+								<p>
+									<span class="tie-dropcap">A</span> farmers in the US’s South—faced with continued failure in their efforts to run on successful farms their
+									launched a lawsuit claiming that “white racism” is to the blame for their inability to produce crop yields.
+								</p>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<blockquote>
+									Black farmers in the US’s South faced with continued failure in their efforts to run the successful farms launched a lawsuit
+									<cite>Steve Jobs</cite>
+								</blockquote>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should
+								</h3>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<p>
+									<img class="float-left" src="/images/news/news-details/post_style.jpg" alt="">
+								</p>
+								<h3>For the first time the Secretart end</h3>
+								<ul>
+									<li>But there was also no shortage of new</li>
+									<li>Prasad made these comments on</li>
+									<li>He gave details of the answers provided</li>
+									<li>The government forthcoming in before</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South faced with the thecontinu failure in their own efforts to run and succe farms is to blame
+									for their inability to an sell an black farme a subpar product at
+								</p>
+								<p>
+									the most Mid-South Farm on Gin Show in them March 2017.Despite above average rainfall the black farmers saw limited
+								</p>
+
+								<div class="gallery-img">
+									<a href="/images/gallery/gallery1.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery1.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery2.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery2.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery3.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery3.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery4.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery4.jpg" alt="">
+									</a>
+									<a href="/images/gallery/gallery5.jpg" class="gallery-popup">
+										<img src="/images/gallery/gallery5.jpg" alt="">
+									</a>
+								</div>
+								<p>
+									Black farmers in the US’s South—
+									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
+									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
+								</p>
+								<div class="post-video">
+									<img class="img-fluid" src="/images/news/travel/travel9.jpg" alt="">
+									<div class="post-video-content">
+										<a href="https://www.youtube.com/watch?v=_0UO1NcheAE" class="ts-play-btn">
+											<i class="fa fa-play" aria-hidden="true"></i>
+										</a>
+										<h3>
+											<a href=""> For the first time the Swiss State Secretart for Economic indicated that Uber taxi</a>
+										</h3>
+									</div>
+								</div>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should be classed
+									as employees
+								</h3>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability to produce crop yields and on equivalent to that switched
+									seeds in order to sell black farmers a subpar product at the Mid-South Farm & Gin Show in March 2017. Despite above
+									average rainfall, the black farmers saw limited soybean yield from the Stine seeds during the 2017 harvest.
+								</p>
+								<p>
+									<a href="">
+										<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
+									</a>
+								</p>
+								<h3>
+									For the first time the Swiss State Secretart for Economic Affair
+								</h3>
+								<ul>
+									<li>
+										But there was also no shortage of news for the worlds of film.
+									</li>
+									<li>
+										Prasad made these comments on behalf of the Treasury benches.
+									</li>
+									<li>
+										He gave details of the answers provided by Defence.
+									</li>
+									<li>
+										The government has been forthcoming in declaring the aircraft.
+									</li>
+								</ul>
+								<p>
+									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
+									claiming that “white racism” is to blame for their inability
+								</p>
+							</div>
+							<!-- entry content end-->
+						</div>
+						<!-- post content area-->
+						<div class="author-box">
+							<img class="author-img" src="/images/avater/author.png" alt="">
+							<div class="author-info">
+								<h4 class="author-name">Elina Themen</h4>
+								<div class="authors-social">
+									<a href="#" class="ts-twitter">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<a href="#" class="ts-facebook">
+										<i class="fa fa-facebook"></i>
+									</a>
+									<a href="#" class="ts-google-plus">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<a href="#" class="ts-linkedin">
+										<i class="fa fa-linkedin"></i>
+									</a>
+								</div>
+								<div class="clearfix"></div>
+								<p>Black farmers in the US’s South—faced with continued failure in their efforts to run for the successful farms their
+									launched </p>
+
+							</div>
+						</div>
+						<!-- author box end-->
+						<div class="post-navigation clearfix">
+							<div class="post-previous float-left">
+								<a href="#">
+									<img src="/images/news/travel/travel6.jpg" alt="">
+									<span>Read Previous</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+							<div class="post-next float-right">
+								<a href="#">
+									<img src="/images/news/tech/tech5.jpg" alt="">
+									<span>Read Next</span>
+									<p>
+										Samsung goes big in India factory ever created
+									</p>
+								</a>
+							</div>
+						</div>
+						<!-- post navigation end-->
+					</div>
+					<!--single post end -->
+					<div class="comments-form ts-grid-box">
+						<h3 class="comment-reply-title">Add Comment</h3>
+
+						<form role="form" class="ts-form">
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										<input class="form-control" name="name" id="name" placeholder="Your Name" type="text" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" name="email" id="email" placeholder="Your Email" type="email" required="">
+									</div>
+									<!-- form group end-->
+									<div class="form-group">
+										<input class="form-control" placeholder="Your Website" type="text" required="">
+									</div>
+									<!-- form group end-->
+								</div>
+								<!-- Col end -->
+								<div class="col-md-6">
+									<div class="form-group">
+										<textarea class="form-control msg-box" id="message" placeholder="Your Comment" rows="10" required=""></textarea>
+									</div>
+								</div>
+								<!-- Col end -->
+								<div class="col-md-12">
+									<p class="comment-form-cookies-consent">
+										<input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes">
+										<label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+									</p>
+								</div>
+							</div>
+							<!-- Form row end -->
+							<div class="clearfix">
+								<button class="comments-btn btn btn-primary" type="submit">Post Comment</button>
+							</div>
+						</form>
+						<!-- Form end -->
+					</div>
+					<!-- comment form end-->
+					<div class="ts-grid-box mb-30">
+						<h2 class="ts-title">Most Popular</h2>
+
+						<div class="most-populers owl-carousel">
+							<div class="item">
+								<a class="post-cat ts-yellow-bg" href="#">Travel</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+
+							<div class="item">
+								<a class="post-cat ts-blue-light-bg" href="#">Technology</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion1.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/fashion/fashion2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+							<div class="item">
+								<a class="post-cat ts-pink-bg" href="#">Music</a>
+								<div class="ts-post-thumb">
+									<a href="#">
+										<img class="img-fluid" src="/images/news/music/music2.jpg" alt="">
+									</a>
+								</div>
+								<div class="post-content">
+									<h3 class="post-title">
+										<a href="#">Tourism in Dubai is booming by international tourist</a>
+									</h3>
+									<span class="post-date-info">
+										<i class="fa fa-clock-o"></i>
+										March 21, 2019
+									</span>
+								</div>
+							</div>
+							<!-- ts-grid-box end-->
+						</div>
+						<!-- most-populers end-->
+					</div>
+
+				</div>
+				<!-- col end -->
+				<div class="col-lg-3">
+					<div class="right-sidebar">
+						<div class="ts-grid-box widgets social-widget">
+							<h2 class="widget-title">Follow us</h2>
+							<ul class="ts-social-list">
+								<li class="ts-facebook">
+									<a href="#">
+										<i class="fa fa-facebook"></i>
+										<b>12.5 k </b>
+										<span>Likes</span>
+									</a>
+
+								</li>
+								<li class="ts-google-plus">
+									<a href="#">
+										<i class="fa fa-google-plus"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-twitter">
+									<a href="#">
+										<i class="fa fa-twitter"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-pinterest">
+									<a href="#">
+										<i class="fa fa-pinterest-p"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Photos</span>
+								</li>
+								<li class="ts-linkedin">
+									<a href="#">
+										<i class="fa fa-linkedin"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+								<li class="ts-youtube">
+									<a href="#">
+										<i class="fa fa-youtube"></i>
+									</a>
+									<b>12.5 k </b>
+									<span>Follwers</span>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets widget-banner">
+							<a href="#">
+								<img class="img-fluid" src="/images/banner/sidebar-banner2.jpg" alt="">
+							</a>
+						</div>
+						<!-- widgets end-->
+						<div class="post-list-item widgets">
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<li role="presentation">
+									<a class="active" href="#home" aria-controls="home" role="tab" data-toggle="tab">
+										<i class="fa fa-clock-o"></i>
+										Recent
+									</a>
+								</li>
+								<li role="presentation">
+									<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
+										<i class="fa fa-heart"></i>
+										Favorites
+									</a>
+								</li>
+							</ul>
+
+							<!-- Tab panes -->
+							<div class="tab-content">
+								<div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+
+								</div>
+								<!--ts-grid-box end -->
+
+								<div role="tabpanel" class="tab-pane ts-grid-box post-tab-list" id="profile">
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="green-color"> sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media ">
+										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Technology</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/sports/sports1.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="blue-color"> Sports</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content media">
+										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="pink-color"> Fashion</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">The body is a healing system. </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+									<div class="post-content  media">
+										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
+										<div class="media-body">
+											<span class="post-tag">
+												<a href="#" class="yellow-color"> Travel</a>
+											</span>
+											<h4 class="post-title">
+												<a href="">18 month old shoots himself by gun </a>
+											</h4>
+										</div>
+									</div>
+									<!--post-content end-->
+								</div>
+								<!--ts-grid-box end -->
+							</div>
+							<!-- tab content end-->
+						</div>
+						<!-- widgets end-->
+
+						<div class="ts-grid-box widgets category-widget">
+							<h2 class="widget-title">Categories</h2>
+							<ul class="category-list">
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Sports
+										<span class="ts-green-bg">25</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Travel
+										<span class="ts-orange-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Fashion
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Technology
+										<span class="ts-blue-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Music
+										<span class="ts-pink-bg">10</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">Food
+										<span class="ts-yellow-bg">10</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- widgets end-->
+
+						<div class="widgets ts-grid-box post-tab-list ts-col-box">
+							<h3 class="widget-title">Populer Post</h3>
+							<div class="ts-overlay-style">
+								<div class="item">
+									<div class="ts-post-thumb">
+										<a href="#">
+											<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
+										</a>
+									</div>
+									<div class="overlay-post-content">
+										<div class="post-content">
+											<h3 class="post-title">
+												<a href="#">Tourism in Dubai is boom international tourist</a>
+											</h3>
+											<ul class="post-meta-info">
+												<li>
+													<i class="fa fa-clock-o"></i>
+													March 21, 2019
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- ts-overlay-style  end-->
+
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">18 month shoots himself by gun </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+							<div class="post-content media">
+								<img class="d-flex sidebar-img" src="/images/news/tech/tech2.jpg" alt="">
+								<div class="media-body align-self-center">
+									<h4 class="post-title">
+										<a href="">The body is a healing system. </a>
+									</h4>
+								</div>
+							</div>
+							<!-- post content end-->
+
+						</div>
+
+						<div class="ts-grid-box widgets tag-list">
+							<h3 class="widget-title">Tags</h3>
+							<ul>
+								<li>
+									<a href="#">Tech</a>
+								</li>
+								<li>
+									<a href="#">Fashion</a>
+								</li>
+								<li>
+									<a href="#">Sports</a>
+								</li>
+								<li>
+									<a href="#">Football</a>
+								</li>
+								<li>
+									<a href="#">Styles</a>
+								</li>
+								<li>
+									<a href="#">Rech</a>
+								</li>
+								<li>
+									<a href="#">Lifestyle</a>
+								</li>
+								<li>
+									<a href="#">Technology</a>
+								</li>
+								<li>
+									<a href="#">Guide</a>
+								</li>
+								<li>
+									<a href="#">Food</a>
+								</li>
+								<li>
+									<a href="#">Animal</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- right sidebar end-->
+				<!-- col end-->
+			</div>
+			<!-- row end-->
+		</div>
+		<!-- container-->
+	</section>
+	<!-- single post end-->
+
+
+        
+		<!-- footer social list start-->
+		<section class="ts-footer-social-list section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="footer-logo">
+							<a href="#">
+								<img src="/images/logo/footer_logo.png" alt="">
+							</a>
+						</div>
+						<!-- footer logo end-->
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-8 align-self-center">
+						<ul class="footer-social">
+							<li class="ts-facebook">
+								<a href="#">
+									<i class="fa fa-facebook"></i>
+									<span>Facebook</span>
+								</a>
+							</li>
+							<li class="ts-google-plus">
+								<a href="#">
+									<i class="fa fa-google-plus"></i>
+									<span>Google Plus</span>
+								</a>
+							</li>
+							<li class="ts-twitter">
+								<a href="#">
+									<i class="fa fa-twitter"></i>
+									<span>Twitter</span>
+								</a>
+							</li>
+							<li class="ts-pinterest">
+								<a href="#">
+									<i class="fa fa-pinterest-p"></i>
+									<span>pinterest</span>
+								</a>
+							</li>
+							<li class="ts-linkedin">
+								<a href="#">
+									<i class="fa fa-linkedin"></i>
+									<span>Linkedin</span>
+								</a>
+
+							</li>
+						</ul>
+					</div>
+					<!-- col end-->
+
+				</div>
+			</div>
+		</section>
+		<!-- footer social list end-->
+
+		<!-- newslater start -->
+		<section class="ts-newslatter section-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="ts-newslatter-content">
+							<h2>
+								Sign up for the Newsletter
+							</h2>
+							<p>
+								Join our newsletter and get updates in your inbox. We won’t spam you and we respect your privacy.
+							</p>
+						</div>
+					</div>
+					<!-- col end-->
+
+					<div class="col-lg-6 align-self-center">
+						<div class="newsletter-form">
+							<form action="#" method="post" class="media align-items-end">
+								<div class="email-form-group media-body">
+									<i class="fa fa-paper-plane" aria-hidden="true"></i>
+									<input type="email" name="email" id="newsletter-form-email" class="form-control" placeholder="Enter Your Email" autocomplete="off">
+								</div>
+								<div class="d-flex ts-submit-btn">
+									<button class="btn btn-primary">Subscribe</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- newslater end -->
+
+		<!-- footer start -->
+		<footer class="ts-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="footer-menu text-center">
+							<ul>
+								<li>
+									<a href="#">Support</a>
+								</li>
+								<li>
+									<a href="#">Suggestion</a>
+								</li>
+								<li>
+									<a href="#">Privacy</a>
+								</li>
+								<li>
+									<a href="#">About</a>
+								</li>
+								<li>
+									<a href="#">Our Ads </a>
+								</li>
+								<li>
+									<a href="#">Terms</a>
+								</li>
+							</ul>
+						</div>
+						<div class="copyright-text text-center">
+							<p>&copy; 2018, Vinazine. All rights reserved</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- footer end -->
+
+
+	</div>
+
+
+	<!-- javaScript Files
+	=============================================================================-->
+
+	<!-- initialize jQuery Library -->
+	<script src="/js/jquery.min.js"></script>
+	<!-- navigation JS -->
+	<script src="/js/navigation.js"></script>
+	<!-- Popper JS -->
+	<script src="/js/popper.min.js"></script>
+
+	<!-- magnific popup JS -->
+	<script src="/js/jquery.magnific-popup.min.js"></script>
+
+
+
+	<!-- Bootstrap jQuery -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script src="/js/owl-carousel.2.3.0.min.js"></script>
+	<!-- slick -->
+	<script src="/js/slick.min.js"></script>
+
+	<!-- smooth scroling -->
+	<script src="/js/smoothscroll.js"></script>
+
+	<script src="/js/main.js"></script>
+</body>
+
+</html>
