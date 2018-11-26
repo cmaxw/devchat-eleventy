@@ -76,21 +76,15 @@ title: Devchat.tv - Home of the Developer Revolution and Top Podcasts
 							<h2 class="breaking-title float-left">
 								<i class="fa fa-bolt"></i> Our Latest Episodes :</h2>
 							<div class="breaking-news-content float-left" id="breaking_slider1">
-								<div class="breaking-post-content">
-									<p>
-										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
-									</p>
-								</div>
-								<div class="breaking-post-content">
-									<p>
-										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
-									</p>
-								</div>
-								<div class="breaking-post-content">
-									<p>
-										<a href="#">Parquet Courts on Resisting Nihilism & Why Tourism in Dubai is booming the world.</a>
-									</p>
-								</div>
+								{% for podcast in collections.podcast %}
+									{% if loop.index < 11 %}
+										<div class="breaking-post-content">
+											<p>
+												<a href="{{podcast.url}}">{{podcast.data.title}}</a>
+											</p>
+										</div>
+									{% endif %}
+								{% endfor %}
 							</div>
 						</div>
 					</div>
