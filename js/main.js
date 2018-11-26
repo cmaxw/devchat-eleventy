@@ -352,6 +352,7 @@ $(function ($) {
             autoplay: true,
             autoplaySpeed: 0,
             centerMode: true,
+            centerPadding: '100px',
             cssEase: 'linear',
             slidesToShow: 1,
             slidesToScroll: 1,
