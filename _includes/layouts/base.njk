@@ -74,9 +74,9 @@ title: Devchat.tv - Home of the Developer Revolution and Top Podcasts
 					<div class="col-md-8 align-self-center">
 						<div class="ts-breaking-news clearfix">
 							<h2 class="breaking-title float-left">
-								<i class="fa fa-bolt"></i> Our Latest Episodes :</h2>
+								<i class="fa fa-bolt"></i> Latest Shows:</h2>
 							<div class="breaking-news-content float-left" id="breaking_slider1">
-								{% for podcast in collections.podcast %}
+								{% for podcast in collections.podcast | reverse %}
 									{% if loop.index < 11 %}
 										<div class="breaking-post-content">
 											<p>
