@@ -1,2 +1,2 @@
 [build]
-    command = "eleventy --input=src --output=_site"
+    command = "npx eleventy --input=src --output=_site"
