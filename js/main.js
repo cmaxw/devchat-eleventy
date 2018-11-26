@@ -360,7 +360,8 @@ $(function ($) {
             infinite: true,
             initialSlide: 1,
             arrows: false,
-            buttons: false
+            buttons: false,
+            vertical: true
         });
     }
 
