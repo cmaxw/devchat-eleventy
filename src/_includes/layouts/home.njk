@@ -8,65 +8,45 @@ layout: layouts/base
 		<div class="row">
 			<div class="col-lg-3 pr-10">
 				<div class="ts-post-overlay-style-1 ts-post-style-5">
-					<div class="ts-overlay-style">
-						<div class="item">
-							<div class="ts-post-thumb">
-								<a class="post-cat ts-orange-bg" href="#">Travel</a>
-								<a href="#">
-									<img class="img-fluid" src="/images/news/travel/travel6.jpg" alt="">
-								</a>
-							</div>
+					{% for podcast in collections.podcast | reverse %}
+						{% if loop.index > 3}
+							{% if loop.index < 6 %}
+								<div class="ts-overlay-style">
+									<div class="item">
+										<div class="ts-post-thumb">
+											<a class="post-cat ts-orange-bg" href="#">{{podcasts[ podcast.data.podcast ].title}}</a>
+											<a href="{{podcast.url}}">
+												<img class="img-fluid" src="/images/news/travel/travel6.jpg" alt="">
+											</a>
+										</div>
 
-							<div class="overlay-post-content">
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">10 critical points from Zuckerberg’s epic security points manifesto</a>
-									</h3>
-									<ul class="post-meta-info">
-										<li>
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</li>
-									</ul>
+										<div class="overlay-post-content">
+											<div class="post-content">
+												<h3 class="post-title">
+													<a href="{{podcast.url}}">{{podcast.title}}</a>
+												</h3>
+												<ul class="post-meta-info">
+													<li>
+														<i class="fa fa-clock-o"></i>
+														{{podcast.date}}
+													</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<!-- end item-->
 								</div>
-							</div>
-						</div>
-						<!-- end item-->
-					</div>
-					<!-- ts overlay style end-->
-					<div class="ts-overlay-style">
-						<div class="item">
-							<div class="ts-post-thumb">
-								<a class="post-cat ts-green-bg" href="#">Sports</a>
-								<a href="#">
-									<img class="img-fluid" src="/images/news/sports/sports2.jpg" alt="">
-								</a>
-							</div>
-
-							<div class="overlay-post-content">
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">Tourism in Dubai is booming international tourist most visited place</a>
-									</h3>
-									<ul class="post-meta-info">
-										<li>
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<!-- end item-->
-					</div>
-					<!-- ts overlay style end-->
+								<!-- ts overlay style end-->
+							{% endif %}
+						{% endif %}
+					{% endfor %}				
 				</div>
 			</div>
 			<!-- col end-->
 			<div class="col-lg-6 pl-0 pr-10">
 				<div id="featured-slider-2" class="owl-carousel ts-overlay-style ts-featured">
 					{% for podcast in collections.podcast | reverse %}
-						{% if loop.index < 3 %}
+						{% if loop.index < 4 %}
 							<div class="item" style="background-image:url(/images/news/travel/travel1.jpg)">
 								<a class="post-cat ts-orange-bg" href="#">{{podcasts[ podcast.data.podcast ].title}}</a>
 								<div class="overlay-post-content">
@@ -75,18 +55,9 @@ layout: layouts/base
 											<a href="{{podcast.url}}">{{podcast.data.title}}</a>
 										</h2>
 										<ul class="post-meta-info">
-											<li class="author">
-												<a href="#">
-													<img src="/images/avater/author1.jpg" alt=""> Donald Ramos
-												</a>
-											</li>
 											<li>
 												<i class="fa fa-clock-o"></i>
-												March 21, 2019
-											</li>
-											<li class="active">
-												<i class="icon-fire"></i>
-												3,005
+												{{podcast.date}}
 											</li>
 										</ul>
 									</div>
@@ -96,118 +67,44 @@ layout: layouts/base
 							<!-- Item 1 end -->
 						{% endif %}
 					{% endfor %}
-					<div class="item" style="background-image:url(images/news/travel/travel2.jpg)">
-						<a class="post-cat ts-orange-bg" href="#">TRAVEL</a>
-						<div class="overlay-post-content">
-							<div class="post-content">
-								<h2 class="post-title lg">
-									<a href="#">10 critical points from Zuckerberg’s epic security points manifesto</a>
-								</h2>
-								<ul class="post-meta-info">
-									<li class="author">
-										<a href="#">
-											<img src="/images/avater/author1.jpg" alt=""> Donald Ramos
-										</a>
-									</li>
-									<li>
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</li>
-									<li class="active">
-										<i class="icon-fire"></i>
-										3,005
-									</li>
-								</ul>
-							</div>
-						</div>
-						<!--/ Featured post end -->
-					</div>
-					<!-- Item 2 end -->
-					<div class="item" style="background-image:url(images/news/travel/travel3.jpg)">
-						<a class="post-cat ts-orange-bg" href="#">TRAVEL</a>
-						<div class="overlay-post-content">
-							<div class="post-content">
-								<h2 class="post-title lg">
-									<a href="#">{{podcast.title}}</a>
-								</h2>
-								<ul class="post-meta-info">
-									<li class="author">
-										<a href="#">
-											<img src="/images/avater/author1.jpg" alt=""> Donald Ramos
-										</a>
-									</li>
-									<li>
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</li>
-									<li class="active">
-										<i class="icon-fire"></i>
-										3,005
-									</li>
-								</ul>
-							</div>
-						</div>
-						<!--/ Featured post end -->
-					</div>
-					<!-- Item 3 end -->
 				</div>
 				<!-- Featured owl carousel end-->
 			</div>
 			<!-- col end-->
 			<div class="col-lg-3 pl-0">
 				<div class="ts-post-overlay-style-1">
-					<div class="ts-overlay-style">
-						<div class="item">
-							<div class="ts-post-thumb">
-								<a class="post-cat ts-blue-bg" href="#">Technology</a>
-								<a href="#">
-									<img class="img-fluid" src="/images/news/tech/tech5.jpg" alt="">
-								</a>
-							</div>
+					{% for podcast in collections.podcast | reverse %}
+						{% if loop.index > 5}
+							{% if loop.index < 8 %}
+								<div class="ts-overlay-style">
+									<div class="item">
+										<div class="ts-post-thumb">
+											<a class="post-cat ts-orange-bg" href="#">{{podcasts[ podcast.data.podcast ].title}}</a>
+											<a href="#">
+												<img class="img-fluid" src="/images/news/travel/travel6.jpg" alt="">
+											</a>
+										</div>
 
-							<div class="overlay-post-content">
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">Man plans to ride out Hurricane Florence on a boat</a>
-									</h3>
-									<ul class="post-meta-info">
-										<li>
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</li>
-									</ul>
+										<div class="overlay-post-content">
+											<div class="post-content">
+												<h3 class="post-title">
+													<a href="{{podcast.url}}">{{podcast.title}}</a>
+												</h3>
+												<ul class="post-meta-info">
+													<li>
+														<i class="fa fa-clock-o"></i>
+														{{podcast.date}}
+													</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<!-- end item-->
 								</div>
-							</div>
-						</div>
-						<!-- end item-->
-					</div>
-					<!-- ts overlay style end-->
-					<div class="ts-overlay-style">
-						<div class="item">
-							<div class="ts-post-thumb">
-								<a class="post-cat ts-pink-bg" href="#">Music</a>
-								<a href="#">
-									<img class="img-fluid" src="/images/news/music/music1.jpg" alt="">
-								</a>
-							</div>
-
-							<div class="overlay-post-content">
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">Tourism in Dubai is booming international tourist most visited place</a>
-									</h3>
-									<ul class="post-meta-info">
-										<li>
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<!-- end item-->
-					</div>
-					<!-- ts overlay style end-->
+								<!-- ts overlay style end-->
+							{% endif %}
+						{% endif %}
+					{% endfor %}
 				</div>
 			</div>
 			<!--col end-->
