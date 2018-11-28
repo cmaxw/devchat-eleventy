@@ -12,8 +12,8 @@ layout: layouts/base
 						<div class="ts-overlay-style">
 							<div class="item">
 								<div class="ts-post-thumb">
-									<a class="post-cat ts-green-bg" href="#">Sports</a>
-									<a href="#">
+									<a href="{{podcast.url}}">{{podcast.data.title}}</a>
+									<a href="{{podcast.url}}">
 										<img class="img-fluid" src="/images/news/sports/sports2.jpg" alt="">
 									</a>
 								</div>
@@ -21,12 +21,12 @@ layout: layouts/base
 								<div class="overlay-post-content">
 									<div class="post-content">
 										<h3 class="post-title">
-											<a href="#">Tourism in Dubai is booming international tourist most visited place</a>
+											<a href="{{podcast.url}}">{{podcast.data.title}}</a>
 										</h3>
 										<ul class="post-meta-info">
 											<li>
 												<i class="fa fa-clock-o"></i>
-												March 21, 2019
+												{{podcast.date}}
 											</li>
 										</ul>
 									</div>
@@ -54,13 +54,13 @@ layout: layouts/base
 											<i class="fa fa-calendar-o"></i>
 											{{ podcast.date }}
 										</li>
-										<li class="author">
+										<li class="author" style="margin-right: 0px; padding-right: 0px;">
 											<a href="#"><img src="/images/avater/author1.jpg" alt=""></a>
 										</li>
-										<li class="author">
+										<li class="author" style="margin-right: 0px; padding-right: 0px;">
 											<a href="#"><img src="/images/avater/author1.jpg" alt=""></a>
 										</li>
-										<li class="author">
+										<li class="author" style="margin-right: 0px; padding-right: 0px;"P>
 											<a href="#"><img src="/images/avater/author1.jpg" alt=""></a>
 										</li>
 										<li class="active">
