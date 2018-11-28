@@ -11,8 +11,8 @@ layout: layouts/base
 					{% for podcast in collections.podcast | reverse %}{% if loop.index > 3 %}{% if loop.index < 6 %}
 						<div class="ts-overlay-style">
 							<div class="item">
-								<a class="post-cat ts-orange-bg" href="{{podcast.url}}">{{podcasts[ podcast.data.podcast ].title}}</a>
 								<div class="ts-post-thumb">
+									<a class="post-cat ts-orange-bg" href="{{podcast.url}}">{{podcasts[ podcast.data.podcast ].title}}</a>
 									<a href="{{podcast.url}}">
 										<img class="img-fluid" src="/images/news/sports/sports2.jpg" alt="">
 									</a>
