@@ -1,5 +1,6 @@
 const moment = require("moment");
 const nunjucksDate = require('nunjucks-date');
+nunjucksDate.setDefaultFormat('MMM Do YYYY');
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("images");
