@@ -42,7 +42,7 @@ layout: layouts/base
 			<div class="col-lg-6 pl-0 pr-10">
 				<div id="featured-slider-2" class="owl-carousel ts-overlay-style ts-featured">
 					{% for podcast in collections.podcast | reverse %}{% if loop.index < 4 %}
-						<div class="item" style="background-image:url(/images/news/travel/travel1.jpg)">
+						<div class="item" style="background-image:url(/images/podcasts/{{podcasts[ podcast.data.podcast ].artwork}})">
 							<a class="post-cat ts-orange-bg" href="#">{{podcasts[ podcast.data.podcast ].title}}</a>
 							<div class="overlay-post-content">
 								<div class="post-content">
@@ -86,7 +86,7 @@ layout: layouts/base
 								<div class="ts-post-thumb">
 									<a class="post-cat ts-orange-bg" href="{{podcast.url}}">{{podcasts[ podcast.data.podcast ].title}}</a>
 									<a href="{{podcast.url}}">
-										<img class="img-fluid" src="/images/news/sports/sports2.jpg" alt="">
+										<img class="img-fluid" src="/images/podcasts/{{podcasts[ podcast.data.podcast ].artwork}}" alt="">
 									</a>
 								</div>
 
