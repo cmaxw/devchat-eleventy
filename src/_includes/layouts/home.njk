@@ -8,58 +8,34 @@ layout: layouts/base
 		<div class="row">
 			<div class="col-lg-3 pr-10">
 				<div class="ts-post-overlay-style-1 ts-post-style-5">
-					<div class="ts-overlay-style">
-						<div class="item">
-							<div class="ts-post-thumb">
-								<a class="post-cat ts-orange-bg" href="#">Travel</a>
-								<a href="#">
-									<img class="img-fluid" src="/images/news/travel/travel6.jpg" alt="">
-								</a>
-							</div>
+					{% for podcast in collections.podcast | reverse %}{% if loop.index > 3 %}{% if loop.index < 6 %}
+						<div class="ts-overlay-style">
+							<div class="item">
+								<div class="ts-post-thumb">
+									<a class="post-cat ts-green-bg" href="#">Sports</a>
+									<a href="#">
+										<img class="img-fluid" src="/images/news/sports/sports2.jpg" alt="">
+									</a>
+								</div>
 
-							<div class="overlay-post-content">
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">10 critical points from Zuckerberg’s epic security points manifesto</a>
-									</h3>
-									<ul class="post-meta-info">
-										<li>
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</li>
-									</ul>
+								<div class="overlay-post-content">
+									<div class="post-content">
+										<h3 class="post-title">
+											<a href="#">Tourism in Dubai is booming international tourist most visited place</a>
+										</h3>
+										<ul class="post-meta-info">
+											<li>
+												<i class="fa fa-clock-o"></i>
+												March 21, 2019
+											</li>
+										</ul>
+									</div>
 								</div>
 							</div>
+							<!-- end item-->
 						</div>
-						<!-- end item-->
-					</div>
-					<!-- ts overlay style end-->
-					<div class="ts-overlay-style">
-						<div class="item">
-							<div class="ts-post-thumb">
-								<a class="post-cat ts-green-bg" href="#">Sports</a>
-								<a href="#">
-									<img class="img-fluid" src="/images/news/sports/sports2.jpg" alt="">
-								</a>
-							</div>
-
-							<div class="overlay-post-content">
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">Tourism in Dubai is booming international tourist most visited place</a>
-									</h3>
-									<ul class="post-meta-info">
-										<li>
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<!-- end item-->
-					</div>
-					<!-- ts overlay style end-->
+						<!-- ts overlay style end-->
+					{% endif %}{% endif %}{% endfor %}
 				</div>
 			</div>
 			<!-- col end-->
