@@ -7,7 +7,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("js");
     eleventyConfig.addPassthroughCopy("fonts");
 
-    eleventyConfig.addFilter('date', nunjucksDate);
+    eleventyConfig.addNunjucksFilter('date', nunjucksDate);
 
     eleventyConfig.addFilter("head", (array, n) => {
         if( n < 0 ) {
