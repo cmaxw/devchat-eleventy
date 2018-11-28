@@ -1,4 +1,5 @@
 const moment = require("moment");
+const nunjucksDate = require('nunjucks-date');
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("images");
@@ -6,10 +7,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("js");
     eleventyConfig.addPassthroughCopy("fonts");
 
-    eleventyConfig.addShortcode("short_date", function(itemDate) {
-      var dateString = moment(itemDate).format("MMM Do, YYYY");
-      return dateString;
-    });
+    eleventyConfig.addFilter('date', nunjucksDate);
 
     eleventyConfig.addFilter("head", (array, n) => {
         if( n < 0 ) {

@@ -1,6 +1,7 @@
 {
     "devDependencies": {
         "@11ty/eleventy": "^0.5.4",
-        "moment": "^2.22.2"
+        "moment": "^2.22.2",
+        "nunjucks-date": "^1.2.0"
     }
 }
