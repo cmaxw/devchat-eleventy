@@ -76,7 +76,7 @@ layout: layouts/base
 									<ul class="post-meta-info">
 										<li>
 											<i class="fa fa-calendar-o"></i>
-											{{podcast.date}}
+											{% moment(podcast.date).format("MMM Do YYYY") %}
 										</li>
 										<li class="author">
 											<a href="#"><img src="/images/avater/author1.jpg" alt=""></a>
