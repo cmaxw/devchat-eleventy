@@ -80,58 +80,34 @@ layout: layouts/base
 			<!-- col end-->
 			<div class="col-lg-3 pl-0">
 				<div class="ts-post-overlay-style-1">
-					<div class="ts-overlay-style">
-						<div class="item">
-							<div class="ts-post-thumb">
-								<a class="post-cat ts-blue-bg" href="#">Technology</a>
-								<a href="#">
-									<img class="img-fluid" src="/images/news/tech/tech5.jpg" alt="">
-								</a>
-							</div>
+					{% for podcast in collections.podcast | reverse %}{% if loop.index > 5 %}{% if loop.index < 8 %}
+						<div class="ts-overlay-style">
+							<div class="item">
+								<div class="ts-post-thumb">
+									<a class="post-cat ts-orange-bg" href="{{podcast.url}}">{{podcasts[ podcast.data.podcast ].title}}</a>
+									<a href="{{podcast.url}}">
+										<img class="img-fluid" src="/images/news/sports/sports2.jpg" alt="">
+									</a>
+								</div>
 
-							<div class="overlay-post-content">
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">Man plans to ride out Hurricane Florence on a boat</a>
-									</h3>
-									<ul class="post-meta-info">
-										<li>
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</li>
-									</ul>
+								<div class="overlay-post-content">
+									<div class="post-content">
+										<h3 class="post-title">
+											<a href="{{podcast.url}}">{{podcast.data.title}}</a>
+										</h3>
+										<ul class="post-meta-info">
+											<li>
+												<i class="fa fa-clock-o"></i>
+												{{ podcast.data.date | date }}
+											</li>
+										</ul>
+									</div>
 								</div>
 							</div>
+							<!-- end item-->
 						</div>
-						<!-- end item-->
-					</div>
-					<!-- ts overlay style end-->
-					<div class="ts-overlay-style">
-						<div class="item">
-							<div class="ts-post-thumb">
-								<a class="post-cat ts-pink-bg" href="#">Music</a>
-								<a href="#">
-									<img class="img-fluid" src="/images/news/music/music1.jpg" alt="">
-								</a>
-							</div>
-
-							<div class="overlay-post-content">
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">Tourism in Dubai is booming international tourist most visited place</a>
-									</h3>
-									<ul class="post-meta-info">
-										<li>
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<!-- end item-->
-					</div>
-					<!-- ts overlay style end-->
+						<!-- ts overlay style end-->
+					{% endif %}{% endif %}{% endfor %}
 				</div>
 			</div>
 			<!--col end-->
