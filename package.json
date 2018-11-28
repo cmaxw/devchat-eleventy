@@ -1,5 +1,6 @@
 {
     "devDependencies": {
-        "@11ty/eleventy": "^0.5.4"
+        "@11ty/eleventy": "^0.5.4",
+        "moment": "^2.22.2"
     }
 }

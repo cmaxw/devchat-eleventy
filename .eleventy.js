@@ -1,8 +1,15 @@
+const moment = require("moment");
+
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("css");
     eleventyConfig.addPassthroughCopy("js");
     eleventyConfig.addPassthroughCopy("fonts");
+
+    eleventyConfig.addShortcode("short_date", function(itemDate) {
+      var dateString = moment(itemDate).format("MMM Do, YYYY");
+      return dateString;
+    });
 
     eleventyConfig.addFilter("head", (array, n) => {
         if( n < 0 ) {
