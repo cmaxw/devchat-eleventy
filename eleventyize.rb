@@ -39,15 +39,10 @@ duration: #{meta['duration']}
 audio_url: #{meta['audio_url']}
 podcast: #{post_type}
 tags: 
-  - #{post_type.gsub("-", "_")}
-  - podcast
+  - #{post_type.gsub("-", "_")}#{"\n  - podcast" if post_type != "page"}
 ---
 
-#{ReverseMarkdown.convert content}
-
-### Transcript
-
-#{ReverseMarkdown.convert meta['transcript']}
+#{ReverseMarkdown.convert content}#{"\n\n### Transcript\n\n" if meta['transcript']}#{ReverseMarkdown.convert(meta['transcript']) if meta['transcript']}
 EOF
 
     unless File.directory?("src/#{post_type}")
