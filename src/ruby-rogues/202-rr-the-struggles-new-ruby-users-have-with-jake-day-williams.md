@@ -10,6 +10,7 @@ podcast: ruby-rogues
 tags: 
   - ruby_rogues
   - podcast
+  - new_programmers
 ---
 
 [Support our Teespring campaign!](http://www.teespring.com/aprilrogues) Get your Ruby Rogues unisex t-shirts, hoodies, ladies’-sized, and long-sleeve tees!

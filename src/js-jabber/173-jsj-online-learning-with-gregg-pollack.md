@@ -10,6 +10,7 @@ podcast: js-jabber
 tags: 
   - js_jabber
   - podcast
+  - new_programmers
 ---
 
 Check out [Angular Remote Conf](http://www.angularremoteconf.com)!

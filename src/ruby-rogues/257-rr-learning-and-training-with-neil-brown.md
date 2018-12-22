@@ -10,6 +10,7 @@ podcast: ruby-rogues
 tags: 
   - ruby_rogues
   - podcast
+  - new_programmers
 ---
 
 01:29 - Neil Brown Introduction

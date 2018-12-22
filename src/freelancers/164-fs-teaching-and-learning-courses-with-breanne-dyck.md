@@ -10,6 +10,7 @@ podcast: freelancers
 tags: 
   - freelancers
   - podcast
+  - new_programmers
 ---
 
 Check out [RailsClips](http://devchat.tv/rails-clips) and [RemoteConfs](http://remoteconfs.com/)!

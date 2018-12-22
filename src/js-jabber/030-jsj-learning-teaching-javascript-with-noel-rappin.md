@@ -10,10 +10,10 @@ podcast: js-jabber
 tags: 
   - js_jabber
   - podcast
+  - new_programmers
 ---
 
 ## Panel
-
 - Noel Rappin ([twitter](https://twitter.com/noelrap) [github](https://github.com/noelrappin) [blog](http://www.noelrappin.com/))
 - Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
 - Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Intro to CoffeeScript](http://introtocoffeescript.eventbrite.com/))

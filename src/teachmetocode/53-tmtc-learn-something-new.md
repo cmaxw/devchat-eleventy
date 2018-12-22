@@ -10,6 +10,7 @@ podcast: teachmetocode
 tags: 
   - teachmetocode
   - podcast
+  - new_programmers
 ---
 
 [powerpress] Every programmer should find opportunities to learn something new. Why?

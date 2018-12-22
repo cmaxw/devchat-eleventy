@@ -10,6 +10,7 @@ podcast: react-round-up
 tags: 
   - react_round_up
   - podcast
+  - new_programmers
 ---
 
  **Panel:**

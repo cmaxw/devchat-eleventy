@@ -10,6 +10,7 @@ podcast: freelancers
 tags: 
   - freelancers
   - podcast
+  - new_programmers
 ---
 
 Eric and Curtis discuss how their learning has changed from the start of their career to now.

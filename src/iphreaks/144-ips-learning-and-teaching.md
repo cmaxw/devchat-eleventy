@@ -10,6 +10,7 @@ podcast: iphreaks
 tags: 
   - iphreaks
   - podcast
+  - new_programmers
 ---
 
 01:13 - How Jaim and Andrew Got Started in Programming

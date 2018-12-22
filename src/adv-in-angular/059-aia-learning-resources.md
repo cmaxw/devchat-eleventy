@@ -10,6 +10,7 @@ podcast: adv-in-angular
 tags: 
   - adv_in_angular
   - podcast
+  - new_programmers
 ---
 
 Get your tickets for [Angular Remote Conf](http://aia059learningresources.mp3)!

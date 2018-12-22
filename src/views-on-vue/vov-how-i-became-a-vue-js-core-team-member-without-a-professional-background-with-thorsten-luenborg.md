@@ -10,6 +10,7 @@ podcast: views-on-vue
 tags: 
   - views_on_vue
   - podcast
+  - new_programmers
 ---
 
  **Panel:**

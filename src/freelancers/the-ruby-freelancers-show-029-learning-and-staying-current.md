@@ -10,6 +10,7 @@ podcast: freelancers
 tags: 
   - freelancers
   - podcast
+  - new_programmers
 ---
 
 Panel Charles Max Wood (twitter&nbsp;github&nbsp;Teach Me To Code&nbsp;Rails Summer Camp) Eric Davis (twitter&nbsp;github&nbsp;blog) Discussion Requires Time and Effort No Time vs. Not A Priority Learning Takes Energy Make a list of things to learn, set a schedule. Learning GNU Emacs Books vs. Screencasts IRC Mailing Lists The Third Tribe The Podcast Mastermind Evan's Cat The Main Modes of Learning The Learning Pyramid Picks The Learning Pyramid (Eric) Pragmatic Thinking and Learning (Eric) Downcast (Eric) Ruby Rogues - DHH (Eric) Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson&nbsp;(Eric) ViewSonic VA2431WM (Chuck) 75 to 100mm VESA Converter Plates (Chuck) LG Tone Bluetooth Headset (Chuck) Go Groove Blue Sync Bluetooth Speaker (Chuck)

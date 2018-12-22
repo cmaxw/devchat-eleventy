@@ -10,12 +10,13 @@ podcast: js-jabber
 tags: 
   - js_jabber
   - podcast
+  - new_programmers
 ---
 
  **Panel:&nbsp;** AJ O’Neal Joe Eames Aimee Knight **Special Guests: Chris Ferdinandi** In this episode, JavaScript Jabber panelist speak with Chris Ferdinandi. Chris teaches vanilla JavaScript to beginners and those coming from a design background. Chris mentions his background in Web design and Web Develop that led him JavaScript development. Chris and the JSJ panelist discuss the best ways to learn JavaScript, as well as resources for learning JavaScript. Also, some discussion of technologies that work in conjunction with vanilla JavaScript. **In particular, we dive pretty deep on:**
 - Teaching JavaScript - Beginners and Design patrons
 - Web Design and Web Development
-- [CSS Tricks&nbsp;](https://css-tricks.com)
+- [CSS Tricks](https://css-tricks.com)
 - [Todd Motto](https://toddmotto.com)
 - How to do jQuery Things without jQuery
 - Doing things like mentors (Todd)

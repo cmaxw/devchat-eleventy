@@ -10,6 +10,7 @@ podcast: ruby-rogues
 tags: 
   - ruby_rogues
   - podcast
+  - new_programmers
 ---
 
 ## **Scope Wars and Being New**

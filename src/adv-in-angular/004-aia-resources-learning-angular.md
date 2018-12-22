@@ -10,6 +10,7 @@ podcast: adv-in-angular
 tags: 
   - adv_in_angular
   - podcast
+  - new_programmers
 ---
 
 Charles Max Wood and Lukas Reubbelke talk about resources and learning Angular.js.

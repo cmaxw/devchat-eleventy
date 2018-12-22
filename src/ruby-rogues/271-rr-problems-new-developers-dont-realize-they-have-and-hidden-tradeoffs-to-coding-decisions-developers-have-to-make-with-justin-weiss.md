@@ -10,6 +10,7 @@ podcast: ruby-rogues
 tags: 
   - ruby_rogues
   - podcast
+  - new_programmers
 ---
 
 ## [Rails Remote Conf](https://allremoteconfs.com/rails-2016)

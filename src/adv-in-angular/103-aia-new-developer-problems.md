@@ -10,6 +10,7 @@ podcast: adv-in-angular
 tags: 
   - adv_in_angular
   - podcast
+  - new_programmers
 ---
 
 ## [Angular Remote Conf](https://allremoteconfs.com/angular-2016)

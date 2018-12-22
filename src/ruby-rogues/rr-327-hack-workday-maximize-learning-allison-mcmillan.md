@@ -10,6 +10,7 @@ podcast: ruby-rogues
 tags: 
   - ruby_rogues
   - podcast
+  - new_programmers
 ---
 
 Allison is a developer in the Washington DC area. She is a non-profit executive turned developer. She helps organize the [RubyConf and RailsConf Scholar Program](http://rubyconf.org/scholarships). She organizes a local meetup call [Silver Spring Ruby](https://www.meetup.com/United-Silver-Spring-Ruby/). She works at [Collective Idea](https://collectiveidea.com/). The Rogues talk to Allison about being a mom in coding and work-life balance. &nbsp;They also talk about transitioning from non-profits to coding. This episode goes into depth on:
