@@ -1,6 +1,7 @@
 require 'nokogiri'
 require 'date'
 require 'fileutils'
+require 'reverse_markdown'
 
 doc = File.open('devchattv.wordpress.xml') do |f|
   Nokogiri::XML(f)
@@ -38,22 +39,22 @@ duration: #{meta['duration']}
 audio_url: #{meta['audio_url']}
 podcast: #{post_type}
 tags: 
-  - #{post_type}
+  - #{post_type.gsub("-", "_")}
   - podcast
 ---
 
-#{content}
+#{ReverseMarkdown.convert content}
 
-<h3>Transcript</h3>
+### Transcript
 
-#{meta['transcript']}
+#{ReverseMarkdown.convert meta['transcript']}
 EOF
 
-    unless File.directory?(post_type)
-      FileUtils.mkdir_p(post_type)
+    unless File.directory?("src/#{post_type}")
+      FileUtils.mkdir_p("src/#{post_type}")
     end
 
-    file_path = link.sub(/https?:\/\/devchat.tv\//, '').chomp('/') + ".html"
+    file_path = "src/#{link.sub(/https?:\/\/devchat.tv\//, '').chomp('/')}.md"
     file = File.new(file_path, 'w')
     file.puts(file_contents)
 

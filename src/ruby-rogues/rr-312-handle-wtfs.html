@@ -8,7 +8,7 @@ duration: 49:52
 audio_url: https://media.devchat.tv//ruby-rogues/RR_312_How_to%20_Handle_WTF%27s.mp3
 podcast: ruby-rogues
 tags: 
-  - ruby-rogues
+  - ruby_rogues
   - podcast
 ---
 
@@ -32,11 +32,11 @@ When encountering classes that are really big with many different methods, find 
 <h4>Brian’s Version of Puts Debugging</h4>
 Brian mentions that when working on a rails application he will sometimes <code>raise</code> the object he wants to inspect. Errors in Ruby are often something you wouldn’t expect and being able to quickly inspect the object using <code>raise </code>.Using raises the whole stack including the object, session, and cookies , etc.
 <h4>Dave’s Ruby Lifesavers</h4>
-Dave also adds that adding the gems to your development <code>better_errors</code>, and then en <code>binding_of_caller</code> are lifesavers. It allows for a more interruptive session with raised errors. Also, in Rails 4 the console feature was added, allowing you to tweak things and play around to debug. Also, <a href="https://pryrepl.org/">Pry</a> is really useful for loop through and investigate. Dave also notes that Pry, while being a great tool, can sometimes be a bit annoying if you have a large number of loops.
+Dave also adds that adding the gems to your development <code>better_errors</code>, and then en <code>binding_of_caller</code> are lifesavers. It allows for a more interruptive session with raised errors. Also, in Rails 4 the console feature was added, allowing you to tweak things and play around to debug. Also, <a href="http://pryrepl.org/">Pry</a> is really useful for loop through and investigate. Dave also notes that Pry, while being a great tool, can sometimes be a bit annoying if you have a large number of loops.
 <h4>Crazy Bug Story - Brian</h4>
 Brian talks about how in Elixir the declaring of methods is very similar to Ruby but at the end of <a href="https://elixir-lang.org/">Elixir</a> method calls you add keyword <code>do</code>. If you do this in Ruby, the interpreter’s error message is unusual and doesn’t give any information that helps you find the issue, making it very hard to find the issue. This could be very time consuming for the debugger. He adds that having a second pair of eyes helps with issues like these.
 <h4>Crazy Bug Story - David</h4>
-David talks about working on a personal project late into the night. Using <a href="https://www.rubydoc.info/gems/rails">Rails 5.1.1</a>, he thought that maybe his issue with the enumerators. He considered that maybe the issue was with Rails 5.1.1 being that is newer. To test to find out if he caused the error, he recreated a simple bit of code that uses enumerators and saw that it worked, then created the same project in 5.1.1 and it also worked, concluding that he created the issue. Later he found he declared the datatype for the enumerator as a string instead of an int. Brian added that creating a fresh application to test for errors is a great way to start debugging, in comparison to immediately to asking others what the problem might be. This method of checking can have a quick pay off if the code is simple. Also, creating new applications to test gives a great foundation of knowing that the problem is in your own code.
+David talks about working on a personal project late into the night. Using <a href="http://www.rubydoc.info/gems/rails">Rails 5.1.1</a>, he thought that maybe his issue with the enumerators. He considered that maybe the issue was with Rails 5.1.1 being that is newer. To test to find out if he caused the error, he recreated a simple bit of code that uses enumerators and saw that it worked, then created the same project in 5.1.1 and it also worked, concluding that he created the issue. Later he found he declared the datatype for the enumerator as a string instead of an int. Brian added that creating a fresh application to test for errors is a great way to start debugging, in comparison to immediately to asking others what the problem might be. This method of checking can have a quick pay off if the code is simple. Also, creating new applications to test gives a great foundation of knowing that the problem is in your own code.
 <h4>Crazy Bug Story - Charles</h4>
 Charles’ bug was something he encountered in his podcast feed application he created in Rails 4. Charles didn’t read the error message very well so he tried it debugging it with Puts Debugging. It’s turned out that he was using a <code>strftime</code> method that he had accidentally formatted the string wrong, using -’s instead of /’s.
 <h4>Characterizing with a Test</h4>
@@ -46,15 +46,15 @@ Brain mentions that sometimes when he has a specific error, he will try to write
 <h4>Making your Production Environment The Same as Your Development Environment</h4>
 If you’re using something like caching in your production environment, make sure it is set up in your developmental environment. Debugging caching issues can be some of the most complicated bugs to fix. If you set up your environment to be the same it helps. If you need to start the caching over during development or tests, it’s as simple as a CLI command. When you’re doing feature tests, if you do it with caching enabled, you can use <code>timecop</code>. <a href="https://github.com/travisjeffery/timecop">Timecop</a> allows you to essentially time travel to test timing issues without having to wait.
 <h4>Favorite Development Tools</h4>
-Some of the panelist’s favorite tools are <a href="https://pryrepl.org/">Pry</a>, <a href="https://github.com/banister/binding_of_caller">binding_of_caller</a>, <a href="https://github.com/charliesome/better_errors">better_errors</a>, <a href="https://rubygems.org/gems/konami-fo/versions/0.0.3">Konami</a>, and <a href="https://www.sinatrarb.com/">Sinatra</a>. <a href="https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US">Google Chrome’s RailsPanel extension</a> Works like <a href="https://github.com/MiniProfiler/rack-mini-profiler">MiniProfiler</a>, but digs in further. By adding this gem to your development environment and running it on Chrome, it shows you all the requests that come through, the controller in action, and lists out all the parameters, as well as active record calls and errors.
+Some of the panelist’s favorite tools are <a href="http://pryrepl.org/">Pry</a>, <a href="https://github.com/banister/binding_of_caller">binding_of_caller</a>, <a href="https://github.com/charliesome/better_errors">better_errors</a>, <a href="https://rubygems.org/gems/konami-fo/versions/0.0.3">Konami</a>, and <a href="http://www.sinatrarb.com/">Sinatra</a>. <a href="https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US">Google Chrome’s RailsPanel extension</a> Works like <a href="https://github.com/MiniProfiler/rack-mini-profiler">MiniProfiler</a>, but digs in further. By adding this gem to your development environment and running it on Chrome, it shows you all the requests that come through, the controller in action, and lists out all the parameters, as well as active record calls and errors.
 <h4>Favorite Production Tools</h4>
-Brian suggests using any tools available to capture exceptions and error messages. Capturing these issues before the user contacts you makes recreating the issue and debugging it a lot easier. Dave mentions using <a href="https://newrelic.com/ruby">New Relic</a> to capture performance of application as well as error notification. With New Relic you can adjust the notification threshold and give it actions like sending it to a <a href="https://slack.com/">Slack</a> channel. Then use something like <a href="https://sumologic.com/">Sumo Logic</a> to concatenate and combine the logs if it’s coming from various servers.
+Brian suggests using any tools available to capture exceptions and error messages. Capturing these issues before the user contacts you makes recreating the issue and debugging it a lot easier. Dave mentions using <a href="https://newrelic.com/ruby">New Relic</a> to capture performance of application as well as error notification. With New Relic you can adjust the notification threshold and give it actions like sending it to a <a href="http://slack.com/">Slack</a> channel. Then use something like <a href="http://sumologic.com/">Sumo Logic</a> to concatenate and combine the logs if it’s coming from various servers.
 <h4>Shipping Logs Off</h4>
-<a href="https://www.fluentd.org/">FluentD</a> can be used to ship off logs to analyze. In some cases management won’t be okay with shipping things off. Doing things internally can sometimes be too much and using a third party aggregation tools can be helpful.
+<a href="http://www.fluentd.org/">FluentD</a> can be used to ship off logs to analyze. In some cases management won’t be okay with shipping things off. Doing things internally can sometimes be too much and using a third party aggregation tools can be helpful.
 <h4>Some Tools Can Be Heavy</h4>
 Sumo Logic applet is Java based and takes up quite a bit of space. Jenkins is also a Java setup and takes many parameters to get running. In some cases with smaller applications, applets like Sumo Logic can take up more space than the application. Trying to parse multiple servers can be daunting and will definitely need a centralized logging option.
 <h4>Other Logging Tools</h4>
-<a href="https://elastic.co/">Elastic.co</a> and <a href="https://www.elastic.co/products/logstash">Logstash</a> are other logging tools. They have integrations with tools like <a href="https://hub.docker.com/">Docker</a> and <a href="https://www.elastic.co/products/kibana">Kibana</a>. If you can roll your own logging tools then great. But it’s usually time consuming and takes resources.
+<a href="http://elastic.co/">Elastic.co</a> and <a href="https://www.elastic.co/products/logstash">Logstash</a> are other logging tools. They have integrations with tools like <a href="https://hub.docker.com/">Docker</a> and <a href="https://www.elastic.co/products/kibana">Kibana</a>. If you can roll your own logging tools then great. But it’s usually time consuming and takes resources.
 <h4>Getting Information from People and Assume It’s Wrong</h4>
 Charles mentions that in some cases, especially in cases where something you’re using is dated, resources can be limited to get information on a bug you’re having. Brian suggests that when this happens, getting information out of people is a good place to start. Also, when getting information from people, assume that it’s wrong. People tend to have a pretty poor recollection of what happened. You can sometimes take what they say and compare it to the logs to create tests and logically work out how something has happened. Users will sometimes leave out things like accidentally leaving a field blank, or hitting backspace, or something simple. Extracting information from the users to get relevant information is a skill. Sometimes the best way to get information from a user is to just watch them use the application. Sometimes they will use the application in ways unexpected. Approaching the problem with “Let’s fix this together” helps with getting the client to help.
 <h4>Getting Access with Production Data</h4>
@@ -70,15 +70,15 @@ Charles remembers a simple way to watch for issues while debugging. A simple use
 
 <h3>Picks</h3>
 <h5>Brian</h5>
-<a href="https://learningmusic.abelton.com/">Learningmusic.abelton.com</a>
+<a href="http://learningmusic.abelton.com/">Learningmusic.abelton.com</a>
 <h5>David</h5>
 <a href="https://github.com/dejan/rails_panel">RailsPanel</a>
 His new 5 foot long 12 plug power strip
 <h5>Charles</h5>
 <a href="https://build.microsoft.com/">Microsoft Build</a>
 <a href="https://www.dotnetrocks.com/">.Net Rocks Podcast</a>
-<a href="https://livinlavidalowcarb.com/blog/tag/podcast">Ketogenic Diet &amp; Livin’ La Vita Low Carb</a>
-<a href="https://rubydevsummit.com/">Rubydevsummit.com</a>
+<a href="http://livinlavidalowcarb.com/blog/tag/podcast">Ketogenic Diet &amp; Livin’ La Vita Low Carb</a>
+<a href="http://rubydevsummit.com/">Rubydevsummit.com</a>
 
 <hr />
 
