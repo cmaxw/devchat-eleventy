@@ -10,35 +10,34 @@
     <div class="row">
         <div class="col-lg-6">
             {% for post in postslist | head(-1) %}
-            <div class="item">
-                <div class="ts-post-thumb">
-
-                    <a href="{{post.url | url}}">
-                        <img class="img-fluid" src="/images/news/health/health8.jpg" alt="">
-                    </a>
+                <div class="item">
+                    <div class="ts-post-thumb">
+                        <a href="{{ post.url | url }}">
+                            <img class="img-fluid" src="/images/news/health/health8.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="post-content">
+                        <a class="cat-name purple-color" href="{{ viewalllink | url }}">{{ title }}</a>
+                        <h3 class="post-title md">
+                            <a href="{{ post.url | url }}">{{ post.title }}</a>
+                        </h3>
+                        <ul class="post-meta-info">
+                            <li>
+                                <i class="fa fa-clock-o"></i>
+                                {{ post.data.date | date }}
+                            </li>
+                        </ul>
+                        <p>
+                            
+                        </p>
+                    </div>
                 </div>
-                <div class="post-content">
-                    <a class="cat-name purple-color" href="{{ viewalllink | url }}">{{ title }}</a>
-                    <h3 class="post-title md">
-                        <a href="{{ post.url | url }}">{{ post.title }}</a>
-                    </h3>
-                    <ul class="post-meta-info">
-                        <li>
-                            <i class="fa fa-clock-o"></i>
-                            {{ post.data.date | date }}
-                        </li>
-                    </ul>
-                    <p>
-                        {{ post.data.summary | safe }}
-                    </p>
-                </div>
-            </div>
-            <!-- ts-grid-box end-->
-            {% end %}
+                <!-- ts-grid-box end-->
+            {% endfor %}
         </div>
         <!-- col end-->
         <div class="col-lg-6">
-            {% for post in postslist | reverse | head(-5) %}{% if loop.index < 0 %}
+            {% for post in postslist | head(-5) | reverse %}{% if loop.index < 0 %}
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="item mb-20">
@@ -60,7 +59,7 @@
                     </div>
                     <!-- col end-->
                 </div>
-            {% end %}
+            {% endfor %}{% endif %}
         </div>
     </div>
     <!-- row end-->
