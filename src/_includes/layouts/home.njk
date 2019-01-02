@@ -8,7 +8,7 @@ layout: layouts/base
 		<div class="row">
 			<div class="col-lg-3 pr-10">
 				<div class="ts-post-overlay-style-1 ts-post-style-5">
-					{% for podcast in collections.podcast | head(-8) %}{% if loop.index > 3 %}{% if loop.index < 6 %}
+					{% for podcast in collections.podcast | head(-8) | reverse %}{% if loop.index > 3 %}{% if loop.index < 6 %}
 						<div class="ts-overlay-style">
 							<div class="item">
 								<div class="ts-post-thumb">
@@ -41,7 +41,7 @@ layout: layouts/base
 			<!-- col end-->
 			<div class="col-lg-6 pl-0 pr-10">
 				<div id="featured-slider-2" class="owl-carousel ts-overlay-style ts-featured">
-					{% for podcast in collections.podcast | head(-4) %}{% if loop.index < 4 %}
+					{% for podcast in collections.podcast | head(-4) | reverse %}{% if loop.index < 4 %}
 						<div class="item" style="background-image:url(/images/podcasts/{{podcasts[ podcast.data.podcast ].artwork}})">
 							<a class="post-cat ts-orange-bg" href="#">{{podcasts[ podcast.data.podcast ].title}}</a>
 							<div class="overlay-post-content">
@@ -80,7 +80,7 @@ layout: layouts/base
 			<!-- col end-->
 			<div class="col-lg-3 pl-0">
 				<div class="ts-post-overlay-style-1">
-					{% for podcast in collections.podcast | head(-8) %}{% if loop.index > 5 %}{% if loop.index < 8 %}
+					{% for podcast in collections.podcast | head(-8) | reverse %}{% if loop.index > 5 %}{% if loop.index < 8 %}
 						<div class="ts-overlay-style">
 							<div class="item">
 								<div class="ts-post-thumb">
