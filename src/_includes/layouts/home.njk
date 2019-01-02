@@ -120,6 +120,7 @@ layout: layouts/base
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-9">
+				{% set postslist = collection.new_programmers %}
 				{% set title = 'New Programmers' %}
 				{% set viewallurl = '/new_programmers' %}
 				{% include 'post_list_5.njk' %}

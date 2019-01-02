@@ -9,111 +9,58 @@
     </div>
     <div class="row">
         <div class="col-lg-6">
+            {% for post in postslist.head(-1) %}
             <div class="item">
                 <div class="ts-post-thumb">
 
-                    <a href="#">
+                    <a href="{{post.url | url}}">
                         <img class="img-fluid" src="/images/news/health/health8.jpg" alt="">
                     </a>
                 </div>
                 <div class="post-content">
-                    <a class="cat-name purple-color" href="#">Health</a>
+                    <a class="cat-name purple-color" href="{{ viewalllink | url }}">{{ title }}</a>
                     <h3 class="post-title md">
-                        <a href="#">They are backed up Kennedy Darling and Cras named to return</a>
+                        <a href="{{ post.url | url }}">{{ post.title }}</a>
                     </h3>
                     <ul class="post-meta-info">
                         <li>
                             <i class="fa fa-clock-o"></i>
-                            Jun 21, 2019
+                            {{ post.data.date | date }}
                         </li>
                     </ul>
                     <p>
-                        Black farmers in the USA is South faced with the most continued failure in their efforts to run
+                        {{ post.data.summary | safe }}
                     </p>
                 </div>
             </div>
             <!-- ts-grid-box end-->
+            {% end %}
         </div>
         <!-- col end-->
         <div class="col-lg-6">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="item mb-20">
-                        <div class="ts-post-thumb">
-                            <a href="#">
-                                <img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="post-content">
-                            <h3 class="post-title">
-                                <a href="#">Tourism Dubai booming international tourist</a>
-                            </h3>
-                            <span class="post-date-info">
-                                <i class="fa fa-clock-o"></i>
-                                March 21, 2019
-                            </span>
-                        </div>
-                    </div>
-                </div>
-                <!-- col end-->
-                <div class="col-lg-6">
-                    <div class="item mb-20">
-                        <div class="ts-post-thumb">
-                            <a href="#">
-                                <img class="img-fluid" src="/images/news/health/health2.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="post-content">
-                            <h3 class="post-title">
-                                <a href="#">Man plans to ride out Hurricane on a boat</a>
-                            </h3>
-                            <span class="post-date-info">
-                                <i class="fa fa-clock-o"></i>
-                                March 21, 2019
-                            </span>
+            {% for post in postslist | reverse | head(-5) %}{% if loop.index < 0 %}
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="item mb-20">
+                            <div class="ts-post-thumb">
+                                <a href="{{ post.url | url }}">
+                                    <img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="post-content">
+                                <h3 class="post-title">
+                                    <a href="{{ post.url | url }}">{{ post.data.title | safe }}</a>
+                                </h3>
+                                <span class="post-date-info">
+                                    <i class="fa fa-clock-o"></i>
+                                    {{ post.data.date | date }}
+                                </span>
+                            </div>
                         </div>
                     </div>
+                    <!-- col end-->
                 </div>
-                <!-- col end-->
-                <div class="col-lg-6">
-                    <div class="item">
-                        <div class="ts-post-thumb">
-                            <a href="#">
-                                <img class="img-fluid" src="/images/news/health/health1.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="post-content">
-                            <h3 class="post-title">
-                                <a href="#">How to get the most when selling your iPhone</a>
-                            </h3>
-                            <span class="post-date-info">
-                                <i class="fa fa-clock-o"></i>
-                                March 21, 2019
-                            </span>
-                        </div>
-                    </div>
-                </div>
-                <!-- col end-->
-                <div class="col-lg-6">
-                    <div class="item">
-                        <div class="ts-post-thumb">
-                            <a href="#">
-                                <img class="img-fluid" src="/images/news/health/health7.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="post-content">
-                            <h3 class="post-title">
-                                <a href="#">Google vote-shifting threatens both right & left</a>
-                            </h3>
-                            <span class="post-date-info">
-                                <i class="fa fa-clock-o"></i>
-                                March 21, 2019
-                            </span>
-                        </div>
-                    </div>
-                </div>
-                <!-- col end-->
-            </div>
+            {% end %}
         </div>
     </div>
     <!-- row end-->
