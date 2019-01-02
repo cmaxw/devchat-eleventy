@@ -8,7 +8,7 @@ layout: layouts/base
 		<div class="row">
 			<div class="col-lg-3 pr-10">
 				<div class="ts-post-overlay-style-1 ts-post-style-5">
-					{% for podcast in collections.podcast | reverse %}{% if loop.index > 3 %}{% if loop.index < 6 %}
+					{% for podcast in collections.podcast | reverse | head(-6) %}{% if loop.index > 3 %}{% if loop.index < 6 %}
 						<div class="ts-overlay-style">
 							<div class="item">
 								<div class="ts-post-thumb">
@@ -41,7 +41,7 @@ layout: layouts/base
 			<!-- col end-->
 			<div class="col-lg-6 pl-0 pr-10">
 				<div id="featured-slider-2" class="owl-carousel ts-overlay-style ts-featured">
-					{% for podcast in collections.podcast | reverse %}{% if loop.index < 4 %}
+					{% for podcast in collections.podcast | reverse | head(-4) %}{% if loop.index < 4 %}
 						<div class="item" style="background-image:url(/images/podcasts/{{podcasts[ podcast.data.podcast ].artwork}})">
 							<a class="post-cat ts-orange-bg" href="#">{{podcasts[ podcast.data.podcast ].title}}</a>
 							<div class="overlay-post-content">
@@ -80,7 +80,7 @@ layout: layouts/base
 			<!-- col end-->
 			<div class="col-lg-3 pl-0">
 				<div class="ts-post-overlay-style-1">
-					{% for podcast in collections.podcast | reverse %}{% if loop.index > 5 %}{% if loop.index < 8 %}
+					{% for podcast in collections.podcast | reverse | head(-8) %}{% if loop.index > 5 %}{% if loop.index < 8 %}
 						<div class="ts-overlay-style">
 							<div class="item">
 								<div class="ts-post-thumb">
@@ -115,136 +115,15 @@ layout: layouts/base
 	</div>
 </section>
 <!-- end  blog wrapper -->
-{% for podcast in collections.new_programmers | reverse %}
-{{ podcast.data.title }}
-{% endfor %}
+
 <section class="block-wrapper p-30">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-9">
-				<div class="ts-grid-item ts-grid-item1 mb-20">
-					<div class="ts-title-item clearfix">
-						<h2 class="ts-cat-title float-left">
-							<span>Health</span>
-						</h2>
-						<div class="float-right">
-							<a href="#" class="view-all-link">View All</a>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-lg-6">
-							<div class="item">
-								<div class="ts-post-thumb">
-
-									<a href="#">
-										<img class="img-fluid" src="/images/news/health/health8.jpg" alt="">
-									</a>
-								</div>
-								<div class="post-content">
-									<a class="cat-name purple-color" href="#">Health</a>
-									<h3 class="post-title md">
-										<a href="#">They are backed up Kennedy Darling and Cras named to return</a>
-									</h3>
-									<ul class="post-meta-info">
-										<li>
-											<i class="fa fa-clock-o"></i>
-											Jun 21, 2019
-										</li>
-									</ul>
-									<p>
-										Black farmers in the USA is South faced with the most continued failure in their efforts to run
-									</p>
-								</div>
-							</div>
-							<!-- ts-grid-box end-->
-						</div>
-						<!-- col end-->
-						<div class="col-lg-6">
-							<div class="row">
-								<div class="col-lg-6">
-									<div class="item mb-20">
-										<div class="ts-post-thumb">
-											<a href="#">
-												<img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
-											</a>
-										</div>
-										<div class="post-content">
-											<h3 class="post-title">
-												<a href="#">Tourism Dubai booming international tourist</a>
-											</h3>
-											<span class="post-date-info">
-												<i class="fa fa-clock-o"></i>
-												March 21, 2019
-											</span>
-										</div>
-									</div>
-								</div>
-								<!-- col end-->
-								<div class="col-lg-6">
-									<div class="item mb-20">
-										<div class="ts-post-thumb">
-											<a href="#">
-												<img class="img-fluid" src="/images/news/health/health2.jpg" alt="">
-											</a>
-										</div>
-										<div class="post-content">
-											<h3 class="post-title">
-												<a href="#">Man plans to ride out Hurricane on a boat</a>
-											</h3>
-											<span class="post-date-info">
-												<i class="fa fa-clock-o"></i>
-												March 21, 2019
-											</span>
-										</div>
-									</div>
-								</div>
-								<!-- col end-->
-								<div class="col-lg-6">
-									<div class="item">
-										<div class="ts-post-thumb">
-											<a href="#">
-												<img class="img-fluid" src="/images/news/health/health1.jpg" alt="">
-											</a>
-										</div>
-										<div class="post-content">
-											<h3 class="post-title">
-												<a href="#">How to get the most when selling your iPhone</a>
-											</h3>
-											<span class="post-date-info">
-												<i class="fa fa-clock-o"></i>
-												March 21, 2019
-											</span>
-										</div>
-									</div>
-								</div>
-								<!-- col end-->
-								<div class="col-lg-6">
-									<div class="item">
-										<div class="ts-post-thumb">
-											<a href="#">
-												<img class="img-fluid" src="/images/news/health/health7.jpg" alt="">
-											</a>
-										</div>
-										<div class="post-content">
-											<h3 class="post-title">
-												<a href="#">Google vote-shifting threatens both right & left</a>
-											</h3>
-											<span class="post-date-info">
-												<i class="fa fa-clock-o"></i>
-												March 21, 2019
-											</span>
-										</div>
-									</div>
-								</div>
-								<!-- col end-->
-							</div>
-						</div>
-					</div>
-					<!-- row end-->
-
-				</div>
-				<!-- ts grid item end-->
-
+				{% set postslist = collections.new_programmers | reverse | head(-5) %}
+				{% set postslisttitle = "New Programmers" %}
+				{% set postslistlink = "/new_programmers" %}
+				{% include "post_list_5.njk" %}
 				<div class="ts-grid-item">
 					<div class="ts-title-item clearfix">
 						<h2 class="ts-cat-title float-left">
