@@ -9,7 +9,7 @@
     </div>
     <div class="row">
         <div class="col-lg-6">
-            {% for post in postslist | reverse | head(-1) %}
+            {% for post in postslist | head(-1) %}
                 <div class="item">
                     <div class="ts-post-thumb">
                         <a href="{{ post.url | url }}">
