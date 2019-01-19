@@ -37,9 +37,9 @@
         </div>
         <!-- col end-->
         <div class="col-lg-6">
-            {% for post in postslist | head(-5) | reverse %}{% if loop.index > 1 %}
-                <div class="row">
-                    <div class="col-lg-6">
+            <div class="row">
+                <div class="col-lg-6">
+                    {% for post in postslist | head(-5) | reverse %}{% if loop.index > 1 %}{% if loop.index <= 3 %}
                         <div class="item mb-20">
                             <div class="ts-post-thumb">
                                 <a href="{{ post.url | url }}">
@@ -56,10 +56,31 @@
                                 </span>
                             </div>
                         </div>
-                    </div>
-                    <!-- col end-->
+                    {% endif %}{% endif %}{% endfor %}
                 </div>
-            {% endif %}{% endfor %}
+                <!-- col end-->
+                <div class="col-lg-6">
+                    {% for post in postslist | head(-5) | reverse %}{% if loop.index > 3 %}
+                        <div class="item mb-20">
+                            <div class="ts-post-thumb">
+                                <a href="{{ post.url | url }}">
+                                    <img class="img-fluid" src="/images/news/health/health3.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="post-content">
+                                <h3 class="post-title">
+                                    <a href="{{ post.url | url }}">{{ post.data.title | safe }}</a>
+                                </h3>
+                                <span class="post-date-info">
+                                    <i class="fa fa-clock-o"></i>
+                                    {{ post.data.date | date }}
+                                </span>
+                            </div>
+                        </div>
+                    {% endif %}{% endfor %}
+                </div>
+                <!-- col end-->
+            </div>
         </div>
     </div>
     <!-- row end-->
