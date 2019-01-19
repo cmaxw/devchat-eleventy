@@ -17,7 +17,7 @@
                             <div class="post-content">
                                 <a href="{{ viewalllink | url }}" class="cat-name">{{ title | safe }}</a>
                                 <h3 class="post-title md">
-                                    <a href="{{ post.url | url }}">{{ post.title | safe }}</a>
+                                    <a href="{{ post.url | url }}">{{ post.data.title }}</a>
                                 </h3>
                                 <ul class="post-meta-info">
                                     <li>
