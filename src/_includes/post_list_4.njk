@@ -35,7 +35,7 @@
         <!-- col end-->
         <div class="col-lg-4">
             <div class="ts-grid-content ts-list-post-box">
-                {% for post in postslist | head(-4) | reverse %}{% if loop.index < 0 %}
+                {% for post in postslist | head(-4) | reverse %}{% if loop.index > 1 %}
                     <div class="item">
                         <div class="ts-post-thumb">
                             <a href="#">
