@@ -124,97 +124,12 @@ layout: layouts/base
 				{% set title = 'New Programmers' %}
 				{% set viewallurl = '/new_programmers' %}
 				{% include 'post_list_5.njk' %}
-				<div class="ts-grid-item">
-					<div class="ts-title-item clearfix">
-						<h2 class="ts-cat-title float-left">
-							<span>Sports</span>
-						</h2>
-						<div class="float-right">
-							<a href="#" class="view-all-link">View All</a>
-						</div>
-					</div>
-					<div class="row ts-grid-item ts-post-style-2">
-						<div class="col-lg-8 ">
-							<div class="ts-overlay-style featured-post">
-								<div class="item " style="background-image:url(images/news/sports/sports1.jpg)">
 
-									<div class="overlay-post-content">
-										<div class="post-content">
-											<a href="#" class="cat-name">Sports</a>
-											<h3 class="post-title md">
-												<a href="#">New York Fashion Week continues with its penultimate day featuring looks from Marc Jacobs and more.</a>
-											</h3>
-											<ul class="post-meta-info">
-												<li class="author">
-													<a href="#">
-														<img src="/images/avater/author1.jpg" alt=""> Donald Ramos
-													</a>
-												</li>
-												<li>
-													<i class="fa fa-clock-o"></i>
-													March 21, 2019
-												</li>
-												<li class="active">
-													<i class="icon-fire"></i>
-													3,005
-												</li>
-											</ul>
-										</div>
-									</div>
-									<!--/ Featured post end -->
-								</div>
-							</div>
-						</div>
-						<!-- col end-->
-						<div class="col-lg-4">
-							<div class="ts-grid-content ts-list-post-box">
-								<div class="item">
-									<div class="ts-post-thumb">
-										<a href="#">
-											<img class="img-fluid" src="/images/news/sports/sports2.jpg" alt="">
-										</a>
-									</div>
-									<div class="post-content">
-										<h3 class="post-title">
-											<a href="#">The clock is ticking for companies to block underage users</a>
-										</h3>
-										<span class="post-date-info">
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</span>
-									</div>
-								</div>
-								<div class="item">
-									<div class="post-content">
-										<h3 class="post-title">
-											<a href="#">10 critical points from Zuckerberg’s epic security manifesto</a>
-										</h3>
-										<span class="post-date-info">
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</span>
-									</div>
-								</div>
-								<!-- end item-->
-								<div class="item">
-									<div class="post-content">
-										<h3 class="post-title">
-											<a href="#">Tourism in Dubai is booming by international tourist</a>
-										</h3>
-										<span class="post-date-info">
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</span>
-									</div>
-								</div>
-								<!-- end item-->
-							</div>
-							<!-- ts grid box-->
-						</div>
-						<!-- col end-->
+				{% set postslist = collections.js_jabber %}
+				{% set title = 'JavaScript Jabber' %}
+				{% set viewallurl = '/js-jabber' %}
+				{% include 'post_list_4.njk' %}
 
-					</div>
-				</div>
 			</div>
 			<!-- col end-->
 			<div class="col-lg-3">

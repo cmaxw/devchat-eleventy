@@ -1,0 +1,63 @@
+<div class="ts-grid-item">
+    <div class="ts-title-item clearfix">
+        <h2 class="ts-cat-title float-left">
+            <span>{{ title | safe }}</span>
+        </h2>
+        <div class="float-right">
+            <a href="{{ viewalllink | url }}" class="view-all-link">View All</a>
+        </div>
+    </div>
+    <div class="row ts-grid-item ts-post-style-2">
+        <div class="col-lg-8 ">
+            <div class="ts-overlay-style featured-post">
+                <div class="item " style="background-image:url(images/news/sports/sports1.jpg)">
+
+                    <div class="overlay-post-content">
+                        {% for post in postslist | head(-1) %}
+                            <div class="post-content">
+                                <a href="{{ viewalllink | url }}" class="cat-name">{{ title | safe }}</a>
+                                <h3 class="post-title md">
+                                    <a href="{{ post.url | url }}">{{ post.title | safe }}</a>
+                                </h3>
+                                <ul class="post-meta-info">
+                                    <li>
+                                        <i class="fa fa-clock-o"></i>
+                                        {{ post.data.date | date}}
+                                    </li>
+                                </ul>
+                            </div>
+                        {% endfor %}
+                    </div>
+                    <!--/ Featured post end -->
+                </div>
+            </div>
+        </div>
+        <!-- col end-->
+        <div class="col-lg-4">
+            <div class="ts-grid-content ts-list-post-box">
+                {% for post in postslist | head(-4) | reverse %}{% if loop.index < 0 %}
+                    <div class="item">
+                        <div class="ts-post-thumb">
+                            <a href="#">
+                                <img class="img-fluid" src="/images/news/sports/sports2.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="post-content">
+                            <h3 class="post-title">
+                                <a href="{{ post.url | url }}">{{ post.title }}</a>
+                            </h3>
+                            <span class="post-date-info">
+                                <i class="fa fa-clock-o"></i>
+                                {{ post.data.date | date }}
+                            </span>
+                        </div>
+                    </div>
+                {% endif %}{% endfor %}
+            </div>
+            <!-- ts grid box-->
+
+        </div>
+        <!-- col end-->
+
+    </div>
+</div>
