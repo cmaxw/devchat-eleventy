@@ -37,7 +37,7 @@
         </div>
         <!-- col end-->
         <div class="col-lg-6">
-            {% for post in postslist | head(-5) %}{% if loop.index > 0 %}
+            {% for post in postslist | head(-5) | reverse %}{% if loop.index > 1 %}
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="item mb-20">
