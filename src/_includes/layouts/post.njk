@@ -14,10 +14,19 @@ layout: layouts/base.njk
 								Home
 							</a>
 						</li>
+						{% if podcast %}
 						<li>
 							<a href="/{{podcast}}">{{podcastTitle}}</a>
 						</li>
-						<li>Travel</li>
+						{% endif %}
+						
+						{% if blog %}
+						<li>
+							<a href="/blog">Blog</a>
+						</li>
+						{% endif %}
+						
+						<li>{{title | safe}}</li>
 					</ol>
 					<!-- breadcump end-->
 					<div class="ts-grid-box content-wrapper single-post">
