@@ -31,23 +31,18 @@ layout: layouts/base.njk
 					<!-- breadcump end-->
 					<div class="ts-grid-box content-wrapper single-post">
 						<div class="entry-header">
-							<h2 class="post-title lg">Swiss authorities say Uber drivers should treated as employees</h2>
+							<h2 class="post-title lg">{{ title }}</h2>
 							<ul class="post-meta-info">
-								<li>
-									<a href="#" class="post-cat ts-yellow-bg">Travel</a>
-								</li>
+								{% if author %}
 								<li class="author">
 									<a href="#">
-										<img src="/images/avater/author.png" alt=""> Donald Ramos
+										<img src="/images/avater/author.png" alt=""> {{ author }}
 									</a>
 								</li>
+								{% endif %}
 								<li>
 									<i class="fa fa-clock-o"></i>
-									March 21, 2019
-								</li>
-								<li class="active">
-									<i class="icon-fire"></i>
-									3,005
+									{{ date | date }}
 								</li>
 								<li class="share-post">
 									<a href="#">
@@ -59,123 +54,17 @@ layout: layouts/base.njk
 						<!-- single post header end-->
 						<div class="post-content-area">
 							<div class="post-media post-featured-image">
-								<a href="/images/news/travel/travel2.jpg" class="gallery-popup">
-									<img src="/images/news/travel/travel2.jpg" class="img-fluid" alt="">
+								<a href="{{ image }}" class="gallery-popup">
+									<img src="{{ image }}" class="img-fluid" alt="">
 								</a>
 							</div>
 							<div class="entry-content">
+								{% if summary %}
+									<p class="text-bg">{{summary}}</p>
+								{% endif %}
+								
 								{{ content | safe }}
-								<p class="text-bg">Leidanett was living a life of almost unfathomable despair a year ago no one knows (1995)</p>
-								<p>
-									<span class="tie-dropcap">A</span> farmers in the US’s South—faced with continued failure in their efforts to run on successful farms their
-									launched a lawsuit claiming that “white racism” is to the blame for their inability to produce crop yields.
-								</p>
-								<p>
-									Black farmers in the US’s South—
-									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
-									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
-								</p>
-								<blockquote>
-									Black farmers in the US’s South faced with continued failure in their efforts to run the successful farms launched a lawsuit
-									<cite>Steve Jobs</cite>
-								</blockquote>
-								<h3>
-									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should
-								</h3>
-								<p>
-									Black farmers in the US’s South—
-									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
-									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
-								</p>
-								<p>
-									<img class="float-left" src="/images/news/news-details/post_style.jpg" alt="">
-								</p>
-								<h3>For the first time the Secretart end</h3>
-								<ul>
-									<li>But there was also no shortage of new</li>
-									<li>Prasad made these comments on</li>
-									<li>He gave details of the answers provided</li>
-									<li>The government forthcoming in before</li>
-								</ul>
-								<p>
-									Black farmers in the US’s South faced with the thecontinu failure in their own efforts to run and succe farms is to blame
-									for their inability to an sell an black farme a subpar product at
-								</p>
-								<p>
-									the most Mid-South Farm on Gin Show in them March 2017.Despite above average rainfall the black farmers saw limited
-								</p>
-
-								<div class="gallery-img">
-									<a href="/images/gallery/gallery1.jpg" class="gallery-popup">
-										<img src="/images/gallery/gallery1.jpg" alt="">
-									</a>
-									<a href="/images/gallery/gallery2.jpg" class="gallery-popup">
-										<img src="/images/gallery/gallery2.jpg" alt="">
-									</a>
-									<a href="/images/gallery/gallery3.jpg" class="gallery-popup">
-										<img src="/images/gallery/gallery3.jpg" alt="">
-									</a>
-									<a href="/images/gallery/gallery4.jpg" class="gallery-popup">
-										<img src="/images/gallery/gallery4.jpg" alt="">
-									</a>
-									<a href="/images/gallery/gallery5.jpg" class="gallery-popup">
-										<img src="/images/gallery/gallery5.jpg" alt="">
-									</a>
-								</div>
-								<p>
-									Black farmers in the US’s South—
-									<span>faced with continued failure their efforts to run successful farms</span> their launched a lawsuit claiming that
-									“white racism” is to blame for their inability to the produce crop yields and on equivalent to that switched seeds.
-								</p>
-								<div class="post-video">
-									<img class="img-fluid" src="/images/news/travel/travel9.jpg" alt="">
-									<div class="post-video-content">
-										<a href="https://www.youtube.com/watch?v=_0UO1NcheAE" class="ts-play-btn">
-											<i class="fa fa-play" aria-hidden="true"></i>
-										</a>
-										<h3>
-											<a href=""> For the first time the Swiss State Secretart for Economic indicated that Uber taxi</a>
-										</h3>
-									</div>
-								</div>
-								<h3>
-									For the first time the Swiss State Secretart for Economic Affair (SECO) has indicated that Uber taxi drivers should be classed
-									as employees
-								</h3>
-								<p>
-									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
-									claiming that “white racism” is to blame for their inability to produce crop yields and on equivalent to that switched
-									seeds in order to sell black farmers a subpar product at the Mid-South Farm & Gin Show in March 2017. Despite above
-									average rainfall, the black farmers saw limited soybean yield from the Stine seeds during the 2017 harvest.
-								</p>
-								<p>
-									<a href="">
-										<img class="img-fluid" src="/images/banner/banner2.jpg" alt="">
-									</a>
-								</p>
-								<h3>
-									For the first time the Swiss State Secretart for Economic Affair
-								</h3>
-								<ul>
-									<li>
-										But there was also no shortage of news for the worlds of film.
-									</li>
-									<li>
-										Prasad made these comments on behalf of the Treasury benches.
-									</li>
-									<li>
-										He gave details of the answers provided by Defence.
-									</li>
-									<li>
-										The government has been forthcoming in declaring the aircraft.
-									</li>
-								</ul>
-								<p>
-									Black farmers in the US’s South—faced with continued failure in their efforts to run successful farms their launched a lawsuit
-									claiming that “white racism” is to blame for their inability
-								</p>
 							</div>
-							<!-- entry content end-->
 						</div>
 						<!-- post content area-->
 						<div class="author-box">
