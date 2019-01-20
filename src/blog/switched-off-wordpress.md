@@ -2,6 +2,7 @@
 title: Why I Switched Off Wordpress
 author: Charles Max Wood
 date: 2019-01-19 8:00:00
+image: /images/blog/wordpress.jpg
 tags:
     - blog
     - wordpress
