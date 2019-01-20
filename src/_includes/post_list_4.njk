@@ -10,10 +10,9 @@
     <div class="row ts-grid-item ts-post-style-2">
         <div class="col-lg-8 ">
             <div class="ts-overlay-style featured-post">
-                <div class="item " style="background-image:url(images/news/sports/sports1.jpg)">
-
-                    <div class="overlay-post-content">
-                        {% for post in postslist | head(-1) %}
+               {% for post in postslist | head(-1) %}
+                    <div class="item " style="background-image:url(/images/podcasts/{{podcasts[ post.data.podcast ].artwork}})">
+                        <div class="overlay-post-content">
                             <div class="post-content">
                                 <a href="{{ viewalllink | url }}" class="cat-name">{{ title | safe }}</a>
                                 <h3 class="post-title md">
@@ -26,10 +25,10 @@
                                     </li>
                                 </ul>
                             </div>
-                        {% endfor %}
+                        </div>
+                        <!--/ Featured post end -->
                     </div>
-                    <!--/ Featured post end -->
-                </div>
+                {% endfor %}
             </div>
         </div>
         <!-- col end-->
