@@ -22,7 +22,7 @@ This week on My Ruby Story, Chuck talks with [Paweł Dąbrowski](https://github.
 
 0:00 – [Get A Coder Job!](http://getacoderjob.com/)
 
-0:55 – Chuck: This week I am talking with [Paweł Dąbrowski](https://github.com/rubyhero) who was on [episode 366.](https://devchat.tv/ruby-rogues/rr-366-build-your-own-rspec-a-gentle-metaprogramming-intro-with-pawel-d%25C4%2585browski/) Give us a brief description of who you are, please.
+0:55 – Chuck: This week I am talking with [Paweł Dąbrowski](https://github.com/rubyhero) who was on [episode 366.](https://devchat.tv/ruby-rogues/https://devchat.tv/ruby-rogues/rr-366-build-your-own-rspec-a-gentle-metaprogramming-intro-with-pawel-dąbrowski/) Give us a brief description of who you are, please.
 
 1:25 – Guest: I run a company and I am here b/c of the article I wrote. It was a nice introduction to...programming. I write in my [blog](https://pdabrowski.com/blog/articles) and have written a few gems. I created a course how to build Ruby Flow. Also, I create Ruby code every day. I think that’s it.
 
