@@ -10,6 +10,9 @@ podcast: ruby-rogues
 tags: 
   - ruby_rogues
   - podcast
+  - design patterns
+  - book club
+  - smalltalk
 ---
 
 - What is the rule or pattern?
