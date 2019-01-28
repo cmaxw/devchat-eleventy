@@ -10,6 +10,9 @@ podcast: ruby-rogues
 tags: 
   - ruby_rogues
   - podcast
+  - crystal
+  - programming languages
+  - type systems
 ---
 
 01:49 - Erik Michaels-Ober Introduction
