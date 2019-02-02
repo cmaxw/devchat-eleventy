@@ -24,4 +24,4 @@ tags:
 - [mvcc](http://wiki.postgresql.org/wiki/MVCC)
 - [postgres wiki](http://wiki.postgresql.org/wiki/)
 - web sockets
-  <iframe width="560" height="349" src="http://www.youtube.com/embed/KMSfRE1gZIQ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="349" src="https://www.youtube.com/embed/KMSfRE1gZIQ" frameborder="0" allowfullscreen></iframe>
