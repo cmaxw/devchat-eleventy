@@ -7,9 +7,13 @@ episode_number: 282
 duration: 49:09
 audio_url: https://media.devchat.tv/ruby-rogues/RR282_Angular_on_Rails_with_Jason_Swett.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
+  - angular
+  - javascript
+  - asset_pipeline
+  - frontend_framework
 ---
 
 00:42 - Introducing Jason Swett

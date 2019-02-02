@@ -7,9 +7,16 @@ episode_number: 376
 duration: 1:06:24
 audio_url: https://media.devchat.tv/ruby-rogues/RR_376_Ruby_Performance_with_Nate_Berkopec.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
+  - performance
+  - turbolinks
+  - scaling
+  - n+1
+  - bullet
+  - types
+  - benchmarks
 ---
 
  **Panel:**
@@ -94,5 +101,3 @@ Nate
 
 
 ### Transcript
-
-
