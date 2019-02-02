@@ -11,9 +11,9 @@ tags:
   - ruby_rogues
   - podcast
   - jruby
-  - java virtual machine
+  - java_virtual_machine
   - jvm
-  - ruby implementations
+  - ruby_implementations
 ---
 
 02:23 - Sudhindra R. Rao Introduction
