@@ -7,9 +7,11 @@ episode_number: 140
 duration: 1:12:29
 audio_url: https://media.devchat.tv/ruby-rogues/RR140Heroku.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
+  - heroku
+  - deployment
 ---
 
 ## [Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well!](http://teespring.com/rubyroguestee)

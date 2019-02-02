@@ -7,9 +7,12 @@ episode_number: 368
 duration: 56:54
 audio_url: https://media.devchat.tv/ruby-rogues/RR_368_Improving_Ruby_Performance_with_Rust_with_Daniel_P_Clark.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
+  - rust
+  - performance
+  - C
 ---
 
  **Panel:**
@@ -102,5 +105,3 @@ Daniel
 
 
 ### Transcript
-
-

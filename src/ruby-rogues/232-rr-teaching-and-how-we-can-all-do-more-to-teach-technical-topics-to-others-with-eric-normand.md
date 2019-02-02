@@ -7,14 +7,18 @@ episode_number: 232
 duration: 1:13:53
 audio_url: https://media.devchat.tv/ruby-rogues/RR232Teaching.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
+  - learning
+  - teaching
+  - boot_camp
+  - university
 ---
 
 02:20 - Eric Normand Introduction
 
-- [Twitter](https://twitter.com/ericnormand) 
+- [Twitter](https://twitter.com/ericnormand)
 - [GitHub](https://github.com/ericnormand)
 - [Democracy Works](http://democracy.works/)
 - [LispCast](http://lispcast.com)

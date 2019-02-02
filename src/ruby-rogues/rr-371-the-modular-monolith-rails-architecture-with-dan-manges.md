@@ -7,9 +7,13 @@ episode_number: 371
 duration: 59:00
 audio_url: https://media.devchat.tv/ruby-rogues/RR_371_The_Modular_Monolith_Rails_Architecture_with_Dan_Manges.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
+  - monolith
+  - multiple_databases
+  - rails_engines
+  - devops
 ---
 
  **Panel:**
@@ -90,5 +94,3 @@ Dan
 
 
 ### Transcript
-
-

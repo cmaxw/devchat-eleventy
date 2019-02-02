@@ -7,15 +7,20 @@ episode_number: 219
 duration: 1:06:19
 audio_url: https://media.devchat.tv/ruby-rogues/RR219Brakeman.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
+  - gem_maintainer
+  - brakeman
+  - security
+  - xss
+  - sql_injection
 ---
 
 02:40 - Justin Collins Introduction
 
-- [Twitter](https://twitter.com/presidentbeef) 
-- [GitHub](https://github.com/presidentbeef) 
+- [Twitter](https://twitter.com/presidentbeef)
+- [GitHub](https://github.com/presidentbeef)
 - [Blog](http://presidentbeef.com/)
 - [Brakeman](http://brakemanscanner.org/)
   - [@brakeman](https://twitter.com/brakeman)
@@ -45,7 +50,7 @@ tags:
 
 13:01 - Security and The Rails Core Team
 
-- [Justin Collins: The World of Ruby on Rails Security @ RailsConf 2015](https://docs.google.com/presentation/d/1P5bpHyCwQUglmBbm8ltNImIDv4Hg8vbJ-PmDXIpKgA4/pub?start=false&loop=false&delayms=3000&slide=id.p) 
+- [Justin Collins: The World of Ruby on Rails Security @ RailsConf 2015](https://docs.google.com/presentation/d/1P5bpHyCwQUglmBbm8ltNImIDv4Hg8vbJ-PmDXIpKgA4/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 15:19 - Should Brakeman be integrated into Rails?
 
@@ -72,7 +77,7 @@ tags:
 
 32:28 - Crowdsourcing Security (Security in Open Source)
 
-- [Terri Oda: Bringing Security to Your Open Source Project](http://opensourcebridge.org/sessions/1554) 
+- [Terri Oda: Bringing Security to Your Open Source Project](http://opensourcebridge.org/sessions/1554)
 
 34:54 - The Technical Side of Brakeman and Static Analysis Tools
 

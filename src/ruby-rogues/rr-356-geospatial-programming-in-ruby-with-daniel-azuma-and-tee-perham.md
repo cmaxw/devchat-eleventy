@@ -7,9 +7,14 @@ episode_number: 356
 duration: 56:15
 audio_url: https://media.devchat.tv/ruby-rogues/RR_356_Geospatial_Programming_in_Ruby_with_Daniel_Azuma_and_Tee_Perham.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
+  - gem_maintainer
+  - location
+  - maps
+  - geospatial
+  - data
 ---
 
  **Panel:**
@@ -28,7 +33,7 @@ In this episode of Ruby Rogues, the panel discusses geospatial programming with 
 - [Google Maps](https://www.google.com/maps)
 - Get ahold of a lot of data
 - Wide angle of data available
-- Large amount of application available 
+- Large amount of application available
 - [RGeo Gem](https://github.com/rgeo/rgeo)
 - What does RGeo do?
 - [CrimeReports.com](https://www.crimereports.com/)
@@ -84,5 +89,3 @@ Tee
 
 
 ### Transcript
-
-

@@ -7,16 +7,23 @@ episode_number: 388
 duration: 1:09:06
 audio_url: https://media.devchat.tv/ruby-rogues/RR_388_RuboCop_and_Emacs_I_guess_with_Bozhidar_Batsov.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
+  - gem_maintainer
+  - rubocop
+  - linter
+  - formatting
+  - editors
+  - emacs
+  - vscode
 ---
 
  **Panel:**
 
 - Dave Kimura
 - Charles (Chuck) Max Wood
-- Nate Hopkins 
+- Nate Hopkins
 
 **Special Guest:** [Dan Mayer](https://www.mayerdan.com)
 
@@ -198,5 +205,3 @@ Bozhidar
 
 
 ### Transcript
-
-
