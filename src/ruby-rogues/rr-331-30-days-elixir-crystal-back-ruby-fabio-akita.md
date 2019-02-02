@@ -10,7 +10,7 @@ podcast: ruby-rogues
 tags: 
   - ruby_rogues
   - podcast
-  - programming languages
+  - programming_languages
   - elixir
   - erlang
   - crystal
