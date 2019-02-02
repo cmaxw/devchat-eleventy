@@ -10,6 +10,9 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - elixir
+  - erlang
+  - programming languages
 ---
 
 01:08 - José Valim Introduction

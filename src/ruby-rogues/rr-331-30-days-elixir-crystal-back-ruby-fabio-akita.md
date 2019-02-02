@@ -10,6 +10,12 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - programming_languages
+  - elixir
+  - erlang
+  - crystal
+  - llvm
+  - go
 ---
 
 **Panel:** Charles Max Wood Dave Kimura Eric Berry Brian Hogan **Special Guest:&nbsp;** Fabio Akita The Ruby Rouges speak with [Fabio Akita](http://www.akitaonrails.com), a return guess. Fabio is a blogger at AkitaOnRails.com and is an organizer and speaker at Ruby Dev. Conf. Brazil. Fabio mentions have minor open source projects. Fabio talks revolve around “How do you as a Ruby Developer, dive into new languages,” such as Crystal and Elixir. Fabio will be speaking on the upcoming Ruby Dev Summit. **In particular, we dive pretty deep on:**
