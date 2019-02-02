@@ -10,8 +10,8 @@ podcast: ruby-rogues
 tags: 
   - ruby_rogues
   - podcast
-  - design patterns
-  - book club
+  - design_patterns
+  - book_club
   - smalltalk
 ---
 
