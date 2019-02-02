@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "lint": "prettier --check '*.{js,json,css}'",
-    "format": "prettier --write '*.{js,json,css}'"
+    "lint": "prettier --check '*.{js,json,css,md}'",
+    "format": "prettier --write '*.{js,json,css,md}'"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.5.4",
