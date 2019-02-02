@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 312: The Care and Feeding of an Email List
+  FS 312: The Care and Feeding of an Email List
 date: 2018-09-15 01:12:54
 episode_number: 312
 duration: 44:01
 audio_url: https://media.devchat.tv/freelancers/FS_312_The_Care_and_Feeding_of_a_Email_List.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
-- Jeremy Green 
+- Jeremy Green
 
 - Reuven Lerner
 
@@ -76,7 +76,4 @@ Reuven
 
 - [Blind Ambition, by John Dean](https://www.amazon.com/Blind-Ambition-White-House-Years/dp/1504041011/)
 
-
 ### Transcript
-
-

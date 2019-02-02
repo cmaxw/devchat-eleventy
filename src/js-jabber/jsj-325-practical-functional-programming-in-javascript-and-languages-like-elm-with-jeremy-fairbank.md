@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 325: Practical functional programming in JavaScript and languages like Elm with Jeremy Fairbank
+  JSJ 325: Practical functional programming in JavaScript and languages like Elm with Jeremy Fairbank
 date: 2018-08-08 02:33:51
 episode_number: 325
 duration: 53:47
 audio_url: https://media.devchat.tv/js-jabber/JSJ_325_Practical_functional_programming_in_JavaScript_and_languages_like_Elm_with_Jeremy_Fairbank.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Aimee Knight
 - Joe Eames
@@ -24,7 +24,7 @@ In this episode, the JavaScript Jabber panel talks to Jeremy Fairbank about his 
 
 **In particular, we dive pretty deep on:**
 
-- Jeremy intro 
+- Jeremy intro
 - Works for [Test Double](https://testdouble.com/)
 - What he means by “remote”
 - What is Test Double?
@@ -48,7 +48,7 @@ In this episode, the JavaScript Jabber panel talks to Jeremy Fairbank about his 
 - The theory of unit testing
 - Is functional programming the solution?
 - His approach from the talk
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -90,7 +90,4 @@ Jeremy
 - [_The Secrets of Consulting_ by Gerald M. Weinberg](https://www.amazon.com/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
 - [Connect.Tech](http://connect.tech/)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 312:  Hygen with Dotan Nahum
+  JSJ 312:  Hygen with Dotan Nahum
 date: 2018-05-09 18:57:10
 episode_number: 312
 duration: 47:53
 audio_url: https://media.devchat.tv/js-jabber/JSJ_312_Hygen_with_Dotan_Nahum.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Aimee Knight
@@ -24,7 +24,7 @@ In this episode, the JavaScript Jabber panelists discuss Hygen with Dotan Nahum.
 
 **In particular, we dive pretty deep on:**
 
-- Dotan intro 
+- Dotan intro
 - What is [Hygen](http://www.hygen.io/)?
 - Code generators
 - [Rails in 2006](https://rubyonrails.org/)
@@ -46,7 +46,7 @@ In this episode, the JavaScript Jabber panelists discuss Hygen with Dotan Nahum.
 - Can have a shell action
 - Is there a way to share generators in a separate package?
 - [Go](https://golang.org/)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -86,7 +86,4 @@ Dotan
 - [asdf](https://github.com/asdf-vm/asdf)
 - [Brew Cask](https://caskroom.github.io/)
 
-
 ### Transcript
-
-

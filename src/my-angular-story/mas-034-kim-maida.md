@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 034: Kim Maida
+  MAS 034: Kim Maida
 date: 2018-04-25 10:00:00
 episode_number: 034
 duration: 27:28
 audio_url: https://media.devchat.tv/my-angular-story/MAS_034_Kim_Maida.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Kim Maida
 
@@ -25,7 +25,7 @@ This week on My Angular Story, Charles speaks with Kim Maida. Kim is a technical
 - How did you first get into programming?
 - Learned HTML at a summer camp when she was 12 years old
 - Creating websites and forums
-- Digital art 
+- Digital art
 - Freelance with [WordPress](https://wordpress.com/)
 - Never thought about programming as a career originally
 - Studied science in college
@@ -74,7 +74,4 @@ Kim
 - Alyssa Nicoll Fundraiser
 - [Altered Carbon](https://www.imdb.com/title/tt2261227/)
 
-
 ### Transcript
-
-

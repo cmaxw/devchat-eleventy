@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      Cassandra Basic Schema and Ruby Gem
+  Cassandra Basic Schema and Ruby Gem
 date: 2011-07-24 17:42:23
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---
 
 <object width="640" height="390" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true">
+
 <param name="allowscriptaccess" value="always">
 <param name="src" value="http://www.youtube.com/v/6Ogc8q1bJDA?version=3&amp;hl=en_US&amp;rel=0">
 <param name="allowfullscreen" value="true">
@@ -20,7 +21,7 @@ tags:
 
     gem install cassandra
 
-I did run into a problem with the trift\_client gem when installing. If you get a Load Error, run this.
+I did run into a problem with the trift_client gem when installing. If you get a Load Error, run this.
 
     sudo chmod 644 /usr/local/lib/ruby/gems/1.8/gems/thrift\_client-0.6.3/lib/thrift\_client/\*.rb sudo chmod 755 /usr/local/lib/ruby/gems/1.8/gems/thrift\_client-0.6.3/lib/thrift\_client/connection
 

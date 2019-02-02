@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 308: D3.js with Ben Clinkinbeard
+  JSJ 308: D3.js with Ben Clinkinbeard
 date: 2018-04-10 10:00:53
 episode_number: 308
 duration: 45:50
 audio_url: https://media.devchat.tv/js-jabber/JSJ_308_D3.js_with_Ben_Clinkinbeard.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
-- Joe Eames 
+- Joe Eames
 - Cory House
 - Aimee Knight
 
@@ -37,13 +37,13 @@ In this episode, the JavaScript Jabber panelists talk about [D3.js](https://d3js
 - Positions with CSS transforms
 - Are you required to use SPG?
 - Not required to use SPG with D3
-- Canvas 
+- Canvas
 - SPG is vector based
 - SPG utility function
 - [Responseivefy](https://brendansudol.com/writing/responsive-d3)
 - [Learn D3 in 5 Days course](https://benclinkinbeard.com/d3in5days/)
 - Is there and overlap with D3 and React?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -75,7 +75,4 @@ Ben
 
 - [ComLink](https://github.com/GoogleChromeLabs/comlink)
 
-
 ### Transcript
-
-

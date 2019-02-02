@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 020: Reactive Programming with Vue with Tracy Lee, Ben Lesh, and Jay Phelps
+  VoV 020: Reactive Programming with Vue with Tracy Lee, Ben Lesh, and Jay Phelps
 date: 2018-07-17 19:32:13
 episode_number: 020
 duration: 1:12:40
 audio_url: https://media.devchat.tv/viewsonvue/VoV_020_Reactive_Programming_with_Vue_with_Tracy_Lee.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Chris Fritz
@@ -33,7 +33,7 @@ In this episode, the Views on Vue panel talks to Tracy Lee, Ben Lesh, and Jay Ph
 - Error handling has changed
 - What is RxJS?
 - Utility library to better handle your complex asynchronous stuff
-- Very versatile tool 
+- Very versatile tool
 - Reactive programming
 - Most popular and well-known reactive programming paradigm
 - Became open source at version 5
@@ -50,7 +50,7 @@ In this episode, the Views on Vue panel talks to Tracy Lee, Ben Lesh, and Jay Ph
 - Web sockets
 - RxJS is not particular to one language
 - [Angular](https://angular.io/)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -110,7 +110,4 @@ Ben
 - Experimental branch of RxJS
 - Get some exercise
 
-
 ### Transcript
-
-

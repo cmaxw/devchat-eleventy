@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      React-Native-Dom feat. Vincent Riemer
+  React-Native-Dom feat. Vincent Riemer
 date: 2018-07-02 16:06:51
 episode_number: 098
 duration: 47:28
 audio_url: https://media.devchat.tv/reactnativeradio/React_Native_Radio_Episode_98.mp3
 podcast: react-native-radio
-tags: 
+tags:
   - react_native_radio
   - podcast
 ---
 
- **React Native Radio | Episode 98**** &nbsp; ****Panel:** Gant LaBorde Peter Piekarczyk Lee Johnson **Special Guests:** Vincent Riemer In this episode of React Native Radio, the panelist talk to Vincent Riemer. Vincent got into programming as a senior in high school when he took an AP Java class. He was really into computers, and this class is what led him to pursue a college degree in computer science as well as a career as a developer. They talk about his [io-808](https://github.com/vincentriemer/io-808) drum machine, how he got into synthesis and his passion for it, [React-native-dom](https://github.com/vincentriemer/react-native-dom), and much more! **In particular, we dive pretty deep on:**
+**React Native Radio | Episode 98\*\*** &nbsp; \***\*Panel:** Gant LaBorde Peter Piekarczyk Lee Johnson **Special Guests:** Vincent Riemer In this episode of React Native Radio, the panelist talk to Vincent Riemer. Vincent got into programming as a senior in high school when he took an AP Java class. He was really into computers, and this class is what led him to pursue a college degree in computer science as well as a career as a developer. They talk about his [io-808](https://github.com/vincentriemer/io-808) drum machine, how he got into synthesis and his passion for it, [React-native-dom](https://github.com/vincentriemer/react-native-dom), and much more! **In particular, we dive pretty deep on:**
+
 - How did you get into programming?
 - AP Java class in high school
 - Majored in computer science in college
@@ -35,7 +36,7 @@ tags:
 - [Vincent’s React Europe talk](https://www.youtube.com/watch?v=aOWIJ4Mgb2k)
 - What is React-native-dom?
 - And much, much more!
-**Links:**
+  **Links:**
 - [io-808](https://github.com/vincentriemer/io-808)
 - [“Synth Secrets” Articles](https://www.soundonsound.com/techniques/synth-secrets-all-63-parts-sound-on-sound)
 - [Ableton](https://www.ableton.com/en/)
@@ -50,19 +51,16 @@ tags:
 - [Vincent’s GitHub](https://github.com/vincentriemer)
 - [com](https://vincentriemer.com/)
 - [@vincentriemer](https://twitter.com/vincentriemer)
-**&nbsp;**** Sponsors:**
+  **&nbsp;\*\*** Sponsors:\*\*
 - [Linode](https://promo.linode.com/reactnativeradio/)
-**&nbsp;**** Picks:**Gant
+  **&nbsp;\*\*** Picks:\*\*Gant
 - [Chain React Conf](https://infinite.red/ChainReactConf)
-Lee
+  Lee
 - [Chain React Conf](https://infinite.red/ChainReactConf)
 - [org](https://30secondsofcode.org/)
-Peter
+  Peter
 - [JS Camp Chicago](https://chicagojs.org/)
-Vincent
+  Vincent
 - [React Day Berlin](https://reactday.berlin/)
 
-
 ### Transcript
-
-

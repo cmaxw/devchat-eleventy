@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 243: Paul Hudson - Writing, Swift, & Writing Swift
+  iPS 243: Paul Hudson - Writing, Swift, & Writing Swift
 date: 2018-06-07 15:00:10
 episode_number: 243
 duration: 48:05
 audio_url: https://media.devchat.tv/iphreaks/iPS_243_Paul_Hudson-Writing%2C_Swift%2C_%26_Writing_Swift.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Andrew Madsen
 - Erica Sadun
@@ -33,9 +33,9 @@ In today's episode, the iPheaks panelist speak with Paul Hudson about Writing, S
 - Who inspires you as a writer?
 - Rory Cellan-Jones&nbsp;[https://twitter.com/bbcrorycj](https://twitter.com/bbcrorycj)
 - How can technical writers improve their writing?
-- What’s your process for getting feedback? 
+- What’s your process for getting feedback?
 - &nbsp;Tell us about your videos
-- How do you make your life more Mac development and less 1 Minute Swift? 
+- How do you make your life more Mac development and less 1 Minute Swift?
 - And much much more!
 
 **Links:**
@@ -61,7 +61,4 @@ Andrew
 
 - Andrew’s UPS system
 
-
 ### Transcript
-
-

@@ -1,24 +1,24 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 340: JavaScript Docker with Julian Fahrer
+  JSJ 340: JavaScript Docker with Julian Fahrer
 date: 2018-11-20 11:00:35
 episode_number: 340
 duration: 58:15
-audio_url:  https://media.devchat.tv/js-jabber/JSJ_340_JavaScript_Docker_with_Julian_Fahrer.mp3
+audio_url: https://media.devchat.tv/js-jabber/JSJ_340_JavaScript_Docker_with_Julian_Fahrer.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Aimee Knight
 - AJ O’Neal
 - Joe Eames
 - Charles Max Wood
-- Chris Ferdinandi 
+- Chris Ferdinandi
 
 **Special Guest:** [Julian Fahrer](https://www.linkedin.com/in/julian-fahrer/)
 
@@ -258,14 +258,14 @@ You do your basic setup then use Chef Solo – that doesn’t’ make sense to m
 - [Kendo UI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
 - [Sentry](https://sentry.io/welcome/)
 - [Cache Fly](https://www.cachefly.com)
-- 
+-
 
 **Picks:**
 
 AJ
 
 - [Zermatt Resort](https://zermattresort.com/)
-- Heber Area 
+- Heber Area
 
 Aimee
 
@@ -280,7 +280,7 @@ Chris
 Joe
 
 - [Docker Videos by Dan Wahlin](https://www.youtube.com/watch?v=cLT7eUWKZpg)
-- Rock Climbing/Indoor Rock Climbing 
+- Rock Climbing/Indoor Rock Climbing
 
 Charles
 
@@ -292,7 +292,4 @@ Julian
 - [PickleJS](https://www.picklejs.com/)
 - [Postive Intelligence](https://www.amazon.com/Positive-Intelligence-Individuals-Achieve-Potential/dp/1608322785)
 
-
 ### Transcript
-
-

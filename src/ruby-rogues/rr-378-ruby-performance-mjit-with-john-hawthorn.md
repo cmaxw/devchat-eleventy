@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 378: Ruby performance: MJIT with John Hawthorn
+  RR 378: Ruby performance: MJIT with John Hawthorn
 date: 2018-09-04 10:00:16
 episode_number: 378
 duration: 44:17
 audio_url: https://media.devchat.tv/ruby-rogues/RR_378_Ruby_performance_MJIT_with_John_Hawthorn.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - David Richards
@@ -74,7 +74,7 @@ In this episode of Ruby Rogues, the panel talks to John Hawthorn about MJIT. Joh
 - [@jhawthorn](https://twitter.com/jhawthorn?lang=en)
 - [johnhawthorn.com](https://www.johnhawthorn.com/)
 - [John’s GitHub](https://github.com/jhawthorn)
-- 
+-
 
 **Sponsors**
 
@@ -110,7 +110,4 @@ John
 - [Julia Evans Blog Posts](https://jvns.ca/categories/ruby-profiler/)
 - [Celeste](http://www.celestegame.com/)
 
-
 ### Transcript
-
-

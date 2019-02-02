@@ -1,33 +1,34 @@
 ---
 layout: layouts/post.njk
 title: >
-      225 JSJ Functional Programming with John A. De Goes
+  225 JSJ Functional Programming with John A. De Goes
 date: 2016-08-17 07:00:51
 episode_number: 225
 duration: 56:10
 audio_url: https://media.devchat.tv/js-jabber/JSJ225FunctionalProgramming.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 03:08 - John A. De Goes Introduction
+
 - [Twitter](https://twitter.com/jdegoes)
 - [GitHub](https://github.com/jdegoes)
 - [Blog](http://degoes.net/)
 - [SlamData](http://slamdata.com/)
-04:07 - [PureScript](http://www.purescript.org/)
+  04:07 - [PureScript](http://www.purescript.org/)
 - [JavaScript Jabber Episode #189: PureScript with John A. De Goes and Phil Freeman](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)
-04:58 - “Purely Functional” ![interactive-1](https://devchat.tv/wp-content/uploads/2016/08/interactive-1.gif)09:18 - Weaknesses With [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+  04:58 - “Purely Functional” ![interactive-1](https://devchat.tv/wp-content/uploads/2016/08/interactive-1.gif)09:18 - Weaknesses With [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 - [Object-oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 - [Procedural Programming](https://en.wikipedia.org/wiki/Procedural_programming)
-14:36 - Organizing a FP Codebase
+  14:36 - Organizing a FP Codebase
 - [John A. De Goes: A Modern Architecture for FP](http://degoes.net/articles/modern-fp)
-17:54 - Beginners and Functional Programming; Getting Started
+  17:54 - Beginners and Functional Programming; Getting Started
 - Learning About the History of Functional Programming
 - Hiring Junior Devs to do FP
-28:20 - The Rise of Functional Programming in JavaScript-land32:08 - Handling Existing Applications36:03 - Complexity Argument41:53 - Weighing Language Tradeoffs; Alt.jsPicks
+  28:20 - The Rise of Functional Programming in JavaScript-land32:08 - Handling Existing Applications36:03 - Complexity Argument41:53 - Weighing Language Tradeoffs; Alt.jsPicks
 - [Nadia Odunayo: The Guest: A Guide To Code Hospitality @ RailsConf 2016](https://youtu.be/hHzWG1FltaE) (Aimee)
 - [React Rally](http://www.reactrally.com/) (Jamison)
 - [Cleanup Algorithm](http://joneshf.github.io/programming/2015/10/04/Cleanup-Algorithm.html) (Jamison)
@@ -38,7 +39,6 @@ tags:
 - [GoodNotes](http://www.goodnotesapp.com/) (Chuck)
 - [John A. De Goes: Halogen: Past, Present, and Future](http://www.slideshare.net/jdegoes/halogen-past-present-and-future) (John)
 - [slamdata](http://github.com/slamdata/slamdata) (John)
-
 
 ### Transcript
 
@@ -357,5 +357,3 @@ And obviously if companies or if people, users, want to check out the source cod
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

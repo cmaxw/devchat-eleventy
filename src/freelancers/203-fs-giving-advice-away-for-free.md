@@ -1,26 +1,27 @@
 ---
 layout: layouts/post.njk
 title: >
-      203 FS Giving Advice Away For Free
+  203 FS Giving Advice Away For Free
 date: 2016-05-26 07:00:47
 episode_number: 203
 duration: 53:48
 audio_url: https://media.devchat.tv/freelancers/FS203GivingAdviceFree.mp3?rss=true
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 01:44 - Handling Initial Client Meetings17:17 - Proprietary/Intellectual Property
+
 - [Lead Generation Trust Velocity](https://philipmorganconsulting.com/lead-generation-trust-velocity/)
 - [Trade Secret](https://en.wikipedia.org/wiki/Trade_secret)
-22:56 - Content Upgrades
+  22:56 - Content Upgrades
 - [Philip Morgan: A Minimum Viable Funnel (MVF)](https://philipmorganconsulting.com/a-minimum-viable-funnel-mvf/)
-29:53 - Pitches32:28 - If/When Property Becomes Public 
+  29:53 - Pitches32:28 - If/When Property Becomes Public
 - [This American Life #427: Original Recipe](http://www.thisamericanlife.org/radio-archives/episode/427/original-recipe)
-36:10 - Year-end Reports&nbsp; Picks
-- [KingSumo](http://kingsumo.com/) (Reuven) 
+  36:10 - Year-end Reports&nbsp; Picks
+- [KingSumo](http://kingsumo.com/) (Reuven)
 - [Google Keep](https://keep.google.com/) (Jonathan)
 - [Jonathan Stark: How To Write Proposals That Close Without Lowering Your Prices](http://ccst.io/e/jstark3) (Jonathan)
 - [Lead Generation Trust Velocity](http://trustvelocity.com) (Philip)
@@ -28,10 +29,9 @@ tags:
 - [Heap Analytics](https://heapanalytics.com) (Philip)
 - [The Primal Blueprint](https://www.primalblueprint.com/) (Chuck)
 
-
 ### Transcript
 
- **CHUCK:** Oh boy, do I have problems.
+**CHUCK:** Oh boy, do I have problems.
 
 **_[This episode is sponsored by Hired.com. Hired.com is offering a new freelancing and contracting offering. They have multiple companies that will provide you with contract opportunities. They cover all the tracking, reporting and billing for you, they handle all the collections and prefund your paycheck, they offer legal and accounting and tax support, and they’ll give you $1,000 when you’ve been on a contract for 90 days. But with this link, they’ll double it to $2,000 instead. Go sign up at Hired.com/freelancersshow.]_**
 
@@ -73,7 +73,7 @@ But it does then mean “hey, I’m working for free, and why are you going to p
 
 And they’ll give you reasons why they can’t do that or they’ll say “yeah, that’s a great idea”. But usually they’ll say “no no no, we can’t do that because X, Y and Z”. And as you go through that conversation, they tell you why they need to hire you. And then I take that information, I put it in a proposal and I send it back to them, and they’re like “yeah, we need to hire this guy”. [Laughter]
 
-I would say – my mom is a 6th grade teacher and she has a lot – she’s very creative, she love ideas about all sorts of technology thing. So a lot of time they get in a situation where she’s “I’ve got an idea for an app”. And she’s never actually asked this, but if she ever said like “I know you know a lot of iOS developers. Could you put me in touch with somebody because I got this idea for an app?” And I was like “are you crazy? That’s going to cost you like $50,000 minimum to get started with that. You’re nuts.”
+I would say – my mom is a 6th grade teacher and she has a lot – she’s very creative, she love ideas about all sorts of technology thing. So a lot of time they get in a situation where she’s “I’ve got an idea for an app”. And she’s never actually asked this, but if she ever said like “I know you know a lot of iOS developers. Could you put me in touch with somebody because I got this idea for an app?” And I was like “are you crazy? That’s going to cost you like \$50,000 minimum to get started with that. You’re nuts.”
 
 And if she said – I’d be like “don’t do that. Don’t even – stop thinking about that because it’s crazy”, or I would try and offer some – maybe investigate a little bit and be like “maybe there’s a cheaper way to do it”, but if she could say to me “no no no, I’ve got investors. The principal and the school system are going to pay for this. I’m not going to pay for it. They all think it’s a good idea and it’s going to be this benefit for the school system”. And I’ll be like “ok, I’m convinced that maybe you should talk to some of my iOS friends”.
 
@@ -231,7 +231,7 @@ And so I ended up going there and talking to them for an hour or so and actually
 
 **REUVEN:** And I've never heard from them again. [Inaudible] Yeah, on the potentially bad client front, I just was speaking to someone over the last few week where it sounded on paper like “wow, this could be an amazing client for me and my employee, and also it’s a great stuff and I see how much” – from the way he was describing his business, it sounded like they make lots of money.
 
-And then he said “oh, it’s going to cost that much”. This was just the initial discussion. “Oh, I don’t know, I’ll just find someone online to do it for $500”. And at that point, I realized “ok, this is like – this is just not going to work. It’s not worth my chasing him down”. I sent him a contract; I said “you want to hire us. Let me know when it’s good”. And strangely, I’ve not heard from him since then.
+And then he said “oh, it’s going to cost that much”. This was just the initial discussion. “Oh, I don’t know, I’ll just find someone online to do it for \$500”. And at that point, I realized “ok, this is like – this is just not going to work. It’s not worth my chasing him down”. I sent him a contract; I said “you want to hire us. Let me know when it’s good”. And strangely, I’ve not heard from him since then.
 
 So right, if I had spent lots of time giving him lots of advice and going over lots of things, I would be really upset, but I gave him some.
 
@@ -243,7 +243,7 @@ So right, if I had spent lots of time giving him lots of advice and going over l
 
 And when I get a new prospect, I don’t do – I’ll do some homework about their company like what do they do, where the costumers come from, how big are they, what kind of cars the CEO drives etcetera, etcetera. I’ll find out about – I’ll do some homework, but that takes 15 minutes. And then I get in to a phone call with them and I haven’t really prepared any specific for them at all. I haven’t certainly spent hundreds of man-hours putting together an advertising campaign; a demo advertising campaign. I basically – I’m going to go in there and I’m going to be – I’m going to try and deliver as much value as I can in that meeting usually by challenging their premise; not usually by giving them answers to anything, but really just asking smart questions.
 
-And that’s a very different thing than going to a situation where you’re basically 1 out of 10 or 12 people who are pitching a thing, and you have to spend 48 hours with no sleep over the weekend with 3 of your staff putting together a [inaudible] on Monday morning you can [inaudible] run in to a skyscraper elevator and go [inaudible] [chuckles] hopefully get the gig. No way.
+And that’s a very different thing than going to a situation where you’re basically 1 out of 10 or 12 people who are pitching a thing, and you have to spend 48 hours with no sleep over the weekend with 3 of your staff putting together a [inaudible] on Monday morning you can [inaudible] run in to a skyscraper elevator and go [inaudible][chuckles] hopefully get the gig. No way.
 
 [Crosstalk]
 
@@ -386,5 +386,3 @@ And Heap Analytics packs in my opinion – I don’t know – 50-70% of the powe
 And yeah, those are my picks. And we’ll go ahead and wrap the show and we’ll catch you all next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

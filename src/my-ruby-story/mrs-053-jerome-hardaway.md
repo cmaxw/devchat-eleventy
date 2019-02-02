@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 053: Jerome Hardaway
+  MRS 053: Jerome Hardaway
 date: 2018-07-25 18:38:14
 episode_number: 053
 duration: 39:07
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_053_Jerome_Hardaway.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Jerome Hardaway
 
@@ -31,7 +31,7 @@ This week on My Ruby Story, Charles speaks with Jerome Hardaway. Jerome used to 
 - [Wordpress](https://wordpress.com/)
 - Focusing on making [Vets Who Code](https://vetswhocode.io/) better
 - People would go for products over projects any day
-- Chose [Ruby on Rails](https://rubyonrails.org/) 
+- Chose [Ruby on Rails](https://rubyonrails.org/)
 - Setting himself apart by picking to focus on Ruby on Rails
 - Where did you come across Ruby on Rails?
 - From PHP to Ruby on Rails
@@ -74,7 +74,4 @@ Jerome
 - [Brian Holt Frontend Masters](https://frontendmasters.com/teachers/brian-holt/)
 - [Pragmatic Studio](https://pragmaticstudio.com/)
 
-
 ### Transcript
-
-

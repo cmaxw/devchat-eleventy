@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 053: Ely Lucas
+  MAS 053: Ely Lucas
 date: 2018-09-26 13:24:58
 episode_number: 053
 duration: 23:42
 audio_url: https://media.devchat.tv/my-angular-story/MAS_053_Ely_Lucas.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** [Ely Lucas](https://twitter.com/brooks_forsyth)
 
@@ -107,9 +107,6 @@ Charles
 Ely
 
 - [Fantasy Novel: Shadow of what was lost.](https://www.barnesandnoble.com/w/the-shadow-of-what-was-lost-james-islington/1120140256#/)
-- Ionic 
-
+- Ionic
 
 ### Transcript
-
-

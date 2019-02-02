@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 301: Chaos Clients
+  FS 301: Chaos Clients
 date: 2018-06-15 02:06:35
 episode_number: 301
 duration: 52:29
 audio_url: https://media.devchat.tv/freelancers/FS_301_Chaos_Clients.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Reuven Learner
 - Jeremy Green
@@ -70,7 +70,4 @@ Erik
 
 - [Horkey Handbook](https://horkeyhandbook.com/)
 
-
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      HotDraw Revisited: Object-Oriented JavaScript and Canvas - Ken Auer - JS Remote Conf 2015
+  HotDraw Revisited: Object-Oriented JavaScript and Canvas - Ken Auer - JS Remote Conf 2015
 date: 2015-08-04 15:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: remote-conf-talks
-tags: 
+tags:
   - remote_conf_talks
   - podcast
 ---
@@ -23,5 +23,3 @@ In the last few years, RoleModel Software was asked to build several systems wit
 The solution in both cases included a HotDraw-like JavaScript approach to drawing and direct manipulation on an HTML5 Canvas, almost completely test driven using Jasmine.
 
 We'll go over the highlights of the cool technical feats and show how JavaScript is not just for manipulating the DOM.
-
-

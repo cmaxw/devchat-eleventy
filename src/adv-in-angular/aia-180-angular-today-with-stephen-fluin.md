@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 180: Angular Today with Stephen Fluin
+  AiA 180: Angular Today with Stephen Fluin
 date: 2018-03-13 14:33:12
 episode_number: 180
 duration: 53:49
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_180_Angular_Today_with_Stephen_Fluin.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Joe Eames
@@ -77,7 +77,4 @@ Stephen
 - [Demos with Angular Videos](https://www.youtube.com/channel/UCYFd7Qy93YP7gPERnxP545A)
 - [RXmarbles.com](http://rxmarbles.com/)
 
-
 ### Transcript
-
-

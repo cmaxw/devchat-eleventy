@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 195: Angular for Microsoft Developers with Sahil Malik
+  AiA 195: Angular for Microsoft Developers with Sahil Malik
 date: 2018-06-26 10:00:52
 episode_number: 195
 duration: 1:03:50
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_195_Angular_for_Microsoft_Developers_with_Sahil_Malik.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Alyssa Nicholl
@@ -46,7 +46,7 @@ In this episode, the Adventures in Angular panelists discuss Angular for Microso
 - Open yourself to the idea of change
 - Get familiarized with node-based development
 - AI
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -84,7 +84,4 @@ Sahil
 
 - Electric bicycles
 
-
 ### Transcript
-
-

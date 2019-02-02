@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      The Freelancers' Show: LIVE Q&A #5 - February 24, 2015
+  The Freelancers' Show: LIVE Q&A #5 - February 24, 2015
 date: 2015-04-02 13:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
@@ -37,12 +37,8 @@ tags:
 59:07 - Referrals
 
 - <u><a style="text-decoration: none;" href="http://www.amazon.com/The-Brain-Audit-Customers-They/dp/0473175045">The Brain Audit: Why Customers Buy (and Why They Don't) by Sean D'Souza</a></u>
-Picks
+  Picks
 
 [<u>Pebble Time Kickstarter</u>](https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises) (Jonathan)[<u>If This Then That (IFTTT)</u>](https://ifttt.com/) (Jonathan)[<u>Naomi Dunford: On Learning and Keeping Stuff</u>](http://ittybiz.com/on-learning-and-keeping-stuff/) (Eric)[<u>Emails That Win You Clients by Robert Williams</u>](http://emailsthatwin.com/) (Reuven)[<u>80/20 Sales and Marketing: The Definitive Guide to Working Less and Making More by Perry Marshall</u>](http://www.amazon.com/80-20-Sales-Marketing-Definitive/dp/1599185059) (Chuck)[<u>Miracles and Massacres: True and Untold Stories of the Making of America by Glenn Beck</u>](http://www.amazon.com/Miracles-Massacres-Untold-Stories-America/dp/1476771200) (Chuck)
 
-
-
 ### Transcript
-
-

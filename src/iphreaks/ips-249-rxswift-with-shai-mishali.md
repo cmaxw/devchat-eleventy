@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 249: RxSwift with Shai Mishali
+  iPS 249: RxSwift with Shai Mishali
 date: 2018-07-26 20:43:51
 episode_number: 249
 duration: 40:06
 audio_url: https://media.devchat.tv/iphreaks/iPS_249_RxSwift_with_Shai_Mishali.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Jaim Zuber
 - Erica Sadun
@@ -43,7 +43,7 @@ In today’s episode, the iPhreaks panel talks to Shai Mishali about RxSwift. Sh
 - How does Rx simplify your life?
 - How do you avoid the pitfalls in Rx?
 - How does debugging work?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -76,7 +76,4 @@ Shai
 
 - [Communityrxswift.org](https://trello.com/c/GDmw1WoX/300-ips-249-rxswift-with-shai-mishali)
 
-
 ### Transcript
-
-

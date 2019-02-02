@@ -1,28 +1,29 @@
 ---
 layout: layouts/post.njk
 title: >
-      229 FS Q&A
+  229 FS Q&A
 date: 2016-11-24 06:00:14
 episode_number: 229
 duration: 47:41
 audio_url: https://media.devchat.tv/freelancers/FS229_Q_A.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 0:20 What is everyone working on?
+
 - [Hourly Billing is Nuts](https://expensiveproblem.com/hbin)
 - [Deadline Funnel](https://deadlinefunnel.com/)
 - [Conferences](https://devchat.tv/conferences)
 - [The Eventual Millionaire](http://eventualmillionaire.com/)
-5:00: Questions to ask on a Greenfield project
+  5:00: Questions to ask on a Greenfield project
 - [Bootstrap](http://getbootstrap.com/)
 - [Phoenix](http://www.phoenixframework.org/)
 - [Elixir](http://elixir-lang.org/)
 - [Open Source](https://opensource.org/)
-15:45: How to write cover letters and earn clients
+  15:45: How to write cover letters and earn clients
 - [Upwork](https://www.upwork.com/)
 - Conferences
 - Apprentice model
@@ -31,7 +32,7 @@ tags:
 - [Redmine](http://www.redmine.org/)
 - [The Apprenticeship Patterns by Dave Hoover](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
 - [Scott Hanselman iPhreaks episode](https://devchat.tv/iphreaks/153-ips-using-mobile-devices-to-manage-diabetes-with-scott-hanselman)
-37:00: What to do if you have no employed experience
+  37:00: What to do if you have no employed experience
 - Don’t lie
 - Get [LinkedIn](https://www.linkedin.com/) endorsements
 - [GitHub](https://github.com/)
@@ -39,6 +40,7 @@ tags:
 - [About.me](https://about.me/)
 
 ### Links:
+
 [Hired.com](https://hired.com/)
 
 ### Transcript

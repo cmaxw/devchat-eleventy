@@ -1,25 +1,28 @@
 ---
 layout: layouts/post.njk
 title: >
-      242 JSJ Visual Studio and .NET with Maria Naggaga
+  242 JSJ Visual Studio and .NET with Maria Naggaga
 date: 2016-12-14 06:00:18
 episode_number: 242
 duration: 52:19
 audio_url: https://media.devchat.tv/js-jabber/JSJ242_Visual_Studio_and_NET_with_Maria_Naggaga.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 1:15 - Introducing Maria Naggaga
+
 - [.NET](https://www.microsoft.com/net)
 - [Twitter](https://twitter.com/ladynaggaga?lang=en)
-2:32 - .NET new developers3:55 - NYC Microsoft bootcamp6:25 - Building a community of .NET programmers7:25 - Why would a Javascript developer care about .NET?9:30 - Getting started with .NET15:50 - The power of asking questions22:45 - Recruiting new programmers to the industry
+  2:32 - .NET new developers3:55 - NYC Microsoft bootcamp6:25 - Building a community of .NET programmers7:25 - Why would a Javascript developer care about .NET?9:30 - Getting started with .NET15:50 - The power of asking questions22:45 - Recruiting new programmers to the industry
 - [@bitchwhocodes](https://twitter.com/bitchwhocodes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [Seattle.rb](http://www.seattlerb.org/)
-37:00 - Javascript and C#48:30 - Running .NET on Raspberry Pi
+  37:00 - Javascript and C#48:30 - Running .NET on Raspberry Pi
+
 ### **Picks:**
+
 [Super Cartography Bros album by OverClocked ReMix](https://soundcloud.com/ocremix/sets/super-cartography-bros) (AJ)[Daplie](https://daplie.com/) (AJ)[Daplie Wefunder](https://wefunder.com/daplie) (AJ)[The Eventual Millionaire](http://eventualmillionaire.com/) (Charles)[Devchat Conferences](http://devchat.tv/conferences) (Charles)[15- Minute Calls](http://devchat.tv/15minutes) (Charles)[Codeland Conference](http://codelandconf.com/)(Maria)[_March_ by Congressman John Lewis](https://www.amazon.com/March-Book-One-John-Lewis/dp/1603093001) (Maria)[Microsoft Virtual Academy](https://mva.microsoft.com/)(Maria)
 
 ### Transcript

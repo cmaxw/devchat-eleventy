@@ -1,25 +1,25 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 001: Welcome to Elixir Mix
+  EMx 001: Welcome to Elixir Mix
 date: 2018-05-02 05:20:51
 episode_number: 001
 duration: 39:31
 audio_url: https://media.devchat.tv/elixir-mix/EMx_001_Welcome_to_Elixir_Mix.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **EMx 001: Welcome to Elixir Mix**
+**EMx 001: Welcome to Elixir Mix**
 
 **Panel:**
 
 - Charles Max Wood
 - Josh Adams
 - Justin Bean
-- Mark Erikson 
+- Mark Erikson
 
 **Special Guests:** None
 
@@ -97,7 +97,4 @@ Mark
 - [ElixirStatus.com](http://elixirstatus.com/)
 - [#ElixirStatus](https://twitter.com/hashtag/elixirstatus)
 
-
 ### Transcript
-
-

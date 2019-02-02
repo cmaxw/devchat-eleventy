@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 314: Visual Studio Code and the VS Code Azure Extension with Matt Hernandez and Amanda Silver LIVE at Microsoft Build
+  JSJ 314: Visual Studio Code and the VS Code Azure Extension with Matt Hernandez and Amanda Silver LIVE at Microsoft Build
 date: 2018-05-22 12:29:21
 episode_number: 314
 duration: 50:46
 audio_url: https://media.devchat.tv/js-jabber/JSJ_314_VS_Code_and_the_VS_Code_Azure_Extension_with_Matt_Hernandez_and_Amanda_Silver.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 
@@ -43,7 +43,7 @@ In this episode, the JavaScript Jabber/Adventures In Angular, panelists discuss 
 - Visual debuggers
 - Is it the same plugin to support everything on Azure?
 - Want to target specific services that node developers will take advantage of
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -81,7 +81,4 @@ Amanda
 - [Iggy Peck, Architect](https://www.amazon.com/Iggy-Peck-Architect-Andrea-Beaty/dp/081091106X)
 - [_Tek_ by Patrick McDonnell](https://www.amazon.com/Tek-Modern-Cave-Patrick-McDonnell/dp/0316338052)
 
-
 ### Transcript
-
-

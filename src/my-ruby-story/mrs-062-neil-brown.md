@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 062: Neil Brown
+  MRS 062: Neil Brown
 date: 2018-09-26 13:35:26
 episode_number: 062
 duration: 22:46
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_062_Neil_Brown.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** Dr. [Neil Brown](https://twitter.com/jwright?lang=en)
 
@@ -109,13 +109,10 @@ Charles
 - [Audible](https://www.audible.com)
 - If you are exhausted / depressed / down...go and take some time for yourself!
 - Having a side project
-- Book: [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_1?ie=UTF8&qid=1537748407&sr=8-1&keywords=crucial+conversation) 
+- Book: [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_1?ie=UTF8&qid=1537748407&sr=8-1&keywords=crucial+conversation)
 
 Neil
 
-- Michael Lewis – [Flash Boys](https://www.amazon.co.uk/Flash-Boys-Michael-Lewis/dp/0141981032) 
-
+- Michael Lewis – [Flash Boys](https://www.amazon.co.uk/Flash-Boys-Michael-Lewis/dp/0141981032)
 
 ### Transcript
-
-

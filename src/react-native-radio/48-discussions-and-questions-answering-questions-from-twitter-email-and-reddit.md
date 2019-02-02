@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      48 Discussions and Questions: Answering  Questions from Twitter, Email, and Reddit
+  48 Discussions and Questions: Answering  Questions from Twitter, Email, and Reddit
 date: 2016-12-18 21:39:18
 episode_number: 048
 duration: 62:34
 audio_url: https://media.devchat.tv/reactnativeradio/React_Native_Radio_Episode_48.mp3
 podcast: react-native-radio
-tags: 
+tags:
   - react_native_radio
   - podcast
 ---
 
- **React Native Radio | Episode 48**
+**React Native Radio | Episode 48**
 
 **Panel**
 
@@ -86,8 +86,4 @@ http://www.golang.to
 
 React Native Ignite
 
-
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 050: Jacob Stoebel
+  MRS 050: Jacob Stoebel
 date: 2018-06-27 14:38:32
 episode_number: 050
 duration: 30:45
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_50_Jacob_Stoebel.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **MRS 050: Jacob Stoebel**
+**MRS 050: Jacob Stoebel**
 
 **Panel:** Charles Max Wood
 
@@ -82,7 +82,4 @@ Jacob
 
 - [RubyConf 2017 talk - Git Driven Refactoring by Ashley Ellis Pierce](https://www.youtube.com/watch?v=3OgbQOsW61Y)
 
-
 ### Transcript
-
-

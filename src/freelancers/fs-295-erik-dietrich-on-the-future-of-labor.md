@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 295: Erik Dietrich on the Future of Labor
+  FS 295: Erik Dietrich on the Future of Labor
 date: 2018-05-03 17:56:53
 episode_number: 295
 duration: 58:35
 audio_url: https://media.devchat.tv/freelancers/FS_295_Erik_Dietrich_on_the_Future_of_Labor.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Reuven Lerner
 - Jonathan Stark
@@ -27,21 +27,21 @@ In this episode of the Freelancer’s Show, the panelist and guest Eric Dietrich
 - Demands for software
 - Labor vs. Knowledge work
 - Software architects to Developer
-- Law firm agency, apprenticeship 
-- Leaving big companies 
-- Giving up on staffing IT, etc. 
-- Outsourcing 
+- Law firm agency, apprenticeship
+- Leaving big companies
+- Giving up on staffing IT, etc.
+- Outsourcing
 - History of corporation
 - Just sitting in your basement and code…
-- Business skills&nbsp; - Being an entrepreneur, not an employee 
-- What should a developer do to take advantage of this? 
+- Business skills&nbsp; - Being an entrepreneur, not an employee
+- What should a developer do to take advantage of this?
 - Start to understand the&nbsp; fundamentals of a business
-- Maintenance work vs. designing the future 
-- UpWork -&nbsp; and commodity labor 
-- Transferable skills 
-- Trends for Freelancers 
-- Becoming business savvy, entrepreneurial 
-- 
+- Maintenance work vs. designing the future
+- UpWork -&nbsp; and commodity labor
+- Transferable skills
+- Trends for Freelancers
+- Becoming business savvy, entrepreneurial
+-
 - And much more!&nbsp; &nbsp; &nbsp;
 
 Links
@@ -68,10 +68,7 @@ Jeremy Green [Increase Your Consulting Fees](http://increaseyourconsultingfees.c
 
 Erik Dietrich
 
-- [Developer Hegemony](https://daedtech.com/book/) 
-- [Post Scan Mail](https://www.postscanmail.com/) 
-
+- [Developer Hegemony](https://daedtech.com/book/)
+- [Post Scan Mail](https://www.postscanmail.com/)
 
 ### Transcript
-
-

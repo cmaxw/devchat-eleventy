@@ -1,40 +1,41 @@
 ---
 layout: layouts/post.njk
 title: >
-      265 RR Timely Dataflow with Frank McSherry
+  265 RR Timely Dataflow with Frank McSherry
 date: 2016-06-22 07:00:39
 episode_number: 265
 duration: 01:03:12
 audio_url: http://media.devchat.tv/ruby-rogues/RR265DataFrankMcSherry.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 02:33 - Frank McSherry Introduction
+
 - [Twitter](https://twitter.com/frankmcsherry)
 - [GitHub](https://github.com/frankmcsherry/)
-03:06 - Computation03:48 - When are more computers needed?04:28 - [Scalability! But at what COST?](http://www.frankmcsherry.org/assets/COST.pdf)
+  03:06 - Computation03:48 - When are more computers needed?04:28 - [Scalability! But at what COST?](http://www.frankmcsherry.org/assets/COST.pdf)
 - Experimentation
-08:03 - Data Format and Pipelines
+  08:03 - Data Format and Pipelines
 - [Hilbert Curve](https://en.wikipedia.org/wiki/Hilbert_curve)
   - [github.com/frankmcsherry/blog/blob/master/posts/2015-02-04.md](https://github.com/frankmcsherry/blog/blob/master/posts/2015-02-04.md)
-14:06 - Code That Could Grow
+    14:06 - Code That Could Grow
 - [Hadoop](http://hadoop.apache.org/)
 - [summingbird](https://github.com/twitter/summingbird)
-20:38 - Languages and Performance23:14 - “For Loops Unrolled”
+  20:38 - Languages and Performance23:14 - “For Loops Unrolled”
 - [Rust](https://www.rust-lang.org/)
-28:01 - Scaling
+  28:01 - Scaling
 - [helix](https://github.com/rustbridge/helix)
-35:42 - Functional vs Procedural Language37:47 - Dataflow (Timely; Differential)
+  35:42 - Functional vs Procedural Language37:47 - Dataflow (Timely; Differential)
 - Around, Epic
 - [Vector Clock](https://en.wikipedia.org/wiki/Vector_clock)
 - Introductory Blog Posts:
   - [github.com/frankmcsherry/blog/blob/master/posts/2015-09-14.md](https://github.com/frankmcsherry/blog/blob/master/posts/2015-09-14.md)
   - [github.com/frankmcsherry/blog/blob/master/posts/2015-09-18.md](https://github.com/frankmcsherry/blog/blob/master/posts/2015-09-18.md)
   - [github.com/frankmcsherry/blog/blob/master/posts/2015-09-21.md](https://github.com/frankmcsherry/blog/blob/master/posts/2015-09-21.md)
-&nbsp;Picks
+    &nbsp;Picks
 - [Go-Ped Know Ped Scooter](http://goped.com/scooters/push/know-ped/) (Sam)
 - [2015 State of the Software Supply Chain Report](https://www.sonatype.com/state-of-the-software-supply-chain) (Jessica)
 - [The Screwtape Letters](https://en.wikipedia.org/wiki/The_Screwtape_Letters) (Jessica)
@@ -45,10 +46,9 @@ tags:
 - [Rust](https://www.rust-lang.org/) (Frank)
 - [Big Data Analytics with Datalog Queries on Spark](http://yellowstone.cs.ucla.edu/~yang/paper/sigmod2016-p958.pdf) (Frank)
 
-
 ### Transcript
 
- **JESSICA:&nbsp;** Three is a nice number of panelists.
+**JESSICA:&nbsp;** Three is a nice number of panelists.
 
 **CHUCK:&nbsp;** Yeah.
 
@@ -475,5 +475,3 @@ Everyone should go and learn Rust, too. That's [www.RustLang.org](http://www.Rus
 **_[Bandwidth for this segment is provided by CacheFly, the world's fastest CDN. Deliver your content fast with CacheFly. Visit C-A-C-H-E-F-L-Y dot com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

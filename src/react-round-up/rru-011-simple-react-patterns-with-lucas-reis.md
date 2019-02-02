@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 011: Simple React Patterns with Lucas Reis
+  RRU 011: Simple React Patterns with Lucas Reis
 date: 2018-05-16 03:13:17
 episode_number: 011
 duration: 1:00:56
 audio_url: https://media.devchat.tv/reactroundup/RRU_011_Simple_React_Patterns_with_Lucas_Reis.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Cory House
@@ -31,7 +31,7 @@ In this episode of React Round Up, the panel discusses simple React patterns wit
 - Three things that define good patterns
 - Define successful?
 - The mix component
-- The Container/Branch/View pattern 
+- The Container/Branch/View pattern
 - First successful pattern he has found
 - Separation of concerns
 - Common concern: are we worried about mixing concerns?
@@ -72,7 +72,4 @@ Lucas
 - [Percy](https://percy.io/)
 - Be studying the languages and be inspired!
 
-
 ### Transcript
-
-

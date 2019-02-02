@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 167 CocoaDocs with Orta Therox
+  iPS 167 CocoaDocs with Orta Therox
 date: 2016-08-25 07:00:03
 episode_number: 167
 duration: 39:31
 audio_url: https://media.devchat.tv/iphreaks/iPS167CocoaDocs1.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
@@ -18,28 +18,27 @@ tags:
 - [GitHub](https://github.com/orta)
 - [Blog](http://orta.io/)
 - [Artsy](https://www.artsy.net/)
-01:56 -&nbsp;[CocoaDocs](http://cocoadocs.org/)03:06 - CocoaDocs vs&nbsp;[CocoaPods](https://cocoapods.org/)04:22 - Documentation Generation
+  01:56 -&nbsp;[CocoaDocs](http://cocoadocs.org/)03:06 - CocoaDocs vs&nbsp;[CocoaPods](https://cocoapods.org/)04:22 - Documentation Generation
 - [jazzy](https://github.com/realm/jazzy)
 - [appledoc](https://github.com/tomaz/appledoc)
 - [Macminicolo](https://macminicolo.net/)
-08:49 - Setting Up CocoaDocs in a Private Repository 10:17 - Metrics
+  08:49 - Setting Up CocoaDocs in a Private Repository 10:17 - Metrics
 - Publishing Criteria
-13:45 - Package Management Support 15:34 - CocoaDocs History 17:17 - Scaling Challenges
+  13:45 - Package Management Support 15:34 - CocoaDocs History 17:17 - Scaling Challenges
 - [RxSwift](https://github.com/ReactiveX/RxSwift)
-19:32 -&nbsp;[Artsy](https://www.artsy.net/)
+  19:32 -&nbsp;[Artsy](https://www.artsy.net/)
 - [danger](https://github.com/danger/danger)
-21:18 - Working with&nbsp;[React Native](https://facebook.github.io/react-native/)
+  21:18 - Working with&nbsp;[React Native](https://facebook.github.io/react-native/)
 - [eigen](https://github.com/artsy/eigen)
-24:39 - Is CocoaDocs similar to projects that are available on other platforms? Effect on Swift Going Cross-platform 27:08 - Paying For Hosting
+  24:39 - Is CocoaDocs similar to projects that are available on other platforms? Effect on Swift Going Cross-platform 27:08 - Paying For Hosting
 - [Button](https://www.usebutton.com/)
-30:12 -&nbsp;[danger](https://github.com/danger/danger)
+  30:12 -&nbsp;[danger](https://github.com/danger/danger)
 - [Felix Krause](http://krausefx.com/)
-Picks
+  Picks
 - [iPad Pro Smart Keyboard](http://www.apple.com/smart-keyboard/)&nbsp;(Andrew)
 - [Bose SoundTrue Around-Ear Headphones II](https://www.amazon.com/Bose-SoundTrue-around-ear-headphones-II/dp/B0117RFX38)&nbsp;(Layne)
 - [curlbuilder.com](https://curlbuilder.com/)&nbsp;(Jaim)
 - [injectionforxcode](https://github.com/johnno1962/injectionforxcode)&nbsp;(Orta)
-
 
 ### Transcript
 
@@ -189,7 +188,7 @@ I remember just hacking embeds night after night, having my laptop run the docum
 
 **ORTA:** Yeah. It was when AFNetworking changed all their documentation URLs to switch to CocoaDocs. And I just sat there and I thought, okay, this means I have to take it seriously. So I have to write some tests for this; I had to start turning it into get into a software project rather than a [inaudible] – a quick hack in – hacked together an idea.
 
-I was also – I’m still paying for CocoaDocs myself personally. CocoaDocs, they [inaudible] free stuff so all the hosted documentation and [inaudible] we generated. They cost me a lot of money – $25,000 a month which I think it’s really cheap for such an essential infrastructure.
+I was also – I’m still paying for CocoaDocs myself personally. CocoaDocs, they [inaudible] free stuff so all the hosted documentation and [inaudible] we generated. They cost me a lot of money – \$25,000 a month which I think it’s really cheap for such an essential infrastructure.
 
 **LAYNE:** Yeah, that’s pretty awesome actually.
 
@@ -396,5 +395,3 @@ Last time, I was working in Objective-C and Swift projects, I was starting to wo
 **JAIM:** Bye everyone.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

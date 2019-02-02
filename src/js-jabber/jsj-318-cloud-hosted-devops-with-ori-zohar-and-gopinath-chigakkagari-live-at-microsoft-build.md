@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 318: Cloud-Hosted DevOps with Ori Zohar and Gopinath Chigakkagari LIVE at Microsoft Build
+  JSJ 318: Cloud-Hosted DevOps with Ori Zohar and Gopinath Chigakkagari LIVE at Microsoft Build
 date: 2018-06-18 10:00:33
 episode_number: 318
 duration: 56:37
 audio_url: https://media.devchat.tv/js-jabber/JSJ_318_Cloud-Hosted_DevOps_with_Ori_Zohar_and_Gopinath_Chigakkagari_LIVE_at_Microsoft_Build.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 
@@ -42,7 +42,7 @@ In this episode, the JavaScript Jabber panelists discuss Cloud-Hosted DevOps wit
 - Trends on what customers are asking for
 - Safety
 - Docker containers
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -77,7 +77,4 @@ Gopinath
 
 - Seattle, WA
 
-
 ### Transcript
-
-

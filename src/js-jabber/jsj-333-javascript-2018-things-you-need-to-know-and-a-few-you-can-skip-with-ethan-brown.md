@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 333: “JavaScript 2018: Things You Need to Know, and a Few You Can Skip” with Ethan Brown
+  JSJ 333: “JavaScript 2018: Things You Need to Know, and a Few You Can Skip” with Ethan Brown
 date: 2018-10-02 10:00:45
 episode_number: 333
 duration: 1:12:36
 audio_url: https://media.devchat.tv/js-jabber/JSJ_333_JavaScript_2018_Things_You_Need_To_Know%2C_and_a_Few_You_Can_Skip_with_Ethan_Brown.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Aimee Knight](http://www.aimeemarieknight.com)
 - [Joe Eames](https://twitter.com/josepheames?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
@@ -198,7 +198,7 @@ Data binding. [Flux and Redux](https://www.fullstackreact.com/p/intro-to-flux-an
 - [Sentry](https://sentry.io/welcome/)
 - [Digital Ocean](https://www.cachefly.com)
 - [Cache Fly](https://www.cachefly.com)
-- 
+-
 
 **Picks:**
 
@@ -223,7 +223,4 @@ Data binding. [Flux and Redux](https://www.fullstackreact.com/p/intro-to-flux-an
 - [JavaScipt Blog by Dr. Axel Rauschmayer](http://2ality.com/)
 - [Cooper Press](https://cooperpress.com/)
 
-
 ### Transcript
-
-

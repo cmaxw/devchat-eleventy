@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 049: Amit Choudhary
+  MRS 049: Amit Choudhary
 date: 2018-06-20 15:40:32
 episode_number: 049
 duration: 21:35
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_049_Amit_choudhary.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Amit Choudhary
 
@@ -55,7 +55,7 @@ This week on My Ruby Story, Charles talks to Amit Choudhary. Amit was previously
 - [Selenium](https://www.seleniumhq.org/)
 - [Amit’s GitHub](https://github.com/amit-choudhary)
 - [Amit on Big Binary Blog](https://blog.bigbinary.com/authors/amit/)
-- [@amit\_1992](https://twitter.com/amit_1992)
+- [@amit_1992](https://twitter.com/amit_1992)
 
 **Sponsors:**
 
@@ -75,7 +75,4 @@ Amit
 
 - [Ruby 2.6](https://www.ruby-lang.org/en/news/2018/02/24/ruby-2-6-0-preview1-released/)
 
-
 ### Transcript
-
-

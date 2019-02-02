@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 372: Hiring with Mindaugas Mozūras
+  RR 372: Hiring with Mindaugas Mozūras
 date: 2018-07-25 00:37:03
 episode_number: 372
 duration: 1:05:59
 audio_url: https://media.devchat.tv/ruby-rogues/RR_372_Hiring_with_Mindaugas_Mozuras.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - David Richards
@@ -43,7 +43,7 @@ In this episode of Ruby Rogues, the panel talks to Mindaugas Mozūras about hiri
 - How they write up job ads differently at [Vinted](https://www.vinted.com/)
 - Weekly one-on-ones and quarterly reviews
 - Allowing people to be who they are and fit openly into the company
-- Not forcing people to fit inside a certain “box” 
+- Not forcing people to fit inside a certain “box”
 - And much, much more!
 
 **Links:**
@@ -89,7 +89,4 @@ Mindaugas
 - [_Scaling Teams_ by Alexander Grosse](https://www.goodreads.com/book/show/34118071-scaling-teams)
 - [vim-anywhere](https://github.com/cknadler/vim-anywhere)
 
-
 ### Transcript
-
-

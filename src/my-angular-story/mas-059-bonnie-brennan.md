@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 059: Bonnie Brennan
+  MAS 059: Bonnie Brennan
 date: 2018-11-07 11:00:07
 episode_number: 059
 duration: 1:10:23
 audio_url: https://media.devchat.tv/my-angular-story/MAS_059_Bonnie_Brennan.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** [Bonnie Brennan](https://developers.google.com/experts/people/bonnie-brennan)
 
@@ -101,7 +101,4 @@ Bonnie
 - [NG Houston](https://www.meetup.com/ngHouston/?_cookie-check=YUAiQQaj1k8mjDwT)
 - [Angular for the Visual Learner](https://medium.com/@SamLee_509/angular-for-the-visual-learner-677f7df78679)
 
-
 ### Transcript
-
-

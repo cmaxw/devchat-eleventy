@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 072: Orta Therox
+  MJS 072: Orta Therox
 date: 2018-08-02 20:05:32
 episode_number: 072
 duration: 38:58
 audio_url: https://media.devchat.tv/my-js-story/MJS_072_Orta_Therox.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Orta Therox
 
@@ -75,7 +75,4 @@ Orta
 
 - [Prettier](https://prettier.io/)
 
-
 ### Transcript
-
-

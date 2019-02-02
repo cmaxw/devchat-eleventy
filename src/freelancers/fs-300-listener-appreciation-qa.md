@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 300: Listener Appreciation Q&A
+  FS 300: Listener Appreciation Q&A
 date: 2018-06-07 10:00:07
 episode_number: 300
 duration: 1:23:25
 audio_url: https://media.devchat.tv/freelancers/FS_300_Listener_Appreciation_Q%26A_.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Jonathan Stark
 - Jeremy Green
-- Eric Dietrich 
+- Eric Dietrich
 - Charles Maxwood
 - Rueven Lerner
 - Curtis
@@ -27,16 +27,16 @@ In this episode, the Freelancer show celebrates its 300<sup>th</sup> episode. Th
 
 - How do you get potential clients to talk to you and see if it’s a good fit?
   - Person 1’s Answer:
-    - You want to have some sort of process in place. 
+    - You want to have some sort of process in place.
     - A precursor for working with client.
-    - Free 30-minute call for both of us. 
+    - Free 30-minute call for both of us.
   - Person 2’s Answer:
     - Go out to business conferences and business world to meet people.
     - Be willing to make the phone calls, and connect on [LinkedIn.](https://www.linkedin.com)
     - You will meet a whole lot of people, and not everyone will be a good fit for you.
     - Then you can start weeding out those that won’t be a good fit.
   - Person 3’s Answer:
-    - Phone call, proposal phase, and then contract. 
+    - Phone call, proposal phase, and then contract.
   - Person 4’s Answer:
     - Inbound and the Q&A.
   - Person’s 5 Answer:
@@ -50,8 +50,8 @@ In this episode, the Freelancer show celebrates its 300<sup>th</sup> episode. Th
     - How much do you really charge?
   - Person 2’s Answer:
     - Sponsorship episodes.
-    - Selling advertising it’s usually per unit. 
-    - If you don’t think you’re getting a good value then it might not be a good match. 
+    - Selling advertising it’s usually per unit.
+    - If you don’t think you’re getting a good value then it might not be a good match.
     - Podcast sponsorships.
   - Person 3’s Answer:
     - In the beginning – it’s more an art than a science.
@@ -72,7 +72,4 @@ In this episode, the Freelancer show celebrates its 300<sup>th</sup> episode. Th
 
 - [Linode](https://welcome.linode.com/features-1gb/?gclid=EAIaIQobChMIm5XTx9LC2wIVBx1pCh1PBw3zEAAYASAAEgIJS_D_BwE)
 
-
 ### Transcript
-
-

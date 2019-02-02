@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 086: James Adams
+  MJS 086: James Adams
 date: 2018-11-21 11:00:52
 episode_number: 086
 duration: 32:07
 audio_url: https://media.devchat.tv/my-js-story/MJS_086_James_Adams.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
 **Guest:** [James Adams](https://twitter.com/jamesadams0)
 
@@ -162,13 +162,10 @@ END – [Cache Fly](https://www.cachefly.com)
 
 Chuck
 
-- Presser switch for my Furnace – Goggle Search 
+- Presser switch for my Furnace – Goggle Search
 
 James
 
 - [Tweet Mash Up](https://tweetmashup.com)
 
-
 ### Transcript
-
-

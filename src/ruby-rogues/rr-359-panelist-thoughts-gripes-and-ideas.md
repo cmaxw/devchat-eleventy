@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 359: Panelist Thoughts, Gripes, and Ideas
+  RR 359: Panelist Thoughts, Gripes, and Ideas
 date: 2018-04-24 10:00:05
 episode_number: 359
 duration: 58:54
 audio_url: https://media.devchat.tv/ruby-rogues/RR_359_Panelist_Thoughts%2C_Gripes%2C_and_Ideas.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Brian Hogan
@@ -86,7 +86,4 @@ Dave
 - [Rails 5.2](https://weblog.rubyonrails.org/2018/4/9/Rails-5-2-0-final/)
 - [GDPR](https://www.eugdpr.org/)
 
-
 ### Transcript
-
-

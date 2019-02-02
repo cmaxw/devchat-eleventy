@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 024: Teaching Vue, Community Building, and the Vue News Podcast with Gregg Pollack & Adam Jahr
+  VoV 024: Teaching Vue, Community Building, and the Vue News Podcast with Gregg Pollack & Adam Jahr
 date: 2018-08-15 19:36:35
 episode_number: 024
 duration: 50:16
 audio_url: https://media.devchat.tv/viewsonvue/VoV_024_Teaching_Vue%2C_Community_Building%2C%20_and_the_Vue_News_Podcast_with_Gregg_Pollack_%26_Adam_Jahr.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Chris Fritz
 - Joe Eames
@@ -39,7 +39,7 @@ In this episode, the Views on Vue panel talks to Gregg Pollack and Adam Jahr abo
 - The story of Code School
 - [Official Vue News Podcast](https://news.vuejs.org/)
 - [Rails for Zombies](https://www.pluralsight.com/courses/code-school-rails-for-zombies)
-- Creating partnerships 
+- Creating partnerships
 - Merger with [Pluralsight](https://www.pluralsight.com/)
 - Producing mostly video content now
 - Why did you choose video?
@@ -47,7 +47,7 @@ In this episode, the Views on Vue panel talks to Gregg Pollack and Adam Jahr abo
 - Gamification with Vue Mastery
 - Want to have a reason for people to come back to your sight
 - One new video a week
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -91,7 +91,7 @@ Divya
 
 Erik
 
-- [_After 5 years and $3M, here's everything we've learned from building Ghost_](https://blog.ghost.org/5/)
+- [_After 5 years and \$3M, here's everything we've learned from building Ghost_](https://blog.ghost.org/5/)
 
 Gregg
 
@@ -102,9 +102,6 @@ Gregg
 Adam
 
 - [CMTY](https://cmty.app/)
-- [_Tig_](https://www.imdb.com/title/tt3986532/) 
-
+- [_Tig_](https://www.imdb.com/title/tt3986532/)
 
 ### Transcript
-
-

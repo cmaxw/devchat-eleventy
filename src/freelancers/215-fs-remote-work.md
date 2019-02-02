@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      215 FS Remote Work
+  215 FS Remote Work
 date: 2016-08-18 07:00:03
 episode_number: 215
 duration: 55:54
 audio_url: https://devchat.cachefly.net/freelancers/FS215RemoteWork.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
@@ -25,11 +25,11 @@ tags:
 - [GoToMeeting](https://www.gotomeeting.com/)/[GoToWebinar](https://www.gotomeeting.com/webinar/)
 - [Google Hangouts](https://hangouts.google.com/)
 - [Basecamp](https://basecamp.com/)
-13:30 - Setting Client Expectations and Discussions 20:53 - Making the Case for Real-time Communication 29:16 - Timezones
+  13:30 - Setting Client Expectations and Discussions 20:53 - Making the Case for Real-time Communication 29:16 - Timezones
 - [Calendly](https://calendly.com/)
 - [Doodle](http://doodle.com/)
 - [Fantastical](https://flexibits.com/fantastical)
-37:45 - Meeting Face-to-face &nbsp; Picks
+  37:45 - Meeting Face-to-face &nbsp; Picks
 - [The Big Short: Inside the Doomsday Machine by Michael Lewis](http://www.audible.com/pd/Business/The-Big-Short-Audiobook/B003B2ZV8K) (Jonathan)
 - [Hourly Billing Is Nuts by Jonathan Stark](http://hourlybillingisnuts.com) 30% OFF with code FS215 (Jonathan)
 - [Fantastical](https://flexibits.com/fantastical) (Philip)
@@ -42,10 +42,9 @@ tags:
 - [Apple Pencil](http://www.apple.com/apple-pencil/) (Chuck)
 - [GoodNotes](http://www.goodnotesapp.com/) (Chuck)
 
-
 ### Transcript
 
- **PHILIP:** Ugh. I remember seeing one of those hard disk drive, those removable disk packs. It was literally the size of a washing machine, like a US size washing machine to be clear. And if not, even a European size washing machine.
+**PHILIP:** Ugh. I remember seeing one of those hard disk drive, those removable disk packs. It was literally the size of a washing machine, like a US size washing machine to be clear. And if not, even a European size washing machine.
 
 **_[This episode is sponsored by Hired.com. Hired.com is offering a new freelancing and contracting offering. They have multiple companies that will provide you with contract opportunities. They cover all the tracking, reporting and billing for you, they handle all the collections and prefund your paycheck, they offer legal and accounting and tax support, and they’ll give you a $1,000 when you’ve been on a contract for 90 days. But with this link, they’ll double it to $2,000 instead. Go sign up at Hired.com/freelancersshow]_**
 
@@ -121,7 +120,7 @@ I don’t know if we’re going to talk about non-real time stuff later but I pr
 
 **REUVEN:** Do you guys find that the quality of these real-time conversation systems or communication systems, the quality has anything to do with whether you’re paying for it or not because I definitely – I’m paying for Skype. I pay for it to [inaudible] a number in and then calls out. And I don’t feel like that I have a bunch of other experience than my friends who have the free plan.
 
-**PHILIP:** I see no correlation except for this one weird edge case where I was on Skype saying – the pricing in the US is $2.99 a month and you can call any phone number in the US and Canada or North America. And I upgraded to get a number where people could reach me in [inaudible] via Skype has – my cellphone’s not the greatest where I live and the call quality got way worse, noticeably, dramatically worse. So in this case, there was an inverse relationship but that’s the edge case. I really see no correlation. It’s like there’s amazing free stuff and there’s paid stuff that’s mediocre, what [inaudible] you, go to webinar and do some of those conferencing [inaudible]. Super expensive and [crosstalk].
+**PHILIP:** I see no correlation except for this one weird edge case where I was on Skype saying – the pricing in the US is \$2.99 a month and you can call any phone number in the US and Canada or North America. And I upgraded to get a number where people could reach me in [inaudible] via Skype has – my cellphone’s not the greatest where I live and the call quality got way worse, noticeably, dramatically worse. So in this case, there was an inverse relationship but that’s the edge case. I really see no correlation. It’s like there’s amazing free stuff and there’s paid stuff that’s mediocre, what [inaudible] you, go to webinar and do some of those conferencing [inaudible]. Super expensive and [crosstalk].
 
 **CHUCK:** You are being so nice to them. [Chuckles] Mediocre? [Chuckles]
 
@@ -345,7 +344,7 @@ There was another one and I can’t remember the name of it but there are a bunc
 
 **REUVEN:** Actually, I’m always saying “in your 12 or your one o’clock or your three o’clock”. And by the way, I always – I never say “next” like next Tuesday, next week. Always use a specific date. And I never say 12 AM or 12 PM, always 12 noon or 12 midnight.
 
-**JONATHAN:** Yeah, me too. Totally. You can tell that [inaudible] deal with a lot of time zone. [Chuckles] [Inaudible] knew all that stuff.
+**JONATHAN:** Yeah, me too. Totally. You can tell that [inaudible] deal with a lot of time zone. [Chuckles][inaudible] knew all that stuff.
 
 **CHUCK:** Alright.
 
@@ -353,7 +352,7 @@ There was another one and I can’t remember the name of it but there are a bunc
 
 **CHUCK:** So finally, his last question is basically what if you’re selling software or some kind of strategy consulting or something like that, do you do that completely remotely or do people react poorly to doing it entirely remotely or they’re going to want to meet you in person?
 
-**JONATHAN:** Got a funny story there. Virtually all the work I do, my mobile business is strategy. Almost none of my clients are within a reasonable driving distance. I had one client recently who wanted to do a – we want small, [inaudible] thing. It was clear that I was not going. There was going to be no on-sights. They were a plane ride away and I wasn’t interested in doing that and I certainly didn’t price the gig that [inaudible]. So it came time to do the kickoff and they’re like, “You know, I think it would be better if we met in person for a two-day kickoff,” which I think was way more than we needed and was definitely out of bounds in terms of what I have priced like I said. So I said, “Yeah, I can’t make that happen but if you guys want to fly to me, I can make that happen,” [chuckles] to put in their mind, “Okay, that would cost us at least $15,000 to fly the team up to Providence.
+**JONATHAN:** Got a funny story there. Virtually all the work I do, my mobile business is strategy. Almost none of my clients are within a reasonable driving distance. I had one client recently who wanted to do a – we want small, [inaudible] thing. It was clear that I was not going. There was going to be no on-sights. They were a plane ride away and I wasn’t interested in doing that and I certainly didn’t price the gig that [inaudible]. So it came time to do the kickoff and they’re like, “You know, I think it would be better if we met in person for a two-day kickoff,” which I think was way more than we needed and was definitely out of bounds in terms of what I have priced like I said. So I said, “Yeah, I can’t make that happen but if you guys want to fly to me, I can make that happen,” [chuckles] to put in their mind, “Okay, that would cost us at least \$15,000 to fly the team up to Providence.
 
 Then I was like, “Well, if you really want me to come down there, I can give you a price for that. And I was trying to anchor high with their cost for flying to me. It was going to cost more than the whole gig; [inaudible] I was going to have to cancel a bunch of stuff, fly down from there. It would’ve been terrible. It was totally unnecessary but it is true that a lot of – it’s almost like the bigger check their writing, the more they want some kind of facetime, at least in the beginning. Frankly, sometimes I am open to flying to some place before I even have the job because I want to see the facility before I price it.
 
@@ -377,7 +376,7 @@ Is it necessary? No, but it’s really nice. If it’d make sense to do, it’s 
 
 **PHILIP:** I think that it does something to a position you – has a little higher value, freelancer consultant, whatever – when it’s obvious to a client you could A, afford to fly to them without them having to pick up the bill and B, that you have enough control of your own schedule to arrange that. Most of those are going to be signals that this person is not scraping work from Upwork; they’re actually succeeding in what they’re doing. So in a sense – I guess I have to make an exception to even my own preference for doing everything remotely which is – it sends a real message when you can travel and it’s not a big deal for you to travel and you’re not like, “So who’s going to pay for this trip?”
 
-**JONATHAN:** Yeah, totally. It’s a total power move. If you believe that there’s a real gig there, that it’s more – it’s a little bit of a gamble and it’s definitely no fun. I can’t stand traveling. I’m so sick of travelling. I’m fond of saying I will not get on a plane for less than $5,000 but I would, and I did just to a company that I just mentioned that maybe I would fly down there because this seems like a sweet gig. I think you get – these guys are not tired giggers and I’m going to be in competition with people who are players. Just casually saying, “You know, maybe I’ll just fly down there.”
+**JONATHAN:** Yeah, totally. It’s a total power move. If you believe that there’s a real gig there, that it’s more – it’s a little bit of a gamble and it’s definitely no fun. I can’t stand traveling. I’m so sick of travelling. I’m fond of saying I will not get on a plane for less than \$5,000 but I would, and I did just to a company that I just mentioned that maybe I would fly down there because this seems like a sweet gig. I think you get – these guys are not tired giggers and I’m going to be in competition with people who are players. Just casually saying, “You know, maybe I’ll just fly down there.”
 
 I agree; Philip’s 100% right but it’s definitely a – it’s your ace card in your situation. It sounds like yeah – but I feel like it’s something that I worked up to. This isn’t something that I did starting out. I don’t want people to feel like you need to do this so that it’s some kind of strategy. It just naturally presents itself when you’re in this situation, you could benefit for it. You know what I mean? It’s like a tactful approach that I can apply in this case. I could just – be like, “Yeah, nevermind,” and not even worry about it but just has this whiff of a good – there’s something about it that seems like it’s going to be a really good project.
 
@@ -462,5 +461,3 @@ The other thing I liked was with the Apple pencil. During some of the sessions, 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
 
 **_[Would you like to join a conversation with the Freelancers’ Show panelists and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. Sign up at freelancersshow.com/forum]_**
-
-

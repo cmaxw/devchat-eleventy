@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      How they Work Better Together: Lean UX, Agile Development, and User-Centered Design - Ruby Remote Conf 2015
+  How they Work Better Together: Lean UX, Agile Development, and User-Centered Design - Ruby Remote Conf 2015
 date: 2015-12-22 14:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: remote-conf-talks
-tags: 
+tags:
   - remote_conf_talks
   - podcast
 ---
@@ -31,5 +31,3 @@ This session will discuss:
 \* What processes lead to problems
 
 \* Things to take back and try on their teams
-
-

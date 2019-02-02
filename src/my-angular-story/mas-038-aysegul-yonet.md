@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 038: Aysegul Yonet
+  MAS 038: Aysegul Yonet
 date: 2018-05-23 10:00:16
 episode_number: 038
 duration: 24:28
 audio_url: https://media.devchat.tv/my-angular-story/MAS_038_Aysegul_Yonet.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Aysegul Yonet
 
@@ -75,7 +75,4 @@ Aysegul
 - [3JS-AR](https://github.com/n-mam/3JS-AR)
 - [AngularDoc.io](https://angulardoc.io/)
 
-
 ### Transcript
-
-

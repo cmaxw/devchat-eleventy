@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 059: Rob Miller
+  MRS 059: Rob Miller
 date: 2018-09-05 15:44:39
 episode_number: 059
 duration: 22:25
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_059_Rob_Miller.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Rob Miller
 
@@ -62,7 +62,4 @@ Charles
 
 - Writing a book in [Markdown](https://blog.ghost.org/markdown/)
 
-
 ### Transcript
-
-

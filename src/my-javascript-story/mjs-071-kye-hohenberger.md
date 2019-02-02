@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 071: Kye Hohenberger
+  MJS 071: Kye Hohenberger
 date: 2018-07-25 18:27:27
 episode_number: 071
 duration: 19:18
 audio_url: https://media.devchat.tv/my-js-story/MJS_071_Kye_Hohenberger.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Kye Hohenberger
 
@@ -83,7 +83,4 @@ Kye
 - [Brian Holt on Frontend Masters](https://frontendmasters.com/teachers/brian-holt/)
 - Emotion Team
 
-
 ### Transcript
-
-

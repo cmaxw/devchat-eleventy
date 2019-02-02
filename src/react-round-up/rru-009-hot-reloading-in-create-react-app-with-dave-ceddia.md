@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 009: Hot Reloading in Create React App with Dave Ceddia
+  RRU 009: Hot Reloading in Create React App with Dave Ceddia
 date: 2018-05-01 10:00:24
 episode_number: 009
 duration: 53:54
 audio_url: https://media.devchat.tv/reactroundup/RRU_009_Hot_Reloading_in_Create_React_App_with_Dave_Ceddia.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Tara Manicsic
@@ -80,7 +80,4 @@ Dave
 - [React Boston](http://www.reactboston.com/)
 - [Indie Hackers](https://www.indiehackers.com/)
 
-
 ### Transcript
-
-

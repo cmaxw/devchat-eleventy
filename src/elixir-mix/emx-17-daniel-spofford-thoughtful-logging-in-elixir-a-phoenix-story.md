@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 017: Daniel Spofford: "Thoughtful Logging in Elixir: A Phoenix Story"
+  EMx 017: Daniel Spofford: "Thoughtful Logging in Elixir: A Phoenix Story"
 date: 2018-09-04 10:00:01
 episode_number: 017
 duration: 1:04:35
 audio_url: https://media.devchat.tv/elixir-mix/EMx_17_Daniel_Spofford_Thoughtful_Logging_in_Elixir_A_Phoenix_Story.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Mark Ericksen
@@ -138,7 +138,4 @@ Daniel
 - [A dolly to help with your move!](https://www.amazon.com/Cosco-Shifter-300-Pound-Capacity-Multi-Position/dp/B00LMH8CCS/ref=lp_256347011_1_1?s=industrial&ie=UTF8&qid=1534866394&sr=1-1)
 - [Uplift desk](https://www.upliftdesk.com/uplift-height-adjustable-standing-desk-frame-2-leg/)
 
-
 ### Transcript
-
-

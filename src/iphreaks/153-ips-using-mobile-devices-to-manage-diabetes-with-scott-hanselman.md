@@ -1,34 +1,35 @@
 ---
 layout: layouts/post.njk
 title: >
-      153 iPS Using Mobile Devices to Manage Diabetes with Scott Hanselman
+  153 iPS Using Mobile Devices to Manage Diabetes with Scott Hanselman
 date: 2016-05-19 07:00:27
 episode_number: 153
 duration: 54:11
-audio_url: https://media.devchat.tv/iphreaks/iPS153DiabetesAndMobile.mp3?rss=true 
+audio_url: https://media.devchat.tv/iphreaks/iPS153DiabetesAndMobile.mp3?rss=true
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 01:06 - Scott Hanselman Introduction
+
 - [Twitter](https://twitter.com/shanselman)
 - [GitHub](https://github.com/shanselman)
 - [Blog](http://www.hanselman.com/)
 - [Hanselminutes](http://hanselminutes.com/)
 - [This Developer's Life](http://thisdeveloperslife.com/)
-02:23 - Managing Diabetes
+  02:23 - Managing Diabetes
 - [American Diabetes Association](http://www.diabetes.org/)
-13:14 - [“Closed-Loop” System](http://www.diabetes.org/research-and-practice/patient-access-to-research/closed-loop-system-can.html)
+  13:14 - [“Closed-Loop” System](http://www.diabetes.org/research-and-practice/patient-access-to-research/closed-loop-system-can.html)
 - [Dexcom Continuous Glucose Monitoring (CGM)](http://www.dexcom.com/)
-20:16 - [OpenAPS](https://openaps.org/)23:00 - Monitoring26:37 - The Current State of Systems28:44 - What can people do now?
+  20:16 - [OpenAPS](https://openaps.org/)23:00 - Monitoring26:37 - The Current State of Systems28:44 - What can people do now?
 - [openaps](https://github.com/openaps)
-34:56 - The Future
+  34:56 - The Future
 - [Bigfoot Biomedical](http://www.bigfootbiomedical.com/)
-37:37 - Wearing Devices
+  37:37 - Wearing Devices
 - [Scott Hanselman: Hacking Diabetes](http://www.hanselman.com/blog/HackingDiabetes.aspx)
-Picks
+  Picks
 - Reading Papers (Andrew)
 - [Diabetes Light](http://diabeteslight.com/) (Jaim)
 - [Diabetes Light: My holistic journey to health (Facebook)](https://www.facebook.com/Diabetes-Light-My-holistic-journey-to-health-188813974545664/) (Jaim)
@@ -37,7 +38,6 @@ Picks
 - [The Primal Blueprint](https://www.primalblueprint.com/) (Chuck)
 - [Mark’s Daily Apple](http://www.marksdailyapple.com/) (Chuck)
 - [Chatting with Prince on AOL in 1999](https://medium.com/@shanselman/chatting-with-prince-on-aol-in-1999-23bb540fc47#.hftmtjsyh) (Scott)
-
 
 ### Transcript
 
@@ -446,5 +446,3 @@ Scott, what are your picks?
 **CHUCK:** Alright, sounds great. Well, thank you for coming Scott. We’re going to go ahead and wrap this up. We’ll catch everyone in a week.&nbsp;
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

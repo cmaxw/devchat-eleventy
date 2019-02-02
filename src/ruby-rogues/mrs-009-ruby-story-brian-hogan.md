@@ -1,53 +1,76 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 009 My Ruby Story Brian Hogan
+  MRS 009 My Ruby Story Brian Hogan
 date: 2017-06-28 04:00:17
 episode_number: 009
 duration: 38:40
 audio_url: https://devchat.cachefly.net/my-ruby-story/MRS_009_Brian_Hogan.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
-* * *
+---
 
 #### My Ruby Story 009 &nbsp;Brian Hogan
+
 On this episode we have another My Ruby Story and there is a good chance you might recognize him, he is one of Devchat.tv’s panelists Brian Hogan. Aside from being a panelists on Ruby Rouges, he also has a couple other projects like [codecaster.io](http://codecaster.io) as well as [Railsmentors.org](http://www.railsmentors.org/).
-* * *
+
+---
 
 ##### How did you get into programming?
+
 Brain talks about how his Dad has an old Apple 2 computer. His father was a teacher for the blind and the computer had a box on it that would talk. His Dad taught him that computers can have programs written for them and make them do things. Brain talks about having math issues one evening and his Dad helped by making a math program that would quiz him. His Dad wasn’t a programmer but he had picked up some of it from being around it. Brain talks about how the library had games you could get for the Apple 2 but you had to write code into the computer to make it work. He started tweaking the code to learn that it adjusted things in the game like the speed of the spaceship or the damage of the bomb.
+
 ##### Brian’s First Program
+
 Brian’s first program was in fourth grade. He had an assignment on the topic of the seas and instead of doing a typical handwritten assignment he created a program for it. He learned that he could make the computer do things. Over time Brian got interested in other things, planning to go to school for law. His Dad lost his job making his plans for law school unreachable without student loan debt. He started making money on the side repairing and building computers.
+
 ##### Computers solving problems
+
 He talks about how he never really got into the computer science level of things, but he was always excited about being able to solve people’s problems with computers. He remembers getting internet for the first time. It was Netscape and it came with a book on how to setup the internet and then in the last chapter it had a section teaching how to make a webpage with HTML. He loved making websites and so he made pages for businesses and made money on the side. He went to college aiming for computer science and then when he got into classes like computational theory, he found that it was boring to him still. He changed his major to business. He then got a job working for the college working with website stuff. The developer for the pages ended up quitting and so they asked Brian to help out. So he learned Microsoft server SQL and ASP. He adds that essentially he fell into web development by accident. He talks about his code being bad until he learned Ruby, crediting Ruby with making object oriented programming easier to understand. Charles mentions that he felt the same way in school, it wasn’t until he needed to fix a real problem that programming really started to seem useful and fun. Brian talks about how he isn’t really the best programmer, but his strengths are helping other people to program. He has trained many people to program since then.
+
 ##### Learning with Context
+
 He talks about in school how they throw JavaScript at you and teach you the higher concepts before understanding it. He tells about how doing something like teaching Git on the first day doesn’t make sense because the students don’t understand why they need it. He suggests that the thing that is missing from the curriculum is the real work connection. Majority of adults need to be able to connect what they are learning to something they have already learned. Context is important for learning.
+
 ##### How did you get into Ruby?
+
 Brian talks about doing PHP for a while as well as ASP. He was working with a project as an Oracle DBA. They were moving from Java to an Oracle Database. But no one there knew what Java was and a person there named Bruce suggested that the work they were doing would be better written in Ruby. The team disagreed but afterward one day Brian was talking to Bruce about a side project he was working on and how he wasn’t accomplishing it the way he wanted to. Bruce asked him to get lunch with him. Brian then talks about how in life if someone very smart asks you to get lunch that you should drop everything and do it. In a single night he was able to accomplish everything he was trying to. He took his project to work the next day and they said they wouldn’t be able to use it on Windows. Brian started working on finding ways to deploy it, and that has been the starting point of Ruby for Brian. He went to Rails full time after that. Publishing an article on how to get it deployed. His work with Ruby led to him teaching and writing books. When he needs to make something heavily data driven he always reaches for Ruby. He isn’t interested in scalability because usually he is working on a small business process behind the firewall used by less than 100 people.
+
 ##### Framework Peer Pressure
+
 Brian talks about the fear and pressure to use the latest and greatest frameworks in the development community. He talks about how the only people who know what framework a person uses is the developer and the peers. You don’t get paid to impress peers in the community. A developer gets paid to solve peoples problems. Charles and Brian add that using new frameworks are great and can teach you new ways to solve problems, but no matter how a person solves a problem, it should be celebrated. Learn new things but don’t make people feel bad for not doing things the same way you do them. Brian adds that another reason he likes Rails is that it has a lot of things that came from basecamp and it is a well developed and tested and the framework is strong. He talks about how sometimes frameworks come out and they weren’t well thought out. Rails is not an academic framework but it is easier to integrate or upgrade to by design.
+
 ##### What contributions have you made to the Ruby community?
+
 Brian talks about getting the Rails deploy working for Windows is one of his proudest moments. Other than that his contribution has been mainly helping people find mentors at Railsmentors.org. On Railsmentors.org, most of the work is done by volunteers and help a lot of people. Charles adds that sometimes open source project contributions tend to get glorified but things like Railsmentors.org are really what make the community great.
+
 ##### What are you working on now?
+
 Brian talks about how he is working on a book but he can’t tell much about it at the moment. He also works on the content team on Digital Ocean. He helps other community authors with their writing and to get it published and out. He also handles some system admin background to test that each article works and he finds it a good way to keep his skills tuned. He is also working on a project in Elixir for teachers to work in the classroom better. For a teacher teaching development they can use the program, [CodeCaster](https://codecaster.io/), to display code to the screens and the students can do things like flag things they don’t understand or let the teacher know that it’s moving too fast. It allows the students send up code for the teacher to check as well as the teacher get a snapshot of what’s on the students screen to check on them.
-* * *
+
+---
 
 #### Picks
 
 ###### Brian
+
 [Exercises for Programmers](https://pragprog.com/book/bhwb/exercises-for-programmers)[Tmux 2 Productive Mouse-Free Development](https://pragprog.com/book/bhtmux2/tmux-2)
+
 ###### Charles
+
 [Coursera on AI](https://www.coursera.org/courses?languages=en&query=artificial+intelligence)[Artificial Intelligence in Python](https://www.amazon.com/Artificial-Intelligence-Python-Prateek-Joshi/dp/178646439X)
-* * *
+
+---
 
 #### Links
-[Twitter](https://twitter.com/bphogan)[bphogan.com](http://bphogan.com/)
-* * *
 
+[Twitter](https://twitter.com/bphogan)[bphogan.com](http://bphogan.com/)
+
+---
 
 ### Transcript
 
@@ -294,5 +317,3 @@ Yeah I'm on a few places but Twitter's probably a great place to start. It's @bp
 CHARLES:
 
 Awesome. Well we'll go ahead and wrap this up and we'll have another story for you next week. Thanks, everyone.&nbsp;
-
-

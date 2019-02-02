@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 197: Bazel with Torgeir Helgevold
+  AiA 197: Bazel with Torgeir Helgevold
 date: 2018-07-12 16:00:42
 episode_number: 197
 duration: 37:15
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_197_Bazel_with_Torgeir_Helgevold.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Joe Eames
@@ -47,7 +47,7 @@ In this episode, the Adventures in Angular panel talks to Torgeir Helgevold abou
 - What does Bazel actually do?
 - How do you pull these rules in?
 - How do you transition over to Bazel?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -82,7 +82,4 @@ Torgeir
 
 - [_Cross language API schemas with Bazel_ by Daniel Muller](https://blog.nrwl.io/cross-language-api-schemas-with-bazel-eff0f498ce0d)
 
-
 ### Transcript
-
-

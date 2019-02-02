@@ -1,39 +1,40 @@
 ---
 layout: layouts/post.njk
 title: >
-      204 FS Podcast Outreach with Kai Davis
+  204 FS Podcast Outreach with Kai Davis
 date: 2016-06-02 07:00:25
 episode_number: 204
 duration: 53:57
 audio_url: https://media.devchat.tv/freelancers/FS204PodcastOutreach.mp3?rss=true
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 01:46 - Kai Davis Introduction
+
 - [Twitter](https://twitter.com/kaisdavis)
 - [Blog](http://kaidavis.com/)
 - [Kai's suit from MicroConf](https://twitter.com/kaisdavis/status/717479034389565440)
 - [OppoSuits](https://www.opposuits.com/)
 - [Podcast Outreach: A Guide To Proactively Guesting On Podcasts by Kai Davis](http://podcastoutreach.com/)
-03:31 - Podcast Tours09:12 - Outreach Emails
+  03:31 - Podcast Tours09:12 - Outreach Emails
 - [Devchat.tv Interest Survey](http://goo.gl/forms/RAjGRT8Ia6)
 - [Podcast Outreach Email Template](http://doubleyouraudience.com/podcast-outreach-email/)
-14:44 - Pitching Topics16:28 - Appealing to Audiences19:32 - Popularity Sorting
+  14:44 - Pitching Topics16:28 - Appealing to Audiences19:32 - Popularity Sorting
 - [BuzzSumo](http://buzzsumo.com)
 - [Majestic](http://majesticseo.com)
 - [Moz](http://seomoz.com)
-21:56 - Are there markets that don’t listen to podcasts?
+  21:56 - Are there markets that don’t listen to podcasts?
 - [cast.market](http://cast.market)
-24:27 - Does it matter how big podcasts are that you guest on?34:42 - Offerings and Calls to Action
+  24:27 - Does it matter how big podcasts are that you guest on?34:42 - Offerings and Calls to Action
 - [Patrick McKenzie: Ramit Sethi and Patrick McKenzie On Why Your Customers Would Be Happier If You Charged More](http://www.kalzumeus.com/2012/09/21/ramit-sethi-and-patrick-mckenzie-on-why-your-customers-would-be-happier-if-you-charged-more/)
-41:14 - Other Podcast Guest Do’s and Don’ts&nbsp;More from Kai:
+  41:14 - Other Podcast Guest Do’s and Don’ts&nbsp;More from Kai:
 - [How do you write an email to get on a podcast?](http://doubleyouraudience.com/podcast-outreach-email/)
 - [How can I use podcasts to get more traffic?](http://doubleyouraudience.com/podcast-traffic/)
 - [How do I create a list of podcast owners I should reach out to about appearing?](http://doubleyouraudience.com/podcast-prospecting/)
-&nbsp;Picks
+  &nbsp;Picks
 - [Double Your Freelancing EUConf](http://doubleyourfreelancing.com/euconf/) (Reuven)
 - [JBL Flip 2 Portable Wireless Speaker](http://www.amazon.com/JBL-Portable-Wireless-Speaker-Black/dp/B00GAJ2OK4?ie=UTF8&keywords=jbl%20flip%202&qid=1461576980&ref_=sr_1_1&sr=8-1) (Reuven)
 - [1pageleadgen.site](http://1pageleadgen.site) (Philip)
@@ -42,10 +43,9 @@ tags:
 - [Draft: Revise Weekly](http://draft.nu/revise/weekly/) (Kai)
 - [Master Facebook Marketing](http://superspicymedia.com/master-facebook-marketing/) (Kai)
 
-
 ### Transcript
 
- **PHILIP:** Who let you in here?
+**PHILIP:** Who let you in here?
 
 **CHUCK:** I know, right?
 
@@ -291,7 +291,7 @@ What I find is more valuable is to have a low friction example, and I think you 
 
 So in a way, I think we start from the idea of the topic we want to be on the podcast about. We pitch, we’re accepted, we talk about that topic, and then we want to have that call to action at the end of the episode where we’re directing the listener to a landing page or a resource, a cheat sheet to a worksheet, or a 5-part lesson that will teach them more about the subject matter at hand, and by framing it as something that’s not a lot of work. We don’t want to say “download my 200-page ebook”; we want to say “get my free 5-part course” or “get my one-page cheat sheet on this topic”. It’s easy for people to be like “ah, I enjoyed listening to that topic. The guest was great. Sure, I’ll give my email address for that thing”. And now you as the guest, as the presenter, have that person’s email address. They're now part of your audience and you're able to politely and persistently educate them about your subject matter and move them closer towards that point of purchase.
 
-So the podcast brings them in as a warm referral, and maybe some of those folks will say “oh gee, I’m ready to buy right now”. But I think a majority of the folks listening are more likely to say “ah, I’m not ready to buy, but I’m ready to learn more. What can you teach me?” And by having some educational marketing setup, a landing page that says “hey, drop your email into the dingus and you'll get a free 5-part thing on whatever”, that will convert better than just a sales page where it’s “buy my thing. It’s $49”.
+So the podcast brings them in as a warm referral, and maybe some of those folks will say “oh gee, I’m ready to buy right now”. But I think a majority of the folks listening are more likely to say “ah, I’m not ready to buy, but I’m ready to learn more. What can you teach me?” And by having some educational marketing setup, a landing page that says “hey, drop your email into the dingus and you'll get a free 5-part thing on whatever”, that will convert better than just a sales page where it’s “buy my thing. It’s \$49”.
 
 **REUVEN:** [Inaudible] several times I've been on podcasts, I say it’s so obvious now when you say these things. It’s like the whole positioning thing with the website. If on a website you say “I do this and this and this and this and this and this”, people are not sure where to start. And so I've done that on podcast. I go on and I say “well, you can find me here, and you can find me here, and you can find me here. Oh, and if you're interested, I have these email courses” when it'll be so much smarter and better for me to just say “if you like what I’m talking about, go to some really-easy-to-remember URL, and there I’ll give you more information”. And then they can feed into other stuff. And I know also where they’ve come from. I know they came from that podcast. I know they're interested in a certain subject, and so I can treat it accordingly.
 
@@ -373,7 +373,7 @@ Alright, well let’s go ahead and do some picks. Reuven, do you have some picks
 
 The other thing is – so I do a lot of teaching, and one of the fun things I have to do, excuses I make for fun things that I during my courses are when I teach Python programming, I show a few Monty Python bits, which is good if they had a good sense of humor and bad if they don’t; but too bad, I’m in charge.
 
-In any event, some places where I teach, they don’t have speakers set up. And so just 2 weeks ago, someone in my class said “oh, that’s ok” and pulled out a portable USB speaker from their bag. I was like “oh my god. I got to get one of these”. So I actually did. And it’s a relatively small speaker that you can plug into your computer. Actually, the one that I got isn't USB based. It works on Bluetooth. And I have been really really impressed just in the last few days since I got it, and this is the exactly what I need, not only for showing Monty Python videos during my courses, but also for doing presumably more serious things. And it means I’m not beholden to whatever sound system is; an electrical wire working. So I’m really excited I've gotten this and it was not too expensive. I think it’s like $60 or so. And I definitely recommend it for people who want to show things, listen to things, to have this in your bag of tricks, as it were, when you go to talk. That’s it.
+In any event, some places where I teach, they don’t have speakers set up. And so just 2 weeks ago, someone in my class said “oh, that’s ok” and pulled out a portable USB speaker from their bag. I was like “oh my god. I got to get one of these”. So I actually did. And it’s a relatively small speaker that you can plug into your computer. Actually, the one that I got isn't USB based. It works on Bluetooth. And I have been really really impressed just in the last few days since I got it, and this is the exactly what I need, not only for showing Monty Python videos during my courses, but also for doing presumably more serious things. And it means I’m not beholden to whatever sound system is; an electrical wire working. So I’m really excited I've gotten this and it was not too expensive. I think it’s like \$60 or so. And I definitely recommend it for people who want to show things, listen to things, to have this in your bag of tricks, as it were, when you go to talk. That’s it.
 
 **CHUCK:** Alright. Philip, what are your picks?
 
@@ -412,5 +412,3 @@ Alright Kai, if people want to know more about you, find out what you're up to, 
 **CHUCK:** Alright, cool. Well, we’ll go ahead and wrap this show up. Thanks again for coming and we’ll catch you all next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

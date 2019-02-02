@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 235: Data Transparency and iMazing with Gregorio Zanon
+  iPS 235: Data Transparency and iMazing with Gregorio Zanon
 date: 2018-03-29 10:00:17
 episode_number: 235
 duration: 50:48
 audio_url: https://media.devchat.tv/iphreaks/iPS_235_Data_Transparency_and_iMazing_with_Gregorio_Zanon.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Andrew Madsen
 - Jaim Zuber
@@ -43,7 +43,7 @@ In today’s episode, the iPhreaks panel talk to Gregorio Zanon about data trans
 - Should I delete Facebook?
 - [Delete Facebook article](https://www.imore.com/delete-your-facebook)
 - How can we get iMazing?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -71,7 +71,4 @@ Gregorio
 
 - [Notion](https://www.notion.so/)
 
-
 ### Transcript
-
-

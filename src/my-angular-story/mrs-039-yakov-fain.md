@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 039: Yakov Fain
+  MAS 039: Yakov Fain
 date: 2018-06-06 20:28:42
 episode_number: 039
 duration: 30:09
 audio_url: https://media.devchat.tv/my-angular-story/MAS_039_Yakov_Fain.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Yakov Fain
 
@@ -23,10 +23,10 @@ This week on My Angular Story, Charles speaks with [Yakov Fain](https://yakovfai
 - [Episode 185 – past episode with Yakov Fain](https://devchat.tv/my-angular-story)
 - How did you get into programming?
   - Yakov was born in Ukraine, went to Russia for studies, back to Ukraine, and then to U.S. in the 90’s.
-  - Yakov continues to work in programming now. 
+  - Yakov continues to work in programming now.
 - [JavaScript](https://www.javascript.com)
 - [Angular](https://angular.io/)
-- Yakov worked as an independent contractor for a while. 
+- Yakov worked as an independent contractor for a while.
   - In 2006, that changed for him.
 - Yakov has authored a few books – [check them out in Amazon!](https://www.amazon.com/Yakov-Fain/e/B004917P1I)
 - Yakov trains enterprises and private clients.
@@ -69,20 +69,17 @@ This week on My Angular Story, Charles speaks with [Yakov Fain](https://yakovfai
 
 Charles
 
-- [RubyHack](http://rubyhack.com) – Charles wants to use his talk (that he was going to use at RubyHack) into an hour video. 
+- [RubyHack](http://rubyhack.com) – Charles wants to use his talk (that he was going to use at RubyHack) into an hour video.
 - Audio Book
   - [“Crucial Accountability” by Kerry Patterson, et al.](https://www.audible.com/pd/Business/Crucial-Accountability-Audiobook/B00HZOLD00?source_code=GO1GB907OSH060513&gclid=EAIaIQobChMI3IvZgITA2wIVAQhpCh0SGw5dEAAYASAAEgIXMvD_BwE)
 - Podcast
   - [Angular Air](https://angularair.com)
 - [Charles’ Blog](https://charlesmaxwood.com)
-  - If you are interested in a potential job opening – contact Charles about available positions. 
+  - If you are interested in a potential job opening – contact Charles about available positions.
 
 Yakov
 
 - Publishing Company has asked him to write another book about [TypeScript.](https://www.typescriptlang.org)
 - [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 386: Web Console Internals with Genadi Samokovarov
+  RR 386: Web Console Internals with Genadi Samokovarov
 date: 2018-10-30 10:00:32
 episode_number: 386
 duration: 41:44
 audio_url: https://media.devchat.tv/ruby-rogues/RR_386_Web_Console_Internals_with_Genadi_Samokovarov.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Dave Kimura
 - Charles Max Wood
@@ -221,7 +221,4 @@ Genadi
 
 - [Long Walk Freedom](https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189)
 
-
 ### Transcript
-
-

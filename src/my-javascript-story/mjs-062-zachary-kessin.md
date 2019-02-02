@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 062: Zachary Kessin
+  MJS 062: Zachary Kessin
 date: 2018-05-23 10:00:00
 episode_number: 062
 duration: 26:18
 audio_url: https://media.devchat.tv/my-js-story/MJS_062_Zachary_Kessin.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Zachary Kessin
 
@@ -71,7 +71,4 @@ Zach
 - [_How to Get a Meeting with Anyone_ by Stu Heinecke](https://www.amazon.com/How-Get-Meeting-Anyone-Marketing/dp/1501260928)
 - [_1177 B.C.: The Year Civilization Collapsed_ by Eric Cline](https://www.amazon.com/1177-B-C-Civilization-Collapsed-Turning/dp/0691168385)
 
-
 ### Transcript
-
-

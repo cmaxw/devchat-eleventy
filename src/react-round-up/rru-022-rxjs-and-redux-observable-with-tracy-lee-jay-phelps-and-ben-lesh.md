@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 022: RxJS and redux-observable with Tracy Lee, Jay Phelps, and Ben Lesh
+  RRU 022: RxJS and redux-observable with Tracy Lee, Jay Phelps, and Ben Lesh
 date: 2018-08-01 21:59:05
 episode_number: 022
 duration: 58:35
 audio_url: https://media.devchat.tv/reactroundup/RRU_022_RxJS_and_redux-observable_with_Tracy_Lee_Jay_Phelps_and_Ben_Lesh.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Nader Dabit
 - Sia Karamalegos
-**Special Guests:** Tracy Lee, Jay Phelps, and Ben Lesh
+  **Special Guests:** Tracy Lee, Jay Phelps, and Ben Lesh
 
 In this episode, the React Round Up panelists talk to Tracy Lee, Jay Phelps, and Ben Lesh about RxJS and redux-observable. Tracy, Jay, and Ben are the RxJS [ThisDot](https://www.thisdot.co/) Media group and where they do support contracts for [RxJS](https://rxjs-dev.firebaseapp.com/), staff augmentation, developer relations, and put on events. They talk about what observables are and what they are trying to solve, the most common use cases for getting started with observables, and what Promises and Async/Await are. They also touch on what they like most about RxJS, how versatile it is, and more!
 
@@ -28,7 +28,7 @@ In this episode, the React Round Up panelists talk to Tracy Lee, Jay Phelps, and
 - What is an observable?
 - What problems are observables trying to solve?
 - [JavaScript](https://www.javascript.com/)
-- Learn observables 
+- Learn observables
 - Making everything functional in the library
 - Means of encapsulating values you want pushed at you later on
 - Downside to observables
@@ -47,7 +47,7 @@ In this episode, the React Round Up panelists talk to Tracy Lee, Jay Phelps, and
 - [Redux-observable](https://redux-observable.js.org/)
 - [RxJS docs](https://rxjs-dev.firebaseapp.com/guide/overview)
 - Epics
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -99,7 +99,4 @@ Ben
 - [react-streams](https://github.com/johnlindquist/react-streams)
 - [StackBlitz](https://stackblitz.com/)
 
-
 ### Transcript
-
-

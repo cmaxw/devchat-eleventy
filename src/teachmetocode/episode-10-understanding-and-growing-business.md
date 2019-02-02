@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      RC 10 - Understanding and Growing Business
+  RC 10 - Understanding and Growing Business
 date: 2010-02-26 04:52:43
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -27,4 +27,4 @@ In order to contribute as an employee or a freelance developer, we need to under
 - [NPR Technology Podcast](http://www.npr.org/rss/podcast/podcast_detail.php?siteId=4819382)
 - [PRI The World Technology Podcast](http://www.theworld.org/rss/tech.xml)
 - [Walt Mossberg's Personal Technology Podcast](http://feeds2.feedburner.com/atd/mossberg/video-feed)
-Here's [the cool stuff](http://crimereports.com) I get to do at work.[Download this Episode](http://media.libsyn.com/media/charlesmaxwood/RailsCoach10UnderstandingAndGrowingBusiness.mp3)
+  Here's [the cool stuff](http://crimereports.com) I get to do at work.[Download this Episode](http://media.libsyn.com/media/charlesmaxwood/RailsCoach10UnderstandingAndGrowingBusiness.mp3)

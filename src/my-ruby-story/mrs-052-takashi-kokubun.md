@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 052: Takashi Kokubun
+  MRS 052: Takashi Kokubun
 date: 2018-07-11 19:30:22
 episode_number: 052
 duration: 22:12
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_052_Takashi_Kokubun.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Takashi Kokubun
 
@@ -80,7 +80,4 @@ Takashi
 - Takoyaki
 - [Ruby Kaigi 2018](https://rubykaigi.org/2018)
 
-
 ### Transcript
-
-

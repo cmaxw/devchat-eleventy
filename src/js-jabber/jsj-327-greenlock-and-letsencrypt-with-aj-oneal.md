@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 327: "Greenlock.js for Let's Encrypt v2" with AJ O'Neal
+  JSJ 327: "Greenlock.js for Let's Encrypt v2" with AJ O'Neal
 date: 2018-08-21 10:00:53
 episode_number: 327
 duration: 55:08
 audio_url: https://media.devchat.tv/js-jabber/JSJ_327_Greenlock_and_LetsEncrypt_with_AJ_ONeal.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Joe Eames
@@ -44,7 +44,7 @@ In this episode, the JavaScript Jabber panel talks to AJ O'Neal about Greenlock 
 - Making Greenlock better by knowing how people are using it
 - Using Greenlock-express
 - [_Let's Encrypt v2 Step by Step_ by AJ](https://coolaj86.com/articles/lets-encrypt-v2-step-by-step/)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -76,7 +76,4 @@ AJ
 
 - [OverClocked Records](https://overclockedrecords.com/release/press-start/)
 
-
 ### Transcript
-
-

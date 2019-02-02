@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 363: Fir - The Friendly Interactive Ruby REPL with Dean Nasseri
+  RR 363: Fir - The Friendly Interactive Ruby REPL with Dean Nasseri
 date: 2018-05-22 14:36:07
 episode_number: 363
 duration: 40:52
 audio_url: https://media.devchat.tv/ruby-rogues/RR_363_Fir-The_Friendly_Interactive_Ruby_REPL_with_Dean_Nasseri.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Dave Kimura
 - Eric Berry
@@ -84,7 +84,4 @@ Dean
 
 - [Red Blob Games](https://www.redblobgames.com/)
 
-
 ### Transcript
-
-

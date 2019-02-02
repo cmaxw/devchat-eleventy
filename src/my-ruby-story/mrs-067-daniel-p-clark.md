@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 067: Daniel P. Clark
+  MRS 067: Daniel P. Clark
 date: 2018-10-31 10:00:40
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** [Daniel P. Clark](https://twitter.com/6ftdan?lang=en)
 
@@ -105,8 +105,8 @@ This week on My Ruby Story, Chuck talks with Daniel Clark who is a Ruby and Rust
 Daniel
 
 - Running 3x a week, 45 minutes minimum is my recommendation
-- Aerobics 
-- Improvement of your health and circulation! 
+- Aerobics
+- Improvement of your health and circulation!
 
 Chuck
 
@@ -114,7 +114,4 @@ Chuck
 - [Get a Coder Job! “How do I find a job or a find a better job?”](https://devchat.tv/get-a-coder-job/)
 - [DevChat.TV](https://devchat.tv/get-a-coder-job/)
 
-
 ### Transcript
-
-

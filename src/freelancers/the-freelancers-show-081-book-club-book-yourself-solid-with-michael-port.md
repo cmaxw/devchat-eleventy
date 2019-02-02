@@ -1,20 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      The Freelancers’ Show 081 – Book Club: Book Yourself Solid with Michael Port
+  The Freelancers’ Show 081 – Book Club: Book Yourself Solid with Michael Port
 date: 2013-10-03 14:00:00
 episode_number: 081
-duration: 
+duration:
 audio_url: https://media.devchat.tv/freelancers/FS081BookYourselfSolid.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 Michael Port joins the Freelancers to talk about his book Book Yourself Solid. He gives a ton of valuable advice for building your business and clientele
-
-
 
 ### Transcript
 

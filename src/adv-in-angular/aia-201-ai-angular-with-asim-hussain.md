@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 201: AI & Angular with Asim Hussain
+  AiA 201: AI & Angular with Asim Hussain
 date: 2018-08-08 04:22:11
 episode_number: 201
 duration: 1:00:56
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_201_AI_Angular_with_Asim_Hussain.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - John Papa
 - Ward Bell
@@ -28,7 +28,7 @@ In this episode, the Adventures in Angular panel talks to Asim Hussain about AI 
 - Co-organizer of [AI JavaScript London](https://www.meetup.com/AI-JavaScript-London/)
 - What does AI mean to you?
 - Where does AI fit into the [JavaScript](https://www.javascript.com/) ecosystem?
-- Interested in machine learning 
+- Interested in machine learning
 - How does AI apply to the real world?
 - How did you get into AI?
 - [Python](https://www.python.org/) to JavaScript developer
@@ -46,7 +46,7 @@ In this episode, the Adventures in Angular panel talks to Asim Hussain about AI 
 - Load model
 - Transfer learning
 - Practical applications
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -78,13 +78,10 @@ John
 
 Ward
 
-- [MachineLabs - @machinelabs\_ai](https://twitter.com/machinelabs_ai?lang=en)
+- [MachineLabs - @machinelabs_ai](https://twitter.com/machinelabs_ai?lang=en)
 
 Asim
 
 - [aijs.rocks](https://aijs.rocks/)
 
-
 ### Transcript
-
-

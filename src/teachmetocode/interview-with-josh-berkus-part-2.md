@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Interview with Josh Berkus - Part 2
+  Interview with Josh Berkus - Part 2
 date: 2011-08-01 15:35:24
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -45,4 +45,3 @@ tags:
 - [Riak](http://wiki.basho.com/)
 - [Amazon Cap Theorem Papers](http://www.julianbrowne.com/article/viewer/brewers-cap-theorem)
 - [VoltDB](http://voltdb.com/)
-

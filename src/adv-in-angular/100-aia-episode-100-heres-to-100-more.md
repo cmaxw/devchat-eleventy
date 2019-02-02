@@ -1,25 +1,27 @@
 ---
 layout: layouts/post.njk
 title: >
-      100 AiA Episode 100! Here's to 100 more!!
+  100 AiA Episode 100! Here's to 100 more!!
 date: 2016-07-07 07:00:28
 episode_number: 100
 duration: 39:57
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA100.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 ## Check out [Angular Remote Conf](https://allremoteconfs.com/angular-2016)! Buy tickets! Submit a CFP! Check out the speakers!
+
 &nbsp;03:00 - The Origin Story and Success of [Adventures in Angular](https://devchat.tv/adv-in-angular)
+
 - [ng-conf](https://www.ng-conf.org)
 - [Angular Air Podcast](https://angularair.com/)
-14:00 - The Angular Community17:30 - Where is Angular heading?
+  14:00 - The Angular Community17:30 - Where is Angular heading?
 - [Suggest A Guest!](https://devchat.tv/adventures-in-angular-guest-recommendation)
 - [Microsoft Build Conference](https://build.microsoft.com/)
-24:39 - Favorite Episodes
+  24:39 - Favorite Episodes
 - [NativeScript](https://www.nativescript.org/)
   - [Episode #74: NativeScript with Burke Holland and TJ VanToll](https://devchat.tv/adv-in-angular/074-aia-nativescript-with-burke-holland-and-tj-vantoll)
   - [Episode #90: NativeScript Part 2 with TJ VanToll](https://devchat.tv/adv-in-angular/090-aia-nativescript-part-2-with-tj-vantoll)
@@ -37,7 +39,7 @@ tags:
 - [Episode #51: The Angular 1 Compiler with Tero Parviainen](https://devchat.tv/adv-in-angular/051-aia-the-angular-1-compiler-with-tero-parviainen)
 - [Episode #17: AtScript with Miško Hevery](https://devchat.tv/adv-in-angular/017-aia-atscript-with-misko-hevery)
 - [Episode #55: Promises](https://devchat.tv/adv-in-angular/055-aia-promises)
-&nbsp;Picks
+  &nbsp;Picks
 - [NativeScript](https://www.nativescript.org/) (John)
 - [Snap Power Chargers](https://www.snappower.com/snappower-chargers/) (John)
 - [Stellaris](http://store.steampowered.com/app/281990/) (Joe)
@@ -49,7 +51,6 @@ tags:
 - Going offline (Chuck)
 - Shooting firearms (Chuck)
 - [Angular Remote Conf](https://allremoteconfs.com/angular-2016) (Chuck)
-
 
 ### Transcript
 
@@ -350,5 +351,3 @@ We'll go ahead and wrap up the show. Thanks to all of our panelists and guests o
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 027: Code Automation
+  VoV 027: Code Automation
 date: 2018-09-04 10:00:26
 episode_number: 027
 duration: 1:07:17
 audio_url: https://media.devchat.tv/viewsonvue/VoV_027_Code_Automation_Panelists.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Divya Sasidharan
 - Erik Hanchett
@@ -139,7 +139,4 @@ Erik
 
 - [Program](https://www.programwitherik.com)
 
-
 ### Transcript
-
-

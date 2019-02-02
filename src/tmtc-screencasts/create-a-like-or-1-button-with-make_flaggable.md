@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Create a 'Like' or '+1' button with make_flaggable
+  Create a 'Like' or '+1' button with make_flaggable
 date: 2011-07-15 01:32:26
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---
@@ -20,4 +20,4 @@ tags:
 
     class Article \< ActiveRecord::Base make\_flaggable :like end class User \< ActiveRecord::Base make\_flagger end
 
-**Links:** [https://github.com/medihack/make\_flaggable](https://github.com/medihack/make_flaggable)[https://github.com/cavneb/make\_flaggable](https://github.com/cavneb/make_flaggable)[Download](http://traffic.libsyn.com/tmtc/make_flaggable.mov) 93.4 MB[Download (iPod & iPhone)](http://traffic.libsyn.com/tmtc/make_flaggable_-_iPhone.m4v) 43.9 MB
+**Links:** [https://github.com/medihack/make_flaggable](https://github.com/medihack/make_flaggable)[https://github.com/cavneb/make_flaggable](https://github.com/cavneb/make_flaggable)[Download](http://traffic.libsyn.com/tmtc/make_flaggable.mov) 93.4 MB[Download (iPod & iPhone)](http://traffic.libsyn.com/tmtc/make_flaggable_-_iPhone.m4v) 43.9 MB

@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      Ruby Koans
+  Ruby Koans
 date: 2011-08-02 16:24:58
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---
 
 <object width="640" height="390" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true">
+
 <param name="allowscriptaccess" value="always">
 <param name="src" value="http://www.youtube.com/v/e5XnHoXVxek?version=3&amp;hl=en_US&amp;rel=0">
 <param name="allowfullscreen" value="true">

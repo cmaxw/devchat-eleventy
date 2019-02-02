@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 210: “Zone.js” with Jia Li
+  AiA 210: “Zone.js” with Jia Li
 date: 2018-10-09 10:00:42
 episode_number: 210
 duration: 50:31
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_210_Zone.js_with_Jia_Li.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Joe Eames](https://twitter.com/josepheames?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Aaron Frost](https://github.com/aaronfrost)
@@ -178,7 +178,4 @@ Joe
 
 - [The Developer Experience Bait and Switch](https://infrequently.org/2018/09/the-developer-experience-bait-and-switch/)
 
-
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Aesthetics and the Evolution of Code - Ruby Remote Conf 2015
+  Aesthetics and the Evolution of Code - Ruby Remote Conf 2015
 date: 2015-11-24 14:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: remote-conf-talks
-tags: 
+tags:
   - remote_conf_talks
   - podcast
 ---
@@ -17,5 +17,3 @@ Symmetry. Simplicity. Elegance. Patterns. Much of how we understand, describe, a
 &nbsp;
 
 This talk will explore the role that concepts such as beauty, sublimity, completeness and simplicity play in the way that we model reality in software, relate to our own and other people's code, and ultimately measure the value of our work as professionals.
-
-

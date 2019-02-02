@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      156 iPS WWDC Wishes and Predictions
+  156 iPS WWDC Wishes and Predictions
 date: 2016-06-09 07:00:42
 episode_number: 156
 duration: 39:36
 audio_url: http://media.devchat.tv/iphreaks/iPS156WWDC.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
@@ -23,7 +23,7 @@ tags:
 - [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12), [Playgrounds](https://developer.apple.com/library/ios/recipes/Playground_Help/Chapters/AboutPlaygrounds.html) for iOS
   - [Pythonista](http://omz-software.com/pythonista/)
 - Swift First Framework
-16:18 - iOS 10, Swift 3.0 19:43 - Wearables 21:53 - [Apple TV](http://www.apple.com/tv/) / [tvOS](https://developer.apple.com/tvos/)24:56 - The App Store 26:41 - [CloudKit](https://developer.apple.com/icloud/)28:46 - [Firebase](https://www.firebase.com/)&nbsp; Picks
+  16:18 - iOS 10, Swift 3.0 19:43 - Wearables 21:53 - [Apple TV](http://www.apple.com/tv/) / [tvOS](https://developer.apple.com/tvos/)24:56 - The App Store 26:41 - [CloudKit](https://developer.apple.com/icloud/)28:46 - [Firebase](https://www.firebase.com/)&nbsp; Picks
 - [Curry Up Now](http://www.curryupnow.com/) (Jaim)
 - [Box Kitchen](https://www.facebook.com/boxkitchen.sf) (Jaim)
 - [Southside Spirit House](http://www.southsidesf.com/) (Jaim)
@@ -31,10 +31,9 @@ tags:
 - [Cathode](http://www.secretgeometry.com/apps/cathode/) (Andrew)
 - [Woo](https://woo.io) (Andrew)
 
-
 ### Transcript
 
- **JAIM:** I know that and you know that but the listeners don’t know that.
+**JAIM:** I know that and you know that but the listeners don’t know that.
 
 **_[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York and L.A. bid on iOS developers, providing them with salary and equity upfront. The average iOS developer gets an average of 5-15 introductory offers and an average salary offer of $130,000/year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It’s totally free for users, and when you're hired they also give you a $1,000 signing bonus as a thank you for using them. But if you use the iPhreaks link, you’ll get a $2,000 bonus instead. Finally, if you're not looking for a job but know someone who is, you can refer them on Hired and get a $1,337 bonus as thanks after the job. Go sign up at Hired.com/iphreaks]_**
 
@@ -337,5 +336,3 @@ My second pick is a website that I just found out about today and it’s called 
 **ANDREW:** Sounds good. Everybody enjoy WWDC. See you next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

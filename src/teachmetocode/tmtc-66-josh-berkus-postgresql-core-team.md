@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      TMTC 66 Josh Berkus (PostgreSQL Core Team)
+  TMTC 66 Josh Berkus (PostgreSQL Core Team)
 date: 2011-07-24 17:35:17
 episode_number: 066
-duration: 
-audio_url: 
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -71,8 +71,6 @@ tags:
 - Multi-core support
 - Postgres included documentation
 - Beginning Databases with Postgres - Dated but gives the basics
-To hire Josh’s guys, go to [http://pgexperts.com](http://pgexperts.com/). Download 6.08 MB Download (iPod & iPhone) 4.61 MB
+  To hire Josh’s guys, go to [http://pgexperts.com](http://pgexperts.com/). Download 6.08 MB Download (iPod & iPhone) 4.61 MB
 
 ### Transcript
-
-

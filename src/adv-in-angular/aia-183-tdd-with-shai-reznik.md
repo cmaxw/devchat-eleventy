@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 183: TDD with Shai Reznik
+  AiA 183: TDD with Shai Reznik
 date: 2018-04-03 15:25:51
 episode_number: 183
 duration: 1:31:33
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_183_TDD_with_Shai_Reznik.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Ward Bell
@@ -31,7 +31,7 @@ In this episode of Adventures in Angular, the panel talks to Shai Reznik about T
 - Benefits of unit testing
 - Faster feedback and saves you from regression bugs
 - [JavaScript Unit Testing & TDD Theory by Shai](https://www.youtube.com/watch?v=hjFSJ8-w9E0)
-- Red, Green, Refactor 
+- Red, Green, Refactor
 - Why would you want to use TDD?
 - Benefits of TDD
 - You actually get to write the tests
@@ -57,7 +57,7 @@ In this episode of Adventures in Angular, the panel talks to Shai Reznik about T
 - [Is TDD Dead? YouTube Series](https://www.youtube.com/watch?v=z9quxZsLcfo)
 - [NgConf](https://www.ng-conf.org/)
 - [HighRez.io](https://www.hirez.io/)
-- 
+-
 
 **Picks:**
 
@@ -87,7 +87,4 @@ Shai
 - Angular TDD course coming soon
 - [JavaScript Unit Testing & TDD Theory](https://www.youtube.com/watch?v=hjFSJ8-w9E0)
 
-
 ### Transcript
-
-

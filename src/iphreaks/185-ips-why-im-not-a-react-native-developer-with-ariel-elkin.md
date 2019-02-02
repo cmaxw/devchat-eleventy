@@ -1,36 +1,38 @@
 ---
 layout: layouts/post.njk
 title: >
-      185 iPS Why I'm Not A React Native Developer with Ariel Elkin
+  185 iPS Why I'm Not A React Native Developer with Ariel Elkin
 date: 2016-12-29 06:00:47
 episode_number: 185
 duration: 44:14
 audio_url: https://media.devchat.tv/iphreaks/iPS185_Why_Im_Not_A_React_Native_Developer_with_Ariel_Elkin.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 Introduction
+
 - [Ariel Elkin](https://arielelkin.github.io/)
 - [Why I Am Not a React Native Developer](https://arielelkin.github.io/articles/why-im-not-a-react-native-developer.html)
-1:20: React Native
+  1:20: React Native
 - Functional reactive programming
 - Reactive architecture
 - Inconsistent state
-7:15: Context of iOS app9:50: Developing in React Native
+  7:15: Context of iOS app9:50: Developing in React Native
 - What went well
 - What didn’t go well
-18:45: JavaScript patent
+  18:45: JavaScript patent
 - Example with Facebook
 - Example with Airbnb
 - Patent trolling
-29:30: More concerns with React Native
+  29:30: More concerns with React Native
 - [Ubuntu](https://www.ubuntu.com/)
 - [Parse](https://parse.com/)
 
 ### Picks:
+
 [How to Disagree by Paul Graham](http://paulgraham.com/disagree.html) (Ariel)[Bullet list of what real programmers are](http://www.humournet.com/misc.humour/real_programmers.txt) (Ariel)[Chainsawsuit comic](http://chainsawsuit.com/comic/2014/09/16/on-research/) (Ariel)&nbsp;[Hired.com/iphreaks](http://hired.com/iphreaks)
 
 ### Transcript

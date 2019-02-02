@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 061: James Shore
+  MAS 061: James Shore
 date: 2018-11-21 11:00:30
 episode_number: 061
 duration: 40:59
 audio_url: https://media.devchat.tv/my-angular-story/MAS_061_James_Shore.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** [James Shore](https://www.jamesshore.com)
 
@@ -168,7 +168,4 @@ James
 
 - Package Management Tool: [Nix.org](https://nixos.org/nix/)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 070: Michael King
+  MRS 070: Michael King
 date: 2018-11-21 11:00:00
 episode_number: 070
 duration: 29:06
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_070_Michael_King.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** Michael King
 
@@ -146,9 +146,6 @@ Chuck
 
 Michael
 
-- Michael’s Prototype 
-
+- Michael’s Prototype
 
 ### Transcript
-
-

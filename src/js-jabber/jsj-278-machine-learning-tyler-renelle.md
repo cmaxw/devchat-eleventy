@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 278 Machine Learning with Tyler Renelle
+  JSJ 278 Machine Learning with Tyler Renelle
 date: 2017-09-12 05:00:39
 episode_number: 278
 duration: 58:40
 audio_url: https://media.devchat.tv/js-jabber/JSJ_278_Machine_Learning_with_Tyler_Renelle.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
@@ -18,7 +18,7 @@ Tyler Renelle is a contractor and developer who has worked in various web techno
 - Economic automation
 - Which platforms and languages to use to get into machine learning
 - and much, much more...
-Links:
+  Links:
 - [Raspberry Pi](https://www.raspberrypi.org/)
 - [Arduino](https://www.arduino.cc/)
 - [Hacker News](http://news.ycombinator.com)
@@ -47,20 +47,17 @@ Links:
 - [The Singularity is Near by Ray Kurzweil](http://amzn.to/2xRXDIU)
 - [Tensorforce](https://github.com/reinforceio/tensorforce)
 - [Super Intelligence by Nick Bostrom](http://amzn.to/2fBvhrG)
-Picks: Aimee
+  Picks: Aimee
 - [Include media](http://include-media.com/)
 - [Nodevember](http://nodevember.org/)
 - [Phone cases](https://fidgets-hub.myshopify.com/collections/phone-cases)
-AJ
+  AJ
 - [Data Skeptic](http://dataskeptic.com)
 - [Ready Player One](http://amzn.to/2yrnqVn)
-Joe
+  Joe
 - [Everybody Lies](http://amzn.to/2yeXT0E)
-Tyler
+  Tyler
 - [Ex Machina](http://www.imdb.com/title/tt0470752/)
 - [Philosophy of Mind: Brains, Consciousness, and Thinking Machines](http://amzn.to/2jNYDYj)
 
-
 ### Transcript
-
-

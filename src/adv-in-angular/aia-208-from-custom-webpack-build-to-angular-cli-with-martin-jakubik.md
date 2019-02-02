@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 208: From Custom Webpack Build to Angular CLI with Martin Jakubik
+  AiA 208: From Custom Webpack Build to Angular CLI with Martin Jakubik
 date: 2018-09-25 11:00:11
 episode_number: 208
 duration: 54:57
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_208_From_Custom_Webpack_build_to_Angular_CLI_with_Martin_Jakubik.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Alyssa Nicholl
 - Joe Eames
 - John Papa
-- Ward Bell 
+- Ward Bell
 
 **Special Guests:** [Martin Jakubik](https://medium.com/bratislava-angular)
 
@@ -259,9 +259,9 @@ Alyssa
 
 Martin
 
-- Thank you for having me today. 
-- Present your work more. 
-- I challenge you all to cook. 
+- Thank you for having me today.
+- Present your work more.
+- I challenge you all to cook.
 - [Blog: Bratislava Angular](https://medium.com/bratislava-angular)
 
 Ward
@@ -273,7 +273,4 @@ Joe
 - Brian Holt – [Eleven Tips to Scale Node.js](https://medium.com/microsoftazure/eleven-tips-to-scale-node-js-65cbf6deef6e)
 - NPM scripts – I relearned something “new” lately.
 
-
 ### Transcript
-
-

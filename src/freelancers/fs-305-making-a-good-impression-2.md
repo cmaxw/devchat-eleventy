@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 305: Making a Good Impression
+  FS 305: Making a Good Impression
 date: 2018-07-24 22:33:49
 episode_number: 305
 duration: 47:23
 audio_url: https://media.devchat.tv/freelancers/FS_305_Making_a_good_impression.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Reuven Lerner
 - Jeremy Green
@@ -65,7 +65,4 @@ Erik
 - [_Book Yourself Solid_ by Michael Port](https://www.amazon.com/Book-Yourself-Solid-Reliable-Marketing/dp/0470643471)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/)
 
-
 ### Transcript
-
-

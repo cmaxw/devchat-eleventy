@@ -1,19 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 026: How to Get a Job (Especially for New Developers)‌ with Charles Max Wood
+  VoV 026: How to Get a Job (Especially for New Developers)‌ with Charles Max Wood
 date: 2018-08-29 03:59:47
 episode_number: 026
 duration: 46:29
 audio_url: https://media.devchat.tv/viewsonvue/VoV_026%20How_to_Get_a_Job_with_Charles_Max_Wood.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
   - new_programmers
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Erik Hanchett
@@ -27,7 +27,7 @@ In this episode, the Views on Vue panel talks about Charles’ new course on how
 - [Get a Coder Job](https://devchat.tv/get-a-coder-job/)
 - What is in the course?
 - How did you get your first developer jobs?
-- Erik gives advice about [How to Get a Developer Job](https://www.youtube.com/playlist?list=PL-lxoPS_1OXWw0jJM7qLSHwbXHYAngIXc) on his YouTube Channel 
+- Erik gives advice about [How to Get a Developer Job](https://www.youtube.com/playlist?list=PL-lxoPS_1OXWw0jJM7qLSHwbXHYAngIXc) on his YouTube Channel
 - Going the traditional route (CS degree) VS self-taught route
 - Being self-taught is more common now
 - You don’t need a CS degree to get a developer job
@@ -43,7 +43,7 @@ In this episode, the Views on Vue panel talks about Charles’ new course on how
 - There are a lot of Jr. developers entering the field right now
 - Getting the right opportunities
 - The different options you have to be trained
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -75,7 +75,4 @@ Erik
 
 - [Create Awesome Vue.js Apps With Nuxt.js](https://school.programwitherik.com/p/create-awesome-vue-js-apps-with-nuxt-js) course
 
-
 ### Transcript
-
-

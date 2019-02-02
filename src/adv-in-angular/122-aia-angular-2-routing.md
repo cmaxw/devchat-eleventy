@@ -1,19 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      122 AiA Angular 2 Routing
+  122 AiA Angular 2 Routing
 date: 2016-12-08 06:00:22
 episode_number: 122
 duration: 56:48
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA122_Angular_2_Routing.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 1:20 - What is the Angular router?4:20 - Router links5:20 - Child routing7:00 - Defining a router and a path10:05 - Controlling browser history11:05 - Push state versus hash state 15:10 - Style guides and best practices16:45 - Configuring the routes19:10 - Router guards26:55 - Resolve guards30:20 - Lazy routing and eager routing38:30 - How to get started with routing
+
 ### **Picks** :
+
 [Oakland Raiders](http://www.raiders.com/) (John)[_Fantastic Beasts and Where to Find Them_](http://www.imdb.com/title/tt3183660/) (John)[_Rogue One_](http://www.starwars.com/films/rogue-one) (John)[_Catalyst_ by James Luceno](https://www.amazon.com/Catalyst-Star-Wars-Rogue-Novel/dp/0345511492) (John)[_The Eagle Huntress_](http://www.imdb.com/title/tt3882074/) (Ward)[Evans Mill](http://www.evinsmill.com/) (Charles)[Aaron Walker](https://www.facebook.com/AaronWalkerVFTT/) (Charles)[NYC City Pass](http://www.citypass.com/new-york?mv_source=rkg&adpos=1t1&creative=163933216503&device=c&matchtype=e&network=g&gclid=CjwKEAiAmo_CBRC9qbGQssjqi28SJABYTgZx46XpfCPB_0OtAHcCa1_1sme9dl0Cg4iZTw15eqH4NRoC0Nnw_wcB) (Charles)[Statue of Liberty](https://www.nps.gov/stli/) (Charles)[Ellis Island](http://www.libertyellisfoundation.org/)(Charles)[Empire State Building](http://www.esbnyc.com/) (Charles)[Ripley’s Believe It Or Not](https://www.ripleysnewyork.com/) (Charles)[911 Tribute Center](http://tributewtc.org/) (Charles)[Microsoft Connect Keynote](https://connectevent.microsoft.com/watch-the-keynote/) (Charles)[Javascript Jabber](https://devchat.tv/js-jabber) (Charles)[iPhreaks](https://devchat.tv/iphreaks) (Charles)
 
 ### Transcript

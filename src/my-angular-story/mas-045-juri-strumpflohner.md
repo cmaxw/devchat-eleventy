@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 045: Juri Strumpflohner
+  MAS 045: Juri Strumpflohner
 date: 2018-08-02 13:41:24
 episode_number: 045
 duration: 22:13
 audio_url: https://media.devchat.tv/my-angular-story/MAS_045_Juri_Strumpflohner.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Juri Strumpflohner
 
@@ -32,7 +32,7 @@ This week on My Angular Story, Charles speaks with Juri Strumpflohner. Juri is a
 - Business informatics in school
 - Creating small application was really fun for him
 - Got into real programming after high school
-- Side projects in UI 
+- Side projects in UI
 - Working at a Microsoft shop out of college
 - The switch to single-page applications
 - JavaScript on the front-end
@@ -76,7 +76,4 @@ Juri
 - [His Egghead courses](https://egghead.io/instructors/juri-strumpflohner)
 - [Mavic Air Drone](https://www.dji.com/mavic-air)
 
-
 ### Transcript
-
-

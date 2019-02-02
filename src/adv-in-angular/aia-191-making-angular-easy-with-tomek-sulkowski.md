@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 191: UX in Angular with Tomek Sułkowski
+  AiA 191: UX in Angular with Tomek Sułkowski
 date: 2018-05-30 16:32:02
 episode_number: 191
 duration: 42:30
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_191_UX_in_Angular_with_Tomek_Sulkowski.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Charles Max Wood
 
@@ -42,7 +42,7 @@ In this episode, the JavaScript Jabber panelists discuss UX in Angular with Tome
 - Buttons make the interface much more usable
 - Building forms
 - Template based forms
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -76,7 +76,4 @@ Tomek
 - [_The Man from Earth_](https://www.imdb.com/title/tt0756683/)
 - [Nest Framework](https://nestjs.com/)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 051: Andy Hunt
+  MRS 051: Andy Hunt
 date: 2018-07-04 07:58:47
 episode_number: 051
 duration: 59:40
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_051_Andy_Hunt.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Andy Hunt
 
@@ -72,7 +72,4 @@ Andy
 
 - [PragProg.com](https://pragprog.com/)
 
-
 ### Transcript
-
-

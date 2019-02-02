@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 216: Building a Complete Web Application from Scratch Alone with Amir Tugendhaft
+  AiA 216: Building a Complete Web Application from Scratch Alone with Amir Tugendhaft
 date: 2018-11-20 11:00:37
-episode_number: 216 
+episode_number: 216
 duration: 42:56
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_216_Building_a_complete_web_application_from_scratch_alone_with_Amir_Tugendhaft.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Aaron Frost
 - Brian Love
@@ -35,7 +35,7 @@ In this episode, Aaron and Brian talk with [Amir Tugendhaft](https://twitter.com
 
 2:08 – Host: I am going to back up a second, and Brian could you please introduce yourself, please?
 
-2:26 – [Brian:](https://twitter.com/brian_love?lang=en) I am the CETO at an Angular consulting firm (Denver, CO). We have the pleasure with working with Aaron from time-to-time. My Twitter handle is [@brian\_love](https://twitter.com/brian_love?lang=en) – check it out!
+2:26 – [Brian:](https://twitter.com/brian_love?lang=en) I am the CETO at an Angular consulting firm (Denver, CO). We have the pleasure with working with Aaron from time-to-time. My Twitter handle is [@brian_love](https://twitter.com/brian_love?lang=en) – check it out!
 
 2:52 – Host: What is CETO stand for?
 
@@ -205,10 +205,7 @@ Amir
 
 Brian
 
-- TV Series: “[The 100](https://en.wikipedia.org/wiki/The_100_(TV_series))”
+- TV Series: “[The 100](<https://en.wikipedia.org/wiki/The_100_(TV_series)>)”
 - [Angular Schematics](https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2)
 
-
 ### Transcript
-
-

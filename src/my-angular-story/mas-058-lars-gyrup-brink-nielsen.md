@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 058: Lars Gyrup Brink Nielsen
+  MAS 058: Lars Gyrup Brink Nielsen
 date: 2018-10-31 10:00:52
 episode_number: 058
 duration: 36:20
 audio_url: https://media.devchat.tv/my-angular-story/MAS_058_Lars_Gyrup_Brink_Nielsen.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** [Lars Gyrup Brink Nielsen](https://github.com/LayZeeDK)
 
@@ -168,7 +168,4 @@ Yes improving my talk for next month’s conference. I am building a small app, 
 - [Book: Mastering Reactive JavaScript by Erich de Souza Oliveira](https://www.packtpub.com/web-development/mastering-reactive-javascript)
 - [Angular Router Book](https://leanpub.com/router)
 
-
 ### Transcript
-
-

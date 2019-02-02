@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 044: Sam Aaron
+  MRS 044: Sam Aaron
 date: 2018-05-16 10:00:36
 episode_number: 044
 duration: 23:47
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_044_Sam_Aaron.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Sam Aaron
 
@@ -29,13 +29,13 @@ This week on My Ruby Story, Charles talks to Sam Aaron. Sam is a programmer who 
 - Self-taught
 - How did you get into [Ruby](https://www.ruby-lang.org/en/)?
 - Ph.D. in CS
-- Hated programming 
+- Hated programming
 - Saw first DHH screencast on [Rails](https://rubyonrails.org/)
 - Liked that he could tinker with and get immediate results back with Ruby
 - How did you wind up doing something like [Sonic Pi](https://sonic-pi.net/)?
 - Monode
 - Played piano as a kid
-- Max Msp 
+- Max Msp
 - Over a million users on Sonic Pi
 - What have you learned from creating Sonic Pi?
 - Concurrent programming
@@ -55,7 +55,7 @@ This week on My Ruby Story, Charles talks to Sam Aaron. Sam is a programmer who 
 - [Sam.Aaron.name](http://sam.aaron.name/)
 - [@samaaron](https://twitter.com/samaaron?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Sam’s Github](https://github.com/samaaron)
-- [@Sonic\_Pi](https://twitter.com/sonic_pi?lang=en)
+- [@Sonic_Pi](https://twitter.com/sonic_pi?lang=en)
 
 **Picks:**
 
@@ -70,7 +70,4 @@ Sam
 - Monodes
 - Walking in the Hills
 
-
 ### Transcript
-
-

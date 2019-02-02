@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      101 AiA The State of NG2 with Rob Wormald and Stephen Fluin
+  101 AiA The State of NG2 with Rob Wormald and Stephen Fluin
 date: 2016-07-14 07:00:27
 episode_number: 101
 duration: 49:25
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA101TheStateofNG2.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
@@ -16,24 +16,24 @@ tags:
 
 - [Twitter](https://twitter.com/robwormald)
 - [GitHub](https://github.com/robwormald)
-03:46 - Stephen Fluin Introduction
+  03:46 - Stephen Fluin Introduction
 - [Twitter](https://twitter.com/stephenfluin)
 - [GitHub](https://github.com/PeEllAvaj)
 - [Blog](http://mortalpowers.com/)
-04:28 - [Improvements Coming for Routing in Angular](http://angularjs.blogspot.com/2016/06/improvements-coming-for-routing-in.html)08:22 - Syntax 11:10 - Preloading Data 13:59 - [Brian Ford](https://twitter.com/briantford)’s Router =\> The New Router
+  04:28 - [Improvements Coming for Routing in Angular](http://angularjs.blogspot.com/2016/06/improvements-coming-for-routing-in.html)08:22 - Syntax 11:10 - Preloading Data 13:59 - [Brian Ford](https://twitter.com/briantford)’s Router =\> The New Router
 - [Lifecycle Hooks](https://angular.github.io/router/lifecycle)
   - [canActivate](https://angular.github.io/router/lifecycle#can-activate)
   - [canDeactivate](https://angular.github.io/router/lifecycle#can-deactivate)
-17:23 - Does the new router do these things?
+    17:23 - Does the new router do these things?
 - Can I click on a link and tell it to go to a route?
 - Can I pass parameters; multiple parameters?
 - Can I add multiple routes to multiple different regions on the page?
 - If I’m a child component, can I reach up and learn anything about my parent, and if so, what can I do?
 - Will, with this router, do I have the option of [Lazy loading](https://en.wikipedia.org/wiki/Lazy_loading) the routes or loading them all up front?
 - Can I route to two different states on the same page?
-23:28 - Auxiliary Route 24:51 - Offline Compilation
+  23:28 - Auxiliary Route 24:51 - Offline Compilation
 - [CSS (Cascading Style Sheets)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-29:38 - Bundling; Development Experience 32:46 - Relative Pass 41:25 - Treeshaking 43:21 - What’s left before Angular goes live? &nbsp; Picks
+  29:38 - Bundling; Development Experience 32:46 - Relative Pass 41:25 - Treeshaking 43:21 - What’s left before Angular goes live? &nbsp; Picks
 - [rollup.js](http://rollupjs.org/) (Rob)
 - [Google Play’s Family Plan](https://support.google.com/googleplay/answer/6317786?hl=en) (Jules)
 - [Plunker](https://plnkr.co/) (Stephen)
@@ -42,10 +42,9 @@ tags:
 - [X-Men Apocalypse](http://www.imdb.com/title/tt3385516/) (Joe)
 - [P.I.](https://boardgamegeek.com/boardgame/129050/pi) (Joe)
 
-
 ### Transcript
 
- **JOHN:&nbsp;** Just you and I.
+**JOHN:&nbsp;** Just you and I.
 
 **JOE:&nbsp;** Yeah, you got it.
 
@@ -253,7 +252,7 @@ STEPHEN:&nbsp; Yes.
 
 [Laughter]
 
-**JOHN:** &nbsp; $50,000 wheel of fortune. [Laughs] With this router, do I have the option of lazy loading the routes or loading them all upfront?
+**JOHN:** &nbsp; \$50,000 wheel of fortune. [Laughs] With this router, do I have the option of lazy loading the routes or loading them all upfront?
 
 **ROB:&nbsp;** So, I'm of it as this. In the first iteration of the router, you will be able to lazy load the components that fall into those routes, right? But we are currently, I think in the first iteration decided that just for the sake of getting the core things about routing right, we're punting on lazy loading of the configurations initially. I think that's something we'd like to add in at a later rev. But I think we were more concerned that we get the rest of routing properly done. So, you can lazy load components absolutely. Lazy loading route config is not supported yet but should be in a later release.
 
@@ -592,5 +591,3 @@ And those are my picks. So, that was it. I think we'll say goodbye and thanks ev
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
-
-

@@ -1,35 +1,36 @@
 ---
 layout: layouts/post.njk
 title: >
-      227 JSJ Fostering Community Through React with Benjamin Dunphy, Berkeley Martinez, and Ian Sinnott
+  227 JSJ Fostering Community Through React with Benjamin Dunphy, Berkeley Martinez, and Ian Sinnott
 date: 2016-08-31 07:00:31
 episode_number: 227
 duration: 51:06
 audio_url: https://media.devchat.tv/js-jabber/JSJ227FosteringCommunityThroughReact.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 03:08 - Benjamin Dunphy Introduction
+
 - [Twitter](https://twitter.com/benghamine)
 - [GitHub](https://github.com/dunphyben)
-04:07 - Berkeley Martinez Introduction
+  04:07 - Berkeley Martinez Introduction
 - [Twitter](https://twitter.com/BerkeleyTrue)
 - [GitHub](https://github.com/BerkeleyTrue)
 - [Free Code Camp](https://www.freecodecamp.com/)
-04:19 - Ian Sinnott Introduction
+  04:19 - Ian Sinnott Introduction
 - [Twitter](https://twitter.com/ian_sinn)
 - [GitHub](https://github.com/iansinnott)
 - [Blog](https://www.iansinnott.com/)
 - [TruSTAR Technology](https://www.trustar.co/)
-05:19 - The [React](https://facebook.github.io/react/) Codebase 12:38 - Other Important Parts of the React Ecosystem14:22 - The [Angular](https://angular.io/) vs the React Ecosystem and Community
+  05:19 - The [React](https://facebook.github.io/react/) Codebase 12:38 - Other Important Parts of the React Ecosystem14:22 - The [Angular](https://angular.io/) vs the React Ecosystem and Community
 - The Learning Curve
 - [create-react-app](https://github.com/facebookincubator/create-react-app)
-22:07 - CommunityDeveloper Experience
+  22:07 - CommunityDeveloper Experience
 - [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
-26:56 - Getting Connected to the React Community
+  26:56 - Getting Connected to the React Community
 - [Meetup: Real World React](http://www.meetup.com/real-world-react/)
   - [@rwreact](https://twitter.com/rwreact)
 - [ReactJS San Francisco Bay Area Meetup](http://www.meetup.com/ReactJS-San-Francisco/)
@@ -38,17 +39,17 @@ tags:
 - [Calagator](http://calagator.org/)
 - [Twitter](https://twitter.com/)
 - [Dan Abramov: My React List](https://medium.com/@dan_abramov/my-react-list-862227952a8c#.5pgjtb9pt)
-29:34 - Conferences
+  29:34 - Conferences
 - [React.js Conf](http://conf.reactjs.com/)
 - [React Rally](http://www.reactrally.com/)
 - [ReactNext](http://react-next.com/)
 - [ReactiveConf](https://reactiveconf.com/)
 - [ReactEurope](https://www.react-europe.org/)
-33:28 - Technology From the Community
+  33:28 - Technology From the Community
 - [redux](https://github.com/reactjs/redux)
 - [ThunderCats.js](http://thundercats.js.org/)38:23 - Choices Are Expanding; Not Shrinking
 - Linting
-40:19 - The Future of React42:39 - Starting More Communities&nbsp;Picks
+  40:19 - The Future of React42:39 - Starting More Communities&nbsp;Picks
 - [This Developing Story](http://developingstory.netlify.com/) (Aimee)
 - [Nashville](http://www.visitmusiccity.com/) (Aimee)
 - [Nodevember](http://nodevember.org/) (Aimee)
@@ -59,14 +60,13 @@ tags:
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) (Ian)
 - [The Serverless Framework](http://serverless.com/) (Ian)
 - [Ben's Blog](http://blog.benoitvallon.com/) (Berkeley)
-- [Isaac Asimov’s Robot Series](https://en.wikipedia.org/wiki/Robot_series_(Asimov)) (Berkeley)
+- [Isaac Asimov’s Robot Series](<https://en.wikipedia.org/wiki/Robot_series_(Asimov)>) (Berkeley)
 - [Vsauce: The Zipf Mystery](https://www.youtube.com/watch?v=fCn8zs912OE) (Berkeley)
 - [Kinesis Advantage for PC & Mac](http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/) (Dave)
 
-
 ### Transcript
 
- **DAVE:&nbsp;** I am the kind of person that believes it's important to say people's names right. And I apologize if that's not important to you.
+**DAVE:&nbsp;** I am the kind of person that believes it's important to say people's names right. And I apologize if that's not important to you.
 
 **_[This episode is sponsored by Hired.com. Every week on Hired they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on JavaScript developers providing them with salary and equity upfront. The average JavaScript developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they give you a $1,000 signing bonus as a thank you for using them. But if you use the JavaScript Jabber link, you’ll get a $2,000 bonus instead. Finally, if you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/JavaScriptJabber.]_**
 
@@ -425,5 +425,3 @@ My third pick is a video from Vsauce. It's a video on Zipf's Law. I think, it's 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

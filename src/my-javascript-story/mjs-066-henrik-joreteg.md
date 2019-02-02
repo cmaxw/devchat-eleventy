@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 066: Henrik Joreteg
+  MJS 066: Henrik Joreteg
 date: 2018-06-20 15:35:56
 episode_number: 066
 duration: 31:22
 audio_url: https://media.devchat.tv/my-js-story/MJS_66_Henrik_Joreteg.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Henrik Joreteg
 
@@ -28,13 +28,13 @@ This week on My JavaScript Story, Charles speaks with Henrik Joreteg. Henrik has
 - Create house touring video company
 - Adobe ColdFusion
 - How were you exposed to [JavaScript](https://www.javascript.com/)?
-- Gig as a ColdFusion developer 
+- Gig as a ColdFusion developer
 - [jQTouch](http://jqtjs.com/), [jQuery](https://jquery.com/), and [Django](https://www.djangoproject.com/)
 - Interested in building app-like experiences
 - What have you done with JavaScript that you are proud of?
 - Want to push the web into an app-like space
 - Helped to create [Ampersand.js](https://ampersandjs.com/)
-- Wrote [_Human JavaScript_](http://humanjavascript.com/) 
+- Wrote [_Human JavaScript_](http://humanjavascript.com/)
 - Created [Simple WebRTC](https://simplewebrtc.com/)
 - Promote web as an application platform
 - What are you working on now?
@@ -89,7 +89,4 @@ Henrik
 - Space repetition systems
 - [Anki](https://apps.ankiweb.net/)
 
-
 ### Transcript
-
-

@@ -1,20 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      The Ruby Freelancers Show 053 – Building and Marketing Products with Farnoosh Brock
+  The Ruby Freelancers Show 053 – Building and Marketing Products with Farnoosh Brock
 date: 2013-03-21 12:00:00
 episode_number: 053
-duration: 
+duration:
 audio_url: https://media.devchat.tv/freelancers/RFS053BuildingAndMarketingProducts.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 Panel Farnoosh Brock (twitter facebook Prolific Living Prolific Living Podcast The Healthy Juicer’s Bible) Eric Davis (twitter github blog) Evan Light (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 00:37 - Farnoosh Brock Introduction Prolific Living New Media Expo 01:41 - Marketing 04:00 - Marketing Coaching Services Book Yourself Solid: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port Target Audience 06:05 - Giving away products vs time and services The Ruby Freelancers Show: 006 - Setting Your Rate 08:32 - Pricing The Prolific Living Podcast Episode 83: 4 Bold Steps to Communicating Your Prices without Apology Price higher than you feel comfortable Handling price criticism 12:54 - Levels of Access Freebies 16:48 - Value Working backwards pricing idea 19:39 - Advertising Mailing Lists (some at different levels of marketing aggressiveness) Guest Posting Blogging Social Media LinkedIn Groups Forums 23:59 - Closing Sales on the Phone Zig Ziglar 26:40 - Video Marketing Free content as teaser to paid content Credibility 31:51 - Effective Marketing Strategies Escape from Cubicle Nation 48 Days, LLC Cliff Ravenscraft 36:17 - Podcasting 37:46 - Getting on other people’s radar 39:33 - Help a Reporter Out (HARO) (Vocus will call you once&nbsp;as soon as you create an account. Saying you aren't interested will stop calls.) 45:39 - Speaking/Webinars SlideShare Speaker Deck The Ruby Freelancers Show: 036 - Speaking at Conferences 49:09 - Book Marketing (Self-Publishing) Amazon Author Central Reviews Farnoosh's Amazon Page Kindle Direct Publishing (KDP) 55:13 - Book Marketing (w/ a Publisher) Taking the lead 59:05 - Self-publishing vs going w/ a traditional publisher 01:03:19 - Making the right product for your market Building your platform Amy Hoy The Formula You Need: 30 x 500: Zero to Launch for Your Very First Paying Product Picks Seth Godin's Blog: Choose your customers first (Eric) "If it Bleeds, it Leads" (Evan) Patterns of Enterprise Application Architecture by Martin Fowler (Evan) Ruby Midwest (Evan) VIM to EMACS (Evan) Hazel (Chuck) Battlestar Galactica (Chuck) House of Cards (Evan) Young Justice: Invasion Destiny Calling - Season 2 (Evan) Asana (Farnoosh) Scrivener (Farnoosh) Edirol Recorder (Farnoosh) Paul Graham: You Weren't Meant to Have a Boss (Farnoosh) On Writing: A Memoir Of The Craft by Stephen King (Farnoosh) Next Week Red Flags with Potential or Current Clients with Ashe Dryden Transcript [Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net] CHUCK: Hey everybody and welcome to Episode 53 of The Ruby Freelancers Show. This week on our panel, we have Eric Davis. ERIC: Hello! CHUCK: We also have Evan Light. EVAN: Chuck had to think about Eric for a moment there... CHUCK: [laughs] I'm Charles Max Wood from Devchat.tv. And this week we have a special guest, and that's Farnoosh Brock! FARNOOSH: Hi! Thank you so much for having me on! CHUCK: You haven't been on the before; do you want to introduce yourself really quickly? FARNOOSH: Yes! My name is Farnoosh Brock, and I am the president and founder of Prolific Living, and that's at prolificliving.com. Chuck and I met at New Media Expo back in January and we had a lot of fun! He was really shocked that he met an electrical engineer -- an ex-electrical engineer -- at the party there, and we just hit it off! So, thank you so much for inviting me to the show. CHUCK: Yeah, no problem! It was kind of interesting when we met. First off, I met your husband before I met you. He's a photographer,
-
-
 
 ### Transcript
 

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 241: A Backup Fetishist
+  iPS 241: A Backup Fetishist
 date: 2018-05-24 18:26:01
 episode_number: 241
 duration: 1:00:31
 audio_url: https://media.devchat.tv/iphreaks/iPS_241_A_Backup_Fetishist.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Gui Rambo
 - Erica Sadun
@@ -26,16 +26,16 @@ In today's episode, the iPheaks panelist Erica and Gui talk about backups. Why a
 - Paranoid back up
 - Not everything can get synced up to GitHub
 - Email,&nbsp; personal materials, etc.
-- Horror stories 
+- Horror stories
 - Personal catastrophe
-- Losing a business 
-- Where does your data live? 
-- Personal and financial cost 
-- What are not backups -&nbsp; Dropbox, cloud, etc 
+- Losing a business
+- Where does your data live?
+- Personal and financial cost
+- What are not backups -&nbsp; Dropbox, cloud, etc
 - DropBox is only one component of a backup
-- Cloud storage components 
+- Cloud storage components
 - Having a mix of cloud, and localized backs, and introducing redundancy
-- Natural disasters and thief 
+- Natural disasters and thief
 - [Offsite Github backup](https://github.com/github/backup-utils)
 - [Git Repo](https://code.google.com/archive/p/git-repo/)
 - Privacy, private repo, etc.
@@ -50,8 +50,8 @@ In today's episode, the iPheaks panelist Erica and Gui talk about backups. Why a
 - Time Machine alone is not efficient
 - Bootable backups
 - [Carbon Copy Cloner](https://bombich.com)
-- Scheduler for backups 
-- Time Machine fail 
+- Scheduler for backups
+- Time Machine fail
 - And much much more!
 
 **Links:**
@@ -75,7 +75,4 @@ Erica
 
 - [NOTI](https://github.com/variadico/noti)
 
-
 ### Transcript
-
-

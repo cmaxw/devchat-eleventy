@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Building a mobile app with Meteor, Mongo, and Cordova - Josh Owens - JS Remote Conf 2015
+  Building a mobile app with Meteor, Mongo, and Cordova - Josh Owens - JS Remote Conf 2015
 date: 2015-09-15 15:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: remote-conf-talks
-tags: 
+tags:
   - remote_conf_talks
   - podcast
 ---
@@ -17,5 +17,3 @@ A live coding session where a fresh Meteor.js app is built. Cordova support will
 &nbsp;
 
 Learn how easy and quick it is to get Javascript, Node.js, Mongo, and Cordova working in harmony with Meteor.js.
-
-

@@ -1,50 +1,51 @@
 ---
 layout: layouts/post.njk
 title: >
-      226 FS Podcasting for Freelancers
+  226 FS Podcasting for Freelancers
 date: 2016-11-03 06:00:17
 episode_number: 226
 duration: 1:10:10
 audio_url: https://media.devchat.tv/freelancers/FS226_Podcasting_For_Freelancers.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 1:00 Topic Introduction: Podcasting for Freelancers
+
 - All panelists have a podcast
-2:00 Why start a podcast?
+  2:00 Why start a podcast?
 - Building trust
 - Getting to know you
 - Portability
-6:30 Benefits over video
+  6:30 Benefits over video
 - Less to get in the way of the message
 - Simpler to put together
 - Defining the purpose
 - Different type of call to action
-15:15: Getting listeners to return to the podcast
+  15:15: Getting listeners to return to the podcast
 - Picks
 - Marketing, display advertising, brand advertising
 - [Podcast Motor](https://www.podcastmotor.com/)
-22:45: Podcasting as a self-referral
+  22:45: Podcasting as a self-referral
 - Podcasting to peers vs. to clients
 - [100 Most Trusted People in America](http://www.rd.com/culture/readers-digest-trust-poll-the-100-most-trusted-people-in-america/) (Reader’s Digest)
-26:20: What to talk about
+  26:20: What to talk about
 - Define your audience
 - Specific questions to ask
 - Experiment
 - Pick something you’re excited about
-39:00: What if podcasting for your peers is not working?
+  39:00: What if podcasting for your peers is not working?
 - Monetizing
 - Outreach
-46:30: Making your content interesting
+  46:30: Making your content interesting
 - Format
 - Personality and preferences
 - Make sure you’re having fun
 - Pick a focus
 - Making the execution the product
-Picks:[Ditching Hourly podcast](http://www.ditchinghourly.com/) (Jonathan)[Todd Tresidder on Double Your Freelancing](https://doubleyourfreelancing.com/double-freelancing-podcast-episode-60-todd-tresidder-financial-independence/) (Jonathan)[Stripped, Macy Gray](http://www.chesky.com/album/stripped) (Philip)[The Online Photographer: 1000 Fans](http://theonlinephotographer.typepad.com/the_online_photographer/2009/03/1000-photographic-fansmaybe.html) (Philip)[Podcast Answer Man](http://podcastanswerman.com/) (Charles)[Podcasting A to Z](https://store.podcastanswerman.com/p/atoz) (Charles)[12 Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)[Freelance Remote Conf for 2017](https://allremoteconfs.com/) (Charles)[Hired.com](https://hired.com/)
+  Picks:[Ditching Hourly podcast](http://www.ditchinghourly.com/) (Jonathan)[Todd Tresidder on Double Your Freelancing](https://doubleyourfreelancing.com/double-freelancing-podcast-episode-60-todd-tresidder-financial-independence/) (Jonathan)[Stripped, Macy Gray](http://www.chesky.com/album/stripped) (Philip)[The Online Photographer: 1000 Fans](http://theonlinephotographer.typepad.com/the_online_photographer/2009/03/1000-photographic-fansmaybe.html) (Philip)[Podcast Answer Man](http://podcastanswerman.com/) (Charles)[Podcasting A to Z](https://store.podcastanswerman.com/p/atoz) (Charles)[12 Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)[Freelance Remote Conf for 2017](https://allremoteconfs.com/) (Charles)[Hired.com](https://hired.com/)
 
 ### Transcript
 

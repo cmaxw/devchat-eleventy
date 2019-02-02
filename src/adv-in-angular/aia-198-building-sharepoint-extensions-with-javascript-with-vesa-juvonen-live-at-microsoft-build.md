@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 198: Building SharePoint Extensions with JavaScript with Vesa Juvonen LIVE at Microsoft Build
+  AiA 198: Building SharePoint Extensions with JavaScript with Vesa Juvonen LIVE at Microsoft Build
 date: 2018-07-17 13:40:51
 episode_number: 198
 duration: 31:20
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_198_Building_SharePoint_Extensions_with_JavaScript_with_Vesa_Juvonen_LIVE_at_Microsoft_Build.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Charles Max Wood
 
@@ -43,7 +43,7 @@ In this episode, the Adventures in Angular panel talks to Vesa Juvonen about bui
 - [SharePoint documentation](https://docs.microsoft.com/en-us/sharepoint/)
 - [SharePoint YouTube](https://www.youtube.com/user/GetStartedSharePoint)
 - What kinds of extensions are you seeing people build?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -81,7 +81,4 @@ Vesa
 
 - [_Armada_ by Ernest Cline](https://www.amazon.com/Armada-novel-author-Ready-Player/dp/0804137277)
 
-
 ### Transcript
-
-

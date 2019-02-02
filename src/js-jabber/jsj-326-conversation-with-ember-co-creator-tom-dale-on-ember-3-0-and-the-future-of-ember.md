@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 326: Conversation with Ember co-creator Tom Dale on Ember 3.0 and the future of Ember
+  JSJ 326: Conversation with Ember co-creator Tom Dale on Ember 3.0 and the future of Ember
 date: 2018-08-14 10:00:54
 episode_number: 326
 duration: 57:18
 audio_url: https://media.devchat.tv/js-jabber/JSJ_326_Conversation_with_Ember_co-creator_Tom_Dale_on_Ember_3.0_and_the_future_of_Ember.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Joe Eames
 - Aimee Knight
@@ -27,7 +27,7 @@ In this episode, the JavaScript Jabber panel talks to Tom Dale about Ember 3.0 a
 - How Joe met Tom
 - Programmers as rule breakers
 - The pressure to conform
-- Tom intro 
+- Tom intro
 - Staff engineer at [LinkedIn](https://www.linkedin.com/)
 - Customer service role
 - Having a way to role improvements out to a lot of different people
@@ -39,7 +39,7 @@ In this episode, the JavaScript Jabber panel talks to Tom Dale about Ember 3.0 a
 - Major competition in [Backbone](http://backbonejs.org/) previously
 - The Ember community has never been more vibrant
 - Tendency towards disposable software
-- The idea of steady iteration towards improvement 
+- The idea of steady iteration towards improvement
 - The Ember model
 - Being different from different frameworks
 - Ember adoption rates
@@ -47,7 +47,7 @@ In this episode, the JavaScript Jabber panel talks to Tom Dale about Ember 3.0 a
 - Valuable from a business perspective to use Ember
 - Ember community being friendly to newbies
 - How much Ember VS how much JavaScript will a new developer have to learn?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -88,7 +88,4 @@ Tom
 - Drake’s Ties
 - [Melissa Watson Ellis at Hall Madden](https://hallmadden.com/nyc/)
 
-
 ### Transcript
-
-

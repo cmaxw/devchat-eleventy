@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 387: Ruby Performance Profiling with Dan Mayer
+  RR 387: Ruby Performance Profiling with Dan Mayer
 date: 2018-11-06 11:00:05
 episode_number: 387
 duration: 48:37
 audio_url: https://media.devchat.tv/ruby-rogues/RR_387_Ruby_Performance_Profiling_with_Dan_Mayer.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Dave Kimura
 - Charles Max Wood
@@ -223,7 +223,4 @@ Dan
 - https://github.com/evanphx/benchmark-ips
 - https://github.com/rbspy/rbspy
 
-
 ### Transcript
-
-

@@ -1,28 +1,31 @@
 ---
 layout: layouts/post.njk
 title: >
-      281 RR Take My Money with Noel Rappin
+  281 RR Take My Money with Noel Rappin
 date: 2016-10-12 06:00:21
 episode_number: 281
 duration: 41:38
 audio_url: https://media.devchat.tv/ruby-rogues/RR281_Take_My_Money_with_Noel_Rappin.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 00:30 - Introducing Noel Rappin
+
 - [_Take My Money: Accepting Payments on the Web_ by Noel Rappin](https://pragprog.com/book/nrwebpay/take-my-money) (Ebook only)
 - [_Take My Money: Accepting Payments on the Web_ by Noel Rappin](https://www.amazon.com/Take-My-Money-Accepting-Payments/dp/1680501992/ref=asap_bc?ie=UTF8), (physical copy pre-order link)
 - [Website](http://www.noelrappin.com/)
 - [Twitter](https://twitter.com/noelrap)
-1:00 - Paid gateways for apps6:05 - Why write _Take My Money_?8:45 - Getting tripped up on simple arithmetic 11:55 - Troubleshooting gateway system failures
+  1:00 - Paid gateways for apps6:05 - Why write _Take My Money_?8:45 - Getting tripped up on simple arithmetic 11:55 - Troubleshooting gateway system failures
 - [Runscope](https://www.runscope.com/)
-21:45 - Managing administrative roles
+  21:45 - Managing administrative roles
 - [Paper Trail](https://papertrailapp.com/)
-25:55 - Reporting29:00 - Techniques for testing your system33:25 - Overarching themes in _Take My Money_
-### Picks: 
+  25:55 - Reporting29:00 - Techniques for testing your system33:25 - Overarching themes in _Take My Money_
+
+### Picks:
+
 [_The Fifth Season_](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296) and [_The Obelisk Gate_](https://www.amazon.com/Obelisk-Gate-Broken-Earth/dp/0316229261) by N.K. Jemisin (Noel)[Flash Forward podcast](http://www.flashforwardpod.com/) by Rose Eveleth (Noel)Police officers (Charles)[Webinar Jam](https://webinarjam.com/)(Charles)
 
 ### Transcript

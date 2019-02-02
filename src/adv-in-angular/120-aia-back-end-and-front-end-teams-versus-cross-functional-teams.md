@@ -1,19 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      120 AiA Back End And Front End Teams versus Cross-Functional Teams
+  120 AiA Back End And Front End Teams versus Cross-Functional Teams
 date: 2016-11-24 06:00:03
 episode_number: 120
 duration: 50:18
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA120_Back_End_And_Front_End_Teams_versus_Cross_Functional_Teams.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 2:35 - What types of teams have we worked on?8:30 - Deciding what kind of team to hire14:25 - Issues and concerns with working on back end/front end teams19:00 - Troubleshooting21:00 - Measuring success with split and cross-functional teams25:35 - Benefits of full-stack teams28:45 - Hiring full-stack, front end, and back end31:05 - Hiring experts and specialists 34:45 - Mobile teams36:05 - Viability of teams within React and Angular42:55 - The future of web development
+
 ### **Picks:**
+
 [_Doctor Strange_](http://www.imdb.com/title/tt1211837/) (Joe)[_Hacksaw Ridge_](http://www.imdb.com/title/tt2119532/) (Joe)Major League Soccer finals (Joe)[React Native Radio](https://devchat.tv/react-native-radio)(Charles)[Ignite - Infinite Red](https://infinite.red/ignite) (Charles)[Frontend Masters](https://frontendmasters.com/)(Charles)
 
 ### Transcript

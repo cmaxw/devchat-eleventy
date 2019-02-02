@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 069: Lizzie Siegle
+  MJS 069: Lizzie Siegle
 date: 2018-07-11 19:25:16
 episode_number: 069
 duration: 16:28
 audio_url: https://media.devchat.tv/my-js-story/MJS_069_Lizzie_Siegle.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Lizzie Siegle
 
@@ -35,7 +35,7 @@ This week on My JavaScript Story, Charles speaks with Lizzie Siegle. Lizzie is a
 - What was it that got you interested in code?
 - Seeing the application of code in the real world
 - Why [JavaScript](https://www.javascript.com/)?
-- Works also in [Python](https://www.python.org/), [Swift](https://swift.org/), and [Haskell](https://www.haskell.org/) 
+- Works also in [Python](https://www.python.org/), [Swift](https://swift.org/), and [Haskell](https://www.haskell.org/)
 - Loves how versatile JS is
 - Why developer evangelism?
 - Internship at [PubNub](https://www.pubnub.com/)
@@ -71,7 +71,4 @@ Lizzie
 
 - The importance of a mentor or a sponsor
 
-
 ### Transcript
-
-

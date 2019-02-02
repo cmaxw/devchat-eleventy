@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 083: Christine Legge
+  MJS 083: Christine Legge
 date: 2018-10-31 10:00:55
 episode_number: 083
 duration: 34:03
 audio_url: https://media.devchat.tv/my-js-story/MJS_083_Christine_Legge.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
 **Guest:** [Christine Legge](https://ca.linkedin.com/in/christinelegge)
 
@@ -117,15 +117,12 @@ I didn’t know what web development was but I thought that THAT was computer sc
 
 [Charles](https://twitter.com/cmaxw?lang=en)
 
-- My Calendar Software – [BusyCal](https://www.busymac.com/busycal/) and [Google Calendar](https://twitter.com/googlecalendar?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor) 
-- Google Calendar just started appointment slots 
+- My Calendar Software – [BusyCal](https://www.busymac.com/busycal/) and [Google Calendar](https://twitter.com/googlecalendar?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+- Google Calendar just started appointment slots
 
 Christine
 
 - [Podcast: The Pitch](https://www.gimletmedia.com/the-pitch)
 - [Podcast: How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 023: High-Performance GraphQL on Postgres with Hasura Tanmai Gopal
+  RRU 023: High-Performance GraphQL on Postgres with Hasura Tanmai Gopal
 date: 2018-08-09 04:27:19
 episode_number: 023
 duration: 42:37
 audio_url: https://media.devchat.tv/reactroundup/RRU_023_High_performance_GraphQL_on_Postgres_with_Hasura_Tanmai_Gopal.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Nader Dabit
 - Sia Karamalegos
@@ -44,7 +44,7 @@ In this episode, the React Round Up panelists talk to Tanmai Gopal. Tanmai is th
 - How does authorization work?
 - [PostGraphile](https://www.graphile.org/postgraphile/), [Prisma](https://www.prisma.io/), and Hasura
 - How do PostGraphile and Prisma compare to Hasura?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -81,7 +81,4 @@ Tanmai
 
 - Building a new tool
 
-
 ### Transcript
-
-

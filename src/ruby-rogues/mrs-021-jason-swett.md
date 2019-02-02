@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 021: Jason Swett
+  MRS 021: Jason Swett
 date: 2017-09-20 04:00:34
 episode_number: 021
 duration: 47:55
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_021_Jason_Swett.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 Jason Swett is a former Ruby Rogues panelist and the author of Angular on Rails. He's also a contractor and corporate trainer. Jason and Chuck dive into Jason's story getting into programming, Ruby, and talk about his current and past ventures in entrepreneurship. We also talk about writing courses and ebooks and blog posts. Links:
 
-- [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
+- [Pascal](<https://en.wikipedia.org/wiki/Pascal_(programming_language)>)
 - [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities)
 - [Angelfire](https://en.wikipedia.org/wiki/Angelfire)
 - [Perl](https://www.perl.org/)
@@ -23,7 +23,7 @@ Jason Swett is a former Ruby Rogues panelist and the author of Angular on Rails.
 - [CodeIgniter](https://codeigniter.com/)
 - [Drupal](https://www.drupal.org/)
 - [Laravel](https://laravel.com/)
-- [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+- [Lisp](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>)
 - [Clojure](https://clojure.org/)
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
@@ -49,17 +49,14 @@ Jason Swett is a former Ruby Rogues panelist and the author of Angular on Rails.
 - [Green Bits](http://greenbits.com)
 - [Email Jason](mailto:jason@benfranklinlabs.com)
 - [@jasonswett](http://twitter.com/jasonswett)
-Picks Jason:
+  Picks Jason:
 - [Amazon Web Services in Action](http://amzn.to/2xlUA8J)
 - [awsrails.com](http://awsrails.com)
-Chuck
+  Chuck
 - [Gitlab](https://about.gitlab.com/)
 - [Mattermost](https://about.mattermost.com/)
 - [The Daily Lasagna](https://www.youtube.com/playlist?list=PLJesql-aSfX6pseKl-4wFNmR_aDe2A3mT)
 - [Entreprogrammers](http://entreprogrammers.com)
 - [Ruby Dev Summit](http://rubydevsummit.com)
 
-
 ### Transcript
-
-

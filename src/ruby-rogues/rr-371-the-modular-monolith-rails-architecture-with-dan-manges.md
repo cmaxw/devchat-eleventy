@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 371: The Modular Monolith: Rails Architecture with Dan Manges
+  RR 371: The Modular Monolith: Rails Architecture with Dan Manges
 date: 2018-07-17 15:53:35
 episode_number: 371
 duration: 59:00
 audio_url: https://media.devchat.tv/ruby-rogues/RR_371_The_Modular_Monolith_Rails_Architecture_with_Dan_Manges.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - David Richards
 - Dave Kimura
@@ -59,7 +59,7 @@ In this episode of Ruby Rogues, the panel talks to Dan Manges about his blog pos
 - [Root in the Google Play store](https://play.google.com/store/apps/details?id=com.joinroot.root&hl=en)
 - [Root in iTunes](https://itunes.apple.com/us/app/root-car-insurance/id1021256908?mt=8)
 - [dan-manges.com](https://www.dan-manges.com/)
-- [@dan\_manges](https://twitter.com/dan_manges)
+- [@dan_manges](https://twitter.com/dan_manges)
 - [Dan’s Medium](https://medium.com/@dan_manges)
 - [Dan’s GitHub](https://github.com/dan-manges)
 
@@ -88,7 +88,4 @@ Dan
 
 - [Postico](https://eggerapps.at/postico/)
 
-
 ### Transcript
-
-

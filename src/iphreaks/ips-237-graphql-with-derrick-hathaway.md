@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 237: GraphQL with Derrick Hathaway
+  iPS 237: GraphQL with Derrick Hathaway
 date: 2018-04-26 10:00:17
 episode_number: 237
 duration: 46:05
 audio_url: https://media.devchat.tv/iphreaks/iPS_237_GraphQL_with_Derrick_Hathaway.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Erica Sadun
 - Andrew Madsen
@@ -25,15 +25,15 @@ In today's episode, the iPheaks panel, Erica, and Andrew speak with Derrick Hath
 
 - What is [GraphQL](https://graphql.org), why are you using it.
 - How does GraphQL differ from [REST](https://www.codecademy.com/articles/what-is-rest)?
-- Where does this live? 
+- Where does this live?
 - The server component of GraphQL
-- What do you use to use GraphQL? 
+- What do you use to use GraphQL?
 - GraphQL requests under the hood
-- Where is the state of the technology? 
-- Apogee 
+- Where is the state of the technology?
+- Apogee
 - Subscriptions
 - Security
-- How to get started? 
+- How to get started?
 - GraphiQL - [https://developer.github.com/v4/explorer/](https://developer.github.com/v4/explorer/)
 - [https://github.com/skevy/graphiql-app](https://github.com/skevy/graphiql-app)
 - Query validation at compile time
@@ -63,7 +63,4 @@ Derrick
 
 - [Microbiology](https://microbiologysociety.org/about/what-is-microbiology-.html)
 
-
 ### Transcript
-
-

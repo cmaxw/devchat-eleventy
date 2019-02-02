@@ -1,20 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      The Ruby Freelancers Show 042 – Planning For The New Year
+  The Ruby Freelancers Show 042 – Planning For The New Year
 date: 2013-01-03 15:00:00
 episode_number: 042
-duration: 
+duration:
 audio_url: https://media.devchat.tv/freelancers/RFS042PlanningForTheNewYear.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 Panel Eric Davis (twitter&nbsp;github&nbsp;blog) Charles Max Wood (twitter&nbsp;github&nbsp;Teach Me To Code&nbsp;Rails Ramp Up) Discussion 01:18 - Planning For the Year New Media Expo Consumer Electronics Show MountainWest RubyConf Rails Ramp Up 06:57 -...
-
-
 
 ### Transcript
 

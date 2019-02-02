@@ -1,44 +1,42 @@
 ---
 layout: layouts/post.njk
 title: >
-      161 iPS Successful Indie iOS Game Development with Amir Rajan
+  161 iPS Successful Indie iOS Game Development with Amir Rajan
 date: 2016-07-14 07:00:27
 episode_number: 161
 duration: 46:56
 audio_url: https://media.devchat.tv/iphreaks/iPS161SuccessfulIndieiOSGame Development.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 00:58 - Amir Rajan Introduction
+
 - [Twitter](http://twitter.com/amirrajan)
 - [GitHub](https://github.com/amirrajan)
 - [Blog](http://amirrajan.net/)
 - [A Dark Room (App)](https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8)
 - [Surviving The App Store: How to Make It as an Indie Game Developer by Amir Rajan](https://leanpub.com/survivingtheappstore)
 - [A Noble Circle](https://itunes.apple.com/us/app/a-noble-circle/id977865620?mt=8)
-03:08 - Building A Dark Room07:14 - Marketing the Game
+  03:08 - Building A Dark Room07:14 - Marketing the Game
 - [A Dark Room (Web Version)](http://adarkroom.doublespeakgames.com/)
 - [Twitter](http://twitter.com/)
 - [Facebook Ads](https://www.facebook.com/business/products/ads)
 - [Reddit](https://www.reddit.com/)
-  - Accessibility
-    - [Raising Awareness, the Blind use iOS Devices](http://amirrajan.net/software-development/2013/12/29/if-you-are-reading-this-you-are-not-blind/)
-    - [AppleVis](http://applevis.com/)
-23:40 - Earning a Sustainable Income29:03 - Amir’s Developer Experience
+  - Accessibility - [Raising Awareness, the Blind use iOS Devices](http://amirrajan.net/software-development/2013/12/29/if-you-are-reading-this-you-are-not-blind/) - [AppleVis](http://applevis.com/)
+    23:40 - Earning a Sustainable Income29:03 - Amir’s Developer Experience
 - [John Sonmez (Simple Programmer)](https://simpleprogrammer.com/)
-33:22 - Reviews37:05 - The Iterative Aspect of Building an Application
+  33:22 - Reviews37:05 - The Iterative Aspect of Building an Application
 - [Flatland](https://en.wikipedia.org/wiki/Flatland)
 - [appstorepromotion@apple.com](mailto:appstorepromotion@apple.com)
 - [Surviving The App Store: How to Make It as an Indie Game Developer by Amir Rajan](https://leanpub.com/survivingtheappstore)
-&nbsp;Picks
-- [Hoplite](https://itunes.apple.com/us/app/hoplite/id782438457?mt=8 ) (Amir)
+  &nbsp;Picks
+- [Hoplite](https://itunes.apple.com/us/app/hoplite/id782438457?mt=8) (Amir)
 - [Alto’s Adventure](https://itunes.apple.com/us/app/altos-adventure/id950812012?mt=8) (Amir)
-- [Transistor](https://itunes.apple.com/us/app/transistor/id948857526?mt=8 ) (Amir)
+- [Transistor](https://itunes.apple.com/us/app/transistor/id948857526?mt=8) (Amir)
 - [Blackbox](http://blackboxpuzzles.com) (Andrew)
-
 
 ### Transcript
 
@@ -74,7 +72,7 @@ So it’s got quite a bit of a success and then on top of – after that, I crea
 
 **AMIR:** So I actually – March 2013, I quit my job and kind of went on a sabbatical. So I spent three months binge coding on whatever I wanted to. That’s when I started thinking about, “Hey, I wanted to get into iOS development and I want to learn iOS development,” and thought about building a game.
 
-So A Dark Room actually started off as a web-based game. It went viral on Hacker News and it was just an HTML5, web-based game. No server-side code; it was all done through local storage as far as game state was concerned. I was like, “Hey, this is – this looks like a simple game to dip my toes into iOS development with.” So I emailed the original developer, Michael Thompson, and I said, “Hey, I want to try my hand on iOS development. Can I take this game, re-envision it for a mobile medium and if we make something, I’ll charge a buck – a buck, $101.99, and we’ll split the profits. What do you say?” He’s like, “Yeah, go for it.” So then that’s how it started.
+So A Dark Room actually started off as a web-based game. It went viral on Hacker News and it was just an HTML5, web-based game. No server-side code; it was all done through local storage as far as game state was concerned. I was like, “Hey, this is – this looks like a simple game to dip my toes into iOS development with.” So I emailed the original developer, Michael Thompson, and I said, “Hey, I want to try my hand on iOS development. Can I take this game, re-envision it for a mobile medium and if we make something, I’ll charge a buck – a buck, \$101.99, and we’ll split the profits. What do you say?” He’s like, “Yeah, go for it.” So then that’s how it started.
 
 If you compared the web version of the game and the iOS version of the game, they’ve diverged. It’s really interesting because the web version was actually open source. It was under MIT license. So whoever is in the game is MIT licensed and other people started contributing to the web version of the game. It’s deviated from my vision that I had for the iOS version of the game and the changes that I made to the iOS version. So you – across time, it’s been two or three years now, you can play both versions and see how they’ve changed/evolved overtime.
 
@@ -122,7 +120,7 @@ So there’s only so much people care ADR. I can talk about The Dark Room and th
 
 **AMIR:** Yeah. So for me, I’ve tried Facebook. I’ve tried Facebook ads. I made the same mistake there.
 
-I’m not very active on Facebook. You need to have an audience built before you can pitch a product so I didn’t have the audience built there. I tried Facebook ads; that didn’t work for me and my budget was about $150 a day. I did that for about two weeks to three weeks. That was really painful and expensive but it didn’t work out for me. But one thing that did really well for me was Reddit. The way I came – the way I came – the way I stumbled across Reddit was really interesting – through Twitter.
+I’m not very active on Facebook. You need to have an audience built before you can pitch a product so I didn’t have the audience built there. I tried Facebook ads; that didn’t work for me and my budget was about \$150 a day. I did that for about two weeks to three weeks. That was really painful and expensive but it didn’t work out for me. But one thing that did really well for me was Reddit. The way I came – the way I came – the way I stumbled across Reddit was really interesting – through Twitter.
 
 So I was on Twitter and then I received a reply from someone, saying that they were trying to play the game and they were having issues playing this game. And I was talking to them and I was like, “What? What’s wrong? What bugs are you seeing?” And he’s like, “Well, I’m having trouble with this ASCII map. It’s part of the game that reveals an ASCII map.” And he was having difficulties with that aspect of the game mechanic and I play tested this thing for way too long. He comes back and says, “No, I’m blind. I’m actually using the voice over [inaudible] of iOS to play your game.” And the real interesting thing was that because of the text-based adventure, he was explicitly searching for the word “text-based” or “text venture” in the App Store and that’s where he’s able to find it.
 
@@ -184,7 +182,7 @@ Another thing that I ended up doing was that anytime someone recommended a Dark 
 
 **AMIR:** Yup. So I can speak a little bit to those techniques. Was there something else that you wanted to [crosstalk]?
 
-**ANDREW:** Yes, I was just going to say it’s refreshing for me to hear that you’re not doing that and you’re still seeing some good success. So I wonder – I get the feeling maybe I’m wrong but you’re probably not making $250,000 a month.
+**ANDREW:** Yes, I was just going to say it’s refreshing for me to hear that you’re not doing that and you’re still seeing some good success. So I wonder – I get the feeling maybe I’m wrong but you’re probably not making \$250,000 a month.
 
 **AMIR:** No, I’m not. [Chuckles]
 
@@ -196,7 +194,7 @@ Another thing that I ended up doing was that anytime someone recommended a Dark 
 
 **AMIR:** Yeah. So a couple of things, so let’s touch on as far as the income and things like that. I make anywhere from – on the low end, when ADR was – so ADR hit the number one spot and it was – it did its 18-day thing and at that spot, I was getting about anywhere from 12 to $20,000 a day so that is some serious money coming in during that time period and it tapered off. By the time November came around, I was back down to $100 a day.
 
-So as off today, all – I have three games. My three games together, I get anywhere from three to $800 a day for my three games. It’s not a lot of money. If you think about it, Apple takes 30%. Being self-employed, 15% goes to taxes on top of the income, my income tax. So I have to pay a self-employment tax and then the income tax on top of that. So I make maybe any – and I have partnerships involved, too. So I net anywhere from 20 to 0 cents on my games. All my games are 99 cents so basically, I net anywhere from 20 to 40%, in this case, 40% on my games.
+So as off today, all – I have three games. My three games together, I get anywhere from three to \$800 a day for my three games. It’s not a lot of money. If you think about it, Apple takes 30%. Being self-employed, 15% goes to taxes on top of the income, my income tax. So I have to pay a self-employment tax and then the income tax on top of that. So I make maybe any – and I have partnerships involved, too. So I net anywhere from 20 to 0 cents on my games. All my games are 99 cents so basically, I net anywhere from 20 to 40%, in this case, 40% on my games.
 
 It’s not a lot of money but the other [inaudible] aspect of it is that being a premium game and being a one-man shop, I don’t need a big piece of pie. So the triple A – all the triple A companies are competing in this flooded market while getting to a top ranking RPG category or in the music category doesn’t take a lot of downloads. You get that visibility immediately without much effort actually. So it’s a really interesting angle specifically for your small time developer take; you find your niche, you find – you take more of grassroots and a bottom up approach, get people that really care about what you’re building, have them recommend it and then slowly, your app, even a hundred downloads could make it into the top 100 of the category. Getting about 500 downloads at a four-day moving average, that’s about what I’ve been able to see. It’ll get you in the top 100.
 
@@ -210,11 +208,11 @@ You get a lot of the small money coming together and really giving you something
 
 **ANDREW:** It’s sort of a different model than I think we hear a lot. And I know – and I tell people and iOS developers, just like families and friends and whatever, a lot of times they’ll say, “Oh, I have an idea for a million dollar app,” and I think, “Well, I’m not really trying to make a million dollar app; I just want to make [crosstalk] stuff up.”
 
-**AMIR:** All we make is [inaudible] – I want to make a $4,000 app.
+**AMIR:** All we make is [inaudible] – I want to make a \$4,000 app.
 
 **ANDREW:** Right. [Chuckles]
 
-**AMIR:** That’s something that I’ve tried to tell people, too, is that if your app can consistently make four to $5,000 annually, that’s success. Take that, solidify it. You don’t have to really put that much effort into building that out anymore; build your next app and then cross-pollinate and build your next app, and keep it brand consistent across your apps. That’s a really good way to make some sustainable income.
+**AMIR:** That’s something that I’ve tried to tell people, too, is that if your app can consistently make four to \$5,000 annually, that’s success. Take that, solidify it. You don’t have to really put that much effort into building that out anymore; build your next app and then cross-pollinate and build your next app, and keep it brand consistent across your apps. That’s a really good way to make some sustainable income.
 
 **ANDREW:** I want to change gears just a little bit. You mentioned before the show that you do a lot of other kinds of [inaudible] in particular, web development, Node and that sort of stuff. So did you have any iOS development experience before you started on Dark Room?
 
@@ -242,7 +240,7 @@ But my experience was strictly going in and saying, “I want this to be a learn
 
 **AMIR:** Do a part-time. Got plenty to do with part-time. I would not recommend anyone to take a year off to try to make a number one app in the App Store. Please don’t take that advice. But I think having a side hustle for lack of a better term, wake up in the morning – John Sonmez’s guide that really advocate – it’s wake up in the morning, code on some stuff and your first goal is to build an app, have something that you can deploy in the app store in about 46 weeks. This is actually something that I did with my third game and I’ll go into a little bit detail with that but try to think of something that you can build in about four to six weeks part-time. It doesn’t have to be big. It doesn’t have to be perfect because you can always submit an update.
 
-Get it on the App Store. Get some downloads, get some reviews, get some feedback and see if you can generate even a dollar a day. If it’s through ads, if it’s through IAP, if it’s through paid purchases, whatever you see from that perspective then iterate on that. And if you hit the $10 a day mark, that’s really good. Then you can start on your next app or you can decide if you want to do some spin off. I think that’s palpable to say doing part-time, try to build these assets slowly. It’s not going to happen overnight; you got to go slowly and release when we can. Don’t sweat the pressure of having a complete, perfect app the first day of release.
+Get it on the App Store. Get some downloads, get some reviews, get some feedback and see if you can generate even a dollar a day. If it’s through ads, if it’s through IAP, if it’s through paid purchases, whatever you see from that perspective then iterate on that. And if you hit the \$10 a day mark, that’s really good. Then you can start on your next app or you can decide if you want to do some spin off. I think that’s palpable to say doing part-time, try to build these assets slowly. It’s not going to happen overnight; you got to go slowly and release when we can. Don’t sweat the pressure of having a complete, perfect app the first day of release.
 
 The first day of release, probably no one’s going to download it. I don’t think that’s a surprise to anyone. Very few people are going to download it; even fewer people are going to give you reviews on it. Do just go ahead and put it out there and then iterate on it in public.
 
@@ -375,5 +373,3 @@ And then my final game – they’re not an indie shop; I guess they’re more e
 **AMIR:** I appreciate it man. Thanks for having me.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

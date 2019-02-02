@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 054: Rae Krantz
+  MAS 054: Rae Krantz
 date: 2018-10-03 12:53:40
 episode_number: 054
 duration: 35:20
 audio_url: https://media.devchat.tv/my-angular-story/MAS_054_Rae_Krantz.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** [Rae Krantz](https://twitter.com/rustbeltrae?lang=en)
 
@@ -150,7 +150,4 @@ Chuck talks about [Vue,](https://vuejs.org)[Angular](https://angular.io) and [Ja
 - My Work Team
 - [Cleveland Tech on Slack](http://cleveland-tech.herokuapp.com)
 
-
 ### Transcript
-
-

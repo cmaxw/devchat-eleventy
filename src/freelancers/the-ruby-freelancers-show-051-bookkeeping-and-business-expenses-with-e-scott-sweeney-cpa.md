@@ -1,20 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      The Ruby Freelancers Show 051 – Bookkeeping and Business Expenses with E. Scott Sweeney, CPA
+  The Ruby Freelancers Show 051 – Bookkeeping and Business Expenses with E. Scott Sweeney, CPA
 date: 2013-03-07 13:00:00
 episode_number: 051
-duration: 
+duration:
 audio_url: https://media.devchat.tv/freelancers/RFS051BookkeepingExpenses.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 Panel E. Scott Sweeney, CPA (Scott@CPASweeney.com 801-756-3394) Eric Davis (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:02 - Scott Sweeney Introduction The Ruby Freelancers Show 01...
-
-
 
 ### Transcript
 

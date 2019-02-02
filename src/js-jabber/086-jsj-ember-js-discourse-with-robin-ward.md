@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      086 JSJ Ember.js & Discourse with Robin Ward
+  086 JSJ Ember.js & Discourse with Robin Ward
 date: 2013-11-28 13:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
@@ -21,31 +21,34 @@ tags:
 - Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
 
 ### Discussion
+
 00:53 - Robin Ward Introduction
-- [@evil\_trout](https://twitter.com/evil_trout)
+
+- [@evil_trout](https://twitter.com/evil_trout)
 - [Discourse](http://www.discourse.org/)
-01:36 - [Discourse](http://www.discourse.org/)
+  01:36 - [Discourse](http://www.discourse.org/)
 - [Ruby Rogues: #106 - Discourse with Jeff Atwood](http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/)
 - [Ruby Rogues: #117 - Discourse Part 2 with Sam Saffron and Robin Ward](http://rubyrogues.com/117-rr-discourse-part-2-with-sam-saffron-and-robin-ward/)
-03:17 - Choosing and Using [Ember.js](http://emberjs.com/)
+  03:17 - Choosing and Using [Ember.js](http://emberjs.com/)
 - [Handlebars](http://handlebarsjs.com/)
 - The New Router
-10:49 - Performance
+  10:49 - Performance
 - [ember-renderspeed](https://github.com/eviltrout/ember-renderspeed)
 - [ember-performance](https://github.com/eviltrout/ember-performance)
-16:56 - The Future of Discourse
+  16:56 - The Future of Discourse
 - Infinite Scroll
 - Identity Map
-24:19 - “Single-page App” 26:27 - New Ember Features
+  24:19 - “Single-page App” 26:27 - New Ember Features
 - [Robin Ward: Computed Property Macros](http://eviltrout.com/2013/07/07/computed-property-macros.html)
 - Components
-30:17 - Web Components 32:00 - Getting Started with Ember
+  30:17 - Web Components 32:00 - Getting Started with Ember
 - [Ember: Guides](http://emberjs.com/guides/)
-33:32 - Ember vs [Angular](http://angularjs.org/)
+  33:32 - Ember vs [Angular](http://angularjs.org/)
 - [Alex Matchneer: ng-embereño](https://docs.google.com/presentation/d/1e0z1pT9JuEh8G5DOtib6XFDHK0GUFtrZrU3IfxJynaA/preview?sle=true#slide=id.p)
-35:26 - “Evil Trout”
+  35:26 - “Evil Trout”
 - [Forumwarz](http://www.forumwarz.com/)
-39:01 - Managing Authentication 40:49 - Server-side Languages 42:40 - Integration 45:20 - [Robin Ward: AngularJS vs Ember](http://eviltrout.com/2013/06/15/ember-vs-angular.html)
+  39:01 - Managing Authentication 40:49 - Server-side Languages 42:40 - Integration 45:20 - [Robin Ward: AngularJS vs Ember](http://eviltrout.com/2013/06/15/ember-vs-angular.html)
+
 ### Picks
 
 - [Angular Best Practices](http://pluralsight.com/training/Courses/TableOfContents/angular-best-practices) (Joe)
@@ -64,8 +67,7 @@ tags:
 - [Hearthstone](http://battle.net/hearthstone/) (Robin)
 
 ### In Two Weeks
+
 TC39 with Alex Russell
 
 ### Transcript
-
-

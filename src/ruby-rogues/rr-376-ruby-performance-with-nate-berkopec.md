@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 376: "Ruby Performance" with Nate Berkopec
+  RR 376: "Ruby Performance" with Nate Berkopec
 date: 2018-08-22 02:05:44
 episode_number: 376
 duration: 1:06:24
 audio_url: https://media.devchat.tv/ruby-rogues/RR_376_Ruby_Performance_with_Nate_Berkopec.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Eric Berry
 - David Richards
-**Special Guests:** Nate Berkopec
+  **Special Guests:** Nate Berkopec
 
 In this episode of Ruby Rogues, the panel talks to Nate Berkopec about Ruby Performance. Nate is a freelance [Ruby](https://www.ruby-lang.org/en/) performance consultant and he writes and works on Ruby application performance, specifically [Rails](https://rubyonrails.org/) applications, which he has been doing for the past 3 or 4 years. They talk about his past experience, what led him to Ruby performance, and why he loves [Turbolinks](https://github.com/turbolinks/turbolinks). They also touch on the two benefits to performance work, if Ruby performance on the back-end really matters for the majority of cases, and more!
 
@@ -92,7 +92,4 @@ Nate
 - [Kerbal Space Program](https://www.kerbalspaceprogram.com/en/)
 - [krpc for Ruby](https://github.com/TeWu/krpc-rb)
 
-
 ### Transcript
-
-

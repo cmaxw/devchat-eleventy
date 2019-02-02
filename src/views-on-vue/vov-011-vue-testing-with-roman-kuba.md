@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 011: Vue Testing with Roman Kuba
+  VoV 011: Vue Testing with Roman Kuba
 date: 2018-05-15 20:27:22
 episode_number: 011
 duration: 1:02:51
 audio_url: https://media.devchat.tv/viewsonvue/VoV_011_Vue_Testing_with_Roman_Kuba.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Chris Fritz
 - Erik Hanchett
@@ -97,7 +97,4 @@ Roman
 - [_Technology vs. Humanity_ by Gerd Leonhard](https://www.amazon.com/Technology-vs-Humanity-Between-Futurescapes/dp/0993295827)
 - Vue.js course to come on Packt Publishing
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 033: "Finding Your Dream Job" with Panelists
+  RRU 033: "Finding Your Dream Job" with Panelists
 date: 2018-10-16 10:00:16
 episode_number: 033
 duration: 44:19
 audio_url: https://media.devchat.tv/reactroundup/RRU_033_Finding_Your_Dream_Job_with_Panelists.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood (DevChat T.V.)](https://twitter.com/cmaxw?lang=en)
 - [Nader Dabit](https://twitter.com/dabit3?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
@@ -180,7 +180,4 @@ Justin
 - [DocZ](https://www.docz.site)
 - [Jasper](https://jasperapp.io)
 
-
 ### Transcript
-
-

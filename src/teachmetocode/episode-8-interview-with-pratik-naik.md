@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      RC 8 - Interview with Pratik Naik
+  RC 8 - Interview with Pratik Naik
 date: 2010-02-11 02:12:16
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -30,4 +30,4 @@ In this interview with Pratik, we discuss several things, including:
 - Code Organization
 - [Shoulda](http://thoughtbot.com/community/)
 - [Webrat](http://github.com/brynary/webrat)
-[Download this Episode](http://media.libsyn.com/media/charlesmaxwood/RailsCoach008InterviewwithPratikNaik.mp3)
+  [Download this Episode](http://media.libsyn.com/media/charlesmaxwood/RailsCoach008InterviewwithPratikNaik.mp3)

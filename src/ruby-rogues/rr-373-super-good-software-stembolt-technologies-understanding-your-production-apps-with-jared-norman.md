@@ -1,25 +1,25 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 373: Super Good Software/Stembolt Technologies - Understanding Your Production Apps with Jared Norman
+  RR 373: Super Good Software/Stembolt Technologies - Understanding Your Production Apps with Jared Norman
 date: 2018-08-01 04:05:57
 episode_number: 373
 duration: 51:37
 audio_url: https://media.devchat.tv/ruby-rogues/RR_373_Super_Good_Software_Stembolt_Technologies_Understanding_Your_Production_Apps_with_Jared_Norman.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - David Richards
 - Eric Berry
 - Catherine Meyers
 - Dave Kimura
-**Special Guests:** Jared Norman
+  **Special Guests:** Jared Norman
 
 In this episode of Ruby Rogues, the panel talks to Jared Norman about understanding your production apps. Jared has been programming since he was about 10 years old and for the past 7 years, he has been doing [Ruby](https://www.ruby-lang.org/en/). These days, he runs a consultancy company called [Super Good Software](https://supergood.software/) doing [Ruby on Rails](https://rubyonrails.org/) stuff and mostly eCommerce. They talk about his article [_You Can’t Save Everyone: Some Exceptions Should Be Left Alone_](https://supergood.software/you-cant-save-everyone/)_,_ when capturing exceptions is the right way to go, developing with good visibility in mind, and more!
 
@@ -29,11 +29,11 @@ In this episode of Ruby Rogues, the panel talks to Jared Norman about understand
 - Founder of [Super Good Software](https://supergood.software/)
 - Article - [_You Can’t Save Everyone: Some Exceptions Should Be Left Alone_](https://supergood.software/you-cant-save-everyone/)
 - [Solidus](https://github.com/solidusio/solidus) and [Spree](https://github.com/spree/spree)
-- Rescue\_from Exception
+- Rescue_from Exception
 - Injecting special error reporting
 - Don’t necessarily want to rescue all exceptions
 - Injecting an error reporting tool
-- Trying to think of a good reason to rescue\_from exception
+- Trying to think of a good reason to rescue_from exception
 - Loss of visibility
 - [_Exceptional Ruby_ by Avdi Grimm](http://exceptionalruby.com/)
 - [Ruby Rogues Episode 19](https://devchat.tv/ruby-rogues/019-rr-book-club-exceptional-ruby-with-avdi-grimm)
@@ -44,7 +44,7 @@ In this episode of Ruby Rogues, the panel talks to Jared Norman about understand
 - Having enough information to attack problems when they arise
 - Dig method for hashes
 - Elegance of [Ruby](https://www.ruby-lang.org/en/) that allows you to not work as hard
-- Developing code for better exception handling 
+- Developing code for better exception handling
 - Developing with visibility in mind
 - And much, much more!
 
@@ -101,7 +101,4 @@ Jared
 - [fzf](https://github.com/junegunn/fzf)
 - [fzy](https://github.com/jhawthorn/fzy)
 
-
 ### Transcript
-
-

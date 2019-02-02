@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 242: Surveying How Swift Evolves with Andrew McKnight
+  iPS 242: Surveying How Swift Evolves with Andrew McKnight
 date: 2018-05-31 10:00:01
 episode_number: 242
 duration: 45:54
 audio_url: https://media.devchat.tv/iphreaks/iPS_242_Surveying_How_Swift_Evolves_with_Andrew_McKnight.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Gui Rambo
 - Andrew Madsen
@@ -26,21 +26,21 @@ In today's episode, the iPheaks panelist speak with Andrew McKnight about Survey
 **In particular, we dive pretty deep on:**
 
 - What was being surveyed? - Utility Libraries and general purpose
-- How did you search for Utility Libraries? 
-- What is the purpose of the utility libraries? 
-- Duplicate extensions 
+- How did you search for Utility Libraries?
+- What is the purpose of the utility libraries?
+- Duplicate extensions
 - What are the most popular extensions that are recreated?
 - String and Trim
 - What is trim()?
-- Why is targeting utility libraries problematic? 
-- What is the goal? 
-- Did you find wrong or dangerous implementations? 
-- Why is their discussion/drama around gathering these extensions? 
-- Would these be good topics to file Radars? 
-- Brisk -&nbsp;[https://github.com/br1sk/brisk](https://github.com/br1sk/brisk) 
-- What is it like entering the Swift Evolution Process? 
+- Why is targeting utility libraries problematic?
+- What is the goal?
+- Did you find wrong or dangerous implementations?
+- Why is their discussion/drama around gathering these extensions?
+- Would these be good topics to file Radars?
+- Brisk -&nbsp;[https://github.com/br1sk/brisk](https://github.com/br1sk/brisk)
+- What is it like entering the Swift Evolution Process?
 - Can a community-driven proposal gain traction?
-- Did you look into custom types like Result\<T\>? 
+- Did you look into custom types like Result\<T\>?
 - And much much more!
 
 **Links:**
@@ -58,7 +58,7 @@ In today's episode, the iPheaks panelist speak with Andrew McKnight about Survey
 Gui
 
 - [Daily WTF](https://thedailywtf.com)
-- 
+-
 
 Erica
 
@@ -67,7 +67,7 @@ Erica
 
 Andrew
 
-- Antibiotics 
+- Antibiotics
 - [Tic-80 Tiny Computer](https://tic.computer)
 
 Jaim
@@ -78,7 +78,4 @@ Andrew McKnight
 
 - [Public Extension mailing list](https://www.getrevue.co/profile/publicextension)
 
-
 ### Transcript
-
-

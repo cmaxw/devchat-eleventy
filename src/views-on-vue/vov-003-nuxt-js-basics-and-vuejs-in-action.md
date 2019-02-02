@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 003: Nuxt.js Basics and VueJS in Action
+  VoV 003: Nuxt.js Basics and VueJS in Action
 date: 2018-03-20 10:00:31
 episode_number: 003
 duration: 27:35
 audio_url: https://media.devchat.tv/viewsonvue/VoV_003_Nuxt.js_Basics_and_VueJS_in_Action.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Erik Hanchett
@@ -28,7 +28,7 @@ In this episode of Views on Vue, the panelists discuss the [Nuxt.js](https://nux
 - Nuxt.js features
 - What is a universal Vue.js application?
 - Use it for SEO or to get a faster page speed
-- Server side rendering 
+- Server side rendering
 - How hard is it to set up?
 - [Vue CLI](https://vuejs.org/v2/guide/installation.html#CLI)
 - His book [_Vue.js in Action_](https://www.manning.com/books/vue-js-in-action)
@@ -64,7 +64,4 @@ Erik
 
 - [StaticGen.com](https://www.staticgen.com/)
 
-
 ### Transcript
-
-

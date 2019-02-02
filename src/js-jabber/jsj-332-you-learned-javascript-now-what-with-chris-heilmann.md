@@ -1,19 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 332: “You Learned JavaScript, Now What?” with Chris Heilmann
+  JSJ 332: “You Learned JavaScript, Now What?” with Chris Heilmann
 date: 2018-09-25 11:07:08
 episode_number: 332
 duration: 1:13:57
 audio_url: https://media.devchat.tv/js-jabber/JSJ_332_You_Learned_JavaScript_Now_What_with_Chris_Heilmann.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
   - new_programmers
 ---
 
- **Panel:**
+**Panel:**
 
 - [AJ O’Neal](https://twitter.com/coolaj86?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Aimee Knight](http://www.aimeemarieknight.com)
@@ -206,7 +206,7 @@ Chris: There are highly frequent websites that aren’t being maintained and the
 - [Sentry](https://sentry.io/welcome/)
 - [Digital Ocean](https://www.cachefly.com)
 - [Cache Fly](https://www.cachefly.com)
-- 
+-
 
 **Picks :**
 
@@ -236,7 +236,4 @@ Chris
 - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
 - [It Is Just You, Everything’s Not Shit](https://www.amazon.co.uk/Just-You-Everythings-Not-Shit/dp/1905548672/ref=as_li_ss_tl?ie=UTF8&qid=1534280345&sr=8-1&keywords=not+everything+is+shit&linkCode=sl1&tag=christianheil-21&linkId=a1ebc43d1b7c6b9ccc60caccc30b5533&language=en_GB)
 
-
 ### Transcript
-
-

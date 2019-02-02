@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 055: Johannes Schickling
+  MJS 055: Johannes Schickling
 date: 2018-04-04 15:47:36
 episode_number: 055
 duration: 40:13
 audio_url: https://media.devchat.tv/my-js-story/MJS_055_Johannes_Schickling.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Johannes Schickling
 
@@ -72,7 +72,4 @@ Johannes
 - [GraphQL Europe](https://www.graphql-europe.org/)
 - [GraphQL Day](https://www.graphqlday.org/)
 
-
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      About
+  About
 date: 2016-05-03 19:15:46
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: page
-tags: 
+tags:
   - page
 ---
 
@@ -18,4 +18,4 @@ Devchat.tv has a mission to empower programmers to change the world by helping t
 - Exploring ways that the art of code can be used to enhance our understanding of and increase our influence over the areas of life that we as human beings are passionate about.
 - Mastering and explaining current and new technologies that will form the backbone of the next wave of innovation.
 - Providing a platform for current and upcoming leaders to inspire movement into the next generations of technological advances.
-We currently do this by providing online audio and video content through podcasts, screencasts, online courses, and conferences. We also continuously watch for new ways to provide content that helps us fulfill our mission.
+  We currently do this by providing online audio and video content through podcasts, screencasts, online courses, and conferences. We also continuously watch for new ways to provide content that helps us fulfill our mission.

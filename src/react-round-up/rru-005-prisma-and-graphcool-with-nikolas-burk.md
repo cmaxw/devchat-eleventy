@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 005: Prisma and GraphCool with Nikolas Burk
+  RRU 005: Prisma and GraphCool with Nikolas Burk
 date: 2018-04-03 13:51:00
 episode_number: 005
 duration: 1:00:53
 audio_url: https://media.devchat.tv/reactroundup/RRU_005_Prisma_and%20_GraphCool_with_Nikolas_Burk.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Tara Manicsic
@@ -34,7 +34,7 @@ In this episode of React Round Up, the panel discusses [Prisma](https://www.pris
 - Using [GraphQL](https://graphql.org/) as the interface to the database
 - GraphQL is much simpler
 - [GraphQL Schema Definition Language](https://blog.graph.cool/graphql-sdl-schema-definition-language-6755bcb9ce51)
-- Why use Prisma? 
+- Why use Prisma?
 - Prisma as the database layer
 - Prisma is working on supporting more databases
 - What are the steps from database to messing with GraphCool and Prisma?
@@ -93,7 +93,4 @@ Nikolas
 - [GraphQL Day](https://www.graphqlday.org/)
 - [The Beginner's Guide to ReactJS by Kent C Dodds](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
 
-
 ### Transcript
-
-

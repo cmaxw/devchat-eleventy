@@ -1,21 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      124 AiA From Junior to Senior Developer
+  124 AiA From Junior to Senior Developer
 date: 2016-12-22 06:00:07
 episode_number: 124
 duration: 49:08
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA124_From_Junior_to_Senior_Developer.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 3:10 - Euphemisms for Junior Programmers5:00 - Is “Junior Developer” a useful label?15:25 - Junior/Senior Developer labels and correlations with knowledge 18:00 - Hiring and the interview process as a Junior Developer30:00 - Benchmarks for Senior Developers
+
 - [PluralSight Skills Assessment](https://www.pluralsight.com/product/tests)
 
 ### **Picks:**
+
 [Postman](https://www.getpostman.com/) (John)[National Hour of Code Week](https://hourofcode.com/) (John)[“Forgetfulness” by Billy Collins](https://www.poetryfoundation.org/poetrymagazine/poems/detail/37695) (Ward)[Asana](https://asana.com/) (Charles)Standard operating procedures for important tasks (Charles)
 
 ### Transcript

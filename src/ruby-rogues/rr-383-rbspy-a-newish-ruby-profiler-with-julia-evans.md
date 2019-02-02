@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 383: “Rbspy: A New(ish) Ruby Profiler!” with Julia Evans
+  RR 383: “Rbspy: A New(ish) Ruby Profiler!” with Julia Evans
 date: 2018-10-09 10:00:47
 episode_number: 383
 duration: 49:25
 audio_url: https://media.devchat.tv/ruby-rogues/RR_383_Rbspy_a_newish_Ruby_profiler_with_Julia_Evans.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 - [Dave Kimura](https://www.linkedin.com/in/kobaltz)
@@ -249,7 +249,7 @@ It’s fun to see people come in to make contributions.
 - [Ruby on Rails](https://rubyonrails.org)
 - [StackProf – GitHub](https://github.com/tmm1/stackprof)
 - [Ruby Spy](https://rbspy.github.io)
-- [Rails\_Panel – GitHub](https://github.com/dejan/rails_panel)
+- [Rails_Panel – GitHub](https://github.com/dejan/rails_panel)
 - [Julia Evans’ Twitter](https://twitter.com/b0rk)
 - [Julia Evans’ Blog](https://jvns.ca)
 - [Julia Evans’ GitHub](https://github.com/jvns)
@@ -273,7 +273,7 @@ Charles
 - [Elixir in Phoenix](https://phoenixframework.org/)
 - [Vue JS](https://vuejs.org/)
 - [Views on Vue](https://devchat.tv/views-on-vue/)
-- Side Projects 
+- Side Projects
 - [Doc McStuffins Headphones](https://www.amazon.com/s/?ie=UTF8&keywords=doc+mcstuffin+headphones&tag=googhydr-20&index=aps&hvadid=228951601422&hvpos=1t1&hvnetw=g&hvrand=6261848803680440785&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027276&hvtargid=kwd-315409398959&ref=pd_sl_6a74yt1xtv_e_p37)
 
 David
@@ -285,7 +285,4 @@ Julia
 - [Growing a Business](https://www.amazon.ca/Growing-Business-Paul-Hawken/dp/0671671642)
 - [Notability App](https://itunes.apple.com/us/app/notability/id360593530?mt=8)
 
-
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      TMTC 40 - RubyConf 2010
+  TMTC 40 - RubyConf 2010
 date: 2010-11-16 14:40:27
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -21,7 +21,7 @@ Thank you guys so much for helping me make it to RubyConf this year. It was a gr
 - Rite (Ruby Lite) which was announced as an embedded systems version of Ruby
 - Metric Fu Hotspots
 - Citrus
-I also ran into some familiar voices (from interviews) and new voices (that will be interviewed) including:
+  I also ran into some familiar voices (from interviews) and new voices (that will be interviewed) including:
 - David Heinemeier Hansson
 - Yehuda Katz
 - James Edward Gray II
@@ -29,4 +29,4 @@ I also ran into some familiar voices (from interviews) and new voices (that will
 - Michael Hartl
 - Chad Fowler
 - Dave Thomas
-Finally, I'd like to thank the handful of people who came up to me and told me how much they enjoy the podcast and screencast. It's great to talk to you guys. You inspire me to do better.[Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC40RubyConf2010.mp3)
+  Finally, I'd like to thank the handful of people who came up to me and told me how much they enjoy the podcast and screencast. It's great to talk to you guys. You inspire me to do better.[Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC40RubyConf2010.mp3)

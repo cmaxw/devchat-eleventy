@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 010:  Docker with Julian Fahrer
+  EMx 010:  Docker with Julian Fahrer
 date: 2018-07-26 22:08:37
 episode_number: 010
 duration: 1:01:14
 audio_url: https://media.devchat.tv/elixir-mix/EMx_010_Docker_with_Julian_Fahrer.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Eric Berry
@@ -25,8 +25,8 @@ In this episode of Elixir Mix, the panel talks to Julian Fahrer about Docker. [D
 **In particular, we dive pretty deep on:**
 
 - What is [Docker](https://www.docker.com/)?
-- Containers are very lightweight 
-- Containers VS virtual machines 
+- Containers are very lightweight
+- Containers VS virtual machines
 - How are people using Docker with [Erlang](https://www.erlang.org/) and/or [Elixir](https://elixir-lang.org/)?
 - What’s the applicability for using Docker?
 - Ability to set up complex systems
@@ -37,7 +37,7 @@ In this episode of Elixir Mix, the panel talks to Julian Fahrer about Docker. [D
 - Discourse uses Docker exclusively
 - [CodeFund](https://codefund.io/)
 - Are you saying that the projects are headed more towards open source using Docker?
-- Using Docker to have a front and backend separated experience 
+- Using Docker to have a front and backend separated experience
 - [Phoenix](https://phoenixframework.org/)
 - Main idea behind containers
 - Running things in isolation
@@ -89,7 +89,4 @@ Julian
 - [IndieHackers.com](https://www.indiehackers.com/)
 - [_The UltraMind Solution_ by Mark Hyman](https://www.amazon.com/dp/B001NLKU7S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
-
 ### Transcript
-
-

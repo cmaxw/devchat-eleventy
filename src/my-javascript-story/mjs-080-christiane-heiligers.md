@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 080: Ely Lucas
+  MJS 080: Ely Lucas
 date: 2018-10-10 10:00:40
 episode_number: 080
 duration: 35:40
 audio_url: https://media.devchat.tv/my-js-story/MJS_080_Ely_Lucas.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** [Ely Lucas](https://twitter.com/brooks_forsyth)
 
@@ -108,9 +108,6 @@ Charles
 Ely
 
 - [Fantasy Novel: Shadow of what was lost.](https://www.barnesandnoble.com/w/the-shadow-of-what-was-lost-james-islington/1120140256#/)
-- Ionic 
-
+- Ionic
 
 ### Transcript
-
-

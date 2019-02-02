@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 361: Ruby Elapsed Time with Luca Guidi
+  RR 361: Ruby Elapsed Time with Luca Guidi
 date: 2018-05-08 10:00:34
 episode_number: 361
 duration: 52:12
 audio_url: https://media.devchat.tv/ruby-rogues/RR_361_Ruby_Elapsed_Time_with_Luca_Guidi.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - David Richards
@@ -33,7 +33,7 @@ In this episode of Ruby Rogues, the panelists talk to Luca Guidi about Ruby elap
 - Time drifts
 - World clock and monatomic clock
 - The blindness around time
-- Building a system around time 
+- Building a system around time
 - Working on time and attendance
 - The things you don’t think about are what you take for granted
 - [RailsConf](https://railsconf.com/)
@@ -82,7 +82,4 @@ Luca
 - [_Daily Stoic_ by Yyan Holiday](https://dailystoic.com/)
 - [Digitakt](https://www.elektron.se/products/digitakt/)
 
-
 ### Transcript
-
-

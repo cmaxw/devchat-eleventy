@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 024: “Sagas” with Andrew Dryga from Hammer Corporation
+  EMx 024: “Sagas” with Andrew Dryga from Hammer Corporation
 date: 2018-10-23 10:00:52
 episode_number: 024
 duration: 54:00
 audio_url: https://media.devchat.tv/elixir-mix/EMx_024_Sagas_with_Andrew_Dryga_from_Hammer_Corp.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Mark Ericksen
 - Eric Berry
-- Josh Adams 
-- Nathan Hopkins 
+- Josh Adams
+- Nathan Hopkins
 
 **Special Guest:** [Andrew Dryga](http://www.dryga.com)
 
@@ -265,7 +265,7 @@ Nate
 
 Eric
 
-- Looking of Elixir Developers 
+- Looking of Elixir Developers
 - Metabase.com
 - [Polymail](https://polymail.io/)
 
@@ -273,7 +273,4 @@ Andrew
 
 - [Tide of History](https://wondery.com/shows/tides-of-history/)
 
-
 ### Transcript
-
-

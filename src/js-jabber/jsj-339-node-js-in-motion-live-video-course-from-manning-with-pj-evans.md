@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 339: Node.js In Motion Live Video Course from Manning with PJ Evans
+  JSJ 339: Node.js In Motion Live Video Course from Manning with PJ Evans
 date: 2018-11-13 11:00:24
 episode_number: 339
 duration: 49:32
 audio_url: https://media.devchat.tv/js-jabber/JSJ_339_Node.js_In_Motion_Livevideo_Course_from_Manning_with_PJ_Evans.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Aimee Knight
 - AJ O’Neal
@@ -265,7 +265,4 @@ PJ
 
 - [Music - Max Richter](https://www.maxrichtermusic.com/)
 
-
 ### Transcript
-
-

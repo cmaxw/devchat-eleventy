@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 028: Greg Wilson
+  MAS 028: Greg Wilson
 date: 2018-03-14 10:00:57
 episode_number: 028
 duration: 58:19
 audio_url: https://media.devchat.tv//my-angular-story/MAS_028_Greg_Wilson.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood **Guest:** Greg Wilson This week on My Angular Story, Charles speaks with Greg Wilson. Greg first got into programming when he took a computer class in college and realized that he really loved building software. He then went on to help build the world’s first wireless mouse and get a master’s degree in artificial intelligence. They really stress the importance of analytics and discuss many different studies on coding and bugs in today’s episode. **In particular, We dive pretty deep on:&nbsp;**
+**Panel:** Charles Max Wood **Guest:** Greg Wilson This week on My Angular Story, Charles speaks with Greg Wilson. Greg first got into programming when he took a computer class in college and realized that he really loved building software. He then went on to help build the world’s first wireless mouse and get a master’s degree in artificial intelligence. They really stress the importance of analytics and discuss many different studies on coding and bugs in today’s episode. **In particular, We dive pretty deep on:&nbsp;**
+
 - How did you first get into programming?
 - Originally was a Chemistry major
 - Graduated with an Engineering degree as a middle ground
@@ -32,7 +33,7 @@ tags:
 - What are you working on now?
 - [DataCamp](https://www.datacamp.com/)
 - And much, much more!
-**Links:&nbsp;**
+  **Links:&nbsp;**
 - [Rangle](https://rangle.io/)
 - [Ruby](http://www.ruby-lang.org/en/)
 - [Python](https://www.python.org/)
@@ -42,16 +43,13 @@ tags:
 - [Greg’s GitHub](https://github.com/gvwilson)
 - [@GVWilson](https://twitter.com/gvwilson?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Third-Bit.com](http://third-bit.com/)
-**Picks:** Charles
+  **Picks:** Charles
 - [St. George, Utah Parade of Homes](https://paradehomes.com/web/)
 - [Upside](https://upside.com/travel)
-Greg
+  Greg
 - Bridge Program in Ontario
 - JavaScript tutorial coming soon
 - [AOSABook.org](http://aosabook.org/en/index.html)
 - [Samson Meteor Microphone](https://www.amazon.com/Samson-Meteor-Studio-Microphone-Chrome/dp/B004MF39YS)
 
-
 ### Transcript
-
-

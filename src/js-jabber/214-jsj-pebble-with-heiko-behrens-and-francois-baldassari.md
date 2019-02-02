@@ -1,47 +1,49 @@
 ---
 layout: layouts/post.njk
 title: >
-      214 JSJ Pebble with Heiko Behrens and François Baldassari
+  214 JSJ Pebble with Heiko Behrens and François Baldassari
 date: 2016-06-01 07:00:38
 episode_number: 214
 duration: 58:15
 audio_url: https://media.devchat.tv/js-jabber/JSJ214Pebble.mp3?rss=true
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 ### Check out [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016)!
+
 &nbsp;02:11 - Heiko Behrens Introduction
+
 - [Twitter](https://twitter.com/HBehrens)
 - [GitHub](https://github.com/HBehrens)
 - [Blog](http://heikobehrens.net/)
-02:42 - François Baldassari Introduction
+  02:42 - François Baldassari Introduction
 - [Twitter](https://twitter.com/baldassarifr)
 - [GitHub](https://github.com/franc0is)
-03:04 - JavaScript and [Pebble](https://www.pebble.com/)
+  03:04 - JavaScript and [Pebble](https://www.pebble.com/)
 - [Espruino](http://www.espruino.com/)
 - [jerryscript](https://github.com/Samsung/jerryscript)
-06:40 - Watch vs Phone
+  06:40 - Watch vs Phone
 - [Pebble.js](https://pebble.github.io/pebblejs/)
-09:32 - Memory Constraints and Code Size Limitations
+  09:32 - Memory Constraints and Code Size Limitations
 - APIs
 - [rockyjs](https://github.com/pebble/rockyjs)
 - [tween.js](https://github.com/tweenjs/tween.js/)
-26:24 - Advantages of Writing in JavaScript32:09 - Capabilities of the Watch
+  26:24 - Advantages of Writing in JavaScript32:09 - Capabilities of the Watch
 - [iPhreaks Episode #153: Using Mobile Devices to Manage Diabetes with Scott Hanselman](https://devchat.tv/iphreaks/153-ips-using-mobile-devices-to-manage-diabetes-with-scott-hanselman)
-37:08 - Running Web Servers39:29 - Resources 
+  37:08 - Running Web Servers39:29 - Resources
 - [rockyjs](https://github.com/pebble/rockyjs)
 - [Newsletter](http://pbl.io/jsapps)
 - [Pebble Slack Channel](http://slack.pbldev.io/)
 - [Pebble Developer Page](http://developer.pebble.com)
 - [@PebbleDev](https://twitter.com/PebbleDev)
 - [Pebble TicToc Source](https://gist.github.com/HBehrens/1a91b97e1e98a6a09c5f)
-41:58 - Voice Capabilities43:06 - UI For the Round Face vs Square Face46:18 - Future Pebble Milestones&nbsp;Picks
+  41:58 - Voice Capabilities43:06 - UI For the Round Face vs Square Face46:18 - Future Pebble Milestones&nbsp;Picks
 - [Vortex Poker 3](https://corus-kb.com/en/27-pok3r) (Jamison)
 - [Thao & The Get Down Stay Down](http://www.thaoandthegetdownstaydown.com/) (Jamison)
-- [Maciej Ceglowski: Barely succeed! It's easier!](https://www.youtube.com/watch?v=5Vt8zqhHe_c&index=2&list=PL2NPrRGOCxjPvTFrAiVWlHEtcroBtlqqX) (Jamison) 
+- [Maciej Ceglowski: Barely succeed! It's easier!](https://www.youtube.com/watch?v=5Vt8zqhHe_c&index=2&list=PL2NPrRGOCxjPvTFrAiVWlHEtcroBtlqqX) (Jamison)
 - [The Way of Kings Trilogy by Brandon Sanderson](http://brandonsanderson.com/books/the-stormlight-archive/the-way-of-kings/) (Joe)
 - [Juniors Are Awesome](http://juniorsareawesome.org/) (Aimee)
 - [octotree](https://github.com/buunguyen/octotree) (Aimee)
@@ -52,9 +54,8 @@ tags:
 - [Fabien Chouteau: Make with Ada: Formal proof on my wrist](http://blog.adacore.com/make-with-ada-formal-proof-on-my-wrist) (François)
 - [pebble.rs](https://github.com/andars/pebble.rs) (François)
 - [The World of Yesterday by Stefan Zweig](http://www.goodreads.com/book/show/629429.The_World_of_Yesterday) (François)
-&nbsp;See Also
+  &nbsp;See Also
 - [iPhreaks Show Episode #146: Pebble with Heiko Behrens and Daniel Rodríguez Troitiño](https://devchat.tv/iphreaks/146-ips-pebble-with-heiko-behrens-and-daniel-rodr-guez-troiti-o/)
-
 
 ### Transcript
 
@@ -443,5 +444,3 @@ My third pick is a book. It's called 'The World of Yesterday' by Stefan Zweig. I
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

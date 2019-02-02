@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 251: XcodeGen and other Swift Tools with Yonas Kolb
+  iPS 251: XcodeGen and other Swift Tools with Yonas Kolb
 date: 2018-08-12 21:27:56
 episode_number: 251
 duration: 38:46
 audio_url: https://media.devchat.tv/iphreaks/iPS_251_XcodeGen_and_other_Swift_Tools_with_Yonas_Kolb.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Jaim Zuber
 
@@ -46,7 +46,7 @@ In today’s episode, the iPhreaks panel talks to Yonas Kolb about XcodeGen and 
 - What libraries do you use for writing shell commands?
 - [Mint](https://github.com/yonaskolb/Mint)
 - [Beak](https://github.com/yonaskolb/Beak)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -78,7 +78,4 @@ Yonas
 - [GitUp](http://gitup.co/)
 - [Xcode Build Settings Reference](https://help.apple.com/xcode/mac/10.0/#/itcaec37c2a6)
 
-
 ### Transcript
-
-

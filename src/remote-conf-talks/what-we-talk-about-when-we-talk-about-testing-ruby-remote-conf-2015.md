@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      What We Talk About When We Talk About Testing - Ruby Remote Conf 2015
+  What We Talk About When We Talk About Testing - Ruby Remote Conf 2015
 date: 2015-12-01 14:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: remote-conf-talks
-tags: 
+tags:
   - remote_conf_talks
   - podcast
 ---
@@ -17,5 +17,3 @@ tags:
 &nbsp;
 
 You may have struggled with TDD on these two issues, leading to giving up, or winding up with "uncanny valley" tests that are hard to maintain but don't provide support for change. Using a puzzle problem, we'll show how to expand on Red Green Refactor, so you can take advantage of the code-quality benefit of TDD.
-
-

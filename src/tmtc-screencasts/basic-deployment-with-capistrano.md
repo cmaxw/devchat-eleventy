@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Basic Deployment with Capistrano
+  Basic Deployment with Capistrano
 date: 2010-11-27 22:07:24
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

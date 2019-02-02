@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 388: RuboCop (and Emacs I guess :-)) with Bozhidar Batsov
+  RR 388: RuboCop (and Emacs I guess :-)) with Bozhidar Batsov
 date: 2018-11-13 11:00:25
 episode_number: 388
 duration: 1:09:06
 audio_url: https://media.devchat.tv/ruby-rogues/RR_388_RuboCop_and_Emacs_I_guess_with_Bozhidar_Batsov.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Dave Kimura
 - Charles (Chuck) Max Wood
-- Nate Hopkins 
+- Nate Hopkins
 
 **Special Guest:** [Dan Mayer](https://www.mayerdan.com)
 
@@ -196,7 +196,4 @@ Bozhidar
 - [Documentation for Markdown users](https://guides.github.com/features/mastering-markdown/)
 - [Bear App](https://itunes.apple.com/us/app/bear/id1091189122?mt=12)
 
-
 ### Transcript
-
-

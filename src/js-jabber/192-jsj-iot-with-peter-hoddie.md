@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      192 JSJ IoT with Peter Hoddie
+  192 JSJ IoT with Peter Hoddie
 date: 2015-12-30 16:00:00
 episode_number: 192
 duration: 0:58:50
 audio_url: https://media.devchat.tv/js-jabber/JSJ192IoT.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
@@ -31,10 +31,10 @@ Get your [JS Remote Conf](https://allremoteconfs.com/js-2016) tickets!
 10:41 - IoT and JavaScript
 
 - [XS6](http://kinoma.com/develop/documentation/js6/)
-- [Duktape](http://duktape.org/) 
-- [luvit](https://github.com/luvit/luvit) 
+- [Duktape](http://duktape.org/)
+- [luvit](https://github.com/luvit/luvit)
 - [Lua](http://www.lua.org/)
-- [Jewelbots](http://jewelbots.com/) 
+- [Jewelbots](http://jewelbots.com/)
 
 20:08 - Getting Started & Electrical Engineering
 
@@ -49,12 +49,8 @@ Get your [JS Remote Conf](https://allremoteconfs.com/js-2016) tickets!
 35:56 - Where is IoT heading as far as applications go?
 
 - Scriptability
-41:57 - Preparing Today for the FuturePicks
+  41:57 - Preparing Today for the FuturePicks
 
 [Let’s Encrypt](https://letsencrypt.org/) (AJ)[The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) (Jamison)[readthesource](http://hangouts.readthesource.io/) (Aimee)[Drip](https://www.getdrip.com/) (Chuck)[Twilio](https://www.twilio.com/) (Chuck)[JS Remote Conf](https://allremoteconfs.com/js-2016) (Chuck)[All Remote Confs](https://allremoteconfs.com/) (Chuck)[Standard ECMA-262](http://www.ecma-international.org/ecma-262/6.0/index.html) (Peter)[The Future of the Internet--And How to Stop It by Jonathan Zittrain](http://www.amazon.com/The-Future-Internet-And-How-Stop/dp/0300151241) (Peter)[Software Freedom Conservancy](https://sfconservancy.org/) (Peter)
 
-
-
 ### Transcript
-
-

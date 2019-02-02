@@ -1,22 +1,24 @@
 ---
 layout: layouts/post.njk
 title: >
-      208 FS Hanging with Buyers
+  208 FS Hanging with Buyers
 date: 2016-06-30 07:00:29
 episode_number: 208
 duration: 56:39
 audio_url: https://media.devchat.tv/freelancers/FS208HangingWithBuyers.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 ## Check out [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) \* and [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016)!!
+
 \* Editor’s Note: Ruby Remote Conf is over, but you can still purchase a ticket to get instant access to the talks!&nbsp;02:22 - Hanging with Buyers05:27 - Identifying a Niche and Finding That Expensive Problem12:27 - Strategies for Getting Noticed17:16 - Types of Buyers21:54 - Word of Mouth; Talking to Others
+
 - [Toastmasters](https://www.toastmasters.org/)
 - [Startups For the Rest of Us](http://www.startupsfortherestofus.com/)
-28:37 - Tips for Introverts37:35 - Tips for Recruiters47:43 - Value&nbsp;Picks
+  28:37 - Tips for Introverts37:35 - Tips for Recruiters47:43 - Value&nbsp;Picks
 - [Disrupted: My Misadventure in the Start-Up Bubble by Dan Lyons](https://www.amazon.com/Disrupted-My-Misadventure-Start-Up-Bubble/dp/0316306088) (Reuven)
 - [Beaver Builder](https://www.wpbeaverbuilder.com/) (Philip)
 - [Selling to Big Companies by Jill Konrath](http://www.amazon.com/Selling-Big-Companies-Jill-Konrath/dp/1419515624) (Philip)
@@ -24,10 +26,9 @@ tags:
 - [Fully Alive by Ken Davis](https://www.amazon.com/Fully-Alive-Ken-Davis/dp/B008MTDZ12) (Chuck)
 - [All Remote Conferences](https://allremoteconfs.com/) (Chuck)
 
-
 ### Transcript
 
- **REUVEN:** Seeing people eat scorpion on a stick is kind of wild.
+**REUVEN:** Seeing people eat scorpion on a stick is kind of wild.
 
 **_[This episode is sponsored by Hired.com. Hired.com is offering a new freelancing and contracting offering. They have multiple companies that will provide you with contract opportunities. They cover all the tracking, reporting and billing for you, they handle all the collections and prefund your paycheck, they offer legal and accounting and tax support, and they’ll give you $1,000 when you’ve been on a contract for 90 days. But with this link, they’ll double it to $2,000 instead. Go sign up at Hired.com/freelancersshow.]_**
 
@@ -348,5 +349,3 @@ And that’s all I got. I’m also going to remind people, Ruby Remote Conf prob
 And with that, I guess we’ll wrap up. Thank you both for coming and we’ll catch you all next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

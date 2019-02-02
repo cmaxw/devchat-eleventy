@@ -1,27 +1,29 @@
 ---
 layout: layouts/post.njk
 title: >
-      219 JSJ Learning JavaScript in 2016
+  219 JSJ Learning JavaScript in 2016
 date: 2016-07-06 07:00:04
 episode_number: 219
 duration: 54:49
 audio_url: https://media.devchat.tv/js-jabber/JSJ219Learning.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
-## Check out [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016)! 
+## Check out [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016)!
+
 &nbsp;02:44 - What it Takes to Learn JavaScript in 201604:03 - Resources: Then vs Now09:42 - Are there prerequisites? Should you have experience?20:34 - Choosing What to Learn
+
 - [The iPhreaks Show Episode #153: Using Mobile Devices to Manage Diabetes with Scott Hanselman](https://devchat.tv/iphreaks/153-ips-using-mobile-devices-to-manage-diabetes-with-scott-hanselman)
-28:19 - Deciding What to Learn Next 31:19 - Keeping Up: Obligations As a Developer34:22 - Deciding What to Learn Next (Cont’d)42:01 - Recommendations
+  28:19 - Deciding What to Learn Next 31:19 - Keeping Up: Obligations As a Developer34:22 - Deciding What to Learn Next (Cont’d)42:01 - Recommendations
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - [gulp.js](http://gulpjs.com/)
 - [webpack](https://webpack.github.io/)
 - [The Little Schemer](https://mitpress.mit.edu/books/little-schemer)
 - [Designing Data-Intensive Applications by Martin Kleppmann](http://dataintensive.net/)
-&nbsp;Picks 
+  &nbsp;Picks
 - [accidentally nonblocking](http://www.tedunangst.com/flak/post/accidentally-nonblocking) (Jamison)
 - [choo](https://github.com/yoshuawuyts/choo) (Jamison)
 - [Web Rebels](https://www.webrebels.org/) (Jamison)
@@ -32,10 +34,9 @@ tags:
 - [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016) (Chuck)
 - [Get A Coder Job](http://getacoderjob.com/) (Chuck)
 
-
 ### Transcript
 
- **JAMISON:&nbsp;** He's not actively stabbing me. What a nice guy.
+**JAMISON:&nbsp;** He's not actively stabbing me. What a nice guy.
 
 **_[This episode is sponsored by Front End Masters. They have a terrific lineup of live courses you can attend either online or in person. They also have a terrific backlog of courses you can watch including JavaScript the Good Parts, Build Web Applications with Node.js, AngularJS In-Depth, and Advanced JavaScript. You can go check them out at FrontEndMasters.com.]_**
 
@@ -416,5 +417,3 @@ I'm also thinking about whether or not I can go to React Rally, so check that ou
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

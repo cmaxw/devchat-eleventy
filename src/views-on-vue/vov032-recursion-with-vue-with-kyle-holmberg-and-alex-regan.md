@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 032: “Recursion with Vue” with Kyle Holmberg and Alex Regan
+  VoV 032: “Recursion with Vue” with Kyle Holmberg and Alex Regan
 date: 2018-10-09 10:00:14
 episode_number: 032
 duration: 1:14:24
 audio_url: https://media.devchat.tv/viewsonvue/VoV_032_Kyle_Holmberg_Alex_Regan_Recursion-with_Vue.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Chris Fritz](https://twitter.com/chrisvfritz?lang=en)
@@ -299,7 +299,4 @@ Alex
 - [System 76](https://system76.com)
 - [Rust](https://www.rust-lang.org/en-US/)
 
-
 ### Transcript
-
-

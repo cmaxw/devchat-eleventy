@@ -1,41 +1,43 @@
 ---
 layout: layouts/post.njk
 title: >
-      180 iPS Swift Playground Books with Ash Furrow
+  180 iPS Swift Playground Books with Ash Furrow
 date: 2016-11-24 06:00:50
 episode_number: 180
 duration: 34:35
 audio_url: https://media.devchat.tv/iphreaks/iPS180_Swift_Playground_Books_with_Ash_Furrow.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 0:15: Introduction
+
 - [Ash Furrow](https://ashfurrow.com/)
 - [Artsy](https://www.artsy.net/)
 - [Playground Books](https://ashfurrow.com/blog/building-swift-playground-books/)
-5:45: Capabilities
+  5:45: Capabilities
 - Customization
 - Coding
-9:45: Comparison to Apple
+  9:45: Comparison to Apple
 - [Learn to Code Playground book](https://ashfurrow.com/blog/building-swift-playground-books/)
 - Lack of tools
 - [RxSwift Playground](https://github.com/ReactiveX/RxSwift/tree/master/Rx.playground)
-14:50: Who are the books for?
+  14:50: Who are the books for?
 - [UICollectionView](https://developer.apple.com/reference/uikit/uicollectionview)
-18:00: The user experience
+  18:00: The user experience
 - Keyboarding
 - Auto-complete
-23:15: [Playground Book](https://github.com/playgroundbooks/playgroundbook) tool
+  23:15: [Playground Book](https://github.com/playgroundbooks/playgroundbook) tool
 - [Ruby](https://www.ruby-lang.org/en/)
 - Open-source project
-Debugging experience
+  Debugging experience
 - Configuration to Mac
 - [HyperCard](http://hypercard.org/)
 
 ### Picks:
+
 [Postman Mac App](https://www.getpostman.com/) (Andrew)[Turn Season Two](http://www.amc.com/shows/turn) (Rod)[Rod’s Blog](http://rodschmidt.com/) (Rod)[Dark Matter](http://www.syfy.com/darkmatter) (Ash)
 
 ### Transcript

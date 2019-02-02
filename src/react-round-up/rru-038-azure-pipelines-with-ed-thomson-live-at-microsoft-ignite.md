@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 038: Azure Pipelines with Ed Thomson LIVE at Microsoft Ignite
+  RRU 038: Azure Pipelines with Ed Thomson LIVE at Microsoft Ignite
 date: 2018-11-20 11:00:01
 episode_number: 038
 duration: 48:52
 audio_url: https://media.devchat.tv/reactroundup/RRU_038_Azure_Pipelines_with_Ed_Thomson_LIVE_at_Microsoft_Ignite.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
@@ -264,7 +264,4 @@ Ed
 
 - [Podcast - All Things Git](https://www.allthingsgit.com/)
 
-
 ### Transcript
-
-

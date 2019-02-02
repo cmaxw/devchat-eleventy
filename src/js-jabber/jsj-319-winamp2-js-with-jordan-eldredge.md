@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 319: Winamp2-js with Jordan Eldredge
+  JSJ 319: Winamp2-js with Jordan Eldredge
 date: 2018-06-26 10:00:06
 episode_number: 319
 duration: 48:37
 audio_url: https://media.devchat.tv//js-jabber/JSJ_319_Winamp2-js_with_Jordan_Eldredge.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - AJ ONeal
@@ -26,7 +26,7 @@ In this episode, the JavaScript Jabber panelists discuss Winamp2-js with Jordan 
 **In particular, we dive pretty deep on:**
 
 - What is [Winamp2-js](https://github.com/captbaritone/webamp)?
-- The history and future of Winamp 
+- The history and future of Winamp
 - [WACUP](https://getwacup.com/)
 - Winamp was the first big mp3 player that you could style
 - Webamp’s features and the technical challenges associated with them
@@ -47,7 +47,7 @@ In this episode, the JavaScript Jabber panelists discuss Winamp2-js with Jordan 
 - Making [Webamp](https://github.com/captbaritone/webamp) an Electron app
 - Winamp visualizers being ported to the web
 - The domain name [webamp.org](https://webamp.org/)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -96,7 +96,4 @@ Jordan
 - [Rust](https://www.rust-lang.org/en-US/)
 - [@winampskins](https://twitter.com/winampskins)
 
-
 ### Transcript
-
-

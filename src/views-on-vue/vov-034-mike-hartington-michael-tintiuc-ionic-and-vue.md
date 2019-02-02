@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 034: Mike Hartington & Michael Tintiuc : "Ionic and Vue"
+  VoV 034: Mike Hartington & Michael Tintiuc : "Ionic and Vue"
 date: 2018-10-23 10:00:20
 episode_number: 034
 duration: 1:14:38
 audio_url: https://media.devchat.tv/viewsonvue/VoV_034_Mike_Hartington_%26_Michael_Tintiuc_Ionic_and_Vue.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Chris Fritz](https://twitter.com/chrisvfritz?lang=en)
 - [Divya Sasidharan](https://www.linkedin.com/in/shortdiv)
-- [Joe Eames](https://twitter.com/josepheames?lang=en) 
+- [Joe Eames](https://twitter.com/josepheames?lang=en)
 - [John Papa](https://twitter.com/John_Papa?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Special Guest:** Mike Hartington and Michael Tintiuc
@@ -381,7 +381,4 @@ Joe
 - [Burn After Reading](https://www.imdb.com/title/tt0887883/?ref_=nv_sr_1)
 - [Goodbye Redux](https://hackernoon.com/goodbye-redux-26e6a27b3a0b)
 
-
 ### Transcript
-
-

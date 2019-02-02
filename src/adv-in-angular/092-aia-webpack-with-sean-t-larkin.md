@@ -1,38 +1,39 @@
 ---
 layout: layouts/post.njk
 title: >
-      092 AiA webpack with Sean T. Larkin
+  092 AiA webpack with Sean T. Larkin
 date: 2016-05-12 07:00:35
 episode_number: 092
 duration: 47:18
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA092WebPack.mp3?rss=true
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 01:53 - Sean T. Larkin Introduction
+
 - [Twitter](https://twitter.com/TheLarkInn)
 - [GitHub](https://github.com/TheLarkInn)
 - [Stack Overflow](https://stackoverflow.com/cv/seanlarkin)
 - [Mutual of Omaha](http://www.mutualofomaha.com/)
-02:17 - Configuration02:56 - [webpack](https://webpack.github.io/)06:17 - [Grunt](http://gruntjs.com/) and [gulp](http://gulpjs.com/) vs webpack 08:02 - Plugins and Loaders
+  02:17 - Configuration02:56 - [webpack](https://webpack.github.io/)06:17 - [Grunt](http://gruntjs.com/) and [gulp](http://gulpjs.com/) vs webpack 08:02 - Plugins and Loaders
 - [ng-annotate](https://github.com/olov/ng-annotate)
 - [ng-annotate-loader](https://www.npmjs.com/package/ng-annotate-loader)
-09:49 - Downsides10:46 - Writing Less Code?12:50 - Configuration (Cont’d)
+  09:49 - Downsides10:46 - Writing Less Code?12:50 - Configuration (Cont’d)
 - [NgWebpackStarter](https://github.com/btroncone/NgWebpackStarter)
-14:23 - Metrics and Speed
+  14:23 - Metrics and Speed
 - [Sightspeed.io](https://www.sitespeed.io/)
-18:12 - Migration Risk20:29 - The Learning Curve22:04 - webpack with Angular 224:21 - webpack and Angular 126:05 - Getting Started with webpack
+  18:12 - Migration Risk20:29 - The Learning Curve22:04 - webpack with Angular 224:21 - webpack and Angular 126:05 - Getting Started with webpack
 - [angular-starter-es6-webpack](https://github.com/TheLarkInn/angular-starter-es6-webpack)
-27:34 - Why use webpack with your Angular 2 build?
+  27:34 - Why use webpack with your Angular 2 build?
 - [Systemjs](https://github.com/systemjs/systemjs)
-36:32 - webpack Integration
+  36:32 - webpack Integration
 
 ### Transcript
 
- **CHUCK:&nbsp;** Well, should we do an episode?
+**CHUCK:&nbsp;** Well, should we do an episode?
 
 **_[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on JavaScript developers, providing them with salary and equity upfront. The average JavaScript developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $1,000 bonus as a thank you for using them. But if you use the Adventures in Angular link, you’ll get a $2,000 bonus instead. Finally, if you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept a job. Go sign up at Hired.com/AdventuresInAngular.]_**
 
@@ -419,5 +420,3 @@ And then the last thing would be anybody who's interested in Webpack in Angular 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
 
 **_[End of podcast]_**
-
-

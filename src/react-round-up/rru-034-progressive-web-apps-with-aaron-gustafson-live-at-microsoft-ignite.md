@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 034: “Progressive Web Apps” with Aaron Gustafson / Live at Microsoft Ignite
+  RRU 034: “Progressive Web Apps” with Aaron Gustafson / Live at Microsoft Ignite
 date: 2018-10-23 10:00:23
 episode_number: 034
 duration: 55:27
 audio_url: https://media.devchat.tv/reactroundup/RRU_034_Progressive_Web_Apps_with_Aaron_Gustafson_LIVE_at_Microsoft_Ignite.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood (DevChat T.V.)](https://twitter.com/cmaxw?lang=en)
 
@@ -196,7 +196,4 @@ Charles
 
 - [Armada](https://www.amazon.com/Armada-novel-author-Ready-Player-ebook/dp/B00TNDID0O/ref=sr_1_3?s=books&ie=UTF8&qid=1540156933&sr=1-3&keywords=ready+player+one)
 
-
 ### Transcript
-
-

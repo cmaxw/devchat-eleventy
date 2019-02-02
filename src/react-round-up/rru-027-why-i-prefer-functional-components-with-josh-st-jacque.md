@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 027: "Why I Prefer Functional Components" with Josh St. Jacque
+  RRU 027: "Why I Prefer Functional Components" with Josh St. Jacque
 date: 2018-09-04 10:00:02
 episode_number: 027
 duration: 43:22
 audio_url: https://media.devchat.tv/reactroundup/RRU_027_Why_I_Prefer_Functional_Components_with_Josh_St_Jacque.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Nader Dabit
@@ -118,7 +118,4 @@ In this episode, the panel talks with Josh St. Jacque who is married with two ki
 - [VS Code Extension](https://code.visualstudio.com/blogs/2017/02/12/code-lens-roundup)
 - Weight Loss – Ice Cream – [Enlightened](https://eatenlightened.com/collections/high-protein-low-sugar-ice-cream-pints?utm_source=bing&utm_medium=cpc&utm_campaign=sem&ads_cmpid=652260230&ads_adid=47222708105&ads_matchtype=b&ads_network=g&ads_creative=255135686341&utm_term=%252Benlightenment%2520%252Bice%2520%252Bcream&ads_targetid=kwd-318302195649&utm_campaign=&utm_source=adwords&utm_medium=ppc&ttv=2&gclid=EAIaIQobChMI5_b4rP2k3QIVwrrACh00eQGhEAAYASAAEgJUg_D_BwE)
 
-
 ### Transcript
-
-

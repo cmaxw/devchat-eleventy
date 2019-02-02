@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 078: Steve Edwards
+  MJS 078: Steve Edwards
 date: 2018-09-26 13:29:44
 episode_number: 078
 duration: 39:09
 audio_url: https://media.devchat.tv/my-js-story/MJS_078_Steve_Edwards.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
 **Guest:** [Steve Edwards](https://twitter.com/wonder95)
 
@@ -66,7 +66,7 @@ Personal experience you can help people and find
 
 24:37 – Chuck: Any recommendations?
 
-24:42 – Steve: The amount of courses that are out there, and it can be overwhelming. Find courses when they go on sale. I found some courses that were only $10.00. There is stuff that is free and things that you can pay for. It can be inexpensive.
+24:42 – Steve: The amount of courses that are out there, and it can be overwhelming. Find courses when they go on sale. I found some courses that were only \$10.00. There is stuff that is free and things that you can pay for. It can be inexpensive.
 
 26:38 – Chuck: I do the same thing. I wait for things to go on sale first. I’ve done that with courses. However you learn it. Some people work through a book and for others that’s not the way. Sometimes I will start with a video course then I get frustrated. It helps, though. There are different ways to do it. Go do it.
 
@@ -111,7 +111,7 @@ Personal experience you can help people and find
 - [Book: Launch by Jeff Walker](http://thelaunchbook.com)
 - [Get A Coder Job](https://devchat.tv/get-a-coder-job/)
 - [Code Badge](https://www.kickstarter.com/projects/521063736/codebadgeorg)
-- System to help manage the podcast – scheduling, promotion, etc. 
+- System to help manage the podcast – scheduling, promotion, etc.
 - [The Librarians](https://www.hulu.com/series/the-librarians-f8751b7a-2d4b-46f1-bcae-df7b8e317f99) – TV show
 - [Sling – BYU football games](https://www.sling.com/programming/sports/schedules)
 
@@ -121,7 +121,4 @@ Personal experience you can help people and find
 - [CrossFit](https://www.crossfit.com)
 - [CrossFit Games](https://games.crossfit.com/teamseries)
 
-
 ### Transcript
-
-

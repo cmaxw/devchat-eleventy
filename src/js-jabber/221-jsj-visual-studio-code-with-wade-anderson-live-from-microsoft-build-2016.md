@@ -1,21 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      221 JSJ Visual Studio Code with Wade Anderson Live From Microsoft Build 2016
+  221 JSJ Visual Studio Code with Wade Anderson Live From Microsoft Build 2016
 date: 2016-07-20 07:00:17
 episode_number: 221
 duration: 36:56
 audio_url: https://media.devchat.tv/js-jabber/JSJ221BUILDWadeAnderson.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/) 2016. In this episode we chatted with Wade Anderson of Microsoft about [Visual Studio Code](https://code.visualstudio.com/). You can follow him on [Twitter](https://twitter.com/waderyan_), or check out what he’s done over on [GitHub](https://github.com/waderyan).&nbsp;Picks
+
 - [Parks and Recreation](http://www.imdb.com/title/tt1266020/) (Wade)
 - [VidAngel](https://www.vidangel.com/browse) (Wade)
-&nbsp;A special thanks again goes out to [Richard Campbell](https://twitter.com/richcampbell) and [Carl Franklin](https://twitter.com/carlfranklin) from [.NETRocks](https://www.dotnetrocks.com/) for putting this podcast series together! You rock!
+  &nbsp;A special thanks again goes out to [Richard Campbell](https://twitter.com/richcampbell) and [Carl Franklin](https://twitter.com/carlfranklin) from [.NETRocks](https://www.dotnetrocks.com/) for putting this podcast series together! You rock!
 
 ### Transcript
 
@@ -282,5 +283,3 @@ In the download button, it's right there on the front of the page. You can click
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

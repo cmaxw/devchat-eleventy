@@ -1,21 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 038: Webassembly and Typescript with  Eduardo San Martin Morote
+  VoV 038: Webassembly and Typescript with  Eduardo San Martin Morote
 date: 2018-11-20 11:00:01
 episode_number: 038
 duration: 56:03
 audio_url: https://media.devchat.tv/viewsonvue/VoV_038_Webassembly_and_Typescript_with_Eduardo_San_Martin_Morote.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
-- Chris Fritz 
-- Joe Eames 
+- Chris Fritz
+- Joe Eames
 - Divya Sasidharan
 
 **Special Guest:** [Eduardo San Martin Morote](https://github.com/posva)
@@ -248,7 +248,7 @@ Try TypeScript – it might be for you!
 - [VS CODE](https://code.visualstudio.com/docs/languages/jsconfig)
 - [CoffeeScript](https://coffeescript.org)
 - [Opinion – “In Praise of Mediocrity” by Tim Wu](https://www.nytimes.com/2018/09/29/opinion/sunday/in-praise-of-mediocrity.html)
-- [GitHub: Vue-Cli-Plugin\_Electron-Builder](https://github.com/nklayman/vue-cli-plugin-electron-builder)
+- [GitHub: Vue-Cli-Plugin_Electron-Builder](https://github.com/nklayman/vue-cli-plugin-electron-builder)
 - [Eduardo’s GitHub](https://github.com/posva)
 - [Eduardo’s Twitter](https://twitter.com/posva?lang=en)
 - [Eduardo’s Code Mentor](https://www.codementor.io/posva)
@@ -266,7 +266,7 @@ Try TypeScript – it might be for you!
 
 Joe
 
-- Framework Summit Videos on Youtube - Coming soon. 
+- Framework Summit Videos on Youtube - Coming soon.
 
 Divya
 
@@ -280,9 +280,6 @@ Chris
 
 Eduardo
 
-- Remote work due to traveling 
-
+- Remote work due to traveling
 
 ### Transcript
-
-

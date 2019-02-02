@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 068: Jérémie Bonal
+  MRS 068: Jérémie Bonal
 date: 2018-11-07 11:00:19
 episode_number: 068
 duration: 41:00
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_068_Jeremie_Bonal.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** Jérémie Bonal
 
@@ -153,7 +153,7 @@ I tried other things, too.
 
 Jérémie
 
-- Article 
+- Article
 - [DHH](http://david.heinemeierhansson.com)
 
 Chuck
@@ -163,7 +163,4 @@ Chuck
 - [Get A Coder Job](https://devchat.tv/get-a-coder-job/)
 - My Ruby Stories! – [DevChat.Tv](https://devchat.tv)
 
-
 ### Transcript
-
-

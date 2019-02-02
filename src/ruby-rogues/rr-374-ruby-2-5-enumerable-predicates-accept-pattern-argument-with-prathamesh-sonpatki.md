@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 374: Ruby 2.5 Enumerable Predicates Accept Pattern Argument WITH Prathamesh Sonpatki
+  RR 374: Ruby 2.5 Enumerable Predicates Accept Pattern Argument WITH Prathamesh Sonpatki
 date: 2018-08-08 22:57:45
 episode_number: 374
 duration: 50:23
 audio_url: https://media.devchat.tv/ruby-rogues/RR_374_Ruby_2.5_Enumerable_Predicates_Accept_Pattern_ArgumentP_WITH_Prathamesh_Sonpatki.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - David Richards
@@ -90,7 +90,4 @@ Prathamesh
 - [Sign up to speak at RubyConf India](https://www.papercall.io/rci19)
 - [Ruby 2.6 Blogs](https://blog.bigbinary.com/categories/ruby-2-6/)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 193: Angular Libraries with Juri Strumpflohner
+  AiA 193: Angular Libraries with Juri Strumpflohner
 date: 2018-06-12 10:00:39
 episode_number: 193
 duration: 37:48
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_193_Angular_Libraries_with_Juri_Strumpflohner.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Shai Reznik
@@ -42,7 +42,7 @@ In this episode, the JavaScript Jabber panelists discuss Angular libraries with 
 - [TypeScript Modules](https://www.typescriptlang.org/docs/handbook/modules.html)
 - Now have built-in support of Angular libraries
 - [ng-packagr](http://spektrakel.de/ng-packagr/#slide=1)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -72,7 +72,7 @@ In this episode, the JavaScript Jabber panelists discuss Angular libraries with 
 Charles
 
 - [FullContact](https://www.fullcontact.com/)
-- Set Appointments on Google Calendar 
+- Set Appointments on Google Calendar
 
 Shai
 
@@ -90,7 +90,4 @@ Juri
 - [ngx-formly](https://github.com/formly-js/ngx-formly)
 - [Juri’s Egghead Courses](https://egghead.io/instructors/juri-strumpflohner)
 
-
 ### Transcript
-
-

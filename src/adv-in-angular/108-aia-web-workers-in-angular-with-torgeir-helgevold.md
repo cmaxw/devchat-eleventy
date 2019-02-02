@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      108 AiA Web Workers in Angular with Torgeir Helgevold
+  108 AiA Web Workers in Angular with Torgeir Helgevold
 date: 2016-09-01 06:00:54
 episode_number: 108
 duration: 37:42
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA108_Web_Workers_in_Angular_with_Torgeir_Helgevold.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
@@ -17,7 +17,7 @@ tags:
 - [Blog](http://www.syntaxsuccess.com/)
 - [Github](https://github.com/thelgevold?tab=repositories)
 - [Twitter](https://twitter.com/helgevold)
-3:05 - Defining and using Web Worker8:55 - Web Worker and value communication between threads15:05 - Booting an app in Web Worker vs a browser20:15 - Web Worker and mobile browsers23:55 - Reality and perception of running apps on mobile devices29:00 - Multi-threading and Web Workers **Picks:** [Angular NgModule Doc](https://angular.io/docs/ts/latest/guide/ngmodule.html) (John)[Tinker Crate](http://tinker.kiwicrate.com/) (John)[Angular 2 Router by Victor Savkin](https://leanpub.com/router) (Lukas)[“Out of the Tar Pit” by Ben Moseley and Peter Marks](http://shaffner.us/cs/papers/tarpit.pdf) (Lukas)[_Hardcore Henry_](http://www.imdb.com/title/tt3072482/) (Joe)[Vid Angel](https://www.vidangel.com/) (Joe)[Angular 2 Class](http://ftlauderdale.ng-learn.com) with John Papa and Dan Wahlin. Use code “AIA” for $200 off registration (Joe)[Angular 2 Gitter chat](https://gitter.im/angular/angular) (Tor)
+  3:05 - Defining and using Web Worker8:55 - Web Worker and value communication between threads15:05 - Booting an app in Web Worker vs a browser20:15 - Web Worker and mobile browsers23:55 - Reality and perception of running apps on mobile devices29:00 - Multi-threading and Web Workers **Picks:** [Angular NgModule Doc](https://angular.io/docs/ts/latest/guide/ngmodule.html) (John)[Tinker Crate](http://tinker.kiwicrate.com/) (John)[Angular 2 Router by Victor Savkin](https://leanpub.com/router) (Lukas)[“Out of the Tar Pit” by Ben Moseley and Peter Marks](http://shaffner.us/cs/papers/tarpit.pdf) (Lukas)[_Hardcore Henry_](http://www.imdb.com/title/tt3072482/) (Joe)[Vid Angel](https://www.vidangel.com/) (Joe)[Angular 2 Class](http://ftlauderdale.ng-learn.com) with John Papa and Dan Wahlin. Use code “AIA” for \$200 off registration (Joe)[Angular 2 Gitter chat](https://gitter.im/angular/angular) (Tor)
 
 ### Transcript
 
@@ -257,7 +257,7 @@ Ward does a fantastic job explaining it in the NG Modules documentation. He dese
 
 For my non-technical pick, there’s a website that I stumbled across called tinkercrate.com. They’ve got this little packages where you subscribe to it, get a box in the mail, they’ve got for ages 0 all the way up through 16 plus where they send you something that’s like, it’s kind of a science, or a technology, or a math, or engineering. They send you these things in the box where you and your kids can build things together.
 
-One of them that is coming in the mail this week that we’ve been getting excited to play about where it is you get to build a trebuchet with my son. That looks super exciting. It’s like $16 a month and you get to build some really cool stuff. It’s called tinkercrate.
+One of them that is coming in the mail this week that we’ve been getting excited to play about where it is you get to build a trebuchet with my son. That looks super exciting. It’s like \$16 a month and you get to build some really cool stuff. It’s called tinkercrate.
 
 Joe: Awesome. Stephen, how about you?
 
@@ -322,5 +322,3 @@ Joe: Awesome. Alright Tor, thanks so much for being on the show. We really enjoy
 Tor: Thanks for having me.
 
 Joe: Thanks for all our listeners, we’ll be back next week.
-
-

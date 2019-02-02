@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 030: "React State Museum" with Gant Laborde
+  RRU 030: "React State Museum" with Gant Laborde
 date: 2018-09-25 11:12:55
 episode_number: 030
 duration: 1:05:42
 audio_url: https://media.devchat.tv/reactroundup/RRU_030_Gant_Laborde_React_State_Museum.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Lucas Reis](https://twitter.com/iamlucasmreis?lang=en)
@@ -205,7 +205,7 @@ Charles
 - [Book: Harry Potter - Methods of Rationality](https://www.amazon.com/Harry-Potter-Methods-Rationality-Chapters/dp/B00E640ZAG/ref=sr_1_1?s=books&ie=UTF8&qid=1537997506&sr=1-1&keywords=harry+potter+methods+of+rationality)
 - Magicians
 - [XState is amazing!](https://github.com/davidkpiano/xstate)
-- [Culture Code](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0525492461) - especially if you work remote. The pains that can happen by working remotely. Helps you identify those issues. 
+- [Culture Code](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0525492461) - especially if you work remote. The pains that can happen by working remotely. Helps you identify those issues.
 - Talk in Poland – Secret project. [Lose the Declaration of Independence.](http://declarationofindependencethief.com) “Where’s Waldo?” I am going to find Nicholas Cage in the audience and he will have the Declaration of Independence in backpack. Fake government website.
 
 Justin
@@ -218,7 +218,4 @@ Lucas
 
 - [Book: A Philosophy of Software Design by John Ousterhout](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
-
 ### Transcript
-
-

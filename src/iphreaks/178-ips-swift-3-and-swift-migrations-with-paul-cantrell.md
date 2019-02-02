@@ -1,43 +1,45 @@
 ---
 layout: layouts/post.njk
 title: >
-      178 iPS Swift 3 and Swift Migrations with Paul Cantrell
+  178 iPS Swift 3 and Swift Migrations with Paul Cantrell
 date: 2016-11-10 06:00:34
 episode_number: 178
 duration: 47:42
 audio_url: https://media.devchat.tv/iphreaks/iPS178_Swift_3_and_Swift_Migrations_with_Paul_Cantrell.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 1:00: Introduction
+
 - [Paul Cantrell](https://twitter.com/inthehands)
 - Siesta Library for Swift
 - [Episode 124](https://devchat.tv/iphreaks/124-ips-siesta-with-paul-cantrell)
 - [Javascript Jabber: Why JavaScript Is Hard](https://devchat.tv/js-jabber/159-jsj-why-javascript-is-hard)
-4:20: How the language is written
+  4:20: How the language is written
 - [Ruby](https://www.ruby-lang.org/en/)
 - Swift
-12:30: Synthetic Sugar
+  12:30: Synthetic Sugar
 - Swift 1.0
 - Double optionals
-15:30: New API Guidelines
+  15:30: New API Guidelines
 - Strings
 - Fluency
-21:15: Verbosity vs. Terseness24:00: Successful Server Languages
+  21:15: Verbosity vs. Terseness24:00: Successful Server Languages
 - [Python](https://www.python.org/)
 - Garbage Collection
 - [Go](https://golang.org/)
-28:30: Problems
+  28:30: Problems
 - Domain model
 - Limitations of control
-32:40: Brand new startups
+  32:40: Brand new startups
 - Limited users as a positive
 - Client development
 
 ### Picks:
+
 Swift (Paul)[BBS the Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (Jaim)[CleanCoders.com](https://cleancoders.com/) (Rod)[Swift from Two to Three](https://leanpub.com/swift23) (Paul)Article on how we teach math (Paul)[Lockhart’s Lament](https://www.maa.org/external_archive/devlin/devlin_03_08.html)(Paul)[If I Sleep for an Hour, 30 People Will Die](http://www.nytimes.com/2016/10/02/opinion/sunday/if-i-sleep-for-an-hour-30-people-will-die.html) (Paul)[Bust Out Solutions](http://bustoutsolutions.com/)
 
 ### Transcript

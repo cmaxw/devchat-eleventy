@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      280 RR The Future of Ruby Rogues
+  280 RR The Future of Ruby Rogues
 date: 2016-10-05 06:00:12
 episode_number: 280
 duration: 27:08
 audio_url: https://media.devchat.tv/ruby-rogues/RR280_The_Future_of_Ruby_Rogues.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---

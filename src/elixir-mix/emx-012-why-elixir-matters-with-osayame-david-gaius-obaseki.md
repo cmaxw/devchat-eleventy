@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 012: Why Elixir matters with Osayame David Gaius-Obaseki
+  EMx 012: Why Elixir matters with Osayame David Gaius-Obaseki
 date: 2018-08-01 20:35:57
 episode_number: 012
 duration: 49:19
 audio_url: https://media.devchat.tv/elixir-mix/EMx_012_Why_Elixir_matters_with_Osayame_David_Gaius-Obaseki.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Eric Berry
@@ -24,7 +24,7 @@ In this episode of Elixir Mix, the panel talks to Osayame David Gaius-Obaseki. O
 
 **In particular, we dive pretty deep on:**
 
-- Osa intro 
+- Osa intro
 - Software engineer at [MailChimp](https://mailchimp.com/?gclid=EAIaIQobChMI-5Xms7nP3AIVSNbACh24hQhoEAAYASAAEgLxEfD_BwE&gclsrc=aw.ds&dclid=CL7SmrW5z9wCFYfcwAodRycBRg)
 - [Elixir](https://elixir-lang.org/)
 - His talk – [Why Elixir Matters](https://www.youtube.com/watch?v=KmUtemvokSk)
@@ -86,7 +86,4 @@ Osa
 
 - [Rich Hickey and Brian Beckman - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 320: Error Tracking and Troubleshooting Workflows with David Cramer LIVE at Microsoft Build
+  JSJ 320: Error Tracking and Troubleshooting Workflows with David Cramer LIVE at Microsoft Build
 date: 2018-07-03 12:46:50
 episode_number: 320
 duration: 27:45
 audio_url: https://media.devchat.tv/js-jabber/JSJ_320_Error_Tracking_and_Troubleshooting_Workflows_with_David_Cramer_LIVE_at_Microsoft_Build.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Alyssa Nicholl
@@ -25,7 +25,7 @@ In this episode, the JavaScript Jabber panelists talk to David Cramer about erro
 **In particular, we dive pretty deep on:**
 
 - David intro
-- Founder and CEO of [Sentry](https://sentry.io/welcome/) 
+- Founder and CEO of [Sentry](https://sentry.io/welcome/)
 - What is Sentry?
 - Working with PHP
 - De-bugger for production
@@ -43,7 +43,7 @@ In this episode, the JavaScript Jabber panelists talk to David Cramer about erro
 - Can work with any language
 - Deep contexts
 - Determining the root cause
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -76,7 +76,4 @@ David
 - [VS Code](https://code.visualstudio.com/)
 - [Kubernetes](https://kubernetes.io/)
 
-
 ### Transcript
-
-

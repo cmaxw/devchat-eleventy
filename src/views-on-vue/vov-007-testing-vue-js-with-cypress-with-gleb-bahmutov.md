@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 007: Testing Vue.js with Cypress with Gleb Bahmutov
+  VoV 007: Testing Vue.js with Cypress with Gleb Bahmutov
 date: 2018-04-17 10:00:21
 episode_number: 007
 duration: 1:05:03
 audio_url: https://media.devchat.tv/viewsonvue/VoV_007_Testing_Vue.js_with_Cypress_with_Gleb_Bahmutov.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Joe Eames
@@ -88,7 +88,4 @@ Gleb
 - [Renovate App](https://renovateapp.com/)
 - Will be in Copenhagen, Denmark next month
 
-
 ### Transcript
-
-

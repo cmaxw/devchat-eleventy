@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 323: "Building a JavaScript platform that gives you the power to build your own CDN" with Kurt Mackey
+  JSJ 323: "Building a JavaScript platform that gives you the power to build your own CDN" with Kurt Mackey
 date: 2018-07-26 19:50:10
 episode_number: 323
 duration: 1:03:05
 audio_url: https://media.devchat.tv/js-jabber/JSJ_323_Building_a_JavaScript_platform_that_gives_you_the_power_to_build_your_own_CDN_with_Kurt_Mackey.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - AJ ONeal
@@ -46,7 +46,7 @@ In this episode, the JavaScript Jabber panel talks to Kurt Mackey about Fly.io. 
 - [React](https://reactjs.org/) and [Gatsby](https://www.gatsbyjs.org/)
 - Intelligently loading client JavaScript
 - How do you build the JavaScript platform?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -82,7 +82,4 @@ Kurt
 - [Packet.net](https://www.packet.net/)
 - [_The Three-Body Problem_ by Cixin Liu](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032)
 
-
 ### Transcript
-
-

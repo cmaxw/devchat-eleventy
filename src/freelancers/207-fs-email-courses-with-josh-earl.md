@@ -1,31 +1,33 @@
 ---
 layout: layouts/post.njk
 title: >
-      207 FS Email Courses with Josh Earl
+  207 FS Email Courses with Josh Earl
 date: 2016-06-23 07:00:11
 episode_number: 207
 duration: 01:05:21
 audio_url: http://media.devchat.tv/freelancers/FS207EmailCourses.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 ## Check out [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016)!
+
 &nbsp;01:47 - Josh Earl Introduction
+
 - [Twitter](https://twitter.com/josh_earl)
 - [GitHub](https://github.com/joshearl)
 - [Blog](http://joshuaearl.com/)
 - [Simple Programmer](https://simpleprogrammer.com/)
 - [The Entreprogrammers Podcast](http://entreprogrammers.com/)
-02:23 - Creating Email Courses03:57 - Marketing vs Email Courses
+  02:23 - Creating Email Courses03:57 - Marketing vs Email Courses
 - [How to Market Yourself as a Software Developer](https://simpleprogrammer.com/products/developer-marketing/)
-15:26 - Length
+  15:26 - Length
 - [5 Learning Mistakes Developers Make](https://simpleprogrammer.com/lp/5-learning-mistakes-1/)
-18:49 - Opt-in Forms21:48 - Single vs Double Opt-in26:28 - Keeping People Engaged29:26 - Offering Discount Codes33:35 - Content41:32 - Tips for Telling Better Stories 44:45 - Agitation 47:22 - Competition and What Comes Next?51:02 - Asking People to Share
+  18:49 - Opt-in Forms21:48 - Single vs Double Opt-in26:28 - Keeping People Engaged29:26 - Offering Discount Codes33:35 - Content41:32 - Tips for Telling Better Stories 44:45 - Agitation 47:22 - Competition and What Comes Next?51:02 - Asking People to Share
 - [SmartBribe](http://www.smartbribe.com/)
-54:39 - Selling Services&nbsp;Picks
+  54:39 - Selling Services&nbsp;Picks
 - [The New York Times Mobile App](https://itunes.apple.com/us/app/nytimes-breaking-local-national/id284862083?mt=8) (Reuven)
 - [Slate Plus](http://www.slate.com/plus/home) (Reuven)
 - [Double Your Freelancing Conference Europe](https://doubleyourfreelancing.com/euconf/) (Reuven) Discount Code: **FREELANCER**
@@ -36,7 +38,7 @@ tags:
 - [Wired for Story: The Writer's Guide to Using Brain Science to Hook Readers from the Very First Sentence by Lisa Cron](https://www.amazon.com/Wired-Story-Writers-Science-Sentence/dp/1607742454) (Josh)
 - [Scrivener](https://www.literatureandlatte.com/scrivener.php) (Josh)
 - [Strides](http://www.stridesapp.com/) (Josh)
-Check out Josh's [How to Make More Sales with Email Courses](https://joshuaearl.com/)!!
+  Check out Josh's [How to Make More Sales with Email Courses](https://joshuaearl.com/)!!
 
 ### Transcript
 
@@ -164,7 +166,7 @@ So usually I’ll come up with a list of potential topics and I’ll pick the on
 
 So right now at Simple Programmer, our main lead magnet is this blogging course. So John produced a product called How to Market Yourself as a Software Developer, and he launched that 2 or 3 years ago. And the way that he’s been selling it up until now is what this big blogging course is like 6 or 8 installments, and it’s basically like an end-to-end “how do you set up a blog, how do you write your first post, how do you install Wordpress” – all that stuff. And at the end, he’s got a lesson where it’s like – he tries to turn the corner a little bit and he says “well, the reason that you set up a blog is because what you actually need to do is market yourself and I've got this course”. It’s not that bad, but it doesn’t really work all that well. So I’m going to be redoing that course and making it more of a straight shot from what they opted in for and this marketing yourself course.
 
-I think the angle that I’m going to take here – I haven’t written this one yet, but I think what I’m going to do is – software developers are aware generally, I think, that they're underpaid because – John has a story where he wrote this software for a company he works for that made them millions of dollars, and he got paid 45 bucks an hour. So how is that? You're not really capturing the value. You're creating – you basically – between the sales team and the development team, that’s pretty much the company for a lot of businesses. And sales guys, a lot of times, get commissioned; they get to capture more of the value they're creating, and developers don’t. We’re like cap out it like 80 or $90,000 or maybe 120 or whatever.
+I think the angle that I’m going to take here – I haven’t written this one yet, but I think what I’m going to do is – software developers are aware generally, I think, that they're underpaid because – John has a story where he wrote this software for a company he works for that made them millions of dollars, and he got paid 45 bucks an hour. So how is that? You're not really capturing the value. You're creating – you basically – between the sales team and the development team, that’s pretty much the company for a lot of businesses. And sales guys, a lot of times, get commissioned; they get to capture more of the value they're creating, and developers don’t. We’re like cap out it like 80 or \$90,000 or maybe 120 or whatever.
 
 So I think a lot of developers have this sense that they could be earning more than they are, and I've talked to people that have bought the course and that’s what their mindset was when they bought it. So I’m going to start there with my next email course for this and I’m going to play off of this team of like “you are underpaid” and I’m going to spend 5 or 10 days telling them all of the ways, all of the reasons why they're underpaid. They took the bad job or they're not respected and valued, they didn’t negotiate their salary – lay out all the reasons why they're not earning as much as they could.
 
@@ -595,5 +597,3 @@ And last thing is this new app that I've started using in the last month called 
 **CHUCK:** We’ll catch you all next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

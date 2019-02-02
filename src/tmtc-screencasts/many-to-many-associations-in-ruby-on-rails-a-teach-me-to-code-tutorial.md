@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Many to Many Associations in Ruby on Rails - A Teach Me To Code Tutorial
+  Many to Many Associations in Ruby on Rails - A Teach Me To Code Tutorial
 date: 2011-05-27 06:43:58
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

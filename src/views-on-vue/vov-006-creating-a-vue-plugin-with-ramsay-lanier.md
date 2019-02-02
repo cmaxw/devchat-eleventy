@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 006: Creating a Vue Plugin with Ramsay Lanier
+  VoV 006: Creating a Vue Plugin with Ramsay Lanier
 date: 2018-04-10 10:00:10
 episode_number: 006
 duration: 53:13
 audio_url: https://media.devchat.tv/viewsonvue/VoV_006_Creating_a_Vue_Plugin_with_Ramsay_Lanier.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Cher Stewart
@@ -89,10 +89,7 @@ Ramsay
 - [Today, Explained](https://www.vox.com/today-explained)
 - Amazon Originals
 - [Sneaky Pete](https://en.wikipedia.org/wiki/Sneaky_Pete)
-- [Electric Dreams](https://en.wikipedia.org/wiki/Electric_Dreams_(2017_TV_series))
+- [Electric Dreams](<https://en.wikipedia.org/wiki/Electric_Dreams_(2017_TV_series)>)
 - [Sea of Theives](https://www.seaofthieves.com/)
 
-
 ### Transcript
-
-

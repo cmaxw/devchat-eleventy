@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 029: Christopher Buecheler: "Getting Ready To Teach? Lessons learned from building an 84-tutorial software course"
+  RRU 029: Christopher Buecheler: "Getting Ready To Teach? Lessons learned from building an 84-tutorial software course"
 date: 2018-09-18 12:49:04
 episode_number: 029
 duration: 45:23
 audio_url: https://media.devchat.tv/reactroundup/RRU_029_Christopher_Buecheler_Getting_Ready_To_Teach_Lessons_learned_from_building_an_84-tutorial_software_course.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - Lucas Reis (NY)
@@ -163,7 +163,4 @@ Christopher
 - [Shout-Out to a friend – Christopher’s Site](https://gomakethings.com)
 - [5-Minute React Videos](https://closebrace.com/categories/five-minute-react)
 
-
 ### Transcript
-
-

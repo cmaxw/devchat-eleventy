@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 381: “Ruby GUI Development” with Saverio Miroddi
+  RR 381: “Ruby GUI Development” with Saverio Miroddi
 date: 2018-09-25 11:17:29
 episode_number: 381
 duration: 39:13
 audio_url: https://media.devchat.tv/ruby-rogues/RR_381_Ruby_GUI_Development_with_Saverio_Miroddi.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Dave Kimura
@@ -174,7 +174,7 @@ Dave
 
 Eric
 
-- 2 courses, plus a 3<sup>rd</sup>! 
+- 2 courses, plus a 3<sup>rd</sup>!
   - [How to write an open source](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
   - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
   - [The beginners guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
@@ -184,7 +184,4 @@ Saverio
 
 - Movie: [The Founder](https://www.imdb.com/title/tt4276820/)
 
-
 ### Transcript
-
-

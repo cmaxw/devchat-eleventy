@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      Upgrading JotRod to Rails 3.1.3
+  Upgrading JotRod to Rails 3.1.3
 date: 2011-12-09 23:19:13
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---
 
 <object width="425" height="344" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true">
+
 <param name="allowscriptaccess" value="always">
 <param name="src" value="http://www.youtube.com/v/uZScbsXsKKM&amp;hl=en&amp;fs=1">
 <param name="allowfullscreen" value="true">

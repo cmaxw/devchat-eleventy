@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 010: “Vue Libraries, Open Source, Meetups” with Eduardo San Martin Morote
+  VoV 010: “Vue Libraries, Open Source, Meetups” with Eduardo San Martin Morote
 date: 2018-05-08 10:00:54
 episode_number: 010
 duration: 1:24:42
 audio_url: https://media.devchat.tv/viewsonvue/VoV_010_Vue_Libraries%2C_Open_Source%2C_Meetups_%20with_Eduardo_San_Martin_Morote.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Divya Sasidharan
 - Chris Fritz
-**Special Guests:** Eduardo San Martin Morote
+  **Special Guests:** Eduardo San Martin Morote
 
 In this episode of Views on Vue, the panelists discuss “Vue Libraries, Open Source, Meetups” with Eduardo San Martin Morote. Eduardo is a freelance developer, a core team member of [Vue.js](https://vuejs.org/), and loves contributing to open source. They talk about his many different open source component libraries, such as [Vue-Coerce-Props](https://github.com/posva/vue-coerce-props) and [Vue-promised](https://github.com/posva/vue-promised). They also touch on the use of templates versus using render functions and the difference between libraries and apps.
 
@@ -80,7 +80,4 @@ Eduardo
 - [Legend of Zelda](https://www.zelda.com/)
 - [Xbox 360 Controller](https://www.amazon.com/Microsoft-Wireless-Controller-Windows-Console/dp/B004QRKWKQ)
 
-
 ### Transcript
-
-

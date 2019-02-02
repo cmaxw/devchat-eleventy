@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 014: Razzle with Jared Palmer
+  RRU 014: Razzle with Jared Palmer
 date: 2018-06-05 10:00:23
 episode_number: 014
 duration: 48:05
 audio_url: https://media.devchat.tv/reactroundup/RRU_014_Razzle_with_Jared_Palmer.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Nader Dabit
 
@@ -30,7 +30,7 @@ In this episode of React Round Up, the panel discusses Razzle and other projects
 - [Gatsby](https://www.gatsbyjs.org/)
 - Goal of Razzle
 - What are the benefits of adding server-side rendering?
-- The power of [React](https://reactjs.org/) 
+- The power of [React](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - React can hydrate once it renders on the server
 - Razzle is thin layer around 2 [Webpack](https://webpack.js.org/) watch tasks
@@ -81,7 +81,4 @@ Jared
 - [Guess.js](https://github.com/guess-js)
 - [Garden](https://github.com/zendeskgarden)
 
-
 ### Transcript
-
-

@@ -2,4 +2,7 @@ devchattv.wordpress.xml
 eleventyize.rb
 _site
 node_modules
+yarn.lock
+yarn-error.log
+.vscode/
 .DS_Store

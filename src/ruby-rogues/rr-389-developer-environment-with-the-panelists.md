@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 389: Developer Environment with the Panelists
+  RR 389: Developer Environment with the Panelists
 date: 2018-11-20 11:00:29
 episode_number: 389
 duration: 54:35
 audio_url: https://media.devchat.tv/ruby-rogues/RR_389_Developer_Environment%20with%20the%20panelists.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - David Kimura
 - Eric Berry
@@ -186,7 +186,4 @@ Eric
 
 - Open Source Funders
 
-
 ### Transcript
-
-

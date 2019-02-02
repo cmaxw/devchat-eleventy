@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 366: Build Your Own RSpec: A Gentle Metaprogramming Intro with Paweł Dąbrowski
+  RR 366: Build Your Own RSpec: A Gentle Metaprogramming Intro with Paweł Dąbrowski
 date: 2018-06-12 10:00:39
 episode_number: 366
 duration: 48:31
 audio_url: https://media.devchat.tv/ruby-rogues/RR_366_Build_Your_Own_RSpec_A_Gentle_Metaprogramming_Intro_with_Pawel_Dabrowski.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Dave Kimura
@@ -29,7 +29,7 @@ In this episode of Ruby Rogues, the panelists talk to Paweł Dąbrowski about m
 - [_Build your own RSpec_ blog post](http://pdabrowski.com/blog/ruby-on-rails/testing/build-your-own-rspec/)
 - Wanted to dive in and share his thoughts on the topic
 - The importance of branding yourself
-- He wants to be able to share his skills to others 
+- He wants to be able to share his skills to others
 - What prompted you to want to write a blog?
 - Importance of contributing to the [Ruby](https://www.ruby-lang.org/en/) community
 - Developer therapy
@@ -59,7 +59,7 @@ In this episode of Ruby Rogues, the panelists talk to Paweł Dąbrowski about m
 - [Paweł’s GitHub](https://github.com/rubyhero)
 - [Views on Vue Podcast](https://devchat.tv/views-on-vue)
 - [VoV Episode 3: Nuxt.js Podcast](https://devchat.tv/views-on-vue/vov-003-nuxt-js-basics-and-vuejs-in-action)
-- [@pdabrowski\_k1](https://twitter.com/pdabrowski_k1)
+- [@pdabrowski_k1](https://twitter.com/pdabrowski_k1)
 
 **Sponsors**
 
@@ -94,7 +94,4 @@ Paweł
 - [Chartable](https://github.com/rubyhero/chartable)
 - [_Soft Skills_ by John Sonmez](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=as_li_ss_tl?ie=UTF8&qid=1526181928&sr=8-2&keywords=soft+skills&linkCode=sl1&tag=mmeditations-20&linkId=37fec2451179e73af762a68276e20de8)
 
-
 ### Transcript
-
-

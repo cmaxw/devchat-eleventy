@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 026: Higher Level Functions GenState Deployments with Bill Peregoy
+  EMx 026: Higher Level Functions GenState Deployments with Bill Peregoy
 date: 2018-11-06 11:00:19
 episode_number: 026
 duration: 54:06
 audio_url: https://media.devchat.tv/elixir-mix/EMx_026_Higher_Level_Functions_GenState_Deployments_with_Bill_Peregoy.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Mark Ericksen
-- Josh Adams 
-- Charles Max Wood 
+- Josh Adams
+- Charles Max Wood
 
 **Special Guest:** Bill Peregoy
 
@@ -301,7 +301,4 @@ Charles
 
 - [Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)
 
-
 ### Transcript
-
-

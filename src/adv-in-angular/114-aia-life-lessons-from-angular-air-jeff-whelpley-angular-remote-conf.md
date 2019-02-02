@@ -1,39 +1,39 @@
 ---
 layout: layouts/post.njk
 title: >
-      114 AiA Life Lessons from Angular Air - Jeff Whelpley - Angular Remote Conf
+  114 AiA Life Lessons from Angular Air - Jeff Whelpley - Angular Remote Conf
 date: 2016-10-13 06:00:39
 episode_number: 114
 duration: 46:28
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA114_Life_Lessons_from_AngularAir_-_Jeff_Whelpley_-_Angular_Remote_Conf_2016.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 1:50 - Introducing Jeff Whelpley at Angular Remote Conf
+
 - [Twitter](https://twitter.com/jeffwhelpley?lang=en)
 - [Github](https://github.com/jeffwhelpley)
 - [Angular Air](https://angularair.com/)
-3:40 - &nbsp;Working on Angular Air6:25 - Lessons from Ben Lesh
+  3:40 - &nbsp;Working on Angular Air6:25 - Lessons from Ben Lesh
 - [Episode Link](https://plus.google.com/events/c2ic6t5id964kdo47dr0of5d3ag)
-8:20 - Lessons from Gleb Bahmutov
+  8:20 - Lessons from Gleb Bahmutov
 - [Episode Link](https://plus.google.com/events/ce9lds6bk5nnre76da8hhig0n60)
-11:50 - Lessons from Aaron Frost
+  11:50 - Lessons from Aaron Frost
 - [Episode Link](https://plus.google.com/events/c497n1rurigtea0nlq3q7c9qn9c)
-14:00 - Lessons from Shai Reznik
+  14:00 - Lessons from Shai Reznik
 - [Episode Link](https://audio.angularair.com/e/ngair-70-the-making-of-ng-show-with-shai-reznik/)
-16:50 - Lessons from Joe Eames
+  16:50 - Lessons from Joe Eames
 - [Episode Link](http://audio.angularair.com/e/48-ngair-why-empathy-will-make-you-a-better-developer-with-joe-eames/)
-19:10 - Lessons from Uri Goldshtein 21:40 - Lessons from Wesley Cho and Jesus Rodriguez
+  19:10 - Lessons from Uri Goldshtein 21:40 - Lessons from Wesley Cho and Jesus Rodriguez
 - [Episode Link](http://audio.angularair.com/e/47-ngair-how-to-become-an-open-source-contributor/)
-25:40 - Lessons from Brad Green28:50 - Lessons from Igor Minar31:40 - Lessons from Victor Savkin and Dan Abramov
+  25:40 - Lessons from Brad Green28:50 - Lessons from Igor Minar31:40 - Lessons from Victor Savkin and Dan Abramov
 - [Episode Link](http://audio.angularair.com/e/angular-air-episode-53-angular-2-reactive-redux-with-victor-savkin-c-dan-abramov-and-rob-wormald/)
-34:30 - Lessons from Amy Knight36:05 - Lessons from Patrick Stapleton39:00 - Lessons from Jamie King and Kyle Newman
+  34:30 - Lessons from Amy Knight36:05 - Lessons from Patrick Stapleton39:00 - Lessons from Jamie King and Kyle Newman
 - [_Fanboys_](http://www.imdb.com/title/tt0489049/) movie
 - [Episode Link](https://plus.google.com/events/cthcfidro7bh8428hl8o5kt4128)
-
 
 ### Transcript
 

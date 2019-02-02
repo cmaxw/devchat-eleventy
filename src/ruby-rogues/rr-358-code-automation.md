@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 358: Code Automation
+  RR 358: Code Automation
 date: 2018-04-17 10:00:29
 episode_number: 358
 duration: 1:05:06
 audio_url: https://media.devchat.tv/ruby-rogues/RR_358_Code_Automation.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Dave Kimura
@@ -59,10 +59,7 @@ Charles
 Dave
 
 - Having a good soldering iron
-- Heat shrink tubing 
+- Heat shrink tubing
 - [Exercise trampoline](https://www.amazon.com/s/?ie=UTF8&keywords=exercise+trampoline&tag=googhydr-20&index=aps&hvadid=174204279531&hvpos=1t1&hvnetw=g&hvrand=17311302448266484447&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060039&hvtargid=kwd-195705476)
 
-
 ### Transcript
-
-

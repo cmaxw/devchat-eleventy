@@ -1,47 +1,48 @@
 ---
 layout: layouts/post.njk
 title: >
-      228 FS Non-Writing Content Marketing Methods
+  228 FS Non-Writing Content Marketing Methods
 date: 2016-11-17 06:00:30
 episode_number: 228
 duration: 58:56
 audio_url: https://media.devchat.tv/freelancers/FS228_Non_Writing_Content_Marketing_Methods.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 Introduction
+
 - [FreelanceRemoteConf](https://allremoteconfs.com/freelance-2016)
 - Content marketing that does not involve the written word
-4:30: What Is Content Marketing?
+  4:30: What Is Content Marketing?
 - Showing expertise
 - Helping people
 - Providing value
-6:20: Podcasting
+  6:20: Podcasting
 - [Screencast](https://www.screencast.com/)
 - [Creating a Twitter Clone](https://devchat.tv/tmtc-screencasts/creating-a-twitter-clone-in-rails-part-6)
-10:30: Missing out on client work?
+  10:30: Missing out on client work?
 - [Ruby on Rails](http://rubyonrails.org/)
 - “Giving away the farm.”
-16:40: Highly scripted video
+  16:40: Highly scripted video
 - [UberConference](https://www.youtube.com/user/uberconference)
 - [John Sonmez](https://www.youtube.com/user/jsonmez)
-22:00: Casual video or audio
+  22:00: Casual video or audio
 - Facebook Live
 - [Aaron Walker](http://www.viewfromthetop.com/)
 - Facebook community
 - YouTube Live
 - [Fullscope.tv](http://fullscope.tv/)
 - Publish on a consistent schedule
-34:45: Case Studies
+  34:45: Case Studies
 - YouTube or Google Hangouts
-39:50: Practicalities
+  39:50: Practicalities
 - Search engine rankings
 - Transcription services
 - Comparing yourself to others
-47:50: InfographicsPicks:[Ditching Hourly](http://www.ditchinghourly.com/) (Reuven)[Limony Snicket’s A Series of Unfortunate Events](https://www.amazon.com/dp/B0066IM5RQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Reuven)[Rev.com](https://www.rev.com/) (Philip)[Trustvelocity.com](https://philipmorganconsulting.com/lead-generation-trust-velocity/) (Philip)[Born to Win by Zig Ziglar](https://www.amazon.com/Born-Win-Find-Your-Success-ebook/dp/B006ZG5THW) (Charles)[Mindmup.com](https://www.mindmup.com/) (Charles)[devchat.tv/conferences](https://devchat.tv/conferences) (Charles)
+  47:50: InfographicsPicks:[Ditching Hourly](http://www.ditchinghourly.com/) (Reuven)[Limony Snicket’s A Series of Unfortunate Events](https://www.amazon.com/dp/B0066IM5RQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Reuven)[Rev.com](https://www.rev.com/) (Philip)[Trustvelocity.com](https://philipmorganconsulting.com/lead-generation-trust-velocity/) (Philip)[Born to Win by Zig Ziglar](https://www.amazon.com/Born-Win-Find-Your-Success-ebook/dp/B006ZG5THW) (Charles)[Mindmup.com](https://www.mindmup.com/) (Charles)[devchat.tv/conferences](https://devchat.tv/conferences) (Charles)
 
 ### Transcript
 

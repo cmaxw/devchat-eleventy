@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 003: Advanced Component Patterns and Downshift with Kent C. Dodds
+  RRU 003: Advanced Component Patterns and Downshift with Kent C. Dodds
 date: 2018-03-20 10:00:16
 episode_number: 003
 duration: 1:04:26
 audio_url: https://media.devchat.tv//reactroundup/RRU_003_Advanced_Component_Patterns_and_downshift_with_Kent_C_Dodds.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Nader Dabit
 - Kent C Dodds
-- Cory House 
+- Cory House
 
 In this episode of React Round Up, the panel discusses advanced component patterns and [Downshift](https://github.com/paypal/downshift). They talk about different component patterns, especially render prop patters, and the fact that Downshift allows for your components to be much more useful generally for more people. They also note that the render prop patterns can help to separate logic from view, which makes things easier to develop.
 
@@ -79,7 +79,4 @@ Kent
 - [His Newsletter](https://tinyletter.com/kentcdodds)
 - Beyond React 16 by Dan Abramov
 
-
 ### Transcript
-
-

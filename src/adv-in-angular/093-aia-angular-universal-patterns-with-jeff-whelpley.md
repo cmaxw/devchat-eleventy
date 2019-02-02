@@ -1,41 +1,41 @@
 ---
 layout: layouts/post.njk
 title: >
-      093 AiA Angular Universal Patterns with Jeff Whelpley
+  093 AiA Angular Universal Patterns with Jeff Whelpley
 date: 2016-05-19 07:00:48
 episode_number: 093
 duration: 50:45
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA093AngularUniversalPatterns.mp3?rss=true
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 02:05 - Jeff Whelpley Introduction and Angular Universal Patterns
+
 - [Twitter](https://twitter.com/jeffwhelpley)
 - [Blog](http://jeffwhelpley.com/)
 - [Jeffrey Whelpey & Patrick Stapleton: Angular 2 Universal Patterns @ ng-conf](https://www.youtube.com/watch?v=TCj_oC3m6_U)
 - [angular/universal](https://github.com/angular/universal)
-03:26 - Backend Implementations05:07 - Drawbacks
+  03:26 - Backend Implementations05:07 - Drawbacks
 - [zone.js](https://github.com/angular/zone.js/)
-12:46 - Contribution
+  12:46 - Contribution
 - [Patrick Stapleton](https://github.com/gdi2290)
 - [Tobias Bosch](https://github.com/tbosch)
 - [Jeff Cross](https://github.com/jeffbcross)
-16:42 - Caching19:04 - Other Gotchas
+  16:42 - Caching19:04 - Other Gotchas
 - Session State
 - App Container
-25:40 - The User Experience
+  25:40 - The User Experience
 - Hydration
-31:29 - Installation and Running Angular Universal33:24 - The Release Schedule&nbsp;Picks
+  31:29 - Installation and Running Angular Universal33:24 - The Release Schedule&nbsp;Picks
 - [BB-8 Sphero](http://www.sphero.com/starwars) (Joe)
 - [Black Man in a White Coat: A Doctor's Reflections on Race and Medicine by Damon Tweedy](http://www.amazon.com/Black-Man-White-Coat-Reflections/dp/1250044634) (Joe)
 - [iPhreaks Show Episode 153: Using Mobile Devices to Manage Diabetes with Scott Hanselman](https://devchat.tv/iphreaks/153-ips-using-mobile-devices-to-manage-diabetes-with-scott-hanselman) (Chuck)
 - [The Freelancers' Show Episode 202: Live from MicroConf: Managing a Team with Anders Thue Pedersen](https://devchat.tv/freelancers/202-fs-live-from-microconf-managing-a-team-with-anders-thue-pedersen) (Chuck)
 - DevChat.tv Survey (Chuck)
 - [GetHuman](https://gethuman.com/) (Jeff)
-
 
 ### Transcript
 
@@ -293,7 +293,7 @@ Jeff, what are your picks?
 
 **JEFF:&nbsp;** I just have one that's a little bit of a plug actually. On May the 4<sup>th</sup>, May the 4<sup>th</sup> is actually going to be a pretty big day. So, it's Star Wars day first of all. It is the beginning of ng-conf. My talk is going to be on May the 4<sup>th</sup>. It's my daughter's birthday. So, a lot of stuff going on. For some sadistic reason, I agreed for it to also be the launch date of the new products that we have coming out for GetHuman. Some stuff outside my control on the date or whatever. But basically this new service that we've been beta testing for a while is going to go live in which basically it's something where GetHuman can take over you entire, all of your customer service problems. So, you never essentially have to deal with a company ever again.
 
-So, right now we offer advice, we give ways of contacting a company. But this new service would basically be one where you pay us and we would just do everything. We would fight down your bills, we would get you your rebates, if you were locked out of your account, whatever it happens to be. You don't have to deal with these companies that typically are pretty bad and take up a lot of your time. So, that's something that has been extremely popular in our beta testing, limited exposure. And we've been growing pretty rapidly. So, I'm excited for our official launch and that type of thing. And my only worry [chuckles] [and hope] is that everything doesn't go south as I'm about to step on stage. And I think I'm going to have to just turn off my phone and [chuckles] hope for the best. But no, it's going to be great. I can't wait.
+So, right now we offer advice, we give ways of contacting a company. But this new service would basically be one where you pay us and we would just do everything. We would fight down your bills, we would get you your rebates, if you were locked out of your account, whatever it happens to be. You don't have to deal with these companies that typically are pretty bad and take up a lot of your time. So, that's something that has been extremely popular in our beta testing, limited exposure. And we've been growing pretty rapidly. So, I'm excited for our official launch and that type of thing. And my only worry [chuckles][and hope] is that everything doesn't go south as I'm about to step on stage. And I think I'm going to have to just turn off my phone and [chuckles] hope for the best. But no, it's going to be great. I can't wait.
 
 **CHUCK:&nbsp;** Alright. Well, I'm going to go ahead and wrap this show up. But thanks for coming, Jeff. We'll hopefully have a link to YouTube or wherever the ng-conf folks post the talks. And that way people can go check out what you and Patrick have to say. And I think on behalf of all of us, we just really appreciate all the work that you and the other members of the Angular team and Angular Universal team put into this stuff. Because in some ways, I guess we all get paid to do this work. But in other ways, it is put out there free for us to take advantage of and really enjoy and make the most of. So yeah, I just want to put that out there.
 
@@ -304,5 +304,3 @@ So, right now we offer advice, we give ways of contacting a company. But this ne
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 070: Jerome Hardaway
+  MJS 070: Jerome Hardaway
 date: 2018-07-18 19:00:54
 episode_number: 070
 duration: 39:40
 audio_url: https://media.devchat.tv/my-js-story/MJS_070_Jerome_Hardaway.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Jerome Hardaway
 
@@ -31,7 +31,7 @@ This week on My JavaScript Story, Charles speaks with Jerome Hardaway. Jerome us
 - [Wordpress](https://wordpress.com/)
 - Focusing on making [Vets Who Code](https://vetswhocode.io/) better
 - People would go for products over projects any day
-- Chose [Ruby on Rails](https://rubyonrails.org/) 
+- Chose [Ruby on Rails](https://rubyonrails.org/)
 - Setting himself apart by picking to focus on Ruby on Rails
 - Where did you come across Ruby on Rails?
 - From PHP to Ruby on Rails
@@ -74,7 +74,4 @@ Jerome
 - [Brian Holt Frontend Masters](https://frontendmasters.com/teachers/brian-holt/)
 - [Pragmatic Studio](https://pragmaticstudio.com/)
 
-
 ### Transcript
-
-

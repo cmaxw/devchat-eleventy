@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 024: Webamp with Jordan Eldredge
+  RRU 024: Webamp with Jordan Eldredge
 date: 2018-08-15 16:52:10
 episode_number: 024
 duration: 50:16
 audio_url: https://media.devchat.tv/reactroundup/RRU_024_Webamp_with_Jordan_Eldredge.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Sia Karamalegos
 - Lucas Reis
@@ -38,17 +38,17 @@ In this episode, the React Round Up panelists talk to Jordan Eldredge about his 
 - CSS Sprites
 - Wanting to recreate Winamp skins
 - [jQuery](https://jquery.com/) originally
-- Rewrote in “vanilla” JavaScript 
+- Rewrote in “vanilla” JavaScript
 - The process of learning real JavaScript
 - Managing transitions VS managing state
 - [React](https://reactjs.org/) with [Redux](https://redux.js.org/)
-- Do you believe your struggle with “vanilla” JS made you more aware of what React really brings? 
+- Do you believe your struggle with “vanilla” JS made you more aware of what React really brings?
 - [_You Might Not Need Redux_ by Dan Abramov](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 - How did you deal with the audio API?
 - The thing he loves about side-projects
 - Not having a deadline
 - Using a Redux middleware
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -86,7 +86,4 @@ Jordan
 - [Inspiring Online](https://inspiring.online/)
 - [WACUP](https://getwacup.com/)
 
-
 ### Transcript
-
-

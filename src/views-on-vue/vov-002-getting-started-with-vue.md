@@ -1,21 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 002: Getting Started with Vue
+  VoV 002: Getting Started with Vue
 date: 2018-03-13 10:00:23
 episode_number: 002
 duration: 46:21
 audio_url: https://media.devchat.tv/viewsonvue/VoV_002_Geting_Started_with_Vue.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
-- Joe Eames 
+- Joe Eames
 - Cher Stewart
 - Erik Hanchett
 
@@ -45,7 +45,7 @@ In this episode of Views on Vue, the panelists discuss how they each got into [V
 - Sometimes it takes going through a couple books before finding what you really want
 - How are people writing with Vue?
 - Vue is very un-opinionated and progressive
-- [ES6](https://es6.io/) and [TypeScript](https://www.typescriptlang.org/) 
+- [ES6](https://es6.io/) and [TypeScript](https://www.typescriptlang.org/)
 - And much, much more!
 
 **Links:**
@@ -93,7 +93,4 @@ Erik
 
 - [Keybase.io](https://keybase.io/)
 
-
 ### Transcript
-
-

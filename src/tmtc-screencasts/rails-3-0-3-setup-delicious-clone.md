@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      Rails 3.0.3 Setup - Delicious Clone
+  Rails 3.0.3 Setup - Delicious Clone
 date: 2011-01-14 06:00:20
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---
 
 <object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/5Hr18dP32sw?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1">
+
 <param name="allowFullScreen" value="true">
 <param name="allowscriptaccess" value="always">
 <embed src="http://www.youtube.com/v/5Hr18dP32sw?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>Here is what I've done to create this application:

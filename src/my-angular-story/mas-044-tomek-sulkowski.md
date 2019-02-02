@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 044: Tomek Sułkowski
+  MAS 044: Tomek Sułkowski
 date: 2018-07-18 13:41:59
 episode_number: 044
 duration: 27:10
 audio_url: https://media.devchat.tv/my-angular-story/MAS_044_Tomek_Sulkowski.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Tomek Sułkowski
 
@@ -73,7 +73,7 @@ Charles
 - [Microsoft Connect](https://www.microsoft.com/en-us/connectevent/)
 - [CES](https://www.ces.tech/)
 - [Podcast Movement](https://podcastmovement.com/)
-- 
+-
 
 Tomek
 
@@ -81,7 +81,4 @@ Tomek
 - [Dash App](https://kapeli.com/dash)
 - Play a musical instrument
 
-
 ### Transcript
-
-

@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 384: “Sonic Pi” with Sam Aaron
+  RR 384: “Sonic Pi” with Sam Aaron
 date: 2018-10-16 10:00:41
 episode_number: 384
 duration: 53:25
 audio_url: https://media.devchat.tv/ruby-rogues/RR_384_Sam_Aaron_Sonic_Pi.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Dave Kimura](https://www.linkedin.com/in/kobaltz)
 - Eric Berry
-**Special Guest:** Sam Aaron
+  **Special Guest:** Sam Aaron
 
 In this episode of Ruby Rogues, the panel talks with Sam Aaron who is the creator of [Sonic Pi](https://github.com/samaaron/sonic-pi/graphs/contributors), which is the main topic that he and the panel talk about today. Sam is a computer scientist who has his Ph.D., and uses the Ruby language. He is also a programmer, educator, live coding musician, and father.
 
@@ -187,7 +187,4 @@ Sam
 
 - [Emacs Program Editor](https://www.gnu.org/software/emacs/)
 
-
 ### Transcript
-
-

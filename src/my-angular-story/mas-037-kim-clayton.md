@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 037: Kim Crayton interview from ngATL
+  MAS 037: Kim Crayton interview from ngATL
 date: 2018-05-17 04:01:28
 episode_number: 037
 duration: 26:27
 audio_url: https://media.devchat.tv/my-angular-story/MAS_037_Kim_Clayton.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Kim Crayton
 
@@ -41,8 +41,8 @@ This week on My Angular Story, Charles speaks with Kim Crayton. Kim Crayton did 
 - Look at core values
 - Style guides
 - Living documentation
-- Meeting people where they are 
-- Get comfortable with being uncomfortable 
+- Meeting people where they are
+- Get comfortable with being uncomfortable
 - And much, much more!
 
 **Links:**
@@ -53,7 +53,4 @@ This week on My Angular Story, Charles speaks with Kim Crayton. Kim Crayton did 
 - [KimCrayton.com](http://www.kimcrayton.com/)
 - [Kim’s Medium](https://medium.com/@KimCrayton1)
 
-
 ### Transcript
-
-

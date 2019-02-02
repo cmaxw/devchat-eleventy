@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 215: “Progressive Web Apps” with Aaron Gustafson / Live at Microsoft Ignite
+  AiA 215: “Progressive Web Apps” with Aaron Gustafson / Live at Microsoft Ignite
 date: 2018-11-13 11:00:16
 episode_number: 215
 duration: 56:00
 audio_url: https://media.devchat.tv/adventures-in-angular/AIA_215_Progressive_Web_Apps_with_Aaron_Gustafson_LIVE_at_Microsoft_Ignite.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 [Charles Max Wood (DevChat T.V.)](https://twitter.com/cmaxw?lang=en)
 
@@ -182,7 +182,7 @@ Aaron: I think the major benefit of PWA is...
 - [Cache Fly](https://www.cachefly.com)
 - [Fresh Books](https://www.freshbooks.com/?ref=ppc-na-fb&camp=US%2528SEM%2529Branded%257CEXM&ag=%257Efreshbooks&kw=fresh%2520books&campaignid=717543354&adgroupid=53169078638&kwid=kwd-299596828929&dv=c&ntwk=g&crid=289653575014&source=GOOGLE&gclid=EAIaIQobChMIwr_9ofSJ3gIVyrfACh1DkQVNEAAYASAAEgJIUvD_BwE&gclsrc=aw.ds&dclid=CPaQ6KX0id4CFUTcwAodvfQEcA)
 - [Kendo UI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
-- 
+-
 
 **Picks:**
 
@@ -197,7 +197,4 @@ Charles
 
 - [Armada](https://www.amazon.com/Armada-novel-author-Ready-Player-ebook/dp/B00TNDID0O/ref=sr_1_3?s=books&ie=UTF8&qid=1540156933&sr=1-3&keywords=ready+player+one)
 
-
 ### Transcript
-
-

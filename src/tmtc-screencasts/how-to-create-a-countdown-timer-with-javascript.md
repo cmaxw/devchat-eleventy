@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      How to Create a Countdown Timer with Javascript
+  How to Create a Countdown Timer with Javascript
 date: 2010-11-30 03:29:19
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

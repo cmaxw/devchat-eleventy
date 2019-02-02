@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      CanCan: Setting Permissions - Delicious Clone
+  CanCan: Setting Permissions - Delicious Clone
 date: 2011-02-11 16:02:28
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

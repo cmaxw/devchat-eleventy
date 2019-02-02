@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 037: Derek Prior
+  MRS 037: Derek Prior
 date: 2018-03-28 10:00:30
 episode_number: 037
 duration: 43:02
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_037_Derek_Prior.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Derek Prior
 
@@ -65,7 +65,4 @@ Derek
 - [Lucky Framework](https://luckyframework.org/)
 - [The Weekend Woodworker](https://theweekendwoodworker.com/bmw/)
 
-
 ### Transcript
-
-

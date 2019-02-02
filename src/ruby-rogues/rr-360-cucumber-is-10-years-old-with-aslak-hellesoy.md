@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 360: Cucumber is 10 years old with Aslak Hellesøy
+  RR 360: Cucumber is 10 years old with Aslak Hellesøy
 date: 2018-05-01 10:00:20
 episode_number: 360
 duration: 1:12:31
 audio_url: https://media.devchat.tv/ruby-rogues/RR_360_Cucumber_is_10_years_old_with_Aslak_Hellesoy.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - David Richards
@@ -53,7 +53,7 @@ In this episode of Ruby Rogues, the panelists talk to Aslak Hellesøy about Cucu
 - [Cypress](https://www.cypress.io/)
 - [Capybara](http://teamcapybara.github.io/capybara/)
 - [Cucumber’s Slack](https://cucumber.io/support#slack)
-- [@aslak\_hellesoy](https://twitter.com/aslak_hellesoy?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+- [@aslak_hellesoy](https://twitter.com/aslak_hellesoy?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Aslak’s GitHub](https://github.com/aslakhellesoy)
 
 **Picks:**
@@ -72,7 +72,4 @@ Aslak
 - [BDD and Cucumber Training in June](https://cucumber.io/events/approved-trainer-program-chicago)
 - [Cucumber Electron](https://github.com/cucumber/cucumber-electron)
 
-
 ### Transcript
-
-

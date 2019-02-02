@@ -1,33 +1,33 @@
 ---
 layout: layouts/post.njk
 title: >
-      165 iPS Augmented Reality and Pokemania
+  165 iPS Augmented Reality and Pokemania
 date: 2016-08-11 07:00:26
 episode_number: 165
 duration: 30:38
 audio_url: https://media.devchat.tv/iphreaks/iPS165Pokemania.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 01:47 - [Pokémon GO](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/) & [Niantic](https://www.nianticlabs.com/)02:19 - [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality) vs [Virtual Reality](https://en.wikipedia.org/wiki/Virtual_reality)03:42 - Game Objective: How it Works07:58 - Location Data
+
 - [Ingress](https://www.ingress.com/)
-10:11 - Cloud and Backend Service Issues11:49 - Do bugs matter?15:14 - Content vs Technical Execution
+  10:11 - Cloud and Backend Service Issues11:49 - Do bugs matter?15:14 - Content vs Technical Execution
 - [This man's Pokémon Go chat app is so successful that it's driving him bankrupt](http://www.theverge.com/2016/7/11/12153370/gochat-pokemon-go-chat-app-jonathan-zarra-interview)
 - [The Dark Souls Video Games](https://en.wikipedia.org/wiki/Dark_Souls)
-19:59 - The Success of Pokémon GO and The Game Ecosystem23:09 - Augmented Reality Awareness
+  19:59 - The Success of Pokémon GO and The Game Ecosystem23:09 - Augmented Reality Awareness
 - [QONQR](http://www.qonqr.com/)
 - [Microsoft HoloLens](https://www.microsoft.com/microsoft-hololens/)
 - [The Untold Story of Magic Leap, the World’s Most Secretive Startup](http://www.wired.com/2016/04/magic-leap-vr/)
-&nbsp;Picks
+  &nbsp;Picks
 - [The Pokémon GO Subreddit](https://www.reddit.com/r/pokemongo) (Caleb)
 - [Intocircuit 15000mAh 4.8A Dual USB Portable Power Bank with SmartID Technology](http://amzn.to/29w1sb5) (Caleb)
 - [Nintendo Pokemon Go Plus](http://amzn.to/29OD7wg) (Caleb)
 - [PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr/) (Layne)
 - [Poweradd Pilot 2GS 10000mAh Portable Power Bank with Smart Charge](https://www.amazon.com/Poweradd-Pilot-2GS-10000mAh-Portable/dp/B00ITILPZ4) (Jaim)
-
 
 ### Transcript
 
@@ -240,5 +240,3 @@ It’s got two USB outputs and it charges pretty quick so you could – you and 
 **JAIM:** Alright. Tune in next week to find out who’s the poke-master. [Chuckles] Alright, have a great week everyone.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

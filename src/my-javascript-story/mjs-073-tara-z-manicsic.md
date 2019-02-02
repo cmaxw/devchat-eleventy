@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 073: Tara Z. Manicsic
+  MJS 073: Tara Z. Manicsic
 date: 2018-08-08 19:01:37
 episode_number: 073
 duration: 37:21
 audio_url: https://media.devchat.tv/my-js-story/MJS_073%20Tara_%20Z_Manicsic.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Tara Z. Manicsic
 
@@ -23,7 +23,7 @@ This week on My JavaScript Story, Charles speaks with Tara Z. Manicsic. Tara is 
 - Tara intro
 - Very excited and fascinated with the web
 - Helped to start up [React Round Up](https://devchat.tv/react-round-up/rru-001-getting-started-react/) as a panelist
-- Her experience as a developer 
+- Her experience as a developer
 - Started out as a business school dropout
 - How did you first get into programming?
 - Learned Logo in the second grade
@@ -31,7 +31,7 @@ This week on My JavaScript Story, Charles speaks with Tara Z. Manicsic. Tara is 
 - [Crystal Reports](https://www.crystalreports.com/) at Harvard Law
 - CS courses with tuition assistance
 - Getting back into CS
-- Being a non-traditional student 
+- Being a non-traditional student
 - Finding [Women Who Code](https://www.womenwhocode.com/)
 - First job as a [Node](https://nodejs.org/en/) software engineer
 - How did Women Who Code help you?
@@ -80,7 +80,4 @@ Tara
 - [DevFest Atlanta](http://devfestatl.com/)
 - [Cedar Point](https://www.cedarpoint.com/)
 
-
 ### Transcript
-
-

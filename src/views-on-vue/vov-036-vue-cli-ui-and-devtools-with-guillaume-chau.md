@@ -1,21 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 036: Vue CLI UI and Devtools with Guillaume Chau
+  VoV 036: Vue CLI UI and Devtools with Guillaume Chau
 date: 2018-11-06 11:00:00
 episode_number: 036
 duration: 53:19
 audio_url: https://media.devchat.tv/viewsonvue/VoV_036_Vue_CLI_UI_and_Devtools_with_Guillaume_Chau.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Joe Eames
-- Chris Fritz 
+- Chris Fritz
 - Divya Sasidharan
 
 **Special Guest:** [Guillaume Chau](https://www.linkedin.com/in/guillaumechau)
@@ -258,14 +258,11 @@ Divya
 Chris
 
 - Meditation
-- Gratefulness 
+- Gratefulness
 
 Guillaume
 
 - Exercise
 - [The Expanse](https://www.whats-on-netflix.com/news/amazons-the-expanse-is-leaving-netflix/)
 
-
 ### Transcript
-
-

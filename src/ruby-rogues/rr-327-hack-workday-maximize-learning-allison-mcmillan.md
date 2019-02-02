@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 327: Hack Your Workday to Maximize Learning with Allison McMillan
+  RR 327: Hack Your Workday to Maximize Learning with Allison McMillan
 date: 2017-09-12 05:00:37
 episode_number: 327
 duration: 57:52
 audio_url: https://media.devchat.tv/ruby-rogues/RR_327_Hack_Your_Workday_to_Maximize_Learning_with_Allison_McMillan.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
   - new_programmers
@@ -20,7 +20,7 @@ Allison is a developer in the Washington DC area. She is a non-profit executive 
 - Team collaboration
 - Contributing to open source
 - and much, much more...
-Links:
+  Links:
 - [Delayed Job](https://github.com/collectiveidea/delayed_job)
 - [Allison's Blog](http://daydreamsinruby.com/)
 - [Baby Driven Development talk](https://www.youtube.com/watch?v=nZHTg3Hza1U)
@@ -37,18 +37,17 @@ Links:
 - [Allison on Twitter](http://twitter.com/allie_p)
 
 ### Picks:
+
 Eric:
+
 - [Gallup Strengths Test](https://www.gallupstrengthscenter.com/Home/en-US/Index/)
 - [Metabase](http://www.metabase.com/)
-Allison:
+  Allison:
 - [Sticky Note Game by TableXI](http://www.tablexi.com/developers/xi-to-eye-the-sticky-note-game/)
 - [WriteSpeakCode](http://www.writespeakcode.com/)
 - [Ruby Jewel](http://www.rubyjewel.com/)
 - [Crystal DISC Assessment](https://www.crystalknows.com/)
-Dave
+  Dave
 - [Rails Guides](http://guides.rubyonrails.org)
 
-
 ### Transcript
-
-
