@@ -10,6 +10,10 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - learning
+  - teaching
+  - boot_camp
+  - university
 ---
 
 02:20 - Eric Normand Introduction

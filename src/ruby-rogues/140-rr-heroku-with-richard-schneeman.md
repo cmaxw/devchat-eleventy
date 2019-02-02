@@ -10,6 +10,8 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - heroku
+  - deployment
 ---
 
 ## [Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well!](http://teespring.com/rubyroguestee)

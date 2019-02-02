@@ -10,6 +10,13 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - gem_maintainer
+  - rubocop
+  - linter
+  - formatting
+  - editors
+  - emacs
+  - vscode
 ---
 
 **Panel:**

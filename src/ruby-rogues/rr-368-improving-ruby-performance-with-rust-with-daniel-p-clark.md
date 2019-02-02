@@ -10,6 +10,9 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - rust
+  - performance
+  - C
 ---
 
 **Panel:**

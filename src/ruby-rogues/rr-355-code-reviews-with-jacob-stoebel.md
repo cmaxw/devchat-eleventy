@@ -10,6 +10,9 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - code_review
+  - communication
+  - feedback
 ---
 
 **Panel:**

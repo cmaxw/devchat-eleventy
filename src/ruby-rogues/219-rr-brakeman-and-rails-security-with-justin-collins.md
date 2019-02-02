@@ -10,6 +10,11 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - gem_maintainer
+  - brakeman
+  - security
+  - xss
+  - sql_injection
 ---
 
 02:40 - Justin Collins Introduction

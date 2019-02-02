@@ -10,6 +10,10 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - monolith
+  - multiple_databases
+  - rails_engines
+  - devops
 ---
 
 **Panel:**

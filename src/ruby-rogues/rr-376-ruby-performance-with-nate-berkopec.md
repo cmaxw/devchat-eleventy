@@ -10,6 +10,13 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - performance
+  - turbolinks
+  - scaling
+  - n+1
+  - bullet
+  - types
+  - benchmarks
 ---
 
 **Panel:**

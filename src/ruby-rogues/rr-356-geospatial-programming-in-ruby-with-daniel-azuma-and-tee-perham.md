@@ -10,6 +10,11 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - gem_maintainer
+  - location
+  - maps
+  - geospatial
+  - data
 ---
 
 **Panel:**

@@ -10,6 +10,10 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - angular
+  - javascript
+  - asset_pipeline
+  - frontend_framework
 ---
 
 00:42 - Introducing Jason Swett
