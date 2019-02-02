@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      TMTC 35 - Joe Ferris from Thoughtbot
+  TMTC 35 - Joe Ferris from Thoughtbot
 date: 2010-10-05 14:00:39
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -22,4 +22,4 @@ Joe is one of the talented developers at [Thoughtbot](http://thoughtbot.com) in 
 - [Rspec](http://rspec.info)
 - [Trout](http://github.com/jferris/trout)
 - [Effigy](http://github.com/jferris/effigy)
-Thoughtbot is responsible for [HopToad](http://hoptoadapp.com). Joe also mentioned that Thoughtbot uses [Pivotal Tracker](http://pivotaltracker.com) and most developers use VIM. His VIM config files are [here](http://github.com/jferris/config_files). Here's the [article](http://robots.thoughtbot.com/post/1133585959/team-rotations) on Team Rotation.[Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC_35_-_Joe_Ferris.mp3)
+  Thoughtbot is responsible for [HopToad](http://hoptoadapp.com). Joe also mentioned that Thoughtbot uses [Pivotal Tracker](http://pivotaltracker.com) and most developers use VIM. His VIM config files are [here](http://github.com/jferris/config_files). Here's the [article](http://robots.thoughtbot.com/post/1133585959/team-rotations) on Team Rotation.[Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC_35_-_Joe_Ferris.mp3)

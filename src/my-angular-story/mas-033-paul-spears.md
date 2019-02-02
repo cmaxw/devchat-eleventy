@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 033: Paul Spears
+  MAS 033: Paul Spears
 date: 2018-04-18 10:00:17
 episode_number: 033
 duration: 31:54
 audio_url: https://media.devchat.tv/my-angular-story/MAS_033_Paul_Spears.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Paul Spears
 
@@ -35,7 +35,7 @@ This week on My Angular Story, Charles speaks with Paul Spears. Paul works for [
 - [Angular](https://angular.io/)
 - Learning the actual API is not the main goal
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job)
-- Hiring outside the CS degree 
+- Hiring outside the CS degree
 - What are you most proud of contributing to the community?
 - Project work
 - Creating curriculum
@@ -65,7 +65,4 @@ Paul
 - [StackBlitz](https://stackblitz.com/)
 - [Nintendo Switch](https://www.nintendo.com/switch/)
 
-
 ### Transcript
-
-

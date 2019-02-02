@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 027:  ExVenture with Eric Oestrich
+  EMx 027:  ExVenture with Eric Oestrich
 date: 2018-11-13 11:00:44
 episode_number: 027
 duration: 55:22
 audio_url: https://media.devchat.tv/elixir-mix/EMx_027_Eric_Oestrich.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Mark Ericksen
-- Josh Adams 
-- Nate Hopkins 
-- Charles Max Wood 
+- Josh Adams
+- Nate Hopkins
+- Charles Max Wood
 
 **Special Guest:** [Eric Oestrich](https://twitter.com/ericoestrich)
 
@@ -237,7 +237,7 @@ _Eric continues._
 - [React](https://reactjs.org)
 - [Erlang](https://www.erlang.org)
 - [ExVenture](https://exventure.org)
-- [Ex\_Venture](https://github.com/oestrich/ex_venture)
+- [Ex_Venture](https://github.com/oestrich/ex_venture)
 - [ExVenture’s Trello Board](https://trello.com/b/PFGmFWmu/exventure)
 - [Prometheus](https://github.com/prometheus/prometheus)
 - [Prometheus EX](https://github.com/deadtrickster/prometheus.ex)
@@ -289,14 +289,11 @@ Josh
 
 Nate
 
-- Mentoring and Paired Programming 
+- Mentoring and Paired Programming
 - [Metabase](https://metabase.com/)
 
 Charles
 
 - [Monster Hunters International](https://www.amazon.com/Monster-Hunter-International/dp/B004S4ZCMU/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 
-
 ### Transcript
-
-

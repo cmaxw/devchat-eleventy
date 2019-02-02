@@ -4,9 +4,9 @@ author: Charles Max Wood
 date: 2019-01-19 8:00:00
 image: /images/blog/wordpress.jpg
 tags:
-    - blog
-    - wordpress
-    - podcasting
+  - blog
+  - wordpress
+  - podcasting
 ---
 
 Devchat.tv has moved from one system to another over the years. Originally, when we started out with Ruby Rogues, we started with a Wordpress installation that I set up to host the podcast.

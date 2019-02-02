@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Next To Your App: Ruby Web App Architecture - Ruby Remote Conf 2015
+  Next To Your App: Ruby Web App Architecture - Ruby Remote Conf 2015
 date: 2015-12-29 23:38:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: remote-conf-talks
-tags: 
+tags:
   - remote_conf_talks
   - podcast
 ---
@@ -21,5 +21,3 @@ We'll (quickly) talk about the standard software for these pieces -- Passenger, 
 &nbsp;
 
 At the end of the talk you'll know what you can put in your Gemfile to choose these, how production is different from development, and the beginning of how you'd set this all up on your own if you needed to. You'll also know why you'd have to choose one piece of software over another, versus when it's basically your call.
-
-

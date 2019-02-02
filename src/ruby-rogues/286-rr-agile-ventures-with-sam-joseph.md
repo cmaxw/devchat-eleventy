@@ -1,25 +1,26 @@
 ---
 layout: layouts/post.njk
 title: >
-      286 RR Agile Ventures with Sam Joseph
+  286 RR Agile Ventures with Sam Joseph
 date: 2016-11-16 06:00:04
 episode_number: 286
 duration: 1:09:36
 audio_url: https://media.devchat.tv/ruby-rogues/RR286_Agile_Ventures_with_Sam_Joseph.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 00:35 - Introducing Sam Joseph
+
 - [Agile Ventures](http://www.agileventures.org/)
 - [Github](https://github.com/tansaku)
 - [Twitter](https://twitter.com/tansakuu)
-2:15 - All about Agile Ventures6:25 - Social innovations 9:30 - Common needs of charity organizations15:15 - Origins and growth of Agile Ventures19:19 - Website One22:00 - Goals for the future of Agile Ventures24:40 - Getting involved
+  2:15 - All about Agile Ventures6:25 - Social innovations 9:30 - Common needs of charity organizations15:15 - Origins and growth of Agile Ventures19:19 - Website One22:00 - Goals for the future of Agile Ventures24:40 - Getting involved
 - [sam@agileventures.org](mailto:sam@agileventures.org)
 - [AG sign up](http://www.agileventures.org/users/sign_up)
-29:00 - Finding motivated team members and using MOOC32:40 - Connecting with your team and building up confidence37:40 - Direct Messaging42:10 - Fear of asking questions on Stack Overflow52:17 - Scaling Agile Ventures56:15 - Predictions for the future **Picks:** [_Flow: The Psychology of Optimal Experience_ by Mihaly Csikszentmihalyi](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202)(Jason)[jason@benfranklinlabs.com](mailto:jason@benfranklinlabs.com) for working with Jason as a consultant (Jason)[_Dataclysm: Love, Sex, Race, and Identity--What Our Online Lives Tell Us about Our Offline Selve_s by Christian Rudder](https://www.amazon.com/Dataclysm-Identity-What-Online-Offline-Selves/dp/0385347391) (Jerome)[_Remote: Office Not Required_ by Jason Fried and David Heinemeier Hansson](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501) (Jerome)[MindMup2](https://www.mindmup.com/) (Charles)[_Born to Win_ seminar by Zig Ziglar on Audible](http://www.audible.com/pd/Self-Development/Born-to-Win-Audiobook/B0070YK1VM?mkwid=DSATitle_dc&pcrid=158258695641&pmt=b&pkw=_cat%3Aself%20development&source_code=GO1GB907OSH060513&cvosrc=ppc%20dynamic%20search.google.97175169&cvo_crid=158258695641&cvo_pid=5075902449&gclid=CjwKEAiAmJvBBRDKpP724LigwngSJAAYRJXBxRiByMLCmnV-oiCFDDe3jiAHxehMTGGLNG6XaY7CEhoCWanw_wcB) (Charles)[Rail Roady](https://github.com/preston/railroady) (Sam)[_The Shadow Out of Time_ by H.P. Lovecraft](http://www.hplovecraft.com/writings/texts/fiction/sot.aspx) (Sam)[_Genestealer Cults_ by Peter Fehervari](http://www.blacklibrary.com/warhammer-40000/40k-novs/genestealer-cults-ebook.html)(Sam)[Tyranids](https://en.wikipedia.org/wiki/Tyranids) (Sam)
+  29:00 - Finding motivated team members and using MOOC32:40 - Connecting with your team and building up confidence37:40 - Direct Messaging42:10 - Fear of asking questions on Stack Overflow52:17 - Scaling Agile Ventures56:15 - Predictions for the future **Picks:** [_Flow: The Psychology of Optimal Experience_ by Mihaly Csikszentmihalyi](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202)(Jason)[jason@benfranklinlabs.com](mailto:jason@benfranklinlabs.com) for working with Jason as a consultant (Jason)[\_Dataclysm: Love, Sex, Race, and Identity--What Our Online Lives Tell Us about Our Offline Selve_s by Christian Rudder](https://www.amazon.com/Dataclysm-Identity-What-Online-Offline-Selves/dp/0385347391) (Jerome)[_Remote: Office Not Required_ by Jason Fried and David Heinemeier Hansson](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501) (Jerome)[MindMup2](https://www.mindmup.com/) (Charles)[_Born to Win_ seminar by Zig Ziglar on Audible](http://www.audible.com/pd/Self-Development/Born-to-Win-Audiobook/B0070YK1VM?mkwid=DSATitle_dc&pcrid=158258695641&pmt=b&pkw=_cat%3Aself%20development&source_code=GO1GB907OSH060513&cvosrc=ppc%20dynamic%20search.google.97175169&cvo_crid=158258695641&cvo_pid=5075902449&gclid=CjwKEAiAmJvBBRDKpP724LigwngSJAAYRJXBxRiByMLCmnV-oiCFDDe3jiAHxehMTGGLNG6XaY7CEhoCWanw_wcB) (Charles)[Rail Roady](https://github.com/preston/railroady) (Sam)[_The Shadow Out of Time_ by H.P. Lovecraft](http://www.hplovecraft.com/writings/texts/fiction/sot.aspx) (Sam)[_Genestealer Cults_ by Peter Fehervari](http://www.blacklibrary.com/warhammer-40000/40k-novs/genestealer-cults-ebook.html)(Sam)[Tyranids](https://en.wikipedia.org/wiki/Tyranids) (Sam)
 
 ### Transcript
 

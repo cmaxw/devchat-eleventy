@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 334: “Web Performance API” with Dan Shappir
+  JSJ 334: “Web Performance API” with Dan Shappir
 date: 2018-10-09 10:00:00
 episode_number: 334
 duration: 1:07:58
 audio_url: https://media.devchat.tv/js-jabber/JSJ_334_Dan_Shappir_Web_Performance_API.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Aimee Knight](http://www.aimeemarieknight.com)
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
@@ -193,13 +193,13 @@ Frontend developer pro is that likely being woken up in the middle of the night 
 - [Sentry](https://sentry.io/welcome/)
 - [Digital Ocean](https://www.cachefly.com)
 - [Cache Fly](https://www.cachefly.com)
-- 
+-
 
 **Picks:**
 
 [Aimee:](http://www.aimeemarieknight.com)
 
-- Waking up early! 
+- Waking up early!
 - [How to Deal with Dirty Side Effects in Your Pure Functional JavaScript](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
 
 [Chris](https://2013.boston.wordcamp.org/speakers/):
@@ -219,7 +219,4 @@ Frontend developer pro is that likely being woken up in the middle of the night 
 - [Wix Engineering](https://www.wix.engineering/)
 - [JavaScript Riddle](https://twitter.com/hashtag/JavaScriptRiddle)
 
-
 ### Transcript
-
-

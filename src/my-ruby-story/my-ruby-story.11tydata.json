@@ -1,4 +1,4 @@
 {
-    "layout": "layouts/post.njk",
-    "image": "/images/podcasts/MyRubyStory-500.jpg"
+  "layout": "layouts/post.njk",
+  "image": "/images/podcasts/MyRubyStory-500.jpg"
 }

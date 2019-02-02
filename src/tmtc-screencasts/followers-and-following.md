@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      Followers and Following
+  Followers and Following
 date: 2011-12-03 06:48:16
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---
 
 <object width="560" height="315" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true">
+
 <param name="allowscriptaccess" value="always">
 <param name="src" value="http://www.youtube.com/v/SCTxn5VXTg8?version=3&amp;hl=en_US">
 <param name="allowfullscreen" value="true">

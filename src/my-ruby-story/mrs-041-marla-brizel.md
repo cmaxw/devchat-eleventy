@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 041: Marla Brizel
+  MRS 041: Marla Brizel
 date: 2018-04-25 10:00:26
 episode_number: 041
 duration: 38:56
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_041_Marla_Brizel.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Marla Brizel
 
@@ -37,7 +37,7 @@ This week on My Ruby Story, Charles talks to Marla Brizel. Marla works at [Test 
 - How did you get into [Ruby](https://www.ruby-lang.org/en/)?
 - [Girl Develop It](https://www.girldevelopit.com/)
 - Why Ruby?
-- Ruby reads like English 
+- Ruby reads like English
 - How did you wind up at Test Double?
 - The value of conferences
 - What have you done with Ruby that you are proud of?
@@ -76,10 +76,7 @@ Marla
 - [dry-rb](https://dry-rb.org/)
 - [GitX](http://gitx.frim.nl/)
 - [Silvercar](https://www.silvercar.com/)
-- Denver Airport Train 
+- Denver Airport Train
 - [Denver Startup Week](https://www.denverstartupweek.org/)
 
-
 ### Transcript
-
-

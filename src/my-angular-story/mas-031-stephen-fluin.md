@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 031: Stephen Fluin
+  MAS 031: Stephen Fluin
 date: 2018-04-04 16:22:46
 episode_number: 031
 duration: 37:09
 audio_url: https://media.devchat.tv/my-angular-story/MAS_031_Stephen_Fluin.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Stephen Fluin
 
@@ -66,7 +66,4 @@ Stephen
 - [Troll Attack](https://trollattack.com/)
 - [Angular Update Guide](https://github.com/StephenFluin/angular-update-guide)
 
-
 ### Transcript
-
-

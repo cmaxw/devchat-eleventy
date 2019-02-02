@@ -1,25 +1,25 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 243 Immutable.js with Lee Byron
+  JSJ 243 Immutable.js with Lee Byron
 date: 2016-12-21 12:36:43
 episode_number: 243
 duration: 1:02:30
 audio_url: https://media.devchat.tv/js-jabber/JSJ243_Immutable.js_with_Lee_Byron.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 1:05 - Introducing Lee Byron
 
-  - [Ruby Rogues episode](https://devchat.tv/ruby-rogues/231-rr-graphql-with-lee-byron)
-1:55 - [Immutable.js](https://facebook.github.io/immutable-js/)4:35 - Modifying data and operations using Immutable.js7:40 - Explaining Big-O notation in layman’s terms11:30 - Internal tree structures and arrays15:50 - Why build with Immutable.js?23:05 - Change detection with a mutable25:00 - Computer science history34:35 - Other positives to using mutables37:50 - Flux and Redux39:50 - When should you use a mutable?46:10 - Using Immutable.js instead of the built-in Javascript option51:50 - Learning curves and learning materials
+- [Ruby Rogues episode](https://devchat.tv/ruby-rogues/231-rr-graphql-with-lee-byron)
+  1:55 - [Immutable.js](https://facebook.github.io/immutable-js/)4:35 - Modifying data and operations using Immutable.js7:40 - Explaining Big-O notation in layman’s terms11:30 - Internal tree structures and arrays15:50 - Why build with Immutable.js?23:05 - Change detection with a mutable25:00 - Computer science history34:35 - Other positives to using mutables37:50 - Flux and Redux39:50 - When should you use a mutable?46:10 - Using Immutable.js instead of the built-in Javascript option51:50 - Learning curves and learning materials
 - [Docs](https://facebook.github.io/immutable-js/docs/#/)
-54:50 - Bowties
+  54:50 - Bowties
 - [Knotty Co](https://www.knottyco.com/)
-**Picks:** [_Contractor_ by Andrew Ball](https://www.amazon.com/Contractor-Contractors-Book-Andrew-Ball-ebook/dp/B00MQED6EA)[17 Hats](https://17hats.com/) (Charles)[Asana](https://asana.com/) (Charles)[Call of Duty Infinite Warfare](https://www.callofduty.com/infinitewarfare) (Joe)[LEGO Star Wars](https://www.lego.com/en-us/starwars) (Joe)[Advent of Code](https://adventofcode.com/) (Lee)&nbsp;
+  **Picks:** [_Contractor_ by Andrew Ball](https://www.amazon.com/Contractor-Contractors-Book-Andrew-Ball-ebook/dp/B00MQED6EA)[17 Hats](https://17hats.com/) (Charles)[Asana](https://asana.com/) (Charles)[Call of Duty Infinite Warfare](https://www.callofduty.com/infinitewarfare) (Joe)[LEGO Star Wars](https://www.lego.com/en-us/starwars) (Joe)[Advent of Code](https://adventofcode.com/) (Lee)&nbsp;
 
 ### Transcript
 

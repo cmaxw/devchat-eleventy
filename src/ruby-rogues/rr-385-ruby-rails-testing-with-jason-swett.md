@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 385: “Ruby/Rails Testing” with Jason Swett
+  RR 385: “Ruby/Rails Testing” with Jason Swett
 date: 2018-10-23 10:00:17
 episode_number: 385
 duration: 1:02:03
 audio_url: https://media.devchat.tv/ruby-rogues/RR_385_Jason_Swett_Ruby_Rails_Testing.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Dave Kimura
 - Eric Berry
@@ -279,7 +279,4 @@ Jason
 - [The Food Lab](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087)
 - [Growing Object-Oriented Software](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 
-
 ### Transcript
-
-

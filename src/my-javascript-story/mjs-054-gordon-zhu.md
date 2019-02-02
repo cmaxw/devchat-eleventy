@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 054: Gordon Zhu
+  MJS 054: Gordon Zhu
 date: 2018-03-28 10:00:37
 episode_number: 054
 duration: 45:41
 audio_url: https://media.devchat.tv/my-js-story/MJS_054_Gordon_Zhu.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Gordon Zhu
 
@@ -49,7 +49,7 @@ This week on My JavaScript Story, Charles speaks with Gordon Zhu. Gordon is the 
 - [Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror)
 - [Angular](https://angular.io/)
 - [Python](https://www.python.org/)
-- [@Gordon\_Zhu](https://twitter.com/gordon_zhu?lang=en)
+- [@Gordon_Zhu](https://twitter.com/gordon_zhu?lang=en)
 - [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
 
 **Picks**
@@ -69,7 +69,4 @@ Gordon
 - [How I Built This podcast](https://www.npr.org/podcasts/510313/how-i-built-this)
 - [Stay Tuned with Preet podcast](https://www.npr.org/podcasts/551791730/stay-tuned-with-preet)
 
-
 ### Transcript
-
-

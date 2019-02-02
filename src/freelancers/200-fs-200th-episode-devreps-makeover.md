@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      200 FS 200th Episode: DevReps Makeover!
+  200 FS 200th Episode: DevReps Makeover!
 date: 2016-05-05 07:00:54
 episode_number: 200
 duration: 01:18:54
 audio_url: https://media.devchat.tv/freelancers/FS200DevReps.mp3?rss=true
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 02:42 - Mandy Moore Introduction
 
-- [Twitter](http://www.twitter.com/therubyrep) 
+- [Twitter](http://www.twitter.com/therubyrep)
 - [DevReps](http://www.devreps.com/)
 
 04:54 - Weekly Billing vs Hourly Billing
@@ -45,11 +45,9 @@ Picks
 
 “Worry is a misuse of imagination.” - Dan Zadra (Jonathan)[The Cook and the Chef: Musk’s Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) (Jonathan)[BusyCal](http://www.busymac.com/busycal/) (Reuven)[Lead Generation Trust Velocity](https://philipmorganconsulting.com/lead-generation-trust-velocity/) (Philip)[Prisonbreak Bootcamp](https://philipmorganconsulting.com/prisonbreak/) (Philip)[DesktopServer](https://serverpress.com/get-desktopserver/) (Chuck)[Advanced Custom Fields](https://www.advancedcustomfields.com/) (Chuck)[Sublime Text](https://www.sublimetext.com/) (Chuck)[Plan to Eat](https://www.plantoeat.com/ref/89ac595892) (Mandy)[Laredo Boots](http://www.countryoutfitter.com/laredo/) (Mandy)
 
-
-
 ### Transcript
 
- **CHUCK:** So we’re picking on Mandy for episode 200, right?
+**CHUCK:** So we’re picking on Mandy for episode 200, right?
 
 **MANDY:** I guess we’re picking on Mandy.
 
@@ -181,7 +179,7 @@ I basically feel like I’m like a show manager right now. And I also do a lot o
 
 **JONATHAN:** Yeah, it’s more like a subscription, but there’s no deliverable. It’s an on-demand thing so it’s like you’re paying for access. Let’s say I was going to start a writing career and I knew I was going to have questions for Stephen King, but I don’t know what the questions are yet. I just can’t say “Stephen King, can I pay you for an hour and we’ll sit down and I’ll ask you every question I ever going to have throughout the course of writing this novel?”
 
-But as I’m writing the novel, I don’t want to be delayed when I do have a question, and I would pay Stephen King at least $20 a month [chuckles] to be able to call him up. Someone would certainly pay Stephen King a thousand dollars a month easily. He would never do this I’m sure. He’s too big, but someone would pay a famous writer thousands of dollars a month to be able to basically say “dude, what would you do? I've gotten stuck. What would you do here?”
+But as I’m writing the novel, I don’t want to be delayed when I do have a question, and I would pay Stephen King at least \$20 a month [chuckles] to be able to call him up. Someone would certainly pay Stephen King a thousand dollars a month easily. He would never do this I’m sure. He’s too big, but someone would pay a famous writer thousands of dollars a month to be able to basically say “dude, what would you do? I've gotten stuck. What would you do here?”
 
 **REUVEN:** So you’re basically distinguishing between paying me a subscription per month, per week, whatever it would be, and I’ll get your things done. And we know roughly what it’s going to take, but no one going to [inaudible] if it’s up 10%, 20% or down 10%, 20% because everyone’s happy in the deal in terms of money and in terms of deliverables.
 
@@ -211,7 +209,7 @@ But as I’m writing the novel, I don’t want to be delayed when I do have a qu
 
 Before you know it, Mandy is just doing the stuff that a human actually needs to do and has outsourced a lot of the other things, and could potentially do – let’s say she could do 10 X of this; you could end up paying less. She could be doing less or doing about the same and making way more money.
 
-**CHUCK:** Yeah. I’m looking at Podcast Motor’s pricing page right now, and their $500 a month is 5 shows or 5 episodes including intros, outros, music, sound effects, et cetera. They tag the mp3 file with ID3 tags. They fine tune the recording, I’m assuming, so they remove noise and balance audio levels and things like that. And then they also write the show notes.
+**CHUCK:** Yeah. I’m looking at Podcast Motor’s pricing page right now, and their \$500 a month is 5 shows or 5 episodes including intros, outros, music, sound effects, et cetera. They tag the mp3 file with ID3 tags. They fine tune the recording, I’m assuming, so they remove noise and balance audio levels and things like that. And then they also write the show notes.
 
 **PHILIP:** Let me interject, if you guys don’t mind, with it a big picture question. I’m getting a sense of the responsibilities of running the show, but I don’t really understand what really creates value. I guess I don’t really understand how the show relates to your business, Chuck, because I imagine the sponsorship checks get made out to you and not you and Mandy. So what would make the show have more value to you as a business asset?
 
@@ -219,7 +217,7 @@ Before you know it, Mandy is just doing the stuff that a human actually needs to
 
 **PHILIP:** To me, that’s part of this conversation.
 
-**CHUCK:** Yeah. So I [inaudible] [chuckles] I’ll admit that. I’m getting back into it now and making sure that things get out there. I definitely would like to see more growth. I think that would add a lot more value.
+**CHUCK:** Yeah. So I [inaudible][chuckles] I’ll admit that. I’m getting back into it now and making sure that things get out there. I definitely would like to see more growth. I think that would add a lot more value.
 
 **PHILIP:** So more listeners?
 
@@ -267,7 +265,7 @@ Before you know it, Mandy is just doing the stuff that a human actually needs to
 
 **CHUCK:** Yeah
 
-**JONATHAN:** So operations, if anything at best, is really like table stakes/cost-cutting in terms of your time, Chuck. But if Mandy was dropping a $5,000-sponsorship on you every couple of weeks, it’d be like “sweet!”
+**JONATHAN:** So operations, if anything at best, is really like table stakes/cost-cutting in terms of your time, Chuck. But if Mandy was dropping a \$5,000-sponsorship on you every couple of weeks, it’d be like “sweet!”
 
 **CHUCK:** Yup.
 
@@ -467,7 +465,7 @@ So I think there are some ways that Mandy could add value just in the sense of b
 
 **MANDY:** I agree. I agree.
 
-[Crosstalk] [Chuckles]
+[Crosstalk][chuckles]
 
 **MANDY:** I have a lot of things that I can think of off the top of my head that over the past 4 years, I could sit down and be like “hey Chuck, have you considered doing this, this and this, and this would make the shows this much better”, but then at the same time, I’m thinking about it and I’m like “do I really want to tell him that because it’s just going to create more work for me” [chuckles].
 
@@ -871,7 +869,7 @@ And then a lot of you know that I am an Emacs junkie, and –
 
 [Chuckles]
 
-**MANDY:** Alright. Well, that leaves me. Surprise, I’m a planner. I like to plan things. There's this website called plantoeat.com. It is the most amazing thing I have come across in so long. I signed up for 30 days free, and it was completely free; no credit card required or anything. And quickly after 30 days, I realized that I could not live without it. And then it’s – I paid for outright $39 a year, but what it is you install a Chrome extension and if you see a recipe while you're online just going about your day on Facebook or anywhere else, if you see the recipe, press this button and it’ll automatically import it and all the ingredients, all the directions, a picture, the title into it, and then you just drag it over after you get enough of them – you get your Monday, Tuesday, Wednesday, Thursday, all the dinners are laid out.
+**MANDY:** Alright. Well, that leaves me. Surprise, I’m a planner. I like to plan things. There's this website called plantoeat.com. It is the most amazing thing I have come across in so long. I signed up for 30 days free, and it was completely free; no credit card required or anything. And quickly after 30 days, I realized that I could not live without it. And then it’s – I paid for outright \$39 a year, but what it is you install a Chrome extension and if you see a recipe while you're online just going about your day on Facebook or anywhere else, if you see the recipe, press this button and it’ll automatically import it and all the ingredients, all the directions, a picture, the title into it, and then you just drag it over after you get enough of them – you get your Monday, Tuesday, Wednesday, Thursday, all the dinners are laid out.
 
 And then, even better, you can have your dinner menu and be like “ok, I’m going to go grocery shopping”. So then you have it create a grocery list for you. And then you just check off all the stuff that you already have in your kitchen and leave on the list the stuff that you don’t have that you need to get at the store. It’s game changer. These people are amazing. And the UI, it’s just so beautiful. It’s so clean. I love it. I’m slightly obsessed with it. So I use that everyday. And then you can also click on the recipe after it’s in there and it’ll bring the outcome this beautiful screen and it’ll tell you and you can just sit your computer at work, iPad or phone there, and it’ll just display on the screen and it’s beautiful.
 
@@ -924,5 +922,3 @@ And then I’ll say one more pick I have is I just recently got a truck and I fo
 **_[Hosting and bandwidth is provided by the Blue Box Group. Check them out at BlueBox.net.]_**
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

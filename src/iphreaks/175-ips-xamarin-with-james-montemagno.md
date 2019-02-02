@@ -1,26 +1,27 @@
 ---
 layout: layouts/post.njk
 title: >
-      175 iPS Xamarin with James Montemagno
+  175 iPS Xamarin with James Montemagno
 date: 2016-10-20 06:00:59
 episode_number: 175
 duration: 47:50
 audio_url: https://media.devchat.tv/iphreaks/iPS175_Xamarin_with_James_Montemagno.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 1:00: Introduction3:50: [Xamarin](https://www.xamarin.com/)
+
 - Advantages
 - Comparison with [Swift](http://www.apple.com/swift/)
 - Cross-platform capability
-9:15: Same-day support 12:30: Standard library
+  9:15: Same-day support 12:30: Standard library
 - Apple
 - Microsoft
 - [Bitrise](https://www.bitrise.io/)
-16:00: Development process
+  16:00: Development process
 - E-sync away
 - Uiview.animate
 - C#
@@ -29,19 +30,20 @@ tags:
 - [Visual Studio](https://www.visualstudio.com/)
 - CodeLens
 - Refactoring
-22:40: Sharing code
+  22:40: Sharing code
 - Java libraries
 - [Dot.net](https://www.microsoft.com/net)
 - [Json.net](http://www.newtonsoft.com/json)
-28:00: Xamarin Forms
+  28:00: Xamarin Forms
 - Native controls
-34:40: UWP: Universal Windows Platform
+  34:40: UWP: Universal Windows Platform
 - Write Xamarin for Playstation
 - Web framework
-39:50: What’s new in C# 7
+  39:50: What’s new in C# 7
 - Tube holes
 
 ### Picks:
+
 [Clarks Shoes](http://www.clarksusa.com/us/) (Jaim)[James on React Native Radio](https://devchat.tv/react-native-radio/36-xamarin-with-james-montemango) (Charles)[STK Atlanta](http://togrp.com/restaurant/stk-atlanta/) (Charles)[Dot.net](https://www.microsoft.com/net) (James)[Monorail Espresso Seattle](https://www.facebook.com/Monorail-Espresso-117657621584837/) (James)[Merge Conflict podcast](http://www.mergeconflict.fm/) (James)
 
 ### Transcript

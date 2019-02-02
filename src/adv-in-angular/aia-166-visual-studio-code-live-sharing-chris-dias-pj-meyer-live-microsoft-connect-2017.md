@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 166: Visual Studio Code and Live Sharing with Chris Dias and PJ Meyer LIVE at Microsoft Connect 2017
+  AiA 166: Visual Studio Code and Live Sharing with Chris Dias and PJ Meyer LIVE at Microsoft Connect 2017
 date: 2017-12-05 04:00:26
 episode_number: 166
 duration: 1:02:44
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_166_Visual_Studio_Code_and_Live_Sharing-with_Chris_Dias_and_PJ_Meyer_LIVE_at_Microsoft_Connect_2017.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
@@ -37,22 +37,18 @@ Charles Max Wood **Special Guests:&nbsp;** Chris Dias PJ Meyer In this episode, 
 - Envision for what VS Code is becoming?
 - Preparing for a keynote and processes?
 - And much more!
-**Links:**
+  **Links:**
 - https://code.visualstudio.com
 - [https://github.com/chrisdias](https://github.com/chrisdias)
 - [GitHub.com/microsoft](http://GitHub.com/microsoft)
 - @code
-**Picks:** Chris
+  **Picks:** Chris
 - Pizza
-PJ
+  PJ
 - Deli
-Charles
+  Charles
 - Coupon Pass for tourist in NYC
-
-
 
 ### Transcript
 
 &nbsp;
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 288: Scope Last
+  FS 288: Scope Last
 date: 2018-03-15 10:00:09
 episode_number: 288
 duration: 1:06:38
 audio_url: https://media.devchat.tv/freelancers/FS_288_Scope_Last.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Reuven Lerner
 - Jonathan Stark
@@ -53,7 +53,4 @@ Jonathan:
 - [Google Wifi](https://store.google.com/product/google_wifi)
 - [Value Pricing Bootcamp](https://expensiveproblem.com/list)
 
-
 ### Transcript
-
-

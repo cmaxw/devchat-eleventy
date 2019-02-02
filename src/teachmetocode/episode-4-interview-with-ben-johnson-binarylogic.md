@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      RC 4 - Interview with Ben Johnson (binarylogic)
+  RC 4 - Interview with Ben Johnson (binarylogic)
 date: 2010-01-08 01:24:09
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---

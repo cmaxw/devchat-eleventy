@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      152 iPS HockeyApp with Thomas Dohmke
+  152 iPS HockeyApp with Thomas Dohmke
 date: 2016-05-12 07:00:03
 episode_number: 152
 duration: 47:18
-audio_url: https://media.devchat.tv/iphreaks/IPS152BUILDHockeyApp.mp3?rss=true 
+audio_url: https://media.devchat.tv/iphreaks/IPS152BUILDHockeyApp.mp3?rss=true
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
@@ -252,7 +252,7 @@ Does Hockey App allow you to do that sort of thing?
 
 **ANDREW:** What’s the pricing like for Hockey App?
 
-**THOMAS:** So we have no [inaudible] of two apps that are completely free. All features included; no restrictions whatsoever. And then the next pricing stage is just $10 for five apps, so effectively $2 per app. Then it goes up all the way to $30 for 15 apps and so on. Then the price basically is if you have 500 apps, it’s $500 so the pricing goes down to $1 per app.
+**THOMAS:** So we have no [inaudible] of two apps that are completely free. All features included; no restrictions whatsoever. And then the next pricing stage is just $10 for five apps, so effectively $2 per app. Then it goes up all the way to $30 for 15 apps and so on. Then the price basically is if you have 500 apps, it’s $500 so the pricing goes down to \$1 per app.
 
 **ANDREW:** Per month.
 
@@ -426,7 +426,7 @@ In the same fashion, you can talk about auto-instrumentation that the SDK does s
 
 **THOMAS:** After months that you have [inaudible] your first apps, so we actually – don’t stop the trial when you sign up. [Inaudible] when you create your first app. After a month we’ll tell you know, if you have more than two apps, you need to sign up for a paid plan. If it’s less than two apps less or equal than two apps, then you just stay on the free plan. Ten if you use Jenkins, you install the Hockey App plugin. On VSTS, you can actually private repositories for free, [inaudible] for free. Five users are completely free so you get everything on Microsoft that you really need for the development cycle.
 
-You don’t get the max. So for the Mac, you either have to have your own Mac under your desk and that mac under your desk could connect to the Cloud, to rebuild stuff. Or you buy something for Mac and Cloud [inaudible] like $30 a month.
+You don’t get the max. So for the Mac, you either have to have your own Mac under your desk and that mac under your desk could connect to the Cloud, to rebuild stuff. Or you buy something for Mac and Cloud [inaudible] like \$30 a month.
 
 **JAIM:** The crowd’s excited.
 
@@ -539,5 +539,3 @@ There are two things that I’ve been doing at the end of these interviews that 
 **_[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]_**
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

@@ -1,17 +1,16 @@
 ---
 layout: layouts/post.njk
 title: >
-      Coaching
+  Coaching
 date: 2017-01-03 15:58:27
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: page
-tags: 
+tags:
   - page
 ---
 
 ### Coaching Pricing is set to go up tonight!
 
-# 
-
+#

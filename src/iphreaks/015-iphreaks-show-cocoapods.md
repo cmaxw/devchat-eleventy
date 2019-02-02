@@ -1,20 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      015 iPhreaks Show – Cocoapods
+  015 iPhreaks Show – Cocoapods
 date: 2013-08-08 13:00:00
 episode_number: 015
-duration: 
+duration:
 audio_url: https://media.devchat.tv/iphreaks/iPhreaks015Cocoapods.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 Panel Jaim Zuber (twitter Sharp Five Software) Ben Scheirman (twitter github blog NSSreencast) Rod Schmidt (twitter github infiniteNIL) Andrew Madsen (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:10 - Jaim Zuber Introduction 02:15 - Integrating somebody else’s code into your project without using Cocoapods Dragging & dropping source files Static Library Approach Frameworks Circumventing 10:38 - Cocoapods Libraries Cocoa Controls 12:37 - Frequently Used Pods AFNetworking RestKit ocmock Kiwi SVProgressHUD BlocksKit 15:29 - Getting a Pod into a Library or Application Versioning Multiple Targets Specifying a Path to a Repository Handling Multiple Platforms 28:07 - RubyMotion and Cocoapods motion-cocoapods 29:29 - Using Cocoapods on Client Work 30:08 - Testing 32:17 - Creating Your Own Pods Hosting Dependencies Picks Objective-C Modules (Andrew) UTAsync (Jaim) CocoaPods Xcode Plugin&nbsp;(Rod) VVDocumenter (Rod) CocoaDocs (Ben) cocoapods-xcode-plugin (Ben) Getting Things Done by David Allen (Chuck) Omnifocus (Chuck) Next Week The Developer Portal Transcript [This show is sponsored by The Pragmatic Studio. The Pragmatic Studio has been teaching iOS development since November of 2008. They have a 4-day hands-on course where you'll learn all the tools, APIs, and techniques to build iOS Apps with confidence and understand how all the pieces work together. They have two courses coming up: the first one is in July, from the 22nd - 25th, in Western Virginia, and you can get early registration up through June 21st; you can also sign up for their August course, and that's August 26th - 29th in Denver, Colorado, and you can get early registration through July 26th. If you want a private course for teams of 5 developers or more, you can also sign up on their website at pragmaticstudio.com.] CHUCK: Hey everybody and welcome to Episode 15 of the iPhreaks Show! This week on our panel, we have Ben Scheirman. BEN: Hello from Houston! CHUCK: We have Rod Schmidt. ROD: Hello from Salt Lake! CHUCK: Andrew Madsen. ANDREW: Hello also from Salt Lake! CHUCK: And we have a new guest panelist, that is Jaim Zuber. JAIM: Hello from Minneapolis! CHUCK: Do you want to introduce yourself really quickly since you're new to the show? JAIM: Sure, happy to! Independent consultants, I've been doing iOS stuff for about 2-3 years; before that, I did some kind of .NET stuff. Way before that, I did a lot of C++ and C stuff in kind of the past life. But, yeah, I'm doing iOS right now, mobile stuff, and enjoying it! CHUCK: Sounds good! I'm Charles Max Wood from DevChat.tv. This week, we're going to talk about "CocoaPods". BEN: Yay! CHUCK: [Laughs] ROD: [Chuckles] JAIM: I'm cuckoo for CocoaPods. CHUCK: There we go. JAIM: [Laughs] BEN: I'm a super fan of CocoaPods. I wonder if we have any haters in the audience, or on the panel. ANDREW: Yeah, I'm the hater. BEN: [Inaudible] ANDREW: Not really. BEN: Okay [laughs]. ANDREW: I just don't use it. BEN: You say you're the dissenting opinion? ANDREW: I can do that, sure. CHUCK: I've had people basically say, "Well, it's just like having bundler - bundlers of utility in Ruby for iOS!" I was like, "Oh! That sounds nice." But that doesn't really tell me necessarily how it works. BEN: So can we start off by maybe describing what it takes to integrate somebody else's code into your project without something like CocoaPods? ROD: [Chuckles] CHUCK: Yes. Yes, let's frame the public. BEN: Anybody want to describe this for like, say, a moderately complex library? ANDREW: It depends on how complicated the library is. But at its simplest, you can just drag source code from their project into yours and add it to your project, and that's it. But I think,
-
-
 
 ### Transcript
 

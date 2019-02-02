@@ -1,19 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 022: How I became a Vue.js core team member without a professional background‌ with Thorsten Luenborg
+  VoV 022: How I became a Vue.js core team member without a professional background‌ with Thorsten Luenborg
 date: 2018-08-01 19:28:42
 episode_number: 022
 duration: 1:10:14
 audio_url: https://media.devchat.tv/viewsonvue/VoV_022_How_I_became_a_Vue.js_core_team_member_with_Thorsten_Luenborg.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
   - new_programmers
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Chris Fritz
@@ -48,7 +48,7 @@ In this episode, the Views on Vue panel talks to Thorsten Luenborg about how he 
 - [VueConf US](http://us.vuejs.org/)
 - No overarching corporate structure
 - [Ember.js](https://www.emberjs.com/)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -73,7 +73,7 @@ Charles Max Wood
 Chris
 
 - [The Good Place](https://www.nbc.com/the-good-place)
-- [Special](https://en.wikipedia.org/wiki/Special_(film))
+- [Special](<https://en.wikipedia.org/wiki/Special_(film)>)
 
 Joe
 
@@ -87,7 +87,4 @@ Thorsten
 - [Netlify](https://www.netlify.com/)
 - [Deadpool 2](https://www.imdb.com/title/tt5463162/)
 
-
 ### Transcript
-
-

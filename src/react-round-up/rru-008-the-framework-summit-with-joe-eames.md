@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 008: The Framework Summit with Joe Eames
+  RRU 008: The Framework Summit with Joe Eames
 date: 2018-04-24 10:00:53
 episode_number: 008
 duration: 1:01:10
 audio_url: https://media.devchat.tv/reactroundup/RRU_008_The_Framework_Summit_with_Joe_Eames.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Tara Manicsic
 - Nader Dabit
@@ -73,7 +73,4 @@ Joe
 - [_The 2018 Web Developer Roadmap_ by Brandon Morelli](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 - Role playing games - [My Little Pony](https://www.amazon.com/Little-Pony-Tails-Equestria-Core/dp/1626926190)
 
-
 ### Transcript
-
-

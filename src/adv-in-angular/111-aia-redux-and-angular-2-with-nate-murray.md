@@ -1,28 +1,30 @@
 ---
 layout: layouts/post.njk
 title: >
-      111 AiA Redux and Angular 2 with Nate Murray
+  111 AiA Redux and Angular 2 with Nate Murray
 date: 2016-09-22 06:00:31
 episode_number: 111
 duration: 1:02
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA111Redux_and_Angular_2_with_Nate_Murray.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 1:50 - Introducing Nate Murray
+
 - [Twitter](https://twitter.com/eigenjoy?lang=en)
 - [Blog](http://eigenjoy.com/)
 - [Fullstack.io Twitter](https://twitter.com/fullstackio)
 - [Ng-book 2 download](https://www.ng-book.com/2/)
-2:45 - Redux and Angular 25:45 - Using Redux with apps16:20 - Practical applications with Redux24:35 - What problems does Redux solve?28:00 - Mutable state31:30 - Challenges in Redux32:25 - Tradeoffs using NgRx
+  2:45 - Redux and Angular 25:45 - Using Redux with apps16:20 - Practical applications with Redux24:35 - What problems does Redux solve?28:00 - Mutable state31:30 - Challenges in Redux32:25 - Tradeoffs using NgRx
 - [Dan Abramov’s Github](https://github.com/gaearon)
-43:15 - Flow changes in Redux45:40 - Redux and observables52:45 - Simplifying data structures without using Redux
+  43:15 - Flow changes in Redux45:40 - Redux and observables52:45 - Simplifying data structures without using Redux
 - [Breeze.js](http://www.getbreezenow.com/)
 
 ### Picks:
+
 [_Alexander Hamilton_ by Ron Chernow](https://www.amazon.com/Alexander-Hamilton-Ron-Chernow/dp/0143034758/ref=sr_1_1?ie=UTF8&qid=1474303000&sr=8-1&keywords=hamilton+biography+chernow) (Ward)[“Out of the Tar Pit” by Ben Moseley and Peter Marks](http://shaffner.us/cs/papers/tarpit.pdf)(Lukas)[RxJS Overview](http://reactivex.io/rxjs/manual/overview.html) (Lukas)Fishing and fish frys with family (Charles)[Using Angular 2 Patterns in Angular 1.x Apps](https://www.gitbook.com/book/onehungrymind/angular2-patterns-in-angular1/details) by Lukas Ruebbelke (Nate)[Building Angular 2 Applications with Immutable.js and Redux](http://houssein.me/redux/immutablejs/angular2/2016/07/04/angular2-with-immutablejs-and-redux.html) by Houssein Djirdeh (Nate)[“A Cambrian and Explosion of Consensual Realities”](http://us1.campaign-archive2.com/?u=78cbbb7f2882629a5157fa593&id=98781f95a6) by Venkatesh Rao (Nate)
 
 ### Transcript

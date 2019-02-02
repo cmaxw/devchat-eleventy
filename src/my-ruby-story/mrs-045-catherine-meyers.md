@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 045: Catherine Meyers
+  MRS 045: Catherine Meyers
 date: 2018-05-23 10:00:09
 episode_number: 045
 duration: 31:21
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_045_Catherine_Meyers.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Catherine Meyers
 
@@ -71,7 +71,4 @@ Catherine
 - [GeoGuessr](https://geoguessr.com/)
 - [_Sharing the Work_ by Myra Strober](https://www.amazon.com/Sharing-Work-Breaking-Through-Holding/dp/0262533553)
 
-
 ### Transcript
-
-

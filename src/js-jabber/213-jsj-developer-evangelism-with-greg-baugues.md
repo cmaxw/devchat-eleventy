@@ -1,36 +1,40 @@
 ---
 layout: layouts/post.njk
 title: >
-      213 JSJ Developer Evangelism with Greg Baugues
+  213 JSJ Developer Evangelism with Greg Baugues
 date: 2016-05-25 07:00:15
 episode_number: 213
 duration: 55:47
 audio_url: https://media.devchat.tv/js-jabber/JSJ213DeveloperEvangelism.mp3?rss=true
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 ### Check out [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016)! July 13-15, 2016
+
 &nbsp;02:16 - Greg Baugues Introduction
+
 - [Twitter](https://twitter.com/greggyb)
 - [GitHub](https://github.com/GregBaugues)
 - [Blog](http://blog.baugues.com/)
 - [Twilio](https://www.twilio.com/)
   - [Ruby Rogues Episode #258: Twilio with Greg Baugues](https://devchat.tv/ruby-rogues/258-rr-twilio-with-greg-baugues)
-02:41 - Developer Evangelism04:23 - Evangelism at [Twilio](https://www.twilio.com/)
+    02:41 - Developer Evangelism04:23 - Evangelism at [Twilio](https://www.twilio.com/)
 - [Jeff Lawson](https://twitter.com/jeffiel)
-07:05 - [“Evangelism”](https://en.wikipedia.org/wiki/Evangelism)10:56 - Getting the Word Out
+  07:05 - [“Evangelism”](https://en.wikipedia.org/wiki/Evangelism)10:56 - Getting the Word Out
 - [SIGNAL](https://www.twilio.com/signal)
-13:28 - Keeping Up-to-Date
+  13:28 - Keeping Up-to-Date
 - [Greg Baugues: Devs and Depression](http://baugues.com/depression)
-18:28 - Skills to Have as an Evangelist
+  18:28 - Skills to Have as an Evangelist
+
 1. Technical Credibility
 2. Patience
 3. Empathy
-4. Hustle 
-21:21 - Getting Help From Companies25:39 - Handling Larger-scale Issues27:15 - Building an Evangelist Team29:44 - Panelist Experiences with Evangelism&nbsp;Picks
+4. Hustle
+   21:21 - Getting Help From Companies25:39 - Handling Larger-scale Issues27:15 - Building an Evangelist Team29:44 - Panelist Experiences with Evangelism&nbsp;Picks
+
 - [Brené Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en#t-410656) (Aimee)
 - [Udi Dahan: The Fallacy Of ReUse](http://udidahan.com/2009/06/07/the-fallacy-of-reuse/) (Aimee)
 - [Calendly](https://calendly.com/) (Chuck)
@@ -42,7 +46,6 @@ tags:
 - [SIGNAL](https://www.twilio.com/signal) (Greg)
 - [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/) (Greg)
 - [Billions](http://www.imdb.com/title/tt4270492/) (Greg)
-
 
 ### Transcript
 
@@ -379,5 +382,3 @@ And then finally the TV show Billions. I just watched, I mentioned it on Ruby Ro
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
 
 **_[End of podcast]_**
-
-

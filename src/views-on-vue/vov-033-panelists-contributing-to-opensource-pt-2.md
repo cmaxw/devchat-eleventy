@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 033: “Panelists Contributing to Opensource” (Pt. 2)
+  VoV 033: “Panelists Contributing to Opensource” (Pt. 2)
 date: 2018-10-16 10:00:50
 episode_number: 033
 duration: 1:13:22
 audio_url: https://media.devchat.tv/viewsonvue/VoV_033_Panelists_Contributing_to_Opensource_Pt2.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Chris Fritz](https://twitter.com/chrisvfritz?lang=en)
@@ -266,7 +266,4 @@ Divya talks about certain conferences and their past schedules.
 - getacoderjob.com
 - [swag.devchat.tv](https://www.teepublic.com/user/cmaxw)
 
-
 ### Transcript
-
-

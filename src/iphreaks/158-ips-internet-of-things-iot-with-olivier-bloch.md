@@ -1,24 +1,24 @@
 ---
 layout: layouts/post.njk
 title: >
-      158 iPS Internet of Things (IoT) with Olivier Bloch
+  158 iPS Internet of Things (IoT) with Olivier Bloch
 date: 2016-06-23 07:00:55
 episode_number: 158
 duration: 48:20
 audio_url: http://media.devchat.tv/iphreaks/iPS158OlivierBloch.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/) 2016. In this episode we chatted with [Olivier Bloch](https://twitter.com/obloch) of the [Microsoft Azure IoT](https://www.microsoft.com/en-us/cloud-platform/internet-of-things) team about the [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) and the [Azure IoT Suite](https://www.microsoft.com/en-us/cloud-platform/internet-of-things-azure-iot-suite). &nbsp;Resources
+
 - [azure/azure-iot-sdks](https://github.com/azure/azure-iot-sdks)
 - [ms-iot/samples](https://github.com/ms-iot/samples)
 - [Microsoft Azure IoT Starter Kits](https://azure.microsoft.com/en-us/develop/iot/starter-kits/)
-&nbsp;Picks
-- [Sous Vide](https://en.wikipedia.org/wiki/Sous-vide) (Olivier) 
-
+  &nbsp;Picks
+- [Sous Vide](https://en.wikipedia.org/wiki/Sous-vide) (Olivier)
 
 ### Transcript
 
@@ -353,5 +353,3 @@ I have a UV center in here that actually could be very useful in lots of cases t
 **OLIVIER:** Thank you guys.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

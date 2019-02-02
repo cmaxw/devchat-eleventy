@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Setting Up And Testing Devise - Delicious Clone
+  Setting Up And Testing Devise - Delicious Clone
 date: 2011-01-21 15:04:52
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 061: Erik Dietrich
+  MRS 061: Erik Dietrich
 date: 2018-09-19 10:00:23
 episode_number: 061
 duration: 36:14
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_061_Erik_Dietrich.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** [Erik Dietrich](https://twitter.com/jwright?lang=en)
 
@@ -128,7 +128,4 @@ Jamie
 - [Ribbon Farm](https://www.ribbonfarm.com)
 - [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) – Apply to be an Author!
 
-
 ### Transcript
-
-

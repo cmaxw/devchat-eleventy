@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 066: Nassredean Nasseri
+  MRS 066: Nassredean Nasseri
 date: 2018-10-24 10:00:21
 episode_number: 066
 duration: 28:55
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_066_Nassredean_Nasseri.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** [Nassredean Nasseri](https://www.nasseri.io)
 
@@ -118,7 +118,4 @@ _(Dean goes into more detail.)_
 - [VTS b/c we are hiring](https://www.vts.com/careers)
 - [Book: Iran Awakening – By Nobel Peace Prize Winner](https://www.amazon.com/Iran-Awakening-Memoir-Revolution-Hope-ebook/dp/B000GCFVY2)
 
-
 ### Transcript
-
-

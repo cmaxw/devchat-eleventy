@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      216 JSJ Angular with Rob Wormald Live from Microsoft Build 2016
+  216 JSJ Angular with Rob Wormald Live from Microsoft Build 2016
 date: 2016-06-15 07:00:09
 episode_number: 216
 duration: 01:02:19
 audio_url: http://media.devchat.tv/js-jabber/JSJ216BUILDRobWormald.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/) 2016. In this episode we chatted with Rob Wormald of the Angular Core team at Google about [Angular](https://angular.io/). You can follow him on [Twitter](https://twitter.com/robwormald), or check out what he’s done over on [GitHub](https://github.com/robwormald).&nbsp;Picks
+
 - [Visual Studio Code](https://code.visualstudio.com/) (Rob)
 - [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) (Rob)
 - [Richard Campbell](https://twitter.com/richcampbell) and [Carl Franklin](https://twitter.com/carlfranklin) from [.NETRocks](https://www.dotnetrocks.com/) (Chuck)
-
 
 ### Transcript
 
@@ -1031,5 +1031,3 @@ And I think that there's probably an acceptable kind of trade-off here in terms 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

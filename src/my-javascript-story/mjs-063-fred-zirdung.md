@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 063: Fred Zirdung
+  MJS 063: Fred Zirdung
 date: 2018-05-30 11:45:17
 episode_number: 063
 duration: 31:20
 audio_url: https://media.devchat.tv/my-js-story/MJS_063_Fred_Zirdung.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Fred Zirdung
 
@@ -40,7 +40,7 @@ This week on My JavaScript Story, Charles speaks with Fred Zirdung. Fred is curr
 - How did you get into web programming?
 - [Dolby Laboratories](https://www.dolby.com/us/en/index.html)
 - What technologies got you excited?
-- [JavaScript](https://www.javascript.com/'), [Perl](https://www.perl.org/), and [Ruby on Rails](https://rubyonrails.org/) 
+- [JavaScript](https://www.javascript.com/'), [Perl](https://www.perl.org/), and [Ruby on Rails](https://rubyonrails.org/)
 - Loved the flexibility of JS and Rails
 - Found something he could be productive with
 - What are you proud of contributing to the JavaScript community?
@@ -75,7 +75,4 @@ Fred
 - [Koa](https://koajs.com/)
 - [Vue](https://vuejs.org/)
 
-
 ### Transcript
-
-

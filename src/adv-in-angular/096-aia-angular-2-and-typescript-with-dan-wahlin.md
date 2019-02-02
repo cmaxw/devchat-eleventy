@@ -1,35 +1,36 @@
 ---
 layout: layouts/post.njk
 title: >
-      096 AiA Angular 2 and TypeScript with Dan Wahlin
+  096 AiA Angular 2 and TypeScript with Dan Wahlin
 date: 2016-06-09 07:00:16
 episode_number: 096
 duration: 01:03:04
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA096DanWahlin.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 01:59 - Dan Wahlin Introduction
+
 - [Twitter](https://twitter.com/DanWahlin)
 - [GitHub](https://github.com/DanWahlin)
 - [Blog](http://weblogs.asp.net/dwahlin)
-03:24 - [Dan Wahlin: Typescript: Angular 2's Secret Weapon @ ng-conf 2016](https://www.youtube.com/watch?v=e3djIqAGqZo&index=3&list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j)04:44 - [ng-conf](https://www.ng-conf.org/) Fair Day Workshops
+  03:24 - [Dan Wahlin: Typescript: Angular 2's Secret Weapon @ ng-conf 2016](https://www.youtube.com/watch?v=e3djIqAGqZo&index=3&list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j)04:44 - [ng-conf](https://www.ng-conf.org/) Fair Day Workshops
 - TypeScript 2 in 60ish Minutes
 - Angular 2 in 60ish Minutes
-05:45 - Pre-Conference Workshop06:32 - [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM) =\> Angular 213:49 - Responses to Angular 2 and TypeScript18:22 - Learning TypeScript; ES5/ES625:25 - Interfaces29:33 - Aha Moments
+  05:45 - Pre-Conference Workshop06:32 - [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM) =\> Angular 213:49 - Responses to Angular 2 and TypeScript18:22 - Learning TypeScript; ES5/ES625:25 - Interfaces29:33 - Aha Moments
 - Databinding Syntax
 - The Module Concept
-34:07 - Edgecases and Struggles
+  34:07 - Edgecases and Struggles
 - Providers
 - Grabbing Elements
 - The Build Chain
 - Pipes
 - Observables
 - [Pluralsight: Modern, Modular JavaScript with SystemJS and jspm](https://www.pluralsight.com/courses/javascript-systemjs-jspm)
-51:41 - Flexibility of Providers &nbsp;Picks
+  51:41 - Flexibility of Providers &nbsp;Picks
 - [John Papa: Angular 2 Workshop in Barcelona](https://johnpapa.net/angular-2-workshop-in-barcelona/) (John)
 - [Ghost](https://ghost.org) (John)
 - [CloudFlare](https://www.cloudflare.com) (John)
@@ -39,10 +40,9 @@ tags:
 - [ng-conf 2016 Starcraft Tournament](https://www.youtube.com/watch?v=J5Dj7rINOK4) (Joe)
 - [Duet](http://www.duetdisplay.com/) (Dan)
 
-
 ### Transcript
 
- **DAN:** &nbsp; You don't care.
+**DAN:** &nbsp; You don't care.
 
 **WARD:&nbsp;** No, when you've got a horrible [tooth], you've got to embrace it.
 
@@ -164,7 +164,7 @@ I think if you're starting from total scratch, and when I say total scratch I me
 
 **DAN:&nbsp;** Yeah, and it's really good I thought because it's super quick to read. You don't have to spend a lot of time and you can jump right in and get some nice parallels between the two. And going back to your question at least on the Angular 1 people Lukas, for me I learn the best when you say, “Okay, here's how you used to do it. Here's how it is now.” Because syntax, eh, I get over syntax. And that's our job. Syntax should not be a big deal in my opinion. A lot of us can do multiple languages and do all those fun stuff because it's just what we do for a living. What I think is important is the concepts. And once the concepts click and you understand how, “Okay, here's how we did it in Angular 1. Here's how now it works in Angular 2,” I actually think it's a pretty, well I want to say pretty easy, but a much easier jump between the two.
 
-Now, if you get the people, I'm going to address the second group here which I had last week when I was out in Florida for this class we did, I'd say, I don't know. I'd have to count them up. But probably 50% of them, maybe a little more, had never done Angular 1 at all. So, they're brand new to all this. A lot of them were server-side people that had done other languages on the server. In a way, I almost think it's sort of almost easier to pick up. [Chuckles] Because when you know Angular 1 it's almost like you know too much. You're so used to worrying about when do I have to call $apply and do I have to do controller as and all this fun stuff in Angular 1. Whereas Angular 2 we don't need that anymore. It just goes away. So, for the folks that are brand new to Angular 2, if you're looking to get into what I call true framework, Angular 1 was a framework but Angular 2 is definitely what I'd argue as more a framework that's more consistent is probably the best way to put it. Then I think you'll actually find it's really easy to get started with as soon as you understand the role of components and how they all work.
+Now, if you get the people, I'm going to address the second group here which I had last week when I was out in Florida for this class we did, I'd say, I don't know. I'd have to count them up. But probably 50% of them, maybe a little more, had never done Angular 1 at all. So, they're brand new to all this. A lot of them were server-side people that had done other languages on the server. In a way, I almost think it's sort of almost easier to pick up. [Chuckles] Because when you know Angular 1 it's almost like you know too much. You're so used to worrying about when do I have to call \$apply and do I have to do controller as and all this fun stuff in Angular 1. Whereas Angular 2 we don't need that anymore. It just goes away. So, for the folks that are brand new to Angular 2, if you're looking to get into what I call true framework, Angular 1 was a framework but Angular 2 is definitely what I'd argue as more a framework that's more consistent is probably the best way to put it. Then I think you'll actually find it's really easy to get started with as soon as you understand the role of components and how they all work.
 
 And so, for me it all really boils down to when we do classes and workshops, what do you already know? And if you already know Angular 1 then I try to bring in the analogies between the two, the parallels. If you don't know Angular 2 at all then we can just jump into why are we doing this in the first place and here's how Angular 2 can make your life hopefully happy. So, anyway that's my little spiel there. Hopefully that answers some of your question.
 
@@ -516,7 +516,7 @@ So, my favorite feature.
 
 **JOHN:&nbsp;** So Dan, you do quite a bit of traveling and course writing and speaking and you're also on Dancing with the Stars I think in the upcoming season.
 
-**DAN:&nbsp;** [Laughs] [Inaudible] must have already been canceled.
+**DAN:&nbsp;** [Laughs][inaudible] must have already been canceled.
 
 **JOHN:&nbsp;** [Laughs]
 
@@ -625,5 +625,3 @@ My second pick is a book called 'Deskbound: Standing Up in a Sitting World' by o
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
-
-

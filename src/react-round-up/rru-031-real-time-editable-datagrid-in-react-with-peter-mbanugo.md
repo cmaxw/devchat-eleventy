@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 031: "Real-time Editable Datagrid In React" with Peter Mbanugo
+  RRU 031: "Real-time Editable Datagrid In React" with Peter Mbanugo
 date: 2018-10-02 10:00:03
 episode_number: 031
 duration: 51:23
 audio_url: https://media.devchat.tv/reactroundup/RRU_031_Real-time_Editable_Datagrid_In_React_with_Peter_Mbanugo.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Lucas Reis](https://twitter.com/iamlucasmreis?lang=en)
@@ -236,12 +236,9 @@ Lucas
 
 Peter
 
-- Library – Opensource 
+- Library – Opensource
 - [Masters of Skill – Podcast](https://www.stitcher.com/podcast/stitcher/masters-of-scale)
-- Book: [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818) 
+- Book: [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818)
 - Book
 
-
 ### Transcript
-
-

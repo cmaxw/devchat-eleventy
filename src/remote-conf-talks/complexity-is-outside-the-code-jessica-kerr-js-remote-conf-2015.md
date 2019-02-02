@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Complexity is Outside the Code - Jessica Kerr - JS Remote Conf 2015
+  Complexity is Outside the Code - Jessica Kerr - JS Remote Conf 2015
 date: 2015-07-07 14:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: remote-conf-talks
-tags: 
+tags:
   - remote_conf_talks
   - podcast
 ---
@@ -25,5 +25,3 @@ Every piece both adds and takes away complexity. Even the most elegant technolog
 &nbsp;
 
 Join Jessica as she finds both pain and beauty in the complexity of our systems. Will we ever find simplicity? or is the light at the end of the tunnel an oncoming enterprise service bus?
-
-

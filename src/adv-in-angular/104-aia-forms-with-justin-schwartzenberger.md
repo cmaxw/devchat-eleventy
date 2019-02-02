@@ -1,32 +1,34 @@
 ---
 layout: layouts/post.njk
 title: >
-      104 AiA Forms with Justin Schwartzenberger
+  104 AiA Forms with Justin Schwartzenberger
 date: 2016-08-04 07:00:49
 episode_number: 104
 duration: 48:20
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA104Forms.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 ## [Angular Remote Conf](https://allremoteconfs.com/angular-2016)
+
 &nbsp;01:56 - Justin Schwartzenberger Introduction
+
 - [Twitter](https://twitter.com/schwarty)
 - [GitHub](https://github.com/jschwarty)
 - [Blog](http://schwarty.com/)
 - [SoCreate](https://www.socreate.it/)
-03:01 - User Input/Forms
+  03:01 - User Input/Forms
 - [angular-form-builder](https://github.com/kelp404/angular-form-builder)
-07:40 - Validation; Using Forms for Angular 2
+  07:40 - Validation; Using Forms for Angular 2
 - [Justin Schwartzenberger: Angular 2's Fresh Approach to Style @ ng-conf](https://www.youtube.com/watch?v=J5Bvy4KhIs0)
 - Complexity
 - Template-driven vs Model-driven
-25:27 - Changes in Forms32:06 - Getting Started with Forms (Tips and Tricks)
+  25:27 - Changes in Forms32:06 - Getting Started with Forms (Tips and Tricks)
 - Metadata-driven Forms
-&nbsp;Picks
+  &nbsp;Picks
 - [Angular 2](https://angular.io/) (John & Joe)
 - [Parks and Recreation](http://www.nbc.com/parks-and-recreation) (John)
 - [The Goldbergs](http://abc.go.com/shows/the-goldbergs) (Joe)
@@ -38,10 +40,9 @@ tags:
 - [Red Dead Redemption](http://www.rockstargames.com/reddeadredemption/restricted_content/restricted_content_agegated/ref?redirect=http%3A%2F%2Fwww.rockstargames.com%2Freddeadredemption%2F&hash=acfa2dee2d95e7e615ac4bb7535949b6) (Justin)
 - [Lynda.com | Angular 2 Forms: Data Binding and Validation with Justin Schwartzenberger](https://www.lynda.com/AngularJS-tutorials/Angular-2-Forms-Data-Binding-Validation/461451-2.html) (Lukas)
 
-
 ### Transcript
 
- **WARD:&nbsp;** Justin looks like he's ready for a knife fight.
+**WARD:&nbsp;** Justin looks like he's ready for a knife fight.
 
 **_[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on JavaScript developers, providing them with salary and equity upfront. The average JavaScript developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $1,000 bonus as a thank you for using them. But if you use the Adventures in Angular link, you’ll get a $2,000 bonus instead. Finally, if you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept a job. Go sign up at Hired.com/AdventuresInAngular.]_**
 
@@ -512,5 +513,3 @@ And then I have a gaming pick. On the Xbox 'Red Dead Redemption' just became bac
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
-
-

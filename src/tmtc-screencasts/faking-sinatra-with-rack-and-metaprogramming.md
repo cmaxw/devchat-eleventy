@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Faking Sinatra with Rack and Metaprogramming
+  Faking Sinatra with Rack and Metaprogramming
 date: 2010-09-24 13:52:59
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---
@@ -16,6 +16,6 @@ tags:
 
 Sinatra has a really nice DSL. You can fake the basics of the DSL with some simple Rack middleware created by metaprogramming.
 
-If you like the screencasts, please give $5 to help me get to RubyConf [![Click here to lend your support to: Send Charles to RubyConf and make a donation at www.pledgie.com !](http://www.pledgie.com/campaigns/13439.png?skin_name=chrome)](http://www.pledgie.com/campaigns/13439)
+If you like the screencasts, please give \$5 to help me get to RubyConf [![Click here to lend your support to: Send Charles to RubyConf and make a donation at www.pledgie.com !](http://www.pledgie.com/campaigns/13439.png?skin_name=chrome)](http://www.pledgie.com/campaigns/13439)
 
 [Download (64.2 MB)](http://traffic.libsyn.com/tmtc/FakingSinatra.m4v)[Download iPhone & iPod (35.6 MB)](http://traffic.libsyn.com/tmtc/FakingSinatraiPhone.m4v)

@@ -1,21 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      202 FS Live from MicroConf: Managing a Team with Anders Thue Pedersen
+  202 FS Live from MicroConf: Managing a Team with Anders Thue Pedersen
 date: 2016-05-19 07:00:51
 episode_number: 202
 duration: 01:00:42
 audio_url: https://media.devchat.tv/freelancers/FS202Anders.mp3?rss=true
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 In this episode, Chuck interviews [Anders Thue Pederson](https://twitter.com/andersthue) of [TimeBlock](http://timeblock.com/) at [MicroConf](http://www.microconf.com/) 2016.The two discuss team building for businesses and go over important aspects such as planning, hiring, and managing employees and subcontractors.&nbsp;Picks
+
 - [News Feed Eradicator for Facebook](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en) (Anders)
 - [Booting Facebook Posts](https://www.facebook.com/business/learn/facebook-page-boost-posts) (Chuck)
-
 
 ### Transcript
 
@@ -696,5 +696,3 @@ I come by that completely honestly. He’s all about helping people and he was l
 **ANDERS:** Thanks for having me, it’s been a blast.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

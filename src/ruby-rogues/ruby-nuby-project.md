@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Ruby Nuby Project
+  Ruby Nuby Project
 date: 2012-11-03 00:11:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
@@ -44,8 +44,6 @@ The [Ruby Nuby Project](http://rubyrogues.com/ruby-nuby-project/) is now **CLOSE
 - [Jim Denton](http://www.youtube.com/watch?v=wbo_YkGLgPc)
 - [Daniel Villa](http://www.youtube.com/watch?v=M8PxANbpDN4)
 - [Doug Headly](https://www.youtube.com/watch?v=29q0VwHNVjs)
-Thank you again to our awesome sponsors: [RailsCasts.com](http://railscasts.com/), [RubyMonk.com](http://rubymonk.com/) and [The Pragmatic Studio](http://pragmaticstudio.com/) for their generous support! _Stay tuned for your winner!_
+  Thank you again to our awesome sponsors: [RailsCasts.com](http://railscasts.com/), [RubyMonk.com](http://rubymonk.com/) and [The Pragmatic Studio](http://pragmaticstudio.com/) for their generous support! _Stay tuned for your winner!_
 
 ### Transcript
-
-

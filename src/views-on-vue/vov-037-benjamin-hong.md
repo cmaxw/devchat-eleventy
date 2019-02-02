@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 037: Vuex, VuePress and Nuxt with Benjamin Hong
+  VoV 037: Vuex, VuePress and Nuxt with Benjamin Hong
 date: 2018-11-13 11:00:59
 episode_number: 037
 duration: 58:59
 audio_url: https://media.devchat.tv/viewsonvue/VoV_037_Benjamin_Hong.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
-- Chris Fritz 
+- Chris Fritz
 - Eric Hatchet
 - Divya Sasidharan
 - Charles Max Wood
@@ -325,7 +325,4 @@ Ben
 - [Ted Talk by Elizabeth Gilbert](https://www.ted.com/talks/elizabeth_gilbert_on_genius?language=en)
 - [Vue.js Meetups](https://www.vuemeetups.org/)
 
-
 ### Transcript
-
-

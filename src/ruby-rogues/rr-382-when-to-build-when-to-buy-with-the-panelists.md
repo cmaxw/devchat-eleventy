@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 382: "When to Build... When to Buy" with The Panelists
+  RR 382: "When to Build... When to Buy" with The Panelists
 date: 2018-10-02 14:46:37
 episode_number: 382
 duration: 1:03:27
 audio_url: https://media.devchat.tv//ruby-rogues/RR_382_When_to_Build_When_to_Buy_with_The_Panelists.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 - [Dave Kimura](https://www.linkedin.com/in/kobaltz)
@@ -94,7 +94,7 @@ I think that will come down to your business needs. It will help the workflow, a
 
 30:10 – It’s not to say that I don’t buy things, cause I do. The amount of software that I buy outweighs the ones I build. My time is limited. I do need control over the data. We were struggling a few years ago financially. I need a thumb drive and we fought on whether or not we could buy that. Finances are intimate details. If that information was stolen, so I built my own we application in my business to hold our finance data records. We wanted complete control over that. I saw that that it was a wise investment of my time. I had insecurities about that information leaked or stolen. Now we have too many thumb drives.
 
-32:31 – I bought a thumb drive years ago for it and paid $50-60 for that. Which is insane.
+32:31 – I bought a thumb drive years ago for it and paid \$50-60 for that. Which is insane.
 
 32:55- Chuck: Build vs. Buy topic has been covered very well, so far.
 
@@ -186,10 +186,7 @@ How can we make this more effective?
 [Charles](https://twitter.com/cmaxw?lang=en)
 
 - [My Ruby Story Podcasts](https://devchat.tv/my-ruby-story/)
-- Orlando -&nbsp; FinCon or Microsoft Ignite MeetUp 
+- Orlando -&nbsp; FinCon or Microsoft Ignite MeetUp
 - Park City Meetup
 
-
 ### Transcript
-
-

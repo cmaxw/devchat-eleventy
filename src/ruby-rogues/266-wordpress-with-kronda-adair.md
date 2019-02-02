@@ -1,46 +1,48 @@
 ---
 layout: layouts/post.njk
 title: >
-      266 RR WordPress with Kronda Adair
+  266 RR WordPress with Kronda Adair
 date: 2016-06-29 07:00:56
 episode_number: 266
 duration: 50:44
 audio_url: http://media.devchat.tv/ruby-rogues/RR266KrondaAdair.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 ## Check out [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016)!
+
 &nbsp;03:09 - Kronda Adair Introduction
+
 - [Twitter](https://twitter.com/kronda)
 - [Blog](http://kronda.com/)
 - [Karvel Digital](https://karveldigital.com/)
   - [@karveldigital](https://twitter.com/karveldigital)
   - [Facebook](https://www.facebook.com/karveldigital/?fref=ts)
-03:11 - [WordPress](https://wordpress.com/)
+    03:11 - [WordPress](https://wordpress.com/)
 - [DevChat.tv](https://devchat.tv/)
 - [Derick Bailey](https://twitter.com/derickbailey): [WatchMeCode](https://sub.watchmecode.net/)
 - [Sunk Cost Fallacy](https://en.wikipedia.org/wiki/Sunk_costs)
-07:59 - Why do developers hate WordPress?
+  07:59 - Why do developers hate WordPress?
 - [Venomous Porridge: A conversation I have every month or so](http://venomousporridge.com/post/389785000/a-conversation-i-have-every-month-or-so)
-14:53 - Using Tools That Fit Technology Preferences
+  14:53 - Using Tools That Fit Technology Preferences
 - [PHP](http://php.net/)
 - [Wix](http://www.wix.com/)
 - [Aaron Hockley: WordPress is a DSLR; Squarespace is a Point and Shoot](https://photowebo.com/wordpress-vs-squarespace-photographers/)
 - Technology Bias
 - [Refresh Portland](http://rfrshpdx.org/)
-21:52 - Empathy and Discovery Processes for Clients
+  21:52 - Empathy and Discovery Processes for Clients
 - Tests
 - Asking Questions
 - [The Freelancers’ Show](https://devchat.tv/freelancers)
   - [The Freelancers' Show Episode 201: Roadmapping with Brennan Dunn](https://devchat.tv/freelancers/201-fs-roadmapping-with-brennan-dunn)
-31:38 - Conversations with Customers vs Owners/Managers
+    31:38 - Conversations with Customers vs Owners/Managers
 - [WordCamp Orange County](https://2016.oc.wordcamp.org/)
-34:43 - [Websites That Work | Indiegogo](https://www.indiegogo.com/projects/websites-that-work#/)36:48 - Kronda’s Origin Story
+  34:43 - [Websites That Work | Indiegogo](https://www.indiegogo.com/projects/websites-that-work#/)36:48 - Kronda’s Origin Story
 - [Portland Community College](http://www.pcc.edu/)
-&nbsp;Picks
+  &nbsp;Picks
 - [Hover](http://hover.com) (Kronda)
 - [Flywheel](http://getflywheel.com) (Kronda)
 - [WordPress](https://wordpress.com/) (Kronda)
@@ -50,16 +52,15 @@ tags:
 - [Lingo](https://www.lingoapp.com/) (Kronda)
 - [Tybee Island, Georgia](http://tybeeisland.com/) (Jessica)
 - [Robert Epstein: The empty brain: Your brain does not process information, retrieve knowledge or store memories. In short: your brain is not a computer](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) (Coraline)
-- [Blindsight by Peter Watts](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)) (Sam)
+- [Blindsight by Peter Watts](<https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)>) (Sam)
 - [Aurynn Shaw: Contempt Culture](http://blog.aurynn.com/86/contempt-culture) (Sam)
 - [StudioPress](http://www.studiopress.com/) (Chuck)
 - [DigitalOcean](https://www.digitalocean.com/) (Chuck)
 - [Drip](https://www.getdrip.com/) (Chuck)
 
-
 ### Transcript
 
- **JESSICA:** I saw dolphins yesterday from the beach.
+**JESSICA:** I saw dolphins yesterday from the beach.
 
 **SAM:&nbsp;** Nice.
 
@@ -359,7 +360,7 @@ So, WordPress can be easy. But you have to know how to make it easy. Probably th
 
 **CHUCK:&nbsp;** [Chuckles] Heresy, right?
 
-**KRONDA:&nbsp;** [Laughs] Apparently that's [inaudible] [laughs]
+**KRONDA:&nbsp;** [Laughs] Apparently that's [inaudible][laughs]
 
 **SAM:&nbsp;** You mean, talk to users? [Chuckles]
 
@@ -614,5 +615,3 @@ And that's kind if all I've got this week. But yeah, to wrap up the show, thanks
 **_[Bandwidth for this segment is provided by CacheFly, the world's fastest CDN. Deliver your content fast with CacheFly. Visit C-A-C-H-E-F-L-Y dot com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

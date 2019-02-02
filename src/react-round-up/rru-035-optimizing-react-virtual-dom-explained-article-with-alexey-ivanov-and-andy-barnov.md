@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 035: Optimizing React Virtual DOM Explained Article with Alexey Ivanov and Andy Barnov
+  RRU 035: Optimizing React Virtual DOM Explained Article with Alexey Ivanov and Andy Barnov
 date: 2018-10-30 10:00:33
 episode_number: 035
 duration: 51:22
 audio_url: https://media.devchat.tv/reactroundup/RRU_035_Optimizing_React_Virtual_DOM_explained_article_with_Alexey_Ivanov_Andy_Barnov.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Lucas Reis](https://github.com/lucasmreis)
 - [Justin Bennett](https://github.com/zephraph)
 
-**Special Guests:**  **Alexey Ivanov and Andy Barnov**
+**Special Guests:** **Alexey Ivanov and Andy Barnov**
 
 In this episode, the panelists talk with [Alexey Ivanov](https://twitter.com/savetherbtz?lang=en) and [Andy Barnov.](https://github.com/progapandist) They all discuss Alexey’s [article](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained) titled: “Optimizing React Virtual DOM.” Listen to today’s episode to hear all the details about this article, the guests’ backgrounds and much, much more!
 
@@ -166,7 +166,7 @@ Start with the basic building blocks – that makes sense to me.
 
 Lucas
 
-- Check your room for sound 
+- Check your room for sound
 
 Andy
 
@@ -180,7 +180,4 @@ Justin
 
 - [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
 
-
 ### Transcript
-
-

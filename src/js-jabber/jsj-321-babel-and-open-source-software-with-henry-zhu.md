@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 321: Babel and Open Source Software with Henry Zhu
+  JSJ 321: Babel and Open Source Software with Henry Zhu
 date: 2018-07-12 18:01:37
 episode_number: 321
 duration: 57:53
 audio_url: https://media.devchat.tv/js-jabber/JSJ_321_Babel_and_Open_Source_Software_with_Henry_Zhu.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Aimee Knight
@@ -49,7 +49,7 @@ In this episode, the JavaScript Jabber panel talks to Henry Zhu about Babel and 
 - You don’t have to have formal training to be successful
 - [Codefund.io](https://codefund.io/)
 - Sustainability of open source
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -60,7 +60,7 @@ In this episode, the JavaScript Jabber panel talks to Henry Zhu about Babel and 
 - [Gitea installer](https://git.coolaj86.com/coolaj86/gitea-installer.sh)
 - [Prettier](https://prettier.io/)
 - [Codefund.io](https://codefund.io/)
-- [@left\_pad](https://twitter.com/left_pad?lang=en)
+- [@left_pad](https://twitter.com/left_pad?lang=en)
 - [Henry’s GitHub](https://github.com/hzoo)
 - [henryzoo.com](https://www.henryzoo.com/)
 - [Henry’s Patreon](https://www.patreon.com/henryzhu)
@@ -92,14 +92,11 @@ AJ
 Joe
 
 - [Solo](https://www.starwars.com/films/solo)
-- [Justified](https://en.wikipedia.org/wiki/Justified_(TV_series))
+- [Justified](<https://en.wikipedia.org/wiki/Justified_(TV_series)>)
 
 Henry
 
 - [Celeste](http://www.celestegame.com/)
 - [Zeit Day talks](https://zeit.co/tv)
 
-
 ### Transcript
-
-

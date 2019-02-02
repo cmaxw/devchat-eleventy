@@ -1,21 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 285: The Introduction Game
+  FS 285: The Introduction Game
 date: 2018-02-22 04:00:47
 episode_number: 285
 duration: 51:46
 audio_url: https://media.devchat.tv/freelancers/FS_285_The_Introduction_Game.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
+
 - Jonathan Stark
 - Philip Morgan
-In this episode of the Freelancers’ Show, Jonathan and Philip discuss the introduction game. When you have people ask you to refer them to your clients or a colleague, Jonathan has come up with an idea for a referral game, which he calls the introduction game. He has these people who ask for his help send him a draft of what they want and then you can tweak it so it sounds like something that you would actually say. This way you are putting out what your friend or colleague wants and you aren’t having to come up with referrals from scratch.&nbsp; They also discuss how specializing your business could lead to you getting more leads, even if it doesn’t seem like it should. **In particular, we dive pretty deep on:&nbsp;**
+  In this episode of the Freelancers’ Show, Jonathan and Philip discuss the introduction game. When you have people ask you to refer them to your clients or a colleague, Jonathan has come up with an idea for a referral game, which he calls the introduction game. He has these people who ask for his help send him a draft of what they want and then you can tweak it so it sounds like something that you would actually say. This way you are putting out what your friend or colleague wants and you aren’t having to come up with referrals from scratch.&nbsp; They also discuss how specializing your business could lead to you getting more leads, even if it doesn’t seem like it should. **In particular, we dive pretty deep on:&nbsp;**
 - The Referral Game
 - Specializing your business
 - Rolodex moment
@@ -32,16 +33,13 @@ In this episode of the Freelancers’ Show, Jonathan and Philip discuss the intr
 - Valuing life experience
 - Ah-ha moments
 - And much, much more!
-**Links:**
+  **Links:**
 - [Linode](https://promo.linode.com/freelancersshow/)
 - [FreshBooks](https://www.freshbooks.com/invoice?ref=11731&utm_source=pbm&utm_medium=affiliate-program&utm_influencer=419364&utm_campaign=podcast-influencers)
-**Picks:** Philip
+  **Picks:** Philip
 - [Discord&nbsp;](https://discordapp.com/)
-Jonathan
+  Jonathan
 - [The Business of Authority](https://www.thebusinessofauthority.com/)
 - [The Prosperous Coach](https://www.amazon.com/Prosperous-Coach-Increase-Income-Clients/dp/1600250300)
 
-
 ### Transcript
-
-

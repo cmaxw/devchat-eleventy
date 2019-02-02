@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 036: Ben Orenstein
+  MRS 036: Ben Orenstein
 date: 2018-03-21 10:00:53
 episode_number: 036
 duration: 25:35
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_036_Ben_Orenstein.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Ben Orenstein
 
@@ -73,7 +73,4 @@ Ben
 - [_Astrophysics for People in a Hurry_ by Neil deGrasse Tyson](https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson/dp/0393609391)
 - [_An Outsider's Guide to Statically Typed Functional Programming_ by Bryan Marick](https://leanpub.com/outsidefp)
 
-
 ### Transcript
-
-

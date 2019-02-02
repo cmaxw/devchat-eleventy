@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 178: The Framework Summit
+  AiA 178: The Framework Summit
 date: 2018-02-27 04:00:37
 episode_number: 178
 duration: 45:27
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_178_The_Framework_Summit.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
@@ -33,25 +33,22 @@ tags:
 - What do you get out of this conference?
 - Meeting people from different communities
 - And much, much more!
-**Links: &nbsp;**
+  **Links: &nbsp;**
 - [Linode](https://promo.linode.com/adventuresinangular/)
 - [Angular Bootcamp](https://angularbootcamp.com/)
 - [LootCrate](https://www.lootcrate.com/)
 - [Framework Summit](https://www.frameworksummit.com/)
 - [@FrameworkSummit](https://twitter.com/FrameworkSummit)
-**Picks:** Charles
+  **Picks:** Charles
 - [GameVice](https://gamevice.com/)
 - [PipeDrive](https://www.pipedrive.com/en/gettingstarted?utm_source=google&utm_medium=cpc&utm_campaign=US_Brd_Pure_Brand_Exact&utm_term=pipe%2520drive&ad_matchtype=e&device=c&gclid=Cj0KCQiA2snUBRDfARIsAIGfpqGdrsE9szQ943oAUiy39XMEMP4BbVfNglW_RpI0XYqQWjn6KUE1-4MaA)
 - View and [React](http://reactroundup.com/) Podcasts Coming Soon
 - [React Summit](https://reactdevsummit.com/)
-Joe
+  Joe
 - [Ready Player One by Ernest Cline](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448)
 - [Simon Jones (Narrator on Audible)](https://www.audible.com/search?searchNarrator=Simon+Jones)
-Shai
+  Shai
 - [Fighting Perfectionism BlogPost](https://medium.com/@shairez)
 - [Tony Robbins](https://www.tonyrobbins.com/)
 
-
 ### Transcript
-
-

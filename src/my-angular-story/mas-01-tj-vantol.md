@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 041: TJ VanToll
+  MAS 041: TJ VanToll
 date: 2018-06-24 04:00:27
 episode_number: 041
 duration: 33:14
 audio_url: https://media.devchat.tv/my-angular-story/MAS_041_TJ_VanTol.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** TJ VanToll
 
@@ -32,7 +32,7 @@ This week on My Angular Story, Charles speaks with TJ VanToll. TJ is a front-end
 - Went to college for Computer Programming
 - His [JavaScript](https://www.javascript.com/) journey
 - Using JavaScript out of necessity originally
-- [jQuery](https://jquery.com/) when mobile started to take over 
+- [jQuery](https://jquery.com/) when mobile started to take over
 - Really interested in Android and iOS development
 - [React Native](https://facebook.github.io/react-native/)
 - Using JavaScript to build iOS and Android apps
@@ -83,7 +83,4 @@ TJ
 - [_How Did This Get Made?_ Podcast](https://www.earwolf.com/show/how-did-this-get-made/)
 - [_Freakonomics_ Podcast](http://freakonomics.com/archive/)
 
-
 ### Transcript
-
-

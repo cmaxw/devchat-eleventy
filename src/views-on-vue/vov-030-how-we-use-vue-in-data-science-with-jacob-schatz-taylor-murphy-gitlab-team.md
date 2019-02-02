@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 030: "How we use Vue in Data Science" with Jacob Schatz & Taylor Murphy (Gitlab Team)
+  VoV 030: "How we use Vue in Data Science" with Jacob Schatz & Taylor Murphy (Gitlab Team)
 date: 2018-09-25 11:22:23
 episode_number: 030
 duration: 1:09:00
 audio_url: https://media.devchat.tv/viewsonvue/VoV_030_How_we_use_Vue_in_Data_Science_with_Jacob_Schatz_Taylor_Murphy.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Divya Sasidharan
 - Charles Max Wood
@@ -256,7 +256,7 @@ You have C3 – what’s your opinion on C3?
 - [Python](https://www.python.org)
 - [Chart JS](https://www.chartjs.org)
 - [React](https://reactjs.org)
-- [Chris Fritz](https://jsfiddle.net/chrisvfritz/dmroqzLq/) – JS Fiddle 
+- [Chris Fritz](https://jsfiddle.net/chrisvfritz/dmroqzLq/) – JS Fiddle
 - [D3](https://d3js.org)
 - [Chris Lema](https://chrislema.com/building-an-online-course-woocommerce/) – Building an Online Course...
 - [Vuetify](https://vuetifyjs.com/en/getting-started/quick-start)
@@ -319,8 +319,8 @@ Charles
 
 Jacob
 
-- Alma CCS 
-- Read source code 
+- Alma CCS
+- Read source code
 - [Allen Kay](https://en.wikipedia.org/wiki/Alan_Kay)
 
 Taylor
@@ -328,7 +328,4 @@ Taylor
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [Wait But Why](https://waitbutwhy.com/2018/04/picking-career.html)
 
-
 ### Transcript
-
-

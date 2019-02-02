@@ -1,19 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      238 JSJ Intellectual Property and Software Forensics with Bob Zeidman
+  238 JSJ Intellectual Property and Software Forensics with Bob Zeidman
 date: 2016-11-16 06:00:12
 episode_number: 238
 duration: 1:06:03
 audio_url: https://media.devchat.tv/js-jabber/JSJ238_Intellectual_Property_and_Software_Forensics_with_Bob_Zeidman.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 TOPICS:03:08 The level of difficulty in determining code creators on the Internet04:28 How to determine if code has been copied10:00 What defines a trade secret12:11 The pending Oracle v Google lawsuit25:29 Nintendo v Atari27:38 The pros and cons of a patent29:59 Terrible patents33:48 Fighting patent infringement and dealing with “patent trolls”39:00 How a company tried to steal Bob Zeidman’s software44:13 How to know if you can use open source codes49:15 Using detective work to determine who copied whom52:55 Extreme examples of unethical behavior56:03 The state of patent laws
+
 ### PICKS:
+
 [Cognitive Bias Cheat Sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.hti7c897j) Blog Post[Bagels](https://www.p28foods.com/baked-goods/p28-high-protein-bagels) by P28 Foods[Let’s Encrypt](https://www.generosity.com/community-fundraising/make-a-more-secure-web-with-let-s-encrypt) Indigogo Generosity Campaign[Super Cartography Bros](http://cartography.ocremix.org/) Album[MicroConf 2017](http://www.microconf.com/)[MindMup](https://www.mindmup.com/) Mind Mapping Tool[Words with Friends](https://www.zynga.com/games/words-friends) Game[Upcoming Conferences](https://devchat.tv/conferences) via Devchat.tv[Good Intentions](https://www.amazon.com/Good-Intentions-Bob-Zeidman/dp/0970227620)Book by Bob Zeidman[Horror Flick](https://www.amazon.com/Horror-Flick-Bob-Zeidman-ebook/dp/B008CBHWCS/ref=asap_bc?ie=UTF8) Book by Bob Zeidman[Silicon Valley Napkins](http://www.z-enterprises.com/)
 
 ### Transcript

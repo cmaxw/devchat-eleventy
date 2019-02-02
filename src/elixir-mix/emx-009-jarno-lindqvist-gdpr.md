@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 009: Jarno Lindqvist - GDPR
+  EMx 009: Jarno Lindqvist - GDPR
 date: 2018-07-13 03:15:11
 episode_number: 009
 duration: 37:23
 audio_url: https://media.devchat.tv/elixir-mix/EMx_009_Jarno_Lindqvist_GDPR.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Charles Max Wood
 
@@ -70,7 +70,4 @@ Jarno
 - [Search GDPR on YouTube](https://www.youtube.com/results?search_query=gdpr)
 - [SAS research on GDPR compliance](https://www.sas.com/en_lu/offers/general-data-protection-regulation.html)
 
-
 ### Transcript
-
-

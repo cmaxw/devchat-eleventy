@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 042: Josh Greenwood
+  MRS 042: Josh Greenwood
 date: 2018-05-02 14:08:08
 episode_number: 042
 duration: 27:44
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_042_Josh_Greenwood.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Josh Greenwood
 
@@ -73,7 +73,4 @@ Josh
 - [_The Secrets of Consulting_ by Gerald M. Weinberg](https://www.amazon.com/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
 - [The Bullet Journal](http://bulletjournal.com/)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 043: Sam Julien
+  MAS 043: Sam Julien
 date: 2018-07-13 00:02:38
 episode_number: 043
 duration: 35:58
 audio_url: https://media.devchat.tv/my-angular-story/MAS_043_Sam_Julien.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Sam Julien
 
@@ -26,7 +26,7 @@ This week on My Angular Story, Charles speaks with Sam Julien. Sam’s course [U
 - How did you first get into programming?
 - Uncle gave him his old Mac computers
 - Reverse engineering of computers
-- Basic and ResEdit 
+- Basic and ResEdit
 - Taught himself HTML at 12 years old
 - HTML was the thing that allowed him to actually create things
 - CSS and [JavaScript](https://www.javascript.com/) in college
@@ -34,7 +34,7 @@ This week on My Angular Story, Charles speaks with Sam Julien. Sam’s course [U
 - Didn’t understand JavaScript in the beginning
 - Degree in Religion
 - What brought you back to programming?
-- Worked for a brokerage originally 
+- Worked for a brokerage originally
 - Started mostly with C# and [jQuery](https://jquery.com/) and then moved on to Angular
 - What was it about Angular made you want to specialize in it?
 - Fascinated by Angular and took the [Code School](https://www.pluralsight.com/codeschool) course on it
@@ -85,7 +85,4 @@ Sam
 - [NgColombia](https://www.ngcolombia.com/)
 - [_Artemis_ by Andy Weir on Audible](https://www.audible.com/pd/Sci-Fi-Fantasy/Artemis-Audiobook/B072R1CY4P)
 
-
 ### Transcript
-
-

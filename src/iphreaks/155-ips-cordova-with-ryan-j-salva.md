@@ -1,27 +1,27 @@
 ---
 layout: layouts/post.njk
 title: >
-      155 iPS Cordova with Ryan J. Salva
+  155 iPS Cordova with Ryan J. Salva
 date: 2016-06-02 07:00:26
 episode_number: 155
 duration: 45:26
 audio_url: https://media.devchat.tv/iphreaks/iPS155RyanJSilva.mp3?rss=true
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 01:04 - Ryan J. Salva Introduction
+
 - [Twitter](https://twitter.com/ryanjsalva)
 - [GitHub](https://github.com/ryanjsalva)
 - [Blog](http://ryanjsalva.com/)
-02:08 - [Cordova](https://cordova.apache.org/)
+  02:08 - [Cordova](https://cordova.apache.org/)
 - [WebView](https://developer.android.com/reference/android/webkit/WebView.html)
-05:19 - Hybrid; Native Applications11:58 - Code Reuse and Sharing16:01 - Performance25:32 - Update29:36 - Performance (Cont’d)37:11 - The Development Process&nbsp;Picks
+  05:19 - Hybrid; Native Applications11:58 - Code Reuse and Sharing16:01 - Performance25:32 - Update29:36 - Performance (Cont’d)37:11 - The Development Process&nbsp;Picks
 - [Microsoft Bot Framework](https://dev.botframework.com/) (Ryan)
 - [Ryan's Blog](http://ryanjsalva.com/) (Ryan)
-
 
 ### Transcript
 
@@ -262,5 +262,3 @@ Whatever bot is coming up with those names, I’m laughing.
 **JAIM:** Alright.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

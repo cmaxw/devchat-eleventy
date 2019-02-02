@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 005: Asynchronicity in Elixir - Best Effort vs. Guaranteed Execution with Sam Davies
+  EMx 005: Asynchronicity in Elixir - Best Effort vs. Guaranteed Execution with Sam Davies
 date: 2018-05-29 10:00:27
 episode_number: 005
 duration: 58:31
 audio_url: https://media.devchat.tv/elixir-mix/EMx_005_Asynchronicity_in_Elixir_Best_Effort_vs_Guaranteed_Execution_with_Sam_Davies.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Mark Erikson
@@ -94,7 +94,4 @@ Sam
 - [Node.js and Elixir presentation](https://vimeo.com/channels/ndcoslo2016/171068992)
 - [Talk: Elixir Umbrella](https://www.youtube.com/watch?v=jhZwQ1LTdUI)
 
-
 ### Transcript
-
-

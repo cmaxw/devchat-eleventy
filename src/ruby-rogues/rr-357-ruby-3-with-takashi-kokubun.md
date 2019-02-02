@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 357: Ruby 3 with Takashi Kokubun
+  RR 357: Ruby 3 with Takashi Kokubun
 date: 2018-04-10 10:00:04
 episode_number: 357
 duration: 1:01:41
 audio_url: https://media.devchat.tv/ruby-rogues/RR_357_Ruby_3_with_Takashi_Kokobun.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Eric Berry
 - Dave Kimura
@@ -79,7 +79,4 @@ Takashi
 - [md2key](https://github.com/k0kubun/md2key)
 - [mitamae](https://github.com/itamae-kitchen/mitamae)
 
-
 ### Transcript
-
-

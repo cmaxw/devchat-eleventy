@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 338: It’s Supposed To Hurt, Get Outside of Your Comfort Zone to Master Your Craft with Christopher Buecheler
+  JSJ 338: It’s Supposed To Hurt, Get Outside of Your Comfort Zone to Master Your Craft with Christopher Buecheler
 date: 2018-11-06 11:00:55
 episode_number: 338
 duration: 43:37
 audio_url: https://media.devchat.tv/js-jabber/JSJ_338_Its%20Suppose_To_Hurt_Get_Outside_Your_Comfort_Zone_to_Master_Your_Craft_with_Christopher_Buecheler.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Aimee Knight](http://www.aimeemarieknight.com)
 - AJ O’Neal
@@ -156,7 +156,7 @@ Chris F.
 
 - [AutoJump&nbsp;](https://github.com/wting/autojump)
 - [Brutalist Web Design](https://brutalist-web.design/)
-- [Mac Miller](https://www.youtube.com/watch?v=QrR_gm6RqCo) Tiny Desk Concert 
+- [Mac Miller](https://www.youtube.com/watch?v=QrR_gm6RqCo) Tiny Desk Concert
 
 AJ
 
@@ -173,7 +173,4 @@ Christopher
 - [South Reach Trilogy](https://www.amazon.com/Area-Southern-Annihilation-Authority-Acceptance/dp/0374261172)
 - [Jeff Vandermeer](http://www.jeffvandermeer.com/)
 
-
 ### Transcript
-
-

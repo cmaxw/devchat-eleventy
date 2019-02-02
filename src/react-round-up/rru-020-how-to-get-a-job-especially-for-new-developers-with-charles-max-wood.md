@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 020: How to Get a Job (Especially for New Developers) with Charles Max Wood
+  RRU 020: How to Get a Job (Especially for New Developers) with Charles Max Wood
 date: 2018-07-17 18:12:32
 episode_number: 020
 duration: 1:16:11
 audio_url: https://media.devchat.tv/reactroundup/RRU_020_How_to_Get_a_Job_(Especially_for_New_Developers)_with_Charles_Max_Wood.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
   - new_programmers
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
-- Lucas Reis 
+- Lucas Reis
 - Sia Karamalegos
 
 In this episode, the React Round Up panelists talk about finding a job as a developer. Charles is getting ready to release a course on finding a job and he finds that he is always getting asked about how new developers can find a job. They talk about how they all found their first coder job, picking your target company, and understanding what you want in a job. They also touch on Charles’ upcoming course, the importance of showing initiative, and more!
@@ -43,7 +43,7 @@ In this episode, the React Round Up panelists talk about finding a job as a deve
 - Really master the languages/systems of the company you want to uses
 - Show initiative
 - Finding a champion at your target company
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -75,7 +75,4 @@ Sia
 
 - Family
 
-
 ### Transcript
-
-

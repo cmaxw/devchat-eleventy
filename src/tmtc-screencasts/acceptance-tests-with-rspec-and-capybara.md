@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Acceptance Tests with RSpec and Capybara
+  Acceptance Tests with RSpec and Capybara
 date: 2011-05-23 15:49:23
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

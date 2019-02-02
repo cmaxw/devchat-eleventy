@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 058: Dean J Sofer
+  MJS 058: Dean J Sofer
 date: 2018-04-25 10:00:21
 episode_number: 058
 duration: 39:00
 audio_url: https://media.devchat.tv/my-js-story/MJS_058_Dean_J_Sofer.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Dean J Sofer
 
@@ -67,7 +67,4 @@ Dean
 - [Wallaby.js](https://wallabyjs.com/)
 - [You Suck at Dating Podcast](https://www.stitcher.com/podcast/you-suck-at-dating)
 
-
 ### Transcript
-
-

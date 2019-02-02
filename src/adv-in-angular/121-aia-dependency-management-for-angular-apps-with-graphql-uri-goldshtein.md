@@ -1,29 +1,29 @@
 ---
 layout: layouts/post.njk
 title: >
-      121 AiA Dependency Management for Angular Apps with GraphQL Uri Goldshtein
+  121 AiA Dependency Management for Angular Apps with GraphQL Uri Goldshtein
 date: 2016-12-01 06:00:04
 episode_number: 121
 duration: 51:41
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA121_Dependency_Management_for_Angular_Apps_with_GraphQL_Uri_Goldshtein.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 1:40 - Introducing Uri Goldshtien
+
 - [Meteor Development Group](https://www.meteor.com/company)
 - [Apollo Library](http://dev.apollodata.com/angular2/)
 - [Github](https://github.com/Urigo)
 - [Twitter](https://twitter.com/urigoldshtein?lang=en)
-6:00 -Intro to [Graph QL](http://graphql.org/)
+  6:00 -Intro to [Graph QL](http://graphql.org/)
 - [http://www.graphql.com/](http://www.graphql.com/)
 - [Community page](http://graphql.org/community/)
-28:40 - Live demo of using Graph QL35:00 - Demo using example apps
+  28:40 - Live demo of using Graph QL35:00 - Demo using example apps
 - [Instagraph](https://github.com/kamilkisiela/instagraph)
 - [Blog posts](http://info.meteor.com/blog/angular-meteor-1.3)
-
 
 ### Transcript
 

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Marketing Yourself to Boost Your Career - John Somnez - JS Remote Conf 2015
+  Marketing Yourself to Boost Your Career - John Somnez - JS Remote Conf 2015
 date: 2015-09-22 15:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: remote-conf-talks
-tags: 
+tags:
   - remote_conf_talks
   - podcast
 ---
@@ -33,5 +33,3 @@ Because marketing works, and like it or not, if you want move beyond a basic car
 In this session, I'll teach you some quick and easy things you can do to enhance the marketability of your skills and personal brand immediately and talk about some long term plans you can put into action so that everyone will know your name.
 
 And this session isn't just for software developers. Any IT professional can benefit from learning these important skills for this rapidly changing game.'
-
-

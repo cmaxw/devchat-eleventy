@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 368: Improving Ruby Performance with Rust with Daniel P. Clark
+  RR 368: Improving Ruby Performance with Rust with Daniel P. Clark
 date: 2018-06-26 10:00:16
 episode_number: 368
 duration: 56:54
 audio_url: https://media.devchat.tv/ruby-rogues/RR_368_Improving_Ruby_Performance_with_Rust_with_Daniel_P_Clark.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Dave Kimura
@@ -100,7 +100,4 @@ Daniel
 - [LegalShield](https://www.legalshield.com/)
 - [GoSmallBiz](http://gosmallbiz.com/)
 
-
 ### Transcript
-
-

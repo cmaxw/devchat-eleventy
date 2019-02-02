@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 002: ElixirScript with Bryan Joseph
+  EMx 002: ElixirScript with Bryan Joseph
 date: 2018-05-08 10:00:23
 episode_number: 002
 duration: 34:26
 audio_url: https://media.devchat.tv/elixir-mix/EMx_002_ElixirScript_with_Bryan_Joseph.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Josh Adams
@@ -44,7 +44,7 @@ In this episode of Elixir Mix, the panel discusses ElixirScript with Bryan Josep
 - Was there a pain point at all?
 - How far did you get with processes?
 - [Processes library](https://github.com/elixirscript/processes)
-- Do have plans to move this over to [WebAssembly](http://webassembly.org/)? 
+- Do have plans to move this over to [WebAssembly](http://webassembly.org/)?
 - [ElixirScript React Library](https://github.com/elixirscript/elixirscript_react)
 - [Vue](https://vuejs.org/)
 - [Webpack](https://webpack.js.org/)
@@ -77,7 +77,7 @@ Justin
 
 Josh
 
-- Capabilities 101 
+- Capabilities 101
 - [erights.org](http://erights.org/)
 
 Bryan
@@ -87,7 +87,4 @@ Bryan
 - [The Big Elixir](https://www.thebigelixir.com/)
 - [Revelry Labs](https://revelry.co/)
 
-
 ### Transcript
-
-

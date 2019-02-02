@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 303: Genesis of a Course
+  FS 303: Genesis of a Course
 date: 2018-06-29 08:27:07
 episode_number: 303
 duration: 34:11
 audio_url: https://media.devchat.tv//freelancers/FS_303_Genesis_of_a_Course.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 **Reuven Lerner**
 
@@ -20,28 +20,28 @@ In this episode of the Freelancer’s Show, Reuven talks about the “Genesis of
 
 **In particular, we dive pretty deep on:**
 
-- Creating new courses 
-- Allows you to upsell 
-- Offer a wider variety of courses 
+- Creating new courses
+- Allows you to upsell
+- Offer a wider variety of courses
 - They (Business)&nbsp; see you as an authority
-- Where to get Ideas for new courses 
+- Where to get Ideas for new courses
 - Working with clients&nbsp; to get ideas
-- Learning about demand 
+- Learning about demand
 - Title of the course
-- Sending the course syllabus to companies 
+- Sending the course syllabus to companies
 - ROI of the course
-- Teaching a months worth of information? 
+- Teaching a months worth of information?
 - Competition means there is a market
 - Starting off with the course, targeting, etc
 - Using Keynote
-- Slide decks 
-- Time put in to build out a course 
+- Slide decks
+- Time put in to build out a course
 - Preparation equals 3-4 days for each day of teaching
-- Creating exercises 
-- Practice adding exercises 
+- Creating exercises
+- Practice adding exercises
 - Resistance on a new course
 - Give material out as Webinars
-- Where and how to announce the new course 
+- Where and how to announce the new course
 - This is going to take weeks and months to create
 - And much more!&nbsp; &nbsp; &nbsp;
 
@@ -62,7 +62,4 @@ Reuven Lerner
 
 - [Bluedio T4S](https://www.amazon.com/Bluedio-Cancelling-Bluetooth-Headphones-headphones/dp/B073DR5ZPQ)
 
-
 ### Transcript
-
-

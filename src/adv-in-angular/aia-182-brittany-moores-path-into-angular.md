@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 182: Brittany Moore's Path into Angular
+  AiA 182: Brittany Moore's Path into Angular
 date: 2018-03-27 10:00:17
 episode_number: 182
 duration: 1:15:04
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_182_%20AiA_Brittany_Moores_Path_into_Angular.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Alyssa Nicoll
@@ -28,7 +28,7 @@ In this episode of Adventures in Angular, the panel talks to Brittany Moore abou
 - [Angular](https://angular.io/)
 - Front-end background
 - [JavaScript](https://www.javascript.com/) and CSS
-- Discovered Angular from a talk 
+- Discovered Angular from a talk
 - Angular JS and Angular 2.0
 - What made Angular appeal to you?
 - CS graduate
@@ -84,7 +84,4 @@ Brittany
 - [_Hit Refresh_ by Satya Nadella](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA)
 - [Reigns Her Majesty](http://store.steampowered.com/app/717640/Reigns_Her_Majesty/)
 
-
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      CoffeeScript: The Cool Parts
+  CoffeeScript: The Cool Parts
 date: 2011-05-13 03:56:16
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

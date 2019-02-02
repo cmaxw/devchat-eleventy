@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 057: Georgi Parlakov
+  MAS 057: Georgi Parlakov
 date: 2018-10-24 10:00:58
 episode_number: 057
 duration: 38:47
 audio_url: https://media.devchat.tv/my-angular-story/MAS_057_Georgi_Parlakov.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Georgi Parlakov
 
@@ -172,7 +172,7 @@ Georgi: Yes.
 
 **Georgi**
 
-- Find your thing and take a leap of faith – it’s never too late. 
+- Find your thing and take a leap of faith – it’s never too late.
 - [Angular BrowserModule](https://angular.io/api/platform-browser/BrowserModule)
 - [Book: The Three-Body Problem by Cixin Liu](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032)
 - [Book: Getting to Yes by Roger Fisher](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/ref=sr_1_3?s=books&ie=UTF8&qid=1540334516&sr=1-3&keywords=getting+to+yes)
@@ -185,7 +185,4 @@ Georgi: Yes.
 - [2 Keto Dudes](http://2ketodudes.com)
 - Walk or Run a 5K everyday (3.1 miles)
 
-
 ### Transcript
-
-

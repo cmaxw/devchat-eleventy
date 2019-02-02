@@ -1,41 +1,42 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 146 10 Ways to Lose a Developer with Bonnie Brennan and Keith Stewart
+  AiA 146 10 Ways to Lose a Developer with Bonnie Brennan and Keith Stewart
 date: 2017-07-04 04:00:53
 episode_number: 146
 duration: 01:09:10
 audio_url: https://media.devchat.tv//adventures-in-angular/AiA_146_10_Ways_to_Lose_a_Developer_with_Bonnie_Brennan_and_Keith_Stewart.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 ### **AiA 146: 10 Ways to Lose a Developer with Bonnie Brennan and Keith Stewart**
+
 On today's episode of Adventures in Angular, we have panelists Ward Bell, Alyssa Nicoll, Joe Eames, and Charles Max Wood. We have special guests, Bonnie Brennan of ngHouston and Keith Stewart of CollabNet. The discussion ranges from the Most Common Reason for People to Leave to Mandatory Happy Hour that companies have! Stay tuned!**[00:01:05] Introduction to Bonnie Brennan and Keith Stewart**Bonnie is an Angular architect at Houston, Texas. She is the founder of ngHouston. She also runs Code Bridge Texas with her daughter. They do free programming workshops for girls. She’s going to be at a couple of conferences coming up. They’re going to AngularMix and FrontEnd Connect with Alyssa. Keith, on the other hand, works for a company called CollabNet as a UI Tech Lead. He is working mostly on UI’s for DevOps-related products. He is also a frequent panelist on the ngHouston Meet up broadcast that Bonnie runs and a curator on ngDoc.io with Alyssa and Joe.**[00:03:20] – Most common reason for people to leave**If Bonnie has to narrow down, she thinks it’s the tech stack. Some companies have a lot of legacy code that needs to be maintained but at the same time, when you are a developer who spends a lot of time on emerging technologies, you want to be working on this new stuff that you’re learning. While working on this course on how to find a better dev job, Charles surveyed people on Skype or the phone. They feel stuck and not moving ahead.**[00:10:50] – In the culture, if you’re not a performer, then, you’re not trying hard enough?**Joe thinks that we have this problem in this industry that if you are not going to be blogging and speaking at conferences, then, you just don’t belong. Ward also thinks that you don’t have to be a performer to contribute to a great development environment. But for Bonnie, being a performer is not exactly about getting up on stage. It really is about caring enough. Alyssa tells about the gradient of the type of person. There’s a person like, “Okay, this is just a job for me but I still take pride in my work.” But if you’re in the mindset of “Hey, I have kids or I have a wife outside of this. But I’m still giving it my all while I’m here.” Then, it’s perfectly reasonable. Keith also tells about the two different types of people. The generalists, the folks who are on the bleeding-edge, they don’t necessarily master one of those, and the other folks who get really good at one particular thing that they’re working on. Ward cites an instance where you’re in an enterprise and you have a lot of very important legacy systems that need a person who cares about the legacy stuff. You can’t have a company that has all people who have to be on the bleeding-edge all the time.**[00:18:55] – Type of developers that companies want and how to keep them**Ward mentions how professional growth is important. The opportunities for people to work on the leading technologies is not always something that every company can offer but they can sprinkle these opportunities here and there. It can be done but if it’s not, there are things that you can do with some of the legacy applications to make them more palatable to work on. Charles suggests to companies to show the developers that you care, you are listening. It’s on the roadmap and you’re going to get there.**[00:22:55] – Is boss on your list of Ways to Lose a Developer?**Bonnie can’t think of the time that she has left because of her boss. But the company culture is an important thing because however, the upper management feels about culture, that’s going to trickle down. One issue about Charles’ boss is that he is very controlling. Another issue is he was specifying the requirements for the application and he wasn’t very good at staying consistent with it. They wind up building one thing but gets angry with them because they hadn’t built what he wanted, even though it was exactly what he specified. Bonnie also had a situation similar to Charles where the project requirements kept changing while she was writing the code. If you feel like you’re going to work to be frustrated again, it doesn’t matter what technology you’re using, it doesn’t matter how you like the rest of your co-workers, eventually, you’re going to burn out.**[00:27:00] – Not being paid enough**When you’re not making a whole lot of money, Bonnie thinks it can be a big deal but it’s not the biggest issue. For Keith, if he would be weighing two companies, he’ll also choose the company with the good tech stack instead of the company which pays a little higher. But Ward thinks that it is a privilege to be in an industry where even in the low-end of the salary rank, you tend to be pretty comfortable.**[00:29:55] – Effective ways to show your appreciation to a developer**Bonnie refers to an instance when the boss gives credit for a developer in a meeting on how he did a great job on a feature. And on the flipside, the worst kind of boss is the boss that says, “Look what I did.” But Keith finds it a difficult question because it might be different for other people. Some people like to be called out in a meeting and say, “You did a good job.” But some folks would like that to be a little more behind the scenes. Or some folks might be looking for a bonus instead. So you might be able to read your people. For Alyssa, she likes the boss who regularly checks in even if it’s not a pat on the back because it just shows that they care about the process. Ward speaks of the boss who asks your opinion on an important decision, technical or otherwise.**[00:37:40] – Recruitment**Keith never likes the recruitment process of companies which bring a lot of people in and give them coding exercises on a whiteboard. So they built a small application that’s similar to the application that the folks will actually be doing.**[00:41:05] – Remote vs. working in an office**Alyssa loves being remote. She mentions she has ADHD so she was distracted in an office setting. It’s important for her to set up her environment to be more productive. Bonnie also has been working remote for 3 years now. It used to be difficult to communicate but now, we can just use video call. But Keith finds people more engaged in a meeting when it’s in person. An office space can add a lot of value to a team. Ward points out that you can also be distracted as well by working remote. In Google, they all work in the office. Even though they have open office plans, sitting right next to each other, they trust the people that they can do well in that environment. People put on headphones when they’re really focusing on something.**[00:53:20] – Mandatory happy hour**Companies which have a snack room, ping pong table, foosball can contribute to company culture and make it a much more attractive place for developers. But Alyssa gets scared a little bit when programmers go overboard and sometimes you’re not into it as much as they are.
+
 #### **Picks**
+
 Ward Bell
+
 - Progressive Web Apps (PWA)
 - [Jake Archibald on PWA](https://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiWj_3m6vvUAhVLUbwKHcSeDjMQtwIIJDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcmGr0RszHc8&usg=AFQjCNFteiHS7s7K1wYiwwm9_OlD9BsM1A)
-Joe Eames
+  Joe Eames
 - [Shimmer Lake](https://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjcxtny6vvUAhUBxbwKHYkrAbgQFggwMAE&url=https%3A%2F%2Fwww.netflix.com%2Ftitle%2F80103734&usg=AFQjCNHF57izk0IQJ8XmF1Ay63ML83JpRg)
 - Keith Stewart
-Charles
+  Charles
 - Angular Dev Summit
 - [Camelbak Eddy water bottle](https://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjDjYT_6vvUAhWHTrwKHUJMBCcQFggvMAI&url=https%3A%2F%2Fwww.amazon.com%2FCamelBak-53843-Eddy-Water-Bottle%2Fdp%2FB01787PW8W&usg=AFQjCNETAQ4PYgXgV_UqLnJdxO5nvn38HA)
 - [JAM XT Bluetooth speaker](https://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjQwdOR6_vUAhVGwbwKHfN1BbcQFggpMAE&url=https%3A%2F%2Fwww.amazon.com%2FExtreme-Wireless-Speaker-Blue-HX-P430BL%2Fdp%2FB00CDGSNPS&usg=AFQjCNGcC6MiTlBLxq7gRuqMCjOP4b753Q)
-Bonnie Brennan
+  Bonnie Brennan
 - [Pluralsight course on Angular Reactive Forms by Deborah Kurata](https://www.pluralsight.com/courses/angular-2-reactive-forms)
 - [Todd Motto’s Ultimate Angular JS](https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 - [Twitter @bonnster75](https://twitter.com/bonnster75)
 - [Youtube ngHouston Angular Meetup](https://www.youtube.com/channel/UC3cfVUpgrO5TK6cvH04ieSQ)
-Keith Stewart
+  Keith Stewart
 - [Adam Laycock’s blog post: Building maintainable Angular 2 applications](https://medium.com/curated-by-versett/building-maintainable-angular-2-applications-5b9ec4b463a1)
 - [Rogue One](https://en.wikipedia.org/wiki/Rogue_One)
 - [Twitter @TheKeithStewart](https://twitter.com/TheKeithStewart)
 
-
 ### Transcript
-
-

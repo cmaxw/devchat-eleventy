@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 245:  What's a Marzipan?
+  iPS 245:  What's a Marzipan?
 date: 2018-06-24 03:50:19
 episode_number: 245
 duration: 45:26
 audio_url: https://media.devchat.tv//iphreaks/iPS_245_%20What's_a_Marzipan.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Jaim Zuber
 - Andrew Madsen
@@ -36,13 +36,13 @@ In today’s episode, the iPhreaks panel talk about Marizipan. Marzipan is the c
 - What’s up with the Tea?
 - Is Apple developing a reactive UI layer?
 - [UIKit](https://developer.apple.com/documentation/UIKit) vs [AppKit](https://developer.apple.com/documentation/appkit?changes=_8)
-- Dummies guide to running your own iOS app on Mac 
+- Dummies guide to running your own iOS app on Mac
 - [Marzipanify](https://github.com/steventroughtonsmith/marzipanify)
 - Is there a simulator network to run iOS apps on the Mac?
 - What iOS apps would you like to see on the Mac?
 - What iOS elements are supported?
 - What is ProKit?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -73,7 +73,4 @@ Gui
 
 - [Brigadeiro](https://en.wikipedia.org/wiki/Brigadeiro)
 
-
 ### Transcript
-
-

@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      React & React Native Graphics Libraries feat. Gaëtan Renaudeau
+  React & React Native Graphics Libraries feat. Gaëtan Renaudeau
 date: 2018-06-18 20:40:44
 episode_number: 097
 duration: 51:03
 audio_url: https://media.devchat.tv/reactnativeradio/React_Native_Radio_Episode_97.mp3
 podcast: react-native-radio
-tags: 
+tags:
   - react_native_radio
   - podcast
 ---
 
- **React Native Radio | Episode 97**** Panel: **Nader Dabit Gant LaBorde** Special Guests:**Gaëtan Renaudeau In this episode of React Native Radio, the panelists talk to Gaëtan Renaudeau. Gaëtan lives in France and is the author of [gl-react](https://github.com/gre/gl-react). The idea for writing this came 3 years ago when he was working on his startup [Project September](https://www.instagram.com/projectseptember/?hl=en) and he wanted to make text work on top of images. He has recently joined the company [Ledger](https://www.ledgerwallet.com/) and they talk about what he is working on now as well as how he got into working with [React Native](https://facebook.github.io/react-native/) and creating gl-react.**In particular, we dive pretty deep on:**
+**React Native Radio | Episode 97\*\*** Panel: **Nader Dabit Gant LaBorde** Special Guests:**Gaëtan Renaudeau In this episode of React Native Radio, the panelists talk to Gaëtan Renaudeau. Gaëtan lives in France and is the author of [gl-react](https://github.com/gre/gl-react). The idea for writing this came 3 years ago when he was working on his startup [Project September](https://www.instagram.com/projectseptember/?hl=en) and he wanted to make text work on top of images. He has recently joined the company [Ledger](https://www.ledgerwallet.com/) and they talk about what he is working on now as well as how he got into working with [React Native](https://facebook.github.io/react-native/) and creating gl-react.**In particular, we dive pretty deep on:\*\*
+
 - Gaëtan intro
 - [gl-react](https://github.com/gre/gl-react) works on top of the web
 - [React](https://reactjs.org/) and [React Native](https://facebook.github.io/react-native/)
@@ -36,7 +37,7 @@ tags:
 - Cryptocurrencies
 - [gl-react cookbook](https://gl-react-cookbook.surge.sh/)
 - And much, much more!
-&nbsp; **Links:**
+  &nbsp; **Links:**
 - [gl-react](https://github.com/gre/gl-react)
 - [Project September](https://www.instagram.com/projectseptember/?hl=en)
 - [Ledger](https://www.ledgerwallet.com/)
@@ -52,21 +53,18 @@ tags:
 - [Gaëtan’s GitHub](https://github.com/gre)
 - [@greweb](https://twitter.com/greweb)
 - [me](http://greweb.me/)
-**Sponsors:**
+  **Sponsors:**
 - [Linode](https://promo.linode.com/reactnativeradio/)
-**Picks:** Nader
+  **Picks:** Nader
 - [Open GraphQL Medium](https://medium.com/open-graphql)
 - _[Building Serverless Mobile Applications with React Native & AWS by Nader](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)_
 - [Bucharest, Romania](http://romaniatourism.com/Bucharest.html)
 - [Chain React Conference](https://infinite.red/ChainReactConf)
-Gant
+  Gant
 - [Chain React Conference](https://infinite.red/ChainReactConf)
 - _[Machine Learning: how to go from Zero to Hero by Gant](https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da)_
-Gaëtan
+  Gaëtan
 - [CryptoZombies](https://cryptozombies.io/)
 - [ReactEurope](https://www.react-europe.org/)
 
-
 ### Transcript
-
-

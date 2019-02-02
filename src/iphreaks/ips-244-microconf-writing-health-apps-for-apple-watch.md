@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 244: MicroConf & Writing Health Apps for Apple Watch
+  iPS 244: MicroConf & Writing Health Apps for Apple Watch
 date: 2018-06-15 15:42:23
 episode_number: 244
 duration: 40:42
 audio_url: https://media.devchat.tv/iphreaks/iPS_244_MicroConf_Writing_Health_Apps_for_Apple_Watch.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Jaim Zuber
 - Erica Sadun
@@ -44,7 +44,7 @@ In today’s episode, the iPhreaks panel talk to Leo Dion about MicroConf and wr
 - Getting info from your devices without looking at a screen
 - Augmented Reality without images
 - We love stats!
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -53,7 +53,7 @@ In today’s episode, the iPhreaks panel talk to Leo Dion about MicroConf and wr
 - [_Startups for the Rest of Us_ Podcast](https://www.startupsfortherestofus.com/)
 - [@leogdion](https://twitter.com/leogdion)
 - [leogdion.name](https://leogdion.name/)
-- 
+-
 
 **Sponsors:**
 
@@ -79,7 +79,4 @@ Leo
 
 - [_The Qualities of Great Design_](https://developer.apple.com/videos/play/wwdc2018/801/)
 
-
 ### Transcript
-
-

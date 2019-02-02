@@ -1,26 +1,28 @@
 ---
 layout: layouts/post.njk
 title: >
-      224 JSJ Cypress.js with Brian Mann
+  224 JSJ Cypress.js with Brian Mann
 date: 2016-08-10 07:00:34
 episode_number: 224
 duration: 45:42
 audio_url: https://media.devchat.tv/js-jabber/JSJ224Cypress.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 ## [Angular Remote Conf](https://allremoteconfs.com/angular-2016) and [React Remote Conf](https://allremoteconfs.com/react-2016)
+
 &nbsp;03:18 - Brian Mann Introduction
+
 - [Twitter](https://twitter.com/be_mann)
 - [GitHub](https://github.com/brian-mann)
-03:33 - [Cypress.io](https://www.cypress.io/)04:09 - [Selenium](http://www.seleniumhq.org/)08:56 - Cypress vs Selenium16:54 - Similarities: Cypress and [Protractor](http://www.protractortest.org/#/)18:22 - Mocking API Data20:40 - Getting Started with Cypress and The Migration Process21:54 - Testing30:31 - Handling Data on the Backend34:16 - What’s coming next in Cypress?
+  03:33 - [Cypress.io](https://www.cypress.io/)04:09 - [Selenium](http://www.seleniumhq.org/)08:56 - Cypress vs Selenium16:54 - Similarities: Cypress and [Protractor](http://www.protractortest.org/#/)18:22 - Mocking API Data20:40 - Getting Started with Cypress and The Migration Process21:54 - Testing30:31 - Handling Data on the Backend34:16 - What’s coming next in Cypress?
 
 ### Transcript
 
- **JOE:&nbsp;** Are you talking about the dogs or the aliens?
+**JOE:&nbsp;** Are you talking about the dogs or the aliens?
 
 **_[This episode is sponsored by Frontend Masters. They have a terrific lineup of live courses you can attend either online or in person. They also have a terrific backlog of courses you can watch including JavaScript the Good Parts, Build Web Applications with Node.js, AngularJS In-Depth, and Advanced JavaScript. You can go check them out at FrontEndMasters.com.]_**
 
@@ -339,5 +341,3 @@ But anyway, those are my picks. Sorry to wax…
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

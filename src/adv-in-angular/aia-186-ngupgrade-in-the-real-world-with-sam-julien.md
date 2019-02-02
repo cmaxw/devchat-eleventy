@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 186: ngUpgrade in the Real World with Sam Julien
+  AiA 186: ngUpgrade in the Real World with Sam Julien
 date: 2018-04-24 10:00:25
 episode_number: 186
 duration: 55:12
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_186_ngUpgrade_in_the_Real_World_with_Sam_Julien.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - John Papa
@@ -77,7 +77,4 @@ Sam
 - [Glitch](https://glitch.com/)
 - [_Bird by Bird_ by Anne Lamott](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016)
 
-
 ### Transcript
-
-

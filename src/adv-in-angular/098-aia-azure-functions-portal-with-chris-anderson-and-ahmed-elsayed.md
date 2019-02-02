@@ -1,31 +1,32 @@
 ---
 layout: layouts/post.njk
 title: >
-      098 AiA Azure Functions Portal with Chris Anderson and Ahmed ElSayed
+  098 AiA Azure Functions Portal with Chris Anderson and Ahmed ElSayed
 date: 2016-06-23 07:00:08
 episode_number: 098
 duration: 51:56
 audio_url: http://media.devchat.tv/adventures-in-angular/AiA098AzureFunctionsPortal.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 01:58 - Ahmed ElSayed Introduction
+
 - [Twitter](https://twitter.com/ahmelsayed)
 - [GitHub](https://github.com/ahmelsayed)
 - [Blog](http://ahmelsayed.com/)
-02:09 - Chris Anderson Introduction
+  02:09 - Chris Anderson Introduction
 - [Twitter](https://twitter.com/crandycodes)
 - [GitHub](https://github.com/christopheranderson)
-02:19 - [Microsoft Azure Functions](http://functions.azure.com)
+  02:19 - [Microsoft Azure Functions](http://functions.azure.com)
 - [iPhreaks Show Episode #157: Azure App Services with Matthew Henderson](https://devchat.tv/iphreaks/ips-157-azure-app-services-with-matthew-henderson)
-02:28 - Building the [Azure Functions Portal](https://github.com/projectkudu/AzureFunctionsPortal) on Angular 209:37 - The Backend11:18 - Approaching Leadership for Approval to Build in Angular 2/Beta; Deciding Factors15:18 - App Organization and Architectural Pattern18:38 - Ease and Hardships of Starting the App22:33 - Use Cases24:13 - Browser Issues25:39 - Debugging
+  02:28 - Building the [Azure Functions Portal](https://github.com/projectkudu/AzureFunctionsPortal) on Angular 209:37 - The Backend11:18 - Approaching Leadership for Approval to Build in Angular 2/Beta; Deciding Factors15:18 - App Organization and Architectural Pattern18:38 - Ease and Hardships of Starting the App22:33 - Use Cases24:13 - Browser Issues25:39 - Debugging
 - [Augury](https://augury.angular.io/)
-26:52 - [Angular CLI](https://cli.angular.io/)
+  26:52 - [Angular CLI](https://cli.angular.io/)
 - [jspm.io](http://jspm.io/)
-28:59 - Workflow40:08 - Observables & Streaming41:36 - Upgrading42:15 - Would you recommend Angular 2?44:35 - Testing&nbsp;Picks
+  28:59 - Workflow40:08 - Observables & Streaming41:36 - Upgrading42:15 - Would you recommend Angular 2?44:35 - Testing&nbsp;Picks
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) (John)
 - [NativeScript](https://www.nativescript.org/) (John)
 - [Ionic 2](http://ionic.io/2) (John)
@@ -34,7 +35,6 @@ tags:
 - [Audible](http://www.audible.com/) (Chuck)
 - [Sapiens: A Brief History of Humankind by Yuval Noah Harari](http://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) (Ahmed)
 - [Promise Theory](https://en.wikipedia.org/wiki/Promise_theory) (Chris)
-
 
 ### Transcript
 
@@ -678,7 +678,7 @@ I did choose Angular over other frameworks mainly because of TypeScript support.
 
 **AHMED:** Okay.
 
-**CHRIS:&nbsp;** So, what are you going to do now? Is it going to open an issue on it? And [laughs] [inaudible]
+**CHRIS:&nbsp;** So, what are you going to do now? Is it going to open an issue on it? And [laughs][inaudible]
 
 **WARD:&nbsp;** Absolutely.
 
@@ -945,5 +945,3 @@ So, it's a kind of interesting way of treating those promises and thinking about
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
-
-

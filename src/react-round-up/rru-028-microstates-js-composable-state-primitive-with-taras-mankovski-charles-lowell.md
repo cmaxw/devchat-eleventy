@@ -1,21 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 028: “Microstates.js – Composable State Primitive” with Taras Mankovski & Charles Lowell
+  RRU 028: “Microstates.js – Composable State Primitive” with Taras Mankovski & Charles Lowell
 date: 2018-09-11 10:00:39
 episode_number: 028
 duration: 52:05
 audio_url: https://media.devchat.tv/reactroundup/RRU_028_Taras_Mankovski_Microstatesjs_Composable_State_Primitive.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles (Chuck) Max Wood
-- Lucas Reis 
+- Lucas Reis
 
 **Special Guests:** [Charles Lowell](https://twitter.com/cowboyd?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor) & [Taras Mankovski](https://twitter.com/tarasm?lang=en)
 
@@ -113,12 +113,12 @@ Question: There is a very interesting design with people who are not developers.
 
 Charles (Chuck)
 
-- [Framework Summit](https://www.frameworksummit.com) – Chuck will be talking at this conference in UT. 
+- [Framework Summit](https://www.frameworksummit.com) – Chuck will be talking at this conference in UT.
 - [Ebook – Finding a Job.](https://devchat.tv/get-a-coder-job/) Prelaunch in August. Final version launches on Labor Day.
 
 Lucas
 
-- Take care of your health! 
+- Take care of your health!
 - Martial Arts and Jujitsu
 - Nutrition
 
@@ -131,7 +131,4 @@ Lucas
 
 - [BigTest](https://bigtestjs.io)
 
-
 ### Transcript
-
-

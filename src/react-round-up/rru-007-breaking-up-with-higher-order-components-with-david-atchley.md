@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 007: Breaking up with Higher Order Components with David Atchley
+  RRU 007: Breaking up with Higher Order Components with David Atchley
 date: 2018-04-17 10:00:38
 episode_number: 007
 duration: 1:08:24
 audio_url: https://media.devchat.tv/reactroundup/RRU_007_Breaking_up_with_Higher_Order_Components_with_David_Atchley.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Nader Dabit
@@ -65,7 +65,7 @@ In this episode of React Round Up, the panel discuss breaking up with higher-ord
 
 Charles
 
-- [_I’d Pay You $500,000 a Year, but You Can’t Do the Work_ by Shelly Palmer](https://www.shellypalmer.com/2017/04/id-pay-500000-year-cant-work/)
+- [_I’d Pay You \$500,000 a Year, but You Can’t Do the Work_ by Shelly Palmer](https://www.shellypalmer.com/2017/04/id-pay-500000-year-cant-work/)
 - [_Liars_ by Glenn Beck](https://www.amazon.com/Liars-Progressives-Exploit-Fears-Control/dp/1476798885)
 
 Cory
@@ -93,7 +93,4 @@ David
 - [_React, Inline Functions, and Performance_ by Ryan Florence](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
 - [_Build Better Products_ by Laura Klein](https://www.amazon.com/Build-Better-Products-Successful-User-Centered/dp/1933820586)
 
-
 ### Transcript
-
-

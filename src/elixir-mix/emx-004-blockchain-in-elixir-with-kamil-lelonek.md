@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 004: Blockchain in Elixir with Kamil Lelonek
+  EMx 004: Blockchain in Elixir with Kamil Lelonek
 date: 2018-05-22 11:24:12
 episode_number: 004
 duration: 45:01
 audio_url: https://media.devchat.tv/elixir-mix/EMx_004_Blockchain_in_Elixir_with_Kamil_Lelonek.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Mark Erikson
 - Eric Berry
@@ -83,7 +83,4 @@ Kamil
 
 - [_Nonviolent Communication_ by Dr. Marshall B. Rosenberg](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034)
 
-
 ### Transcript
-
-

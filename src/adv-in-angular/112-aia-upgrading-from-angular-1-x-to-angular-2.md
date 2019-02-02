@@ -1,23 +1,26 @@
 ---
 layout: layouts/post.njk
 title: >
-      112 AiA Upgrading from Angular 1.x to Angular 2
+  112 AiA Upgrading from Angular 1.x to Angular 2
 date: 2016-09-29 06:00:24
 episode_number: 112
 duration: 58:14
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA112_Upgrading_from_Angular_1.x_to_Angular_2.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 2:20 - Should everybody update to Angular 2?3:50 - Defining migration
+
 - NGUpgrade
-6:30 - Is migration worth it?12:30 - Schedule for rewriting large and small apps17:10 - Business versus Technology: Rewriting apps19:00 - Process for migrating from Angular 1 to Angular 230:00 - Migrating routers40:00 - Module loading40:30 - Role of testing in a migration
+  6:30 - Is migration worth it?12:30 - Schedule for rewriting large and small apps17:10 - Business versus Technology: Rewriting apps19:00 - Process for migrating from Angular 1 to Angular 230:00 - Migrating routers40:00 - Module loading40:30 - Role of testing in a migration
 - [Joe Eames’ Pluralsight Course](https://www.pluralsight.com/courses/migrating-applications-angular-2)
-45:05 - Transferring Angular 1 code to Angular 2
+  45:05 - Transferring Angular 1 code to Angular 2
+
 ### Picks:
+
 [_Eat The World_](https://www.amazon.com/Eat-World-Emeril-Lagasse-Season/dp/B01HFR71RA) show on Amazon Prime (Lukas)[Pluralsight course on migrating from Angular 1 to Angular 2](https://www.pluralsight.com/courses/migrating-applications-angular-2) (Joe)[_The Last Starfighter_](http://www.imdb.com/title/tt0087597/) (Joe)[_Shannara_](http://terrybrooks.net/books/reading-orders/) series by Terry Brooks (Charles)[Webinar Jam Studio](https://webinarjam.com/) (Charles)[Five Mistakes That Are Keeping You From Getting Hired](https://devchat.tv/webinar-5-mistakes-that-are-keeping-you-from-getting-hired) Webinar (Charles)[Angular Remote Conf Archives](https://devchat.tv/angular-remote-conf-2016) (Charles)[Angular 2 Workshop](http://ftlauderdale.ng-learn.com/) (Joe)
 
 ### Transcript

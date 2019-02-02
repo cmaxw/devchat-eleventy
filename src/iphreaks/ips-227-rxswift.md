@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 227: RxSwift
+  iPS 227: RxSwift
 date: 2018-01-18 04:00:23
 episode_number: 227
 duration: 1:06:20
 audio_url: https://media.devchat.tv/iphreaks/iPS_227_RxSwift.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:** Eric Sadun Gui Rambo Andrew Madsen **Special Guest:** [**Junior Bontognali**](https://twitter.com/bontoJR) **,** [**Marin Todorov**](https://twitter.com/icanzilb) **,** [**Scott Garner**](https://twitter.com/scotteg) **, and** [**Florent Pillet**](https://twitter.com/fpillet)In today's episode, the iPheaks panel discuss RxSwift with the four authors of the book [RxSwift Reactive Programming with Swift](https://www.raywenderlich.com/158026/introducing-rxswift-reactive-programming-swift). The co-authors are [Junior Bontognali](https://twitter.com/bontoJR), [Marin Todorov](https://twitter.com/icanzilb), [Scott Garner](https://twitter.com/scotteg), and [Florent Pillet](https://twitter.com/fpillet). The four authors are developers in their own respective jobs and companies who&nbsp;are experts in Swift and iOS platform. The discussion covers the specifics of&nbsp; RxSwift and Reactive Programming. **In particular, we dive pretty deep on:**
+**Panel:** Eric Sadun Gui Rambo Andrew Madsen **Special Guest:** [**Junior Bontognali**](https://twitter.com/bontoJR) **,** [**Marin Todorov**](https://twitter.com/icanzilb) **,** [**Scott Garner**](https://twitter.com/scotteg) **, and** [**Florent Pillet**](https://twitter.com/fpillet)In today's episode, the iPheaks panel discuss RxSwift with the four authors of the book [RxSwift Reactive Programming with Swift](https://www.raywenderlich.com/158026/introducing-rxswift-reactive-programming-swift). The co-authors are [Junior Bontognali](https://twitter.com/bontoJR), [Marin Todorov](https://twitter.com/icanzilb), [Scott Garner](https://twitter.com/scotteg), and [Florent Pillet](https://twitter.com/fpillet). The four authors are developers in their own respective jobs and companies who&nbsp;are experts in Swift and iOS platform. The discussion covers the specifics of&nbsp; RxSwift and Reactive Programming. **In particular, we dive pretty deep on:**
+
 - What is RX Swift?
 - Web applications
 - Asynchronous code
@@ -34,34 +35,31 @@ tags:
 - What are the first step to learning RxSwift? What do you want to accomplish?
 - [RxSwift Slack Group](https://rxswift-slack.herokuapp.com)
 - and much more!
-**LINKS:**
+  **LINKS:**
 - [Junior Bontognali](https://twitter.com/bontoJR)
 - [Marin Todorov](https://twitter.com/icanzilb)
 - [Scott Garner](https://twitter.com/scotteg)
 - [Florent Pillet](https://twitter.com/fpillet)
 - [RxSwift Reactive Programming with Swift](https://www.raywenderlich.com/158026/introducing-rxswift-reactive-programming-swift)
 - [RxSwift Slack Group](https://rxswift-slack.herokuapp.com)
-**Picks:** Gui
+  **Picks:** Gui
 - External Build Systems in Xcode
-Erica
+  Erica
 - [RxSwift book](https://store.raywenderlich.com/products/rxswift)
 - [The Vector Podcast](https://overcast.fm/+K8lhSWphE)
-Andrew
+  Andrew
 - [Classic Computing Podcast](http://www.classiccomputing.com/CCPodcasts/CC_Show/CC_Show.html)
 - [Swift Coding Challenges Book](http://snippette.com)
-Junior
+  Junior
 - AppBuilders Conference
-Marin
+  Marin
 - [Snippette](http://snippette.com)
 - [Sourcery&nbsp;](https://github.com/krzysztofzablocki/Sourcery)
-Florent
+  Florent
 - [Vert.x Reactive JVM Server Framework](http://vertx.io)
-Scott
+  Scott
 - [Paintcode](https://www.paintcodeapp.com)
 - [RxFlow&nbsp;](https://github.com/RxSwiftCommunity/RxFlow)
 - [Realm](https://realm.io)
 
-
 ### Transcript
-
-

@@ -1,48 +1,53 @@
 ---
 layout: layouts/post.njk
 title: >
-      172 iPS Kotlin vs Swift with Andrew Rahn
+  172 iPS Kotlin vs Swift with Andrew Rahn
 date: 2016-09-29 06:00:19
 episode_number: 172
 duration: 46:39
 audio_url: https://media.devchat.tv/iphreaks/iPS172_Kotlin_vs_Swift_with_Andrew_Rahn.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 1:10: Introduction: Andy Rahn
+
 - Works for [Iconfactory](https://iconfactory.com/)
 - [Swift](http://www.apple.com/swift/)
 - [Lua](https://www.lua.org/)
 - [Kotlin](https://kotlinlang.org/)
-6:20: Kotlin: What it is, who is responsible
+  6:20: Kotlin: What it is, who is responsible
 - New language by JetBrains
 - Similar to Swift but for Android
-10:50: Future of Kotlin
+  10:50: Future of Kotlin
 - Google looking at Kotlin?
 - Running on the [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine)
-15:45: Benefits of Kotlin: Familiarity
+  15:45: Benefits of Kotlin: Familiarity
 - Feels familiar; same syntax as Swift
 - Shares similar disadvantages
-19:20: Interacting with Java API
+  19:20: Interacting with Java API
 - Nullability
 - Bridging
-23:20: Kotlin vs. Xcode
+  23:20: Kotlin vs. Xcode
 - Kotlin has many more features
 
 - Debugger in Android Studio difficult to use
-25:20: Unit testing in Kotlin26:10: Kotlin is stable
+  25:20: Unit testing in Kotlin26:10: Kotlin is stable
 - Swift is moving more quickly
-29:40: Swift vs Kotlin: Advanced features
+  29:40: Swift vs Kotlin: Advanced features
 - Generics
 - Compile time analysis
 - Reactive extensions
-37:25: How many are using Kotlin?
+  37:25: How many are using Kotlin?
+
 ### Picks:
+
 [Skillshop.me](https://skillshop.me/) (Andrew)[Dylan and Dustin Bruzenak episode](https://devchat.tv/iphreaks/110-ips-design-and-the-business-of-apps-with-dustin-and-dylan-bruzenak-of-iconfactory) (Andrew)[Freelance Remote Conference](https://devchat.tv/conferences) (Charles)[Webinars](http://devchat.tv/webinars)(Charles)[The Sword of Shannara](https://www.amazon.com/dp/B000FBFOE6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)Reactive extensions (Andy)[Cocoaheads](http://www.cocoaheadsmn.org/)(Andy)[Smile Train](https://secure.smiletrain.org/site/SPageNavigator/donate_now.html) Charity (Daniel)iOS 10 Messages apps and stickers (Andy)
+
 ### Links:
+
 [Hire.com](http://hire.com/iphreaks)[Andy on Twitter](https://twitter.com/paddlefish)
 
 ### Transcript

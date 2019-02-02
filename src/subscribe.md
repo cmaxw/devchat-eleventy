@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Subscribe
+  Subscribe
 date: 2018-11-21 02:03:37
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: page
-tags: 
+tags:
   - page
 ---
 
@@ -32,4 +32,3 @@ tags:
 - React Round Up:&nbsp;[iTunes](https://itunes.apple.com/us/podcast/react-round-up/id1364741140?mt=2) | [Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https%3A%2F%2Fplay.google.com%2Fmusic%2Fm%2FIb2mmcjdi25ctqurvp4somic2ya) | [RSS](https://feeds.feedwrench.com/react-round-up.rss)
 - Views on Vue:&nbsp;[iTunes](https://itunes.apple.com/us/podcast/react-native-radio/id1058647602?mt=2) | [Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https%3A%2F%2Fplay.google.com%2Fmusic%2Fm%2FI7wrdqu6537bg4la5gkmkg72gj4) | [RSS](https://feeds.feedwrench.com/views-on-vue.rss)
 - Elixir Mix:&nbsp;[iTunes](https://itunes.apple.com/us/podcast/react-round-up/id1364741140?mt=2) | [Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Ibm5cfu6fr6okd2ugzgyt4adpq4?t%3DElixir_Mix%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16) | [RSS](https://feeds.feedwrench.com/elixirmix.rss)
-

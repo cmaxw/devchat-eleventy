@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 306: The Framework Summit with Joe Eames
+  JSJ 306: The Framework Summit with Joe Eames
 date: 2018-03-27 10:00:11
 episode_number: 306
 duration: 48:03
 audio_url: https://media.devchat.tv/js-jabber/JSJ_306_The_Framework_Summit_with_Joe_Eames.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Cory House
@@ -44,7 +44,7 @@ In this episode, the JavaScript Jabber panelists talk about the [Framework Summi
 - [_Why Good People Are Divided by Politics and Religion_ by Jonathan Haidt](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777)
 - Some people will never look beyond their frameworks
 - If it’s working, why would you mess with it?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -86,7 +86,4 @@ AJ
 - Dinosaurs
 - [Cough Syrup by Young the Giant](https://www.youtube.com/watch?v=UAsTlnjvetI)
 
-
 ### Transcript
-
-

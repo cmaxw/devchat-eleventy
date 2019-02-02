@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 194: Cloud-Hosted DevOps with Ori Zohar and Gopinath Chigakkagari LIVE at Microsoft Build
+  AiA 194: Cloud-Hosted DevOps with Ori Zohar and Gopinath Chigakkagari LIVE at Microsoft Build
 date: 2018-06-18 10:00:51
 episode_number: 194
 duration: 56:50
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_194_Cloud-Hosted_DevOps_with_Ori_Zohar_and_Gopinath_Chigakkagari_LIVE_at_Microsoft_Build.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Charles Max Wood
 
@@ -42,7 +42,7 @@ In this episode, the Adventures in Angular panelists discuss Cloud-Hosted DevOps
 - Trends on what customers are asking for
 - Safety
 - Docker containers
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -77,7 +77,4 @@ Gopinath
 
 - Seattle, WA
 
-
 ### Transcript
-
-

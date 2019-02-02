@@ -1,44 +1,46 @@
 ---
 layout: layouts/post.njk
 title: >
-      212 FS Finding Fulfillment with Jason Mundok
+  212 FS Finding Fulfillment with Jason Mundok
 date: 2016-07-28 07:00:03
 episode_number: 212
 duration: 59:12
 audio_url: https://media.devchat.tv/freelancers/FS212FindingFullfillment.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 01:44 - Jason Mundok Introduction
+
 - [Twitter](https://twitter.com/jason_mundok)
 - [Blog](http://www.jasonmundok.com/)
 - [Elusive Moose](http://www.elusivemoose.com)
 - [Find Your Moose Conference](http://www.findyourmoose.com)
-03:47 - Enjoying Work; Finding Passion and Fulfillment 
+  03:47 - Enjoying Work; Finding Passion and Fulfillment
 - Three Dimensions:
 
 1. What it is that you are supposed to be doing? (that actual stuff that you're passionate about)
 2. Where you do it (in which industries you need to work)
 3. How you do it (your work culture)
-11:03 - Finding Your “Why”
+   11:03 - Finding Your “Why”
+
 - [The Freelancers' Show Episode #202: Live from MicroConf: Managing a Team with Anders Thue Pedersen](https://devchat.tv/freelancers/202-fs-live-from-microconf-managing-a-team-with-anders-thue-pedersen)
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
 - [Joshua Fields Millburn: 'Follow Your Passion' is Crappy Advice](http://www.theminimalists.com/cal/) (Minimalist Article)
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124) &nbsp;
-17:42 - Advising People in Consulting 
+  17:42 - Advising People in Consulting
 - Implementing Processes
 - Confidence and Conflict
   - [The Elusive Moose Podcast Episode 9: Resolving Conflict](https://elusivemoose.com/2016/03/episode-9-resolving-conflict/)
 - Personality Types and Finding the Right Fit
-24:52 - Self-defeating Patterns; Making Changes33:35 - Company Culture42:29 - Passion
+  24:52 - Self-defeating Patterns; Making Changes33:35 - Company Culture42:29 - Passion
 - [Ruby Rogues Episode #268: Mazes For Programmers with Jamis Buck](https://devchat.tv/ruby-rogues/268-rr-mazes-for-programmers-with-jamis-buck)
-&nbsp;More from Jason 
+  &nbsp;More from Jason
 - [Jason Mundok: What Do You Mean By “Enjoy”?](https://elusivemoose.com/2016/04/what-do-you-mean-by-enjoy/)
 - [The Elusive Moose Podcast Episode 13: Enjoy Your Work!](https://elusivemoose.com/2016/04/episode-13-enjoy-work/)
-&nbsp;Picks
+  &nbsp;Picks
 - [EngineerWorth](http://engineerworth.com/) (Philip)
 - Unplugging from technology (Chuck)
 - Hosting a retreat (Chuck)
@@ -46,10 +48,9 @@ tags:
 - [The Minimalists Blog](http://www.theminimalists.com) (Jason)
 - [Jeff Walker’s Product Launch Formula](http://jeffwalker.com/) (Jason)
 
-
 ### Transcript
 
- **CHUCK:** Well, let’s go ahead and get this show on the road.
+**CHUCK:** Well, let’s go ahead and get this show on the road.
 
 **_[This episode is sponsored by Hired.com. Hired.com is offering a new freelancing and contracting offering. They have multiple companies that will provide you with contract opportunities. They cover all the tracking, reporting and billing for you, they handle all the collections and prefund your paycheck, they offer legal and accounting and tax support, and they’ll give you $1,000 when you’ve been on a contract for 90 days. But with this link, they’ll double it to $2,000 instead. Go sign up at Hired.com/freelancersshow.]_**
 
@@ -358,5 +359,3 @@ And most importantly right now, if you're in and around the Chicago – or even 
 **CHUCK:** Alright. We’ll catch everyone next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

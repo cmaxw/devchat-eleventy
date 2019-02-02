@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 043: Noah Gibbs
+  MRS 043: Noah Gibbs
 date: 2018-05-09 10:00:28
 episode_number: 043
 duration: 36:36
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_043_Noah_Gibbs.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Noah Gibbs
 
@@ -72,7 +72,4 @@ Noah
 - [Parslet](http://kschiess.github.io/parslet/)
 - [Fondant Potatoes](https://www.youtube.com/watch?v=XOatJPocjDo)
 
-
 ### Transcript
-
-

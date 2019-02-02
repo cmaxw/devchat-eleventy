@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 010: Best Practices with React and Redux with Samuel Mendenhall
+  RRU 010: Best Practices with React and Redux with Samuel Mendenhall
 date: 2018-05-08 10:00:12
 episode_number: 010
 duration: 51:15
 audio_url: https://media.devchat.tv/reactroundup/RRU_010_Best%20Practices_with_React_and_Redux_with_Samuel_Mendenhall.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Cory House
 - Nader Dabit
@@ -39,7 +39,7 @@ In this episode of React Round Up, the panel discusses best practices with React
 - He’s an advocate for using [TypeScript](https://www.typescriptlang.org/)
 - The pros of using TypeScript
 - Connect in React
-- Connect will do shallow comparisons 
+- Connect will do shallow comparisons
 - [Redux](https://redux.js.org/)
 - When you shouldn’t use Redux
 - When should Redux be used in a project?
@@ -77,7 +77,4 @@ Sam
 
 - [Webpack](https://webpack.js.org/)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 040: Mindaugas Mozūras
+  MRS 040: Mindaugas Mozūras
 date: 2018-04-18 10:00:35
 episode_number: 040
 duration: 41:16
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_040_Mindaugas_Mozuras.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Mindaugas Mozūras
 
@@ -36,7 +36,7 @@ This week on My Ruby Story, Charles talks to Mindaugas Mozūras. Mindaugas is fr
 - Ruby looked to be where all the fun things were happening
 - [Nancy](https://github.com/NancyFx/Nancy) open source project
 - What was it about Ruby that inspired you?
-- Loved Ruby’s succinctness 
+- Loved Ruby’s succinctness
 - How he got his first Ruby job
 - What are you proud of doing in the Ruby community?
 - What are you doing now?
@@ -67,7 +67,4 @@ Mindaugas
 - [_The Food Lab_ by J. Kenji López-Alt](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087)
 - [_The Effective Engineer_ by Edmond Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 
-
 ### Transcript
-
-

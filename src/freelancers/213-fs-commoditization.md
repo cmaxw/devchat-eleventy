@@ -1,25 +1,26 @@
 ---
 layout: layouts/post.njk
 title: >
-      213 FS Commoditization
+  213 FS Commoditization
 date: 2016-08-04 07:00:21
 episode_number: 213
 duration: 01:04:09
 audio_url: https://media.devchat.tv/freelancers/FS213Commoditized.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 01:45 - Gary Herman Introduction
+
 - [Twitter](https://twitter.com/garyjherman)
 - [Jabico Enterprises](http://www.jabico.com/)
-01:49 - Commoditization10:14 - The Changing Landscape of Software Development
+  01:49 - Commoditization10:14 - The Changing Landscape of Software Development
 - Craftsman/Architect vs Entrepreneur
-17:48 - Perception of Value23:55 - Utilizing Offshore Teams vs Onshore Teams31:09 - Specialization34:47 - Roadmapping and Building Trust with Clients
+  17:48 - Perception of Value23:55 - Utilizing Offshore Teams vs Onshore Teams31:09 - Specialization34:47 - Roadmapping and Building Trust with Clients
 - [The Freelancers' Show Episode #201: Roadmapping with Brennan Dunn](https://devchat.tv/freelancers/201-fs-roadmapping-with-brennan-dunn)
-43:55 - Giving Away Advice; Creating/Maintaining Open Source Projects Projects Expertise48:41 - The American Freelancer and Software Development; Are there limitations?54:17 - Helping Clients Find the Right Team&nbsp;Picks
+  43:55 - Giving Away Advice; Creating/Maintaining Open Source Projects Projects Expertise48:41 - The American Freelancer and Software Development; Are there limitations?54:17 - Helping Clients Find the Right Team&nbsp;Picks
 - [Why DYFConf Europe Was The Best Thing Ever (And You Should Have Been There)](https://doubleyourfreelancing.com/dyfconf-europe-recap/) (Reuven)
 - [FlightAware](https://flightaware.com/) (Reuven)
 - [The Icarus Deception: How High Will You Fly? by Seth Godin](https://www.amazon.com/Icarus-Deception-How-High-Will-ebook/dp/B0090UOLEW) (Jonathan)
@@ -34,7 +35,6 @@ tags:
 - [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en) (Gary)
 - [I am Rebel](http://www.imdb.com/title/tt5793034/) (Gary)
 - [The Founder Institute](http://fi.co/) (Gary)
-
 
 ### Transcript
 
@@ -64,7 +64,7 @@ We also have a special guest this week, and that’s Gary Herman.
 
 **REUVEN:** That’s why he’s on. [Chuckles]
 
-**CHUCK:** So yeah, I've ran into this a little bit where I had specialized on Ruby on Rails for a while, and yeah, somebody would go take a Ruby on Rails course online and then I’d be bidding 150 bucks an hour or I would be giving them a straight up value-based bid or a direct bid on their work, and somebody would come in and say “oh, I can write a Ruby script in 5 minutes for $3”, and – that or I would have clients come to me and basically say “so why should I hire you?” after we had gone through the whole process of going through what they needed and figuring out what it would take, they go “why should I pay you when I can pay somebody just like you one-tenth of what I paid you or what I would pay you if I hire them out at India?”
+**CHUCK:** So yeah, I've ran into this a little bit where I had specialized on Ruby on Rails for a while, and yeah, somebody would go take a Ruby on Rails course online and then I’d be bidding 150 bucks an hour or I would be giving them a straight up value-based bid or a direct bid on their work, and somebody would come in and say “oh, I can write a Ruby script in 5 minutes for \$3”, and – that or I would have clients come to me and basically say “so why should I hire you?” after we had gone through the whole process of going through what they needed and figuring out what it would take, they go “why should I pay you when I can pay somebody just like you one-tenth of what I paid you or what I would pay you if I hire them out at India?”
 
 Is that what you're looking here or –?
 
@@ -439,5 +439,3 @@ And my third pick is – I attended an incubation program a few years ago called
 **GARY:** Thanks.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

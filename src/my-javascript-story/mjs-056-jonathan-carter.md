@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 056: Jonathan Carter
+  MJS 056: Jonathan Carter
 date: 2018-04-11 10:00:17
 episode_number: 056
 duration: 41:30
 audio_url: https://media.devchat.tv/my-js-story/MJS_056_Jonathan_Carter.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Jonathan Carter
 
@@ -73,7 +73,4 @@ Jonathan
 - [Notion](https://www.notion.so/)
 - [Doomsday by Architects](https://itunes.apple.com/us/album/doomsday-single/1277060408)
 
-
 ### Transcript
-
-

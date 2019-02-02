@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 035: Real-time Application State Synchronization with Peter Mbanugo
+  VoV 035: Real-time Application State Synchronization with Peter Mbanugo
 date: 2018-10-30 10:00:18
 episode_number: 035
 duration: 37:51
 audio_url: https://media.devchat.tv/viewsonvue/VoV_035_Real-time_Application_State_Synchronization_with_Peter_Mbanugo.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Joe Eames
 - John Papa
@@ -180,7 +180,7 @@ In this episode, the panel talks with Peter Mbanugo who is a software developer,
 - [HospitalRun.io](http://hospitalrun.io)
 - [What are the best tools for automating social media growth?](https://www.producthunt.com)
 - [Peter Mbanugo’s Twitter](https://twitter.com/p_mbanugo)
-- Peter Mbanugo’s Email: p.mbanugo@yahoo.com 
+- Peter Mbanugo’s Email: p.mbanugo@yahoo.com
 - [Peter’s blogs](https://www.telerik.com/blogs/author/peter-mbanugo)
 - [Vue Mastery](https://www.vuemastery.com/conferences/vueconf-2018/)
 - [Hoodie](http://hood.ie)
@@ -200,11 +200,11 @@ Joe
 
 - Dungeon and Dragons recordings coming soon on YouTube
 - Blog - [Good Bye Redux](https://hackernoon.com/goodbye-redux-26e6a27b3a0b)
-- 
+-
 
 John
 
-- Talk like a pirate day 
+- Talk like a pirate day
 - [I Can Use](https://caniuse.com/%23search=websocket)
 - [Product Hunt](https://www.producthunt.com/)
 - [Vue Mastery](https://www.vuemastery.com/conferences/vueconf-2018/)
@@ -220,7 +220,4 @@ Eric
 - [Halt and Catch fire](https://www.imdb.com/title/tt2543312/)
 - [Vue.JS in Action](https://www.amazon.com/Vue-js-Action-Eric-Hanchett/dp/1617294624)
 
-
 ### Transcript
-
-

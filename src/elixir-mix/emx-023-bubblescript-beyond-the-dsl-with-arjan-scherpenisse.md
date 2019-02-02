@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 023: “Bubblescript – Beyond the DSL” with Arjan Scherpenisse
+  EMx 023: “Bubblescript – Beyond the DSL” with Arjan Scherpenisse
 date: 2018-10-16 10:00:45
 episode_number: 023
 duration: 47:34
 audio_url: https://media.devchat.tv/elixir-mix/EMx_023_Bubblescript-Beyond_the_DSL_with_Arjan_Scherpenisse.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Mark Ericksen](https://github.com/brainlid)
 - Eric Berry
-**Special Guest:** [Arjan Scherpenisse](https://www.linkedin.com/in/scherpenisse)
+  **Special Guest:** [Arjan Scherpenisse](https://www.linkedin.com/in/scherpenisse)
 
 In this episode of Elixir Mix, the panel talks with [Arjan Scherpenisse](https://www.linkedin.com/in/scherpenisse) who is the technical co-founder at [BotSquad.](https://www.botsquad.com) Arjan lives in the Amsterdam area of the Netherlands. Also, he is currently working with Miracle Things. Check out today’s episode where the panel and Arjan talk about his [article](https://www.botsquad.com/2018/04/14/beyond-the-dsl/) and his latest projects.
 
@@ -128,7 +128,7 @@ We start teaching them at the beginning of the boot camp: recursion and better m
 
 31:56 – Arjan: I didn’t know that was HIS analogy.
 
-32:10 – Panelist talks about the [creator of Erlang.](https://en.wikipedia.org/wiki/Joe_Armstrong_(programmer))
+32:10 – Panelist talks about the [creator of Erlang.](<https://en.wikipedia.org/wiki/Joe_Armstrong_(programmer)>)
 
 33:01 – Arjan: Yes the elevator example is for...
 
@@ -192,14 +192,11 @@ Eric
 
 Mark
 
-- To Be List 
+- To Be List
 
 Arjan
 
-- Experimenting 
+- Experimenting
 - Elixir Parser
 
-
 ### Transcript
-
-

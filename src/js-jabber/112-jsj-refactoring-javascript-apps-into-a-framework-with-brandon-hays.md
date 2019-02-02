@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      112 JSJ Refactoring JavaScript Apps Into a Framework with Brandon Hays
+  112 JSJ Refactoring JavaScript Apps Into a Framework with Brandon Hays
 date: 2014-06-11 13:00:00
 episode_number: 112
 duration: 47:25
 audio_url: http://media.devchat.tv/js-jabber/JSJ112RefactoringJQuerytoEmber.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
@@ -22,48 +22,50 @@ tags:
 - Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
 
 ### Discussion
+
 01:46 - Brandon Hays Introduction
+
 - [The Frontside](http://frontside.io/)
-02:37 - Mario Kart 8
+  02:37 - Mario Kart 8
 - [Luigi Ridin' Dirty - Death Stare in Mario Kart 8](https://www.youtube.com/watch?feature=player_embedded&v=PpxDuNFBVj8) - (video of the image above, but with a sick beat)
 - [Live Action Luigi](http://i.minus.com/iWBcrxrRHgdN0.gif)
-04:18 - [Angular](https://angularjs.org/) vs. [Ember](http://emberjs.com/)
+  04:18 - [Angular](https://angularjs.org/) vs. [Ember](http://emberjs.com/)
 - Building Apps/Dropping Apps In
 - Tutorials
 - Compatibility
-06:56 - Applications
+  06:56 - Applications
 - Single Page vs. Javascript
-09:26 - Frameworks vs. No Frameworks 11:29 - Refactoring
-- [Talk] [Brandon Hays: Bring Fun Back to JS: Step-by-Step Refactoring Toward Ember](http://www.confreaks.com/videos/3379-railsconf-bring-fun-back-to-js-step-by-step-refactoring-toward-ember)
-- [Slides] [Brandon Hays: Bring Fun Back to JS: Refactoring Toward Ember](https://speakerdeck.com/tehviking/bring-fun-back-to-js-refactoring-toward-ember)
-13:49 - Spaghetti Code
+  09:26 - Frameworks vs. No Frameworks 11:29 - Refactoring
+- [Talk][brandon hays: bring fun back to js: step-by-step refactoring toward ember](http://www.confreaks.com/videos/3379-railsconf-bring-fun-back-to-js-step-by-step-refactoring-toward-ember)
+- [Slides][brandon hays: bring fun back to js: refactoring toward ember](https://speakerdeck.com/tehviking/bring-fun-back-to-js-refactoring-toward-ember)
+  13:49 - Spaghetti Code
 - [Ember Data Model](http://emberjs.com/guides/models/)
-- [Talk] [Blog Entry on Ember at the Rails Conference](http://reefpoints.dockyard.com/2014/03/17/emberconf-picks-ups-where-the-rails-community-left-off.html)
+- [Talk][blog entry on ember at the rails conference](http://reefpoints.dockyard.com/2014/03/17/emberconf-picks-ups-where-the-rails-community-left-off.html)
 - [Ember User Group - Austin, TX](http://www.meetup.com/Ember-ATX/)
-16:39 - New Ember Data vs. [AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29)
+  16:39 - New Ember Data vs. [AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29)
 - Identifying Models
 - Extracting Models
 - Pull States Out
 - Patterns
-22:34 - [router.js](https://github.com/tildeio/router.js/) 23:23 - [Backbone.js](http://backbonejs.org/)
+  22:34 - [router.js](https://github.com/tildeio/router.js/) 23:23 - [Backbone.js](http://backbonejs.org/)
 - Other Frameworks
 - Refactoring
 - [Knockout.js](http://knockoutjs.com/)
-26:34 - [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
+  26:34 - [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 - Testing vs. Not Testing
 - Pattern Recognition
 - [Pragmatic Thinking and Learning by Andy Hunt](http://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356050&linkCode=as2&tag=chamaxwoo-20&linkId=FWWGELFR7YB6T4HH)
 - [Stanford Online: Math vs. Mathematics](http://math.stanford.edu/index.html)
-30:40 - Adapting To Your Own Path for Coding
+  30:40 - Adapting To Your Own Path for Coding
 - [Katrina Owen: Therapeutic Refactoring](http://www.confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
-31:22 - [Open Source](http://en.wikipedia.org/wiki/Open_source) 32:01 - Refactoring in Other Frameworks
+  31:22 - [Open Source](http://en.wikipedia.org/wiki/Open_source) 32:01 - Refactoring in Other Frameworks
 - Applying Patterns
 - Extracting
 - Finding States
 - Transclusion
 - Collaboration
 - Using JS vs. CSS
-35:06 - [Durandal](http://durandaljs.com/) & [React](http://facebook.github.io/react/) 37:00 - Frameworks
+  35:06 - [Durandal](http://durandaljs.com/) & [React](http://facebook.github.io/react/) 37:00 - Frameworks
 - [Joe Gregorio: No more JS frameworks](http://bitworking.org/news/2014/05/zero_framework_manifesto)
 - Abstraction
 - [Ryan Florence: You Can't Not Have a Framework](http://blog.ryanflorence.com/you-cant-not-have-a-framework.html)
@@ -95,8 +97,7 @@ tags:
 - [The Legend of Zelda: A Link Between Worlds](http://www.amazon.com/gp/product/B00GANWVJE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GANWVJE&linkCode=as2&tag=chamaxwoo-20&linkId=ESREVL4NOHE2IWVM) (Brandon)
 
 ### Next Week
+
 Community Dynamics with Reg Braithwaite
 
 ### Transcript
-
-

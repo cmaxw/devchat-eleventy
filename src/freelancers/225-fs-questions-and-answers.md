@@ -1,45 +1,45 @@
 ---
 layout: layouts/post.njk
 title: >
-      225 FS Questions and Answers
+  225 FS Questions and Answers
 date: 2016-10-27 06:00:50
 episode_number: 225
 duration: 49:05
 audio_url: https://media.devchat.tv/freelancers/FS225_Questions_and_Answers.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 1:00: How do I get good freelance gigs online?
+
 - Solve a problem or find a better platform
 - Get a more positive mindset
 - Ask insightful questions
 - Look for hidden opportunities
-10:30: Customer discovery and roadmapping
+  10:30: Customer discovery and roadmapping
 - [Brennan Dunn course on roadmapping](https://doubleyourfreelancing.com/roadmapping/)
 - Jonathan Stark: Why questions
-11:50: Cold outreach
+  11:50: Cold outreach
 - “Are you the right person to talk to?”
 - Look them up (LinkedIn, Google, GitHub)
 - Come in with prior knowledge
 - Know personal info
 - [Selling To Big Companies by Jill Konrath](https://www.amazon.com/dp/B008BMNJEI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-24:15: Accepting profit-share as a retainer
+  24:15: Accepting profit-share as a retainer
 - You’re becoming an investor
 - Blended cash compensation
-31:30: Updates
+  31:30: Updates
 - [PositioningCrashCourse.com](https://philipmorganconsulting.com/positioning-crash-course/)
 - [Paul Jarvis](https://pjrvs.com/)
 - [Rails Remote Conf](https://allremoteconfs.com/rails-2016)
 - [How to Hire a Part-Time Employee](https://doubleyouraudience.com/hire-part-time-employee/)
 - [Entreprogrammers.com](http://entreprogrammers.com/)
-Picks:
+  Picks:
 - [Selling To Big Companies by Jill Konrath](https://www.amazon.com/dp/B008BMNJEI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [How to Hire a Part-Time Employee](https://doubleyouraudience.com/hire-part-time-employee/)
 - [The 12-Week Year](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234)
-
 
 ### Transcript
 

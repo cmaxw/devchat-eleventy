@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 040: Victor Savkin
+  MAS 040: Victor Savkin
 date: 2018-06-13 10:00:09
 episode_number: 040
 duration: 45:08
 audio_url: https://media.devchat.tv/my-angular-story/MAS_040_Victor_%20Savkin.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Victor Savkin
 
@@ -41,17 +41,17 @@ This week on My Angular Story, Charles speaks with Victor Savkin about his busin
   - Look at the tools we have today.
   - [Trello](https://trello.com/home)
 - How did you get into Angular 14?
-  - [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))
+  - [Dart](<https://en.wikipedia.org/wiki/Dart_(programming_language)>)
 - What contributions do you feel that you have made on the Angular team?
   - Angular Dart
 - In writing Angular apps, Charles is curious, how is it different writing the framework vs. an app within the framework?
 - What made you and Jeff leave Google and go start [Narwhal Technologies](https://nrwl.io) (nrwl.io)?
-  - I felt like I could provide more value. 
+  - I felt like I could provide more value.
 - What things have[Narwhal](https://nrwl.io) been contributing to the community?
 - What are you working on now?
   - [NX](https://www.plm.automation.siemens.com/global/en/products/nx/)
 - Personal life
-  - Wedding in August and buying a home for Victor. 
+  - Wedding in August and buying a home for Victor.
 
 **Links:**
 
@@ -62,7 +62,7 @@ This week on My Angular Story, Charles speaks with Victor Savkin about his busin
 - [JavaScript](https://www.javascript.com)
 - [Ember](https://www.emberjs.com)
 - [Trello](https://trello.com/home)
-- [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))
+- [Dart](<https://en.wikipedia.org/wiki/Dart_(programming_language)>)
 - [Narwhal Technologies](https://nrwl.io)
 - [NX](https://www.plm.automation.siemens.com/global/en/products/nx/)
 - [Rails](https://rubyonrails.org)
@@ -100,7 +100,4 @@ This week on My Angular Story, Charles speaks with Victor Savkin about his busin
 - [Logitech Wireless Trackball](https://www.amazon.com/Logitech-910-001799-Wireless-Trackball-M570/dp/B0043T7FXE/ref=sr_1_3?ie=UTF8&qid=1528318068&sr=8-3&keywords=logitech+wireless+trackball)
 - [Vertical Mouse](https://evoluent.com/products/vm4r/)
 
-
 ### Transcript
-
-

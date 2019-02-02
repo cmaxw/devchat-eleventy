@@ -1,52 +1,54 @@
 ---
 layout: layouts/post.njk
 title: >
-      224 FS Building an Agency with Drew McLellan
+  224 FS Building an Agency with Drew McLellan
 date: 2016-10-20 06:00:45
 episode_number: 224
 duration: 49:31
 audio_url: https://media.devchat.tv/freelancers/FS224_Building_An_Agency_With_Drew_McLellan.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 0:45: Introductions
+
 - [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)
 - Drew McLellan
 - [Agency Management Institute](http://agencymanagementinstitute.com/)
-2:40: Building an Agency
+  2:40: Building an Agency
 - Adding employees
 - Traditional vs 1099 model
-7:30: Where you’re spending your time
+  7:30: Where you’re spending your time
 - Running the business vs. doing your craft
 - Risks of agency vs. risks of freelancing
 - Mistakes agency-owners make
-11:00: Financial metrics
+  11:00: Financial metrics
 - 55% salaries, 25% overhead, 20% profit
 - Smart hiring
-18:40: Freelancing is a people business19:30: Agencies must embrace all things digital
+  18:40: Freelancing is a people business19:30: Agencies must embrace all things digital
 - SEO
 - SEM
 - WordPress
 - Art vs data and ROI
-23:15: The future of agencies
+  23:15: The future of agencies
 - Demonstrable ROI
 - Pricing and value
-27:00: Bringing on a partner
+  27:00: Bringing on a partner
 - Skill sets
 - Types of leadership
-33:40: Where to begin
+  33:40: Where to begin
 - Marketing
 - Time investment
-37:20: Having a vision: What is your best life?
+  37:20: Having a vision: What is your best life?
 - The Reporter
 
 - [The 12-Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - Being intentional
 
 ### Picks:
+
 [Drip](https://www.drip.co/)(Philip)Course on Drip (Philip)Having a vision for your business (Reuven)[Dev Shop Marketing Briefing](https://philipmorganconsulting.com/dev-shop-marketing-briefings/dsmb-email-marketing-mindset/) (Reuven)[12 Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)[A Conversation of Character](https://www.amazon.com/Zig-Ziglar-Conversation-Character-3DVDs/dp/1562077171) (Charles)[Who](https://www.amazon.com/dp/B001EL6RWY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)(Charles)[The Radical Leap](https://www.amazon.com/dp/B00PWKOBLC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Drew)[Traction](https://www.amazon.com/dp/B007QWLLV2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)(Drew)[Entrepreneurial Operating System](https://www.eosworldwide.com/) (Drew)[Wunderlist](https://www.wunderlist.com/)(Drew)[Agency Management Institute](http://agencymanagementinstitute.com/)
 
 ### Transcript

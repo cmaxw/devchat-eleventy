@@ -1,52 +1,56 @@
 ---
 layout: layouts/post.njk
 title: >
-      209 FS Proposals with Curtis McHale
+  209 FS Proposals with Curtis McHale
 date: 2016-07-07 07:00:07
 episode_number: 209
 duration: 42:44
 audio_url: https://media.devchat.tv/freelancers/FS209Proposals.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 01:41 - Curtis McHale Introduction
+
 - [Twitter](https://twitter.com/curtismchale)
 - [GitHub](https://github.com/curtismchale)
 - [Blog](http://curtismchale.ca)
 - [Write Proposals that Win Work](http://curtismchale.ca/products/write-proposals-that-win-work/)
-02:21 - Discovery Phase
+  02:21 - Discovery Phase
 - [The Freelancers’ Show #096: Value-Based Pricing with Brennan Dunn](https://devchat.tv/freelancers/the-freelancers-show-096-value-based-pricing-with-brennan-dunn)
-03:48 - Proposal Format
+  03:48 - Proposal Format
+
 1. Current Problem
 2. Objectives
 3. Gauging Success
 4. Options
 5. Timeline
 6. Accountabilities
-05:33 - Options (Cont’d)06:44 - Getting to the “Why”
+   05:33 - Options (Cont’d)06:44 - Getting to the “Why”
+
 - [The 5 Whys Method](https://en.wikipedia.org/wiki/5_Whys)
 - [Curtis' Effective Questioning Archives](http://curtismchale.ca/series/effective-questioning/)
-11:57 - Objectives (Cont’d)14:53 - Forming Options
+  11:57 - Objectives (Cont’d)14:53 - Forming Options
 - 9 Questions
 - Getting on the Phone
   - [Calendly](https://calendly.com/)
 - Pricing and Estimation
   - [Bidsketch](https://www.bidsketch.com/)
-26:22 - Common Mistakes29:06 - Subcontracting30:46 - Proposal Length
+    26:22 - Common Mistakes29:06 - Subcontracting30:46 - Proposal Length
 - [17hats](https://www.17hats.com/)
-31:33 - Paying Up Front33:01 - 9 Questions (Cont’d)34:04 - Measuring Success&nbsp;
+  31:33 - Paying Up Front33:01 - 9 Questions (Cont’d)34:04 - Measuring Success&nbsp;
+
 ## Giveaway
 
 **Tell us the best proposal you sent in the comments section and get a copy of Curtis’ book: [Write Proposals that Win Work](http://curtismchale.ca/products/write-proposals-that-win-work/)**
 
 &nbsp;Picks
+
 - [Superchondriac](https://www.amazon.com/gp/product/B0157HBGS0/) (Philip)
 - [Start With Why by Simon Sinek](https://www.startwithwhy.com/) (Chuck)
 - [Baron Fig](http://www.baronfig.com/) (Curtis)
-
 
 ### Transcript
 
@@ -254,7 +258,7 @@ Pricing is hard to say unless I actually talk like “how much are you charging 
 
 **CHUCK:** So when you're figuring out the price on some of these projects, then you just go by gut feel? “This is so complicated or so much work”, or do you – [crosstalk]
 
-**CURTIS:** Well, one of my questions is their budget too though. So if they come back and they say “our budget is a thousand dollars” and they want some big system, I say “well, it’s not going to work”. Then I don’t even get past that initial email. I’ll say “hey, that’s not going to work. Look at these options over here”. If they come to me and say “I've got 15 to $20,000; that’s what I've got”, then my first option might be that the lower end of what they have. My second option would be at the higher end of what they have, and my third option would probably be about what they thought they had.
+**CURTIS:** Well, one of my questions is their budget too though. So if they come back and they say “our budget is a thousand dollars” and they want some big system, I say “well, it’s not going to work”. Then I don’t even get past that initial email. I’ll say “hey, that’s not going to work. Look at these options over here”. If they come to me and say “I've got 15 to \$20,000; that’s what I've got”, then my first option might be that the lower end of what they have. My second option would be at the higher end of what they have, and my third option would probably be about what they thought they had.
 
 So I have found [inaudible] that clients actually have more once you show more value. They just didn’t they think they're going to get more value for more money.
 
@@ -445,5 +449,3 @@ Alright well, if people want to check out what you're up to or hire you or find 
 **CHUCK:** Alright. We will catch you all next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

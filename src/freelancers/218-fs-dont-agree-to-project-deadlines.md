@@ -1,25 +1,26 @@
 ---
 layout: layouts/post.njk
 title: >
-      218 FS Don't Agree to Project Deadlines
+  218 FS Don't Agree to Project Deadlines
 date: 2016-09-08 06:00:13
 episode_number: 218
 duration: 54:37
 audio_url: https://media.devchat.tv/freelancers/FS218Dont_Agree_to_Project_Deadlines.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 1:06 - Jonathan suggested topic: Why are deadlines bad?7:30 &nbsp;Deadlines are binary11:28 Timelines12:38 Weekly conversations13:54 How to deal with a drop dead deadline15:53 How do you agree to multiple features How much margin do you put on it?17:05 Do you agree to what you think you can get done?19:41 Why do you see developers agree to deadlines22:06 Negotiating 24:40 Say no to clients who won’t agree to a deadline27:27 Don’t take the risk27:40 Solutions31:13 Do you say no to a client who is insistent on a deadline?35:24 Projects that drag on38:00 Uncertain end date43:47 An easy trap to fall into44:27 Learn your lines47:30 Explain the downside to a deadline
+
 ### Picks
 
 - Taking time off (Philip)
 - [How To Handle Deadlines Without Agree To Them](https://www.crowdcast.io/e/jstark5/register) (Jonathan)
 - [Wood Badge](http://www.woodbadge.org/) (Chuck)
 - [The Boy Scouts Of America](http://www.scouting.org/) (Chuck)
-&nbsp;This episode is sponsored by [hired.com](https://hired.com)
+  &nbsp;This episode is sponsored by [hired.com](https://hired.com)
 
 ### Transcript
 

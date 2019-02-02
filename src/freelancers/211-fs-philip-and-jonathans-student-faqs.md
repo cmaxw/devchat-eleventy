@@ -1,35 +1,35 @@
 ---
 layout: layouts/post.njk
 title: >
-      211 FS Philip and Jonathan's Student FAQs
+  211 FS Philip and Jonathan's Student FAQs
 date: 2016-07-21 07:00:32
 episode_number: 211
 duration: 46:40
 audio_url: https://media.devchat.tv/freelancers/FS211StudentFAQ.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 02:21 - Jonathan: How do you calculate a value price?
+
 - “The Magic Formula”
 - [ROI (Return on Investment)](https://www.entrepreneur.com/encyclopedia/return-on-investment-roi)
 - [Upwork](http://upwork.com/)
 - Agencies and Value Pricing
-15:42 - Philip: How do I specialize?
+  15:42 - Philip: How do I specialize?
 - Vertical/Horizontal Specialization
 - How do you validate that a vertical is big enough to support your business?
   - The Forktruck Repair Company Invoice Checking Company Example
-29:45 - Jonathan: How do you get paid 100% up-front?&nbsp;Picks
+    29:45 - Jonathan: How do you get paid 100% up-front?&nbsp;Picks
 - [The Consulting Pipeline Podcast: The One Thing I've Never Heard Anywhere Else About How to Do a Great Interview](http://consultingpipelinepodcast.com/18) (Jonathan)
 - [Bomber Jacket Cord Roll](http://www.levenger.com/bomber-jacket-cord-roll-13258.aspx) (Jonathan)
 - [Freeze](https://www.freezeapp.net/) (Philip)
 
-
 ### Transcript
 
- **JONATHAN:** B-team takes over for [inaudible].
+**JONATHAN:** B-team takes over for [inaudible].
 
 **PHILIP:** [Chuckles]
 
@@ -239,7 +239,7 @@ But if you did provide a fixed bid, whatever you base the price on whether it’
 
 So when you send that out to someone, first of all, if you’ve done a good job in the steps that lead up to this moment, which are being well-known as an authority in the space, you're the go-to person for the thing that you do – so you’ve done your marketing, you’ve picked a focus, you’ve done your marketing, you're out there. You're attracting clients, you are pushing back on the clients, making them convince you to work with them instead of the other way around. By the time you get to the proposal, they're basically sold. They just want to see how much it’s going to cost.
 
-So they get down to the very end of the proposal and it says “option 1 is $10,000. Option 2 is $22,000. Option 3 is $50,000. And it’s 200% in advance”. If you’ve done a good job up to this point, one of those prices will seem reasonable. And in my experience, 75-85% of the people will just send you a check for the full amount. Sometimes people will say “whoa whoa whoa whoa, we don’t pay 100% upfront that. We've never done that”. You can imagine the pushback that you might get. I want to emphasize a surprising number of people do not do that because you're committing to an amount, and that is so refreshing and different compared to the abject fear that they experience when they are basically making a huge purchasing decision without knowing the final price.
+So they get down to the very end of the proposal and it says “option 1 is $10,000. Option 2 is $22,000. Option 3 is \$50,000. And it’s 200% in advance”. If you’ve done a good job up to this point, one of those prices will seem reasonable. And in my experience, 75-85% of the people will just send you a check for the full amount. Sometimes people will say “whoa whoa whoa whoa, we don’t pay 100% upfront that. We've never done that”. You can imagine the pushback that you might get. I want to emphasize a surprising number of people do not do that because you're committing to an amount, and that is so refreshing and different compared to the abject fear that they experience when they are basically making a huge purchasing decision without knowing the final price.
 
 So since you are giving them and committing to a final price for a project that they are much more relaxed than you might think or than they would normally would be. So they're open to this concept of like “that’s cool. We've talked about the value. This is a fraction of what we’re going to get out of it. So even if it doesn’t go perfectly, we’ll still be making 5 bucks for every dollar we give to a stark. So ok, great, here’s your check”.
 
@@ -267,7 +267,7 @@ It’s probably worth mentioning that negotiations have been – not negotiation
 
 But I just didn’t care because I was going to do it. It was just wasn’t worth it to me because I know what happens. Because these big organizations, they get you on the hook, and then you do the thing, and now you're chasing some department that doesn’t even care, and the pressure’s completely off of the original buyer, and it’s like the last thing on their To Do list. I’m just not doing it.
 
-So he said “look, I’ll do you a favor. I’ll do 50% upfront, 50% on the day”, and I said “well, if we do it like that, I’m going to increase my fee. Is that ok?” and he said “sure”. And so I said “ok, my fee is $20,000. So you pay me $10,000 upfront and $10,000 more on the day”, which was of course ridiculous because that’s 100% of the original payment. And he was setting policies like “oh, our system can’t do 100% upfront payment”, so I said “ok, just double my fee and pay me 50% upfront and 50% day off”. And [inaudible] and we ended in a huff. And they sent me 100% upfront of the original fee.
+So he said “look, I’ll do you a favor. I’ll do 50% upfront, 50% on the day”, and I said “well, if we do it like that, I’m going to increase my fee. Is that ok?” and he said “sure”. And so I said “ok, my fee is $20,000. So you pay me $10,000 upfront and \$10,000 more on the day”, which was of course ridiculous because that’s 100% of the original payment. And he was setting policies like “oh, our system can’t do 100% upfront payment”, so I said “ok, just double my fee and pay me 50% upfront and 50% day off”. And [inaudible] and we ended in a huff. And they sent me 100% upfront of the original fee.
 
 **PHILIP:** How long did it take that to happen? [Crosstalk] Ok, so since somebody talked to somebody, there is no policy.
 
@@ -336,5 +336,3 @@ And I guess that’s the show, huh?
 So that’s it for this episode of the Freelancers’ Show. Thanks for tuning in. See you next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

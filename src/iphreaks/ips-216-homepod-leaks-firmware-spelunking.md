@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 216: HomePod Leaks and Firmware Spelunking
+  iPS 216: HomePod Leaks and Firmware Spelunking
 date: 2017-09-28 15:32:39
 episode_number: 216
 duration: 50:39
 audio_url: https://media.devchat.tv/iphreaks/iPS_216_HomePod_Leaks_and_Firmware_Spelunking.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
@@ -27,8 +27,6 @@ Panel: Gui Jaim Erica In today's episode, the iPhreaks discuss the firmware leak
 - Hopper
 - Harder leaks vs. Softer leaks
 - And much more on the framework
-Links: Guilherme Rambo on Twitter: @\_inside Steve T-S on Twitter: @stroughtonsmith Jonathan Levin on Twitter: @Morpheus Filipe Espósito on Twitter: @filipekids Picks: Gui:[http://www.flixlist.co/titles/80101899](http://www.flixlist.co/titles/80101899)The Founder - (2016) - Netflix Jaim[https://www.epochconverter.com/](https://www.epochconverter.com/)Erica Cars that work
+  Links: Guilherme Rambo on Twitter: @\_inside Steve T-S on Twitter: @stroughtonsmith Jonathan Levin on Twitter: @Morpheus Filipe Espósito on Twitter: @filipekids Picks: Gui:[http://www.flixlist.co/titles/80101899](http://www.flixlist.co/titles/80101899)The Founder - (2016) - Netflix Jaim[https://www.epochconverter.com/](https://www.epochconverter.com/)Erica Cars that work
 
 ### Transcript
-
-

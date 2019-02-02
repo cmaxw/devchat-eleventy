@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 032: "The most important lessons I've learned after a year of working with React" with Tomas Eglinskas
+  RRU 032: "The most important lessons I've learned after a year of working with React" with Tomas Eglinskas
 date: 2018-10-09 10:00:34
 episode_number: 032
 duration: 46:02
 audio_url: https://media.devchat.tv/reactroundup/RRU_032_The_most_important_lessons_I've_learned_after_a_year_of_working_with_React_with_Tomas_Eglinskas.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood (DevChat T.V.)](https://twitter.com/cmaxw?lang=en)
 - [Nader Dabit (Poland)](https://twitter.com/dabit3?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
@@ -200,7 +200,7 @@ Charles
 
 Nader
 
-- [Frontend Conference](https://frontend-con.io) – December – Warsaw – Some speakers have been announced, not all 
+- [Frontend Conference](https://frontend-con.io) – December – Warsaw – Some speakers have been announced, not all
 - [AWS](https://aws.amazon.com)
 
 Tomas
@@ -208,7 +208,4 @@ Tomas
 - [Egghead](https://aws.amazon.com) and [Frontend Masters](https://frontendmasters.com)!
 - [Dribble](https://dribbble.com) – to progress as a frontend developer
 
-
 ### Transcript
-
-

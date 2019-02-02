@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 053: Quincy Larson
+  MJS 053: Quincy Larson
 date: 2018-03-21 10:00:01
 episode_number: 053
 duration: 30:12
 audio_url: https://media.devchat.tv/my-js-story/MJS_053_Quincy_Larson.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Quincy Larson
 
@@ -58,7 +58,7 @@ This week on My JavaScript Story, Charles speaks with Quincy Larson. Quincy crea
 Charles
 
 - [VRBO](https://www.vrbo.com/)
-- Mesquite, Nevada 
+- Mesquite, Nevada
 - [Upside.com](https://upside.com/travel)
 
 Quincy
@@ -66,7 +66,4 @@ Quincy
 - The state of machine learning in JavaScript
 - [Tensor Fire](https://tenso.rs/)
 
-
 ### Transcript
-
-

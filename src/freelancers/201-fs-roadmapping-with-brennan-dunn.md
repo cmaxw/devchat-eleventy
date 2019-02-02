@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      201 FS Roadmapping with Brennan Dunn
+  201 FS Roadmapping with Brennan Dunn
 date: 2016-05-12 07:00:14
 episode_number: 201
 duration: 01:09:12
 audio_url: https://media.devchat.tv/freelancers/FS201Roadmapping.mp3?rss=true
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
@@ -18,11 +18,11 @@ Check out [All Remote Confs](https://allremoteconfs.com/)!
 
 02:41 - Brennan Dunn Introduction
 
-- [Twitter](https://twitter.com/brennandunn) 
-- [GitHub](https://github.com/brennandunn) 
+- [Twitter](https://twitter.com/brennandunn)
+- [GitHub](https://github.com/brennandunn)
 - [Blog](http://brennandunn.com/)
 - [The Freelancers’ Show #77: Recurring Revenue with Brennan Dunn](http://www.freelancersshow.com/the-freelancers-show-077-recurring-revenue-with-brennan-dunn/)
-- [The Freelancers' Show #96: Value-Based Pricing with Brennan Dunn](https://devchat.tv/freelancers/the-freelancers-show-096-value-based-pricing-with-brennan-dunn) 
+- [The Freelancers' Show #96: Value-Based Pricing with Brennan Dunn](https://devchat.tv/freelancers/the-freelancers-show-096-value-based-pricing-with-brennan-dunn)
 - [Double Your Freelancing Rate by Brennan Dunn](http://doubleyourfreelancingrate.com/)
 - [Double Your Freelancing Conference](http://doubleyourfreelancing.com/conf/)
 
@@ -49,8 +49,6 @@ Check out [All Remote Confs](https://allremoteconfs.com/)!
 48:29 - Mistakes Made Along the WayPicks
 
 [Dropshare](https://getdropsha.re/) (Jonathan)[Horace and Pete](https://louisck.net/show/horace-and-pete) (Jonathan)[The Expanse](http://www.imdb.com/title/tt3230854/) (Philip)[Thrive Landing Pages](https://thrivethemes.com/landingpages/) (Philip)[Machine Learning Mastery](http://machinelearningmastery.com/) (Reuven)[The Terrible Two Get Worse](http://www.amazon.com/Terrible-Two-Get-Worse/dp/1419716808) (Reuven)[The Microsoft Build Conference](https://build.microsoft.com/) (Chuck)[HoloLens](https://www.microsoft.com/microsoft-hololens/en-us) (Chuck) Retreats (Chuck)[MicroConf](http://www.microconf.com/) (Chuck)[Advance Custom Fields](https://www.advancedcustomfields.com/) (Brennan)[WooCommerce](https://www.woothemes.com/woocommerce/) (Brennan)[Mastering Project Roadmaps](https://doubleyourfreelancing.com/roadmapping/) (Brennan)[Double Your Freelancing Conference](http://doubleyourfreelancing.com/conf) (Brennan)
-
-
 
 ### Transcript
 
@@ -122,7 +120,7 @@ About a year and a half ago, I moved everything off of the Planscope log and all
 
 **CHUCK:** Yeah.
 
-**BRENNAN:** So I had a full-time business development person. We were getting a lot of leads and I think at that time, we were nine-ish employees or so. The problem was my business development guy was not in technical so he’s kind of like a qualifier. After we realized somebody wasn’t wanting a $500 YouTube [inaudible], go up [inaudible]. Then we do scoping and we’ve spent a good amount of time scoping out the project which just then, a lot of people – a lot of our clients were non-technical so they didn’t really – they didn’t have any experience building what we did which is custom software. So we went down with them and talked a little about the project and figure out what they need to get done. We’d listen to any kind of – usually, they’d have somebody in their head about what it should look like, how it should function and such but we would then come in and give them maybe contrary advice, then we would do the usual proposal writing thing.
+**BRENNAN:** So I had a full-time business development person. We were getting a lot of leads and I think at that time, we were nine-ish employees or so. The problem was my business development guy was not in technical so he’s kind of like a qualifier. After we realized somebody wasn’t wanting a \$500 YouTube [inaudible], go up [inaudible]. Then we do scoping and we’ve spent a good amount of time scoping out the project which just then, a lot of people – a lot of our clients were non-technical so they didn’t really – they didn’t have any experience building what we did which is custom software. So we went down with them and talked a little about the project and figure out what they need to get done. We’d listen to any kind of – usually, they’d have somebody in their head about what it should look like, how it should function and such but we would then come in and give them maybe contrary advice, then we would do the usual proposal writing thing.
 
 Often times, what I end up doing is pulling somebody – one of my team members – off a billable project to spend a few hours building out an estimate. It was getting to the point where we were doing it so often that we were spending up [inaudible] 15-ish, 20 hours sometimes a week on time that could be build for that we weren’t getting paid for. So I’m gradually recharging for the week at that time, too. It was still time that we could’ve been making forward progress on projects.
 
@@ -230,7 +228,7 @@ I’ve been in a roadmapping engagement before where had we not done this, had w
 
 So I pushed back like crazy on those phone calls, like those on the email, “We heard you’re an expert at this. We want you to build this thing for us.” And I’m like, “Sweet.” Here are some questions, let’s jump on a phone call and we’ll hash through it. And so I almost do like a mini – it’s not a roadmap but it’s a mini – similar kind of thing where I just – the whole time I just push back and be like, “Why do you want to do that?” Like why do you want to do that? Why do you want to do that? And then eventually you [inaudible] to and you find out what the real goals are behind these [inaudible] things that they prescribed, this medicine they prescribed for themselves. And you realize that oh, there’s probably a much easier way to do this with like an [inaudible] or press plugin or blah, blah. So Brennan, you’re touching on a million things that I think are super interesting. We can have an entire show on each one.
 
-But for Reuven, maybe for people listening, it might help to distinguish between a roadmap and an estimate and a proposal. If I describe what I’m about to describe which is I – since I don’t do software development anymore anyway but when I did do it and I used to do this then I would get people fix bids so I was the one taking all the financial risks. So the way it would play out – and I only describe this because I think it might help explain how to sell it – the way it would play out is people would say we have this conversation, I’d ask a million times why do you want to do this. Finally, they would convince me that it was a good idea to do it. It’s been a day – half a day or a day putting together a proposal and submit them. If they said, “This sounds great but these prices are way too high,” and again these are fixed bids, this is not an estimate of how many hours it might take. This is like – it’s going to be $50,000 for this option, $85,000 for this option and $100,000 for this option.
+But for Reuven, maybe for people listening, it might help to distinguish between a roadmap and an estimate and a proposal. If I describe what I’m about to describe which is I – since I don’t do software development anymore anyway but when I did do it and I used to do this then I would get people fix bids so I was the one taking all the financial risks. So the way it would play out – and I only describe this because I think it might help explain how to sell it – the way it would play out is people would say we have this conversation, I’d ask a million times why do you want to do this. Finally, they would convince me that it was a good idea to do it. It’s been a day – half a day or a day putting together a proposal and submit them. If they said, “This sounds great but these prices are way too high,” and again these are fixed bids, this is not an estimate of how many hours it might take. This is like – it’s going to be $50,000 for this option, $85,000 for this option and \$100,000 for this option.
 
 If they’re like, “These prices are too high,” then I’d say, “Alright, well let’s do a roadmapping session. It’ll only be $5,000 to $10,000 and if we do that and we basically really drill into the reasons behind all of these things, a little bit more detail of what you’re trying to achieve, what you’re visualizing in your head and what your users actually want, then that’s going to decrease my risk and I’ll be able to do – revise the proposal and be much more specific and the prices can be a lot lower because I don’t have to add the cushion to protect myself against the risk, which perhaps makes more sense when you think of it that way.
 
@@ -268,11 +266,11 @@ Let’s say I’m a branding consultant. How does a branding consultant where ma
 
 Before we jump into illustrator and start knocking out a load of concepts, what are we here for? And I think it’s important – again, some designers do this. They usually make like a discovery into the initial phase but I’m just arguing that if you can move it out and move it – how to be a separate product, and how to be at a lower price, a low risk product? It actually will – what it does – here’s the big problem. The big problem is when you’re talking with a [inaudible] who has no financial, no commercial relationship with you; they’ve never got anything of value from you, there’s a big jump between zero dollars, no relationship and paying you gobs and gobs of money for a project.
 
-All I’m arguing here is that if you have something that’s more like a business impulse spy; let’s say your average budget is $15,000, if you can offer something that’s maybe a few hundred dollars and it’s a much lower risk.
+All I’m arguing here is that if you have something that’s more like a business impulse spy; let’s say your average budget is \$15,000, if you can offer something that’s maybe a few hundred dollars and it’s a much lower risk.
 
-Let me give you an actual example of this. I’ve been looking into doing YouTube ads for a while now. But it’s one of those things where it’s like does it really work? Is there actually – will it actually – am I just going to waste budget? And I was talking to a guy named Jake who does – YouTube ads are his thing. And he’s actually somebody who went through my stuff and he now has $297 product that is a one hour Skype call where we’d get on the phone with him. He screen shares his Google spread sheet. He asks you about your customer lifetime value; he asked me about what are your typical conversion rates. I know this is all financial so it’s not exactly answering that question but he goes into this many talks about, “Well, here’s the average cost per YouTube ad and here’s the average – from the clients I’ve worked with, here’s some stats that they have,” and so on.
+Let me give you an actual example of this. I’ve been looking into doing YouTube ads for a while now. But it’s one of those things where it’s like does it really work? Is there actually – will it actually – am I just going to waste budget? And I was talking to a guy named Jake who does – YouTube ads are his thing. And he’s actually somebody who went through my stuff and he now has \$297 product that is a one hour Skype call where we’d get on the phone with him. He screen shares his Google spread sheet. He asks you about your customer lifetime value; he asked me about what are your typical conversion rates. I know this is all financial so it’s not exactly answering that question but he goes into this many talks about, “Well, here’s the average cost per YouTube ad and here’s the average – from the clients I’ve worked with, here’s some stats that they have,” and so on.
 
-It’s just a way for me – me spending $297 or 300 bucks is nothing – I know what your spending that whereas the alternative which is what he upsold later was spending a few thousand dollars a month to manage it. So if I were to jump directly into a few thousand dollars a month to manage my YouTube ads, I don’t know if I would’ve done that. It would’ve been too risky. And by having this thing that was a no-brainer for me, just to in a way feel the waters as [inaudible] you got to work with, does he do a good job of understanding my business and so on? It made me more – what could actually take that next step to the full-blown engagement.
+It’s just a way for me – me spending \$297 or 300 bucks is nothing – I know what your spending that whereas the alternative which is what he upsold later was spending a few thousand dollars a month to manage it. So if I were to jump directly into a few thousand dollars a month to manage my YouTube ads, I don’t know if I would’ve done that. It would’ve been too risky. And by having this thing that was a no-brainer for me, just to in a way feel the waters as [inaudible] you got to work with, does he do a good job of understanding my business and so on? It made me more – what could actually take that next step to the full-blown engagement.
 
 **PHILIP:** I love that term you threw out there – business impulse spy. [Chuckles]
 
@@ -280,7 +278,7 @@ It’s just a way for me – me spending $297 or 300 bucks is nothing – I know
 
 **PHILIP:** I think a lot of freelancers, 300 bucks is like a big deal. But like you said for a successful business, that literally is like – it’s the same thing as buying coffee.
 
-**BRENNAN:** Right. That’s what – look at – just as consultants and [inaudible] and even Nick does this. [Inaudible] we used to have a $700 website tear down or landing page or sales copied tear down. She would just look at what you have, access it, point out all – what it was is it was a way for you to see – actually, what can you expect if she’s working on your project? What are her thoughts about what you’re doing and so on in a way that you can squeeze it in your company [inaudible] without going through a contract process.
+**BRENNAN:** Right. That’s what – look at – just as consultants and [inaudible] and even Nick does this. [Inaudible] we used to have a \$700 website tear down or landing page or sales copied tear down. She would just look at what you have, access it, point out all – what it was is it was a way for you to see – actually, what can you expect if she’s working on your project? What are her thoughts about what you’re doing and so on in a way that you can squeeze it in your company [inaudible] without going through a contract process.
 
 **PHILIP:** Yeah, that’s huge.
 
@@ -288,7 +286,7 @@ It’s just a way for me – me spending $297 or 300 bucks is nothing – I know
 
 It also sets a bad tone because if you’re doing all these free meeting where you’re talking about your project and you’re talking about your business. You see there’s a part of – like a cost of doing business. When they sign the contract and you’re now working for them then you dare start charging them for meetings – another benefit of having either weekly or fixed billing is you get to avoid this. But let’s say you’re billing hourly and you have a meeting as a line item, they’re used to getting your consultation time for free. So it’s one way to stop that early on and like what I was saying, to me, it’s such a low risk thing for a potential business if you do it right.
 
-A lot of my budgets for my agency were a quarter million to half a million dollars so we would charge five grand which is nothing compared to what they would be spending. But I’ve seen people do everything from – lowest I’ve seen is $200 for about an hour which is still usually more than the hourly rate of the people who are doing this – we talked about that, right? But you’re able to then spend some time and actually do what often happens before in a way where – the [inaudible] actually takes a lot more seriously when they’re getting to [inaudible]. The value – I think I mentioned it earlier – the value of a proposal, the value of that time beforehand is relatively low but when you paid for that deliverable, that is, your proposal, you don’t treat it like you would a proposal.
+A lot of my budgets for my agency were a quarter million to half a million dollars so we would charge five grand which is nothing compared to what they would be spending. But I’ve seen people do everything from – lowest I’ve seen is \$200 for about an hour which is still usually more than the hourly rate of the people who are doing this – we talked about that, right? But you’re able to then spend some time and actually do what often happens before in a way where – the [inaudible] actually takes a lot more seriously when they’re getting to [inaudible]. The value – I think I mentioned it earlier – the value of a proposal, the value of that time beforehand is relatively low but when you paid for that deliverable, that is, your proposal, you don’t treat it like you would a proposal.
 
 **PHILIP:** There are so many things that are coming into play. There’s so many things that we talked about in the show and elsewhere that are all coming to play here that makes it – I think probably makes it sound a little bit confusing from the outside because if you’re someone who is attracting, who is not differentiated to this undifferentiated, generalist who does web development; full-stack web developer, front end, back end, Rails, JavaScript, WordPress – I’ll do anything. It’s probable that you’re attracting clients who are not great and who are not going to be amendable to this entire concept. You’re up against probably half a dozen other people that are also looking at.
 
@@ -322,7 +320,7 @@ This happened the other day; I went into a brainstorming meeting with the client
 
 **BRENNAN:** Yeah.
 
-**CHUCK:** So I had to ask; so somebody pays, let’s say, even $500 for roadmapping. I can see people pan up to $2,000 or $5,000 and your recommendation is – there’s already something out there as Wufoo. [Crosstalk] Doesn’t that feel anticlimactic, right?
+**CHUCK:** So I had to ask; so somebody pays, let’s say, even $500 for roadmapping. I can see people pan up to $2,000 or \$5,000 and your recommendation is – there’s already something out there as Wufoo. [Crosstalk] Doesn’t that feel anticlimactic, right?
 
 **BRENNAN:** Let’s say you’re just about to spend a bunch of cash at [inaudible] mart for development, something custom, and you find out that there’s – again, it’s all about knowing what the goal is. No one cares about – we like to pretend that our clients care about code and design – they don’t. They care about the results. They care about what they need done. That’s [crosstalk] you’re consultative.
 
@@ -330,9 +328,9 @@ This happened the other day; I went into a brainstorming meeting with the client
 
 **REUVEN:** That’s the thing though.
 
-**PHILIP:** And they get to walk into their boss’ office and say “I just saved us $50,000” or something like that.
+**PHILIP:** And they get to walk into their boss’ office and say “I just saved us \$50,000” or something like that.
 
-**CHUCK:** So do you frame it like that? “You could save yourself $50,000 by using Wufoo” instead of saying “Wufoo!”
+**CHUCK:** So do you frame it like that? “You could save yourself \$50,000 by using Wufoo” instead of saying “Wufoo!”
 
 **JONATHAN:** Yeah, I’ve done that with AWS. The company was planning on buying a – like investing, I think it was three million dollars’ worth of IBM to buy servers for their data centre. And I was like, you guys, this is going to be 500 bucks a month on AWS maximum. [Chuckles]
 
@@ -527,5 +525,3 @@ Happy to announce, we are confirmed for end of September for the US Conference a
 **_[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net]_**
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

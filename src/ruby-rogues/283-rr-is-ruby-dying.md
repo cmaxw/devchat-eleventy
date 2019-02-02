@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      283 RR Is Ruby Dying?
+  283 RR Is Ruby Dying?
 date: 2016-10-26 06:00:10
 episode_number: 283
 duration: 54:25
 audio_url: https://media.devchat.tv/ruby-rogues/RR283_Is_Ruby_Dying.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---

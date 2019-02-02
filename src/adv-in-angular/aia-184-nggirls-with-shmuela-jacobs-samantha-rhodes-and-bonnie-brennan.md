@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 184: ngGirls with Shmuela Jacobs, Samantha Rhodes, and Bonnie Brennan
+  AiA 184: ngGirls with Shmuela Jacobs, Samantha Rhodes, and Bonnie Brennan
 date: 2018-04-10 10:00:57
 episode_number: 184
 duration: 47:32
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_184_ngGirls_with_Shmuela_Jacobs_Samantha_Rhodes_and_Bonnie_Brennan.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Alyssa Nicholl
@@ -94,7 +94,4 @@ Bonnie
 - [Dungeons and Dragons at ngConf](https://www.ng-conf.org/sessions/dungeons-and-dragons/)
 - [Natasha Carlyon ngConf](https://www.ng-conf.org/speakers/natasha-carlyon/)
 
-
 ### Transcript
-
-

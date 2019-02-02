@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS217: High Sierra app updates with Tim Ekl
+  iPS217: High Sierra app updates with Tim Ekl
 date: 2017-10-07 23:10:32
 episode_number: 217
 duration: 47:08
 audio_url: https://media.devchat.tv/iphreaks/iPS_217_High_Sierra_app_updates_with_Tim_Ekl.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
@@ -34,17 +34,14 @@ Panel: Gui Jaim Erica Andrew In today's episode, the iPhreaks discuss the High S
 - Has Omni gone into&nbsp;whole Swift?
 - Language stability -&nbsp; are you comfortable bringing in the new language
 - [The great renaming&nbsp;](https://en.wikipedia.org/wiki/Great_Renaming)
-Links:[Omni Group](https://www.omnigroup.com/more)@timekl @OmniGroup[timekl.com](http://timekl.com)[Carbon Copy Cloner](https://bombich.com)Picks: Gui:
+  Links:[Omni Group](https://www.omnigroup.com/more)@timekl @OmniGroup[timekl.com](http://timekl.com)[Carbon Copy Cloner](https://bombich.com)Picks: Gui:
 - [How To Train Your Own Model for CoreML](http://www.reza.codes/2017-07-29/how-to-train-your-own-dataset-for-coreml/)
-Jaim Erica
+  Jaim Erica
 - [Honda Element](https://en.wikipedia.org/wiki/Honda_Element) - Discontinued
-Andrew
+  Andrew
 - [New Star Trek](http://new%20star%20trek%20series)
-Tim
+  Tim
 - [Carbon Copy Cloner](https://bombich.com)
-- 
-
+-
 
 ### Transcript
-
-

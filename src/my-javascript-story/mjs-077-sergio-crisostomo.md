@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 077: Sérgio Crisóstomo
+  MJS 077: Sérgio Crisóstomo
 date: 2018-09-19 10:00:39
 episode_number: 077
 duration: 34:21
 audio_url: https://media.devchat.tv/my-js-story/MJS_077_Sergio_Crisostomo.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
 **Guest:** [Sérgio Crisóstomo](https://github.com/SergioCrisostomo)
 
@@ -108,7 +108,4 @@ This week on My JavaScript Story, Charles speaks with Sérgio Crisóstomo. Charl
 - [Chopin!](https://en.wikipedia.org/wiki/Fr%25C3%25A9d%25C3%25A9ric_Chopin)
 - [Checkout Sweden if you want a job as a programmer! Email me!](https://www.prorenata.se)
 
-
 ### Transcript
-
-

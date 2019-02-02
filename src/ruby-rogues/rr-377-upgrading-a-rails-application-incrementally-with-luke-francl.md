@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 377: Upgrading a Rails application incrementally with Luke Francl
+  RR 377: Upgrading a Rails application incrementally with Luke Francl
 date: 2018-08-28 23:42:07
 episode_number: 377
 duration: 53:02
 audio_url: https://media.devchat.tv/ruby-rogues/RR_377_Upgrading_a_Rails_application_incrementally_with_Luke_Francl.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Dave Kimura
 - Eric Berry
@@ -23,7 +23,7 @@ In this episode of Ruby Rogues, the panel talks to Luke Francl about his article
 
 **In particular, we dive pretty deep on:**
 
-- Luke intro 
+- Luke intro
 - Working with [Rails](https://rubyonrails.org/) and [Elasticsearch](https://www.elastic.co/)
 - Why he decided to come to [GitHub](https://github.com/)
 - Surreal working at GitHub
@@ -82,7 +82,4 @@ Luke
 
 - [_Designing Data-Intensive Applications_ by Martin Kleppmann](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
-
 ### Transcript
-
-

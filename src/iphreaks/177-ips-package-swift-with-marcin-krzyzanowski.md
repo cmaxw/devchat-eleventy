@@ -1,34 +1,35 @@
 ---
 layout: layouts/post.njk
 title: >
-      177 iPS Package.swift with Marcin Krzyzanowski
+  177 iPS Package.swift with Marcin Krzyzanowski
 date: 2016-11-03 06:00:51
 episode_number: 177
 duration: 37:30
 audio_url: https://media.devchat.tv/iphreaks/iPS177_Package-swift_with_Marcin_Krzyzanowski.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 1:00: Introduction2:00: [Swift Package Manager](https://swift.org/package-manager/)
+
 - Carthage
 - Sources folder
-3:30: GitHub Repository
+  3:30: GitHub Repository
 - Sub modules
 - CocoaPods
-13:40: X-code19:00: Frameworks22:30: Providers
+  13:40: X-code19:00: Frameworks22:30: Providers
 - Brew
 - Apt
-24:50: Future road map
+  24:50: Future road map
 - Apple
 - Giro box
-33:10: Contacting Marcin
+  33:10: Contacting Marcin
 - [Twitter](https://twitter.com/krzyzanowskim?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [Blog](http://blog.krzyzanowskim.com/)
 - [GitHub](https://github.com/krzyzanowskim)
-Picks:[The Accountant](http://www.imdb.com/title/tt2140479/) (Rod)[12 Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)[Din Group](https://www.youtube.com/watch?v=1hPSFnix_jk) (Marcin)[Project Distribution Test](http://dduan.net/2016/10/10/distribution-tests/) (Marcin)[Hired.com](http://www.hired.com/iphreaks)
+  Picks:[The Accountant](http://www.imdb.com/title/tt2140479/) (Rod)[12 Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)[Din Group](https://www.youtube.com/watch?v=1hPSFnix_jk) (Marcin)[Project Distribution Test](http://dduan.net/2016/10/10/distribution-tests/) (Marcin)[Hired.com](http://www.hired.com/iphreaks)
 
 ### Transcript
 

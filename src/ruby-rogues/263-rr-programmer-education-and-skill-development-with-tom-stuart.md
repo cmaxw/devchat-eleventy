@@ -1,41 +1,42 @@
 ---
 layout: layouts/post.njk
 title: >
-      263 RR Programmer Education and Skill Development with Tom Stuart
+  263 RR Programmer Education and Skill Development with Tom Stuart
 date: 2016-06-08 07:00:32
 episode_number: 263
 duration: 01:03:48
 audio_url: https://media.devchat.tv/ruby-rogues/RR263ProgrammerEducationandSkillDevelopment.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
-## Check out [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016)! 
+## Check out [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016)!
+
 &nbsp;02:39 - Tom Stuart Introduction
+
 - [Twitter](https://twitter.com/tomstuart)
 - [GitHub](https://github.com/tomstuart)
 - [Blog](http://codon.com)
 - [Ruby Rogues Episode #120: Book Club: Understanding Computation with Tom Stuart](https://devchat.tv/ruby-rogues/120-rr-book-club-understanding-computation-with-tom-stuart)
 - [Understanding Computation by Tom Stuart](http://computationbook.com/)
-03:17 - “Computer Scientist”; [Computer Science](https://en.wikipedia.org/wiki/Computer_science)04:17 - Static Typing, Type Systems
+  03:17 - “Computer Scientist”; [Computer Science](https://en.wikipedia.org/wiki/Computer_science)04:17 - Static Typing, Type Systems
 - [Tom Stuart: Consider Static Typing @ RubyConf Australia 2015](http://codon.com/consider-static-typing)
 - [Matz's Opening Keynote at RubyConf 2014](https://www.youtube.com/watch?v=85ct6jOvVPI)
 - [The Halting Problem](https://en.wikipedia.org/wiki/Halting_problem)
-18:44 - The Direction, Adoption Curve, and Use of Ruby33:36 - Multicore Growth and Concurrency =\> What programming language should I learn?
+  18:44 - The Direction, Adoption Curve, and Use of Ruby33:36 - Multicore Growth and Concurrency =\> What programming language should I learn?
 - [Moore’s Law](https://en.wikipedia.org/wiki/Moore's_law)
-&nbsp;Picks
+  &nbsp;Picks
 - [Halting State by Charles Stross](http://www.amazon.com/Halting-State-Ace-Science-Fiction/dp/0441016073) (Sam)
 - [The Belgariad by David Eddings](https://en.wikipedia.org/wiki/The_Belgariad) (Chuck)
 - [Fully Alive: Discovering What Matters Most by Timothy Shriver](https://www.amazon.com/Fully-Alive-Discovering-What-Matters/dp/0374535825) (Chuck)
 - [The 8000th Busy Beaver number eludes ZF set theory: new paper by Adam Yedidia and me](http://www.scottaaronson.com/blog/?p=2725) (Tom)
 - [Martin Kleppmann: Staying in Sync: from Transactions to Streams](https://www.infoq.com/presentations/event-streams-kafka) (Tom)
 
-
 ### Transcript
 
- **SAM:&nbsp;** Just be warned that if things really grind to a halt, I'm going to bring up Cucumber.
+**SAM:&nbsp;** Just be warned that if things really grind to a halt, I'm going to bring up Cucumber.
 
 **TOM:&nbsp;** Oh god.
 
@@ -406,5 +407,3 @@ And it's made me once again as his previous talks have done, it's made me rethin
 **_[Bandwidth for this segment is provided by CacheFly, the world's fastest CDN. Deliver your content fast with CacheFly. Visit C-A-C-H-E-F-L-Y dot com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

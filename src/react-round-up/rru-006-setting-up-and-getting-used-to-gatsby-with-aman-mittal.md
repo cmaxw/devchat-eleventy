@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 006: Setting Up and Getting Used to Gatsby with Aman Mittal
+  RRU 006: Setting Up and Getting Used to Gatsby with Aman Mittal
 date: 2018-04-10 10:00:54
 episode_number: 006
 duration: 45;11
 audio_url: https://media.devchat.tv/reactroundup/RRU_006_Setting_Up_and_Getting_Used_to_Gatsby_with_Aman_Mittal.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Cory House
@@ -78,11 +78,11 @@ Cory
 Tara
 
 - [React Videos on YouTube Channel](https://www.youtube.com/user/tamanics/videos?sort=dd&view=0&shelf_id=0)
-- [Coco](https://en.wikipedia.org/wiki/Coco_(2017_film))
+- [Coco](<https://en.wikipedia.org/wiki/Coco_(2017_film)>)
 
 Kent
 
-- [Coco](https://en.wikipedia.org/wiki/Coco_(2017_film))
+- [Coco](<https://en.wikipedia.org/wiki/Coco_(2017_film)>)
 - [The Greatest Showman](https://en.wikipedia.org/wiki/The_Greatest_Showman)
 - [React Testing Library](https://github.com/kentcdodds/react-testing-library)
 - [Netlify](https://www.netlify.com/)
@@ -92,7 +92,4 @@ Aman
 - [Gatsby Themes](https://www.gatsbyjs.org/docs/themes/)
 - [The Southern Reach Trilogy by Jeff VanderMeer](https://www.amazon.com/Annihilation-Novel-Southern-Reach-Trilogy/dp/0374104093/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=J41XTRSGCARNB7MR50MZ)
 
-
 ### Transcript
-
-

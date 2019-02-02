@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 026: Building React Applications in a Monorepo with Luis Vieira
+  RRU 026: Building React Applications in a Monorepo with Luis Vieira
 date: 2018-08-29 05:08:11
 episode_number: 026
 duration: 44:30
 audio_url: https://media.devchat.tv/reactroundup/RRU_026_Building_React_Applications_in_a_Monorepo_with_Luis_Vieira.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Nader Dabit
@@ -24,7 +24,7 @@ In this episode, the React Round Up panelists talk to Luis Vieira about his [“
 
 **In particular, we dive pretty deep on:**
 
-- Luis intro 
+- Luis intro
 - Front-end architect at [FarFetch](https://www.farfetch.com/)
 - Works with [JavaScript](https://www.javascript.com/)
 - Rationale behind his article
@@ -47,7 +47,7 @@ In this episode, the React Round Up panelists talk to Luis Vieira about his [“
 - Monolithic aps VS monorepo
 - [Bazel](https://bazel.build/)
 - [Nrwl Nx](https://nrwl.io/nx)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -60,7 +60,7 @@ In this episode, the React Round Up panelists talk to Luis Vieira about his [“
 - [Bazel](https://bazel.build/)
 - [Nrwl Nx](https://nrwl.io/nx)
 - [Luis’s Medium](https://medium.com/@luisvieira_gmr)
-- [@luisvieira\_gmr](https://twitter.com/luisvieira_gmr)
+- [@luisvieira_gmr](https://twitter.com/luisvieira_gmr)
 - [Luis’s Newsletter](https://nuzzel.com/luisvieira_gmr)
 
 **Sponsors**
@@ -89,7 +89,4 @@ Luis
 
 - [Vue CLI](https://github.com/vuejs/vue-cli)
 
-
 ### Transcript
-
-

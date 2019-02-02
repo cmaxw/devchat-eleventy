@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Investing in Your Knowledge Portfolio
+  Investing in Your Knowledge Portfolio
 date: 2011-07-15 16:29:41
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -17,4 +17,3 @@ tags:
 - [Ruby Reloaded](http://rubyreloaded.com/) Peter Cooper’s Ruby Course
 - [Teach Me To Code Academy - Ruby on Rails Course](http://teachmetocodeacademy.com)
 - The [The Pragmatic Programmer](http://www.amazon.com/gp/product/020161622X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=020161622X) ![](http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=020161622X&camp=217145&creative=399369) book
-

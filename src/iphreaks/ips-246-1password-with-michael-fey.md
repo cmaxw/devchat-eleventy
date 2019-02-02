@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 246: 1Password with Michael Fey
+  iPS 246: 1Password with Michael Fey
 date: 2018-07-05 13:26:11
 episode_number: 246
 duration: 34:41
 audio_url: https://media.devchat.tv/iphreaks/iPS_246_1Password_with_Michael%20Fey.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Jaim Zuber
 
@@ -42,7 +42,7 @@ In today’s episode, the iPhreaks panel talk about 1Password with Michael Fey. 
 - What is unique about working for 1Password
 - How did the change to a subscription model go?
 - Can I still by a standalone license?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -67,7 +67,4 @@ Michael
 
 - [WhenWorks](https://when.works/)
 
-
 ### Transcript
-
-

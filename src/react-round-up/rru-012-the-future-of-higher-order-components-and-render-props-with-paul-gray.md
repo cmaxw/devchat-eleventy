@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 012: The Future of Higher Order Components and Render Props with Paul Gray
+  RRU 012: The Future of Higher Order Components and Render Props with Paul Gray
 date: 2018-05-22 18:41:04
 episode_number: 012
 duration: 36:52
 audio_url: https://media.devchat.tv/reactroundup/RRU_012_The_Future_of_Higher_Order_Components_and_Render_Props_with_Paul_Gray.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Nader Dabit
 
@@ -68,7 +68,4 @@ Paul
 - [The Great Interior Design Challenge](https://en.wikipedia.org/wiki/The_Great_Interior_Design_Challenge)
 - [Little Tikes Red Car](https://www.amazon.com/Little-Tikes-Cozy-Coupe-Anniversary/dp/B001NQHN7S)
 
-
 ### Transcript
-
-

@@ -1,36 +1,37 @@
 ---
 layout: layouts/post.njk
 title: >
-      160 iPS IoT with Evan Stone
+  160 iPS IoT with Evan Stone
 date: 2016-07-07 07:00:22
 episode_number: 160
 duration: 58:15
 audio_url: https://media.devchat.tv/iphreaks/IPS160IoT.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 01:45 - Evan Stone Introduction
+
 - [Twitter](https://twitter.com/Interactivlogic)
 - [GitHub](https://github.com/InteractiveLogic)
 - [Blog](http://interactivelogic.net/wp/)
 - [Cloud City](http://www.cloudcity.io/)
-02:38 - [IoT (Internet of Things)](https://en.wikipedia.org/wiki/Internet_of_things); iOS & IoT
+  02:38 - [IoT (Internet of Things)](https://en.wikipedia.org/wiki/Internet_of_things); iOS & IoT
 - [iBeacon](https://en.wikipedia.org/wiki/IBeacon)
-06:48 - Panelist IoT Device Experiences
+  06:48 - Panelist IoT Device Experiences
 - Andrew & Caleb: [Wired In](https://www.kickstarter.com/projects/wiredin/wired-in-wireless-productivity-sign-with-arduino-a)
 - Layne: [Nest Thermostat](https://nest.com/thermostat/meet-nest-thermostat/)
   - [Amazon Echo](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E)
   - [Rachio Smart WiFi Sprinkler Controller](http://rachio.com)
 - Caleb: [RFduino](http://www.rfduino.com/)
 - Chuck: [Ring Wi-Fi Enabled Video Doorbell](https://www.amazon.com/Ring-Wi-Fi-Enabled-Video-Doorbell/dp/B00N2ZDXW2)
-14:00 - [Near Field Communication](http://www.nearfieldcommunication.org/)
+  14:00 - [Near Field Communication](http://www.nearfieldcommunication.org/)
 - [Core Bluetooth](https://developer.apple.com/library/ios/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/AboutCoreBluetooth/Introduction.html)
 - [Core Location](https://developer.apple.com/library/ios/documentation/CoreLocation/Reference/CoreLocation_Framework/)
 - [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
-17:06 - Getting Started: Devices
+  17:06 - Getting Started: Devices
 - [The Bean](https://punchthrough.com/bean)
 - [LightBlue Bean+](http://store.punchthrough.com/collections/all/products/lightblue-bean)
 - [Arduino](https://www.arduino.cc/)
@@ -38,23 +39,22 @@ tags:
 - [The Particle Photon](https://store.particle.io/) &nbsp;&nbsp;
 - iBeacons
   - [Estimote Beacons](http://estimote.com/)
-  - [Gimbal](http://www.gimbal.com/)
-    - [Pop Up Labs](http://www.popup-labs.com/)
-21:35 - Starting Projects
+  - [Gimbal](http://www.gimbal.com/) - [Pop Up Labs](http://www.popup-labs.com/)
+    21:35 - Starting Projects
 - [Tile](https://www.thetileapp.com/)
 - [iPhreaks Episode #127: iBeacons with Azam Sharp](https://devchat.tv/iphreaks/127-ips-ibeacons-with-azam-sharp)
 - [Samsonite Track&Go™ Suitcase](http://destination.samsonite.com/en-eu/news/samsonite-introduces-trackgo-reliable-solution-usi)
 - 24:19 - Devices Connected to the Internet
 - [iPhreaks Show Episode #158: Internet of Things (IoT) with Olivier Bloch (from Microsoft Build Conference 2016)](https://devchat.tv/iphreaks/158-ips-internet-of-things-iot-with-olivier-bloch)
-28:19 - Threshold of Devices
+  28:19 - Threshold of Devices
 - [A.I. (Artificial Intelligence)](http://www.imdb.com/title/tt0212720/)
 - [Apple HomeKit](http://www.apple.com/ios/homekit/)
-33:05 - Security
+  33:05 - Security
 - [Security in the Internet of Things](http://pages.path.windriver.com/-WP-IoT-security-in-the-internet-of-things)
 - [TechCrunch - Why IoT Security Is So Critical](https://techcrunch.com/2015/10/24/why-iot-security-is-so-critical/)
-38:57 - Core Bluetooth Work Processes
+  38:57 - Core Bluetooth Work Processes
 - [Texas Instruments Sensor Tags](http://www.ti.com/sensortag)
-&nbsp;Picks
+  &nbsp;Picks
 - [PMKVObserver](https://github.com/postmates/PMKVObserver) (Andrew)
 - [Electric Imp](https://electricimp.com/platform/hardware/) (Andrew)
 - [iPhreaks Episode #030: Building Hardware for iPhones with Joel](https://devchat.tv/iphreaks/030-iphreaks-show-building-hardware-for-iphones-with-joel-stewart)&nbsp;(Andrew)
@@ -75,7 +75,6 @@ tags:
 - [Adafruit Learning System](https://learn.adafruit.com/) (Evan)
 - [BeaconsInSpace](https://www.beaconsinspace.com/) (Evan)
 - [Adam Savage's Maker Faire 2016 Talk](http://www.tested.com/art/makers/572490-adam-savages-maker-faire-2016-talk/) (Evan)
-
 
 ### Transcript
 
@@ -275,7 +274,7 @@ Let’s say – I was thinking maybe forming an application might be good for th
 
 **EVAN:** Wow, but that’s cool. That gets at where we’re driving at here that – and I still think we really are just at the beginning of seeing these things up here so we will see more devices like the Electron.
 
-I’m not sure if the Intel Edison is the same way. It might not be but anyway, if you wanted to get started on something, the particle Photon is, I think, $29. I could be wrong on that but it’s somewhere in the 30-ish range, I believe, and that’s also an excellent way to get started on this especially if you’re looking for that kind of functionality where you really don’t want to be or need to be right next to your devices.
+I’m not sure if the Intel Edison is the same way. It might not be but anyway, if you wanted to get started on something, the particle Photon is, I think, \$29. I could be wrong on that but it’s somewhere in the 30-ish range, I believe, and that’s also an excellent way to get started on this especially if you’re looking for that kind of functionality where you really don’t want to be or need to be right next to your devices.
 
 **LAYNE:** So I’d like to get some opinions on some theoretical stuff. So I think the threshold of the Internet of Things and AI stuff is like jargons from Iron Man; that AI where you can talk to it, get opinions; it can control your whole home, all that kind of stuff. And I think we’re a long way off from that but I have an Amazon Echo and my four year old son, that’s his go-to for information. He’s figured out the, “Hey, I can go to the kitchen and just say ‘hey Alexa’ and ask it any question.” It’s really kind of amazing to see him and that’s how he’s being introduced to this technology.
 
@@ -365,7 +364,7 @@ In this case, the sensor tag, you tell it, “Okay, temperature sensor, go,” a
 
 **CHUCK:** Yeah, I’ve checked that out and it looks really, really interesting, that TI sensor pack.
 
-**EVAN:** Yeah and again, this is what blows my mind which is that again in this scenario with the sensor tag, it’s only $29.00 plus shipping. [Chuckles] So the barrier has been really lowered for us to at least to just start experimenting with it. And when I give talks like the iBeacon one that I’m giving or the CoreBluetooth one, I’m not so much trying to “oh, I’ll teach a little bit about how Bluetooth works – CoreBluetooth and all those things”, but for me the real value is trying to inspire other developers to start thinking of “hey, there are new ways that we can start doing these things. Maybe we can try some of these little prototyping boards or the sensor tag or whatever it is and start playing around with it, come up with really interesting solutions to problem”.
+**EVAN:** Yeah and again, this is what blows my mind which is that again in this scenario with the sensor tag, it’s only \$29.00 plus shipping. [Chuckles] So the barrier has been really lowered for us to at least to just start experimenting with it. And when I give talks like the iBeacon one that I’m giving or the CoreBluetooth one, I’m not so much trying to “oh, I’ll teach a little bit about how Bluetooth works – CoreBluetooth and all those things”, but for me the real value is trying to inspire other developers to start thinking of “hey, there are new ways that we can start doing these things. Maybe we can try some of these little prototyping boards or the sensor tag or whatever it is and start playing around with it, come up with really interesting solutions to problem”.
 
 And most of these sites like – I know Particle has a site – sort of a sub-site to it that – so if you go look up the Particle Photon, they have a project section. And in there – it’s like instructibles. It’s a big list of projects that you can do using the Particle Photon and the Electron showing what other people have done and then you can get some inspiration from that as well. So that’s what I like to do is just nudge people into that direction and say, “Try it out; sometimes it’s frustrating but it’s a lot of fun and it’s something interesting.” I think it really takes iOS development to the next level if you haven’t tried it before, because you no longer just dealing with an app inside the phone or your iPad and maybe dealing – talking with an API and a backend, now you’re starting to go out, reach outside the device and it really expands that in a very interesting way so that you’re talking with these devices.
 
@@ -442,5 +441,3 @@ Also, I have a blog. I haven’t done too much with it but that’s at www.inter
 **CHUCK:** Alright. Well, thank you for coming. Thanks for our new panelists as well. We’ll go ahead and wrap this up and we’ll catch you on next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

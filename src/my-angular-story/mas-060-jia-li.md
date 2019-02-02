@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 060: Jia Li
+  MAS 060: Jia Li
 date: 2018-11-14 11:00:18
 episode_number: 060
 duration: 29:36
 audio_url: https://media.devchat.tv/my-angular-story/MAS_060_Jia_Li.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** [Jia Li](https://twitter.com/jialipassion?lang=en)
 
@@ -118,15 +118,12 @@ END – [CacheFly](https://www.cachefly.com)
 Charles
 
 - [Podcast: MFCEO](https://andyfrisella.com/blogs/mfceo-project-podcast)
-- Audible: [Extreme Ownership by Willink and Babin](https://www.audible.com/pd/Extreme-Ownership-Audiobook/B015TVHUA2) 
-- Audible: [Traveler’s Gift by by Andy Andrews](https://www.audible.com/pd/The-Travelers-Gift-Audiobook/B002V1O4KI) 
+- Audible: [Extreme Ownership by Willink and Babin](https://www.audible.com/pd/Extreme-Ownership-Audiobook/B015TVHUA2)
+- Audible: [Traveler’s Gift by by Andy Andrews](https://www.audible.com/pd/The-Travelers-Gift-Audiobook/B002V1O4KI)
 
 Jia
 
-- [Slack](https://slack.com/lp/two?cvosrc=ppc.google.d_ppc_google_us_en_brand-mv&cvo_creative=256925706868&utm_medium=ppc&utm_source=google&utm_campaign=d_ppc_google_us_en_brand-mv&utm_term=%252Bslack&&cvosrc=ppc.google.%252Bslack&cvo_campaign=&cvo_crid=256925706868&Matchtype=b&utm_source=google&utm_medium=ppc&c3api=5523,256925706868,%252Bslack&gclid=EAIaIQobChMIs7626PLS3gIV0LXACh0POQj0EAAYASAAEgLN5_D_BwE&gclsrc=aw.ds) group – posts on Angular – check them out! 
+- [Slack](https://slack.com/lp/two?cvosrc=ppc.google.d_ppc_google_us_en_brand-mv&cvo_creative=256925706868&utm_medium=ppc&utm_source=google&utm_campaign=d_ppc_google_us_en_brand-mv&utm_term=%252Bslack&&cvosrc=ppc.google.%252Bslack&cvo_campaign=&cvo_crid=256925706868&Matchtype=b&utm_source=google&utm_medium=ppc&c3api=5523,256925706868,%252Bslack&gclid=EAIaIQobChMIs7626PLS3gIV0LXACh0POQj0EAAYASAAEgLN5_D_BwE&gclsrc=aw.ds) group – posts on Angular – check them out!
 - [Angular In-Depth](https://blog.angularindepth.com)
 
-
 ### Transcript
-
-

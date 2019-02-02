@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 046: Eudes Petonnet-Vincent
+  MAS 046: Eudes Petonnet-Vincent
 date: 2018-08-08 18:35:54
 episode_number: 046
 duration: 33:29
 audio_url: https://media.devchat.tv/my-angular-story/MAS_046_Eudes_Petonnet-Vincent.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Eudes Petonnet-Vincent
 
@@ -80,7 +80,4 @@ Eudes
 - [DM of Engineering on Twitter](https://twitter.com/dmofengineering?lang=en)
 - [Conditional Types](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-8.html)
 
-
 ### Transcript
-
-

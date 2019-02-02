@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      063 AiA Live Q&A From October 7th, 2015
+  063 AiA Live Q&A From October 7th, 2015
 date: 2015-10-15 15:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
@@ -35,12 +35,8 @@ tags:
 49:40 - How do you structure a really large Angular application?
 
 - [John Papa’s Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
-Picks
+  Picks
 
 Angular 2 (Patrick)[Angular Tips](http://angular-tips.com/) (Patrick)Observables and the Angular 2 HTTP library (Rob)Go find yourself a local Hackathon (Ward)[Visual Studio Code](https://code.visualstudio.com/) (John)Rob’s [Angular Remote Conf](https://angularremoteconf.com/) talk (Lukas)[The Introduction to Reactive Programming series on Egghead.io](https://egghead.io/series/introduction-to-reactive-programming) (Lukas)[Periscope](https://www.periscope.tv/) (Chuck)[Magnus SnapPod Compact Tabletop Tripod](http://www.bhphotovideo.com/c/product/796363-REG/Magnus_tf_10c_SnapPod_Compact_Tripod.html) (Chuck)[ChargerCity MegaGrab2 Easy-Adjust Smartphone Holder Mount & 360º Swivel Adjustment Selfie Video Recording Camera Tripod Adapter](http://www.amazon.com/gp/product/B008VI7ORA?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00) (Chuck)
 
-
-
 ### Transcript
-
-

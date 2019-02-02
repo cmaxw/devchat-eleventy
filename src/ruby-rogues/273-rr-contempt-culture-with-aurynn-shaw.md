@@ -1,48 +1,48 @@
 ---
 layout: layouts/post.njk
 title: >
-      273 RR Contempt Culture with Aurynn Shaw
+  273 RR Contempt Culture with Aurynn Shaw
 date: 2016-08-17 07:00:11
 episode_number: 273
 duration: 56:34
 audio_url: http://media.devchat.tv/ruby-rogues/RR273ContemptCulture.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 01:11 - Aurynn Shaw Introduction
+
 - [Twitter](https://twitter.com/aurynn)
 - [GitHub](https://github.com/aurynn)
 - [Blog](http://blog.aurynn.com/)
 - [Eiara](http://eiara.nz/)
-01:56 - Contempt Culture
+  01:56 - Contempt Culture
 - [Aurynn Shaw: Contempt Culture](http://blog.aurynn.com/contempt-culture)
 - [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
-07:32 - “But PHP is objectively bad….”; True Objectivity
+  07:32 - “But PHP is objectively bad….”; True Objectivity
 - [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
-10:35 - The History of The Contempt Culture in Tech Spaces12:40 - Reinventing Tools15:00 - “Intent is not magic.”
+  10:35 - The History of The Contempt Culture in Tech Spaces12:40 - Reinventing Tools15:00 - “Intent is not magic.”
 - [Shakesville: Harmful Communication, Part 1: Intent Is Magic](http://www.shakesville.com/2011/12/harmful-communication-part-one-intent.html)
-20:09 - Contempt Culture in the Ruby Community Towards PHP21:56 - Why Contempt Culture Forms
+  20:09 - Contempt Culture in the Ruby Community Towards PHP21:56 - Why Contempt Culture Forms
 - [WDCNZ](http://www.wdcnz.com/)
 - [Luser](https://en.wikipedia.org/wiki/Luser)
 - Power and Goodness
 - [Noblesse Oblige](https://en.wikipedia.org/wiki/Noblesse_oblige)
 - “Design is how it works.”
-29:08 - DevOps and the Disruption of Culture32:34 - [Open Source](https://en.wikipedia.org/wiki/Open-source_software) vs [Free Software](https://en.wikipedia.org/wiki/Free_software)36:33 - Cultural Implications/Ramifications Around Open Source
+  29:08 - DevOps and the Disruption of Culture32:34 - [Open Source](https://en.wikipedia.org/wiki/Open-source_software) vs [Free Software](https://en.wikipedia.org/wiki/Free_software)36:33 - Cultural Implications/Ramifications Around Open Source
 - OpenSSL
 - [Ruby Rogues Episode #144: Passion](https://devchat.tv/ruby-rogues/144-rr-passion)
-41:32 - Service Culture
+  41:32 - Service Culture
 - [Actor-Observer Bias in Social Psychology](https://www.verywell.com/what-is-the-actor-observer-bias-2794813)
-&nbsp;Picks
+  &nbsp;Picks
 - [RODE PSA1 Swivel Mount Studio Microphone Boom Arm](https://www.amazon.com/gp/product/B001D7UYBO/) (Sam)
 - [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking) (Aurynn)
 
-
 ### Transcript
 
- **AURYNN:&nbsp;** I tried to start a podcast and it turns out it's really hard to start a podcast.
+**AURYNN:&nbsp;** I tried to start a podcast and it turns out it's really hard to start a podcast.
 
 **SAM:&nbsp;** Yeah, that's why you hire Mandy.
 
@@ -414,7 +414,7 @@ So there was this conference over the weekend where we had a session about this.
 
 **SAM:** &nbsp; Thank you. This has been a really wonderful and interesting and engaging conversation. I feel like we could both talk about this stuff for hours longer, but in the interest of respecting our listeners' time and my own bladder capacity, I think perhaps we should wrap it up and move to the picks. Since there's only two of us, traditionally, the host goes before the guest.
 
-So, I will just pick one thing which is that I recently this week picked up a RODE PSA1 Mic Boom Arm. This is about $99 on Amazon and it’s this thing that you can either clamp to your desk or you can drill a hole into your desk and set this in. I don’t know if it's considered studio quality but it's quite nice. It's smooth and quiet and it's this boom arm that lets me position my mic pretty much anywhere I want it, and I can't believe that I suffered through using the mic's floor stand for so very long. This thing is wonderful and it's already making my life better. That’s it for my picks. How about you, Aurynn?
+So, I will just pick one thing which is that I recently this week picked up a RODE PSA1 Mic Boom Arm. This is about \$99 on Amazon and it’s this thing that you can either clamp to your desk or you can drill a hole into your desk and set this in. I don’t know if it's considered studio quality but it's quite nice. It's smooth and quiet and it's this boom arm that lets me position my mic pretty much anywhere I want it, and I can't believe that I suffered through using the mic's floor stand for so very long. This thing is wonderful and it's already making my life better. That’s it for my picks. How about you, Aurynn?
 
 **AURYNN:** &nbsp; I think the most major pick I would have over the last two weeks of my life is learning about Design Thinking. And I highly recommend that you go and read the Wikipedia article on Design Thinking and start digging into the [inaudible] user experience because it is fascinating.
 
@@ -431,5 +431,3 @@ So, I will just pick one thing which is that I recently this week picked up a RO
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

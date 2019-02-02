@@ -1,21 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      151 iPS Practical Cross-Platform Swift with JP Simard
+  151 iPS Practical Cross-Platform Swift with JP Simard
 date: 2016-05-05 07:00:00
 episode_number: 151
 duration: 40:31
 audio_url: https://media.devchat.tv/iphreaks/iPS151Cross-PlatformSwift.mp3?rss=true
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 01:06 - JP Simard Introduction
 
-- [Twitter](https://twitter.com/simjp) 
-- [GitHub](https://github.com/jpsim) 
+- [Twitter](https://twitter.com/simjp)
+- [GitHub](https://github.com/jpsim)
 - [Blog](http://www.jpsim.com/)
 - [Realm](https://realm.io/)
 
@@ -48,8 +48,6 @@ tags:
 30:10 - Cross-Platform Swift and RealmPicks
 
 [The Phantom Radio](https://ghostrelationsdept.disney.com) (Andrew)[For Whom the Bell Tolls by Ernest Hemingway](http://www.amazon.com/Whom-Bell-Tolls-Ernest-Hemingway/dp/0684803356) (Jaim)[Flixel: The Case for Pricing Parity for Desktop and Mobile Apps](http://blog.flixel.com/cinemagraph-pro-for-ios-the-case-for-pricing-parity) (Alondo)[The Largest Ever Analysis by Film Dialogue by Gender: 2,000 Scripts, 25,000 Actors, 4 Million Lines](http://polygraph.cool/films/) (JP)
-
-
 
 ### Transcript
 
@@ -242,5 +240,3 @@ That [inaudible] chapter, I’m reading it and I’m like, “This is—“I lit
 **_[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]_**
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

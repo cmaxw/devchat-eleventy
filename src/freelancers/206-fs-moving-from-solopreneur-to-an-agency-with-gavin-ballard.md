@@ -1,27 +1,28 @@
 ---
 layout: layouts/post.njk
 title: >
-      206 FS Moving from Solopreneur to an Agency with Gavin Ballard
+  206 FS Moving from Solopreneur to an Agency with Gavin Ballard
 date: 2016-06-16 07:00:14
 episode_number: 206
 duration: 53:33
 audio_url: http://media.devchat.tv/freelancers/FS206SoloToAgency.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 01:51 - Gavin Ballard Introduction
+
 - [Twitter](https://twitter.com/gavinballard)
 - [Blog](http://gavinballard.com/)
 - [Disco](https://www.discolabs.com/)
 - [Shopify](https://www.shopify.com/?ref=disco)
-02:29 - Going From Solo to Agency04:23 - Realistic Expectations; End Goal12:47 - Niches15:00 - Marketing for Flexibility and Working With Other Team Members17:12 - Changing Roles
+  02:29 - Going From Solo to Agency04:23 - Realistic Expectations; End Goal12:47 - Niches15:00 - Marketing for Flexibility and Working With Other Team Members17:12 - Changing Roles
 - [The Freelancers' Show Episode #200: 200th Episode: DevReps Makeover!](https://devchat.tv/freelancers/200-fs-200th-episode-devreps-makeover)
-26:38 - Finding People
+  26:38 - Finding People
 - [Upwork](https://www.upwork.com/)
-29:32 - Financial Changes34:10 - Managing Your Pipeline38:52 - Choosing a Niche in a Larger Ecosystem43:00 - What if it’s a mistake?44:49 - Starting an Agency&nbsp;Picks
+  29:32 - Financial Changes34:10 - Managing Your Pipeline38:52 - Choosing a Niche in a Larger Ecosystem43:00 - What if it’s a mistake?44:49 - Starting an Agency&nbsp;Picks
 - [ScreenFlow](https://www.telestream.net/screenflow/) (Philip)
 - [Philip's Positioning Crash Course](https://philipmorganconsulting.com/positioning-crash-course/) (Philip)
 - [The Society of Mind by Marvin Minsky](http://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135) (Reuven)
@@ -31,7 +32,6 @@ tags:
 - [Zapier](https://zapier.com/) (Chuck)
 - [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)
 - [Brian Cardarella: Lessons Learned - Three years of running a software consultancy](https://dockyard.com/blog/2014/12/28/lessons-learned-three-years-running-a-software-consultancy) (Gavin)
-
 
 ### Transcript
 
@@ -290,5 +290,3 @@ And then the other thing I thought I’d just quickly recommend was a series of 
 **CHUCK:** Alright. Well, we’ll go ahead and wrap up the show. Thank you for coming Gavin. We’ll catch you all next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

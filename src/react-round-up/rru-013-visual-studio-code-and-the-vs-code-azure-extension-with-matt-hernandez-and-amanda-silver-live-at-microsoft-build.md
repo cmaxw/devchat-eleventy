@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 013: Visual Studio Code and the VS Code Azure Extension with Matt Hernandez and Amanda Silver LIVE at Microsoft Build
+  RRU 013: Visual Studio Code and the VS Code Azure Extension with Matt Hernandez and Amanda Silver LIVE at Microsoft Build
 date: 2018-05-29 10:00:32
 episode_number: 013
 duration: 50:07
 audio_url: https://media.devchat.tv/reactroundup/RRU_013_Visual_Studio_Code_and_the_VS_Code_Azure_Extension_with_Matt_Hernandez_and_Amanda_Silver_LIVE_at_Microsoft_Build.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Charles Max Wood
 
@@ -43,7 +43,7 @@ In this episode, the JavaScript Jabber panelists discuss Visual Studio Code and 
 - Visual debuggers
 - Is it the same plugin to support everything on Azure?
 - Want to target specific services that node developers will take advantage of
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -58,7 +58,7 @@ In this episode, the JavaScript Jabber panelists discuss Visual Studio Code and 
 - [@amandaksilver](https://twitter.com/amandaksilver?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Matt’s GitHub](https://github.com/fiveisprime)
 - [@fiveisprime](https://twitter.com/fiveisprime?lang=en)
-- 
+-
 
 **Picks:**
 
@@ -67,7 +67,7 @@ Charles
 - [Orphan Black](http://www.bbcamerica.com/shows/orphan-black)
 - Shout out to VS Code team
 - [Battle of the Books](http://www.battleofthebooks.org/)
-- 
+-
 
 Matt
 
@@ -76,7 +76,7 @@ Matt
 - [_Yes, And_ by Kelly Leonard](https://www.amazon.com/Yes-Improvisation-Reverses-Creativity-Collaboration-Lessons/dp/0062248545)
 - [_Digital Marketing For Dummies_ by Ryan Deiss](https://www.amazon.com/Digital-Marketing-Dummies-Business-Personal/dp/1119235596)
 - [_Ed Gets His Power Back_ Kickstarter](https://www.kickstarter.com/projects/carrotpantspress/ed-gets-his-power-back-an-electrifying-tale-for-ma)
-- 
+-
 
 Amanda
 
@@ -84,7 +84,4 @@ Amanda
 - [Iggy Peck, Architect](https://www.amazon.com/Iggy-Peck-Architect-Andrea-Beaty/dp/081091106X)
 - [_Tek_ by Patrick McDonnell](https://www.amazon.com/Tek-Modern-Cave-Patrick-McDonnell/dp/0316338052)
 
-
 ### Transcript
-
-

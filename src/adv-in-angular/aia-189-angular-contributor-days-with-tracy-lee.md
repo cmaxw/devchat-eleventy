@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 189: Angular Contributor with Tracy Lee and Stephen Fluin
+  AiA 189: Angular Contributor with Tracy Lee and Stephen Fluin
 date: 2018-05-15 14:40:54
 episode_number: 189
 duration: 42:01
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_189_Angular_Contributor_Days_with_Tracy_Lee.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - John Papa
 - Joe Eames
@@ -62,7 +62,7 @@ In this episode of Adventures in Angular, the panel talks to Tracy Lee and Steve
 - [@ladyleet](https://twitter.com/ladyleet?lang=en)
 - [Tracy’s Medium](https://medium.com/@ladyleet)
 - [Tracy’s GitHub](https://github.com/ladyleet)
-- 
+-
 
 **Picks:**
 
@@ -84,7 +84,4 @@ Stephen
 
 - [update.angular.io](https://update.angular.io/)
 
-
 ### Transcript
-
-

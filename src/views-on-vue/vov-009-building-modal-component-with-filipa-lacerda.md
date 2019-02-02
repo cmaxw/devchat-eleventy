@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 009: Building Modal Component with Filipa Lacerda
+  VoV 009: Building Modal Component with Filipa Lacerda
 date: 2018-05-01 10:00:39
 episode_number: 009
 duration: 1:01:13
 audio_url: https://media.devchat.tv/viewsonvue/VoV_009_Building_Modal_Component_with-Flilipa_Lacerda.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Erik Hanchett
@@ -36,7 +36,7 @@ In this episode of Views on Vue, the panelists discuss building modal component 
 - Accessible components
 - Planning components
 - Steps to writing reusable components
-- Testing 
+- Testing
 - Are there types of accessibility that aren’t handles by area?
 - Seizures
 - [Rachel Nabors VueConf Talk](https://www.youtube.com/watch?v=1kvRMU0114I)
@@ -95,7 +95,4 @@ Filipa
 
 - [Remote Work Podcast](https://www.remoteworkpodcast.com/)
 
-
 ### Transcript
-
-

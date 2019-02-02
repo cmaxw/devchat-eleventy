@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR: 313 Do I need a Front-End Framework?
+  RR: 313 Do I need a Front-End Framework?
 date: 2017-06-07 19:03:12
 episode_number: 313
 duration: 1:09:29
 audio_url: https://media.devchat.tv/ruby-rogues/RR_313.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
@@ -46,8 +46,4 @@ Episode Links:
 
 #### This episode is sponsored by
 
-
-
 ### Transcript
-
-

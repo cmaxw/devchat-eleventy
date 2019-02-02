@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 307: Apollo with Peggy Rayzis
+  JSJ 307: Apollo with Peggy Rayzis
 date: 2018-04-03 13:47:38
 episode_number: 307
 duration: 39:55
 audio_url: https://media.devchat.tv/js-jabber/JSJ_307_Apollo_with_Peggy_Rayzis.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Aimee Knight
@@ -47,7 +47,7 @@ In this episode, the JavaScript Jabber panelists talk about Apollo with Peggy Ra
 - [Max Stoiber blog post](https://dev-blog.apollodata.com/securing-your-graphql-api-from-malicious-queries-16130a324a6b)
 - How would people start using this?
 - [HowtoGraphQL.com](https://www.howtographql.com/)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -98,7 +98,4 @@ Peggy
 - [Workshop.me](https://workshop.me/)
 - [_Thanks for the Feedback_ by Douglas Stone](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0670014664)
 
-
 ### Transcript
-
-

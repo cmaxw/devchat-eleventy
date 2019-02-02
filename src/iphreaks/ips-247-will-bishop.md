@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 247: Will Bishop
+  iPS 247: Will Bishop
 date: 2018-07-16 04:13:58
 episode_number: 247
 duration: 55:15
 audio_url: https://media.devchat.tv/iphreaks/iPS_247_Will_Bishop.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Andrew Madsen
 - Gui Rambo
@@ -48,7 +48,7 @@ In today’s episode, the iPhreaks panel talks to Will Bishop. Will is 16 years 
 - His app [Nano for Reddit](https://itunes.apple.com/gb/app/nano-for-reddit/id1344097185?mt=8)
 - Subscriptions for apps to make a living
 - [SA Confetti View](https://github.com/sudeepag/SAConfettiView)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -81,7 +81,4 @@ Will
 
 - [Outcast](https://itunes.apple.com/us/app/outcast-for-watch/id1326693810?mt=8)
 
-
 ### Transcript
-
-

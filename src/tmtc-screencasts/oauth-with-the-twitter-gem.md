@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      OAuth with the Twitter Gem
+  OAuth with the Twitter Gem
 date: 2010-10-06 08:00:04
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

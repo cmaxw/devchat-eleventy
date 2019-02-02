@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 324: with Kent Beck
+  JSJ 324: with Kent Beck
 date: 2018-08-01 02:00:06
 episode_number: 324
 duration: 1:06:32
 audio_url: https://media.devchat.tv/js-jabber/JSJ_324_with_Kent_Beck.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Joe Eames
@@ -46,7 +46,7 @@ In this episode, the JavaScript Jabber panel talks to Kent Beck. Kent left Faceb
 - Mentor in Ward Cunningham
 - What is it costing us?
 - Why did you decide to leave?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -81,7 +81,4 @@ Kent
 - [_The Field Guide to Understanding 'Human Error'_ by Sidney Dekker](https://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058)
 - [_Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue_ by Ryan Holiday](https://www.amazon.com/Conspiracy-Peter-Gawker-Anatomy-Intrigue-ebook/dp/B07637TDJJ)
 
-
 ### Transcript
-
-

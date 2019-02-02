@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 048: James Shore
+  MRS 048: James Shore
 date: 2018-06-13 10:00:08
 episode_number: 048
 duration: 45:04
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_048_James_Shore.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** James Shore
 
@@ -23,7 +23,7 @@ This week on My Ruby Story, Charles talks to [James Shore](http://www.jamesshore
 - James Shore’s background:
   - Consultant, practitioner, and coauthor of [“The Art of Agile.”](https://www.amazon.com/Art-Agile-Development-Pragmatic-Software/dp/0596527675/ref=asap_bc?ie=UTF8)
 - How did you get into programming?
-  - Began an interest at 15 years old. 
+  - Began an interest at 15 years old.
 - How did you go from hobbyist to a professional?
   - Modem background.
   - [FidoNet](https://en.wikipedia.org/wiki/FidoNet)
@@ -39,13 +39,13 @@ This week on My Ruby Story, Charles talks to [James Shore](http://www.jamesshore
   - In many ways the best learning comes through failure.
   - Design standards.
 - [JavaScript](https://www.javascript.com)
-- If you see a different style – and you can’t get past X, Y, Z – that’s a real sign of immaturity. 
+- If you see a different style – and you can’t get past X, Y, Z – that’s a real sign of immaturity.
   - See past the different styles and find what you could “steal.”
   - Intellectual laziness.
-  - Human condition is to not feel inferior. 
+  - Human condition is to not feel inferior.
   - Of course, not every idea is good, but try and see what is the root.&nbsp;
 - What do you feel like you’ve contributed to the programming industry?
-- And much more! 
+- And much more!
 
 **Links:**
 
@@ -82,7 +82,4 @@ James
 - [Neil Killick](https://twitter.com/neil_killick?lang=en)
 - [Vihart](https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg) – Mathematics Videos
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 039: Justin Gordon
+  MRS 039: Justin Gordon
 date: 2018-04-11 10:00:35
 episode_number: 039
 duration: 51:33
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_039_Justin_Gordon.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Justin Gordon
 
@@ -72,7 +72,4 @@ Justin
 - [Zoom](https://zoom.us/)
 - [Mast.ly](https://mast.ly/)
 
-
 ### Transcript
-
-

@@ -1,38 +1,39 @@
 ---
 layout: layouts/post.njk
 title: >
-      234 FS Productized Services
+  234 FS Productized Services
 date: 2016-12-29 06:00:16
 episode_number: 234
 duration: 1:10:60
 audio_url: https://media.devchat.tv/freelancers/FS234_Productized_Services.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 Introduction
+
 - Productized services
 - Definition
-9:50: Copywriting
+  9:50: Copywriting
 - Understand the problem your service solves.
 - Pricing
-15:30: Testing with productized service
+  15:30: Testing with productized service
 - [Draft](https://draft.nu/)
 - [Ethercycle](https://ethercycle.com/pricing/)
 - [Website Teardowns](http://kurtelster.com/products/websiteteardowns/) (Kai Davis and Kurt Elster)
-19:30: Mobile Onboarding
+  19:30: Mobile Onboarding
 - [Blair Enns](http://www.winwithoutpitching.com/about/)
-28:30: Freelancers just starting out
+  28:30: Freelancers just starting out
 - Hourly billing
 - Screening out clients
 - [Website Rescue](http://websiterescues.com/)
-38:10: Word of mouth
+  38:10: Word of mouth
 - Part of marketing
 - Niches
 - [Expensiveproblem.com](https://expensiveproblem.com/)
-45:50: Downsides to productized services
+  45:50: Downsides to productized services
 - Pricing
 - Start small
 - Low level of collaboration
@@ -40,6 +41,7 @@ Introduction
 - Give options
 
 ### Picks:
+
 [Building the Perfect Sales Page](https://expensiveproblem.com/building-the-perfect-sales-page) (Jonathan)[Internet Archive Wayback Machine](https://archive.org/web/) (Philip)Examples of Productized Services:\* [https://draft.nu/revise/](https://draft.nu/revise/)\* [http://websiterescues.com/](http://websiterescues.com/)\* [https://doubleyouraudience.com/pricing/outreach/](https://doubleyouraudience.com/pricing/outreach/)\* [https://memberup.co/membership-roadmap/](https://memberup.co/membership-roadmap/)\* [http://sessions.superspicymedia.com/](http://sessions.superspicymedia.com/)\* [http://uibreakfast.com/services/](http://uibreakfast.com/services/)&nbsp;[hired.com/freelancershow](http://hired.com/freelancershow)
 
 ### Transcript

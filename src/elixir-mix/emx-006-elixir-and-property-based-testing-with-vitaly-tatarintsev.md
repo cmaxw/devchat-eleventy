@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 006: Elixir and Property-based testing with Vitaly Tatarintsev
+  EMx 006: Elixir and Property-based testing with Vitaly Tatarintsev
 date: 2018-06-05 11:00:42
 episode_number: 006
 duration: 32:00
 audio_url: https://media.devchat.tv/elixir-mix/EMx_006_Elixir_and_Property-based_testing_with_Vitaly_Tatarintsev.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Mark Erikson
@@ -84,7 +84,4 @@ Vitaly
 
 - Find time to review your day and work toward your goals
 
-
 ### Transcript
-
-

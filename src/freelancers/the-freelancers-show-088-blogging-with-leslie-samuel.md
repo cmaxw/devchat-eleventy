@@ -1,20 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      The Freelancers Show 088 - Blogging with Leslie Samuel
+  The Freelancers Show 088 - Blogging with Leslie Samuel
 date: 2013-11-21 13:00:00
 episode_number: 088
-duration: 
+duration:
 audio_url: https://media.devchat.tv/freelancers/FS088Blogging.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 The Freelancers interview Leslie Samuel of the Become A Blogger Blog and The Learning With Leslie Podcast.
-
-
 
 ### Transcript
 

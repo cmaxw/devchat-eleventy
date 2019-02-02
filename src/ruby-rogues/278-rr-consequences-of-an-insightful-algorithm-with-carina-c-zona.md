@@ -1,50 +1,52 @@
 ---
 layout: layouts/post.njk
 title: >
-      278 RR Consequences of an Insightful Algorithm with Carina C Zona
+  278 RR Consequences of an Insightful Algorithm with Carina C Zona
 date: 2016-09-21 06:00:37
 episode_number: 278
 duration: 1:02
 audio_url: https://media.devchat.tv/ruby-rogues/RR278_Consequences_of_an_Insightful_Algorithm_with_Carina_C_Zona.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 0:45 - Introducing Carina C. Zona
+
 - [Website](http://cczona.com/)
 - [Personal Twitter](https://twitter.com/cczona)
 - [Callback Women](http://www.callbackwomen.com/)
 - [We So Crafty](https://wesocrafty.github.io/)
-2:10 - Coding consequences
+  2:10 - Coding consequences
 - [RubyConf 2015 Keynote: “Consequences of an Insightful Algorithm”](https://www.youtube.com/watch?v=Vpr-xDmA2G4)
 - [Slides](http://www.slideshare.net/cczona/consequences-of-an-insightful-algorithm)
 - [Code Newbies discussion](http://www.codenewbie.org/podcast/algorithms)
-6:00 - Examples of consequences
+  6:00 - Examples of consequences
 - [Flickr Deep Learning](https://www.theguardian.com/technology/2015/may/20/flickr-complaints-offensive-auto-tagging-photos)
 - [Google Photo](http://arstechnica.com/business/2015/06/google-dev-apologizes-after-photos-app-tags-black-people-as-gorillas/)
-10:50 - Data quality theories14:05 - Preventable Mistakes and Algorithmic Transparency17:30 - Predictive Policing and Biased Data
+  10:50 - Data quality theories14:05 - Preventable Mistakes and Algorithmic Transparency17:30 - Predictive Policing and Biased Data
 - [“The Reality of Crime-Fighting Algorithms”](http://www.slate.com/articles/technology/future_tense/2015/11/using_data_science_for_predictive_policing_has_serious_civil_liberties_drawbacks.html)
 - [“Machine Bias”](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-22:07 - Coder Responsibility
+  22:07 - Coder Responsibility
 - [Mechanical Turk](https://www.mturk.com/mturk/welcome)
 - [Google Crowdsource App](https://play.google.com/store/apps/details?id=com.google.android.apps.village.boond)
 - “[Social Network Nextdoor Moves To Block Racial Profiling Online](http://www.npr.org/sections/alltechconsidered/2016/08/23/490950267/social-network-nextdoor-moves-to-block-racial-profiling-online)”
 - “[raceAhead: How Nextdoor Reduced Racist Postings Using Empathy](http://fortune.com/2016/08/30/raceahead-how-nextdoor-reduced-racist-postings-using-empathy/)”
-31:35 - Algorithm triggers
+  31:35 - Algorithm triggers
 - [Eric Meyer: “Inadvertent Algorithmic Cruelty”](http://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/)
-37:20 - Fixing a mistake40:15 - Trusting humans versus trusting machines
+  37:20 - Fixing a mistake40:15 - Trusting humans versus trusting machines
 - Facebook Trending Topics
   - [Article on leaked documents](https://www.theguardian.com/technology/2016/may/12/facebook-trending-news-leaked-documents-editor-guidelines)
   - [Former contractor’s experience](https://www.theguardian.com/technology/2016/may/17/facebook-trending-news-team-curators-toxic-work-environment)
   - [Trending topic mistakes](https://techcrunch.com/2016/08/29/facebooks-trending-topics-algorithm-mistake/)
-44:30 - Considering social consequences47:30 - Confronting the uncomfortable50:30 - Fitbit Example
+    44:30 - Considering social consequences47:30 - Confronting the uncomfortable50:30 - Fitbit Example
 - [“How Data From Wearable Tech Can Be Used Against You In A Court Of Law”](http://www.huffingtonpost.com/alexander-howard/how-data-from-wearable-te_b_7698764.html)
 - [“This chicken breast has a surprisingly healthy heart rate, considering it’s dead”](http://metro.co.uk/2016/01/27/this-chicken-breast-has-a-surprisingly-healthy-heart-rate-considering-its-dead-5647836/)
 - [OSFeels 2016 Talk by Emily Gorcenski with chicken example](https://www.youtube.com/watch?v=7rO5knyjDR0)
 
 ### Picks:
+
 [_99 Bottles_ by Sandi Metz](http://www.sandimetz.com/99bottles/) (David)[Vivaldi Browser](https://vivaldi.com/?lang=en_US) (Saron)[Magnetic Sticky Notes](https://teslaamazing.com/) (Saron)[Oregon Shakespeare Festival](https://www.osfashland.org/) (Sam)[Ruby Remote Conf Recordings](https://devchat.tv/ruby-remote-conf-2016) (Charles)[Rails Remote Conf](https://allremoteconfs.com/ruby-2016) (Charles)[Webinars](http://devchat.tv/webinars) (Charles)[Books by Howard Zinn](https://www.amazon.com/Howard-Zinn/e/B000AQ01MQ) (Corina)[_On Food and Cooking_ by Harold McGee](https://www.amazon.com/Food-Cooking-Science-Lore-Kitchen/dp/0684800012)
 
 ### Transcript

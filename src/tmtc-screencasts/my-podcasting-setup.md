@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      My Podcasting Setup
+  My Podcasting Setup
 date: 2012-12-20 16:28:35
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---
@@ -30,4 +30,3 @@ Podcasting Club Setup:
 - [On Stage Foam Ball-Type Mic Windscreen, Black](http://www.amazon.com/gp/product/B0002GXF8Q/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0002GXF8Q) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=B0002GXF8Q)
 - [Hamilton Nu-Era Tabletop Mic Stand](http://www.amazon.com/gp/product/B003VYBD58/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B003VYBD58) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=B003VYBD58)
 - [JVC HA-V570 Supra-Aural Headphones](http://www.amazon.com/gp/product/B0002I5RI0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0002I5RI0) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=B0002I5RI0)
-

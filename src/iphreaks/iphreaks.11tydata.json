@@ -1,4 +1,4 @@
 {
-    "layout": "layouts/post.njk",
-    "image": "/images/podcasts/iPhreaks-500.jpg"
+  "layout": "layouts/post.njk",
+  "image": "/images/podcasts/iPhreaks-500.jpg"
 }

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 335: “CanJS 4.0” with Justin Meyer
+  JSJ 335: “CanJS 4.0” with Justin Meyer
 date: 2018-10-16 10:00:58
 episode_number: 335
 duration: 54:04
 audio_url: https://media.devchat.tv/js-jabber/JSJ_335_CanJS_4.0_with_Justin_Meyer.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Aimee Knight](http://www.aimeemarieknight.com)
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en) (DevChat TV)
@@ -198,7 +198,7 @@ _Justin continues this conversation._
 
 Aimee
 
-- Taking a walk for creativity 
+- Taking a walk for creativity
 - [https://ohshitgit.com](https://ohshitgit.com)
 
 Chris
@@ -220,11 +220,8 @@ Charles
 
 Justin
 
-- The Killing of H2Push 
-- Browser Contributor Days 
+- The Killing of H2Push
+- Browser Contributor Days
 - [JSJ Episode 326 with Tom Dale](https://devchat.tv/js-jabber/jsj-326-conversation-with-ember-co-creator-tom-dale-on-ember-3-0-and-the-future-of-ember/)
 
-
 ### Transcript
-
-

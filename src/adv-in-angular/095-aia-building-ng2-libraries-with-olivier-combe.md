@@ -1,28 +1,30 @@
 ---
 layout: layouts/post.njk
 title: >
-      095 AiA Building NG2 Libraries with Olivier Combe
+  095 AiA Building NG2 Libraries with Olivier Combe
 date: 2016-06-02 07:00:21
 episode_number: 095
 duration: 51:07
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA095BuildingNG2Libs.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 ### Check out [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016)!
-&nbsp;02:17 - Olivier Combe 
+
+&nbsp;02:17 - Olivier Combe
+
 - [Twitter](https://twitter.com/OCombe)
 - [GitHub](https://github.com/ocombe/)
 - [Holimetrix](https://holimetrix.com/)
-03:21 - Why People Want Libraries in Angular 204:13 - Types of Libraries People Might Write05:21 - [ng2-translate](https://github.com/ocombe/ng2-translate)08:02 - TypeScript Problems vs Package Manager Problems10:22 - Collaboration13:17 - Advice For Writing Libraries
+  03:21 - Why People Want Libraries in Angular 204:13 - Types of Libraries People Might Write05:21 - [ng2-translate](https://github.com/ocombe/ng2-translate)08:02 - TypeScript Problems vs Package Manager Problems10:22 - Collaboration13:17 - Advice For Writing Libraries
 - [ng-conf-library](https://github.com/ocombe/ng-conf-library)
-19:47 - Design Considerations25:09 - [ng2-translate](https://github.com/ocombe/ng2-translate) (Cont’d)27:53 - Advice for People Doing Public vs Public Libraries28:45 - Simplicity30:11 - [ng-conf](https://www.ng-conf.org/)32:13 - Working with Systems (i.e. [webpack](https://webpack.github.io/))
+  19:47 - Design Considerations25:09 - [ng2-translate](https://github.com/ocombe/ng2-translate) (Cont’d)27:53 - Advice for People Doing Public vs Public Libraries28:45 - Simplicity30:11 - [ng-conf](https://www.ng-conf.org/)32:13 - Working with Systems (i.e. [webpack](https://webpack.github.io/))
 - [CommonJS](http://requirejs.org/docs/commonjs.html)
 - [Systemjs](https://github.com/systemjs/systemjs)
-36:53 - Upkeep&nbsp;Picks
+  36:53 - Upkeep&nbsp;Picks
 - [Khan Academy](https://www.khanacademy.org/) (Jules)
 - [Redbreast Irish Whiskey](http://www.bevmo.com/redbreast-12-year-old-irish-whiskey--750-ml-.html) (Ward)
 - [Ghost](https://ghost.org) (John)
@@ -33,7 +35,6 @@ tags:
 - [Gravity Forms](http://www.gravityforms.com/) (Chuck)
 - [Zapier](https://zapier.com/) (Chuck)
 - [angular2-library-seed](https://github.com/preboot/angular2-library-seed) (Olivier)
-
 
 ### Transcript
 
@@ -231,7 +232,7 @@ And then you might want to take into account also the different ways to use your
 
 **JOHN:&nbsp;** So, when people are asking you and you're doing a workshop though about creating libraries, what's the main thing you try to give them? Is there some main message you're trying to share with people about your experiences with writing a library? What did you get out of it?
 
-**OLIVIER:&nbsp;** The main idea I think here was to show them that it was simple and that they should do it and not fear that maybe they would be overwhelmed. I think it's the same problem with Angular 2 and tooling around it right now. It might be a bit too much for people to set up a project with the builders and the tooling that they need to set up before they can even code. But in the end if you know all the steps that you have to take, this is not the important part in writing the library. All the tips that I give are really stuff that they shouldn't have to worry about in an ideal world. But they just have to make sure that all the steps are completed and then they can start focusing on the important part of the library, which is the code and documentation and stuff like that. So, I hope that people came out of this workshop with the idea that it was easy to do, which is [chuckles] [inaudible]. We had [inaudible] because the main point of the workshop was to give them steps that might be hard for them but…
+**OLIVIER:&nbsp;** The main idea I think here was to show them that it was simple and that they should do it and not fear that maybe they would be overwhelmed. I think it's the same problem with Angular 2 and tooling around it right now. It might be a bit too much for people to set up a project with the builders and the tooling that they need to set up before they can even code. But in the end if you know all the steps that you have to take, this is not the important part in writing the library. All the tips that I give are really stuff that they shouldn't have to worry about in an ideal world. But they just have to make sure that all the steps are completed and then they can start focusing on the important part of the library, which is the code and documentation and stuff like that. So, I hope that people came out of this workshop with the idea that it was easy to do, which is [chuckles][inaudible]. We had [inaudible] because the main point of the workshop was to give them steps that might be hard for them but…
 
 **JOHN:&nbsp;** Sure, yeah. So, as you attended ng-conf and just changing topics quickly here, you were at ng-conf all last week. Was this the first ng-conf that you had been to?
 
@@ -449,7 +450,7 @@ And then you might want to take into account also the different ways to use your
 
 **CHUCK:&nbsp;** They always give me the look and then I'm like, “I'm not drinking.”
 
-**JOHN:&nbsp;** Yeah, I wouldn't mind being carded once in a while. [Laughs] So picks. Recently, actually just yesterday, I was working on migrating my blog off of some other platforms over to a faster Node platform. And I looked at Ghost. Did a lot of research and evaluation and moved over to actually a hosted model for Ghost. And I'm actually paying for it. And the reason I'm paying for it even though I had a free platform before is not because I can't manage my own blog but I looked at this as I'm paying 40 bucks a month and now if anything goes wrong or any server patch or any upgrade patch or anything else happens I don't have to touch it. Somebody else is handling it for me. I just want to write content and have it go off on a server and exist. So for me, the $40 a month was more than worth not having to worry about this. Because when my blog went down in the past 12 years, which didn't happen a lot but if it did, that was like a time sink. So, I know there are other platforms people can use. What I liked about Ghost is it's wicked fast and there are a lot of great themes out there.
+**JOHN:&nbsp;** Yeah, I wouldn't mind being carded once in a while. [Laughs] So picks. Recently, actually just yesterday, I was working on migrating my blog off of some other platforms over to a faster Node platform. And I looked at Ghost. Did a lot of research and evaluation and moved over to actually a hosted model for Ghost. And I'm actually paying for it. And the reason I'm paying for it even though I had a free platform before is not because I can't manage my own blog but I looked at this as I'm paying 40 bucks a month and now if anything goes wrong or any server patch or any upgrade patch or anything else happens I don't have to touch it. Somebody else is handling it for me. I just want to write content and have it go off on a server and exist. So for me, the \$40 a month was more than worth not having to worry about this. Because when my blog went down in the past 12 years, which didn't happen a lot but if it did, that was like a time sink. So, I know there are other platforms people can use. What I liked about Ghost is it's wicked fast and there are a lot of great themes out there.
 
 And I actually for my second pick, not just my using Ghost Pro but I'm also using CloudFlare to frontend it with DNS. And that's been great because I'm looking at all the content that I get and it caches the requests. It helped me enforce SSL. It's just doing a lot of great stuff and it's actually helping deny some threats that are out there. And I want to give a quick shout-out to both Troy Hunt who did his blog with it and put up a nice little custom theme and to Shane Boyer, a former guest in our show who put his blog over to Ghost as well for giving me some tips and blazing that trail. So, CloudFlare and Ghost.io are my two picks.
 
@@ -502,5 +503,3 @@ Olivier, what are your picks?
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
-
-

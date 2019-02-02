@@ -1,41 +1,42 @@
 ---
 layout: layouts/post.njk
 title: >
-      264 RR Code Hospitality with Nadia Odunayo
+  264 RR Code Hospitality with Nadia Odunayo
 date: 2016-06-15 07:00:23
 episode_number: 264
 duration: 55:01
 audio_url: https://media.devchat.tv/ruby-rogues/RR264CodeHospitality.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 ## Get your [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) tickets!
+
 &nbsp;02:42 - Nadia Odunayo Introduction
+
 - [Twitter](https://twitter.com/nodunayo)
 - [GitHub](https://github.com/nodunayo)
 - [Ignition Works](http://ignition.works/)
 - [Nadia Odunayo: Playing Games in the Clouds](http://confreaks.tv/videos/railsconf2015-playing-games-in-the-clouds)
-05:00 - [Ruby Book Club](http://rubybookclub.com/)11:20 - [Nadia Odunayo: The Guest: A Guide To Code Hospitality @ RailsConf 2016](https://www.youtube.com/watch?v=hHzWG1FltaE)17:23 - Collaboration and Pairing: Guest and Host Roles; Driving and Navigating
+  05:00 - [Ruby Book Club](http://rubybookclub.com/)11:20 - [Nadia Odunayo: The Guest: A Guide To Code Hospitality @ RailsConf 2016](https://www.youtube.com/watch?v=hHzWG1FltaE)17:23 - Collaboration and Pairing: Guest and Host Roles; Driving and Navigating
 - [Coderetreat](http://coderetreat.org/)
 - [Ruby DCamp](http://rubydcamp.org/)
-24:42 - Perspectives and Mapping
+  24:42 - Perspectives and Mapping
 - [Sam Livingston-Gray: Cognitive Shortcuts: Models, Visualizations, Metaphors, and Other Lies @ Cascadia Ruby Conf 2014](http://www.slideshare.net/geeksam/cognitive-shortcuts-models-visualizations-metaphors-and-other-lies-cascadia-ruby-conf-2014)
 - [Cortical Homunculus](https://en.wikipedia.org/wiki/Cortical_homunculus)
 - [Peter Gardiner Motor and Sensory Homunculi](http://imgc.allpostersimages.com/images/P-473-488-90/72/7231/LXWN100Z/posters/peter-gardiner-motor-and-sensory-homunculi.jpg)
-41:04 - [Ruby Central's Opportunity Scholarship Program](http://rubycentral.org/community)
+  41:04 - [Ruby Central's Opportunity Scholarship Program](http://rubycentral.org/community)
 - [Space Babies](https://www.spacebabies.nl/)
-&nbsp;Picks &nbsp;
+  &nbsp;Picks &nbsp;
 - [Case Studies in Apprenticeship](https://medium.com/case-studies-in-apprenticeship/latest) (Coraline)
 - [Everything's an Argument by Andrea A. Lunsford and John J. Ruszkiewicz](http://www.amazon.com/Everythings-Argument-Andrea-Lunsford/dp/1457606062) (Sam)
 - [RIF6 Cube 2-inch Mobile Projector](https://www.amazon.com/gp/product/B00QXS8L6I/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) (Chuck)
 - [Nonviolent Communication: A Language of Life by Marshall B. Rosenberg](http://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034?ie=UTF8&*Version*=1&*entries*=0) (Nadia)
 - [Robert Frank on Dinner Table Economics](http://www.econtalk.org/archives/2016/01/robert_frank_on_3.html) (Nadia)
-&nbsp;See Also
+  &nbsp;See Also
 - [Ruby Rogues Episode #190: Apprenticeship with Joseph Mastey and Jill Lynch of Enova](https://devchat.tv/ruby-rogues/190-rr-apprenticeship-with-joseph-mastey-and-jill-lynch-of-enova)
-
 
 ### Transcript
 
@@ -364,5 +365,3 @@ So, typically the discussion on that podcast is more focused on, it'll take a cu
 **_[Bandwidth for this segment is provided by CacheFly, the world's fastest CDN. Deliver your content fast with CacheFly. Visit C-A-C-H-E-F-L-Y dot com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 331: “An Overview of JavaScript Testing in 2018” with Vitali Zaidman
+  JSJ 331: “An Overview of JavaScript Testing in 2018” with Vitali Zaidman
 date: 2018-09-18 10:00:44
 episode_number: 331
 duration: 54:56
 audio_url: https://media.devchat.tv/js-jabber/JSJ_331_An_Overview_of_JavaScript_Testing_in_2018_with_Vitali_Zaidman.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [AJ O’Neal](https://twitter.com/coolaj86?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Aimee Knight](http://www.aimeemarieknight.com)
@@ -221,7 +221,4 @@ He continues this conversation from here on out.
 - [Book: The Square and The Tower: Networks and Power, from the Freemasons to Facebook by Niall Ferguson](https://www.amazon.com/Square-Tower-Networks-Freemasons-Facebook/dp/0735222916)
 - [My article!](https://medium.com/welldone-software/the-open-source-community-the-great-spontaneous-distributed-collective-effort-e5cbe19df501)
 
-
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Freelancers Show Q&A
+  Freelancers Show Q&A
 date: 2016-09-08 23:00:20
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: page
-tags: 
+tags:
   - page
 ---
 

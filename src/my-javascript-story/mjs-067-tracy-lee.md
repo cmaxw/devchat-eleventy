@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 067: Tracy Lee
+  MJS 067: Tracy Lee
 date: 2018-06-27 14:34:11
 episode_number: 067
 duration: 44:09
 audio_url: https://media.devchat.tv/my-js-story/MJS_067_Tracy_Lee.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Tracy Lee
 
@@ -71,7 +71,4 @@ Tracy
 - [Mermaid Tail Makeup Brushes](https://www.amazon.com/Synthetic-Eyeliner-Foundation-Cosmetic-Well-blended/dp/B071WVJ8RP?th=1)
 - [Beauty Fix Box](https://www.dermstore.com/beautyfix.php)
 
-
 ### Transcript
-
-

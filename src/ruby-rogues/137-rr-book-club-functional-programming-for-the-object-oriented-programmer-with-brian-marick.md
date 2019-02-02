@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      137 RR Book Club - Functional Programming for the Object-Oriented Programmer with Brian Marick
+  137 RR Book Club - Functional Programming for the Object-Oriented Programmer with Brian Marick
 date: 2013-12-25 14:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
@@ -18,7 +18,7 @@ tags:
 
 01:58 - The Making of FPOOP
 
-- [LISP](http://en.wikipedia.org/wiki/Lisp_(programming_language))
+- [LISP](<http://en.wikipedia.org/wiki/Lisp_(programming_language)>)
 - [Clojure](http://clojure.org/)
 - [Leanpub](https://leanpub.com/)
 
@@ -60,10 +60,11 @@ tags:
 41:48 - Organizing Large Functional Programs
 
 ### Book Club
+
 [Ruby Under a Microscope by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](http://www.nostarch.com/) was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](http://nostarch.com/rum). Use the coupon code **ROGUE** for 40% off! _(Coupon expires April 1, 2014.)_
+
 ### Next Week
+
 A Special Surprise
 
 ### Transcript
-
-

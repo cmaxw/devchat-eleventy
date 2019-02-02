@@ -1,4 +1,4 @@
 {
-    "layout": "layouts/post.njk",
-    "blog": true
+  "layout": "layouts/post.njk",
+  "blog": true
 }

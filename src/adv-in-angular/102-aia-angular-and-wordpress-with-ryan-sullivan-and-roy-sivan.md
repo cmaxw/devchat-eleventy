@@ -1,42 +1,44 @@
 ---
 layout: layouts/post.njk
 title: >
-      102 AiA Angular and WordPress with Ryan Sullivan and Roy Sivan
+  102 AiA Angular and WordPress with Ryan Sullivan and Roy Sivan
 date: 2016-07-21 07:00:53
 episode_number: 102
 duration: 34:38
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA102Wordpress.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 ## [Angular Remote Conf](https://allremoteconfs.com/angular-2016)
+
 &nbsp;02:01 - Roy Sivan Introduction
+
 - [Twitter](https://twitter.com/royboy789)
 - [GitHub](https://github.com/royboy789)
 - [Blog](http://www.roysivan.com/)
 - [The WP Crowd Podcast](https://www.thewpcrowd.com/)
-02:23 - Ryan Sullivan Introduction
+  02:23 - Ryan Sullivan Introduction
 - [Twitter](https://twitter.com/ryandonsullivan)
 - [WP Site Care](http://www.wpsitecare.com/)
 - [LoopConf](https://loopconf.com/)
-02:40 - [WordPress](https://wordpress.com/) and Angular05:00 - Authentication and Security
+  02:40 - [WordPress](https://wordpress.com/) and Angular05:00 - Authentication and Security
 - [OAuth](http://oauth.net/)
 - [A Brief Introduction to WordPress Nonces](https://www.tipsandtricks-hq.com/introduction-to-wordpress-nonces-5357)
 - [Hire Otto](https://hireotto.com/)
-07:38 - Data and Plugging Angular Into APIs
+  07:38 - Data and Plugging Angular Into APIs
 - [AppPresser](https://apppresser.com/)
-12:54 - [The REST API](http://www.restapitutorial.com/) and Plugins; Custom Plugins
+  12:54 - [The REST API](http://www.restapitutorial.com/) and Plugins; Custom Plugins
 - [Help Scout](https://www.helpscout.net/)
 - [Asana](https://asana.com/)
 - [Harvest](https://www.getharvest.com/)
 - [Chargify](https://www.chargify.com/)
-21:23 - Displaying Data in WordPress Using Angular
+  21:23 - Displaying Data in WordPress Using Angular
 - [Stripe](https://stripe.com/)
 - [Keen IO](https://keen.io/)
-25:01 - Tutorials
+  25:01 - Tutorials
 - [AngularJS and WordPress: Building a Single-Page Application with Roy Sivan](https://www.lynda.com/AngularJS-tutorials/AngularJS-WordPress-Building-Single-Page-Application/423997-2.html)
 - [JavaScript for WordPress](https://javascriptforwp.com/)
 - [Angular-Wordpress-Theme](https://github.com/royboy789/Angular-Wordpress-Theme)
@@ -44,8 +46,10 @@ tags:
 - [Josh Pollock](http://joshpress.net/)
   - [angular-wp-front-end](https://github.com/CalderaWP/angular-wp-front-end)
 - [WordPress.tv](http://wordpress.tv/)
-- 
+-
+
 Picks
+
 - [Mailgun](https://www.mailgun.com/) (Lukas)
 - [Geoff Goodman](https://twitter.com/g_goodman) updated the embedded view on Plunker (Lukas)
 - [Procrastinate on Purpose: 5 Permissions to Multiply Your Time by Rory Vaden](https://www.amazon.com/Procrastinate-Purpose-Permissions-Multiply-Your/dp/0399170626) (Chuck)
@@ -55,7 +59,6 @@ Picks
 - [Calypso](https://developer.wordpress.com/calypso/) (Ryan)
 - [AppPresser](https://apppresser.com/) (Ryan)
 - [LoopConf](https://loopconf.com/) (Ryan)
-
 
 ### Transcript
 
@@ -242,5 +245,3 @@ The last thing I'll mention is our conference. Again, LoopConf.com in October. L
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
-
-

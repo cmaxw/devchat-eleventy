@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      Native vs React Native featuring Aaron Williams of Sprout Social
+  Native vs React Native featuring Aaron Williams of Sprout Social
 date: 2017-03-27 15:46:25
 episode_number: 056
 duration: 39:51
 audio_url: https://media.devchat.tv/reactnativeradio/React_Native_Radio_Episode_56.mp3
 podcast: react-native-radio
-tags: 
+tags:
   - react_native_radio
   - podcast
 ---
 
- **&nbsp;React Native Radio | Episode 56**
+**&nbsp;React Native Radio | Episode 56**
 
 **<u><span style="text-decoration: none;"> </span></u>**
 
@@ -100,8 +100,4 @@ React Native Elements 0.10
 
 [Lottie](https://github.com/airbnb/lottie-react-native)
 
-
-
 ### Transcript
-
-

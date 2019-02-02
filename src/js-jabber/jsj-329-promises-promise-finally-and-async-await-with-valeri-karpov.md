@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 329: Promises, Promise.finally(), and Async/await with Valeri Karpov
+  JSJ 329: Promises, Promise.finally(), and Async/await with Valeri Karpov
 date: 2018-09-04 10:00:33
 episode_number: 329
 duration: 1:08:31
 audio_url: https://media.devchat.tv/js-jabber/JSJ_329_Promises%2C_Promise.finally%2C_and_Async_await_with_Valeri_Karpov.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - AJ O’Neal
-- Aimee Knight 
+- Aimee Knight
 
 **Special Guests:** Valeri Karpov&nbsp;
 
@@ -134,7 +134,7 @@ In this episode, the panel talks with programmer, Valerie Karpov from Miami, Flo
 - [Kendo UI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
 - [Sentry](https://sentry.io/welcome/)
 - [Digital Ocean](https://www.digitalocean.com/)
-- 
+-
 
 **Picks:**
 
@@ -160,7 +160,4 @@ Val
 - [http://asyncawait.net/jsjabber](http://asyncawait.net/jsjabber)
 - [New E-Book: Mastering Async/Await](http://thecodebarbarian.com/new-ebook-mastering-async-await.html)
 
-
 ### Transcript
-
-

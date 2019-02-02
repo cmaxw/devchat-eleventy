@@ -1,36 +1,37 @@
 ---
 layout: layouts/post.njk
 title: >
-      222 JSJ Nodal with Keith Horwood
+  222 JSJ Nodal with Keith Horwood
 date: 2016-07-27 09:00:37
 episode_number: 222
 duration: 56:47
 audio_url: https://media.devchat.tv/js-jabber/JSJ222Nodal.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 02:35 - Keith Horwood Introduction
+
 - [Twitter](https://twitter.com/keithwhor)
 - [GitHub](https://github.com/keithwhor)
 - [Blog](http://www.keithwhor.com/)
 - [Polybit](https://polybit.com/)
-02:50 - [Nodal](http://www.nodaljs.com/) | [nodal](https://github.com/keithwhor/nodal)
+  02:50 - [Nodal](http://www.nodaljs.com/) | [nodal](https://github.com/keithwhor/nodal)
 - [The LAMP Stack](https://www.turnkeylinux.org/lampstack)
 - [Node.js](https://nodejs.org/en/)
 - [Django](https://www.djangoproject.com/)
 - [Rails](http://rubyonrails.org/)
-05:41 - Frameworks07:56 - Async Flow; Callback Execution
+  05:41 - Frameworks07:56 - Async Flow; Callback Execution
 - [Brian LeRoux](http://brian.io/)
-10:29 - Nodal Use Cases13:11 - [GraphQL](http://graphql.org/)15:07 - [PostgreSQL](https://www.postgresql.org/)17:56 - Developer Evolution
+  10:29 - Nodal Use Cases13:11 - [GraphQL](http://graphql.org/)15:07 - [PostgreSQL](https://www.postgresql.org/)17:56 - Developer Evolution
 - [github.com/poly/dotcom](https://github.com/poly/dotcom)
-24:05 - Scheduled Tasks and Migrations
+  24:05 - Scheduled Tasks and Migrations
 - [Sidekiq](http://sidekiq.org/)
-28:57 - ORM Flexibility33:14 - API Payloads35:24 - The ORM40:37 - Testing43:10 - 1.0?45:18 - Getting Started&nbsp;Picks
+  28:57 - ORM Flexibility33:14 - API Payloads35:24 - The ORM40:37 - Testing43:10 - 1.0?45:18 - Getting Started&nbsp;Picks
 - [The 2016 UtahJS Conference](https://conf.utahjs.com/) (Dave)
-- [Writing good code: how to reduce the cognitive load of your code](http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/) (Aimee) 
+- [Writing good code: how to reduce the cognitive load of your code](http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/) (Aimee)
 - [Natural Calm](http://naturalvitality.com/natural-calm/) (Aimee)
 - Unplugging from technology (Chuck)
 - [#CodeNewbie](https://twitter.com/hashtag/codenewbie) (Chuck)
@@ -41,10 +42,9 @@ tags:
 - [React, IoT, Bots, APIs — Why Web Development Needs a Change](https://medium.com/@keithwhor/react-iot-bots-apis-why-web-development-needs-a-change-299930cec3c6#.x6e4mcfnn) (Keith)
 - [fortran-machine](https://github.com/mapmeld/fortran-machine) (Keith)
 
-
 ### Transcript
 
- **DAVE:&nbsp;** They haven't been able to edit out the nasally portion of my voice yet though, so I can't help you there.
+**DAVE:&nbsp;** They haven't been able to edit out the nasally portion of my voice yet though, so I can't help you there.
 
 **_[This episode is sponsored by Front End Masters. They have a terrific lineup of live courses you can attend either online or in person. They also have a terrific backlog of courses you can watch including JavaScript the Good Parts, Build Web Applications with Node.js, AngularJS In-Depth, and Advanced JavaScript. You can go check them out at FrontEndMasters.com.]_**
 
@@ -415,5 +415,3 @@ When I talk about those other types of systems, like real time systems, launchin
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

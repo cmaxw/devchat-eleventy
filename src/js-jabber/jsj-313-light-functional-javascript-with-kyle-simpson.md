@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 313: Light Functional JavaScript with Kyle Simpson
+  JSJ 313: Light Functional JavaScript with Kyle Simpson
 date: 2018-05-15 14:37:20
 episode_number: 313
 duration: 53:21
 audio_url: https://media.devchat.tv/js-jabber/JSJ_313_Light_Functional_JavaScript_with_Kyle_Simpson.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - AJ ONeal
 - Aimee Knight
@@ -47,7 +47,7 @@ In this episode, the JavaScript Jabber panelists discuss light functional [JavaS
 - Making more readable and reliable code
 - Pulling a time-stamp
 - Defining a side-effect
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -81,7 +81,4 @@ Kyle
 - [Hatch](https://hatchcrypto.io/)
 - [Fluent Conf](https://conferences.oreilly.com/fluent/fl-ca)
 
-
 ### Transcript
-
-

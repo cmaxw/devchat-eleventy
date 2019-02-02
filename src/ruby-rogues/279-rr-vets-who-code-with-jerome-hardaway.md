@@ -1,34 +1,36 @@
 ---
 layout: layouts/post.njk
 title: >
-      279 RR Vets Who Code with Jerome Hardaway
+  279 RR Vets Who Code with Jerome Hardaway
 date: 2016-09-28 06:00:49
 episode_number: 279
 duration: 1:06:30
 audio_url: https://media.devchat.tv/ruby-rogues/RR279_VetsWhoCode_with_Jerome_Hardaway.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 00:45 - Introducing Jerome Hardaway and Vets Who Code
+
 - [Website](http://www.jeromehardaway.co/)
 - [Twitter](https://twitter.com/jeromehardaway)
-3:40 - All about [Vets Who Code](http://vetswhocode.io/)8:00 - Special considerations for the Veteran community
+  3:40 - All about [Vets Who Code](http://vetswhocode.io/)8:00 - Special considerations for the Veteran community
 - [Smashing Magazine](https://www.smashingmagazine.com/)
-13:10 - Coding and social/life skills
+  13:10 - Coding and social/life skills
 - [Interview Cake](https://www.interviewcake.com/)
-21:45 - Veteran lingo and coding 26:45 - Transitioning into the civilian workplace 30:50 - Vets Who Code gender breakdown 35:20 - Connecting with Vets in the tech world
+  21:45 - Veteran lingo and coding 26:45 - Transitioning into the civilian workplace 30:50 - Vets Who Code gender breakdown 35:20 - Connecting with Vets in the tech world
 - [The Murph Challenge](http://themurphchallenge.com/)
 - [Linkedin for Veterans](https://veterans.linkedin.com/)
-41:40 - Expanding Vets Who Code 46:25 - Common jobs for Veterans in tech 50:40 - Vets Who Code success stories 55:00 - Supporting Vets Who Code
+  41:40 - Expanding Vets Who Code 46:25 - Common jobs for Veterans in tech 50:40 - Vets Who Code success stories 55:00 - Supporting Vets Who Code
 - Email: [hello@vetswhocode.io](mailto:hello@vetswhocode.io)
 - Personal email: [jerome@vetswhocode.io](mailto:jerome@vetswhocode.io)
 - [Vets Who Code SwearJar](https://www.getswearjar.com/vets_who_code.html)
 - [Help Vets Who Code go to Dreamforce Conference](https://vetswhocode.kindful.com/?campaign=252078)
 
 ### Picks:
+
 [Scala Parser Combinators](https://github.com/scala/scala-parser-combinators) (Jessica)[Boil the Frog](http://static.echonest.com/BoilTheFrog/)(Coraline)Apple picking (Saron)[Markings notebook](https://www.amazon.com/Markings-C-R-Gibson-Leather-MJ3-4792/dp/B003M6A9CS) (Saron)[RubyConf trailer](https://www.youtube.com/watch?v=SiGWDU2FxrQ) (Saron)[Jerome’s episode on CodeNewbie](http://www.codenewbie.org/podcast/vets-who-code) (Saron)Hot sauce recipe: One tablespoon of Cayenne pepper, one tablespoon of ranch dressing, and one tablespoon of sugar (David)[Balanced Rebellion](http://balancedrebellion.com/) (Charles)[Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Charles)[Tech Inclusion Conference in San Francisco](http://sf16.techinclusion.co/)(Jerome)[SprezzaBox](https://www.sprezzabox.com/) (Jerome)[NootroBox](https://nootrobox.com/) and[NootroBox Sprint](https://nootrobox.com/sprint)(Jerome)
 
 ### Transcript

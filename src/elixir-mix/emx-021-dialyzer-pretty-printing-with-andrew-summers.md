@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 021: “Dialyzer Pretty Printing” with Andrew Summers
+  EMx 021: “Dialyzer Pretty Printing” with Andrew Summers
 date: 2018-10-02 10:00:26
 episode_number: 012
 duration: 53:34
 audio_url: https://media.devchat.tv/elixir-mix/EMx_021%20_Dialyzer_Pretty_Printing_with_Andrew_Summers.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Mark Eriksen
 - Eric Berry
-- **Special Guest:** [Andrew Summers](https://twitter.com/chris_mccord?lang=en) 
+- **Special Guest:** [Andrew Summers](https://twitter.com/chris_mccord?lang=en)
 
 In this episode of Elixir Mix, the panel talks to Andrew Summers who lives in Chicago, currently. Working on Elixir development, and here to talk about how he wrote the dialyzer pretty printer. He is a software engineer for Albert.io, makes cool stuff every day, loves punk music, and Philadelphia sports. The panel talks about the Dialyzer pretty printing, Elixir, code writing, and more!
 
@@ -169,12 +169,12 @@ Andrew: We have enjoyed our time in Elixir. It’s nice.
 - [ERLEX](https://github.com/asummers/erlex)
 - [TypeSpecs](https://hexdocs.pm/elixir/typespecs.html)
 - [Curated Dev News for Busy Developers](https://www.dailynow.co)
-- [EX\_JSON\_SCHEMA](https://github.com/jonasschmidt/ex_json_schema)
+- [EX_JSON_SCHEMA](https://github.com/jonasschmidt/ex_json_schema)
 - [React – Jsonschema – form](https://github.com/mozilla-services/react-jsonschema-form)
 - [Announcing Distillery 2.0](https://dockyard.com/blog/2018/08/23/announcing-distillery-2-0?utm_source=elixirdigest&utm_medium=email&utm_campaign=featured)
 - [Distillery’s documentation!](https://hexdocs.pm/distillery/home.html)
 - [MKDocs](https://www.mkdocs.org)
-- [EX\_Json\_Schema](https://github.com/jonasschmidt/ex_json_schema)
+- [EX_Json_Schema](https://github.com/jonasschmidt/ex_json_schema)
 
 **Sponsors:**
 
@@ -193,7 +193,7 @@ Andrew: We have enjoyed our time in Elixir. It’s nice.
 
 - [Announcing Distillery 2.0](https://dockyard.com/blog/2018/08/23/announcing-distillery-2-0)
 - [MKdocs](https://www.mkdocs.org)
-- https://hexdocs.pm/distillery/home.html. 
+- https://hexdocs.pm/distillery/home.html.
 
 **Charles&nbsp;**
 
@@ -205,7 +205,4 @@ Andrew: We have enjoyed our time in Elixir. It’s nice.
 - [Ex json Schema](https://github.com/jonasschmidt/ex_json_schema)
 - [React json schema from](https://github.com/mozilla-services/react-jsonschema-form)
 
-
 ### Transcript
-
-

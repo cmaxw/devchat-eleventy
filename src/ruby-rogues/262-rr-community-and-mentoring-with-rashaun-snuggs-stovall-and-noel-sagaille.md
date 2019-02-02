@@ -1,43 +1,45 @@
 ---
 layout: layouts/post.njk
 title: >
-      262 RR Community and Mentoring with Ra'Shaun "Snuggs" Stovall and Noel Sagaille
+  262 RR Community and Mentoring with Ra'Shaun "Snuggs" Stovall and Noel Sagaille
 date: 2016-06-01 07:00:21
 episode_number: 262
 duration: 59:03
 audio_url: https://media.devchat.tv/ruby-rogues/RR262CommunityMentoring.mp3?rss=true
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 ### Check out [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016)!
+
 &nbsp;02:12 - Ra’Shaun “Snuggs” Stovall Introduction
+
 - [Twitter](http://twitter.com/snuggsi)
 - [GitHub](https://github.com/snuggs)
-- [Facebook](http://facebook.com/snuggsi )
-02:29 - Noel Sagaille Introduction
-- [Twitter](https://twitter.com/mrbernnz )
+- [Facebook](http://facebook.com/snuggsi)
+  02:29 - Noel Sagaille Introduction
+- [Twitter](https://twitter.com/mrbernnz)
 - [GitHub](https://github.com/mrbernnz)
 - [Censible](http://censible.co)
-02:56 - [The Pomodoro Technique](http://pomodorotechnique.com/)
-- [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law )
-04:43 - Community and Community Leaders
+  02:56 - [The Pomodoro Technique](http://pomodorotechnique.com/)
+- [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
+  04:43 - Community and Community Leaders
 - [The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich by Timothy Ferriss](http://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357)
 - “Hometraining”
 - [Being John Malkovich](http://www.imdb.com/title/tt0120601/)
   - [Polyphasic Sleep](https://en.wikipedia.org/wiki/Polyphasic_sleep)
   - [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung)
-19:11 - Values
+    19:11 - Values
 - [Altruism](https://en.wikipedia.org/wiki/Altruism)
 - [Autonomy](http://www.dictionary.com/browse/autonomy)
-26:02 - Mentorship
+  26:02 - Mentorship
 - Switching Roles
 - Advocacy
 - [Mastermind Groups](http://www.thesuccessalliance.com/what-is-a-mastermind-group.html)
 - Homage
-Picks
+  Picks
 - [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) (Sam)
 - [James Edward Gray II: Implementing the LHC on a Whiteboard](http://confreaks.tv/videos/railsconf2016-implementing-the-lhc-on-a-whiteboard) (Coraline)
 - [Cracking the Coding Interview: 150 Programming Questions and Solutions by Gayle Laakmann McDowell](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) (Coraline)
@@ -48,10 +50,9 @@ Picks
 - [Heroku Pipelines](https://devcenter.heroku.com/articles/pipelines) (Noel)
 - [Dialogue - A proposal by David Bohm, Donald Factor and Peter Garrett](http://www.david-bohm.net/dialogue/dialogue_proposal.html) (Noel)
 
-
 ### Transcript
 
- **CHUCK:&nbsp;** Why you calling me?
+**CHUCK:&nbsp;** Why you calling me?
 
 **_[This episode is sponsored by Hired.com. Every week on hired they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It's totally free for users. And when you're hired, they give you a $1,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you'll get a $2,000 instead. Finally, if you're not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/RubyRogues.]_**
 
@@ -654,5 +655,3 @@ And my second pick was a conversation, I'll send a link. It is a dialogue so to 
 **_[Bandwidth for this segment is provided by CacheFly, the world's fastest CDN. Deliver your content fast with CacheFly. Visit C-A-C-H-E-F-L-Y dot com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

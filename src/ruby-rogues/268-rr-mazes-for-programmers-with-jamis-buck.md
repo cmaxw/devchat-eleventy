@@ -1,44 +1,46 @@
 ---
 layout: layouts/post.njk
 title: >
-      268 RR Mazes For Programmers with Jamis Buck
+  268 RR Mazes For Programmers with Jamis Buck
 date: 2016-07-13 07:00:53
 episode_number: 268
 duration: 47:45
 audio_url: http://media.devchat.tv/ruby-rogues/RR268MazesJamisBuck.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 ## Check out [Angular Remote Conf](https://allremoteconfs.com/angular-2016) and [React Remote Conf](https://allremoteconfs.com/react-2016)
+
 &nbsp;01:55 - Jamis Buck Introduction
+
 - [Twitter](https://twitter.com/jamis)
 - [GitHub](http://weblog.jamisbuck.org/)
 - [Blog](https://github.com/jamis)
 - [Medium.com: Jamis Buck](https://medium.com/@jamis)
-02:57 - Mazes
+  02:57 - Mazes
 - [Mazes for Programmers: Code Your Own Twisty Little Passages by Jamis Buck](https://pragprog.com/book/jbmaze/mazes-for-programmers)
 - [3.5 Random Dungeon Generator for D&D](http://www.myth-weavers.com/generate_dungeon.php)
 - [Mazoo!](http://mazoo.jamisbuck.org/)
-08:01 - Programing can be fun?! Play
+  08:01 - Programing can be fun?! Play
 - [Jamis Buck: Second Wind @ Mountain West Ruby 2016](https://www.youtube.com/watch?v=71suekjBV9Y) (Talk on burnout)
-11:49 - Historical and Traditional vs Technical Mazes13:51 - Jamis’ Backstory with Mazes; Algorithms
+  11:49 - Historical and Traditional vs Technical Mazes13:51 - Jamis’ Backstory with Mazes; Algorithms
 - [Hunt-and-Kill Algorithm](http://weblog.jamisbuck.org/2011/1/24/maze-generation-hunt-and-kill-algorithm)
 - [Wilson's Algorithm](http://weblog.jamisbuck.org/2011/1/20/maze-generation-wilson-s-algorithm) &nbsp;
 - [Eller's Algorithm](http://weblog.jamisbuck.org/2010/12/29/maze-generation-eller-s-algorithm)
- 21:14 - Discovering Algorithms
+  21:14 - Discovering Algorithms
 - [Think Labyrinth](http://www.astrolog.org/labyrnth/maze.htm)
 - [Neo4j](https://neo4j.com/)
-28:01 - Varying Algorithms
+  28:01 - Varying Algorithms
 - [AST (Abstract Syntax Tree)](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
-36:38 - Writing a Book
+  36:38 - Writing a Book
 - [Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
-39:16 - Text App for Generating Mazes
+  39:16 - Text App for Generating Mazes
 - [ASCII](https://en.wikipedia.org/wiki/ASCII)
 - [ChunkyPNG](http://chunkypng.com/)
-&nbsp;Picks
+  &nbsp;Picks
 - [The Walking Dead](http://www.amc.com/shows/the-walking-dead) (Sam)
 - [The Codeless Code](http://thecodelesscode.com/contents) (Coraline)
 - [Jurgen, A Comedy of Justice](https://en.wikipedia.org/wiki/Jurgen,_A_Comedy_of_Justice) (Jessica)
@@ -49,10 +51,9 @@ tags:
 - [Productive](http://productiveapp.io/) (Jamis)
 - [Kerbal Space Program](http://kerbalspaceprogram.com) (Jamis)
 
-
 ### Transcript
 
- **CHUCK:&nbsp;** Pull out your knitting project.
+**CHUCK:&nbsp;** Pull out your knitting project.
 
 **_[This episode is sponsored by Hired.com. Every week on Hired they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they give you a $1,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $2,000 instead. Finally, if you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/RubyRogues.]_**
 
@@ -427,5 +428,3 @@ The other Pick, it's kind of the opposite end of the spectrum, how to waste time
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

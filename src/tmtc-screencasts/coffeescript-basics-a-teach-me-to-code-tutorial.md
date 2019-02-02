@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      CoffeeScript Basics - A Teach Me To Code Tutorial
+  CoffeeScript Basics - A Teach Me To Code Tutorial
 date: 2011-04-15 04:00:23
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

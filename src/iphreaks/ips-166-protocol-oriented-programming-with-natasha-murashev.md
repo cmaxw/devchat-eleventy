@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 166 Protocol-Oriented Programming with Natasha Murashev
+  iPS 166 Protocol-Oriented Programming with Natasha Murashev
 date: 2016-08-18 07:00:06
 episode_number: 166
 duration: 41:42
 audio_url: https://media.devchat.tv/iphreaks/iPS166ProtocolOrientedProgramming.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 01:58 - Natasha Murashev Introduction
+
 - [@NatashaTheRobot](http://www.twitter.com/NatashaTheRobot)
 - [@natashathenomad](https://twitter.com/natashathenomad) &nbsp;
 - [GitHub](https://github.com/NatashaTheRobot)
@@ -20,19 +21,19 @@ tags:
 - [This Week in Swift Newsletter](https://swiftnews.curated.co/)
 - [The iPhreaks Show Episode #092: Unit Testing with NatashaTheRobot](https://devchat.tv/iphreaks/092-ips-unit-testing-with-natashatherobot)
 - [try! Swift](http://www.tryswiftconf.com/)
-  - [try! Swift NYC](http://www.tryswiftnyc.com/) Use discount code **IPHREAKS100** for $100 off a ticket!
-02:31 - Protocol-Oriented Programming
+  - [try! Swift NYC](http://www.tryswiftnyc.com/) Use discount code **IPHREAKS100** for \$100 off a ticket!
+    02:31 - Protocol-Oriented Programming
 - [Natasha Murashev: Practical Protocol-Oriented-Programming](https://realm.io/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)
 - [WWDC 2015: Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/)
-03:49 - How Protocols Were Used Prior to Swift; Benefits08:12 - Benefits in Regards to Testing09:03 - Protocols in Swift vs Objective-C10:18 - Downsides/Pitfalls When Using Protocols13:04 - [Associated Types](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html) and [Type Erasure](https://en.wikipedia.org/wiki/Type_erasure)
+  03:49 - How Protocols Were Used Prior to Swift; Benefits08:12 - Benefits in Regards to Testing09:03 - Protocols in Swift vs Objective-C10:18 - Downsides/Pitfalls When Using Protocols13:04 - [Associated Types](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html) and [Type Erasure](https://en.wikipedia.org/wiki/Type_erasure)
 - [Hector Matos @ AltConf 2016 - Type Erasure Magic](https://speakerdeck.com/hectormatos2011/type-erasure-magic)
 - [Gwendolyn Weston: Keep Calm and Type Erase On](https://realm.io/news/tryswift-gwendolyn-weston-type-erasure/)
-17:02 - Keeping Code Clean
+  17:02 - Keeping Code Clean
 - [The Ghost of Swift Bugs Future](https://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future)
-21:22 - Does protocol-oriented programming change the architecture of your apps substantially?22:06 - Structs \> Classes25:13 - Protocol-oriented Programming Code Examples
+  21:22 - Does protocol-oriented programming change the architecture of your apps substantially?22:06 - Structs \> Classes25:13 - Protocol-oriented Programming Code Examples
 - [Natasha's Talk](https://realm.io/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)
 - [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/)
-27:05 - Changes With Swift 3?28:03 - [try! Swift](http://www.tryswiftconf.com/)&nbsp;Picks
+  27:05 - Changes With Swift 3?28:03 - [try! Swift](http://www.tryswiftconf.com/)&nbsp;Picks
 - [NorthFace Surge Transit Backpack](https://www.thenorthface.com/shop/surge-transit-backpack-nf0a2zcp) (Alondo)
 - [Andy Matuschak: Let’s Play: Refactor the Mega-Controller @ NSSpain](https://vimeo.com/140037432) (Alondo)
 - [The Well of Ascension (Mistborn, Book 2) by Brandon Sanderson](https://www.amazon.com/Well-Ascension-Mistborn-Book/dp/0765356139) (Layne)
@@ -48,10 +49,9 @@ tags:
 - [Win the Crowd: Unlock the Secrets of Influence, Charisma, and Showmanship by Steve Cohen](https://www.amazon.com/Win-Crowd-Steve-Cohen-ebook/dp/B000N2HD3W/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) (Natasha)
 - [Rainbow Bagels](http://www.thebagelstoreonline.com/) (Natasha)
 
-
 ### Transcript
 
- **CHUCK:** Cloudcasting from the local ramen restaurant.
+**CHUCK:** Cloudcasting from the local ramen restaurant.
 
 **_[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York and L.A. bid on iOS developers, providing them with salary and equity upfront. The average iOS developer gets an average of 5-15 introductory offers and an average salary offer of $130,000/year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It’s totally free for users, and when you’re hired they also give you a $1,000 signing bonus as a thank you for using them. But if you use the iPhreaks link, you’ll get a $2,000 bonus instead. Finally, if you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/iphreaks]_**
 
@@ -123,7 +123,7 @@ So with Swift, protocols are taken to the next level with protocol extensions wh
 
 **ALONDO:** Are there any benefits with regards to testing when using a protocol-oriented approach?
 
-**NATASHA:** It could be. Again, it’s just – obviously you can use anything for that [chuckles] [inaudible] but one thing with protocols is again, like in Swift, where you're supposed to be using value types instead of reference types of classes. So with structs, you can’t subclass them, but you can have them in a test conform to – you can have a fake version of a struct, then you can have it – instead of subclassing it, you can have it conform to the same protocol as the original struct, so you can use it to add fake objects without subclassing.
+**NATASHA:** It could be. Again, it’s just – obviously you can use anything for that [chuckles][inaudible] but one thing with protocols is again, like in Swift, where you're supposed to be using value types instead of reference types of classes. So with structs, you can’t subclass them, but you can have them in a test conform to – you can have a fake version of a struct, then you can have it – instead of subclassing it, you can have it conform to the same protocol as the original struct, so you can use it to add fake objects without subclassing.
 
 But yeah, if you write cleaner code, then you’ll have better tests; or the vice versa – if you can write testing first if you write cleaner code.
 
@@ -289,7 +289,7 @@ Yeah, Tokyo will be a lot of fun. I know everyone wants us to do it. And the fun
 
 **CHUCK:** Very cool. Well, before we get to picks, do you want to let people know anything else you're working on or how to follow you on Twitter – anything like that?
 
-**NATASHA:** Sure. Online I’m Natasha The Robot for anything Swift. And it’s natashatherobot.com or @natashatherobot on Twitter. I do have another Twitter for my travel or digital nomad personality and it’s called @natashathenomad. Also, if you do want to come to the conference, I do have a discount code. If you use the discount code IPHREAKS100, you'll get a $100 off and it is only – we don’t have that many tickets, so get the tickets fast. I think that’s it.
+**NATASHA:** Sure. Online I’m Natasha The Robot for anything Swift. And it’s natashatherobot.com or @natashatherobot on Twitter. I do have another Twitter for my travel or digital nomad personality and it’s called @natashathenomad. Also, if you do want to come to the conference, I do have a discount code. If you use the discount code IPHREAKS100, you'll get a \$100 off and it is only – we don’t have that many tickets, so get the tickets fast. I think that’s it.
 
 **CHUCK:** Alright. Well, let’s go ahead and do some picks. Alondo, do you want to start us off with picks?
 
@@ -346,5 +346,3 @@ And finally, I’m going to talk about my big thing. When I travel and I go to a
 **CHUCK:** We’ll wrap it up, and we’ll catch everyone next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

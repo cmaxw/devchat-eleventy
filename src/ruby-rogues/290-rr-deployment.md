@@ -1,26 +1,27 @@
 ---
 layout: layouts/post.njk
 title: >
-      290 RR Deployment
+  290 RR Deployment
 date: 2016-12-14 06:00:28
 episode_number: 290
 duration: 1:05:34
 audio_url: https://media.devchat.tv/ruby-rogues/RR_290_Deployment.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 00:45 - What deployments have we used?3:22 - [Heroku](https://www.heroku.com/)5:10 - Dev/prod parity10:30 - Deployment stories11:50 - Continuous deployment
+
 - [CircleCI](https://circleci.com/)
 - [SnapCI](https://snap-ci.com/)
-15:55 - Working with clients that are anti-testing and writing tests28:50 - Server setup
+  15:55 - Working with clients that are anti-testing and writing tests28:50 - Server setup
 - [Docker](https://www.docker.com/)
 - [Chef](https://www.chef.io/chef/)
-34:05 - [Nginx](https://www.nginx.com/) and [Passenger](https://www.phusionpassenger.com/)39:35 - Handling caching issues and increasing server space44:25 - Methods for deploying46:30 - Team size and deployment
+  34:05 - [Nginx](https://www.nginx.com/) and [Passenger](https://www.phusionpassenger.com/)39:35 - Handling caching issues and increasing server space44:25 - Methods for deploying46:30 - Team size and deployment
 - [Capistrano](http://capistranorb.com/)
-49:40 - Monitoring tools
+  49:40 - Monitoring tools
 - [Code Climate](https://codeclimate.com/)
 - [Honey Badger](https://www.honeybadger.io/)
 - [Zabbix](http://www.zabbix.com/)
@@ -29,6 +30,7 @@ tags:
 - [JSJ 138 with Todd Gardner](https://devchat.tv/js-jabber/138-jsj-trackjs-with-todd-gardner)
 
 ### **Picks:**
+
 [_Dinosaur Odyssey_](https://www.amazon.com/Dinosaur-Odyssey-Fossil-Threads-Life/dp/0520269896) by Scott Sampson (Jason)[_Shadows of Forgotten Ancestors_](https://www.amazon.com/Shadows-Forgotten-Ancestors-Carl-Sagan/dp/0345384725) by Carl Sagan (Jason)[_Rails Solutions: Ruby on Rails Made Easy_](https://www.amazon.com/Rails-Solutions-Ruby-Made-Easy/dp/1590597524) by Justin Williams (Jerome)[_Take My Money: Accepting Payments on the Web_ by Noel Rappin](https://www.amazon.com/Take-My-Money-Accepting-Payments/dp/1680501992) (Brian)[_Deploying with JRuby_ by Joe Kutner](https://pragprog.com/book/jkdepj/deploying-with-jruby) (Brian)[RR Episode 281 with Noel Rappin](https://devchat.tv/ruby-rogues/281-rr-take-my-money-with-noel-rappin)[RR 150 with Joe Kutner](https://www.youtube.com/watch?v=BlC9U0cqCbg)[Echo Dot](https://www.amazon.com/All-New-Amazon-Echo-Dot-Add-Alexa-To-Any-Room/dp/B01DFKC2SO) (Charles)[_The Life-Changing Magic of Tidying Up_ by Marie Kondo](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308) (Brian)[_Getting Things Done_ by David Allen](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280) (Charles)
 
 ### Transcript

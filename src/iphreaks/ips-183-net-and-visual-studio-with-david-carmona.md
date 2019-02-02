@@ -1,21 +1,24 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 183 .NET and Visual Studio with David Carmona
+  iPS 183 .NET and Visual Studio with David Carmona
 date: 2016-12-15 06:00:45
 episode_number: 183
 duration: 43:18
 audio_url: https://media.devchat.tv/iphreaks/iPS183_NET_and_Visual_Studio_with_David_Carmona.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 00:16 Intro to David Carmona from Microsoft
+
 - .NET, Visual Studio
-1:46 Overview of .NET8:39 .NET Core open source vs. .NET14:09 C# language and .NET platform18:33 Async/Await25:26 Visual Studio and IntelliSense27:42 Live unit testing34:52 Getting started in .NET36:51 Visual Studio for Mac and .NET for iOS development
+  1:46 Overview of .NET8:39 .NET Core open source vs. .NET14:09 C# language and .NET platform18:33 Async/Await25:26 Visual Studio and IntelliSense27:42 Live unit testing34:52 Getting started in .NET36:51 Visual Studio for Mac and .NET for iOS development
+
 ### Picks
+
 [Kasia’s Deli](http://www.kasiasdeli.com/) (Jaim)[Cadiz, Spain](https://en.wikipedia.org/wiki/C%C3%A1diz) (David)[Donovan Brown demo on DevOps](http://donovanbrown.com/) (David)&nbsp;[Hired.com](https://hired.com/join/?utm_campaign=q2-16-podcast&utm_content=2k&utm_medium=iphreaks&utm_source=podcast&utm_term=cat-tech-ios)
 
 ### Transcript

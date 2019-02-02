@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 054: Mark Locklear
+  MRS 054: Mark Locklear
 date: 2018-08-01 12:32:58
 episode_number: 054
 duration: 49:57
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_054_Mark_Locklear.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Mark Locklear
 
@@ -80,7 +80,4 @@ Mark
 - [Wicked Weed Brewing](https://www.wickedweedbrewing.com/)
 - [_The Perfectionists_ by Simon Winchester](https://www.amazon.com/Perfectionists-Precision-Engineers-Created-Modern/dp/0062652559)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 203: "Where To Store Angular Configurations" with Dave Bush
+  AiA 203: "Where To Store Angular Configurations" with Dave Bush
 date: 2018-08-21 10:00:31
 episode_number: 203
 duration: 1:00:47
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_203_Where_To_Store_Angular_Configurations_with_Dave_Bush.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - John Papa
@@ -21,7 +21,7 @@ tags:
 
 **Special Guests:** Dave Bush
 
-In this episode, the Adventures in Angular panel talks to Dave Bush about his blog post [_Where To Store Angular Configurations_](https://davembush.github.io/where-to-store-angular-configurations/). Dave has been programming for 30 years both in the .net and [JavaScript](https://www.javascript.com/) spaces, and has been working with [Angular](https://angular.io/) since it first came out. They talk about the inspiration for writing this post, config.json, and APP\_INITIALIZER. They also touch on optimizing, if he ever worked with [Angular.js](https://angularjs.org/), and more!
+In this episode, the Adventures in Angular panel talks to Dave Bush about his blog post [_Where To Store Angular Configurations_](https://davembush.github.io/where-to-store-angular-configurations/). Dave has been programming for 30 years both in the .net and [JavaScript](https://www.javascript.com/) spaces, and has been working with [Angular](https://angular.io/) since it first came out. They talk about the inspiration for writing this post, config.json, and APP_INITIALIZER. They also touch on optimizing, if he ever worked with [Angular.js](https://angularjs.org/), and more!
 
 **In particular, we dive pretty deep on:**
 
@@ -35,18 +35,18 @@ In this episode, the Adventures in Angular panel talks to Dave Bush about his bl
 - Downsides to config.json
 - Replicating on dev servers
 - Local hosts
-- What is APP\_INITIALIZER?
-- The cost of APP\_INITIALIZER
+- What is APP_INITIALIZER?
+- The cost of APP_INITIALIZER
 - Optimizing
 - Making an environment agnostic
 - Did you ever work with [Angular.js](https://angularjs.org/)?
-- Pros to the APP\_INITIALIZER
+- Pros to the APP_INITIALIZER
 - [jQuery](https://jquery.com/)
 - Great tips from his article
 - Making one build that works in any environment
 - Moving towards optimization
 - Source maps
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -92,7 +92,4 @@ Dave
 - High-fat, low-carb diet
 - [MTailor](https://www.mtailor.com/)
 
-
 ### Transcript
-
-

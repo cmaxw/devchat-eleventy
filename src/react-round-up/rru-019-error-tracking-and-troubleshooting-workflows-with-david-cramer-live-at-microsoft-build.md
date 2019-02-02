@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 019: Error Tracking and Troubleshooting Workflows with David Cramer LIVE at Microsoft Build
+  RRU 019: Error Tracking and Troubleshooting Workflows with David Cramer LIVE at Microsoft Build
 date: 2018-07-11 19:52:14
 episode_number: 019
 duration: 28:13
 audio_url: https://media.devchat.tv/reactroundup/RRU_019_Error_Tracking_and_Troubleshooting_Workflows_with_David_Cramer_LIVE_at_Microsoft%20Build.mp
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Alyssa Nicholl
@@ -25,7 +25,7 @@ In this episode, the React Round Up panelists talk to David Cramer about error t
 **In particular, we dive pretty deep on:**
 
 - David intro
-- Founder and CEO of [Sentry](https://sentry.io/welcome/) 
+- Founder and CEO of [Sentry](https://sentry.io/welcome/)
 - What is Sentry?
 - Working with PHP
 - De-bugger for production
@@ -43,7 +43,7 @@ In this episode, the React Round Up panelists talk to David Cramer about error t
 - Can work with any language
 - Deep contexts
 - Determining the root cause
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -76,7 +76,4 @@ David
 - [VS Code](https://code.visualstudio.com/)
 - [Kubernetes](https://kubernetes.io/)
 
-
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Polymorphism with Many-to-Many Associations - A Teach Me To Code Tutorial
+  Polymorphism with Many-to-Many Associations - A Teach Me To Code Tutorial
 date: 2011-06-03 20:32:03
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

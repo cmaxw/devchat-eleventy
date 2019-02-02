@@ -1,24 +1,24 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 267: Node 8.0 with Mikeal Rogers, Arunesh Chandra, and Anna Henningsen
+  JSJ 267: Node 8.0 with Mikeal Rogers, Arunesh Chandra, and Anna Henningsen
 date: 2017-06-27 04:00:19
 episode_number: 267
 duration: 52:16
 audio_url: https://devchat.cachefly.net/javascriptjabber/JSJ_267_Node8.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
-* * *
+---
 
 #### JSJ 267 Node 8 with Mikeal Rogers, Arunesh Chandra, and Anna Henningsen
 
 On today’s episode of JavaScript Jabber we have panelists Joe Eames, AJ O’Neil, Amiee Knight and Charles Max Wood and we are talking about Node 8. To help us we have special guests Mikeal Rodgers, Arunesh Chandra, and Anna Henningsen. It’s going to be a great show. Tune in.
 
-* * *
+---
 
 ##### [1:56] Is Node 8 just an update or is there more?
 
@@ -238,7 +238,7 @@ On today’s episode of JavaScript Jabber we have panelists Joe Eames, AJ O’Ne
 - Report problems to either [NPM](http://github.com/nmp/nmp) or [Node](http://github.com/nodejs/node)
 - If you’re not sure where the problem is, check [github.com/nodejs/help](http://github.com/nodejs/help)
 
-* * *
+---
 
 #### Links
 
@@ -246,7 +246,7 @@ On today’s episode of JavaScript Jabber we have panelists Joe Eames, AJ O’Ne
 
 Mikael on [Twitter](https://twitter.com/mikeal) and [GitHub](https://github.com/mikeal)Arunesh on [Twitter](https://twitter.com/AruneshC)Anna on [Twitter](https://twitter.com/addaleax)
 
-* * *
+---
 
 #### Picks
 
@@ -276,9 +276,6 @@ Mikael on [Twitter](https://twitter.com/mikeal) and [GitHub](https://github.com/
 
 Current Nightly News
 
-* * *
-
+---
 
 ### Transcript
-
-

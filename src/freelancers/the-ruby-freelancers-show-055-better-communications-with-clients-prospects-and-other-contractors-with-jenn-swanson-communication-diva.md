@@ -1,20 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      The Ruby Freelancers Show 055 – Better Communications with Clients, Prospects, and other Contractors with Jenn Swanson (Communication Diva)
+  The Ruby Freelancers Show 055 – Better Communications with Clients, Prospects, and other Contractors with Jenn Swanson (Communication Diva)
 date: 2013-04-04 15:00:00
 episode_number: 055
-duration: 
+duration:
 audio_url: https://media.devchat.tv/freelancers/RFS055BetterCommunication.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 Panel Jenn Swanson (twitter Communication Diva eBook) Eric Davis (twitter github blog) Ashe Dryden (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 00:32 - Jenn Swanson Introduction C...
-
-
 
 ### Transcript
 

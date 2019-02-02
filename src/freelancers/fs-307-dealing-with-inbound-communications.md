@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 307: Dealing with Inbound Communications
+  FS 307: Dealing with Inbound Communications
 date: 2018-08-02 05:14:54
 episode_number: 307
 duration: 49:12
 audio_url: https://media.devchat.tv/freelancers/FS_307_Dealing_with_Inbound_Communications.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Jonathan Stark
 - Erik Dietrich
@@ -30,7 +30,7 @@ In this episode of the Freelancers’ Show, the panelists discuss dealing with i
 - Moving urgent client communication to Slack
 - The difference between Slack and Email
 - Declaring email bankruptcy
-- The ability to ignore email inbox 
+- The ability to ignore email inbox
 - Gmail plugins to help
 - Buffering emails
 - Only checking slack for paying customers
@@ -69,7 +69,4 @@ Erik
 - [SiteGround](https://www.siteground.com/)
 - [Calendly](https://calendly.com/)
 
-
 ### Transcript
-
-

@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 337: Microstates.js – Composable State Primitives for JavaScript with Charles Lowell & Taras Mankovski
+  JSJ 337: Microstates.js – Composable State Primitives for JavaScript with Charles Lowell & Taras Mankovski
 date: 2018-10-30 10:00:01
 episode_number: 337
 duration: 1:18:15
 audio_url: https://media.devchat.tv/js-jabber/JSJ_337_Microstates.js_Composable_State_Primitives_for_JavaScript_with_Taras_Mankovski.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Aimee Knight
 - Charles Max Wood
-- Joe Eames 
-- AJ O’Neil 
+- Joe Eames
+- AJ O’Neil
 - Chris Ferdinandi&nbsp;
 
 **Special Guests:** [Charles Lowell](https://twitter.com/cowboyd?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor) (New Mexico) & [Taras Mankovski](https://twitter.com/tarasm?lang=en) (Toronto)
@@ -234,7 +234,7 @@ Joe
 
 - [The Developer Experience Bait and Switch](https://infrequently.org/2018/09/the-developer-experience-bait-and-switch/?mc_cid=796f819484&mc_eid=925d8efdf6)
 - [Good Bye Redux](https://hackernoon.com/goodbye-redux-26e6a27b3a0b)
-- Recording Dungeon and Dragons 
+- Recording Dungeon and Dragons
 
 AJ
 
@@ -249,7 +249,4 @@ Charles
 - Podwrench.com -&nbsp; beta
 - getacoderjob.com
 
-
 ### Transcript
-
-

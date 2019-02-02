@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      259 RR Pair Programming with Jay Bobo of Pair Columbus
+  259 RR Pair Programming with Jay Bobo of Pair Columbus
 date: 2016-05-11 07:00:31
 episode_number: 259
 duration: 01:01:59
-audio_url: https://media.devchat.tv/ruby-rogues/RR259JayBobo.mp3?rss=true 
+audio_url: https://media.devchat.tv/ruby-rogues/RR259JayBobo.mp3?rss=true
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 01:59 - Jay Bobo Introduction
 
-- [Twitter](https://twitter.com/jaybobo) 
+- [Twitter](https://twitter.com/jaybobo)
 - [GitHub](https://github.com/jaybobo)
 - [Pair Columbus](http://paircolumbus.org/)
 
@@ -22,12 +22,12 @@ tags:
 
 07:28 - Meeting Formats
 
-- [OWASP](https://www.owasp.org/index.php/Main_Page) 
-- [Challenges](http://paircolumbus.org/challenges/) 
+- [OWASP](https://www.owasp.org/index.php/Main_Page)
+- [Challenges](http://paircolumbus.org/challenges/)
 
 11:21 - Organization
 
-- [@cowboyd Tweet](https://twitter.com/cowboyd/status/723174606027124737) 
+- [@cowboyd Tweet](https://twitter.com/cowboyd/status/723174606027124737)
 
 14:57 - Attendee Experience Levels
 
@@ -37,7 +37,7 @@ tags:
 
 19:33 - [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming) and Communication/Chemistry
 
-- [Dan North - Embracing uncertainty: why you should and why you won’t](http://www.ustream.tv/recorded/86148915) 
+- [Dan North - Embracing uncertainty: why you should and why you won’t](http://www.ustream.tv/recorded/86148915)
 - [Jay Bobo: Do u even pair bro?](http://slides.com/goodproduce/do-u-even-pair-bro) &nbsp;(Slides)
 
 31:50 - Dealing with Difficulties During Pair Programming
@@ -45,17 +45,17 @@ tags:
 34:50 - Useful Strategies For Pairing Related to Hiring
 
 - [Conway’s Law](https://en.wikipedia.org/wiki/Conway's_law)
-- [What's Wrong With Ruby's Object Model (And Why That's a Good Thing) by David Brady](https://www.youtube.com/watch?v=LmtcDFnOYj4) 
+- [What's Wrong With Ruby's Object Model (And Why That's a Good Thing) by David Brady](https://www.youtube.com/watch?v=LmtcDFnOYj4)
 
 54:14 - More Episodes on Pair Programming
 
-- [Ruby Rogues Episode #026: Pair Programming](https://devchat.tv/ruby-rogues/026-rr-pair-programming) 
-- [Ruby Rogues Episode #126: Remote Pair Programming with Sam Livingston-Gray](https://devchat.tv/ruby-rogues/126-rr-remote-pair-programming-with-sam-livingston-gray) 
-Picks[Jarvis Desk](http://www.ergodepot.com/Jarvis_Desk_s/566.htm) (Sam)[What Do Women Want At Hackathons? NASA Has A List](http://www.fastcompany.com/3059036/most-creative-people/what-do-women-want-at-hackathons-nasa-has-a-list) (Sam)[Dan North - Embracing uncertainty: why you should and why you won’t](http://www.ustream.tv/recorded/86148915) (Jessica)[Common Ground and Coordination in Joint Activity](http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf) (Jessica)[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://chimera.labs.oreilly.com/books/1234000001813/index.html) (Jay)[Zach Holman: How to Deploy Software](https://zachholman.com/posts/deploying-software) (Jay)[Patricio Gonzalez Vivo: The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) (Jay)[Black Mamba Hot Sauce by CaJohn's](http://www.amazon.com/Black-Mamba-Hot-Sauce-CaJohns/dp/B001I4TC6A) (David)
+- [Ruby Rogues Episode #026: Pair Programming](https://devchat.tv/ruby-rogues/026-rr-pair-programming)
+- [Ruby Rogues Episode #126: Remote Pair Programming with Sam Livingston-Gray](https://devchat.tv/ruby-rogues/126-rr-remote-pair-programming-with-sam-livingston-gray)
+  Picks[Jarvis Desk](http://www.ergodepot.com/Jarvis_Desk_s/566.htm) (Sam)[What Do Women Want At Hackathons? NASA Has A List](http://www.fastcompany.com/3059036/most-creative-people/what-do-women-want-at-hackathons-nasa-has-a-list) (Sam)[Dan North - Embracing uncertainty: why you should and why you won’t](http://www.ustream.tv/recorded/86148915) (Jessica)[Common Ground and Coordination in Joint Activity](http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf) (Jessica)[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://chimera.labs.oreilly.com/books/1234000001813/index.html) (Jay)[Zach Holman: How to Deploy Software](https://zachholman.com/posts/deploying-software) (Jay)[Patricio Gonzalez Vivo: The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) (Jay)[Black Mamba Hot Sauce by CaJohn's](http://www.amazon.com/Black-Mamba-Hot-Sauce-CaJohns/dp/B001I4TC6A) (David)
 
 ### Transcript
 
- **DAVID:&nbsp;** There's a magic editing fairy and she has a magic wand. And she makes all of us sound about 30 IQ points smarter than we actually are.
+**DAVID:&nbsp;** There's a magic editing fairy and she has a magic wand. And she makes all of us sound about 30 IQ points smarter than we actually are.
 
 **_[This episode is sponsored by Hired.com. Every week on hired they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It's totally free for users. And when you're hired, they give you a $1,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you'll get a $2,000 instead. Finally, if you're not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/RubyRogues.]_**
 
@@ -129,7 +129,7 @@ Picks[Jarvis Desk](http://www.ergodepot.com/Jarvis_Desk_s/566.htm) (Sam)[What Do
 
 **JAY:&nbsp;** Well yeah, we didn't really put a lot of effort into [inaudible].
 
-**DAVID:&nbsp;** Oh my god, woo! I'm just [floating] [inaudible].
+**DAVID:&nbsp;** Oh my god, woo! I'm just [floating][inaudible].
 
 **JAY:&nbsp;** Like, I'm [inaudible] pair, added Columbus. But I felt like we could have been… like, it's not as cool as Ruby Rogues in my opinion, right? But yeah, we started actually at the Columbus Ruby Brigade when I had moved back to Central Ohio from Chicago. I [inaudible] after the meetup and said, “Hey, who wants to get together and pair on some stuff? Mentoring new people, whatever?” And eight people grabbed me afterwards and we started meeting at the library. And we were meeting weekly. And then a bunch of other people wanted to come, which is kind of crazy because we meet at Saturday mornings. [Laughs]
 
@@ -463,7 +463,7 @@ Last week we were in the middle of a thing and DJ was like, “I'm trying to mak
 
 **DAVID:&nbsp;** That is awesome. So Jay, let me put you on the spot a little bit. Horror stories. Wait, wait, wait, wait. No, let me give you the ability to say yes here.
 
-**JAY:&nbsp;** Pair programming horror stories? [I've got some.] [Laughs]
+**JAY:&nbsp;** Pair programming horror stories? [I've got some.][laughs]
 
 **DAVID:&nbsp;** Yeah. Can you share with us how we might deal with some difficulties that you might have observed in pair programming? [Chuckles]
 
@@ -798,5 +798,3 @@ And that's our show today. Thank you guys for coming. This was a great show.
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
 
 **_[End of podcast]_**
-
-

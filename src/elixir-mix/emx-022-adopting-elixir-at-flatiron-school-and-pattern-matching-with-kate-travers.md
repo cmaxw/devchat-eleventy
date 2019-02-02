@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 022: “Adopting Elixir at Flatiron School and Pattern Matching” with Kate Travers
+  EMx 022: “Adopting Elixir at Flatiron School and Pattern Matching” with Kate Travers
 date: 2018-10-09 10:00:35
 episode_number: 022
 duration: 51:15
 audio_url: https://media.devchat.tv/elixir-mix/EMx_022_Adopting_Elixir_at_FlatIronPSchool_and_Pattern_Matching_with_Kate_Travers.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 - [Mark Ericksen](https://github.com/brainlid)
@@ -222,7 +222,7 @@ What if I didn’t have to do any of that garbage?
 Mark Ericksen
 
 - Value
-- Teach something to someone else. It helps you grow. 
+- Teach something to someone else. It helps you grow.
 - [Book - Leadership and Self Deception](https://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1576759776/)
 
 Josh Adams
@@ -239,7 +239,4 @@ Kate
 - [breakinto.tech](https://www.breakinto.tech/)
 - [Kusama: Infinity](https://www.rottentomatoes.com/m/kusama_infinity/)
 
-
 ### Transcript
-
-

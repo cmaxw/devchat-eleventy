@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 076: Kevin Griffin
+  MJS 076: Kevin Griffin
 date: 2018-08-29 10:00:47
 episode_number: 076
 duration: 37:47
 audio_url: https://media.devchat.tv/my-js-story/MJS_076_Kevin_Griffin.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Kevin Griffin
 
@@ -21,7 +21,7 @@ This week on My JavaScript Story, Charles speaks with Kevin Griffin. Kevin is on
 **In particular, we dive pretty deep on:**
 
 - [JavaScript Jabber Episode 273](https://devchat.tv/js-jabber/jsj-273-live-code-dont-code-live-2-frugal-dudes-sean-merron-kevin-griffin/)
-- Helping programmers handle their money 
+- Helping programmers handle their money
 - [2 Frugal Dudes Podcast](https://2frugaldudes.com/)
 - Runs financial peace university at his church
 - Mindset is everything
@@ -71,13 +71,10 @@ This week on My JavaScript Story, Charles speaks with Kevin Griffin. Kevin is on
 
 Charles
 
-- [The Expanse](https://en.wikipedia.org/wiki/The_Expanse_(TV_series))
+- [The Expanse](<https://en.wikipedia.org/wiki/The_Expanse_(TV_series)>)
 
 Kevin
 
 - [Twitch](https://www.twitch.tv/) – [His twitch](https://www.twitch.tv/1kevgriff)
 
-
 ### Transcript
-
-

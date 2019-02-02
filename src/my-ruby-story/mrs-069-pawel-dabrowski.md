@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 069: Paweł Dąbrowski
+  MRS 069: Paweł Dąbrowski
 date: 2018-11-14 11:00:12
 episode_number: 069
 duration: 21:48
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_069_Pawel_Dabrowski.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** [Paweł Dąbrowski](https://github.com/rubyhero)
 
@@ -42,7 +42,7 @@ I didn’t want to give up and figured it all boils down to: “how bad do you w
 
 6:22 – Chuck: How old were you when you got paid for web development?
 
-6:32 – Guest: I think I was sixteen years old and $50.00 was a fortune for me. I felt like a millionaire. It felt great to make money for something you love to do. It wasn’t work; I just enjoyed doing it.
+6:32 – Guest: I think I was sixteen years old and \$50.00 was a fortune for me. I felt like a millionaire. It felt great to make money for something you love to do. It wasn’t work; I just enjoyed doing it.
 
 7:07 – Chuck: That’s the magic!
 
@@ -119,10 +119,7 @@ Chuck
 - [Book: Get A Coder Job](https://devchat.tv/store/get-a-coder-job-ebook/)
 - [Video Course: Get A Coder Job](https://devchat.tv/store/get-a-coder-job-video-course/)
 - [PodWrench – Tool](https://podwrench.com)
-- Self-Publishing Tool 
-- Developer Freedom 
-
+- Self-Publishing Tool
+- Developer Freedom
 
 ### Transcript
-
-

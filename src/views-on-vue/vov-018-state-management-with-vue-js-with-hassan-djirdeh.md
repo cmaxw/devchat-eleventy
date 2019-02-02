@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 018: State Management with Vue.js with Hassan Djirdeh
+  VoV 018: State Management with Vue.js with Hassan Djirdeh
 date: 2018-07-04 09:26:59
 episode_number: 018
 duration: 1:10:18
 audio_url: https://media.devchat.tv//viewsonvue/VoV_018_State_Management_with_Vue.js_with_Hassan_Djirdeh.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Chris Fritz
@@ -77,7 +77,7 @@ Charles
 
 - [GDPR](https://www.eugdpr.org/)
 - [Solo Movie](https://www.starwars.com/films/solo)
-- 
+-
 
 Chris
 
@@ -100,7 +100,4 @@ Hassan
 - [Avengers: Infinity War](http://marvel.com/movies/movie/223/avengers_infinity_war)
 - [Lambda School](http://go.lambdaschool.com/)
 
-
 ### Transcript
-
-

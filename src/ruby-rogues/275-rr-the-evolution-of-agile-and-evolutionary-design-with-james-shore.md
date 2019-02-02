@@ -1,40 +1,42 @@
 ---
 layout: layouts/post.njk
 title: >
-      275 RR The Evolution of Agile and Evolutionary Design  with James Shore
+  275 RR The Evolution of Agile and Evolutionary Design  with James Shore
 date: 2016-08-31 06:00:17
 episode_number: 275
 duration: 1:12:28
 audio_url: https://media.devchat.tv/ruby-rogues/RR275The_Evolution_of_Agile_and_Evolutionary_Design_with_James_Shore.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 # [Rails Remote Conference](https://allremoteconfs.com/ruby-2016)
+
 1:20 - Introducing [James Shore](http://www.jamesshore.com/)
+
 - [Github](http://github.com/jamesshore)
 - [Flow for Javascript](https://flowtype.org/)
 - [Screen cast](http://letscodejavascript.com)
 - Email: jshore@jamesshore.com
-1:40 - Freelancing and Consulting5:20- Co-opting Agile and the movement away from technology/software
+  1:40 - Freelancing and Consulting5:20- Co-opting Agile and the movement away from technology/software
 - [Agile Alliance Technical Conference](https://www.agilealliance.org/agile-alliance-technical-conference-2016/)
 - [Agile Fluency Model](http://www.agilefluency.org/)
-16:20- Evolutionary Design in Agile
+  16:20- Evolutionary Design in Agile
 - [Ron Jeffries Sudoku](http://ronjeffries.com/xprog/articles/oksudoku/)
 - Think Like A Git [code visualization](https://www.youtube.com/watch?v=Ozjr2S70yPI)built with [Gource](http://gource.io/)
-24:15 - Evolutionary Design for Beginners 
+  24:15 - Evolutionary Design for Beginners
 - James Shore - [Evolutionary Design Illustrated](https://vimeo.com/151616935)
 - [Stack Overflow](http://stackoverflow.com/)
-32:30 - Technical Practices and Agile Architecture
+  32:30 - Technical Practices and Agile Architecture
 - [_Procrastinate on Purpose_](https://www.amazon.com/Procrastinate-Purpose-Permissions-Multiply-Your/dp/0399170626) by Rory Vaden
-39:10 - Engineering on a Team Level
+  39:10 - Engineering on a Team Level
 - [“No Silver Bullet”](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf) by Fred Brooks
 - James Shore - [Rethinking Scaling](https://www.youtube.com/watch?v=VOMKAa_tmQ0)
-52:10 - Redesigning Team Responsibilities 
+  52:10 - Redesigning Team Responsibilities
 - [Joy, Inc](https://www.amazon.com/Joy-Inc-Built-Workplace-People/dp/1591847125) by Richard Sheridan
-**Picks** Sandi Metz “The Wrong Abstraction” [blog post](http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) (Sam)[Why Are Computers](http://whyarecomputers.com/) podcast by Tom Stewart (Sam)[Netstat](https://technet.microsoft.com/en-us/library/bb490947.aspx) (Jess)[Wood Badge](http://www.woodbadge.org/) (Charles)[_Remember the Titans_](http://www.imdb.com/title/tt0210945/) (Charles)[Rick Sheridan’s Agile India talk](https://www.youtube.com/watch?v=Xhzg0XWFq4Y) (James)[_Liftoff_](https://www.amazon.com/Liftoff-Launching-Agile-Teams-Projects/dp/097792016X) by Diana Larsen and Ainsley Nies (James)
+  **Picks** Sandi Metz “The Wrong Abstraction” [blog post](http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) (Sam)[Why Are Computers](http://whyarecomputers.com/) podcast by Tom Stewart (Sam)[Netstat](https://technet.microsoft.com/en-us/library/bb490947.aspx) (Jess)[Wood Badge](http://www.woodbadge.org/) (Charles)[_Remember the Titans_](http://www.imdb.com/title/tt0210945/) (Charles)[Rick Sheridan’s Agile India talk](https://www.youtube.com/watch?v=Xhzg0XWFq4Y) (James)[_Liftoff_](https://www.amazon.com/Liftoff-Launching-Agile-Teams-Projects/dp/097792016X) by Diana Larsen and Ainsley Nies (James)
 
 ### Transcript
 

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 081: Christiané Heiligers
+  MJS 081: Christiané Heiligers
 date: 2018-10-17 10:00:36
 episode_number: 081
 duration: 19:20
 audio_url: https://media.devchat.tv/my-js-story/MJS_081_Christiane_Heiligers.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
 **Guest:** [Christiané Heiligers](https://www.researchgate.net/profile/Christiane_Heiligers2)
 
@@ -124,7 +124,4 @@ Christiané Heiligers
 - [Hapi Framework](https://hapijs.com)
 - [Hapi Slack Channel – Hapi.js](https://github.com/hapijs/hapi)
 
-
 ### Transcript
-
-

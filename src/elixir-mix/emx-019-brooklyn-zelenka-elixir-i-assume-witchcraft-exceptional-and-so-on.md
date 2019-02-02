@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 019: Brooklyn Zelenka: Elixir I assume Witchcraft, Exceptional, and so on?
+  EMx 019: Brooklyn Zelenka: Elixir I assume Witchcraft, Exceptional, and so on?
 date: 2018-09-18 10:00:32
 episode_number: 019
 duration: 1:00:38
 audio_url: https://media.devchat.tv/elixir-mix/EMx_019_Brooklyn_Zelenka_Elixir_I_assume_Witchcraft_Exceptional_and_so_on.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Mark Ericksen
@@ -101,9 +101,9 @@ In this episode of Elixir Mix, the panel talks to [Brooklyn Zelenka](https://git
 
 29:31 – Brooklyn: [Yes, check us out at Meetup.](https://www.meetup.com/Vancouver-Erlang-Elixir-Meetup/members/133427892/)
 
-35:18 – Panelist: I think that is interesting on your opinions on [GO](https://en.wikipedia.org/wiki/Go_(programming_language)) with your background.
+35:18 – Panelist: I think that is interesting on your opinions on [GO](<https://en.wikipedia.org/wiki/Go_(programming_language)>) with your background.
 
-35:35 – Brooklyn continues her ideas on this topic. It’s not to say that [GO](https://en.wikipedia.org/wiki/Go_(programming_language)) is the worse language ever, but from what I have seen that it’s a nice experience in Elixir that things work. All the libraries integrate nicely. There is a style and flavor that is friendly. You get the friendliness with all of this power. You can scale up very nicely from a single node.
+35:35 – Brooklyn continues her ideas on this topic. It’s not to say that [GO](<https://en.wikipedia.org/wiki/Go_(programming_language)>) is the worse language ever, but from what I have seen that it’s a nice experience in Elixir that things work. All the libraries integrate nicely. There is a style and flavor that is friendly. You get the friendliness with all of this power. You can scale up very nicely from a single node.
 
 37:47 – Where can [Elixir](https://elixir-lang.org) “should” go and could go?
 
@@ -138,7 +138,7 @@ In this episode of Elixir Mix, the panel talks to [Brooklyn Zelenka](https://git
 - [Coder Job eBook by Charles Max Wood](https://devchat.tv/get-a-coder-job/)
 - [Elixir](https://elixir-lang.org/)
 - [Rails](https://rubyonrails.org)
-- [GO](https://en.wikipedia.org/wiki/Go_(programming_language))
+- [GO](<https://en.wikipedia.org/wiki/Go_(programming_language)>)
 - [Quark](https://github.com/expede/quark)
 - [Witchcraft](https://github.com/expede/witchcraft)
 - [Type Class](https://github.com/expede/type_class)
@@ -179,12 +179,12 @@ Charles
 - Make some incremental step forward – adding onto Mark’s pick - [Kaizen](https://en.wikipedia.org/wiki/Kaizen).
 - [TerraGenesis](https://itunes.apple.com/us/app/terragenesis-space-colony/id1039841501)
 - [TerraGenesis – Space Colony](https://play.google.com/store/apps/details?id=com.alexanderwinn.TerraGenesis&hl=en_US)
-- Honest feedback! What can I change? 
-- Phoenix 
+- Honest feedback! What can I change?
+- Phoenix
 
 Mark
 
-- Workspace Environment: [Kaizen](https://en.wikipedia.org/wiki/Kaizen) – Change for the Better = Improvement. 
+- Workspace Environment: [Kaizen](https://en.wikipedia.org/wiki/Kaizen) – Change for the Better = Improvement.
 
 Josh
 
@@ -197,9 +197,6 @@ Eric
 
 Brooklyn
 
-- [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi) – seeing the beauty in things that imperfect. 
-
+- [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi) – seeing the beauty in things that imperfect.
 
 ### Transcript
-
-

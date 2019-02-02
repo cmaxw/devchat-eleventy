@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 014: Choosing Elixir with Bobby Juncosa
+  EMx 014: Choosing Elixir with Bobby Juncosa
 date: 2018-08-15 05:15:30
 episode_number: 014
 duration: 58:10
 audio_url: https://media.devchat.tv/elixir-mix/EMx_014_Choosing_Elixir_with_Bobby_Juncosa.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Mark Erikson
@@ -34,7 +34,7 @@ In this episode of Elixir Mix, the panel talks to Bobby Juncosa about his articl
 - How did you get the conclusion of using Elixir, GraphQL, and Nuxt?
 - Built originally in [Drupal](https://www.drupal.org/home) and PHP
 - [Symfony](https://symfony.com/) and [Laravel](https://laravel.com/)
-- Needed something more scalable 
+- Needed something more scalable
 - [Vue](https://vuejs.org/) on the front-end and PHP on the back-end
 - Resonated with GraphQL
 - Moving to docker containers
@@ -93,7 +93,4 @@ Bobby
 - [Audible](https://www.audible.com/)
 - [_Basic Economics_ by Thomas Sowell](https://www.amazon.com/Basic-Economics-Fifth-Common-Economy/dp/B00PKQMFT8/)
 
-
 ### Transcript
-
-

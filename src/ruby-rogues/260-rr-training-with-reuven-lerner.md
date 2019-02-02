@@ -1,19 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      260 RR Training with Reuven Lerner
+  260 RR Training with Reuven Lerner
 date: 2016-05-18 07:00:05
 episode_number: 260
 duration: 52:58
 audio_url: https://media.devchat.tv/ruby-rogues/RR260TrainingReuvenLerner.mp3?rss=true
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 ### Want to be a Ruby Rogue? Apply at [https://rubyrogues.com/ruby-nuby](https://rubyrogues.com/ruby-nuby)
+
 &nbsp;01:47 - Reuven Lerner Introduction
+
 - [Twitter](https://twitter.com/reuvenmlerner)
 - [GitHub](https://github.com/reuven)
 - [Blog](http://lerner.co.il/)
@@ -21,16 +23,16 @@ tags:
 - [Practice Makes Python by Reuven Lerner](http://practicemakespython.com/)
 - [Practice Makes Regexp by Reuven Lerner](http://practicemakesregexp.com/)
 - [Daily Tech Video](http://dailytechvideo.com/)
-03:49 - Training
+  03:49 - Training
 - [Pedagogy](https://en.wikipedia.org/wiki/Pedagogy)
-07:54 - Approaching Teaching
+  07:54 - Approaching Teaching
 - [Mental Model](https://en.wikipedia.org/wiki/Mental_model)
-09:33 - Pairing People Up
+  09:33 - Pairing People Up
 - [Metacognition](https://en.wikipedia.org/wiki/Metacognition)
-10:57 - Example: Reuven’s Training Sessions19:59 - Moving Up The Ladder24:06 - Company Goals25:56 - Hostile Learners28:00 - Breaking Into the Big Company Market
+  10:57 - Example: Reuven’s Training Sessions19:59 - Moving Up The Ladder24:06 - Company Goals25:56 - Hostile Learners28:00 - Breaking Into the Big Company Market
 - [LinkedIn](https://www.linkedin.com/)
 - [Devchat.tv Interest Survey](http://goo.gl/forms/RAjGRT8Ia6)
-35:03 - Offerings37:53 - Cultural Differences&nbsp;Picks
+  35:03 - Offerings37:53 - Cultural Differences&nbsp;Picks
 - [Society Of Mind By Marvin Minsky](http://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135) (Reuven)
 - [Peter Hessler's Books](http://www.amazon.com/Peter-Hessler/e/B001ILMA1C) (Reuven)
 - [Regexp Crash Course](http://regexpcrashcourse.com) (Reuven)
@@ -41,7 +43,6 @@ tags:
 - [Ruby Rogues Episode #224: Ruby Together with André Arko](https://devchat.tv/ruby-rogues/224-rr-ruby-together-with-andr-arko) (Chuck)
 - [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)
 - [FitBit One](https://www.fitbit.com/one) (Chuck)
-
 
 ### Transcript
 
@@ -411,7 +412,7 @@ Also I am on the board of an organization called Ruby Together. And I'm amazed a
 
 I've got a couple of picks. I'm really sorry for the smoke alarm tripping. I didn't realize that it was an issue until this morning. And then I replaced it with I think another dead battery. So, I'm probably going to run out before Freelancers' Show and get a new battery. Because I don't think we have any more here.
 
-But anyway, real quick. I'm going to do a pick for Ruby Remote Conf which is going to be held June… oh, now I don't have the date in front of me. It's at the end of June. I think it's the 22<sup>nd</sup> through the 24<sup>th</sup>. And you can go find the details at RubyRemoteConf.com. But we have confirmed speakers, some of whom you've probably heard of. Sarah Mei, Phil Spitler, Justin Collins, Marcus Blankenship, all of whom have been on the show. Dan Schanler, I'm not sure if he's been or, or Ryan Francis. And we're working on getting a few more folks. We had some confirmations from folks. We had to postpone it a couple of months just because of some stuff that I had going on and I'm getting a little bit better at planning these. So, we're working on getting the other folks who said that they could speak to confirm. And I'm talking to a few other folks who I know you want to hear from. So, you can go sign up at RubyRemoteConf.com. Knowing that this comes out next week you can still get the early bird price which is a hundred dollars for a ticket. After next week, it will go up to $200 per ticket. So, I recommend you get it there. If you use the code RubyRogues, all one word, that will get you another 20% off. So anyway, I'm going to just put that out there.
+But anyway, real quick. I'm going to do a pick for Ruby Remote Conf which is going to be held June… oh, now I don't have the date in front of me. It's at the end of June. I think it's the 22<sup>nd</sup> through the 24<sup>th</sup>. And you can go find the details at RubyRemoteConf.com. But we have confirmed speakers, some of whom you've probably heard of. Sarah Mei, Phil Spitler, Justin Collins, Marcus Blankenship, all of whom have been on the show. Dan Schanler, I'm not sure if he's been or, or Ryan Francis. And we're working on getting a few more folks. We had some confirmations from folks. We had to postpone it a couple of months just because of some stuff that I had going on and I'm getting a little bit better at planning these. So, we're working on getting the other folks who said that they could speak to confirm. And I'm talking to a few other folks who I know you want to hear from. So, you can go sign up at RubyRemoteConf.com. Knowing that this comes out next week you can still get the early bird price which is a hundred dollars for a ticket. After next week, it will go up to \$200 per ticket. So, I recommend you get it there. If you use the code RubyRogues, all one word, that will get you another 20% off. So anyway, I'm going to just put that out there.
 
 One other pick that I have and I just got this for my wife. She doesn't know yet. She was complaining about the fitness tracker that she had. It's just not working for her. It's not tracking as well as she wants it to so I just got her a FitBit, the FitBit One which is super cool. I love FitBit stuff anyway. So, I'm going to go ahead and pick the FitBit One.
 
@@ -424,5 +425,3 @@ And I think that's it for picks. So, we'll go ahead and wrap this up. Reuven, if
 **_[Bandwidth for this segment is provided by CacheFly, the world's fastest CDN. Deliver your content fast with CacheFly. Visit C-A-C-H-E-F-L-Y dot com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

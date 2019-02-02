@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      120 iPS The Search Functionality in iOS 9 with Chris Grant
+  120 iPS The Search Functionality in iOS 9 with Chris Grant
 date: 2015-09-10 15:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 01:05 - Chris Grant Introduction
 
-- [Twitter](https://twitter.com/christhegrant) 
+- [Twitter](https://twitter.com/christhegrant)
 - [GitHub](https://github.com/ChrisGrant)
 - <u><a href="https://www.shinobicontrols.com/" style="text-decoration:none;">shinobicontrols</a></u>
   - [<u>Shinobi GitHub Account</u>](https://github.com/shinobicontrols)
@@ -26,7 +26,7 @@ tags:
 
 01:52 - Search APIs
 
-- [iOS9 Day-by-Day :: Day 1 :: Search APIs](https://www.shinobicontrols.com/blog/ios9-day-by-day-day1-search-apis) 
+- [iOS9 Day-by-Day :: Day 1 :: Search APIs](https://www.shinobicontrols.com/blog/ios9-day-by-day-day1-search-apis)
 
 03:27 - [NSUserActivity](https://developer.apple.com/library/prerelease/ios/documentation/Foundation/Reference/NSUserActivity_Class/)
 
@@ -50,7 +50,7 @@ tags:
 
 18:50 - Indexing Shared Data
 
-- [iOS9 Day-by-Day :: Day 7 :: Contacts Framework](https://www.shinobicontrols.com/blog/ios9-day-by-day-day7-contacts-framework) 
+- [iOS9 Day-by-Day :: Day 7 :: Contacts Framework](https://www.shinobicontrols.com/blog/ios9-day-by-day-day7-contacts-framework)
 
 19:30 - [shinobicontrols](https://www.shinobicontrols.com/)
 
@@ -68,5 +68,3 @@ Hackathons (Alondo)
 [15 Minute Podcast Listener chat with Charles Wood](http://iphreaksshow.com/15minutes) (Chuck)  
 [Orphan Black](http://www.imdb.com/title/tt2234222/) (Chuck)  
 [fastlane](https://github.com/KrauseFx/fastlane) (Chris)
-
-

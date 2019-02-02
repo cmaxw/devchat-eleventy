@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 063: Victor Shepelev
+  MRS 063: Victor Shepelev
 date: 2018-10-03 13:03:59
 episode_number: 063
 duration: 24:05
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_063_Victor_Shepelev.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** [Victor Shepelev](https://github.com/zverok)
 
@@ -120,7 +120,4 @@ Victor
 - [Book: Words for War](http://l.academicstudiespress.com/words-for-war)
   - New Poems from Ukraine
 
-
 ### Transcript
-
-

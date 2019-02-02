@@ -1,40 +1,42 @@
 ---
 layout: layouts/post.njk
 title: >
-      226 JSJ Test Doubles with Justin Searls
+  226 JSJ Test Doubles with Justin Searls
 date: 2016-08-24 07:00:25
 episode_number: 226
 duration: 01:04:11
 audio_url: https://media.devchat.tv/js-jabber/JSJ226TestDoubles.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 ## [React Remote Conf](https://allremoteconfs.com/react-2016) and [Angular Remote Conf](https://allremoteconfs.com/angular-2016)
+
 &nbsp;03:15 - Justin Searls Introduction
+
 - [Twitter](https://twitter.com/searls)
 - [GitHub](https://github.com/searls)
 - [Blog](http://about.me/searls)
 - [Test Double](http://testdouble.com/)
 - [JavaScript Jabber Episode #038: Jasmine with Justin Searls](https://devchat.tv/js-jabber/038-jsj-jasmine-with-justin-searls)
-04:13 - Testing
+  04:13 - Testing
 - [testdouble.js](https://github.com/testdouble/testdouble.js)
 - [teenytest](https://github.com/testdouble/teenytest)
 - [Sinon.JS](http://sinonjs.org/)
-08:44 - Mocking
+  08:44 - Mocking
 - [Growing Object-Oriented Software, Guided by Tests by Steve Freeman and Nat Pryce](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 - [Jim Weirich](https://en.wikipedia.org/wiki/Jim_Weirich)
-14:45 - Starting These Concepts as a Junior Developer
+  14:45 - Starting These Concepts as a Junior Developer
 - [Test-driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
-17:55 - [testdouble.js vs. sinon.js](http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html)
+  17:55 - [testdouble.js vs. sinon.js](http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html)
 - [NIH = Not Invented Here](https://en.wikipedia.org/wiki/Not_invented_here)
-26:39 - [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing), [Monkey Patching](https://en.wikipedia.org/wiki/Monkey_patch), Duck Punching32:22 - [Node.js](https://nodejs.org/) Negativity
+  26:39 - [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing), [Monkey Patching](https://en.wikipedia.org/wiki/Monkey_patch), Duck Punching32:22 - [Node.js](https://nodejs.org/) Negativity
 - Design, Resources
   - Martin Fowler’s Refactoring and Patterns Books
   - [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
-42:52 - Community45:08 - The AAA Rule: Arrange, Act, Assert51:19 - Error Messages&nbsp;Picks
+    42:52 - Community45:08 - The AAA Rule: Arrange, Act, Assert51:19 - Error Messages&nbsp;Picks
 - Unemployment (Jamison)
 - [React Rally](http://reactrally.com) (Jamison)
 - [Julia Evans' Tweet: how to be a wizard programmer](https://twitter.com/b0rk/status/755020037979856896) &nbsp;(Jamison)
@@ -43,9 +45,8 @@ tags:
 - [How to Stay Motivated: Developing the Qualities of Success by Zig Ziglar](https://www.amazon.com/How-Stay-Motivated-Developing-Qualities/dp/B001E4SMKG) (Chuck)
 - [The Harry Potter Series](https://en.wikipedia.org/wiki/Harry_Potter) (Chuck)
 - [RetroPie](https://retropie.org.uk/) (Justin)
-- [How Elm can Make you a Better JavaScript Programer](https://opbeat.com/events/web-rebels-2016/#elm-can-make-you-a-better-javascript-developer) (Justin) 
+- [How Elm can Make you a Better JavaScript Programer](https://opbeat.com/events/web-rebels-2016/#elm-can-make-you-a-better-javascript-developer) (Justin)
 - [NEJS Conf](https://nejsconf.com) (Justin)
-
 
 ### Transcript
 
@@ -532,5 +533,3 @@ And then on the topic of conferences again, I'm actually going to be in Nebraska
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

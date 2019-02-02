@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 304: React: The Big Picture
+  JSJ 304: React: The Big Picture
 date: 2018-03-13 10:00:54
 episode_number: 304
 duration: 51:00
 audio_url: https://media.devchat.tv/js-jabber/JSJ_304_React_The_Big_Picture.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Aimee Knight
@@ -46,7 +46,7 @@ In this episode, the JavaScript Jabber panelists talk about [React: The Big Pict
 - [MobX](https://mobx.js.org/refguide/api.html) and [Redux](https://redux.js.org/)
 - Start off using just plain React
 - When wouldn’t you want to use React?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -76,7 +76,7 @@ Aimee
 
 - [“Why being a perfectionist is an obstacle (and how to beat it)” by Gui Fradin](https://mediatag.io/blog/why-being-a-perfectionist-is-an-obstacle-and-how-to-beat-it)
 - [“How to understand the large codebase of an open-source project?” blog post](https://news.ycombinator.com/item?id=16299125)
-- 
+-
 
 Joe
 
@@ -86,7 +86,4 @@ AJ
 
 - [Pplwink.com](https://ppl.family/)
 
-
 ### Transcript
-
-

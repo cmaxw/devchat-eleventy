@@ -1,44 +1,46 @@
 ---
 layout: layouts/post.njk
 title: >
-      182 iPS Swift Style with Erica Sadun
+  182 iPS Swift Style with Erica Sadun
 date: 2016-12-08 06:00:26
 episode_number: 182
 duration: 48:55
 audio_url: https://media.devchat.tv/iphreaks/iPS182_Swift_Style_with_Erica_Sadun.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 Introduction
+
 - [Erica Sadun](http://ericasadun.com/)
 - Erica on [Twitter](https://twitter.com/ericasadun)
 - [Pinky and the Brain](https://www.youtube.com/watch?v=e_mPrhwpZ-8)
-2:30: Moving from Swift 2.0 to 3.0
+  2:30: Moving from Swift 2.0 to 3.0
 - Swift Style
-7:50: [One True Brace](http://wiki.c2.com/?OneTrueBraceStyle)
+  7:50: [One True Brace](http://wiki.c2.com/?OneTrueBraceStyle)
 - Hybrid approach
 - Mixing Allman with One True Brace
-14:30: Long declarations
+  14:30: Long declarations
 - Linewidth
-18:00: Structure vs. comment
+  18:00: Structure vs. comment
 - Augment the code
 - Different types of comment systems
-24:20: Hardest style decisions to make
+  24:20: Hardest style decisions to make
 - Advantages and disadvantages
 - [Static public vs. public static](http://stackoverflow.com/questions/5527120/difference-between-public-and-public-static)
 - Understanding the context of style
-30:50: Importance of the team adopting a style
+  30:50: Importance of the team adopting a style
 - Anti-turbulance system
 - Why have a style guide
-37:45: Tools
+  37:45: Tools
 - Linters
 - [SwiftLint](https://github.com/realm/SwiftLint)
 - Formatters
 
 ### Picks:
+
 [EveryNoise.com](http://everynoise.com/) (Jaim)[iOS Remote Conf](https://allremoteconfs.com/ios-2016)(Charles)[Toggl](https://toggl.com/) (Charles)[SpamSieve](https://c-command.com/spamsieve/) (Erica)[Keyboard Maestro](https://www.keyboardmaestro.com/) (Erica)[BetterTouchTool](https://www.boastr.net/) (Erica)[Hired.com](https://hired.com/iphreaks)
 
 ### Transcript

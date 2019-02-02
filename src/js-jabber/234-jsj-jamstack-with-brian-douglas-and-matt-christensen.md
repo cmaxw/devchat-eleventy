@@ -1,23 +1,29 @@
 ---
 layout: layouts/post.njk
 title: >
-      234 JSJ JAMStack with Brian Douglas and Matt Christensen
+  234 JSJ JAMStack with Brian Douglas and Matt Christensen
 date: 2016-10-19 06:00:13
 episode_number: 234
 duration: 47:09
 audio_url: https://media.devchat.tv/js-jabber/JSJ234JAMStack_with_Brian_Douglas_and_Matt_Christensen.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 1:00 Intro to guests Brian Douglas and Matt Christensen2:20 Definition of JAMStack8:12 JAMStack and confusion over nomenclature12:56 JAMStack and security, reliability and performance17:05 Example of traffic spike for company Sphero18:26 Meaning of hyperdynamic20:35 Future and limits of JAMStack technology26:01 Controlling data and APIs versus using third parties28:10 [Netlify.com](https://www.netlify.com/) and JAMStack31:16 APIs, JavaScript framework and libraries recommended to start building on JAMStack35:13 Resources and examples of JAMStack: [netlify.com](https://www.netlify.com/), [Netlify blog](https://www.netlify.com/blog/), [JAMStack radio](https://www.netlify.com/blog/2016/09/23/the-jamstack-radio/), [JAMStack SF Meetup](http://www.meetup.com/jamstack-sf/)
+
 ### QUOTES:
+
 “I think in the next couple of years we’re going to see the limits being pushed a lot for what you can do with this.” - Matt“Today we’re starting to see really interesting, really large projects getting built with this approach.” - Matt“If you can farm 100% of your backend off to third parties, I feel like that really limits a lot of the interesting things you can do as a developer.” - Brian
+
 ### PICKS:
+
 [Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)(Jamison)[React Rally 2016 videos](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw) (Jamison)[FiveStack.computer](https://fivestack.computer/) (Jamison)[Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) (Aimee) [Nodevember conference](http://nodevember.org/) (Aimee)[48 Days Podcast](http://www.48days.com/category/48-days-podcast/) (Charles)[_Fall of Hades_ by Richard Paul Evans](https://www.amazon.com/Michael-Vey-6-Fall-Hades/dp/1481469827) (Charles)[Jon Benjamin Jazz](https://www.youtube.com/watch?v=yS5p4M08jJs) (Brian)[RailsConf 2016](http://railsconf.com/) (Brian)[React Native](http://www.reactnative.com/) (Brian)[Book of Ye Podcast](http://foreverdogproductions.com/fdpn/podcasts/book-of-ye/) (Brian)[_Aurora_ by Kim Stanley Robinson](https://www.amazon.com/Aurora-Kim-Stanley-Robinson/dp/0316098108?tag=biuksafetynet-21) (Matt)[Sequoia Capital website](https://www.sequoiacap.com/)[Sphero website](http://www.sphero.com/)[Isomorphic rendering on the Jam Stack by Phil Hawksworth](https://www.hawksworx.com/blog/isomorphic-rendering-on-the-jam-stack/)
+
 ### SPONSORS:
+
 [Front End Masters](https://frontendmasters.com/)[Hired.com](https://hired.com/)
 
 ### Transcript

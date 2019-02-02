@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 014: Vue.component with Mitchell Garcia
+  VoV 014: Vue.component with Mitchell Garcia
 date: 2018-06-05 10:00:36
 episode_number: 014
 duration: 1:06:42
 audio_url: https://media.devchat.tv/viewsonvue/VoV_014_Vue.component_with_Mitchell_Garcia.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Chris Fritz
 - Erik Hanchett
@@ -89,7 +89,4 @@ Mitchell
 - [Vue-prom](https://github.com/Botre/vue-prom)
 - [_Leveraging Render Props in Vue_ by Dillon Chanis](https://medium.com/@dillonchanis/leveraging-render-props-in-vue-7eb9a19c262d)
 
-
 ### Transcript
-
-

@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 285 : Finding a Job Even If You're Not a Senior Developer by Charles Max Wood
+  JSJ 285 : Finding a Job Even If You're Not a Senior Developer by Charles Max Wood
 date: 2017-11-01 21:08:22
 episode_number: 285
 duration: 46:30
 audio_url: https://media.devchat.tv/js-jabber/JSJ_285_Finding_a_Job_Even_If_You're_Not_a_Senior_Developer_by_Charles%20_Max_Wood.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:** Charles Max Wood In this episode of JavaScript Jabber, Charles does a solo episode talking about entrepreneurship and the topic/course on “How to Get a Job.” This is an informative episode for those looking for a job as a developer and how to prepare your resume for your career search. Charles covers the core pieces of the course and specific areas of tailoring your credentials for the job you want to acquire. **In particular, we dive pretty deep on:**
+**Panel:** Charles Max Wood In this episode of JavaScript Jabber, Charles does a solo episode talking about entrepreneurship and the topic/course on “How to Get a Job.” This is an informative episode for those looking for a job as a developer and how to prepare your resume for your career search. Charles covers the core pieces of the course and specific areas of tailoring your credentials for the job you want to acquire. **In particular, we dive pretty deep on:**
+
 - How do I get a great job? Companies are only hiring Senior Devs.
 - Your selling point as a Jr. Dev.
 - Framing your experience for the companies to better see your experience.
@@ -33,13 +34,10 @@ tags:
 - The cover letter - How to do this correctly with a personal touch
 - What to do when you get the interview - the offer!
 - And much more!
-**Links:**
+  **Links:**
 - [devchat.tv/get-a-coder-job-full-access](http://devchat.tv/get-a-coder-job-full-access)full-access
 - [WeWork](https://www.wework.com)
 - [Expert Salary Negotiation](https://fearlesssalarynegotiation.com)
-- 
-
+-
 
 ### Transcript
-
-

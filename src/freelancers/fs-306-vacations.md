@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 306: Vacations
+  FS 306: Vacations
 date: 2018-07-26 16:08:08
 episode_number: 306
 duration: 40:15
 audio_url: https://media.devchat.tv/freelancers/FS_306_Vacations.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Reuven Lerner
 - Jeremy Green
@@ -30,12 +30,12 @@ In this episode of the Freelancers’ Show, the panelists discuss vacations. The
 - Stress with dealing with clients while on vacation
 - Your business won’t collapse if you step away for a few days
 - Hustle culture
-- Unhealthy cultural baggage 
+- Unhealthy cultural baggage
 - College started these bad habits
 - It’s okay not to make 100% of the money you could if you stayed up till 2 every night
 - It’s better to make less and have a better life
 - Forcing yourself to stay in work mode
-- Working mothers 
+- Working mothers
 - Getting more sleep makes your more efficient
 - Encourage yourself to stay on topic at work and you will have more free time for yourself
 - How do you tell your clients you won’t be available?
@@ -57,7 +57,4 @@ Jeremy
 
 - [Melodics](https://www.melodics.com/)
 
-
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Rails 3 - Build a Blog - Part 3: Edit and Delete CRUD
+  Rails 3 - Build a Blog - Part 3: Edit and Delete CRUD
 date: 2010-08-10 20:02:16
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

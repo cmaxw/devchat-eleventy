@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 207: Ilya Bodrov and Roman Kutanov: "What It Is, and Why You Should Use It. Angular Use-Cases in Startups"
+  AiA 207: Ilya Bodrov and Roman Kutanov: "What It Is, and Why You Should Use It. Angular Use-Cases in Startups"
 date: 2018-09-18 10:00:48
 episode_number: 207
 duration: 54:03
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_207_Ilya_Bodrov_and_Roman_Kutanov.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - John Papa
@@ -190,7 +190,4 @@ Roman
 - [Michael Seibel’s Building Product](https://blog.ycombinator.com/michael-seibel-building-product/)
 - MLcourse.AI – October 1<sup>st</sup> next session starts – it’s free
 
-
 ### Transcript
-
-

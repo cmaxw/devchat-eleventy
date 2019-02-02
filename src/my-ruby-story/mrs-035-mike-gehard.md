@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 035: Mike Gehard
+  MRS 035: Mike Gehard
 date: 2018-03-14 10:00:37
 episode_number: 035
 duration: 29:25
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_035_Mike_Gehard.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Mike Gehard
 
@@ -39,7 +39,7 @@ This week on My Ruby Story, Charles talks to Mike Gehard. Mike currently works f
 - Rails doesn’t take a lot of “banging” to get something to fall out the other end being useful
 - What have you contributed to the Ruby community that you’re proud of?
 - What are you working on now?
-- [Kotlin](https://kotlinlang.org/) Language 
+- [Kotlin](https://kotlinlang.org/) Language
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - Giving conference talks
 - Microservices
@@ -71,7 +71,4 @@ Mike
 - [Kotlin Programming Language](https://kotlinlang.org/)
 - [_Building Microservices_ by Sam Newman](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 
-
 ### Transcript
-
-

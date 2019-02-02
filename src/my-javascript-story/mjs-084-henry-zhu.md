@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 084: Henry Zhu
+  MJS 084: Henry Zhu
 date: 2018-11-07 11:00:19
 episode_number: 084
 duration: 27:35
 audio_url: https://media.devchat.tv/my-js-story/MJS_084_Henry_Zhu.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
 **Guest:** [Henry Zhu](https://twitter.com/left_pad?lang=en)
 
@@ -124,7 +124,7 @@ Something that I have been thinking about...
 
 Henry
 
-- [My own podcast](https://hopeinsource.com) – releasing it next week 
+- [My own podcast](https://hopeinsource.com) – releasing it next week
 - Podcast about Faith and Open Source
 
 Charles
@@ -132,7 +132,4 @@ Charles
 - Ruby Rogues’ cohost + myself – Data Podcast – [DevChat.Tv](https://devchat.tv)
 - Reworking e-mails
 
-
 ### Transcript
-
-

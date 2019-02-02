@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 211: “Azure Pipelines” with Ed Thomson LIVE at Microsoft Ignite
+  AiA 211: “Azure Pipelines” with Ed Thomson LIVE at Microsoft Ignite
 date: 2018-10-16 10:00:38
 episode_number: 211
 duration: 49:24
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_211_Azure_Pipelines_with_Ed_Thomson_LIVE_at_Microsoft_Ignite.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
@@ -264,7 +264,4 @@ Ed
 
 - [Podcast - All Things Git](https://www.allthingsgit.com/)
 
-
 ### Transcript
-
-

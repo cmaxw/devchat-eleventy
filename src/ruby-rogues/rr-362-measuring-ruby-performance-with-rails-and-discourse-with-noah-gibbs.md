@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 362: Measuring Ruby Performance with Rails and Discourse with Noah Gibbs
+  RR 362: Measuring Ruby Performance with Rails and Discourse with Noah Gibbs
 date: 2018-05-15 18:29:02
 episode_number: 362
 duration: 58:54
 audio_url: https://media.devchat.tv/ruby-rogues/RR_362_Measuring_Ruby_Performance_with_Rails_and_Discourse_with_Noah_Gibbs.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - David Richards
@@ -87,7 +87,4 @@ Noah
 - [Draw with Jazza](https://www.youtube.com/user/DrawWithJazza)
 - [_The Origins of Opera and the Future of Programming_ by Jessica Kerr](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960)
 
-
 ### Transcript
-
-

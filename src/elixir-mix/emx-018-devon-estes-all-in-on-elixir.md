@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 018: Devon Estes: “All In On Elixir”
+  EMx 018: Devon Estes: “All In On Elixir”
 date: 2018-09-11 10:00:59
 episode_number: 018
 duration: 54:40
 audio_url: https://media.devchat.tv/elixir-mix/EMx_018_Devon_Estes_All_in_on_Elixir.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Mark Ericksen
@@ -111,7 +111,7 @@ Charles
 
 - [Lootcrate (once a month)](https://www.lootcrate.com/share/earnloot?utm_campaign=Generic_MyAccountsPopUp+-+TEST+-+no+TW&utm_content=personal_url&utm_medium=referral&utm_source=Friendbuy&fbuy_ref_code=j6wJH)
 - [Audible](https://www.audible.com/?ref=a_ep_title__t1_nav_header_logo&pf_rd_p=b6bffedb-882c-4e5d-b04f-6aaa6e437b22&pf_rd_r=8KJKKC8K2BJJ1MQWMTVR&), Audio Book – [“The ONE Thing” by Gary Keller](https://www.audible.com/ep/title/?asin=B00FPMTFRM&source_code=GO1GBSH09091690EI&device=d&cvosrc=ppc.google.%252Bthe%2520%252Bone%2520%252Bthing&cvo_campaign=250471809&cvo_crid=260177648374&Matchtype=b&gclid=EAIaIQobChMI_NGLp5as3QIVnbjACh013gnjEAAYASAAEgIEn_D_BwE&gclsrc=aw.ds)
-  - Helps you focus on one thing to help you reach your goals. 
+  - Helps you focus on one thing to help you reach your goals.
 
 Mark
 
@@ -132,9 +132,6 @@ Devon
 
 - [Toggl](http://computationbook.com) – Time-tracking Tool / It’s free!
 - [“Understanding Computation” by Tom Stuart](http://computationbook.com)
-- **Movie:** [Handmaiden](https://www.imdb.com/title/tt4016934/) 
-
+- **Movie:** [Handmaiden](https://www.imdb.com/title/tt4016934/)
 
 ### Transcript
-
-

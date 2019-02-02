@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 068: Ian Sinnott
+  MJS 068: Ian Sinnott
 date: 2018-07-04 07:49:28
 episode_number: 068
 duration: 26:41
 audio_url: https://media.devchat.tv/my-js-story/MJS_068_Ian_Sinnott.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Ian Sinnott
 
@@ -64,7 +64,7 @@ This week on My JavaScript Story, Charles speaks with Ian Sinnott. Since being o
 - [react-static-boilerplate](https://github.com/iansinnott/react-static-boilerplate)
 - [RxJS](https://rxjs-dev.firebaseapp.com/)
 - [Redux-Observable](https://redux-observable.js.org/)
-- [@ian\_sinn](https://twitter.com/ian_sinn)
+- [@ian_sinn](https://twitter.com/ian_sinn)
 - [Ian’s GitHub](https://github.com/iansinnott)
 - [iansinnott.com](https://www.iansinnott.com/)
 
@@ -87,7 +87,4 @@ Ian
 - [_A Curious Moon_](https://bigmachine.io/products/a-curious-moon/)
 - [Cortex Podcast](https://www.relay.fm/cortex)
 
-
 ### Transcript
-
-

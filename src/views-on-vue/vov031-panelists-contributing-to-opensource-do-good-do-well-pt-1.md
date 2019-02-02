@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 031: “Panelists Contributing to Opensource: Do Good, Do Well” (Pt. 1)
+  VoV 031: “Panelists Contributing to Opensource: Do Good, Do Well” (Pt. 1)
 date: 2018-10-02 10:00:44
 episode_number: 031
 duration: 1:10:55
 audio_url: https://media.devchat.tv/viewsonvue/VoV_031_Panelists_Contributing_to_Opensource_Do_good_Do_well_Pt1.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Divya Sasidharan](https://www.linkedin.com/in/shortdiv)
 - [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
@@ -246,7 +246,4 @@ John
 - [Framework Summit](https://www.frameworksummit.com)
 - [Angular Mix](https://angularmix.com/%23!/)
 
-
 ### Transcript
-
-

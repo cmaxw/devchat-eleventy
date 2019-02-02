@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 200: Episode 200
+  AiA 200: Episode 200
 date: 2018-07-31 20:17:34
 episode_number: 200
 duration: 1:23:51
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_200_Episode_200.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Shai Reznik
-- Joe Eames 
-- Alyssa Nicoll 
+- Joe Eames
+- Alyssa Nicoll
 - Ward Bell
 
 In this episode, the Adventures in Angular panel celebrates creating 200 episodes of Adventures in Angular! They talk about the origin of the show, how each of them came across the show and were asked to join the panel, and if there is a future for [Angular](https://angular.io/). They also touch on where they see Angular going in the future, how difficult it is to predict how things are going to pan out in the next few years, and more!
@@ -46,7 +46,7 @@ In this episode, the Adventures in Angular panel celebrates creating 200 episode
 - Enterprise level products
 - [Vue](https://vuejs.org/), [React](https://reactjs.org/), and [Ember](https://www.emberjs.com/)
 - Having alternatives is a good thing
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -94,7 +94,4 @@ Ward
 
 - [NWLA Tournament](http://nwlatournament.com/)
 
-
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 035: John-Daniel Trask
+  MJS 035: John-Daniel Trask
 date: 2017-09-23 00:24:56
 episode_number: 035
 duration: 28:27
 audio_url: https://media.devchat.tv/my-js-story/MJS_035_John-Daniel_Trask.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
@@ -30,19 +30,17 @@ John-Daniel Trask is the CEO and developer at Raygun.io. JD and Chuck talk in th
 - [Tensorflow](https://www.tensorflow.org/)
 - [Stripe](http://stripe.com)
 - [@traskjd](http://twitter.com/traskjd)
-Picks: JD:
+  Picks: JD:
 - [Keygen.sh](http://keygen.sh)
 - [Octopus Deploy](http://octopus.com)
 - [JavaScript x86](https://github.com/copy/v86)
-Chuck:
+  Chuck:
 - [The Miracle Morning](http://amzn.to/2jRMXUv)
 - [Meditations App](https://itunes.apple.com/us/app/meditation-studio-guided-meditations-and-courses/id1066018502?mt=8)
 - [Vision Board App](https://itunes.apple.com/us/app/jack-canfield-success-vision-board/id498708060?mt=8)
 - [LootCrate](http://www.trylootcrate.com/click.track?CID=327723&AFID=419364&ADID=1698972&SID=)
 - Game of Thrones Journal
 - [Zelda Theme Journal](http://amzn.to/2wIF7Tq)
-&nbsp;
+  &nbsp;
 
 ### Transcript
-
-

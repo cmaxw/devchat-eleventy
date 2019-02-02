@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Model Generator
+  Model Generator
 date: 2011-10-14 02:27:12
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

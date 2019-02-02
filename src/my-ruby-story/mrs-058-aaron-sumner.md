@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 058: Aaron Sumner
+  MRS 058: Aaron Sumner
 date: 2018-08-29 10:00:16
 episode_number: 058
 duration: 21:18
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_058_Aaron_Sumner.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Aaron Sumner
 
@@ -21,10 +21,10 @@ This week on My Ruby Story, Charles talks to Aaron Sumner. Aaron is a senior sof
 **In particular, we dive pretty deep on:**
 
 - [Ruby Rogues Episode 353](https://devchat.tv/ruby-rogues/rr-353-removing-business-logic-from-rails-controllers-with-aaron-sumner/)
-- Aaron intro 
+- Aaron intro
 - Writer of [Everyday Rails](https://everydayrails.com/) blog and the book [_Everyday Rails Testing with RSpec_](https://leanpub.com/everydayrailsrspec)
 - How did you first get into programming?
-- University of Kansas – [Links](https://en.wikipedia.org/wiki/Links_(web_browser)) browser
+- University of Kansas – [Links](<https://en.wikipedia.org/wiki/Links_(web_browser)>) browser
 - Web development in college
 - How did you get into [Ruby](https://www.ruby-lang.org/en/)?
 - [Perl](https://www.perl.org/) and PHP
@@ -33,7 +33,7 @@ This week on My Ruby Story, Charles talks to Aaron Sumner. Aaron is a senior sof
 - What are the things that you get excited about?
 - What have you done in the community that you’re proud of?
 - Why did you write the book about testing in Rails?
-- Saw that very few books were available 
+- Saw that very few books were available
 - Deliberate about how to learn testing
 - Writing the book based off of his popular blog posts
 - Self-published on [LeanPub](https://leanpub.com/)
@@ -50,7 +50,7 @@ This week on My Ruby Story, Charles talks to Aaron Sumner. Aaron is a senior sof
 - [O’Reilly Media](https://www.oreilly.com/)
 - [Everyday Rails](https://everydayrails.com/)
 - [_Everyday Rails Testing with RSpec_](https://leanpub.com/everydayrailsrspec)
-- [Links](https://en.wikipedia.org/wiki/Links_(web_browser))
+- [Links](<https://en.wikipedia.org/wiki/Links_(web_browser)>)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Perl](https://www.perl.org/)
 - [Rails](https://rubyonrails.org/)
@@ -65,7 +65,7 @@ This week on My Ruby Story, Charles talks to Aaron Sumner. Aaron is a senior sof
 **Sponsors:**
 
 - [Code Badges](http://codebadge.org/)
-- [Get a Coder Job](http://getacoderjob.com/) 
+- [Get a Coder Job](http://getacoderjob.com/)
 
 **Picks:**
 
@@ -79,7 +79,4 @@ Aaron
 - [_Franklin Barbecue: A Meat-Smoking Manifesto_ by Aaron Franklin](https://www.amazon.com/Franklin-Barbecue-Meat-Smoking-Manifesto-Aaron/dp/1607747200)
 - [BBQ with Franklin](http://www.pbs.org/food/web-shows/bbq-with-franklin/)
 
-
 ### Transcript
-
-

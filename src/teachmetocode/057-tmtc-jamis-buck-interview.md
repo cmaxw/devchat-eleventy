@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      057 TMTC Jamis Buck Interview
+  057 TMTC Jamis Buck Interview
 date: 2011-05-12 22:52:56
 episode_number: 057
-duration: 
-audio_url: 
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -20,8 +20,6 @@ tags:
 - [37signals](http://37signals.com)
 - Vim and text editors
 - Testing tools
-Here's a video of the interview.<iframe src="http://www.youtube.com/embed/1smYnrI7K1k" width="560" height="349" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+  Here's a video of the interview.<iframe src="http://www.youtube.com/embed/1smYnrI7K1k" width="560" height="349" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Transcript
-
-
