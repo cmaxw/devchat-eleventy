@@ -50,8 +50,9 @@ EOF
     end
 
     file_path = "src/#{link.sub(/https?:\/\/devchat.tv\//, '').chomp('/')}.md"
-    file = File.new(file_path, 'w')
-    file.puts(file_contents)
-
+    unless File.file?(file_path)
+      file = File.new(file_path, 'w')
+      file.puts(file_contents)
+    end
   end
 end

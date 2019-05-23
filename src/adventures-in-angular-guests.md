@@ -10,7 +10,3 @@ podcast: page
 tags: 
   - page
 ---
-
-[gravityform id="9" title="false" description="false"]
-
-
