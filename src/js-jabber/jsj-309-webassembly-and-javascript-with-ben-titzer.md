@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 309: WebAssembly and JavaScript with Ben Titzer
+  JSJ 309: WebAssembly and JavaScript with Ben Titzer
 date: 2018-04-17 10:00:26
 episode_number: 309
 duration: 52:21
 audio_url: https://media.devchat.tv/js-jabber/JSJ_309_WebAssembly_and_JavaScript_with_Ben_Titzer.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Cory House
@@ -45,7 +45,7 @@ In this episode, the JavaScript Jabber panelists discuss WebAssembly and JavaScr
 - Is WebAssembly headed towards being used in daily application?
 - [Rust](https://www.rust-lang.org/en-US/) is investing heavily in Wasm
 - WebAssembly in gaming
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -81,7 +81,4 @@ Ben
 
 - American Politics
 
-
 ### Transcript
-
-

@@ -1,39 +1,40 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 170 Sept 7 2016 Apple Event
+  iPS 170 Sept 7 2016 Apple Event
 date: 2016-09-15 06:00:24
 episode_number: 170
 duration: 47:14
 audio_url: https://media.devchat.tv/iphreaks/iPS_170_Sept_7_2016_Apple_Event.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 2:00: [Apple Event](http://www.apple.com/apple-events/)- Overview
+
 - Primarily about iPhone and Apple Watch
 - For iOS developers and iPhone users
-4:15: Announcements
+  4:15: Announcements
 - [Apple Music](http://www.apple.com/music/)
 - 140 billion app downloads
 - 500,000 games
 - Mario, Pokemon GO
-11:45: [Apple Watch](http://www.apple.com/watch/)
+  11:45: [Apple Watch](http://www.apple.com/watch/)
 - Pokemon GO on the Apple Watch
 - Improvements
 - Built-in GPS
 - Water-resistance
-18:00: Education
+  18:00: Education
 - [ConnectEd](http://www.apple.com/education/connectED/)
-19:30: Nike Plus Model (Apple Watch)21:40: [AirPods](http://www.apple.com/airpods/)
+  19:30: Nike Plus Model (Apple Watch)21:40: [AirPods](http://www.apple.com/airpods/)
 - Works with iPhone, Mac and iPad
-26:00: Next Apple Event
+  26:00: Next Apple Event
 - Rumored for October
-27:00 [MacBook Pro](http://www.apple.com/macbook-pro/)
+  27:00 [MacBook Pro](http://www.apple.com/macbook-pro/)
 - Rumored updates
-28:50:[iPhone](http://www.apple.com/iphone/)
+  28:50:[iPhone](http://www.apple.com/iphone/)
 - Improved Speakers
 - Camera
 - Removed headphone jacks
@@ -44,7 +45,6 @@ tags:
 
 - [Hire.com](http://www.hire.com/)
 - [Qbserve](http://synd.co/2bc2Zza)
-
 
 ### Transcript
 

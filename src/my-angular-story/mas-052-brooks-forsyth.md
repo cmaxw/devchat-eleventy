@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 052: Brooks Forsyth
+  MAS 052: Brooks Forsyth
 date: 2018-09-19 10:00:55
 episode_number: 052
 duration: 19:38
 audio_url: https://media.devchat.tv/my-angular-story/MAS_052_Brooks_Forsyth.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** [Brooks Forsyth](https://twitter.com/brooks_forsyth)
 
@@ -93,7 +93,4 @@ Brooks
 - [Heroku / Worldwide](https://signup.heroku.com/?c=70130000001xDpdAAE&gclid=EAIaIQobChMI0K_h9YLI3QIVQb7ACh0e6wD-EAAYASAAEgLjivD_BwE)
 - [Dev.to](https://dev.to)
 
-
 ### Transcript
-
-

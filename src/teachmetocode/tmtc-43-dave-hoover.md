@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      TMTC 43 - Dave Hoover
+  TMTC 43 - Dave Hoover
 date: 2010-12-07 17:35:36
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -17,4 +17,4 @@ Go checkout our sponsors [New Relic](https://rpm.newrelic.com/affiliates/WOODY80
 - [Fred George](http://processpeoplepods.blogspot.com/)
 - [Uncle Bob Martin](http://www.objectmentor.com/omTeam/martin_r.html)
 - Corey Haines
-There's some great advice on figure out where you are and determining where you can get to and how. 
+  There's some great advice on figure out where you are and determining where you can get to and how.

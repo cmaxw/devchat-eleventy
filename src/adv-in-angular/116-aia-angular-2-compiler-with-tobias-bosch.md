@@ -1,25 +1,28 @@
 ---
 layout: layouts/post.njk
 title: >
-      116 AiA Angular 2 Compiler with Tobias Bosch
+  116 AiA Angular 2 Compiler with Tobias Bosch
 date: 2016-10-27 06:00:38
 episode_number: 116
 duration: 53:36
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA116_Angular_2_Compiler_with_Tobias_Bosch.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 02:20 - Introducing Tobias Bosch03:40 - What does the Compiler do?05:00 - Compiling in Angular 209:15 - Loading templates after using an Angular 2.0 Compiler10:30 - Just In Time and Ahead Of Time compilations15:40 - Advantages of the AOT approach17:40 - Hacker attacks19:45 - Dynamic scenarios
+
 - [Component Factory Resolver](http://blog.lacolaco.net/post/dynamic-component-creation-in-angular-2/)
-21:35 - Functions of the Compiler: Tree shaking
+  21:35 - Functions of the Compiler: Tree shaking
 - [Google Closure Compiler](https://developers.google.com/closure/compiler/)
-25:50 - Angular 2.0 Compiler and end modules26:40 - AOT and sizing27:40 - Rollup bundles30:10 - Using RxJs32:00 - Router outlets and siblings34:40 - Plans for rolling out features for developers
+  25:50 - Angular 2.0 Compiler and end modules26:40 - AOT and sizing27:40 - Rollup bundles30:10 - Using RxJs32:00 - Router outlets and siblings34:40 - Plans for rolling out features for developers
 - [Lucidchart](https://chrome.google.com/webstore/detail/lucidchart-diagrams-onlin/apboafhkiegglekeafbckfjldecefkhn?hl=en)
-37:40 - Motivations and driving forces39:20 - Rendering targets
+  37:40 - Motivations and driving forces39:20 - Rendering targets
+
 ### **Picks:**
+
 [Ship To Hawaii](https://www.shiptohawaii.com/)(Jules)[TensorFlow](https://www.tensorflow.org/) (Tobias)[_Your Inner Fish_ by Neil Shubin](https://www.amazon.com/Your-Inner-Fish-Journey-3-5-Billion-Year/dp/0307277453) book and the [PBS Series](http://www.pbs.org/show/your-inner-fish/) (Ward)[“Cross Site Request Funkery” talk by Dave Smith](https://www.youtube.com/watch?v=9inczw6qtpY) (Lukas)[_Professor Frisby's Mostly Adequate Guide to Functional Programming_ by Brian Lonsdorf](https://github.com/MostlyAdequate/mostly-adequate-guide) (Lukas)[_Life Expectancy_ by Dean Koontz](https://www.amazon.com/Life-Expectancy-Novel-Dean-Koontz/dp/0345533380) (Joe)[NG Cruise](https://ngcruise.com/#/) (Joe)[Source Map Explorer](https://www.npmjs.com/package/source-map-explorer) (John)[Angular 2.0 Ultimate Workshop](http://ftlauderdale.ng-learn.com/) (rescheduled) (John)[_The 12 Week Year_](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234)(Charles)[AST Explorer](http://astexplorer.net./)(Joe)Enter the lottery to win the opportunity to buy a ticket to [NG-Conf](https://www.ng-conf.org/) (Joe)Call for presenters for NG-Conf will open November 1st (Joe)
 
 ### Transcript

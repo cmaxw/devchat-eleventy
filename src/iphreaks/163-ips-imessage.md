@@ -1,37 +1,38 @@
 ---
 layout: layouts/post.njk
 title: >
-      163 iPS iMessage
+  163 iPS iMessage
 date: 2016-07-28 07:00:52
 episode_number: 163
 duration: 33:28
 audio_url: https://media.devchat.tv/iphreaks/iPS163iMessage.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 ## [All Remote Conferences](https://allremoteconfs.com/)
+
 &nbsp;01:59 - [iMessage](https://en.wikipedia.org/wiki/IMessage) vs [SMS (Short Message Service)](https://en.wikipedia.org/wiki/Short_Message_Service)04:31 - Programmers and iMessage
+
 - [App Extensions](https://developer.apple.com/app-extensions/)
 - [Square Cash](https://cash.me/)
-06:14 - Standalone Apps; Games?
+  06:14 - Standalone Apps; Games?
 - Compact and Expanded Mode
-08:39 - Group Messaging10:27 - Stickers
+  08:39 - Group Messaging10:27 - Stickers
 - [WWDC: iMessage Apps and Stickers, Part 1](https://developer.apple.com/videos/play/wwdc2016/204/)
 - [WWDC: iMessage Apps and Stickers, Part 2](https://developer.apple.com/videos/play/wwdc2016/224/)
-14:10 - Maps
+  14:10 - Maps
 - [Apple overhauls iOS Maps with a new design](http://www.theverge.com/2016/6/13/11922842/apple-maps-new-design-ios-10)
-16:43 - Extensions
+  16:43 - Extensions
 - Viral Potential
 - Reactions/Effects
 - [WeChat](https://itunes.apple.com/us/app/wechat/id414478124?mt=8)
-26:31 - [VoIP (Voice over IP)](https://en.wikipedia.org/wiki/Voice_over_IP)27:04 - Security/Privacy&nbsp;Picks
+  26:31 - [VoIP (Voice over IP)](https://en.wikipedia.org/wiki/Voice_over_IP)27:04 - Security/Privacy&nbsp;Picks
 - [ClippyJS](https://www.smore.com/clippy-js) (Jaim)
 - [Auric Solar](http://auricsolar.com) (Layne)
 - [Procrastinate on Purpose by Rory Vaden](http://www.procrastinateonpurpose.com/) (Chuck)
-
 
 ### Transcript
 
@@ -298,5 +299,3 @@ Anyway, I’m just going to put it out there. It’s just an awesome book becaus
 So yeah, we’ll go ahead and wrap up the show. Thanks everyone for listening and we’ll see you all next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

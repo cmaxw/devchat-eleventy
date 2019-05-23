@@ -1,19 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 304: Writing Better Project Proposals
+  FS 304: Writing Better Project Proposals
 date: 2018-07-05 14:43:29
 episode_number: 304
 duration: 1:06:59
 audio_url: https://media.devchat.tv/freelancers/FS_304_Writing_Better_Project_Proposals.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
-- Jonathan Stark 
+**Panel:**
+
+- Jonathan Stark
 - Jeremy Green
 - Erik Dietrich
 
@@ -63,7 +64,4 @@ Erik
 - [Diablo 2](http://us.blizzard.com/en-us/games/d2/)
 - [Capital One](https://www.capitalone.com/credit-cards/)
 
-
 ### Transcript
-
-

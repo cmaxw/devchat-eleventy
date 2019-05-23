@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 046: Benjamin Wood
+  MRS 046: Benjamin Wood
 date: 2018-05-30 11:39:28
 episode_number: 046
 duration: 39:12
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_046_Benjamin_Wood.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Benjamin Wood
 
@@ -74,7 +74,4 @@ Benjamin
 - [Robin Olson Tiny Desk Concert](https://www.youtube.com/watch?v=uQAQg7F89DY&list=PL1B627337ED6F55F0&t=0s&index=25)
 - [Serverless](https://serverless.com/)
 
-
 ### Transcript
-
-

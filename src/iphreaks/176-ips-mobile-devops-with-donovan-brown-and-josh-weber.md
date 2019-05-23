@@ -1,48 +1,49 @@
 ---
 layout: layouts/post.njk
 title: >
-      176 iPS Mobile Devops with Donovan Brown and Josh Weber
+  176 iPS Mobile Devops with Donovan Brown and Josh Weber
 date: 2016-10-27 06:00:28
 episode_number: 176
 duration: 43:45
 audio_url: https://media.devchat.tv/iphreaks/iPS176_Mobile_Devops_with_Donovan_Brown_and_Josh_Weber.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 1:25: Mobile Devops definition
+
 - Unique challenges
 
 - “It’s not just tools, it’s people in progress.”
 - Friction
-4:30: Difficulty of mobile devops
+  4:30: Difficulty of mobile devops
 - [Perfecto Mobile’s test cloud](https://www.perfectomobile.com/)
 - [Xamarin test cloud](https://testcloud.xamarin.com/login)
 - Best practices
-7:15: Unit testing
+  7:15: Unit testing
 - C Sharp
 - [React Native](https://facebook.github.io/react-native/)
 - Manual testing
 - UI type test
 - Verification
-14:50: [HockeyApp](https://hockeyapp.net/)
+  14:50: [HockeyApp](https://hockeyapp.net/)
 - Installation
 - URL generation
 - [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
 - Control over source control events
-27:00: Stories
+  27:00: Stories
 - Keynote: acquisition of Xamarin
 - Keeping your customers by delivering value
-30:00: Experiments
+  30:00: Experiments
 - Monitor your application
 - [The Lean Startup](https://www.amazon.com/s/?ie=UTF8&keywords=eric+reis+the+lean+startup&tag=googhydr-20&index=aps&hvadid=102731792352&hvpos=1t2&hvexid=&hvnetw=g&hvrand=6654138397927250633&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_7iynofo6br_b_p14)
 - A/B testing
-32:40: Feature Flags
+  32:40: Feature Flags
 - [Thought Works](https://www.thoughtworks.com/)
 - [Launch Darkly](https://launchdarkly.com/)
-Picks:[Pappadeaux](https://pappadeaux.com/home/)(Jaim)[The Lean Startup](https://www.amazon.com/s/?ie=UTF8&keywords=eric+reis+the+lean+startup&tag=googhydr-20&index=aps&hvadid=102731792352&hvpos=1t2&hvexid=&hvnetw=g&hvrand=6654138397927250633&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_7iynofo6br_b_p14) (Charles)[Lyft](https://www.lyft.com/)(Charles)BMW (Donovan)Air hockey (Donovan)[HockeyApp](https://hockeyapp.net/) (Josh)[Donovan on Twitter](https://twitter.com/donovanbrown)
+  Picks:[Pappadeaux](https://pappadeaux.com/home/)(Jaim)[The Lean Startup](https://www.amazon.com/s/?ie=UTF8&keywords=eric+reis+the+lean+startup&tag=googhydr-20&index=aps&hvadid=102731792352&hvpos=1t2&hvexid=&hvnetw=g&hvrand=6654138397927250633&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_7iynofo6br_b_p14) (Charles)[Lyft](https://www.lyft.com/)(Charles)BMW (Donovan)Air hockey (Donovan)[HockeyApp](https://hockeyapp.net/) (Josh)[Donovan on Twitter](https://twitter.com/donovanbrown)
 
 ### Transcript
 

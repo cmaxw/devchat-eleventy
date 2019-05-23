@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      119 AiA Avoiding Common Pitfalls in Angular2
+  119 AiA Avoiding Common Pitfalls in Angular2
 date: 2016-11-17 06:00:40
 episode_number: 119
 duration: 1:18.00
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA119_Avoiding_Common_Pitfalls_in_Angular2.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---

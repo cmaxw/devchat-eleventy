@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      TMTC 34 - Writing Code is the Easy Part
+  TMTC 34 - Writing Code is the Easy Part
 date: 2010-09-29 12:28:46
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -32,13 +32,13 @@ Writing Code is the Easy Part is the new slogan for the website. It basically bo
 - Hiring and Firing
 - Working on Boring stuff
 - Job Fulfillment
-Here are affiliate links to some of the books that I mentioned:
+  Here are affiliate links to some of the books that I mentioned:
 - [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/gp/product/0201485672?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201485672) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0201485672)
 - [Design Patterns: Elements of Reusable Object-Oriented Software](http://www.amazon.com/gp/product/0201633612?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201633612) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0201633612)
 - [Code Complete: A Practical Handbook of Software Construction](http://www.amazon.com/gp/product/0735619670?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0735619670) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0735619670)
 - [The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/gp/product/020161622X?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=020161622X) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=020161622X)
 - [The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)](http://www.amazon.com/gp/product/1934356344?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1934356344) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=1934356344)
-Here are the links to the podcast episodes by:
+  Here are the links to the podcast episodes by:
 - Chad Fowler ([Part 1](http://teachmetocode.com/podcast/rc-13-interview-with-chad-fowler-part-1/), [Part 2](http://teachmetocode.com/podcast/rc-14-chad-fowler-interview-part-2/))
 - Dave Thomas ([Part 1](http://teachmetocode.com/podcast/rc-17-interview-with-dave-thomas-from-the-pragmatic-programmers-part-1/), [Part 2](http://teachmetocode.com/podcast/tmtc-18-dave-thomas-interview-part-2/))
-Finally, I would really appreciate a $5 donation to help me get to RubyConf. [![Click here to lend your support to: Send Charles to RubyConf and make a donation at www.pledgie.com !](http://www.pledgie.com/campaigns/13439.png?skin_name=chrome)](http://www.pledgie.com/campaigns/13439)[Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC_34_-_Writing_the_Code_is_the_Easy_Part.mp3)
+  Finally, I would really appreciate a \$5 donation to help me get to RubyConf. [![Click here to lend your support to: Send Charles to RubyConf and make a donation at www.pledgie.com !](http://www.pledgie.com/campaigns/13439.png?skin_name=chrome)](http://www.pledgie.com/campaigns/13439)[Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC_34_-_Writing_the_Code_is_the_Easy_Part.mp3)

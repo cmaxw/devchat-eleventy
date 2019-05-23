@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      211 JSJ Ember and EmberConf with Michael North
+  211 JSJ Ember and EmberConf with Michael North
 date: 2016-05-11 07:00:26
 episode_number: 211
 duration: 51:34
 audio_url: https://media.devchat.tv/js-jabber/JSJ211EmberConf.mp3?rss=true
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 02:22 - Michael North Introduction
 
-- [Twitter](https://twitter.com/michaellnorth) 
+- [Twitter](https://twitter.com/michaellnorth)
 - [GitHub](https://github.com/mike-north)
 - [Levanto Financial](http://www.levantofinancial.com/)
 
@@ -27,10 +27,10 @@ tags:
 09:39 - Changes in Ember
 
 - [SproutCore &nbsp;](http://sproutcore.com/)
-- [iCloud](https://www.icloud.com/) 
+- [iCloud](https://www.icloud.com/)
 - [Ember CLI](http://ember-cli.com/)
 - Performance
-- [glimmer](https://github.com/tildeio/glimmer) 
+- [glimmer](https://github.com/tildeio/glimmer)
 
 16:04 - [Ember FastBoot](http://ember-fastboot.com/)
 
@@ -38,7 +38,7 @@ tags:
 
 18:53 - [EmberConf](http://emberconf.com/)
 
-- [Opening Keynote by Yehuda Katz & Tom Dale](https://www.youtube.com/watch?v=OInJBwS8VDQ&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW&index=1) 
+- [Opening Keynote by Yehuda Katz & Tom Dale](https://www.youtube.com/watch?v=OInJBwS8VDQ&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW&index=1)
 
 22:47 - Mobile/Native Experience & Optimization
 
@@ -55,11 +55,9 @@ tags:
 
 [React Rally](http://www.reactrally.com/) (Jamison)[Embedded](http://www.npr.org/podcasts/510311/embedded) (Jamison)[Remy Sharp: A debugging thought process](https://remysharp.com/2016/04/04/a-debugging-thought-process) (Jamison)[NashDev Podcast](http://nashdevcast.com/) (Aimee)[JS developers who don’t know what closure is are fine.](https://uselessdevblog.wordpress.com/2016/04/11/js-developers-who-dont-know-what-closure-is-are-fine/) (Aimee)[Sublime Text](https://www.sublimetext.com/) (Chuck)[DesktopServer](https://serverpress.com/get-desktopserver/) (Chuck)[MemberPress](https://www.memberpress.com/) (Chuck)[Frontend Masters](https://frontendmasters.com/) (Mike)[Wicked Good Ember Conf](https://wickedgoodember.com/) (Mike) Debugging Node.js with [Visual Studio Code](https://code.visualstudio.com/) (Mike)
 
-
-
 ### Transcript
 
- **CHUCK:&nbsp;** Alright. Let's do this.
+**CHUCK:&nbsp;** Alright. Let's do this.
 
 **_[This episode is sponsored by Frontend Masters. They have a terrific lineup of live courses you can attend either online or in person. They also have a terrific backlog of courses you can watch including JavaScript the Good Parts, Build Web Applications with Node.js, AngularJS In-Depth, and Advanced JavaScript. You can go check them out at FrontEndMasters.com.]_**
 
@@ -492,5 +490,3 @@ And then finally just something that I've been using as a developer recently is 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
 
 **_[End of podcast]_**
-
-

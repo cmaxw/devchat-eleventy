@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Switching to HAML - Delicious Clone
+  Switching to HAML - Delicious Clone
 date: 2011-02-02 18:11:06
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

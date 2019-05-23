@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 060: Jeff Cross
+  MJS 060: Jeff Cross
 date: 2018-05-09 10:00:10
 episode_number: 060
 duration: 44:18
 audio_url: https://media.devchat.tv/my-js-story/MJS_060_Jeff_Cross.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Jeff Cross
 
@@ -48,7 +48,7 @@ This week on My JavaScript Story, Charles speaks with Jeff Cross. Jeff has been 
 - [Deployd](http://deployd.com/)
 - [Linode](https://promo.linode.com/myangularstory/)
 - [@JeffBCross](https://twitter.com/jeffbcross?lang=en)
-- [@nrwl\_io](https://twitter.com/nrwl_io?lang=en)
+- [@nrwl_io](https://twitter.com/nrwl_io?lang=en)
 - [Nrwl Blog](https://blog.nrwl.io/)
 
 **Picks:**
@@ -60,7 +60,4 @@ Jeff
 - [Apple Air Pods](https://www.apple.com/shop/product/MMEF2AM/A/airpods)
 - [Astro Reality](https://www.astroreality.com/)
 
-
 ### Transcript
-
-

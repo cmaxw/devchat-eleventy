@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori
+  VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori
 date: 2018-05-23 03:19:46
 episode_number: 012
 duration: 56:20
 audio_url: https://media.devchat.tv/viewsonvue/VoV_012_Re-using_VueJS_Mixins_and_Filtering_Google_Map_Data_with_Dan_Pastori.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Chris Fritz
 - Erik Hanchett
@@ -89,7 +89,4 @@ Dan
 - [_The Subtle Art of Not Giving a F\*ck_ by Mark Manson](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 - [_Tribe of Mentors_ by Timothy Ferriss](https://tribeofmentors.com/)
 
-
 ### Transcript
-
-

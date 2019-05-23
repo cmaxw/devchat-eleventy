@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 365: Should I Use Ruby on Rails with Nathan Kontny
+  RR 365: Should I Use Ruby on Rails with Nathan Kontny
 date: 2018-06-05 10:00:24
 episode_number: 365
 duration: 1:14:27
 audio_url: https://media.devchat.tv/ruby-rogues/RR_365_Should_I_Use_Ruby_on_Rails_with_Nathan_Kontny.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Dave Kimura
@@ -31,7 +31,7 @@ In this episode of Ruby Rogues, the panelists talk to Nathan Kontny about his vi
 - Created [Draft](https://draftin.com/)
 - Inkling using Rails
 - Worked ad [Y Combinator](http://www.ycombinator.com/)
-- Chose [Rails](https://rubyonrails.org/) to create startups 
+- Chose [Rails](https://rubyonrails.org/) to create startups
 - Lives are better when people feel like they’re being heard
 - [_The Five Dysfunctions of a Team_ by Patrick Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
 - Why did you use Rails over something like [Django](https://www.djangoproject.com/)?
@@ -97,7 +97,4 @@ Nathan
 - [_Something Really New_ by Denis J. Hauptly](https://www.amazon.com/Something-Really-New-Creating-Innovative/dp/0814400329)
 - [Bluetooth Air Filter](https://www.filtrete.com/3M/en_US/filtrete/products/smart-filter-technology/)
 
-
 ### Transcript
-
-

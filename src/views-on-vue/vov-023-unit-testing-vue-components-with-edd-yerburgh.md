@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 023: Unit Testing Vue components‌ with Edd Yerburgh
+  VoV 023: Unit Testing Vue components‌ with Edd Yerburgh
 date: 2018-08-09 18:34:01
 episode_number: 023
 duration: 1:27:01
 audio_url: https://media.devchat.tv/viewsonvue/VoV_023_Unit_testing_Vue_Edd_Yerburgh.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Divya Sasidharan
 - Chris Fritz
@@ -36,7 +36,7 @@ In this episode, the Views on Vue panel talks to Edd Yerburgh about unit testing
 - Examples of components that you would use to test with Vue Test Utils
 - What are good patterns to use when testing?
 - Consider what and if you should test?
-- Difficult to give a definitive answer as to when you should unit test vs you shouldn’t 
+- Difficult to give a definitive answer as to when you should unit test vs you shouldn’t
 - What you hope when you are writing unit tests
 - Tests as a form of documentation
 - Writing unit tests to pay off in the future
@@ -47,7 +47,7 @@ In this episode, the Views on Vue panel talks to Edd Yerburgh about unit testing
 - Testing in Vue
 - Creating components within your test itself
 - Testing a mixin
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -92,7 +92,4 @@ Edd
 - [_Testing Vue.js Applications_ by Edd](https://www.manning.com/books/testing-vuejs-applications)
 - [jscodeshift](https://github.com/facebook/jscodeshift)
 
-
 ### Transcript
-
-

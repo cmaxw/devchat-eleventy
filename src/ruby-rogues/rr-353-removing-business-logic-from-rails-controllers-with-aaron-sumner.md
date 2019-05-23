@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 353: Removing Business Logic from Rails Controllers with Aaron Sumner
+  RR 353: Removing Business Logic from Rails Controllers with Aaron Sumner
 date: 2018-03-13 10:00:23
 episode_number: 353
 duration: 57:23
 audio_url: https://media.devchat.tv/ruby-rogues/RR_353_Removing_Business_Logic_from_Rails_Controllers_with_Aaron_Sumner.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - David Richards
@@ -29,7 +29,7 @@ In this episode of Ruby Rogues, the panel discusses removing business logic from
 - Soft deprecation
 - If you’re not writing controller tests, what are you writing?
 - Get the code out of the controllers and test it in more isolation
-- Service objects 
+- Service objects
 - Problem with a controller having a lot of business logic in it
 - [Rails](http://rubyonrails.org/)
 - Cons of service objects
@@ -68,7 +68,4 @@ Aaron
 - Deleting code
 - [30 for 30 Podcast](https://30for30podcasts.com/)
 
-
 ### Transcript
-
-

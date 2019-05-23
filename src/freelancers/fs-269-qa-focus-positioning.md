@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS: 269: Q&A with a Focus on Positioning
+  FS: 269: Q&A with a Focus on Positioning
 date: 2017-10-19 04:00:14
 episode_number: 269
 duration: 1:16:48
 audio_url: https://media.devchat.tv/freelancers/FS_269_%20Q%26A_with_a_Focus_on_Positioning.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:** Jonathan S. Kai Davis Phillip M. In this episode of the Freelancer’s Show the panel does a Q&A show about positioning. The Freelancers answer questions from students and readers for the discussion topic of the episode. The discussion goes focus positioning, marketing yourself, marketing your business, confidence, value proposition, the difference between specialization and positioning, and many more aspects of positioning. **In particular, we dive pretty deep on:**
+**Panel:** Jonathan S. Kai Davis Phillip M. In this episode of the Freelancer’s Show the panel does a Q&A show about positioning. The Freelancers answer questions from students and readers for the discussion topic of the episode. The discussion goes focus positioning, marketing yourself, marketing your business, confidence, value proposition, the difference between specialization and positioning, and many more aspects of positioning. **In particular, we dive pretty deep on:**
+
 - Laser Focus positioning statement and marketing yourself
 - Being clear about who you serve
 - Reaching goal with the help of employees
@@ -30,18 +31,17 @@ tags:
 - Positioning - Pricing, Premium options
 - Specialize on a vertical - easier and safer
 - and much more.
-**Links:**
+  **Links:**
 - [CopyHackers.com](http://CopyHackers.com)
-**Picks:** Jonathan
+  **Picks:** Jonathan
 - [Nespresso](https://www.nespresso.com/us/en/)
 - [howtobuildyourfirstproductizedservice.com](http://howtobuildyourfirstproductizedservice.com)
-- 
+-
+
 Kai
+
 - [Autoresponder Madness](http://autorespondermadness3.com)
 - [carrd.co](http://carrd.co)
-- 
-
+-
 
 ### Transcript
-
-

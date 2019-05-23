@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 042: Kassandra Perch
+  MJS 042: Kassandra Perch
 date: 2018-01-05 04:35:25
 episode_number: 042
 duration: 52:27
 audio_url: https://media.devchat.tv/my-js-story/MJS_042_Kassandra_Perch.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:&nbsp;** Charles Max Wood **Guest:** Kassandra Perch This week on My JavaScript Story, Charles speaks with Kassandra Perch. Kassandra is a return guest from [JavaScript Jabber episode 197](https://devchat.tv/js-jabber/197-jsj-auth0-with-kassandra-perch). Kassandra is a developer relations engineer for [IOpipe](https://www.iopipe.com), that does AWS Lambda monitoring and visibility in the server-less space. Kassandra talks about their journey into program through game sharks or programming game cartridges. Also, furthering their interest in programming was taking computer science courses in college, and getting a part-time job in the technology field during college while networking. Kassandra shares their favorite contributions to javascript and open source projects. **In particular, we dive pretty deep on:**
+**Panel:&nbsp;** Charles Max Wood **Guest:** Kassandra Perch This week on My JavaScript Story, Charles speaks with Kassandra Perch. Kassandra is a return guest from [JavaScript Jabber episode 197](https://devchat.tv/js-jabber/197-jsj-auth0-with-kassandra-perch). Kassandra is a developer relations engineer for [IOpipe](https://www.iopipe.com), that does AWS Lambda monitoring and visibility in the server-less space. Kassandra talks about their journey into program through game sharks or programming game cartridges. Also, furthering their interest in programming was taking computer science courses in college, and getting a part-time job in the technology field during college while networking. Kassandra shares their favorite contributions to javascript and open source projects. **In particular, we dive pretty deep on:**
+
 - How did you get into programming? Game Sharks
 - Game Cartridges
 - Austin Meetup Group and JavaScript
@@ -29,23 +30,20 @@ tags:
 - What are you working on now?
 - [AVR Girl](https://github.com/noopkat/avrgirl)
 - and much, much more!
-**Links:&nbsp;**
+  **Links:&nbsp;**
 - https://www.iopipe.com
 - [https://github.com/nodebotanist](https://github.com/nodebotanist)
 - [https://github.com/noopkat/avrgirl](https://github.com/noopkat/avrgirl)
 - [http://johnny-five.io](http://johnny-five.io)
 - [IOpipe](https://www.iopipe.com)
-**Picks** Kassandra
+  **Picks** Kassandra
 - Sue Hitten
 - [Johnny 5](http://johnny-five.io)
 - [Serverless Framework&nbsp;](https://serverless.com)
-Charles
+  Charles
 - [VS Code Azure pluggin&nbsp;](https://marketplace.visualstudio.com/items?itemName=bradygaster.azuretoolsforvscode)
 - [Serverless Framework](https://serverless.com)
 - [Amanda Silver interview&nbsp;](https://devchat.tv/js-jabber/jsj-288-typescript-amanda-silver)
 - [More VS Code Interviews on Dev Chat TV](https://devchat.tv/js-jabber/jsj-289-visual-studio-code-live-sharing-chris-dias-pj-meyer-live-microsoft-connect-2017)
 
-
 ### Transcript
-
-

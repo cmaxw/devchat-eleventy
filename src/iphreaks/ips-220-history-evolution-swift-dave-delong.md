@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 221: History and Evolution of Swift with Dave DeLong
+  iPS 221: History and Evolution of Swift with Dave DeLong
 date: 2017-11-30 00:00:59
 episode_number: 221
 duration: 53:33
 audio_url: https://media.devchat.tv/iphreaks/iPS_221_History_and_Evolution_of_Swift_with_Dave_DeLong.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:** Erica Jaim Andrew **Special Guest:&nbsp;** Dave DeLong In today's episode, the iPhreak’s Gui Rambo speaks with Dave DeLong. Dave is a seven-year veteran of Apple, Dave DeLong is an accomplished iOS engineer with a passion for teaching, and hacking the Objective-C runtime. During his time at Apple, he worked on the UIKit framework, Developer Evangelism, and Apple Maps. He now works at Snap, Inc. on the Snapchat app. Dave, his family, and his large collection of bowties live near Salt Lake City, UT, where he’s an active member of the local developer community. He can often be found on Twitter teaching developers about all the ways that calendrical calculations can go wrong. **In particular, we dive pretty deep on:**
+**Panel:** Erica Jaim Andrew **Special Guest:&nbsp;** Dave DeLong In today's episode, the iPhreak’s Gui Rambo speaks with Dave DeLong. Dave is a seven-year veteran of Apple, Dave DeLong is an accomplished iOS engineer with a passion for teaching, and hacking the Objective-C runtime. During his time at Apple, he worked on the UIKit framework, Developer Evangelism, and Apple Maps. He now works at Snap, Inc. on the Snapchat app. Dave, his family, and his large collection of bowties live near Salt Lake City, UT, where he’s an active member of the local developer community. He can often be found on Twitter teaching developers about all the ways that calendrical calculations can go wrong. **In particular, we dive pretty deep on:**
+
 - History of involvement with Swift 8:20
 - How is Swift as an open source project? 10:50
 - What is Swift Evolution? 12:43
@@ -28,21 +29,17 @@ tags:
 - Dave’s idea for improving Date API’s 43:48
 - What are the goals for a Non-Standard Libraries? 47:50
 - How to get involved with Swift Evolution 54:00
-**LINKS:**
+  **LINKS:**
 - [Blog](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/)
-**Picks:** Jaim:
+  **Picks:** Jaim:
 - [Brian Hogan&nbsp;](http://bphogan.com/recruiter.txt)
-Erica:
+  Erica:
 - [Brandon Sanderson - Trilogy&nbsp;](https://brandonsanderson.com/books/mistborn/)
-Dave:
+  Dave:
 - [Andy Weir&nbsp;](http://www.andyweirauthor.com/books/artemis-hc)
-Andrew:
+  Andrew:
 - [CLANG Format](https://clang.llvm.org/docs/ClangFormat.html)
-
-
 
 ### Transcript
 
 &nbsp;
-
-

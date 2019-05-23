@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      042 AiA Dependency Injection and Change Detection with Victor Savkin
+  042 AiA Dependency Injection and Change Detection with Victor Savkin
 date: 2015-05-14 13:00:00
 episode_number: 042
-duration: 
+duration:
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA042DIandChangeDetection.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 &nbsp;02:07 - Victor Savkin Introduction
 
-- [Twitter](https://twitter.com/victorsavkin) 
+- [Twitter](https://twitter.com/victorsavkin)
 - [GitHub](https://github.com/vsavkin)
 - [Blog](http://victorsavkin.com/)
 
@@ -40,7 +40,7 @@ tags:
 18:02 - Change Detection
 
 - [Victor](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)[Savkin](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)[: Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
-- [[YouTube] Change Detection Reinvented by Victor ](https://www.youtube.com/watch?v=jvKGQSFQf10)[Savkin](https://www.youtube.com/watch?v=jvKGQSFQf10)[@ ng-conf 2015](https://www.youtube.com/watch?v=jvKGQSFQf10) 
+- [[YouTube] Change Detection Reinvented by Victor ](https://www.youtube.com/watch?v=jvKGQSFQf10)[Savkin](https://www.youtube.com/watch?v=jvKGQSFQf10)[@ ng-conf 2015](https://www.youtube.com/watch?v=jvKGQSFQf10)
 
 24:33 - Components & Immutability
 
@@ -49,23 +49,21 @@ tags:
 28:08 - Scope
 
 - [zone.js](https://github.com/btford/zone.js/)
-  - [[YouTube] Zones by Brian Ford @ ng-conf 2014](https://www.youtube.com/watch?v=3IqtmUscE_U) 
+  - [[YouTube] Zones by Brian Ford @ ng-conf 2014](https://www.youtube.com/watch?v=3IqtmUscE_U)
   - [angular/zone.js](https://github.com/angular/zone.js/)
 
 30:28 - Binding
 
 - Action Phase/Control Phase
-- Production Mode/Dev Mode 
+- Production Mode/Dev Mode
   - [Victor](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)[Savkin](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)[: Two Phases of Angular 2 Applications](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)&nbsp;
-Picks
+    Picks
 
 [My Story by Elizabeth Smart](http://www.amazon.com/gp/product/1250055458/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250055458&linkCode=as2&tag=chamaxwoo-20&linkId=PJM2P3MKRYS372ZU) (Aaron)[Shawarma](http://en.wikipedia.org/wiki/Shawarma) (Joe)[Home](http://www.imdb.com/title/tt2224026/) (Katya)[Mulan](http://movies.disney.com/mulan) (Katya)[How to Win Friends & Influence People by Dale Carnegie](http://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=chamaxwoo-20&linkId=WDNUHBF76J7TC4DS) (Chuck)[WorkFlowy](https://workflowy.com/) (Chuck)[Habit Stacking: 97 Small Life Changes That Take Five Minutes or Less by S.J. Scott](http://www.amazon.com/gp/product/1499341474/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1499341474&linkCode=as2&tag=chamaxwoo-20&linkId=3MLNVCV3VIJVD5AO) (Chuck)[Mini Habits: Smaller Habits, Bigger Results by Stephen Guise](http://www.amazon.com/gp/product/1494882272/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1494882272&linkCode=as2&tag=chamaxwoo-20&linkId=B4LENVVTK6ERPEYP) (Chuck)[Android: Netrunner Card Game](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/) (Victor) Mechanical Keyboards (Victor)
 
-
-
 ### Transcript
 
- **CHUCK:** I'm getting heart palpitations.. But I can't leave!
+**CHUCK:** I'm getting heart palpitations.. But I can't leave!
 
 _**[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco and New York and LA get on JavaScript developers providing to put the salary and equity upfront. The average JavaScript developer gets an average of 5-15 introductory offers and an average salary of over $130,000 a year. You just can either accept an offer and go right into interviewing with the company and neither with that any continuing obligations. It's totally free for users, and when you're hired, they'll also give you a $2,000 signing bonus as a "Thank You" for using them. But if you use the Adventures in Angular link, you'll get a $4,000 bonus instead. Finally, if you're not looking for a job but know someone who is, you can refer them to Hired to get a $1,337 bonus if they accept the job. Go sign up at Hired.com/AdventuresinAngular.]**_
 
@@ -73,7 +71,7 @@ _**[Does your team need to master AngularJS? Oasis Digital offers Angular Boot C
 
 _**[This episode is sponsored by Wijmo 5, a brand new generation of JavaScript Controls. A pretty amazing line of HTML5 and JavaScript products for enterprise application development. Wijmo 5 leverages ECMAScript 5 and each control ships with AngularJS directives. Check out the faster, lighter and more mobile Wijmo 5.]**_
 
-_**[This episode is sponsored by Digital Ocean. Digital Ocean is the provider I use to host all of my creations. All the shows are hosted there, along with any other projects I come up with. Their user interface is simple and easy to use. Their support is excellent. And their VPSes are backed on solid-state drives and are fast and responsive. Check them out at DigitalOcean.com. If you use the code “** __**angularadventures**__ **” you'll get a $10 credit!]**_
+_**[This episode is sponsored by Digital Ocean. Digital Ocean is the provider I use to host all of my creations. All the shows are hosted there, along with any other projects I come up with. Their user interface is simple and easy to use. Their support is excellent. And their VPSes are backed on solid-state drives and are fast and responsive. Check them out at DigitalOcean.com. If you use the code “** ****angularadventures**** **” you'll get a \$10 credit!]**_
 
 **CHUCK:** Hey, everybody! And welcome to Episode 42 of the Adventures in Angular show. This week on our panel, we have Aaron Frost.
 
@@ -337,7 +335,7 @@ So, there are ways to do with ng-model at Angular 2, but those ways both on top 
 
 **AARON:** I think you'll see a lot of projects come out with di.js and Immutable.js and all these separate things kind of coming into defaulting your app, which is cool! Which is very cool.
 
-**JOE:** I have a different question. I know that the concept of $scope is disappearing. And in Angular 1, if I did something in a JQuery plugin or with like a WebSocket that was outside of Angular and I needed now Angular to apply that, I would call a $scope.$apply, right?
+**JOE:** I have a different question. I know that the concept of $scope is disappearing. And in Angular 1, if I did something in a JQuery plugin or with like a WebSocket that was outside of Angular and I needed now Angular to apply that, I would call a $scope.\$apply, right?
 
 **VICTOR:** Yup.
 
@@ -586,5 +584,3 @@ _**[This episode is sponsored by Mad Glory. You’ve been building software for 
 _**[Hosting and bandwidth provided by The Blue Box Group. Check them out at bluebox.net]**_
 
 _**[Bandwidth for this segment is provided by Cache Fly, the world’s fastest CDN. Deliver your content fast with Cache Fly. Visit cachefly.com to learn more.]**_
-
-

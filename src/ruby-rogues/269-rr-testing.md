@@ -1,31 +1,33 @@
 ---
 layout: layouts/post.njk
 title: >
-      269 RR Testing
+  269 RR Testing
 date: 2016-07-20 07:00:37
 episode_number: 269
 duration: 59:49
 audio_url: http://media.devchat.tv/ruby-rogues/RR269Testing.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 ## [Rails Remote Conf](https://allremoteconfs.com/rails-2016)
+
 &nbsp;02:07 - Testing07:28 - Adding Tests Later; When is the test useful?
+
 - [TDD (Test-driven Development)](https://en.wikipedia.org/wiki/Test-driven_development)
-14:35 - Testing the Happy Path16:48 - Writing Tests First18:53 - Sharing Code 
+  14:35 - Testing the Happy Path16:48 - Writing Tests First18:53 - Sharing Code
 - [Larry Wall: Three Virtues](http://threevirtues.com/)
-27:34 - Testing Error Messages29:04 - External vs Mocking/Stubbing34:11 - [Exploratory Tests](https://en.wikipedia.org/wiki/Exploratory_testing) and [Characterization Tests](https://en.wikipedia.org/wiki/Characterization_test)
+  27:34 - Testing Error Messages29:04 - External vs Mocking/Stubbing34:11 - [Exploratory Tests](https://en.wikipedia.org/wiki/Exploratory_testing) and [Characterization Tests](https://en.wikipedia.org/wiki/Characterization_test)
 - [Sunk Cost Fallacy](https://en.wikipedia.org/wiki/Sunk_costs)
 - [Katrina Owen: Therapeutic Refactoring](http://confreaks.tv/videos/cascadiaruby2012-therapeutic-refactoring)
-39:07 - Refactoring47:22 - Mocking and Stubbing (Cont’d)
+  39:07 - Refactoring47:22 - Mocking and Stubbing (Cont’d)
 - [Justin Searls: To Mock or Not to Mock @ SCNA 2012](https://vimeo.com/54045166)
 - [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
   - [Practical Object-Oriented Design in Ruby by Sandi Metz](http://poodr.com/)
 - Spies
-&nbsp;Picks
+  &nbsp;Picks
 - [How American Politics Went Insane](http://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/) (Jessica)
 - [Alex Kitchens’ Minecraft Tweet](https://twitter.com/alexcameron89/status/743985053332475904) (Sam)
 - [The "Is It a DSL or an API?" Ten Question Checklist](https://gist.github.com/geeksam/24ef10be8c773a2c1bd4) (Sam)
@@ -33,10 +35,9 @@ tags:
 - [Zoom](http://zoom.us/) (Chuck)
 - [Rails Remote Conf](https://allremoteconfs.com/rails-2016) (Chuck)
 
-
 ### Transcript
 
- **JESSICA:** I totally envy the beard thing sometimes. I mean, I don't have to shave my face daily. That's kind of nice. But I can't grow a mustache. Mustaches are so cool.
+**JESSICA:** I totally envy the beard thing sometimes. I mean, I don't have to shave my face daily. That's kind of nice. But I can't grow a mustache. Mustaches are so cool.
 
 **_[This episode is sponsored by Hired.com. Every week on hired they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It's totally free for users. And when you're hired, they give you a $1,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you'll get a $2,000 instead. Finally, if you're not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/RubyRogues.]_**
 
@@ -995,5 +996,3 @@ And with that I guess we'll wrap up and we'll catch everyone next week.
 **_[Bandwidth for this segment is provided by CacheFly, the world's fastest CDN. Deliver your content fast with CacheFly. Visit C-A-C-H-E-F-L-Y dot com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

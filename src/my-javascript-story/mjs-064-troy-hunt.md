@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 064: Troy Hunt
+  MJS 064: Troy Hunt
 date: 2018-06-06 10:00:35
 episode_number: 064
 duration: 24:57
 audio_url: https://media.devchat.tv/my-js-story/MJS_064_Troy_Hunt.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Troy Hunt
 
@@ -21,7 +21,7 @@ This week on My JavaScript Story, Charles speaks with [Troy Hunt](https://www.tr
 **In particular, we dive pretty deep on:**
 
 - Web security
-- This show is not about code or technology, but about the person. 
+- This show is not about code or technology, but about the person.
 - How did you get into programming, Troy?
   - 1995 Troy started at the university.
 - Book: [HTML for Dummies](https://www.amazon.com/HTML-Dummies-Ed-Tittel/dp/076450214X/ref=sr_1_2/141-6555938-9839401?ie=UTF8&qid=1528148741&sr=8-2&keywords=html+for+dummy&dpID=51IuNDzDhwL&preST=_SX258_BO1,204,203,200_QL70_&dpSrc=srch)
@@ -37,10 +37,10 @@ This week on My JavaScript Story, Charles speaks with [Troy Hunt](https://www.tr
 - What are you working on now?
   - Launched my [Version 2 of “Pwned Passwords.”](https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/)
   - Cloud Flare
-- E-mails and Passwords breached 
+- E-mails and Passwords breached
   - Have a program that tells you to do something different instead.
   - Try to find a balance.
-  - Do most people think about web security? Probably not. 
+  - Do most people think about web security? Probably not.
   - Bring awareness about this.
   - Make systems usable
   - Give people enough advice.
@@ -78,7 +78,7 @@ This week on My JavaScript Story, Charles speaks with [Troy Hunt](https://www.tr
 
 **Charles**
 
-- [The Greatest Showman](https://www.imdb.com/title/tt1485796/)– Musical 
+- [The Greatest Showman](https://www.imdb.com/title/tt1485796/)– Musical
 - [JavaScript](https://www.javascript.com)
 
 **Troy**
@@ -88,7 +88,4 @@ This week on My JavaScript Story, Charles speaks with [Troy Hunt](https://www.tr
 - [CSP’s](https://www.troyhunt.com/tag/csp/)
 - [Supply chain](https://www.troyhunt.com/the-javascript-supply-chain-paradox-sri-csp-and-trust-in-third-party-libraries/)
 
-
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 055: David Bush
+  MAS 055: David Bush
 date: 2018-10-10 10:00:39
 episode_number: 055
 duration: 35:48
 audio_url: https://media.devchat.tv/my-angular-story/MAS_055_David_Bush.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
@@ -126,7 +126,7 @@ For all of my code, I put all my logic in...
 [David](https://www.youtube.com/user/davidmbush)
 
 - How you do anything is how you do everything – for example: dress a little better.
-- Don’t beat yourself up when you mess up. 
+- Don’t beat yourself up when you mess up.
 - [Encrypt.me](https://encrypt.me)
 
 [Charles](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
@@ -134,10 +134,7 @@ For all of my code, I put all my logic in...
 - [Mojave Public Beta](https://www.macrumors.com/how-to/install-macos-mojave-public-beta/)
 - [High Sierra](https://support.apple.com/macos/high-sierra)
 - If upgrading: Listen to Chuck’s tips to make the transition easier!
-- [GitHub: Home\_Brew Developer](https://github.com/Linuxbrew/homebrew-developer)
+- [GitHub: Home_Brew Developer](https://github.com/Linuxbrew/homebrew-developer)
 - [Express VPN](https://www.expressvpn.com)
 
-
 ### Transcript
-
-

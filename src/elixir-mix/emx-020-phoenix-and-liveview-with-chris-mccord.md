@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 020: Phoenix and LiveView with Chris McCord
+  EMx 020: Phoenix and LiveView with Chris McCord
 date: 2018-09-25 11:04:01
 episode_number: 020
 duration: 56:28
 audio_url: https://media.devchat.tv/elixir-mix/EMx_020_Phoenix_and_LiveView_with_Chris_McCord.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Mark Ericksen
@@ -197,7 +197,7 @@ It’s interesting because you could have used a LiveView layer in the mid-2000s
 
 Charles
 
-- Geeking-out about the space stuff. 
+- Geeking-out about the space stuff.
 - Self-fastening pants – Velcro
 - Book: [Soft Cover IO](https://www.softcover.io)
 - Docking station
@@ -213,7 +213,7 @@ Josh
 
 Eric
 
-- [Earthrise – Apollo 8](https://www.nasa.gov/multimedia/imagegallery/image_feature_1249.html) – 1968 picture 
+- [Earthrise – Apollo 8](https://www.nasa.gov/multimedia/imagegallery/image_feature_1249.html) – 1968 picture
 - [Earthrise Wikipedia](https://en.wikipedia.org/wiki/Earthrise)
 - Podcast – [American Life](https://www.thisamericanlife.org/655/the-not-so-great-unknown)
 
@@ -222,7 +222,4 @@ Chris
 - [Phoenix 1.4 Book](https://pragprog.com/book/phoenix14/programming-phoenix-1-4)
 - [Phoenix Programming Book](https://github.com/dwyl/learn-phoenix-framework/issues/110)
 
-
 ### Transcript
-
-

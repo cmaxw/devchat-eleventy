@@ -1,42 +1,43 @@
 ---
 layout: layouts/post.njk
 title: >
-      159 iPS Troubleshooting and Debugging with Mark Dalrymple
+  159 iPS Troubleshooting and Debugging with Mark Dalrymple
 date: 2016-06-30 07:00:25
 episode_number: 159
 duration: 57:25
 audio_url: http://media.devchat.tv/iphreaks/iPS159DebuggingAndTroubleshooting.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 ## Check out [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016)!!
+
 &nbsp;01:06 - Mark Dalrymple Introduction
+
 - [Twitter](https://twitter.com/borkware)
 - [GitHub](https://github.com/markd2)
 - [Blog](http://borkware.com/)
 - [Bio](https://www.bignerdranch.com/about-us/nerds/mark-dalrymple/)
 - [Big Nerd Ranch](https://www.bignerdranch.com/)
 - [Big Nerd Ranch Blog](https://www.bignerdranch.com/blog/)
-01:58 - Debugging, Troubleshooting, and Performance Tuning02:40 - [The Universal Troubleshooting Process](https://www.bignerdranch.com/blog/the-universal-troubleshooting-process/)
+  01:58 - Debugging, Troubleshooting, and Performance Tuning02:40 - [The Universal Troubleshooting Process](https://www.bignerdranch.com/blog/the-universal-troubleshooting-process/)
 - [Troubleshooters.com](http://troubleshooters.com/)
 - [Thoughts on Debugging, Part 1](https://www.bignerdranch.com/blog/thoughts-on-debugging-part-1/)
 - [Thoughts on Debugging, Part 2](https://www.bignerdranch.com/blog/thoughts-on-debugging-2/)
-10:32 - Mark’s Favorite Bug15:48 - Debugging with Others18:02 - Bug Reproduction20:40 - Chuck’s Favorite Bug25:31 - Specific Tools 
+  10:32 - Mark’s Favorite Bug15:48 - Debugging with Others18:02 - Bug Reproduction20:40 - Chuck’s Favorite Bug25:31 - Specific Tools
 - [Xcode](https://developer.apple.com/xcode/)
 - LLDB Command Line Interface
 - Caveman Debugging (Print Statements)
 - [Programmers at Work: Interviews With 19 Programmers Who Shaped the Computer Industry](https://www.amazon.com/Programmers-Work-Interviews-Computer-Industry/dp/1556152116)
-30:55 - Testing36:28 - Tracking39:10 - Code Review42:07 - Resources for Getting Better at Debugging&nbsp;Picks
+  30:55 - Testing36:28 - Tracking39:10 - Code Review42:07 - Resources for Getting Better at Debugging&nbsp;Picks
 - [Ludiphilia Podcast](http://ludiphilia.net) (Andrew)
 - [The Manhole](http://cyan.com/iOS_ManholeME/The_Manhole_iOS/Welcome.html) (Andrew)
 - [Start with Why by Simon Sinek](https://www.startwithwhy.com/) (Chuck)
 - [VoodooPad 5](https://plausible.coop/voodoopad/) (Mark)
 - [Mark Dalrymple: Adventures in Debugging - Keeping a Log](https://www.bignerdranch.com/blog/adventures-in-debugging-keeping-a-log/) (Mark)
 - [Acorn 5](http://flyingmeat.com/acorn/) (Mark)
-
 
 ### Transcript
 
@@ -423,5 +424,3 @@ What’s really nice is these editors are bullet proof. I can have an Emacs syst
 **CHUCK:** Yeah, thanks Mark.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

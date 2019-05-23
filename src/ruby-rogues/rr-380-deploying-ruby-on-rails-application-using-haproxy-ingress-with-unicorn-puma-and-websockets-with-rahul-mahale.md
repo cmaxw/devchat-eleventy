@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 380: "Deploying Ruby on Rails application using HAProxy Ingress with unicorn/puma and websockets‌" with Rahul Mahale
+  RR 380: "Deploying Ruby on Rails application using HAProxy Ingress with unicorn/puma and websockets‌" with Rahul Mahale
 date: 2018-09-18 10:00:03
 episode_number: 380
 duration: 1:00:55
 audio_url: https://media.devchat.tv/ruby-rogues/RR_380_Deploying_Ruby_on_Rails_application_using_HAProxy_Ingress_with_Rahul_Mahale.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Dave Kimura
@@ -192,7 +192,4 @@ Rahul
 - [Podcast – All Things Devops](https://allthingsdevops.bigbinary.com)
 - [Kubernetes](https://kubernetes.io)
 
-
 ### Transcript
-
-

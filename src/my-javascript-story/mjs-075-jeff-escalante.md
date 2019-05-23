@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 075: Jeff Escalante
+  MJS 075: Jeff Escalante
 date: 2018-08-22 15:56:42
 episode_number: 075
 duration: 48:41
 audio_url: https://media.devchat.tv/my-js-story/MJS_075_Jeff_Escalante.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Jeff Escalante
 
@@ -78,7 +78,4 @@ Jeff
 - Webpack bundle analyzer plugin
 - [mdx](https://github.com/mdx-js/mdx)
 
-
 ### Transcript
-
-

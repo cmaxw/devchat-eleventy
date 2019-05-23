@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 017: Cloud-Hosted DevOps with Ori Zohar and Gopinath Chigakkagari LIVE at Microsoft Build
+  VoV 017: Cloud-Hosted DevOps with Ori Zohar and Gopinath Chigakkagari LIVE at Microsoft Build
 date: 2018-06-26 10:00:07
 episode_number: 017
 duration: 55:25
 audio_url: https://media.devchat.tv/viewsonvue/VoV_017_Cloud-Hosted_DevOps_with_Ori_Zohar_and_Gopinath_Chigakkagari_LIVE_at_Microsoft_Build.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 
@@ -42,7 +42,7 @@ In this episode, the Views on Vue panelists discuss Cloud-Hosted DevOps with Ori
 - Trends on what customers are asking for
 - Safety
 - Docker containers
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -53,14 +53,14 @@ In this episode, the Views on Vue panelists discuss Cloud-Hosted DevOps with Ori
 - [Ori’s GitHub](https://github.com/orizohar)
 - [Gopi’s GitHub](https://github.com/gopinathch)
 - [@gopinach](https://twitter.com/gopinach)
-- 
+-
 
 **Sponsors**
 
 - [Kendo UI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
 - [Linode](https://promo.linode.com/javascriptjabber/)
 - [FreshBooks](https://www.freshbooks.com/invoice?ref=11731&utm_source=pbm&utm_medium=affiliate-program&utm_influencer=419364&utm_campaign=podcast-influencers)
-- 
+-
 
 **Picks:**
 
@@ -69,7 +69,7 @@ Charles
 - [.NET Rocks!](https://www.dotnetrocks.com/)
 - [Shure SM58 Microphone](http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone)
 - [Zoom H6](https://www.zoom-na.com/products/field-video-recording/field-recording/h6-handy-recorder)
-- 
+-
 
 Ori
 
@@ -80,7 +80,4 @@ Gopinath
 
 - Seattle, WA
 
-
 ### Transcript
-
-

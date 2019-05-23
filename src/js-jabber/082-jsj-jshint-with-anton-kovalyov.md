@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      082 JSJ JSHint with Anton Kovalyov
+  082 JSJ JSHint with Anton Kovalyov
 date: 2013-11-01 15:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
@@ -20,16 +20,18 @@ tags:
 - Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
 
 ### Discussion
+
 00:57 - Anton Kovalyov
+
 - [Mozilla](http://www.mozilla.org/)
 - [Disqus](http://disqus.com/)
 - [JSHint](http://www.jshint.com/)
 - [JSLint](http://www.jslint.com/)
-03:40 - [Why I forked JSLint to JSHint](http://anton.kovalyov.net/2011/02/20/why-i-forked-jslint-to-jshint/)07:15 - [JSHint](http://www.jshint.com/) vs [JSLint](http://www.jslint.com/)14:19 - Sticking with the same format
+  03:40 - [Why I forked JSLint to JSHint](http://anton.kovalyov.net/2011/02/20/why-i-forked-jslint-to-jshint/)07:15 - [JSHint](http://www.jshint.com/) vs [JSLint](http://www.jslint.com/)14:19 - Sticking with the same format
 - [Go](http://golang.org/)
-16:08 - “Code is Art” 17:12 - JSHint Parser & Lexer 21:40 - Continuous Integration 24:11 - [Beautiful JavaScript by Anton Kovalyov](http://shop.oreilly.com/product/0636920030706.do)25:58 - node: true 27:40 - Contributing to JSHint
+  16:08 - “Code is Art” 17:12 - JSHint Parser & Lexer 21:40 - Continuous Integration 24:11 - [Beautiful JavaScript by Anton Kovalyov](http://shop.oreilly.com/product/0636920030706.do)25:58 - node: true 27:40 - Contributing to JSHint
 - [jscs](https://npmjs.org/package/jscs)
-32:27 - Text Editors
+  32:27 - Text Editors
 - [Sublime Text](http://www.sublimetext.com/)
 
 ### Picks
@@ -51,8 +53,7 @@ tags:
 - [Ender's Game](http://www.imdb.com/title/tt1731141/) (Aaron)
 
 ### Next Week
+
 FRP and RxJS with Matthew Podwysocki
 
 ### Transcript
-
-

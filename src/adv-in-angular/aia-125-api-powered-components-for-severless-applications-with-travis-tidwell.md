@@ -1,27 +1,29 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 125 API Powered Components for Severless Applications with Travis Tidwell
+  AiA 125 API Powered Components for Severless Applications with Travis Tidwell
 date: 2016-12-29 06:00:19
 episode_number: 125
 duration: 56:36
 audio_url: https://media.devchat.tv/adventures-in-angular/125_AiA_API_Powered_Components_for_Serverless_Applications_with_Travis_Tidwell.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 1:25 - Introducing Travis Tidwell
+
 - [Form.io](https://form.io/)
 - [Blog](http://travistidwell.com/)
 - [Twitter](https://twitter.com/softwaregnome)
 - [Github](https://github.com/travist)
-2:35 - What’s a form and why would you build one?8:30 - Making changes to API-driven forms
+  2:35 - What’s a form and why would you build one?8:30 - Making changes to API-driven forms
 - [Swagger](http://swagger.io/)
-13:50 - Forms and [GraphQL](http://graphql.org/)15:10 - Working with conditions 16:55 - Serverless applications 24:20 - Microservices, actions, and web hooks 29:15 - Are all PWA’s serverless?31:10 - Building apps API-first instead of mobile-first36:00- The user experience and the API-first approach 38:10 - The inspection example42:50 - Rendering widgets using Angular
+  13:50 - Forms and [GraphQL](http://graphql.org/)15:10 - Working with conditions 16:55 - Serverless applications 24:20 - Microservices, actions, and web hooks 29:15 - Are all PWA’s serverless?31:10 - Building apps API-first instead of mobile-first36:00- The user experience and the API-first approach 38:10 - The inspection example42:50 - Rendering widgets using Angular
 - [https://github.com/formio/ng2-formio](https://github.com/formio/ng2-formio)
-46:50 - Teaching the “why” and the “how”
+  46:50 - Teaching the “why” and the “how”
+
 ### **Picks:**
 
 - [_Tools of Titans_](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788) by Timothy Ferriss (Lukas)
@@ -33,7 +35,7 @@ tags:
 - [Moleskine notebooks](http://www.moleskine.com/us/) (Charles)
 - [Asana](https://asana.com/) (Charles)
 - [_Westworld_](http://www.imdb.com/title/tt0475784/) (Travis)
-&nbsp;
+  &nbsp;
 
 ### Transcript
 

@@ -1,24 +1,25 @@
 ---
 layout: layouts/post.njk
 title: >
-      212 JSJ Horizon.js with Horizon.js with Michael Glukhovsky: Live from ng-conf!
+  212 JSJ Horizon.js with Horizon.js with Michael Glukhovsky: Live from ng-conf!
 date: 2016-05-18 07:00:23
 episode_number: 212
 duration: 40:10
-audio_url: https://media.devchat.tv/js-jabber/JSJ212JavaScriptJabberHorizonLive.mp3?rss=true 
+audio_url: https://media.devchat.tv/js-jabber/JSJ212JavaScriptJabberHorizonLive.mp3?rss=true
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 02:34 - Michael Glukhovsky Introduction
+
 - [Twitter](https://twitter.com/mglukhovsky)
 - [RethinkDB](https://www.rethinkdb.com/)
 - [@rethinkdb](https://twitter.com/rethinkdb)
-02:35 - [horizon-js](https://github.com/ging/horizon-js)04:52 - Versus Open Source [Firebase](https://www.firebase.com/)06:15 - The Security Model
+  02:35 - [horizon-js](https://github.com/ging/horizon-js)04:52 - Versus Open Source [Firebase](https://www.firebase.com/)06:15 - The Security Model
 - [Horizon.io](https://horizon.io/)
-07:56 - The Admin Interface09:16 - RethinkDB + Horizon10:56 - Versus [Meteor](https://www.meteor.com/)13:35 - Message Format14:26 - Getting Started19:01 - Real-time21:24 - Security26:56 - The Grand Vision; Use Cases32:17 - Managing Deployment with Redundancy &nbsp;Picks
+  07:56 - The Admin Interface09:16 - RethinkDB + Horizon10:56 - Versus [Meteor](https://www.meteor.com/)13:35 - Message Format14:26 - Getting Started19:01 - Real-time21:24 - Security26:56 - The Grand Vision; Use Cases32:17 - Managing Deployment with Redundancy &nbsp;Picks
 - [That Conference](https://www.thatconference.com/) (Joe)
 - [AngularConnect](http://angularconnect.com/) (Joe)
 - [React Rally](http://www.reactrally.com/) (Joe)
@@ -30,7 +31,6 @@ tags:
 - [Uncanny Valley Podcast](https://itunes.apple.com/us/podcast/uncanny-valley-podcast-uncanny/id535761300?mt=2) &nbsp;(Jamison)
 - [Kishi Boshi](http://www.kishibashi.com/) (Jamison)
 - [David R. MacIver: On criticizing programming languages (without criticizing their users)](http://www.drmaciver.com/2015/12/on-criticizing-programming-languages/) (Aimee)
-
 
 ### Transcript
 
@@ -519,5 +519,3 @@ And then my last pick is I think I'm just going to pick Kishi Bashi. It's an art
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 079: Michael Garrigan
+  MJS 079: Michael Garrigan
 date: 2018-10-03 12:57:33
 episode_number: 079
 duration: 33:31
 audio_url: https://media.devchat.tv/my-js-story/MJS_079_Michael_Garrigan.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
 **Guest:** [Michael Garrigan](http://michaelgarrigan.com)
 
@@ -116,10 +116,7 @@ This week on My JavaScript Story, Charles speaks with [http://michaelgarrigan.co
 
 [Michael Garrigan](http://michaelgarrigan.com)
 
-- Brad’s YouTube channel - ½ million subscribers 
+- Brad’s YouTube channel - ½ million subscribers
 - [Michaelgarrigan.com – website](http://michaelgarrigan.com)
 
-
 ### Transcript
-
-

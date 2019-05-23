@@ -1,19 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      218 JSJ Ember.js with Yehuda Katz
+  218 JSJ Ember.js with Yehuda Katz
 date: 2016-06-29 07:00:42
 episode_number: 218
 duration: 42:47
 audio_url: https://media.devchat.tv/js-jabber/JSJ218YehudaKatz.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 ## Check out [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016)!
+
 &nbsp;02:38 - Yehuda Katz Introduction
+
 - [Twitter](https://twitter.com/wycats)
 - [GitHub](https://github.com/wycats)
 - [Blog](http://yehudakatz.com/)
@@ -22,18 +24,18 @@ tags:
 - [Peter Solnic: Abstractions and the role of a framework](http://solnic.eu/2016/05/30/abstractions-and-the-role-of-a-framework.html) (Follow-up)
 - [Ember.js](http://emberjs.com/)
 - [The Skylight Blog: Inside Skylight](http://blog.skylight.io/)
-05:37 - Batching Updates10:04 - Naming
+  05:37 - Batching Updates10:04 - Naming
 - [Fastboot](http://emberjs.com/blog/2014/12/22/inside-fastboot-the-road-to-server-side-rendering.html)
 - [Services](https://guides.emberjs.com/v2.1.0/applications/services/)
 - [glimmer](https://github.com/tildeio/glimmer)
-14:19 - Communication 
+  14:19 - Communication
 - [Skylight](https://www.skylight.io/)
-16:21 - Decorators19:46 - “Junior Developer” and Knowledge Bias
+  16:21 - Decorators19:46 - “Junior Developer” and Knowledge Bias
 - [CodeNewbie Ep. 90: Creating EmberJS - Part I with Yehuda Katz](http://www.codenewbie.org/podcast/creating-emberjs-part-i)
 - [CodeNewbie Ep. 91: Creating EmberJS - Part II with Yehuda Katz](http://www.codenewbie.org/podcast/creating-emberjs-part-ii)
-28:25 - Termanology in Tech29:23 - Diversity 
+  28:25 - Termanology in Tech29:23 - Diversity
 - [Women Helping Women](http://emberconf.com/women-helping-women.html)
-&nbsp;Picks
+  &nbsp;Picks
 - [Event Driven: How to Run Memorable Tech Conferences by Leah Silber](https://leanpub.com/eventdriven) (Yehuda)
 - [TypeScript](http://www.typescriptlang.org/) (Yehuda)
 - [emberjs/rfcs](https://github.com/emberjs/rfcs) (Yehuda)
@@ -45,10 +47,9 @@ tags:
 - [2016 UtahJS Conference](https://conf.utahjs.com/) (Dave)
 - [Start With Why by Simon Sinek](https://www.startwithwhy.com/) (Chuck)
 
-
 ### Transcript
 
- **DAVE:&nbsp; &nbsp;** Yesterday, I made a camp fire in my backyard.
+**DAVE:&nbsp; &nbsp;** Yesterday, I made a camp fire in my backyard.
 
 **_[This episode is sponsored by Frontend Masters. They have a terrific lineup of live courses you can attend either online or in person. They also have a terrific backlog of courses you can watch including JavaScript the Good Parts, Build Web Applications with Node.js, AngularJS In-Depth, and Advanced JavaScript. You can go check them out at FrontEndMasters.com.]_**
 
@@ -301,5 +302,3 @@ It's really making me think about what we're doing with the podcasts and with th
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

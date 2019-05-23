@@ -1,40 +1,42 @@
 ---
 layout: layouts/post.njk
 title: >
-      270 RR #talkpay with Lauren Voswinkel
+  270 RR #talkpay with Lauren Voswinkel
 date: 2016-07-27 07:00:24
 episode_number: 270
 duration: 50:43
 audio_url: http://media.devchat.tv/ruby-rogues/RR270TalkPay.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 ## [All Remote Conferences](https://allremoteconfs.com/)
+
 &nbsp;02:01 - Lauren Voswinkel Introduction
+
 - [Twitter](https://twitter.com/laurenvoswinkel)
 - [GitHub](https://github.com/Valarissa)
 - [New Relic](https://newrelic.com/)
-02:39 - May 1st: [International Workers’ Day](https://en.wikipedia.org/wiki/International_Workers%27_Day)
+  02:39 - May 1st: [International Workers’ Day](https://en.wikipedia.org/wiki/International_Workers%27_Day)
 - [Lauren Voswinkel: #talkpay and the Importance of Collective Action](https://recompilermag.com/talkpay-and-the-importance-of-collective-action/)
 - [Taft–Hartley Act](https://en.wikipedia.org/wiki/Labor_Management_Relations_Act_of_1947) (The Labor Management Relations Act of 1947)
-06:11 - [#talkpay](https://twitter.com/hashtag/talkpay?lang=en)
+  06:11 - [#talkpay](https://twitter.com/hashtag/talkpay?lang=en)
 - [Information Asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry)
-10:22 - Fair Trade of Value; Companies and Salaries
+  10:22 - Fair Trade of Value; Companies and Salaries
 - [Kelley Blue Book](http://www.kbb.com/)
-19:37 - Salary Maximization and Negotiations22:40 - Executive Salaries
+  19:37 - Salary Maximization and Negotiations22:40 - Executive Salaries
 - [Planet Money: Episode 682: When CEO Pay Exploded](http://www.npr.org/sections/money/2016/02/05/465747726/-682-when-ceo-pay-exploded)
-25:58 - Hashtag Effectiveness
+  25:58 - Hashtag Effectiveness
 - [Glassdoor](https://www.glassdoor.com/index.htm)
-29:05 - Implications of Salary Reveals32:08 - The Labor Management Relations Act of 1947 (Cont’d)Salary Sharing Between Employees35:41 - Sharing Salary Information Publicly and [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
+  29:05 - Implications of Salary Reveals32:08 - The Labor Management Relations Act of 1947 (Cont’d)Salary Sharing Between Employees35:41 - Sharing Salary Information Publicly and [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 - [Crab Mentality](https://en.wikipedia.org/wiki/Crab_mentality)
-37:38 - Job Elimination42:40 - Is/has #talkpay been successful?&nbsp;More Information
-- [Ex-Apple, Google, Intel geeks in line for $415m over wage-fix pacts](http://www.theregister.co.uk/2015/01/16/silicon_valley_415m_wage_fix_pacts_settlement/)
+  37:38 - Job Elimination42:40 - Is/has #talkpay been successful?&nbsp;More Information
+- [Ex-Apple, Google, Intel geeks in line for \$415m over wage-fix pacts](http://www.theregister.co.uk/2015/01/16/silicon_valley_415m_wage_fix_pacts_settlement/)
 - [Wage Stagnation in Nine Charts](http://www.epi.org/publication/charting-wage-stagnation/)
 - [Highlights of women’s earnings in 2014](http://www.bls.gov/opub/reports/womens-earnings/archive/highlights-of-womens-earnings-in-2014.pdf)
-&nbsp;Picks
+  &nbsp;Picks
 - [The Name of the Wind by Patrick Rothfuss](https://www.amazon.com/Name-Wind-Kingkiller-Chronicles-Day/dp/075640407X/ref=pd_bxgy_14_3?ie=UTF8&psc=1&refRID=5D4HAGF13KDVVE2W7EDW) (Sam)
 - [The Lies of Locke Lamora](https://en.wikipedia.org/wiki/The_Lies_of_Locke_Lamora) (Coraline)
 - [Brandon Sanderson's Alcatraz Versus the Evil Librarians Series](http://brandonsanderson.com/books/alcatraz/alcatraz-versus-the-evil-librarians/) (Chuck)
@@ -42,10 +44,9 @@ tags:
 - [Brené Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en) (Lauren)
 - [Brené Brown: Listening to shame](https://www.ted.com/talks/brene_brown_listening_to_shame?language=en) (Lauren)
 
-
 ### Transcript
 
- **CORALINE:&nbsp;** Board games on Thursday.
+**CORALINE:&nbsp;** Board games on Thursday.
 
 **SAM:&nbsp;** On Wednesdays, we wear pink.
 
@@ -115,7 +116,7 @@ They have access to a lot of information that they then use in order to say, "Ok
 
 **CHUCK:&nbsp;** See, I have a different point of view on this and that it's also a market transaction. So, if I'm negotiating a salary with my employer, effectively we're trying to fit. Yes, there is some antagonism there. I'll grant you that. But we're trying to work out what I think is a fair rate for my time versus what they're willing to pay. If I'm content with my salary, and they're content with the work I'm giving them, isn't that a fair trade of value?
 
-**LAUREN:&nbsp;** Normally, it would be a fair trade of value. Except when previous salary are often used in order to dictate the new salaries. So, when someone has not negotiated right off the bat, and they are making, say, $50,000 like when they're straight out of school, and they voluntarily yield that information every time that they switch jobs, that information is then used against them and keeps their salary at a repressed rate. While, yes, it is a "fair transaction", if that worker knew what their skills were worth, they would probably look at it and go, "What the hell? Why am I being paid like 20, 30, 40 thousand dollars less than my peer who is doing the same work that I am.
+**LAUREN:&nbsp;** Normally, it would be a fair trade of value. Except when previous salary are often used in order to dictate the new salaries. So, when someone has not negotiated right off the bat, and they are making, say, \$50,000 like when they're straight out of school, and they voluntarily yield that information every time that they switch jobs, that information is then used against them and keeps their salary at a repressed rate. While, yes, it is a "fair transaction", if that worker knew what their skills were worth, they would probably look at it and go, "What the hell? Why am I being paid like 20, 30, 40 thousand dollars less than my peer who is doing the same work that I am.
 
 **CORALINE:&nbsp;** I should point out too that in a market economy the value of goods is pretty much established and well-known. The value of a given commodity is based on, "Oh, this is slightly higher quality than the run of the mill widget," Or, "This is a widget that was manufactured to lower quality standards so it can be offered at a discount." The price of the widget, the market value of the widget is more broadly known than I think, the market value of a developer.
 
@@ -189,7 +190,7 @@ All of these companies are taking the vast majority of income and companies that
 
 **CHUCK:&nbsp;** That's true, but that's on the boards that run those companies. I see the CEO market as a market just like the programmer markets a market. If you want to get the CEO that you think is going to take your company to the place that you want it to be, then you have to pay them whatever the market is demanding for that position, for that person.
 
-**LAUREN:&nbsp;** But that information is public. So therefore, they know that they can keep bumping that number up. Whereas, for programmers or for any workers, that information isn't public so there's less ability to go, "Oh well, I could just go over to this other company that's willing to pay $180,000 for my skills," and having that transparency is kind of a double-edged sword.
+**LAUREN:&nbsp;** But that information is public. So therefore, they know that they can keep bumping that number up. Whereas, for programmers or for any workers, that information isn't public so there's less ability to go, "Oh well, I could just go over to this other company that's willing to pay \$180,000 for my skills," and having that transparency is kind of a double-edged sword.
 
 **CHUCK:&nbsp;** Yeah, I think this is the crux of the argument behind Talkpay, right? Is that, if all of the information about who was making what, where, were publicly available, then people would go to the place where they can get the best market value, so to speak, for their skills.
 
@@ -203,7 +204,7 @@ You look at an amount, a dollar value, and you look at what you're making and it
 
 **SAM:&nbsp;** Like a [inaudible] something, right?
 
-**LAUREN:&nbsp;** Yeah, just someone who is far and beyond, pushing the boundaries of what is possible in the field. But when I find out that that person who is making $360,000 is the guy like five desks down who is doing basically the same things that I'm doing, and I'm muttering about code quality, I'm going to look at that and be like, "Well, shit! Why am I not making that much money?"
+**LAUREN:&nbsp;** Yeah, just someone who is far and beyond, pushing the boundaries of what is possible in the field. But when I find out that that person who is making \$360,000 is the guy like five desks down who is doing basically the same things that I'm doing, and I'm muttering about code quality, I'm going to look at that and be like, "Well, shit! Why am I not making that much money?"
 
 That is why I chose to do a hashtag so that these dollar values would have actual people attached to them. Is there something else that can be done? Is there more that can be done about this? Absolutely. There is totally is. But this was something that I was seeing to just get the ball rolling, to have these discussions. Not just about sharing salaries but about the taboo surrounding sharing salaries. To have people say, "Hey, I'm uncomfortable sharing salaries." Well, why are you uncomfortable sharing salaries? Why does that feel like it's something that you shouldn't be doing?
 
@@ -253,7 +254,7 @@ So it's kind of nebulous because you said before that it was like on company tim
 
 **LAUREN:&nbsp;** My feelings about that particular aspect is this is one of the reasons that we need to have these types of discussions, because what it comes down to is that people should be making what they're worth, and we are right now, suffering from salaries being artificially repressed. So that kind of anxiety and impostor syndrome coming up, really to me feels like an effect of living in this like salary-repressed situation.
 
-It's not that you shouldn't be making that much. It's that everyone else should be making more. That really is another one of the main drivers for why I started Talkpay in the first place. The whole crabs in a bucket thing of like, "Oh, people shouldn't be making $160,000 for sitting at a keyboard," and whatnot. Well, it's like, well, why not? If I write a program that saves a company like two million dollars in revenue annually, theoretically speaking, I should be making even more money because I just saved up crap ton of money for the company.
+It's not that you shouldn't be making that much. It's that everyone else should be making more. That really is another one of the main drivers for why I started Talkpay in the first place. The whole crabs in a bucket thing of like, "Oh, people shouldn't be making \$160,000 for sitting at a keyboard," and whatnot. Well, it's like, well, why not? If I write a program that saves a company like two million dollars in revenue annually, theoretically speaking, I should be making even more money because I just saved up crap ton of money for the company.
 
 So, this belief that we are not contributing as much, I grapple with that a lot because of this mentality that we should devalue the work that we're doing and not put it in terms of raw dollars like the companies that we're working for are actually doing.
 
@@ -281,7 +282,7 @@ So I don't feel terrible about making something more efficient because what that
 
 One of the things that's been really depressing about Talkpay has been seen in the number of people who have left the hard sciences and the humanities in general as well, like they have left fields they have become experts at. I mean, talking about people with master’s degree in genetics, people with PhD in material sciences, things like this. Leaving those fields because they weren't paying anything.
 
-People with PhD is talking about, "Hey, back in 2014, I was making $26,000 a year," and they moved to software because there are getting paid 100,000 plus, like --
+People with PhD is talking about, "Hey, back in 2014, I was making \$26,000 a year," and they moved to software because there are getting paid 100,000 plus, like --
 
 **SAM:&nbsp;** And they're getting paid that much to work on a service that will bring you, and I kid you not, this is a literal thing in Portland, warm cookies in the evening. Or any of the variety of other things that your mom is no longer doing for you.
 
@@ -332,5 +333,3 @@ One of the things that I'm going to pick since I'm traveling to Chicago, this ev
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

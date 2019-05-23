@@ -1,24 +1,27 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 320: Shrine and File Uploads with Janko Mahronic
+  RR 320: Shrine and File Uploads with Janko Mahronic
 date: 2017-07-25 04:00:11
 episode_number: 320
 duration: 43:31
 audio_url: https://media.devchat.tv//ruby-rogues/RR_320_Shrine_and_File_Uploads_with_Janko_Mahronic_mixdown.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 ## **RR 320: Shrine and File Uploads with Janko Mahronic**
+
 Jerome Hardaway, Dave Kimura, and Charles Max Wood discuss Shrine with Janko Mahronic on this episode of Ruby Rogues. Janko is a Ruby developer. He is the creator of Shrine, which handles file uploads. Shrine tries to solve existing problems and gives many ways to upload files. It tries to accommodate and provide every option for whichever types of file you may be uploading. Tune in to find out more about Shrine!
+
 ### **Questions**
+
 **[00:03:56] What does Shrine do that CarrierWave doesn’t do?**One of the main reasons Shrine was created was to support background jobs. CarrierWave was missing support for background jobs. There is a CarrierWave extension for uploading in back-end but it doesn’t work reliably. It doesn’t delete files in the background and is missing the ability to have stable basic grounding capability. Shrine was created because of this reason.**[00:06:06] Does Shrine have good support for Rails?**Yes, you can hook up any backgrounding library. It has a designed interface in the way that Shrine can realize data for you. Shrine can call the background library directly. It can be an active job or custom background library. Inside the job, call Shine again to load all objects back up to finish the job.**[00:07:40] Does Shrine work across multiple file types or is it geared towards images?**Shrine works for any types of files. It is called the Ruby method. It can be implemented in any way you want. It has a functional style. You give the original file for the input and then move it to the processed files on the outputs. The processing can be anything: as long as you produce a file object on the output, you can call whatever you want to call, even an external service.**[00:09:04] What’s the biggest file that you’ve tested Shrine with? Have you run into any kind of memory leaks?**In Shrine nothing is done through memory, everything is done via streaming. When you’re streaming you don’t lose anything. It works for both small and large files.**[00:11:48] Explain what goes into building a file upload system. What are the concerns?**The framework handles the way the file is uploaded for you. Once the file is uploaded it’s stored into a temporary file. A gem handles most of the heavy work. Shrine makes a wrap around it. A lot of work goes into deciding which file attraction process needs to go in which order. It is important that you don’t upload in a data based transaction (?) 14:41 if processing lasts for longer time, whole time. There is a lot of time and decisions about what to do when.**[00:15:10] Do you have any blog posts about a migration plan? Do you have a good way to switch to Shrine?**Yes, Janko wrote migration guides. They include what codes you need to have to transition to Shrine. None of them involve re-uploading file because files are already there, they just need to be assigned ids. Then records can be updated with the file in a way that Shrine would be able to find them, just need to do record updates.**[00:17:29] What do you think active storage will do to the future of Shrine?**Janko may not be the best person to ask. He created Shrine for people who are not using Rails. It is difficult to tell at this point what active storage will do for the future of Shrine.**[00:19:50] How is the community adoption implementation? What is your process with that?**There is a Google group for people to ask questions. The setup doesn’t look that much different. Adoption is more that Janko tries to write a lot of blog post emphasizing some of the things that are better in Shrine. Most of the adoption started from the Go Rails screencast. When the author started to release videos. People were able to see what it looks like from start to finish. Go Rails is a great way to bring a library closer to a wide population.**[00:23:26] What stack are you using?**The preferred web framework is Roda and Sequel.**[00:25:00] Is there anything out there that you feel that these uploading that you adding to Shrine?**He feels like there is integration missing, which would be nice to have but he started working on he already knew what he wanted Shrine to support up front. Most of those features were added in the first and second release of Shrine. People won’t find on demand processing in Shrine because he decided not to add that.**[00:29:54] Security Points of Shrine**Uploads have to be authenticated. If a file is uploaded to a URL another person should not be able to review that file. If you want to authenticate files, you need to serve the files from your Rail set.**[00:32:55] How much time have you spent doing Shrine?**Two years.
+
 ### **Picks** :
+
 **Dave:** Wallabag: [https://wallabag.org/en](https://wallabag.org/en) **Charles** : Stair Points Skil Saw: [http://www.amazon.com/dp/B0731Q92BY/?tag=chamaxwoo-20](http://www.amazon.com/dp/B0731Q92BY/?tag=chamaxwoo-20) **Janko** : Event Machine: [http://www.rubyeventmachine.com/](http://www.rubyeventmachine.com/) **Links:** GitHub: [https://github.com/janko-m](https://github.com/janko-m)Twitter: [https://twitter.com/jankomarohnic?lang=en](https://twitter.com/jankomarohnic?lang=en)
 
 ### Transcript
-
-

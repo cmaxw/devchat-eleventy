@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 016: NativeScript Vue with Jen Looper
+  VoV 016: NativeScript Vue with Jen Looper
 date: 2018-06-18 10:00:57
 episode_number: 016
 duration: 1:01:31
 audio_url: https://media.devchat.tv/viewsonvue/VoV_016_NativeScript_Vue_with_Jen_Looper.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Chris Fritz
 - Joe Eames
@@ -99,7 +99,4 @@ Jen
 - [_VS Code Can Do That?_ Series](https://vscodecandothat.com/)
 - [Cat School](https://www.instagram.com/cat.school/?hl=en)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 364: Why Won't Bundle Update? with Olivier Lacan
+  RR 364: Why Won't Bundle Update? with Olivier Lacan
 date: 2018-05-30 15:05:14
 episode_number: 364
 duration: 1:05:10
 audio_url: https://media.devchat.tv/ruby-rogues/RR_364_Why_Won't_Bundle_Update_with_Olivier_Lacan.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Dave Kimura
 - Eric Berry
@@ -98,7 +98,4 @@ Oliver
 - [_Rising Strong_ by Brené Brown](https://www.amazon.com/Rising-Strong-Ability-Transforms-Parent/dp/081298580X)
 - [_What is Health Justice?_ by Tim Faust](https://www.youtube.com/watch?v=Xcmav7MMzkw)
 
-
 ### Transcript
-
-

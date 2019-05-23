@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Rack Basics
+  Rack Basics
 date: 2010-08-27 05:27:56
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---

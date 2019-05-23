@@ -1,24 +1,24 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 011: Process and OTP pitfalls with Claudio Ortolina
+  EMx 011: Process and OTP pitfalls with Claudio Ortolina
 date: 2018-07-27 15:13:51
 episode_number: 011
 duration: 1:07:23
 audio_url: https://media.devchat.tv/elixir-mix/EMx_011_Process_and_OTP_pitfalls_with_Claudio_Ortolina.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Eric Berry
 - Josh Adams
 - Mark Erikson
-**Special Guests:** Claudio Ortolina
+  **Special Guests:** Claudio Ortolina
 
 In this episode of Elixir Mix, the panel talks to Claudio Ortolina about Process and OTP pitfalls. Claudio works for [Erlang Solutions](https://www.erlang-solutions.com/) where he is a developer consultant, working with customers on long projects, and he has been working full-time with [Elixir](https://elixir-lang.org/) for the past 3 years. They talk about OTP, the importance of reading the sources when working with Elixir, and if beginners should dive right away into OTP. They also touch on [Process](https://elixir-lang.org/getting-started/processes.html), how Elixir allows your code to be more available, and more!
 
@@ -85,7 +85,4 @@ Claudio
 - [Code Elixir London](https://codesync.global/conferences/code-elixir-2018/)
 - YouTube Channel to help animals
 
-
 ### Transcript
-
-

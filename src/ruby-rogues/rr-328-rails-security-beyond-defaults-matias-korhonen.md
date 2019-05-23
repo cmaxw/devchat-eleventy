@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 328: Rails Security Beyond the Defaults with Matias Korhonen
+  RR 328: Rails Security Beyond the Defaults with Matias Korhonen
 date: 2017-09-19 05:00:25
 episode_number: 328
 duration: 53:12
 audio_url: https://media.devchat.tv/ruby-rogues/RR_328_Rails_Security_Beyond_the_Defaults_with_Matias_Korhonen.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
@@ -18,7 +18,7 @@ Matias Korhonen has been writing Rails apps professionally at [Kisko Labs](http:
 - Authentication and authorization mistakes
 - Securely managing data
 - and much, much more...
-Links:
+  Links:
 - [secureheaders](https://github.com/twitter/secureheaders)
 - [brakeman](https://github.com/presidentbeef/brakeman)
 - [Code Climate](https://codeclimate.com/)
@@ -34,24 +34,23 @@ Links:
 - [rack-attack](https://github.com/kickstarter/rack-attack)
 
 ### Picks:
+
 Brian:
+
 - [Regex 101](https://regex101.com/)
 - [Give and Take by Adam Grant](http://amzn.to/2xmfUv2)
-Eric:
+  Eric:
 - [Indie Hackers](https://www.indiehackers.com/)
-Dave:
+  Dave:
 - [Sumo Logic](https://www.sumologic.com/)
-Chuck:
+  Chuck:
 - [Ready Player One Comic-Con trailer breakdown](https://www.youtube.com/watch?v=Trhv4Gi6fy4)
 - [Mattermost](https://about.mattermost.com/)
 - Ruby Rogues Parley
 - [Ruby Dev Summit (FREE)](http://rubydevsummit.com)
-Matias:
+  Matias:
 - [Webpacker 3.0](https://github.com/rails/webpacker)
 - [ActiveStorage](https://github.com/rails/rails/tree/master/activestorage)
 - [Heroku](http://heroku.com)
 
-
 ### Transcript
-
-

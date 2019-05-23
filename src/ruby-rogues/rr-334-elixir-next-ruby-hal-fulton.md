@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 334: Is Elixir the Next Ruby? with Hal Fulton
+  RR 334: Is Elixir the Next Ruby? with Hal Fulton
 date: 2017-10-31 04:00:41
 episode_number: 334
 duration: 56:03
 audio_url: https://media.devchat.tv/ruby-rogues/RR_334_Is_Elixir_the_Next_Ruby_with_Hal_Fulton_mixdown.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:** Charles Max Wood Dave Kimura **Special Guest:&nbsp;** Hal Fulton In this episode, the Ruby Rouges speak with Hal Fulton. Hal is one of the first few people to learn the Ruby language in the beginning from the Japanese. Hal describes the history Ruby and his journey to before an author of the book [The Ruby Way](https://www.amazon.com/Ruby-Way-Programming-Addison-Wesley-Professional/dp/0321714636). This book was one of the few foundational elements Ruby developers of today. Hal has recently presented at the Ruby Dev Summit, on Is Elixir the new Ruby? The panel asks questions about, how or if, Elixir is possibly out there to replace Ruby. Hal talks about the pros and con of Ruby in today’s world fo development. Also, the practicality of Elixir and how it fits into our world today. **In particular, we dive pretty deep on:**
+**Panel:** Charles Max Wood Dave Kimura **Special Guest:&nbsp;** Hal Fulton In this episode, the Ruby Rouges speak with Hal Fulton. Hal is one of the first few people to learn the Ruby language in the beginning from the Japanese. Hal describes the history Ruby and his journey to before an author of the book [The Ruby Way](https://www.amazon.com/Ruby-Way-Programming-Addison-Wesley-Professional/dp/0321714636). This book was one of the few foundational elements Ruby developers of today. Hal has recently presented at the Ruby Dev Summit, on Is Elixir the new Ruby? The panel asks questions about, how or if, Elixir is possibly out there to replace Ruby. Hal talks about the pros and con of Ruby in today’s world fo development. Also, the practicality of Elixir and how it fits into our world today. **In particular, we dive pretty deep on:**
+
 - Hal talks about the history of Ruby
 - Ruby does not handle multiple processors
 - [The Free Lunch is Over](http://www.gotw.ca/publications/concurrency-ddj.htm) - Moore’s Law
@@ -27,26 +28,23 @@ tags:
 - Tools you are using can wear you down
 - What is Elixir missing? Time and Date issues
 - and much much more.
-**Links:&nbsp;**
+  **Links:&nbsp;**
 - [The Ruby Way](https://www.amazon.com/Ruby-Way-Programming-Addison-Wesley-Professional/dp/0321714636)
 - [http://therubyway.io](http://therubyway.io)
 - [https://github.com/hal9000](https://github.com/hal9000)
 - @hal9000
-**Picks:** Hal
+  **Picks:** Hal
 - The Secret History - Books
 - The Shadow of the Wind - Book
 - The Mars Society&nbsp; -&nbsp; Organization
 - The Long Now Foundation -&nbsp; Organization
 - Gesture App for iPad
-Dave
+  Dave
 - [Interact JS](http://interactjs.io)
-Chuck
+  Chuck
 - Getting back into Coding
 - [egghead.io](http://egghead.io)
 - [devchat.tv/15minutes](http://devchat.tv/15minutes)
-- 
-
+-
 
 ### Transcript
-
-

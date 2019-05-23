@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 004: Redux-Bundler with Henrik Joreteg
+  RRU 004: Redux-Bundler with Henrik Joreteg
 date: 2018-03-27 10:00:42
 episode_number: 004
 duration: 1:07:56
 audio_url: https://media.devchat.tv/reactroundup/RRU_004_Redux-Bundler_with_Henrik_Joreteg.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Tara Manicsic
@@ -28,7 +28,7 @@ In this episode of React Round Up, the panel discusses redux-bundler with Henrik
 - What is the [redux-bundler](https://github.com/HenrikJoreteg/redux-bundler)?
 - He despises using behavioral components
 - If it can be local, keep it local
-- Don’t bother the user if you don’t need to 
+- Don’t bother the user if you don’t need to
 - Service Workers vs redux-bundler
 - Making changes behind the scenes
 - He loves to build apps
@@ -42,7 +42,7 @@ In this episode of React Round Up, the panel discusses redux-bundler with Henrik
 - Uses React as a glorified templating language
 - He gets nervous when people start writing a lot of application code
 - [Speedy.gift](https://speedy.gift/)
-- Easier to use this from the beginning 
+- Easier to use this from the beginning
 - This bundler is used to show patterns
 - And much, much more!
 
@@ -64,7 +64,7 @@ In this episode of React Round Up, the panel discusses redux-bundler with Henrik
 
 Charles
 
-- [Black Panther](https://en.wikipedia.org/wiki/Black_Panther_(film))
+- [Black Panther](<https://en.wikipedia.org/wiki/Black_Panther_(film)>)
 - [DevChat.tv/15minutes](https://meetme.so/devchatlistener)
 - [React Dev Summit](https://reactdevsummit.com/)
 - [DevChat.tv](https://devchat.tv/)
@@ -90,7 +90,4 @@ Henrik
 - [Partial JS](https://gist.github.com/swannodette/121927)
 - [_Deviate_ by Beau Lotto](https://www.amazon.com/Deviate-Science-Differently-Beau-Lotto/dp/1478909161)
 
-
 ### Transcript
-
-

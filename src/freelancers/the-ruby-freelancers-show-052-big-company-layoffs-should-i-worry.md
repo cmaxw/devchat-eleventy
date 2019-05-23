@@ -1,20 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      The Ruby Freelancers Show 052 – Big Company Layoffs: Should I Worry?
+  The Ruby Freelancers Show 052 – Big Company Layoffs: Should I Worry?
 date: 2013-03-14 15:00:00
 episode_number: 052
-duration: 
+duration:
 audio_url: https://media.devchat.tv/freelancers/RFS052BigCompanyLayoffs.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 Panel Eric Davis (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 00:57 - Wanna be a regular Ruby Freelancer Panelist? Tweet interest to @rubyfreelancers02:12 - Big Company Layoffs ...
-
-
 
 ### Transcript
 

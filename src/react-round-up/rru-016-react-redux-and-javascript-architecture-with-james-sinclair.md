@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 016: React, Redux, and JavaScript Architecture with James Sinclair
+  RRU 016: React, Redux, and JavaScript Architecture with James Sinclair
 date: 2018-06-19 14:12:53
 episode_number: 016
 duration: 54:00
 audio_url: https://media.devchat.tv/reactroundup/RRU_016_React%2C_Redux%2C_and_JavaScript_Architecture_with_James_Sinclair.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Sia Karamalegos
@@ -24,7 +24,7 @@ In this episode of React Round Up, the panel discusses the article [_React, Redu
 
 **In particular, we dive pretty deep on:**
 
-- James intro 
+- James intro
 - [_React, Redux, and JavaScript Architecture_](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/)
 - Why were the people you are working with wary of leaving [JavaScript](https://www.javascript.com/)?
 - [jQuery](https://jquery.com/)
@@ -78,7 +78,7 @@ In this episode of React Round Up, the panel discusses the article [_React, Redu
 
 Charles
 
-- Being around family and friends 
+- Being around family and friends
 - Spend your life doing the things that really matter
 
 Sia
@@ -96,7 +96,4 @@ James
 - [Highland.js](https://highlandjs.org/)
 - Functional Programming
 
-
 ### Transcript
-
-

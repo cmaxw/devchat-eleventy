@@ -1,20 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      009 iPhreaks Show – Interface Builder
+  009 iPhreaks Show – Interface Builder
 date: 2013-06-06 13:00:00
 episode_number: 009
-duration: 
+duration:
 audio_url: https://media.devchat.tv/iphreaks/iPhreaks009InterfaceBuilder.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 Panel Rod Schmidt (twitter github infiniteNIL) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:18 - Interface Builder 01:55 - Custom-designed interfaces 02:32 - Tips and Tricks 03:04 - Interface Builder Buttons and Functions File’s Owner First Responder The Responder Chain Events/Actions Objects Elements Views Outlet Storyboards Segues/Segways 09:39 - Cons of Using Interface Builder Team Environments 13:13 - Custom Work Writing a custom UI 14:52 - Controllers GLKit Table View 19:09 - Static Cells and Storyboards 21:23 - Dynamic Prototypes and Prototype Cells 23:23 - Getting a Table View Cell into the Table View 24:48 - Rod’s Apps Numerology Numerology Baby Namer 25:29 - Rejection from the App Store 27:50 - Gestures 30:19 - Calendar View Picks NSBrief: Episode #97: Jon Reid (Rod) Ember.js (Rod) Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement by Jim R. Wilson (Chuck) Eventbrite (Chuck) Next Week Audio and Video in Apps Transcript [This show is sponsored by The Pragmatic Studio. The Pragmatic Studio has been teaching iOS development since November of 2008. They have a 4-day hands-on course where you'll learn all the tools, APIs, and techniques to build iOS Apps with confidence and understand how all the pieces work together. They have two courses coming up: the first one is in July, from the 22nd - 25th, in Western Virginia, and you can get early registration up through June 21st; you can also sign up for their August course, and that's August 26th - 29th in Denver, Colorado, and you can get early registration through July 26th. If you want a private course for teams of 5 developers or more, you can also sign up on their website at pragmaticstudio.com.] CHUCK: Hey everybody and welcome to Episode 9 of iPhreaks! This week on our panel, we have Rod Schimdt. ROD: Hello from Salt Lake City! CHUCK: And I'm Charles Max Wood from DevChat.tv. And due to a little bit of a scheduling snafu, it's just the two of us today! So, you get to hear more from us. ROD: Yeah, if I ain't got a chance to talk. CHUCK: Yeah. I think Pete and Ben and I all suffer from the same "we like to hear ourselves talk" and we always have something to say [laughs]. ROD: [chuckles] Alright! CHUCK: Anyway, let's get this started. Our scheduled topic today is "Interface Builder and Storyboards", which is something that I've actually played with a little bit - all the time. ROD: And do you have questions about it? Or, issues you want to talk about it? CHUCK: Not really. I mean I haven't done anything too complicated with it. And for the most part, you drag the Elements out there; you link them up with the actions on your ViewController, and it just kind of works! ROD: Okay. So you just want to talk about how they work and what you can do with them? CHUCK: Yeah, I'm sure I'll have questions. I guess one question right off the bat is what if you have some kind of like custom-designed interface? Can you do that with Storyboards or Interface Builder? ROD: Not really. Interface Builder are designed for most of the built-in controls. When you want to do custom work, you basically just put a View out there, set its class, and then you have to write all the custom code for that class. CHUCK: Oh, interesting. ROD: There the step on how you do it. So, if you're doing a lot of custom work, it's mostly good for just laying out the basic structure of your user interface, and then you go from there. CHUCK: Nice. I'm looking at it here; I actually pulled it up so I could actually look at it and ask you questions about it. But before we get into that, are there any tricks that you use to make it easier to reason with? ROD: What do you mean by reason with? CHUCK: Well just, are there any things that make Interface Builder easier to use that you do? ROD: No.
-
-
 
 ### Transcript
 

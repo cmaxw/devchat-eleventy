@@ -1,27 +1,30 @@
 ---
 layout: layouts/post.njk
 title: >
-      113 AiA Angular 2 in a .NET World
+  113 AiA Angular 2 in a .NET World
 date: 2016-10-06 06:00:25
 episode_number: 113
 duration: 1:03:01
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA113_Angular_2_in_a_NET_World.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 1:25 - Introducing Marcel Good
+
 - [Breeze](http://www.getbreezenow.com/)
 - [Github](https://github.com/marcelgood)
 - [Twitter](https://twitter.com/superswiss)
 - info@ideablade.com
-2:15 - Introducing Steve Schmitt
+  2:15 - Introducing Steve Schmitt
 - [IdeaBlade](https://www.ideablade.com/)
 - [Github](https://github.com/steveschmitt)
-4:00 - Why replace a MVC with Angular 2.0?6:30 - Transitioning platforms9:50 - Projects on Angular 2.014:50 - Visual Studio and other tools for Angular 2.024:50- Debugging27:30 - Using Webpack in Visual Studio30:20 - Structuring an application in .Net34:20 - Managing app data39:20 - Managing changes49:15 - Examples of Visual Studio working with Angular 2
+  4:00 - Why replace a MVC with Angular 2.0?6:30 - Transitioning platforms9:50 - Projects on Angular 2.014:50 - Visual Studio and other tools for Angular 2.024:50- Debugging27:30 - Using Webpack in Visual Studio30:20 - Structuring an application in .Net34:20 - Managing app data39:20 - Managing changes49:15 - Examples of Visual Studio working with Angular 2
+
 ### Picks:
+
 [Silicon Valley Code Camp](https://www.siliconvalley-codecamp.com/) (Ward)[DEVintersection conference in Las Vegas](https://devintersection.com/) (Ward)[Brian Lonsdorf - “Oh Composable World!” Keynote speech](https://www.youtube.com/watch?v=SfWR3dKnFIo) (Lukas)[_Michael Vey_ Series](http://www.michaelvey.com/books.php) by Richard Paul Evans, specifically book six: [_Fall of Hades_](https://www.amazon.com/Michael-Vey-6-Fall-Hades/dp/1481469827) (Charles)[myVEGAS Slots](https://itunes.apple.com/us/app/myvegas-slots-play-free-las/id714508224?mt=8) iPhone game (Charles)[Temphire Angular 2.0 Examples](https://github.com/Breeze/temphire.angular2) (Marcel)[Google Trips](https://itunes.apple.com/us/app/google-trips/id1081561570?mt=8) (Marcel)[_8 Days A Week_](http://www.hulu.com/watch/980384) Beatles documentary on Hulu (Steve)
 
 ### Transcript

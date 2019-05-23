@@ -1,50 +1,51 @@
 ---
 layout: layouts/post.njk
 title: >
-      230 FS Differentiating Yourself
+  230 FS Differentiating Yourself
 date: 2016-12-01 06:00:30
 episode_number: 230
 duration: 55:15
 audio_url: https://media.devchat.tv/freelancers/FS230_Differentiating_Yourself.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 Introduction
+
 - How to differentiate yourself from the crowd
 - When you’re not the cheapest option
 - [Fungibility](https://en.wikipedia.org/wiki/Fungibility)
-6:00: It has to matter to your client.
+  6:00: It has to matter to your client.
 - Different differentiations for each client
-8:50: Marketing and customizing your proposal
+  8:50: Marketing and customizing your proposal
 - Figure out who your competitors are
 - Niche down on a specialty or target market
-15:40: What are you offering that others aren’t?
+  15:40: What are you offering that others aren’t?
 - Training
 - Tangible and intangible benefits
-20:20: Developing a compelling value proposition
+  20:20: Developing a compelling value proposition
 - Eight ways to add more value
-22:00 Back it up with proof
+  22:00 Back it up with proof
 - Credibility is critical
 - [Illusory superiority bias](https://en.wikipedia.org/wiki/Illusory_superiority)
-27:00: [Six categories of differentiators](https://expensiveproblem.com/18-examples-of-differentiation)
+  27:00: [Six categories of differentiators](https://expensiveproblem.com/18-examples-of-differentiation)
 - Predictable cost
 - Risk mitigation
 - Concierge service
 - Vertical specialization
 - Urgent service
 - Shared worldview
-32:15: Commoditization
+  32:15: Commoditization
 - Be choosy
 - Be passionate
 - Use trial and error
-42:15: Freelancing vs consulting
+  42:15: Freelancing vs consulting
 - Different mindsets
 - Work your way up
 - Let your differentiation develop over time
-Picks:[Save to Google Drive](https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne?hl=en) (Philip)[Scanbot](https://scanbot.io/en/index.html) (Philip)[Google Keep](https://keep.google.com/)(Jonathan)[Expensiveproblem.com/18](https://expensiveproblem.com/18-examples-of-differentiation) (Jonathan)Thanksgiving (Jonathan)[Clean Master](https://play.google.com/store/apps/details?id=com.cleanmaster.mguard&hl=en) (Reuven)
+  Picks:[Save to Google Drive](https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne?hl=en) (Philip)[Scanbot](https://scanbot.io/en/index.html) (Philip)[Google Keep](https://keep.google.com/)(Jonathan)[Expensiveproblem.com/18](https://expensiveproblem.com/18-examples-of-differentiation) (Jonathan)Thanksgiving (Jonathan)[Clean Master](https://play.google.com/store/apps/details?id=com.cleanmaster.mguard&hl=en) (Reuven)
 
 ### Transcript
 

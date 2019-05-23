@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      037 AiA Animations with Matias Niemelä
+  037 AiA Animations with Matias Niemelä
 date: 2015-04-09 13:00:00
 episode_number: 037
-duration: 
+duration:
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA037Animations.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
@@ -82,10 +82,9 @@ News
 - [<u>ng-vegas</u>](http://www.ng-vegas.org): May 7th and 8th, 2015!
 - [<u>AngularU</u>](https://angularu.com/ng/) in the Bay Area in June
 
-
 ### Transcript
 
- **JOE:** What did you do on Friday night at ng-vegas? Or ng-conf, I mean.
+**JOE:** What did you do on Friday night at ng-vegas? Or ng-conf, I mean.
 
 **MATIAS:** I think me and Thomas just hang out.
 
@@ -115,7 +114,7 @@ News
 
 **LUKAS:** You guys watched the Vimitation Game? Oh, bam! Joke time is over.
 
-**_[This episode is sponsored by the App Quality Bundle, the ultimate toolset for providing better software. It includes six leading tools for one incredibly low price! It’s a full-stack set of tools that covers continuous integration, testing and monitoring for your mobile apps, web_** _ **apps**  **and APIs. It’s great for new projects and companies. And the offer is $999 for one year of service for all six services. It is available for new paying subscribers only. Go check out the website at**  **buildbetter** _**_.software for complete terms and conditions. The offer ends April 15th, so don’t wait!]_**
+**_[This episode is sponsored by the App Quality Bundle, the ultimate toolset for providing better software. It includes six leading tools for one incredibly low price! It’s a full-stack set of tools that covers continuous integration, testing and monitoring for your mobile apps, web_** _ **apps** **and APIs. It’s great for new projects and companies. And the offer is \$999 for one year of service for all six services. It is available for new paying subscribers only. Go check out the website at** **buildbetter** _**_.software for complete terms and conditions. The offer ends April 15th, so don’t wait!]_**
 
 **_[Does your team need to master AngularJS? Oasis Digital offers Angular Boot Camp, a three-day, in-person workshop class for individuals or teams. Bring us to your site or send developers to ours -- &nbsp;AngularBootCamp.com.]_**
 
@@ -237,7 +236,7 @@ And so for me, once I’ve kind of understood how the hook went, and how to actu
 
 **WARD:** So I have two related questions, one of which I you think are answering, but I'll put it in a different way. The first question is that I wanna be able to take action when the animation completes. And that has been hard but I take that it’s easier now. And then in the related question, is so I wanna do some testing of some of my directives that have animations in them. And ideally, I’d like to just be able to turn the animations off during the test because they don't really care but in another case, I might wanna turn them on. So what's the testing story?
 
-**MATIAS:** Okay, so let’s start with the testing first. So Angular definitely has a good testing [?] for animations. It isn’t really well documented. I will definitely put work into documenting it once 1.4 is out. So we have AngularMocks.js and inside of there, there's a module called ngAnimateMock. And what that will do is it will expose a spy on $ element which will tell you what animations have been triggered. So you can effectively turn off animations, but you can still detect when animations are triggered within your own directives. I can provide a link, which you know, points to some of the internal animation code for some of the directives in Angular such as ngSwitch and ngInclude. And the testing code that we have to detect when an animation is triggered.
+**MATIAS:** Okay, so let’s start with the testing first. So Angular definitely has a good testing [?] for animations. It isn’t really well documented. I will definitely put work into documenting it once 1.4 is out. So we have AngularMocks.js and inside of there, there's a module called ngAnimateMock. And what that will do is it will expose a spy on \$ element which will tell you what animations have been triggered. So you can effectively turn off animations, but you can still detect when animations are triggered within your own directives. I can provide a link, which you know, points to some of the internal animation code for some of the directives in Angular such as ngSwitch and ngInclude. And the testing code that we have to detect when an animation is triggered.
 
 **WARD:** Yeah, that would be really helpful. I have looked into the source code and seen some methods to call that kill on automation or you know, turn off the animating, but I haven't really gotten the sense of how the whole thing goes together. So if you got something on that, I think it will surely benefit me and I hope others.
 
@@ -488,5 +487,3 @@ And then last week, I mentioned a book that I was excited about but I couldn’t
 **_[Bandwidth for this segment is provided by Cache Fly, the world’s fastest CDN. Deliver your content fast with Cache Fly. Visit cachefly.com to learn more.]_**
 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you wanna support the show? Now you can. Go to adventuresinangular.com/forum and sign up today!]_**
-
-

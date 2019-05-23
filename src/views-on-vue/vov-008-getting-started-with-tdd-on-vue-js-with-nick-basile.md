@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 008: Getting Started with TDD on Vue.js with Nick Basile
+  VoV 008: Getting Started with TDD on Vue.js with Nick Basile
 date: 2018-04-24 10:00:39
 episode_number: 008
 duration: 1:05:04
 audio_url: https://media.devchat.tv/viewsonvue/VoV_008_Getting_Started_with_TDD_on_Vue.js_with_Nick_Basile.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Divya Sasidharan
 - Chris Fritz
@@ -78,7 +78,4 @@ Nick
 - [Toast of London](https://www.imdb.com/title/tt2432604/)
 - Vue Fundamentals course coming soon on [VueSchool](https://vueschool.io/)
 
-
 ### Transcript
-
-

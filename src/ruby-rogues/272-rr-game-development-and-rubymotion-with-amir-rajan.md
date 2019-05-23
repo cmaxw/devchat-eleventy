@@ -1,43 +1,44 @@
 ---
 layout: layouts/post.njk
 title: >
-      272 RR Game Development and RubyMotion with Amir Rajan
+  272 RR Game Development and RubyMotion with Amir Rajan
 date: 2016-08-10 07:00:10
 episode_number: 272
 duration: 59:58
 audio_url: https://media.devchat.tv/ruby-rogues/RR272RubyMotion.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 01:42 - Amir Rajan
+
 - [Twitter](https://twitter.com/amirrajan)
 - [GitHub](https://github.com/amirrajan)
 - [Blog](http://amirrajan.net/)
 - [A Noble Circle](https://itunes.apple.com/us/app/a-noble-circle/id977865620?mt=8&ign-mpt=uo%3D4)
 - [Surviving The App Store: How to Make It as an Indie Game Developer by Amir Rajan](https://leanpub.com/survivingtheappstore)
-02:24 - [A Dark Room](https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8) (ADR); Revenue and Downloads
+  02:24 - [A Dark Room](https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8) (ADR); Revenue and Downloads
 - [Revenue Updates for A Dark Room et al](http://amirrajan.net/app-dev/2015/11/13/adr-revenue-updates/)
-09:16 - Quality, Heart and Soul, and Putting Yourself Into a Product
+  09:16 - Quality, Heart and Soul, and Putting Yourself Into a Product
 - [iPhreaks Show Episode #161: Successful Indie iOS Game Development with Amir Rajan](https://devchat.tv/iphreaks/161-ips-successful-indie-ios-game-development-with-amir-rajan)
-14:31 - Choosing [RubyMotion](http://www.rubymotion.com/)
+  14:31 - Choosing [RubyMotion](http://www.rubymotion.com/)
 - [Albacore](https://github.com/derickbailey/Albacore)
 - [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP)
-17:43 - [Objective-C](https://en.wikipedia.org/wiki/Objective-C) vs Ruby
+  17:43 - [Objective-C](https://en.wikipedia.org/wiki/Objective-C) vs Ruby
 - [HipByte/Flow](https://github.com/HipByte/Flow)
-21:51 - Cross-platform Availability23:53 - ADR =\> Watch/TV Capability with RubyMotion26:17 - The Ecosystem in iOS and RubyMotion28:11 - Code Structure29:58 - Testing; UI Automation
-- [mac\_bacon](https://rubygems.org/gems/mac_bacon) &nbsp;
-31:29 - Open Source and Proprietary 33:15 - Other Components
+  21:51 - Cross-platform Availability23:53 - ADR =\> Watch/TV Capability with RubyMotion26:17 - The Ecosystem in iOS and RubyMotion28:11 - Code Structure29:58 - Testing; UI Automation
+- [mac_bacon](https://rubygems.org/gems/mac_bacon) &nbsp;
+  31:29 - Open Source and Proprietary 33:15 - Other Components
 - [UIkit](http://getuikit.com/)
 - [SpriteKit](https://developer.apple.com/spritekit/)
 - [motion-game](http://www.rubymotion.com/developers/motion-game)
 - [Cocos2d-x](http://www.cocos2d-x.org/)
 - [CocoaPods](http://cocoapods.org)
-34:07 - Going on a Sabbatical40:58 - .NET =\> Ruby
+  34:07 - Going on a Sabbatical40:58 - .NET =\> Ruby
 - [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_of_control); (IoC) Container
-&nbsp;Picks
+  &nbsp;Picks
 - [Transistor](https://www.supergiantgames.com/games/transistor/) (Amir)
 - [Hoplite](http://www.magmafortress.com/p/hoplite.html) (Amir)
 - [Alto's Adventure](http://altosadventure.com/) (Amir)
@@ -46,10 +47,9 @@ tags:
 - Sriracha and Egg in Ramen (Chuck)
 - [Ruby Rogues Facebook Page](https://www.facebook.com/RubyRogues/) (Chuck)
 
-
 ### Transcript
 
- **DAVID:&nbsp;** Did you see the picture of the New York subway that has put up posters that say, "Hey, Pokémon Go players. We know you want to catch them all. But stay behind the yellow line."
+**DAVID:&nbsp;** Did you see the picture of the New York subway that has put up posters that say, "Hey, Pokémon Go players. We know you want to catch them all. But stay behind the yellow line."
 
 [Laughter]
 
@@ -111,7 +111,7 @@ We had $800,000 in revenue for that first year, and I walked away with about $26
 
 **DAVID:&nbsp;** That's awesome. The thing is that I work at a claim with this coworker. I worked there for a year and a half. I destroyed my health. I destroyed my sanity. I did not destroy my marriage because I quite my effing job. Basically, I walked and told my manager, "Look, I took this job to support my family. Not the other way around," and tendered my resignation. But it took me 18 months and literally not being able to know what day of the week it was anymore because if it was ended in a 'Y', I had to go to work for twelve hours.
 
-I didn't make a single penny in revenue in royalties. You had a number one game in the App Store. In other words, you made $111 an hour by winning the lottery.
+I didn't make a single penny in revenue in royalties. You had a number one game in the App Store. In other words, you made \$111 an hour by winning the lottery.
 
 **AMIR:&nbsp;** Yeah, and that's what I try to tell people, there's a part of it that's winning the lottery and that's getting viral and making to the number one spot. I've done a lot of data mining stuff to try to figure out exactly what happened there, and it's still a complete crapshoot on what connections I made with publishers or get that working.
 
@@ -479,7 +479,7 @@ So Transistor, Hoplite, and then Alto's Adventure. Those are my three Picks.
 
 **CHUCK:&nbsp;** All right. Sam, what are your Picks?
 
-**SAM:&nbsp;** Oh, yes, we're on the topic of games. I've been playing a lot of Shadowrun Returns: Dragonfall. This is sort of a railroad-y game but it's got some really fun writing in it. There are a couple of bits of dialogue that really like made me laugh out loud. I enjoy sort of turn-based strategy games. I have a hard time finding good ones that I enjoy playing but this has occupied my free time for probably 30 hours or so now. The other nice thing is it's like $3 on Steam so it's a pretty low commitment, if you don't like.
+**SAM:&nbsp;** Oh, yes, we're on the topic of games. I've been playing a lot of Shadowrun Returns: Dragonfall. This is sort of a railroad-y game but it's got some really fun writing in it. There are a couple of bits of dialogue that really like made me laugh out loud. I enjoy sort of turn-based strategy games. I have a hard time finding good ones that I enjoy playing but this has occupied my free time for probably 30 hours or so now. The other nice thing is it's like \$3 on Steam so it's a pretty low commitment, if you don't like.
 
 **AMIR:&nbsp;** Three bucks on mobile game, that's way too much.
 
@@ -487,13 +487,13 @@ So Transistor, Hoplite, and then Alto's Adventure. Those are my three Picks.
 
 **AMIR:&nbsp;** Way too much. Way too much.
 
-**CHUCK:&nbsp;** I can't spend $3 on this. It'll make my thumbs tired. All right, Dave, what are your Picks?
+**CHUCK:&nbsp;** I can't spend \$3 on this. It'll make my thumbs tired. All right, Dave, what are your Picks?
 
 **DAVID:&nbsp;** I was going to pick a tech Pick but I realize that if we're talking about games, I have to pick some games, and I remembered that I've actually got games that I need to pick and share with the show. The first one is Minecraft: Story Mode which is out on, I think, everything. iOS is the platform that I prefer on the Mac port for Steam. Once you can get it installed and playing and working, it's pretty good. But it is the absolute worst install experience I have ever had, bar none on a Macintosh. You'll see what I mean if you try to use it. Once you're into the game, you're okay. You're golden. But yet, a full screen app, you can't command tap out of and it presents a dialog somewhere off screen that you have to interact with. And this is a positive Pick. Once you're in the game, it is --
 
 **AMIR:&nbsp;** -- Story Mode [inaudible]?
 
-**DAVID:&nbsp;** Yeah, Minecraft: Story Mode. I'm playing on the iPad. Absolutely, loving it. The voice acting is superb. I love Patton Oswalt. It's just a ton of fun. It's from Telltale Games. We know they do really good episodic-type games. I'm just buying the packs as they come out. They will sell you four episodes at a time. They just recently released Episode 6. They're $5 an episode and they are about two hours’ worth of gameplay each. I mean, they're pretty short. But you can go back and change your choices as you go through.
+**DAVID:&nbsp;** Yeah, Minecraft: Story Mode. I'm playing on the iPad. Absolutely, loving it. The voice acting is superb. I love Patton Oswalt. It's just a ton of fun. It's from Telltale Games. We know they do really good episodic-type games. I'm just buying the packs as they come out. They will sell you four episodes at a time. They just recently released Episode 6. They're \$5 an episode and they are about two hours’ worth of gameplay each. I mean, they're pretty short. But you can go back and change your choices as you go through.
 
 Episode 2 in particular, you'll feel a little bit ripped off because it feels like it's only half an episode because you go after one of these legendary people heroes to recruit them and it turns out that in story one, you make a choice between which hero you want to go after and you get a completely different chapter two, if you pick the other person. So there's a reason it feels like half an episode, it's because you only played half the episode. You went the other way. So it's a lot of fun. Tons of tons of replay value.
 
@@ -526,5 +526,3 @@ I'm also going to really quick mention that the show does have a Facebook page. 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

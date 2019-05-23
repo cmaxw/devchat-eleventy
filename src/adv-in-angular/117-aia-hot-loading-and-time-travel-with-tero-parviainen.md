@@ -1,29 +1,29 @@
 ---
 layout: layouts/post.njk
 title: >
-      117 AiA Hot Loading and Time Travel with Tero Parviainen
+  117 AiA Hot Loading and Time Travel with Tero Parviainen
 date: 2016-11-03 06:00:08
 episode_number: 117
 duration: 50:38
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA117_Hot_Loading_and_Time_Travel_with_Tero_Parviainen.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 2:40 - Introducing Tero Parviainen
 
-  - NgConf Presentation: [“Generative Art in Angular 2”](https://www.youtube.com/watch?v=vsl5O4ps7LE)
-  - [Website](https://teropa.info/)
-  - [Github](https://github.com/teropa)
-&nbsp;
+- NgConf Presentation: [“Generative Art in Angular 2”](https://www.youtube.com/watch?v=vsl5O4ps7LE)
+- [Website](https://teropa.info/)
+- [Github](https://github.com/teropa)
+  &nbsp;
 - _[Build Your Own AngularJS](https://teropa.info/build-your-own-angular/)ebook_
-&nbsp;4:10 - Hot Loading
+  &nbsp;4:10 - Hot Loading
 - [“Angular 2 Hot Loading with @ngrx/store and Webpack” article by Tero](https://teropa.info/blog/2016/08/08/angular-2-hot-loading-with-ngrx-store-and-webpack.html)
-5:45 - Using @ngrx/store8:25 - How is Time Travel possible with reloading?13:40 - Playback17:10 - Backends and Side Effects21:05 - Overloading and discarding of your old application24:40 - Pressing F5 versus Time Travel26:40 - Using Breeze.js27:35 - Workflow setup29:50 - Tero Parviainen and Music
+  5:45 - Using @ngrx/store8:25 - How is Time Travel possible with reloading?13:40 - Playback17:10 - Backends and Side Effects21:05 - Overloading and discarding of your old application24:40 - Pressing F5 versus Time Travel26:40 - Using Breeze.js27:35 - Workflow setup29:50 - Tero Parviainen and Music
 - [In-C on Github](https://github.com/teropa/in-c)
-34:55 - Using the process with NgRX and Redux37:20 - Learning code languages and assembling your toolkit **Picks:** [Carmen Popoviciu’s talk “Neural Networks and Machine Learning: Building Intelligent Angular Applications](https://www.youtube.com/watch?v=6v_S3VkxbD0) (Lukas)[RxJS free course](https://ultimateangular.com/hello-rxjs) (Lukas) [Hello World using every design pattern](https://github.com/code4craft/hello-design-pattern)(Ward)[_The 12 Week Year_](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234) (Charles)[JS Remote Conf 2017](https://devchat.tv/conferences/js-remote-conf-2017) (Charles)[Angular Remote Conf videos](https://devchat.tv/angular-remote-conf-2016) (Charles)[RxJS Operator Selector](http://xgrommx.github.io/rx-book/content/which_operator_do_i_use/index.html) (Tero)[Bret Victor “Inventing on Principle”](https://www.youtube.com/watch?v=PUv66718DII) (Tero)[Ultimate Angular course platform](https://ultimateangular.com/) (Lukas)
+  34:55 - Using the process with NgRX and Redux37:20 - Learning code languages and assembling your toolkit **Picks:** [Carmen Popoviciu’s talk “Neural Networks and Machine Learning: Building Intelligent Angular Applications](https://www.youtube.com/watch?v=6v_S3VkxbD0) (Lukas)[RxJS free course](https://ultimateangular.com/hello-rxjs) (Lukas) [Hello World using every design pattern](https://github.com/code4craft/hello-design-pattern)(Ward)[_The 12 Week Year_](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234) (Charles)[JS Remote Conf 2017](https://devchat.tv/conferences/js-remote-conf-2017) (Charles)[Angular Remote Conf videos](https://devchat.tv/angular-remote-conf-2016) (Charles)[RxJS Operator Selector](http://xgrommx.github.io/rx-book/content/which_operator_do_i_use/index.html) (Tero)[Bret Victor “Inventing on Principle”](https://www.youtube.com/watch?v=PUv66718DII) (Tero)[Ultimate Angular course platform](https://ultimateangular.com/) (Lukas)
 
 ### Transcript
 

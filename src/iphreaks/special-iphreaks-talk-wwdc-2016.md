@@ -1,25 +1,26 @@
 ---
 layout: layouts/post.njk
 title: >
-      Special: iPhreaks Talk WWDC 2016
+  Special: iPhreaks Talk WWDC 2016
 date: 2016-06-15 01:08:05
-episode_number: 
+episode_number:
 duration: 39:05
 audio_url: http://media.devchat.tv/iphreaks/iPhreaksTalkWWDC2016.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 A special discussion about what’s already transpired out at [WWDC](https://developer.apple.com/wwdc/) 2016!&nbsp;Picks
+
 - [Westfield San Francisco Centre Food Emporium](http://www.yelp.com/biz/westfield-san-francisco-centre-food-emporium-san-francisco) (Jaim)
 - [iOS 10 Preview](http://www.apple.com/ios/ios10-preview/) (Caleb)
 - [Funko Pop! Tees](http://funko.com/collections/pop-tees) (Caleb)
 - [Smart Keyboard for 12.9-inch iPad Pro](http://www.apple.com/shop/product/MJYR2LL/A/smart-keyboard-for-12-9-inch-ipad-pro?fnode=3e) (Layne)
 - [The unofficial WWDC app for macOS](https://github.com/insidegui/WWDC) (Andrew)
 - [Andrew Madsen: Objective-C Class Properties](http://blog.andrewmadsen.com/post/145919242155/objective-c-class-properties) (Andrew)
-&nbsp;
+  &nbsp;
 
 ### Transcript
 
@@ -337,7 +338,7 @@ My second pick would be the Funko Pop! T-shirts. Funko get some cool licenses to
 
 **LAYNE:** Yeah. I know it’s a little smaller but the basics of it are all the same. It’s a very good keyboard. I like it a lot.
 
-**ANDREW:** Well, I tried it out in the App Store yesterday and it actually did seem really nice so I just have to decide I want to spend $150 on it.
+**ANDREW:** Well, I tried it out in the App Store yesterday and it actually did seem really nice so I just have to decide I want to spend \$150 on it.
 
 **LAYNE:** Yeah, the price is ridiculous. It feels like I spent way too much money but I do type on it and so that is good.
 
@@ -358,5 +359,3 @@ Thanks everybody for coming on!
 **ANDREW:** Maybe next year. Alright, well that’s it. This was a special episode but we’ll be back to our regularly scheduled programming I think on Thursday. Bye everybody!
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

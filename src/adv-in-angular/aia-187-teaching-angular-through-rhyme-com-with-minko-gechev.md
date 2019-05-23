@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 187: Teaching Angular through Rhyme.com with Minko Gechev
+  AiA 187: Teaching Angular through Rhyme.com with Minko Gechev
 date: 2018-05-01 10:00:29
 episode_number: 187
 duration: 46:47
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_187_Teaching_Angular_through_Rhyme.com_with_Minko_Gechev.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Ward Bell
@@ -78,7 +78,4 @@ Minko
 
 - [ngConf](https://www.ng-conf.org/)
 
-
 ### Transcript
-
-

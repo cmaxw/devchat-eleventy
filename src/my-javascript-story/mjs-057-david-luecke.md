@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 057: David Luecke
+  MJS 057: David Luecke
 date: 2018-04-18 10:00:49
 episode_number: 057
 duration: 35:51
 audio_url: https://media.devchat.tv/my-js-story/MJS_057_David_Luecke.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** David Luecke
 
@@ -23,7 +23,7 @@ This week on My JavaScript Story, Charles speaks with David Luecke. David curren
 - David intro
 - How did you first get into programming?
 - Tinkered a lot with electronics as a child
-- Delphi with [Pascal](http://www.pascal-programming.info/index.php) 
+- Delphi with [Pascal](http://www.pascal-programming.info/index.php)
 - Planned on doing an apprenticeship computer programming
 - Went to University and got a CS degree
 - How critical do you think a CS degree is?
@@ -69,7 +69,4 @@ David
 - [Idieyoudie.com](http://www.idieyoudie.com/)
 - [_How to Fix Facebook—Before It Fixes Us_ by Roger McNamee](https://washingtonmonthly.com/magazine/january-february-march-2018/how-to-fix-facebook-before-it-fixes-us/)
 
-
 ### Transcript
-
-

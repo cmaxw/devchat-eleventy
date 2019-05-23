@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 017: Cloud-Hosted DevOps with Ori Zohar and Gopinath Chigakkagari LIVE at Microsoft Build
+  RRU 017: Cloud-Hosted DevOps with Ori Zohar and Gopinath Chigakkagari LIVE at Microsoft Build
 date: 2018-06-26 10:00:54
 episode_number: 017
 duration: 56:15
 audio_url: https://media.devchat.tv/reactroundup/RRU_017_Cloud-Hosted_DevOps_with_Ori_Zohar_and_Gopinath_Chigakkagari_LIVE_at_Microsoft_Build_mixdown.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 
@@ -42,7 +42,7 @@ In this episode, the React Round UP panelists discuss Cloud-Hosted DevOps with O
 - Trends on what customers are asking for
 - Safety
 - Docker containers
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -53,7 +53,7 @@ In this episode, the React Round UP panelists discuss Cloud-Hosted DevOps with O
 - [Ori’s GitHub](https://github.com/orizohar)
 - [Gopi’s GitHub](https://github.com/gopinathch)
 - [@gopinach](https://twitter.com/gopinach)
-- 
+-
 
 **Sponsors**
 
@@ -78,7 +78,4 @@ Gopinath
 
 - Seattle, WA
 
-
 ### Transcript
-
-

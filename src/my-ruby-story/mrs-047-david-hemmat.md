@@ -1,47 +1,51 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 047: David Hemmat
+  MRS 047: David Hemmat
 date: 2018-06-06 10:00:35
 episode_number: 047
 duration: 26:42
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_047_David_Hemmat.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
-**Guest:**  **David Hemmat**
+**Guest:** **David Hemmat**
 
 This week on My Ruby Story, Charles talks to [David Hemmat](http://davidhemmat.com) about his educational background, career choices, and suggestions for developers. David is a web developer who works mainly with Ruby on Rails. In the past few years, David has done work for a number of clients including [Condé Nast](http://www.condenast.com), [Six Red Marbles](http://sixredmarbles.com), [ShopKeep](https://www.shopkeep.com), and [Couplewise](https://couplewise.com). Currently, David is working on a number of personal and professional development projects.
 
 **In particular, we dive pretty deep on:**
 
 - David’s background
+
   - How did you get into programming?
-  - David’s first job was being a software developer in the Dominican Republic. 
+  - David’s first job was being a software developer in the Dominican Republic.
 
 - [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails)
 
 - Consulting and referrals
 
 - Contract work and being a freelancer
+
   - [Upwork](https://www.upwork.com)
   - [Freelancer](https://www.freelancer.com)
   - [Reddit](https://en.wikipedia.org/wiki/Reddit)
 
 - Is there anything that you have done with Ruby or in the community that you are particularly proud of?
+
   - Talks about Ruby on Rails
 
 - What are you working on now?
+
   - The company and [Blue Coding](https://www.bluecoding.com).
   - They are interested in hiring a Ruby on Rails developer. If you are interested in this position e-mail at: hr@bluecoding.com or info@bluecoding.com.
 
-- Hiring 
-  - Finding someone you can trust to lead the charge. 
+- Hiring
+  - Finding someone you can trust to lead the charge.
 
 **Links:**
 
@@ -76,7 +80,4 @@ This week on My Ruby Story, Charles talks to [David Hemmat](http://davidhemmat.c
 - [Microsoft Build](https://www.microsoft.com/en-us/build)
 - [Podcast Movement](https://podcastmovement.com)
 
-
 ### Transcript
-
-

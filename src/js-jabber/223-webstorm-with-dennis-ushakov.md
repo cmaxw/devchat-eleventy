@@ -1,53 +1,54 @@
 ---
 layout: layouts/post.njk
 title: >
-      223 JSJ WebStorm with Dennis Ushakov
+  223 JSJ WebStorm with Dennis Ushakov
 date: 2016-08-03 07:00:40
 episode_number: 223
 duration: 42:08
 audio_url: https://media.devchat.tv/js-jabber/JSJ223WebStorm.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 ## [React Remote Conf](https://allremoteconfs.com/react-2016) and [Angular Remote Conf](https://allremoteconfs.com/angular-2016)
+
 &nbsp;03:18 - Dennis Ushakov Introduction
+
 - [Twitter](https://twitter.com/en_Dal)
 - [GitHub](https://github.com/denofevil)
 - [JetBrains](https://www.jetbrains.com/)
   - [JetBrains Issue Tracker](https://youtrack.jetbrains.com/oauth?state=%2Fissues%2FWEB)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
   - [@WebStormIDE](https://twitter.com/WebStormIDE) &nbsp;
-03:54 - Writing an IDE in Java
+    03:54 - Writing an IDE in Java
 - [YouTrack](https://www.jetbrains.com/youtrack/)
 - [TeamCity](https://www.jetbrains.com/teamcity/) &nbsp;
-04:50 - Specs05:43 - [WebStorm](https://www.jetbrains.com/webstorm/) Defined
+  04:50 - Specs05:43 - [WebStorm](https://www.jetbrains.com/webstorm/) Defined
 - [Integrated Development Environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment)
-06:19 - IDEs vs Text Editors08:31 - Building an IDE
+  06:19 - IDEs vs Text Editors08:31 - Building an IDE
 - Language Support
 - External Tool Support
 - [Abstract Syntax Tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
-13:00 - Code Reuse15:07 - Prioritizing Features17:11 - Why is IDE tooling important?
+  13:00 - Code Reuse15:07 - Prioritizing Features17:11 - Why is IDE tooling important?
 - “Code is read a lot more than it’s written.”
-19:57 - Refactorings
+  19:57 - Refactorings
 - The Dynamic Nature of JavaScript
 - [TypeScript](https://www.typescriptlang.org/)-specific Refactorings
-23:35 - Next Versions of Webstorm
+  23:35 - Next Versions of Webstorm
 - [Early Access Program](https://www.jetbrains.com/support/eap/)
-25:07 - Framework Support; Usage Data28:12 - Other Technology and Framework Support31:12 - Working for [JetBrains](https://www.jetbrains.com/)32:17 - Release Cycles and Procedures
+  25:07 - Framework Support; Usage Data28:12 - Other Technology and Framework Support31:12 - Working for [JetBrains](https://www.jetbrains.com/)32:17 - Release Cycles and Procedures
 - [Early Access Program](https://www.jetbrains.com/support/eap/)
-34:39 - Java Source Code Contribution
+  34:39 - Java Source Code Contribution
 - [Kotlin](https://kotlinlang.org/)
-&nbsp;Picks
+  &nbsp;Picks
 - [Jesse Kriss: Human scale technology](https://medium.com/@jkriss/human-scale-technology-75da763eb03#.uj93v2vgo) (Jamison)
 - [React Rally](http://reactrally.com) (Jamison)
 - Vote (Chuck)
 - [Transmit](https://panic.com/transmit/) (Chuck)
 - [Steam Squad](http://store.steampowered.com/app/290870/) (Dennis)
 - [Ergobaby Four Position 360 Baby Carrier](http://www.ergobaby.eu/baby-carriers-original-360-fall-2014-final-name-tbd.html) (Dennis)
-
 
 ### Transcript
 
@@ -304,5 +305,3 @@ Dennis you have some Picks for us?
 **CHUCK:&nbsp;** All right. We will catch everyone next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
-
-

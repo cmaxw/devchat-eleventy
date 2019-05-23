@@ -1,24 +1,27 @@
 ---
 layout: layouts/post.njk
 title: >
-      123 AiA Upgrading from Angular 1 to Angular 2 with Victor Savkin
+  123 AiA Upgrading from Angular 1 to Angular 2 with Victor Savkin
 date: 2016-12-15 06:00:28
 episode_number: 123
 duration: 1:05:30
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_123_Upgrading_from_Angular_1_to_Angular_2_with_Victor_Savkin.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 3:00 - Introducing Victor Savkin
+
 - [Twitter](https://twitter.com/victorsavkin?lang=en)
 - [Website](https://vsavkin.com/@vsavkin)
-3:30 - Making migration gradual4:45 - NgUpgrade6:20 - What is Router/Upgrade? How is it used?9:15 - Iterative and Incremental upgrading11:35 - UI Router13:20 - Making a gameplan for migrating
+  3:30 - Making migration gradual4:45 - NgUpgrade6:20 - What is Router/Upgrade? How is it used?9:15 - Iterative and Incremental upgrading11:35 - UI Router13:20 - Making a gameplan for migrating
 - [Blog post](https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-steps-40621800a25b)
-16:00 - UI Router versus Angular Router20:05 - Angular Upgrade Static21:40 - Why should you upgrade your Angular modules?25:30 - Reviewing the steps 26:30 - Step 3: Migrate individual components and services to Angular 228:50 - Leaf components29:50 - Hashtag routing 31:00 - Step 4: Divide the routes between the Angular 1 and the Angular 2 routers35:00 - Step 5: Removing Angular 1 from your setup36:10 - When should you do a progressive migration?39:05 - Predictions for the future of upgrading 40:40 - Performance implications of upgrading48:00 - Deployment options51:05 - [Narwhal Technologies](https://nrwl.io/)
+  16:00 - UI Router versus Angular Router20:05 - Angular Upgrade Static21:40 - Why should you upgrade your Angular modules?25:30 - Reviewing the steps 26:30 - Step 3: Migrate individual components and services to Angular 228:50 - Leaf components29:50 - Hashtag routing 31:00 - Step 4: Divide the routes between the Angular 1 and the Angular 2 routers35:00 - Step 5: Removing Angular 1 from your setup36:10 - When should you do a progressive migration?39:05 - Predictions for the future of upgrading 40:40 - Performance implications of upgrading48:00 - Deployment options51:05 - [Narwhal Technologies](https://nrwl.io/)
+
 ### **Picks:**
+
 [_Rogue One_](http://www.starwars.com/films/rogue-one) (John)Top Coders Angular 2 cross-country workshops (Joe and John)[Ng Conf](https://www.ng-conf.org/) (Joe)[Toby Chrome plug-in](https://www.gettoby.com/) (Lukas)[_The Cook, The Thief, His Wife, and Her Lover_](http://www.imdb.com/title/tt0097108/) (Ward)[Ng Cruise](https://ngcruise.com/) (Alyssa)[Egghead.io](https://egghead.io/) (Alyssa)[Newsfeed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en) (Charles)[Echo Dot](https://www.amazon.com/All-New-Amazon-Echo-Dot-Add-Alexa-To-Any-Room/dp/B01DFKC2SO) (Charles)[_Ethics in the Real World_ by Peter Singer](https://www.amazon.com/Ethics-Real-World-Essays-Things/dp/0691172471)(Victor)
 
 ### Transcript

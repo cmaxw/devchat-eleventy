@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 213: Signal R with Brady Gaster LIVE at Microsoft Ignite
+  AiA 213: Signal R with Brady Gaster LIVE at Microsoft Ignite
 date: 2018-10-30 10:00:50
 episode_number: 213
 duration: 48:12
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_213_Signal_R_with_Brady_Gaster_LIVE_%20at_Microsoft_Ignite.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 
@@ -190,7 +190,4 @@ Charles
 - [J5 ports and SD card readers](https://en.j5create.com/collections)
 - [Podwrench](https://podwrench.com)
 
-
 ### Transcript
-
-

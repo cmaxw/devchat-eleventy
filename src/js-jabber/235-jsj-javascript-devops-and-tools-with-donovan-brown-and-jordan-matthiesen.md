@@ -1,23 +1,24 @@
 ---
 layout: layouts/post.njk
 title: >
-      235 JSJ JavaScript Devops and Tools with Donovan Brown and Jordan Matthiesen
+  235 JSJ JavaScript Devops and Tools with Donovan Brown and Jordan Matthiesen
 date: 2016-10-26 06:00:01
 episode_number: 235
 duration: 48:26
 audio_url: https://media.devchat.tv/js-jabber/JSJ235_JavaScript_Devops_and_Tools_with_Donovan_Brown_and_Jordan_Matthiesen.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 00:50 Intro to guests Donovan Brown and Jordan Matthiesen1:14 Javascript and Devops3:49 [Node](https://nodejs.org/en/) JS and integrating with extensions11:16 Learning Javascript coming from another language15:21 Visual Studio Team Services at Microsoft, integration and unit testing
+
 - [Visualstudio.com](http://visualstudio.com)
 - [Donovanbrown.com](http://donovanbrown.com)
-25:10 Visual Studio Code and mobile development
+  25:10 Visual Studio Code and mobile development
 - Apache Cordova open source project
-31:45 TypeScript and tooling33:03 Unit test tools and methods38:39 ARM devices and integrationQUOTES:“It’s not impossible, it’s just a different set of challenges.” - Donovan Brown“Devops is the union of people, process and products to enable continuous delivery of value to your end users” - Donovan Brown“Apps start to feel more native. They can actually get form.” - Jordan MatthiesenPICKS:[Veridian Dynamics](http://veridian-dynamics.org/) (AJ)[Jabberwocky Video](https://www.youtube.com/watch?v=spyJ5yxTfas) (AJ)[Hard Rock Cafe - Atlanta](http://www.hardrock.com/cafes/atlanta/) (Charles)[CES](https://www.ces.tech/) (Charles)3D printers (Donovan)[_High-Yield Vegetable Gardening_](http://www.seattleurbanfarmco.com/shop/high-yield-vegetable-gardening) (Jordan)[taco.visualstudio.com](http://taco.visualstudio.com)Jordan on Twitter [@jmatthiesen](https://twitter.com/jmatthiesen)[Visualstudio.com](http://visualstudio.com)[Donovanbrown.com](http://donovanbrown.com)Donovan on Twitter [@donovanbrown](https://twitter.com/donovanbrown)SPONSORS:[Front End Masters](https://frontendmasters.com/)[Hired.com](https://hired.com/)
+  31:45 TypeScript and tooling33:03 Unit test tools and methods38:39 ARM devices and integrationQUOTES:“It’s not impossible, it’s just a different set of challenges.” - Donovan Brown“Devops is the union of people, process and products to enable continuous delivery of value to your end users” - Donovan Brown“Apps start to feel more native. They can actually get form.” - Jordan MatthiesenPICKS:[Veridian Dynamics](http://veridian-dynamics.org/) (AJ)[Jabberwocky Video](https://www.youtube.com/watch?v=spyJ5yxTfas) (AJ)[Hard Rock Cafe - Atlanta](http://www.hardrock.com/cafes/atlanta/) (Charles)[CES](https://www.ces.tech/) (Charles)3D printers (Donovan)[_High-Yield Vegetable Gardening_](http://www.seattleurbanfarmco.com/shop/high-yield-vegetable-gardening) (Jordan)[taco.visualstudio.com](http://taco.visualstudio.com)Jordan on Twitter [@jmatthiesen](https://twitter.com/jmatthiesen)[Visualstudio.com](http://visualstudio.com)[Donovanbrown.com](http://donovanbrown.com)Donovan on Twitter [@donovanbrown](https://twitter.com/donovanbrown)SPONSORS:[Front End Masters](https://frontendmasters.com/)[Hired.com](https://hired.com/)
 
 ### Transcript
 

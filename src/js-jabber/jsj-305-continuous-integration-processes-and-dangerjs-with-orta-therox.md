@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 305: Continuous Integration, Processes, and DangerJS with Orta Therox
+  JSJ 305: Continuous Integration, Processes, and DangerJS with Orta Therox
 date: 2018-03-20 10:00:42
 episode_number: 305
 duration: 48:29
 audio_url: https://media.devchat.tv/js-jabber/JSJ_305_Continuous_Integration%2C_Processes%2C_and_DangerJS_with_Orta_Therox.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Aimee Knight
@@ -41,7 +41,7 @@ In this episode, the JavaScript Jabber panelists talk about the tool [Danger](ht
 - Can use with [Ruby](https://www.ruby-lang.org/en/) or [JavaScript](https://www.javascript.com/)
 - React Storybooks
 - Retrospectives
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -87,7 +87,4 @@ Orta
 - [The Wire](https://en.wikipedia.org/wiki/The_Wire)
 - [_Worm_ Web Serial](https://parahumans.wordpress.com/)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 370: How I Built Timeasure with Eliav Lavi
+  RR 370: How I Built Timeasure with Eliav Lavi
 date: 2018-07-12 21:54:42
 episode_number: 370
 duration: 48:20
 audio_url: https://media.devchat.tv/ruby-rogues/RR_370_How_I_Built_Timeasure_with_Eliav_Lavi.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - David Richards
 - Dave Kimura
@@ -28,7 +28,7 @@ In this episode of Ruby Rogues, the panel talks to Eliav Lavi about his article 
 - Eliav intro
 - Studied music originally
 - Risk analyst at [Riskified](https://www.riskified.com/)
-- Company started on [Ruby on Rails](https://rubyonrails.org/) 
+- Company started on [Ruby on Rails](https://rubyonrails.org/)
 - Been a professional developer for the last year and a half
 - Self-taught programmer
 - Used blogs and books to learn
@@ -92,7 +92,4 @@ Eliav
 
 - [Andy Warhol Museum](https://www.warhol.org/)
 
-
 ### Transcript
-
-

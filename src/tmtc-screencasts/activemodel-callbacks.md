@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      ActiveModel Callbacks
+  ActiveModel Callbacks
 date: 2011-11-09 18:10:37
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: tmtc-screencasts
-tags: 
+tags:
   - tmtc_screencasts
   - podcast
 ---
 
 <object width="420" height="315" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true">
+
 <param name="allowscriptaccess" value="always">
 <param name="src" value="http://www.youtube.com/v/Z4lmZLNtv2s?version=3&amp;hl=en_US">
 <param name="allowfullscreen" value="true">

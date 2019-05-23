@@ -1,24 +1,24 @@
 ---
 layout: layouts/post.njk
 title: >
-      094 AiA ng-conf 2016 Live!
+  094 AiA ng-conf 2016 Live!
 date: 2016-05-26 07:00:57
 episode_number: 094
 duration: 45:33
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA094AdventuresinAngularLiveNGConf.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 This episode was recorded live from [ng-conf](https://www.ng-conf.org/) 2016. The conference and conference experiences, goals, and sessions are discussed amongst all the latest and greatest announcements in Angular such as The Release Candidate.&nbsp;Picks
+
 - [Tero Parviainen: Generative Art in Angular 2 @ ng-conf 2016](https://www.youtube.com/watch?v=vsl5O4ps7LE) (Ward)
 - [Sunny Leggett](https://twitter.com/sunny4days) and [ZeroSlope Events](https://zeroslopeevents.com/) (Jules & Joe & John)
 - [The ng-show with Shai Reznik](https://www.youtube.com/watch?v=aSFfLVxT5vA) (Katya)
 - The ng-conf sponsors (Chuck)
 - Karaoke (Aaron)
-
 
 ### Transcript
 
@@ -571,5 +571,3 @@ My pick is karaoke. It was insane. I don't know what karaoke night is usually li
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
-
-

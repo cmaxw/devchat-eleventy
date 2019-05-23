@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 008: Nerves! with Frank Hunleth and Justin Schneck
+  EMx 008: Nerves! with Frank Hunleth and Justin Schneck
 date: 2018-06-18 10:00:36
 episode_number: 008
 duration: 46:42
 audio_url: https://media.devchat.tv/elixir-mix/EMx_008_Nerves!_with_Frank_Hunleth_and_Justin_Schneck.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Eric Berry
 - Mark Ericksen
@@ -92,7 +92,4 @@ Justin
 - Gardening
 - [_Wherever You Go, There You Are_ by Jon Kabat-Zinn](https://www.amazon.com/Wherever-You-There-Are-Mindfulness/dp/1567319920)
 
-
 ### Transcript
-
-

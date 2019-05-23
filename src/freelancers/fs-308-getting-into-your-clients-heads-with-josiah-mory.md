@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 308: Getting Into Your Clients Heads with Josiah Mory
+  FS 308: Getting Into Your Clients Heads with Josiah Mory
 date: 2018-08-13 00:04:20
 episode_number: 308
 duration: 53:43
 audio_url: https://media.devchat.tv/freelancers/FS_308_Getting_into_your_clients_heads_with_guest_Josiah_Mory.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
-- Jonathan Stark 
+- Jonathan Stark
 
 **Guest: Josiah Mory**
 
@@ -22,20 +22,20 @@ In this episode of the Freelancer’s Show, Jonathan of the Freelancer’s Show 
 
 **In particular, we dive pretty deep on:**
 
-- Josiah talks about [Kickinbahk Productions](http://kickinbahkproductions.com). 
-- Strategies with clients 
-- Freelancing 
-- Learning from podcasts 
-- Offering up skills 
+- Josiah talks about [Kickinbahk Productions](http://kickinbahkproductions.com).
+- Strategies with clients
+- Freelancing
+- Learning from podcasts
+- Offering up skills
 - Allowing the conversation to flow
 - Their frustrations in the business
-- Building relationships with customers 
-- Just ask “How is business” 
+- Building relationships with customers
+- Just ask “How is business”
 - Finding out where clients are at
-- Optimizing Sales 
-- What steps would you take after finding out where your prospects are at? 
+- Optimizing Sales
+- What steps would you take after finding out where your prospects are at?
 - Business happens over the phone
-- Cash flow 
+- Cash flow
 - And much more!&nbsp; &nbsp; &nbsp;
 
 Links
@@ -56,7 +56,4 @@ Josiah
 - [Josiah's 5-day email course](http://customerinterviewcourse.com/)
 - [Josiah's website](https://kickinbahkproductions.com/)
 
-
 ### Transcript
-
-

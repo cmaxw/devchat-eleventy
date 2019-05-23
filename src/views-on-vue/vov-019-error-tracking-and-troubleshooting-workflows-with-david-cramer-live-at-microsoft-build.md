@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 019: Error Tracking and Troubleshooting Workflows with David Cramer LIVE at Microsoft Build
+  VoV 019: Error Tracking and Troubleshooting Workflows with David Cramer LIVE at Microsoft Build
 date: 2018-07-11 20:06:51
 episode_number: 019
 duration: 27:24
 audio_url: https://media.devchat.tv/viewsonvue/VoV_019_Error_Tracking_and_Troubleshooting_Workflows_with_David_Cramer_LIVE_at_Microsoft_Build.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Alyssa Nicholl
@@ -25,7 +25,7 @@ In this episode, the Views on Vue panelists talk to David Cramer about error tra
 **In particular, we dive pretty deep on:**
 
 - David intro
-- Founder and CEO of [Sentry](https://sentry.io/welcome/) 
+- Founder and CEO of [Sentry](https://sentry.io/welcome/)
 - What is Sentry?
 - Working with PHP
 - De-bugger for production
@@ -43,7 +43,7 @@ In this episode, the Views on Vue panelists talk to David Cramer about error tra
 - Can work with any language
 - Deep contexts
 - Determining the root cause
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -75,7 +75,4 @@ David
 - [VS Code](https://code.visualstudio.com/)
 - [Kubernetes](https://kubernetes.io/)
 
-
 ### Transcript
-
-

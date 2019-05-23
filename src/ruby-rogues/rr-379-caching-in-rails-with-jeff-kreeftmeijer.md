@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 379: "Caching in Rails" with Jeff Kreeftmeijer
+  RR 379: "Caching in Rails" with Jeff Kreeftmeijer
 date: 2018-09-11 10:00:24
 episode_number: 379
 duration: 53:49
 audio_url: https://media.devchat.tv/ruby-rogues/RR_379_Caching_in_Rails_with_Jeff_Kreeftmeijer.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Dave Kimura
@@ -177,7 +177,7 @@ Dave
 
 Eric
 
-- [Skitch](https://evernote.com/products/skitch) – screen capture tool – free product 
+- [Skitch](https://evernote.com/products/skitch) – screen capture tool – free product
 - [Library by MERT / eggplanetio by Brian Gonzalez](https://github.com/eggplanetio/mert)
 
 Jeff
@@ -186,7 +186,4 @@ Jeff
 - [AsciiDoc Home Page](http://asciidoc.org)
 - [Performance in Rails – Interview](https://www.youtube.com/watch?v=ktZLpjCanvg)
 
-
 ### Transcript
-
-

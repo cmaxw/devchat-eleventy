@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 060: Jamie Wright
+  MRS 060: Jamie Wright
 date: 2018-09-12 13:19:00
 episode_number: 060
 duration: 20:03
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_060_Jamie_Wright.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** [Jamie Wright](https://twitter.com/jwright?lang=en)
 
@@ -95,14 +95,11 @@ Jamie continues to talk about the other reasons why he fell in love with [Ruby](
 Charles
 
 - [Disney Emoji Blitz](https://itunes.apple.com/us/app/disney-emoji-blitz/id1017551780?mt=8&)
-- [Skitch](https://evernote.com/products/skitch) – Evernote 
+- [Skitch](https://evernote.com/products/skitch) – Evernote
 
 Jamie
 
 - [Book: Deep Work](https://www.audible.com/pd/Deep-Work-Audiobook/B0189PX1RQ?source_code=GPAGBSH0508140001&cvosrc=ppc%2520cse.google%2520shopping.195512940&cvo_crid=167185622046&cvo_pid=41680864790&gclid=CPmXoKTNs90CFRBOgQodlgEDCw&gclsrc=ds)
 - [Go play paintball!](https://www.nxlpaintball.com)&nbsp;
 
-
 ### Transcript
-
-

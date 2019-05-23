@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      TMTC 50 - Chad Fowler and The Passionate Programmer
+  TMTC 50 - Chad Fowler and The Passionate Programmer
 date: 2011-03-17 14:37:33
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---

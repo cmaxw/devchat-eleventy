@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      110 AiA Special Angular 2 Final is Released
+  110 AiA Special Angular 2 Final is Released
 date: 2016-09-14 20:00:13
 episode_number: 110
 duration: 50:12
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA110_Special_Angular_2_Final_is_Released.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 ### **Angular 2.0**
+
 [Angular Bootcamp](https://angularbootcamp.com/)[Angular Remote Conference](https://allremoteconfs.com/angular-2016)&nbsp;&nbsp;Panel: Joe Eames, John Papa, Jules Kramer, Lucas Reubelki, and Charles Max Wood Special guests: Kara Erickson and Brad Green 2:00 - Introducing Angular 2.0!&nbsp;7:30 - Release plan for updates &nbsp;11:25 - Angular 3.0? &nbsp;13:50 - What to expect from 2.0&nbsp;16:15 - Angular within the Javascript world&nbsp;18:00 - Updates to Angular’s Ecosystem&nbsp;18:45 - Patch releases and docks&nbsp;19:55 - Why did Angular 2.0 take so long to come out?&nbsp;24:40 - Top three things to know about Angular 2.0&nbsp;26:15 - CLI, AOT, and Lazy Loading&nbsp;30:22 - Angular 1.0 to 2.0&nbsp;36:05 - Promoting Angular 2.0&nbsp;38:25 - Plans for NG Upgrade&nbsp;39:40 - Impact of Angular&nbsp; **Picks:** [_Stranger Things_](http://www.imdb.com/title/tt4574334/) (Kara)[_Three Body Problem_](https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past/dp/0765377063) by Cixin Liu, translated by Ken Liu (Brad)[_Hamilton_](http://www.hamiltonbroadway.com/) (Ward)[_Starship’s Mage_](https://www.amazon.com/Starships-Mage-Omnibus-Glynn-Stewart/dp/0993843433/ref=sr_1_2?s=books&ie=UTF8&qid=1473705290&sr=1-2&keywords=starships+made) by Glynn Stewart (Joe)[Gulp](http://gulpjs.com/) (John)[_Rogue One_](http://www.imdb.com/title/tt3748528/) (John)[Angular Connect](http://angularconnect.com/) (Lucas)[Maggie Appleton](http://www.maggieappleton.com/) (Lucas)[Get to Work Book](http://www.gettoworkbook.com/) (Lucas)[Angular 2.0 Workshop](http://ftlauderdale.ng-learn.com/) with John Papa and Dan Wahlin (Lucas)[Angular Remote Conference](https://allremoteconfs.com/angular-2016)(Charles)[Webinars](https://devchat.tv/webinars) (Charles)
 
 ### Transcript

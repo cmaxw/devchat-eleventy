@@ -1,22 +1,27 @@
 ---
 layout: layouts/post.njk
 title: >
-      237 JSJ CLls - Ember Angular and React with Tracy Lee
+  237 JSJ CLls - Ember Angular and React with Tracy Lee
 date: 2016-11-09 06:00:31
 episode_number: 237
 duration: 50:00
 audio_url: https://media.devchat.tv/js-jabber/JSJ237_CLIs_Ember_Angular_and_React_with_Tracy_Lee.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 ### TOPICS:
+
 3:57 The exciting facets of CLI’s8:25 Advantages of CLI projects11:25 Coding in RAILS14:18 Disagreeing with conventions encoded in a CLI19:30 How REACT CLI functions20:43 Is Ember cheating by using REACT CLI?26:52 Which CLI is easiest to use29:00 How to add commands to a CLI34:00 The future of current CLI’s35:30 How well CLI’s are working for their respective communities37:00 The impact of WebPac
+
 ### PICKS:
+
 [“How Break Points are Set”](http://majantali.net/2016/10/how-breakpoints-are-set/) Hacker News Article[Chocolate Mint Tea](http://theteaspot.com/chocolate-peppermint-tea.html?catid=253&gclid=CMWWs66nmtACFVdMDQodBF4GUA)[_Ten Things Wise Parents Know_](https://www.amazon.com/Secrets-Wise-Parents-Know-Responsible/dp/1590383303) Book[_Strong Fathers, Strong Daughters_](https://www.amazon.com/Strong-Fathers-Daughters-Secrets-Father/dp/0345499395) Book[_Boys Should Be Boys_](https://www.amazon.com/Boys-Should-Be-Secrets-Raising/dp/034551369X) Book[“How Half of America Lost its Effing Mind”](http://www.dailykos.com/story/2016/10/15/1582897/--How-Half-of-America-Lost-It-s-F-king-Mind) Blog Post[Elementary](http://www.cbs.com/shows/elementary/)TV ShowRecommendation Form for [Topics](https://devchat.tv/javascript-jabber-topic-recommendation) and [Guests](https://devchat.tv/javascript-jabber-guest-recommendation)[Amazon Smile](https://smile.amazon.com/)[Angular Cruise](https://ngcruise.com/#/)[Sweet Licorice Mint Tea](https://ngcruise.com/#/) by Choice Organic Teas[Van’s Nintendo Sneakers](http://www.vans.com/shop/vans-nintendo?cm_mmc=G_Vans_Brand_Nintendo-_-%2Bvans%20%2Bnintendo%20%2Bsneakers&KWID=185786126192.948&adID=110831845733&rmatt=tsid:1013075%7Ccid:604598387%7Cagid:29428711253%7Ctid:kwd-185786126192%7Ccrid:110831845733%7Cnw:g%7Crnd:2640400102191688267%7Cdvc:c%7Cadp:1t1&gclid=CL_-zMqomtACFQlXDQodNP8H1g)
+
 ### RESOURCES AND CONTACT INFO:
+
 [Tracy's E-mail](mailto:Tracy@modern-web.org)
 
 ### Transcript

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 036: Signal R with Brady Gaster LIVE at Microsoft Ignite
+  RRU 036: Signal R with Brady Gaster LIVE at Microsoft Ignite
 date: 2018-11-06 11:00:51
 episode_number: 036
 duration: 47:45
 audio_url: https://media.devchat.tv/reactroundup/RRU_036_Signal_R_with_Brady_Gaster_LIVE_at_Microsoft_Ignite.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Charles Max Wood
 
@@ -191,7 +191,4 @@ Charles
 - [J5 ports and SD card readers](https://en.j5create.com/collections)
 - [Podwrench](https://podwrench.com)
 
-
 ### Transcript
-
-

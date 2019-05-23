@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 311: Securing Express Apps with Helmet.js with Evan Hahn
+  JSJ 311: Securing Express Apps with Helmet.js with Evan Hahn
 date: 2018-05-01 10:00:42
 episode_number: 311
 duration: 40:09
 audio_url: https://media.devchat.tv/js-jabber/JSJ_311_Securing_Express_Apps_with_Helmet.js_with_Evan_Hahn.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Charles Max Wood
 
@@ -24,8 +24,8 @@ In this episode, the JavaScript Jabber panelists discuss securing Express apps w
 
 - Evan intro
 - [JavaScript](https://www.javascript.com/)
-- What is [Helmet.js](https://helmetjs.github.io/)? 
-- [Node](https://nodejs.org/en/) and [Express](https://expressjs.com/) 
+- What is [Helmet.js](https://helmetjs.github.io/)?
+- [Node](https://nodejs.org/en/) and [Express](https://expressjs.com/)
 - Why would you use the approach of Middleware?
 - Helmet is not the only solution
 - Http headers
@@ -42,7 +42,7 @@ In this episode, the JavaScript Jabber panelists discuss securing Express apps w
 - 12 modules
 - What is the biggest thing that Helmet saves you from?
 - Content security policy code
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -73,7 +73,4 @@ Evan
 - [Fortune](http://fortune.js.org/)
 - [Kantaro: The Sweet Tooth Salaryman](https://www.imdb.com/title/tt6983520/)
 
-
 ### Transcript
-
-

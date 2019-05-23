@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Ruby in the Datacenter - Ruby Remote Conf 2015
+  Ruby in the Datacenter - Ruby Remote Conf 2015
 date: 2015-12-15 14:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: remote-conf-talks
-tags: 
+tags:
   - remote_conf_talks
   - podcast
 ---
@@ -21,5 +21,3 @@ I'll walk us through how to reason about your process, how to know what it's doi
 &nbsp;
 
 We'll learn about what you can add to your source to make debugging easier, how to debug your code as if it were merely a C program, and what kinds of unique behaviors MRI, Rubinius, and JRuby have that are distinct from processes written in other languages.
-
-

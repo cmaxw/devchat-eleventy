@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 309: The Essential Consultant Library
+  FS 309: The Essential Consultant Library
 date: 2018-08-24 02:30:10
 episode_number: 309
 duration: 50:35
 audio_url: https://media.devchat.tv/freelancers/FS_309_The_Essential_Consultant_Library.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Reuven Lerner
 - Jonathan Stark
@@ -33,7 +33,7 @@ In this episode of the Freelancer’s Show, the panelist, Reuven and Jonathan di
 - [Hourly Billing is Nuts by Jonathan Stark](https://jonathanstark.com/hbin)
 - [The Brain Audit](https://www.amazon.com/Brain-Audit-Customers-They-Dont/dp/0473175045) by Sean D’Souza
 - [Patrick McKenzie website](https://www.kalzumeus.com)
-- [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0670899240/ref=sr_1_1?ie=UTF8&qid=1535076242&sr=8-1&keywords=Getting+Things+Done) by David Allen 
+- [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0670899240/ref=sr_1_1?ie=UTF8&qid=1535076242&sr=8-1&keywords=Getting+Things+Done) by David Allen
 - And much more!&nbsp; &nbsp; &nbsp;
 
 **Sponsors/Affilates**
@@ -55,7 +55,4 @@ Reuven Lerner
 - [We Chat](http://www.wechat.com/)
 - [MEET](http://meet.mit.edu/)
 
-
 ### Transcript
-
-

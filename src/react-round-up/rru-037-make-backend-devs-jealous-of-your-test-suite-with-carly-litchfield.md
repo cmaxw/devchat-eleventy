@@ -1,24 +1,24 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 037: Make Backend Devs Jealous of Your Test Suite with Carly Litchfield
+  RRU 037: Make Backend Devs Jealous of Your Test Suite with Carly Litchfield
 date: 2018-11-13 11:00:02
 episode_number: 037
 duration: 55:38
 audio_url: https://media.devchat.tv/reactroundup/RRU_037_Make_Backend_Devs_Jealous_Of_Your_Test_Suite_with_Carly_Litchfield.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Nader Dabit
 - Lucas Reis
 - Justin Bennett
 
-**Special Guests:**  **Carly Litchfield**
+**Special Guests:** **Carly Litchfield**
 
 In this episode, the panelists talk with [Carly Litchfield](https://twitter.com/carly_joh?lang=en) who is a Full-stack engineer of React and React Native. The panel and Carly talk about frontend and backend developing and the issues that teams could face day-in and day-out. Listen to today’s episode to hear about that and much more!
 
@@ -217,7 +217,4 @@ Justin
 - [TestCafé](https://testcafe.devexpress.com)
 - [Create React 2.0](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
 
-
 ### Transcript
-
-

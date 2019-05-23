@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 056: Rob Eisenberg
+  MAS 056: Rob Eisenberg
 date: 2018-10-17 10:00:03
 episode_number: 056
 duration: 45:37
 audio_url: https://media.devchat.tv/my-angular-story/MAS_056_Rob_Eisenberg.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** [Rob Eisenberg](https://twitter.com/eisenbergeffect?lang=en)
 
@@ -132,7 +132,4 @@ We’ve always had great performance and now taking it to the next level. We are
 - [Park City, UT](https://www.parkcity.org)
 - [VRBO](https://www.vrbo.com/?k_clickid=EAIaIQobChMIgarx5M6L3gIVh7rACh3XtAdsEAAYAiAAEgKcHfD_BwE&ds_kids=p26840931628&ds_kid=43700026840931628&ksprof_id=700000001561967&ksdevice=c&ktarget=kwd-304548565435&kloct=&klocf=9027224&gclid=EAIaIQobChMIgarx5M6L3gIVh7rACh3XtAdsEAAYAiAAEgKcHfD_BwE&gclsrc=aw.ds)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 007: Deployments, Distillery, and Open Source with Paul Schoenfelde
+  EMx 007: Deployments, Distillery, and Open Source with Paul Schoenfelde
 date: 2018-06-12 10:00:53
 episode_number: 007
 duration: 1:21:34
 audio_url: https://media.devchat.tv/elixir-mix/EMx_007_Deployments%2C_Distillery%2C_and_Open_Source_with_Paul_Schoenfelde.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Eric Berry
@@ -99,7 +99,4 @@ Paul
 - [ElixirConf EU](https://www.elixirconf.eu/)
 - [Code Beam STO](https://codesync.global/conferences/code-beam-sto-2018/)
 
-
 ### Transcript
-
-

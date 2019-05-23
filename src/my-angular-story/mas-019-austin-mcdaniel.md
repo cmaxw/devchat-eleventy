@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 019: Austin McDaniel
+  MAS 019: Austin McDaniel
 date: 2017-12-13 04:00:14
 episode_number: 019
 duration: 40:16
 audio_url: https://media.devchat.tv/my-angular-story/MAS_019_Austin_McDaniel.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
@@ -33,26 +33,24 @@ Charles Max Wood **Guest:** Austin McDaniel This week on My JavaScript Story, Ch
 - [Angular Air Podcast](https://angularair.com)
 - Working as a contractor with Google
 - and much, much more!
-**Links:&nbsp;**
+  **Links:&nbsp;**
 - [JavaScript Jabber episode 275](https://devchat.tv/js-jabber/jsj-275-zones-node-austin-mcdaniel)
 - [jquery](https://jquery.com)
 - [http://amcdnl.com](http://amcdnl.com)
 - [Angular Air Podcast](https://angularair.com)
 - @amcdnl
 - [github.com/amcdnl](http://github.com/amcdnl)
-- 
+-
+
 **Picks** Austin
+
 - [Todd Motto&nbsp;](https://toddmotto.com)
 - [Shai Reznik&nbsp;](https://www.hirez.io)
-Charles
+  Charles
 - [NG Conf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj9_6v8h4bYAhUJeSYKHcB5Bs4QFggpMAA&url=https://www.ng-conf.org/&usg=AOvVaw34RuE1IpFFY2kHSIIX8lhS)
 - [Angular Dev Summit](https://angulardevsummit.com)
 - [Angular Air Podcast](https://angularair.com)
 
-
-
 ### Transcript
 
 &nbsp;
-
-

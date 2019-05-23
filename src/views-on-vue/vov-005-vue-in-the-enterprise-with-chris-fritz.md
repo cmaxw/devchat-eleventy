@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 005: Vue in the Enterprise with Chris Fritz
+  VoV 005: Vue in the Enterprise with Chris Fritz
 date: 2018-04-03 13:54:15
 episode_number: 005
 duration: 56:26
 audio_url: https://media.devchat.tv/viewsonvue/VoV_005_Vue_in_the_Enterprise_with_Chris%20Fritz.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Erik Hanchett
@@ -84,7 +84,4 @@ Chris
 - [Into the Breach](http://store.steampowered.com/app/590380/Into_the_Breach/)
 - [Vue Vixens](https://vuevixens.org/)
 
-
 ### Transcript
-
-

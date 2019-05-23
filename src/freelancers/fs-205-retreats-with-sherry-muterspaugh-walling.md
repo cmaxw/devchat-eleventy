@@ -1,30 +1,31 @@
 ---
 layout: layouts/post.njk
 title: >
-      205 FS Retreats with Sherry Muterspaugh Walling
+  205 FS Retreats with Sherry Muterspaugh Walling
 date: 2016-06-09 07:00:59
 episode_number: 205
 duration: 01:04:41
 audio_url: http://media.devchat.tv/freelancers/FS205Retreats.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 01:39 - Sherry Muterspaugh Walling Introduction
+
 - [Twitter](https://twitter.com/zenfounder)
 - [Blog](http://www.sherrywalling.com/)
 - [Zen Founder: Startup. Family. Life. By Rob & Sherry Walling](https://itunes.apple.com/us/podcast/zen-founder-startup.-family./id965682541?mt=2)
 - [Startups For The Rest of Us](http://www.startupsfortherestofus.com/)
 - [The Zen Founder Guide to Founder Retreats by Sherry Walling](https://gumroad.com/l/retreats)
-04:18 - “Retreats”
+  04:18 - “Retreats”
 - Retreats vs Vacations
-08:19 - The Retreat Process12:17 - Working Through Issues; Examining Our Lives16:13 - Coming to Terms with Shortcomings ([Introspection](https://en.wikipedia.org/wiki/Introspection))19:52 - Solo vs Co-Retreats26:24 - Planning30:13 - Taking Time Off32:57 - Retreat Flavors34:03 - Planning (Cont’d)35:34 - Materials36:41 - Writing vs Verbally Dictating Information39:15 - Choosing a Location41:56 - Tracking Data
+  08:19 - The Retreat Process12:17 - Working Through Issues; Examining Our Lives16:13 - Coming to Terms with Shortcomings ([Introspection](https://en.wikipedia.org/wiki/Introspection))19:52 - Solo vs Co-Retreats26:24 - Planning30:13 - Taking Time Off32:57 - Retreat Flavors34:03 - Planning (Cont’d)35:34 - Materials36:41 - Writing vs Verbally Dictating Information39:15 - Choosing a Location41:56 - Tracking Data
 - [Mood Tracker](https://www.moodtracker.com/)
-46:14 - Decision Making and Implementation49:44 - Personal Assessment and Considering Others
+  46:14 - Decision Making and Implementation49:44 - Personal Assessment and Considering Others
 - [Agile Development](https://en.wikipedia.org/wiki/Agile_software_development)
-&nbsp;Picks
+  &nbsp;Picks
 - [Surprisingly Awesome #11 Boredom](https://gimletmedia.com/episode/11-boredom/) (Reuven)
 - [Park City, Utah](https://www.visitparkcity.com/) (Chuck)
 - [Sundance](http://www.sundanceresort.com/) (Chuck)
@@ -34,7 +35,6 @@ tags:
 - [Retreat Finder](http://www.retreatfinder.com/) (Sherry)
 - [Headspace](https://www.headspace.com/) (Sherry)
 - [The Zen Founder Guide to Founder Retreats by Sherry Walling](https://gumroad.com/l/retreats) (Sherry)
-
 
 ### Transcript
 
@@ -481,5 +481,3 @@ Anyway, thank you for coming Sherry.
 **CHUCK:** Alright. Well, we’ll go ahead and wrap this up. We’ll catch you all next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

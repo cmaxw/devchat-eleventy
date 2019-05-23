@@ -1,29 +1,30 @@
 ---
 layout: layouts/post.njk
 title: >
-      214 FS Conferences
+  214 FS Conferences
 date: 2016-08-11 07:00:50
 episode_number: 214
 duration: 47:07
 audio_url: https://media.devchat.tv/freelancers/FS214Conferences.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 01:44 - Deciding to Attend Conferences
+
 - [Double Your Freelancing Conference: Europe](https://doubleyourfreelancing.com/euconf/)
 - [MicroConf](http://www.microconf.com/)
 - [MicroConf Europe](http://www.microconfeurope.com/)
-09:14 - Conference Experiences
+  09:14 - Conference Experiences
 - Receptions
-13:44 - Implementing Ideas From Conferences
+  13:44 - Implementing Ideas From Conferences
 - [The Freelancers' Show Episode #202: Live from MicroConf: Managing a Team with Anders Thue Pedersen](https://devchat.tv/freelancers/202-fs-live-from-microconf-managing-a-team-with-anders-thue-pedersen)
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
 - Automation
   - [Procrastinate on Purpose: 5 Permissions to Multiply Your Time by Rory Vaden](https://www.amazon.com/Procrastinate-Purpose-Permissions-Multiply-Your/dp/0399170626) &nbsp;
-20:41 - Expected Conference Outcomes27:29 - Dinners and Meals32:18 - Networking: Conference [Slack](https://slack.com/) Channels; [Facebook Groups](https://groups.fb.com/)35:29 - Looking at Talks and Preparing for Conferences37:15 - Workshops40:04 - Conferences = Investment NOT an Expense&nbsp;Picks
+    20:41 - Expected Conference Outcomes27:29 - Dinners and Meals32:18 - Networking: Conference [Slack](https://slack.com/) Channels; [Facebook Groups](https://groups.fb.com/)35:29 - Looking at Talks and Preparing for Conferences37:15 - Workshops40:04 - Conferences = Investment NOT an Expense&nbsp;Picks
 - [Schulz and Peanuts: A Biography by David Michaelis](https://www.amazon.com/Schulz-Peanuts-Biography-David-Michaelis/dp/0060937998/) (Philip)
 - [Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime by by John Heilemann and Mark Halperin](https://www.amazon.com/Game-Change-Clintons-McCain-Lifetime/dp/0061733644/ref=sr_1_2?ie=UTF8&qid=1467740518&sr=8-2&keywords=game+change) (Reuven)
 - [Double Down: Game Change 2012 by Mark Halperin and John Heilemann](https://www.amazon.com/Double-Down-Game-Change-2012/dp/0143126008/ref=pd_bxgy_14_2?ie=UTF8&psc=1&refRID=HZEE6E4J4H5KSYDW8WTX) (Reuven)
@@ -31,7 +32,6 @@ tags:
 - [The Overton Window by Glenn Beck](https://www.amazon.com/Overton-Window-Glenn-Beck/dp/1451625286) (Chuck)
 - [The Jefferson Lies: Exposing the Myths You've Always Believed About Thomas Jefferson by David Barton](https://www.amazon.com/Jefferson-Lies-Exposing-Always-Believed/dp/1944229027/ref=sr_1_1?s=books&ie=UTF8&qid=1470080012&sr=1-1&keywords=The+Jefferson+Lies) (Chuck)
 - [The Dark Talent: Alcatraz vs. the Evil Librarians by Brandon Sanderson](https://www.amazon.com/Dark-Talent-Alcatraz-Librarians-Versus/dp/0765381400/ref=sr_1_1?s=books&ie=UTF8&qid=1470080047&sr=1-1&keywords=the+dark+talent+alcatraz+vs.+the+evil+librarians) (Chuck)
-
 
 ### Transcript
 
@@ -290,5 +290,3 @@ And then finally the last book I'm going to pick is by Brandon Sanderson. It’s
 And with that, I guess we’ll wrap up the show. If you're going to a conference, go ahead and tweet at us @freelancersshow or you can tweet each of us individually and let us know where you're going and what things have worked for you, that’d be awesome. And with that, we’ll wrap up and we’ll catch you all next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

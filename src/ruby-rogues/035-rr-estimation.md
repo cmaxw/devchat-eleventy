@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      035 RR Estimation
+  035 RR Estimation
 date: 2011-12-31 18:22:00
 episode_number: 035
 duration: 1:15:14
 audio_url: https://media.devchat.tv/ruby-rogues/RR35Estimation.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
@@ -16,38 +16,37 @@ tags:
 
 - Hardest Part of Programming = Estimation
   - Person Problem; Not a Programming Problem
-04:10 - Estimation
+    04:10 - Estimation
 - Complexity Number vs Time Number
 - [MS Project](https://products.office.com/en-us/project/project-and-portfolio-management-software)
 - Project Planning vs Estimation
-07:13 - Tools/Estimation Methods
+  07:13 - Tools/Estimation Methods
 - [Planning Poker](https://www.planningpoker.com/)
-08:20 - Things That Throw Off Estimations
+  08:20 - Things That Throw Off Estimations
 - ‘Ugh!knowns’
 - Oversight
-10:25 - Planning Poker vs Velocity vs Points
+  10:25 - Planning Poker vs Velocity vs Points
 - Points: Measure to Estimate Effort for Completing [Agile Development](https://en.wikipedia.org/wiki/Agile_software_development)
   - Or Measures of Complexity
 - Velocity (in Agile) = Points Completed Per Iteration
 - [Pivotal Tracker](http://pivotaltracker.com/)
-20:40 - Components to Making Estimate
+  20:40 - Components to Making Estimate
 - Amount of Time/Effort
 - Confidence Factor
 - Risk: Not Completing Task But Meeting Schedule Estimate
 - Best Case vs Worst Case
-25:00 - How Well Teams Estimate 25:50 - Building a House vs Building Software
+  25:00 - How Well Teams Estimate 25:50 - Building a House vs Building Software
 - [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model): &nbsp;You Already Know the ‘Gotchas’
 - Software: Solve a Problem That Hasn’t Been Solved Before
-38:20 - Success Stories 41:59 - Worst Estimates / How to Get Better at Estimating
+  38:20 - Success Stories 41:59 - Worst Estimates / How to Get Better at Estimating
 - Implementing/Breakdown of Stories
 - Pi Factor:&nbsp;Make an Estimate, Multiply by 3.14
 - If Developer \< 5 years Experience, Multiply by 2 & Raise It! (Ex: Two Days = 4 Weeks)
-52:49 - Ways to Get Better
+  52:49 - Ways to Get Better
 - Red Flag When You Hear ‘Two Weeks’
 - Well-gelled Teams
 - **ESTIMATE YOUR ESTIMATING**
   - Most Important Part: Retrospective at the End of the Sprint
-
 
 ### Transcript
 

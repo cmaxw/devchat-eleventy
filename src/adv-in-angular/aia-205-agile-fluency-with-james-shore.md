@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 205: Agile Fluency with James Shore
+  AiA 205: Agile Fluency with James Shore
 date: 2018-09-04 10:00:24
 episode_number: 205
 duration: 56:03
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_205_Agile_Fluency_with_James_Shore.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Alyssa Nicholl
@@ -99,13 +99,10 @@ Joe
 
 James
 
-- [Deliver:Agile](https://www.agilealliance.org/deliver-agile-2018/#q=~(filters~(postType~(~'aa_event_session~'aa_video)~sources~(~'deliver*3aAgile*202018))~searchTerm~'~sort~'name.sort~sortDirection~'asc~page~1))
+- [Deliver:Agile](<https://www.agilealliance.org/deliver-agile-2018/#q=~(filters~(postType~(~'aa_event_session~'aa_video)~sources~(~'deliver*3aAgile*202018))~searchTerm~'~sort~'name.sort~sortDirection~'asc~page~1)>)
 - [_Testing Without Mocks: A Pattern Language_](https://www.jamesshore.com/Blog/Testing-Without-Mocks.html)
 - [Jake](http://jakejs.com/) (build tool)
 - [The High-Performance Coach](https://www.jamesshore.com/Calendar/2018-09-12.html)
 - [_The Expanse_ by James S. A. Corey](https://www.amazon.com/The-Expanse-7-Book-Series/dp/B071XSV52H)
 
-
 ### Transcript
-
-

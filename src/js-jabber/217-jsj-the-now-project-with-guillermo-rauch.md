@@ -1,19 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      217 JSJ The Now Project with Guillermo Rauch
+  217 JSJ The Now Project with Guillermo Rauch
 date: 2016-06-22 07:00:27
 episode_number: 217
 duration: 51:49
 audio_url: http://media.devchat.tv/js-jabber/JSJ217Now.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 ## Check out [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016) and get your tickets!
+
 &nbsp;02:24 - Guillermo Rauch Introduction
+
 - [Twitter](https://twitter.com/rauchg)
 - [GitHub](https://github.com/guille)
 - [Blog](https://zeit.co/blog)
@@ -22,21 +24,20 @@ tags:
 - [Cloudup](https://cloudup.com/)
 - [Mongoose.js](http://mongoosejs.com/)
 - [Socket.IO](http://socket.io/)
-03:07 - [Now: Realtime Node.js Deployments](https://zeit.co/now)04:28 - Key Concepts
+  03:07 - [Now: Realtime Node.js Deployments](https://zeit.co/now)04:28 - Key Concepts
 - [now-serve](https://github.com/zeit/now-serve)
 - [Heroku](https://www.heroku.com/)
-10:22 - Deployment Process14:55 - Getting Started Experience
+  10:22 - Deployment Process14:55 - Getting Started Experience
 - [About](https://zeit.co/about)
-17:22 - Technology vs Design20:36 - Running Now vs [npm-install](https://docs.npmjs.com/cli/install)27:17 - Simplicity; SSH and Metrics35:33 - Debugging and Performance37:34 - Security41:44 - What’s Next?&nbsp;Picks
+  17:22 - Technology vs Design20:36 - Running Now vs [npm-install](https://docs.npmjs.com/cli/install)27:17 - Simplicity; SSH and Metrics35:33 - Debugging and Performance37:34 - Security41:44 - What’s Next?&nbsp;Picks
 - [Overwatch](https://playoverwatch.com/) (Joe)
 - [To Kill A Mockingbird by Harper Lee](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird) (Jamison)
 - [React Rally](http://www.reactrally.com/) (Jamison)
-- [Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Y. Bhargava](https://www.manning.com/books/grokking-algorithms) (Aimee) 
+- [Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Y. Bhargava](https://www.manning.com/books/grokking-algorithms) (Aimee)
 - [Birgitta Böckeler: Born for it](http://martinfowler.com/articles/born-for-it.html) (Aimee)
 - [TSA Pre✓](https://www.tsa.gov/tsa-precheck) (Chuck)
 - [RIF6 Cube 2-inch Mobile Projector](http://www.amazon.com/RIF6-Projector-120-inch-Portable-Rechargeable/dp/B00QXS8L6I?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) (Chuck)
 - [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy](http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227) (Guillermo)
-
 
 ### Transcript
 
@@ -303,5 +304,3 @@ Alright, well if people want to follow up with you, find out what you're up to G
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

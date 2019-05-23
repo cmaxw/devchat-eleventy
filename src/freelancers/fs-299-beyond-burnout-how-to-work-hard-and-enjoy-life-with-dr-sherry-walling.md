@@ -1,24 +1,24 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 299: Beyond Burnout - How to Work Hard and Enjoy Life with Dr. Sherry Walling
+  FS 299: Beyond Burnout - How to Work Hard and Enjoy Life with Dr. Sherry Walling
 date: 2018-05-31 13:02:37
 episode_number: 299
 duration: 56:55
 audio_url: https://media.devchat.tv/freelancers/FS_299_%20Beyond_burnout-How_to_work_hard_AND_enjoy_life_with_guest_Dr_Sherry_Walling.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Jeremy Green
-- Jonathan Stark 
+- Jonathan Stark
 - Reuven Lerner
 
-**Special Guest:**  **Sherry Walling, Ph.D.**
+**Special Guest:** **Sherry Walling, Ph.D.**
 
 In this episode of the _Freelancer’s Show_, the panel discusses: “Beyond Burnout - How to Work Hard and Enjoy Life.” Dr. Sherry Walling is a licensed clinical psychologist with extensive experience treating stress-related problems in high achieving people. She is an academic and professional powerhouse with master’s degrees in psychology and theology, formal training as a yoga teaching, and a Ph.D. in clinical psychology. For more biographical information, please checkout: https://zenfounder.com/about/.
 
@@ -29,41 +29,41 @@ In this episode of the _Freelancer’s Show_, the panel discusses: “Beyond Bur
   - Have a variety of things going on in your life.
   - Have backup strategies in play.
   - “Make it big plan” is a low frequency event.
-- Are there areas where freelancers chronically under invest in? 
+- Are there areas where freelancers chronically under invest in?
   - Sleep
   - Diet
-  - Exercise 
+  - Exercise
     - It’s easy to neglect your body.
   - Time with friends
     - Connecting you with human beings.
     - Connections with online friends are great, but real-life friendships are better for mental health because we connect better with three-dimensional people.
 - If you make the investments into yourself (sleeping, eating well, exercising) this will better your business.
+
   - This notion of should or shouldn’t do X, Y, Z.
   - Paul Jarris’ newsletter: Defining What Enough Is For You?
   - Budgeting together as a family.
-    - Gives you a clear sense of what “enough” is for you and your family. 
+    - Gives you a clear sense of what “enough” is for you and your family.
   - Examples:
     - [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
       - Works 24/7 and is CEO of many companies.
       - Admired by many, but lifestyle seems toxic to some.
-      - Wisdom is knowing your own personal limits. 
+      - Wisdom is knowing your own personal limits.
     - Silicon Valley, CA
     - [Patrick Collison](https://en.wikipedia.org/wiki/Patrick_Collison)
       - Humble person
       - Dr. Walling was very impressed on how aware he is as a person.
-      - He recognizes that the right events were in-place and he put in the work, too. 
+      - He recognizes that the right events were in-place and he put in the work, too.
 
-- 
-  - **Burnout** – different stages and things we can do to address burnout
-    - Burnout is a syndrome where people feel detached from their work. They feel like their input does not equal their output. 
+- - **Burnout** – different stages and things we can do to address burnout
+    - Burnout is a syndrome where people feel detached from their work. They feel like their input does not equal their output.
     - It’s subjective.
     - It’s caused by too much work, feeling out-of-control in your work, a mismatch of daily tasks versus what needs to be done, not enough support, and working with clients who are emotionally draining, etc.
     - Scientifically we can view a brain that is burned-out.
     - Other health problems can arise due to stress.
     - We know how to prevent it and how people can recover.
-    - It could take a few weeks in order to regain a healthy lifestyle to recover from burnout. 
+    - It could take a few weeks in order to regain a healthy lifestyle to recover from burnout.
     - Road to recovery
-    - 30% of adults experience burnout in some point in their life. 
+    - 30% of adults experience burnout in some point in their life.
     - [Dr. Christina Maslach](https://maslach.socialpsychology.org)
       - Her research is focused on burnout.
     - Time is finite and life is finite.
@@ -78,16 +78,15 @@ In this episode of the _Freelancer’s Show_, the panel discusses: “Beyond Bur
       - Hobbies are good for a sense of accomplishment.
         - Mastery and it feeds your soul.
 
-- 
-  - **Protecting Personal Relationships**
+- - **Protecting Personal Relationships**
     - Rhythms and structures in our relationships.
       - Regularity of date night once a week (for example) helps establishing this routine.
       - The same is true for friendships.
     - Find a good mentor.
       - Grow together and it’s great for psychological support.
     - Fitness goals
-      - If you don’t use it, you will loose it. 
-      - This gets more important the older you get. 
+      - If you don’t use it, you will loose it.
+      - This gets more important the older you get.
 
 **Links:**
 
@@ -107,7 +106,7 @@ In this episode of the _Freelancer’s Show_, the panel discusses: “Beyond Bur
 - [valuepricingbootcamp.com](http://valuepricingbootcamp.com)
 - [Your Productized Consulting Guide](https://uibreakfast.com/productized-guide/)
 - [howtobulilduourfirstproductizedservice.com](http://howtobulilduourfirstproductizedservice.com)
-- [James Clear](https://jamesclear.com): Building Habits – mailing list 
+- [James Clear](https://jamesclear.com): Building Habits – mailing list
 
 **Jeremy Green**
 
@@ -121,7 +120,4 @@ In this episode of the _Freelancer’s Show_, the panel discusses: “Beyond Bur
 
 - Book: [KEEPING YOUR S\*\*T TOGETHER](https://www.wpelevation.com/2018/03/keeping-st-together-dr-sherry-walling/)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 042: Sam Brennan
+  MAS 042: Sam Brennan
 date: 2018-06-27 14:26:21
 episode_number: 042
 duration: 27:22
 audio_url: https://media.devchat.tv/my-angular-story/MAS_042_Sam_Brennan.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Sam Brennan
 
@@ -77,7 +77,4 @@ Sam
 - Her Mom – [Bonnie Brennan](https://twitter.com/bonnster75?lang=en)
 - [ng-Denver](http://angulardenver.com/)
 
-
 ### Transcript
-
-

@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 029: Tracy Lee
+  MAS 029: Tracy Lee
 date: 2018-03-21 18:35:31
 episode_number: 029
 duration: 44:00
 audio_url: https://media.devchat.tv/my-angular-story/MAS_029_Tracy_Lee.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood **Guest:** Tracy Lee This week on My Angular Story, Charles speaks with Tracy Lee. Tracy is the co-founder [This Dot](https://www.thisdot.co/) and her goal with it is to bring the [JavaScript](https://www.javascript.com/) community together. She first got into programming when she tried to build websites for people and then was interested in learning [JavaScript](https://www.javascript.com/) and really fell in love with the community. She really stayed with [Angular](https://angular.io/) because of the community she found there, the size of the community, and the fact that it gave her the ability to have a voice. **In particular, We dive pretty deep on:&nbsp;**
+**Panel:** Charles Max Wood **Guest:** Tracy Lee This week on My Angular Story, Charles speaks with Tracy Lee. Tracy is the co-founder [This Dot](https://www.thisdot.co/) and her goal with it is to bring the [JavaScript](https://www.javascript.com/) community together. She first got into programming when she tried to build websites for people and then was interested in learning [JavaScript](https://www.javascript.com/) and really fell in love with the community. She really stayed with [Angular](https://angular.io/) because of the community she found there, the size of the community, and the fact that it gave her the ability to have a voice. **In particular, We dive pretty deep on:&nbsp;**
+
 - [This Dot](https://www.thisdot.co/)
 - [ContributorDays.com](https://www.contributordays.com/)
 - How did you first get into programming?
@@ -33,7 +34,7 @@ tags:
 - People underestimate the impact they have on the world
 - [AngularAir](https://angularair.com/) and [JavaScript Air](https://javascriptair.com/)
 - And much, much more!
-**Links:&nbsp;**
+  **Links:&nbsp;**
 - [This Dot](https://www.thisdot.co/)
 - [ContributorDays.com](https://www.contributordays.com/)
 - [JavaScript&nbsp;](https://www.javascript.com/)
@@ -49,14 +50,11 @@ tags:
 - [LadyLeet.com](https://ladyleet.com/)
 - [DevChat.tv Youtube](https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw)
 - [This Dot Media Youtube](https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw)
-**Picks:** Charles
+  **Picks:** Charles
 - [_Ready Player One_ by Ernest Cline](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448)
 - [Bad Lip Reading YouTube](https://www.youtube.com/user/BadLipReading)
-Tracy
+  Tracy
 - [Mermaid Tail Makeup Brushes](https://www.amazon.com/Synthetic-Eyeliner-Foundation-Cosmetic-Well-blended/dp/B071WVJ8RP?th=1)
 - [Beauty Fix Box](https://www.dermstore.com/beautyfix.php)
 
-
 ### Transcript
-
-

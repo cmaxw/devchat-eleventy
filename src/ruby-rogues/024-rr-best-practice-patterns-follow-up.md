@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      024 RR Best Practice Patterns Follow Up
+  024 RR Best Practice Patterns Follow Up
 date: 2011-10-13 04:26:00
 episode_number: 024
-duration: 
+duration:
 audio_url: https://media.devchat.tv/ruby-rogues/RubyRogues20111011.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
@@ -15,7 +15,7 @@ tags:
 - Smalltalk Best Practice Patterns
 - Converter Pattern
 - Converter Constructor Pattern
-- to\_s
+- to_s
 - Date.parse
 - Method Object
 - Composed Method
@@ -24,7 +24,7 @@ tags:
 - Collections
 - Ruby's Enumerable
 - Iteration Method
-- to\_enum
+- to_enum
 - Constant Method
 - Pluggable Selector
 - Pluggable Block
@@ -38,15 +38,14 @@ tags:
 - String +
 - Hash#merge
 - IO Class
-- 
-
+-
 
 ### Transcript
 
 - Smalltalk Best Practice Patterns
 - Converter Pattern
 - Converter Constructor Pattern
-- to\_s
+- to_s
 - Date.parse
 - Method Object
 - Composed Method
@@ -55,7 +54,7 @@ tags:
 - Collections
 - Ruby's Enumerable
 - Iteration Method
-- to\_enum
+- to_enum
 - Constant Method
 - Pluggable Selector
 - Pluggable Block
@@ -69,4 +68,3 @@ tags:
 - String +
 - Hash#merge
 - IO Class
-

@@ -1,25 +1,25 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 028: Elixir, Node, and Bitcoin with Pete Corey
+  EMx 028: Elixir, Node, and Bitcoin with Pete Corey
 date: 2018-11-20 11:00:52
 episode_number: 028
 duration: 45:24
 audio_url: https://media.devchat.tv/elixir-mix/EMx_028_Elixir%20with%20Pete_Corey.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Mark Ericksen
-- Josh Adams 
+- Josh Adams
 
 **Special Guest:** [Pete Corey](https://twitter.com/petecorey)
 
-In this episode of Elixir Mix, the panel talks with [Pete Corey](https://twitter.com/petecorey) who is a software developer who resides in Denver, CO (USA). He uses Node, React, and Elixir and currently is working on two big projects. Listen to today’s episode to hear the panelists and Pete talk about Elixir, Node, Bitcoin, and Gen\_TCP. Check it out!
+In this episode of Elixir Mix, the panel talks with [Pete Corey](https://twitter.com/petecorey) who is a software developer who resides in Denver, CO (USA). He uses Node, React, and Elixir and currently is working on two big projects. Listen to today’s episode to hear the panelists and Pete talk about Elixir, Node, Bitcoin, and Gen_TCP. Check it out!
 
 **Show Topics:**
 
@@ -148,7 +148,7 @@ END – [Ad: Lootcrate.com](https://www.lootcrate.com)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [React](https://reactjs.org)
 - [Bitcoin](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388)
-- [Gen\_TCP](http://erlang.org/doc/man/gen_tcp.html)
+- [Gen_TCP](http://erlang.org/doc/man/gen_tcp.html)
 - [Stream Data](https://github.com/whatyouhide/stream_data)
 - [Bitcoin](http://www.petecorey.com/blog/tags/#bitcoin)
 - [YECC](http://erlang.org/doc/man/yecc.html)
@@ -180,7 +180,7 @@ Josh
 - [KSonnet](https://ksonnet.io)
 - [Grafonnet](https://github.com/grafana/grafonnet-lib)
 - [Prometheus Operator](https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus/jsonnet/kube-prometheus)
-- 
+-
 
 Mark
 
@@ -190,7 +190,4 @@ Pete
 
 - [The Sarrow](https://www.amazon.com/Sparrow-Mary-Doria-Russell/dp/1501247069)
 
-
 ### Transcript
-
-

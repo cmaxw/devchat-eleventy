@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Systems Programming for the Ruby Developer - Ruby Remote Conf 2015
+  Systems Programming for the Ruby Developer - Ruby Remote Conf 2015
 date: 2015-11-10 14:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: remote-conf-talks
-tags: 
+tags:
   - remote_conf_talks
   - podcast
 ---
@@ -17,5 +17,3 @@ Rubyists are famously polyglot. I've heard people joke that there are more JavaS
 &nbsp;
 
 In this talk, Steve will show off Rust, a new programming language from Mozilla. Steve will show you how that saying should change: "drop down to Rust," and why it's better for Rubyists than C.
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 025: 2 Years of React Native at Artsy with Orta Therox
+  RRU 025: 2 Years of React Native at Artsy with Orta Therox
 date: 2018-08-22 04:49:02
 episode_number: 025
 duration: 1:04:26
 audio_url: https://media.devchat.tv/reactroundup/RRU_025_2_Years_of_React_Native_at_Artsy_with_Orta_Therox.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Nader Dabit
 - Sia Karamalegos
@@ -24,8 +24,8 @@ In this episode, the React Round Up panelists talk to Orta Therox about his 2 ye
 
 **In particular, we dive pretty deep on:**
 
-- Orta intro 
-- [React Native](https://facebook.github.io/react-native/) and [JavaScript](https://www.javascript.com/) 
+- Orta intro
+- [React Native](https://facebook.github.io/react-native/) and [JavaScript](https://www.javascript.com/)
 - [_React Native at Artsy_](http://artsy.github.io/series/react-native-at-artsy/) blog post
 - [_React Native at Airbnb_](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c) blog post
 - Suspense
@@ -45,7 +45,7 @@ In this episode, the React Round Up panelists talk to Orta Therox about his 2 ye
 - How they describe their native engineers
 - More excited about React Native now than when it was released
 - [Artsy React Native Conference](http://artsy.github.io/artsy-x-react-native.html)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -89,7 +89,4 @@ Orta
 - [vscode-inline-types](https://github.com/sokra/vscode-inline-types)
 - [Coalition for Queens (C4Q)](https://www.c4q.nyc/)
 
-
 ### Transcript
-
-

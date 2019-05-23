@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 252: Siri in iOS 12 with Gui
+  iPS 252: Siri in iOS 12 with Gui
 date: 2018-09-01 03:08:41
 episode_number: 252
 duration: 46:52
 audio_url: https://media.devchat.tv/iphreaks/iPS_252_Siri_in_iOS_12_with_Gui.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Gui Rambo
 - Erica Sadun
@@ -26,7 +26,7 @@ In today's episode, the iPheaks panelist speaks with, their very own, Gui Rambo.
 **In particular, we dive pretty deep on:**
 
 - What’s new in Siri for iOS12?
-- What is a Siri Intent? 
+- What is a Siri Intent?
 - Creating or defining intents
 - Run Templates
 - NSUser Activity API
@@ -35,9 +35,9 @@ In today's episode, the iPheaks panelist speaks with, their very own, Gui Rambo.
 - What variables are used to determine what intents should be shown?
 - Examples of working with e-commerce app and learned activity
 - Can you charge money from an intent?
-- What kind of output or feedback do you get with custom intents? 
+- What kind of output or feedback do you get with custom intents?
 - Why isn’t there more Siri&nbsp;capabilities on the Mac?
-- How do you make custom intents? 
+- How do you make custom intents?
 - How you help users discover intents?
 - Shortcuts App&nbsp;
 - And much much more!
@@ -64,7 +64,4 @@ Andrew
 
 - &nbsp;[https://www.fifty-licks.com/](https://www.fifty-licks.com/)
 
-
 ### Transcript
-
-

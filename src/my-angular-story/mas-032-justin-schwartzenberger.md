@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 032: Justin Schwartzenberger
+  MAS 032: Justin Schwartzenberger
 date: 2018-04-11 10:00:57
 episode_number: 032
 duration: 28:21
 audio_url: https://media.devchat.tv/my-angular-story/MAS_032_Justin_Schwartzenberger.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Justin Schwartzenberger
 
@@ -77,7 +77,4 @@ Justin
 
 - [Postman](https://www.getpostman.com/)
 
-
 ### Transcript
-
-

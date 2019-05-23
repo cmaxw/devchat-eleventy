@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 013: Elixir Panel with Steve Bussey
+  EMx 013: Elixir Panel with Steve Bussey
 date: 2018-08-09 03:17:50
 episode_number: 013
 duration: 52:28
 audio_url: https://media.devchat.tv/elixir-mix/EMx_013_Elixir_Panel_with_Steve_Bussey.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Mark Erikson
 - Eric Berry
@@ -82,7 +82,4 @@ Steve
 
 - [Architecture the Lost Years by Robert Martin](https://www.youtube.com/watch?v=WpkDN78P884)
 
-
 ### Transcript
-
-

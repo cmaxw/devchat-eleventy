@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 016: Hubert Lepicki: "When to use Elixir language?"
+  EMx 016: Hubert Lepicki: "When to use Elixir language?"
 date: 2018-08-29 06:20:24
 episode_number: 016
 duration: 54:18
 audio_url: https://media.devchat.tv//elixir-mix/EMx_016_Hubert_Lepicki_When_to_use_Elixir_language.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Mark Erikson
@@ -86,9 +86,6 @@ Josh
 
 Hubert
 
-- [Succession](https://en.wikipedia.org/wiki/Succession_(TV_series))
-
+- [Succession](<https://en.wikipedia.org/wiki/Succession_(TV_series)>)
 
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      RC 2 - Interview with Gregg Pollack
+  RC 2 - Interview with Gregg Pollack
 date: 2009-12-18 15:47:32
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 367: Ruby Core Language Evolution: Moving towards functional with Victor Shepelev
+  RR 367: Ruby Core Language Evolution: Moving towards functional with Victor Shepelev
 date: 2018-06-19 14:10:22
 episode_number: 367
 duration: 56:09
 audio_url: https://media.devchat.tv/ruby-rogues/RR_367_Ruby_core_language_evolution_Moving_towards_functional_with_Victor_Shepelev.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Dave Kimura
@@ -33,14 +33,14 @@ In this episode of Ruby Rogues, the panelists talk to Victor Shepelev about func
 - Functional style of programming was possible from the beginning in Ruby
 - [Haskell](https://www.haskell.org/)
 - Functional style in any language
-- Making the functional style more natural in the future 
-- His current interests 
+- Making the functional style more natural in the future
+- His current interests
 - Is pattern matching something you would like to see changed?
 - What are some changes in Ruby that you would like to see?
 - What is pattern-matching?
 - Seeing code in a more idiomatic way
 - Still a lot of discussions happening
-- Immutable objects 
+- Immutable objects
 - Speeding up Ruby
 - The more functional Ruby is becoming, the more room for optimization there is
 - Writing at a higher level
@@ -92,7 +92,4 @@ Victor
 - [Victor’s GitHub](https://github.com/zverok)
 - [Reality](https://github.com/molybdenum-99/reality)
 
-
 ### Transcript
-
-

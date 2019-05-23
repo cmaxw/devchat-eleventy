@@ -1,31 +1,33 @@
 ---
 layout: layouts/post.njk
 title: >
-      287 RR Hacking the Asset Pipeline with Cameron Dutro
+  287 RR Hacking the Asset Pipeline with Cameron Dutro
 date: 2016-11-23 06:00:15
 episode_number: 287
 duration: 59:39
 audio_url: https://media.devchat.tv/ruby-rogues/RR287_Hacking_the_Asset_Pipeline_with_Cameron_Dutro.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 00:40 - Introducing Cameron Dutro
+
 - [Lumosity](https://www.lumosity.com/)
 - [Cameron’s talk at Rails Remote Conf](https://devchat.tv/conference-talks/hacking-the-asset-pipeline)
 - [Github](https://github.com/camertron/camertron-eprun)
 - [Twitter](https://twitter.com/camertron)
-2:15 - What is the Asset Pipeline?5:35 - Problems and limitations of the Asset Pipeline8:10 - Cameron’s biggest frustration with the Asset Pipeline14:45 - Doing it the Rails way, the Angular way, or the React way20:25 - Keeping your Webpack and Asset Pipeline separate: Working with Javascript and Rails
+  2:15 - What is the Asset Pipeline?5:35 - Problems and limitations of the Asset Pipeline8:10 - Cameron’s biggest frustration with the Asset Pipeline14:45 - Doing it the Rails way, the Angular way, or the React way20:25 - Keeping your Webpack and Asset Pipeline separate: Working with Javascript and Rails
 - [Browserify Rails](https://github.com/browserify-rails/browserify-rails)
 - [https://rails-assets.org](https://rails-assets.org/#/)
-31:45 - Creating your own preprocessor for putting a file format into the pipeline
+  31:45 - Creating your own preprocessor for putting a file format into the pipeline
 - Sprockets github link
-36:15 - Other issues with the Asset Pipeline40:00 - Causes behind problems with the Asset Pipeline42:05 - Hygiene of packages43:40 - Incorporating plugins into the pipeline45:30 - Resources for learning more
+  36:15 - Other issues with the Asset Pipeline40:00 - Causes behind problems with the Asset Pipeline42:05 - Hygiene of packages43:40 - Incorporating plugins into the pipeline45:30 - Resources for learning more
 - [Rails guides](http://guides.rubyonrails.org/)
 
 ### **Picks:**
+
 [_Drawing on the Right Side of the Brain_](https://www.amazon.com/Drawing-Right-Side-Brain-Definitive/dp/1585429201) by Betty Edwards (Jason)[Philosophize This! Podcast](http://www.philosophizethis.org/) (Jason)[Typora](http://www.typora.io/)(Brian)[Facer.io](https://www.facer.io/) (Brian)[Eventual Millionaire Podcast by Jamie Masters](http://eventualmillionaire.com/)(Charles)[Toggl time tracking software](https://toggl.com/) (Charles)Being nice to each other (Charles)[Ruby Together](https://rubytogether.org/) (Cameron)[Lumosity](https://www.lumosity.com/) (Cameron)Seattle Seahawks (Cameron)
 
 ### Transcript

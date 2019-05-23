@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 035: Doguhan Uluca
+  MAS 035: Doguhan Uluca
 date: 2018-05-02 10:00:12
 episode_number: 035
 duration: 38:40
 audio_url: https://media.devchat.tv/my-angular-story/MAS_035_Doguhan_Uluca.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Doguhan Uluca
 
@@ -76,7 +76,4 @@ Doguhan
 - [Agile Portugal](https://2018.agilept.org/)
 - [AngularMix](https://angularmix.com/#!/)
 
-
 ### Transcript
-
-

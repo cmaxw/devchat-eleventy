@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 082: Benjamin Hong
+  MJS 082: Benjamin Hong
 date: 2018-10-24 10:00:43
 episode_number: 082
 duration: 22:26
 audio_url: https://media.devchat.tv/my-js-story/MJS_082_Benjamin_Hong.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
 **Guest:** [Benjamin Hong](https://www.bencodezen.io)
 
@@ -171,7 +171,4 @@ Where do they find you?
 - [Conference in Atlanta, GA (Connect Tech)](https://tickets.connectevents.io/events/connect2018/)
 - [Conference in London – Vue](https://confs.tech)
 
-
 ### Transcript
-
-

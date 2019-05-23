@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 240:  Realm with Marin Todorov
+  iPS 240:  Realm with Marin Todorov
 date: 2018-05-17 10:00:50
 episode_number: 240
 duration: 50:08
 audio_url: https://media.devchat.tv//iphreaks/iPS_240_Realm_with_Marin_Todorov.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Gui Rambo
 - Andrew Madsen
@@ -23,16 +23,16 @@ In today's episode, the iPheaks panelist speaks with Marin Todorov about Realm. 
 
 **In particular, we dive pretty deep on:**
 
-- What is Realm? 
+- What is Realm?
 - What are differences from other data options?
-- Is Realm a SQL database? 
-- Live objects in Realm 
-- Multi-threading and Reactive 
-- What is data type returned from Realm? 
-- What is an Object Graph? 
-- Realm Cloud 
-- Marin’s Realm Book 
-- Realm World Tour 
+- Is Realm a SQL database?
+- Live objects in Realm
+- Multi-threading and Reactive
+- What is data type returned from Realm?
+- What is an Object Graph?
+- Realm Cloud
+- Marin’s Realm Book
+- Realm World Tour
 - And much much more!
 
 **Links:**
@@ -57,7 +57,4 @@ Marin
 
 - [Xcode Treasures - Chris Adamson](https://pragprog.com/book/caxcode/xcode-treasures)
 
-
 ### Transcript
-
-

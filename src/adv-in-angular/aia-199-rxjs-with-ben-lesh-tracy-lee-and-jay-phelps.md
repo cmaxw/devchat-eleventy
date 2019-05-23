@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 199: RxJS with Ben Lesh, Tracy Lee, and Jay Phelps
+  AiA 199: RxJS with Ben Lesh, Tracy Lee, and Jay Phelps
 date: 2018-07-25 19:10:35
 episode_number: 199
 duration: 1:26:57
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_199_RxJS_with_Ben_Lesh%2C_Tracy_Lee%2C_and_Jay_Phelps.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Shai Reznik
-- Joe Eames 
-- Alyssa Nicoll 
+- Joe Eames
+- Alyssa Nicoll
 - Ward Bell
 
 **Special Guests:**
@@ -47,7 +47,7 @@ In this episode, the Adventures in Angular panel talks to Ben Lesh, Tracy Lee, a
 - TSLint rules
 - [rxjs-tslint](https://github.com/ReactiveX/rxjs-tslint)
 - [TypeScript](https://www.typescriptlang.org/)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -103,7 +103,4 @@ Jay
 
 - [brow.sh](https://www.brow.sh/)
 
-
 ### Transcript
-
-

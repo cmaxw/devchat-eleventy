@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      150 iPS Here's to 150!
+  150 iPS Here's to 150!
 date: 2016-04-28 07:00:20
 episode_number: 150
 duration: 50:28
 audio_url: https://media.devchat.tv/iphreaks/iPS150.mp3?rss=true
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
@@ -32,11 +32,9 @@ Episode 150 Celebration! Here’s to 150 more!
 - [Project Islandwood](https://blogs.windows.com/buildingapps/tag/project-islandwood/)
 - [.NET Rocks!](https://www.dotnetrocks.com/)
 - [WWDC](https://developer.apple.com/wwdc/)
-[Check out Chuck’s Remote Conference Lineup!](https://allremoteconfs.com/)Picks
+  [Check out Chuck’s Remote Conference Lineup!](https://allremoteconfs.com/)Picks
 
 [Introducing GPUImage 2, redesigned in Swift](http://sunsetlakesoftware.com/2016/04/16/introducing-gpuimage-2-redesigned-swift) (Jaim)[Ramen YAMADAYA](http://www.ramen-yamadaya.com/) (Jaim)[Candy Japan](https://www.candyjapan.com) (Andrew)[MicroConf](http://www.microconf.com/) (Chuck)[GenerateWP](https://generatewp.com/) (Chuck)[WordPress Membership Plugin](https://www.memberpress.com/) (Chuck)
-
-
 
 ### Transcript
 
@@ -459,5 +457,3 @@ One of the things, I want to point out real quick before we wrap up is I do have
 **_[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.NET.]_**
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

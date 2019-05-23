@@ -1,31 +1,33 @@
 ---
 layout: layouts/post.njk
 title: >
-      099 AiA Firebase and AngularFire2 with David East and Jeff Cross
+  099 AiA Firebase and AngularFire2 with David East and Jeff Cross
 date: 2016-06-30 07:00:29
 episode_number: 099
 duration: 48:27
 audio_url: http://media.devchat.tv/adventures-in-angular/AiA099FirebaseAngularFire2.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
 ## Check out [Angular Remote Conf](https://allremoteconfs.com/angular-2016)!!
+
 &nbsp;02:01 - David East Introduction
+
 - [Twitter](https://twitter.com/_davideast)
 - [GitHub](https://github.com/davideast)
 - [Adventures in Angular Episode #11: AngularFire with David East and Kato Wulf](https://devchat.tv/adv-in-angular/011-aia-angular-fire-with-david-east-and-kato-wulf)
-02:34 - Jeff Cross Introduction
+  02:34 - Jeff Cross Introduction
 - [Twitter](https://twitter.com/jeffbcross)
 - [GitHub](https://github.com/jeffbcross)
 - [Adventures in Angular Episode #68: Reactive Programming with Jeff Cross and Rob Wormald](https://devchat.tv/adv-in-angular/068-aia-reactive-programming-with-jeff-cross-and-rob-wormald)
-02:52 - Angular Mobile + [Firebase](https://firebase.google.com/)03:57 - Firebase: Key Characteristics06:22 - Mobile \> Web Traffic?08:27 - Firebase + Angular 210:39 - Upgrading to [AngularFire2](https://github.com/angular/angularfire2) with Angular 213:43 - Data That Works Well15:09 - Interplaying with Traditional Forms of Data20:15 - Intermittent Connectivity Issues21:42 - Websockets Componentry24:14 - Authentication and Security25:48 - Projected Use Cases 
+  02:52 - Angular Mobile + [Firebase](https://firebase.google.com/)03:57 - Firebase: Key Characteristics06:22 - Mobile \> Web Traffic?08:27 - Firebase + Angular 210:39 - Upgrading to [AngularFire2](https://github.com/angular/angularfire2) with Angular 213:43 - Data That Works Well15:09 - Interplaying with Traditional Forms of Data20:15 - Intermittent Connectivity Issues21:42 - Websockets Componentry24:14 - Authentication and Security25:48 - Projected Use Cases
 - [firepad](https://github.com/firebase/firepad)
-30:53 - Compliance; Security Roles34:11 - What’s coming in Firebase?39:35 - [Firebase YouTube Channel](https://www.youtube.com/user/Firebase)
+  30:53 - Compliance; Security Roles34:11 - What’s coming in Firebase?39:35 - [Firebase YouTube Channel](https://www.youtube.com/user/Firebase)
 - [Firecasts](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnJVX_0zbKytptZGugPIbJR)
-&nbsp;Picks
+  &nbsp;Picks
 - [Ricoh Theta S Digital Camera](http://www.amazon.com/Ricoh-Theta-Digital-Camera-Black/dp/B014US3FQI) (Lukas)
 - [Kuula](https://kuula.co/about) (Lukas)
 - [Gaia GPS](https://www.gaiagps.com/) (Ward)
@@ -34,7 +36,6 @@ tags:
 - [Aftershokz](http://aftershokz.com/) (Jeff)
 - [Firebase YouTube Channel](https://www.youtube.com/user/Firebase) (David)
 - [Freakonomics Podcast](http://freakonomics.com/) (David)
-
 
 ### Transcript
 
@@ -315,5 +316,3 @@ And the last thing I'm going to do in a non-technical realm, and I feel like I'm
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wanna have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
-
-

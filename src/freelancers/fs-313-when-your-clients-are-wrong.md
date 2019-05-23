@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 313: When Your Clients are Wrong
+  FS 313: When Your Clients are Wrong
 date: 2018-10-25 10:00:32
 episode_number: 313
 duration: 42:11
 audio_url: https://media.devchat.tv/freelancers/FS_313_When_Your_Clients_are_Wrong.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
-- Jeremy Green 
+- Jeremy Green
 - Reuven Lerner
 - Erick Dietrich
 
@@ -126,7 +126,4 @@ Reuven:
 - [Podia](http://podia.com/)
 - [The Sense of Style by Steven Pinker](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing/dp/0143127799)
 
-
 ### Transcript
-
-

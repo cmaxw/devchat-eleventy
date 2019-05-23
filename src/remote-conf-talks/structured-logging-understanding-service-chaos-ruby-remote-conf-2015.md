@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      Structured Logging: Understanding Service Chaos - Ruby Remote Conf 2015
+  Structured Logging: Understanding Service Chaos - Ruby Remote Conf 2015
 date: 2015-10-27 15:00:00
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: remote-conf-talks
-tags: 
+tags:
   - remote_conf_talks
   - podcast
 ---
@@ -27,5 +27,3 @@ In this talk, we'll go over:
 &nbsp;\* What you should log in the first place!
 
 &nbsp;\* Tools and workflows to make use of those structured logs
-
-

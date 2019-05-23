@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 336: “The Origin of ESLint” with Nicholas Zakas
+  JSJ 336: “The Origin of ESLint” with Nicholas Zakas
 date: 2018-10-23 10:00:10
 episode_number: 336
 duration: 1:08:01
 audio_url: https://media.devchat.tv/js-jabber/JSJ_336_The_Origin_of_ESLint_with_Nicholas_Zakas.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Aimee Knight](http://www.aimeemarieknight.com)
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en) (DevChat TV)
@@ -192,7 +192,7 @@ Chris
 
 - [Inclusive Components Blog](https://inclusive-components.design/)
 - [CSS Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
-- JS Jabber - code 
+- JS Jabber - code
 
 Cory
 
@@ -202,7 +202,7 @@ Cory
 
 Charles
 
-- My JavaScript Story 
+- My JavaScript Story
 
 Joe
 
@@ -216,7 +216,4 @@ Nicholas
 - [Ghost Boy](https://www.amazon.com/Ghost-Boy-Miraculous-Misdiagnosed-Trapped-ebook/dp/B00C5QA94O/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1540162815&sr=1-1&keywords=Ghost+Boy)
 - Tip - Turn off your Wi-Fi before Bed
 
-
 ### Transcript
-
-

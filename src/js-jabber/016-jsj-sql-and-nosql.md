@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      016 JSJ SQL and NoSQL
+  016 JSJ SQL and NoSQL
 date: 2012-06-08 14:00:00
-episode_number: 
-duration: 
+episode_number:
+duration:
 audio_url: https://devchat.cachefly.net/javascriptjabber/JSJ016NoSQL.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
@@ -61,7 +61,7 @@ tags:
 
 ### Picks
 
-- [Podcasting A to Z](https://admin.devchat.tv/js-jabber/episodes/016-jsj-sql-and-nosql/podcastingatoz.com)&nbsp;use promo code "wood" for $100 off (Chuck)
+- [Podcasting A to Z](https://admin.devchat.tv/js-jabber/episodes/016-jsj-sql-and-nosql/podcastingatoz.com)&nbsp;use promo code "wood" for \$100 off (Chuck)
 - [Getting Things Done](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)&nbsp;(Chuck)
 - [Wood inbox](http://www.amazon.com/gp/product/B00006IALZ/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00006IALZ)&nbsp;(Chuck)
 - [Support thingy](http://www.amazon.com/gp/product/B00006IFLZ/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00006IFLZ) (Chuck)
@@ -69,7 +69,4 @@ tags:
 - [Utah JS Conf](http://conf.utahjs.com/) (AJ)
 - [OKCupid](http://www.okcupid.com/) (AJ)
 
-
 ### Transcript
-
-

@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 202: "Programming education/education research" with Neil Brown
+  AiA 202: "Programming education/education research" with Neil Brown
 date: 2018-08-14 10:00:35
 episode_number: 202
 duration: 1:04:14
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_202_Programming_education_education_research_with_Neil_Brown.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Shai Reznik
 - Ward Bell
-**Special Guests:** Neil Brown
+  **Special Guests:** Neil Brown
 
 In this episode, the Adventures in Angular panel talks to Neil Brown about learning to code and learning to code better. Neil works as a research fellow at Kings College in London where he works in computing education. He is very interested in how people learn to program and also making tools that make learning to program easier. They talk about things that experts can do to help new people pick up programming easier, how you can use live programming to teach novices, and the importance of having a supportive community. They also touch on what he has learned from his research, the necessity of practice over time, and more!
 
@@ -46,7 +46,7 @@ In this episode, the Adventures in Angular panel talks to Neil Brown about learn
 - Helps to have spaced practice
 - The best way to learn
 - [_Ten quick tips for teaching programming_ by Neil Brown](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -78,7 +78,4 @@ Neil
 
 - [Last Chance U](https://en.wikipedia.org/wiki/Last_Chance_U)
 
-
 ### Transcript
-
-

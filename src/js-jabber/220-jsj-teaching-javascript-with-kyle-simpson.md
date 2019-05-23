@@ -1,32 +1,33 @@
 ---
 layout: layouts/post.njk
 title: >
-      220 JSJ Teaching JavaScript with Kyle Simpson
+  220 JSJ Teaching JavaScript with Kyle Simpson
 date: 2016-07-13 07:00:45
 episode_number: 220
 duration: 01:08:48
 audio_url: https://media.devchat.tv/js-jabber/JSJ220KyleSimpson.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 02:25 - Kyle Simpson Introduction
+
 - [Twitter](https://twitter.com/getify)
 - [GitHub](https://github.com/getify)
 - [Blog](http://getify.me/)
 - “Getify”
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - [[Pluralsight] Advanced JavaScript by Kyle Simpson](https://www.pluralsight.com/courses/advanced-javascript)
-04:43 - Development =\> Teaching
+  04:43 - Development =\> Teaching
 - [Front End Masters](https://frontendmasters.com/)
-16:20 - Inheritance and Delegation29:40 - Evolving a Language36:23 - Cohersion
+  16:20 - Inheritance and Delegation29:40 - Evolving a Language36:23 - Cohersion
 - [Weak Typing, Dynamic Typing](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
 - [The Politics of JavaScript by Angus Croll](https://www.youtube.com/watch?v=JFmk9L_AMVQ)
-50:37 - Performance
+  50:37 - Performance
 - The Width Keyword
-54:33 - Developer Education Programs and The Skill of Teaching&nbsp;Picks
+  54:33 - Developer Education Programs and The Skill of Teaching&nbsp;Picks
 - [Adam Tornhill: Code, Crime, Complexity: Analyzing software with forensic psychology @ TEDxTrondheim](https://youtu.be/qJ_hplxTYJw) (Aimee)
 - [Your Code as a Crime Scene: Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs by Adam Tornhill](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene) (Aimee)
 - [Planet Money Episode 704: Open Office](http://www.npr.org/sections/money/2016/06/03/480625378/episode-704-open-office) (Jamison)
@@ -40,10 +41,9 @@ tags:
 - [Jeremy Keith: A web for everyone](https://adactio.com/journal/10665) (Kyle)
 - [Jeremy Keith: Regressive Web Apps](https://adactio.com/journal/10708) (Kyle)
 
-
 ### Transcript
 
- **JOE:&nbsp;** Let's roll.
+**JOE:&nbsp;** Let's roll.
 
 **_[This episode is sponsored by Frontend Masters. They have a terrific lineup of live courses you can attend either online or in person. They also have a terrific backlog of courses you can watch including JavaScript the Good Parts, Build Web Applications with Node.js, AngularJS In-Depth, and Advanced JavaScript. You can go check them out at FrontEndMasters.com.]_**
 
@@ -281,7 +281,7 @@ And then because you're using the with keyword you're going to be in non-strict 
 
 **KYLE:&nbsp;** I would actually re-frame this debate a little bit. So, I think it's definitely true, the observation that you're making that not all coding schools are the same. And not all teachers are the same. There are teachers that believe deeply in the process of education and pedagogy and knowing what you're talking about and being accurate and making sure that everybody gets what they need. And there are teachers that just sort of gloss over, reinforcing the same stuff that you've heard everywhere else. And they are very effective in that manner. So, not all teachers are the same and not all schools of course are going to be the same. You do need to pay very close attention to that.
 
-But I'd also, to push the debate even further I'd like to re-frame it slightly and say that I think part of the problem that exists right now with developer schools and really developer education as a whole is that the industry has forced these coding schools to do things that otherwise they wouldn't really naturally want to do. Because the developer industry, the business industry that hires these developers has said, “I just need you to make sure that they can invert a binary tree on a whiteboard,” well necessarily then because that's the way most interviews happen, guess what the developer schools do? They optimize for making sure that the developer can pass those interviews. [Inaudible] they spend at least some of the time instead of teaching them how to really understand the code, they spend some of the time just teaching them how to pass that interview. Why? Because they paid $20,000 as a transaction and one of the promises is that they would get a job. That they would get interviews and they'd get a job.
+But I'd also, to push the debate even further I'd like to re-frame it slightly and say that I think part of the problem that exists right now with developer schools and really developer education as a whole is that the industry has forced these coding schools to do things that otherwise they wouldn't really naturally want to do. Because the developer industry, the business industry that hires these developers has said, “I just need you to make sure that they can invert a binary tree on a whiteboard,” well necessarily then because that's the way most interviews happen, guess what the developer schools do? They optimize for making sure that the developer can pass those interviews. [Inaudible] they spend at least some of the time instead of teaching them how to really understand the code, they spend some of the time just teaching them how to pass that interview. Why? Because they paid \$20,000 as a transaction and one of the promises is that they would get a job. That they would get interviews and they'd get a job.
 
 So, part of the reason why we have really terrible tech school grads or if there are grads that are coming out and they don't know stuff, part of that blame is on the school but part of that blame is on the industry that's being hired into by wanting the wrong things. Optimizing for the wrong things, incentivizing entirely the wrong things. If we could change what we look for in the interview, if we could say that we value looking for people that are critical thinkers, that are really deeply problem solvers and not just people that are good at coding on whiteboards then I think you would see a new revolution of these developer education programs producing developers that are more optimized for that. Because those developer schools, right or wrong, exist for the purpose of getting somebody into our industry. And they are looking specifically to the companies that will hire their graduates to set the pace and to set the lead.
 
@@ -348,5 +348,3 @@ So, two really, really good thought-provoking pieces from Jeremy. And I totally 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

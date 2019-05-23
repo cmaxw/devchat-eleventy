@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 310: Thwarting Insider Threats with Greg Kushto
+  JSJ 310: Thwarting Insider Threats with Greg Kushto
 date: 2018-04-24 10:00:39
 episode_number: 310
 duration: 45:59
 audio_url: https://media.devchat.tv/js-jabber/JSJ_310_Thwarting_Insider_Threats_with_Greg_Kushto.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Cory House
@@ -44,13 +44,13 @@ In this episode, the JavaScript Jabber panelists discuss thwarting insider threa
 - Practical things to keep people from clicking on curious links
 - The need to change the game
 - Fighting insider threats isn’t fun, but it is necessary
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
 - [Force 3](https://www.force3.com/)
 - [Greg’s LinkedIn](https://www.linkedin.com/in/greg-kushto-050806a2)
-- [@Greg\_Kushto](https://twitter.com/greg_kushto?lang=en)
+- [@Greg_Kushto](https://twitter.com/greg_kushto?lang=en)
 - [Greg’s BLog](http://www.force3.com/blog/)
 
 **Picks:**
@@ -83,7 +83,4 @@ Greg
 
 - [StormCast](https://isc.sans.edu/podcast.html)
 
-
 ### Transcript
-
-

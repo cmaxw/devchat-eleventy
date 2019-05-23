@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      RC 13 - Interview with Chad Fowler - Part 1
+  RC 13 - Interview with Chad Fowler - Part 1
 date: 2010-03-19 04:31:38
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---

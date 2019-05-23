@@ -1,38 +1,43 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 169 React Native with Tyler McGinnis
+  iPS 169 React Native with Tyler McGinnis
 date: 2016-09-08 06:00:43
 episode_number: 169
 duration: 46:09
 audio_url: https://media.devchat.tv/iphreaks/iPS169_React_Native_with_Tyler_McGinnis.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 1:28: Tyler McGinnis Introduction
+
 - Sparrow
 - [React.js Program](http://www.reactjsprogram.com/)
 - [Tyler’s website](https://tylermcginnis.com/)
-2:15 [React Native](http://www.reactnative.com/)
+  2:15 [React Native](http://www.reactnative.com/)
 - CodePush
-4:37: Cross Network Frameworks11:20: The Experience of Going From iOS to Android
+  4:37: Cross Network Frameworks11:20: The Experience of Going From iOS to Android
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-16:20:[Andy Matuschak Tweet](https://twitter.com/andy_matuschak/status/560511204867575808)17:05: Basic Building Blocks
+  16:20:[Andy Matuschak Tweet](https://twitter.com/andy_matuschak/status/560511204867575808)17:05: Basic Building Blocks
 - Container Components
 - Presentational Components
-21:17 Reducers
+  21:17 Reducers
 - Time Travel Debugging
-23:15: Downsides of React Native26:45: Proper Threading
+  23:15: Downsides of React Native26:45: Proper Threading
 - Animation Issues
-30:58: Route Transitions
+  30:58: Route Transitions
 - [Reactive Native Vector Images](https://github.com/oblador/react-native-vector-icons)
-36:15: Testing a React Native Application40:12: Facebook’s Goals with App Development
+  36:15: Testing a React Native Application40:12: Facebook’s Goals with App Development
+
 ### Picks
+
 [_Cannery Row_](https://en.wikipedia.org/wiki/Cannery_Row_) by John Steinbeck (Jaim)[No Man’s Sky](http://www.no-mans-sky.com) (Layne)Remember the Titans (Charles)[Dan Abramov - Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs) (Tyler)[React.js](http://www.reactjsprogram.com/) (Tyler)
+
 ### Links:
+
 [Tyler on JavaScript Jabber](https://devchat.tv/js-jabber/151-jsj-getting-started-with-a-career-in-web-development-with-tyler-mcginnis)[Redux and React With Dan Abramov](https://devchat.tv/js-jabber/179-jsj-redux-and-react-with-dan-abramov)[JavaScript Core With Cesare Rocchi](https://devchat.tv/iphreaks/128-ips-javascriptcore-with-cesare-rocchi)
 
 ### Transcript
@@ -404,5 +409,3 @@ Tyler, if people want to know more about you, follow you on Twitter, see what ot
 Tyler: I am @tylermcginnis33 on Twitter. That’s the best way.
 
 Charles: Awesome, we’ll go ahead and wrap this show up and we’ll catch you all next week.
-
-

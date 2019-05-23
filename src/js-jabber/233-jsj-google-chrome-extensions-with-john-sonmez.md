@@ -1,23 +1,29 @@
 ---
 layout: layouts/post.njk
 title: >
-      233 JSJ Google Chrome Extensions with John Sonmez
+  233 JSJ Google Chrome Extensions with John Sonmez
 date: 2016-10-12 06:00:24
 episode_number: 233
 duration: 45:15
 audio_url: https://media.devchat.tv/js-jabber/JSJ233_Google_Chrome_Extensions_with_John_Sonmez.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 02:50 The definition of a plug-in03:31 The definition of an extension05:09 The way to determine the plug-ins and extensions you are running08:22 How to create an extension file11:02 The appeal of creating extensions13:26 How John got into creating extensions15:48 Ways to organize extensions19:38 Aspects of chrome that will affect extensions23:23 Packaging for the Chrome store26:22 Using dev tools29:42 Conflicting plug-ins/extensions and how to deal with them31:30 Open source extensions32:32 A quick way to create an extension
+
 ### QUOTES:
+
 “I teach software developers how to be cool.” –John Sonmez“There wasn’t an ability to extend the dev tools, but now there is.” –John Sonmez“One quick way to create an extension is just to take one of these sample apps…and then just start modifying it…” –John Sonmez
+
 ### PICKS:
+
 [“Django Unchained”](http://www.unchainedmovie.com/) Website[“Using Angular 2 Patterns in Angular 1.x”](https://egghead.io/courses/using-angular-2-patterns-in-angular-1-x-apps)Apps Egghead Course[Girls’ Life vs. Boys’ Life](http://www.refinery29.com/2016/09/122114/girls-life-boys-life-magazine-sexist-differences) on Refinery29[Webinar Jam](https://www.webinarjam.com/index/) Software
-# 
+
+#
+
 [“Five Mistakes That are Keeping You From Getting Hired”](https://devchat.tv/webinar-5-mistakes-that-are-keeping-you-from-getting-hired) Webinar[Screencastify](https://www.screencastify.com/) Chrome Extension[_How to Fail at Almost Everything and Still Win Big_](https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4) Book on Amazon[_The Complete Software Developers Career Guide_](https://simpleprogrammer.com/2016/07/04/complete-software-developers-career-guide-introduction/) Book in Progress[Simple Programmer](https://simpleprogrammer.com/) Website[Simple Programmer](https://www.youtube.com/user/jsonmez) on Youtube
 
 ### Transcript

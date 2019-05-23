@@ -1,37 +1,42 @@
 ---
 layout: layouts/post.njk
 title: >
-      210 FS Finding Leads at Conferences with Matt Krause
+  210 FS Finding Leads at Conferences with Matt Krause
 date: 2016-07-14 07:00:58
 episode_number: 210
 duration: 54:08
 audio_url: https://media.devchat.tv/freelancers/FS210FindingLeadsAtConferences.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 01:38 - Matt Krause Introduction
+
 - [Twitter](https://twitter.com/mattkrause)
 - [Blog](http://mattkrause.com/)
 - [They Might Be Giants - Istanbul (Not Constantinople)](https://vimeo.com/6746927)
-02:56 - The Mindset Change/Attitude Adjustment and The 3 Most Common Misconceptions
+  02:56 - The Mindset Change/Attitude Adjustment and The 3 Most Common Misconceptions
+
 1. C-Level Executives
 2. The Elevator Speech
 3. Follow-up Collateral
-08:50 - Impressing and Connecting with the Right People (Positioning)
+   08:50 - Impressing and Connecting with the Right People (Positioning)
+
 - [LinkedIn](https://www.linkedin.com/)
 - “Stalking is only bad if it’s unwanted.”
 - [Podcast Movement](http://podcastmovement.com/)
 - [Toastmasters](https://www.toastmasters.org/)
-18:53 - How do you write a speech?
+  18:53 - How do you write a speech?
+
 1. Talking to the wall ([Rubber Ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging))
 2. Boy Meets Girl
 3. HGOMM (Hero, Goal, Obstacle, Mentor, Moral)
-30:15 - Audience Participation37:13 - Speechwriting No-Nos
+   30:15 - Audience Participation37:13 - Speechwriting No-Nos
+
 - Do not read off of your script
-40:58 - Topic Selection
+  40:58 - Topic Selection
 - Problem =\> Resolution
 - [Philip Morgan: What Jerry Springer can teach you about positioning](https://philipmorganconsulting.com/what-jerry-springer-can-teach-you-about-positioning/)
 - [Kurt Vonnegut on the Shapes of Stories](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
@@ -39,6 +44,7 @@ tags:
 [**Check out Matt’s site specifically for The Freelancers’ Show listeners!**](http://dopplercomm.com/fs/)
 
 Picks
+
 - [Lead Generation Trust Velocity](https://philipmorganconsulting.com/lead-generation-trust-velocity/) (Philip)
 - Inbox Zero (Reuven) &nbsp;&nbsp;&nbsp;
 - [Procrastinate on Purpose: 5 Permissions to Multiply Your Time by Rory Vaden](https://www.amazon.com/Procrastinate-Purpose-Permissions-Multiply-Your/dp/0399170626) (Chuck)
@@ -47,7 +53,6 @@ Picks
 - [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016) (Chuck)
 - [Get A Coder Job](http://getacoderjob.com/) (Chuck)
 - [All Remote Conferences](https://allremoteconfs.com/) (Chuck)[Kurt Vonnegut on the Shapes of Stories](https://www.youtube.com/watch?v=oP3c1h8v2ZQ) (Matt)
-
 
 ### Transcript
 
@@ -378,5 +383,3 @@ And what I really liked about this video – it’s a short video. It’s like 3
 **CHUCK:** We’ll catch everyone next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 069: Paweł Dąbrowski
+  MRS 069: Paweł Dąbrowski
 date: 2018-11-14 11:00:12
 episode_number: 069
 duration: 21:48
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_069_Pawel_Dabrowski.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** [Paweł Dąbrowski](https://github.com/rubyhero)
 
@@ -22,7 +22,7 @@ This week on My Ruby Story, Chuck talks with [Paweł Dąbrowski](https://github.
 
 0:00 – [Get A Coder Job!](http://getacoderjob.com/)
 
-0:55 – Chuck: This week I am talking with [Paweł Dąbrowski](https://github.com/rubyhero) who was on [episode 366.](https://devchat.tv/ruby-rogues/rr-366-build-your-own-rspec-a-gentle-metaprogramming-intro-with-pawel-d%25C4%2585browski/) Give us a brief description of who you are, please.
+0:55 – Chuck: This week I am talking with [Paweł Dąbrowski](https://github.com/rubyhero) who was on [episode 366.](https://devchat.tv/ruby-rogues/rr-366-build-your-own-rspec-a-gentle-metaprogramming-intro-with-pawel-dąbrowski/) Give us a brief description of who you are, please.
 
 1:25 – Guest: I run a company and I am here b/c of the article I wrote. It was a nice introduction to...programming. I write in my [blog](https://pdabrowski.com/blog/articles) and have written a few gems. I created a course how to build Ruby Flow. Also, I create Ruby code every day. I think that’s it.
 
@@ -42,7 +42,7 @@ I didn’t want to give up and figured it all boils down to: “how bad do you w
 
 6:22 – Chuck: How old were you when you got paid for web development?
 
-6:32 – Guest: I think I was sixteen years old and $50.00 was a fortune for me. I felt like a millionaire. It felt great to make money for something you love to do. It wasn’t work; I just enjoyed doing it.
+6:32 – Guest: I think I was sixteen years old and \$50.00 was a fortune for me. I felt like a millionaire. It felt great to make money for something you love to do. It wasn’t work; I just enjoyed doing it.
 
 7:07 – Chuck: That’s the magic!
 
@@ -119,10 +119,7 @@ Chuck
 - [Book: Get A Coder Job](https://devchat.tv/store/get-a-coder-job-ebook/)
 - [Video Course: Get A Coder Job](https://devchat.tv/store/get-a-coder-job-video-course/)
 - [PodWrench – Tool](https://podwrench.com)
-- Self-Publishing Tool 
-- Developer Freedom 
-
+- Self-Publishing Tool
+- Developer Freedom
 
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 022: Allison McMillan
+  MRS 022: Allison McMillan
 date: 2017-09-27 04:00:54
 episode_number: 022
 duration: 33:02
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_022__Allison_McMillan.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
@@ -22,22 +22,19 @@ This week on My Ruby Story, Charles speaks with Allison McMillan. Allison is a s
 - Doing light talks at Ruby Conf. to gain authority
 - Allison mentions doing conference speaking and organizing as apart of contributing to the Ruby community
 - Allison’s favorite thing to speak about at conferences involves writing interactive workshops.
-**Links:**
+  **Links:**
 - [DC Tech Community&nbsp;](https://www.meetup.com/DC-Tech-Meetup/?_cookie-check=J-9UEiLc24IWLTaK)
 - [Rails Girls](http://railsgirls.com)
 - [http://rubyconf.org/scholarships](http://rubyconf.org/scholarships)
 - Blog site - [DayDreams In Ruby](http://daydreamsinruby.com)
-- @allie\_p
+- @allie_p
 - [Ruby Dev Summit&nbsp;](https://rubydevsummit.com) - Free
-**Picks:&nbsp;** Allison
+  **Picks:&nbsp;** Allison
 - [Hello Ruby](http://www.helloruby.com) by Linda Liukas
 - Baking - [SmittenKitchen](https://smittenkitchen.com)
-Charles
+  Charles
 - [GitLab Server](https://about.gitlab.com)
 - [MatterMost](https://about.mattermost.com)
-- 
-
+-
 
 ### Transcript
-
-

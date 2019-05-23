@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 047: Tara Z. Manicsic
+  MAS 047: Tara Z. Manicsic
 date: 2018-08-15 19:50:34
 episode_number: 047
 duration: 37:16
 audio_url: https://media.devchat.tv/my-angular-story/MAS_047_TaraZ_Manicsic.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Tara Z. Manicsic
 
@@ -23,7 +23,7 @@ This week on My Angular Story, Charles speaks with Tara Z. Manicsic. Tara is a d
 - Tara intro
 - Very excited and fascinated with the web
 - Helped to start up [React Round Up](https://devchat.tv/react-round-up/rru-001-getting-started-react/) as a panelist
-- Her experience as a developer 
+- Her experience as a developer
 - Started out as a business school dropout
 - How did you first get into programming?
 - Learned Logo in the second grade
@@ -31,7 +31,7 @@ This week on My Angular Story, Charles speaks with Tara Z. Manicsic. Tara is a d
 - [Crystal Reports](https://www.crystalreports.com/) at Harvard Law
 - CS courses with tuition assistance
 - Getting back into CS
-- Being a non-traditional student 
+- Being a non-traditional student
 - Finding [Women Who Code](https://www.womenwhocode.com/)
 - First job as a [Node](https://nodejs.org/en/) software engineer
 - How did Women Who Code help you?
@@ -80,7 +80,4 @@ Tara
 - [DevFest Atlanta](http://devfestatl.com/)
 - [Cedar Point](https://www.cedarpoint.com/)
 
-
 ### Transcript
-
-

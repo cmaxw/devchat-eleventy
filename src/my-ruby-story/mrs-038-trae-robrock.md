@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 038: Trae Robrock
+  MRS 038: Trae Robrock
 date: 2018-04-04 16:09:26
 episode_number: 038
 duration: 26:40
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_038_Trae_Robrock.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Trae Robrock
 
@@ -38,7 +38,7 @@ This week on My Ruby Story, Charles talks to Trae Robrock. Trae founded and is c
 - Automation in coding
 - DSL use case
 - What are you working on now
-- Tries to get into the code 
+- Tries to get into the code
 - What resources have you found that help you?
 - Relationship management
 - How do you learn how to hire the right people?
@@ -76,7 +76,4 @@ Trae
 - [_Crush It!_ by Gary Vaynerchuk](https://www.amazon.com/Crush-Time-Cash-Your-Passion/dp/B0032Z3LRO/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Trae’s YouTube Channel](https://www.youtube.com/user/trobrock)
 
-
 ### Transcript
-
-

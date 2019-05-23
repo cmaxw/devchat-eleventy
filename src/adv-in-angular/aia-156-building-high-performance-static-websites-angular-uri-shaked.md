@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 156: Building High Performance Static Websites with Angular by Uri Shaked
+  AiA 156: Building High Performance Static Websites with Angular by Uri Shaked
 date: 2017-09-19 05:00:08
 episode_number: 156
 duration: 49:27
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_156_Building_High_Performance_Static_Websites_with_Angular_by_Uri_Shaked.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
@@ -33,7 +33,4 @@ This is a talk given by Uri Shaked at the recent Angular Dev Summit. If you'd li
 - [preboot](https://github.com/angular/preboot)
 - [angular-iot](https://github.com/urish/angular-iot)
 
-
 ### Transcript
-
-

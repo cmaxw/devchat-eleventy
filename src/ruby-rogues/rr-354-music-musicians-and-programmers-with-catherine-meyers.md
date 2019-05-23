@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 354: Music, Musicians, and Programmers with Catherine Meyers
+  RR 354: Music, Musicians, and Programmers with Catherine Meyers
 date: 2018-03-20 10:00:06
 episode_number: 354
 duration: 1:08:49
 audio_url: https://media.devchat.tv/ruby-rogues/RR_354_Music%2C_Musicians%2C_and_Programmers_with_Catherine_Meyers.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Dave Kimura
@@ -90,7 +90,4 @@ Catherine
 - [Base.cs](https://dev.to/basecspodcast)
 - [_Ruby Under a Microscope_ by Pat Shaughnessy](https://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277)
 
-
 ### Transcript
-
-

@@ -1,21 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      182 FS Structuring Your Business with Pete Keen
+  182 FS Structuring Your Business with Pete Keen
 date: 2015-12-31 16:00:00
 episode_number: 182
 duration: 0:49:04
 audio_url: https://media.devchat.tv/freelancers/FS182StructuringBusiness.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 02:49 - Pete Keen Introduction
 
-- [Twitter](https://twitter.com/zrail) 
-- [GitHub](https://github.com/peterkeen) 
+- [Twitter](https://twitter.com/zrail)
+- [GitHub](https://github.com/peterkeen)
 - [Blog](https://www.petekeen.net/)
 - [Handle Your Business by Pete Keen](https://www.petekeen.net/handle-your-business)
 
@@ -62,8 +62,4 @@ tags:
 
 [The Independent Consulting Manual by Philip Morgan](http://independentconsultingmanual.com) Use the discount code FREELANCESHOW for 25% off all packages (Philip)[Rohto Cool Redness Relief](http://www.amazon.com/Rohto-Cool-Redness-Relief-0-4/dp/B00I9K3C12/ref=sr_1_3?ie=UTF8&qid=1449604870&sr=8-3&keywords=rhoto) (Philip)[0.30000000000000004.com](http://0.30000000000000004.com/) (Reuven)[WebEx](http://webex.com/) (Reuven)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[All Remote Confs](https://allremoteconfs.com/) (Chuck)[Clash of Clans](http://supercell.com/en/games/clashofclans/) (Chuck)[Star Wars: Commander](http://www.starwars.com/games-apps/star-wars-commander) (Chuck)[The Independent Consulting Manual by Philip Morgan](http://independentconsultingmanual.com) (Pete)[Neko Atsume](https://play.google.com/store/apps/details?id=jp.co.hit_point.nekoatsume&hl=en) (Pete)
 
-
-
 ### Transcript
-
-

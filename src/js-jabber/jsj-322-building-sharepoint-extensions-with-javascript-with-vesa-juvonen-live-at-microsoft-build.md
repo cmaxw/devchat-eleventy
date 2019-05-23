@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 322: Building SharePoint Extensions with JavaScript with Vesa Juvonen LIVE at Microsoft Build
+  JSJ 322: Building SharePoint Extensions with JavaScript with Vesa Juvonen LIVE at Microsoft Build
 date: 2018-07-17 13:45:53
 episode_number: 322
 duration: 30:56
 audio_url: https://media.devchat.tv/js-jabber/JSJ_322_Building_SharePoint_Extensions_with_JavaScript_with_Vesa_Juvonen_LIVE_at_Microsoft_Build.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Charles Max Wood
 
@@ -43,7 +43,7 @@ In this episode, the JavaScript Jabber panel talks to Vesa Juvonen about buildin
 - [SharePoint documentation](https://docs.microsoft.com/en-us/sharepoint/)
 - [SharePoint YouTube](https://www.youtube.com/user/GetStartedSharePoint)
 - What kinds of extensions are you seeing people build?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -82,7 +82,4 @@ Vesa
 
 - [_Armada_ by Ernest Cline](https://www.amazon.com/Armada-novel-author-Ready-Player/dp/0804137277)
 
-
 ### Transcript
-
-

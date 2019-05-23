@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 214: NgRx Tips & Tricks with Adrian Fâciu
+  AiA 214: NgRx Tips & Tricks with Adrian Fâciu
 date: 2018-11-06 11:00:47
 episode_number: 214
 duration: 1:02:17
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_214_NgRx_Tips_%26_Tricks_with_Adrian_Faciu.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - John Papa
@@ -357,7 +357,7 @@ You can vote stuff up on Trello on NgRx so we can go deeper on this topic.
 John
 
 - [NgRx Data](https://github.com/johnpapa/angular-ngrx-data)
-- Conferences&nbsp; - Don’t feel mofo 
+- Conferences&nbsp; - Don’t feel mofo
 
 Charles
 
@@ -368,7 +368,4 @@ Adrain
 - [Angular In-depth Doc](https://blog.angularindepth.com/ngrx-tips-tricks-69feb20a42a7)
 - [Wallaby](https://wallabyjs.com/)
 
-
 ### Transcript
-
-

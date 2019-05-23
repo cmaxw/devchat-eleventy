@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 328: Functional Programming with Ramda with Christine Legge
+  JSJ 328: Functional Programming with Ramda with Christine Legge
 date: 2018-08-28 10:00:01
 episode_number: 328
 duration: 55:21
 audio_url: https://media.devchat.tv/js-jabber/JSJ_328_Functional_Programming_with_Ramda_with_Christine_Legge.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Joe Eames
 - Aimee Knight
@@ -26,9 +26,9 @@ In this episode, the JavaScript Jabber panel talks to Christine Legge about func
 
 **In particular, we dive pretty deep on:**
 
-- Chirstine intro 
+- Chirstine intro
 - Works as a front-end software engineer
-- What is [Ramda](https://ramdajs.com/)? 
+- What is [Ramda](https://ramdajs.com/)?
 - [JavaScript](https://www.javascript.com/)
 - Utility library like [Lodash](https://lodash.com/) and [Underscore](https://underscorejs.org/)
 - Lodash and Underscore VS Ramda
@@ -47,7 +47,7 @@ In this episode, the JavaScript Jabber panel talks to Christine Legge about func
 - Ramda makes it easy to compose functions
 - Creating clean and reusable code
 - How do you start using Ramda?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -96,7 +96,4 @@ Christine
 - [Dan Mangan](http://danmanganmusic.com/)
 - [Reply All Podcast](https://www.gimletmedia.com/reply-all)
 
-
 ### Transcript
-
-

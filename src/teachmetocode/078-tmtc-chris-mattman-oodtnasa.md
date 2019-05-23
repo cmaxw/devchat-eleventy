@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      078 TMTC Chris Mattmann - OODT/NASA
+  078 TMTC Chris Mattmann - OODT/NASA
 date: 2011-12-30 12:42:47
 episode_number: 078
-duration: 
-audio_url: 
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -39,7 +39,4 @@ tags:
 - VPICU
 - [OODT Contact page (info on mailing lists, etc.)](http://oodt.apache.org/contact/)
 
-
 ### Transcript
-
-

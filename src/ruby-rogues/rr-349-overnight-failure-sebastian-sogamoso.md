@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 349: The Overnight Failure with Sebastian Sogamoso
+  RR 349: The Overnight Failure with Sebastian Sogamoso
 date: 2018-02-13 04:00:18
 episode_number: 349
 duration: 1:05:52
 audio_url: https://media.devchat.tv//ruby-rogues/RR_349_The_Overnight_Failure_with_Sebastian_Sogamoso.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:&nbsp;** Charles Max Wood Eric Berry Dave Kimura David Richards **Special Guests:** Sebastian Sogamoso In this episode of Ruby Rogues, the panel discusses failures with Sebastian Sogamoso. Sebastian is a software developer of 6 years, and working with Ruby for the last 5 years, and before worked with Java and PHP. He is currently living in Panama City, but grew up in Colombia. He now works for [CookPad](https://cookpad.com/us?via=jp) and organizes a Ruby conference in Colombia. Sebastian stresses the fact that everyone fails no matter what, and if you take responsibility and learn from your failures, you can more on to become a better programmer and developer because of it. **In particular, we dive pretty deep on:**
+**Panel:&nbsp;** Charles Max Wood Eric Berry Dave Kimura David Richards **Special Guests:** Sebastian Sogamoso In this episode of Ruby Rogues, the panel discusses failures with Sebastian Sogamoso. Sebastian is a software developer of 6 years, and working with Ruby for the last 5 years, and before worked with Java and PHP. He is currently living in Panama City, but grew up in Colombia. He now works for [CookPad](https://cookpad.com/us?via=jp) and organizes a Ruby conference in Colombia. Sebastian stresses the fact that everyone fails no matter what, and if you take responsibility and learn from your failures, you can more on to become a better programmer and developer because of it. **In particular, we dive pretty deep on:**
+
 - Ruby, Java, and PHP
 - Failure stories
 - Personal failure stories in software projects
@@ -36,7 +37,7 @@ tags:
 - Why sharing our failures can help
 - Impostor syndrome
 - And much, much more!
-**Links: &nbsp;**
+  **Links: &nbsp;**
 - [Linode](https://promo.linode.com/rubyrogues/)
 - [CookPad](https://cookpad.com/us?via=jp)
 - [Interview Cake](https://www.interviewcake.com/?utm_source=rubyrogues)
@@ -45,26 +46,27 @@ tags:
 - [@SebaSoga](https://twitter.com/sebasoga?lang=en)
 - [Sebastian’s GitHub](https://github.com/sebasoga)
 - [SourceDiving.com](https://sourcediving.com/)
-- 
+-
+
 **Picks:** Charles
+
 - [Craigslist](https://www.craigslist.org/about/sites)
 - [eBay](https://www.ebay.com/)
 - Classified Sites for Non-Running Vehicles
-Eric
+  Eric
 - [Django](https://www.djangoproject.com/)
 - Cats
-Dave
+  Dave
 - Costco Glasses
-David
+  David
 - [The Knowledge Worker by Peter Drucker](https://hbr.org/2014/10/what-peter-drucker-knew-about-2020)
 - [A Different View of Mindfulness by Zat Rana](https://medium.com/personal-growth/how-mindfulness-actually-works-and-why-it-can-change-your-life-b76d889a490)
-- 
+-
+
 Sebastian
+
 - [Headspace App](https://www.headspace.com/headspace-meditation-app)
 - [You Need a Budget App](https://www.youneedabudget.com/apps/)
 - [1Blocker App](https://1blocker.com/)
 
-
 ### Transcript
-
-

@@ -1,39 +1,41 @@
 ---
 layout: layouts/post.njk
 title: >
-      271 RR Problems New Developers Don’t Realize They Have and Hidden Tradeoffs to Coding Decisions Developers Have to Make with Justin Weiss
+  271 RR Problems New Developers Don’t Realize They Have and Hidden Tradeoffs to Coding Decisions Developers Have to Make with Justin Weiss
 date: 2016-08-03 07:00:19
 episode_number: 271
 duration: 46:55
 audio_url: http://media.devchat.tv/ruby-rogues/RR271NewDevProblems.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
   - new_programmers
 ---
 
 ## [Rails Remote Conf](https://allremoteconfs.com/rails-2016)
+
 &nbsp;01:14 - Justin Weiss Introduction
+
 - [Twitter](https://twitter.com/justinweiss)
 - [GitHub](https://github.com/justinweiss)
 - [Blog](http://www.justinweiss.com/)
 - [Avvo](https://www.avvo.com/) &nbsp;
 - [Practicing Rails: Learn Rails Without Being Overwhelmed by Justin Weiss](https://www.justinweiss.com/practicing-rails/)
-02:15 - “Learning Rails Without Getting Overwhelmed”?
+  02:15 - “Learning Rails Without Getting Overwhelmed”?
 - [Agile Web Development with Rails by Dave Thomas and David Heinemeier Hansson, with Leon Breedt, Mike Clark, James Duncan Davidson, Justin Gehtland, and Andreas Schwarz](https://pragprog.com/book/rails2/agile-web-development-with-rails)
-02:34 - Problems New Developers Don’t Realize They Have04:35 - Learning New Things08:05 - What is a success?09:02 - What can senior devs do? What shouldn’t they do?
+  02:34 - Problems New Developers Don’t Realize They Have04:35 - Learning New Things08:05 - What is a success?09:02 - What can senior devs do? What shouldn’t they do?
 - [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman David H. Hoover and Adewale Oshineye](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
 - [Pragmatic Thinking and Learning by Andy Hunt](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)
 - [Brandon Hays: The Conjoined Triangles of Senior-Level Development](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html)
-15:43 - Are there still “Architects”?20:45 - The Existential Crisis of Software Development
+  15:43 - Are there still “Architects”?20:45 - The Existential Crisis of Software Development
 - [Integrated Tests Are A Scam](http://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
 - [Emo Philips: The best God joke ever - and it's mine!](https://www.theguardian.com/stage/2005/sep/29/comedy.religion)
-22:26 - The Responsibility of the Students26:08 - How can new developers obtain objective evidence of their blind spots?
+  22:26 - The Responsibility of the Students26:08 - How can new developers obtain objective evidence of their blind spots?
 - [Bias Blind Spot](https://en.wikipedia.org/wiki/Bias_blind_spot)
 - [The Fifth Discipline: The Art & Practice of The Learning Organization by Peter M. Senge](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254/ref=sr_1_1?s=books&ie=UTF8&qid=1469747932&sr=1-1&keywords=The+Fifth+Discipline%3A+The+Art+%26+Practice+of+The+Learning+Organization+by+Peter+M.+Senge)
 - [Asch Experiment](http://www.simplypsychology.org/asch-conformity.html)
-33:49 - Early Career Developers Working Together37:03 - Learning Practices&nbsp;Picks
+  33:49 - Early Career Developers Working Together37:03 - Learning Practices&nbsp;Picks
 - [emoj](https://github.com/sindresorhus/emoj) (Coraline)
 - [Teaching Robots to Feel: Emoji & Deep Learning](http://getdango.com/emoji-and-deep-learning.html) (Coraline)
 - [The Lies of Locke Lamora](https://en.wikipedia.org/wiki/The_Lies_of_Locke_Lamora) (Sam)
@@ -48,10 +50,9 @@ tags:
 - [How to Write in Plain English](http://www.plainenglish.co.uk/files/howto.pdf) (Justin)
 - [Avvo](https://www.avvo.com/) (Justin)
 
-
 ### Transcript
 
- **JESSICA:&nbsp;** Anybody else catch a new Pokémon this morning?
+**JESSICA:&nbsp;** Anybody else catch a new Pokémon this morning?
 
 **_[This episode is sponsored by Hired.com. Every week on hired they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It's totally free for users. And when you're hired, they give you a $1,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you'll get a $2,000 instead. Finally, if you're not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/RubyRogues.]_**
 
@@ -520,5 +521,3 @@ The last one I have is kind of a plug pick for where I work, Avvo. In an industr
 **_[Bandwidth for this segment is provided by CacheFly, the world's fastest CDN. Deliver your content fast with CacheFly. Visit C-A-C-H-E-F-L-Y dot com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 212: “Angular Console” with Dan Muller
+  AiA 212: “Angular Console” with Dan Muller
 date: 2018-10-23 10:00:07
 episode_number: 212
 duration: 1:00:44
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_212_Angular_Console_with_Dan_Muller.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Aaron Frost
 - John Papa
-- Alyssa Nicholl 
+- Alyssa Nicholl
 
 **Special Guests:** Dan Muller
 
@@ -105,7 +105,7 @@ _Dan continues this conversation._
 
 20:26 – John Papa discount.
 
-20:31 – I usually have to pay him $10,000 a minute!
+20:31 – I usually have to pay him \$10,000 a minute!
 
 20:53 – Yeah, he’s a cofounder (Victor).
 
@@ -280,7 +280,7 @@ People can solve a lot of problems and this is HUGE!
 
 Alyssa
 
-- Kendal UI Library component update 
+- Kendal UI Library component update
 
 John
 
@@ -304,7 +304,4 @@ Dan
 - [Grinders Boots](http://grinders.co.uk/home/)
 - [Screaming Females](http://screamingfemales.com/)
 
-
 ### Transcript
-
-

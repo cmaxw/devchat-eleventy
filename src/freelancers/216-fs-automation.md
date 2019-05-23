@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      216 FS Automation
+  216 FS Automation
 date: 2016-08-25 07:00:33
 episode_number: 216
 duration: 01:02:54
 audio_url: https://media.devchat.tv/freelancers/FS216Automation.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
@@ -67,10 +67,9 @@ Picks
 - [<u>Slack</u>](https://slack.com/) (Chuck)
 - The Freelancers’ Show Facebook Group (Chuck)
 
-
 ### Transcript
 
- **CHUCK:** It’s weird not having anyone to yell at.
+**CHUCK:** It’s weird not having anyone to yell at.
 
 **_[This episode is sponsored by Hired.com. Hired.com is offering a new freelancing and contracting offering. They have multiple companies that will provide you with contract opportunities. They cover all the tracking, reporting and billing for you, they handle all the collections and prefund your paycheck, they offer legal and accounting and tax support, and they’ll give you $1,000 when you’ve been on a contract for 90 days. But with this link, they’ll double it to $2,000 instead. Go sign up at Hired.com/freelancersshow.]_**
 
@@ -427,5 +426,3 @@ The other pick that I have – and this is another bit of just stuff that’s be
 So anyway, those are my picks. And just yeah, thanks everyone for listening. One other thing I do want to shout out is we do have a Facebook page. So if you want to go like the show, just do a search for Freelancers’ Show. You should be able to find it. And we’ll put a link to it in the show notes. And yeah, we’ll wrap up the show and we’ll catch you all next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN.&nbsp; Deliver your content fast with CacheFly. Visit cachefly.com to learn more.]_**
-
-

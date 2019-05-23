@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 297:  Responding to RFPs
+  FS 297:  Responding to RFPs
 date: 2018-05-18 12:52:04
 episode_number: 297
 duration: 31:22
 audio_url: https://media.devchat.tv/freelancers/FS_297_Responding_to_RFPs.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Reuven Lerner
 - [Erik Dietrich](https://twitter.com/daedtech?lang=en)
@@ -23,20 +23,20 @@ In this episode of the Freelancer’s Show, the panelist discuss “Responding t
 **In particular, we dive pretty deep on:**
 
 - Eric talks about his experience with RFPs
-- Jeremy ddescribeshis past encounters with RFPs. 
-- Jonathan’s experience with RFPs. 
-- Price droppers 
+- Jeremy ddescribeshis past encounters with RFPs.
+- Jonathan’s experience with RFPs.
+- Price droppers
 - Learning about the budget
 - Qualifications points of the job
-- Individual to RFPs 
-- Risk competing with companies 
-- Last resort 
-- Issues of RFPs - Not individual but by companies 
+- Individual to RFPs
+- Risk competing with companies
+- Last resort
+- Issues of RFPs - Not individual but by companies
 - Quoting a price&nbsp;
-- Involving a phone call 
-- Resumes 
+- Involving a phone call
+- Resumes
 - Changing the conversation
-- Value-based pricing 
+- Value-based pricing
 - And much more!&nbsp; &nbsp; &nbsp;
 
 Picks
@@ -50,14 +50,11 @@ Jonathan Stark
 Erik Dietrich
 
 - Cortana
-- Top Loader for Jeep 
+- Top Loader for Jeep
 
 Jeremy Green
 
 - [Increase Your Consulting Fees](http://increaseyourconsultingfees.com)&nbsp;
 - [Rock’n Roll with EmberJS](https://balinterdi.com/rock-and-roll-with-emberjs/)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 057: Justin Collins
+  MRS 057: Justin Collins
 date: 2018-08-22 16:01:26
 episode_number: 057
 duration: 37:41
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_057_Justin_Collins.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Justin Collins
 
@@ -24,7 +24,7 @@ This week on My Ruby Story, Charles talks to Justin Collins. Justin is most well
 - Known for [Brakeman](https://brakemanpro.com/)
 - How did you first get into programming?
 - Interested in computers around 11 or 12
-- TRS-80 Model 100 
+- TRS-80 Model 100
 - Started off with Basic
 - Event driven programming
 - How did you get into [Ruby](https://www.ruby-lang.org/en/)?
@@ -39,9 +39,9 @@ This week on My Ruby Story, Charles talks to Justin Collins. Justin is most well
 - Fun, new, and welcoming community with Ruby
 - How starting off with Basic has affected him now
 - How did you get into security, Rails, and [Brakeman](https://brakemanpro.com/)?
-- Needed an internship 
+- Needed an internship
 - Internship with security department
-- AT&T interactive 
+- AT&T interactive
 - Is there anything else that you’ve done in the Ruby community that you’re prod of?
 - [Rails-sqli.org](https://rails-sqli.org/)
 - And much, much more!
@@ -77,7 +77,4 @@ Justin
 - [haveibeenpwned.com](https://haveibeenpwned.com/)
 - [Ale](https://github.com/w0rp/ale)
 
-
 ### Transcript
-
-

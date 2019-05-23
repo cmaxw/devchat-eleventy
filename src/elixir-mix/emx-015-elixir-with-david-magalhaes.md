@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 015: Elixir with David Magalhães
+  EMx 015: Elixir with David Magalhães
 date: 2018-08-22 03:28:39
 episode_number: 015
 duration: 50:11
 audio_url: https://media.devchat.tv/elixir-mix/EMx_015_Elixir_with_David_Magalhaes.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Mark Erikson
@@ -31,7 +31,7 @@ In this episode of Elixir Mix, the panel talks to David Magalhães about his exp
 - [Erlang](https://www.erlang.org/)
 - Java background
 - What has your experience been like coming from Java to Elixir?
-- First thing he noticed when moving 
+- First thing he noticed when moving
 - Had to change the way he did software
 - Worked with Prolog in University
 - Idea of accessors
@@ -78,7 +78,7 @@ Charles
 
 Mark
 
-- [ex\_doc](https://github.com/elixir-lang/ex_doc)
+- [ex_doc](https://github.com/elixir-lang/ex_doc)
 
 Eric
 
@@ -89,7 +89,4 @@ David
 - [The Mechanism](https://www.netflix.com/title/80120485)
 - Biographies
 
-
 ### Transcript
-
-

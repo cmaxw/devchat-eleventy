@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 288: TypeScript with Amanda Silver
+  JSJ 288: TypeScript with Amanda Silver
 date: 2017-11-22 01:21:54
 episode_number: 228
 duration: 1:04:40
 audio_url: https://media.devchat.tv/js-jabber/JSJ_288_TypeScript_with_Amanda_Silver.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
@@ -41,20 +41,18 @@ Charles Max Wood **Special Guests:&nbsp;** Amanda Silver In this episode, Charle
 - The next thing for TypeScript
 - The future of JavaScript
 - And much more!
-**Links:**
+  **Links:**
 - @amandaksilver
-- 
+-
+
 **Picks:** Amanda
+
 - [Visual Studio Live Share](https://code.visualstudio.com/blogs/2017/11/15/live-share)
 - Instinct of learning technology
-Charles
+  Charles
 - [Visual Studio Live Share](https://code.visualstudio.com/blogs/2017/11/15/live-share)
 - AI
-
-
 
 ### Transcript
 
 &nbsp;
-
-

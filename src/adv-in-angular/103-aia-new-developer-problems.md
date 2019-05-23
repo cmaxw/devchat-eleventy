@@ -1,25 +1,27 @@
 ---
 layout: layouts/post.njk
 title: >
-      103 AiA New Developer Problems
+  103 AiA New Developer Problems
 date: 2016-07-28 07:00:41
 episode_number: 103
 duration: 01:00:37
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA103NewAngularProbs.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
   - new_programmers
 ---
 
 ## [Angular Remote Conf](https://allremoteconfs.com/angular-2016)
+
 &nbsp; **This show is based off the following listener email:** “I know you've discussed a couple of times about how hard it is to set up an Angular 2 project. Whilst most of this has nothing to do with Angular itself, it's still the barrier to entry. There's no point in saying how much easier Angular 2 is than Angular 1 if you can't get it running. Even though I'd heard your previous discussions on this, in reality I was totally unprepared as to how difficult it was when I had to do it myself recently. Even the Angular 2 5 minute quick start took me a day to get my head around!I was delighted to hear the Angular team was coming up with Angular CLI. Get the mechanics out the way and lower the barrier to entry. So I typed 'ng new myapp'. Oh! Looking at the properties of the directory I saw Size: 161MB, Contains: 40,531 files, 7,226 folders.Has the JavaScript world gone completely mad? Is this really acceptable? 40,000+ files before I write my first line of code? OK, so Angular CLI has created all this stuff for me but I still have to understand what it's about, or how will I maintain it and keep it up-to-date. What happens if there's an incompatibility in one of the libraries used?It would be great to hear the members of the podcast discuss what they think needs to happen in order to simplify this. Is Angular CLI actually simplifying things, or is it just shifting the 'getting starting' problem to become a maintenance problem? Is it even possible to have a simple Angular 2 project, do we need to just accept that 161MB of disk space is a minimum? Has Angular 2 become out of reach for hobbyists, or is it the exclusive property of experts and full time client-side developers only?”04:35 - Purpose and Value15:32 - [“Dumpster Fire”](http://www.urbandictionary.com/define.php?term=Dumpster%20Fire)19:01 - Capability and Complexity26:03 - Getting Setup to Develop in Angular; Investing in Skills
+
 - [Angular 2 5 Min Quickstart](https://angular.io/docs/ts/latest/quickstart.html)
 - [Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/)
 - “Has Angular 2 become out of reach for hobbyists, or is it the exclusive property of experts and full time client-side developers only?”
 - [Lukas Reubbelke: Angular 2 with Handcrafted Tools, Century-Old Techniques and ES5](http://onehungrymind.com/build-angular-2-app-es5/)
-&nbsp;Picks 
+  &nbsp;Picks
 - [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio Garcia Martinez](https://www.amazon.com/dp/B019MMUAAQ) (Ward)
 - [Wink](http://www.wink.com/products/) (Lukas)
 - [Badass: Making Users Awesome by Kathy Sierra](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019) (Lukas)
@@ -32,10 +34,9 @@ tags:
 - [GoodNotes](http://www.goodnotesapp.com/) (Chuck)
 - [Adventures in Angular Facebook Page](https://www.facebook.com/adventuresinangular/) (Chuck)
 
-
 ### Transcript
 
- **LUKAS:** [Singing] Beautiful, immutable, what you do to my heart.
+**LUKAS:** [Singing] Beautiful, immutable, what you do to my heart.
 
 **_[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on JavaScript developers, providing them with salary and equity upfront. The average JavaScript developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users, and when you’re hired, they also give you a $1,000 bonus as a thank you for using them. But if you use the JavaScript Jabber link, you’ll get a $2,000 bonus instead. Finally, if you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept a job. Go sign up at Hired.com/AdventuresInAngular.]_**
 
@@ -133,9 +134,9 @@ But I think, the real point of this post is something we've seen well repeated f
 
 [Cross-talk]
 
-**WARD:&nbsp;** One of Lukas's key point there is that in enormous percentage of the files that he's talking about are in Node Modules. Now, all of us know that to be true and all of us pay almost zero attention to the Node. We see Node\_Modules and we don't even open it. I mean, we look into it we need to, but for the most part, we say, "Okay, yeah, yeah, yeah," because what do we know that this person and most people don't know.
+**WARD:&nbsp;** One of Lukas's key point there is that in enormous percentage of the files that he's talking about are in Node Modules. Now, all of us know that to be true and all of us pay almost zero attention to the Node. We see Node_Modules and we don't even open it. I mean, we look into it we need to, but for the most part, we say, "Okay, yeah, yeah, yeah," because what do we know that this person and most people don't know.
 
-We know that most Node Modules will never show up in your application. We know that most of Node\_Modules you never have to look at. You're just going to, you know, something is going to reference something in there, but it's just there, and it's not going to hurt you and it's part of what we expect with client-side development.
+We know that most Node Modules will never show up in your application. We know that most of Node_Modules you never have to look at. You're just going to, you know, something is going to reference something in there, but it's just there, and it's not going to hurt you and it's part of what we expect with client-side development.
 
 Now, we can say well, why should we expect that. Last time I was in any of the other environments, let's take .Net for example, and I opened up. Do I go in there and look at the references? Do I see how many DLLs are in there? Do I see how deep they are and what they contain or do I know what they do? No, I don't.
 
@@ -640,5 +641,3 @@ The automation I had that was posting the episodes there cracked out. I was usin
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you want to have conversations with the Adventures in Angular crew and their guests? Do you want to support the show? Now you can. Go to AdventuresInAngular.com/forum and sign up today!]_**
-
-

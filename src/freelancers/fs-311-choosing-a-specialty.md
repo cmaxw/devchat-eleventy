@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 311: Choosing a Specialty
+  FS 311: Choosing a Specialty
 date: 2018-09-07 00:46:56
 episode_number: 311
 duration: 49:59
 audio_url: https://media.devchat.tv/freelancers/FS_311_Choosing_a_Specialty.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
-- Jeremy Green 
+- Jeremy Green
 - Erick Dietrich
 - Reuven Lerner
 
@@ -73,7 +73,4 @@ Reuven
 - [From Cold War to Hot Peace, by Michael McFaul)](http://(https://www.amazon.com/Cold-War-Hot-Peace-Ambassador/dp/0544716248/ref=sr_1_1?ie=UTF8&qid=1525844530&sr=8-1&keywords=cold+war+hot+peace)
 - [War on Peace by Farrow](http://(https://www.amazon.com/gp/product/0393652106/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
 
-
 ### Transcript
-
-

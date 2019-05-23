@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 296:  Negotiating with Clients
+  FS 296:  Negotiating with Clients
 date: 2018-05-10 16:44:44
 episode_number: 296
 duration: 55:16
 audio_url: https://media.devchat.tv/freelancers/FS_296_Negotiating_with_Clients.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Reuven Lerner
 - Jonathan Stark
@@ -23,7 +23,7 @@ In this episode of the Freelancer’s Show, the panelist discuss “Negotiating 
 **In particular, we dive pretty deep on:**
 
 - Do you negotiate on price?
-- Discounts? 
+- Discounts?
 - Steering away from the prices
 - Comparing your services to others
 - Politely decline
@@ -31,19 +31,19 @@ In this episode of the Freelancer’s Show, the panelist discuss “Negotiating 
 - Losing clients
 - Finding a good fit and getting referrals
 - Problems with giving one discount
-- Hourly rates vs. Fixed 
+- Hourly rates vs. Fixed
 - Caving on prices once!
-- Removing Scope 
-- New Proposals and re-quoting 
+- Removing Scope
+- New Proposals and re-quoting
 - Other things besides money to negotiate on
 - Payment options on service
 - Pricing to guarantee there are not bugs
-- 100% payment upfront 
+- 100% payment upfront
 - 60-day net pay
-- Working around policies to get paid 
-- More on payment terms 
-- Negotiating&nbsp; and deadlines 
-- Getting Leads 
+- Working around policies to get paid
+- More on payment terms
+- Negotiating&nbsp; and deadlines
+- Getting Leads
 - And much more!&nbsp; &nbsp; &nbsp;
 
 Picks
@@ -60,7 +60,4 @@ Jeremy Green
 
 - [Increase Your Consulting Fees](http://increaseyourconsultingfees.com)
 
-
 ### Transcript
-
-

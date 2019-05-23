@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 004: Vue Documentation with Chris Fritz
+  VoV 004: Vue Documentation with Chris Fritz
 date: 2018-03-27 19:19:33
 episode_number: 004
 duration: 1:12:10
 audio_url: https://media.devchat.tv/viewsonvue/VoV_004_Vue_Documentation_with_Chris_Fritz.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - John Papa
@@ -62,7 +62,7 @@ In this episode of Views on Vue, the panelists discuss [Vue](https://vuejs.org/)
 
 Charles
 
-- [Black Panther](https://en.wikipedia.org/wiki/Black_Panther_(film))
+- [Black Panther](<https://en.wikipedia.org/wiki/Black_Panther_(film)>)
 - His Forum
 - [DevChat.tv](https://devchat.tv/)
 
@@ -78,7 +78,4 @@ Chris
 - [Queer Eye](https://en.wikipedia.org/wiki/Queer_Eye)
 - [Vue Conf US](http://us.vuejs.org/)
 
-
 ### Transcript
-
-

@@ -1,20 +1,20 @@
 ---
 layout: layouts/post.njk
 title: >
-      154 iPS Windows Bridge for iOS with Nick Gerard and Salmaan Ahmed
+  154 iPS Windows Bridge for iOS with Nick Gerard and Salmaan Ahmed
 date: 2016-05-26 07:00:52
 episode_number: 154
 duration: 39:32
-audio_url: https://media.devchat.tv/iphreaks/iPS154BUILDWindowsBridgeforiOS.mp3?rss=true 
+audio_url: https://media.devchat.tv/iphreaks/iPS154BUILDWindowsBridgeforiOS.mp3?rss=true
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/) 2016. In this episode we chatted with [Nick Gerard](https://www.linkedin.com/in/nickgerard) and [Salmaan Ahmed](https://www.linkedin.com/in/ahmedsalmaan) of the [Windows Bridge Project](https://developer.microsoft.com/en-us/windows/bridges/ios) aka [Project Islandwood](https://blogs.windows.com/buildingapps/tag/project-islandwood/). &nbsp;Picks
-- [Tesla Model 3](https://www.teslamotors.com/model3) (Nick and Salmaan)
 
+- [Tesla Model 3](https://www.teslamotors.com/model3) (Nick and Salmaan)
 
 ### Transcript
 
@@ -454,7 +454,7 @@ Alright, well should we get to picks?
 
 **SALMAAN:** It does, sort of like shades like Aston Martin at certain lights. It’s a beautifully designed car.
 
-**ANDREW:** And it’s $35,000 instead of— I don’t even know how much the model is.
+**ANDREW:** And it’s \$35,000 instead of— I don’t even know how much the model is.
 
 **SALMAAN:** More.
 
@@ -469,5 +469,3 @@ Alright, well should we get to picks?
 **_[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]_**
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

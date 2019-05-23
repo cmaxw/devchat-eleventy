@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 065: Nell Shamrell-Harrington
+  MRS 065: Nell Shamrell-Harrington
 date: 2018-10-17 10:00:58
 episode_number: 065
 duration: 32:50
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_065_Nell_Shamrell-Harrington.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** Nell Shamrell-Harrington
 
@@ -137,7 +137,4 @@ I have gotten back to voice acting so check that out!
 - [New speed eradicator for Facebook](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=fil)
 - [The Daiso Store!](http://www.daisojapan.com)
 
-
 ### Transcript
-
-

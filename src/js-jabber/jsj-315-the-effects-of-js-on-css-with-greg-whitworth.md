@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 315: The effects of JS on CSS with Greg Whitworth
+  JSJ 315: The effects of JS on CSS with Greg Whitworth
 date: 2018-05-30 13:28:03
 episode_number: 315
 duration: 53:29
 audio_url: https://media.devchat.tv/js-jabber/JSJ_315_The_effects_of_JS_on_CSS_with_Greg_Whitworth.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - AJ O’Neal
 - Aimee Knight
-**Special Guests:** Greg Whitworth
+  **Special Guests:** Greg Whitworth
 
 In this episode, the JavaScript Jabber panelists discuss the effects of JavaScript on CSS with Greg Whitworth. Greg works on Microsoft EdgeHTML, specifically working on the Microsoft Layout team, is on the CSS working group, and is involved with the Houdini task force. They talk about JS engines and rendering engines, what the CSSOM is, why it is important to understand the rendering engine, and much more!
 
@@ -43,7 +43,7 @@ In this episode, the JavaScript Jabber panelists discuss the effects of JavaScri
 - Hard to make a hard or fast rule
 - CSS is more performant
 - Overview of steps
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -55,7 +55,7 @@ In this episode, the JavaScript Jabber panelists discuss the effects of JavaScri
 - [@gregwhitworth](https://twitter.com/gregwhitworth?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [GWhitworth.com](http://www.gwhitworth.com/)
 - [Greg’s GitHub](https://github.com/gregwhitworth)
-- 
+-
 
 **Sponsors**
 
@@ -80,7 +80,4 @@ Greg
 - [Aimee ShopTalk Podcast Episode](http://shoptalkshow.com/episodes/306-debugging-css-aimee-knight/)
 - [Jake Archibald Tasks Talk](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 
-
 ### Transcript
-
-

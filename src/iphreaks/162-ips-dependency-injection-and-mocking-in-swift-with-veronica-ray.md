@@ -1,40 +1,40 @@
 ---
 layout: layouts/post.njk
 title: >
-      162 iPS Dependency Injection and Mocking in Swift with Veronica Ray
+  162 iPS Dependency Injection and Mocking in Swift with Veronica Ray
 date: 2016-07-21 07:00:45
 episode_number: 162
 duration: 27:33
 audio_url: https://media.devchat.tv/iphreaks/iPS162DependencyInjectionandMockinginSwift.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 01:13 - Veronica Ray Introduction
+
 - [Twitter](https://twitter.com/nerdonica)
 - [Medium.com: Veronica](https://medium.com/@nerdonica)
 - [LinkedIn](https://www.linkedin.com/)
-01:47 - [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)02:41 - Decoupling Code03:39 - Local Reasoning; Testing04:45 - Mocking in SwiftDependency Injection (Cont’d)
+  01:47 - [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)02:41 - Decoupling Code03:39 - Local Reasoning; Testing04:45 - Mocking in SwiftDependency Injection (Cont’d)
 - [OCMock](http://ocmock.org/)
-15:36 - Well-done Mocks
+  15:36 - Well-done Mocks
 - Value Types
   - [What's New in Foundation for Swift](https://developer.apple.com/videos/play/wwdc2016/207/)
   - [Protocol and Value Oriented Programming in UIKit Apps](https://developer.apple.com/videos/play/wwdc2016/419/)
-18:03 - Resources
+    18:03 - Resources
 - [Veronica Ray: Real World Mocking in Swift](https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/)
 - [Mocks in Swift via Protocols](http://blog.eliperkins.me/mocks-in-swift-via-protocols)
 - [Swift: The Only Modern Language without Mocking Frameworks](http://blog.pragmaticengineer.com/swift-the-only-modern-language-with-no-mocking-framework/)
 - [Cleanse](https://github.com/square/Cleanse)
-&nbsp;Picks
+  &nbsp;Picks
 - [slither.io](http://slither.io) (Caleb)
 - [Sharp Five Software Category: TDD](https://sharpfivesoftware.com/category/tdd/) (Jaim)
 - [HTC Vive](https://www.htcvive.com/us/) (Layne)
 - [The Eye of Minds by James Dashner](https://www.amazon.com/dp/B00ALBR2MC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Layne)
-- [Sense](https://hello.is/) (Veronica) 
+- [Sense](https://hello.is/) (Veronica)
 - [Script Debugger 6](http://latenightsw.com) (Andrew)
-
 
 ### Transcript
 
@@ -146,9 +146,9 @@ Should we get to picks?
 
 **CALEB:** Sure. My pick this week is the game that’s called slither.io. You can play it online; I’s also an iOS app and I’m sure on other platforms as well.
 
-Some blog post came out earlier this week, mentioning that the developer of this app is making something like $100,000 a day right now so it’s a very popular game, but basically you – for me it’s perfect for when I’m at home and just tired after a long day of work or whatever and I just want something to relax with. Kind of a mindless game and you play as a snake and you’re trying to get longer but there are other snakes that you are trying to avoid running into. So it’s kind of a massive multiplayer online snake game which is a lot of fun.
+Some blog post came out earlier this week, mentioning that the developer of this app is making something like \$100,000 a day right now so it’s a very popular game, but basically you – for me it’s perfect for when I’m at home and just tired after a long day of work or whatever and I just want something to relax with. Kind of a mindless game and you play as a snake and you’re trying to get longer but there are other snakes that you are trying to avoid running into. So it’s kind of a massive multiplayer online snake game which is a lot of fun.
 
-**ANDREW:** The fact that somebody is making $100,000 a day from a game that kids play on their TI-83 calculators in high school twenty years ago kind of annoys me but I’m also proud of him. [Chuckles]
+**ANDREW:** The fact that somebody is making \$100,000 a day from a game that kids play on their TI-83 calculators in high school twenty years ago kind of annoys me but I’m also proud of him. [Chuckles]
 
 **CALEB:** It’s a lot of fun so check it out, slither.io or just slither on the App Store.
 
@@ -183,5 +183,3 @@ I think that’s everything. Thanks for coming on, Veronica. If people want to k
 **ANDREW:** So everybody go follow @nerdonica. Thanks for coming on everybody and see you all next week.
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

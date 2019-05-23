@@ -1,20 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      The Freelancers’ Show 085 – Screencasting Products & Services
+  The Freelancers’ Show 085 – Screencasting Products & Services
 date: 2013-10-31 15:00:00
 episode_number: 085
-duration: 
+duration:
 audio_url: https://media.devchat.tv/freelancers/FS085SubscriptionProduct.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
 The Freelancers discuss the idea of creating a subscription screencast series. They discuss how to choose a topic, length, approach, series, etc.
-
-
 
 ### Transcript
 

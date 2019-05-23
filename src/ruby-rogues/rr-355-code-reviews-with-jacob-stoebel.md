@@ -1,18 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 355: Code Reviews with Jacob Stoebel
+  RR 355: Code Reviews with Jacob Stoebel
 date: 2018-03-27 10:00:48
 episode_number: 355
 duration: 1:11:10
 audio_url: https://media.devchat.tv/ruby-rogues/RR_355_Code_Reviews_with_Jacob_Stoebel.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
+  - code_review
+  - communication
+  - feedback
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Dave Kimura
@@ -27,7 +30,7 @@ In this episode of Ruby Rogues, the panel discusses code reviews with Jacob Stoe
 
 - Jacob intro
 - [Rails](http://rubyonrails.org/) and [JavaScript](https://www.javascript.com/)
-- Are there other places beside code reviews that we give this kind of feedback? 
+- Are there other places beside code reviews that we give this kind of feedback?
 - Talking about code reviews is a great ice-breaker at conferences
 - Developing is a creative profession
 - Trust must be present for creativity to flow
@@ -82,7 +85,4 @@ Jacob
 - [_Liz Lerman's Critical Response Process: A method for getting useful feedback on anything you make, from dance to dessert_](https://www.amazon.com/Liz-Lermans-critical-response-process/dp/0972738509)
 - [Growing Old by Chad Fowler talk](https://www.youtube.com/watch?v=qH_y45he4-o)
 
-
 ### Transcript
-
-

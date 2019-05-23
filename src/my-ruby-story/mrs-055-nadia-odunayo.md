@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 055: Nadia Odunayo
+  MRS 055: Nadia Odunayo
 date: 2018-08-08 19:12:28
 episode_number: 055
 duration: 31:56
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_055_Nadia_Odunayo.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Nadia Odunayo
 
@@ -76,7 +76,4 @@ Nadia
 - [The Evolution of Trust](https://ncase.me/trust/)
 - [Work Life Podcast](http://www.adamgrant.net/worklife)
 
-
 ### Transcript
-
-

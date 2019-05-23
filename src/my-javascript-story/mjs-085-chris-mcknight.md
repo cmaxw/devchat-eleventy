@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 085: Chris McKnight
+  MJS 085: Chris McKnight
 date: 2018-11-14 11:00:05
 episode_number: 085
 duration: 35:57
 audio_url: https://media.devchat.tv/my-js-story/MJS_085_Chris_McKnight.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
 **Guest:** [Chris McKnight](https://github.com/cmckni3?tab=overview&from=2014-12-01&to=2014-12-31)
 
@@ -58,7 +58,7 @@ Some other libraries out there have been on the forefront of fixing those proble
 
 12:11 – Guest: I did start loving it but it took a while. I could write a short amount of code and then at the end I get a result.
 
-Another thing that bothers me is FILTER. What does it return? It’s actually [FIND and FIND INDEX](https://github.com/wesbos/es6-articles/blob/master/26%2520-%2520Array.%2520find()%2520and%2520.findIndex().md) and you use the pattern of filter and run this expression and give me index zero.
+Another thing that bothers me is FILTER. What does it return? It’s actually [FIND and FIND INDEX](<https://github.com/wesbos/es6-articles/blob/master/26%2520-%2520Array.%2520find()%2520and%2520.findIndex().md>) and you use the pattern of filter and run this expression and give me index zero.
 
 14:16 – Chuck: What work have you done that you are proud of?
 
@@ -104,7 +104,7 @@ Don’t get overwhelmed. That’s my advice.
 - [Elm](https://guide.elm-lang.org)
 - [jQuery](https://jquery.com)
 - [Node](https://nodejs.org/en/)
-- [Find and Find Index](https://github.com/wesbos/es6-articles/blob/master/26%2520-%2520Array.%2520find()%2520and%2520.findIndex().md)
+- [Find and Find Index](<https://github.com/wesbos/es6-articles/blob/master/26%2520-%2520Array.%2520find()%2520and%2520.findIndex().md>)
 - [NativeScript](https://www.nativescript.org)
 - [Lint](http://www.javascriptlint.com)
 - [Babel](https://babeljs.io)
@@ -131,7 +131,4 @@ Chuck
 - [Discord](https://discordapp.com)
 - [DomiNations](https://play.google.com/store/apps/details?id=com.nexonm.dominations.adk&hl=en_US)
 
-
 ### Transcript
-
-

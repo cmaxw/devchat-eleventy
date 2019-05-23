@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      231 JSJ Codewars with Nathan Doctor, Jake Hoffner, and Dan Nolan
+  231 JSJ Codewars with Nathan Doctor, Jake Hoffner, and Dan Nolan
 date: 2016-09-28 06:00:35
 episode_number: 231
 duration: 58:37
 audio_url: https://media.devchat.tv/js-jabber/JSJ231_Codewars_with_Nathan_Doctor_Jake_Hoffner_and_Dan_Nolan.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
@@ -15,6 +15,7 @@ tags:
 3:23 Discussing the purpose and aim of Codewars7:30 The process for building a program with Codewars11:07 The UI and editor experience12:55 The challenges faced when first building Codewars14:23 Explaining PJAX16:54 Building code on Codewars21:24 The expanded use of KATA on Codewars23:11 Practicing “solving problems” and how it translates to real world situations34:00 How Codewars proves out the persistence of coders36:41 How Codewars appeals to collaborative workers44:40 Teachable moments on Codewars49:40 Always check to see if [Codewars](https://www.codewars.com/) is hiring. Codewars uses [Qualified.io](https://www.qualified.io/?utm_source=codewars&utm_campaign=landing), which helps automate the hiring process.
 
 ### PICKS:
+
 [_Marrow_](https://www.amazon.com/Marrow-Tarryn-Fisher-ebook/dp/B00WAPJ540) Sci-fi book[_Uprooted_](https://www.amazon.com/dp/B00KUQIU7O/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) Fantasy book[“Write Less Code”](http://mikegrouchy.com/blog/2012/06/write-less-code.html) blog post[“The Rands Test”](http://randsinrepose.com/archives/the-rands-test/) blog post[Five Stack](http://fivestack.computer/) software development studio[“Stranger Things”](https://www.netflix.com/title/80057281) on Netflix[Angular 2 Class in Ft. Lauderdale](http://ftlauderdale.ng-learn.com/), Discount Code: JSJ[_Lean Analytics_](http://leananalyticsbook.com/) book[_Code_](https://www.amazon.com/dp/B004IK8PLE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) book[_Datasmart_](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X) book[_Letting Go_](https://www.amazon.com/dp/B00EY818TQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) book
 
 ### Transcript

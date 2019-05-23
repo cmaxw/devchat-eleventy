@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      FS 290: Sunsetting Products and Services
+  FS 290: Sunsetting Products and Services
 date: 2018-03-29 10:00:37
 episode_number: 290
 duration: 1:06:44
 audio_url: https://media.devchat.tv/freelancers/FS_290_Sunsetting_Products_and_Services.mp3
 podcast: freelancers
-tags: 
+tags:
   - freelancers
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Reuven Lerner
 - Jonathan Stark
@@ -55,7 +55,4 @@ Reuven
 
 - [Counterpart](https://www.starz.com/series/counterpart/episodes)
 
-
 ### Transcript
-
-

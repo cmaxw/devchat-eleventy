@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 052: Jeremy Likness
+  MJS 052: Jeremy Likness
 date: 2018-03-14 10:00:52
 episode_number: 052
 duration: 39:42
 audio_url: https://media.devchat.tv/my-js-story/MJS_052_Jeremy_Likness.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Jeremy Likness
 
@@ -65,7 +65,4 @@ Jeremy
 - [Hello World: The Film](http://helloworldfilm.com/)
 - [Node.js documentation on Azure](https://docs.microsoft.com/en-us/javascript/azure/?view=azure-node-latest&WT.mc_id=connect-c9-jopapa&viewFallbackFrom=azure-node-2.2.0)
 
-
 ### Transcript
-
-

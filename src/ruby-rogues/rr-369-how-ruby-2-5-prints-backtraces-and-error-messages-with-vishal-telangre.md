@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 369: How Ruby 2.5 Prints Backtraces and Error Messages with Vishal Telangre
+  RR 369: How Ruby 2.5 Prints Backtraces and Error Messages with Vishal Telangre
 date: 2018-07-04 09:46:40
 episode_number: 369
 duration: 42:40
 audio_url: https://media.devchat.tv/ruby-rogues/RR_369_How_Ruby_2.5_Prints_Backtraces_and_Error_Messages_with_Vishal_Telangre.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Dave Kimura
 - Eric Berry
@@ -42,7 +42,7 @@ In this episode of Ruby Rogues, the panelists talk to Vishal Telangre about his 
 - Effect of change from a developer standpoint
 - Time saved
 - Mixed sentiments on this change
-- When this features is enabled 
+- When this features is enabled
 - And much, much more!
 
 **Links:**
@@ -81,7 +81,4 @@ Vishal
 
 - [The Mother of All Demos by Douglas Engelbart](https://www.youtube.com/watch?v=yJDv-zdhzMY)
 
-
 ### Transcript
-
-

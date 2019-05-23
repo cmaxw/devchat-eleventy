@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 028: “10 Things I Love About Vue with Duncan Grant”
+  VoV 028: “10 Things I Love About Vue with Duncan Grant”
 date: 2018-09-11 10:00:01
 episode_number: 028
 duration: 1:07:14
 audio_url: https://media.devchat.tv/viewsonvue/VoV_028_10_things_I_love_about_Vue_with_Duncan_Grant.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Divya Sasidharan](https://www.linkedin.com/in/shortdiv)
 - [Erik Hanchett](https://twitter.com/erikch?lang=en)
@@ -181,7 +181,4 @@ In this episode, the panel talks with [Duncan Grant](http://duncangrant.co.uk/co
 - [Kombucha Tea](https://en.wikipedia.org/wiki/Kombucha)
 - Website: [IndieHackers.Com](https://www.indiehackers.com)
 
-
 ### Transcript
-
-

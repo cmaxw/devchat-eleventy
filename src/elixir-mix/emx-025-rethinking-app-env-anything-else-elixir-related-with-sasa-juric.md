@@ -1,22 +1,22 @@
 ---
 layout: layouts/post.njk
 title: >
-      EMx 025: Rethinking App Env & Anything else Elixir related with Saša Jurić
+  EMx 025: Rethinking App Env & Anything else Elixir related with Saša Jurić
 date: 2018-10-30 10:00:32
 episode_number: 025
 duration: 1:04:39
 audio_url: https://media.devchat.tv/elixir-mix/EMx_025_Rethinking_app_env_%26_anything_else_Elixir_related_with_Sasa_Juric.mp3
 podcast: elixir-mix
-tags: 
+tags:
   - elixir_mix
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Mark Ericksen
-- Josh Adams 
-- Charles Max Wood 
+- Josh Adams
+- Charles Max Wood
 
 **Special Guest:** Sasa Juric
 
@@ -224,7 +224,7 @@ My team we have used the configuration b/c it seems the right way to do, but wha
 - [The 12-Factor App](https://12factor.net)
 - [Distillery’s Documentation](https://hexdocs.pm/distillery/home.html)
 - [GitHub: Toml-Elixir](https://github.com/bitwalker/toml-elixir)
-- [GitHub: Riak\_Ensemble](https://github.com/basho/riak_ensemble)
+- [GitHub: Riak_Ensemble](https://github.com/basho/riak_ensemble)
 - [GitHub: Elm – Beam](https://github.com/hkgumbs/elm-beam)
 - [GitHub: CodeC-Beam](https://github.com/hkgumbs/codec-beam)
 - [Library Guidelines – Elixir](https://hexdocs.pm/elixir/library-guidelines.html)
@@ -270,7 +270,4 @@ Josh
 
 - [Elm Beam](https://github.com/hkgumbs/elm-beam)
 
-
 ### Transcript
-
-

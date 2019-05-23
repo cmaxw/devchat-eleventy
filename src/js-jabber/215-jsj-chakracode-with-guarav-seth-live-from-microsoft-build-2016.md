@@ -1,21 +1,21 @@
 ---
 layout: layouts/post.njk
 title: >
-      215 JSJ ChakraCode with Guarav Seth Live from Microsoft Build 2016
+  215 JSJ ChakraCode with Guarav Seth Live from Microsoft Build 2016
 date: 2016-06-08 07:00:54
 episode_number: 215
 duration: 30:33
 audio_url: https://media.devchat.tv/js-jabber/JSJ215BUILDGauravSeth.mp3?rss=true
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
 This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/) 2016. In this episode we chatted with Gaurav Seth of Microsoft about [ChakraCore](https://github.com/Microsoft/ChakraCore). You can follow him on [Twitter](https://twitter.com/gauravseth), or check out what he’s done over on [GitHub](https://github.com/sethgaurav).&nbsp;Picks
+
 - [TypeScript](https://www.typescriptlang.org/) (Gaurav)
 - [Richard Campbell](https://twitter.com/richcampbell) and [Carl Franklin](https://twitter.com/carlfranklin) from [.NETRocks](https://www.dotnetrocks.com/)
-
 
 ### Transcript
 
@@ -71,7 +71,7 @@ This episode was recorded live from The [Microsoft Build Conference](https://bui
 
 **GAURAV:&nbsp;** So, there are… yes. You know, let me start giving you a brief intro. So, we started Chakra a few years back. And Chakra was the JavaScript engine that we initially started, I think it was the IE 9 time frame that we started working on this new JavaScript engine. Since then we really evolved Chakra over a period of time. Now, today Chakra not only supports Microsoft Edge but starting Windows 8 whenever we went to the Store-based applications and now you know we're [still doing] those applications, Chakra's been powering all hosted web applications and JavaScript-based web applications that you can get from the store. So, that part, Chakra was already there. It's just the same web platform that you're using.
 
-But over and beyond that there are a lot of services now that are also actually using Chakra. For example, Azure's document DB uses Chakra to provide the JavaScript programmability for their procs and stuff. There's Outlook.com that uses Chakra. There's Cortana that is using Chakra. And very recently, I think this was in January, we announced in December but in January we actually open source the core of the Chakra engine which we are calling ChakraCore. And one of the big things [amongst others] [inaudible] on why we did this is we really want to take Chakra cross-platform, not restrict it to Windows only. And that also opens up the door of having another runtime or another JavaScript engine being available in Node.js. So, one of the things we are trying to work with the Node folks along with folks from Google is to see how we can actually abstract out a neutral VM API surface for Node such that multiple engines can start plugging into Node.
+But over and beyond that there are a lot of services now that are also actually using Chakra. For example, Azure's document DB uses Chakra to provide the JavaScript programmability for their procs and stuff. There's Outlook.com that uses Chakra. There's Cortana that is using Chakra. And very recently, I think this was in January, we announced in December but in January we actually open source the core of the Chakra engine which we are calling ChakraCore. And one of the big things [amongst others][inaudible] on why we did this is we really want to take Chakra cross-platform, not restrict it to Windows only. And that also opens up the door of having another runtime or another JavaScript engine being available in Node.js. So, one of the things we are trying to work with the Node folks along with folks from Google is to see how we can actually abstract out a neutral VM API surface for Node such that multiple engines can start plugging into Node.
 
 **CHUCK:&nbsp;** Oh, that would be cool.
 
@@ -430,5 +430,3 @@ And number four I would say is one of the big things we did was between Chakra a
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]_**
 
 **_[Do you wish you could be part of the discussion on JavaScript Jabber? Do you have a burning question for one of our guests? Now you can join the action at our membership forum. You can sign up at JavaScriptJabber.com/Jabber and there you can join discussions with the regular panelists and our guests.]_**
-
-

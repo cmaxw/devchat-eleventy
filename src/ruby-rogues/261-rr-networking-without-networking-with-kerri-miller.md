@@ -1,40 +1,42 @@
 ---
 layout: layouts/post.njk
 title: >
-      261 RR Networking Without Networking with Kerri Miller
+  261 RR Networking Without Networking with Kerri Miller
 date: 2016-05-25 07:00:07
 episode_number: 261
 duration: 56:01
 audio_url: https://media.devchat.tv/ruby-rogues/RR261NetworkingWithoutNetworking.mp3?rss=true
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 ### Check out our speaker list and sign up for [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016)!
+
 &nbsp;01:53 - Kerri Miller Introduction
+
 - [Twitter](https://twitter.com/kerrizor)
 - [GitHub](https://github.com/kerrizor)
 - [Blog](http://kerrizor.com/)
-02:12 - Networking Without Networking04:22 - [Social Currency](https://en.wikipedia.org/wiki/Social_currency)06:35 - Creating Opportunities to Connect
+  02:12 - Networking Without Networking04:22 - [Social Currency](https://en.wikipedia.org/wiki/Social_currency)06:35 - Creating Opportunities to Connect
 - Knowing Small Details About People
 - Remembering Faces
 - Randomizing
 - Opening the Circle
 - Offering Help and Guidance
 - Playing Games
-22:38 - New Programmers as Speakers24:17 - Connecting After Talks25:29 - Merging the Speakers and Attendees30:13 - Users Groups
+  22:38 - New Programmers as Speakers24:17 - Connecting After Talks25:29 - Merging the Speakers and Attendees30:13 - Users Groups
 - Be an Organizer
 - [Get A Coder Job](http://getacoderjob.com/)
 - Travel and Find a Users Group
-35:01 - Livestreaming; Pairing Sharing
+  35:01 - Livestreaming; Pairing Sharing
 - [Livecoding.tv](https://www.livecoding.tv/)
 - [Twitch](https://www.twitch.tv/)
 - [Hangouts On Air](https://support.google.com/plus/answer/2553119?hl=en)
 - [YouTube Live](https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig)
 - [Crowdcast](https://www.crowdcast.io/)
-37:03 - Connecting with People at Specific Companies47:27 - [The Opportunity Scholarship Program](http://rubyconf.org/scholarship)&nbsp;Picks
+  37:03 - Connecting with People at Specific Companies47:27 - [The Opportunity Scholarship Program](http://rubyconf.org/scholarship)&nbsp;Picks
 - [Nadia Eghbal: I hate the term “open source”](https://medium.com/@nayafia/i-hate-the-term-open-source-a65fd481a95#.lcwx7lga1) (Coraline)
 - [tabular](https://github.com/godlygeek/tabular) (Sam)
 - [dotfiles/vimrc at master](https://github.com/geeksam/dotfiles/blob/master/vimconfig/vimrc#L408-L438) (Sam)
@@ -44,10 +46,9 @@ tags:
 - [Open Source and Feelings](http://www.osfeels.com/) (Kerri)
 - [Sage Yoyo Starter Pack](https://yoyotricks.com/yoyo-store/yoyo-brands/yotricks/the-sage-yoyo-starter-pack/) (Kerri)
 
-
 ### Transcript
 
- **CHUCK:&nbsp;** Why you calling me?
+**CHUCK:&nbsp;** Why you calling me?
 
 **_[This episode is sponsored by Hired.com. Every week on hired they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It's totally free for users. And when you're hired, they give you a $1,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you'll get a $2,000 instead. Finally, if you're not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/RubyRogues.]_**
 
@@ -458,5 +459,3 @@ The more technical pick for myself is YoyoTricks.com. And specifically their Sag
 **_[Bandwidth for this segment is provided by CacheFly, the world's fastest CDN. Deliver your content fast with CacheFly. Visit C-A-C-H-E-F-L-Y dot com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

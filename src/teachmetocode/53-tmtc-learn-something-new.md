@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      53 TMTC Learn Something New
+  53 TMTC Learn Something New
 date: 2011-04-08 03:32:26
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
   - new_programmers
@@ -19,22 +19,22 @@ tags:
 - It increases your ability to solve problems.
 - It expands your skill sets/profitability/versatility.
 - It keeps your mind sharp.
-How?
+  How?
 - Jump in
 - Take a course
 - Find a Mentor
 - Read a Book
 - Search the Web
 - Read the Code
-Reasons why I sometimes fail at this:
+  Reasons why I sometimes fail at this:
 - Time
 - Family
 - Clients
 - Projects
 - Podcasts
 - Money
-Solutions:
+  Solutions:
 - Spend 1 hour per day on learning new technologies.
 - Leverage my time better.
 - Set a schedule.
-[Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC_53_-_Learn_Something_New.mp3)Here's the video version:<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/FXEdtygPEF4" frameborder="0" allowfullscreen></iframe>
+  [Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC_53_-_Learn_Something_New.mp3)Here's the video version:<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/FXEdtygPEF4" frameborder="0" allowfullscreen></iframe>

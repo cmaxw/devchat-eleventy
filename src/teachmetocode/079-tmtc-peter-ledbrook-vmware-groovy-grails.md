@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      079 TMTC Peter Ledbrook - VMWare, Groovy, Grails
+  079 TMTC Peter Ledbrook - VMWare, Groovy, Grails
 date: 2012-01-13 15:40:17
 episode_number: 079
-duration: 
-audio_url: 
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -46,8 +46,6 @@ tags:
 - [Grails user guide](http://grails.org/doc/latest/)
 - [Introductory screencasts](http://grails.org/Grails+Screencasts) on [grails.org](http://grails.org)
 - [Groovyblogs.org](http://groovyblogs.org)
-Peter also gave me these links via email for people to look at: Groovy website:[http://groovy.codehaus.org/Documentation](http://groovy.codehaus.org/Documentation)Online Groovy console:[http://groovyconsole.appspot.com/](http://groovyconsole.appspot.com/)Groovy Blogs:[http://groovyblogs.org/](http://groovyblogs.org/)Grails user guide:[http://grails.org/doc/latest/](http://grails.org/doc/latest/)Free PDF book![http://www.infoq.com/minibooks/grails-getting-started](http://www.infoq.com/minibooks/grails-getting-started)Introductory screencasts:[http://grails.org/screencast/search/?tag=gswg](http://grails.org/screencast/search/?tag=gswg)
+  Peter also gave me these links via email for people to look at: Groovy website:[http://groovy.codehaus.org/Documentation](http://groovy.codehaus.org/Documentation)Online Groovy console:[http://groovyconsole.appspot.com/](http://groovyconsole.appspot.com/)Groovy Blogs:[http://groovyblogs.org/](http://groovyblogs.org/)Grails user guide:[http://grails.org/doc/latest/](http://grails.org/doc/latest/)Free PDF book![http://www.infoq.com/minibooks/grails-getting-started](http://www.infoq.com/minibooks/grails-getting-started)Introductory screencasts:[http://grails.org/screencast/search/?tag=gswg](http://grails.org/screencast/search/?tag=gswg)
 
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 015: Visual Studio Code with Rachel MacFarlane and Matt Bierner LIVE at Microsoft Build
+  VoV 015: Visual Studio Code with Rachel MacFarlane and Matt Bierner LIVE at Microsoft Build
 date: 2018-06-12 10:00:25
 episode_number: 015
 duration: 34:17
 audio_url: https://media.devchat.tv/viewsonvue/VoV_015_Visual_Studio_Code_with_Rachel_MacFarlane_and_Matt_Bierner_LIVE_at_Microsoft_Build.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 
@@ -44,7 +44,7 @@ In this episode, the Views on Vue panelists discuss Visual Studio Code with Rach
 - What do you wish people knew about VS Code?
 - Favorite extensions
 - [Docker extension](https://code.visualstudio.com/docs/azure/docker) and [Azure extension](https://code.visualstudio.com/docs/azure/extensions)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -84,7 +84,4 @@ Matt
 
 - [The Bronx Warriors](https://www.imdb.com/title/tt0085124/)
 
-
 ### Transcript
-
-

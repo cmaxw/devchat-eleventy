@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 209: “Azure DevOps” with Donovan Brown Live at Microsoft Ignite
+  AiA 209: “Azure DevOps” with Donovan Brown Live at Microsoft Ignite
 date: 2018-10-02 10:00:41
 episode_number: 209
 duration: 56:05
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_209_Azure_Devops_with_Donovan_Brown_LIVE_at_Microsoft_Ignite.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Charles Max Woods
 
@@ -140,7 +140,7 @@ How can I get a demo going? You can say here is my account – and they can put 
 
 38:20 – Chuck: You can get started for free – so when do you have to start paying for it?
 
-38:31 – Guest: Get 4 of your buddies and then need more people it’s $6 a month.
+38:31 – Guest: Get 4 of your buddies and then need more people it’s \$6 a month.
 
 39:33 – Chuck adds in comments. If this is free?
 
@@ -238,14 +238,11 @@ The pain will motivate you.
 **Charles**
 
 - [**Jet Blue**](https://www.jetblue.com)
-- Beta Testers 
+- Beta Testers
 
 **Donovan**
 
 - [YoTeam](http://donovanbrown.com/post/yo-Team)
 - [VSTeam Powershell Module](http://donovanbrown.com/post/PowerShell-I-would-like-you-to-meet-TFS-and-VSTS)
 
-
 ### Transcript
-
-

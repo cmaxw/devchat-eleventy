@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 002: Webpack the Good Parts with Juho Vepsäläinen
+  RRU 002: Webpack the Good Parts with Juho Vepsäläinen
 date: 2018-03-13 10:00:59
 episode_number: 002
 duration: 53:22
 audio_url: https://media.devchat.tv/reactroundup/RRU_002_Webpack_the_Good_Parts_with_Juho_Vepsalainen.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Nader Dabit
@@ -32,7 +32,7 @@ In this episode of React Round Up, the panel discusses Webpack the good parts wi
 - It’s all about the contents behind Webpack
 - How popular is Webpack and how large is it?
 - You don’t need to read all 400 pages of his book
-- Is there a certain way to write with Webpack? 
+- Is there a certain way to write with Webpack?
 - You can learn things as you go with Webpack
 - How to approach code using Webpack
 - How new updates with change the philosophy behind Webpack
@@ -79,7 +79,4 @@ Juho
 
 - [JAMstack](https://jamstack.org/)
 
-
 ### Transcript
-
-

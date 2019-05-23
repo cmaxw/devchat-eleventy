@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 317: Prisma with Johannes Schickling
+  JSJ 317: Prisma with Johannes Schickling
 date: 2018-06-12 10:00:39
 episode_number: 317
 duration: 48:53
 audio_url: https://media.devchat.tv/js-jabber/JSJ_317_Prisma_with_Johannes_Schickling.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - AJ O’Neal
@@ -26,16 +26,16 @@ In this episode, the JavaScript Jabber panelists discuss Prisma with Johannes Sc
 - [JSJ Episode 257](https://devchat.tv/js-jabber/graphcool-with-johannes-schickling)
 - [MJS Episode 055](https://devchat.tv/my-javascript-story/mjs-055-johannes-schickling)
 - Raised a seed round
-- Rebranding of [GraphCool](https://www.graph.cool/) 
+- Rebranding of [GraphCool](https://www.graph.cool/)
 - What are you wanting to do with the seed money you raised?
-- Focused on growing his team currently 
+- Focused on growing his team currently
 - Making [GraphQL](https://graphql.org/) easier to do
 - The change in the way people build software
 - What is [Prisma](https://www.prisma.io/)?
 - Two things you need to do as you want to adopt GraphQL
 - [Apollo Client](https://www.apollographql.com/docs/react/) and [Relay](https://facebook.github.io/relay/)
 - GraphQL on the back-end
-- Resolvers 
+- Resolvers
 - Resolving data in one query
 - Prisma supports [MySQL](https://www.mysql.com/) and [PostgreSQL](https://www.postgresql.org/)
 - How do you control access to the GraphQL endpoint that Prisma gives you?
@@ -43,7 +43,7 @@ In this episode, the JavaScript Jabber panelists discuss Prisma with Johannes Sc
 - Prisma makes it easier for you to make your own GraphQL server
 - Application schemas
 - How do you blend your own resolvers with Prisma?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -88,7 +88,4 @@ Johannes
 - [Netlify Functions](https://www.netlify.com/docs/functions/)
 - [GraphQL Europe](https://www.graphql-europe.org/)
 
-
 ### Transcript
-
-

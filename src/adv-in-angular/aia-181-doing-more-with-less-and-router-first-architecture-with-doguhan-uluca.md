@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 181: Doing More with Less and Router-First Architecture with Doguhan Uluca
+  AiA 181: Doing More with Less and Router-First Architecture with Doguhan Uluca
 date: 2018-03-20 10:00:48
 episode_number: 181
 duration: 1:05:58
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_181_Doing_More_with_Less_and_Router_First_Architecture_with_Doguhan_Uluca.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Ward Bell
@@ -89,7 +89,4 @@ Doguhan
 - [Ship It or It Never Happened Conference](https://xp2018.sched.com/event/DrqC/ship-it-or-it-never-happened-the-power-of-docker-heroku-circleci?iframe=no&w=100%25&sidebar=yes&bg=no)
 - [RunKit.com](https://runkit.com/home)
 
-
 ### Transcript
-
-

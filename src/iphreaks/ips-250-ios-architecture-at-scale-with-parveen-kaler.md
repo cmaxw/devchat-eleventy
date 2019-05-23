@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 250: iOS Architecture at Scale with Parveen Kaler
+  iPS 250: iOS Architecture at Scale with Parveen Kaler
 date: 2018-08-04 15:07:11
 episode_number: 250
 duration: 40:37
 audio_url: https://media.devchat.tv/iphreaks/iPS_250_iOS_Architecture_at_Scale_with_Parveen_Kaler.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Jaim Zuber
 - Gui Rambo
@@ -44,7 +44,7 @@ In today’s episode, the iPhreaks panel talks to Parveen Kaler about iOS archit
 - Does [Xcode](https://developer.apple.com/xcode/) improve compile times?
 - Does Swift provide advantages vs Objective-C?
 - AB Testing at Scale?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -73,8 +73,6 @@ Gui
 Parveen
 
 - US Passport
-&nbsp;
+  &nbsp;
 
 ### Transcript
-
-

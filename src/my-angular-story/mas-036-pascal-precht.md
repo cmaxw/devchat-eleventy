@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MAS 036: Pascal Precht
+  MAS 036: Pascal Precht
 date: 2018-05-09 10:00:14
 episode_number: 036
 duration: 24:00
 audio_url: https://media.devchat.tv/my-angular-story/MAS_036_Pascal_Precht.mp3
 podcast: my-angular-story
-tags: 
+tags:
   - my_angular_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Pascal Precht
 
@@ -61,7 +61,4 @@ Charles
 - [_Running With the Demon_ by Terry Brooks](https://www.amazon.com/Running-Demon-Word-Void-Trilogy/dp/0345422589)
 - [Japanese Phase 1](https://www.amazon.com/Japanese-Phase-Units-1-30-Understand/dp/B00D1YY7MO)
 
-
 ### Transcript
-
-

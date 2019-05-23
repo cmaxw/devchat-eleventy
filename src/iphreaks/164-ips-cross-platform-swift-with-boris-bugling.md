@@ -1,46 +1,46 @@
 ---
 layout: layouts/post.njk
 title: >
-      164 iPS Cross-platform Swift with Boris Bügling
+  164 iPS Cross-platform Swift with Boris Bügling
 date: 2016-08-04 07:00:54
 episode_number: 164
 duration: 37:42
 audio_url: https://media.devchat.tv/iphreaks/iPS164CrossPlatformSwift.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 01:33 - Boris Bügling
+
 - [Twitter](https://twitter.com/BorisConf)
 - [GitHub](https://github.com/neonichu)
 - [Blog](http://buegling.com/)
 - [Contentful](https://www.contentful.com/)
 - [Cross-platform Swift by Boris Bügling](https://speakerdeck.com/neonichu/cross-platform-swift-2)
-02:20 - The State of Cross-platform Swift04:45 - Tooling
+  02:20 - The State of Cross-platform Swift04:45 - Tooling
 - [Swift Package Manager](https://swift.org/package-manager/)
 - [SourceKit](https://github.com/apple/swift/tree/master/tools/SourceKit) &nbsp;
 - [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 - [WWDC 2016: Going Server-side with Swift Open Source](https://developer.apple.com/videos/play/wwdc2016/415/)
-06:46 - Frameworks
+  06:46 - Frameworks
 - [Perfect](https://github.com/PerfectlySoft/Perfect)
   - [The iPhreaks Show: Episode #140: The Perfect Framework with Sean Stephens and Kyle](https://devchat.tv/iphreaks/140-ips-the-perfect-framework-with-sean-stephens-and-kyle-jessup)
 - [Frank](https://github.com/nestproject/Frank)
 - [IBM](http://www.ibm.com/)
-10:24 - Use Cases in Production?12:10 - Other Uses for Cross-platform Swift
+  10:24 - Use Cases in Production?12:10 - Other Uses for Cross-platform Swift
 - [SwiftFoundation](https://github.com/PureSwift/SwiftFoundation)
 - [PocketCHIP](https://getchip.com/pages/pocketchip)
-19:04 - [CocoaPods](https://cocoapods.org/); Installation23:59 - Distributing Command Line Tools with Swift
+  19:04 - [CocoaPods](https://cocoapods.org/); Installation23:59 - Distributing Command Line Tools with Swift
 - [Homebrew](http://brew.sh/)
-26:48 - Using the [Swift Package Manager](https://swift.org/package-manager/)28:44 - [ThisCouldBeUsButYouPlaying](https://github.com/neonichu/ThisCouldBeUsButYouPlaying#installation)29:45 - Generating Playgrounds for [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) on iPad&nbsp;Picks
+  26:48 - Using the [Swift Package Manager](https://swift.org/package-manager/)28:44 - [ThisCouldBeUsButYouPlaying](https://github.com/neonichu/ThisCouldBeUsButYouPlaying#installation)29:45 - Generating Playgrounds for [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) on iPad&nbsp;Picks
 - [3DRenderingTechniques](https://github.com/drewying/3DRenderingTechniques) (Andrew)
 - [PocketCHIP](https://getchip.com/pages/pocketchip) (Andrew)
 - [iWoz: Computer Geek to Cult Icon by Steve Wozniak](https://www.amazon.com/dp/B000VUCIZO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Layne)
 - [Spikeball](http://spikeball.com) (Layne)
 - [We are Twisted F\*cking Sister](http://twistedsisterthemovie.com/) (Jaim)
 - [Swift Weekly Brief](https://swiftweekly.github.io) (Boris)
-
 
 ### Transcript
 
@@ -146,7 +146,7 @@ I’ve played around with putting Swift. I’ve got a Raspberry Pi just last wee
 
 **LAYNE:** I mean if you said the term “Swifty Robot”, I think everyone would take you seriously. [Chuckles]
 
-**ANDREW:** I really do plan to but it’s just, you know, it’s one of those things where you’ve got a million projects and not very much time. I will say though that being able to write – I’ve got this thing called a PocketCHIP. I did a – I tweeted about it weekly or something but it’s basically like a retro computer but it’s a fully integrated computer with a tiny keyboard and a five-inch touch screen and whatever and it’s using the chip as the brains of the whole thing. I’ve got the Swift compiler running on that and it’s pretty fun to be able to write a Swift program on this little thing that costs $50 and has its own keyboard and everything. It makes me wish I could write Swift on my iPhone although I guess now with Swift Playgrounds, we can do it on the iPad at least.
+**ANDREW:** I really do plan to but it’s just, you know, it’s one of those things where you’ve got a million projects and not very much time. I will say though that being able to write – I’ve got this thing called a PocketCHIP. I did a – I tweeted about it weekly or something but it’s basically like a retro computer but it’s a fully integrated computer with a tiny keyboard and a five-inch touch screen and whatever and it’s using the chip as the brains of the whole thing. I’ve got the Swift compiler running on that and it’s pretty fun to be able to write a Swift program on this little thing that costs \$50 and has its own keyboard and everything. It makes me wish I could write Swift on my iPhone although I guess now with Swift Playgrounds, we can do it on the iPad at least.
 
 **JAIM:** Yeah. It’s exciting to see what comes up on people’s imaginations, what they’re going to start doing. There are definitely a lot of options, from embedded to server type stuff and desktop app so I look forward to it. I think Swift has great legs as far as the language; it’s getting wide options so I think it’s – and it’s well done [inaudible] itself. I think that people enjoy working with it so I think there’s a lot of – it’s a good feature for it. There’s a lot of language out there at this point. It’s hard to say that one will become important in different areas but I think Swift is really doing well for such a young language.
 
@@ -271,5 +271,3 @@ So that’s it for the picks. We had a lot of good stuff, a lot of good picks. B
 **ANDREW:** Thanks Boris!
 
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit cachefly.com to learn more]_**
-
-

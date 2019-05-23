@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 064: Nathan Kontny
+  MRS 064: Nathan Kontny
 date: 2018-10-10 10:00:49
 episode_number: 065
 duration: 47:19
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_064_Nathan_Kontny.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
+**Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
 **Guest:** [Nathan Kontny](https://twitter.com/natekontny?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
@@ -132,13 +132,10 @@ Ownership is everything – once you don’t own it – you loose that control. 
 
 **Nathan**
 
-- Writing is important. 
+- Writing is important.
 - [Masterclass!](https://www.masterclass.com/classes/malcolm-gladwell-teaches-writing)
 - [Book: Living with a Seal](https://www.amazon.com/Living-SEAL-Training-Toughest-Planet-ebook/dp/B00U6DNZB2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1539116085&sr=1-1&keywords=living+with+a+seal)
 - [Book: Living with the Monks](https://www.amazon.com/Living-Monks-Turning-Happiness-Gratitude/dp/1478993421)
 - [Sara Blakely – Spanx](https://en.wikipedia.org/wiki/Sara_Blakely)
 
-
 ### Transcript
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      084 AiA Angular Material 2 with Jeremy Elbourn
+  084 AiA Angular Material 2 with Jeremy Elbourn
 date: 2016-03-17 14:00:00
 episode_number: 084
 duration: 0:40:49
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA083AngularMaterial2.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
@@ -43,8 +43,4 @@ tags:
 
 [Muru](http://www.merufilm.com/) (Ward)[Temblor](http://temblor.net/) (Ward) Observables (Lukas)[Evan Czaplicki: Let's be mainstream! User focused design in Elm @ Curry On](https://www.youtube.com/watch?v=oYk8CKH7OhE) (Lukas)[Calamity by Brandon Sanderson](http://www.amazon.com/Calamity-The-Reckoners-Brandon-Sanderson/dp/0385743602) (Joe)[The Expanse](http://www.syfy.com/theexpanse) (Jeremy)[Flexbox Froggy](http://flexboxfroggy.com/) (Jeremy) Fiskars Titanium Shears (Jeremy)
 
-
-
 ### Transcript
-
-

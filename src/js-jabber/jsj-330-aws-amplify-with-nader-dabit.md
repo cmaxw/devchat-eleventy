@@ -1,23 +1,23 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 330: “AWS: Amplify” with Nader Dabit
+  JSJ 330: “AWS: Amplify” with Nader Dabit
 date: 2018-09-11 10:00:12
 episode_number: 330
 duration: 1:04:11
 audio_url: https://media.devchat.tv/js-jabber/JSJ_330_AWS_Amplify_with_Nader_Dabit.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - AJ O’Neal
-- Aimee Knight 
+- Aimee Knight
 - Joe Eames
-**Special Guests:** [Nader Dabit](http://naderdabit.me/#/) 
+  **Special Guests:** [Nader Dabit](http://naderdabit.me/#/)
 
 In this episode, the panel talks with programmer, Nader Dabit, who has been with Amazon’s AWS for the past six months. They discuss the new innovations that Amazon is currently working on, and the exciting new projects that Nader gets to be involved with. Check out this episode to hear all the latest!
 
@@ -151,7 +151,7 @@ AJ O’Neal
 
 Joe Eames
 
-- [Framework Summit](https://www.frameworksummit.com/) - Tickets are still available! 
+- [Framework Summit](https://www.frameworksummit.com/) - Tickets are still available!
 - [Movie: Equalizer 2](https://www.imdb.com/title/tt3766354/)
 
 Nader Dabit
@@ -159,7 +159,4 @@ Nader Dabit
 - [Finland – Graph Talks Conference, October](https://www.eventbrite.com/e/neo4j-graphtalk-helsinki-tickets-47986681456)
 - [AWS – San Francisco - LOFT](https://aws.amazon.com/start-ups/loft/sf-loft/)
 
-
 ### Transcript
-
-

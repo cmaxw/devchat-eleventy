@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      RC 12 - Test Driven Design and Behavior Driven Development
+  RC 12 - Test Driven Design and Behavior Driven Development
 date: 2010-03-11 05:38:19
-episode_number: 
-duration: 
-audio_url: 
+episode_number:
+duration:
+audio_url:
 podcast: teachmetocode
-tags: 
+tags:
   - teachmetocode
   - podcast
 ---
@@ -16,4 +16,4 @@ Test Driven Development and Behavior Driven Development can be terrific tools in
 
 - [Rspec](http://rspec.info)
 - [Cucumber](http://cukes.info)
-[Download this Episode](http://media.libsyn.com/media/charlesmaxwood/Rails_Coach_12_Test_Driven_Design_and_Behavior_Driven_Development.mp3)
+  [Download this Episode](http://media.libsyn.com/media/charlesmaxwood/Rails_Coach_12_Test_Driven_Design_and_Behavior_Driven_Development.mp3)

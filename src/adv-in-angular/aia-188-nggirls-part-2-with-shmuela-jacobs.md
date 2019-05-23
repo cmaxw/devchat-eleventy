@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 188: ngGirls Part 2 with Shmuela Jacobs
+  AiA 188: ngGirls Part 2 with Shmuela Jacobs
 date: 2018-05-09 21:46:00
 episode_number: 188
 duration: 44:49
 audio_url: https://media.devchat.tv/adventures-in-angular/AIA_188_ngGirls_Part_2_with_Shmuela_Jacobs.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Alyssa Nicoll
@@ -75,7 +75,4 @@ Shmuela
 - [Super Powered, Server Rendered Progressive Native Apps - Nathan Walker & Jeff Whelpley](https://www.youtube.com/watch?v=EqqNexmu3Ug)
 - [_Schematics: Generating custom Angular Code with the CLI_ by Manfred Steyer](https://leanpub.com/angular-schematics)
 
-
 ### Transcript
-
-

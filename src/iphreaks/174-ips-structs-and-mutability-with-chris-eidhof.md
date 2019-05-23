@@ -1,44 +1,48 @@
 ---
 layout: layouts/post.njk
 title: >
-      174 iPS Structs and Mutability with Chris Eidhof
+  174 iPS Structs and Mutability with Chris Eidhof
 date: 2016-10-13 06:00:12
 episode_number: 174
 duration: 43:54
 audio_url: https://media.devchat.tv/iphreaks/iPS174_Structs_and_Mutability_with_Chris_Eidhof.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
 1:15: Introduction: Chris Eidhof
+
 - [OBJC.io](https://www.objc.io)
-2:05: Structs in [Swift](http://www.apple.com/swift/)
+  2:05: Structs in [Swift](http://www.apple.com/swift/)
 - [Blog post](http://chris.eidhof.nl/post/structs-and-mutation-in-swift/)
 - Functional programming inspiration
 - Mutations in structs can be positive
-3:55: Problems that can be solved
+  3:55: Problems that can be solved
 - Unexpected changes, unexpected mutations
 - Make mutable opt-in
-8:15: When mutating can be useful
+  8:15: When mutating can be useful
 - Change an element at a specific index
 - Struct copies are very expensive
-11:15: Benchmarks15:30: New Data and Updates
+  11:15: Benchmarks15:30: New Data and Updates
 - Strategies for communicating changes in state
-23:00 Writing simple code
+  23:00 Writing simple code
 - Subjective
 - Issues with structs
 - [Swift Summit](https://www.swiftsummit.com/)
-27:00: [ObjectiveC.io](https://www.objc.io)
+  27:00: [ObjectiveC.io](https://www.objc.io)
 - [Functional Swift](https://www.objc.io/books/functional-swift/)
-33:00 Other projects
+  33:00 Other projects
 - [Advanced Swift](https://www.objc.io/books/advanced-swift/)
 - [Functional Swift Conference](http://www.funswiftconf.com)
 
 ### Picks:
+
 [The Retro Mac Cast](http://retromaccast.ning.com/) (Andrew)[68KMLA.org Forums](https://68kmla.org/) (Andrew)[Twin Cities Startup Week](http://twincitiesstartupweek.com/) (Jayme)Eli Document Picker (Rod)[Functional Swift](https://www.objc.io/books/functional-swift/) (Rod)[Michael Vey Fall of Hades](https://www.amazon.com/dp/B01BKR43SQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Chuck)[Webinar Jam](https://www.webinarjam.com/index/) (Chuck)[Get a Coder Job](http://getacoderjob.com/) (Chuck)[Kyle Fuller](https://github.com/kylef) (Chris)
+
 ### Links:
+
 [Hired.com](https://hired.com/signup/?utm_campaign=q2-16-podcast&utm_content=2k&utm_medium=iphreaks&utm_source=podcast&utm_term=cat-tech-ios)[Chris on Twitter](https://twitter.com/objcio)
 
 ### Transcript

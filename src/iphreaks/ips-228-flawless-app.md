@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      iPS 228: Flawless App
+  iPS 228: Flawless App
 date: 2018-02-11 19:59:32
 episode_number: 229
 duration: 53:13
 audio_url: https://media.devchat.tv/iphreaks/iPS_229_Flawless_App.mp3
 podcast: iphreaks
-tags: 
+tags:
   - iphreaks
   - podcast
 ---
 
- **Panel:** Erica Sadun Gui Rambo **Special Guest: Lisa and&nbsp;** In today's episode, the iPheaks panel, Erica and Gui speak with [Lisa Dziuba](https://twitter.com/LisaDziuba) and [Ahmed Suljman](https://twitter.com/ahmed_sulajman)&nbsp;about their new product called [Flawless App](https://flawlessapp.io). The discussion covers topics on design, how the app works, marketing, team size, and much more. This is a great episode to learn about new iOS products and their unique build and design, and implementation. **In particular, we dive pretty deep on:&nbsp;**
+**Panel:** Erica Sadun Gui Rambo **Special Guest: Lisa and&nbsp;** In today's episode, the iPheaks panel, Erica and Gui speak with [Lisa Dziuba](https://twitter.com/LisaDziuba) and [Ahmed Suljman](https://twitter.com/ahmed_sulajman)&nbsp;about their new product called [Flawless App](https://flawlessapp.io). The discussion covers topics on design, how the app works, marketing, team size, and much more. This is a great episode to learn about new iOS products and their unique build and design, and implementation. **In particular, we dive pretty deep on:&nbsp;**
+
 - What's Flawless
 - Dealing with multiple screen sizes
 - The story of Flawless
@@ -22,7 +23,7 @@ tags:
 - ProductHunt
 - The future of Flawless app
 - and much more!
-**LINKS:**
+  **LINKS:**
 - https://flawlessapp.io
 - https://twitter.com/FlawlessAppio
 - https://twitter.com/LisaDziuba
@@ -36,14 +37,11 @@ tags:
 - https://speakerdeck.com/lisadziuba/marketing-for-engineers
 - https://github.com/LisaDziuba/Marketing-for-Engineers
 - https://medium.com/flawless-app-stories/flawlessapp-on-producthunt-7db3e561ce7a
-**Picks:** Gui
+  **Picks:** Gui
 - [Tech Podcasts Lists](https://medium.com/@guilhermerambo/how-to-enable-real-dark-mode-on-os-x-macos-14966f9f7d24)
-Erica
+  Erica
 - Donuts
-Lisa
+  Lisa
 - [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 
-
 ### Transcript
-
-

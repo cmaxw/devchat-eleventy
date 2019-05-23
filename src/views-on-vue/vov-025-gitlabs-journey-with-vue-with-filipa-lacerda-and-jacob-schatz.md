@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 025: Gitlab's journey with Vue with Filipa Lacerda and Jacob Schatz
+  VoV 025: Gitlab's journey with Vue with Filipa Lacerda and Jacob Schatz
 date: 2018-08-22 21:41:50
 episode_number: 025
 duration: 1:22:54
 audio_url: https://media.devchat.tv/viewsonvue/VoV_025_Gitlab's_journey_with_Vue_with_Filipa%20Lacerda%20and-Jacob_Schatz.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Chris Fritz
 - Joe Eames
@@ -30,7 +30,7 @@ In this episode, the Views on Vue panel talks to Filipa Lacerda, Jacob Schatz, a
 - Work with [Vue](https://vuejs.org/)
 - One team across multiple time zones
 - How did GitLab decide to adopt Vue?
-- The benefits of Vue 
+- The benefits of Vue
 - Creating a proof of concept
 - [Rails](https://rubyonrails.org/) previously
 - [jQuery](https://jquery.com/)
@@ -45,7 +45,7 @@ In this episode, the Views on Vue panel talks to Filipa Lacerda, Jacob Schatz, a
 - Performance issues and the large amount of code with jQuery
 - [Node.js](https://nodejs.org/en/)
 - [CoffeeScript](https://coffeescript.org/) to [JavaScript](https://www.javascript.com/)
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -102,14 +102,11 @@ Filipa
 Jacob
 
 - [Flask](http://flask.pocoo.org/)
-- [The Americans](https://en.wikipedia.org/wiki/The_Americans_(2013_TV_series))
+- [The Americans](<https://en.wikipedia.org/wiki/The_Americans_(2013_TV_series)>)
 
 Phil
 
 - [Center Parcs](https://www.centerparcs.co.uk/)
 - [ErgoDox EZ](https://ergodox-ez.com/)
 
-
 ### Transcript
-
-

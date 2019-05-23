@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      AiA 185: Angular for Java Developers with Yakov Fain
+  AiA 185: Angular for Java Developers with Yakov Fain
 date: 2018-04-17 10:00:49
 episode_number: 185
 duration: 1:10:53
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_185_Angular_for_Java_Developers_with_Yakov_Fain.mp3
 podcast: adv-in-angular
-tags: 
+tags:
   - adv_in_angular
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Shai Reznik
 - Alyssa Nicholl
@@ -34,7 +34,7 @@ In this episode of Adventures in Angular, the panel talks to Yakov Fain about An
 - Angular is good for creating single-page apps
 - When Angular isn’t that great
 - What he’s looking for in Angular 6
-- Creating widgets 
+- Creating widgets
 - Angular Element
 - The programming community looks down on [JavaScript](https://www.javascript.com/)
 - CSS
@@ -71,7 +71,4 @@ Yakov
 - [JHipster](https://www.jhipster.tech/)
 - [Angular for Java Developers talk](https://www.youtube.com/watch?v=7Ott2mwtp9c)
 
-
 ### Transcript
-
-

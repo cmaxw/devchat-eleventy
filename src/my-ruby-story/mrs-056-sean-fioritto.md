@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MRS 056: Sean Fioritto
+  MRS 056: Sean Fioritto
 date: 2018-08-15 10:00:04
 episode_number: 056
 duration: 41:19
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_056_Sean_Fioritto.mp3
 podcast: my-ruby-story
-tags: 
+tags:
   - my_ruby_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Sean Fioritto
 
@@ -23,7 +23,7 @@ This week on My Ruby Story, Charles talks to Sean Fioritto. Sean is a developer 
 - [Ruby Rogues Episode 203](https://devchat.tv/ruby-rogues/203-rr-design-and-sketching-with-css-with-sean-fioritto/)
 - Sean intro
 - Works with [Angular](https://angular.io/), [React](https://reactjs.org/), [Vue](https://vuejs.org/), and many other frameworks
-- Focus on front-end 
+- Focus on front-end
 - How did you first get into programming?
 - Dad got him a book on [Python](https://www.python.org/) – how he got into Python
 - Playing on a “MOO”
@@ -79,7 +79,4 @@ Sean
 - [Nourish Balance Thrive](http://www.nourishbalancethrive.com/)
 - [Fly.io](https://fly.io/)
 
-
 ### Transcript
-
-

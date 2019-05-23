@@ -1,18 +1,19 @@
 ---
 layout: layouts/post.njk
 title: >
-      JSJ 291: Serverless For JavaScript with Gareth McCumskey
+  JSJ 291: Serverless For JavaScript with Gareth McCumskey
 date: 2017-12-12 04:00:58
 episode_number: 291
 duration: 56:27
 audio_url: https://media.devchat.tv/js-jabber/JSJ_291_Serverless_For_JavaScript_with_Gareth_McCumskey.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
 
- **Panel:** Charles Max Wood Aimee Knight AJ O’Neal Joe Eames **Special Guests: Gareth McCumskey** In this episode, JavaScript Jabber speaks with Gareth McCumskey about Serverless For JavaScript. Gareth leads the dev team at Expat Explore in Cape Town, South Africa. Gareth and this team specialize in exploring the Serverless realm in JavaScript. The JavaScript Jabbers panel and Gareth discuss the many different types of serverless systems, and when to implement them, how serverless system work, and when to go in the direction of using Serverless. **In particular, we dive pretty deep on:**
+**Panel:** Charles Max Wood Aimee Knight AJ O’Neal Joe Eames **Special Guests: Gareth McCumskey** In this episode, JavaScript Jabber speaks with Gareth McCumskey about Serverless For JavaScript. Gareth leads the dev team at Expat Explore in Cape Town, South Africa. Gareth and this team specialize in exploring the Serverless realm in JavaScript. The JavaScript Jabbers panel and Gareth discuss the many different types of serverless systems, and when to implement them, how serverless system work, and when to go in the direction of using Serverless. **In particular, we dive pretty deep on:**
+
 - What does it mean to be Serverless?
 - Since platform as a service.
 - Microservice on Docker
@@ -38,34 +39,30 @@ tags:
 - Testing the services
 - Integration testing
 - And much more!
-**Links:**
+  **Links:**
 - @garethmcc
 - @expatexplore
 - [gareth.mccumskey.com](http://gareth.mccumskey.com)
 - [https://github.com/garethmcc](https://github.com/garethmcc)
 - [serverless.com](http://serverless.com)
-**Picks:** Aimee
+  **Picks:** Aimee
 - [Serverless Architectures&nbsp;](https://martinfowler.com/articles/serverless.html)
 - [NG-BE Conference&nbsp;](https://ng-be.org)
-AJ
+  AJ
 - [Documentary on Enron](http://www.imdb.com/title/tt1016268/)
 - [Hard Thing about Hard Things&nbsp;](https://www.audible.com/t2/title?pcrid=205621322776&Matchtype=b&mkwid=sJwu0g7af_dc&cvosrc=ppc.google.the++hard++thing++about++hard++things&cvo_crid=205621322776&pgrid=15656668929&cvo_campaign=250471929&gclid=CjwKCAiA9rjRBRAeEiwA2SV4ZVczjfo6EQAa34X67m9n3qrTGIvD0nSiAg8wH4rchhtvbMu0qBspehoCXJIQAvD_BwE&pmt=b&ptaid=kwd-87629970489&asin=B00I0AJC2Y&source_code=GO1GBSH09091690EI&pkw=the++hard++thing++about++hard++things)
-Charles
+  Charles
 - [Serverless Framework](https://www.npmjs.com/package/serverless)
 - [The Storm Light Achieves&nbsp;](https://brandonsanderson.com/books/the-stormlight-archive/)
 - [Avengers: Infinity War](http://www.imdb.com/title/tt4154756/)
-Gareth
+  Gareth
 - [Building MicroServices&nbsp;](http://shop.oreilly.com/product/0636920033158.do)
 - [Skeptics Guide To The Universe Podcast](http://www.theskepticsguide.org)
 - Expate Explore
-Joe
+  Joe
 - [Wonder -&nbsp; Movie](https://www.rottentomatoes.com/m/wonder/)
 - [Gloom In Space - Board Game&nbsp;](https://boardgamegeek.com/boardgame/214898/gloom-space)
-
-
 
 ### Transcript
 
 &nbsp;
-
-

@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: >
-      046 JSJ Staying Current
+  046 JSJ Staying Current
 date: 2013-02-08 14:53:00
 episode_number: 046
 duration: 44:46
 audio_url: http://media.devchat.tv/js-jabber/JSJ046StayingCurrent.mp3
 podcast: js-jabber
-tags: 
+tags:
   - js_jabber
   - podcast
 ---
@@ -20,48 +20,62 @@ tags:
 - Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](https://github.com/cmaxw)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
 
 ### Discussion
+
 03:19 - The Future of JavaScript and ES6
+
 - [es-discuss -- Discussion of ECMAScript](https://mail.mozilla.org/listinfo/es-discuss)
 - [@esdiscuss](https://twitter.com/esdiscuss)
 - [six](https://github.com/matthewrobb/six)
 - [ES6 in node.js](http://h3manth.com/content/es6-nodejs)
-- 
+-
+
 [@brendaneich (Brendan Eich)](https://twitter.com/brendaneich)
-- 
+
+-
+
 [@rwaldron (Rick Waldron)](https://twitter.com/rwaldron)
 10:18 - Getting News about JavaScript
+
 - [@derickbailey (Derick Bailey)](https://twitter.com/derickbailey)
 - [@tjholowaychuk (TJ Holowaychuk aka Vision Media)](https://twitter.com/tjholowaychuk)
 - [@substack (James Halliday)](https://twitter.com/substack)
 - [@maxodgen (Max Ogden)](https://twitter.com/maxogden)
 - [Peter Cooper’s JavaScript Weekly](http://javascriptweekly.com/)
 - [Peter Cooper’s HTML5 Weekly](http://html5weekly.com/)
-- [@badass\_js (Badass JavaScript)](https://twitter.com/badass_js)
-- [@seb\_ly (Seb Lee-Delisle)](https://twitter.com/seb_ly)
-12:43 - Blogs
+- [@badass_js (Badass JavaScript)](https://twitter.com/badass_js)
+- [@seb_ly (Seb Lee-Delisle)](https://twitter.com/seb_ly)
+  12:43 - Blogs
 - [Ben Alman](http://benalman.com/)
 - [James Burke](http://jrburke.com/)
 - [LosTechies](http://lostechies.com/)
 - [Alvin Ashcraft’s Morning Dew](http://www.alvinashcraft.com/)
 - [The Changelog](http://thechangelog.com/)
 - [reddit](http://www.reddit.com/r/javascript)
-17:02 - Filtering
+  17:02 - Filtering
 - [Readability](http://readability.com/)
-- 
+-
+
 [Pocket](http://getpocket.com/) (formerly Read It Later)
-- 
+
+-
+
 [Instapaper](http://www.instapaper.com/)
-- 
+
+-
+
 [three.js](http://mrdoob.github.com/three.js/)
-- 
+
+-
+
 [UTOSC 2012 Machine Learning in JavaScript Jamison Dance VIDEO0023](http://www.youtube.com/watch?v=Ix6IW7F3sps&feature=youtu.be)
 23:21 - The Community
+
 - [Airbnb Meetups](https://www.airbnb.com/meetups)
 - [Addy Osmani: Articles for Developers](http://addyosmani.com/blog/)
 - [Utah JS](http://utahjs.com/)
 - [Utah Software Craftsmanship Group](https://groups.google.com/forum/?fromgroups#!forum/ut-software-craftsmanship)
 - [Ruby Rogues Parley](http://rubyroguesparley.com/)
-27:33 - Podcasts and Videos
+  27:33 - Podcasts and Videos
 - [The Changelog](http://thechangelog.com/podcast/)
 - [YUI Theater (Yahoo Theater)](http://yuilibrary.com/theater/)
 - [Google Tech Talks](http://www.youtube.com/user/GoogleTechTalks)
@@ -75,14 +89,16 @@ tags:
 - [Emacs Rocks!](http://emacsrocks.com/)
 - [The Breakpoint with Paul Irish and Addy Osmani](http://addyosmani.com/blog/the-breakpoint-episode1/)
 - [NodeUp](http://nodeup.com/)
-35:53 - More Blogs
+  35:53 - More Blogs
 - [HTML5 Rocks](http://www.html5rocks.com/en/)
 - [A Minute With Brendan Eich](http://www.aminutewithbrendan.com/)
 - [John Resig](http://ejohn.org/category/blog/)
-36:16 - Conferences
+  36:16 - Conferences
 - [CascadiaJS](http://2012.cascadiajs.com/)
-- 
+-
+
 [JSConf](http://jsconf.com/)
+
 - [NodeConf](http://www.nodeconf.com/)
 
 ### Picks
@@ -98,8 +114,7 @@ tags:
 - [Powermat Power Dual 1200 Rechargeable Backup Battery](http://www.amazon.com/gp/product/B00462QBCO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00462QBCO&linkCode=as2&tag=chamaxwoo-20) (Chuck)
 
 ### Next Week
+
 Monolithic vs Modular Design w/ Tom Dale and James Halliday
 
 ### Transcript
-
-

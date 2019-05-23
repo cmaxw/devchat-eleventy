@@ -1,33 +1,34 @@
 ---
 layout: layouts/post.njk
 title: >
-      RR 324: Developer Horror Stories
+  RR 324: Developer Horror Stories
 date: 2017-08-22 04:00:45
 episode_number: 324
 duration: 51:41
 audio_url: https://media.devchat.tv//ruby-rogues/RR_324_Developer_Horror_Stories.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 ## **RR 324: Developer Horror Stories**
+
 The panel for this episode of Ruby Rogues is Dave Kimura, Eric Berry, and Charles Max Well. They are telling developer horror stories this week. Tune in to listen to their stories!**[00:01:40] Eric’s Story** Eric tells a story that happened today. He was working on a report on live data at work. While doing this, he sent texts to hundreds of people that shouldn’t be getting them. The moral of the story is that everyone makes mistakes, even seasoned developers.**[00:02:58] How could that have been avoided?** Eric has a fail-safe that has to override with an environment variable so that it won’t truncate the tables. Once that happens, no messages will be sent. He works at a company, which is a B to C texting platform that allows customer retention through mass, etc. He commented out stuff, not realizing that it would start sending messages. He needed live data to generate reports so he did not truncate the data. His advice is not to comment out code until you know why you are doing so. Dave says that same thing can also happen with an email service. Instead of commenting out code, make sure they are set up to a mail server or mail dev to where it actually never sends out to the real world but stays in a send box environment. Amazon SES has a way to do this where things stay internally.**[00:05:10] Dave’s Story**Around seven years ago Dave needed to store some images. He did not want to use a storage on the local computer because he would have multiple web servers and he did not want to use external storage because he was “lazy.” So he stored the images in the database. It worked for years until one day he saw that the table was 30 GB, which was much larger than it should have been. He had to extract and rewrite because any test to undo it would be substantial. It would be a long running process because 30 GB is a lot of data. In hindsight, Dave’s advice is that you don’t have to prematurely optimize but you also don’t have to make bad decisions. Do not store globs of binary data in your database. If it can be stored as a jpeg, do that.**[00:08:04] Charles’ Story**Charles’ story focuses on time zones. He was working on test first development. He wrote tests for a feature and his coworker checked them. The database was running in UTC and doing checks in Mountain Time, so the checks would fail from 6pm until midnight. The CI server would show that tests were not passing for a chunk of the day. It was a simple fix. He learned that you can write a test that passes but may be overlooking something simple that may change when in a different place or a different time.**[00:11:05] Errors**Errors are hard to track down. The hardest ones to find are the ones that only happen occasionally. The worst ones are those that are critical errors that only happen occasionally. Because they only happen sometimes, it is hard to know how to fix them.**[00:19:13] Using a Technology Too Soon**Eric used a technology too soon, which was Rails. Nobody could take over once he left the company. He had to go back to the company and rebuild it in PHP so that others could use it. The lesson from this mistake is that when you chose a technology you have to choose one that supports the buzz factor. Everyone has a responsibility to the people they are working for to add value. If you leave them with a maintenance nightmare you are not helping, you are hurting. Make sure you are locking things down.**[00:22:35] Gems and Poll Requests**Dave watches Gems to see what and how often they are updating. He checks to see if his poll request was accepted and reverts back to the original gem. He calls it “free maintenance from other people.” He doesn’t think you should deviate from it too much. An option is to use a proxy as well.**[00:27:41] Have you ever had to make patches in your Rails app knowing that those patches were coming in a future release?**Eric has had to in the past. His mentor had to patch Rails, apply it, but every time it ran it said, “if you upgrade rails, upgrade me.” It was a reminder to make sure everyone stays in sync.**[00:29:30] Migration**Dave and Charles have both had problems with migration. Take snapshots of database before you use migrations. The moral of story is if you’re going to migrate data, make sure you back up your database before you change the data. And don’t do data modifications in your migrations. Also set up a replica of your database. There is no excuse except for laziness or inexperience.**[00:32:10] Materialized Views**Eric used to work for social media company that had a lot of data coming in from various forms of social media. Helped build sub products that handled intake of data. Decided to use materialized views. It is a view that self updates as data changes in the database. In other words, it creates a fake table and can simplify the application side of things. It got a little messy and they had no idea what was updating things when. Because of this, they had to convert the materialized views to stored procedures. The materialized views killed the database because it triggered things when it shouldn’t be.**[00:37:23] Caching** Caching is a big problem with development. There are complex cache keys built around different queries and combinations of objects. There is a value with using caches but there is a caution with not using caches too early. A lot of problems have resulted from caching wrong results. The moral is to measure and make sure that you are working on the right problems. Sometimes premature optimization does not matter. Sometimes caching is just not needed and messes programs up rather than helping them.**[00:40:34] How do you populate data with unrealistic data?**It depends on how big the application is, but larger ones generate ten to twenty thousand records. For these, Dave uses Active Record Import. He used the Faker Gem to create fakes names. Without using Active Record Import it would take ten to fifteen minutes to 50,000 but instead it took two minutes with using it, saving a lot of time.
+
 ### **Picks**
- **Dave:**
+
+**Dave:**
+
 - [Gem in a box](https://github.com/geminabox/geminabox)
 - [Active Record Import](https://github.com/zdennis/activerecord-import)
-**Eric:**
+  **Eric:**
 - [udemy – Stephen Grider](https://www.udemy.com/user/sgslo/)
 - [Code Sponsor&nbsp;](http://www.codesponsor.io)
-**Charles:**
+  **Charles:**
 - [Audible](http://www.audible.com/)
 - Meditation app
 - Find something that helps you re-center
 - [Ruby Dev Summit](https://rubydevsummit.com/)
 
-
 ### Transcript
-
-

@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 021: Building SharePoint Extensions with JavaScript with Vesa Juvonen LIVE at Microsoft Build
+  RRU 021: Building SharePoint Extensions with JavaScript with Vesa Juvonen LIVE at Microsoft Build
 date: 2018-07-24 20:09:52
 episode_number: 021
 duration: 30:50
 audio_url: https://media.devchat.tv/reactroundup/RRU_021_Building_SharePoint_Extensions_with_JavaScript_with_Vesa_Juvonen_LIVE_at_Microsoft_Build.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 Charles Max Wood
 
@@ -43,7 +43,7 @@ In this episode, the React Round Up panel talks to Vesa Juvonen about building S
 - [SharePoint documentation](https://docs.microsoft.com/en-us/sharepoint/)
 - [SharePoint YouTube](https://www.youtube.com/user/GetStartedSharePoint)
 - What kinds of extensions are you seeing people build?
-- And much, much more! 
+- And much, much more!
 
 **Links:**
 
@@ -81,7 +81,4 @@ Vesa
 
 - [_Armada_ by Ernest Cline](https://www.amazon.com/Armada-novel-author-Ready-Player/dp/0804137277)
 
-
 ### Transcript
-
-

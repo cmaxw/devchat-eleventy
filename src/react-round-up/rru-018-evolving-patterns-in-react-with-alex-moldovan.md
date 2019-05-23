@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      RRU 018: Evolving Patterns in React with Alex Moldovan
+  RRU 018: Evolving Patterns in React with Alex Moldovan
 date: 2018-07-03 14:31:43
 episode_number: 018
 duration: 1:00:29
 audio_url: https://media.devchat.tv/reactroundup/RRU_018_Evolving_Patterns_in_React_with_Alex_Moldovan.mp3
 podcast: react-round-up
-tags: 
+tags:
   - react_round_up
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - Charles Max Wood
 - Lucas Reis
@@ -95,7 +95,4 @@ Alex
 - [Prisma](https://www.prisma.io/)
 - [TensorFlow.js](https://js.tensorflow.org/)
 
-
 ### Transcript
-
-

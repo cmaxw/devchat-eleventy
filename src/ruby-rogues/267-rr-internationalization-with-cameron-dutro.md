@@ -1,45 +1,46 @@
 ---
 layout: layouts/post.njk
 title: >
-      267 RR Internationalization with Cameron Dutro
+  267 RR Internationalization with Cameron Dutro
 date: 2016-07-06 07:00:42
 episode_number: 267
 duration: 01:01:38
 audio_url: http://media.devchat.tv/ruby-rogues/RR267Internationalization.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
 ---
 
 02:39 - Cameron Dutro Introduction
+
 - [Twitter](https://twitter.com/camertron)
 - [GitHub](https://github.com/camertron)
 - [Lumosity](http://www.lumosity.com)
-02:39 - [Internationalization](https://en.wikipedia.org/wiki/Internationalization) vs [Localization](https://en.wikipedia.org/wiki/Localization)05:28 - How important is internationalization?13:54 - Internationalization and Accessibility
+  02:39 - [Internationalization](https://en.wikipedia.org/wiki/Internationalization) vs [Localization](https://en.wikipedia.org/wiki/Localization)05:28 - How important is internationalization?13:54 - Internationalization and Accessibility
 - [The Tragedy of the Commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
-Developer Ignorance/Indifference19:43 - Tools
+  Developer Ignorance/Indifference19:43 - Tools
 - [Twitter Translation Center](https://translate.twitter.com/)
 - [Rosette](http://rosette-proj.github.io)
 - [txgh](https://github.com/lumoslabs/txgh)
 - [Transifex](https://www.transifex.com)
-24:48 - How can small companies internationalize?26:22 - Crowdsourcing
+  24:48 - How can small companies internationalize?26:22 - Crowdsourcing
 - [Contributor Covenant](http://contributor-covenant.org/)
-30:34 - People Have Names
+  30:34 - People Have Names
 - [Patrick McKenzie: Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [Falsehoods Programmers Believe About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md)
 - [Carina C. Zona: Schemas for the Real World @ RubyConf AU 2013](http://www.slideshare.net/cczona/schemas-for-the-real-world-rubyconf-au-201302)
-34:54 - Gender
+  34:54 - Gender
 - I18n, l10n, m10n: Abbreviations for Internationalization, Localization, and Minimization
-39:35 - Educational Resources
+  39:35 - Educational Resources
 - [Rails Guides on Internationalization](http://guides.rubyonrails.org/i18n.html)
 - [ICU - International Components for Unicode](http://site.icu-project.org/)
 - [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)
 - [CLDR - Unicode Common Locale Data Repository](http://cldr.unicode.org/)
-47:14 - [Unicode](http://unicode.org/)
+  47:14 - [Unicode](http://unicode.org/)
 - [Unicode Consortium](http://unicode.org/consortium/consort.html)
 - [Aditya Mukerjee: I Can Text You A Pile of Poo, But I Can’t Write My Name](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)
-&nbsp; Picks
+  &nbsp; Picks
 - [I17n.rb](https://github.com/dbrady/scrapbin/blob/master/stupid/i17n.rb) - Intranumeralization (David)
 - [Patrick McKenzie: Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) (David)
 - [Mogo Portable Active Office Chair](http://store.focalupright.com/mogo-seat-p/fks-1000.htm) (Sam)
@@ -51,10 +52,9 @@ Developer Ignorance/Indifference19:43 - Tools
 - [Hacknet](http://store.steampowered.com/app/365450/) (Cameron)
 - [Golden State Warriors](http://www.nba.com/warriors/) (Cameron)
 
-
 ### Transcript
 
- **SAM:&nbsp;** So can someone please tell me why we're discussing a topic that is eight syllables long? Do we hate ourselves that much?
+**SAM:&nbsp;** So can someone please tell me why we're discussing a topic that is eight syllables long? Do we hate ourselves that much?
 
 **_[This episode is sponsored by Hired.com. Every week on hired they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with a company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they give you a $1,000 bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $2,000 instead. Finally, if you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept the job. Go sign up at Hired.com/RubyRogues.]_**
 
@@ -122,7 +122,7 @@ That being said, the Spanish and English were close enough, in terms of the gram
 
 **CAMERON:&nbsp;** Yes, absolutely.
 
-**DAVID:&nbsp;** I reviewed some code years ago that was written by someone from, I think, Brazil. He didn't speak Portuguese or Spanish, so Argentina, and it was a brain-bender. I speak English and I speak Spanish and I got presented with a program that was like, "If DNA\_carro?"
+**DAVID:&nbsp;** I reviewed some code years ago that was written by someone from, I think, Brazil. He didn't speak Portuguese or Spanish, so Argentina, and it was a brain-bender. I speak English and I speak Spanish and I got presented with a program that was like, "If DNA_carro?"
 
 [Laughter]
 
@@ -540,7 +540,7 @@ Another pick I want to do is fun kind of game pick and it's a game called Hackne
 
 **SAM:&nbsp;** Oh, cool!
 
-**CAMERON:&nbsp;** One of the cool things about Hacknet, though, whereas in Uplink, you would click buttons and there was not a lot of technical meat to it. Hacknet kind of tries to mirror as much as it can kind of the real world of using a UNIX terminal. So you hope you'll open up the game and you have available to commands like "cd" and "ls" and "cat". The commands do what you expect them to do as a files system, you can look at the bin folder, and you can scp files - literally the scp command, you can scp files to your own workstation. It's kind of a nerdy version of Uplink and I've been really enjoying playing. There's a campaign and a storyline that goes along with that. So, I have a link for that as well. Probably you can buy in Steam Store, I think, it's only $5. It's pretty affordable.
+**CAMERON:&nbsp;** One of the cool things about Hacknet, though, whereas in Uplink, you would click buttons and there was not a lot of technical meat to it. Hacknet kind of tries to mirror as much as it can kind of the real world of using a UNIX terminal. So you hope you'll open up the game and you have available to commands like "cd" and "ls" and "cat". The commands do what you expect them to do as a files system, you can look at the bin folder, and you can scp files - literally the scp command, you can scp files to your own workstation. It's kind of a nerdy version of Uplink and I've been really enjoying playing. There's a campaign and a storyline that goes along with that. So, I have a link for that as well. Probably you can buy in Steam Store, I think, it's only \$5. It's pretty affordable.
 
 Then the other pick I have, and I have to pick this because it's something that's close to my heart now. I'm a Golden State Warriors fan, and I don't want to alienate your listeners who are maybe Cavaliers, or Thunder or Trailblazers fans, but those are professional basketball team, and they had been very well this year, and I really enjoyed watching their games, so go Warriors.
 
@@ -567,5 +567,3 @@ Then the other pick I have, and I have to pick this because it's something that'
 **_[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit C-A-C-H-E-F-L-Y dot com to learn more.]_**
 
 **_[Would you like to join a conversation with the Rogues and their guests? Want to support the show? We have a forum that allows you to join the conversation and support the show at the same time. You can sign up at RubyRogues.com/Parley.]_**
-
-

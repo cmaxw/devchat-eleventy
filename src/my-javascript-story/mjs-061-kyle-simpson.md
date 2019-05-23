@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 061: Kyle Simpson
+  MJS 061: Kyle Simpson
 date: 2018-05-16 10:00:47
 episode_number: 061
 duration: 54:03
 audio_url: https://media.devchat.tv/my-js-story/MJS_61_Kyle_Simpson.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Kyle Simpson
 
@@ -63,7 +63,4 @@ Kyle
 - [Fluent Conf](https://conferences.oreilly.com/fluent/fl-ca)
 - [Node RSA](https://github.com/rzcoder/node-rsa)
 
-
 ### Transcript
-
-

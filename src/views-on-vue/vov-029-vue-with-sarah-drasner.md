@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      VoV 029: Vue with Sarah Drasner
+  VoV 029: Vue with Sarah Drasner
 date: 2018-09-18 10:00:50
 episode_number: 029
 duration: 1:03:05
 audio_url: https://media.devchat.tv/viewsonvue/VoV_029_Vue_with_Sarah_Drasner.mp3
 podcast: views-on-vue
-tags: 
+tags:
   - views_on_vue
   - podcast
 ---
 
- **Panel:**
+**Panel:**
 
 - [Divya Sasidharan](https://www.linkedin.com/in/shortdiv)
 - [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
@@ -206,7 +206,4 @@ In addition, sometimes, TERRIBLE jokes go a long way! To show that you are actua
 - [Code Badge](http://codebadge.org/)
 - [Notion.So](https://www.notion.so)
 
-
 ### Transcript
-
-

@@ -1,35 +1,41 @@
 ---
 layout: layouts/post.njk
 title: >
-      282 RR Angular on Rails with Jason Swett
+  282 RR Angular on Rails with Jason Swett
 date: 2016-10-19 06:00:49
 episode_number: 282
 duration: 49:09
 audio_url: https://media.devchat.tv/ruby-rogues/RR282_Angular_on_Rails_with_Jason_Swett.mp3
 podcast: ruby-rogues
-tags: 
+tags:
   - ruby_rogues
   - podcast
+  - angular
+  - javascript
+  - asset_pipeline
+  - frontend_framework
 ---
 
 00:42 - Introducing Jason Swett
+
 - [Angular on Rails](http://angularonrails.com)
-- Use the code “rubyrogues” to get $10 off your purchase
+- Use the code “rubyrogues” to get \$10 off your purchase
 - [Twitter](https://twitter.com/jasonswett)
 - Email: jason@angularonrails.com
-2:20 - Angular or Rails?4:40 - Real-time data modeling 9:00 - Angular CLI 11:15 - Structuring Angular and Rails apps16:50 - Should beginners learn Angular or Rails first?19:50 - Building apps and tying Angular and Rails together
+  2:20 - Angular or Rails?4:40 - Real-time data modeling 9:00 - Angular CLI 11:15 - Structuring Angular and Rails apps16:50 - Should beginners learn Angular or Rails first?19:50 - Building apps and tying Angular and Rails together
 - [Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/)
 - [Jason’s blog post](https://www.angularonrails.com/angular-2-tour-heroes-tutorial-rails-backend/)
-25:00 - Angular on Rails feedback28:00 - What’s the hardest part of integrating Angular and Rails?31:00 - Why invest in Angular when it evolves so fast?33:35 - Why did Jason write his book?&nbsp;
+  25:00 - Angular on Rails feedback28:00 - What’s the hardest part of integrating Angular and Rails?31:00 - Why invest in Angular when it evolves so fast?33:35 - Why did Jason write his book?&nbsp;
 - _[Angular for Rails Developers](https://www.angularonrails.com/angular-rails-developers/)_
-&nbsp;
+  &nbsp;
 - [Pragmatic Bookshelf](https://pragprog.com/)
-37:50 - How to get the most out of the book42:40 - Panelist Jerome Hardaway
+  37:50 - How to get the most out of the book42:40 - Panelist Jerome Hardaway
 - [Previous Ruby Rogues Episode](https://devchat.tv/ruby-rogues/279-rr-vets-who-code-with-jerome-hardaway)
 - [Vets Who Code](http://vetswhocode.io/)
 - [DreamForce](https://www.salesforce.com/dreamforce/DF16/)
 
 ### **Picks:**
+
 [Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/) (Jerome)[General Assembly](https://generalassemb.ly/) (Jerome)[DreamForce](https://www.salesforce.com/dreamforce/DF16/) (Jerome)[Adventures in Angular Podcast](https://devchat.tv/adv-in-angular)(Charles and Jason)[Angular Remote Conf](https://devchat.tv/angular-remote-conf-2016)videos (Charles)[NgBook](https://www.ng-book.com/) (Jason)[_How to Win Friends and Influence People_ by Dale Carnegie](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) (Jason)[_The 7 Habits of Highly Successful People_ by Stephen Covey](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) (Jason)
 
 ### Transcript

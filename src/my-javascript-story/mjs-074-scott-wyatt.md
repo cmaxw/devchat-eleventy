@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 title: >
-      MJS 074: Scott Wyatt
+  MJS 074: Scott Wyatt
 date: 2018-08-15 22:37:41
 episode_number: 074
 duration: 30:16
 audio_url: https://media.devchat.tv/my-js-story/MJS_074_Scott_Wyatt.mp3
 podcast: my-javascript-story
-tags: 
+tags:
   - my_javascript_story
   - podcast
 ---
 
- **Panel:** Charles Max Wood
+**Panel:** Charles Max Wood
 
 **Guest:** Scott Wyatt
 
@@ -38,7 +38,7 @@ This week on My JavaScript Story, Charles speaks with Scott Wyatt. Scott is a VC
 - JavaScript is very versatile
 - How did you get into doing something like [Trails.js](https://trailsjs.io/)?
 - [Sails.js](https://sailsjs.com/)
-- [Fabrix](https://fabrix.app/) and [TypeScript](https://www.typescriptlang.org/) 
+- [Fabrix](https://fabrix.app/) and [TypeScript](https://www.typescriptlang.org/)
 - What have you done in JS that you are most proud of?
 - Partitioned apps
 - Contributing to freedom of information
@@ -81,7 +81,4 @@ Scott
 - [Gun.js](https://gun.eco/#step1)
 - [Bitcoin](https://bitcoin.org/en/)
 
-
 ### Transcript
-
-
