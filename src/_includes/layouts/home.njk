@@ -139,53 +139,33 @@ layout: layouts/base
 					</h3>
 					<ul class="ts-block-social-list">
 						<li class="ts-facebook">
-							<a href="#">
+							<a href="{{sitewide['facebook']}}">
 								<i class="fa fa-facebook"></i>
-								<b>facebook </b>
-								<span>1.5k</span>
-							</a>
-
-						</li>
-						<li class="ts-google-plus">
-							<a href="#">
-								<i class="fa fa-google-plus"></i>
-								<b>Google Plus </b>
-								<span>1.5k</span>
+								<b>Facebook </b>
 							</a>
 
 						</li>
 						<li class="ts-twitter">
-							<a href="#">
+							<a href="{{sitewide['twitter']}}">
 								<i class="fa fa-twitter"></i>
 								<b>Twitter </b>
-								<span>1.5k</span>
 							</a>
 
 						</li>
-						<li class="ts-pinterest">
-							<a href="#">
-								<i class="fa fa-pinterest-p"></i>
-								<b>facebook </b>
-								<span>1.5k</span>
-							</a>
-
-						</li>
-						<!-- <li class="ts-linkedin">
-							<a href="#">
+						<li class="ts-linkedin">
+							<a href="{{sitewide['linkedin']">
 								<i class="fa fa-linkedin"></i>
-								<b>12.5 k </b>
-								<span>Follwers</span>
+								<b>LinkedIn</b>
 							</a>
 
 						</li>
 						<li class="ts-youtube">
-							<a href="#">
+							<a href="{{sitewide['youtube']}}">
 								<i class="fa fa-youtube"></i>
-								<b>12.5 k </b>
-								<span>Follwers</span>
+								<b>YouTube</b>
 							</a>
 
-						</li> -->
+						</li>
 					</ul>
 				</div>
 				<!-- end-->
@@ -250,98 +230,13 @@ layout: layouts/base
 	</div>
 </section>
 
-<section class="block-wrapper p-30 section-bg">
-	<div class="container">
-		<div class="ts-title-item">
-			<h2 class="ts-cat-title ">
-				<span>Watch Now</span>
-			</h2>
-		</div>
-		<!-- title item end-->
-		<div class="row ts-grid-item ts-overlay-item ts-grid-style-2">
-			<div class="col-lg-4">
-				<div class="ts-overlay-style">
-					<div class="item">
-						<div class="ts-post-thumb">
+{% set postslist = collections.video %}
+{% set title = 'Watch Now' %}
+{% set viewallurl = '/video' %}
+{% include 'watch_now.njk' %}
 
-							<a href="#">
-								<img class="img-fluid" src="/images/news/travel/travel10.jpg" alt="">
-							</a>
-							<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="ts-video-icon">
-								<i class="fa fa-play-circle-o "></i>
-							</a>
-						</div>
-						<div class="overlay-post-content">
-							<div class="post-content">
-								<a class="post-cat ts-orange-bg" href="#">Travel</a>
-								<h3 class="post-title">
-									<a href="#">Tourism in Dubai is booming international tourist most visited place</a>
-								</h3>
-							</div>
-						</div>
-					</div>
-					<!-- end item-->
-				</div>
-				<!-- ts overlay style end-->
-			</div>
-			<!-- col end-->
-			<div class="col-lg-4">
-				<div class="ts-overlay-style">
-					<div class="item">
-						<div class="ts-post-thumb">
 
-							<a href="#">
-								<img class="img-fluid" src="/images/news/foods/food8.jpg" alt="">
-							</a>
-							<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="ts-video-icon">
-								<i class="fa fa-play-circle-o "></i>
-							</a>
-						</div>
-						<div class="overlay-post-content">
-							<div class="post-content">
-								<a class="post-cat ts-yellow-bg" href="#">Food</a>
-								<h3 class="post-title">
-									<a href="#">The clock is ticking for e-cig companies to block underage users</a>
-								</h3>
-							</div>
-						</div>
-					</div>
-					<!-- end item-->
-				</div>
-				<!-- ts overlay style end-->
-			</div>
-			<!-- col end-->
-			<div class="col-lg-4">
-				<div class="ts-overlay-style">
-					<div class="item">
-						<div class="ts-post-thumb">
-
-							<a href="#">
-								<img class="img-fluid" src="/images/news/sports/sports2.jpg" alt="">
-							</a>
-							<a href="https://www.youtube.com/watch?v=uZmz6fGRVW4" class="ts-video-icon">
-								<i class="fa fa-play-circle-o "></i>
-							</a>
-						</div>
-						<div class="overlay-post-content">
-							<div class="post-content">
-								<a class="post-cat ts-green-bg" href="#">Sports</a>
-								<h3 class="post-title">
-									<a href="#">10 critical points from Zuckerberg’s epic security manifesto</a>
-								</h3>
-							</div>
-						</div>
-					</div>
-					<!-- end item-->
-				</div>
-				<!-- ts overlay style end-->
-			</div>
-			<!-- col end-->
-		</div>
-		<!-- row end-->
-	</div>
-	<!-- container end-->
-</section>
+Pherph
 
 <!-- block wrapper start-->
 <section class="block-wrapper mt-15 md-mb-30">
@@ -349,164 +244,15 @@ layout: layouts/base
 		<div class="row">
 			<div class="col-lg-9">
 				<div class="row">
-					<div class="col-lg-6">
-						<div class="ts-title-item">
-								<h2 class="ts-cat-title ">
-									<span>Health</span>
-								</h2>
-							</div><!-- Title end -->
-						<div class="post-list-box ts-list-post-box ts-grid-content">
+					{% set postslist = collections.lifestyle %}
+					{% set title = 'Lifestyle' %}
+					{% set viewallurl = '/tags/lifestyle' %}
+					{% include 'vertical_column.njk' %}
 
-							<div class="ts-overlay-style">
-								<div class="item">
-									<div class="ts-post-thumb">
-										<a href="#">
-											<img class="img-fluid" src="/images/news/health/health1.jpg" alt="">
-										</a>
-
-									</div>
-									<div class="overlay-post-content">
-										<div class="post-content">
-
-											<h3 class="post-title md">
-												<a href="#">Tourism Dubai booming international tourist most visited place</a>
-											</h3>
-										</div>
-									</div>
-								</div>
-								<!-- end item-->
-							</div>
-
-							<div class="post-content media">
-								<a href="#">
-									<img class="d-flex" src="/images/news/health/health4.jpg" alt="">
-								</a>
-								<div class="media-body align-self-center">
-									<h3 class="post-title">
-										<a href="#">help us make mfs better with our reader better with our reader survey</a>
-									</h3>
-									<span class="post-date-info">
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</span>
-								</div>
-							</div>
-							<!-- end item-->
-							<div class="post-content media">
-								<a href="#">
-									<img class="d-flex" src="/images/news/health/health3.jpg" alt="">
-								</a>
-								<div class="media-body align-self-center">
-									<h3 class="post-title">
-										<a href="#">Hands on with the Apple Watch Series 4 Apple Watch Series tourist</a>
-									</h3>
-									<span class="post-date-info">
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</span>
-								</div>
-							</div>
-							<!-- end item-->
-							<div class="post-content media">
-								<a href="#">
-									<img class="d-flex" src="/images/news/health/health2.jpg" alt="">
-								</a>
-								<div class="media-body align-self-center">
-									<h3 class="post-title">
-										<a href="#">help us make mfs better with our reader better with our reader  survey</a>
-									</h3>
-									<span class="post-date-info">
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</span>
-								</div>
-							</div>
-							<!-- end item-->
-
-
-							<!-- end item-->
-						</div>
-					</div>
-					<!-- col end-->
-					<div class="col-lg-6">
-						<div class="ts-title-item">
-								<h2 class="ts-cat-title ">
-									<span>Travel</span>
-								</h2>
-							</div><!-- Title end -->
-						<div class="post-list-box ts-list-post-box ts-grid-content">
-
-							<div class="ts-overlay-style">
-								<div class="item">
-									<div class="ts-post-thumb">
-										<a href="#">
-											<img class="img-fluid" src="/images/news/travel/travel1.jpg" alt="">
-										</a>
-
-									</div>
-									<div class="overlay-post-content">
-										<div class="post-content">
-
-											<h3 class="post-title md">
-												<a href="#">Youth vaping an 'epidemic'; crackdown coming</a>
-											</h3>
-										</div>
-									</div>
-								</div>
-								<!-- end item-->
-							</div>
-
-							<div class="post-content media">
-								<a href="#">
-									<img class="d-flex" src="/images/news/travel/travel2.jpg" alt="">
-								</a>
-								<div class="media-body align-self-center">
-									<h3 class="post-title">
-										<a href="#">Bitcoin Extends Range While Ethereum Hits New Yearly Low</a>
-									</h3>
-									<span class="post-date-info">
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</span>
-								</div>
-							</div>
-							<!-- end item-->
-							<div class="post-content media">
-								<a href="#">
-									<img class="d-flex" src="/images/news/travel/travel3.jpg" alt="">
-								</a>
-								<div class="media-body align-self-center">
-									<h3 class="post-title">
-										<a href="#">Tourism in Dubai is booming by international tourist</a>
-									</h3>
-									<span class="post-date-info">
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</span>
-								</div>
-							</div>
-							<!-- end item-->
-							<div class="post-content media">
-								<a href="#">
-									<img class="d-flex" src="/images/news/travel/travel4.jpg" alt="">
-								</a>
-								<div class="media-body align-self-center">
-									<h3 class="post-title">
-										<a href="#">Beats did announce something today, after something today all</a>
-									</h3>
-									<span class="post-date-info">
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</span>
-								</div>
-							</div>
-							<!-- end item-->
-
-
-							<!-- end item-->
-						</div>
-					</div>
-					<!-- col end-->
+					{% set postslist = collections.lifestyle %}
+					{% set title = 'Lifestyle' %}
+					{% set viewallurl = '/tags/lifestyle' %}
+					{% include 'vertical_column.njk' %}
 				</div>
 				<!-- row end-->
 			</div>

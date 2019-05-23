@@ -1,0 +1,42 @@
+<section class="block-wrapper p-30 section-bg">
+	<div class="container">
+		<div class="ts-title-item">
+			<h2 class="ts-cat-title ">
+				<span>{{ title | safe }}</span>
+			</h2>
+		</div>
+		<!-- title item end-->
+		<div class="row ts-grid-item ts-overlay-item ts-grid-style-2">
+      {% for post in postslist | head(-3) %}
+			<div class="col-lg-4">
+				<div class="ts-overlay-style">
+					<div class="item">
+						<div class="ts-post-thumb">
+
+							<a href="#">
+								<img class="img-fluid" src="{{ post.data.image }}" alt="">
+							</a>
+							<a href="" class="ts-video-icon">
+								<i class="fa fa-play-circle-o "></i>
+							</a>
+						</div>
+						<div class="overlay-post-content">
+							<div class="post-content">
+								<a class="post-cat ts-orange-bg" href="/{{podcasts[ post.data.podcast ].slug}}">{{podcasts[ post.data.podcast ].title}}</a>
+								<h3 class="post-title">
+									<a href="{{ post.url | url }}">{{ post.data.title }}</a>
+								</h3>
+							</div>
+						</div>
+					</div>
+					<!-- end item-->
+				</div>
+				<!-- ts overlay style end-->
+			</div>
+			<!-- col end-->
+      {% endfor %}
+		</div>
+		<!-- row end-->
+	</div>
+	<!-- container end-->
+</section>
