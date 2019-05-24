@@ -8,7 +8,7 @@ duration: 29:45
 audio_url: https://media.devchat.tv/my-js-story/MJS_014_Kim_Carter.mp3
 podcast: js-jabber
 tags:
-  - js_jabber
+  - my_javascript_story
   - podcast
 ---
 
