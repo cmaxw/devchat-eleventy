@@ -153,11 +153,10 @@ layout: layouts/base
 
 						</li>
 						<li class="ts-linkedin">
-							<a href="{{sitewide['linkedin']">
+							<a href="{{sitewide['linkedin']}}">
 								<i class="fa fa-linkedin"></i>
 								<b>LinkedIn</b>
 							</a>
-
 						</li>
 						<li class="ts-youtube">
 							<a href="{{sitewide['youtube']}}">
@@ -244,14 +243,14 @@ Pherph
 		<div class="row">
 			<div class="col-lg-9">
 				<div class="row">
-					{% set postslist = collections.lifestyle %}
-					{% set title = 'Lifestyle' %}
-					{% set viewallurl = '/tags/lifestyle' %}
+					{% set postslist = collections.book_club %}
+					{% set title = 'Book Club' %}
+					{% set viewallurl = '/tags/book_club' %}
 					{% include 'vertical_column.njk' %}
 
-					{% set postslist = collections.lifestyle %}
-					{% set title = 'Lifestyle' %}
-					{% set viewallurl = '/tags/lifestyle' %}
+					{% set postslist = collections.design_patterns %}
+					{% set title = 'Design Patterns' %}
+					{% set viewallurl = '/tags/design_patterns' %}
 					{% include 'vertical_column.njk' %}
 				</div>
 				<!-- row end-->
