@@ -7,12 +7,11 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: szqQ1zi5ZNM
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=szqQ1zi5ZNM Charles answers a question he got on Twitter about how to change career paths from Front-End to Back-End
-
-
+Charles answers a question he got on Twitter about how to change career paths from Front-End to Back-End

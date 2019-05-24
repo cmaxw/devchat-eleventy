@@ -7,12 +7,11 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: USKTqJPSkRc
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-[embed]https://www.youtube.com/watch?v=USKTqJPSkRc[/embed] One question Charles get's frequently is "Should I quit my job?" He explains the tradeoffs of quitting a job and the power you have to make your job into what you want. When you can't, he talks about how and when to quit.
-
-
+One question Charles get's frequently is "Should I quit my job?" He explains the tradeoffs of quitting a job and the power you have to make your job into what you want. When you can't, he talks about how and when to quit.

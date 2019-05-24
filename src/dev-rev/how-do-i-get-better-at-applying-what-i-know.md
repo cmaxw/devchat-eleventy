@@ -7,12 +7,12 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: >
+      xj3-cOEdWwg
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=xj3-cOEdWwg Charles answers Nathan's question about how to apply what he's learning. Short answer: Practice.
-
-
+Charles answers Nathan's question about how to apply what he's learning. Short answer: Practice.

@@ -7,12 +7,12 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: >
+      2srEromY0_A
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=2srEromY0\_A Chuck explains what it takes to get a Remote Job.
-
-
+Chuck explains what it takes to get a Remote Job.

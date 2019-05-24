@@ -7,12 +7,12 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: >
+      TeG_L6mIONs
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=TeG\_L6mIONs Marcus asks Charles how he gets so much done working from how with 5 kids. Charles lays down the law!
-
-
+Marcus asks Charles how he gets so much done working from how with 5 kids. Charles lays down the law!

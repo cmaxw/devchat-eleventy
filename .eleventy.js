@@ -18,6 +18,10 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n);
   });
 
+  eleventyConfig.addFilter('embed_youtube', (key) => {
+    return '<iframe width="825" height="550" src="https://www.youtube.com/embed/' + key + '" frameborder="0" allowfullscreen></iframe><br/>';
+  });
+
   eleventyConfig.addFilter('range', (array, m, n) => {
     if (n < 0) {
       return array.slice(n);

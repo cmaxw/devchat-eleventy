@@ -7,12 +7,11 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: loTf1WKZTu8
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=loTf1WKZTu8 Dave asks (and a follow up on Carlos' email from yesterday) where we dive into how to go freelance.
-
-
+Dave asks (and a follow up on Carlos' email from yesterday) where we dive into how to go freelance.

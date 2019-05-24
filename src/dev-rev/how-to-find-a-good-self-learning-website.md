@@ -7,12 +7,11 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: VouBfl8PhJI
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=VouBfl8PhJI Charles answers Dave's other question about how to find a great self-learning website to help him learn data-science.
-
-
+Charles answers Dave's other question about how to find a great self-learning website to help him learn data-science.

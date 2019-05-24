@@ -16,7 +16,7 @@ layout: layouts/base.njk
 						</li>
 						{% if podcast %}
 						<li>
-							<a href="/{{podcast}}">{{podcastTitle}}</a>
+							<a href="/{{podcast}}">{{podcasts[podcast].title}}</a>
 						</li>
 						{% endif %}
 						
@@ -45,27 +45,25 @@ layout: layouts/base.njk
 									{{ date | date }}
 								</li>
 								<li class="share-post">
-									<a href="#">
-										<i class="fa fa-share"></i>
-									</a>
+									<div class="sharethis-inline-share-buttons"></div>
 								</li>
 							</ul>
 						</div>
 						<!-- single post header end-->
 						<div class="post-content-area">
 							<div class="post-media post-featured-image">
-								<a href="{{ image }}" class="gallery-popup">
+								{% if youtube_video_id %}
+									{{ youtube_video_id | embed_youtube | safe}}
+								{% else %}
 									<img src="{{ image }}" class="img-fluid" alt="">
-								</a>
+								{% endif %}
 							</div>
 							<div class="entry-content">
-								{% if summary %}
-									<p class="text-bg">{{summary}}</p>
-								{% endif %}
-								
 								{{ content | safe }}
 							</div>
 						</div>
+
+						{% if author %}
 						<!-- post content area-->
 						<div class="author-box">
 							<img class="author-img" src="/images/avater/author.png" alt="">
@@ -92,68 +90,25 @@ layout: layouts/base.njk
 							</div>
 						</div>
 						<!-- author box end-->
-						<div class="post-navigation clearfix">
-							<div class="post-previous float-left">
-								<a href="#">
-									<img src="/images/news/travel/travel6.jpg" alt="">
-									<span>Read Previous</span>
-									<p>
-										Samsung goes big in India factory ever created
-									</p>
-								</a>
-							</div>
-							<div class="post-next float-right">
-								<a href="#">
-									<img src="/images/news/tech/tech5.jpg" alt="">
-									<span>Read Next</span>
-									<p>
-										Samsung goes big in India factory ever created
-									</p>
-								</a>
-							</div>
-						</div>
-						<!-- post navigation end-->
+						{% endif %}
 					</div>
 					<!--single post end -->
 					<div class="comments-form ts-grid-box">
-						<h3 class="comment-reply-title">Add Comment</h3>
+					<div id="disqus_thread"></div>
+						<script>
+						var disqus_config = function () {
+						this.page.url = '{page.url | url}}';  // Replace PAGE_URL with your page's canonical URL variable
+						this.page.identifier = '{{page.url | url}}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+						};
 
-						<form role="form" class="ts-form">
-							<div class="row">
-								<div class="col-md-6">
-									<div class="form-group">
-										<input class="form-control" name="name" id="name" placeholder="Your Name" type="text" required="">
-									</div>
-									<!-- form group end-->
-									<div class="form-group">
-										<input class="form-control" name="email" id="email" placeholder="Your Email" type="email" required="">
-									</div>
-									<!-- form group end-->
-									<div class="form-group">
-										<input class="form-control" placeholder="Your Website" type="text" required="">
-									</div>
-									<!-- form group end-->
-								</div>
-								<!-- Col end -->
-								<div class="col-md-6">
-									<div class="form-group">
-										<textarea class="form-control msg-box" id="message" placeholder="Your Comment" rows="10" required=""></textarea>
-									</div>
-								</div>
-								<!-- Col end -->
-								<div class="col-md-12">
-									<p class="comment-form-cookies-consent">
-										<input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes">
-										<label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
-									</p>
-								</div>
-							</div>
-							<!-- Form row end -->
-							<div class="clearfix">
-								<button class="comments-btn btn btn-primary" type="submit">Post Comment</button>
-							</div>
-						</form>
-						<!-- Form end -->
+						(function() { // DON'T EDIT BELOW THIS LINE
+						var d = document, s = d.createElement('script');
+						s.src = 'https://devchattv.disqus.com/embed.js';
+						s.setAttribute('data-timestamp', +new Date());
+						(d.head || d.body).appendChild(s);
+						})();
+						</script>
+						<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 					</div>
 					<!-- comment form end-->
 					<div class="ts-grid-box mb-30">

@@ -1,4 +1,5 @@
 {
     "layout": "layouts/post.njk",
-    "image": "/images/podcasts/devrev-500.jpg"
+    "image": "/images/podcasts/devrev-500.jpg",
+    "podcast": "dev-rev"
 }

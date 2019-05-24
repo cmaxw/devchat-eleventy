@@ -7,12 +7,12 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: >
+      Z_XwMqatWRI
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=Z\_XwMqatWRI Charles is at CES 2019 looking at [HumanScale's MConnect](https://amzn.to/2Eu1k8q) docking station built into a monitor stand. &nbsp;
-
-
+Charles is at CES 2019 looking at [HumanScale's MConnect](https://amzn.to/2Eu1k8q) docking station built into a monitor stand.

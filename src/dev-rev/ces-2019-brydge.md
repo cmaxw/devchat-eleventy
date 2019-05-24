@@ -6,6 +6,7 @@ date: 2019-01-14 11:00:12
 episode_number: 
 duration: 
 audio_url: 
+youtube_video_id: KrDX36IdK48
 podcast: dev-rev
 tags: 
   - dev_rev
@@ -13,6 +14,4 @@ tags:
   - video
 ---
 
-https://www.youtube.com/watch?v=KrDX36IdK48 Charles is at CES 2019 and is talking to the folks at Brydge.
-
-
+Charles is at CES 2019 and is talking to the folks at Brydge.

@@ -7,12 +7,11 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: jZ6whd2VoAc
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=jZ6whd2VoAc Charles is at CES 2019 and talks to Lapscreen about their portable monitors.
-
-
+Charles is at CES 2019 and talks to Lapscreen about their portable monitors.

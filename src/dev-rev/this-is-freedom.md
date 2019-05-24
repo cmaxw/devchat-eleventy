@@ -7,12 +7,11 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: pvK8AdXhwNs
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=pvK8AdXhwNs Tim send in an email that explains how he helps teachers, students, and parents where he teaches. Charles loves it! Doing what you want and find freedom in what makes you fulfilled.
-
-
+Tim send in an email that explains how he helps teachers, students, and parents where he teaches. Charles loves it! Doing what you want and find freedom in what makes you fulfilled.

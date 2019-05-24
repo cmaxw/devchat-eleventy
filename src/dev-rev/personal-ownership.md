@@ -7,12 +7,11 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: C59QH5bI0L0
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-[embed]https://www.youtube.com/watch?v=C59QH5bI0L0[/embed] In this episode, Charles discusses taking ownership of your situation, regardless of whether it's fair or right.
-
-
+In this episode, Charles discusses taking ownership of your situation, regardless of whether it's fair or right.

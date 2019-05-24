@@ -7,12 +7,11 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: V9MWSs8sBKE
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=V9MWSs8sBKE Charles talks about his sales process for sponsorships and how it translates to finding a job.
-
-
+Charles talks about his sales process for sponsorships and how it translates to finding a job.

@@ -7,12 +7,11 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: kAUWTkVWSJw
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=kAUWTkVWSJw Charles is at CES 2019 and talking to TimeFlip about time tracking with their device.
-
-
+Charles is at CES 2019 and talking to TimeFlip about time tracking with their device.

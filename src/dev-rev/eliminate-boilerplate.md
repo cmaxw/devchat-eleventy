@@ -7,12 +7,11 @@ episode_number:
 duration: 
 audio_url: 
 podcast: dev-rev
+youtube_video_id: xr1X9SiWbco
 tags: 
   - dev_rev
   - podcast
   - video
 ---
 
-https://www.youtube.com/watch?v=xr1X9SiWbco Charles talks about automation and eliminating the boilerplate work. &nbsp;
-
-
+Charles talks about automation and eliminating the boilerplate work.
