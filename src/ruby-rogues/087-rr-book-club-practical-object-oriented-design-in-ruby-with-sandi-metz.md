@@ -10,6 +10,7 @@ podcast: ruby-rogues
 tags:
   - ruby_rogues
   - podcast
+  - popular
 ---
 
 1:35 - Introducing Sandi Metz

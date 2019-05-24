@@ -10,6 +10,7 @@ podcast: js-jabber
 tags:
   - js_jabber
   - podcast
+  - popular
 ---
 
 02:38 - Christopher Chedeau Introduction

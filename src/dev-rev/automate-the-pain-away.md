@@ -12,6 +12,7 @@ tags:
   - dev_rev
   - podcast
   - video
+  - popular
 ---
 
 Charles talk about when you should automate things you don't like doing and the benefits of having a process for doing things.

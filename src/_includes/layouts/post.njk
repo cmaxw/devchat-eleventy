@@ -45,6 +45,7 @@ layout: layouts/base.njk
 									{{ date | date }}
 								</li>
 								<li class="share-post">
+									Share:
 									<div class="sharethis-inline-share-buttons"></div>
 								</li>
 							</ul>
@@ -111,101 +112,31 @@ layout: layouts/base.njk
 						<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 					</div>
 					<!-- comment form end-->
+
 					<div class="ts-grid-box mb-30">
 						<h2 class="ts-title">Most Popular</h2>
 
 						<div class="most-populers owl-carousel">
+							{%- for post in collections.popular -%}
 							<div class="item">
-								<a class="post-cat ts-yellow-bg" href="#">Travel</a>
+								<a class="post-cat ts-yellow-bg" href="/{{post.data.podcast}}">{{podcasts[post.data.podcast].title}}</a>
 								<div class="ts-post-thumb">
-									<a href="#">
-										<img class="img-fluid" src="/images/news/travel/travel2.jpg" alt="">
+									<a href="{{post.url | url}}">
+										<img class="img-fluid" src="{{post.data.image}}" alt="">
 									</a>
 								</div>
 								<div class="post-content">
 									<h3 class="post-title">
-										<a href="#">Tourism in Dubai is booming by international tourist</a>
+										<a href="{{post.url | url}}">{{post.data.title}}</a>
 									</h3>
 									<span class="post-date-info">
 										<i class="fa fa-clock-o"></i>
-										March 21, 2019
+										{{post.data.date | date}}
 									</span>
 								</div>
 							</div>
 							<!-- ts-grid-box end-->
-
-							<div class="item">
-								<a class="post-cat ts-blue-light-bg" href="#">Technology</a>
-								<div class="ts-post-thumb">
-									<a href="#">
-										<img class="img-fluid" src="/images/news/tech/tech1.jpg" alt="">
-									</a>
-								</div>
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
-									</h3>
-									<span class="post-date-info">
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</span>
-								</div>
-							</div>
-							<!-- ts-grid-box end-->
-							<div class="item">
-								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
-								<div class="ts-post-thumb">
-									<a href="#">
-										<img class="img-fluid" src="/images/news/fashion/fashion1.jpg" alt="">
-									</a>
-								</div>
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">Tourism in Dubai is booming by international tourist</a>
-									</h3>
-									<span class="post-date-info">
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</span>
-								</div>
-							</div>
-							<!-- ts-grid-box end-->
-							<div class="item">
-								<a class="post-cat ts-pink-bg" href="#">Fashion</a>
-								<div class="ts-post-thumb">
-									<a href="#">
-										<img class="img-fluid" src="/images/news/fashion/fashion2.jpg" alt="">
-									</a>
-								</div>
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">ICOs Hit New Low, but Production Picking Up</a>
-									</h3>
-									<span class="post-date-info">
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</span>
-								</div>
-							</div>
-							<!-- ts-grid-box end-->
-							<div class="item">
-								<a class="post-cat ts-pink-bg" href="#">Music</a>
-								<div class="ts-post-thumb">
-									<a href="#">
-										<img class="img-fluid" src="/images/news/music/music2.jpg" alt="">
-									</a>
-								</div>
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">Tourism in Dubai is booming by international tourist</a>
-									</h3>
-									<span class="post-date-info">
-										<i class="fa fa-clock-o"></i>
-										March 21, 2019
-									</span>
-								</div>
-							</div>
-							<!-- ts-grid-box end-->
+							{%- endfor -%}
 						</div>
 						<!-- most-populers end-->
 					</div>
