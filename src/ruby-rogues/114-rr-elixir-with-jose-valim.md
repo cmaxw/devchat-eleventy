@@ -12,7 +12,7 @@ tags:
   - podcast
   - elixir
   - erlang
-  - programming languages
+  - programming_languages
 ---
 
 01:08 - José Valim Introduction
