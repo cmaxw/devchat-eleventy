@@ -30,6 +30,33 @@ module.exports = function(eleventyConfig) {
     return array.slice(m, n);
   });
 
+  var podcastList = ["adv_in_angular", 
+                  "dev_rev", 
+                  "elixir_mix",
+                  "freelancers",
+                  "iphreaks",
+                  "js_jabber", 
+                  "my_angular_story",
+                  "my_javascript_story",
+                  "my_ruby_story",
+                  "rails_clips",
+                  "react_native_radio",
+                  "react_round_up",
+                  "remote_conf_talks",
+                  "ruby_rogues",
+                  "teachmetocode",
+                  "tmtc-screencasts",
+                  "views_on_vue",
+                  "web_sec_warriors"];
+
+  podcastList.forEach(function(podcast, index) {
+    eleventyConfig.addCollection(podcast, function(collection) {
+      return collection.getFilteredByTag(podcast).sort(function(a, b) {
+        return b.date - a.date;
+      });
+    });
+  });
+
   return {
     templateFormats: ['md', 'njk', 'html', 'liquid'],
 

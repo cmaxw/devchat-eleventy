@@ -1,5 +1,6 @@
 ---
 layout: layouts/base.njk
+page_class: category-layout-5
 ---
 
 <!-- block post area start-->
@@ -22,6 +23,15 @@ layout: layouts/base.njk
             <li>
               {{ tag }}
             </li>
+            {% else %}
+            {% if podcast %}
+              <li>
+                Podcasts
+              </li>
+              <li>
+                <a href="/{{podcast}}">{{podcasts[ podcast ].title}}</a>
+              </li>
+            {% endif %}
             {% endif %}
 
           </ol>
@@ -29,15 +39,21 @@ layout: layouts/base.njk
             {% if tag %}
             <h2 class="ts-title float-left">Tag: "{{tag}}"</h2>
             {% else %}
-            <h2 class="ts-title float-left">{{podcast.title}}</h2>
+            <h2 class="ts-title float-left">{{podcasts[ podcast ].title}}</h2>
             {% endif %}
           </div>
+          <ul class="ts-category-list float-right"></ul>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-9">
+        {% if tag %}
         {% set taggedposts = collections[tag] | reverse %}
+        {% endif %}
+        {% if podcast %}
+        {% set taggedposts = pagination.items %}
+        {% endif %}
         {%- for item in taggedposts -%}
         {% if loop.index % 2 == 1 %}
         <div class="row">
