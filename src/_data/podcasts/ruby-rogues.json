@@ -1,5 +1,12 @@
 {
   "title": "Ruby Rogues",
   "slug": "ruby-rogues",
-  "artwork": "ruby-rogues.jpg"
+  "artwork": "ruby-rogues.jpg",
+  "tag": "ruby_rogues",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "color": "red",
+  "facebook": "https://www.facebook.com/RubyRogues/",
+  "twitter": "https://twitter.com/rubyrogues",
+  "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX7ZlZvJ7KZnyluVOVTSNHW1",
+  "linkedin": "https://linkedin.com/company/devchat"
 }

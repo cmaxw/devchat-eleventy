@@ -1,0 +1,46 @@
+{% set baseObj = sitewide %}
+{% if podcast %}
+{% set baseObj = podcasts[podcast] %}
+{% endif %}
+
+<div class="widgets widgets-item">
+  <h3 class="widgets-title">
+    <span>On social</span>
+  </h3>
+
+  <ul class="ts-block-social-list">
+    {% if baseObj['facebook'] %}
+    <li class="ts-facebook">
+      <a href="{{baseObj['facebook']}}">
+        <i class="fa fa-facebook"></i>
+        <b>Facebook </b>
+      </a>
+    </li>
+    {% endif %}
+    {% if baseObj['twitter'] %}
+    <li class="ts-twitter">
+      <a href="{{baseObj['twitter']}}">
+        <i class="fa fa-twitter"></i>
+        <b>Twitter </b>
+      </a>
+    </li>
+    {% endif %}
+    {% if baseObj['linkedin'] %}
+    <li class="ts-linkedin">
+      <a href="{{baseObj['linkedin']}}">
+        <i class="fa fa-linkedin"></i>
+        <b>LinkedIn</b>
+      </a>
+    </li>
+    {% endif %}
+    {% if baseObj['youtube'] %}
+    <li class="ts-youtube">
+      <a href="{{baseObj['youtube']}}">
+        <i class="fa fa-youtube"></i>
+        <b>YouTube</b>
+      </a>
+    </li>
+    {% endif %}
+  </ul>
+</div>
+<!-- end-->

@@ -1,5 +1,6 @@
 ---
 layout: layouts/base
+date: 2000-01-01
 ---
 
 <!-- start block wrapper -->
@@ -133,41 +134,8 @@ layout: layouts/base
 			</div>
 			<!-- col end-->
 			<div class="col-lg-3">
-				<div class="widgets widgets-item">
-					<h3 class="widgets-title">
-						<span>On social</span>
-					</h3>
-					<ul class="ts-block-social-list">
-						<li class="ts-facebook">
-							<a href="{{sitewide['facebook']}}">
-								<i class="fa fa-facebook"></i>
-								<b>Facebook </b>
-							</a>
+				{% include 'social_links.njk' %}
 
-						</li>
-						<li class="ts-twitter">
-							<a href="{{sitewide['twitter']}}">
-								<i class="fa fa-twitter"></i>
-								<b>Twitter </b>
-							</a>
-
-						</li>
-						<li class="ts-linkedin">
-							<a href="{{sitewide['linkedin']}}">
-								<i class="fa fa-linkedin"></i>
-								<b>LinkedIn</b>
-							</a>
-						</li>
-						<li class="ts-youtube">
-							<a href="{{sitewide['youtube']}}">
-								<i class="fa fa-youtube"></i>
-								<b>YouTube</b>
-							</a>
-
-						</li>
-					</ul>
-				</div>
-				<!-- end-->
 				<div class="widgets widgets-item posts-ad">
 					<a href="#">
 						<img class="img-fluid" src="/images/banner/sidebar-banner3.png" alt="">
