@@ -14,5 +14,9 @@
     "moment": "^2.22.2",
     "nunjucks-date": "^1.2.0",
     "prettier": "^1.16.3"
+  },
+  "dependencies": {
+    "netlify": "^2.4.4",
+    "netlify-cli": "^2.11.20"
   }
 }
