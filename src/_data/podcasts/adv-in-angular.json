@@ -1,5 +1,12 @@
 {
   "title": "Adventures in Angular",
   "slug": "adv-in-angular",
-  "artwork": "angular-500.jpg"
+  "artwork": "angular-500.jpg",
+  "tag": "adv_in_angular",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "color": "red",
+  "facebook": "https://www.facebook.com/adventuresinangular/",
+  "twitter": "https://twitter.com/angularpodcast",
+  "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX6PKiA6XAjzbUCWiYCUkU2q",
+  "linkedin": "https://linkedin.com/company/devchat"
 }
