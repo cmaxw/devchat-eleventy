@@ -1,5 +1,11 @@
 {
   "title": "The Dev Rev",
   "slug": "dev-rev",
-  "artwork": "devrev-500.jpg"
+  "artwork": "devrev-500.jpg",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "color": "blue",
+  "facebook": "https://www.facebook.com/thedevrev/",
+  "twitter": "https://twitter.com/TheDevRev1",
+  "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX5-cTN7Em0rZNFcF10h5HpX",
+  "linkedin": "https://linkedin.com/company/devchat"
 }
