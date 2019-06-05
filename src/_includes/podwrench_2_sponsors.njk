@@ -3,6 +3,11 @@
     <span>Current Sponsors</span>
   </h3>
 
-  <a href="https://app.podwrench.com/podcasts/{{podcasts[ podcast ].slug}}/square_1"><img src="https://app.podwrench.com/podcasts/{{podcasts[ podcast ].slug}}/square_img_1"></a>
-  <a href="https://app.podwrench.com/podcasts/{{podcasts[ podcast ].slug}}/square_2"><img src="https://app.podwrench.com/podcasts/{{podcasts[ podcast ].slug}}/square_img_2"></a>
+  {% set ad_slug = podcasts[ podcast ].slug %}
+  {% if podcasts[ podcast ].podwrench_slug %}
+    {% set ad_slug = podcasts[ podcast ].podwrench_slug %}
+  {% endif %}
+
+  <a href="https://app.podwrench.com/podcasts/{{ad_slug}}/square_1"><img src="https://app.podwrench.com/podcasts/{{ad_slug}}/square_img_1"></a>
+  <a href="https://app.podwrench.com/podcasts/{{ad_slug}}/square_2"><img src="https://app.podwrench.com/podcasts/{{ad_slug}}/square_img_2"></a>
 </div>

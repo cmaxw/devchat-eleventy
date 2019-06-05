@@ -1,5 +1,12 @@
 {
-  "title": "The Freelancers Showy",
+  "title": "The Freelancers Show",
   "slug": "freelancers",
-  "artwork": "freelancers.jpg"
+  "artwork": "freelancers_500.jpg",
+  "podwrench_slug": "freelancers-show",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "color": "purple",
+  "facebook": "https://www.facebook.com/freelancersshow/",
+  "twitter": "https://twitter.com/freelancershow",
+  "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX6aV-VoCu_w2HepsvjTpaR1",
+  "linkedin": "https://linkedin.com/company/devchat"
 }

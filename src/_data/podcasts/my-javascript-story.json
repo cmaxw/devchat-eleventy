@@ -1,5 +1,11 @@
 {
   "title": "My JavaScript Story",
   "slug": "my-javascript-story",
-  "artwork": "MyJSStory.jpg"
+  "artwork": "MyJSStory.jpg",
+  "sponsor_layout": "podwrench_2_sponsors.njk",
+  "color": "red",
+  "facebook": "https://www.facebook.com/javascriptjabber/",
+  "twitter": "https://twitter.com/jsjabber",
+  "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX5-Kplc3Lwn73H-9q5xFeHh",
+  "linkedin": "https://linkedin.com/company/devchat"
 }

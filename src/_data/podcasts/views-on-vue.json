@@ -1,5 +1,10 @@
 {
   "title": "Views on Vue",
   "slug": "views-on-vue",
-  "artwork": "viewsonvue.jpg"
+  "artwork": "viewsonvue.jpg",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "color": "blue",
+  "facebook": "https://www.facebook.com/ViewsonVue/",
+  "twitter": "https://twitter.com/viewsonvue",
+  "linkedin": "https://linkedin.com/company/devchat"
 }

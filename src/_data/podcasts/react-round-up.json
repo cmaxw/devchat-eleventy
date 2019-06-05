@@ -1,5 +1,10 @@
 {
   "title": "React Round Up",
   "slug": "react-round-up",
-  "artwork": "reactroundup.jpg"
+  "artwork": "reactroundup.jpg",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "color": "blue",
+  "facebook": "https://www.facebook.com/React-Round-Up-297859274397129/",
+  "twitter": "https://twitter.com/reactroundup",
+  "linkedin": "https://linkedin.com/company/devchat"
 }

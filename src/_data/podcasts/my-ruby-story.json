@@ -1,5 +1,11 @@
 {
   "title": "My Ruby Story",
   "slug": "my-ruby-story",
-  "artwork": "MyRubyStory.jpg"
+  "artwork": "MyRubyStory.jpg",
+  "sponsor_layout": "podwrench_2_sponsors.njk",
+  "color": "red",
+  "facebook": "https://www.facebook.com/RubyRogues/",
+  "twitter": "https://twitter.com/rubyrogues",
+  "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX7IZAb5IUbi9dOXPbCZYqZi",
+  "linkedin": "https://linkedin.com/company/devchat"
 }

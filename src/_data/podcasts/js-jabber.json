@@ -1,5 +1,12 @@
 {
   "title": "JavaScript Jabber",
   "slug": "js-jabber",
-  "artwork": "js_jabber.jpg"
+  "artwork": "js_jabber.jpg",
+  "podwrench_slug": "javascript-jabber",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "color": "yellow",
+  "facebook": "https://www.facebook.com/javascriptjabber/",
+  "twitter": "https://twitter.com/jsjabber",
+  "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX4bg83Xuq_0QZs6MLSyklkq",
+  "linkedin": "https://linkedin.com/company/devchat"
 }

@@ -1,5 +1,12 @@
 {
   "title": "iPhreaks",
   "slug": "iphreaks",
-  "artwork": "iPhreaks.jpg"
+  "artwork": "iPhreaks.jpg",
+  "podwrench_slug": "iphreaks-show",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "color": "pink",
+  "facebook": "https://www.facebook.com/iphreaks/",
+  "twitter": "https://twitter.com/iphreaks",
+  "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX7FINCnlNQv4DAzbs2X-ml5",
+  "linkedin": "https://linkedin.com/company/devchat"
 }

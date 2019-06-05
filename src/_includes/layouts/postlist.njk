@@ -158,12 +158,7 @@ page_class: category-layout-5
         {% if podcast %}
           {% include podcasts[ podcast ].sponsor_layout %}
         {% else %}
-          <div class="widgets widget-banner">
-            <a href="#">
-              <img class="img-fluid" src="/images/banner/sidebar-banner4.jpg" alt="">
-            </a>
-          </div>
-          <!-- widgets end-->
+          {% include 'sitewide_sidebar_sponsors.njk' %}
         {% endif %}
 
           <div class="post-list-item widgets">

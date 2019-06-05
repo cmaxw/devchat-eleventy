@@ -1,5 +1,9 @@
 {
   "title": "React Native Radio",
   "slug": "react-native-radio",
-  "artwork": "react-native-radio.jpg"
+  "artwork": "react-native-radio.jpg",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "color": "orange",
+  "twitter": "https://twitter.com/R_N_Radio",
+  "linkedin": "https://linkedin.com/company/devchat"
 }

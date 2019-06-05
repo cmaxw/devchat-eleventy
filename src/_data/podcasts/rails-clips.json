@@ -1,5 +1,8 @@
 {
   "title": "Rails Clips",
   "slug": "rails-clips",
-  "artwork": "rails-clips.jpg"
+  "artwork": "rails-clips.jpg",
+  "sponsor_layout": "podwrench_2_sponsors.njk",
+  "color": "red",
+  "linkedin": "https://linkedin.com/company/devchat"
 }
