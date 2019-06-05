@@ -10,6 +10,7 @@ podcast: rails-clips
 tags:
   - rails_clips
   - podcast
+  - video
 ---
 
 This week we're going to go over to_xml with the same example we used for to_json.

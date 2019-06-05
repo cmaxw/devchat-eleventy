@@ -10,6 +10,7 @@ podcast: rails-clips
 tags:
   - rails_clips
   - podcast
+  - video
 ---
 
 This video goes over end-to-end testing of APIs when the setup is a little more involved or where Rack::Test won't work. Usually this requires deploying the API application to a server or heroku and setting up any services it depends on. Then we test the entire system front-to-back by making HTTP requests to the API endpoints using [faraday](https://github.com/lostisland/faraday). In this case, we're using [json-server](https://github.com/typicode/json-server)&nbsp;as an example API for testing. It requires that you have [Node.js](https://nodejs.org/) installed after which you can install json-server with npm.

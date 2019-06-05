@@ -10,6 +10,7 @@ podcast: rails-clips
 tags:
   - rails_clips
   - podcast
+  - video
 ---
 
 This episode shows how to set up HTTP Basic Authentication, how to modify it for multiple users, and how to hook it into Devise

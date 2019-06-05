@@ -10,6 +10,7 @@ podcast: rails-clips
 tags:
   - rails_clips
   - podcast
+  - video
 ---
 
 Before we get into how to build API's with Ruby on Rails, we're going to need an authentication engine. Devise is a simple way to get authentication set up in our applications. **Links and Resources:**

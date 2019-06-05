@@ -10,4 +10,5 @@ podcast: rails-clips
 tags:
   - rails_clips
   - podcast
+  - video
 ---

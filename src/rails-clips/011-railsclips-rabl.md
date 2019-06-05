@@ -10,6 +10,7 @@ podcast: rails-clips
 tags:
   - rails_clips
   - podcast
+  - video
 ---
 
 RABL is my favorite way to build views in Ruby on Rails. Here's a quick overview of how it's used. Better show notes are coming soon...
