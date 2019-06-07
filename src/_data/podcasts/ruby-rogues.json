@@ -3,10 +3,15 @@
   "slug": "ruby-rogues",
   "artwork": "ruby-rogues.jpg",
   "tag": "ruby_rogues",
+  "current": true,
   "sponsor_layout": "podwrench_3_sponsors.njk",
   "color": "red",
   "facebook": "https://www.facebook.com/RubyRogues/",
   "twitter": "https://twitter.com/rubyrogues",
   "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX7ZlZvJ7KZnyluVOVTSNHW1",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://itunes.apple.com/us/podcast/the-ruby-rogues/id1237406856?mt=2",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Idoonrhjc5dn32rhp3x5hebooum?t%3DThe_Ruby_Rogues%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16",
+  "stitcher": "https://www.stitcher.com/s?fid=176377&refid=stpr",
+  "rss": "https://feeds.feedwrench.com/RubyRoguesOnly.rss"
 }

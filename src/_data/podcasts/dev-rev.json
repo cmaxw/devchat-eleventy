@@ -2,11 +2,18 @@
   "title": "The Dev Rev",
   "slug": "dev-rev",
   "artwork": "devrev-500.jpg",
+  "tag": "dev_rev",
+  "current": true,
+  "drip_form": "685084676",
   "podwrench_slug": "the-dev-rev",
   "sponsor_layout": "sitewide_sidebar_sponsors.njk",
   "color": "blue",
   "facebook": "https://www.facebook.com/thedevrev/",
   "twitter": "https://twitter.com/TheDevRev1",
   "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX5-cTN7Em0rZNFcF10h5HpX",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://podcasts.apple.com/us/podcast/the-dev-rev-audio-only/id1455710211",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iewbqzlncci5wxytg5omiu4pz4m?t%3DThe_Dev_Rev_-_Audio_Only%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16",
+  "stitcher": "https://www.stitcher.com/s?fid=420395&refid=stpr",
+  "rss": "https://feeds.feedwrench.com/devrev.rss"
 }

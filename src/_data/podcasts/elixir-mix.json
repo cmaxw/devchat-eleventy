@@ -3,9 +3,15 @@
   "slug": "elixir-mix",
   "artwork": "elixirmix-500.jpg",
   "tag": "elixir_mix",
+  "current": true,
   "sponsor_layout": "podwrench_3_sponsors.njk",
+  "drip_form": "4406168",
   "color": "purple",
   "facebook": "https://www.facebook.com/Elixir-Mix-302533817267005/",
   "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX7ZlZvJ7KZnyluVOVTSNHW1",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://itunes.apple.com/us/podcast/react-round-up/id1364741140?mt=2",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Ibm5cfu6fr6okd2ugzgyt4adpq4?t%3DElixir_Mix%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16",
+  "rss": "https://feeds.feedwrench.com/elixirmix.rss",
+  "stitcher": "https://www.stitcher.com/s?fid=236151&refid=stpr"
 }

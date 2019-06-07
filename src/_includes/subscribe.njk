@@ -1,0 +1,67 @@
+{% if podcast %}
+<div class="widgets widgets-item">
+  <h3 class="widgets-title">
+    <span>Subscribe</span>
+  </h3>
+
+  <ul class="ts-block-social-list">
+    {% if podcasts[ podcast ]['itunes'] %}
+    <li class="ts-purple-bg">
+      <a href="{{podcasts[ podcast ]['itunes']}}">
+        <i class="fa fa-music"></i>
+        <b>iTunes</b>
+      </a>
+    </li>
+    {% endif %}
+    {% if podcasts[ podcast ]['google_play'] %}
+    <li class="ts-google-plus">
+      <a href="{{podcasts[ podcast ]['google_play']}}">
+        <i class="fa fa-google"></i>
+        <b>Google Play</b>
+      </a>
+    </li>
+    {% endif %}
+    {% if podcasts[ podcast ]['spotify'] %}
+    <li class="ts-green-bg">
+      <a href="{{podcasts[ podcast ]['spotify']}}">
+        <i class="fa fa-spotify"></i>
+        <b>Spotify</b>
+      </a>
+    </li>
+    {% endif %}
+    {% if podcasts[ podcast ]['stitcher'] %}
+    <li class="ts-google-plus">
+      <a href="{{podcasts[ podcast ]['stitcher']}}">
+        <i class="fa fa-star"></i>
+        <b>Stitcher</b>
+      </a>
+    </li>
+    {% endif %}
+    {% if podcasts[ podcast ]['rss'] %}
+    <li class="ts-orange-bg">
+      <a href="{{podcasts[ podcast ]['rss']}}">
+        <i class="fa fa-rss"></i>
+        <b>RSS</b>
+      </a>
+    </li>
+    {% endif %}
+  </ul>
+
+</div>
+<div class="widgets widgets-item">
+  <div class="ts-widget-newsletter">
+    <div class="newsletter-introtext">
+      <p>Get {{podcasts[podcast].title}} in your inbox</p>
+    </div>
+
+    <div class="newsletter-form">
+      {% set form_id = podcasts[podcast].drip_form %}
+      {% include 'drip_form.njk' %}
+    </div>
+  </div>
+</div>
+<!-- end-->
+
+{% else %}
+
+{% endif %}

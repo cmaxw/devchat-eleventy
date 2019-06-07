@@ -2,11 +2,18 @@
   "title": "The Freelancers Show",
   "slug": "freelancers",
   "artwork": "freelancers_500.jpg",
+  "tag": "freelancers",
+  "current": true,
   "podwrench_slug": "freelancers-show",
   "sponsor_layout": "podwrench_3_sponsors.njk",
+  "drip_form": "8930525",
   "color": "purple",
   "facebook": "https://www.facebook.com/freelancersshow/",
   "twitter": "https://twitter.com/freelancershow",
   "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX6aV-VoCu_w2HepsvjTpaR1",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://itunes.apple.com/us/podcast/the-freelancers-show/id715647197?mt=2",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Ip3ufivkbis2noqmzosulvzrcne?t%3DThe_Freelancers'_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16",
+  "rss": "http://feeds.feedwrench.com/TheFreelancersShow.rss",
+  "stitcher": "https://www.stitcher.com/s?fid=22612&refid=stpr"
 }

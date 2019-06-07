@@ -2,11 +2,19 @@
   "title": "JavaScript Jabber",
   "slug": "js-jabber",
   "artwork": "js_jabber.jpg",
+  "tag": "js_jabber",
+  "current": true,
   "podwrench_slug": "javascript-jabber",
   "sponsor_layout": "podwrench_3_sponsors.njk",
+  "drip_form": "3602938",
   "color": "yellow",
   "facebook": "https://www.facebook.com/javascriptjabber/",
   "twitter": "https://twitter.com/jsjabber",
   "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX4bg83Xuq_0QZs6MLSyklkq",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "spotify": "https://open.spotify.com/show/6xpiit8aJmwDHk1rKdxmri",
+  "itunes": "https://itunes.apple.com/us/podcast/javascript-jabber/id1237401284?mt=2",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https%3A%2F%2Fplay.google.com%2Fmusic%2Fm%2FIk57s77t4ya3qplw4ljs4xbrque",
+  "rss": "https://feeds.feedwrench.com/js-jabber.rss",
+  "stitcher": "https://www.stitcher.com/s?fid=176375&refid=stpr"
 }

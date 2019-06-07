@@ -3,8 +3,14 @@
   "slug": "react-round-up",
   "artwork": "reactroundup.jpg",
   "sponsor_layout": "podwrench_3_sponsors.njk",
+  "tag": "react_round_up",
+  "current": true,
   "color": "blue",
   "facebook": "https://www.facebook.com/React-Round-Up-297859274397129/",
   "twitter": "https://twitter.com/reactroundup",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://itunes.apple.com/us/podcast/react-round-up/id1364741140?mt=2",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https%3A%2F%2Fplay.google.com%2Fmusic%2Fm%2FIb2mmcjdi25ctqurvp4somic2ya",
+  "rss": "https://feeds.feedwrench.com/react-round-up.rss",
+  "stitcher": "https://www.stitcher.com/s?fid=219292&refid=stpr"
 }

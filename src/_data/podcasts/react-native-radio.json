@@ -2,8 +2,14 @@
   "title": "React Native Radio",
   "slug": "react-native-radio",
   "artwork": "react-native-radio.jpg",
+  "tag": "react_native_radio",
+  "current": true,
   "sponsor_layout": "podwrench_3_sponsors.njk",
   "color": "orange",
   "twitter": "https://twitter.com/R_N_Radio",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://itunes.apple.com/us/podcast/react-native-radio/id1058647602?mt=2",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Idnehqis4g5b7hus2e6vbp26isq?t%3DReact_Native_Radio%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16",
+  "rss": "https://feeds.feedwrench.com/react-native-radio.rss",
+  "stitcher": "https://www.stitcher.com/s?fid=89048&refid=stpr"
 }

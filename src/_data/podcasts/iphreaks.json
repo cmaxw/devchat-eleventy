@@ -2,11 +2,18 @@
   "title": "iPhreaks",
   "slug": "iphreaks",
   "artwork": "iPhreaks.jpg",
+  "tag": "iphreaks",
+  "current": true,
   "podwrench_slug": "iphreaks-show",
   "sponsor_layout": "podwrench_3_sponsors.njk",
+  "drip_form": "6133452",
   "color": "pink",
   "facebook": "https://www.facebook.com/iphreaks/",
   "twitter": "https://twitter.com/iphreaks",
   "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX7FINCnlNQv4DAzbs2X-ml5",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://itunes.apple.com/us/podcast/the-iphreaks-show/id634022060?mt=2",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Ibzp3ob4wcocb2fo7khkh6f2kwm?t%3DThe_iPhreaks_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16",
+  "stitcher": "https://www.stitcher.com/s?fid=52366&refid=stpr",
+  "rss": "https://feeds.feedwrench.com/iphreaks.rss"
 }

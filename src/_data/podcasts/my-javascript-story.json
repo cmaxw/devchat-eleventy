@@ -2,10 +2,16 @@
   "title": "My JavaScript Story",
   "slug": "my-javascript-story",
   "artwork": "MyJSStory.jpg",
+  "tag": "my_javascript_story",
+  "current": true,
   "sponsor_layout": "podwrench_2_sponsors.njk",
   "color": "red",
   "facebook": "https://www.facebook.com/javascriptjabber/",
   "twitter": "https://twitter.com/jsjabber",
   "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX5-Kplc3Lwn73H-9q5xFeHh",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://itunes.apple.com/us/podcast/my-javascript-story/id1237399540?mt=2",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https%3A%2F%2Fplay.google.com%2Fmusic%2Fm%2FIshuf7ohx7rxovmtb6cqpinpkmu",
+  "rss": "https://feeds.feedwrench.com/my-js-story.rss",
+  "stitcher": "https://www.stitcher.com/s?fid=176360&refid=stpr"
 }

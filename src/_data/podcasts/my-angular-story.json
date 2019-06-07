@@ -2,10 +2,17 @@
   "title": "My Angular Story",
   "slug": "my-angular-story",
   "artwork": "MyAngularStory.jpg",
+  "tag": "my_angular_story",
+  "current": true,
+  "drip_form": "475556559",
   "sponsor_layout": "podwrench_2_sponsors.njk",
   "color": "red",
   "facebook": "https://www.facebook.com/adventuresinangular/",
   "twitter": "https://twitter.com/angularpodcast",
   "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX5-Kplc3Lwn73H-9q5xFeHh",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://itunes.apple.com/us/podcast/my-angular-story/id1237403767?mt=2",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https%3A%2F%2Fplay.google.com%2Fmusic%2Fm%2FInjblvpf3vdlvglgkifguva575u",
+  "rss": "https://feeds.feedwrench.com/my-angular-story.rss",
+  "stitcher": "https://www.stitcher.com/s?fid=176356&refid=stpr"
 }

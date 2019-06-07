@@ -153,6 +153,8 @@ page_class: category-layout-5
       </div>
 
       <div class="col-lg-3">
+        {% include 'subscribe.njk' %}
+
         {% include 'social_links.njk' %}
 
         {% if podcast %}
@@ -240,23 +242,6 @@ page_class: category-layout-5
           </div>
           <!-- widgets end-->
 
-          <div class="widgets widgets-item">
-            <div class="ts-widget-newsletter">
-              <div class="newsletter-introtext">
-                <h4>Newsletter</h4>
-                <p>Subscribe to get the best stories into your inbox!</p>
-              </div>
-
-              <div class="newsletter-form">
-                <form action="#" method="post">
-                  <div class="form-group">
-                    <input type="email" name="email" id="newsletter-form-email" class="form-control form-control-lg" placeholder="E-mail" autocomplete="off">
-                    <button class="btn btn-primary">Subscribe</button>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>

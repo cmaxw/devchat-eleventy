@@ -2,9 +2,15 @@
   "title": "Views on Vue",
   "slug": "views-on-vue",
   "artwork": "viewsonvue.jpg",
+  "tag": "views_on_vue",
+  "current": true,
   "sponsor_layout": "podwrench_3_sponsors.njk",
   "color": "blue",
   "facebook": "https://www.facebook.com/ViewsonVue/",
   "twitter": "https://twitter.com/viewsonvue",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://itunes.apple.com/us/podcast/react-native-radio/id1058647602?mt=2",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https%3A%2F%2Fplay.google.com%2Fmusic%2Fm%2FI7wrdqu6537bg4la5gkmkg72gj4",
+  "rss": "https://feeds.feedwrench.com/views-on-vue.rss",
+  "stitcher": "https://www.stitcher.com/s?fid=236148&refid=stpr"
 }
