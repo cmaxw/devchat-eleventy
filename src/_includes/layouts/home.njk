@@ -55,15 +55,6 @@ date: 2000-01-01
 											<i class="fa fa-calendar-o"></i>
 											{{ podcast.date | date }}
 										</li>
-										<li class="author" style="margin-right: 0px; padding-right: 0px;">
-											<a href="#"><img src="/images/avater/author1.jpg" alt=""></a>
-										</li>
-										<li class="author" style="margin-right: 0px; padding-right: 0px;">
-											<a href="#"><img src="/images/avater/author1.jpg" alt=""></a>
-										</li>
-										<li class="author" style="margin-right: 0px; padding-right: 0px;"P>
-											<a href="#"><img src="/images/avater/author1.jpg" alt=""></a>
-										</li>
 										<li class="active">
 											<i class="fa fa-clock-o"></i>
 											{{podcast.data.duration}}
@@ -136,60 +127,7 @@ date: 2000-01-01
 			<div class="col-lg-3">
 				{% include 'social_links.njk' %}
 
-				<div class="widgets widgets-item posts-ad">
-					<a href="#">
-						<img class="img-fluid" src="/images/banner/sidebar-banner3.png" alt="">
-					</a>
-				</div>
-				<!-- widgets end-->
-				<div class="widgets ts-grid-item  widgets-populer-post">
-					<h3 class="widgets-title">
-						<span>Latest Post</span>
-					</h3>
-					<div class="ts-overlay-style">
-						<div class="item">
-							<div class="ts-post-thumb">
-								<a href="#">
-									<img class="img-fluid" src="/images/news/health/health2.jpg" alt="">
-								</a>
-							</div>
-							<div class="overlay-post-content">
-								<div class="post-content">
-									<h3 class="post-title">
-										<a href="#">Tourism in Dubai is boom international tourist</a>
-									</h3>
-									<ul class="post-meta-info">
-										<li>
-											<i class="fa fa-clock-o"></i>
-											March 21, 2019
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- ts-overlay-style  end-->
-
-					<div class="post-content media">
-						<img class="d-flex sidebar-img" src="/images/news/health/health8.jpg" alt="">
-						<div class="media-body align-self-center">
-							<h4 class="post-title">
-								<a href="">Beats did something today, after all </a>
-							</h4>
-						</div>
-					</div>
-					<!-- post content end-->
-					<div class="post-content media">
-						<img class="d-flex sidebar-img" src="/images/news/health/health3.jpg" alt="">
-						<div class="media-body align-self-center">
-							<h4 class="post-title">
-								<a href="">Tesla just lost its head of global finance </a>
-							</h4>
-						</div>
-					</div>
-					<!-- post content end-->
-				</div>
-				<!-- widgets end-->
+				{% include 'sitewide_sidebar_sponsors.njk' %}
 
 			</div>
 			<!-- col end-->
