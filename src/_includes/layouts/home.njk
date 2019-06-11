@@ -169,15 +169,7 @@ date: 2000-01-01
 								<h4>Newsletter</h4>
 								<p>Keep your skills current!</p>
 							</div>
-
-							<div class="newsletter-form">
-								<form action="#" method="post">
-									<div class="form-group">
-										<input type="email" name="email" id="newsletter-form-email" class="form-control form-control-lg" placeholder="E-mail" autocomplete="off">
-										<button class="btn btn-primary">Subscribe</button>
-									</div>
-								</form>
-							</div>
+							{% include 'drip_email.njk' %}
 						</div>
 					</div>
 					<!-- widgets end-->
