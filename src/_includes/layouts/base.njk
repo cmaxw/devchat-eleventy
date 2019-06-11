@@ -341,14 +341,21 @@ title: Devchat.tv - A Podcast for Every Programming Community
 
 					<div class="col-lg-6 align-self-center">
 						<div class="newsletter-form">
-							<form action="#" method="post" class="media align-items-end">
-								<div class="email-form-group media-body">
-									<i class="fa fa-paper-plane" aria-hidden="true"></i>
-									<input type="email" name="email" id="newsletter-form-email" class="form-control" placeholder="Enter Your Email" autocomplete="off">
-								</div>
-								<div class="d-flex ts-submit-btn">
-									<button class="btn btn-primary">Subscribe</button>
-								</div>
+							<form method="post" action="https://devchat.activehosted.com/proc.php" class="media align-items-end">
+								<input type="hidden" name="u" value="5" />
+								<input type="hidden" name="f" value="5" />
+								<input type="hidden" name="s" />
+								<input type="hidden" name="c" value="0" />
+								<input type="hidden" name="m" value="0" />
+								<input type="hidden" name="act" value="sub" />
+								<input type="hidden" name="v" value="2" />
+									<div class="email-form-group media-body">
+										<i class="fa fa-paper-plane" aria-hidden="true"></i>
+										<input type="email" name="email" id="newsletter-form-email" class="form-control" placeholder="Enter Your Email" autocomplete="off">
+									</div>
+									<div class="d-flex ts-submit-btn">
+										<button class="btn btn-primary">Subscribe</button>
+									</div>
 							</form>
 						</div>
 					</div>
