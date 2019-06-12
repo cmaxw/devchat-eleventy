@@ -1,0 +1,13 @@
+{
+  "title": "Teach Me To Code",
+  "slug": "teachmetocode",
+  "artwork": "teachmetocode.jpg",
+  "tag": "teachmetocode",
+  "current": true,
+  "sponsor_layout": "sitewide_sidebar_sponsors.njk",
+  "color": "green",
+  "facebook": "https://www.facebook.com/teachmetocode/",
+  "twitter": "https://twitter.com/teachmetocode",
+  "linkedin": "https://linkedin.com/company/devchat",
+  "rss": "https://feeds.feedwrench.com/TeachMeToCodePodcast.rss"
+}

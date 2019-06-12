@@ -1,0 +1,12 @@
+{
+  "title": "Web Security Warriors",
+  "slug": "web-sec-warriors",
+  "artwork": "websecwarriors.jpg",
+  "tag": "web_sec_warriors",
+  "current": false,
+  "sponsor_layout": "sitewide_sidebar_sponsors.njk",
+  "color": "blue",
+  "twitter": "https://twitter.com/websecwarriors",
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://podcasts.apple.com/us/podcast/web-security-warriors/id1030581051"
+}

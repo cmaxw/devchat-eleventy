@@ -1,0 +1,14 @@
+{
+  "title": "Teach Me To Code Screencasts",
+  "slug": "tmtc-screencasts",
+  "artwork": "teachmetocode.jpg",
+  "tag": "tmtc_screencasts",
+  "current": true,
+  "sponsor_layout": "sitewide_sidebar_sponsors.njk",
+  "color": "green",
+  "facebook": "https://www.facebook.com/teachmetocode/",
+  "twitter": "https://twitter.com/teachmetocode",
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://podcasts.apple.com/us/podcast/teach-me-to-code-screencasts/id346337520",
+  "rss": "https://feeds.feedwrench.com/TeachMeToCodeScreencasts.rss"
+}
