@@ -160,345 +160,95 @@ layout: layouts/base.njk
 				</div>
 				<!-- col end -->
 				<div class="col-lg-3">
-					<div class="right-sidebar">
-						<div class="ts-grid-box widgets social-widget">
-							<h2 class="widget-title">Follow us</h2>
-							<ul class="ts-social-list">
-								<li class="ts-facebook">
-									<a href="#">
-										<i class="fa fa-facebook"></i>
-										<b>12.5 k </b>
-										<span>Likes</span>
-									</a>
+        {% include 'subscribe.njk' %}
 
-								</li>
-								<li class="ts-google-plus">
-									<a href="#">
-										<i class="fa fa-google-plus"></i>
-									</a>
-									<b>12.5 k </b>
-									<span>Follwers</span>
-								</li>
-								<li class="ts-twitter">
-									<a href="#">
-										<i class="fa fa-twitter"></i>
-									</a>
-									<b>12.5 k </b>
-									<span>Follwers</span>
-								</li>
-								<li class="ts-pinterest">
-									<a href="#">
-										<i class="fa fa-pinterest-p"></i>
-									</a>
-									<b>12.5 k </b>
-									<span>Photos</span>
-								</li>
-								<li class="ts-linkedin">
-									<a href="#">
-										<i class="fa fa-linkedin"></i>
-									</a>
-									<b>12.5 k </b>
-									<span>Follwers</span>
-								</li>
-								<li class="ts-youtube">
-									<a href="#">
-										<i class="fa fa-youtube"></i>
-									</a>
-									<b>12.5 k </b>
-									<span>Follwers</span>
-								</li>
-							</ul>
-						</div>
-						<!-- widgets end-->
+        {% include 'social_links.njk' %}
 
-						<div class="widgets widget-banner">
-							<a href="#">
-								<img class="img-fluid" src="/images/banner/sidebar-banner2.jpg" alt="">
-							</a>
-						</div>
-						<!-- widgets end-->
-						<div class="post-list-item widgets">
-							<!-- Nav tabs -->
-							<ul class="nav nav-tabs" role="tablist">
-								<li role="presentation">
-									<a class="active" href="#home" aria-controls="home" role="tab" data-toggle="tab">
-										<i class="fa fa-clock-o"></i>
-										Recent
-									</a>
-								</li>
-								<li role="presentation">
-									<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
-										<i class="fa fa-heart"></i>
-										Favorites
-									</a>
-								</li>
-							</ul>
+        {% if podcast %}
+          {% include podcasts[ podcast ].sponsor_layout %}
+        {% else %}
+          {% include 'sitewide_sidebar_sponsors.njk' %}
+        {% endif %}
 
-							<!-- Tab panes -->
-							<div class="tab-content">
-								<div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
-									<div class="post-content media">
-										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
-										<div class="media-body">
-											<span class="post-tag">
-												<a href="#" class="green-color"> sports</a>
-											</span>
-											<h4 class="post-title">
-												<a href="">The body is a healing system. </a>
-											</h4>
-										</div>
-									</div>
-									<!--post-content end-->
-									<div class="post-content media ">
-										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
-										<div class="media-body">
-											<span class="post-tag">
-												<a href="#" class="yellow-color"> Technology</a>
-											</span>
-											<h4 class="post-title">
-												<a href="">18 month old shoots himself by gun </a>
-											</h4>
-										</div>
-									</div>
-									<!--post-content end-->
-									<div class="post-content media">
-										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
-										<div class="media-body">
-											<span class="post-tag">
-												<a href="#" class="blue-color"> Sports</a>
-											</span>
-											<h4 class="post-title">
-												<a href="">The body is a healing system. </a>
-											</h4>
-										</div>
-									</div>
-									<!--post-content end-->
-									<div class="post-content media">
-										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
-										<div class="media-body">
-											<span class="post-tag">
-												<a href="#" class="pink-color"> Fashion</a>
-											</span>
-											<h4 class="post-title">
-												<a href="">18 month old shoots himself by gun </a>
-											</h4>
-										</div>
-									</div>
-									<!--post-content end-->
-									<div class="post-content  media">
-										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
-										<div class="media-body">
-											<span class="post-tag">
-												<a href="#" class="yellow-color"> Travel</a>
-											</span>
-											<h4 class="post-title">
-												<a href="">The body is a healing system. </a>
-											</h4>
-										</div>
-									</div>
-									<!--post-content end-->
+          <div class="post-list-item widgets">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs" role="tablist">
+              <li role="presentation">
+                <a class="active" href="#home" aria-controls="home" role="tab" data-toggle="tab">
+                  <i class="fa fa-clock-o"></i>
+                  Recent
+                </a>
+              </li>
+              <li role="presentation">
+                <a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
+                  <i class="fa fa-heart"></i>
+                  Favorites
+                </a>
+              </li>
+            </ul>
 
-								</div>
-								<!--ts-grid-box end -->
+            <!-- Tab panes -->
+            <div class="tab-content">
+              <div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
+                {% for post in collections.all | head(-5) | reverse %}
+                <div class="post-content media">
+                  <img class="d-flex sidebar-img" src="{{post.data.image}}" alt="">
+                  <div class="media-body">
+                    <span class="post-tag">
+                      {% set postColor = "pink" %}
+                      {% set postParent = "blog" %}
+                      {% set show = "Blog" %}
+                      {% if post.data.podcast %}
+                        {% set podcast = podcasts[ post.data.podcast ] %}
+                        {% set postColor = podcast.color %}
+                        {% set postParent = podcast.title %}
+                        {% set show = podcast.title %}
+                      {% endif %}
+                      
+                      <a href="/{{postParent}}" class="{{postColor}}-color"> {{show}}</a>
+                    </span>
+                    <h4 class="post-title">
+                      <a href="{{post.url | url}}">{{post.data.title}} </a>
+                    </h4>
+                  </div>
+                </div>
+                <!--post-content end-->
+                {% endfor %}
+              </div>
+              <!--ts-grid-box end -->
 
-								<div role="tabpanel" class="tab-pane ts-grid-box post-tab-list" id="profile">
-									<div class="post-content media">
-										<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
-										<div class="media-body">
-											<span class="post-tag">
-												<a href="#" class="green-color"> sports</a>
-											</span>
-											<h4 class="post-title">
-												<a href="">18 month old shoots himself by gun </a>
-											</h4>
-										</div>
-									</div>
-									<!--post-content end-->
-									<div class="post-content media ">
-										<img class="d-flex sidebar-img" src="/images/news/tech/tech4.jpg" alt="">
-										<div class="media-body">
-											<span class="post-tag">
-												<a href="#" class="yellow-color"> Technology</a>
-											</span>
-											<h4 class="post-title">
-												<a href="">The body is a healing system. </a>
-											</h4>
-										</div>
-									</div>
-									<!--post-content end-->
-									<div class="post-content media">
-										<img class="d-flex sidebar-img" src="/images/news/sports/sports1.jpg" alt="">
-										<div class="media-body">
-											<span class="post-tag">
-												<a href="#" class="blue-color"> Sports</a>
-											</span>
-											<h4 class="post-title">
-												<a href="">18 month old shoots himself by gun </a>
-											</h4>
-										</div>
-									</div>
-									<!--post-content end-->
-									<div class="post-content media">
-										<img class="d-flex sidebar-img" src="/images/news/fashion/fashion4.jpg" alt="">
-										<div class="media-body">
-											<span class="post-tag">
-												<a href="#" class="pink-color"> Fashion</a>
-											</span>
-											<h4 class="post-title">
-												<a href="">The body is a healing system. </a>
-											</h4>
-										</div>
-									</div>
-									<!--post-content end-->
-									<div class="post-content  media">
-										<img class="d-flex sidebar-img" src="/images/news/travel/travel6.jpg" alt="">
-										<div class="media-body">
-											<span class="post-tag">
-												<a href="#" class="yellow-color"> Travel</a>
-											</span>
-											<h4 class="post-title">
-												<a href="">18 month old shoots himself by gun </a>
-											</h4>
-										</div>
-									</div>
-									<!--post-content end-->
-								</div>
-								<!--ts-grid-box end -->
-							</div>
-							<!-- tab content end-->
-						</div>
-						<!-- widgets end-->
-
-						<div class="ts-grid-box widgets category-widget">
-							<h2 class="widget-title">Categories</h2>
-							<ul class="category-list">
-								<li>
-									<a href="#">Travel
-										<span class="ts-orange-bg">10</span>
-									</a>
-								</li>
-								<li>
-									<a href="#">Sports
-										<span class="ts-green-bg">25</span>
-									</a>
-								</li>
-								<li>
-									<a href="#">Travel
-										<span class="ts-orange-bg">10</span>
-									</a>
-								</li>
-								<li>
-									<a href="#">Fashion
-										<span class="ts-pink-bg">10</span>
-									</a>
-								</li>
-								<li>
-									<a href="#">Technology
-										<span class="ts-blue-bg">10</span>
-									</a>
-								</li>
-								<li>
-									<a href="#">Music
-										<span class="ts-pink-bg">10</span>
-									</a>
-								</li>
-								<li>
-									<a href="#">Food
-										<span class="ts-yellow-bg">10</span>
-									</a>
-								</li>
-							</ul>
-						</div>
-						<!-- widgets end-->
-
-						<div class="widgets ts-grid-box post-tab-list ts-col-box">
-							<h3 class="widget-title">Populer Post</h3>
-							<div class="ts-overlay-style">
-								<div class="item">
-									<div class="ts-post-thumb">
-										<a href="#">
-											<img class="img-fluid" src="/images/news/tech/tech3.jpg" alt="">
-										</a>
-									</div>
-									<div class="overlay-post-content">
-										<div class="post-content">
-											<h3 class="post-title">
-												<a href="#">Tourism in Dubai is boom international tourist</a>
-											</h3>
-											<ul class="post-meta-info">
-												<li>
-													<i class="fa fa-clock-o"></i>
-													March 21, 2019
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- ts-overlay-style  end-->
-
-							<div class="post-content media">
-								<img class="d-flex sidebar-img" src="/images/news/sports/sports2.jpg" alt="">
-								<div class="media-body align-self-center">
-									<h4 class="post-title">
-										<a href="">18 month shoots himself by gun </a>
-									</h4>
-								</div>
-							</div>
-							<!-- post content end-->
-							<div class="post-content media">
-								<img class="d-flex sidebar-img" src="/images/news/tech/tech2.jpg" alt="">
-								<div class="media-body align-self-center">
-									<h4 class="post-title">
-										<a href="">The body is a healing system. </a>
-									</h4>
-								</div>
-							</div>
-							<!-- post content end-->
-
-						</div>
-
-						<div class="ts-grid-box widgets tag-list">
-							<h3 class="widget-title">Tags</h3>
-							<ul>
-								<li>
-									<a href="#">Tech</a>
-								</li>
-								<li>
-									<a href="#">Fashion</a>
-								</li>
-								<li>
-									<a href="#">Sports</a>
-								</li>
-								<li>
-									<a href="#">Football</a>
-								</li>
-								<li>
-									<a href="#">Styles</a>
-								</li>
-								<li>
-									<a href="#">Rech</a>
-								</li>
-								<li>
-									<a href="#">Lifestyle</a>
-								</li>
-								<li>
-									<a href="#">Technology</a>
-								</li>
-								<li>
-									<a href="#">Guide</a>
-								</li>
-								<li>
-									<a href="#">Food</a>
-								</li>
-								<li>
-									<a href="#">Animal</a>
-								</li>
-							</ul>
-						</div>
-					</div>
+              <div role="tabpanel" class="tab-pane ts-grid-box post-tab-list" id="profile">
+                {% for post in collections.popular | head(-5) %}
+                <div class="post-content media">
+                  <img class="d-flex sidebar-img" src="{{post.data.image}}" alt="">
+                  <div class="media-body">
+                    <span class="post-tag">
+                      {% set postColor = "pink" %}
+                      {% set postParent = "blog" %}
+                      {% set show = "Blog" %}
+                      {% if post.data.podcast %}
+                        {% set podcast = podcasts[ post.data.podcast ] %}
+                        {% set postColor = podcast.color %}
+                        {% set postParent = podcast.title %}
+                        {% set show = podcast.title %}
+                      {% endif %}
+                      
+                      <a href="/{{postParent}}" class="{{postColor}}-color"> {{show}}</a>
+                    </span>
+                    <h4 class="post-title">
+                      <a href="{{ post.url | url }}">{{post.data.title}}</a>
+                    </h4>
+                  </div>
+                </div>
+                <!--post-content end-->
+                {% endfor %}
+              </div>
+              <!--ts-grid-box end -->
+            </div>
+            <!-- tab content end-->
+          </div>
+          <!-- widgets end-->
 				</div>
-				<!-- right sidebar end-->
 				<!-- col end-->
 			</div>
 			<!-- row end-->
