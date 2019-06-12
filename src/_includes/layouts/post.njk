@@ -36,12 +36,12 @@ layout: layouts/base.njk
 								{% if author %}
 								<li class="author">
 									<a href="#">
-										<img src="/images/avater/author.png" alt=""> {{ author }}
+										<img src="/images/authors/{{authors[author].photo}}" alt=""> {{ authors[author].name }}
 									</a>
 								</li>
 								{% endif %}
 								<li>
-									<i class="fa fa-clock-o"></i>
+									<i class="fa fa-calendar-o"></i>
 									{{ date | date }}
 								</li>
 								<li class="share-post">
@@ -83,26 +83,33 @@ layout: layouts/base.njk
 						{% if author %}
 						<!-- post content area-->
 						<div class="author-box">
-							<img class="author-img" src="/images/avater/author.png" alt="">
+							<img class="author-img" src="/images/authors/{{authors[author].photo}}" alt="">
 							<div class="author-info">
-								<h4 class="author-name">Elina Themen</h4>
+								<h4 class="author-name">{{authors[author].name}}</h4>
 								<div class="authors-social">
-									<a href="#" class="ts-twitter">
+									{% if authors[author].twitter %}
+									<a href="{{authors[author].twitter}}" class="ts-twitter">
 										<i class="fa fa-twitter"></i>
 									</a>
-									<a href="#" class="ts-facebook">
+									{% endif %}
+									{% if authors[author].facebook %}
+									<a href="{{authors[author].facebook}}" class="ts-facebook">
 										<i class="fa fa-facebook"></i>
 									</a>
-									<a href="#" class="ts-google-plus">
-										<i class="fa fa-google-plus"></i>
+									{% endif %}
+									{% if authors[author].instagram %}
+									<a href="{{authors[author].instagram}}" class="ts-google-plus">
+										<i class="fa fa-instagram"></i>
 									</a>
-									<a href="#" class="ts-linkedin">
+									{% endif %}
+									{% if authors[author].linkedin %}
+									<a href="{{authors[author].linkedin}}" class="ts-linkedin">
 										<i class="fa fa-linkedin"></i>
 									</a>
+									{% endif %}
 								</div>
 								<div class="clearfix"></div>
-								<p>Black farmers in the US’s South—faced with continued failure in their efforts to run for the successful farms their
-									launched </p>
+								<p>{{authors[author].bio}}</p>
 
 							</div>
 						</div>
