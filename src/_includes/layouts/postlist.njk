@@ -50,8 +50,7 @@ page_class: category-layout-5
       <div class="col-lg-9">
         {% if tag %}
         {% set taggedposts = collections[tag] | reverse %}
-        {% endif %}
-        {% if podcast %}
+        {% else %}
         {% set taggedposts = pagination.items %}
         {% endif %}
         {%- for item in taggedposts -%}
@@ -62,7 +61,11 @@ page_class: category-layout-5
             <div class="ts-overlay-style">
               <div class="item">
                 <div class="ts-post-thumb">
+                  {% if podcast %}
                   <a class="post-cat ts-orange-bg" href="/{{item.data.podcast}}">{{podcasts[item.data.podcast].title}}</a>
+                  {% else %}
+                  <a class="post-cat ts-orange-bg" href="/blog">Blog</a>
+                  {% endif %}
                   <a href="{{item.url | url}}">
                     <img class="img-fluid" src="{{item.data.image}}" alt="">
                   </a>
@@ -75,7 +78,7 @@ page_class: category-layout-5
                     </h3>
                     <ul class="post-meta-info">
                       <li>
-                        <i class="fa fa-clock-o"></i>
+                        <i class="fa fa-calendar-o"></i>
                         {{item.data.date | date}}
                       </li>
                     </ul>
