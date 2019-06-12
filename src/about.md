@@ -6,7 +6,6 @@ date: 2016-05-03 19:15:46
 episode_number:
 duration:
 audio_url:
-podcast: page
 tags:
   - page
 ---
