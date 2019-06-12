@@ -56,7 +56,23 @@ layout: layouts/base.njk
 								{% if youtube_video_id %}
 									{{ youtube_video_id | embed_youtube | safe}}
 								{% else %}
-									<img src="{{ image }}" class="img-fluid" alt="">
+									{% if audio_url %}
+										<div class="pcast-player">
+											<div class="pcast-player-controls">
+												<button class="pcast-play"><i class="fa fa-play"></i><span>Play</span></button>
+												<button class="pcast-pause"><i class="fa fa-pause"></i><span>Pause</span></button>
+												<button class="pcast-rewind"><i class="fa fa-fast-backward"></i><span>Rewind</span></button>
+												<span class="pcast-currenttime pcast-time">00:00</span>
+												<progress class="pcast-progress" value="0"></progress>
+												<span class="pcast-duration pcast-time">{{duration}}</span>
+												<button class="pcast-speed">1x</button>
+												<button class="pcast-mute"><i class="fa fa-volume-up"></i><span>Mute/Unmute</span></button>
+											</div>
+											<audio src="{{audio_url}}"></audio><a class="pcast-download" href="{{audio_url}}" download>Download MP3</a>
+										</div>
+									{% else %}
+										<img src="{{ image }}" class="img-fluid" alt="">
+									{% endif %}
 								{% endif %}
 							</div>
 							<div class="entry-content">

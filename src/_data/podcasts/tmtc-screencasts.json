@@ -3,7 +3,7 @@
   "slug": "tmtc-screencasts",
   "artwork": "teachmetocode.jpg",
   "tag": "tmtc_screencasts",
-  "current": true,
+  "current": false,
   "sponsor_layout": "sitewide_sidebar_sponsors.njk",
   "color": "green",
   "facebook": "https://www.facebook.com/teachmetocode/",

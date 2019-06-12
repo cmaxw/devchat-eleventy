@@ -22,6 +22,9 @@ module.exports = function(eleventyConfig) {
     return '<iframe width="825" height="550" src="https://www.youtube.com/embed/' + key + '" frameborder="0" allowfullscreen></iframe><br/>';
   });
 
+  eleventyConfig.addNunjucksFilter("strip", function(value) { return value.trim() });
+
+
   eleventyConfig.addFilter('range', (array, m, n) => {
     if (n < 0) {
       return array.slice(n);

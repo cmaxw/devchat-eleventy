@@ -3,7 +3,7 @@
   "slug": "teachmetocode",
   "artwork": "teachmetocode.jpg",
   "tag": "teachmetocode",
-  "current": true,
+  "current": false,
   "sponsor_layout": "sitewide_sidebar_sponsors.njk",
   "color": "green",
   "facebook": "https://www.facebook.com/teachmetocode/",

@@ -2,7 +2,8 @@
   "title": "Rails Clips",
   "slug": "rails-clips",
   "artwork": "rails-clips.jpg",
-  "sponsor_layout": "podwrench_2_sponsors.njk",
+  "current": false,
+  "sponsor_layout": "sitewide_sidebar_sponsors.njk",
   "tag": "rails_clips",
   "color": "red",
   "linkedin": "https://linkedin.com/company/devchat"
