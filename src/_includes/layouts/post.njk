@@ -40,10 +40,13 @@ layout: layouts/base.njk
 									</a>
 								</li>
 								{% endif %}
+								{% if hide_date %}
+								{% else %}
 								<li>
 									<i class="fa fa-calendar-o"></i>
 									{{ date | date }}
 								</li>
+								{% endif %}
 								<li class="share-post">
 									<br>
 									<h4>Share this post</h4>

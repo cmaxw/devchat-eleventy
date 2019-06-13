@@ -172,12 +172,12 @@ title: Devchat.tv - A Podcast for Every Programming Community
 
 								<!-- nav menu start-->
 								<ul class="nav-menu">
-									<li class="active">
+									<li {% if podcast %}class="active"{% endif %}>
 										<a href="#">Podcasts</a>
 										<div class="megamenu-panel ts-mega-menu">
 											<div class="megamenu-lists">
 												<ul class="megamenu-list list-col-2">
-													<li class="active">
+													<li>
 														<a href="/js-jabber">JavaScript Jabber</a>
 													</li>
 													<li>
@@ -237,21 +237,19 @@ title: Devchat.tv - A Podcast for Every Programming Community
 											</div>
 										</div>
 									</li>
-									<li>
+									<li {% if author or (page.url == '/blog/') %}class="active"{% endif %}>
 										<a href="/blog">Blog</a>
 									</li>
-									<li>
+									<li {% if page.url == '/about/' %}class="active"{% endif %}>
 										<a href="/about">About</a>
 									</li>
-									<li>
+									<li {% if page.url == '/support/' %}class="active"{% endif %}>
 										<a href="/support">Support the Podcasts</a>
-										</ul>
 									</li>
-									<li>
+									<li{% if page.url == '/sponsor/' %}class="active"{% endif %}>
 										<a href="/sponsor">Sponsor</a>
-										</ul>
 									</li>
-									<li>
+									<li {% if page.url == '/subscribe/' %}class="active"{% endif %}>
 										<a href="/subscribe">
 											<i class="fa fa-rss"></i> Subscribe
 										</a>
@@ -267,7 +265,7 @@ title: Devchat.tv - A Podcast for Every Programming Community
 		</header>
 		<!-- header nav end-->
 
-        {{ content | safe }}
+    {{ content | safe }}
 
         
 		<!-- footer social list start-->

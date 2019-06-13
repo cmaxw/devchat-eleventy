@@ -2,11 +2,11 @@
 layout: layouts/post.njk
 title: >
   Subscribe
-date: 2018-11-21 02:03:37
+date: 2000-01-01
 episode_number:
 duration:
 audio_url:
-podcast: page
+hide_date: true
 tags:
   - page
 ---
