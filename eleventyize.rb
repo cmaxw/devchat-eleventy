@@ -3,7 +3,7 @@ require 'date'
 require 'fileutils'
 require 'reverse_markdown'
 
-doc = File.open('devchattv.wordpress.xml') do |f|
+doc = File.open('devchattv.Wordpress.xml') do |f|
   Nokogiri::XML(f)
 end
 
