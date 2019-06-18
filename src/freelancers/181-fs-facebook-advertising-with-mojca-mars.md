@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out and get your tickets for [Freelancer Remote Conf](http://freelanceremoteconf.com/)!
+Check out and get your tickets for [Freelancer Remote Conf](https://freelanceremoteconf.com/)!
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Check out and get your tickets for [Freelancer Remote Conf](http://freelanceremo
 
 - [Twitter](https://twitter.com/mojcamars)
 - [Facebook](https://www.facebook.com/mojca.mars)
-- [Super Spicy Media](http://superspicymedia.com/)
+- [Super Spicy Media](https://superspicymedia.com/)
 - [Facebook Ads Manual: Everything you need to know to get started by Mojca Mars](https://gumroad.com/l/facebook-ads)
 
 04:02 - As freelancers, why do (should) we care about [Facebook](https://www.facebook.com/)?
@@ -55,7 +55,7 @@ Check out and get your tickets for [Freelancer Remote Conf](http://freelanceremo
 
 42:30 - Experimentation and TestingPicks
 
-[CodeMonkey](http://PlayCodeMonkey.com) (Reuven)[Sriracha Ketchup](http://www.roosterketchup.com/) (Jonathan)[The Independent Consulting Manual: An Insider’s Guide to Building Six-Figure Solo Consultancies](http://independentconsultingmanual.com/) (Philip)[All Remote Confs](https://allremoteconfs.com/) (Chuck)[Freelancer Remote Conf](http://freelanceremoteconf.com/) (Chuck)[Clash of Clans](http://supercell.com/en/games/clashofclans/) (Chuck)[The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg](http://www.amazon.com/gp/product/081298160X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298160X&linkCode=as2&tag=devchattv-20&linkId=SBHKY7N2TS4QQW67) (Mojca)[Spark](https://readdle.com/products/spark) (Mojca)[Staples Easy Button](http://www.staples.com/Staples-Easy-Button/product_606396) (Mojca)[Dinosaur Onesie](http://www.amazon.co.uk/Onesies-Nightwear-Costumes-Halloween-Dinosaur/dp/B00VJVDY6G/ref=sr_1_1?ie=UTF8&qid=1448898224&sr=8-1&keywords=dinosaur+onesie) (Mojca)
+[CodeMonkey](https://PlayCodeMonkey.com) (Reuven)[Sriracha Ketchup](https://www.roosterketchup.com/) (Jonathan)[The Independent Consulting Manual: An Insider’s Guide to Building Six-Figure Solo Consultancies](https://independentconsultingmanual.com/) (Philip)[All Remote Confs](https://allremoteconfs.com/) (Chuck)[Freelancer Remote Conf](https://freelanceremoteconf.com/) (Chuck)[Clash of Clans](https://supercell.com/en/games/clashofclans/) (Chuck)[The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg](https://www.amazon.com/gp/product/081298160X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298160X&linkCode=as2&tag=devchattv-20&linkId=SBHKY7N2TS4QQW67) (Mojca)[Spark](https://readdle.com/products/spark) (Mojca)[Staples Easy Button](https://www.staples.com/Staples-Easy-Button/product_606396) (Mojca)[Dinosaur Onesie](https://www.amazon.co.uk/Onesies-Nightwear-Costumes-Halloween-Dinosaur/dp/B00VJVDY6G/ref=sr_1_1?ie=UTF8&qid=1448898224&sr=8-1&keywords=dinosaur+onesie) (Mojca)
 
 ### Transcript
 

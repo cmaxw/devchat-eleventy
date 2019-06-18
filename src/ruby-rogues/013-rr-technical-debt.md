@@ -19,7 +19,7 @@ tags:
   - Everything pretty much devolves down to time
   - Deferring for lack of expertise
 - Shorten time to market by trading time.
-- [Lean Startup](http://theleanstartup.com/)
+- [Lean Startup](https://theleanstartup.com/)
 - What’s the right solution? Fix your code? or rewrite your code?
 - Quantify the cost of your technical debt - Josh gave an example.
 - Sources of Technical Debt:
@@ -46,7 +46,7 @@ tags:
 - How do you avoid technical debt?
   - Good abstractions
   - Good refactoring
-  - [Refactoring](http://www.amazon.com/gp/product/0201485672/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0201485672) ![](http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0201485672&camp=217145&creative=399369) (by Martin Fowler)
+  - [Refactoring](https://www.amazon.com/gp/product/0201485672/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0201485672) ![](https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0201485672&camp=217145&creative=399369) (by Martin Fowler)
 - Declaring Bankruptcy - Folding up the project? Restarting/rewriting?
 
 ### Transcript

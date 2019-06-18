@@ -5,7 +5,7 @@ title: >
 date: 2016-06-16 07:00:05
 episode_number: 157
 duration: 40:37
-audio_url: http://media.devchat.tv/iphreaks/iPS157AzureAppServices.mp3
+audio_url: https://media.devchat.tv/iphreaks/iPS157AzureAppServices.mp3
 podcast: iphreaks
 tags:
   - iphreaks
@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/mattchenderson)
 - [GitHub](https://github.com/mattchenderson)
-- [Blog](http://www.acupofcode.com/)
+- [Blog](https://www.acupofcode.com/)
   03:04 - [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/)
 - [Parse](https://parse.com/)
   04:27 - Cross-platform Options05:05 - Getting Started07:13 - APIs09:34 - [Azure Mobile App Engagement](https://azure.microsoft.com/en-us/services/mobile-engagement/)11:51 - [HockeyApp](https://www.hockeyapp.net/features) and [Xamarin](https://www.xamarin.com/)
@@ -25,8 +25,8 @@ tags:
 - [tryappservice.azure.com](https://tryappservice.azure.com/)
   &nbsp;Picks
 - [ThisCouldBeUsButYouPlaying](https://github.com/neonichu/ThisCouldBeUsButYouPlaying) (Andrew)
-- [Tosh's Ramen](http://www.toshsramen.com) (Chuck)
-- [Fully Alive: Lighten Up and Live - A Journey that Will Change Your Life by Ken Davis](http://www.amazon.com/Fully-Alive-Lighten-Journey-Change/dp/0849948428?ie=UTF8&keywords=fully%20alive&qid=1465496207&ref_=sr_1_3&sr=8-3) (Chuck)
+- [Tosh's Ramen](https://www.toshsramen.com) (Chuck)
+- [Fully Alive: Lighten Up and Live - A Journey that Will Change Your Life by Ken Davis](https://www.amazon.com/Fully-Alive-Lighten-Journey-Change/dp/0849948428?ie=UTF8&keywords=fully%20alive&qid=1465496207&ref_=sr_1_3&sr=8-3) (Chuck)
 - [Fitbit One](https://www.fitbit.com/one) (Chuck)
 - [Hamilton Soundtrack](https://www.amazon.com/Hamilton-Original-Broadway-Recording-Explicit/dp/B0135P6PZA) (Matt)
 

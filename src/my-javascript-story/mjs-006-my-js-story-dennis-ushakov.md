@@ -34,10 +34,10 @@ Learn more about Dennis Ushakov&nbsp;by connecting with him&nbsp;and see what he
 
 ## Picks:
 
-Dennis: [Jet Vocals&nbsp;singing Carol of the Bells](https://www.youtube.com/watch?v=sCyFgjFScYo)Charles: [Chromebook](https://www.google.com/chromebook/) and [TP-Link Powerline Adapters](http://www.tp-link.com/ph/products/list-18.html)
+Dennis: [Jet Vocals&nbsp;singing Carol of the Bells](https://www.youtube.com/watch?v=sCyFgjFScYo)Charles: [Chromebook](https://www.google.com/chromebook/) and [TP-Link Powerline Adapters](https://www.tp-link.com/ph/products/list-18.html)
 
 ## Links:
 
-[JetBrains.com](http://www.jetbrains.com/)
+[JetBrains.com](https://www.jetbrains.com/)
 
 ### Transcript

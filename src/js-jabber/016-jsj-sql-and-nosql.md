@@ -14,59 +14,59 @@ tags:
 
 ### Panel
 
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
 
 ### Discussion
 
-- [MySQL](http://www.mysql.com/)
-- [MSSQL](http://www.microsoft.com/sqlserver/en/us/default.aspx)
-- [Oracle](http://www.oracle.com/us/products/database/overview/index.html)
-- [SQLite](http://www.sqlite.org/)
-- [Redis](http://redis.io/)
-- [CouchDB](http://couchdb.apache.org/)
-- [MongoDB](http://www.mongodb.org/)
-- [PostgreSQL](http://www.postgresql.org/)
-- [Josh Berkus - Interview](http://teachmetocode.com/podcast/tmtc-66-josh-berkus-postgresql-core-team/)
-- [Cassandra](http://cassandra.apache.org/)
-- [HBase](http://hbase.apache.org/)
-- [BigData](http://www.systap.com/bigdata.htm)
-- [Project Voldemort](http://project-voldemort.com/)
+- [MySQL](https://www.mysql.com/)
+- [MSSQL](https://www.microsoft.com/sqlserver/en/us/default.aspx)
+- [Oracle](https://www.oracle.com/us/products/database/overview/index.html)
+- [SQLite](https://www.sqlite.org/)
+- [Redis](https://redis.io/)
+- [CouchDB](https://couchdb.apache.org/)
+- [MongoDB](https://www.mongodb.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Josh Berkus - Interview](https://teachmetocode.com/podcast/tmtc-66-josh-berkus-postgresql-core-team/)
+- [Cassandra](https://cassandra.apache.org/)
+- [HBase](https://hbase.apache.org/)
+- [BigData](https://www.systap.com/bigdata.htm)
+- [Project Voldemort](https://project-voldemort.com/)
 - Object types are nice with schemaless databases
-- [Raspberry Pi](http://www.raspberrypi.org/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
 - Key-Value Stores
-- [Memcached](http://memcached.org/)
-- [Tokyo Cabinet](http://fallabs.com/tokyocabinet/)
+- [Memcached](https://memcached.org/)
+- [Tokyo Cabinet](https://fallabs.com/tokyocabinet/)
 - JSON
 - BSON
 - Data Sharding
-- [Netflix Cassandra scaling](http://techblog.netflix.com/2011/11/benchmarking-cassandra-scalability-on.html)
-- [Bloom Filter](http://en.wikipedia.org/wiki/Bloom_filter)
-- [Local Storage - Synchronous Key/Value](http://hacks.mozilla.org/2012/03/there-is-no-simple-solution-for-local-storage/)
-- [indexDB - Synchronous Key/Value with indexes](http://greenido.wordpress.com/2011/06/24/how-to-use-indexdb-code-and-example/)
+- [Netflix Cassandra scaling](https://techblog.netflix.com/2011/11/benchmarking-cassandra-scalability-on.html)
+- [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
+- [Local Storage - Synchronous Key/Value](https://hacks.mozilla.org/2012/03/there-is-no-simple-solution-for-local-storage/)
+- [indexDB - Synchronous Key/Value with indexes](https://greenido.wordpress.com/2011/06/24/how-to-use-indexdb-code-and-example/)
 - 5MB limit on Local Storage
 - Cursor objects in indexDB
 - JSONStorage
-- [Lucene/Solr](http://lucene.apache.org/solr/)
+- [Lucene/Solr](https://lucene.apache.org/solr/)
 - Full Text Queries
 - SQL Ceremony
 - [Couch-Node module](https://github.com/joyent/node/wiki/modules#wiki-db-nosql-couch)
-- [Lua](http://www.lua.org/)
-- [Tim Caswell - UtahJS Conference](http://conf.utahjs.com/speakers/tim-caswell/)
+- [Lua](https://www.lua.org/)
+- [Tim Caswell - UtahJS Conference](https://conf.utahjs.com/speakers/tim-caswell/)
 - [Luvit](https://github.com/luvit/luvit)
 - JSON file as a database
-- [ARM](http://www.arm.com/)
+- [ARM](https://www.arm.com/)
 - Resource constrained solutions
 - snappy
 
 ### Picks
 
 - [Podcasting A to Z](https://admin.devchat.tv/js-jabber/episodes/016-jsj-sql-and-nosql/podcastingatoz.com)&nbsp;use promo code "wood" for \$100 off (Chuck)
-- [Getting Things Done](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)&nbsp;(Chuck)
-- [Wood inbox](http://www.amazon.com/gp/product/B00006IALZ/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00006IALZ)&nbsp;(Chuck)
-- [Support thingy](http://www.amazon.com/gp/product/B00006IFLZ/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00006IFLZ) (Chuck)
-- Things - [Mac](http://itunes.apple.com/us/app/things/id407951449?mt=12&uo=4), [iOS](http://itunes.apple.com/us/app/things/id284971781?mt=8&uo=4)&nbsp;(Chuck)
-- [Utah JS Conf](http://conf.utahjs.com/) (AJ)
-- [OKCupid](http://www.okcupid.com/) (AJ)
+- [Getting Things Done](https://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)&nbsp;(Chuck)
+- [Wood inbox](https://www.amazon.com/gp/product/B00006IALZ/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00006IALZ)&nbsp;(Chuck)
+- [Support thingy](https://www.amazon.com/gp/product/B00006IFLZ/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00006IFLZ) (Chuck)
+- Things - [Mac](https://itunes.apple.com/us/app/things/id407951449?mt=12&uo=4), [iOS](https://itunes.apple.com/us/app/things/id284971781?mt=8&uo=4)&nbsp;(Chuck)
+- [Utah JS Conf](https://conf.utahjs.com/) (AJ)
+- [OKCupid](https://www.okcupid.com/) (AJ)
 
 ### Transcript

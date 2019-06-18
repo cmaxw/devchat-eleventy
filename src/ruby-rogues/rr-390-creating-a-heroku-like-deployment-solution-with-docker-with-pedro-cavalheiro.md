@@ -19,9 +19,9 @@ tags:
 - Charles Max Wood
 - Nate Hopkins 
 
-**Special Guest:** [Pedro Cavalheiro](http://pecavalheiro.com)
+**Special Guest:** [Pedro Cavalheiro](https://pecavalheiro.com)
 
-In this episode of Ruby Rogues, the panelists talk with [Pedro Cavalheiro](http://pecavalheiro.com) who is from Brazil, but currently resides in Hamburg, Germany where he works at Xing. He is a software engineer, an actor, and has been working with the web since 2010. He has worked mostly with Ruby and PHP languages, and since 2015 has worked full-time with Ruby on Rails. The panelists and Pedro talk about his background and his article. Check it out!
+In this episode of Ruby Rogues, the panelists talk with [Pedro Cavalheiro](https://pecavalheiro.com) who is from Brazil, but currently resides in Hamburg, Germany where he works at Xing. He is a software engineer, an actor, and has been working with the web since 2010. He has worked mostly with Ruby and PHP languages, and since 2015 has worked full-time with Ruby on Rails. The panelists and Pedro talk about his background and his article. Check it out!
 
 **Show Topics:**
 
@@ -29,7 +29,7 @@ In this episode of Ruby Rogues, the panelists talk with [Pedro Cavalheiro](http:
 
 1:04 – Chuck: Hi! Panel is Eric, Dave, Nate, myself – and our special guest is [Pedro Cavalheiro!](https://github.com/pecavalheiro) Please introduce yourself! Is that Spanish or Portuguese?
 
-Chuck: P.S. – The [DevRev](http://thedevrev.com) is my new show and check it!
+Chuck: P.S. – The [DevRev](https://thedevrev.com) is my new show and check it!
 
 1:57 – [Guest](https://github.com/pecavalheiro): My name means gentleman! Here at your service.
 
@@ -156,7 +156,7 @@ End – [Cache Fly!](https://www.cachefly.com)
 - [GitHub: Dokku/Dokku](https://github.com/dokku/dokku)
 - [Digital Ocean: Dokku](https://www.digitalocean.com/community/tags/dokku?type=tutorials)
 - [Digital Ocean: Cloud Hosting App Developers Love](https://try.digitalocean.com/developers/)
-- [Pedro’s Website](http://pecavalheiro.com)
+- [Pedro’s Website](https://pecavalheiro.com)
 - [Pedro’s Twitter](https://twitter.com/pecavalheiro)
 - [Pedro’s Crunchbase](https://www.crunchbase.com/person/pedro-cavalheiro)
 - [Pedro’s GitHub](https://github.com/pecavalheiro)
@@ -190,7 +190,7 @@ Charles
 - [MF CEO - Podcast](https://andyfrisella.com/blogs/mfceo-project-podcast)
 - [Extreme Ownership - Book](https://www.amazon.com/s/?ie=UTF8&keywords=extreme+ownership+book&tag=googhydr-20&index=aps&hvadid=241573922364&hvpos=1t1&hvnetw=g&hvrand=7904817774519321842&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1026411&hvtargid=kwd-130662906776&ref=pd_sl_byihbmct9_e)
 - [Drip](https://www.drip.com)
-- [TheDevRev.com](http://thedevrev.com/)
+- [TheDevRev.com](https://thedevrev.com/)
 
 Pedro
 

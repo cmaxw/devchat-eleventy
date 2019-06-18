@@ -18,7 +18,7 @@ tags:
 
 - [Twitter](https://twitter.com/schwarty)
 - [GitHub](https://github.com/jschwarty)
-- [Blog](http://schwarty.com/)
+- [Blog](https://schwarty.com/)
 - [SoCreate](https://www.socreate.it/)
   03:01 - User Input/Forms
 - [angular-form-builder](https://github.com/kelp404/angular-form-builder)
@@ -30,14 +30,14 @@ tags:
 - Metadata-driven Forms
   &nbsp;Picks
 - [Angular 2](https://angular.io/) (John & Joe)
-- [Parks and Recreation](http://www.nbc.com/parks-and-recreation) (John)
-- [The Goldbergs](http://abc.go.com/shows/the-goldbergs) (Joe)
-- [Ego Is the Enemy by Ryan Holiday](http://www.audible.com/pd/Self-Development/Ego-Is-the-Enemy-Audiobook/B01GSIZ5AC) (Lukas)
+- [Parks and Recreation](https://www.nbc.com/parks-and-recreation) (John)
+- [The Goldbergs](https://abc.go.com/shows/the-goldbergs) (Joe)
+- [Ego Is the Enemy by Ryan Holiday](https://www.audible.com/pd/Self-Development/Ego-Is-the-Enemy-Audiobook/B01GSIZ5AC) (Lukas)
 - [Matt Podwysocki's Rx Twitter Status](https://twitter.com/mattpodwysocki/status/754150585327230976) (Lukas)
-- [How to Stay Motivated: Developing the Qualities of Success by Zig Ziglar](http://www.audible.com/pd/Business/How-to-Stay-Motivated-Audiobook/B002V8MXYK?mkwid=DSATitle_dc&pcrid=81800400129&pmt=b&pkw=_intitle%3Aaudiobook&source_code=GO1GB907OSH060513&gclid=CJ_27NjQoM4CFY5Zhgod3goPWg) (Chuck)
+- [How to Stay Motivated: Developing the Qualities of Success by Zig Ziglar](https://www.audible.com/pd/Business/How-to-Stay-Motivated-Audiobook/B002V8MXYK?mkwid=DSATitle_dc&pcrid=81800400129&pmt=b&pkw=_intitle%3Aaudiobook&source_code=GO1GB907OSH060513&gclid=CJ_27NjQoM4CFY5Zhgod3goPWg) (Chuck)
 - [The Harry Potter Series](https://en.wikipedia.org/wiki/Harry_Potter) (Chuck)
-- [MacBook Pro](http://www.apple.com/macbook-pro/) (Justin)
-- [Red Dead Redemption](http://www.rockstargames.com/reddeadredemption/restricted_content/restricted_content_agegated/ref?redirect=http%3A%2F%2Fwww.rockstargames.com%2Freddeadredemption%2F&hash=acfa2dee2d95e7e615ac4bb7535949b6) (Justin)
+- [MacBook Pro](https://www.apple.com/macbook-pro/) (Justin)
+- [Red Dead Redemption](https://www.rockstargames.com/reddeadredemption/restricted_content/restricted_content_agegated/ref?redirect=http%3A%2F%2Fwww.rockstargames.com%2Freddeadredemption%2F&hash=acfa2dee2d95e7e615ac4bb7535949b6) (Justin)
 - [Lynda.com | Angular 2 Forms: Data Binding and Validation with Justin Schwartzenberger](https://www.lynda.com/AngularJS-tutorials/Angular-2-Forms-Data-Binding-Validation/461451-2.html) (Lukas)
 
 ### Transcript

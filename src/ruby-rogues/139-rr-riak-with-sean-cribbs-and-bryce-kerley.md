@@ -12,29 +12,29 @@ tags:
   - podcast
 ---
 
-## [Get your Ruby Rogues T-Shirt or hoodie!! Ladies' sizes available as well!](http://teespring.com/rubyroguestee)
+## [Get your Ruby Rogues T-Shirt or hoodie!! Ladies' sizes available as well!](https://teespring.com/rubyroguestee)
 
-01:32 - [Job Replacement Guide by David Brady](http://www.jobreplacementguide.com/)
+01:32 - [Job Replacement Guide by David Brady](https://www.jobreplacementguide.com/)
 
 03:28 - Sean Cribbs Introduction
 
 04:31 - Bryce Kerley Introduction
 
-04:45 - [Riak](http://basho.com/riak/) and Advantages
+04:45 - [Riak](https://basho.com/riak/) and Advantages
 
-- [Dynamo: Amazon’s Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
+- [Dynamo: Amazon’s Highly Available Key-value Store](https://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
 
-08:51 - [The CAP Theorem](http://en.wikipedia.org/wiki/CAP_theorem)
+08:51 - [The CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 
-- [Code Hale: You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)
+- [Code Hale: You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 
-10:27 - What is [Riak](http://basho.com/riak/)?
+10:27 - What is [Riak](https://basho.com/riak/)?
 
 - [The Ring](https://www.google.com/search?q=riak&rlz=1C5CHFA_enUS550US550&espv=210&es_sm=91&source=lnms&tbm=isch&sa=X&ei=djzPUqjfGbStsQT6nICIDQ&ved=0CAkQ_AUoAQ&biw=886&bih=695#imgdii=_)
 
-14:07 - [Introducing Riak 2.0: Data Types, Strong Consistency, Full-Text Search, and Much More](http://basho.com/introducing-riak-2-0/)
+14:07 - [Introducing Riak 2.0: Data Types, Strong Consistency, Full-Text Search, and Much More](https://basho.com/introducing-riak-2-0/)
 
-- [Sean Cribbs - Eventually Consistent Data Structures](http://vimeo.com/43903960)
+- [Sean Cribbs - Eventually Consistent Data Structures](https://vimeo.com/43903960)
 
 16:05 - Autocomplete
 
@@ -44,7 +44,7 @@ tags:
 
 37:39 - HTTP 2.0 Support
 
-41:40 - [MapReduce](http://en.wikipedia.org/wiki/MapReduce)
+41:40 - [MapReduce](https://en.wikipedia.org/wiki/MapReduce)
 
 46:24 - Full-Text Search
 
@@ -53,13 +53,13 @@ tags:
 
 49:50 - Primary Data Store
 
-- [Datomic](http://www.datomic.com/)
+- [Datomic](https://www.datomic.com/)
 
 52:27 - Programming Riak
 
 ### Book Club
 
-[Ruby Under a Microscope by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](http://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](http://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
+[Ruby Under a Microscope by Pat Shaughnessy](https://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](https://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](https://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
 
 ### Next Week
 

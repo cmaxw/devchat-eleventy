@@ -41,8 +41,8 @@ tags:
 - [SVG&nbsp;](https://github.com/svg/svgo)
 - [Noun Project](https://thenounproject.com)
   Charles
-- [adminlte.io](http://adminlte.io)
+- [adminlte.io](https://adminlte.io)
 - Ruby on Rails, Jquery
-- [podwrench.com](http://podwrench.com)
+- [podwrench.com](https://podwrench.com)
 
 ### Transcript

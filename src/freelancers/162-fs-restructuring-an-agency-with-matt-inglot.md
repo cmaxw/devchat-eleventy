@@ -17,8 +17,8 @@ tags:
 - [Twitter](https://twitter.com/mattinglot)
 - [Tilted Pixel](https://www.tiltedpixel.com/)
   - [@tiltedpixel](https://twitter.com/tiltedpixel)
-- [Freelance Transformation](http://www.freelancetransformation.com/)
-  - [Podcast](http://www.freelancetransformation.com/blog/podcast)
+- [Freelance Transformation](https://www.freelancetransformation.com/)
+  - [Podcast](https://www.freelancetransformation.com/blog/podcast)
 
 02:22 - Transitioning (Mistakes Made)
 
@@ -63,7 +63,7 @@ tags:
 
 49:05 - Choosing a NichePicks
 
-[aText](https://www.trankynam.com/atext/) (Jonathan)[Amy Cuddy: Your Body Language Shapes Who You Are](http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are) (Eric)[Sonic Pi](http://sonic-pi.net) (Chuck)[Freelance Transformation](http://www.freelancetransformation.com/) (Matt)[Kirk Parsley: America's Biggest Problem | TEDxReno](https://www.youtube.com/watch?v=7s9C_8-OoxI) (Matt)
+[aText](https://www.trankynam.com/atext/) (Jonathan)[Amy Cuddy: Your Body Language Shapes Who You Are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are) (Eric)[Sonic Pi](https://sonic-pi.net) (Chuck)[Freelance Transformation](https://www.freelancetransformation.com/) (Matt)[Kirk Parsley: America's Biggest Problem | TEDxReno](https://www.youtube.com/watch?v=7s9C_8-OoxI) (Matt)
 
 ### Transcript
 

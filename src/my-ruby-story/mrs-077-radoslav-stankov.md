@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** &nbsp;&nbsp;Radoslav Stankov
 ### **Episode Summary**
@@ -24,7 +24,7 @@ In this episode of My Ruby Story, Charles hosts Radoslav Stankov, the head of th
 - <u><a href="https://devchat.tv/ruby-rogues/rr-396-graphql-at-product-hunt-with-radoslav-stankov/">Ruby Rogues: GraphQL at Product Hunt with Radoslav Stankov</a></u>
 - <u><a href="https://devchat.tv/react-round-up/rru-042-react-at-product-hunt-with-radoslav-stankov/">React Round Up: React at Product Hunt with Radoslav Stankov</a></u>
 - <u><a href="https://devchat.tv/react-native-radio/react-native-at-product-hunt-feat-radoslav-stankov-and-vlad-vladimirov/">React Native Radio: React Native at Product Hunt feat. Radoslav Stankov and Vlad Vladimirov</a></u>
-- [<u>Radoslav’s Website</u>](http://rstankov.com)
+- [<u>Radoslav’s Website</u>](https://rstankov.com)
 - [Radoslav’s GitHub](https://github.com/RStankov)
 - [Radoslav’s Twitter](https://twitter.com/rstankov)
 - [https://devchat.tv/my-ruby-story/](https://devchat.tv/my-ruby-story/)

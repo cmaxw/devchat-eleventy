@@ -16,14 +16,14 @@ tags:
 
 - [Twitter](https://twitter.com/juliancheal)
 - [GitHub](https://github.com/juliancheal)
-- [Blog](http://juliancheal.co.uk/)
+- [Blog](https://juliancheal.co.uk/)
 
 02:49 - Julian’s Background with Robots and Drones
 
-- [Arduino](http://www.arduino.cc/)
-- [AR.Drone](http://ardrone2.parrot.com/)
+- [Arduino](https://www.arduino.cc/)
+- [AR.Drone](https://ardrone2.parrot.com/)
 
-03:32 - [NodeCopter Events](http://www.nodecopter.com/)
+03:32 - [NodeCopter Events](https://www.nodecopter.com/)
 
 04:31 - Traveling with Robots
 
@@ -31,78 +31,78 @@ tags:
 
 - [Julian Cheal: Dancing with Robots](https://www.youtube.com/watch?v=xt7l5bUWIA8)
 - [Raspberry Pi](https://www.raspberrypi.org/)
-- [BeagleBone](http://beagleboard.org/bone)
+- [BeagleBone](https://beagleboard.org/bone)
 
 07:46 - Giving Demos
 
 09:12 - What Makes Robots?
 
-- [Sinon.JS](http://sinonjs.org/)
-- [MQTT Protocol](http://mqtt.org/)
+- [Sinon.JS](https://sinonjs.org/)
+- [MQTT Protocol](https://mqtt.org/)
 
-10:21 - Where is IoT ([Internet of Things](http://en.wikipedia.org/wiki/Internet_of_Things)) Heading?
+10:21 - Where is IoT ([Internet of Things](https://en.wikipedia.org/wiki/Internet_of_Things)) Heading?
 
 - Security
 
 13:11 - Programming Languages
 
-- [NodeBots](http://nodebots.io/)
+- [NodeBots](https://nodebots.io/)
 
 14:15 - Tools and Protocols
 
-- [The MIDI Protocol](http://www.personal.kent.edu/~sbirch/Music_Production/MP-II/MIDI/midi_protocol.htm)
+- [The MIDI Protocol](https://www.personal.kent.edu/~sbirch/Music_Production/MP-II/MIDI/midi_protocol.htm)
 - [Spark Core](https://www.kickstarter.com/projects/sparkdevices/spark-core-wi-fi-for-everything-arduino-compatible)
   - [voodoospark](https://github.com/voodootikigod/voodoospark)
 
 17:31 - Programming Challenges Around Hardware Hacking
 
-- [Artoo](http://artoo.io/)
+- [Artoo](https://artoo.io/)
   - [celluloid](https://github.com/celluloid/celluloid)
 
 18:49 - Barrier to Entry
 
 20:41 - Getting Kids Started
 
-- [Kids Ruby](http://kidsruby.com/)
-- [Arduino Starter Kit](http://www.arduino.cc/en/Main/ArduinoStarterKit)
+- [Kids Ruby](https://kidsruby.com/)
+- [Arduino Starter Kit](https://www.arduino.cc/en/Main/ArduinoStarterKit)
 
 22:09 - Wearables
 
-- [EL Wire (Electroluminescent Wire)](http://en.wikipedia.org/wiki/Electroluminescent_wire)
+- [EL Wire (Electroluminescent Wire)](https://en.wikipedia.org/wiki/Electroluminescent_wire)
 
 23:18 - LEGO Robotics
 
-- [Mindstorms](http://mindstorms.lego.com/)
-- [LabVIEW](http://en.wikipedia.org/wiki/LabVIEW)
-  - [National Instruments](http://www.ni.com/)
+- [Mindstorms](https://mindstorms.lego.com/)
+- [LabVIEW](https://en.wikipedia.org/wiki/LabVIEW)
+  - [National Instruments](https://www.ni.com/)
 
 25:01 - Issues with Hardware Hacking
 
 28:22 - Rubyists and Hardware
 
 - [Julian Cheal: Dancing with Robots](https://www.youtube.com/watch?v=xt7l5bUWIA8)
-- [JRuby](http://jruby.org/)
-- [Rubinius](http://rubini.us/)
+- [JRuby](https://jruby.org/)
+- [Rubinius](https://rubini.us/)
 
 29:45 - Interfacing with Humans
 
-- [iBeacon](http://en.wikipedia.org/wiki/IBeacon)
-- [OpenCV](http://opencv.org/)
+- [iBeacon](https://en.wikipedia.org/wiki/IBeacon)
+- [OpenCV](https://opencv.org/)
 
 33:27 - [[Kickstarter] CHIP - The World's First Nine Dollar Computer](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer)
 
 34:01 - Connectivity&nbsp;
 
-- [Sphero](http://www.gosphero.com/)
+- [Sphero](https://www.gosphero.com/)
   - [Carin Meier: The Joy of Flying Robots with Clojure @ OSCON 2013](https://www.youtube.com/watch?v=Ty9QDqV-_Ak)
 
 36:55 - More Interesting Projects
 
 - [Aaron Patterson: Using chicken scheme to read](https://www.youtube.com/watch?v=Oq1vkMrGJQs)[sausagebox](https://www.youtube.com/watch?v=Oq1vkMrGJQs)[values](https://www.youtube.com/watch?v=Oq1vkMrGJQs)
-- [Oscilloscope](http://en.wikipedia.org/wiki/Oscilloscope)
+- [Oscilloscope](https://en.wikipedia.org/wiki/Oscilloscope)
   Picks
 
-[Jacob Kaplan-Moss Keynote @ Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE) (Jessica)[Kobo Aura H20](http://us.kobobooks.com/products/kobo-aura-h2o) (Avdi)[Liz Abinante: Unicorns Are People, Too (Re-Thinking Soft and Hard Skills) @ Madison+ Ruby 2014](http://confreaks.tv/videos/madisonruby2014-unicorns-are-people-too-re-thinking-soft-and-hard-skills) (Coraline)[littleBits](http://littlebits.cc) (Julian)[Jewelbots](http://www.jewelbots.com/) (Julian)[Ruby Rogues Episode #156: Hardware Hacking with Julia Grace](http://devchat.tv/ruby-rogues/156-rr-hardware-hacking-with-julia-grace) (Julian)[The End of Mr. Y by Scarlett Thomas](http://www.amazon.com/gp/product/0156031612/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0156031612&linkCode=as2&tag=chamaxwoo-20&linkId=TLF5RS7ARRJ7OF6P) (Julian)
+[Jacob Kaplan-Moss Keynote @ Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE) (Jessica)[Kobo Aura H20](https://us.kobobooks.com/products/kobo-aura-h2o) (Avdi)[Liz Abinante: Unicorns Are People, Too (Re-Thinking Soft and Hard Skills) @ Madison+ Ruby 2014](https://confreaks.tv/videos/madisonruby2014-unicorns-are-people-too-re-thinking-soft-and-hard-skills) (Coraline)[littleBits](https://littlebits.cc) (Julian)[Jewelbots](https://www.jewelbots.com/) (Julian)[Ruby Rogues Episode #156: Hardware Hacking with Julia Grace](https://devchat.tv/ruby-rogues/156-rr-hardware-hacking-with-julia-grace) (Julian)[The End of Mr. Y by Scarlett Thomas](https://www.amazon.com/gp/product/0156031612/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0156031612&linkCode=as2&tag=chamaxwoo-20&linkId=TLF5RS7ARRJ7OF6P) (Julian)
 
 ### Transcript
 

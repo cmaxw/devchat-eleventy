@@ -32,7 +32,7 @@ James enjoys working with developers and designers. Both are highly creative ind
 
 ## Picks:
 
-Curtis: Elementary OS Jonathan: &nbsp;[Just Enough Research by Erika Hall](https://abookapart.com/products/just-enough-research), Dropshare, CloudApp Philip: [Vistaprint](http://www.vistaprint.com/?GP=04%2f26%2f2017+22%3a54%3a59&GPS=4376971020&GNF=0), Slings and Arrows TV series James: [The Non-Designer's Design Book (4th Edition) by Robin Williams](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151)
+Curtis: Elementary OS Jonathan: &nbsp;[Just Enough Research by Erika Hall](https://abookapart.com/products/just-enough-research), Dropshare, CloudApp Philip: [Vistaprint](https://www.vistaprint.com/?GP=04%2f26%2f2017+22%3a54%3a59&GPS=4376971020&GNF=0), Slings and Arrows TV series James: [The Non-Designer's Design Book (4th Edition) by Robin Williams](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151)
 
 ## Episode Links:
 

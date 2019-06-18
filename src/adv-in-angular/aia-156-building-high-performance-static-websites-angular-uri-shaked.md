@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-This is a talk given by Uri Shaked at the recent Angular Dev Summit. If you'd like to be notified about the next Angular Dev Summit, go to the [Angular Dev Summit website](http://angulardevsummit.com) and register for an attendee ticket. Uri is a Google Developer Expert in Web Technologies and Angular. He also works for BlackBerry. Uri shows us how to build a static website using Angular and other web technologies. Links:
+This is a talk given by Uri Shaked at the recent Angular Dev Summit. If you'd like to be notified about the next Angular Dev Summit, go to the [Angular Dev Summit website](https://angulardevsummit.com) and register for an attendee ticket. Uri is a Google Developer Expert in Web Technologies and Angular. He also works for BlackBerry. Uri shows us how to build a static website using Angular and other web technologies. Links:
 
 - [Github Pages](https://pages.github.com/)
 - [Jekyll](https://jekyllrb.com/docs/pages/)
@@ -24,10 +24,10 @@ This is a talk given by Uri Shaked at the recent Angular Dev Summit. If you'd li
 - [Angular CLI](https://cli.angular.io/)
 - [SystemJS](https://github.com/systemjs/systemjs)
 - [Webpack](https://webpack.github.io/)
-- [Fuse-box](http://fuse-box.org/)
+- [Fuse-box](https://fuse-box.org/)
 - [Angular Universal](https://github.com/angular/universal)
 - [ts-node](https://www.npmjs.com/package/ts-node)
-- [urish.org](http://urish.org) (Uri's website)
+- [urish.org](https://urish.org) (Uri's website)
 - [firebase hosting](https://firebase.google.com/docs/hosting/)
 - [ng2-fused](https://github.com/alex-klock/ng2-fused)
 - [preboot](https://github.com/angular/preboot)

@@ -20,22 +20,22 @@ Check out and sign up for [Ruby Remote Conf](https://rubyremoteconf.com/)!
 - [GitHub](https://github.com/francescoc)
 - [Erlang Solutions](https://www.erlang-solutions.com/)
 - Books:
-  - [Erlang Programming: A Concurrent Approach to Software Development by Francesco Cesarini and Simon Thompson](http://shop.oreilly.com/product/9780596518189.do)
-  - [Larger Cover Erlang By Example by Francesco Cesarini and Simon Thompson](http://shop.oreilly.com/product/0636920020240.do)
-  - [Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems by Francesco Cesarini and Steve Vinoski](http://shop.oreilly.com/product/0636920024149.do)
+  - [Erlang Programming: A Concurrent Approach to Software Development by Francesco Cesarini and Simon Thompson](https://shop.oreilly.com/product/9780596518189.do)
+  - [Larger Cover Erlang By Example by Francesco Cesarini and Simon Thompson](https://shop.oreilly.com/product/0636920020240.do)
+  - [Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems by Francesco Cesarini and Steve Vinoski](https://shop.oreilly.com/product/0636920024149.do)
 
-03:08 - [Erlang Programming Language](http://www.erlang.org/)
+03:08 - [Erlang Programming Language](https://www.erlang.org/)
 
 - Multicore
-  - [[Stack Overflow] paralellel processing - Erlang on multicore CPU](http://stackoverflow.com/questions/7005759/erlang-on-multicore-cpu)
+  - [[Stack Overflow] paralellel processing - Erlang on multicore CPU](https://stackoverflow.com/questions/7005759/erlang-on-multicore-cpu)
 - History
-  - [Ericsson](http://www.ericsson.se/)
-  - [Home of Erlang/OTP](http://www.erlang.se/)
+  - [Ericsson](https://www.ericsson.se/)
+  - [Home of Erlang/OTP](https://www.erlang.se/)
 
 08:23 - Francesco and Erlang
 
 - [Joe Armstrong](https://twitter.com/joeerl)
-  - [Blog](http://joearms.github.io/)
+  - [Blog](https://joearms.github.io/)
 
 10:49 - Building a Company Around a Language ([Erlang Solutions](https://www.erlang-solutions.com/))
 
@@ -44,24 +44,24 @@ Check out and sign up for [Ruby Remote Conf](https://rubyremoteconf.com/)!
   - [WombatOAM](https://www.erlang-solutions.com/products/wombat)
   - [Riak NoSQL Database](https://www.erlang-solutions.com/products/riak-nosql-database)
 - Events:
-  - [Erlang User Conference](http://www.erlang-factory.com/euc2015/#home)
-  - [Erlang Factory](http://www.erlang-factory.com/)
-  - [Code Mesh](http://www.codemesh.io/)
+  - [Erlang User Conference](https://www.erlang-factory.com/euc2015/#home)
+  - [Erlang Factory](https://www.erlang-factory.com/)
+  - [Code Mesh](https://www.codemesh.io/)
 - Projects:
   - T-Mobile SMS Gateway
   - Instant Messaging Gateway (2008-2009)
   - Preemptive Support, Monitoring, Metrics & Alarming ([WombatOAM](https://www.erlang-solutions.com/products/wombat))
 
-16:00 - [The Erlang Programming Language](http://www.erlang.org/)
+16:00 - [The Erlang Programming Language](https://www.erlang.org/)
 
-- [Avdi Grimm: In Which I Make You Hate Ruby in 7 Minutes](http://devblog.avdi.org/2015/05/11/in-which-i-make-you-hate-ruby-in-7-minutes/)
-  - [Pharo by Example](http://pharo.org/)
+- [Avdi Grimm: In Which I Make You Hate Ruby in 7 Minutes](https://devblog.avdi.org/2015/05/11/in-which-i-make-you-hate-ruby-in-7-minutes/)
+  - [Pharo by Example](https://pharo.org/)
 - The Concurrency Model
 - Debugging
 - Live Code Upgrade
-  - [Smalltalk](http://en.wikipedia.org/wiki/Smalltalk)
-  - [The Elixir Programming Language](http://elixir-lang.org/)
-- [OTP (Open Telecom Platform)](http://en.wikipedia.org/wiki/Open_Telecom_Platform)
+  - [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk)
+  - [The Elixir Programming Language](https://elixir-lang.org/)
+- [OTP (Open Telecom Platform)](https://en.wikipedia.org/wiki/Open_Telecom_Platform)
 
 24:25 - Error Handling Semantics
 
@@ -74,16 +74,16 @@ Check out and sign up for [Ruby Remote Conf](https://rubyremoteconf.com/)!
 
 - Resources:
   - [Programming Erlang: Software for a Concurrent World by Joe Armstrong](https://pragprog.com/book/jaerlang/programming-erlang)
-  - [Functional Programming with Erlang](https://moodle.kent.ac.uk/external/course/view.php?id=237) (Erlang [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course))
-  - [Learn You Some Erlang](http://learnyousomeerlang.com/content)
-  - [Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems by Francesco Cesarini and Steve Vinoski](http://shop.oreilly.com/product/0636920024149.do)
-  - [Erlang Programming: A Concurrent Approach to Software Development by Francesco Cesarini and Simon Thompson](http://shop.oreilly.com/product/9780596518189.do)
+  - [Functional Programming with Erlang](https://moodle.kent.ac.uk/external/course/view.php?id=237) (Erlang [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course))
+  - [Learn You Some Erlang](https://learnyousomeerlang.com/content)
+  - [Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems by Francesco Cesarini and Steve Vinoski](https://shop.oreilly.com/product/0636920024149.do)
+  - [Erlang Programming: A Concurrent Approach to Software Development by Francesco Cesarini and Simon Thompson](https://shop.oreilly.com/product/9780596518189.do)
 - Major Hurdles to Learning Erlang:
   - Understanding Tail Recursion and Pattern Matching
   - Concurrency
   - Error Handling
 
-34:23 - [Elixir](http://elixir-lang.org/)
+34:23 - [Elixir](https://elixir-lang.org/)
 
 35:28 - Erlang and Polyglot Architecture
 
@@ -102,28 +102,28 @@ Check out and sign up for [Ruby Remote Conf](https://rubyremoteconf.com/)!
     - [webmachine](https://github.com/basho/webmachine)
     - [cowboy](https://github.com/ninenines/cowboy)
 
-40:44 - [TDD (Test-Driven Development)](http://en.wikipedia.org/wiki/Test-driven_development)
+40:44 - [TDD (Test-Driven Development)](https://en.wikipedia.org/wiki/Test-driven_development)
 
-- [common_test](http://www.erlang.org/doc/man/common_test.html)
+- [common_test](https://www.erlang.org/doc/man/common_test.html)
 - [EUnit](https://github.com/richcarl/eunit)
-- [QuickCheck](http://www.quviq.com/products/erlang-quickcheck/)
-  - [mnesia](http://www.erlang.org/doc/man/mnesia.html)
+- [QuickCheck](https://www.quviq.com/products/erlang-quickcheck/)
+  - [mnesia](https://www.erlang.org/doc/man/mnesia.html)
   - Shrinking
 
 46:10 - Languages/Technologies on the Horizon (for Francesco)
 
-- [Elixir](http://elixir-lang.org/)
+- [Elixir](https://elixir-lang.org/)
 - Large-Scale Distributed Computing
-- [FlowForwarding](http://www.flowforwarding.org/)
+- [FlowForwarding](https://www.flowforwarding.org/)
   - [[GitHub] FlowForwarding](https://github.com/FlowForwarding/)
 
 48:21 - The Erlang Community
 
-- [The Erlang Mailing List](http://erlang.org/mailman/listinfo)
+- [The Erlang Mailing List](https://erlang.org/mailman/listinfo)
 - [Erlang Central](https://erlangcentral.org/)
   50:24 - Writing Apps with Erlang / IoT?Picks
 
-[Avdi Grimm: A Personal Programming Language Roadmap](http://devblog.avdi.org/2015/05/08/a-personal-programming-language-roadmap/) (Avdi)[Pharo](http://pharo.org/) (Avdi)[Avdi Grimm: In Which I Make You Hate Ruby in 7 Minutes](http://devblog.avdi.org/2015/05/11/in-which-i-make-you-hate-ruby-in-7-minutes/) (Avdi)[Babel-17 / Empire Star by Samuel R. Delany](http://www.amazon.com/gp/product/0375706690/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0375706690&linkCode=as2&tag=chamaxwoo-20&linkId=MWQUHC65F2ARUNLP) (Coraline)[Orson Welles](http://www.tcm.com/this-month/article/1083885%7C0/Orson-Welles-Fridays-in-May.html) (Coraline)[John Hughes: QuickCheck Evolution @ CodeMesh 2014](https://vimeo.com/112812515) (Jessica)[Vehicles: Experiments in Synthetic Psychology by Valentino Braitenberg](http://www.amazon.com/gp/product/0262521121/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262521121&linkCode=as2&tag=chamaxwoo-20&linkId=O6ZYVOI2MTPAUEPZ) (Jessica)[Zero to One: Notes On Startups, or How to Build the Future by Peter Thiel](http://zerotoonebook.com/) (Francesco)[CodeNewbie Podcast](http://www.codenewbie.org/podcast) (Chuck)[Ask Me Another](http://www.npr.org/programs/ask-me-another/) (Chuck)[Startups For the Rest of Us](http://www.startupsfortherestofus.com/) (Chuck)
+[Avdi Grimm: A Personal Programming Language Roadmap](https://devblog.avdi.org/2015/05/08/a-personal-programming-language-roadmap/) (Avdi)[Pharo](https://pharo.org/) (Avdi)[Avdi Grimm: In Which I Make You Hate Ruby in 7 Minutes](https://devblog.avdi.org/2015/05/11/in-which-i-make-you-hate-ruby-in-7-minutes/) (Avdi)[Babel-17 / Empire Star by Samuel R. Delany](https://www.amazon.com/gp/product/0375706690/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0375706690&linkCode=as2&tag=chamaxwoo-20&linkId=MWQUHC65F2ARUNLP) (Coraline)[Orson Welles](https://www.tcm.com/this-month/article/1083885%7C0/Orson-Welles-Fridays-in-May.html) (Coraline)[John Hughes: QuickCheck Evolution @ CodeMesh 2014](https://vimeo.com/112812515) (Jessica)[Vehicles: Experiments in Synthetic Psychology by Valentino Braitenberg](https://www.amazon.com/gp/product/0262521121/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262521121&linkCode=as2&tag=chamaxwoo-20&linkId=O6ZYVOI2MTPAUEPZ) (Jessica)[Zero to One: Notes On Startups, or How to Build the Future by Peter Thiel](https://zerotoonebook.com/) (Francesco)[CodeNewbie Podcast](https://www.codenewbie.org/podcast) (Chuck)[Ask Me Another](https://www.npr.org/programs/ask-me-another/) (Chuck)[Startups For the Rest of Us](https://www.startupsfortherestofus.com/) (Chuck)
 
 ### Transcript
 

@@ -16,28 +16,28 @@ tags:
 
 - [Twitter](https://twitter.com/greggyb)
 - [GitHub](https://github.com/GregBaugues)
-- [Blog](http://blog.baugues.com/)
+- [Blog](https://blog.baugues.com/)
 - [Ruby Rogues Episode @142: Depression and Mental Illness with Greg Baugues](https://devchat.tv/ruby-rogues/142-rr-depression-and-mental-illness-with-greg-baugues)
-- [Greg Baugues: Devs and Depression](http://confreaks.tv/videos/mwrc2013-devs-and-depression)
-- [Devs and Depression](http://devsanddepression.com/)
+- [Greg Baugues: Devs and Depression](https://confreaks.tv/videos/mwrc2013-devs-and-depression)
+- [Devs and Depression](https://devsanddepression.com/)
 
 02:51 - [Twilio](https://www.twilio.com/)
 
 05:27 - [Two-factor Authentication](https://en.wikipedia.org/wiki/Two-factor_authentication)
 
 - [Crash Override Network: So You’ve Been Doxed: A Guide to Best Practices](https://crashoverridenetwork.tumblr.com/post/114270394687/so-youve-been-doxed-a-guide-to-best-practices)
-- [Authy](http://authy.com)
+- [Authy](https://authy.com)
 - [Greg Baugues: Passwords are not Enough @ RailsConf 2015](https://www.youtube.com/watch?v=i8WpShCXZOE)
-- [How Apple and Amazon Security Flaws Led to My Epic Hacking](http://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/)
+- [How Apple and Amazon Security Flaws Led to My Epic Hacking](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/)
 
 13:42 - Implementing Security; Why Security is Important and Essential
 
-- [Dan Luu: Normalization of deviance in software: how broken practices become standard](http://danluu.com/wat/)
+- [Dan Luu: Normalization of deviance in software: how broken practices become standard](https://danluu.com/wat/)
 
 27:26 - Twilio Use Cases
 
-- [Doug Mckenzie](http://www.dougmckenzie.com/)
-- [Ryan Leslie's SuperPhone: Beating Facebook To The Scalable Personal Messaging Table](http://www.forbes.com/sites/julianmitchell/2016/01/25/ryan-leslies-superphone-beating-facebook-to-the-enterprise-messaging-table/#4b4c6fb83615)
+- [Doug Mckenzie](https://www.dougmckenzie.com/)
+- [Ryan Leslie's SuperPhone: Beating Facebook To The Scalable Personal Messaging Table](https://www.forbes.com/sites/julianmitchell/2016/01/25/ryan-leslies-superphone-beating-facebook-to-the-enterprise-messaging-table/#4b4c6fb83615)
 - [mRelief](https://www.mrelief.com/#?category=All)
 - [How I Taught My Dog to Text Me Selfies](https://www.twilio.com/blog/2015/03/how-my-dog-sends-selfies.html)
 - [Arduino Yún](https://www.arduino.cc/en/Main/ArduinoBoardYun)
@@ -51,7 +51,7 @@ tags:
 
 38:02 - [TwiML](https://www.twilio.com/docs/api/twiml)
 
-&nbsp;&nbsp; &nbsp;[Burner](http://www.burnerapp.com/)
+&nbsp;&nbsp; &nbsp;[Burner](https://www.burnerapp.com/)
 
 42:46 - Using Twilio to Enhance Business
 
@@ -60,7 +60,7 @@ tags:
 
 48:50 - Twilio’s Tech Stack
 
-- [Flask](http://flask.pocoo.org/)
+- [Flask](https://flask.pocoo.org/)
 - [Amazon Web Services (AWS)](https://aws.amazon.com/)
 
 50:19 - Opt-outs and Phone Number Validation
@@ -73,7 +73,7 @@ tags:
 
 &nbsp;
 
-Goodbye, Avdi. We will miss you \<3[Avdi's Newsletter](http://devblog.avdi.org/newsletter/)
+Goodbye, Avdi. We will miss you \<3[Avdi's Newsletter](https://devblog.avdi.org/newsletter/)
 
 &nbsp;
 
@@ -81,6 +81,6 @@ Who wants to be the next Ruby Rogue? [Submit your video](https://devchat.tv/ruby
 
 &nbsp;Picks
 
-[The CHECKS Pattern Language of Information Integrity](http://c2.com/ppr/checks.html) (Avdi) Delegation (Avdi)[CaJohns Ignite Hot Sauce](http://cajohns.com/store/index.php?route=product/product&product_id=119) (David)[beach house](http://www.beachhousebaltimore.com) (Coraline)[CocoRosie](http://www.tgrec.com/bands/band.php?id=8) (Coraline)[The Misters of Circe](https://www.facebook.com/themistersofcirce) (Sam)[DesktopServer](https://serverpress.com/get-desktopserver/) (Chuck)[Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) (Chuck)[Convert Post Types](https://wordpress.org/plugins/convert-post-types/) (Chuck)[Gravity Forms](http://www.gravityforms.com/) (Chuck)[MemberPress](https://www.memberpress.com/) (Chuck)[SIGNAL Conference](http://twilio.com/signal) (Greg)
+[The CHECKS Pattern Language of Information Integrity](https://c2.com/ppr/checks.html) (Avdi) Delegation (Avdi)[CaJohns Ignite Hot Sauce](https://cajohns.com/store/index.php?route=product/product&product_id=119) (David)[beach house](https://www.beachhousebaltimore.com) (Coraline)[CocoRosie](https://www.tgrec.com/bands/band.php?id=8) (Coraline)[The Misters of Circe](https://www.facebook.com/themistersofcirce) (Sam)[DesktopServer](https://serverpress.com/get-desktopserver/) (Chuck)[Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) (Chuck)[Convert Post Types](https://wordpress.org/plugins/convert-post-types/) (Chuck)[Gravity Forms](https://www.gravityforms.com/) (Chuck)[MemberPress](https://www.memberpress.com/) (Chuck)[SIGNAL Conference](https://twilio.com/signal) (Greg)
 
 ### Transcript

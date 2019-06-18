@@ -14,7 +14,7 @@ tags:
 
 02:20 - Components: Angular 1.0 =\> Angular 2.0
 
-- [Aurelia](http://aurelia.io/)
+- [Aurelia](https://aurelia.io/)
   - [Rob Eisenberg](https://twitter.com/eisenbergeffect)
 
 07:31 - Single Components; Multiple Templates

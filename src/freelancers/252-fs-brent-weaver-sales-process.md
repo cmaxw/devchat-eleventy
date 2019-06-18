@@ -60,11 +60,11 @@ Brent adds as a last piece of advice to find the people you you want emulate and
 
 ###### Brent
 
-[\$200 course on sales for free](http://lp.ugurus.com/guest-podcasting-freelancers-show?utm_source=freelancers-show&utm_medium=podcasts&utm_campaign=guest-podcasting&utm_term=podcast-listener&utm_content=wdsk-call-promo)
+[\$200 course on sales for free](https://lp.ugurus.com/guest-podcasting-freelancers-show?utm_source=freelancers-show&utm_medium=podcasts&utm_campaign=guest-podcasting&utm_term=podcast-listener&utm_content=wdsk-call-promo)
 
 ###### Jonathan
 
-[Cashflow podcasting episode with Jonathan](http://cashflowpodcasting.com/cfp-028-ditch-hourly-billing-and-deliver-superior-service-with-jonathan-stark-part-1/)[Fighting Butterflies Article](https://expensiveproblem.com/fighting-butterflies)
+[Cashflow podcasting episode with Jonathan](https://cashflowpodcasting.com/cfp-028-ditch-hourly-billing-and-deliver-superior-service-with-jonathan-stark-part-1/)[Fighting Butterflies Article](https://expensiveproblem.com/fighting-butterflies)
 
 ###### Phillip
 
@@ -74,7 +74,7 @@ Brent adds as a last piece of advice to find the people you you want emulate and
 
 ##### Links
 
-[ugurus.com](http://ugurus.com/)[Email Brent](mailto:brent@ugurus.com)
+[ugurus.com](https://ugurus.com/)[Email Brent](mailto:brent@ugurus.com)
 
 ---
 

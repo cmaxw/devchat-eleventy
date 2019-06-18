@@ -14,11 +14,11 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** Dan Shappir
 ### **Episode Summary**
-In this episode of My JavaScript Story, Charles hosts Dan Shappir from Tel Aviv, Israel, who is a computer software developer and performance specialist at [Wix](https://www.wix.com/). Listen to Dan on the podcast JavaScript Jabber on this&nbsp;<u><a href="https://devchat.tv/js-jabber/jsj-334-web-performance-api-with-dan-shappir/">episode.</a></u>Dan got a [TI-99/4](http://oldcomputers.net/ti994.html) when he was very young and enjoyed programming games. He first started with Basic language. After he studied Computer Science at the Hebrew University of Jerusalem, he joined the Israel army to serve his military service. While in the military he also obtained his Masters Degree in Computer Science. Currently Dan is working as a Performance Tech Lead at [Wix](https://www.wix.com/), he works on &nbsp;speeding up the delivery and execution of 50+ million websites hosted on the Wix platform, as well as Wix own applications and services.
+In this episode of My JavaScript Story, Charles hosts Dan Shappir from Tel Aviv, Israel, who is a computer software developer and performance specialist at [Wix](https://www.wix.com/). Listen to Dan on the podcast JavaScript Jabber on this&nbsp;<u><a href="https://devchat.tv/js-jabber/jsj-334-web-performance-api-with-dan-shappir/">episode.</a></u>Dan got a [TI-99/4](https://oldcomputers.net/ti994.html) when he was very young and enjoyed programming games. He first started with Basic language. After he studied Computer Science at the Hebrew University of Jerusalem, he joined the Israel army to serve his military service. While in the military he also obtained his Masters Degree in Computer Science. Currently Dan is working as a Performance Tech Lead at [Wix](https://www.wix.com/), he works on &nbsp;speeding up the delivery and execution of 50+ million websites hosted on the Wix platform, as well as Wix own applications and services.
 ### **Links**
 
 - <u><a href="https://devchat.tv/js-jabber/jsj-334-web-performance-api-with-dan-shappir/">JavaScript Jabber 334: “Web Performance API” with Dan Shappir</a></u>
@@ -34,7 +34,7 @@ In this episode of My JavaScript Story, Charles hosts Dan Shappir from Tel Aviv,
 
 ### **Picks**
  **Dan Shappir:**
-- [Open Source Functional JavaScript Library](http://w3future.com/html/beyondJS/)
+- [Open Source Functional JavaScript Library](https://w3future.com/html/beyondJS/)
 - [Dan's JavaScript Riddles on Twitter](https://twitter.com/search?q=javascriptriddle)
 - [Dan's JavaScript Riddles in Conference Talk](https://www.youtube.com/watch?v=TAb0lpw7zy4)
 - [Wix Engineering Blog](https://www.wix.engineering/)

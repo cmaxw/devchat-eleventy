@@ -32,12 +32,12 @@ tags:
 - How long before followup properly
 - And much more!
   **Picks:** Kai
-- [Blade Runner](http://www.imdb.com/title/tt1856101/)
-- [freeoutreachcourse.com](http://freeoutreachcourse.com)
-- [outreachblueprint.com](http://outreachblueprint.com)
+- [Blade Runner](https://www.imdb.com/title/tt1856101/)
+- [freeoutreachcourse.com](https://freeoutreachcourse.com)
+- [outreachblueprint.com](https://outreachblueprint.com)
   Jonathan
 - [Web Cam&nbsp; - Logitech C920](https://www.amazon.com/s/?ie=UTF8&keywords=logitech+c920&tag=googhydr-20&index=electronics&hvadid=177357216400&hvpos=1t1&hvnetw=g&hvrand=5392906183360862065&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028554&hvtargid=aud-397161105788:kwd-42514759173&ref=pd_sl_7vu480a21x_e)
-- [howtobuildyourfirstproductizedservice.com](http://howtobuildyourfirstproductizedservice.com)
+- [howtobuildyourfirstproductizedservice.com](https://howtobuildyourfirstproductizedservice.com)
 -
 
 Reuven

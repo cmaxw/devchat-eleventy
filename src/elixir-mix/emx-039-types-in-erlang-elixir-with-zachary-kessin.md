@@ -5,7 +5,7 @@ title: >
 date: 2019-02-19 11:00:38
 episode_number: 039
 duration: 47:48
-audio_url: http://media.devchat.tv/elixir-mix/EMx_039_Types_in_Erlang_Elixir_with_Zachary_Kessin.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_039_Types_in_Erlang_Elixir_with_Zachary_Kessin.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io) use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io) use the code "devchat" for $100 credit
 &nbsp;
 ### **Episode Summary**
 In this episode, the panelists, Josh Adams, Mark Erickson and guest Zachary Kessin, author of the book "Building Web Applications with Erlang", discuss types in Erlang and Elixir. Expert inputs with examples of implemented projects that use the Erlang and Elixir data types, were discussed.Here are the highlights of the discussion:
@@ -30,13 +30,13 @@ In this episode, the panelists, Josh Adams, Mark Erickson and guest Zachary Kess
 
 ### **Links**
 
-- [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
+- [Dialyzer](https://erlang.org/doc/man/dialyzer.html)
 - [PropEr](https://proper-testing.github.io/)
 - [Sheriff](https://github.com/extend/sheriff)
 - [Dialyxir](https://github.com/jeremyjh/dialyxir)
 - [Typed\_Struct](https://hex.pm/packages/typed_struct)
 - [Beam\_Types](https://github.com/zkessin/beam_types)
-- [GB\_Trees](http://erlang.org/doc/man/gb_trees.html)
+- [GB\_Trees](https://erlang.org/doc/man/gb_trees.html)
 - [Programming Languages on the BEAM](https://youtu.be/ZIPbpWdyIqE)
 - [A reactive game stack: Using Erlang, Lua and Voltdb](https://www.youtube.com/watch?v=BiBvOGP-GNg)
 - [Robert Virding](https://twitter.com/rvirding)
@@ -51,7 +51,7 @@ In this episode, the panelists, Josh Adams, Mark Erickson and guest Zachary Kess
 **Mark Ericksen**
 - [BalenaEtcher](https://www.balena.io/etcher/)
 **Zach Kessin**
-- [Elixir Release Ecourse&nbsp;](http://bit.ly/elixir-release-ecourse)
+- [Elixir Release Ecourse&nbsp;](https://bit.ly/elixir-release-ecourse)
 - [Shalva Band](https://www.youtube.com/watch?v=miJ7wvj5bTc)
 
 

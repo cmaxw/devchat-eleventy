@@ -18,7 +18,7 @@ tags:
   5:51 - Cure for Introversion / Networking 8:22 - Learning
 - Will motivate yourself to learn a new skill on a level where you can effectively speak about it
 - Problems you’ve overcome are fresh in your mind / can explain the speedbumps
-  9:12 -&nbsp;[Pragmatic Thinking and Learning](http://www.amazon.com/gp/product/1934356050/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1934356050)9:12 -&nbsp;[Dreyfus Model of Skill Acquisition](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)10:20 - Picking a Topic
+  9:12 -&nbsp;[Pragmatic Thinking and Learning](https://www.amazon.com/gp/product/1934356050/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1934356050)9:12 -&nbsp;[Dreyfus Model of Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)10:20 - Picking a Topic
 - "Someone on the internet is wrong!"
 - 7 Distinct Types of talks:
   - Keynote
@@ -57,7 +57,7 @@ tags:
 - Highlight Code
 - Don't Read Your Whole Speech
   43:42 - Attend Talks Before Conferences =\>&nbsp;User Groups 44:18 - Get Feedback 44:55 - Rehearse 48:32 - Be Funny and Entertaining
-- [Brain Rules by John Medina](http://www.brainrules.net/)
+- [Brain Rules by John Medina](https://www.brainrules.net/)
   51:27 - Conference Expectations
 - Travel / Costs
   56:49 - How to Work Well With the Conference Staff

@@ -171,7 +171,7 @@ It’s interesting because you could have used a LiveView layer in the mid-2000s
 
 **Links:**
 
-- [Chris McCord’s Website](http://chrismccord.com)
+- [Chris McCord’s Website](https://chrismccord.com)
 - [Chris McCord’s Twitter](https://twitter.com/chris_mccord?lang=en)
 - [Chris McCord’s GitHub](https://github.com/chrismccord)
 - [Chris McCord’s YouTube](https://www.youtube.com/channel/UChlCFJe7gDdED1DMFUmpEJg)
@@ -188,9 +188,9 @@ It’s interesting because you could have used a LiveView layer in the mid-2000s
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badges](http://codebadge.org/)
+- [Code Badges](https://codebadge.org/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**

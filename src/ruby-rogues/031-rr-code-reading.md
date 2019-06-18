@@ -12,8 +12,8 @@ tags:
   - podcast
 ---
 
-- [Wittgenstein's ladder](http://en.wikipedia.org/wiki/Lie-to-children "Wittgenstein's Ladder")
-- [Software Archaeology with Dave Thomas](http://www.se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/ 'Software Archaeology with Dave Thomas')
+- [Wittgenstein's ladder](https://en.wikipedia.org/wiki/Lie-to-children "Wittgenstein's Ladder")
+- [Software Archaeology with Dave Thomas](https://www.se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/ 'Software Archaeology with Dave Thomas')
 - [The Rubygems.org source](https://github.com/rubygems/rubygems.org 'The Rubygems.org source')
 
 ### Transcript

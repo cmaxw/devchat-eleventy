@@ -14,22 +14,22 @@ tags:
 
 00:59 - Marty Haught Introduction
 
-- [Haught Codeworks](http://haughtcodeworks.com/)
-- Runs [Boulder Ruby Group](http://www.meetup.com/boulder_ruby_group/)
-- Organizes [Rocky Mountain Ruby](http://rockymtnruby.com/)
-  03:17 -&nbsp;[Peter Cooper Episode](http://rubyrogues.com/?p=437)03:50 - Career Advice / Career Directions 05:45 - Chuck on Product/Bigger Companies
+- [Haught Codeworks](https://haughtcodeworks.com/)
+- Runs [Boulder Ruby Group](https://www.meetup.com/boulder_ruby_group/)
+- Organizes [Rocky Mountain Ruby](https://rockymtnruby.com/)
+  03:17 -&nbsp;[Peter Cooper Episode](https://rubyrogues.com/?p=437)03:50 - Career Advice / Career Directions 05:45 - Chuck on Product/Bigger Companies
 - Biggest Factor:&nbsp; Company Culture
 - [Mozy](https://mozy.com/)
-- [Public Engines](http://www.publicengines.com/)
+- [Public Engines](https://www.publicengines.com/)
   09:09 - 7 Career Directions for Programmers
 - Product (Software) Companies
 - Consulting
-  - Example: [Pivotal Labs](http://pivotallabs.com/)
+  - Example: [Pivotal Labs](https://pivotallabs.com/)
 - Freelance
   - Own Your Own Biz
 - Content Provider
 - Training
-  - Example: [Jumpstart Lab](http://jumpstartlab.com/) or [Pragmatic Studio](https://pragmaticstudio.com/)
+  - Example: [Jumpstart Lab](https://jumpstartlab.com/) or [Pragmatic Studio](https://pragmaticstudio.com/)
 - IT (Non-IT Corporation)
 - R&D&nbsp; (Non-IT Corporation)
   11:27 - Consulting vs Freelancing
@@ -43,7 +43,7 @@ tags:
     18:44 - Current Mindset of Developers
 - Think/Work in Projects/Team, Not Companies
   19:20 - Loyalty For a Company vs. Working Project-to-Project 20:00 - Handling Clients & Projects:&nbsp; Freelancing vs Consulting 21:15 - Managerial Effect on Happiness
-- Bungee Bosses / [Dilbert](http://dilbert.com/strips/comic/1994-09-07/)
+- Bungee Bosses / [Dilbert](https://dilbert.com/strips/comic/1994-09-07/)
 - "Permatemps"
   - 300 Days On / 100 Days Off
 - Favor a good manager over a good project!
@@ -65,7 +65,7 @@ tags:
     47:40 - Job/Project Cycle 48:06 - Job Security vs Career Security 51:16 - Fear vs Risk vs Confusion
 - Don't quit your day job for your side jobs
 - Risk your time, not your money
-  54:45 -&nbsp;[Fortune Favors the Bold](http://en.wikipedia.org/wiki/Fortune_favours_the_bold)56:10 - Opportunity Cost for Your Choices
+  54:45 -&nbsp;[Fortune Favors the Bold](https://en.wikipedia.org/wiki/Fortune_favours_the_bold)56:10 - Opportunity Cost for Your Choices
 - Jobs Are About Tradeoffs
   56:10 - Josh on Consulting
 - It’s a Stepping Stone

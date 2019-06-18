@@ -16,14 +16,14 @@ tags:
 
 - [Twitter](https://twitter.com/mgechev)
 - [GitHub](https://github.com/mgechev)
-- [Blog](http://blog.mgechev.com/)
+- [Blog](https://blog.mgechev.com/)
 - [Minko Gechev: Bringing Immutability to Angular @ ng-vegas 2015](https://www.youtube.com/watch?v=zeChCjj-tbY)
 
 03:57 - Immutability
 
 05:11 - Why is immutability interesting to Angular developers?
 
-- [React](http://facebook.github.io/react/)
+- [React](https://facebook.github.io/react/)
 
 09:19 - Side Effects
 
@@ -39,15 +39,15 @@ tags:
 
 21:30 - Immutable Data and Observables
 
-- [Cycle.js](http://cycle.js.org/)
-- [Knockout.js](http://knockoutjs.com/)
+- [Cycle.js](https://cycle.js.org/)
+- [Knockout.js](https://knockoutjs.com/)
 
 25:14 - Getting Started
 
-- [Minko Gechev: Bringing Immutability to Angular Part 1](http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/)
-- [Minko Gechev: Bringing Immutability to Angular Part 2](http://blog.mgechev.com/2015/04/11/immutability-in-angularjs-immutablejs-part-2/)
-- [Minko Gechev: Bringing Immutability to Angular Part 3](http://blog.mgechev.com/2015/04/20/fast-angular-data-structures-versionable/)
-- [Victor Savkin: Change Detection in Angular 2 (Immutability and Observables)](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
+- [Minko Gechev: Bringing Immutability to Angular Part 1](https://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/)
+- [Minko Gechev: Bringing Immutability to Angular Part 2](https://blog.mgechev.com/2015/04/11/immutability-in-angularjs-immutablejs-part-2/)
+- [Minko Gechev: Bringing Immutability to Angular Part 3](https://blog.mgechev.com/2015/04/20/fast-angular-data-structures-versionable/)
+- [Victor Savkin: Change Detection in Angular 2 (Immutability and Observables)](https://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
 
 26:26 - Minko’s Background with Immutability
 
@@ -57,10 +57,10 @@ tags:
 
 29:29 - Data in, UI out
 
-- [Victor Savkin: Building Angular Apps Using Flux Architecture](http://victorsavkin.com/post/99998937651/building-angular-apps-using-flux-architecture)
+- [Victor Savkin: Building Angular Apps Using Flux Architecture](https://victorsavkin.com/post/99998937651/building-angular-apps-using-flux-architecture)
   32:30 - Case Studies and Examples Where Immutability Has Worked IdeallyPicks
 
-[The Little Mermaid Musical](<https://en.wikipedia.org/wiki/The_Little_Mermaid_(musical)>) (Katya)[Primitive.io](http://primitive.io) (Joe)[Douglas Crockford: The Better Parts](http://www.youtube.com/watch?v=bo36MrBfTk4) (John)[DuckTales](http://www.imdb.com/title/tt0092345/?ref_=nv_sr_6) (John)[Camp Pluralsight](http://course.pluralsight.com/camp/) (John)[Cell Phone Tripod Adapter](http://www.amazon.com/gp/product/B00OS9E6AO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OS9E6AO&linkCode=as2&tag=chamaxwoo-20&linkId=PG2RXG56FJCC5KED) (Chuck)[NeewerHandheld Video Stabilizer for DV GoPro Mini Cameras](http://www.amazon.com/gp/product/B00QY8ANNQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QY8ANNQ&linkCode=as2&tag=chamaxwoo-20&linkId=2C7VUHQE5BFCCCQC) (Chuck)[Michael Feathers: The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU) (Minko)
+[The Little Mermaid Musical](<https://en.wikipedia.org/wiki/The_Little_Mermaid_(musical)>) (Katya)[Primitive.io](https://primitive.io) (Joe)[Douglas Crockford: The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) (John)[DuckTales](https://www.imdb.com/title/tt0092345/?ref_=nv_sr_6) (John)[Camp Pluralsight](https://course.pluralsight.com/camp/) (John)[Cell Phone Tripod Adapter](https://www.amazon.com/gp/product/B00OS9E6AO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OS9E6AO&linkCode=as2&tag=chamaxwoo-20&linkId=PG2RXG56FJCC5KED) (Chuck)[NeewerHandheld Video Stabilizer for DV GoPro Mini Cameras](https://www.amazon.com/gp/product/B00QY8ANNQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QY8ANNQ&linkCode=as2&tag=chamaxwoo-20&linkId=2C7VUHQE5BFCCCQC) (Chuck)[Michael Feathers: The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU) (Minko)
 
 ### Transcript
 

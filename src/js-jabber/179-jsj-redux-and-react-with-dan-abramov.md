@@ -24,7 +24,7 @@ tags:
 
 05:48 - [redux](https://www.npmjs.com/package/redux) and [React&nbsp;&nbsp; &nbsp;](https://facebook.github.io/react/)
 
-10:07- [The Elm Programming Language](http://elm-lang.org)
+10:07- [The Elm Programming Language](https://elm-lang.org)
 
 12:19 - Reducers
 
@@ -54,7 +54,7 @@ tags:
 
 Picks
 
-[The OAuth2 RFC](https://tools.ietf.org/html/rfc6749) (Aimee)[Michael Ries: Hiring Apprentices](http://devblog.riesd.com/blog/2015/09/09/hiring-apprentices/) (Jamison)[@sebmck: "Sometimes having email history isn't always a good thing..."](https://twitter.com/sebmck/status/641280994805444609) (Jamison)[Metal Gear Solid 5: The Phantom Pain](http://store.steampowered.com/agecheck/app/287700/) (Jamison)[Firefly](http://www.imdb.com/title/tt0303461/?ref_=nv_sr_1) (Joe)[The Elm Programming Language](http://elm-lang.org) (Joe)[Google Keep](http://www.google.com/keep/) (Dave)[15 Minute Podcast Listener chat with Charles Wood](http://javascriptjabber.com/15minutes) (Chuck)[Pebble Time](https://getpebble.com/pebble_time/) (Chuck)[100 Days of Burpees](https://www.facebook.com/groups/424912737585458/) (Chuck)[Broad City](http://www.cc.com/shows/broad-city) (Dan)[Jamie xx: In Colour](http://pitchfork.com/reviews/albums/20458-in-colour/) (Dan)[Cycle.js](http://cycle.js.org) (Dan)
+[The OAuth2 RFC](https://tools.ietf.org/html/rfc6749) (Aimee)[Michael Ries: Hiring Apprentices](https://devblog.riesd.com/blog/2015/09/09/hiring-apprentices/) (Jamison)[@sebmck: "Sometimes having email history isn't always a good thing..."](https://twitter.com/sebmck/status/641280994805444609) (Jamison)[Metal Gear Solid 5: The Phantom Pain](https://store.steampowered.com/agecheck/app/287700/) (Jamison)[Firefly](https://www.imdb.com/title/tt0303461/?ref_=nv_sr_1) (Joe)[The Elm Programming Language](https://elm-lang.org) (Joe)[Google Keep](https://www.google.com/keep/) (Dave)[15 Minute Podcast Listener chat with Charles Wood](https://javascriptjabber.com/15minutes) (Chuck)[Pebble Time](https://getpebble.com/pebble_time/) (Chuck)[100 Days of Burpees](https://www.facebook.com/groups/424912737585458/) (Chuck)[Broad City](https://www.cc.com/shows/broad-city) (Dan)[Jamie xx: In Colour](https://pitchfork.com/reviews/albums/20458-in-colour/) (Dan)[Cycle.js](https://cycle.js.org) (Dan)
 
 ### Transcript
 

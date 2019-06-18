@@ -14,7 +14,7 @@ tags:
 
 01:06 - How do you deal with unexpected requests for your time?
 
-- [INBOX PAUSE](http://inboxpause.com/)
+- [INBOX PAUSE](https://inboxpause.com/)
 
 07:57 - How do you find your first few clients?
 
@@ -33,7 +33,7 @@ tags:
 - Establish savings for job security
   Picks
 
-Zapier/Slack Hack (Eric)[IKEA Wireless Chargers](http://www.ikea.com/us/en/catalog/categories/departments/wireless_charging/30611/) (Jonathan)[Cell Phone Tripod Adapter](http://www.amazon.com/gp/product/B00OS9E6AO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OS9E6AO&linkCode=as2&tag=chamaxwoo-20&linkId=VNSUOS5JERPZYYH4) (Chuck)[NeewerHandheld Video Stabilizer for DV GoPro Mini Cameras](http://www.amazon.com/gp/product/B00QY8ANNQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QY8ANNQ&linkCode=as2&tag=chamaxwoo-20&linkId=IMK7QPOAASWBZOII) (Chuck)
+Zapier/Slack Hack (Eric)[IKEA Wireless Chargers](https://www.ikea.com/us/en/catalog/categories/departments/wireless_charging/30611/) (Jonathan)[Cell Phone Tripod Adapter](https://www.amazon.com/gp/product/B00OS9E6AO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OS9E6AO&linkCode=as2&tag=chamaxwoo-20&linkId=VNSUOS5JERPZYYH4) (Chuck)[NeewerHandheld Video Stabilizer for DV GoPro Mini Cameras](https://www.amazon.com/gp/product/B00QY8ANNQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QY8ANNQ&linkCode=as2&tag=chamaxwoo-20&linkId=IMK7QPOAASWBZOII) (Chuck)
 
 &nbsp;
 

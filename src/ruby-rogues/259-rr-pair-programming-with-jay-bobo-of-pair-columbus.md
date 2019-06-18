@@ -16,14 +16,14 @@ tags:
 
 - [Twitter](https://twitter.com/jaybobo)
 - [GitHub](https://github.com/jaybobo)
-- [Pair Columbus](http://paircolumbus.org/)
+- [Pair Columbus](https://paircolumbus.org/)
 
-04:20 - [Pair Columbus](http://paircolumbus.org/)
+04:20 - [Pair Columbus](https://paircolumbus.org/)
 
 07:28 - Meeting Formats
 
 - [OWASP](https://www.owasp.org/index.php/Main_Page)
-- [Challenges](http://paircolumbus.org/challenges/)
+- [Challenges](https://paircolumbus.org/challenges/)
 
 11:21 - Organization
 
@@ -37,8 +37,8 @@ tags:
 
 19:33 - [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming) and Communication/Chemistry
 
-- [Dan North - Embracing uncertainty: why you should and why you won’t](http://www.ustream.tv/recorded/86148915)
-- [Jay Bobo: Do u even pair bro?](http://slides.com/goodproduce/do-u-even-pair-bro) &nbsp;(Slides)
+- [Dan North - Embracing uncertainty: why you should and why you won’t](https://www.ustream.tv/recorded/86148915)
+- [Jay Bobo: Do u even pair bro?](https://slides.com/goodproduce/do-u-even-pair-bro) &nbsp;(Slides)
 
 31:50 - Dealing with Difficulties During Pair Programming
 
@@ -51,7 +51,7 @@ tags:
 
 - [Ruby Rogues Episode #026: Pair Programming](https://devchat.tv/ruby-rogues/026-rr-pair-programming)
 - [Ruby Rogues Episode #126: Remote Pair Programming with Sam Livingston-Gray](https://devchat.tv/ruby-rogues/126-rr-remote-pair-programming-with-sam-livingston-gray)
-  Picks[Jarvis Desk](http://www.ergodepot.com/Jarvis_Desk_s/566.htm) (Sam)[What Do Women Want At Hackathons? NASA Has A List](http://www.fastcompany.com/3059036/most-creative-people/what-do-women-want-at-hackathons-nasa-has-a-list) (Sam)[Dan North - Embracing uncertainty: why you should and why you won’t](http://www.ustream.tv/recorded/86148915) (Jessica)[Common Ground and Coordination in Joint Activity](http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf) (Jessica)[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://chimera.labs.oreilly.com/books/1234000001813/index.html) (Jay)[Zach Holman: How to Deploy Software](https://zachholman.com/posts/deploying-software) (Jay)[Patricio Gonzalez Vivo: The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) (Jay)[Black Mamba Hot Sauce by CaJohn's](http://www.amazon.com/Black-Mamba-Hot-Sauce-CaJohns/dp/B001I4TC6A) (David)
+  Picks[Jarvis Desk](https://www.ergodepot.com/Jarvis_Desk_s/566.htm) (Sam)[What Do Women Want At Hackathons? NASA Has A List](https://www.fastcompany.com/3059036/most-creative-people/what-do-women-want-at-hackathons-nasa-has-a-list) (Sam)[Dan North - Embracing uncertainty: why you should and why you won’t](https://www.ustream.tv/recorded/86148915) (Jessica)[Common Ground and Coordination in Joint Activity](https://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf) (Jessica)[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://chimera.labs.oreilly.com/books/1234000001813/index.html) (Jay)[Zach Holman: How to Deploy Software](https://zachholman.com/posts/deploying-software) (Jay)[Patricio Gonzalez Vivo: The Book of Shaders](https://patriciogonzalezvivo.com/2015/thebookofshaders/) (Jay)[Black Mamba Hot Sauce by CaJohn's](https://www.amazon.com/Black-Mamba-Hot-Sauce-CaJohns/dp/B001I4TC6A) (David)
 
 ### Transcript
 

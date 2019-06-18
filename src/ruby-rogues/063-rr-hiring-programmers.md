@@ -12,18 +12,18 @@ tags:
   - podcast
 ---
 
-5:34 - Is the Résumé Dead? 7:33 -&nbsp;[LinkedIn](http://www.linkedin.com/)7:40 -&nbsp;[GitHub](https://github.com/)
+5:34 - Is the Résumé Dead? 7:33 -&nbsp;[LinkedIn](https://www.linkedin.com/)7:40 -&nbsp;[GitHub](https://github.com/)
 
-- [Open Source](http://en.wikipedia.org/wiki/Open_source) vs Closed Source
-- [whoispaulyting.com](http://whoispaulyting.com/)
-  13:57 - Use good [HTML](http://en.wikipedia.org/wiki/HTML) and [CSS](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)15:59 - Know the Job? 16:20 - Good Fit for the Team? 17:36 - Baseline Ability 19:20 - Good Personality Traits
+- [Open Source](https://en.wikipedia.org/wiki/Open_source) vs Closed Source
+- [whoispaulyting.com](https://whoispaulyting.com/)
+  13:57 - Use good [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)15:59 - Know the Job? 16:20 - Good Fit for the Team? 17:36 - Baseline Ability 19:20 - Good Personality Traits
 - Brainwashing
   23:28 - Network Within the Community 24:06 - Managing Recruiters 28:18 - Expertise in Multiple Languages
 - Troll Questions
-  33:56 - [Pair Programming](http://en.wikipedia.org/wiki/Pair_programming) Interview 38:00 - Talk Up Your Team 38:09 - Culture and Environment 39:32 - Attract Employees That Are the Perfect Fit
+  33:56 - [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming) Interview 38:00 - Talk Up Your Team 38:09 - Culture and Environment 39:32 - Attract Employees That Are the Perfect Fit
 - Unique [Job Description](https://www.change.org/hiring/23)
-  42:22 - The Trust Network 43:30 -&nbsp;[Pair Roulette](http://www.urbandictionary.com/define.php?term=GNDN)46:57 - Participate In and Host Community Events
-- [RailsBridge Workshop](http://www.railsbridge.org/learn/events)
+  42:22 - The Trust Network 43:30 -&nbsp;[Pair Roulette](https://www.urbandictionary.com/define.php?term=GNDN)46:57 - Participate In and Host Community Events
+- [RailsBridge Workshop](https://www.railsbridge.org/learn/events)
   51:08 -&nbsp;[RSA Animate of Dan Pink’s Drive](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 
 ### Transcript

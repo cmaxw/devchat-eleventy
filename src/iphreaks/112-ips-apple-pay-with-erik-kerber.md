@@ -16,8 +16,8 @@ tags:
 
 - [Twitter](https://twitter.com/erikkerber)
 - [GitHub](https://github.com/eskerber)
-- [Blog](http://www.erikkerber.com/)
-- [Target](http://www.target.com/)
+- [Blog](https://www.erikkerber.com/)
+- [Target](https://www.target.com/)
 - [Target App](https://itunes.apple.com/us/app/target/id297430070?mt=8)
 
 02:38 - [Apple Pay](https://www.apple.com/apple-pay/)
@@ -48,7 +48,7 @@ tags:
 
 Picks
 
-[Demotivators](http://despair.com/collections/demotivators) (Jaim)[Blitzortung](http://www.blitzortung.org/) (Mike)[Hopper](http://www.hopperapp.com) (Andrew)[Ham Radio](http://www.arrl.org/what-is-ham-radio) (Andrew)[Boy Scouts of America](http://www.scouting.org/) (Chuck)[Elixir](http://elixir-lang.org/) (Chuck)[Programming Elixir: Functional |\> Concurrent |\> Pragmatic |\> Fun by Dave Thomas](https://pragprog.com/book/elixir/programming-elixir) (Chuck)[Reveal](http://revealapp.com/) (Erik)
+[Demotivators](https://despair.com/collections/demotivators) (Jaim)[Blitzortung](https://www.blitzortung.org/) (Mike)[Hopper](https://www.hopperapp.com) (Andrew)[Ham Radio](https://www.arrl.org/what-is-ham-radio) (Andrew)[Boy Scouts of America](https://www.scouting.org/) (Chuck)[Elixir](https://elixir-lang.org/) (Chuck)[Programming Elixir: Functional |\> Concurrent |\> Pragmatic |\> Fun by Dave Thomas](https://pragprog.com/book/elixir/programming-elixir) (Chuck)[Reveal](https://revealapp.com/) (Erik)
 
 ### Transcript
 

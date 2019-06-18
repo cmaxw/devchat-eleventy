@@ -16,7 +16,7 @@ tags:
 
 - [twitter](https://twitter.com/jacqui)
 - [github](https://github.com/jacqui)
-- [The New York Times](http://www.nytimes.com/)
+- [The New York Times](https://www.nytimes.com/)
 
 02:05 - Working at the New York Times
 
@@ -33,10 +33,10 @@ tags:
 
 22:00 - Data
 
-- R&D ([Research & Development](http://en.wikipedia.org/wiki/Research_and_development))
-- The [OpenNews](http://opennews.org/) Project
-- [The Go Programming Language](http://golang.org/)
-- [Source](http://opennews.org/source.html)
+- R&D ([Research & Development](https://en.wikipedia.org/wiki/Research_and_development))
+- The [OpenNews](https://opennews.org/) Project
+- [The Go Programming Language](https://golang.org/)
+- [Source](https://opennews.org/source.html)
 - [Introducing Streamtools: A Graphical Tool for Working with Streams of Data](https://source.opennews.org/en-US/articles/introducing-streamtools/)
 - [streamtools](https://github.com/nytlabs/streamtools)
 - Lowering the Barrier of Entry
@@ -44,8 +44,8 @@ tags:
 
 40:01 - Merging Journalism & Technology
 
-- Hiring for CAR ([Computer Assisted Reporting](http://en.wikipedia.org/wiki/Computer-assisted_reporting))
-- [ProgrammableWeb](http://www.programmableweb.com/)
+- Hiring for CAR ([Computer Assisted Reporting](https://en.wikipedia.org/wiki/Computer-assisted_reporting))
+- [ProgrammableWeb](https://www.programmableweb.com/)
 - [A Bot to Find the Source of Serendipity](https://source.opennews.org/en-US/articles/bot-find-source-serendipity/)
   - [@NYTMinusContext](https://twitter.com/NYTMinusContext/)
   - [@NYTPlusContext](https://twitter.com/NYTPlusContext)
@@ -53,15 +53,15 @@ tags:
 
 ### See Also
 
-[JavaScript Jabber Episode #93: The New York Times and JavaScript with Eitan Konigsburg, Alastair Coote and Reed Emmons](http://javascriptjabber.com/093-jsj-the-new-york-times-and-javascript-with-eitan-konigsburg-alastair-coote-and-reed-emmons/)
+[JavaScript Jabber Episode #93: The New York Times and JavaScript with Eitan Konigsburg, Alastair Coote and Reed Emmons](https://javascriptjabber.com/093-jsj-the-new-york-times-and-javascript-with-eitan-konigsburg-alastair-coote-and-reed-emmons/)
 
 ### Book Club
 
-[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
+[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
 
 ### Next Week
 
-From the Forum ([Parley](http://rubyrogues.com/parley))
+From the Forum ([Parley](https://rubyrogues.com/parley))
 
 ### Transcript
 

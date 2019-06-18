@@ -42,7 +42,7 @@ tags:
 - [CookPad](https://cookpad.com/us?via=jp)
 - [Interview Cake](https://www.interviewcake.com/?utm_source=rubyrogues)
 - [FreshBooks](https://www.freshbooks.com/?ref=ppc-na-fb&camp=US%2528SEM%2529Branded%257CEXM&ag=freshbook&kw=freshbook&dv=c&mt=e&ntwk=g&ap=1t1&crid=165769161334&source=GOOGLE&gclid=CjwKCAiAk4XUBRB5EiwAHBLUMbbsRfVeq8Mw1B0h9G4Dno11YQmyiz2FynIWHLgb6w-je_OYNIUwuBoCFz0QAvD)
-- [SebaSoga.com](http://www.sebasoga.com/)
+- [SebaSoga.com](https://www.sebasoga.com/)
 - [@SebaSoga](https://twitter.com/sebasoga?lang=en)
 - [Sebastian’s GitHub](https://github.com/sebasoga)
 - [SourceDiving.com](https://sourcediving.com/)

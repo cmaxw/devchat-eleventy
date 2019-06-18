@@ -12,26 +12,26 @@ tags:
   - podcast
 ---
 
-03:14 - [Domain Driven Design](http://en.wikipedia.org/wiki/Domain-driven_design)04:01 - [Domain Model](http://en.wikipedia.org/wiki/Domain_model)04:09 -&nbsp;[Patterns of Enterprise Application Architecture by Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321127420)05:24 -&nbsp;[Domain Driven Design by Eric Evans](http://www.amazon.com/gp/product/0321125215/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321125215)
+03:14 - [Domain Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design)04:01 - [Domain Model](https://en.wikipedia.org/wiki/Domain_model)04:09 -&nbsp;[Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/gp/product/0321127420/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321127420)05:24 -&nbsp;[Domain Driven Design by Eric Evans](https://www.amazon.com/gp/product/0321125215/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321125215)
 
-- [Growing Object Oriented Software Guided by Tests](http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)
-  07:54 - Ubiquitous Language: Use the Terms That the Business/Users Use in Your Code 08:50 - Bounded Context 09:50 - Pattern Language 10:03 - [Repository](http://en.wikipedia.org/wiki/Repository): Allows You to Retrieve Things 10:21 - Entity: Something With an Identity
+- [Growing Object Oriented Software Guided by Tests](https://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)
+  07:54 - Ubiquitous Language: Use the Terms That the Business/Users Use in Your Code 08:50 - Bounded Context 09:50 - Pattern Language 10:03 - [Repository](https://en.wikipedia.org/wiki/Repository): Allows You to Retrieve Things 10:21 - Entity: Something With an Identity
 - ActiveRecords
-  14:28 - [Refactoring](http://martinfowler.com/books/refactoring.html)14:28 - [TDD (Test Driven Development)](http://en.wikipedia.org/wiki/Test-driven_development)14:47 - [MSDN Article on DDD](http://msdn.microsoft.com/en-us/magazine/dd419654.aspx)
-- [Wikipedia Page on DDD](http://en.wikipedia.org/wiki/Domain-driven_design)
-- Podcast Interview with David on DDD [Part 1](http://deepfriedbytes.com/podcast/episode-6-talking-domain-driven-design-with-david-laribee-part-1/),&nbsp;[Part 2](http://deepfriedbytes.com/podcast/episode-7-talking-domain-driven-design-with-david-laribee-ndash-part-2/)
-  15:05 - [SOA (Service Oriented Architecture)](http://en.wikipedia.org/wiki/Service-oriented_architecture)16:51 - Anti-corruption Layer
+  14:28 - [Refactoring](https://martinfowler.com/books/refactoring.html)14:28 - [TDD (Test Driven Development)](https://en.wikipedia.org/wiki/Test-driven_development)14:47 - [MSDN Article on DDD](https://msdn.microsoft.com/en-us/magazine/dd419654.aspx)
+- [Wikipedia Page on DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
+- Podcast Interview with David on DDD [Part 1](https://deepfriedbytes.com/podcast/episode-6-talking-domain-driven-design-with-david-laribee-part-1/),&nbsp;[Part 2](https://deepfriedbytes.com/podcast/episode-7-talking-domain-driven-design-with-david-laribee-ndash-part-2/)
+  15:05 - [SOA (Service Oriented Architecture)](https://en.wikipedia.org/wiki/Service-oriented_architecture)16:51 - Anti-corruption Layer
 - Scar Tissue
-  19:03&nbsp; [Smalltalk Best Practice Patterns by Kent Beck](http://www.amazon.com/gp/product/013476904X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=013476904X)21:56 -&nbsp;[Objectified (documentary)](http://www.imdb.com/title/tt1241325/)24:00 - Domain Model vs ActiveRecord
-- [ActiveRecord (The Design Pattern)](http://en.wikipedia.org/wiki/Active_record_pattern)
+  19:03&nbsp; [Smalltalk Best Practice Patterns by Kent Beck](https://www.amazon.com/gp/product/013476904X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=013476904X)21:56 -&nbsp;[Objectified (documentary)](https://www.imdb.com/title/tt1241325/)24:00 - Domain Model vs ActiveRecord
+- [ActiveRecord (The Design Pattern)](https://en.wikipedia.org/wiki/Active_record_pattern)
 - [ActiveRecord (The Rails library)](https://github.com/rails/rails/tree/master/activerecord)
-  26:20 -&nbsp;[Objects on Rails by Avdi Grimm](http://www.goodreads.com/book/show/13481927-objects-on-rails)27:33 - [ActiveModel](http://api.rubyonrails.org/classes/ActiveModel.html)29:49 - Aggregates ([Domain Model Pattern](http://en.wikipedia.org/wiki/Domain_model)) 32:54 - Domain Specific Languages
+  26:20 -&nbsp;[Objects on Rails by Avdi Grimm](https://www.goodreads.com/book/show/13481927-objects-on-rails)27:33 - [ActiveModel](https://api.rubyonrails.org/classes/ActiveModel.html)29:49 - Aggregates ([Domain Model Pattern](https://en.wikipedia.org/wiki/Domain_model)) 32:54 - Domain Specific Languages
 - A Good DSL Has a Strong Semantic Model
-  34:23 - [Cucumber](https://cukes.info/)35:45 - [Gherkin](https://cukes.info/gherkin.html)39:01- &nbsp;Project Glossaries / Dictionaries 41:33 - [Javascript Jabber Episode #18: Agile Development](http://devchat.tv/js-jabber/018-jsj-agile-development)
-- [D](http://domainlanguage.com/)[omain Language](http://domainlanguage.com/)
+  34:23 - [Cucumber](https://cukes.info/)35:45 - [Gherkin](https://cukes.info/gherkin.html)39:01- &nbsp;Project Glossaries / Dictionaries 41:33 - [Javascript Jabber Episode #18: Agile Development](https://devchat.tv/js-jabber/018-jsj-agile-development)
+- [D](https://domainlanguage.com/)[omain Language](https://domainlanguage.com/)
   43:57 - DDD leads to simple design
 - [MSDN Article](https://msdn.microsoft.com/en-us/magazine/dd419654.aspx) by David Laribee
-  46:58 - QCon Book 50:11 - Spiking Code 52:24 - [The Pragmatic Programmer by Dave Thomas and Andy Hunt](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+  46:58 - QCon Book 50:11 - Spiking Code 52:24 - [The Pragmatic Programmer by Dave Thomas and Andy Hunt](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 
 ### Transcript
 

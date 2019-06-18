@@ -16,11 +16,11 @@ tags:
 
 - [Twitter](https://twitter.com/bbrowning)
 - [GitHub](https://github.com/bbrowning)
-- [Blog](http://thinkingconcurrently.com/)
-- [Red Hat](http://www.redhat.com/)
-- [JRuby](http://jruby.org/)
+- [Blog](https://thinkingconcurrently.com/)
+- [Red Hat](https://www.redhat.com/)
+- [JRuby](https://jruby.org/)
 
-02:46 - [TorqueBox](http://torquebox.org/)
+02:46 - [TorqueBox](https://torquebox.org/)
 
 - [@torquebox](https://twitter.com/torquebox)
 
@@ -32,9 +32,9 @@ tags:
 
 - [Bob McWhirter](https://twitter.com/bobmcwhirter)
 
-07:49 - [JBoss](http://www.jboss.org/)
+07:49 - [JBoss](https://www.jboss.org/)
 
-- [WildFly](http://wildfly.org/)
+- [WildFly](https://wildfly.org/)
 
 09:15 - The Name “TorqueBox”
 
@@ -42,14 +42,14 @@ tags:
 
 12:05 - Documentation
 
-- [DocBook](http://www.docbook.org/)
-- [YARD](http://yardoc.org/)
+- [DocBook](https://www.docbook.org/)
+- [YARD](https://yardoc.org/)
 
 13:18 - When should/could you use TorqueBox?
 
 17:25 - Monolith vs Microservice
 
-- [WildFly Swarm](http://wildfly.org/swarm/)
+- [WildFly Swarm](https://wildfly.org/swarm/)
 
 21:36 - [JAR Files](<https://en.wikipedia.org/wiki/JAR_(file_format)>) and [WAR Files](<https://en.wikipedia.org/wiki/WAR_(file_format)>)
 
@@ -63,7 +63,7 @@ tags:
 
 35:53 - Getting Started with TorqueBox
 
-37:33 - [Immutant](http://immutant.org/)
+37:33 - [Immutant](https://immutant.org/)
 
 40:17 - The Rack Spec and TorqueBox
 
@@ -78,7 +78,7 @@ tags:
 
 Picks
 
-[[Khan Academy] Pixar in a Box: Introduction to Animation Curves](https://www.khanacademy.org/partner-content/pixar/animate/ball/v/intro-animation?utm_source=Sailthru&utm_medium=email&utm_campaign=Highlighted%20Content%20082915&utm_term=Stuff%20You%20Might%20Like%20Test%20Cohort) (Saron)[Tony Stark in Salt and Pepper](http://i.imgur.com/leksYy7.jpg) (Saron)[ElixirConf](http://elixirconf.com/) (Jessica)[Nick Shrock: GraphQL Introduction](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html) (Jessica)[Troll - Shane Koyczan](https://www.youtube.com/watch?v=670if6Etx0o) (Coraline)[funtools](https://gitlab.com/wuest/funtools/tree/master) (Coraline)[Ruby Remote Conf Talks](https://www.youtube.com/playlist?list=PLJesql-aSfX5wDU8ALH2bRd_xvw27klTQ) (Chuck)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[Bob McWhirter: qcon-keynote](https://www.dropbox.com/s/8l671jscyjtjzm0/qcon-keynote.pdf) (Ben)[Coders For Sanders](https://coders.forsanders.com/) (Ben)
+[[Khan Academy] Pixar in a Box: Introduction to Animation Curves](https://www.khanacademy.org/partner-content/pixar/animate/ball/v/intro-animation?utm_source=Sailthru&utm_medium=email&utm_campaign=Highlighted%20Content%20082915&utm_term=Stuff%20You%20Might%20Like%20Test%20Cohort) (Saron)[Tony Stark in Salt and Pepper](https://i.imgur.com/leksYy7.jpg) (Saron)[ElixirConf](https://elixirconf.com/) (Jessica)[Nick Shrock: GraphQL Introduction](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html) (Jessica)[Troll - Shane Koyczan](https://www.youtube.com/watch?v=670if6Etx0o) (Coraline)[funtools](https://gitlab.com/wuest/funtools/tree/master) (Coraline)[Ruby Remote Conf Talks](https://www.youtube.com/playlist?list=PLJesql-aSfX5wDU8ALH2bRd_xvw27klTQ) (Chuck)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[Bob McWhirter: qcon-keynote](https://www.dropbox.com/s/8l671jscyjtjzm0/qcon-keynote.pdf) (Ben)[Coders For Sanders](https://coders.forsanders.com/) (Ben)
 
 Extras
 

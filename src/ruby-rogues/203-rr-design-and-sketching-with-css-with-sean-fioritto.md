@@ -15,56 +15,56 @@ tags:
 02:29 - Sean Fioritto Introduction
 
 - [@sfioritto](https://twitter.com/sfioritto)
-- [planning for aliens](http://www.planningforaliens.com/)
+- [planning for aliens](https://www.planningforaliens.com/)
 
 02:52 - Design and Sketching with CSS Background & Overview
 
-- [Cascading Style Sheets (CSS)](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-- [Sketching with CSS by Sean Fioritto](http://www.sketchingwithcss.com/)
-  - Skip Using [Photoshop](http://www.photoshop.com/); Move Straight to Code =\> Get Pixels to Screen Faster
+- [Cascading Style Sheets (CSS)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [Sketching with CSS by Sean Fioritto](https://www.sketchingwithcss.com/)
+  - Skip Using [Photoshop](https://www.photoshop.com/); Move Straight to Code =\> Get Pixels to Screen Faster
 
 06:34 - Developer \<\> Designer Communication
 
 - Tooling and Muscle Memory
 
-12:23 - Using CSS Over [Photoshop](http://www.photoshop.com/), Alternative Programs, and Frameworks
+12:23 - Using CSS Over [Photoshop](https://www.photoshop.com/), Alternative Programs, and Frameworks
 
-- [Sketch](http://bohemiancoding.com/)
-- [InVision](http://www.invisionapp.com/)
-- [Macaw](http://macaw.co/)
+- [Sketch](https://bohemiancoding.com/)
+- [InVision](https://www.invisionapp.com/)
+- [Macaw](https://macaw.co/)
 
 15:29 - Grid Systems and Resets (Frontend Tools)
 
 - i.e. Grid Systems
-  - [The Grid System](http://www.thegridsystem.org/)
-  - [Responsive Grid System](http://www.responsivegridsystem.com/)
+  - [The Grid System](https://www.thegridsystem.org/)
+  - [Responsive Grid System](https://www.responsivegridsystem.com/)
 - CSS Resets
-  - [What Is A CSS Reset?](http://cssreset.com/what-is-a-css-reset/)&nbsp; &nbsp;
-  - [CSS Tools: Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
+  - [What Is A CSS Reset?](https://cssreset.com/what-is-a-css-reset/)&nbsp; &nbsp;
+  - [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 
 17:27 - Prototyping (Workflow)
 
-- [Git](http://git-scm.com/)
+- [Git](https://git-scm.com/)
 
 23:14 - Documentation
 
-26:14 - Adopting New Practices ([Progressive Enhancement](http://en.wikipedia.org/wiki/Progressive_enhancement))
+26:14 - Adopting New Practices ([Progressive Enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement))
 
 - (Killer) Interactive Demo Presentations
-- [“Style Tiles”](http://styletil.es/)
+- [“Style Tiles”](https://styletil.es/)
 - Fluency
-- ["Pixel Pushers"](http://www.urbandictionary.com/define.php?term=pixel+pusher)
+- ["Pixel Pushers"](https://www.urbandictionary.com/define.php?term=pixel+pusher)
 
 45:33 - The Modern Web Moving Forward
 
 47:30 - Keep Up with Scott
 
-- [Sketching with CSS by Sean Fioritto](http://www.sketchingwithcss.com/)
-- [planning for aliens](http://www.planningforaliens.com/)
-  - [The ginormous, unstoppable list of Angular resources](http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/)
+- [Sketching with CSS by Sean Fioritto](https://www.sketchingwithcss.com/)
+- [planning for aliens](https://www.planningforaliens.com/)
+  - [The ginormous, unstoppable list of Angular resources](https://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/)
     Picks
 
-[NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence by Pramod J. Sadalage and Martin Fowler](http://www.amazon.com/gp/product/0321826620/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321826620&linkCode=as2&tag=chamaxwoo-20&linkId=5RD5L3AAWSH4TTQY) (David)[RoT.js](http://ondras.github.io/rot.js/hp/) (David)[The Spatials](http://store.steampowered.com/app/346420/) (David)[The User is Drunk](http://theuserisdrunk.com) (Saron)[Drunk Kitchen](https://www.youtube.com/user/MyHarto) (Saron)[The Reckoners Series by Brandon Sanderson](http://en.wikipedia.org/wiki/The_Reckoners) (Chuck)[Bootstrapping Design: Roll Your Own Design by Jarrod Drysdale](http://bootstrappingdesign.com/) (Sean)[The Ruby DSL Handbook by Jim Gay](http://clean-ruby.com/dsl) (Sean)[Ryan Castillo: 7 Recurring Recipes for Consultancies](http://ryancastillo.org/7-recipes-recurring-revenue/) (Sean)[ExpeditedSSL](https://www.expeditedssl.com/) (Sean)[The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing &nbsp;Marie Kondo](http://www.amazon.com/gp/product/1607747308/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607747308&linkCode=as2&tag=chamaxwoo-20&linkId=A5I5EDBMI4JVDVDF) (Sean)
+[NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence by Pramod J. Sadalage and Martin Fowler](https://www.amazon.com/gp/product/0321826620/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321826620&linkCode=as2&tag=chamaxwoo-20&linkId=5RD5L3AAWSH4TTQY) (David)[RoT.js](https://ondras.github.io/rot.js/hp/) (David)[The Spatials](https://store.steampowered.com/app/346420/) (David)[The User is Drunk](https://theuserisdrunk.com) (Saron)[Drunk Kitchen](https://www.youtube.com/user/MyHarto) (Saron)[The Reckoners Series by Brandon Sanderson](https://en.wikipedia.org/wiki/The_Reckoners) (Chuck)[Bootstrapping Design: Roll Your Own Design by Jarrod Drysdale](https://bootstrappingdesign.com/) (Sean)[The Ruby DSL Handbook by Jim Gay](https://clean-ruby.com/dsl) (Sean)[Ryan Castillo: 7 Recurring Recipes for Consultancies](https://ryancastillo.org/7-recipes-recurring-revenue/) (Sean)[ExpeditedSSL](https://www.expeditedssl.com/) (Sean)[The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing &nbsp;Marie Kondo](https://www.amazon.com/gp/product/1607747308/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607747308&linkCode=as2&tag=chamaxwoo-20&linkId=A5I5EDBMI4JVDVDF) (Sean)
 
 ### Transcript
 

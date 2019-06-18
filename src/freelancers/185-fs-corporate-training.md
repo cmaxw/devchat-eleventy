@@ -48,14 +48,14 @@ Check out [React Native Radio](https://devchat.tv/react-native-radio/)
 
 Contribute to the show in [The Freelancers’ Show GitHub repository](https://github.com/devchattv/freelancerstopics)!
 
-For more information on this topic, go to [lerner.co.il/coaching](http://lerner.co.il/coaching/).
+For more information on this topic, go to [lerner.co.il/coaching](https://lerner.co.il/coaching/).
 
 Picks
 
 - [Frontend Masters Courses](https://frontendmasters.com/courses/) (Jonathan)
 - [Reuven's Webinar about technical training: Pedagogy, logistics, and business](https://www.youtube.com/watch?v=hP9s3R5QQ9U) (Reuven)
-- [Planet Money Episode #672: Bagging a Birkin](http://www.npr.org/sections/money/2015/12/25/460870534/episode-672-bagging-a-birkin) (Reuven)
-- [Fathead](http://www.fathead.com/) (Chuck)
+- [Planet Money Episode #672: Bagging a Birkin](https://www.npr.org/sections/money/2015/12/25/460870534/episode-672-bagging-a-birkin) (Reuven)
+- [Fathead](https://www.fathead.com/) (Chuck)
 
 ### Transcript
 

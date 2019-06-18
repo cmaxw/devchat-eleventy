@@ -12,15 +12,15 @@ tags:
   - podcast
 ---
 
-- Exceptional Ruby (from&nbsp;[exceptionalruby.com](http://exceptionalruby.com/) or [pragprog.com](http://pragprog.com/book/ager/exceptional-ruby))
+- Exceptional Ruby (from&nbsp;[exceptionalruby.com](https://exceptionalruby.com/) or [pragprog.com](https://pragprog.com/book/ager/exceptional-ruby))
 - Avdi wrote the book because he felt like he sucked at exceptions
-- [Avdi's Ruby on Ales talk](http://confreaks.net/videos/523-roa2011-exceptional-ruby)
+- [Avdi's Ruby on Ales talk](https://confreaks.net/videos/523-roa2011-exceptional-ruby)
 - The method method
-- [Array()](http://ruby-doc.org/core/classes/Kernel.html#M001437)
-- [Hash#fetch](http://www.ruby-doc.org/core/classes/Hash.html#M000728)
-- [raise](http://ruby-doc.org/core/classes/Kernel.html#M001410)
+- [Array()](https://ruby-doc.org/core/classes/Kernel.html#M001437)
+- [Hash#fetch](https://www.ruby-doc.org/core/classes/Hash.html#M000728)
+- [raise](https://ruby-doc.org/core/classes/Kernel.html#M001410)
 - rescue
-- [warn](http://ruby-doc.org/core/classes/Kernel.html#M001423)
+- [warn](https://ruby-doc.org/core/classes/Kernel.html#M001423)
 - redefining warn to raise an exception for access to the backtrace
 - Matching an exception based on the error message
 - Custom exception matchers
@@ -37,8 +37,8 @@ tags:
 - This book should be required reading for gem authors.
 - James pointed out that the book missed Thread#abort_on_exception
 - Avdi outlines the process for writing the book
-- [Emacs org mode](http://orgmode.org/)
-- [LaTeX](http://www.cl.cam.ac.uk/~mgk25/publ-tips/)
+- [Emacs org mode](https://orgmode.org/)
+- [LaTeX](https://www.cl.cam.ac.uk/~mgk25/publ-tips/)
 
 ### Transcript
 

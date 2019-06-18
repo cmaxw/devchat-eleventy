@@ -32,11 +32,11 @@ tags:
   **LINKS:**
 - [Blog](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/)
   **Picks:** Jaim:
-- [Brian Hogan&nbsp;](http://bphogan.com/recruiter.txt)
+- [Brian Hogan&nbsp;](https://bphogan.com/recruiter.txt)
   Erica:
 - [Brandon Sanderson - Trilogy&nbsp;](https://brandonsanderson.com/books/mistborn/)
   Dave:
-- [Andy Weir&nbsp;](http://www.andyweirauthor.com/books/artemis-hc)
+- [Andy Weir&nbsp;](https://www.andyweirauthor.com/books/artemis-hc)
   Andrew:
 - [CLANG Format](https://clang.llvm.org/docs/ClangFormat.html)
 

@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-[![](http://localhost/~charleswood/wordpress/wp-content/uploads/2010/01/BuildingSkills-itunes.jpg)](http://localhost/~charleswood/wordpress/wp-content/uploads/2010/01/BuildingSkills-itunes.jpg)[Download this Episode](http://media.libsyn.com/media/charlesmaxwood/RailsCoach11TestingYourApplication.mp3)In this episode, we discuss why your application needs tests. Here's a summary of the thoughts given in this episode:
+[![](https://localhost/~charleswood/wordpress/wp-content/uploads/2010/01/BuildingSkills-itunes.jpg)](https://localhost/~charleswood/wordpress/wp-content/uploads/2010/01/BuildingSkills-itunes.jpg)[Download this Episode](https://media.libsyn.com/media/charlesmaxwood/RailsCoach11TestingYourApplication.mp3)In this episode, we discuss why your application needs tests. Here's a summary of the thoughts given in this episode:
 
 ## Why you should test:
 
@@ -24,4 +24,4 @@ A lot of Q.A. personnel are not developers. They don't read code, they don't wri
 
 ## What do you test?
 
-Tests are written to test two things. Behavior and data. The behavior you're usually testing is whether or not your code deleted, updated, changed, or saved information. Did it display what it was supposed to? Given certain inputs or settings, does it do something different. Data is more centered around whether or not it returned specific expected values. This is tied to behavior, but has more to do with information correctness, than with how it is presented or where the application moved on to. Here's the link to my [blog post about TDD](http://charlesmaxwood.com/5-reasons-to-do-test-driven-or-behavior-driven-development/). Please remember to [take the survey](http://railscoach.com/survey) and [write a review in iTunes](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=346089573)
+Tests are written to test two things. Behavior and data. The behavior you're usually testing is whether or not your code deleted, updated, changed, or saved information. Did it display what it was supposed to? Given certain inputs or settings, does it do something different. Data is more centered around whether or not it returned specific expected values. This is tied to behavior, but has more to do with information correctness, than with how it is presented or where the application moved on to. Here's the link to my [blog post about TDD](https://charlesmaxwood.com/5-reasons-to-do-test-driven-or-behavior-driven-development/). Please remember to [take the survey](https://railscoach.com/survey) and [write a review in iTunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=346089573)

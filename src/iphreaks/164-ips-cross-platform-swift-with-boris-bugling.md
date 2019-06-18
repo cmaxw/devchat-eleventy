@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/BorisConf)
 - [GitHub](https://github.com/neonichu)
-- [Blog](http://buegling.com/)
+- [Blog](https://buegling.com/)
 - [Contentful](https://www.contentful.com/)
 - [Cross-platform Swift by Boris Bügling](https://speakerdeck.com/neonichu/cross-platform-swift-2)
   02:20 - The State of Cross-platform Swift04:45 - Tooling
@@ -28,18 +28,18 @@ tags:
 - [Perfect](https://github.com/PerfectlySoft/Perfect)
   - [The iPhreaks Show: Episode #140: The Perfect Framework with Sean Stephens and Kyle](https://devchat.tv/iphreaks/140-ips-the-perfect-framework-with-sean-stephens-and-kyle-jessup)
 - [Frank](https://github.com/nestproject/Frank)
-- [IBM](http://www.ibm.com/)
+- [IBM](https://www.ibm.com/)
   10:24 - Use Cases in Production?12:10 - Other Uses for Cross-platform Swift
 - [SwiftFoundation](https://github.com/PureSwift/SwiftFoundation)
 - [PocketCHIP](https://getchip.com/pages/pocketchip)
   19:04 - [CocoaPods](https://cocoapods.org/); Installation23:59 - Distributing Command Line Tools with Swift
-- [Homebrew](http://brew.sh/)
-  26:48 - Using the [Swift Package Manager](https://swift.org/package-manager/)28:44 - [ThisCouldBeUsButYouPlaying](https://github.com/neonichu/ThisCouldBeUsButYouPlaying#installation)29:45 - Generating Playgrounds for [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) on iPad&nbsp;Picks
+- [Homebrew](https://brew.sh/)
+  26:48 - Using the [Swift Package Manager](https://swift.org/package-manager/)28:44 - [ThisCouldBeUsButYouPlaying](https://github.com/neonichu/ThisCouldBeUsButYouPlaying#installation)29:45 - Generating Playgrounds for [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) on iPad&nbsp;Picks
 - [3DRenderingTechniques](https://github.com/drewying/3DRenderingTechniques) (Andrew)
 - [PocketCHIP](https://getchip.com/pages/pocketchip) (Andrew)
 - [iWoz: Computer Geek to Cult Icon by Steve Wozniak](https://www.amazon.com/dp/B000VUCIZO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Layne)
-- [Spikeball](http://spikeball.com) (Layne)
-- [We are Twisted F\*cking Sister](http://twistedsisterthemovie.com/) (Jaim)
+- [Spikeball](https://spikeball.com) (Layne)
+- [We are Twisted F\*cking Sister](https://twistedsisterthemovie.com/) (Jaim)
 - [Swift Weekly Brief](https://swiftweekly.github.io) (Boris)
 
 ### Transcript

@@ -63,9 +63,9 @@ In this episode, the JavaScript Jabber/Adventures In Angular, panelists discuss 
 
 Charles
 
-- [Orphan Black](http://www.bbcamerica.com/shows/orphan-black)
+- [Orphan Black](https://www.bbcamerica.com/shows/orphan-black)
 - Shout out to VS Code team
-- [Battle of the Books](http://www.battleofthebooks.org/)
+- [Battle of the Books](https://www.battleofthebooks.org/)
 
 Matt
 

@@ -20,11 +20,11 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 
 - [Twitter](https://twitter.com/bruzenak)
 - [GitHub](https://github.com/bruzenak)
-- [Twitterrific](http://twitterrific.com/)
+- [Twitterrific](https://twitterrific.com/)
 
 02:29 - Dylan Bruzenak Introduction
 
-02:54 - [The Iconfactory](http://iconfactory.com/)
+02:54 - [The Iconfactory](https://iconfactory.com/)
 
 - [@Iconfactory](https://twitter.com/Iconfactory)
 
@@ -32,7 +32,7 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 
 18:24 - Lessons Learned From AppViz
 
-- [Matt Ronge: Managing Your Psychology as an Indie Dev](http://mronge.com/managing-your-psychology-as-an-indie-dev/)
+- [Matt Ronge: Managing Your Psychology as an Indie Dev](https://mronge.com/managing-your-psychology-as-an-indie-dev/)
 
 27:56 - Positioning Your App Properly
 
@@ -54,13 +54,13 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 - Customer Analytics and Reviews
 - Selling Outside vs Inside the App Store
 - Payment Providers
-  - [FastSpring](http://fastspring.com)
+  - [FastSpring](https://fastspring.com)
   - [PayPal](https://www.paypal.com/)
   - [Square](https://squareup.com/)
   - [Stripe](https://stripe.com/)
     Picks
 
-[FastSpring](http://fastspring.com) (Andrew)[DevMate](https://devmate.com) (Andrew) Apple API Diffs (Andrew)[GOG](http://www.gog.com) (Andrew)[Sample Code from WWDC Sessions](https://developer.apple.com/sample-code/wwdc/2015/) (Mike)[Wits](http://www.witsradio.org/) (Mike) Listen to other people’s views (Chuck)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck)[World Time Buddy](http://www.worldtimebuddy.com/) (Dylan)[Complice](https://complice.co/) (Dylan)[Transmit](https://panic.com/transmit/) (Dylan)[xScope](http://xscopeapp.com/) (Dustin)[Slack](https://slack.com/) (Dustin)
+[FastSpring](https://fastspring.com) (Andrew)[DevMate](https://devmate.com) (Andrew) Apple API Diffs (Andrew)[GOG](https://www.gog.com) (Andrew)[Sample Code from WWDC Sessions](https://developer.apple.com/sample-code/wwdc/2015/) (Mike)[Wits](https://www.witsradio.org/) (Mike) Listen to other people’s views (Chuck)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck)[World Time Buddy](https://www.worldtimebuddy.com/) (Dylan)[Complice](https://complice.co/) (Dylan)[Transmit](https://panic.com/transmit/) (Dylan)[xScope](https://xscopeapp.com/) (Dustin)[Slack](https://slack.com/) (Dustin)
 
 ### Transcript
 

@@ -31,7 +31,7 @@ tags:
 - Source code and implementation
 - [Big Nerd Ranch Guide](https://www.bignerdranch.com/books/)
 - Reason
-- [Graph QL](http://graphql.org)
+- [Graph QL](https://graphql.org)
 - React and React Native Navigation
 - Expo
 - And much more!
@@ -47,7 +47,7 @@ tags:
 - @spencer_carli
 - [Big Nerd Ranch Guide](https://www.bignerdranch.com/books/)
   **<u> </u>\*\*** <u>Picks:</u>\*\*Spencer
-- Email list for developers at : [com](http://workreactnative.com)
+- Email list for developers at : [com](https://workreactnative.com)
   Nader
 - React Amsterdam
 - [Chain React](https://infinite.red/ChainReactConf)

@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly&nbsp;](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** &nbsp;Isaac Schlueter
 ### **Episode Summary**
@@ -26,7 +26,7 @@ In this episode of My JavaScript Story, Charles Max Wood hosts Isaac Schlueter, 
 - [<u>JavaScript Jabber Node &amp; NPM with Isaac Schlueter</u>](https://amzn.to/2EuvatG%20-%20Startup%20Nation)
 - [Isaac's Twitter](https://twitter.com/izs?lang=en)
 - [NPM's Twitter](https://twitter.com/npmjs)
-- [NPM's blog](http://blog.npmjs.org/)
+- [NPM's blog](https://blog.npmjs.org/)
 - [NPM website](https://www.npmjs.com/)
 - [https://devchat.tv/my-javascript-story/](https://devchat.tv/my-javascript-story/)
 
@@ -35,15 +35,15 @@ In this episode of My JavaScript Story, Charles Max Wood hosts Isaac Schlueter, 
 - [<u>Ink</u>](https://github.com/vadimdemedes/ink)
 - <u><a href="https://www.netflix.com/title/80186863">Umbrella Academy Netflix</a></u>
 - [I Love Hue](https://play.google.com/store/apps/details?id=com.zutgames.ilovehue&hl=en)
-- [Do By Friday](http://dobyfriday.com/)
+- [Do By Friday](https://dobyfriday.com/)
 **Charles Max Wood:**
 - [<u>The Expanse (TV Series)</u>](https://www.netflix.com/gb/title/80029822)
 - [<u>The Travelers (TV Series)</u>](https://www.netflix.com/title/8010569)
-- [<u>Podfest Multimedia Expo</u>](http://podfest.us/2018/)
+- [<u>Podfest Multimedia Expo</u>](https://podfest.us/2018/)
 - <u><a href="https://www.netlify.com/">Netlify</a></u>
 - <u><a href="https://www.11ty.io/">Eleventy</a></u>
 - [<u>We're Alive</u>](https://www.werealive.com/)
-- <u><a href="http://charlesmaxwood.com/">Charles’ Personal Blog</a></u>
+- <u><a href="https://charlesmaxwood.com/">Charles’ Personal Blog</a></u>
 
 
 ### Transcript

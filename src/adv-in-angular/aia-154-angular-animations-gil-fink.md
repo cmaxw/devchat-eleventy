@@ -38,7 +38,7 @@ Joe:
 
 ### **Links**
 
-- [www.gilfink.net](http://www.gilfink.net)
-- [www.sparxys.com](http://www.sparxys.com)
+- [www.gilfink.net](https://www.gilfink.net)
+- [www.sparxys.com](https://www.sparxys.com)
 
 ### Transcript

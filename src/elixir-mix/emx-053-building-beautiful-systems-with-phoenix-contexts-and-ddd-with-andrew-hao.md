@@ -5,7 +5,7 @@ title: >
 date: 2019-05-28 10:00:41
 episode_number: 053
 duration: 50:14
-audio_url: http://media.devchat.tv/elixir-mix/EMx_053_Building_Beautiful_Systems_with_Phoenix_Contexts_and_DDD_with_Andrew_Hao.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_053_Building_Beautiful_Systems_with_Phoenix_Contexts_and_DDD_with_Andrew_Hao.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/elixir) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -35,7 +35,7 @@ Andrew Hao joins the panel to discuss a recent talk he gave; he shares his backg
 - [https://www.facebook.com/Elixir-Mix](https://www.facebook.com/Elixir-Mix-302533817267005/)
 - [https://twitter.com/elixir\_mix](https://twitter.com/elixir_mix)
 **Picks**** Mark Ericksen:**
-- [http://blog.plataformatec.com.br/2019/04/whats-new-in-elixir-apr-19/](http://blog.plataformatec.com.br/2019/04/whats-new-in-elixir-apr-19/)
+- [https://blog.plataformatec.com.br/2019/04/whats-new-in-elixir-apr-19/](https://blog.plataformatec.com.br/2019/04/whats-new-in-elixir-apr-19/)
 **Josh Adams:**
 - [https://github.com/telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
 **Andrew Hao:**

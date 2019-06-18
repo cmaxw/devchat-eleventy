@@ -13,7 +13,7 @@ tags:
   - new_programmers
 ---
 
-Get your tickets for [Angular Remote Conf](http://aia059learningresources.mp3)!
+Get your tickets for [Angular Remote Conf](https://aia059learningresources.mp3)!
 
 Enter [the ng-conf ticket lottery](https://ti.to/ng-conf/2016/)!
 
@@ -23,7 +23,7 @@ Enter [the ng-conf ticket lottery](https://ti.to/ng-conf/2016/)!
 
 - [Lukas' AngularJS Fundamentals egghead.io Course](https://egghead.io/series/angularjs-app-from-scratch-getting-started)
 
-04:58 - [Pluralsight](http://www.pluralsight.com/)
+04:58 - [Pluralsight](https://www.pluralsight.com/)
 
 06:26 - [Code School: AngularJS Tutorial](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
@@ -31,32 +31,32 @@ Enter [the ng-conf ticket lottery](https://ti.to/ng-conf/2016/)!
 
 06:52 - [DEVintersection Conference](https://devintersection.com/)
 
-07:30 - [Stack Overflow](http://stackoverflow.com) + [Plunker](http://plnkr.co/)
+07:30 - [Stack Overflow](https://stackoverflow.com) + [Plunker](https://plnkr.co/)
 
-08:02 - [Angular Remote Conf](http://angularremoteconf.com)
+08:02 - [Angular Remote Conf](https://angularremoteconf.com)
 
-08:50 - [AngularConnect](http://angularconnect.com/)
+08:50 - [AngularConnect](https://angularconnect.com/)
 
 08:58 - Onsite Training
 
-- [Oasis Digital](http://oasisdigital.com/)
+- [Oasis Digital](https://oasisdigital.com/)
 
 11:10 - Backends
 
 - Lukas
-  - [Firebase](http://firebase.com)
+  - [Firebase](https://firebase.com)
   - [Node](https://nodejs.org/)
 - Ward
   - [Legacy Codebases](https://www.techopedia.com/definition/25326/legacy-code)
 - Chuck
   - [Ruby](https://www.ruby-lang.org/)
-    - [RailsClips](http://railsclips.com)
+    - [RailsClips](https://railsclips.com)
 
 14:09 - [John Papa's Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 
-14:24 - [Lukas’ Blog](http://onehungrymind.com/)
+14:24 - [Lukas’ Blog](https://onehungrymind.com/)
 
-15:04 - [ng-newsletter](http://www.ng-newsletter.com/)
+15:04 - [ng-newsletter](https://www.ng-newsletter.com/)
 
 15:39 - [ng-book](https://www.ng-book.com/)
 
@@ -66,20 +66,20 @@ Enter [the ng-conf ticket lottery](https://ti.to/ng-conf/2016/)!
 
 18:41 - Working with Designers
 
-- [Lukas Reubbelke: Just Enough Angular for Designers](http://onehungrymind.com/just-enough-angular-for-designers/)
-- [D3.js](http://d3js.org/)
+- [Lukas Reubbelke: Just Enough Angular for Designers](https://onehungrymind.com/just-enough-angular-for-designers/)
+- [D3.js](https://d3js.org/)
   - [Adventures in Angular Episode #58: D3 with Aysegul Yonet](https://devchat.tv/adventures-in-angular/058-aia-d3-with-aysegul-yonet)
 
-20:14 - [Hack Reactor](http://hackreactor.com)
+20:14 - [Hack Reactor](https://hackreactor.com)
 
-20:42 - [Angular Boot Camp](http://angularbootcamp.com/)
+20:42 - [Angular Boot Camp](https://angularbootcamp.com/)
 
 21:22 - [Khan Academy](https://www.khanacademy.org/)
 
 21:30 - Angular 2 Resources & Skills You Should Know
 
 - [Exploring ES6 by Axel Rauschmayer](https://leanpub.com/exploring-es6)
-- [TypeScript](http://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
   - [Adventures in Angular Episode #41: TypeScript with Dan Wahlin](https://devchat.tv/adventures-in-angular/041-aia-typescript-with-dan-wahlin)
   - [JavaScript Jabber Episode #167: TypeScript and Angular with Jonathan Turner and Alex Eagle](https://devchat.tv/js-jabber/167-jsj-typescript-and-angular-with-jonathan-turner-and-alex-eagle)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -87,20 +87,20 @@ Enter [the ng-conf ticket lottery](https://ti.to/ng-conf/2016/)!
 - [Babel](https://babeljs.io/)
   - [JavaScript Jabber Episode #171: Babel with Sebastian McKenzie](https://devchat.tv/js-jabber/171-jsj-babel-with-sebastian-mckenzie)
 - [Angular.io](https://angular.io/)
-- [Angular Articles by Pascal Precht](http://blog.thoughtram.io/categories/angular-2/)
+- [Angular Articles by Pascal Precht](https://blog.thoughtram.io/categories/angular-2/)
 
 25:54 - Podcasts
 
 - [JavaScript Jabber](https://devchat.tv/js-jabber)
-- [Angular Air](http://angular-air.com/)
+- [Angular Air](https://angular-air.com/)
 
-26:33 - [Angular Unit Testing](http://angulartestingquickstart.com/)
+26:33 - [Angular Unit Testing](https://angulartestingquickstart.com/)
 
 27:22 - [AngularJS on YouTube](https://www.youtube.com/results?search_query=angularjs)
 
 Picks
 
-[Slack](https://slack.com/) (Ward)[The Pillars of Reality Series by Jack Campbell](http://www.amazon.com/gp/product/1491540702) (Lukas)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[Essentialism: The Disciplined Pursuit of Less by Greg McKeown](http://www.amazon.com/gp/product/0804137382/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137382&linkCode=as2&tag=chamaxwoo-20&linkId=LGNI2IOUGHS7GBAE) (Chuck)
+[Slack](https://slack.com/) (Ward)[The Pillars of Reality Series by Jack Campbell](https://www.amazon.com/gp/product/1491540702) (Lukas)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[Essentialism: The Disciplined Pursuit of Less by Greg McKeown](https://www.amazon.com/gp/product/0804137382/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137382&linkCode=as2&tag=chamaxwoo-20&linkId=LGNI2IOUGHS7GBAE) (Chuck)
 
 ### Transcript
 

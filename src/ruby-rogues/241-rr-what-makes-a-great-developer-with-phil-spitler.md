@@ -20,13 +20,13 @@ Check out [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016): coming to yo
 
 - [Twitter](https://twitter.com/philspitler)
 - [GitHub](https://github.com/philspitler)
-- [Blog](http://softwarehappens.com)
+- [Blog](https://softwarehappens.com)
 
 03:20 - Panel opinions: What makes a good developer?
 
 07:26 - “Successful” vs “Great” Developers
 
-- [Growth Mindset](http://edglossary.org/growth-mindset/)
+- [Growth Mindset](https://edglossary.org/growth-mindset/)
 
 12:45 - Mentors: What to they epitomize?
 
@@ -40,7 +40,7 @@ Check out [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016): coming to yo
 
 - Code Archaeology
 
-30:51 - [Bloc.io](http://bloc.io)
+30:51 - [Bloc.io](https://bloc.io)
 
 36:44 - As a mentor, where do you draw the line?
 
@@ -51,7 +51,7 @@ Check out [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016): coming to yo
 - The Freelancers’ Show Episode #184: Goals and Productivity (unreleased at time of publication)
   Picks
 
-[Rat-a-Tat Cat](http://www.gamewright.com/gamewright/index.php?page=game&section=games&show=61) (Jessica)[Sorry Not Sorry IPA](http://www.stonebrewing.com/beer/stone-collaborations/4-hands-bale-breaker-stone-sorry-not-sorry-ipa#ageGatePassed) (Jessica)[Amazon Fire Kids Edition](http://www.amazon.com/gp/product/B00YYZEQ1G?ref_=kods_dp_hqp_frd) (Avdi)[The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free by Neil Fiore](http://www.amazon.com/The-Now-Habit-Overcoming-Procrastination/dp/1585425524) (Avdi)[Intercom Central® 246 - Four Channels HOME Power-line Intercom System](https://www.amazon.com/gp/product/B005HEDAAQ/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1) (Chuck)[Fathead](http://www.fathead.com/) (Chuck)[spitfire](https://github.com/spitfireio/) (Phil)[Bloc's Software Engineering Track (SET Program)](https://www.bloc.io/software-engineering-track) (Phil)[Kyle Cease](http://www.kylecease.com) (Phil) Phil’s coworker’s Ariel's man crush on Avdi (Phil)[Carol Dweck: The Power of Believing That You Can Improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) (Phil)[Wile Kratts (Children's Science Show)](http://pbskids.org/wildkratts/) (Phil)[MindSet by Carol Dweck](http://mindsetonline.com/) (Chuck)
+[Rat-a-Tat Cat](https://www.gamewright.com/gamewright/index.php?page=game&section=games&show=61) (Jessica)[Sorry Not Sorry IPA](https://www.stonebrewing.com/beer/stone-collaborations/4-hands-bale-breaker-stone-sorry-not-sorry-ipa#ageGatePassed) (Jessica)[Amazon Fire Kids Edition](https://www.amazon.com/gp/product/B00YYZEQ1G?ref_=kods_dp_hqp_frd) (Avdi)[The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free by Neil Fiore](https://www.amazon.com/The-Now-Habit-Overcoming-Procrastination/dp/1585425524) (Avdi)[Intercom Central® 246 - Four Channels HOME Power-line Intercom System](https://www.amazon.com/gp/product/B005HEDAAQ/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1) (Chuck)[Fathead](https://www.fathead.com/) (Chuck)[spitfire](https://github.com/spitfireio/) (Phil)[Bloc's Software Engineering Track (SET Program)](https://www.bloc.io/software-engineering-track) (Phil)[Kyle Cease](https://www.kylecease.com) (Phil) Phil’s coworker’s Ariel's man crush on Avdi (Phil)[Carol Dweck: The Power of Believing That You Can Improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) (Phil)[Wile Kratts (Children's Science Show)](https://pbskids.org/wildkratts/) (Phil)[MindSet by Carol Dweck](https://mindsetonline.com/) (Chuck)
 
 ### Transcript
 

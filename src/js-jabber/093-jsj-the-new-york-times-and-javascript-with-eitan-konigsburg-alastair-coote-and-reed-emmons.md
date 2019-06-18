@@ -15,47 +15,47 @@ tags:
 ### Panel
 
 - Eitan Konigsburg ([twitter](https://twitter.com/eitanmk)[github](https://github.com/eitanmk))
-- Alastair Coote ([twitter](https://twitter.com/_alastair) [github](https://github.com/alastaircoote) [blog](http://blogging.alastair.is/))
+- Alastair Coote ([twitter](https://twitter.com/_alastair) [github](https://github.com/alastaircoote) [blog](https://blogging.alastair.is/))
 - Reed Emmons ([twitter](https://twitter.com/remmons))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 02:06 - Introductions
 
-- [New York Times](http://www.nytimes.com/)
+- [New York Times](https://www.nytimes.com/)
   03:17 - The Mobile Site 05:18 - The Desktop Site vs The Mobile Site 07:28 - Technology at the NYT 08:17 - Tooling 10:40 - Responsive Breakpoints
-- [Modernizr](http://modernizr.com/)
+- [Modernizr](https://modernizr.com/)
   12:41 - Incorporating JavaScript
-- [MVC Frameworks](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+- [MVC Frameworks](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
   15:40 - User Experience and Decisions Made for the Redesign 20:08 - Frontend/Backend 21:20 - Tracking Behavior/Performance 23:05 - Learning from the NYT Redesign
 - [Varnish](https://www.varnish-cache.org/)
   27:59 - Development Process 30:37 - Interactiveness
 - Touch vs Keyboard & Mouse
 - Big Screen vs Small Screen
-- [hammer.js](http://eightmedia.github.io/hammer.js/)
+- [hammer.js](https://eightmedia.github.io/hammer.js/)
   34:57 - Accessibility 39:10 - Performance
 - [Varnish](https://www.varnish-cache.org/)
-  41:13 - [Node.js](http://nodejs.org/)42:49 - Open Source 44:29 - Resources
-- [Times Developer Network](http://developer.nytimes.com/)
-- [Code - Open Blog - NYTimes](http://open.blogs.nytimes.com/)
+  41:13 - [Node.js](https://nodejs.org/)42:49 - Open Source 44:29 - Resources
+- [Times Developer Network](https://developer.nytimes.com/)
+- [Code - Open Blog - NYTimes](https://open.blogs.nytimes.com/)
 
 ### Picks
 
 - [James Mickens: The Night Watch](https://research.microsoft.com/en-us/people/mickens/thenightwatch.pdf) (Jamison)
-- [Ball Park Music](http://www.youtube.com/watch?v=1rPgQ6B6CAE) (Jamison)
-- [Bacon Ipsum](http://baconipsum.com/) (Chuck)
-- [Audible](http://www.audible.com/) (Chuck)
-- [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries](http://www.amazon.com/gp/product/0307887898/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Jake Archibald: JavaScript Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) (Eitan)
-- [High-Performance Browser Networking by Ilya Grigorik](http://chimera.labs.oreilly.com/books/1230000000545/index.html)&nbsp;(Eitan)
-- [Polymer](http://www.polymer-project.org/) (Eitan)
-- [Firefox Nightly Builds](http://nightly.mozilla.org/) (Alastair)
-- [Pocket](http://getpocket.com/) (Alastair)
-- [Scouting NY](http://www.scoutingny.com/) (Alastair)
-- [CodePen](http://codepen.io/) (AJ)
+- [Ball Park Music](https://www.youtube.com/watch?v=1rPgQ6B6CAE) (Jamison)
+- [Bacon Ipsum](https://baconipsum.com/) (Chuck)
+- [Audible](https://www.audible.com/) (Chuck)
+- [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries](https://www.amazon.com/gp/product/0307887898/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Jake Archibald: JavaScript Promises](https://www.html5rocks.com/en/tutorials/es6/promises/) (Eitan)
+- [High-Performance Browser Networking by Ilya Grigorik](https://chimera.labs.oreilly.com/books/1230000000545/index.html)&nbsp;(Eitan)
+- [Polymer](https://www.polymer-project.org/) (Eitan)
+- [Firefox Nightly Builds](https://nightly.mozilla.org/) (Alastair)
+- [Pocket](https://getpocket.com/) (Alastair)
+- [Scouting NY](https://www.scoutingny.com/) (Alastair)
+- [CodePen](https://codepen.io/) (AJ)
 - [Mockingbird](https://gomockingbird.com/) (AJ)
 
 ### Next Week

@@ -15,37 +15,37 @@ tags:
 01:32 - Nathan Powell Introduction
 
 - [Twitter](https://twitter.com/NathanPowell76)
-- [Blog](http://nathanpowell.me/)
+- [Blog](https://nathanpowell.me/)
 
 02:05 - Why move away from doing UI/UX consultant to a product?
 
-03:38 - [Nusii](http://nusii.com/)
+03:38 - [Nusii](https://nusii.com/)
 
 - [@nusiiapp](https://twitter.com/nusiiapp)
 - [Michael Koper](https://twitter.com/michaelkoper), Co-Founder
 
 06:01 - Getting Started
 
-- [Start Small, Stay Small: A Developer's Guide to Launching a Startup by Rob Walling](http://www.amazon.com/gp/product/0615373968/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0615373968&linkCode=as2&tag=chamaxwoo-20&linkId=QEDNCPKADF4T53OQ)
+- [Start Small, Stay Small: A Developer's Guide to Launching a Startup by Rob Walling](https://www.amazon.com/gp/product/0615373968/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0615373968&linkCode=as2&tag=chamaxwoo-20&linkId=QEDNCPKADF4T53OQ)
 
 10:41 - Finding a Co-Founder
 
 12:46 - Customer Feedback
 
-14:36 - What Makes [Nusii](http://nusii.com/) Unique?
+14:36 - What Makes [Nusii](https://nusii.com/) Unique?
 
-17:46 - [Nusii](http://nusii.com/) as [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service) Proposal Software
+17:46 - [Nusii](https://nusii.com/) as [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) Proposal Software
 
-- [Alan Weiss](http://www.alanweiss.com/)
-- [Brennan Dunn](http://doubleyourfreelancing.com/)
+- [Alan Weiss](https://www.alanweiss.com/)
+- [Brennan Dunn](https://doubleyourfreelancing.com/)
 
 25:57 - Templates
 
-- [Episode #153: Workshop with Robert Williams](http://devchat.tv/freelancers/153-fs-workshop-with-robert-williams)
+- [Episode #153: Workshop with Robert Williams](https://devchat.tv/freelancers/153-fs-workshop-with-robert-williams)
 
 35:08 - Transitioning From Consultant to Product Owner
 
-- [Mastermind Groups](http://www.thesuccessalliance.com/what-is-a-mastermind-group.html)
+- [Mastermind Groups](https://www.thesuccessalliance.com/what-is-a-mastermind-group.html)
 - Get a Co-Founder
 
 40:17 - What Would Nathan Have Done Differently? (Advice)
@@ -58,13 +58,13 @@ tags:
 
 46:25 - The Creator’s Guide to Better Proposals (Coming Soon!)
 
-Freelancers’ Show T-Shirts are available! [teespring.com/freelancersshow](http://teespring.com/freelancersshow)
+Freelancers’ Show T-Shirts are available! [teespring.com/freelancersshow](https://teespring.com/freelancersshow)
 
-Styles include unisex up to 3x, ladies', sweatshirts, and long sleeve tees. [Teespring](http://teespring.com/) also offers international shipping so that all of our listeners have a chance to buy!
+Styles include unisex up to 3x, ladies', sweatshirts, and long sleeve tees. [Teespring](https://teespring.com/) also offers international shipping so that all of our listeners have a chance to buy!
 
 Picks
 
-[LeadDigits: Why We’re Betting Big on Mobile SMS Marketing (and a Sneak Peek at Our Newest Product)](http://blog.leadpages.net/why-were-betting-big-on-mobile-sms-marketing/) (Jonathan)[Revive Old Post Pro](https://themeisle.com/plugins/tweet-old-post-pro/) (Nathan)[Nick Disabato: Solving the Best Problems](http://us1.campaign-archive2.com/?u=63dd6f4a664035e73b029e534&id=3b6b7df13a&e=b967ef5d5d) (Reuven)[Gastropod](http://gastropod.com/) (Reuven)
+[LeadDigits: Why We’re Betting Big on Mobile SMS Marketing (and a Sneak Peek at Our Newest Product)](https://blog.leadpages.net/why-were-betting-big-on-mobile-sms-marketing/) (Jonathan)[Revive Old Post Pro](https://themeisle.com/plugins/tweet-old-post-pro/) (Nathan)[Nick Disabato: Solving the Best Problems](https://us1.campaign-archive2.com/?u=63dd6f4a664035e73b029e534&id=3b6b7df13a&e=b967ef5d5d) (Reuven)[Gastropod](https://gastropod.com/) (Reuven)
 
 ### Transcript
 

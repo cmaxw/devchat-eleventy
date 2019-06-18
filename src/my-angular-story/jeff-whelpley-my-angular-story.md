@@ -34,6 +34,6 @@ Get in touch&nbsp;with Jeff&nbsp;and learn more about him by following him on Tw
 
 ## Picks:
 
-**Jeff:** ng conference, **&nbsp;** [Founder Collective](http://www.foundercollective.com/), [NextView Ventures](http://nextviewventures.com/), and [Get Human](https://gethuman.com/) **Charles** : [Autonomous desks](https://www.autonomous.ai/), [JS Remote Conference](https://devchat.tv/conferences/js-remote-conf-2017)
+**Jeff:** ng conference, **&nbsp;** [Founder Collective](https://www.foundercollective.com/), [NextView Ventures](https://nextviewventures.com/), and [Get Human](https://gethuman.com/) **Charles** : [Autonomous desks](https://www.autonomous.ai/), [JS Remote Conference](https://devchat.tv/conferences/js-remote-conf-2017)
 
 ### Transcript

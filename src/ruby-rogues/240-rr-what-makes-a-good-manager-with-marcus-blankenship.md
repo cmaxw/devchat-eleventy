@@ -15,7 +15,7 @@ tags:
 02:05 - Marcus Blankenship Introduction
 
 - [Twitter](https://twitter.com/justzeros)
-- [Blog](http://marcusblankenship.com/list/)
+- [Blog](https://marcusblankenship.com/list/)
 
 02:52 - Pain and Difficulties of Moving From Programming to Management
 
@@ -49,12 +49,12 @@ tags:
 
 48:25 - How do you know you are doing a good job?
 
-- [Skip-Level Reviews](http://www.thefieldguidetosales.com/skip-level-reviews-and-the-benefits-of-360-degree-feedback.htm)
+- [Skip-Level Reviews](https://www.thefieldguidetosales.com/skip-level-reviews-and-the-benefits-of-360-degree-feedback.htm)
 - Growth of your team and members
 - Signs of Loyalty
   51:06 - What if you don’t want to move into a management role?Picks
 
-[The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1?s=books&ie=UTF8&qid=1450808425&sr=1-1&keywords=hard+thing+about+hard+things) (Jessica)[The Narrow Road to the Deep North by Richard Flanagan](http://www.amazon.com/Narrow-Road-Deep-North/dp/0804171475/ref=sr_1_1?s=books&ie=UTF8&qid=1450808444&sr=1-1&keywords=narrow+road+to+the+deep+north) (Jessica)[Star Wars: The Force Awakens](http://www.imdb.com/title/tt2488496/) (Chuck)[JS Remote Conf](http://jsremoteconf.com/) (Chuck)[Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_1?ie=UTF8&qid=1450808298&sr=8-1&keywords=the+war+of+art) (Marcus)[Predicting the Unpredictable: Pragmatic Approaches to Estimating Project Schedule or Cost by Johanna Rothman](https://leanpub.com/predictingtheunpredictable?utm_campaign=predictingtheunpredictable&utm_medium=embed&utm_source=www.jrothman.com) (Marcus)
+[The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1?s=books&ie=UTF8&qid=1450808425&sr=1-1&keywords=hard+thing+about+hard+things) (Jessica)[The Narrow Road to the Deep North by Richard Flanagan](https://www.amazon.com/Narrow-Road-Deep-North/dp/0804171475/ref=sr_1_1?s=books&ie=UTF8&qid=1450808444&sr=1-1&keywords=narrow+road+to+the+deep+north) (Jessica)[Star Wars: The Force Awakens](https://www.imdb.com/title/tt2488496/) (Chuck)[JS Remote Conf](https://jsremoteconf.com/) (Chuck)[Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_1?ie=UTF8&qid=1450808298&sr=8-1&keywords=the+war+of+art) (Marcus)[Predicting the Unpredictable: Pragmatic Approaches to Estimating Project Schedule or Cost by Johanna Rothman](https://leanpub.com/predictingtheunpredictable?utm_campaign=predictingtheunpredictable&utm_medium=embed&utm_source=www.jrothman.com) (Marcus)
 
 ### Transcript
 

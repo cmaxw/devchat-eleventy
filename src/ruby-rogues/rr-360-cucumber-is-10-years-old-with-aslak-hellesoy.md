@@ -26,7 +26,7 @@ In this episode of Ruby Rogues, the panelists talk to Aslak Hellesøy about Cucu
 - Aslak intro
 - What is the difference between TDD and BDD?
 - [Selenium](https://www.seleniumhq.org/) and [Cypress](https://www.cypress.io/)
-- [Capybara](http://teamcapybara.github.io/capybara/)
+- [Capybara](https://teamcapybara.github.io/capybara/)
 - With BDD, you lose your fast feedback loop and your flow
 - People accept slow feedback loops
 - The test pyramid
@@ -51,7 +51,7 @@ In this episode of Ruby Rogues, the panelists talk to Aslak Hellesøy about Cucu
 - [Cucumber](https://cucumber.io/)
 - [Selenium](https://www.seleniumhq.org/)
 - [Cypress](https://www.cypress.io/)
-- [Capybara](http://teamcapybara.github.io/capybara/)
+- [Capybara](https://teamcapybara.github.io/capybara/)
 - [Cucumber’s Slack](https://cucumber.io/support#slack)
 - [@aslak_hellesoy](https://twitter.com/aslak_hellesoy?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Aslak’s GitHub](https://github.com/aslakhellesoy)

@@ -25,25 +25,25 @@ tags:
 - Directness
 - [Blogging&nbsp;](https://rubyweekly.com)
 - New Letters
-- [rubyflow.com](http://rubyflow.com)
+- [rubyflow.com](https://rubyflow.com)
 - What is the ultimate goal of the new letters?
 - Contributions
 - Helping host podcasts
 - Current work?
 - and much, much more!
   **Links:&nbsp;**
-- [http://peterc.org](http://peterc.org)
+- [https://peterc.org](https://peterc.org)
 - [https://rubyweekly.com](https://rubyweekly.com)
 - [https://github.com/peterc/](https://github.com/peterc/)
 - Cooper Press
   **Picks** Peter
 - [Litmus](https://litmus.com)
 - Cheap Gaming consoles on eBay
-- Jason Scott of [archive.org](http://archive.org)
+- Jason Scott of [archive.org](https://archive.org)
   Charles
 - [Hyper Drive](https://www.hypershop.com/collections/hyperdrive)
 - [J5](https://en.j5create.com)
-- [Dash Pro In-Ear Headphones](http://Dash%20Pro%20In-Ear%20Headphones)
+- [Dash Pro In-Ear Headphones](https://Dash%20Pro%20In-Ear%20Headphones)
 
 ### Transcript
 

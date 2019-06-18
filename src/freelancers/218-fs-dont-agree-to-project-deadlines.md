@@ -18,8 +18,8 @@ tags:
 
 - Taking time off (Philip)
 - [How To Handle Deadlines Without Agree To Them](https://www.crowdcast.io/e/jstark5/register) (Jonathan)
-- [Wood Badge](http://www.woodbadge.org/) (Chuck)
-- [The Boy Scouts Of America](http://www.scouting.org/) (Chuck)
+- [Wood Badge](https://www.woodbadge.org/) (Chuck)
+- [The Boy Scouts Of America](https://www.scouting.org/) (Chuck)
   &nbsp;This episode is sponsored by [hired.com](https://hired.com)
 
 ### Transcript

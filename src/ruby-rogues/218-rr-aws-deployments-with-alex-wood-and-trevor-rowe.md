@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips](http://devchat.tv/rails-clips)!
+Check out [RailsClips](https://devchat.tv/rails-clips)!
 
 &nbsp;
 
@@ -26,37 +26,37 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 - [Twitter](https://twitter.com/trevorrowe)
 - [GitHub](https://github.com/trevorrowe)
 
-03:26 - What is offered by [Amazon Web Services (AWS)](http://aws.amazon.com/)?
+03:26 - What is offered by [Amazon Web Services (AWS)](https://aws.amazon.com/)?
 
-- [Elastic Beanstalk](http://aws.amazon.com/elasticbeanstalk/)
-- [OpsWorks](http://aws.amazon.com/opsworks/)
+- [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+- [OpsWorks](https://aws.amazon.com/opsworks/)
   - [Alex's RailsConf 2015 Workshop](https://www.youtube.com/watch?v=OQoYTeGJYf4)
 
 06:48 - Setup and Taking Incremental Steps (The Cloud as a Paradigm)
 
-- [Identity and Access Management](http://aws.amazon.com/iam/)
+- [Identity and Access Management](https://aws.amazon.com/iam/)
 - “Make sure everything works”
 
-12:19 - [CloudFormation](http://aws.amazon.com/cloudformation/)
+12:19 - [CloudFormation](https://aws.amazon.com/cloudformation/)
 
 - Tooling
   - [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby)
 
 15:19 - Data-Centric Services (Monitoring, Traceability, Visibility)
 
-- [CloudFormation](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-vpc.html)
-- [S3](http://aws.amazon.com/s3/)
-- [CloudFront](http://aws.amazon.com/cloudfront/)
-- [Simple Email Service (SES)](http://aws.amazon.com/ses/)
-- [Simple Queuing Service (SQS)](http://aws.amazon.com/sqs/)
-- [Simple Notification Service (SNS)](http://aws.amazon.com/sns/)
-- [DynamoDB](http://aws.amazon.com/dynamodb/)
-- [AWS Lambda](http://aws.amazon.com/lambda/)
-  - [Amazon EC2 Container Service](http://aws.amazon.com/ecs/)
+- [CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-vpc.html)
+- [S3](https://aws.amazon.com/s3/)
+- [CloudFront](https://aws.amazon.com/cloudfront/)
+- [Simple Email Service (SES)](https://aws.amazon.com/ses/)
+- [Simple Queuing Service (SQS)](https://aws.amazon.com/sqs/)
+- [Simple Notification Service (SNS)](https://aws.amazon.com/sns/)
+- [DynamoDB](https://aws.amazon.com/dynamodb/)
+- [AWS Lambda](https://aws.amazon.com/lambda/)
+  - [Amazon EC2 Container Service](https://aws.amazon.com/ecs/)
   - Logging
-    - [CloudTrail](http://aws.amazon.com/cloudtrail/)
-    - [CloudWatch](http://aws.amazon.com/cloudwatch/)
-    - [CloudWatch Logs](http://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/CWL_GettingStarted.html)
+    - [CloudTrail](https://aws.amazon.com/cloudtrail/)
+    - [CloudWatch](https://aws.amazon.com/cloudwatch/)
+    - [CloudWatch Logs](https://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/CWL_GettingStarted.html)
 
 23:48 - When to Use What (Getting Started)
 
@@ -64,7 +64,7 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 26:07 - Making Apps Run Better, General Optimizations
 
-- [Route 53](http://aws.amazon.com/route53/)
+- [Route 53](https://aws.amazon.com/route53/)
 
 33:43 - Implementing AWS
 
@@ -73,9 +73,9 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 37:15 - Security
 
 - Creating Visibility Without Opening an SSH Port&nbsp;&nbsp; &nbsp;
-  - [CloudWatch](http://aws.amazon.com/cloudwatch/)
-  - [CloudWatch Logs](http://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/CWL_GettingStarted.html)
-- Running Inside a [Virtual Private Cloud (VPC)](http://aws.amazon.com/vpc/)
+  - [CloudWatch](https://aws.amazon.com/cloudwatch/)
+  - [CloudWatch Logs](https://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/CWL_GettingStarted.html)
+- Running Inside a [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/)
 - Why doesn’t security happen?
 
 47:51 - Maintaining and Continually Improving Within Teams (Scalability)
@@ -83,11 +83,11 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 56:33 - AWS Resources
 
 - [AWS Official Blog](https://aws.amazon.com/blogs/aws/)
-  - [AWS Ruby Development Blog](http://ruby.awsblog.com/)
+  - [AWS Ruby Development Blog](https://ruby.awsblog.com/)
 - [[GitHub] AWS](https://github.com/aws/) &nbsp;
   Picks
 
-[Interview with Laurent Bossavit of the 10X Programmer and other Myths in Software Engineering](http://blog.fogcreek.com/10x-programmer-and-other-myths-in-software-engineering-interview-with-laurent-bossavit/) (Jessica)[Paracord](https://en.wikipedia.org/wiki/Parachute_cord) (Chuck)[Alex's RailsConf 2015 Workshop](https://www.youtube.com/watch?v=OQoYTeGJYf4) (Alex)[Stranger in a Strange Land by Robert A. Heinlein](http://www.amazon.com/gp/product/0441788386/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0441788386&linkCode=as2&tag=chamaxwoo-20&linkId=XHAVZH6H2545AO4V) (Alex)[Kalzumeus Podcast](http://www.kalzumeus.com/category/podcasts/) (Alex)[Gitter](https://gitter.im) (Trevor)[AWS Ruby Development Blog](http://ruby.awsblog.com/) (Trevor)
+[Interview with Laurent Bossavit of the 10X Programmer and other Myths in Software Engineering](https://blog.fogcreek.com/10x-programmer-and-other-myths-in-software-engineering-interview-with-laurent-bossavit/) (Jessica)[Paracord](https://en.wikipedia.org/wiki/Parachute_cord) (Chuck)[Alex's RailsConf 2015 Workshop](https://www.youtube.com/watch?v=OQoYTeGJYf4) (Alex)[Stranger in a Strange Land by Robert A. Heinlein](https://www.amazon.com/gp/product/0441788386/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0441788386&linkCode=as2&tag=chamaxwoo-20&linkId=XHAVZH6H2545AO4V) (Alex)[Kalzumeus Podcast](https://www.kalzumeus.com/category/podcasts/) (Alex)[Gitter](https://gitter.im) (Trevor)[AWS Ruby Development Blog](https://ruby.awsblog.com/) (Trevor)
 
 ### Transcript
 

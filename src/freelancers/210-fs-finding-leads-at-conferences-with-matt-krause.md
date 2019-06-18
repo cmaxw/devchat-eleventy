@@ -15,7 +15,7 @@ tags:
 01:38 - Matt Krause Introduction
 
 - [Twitter](https://twitter.com/mattkrause)
-- [Blog](http://mattkrause.com/)
+- [Blog](https://mattkrause.com/)
 - [They Might Be Giants - Istanbul (Not Constantinople)](https://vimeo.com/6746927)
   02:56 - The Mindset Change/Attitude Adjustment and The 3 Most Common Misconceptions
 
@@ -26,7 +26,7 @@ tags:
 
 - [LinkedIn](https://www.linkedin.com/)
 - “Stalking is only bad if it’s unwanted.”
-- [Podcast Movement](http://podcastmovement.com/)
+- [Podcast Movement](https://podcastmovement.com/)
 - [Toastmasters](https://www.toastmasters.org/)
   18:53 - How do you write a speech?
 
@@ -41,7 +41,7 @@ tags:
 - [Philip Morgan: What Jerry Springer can teach you about positioning](https://philipmorganconsulting.com/what-jerry-springer-can-teach-you-about-positioning/)
 - [Kurt Vonnegut on the Shapes of Stories](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
 
-[**Check out Matt’s site specifically for The Freelancers’ Show listeners!**](http://dopplercomm.com/fs/)
+[**Check out Matt’s site specifically for The Freelancers’ Show listeners!**](https://dopplercomm.com/fs/)
 
 Picks
 
@@ -51,7 +51,7 @@ Picks
 - [The Malloreon Series by David Eddings](https://en.wikipedia.org/wiki/The_Malloreon) (Chuck)
 - [Get help from the panel!](https://devchat.tv/freelancers/strugging) (Chuck)
 - [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016) (Chuck)
-- [Get A Coder Job](http://getacoderjob.com/) (Chuck)
+- [Get A Coder Job](https://getacoderjob.com/) (Chuck)
 - [All Remote Conferences](https://allremoteconfs.com/) (Chuck)[Kurt Vonnegut on the Shapes of Stories](https://www.youtube.com/watch?v=oP3c1h8v2ZQ) (Matt)
 
 ### Transcript

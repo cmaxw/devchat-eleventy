@@ -16,9 +16,9 @@ tags:
 
 - [Twitter](https://twitter.com/BenNadel)
 - [GitHub](https://github.com/bennadel)
-- [Blog](http://www.bennadel.com/)
+- [Blog](https://www.bennadel.com/)
 - [Adventures in Angular Episode #029: &nbsp;Angular At Work with Ben Nadel](https://devchat.tv/adventures-in-angular/029-aia-angular-at-work-with-ben-nadel)
-- [InVision](http://www.invisionapp.com/)
+- [InVision](https://www.invisionapp.com/)
   - [@InVisionApp](https://twitter.com/InVisionApp)
 
 02:56 - Looking at Angular 2
@@ -27,7 +27,7 @@ tags:
 
 13:17 - Angular 2: Likes and Dislikes
 
-- [The Angular Learning Curve Graph](http://www.bennadel.com/blog/2439-my-experience-with-angularjs---the-super-heroic-javascript-mvw-framework.htm)
+- [The Angular Learning Curve Graph](https://www.bennadel.com/blog/2439-my-experience-with-angularjs---the-super-heroic-javascript-mvw-framework.htm)
 
 28:02 - Promises and Observables
 
@@ -39,7 +39,7 @@ tags:
 
 47:12 - [redux](https://github.com/reactjs/redux)Picks
 
-[Ex-Con #2](https://dynamite.com/htmlfiles/viewProduct.html?PRO=C72513022044802011=1) (Joe)[Ben's Blog](http://www.bennadel.com/) (Ward)[Ben Lesh: Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87#.gw4zg2msi) (Lukas) The Lulu (Lukas)[Dropbox](https://www.dropbox.com/) (Chuck)[The Best Podcast Rap Video](https://www.facebook.com/mattgiovanisci/videos/10208617188848005/) (Chuck)[Tef: Write code that is easy to delete, not easy to extend.](http://bjam.in/easy-to-delete) (Ben)[Sandi Metz: The Wrong Abstraction](http://bjam.in/wrong-abstraction) (Ben)[Kyle Simpson: The Economy of Keystrokes @ Thunder Plains 2015](http://bjam.in/economy-of-keystrokes) (Ben)[Rich Hickey: Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) (Ben)
+[Ex-Con #2](https://dynamite.com/htmlfiles/viewProduct.html?PRO=C72513022044802011=1) (Joe)[Ben's Blog](https://www.bennadel.com/) (Ward)[Ben Lesh: Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87#.gw4zg2msi) (Lukas) The Lulu (Lukas)[Dropbox](https://www.dropbox.com/) (Chuck)[The Best Podcast Rap Video](https://www.facebook.com/mattgiovanisci/videos/10208617188848005/) (Chuck)[Tef: Write code that is easy to delete, not easy to extend.](https://bjam.in/easy-to-delete) (Ben)[Sandi Metz: The Wrong Abstraction](https://bjam.in/wrong-abstraction) (Ben)[Kyle Simpson: The Economy of Keystrokes @ Thunder Plains 2015](https://bjam.in/economy-of-keystrokes) (Ben)[Rich Hickey: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (Ben)
 
 ### Transcript
 

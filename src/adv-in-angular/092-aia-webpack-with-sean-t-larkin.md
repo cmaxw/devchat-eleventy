@@ -17,8 +17,8 @@ tags:
 - [Twitter](https://twitter.com/TheLarkInn)
 - [GitHub](https://github.com/TheLarkInn)
 - [Stack Overflow](https://stackoverflow.com/cv/seanlarkin)
-- [Mutual of Omaha](http://www.mutualofomaha.com/)
-  02:17 - Configuration02:56 - [webpack](https://webpack.github.io/)06:17 - [Grunt](http://gruntjs.com/) and [gulp](http://gulpjs.com/) vs webpack 08:02 - Plugins and Loaders
+- [Mutual of Omaha](https://www.mutualofomaha.com/)
+  02:17 - Configuration02:56 - [webpack](https://webpack.github.io/)06:17 - [Grunt](https://gruntjs.com/) and [gulp](https://gulpjs.com/) vs webpack 08:02 - Plugins and Loaders
 - [ng-annotate](https://github.com/olov/ng-annotate)
 - [ng-annotate-loader](https://www.npmjs.com/package/ng-annotate-loader)
   09:49 - Downsides10:46 - Writing Less Code?12:50 - Configuration (Cont’d)

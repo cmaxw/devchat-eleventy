@@ -14,17 +14,17 @@ tags:
 
 01:39 - Passion
 
-- [Avdi Grimm: The Moderately Enthusiastic Programmer](http://devblog.avdi.org/2014/01/31/the-moderately-enthusiastic-programmer/)
-- [Avdi Grimm: The Passion Gospel](http://devblog.avdi.org/2014/02/10/the-passion-gospel/)
-- [David Brady: Loyalty and Layoffs](http://heartmindcode.com/2013/08/16/loyalty-and-layoffs/)
-- [Ruby Rogues Episode #125: Loyalty and Layoffs](http://rubyrogues.com/125-rr-loyalty-and-layoffs/)
+- [Avdi Grimm: The Moderately Enthusiastic Programmer](https://devblog.avdi.org/2014/01/31/the-moderately-enthusiastic-programmer/)
+- [Avdi Grimm: The Passion Gospel](https://devblog.avdi.org/2014/02/10/the-passion-gospel/)
+- [David Brady: Loyalty and Layoffs](https://heartmindcode.com/2013/08/16/loyalty-and-layoffs/)
+- [Ruby Rogues Episode #125: Loyalty and Layoffs](https://rubyrogues.com/125-rr-loyalty-and-layoffs/)
 
 04:20 - Using the Word “Passionate” in Work and Advertising
 
-- [Passion | David Mitchell's SoapBox](http://www.youtube.com/watch?feature=player_embedded&v=Bz2-49q6DOI)
+- [Passion | David Mitchell's SoapBox](https://www.youtube.com/watch?feature=player_embedded&v=Bz2-49q6DOI)
 - The Definition(s) of Passion
 - Enthusiasm vs Passion
-- [Orthogonally](http://en.wikipedia.org/wiki/Orthogonality)
+- [Orthogonally](https://en.wikipedia.org/wiki/Orthogonality)
 
 16:24 - Lacking Passion and/or Enthusiasm?
 
@@ -32,7 +32,7 @@ tags:
 
 34:56 - The Exploitive Nature of Passion
 
-- [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport](http://www.amazon.com/gp/product/1455509124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455509124&linkCode=as2&tag=chamaxwoo-20)
+- [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport](https://www.amazon.com/gp/product/1455509124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455509124&linkCode=as2&tag=chamaxwoo-20)
 
 39:44 - “Follow Your Passion”
 
@@ -42,7 +42,7 @@ tags:
 
 ### Book Club
 
-[Ruby Under a Microscope by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](http://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](http://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
+[Ruby Under a Microscope by Pat Shaughnessy](https://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](https://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](https://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
 
 ### Next Week
 

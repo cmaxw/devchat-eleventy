@@ -41,7 +41,7 @@ tags:
 
 Picks
 
-[The Science of Interstellar by Kip Thorne](http://www.amazon.com/gp/product/0393351378/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393351378&linkCode=as2&tag=chamaxwoo-20&linkId=ZYAJWQXSTZODAHUB) (Ward)[Ant-Man](http://www.imdb.com/title/tt0478970/) (John)[Kyle Simpson's You Don't Know JS Book Series](http://www.oreilly.com/pub/au/4853) (Lukas)[AngularJS Kurs](http://www.iterativ.ch/angularjskurs/) (Chuck)[Angular Remote Conf](http://www.angularremoteconf.com) (Chuck)
+[The Science of Interstellar by Kip Thorne](https://www.amazon.com/gp/product/0393351378/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393351378&linkCode=as2&tag=chamaxwoo-20&linkId=ZYAJWQXSTZODAHUB) (Ward)[Ant-Man](https://www.imdb.com/title/tt0478970/) (John)[Kyle Simpson's You Don't Know JS Book Series](https://www.oreilly.com/pub/au/4853) (Lukas)[AngularJS Kurs](https://www.iterativ.ch/angularjskurs/) (Chuck)[Angular Remote Conf](https://www.angularremoteconf.com) (Chuck)
 
 ### Transcript
 

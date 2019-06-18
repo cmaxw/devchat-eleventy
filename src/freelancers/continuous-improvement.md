@@ -30,6 +30,6 @@ Reuven sees two reasons why his first courses were overpacked with content. Firs
 
 ## Picks:
 
-Jonathan: [Art of Value podcast](http://artofvalue.com/learning-art-frame-control/),&nbsp;[Hourly Billing is Nuts](http://hourlybillingisnuts.com)Philip:&nbsp;[Positioning course](http://philipmorganconsulting.com/positioning-course/), [MeetSpace app](http://meetspaceapp.com)Reuven: [Weekly Python Exercise](http://WeeklyPythonExercise.com), [Send Later add-on](https://addons.mozilla.org/en-Us/thunderbird/addon/send-later-3/)
+Jonathan: [Art of Value podcast](https://artofvalue.com/learning-art-frame-control/),&nbsp;[Hourly Billing is Nuts](https://hourlybillingisnuts.com)Philip:&nbsp;[Positioning course](https://philipmorganconsulting.com/positioning-course/), [MeetSpace app](https://meetspaceapp.com)Reuven: [Weekly Python Exercise](https://WeeklyPythonExercise.com), [Send Later add-on](https://addons.mozilla.org/en-Us/thunderbird/addon/send-later-3/)
 
 ### Transcript

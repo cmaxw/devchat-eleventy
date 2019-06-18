@@ -22,7 +22,7 @@ tags:
 - [Video-React](https://video-react.js.org/components/player/)
 - [JavaScript](https://www.javascript.com)
 - [C](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
-- [C++](http://www.cplusplus.com)
+- [C++](https://www.cplusplus.com)
 - [Flow](https://flow.microsoft.com/en-us/)
 - **[Flutter](https://flutter.io/?gclid=EAIaIQobChMI4sn0gP7F3gIVjPhkCh2knQtqEAAYASAAEgKFrfD_BwE)**
  **<u>Picks:</u>** Spencer
@@ -32,7 +32,7 @@ Eric (guest)
 - [RxJS](https://github.com/ReactiveX/rxjs)
 [&nbsp;](https://github.com/ReactiveX/rxjs)Christian (guest)
 - [Reanimated Library](https://github.com/kmagiera/react-native-reanimated)
-- [Greta Van Fleet](http://www.gretavanfleet.com)
+- [Greta Van Fleet](https://www.gretavanfleet.com)
 Nader
 - [io](https://egghead.io)
 

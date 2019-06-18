@@ -38,7 +38,7 @@ In this episode of React Round Up, the panel discusses hot reloading with Create
 - Full page refreshes
 - Why did Create React App not have this from the beginning?
 - Having a skeleton that you can break
-- [_Webpack HMR vs React-Hot-Loader_ by Mark Erikson](http://blog.isquaredsoftware.com/2017/08/blogged-answers-webpack-hmr-vs-rhl/)
+- [_Webpack HMR vs React-Hot-Loader_ by Mark Erikson](https://blog.isquaredsoftware.com/2017/08/blogged-answers-webpack-hmr-vs-rhl/)
 - Event handlers
 - Are there other ways you can customize Create React App?
 - [Sass](https://sass-lang.com/)
@@ -55,12 +55,12 @@ In this episode of React Round Up, the panel discusses hot reloading with Create
 - [Webpack](https://webpack.js.org/)
 - [Dave article](https://daveceddia.com/hot-reloading-create-react-app/)
 - [React app rewired](https://github.com/timarney/react-app-rewired)
-- [_Webpack HMR vs React-Hot-Loader_ by Mark Erikson](http://blog.isquaredsoftware.com/2017/08/blogged-answers-webpack-hmr-vs-rhl/)
+- [_Webpack HMR vs React-Hot-Loader_ by Mark Erikson](https://blog.isquaredsoftware.com/2017/08/blogged-answers-webpack-hmr-vs-rhl/)
 - [Sass](https://sass-lang.com/)
 - [@dceddia](https://twitter.com/dceddia?lang=en)
 - [Dave’s GitHub](https://github.com/dceddia)
 - [DevChat.tv Patreon](https://www.patreon.com/devchattv)
-- [DaveCeddia.com/RoundUp](http://daveceddia.com/roundup/)
+- [DaveCeddia.com/RoundUp](https://daveceddia.com/roundup/)
 
 **Picks:**
 
@@ -77,7 +77,7 @@ Tara
 
 Dave
 
-- [React Boston](http://www.reactboston.com/)
+- [React Boston](https://www.reactboston.com/)
 - [Indie Hackers](https://www.indiehackers.com/)
 
 ### Transcript

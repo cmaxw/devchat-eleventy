@@ -47,7 +47,7 @@ tags:
 - [Mike’s GitHub](https://github.com/Salakar)
 - [@elliothesp](https://twitter.com/elliothesp?lang=en)
 - [Elliot’s GitHub](https://github.com/Ehesp)
-- [Elliot’s Website](http://elliothesp.co.uk/)
+- [Elliot’s Website](https://elliothesp.co.uk/)
 - [@rnfirebase](https://twitter.com/rnfirebase) **&nbsp;**
   **Sponsors:**
 - [Linode](https://promo.linode.com/reactnativeradio/)

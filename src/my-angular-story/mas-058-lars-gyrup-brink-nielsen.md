@@ -138,7 +138,7 @@ Yes improving my talk for next month’s conference. I am building a small app, 
 - [Angular](https://angular.io)
 - [JavaScript](https://www.google.com/search?client=safari&rls=en&q=javascript&ie=UTF-8&oe=UTF-8)
 - [Vue](https://vuejs.org)
-- [C++](http://www.cplusplus.com)
+- [C++](https://www.cplusplus.com)
 - [C#](https://www.tutorialspoint.com/csharp/)
 - [Angular In Depth](https://blog.angularindepth.com)
 - [Article about Model-View-Presenter with Angular](https://blog.angularindepth.com/model-view-presenter-with-angular-3a4dbffe49bb)

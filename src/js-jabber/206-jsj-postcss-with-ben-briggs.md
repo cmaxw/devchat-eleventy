@@ -16,13 +16,13 @@ tags:
 
 - [Twitter](https://twitter.com/ben_eb)
 - [GitHub](https://github.com/ben-eb)
-- [Blog](http://beneb.info/)
+- [Blog](https://beneb.info/)
 - [cssnano](https://github.com/ben-eb/cssnano)
 
 03:03 - [PostCSS](https://github.com/postcss)
 
-- [cssnext](http://cssnext.io/)
-- [Postcss.parts](http://postcss.parts/)
+- [cssnext](https://cssnext.io/)
+- [Postcss.parts](https://postcss.parts/)
 
 07:16 - What problems was PostCSS designed to solve for developers?
 
@@ -37,7 +37,7 @@ tags:
 
 16:28 - Tool Fatigue
 
-- [postcss.org](http://postcss.org/)
+- [postcss.org](https://postcss.org/)
 
 23:39 - When should people start thinking about using PostCSS?
 
@@ -47,13 +47,13 @@ tags:
 
 31:24 - Postprocessing
 
-- [midas](http://midasjs.com/)
+- [midas](https://midasjs.com/)
 
 33:43 - Shipping Apps with Emojis?
 
 36:21 - Where does PostCSS end and where does [css-modules](https://github.com/css-modules/css-modules) begin?Picks
 
-[<u>Chet Corcos: Functional Programming for JavaScript People</u>](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.6ui3oo9en) (Aimee)[<u>Operation Code Scholarship</u>](https://launchschool.com/blog/operation-code-scholarship) (Aimee)[<u>Web Platform Daily Digest</u>](http://webplatformdaily.org/) (Ben)[<u>Cadbury Caramel Eggs</u>](http://www.amazon.com/Cadbury-Easter-Caramel-4-Count-4-8oz/dp/B004742ZVC) (Joe)[<u>Hello World Podcast</u>](http://wildermuth.com/hwpod) (Joe)[<u>React Rally</u>](http://www.reactrally.com/) (Dave)
+[<u>Chet Corcos: Functional Programming for JavaScript People</u>](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.6ui3oo9en) (Aimee)[<u>Operation Code Scholarship</u>](https://launchschool.com/blog/operation-code-scholarship) (Aimee)[<u>Web Platform Daily Digest</u>](https://webplatformdaily.org/) (Ben)[<u>Cadbury Caramel Eggs</u>](https://www.amazon.com/Cadbury-Easter-Caramel-4-Count-4-8oz/dp/B004742ZVC) (Joe)[<u>Hello World Podcast</u>](https://wildermuth.com/hwpod) (Joe)[<u>React Rally</u>](https://www.reactrally.com/) (Dave)
 
 ### Transcript
 

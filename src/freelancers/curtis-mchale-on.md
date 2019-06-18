@@ -34,6 +34,6 @@ It's important to have a call to action. It might be jumping on an email list, a
 
 ## This Week's Picks:
 
-Jonathan Stark: [Slow Watches](https://www.slow-watches.com)Curtis McHale: [DevonThink](http://www.devontechnologies.com/products/devonthink/overview.html),&nbsp;[Book](https://curtismchale.ca/finding-marketing-niche/), [YouTube](https://www.youtube.com/watch?v=sCyzdD0vYOw), Reuven Lerner: [The IT Crowd](http://www.imdb.com/title/tt0487831/), [LazyProgrammer](https://lazyprogrammer.me/)
+Jonathan Stark: [Slow Watches](https://www.slow-watches.com)Curtis McHale: [DevonThink](https://www.devontechnologies.com/products/devonthink/overview.html),&nbsp;[Book](https://curtismchale.ca/finding-marketing-niche/), [YouTube](https://www.youtube.com/watch?v=sCyzdD0vYOw), Reuven Lerner: [The IT Crowd](https://www.imdb.com/title/tt0487831/), [LazyProgrammer](https://lazyprogrammer.me/)
 
 ### Transcript

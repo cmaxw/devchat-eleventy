@@ -50,15 +50,15 @@ Shai mentions that it seems to come in waves, a certain technology will have hyp
 
 ##### Joe
 
-[NGDoc.io](http://ngdoc.io/)Persistence
+[NGDoc.io](https://ngdoc.io/)Persistence
 
 ##### Alyssa
 
-[HiRez.io](http://www.hirez.io)
+[HiRez.io](https://www.hirez.io)
 
 ##### Charles
 
-[Rush Revere and the American Revolution](https://www.amazon.com/Rush-Revere-American-Revolution-Time-Travel/dp/1442378182)[Palto Alto Firefighter’s Hot Sauce](http://www.paloaltofirefighters.com/index.html)
+[Rush Revere and the American Revolution](https://www.amazon.com/Rush-Revere-American-Revolution-Time-Travel/dp/1442378182)[Palto Alto Firefighter’s Hot Sauce](https://www.paloaltofirefighters.com/index.html)
 
 ##### Shai
 

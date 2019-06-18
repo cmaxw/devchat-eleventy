@@ -16,9 +16,9 @@ tags:
 
 - [Twitter](https://twitter.com/DeborahKurata)
 - [GitHub](https://github.com/DeborahK)
-- [Blog](http://blogs.msmvps.com/deborahk/)
-- [Pluralsight](http://www.pluralsight.com/author/deborah-kurata)
-- [InStep Technologies](http://www.insteptech.com/)
+- [Blog](https://blogs.msmvps.com/deborahk/)
+- [Pluralsight](https://www.pluralsight.com/author/deborah-kurata)
+- [InStep Technologies](https://www.insteptech.com/)
 - [deborahk@insteptech.com](mailto:deborahk@insteptech.com)
 
 02:32 - Line of Business App Developers
@@ -47,27 +47,27 @@ tags:
 
 24:34 - Grids
 
-- [[Pluralsight Course] AngularJS Line of Business Applications](http://www.pluralsight.com/courses/angularjs-line-of-business-applications)
-- [ng-grid](http://angular-ui.github.io/ng-grid/)
+- [[Pluralsight Course] AngularJS Line of Business Applications](https://www.pluralsight.com/courses/angularjs-line-of-business-applications)
+- [ng-grid](https://angular-ui.github.io/ng-grid/)
 
 32:33 - Cons of Being a Line of Business Developer
 
-- [Scott Hanselman: Dark Matter Developers](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx)
+- [Scott Hanselman: Dark Matter Developers](https://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx)
 
-34:11 - [OData](http://odata.org/)
+34:11 - [OData](https://odata.org/)
 
 35:28 - Where Angular is Going and Where Microsoft is Headed with It’s Tooling
 
 - [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
-- [Aurelia](http://aurelia.io/)
+- [Aurelia](https://aurelia.io/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 
 42:59 - Deborah’s Thoughts on Using Angular 2
 
-- Pay Attention to [TypeScript](http://www.typescriptlang.org/)
+- Pay Attention to [TypeScript](https://www.typescriptlang.org/)
   Picks
 
-[Camel Up](https://boardgamegeek.com/boardgame/153938/camel) (Joe)[Exploring ES6: Upgrade to the next version of JavaScript by Dr. Axel Rauschmayer](http://exploringjs.com/) (Lukas)[Zapf Video From 1960s](https://www.youtube.com/watch?v=3jD4CpzIuR4) (Ward)[Just My Type: A Book About Fonts by Simon Garfield](http://www.amazon.com/gp/product/1592407463/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592407463&linkCode=as2&tag=chamaxwoo-20&linkId=OIUYJQAERFCMFI6B) (Ward)[Essentialism: The Disciplined Pursuit of Less by Greg McKeown](http://www.amazon.com/gp/product/0804137382/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137382&linkCode=as2&tag=chamaxwoo-20&linkId=J723BQLROIHOMSNS) (Chuck)[Angular 1.4](http://angularjs.blogspot.com/2015/05/angular-140-jaracimrman-existence.html) (Deborah)
+[Camel Up](https://boardgamegeek.com/boardgame/153938/camel) (Joe)[Exploring ES6: Upgrade to the next version of JavaScript by Dr. Axel Rauschmayer](https://exploringjs.com/) (Lukas)[Zapf Video From 1960s](https://www.youtube.com/watch?v=3jD4CpzIuR4) (Ward)[Just My Type: A Book About Fonts by Simon Garfield](https://www.amazon.com/gp/product/1592407463/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592407463&linkCode=as2&tag=chamaxwoo-20&linkId=OIUYJQAERFCMFI6B) (Ward)[Essentialism: The Disciplined Pursuit of Less by Greg McKeown](https://www.amazon.com/gp/product/0804137382/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137382&linkCode=as2&tag=chamaxwoo-20&linkId=J723BQLROIHOMSNS) (Chuck)[Angular 1.4](https://angularjs.blogspot.com/2015/05/angular-140-jaracimrman-existence.html) (Deborah)
 
 ### Transcript
 

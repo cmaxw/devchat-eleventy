@@ -58,7 +58,7 @@ In this episode, the JavaScript Jabber panelists discuss Prisma with Johannes Sc
 - [PostgreSQL](https://www.postgresql.org/)
 - [@schickling](https://twitter.com/schickling)
 - [Johannes’ GitHub](https://github.com/schickling)
-- [Schickling.me](http://schickling.me/)
+- [Schickling.me](https://schickling.me/)
 - [Prisma Slack](https://slack.prisma.io/)
 
 **Sponsors**

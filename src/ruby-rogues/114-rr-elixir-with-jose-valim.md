@@ -17,25 +17,25 @@ tags:
 
 01:08 - José Valim Introduction
 
-- [048 RR Crafting Rails Applications with José Valim](http://rubyrogues.com/048-rr-crafting-rails-applications-with-jose-valim/)
+- [048 RR Crafting Rails Applications with José Valim](https://rubyrogues.com/048-rr-crafting-rails-applications-with-jose-valim/)
 
-02:37 - [Elixir](http://elixir-lang.org/)
+02:37 - [Elixir](https://elixir-lang.org/)
 
 - Functional Programming Language
-- [Erlang](http://www.erlang.org/)
-- [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages by Bruce A. Tate](http://pragprog.com/book/btlang/seven-languages-in-seven-weeks)
+- [Erlang](https://www.erlang.org/)
+- [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages by Bruce A. Tate](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks)
 
 07:00 - Elixir and Happiness
 
 08:50 - Naming Elixir
 
-- [WORDOID](http://wordoid.com/)
+- [WORDOID](https://wordoid.com/)
 
 09:55- The Erlang Virtual Machine
 
 - [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
 - Routing
-- [Aaron Patterson: Pattern Matching and Rails Routes at MagRails](http://lanyrd.com/2011/magrails/smtbr/)
+- [Aaron Patterson: Pattern Matching and Rails Routes at MagRails](https://lanyrd.com/2011/magrails/smtbr/)
 - [Aaron's Routing Code](https://github.com/rails/journey)
 
 17:20 - Functional Programming with a Ruby Style Syntax
@@ -47,31 +47,31 @@ tags:
 
 25:25 - Language Design
 
-- [Riak](http://basho.com/riak/)
+- [Riak](https://basho.com/riak/)
 - Bang
 
 39:30 - Elixir Moving to Web?
 
-- [AMNESIA](http://amnesia.sourceforge.net/)
+- [AMNESIA](https://amnesia.sourceforge.net/)
 
 41:20 - “Everything in Elixir is an Expression”
 
 - The Return Method of Modules
 
-48:25 - [The Actor Model](http://en.wikipedia.org/wiki/Actor_model) & Elixir
+48:25 - [The Actor Model](https://en.wikipedia.org/wiki/Actor_model) & Elixir
 
 54:23 - Resources
 
-- [Erlang](http://www.erlang.org/)
-- [ferd.ca -\> An Open Letter to the Erlang Beginner (or Onlooker)](http://ferd.ca/an-open-letter-to-the-erlang-beginner-or-onlooker.html)
-- [Programming Elixir by Dave Thomas](http://pragprog.com/book/elixir/programming-elixir)
-- [Programming Erlang: Software for Concurrent World by Joe Armstrong](http://pragprog.com/book/jaerlang/programming-erlang)
+- [Erlang](https://www.erlang.org/)
+- [ferd.ca -\> An Open Letter to the Erlang Beginner (or Onlooker)](https://ferd.ca/an-open-letter-to-the-erlang-beginner-or-onlooker.html)
+- [Programming Elixir by Dave Thomas](https://pragprog.com/book/elixir/programming-elixir)
+- [Programming Erlang: Software for Concurrent World by Joe Armstrong](https://pragprog.com/book/jaerlang/programming-erlang)
 - [Meet Elixir | PeepCode Screencasts](https://peepcode.com/products/elixir)
-- [The Erlangelist](http://www.theerlangelist.com/)
+- [The Erlangelist](https://www.theerlangelist.com/)
 
 ### Book Club
 
-[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](http://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
+[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](https://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
 
 ### Next Week
 

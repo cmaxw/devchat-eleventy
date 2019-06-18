@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Angular Bootcamp](https://angularbootcamp.com/)
 - [TripleByte](https://triplebyte.com/angular) offers a $1000 signing bonus
 - [Cachefly](https://www.cachefly.com/)
@@ -29,7 +29,7 @@ Deborah Kurata talks about the benefits of using a reactive approach to developi
 ### **Links**
 
 - [https://herodevs.com/](https://herodevs.com/)
-- [http://textangular.com/](http://textangular.com/)
+- [https://textangular.com/](https://textangular.com/)
 - [https://school.hirez.io/](https://school.hirez.io/)
 - [https://www.twitch.tv/frostydev](https://www.twitch.tv/frostydev)
 - [https://github.com/DeborahK](https://github.com/DeborahK)

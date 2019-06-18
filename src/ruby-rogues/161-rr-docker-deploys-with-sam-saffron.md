@@ -15,16 +15,16 @@ tags:
 02:04 - Sam Saffron Introduction
 
 - [twitter](https://twitter.com/samsaffron)
-- [blog](http://samsaffron.com/)
-- [Discourse](http://www.discourse.org/)
-- [Ruby Rogues Episode #117:Discourse Part 2 with Sam Saffron and Robin Ward](http://rubyrogues.com/117-rr-discourse-part-2-with-sam-saffron-and-robin-ward/)
-- [Stack Overflow](http://stackoverflow.com/)
+- [blog](https://samsaffron.com/)
+- [Discourse](https://www.discourse.org/)
+- [Ruby Rogues Episode #117:Discourse Part 2 with Sam Saffron and Robin Ward](https://rubyrogues.com/117-rr-discourse-part-2-with-sam-saffron-and-robin-ward/)
+- [Stack Overflow](https://stackoverflow.com/)
 
 03:55 - Deploying Discourse
 
 - [discourse_docker](https://github.com/discourse/discourse_docker)
-- [nginx](http://nginx.org/)
-- [paravirtualization](http://en.wikipedia.org/wiki/Paravirtualization)
+- [nginx](https://nginx.org/)
+- [paravirtualization](https://en.wikipedia.org/wiki/Paravirtualization)
 
 13:19 - Layering File System
 
@@ -32,11 +32,11 @@ tags:
 
 - [docker_container](https://github.com/discourse/logster/tree/master/website/docker_container)
 - [pups](https://github.com/samsaffron/pups)
-- [runit](http://smarden.org/runit/)
-  - [Process Supervision: Solved Problem](http://jtimberman.housepub.org/blog/2012/12/29/process-supervision-solved-problem/)
+- [runit](https://smarden.org/runit/)
+  - [Process Supervision: Solved Problem](https://jtimberman.housepub.org/blog/2012/12/29/process-supervision-solved-problem/)
 - [bluepill](https://github.com/bluepill-rb/bluepill)
-- [God](http://godrb.com/)
-- [Monit](http://mmonit.com/monit/)
+- [God](https://godrb.com/)
+- [Monit](https://mmonit.com/monit/)
 
 25:04 - Instructions
 
@@ -47,15 +47,15 @@ tags:
 - [unicorn](https://github.com/defunkt/unicorn)
 - [passenger-docker](https://github.com/phusion/passenger-docker)
 
-36:34 - [logster](http://logster.info/)
+36:34 - [logster](https://logster.info/)
 
 - [logster](https://github.com/discourse/logster)
 
-37:36 - Docker and [Vagrant](http://www.vagrantup.com/)
+37:36 - Docker and [Vagrant](https://www.vagrantup.com/)
 
 - [vagrant-lxc](https://github.com/fgrehm/vagrant-lxc)
-- [Docker Provisioner](http://docs.vagrantup.com/v2/provisioning/docker.html)
-- [Chef](http://www.getchef.com/chef/)
+- [Docker Provisioner](https://docs.vagrantup.com/v2/provisioning/docker.html)
+- [Chef](https://www.getchef.com/chef/)
 
 41:33 - Getting Started
 
@@ -65,24 +65,24 @@ tags:
 
 - [CoreOS](https://coreos.com/)
 - [OpenStack](https://www.openstack.org/)
-- [logstash](http://logstash.net/)
-- [Elasticsearch](http://www.elasticsearch.org/)
+- [logstash](https://logstash.net/)
+- [Elasticsearch](https://www.elasticsearch.org/)
 - [dawn](https://github.com/dawn/dawn)
-- [HAProxy](http://haproxy.1wt.eu/)
+- [HAProxy](https://haproxy.1wt.eu/)
 
 58:46 - Deploying Containers
 
-- [Jenkins CI](http://jenkins-ci.org/)
-- [DigitalOcean](http://digitalocean.com/)
+- [Jenkins CI](https://jenkins-ci.org/)
+- [DigitalOcean](https://digitalocean.com/)
 - [boot2docker](https://github.com/boot2docker/boot2docker)
-- [Idris](http://www.idris-lang.org/)
+- [Idris](https://www.idris-lang.org/)
   01:01:23 - Memory
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

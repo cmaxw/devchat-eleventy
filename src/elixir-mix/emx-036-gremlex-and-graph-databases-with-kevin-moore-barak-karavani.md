@@ -5,7 +5,7 @@ title: >
 date: 2019-01-30 01:53:32
 episode_number: 036
 duration: 52:17
-audio_url: http://media.devchat.tv/elixir-mix/EMx_036_Gremlex_and_Graph_Databases_with_Kevin_Moore_&_Barak_Karavani_.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_036_Gremlex_and_Graph_Databases_with_Kevin_Moore_&_Barak_Karavani_.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io) use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io) use the code "devchat" for $100 credit
 - [TripleByte](https://triplebyte.com/elixir)
 
 ### **Panel**
@@ -36,12 +36,12 @@ Kevin Moore and Barak Karavani start by introducing Gremlex; they also define gr
 - [https://dgraph.io/](https://dgraph.io/)
 - [https://orientdb.com/](https://orientdb.com/)
 - [https://medium.com/carlabs/introducing-gremlex-6f685adf73bd](https://medium.com/carlabs/introducing-gremlex-6f685adf73bd)
-- [http://tinkerpop.apache.org/](http://tinkerpop.apache.org/)
+- [https://tinkerpop.apache.org/](https://tinkerpop.apache.org/)
 - [https://pragprog.com/book/elixir/programming-elixir](https://pragprog.com/book/elixir/programming-elixir)
-- [http://plataformatec.com.br/](http://plataformatec.com.br/)
+- [https://plataformatec.com.br/](https://plataformatec.com.br/)
 - [https://www.manning.com/books/the-little-elixir-and-otp-guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
 - [https://github.com/rrrene/credo](https://github.com/rrrene/credo)
-- [http://erlang.org/doc/man/dialyzer.html](http://erlang.org/doc/man/dialyzer.html)
+- [https://erlang.org/doc/man/dialyzer.html](https://erlang.org/doc/man/dialyzer.html)
 - [https://github.com/nccgroup/sobelow](https://github.com/nccgroup/sobelow)
 - [https://github.com/hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [https://github.com/kevmojay](https://github.com/kevmojay)
@@ -60,7 +60,7 @@ Kevin Moore and Barak Karavani start by introducing Gremlex; they also define gr
 - [https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/0300122233/ref=sr_1_1?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 **Barak Karavani**
-- [http://haskellbook.com/](http://haskellbook.com/)
+- [https://haskellbook.com/](https://haskellbook.com/)
 &nbsp;
 
 ### Transcript

@@ -25,7 +25,7 @@ Conferences and Events:
 
 - San Jose vs. San Francisco
 - [WWDC](https://developer.apple.com/wwdc/)
-- [AltConf](http://altconf.com)
+- [AltConf](https://altconf.com)
 - [Next Door Conf NDC](https://nextdoorconf.com)
 - [Layers Conference](https://layers.is)
 - [try! Swift](https://www.tryswift.co)
@@ -40,8 +40,8 @@ Conference Tips:
 - Swift Panel
 - Cocktails
 - Coffee
-- [Meeting new people over coffee](http://coffeecoffeecoffee.coffee)
-- [Beacon Party App](http://beacon.party/)&nbsp;
+- [Meeting new people over coffee](https://coffeecoffeecoffee.coffee)
+- [Beacon Party App](https://beacon.party/)&nbsp;
 
 **Picks:**
 
@@ -55,16 +55,16 @@ Jaim
 
 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;200 S 1st St, San Jose, CA 95113
 
-- [BBW Tri Tip Sandwich](http://www.willowglenmeats.com/) - &nbsp;885 Delmas Ave, San Jose, CA 95125
-- [Sports Bar](http://rookieslodge.com/downtown-san-jose/)
-- [Gombei in Japan Town](http://gombei.com/)&nbsp;
+- [BBW Tri Tip Sandwich](https://www.willowglenmeats.com/) - &nbsp;885 Delmas Ave, San Jose, CA 95125
+- [Sports Bar](https://rookieslodge.com/downtown-san-jose/)
+- [Gombei in Japan Town](https://gombei.com/)&nbsp;
 - Cocktail Bars:
 - [https://www.yelp.com/biz/haberdasher-san-jose](https://www.yelp.com/biz/haberdasher-san-jose)&nbsp; - **43 W San Salvador St - Smaller basement vibe**
 - [https://www.yelp.com/biz/paper-plane-san-jose-2](https://www.yelp.com/biz/paper-plane-san-jose-2)&nbsp; - 72 S 1st St&nbsp;San Jose, CA 95113 Large Bar
 
 Andrew
 
-- [Computer History Museum](http://www.computerhistory.org/)
+- [Computer History Museum](https://www.computerhistory.org/)
 - Apple Park
 
 ### Transcript

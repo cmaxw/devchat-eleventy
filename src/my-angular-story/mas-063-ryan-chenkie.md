@@ -141,7 +141,7 @@ Ryan
 
 Chuck
 
-- [Dungeons & Dragons](http://dnd.wizards.com)
+- [Dungeons & Dragons](https://dnd.wizards.com)
 - Take time with family!
 - Being handy around your home. [Lowes.](https://www.lowes.com) 
 - Surprise yourself and go beyond the imposter syndrome!

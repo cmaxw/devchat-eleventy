@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry&nbsp;](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry&nbsp;](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Joined By Special Guest:** &nbsp;James Shore
 ### **Episode Summary**
@@ -35,7 +35,7 @@ James Shore, the author of the book, “The Art of Agile Development” and a th
 ### **Picks**
  **James Shore:**
 - [Neil Killick Twitter](https://twitter.com/neil_killick)
-- [http://vihart.com](http://vihart.com)
+- [https://vihart.com](https://vihart.com)
 **Charles Max Wood:**
 - [ng-conf](https://www.ng-conf.org/)
 - [Ready Player One (2018)](https://www.imdb.com/title/tt1677720/fullcredits)

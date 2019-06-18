@@ -36,12 +36,12 @@ tags:
 - and much more.
   **Links:**
 - [Path of the Freelancer](https://www.amazon.com/Path-Freelancer-Actionable-Flourish-Freelancing/dp/1540735419)
-- [Jason Scott Montoya](http://www.jasonscottmontoya.com)
+- [Jason Scott Montoya](https://www.jasonscottmontoya.com)
   **Picks:** Jonathan
 - [Productive App&nbsp;](https://itunes.apple.com/us/app/productive-habit-tracker-goals-reminder/id983826477?mt=8)
 - [How To Build Your First Productized Service](https://expensiveproblem.com/how-to-build-your-first-productized-service)
   Kai
-- http://Sweep.cards
+- https://Sweep.cards
 - Post It Notes
   Phillip
 - Celestial Seasons Herbal Tea

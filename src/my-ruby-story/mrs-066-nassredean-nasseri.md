@@ -101,7 +101,7 @@ _(Dean goes into more detail.)_
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 - Fresh Books
 

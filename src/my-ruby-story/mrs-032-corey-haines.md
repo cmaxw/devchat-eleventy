@@ -43,7 +43,7 @@ tags:
 - [Linode](https://promo.linode.com/myrubystory/)
 - [@CoreyHaines](https://twitter.com/coreyhaines?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Corey’s GitHub](https://github.com/coreyhaines)
-- [CoreyHaines.com](http://articles.coreyhaines.com/)
+- [CoreyHaines.com](https://articles.coreyhaines.com/)
 - [FreshBooks](https://www.freshbooks.com/invoice?ref=11731&utm_source=pbm&utm_medium=affiliate-program&utm_influencer=419364&utm_campaign=podcast-influencers)
 -
 
@@ -52,7 +52,7 @@ tags:
 - Food Smoker
 - [Keto diet](https://www.ruled.me/guide-keto-diet/)
   Corey
-- [Elm language](http://elm-lang.org/)
-- [The Beyond Burger](http://beyondmeat.com/products/view/beyond-burger)
+- [Elm language](https://elm-lang.org/)
+- [The Beyond Burger](https://beyondmeat.com/products/view/beyond-burger)
 
 ### Transcript

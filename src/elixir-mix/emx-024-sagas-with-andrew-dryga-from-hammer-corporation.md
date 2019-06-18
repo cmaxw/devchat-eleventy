@@ -19,7 +19,7 @@ tags:
 - Josh Adams
 - Nathan Hopkins
 
-**Special Guest:** [Andrew Dryga](http://www.dryga.com)
+**Special Guest:** [Andrew Dryga](https://www.dryga.com)
 
 In this episode of Elixir Mix, the panel talks with [Andrew Dryga](https://medium.com/@andrew_dryga) who is a software engineer (full-stack), entrepreneur, blockchain architect, and consultant. He currently works for Hammer and previous employers include Contractbook, Nebo #15, BEST Money Transfers among others. He studied at the National Technical University of Ukraine. Check out today’s episode where the panel and guest talk about Sagas and Sage.
 
@@ -219,10 +219,10 @@ I have some JavaScript knowledge and that was good going to Elixir.
 - [Elixir](https://elixir-lang.org)
 - [JavaScript](https://www.javascript.com)
 - [React](https://reactjs.org)
-- [Erlang – Disk Log](http://erlang.org/doc/man/disk_log.html)
+- [Erlang – Disk Log](https://erlang.org/doc/man/disk_log.html)
 - Erlang WX
 - [Railway Oriented Programming](https://fsharpforfunandprofit.com/posts/recipe-part2/)
-- [Nebo 15](http://nebo15.com)
+- [Nebo 15](https://nebo15.com)
 - [GitHub – Scenic](https://github.com/boydm/scenic)
 - [Kafka](https://kafka.apache.org)
 - [Rabbit MQ](https://www.rabbitmq.com)
@@ -234,7 +234,7 @@ I have some JavaScript knowledge and that was good going to Elixir.
 - [GitHub – Ecto Mnesia](https://github.com/Nebo15/ecto_mnesia)
 - [Saga and Medium](https://medium.com/@andrew_dryga/you-can-compose-the-saga-69f209bc6194)
 - [Introducing Sage](https://medium.com/nebo-15/introducing-sage-a-sagas-pattern-implementation-in-elixir-3ad499f236f6)
-- [Andrew Dryga’s Website](http://www.dryga.com)
+- [Andrew Dryga’s Website](https://www.dryga.com)
 - [Andrew Dryga’s Medium](https://medium.com/@andrew_dryga)
 - [Andrew Dryga’s GitHub](https://github.com/AndrewDryga)
 - [Andrew Dryga’s LinkedIn](https://ua.linkedin.com/in/andrew-dryga-bb382557)
@@ -257,7 +257,7 @@ Mark
 
 Josh
 
-- [A Sneak Peek at Ecto 3.0: Breaking Changes](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-breaking-changes/)
+- [A Sneak Peek at Ecto 3.0: Breaking Changes](https://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-breaking-changes/)
 
 Nate
 

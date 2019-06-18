@@ -16,15 +16,15 @@ tags:
 
 - [twitter](https://twitter.com/ammeep)
 - [github](https://github.com/ammeep)
-- [blog](http://amy.palamounta.in/)
-- [GreenButton](http://www.greenbutton.com/)
+- [blog](https://amy.palamounta.in/)
+- [GreenButton](https://www.greenbutton.com/)
 - [GitHub](https://github.com/)
 
-03:13 - [Amy Palamountain: Ten Traumas in Ten Minutes](http://amy.palamounta.in/2012/10/26/ten-traumas-in-ten-minutes/)
+03:13 - [Amy Palamountain: Ten Traumas in Ten Minutes](https://amy.palamounta.in/2012/10/26/ten-traumas-in-ten-minutes/)
 
 04:46 - Deployments are painful – Deployment automation in the cloud is easy
 
-- [Amazon Web Services (AWS)](http://aws.amazon.com/)
+- [Amazon Web Services (AWS)](https://aws.amazon.com/)
 - [Windows Azure](https://www.windowsazure.com/)
 - [DigitalOcean](https://www.digitalocean.com/)
 
@@ -48,7 +48,7 @@ tags:
 
 ### Book Club
 
-[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
+[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
 
 ### Next Week
 

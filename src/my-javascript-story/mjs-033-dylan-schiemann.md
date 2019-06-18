@@ -46,9 +46,9 @@ Dylan no longer answers the question of, “Oh, JavaScript, you mean, Java?” T
 
 - JavaScript user groups
 - JavaScript conferences
-- [SeattleJS](http://seattlejs.com/)
+- [SeattleJS](https://seattlejs.com/)
 - [Phoenix TypeScript Meet-up](https://www.meetup.com/Phoenix-TypeScript/)
-- [London HalfStack](http://halfstackconf.com/)
+- [London HalfStack](https://halfstackconf.com/)
   **Charles Max Wood**
 - [Focuster](https://www.focuster.com/)
 - [BusyCal](https://www.busymac.com/busycal/)

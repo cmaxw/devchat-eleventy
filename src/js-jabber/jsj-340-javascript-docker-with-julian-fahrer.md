@@ -232,7 +232,7 @@ You do your basic setup then use Chef Solo – that doesn’t’ make sense to m
 - [jQuery](https://jquery.com)
 - [React](https://reactjs.org)
 - [Elixir](https://elixir-lang.org)
-- [Elm](http://elm-lang.org)
+- [Elm](https://elm-lang.org)
 - [Vue](https://blog.closebrace.com)
 - [ESLint](https://eslint.org)
 - [Node.js](https://nodejs.org/en/)
@@ -241,7 +241,7 @@ You do your basic setup then use Chef Solo – that doesn’t’ make sense to m
 - [Heroku](https://devcenter.heroku.com)
 - [Surge.sh](https://surge.sh)
 - [Kubernetes.io](https://kubernetes.io)
-- [Berg Design](http://bergdesign.com/brightness/)
+- [Berg Design](https://bergdesign.com/brightness/)
 - [Rian Rietveld](https://rianrietveld.com/2018/10/09/i-have-resigned-the-wordpress-accessibility-team/)
 - [PickleJS](https://www.picklejs.com)
 - [Soft Cover.io](https://www.softcover.io)
@@ -273,7 +273,7 @@ Aimee
 
 Chris
 
-- [BergDesign](http://bergdesign.com/brightness/)
+- [BergDesign](https://bergdesign.com/brightness/)
 - [React, WP, and a11y](https://rianrietveld.com/2018/10/09/i-have-resigned-the-wordpress-accessibility-team/)
 - [gomakethings.com](https://gomakethings.com/)
 

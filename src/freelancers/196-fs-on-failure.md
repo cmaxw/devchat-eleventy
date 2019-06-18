@@ -31,7 +31,7 @@ tags:
 - [Maslow’s Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)
   Picks
 
-[Startup: A Silicon Valley Adventure by Jerry Kaplan](http://www.amazon.com/Startup-A-Silicon-Valley-Adventure/dp/0140257314) (Reuven)[Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software by Scott Rosenberg](http://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471) (Reuven)[Surprisingly Awesome](https://gimletmedia.com/show/surprisingly-awesome/) (Reuven)[Brené Brown](http://brenebrown.com/) (Philip)[Draft Evidence: Essays About Design & Independent Business by Nick Disabato](https://www.kickstarter.com/projects/nickd/draft-evidence-essays-about-design-and-independent?ref=nav_search) (Philip)
+[Startup: A Silicon Valley Adventure by Jerry Kaplan](https://www.amazon.com/Startup-A-Silicon-Valley-Adventure/dp/0140257314) (Reuven)[Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software by Scott Rosenberg](https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471) (Reuven)[Surprisingly Awesome](https://gimletmedia.com/show/surprisingly-awesome/) (Reuven)[Brené Brown](https://brenebrown.com/) (Philip)[Draft Evidence: Essays About Design & Independent Business by Nick Disabato](https://www.kickstarter.com/projects/nickd/draft-evidence-essays-about-design-and-independent?ref=nav_search) (Philip)
 
 &nbsp;
 

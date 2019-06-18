@@ -14,73 +14,73 @@ tags:
 
 ### Panel
 
-- Chris Bannon ([twitter](http://twitter.com/b4nn0n) [github](https://github.com/banzor)&nbsp;[web](http://banzor.us/))
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Joachim Larsen ([g+](https://plus.google.com/114020236201265101594/posts)&nbsp;[github](https://github.com/joedeveloper)&nbsp;[website](http://unomi.no.de/))
+- Chris Bannon ([twitter](https://twitter.com/b4nn0n) [github](https://github.com/banzor)&nbsp;[web](https://banzor.us/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Joachim Larsen ([g+](https://plus.google.com/114020236201265101594/posts)&nbsp;[github](https://github.com/joedeveloper)&nbsp;[website](https://unomi.no.de/))
 
 ### Discussion
 
-- [ComponentOne](http://www.componentone.com/)
-- [jQuery](http://jquery.com/)
-- [jQueryUI](http://jqueryui.com/)
-- [Wijmo](http://wijmo.com/)
-- [ActiveX](http://www.microsoft.com/security/resources/activex-whatis.aspx)
-- [ASP.Net](http://www.asp.net/)
-- [JQueryUI Widget Factory](http://wiki.jqueryui.com/w/page/12138135/Widget%20factory)
+- [ComponentOne](https://www.componentone.com/)
+- [jQuery](https://jquery.com/)
+- [jQueryUI](https://jqueryui.com/)
+- [Wijmo](https://wijmo.com/)
+- [ActiveX](https://www.microsoft.com/security/resources/activex-whatis.aspx)
+- [ASP.Net](https://www.asp.net/)
+- [JQueryUI Widget Factory](https://wiki.jqueryui.com/w/page/12138135/Widget%20factory)
 - [Wijmo-Open Source](https://github.com/wijmo/Wijmo-Open)
 - SVG -&nbsp;Scalable Vector Graphics
 - Raster Graphics
 - Older IE version
 - VML
 - Could be used to write simple games
-- [HTML Canvas](http://www.w3schools.com/html5/html5_canvas.asp)
-- [HTML5](http://www.w3schools.com/html5/default.asp)
+- [HTML Canvas](https://www.w3schools.com/html5/html5_canvas.asp)
+- [HTML5](https://www.w3schools.com/html5/default.asp)
 - Browsers can load SVG files
 - Inline SVG
 - SVG in CSS
-- [Raphaël](http://raphaeljs.com/)
+- [Raphaël](https://raphaeljs.com/)
 - Transforms/Animations
 - All SVG elements are DOM elements
 - Click on the Wijmo demo and inspect element
 - SVG and inner elements aren't all supported by jQuery
 - Use the Raphael eventing features [link]
-- [AJ's wrench example](http://dropsha.re/files/FECoBAA/wrench.svg)
+- [AJ's wrench example](https://dropsha.re/files/FECoBAA/wrench.svg)
 - Fonts in SVG
 - WOFF fonts
 - SVG support in mobile browsers
 - Android previous to Ice Cream Sandwich lack support for SVG
 - [FabricJS](https://github.com/kangax/fabric.js/)
-- [Flex](http://www.adobe.com/products/flex.html)
-- [Silverlight](http://www.silverlight.net/)
+- [Flex](https://www.adobe.com/products/flex.html)
+- [Silverlight](https://www.silverlight.net/)
 - Challenger Explosion caused by poor visualizations
-  - [http://cdnimg.visualizeus.com/thumbs/65/ee/bad,challenger,damage,data,disaster,edward,nasa,o,ring,statistical,temperature,thinking,tufte,visual,visualization-65eef6ff851b4c77b18c12dbdaee63ef_i.jpg](http://cdnimg.visualizeus.com/thumbs/65/ee/bad,challenger,damage,data,disaster,edward,nasa,o,ring,statistical,temperature,thinking,tufte,visual,visualization-65eef6ff851b4c77b18c12dbdaee63ef_i.jpg)
-  - [http://www.stanfordalumni.org/news/magazine/2007/marapr/images/features/tufte/o_ring_rockets.jpg](http://www.stanfordalumni.org/news/magazine/2007/marapr/images/features/tufte/o_ring_rockets.jpg)
-  - [http://motherboard.vice.com/2012/1/27/was-space-shuttle-challenger-a-casualty-of-bad-data-visualization](http://motherboard.vice.com/2012/1/27/was-space-shuttle-challenger-a-casualty-of-bad-data-visualization)
-  - [http://revcompany.com/blog/wp-content/uploads/2009/08/challenger-disaster.gif](http://revcompany.com/blog/wp-content/uploads/2009/08/challenger-disaster.gif)
+  - [https://cdnimg.visualizeus.com/thumbs/65/ee/bad,challenger,damage,data,disaster,edward,nasa,o,ring,statistical,temperature,thinking,tufte,visual,visualization-65eef6ff851b4c77b18c12dbdaee63ef_i.jpg](https://cdnimg.visualizeus.com/thumbs/65/ee/bad,challenger,damage,data,disaster,edward,nasa,o,ring,statistical,temperature,thinking,tufte,visual,visualization-65eef6ff851b4c77b18c12dbdaee63ef_i.jpg)
+  - [https://www.stanfordalumni.org/news/magazine/2007/marapr/images/features/tufte/o_ring_rockets.jpg](https://www.stanfordalumni.org/news/magazine/2007/marapr/images/features/tufte/o_ring_rockets.jpg)
+  - [https://motherboard.vice.com/2012/1/27/was-space-shuttle-challenger-a-casualty-of-bad-data-visualization](https://motherboard.vice.com/2012/1/27/was-space-shuttle-challenger-a-casualty-of-bad-data-visualization)
+  - [https://revcompany.com/blog/wp-content/uploads/2009/08/challenger-disaster.gif](https://revcompany.com/blog/wp-content/uploads/2009/08/challenger-disaster.gif)
 - Good developers make good data visualizations
 - Think about what you're trying to portray
   - Use the axes reflect the scale of the differences and accurately represent changes
   - On date/time things stick to your scale
   - Indicate omissions
-- [Upload SVG graphic and get Raphael script back](http://readysetraphael.com/)
-- [Link to bad data visualization blog](http://flowingdata.com/category/statistics/mistaken-data/)
-- [Adobe Illustrator](http://www.amazon.com/gp/product/B007S02Y6I/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007S02Y6I)
+- [Upload SVG graphic and get Raphael script back](https://readysetraphael.com/)
+- [Link to bad data visualization blog](https://flowingdata.com/category/statistics/mistaken-data/)
+- [Adobe Illustrator](https://www.amazon.com/gp/product/B007S02Y6I/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007S02Y6I)
 - Right click SVG graphics and save to your machine
 - 3D gaming should be in canvas
 - Raster drawing (photography)
 
 ### Picks
 
-- [Chris' Profile Pic](http://api.ning.com/files/2TbR8jwqBRXh4e4G-E2nul-e6ibFnxcXErjiBwr8VXfgjH0se6s6TO840KMHBnd9Pjlqhc5tbAda1ThsegnSqYyfNiNHK1kr/6013_113112897235_532987235_2210449_6426465_n.jpg?width=184&height=184&crop=1%3A1) (AJ)
-- [The Hunger Games](http://www.amazon.com/gp/product/0439023483/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0439023483)(books) (AJ)
-- [Google Wallet](http://www.google.com/wallet/) (Joachim)
+- [Chris' Profile Pic](https://api.ning.com/files/2TbR8jwqBRXh4e4G-E2nul-e6ibFnxcXErjiBwr8VXfgjH0se6s6TO840KMHBnd9Pjlqhc5tbAda1ThsegnSqYyfNiNHK1kr/6013_113112897235_532987235_2210449_6426465_n.jpg?width=184&height=184&crop=1%3A1) (AJ)
+- [The Hunger Games](https://www.amazon.com/gp/product/0439023483/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0439023483)(books) (AJ)
+- [Google Wallet](https://www.google.com/wallet/) (Joachim)
 - JSFiddle for using Raphael&nbsp;(Joachim)
-- [GeekBeat.tv](http://geekbeat.tv/)(Chuck)
-- [Google Maps Cube Game](http://www.playmapscube.com/)&nbsp;(Chuck)
+- [GeekBeat.tv](https://geekbeat.tv/)(Chuck)
+- [Google Maps Cube Game](https://www.playmapscube.com/)&nbsp;(Chuck)
 - Bass Drum of Death (Chris)
-- [Directive 51](http://www.amazon.com/gp/product/B0042P571Q/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0042P571Q)&nbsp;(Chris)
-- [Inventing on Principle](http://vimeo.com/36579366)&nbsp;(video) (Chris)
+- [Directive 51](https://www.amazon.com/gp/product/B0042P571Q/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0042P571Q)&nbsp;(Chris)
+- [Inventing on Principle](https://vimeo.com/36579366)&nbsp;(video) (Chris)
 - Urban chicken farming (Chris)
 
 ### Transcript

@@ -60,7 +60,7 @@ In today’s episode, the iPhreaks panel talks to Yonas Kolb about XcodeGen and 
 - [Struct](https://get-struct.tools/)
 - [@yonaskolb](https://twitter.com/yonaskolb)
 - [Yonas’s GitHub](https://github.com/yonaskolb)
-- [yonaskolb.com](http://yonaskolb.com/)
+- [yonaskolb.com](https://yonaskolb.com/)
 
 **Sponsors:**
 
@@ -75,7 +75,7 @@ Jaim
 
 Yonas
 
-- [GitUp](http://gitup.co/)
+- [GitUp](https://gitup.co/)
 - [Xcode Build Settings Reference](https://help.apple.com/xcode/mac/10.0/#/itcaec37c2a6)
 
 ### Transcript

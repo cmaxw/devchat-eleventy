@@ -20,11 +20,11 @@ Thank you [RailsClips Kickstarter](https://www.kickstarter.com/projects/52106373
 
 - [Twitter](https://twitter.com/silverspoon)
 - [GitHub](https://github.com/Andrea)
-- [Blog](http://www.roundcrisis.com/)
+- [Blog](https://www.roundcrisis.com/)
 - [[YouTube] Andrea Magnorsky: The Tools that Shape Us](https://www.youtube.com/watch?v=7ualiN55h8o)
-- [BatCat Games](http://batcatgames.com/blog/)
+- [BatCat Games](https://batcatgames.com/blog/)
   - [@batcatgames](https://twitter.com/batcatgames)
-- [Blog](http://www.roundcrisis.com/) &nbsp;
+- [Blog](https://www.roundcrisis.com/) &nbsp;
 - [@roundcrisis](https://twitter.com/roundcrisis) (Andrea’s Game-Related Twitter Account)
 
 02:56 - “What Game Developers Know That Business Devs Can Benefit From”
@@ -37,15 +37,15 @@ Thank you [RailsClips Kickstarter](https://www.kickstarter.com/projects/52106373
 
 09:10 - Is game development more approachable than in the past?
 
-- [Unity Game Engine](http://unity3d.com/)
+- [Unity Game Engine](https://unity3d.com/)
 - [The Unreal Engine](https://www.unrealengine.com/)
-- [MonoGame](http://www.monogame.net/)
-- [Totality Engine](http://archive.kontek.net/republic.strategyplanet.gamespy.com/totality.shtml)
+- [MonoGame](https://www.monogame.net/)
+- [Totality Engine](https://archive.kontek.net/republic.strategyplanet.gamespy.com/totality.shtml)
 
 10:12 - Learning New Skills and Coding Practices to Write Games
 
 - Unlearning to Be Clean
-- [Game Loop](http://gameprogrammingpatterns.com/game-loop.html)
+- [Game Loop](https://gameprogrammingpatterns.com/game-loop.html)
 - Levels of Code:
   - Low-Level Code
   - Intermediate Layer
@@ -73,28 +73,28 @@ Thank you [RailsClips Kickstarter](https://www.kickstarter.com/projects/52106373
 
 30:45 - Writing Aspects of Games (Stories, Artwork, etc.)
 
-32:22 - Why [F#](<http://en.wikipedia.org/wiki/F_Sharp_(programming_language)>)?
+32:22 - Why [F#](<https://en.wikipedia.org/wiki/F_Sharp_(programming_language)>)?
 
 - [Type Providers](https://msdn.microsoft.com/en-us/library/hh156509.aspx)
   - [Tutorial: Creating a Type Provider (F#)](https://msdn.microsoft.com/en-us/library/hh361034.aspx)
-- [Xamarin Studio](http://xamarin.com/studio)
+- [Xamarin Studio](https://xamarin.com/studio)
 
 38:44 - Pair Programming or Agile Techniques in Game Dev?
 
 - “Stupid Courage/Bravery”
 
-42:22 - Teaching Game Development ([Game Jams](http://en.wikipedia.org/wiki/Game_jam))
+42:22 - Teaching Game Development ([Game Jams](https://en.wikipedia.org/wiki/Game_jam))
 
-- [Global Game Jam](http://globalgamejam.org/)
-- [Indie Game Jams](http://www.indiegamejams.com/)
+- [Global Game Jam](https://globalgamejam.org/)
+- [Indie Game Jams](https://www.indiegamejams.com/)
 - [Game Jams on itch.io](https://itch.io/jams)
 
-44:39 - [Onikira: Demon Killer](http://www.onikira.com/)
+44:39 - [Onikira: Demon Killer](https://www.onikira.com/)
 
-- [Onikara - Demon Killer on Steam](http://store.steampowered.com/app/310850/)
+- [Onikara - Demon Killer on Steam](https://store.steampowered.com/app/310850/)
 - Hardware
-- [DmC: Devil May Cry](http://en.wikipedia.org/wiki/DmC:_Devil_May_Cry)
-  Picks[<u>[Vimeo] Carina C. Zona: Schemas for the Real World</u>](https://vimeo.com/80375707) (Avdi)[<u>Maryville, Tennessee</u>](http://en.wikipedia.org/wiki/Maryville,_Tennessee) (Avdi)[<u>Monodraw</u>](http://monodraw.helftone.com) (Jessica)[<u>Elizabeth Naramore: Uncomfortable</u>](http://naramore.net/blog/uncomfortable) (Jessica)[<u>ambient_spec</u>](https://github.com/CoralineAda/ambient_spec) (Coraline)[<u>Cosmic Encounter</u>](https://www.fantasyflightgames.com/en/products/cosmic-encounter/) (Coraline)[<u>Ready Player One by Ernest Cline</u>](http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/ref=sr_1_1?ie=UTF8&qid=1427217449&sr=8-1&keywords=ready+player+one) (Chuck)[<u>Mastery by Robert Greene</u>](http://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/ref=sr_1_1?ie=UTF8&qid=1427217491&sr=8-1&keywords=mastery) (Chuck)[<u>Dixit</u>](http://boardgamegeek.com/boardgame/39856/dixit) (Andrea)[<u>Michael Bernstein: Know Your Types</u>](http://michaelrbernste.in/2014/06/23/know-your-types-goruco-2014.html) (Andrea)[<u>[Vimeo] Philip Potter: Generative testing with clojure.test.check</u>](https://vimeo.com/100976693) (Andrea)
+- [DmC: Devil May Cry](https://en.wikipedia.org/wiki/DmC:_Devil_May_Cry)
+  Picks[<u>[Vimeo] Carina C. Zona: Schemas for the Real World</u>](https://vimeo.com/80375707) (Avdi)[<u>Maryville, Tennessee</u>](https://en.wikipedia.org/wiki/Maryville,_Tennessee) (Avdi)[<u>Monodraw</u>](https://monodraw.helftone.com) (Jessica)[<u>Elizabeth Naramore: Uncomfortable</u>](https://naramore.net/blog/uncomfortable) (Jessica)[<u>ambient_spec</u>](https://github.com/CoralineAda/ambient_spec) (Coraline)[<u>Cosmic Encounter</u>](https://www.fantasyflightgames.com/en/products/cosmic-encounter/) (Coraline)[<u>Ready Player One by Ernest Cline</u>](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/ref=sr_1_1?ie=UTF8&qid=1427217449&sr=8-1&keywords=ready+player+one) (Chuck)[<u>Mastery by Robert Greene</u>](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/ref=sr_1_1?ie=UTF8&qid=1427217491&sr=8-1&keywords=mastery) (Chuck)[<u>Dixit</u>](https://boardgamegeek.com/boardgame/39856/dixit) (Andrea)[<u>Michael Bernstein: Know Your Types</u>](https://michaelrbernste.in/2014/06/23/know-your-types-goruco-2014.html) (Andrea)[<u>[Vimeo] Philip Potter: Generative testing with clojure.test.check</u>](https://vimeo.com/100976693) (Andrea)
 
 ### Transcript
 

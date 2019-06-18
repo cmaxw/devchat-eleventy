@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 
 ### **Host: Charles Max Wood**
@@ -41,7 +41,7 @@ Brian Woodward shares his programming story starting at 7 or 8 messing around on
 - [https://github.com/jonschlinkert/maintainers-guide-to-staying-positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
 - [https://github.com/jonschlinkert/idiomatic-contributing](https://github.com/jonschlinkert/idiomatic-contributing)
 - [https://github.com/jonschlinkert/guide-to-staying-productive](https://github.com/jonschlinkert/guide-to-staying-productive)
-- [http://www.toastmasters.org/](http://www.toastmasters.org/)
+- [https://www.toastmasters.org/](https://www.toastmasters.org/)
 **Charles Max Wood:**
 - [https://www.instagram.com/charlesmaxwood/](https://www.instagram.com/charlesmaxwood/)
 - [https://problogger.com/31-days-to-build-a-better-blog-course/](https://problogger.com/31-days-to-build-a-better-blog-course/)

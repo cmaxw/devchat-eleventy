@@ -38,6 +38,6 @@ You can connect with Tero and see what he's excited about at the following links
 
 ## Charles' Picks:
 
-[Star Wars Rogue One](http://www.starwars.com/films/rogue-one)[Powering the Death Star](https://www.ovoenergy.com/blog/energy/as-rogue-one-arrives-in-cinemas-we-estimate-the-cost-of-powering-the-death-star.html)[CES 2017](http://www.ces.tech/)
+[Star Wars Rogue One](https://www.starwars.com/films/rogue-one)[Powering the Death Star](https://www.ovoenergy.com/blog/energy/as-rogue-one-arrives-in-cinemas-we-estimate-the-cost-of-powering-the-death-star.html)[CES 2017](https://www.ces.tech/)
 
 ### Transcript

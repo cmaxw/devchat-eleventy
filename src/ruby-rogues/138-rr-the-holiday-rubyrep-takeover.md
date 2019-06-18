@@ -14,7 +14,7 @@ tags:
 
 ### Panel
 
-Mandy Moore ([twitter](https://twitter.com/therubyrep) [RubyRep](http://www.rubyrep.com/) [DevReps](http://www.devreps.com/))
+Mandy Moore ([twitter](https://twitter.com/therubyrep) [RubyRep](https://www.rubyrep.com/) [DevReps](https://www.devreps.com/))
 
 ### Discussion
 
@@ -30,7 +30,7 @@ Mandy Moore ([twitter](https://twitter.com/therubyrep) [RubyRep](http://www.ruby
 
 ### Book Club
 
-[Ruby Under a Microscope by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](http://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](http://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
+[Ruby Under a Microscope by Pat Shaughnessy](https://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](https://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](https://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
 
 ### In Two Weeks
 

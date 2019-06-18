@@ -14,18 +14,18 @@ tags:
 
 ### Panel
 
-- Elliott Kember ([twitter](https://twitter.com/elliottkember)&nbsp;[github](https://github.com/elliottkember)&nbsp;[blog](http://www.elliottkember.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://blog.coolaj86.com/)&nbsp;[youtube](http://youtube.com/coolaj86))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Elliott Kember ([twitter](https://twitter.com/elliottkember)&nbsp;[github](https://github.com/elliottkember)&nbsp;[blog](https://www.elliottkember.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://blog.coolaj86.com/)&nbsp;[youtube](https://youtube.com/coolaj86))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-01:33 - Elliott Kember Introduction 02:02 - [Asynchronous UI](http://old.alexmaccaw.com//posts/async_ui) and [Non-Blocking Interactions](http://en.wikipedia.org/wiki/Non-blocking_synchronization) 02:11 -[Swift](<http://en.wikipedia.org/wiki/Swift_(XMPP_client)>) 03:56 - [JavaScript](http://en.wikipedia.org/wiki/JavaScript)
+01:33 - Elliott Kember Introduction 02:02 - [Asynchronous UI](https://old.alexmaccaw.com//posts/async_ui) and [Non-Blocking Interactions](https://en.wikipedia.org/wiki/Non-blocking_synchronization) 02:11 -[Swift](<https://en.wikipedia.org/wiki/Swift_(XMPP_client)>) 03:56 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-- [JavaScript Frameworks](http://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
-- [Ember](http://emberjs.com/)
+- [JavaScript Frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
+- [Ember](https://emberjs.com/)
 - [Angular](https://angularjs.org/)
 - Backburner
   04:42 - JavaScript and the Enabling of Asynchronous UI’s
@@ -39,39 +39,39 @@ tags:
 - Switching States
 - Loading New Pages/Tabs
 - Sending Emails
-  09:54 - More Than Frameworks 10:29 - Affecting Performance 10:57 - [Forge App](http://www.fuelyourapps.com/behind-the-app-interview-with-elliott-kember/)
+  09:54 - More Than Frameworks 10:29 - Affecting Performance 10:57 - [Forge App](https://www.fuelyourapps.com/behind-the-app-interview-with-elliott-kember/)
 - Manifest of Files
   12:44 - Slow Connections/Latency
 - HTML
 - Page Requests
 - Individual http’s
-  16:00 - Uses with [HTML](http://en.wikipedia.org/wiki/Html) 19:09 - Other Data
-- [JSON](http://json.org/)
-  20:28 -[Pusher](http://pusher.com/) 20:53 - [The Need for Speed](https://cloudup.com/blog/the-need-for-speed) 21:20 -Performance Techniques
+  16:00 - Uses with [HTML](https://en.wikipedia.org/wiki/Html) 19:09 - Other Data
+- [JSON](https://json.org/)
+  20:28 -[Pusher](https://pusher.com/) 20:53 - [The Need for Speed](https://cloudup.com/blog/the-need-for-speed) 21:20 -Performance Techniques
 - Perceived Speed/Optimization
-  24:23 -[UI Codes](http://en.wikipedia.org/wiki/Unit_Identification_Code)/Framework Files 25:05 - Eliminating Variable Limbs 29:03 -[Firefox at OpenWest](https://www.youtube.com/watch?v=ZxIfbJ1bHPM)
+  24:23 -[UI Codes](https://en.wikipedia.org/wiki/Unit_Identification_Code)/Framework Files 25:05 - Eliminating Variable Limbs 29:03 -[Firefox at OpenWest](https://www.youtube.com/watch?v=ZxIfbJ1bHPM)
 - Hanged Browsers
-  30:35 - [104 JJ Hypermedia APIs with Steve Klabnik](http://javascriptjabber.com/104-jsj-hypermedia-apis-with-steve-klabnik/) 31:08 - Connections - Phones vs. Internet 32:15 -[Pull to Refresh](http://usehook.com/) 33:08 -[Objective-C](http://en.wikipedia.org/wiki/Objective-C) 33:10 -Apps that Prioritize Asynchronicity 33:50 - Dinosaur Updating App 35:48 - [Infinite Scrolling](http://www.infinite-scroll.com/) 37:13 -[Amazon](http://www.amazon.com/)
+  30:35 - [104 JJ Hypermedia APIs with Steve Klabnik](https://javascriptjabber.com/104-jsj-hypermedia-apis-with-steve-klabnik/) 31:08 - Connections - Phones vs. Internet 32:15 -[Pull to Refresh](https://usehook.com/) 33:08 -[Objective-C](https://en.wikipedia.org/wiki/Objective-C) 33:10 -Apps that Prioritize Asynchronicity 33:50 - Dinosaur Updating App 35:48 - [Infinite Scrolling](https://www.infinite-scroll.com/) 37:13 -[Amazon](https://www.amazon.com/)
 - One-click Login
   38:29 -[The Iframe Hack](https://www.drupal.org/node/233516) 39:45 - Asynchronous vs. Synchronous
 - Engineering Automatic Frameworks
-  42:00 - Instant vs. Delays 46:04 -[High Performance Browser Networking by Ilya Grigorik](http://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763/ref=sr_1_1?ie=UTF8&qid=1403290232&sr=8-1&keywords=high+performance+browser+networking) 46:40 -[Horse AJ on Twitter](https://twitter.com/HorseAJ86) 47:12 -[Native Apps](http://searchsoftwarequality.techtarget.com/definition/native-application-native-app) 47:48 -[Dropbox](https://www.dropbox.com/home)
+  42:00 - Instant vs. Delays 46:04 -[High Performance Browser Networking by Ilya Grigorik](https://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763/ref=sr_1_1?ie=UTF8&qid=1403290232&sr=8-1&keywords=high+performance+browser+networking) 46:40 -[Horse AJ on Twitter](https://twitter.com/HorseAJ86) 47:12 -[Native Apps](https://searchsoftwarequality.techtarget.com/definition/native-application-native-app) 47:48 -[Dropbox](https://www.dropbox.com/home)
 
 ### Picks
 
-- [Bookshelf.js](http://bookshelfjs.org/) (AJ)
-- [Knex.js](http://knexjs.org/) (AJ)
+- [Bookshelf.js](https://bookshelfjs.org/) (AJ)
+- [Knex.js](https://knexjs.org/) (AJ)
 - [[GitHub] bookshelf](https://github.com/tgriesser/bookshelf) (AJ)
 - [[GitHub] knex](https://github.com/tgriesser/knex) (AJ)
-- [Untrusted](http://alexnisnevich.github.io/untrusted/) (AJ)
-- [Free Web Audio API Book](http://chimera.labs.oreilly.com/books/1234000001552) (Jamison)
-- [Off to Be the Wizard (Magic 2.0, Book 1) by Scott Meyer](http://www.amazon.com/gp/product/B00EF8Z32I/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EF8Z32I&linkCode=as2&tag=chamaxwoo-20&linkId=332UTSV6XCQU2MZU) (Joe)
-- [Ready Player One: A Novel by Ernest Cline](http://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=XU2DLWJOII3GUXVS) (Joe)
-- [Idiom Addict](http://www.marblesthebrainstore.com/idiom-addict) (Joe)
-- [The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM) by Hal Elrod](http://www.amazon.com/gp/product/0979019710/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0979019710&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Swift](http://en.wikipedia.org/wiki/ISO_9362) (Elliott)
+- [Untrusted](https://alexnisnevich.github.io/untrusted/) (AJ)
+- [Free Web Audio API Book](https://chimera.labs.oreilly.com/books/1234000001552) (Jamison)
+- [Off to Be the Wizard (Magic 2.0, Book 1) by Scott Meyer](https://www.amazon.com/gp/product/B00EF8Z32I/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EF8Z32I&linkCode=as2&tag=chamaxwoo-20&linkId=332UTSV6XCQU2MZU) (Joe)
+- [Ready Player One: A Novel by Ernest Cline](https://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=XU2DLWJOII3GUXVS) (Joe)
+- [Idiom Addict](https://www.marblesthebrainstore.com/idiom-addict) (Joe)
+- [The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM) by Hal Elrod](https://www.amazon.com/gp/product/0979019710/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0979019710&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Swift](https://en.wikipedia.org/wiki/ISO_9362) (Elliott)
 - [Swift Playgrounds](https://github.com/jas/swift-playground-builder) (Elliott)
-- [Framer.js](http://framerjs.com/) (Elliott)
+- [Framer.js](https://framerjs.com/) (Elliott)
 
 ### Next Week
 

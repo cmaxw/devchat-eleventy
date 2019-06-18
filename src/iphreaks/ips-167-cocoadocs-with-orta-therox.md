@@ -16,9 +16,9 @@ tags:
 
 - [Twitter](https://twitter.com/orta)
 - [GitHub](https://github.com/orta)
-- [Blog](http://orta.io/)
+- [Blog](https://orta.io/)
 - [Artsy](https://www.artsy.net/)
-  01:56 -&nbsp;[CocoaDocs](http://cocoadocs.org/)03:06 - CocoaDocs vs&nbsp;[CocoaPods](https://cocoapods.org/)04:22 - Documentation Generation
+  01:56 -&nbsp;[CocoaDocs](https://cocoadocs.org/)03:06 - CocoaDocs vs&nbsp;[CocoaPods](https://cocoapods.org/)04:22 - Documentation Generation
 - [jazzy](https://github.com/realm/jazzy)
 - [appledoc](https://github.com/tomaz/appledoc)
 - [Macminicolo](https://macminicolo.net/)
@@ -33,9 +33,9 @@ tags:
   24:39 - Is CocoaDocs similar to projects that are available on other platforms? Effect on Swift Going Cross-platform 27:08 - Paying For Hosting
 - [Button](https://www.usebutton.com/)
   30:12 -&nbsp;[danger](https://github.com/danger/danger)
-- [Felix Krause](http://krausefx.com/)
+- [Felix Krause](https://krausefx.com/)
   Picks
-- [iPad Pro Smart Keyboard](http://www.apple.com/smart-keyboard/)&nbsp;(Andrew)
+- [iPad Pro Smart Keyboard](https://www.apple.com/smart-keyboard/)&nbsp;(Andrew)
 - [Bose SoundTrue Around-Ear Headphones II](https://www.amazon.com/Bose-SoundTrue-around-ear-headphones-II/dp/B0117RFX38)&nbsp;(Layne)
 - [curlbuilder.com](https://curlbuilder.com/)&nbsp;(Jaim)
 - [injectionforxcode](https://github.com/johnno1962/injectionforxcode)&nbsp;(Orta)

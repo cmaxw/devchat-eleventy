@@ -16,7 +16,7 @@ When is it worthwhile to introduce a new language, tool, or database? And when w
 
 02:43 - Episode Idea Background
 
-- [PolyConf](http://polyconf.com/)
+- [PolyConf](https://polyconf.com/)
   - [@polyconfhq](https://twitter.com/polyconfhq)
 
 04:28 - Implementing Standards and Comparisons
@@ -40,21 +40,21 @@ When is it worthwhile to introduce a new language, tool, or database? And when w
 30:36 - Bringing It In: Process
 
 - Databases
-  - [Demille Quote](http://www.brainyquote.com/quotes/quotes/c/cecilbdem158998.html)
+  - [Demille Quote](https://www.brainyquote.com/quotes/quotes/c/cecilbdem158998.html)
 
 38:48 - Why would you want to switch databases and when is it worth it?
 
 - Eliminating a Technology
-  - [Peter Seibel: Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.](http://www.gigamonkeys.com/flowers/)
+  - [Peter Seibel: Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.](https://www.gigamonkeys.com/flowers/)
 - Internal vs External Motivation
-  - [Redis](http://redis.io/) vs [Memcache](http://php.net/manual/en/book.memcache.php)
+  - [Redis](https://redis.io/) vs [Memcache](https://php.net/manual/en/book.memcache.php)
 
 46:06 - Success Cases
 
 - Abstraction
   Picks
 
-[OS4W: Open Source for Women](https://os4w.org) (Coraline)[Contributor Covenant](http://www.contributor-covenant.org) (Coraline)[Camille Fournier: Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) (Jessica)[Abby Bobé: From Protesting to Programming: Becoming a Tech Activist](https://www.youtube.com/watch?v=gy82S8tjJX8) (Jessica)[Rails Remote Conf](http://railsremoteconf.com) (Chuck)[TV Fool](http://tvfool.com/) (Chuck)
+[OS4W: Open Source for Women](https://os4w.org) (Coraline)[Contributor Covenant](https://www.contributor-covenant.org) (Coraline)[Camille Fournier: Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) (Jessica)[Abby Bobé: From Protesting to Programming: Becoming a Tech Activist](https://www.youtube.com/watch?v=gy82S8tjJX8) (Jessica)[Rails Remote Conf](https://railsremoteconf.com) (Chuck)[TV Fool](https://tvfool.com/) (Chuck)
 
 ### Transcript
 

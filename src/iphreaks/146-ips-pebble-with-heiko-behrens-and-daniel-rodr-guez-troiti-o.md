@@ -20,23 +20,23 @@ The iPhreaks are going to the [Microsoft Build Conference](https://build.microso
 
 - [Twitter](https://twitter.com/HBehrens)
 - [GitHub](https://github.com/HBehrens)
-- [Blog](http://heikobehrens.net/)
+- [Blog](https://heikobehrens.net/)
 
 02:25 - Daniel Rodríguez Troitiño
 
 - [GitHub](https://github.com/drodriguez)
 
-02:46 - [Pebble](https://www.pebble.com/) vs [The Apple Watch](http://www.apple.com/watch/)
+02:46 - [Pebble](https://www.pebble.com/) vs [The Apple Watch](https://www.apple.com/watch/)
 
 - [@pebbledev](https://twitter.com/pebbledev)
 
 07:06 - The Pebble Development Experience
 
-- [Where To?](http://www.futuretap.com/apps/whereto/)
+- [Where To?](https://www.futuretap.com/apps/whereto/)
 
 10:49 - Accelerometer Functions
 
-11:48 - JavaScript; [JavaScriptCore](http://nshipster.com/javascriptcore/)
+11:48 - JavaScript; [JavaScriptCore](https://nshipster.com/javascriptcore/)
 
 - [Pebble.js](https://pebble.github.io/pebblejs/)
 
@@ -59,7 +59,7 @@ The iPhreaks are going to the [Microsoft Build Conference](https://build.microso
 33:46 - Apps and Screens/Watchfaces
 
 - [UITableView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITableView_Class/)
-- [UIkit](http://getuikit.com/)
+- [UIkit](https://getuikit.com/)
 
 39:56 - Getting Started with Building an App for Pebble
 
@@ -69,7 +69,7 @@ The iPhreaks are going to the [Microsoft Build Conference](https://build.microso
 
 47:36 - Waterproof?Picks
 
-[Ono](https://github.com/mattt/Ono) (Andrew)[Mike Ash: Friday Q&A 2016-03-04: Swift Asserts](https://www.mikeash.com/pyblog/friday-qa-2016-03-04-swift-asserts.html) (Andrew)[Smart Go](https://www.smartgo.com/index.html) (Andrew)[2016 Minnesota State High School All Hockey Hair Team](https://www.youtube.com/watch?v=SmucWOLnAb4) (Jaim)[The Best Podcast Rap Video](https://www.facebook.com/mattgiovanisci/videos/10208617188848005/) (Chuck)[PaintCode](http://www.paintcodeapp.com) (Heiko)[Jetbrains: The unicorn Silicon Valley doesn't like to talk about](http://movingfulcrum.com/jetbrains-the-unicorn-silicon-valley-doesnt-like-to-talk-about/) (Heiko)[How to Move to Germany if Donald Trump is Elected President](https://medium.com/@tiahardyrobinson/how-to-move-to-germany-if-donald-trump-is-elected-president-ebd09f3d7ac2) (Heiko)[Greg Wilson: What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320) (Daniel)[Ruby Rogues Episode #184: What We Actually Know About Software Development and Why We Believe It's True with Greg Wilson and Andreas Stefik](https://devchat.tv/ruby-rogues/184-rr-what-we-actually-know-about-software-development-and-why-we-believe-it-s-true-with-greg-wilson-and-andreas-stefik) (Chuck)
+[Ono](https://github.com/mattt/Ono) (Andrew)[Mike Ash: Friday Q&A 2016-03-04: Swift Asserts](https://www.mikeash.com/pyblog/friday-qa-2016-03-04-swift-asserts.html) (Andrew)[Smart Go](https://www.smartgo.com/index.html) (Andrew)[2016 Minnesota State High School All Hockey Hair Team](https://www.youtube.com/watch?v=SmucWOLnAb4) (Jaim)[The Best Podcast Rap Video](https://www.facebook.com/mattgiovanisci/videos/10208617188848005/) (Chuck)[PaintCode](https://www.paintcodeapp.com) (Heiko)[Jetbrains: The unicorn Silicon Valley doesn't like to talk about](https://movingfulcrum.com/jetbrains-the-unicorn-silicon-valley-doesnt-like-to-talk-about/) (Heiko)[How to Move to Germany if Donald Trump is Elected President](https://medium.com/@tiahardyrobinson/how-to-move-to-germany-if-donald-trump-is-elected-president-ebd09f3d7ac2) (Heiko)[Greg Wilson: What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320) (Daniel)[Ruby Rogues Episode #184: What We Actually Know About Software Development and Why We Believe It's True with Greg Wilson and Andreas Stefik](https://devchat.tv/ruby-rogues/184-rr-what-we-actually-know-about-software-development-and-why-we-believe-it-s-true-with-greg-wilson-and-andreas-stefik) (Chuck)
 
 ### Transcript
 

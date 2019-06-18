@@ -70,7 +70,7 @@ Charles
 Evan
 
 - [Clojure](https://clojure.org/)
-- [Fortune](http://fortune.js.org/)
+- [Fortune](https://fortune.js.org/)
 - [Kantaro: The Sweet Tooth Salaryman](https://www.imdb.com/title/tt6983520/)
 
 ### Transcript

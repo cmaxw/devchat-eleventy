@@ -230,7 +230,7 @@ Divya talks about certain conferences and their past schedules.
 - [Meetup](https://www.meetup.com)
 - [Ghost.Org](https://ghost.org)
 - [Miriam Suzanne’s Twitter](https://twitter.com/mirisuzanne)
-- [Sarah Mei’s Article: What Your Conference Proposal is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
+- [Sarah Mei’s Article: What Your Conference Proposal is Missing](https://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
 - [WordPress](https://wordpress.org)
 - [Sarah Drasner’s Twitter](https://twitter.com/sarah_edo)
 - [CSS Tricks](https://css-tricks.com)

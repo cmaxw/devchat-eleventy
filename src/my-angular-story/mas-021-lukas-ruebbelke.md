@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-**Panel:&nbsp;** Charles Max Wood **Guest:** Lukas Ruebbelke This week on My My Angular Story, Charles speaks with Lukas Ruebbelke. Lukas is a Google Developer Expert for Angular and Firebase. own a product consultant agency. Lukas also maintains a blog at [onehungrymind.com](http://onehungrymind.com), and is the author of [AngularJS In Action](https://www.amazon.com/Lukas-Ruebbelke/e/B00GSNBT4Y/ref=dp_byline_cont_book_1). Lukas mentions doing over100 of video for [egghead.io](https://egghead.io) and many speaking events. Lukas talks about his journey into programming by having an interest in electronics. In high school he learned about low voltage electronics switch led him to learn programming, getting an A-plus certification, and computers.&nbsp; Lukas shares the ideas and path to his successful developer career. **In particular, we dive pretty deep on:&nbsp;**
+**Panel:&nbsp;** Charles Max Wood **Guest:** Lukas Ruebbelke This week on My My Angular Story, Charles speaks with Lukas Ruebbelke. Lukas is a Google Developer Expert for Angular and Firebase. own a product consultant agency. Lukas also maintains a blog at [onehungrymind.com](https://onehungrymind.com), and is the author of [AngularJS In Action](https://www.amazon.com/Lukas-Ruebbelke/e/B00GSNBT4Y/ref=dp_byline_cont_book_1). Lukas mentions doing over100 of video for [egghead.io](https://egghead.io) and many speaking events. Lukas talks about his journey into programming by having an interest in electronics. In high school he learned about low voltage electronics switch led him to learn programming, getting an A-plus certification, and computers.&nbsp; Lukas shares the ideas and path to his successful developer career. **In particular, we dive pretty deep on:&nbsp;**
 
 - How did you get into programming?
 - Electronics
@@ -36,10 +36,10 @@ tags:
 - Building App for the market, does that change your approach?
 - and much, much more!
   **Links:&nbsp;**
-- [onehungrymind.com](http://onehungrymind.com)
+- [onehungrymind.com](https://onehungrymind.com)
 - [AngularJS In Action](https://www.amazon.com/Lukas-Ruebbelke/e/B00GSNBT4Y/ref=dp_byline_cont_book_1)
 - [egghead.io](https://egghead.io)
-- [ventrureplex.com](http://ventrureplex.com)
+- [ventrureplex.com](https://ventrureplex.com)
 - @simpleton
   **Picks** Lukas
 - [Cole Haan - Grand Crosscourt 2&nbsp;](https://www.colehaan.com/mens-grand-crosscourt-sneaker-tan-leather-burnished/C26521.html)

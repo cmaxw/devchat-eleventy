@@ -13,7 +13,7 @@ tags:
   - new_programmers
 ---
 
-Check out [Angular Remote Conf](http://www.angularremoteconf.com)!
+Check out [Angular Remote Conf](https://www.angularremoteconf.com)!
 
 &nbsp;
 
@@ -21,16 +21,16 @@ Check out [Angular Remote Conf](http://www.angularremoteconf.com)!
 
 - [Twitter](https://twitter.com/greggpollack)
 - [GitHub](https://github.com/Gregg)
-- <u><a style="text-decoration: none;" href="http://madewithenvy.com/">Envy Labs</a></u>
+- <u><a style="text-decoration: none;" href="https://madewithenvy.com/">Envy Labs</a></u>
   - [@envylabs](https://twitter.com/envylabs)
 - <u><a style="text-decoration: none;" href="https://www.codeschool.com/">Code School</a></u>
   - [@codeschool](https://twitter.com/codeschool)&nbsp;&nbsp;
-- [Starter Studio](http://starterstudio.com/)
+- [Starter Studio](https://starterstudio.com/)
 
 05:19 - [Code School](https://www.codeschool.com/)
 
-- [Rails for Zombies](http://railsforzombies.org/)
-- [Try Ruby](http://tryruby.org)
+- [Rails for Zombies](https://railsforzombies.org/)
+- [Try Ruby](https://tryruby.org)
 
 06:49 - Course Content
 
@@ -40,7 +40,7 @@ Check out [Angular Remote Conf](http://www.angularremoteconf.com)!
 
 09:42 - Plots & Storylines
 
-11:40 - Code School vs [Pluralsight](http://www.pluralsight.com/)
+11:40 - Code School vs [Pluralsight](https://www.pluralsight.com/)
 
 14:09 - Structuring Courses
 
@@ -51,9 +51,9 @@ Check out [Angular Remote Conf](http://www.angularremoteconf.com)!
   - [abecedary](https://github.com/codeschool/abecedary)
   - [Mocha](https://mochajs.org/)
 
-18:21 - [JavaScript.com](http://javascript.com)
+18:21 - [JavaScript.com](https://javascript.com)
 
-- [Try jQuery](http://try.jquery.com/)
+- [Try jQuery](https://try.jquery.com/)
 - Contributing to JavaScript.com
   - [Let Us Know](https://www.javascript.com/feedback)
 - [Try JavaScript](https://www.javascript.com/try)
@@ -62,21 +62,21 @@ Check out [Angular Remote Conf](http://www.angularremoteconf.com)!
 22:47 - Designing Exercises & Challenges
 
 - [abecedary](https://github.com/codeschool/abecedary)
-- [Chai](http://chaijs.com/)
+- [Chai](https://chaijs.com/)
 
 30:31 - The Future of Online Learning
 
-- [Thinkful](http://thinkful.com)
-- [Bloc.io](http://bloc.io)
-- [AirPair](http://airpair.com)
-- [HackHands](http://hackhands.com)
-- [Smarterer](http://smarterer.com)
+- [Thinkful](https://thinkful.com)
+- [Bloc.io](https://bloc.io)
+- [AirPair](https://airpair.com)
+- [HackHands](https://hackhands.com)
+- [Smarterer](https://smarterer.com)
 
 34:01 - Teaching Best Practices
 
 Picks
 
-[Mr. Robot](http://www.imdb.com/title/tt4158110/) (Gregg)[#ILookLikeAnEngineer](https://twitter.com/search?q=%23ILookLikeAnEngineer&src=typd) (Aimee)[Why we Need WebAssembly An Interview with Brendan Eich](https://medium.com/javascript-scene/why-we-need-webassembly-an-interview-with-brendan-eich-7fb2a60b0723) (Aimee)[Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) (AJ)[Periscope](https://www.periscope.tv/) (Chuck)
+[Mr. Robot](https://www.imdb.com/title/tt4158110/) (Gregg)[#ILookLikeAnEngineer](https://twitter.com/search?q=%23ILookLikeAnEngineer&src=typd) (Aimee)[Why we Need WebAssembly An Interview with Brendan Eich](https://medium.com/javascript-scene/why-we-need-webassembly-an-interview-with-brendan-eich-7fb2a60b0723) (Aimee)[Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) (AJ)[Periscope](https://www.periscope.tv/) (Chuck)
 
 ### Transcript
 

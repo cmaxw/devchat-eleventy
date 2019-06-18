@@ -15,8 +15,8 @@ tags:
 ## **Sponsors:**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
-- [Clubhouse](http://clubhouse.io/devchat)
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
+- [Clubhouse](https://clubhouse.io/devchat)
 
 ### **Panel:**
 
@@ -39,7 +39,7 @@ In this episode, Chuck talks with&nbsp;[Brady Gaster](https://twitter.com/bradyg
 - [Socket.io](https://socket.io/)
 - [Node-SASS](https://www.npmjs.com/package/node-sass)
 - [ASP.NET SignalR Hubs API Guide – JavaScript Client](https://docs.microsoft.com/en-us/aspnet/signalr/overview/guide-to-the-api/hubs-api-guide-javascript-client)
-- [SignalR.net](http://signalr.net/)
+- [SignalR.net](https://signalr.net/)
 - [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm/)
 - [Parcel](https://developer.android.com/reference/android/os/Parcel)
 - [Brady Gaster’s Twitter](https://twitter.com/bradygaster)

@@ -16,7 +16,7 @@ tags:
 
 - [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/rogues) offers a $1000 signing bonus
-- [Cachefly](http://www.cachefly.com/)
+- [Cachefly](https://www.cachefly.com/)
 
 ## Panel
 
@@ -40,7 +40,7 @@ Sean Handley explains in detail ruby bindings and FFI and why they might be usef
 
 ## Picks
 Andrew Mason
-- [http://strftimer.com/](http://strftimer.com/)
+- [https://strftimer.com/](https://strftimer.com/)
 Sean Handley
 - [https://vasyop.github.io/miniC-hosting/](https://vasyop.github.io/miniC-hosting/)
 Dave Kimura

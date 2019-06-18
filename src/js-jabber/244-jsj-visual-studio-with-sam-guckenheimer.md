@@ -24,7 +24,7 @@ tags:
 
 ### **Picks:**
 
-[Daplie Wefunder](https://wefunder.com/daplie) (AJ)[Unroll.Me](https://unroll.me/) (Charles)[Focused Inbox on Outlook](https://support.office.com/en-us/article/Focused-Inbox-for-Outlook-f445ad7f-02f4-4294-a82e-71d8964e3978) (Sam)[WhiteSource](https://www.whitesourcesoftware.com/)(Sam)[_The Girl On The Train_](http://www.imdb.com/title/tt3631112/) (Sam)[_The Pigeon Tunnel_ by John le Carre](https://www.amazon.com/Pigeon-Tunnel-Stories-My-Life/dp/0735220778) (Sam)
+[Daplie Wefunder](https://wefunder.com/daplie) (AJ)[Unroll.Me](https://unroll.me/) (Charles)[Focused Inbox on Outlook](https://support.office.com/en-us/article/Focused-Inbox-for-Outlook-f445ad7f-02f4-4294-a82e-71d8964e3978) (Sam)[WhiteSource](https://www.whitesourcesoftware.com/)(Sam)[_The Girl On The Train_](https://www.imdb.com/title/tt3631112/) (Sam)[_The Pigeon Tunnel_ by John le Carre](https://www.amazon.com/Pigeon-Tunnel-Stories-My-Life/dp/0735220778) (Sam)
 
 ### Transcript
 

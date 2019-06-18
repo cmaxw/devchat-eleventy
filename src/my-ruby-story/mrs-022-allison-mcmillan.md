@@ -16,7 +16,7 @@ This week on My Ruby Story, Charles speaks with Allison McMillan. Allison is a s
 
 - Allison got into programming working as a non-profit executive and dealing with change in the organization.
 - Getting in involve&nbsp; in the[DC Tech Community&nbsp;](https://www.meetup.com/DC-Tech-Meetup/?_cookie-check=J-9UEiLc24IWLTaK)
-- Joining the [Rails Girls](http://railsgirls.com) Workshop
+- Joining the [Rails Girls](https://railsgirls.com) Workshop
 - Got her first job by attending the Ruby Conf. at the Scholar Guide Program
 - Working Remotely as a junior developer
 - Doing light talks at Ruby Conf. to gain authority
@@ -24,13 +24,13 @@ This week on My Ruby Story, Charles speaks with Allison McMillan. Allison is a s
 - Allison’s favorite thing to speak about at conferences involves writing interactive workshops.
   **Links:**
 - [DC Tech Community&nbsp;](https://www.meetup.com/DC-Tech-Meetup/?_cookie-check=J-9UEiLc24IWLTaK)
-- [Rails Girls](http://railsgirls.com)
-- [http://rubyconf.org/scholarships](http://rubyconf.org/scholarships)
-- Blog site - [DayDreams In Ruby](http://daydreamsinruby.com)
+- [Rails Girls](https://railsgirls.com)
+- [https://rubyconf.org/scholarships](https://rubyconf.org/scholarships)
+- Blog site - [DayDreams In Ruby](https://daydreamsinruby.com)
 - @allie_p
 - [Ruby Dev Summit&nbsp;](https://rubydevsummit.com) - Free
   **Picks:&nbsp;** Allison
-- [Hello Ruby](http://www.helloruby.com) by Linda Liukas
+- [Hello Ruby](https://www.helloruby.com) by Linda Liukas
 - Baking - [SmittenKitchen](https://smittenkitchen.com)
   Charles
 - [GitLab Server](https://about.gitlab.com)

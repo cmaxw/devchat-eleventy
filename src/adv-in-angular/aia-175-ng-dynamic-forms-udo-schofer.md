@@ -38,7 +38,7 @@ tags:
 - [Linode](https://promo.linode.com/myangularstory/)
 - [RayGun](https://raygun.com/)
 - [Udo’s GitHub](https://github.com/udos86)
-- [http://www.udos86.de](http://www.udos86.de)
+- [https://www.udos86.de](https://www.udos86.de)
 - [Angular Bootcamp](https://angularbootcamp.com/)
 -
 

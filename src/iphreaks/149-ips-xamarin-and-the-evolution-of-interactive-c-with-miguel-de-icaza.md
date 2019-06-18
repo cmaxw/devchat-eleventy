@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/) 2016. In this episode we chatted with [Miguel de Icaza](https://en.wikipedia.org/wiki/Miguel_de_Icaza) of [Xamarin](https://www.xamarin.com/) and the evolution of Interactive C#. You can follow him on [Twitter](https://twitter.com/migueldeicaza), see what he’s done over on [GitHub](https://github.com/migueldeicaza), or visit his [blog](http://tirania.org/blog/).
+This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/) 2016. In this episode we chatted with [Miguel de Icaza](https://en.wikipedia.org/wiki/Miguel_de_Icaza) of [Xamarin](https://www.xamarin.com/) and the evolution of Interactive C#. You can follow him on [Twitter](https://twitter.com/migueldeicaza), see what he’s done over on [GitHub](https://github.com/migueldeicaza), or visit his [blog](https://tirania.org/blog/).
 
 ### Transcript
 

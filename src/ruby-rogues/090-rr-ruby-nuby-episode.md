@@ -12,15 +12,15 @@ tags:
   - podcast
 ---
 
-00:43 - [Ruby Nuby Project](http://rubyrogues.com/ruby-nuby-project/)
+00:43 - [Ruby Nuby Project](https://rubyrogues.com/ruby-nuby-project/)
 
-- [Spitfire Athlete](http://www.spitfireathlete.com/)
-- [LivingSocial’s Hungry Academy Program](http://hungryacademy.com/)
-- [Rails Ramp Up](http://www.railsrampup.com/)
+- [Spitfire Athlete](https://www.spitfireathlete.com/)
+- [LivingSocial’s Hungry Academy Program](https://hungryacademy.com/)
+- [Rails Ramp Up](https://www.railsrampup.com/)
   04:11 - Learning Ruby
 -
 
-[Ruby on Rails Tutorial](http://ruby.railstutorial.org/)
+[Ruby on Rails Tutorial](https://ruby.railstutorial.org/)
 
 -
 
@@ -32,11 +32,11 @@ tags:
 
 -
 
-[Beginning Ruby: From Novice to Professional by Peter Cooper](http://www.amazon.com/gp/product/1430223634/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430223634&linkCode=as2&tag=chamaxwoo-20)
+[Beginning Ruby: From Novice to Professional by Peter Cooper](https://www.amazon.com/gp/product/1430223634/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430223634&linkCode=as2&tag=chamaxwoo-20)
 
 -
 
-[Rails Bridge](http://railsbridge.org/)
+[Rails Bridge](https://railsbridge.org/)
 09:56 - The Ruby Community
 
 -
@@ -45,16 +45,16 @@ tags:
 
 -
 
-[CodeMash](http://codemash.org/)
+[CodeMash](https://codemash.org/)
 
 -
 
-[Pivotal NY Tech Talks](http://www.meetup.com/PivotalNY-Tech-Talks/)
+[Pivotal NY Tech Talks](https://www.meetup.com/PivotalNY-Tech-Talks/)
 12:41 - Beginner Tutorials
 
 -
 
-[Stack Overflow](http://stackoverflow.com/)
+[Stack Overflow](https://stackoverflow.com/)
 
 -
 
@@ -75,7 +75,7 @@ tags:
 
 -
 
-[Women Who Code](http://www.meetup.com/Women-Who-Code-SF/)
+[Women Who Code](https://www.meetup.com/Women-Who-Code-SF/)
 
 -
 
@@ -84,7 +84,7 @@ tags:
 
 -
 
-[Codeacademy](http://www.codecademy.com/#!/exercises/0)
+[Codeacademy](https://www.codecademy.com/#!/exercises/0)
 
 -
 
@@ -92,58 +92,58 @@ tags:
 
 -
 
-[RailsInstaller](http://railsinstaller.org/)
+[RailsInstaller](https://railsinstaller.org/)
 
-- [Homebrew](http://mxcl.github.com/homebrew/)
+- [Homebrew](https://mxcl.github.com/homebrew/)
 -
 
-[tokaido](http://www.kickstarter.com/projects/1397300529/railsapp/posts)
-
--
-
-[Try Ruby](http://tryruby.org/)
+[tokaido](https://www.kickstarter.com/projects/1397300529/railsapp/posts)
 
 -
 
-[Google Searches](http://www.google.com/)
+[Try Ruby](https://tryruby.org/)
+
+-
+
+[Google Searches](https://www.google.com/)
 34:56 - Experts, Novices & Mentoring
 
-- [Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](http://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356050&linkCode=as2&tag=chamaxwoo-20)
-- [Seattle.rb](http://www.seattlerb.org/)
+- [Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](https://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356050&linkCode=as2&tag=chamaxwoo-20)
+- [Seattle.rb](https://www.seattlerb.org/)
 -
 
-[@ HackDays -- Tech@NYU](http://techatnyu.org/hackdays/)
+[@ HackDays -- Tech@NYU](https://techatnyu.org/hackdays/)
 41:52 - Pair Programming
 
-- [espnW Hack Day](http://developer.espn.com/blog/read/20121115_espnw)
+- [espnW Hack Day](https://developer.espn.com/blog/read/20121115_espnw)
   47:05 - Community Heroes
 - [Sarah Mei](https://twitter.com/sarahmei)
 - [Aaron Patterson](https://twitter.com/tenderlove)
 - [Geoff Grosenbach](https://twitter.com/topfunky)
 - [Ryan Davis](https://twitter.com/the_zenspider)
 - [Eric Hodel](https://twitter.com/drbrain)
-- [Therapeutic Refactoring: Katrina Owen](http://www.youtube.com/watch?v=J4dlF0kcThQ)
+- [Therapeutic Refactoring: Katrina Owen](https://www.youtube.com/watch?v=J4dlF0kcThQ)
 - [Steve Klabnik](https://twitter.com/steveklabnik)
 - [Evadne Wu](https://twitter.com/evadne)
   53:20 - Technology
 -
 
-[Rails has Two Default Stacks: Steve Klabnik](http://words.steveklabnik.com/rails-has-two-default-stacks)
+[Rails has Two Default Stacks: Steve Klabnik](https://words.steveklabnik.com/rails-has-two-default-stacks)
 
 -
 
-[HAML](http://haml.info/)
+[HAML](https://haml.info/)
 
 -
 
-[Markaby](http://markaby.github.com/)
+[Markaby](https://markaby.github.com/)
 
-- [PostgreSQL](http://www.postgresql.org/)
-  _Once again,&nbsp;big thanks to [RailsCasts.com](http://railscasts.com/), [RubyMonk.com](http://rubymonk.com/) and [The Pragmatic Studio](http://pragmaticstudio.com/) for their generous support!_
+- [PostgreSQL](https://www.postgresql.org/)
+  _Once again,&nbsp;big thanks to [RailsCasts.com](https://railscasts.com/), [RubyMonk.com](https://rubymonk.com/) and [The Pragmatic Studio](https://pragmaticstudio.com/) for their generous support!_
 
 ### Book Club
 
-[Patterns of Enterprise Application Architecture by Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420)
+[Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420)
 
 ### Next Week
 

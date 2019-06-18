@@ -12,11 +12,11 @@ tags:
   - podcast
 ---
 
-Live from [<u>ng-conf</u>](http://www.ng-conf.org/) 2015!
+Live from [<u>ng-conf</u>](https://www.ng-conf.org/) 2015!
 
 05:10 - [<u>[YouTube] Shai Reznik: ng-wat</u>](https://www.youtube.com/watch?v=M_Wp-2XA9ZU)
 
-05:59 - <u><a style="text-decoration: none;" href="http://www.typescriptlang.org/">TypeScript</a></u>
+05:59 - <u><a style="text-decoration: none;" href="https://www.typescriptlang.org/">TypeScript</a></u>
 
 - [<u>[YouTube] Brad Green and Igor Minar: ng-conf 2015 Day 1 Keynote</u>](https://www.youtube.com/watch?v=QHulaj5ZxbI)
 
@@ -28,7 +28,7 @@ Live from [<u>ng-conf</u>](http://www.ng-conf.org/) 2015!
 
 19:23 - Events
 
-23:19 - The Kid’s Track and [<u>ng-conf extended</u>](http://www.ng-conf.org/extended)
+23:19 - The Kid’s Track and [<u>ng-conf extended</u>](https://www.ng-conf.org/extended)
 
 - [<u>[YouTube] Lukas Reubellke and Geoff Goodman: Badges? We Don’t Need No Strinkin’ Badges</u>](https://www.youtube.com/watch?v=hYXEuQZMLSM)
 - [<u>[YouTube] Katya Eames: How to Teach Angular to Your Kids</u>](https://www.youtube.com/watch?v=aH9Plt77cjM)
@@ -41,7 +41,7 @@ Live from [<u>ng-conf</u>](http://www.ng-conf.org/) 2015!
 
 Picks
 
-[<u>Woot.com</u>](http://www.woot.com/) (Aaron)[<u>Ready Player One by Ernest Cline</u>](http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448) (Aaron)[<u>Quadcopters</u>](http://upload.wikimedia.org/wikipedia/commons/b/b9/Walkera_QR_X350_Quadcopter_Hovering.jpg) (Chuck)[<u>Dreamers and Deceivers: True Stories of the Heroes and Villains Who Made America by Glenn Beck</u>](http://www.amazon.com/Dreamers-Deceivers-Stories-Villains-America/dp/1476783896) (Chuck)[<u>80/20 Sales and Marketing: The Definitive Guide to Working Less and Making More by Perry Marshall</u>](http://www.amazon.com/80-20-Sales-Marketing-Definitive/dp/1599185059) (Chuck) Theater & Drama (John)[<u>[TED] Nancy Duarte: The secret structure of great talks</u>](http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) (John)[<u>Resonate: Present Visual Stories That Transform Audiences by Nancy Duarte</u>](http://www.duarte.com/book/resonate/) (John)[<u>William Scott Moss</u>](https://twitter.com/Scottiemoss) (Lukas) The Chocolate Malts at [<u>The Little America Hotel</u>](http://saltlake.littleamerica.com/) (Joe)
+[<u>Woot.com</u>](https://www.woot.com/) (Aaron)[<u>Ready Player One by Ernest Cline</u>](https://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448) (Aaron)[<u>Quadcopters</u>](https://upload.wikimedia.org/wikipedia/commons/b/b9/Walkera_QR_X350_Quadcopter_Hovering.jpg) (Chuck)[<u>Dreamers and Deceivers: True Stories of the Heroes and Villains Who Made America by Glenn Beck</u>](https://www.amazon.com/Dreamers-Deceivers-Stories-Villains-America/dp/1476783896) (Chuck)[<u>80/20 Sales and Marketing: The Definitive Guide to Working Less and Making More by Perry Marshall</u>](https://www.amazon.com/80-20-Sales-Marketing-Definitive/dp/1599185059) (Chuck) Theater & Drama (John)[<u>[TED] Nancy Duarte: The secret structure of great talks</u>](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) (John)[<u>Resonate: Present Visual Stories That Transform Audiences by Nancy Duarte</u>](https://www.duarte.com/book/resonate/) (John)[<u>William Scott Moss</u>](https://twitter.com/Scottiemoss) (Lukas) The Chocolate Malts at [<u>The Little America Hotel</u>](https://saltlake.littleamerica.com/) (Joe)
 
 ### Transcript
 

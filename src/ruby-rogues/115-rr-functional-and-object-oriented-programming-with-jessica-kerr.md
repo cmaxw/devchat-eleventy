@@ -15,9 +15,9 @@ tags:
 01:45 - Jessica Kerr Introduction
 
 - JavaScript Developer for 12 years
-- [Scala](http://scala-lang.org/)
+- [Scala](https://scala-lang.org/)
 
-02:55 - [Jessica Kerr: Functional Principles for OO Development](http://confreaks.com/videos/2382-rmw2013-functional-principles-for-oo-development)
+02:55 - [Jessica Kerr: Functional Principles for OO Development](https://confreaks.com/videos/2382-rmw2013-functional-principles-for-oo-development)
 
 05:59 - Data In/Data Out
 
@@ -25,13 +25,13 @@ tags:
 
 13:24 - Command vs Query Methods
 
-- [087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi Metz](http://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/)
+- [087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi Metz](https://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/)
 
-15:03 - [Referential Transparency](<http://en.wikipedia.org/wiki/Referential_transparency_(computer_science)>)
+15:03 - [Referential Transparency](<https://en.wikipedia.org/wiki/Referential_transparency_(computer_science)>)
 
 17:00 -&nbsp;Idempotency
 
-19:13 - [Memoization](http://en.wikipedia.org/wiki/Memoization)
+19:13 - [Memoization](https://en.wikipedia.org/wiki/Memoization)
 
 21:21 - Nil & Conditionals
 
@@ -44,13 +44,13 @@ tags:
 
 32:42 - Lambdas vs Procs/Blocks
 
-- [Jessica Kerr: Passing functions in Ruby: harder than it looks](http://blog.jessitron.com/2013/03/passing-functions-in-ruby-harder-than.html)
+- [Jessica Kerr: Passing functions in Ruby: harder than it looks](https://blog.jessitron.com/2013/03/passing-functions-in-ruby-harder-than.html)
 
 35:53 - Side Effects with Callbacks
 
 38:21 - State Transformations
 
-- [067 RR Gary Bernhardt’s Testing Style](http://rubyrogues.com/067-rr-gary-bernhardts-testing-style/)
+- [067 RR Gary Bernhardt’s Testing Style](https://rubyrogues.com/067-rr-gary-bernhardts-testing-style/)
 - Persistence
 
 45:42 - Be Lazy
@@ -62,18 +62,18 @@ tags:
 52:28 - Adding to Jessica’s Talk
 
 - [aqueductron](https://github.com/jessitron/aqueductron)
-- [Aqueductron - toying with dataflow in Ruby](http://blog.jessitron.com/2013/07/aqueductron-toying-with-dataflow-in-ruby.html)
-- [Combining laziness and immutability to process data and information](http://blog.jessitron.com/2013/07/aqueductron-toying-with-dataflow-in-ruby.html 'Aqueductron - toying with dataflow in Ruby')
+- [Aqueductron - toying with dataflow in Ruby](https://blog.jessitron.com/2013/07/aqueductron-toying-with-dataflow-in-ruby.html)
+- [Combining laziness and immutability to process data and information](https://blog.jessitron.com/2013/07/aqueductron-toying-with-dataflow-in-ruby.html 'Aqueductron - toying with dataflow in Ruby')
 
 55:44 - Jessica’s Upcoming Speaker Conferences
 
-- [WindyCityRails](http://www.windycityrails.org/)
+- [WindyCityRails](https://www.windycityrails.org/)
 - [PyCon Canada](https://2013.pycon.ca/en/)
-- [Øredev 2013](http://oredev.org/2013)
+- [Øredev 2013](https://oredev.org/2013)
 
 ### Book Club
 
-[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](http://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
+[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](https://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
 
 ### Next Week
 

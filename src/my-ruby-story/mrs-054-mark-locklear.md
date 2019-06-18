@@ -54,7 +54,7 @@ This week on My Ruby Story, Charles talks to Mark Locklear. Mark first got into 
 - [Ruby](https://www.ruby-lang.org/en/)
 - [@marklocklear](https://twitter.com/marklocklear?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Mark’s Medium](https://medium.com/@marklocklear)
-- [locklear.me](http://locklear.me/)
+- [locklear.me](https://locklear.me/)
 - [Mark’s GitHub](https://github.com/marklocklear)
 
 **Sponsors:**

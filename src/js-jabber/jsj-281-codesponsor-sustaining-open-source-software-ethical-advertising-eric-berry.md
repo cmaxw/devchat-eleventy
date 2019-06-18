@@ -26,11 +26,11 @@ tags:
 - Advertising, and helping pay for projects to stay alive!
 - Help developers stay funded without a spam haven.
 - and much, much more!
-  **Links:&nbsp;** [Cancan](https://github.com/ryanb/cancan)[PhantomJS](http://phantomjs.org)[Code Sponsor](https://codesponsor.io)[Timber&nbsp;](https://www.upstatement.com/timber/)[Rollbar](https://rollbar.com/vs/?v=a)[CoreLogic](http://corelogic.com)[TrackJS&nbsp;](https://trackjs.com)[CircleCI](https://circleci.com/docs/2.0/)[CodeConf.&nbsp;](https://circleci.com/docs/2.0/) **Picks** Amie
+  **Links:&nbsp;** [Cancan](https://github.com/ryanb/cancan)[PhantomJS](https://phantomjs.org)[Code Sponsor](https://codesponsor.io)[Timber&nbsp;](https://www.upstatement.com/timber/)[Rollbar](https://rollbar.com/vs/?v=a)[CoreLogic](https://corelogic.com)[TrackJS&nbsp;](https://trackjs.com)[CircleCI](https://circleci.com/docs/2.0/)[CodeConf.&nbsp;](https://circleci.com/docs/2.0/) **Picks** Amie
 - Positive Experience for Women in Tech
 - Hand Written Cards
   Charles
-- [Keto Diet - Fat Head](http://www.fathead-movie.com)
+- [Keto Diet - Fat Head](https://www.fathead-movie.com)
 - [Ruby Dev. Summit](https://rubydevsummit.com)
   AJ
 - [Real Love by Greg Baer](https://www.amazon.com/dp/B001N89KV8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)

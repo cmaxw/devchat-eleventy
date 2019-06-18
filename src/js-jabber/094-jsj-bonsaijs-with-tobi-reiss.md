@@ -14,40 +14,40 @@ tags:
 
 ### Panel
 
-- Tobi Reiss ([twitter](https://twitter.com/basecode)&nbsp;[github](https://github.com/basecode)&nbsp;[blog](http://basecode.de/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
+- Tobi Reiss ([twitter](https://twitter.com/basecode)&nbsp;[github](https://github.com/basecode)&nbsp;[blog](https://basecode.de/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:38 - Tobi Reiss Introduction
 
-- [uxebu](http://uxebu.com/)
-  02:32 - [BonsaiJS](http://bonsaijs.org/)
+- [uxebu](https://uxebu.com/)
+  02:32 - [BonsaiJS](https://bonsaijs.org/)
 - [pixelplant](https://pixelplant.com/)
   05:06 - Performance
 - The Renderer
-- [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
-- Bonsai vs [Flash](http://www.adobe.com/products/flash.html)
+- [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+- Bonsai vs [Flash](https://www.adobe.com/products/flash.html)
   12:32 - Bonsai vs Other Graphics Libraries
 - Animation
 - Movies
-  16:27 - The Future of BonsaiJS 18:54 - Drawing Objects 21:56 - Goals of BonsaiJS 22:54 - Embedding Movies 24:49 - The API 28:53 - [Orbit](http://orbit.bonsaijs.org/)30:28 - Audio and Video
+  16:27 - The Future of BonsaiJS 18:54 - Drawing Objects 21:56 - Goals of BonsaiJS 22:54 - Embedding Movies 24:49 - The API 28:53 - [Orbit](https://orbit.bonsaijs.org/)30:28 - Audio and Video
 
 ### Picks
 
-- [ng-conf](http://ng-conf.org/) Organizers (Merrick and Joe)
-- [Web Audio API](http://www.w3.org/TR/webaudio/) (Merrick)
-- [BeagleBone Black](http://beagleboard.org/Products/BeagleBone%20Black) (Merrick)
-- The [AngularJS](http://angularjs.org/) Community (Joe)
-- [Sphero Robot Ball](http://www.gosphero.com/) (Joe)
-- [Nintendo Land](http://nintendoland.nintendo.com/) (AJ)
-- [Mario 3D World](http://www.nintendo.com/games/detail/xQJAJGXVIP_SNPPaXzNtf23sgp9eeS9Z) (AJ)
+- [ng-conf](https://ng-conf.org/) Organizers (Merrick and Joe)
+- [Web Audio API](https://www.w3.org/TR/webaudio/) (Merrick)
+- [BeagleBone Black](https://beagleboard.org/Products/BeagleBone%20Black) (Merrick)
+- The [AngularJS](https://angularjs.org/) Community (Joe)
+- [Sphero Robot Ball](https://www.gosphero.com/) (Joe)
+- [Nintendo Land](https://nintendoland.nintendo.com/) (AJ)
+- [Mario 3D World](https://www.nintendo.com/games/detail/xQJAJGXVIP_SNPPaXzNtf23sgp9eeS9Z) (AJ)
 - [FreeMemory](https://itunes.apple.com/us/app/freememory/id460931672?mt=12) (Chuck)
-- [The Millionaire Mind by Thomas J. Stanley](http://www.amazon.com/gp/product/0740718584/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0740718584&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- The Features List of [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/) (Tobi)
+- [The Millionaire Mind by Thomas J. Stanley](https://www.amazon.com/gp/product/0740718584/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0740718584&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- The Features List of [PhysicsJS](https://wellcaffeinated.net/PhysicsJS/) (Tobi)
 
 ### Next Week
 

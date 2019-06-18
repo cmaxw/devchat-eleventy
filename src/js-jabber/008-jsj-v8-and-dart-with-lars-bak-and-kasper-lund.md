@@ -16,22 +16,22 @@ tags:
 
 - Lars Bak
 - Kasper Lund
-- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood&nbsp;([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Joachim Larsen&nbsp;([g+](https://plus.google.com/114020236201265101594/posts)&nbsp;[github](https://github.com/joedeveloper)&nbsp;[website](http://unomi.no.de/))
+- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood&nbsp;([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Joachim Larsen&nbsp;([g+](https://plus.google.com/114020236201265101594/posts)&nbsp;[github](https://github.com/joedeveloper)&nbsp;[website](https://unomi.no.de/))
 
 ### Discussion
 
-- [Dart](http://www.dartlang.org/)
-- [V8](http://code.google.com/p/v8/)
+- [Dart](https://www.dartlang.org/)
+- [V8](https://code.google.com/p/v8/)
 - Virtual Machines
-- [Strongtalk](http://www.strongtalk.org/)
+- [Strongtalk](https://www.strongtalk.org/)
 - Java
 - OOVM - Embedded Smalltalk
 - Beta
 - Google
 - V8 is implemented in C++
-- [Who's behind Dart](http://dartinside.com/2011/whos-behind-dart/)
+- [Who's behind Dart](https://dartinside.com/2011/whos-behind-dart/)
 - JIT
 - Adaptive compiler
 - Node.js
@@ -58,16 +58,16 @@ tags:
 - Scripting and Web development gives you instant gratification
 - VM's targeting the native language will almost always be faster
 - Native Client
-- [Go-lang](http://golang.org/)
+- [Go-lang](https://golang.org/)
 
 ### Picks
 
 - Bloggers (AJ)
-- [Class-Central.com](http://www.class-central.com/) (Joachim)
-- [Memrise](http://www.memrise.com/welcome/) (Joachim)
-- [This is Your Life Podcast](http://michaelhyatt.com/thisisyourlife) (Chuck)
-- [Fitbit](http://www.amazon.com/gp/product/B005PUONIK/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B005PUONIK) (Chuck)
-- [dartlang.org](http://www.dartlang.org/) (Lars)
+- [Class-Central.com](https://www.class-central.com/) (Joachim)
+- [Memrise](https://www.memrise.com/welcome/) (Joachim)
+- [This is Your Life Podcast](https://michaelhyatt.com/thisisyourlife) (Chuck)
+- [Fitbit](https://www.amazon.com/gp/product/B005PUONIK/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B005PUONIK) (Chuck)
+- [dartlang.org](https://www.dartlang.org/) (Lars)
 - [Silent Sleep for Android](https://play.google.com/store/apps/details?id=com.boom.silentsleep) (Kasper)
 
 ### Transcript

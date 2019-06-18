@@ -67,7 +67,7 @@ In this episode, the Views on Vue panelists discuss Cloud-Hosted DevOps with Ori
 Charles
 
 - [.NET Rocks!](https://www.dotnetrocks.com/)
-- [Shure SM58 Microphone](http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone)
+- [Shure SM58 Microphone](https://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone)
 - [Zoom H6](https://www.zoom-na.com/products/field-video-recording/field-recording/h6-handy-recorder)
 -
 

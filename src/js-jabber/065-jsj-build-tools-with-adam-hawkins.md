@@ -14,51 +14,51 @@ tags:
 
 ### Panel
 
-- Adam Hawkins ([twitter](https://twitter.com/adman65) [github](https://github.com/ahawkins) [blog](http://hawkins.io/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Adam Hawkins ([twitter](https://twitter.com/adman65) [github](https://github.com/ahawkins) [blog](https://hawkins.io/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:16 - Adam Hawkins Introduction
 
-- [JavaScript Application Build Tools: Adam Hawkins](http://hawkins.io/2013/05/application_build_tools/)
-- [003 JSJ Build Tools](http://javascriptjabber.com/003-jsj-build-tools/)
+- [JavaScript Application Build Tools: Adam Hawkins](https://hawkins.io/2013/05/application_build_tools/)
+- [003 JSJ Build Tools](https://javascriptjabber.com/003-jsj-build-tools/)
   01:51 - What Are Build Tools? 02:46 - Build Process
-- [Ember.js](http://emberjs.com/)
-- [CoffeeScript](http://coffeescript.org/)
-- [Sass](http://sass-lang.com/)
-- [Grunt.js](http://gruntjs.com/)
-- [Yeoman](http://yeoman.io/)
-- [RequireJS](http://requirejs.org/)
+- [Ember.js](https://emberjs.com/)
+- [CoffeeScript](https://coffeescript.org/)
+- [Sass](https://sass-lang.com/)
+- [Grunt.js](https://gruntjs.com/)
+- [Yeoman](https://yeoman.io/)
+- [RequireJS](https://requirejs.org/)
 - [minispade](https://github.com/wycats/minispade)
-- [jQuery](http://jquery.com/)
-  09:15 - [Minification](<http://en.wikipedia.org/wiki/Minification_(programming)>)
-- [Handlebars.js](http://handlebarsjs.com/)
+- [jQuery](https://jquery.com/)
+  09:15 - [Minification](<https://en.wikipedia.org/wiki/Minification_(programming)>)
+- [Handlebars.js](https://handlebarsjs.com/)
 - [barber](https://github.com/tchak/barber)
-  10:30 - [Ruby on Rails](http://rubyonrails.org/)
+  10:30 - [Ruby on Rails](https://rubyonrails.org/)
 - Client-Side Applications
-  16:43 - Chuck’s Build Process 17:32 - Joe’s Build Process 18:54 - [Source Maps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
+  16:43 - Chuck’s Build Process 17:32 - Joe’s Build Process 18:54 - [Source Maps](https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
 - [Concatenation](https://en.wikipedia.org/wiki/Concatenation)
   24:09 - [iridium](https://github.com/radiumsoftware/iridium)
 - [rake-pipeline](https://github.com/livingsocial/rake-pipeline)
-- [Brunch](http://brunch.io/)
+- [Brunch](https://brunch.io/)
   32:56 - Recommendations for Building 35:23 - Testing
-- [QUnit](http://qunitjs.com/)
+- [QUnit](https://qunitjs.com/)
 
 ### Picks
 
-- [Sub Rosa](http://www.crypticsea.com/subrosa/) (Jamison)
-- [biggie](http://macwright.org/biggie/) (Jamison)
-- [Kingdom Rush Frontiers](http://www.kingdomrush.com/) (Joe)
-- [The Rithmatist by Brandon Sanderson](http://www.amazon.com/The-Rithmatist-Brandon-Sanderson/dp/0765320320/ref=sr_1_1?ie=UTF8&qid=1371751333&sr=8-1&keywords=rithmatist) (Joe)
-- [Ward Cunningham](http://en.wikipedia.org/wiki/Ward_Cunningham) (Joe)
-- [Speedtest.net](http://www.speedtest.net/) (Chuck)
-- [ThemeForest](http://themeforest.net/) (Chuck)
-- [Solo Piano Radio](http://www.solopianoradio.com/) (Adam)
+- [Sub Rosa](https://www.crypticsea.com/subrosa/) (Jamison)
+- [biggie](https://macwright.org/biggie/) (Jamison)
+- [Kingdom Rush Frontiers](https://www.kingdomrush.com/) (Joe)
+- [The Rithmatist by Brandon Sanderson](https://www.amazon.com/The-Rithmatist-Brandon-Sanderson/dp/0765320320/ref=sr_1_1?ie=UTF8&qid=1371751333&sr=8-1&keywords=rithmatist) (Joe)
+- [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) (Joe)
+- [Speedtest.net](https://www.speedtest.net/) (Chuck)
+- [ThemeForest](https://themeforest.net/) (Chuck)
+- [Solo Piano Radio](https://www.solopianoradio.com/) (Adam)
 - [ConvertKit](https://convertkit.com/) (Adam)
-- [Staticly](http://static.ly/) (Adam)
+- [Staticly](https://static.ly/) (Adam)
 
 ### Next Week
 

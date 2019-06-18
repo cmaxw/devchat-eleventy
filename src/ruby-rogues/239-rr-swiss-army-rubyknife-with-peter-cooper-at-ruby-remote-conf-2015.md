@@ -19,7 +19,7 @@ tags:
 - **[JS Remote Conf](https://jsremoteconf.com/)** is running from **January 14th-16th 2016**. Check out the speaker lineup!
 - **[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)** will run from **February 24th-26th**. We’ve already got a great list of confirmed speakers. Stay tuned for more details!
 
-We, the Ruby Rogues panelists (And, **[Mandy](http://twitter.com/therubyrep)**!), wish you a very happy holiday season.
+We, the Ruby Rogues panelists (And, **[Mandy](https://twitter.com/therubyrep)**!), wish you a very happy holiday season.
 
 ### Transcript
 

@@ -13,18 +13,18 @@ tags:
   - new_programmers
 ---
 
-Check out [RailsClips](http://devchat.tv/rails-clips) and [RemoteConfs](http://remoteconfs.com/)!
+Check out [RailsClips](https://devchat.tv/rails-clips) and [RemoteConfs](https://remoteconfs.com/)!
 
 &nbsp;
 
 01:14 - Breanne Dyck Introduction
 
 - [Twitter](https://twitter.com/mnibreanne)
-- [My Name Is Breanne: Master the Business of Teaching Online](http://mynameisbreanne.com)
+- [My Name Is Breanne: Master the Business of Teaching Online](https://mynameisbreanne.com)
 
 02:13 - Transitioning: Contracting =\> Teaching Courses
 
-- [Content Marketing](http://contentmarketinginstitute.com/what-is-content-marketing/)
+- [Content Marketing](https://contentmarketinginstitute.com/what-is-content-marketing/)
 
 05:59 - Structuring Content
 
@@ -37,9 +37,9 @@ Check out [RailsClips](http://devchat.tv/rails-clips) and [RemoteConfs](http://r
 - Levels of Mastery
   - Surface-Level Learning
   - Higher-Level Mastery
-- [Badass: Making Users Awesome by Kathy Sierra](http://www.amazon.com/gp/product/1491919019/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491919019&linkCode=as2&tag=chamaxwoo-20&linkId=IEUM4TXKLXV3HD52)
+- [Badass: Making Users Awesome by Kathy Sierra](https://www.amazon.com/gp/product/1491919019/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491919019&linkCode=as2&tag=chamaxwoo-20&linkId=IEUM4TXKLXV3HD52)
 - Spectrum of Confidence/Competence &nbsp; &nbsp;&nbsp;
-  - [The Backwards Brain Bicycle](http://www.youtube.com/watch?v=MFzDaBzBlL0)
+  - [The Backwards Brain Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0)
 
 24:15 - Setting People Up to Succeed
 
@@ -49,24 +49,24 @@ Check out [RailsClips](http://devchat.tv/rails-clips) and [RemoteConfs](http://r
 
 33:57 - Should I charge for pilots? (Pricing)
 
-- [Ramit Sethi](http://www.iwillteachyoutoberich.com/)
+- [Ramit Sethi](https://www.iwillteachyoutoberich.com/)
 
 35:39 - Experimentation \> Textbook/Traditional Learning
 
 43:22 - Selecting Content For Your Course
 
 - [The 5 Whys Technique](https://en.wikipedia.org/wiki/5_Whys)
-- [Don't Make Me Think: A Common Sense Approach to Web Usability by Steve Krug](http://www.amazon.com/gp/product/0321344758/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321344758&linkCode=as2&tag=chamaxwoo-20&linkId=I7KSWJWN54F5FRHT)
+- [Don't Make Me Think: A Common Sense Approach to Web Usability by Steve Krug](https://www.amazon.com/gp/product/0321344758/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321344758&linkCode=as2&tag=chamaxwoo-20&linkId=I7KSWJWN54F5FRHT)
 
 52:50 - Getting and Keeping People Interested in Your Courses Through Completion
 
 - [Massive Open Online Course (MOOCs)](https://en.wikipedia.org/wiki/Massive_open_online_course)
 - Passive Participants
-- [The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg](http://www.amazon.com/gp/product/081298160X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298160X&linkCode=as2&tag=chamaxwoo-20&linkId=M4VCUWL3PAEREZPM)
+- [The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg](https://www.amazon.com/gp/product/081298160X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298160X&linkCode=as2&tag=chamaxwoo-20&linkId=M4VCUWL3PAEREZPM)
 - _Planning_ For Success
   Picks
 
-[The Art of Outbound Lead Generation by Blair Enns](https://www.winwithoutpitching.com/art-of-outbound-lead-generation/) (Eric)[Is Positioning Professional Services Different Than Products? Al Ries Explains](https://philipmorganconsulting.com/is-positioning-professional-services-different-than-products-al-ries-explains/) (Eric)[Badass: Making Users Awesome by Kathy Sierra](http://www.amazon.com/gp/product/1491919019/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491919019&linkCode=as2&tag=chamaxwoo-20&linkId=IEUM4TXKLXV3HD52) (Eric)[remoteconfs.com](http://remoteconfs.com) (Chuck) God (Chuck) Jesus Christ (Chuck)[The Church of Jesus Christ of Latter-day Saints](http://lds.org) (Chuck)[Brain Rules (Updated and Expanded): 12 Principles for Surviving and Thriving at Work, Home, and School by John Medina](http://www.amazon.com/gp/product/098326337X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=098326337X&linkCode=as2&tag=chamaxwoo-20&linkId=P5WMYSJLTQ3ZWX26) (Breanne)[Brilliance by Design: Creating Learning Experiences That Connect, Inspire, and Engage Kindle Edition by Vicki Halsey](http://www.amazon.com/gp/product/098326337X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=098326337X&linkCode=as2&tag=chamaxwoo-20&linkId=HLJSSFNNDFJLZCVW) (Breanne)[Quiet Power Strategy by Tara Gentile](http://www.amazon.com/gp/product/069238037X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=069238037X&linkCode=as2&tag=chamaxwoo-20&linkId=TJRCSJYOSDRGH44E) (Breanne)[Your Perfect Participant: Unlock What Buyers Want & Need From You by Breanne Dyck](http://mynameisbreanne.com/ppg) (Breanne)
+[The Art of Outbound Lead Generation by Blair Enns](https://www.winwithoutpitching.com/art-of-outbound-lead-generation/) (Eric)[Is Positioning Professional Services Different Than Products? Al Ries Explains](https://philipmorganconsulting.com/is-positioning-professional-services-different-than-products-al-ries-explains/) (Eric)[Badass: Making Users Awesome by Kathy Sierra](https://www.amazon.com/gp/product/1491919019/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491919019&linkCode=as2&tag=chamaxwoo-20&linkId=IEUM4TXKLXV3HD52) (Eric)[remoteconfs.com](https://remoteconfs.com) (Chuck) God (Chuck) Jesus Christ (Chuck)[The Church of Jesus Christ of Latter-day Saints](https://lds.org) (Chuck)[Brain Rules (Updated and Expanded): 12 Principles for Surviving and Thriving at Work, Home, and School by John Medina](https://www.amazon.com/gp/product/098326337X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=098326337X&linkCode=as2&tag=chamaxwoo-20&linkId=P5WMYSJLTQ3ZWX26) (Breanne)[Brilliance by Design: Creating Learning Experiences That Connect, Inspire, and Engage Kindle Edition by Vicki Halsey](https://www.amazon.com/gp/product/098326337X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=098326337X&linkCode=as2&tag=chamaxwoo-20&linkId=HLJSSFNNDFJLZCVW) (Breanne)[Quiet Power Strategy by Tara Gentile](https://www.amazon.com/gp/product/069238037X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=069238037X&linkCode=as2&tag=chamaxwoo-20&linkId=TJRCSJYOSDRGH44E) (Breanne)[Your Perfect Participant: Unlock What Buyers Want & Need From You by Breanne Dyck](https://mynameisbreanne.com/ppg) (Breanne)
 
 ### Transcript
 

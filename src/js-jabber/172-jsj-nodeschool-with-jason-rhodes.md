@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out [Angular Remote Conf](http://www.angularremoteconf.com)!
+Check out [Angular Remote Conf](https://www.angularremoteconf.com)!
 
 &nbsp;
 
@@ -20,18 +20,18 @@ Check out [Angular Remote Conf](http://www.angularremoteconf.com)!
 
 - [Twitter](https://twitter.com/rhodesjason)
 - [GitHub](https://github.com/jasonrhodes)
-- [Blog](http://rhodesjason.com/)
+- [Blog](https://rhodesjason.com/)
 - [SparkPost](https://www.sparkpost.com/)
-- [NodeSchool](http://nodeschool.io/)
+- [NodeSchool](https://nodeschool.io/)
   - [@nodeschool](https://twitter.com/nodeschool)
   - [GitHub: NodeSchool](https://github.com/nodeschool)
-- [charmCityJS](http://charmcityjs.com/)
+- [charmCityJS](https://charmcityjs.com/)
   - [@charmcityjs](https://twitter.com/charmcityjs)
 
-03:46 - [NodeSchool](http://nodeschool.io/)
+03:46 - [NodeSchool](https://nodeschool.io/)
 
-- [Jason Rhodes: A Story About NodeSchool and Community Building at CascadiaJS 2014](http://m.youtube.com/watch?v=YJ7txKTh3-E)
-- [Jason Rhodes: NodeSchool Trying Node AND Contributing @ Empire Node 2014](http://m.youtube.com/watch?v=mMbiHX2bmbA)
+- [Jason Rhodes: A Story About NodeSchool and Community Building at CascadiaJS 2014](https://m.youtube.com/watch?v=YJ7txKTh3-E)
+- [Jason Rhodes: NodeSchool Trying Node AND Contributing @ Empire Node 2014](https://m.youtube.com/watch?v=mMbiHX2bmbA)
 
 06:05 - “Workshopper(s)”
 
@@ -55,7 +55,7 @@ Check out [Angular Remote Conf](http://www.angularremoteconf.com)!
 
 Picks
 
-[Better Off Ted](http://www.imdb.com/title/tt1235547/) (Joe)[Cat Exercise Wheel](http://onefastcat.com/) (Aimee)[That Conference](https://www.thatconference.com/) (Joe)[primitive.io](http://primitive.io) (Joe)[React Rally](http://www.reactrally.com/) (Aimee)[Falcor YouTube Playlist](https://www.youtube.com/playlist?list=PL-7Rk5Igg3dfdxlNKNSMJHfK_yG5ceiZf) (Aimee)[javascriptjabber.com/15minutes](http://www.javascriptjabber.com/15minutes) (Chuck)[Entreprogrammers Retreat 2015](http://entreprogrammers.com/retreat2015) &nbsp;(Chuck)[Love Letter](https://boardgamegeek.com/boardgame/129622/love-letter) (Jason)[charmCityJS](http://charmcityjs.com/) (Jason)[Mad Max: Fury Road](http://www.imdb.com/title/tt1392190/) (Jason)
+[Better Off Ted](https://www.imdb.com/title/tt1235547/) (Joe)[Cat Exercise Wheel](https://onefastcat.com/) (Aimee)[That Conference](https://www.thatconference.com/) (Joe)[primitive.io](https://primitive.io) (Joe)[React Rally](https://www.reactrally.com/) (Aimee)[Falcor YouTube Playlist](https://www.youtube.com/playlist?list=PL-7Rk5Igg3dfdxlNKNSMJHfK_yG5ceiZf) (Aimee)[javascriptjabber.com/15minutes](https://www.javascriptjabber.com/15minutes) (Chuck)[Entreprogrammers Retreat 2015](https://entreprogrammers.com/retreat2015) &nbsp;(Chuck)[Love Letter](https://boardgamegeek.com/boardgame/129622/love-letter) (Jason)[charmCityJS](https://charmcityjs.com/) (Jason)[Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/) (Jason)
 
 ### Transcript
 

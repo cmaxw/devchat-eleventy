@@ -23,8 +23,8 @@ In this episode of the Freelancer’s Show, the panelist, Reuven and Jonathan di
 
 - You should continue learning
 - Books that help in various ways for business
-- [Value-Based Fees](http://www.amazon.com/Value-Based-Fees-Charge-Youre-Worth/dp/0470275847) by Alan Weiss
-- [The Positioning Manual](http://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/) by Philip Morgan
+- [Value-Based Fees](https://www.amazon.com/Value-Based-Fees-Charge-Youre-Worth/dp/0470275847) by Alan Weiss
+- [The Positioning Manual](https://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/) by Philip Morgan
 - [Selling to Big Companies](https://www.amazon.com/Selling-Big-Companies-Jill-Konrath/dp/1419515624/ref=sr_1_1?ie=UTF8&qid=1535074124&sr=8-1&keywords=Selling+to+Big+Companies+by+Jill) by Jill Konrath
 - [The Secret of Selling Anything by Harry Browne](https://www.amazon.com/Secret-Selling-Anything-Harry-Browne-ebook/dp/B00M19W20Y/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1535074332&sr=1-1-fkmr0&keywords=The+Secret+of+Selling+Anything+by+Harry+Brown)
 - [How to Measure Anything](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U/ref=sr_1_1?s=books&ie=UTF8&qid=1535074644&sr=1-1&keywords=how+to+measure+anything+by+douglas+hubbard)by Douglas&nbsp; Hubbard
@@ -40,9 +40,9 @@ In this episode of the Freelancer’s Show, the panelist, Reuven and Jonathan di
 
 - [FreshBooks](https://www.freshbooks.com/invoice?ref=11731&utm_source=pbm&utm_medium=affiliate-program&utm_influencer=419364&utm_campaign=podcast-influencers)
 
-- [Digital Ocean](http://www.digitalocean.com)
+- [Digital Ocean](https://www.digitalocean.com)
 
-[**Picks**](http://www.apple.com)
+[**Picks**](https://www.apple.com)
 
 Jonathan
 
@@ -52,7 +52,7 @@ Jonathan
 
 Reuven Lerner
 
-- [We Chat](http://www.wechat.com/)
-- [MEET](http://meet.mit.edu/)
+- [We Chat](https://www.wechat.com/)
+- [MEET](https://meet.mit.edu/)
 
 ### Transcript

@@ -14,25 +14,25 @@ tags:
 
 01:09 -&nbsp;[Angela Harms](https://twitter.com/angelaharms) Introduction
 
-- [Lean Dog](http://www.leandog.com/)
-- [[Confreaks] Angela Harms: Does Pair Programming Have to Suck?](http://confreaks.tv/videos/mwrc2012-does-pair-programming-have-to-suck)
+- [Lean Dog](https://www.leandog.com/)
+- [[Confreaks] Angela Harms: Does Pair Programming Have to Suck?](https://confreaks.tv/videos/mwrc2012-does-pair-programming-have-to-suck)
 - Collaboration
-- [Agile Software Development](http://en.wikipedia.org/wiki/Agile_software_development)
+- [Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
   05:00 - Programming & Communication 08:51 - Discovering / Describing Agile
-- [XP Explained by Kent Beck](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658)
-- [Ron Jeffries](http://ronjeffries.com/)
+- [XP Explained by Kent Beck](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658)
+- [Ron Jeffries](https://ronjeffries.com/)
 - [Uncle Bob Martin](https://sites.google.com/site/unclebobconsultingllc/)
 - Adapt / Open-Heartedness/ Constant Improvement
-  13:26 -&nbsp;[e-prime](http://en.wikipedia.org/wiki/E-Prime) (Agile) Communication
+  13:26 -&nbsp;[e-prime](https://en.wikipedia.org/wiki/E-Prime) (Agile) Communication
 - Not using ‘is’ or ‘to be’
-- [Sapir-Whorf Hypothesis](http://en.wikipedia.org/wiki/Linguistic_relativity)
+- [Sapir-Whorf Hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativity)
 - [Non-Violent Communication](https://www.cnvc.org/)
 - “I” Statements
-- [Duchenne Smile](http://en.wikipedia.org/wiki/Duchenne_de_Boulogne)
-- [Authentic Happiness](http://www.amazon.com/Authentic-Happiness-Psychology-Potential-Fulfillment/dp/0743222989)
-  22:23 - Pair Programming Talks @ [Ruby Midwest](http://www.rubymidwest.com/)&nbsp;/ [Mountain West](http://www.themwc.com/)
+- [Duchenne Smile](https://en.wikipedia.org/wiki/Duchenne_de_Boulogne)
+- [Authentic Happiness](https://www.amazon.com/Authentic-Happiness-Psychology-Potential-Fulfillment/dp/0743222989)
+  22:23 - Pair Programming Talks @ [Ruby Midwest](https://www.rubymidwest.com/)&nbsp;/ [Mountain West](https://www.themwc.com/)
 - Confident Humility
-- [Pivotal](http://www.airpair.com/pair-programming)
+- [Pivotal](https://www.airpair.com/pair-programming)
 - Get Your Ego in Check
 - Benevolent Pairing
 - What if You're Zoning Uut? You're Lost!
@@ -47,7 +47,7 @@ tags:
 - Embracing Reality
   35:50 - Angela as an "Unschooler"
 - Be a Lifelong Learner
-  42:56 - [Big Design Up Front](http://en.wikipedia.org/wiki/Big_Design_Up_Front) ([Waterfall](http://en.wikipedia.org/wiki/Waterfall_model)) vs Agile 44:06 - “A lot of these processes are there to protect people from having to be accountable or responsible for failure, not to create success."
+  42:56 - [Big Design Up Front](https://en.wikipedia.org/wiki/Big_Design_Up_Front) ([Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)) vs Agile 44:06 - “A lot of these processes are there to protect people from having to be accountable or responsible for failure, not to create success."
 
 ### Transcript
 

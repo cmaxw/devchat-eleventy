@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [KendoUI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [Clubhouse](https://clubhouse.io/jsjabber)
 
 ### **Panel**
@@ -30,8 +30,8 @@ James Shore is a developer who specializing in extreme programming, an Agile met
 - [Agile](https://github.com/a-jie/AgileJS)
 - [Scrum](https://www.scrum.org/)
 - [Waterfall](https://github.com/bingdian/waterfall)
-- [Feature Driven Development](http://agilemodeling.com/essays/fdd.htm)
-- [Extreme Programming (XP)](http://www.extremeprogramming.org/)
+- [Feature Driven Development](https://agilemodeling.com/essays/fdd.htm)
+- [Extreme Programming (XP)](https://www.extremeprogramming.org/)
 - [Jira](https://www.atlassian.com/software/jira)
 - [Bamboo](https://github.com/thoughtbot/bamboo)
 - [Confluence](https://www.atlassian.com/software/confluence)

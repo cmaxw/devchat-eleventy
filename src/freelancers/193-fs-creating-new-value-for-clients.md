@@ -18,8 +18,8 @@ tags:
 
 14:33 - Different Forms of Packaging
 
-- [Books by Alan Weiss](http://www.amazon.com/Alan-Weiss/e/B000AQ0PNG)
-- [creditcardjs.com](http://creditcardjs.com) &nbsp;&nbsp;
+- [Books by Alan Weiss](https://www.amazon.com/Alan-Weiss/e/B000AQ0PNG)
+- [creditcardjs.com](https://creditcardjs.com) &nbsp;&nbsp;
 
 19:58 - Giving More Value as a Full-time Employee (FTE)
 
@@ -27,10 +27,10 @@ tags:
 
 - Minimal Viable Funnel (MVF)
 - Naming
-  - [Kurt Elster](http://kurtelster.com/)
-  - [Micronar.com](http://www.micronar.com/)
-  - [Heartbleed](http://heartbleed.com/)
-  - [Nick Disabato](http://nickd.org/) (Nick D.)
+  - [Kurt Elster](https://kurtelster.com/)
+  - [Micronar.com](https://www.micronar.com/)
+  - [Heartbleed](https://heartbleed.com/)
+  - [Nick Disabato](https://nickd.org/) (Nick D.)
 
 38:58 - Communication
 
@@ -42,7 +42,7 @@ tags:
 - [Thrive Leads](https://thrivethemes.com/leads/)
   Picks
 
-[LeadPages](http://www.leadpages.net/) (Philip)[Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant by W. Chan Kim](http://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491/ref=sr_1_1?ie=UTF8&qid=1456256729&sr=8-1&keywords=blue+ocean+strategy) (Philip)[Lean Customer Development: Building Products Your Customers Will Buy by Cindy Alvarez](http://www.amazon.com/Lean-Customer-Development-Building-Customers-ebook/dp/B00KECAM98/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1456256755&sr=8-1) (Philip)[Catan Universe](http://catanuniverse.com/) (Reuven)[Jonathan Stark: How To Increase Your Income Without Hiring Junior Developers](https://www.crowdcast.io/e/jstark1) (Jonathan)[Jonathan Stark: How To Price Your Services Without Leaving Money On The Table](https://www.crowdcast.io/e/jstark2) (Jonathan)[Coaching Call with Jonathan Stark](https://expensiveproblem.com/call) (Jonathan)[SumoMe](https://sumome.com/) (Chuck)[The DevChat.tv Blog](http://blog.devchat.tv/) (Chuck)[The Freelancers’ Show Mailing List](https://devchat.tv/freelancers/) (Chuck)
+[LeadPages](https://www.leadpages.net/) (Philip)[Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant by W. Chan Kim](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491/ref=sr_1_1?ie=UTF8&qid=1456256729&sr=8-1&keywords=blue+ocean+strategy) (Philip)[Lean Customer Development: Building Products Your Customers Will Buy by Cindy Alvarez](https://www.amazon.com/Lean-Customer-Development-Building-Customers-ebook/dp/B00KECAM98/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1456256755&sr=8-1) (Philip)[Catan Universe](https://catanuniverse.com/) (Reuven)[Jonathan Stark: How To Increase Your Income Without Hiring Junior Developers](https://www.crowdcast.io/e/jstark1) (Jonathan)[Jonathan Stark: How To Price Your Services Without Leaving Money On The Table](https://www.crowdcast.io/e/jstark2) (Jonathan)[Coaching Call with Jonathan Stark](https://expensiveproblem.com/call) (Jonathan)[SumoMe](https://sumome.com/) (Chuck)[The DevChat.tv Blog](https://blog.devchat.tv/) (Chuck)[The Freelancers’ Show Mailing List](https://devchat.tv/freelancers/) (Chuck)
 
 ### Transcript
 

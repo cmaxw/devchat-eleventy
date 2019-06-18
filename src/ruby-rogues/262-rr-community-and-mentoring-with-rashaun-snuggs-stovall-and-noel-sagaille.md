@@ -16,39 +16,39 @@ tags:
 
 &nbsp;02:12 - Ra’Shaun “Snuggs” Stovall Introduction
 
-- [Twitter](http://twitter.com/snuggsi)
+- [Twitter](https://twitter.com/snuggsi)
 - [GitHub](https://github.com/snuggs)
-- [Facebook](http://facebook.com/snuggsi)
+- [Facebook](https://facebook.com/snuggsi)
   02:29 - Noel Sagaille Introduction
 - [Twitter](https://twitter.com/mrbernnz)
 - [GitHub](https://github.com/mrbernnz)
-- [Censible](http://censible.co)
-  02:56 - [The Pomodoro Technique](http://pomodorotechnique.com/)
+- [Censible](https://censible.co)
+  02:56 - [The Pomodoro Technique](https://pomodorotechnique.com/)
 - [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
   04:43 - Community and Community Leaders
-- [The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich by Timothy Ferriss](http://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357)
+- [The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich by Timothy Ferriss](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357)
 - “Hometraining”
-- [Being John Malkovich](http://www.imdb.com/title/tt0120601/)
+- [Being John Malkovich](https://www.imdb.com/title/tt0120601/)
   - [Polyphasic Sleep](https://en.wikipedia.org/wiki/Polyphasic_sleep)
   - [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung)
     19:11 - Values
 - [Altruism](https://en.wikipedia.org/wiki/Altruism)
-- [Autonomy](http://www.dictionary.com/browse/autonomy)
+- [Autonomy](https://www.dictionary.com/browse/autonomy)
   26:02 - Mentorship
 - Switching Roles
 - Advocacy
-- [Mastermind Groups](http://www.thesuccessalliance.com/what-is-a-mastermind-group.html)
+- [Mastermind Groups](https://www.thesuccessalliance.com/what-is-a-mastermind-group.html)
 - Homage
   Picks
 - [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) (Sam)
-- [James Edward Gray II: Implementing the LHC on a Whiteboard](http://confreaks.tv/videos/railsconf2016-implementing-the-lhc-on-a-whiteboard) (Coraline)
-- [Cracking the Coding Interview: 150 Programming Questions and Solutions by Gayle Laakmann McDowell](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) (Coraline)
+- [James Edward Gray II: Implementing the LHC on a Whiteboard](https://confreaks.tv/videos/railsconf2016-implementing-the-lhc-on-a-whiteboard) (Coraline)
+- [Cracking the Coding Interview: 150 Programming Questions and Solutions by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) (Coraline)
 - Thinking about your health (Chuck)
 - [FitBit One](https://www.fitbit.com/one) (Chuck)
 - [Block & Flow](https://itunes.apple.com/us/app/block-flow-pomodoro-technique/id1018884302?mt=8) (Ra'Shaun)
-- [Censible](http://censible.co) (Ra’Shaun)
+- [Censible](https://censible.co) (Ra’Shaun)
 - [Heroku Pipelines](https://devcenter.heroku.com/articles/pipelines) (Noel)
-- [Dialogue - A proposal by David Bohm, Donald Factor and Peter Garrett](http://www.david-bohm.net/dialogue/dialogue_proposal.html) (Noel)
+- [Dialogue - A proposal by David Bohm, Donald Factor and Peter Garrett](https://www.david-bohm.net/dialogue/dialogue_proposal.html) (Noel)
 
 ### Transcript
 
@@ -602,7 +602,7 @@ Ra'Shaun, Snuggs.
 
 **CHUCK:&nbsp;** What are your picks?
 
-**SNUGGS:&nbsp;** My picks are I would say Block & Flow app that is [www.BlockAndFlowApp.com](http://www.BlockAndFlowApp.com/). Shameless self-promotion but it's a Pomodoro app. It's actually better suited to look it up on iTunes. You look up Block & Flow app. And it keeps me focused. It keeps me from spending eight hours reading RFCs and writing code for 20 minutes. Trying to reverse that a little bit [chuckles].
+**SNUGGS:&nbsp;** My picks are I would say Block & Flow app that is [www.BlockAndFlowApp.com](https://www.BlockAndFlowApp.com/). Shameless self-promotion but it's a Pomodoro app. It's actually better suited to look it up on iTunes. You look up Block & Flow app. And it keeps me focused. It keeps me from spending eight hours reading RFCs and writing code for 20 minutes. Trying to reverse that a little bit [chuckles].
 
 And my second pick I would have to say is Censible. That's actually a project that I'm working on now. I'm the Chief Technology Officer of the company. Noel is a lead developer on the project. And deals with socially responsible investments. That's C-E-N-S-I-B-L-E dot co. And so essentially it's [inaudible] and butter. So, the people who would go into a restaurant and say, “I only go here because they have recyclable napkins” might actually, and once you're [inaudible] want to invest in said restaurant or invest in Tesla stock as opposed to putting a thousand dollars down to be on a layaway wait list. So, Censible.co. It allows people to really be mindful in their investments. And those are my picks.
 

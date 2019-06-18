@@ -12,20 +12,20 @@ tags:
   - podcast
 ---
 
-1:39 -&nbsp;[RailsBridge](http://railsbridge.org/en)
+1:39 -&nbsp;[RailsBridge](https://railsbridge.org/en)
 
-- [Nonprofit Organization](http://en.wikipedia.org/wiki/Nonprofit_organization)
+- [Nonprofit Organization](https://en.wikipedia.org/wiki/Nonprofit_organization)
 - Free workshops for those who want to learn Ruby
 - [GoGaRuCo](https://twitter.com/gogaruco)
   5:15 - Blind Application Process 6:10 - Getting Started With RailsBridge 7:02 - Collaboration Between RailsBridge and Other Groups
-- [Heather Payne, Ladies Learning Code](http://ladieslearningcode.com/about/)
-  11:24 -&nbsp;[PyStar](http://pystar.org/)11:30 -&nbsp;[Confident Coding](http://confidentcoding.com/)
-- [Black Girls Code](http://www.blackgirlscode.com/)
-- [The Starfish and the Spider](http://www.amazon.com/gp/product/1591841836/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1591841836) Book
+- [Heather Payne, Ladies Learning Code](https://ladieslearningcode.com/about/)
+  11:24 -&nbsp;[PyStar](https://pystar.org/)11:30 -&nbsp;[Confident Coding](https://confidentcoding.com/)
+- [Black Girls Code](https://www.blackgirlscode.com/)
+- [The Starfish and the Spider](https://www.amazon.com/gp/product/1591841836/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1591841836) Book
 - Leaderless Organizations
-- [Toastmasters](http://www.toastmasters.org/)
+- [Toastmasters](https://www.toastmasters.org/)
 - Starting Groups and Organizations
-  17:28 - Technologists Wanted 18:20 -&nbsp;[Dev Bootcamp](http://devbootcamp.com/)20:11 -&nbsp;[Steel City Ruby Conf](http://steelcityrubyconf.org/)21:32 -&nbsp;[Jacqui Maher -&nbsp;Using ruby to fight AIDS](http://pivotallabs.com/talks/62-using-ruby-to-fight-aids)24:20 - Killer Feature in Ruby: The Community!
+  17:28 - Technologists Wanted 18:20 -&nbsp;[Dev Bootcamp](https://devbootcamp.com/)20:11 -&nbsp;[Steel City Ruby Conf](https://steelcityrubyconf.org/)21:32 -&nbsp;[Jacqui Maher -&nbsp;Using ruby to fight AIDS](https://pivotallabs.com/talks/62-using-ruby-to-fight-aids)24:20 - Killer Feature in Ruby: The Community!
 - Diversity Within a Team or Company Promotes Creativity
   31:14 - Rails BugMash 33:29 - Differentiating Between Being Coarse and Alienating 43:18 - "If you change the way you think about things, you won't have to think about what you're saying."
 - Context and Familiarity

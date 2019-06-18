@@ -50,7 +50,7 @@ This week on My Angular Story, Charles speaks with Kim Crayton. Kim Crayton did 
 - [I Don’t Do Non-Technical Talks](https://medium.com/@KimCrayton1/i-dont-do-non-technical-talks-4c70d8baaca7)
 - [Kim’s GitHub](https://github.com/kmcrayton7)
 - [@KimCrayton1](https://twitter.com/KimCrayton1?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [KimCrayton.com](http://www.kimcrayton.com/)
+- [KimCrayton.com](https://www.kimcrayton.com/)
 - [Kim’s Medium](https://medium.com/@KimCrayton1)
 
 ### Transcript

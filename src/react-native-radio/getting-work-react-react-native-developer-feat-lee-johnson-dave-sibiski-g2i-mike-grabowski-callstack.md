@@ -33,14 +33,14 @@ tags:
 - Patiences
 - And much more!
   **<u> </u>\*\*** <u>Links: </u> \***\*<u> </u>**
-- [http://g2i.co](http://g2i.co)
+- [https://g2i.co](https://g2i.co)
 - [https://github.com/g2i](https://github.com/g2i)
 - [https://github.com/dsibiski](https://github.com/dsibiski)
 - [https://www.linkedin.com/in/lee-johnson-6b80755/](https://www.linkedin.com/in/lee-johnson-6b80755/)
 - <u>https://github.com/leejms</u>
   &nbsp; **<u>Picks:</u>** Spencer
 - [Crushing It](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence-ebook/dp/B072DV2GHG/ref=sr_1_1?ie=UTF8&qid=1519613043&sr=8-1&keywords=crushing+it)
-- [WorkReactNative.com](http://WorkReactNative.com)
+- [WorkReactNative.com](https://WorkReactNative.com)
   Nader
 - [The Nomadic Developer - Book](https://www.amazon.com/Nomadic-Developer-Surviving-Technology-Consulting/dp/0321606396)
 - [Urql](https://github.com/FormidableLabs/urql)
@@ -48,13 +48,13 @@ tags:
   Dave
 - “You have to know the past to know the present” - Quote
   Lee
-- [Vulcan JS](http://vulcanjs.org)
+- [Vulcan JS](https://vulcanjs.org)
   Gant
 - [Made to stick](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287)
-- [React Native EU Conference](http://react-native.eu)
+- [React Native EU Conference](https://react-native.eu)
   Mike
 - [MIT license for React Native](https://github.com/facebook/react-native/blob/master/LICENSE)
 - New version of React Native
-- [Chain React Conference](http://infinite.red/ChainReactConf)
+- [Chain React Conference](https://infinite.red/ChainReactConf)
 
 ### Transcript

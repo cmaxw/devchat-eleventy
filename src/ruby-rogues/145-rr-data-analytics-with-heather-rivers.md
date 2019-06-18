@@ -18,14 +18,14 @@ tags:
 
 - [twitter](https://twitter.com/HeatherRivers)
 - [github](https://github.com/rivers)
-- [blog](http://heatherrivers.com/)
-- [MODE Analytics](http://www.modeanalytics.com/)
+- [blog](https://heatherrivers.com/)
+- [MODE Analytics](https://www.modeanalytics.com/)
 
 05:40 - Data Analytics
 
-- [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries](http://www.amazon.com/gp/product/0307887898/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=chamaxwoo-20)
+- [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries](https://www.amazon.com/gp/product/0307887898/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=chamaxwoo-20)
 - [Real-Time Analytics](https://support.google.com/analytics/answer/1638635?hl=en)
-- [How Netflix Uses Analytics To Select Movies, Create Content, and Make Multimillion Dollar Decisions](http://blog.kissmetrics.com/how-netflix-uses-analytics/)
+- [How Netflix Uses Analytics To Select Movies, Create Content, and Make Multimillion Dollar Decisions](https://blog.kissmetrics.com/how-netflix-uses-analytics/)
 
 09:23 - Analytics vs Business Intelligence
 
@@ -38,16 +38,16 @@ tags:
 12:28 - Using Information and Choosing the Right Metrics
 
 - Lean Analytics
-- [Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll](http://www.amazon.com/gp/product/1449335675/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449335675&linkCode=as2&tag=chamaxwoo-20)
+- [Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll](https://www.amazon.com/gp/product/1449335675/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449335675&linkCode=as2&tag=chamaxwoo-20)
 
 18:34 - Collecting Information
 
-- [Extract, Transform, Load](http://en.wikipedia.org/wiki/Extract,_transform,_load)
+- [Extract, Transform, Load](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 - Column-Based Data Store
-- [Statistical Regression](http://www.thefreedictionary.com/statistical+regression)
-- [PostgreSQL](http://www.postgresql.org/docs/9.3/static/tutorial-window.html)
+- [Statistical Regression](https://www.thefreedictionary.com/statistical+regression)
+- [PostgreSQL](https://www.postgresql.org/docs/9.3/static/tutorial-window.html)
 
-30:02 - [Split Testing (A/B Testing)](http://en.wikipedia.org/wiki/A/B_testing)
+30:02 - [Split Testing (A/B Testing)](https://en.wikipedia.org/wiki/A/B_testing)
 
 33:53 - Changing Bucket Proportion
 
@@ -56,10 +56,10 @@ tags:
 35:42 - Tools & Resources
 
 - Ruby and Data Analytics
-- [Python](http://docs.python.org/library/)
-- [NumPy](http://www.numpy.org/)
-- [Natural Language Toolkit](http://www.nltk.org/)
-- [The R Project for Statistical Computing](http://www.r-project.org/)
+- [Python](https://docs.python.org/library/)
+- [NumPy](https://www.numpy.org/)
+- [Natural Language Toolkit](https://www.nltk.org/)
+- [The R Project for Statistical Computing](https://www.r-project.org/)
 
 41:05 - Addressing Analytics
 

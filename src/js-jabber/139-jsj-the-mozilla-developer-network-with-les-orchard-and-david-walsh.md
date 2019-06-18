@@ -18,22 +18,22 @@ Check out&nbsp;[<u>JS Remote Conf</u>](https://jsremoteconf.com/)!
 
 - [<u>Twitter</u>](https://twitter.com/davidwalshblog)
 - [<u>GitHub</u>](https://github.com/darkwing)
-- [<u>Blog</u>](http://davidwalsh.name/)
-- [<u>MooTools</u>](http://mootools.net/)
+- [<u>Blog</u>](https://davidwalsh.name/)
+- [<u>MooTools</u>](https://mootools.net/)
 
 02:44 - Les Orchard Introduction
 
 - [<u>Twitter</u>](https://twitter.com/lmorchard)
 - [<u>GitHub</u>](https://github.com/lmorchard)
-- [<u>Blog</u>](http://blog.lmorchard.com/)
-- [<u>PhoneGap</u>](http://phonegap.com/)
+- [<u>Blog</u>](https://blog.lmorchard.com/)
+- [<u>PhoneGap</u>](https://phonegap.com/)
 
 03:01 - The MDN: [<u>Mozilla Developer Network</u>](https://developer.mozilla.org/en-US/)
 
 - [<u>Mozilla</u>](https://www.mozilla.org/)
-- [<u>W3Schools</u>](http://www.w3schools.com/)
+- [<u>W3Schools</u>](https://www.w3schools.com/)
 - [<u>Getting started on MDN</u>](https://developer.mozilla.org/en-US/docs/MDN/Getting_started)
-- [<u>Netscape DevEdge</u>](http://devedge.primedirective.net/)
+- [<u>Netscape DevEdge</u>](https://devedge.primedirective.net/)
 - [<u>Demo Studio</u>](https://developer.mozilla.org/en-US/demos/)
 
 05:46 - Documentation & Maintenance
@@ -42,8 +42,8 @@ Check out&nbsp;[<u>JS Remote Conf</u>](https://jsremoteconf.com/)!
 - Translation
 - [<u>Contributing to MDN</u>](https://developer.mozilla.org/en-US/docs/MDN/Contribute)
 - [<u>Sign in Page</u>](https://developer.mozilla.org/en-US/users/signin?next=/en-US/docs/MDN/Contribute%24edit)
-- [<u>WYSIWYG (What You See is What You Get)</u>](http://en.wikipedia.org/wiki/WYSIWYG)
-- [<u>CKEditor</u>](http://ckeditor.com/)
+- [<u>WYSIWYG (What You See is What You Get)</u>](https://en.wikipedia.org/wiki/WYSIWYG)
+- [<u>CKEditor</u>](https://ckeditor.com/)
 
 10:24 - Experimentation
 
@@ -57,7 +57,7 @@ Check out&nbsp;[<u>JS Remote Conf</u>](https://jsremoteconf.com/)!
 
 16:16 - The MDN as a Resource & Standards
 
-- [<u>Open Standards</u>](http://opensource.org/osr)
+- [<u>Open Standards</u>](https://opensource.org/osr)
 
 18:52 - The Editing Process
 
@@ -71,19 +71,19 @@ Check out&nbsp;[<u>JS Remote Conf</u>](https://jsremoteconf.com/)!
 21:39 - The Design and Layout
 
 - [<u>Sean Martell</u>](https://twitter.com/mart3ll)
-  - [<u>Blog</u>](http://blog.seanmartell.com/)
+  - [<u>Blog</u>](https://blog.seanmartell.com/)
 - [<u>KumaScript</u>](https://developer.mozilla.org/en-US/docs/MDN/Kuma/Introduction_to_KumaScript)
 
 22:54 - Editing Wars and Trolling
 
 24:21 - Code Samples
 
-- [<u>The Konami Code</u>](http://en.wikipedia.org/wiki/Konami_Code)
-- [<u>Cascading Style Sheets (CSS)</u>](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [<u>The Konami Code</u>](https://en.wikipedia.org/wiki/Konami_Code)
+- [<u>Cascading Style Sheets (CSS)</u>](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 27:00 - Tutorials
 
-- [<u>Scalable Vector Graphics (SVG)</u>](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+- [<u>Scalable Vector Graphics (SVG)</u>](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 
 28:38 - Community Contributions
 
@@ -100,13 +100,13 @@ Check out&nbsp;[<u>JS Remote Conf</u>](https://jsremoteconf.com/)!
 
 33:18 - Advantages & Value of the MDN
 
-- Page Rankings and [<u>Search Engine Optimization (SEO)</u>](http://en.wikipedia.org/wiki/Search_engine_optimization)
-  - [<u>WebPlatform.org</u>](http://www.webplatform.org/)
+- Page Rankings and [<u>Search Engine Optimization (SEO)</u>](https://en.wikipedia.org/wiki/Search_engine_optimization)
+  - [<u>WebPlatform.org</u>](https://www.webplatform.org/)
 
 37:47 - Licensing
 
 - [<u>Creative Commons License</u>](https://creativecommons.org/choose/)
-- [<u>Transclusion</u>](http://en.wikipedia.org/wiki/Transclusion)
+- [<u>Transclusion</u>](https://en.wikipedia.org/wiki/Transclusion)
   Check out [<u>JS Remote Conf</u>](https://jsremoteconf.com/)!
 
 ### Transcript

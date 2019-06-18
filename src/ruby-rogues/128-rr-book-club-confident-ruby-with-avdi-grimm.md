@@ -14,7 +14,7 @@ tags:
 
 03:28 - The Point of Confident Ruby
 
-- [Confident Ruby by Avdi Grimm](http://www.confidentruby.com/)
+- [Confident Ruby by Avdi Grimm](https://www.confidentruby.com/)
 
 05:57 - Defensive Programming
 
@@ -35,7 +35,7 @@ tags:
 
 27:48 - Confident Ruby Companion Video
 
-- [Josh and Avdi’s Pairing Session](http://www.youtube.com/watch?v=8LUIqm6xy8A)
+- [Josh and Avdi’s Pairing Session](https://www.youtube.com/watch?v=8LUIqm6xy8A)
 
 34:05 - TDD
 
@@ -45,7 +45,7 @@ tags:
 
 - Shape
 - Cadence
-- [gem sing](http://rubygems.org/gems/rubygems-sing)
+- [gem sing](https://rubygems.org/gems/rubygems-sing)
 
 45:27 - The Most Important Point in the Book
 
@@ -57,12 +57,12 @@ tags:
 
 - [naught](https://github.com/avdi/naught)
 
-- [Rich Hickey’s Greatest Hits](http://thechangelog.com/rich-hickeys-greatest-hits/) (James)
+- [Rich Hickey’s Greatest Hits](https://thechangelog.com/rich-hickeys-greatest-hits/) (James)
 - [Baruco 2012: Micro-Service Architecture, by Fred George](https://www.youtube.com/watch?v=2rKEveL55TY) (James)
 - [Using Python to Code by Voice](https://www.youtube.com/watch?v=8SkdfdXWYaI) (James)
-- [Eye - Optical Illusion](http://www.youtube.com/watch?v=tVgOLWVYytM) (Josh)
+- [Eye - Optical Illusion](https://www.youtube.com/watch?v=tVgOLWVYytM) (Josh)
 - [i-Qi clock & meditation timer](https://itunes.apple.com/us/app/i-qi-clock-meditation-timer/id413369004) (Katrina)
-- [Google Now](http://www.google.com/landing/now/) (Avdi)
+- [Google Now](https://www.google.com/landing/now/) (Avdi)
 
 ### Book Club
 

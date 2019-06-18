@@ -14,33 +14,33 @@ tags:
 
 ### Panel
 
-- Charles Max Wood&nbsp;([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- James Burke ([twitter](http://twitter.com/jrburke) [github](https://github.com/jrburke) [blog](http://tagneto.blogspot.com/))
-- Jamison Dance&nbsp;([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Tim Caswell&nbsp;([twitter](http://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](http://howtonode.org/))
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Joe Eames&nbsp;([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
+- Charles Max Wood&nbsp;([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- James Burke ([twitter](https://twitter.com/jrburke) [github](https://github.com/jrburke) [blog](https://tagneto.blogspot.com/))
+- Jamison Dance&nbsp;([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Tim Caswell&nbsp;([twitter](https://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](https://howtonode.org/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Joe Eames&nbsp;([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
 
 ### Discussion
 
 - [Mozilla Labs](https://mozillalabs.com/en-US/)
-- [Require.js](http://requirejs.org/)
-- [The Dojo Foundation](http://dojofoundation.org/)
-- [Contributor License Agreement](http://en.wikipedia.org/wiki/Contributor_License_Agreement)
-- [The Apache Foundation](http://www.apache.org/)
-- [Asynchronous Module Definition (AMD)](http://requirejs.org/docs/whyamd.html)
-- [CommonJS](http://www.commonjs.org/)
+- [Require.js](https://requirejs.org/)
+- [The Dojo Foundation](https://dojofoundation.org/)
+- [Contributor License Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)
+- [The Apache Foundation](https://www.apache.org/)
+- [Asynchronous Module Definition (AMD)](https://requirejs.org/docs/whyamd.html)
+- [CommonJS](https://www.commonjs.org/)
 - Require.js vs. Script Tags
 - Refactor vs. Hack
 - [umdjs](https://github.com/umdjs/umd)
 - [Adobe Brackets](https://github.com/adobe/brackets)
 - [Cloud9](https://c9.io/)
 - Require and Compiled Code
-- [RequireJS Optimizer](http://requirejs.org/docs/optimization.html)
+- [RequireJS Optimizer](https://requirejs.org/docs/optimization.html)
 - Dependency Resolution and NPM
-- [node.js](http://nodejs.org/)
+- [node.js](https://nodejs.org/)
 - Contributing with Require.js
-- [Getting Started with Require.js](http://requirejs.org/docs/start.html)
+- [Getting Started with Require.js](https://requirejs.org/docs/start.html)
 - [Backbone-Require-Boilerplate](https://github.com/gfranko/Backbone-Require-Boilerplate)
 - "Node is faster than the JVM."
 - How much of Require exists to handle edge cases?
@@ -48,26 +48,26 @@ tags:
 
 ### Picks
 
-- [Mocha](http://visionmedia.github.com/mocha/) (Tim)
-- [JSCoverage](http://siliconforks.com/jscoverage/) (Tim)
+- [Mocha](https://visionmedia.github.com/mocha/) (Tim)
+- [JSCoverage](https://siliconforks.com/jscoverage/) (Tim)
 - [Notes From the Mystery Machine Bus - Steve Yegge](https://plus.google.com/u/0/110981030061712822816/posts/KaSKeg4vQtz) (Jamison)
-- [Ruby Guide - Internals - Garbage Collection](http://furious-waterfall-55.heroku.com/ruby-guide/internals/gc.html) (Jamison)
-- [Howl's Moving Castle](http://www.imdb.com/title/tt0347149/) (Jamison)
-- Projector Movie Nights ([and a screen for it](http://www.amazon.com/gp/product/B0033SC2SE/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0033SC2SE)) (Jamison)
-- [Make MKV](http://www.makemkv.com/download/) (Jamison)
-- [Handbrake](http://handbrake.fr/) (Jamison)
+- [Ruby Guide - Internals - Garbage Collection](https://furious-waterfall-55.heroku.com/ruby-guide/internals/gc.html) (Jamison)
+- [Howl's Moving Castle](https://www.imdb.com/title/tt0347149/) (Jamison)
+- Projector Movie Nights ([and a screen for it](https://www.amazon.com/gp/product/B0033SC2SE/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0033SC2SE)) (Jamison)
+- [Make MKV](https://www.makemkv.com/download/) (Jamison)
+- [Handbrake](https://handbrake.fr/) (Jamison)
 - [Requiem](https://tag3ulp55xczs3pn.onion.to/)&nbsp;(TOR Link)&nbsp;(Jamison)
 - [x-tag](https://github.com/csuwldcat/x-tag) (James)
-- [Firefox OS - Back to Gecko](http://www.mozilla.org/en-US/b2g/) (James)
-- [Jiro Dreams of Sushi](http://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi) (James)
-- [The Lost Fleet](http://www.amazon.com/gp/product/0441014186/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0441014186) (Joe)
-- [SpotIt](http://www.amazon.com/gp/product/B0039S7NO6/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0039S7NO6) (Joe)
-- [Let's Code Test Driven Javascript by James Shore](http://www.kickstarter.com/projects/188988365/lets-code-test-driven-javascript) (Joe)
+- [Firefox OS - Back to Gecko](https://www.mozilla.org/en-US/b2g/) (James)
+- [Jiro Dreams of Sushi](https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi) (James)
+- [The Lost Fleet](https://www.amazon.com/gp/product/0441014186/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0441014186) (Joe)
+- [SpotIt](https://www.amazon.com/gp/product/B0039S7NO6/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0039S7NO6) (Joe)
+- [Let's Code Test Driven Javascript by James Shore](https://www.kickstarter.com/projects/188988365/lets-code-test-driven-javascript) (Joe)
 - Air Compressor (Chuck)
 - Impact Wrench (Chuck)
 - Socket Set (Chuck)
 - Hydraulic Jack and Jack Stands (Chuck)
-- [Set](http://www.amazon.com/gp/product/B00000IV34/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00000IV34) (Chuck)
+- [Set](https://www.amazon.com/gp/product/B00000IV34/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00000IV34) (Chuck)
 
 ### Transcript
 

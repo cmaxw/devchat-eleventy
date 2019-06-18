@@ -23,7 +23,7 @@ This week on My JavaScript Story, Charles speaks with Johannes Schickling. Johan
 - Johannes intro
 - How did you first get into programming?
 - Always been interested in technology
-- [PHP](http://www.php.net/) to[JavaScript](https://www.javascript.com/)
+- [PHP](https://www.php.net/) to[JavaScript](https://www.javascript.com/)
 - Creating single page apps
 - Self-taught
 - The problem-solving aspect keeps people coming back to programming
@@ -32,7 +32,7 @@ This week on My JavaScript Story, Charles speaks with Johannes Schickling. Johan
 - How did you find JavaScript?
 - Has used a wide range of front-end frameworks
 - [Node](https://nodejs.org/en/)
-- [WebAssembly](http://webassembly.org/)
+- [WebAssembly](https://webassembly.org/)
 - [Opal](https://github.com/opal)
 - What drew you into doing single page apps?
 - Like the long-term flexibility of single page apps
@@ -50,9 +50,9 @@ This week on My JavaScript Story, Charles speaks with Johannes Schickling. Johan
 - [JavaScript](https://www.javascript.com/)
 - [GraphCool](https://www.graph.cool/)
 - [Prisma](https://www.prisma.io/)
-- [PHP](http://www.php.net/)
+- [PHP](https://www.php.net/)
 - [Node](https://nodejs.org/en/)
-- [WebAssembly](http://webassembly.org/)
+- [WebAssembly](https://webassembly.org/)
 - [Opal](https://github.com/opal)
 - [GraphQL](https://graphql.org/)
 - [@\_Schickling](https://twitter.com/_schickling?lang=en)

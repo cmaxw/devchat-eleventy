@@ -114,7 +114,7 @@ You have that excitement about the new language. But they get frustrated because
 
 28:48 – Panelist.
 
-28:54 – Advertisement – [Code Badges!](http://codebadge.org/)
+28:54 – Advertisement – [Code Badges!](https://codebadge.org/)
 
 29:32 – Chuck: Most important / interesting thing you’ve learned about pattern matching?
 
@@ -212,9 +212,9 @@ What if I didn’t have to do any of that garbage?
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badges](http://codebadge.org/)
+- [Code Badges](https://codebadge.org/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**

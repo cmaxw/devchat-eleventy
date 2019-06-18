@@ -20,15 +20,15 @@ Get your [JS Remote Conf](https://allremoteconfs.com/js-2016) tickets!
 
 - [Twitter](https://twitter.com/jllord)
 - [GitHub](https://github.com/jlord)
-- [Blog](http://jlord.us/)
+- [Blog](https://jlord.us/)
 
 02:40 - Amy Palamountain Introduction
 
 - [Twitter](https://twitter.com/ammeep)
 - [GitHub](https://github.com/ammeep)
-- [Blog](http://amy.palamounta.in/)
+- [Blog](https://amy.palamounta.in/)
 
-03:14 - [Electron](http://electron.atom.io/)
+03:14 - [Electron](https://electron.atom.io/)
 
 - [Atom](https://atom.io/)
 
@@ -54,9 +54,9 @@ Get your [JS Remote Conf](https://allremoteconfs.com/js-2016) tickets!
 
 19:46 - Making an Electron App
 
-- [Photon](http://photonkit.com/)
+- [Photon](https://photonkit.com/)
 - [conors/photon](https://github.com/connors/photon)
-- [Photon Components](http://photonkit.com/components/)
+- [Photon Components](https://photonkit.com/components/)
 - [N1](https://www.nylas.com/n1)
 
 24:09 - Sharing Code
@@ -76,11 +76,11 @@ Get your [JS Remote Conf](https://allremoteconfs.com/js-2016) tickets!
 36:22 - Using Electron for Native
 
 - [JavaScript Jabber Episode #186: JSJ NativeScript with TJ VanToll and Burke Holland](https://devchat.tv/js-jabber/186-jsj-nativescript-with-tj-vantoll-and-burke-holland)
-- [PhoneGap](http://phonegap.com/)
+- [PhoneGap](https://phonegap.com/)
 - [Reactive Native](https://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
 
-39:48 - What is a “[webview](http://www.stevesouders.com/blog/2014/10/09/do-u-webview/)”?
+39:48 - What is a “[webview](https://www.stevesouders.com/blog/2014/10/09/do-u-webview/)”?
 
 42:12 - Getting Started with Electron
 
@@ -89,7 +89,7 @@ Get your [JS Remote Conf](https://allremoteconfs.com/js-2016) tickets!
 - [JIBO](https://www.jibo.com/)
   Picks
 
-[Autolux - Future Perfect](https://www.youtube.com/watch?v=l1N4AF9JJBA) (Jamison)[Move Fast and Break Nothing](http://zachholman.com/talk/move-fast-break-nothing/) (Aimee)[[egghead.io] Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) (Dave)[Destructuring and parameter handling in ECMAScript 6](http://www.2ality.com/2015/01/es6-destructuring.html) (Dave)[JS Remote Conf](http://jsremoteconf.com) (Chuck)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[React Remote Conf](https://allremoteconfs.com/react-2016) (Chuck)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)[UglyBaby Etsy Shop](https://www.etsy.com/shop/UglyBaby) (Amy)[Jimmy Fallon: Kid Theater with Tom Hanks](https://www.youtube.com/watch?v=0p1Iv9z8bOY) (Jessica)
+[Autolux - Future Perfect](https://www.youtube.com/watch?v=l1N4AF9JJBA) (Jamison)[Move Fast and Break Nothing](https://zachholman.com/talk/move-fast-break-nothing/) (Aimee)[[egghead.io] Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) (Dave)[Destructuring and parameter handling in ECMAScript 6](https://www.2ality.com/2015/01/es6-destructuring.html) (Dave)[JS Remote Conf](https://jsremoteconf.com) (Chuck)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[React Remote Conf](https://allremoteconfs.com/react-2016) (Chuck)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)[UglyBaby Etsy Shop](https://www.etsy.com/shop/UglyBaby) (Amy)[Jimmy Fallon: Kid Theater with Tom Hanks](https://www.youtube.com/watch?v=0p1Iv9z8bOY) (Jessica)
 
 &nbsp;
 

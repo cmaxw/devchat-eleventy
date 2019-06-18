@@ -16,8 +16,8 @@ tags:
 
 - [Twitter](https://twitter.com/jagthedrummer)
 - [GitHub](https://github.com/jagthedrummer)
-- [Blog](http://www.octolabs.com/)
-- <u><a style="text-decoration: none;" href="http://www.remarq.io/">Remarq</a></u>
+- [Blog](https://www.octolabs.com/)
+- <u><a style="text-decoration: none;" href="https://www.remarq.io/">Remarq</a></u>
   - [@remarqio](https://twitter.com/remarqio)
 
 01:10 - “Good-looking Documents”
@@ -54,7 +54,7 @@ tags:
 
 28:59 - How Remarq Works
 
-- [Pandoc](http://pandoc.org/)
+- [Pandoc](https://pandoc.org/)
 - [LaTeX](https://www.latex-project.org/)
 
 30:24 - The Business Side
@@ -66,11 +66,11 @@ tags:
 
 32:55 - Marketing
 
-Friends of The Freelancers’ Show: Get 25% off Remarq with this **[special discount code](http://www.remarq.io/freelancersshow/)**!
+Friends of The Freelancers’ Show: Get 25% off Remarq with this **[special discount code](https://www.remarq.io/freelancersshow/)**!
 
 Picks
 
-[Planet Money: Episode 650: The Scariest Thing In Hollywood](http://www.npr.org/sections/money/2015/09/11/439632877/episode-650-the-scariest-thing-in-hollywood) (Reuven)[Planet Money: Episode 651: The Salmon Taboo](http://www.npr.org/sections/money/2015/09/16/440951873/episode-651-the-salmon-taboo) (Reuven)[Planet Money: Episode 653: The Anti-Store](http://www.npr.org/sections/money/2015/09/25/443519599/episode-653-the-anti-store) (Reuven)[Stripe](https://stripe.com/) (Chuck)[Crowdcast](https://www.crowdcast.io/) (Chuck)[Calendly](https://calendly.com/) (Jeremy)[The Traffic Manuel by Kai Davis](http://doubleyouraudience.com/traffic-manual/) (Jeremy)
+[Planet Money: Episode 650: The Scariest Thing In Hollywood](https://www.npr.org/sections/money/2015/09/11/439632877/episode-650-the-scariest-thing-in-hollywood) (Reuven)[Planet Money: Episode 651: The Salmon Taboo](https://www.npr.org/sections/money/2015/09/16/440951873/episode-651-the-salmon-taboo) (Reuven)[Planet Money: Episode 653: The Anti-Store](https://www.npr.org/sections/money/2015/09/25/443519599/episode-653-the-anti-store) (Reuven)[Stripe](https://stripe.com/) (Chuck)[Crowdcast](https://www.crowdcast.io/) (Chuck)[Calendly](https://calendly.com/) (Jeremy)[The Traffic Manuel by Kai Davis](https://doubleyouraudience.com/traffic-manual/) (Jeremy)
 
 ### Transcript
 

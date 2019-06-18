@@ -24,17 +24,17 @@ Introduction
 - [Screencast](https://www.screencast.com/)
 - [Creating a Twitter Clone](https://devchat.tv/tmtc-screencasts/creating-a-twitter-clone-in-rails-part-6)
   10:30: Missing out on client work?
-- [Ruby on Rails](http://rubyonrails.org/)
+- [Ruby on Rails](https://rubyonrails.org/)
 - “Giving away the farm.”
   16:40: Highly scripted video
 - [UberConference](https://www.youtube.com/user/uberconference)
 - [John Sonmez](https://www.youtube.com/user/jsonmez)
   22:00: Casual video or audio
 - Facebook Live
-- [Aaron Walker](http://www.viewfromthetop.com/)
+- [Aaron Walker](https://www.viewfromthetop.com/)
 - Facebook community
 - YouTube Live
-- [Fullscope.tv](http://fullscope.tv/)
+- [Fullscope.tv](https://fullscope.tv/)
 - Publish on a consistent schedule
   34:45: Case Studies
 - YouTube or Google Hangouts
@@ -42,7 +42,7 @@ Introduction
 - Search engine rankings
 - Transcription services
 - Comparing yourself to others
-  47:50: InfographicsPicks:[Ditching Hourly](http://www.ditchinghourly.com/) (Reuven)[Limony Snicket’s A Series of Unfortunate Events](https://www.amazon.com/dp/B0066IM5RQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Reuven)[Rev.com](https://www.rev.com/) (Philip)[Trustvelocity.com](https://philipmorganconsulting.com/lead-generation-trust-velocity/) (Philip)[Born to Win by Zig Ziglar](https://www.amazon.com/Born-Win-Find-Your-Success-ebook/dp/B006ZG5THW) (Charles)[Mindmup.com](https://www.mindmup.com/) (Charles)[devchat.tv/conferences](https://devchat.tv/conferences) (Charles)
+  47:50: InfographicsPicks:[Ditching Hourly](https://www.ditchinghourly.com/) (Reuven)[Limony Snicket’s A Series of Unfortunate Events](https://www.amazon.com/dp/B0066IM5RQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Reuven)[Rev.com](https://www.rev.com/) (Philip)[Trustvelocity.com](https://philipmorganconsulting.com/lead-generation-trust-velocity/) (Philip)[Born to Win by Zig Ziglar](https://www.amazon.com/Born-Win-Find-Your-Success-ebook/dp/B006ZG5THW) (Charles)[Mindmup.com](https://www.mindmup.com/) (Charles)[devchat.tv/conferences](https://devchat.tv/conferences) (Charles)
 
 ### Transcript
 

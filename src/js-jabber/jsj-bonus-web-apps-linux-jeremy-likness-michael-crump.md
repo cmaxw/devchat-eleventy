@@ -74,19 +74,19 @@ You can set up instances to run across cores with the PM2 definitions. You can a
 
 #### [45:38] How to get started
 
-[Getting started with Node](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-nodejs)[docs.microsoft.com](http://docs.microsoft.com)Trial account with a few hundred dollars in Azure credit.
+[Getting started with Node](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-nodejs)[docs.microsoft.com](https://docs.microsoft.com)Trial account with a few hundred dollars in Azure credit.
 
 #### Michael's Links
 
-- [michaelcrump.net](http://michaelcrump.net)
-- [@mbcrump](http://twitter.com/mbcrump)
-- [github.com/mbcrump](http://github.com/mbcrump)
+- [michaelcrump.net](https://michaelcrump.net)
+- [@mbcrump](https://twitter.com/mbcrump)
+- [github.com/mbcrump](https://github.com/mbcrump)
 
 #### Jeremy's Links
 
-- [bit.ly/coderblog](http://bit.ly/coderblog)
-- [@jeremylikness](http://twitter.com/jeremylikness)
-- [github/jeremylikness](http://github.com/jeremylikness)
+- [bit.ly/coderblog](https://bit.ly/coderblog)
+- [@jeremylikness](https://twitter.com/jeremylikness)
+- [github/jeremylikness](https://github.com/jeremylikness)
 
 ### Picks
 
@@ -95,16 +95,16 @@ Aimee
 - Having a little bit of mindfulness while waiting on code and tests to run.
   Joe
 - [Ozark on Netflix](https://www.netflix.com/title/80117552)
-- [Star Wars: Rogue One](http://amzn.to/2y3NLZw)
+- [Star Wars: Rogue One](https://amzn.to/2y3NLZw)
   Chuck
 - [Travelers on Netflix](https://www.netflix.com/title/80105699)
   Jeremy
 - Ozark filming in Woodstock, GA
-- [Autonomous Smart Desk](http://amzn.to/2eUeyiA)
-- [LED light strips](http://amzn.to/2jnliL5)
+- [Autonomous Smart Desk](https://amzn.to/2eUeyiA)
+- [LED light strips](https://amzn.to/2jnliL5)
   Michael
 - [Conference Call Bingo](https://twitter.com/BilalJaffery/status/885468228360839169)
-- [Life (Movie)](http://amzn.to/2wZI4NM)
-- [Get Out (Movie)](http://amzn.to/2f4XRod)
+- [Life (Movie)](https://amzn.to/2wZI4NM)
+- [Get Out (Movie)](https://amzn.to/2f4XRod)
 
 ### Transcript

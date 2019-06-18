@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips](http://devchat.tv/rails-clips)!
+Check out [RailsClips](https://devchat.tv/rails-clips)!
 
 &nbsp;
 
@@ -20,9 +20,9 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 - [Twitter](https://twitter.com/derickbailey)
 - [GitHub](https://github.com/derickbailey)
-- [Blog](http://derickbailey.com/)
-- [Entreprogrammers](http://entreprogrammers.com)
-- [RabbitMQ: Patterns for Applications by Derick Bailey](http://derickbailey.com/email-courses/rabbitmq-patterns-for-applications/)
+- [Blog](https://derickbailey.com/)
+- [Entreprogrammers](https://entreprogrammers.com)
+- [RabbitMQ: Patterns for Applications by Derick Bailey](https://derickbailey.com/email-courses/rabbitmq-patterns-for-applications/)
 
 03:36 - [RabbitMQ](https://www.rabbitmq.com/)
 
@@ -36,8 +36,8 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 14:04 - RabbitMQ’s Model
 
-- [Pub/Sub - Redis](http://redis.io/topics/pubsub)
-- [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions by Gregor Hohpe](http://www.amazon.com/gp/product/0321200683/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321200683&linkCode=as2&tag=chamaxwoo-20&linkId=VZV2A6RNVG6ALDKV)
+- [Pub/Sub - Redis](https://redis.io/topics/pubsub)
+- [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions by Gregor Hohpe](https://www.amazon.com/gp/product/0321200683/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321200683&linkCode=as2&tag=chamaxwoo-20&linkId=VZV2A6RNVG6ALDKV)
 - Exchanges, Queues, and Bindings
 
 22:15 - Event Emitters, Organizing Your Code
@@ -46,7 +46,7 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 31:18 - Service Busses & Monitoring Systems
 
-- [NServiceBus](http://particular.net/nservicebus)
+- [NServiceBus](https://particular.net/nservicebus)
 
 32:58 - How do you decide you need a messaging system?
 
@@ -54,7 +54,7 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 39:24 - Event Sourcing
 
-- [Kafka](http://kafka.apache.org/)
+- [Kafka](https://kafka.apache.org/)
 
 44:05 - Fault Tolerance/Failure Cases
 
@@ -67,16 +67,16 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 58:28 - Formatting Your Messages
 
-- [RabbitMQ: Patterns for Applications by Derick Bailey](http://derickbailey.com/email-courses/rabbitmq-patterns-for-applications/)
+- [RabbitMQ: Patterns for Applications by Derick Bailey](https://derickbailey.com/email-courses/rabbitmq-patterns-for-applications/)
 
 01:04:13 - “Saga” (Workflow)
 
-01:05:10 - [RabbitMQ For Developers](http://rabbitmq4devs.com/)
+01:05:10 - [RabbitMQ For Developers](https://rabbitmq4devs.com/)
 
 - Use code **JSJABBER** for 20% off the bundle!
   Picks
 
-[W3Schools](http://www.w3schools.com/) (AJ)[1984 by George Orwell](http://www.amazon.com/gp/product/0451524934/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0451524934&linkCode=as2&tag=chamaxwoo-20&linkId=O527RFNKEWL36J3U) (AJ) The edit button on the [MDN](https://developer.mozilla.org/) page (AJ)[[YouTube] W3Schools is just... Better](https://www.youtube.com/watch?v=FG53AleSdCc) (AJ)[The Go Programming Language](https://golang.org/) (AJ)[[YouTube] Go Programming: Learn the Go Programming Language in One Video](https://www.youtube.com/watch?v=CF9S4QZuV30) (AJ)[hackthe.computer](https://hackthe.computer) (AJ)[Maze Algorithm](http://www.astrolog.org/labyrnth/algrithm.htm) (AJ)[A\* Algorithm](https://www.youtube.com/watch?v=7kMbPU_6Me4) (AJ)[React Rally](http://www.reactrally.com/) (Jamison)[Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm) (Jamison)[Evan Czaplicki: Let's be mainstream! User focused design in Elm @ Curry On Prague 2015](https://www.youtube.com/watch?v=oYk8CKH7OhE) (Jamison)[Paracord](https://en.wikipedia.org/wiki/Parachute_cord) (Chuck)[Soto Pocket Torch](http://www.amazon.com/gp/product/B0046UZRNU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0046UZRNU&linkCode=as2&tag=chamaxwoo-20&linkId=MV5S3E6KR3C6A3IG) (Chuck)[Exploring ES6: Upgrade to the next version of JavaScript by Dr. Axel Rauschmayer](http://exploringjs.com/) (Derick)[Small World](http://www.daysofwonder.com/smallworld/en/) (Derick)[Star Wars Darth Bane Trilogy](http://www.amazon.com/gp/product/B009MYAQQS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009MYAQQS&linkCode=as2&tag=chamaxwoo-20&linkId=T4R6SBTEJOII6OQ3) (Derick)[LEGO Star Wars The Empire Strikes Back Slave I Set #75060](http://www.amazon.com/LEGO-Empire-Strikes-Slave-75060/dp/B00R1MSM82) (Derick)
+[W3Schools](https://www.w3schools.com/) (AJ)[1984 by George Orwell](https://www.amazon.com/gp/product/0451524934/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0451524934&linkCode=as2&tag=chamaxwoo-20&linkId=O527RFNKEWL36J3U) (AJ) The edit button on the [MDN](https://developer.mozilla.org/) page (AJ)[[YouTube] W3Schools is just... Better](https://www.youtube.com/watch?v=FG53AleSdCc) (AJ)[The Go Programming Language](https://golang.org/) (AJ)[[YouTube] Go Programming: Learn the Go Programming Language in One Video](https://www.youtube.com/watch?v=CF9S4QZuV30) (AJ)[hackthe.computer](https://hackthe.computer) (AJ)[Maze Algorithm](https://www.astrolog.org/labyrnth/algrithm.htm) (AJ)[A\* Algorithm](https://www.youtube.com/watch?v=7kMbPU_6Me4) (AJ)[React Rally](https://www.reactrally.com/) (Jamison)[Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm) (Jamison)[Evan Czaplicki: Let's be mainstream! User focused design in Elm @ Curry On Prague 2015](https://www.youtube.com/watch?v=oYk8CKH7OhE) (Jamison)[Paracord](https://en.wikipedia.org/wiki/Parachute_cord) (Chuck)[Soto Pocket Torch](https://www.amazon.com/gp/product/B0046UZRNU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0046UZRNU&linkCode=as2&tag=chamaxwoo-20&linkId=MV5S3E6KR3C6A3IG) (Chuck)[Exploring ES6: Upgrade to the next version of JavaScript by Dr. Axel Rauschmayer](https://exploringjs.com/) (Derick)[Small World](https://www.daysofwonder.com/smallworld/en/) (Derick)[Star Wars Darth Bane Trilogy](https://www.amazon.com/gp/product/B009MYAQQS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009MYAQQS&linkCode=as2&tag=chamaxwoo-20&linkId=T4R6SBTEJOII6OQ3) (Derick)[LEGO Star Wars The Empire Strikes Back Slave I Set #75060](https://www.amazon.com/LEGO-Empire-Strikes-Slave-75060/dp/B00R1MSM82) (Derick)
 
 ### Transcript
 

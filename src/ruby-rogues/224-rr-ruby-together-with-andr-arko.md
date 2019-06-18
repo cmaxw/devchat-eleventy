@@ -12,18 +12,18 @@ tags:
   - podcast
 ---
 
-02:05 - André Arko Introduction + [Bundler](http://bundler.io/)
+02:05 - André Arko Introduction + [Bundler](https://bundler.io/)
 
 - [Twitter](https://twitter.com/indirect)
 - [GitHub](https://github.com/indirect)
-- [Blog](http://arko.net/)
+- [Blog](https://arko.net/)
 
 04:28 - [Ruby Together](https://rubytogether.org/)
 
-- [Trade Association](<http://www.irs.gov/Charities-&-Non-Profits/Other-Non-Profits/Life-Cycle-of-a-Business-League-(Trade-Association)>)
-  - [Brian Mikulencak](http://bmaustinlaw.com/)
+- [Trade Association](<https://www.irs.gov/Charities-&-Non-Profits/Other-Non-Profits/Life-Cycle-of-a-Business-League-(Trade-Association)>)
+  - [Brian Mikulencak](https://bmaustinlaw.com/)
 
-10:52 - [Ruby Central](http://rubycentral.org/)
+10:52 - [Ruby Central](https://rubycentral.org/)
 
 - [501(c) Organization](<https://en.wikipedia.org/wiki/501(c)_organization>)
 
@@ -62,7 +62,7 @@ tags:
 
 Picks
 
-[Boundaries: A talk by Gary Bernhardt from SCNA 2012](https://www.destroyallsoftware.com/talks/boundaries) (André)[The Protomen](http://protomen.com) (André)[Bubblesort Zines](http://shop.bubblesort.io/pages/about-us) (André)[Don't Make Me Think: A Common Sense Approach to Web Usability by Steve Krug](http://www.amazon.com/gp/product/0321344758/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321344758&linkCode=as2&tag=chamaxwoo-20&linkId=USOILGUU377VDBXP) (Saron)[F.lux](https://justgetflux.com/) (Saron)[Hue](http://www2.meethue.com/) (Saron)[Madison Ruby Day 1](https://www.youtube.com/watch?v=DcY0Quurc0c) (Coraline)[Madison Ruby Day 2](https://www.youtube.com/watch?v=aQnQgOR2mms) (Coraline)[Survive Escape From Atlantis 30th Anniversary Edition](http://www.amazon.com/gp/product/B0084M8UE4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0084M8UE4&linkCode=as2&tag=chamaxwoo-20&linkId=SXUREFHJOGGGZ2U4) (Coraline)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[React Rally](http://www.reactrally.com/) (Chuck)[Alcatraz Books by Brandon Sanderson](http://www.amazon.com/gp/product/B007ZXK1TU) (Chuck)
+[Boundaries: A talk by Gary Bernhardt from SCNA 2012](https://www.destroyallsoftware.com/talks/boundaries) (André)[The Protomen](https://protomen.com) (André)[Bubblesort Zines](https://shop.bubblesort.io/pages/about-us) (André)[Don't Make Me Think: A Common Sense Approach to Web Usability by Steve Krug](https://www.amazon.com/gp/product/0321344758/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321344758&linkCode=as2&tag=chamaxwoo-20&linkId=USOILGUU377VDBXP) (Saron)[F.lux](https://justgetflux.com/) (Saron)[Hue](https://www2.meethue.com/) (Saron)[Madison Ruby Day 1](https://www.youtube.com/watch?v=DcY0Quurc0c) (Coraline)[Madison Ruby Day 2](https://www.youtube.com/watch?v=aQnQgOR2mms) (Coraline)[Survive Escape From Atlantis 30th Anniversary Edition](https://www.amazon.com/gp/product/B0084M8UE4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0084M8UE4&linkCode=as2&tag=chamaxwoo-20&linkId=SXUREFHJOGGGZ2U4) (Coraline)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[React Rally](https://www.reactrally.com/) (Chuck)[Alcatraz Books by Brandon Sanderson](https://www.amazon.com/gp/product/B007ZXK1TU) (Chuck)
 
 ### Transcript
 

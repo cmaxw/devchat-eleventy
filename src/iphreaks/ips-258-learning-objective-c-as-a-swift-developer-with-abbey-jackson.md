@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry&nbsp;](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry&nbsp;](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 **Panel:**
 - Andrew Madsen
@@ -28,7 +28,7 @@ In this episode of iPhreaks, the panel hosts Abbey Jackson, a senior software en
 
 - [Abbey's Twitter](https://twitter.com/earthabbey)
 - [Abbey's GitHub](https://github.com/abbeyjackson)
-- [Abbey's Website](http://abbeyjackson.ca)
+- [Abbey's Website](https://abbeyjackson.ca)
 - [https://www.facebook.com/DevChattv](https://www.facebook.com/DevChattv)
 
 ### **&nbsp;Picks**

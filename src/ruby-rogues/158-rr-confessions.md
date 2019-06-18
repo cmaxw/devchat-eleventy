@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-02:13 - [Midwest.io](http://www.midwest.io/) Conference Contest
+02:13 - [Midwest.io](https://www.midwest.io/) Conference Contest
 
 - #RRMidwest / [@midwestio](https://twitter.com/midwestio)
 
@@ -26,17 +26,17 @@ tags:
 
 29:30 - Long-Running Tests/Classes
 
-- [Avdi Grimm: Active Record Soup](http://devblog.avdi.org/2014/05/21/active-record-soup/)
+- [Avdi Grimm: Active Record Soup](https://devblog.avdi.org/2014/05/21/active-record-soup/)
 
 36:53 - Testing (Cont’d)
 
-- [Integration Tests Are a Scam](http://www.infoq.com/presentations/integration-tests-scam)
+- [Integration Tests Are a Scam](https://www.infoq.com/presentations/integration-tests-scam)
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

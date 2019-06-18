@@ -14,10 +14,10 @@ tags:
 
 1:50 - Introducing Torgeir Helgevold
 
-- [Blog](http://www.syntaxsuccess.com/)
+- [Blog](https://www.syntaxsuccess.com/)
 - [Github](https://github.com/thelgevold?tab=repositories)
 - [Twitter](https://twitter.com/helgevold)
-  3:05 - Defining and using Web Worker8:55 - Web Worker and value communication between threads15:05 - Booting an app in Web Worker vs a browser20:15 - Web Worker and mobile browsers23:55 - Reality and perception of running apps on mobile devices29:00 - Multi-threading and Web Workers **Picks:** [Angular NgModule Doc](https://angular.io/docs/ts/latest/guide/ngmodule.html) (John)[Tinker Crate](http://tinker.kiwicrate.com/) (John)[Angular 2 Router by Victor Savkin](https://leanpub.com/router) (Lukas)[“Out of the Tar Pit” by Ben Moseley and Peter Marks](http://shaffner.us/cs/papers/tarpit.pdf) (Lukas)[_Hardcore Henry_](http://www.imdb.com/title/tt3072482/) (Joe)[Vid Angel](https://www.vidangel.com/) (Joe)[Angular 2 Class](http://ftlauderdale.ng-learn.com) with John Papa and Dan Wahlin. Use code “AIA” for \$200 off registration (Joe)[Angular 2 Gitter chat](https://gitter.im/angular/angular) (Tor)
+  3:05 - Defining and using Web Worker8:55 - Web Worker and value communication between threads15:05 - Booting an app in Web Worker vs a browser20:15 - Web Worker and mobile browsers23:55 - Reality and perception of running apps on mobile devices29:00 - Multi-threading and Web Workers **Picks:** [Angular NgModule Doc](https://angular.io/docs/ts/latest/guide/ngmodule.html) (John)[Tinker Crate](https://tinker.kiwicrate.com/) (John)[Angular 2 Router by Victor Savkin](https://leanpub.com/router) (Lukas)[“Out of the Tar Pit” by Ben Moseley and Peter Marks](https://shaffner.us/cs/papers/tarpit.pdf) (Lukas)[_Hardcore Henry_](https://www.imdb.com/title/tt3072482/) (Joe)[Vid Angel](https://www.vidangel.com/) (Joe)[Angular 2 Class](https://ftlauderdale.ng-learn.com) with John Papa and Dan Wahlin. Use code “AIA” for \$200 off registration (Joe)[Angular 2 Gitter chat](https://gitter.im/angular/angular) (Tor)
 
 ### Transcript
 

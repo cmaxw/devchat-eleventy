@@ -18,7 +18,7 @@ tags:
 
 03:47 - Definition
 
-- [Tammer Saleh: Angels and Daemons](http://de.slideshare.net/vishnu/angels-and-daemons)
+- [Tammer Saleh: Angels and Daemons](https://de.slideshare.net/vishnu/angels-and-daemons)
 
 04:48 - Sending signals to daemons
 
@@ -34,7 +34,7 @@ tags:
 
 13:40 - Cron Job
 
-- [058 RR Book Club: Working with Unix Processes with Jesse Storimer](http://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/)
+- [058 RR Book Club: Working with Unix Processes with Jesse Storimer](https://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/)
 
 17:37 - Why the JVM isn’t good for running daemons
 
@@ -43,7 +43,7 @@ tags:
 
 20:18 - Daemonizing on a Windows system
 
-- [Win32Utils - Ruby Libraries for MS Windows](http://win32utils.rubyforge.org/)
+- [Win32Utils - Ruby Libraries for MS Windows](https://win32utils.rubyforge.org/)
 - [win32-service](https://github.com/djberg96/win32-service)
 
 21:53 - Getting daemons to start up when the server starts
@@ -63,8 +63,8 @@ tags:
 32:54 - Communicating with daemons
 
 - [blather](https://github.com/adhearsion/blather)
-- [AMQP](http://www.amqp.org/)
-- [mkfifo](http://linux.die.net/man/1/mkfifo)
+- [AMQP](https://www.amqp.org/)
+- [mkfifo](https://linux.die.net/man/1/mkfifo)
 
 36:29 - Deployment cycle for daemons
 
@@ -72,7 +72,7 @@ tags:
 
 40:11 - Sharing Code
 
-- [SIGTERM VS. SIGKILL](http://major.io/2010/03/18/sigterm-vs-sigkill/)
+- [SIGTERM VS. SIGKILL](https://major.io/2010/03/18/sigterm-vs-sigkill/)
 
 48:51 - What do you put in the payload of the jobs?
 
@@ -80,7 +80,7 @@ tags:
 
 53:23 - Knowing when something goes wrong
 
-- [Exceptional Ruby by Avdi Grimm](http://exceptionalruby.com/)
+- [Exceptional Ruby by Avdi Grimm](https://exceptionalruby.com/)
 - [zero-zero](https://github.com/avdi/zero-zero)
 - [safely](https://github.com/kennethkalmer/safely)
 

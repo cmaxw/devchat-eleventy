@@ -20,7 +20,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) and
 
 - [Twitter](https://twitter.com/robwormald)
 - [GitHub](https://github.com/robwormald)
-- [Blog](http://www.roblog.io/)
+- [Blog](https://www.roblog.io/)
 
 02:53 - How [redux](https://github.com/rackt/redux) Works and How it Works in the Context of Angular 2
 
@@ -40,16 +40,16 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) and
 
 18:12 - Application Logic and Testing
 
-- [André Staltz](http://staltz.com/)
-  - [Why React/Redux is an Inferior Paradigm](http://staltz.com/why-react-redux-is-an-inferior-paradigm.html)
-  - [Cycle.js](http://cycle.js.org/)
-  - [The Elm Programming Language](http://elm-lang.org/)
+- [André Staltz](https://staltz.com/)
+  - [Why React/Redux is an Inferior Paradigm](https://staltz.com/why-react-redux-is-an-inferior-paradigm.html)
+  - [Cycle.js](https://cycle.js.org/)
+  - [The Elm Programming Language](https://elm-lang.org/)
   - [[egghead.io] Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals)
   - [flux-challenge](https://github.com/staltz/flux-challenge)
 
 29:21 - Mixing redux and [RxJS](https://github.com/Reactive-Extensions/RxJS)
 
-- [Victor Savkin: Managing State in Angular 2 Applications](http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications)
+- [Victor Savkin: Managing State in Angular 2 Applications](https://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications)
 - [ngrx/store](https://github.com/ngrx/store)
 
 31:12 - Resources/Code Examples
@@ -64,7 +64,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) and
 
 47:28 - RxJS 5 and Getting StartedPicks
 
-[iZombie](http://www.imdb.com/title/tt3501584/) (Joe)[Malcolm in the Middle](http://www.imdb.com/title/tt0212671/) (Joe)[[egghead.io] Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) (Lukas)[Pilot G-Tec-C Gel Rolling Ball Pens](http://www.amazon.com/gp/product/B0058NNAG0) (Lukas)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[React Remote Conf](https://allremoteconfs.com/react-2016) (Chuck)[NG-NL](http://ng-nl.org/) (Chuck)[RushMyPassport](https://www.rushmypassport.com/) (Chuck)[Mogo Portable Seat](http://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00) (Chuck)[Occupied](http://www.imdb.com/title/tt4192998/) (Rob)[[egghead.io] Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) (Rob)[[egghead.io] Dan Abramov: Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) (Rob)[Angular 2 Gitter Channel](https://gitter.im/angular/angular) (Rob)
+[iZombie](https://www.imdb.com/title/tt3501584/) (Joe)[Malcolm in the Middle](https://www.imdb.com/title/tt0212671/) (Joe)[[egghead.io] Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) (Lukas)[Pilot G-Tec-C Gel Rolling Ball Pens](https://www.amazon.com/gp/product/B0058NNAG0) (Lukas)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[React Remote Conf](https://allremoteconfs.com/react-2016) (Chuck)[NG-NL](https://ng-nl.org/) (Chuck)[RushMyPassport](https://www.rushmypassport.com/) (Chuck)[Mogo Portable Seat](https://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00) (Chuck)[Occupied](https://www.imdb.com/title/tt4192998/) (Rob)[[egghead.io] Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) (Rob)[[egghead.io] Dan Abramov: Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) (Rob)[Angular 2 Gitter Channel](https://gitter.im/angular/angular) (Rob)
 
 ### Transcript
 

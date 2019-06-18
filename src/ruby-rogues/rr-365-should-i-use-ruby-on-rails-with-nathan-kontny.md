@@ -30,7 +30,7 @@ In this episode of Ruby Rogues, the panelists talk to Nathan Kontny about his vi
 - Engineer for Obama’s re-election campaign
 - Created [Draft](https://draftin.com/)
 - Inkling using Rails
-- Worked ad [Y Combinator](http://www.ycombinator.com/)
+- Worked ad [Y Combinator](https://www.ycombinator.com/)
 - Chose [Rails](https://rubyonrails.org/) to create startups
 - Lives are better when people feel like they’re being heard
 - [_The Five Dysfunctions of a Team_ by Patrick Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
@@ -51,7 +51,7 @@ In this episode of Ruby Rogues, the panelists talk to Nathan Kontny about his vi
 - [Rails](https://rubyonrails.org/)
 - [_Should I use Ruby on Rails?_](https://www.youtube.com/watch?v=5PCF6Mijshw)
 - [Highrise](https://highrisehq.com/)
-- [Y Combinator](http://www.ycombinator.com/)
+- [Y Combinator](https://www.ycombinator.com/)
 - [Draft](https://draftin.com/)
 - [_The Five Dysfunctions of a Team_ by Patrick Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
 - [Django](https://www.djangoproject.com/)

@@ -45,8 +45,8 @@ A fun conversation about how to lazy load Angular modules with Juri Strumpflohne
 - <u>John Wick: Chapter 3 - Parabellum (2019) – IMDb</u>
 - <u><a href="https://www.imdb.com/title/tt2139881/">Long Shot (2019) - IMDb</a></u>
 **Brian Love:**
-- <u><a href="http://www.segway.com/products/consumer-lifestyle/es1-kickscooter">Ninebot KickScooter by Segway</a> </u>
-- <u><a href="http://www.segway.com/products/consumer-lifestyle/es1-kickscooter">Ninebot KickScooter by Segway ES1</a></u>
+- <u><a href="https://www.segway.com/products/consumer-lifestyle/es1-kickscooter">Ninebot KickScooter by Segway</a> </u>
+- <u><a href="https://www.segway.com/products/consumer-lifestyle/es1-kickscooter">Ninebot KickScooter by Segway ES1</a></u>
 - <u>Joe Eames </u>
 **Joe Eames:**
 - <u>Star Wars: A New Hope Symphony Orchestra </u>

@@ -16,23 +16,23 @@ tags:
 
 - [Twitter](https://twitter.com/mdibernardo)
 - [GitHub](https://github.com/MichaelDiBernardo)
-- [Blog](http://mikedebo.ca/)
+- [Blog](https://mikedebo.ca/)
 - [Wave](https://www.waveapps.com/payments/)
-  02:27 - [The Architecture of Open Source Applications Series](http://aosabook.org/en/index.html)08:24 - Demonstrating Concepts in 500 Lines of Code12:24 - Why Open Source?
-- [Patterns of Enterprise Application Architecture by Martin Fowler](http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+  02:27 - [The Architecture of Open Source Applications Series](https://aosabook.org/en/index.html)08:24 - Demonstrating Concepts in 500 Lines of Code12:24 - Why Open Source?
+- [Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
   14:20 - Lessons Learned19:05 - Communication Issues22:41 - Reuse
-- [Udi Dahan: The Fallacy Of ReUse](http://udidahan.com/2009/06/07/the-fallacy-of-reuse/)
+- [Udi Dahan: The Fallacy Of ReUse](https://udidahan.com/2009/06/07/the-fallacy-of-reuse/)
   28:52 - What should people gain from the book?34:12 - How to Read a Book Like This (Retention)37:48 - Soft Skills
-- [Writing Excuses](http://www.writingexcuses.com/)
+- [Writing Excuses](https://www.writingexcuses.com/)
   &nbsp;Picks
-- [Udi Dahan: The Fallacy Of ReUse](http://udidahan.com/2009/06/07/the-fallacy-of-reuse/) (David)
-- [Dan Luu: Normalization of deviance in software: how broken practices become standard](http://danluu.com/wat/) (David)
-- [A Mind of Its Own: How Your Brain Distorts and Deceives by Cordelia Fine](http://www.amazon.com/Mind-Its-Own-Distorts-Deceives/dp/0393331636) (Avdi)
+- [Udi Dahan: The Fallacy Of ReUse](https://udidahan.com/2009/06/07/the-fallacy-of-reuse/) (David)
+- [Dan Luu: Normalization of deviance in software: how broken practices become standard](https://danluu.com/wat/) (David)
+- [A Mind of Its Own: How Your Brain Distorts and Deceives by Cordelia Fine](https://www.amazon.com/Mind-Its-Own-Distorts-Deceives/dp/0393331636) (Avdi)
 - [HolloLens](https://www.microsoft.com/microsoft-hololens/en-us) Demo (Chuck)
-- [Build a Raspberry Pi-Powered DIY Amazon Echo](http://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229) (Chuck)
+- [Build a Raspberry Pi-Powered DIY Amazon Echo](https://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229) (Chuck)
 - [How Buildings Learn: What Happens After They're Built by Stewart Brand](https://www.amazon.ca/How-Buildings-Learn-Happens-Theyre/dp/0140139966) (Michael)
 - [How Learning Works: Seven Research-Based Principles for Smart Teaching](https://www.amazon.ca/How-Learning-Works-Research-Based-Principles/dp/0470484101) (Michael)
-- [Writing Excuses](http://www.writingexcuses.com/) (Michael)
+- [Writing Excuses](https://www.writingexcuses.com/) (Michael)
 
 ### Transcript
 

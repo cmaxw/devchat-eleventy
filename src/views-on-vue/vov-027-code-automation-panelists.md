@@ -109,20 +109,20 @@ In this episode, the panel talks about code automation, generators, and other to
 - [GitHub](https://github.com)
 - [Kendo UI](https://www.telerik.com/kendo-angular-ui/?utm_medium=cpm&utm_source=adventuresinng&utm_campaign=dt-kendo-ang2-nov16&utm_content=audio)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 
 **Sponsors:**
 
 - [Kendo UI](https://www.telerik.com/kendo-angular-ui/?utm_medium=cpm&utm_source=adventuresinng&utm_campaign=dt-kendo-ang2-nov16&utm_content=audio)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 
 **Picks:**
 
 Divya
 
 - [Sci-Fi Book: Lewis’ Out of the Silent Planet](https://www.amazon.com/Silent-Planet-Space-Trilogy-Paperback/dp/0743234901)
-- [N.K. Jemisin – author](http://nkjemisin.com)
+- [N.K. Jemisin – author](https://nkjemisin.com)
 - [ToDoIst App](https://en.todoist.com)
 
 Chris

@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-### 01:51 - Open Source Licenses 02:14 - Chris and Jeremy Introduction 03:35 - [Ruby Nuby Challenge](http://rubyrogues.com/ruby-nuby-project/) 05:09 - Best of Parley
+### 01:51 - Open Source Licenses 02:14 - Chris and Jeremy Introduction 03:35 - [Ruby Nuby Challenge](https://rubyrogues.com/ruby-nuby-project/) 05:09 - Best of Parley
 
 - Object Initialization and Construction Thread
   06:03 - Rogues Golf Winners
@@ -30,45 +30,45 @@ Erik Michaels-Ober: [@sferik](https://twitter.com/sferik)
 
 -
 
-[OpenBSD](http://www.openbsd.org/policy.html)
+[OpenBSD](https://www.openbsd.org/policy.html)
 
 -
 
-[WTFPL](http://en.wikipedia.org/wiki/WTFPL)
+[WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 
-13:17 - [Intellectual Property Law](http://www.alllaw.com/topics/intellectual_property)
+13:17 - [Intellectual Property Law](https://www.alllaw.com/topics/intellectual_property)
 
-13:40 - [Public Domain](http://en.wikipedia.org/wiki/Public_domain)
+13:40 - [Public Domain](https://en.wikipedia.org/wiki/Public_domain)
 
 16:21 - Licenses (cont’d)
 
 -
 
-[GPL](http://www.gnu.org/licenses/gpl.html)
+[GPL](https://www.gnu.org/licenses/gpl.html)
 
 -
 
-[AGPL](http://en.wikipedia.org/wiki/Affero_General_Public_License)
+[AGPL](https://en.wikipedia.org/wiki/Affero_General_Public_License)
 
 18:36 - Distribution clauses
 
-19:30 - [MongoDB](http://www.mongodb.org/)
+19:30 - [MongoDB](https://www.mongodb.org/)
 
-22:00 - [Dual Licensing](http://en.wikipedia.org/wiki/Multi-licensing)
+22:00 - [Dual Licensing](https://en.wikipedia.org/wiki/Multi-licensing)
 
 23:20 - relicensing
 
-24:33 - [The Fedora Project](http://fedoraproject.org/)
+24:33 - [The Fedora Project](https://fedoraproject.org/)
 
-25:17 - [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+25:17 - [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 
-28:40 - [Free as in Freedom oggcast](http://faif.us/)
+28:40 - [Free as in Freedom oggcast](https://faif.us/)
 
 35:00 - Meaning of “affero”
 
-36:52 - [Apache license](http://www.apache.org/licenses/LICENSE-2.0.html)
+36:52 - [Apache license](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-37:36 - [Creative Commons Licensing](http://creativecommons.org/licenses/)
+37:36 - [Creative Commons Licensing](https://creativecommons.org/licenses/)
 
 39:13 - Problematic licenses
 
@@ -78,7 +78,7 @@ Patents
 
 -
 
-[Reciprocal License](http://en.wikipedia.org/wiki/Reciprocal_Public_License)
+[Reciprocal License](https://en.wikipedia.org/wiki/Reciprocal_Public_License)
 
 43:36 - Patent trolling
 

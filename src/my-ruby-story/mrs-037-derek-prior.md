@@ -26,12 +26,12 @@ This week on My Ruby Story, Charles talks to Derek Prior. Derek speaks at confer
 - Apple IIGS as first computer
 - Prodigy and AOL
 - [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic)
-- Basic and [Pascal](http://www.pascal-programming.info/index.php)
+- Basic and [Pascal](https://www.pascal-programming.info/index.php)
 - How did you get into being a full-time developer?
 - IBM and Microsoft internships in college
 - Learned [Java](https://java.com/en/download/) in college
 - How did you find [Ruby](https://www.ruby-lang.org/en/)?
-- [Ruby on Rails](http://rubyonrails.org/)
+- [Ruby on Rails](https://rubyonrails.org/)
 - How he found [Thought Bot](https://thoughtbot.com/)
 - Development skills took off at Thought Bot
 - Likes to stay at a job for a long time
@@ -46,9 +46,9 @@ This week on My Ruby Story, Charles talks to Derek Prior. Derek speaks at confer
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Thought Bot](https://thoughtbot.com/)
 - [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic)
-- [Pascal](http://www.pascal-programming.info/index.php)
+- [Pascal](https://www.pascal-programming.info/index.php)
 - [Java](https://java.com/en/download/)
-- [Rails](http://rubyonrails.org/)
+- [Rails](https://rubyonrails.org/)
 - [@DerekPrior](https://twitter.com/derekprior?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Derek’s GitHub](https://github.com/derekprior)
 
@@ -57,7 +57,7 @@ This week on My Ruby Story, Charles talks to Derek Prior. Derek speaks at confer
 Charles
 
 - [Ruby Dev Summit](https://rubydevsummit.com/)
-- [Ruby Hack](http://rubyhack.com/)
+- [Ruby Hack](https://rubyhack.com/)
 
 Derek
 

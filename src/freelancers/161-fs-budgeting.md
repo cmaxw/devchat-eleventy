@@ -22,10 +22,10 @@ tags:
 
 14:47 - Approaching a Budget
 
-- [YNAB Features (Desktop)](http://www.youneedabudget.com/features)
-- [YNAB for iPhone](http://www.youneedabudget.com/features/iphone)
-- [YNAB for iPad](http://www.youneedabudget.com/features/ipad)
-- [YNAB for Android](http://www.youneedabudget.com/features/android)
+- [YNAB Features (Desktop)](https://www.youneedabudget.com/features)
+- [YNAB for iPhone](https://www.youneedabudget.com/features/iphone)
+- [YNAB for iPad](https://www.youneedabudget.com/features/ipad)
+- [YNAB for Android](https://www.youneedabudget.com/features/android)
 
 21:31 - Keeping Up a Budget (Discipline)
 
@@ -39,7 +39,7 @@ tags:
 
 46:19 - Expense Division?
 
-- [Dave Ramsey](http://www.daveramsey.com/)
+- [Dave Ramsey](https://www.daveramsey.com/)
 
 54:15 - Getting Started
 
@@ -47,7 +47,7 @@ tags:
 
 55:56 - Default Questions
 
-- [Cash Flow Statement](http://www.accountingcoach.com/cash-flow-statement/explanation)
+- [Cash Flow Statement](https://www.accountingcoach.com/cash-flow-statement/explanation)
 - Is it worth it?
 - Do I have enough extra to invest?
 
@@ -56,7 +56,7 @@ tags:
 - Using [PayPal](https://www.paypal.com/)
   Picks
 
-[The Positioning Manual for Technical Firms by Philip Morgan](http://thepositioningmanual.com) (Jonathan)[Econtalk](http://www.econtalk.org/archives/2015/06/adam_davidson_o_1.html) (Reuven)[Blair Enns: 5 Reasons You Should Offer Guarantees](https://www.winwithoutpitching.com/offering-guarantees/) (Eric)[YNAB](https://purchase.youneedabudget.com/) (Chuck)[Serial Podcast](http://serialpodcast.org/) (Chuck)[Startups For the Rest of Us](http://www.startupsfortherestofus.com/) (Chuck)[Aftershokz AS500 Bluez 2 Open Ear Wireless Stereo Headphones](http://www.amazon.com/gp/product/B00JO9Y176/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JO9Y176&linkCode=as2&tag=chamaxwoo-20&linkId=6IU64QTXEE3TXRDI) (Chuck)
+[The Positioning Manual for Technical Firms by Philip Morgan](https://thepositioningmanual.com) (Jonathan)[Econtalk](https://www.econtalk.org/archives/2015/06/adam_davidson_o_1.html) (Reuven)[Blair Enns: 5 Reasons You Should Offer Guarantees](https://www.winwithoutpitching.com/offering-guarantees/) (Eric)[YNAB](https://purchase.youneedabudget.com/) (Chuck)[Serial Podcast](https://serialpodcast.org/) (Chuck)[Startups For the Rest of Us](https://www.startupsfortherestofus.com/) (Chuck)[Aftershokz AS500 Bluez 2 Open Ear Wireless Stereo Headphones](https://www.amazon.com/gp/product/B00JO9Y176/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JO9Y176&linkCode=as2&tag=chamaxwoo-20&linkId=6IU64QTXEE3TXRDI) (Chuck)
 
 ### Transcript
 

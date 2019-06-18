@@ -19,7 +19,7 @@ tags:
 
 **Special Guests:** Aaron Sumner
 
-In this episode of Ruby Rogues, the panel discusses removing business logic from Rails controllers with Aaron Sumner. Aaron is a long time Ruby developer, using mostly [Rails](http://rubyonrails.org/), writes a blog called [Everyday Rails](https://everydayrails.com/), and most people know him from his book, [_Everyday Rails Testing with RSpec: A practical approach to test-driven development_](https://www.amazon.com/Everyday-Rails-Testing-RSpec-test-driven-ebook/dp/B077S8QCG2)_._ They discuss service objects, the pros and cons of using them, and they emphasize not trying to change something all at once, but gradually.
+In this episode of Ruby Rogues, the panel discusses removing business logic from Rails controllers with Aaron Sumner. Aaron is a long time Ruby developer, using mostly [Rails](https://rubyonrails.org/), writes a blog called [Everyday Rails](https://everydayrails.com/), and most people know him from his book, [_Everyday Rails Testing with RSpec: A practical approach to test-driven development_](https://www.amazon.com/Everyday-Rails-Testing-RSpec-test-driven-ebook/dp/B077S8QCG2)_._ They discuss service objects, the pros and cons of using them, and they emphasize not trying to change something all at once, but gradually.
 
 **In particular, we dive pretty deep on:**
 
@@ -31,7 +31,7 @@ In this episode of Ruby Rogues, the panel discusses removing business logic from
 - Get the code out of the controllers and test it in more isolation
 - Service objects
 - Problem with a controller having a lot of business logic in it
-- [Rails](http://rubyonrails.org/)
+- [Rails](https://rubyonrails.org/)
 - Cons of service objects
 - Using a service object inside of a controller
 - Pros of service objects
@@ -46,7 +46,7 @@ In this episode of Ruby Rogues, the panel discusses removing business logic from
 
 - [Everyday Rails](https://everydayrails.com/)
 - [_Everyday Rails Testing with RSpec: A practical approach to test-driven development_](https://www.amazon.com/Everyday-Rails-Testing-RSpec-test-driven-ebook/dp/B077S8QCG2)
-- [Ruby on Rails](http://rubyonrails.org/)
+- [Ruby on Rails](https://rubyonrails.org/)
 - [@EverydayRails](https://twitter.com/everydayrails)
 - [Everyday Rails GitHub](https://github.com/everydayrails)
 - [Aaron@everydayrails.com](mailto:Aaron@everydayrails.com)
@@ -56,7 +56,7 @@ In this episode of Ruby Rogues, the panel discusses removing business logic from
 Charles
 
 - [_The 12 Week Year_ by Brian P. Moran and Michael Lennington](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234)
-- [RubyHACK Conference](http://rubyhack.com/)
+- [RubyHACK Conference](https://rubyhack.com/)
 
 David
 

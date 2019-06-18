@@ -15,9 +15,9 @@ tags:
 1:28: Tyler McGinnis Introduction
 
 - Sparrow
-- [React.js Program](http://www.reactjsprogram.com/)
+- [React.js Program](https://www.reactjsprogram.com/)
 - [Tyler’s website](https://tylermcginnis.com/)
-  2:15 [React Native](http://www.reactnative.com/)
+  2:15 [React Native](https://www.reactnative.com/)
 - CodePush
   4:37: Cross Network Frameworks11:20: The Experience of Going From iOS to Android
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -34,7 +34,7 @@ tags:
 
 ### Picks
 
-[_Cannery Row_](https://en.wikipedia.org/wiki/Cannery_Row_) by John Steinbeck (Jaim)[No Man’s Sky](http://www.no-mans-sky.com) (Layne)Remember the Titans (Charles)[Dan Abramov - Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs) (Tyler)[React.js](http://www.reactjsprogram.com/) (Tyler)
+[_Cannery Row_](https://en.wikipedia.org/wiki/Cannery_Row_) by John Steinbeck (Jaim)[No Man’s Sky](https://www.no-mans-sky.com) (Layne)Remember the Titans (Charles)[Dan Abramov - Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs) (Tyler)[React.js](https://www.reactjsprogram.com/) (Tyler)
 
 ### Links:
 

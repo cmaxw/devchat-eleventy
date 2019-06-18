@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/troyhunt)
 - [GitHub](https://github.com/troyhunt)
-- [Blog](http://www.troyhunt.com/)
+- [Blog](https://www.troyhunt.com/)
 - [Troy Hunt's Pluralsight Courses](https://www.pluralsight.com/authors/troy-hunt)
 
 04:12 - Why should people care about security?
@@ -26,12 +26,12 @@ tags:
 09:47 - “Hacking”
 
 - [Social Engineering](<https://en.wikipedia.org/wiki/Social_engineering_(security)>)
-  - [BeEF](http://beefproject.com/)
+  - [BeEF](https://beefproject.com/)
 
 11:42 - Inventive “Hacks”
 
 - [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
-  - [sqlmap](http://sqlmap.org/)
+  - [sqlmap](https://sqlmap.org/)
 - [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet)
 
 13:24 - Motivation for Hacking/Can hacking be valuable?
@@ -45,7 +45,7 @@ tags:
 22:50 - Common Misconceptions
 
 - Password Storage
-  - [hashcat](http://hashcat.net/)
+  - [hashcat](https://hashcat.net/)
 - Encoding
 - Cookies
 
@@ -70,7 +70,7 @@ tags:
 
 51:36 - Cached DataPicks
 
-[awesome-react](https://github.com/enaqx/awesome-react) (Aimee)[Edsger W. Dijkstra Quotes](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra) (Jamison)[Sam Newman: Telstra, Human Error and Blame Culture](http://samnewman.io/blog/2016/02/10/telstra_outage/) (Jamison)[Infinite Jest by David Foster Wallace](http://www.amazon.com/Infinite-Jest-David-Foster-Wallace/dp/0316066524) (Jamison)[T.I.M.E Stories](https://boardgamegeek.com/boardgame/146508/time-stories) (Joe)[We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency Paperback by Parmy Olson](http://www.amazon.com/We-Are-Anonymous-LulzSec-Insurgency/dp/0316213527) (Troy)[The Have I been pwned Project](https://haveibeenpwned.com/) (Troy)
+[awesome-react](https://github.com/enaqx/awesome-react) (Aimee)[Edsger W. Dijkstra Quotes](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra) (Jamison)[Sam Newman: Telstra, Human Error and Blame Culture](https://samnewman.io/blog/2016/02/10/telstra_outage/) (Jamison)[Infinite Jest by David Foster Wallace](https://www.amazon.com/Infinite-Jest-David-Foster-Wallace/dp/0316066524) (Jamison)[T.I.M.E Stories](https://boardgamegeek.com/boardgame/146508/time-stories) (Joe)[We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency Paperback by Parmy Olson](https://www.amazon.com/We-Are-Anonymous-LulzSec-Insurgency/dp/0316213527) (Troy)[The Have I been pwned Project](https://haveibeenpwned.com/) (Troy)
 
 ### Transcript
 

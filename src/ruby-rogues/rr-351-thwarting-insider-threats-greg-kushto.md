@@ -18,7 +18,7 @@ tags:
 - Dave Kimura
 - Brian Hogan
 - Eric Berry
-  **Special Guests:** Greg Kushto In this episode of Ruby Rogues, the panel discusses how to thwart insider threats with Greg Kushto. Greg is the vice president of sales engineering and security at [Force 3](http://www.force3.com/). Greg talks about how it is a team effort to uphold information security in a company, especially insider threats. He got started with computer security when he worked at a helpdesk and then moved his way up to making it his full-time career. This episode is great for understanding insider threats, both what they are and how to prevent them. **In particular, we dive pretty deep on:**
+  **Special Guests:** Greg Kushto In this episode of Ruby Rogues, the panel discusses how to thwart insider threats with Greg Kushto. Greg is the vice president of sales engineering and security at [Force 3](https://www.force3.com/). Greg talks about how it is a team effort to uphold information security in a company, especially insider threats. He got started with computer security when he worked at a helpdesk and then moved his way up to making it his full-time career. This episode is great for understanding insider threats, both what they are and how to prevent them. **In particular, we dive pretty deep on:**
 - What are insider threats?
 - Malicious or unaware intent
 - Team approach to thwart insider threats
@@ -40,15 +40,15 @@ tags:
 - And much, much more!
   **Links:&nbsp;**
 - [Linode](https://promo.linode.com/rubyrogues/)
-- [Force 3](http://www.force3.com/)
+- [Force 3](https://www.force3.com/)
 - [Interview Cake](https://www.interviewcake.com/?utm_source=rubyrogues)
 - [FreshBooks](https://www.freshbooks.com/invoice?ref=11731&utm_source=pbm&utm_medium=affiliate-program&utm_influencer=419364&utm_campaign=podcast-influencers)
 - [@Greg_Kushto](https://twitter.com/greg_kushto?lang=en)
-- [Greg’s Blog](http://force3.com/blog/new-security-director-greg-kushto-profile-2/)
+- [Greg’s Blog](https://force3.com/blog/new-security-director-greg-kushto-profile-2/)
   **Picks:** Charles
 - [Apple AirPods](https://www.apple.com/airpods/)
 - [ATR2100 Mic](https://www.amazon.com/Audio-Technica-ATR2100-USB-Cardioid-Dynamic-Microphone/dp/B004QJOZS4)
-- [Ecamm Call Recorder](http://www.ecamm.com/mac/callrecorder/)
+- [Ecamm Call Recorder](https://www.ecamm.com/mac/callrecorder/)
 - [Upside](https://upside.com/travel)
   Dave
 - [Auxbeam LED Headlights](https://www.auxbeam.com/)

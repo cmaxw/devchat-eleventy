@@ -35,17 +35,17 @@ tags:
 - Relations
 - Code Generator
   •and much more! **Links: &nbsp;**
-- [http://amcdnl.com](http://amcdnl.com)
+- [https://amcdnl.com](https://amcdnl.com)
 - [Angular Air Podcast](https://angularair.com)
 - @amcdnl
-- [github.com/amcdnl](http://github.com/amcdnl)
+- [github.com/amcdnl](https://github.com/amcdnl)
 - [https://devchat.tv/adv-in-angular/aia-169-ngrx-entities-jesse-sanders](https://devchat.tv/adv-in-angular/aia-169-ngrx-entities-jesse-sanders)
 - https://github.com/amcdnl/ngrx-actions
   **Picks:\*\*** &nbsp;\*\*Charles
 - [Sling TV](https://www.sling.com)
 - [Roku Express](https://www.amazon.com/s/?ie=UTF8&keywords=roku+express+2017&tag=googhydr-20&index=aps&hvadid=224085350282&hvpos=1t3&hvnetw=g&hvrand=3924899451121389248&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028550&hvtargid=aud-397161105788:kwd-372220472105&ref=pd_sl_6rqw9dpzz1_b)
   Alyssa
-- [My Fitness Pal](http://My%20Fitness%20Pal)
+- [My Fitness Pal](https://My%20Fitness%20Pal)
 - [DropBox Paper](https://www.dropbox.com/paper)
   Ward
 - [Last Pencil Factory](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html)
@@ -57,7 +57,7 @@ tags:
 - [Workflowy](https://workflowy.com)
 - Karma Maca Reporter
   Austin
-- [Apollo Graph QL&nbsp;](http://Apollo%20Graph%20QL)
+- [Apollo Graph QL&nbsp;](https://Apollo%20Graph%20QL)
 - [StoryBook&nbsp;](https://storybook.js.org)
 
 ### Transcript

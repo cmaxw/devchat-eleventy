@@ -21,16 +21,16 @@ tags:
 - Building a machine learning system for different kind of tasks or applications
 - Decide on a side project and completing a side project
   Links:
-- [Marc-André Cournoyer](http://macournoyer.com)
-- [The Great Code Club](http://www.greatcodeclub.com)
-- [CoreLogic](http://www.corelogic.com)
-- [twitter.com/macournoyer](http://twitter.com/macournoyer)
-- [Thin Web Server&nbsp;](http://code.macournoyer.com/thin/)
-- [TinyRB](http://code.macournoyer.com/tinyrb/)
-- [Create your own Programming Language](http://createyourproglang.com)
-- [http://refactormycode.com](http://refactormycode.com)
-- [http://talkerapp.com](http://talkerapp.com)
-- [CodedInc](http://codedinc.com)
+- [Marc-André Cournoyer](https://macournoyer.com)
+- [The Great Code Club](https://www.greatcodeclub.com)
+- [CoreLogic](https://www.corelogic.com)
+- [twitter.com/macournoyer](https://twitter.com/macournoyer)
+- [Thin Web Server&nbsp;](https://code.macournoyer.com/thin/)
+- [TinyRB](https://code.macournoyer.com/tinyrb/)
+- [Create your own Programming Language](https://createyourproglang.com)
+- [https://refactormycode.com](https://refactormycode.com)
+- [https://talkerapp.com](https://talkerapp.com)
+- [CodedInc](https://codedinc.com)
   Picks: Eric
 - [Code Sponsors](https://codesponsor.io)
   Dave
@@ -38,11 +38,11 @@ tags:
 - [Uninterruptible power supply](https://www.amazon.com/Computer-Uninterruptible-Power-Supply-Units/b?ie=UTF8&node=764572)
   Chuck
 - [Ruby Dev Summit](https://rubydevsummit.com)
-- [Home Depot&nbsp;](http://www.homedepot.com)
+- [Home Depot&nbsp;](https://www.homedepot.com)
 - [Mini-Excavators](https://www.unitedrentals.com/en/equipment/earthmoving-equipment/mini-excavators)
 - [Data Skeptic Podcast&nbsp;](https://dataskeptic.com)
   Marc
 - [Rebuilding a Ruby Web Server from Scratch&nbsp;](https://confirmsubscription.com/h/y/52E53ED7FF30E314)
-- [Arxiv-Sanity](http://www.arxiv-sanity.com)
+- [Arxiv-Sanity](https://www.arxiv-sanity.com)
 
 ### Transcript

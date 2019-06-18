@@ -14,65 +14,65 @@ tags:
 
 01:07 - Tony’s Introduction
 
-- [LivingSocial](http://www.livingsocial.com/)
+- [LivingSocial](https://www.livingsocial.com/)
 - [Celluloid](https://github.com/celluloid/celluloid)
-  01:36 - Unofficial Rogue: [Adam Robbie](https://twitter.com/TheRealAdamRobb)01:54 - [Ruby Rogues Parley: Sign up via Stripe!&nbsp;](http://parley.rubyrogues.com/)02:32 - The History of Ruby’s Concurrency/Threading
-- [Green threads](http://en.wikipedia.org/wiki/Green_threads)
-- [New Relic](http://www.newrelic.com/)
-  08:49 - The Multiprocess Model 12:56 - Processes vs Threading 14:38 - Taking Better Advantage of Threading 15:38 - [The GIL (Global Interpreter Lock)](http://en.wikipedia.org/wiki/Global_Interpreter_Lock)
+  01:36 - Unofficial Rogue: [Adam Robbie](https://twitter.com/TheRealAdamRobb)01:54 - [Ruby Rogues Parley: Sign up via Stripe!&nbsp;](https://parley.rubyrogues.com/)02:32 - The History of Ruby’s Concurrency/Threading
+- [Green threads](https://en.wikipedia.org/wiki/Green_threads)
+- [New Relic](https://www.newrelic.com/)
+  08:49 - The Multiprocess Model 12:56 - Processes vs Threading 14:38 - Taking Better Advantage of Threading 15:38 - [The GIL (Global Interpreter Lock)](https://en.wikipedia.org/wiki/Global_Interpreter_Lock)
 -
 
-[YARV by Koichi Sasada](http://en.wikipedia.org/wiki/YARV)
-
--
-
-[JRuby.org](http://jruby.org/)
+[YARV by Koichi Sasada](https://en.wikipedia.org/wiki/YARV)
 
 -
 
-[Rubinius](http://rubini.us/)
+[JRuby.org](https://jruby.org/)
+
+-
+
+[Rubinius](https://rubini.us/)
 21:47 - [Celluloid](https://github.com/celluloid/celluloid)
 
 - Actor-Based Object-Oriented Concurrency
 -
 
-[Erlang](http://www.erlang.org/) & [Scala](http://www.scala-lang.org/)
+[Erlang](https://www.erlang.org/) & [Scala](https://www.scala-lang.org/)
 
 -
 
-[RubyConf 12 - The Celluloid Ecosystem by Tony Arcieri](http://confreaks.com/videos/1302-rubyconf2012-the-celluloid-ecosystem)
+[RubyConf 12 - The Celluloid Ecosystem by Tony Arcieri](https://confreaks.com/videos/1302-rubyconf2012-the-celluloid-ecosystem)
 
 -
 
-[Celluloid.io](http://celluloid.io/)
+[Celluloid.io](https://celluloid.io/)
 
 -
 
 [tarcieri/reeltalk](https://github.com/tarcieri/reeltalk)
 25:55 - Inter-Thread Communication 28:49 - Celluloid Starter Projects
 
-- [Dining philosophers problem](http://en.wikipedia.org/wiki/Dining_philosophers_problem)
+- [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 -
 
-[Cigarette smokers problem](http://en.wikipedia.org/wiki/Cigarette_smokers_problem)
-31:38 - [Celluloid](https://github.com/celluloid/celluloid) Competing with [node.js](http://nodejs.org/) and [Erlang](http://www.erlang.org/)
+[Cigarette smokers problem](https://en.wikipedia.org/wiki/Cigarette_smokers_problem)
+31:38 - [Celluloid](https://github.com/celluloid/celluloid) Competing with [node.js](https://nodejs.org/) and [Erlang](https://www.erlang.org/)
 
-- [Adhearsion](http://adhearsion.com/)
-- [Akka](http://akka.io/)
+- [Adhearsion](https://adhearsion.com/)
+- [Akka](https://akka.io/)
   33:25 - Projects using [Celluloid](https://github.com/celluloid/celluloid)
-- [Sidekiq](http://sidekiq.org/)
+- [Sidekiq](https://sidekiq.org/)
   34:34 - Using [Celluloid](https://github.com/celluloid/celluloid) in the Future
 - Peer-to-peer System
-  36:59 - [Rack](<http://en.wikipedia.org/wiki/Rack_(web_server_interface)>)39:02 - Helping to develop [Celluloid](https://github.com/celluloid/celluloid)
-- [Akka Typesafe Console](http://typesafe.com/products/console)
+  36:59 - [Rack](<https://en.wikipedia.org/wiki/Rack_(web_server_interface)>)39:02 - Helping to develop [Celluloid](https://github.com/celluloid/celluloid)
+- [Akka Typesafe Console](https://typesafe.com/products/console)
   41:02 - “Let it Crash” Philosophy 44:20 - Tips for Concurrent Programming
-- [VisualVM](http://visualvm.java.net/)
-- [Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors by Venkat Subramaniam](http://pragprog.com/book/vspcon/programming-concurrency-on-the-jvm)
+- [VisualVM](https://visualvm.java.net/)
+- [Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors by Venkat Subramaniam](https://pragprog.com/book/vspcon/programming-concurrency-on-the-jvm)
 - [Celluloid (Google Group)](https://groups.google.com/forum/?fromgroups#!forum/celluloid-ruby)
 
 ### Book Club
 
-[Patterns of Enterprise Application Architecture by Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420)
+[Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420)
 
 ### Next Week
 

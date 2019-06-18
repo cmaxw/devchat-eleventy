@@ -21,7 +21,7 @@ tags:
 
 **Special Guest:** [Miriam Suzanne](https://twitter.com/mirisuzanne?lang=en)
 
-In this episode, the panel talks with [Miriam Suzanne](https://twitter.com/mirisuzanne?lang=en) who is an author, performer, musician, designer, and web developer who works with [OddBird](http://oddbird.net/authors/miriam/), Teacup, Gorilla, Grapefruit Lab, and CSS Tricks. She’s the author of Riding SideSaddle and the Post-Obsolete Book, co-author of Jump Start Sass, and creator of the Susy and True Open-Source toolkits. The panel and the guest talk about Fonts!
+In this episode, the panel talks with [Miriam Suzanne](https://twitter.com/mirisuzanne?lang=en) who is an author, performer, musician, designer, and web developer who works with [OddBird](https://oddbird.net/authors/miriam/), Teacup, Gorilla, Grapefruit Lab, and CSS Tricks. She’s the author of Riding SideSaddle and the Post-Obsolete Book, co-author of Jump Start Sass, and creator of the Susy and True Open-Source toolkits. The panel and the guest talk about Fonts!
 
 **Show Topics:**
 
@@ -31,7 +31,7 @@ In this episode, the panel talks with [Miriam Suzanne](https://twitter.com/miris
 
 1:01 – Guest: I am a designer and a developer and started a business with my brother. We are two college dropouts.
 
-2:00 – Panel: Is that’s why it’s called [OddBird?](http://oddbird.net/authors/miriam/)
+2:00 – Panel: Is that’s why it’s called [OddBird?](https://oddbird.net/authors/miriam/)
 
 2:05 – Guest: Started with Vue and have been talking at conferences.
 
@@ -185,7 +185,7 @@ _The guest talks about collaborative writing._
 
 38:33 – Chuck: Picks! How do people find you?
 
-38:41 – Guest: [OddBird.net](http://oddbird.net) and [Twitter!](https://twitter.com/mirisuzanne?lang=en)
+38:41 – Guest: [OddBird.net](https://oddbird.net) and [Twitter!](https://twitter.com/mirisuzanne?lang=en)
 
 38:58 –[Advertisement – Fresh Books! DEVCHAT code. 30-day trial.](https://www.freshbooks.com/?ref=ppc-na-fb&camp=US%2528SEM%2529Branded%257CEXM&ag=%255Bfreshbooks%255D&kw=freshbooks&campaignid=717543354&adgroupid=51893696397&kwid=kwd-298507762065&dv=c&ntwk=g&crid=284659279616&source=GOOGLE&gclid=EAIaIQobChMI1uiA0Jas3gIVirrACh04fwTjEAAYASAAEgJxqvD_BwE&gclsrc=aw.ds)
 
@@ -195,7 +195,7 @@ _The guest talks about collaborative writing._
 - [React](https://reactjs.org)
 - [JavaScript](https://www.javascript.com)
 - [C#](https://www.tutorialspoint.com/csharp/)
-- [C++](http://www.cplusplus.com)
+- [C++](https://www.cplusplus.com)
 - [C++ Programming / Memory Management](https://en.wikibooks.org/wiki/C%252B%252B_Programming/Memory_Management)
 - [Angular](https://angular.io)
 - [Blazor](https://github.com/aspnet/Blazor)
@@ -208,7 +208,7 @@ _The guest talks about collaborative writing._
 - [FX](https://www.fxnetworks.com/shows/pose)
 - [Miriam’s Twitter](https://twitter.com/mirisuzanne?lang=en)
 - [Miriam’s Website](https://www.miriamsuzanne.com)
-- [OddBird](http://oddbird.net)
+- [OddBird](https://oddbird.net)
 
 **Sponsors:**
 
@@ -230,12 +230,12 @@ Joe
 John Papa
 
 - [How To Import a SASS file into every Vue Component in an App](https://css-tricks.com/how-to-import-a-sass-file-into-every-vue-component-in-an-app/)
-- [Real Talk JS Podcast](http://www.realtalkjs.com/)
+- [Real Talk JS Podcast](https://www.realtalkjs.com/)
 
 Erik
 
 - [AWS Amplify](https://aws-amplify.github.io)
-- [Doctor Who](http://www.bbcamerica.com/shows/doctor-who)
+- [Doctor Who](https://www.bbcamerica.com/shows/doctor-who)
 
 Charles
 

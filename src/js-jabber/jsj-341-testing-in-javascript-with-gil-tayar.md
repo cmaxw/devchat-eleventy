@@ -214,7 +214,7 @@ Charles
 Gil
 
 - [Cat Zero](https://www.amazon.com/Cat-Zero-Jennifer-Rohn/dp/1938463668)
-- [The Origin of Consciousness in the Breakdown of the Bicameral Mind](http://www.julianjaynes.org/bicameralmind.php)
+- [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://www.julianjaynes.org/bicameralmind.php)
 
 
 ### Transcript

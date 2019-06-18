@@ -12,20 +12,20 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
+Check out [RailsClips on Kickstarter](https://devchat.tv/kickstarter)!!
 
 &nbsp;00:58 - Andres Dominguez Introduction
 
 - [Twitter](https://twitter.com/andresdom)
 - [GitHub](https://github.com/andresdominguez)
-- [Blog](http://www.andresdominguez.com/)
+- [Blog](https://www.andresdominguez.com/)
 - Google: New York
 
 01:47 - [protractor](https://github.com/angular/protractor)
 
-- [Selenium WebDriver](http://docs.seleniumhq.org/projects/webdriver/)
+- [Selenium WebDriver](https://docs.seleniumhq.org/projects/webdriver/)
 - [WebDriverJs](https://code.google.com/p/selenium/wiki/WebDriverJs)
-- [JavaScript Jabber Episode #106: Protractor with Julie Ralph](http://devchat.tv/js-jabber/106-jsj-protractor-with-julie-ralph)
+- [JavaScript Jabber Episode #106: Protractor with Julie Ralph](https://devchat.tv/js-jabber/106-jsj-protractor-with-julie-ralph)
   - [Julie Ralph](https://twitter.com/SomeJulie)
 
 03:50 - [elementor](https://github.com/andresdominguez/elementor)
@@ -45,12 +45,12 @@ Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
 
 - Writing Tests
 - Text Editors
-  - [Sublime](http://www.sublimetext.com/)
-  - [vim](http://www.vim.org/)
+  - [Sublime](https://www.sublimetext.com/)
+  - [vim](https://www.vim.org/)
 
 12:42 - Implementing Elementor / Workflow
 
-- [TDD (Test-driven Development)](http://en.wikipedia.org/wiki/Test-driven_development)
+- [TDD (Test-driven Development)](https://en.wikipedia.org/wiki/Test-driven_development)
 
 14:39 - Testing a Non-Angular Website
 
@@ -58,7 +58,7 @@ Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
 
 - [Google Developer Tools](https://developer.chrome.com/devtools)
 
-18:45 - Running in [Emacs](http://www.gnu.org/software/emacs/)
+18:45 - Running in [Emacs](https://www.gnu.org/software/emacs/)
 
 19:47 - Plugins ([egghead.io)](https://egghead.io/)&nbsp; &nbsp;&nbsp;
 
@@ -69,7 +69,7 @@ Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
 
 Picks
 
-Open Space Events and Conferences (Joe)[<u>Miracles and Massacres: True and Untold Stories of the Making of America by Glenn Beck</u>](http://www.amazon.com/Miracles-Massacres-Untold-Stories-America/dp/1476771200) (Chuck)[<u>DevDocs</u>](http://devdocs.io/) (Andres)
+Open Space Events and Conferences (Joe)[<u>Miracles and Massacres: True and Untold Stories of the Making of America by Glenn Beck</u>](https://www.amazon.com/Miracles-Massacres-Untold-Stories-America/dp/1476771200) (Chuck)[<u>DevDocs</u>](https://devdocs.io/) (Andres)
 
 ### Transcript
 

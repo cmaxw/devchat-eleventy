@@ -13,11 +13,11 @@ tags:
 ---
 
 - Articles mentioned by James:
-  - [http://twitter.com/#!/rbates/status/105705683751669761](http://twitter.com/#!/rbates/status/105705683751669761)
-  - [http://twitter.com/#!/rbates/status/105706035548930048](http://twitter.com/#!/rbates/status/105706035548930048)
-  - [http://blog.steveklabnik.com/2011/09/22/extracting-domain-models-a-practical-example.html](http://blog.steveklabnik.com/2011/09/22/extracting-domain-models-a-practical-example.html)
-  - [http://blog.steveklabnik.com/2011/09/23/more-rstat-dot-us-refatoring.html](http://blog.steveklabnik.com/2011/09/23/more-rstat-dot-us-refatoring.html)
-- [Destroy All Software](http://destroyallsoftware.com/)
+  - [https://twitter.com/#!/rbates/status/105705683751669761](https://twitter.com/#!/rbates/status/105705683751669761)
+  - [https://twitter.com/#!/rbates/status/105706035548930048](https://twitter.com/#!/rbates/status/105706035548930048)
+  - [https://blog.steveklabnik.com/2011/09/22/extracting-domain-models-a-practical-example.html](https://blog.steveklabnik.com/2011/09/22/extracting-domain-models-a-practical-example.html)
+  - [https://blog.steveklabnik.com/2011/09/23/more-rstat-dot-us-refatoring.html](https://blog.steveklabnik.com/2011/09/23/more-rstat-dot-us-refatoring.html)
+- [Destroy All Software](https://destroyallsoftware.com/)
 - Cheating Multiple Inheritance
 - Namespacing
 - Mix-ins
@@ -26,8 +26,8 @@ tags:
 - ActiveRecord's create and create! methods
 - Code's primary purpose is the conversation it has with the reader
 - Put methods in a place where we can look at related methods together
-- [method_locator](http://rubygems.org/gems/method_locator)
-- [using](http://rubygems.org/gems/using)
+- [method_locator](https://rubygems.org/gems/method_locator)
+- [using](https://rubygems.org/gems/using)
 - Module included hook
 - include
 - extend

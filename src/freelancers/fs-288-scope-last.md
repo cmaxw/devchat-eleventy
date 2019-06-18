@@ -46,7 +46,7 @@ In this episode of the Freelancers’ Show, the panelists discuss pricing. They 
 Reuven
 
 - [“How China Is Changing Your Internet” NY Times Video](https://www.youtube.com/watch?v=VAesMQ6VtK8)
-- [_How To Set Up Alipay As a Foreigner_ by Sijia Chen](http://www.beijing-kids.com/blog/2015/07/08/how-to-set-up-alipay-as-a-foreigner/)
+- [_How To Set Up Alipay As a Foreigner_ by Sijia Chen](https://www.beijing-kids.com/blog/2015/07/08/how-to-set-up-alipay-as-a-foreigner/)
 
 Jonathan:
 

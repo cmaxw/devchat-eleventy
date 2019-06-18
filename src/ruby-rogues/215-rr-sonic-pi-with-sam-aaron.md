@@ -16,9 +16,9 @@ tags:
 
 - [Twitter](https://twitter.com/samaaron)
 - [GitHub](https://github.com/samaaron)
-- [Blog](http://sam.aaron.name/)
+- [Blog](https://sam.aaron.name/)
 
-10:53 - [Sonic Pi](http://sonic-pi.net) Defined
+10:53 - [Sonic Pi](https://sonic-pi.net) Defined
 
 - Affordable Creative Coding with Music
 
@@ -30,13 +30,13 @@ tags:
 
 - [Joseph Wilk: Programming as Performance @ Ruby Conf Australia 2015](https://rubyconf.eventer.com/rubyconf-australia-2015-1223/programming-as-performance-by-joseph-wilk-1733)
 
-34:07 - [Sonic Pi in the Classroom](http://sonic-pi.net/#teachers)
+34:07 - [Sonic Pi in the Classroom](https://sonic-pi.net/#teachers)
 
 36:22 - Threading
 
 - Cue and Sync
 
-41:18 - Choosing Ruby Over [Clojure](http://clojure.org/) for Sonic Pi
+41:18 - Choosing Ruby Over [Clojure](https://clojure.org/) for Sonic Pi
 
 44:13 - Sonic Pi Roadmap: What’s Next?
 
@@ -60,7 +60,7 @@ tags:
 - Effects
   Picks
 
-[Cate Huston: 5 Strategies For Making Progress on Side Projects](http://www.catehuston.com/blog/2014/04/25/5-strategies-for-making-progress-on-side-projects/) (Coraline)[TIS-100](http://www.zachtronics.com/tis-100/) (Coraline)[Building Microservices by Sam Newman](http://www.amazon.com/gp/product/1491950358/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491950358&linkCode=as2&tag=chamaxwoo-20&linkId=BLSFXJD2SBJC7ZYR) (David)[Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin](http://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=chamaxwoo-20&linkId=VCZFCPHIDBMVUPCE) (David)[[YouTube] Ben Eggett: Writing Music with Ruby: A Subtle Introduction to Music Theory @ MountainWest RubyConf 2015](http://www.youtube.com/watch?v=ZEgqzOkGJ7U) (Chuck)[Elixir](http://elixir-lang.org/) (Chuck)[Programming Elixir: Functional |\> Concurrent |\> Pragmatic |\> Fun by Dave Thomas](https://pragprog.com/book/elixir/programming-elixir) (Chuck)[Wabi-Sabi for Artists, Designers, Poets & Philosophers by Leonard Koren](http://www.amazon.com/gp/product/0981484603/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0981484603&linkCode=as2&tag=chamaxwoo-20&linkId=ZCN4BV5P2YYUACHZ) (Sam)[The Joy of Clojure by Michael Fogus](http://www.amazon.com/gp/product/1617291412/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617291412&linkCode=as2&tag=chamaxwoo-20&linkId=5OO337TFVWIFQDEQ) (Sam)[Raspberry Pi](https://www.raspberrypi.org/) (Sam)
+[Cate Huston: 5 Strategies For Making Progress on Side Projects](https://www.catehuston.com/blog/2014/04/25/5-strategies-for-making-progress-on-side-projects/) (Coraline)[TIS-100](https://www.zachtronics.com/tis-100/) (Coraline)[Building Microservices by Sam Newman](https://www.amazon.com/gp/product/1491950358/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491950358&linkCode=as2&tag=chamaxwoo-20&linkId=BLSFXJD2SBJC7ZYR) (David)[Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin](https://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=chamaxwoo-20&linkId=VCZFCPHIDBMVUPCE) (David)[[YouTube] Ben Eggett: Writing Music with Ruby: A Subtle Introduction to Music Theory @ MountainWest RubyConf 2015](https://www.youtube.com/watch?v=ZEgqzOkGJ7U) (Chuck)[Elixir](https://elixir-lang.org/) (Chuck)[Programming Elixir: Functional |\> Concurrent |\> Pragmatic |\> Fun by Dave Thomas](https://pragprog.com/book/elixir/programming-elixir) (Chuck)[Wabi-Sabi for Artists, Designers, Poets & Philosophers by Leonard Koren](https://www.amazon.com/gp/product/0981484603/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0981484603&linkCode=as2&tag=chamaxwoo-20&linkId=ZCN4BV5P2YYUACHZ) (Sam)[The Joy of Clojure by Michael Fogus](https://www.amazon.com/gp/product/1617291412/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617291412&linkCode=as2&tag=chamaxwoo-20&linkId=5OO337TFVWIFQDEQ) (Sam)[Raspberry Pi](https://www.raspberrypi.org/) (Sam)
 
 ### Transcript
 

@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)&nbsp;use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)&nbsp;use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 
 ### **Panelists:**
@@ -43,9 +43,9 @@ In this episode of the Freelancers' Show, the panel talks to&nbsp; Liston Wither
 - [30-Day Meditation Challenge • Kai Davis](https://kaidavis.com/challenge/meditation/)
 **Reuven Lerner:**
 - [Announcing a new course: Intro Python - Reuven Lerner](https://www.amazon.com/Nine-Pints-Journey-Medicine-Mysteries-ebook/)
-- [Weekly Python Exercise — Reuven Lerner](http://WeeklyPythonExercise.com)
+- [Weekly Python Exercise — Reuven Lerner](https://WeeklyPythonExercise.com)
 **Liston Witherill:**
-- [Notion](http://www.notion.so)
+- [Notion](https://www.notion.so)
 - [SalesIn30 - The Complete Course](https://learn.liston.io/salesin30-the-complete-course)
 - [Liston's Podcasts](https://liston.io/podcasts/)
 - [Consulting Sales Bootcamp](https://liston.io/consulting-sales-bootcamp-about-the-program/)

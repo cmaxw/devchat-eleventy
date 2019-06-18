@@ -14,7 +14,7 @@ tags:
 
 04:27 - The Skyscraper Technique
 
-- [BuzzSumo](http://buzzsumo.com/)
+- [BuzzSumo](https://buzzsumo.com/)
 
 11:05 - Impressive Examples of Teaching Activities; Increasing the Trust-O-Meter, and Opt-in Techniques
 
@@ -35,7 +35,7 @@ tags:
 
 Picks
 
-[Todo.txt](http://todotxt.com/) (Philip)[The Everyday Messenger by Peak Design](https://www.peakdesign.com/product/bags/the-everyday-messenger) (Jonathan)[Jonathan Stark: Public Speaking Tips For Consultants](https://expensiveproblem.com/public-speaking-tips-for-consultants) (Jonathan)[Better Than Before: What I Learned About Making and Breaking Habits--to Sleep More, Quit Sugar, Procrastinate Less, and Generally Build a Happier Life by Gretchen Rubin](http://www.amazon.com/gp/product/0385348630/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385348630&linkCode=as2&tag=chamaxwoo-20&linkId=4DWZZ5EH6UVJHLTH) (Reuven)
+[Todo.txt](https://todotxt.com/) (Philip)[The Everyday Messenger by Peak Design](https://www.peakdesign.com/product/bags/the-everyday-messenger) (Jonathan)[Jonathan Stark: Public Speaking Tips For Consultants](https://expensiveproblem.com/public-speaking-tips-for-consultants) (Jonathan)[Better Than Before: What I Learned About Making and Breaking Habits--to Sleep More, Quit Sugar, Procrastinate Less, and Generally Build a Happier Life by Gretchen Rubin](https://www.amazon.com/gp/product/0385348630/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385348630&linkCode=as2&tag=chamaxwoo-20&linkId=4DWZZ5EH6UVJHLTH) (Reuven)
 
 ### Transcript
 

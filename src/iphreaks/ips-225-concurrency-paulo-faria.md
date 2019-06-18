@@ -14,7 +14,7 @@ tags:
 
 **Panel:** Andrew Madsen Erica Sadun **Special Guests:** Paul Faria In today's episode, iPhreaks speaks with Paulo Faria. Paulo is based in Brazil and has been developing for the OSX platform since 2012. Also,&nbsp; Paulo mentions focusing on server side development and working in iOS and Android development. Paulo is the creator of Zewo and one of the first to work with server-side Swift. Paulo is on iPheaks to talks about Concurrency.&nbsp; Paul believes that concurrency is the missing feature to make it a true and mature ecosystem for server-side on Swift. **In particular, we dive pretty deep on:**
 
-- Zewo ([http://zewo.io](http://zewo.io))
+- Zewo ([https://zewo.io](https://zewo.io))
 - IBM
 - Grand Central Dispatch
 - Syncro-programming
@@ -40,7 +40,7 @@ tags:
   Paulo
 - [Incremental Swift](https://github.com/chriseidhof/incremental-simplified)
   Andrew:
-- [Iconic Book](http://iconicbook.com)
+- [Iconic Book](https://iconicbook.com)
 - [The Emerald Deep](https://www.kickstarter.com/projects/520692970/the-emerald-deep-an-animated-short-film)
 
 ### Transcript

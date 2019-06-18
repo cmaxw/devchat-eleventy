@@ -5,7 +5,7 @@ title: >
 date: 2017-03-17 05:00:25
 episode_number: BE1
 duration: 53:52
-audio_url: http://media.devchat.tv/js-jabber/JSJ_Special_Azure_Jonathan_Carter.mp3
+audio_url: https://media.devchat.tv/js-jabber/JSJ_Special_Azure_Jonathan_Carter.mp3
 podcast: js-jabber
 tags:
   - js_jabber
@@ -38,6 +38,6 @@ AJ: The Script band, Real Love book Joe: The Koi Boys band, NES&nbsp;classic Cor
 
 ## Links:
 
-[Microsoft Azure](https://azure.microsoft.com/en-us/?b=17.06),&nbsp;AzureOpenDev,&nbsp;[MEAN](http://mean.io/),&nbsp;AppService,&nbsp;[Kubernetes](https://kubernetes.io/),&nbsp;[Red Hat Linux](https://www.redhat.com/en),&nbsp;[Docker](https://www.docker.com/),&nbsp;MEAN stack,&nbsp;[MERN stack](http://mern.io/),&nbsp;[MongoDB](https://www.mongodb.com/),&nbsp;[DocumentDB](https://azure.microsoft.com/en-us/services/documentdb/),&nbsp;NVS,&nbsp;[Visual Studio Code](https://code.visualstudio.com/),&nbsp;[TypeScript](https://www.typescriptlang.org/)
+[Microsoft Azure](https://azure.microsoft.com/en-us/?b=17.06),&nbsp;AzureOpenDev,&nbsp;[MEAN](https://mean.io/),&nbsp;AppService,&nbsp;[Kubernetes](https://kubernetes.io/),&nbsp;[Red Hat Linux](https://www.redhat.com/en),&nbsp;[Docker](https://www.docker.com/),&nbsp;MEAN stack,&nbsp;[MERN stack](https://mern.io/),&nbsp;[MongoDB](https://www.mongodb.com/),&nbsp;[DocumentDB](https://azure.microsoft.com/en-us/services/documentdb/),&nbsp;NVS,&nbsp;[Visual Studio Code](https://code.visualstudio.com/),&nbsp;[TypeScript](https://www.typescriptlang.org/)
 
 ### Transcript

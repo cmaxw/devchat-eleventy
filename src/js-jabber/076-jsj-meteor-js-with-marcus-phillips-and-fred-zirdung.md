@@ -16,38 +16,38 @@ tags:
 
 - Marcus Phillips ([twitter](https://twitter.com/mracus) [github](https://github.com/marcusphillips))
 - Fred Zirdung ([twitter](https://twitter.com/fredzirdung) [github](https://github.com/fredx))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:30 - Marcus Phillips and Fred Zirdung Introduction
 
-- [Hack Reactor](http://hackreactor.com/)
-  03:31 - Experience with [Meteor](http://www.meteor.com/)05:45 - Intro to Meteor
+- [Hack Reactor](https://hackreactor.com/)
+  03:31 - Experience with [Meteor](https://www.meteor.com/)05:45 - Intro to Meteor
 - Client-side Environment
 - Tethered Queries
 - [minimongo](https://github.com/slacy/minimongo)
   09:56 - Websockets 11:29 - Deployment Support 14:51 - The Cloud 16:43 - Meteor and Server-side JavaScript Engines
-- [Meteor Devshop 7 - LIVE](http://www.youtube.com/watch?v=sx0VKmeUcl4&t=2h15m37s)
-  19:48 - Meteor and Windows 22:43 - Package Management System 23:49 - Building Meteor Apps 29:04 - Meteor Methods 33:02 - Open-Source Meteor Apps 34:15 - [Hack Reactor](http://hackreactor.com/)
+- [Meteor Devshop 7 - LIVE](https://www.youtube.com/watch?v=sx0VKmeUcl4&t=2h15m37s)
+  19:48 - Meteor and Windows 22:43 - Package Management System 23:49 - Building Meteor Apps 29:04 - Meteor Methods 33:02 - Open-Source Meteor Apps 34:15 - [Hack Reactor](https://hackreactor.com/)
 - Education
 - Training Developers
 - Removing Complexity
 
 ### Picks
 
-- [ng-conf](http://www.ng-conf.org/) (Joe)
-- [Ben Kamens: “Shipping Beats Perfection” Explained](http://bjk5.com/post/60760280107/shipping-beats-perfection-explained) (Jamison)
-- [Evan Goer: Writing for Developers — Some Rational Techniques](http://www.youtube.com/watch?v=3ZOmXKl4OhQ) (Jamison)
-- [BOXEN](http://boxen.github.com/) (Chuck)
-- [Book Yourself Solid Illustrated: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port](http://www.amazon.com/gp/product/111849542X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=111849542X&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [ng-conf](https://www.ng-conf.org/) (Joe)
+- [Ben Kamens: “Shipping Beats Perfection” Explained](https://bjk5.com/post/60760280107/shipping-beats-perfection-explained) (Jamison)
+- [Evan Goer: Writing for Developers — Some Rational Techniques](https://www.youtube.com/watch?v=3ZOmXKl4OhQ) (Jamison)
+- [BOXEN](https://boxen.github.com/) (Chuck)
+- [Book Yourself Solid Illustrated: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port](https://www.amazon.com/gp/product/111849542X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=111849542X&linkCode=as2&tag=chamaxwoo-20) (Chuck)
 - [meteor / packages / deps / deps.js](https://github.com/meteor/meteor/blob/devel/packages/deps/deps.js) (Marcus)
-- [Underscoreboard](http://underscoreboard.com/) (Marcus)
-- [actionHero.js](http://actionherojs.com/) (Fred)
-- [Satellite](http://satellite-game.github.io/) (Fred)
-- [Tilden](http://tildenapp.com/#/) (Fred)
+- [Underscoreboard](https://underscoreboard.com/) (Marcus)
+- [actionHero.js](https://actionherojs.com/) (Fred)
+- [Satellite](https://satellite-game.github.io/) (Fred)
+- [Tilden](https://tildenapp.com/#/) (Fred)
 - [rethink-livedata](https://github.com/tuhinc/rethink-livedata) (Marcus)
 
 ### Next Week

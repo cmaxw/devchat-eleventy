@@ -54,7 +54,7 @@ In today's episode, the iPheaks panelist speak with Chris Adamson, a freelance i
 
 **Links:**
 
-[http://subfurther.com/blog](http://subfurther.com/blog)
+[https://subfurther.com/blog](https://subfurther.com/blog)
 
 [https://www.linkedin.com/in/invalidname//](https://www.linkedin.com/in/invalidname//)
 
@@ -72,7 +72,7 @@ Gui
 
 Andrew
 
-- [Online Swift Playground](http://online.swiftplayground.run)
+- [Online Swift Playground](https://online.swiftplayground.run)
 - Juiced.gs
 
 Erica
@@ -81,6 +81,6 @@ Erica
 
 Chris
 
-- [We are X](http://www.wearexfilm.com)
+- [We are X](https://www.wearexfilm.com)
 
 ### Transcript

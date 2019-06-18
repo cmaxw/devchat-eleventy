@@ -30,7 +30,7 @@ The community found each other in the web, and started comparing their works. It
 
 ## Establish Connections
 
-Connect with Alex Russel&nbsp;on [Twitter @slightlylate](https://twitter.com/slightlylate?lang=en),&nbsp;or read his blogs&nbsp;at [Infrequently.org](http://infrequently.org/). Don’t forget to let Alex&nbsp;know you heard about him on Devchat.tv’s JavaScript Jabber My JS Story podcast!
+Connect with Alex Russel&nbsp;on [Twitter @slightlylate](https://twitter.com/slightlylate?lang=en),&nbsp;or read his blogs&nbsp;at [Infrequently.org](https://infrequently.org/). Don’t forget to let Alex&nbsp;know you heard about him on Devchat.tv’s JavaScript Jabber My JS Story podcast!
 
 ## Picks:
 

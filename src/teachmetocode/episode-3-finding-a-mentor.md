@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-[Download this episode](http://media.libsyn.com/media/charlesmaxwood/003_Finding_a_Mentor.mp3)One of the things that has helped me the most in learning to program well is having a good mentor. I didn't necessarily choose mine, but I've had some excellent mentors. Here's what made them great for me.<!--more-->
+[Download this episode](https://media.libsyn.com/media/charlesmaxwood/003_Finding_a_Mentor.mp3)One of the things that has helped me the most in learning to program well is having a good mentor. I didn't necessarily choose mine, but I've had some excellent mentors. Here's what made them great for me.<!--more-->
 
 1. They had been where I was at.
 2. They were at where I wanted to be.

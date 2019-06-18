@@ -16,7 +16,7 @@ tags:
 
 **Guest:** James Shore
 
-This week on My Ruby Story, Charles talks to [James Shore](http://www.jamesshore.com/Consulting/Credentials.html) about his background, how he got into programming, pitfalls that happened along the way, and his Agile story. James Shore is a thought leader in the Agile software development community. He was an early adopter of Agile development and he continues to lead, teach, write, and consult on Agile development processes.
+This week on My Ruby Story, Charles talks to [James Shore](https://www.jamesshore.com/Consulting/Credentials.html) about his background, how he got into programming, pitfalls that happened along the way, and his Agile story. James Shore is a thought leader in the Agile software development community. He was an early adopter of Agile development and he continues to lead, teach, write, and consult on Agile development processes.
 
 **In particular, we dive pretty deep on:**
 
@@ -50,7 +50,7 @@ This week on My Ruby Story, Charles talks to [James Shore](http://www.jamesshore
 **Links:**
 
 - [James Shore’s LinkedIn](https://www.linkedin.com/in/james-shore-7475b6/)
-- [James Shore’s Website](http://www.jamesshore.com)
+- [James Shore’s Website](https://www.jamesshore.com)
 - [James Shore’s Twitter](https://twitter.com/jamesshore)
 - [James Shore’s GitHub](https://github.com/jamesshore)
 - [James Shore’s Book, “The Art of Agile Development...”](https://www.amazon.com/Art-Agile-Development-Pragmatic-Software/dp/0596527675/ref=asap_bc?ie=UTF8)

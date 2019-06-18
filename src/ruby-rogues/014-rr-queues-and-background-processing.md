@@ -17,14 +17,14 @@ tags:
 - Queuing is about messaging. Typically first in first out (FIFO)
 - Background Processes are processes that pull messages off the queue and do things later.
   Systems that people have used
-- [Beanstalk](http://kr.github.com/beanstalkd/)
+- [Beanstalk](https://kr.github.com/beanstalkd/)
 - [Resque](https://github.com/defunkt/resque)
-- [cron](http://en.wikipedia.org/wiki/Cron)
-- [RabbitMQ](http://www.rabbitmq.com/)
+- [cron](https://en.wikipedia.org/wiki/Cron)
+- [RabbitMQ](https://www.rabbitmq.com/)
 - [bunny](https://github.com/celldee/bunny/wiki)
-- [ZeroMQ](http://www.zeromq.org/)
-- [BackgroundRB](http://backgroundrb.rubyforge.org/)
-- [AMQP](http://www.amqp.org/)
+- [ZeroMQ](https://www.zeromq.org/)
+- [BackgroundRB](https://backgroundrb.rubyforge.org/)
+- [AMQP](https://www.amqp.org/)
 - [Delayed Job](about:blank)
 - [Queue Classic](https://github.com/ryandotsmith/queue_classic)
   Poor man’s queue or database backed queue What do you look for in your queue technology?
@@ -33,7 +33,7 @@ tags:
 - It depends on what you’re doing
   - Regular tasks vs. Immediate tasks
   - One worker vs several workers on several servers
-    [Dave’s beanstalk utilities](https://github.com/dbrady/bin) [Beanstalk RailsCast](http://railscasts.com/episodes/243-beanstalkd-and-stalker) Hybrid approaches
+    [Dave’s beanstalk utilities](https://github.com/dbrady/bin) [Beanstalk RailsCast](https://railscasts.com/episodes/243-beanstalkd-and-stalker) Hybrid approaches
 - Google’s Geocoding API - Rate-limiting with cron
 - Amazon’s FPS - polling amazon to get updates on payments
   Best Practices

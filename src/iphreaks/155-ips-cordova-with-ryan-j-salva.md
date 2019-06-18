@@ -16,12 +16,12 @@ tags:
 
 - [Twitter](https://twitter.com/ryanjsalva)
 - [GitHub](https://github.com/ryanjsalva)
-- [Blog](http://ryanjsalva.com/)
+- [Blog](https://ryanjsalva.com/)
   02:08 - [Cordova](https://cordova.apache.org/)
 - [WebView](https://developer.android.com/reference/android/webkit/WebView.html)
   05:19 - Hybrid; Native Applications11:58 - Code Reuse and Sharing16:01 - Performance25:32 - Update29:36 - Performance (Cont’d)37:11 - The Development Process&nbsp;Picks
 - [Microsoft Bot Framework](https://dev.botframework.com/) (Ryan)
-- [Ryan's Blog](http://ryanjsalva.com/) (Ryan)
+- [Ryan's Blog](https://ryanjsalva.com/) (Ryan)
 
 ### Transcript
 

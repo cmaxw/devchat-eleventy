@@ -15,7 +15,7 @@ tags:
 02:05 - Jeff Whelpley Introduction and Angular Universal Patterns
 
 - [Twitter](https://twitter.com/jeffwhelpley)
-- [Blog](http://jeffwhelpley.com/)
+- [Blog](https://jeffwhelpley.com/)
 - [Jeffrey Whelpey & Patrick Stapleton: Angular 2 Universal Patterns @ ng-conf](https://www.youtube.com/watch?v=TCj_oC3m6_U)
 - [angular/universal](https://github.com/angular/universal)
   03:26 - Backend Implementations05:07 - Drawbacks
@@ -30,8 +30,8 @@ tags:
   25:40 - The User Experience
 - Hydration
   31:29 - Installation and Running Angular Universal33:24 - The Release Schedule&nbsp;Picks
-- [BB-8 Sphero](http://www.sphero.com/starwars) (Joe)
-- [Black Man in a White Coat: A Doctor's Reflections on Race and Medicine by Damon Tweedy](http://www.amazon.com/Black-Man-White-Coat-Reflections/dp/1250044634) (Joe)
+- [BB-8 Sphero](https://www.sphero.com/starwars) (Joe)
+- [Black Man in a White Coat: A Doctor's Reflections on Race and Medicine by Damon Tweedy](https://www.amazon.com/Black-Man-White-Coat-Reflections/dp/1250044634) (Joe)
 - [iPhreaks Show Episode 153: Using Mobile Devices to Manage Diabetes with Scott Hanselman](https://devchat.tv/iphreaks/153-ips-using-mobile-devices-to-manage-diabetes-with-scott-hanselman) (Chuck)
 - [The Freelancers' Show Episode 202: Live from MicroConf: Managing a Team with Anders Thue Pedersen](https://devchat.tv/freelancers/202-fs-live-from-microconf-managing-a-team-with-anders-thue-pedersen) (Chuck)
 - DevChat.tv Survey (Chuck)

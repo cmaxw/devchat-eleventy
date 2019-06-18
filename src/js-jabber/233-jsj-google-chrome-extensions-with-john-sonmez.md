@@ -20,7 +20,7 @@ tags:
 
 ### PICKS:
 
-[“Django Unchained”](http://www.unchainedmovie.com/) Website[“Using Angular 2 Patterns in Angular 1.x”](https://egghead.io/courses/using-angular-2-patterns-in-angular-1-x-apps)Apps Egghead Course[Girls’ Life vs. Boys’ Life](http://www.refinery29.com/2016/09/122114/girls-life-boys-life-magazine-sexist-differences) on Refinery29[Webinar Jam](https://www.webinarjam.com/index/) Software
+[“Django Unchained”](https://www.unchainedmovie.com/) Website[“Using Angular 2 Patterns in Angular 1.x”](https://egghead.io/courses/using-angular-2-patterns-in-angular-1-x-apps)Apps Egghead Course[Girls’ Life vs. Boys’ Life](https://www.refinery29.com/2016/09/122114/girls-life-boys-life-magazine-sexist-differences) on Refinery29[Webinar Jam](https://www.webinarjam.com/index/) Software
 
 #
 

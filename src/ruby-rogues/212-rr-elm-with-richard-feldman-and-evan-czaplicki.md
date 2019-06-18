@@ -26,7 +26,7 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 - [GitHub](https://github.com/rtfeldman)
 - [NoRedInk](https://www.noredink.com/)
 
-03:42 - [Elm](http://elm-lang.org/)
+03:42 - [Elm](https://elm-lang.org/)
 
 - [@elmlang](https://twitter.com/elmlang)
 
@@ -38,13 +38,13 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 
 07:28 - Functional Principles
 
-- [Immutability](http://en.wikipedia.org/wiki/Immutable_object)
-- [Union Types](http://elm-lang.org/learn/Union-Types.elm)
+- [Immutability](https://en.wikipedia.org/wiki/Immutable_object)
+- [Union Types](https://elm-lang.org/learn/Union-Types.elm)
 
 09:42 - “Side Effects” (Reactivity Cont’d)
 
-- [JavaScript Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
-- [Signals](http://elm-lang.org/learn/Using-Signals.elm)
+- [JavaScript Promises](https://www.html5rocks.com/en/tutorials/es6/promises/)
+- [Signals](https://elm-lang.org/learn/Using-Signals.elm)
   - [React](https://facebook.github.io/react/)
   - [Flux](https://facebook.github.io/flux/)
 - Excel Spreadsheet Comparison
@@ -54,19 +54,19 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 
 - [Haskell](https://www.haskell.org/)
 - [ML](<https://en.wikipedia.org/wiki/ML_(programming_language)>)
-- [ML Family of Programming Languages](http://en.wikipedia.org/wiki/Category:ML_programming_language_family)
+- [ML Family of Programming Languages](https://en.wikipedia.org/wiki/Category:ML_programming_language_family)
 - Strict vs Lazy
 
 30:45 - Testing
 
 - [Elm-Test](https://github.com/deadfoxygrandpa/Elm-Test)
 - [elm-check](https://github.com/TheSeamau5/elm-check)
-- [Property-Based Testing](http://www.scalatest.org/user_guide/property_based_testing)
+- [Property-Based Testing](https://www.scalatest.org/user_guide/property_based_testing)
   - [elm-reactor](https://github.com/elm-lang/elm-reactor)
 
 34:49 - Debugging
 
-- [Elm’s Time Traveling Debugger](http://debug.elm-lang.org/)
+- [Elm’s Time Traveling Debugger](https://debug.elm-lang.org/)
 
 42:12 - Next Release?
 
@@ -76,7 +76,7 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 - [dreamwriter](https://github.com/rtfeldman/dreamwriter)
   48:45 - Why should Ruby devs care about Elm?Picks
 
-[The Expanse](<http://en.wikipedia.org/wiki/The_Expanse_(novel_series)>) (Avdi)[Git LFS](https://git-lfs.github.com/) (Jessica)[The City & The City by China Miéville](http://www.amazon.com/gp/product/034549752X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=034549752X&linkCode=as2&tag=chamaxwoo-20&linkId=76NWWMNPGN7BT73D) (Jessica)[Patterns](http://krillapps.com/patterns/) (Coraline)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck) Find a change of pace (Chuck) Listen to other people’s views (Chuck)[Richard Feldman: Functional Frontend Frontier](https://www.youtube.com/watch?v=06M0jdYYSis) (Richard)[EconTalk](http://www.econtalk.org/) (Evan)[elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial) (Evan)
+[The Expanse](<https://en.wikipedia.org/wiki/The_Expanse_(novel_series)>) (Avdi)[Git LFS](https://git-lfs.github.com/) (Jessica)[The City & The City by China Miéville](https://www.amazon.com/gp/product/034549752X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=034549752X&linkCode=as2&tag=chamaxwoo-20&linkId=76NWWMNPGN7BT73D) (Jessica)[Patterns](https://krillapps.com/patterns/) (Coraline)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck) Find a change of pace (Chuck) Listen to other people’s views (Chuck)[Richard Feldman: Functional Frontend Frontier](https://www.youtube.com/watch?v=06M0jdYYSis) (Richard)[EconTalk](https://www.econtalk.org/) (Evan)[elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial) (Evan)
 
 ### Transcript
 

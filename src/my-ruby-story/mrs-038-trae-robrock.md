@@ -16,7 +16,7 @@ tags:
 
 **Guest:** Trae Robrock
 
-This week on My Ruby Story, Charles talks to Trae Robrock. Trae founded and is currently the CTO of [Green Bits](https://www.greenbits.com/) which builds POS software for the legal cannabis industry. They have been in business for about 4 years now and are growing as the cannabis industry does. He first got into programming started when he was growing up and was always around computers. He started off writing clients for [mIRC](https://www.mirc.com/) where he would write chat bots and code. He got into [Ruby](https://www.ruby-lang.org/en/) when he found that Twitter was written in [Rails](http://rubyonrails.org/) and noticed that he should probably learn about it so he could get a job after college. Now, he’s focusing on Green Bits and growing his team so that he can make it a successful business.
+This week on My Ruby Story, Charles talks to Trae Robrock. Trae founded and is currently the CTO of [Green Bits](https://www.greenbits.com/) which builds POS software for the legal cannabis industry. They have been in business for about 4 years now and are growing as the cannabis industry does. He first got into programming started when he was growing up and was always around computers. He started off writing clients for [mIRC](https://www.mirc.com/) where he would write chat bots and code. He got into [Ruby](https://www.ruby-lang.org/en/) when he found that Twitter was written in [Rails](https://rubyonrails.org/) and noticed that he should probably learn about it so he could get a job after college. Now, he’s focusing on Green Bits and growing his team so that he can make it a successful business.
 
 **In particular, we dive pretty deep on:**
 
@@ -26,11 +26,11 @@ This week on My Ruby Story, Charles talks to Trae Robrock. Trae founded and is c
 - [mIRC](https://www.mirc.com/) Chat client
 - How did you get into web development and [Ruby](https://www.ruby-lang.org/en/)?
 - Web development was the only free version of programming available
-- HTML and [PHP](http://www.php.net/)
+- HTML and [PHP](https://www.php.net/)
 - Got into Ruby in college
 - [CakePHP](https://cakephp.org/)
-- [Ruby on Rails](http://rubyonrails.org/)
-- [Job at Outright](http://outright.com/)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Job at Outright](https://outright.com/)
 - CakePHP vs Rails
 - What have you done with Ruby that you are proud of?
 - Building DSLs
@@ -51,10 +51,10 @@ This week on My Ruby Story, Charles talks to Trae Robrock. Trae founded and is c
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Green Bits](https://www.greenbits.com/)
 - [mIRC](https://www.mirc.com/)
-- [PHP](http://www.php.net/)
+- [PHP](https://www.php.net/)
 - [CakePHP](https://cakephp.org/)
-- [Ruby on Rails](http://rubyonrails.org/)
-- [Outright](http://outright.com/)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Outright](https://outright.com/)
 - [@TRobrock](https://twitter.com/trobrock?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Trae’s YouTube Channel](https://www.youtube.com/user/trobrock)
 - [Trae’s Instagram](https://www.instagram.com/trobrock/)

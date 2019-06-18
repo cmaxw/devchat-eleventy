@@ -34,7 +34,7 @@ Rebecca surely wants to hear from you! Connect with her on [Twitter](https://twi
 
 ## Picks:
 
-Rebecca: [rtf-html library](https://github.com/iarna/rtf-to-html), [A People's History of the United States by Howard Zinn](http://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States), and [Lies My Teacher Told Me by James W. Loewen](http://www.goodreads.com/book/show/296662.Lies_My_Teacher_Told_Me)Charles:[iPad Pro](https://www.apple.com/ipad-pro/specs/)
+Rebecca: [rtf-html library](https://github.com/iarna/rtf-to-html), [A People's History of the United States by Howard Zinn](https://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States), and [Lies My Teacher Told Me by James W. Loewen](https://www.goodreads.com/book/show/296662.Lies_My_Teacher_Told_Me)Charles:[iPad Pro](https://www.apple.com/ipad-pro/specs/)
 
 ### Transcript
 

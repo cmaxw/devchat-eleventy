@@ -15,11 +15,11 @@ tags:
 02:06 - Steven Bristol Introduction
 
 - [Twitter](https://twitter.com/stevenbristol)
-- [Blog](http://lesseverything.com/blog/)
-- [LessEverything](http://lesseverything.com/)
+- [Blog](https://lesseverything.com/blog/)
+- [LessEverything](https://lesseverything.com/)
 - [LessAccounting](https://lessaccounting.com/)
-- [LessFilms](http://lessfilms.com/)
-- [LessConf](http://lessconf.lesseverything.com/)
+- [LessFilms](https://lessfilms.com/)
+- [LessConf](https://lessconf.lesseverything.com/)
 - [LessChurn](https://lesschurn.io/)
 
 02:32 - “Churn”
@@ -38,9 +38,9 @@ tags:
 
 10:58 - The SaaS Path (Advice)
 
-- [The 37Signals Blog](http://37signals.com/news)
-- [Bacon Biz Conf](http://baconbiz.com/)
-- [LaunchRocket](http://www.farces.com/wikis/naked-server/homebrew/homebrew-launchrocket/)
+- [The 37Signals Blog](https://37signals.com/news)
+- [Bacon Biz Conf](https://baconbiz.com/)
+- [LaunchRocket](https://www.farces.com/wikis/naked-server/homebrew/homebrew-launchrocket/)
 
 18:36 - [Churn University](https://lesschurn.io/churn)
 
@@ -60,7 +60,7 @@ tags:
 - Mandatory Field Feedback
   Picks
 
-[Why Johnny Can't Brand: Rediscovering the Lost Art of the Big Idea by Bill Schley](http://www.amazon.com/gp/product/0982694172/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0982694172&linkCode=as2&tag=devchattv-20&linkId=2WCZOE36AI67GZ4N) (Philip)[MOO](https://www.moo.com/) (Jonathan)[Tend](https://tend.io) (Steven)[Free Will by Sam Harris](http://www.amazon.com/gp/product/1451683405/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451683405&linkCode=as2&tag=devchattv-20&linkId=TDGLT7PIRAHGA2QU) (Steven)[Peter Kirn: Alchemy synth is now a part of Logic Pro X; here’s what’s new](http://createdigitalmusic.com/2015/08/deep-alchemy-synth-now-part-logic-pro-x-heres-whats-new/) (Steven)[less_interactions](https://github.com/LessEverything/less_interactions) (Steven)[Contacts+](http://www.contactspls.com/) (Reuven)
+[Why Johnny Can't Brand: Rediscovering the Lost Art of the Big Idea by Bill Schley](https://www.amazon.com/gp/product/0982694172/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0982694172&linkCode=as2&tag=devchattv-20&linkId=2WCZOE36AI67GZ4N) (Philip)[MOO](https://www.moo.com/) (Jonathan)[Tend](https://tend.io) (Steven)[Free Will by Sam Harris](https://www.amazon.com/gp/product/1451683405/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451683405&linkCode=as2&tag=devchattv-20&linkId=TDGLT7PIRAHGA2QU) (Steven)[Peter Kirn: Alchemy synth is now a part of Logic Pro X; here’s what’s new](https://createdigitalmusic.com/2015/08/deep-alchemy-synth-now-part-logic-pro-x-heres-whats-new/) (Steven)[less_interactions](https://github.com/LessEverything/less_interactions) (Steven)[Contacts+](https://www.contactspls.com/) (Reuven)
 
 &nbsp;
 

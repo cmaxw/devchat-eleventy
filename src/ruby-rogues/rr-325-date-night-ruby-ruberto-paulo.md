@@ -22,11 +22,11 @@ Rob started programming in high school where he swore he would never do it again
 - Collaboration with others
 - and much, much more...
   Links:
-- [Ruby Developer Summit](http://rubydevsummit.com)
-- [RubyFuza](http://www.rubyfuza.org/)
-- [Ruby DCamp - South Africa](http://www.rubydcamp.org.za/)
+- [Ruby Developer Summit](https://rubydevsummit.com)
+- [RubyFuza](https://www.rubyfuza.org/)
+- [Ruby DCamp - South Africa](https://www.rubydcamp.org.za/)
 - [CodeWars](https://www.codewars.com/)
-- [FizzBuzz](http://rosettacode.org/wiki/FizzBuzz)
+- [FizzBuzz](https://rosettacode.org/wiki/FizzBuzz)
 
 ### Picks:
 
@@ -35,9 +35,9 @@ Dave
 - [simple-bind](https://simple-bind.github.io/simple_bind/)
   Eric
 - [Screeps](https://screeps.com/)
-- [CodeSponsor](http://codesponsor.io)
+- [CodeSponsor](https://codesponsor.io)
   Chuck
-- [Start With Why](http://amzn.to/2xRRiNJ)
+- [Start With Why](https://amzn.to/2xRRiNJ)
 - [How to know your purpose in life in 5 minutes](https://www.youtube.com/watch?v=vVsXO9brK7M)
 
 ####

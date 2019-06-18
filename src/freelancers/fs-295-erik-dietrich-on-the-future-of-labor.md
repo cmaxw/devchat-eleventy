@@ -55,16 +55,16 @@ Picks
 
 Reuven Lerner
 
-- [Slow Burn Podcast](http://www.slate.com/articles/slate_plus/watergate.html)
+- [Slow Burn Podcast](https://www.slate.com/articles/slate_plus/watergate.html)
 
 Jonathan Stark
 
 - [Dyson V8](https://www.dyson.com/sticks/dyson-v8-features.html)
-- [Value Pricing BootCamp](http://valuepricingbootcamp.com)
+- [Value Pricing BootCamp](https://valuepricingbootcamp.com)
 
-Jeremy Green [Increase Your Consulting Fees](http://increaseyourconsultingfees.com)
+Jeremy Green [Increase Your Consulting Fees](https://increaseyourconsultingfees.com)
 
-- [Increase Your Consulting Fees](http://increaseyourconsultingfees.com)
+- [Increase Your Consulting Fees](https://increaseyourconsultingfees.com)
 
 Erik Dietrich
 

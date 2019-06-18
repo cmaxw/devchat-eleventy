@@ -71,7 +71,7 @@ Chris
 
 Divya
 
-- [Oil Painting using HTML and CSS](http://digg.com/2018/purecss-francine)
+- [Oil Painting using HTML and CSS](https://digg.com/2018/purecss-francine)
 - [Video: Designing Tools for CSS Grid and Variable fonts](https://www.youtube.com/watch?v=4NjxAIW4cYU)
 
 Erik

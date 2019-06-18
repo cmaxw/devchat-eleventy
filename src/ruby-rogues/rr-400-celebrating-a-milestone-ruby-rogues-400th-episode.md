@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)- use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/)- use the code “devchat” for $100 credit
 - [Triplebyte](https://triplebyte.com/rogues)
 - [CacheFly](https://www.cachefly.com/)
 &nbsp;
@@ -35,7 +35,7 @@ In this 400<sup>th</sup> episode of Ruby Rogues, the panelists - Dave Kimura, An
 - [Release Notes](https://github.com/dvmonroe/release-notes)
 **Dave**
 - [Netgear Orbi Wi-Fi system](https://www.costco.com/NETGEAR-Orbi-AC3000-Tri-band-Wi-Fi-System.product.100318832.html)
-- [org](http://marriagehelp.org)
+- [org](https://marriagehelp.org)
 **Eric**
 - [Rollbar](https://rollbar.com/)
 - [A21 foundation](https://www.a21.org/index.php?site=true)

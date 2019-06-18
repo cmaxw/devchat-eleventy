@@ -25,7 +25,7 @@ tags:
 
 12:09 - Roadmapping
 
-- [Eric’s Sample Trail Map](http://downloads.littlestreamsoftware.com/d/trail-map-sample.pdf)
+- [Eric’s Sample Trail Map](https://downloads.littlestreamsoftware.com/d/trail-map-sample.pdf)
   - Identifying and Reducing Risks
 
 18:12 - How to Sell It
@@ -44,16 +44,16 @@ tags:
 
 39:43 - Mismatched Expectations (Communication Cont’d)
 
-- [Red Flags Episode](http://devchat.tv/freelancers/156-fs-red-flags)
+- [Red Flags Episode](https://devchat.tv/freelancers/156-fs-red-flags)
 
 44:47 - Productized Services and Consulting
 
-- [Kurt Elster](http://kurtelster.com/)
-  - [Website Rescues](http://websiterescues.com/)
-  - [The Freelancers’ Show Episode #131: Tiny Sites and Productized Consulting with Kurt Elster](http://devchat.tv/freelancers/the-freelancers-show-131-tiny-sites-and-productized-consulting-with-kurt-elster)
+- [Kurt Elster](https://kurtelster.com/)
+  - [Website Rescues](https://websiterescues.com/)
+  - [The Freelancers’ Show Episode #131: Tiny Sites and Productized Consulting with Kurt Elster](https://devchat.tv/freelancers/the-freelancers-show-131-tiny-sites-and-productized-consulting-with-kurt-elster)
     Picks
 
-[Eric's Sample Trail Map](http://downloads.littlestreamsoftware.com/d/trail-map-sample.pdf) (Eric) &nbsp;[Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb](http://www.amazon.com/gp/product/0812979680/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812979680&linkCode=as2&tag=chamaxwoo-20&linkId=WEZFTV4MEDMJ7RPF) (Eric)[The Terrible Two by Mac Barnett](http://www.amazon.com/gp/product/1419714910/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1419714910&linkCode=as2&tag=chamaxwoo-20&linkId=GHZGJZKCAHIWDHV6) (Reuven)[INBOX PAUSE](http://inboxpause.com/) (Jonathan)[CouldApp](http://getcloudapp.com/) (Jonathan)[Traction: Get a Grip on Your Business by Gino Wickman](http://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=3TNPHZMX7M7DMPOS) (Chuck)[99Designs](http://99designs.com/) (Chuck)[Fiverr](https://www.fiverr.com/) (Chuck)
+[Eric's Sample Trail Map](https://downloads.littlestreamsoftware.com/d/trail-map-sample.pdf) (Eric) &nbsp;[Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb](https://www.amazon.com/gp/product/0812979680/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812979680&linkCode=as2&tag=chamaxwoo-20&linkId=WEZFTV4MEDMJ7RPF) (Eric)[The Terrible Two by Mac Barnett](https://www.amazon.com/gp/product/1419714910/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1419714910&linkCode=as2&tag=chamaxwoo-20&linkId=GHZGJZKCAHIWDHV6) (Reuven)[INBOX PAUSE](https://inboxpause.com/) (Jonathan)[CouldApp](https://getcloudapp.com/) (Jonathan)[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=3TNPHZMX7M7DMPOS) (Chuck)[99Designs](https://99designs.com/) (Chuck)[Fiverr](https://www.fiverr.com/) (Chuck)
 
 ### Transcript
 

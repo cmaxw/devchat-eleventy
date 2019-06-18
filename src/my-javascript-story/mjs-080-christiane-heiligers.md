@@ -88,7 +88,7 @@ Ely: It is interesting to see the learning process that people go through to arr
 - [React](https://reactjs.org)
 - [Ely Lucas’ Twitter](https://twitter.com/elylucas?lang=en)
 - [Ely Lucas’ LinkedIn](https://www.linkedin.com/in/elylucas)
-- [Ely Lucas](http://angulardenver.com/speakers/ely-lucas)
+- [Ely Lucas](https://angulardenver.com/speakers/ely-lucas)
 - [Ely Lucas’ GitHub](https://github.com/elylucas)
 
 **Sponsors:**

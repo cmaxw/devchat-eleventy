@@ -14,13 +14,13 @@ tags:
 
 00:30 - Introducing Brandon Hilkert
 
-- _[Build a Ruby Gem](http://brandonhilkert.com/books/build-a-ruby-gem/) 25% off for Ruby Rogues’ listeners!_
+- _[Build a Ruby Gem](https://brandonhilkert.com/books/build-a-ruby-gem/) 25% off for Ruby Rogues’ listeners!_
 
 - [Twitter](https://twitter.com/brandonhilkert?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [Github](https://github.com/brandonhilkert)
-- [Blog/Website](http://brandonhilkert.com/)
+- [Blog/Website](https://brandonhilkert.com/)
   3:55 - Building gems and the community8:30 - Brandon’s process for creating gems (for beginners)14:45 - Testing gems17:00 - Writing the whole system into a gem vs breaking it up26:15 - Why build[Suckerpunch](https://github.com/brandonhilkert/sucker_punch)?
-- [Blog post](http://brandonhilkert.com/blog/why-i-wrote-the-sucker-punch-gem/)
+- [Blog post](https://brandonhilkert.com/blog/why-i-wrote-the-sucker-punch-gem/)
   33:50 - What does it take to publish a gem?
 - Ruby Gems
   35:45 - “Gotchas” to publishing a gem40:00 - Releasing gems that the community doesn’t need **Picks:** [ThinkGeek](https://www.thinkgeek.com/) (Jerome)[Facebook Lookalike Audiences](https://www.facebook.com/business/help/164749007013531) (Charles)Mastermind groups (Charles)[_Think and Grow Rich_ by Dr. Napoleon Hill](https://www.amazon.com/Think-Grow-Rich-Napoleon-Hill/dp/149617545X) (Charles)[Bark app](https://www.bark.us/) (Brandon)[People socks](https://www.amazon.com/People-Socks-Quarter-Womens-Unisex/dp/B00P6SP2GS/ref=sr_1_2?s=apparel&ie=UTF8&qid=1482198826&sr=1-2&nodeID=7141123011) (Brandon)[The Food Lab by J. Kenji Lopez-Alt](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087) (Brandon)

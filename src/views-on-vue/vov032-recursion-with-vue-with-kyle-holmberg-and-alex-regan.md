@@ -19,7 +19,7 @@ tags:
 
 **Special Guest:** Kyle Holmberg & Alex Regan
 
-In this episode, the panel talks with two guests [Kyle](https://twitter.com/kylemh_) and [Alex](https://twitter.com/AlexSashaRegan) who work together in opensource. Kyle is a software engineer at[AutoGravity](https://www.autogravity.com) interested in full-stack web development, graphic design, integrated systems, data visualizations, and soccer. Alex writes code and works with [Parametric Studios](http://parametricstudios.com), and he also loves puppies. Check out today’s episode where the panel and the two guests talk about the different frameworks and contributing to opensource.
+In this episode, the panel talks with two guests [Kyle](https://twitter.com/kylemh_) and [Alex](https://twitter.com/AlexSashaRegan) who work together in opensource. Kyle is a software engineer at[AutoGravity](https://www.autogravity.com) interested in full-stack web development, graphic design, integrated systems, data visualizations, and soccer. Alex writes code and works with [Parametric Studios](https://parametricstudios.com), and he also loves puppies. Check out today’s episode where the panel and the two guests talk about the different frameworks and contributing to opensource.
 
 **Show Topics:**
 
@@ -271,7 +271,7 @@ We need something to make things a bit easier to save 10 hours a week.
 
 - [Kendo UI](https://www.telerik.com/kendo-angular-ui/?utm_medium=cpm&utm_source=adventuresinng&utm_campaign=dt-kendo-ang2-nov16&utm_content=audio)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**

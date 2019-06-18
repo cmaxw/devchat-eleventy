@@ -34,6 +34,6 @@ To hear about _iPhreaks Take Manhattan - Nat Friedman_, download and listen to t
 
 ## Get Connected
 
-Reach out to Nat&nbsp;by following and tweeting him&nbsp;@natfriedman. Don’t forget to let Nat&nbsp;know you heard about him on Devchat.tv’s iPhreaks&nbsp;podcast! If you’re short on time, here are the highlights of iPhreaks Take Manhattan - Nat Friedman: Who is Nat Friedman? (00:23) What is a mobile center? (3:53) Providing certificate? (9:48) Making your app testable? (15:18) Analytics support in mobile center? (19:33) How services are integrated? (23:54) **Picks:** Nat:&nbsp;[Rationally Speaking podcast](http://rationallyspeakingpodcast.org/about/), signal application
+Reach out to Nat&nbsp;by following and tweeting him&nbsp;@natfriedman. Don’t forget to let Nat&nbsp;know you heard about him on Devchat.tv’s iPhreaks&nbsp;podcast! If you’re short on time, here are the highlights of iPhreaks Take Manhattan - Nat Friedman: Who is Nat Friedman? (00:23) What is a mobile center? (3:53) Providing certificate? (9:48) Making your app testable? (15:18) Analytics support in mobile center? (19:33) How services are integrated? (23:54) **Picks:** Nat:&nbsp;[Rationally Speaking podcast](https://rationallyspeakingpodcast.org/about/), signal application
 
 ### Transcript

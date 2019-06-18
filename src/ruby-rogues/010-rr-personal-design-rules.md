@@ -22,7 +22,7 @@ tags:
 - Be open to being wrong.
 - “Simple things should be simple, complex things should be possible.” ~Alan Kay
 - Implement the functions that natural come out of the function you’re building.
-- [Simplicity is Complicated](http://avdi.org/devblog/2009/10/29/simplicity-is-complicated/) - Avdi’s blog post
+- [Simplicity is Complicated](https://avdi.org/devblog/2009/10/29/simplicity-is-complicated/) - Avdi’s blog post
 - YAGNI - You aren’t going to need it.
 - “There is no rules.” ~James
 - There is always a tradeoff.

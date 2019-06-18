@@ -41,7 +41,7 @@ In this episode, the JavaScript Jabber panelists discuss Angular libraries with 
 - How do you go about making a package like this?
 - [TypeScript Modules](https://www.typescriptlang.org/docs/handbook/modules.html)
 - Now have built-in support of Angular libraries
-- [ng-packagr](http://spektrakel.de/ng-packagr/#slide=1)
+- [ng-packagr](https://spektrakel.de/ng-packagr/#slide=1)
 - And much, much more!
 
 **Links:**
@@ -56,7 +56,7 @@ In this episode, the JavaScript Jabber panelists discuss Angular libraries with 
 - [WebPack](https://webpack.js.org/)
 - [Plunker](https://plnkr.co/)
 - [TypeScript Modules](https://www.typescriptlang.org/docs/handbook/modules.html)
-- [ng-packagr](http://spektrakel.de/ng-packagr/#slide=1)
+- [ng-packagr](https://spektrakel.de/ng-packagr/#slide=1)
 - [@juristr](https://twitter.com/juristr?lang=en)
 - [juristr.com](https://juristr.com/)
 - [Juri’s GitHub](https://www.google.com/search?q=Juri+Strumpflohner&oq=Juri+Strumpflohner&aqs=chrome..69i57j69i60j69i59l2j69i60j69i61.212j0j4&sourceid=chrome&ie=UTF-8)

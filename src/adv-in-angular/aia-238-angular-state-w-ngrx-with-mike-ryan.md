@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Angular Bootcamp](https://angularbootcamp.com/)
 - [TripleByte](https://triplebyte.com/angular) offers a $1000 signing bonus
 - [Cachefly](https://www.cachefly.com/)
@@ -41,7 +41,7 @@ In this fun episode, Mike Ryan introduces NgRX and gives the backstory of his ge
 - [https://angular-up.com/](https://angular-up.com/)
 - [https://ng-bolivia.org/](https://ng-bolivia.org/)
 - [https://www.rxjs.live/](https://www.rxjs.live/)
-- [http://angulardenver.com/](http://angulardenver.com/)
+- [https://angulardenver.com/](https://angulardenver.com/)
 - [https://www.angularconnect.com/](https://www.angularconnect.com/)
 - [https://www.ng-conf.org/](https://www.ng-conf.org/)
 **Shai Reznik:**

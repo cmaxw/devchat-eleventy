@@ -12,32 +12,32 @@ tags:
   - podcast
 ---
 
-Chuck’s [<u>JavaScript Mobile</u>](http://mobilejavascript.com/) Roundtable: November 5
+Chuck’s [<u>JavaScript Mobile</u>](https://mobilejavascript.com/) Roundtable: November 5
 
-Text “MobileJS” to 38470 or Visit [<u>JSPowerUp.com</u>](http://jspowerup.com/)
+Text “MobileJS” to 38470 or Visit [<u>JSPowerUp.com</u>](https://jspowerup.com/)
 
 02:13 - Craig McKeachie Introduction
 
-- [<u>twitter</u>](http://twitter.com/cmckeachie)
-- [<u>blog</u>](http://www.funnyant.com/)
-- [<u>Microsoft.net Stack</u>](http://en.wikipedia.org/wiki/.NET_Framework)
+- [<u>twitter</u>](https://twitter.com/cmckeachie)
+- [<u>blog</u>](https://www.funnyant.com/)
+- [<u>Microsoft.net Stack</u>](https://en.wikipedia.org/wiki/.NET_Framework)
 - [<u>Ruby</u>](https://www.ruby-lang.org/en/)
-- [<u>ASP.Net</u>](http://www.asp.net/)
-  - [<u>MVC Framework</u>](http://www.asp.net/mvc)
-- [<u>Quantum Health</u>](http://quantum-health.com/)
+- [<u>ASP.Net</u>](https://www.asp.net/)
+  - [<u>MVC Framework</u>](https://www.asp.net/mvc)
+- [<u>Quantum Health</u>](https://quantum-health.com/)
 
 03:24 - Chuck’s Announcements
 
-- [<u>Javascriptnow.com</u>](http://javascriptnow.com/)
+- [<u>Javascriptnow.com</u>](https://javascriptnow.com/)
   - Coupon Code: “JavaScript Jabber”
-- [<u>JSRemoteConf</u>](http://jsremoteconf.com/)
+- [<u>JSRemoteConf</u>](https://jsremoteconf.com/)
 
 05:07 - Supporting Yourself While Writing
 
-- [<u>Craig's JavaScript Framework Guide Discount Site for Listeners</u>](http://funnyant.com/jabber)
-  - <u><a href="http://www.funnyant.com/jabber/#packages" data-cke-saved-href="http://www.funnyant.com/jabber/#packages">Buy the Book and Packages</a></u>
+- [<u>Craig's JavaScript Framework Guide Discount Site for Listeners</u>](https://funnyant.com/jabber)
+  - <u><a href="https://www.funnyant.com/jabber/#packages" data-cke-saved-href="https://www.funnyant.com/jabber/#packages">Buy the Book and Packages</a></u>
 - [<u>Basecamp</u>](https://basecamp.com/)
-- [<u>Rails</u>](http://rubyonrails.org/)
+- [<u>Rails</u>](https://rubyonrails.org/)
 
 07:26 - Learning Frameworks vs. Projects
 
@@ -45,56 +45,56 @@ Text “MobileJS” to 38470 or Visit [<u>JSPowerUp.com</u>](http://jspowerup.co
 
 08:32 - Audience for Book
 
-- [<u>Backbone</u>](http://backbonejs.org/)
+- [<u>Backbone</u>](https://backbonejs.org/)
 - [<u>Angular</u>](https://angularjs.org/)
-- [<u>Ember</u>](http://emberjs.com/)
-- [<u>Durandal</u>](http://durandaljs.com/)
-- [<u>CanJS</u>](http://canjs.com/)
-- [<u>Knockout.js</u>](http://knockoutjs.com/)
+- [<u>Ember</u>](https://emberjs.com/)
+- [<u>Durandal</u>](https://durandaljs.com/)
+- [<u>CanJS</u>](https://canjs.com/)
+- [<u>Knockout.js</u>](https://knockoutjs.com/)
 
 10:49 - Comparing Frameworks
 
 Recommendations Chapter in Book
 
-- [<u>jQuery</u>](http://jquery.com/)
-- [<u>Brownfield</u>](<http://en.wikipedia.org/wiki/Brownfield_(software_development)>)
-  - [<u>Brownfield Legacy</u>](http://en.wikipedia.org/wiki/Legacy_system)
+- [<u>jQuery</u>](https://jquery.com/)
+- [<u>Brownfield</u>](<https://en.wikipedia.org/wiki/Brownfield_(software_development)>)
+  - [<u>Brownfield Legacy</u>](https://en.wikipedia.org/wiki/Legacy_system)
 
 13:58 - Narrowing Down Frameworks
 
 - Speed of New Framework Innovation
-- [<u>React.js and How Does It Fit In With Everything Else?</u>](http://www.funnyant.com/reactjs-what-is-it/) (Craig’s Blog)
-  - [<u>React</u>](http://reactjs.net/)
-- [<u>128 JSJ Famo.us with Steve Newcomb</u>](http://devchat.tv/js-jabber/128-jsj-famo-us-with-steve-newcomb)
-  - [<u>Famo.us</u>](http://www.famo.us/)
+- [<u>React.js and How Does It Fit In With Everything Else?</u>](https://www.funnyant.com/reactjs-what-is-it/) (Craig’s Blog)
+  - [<u>React</u>](https://reactjs.net/)
+- [<u>128 JSJ Famo.us with Steve Newcomb</u>](https://devchat.tv/js-jabber/128-jsj-famo-us-with-steve-newcomb)
+  - [<u>Famo.us</u>](https://www.famo.us/)
 
 16:24 - &nbsp;Choosing Framework Technology
 
 - Framework “Meta”
-- [<u>Stack Overflow</u>](http://stackoverflow.com/)
-- [<u>Open Source</u>](http://en.wikipedia.org/wiki/Open_source)
-- [<u>108 JSJ AngularJS with Igor Minar</u>](http://devchat.tv/js-jabber/108-jsj-angularjs-with-igor-minar)
+- [<u>Stack Overflow</u>](https://stackoverflow.com/)
+- [<u>Open Source</u>](https://en.wikipedia.org/wiki/Open_source)
+- [<u>108 JSJ AngularJS with Igor Minar</u>](https://devchat.tv/js-jabber/108-jsj-angularjs-with-igor-minar)
   - [<u>Misko Hevery</u>](https://twitter.com/mhevery)
-- [<u>Silverlight</u>](http://www.microsoft.com/silverlight/)
+- [<u>Silverlight</u>](https://www.microsoft.com/silverlight/)
 - WPF
-- [<u>JUCE</u>](http://www.juce.com/)
+- [<u>JUCE</u>](https://www.juce.com/)
   - [<u>Yehuda Katz</u>](https://twitter.com/wycats)
-- [<u>004 JSJ Backbone.js with Jeremy Ashkenas, co-hosted by Yehuda Katz</u>](http://devchat.tv/js-jabber/004-jsj-backbone-js-with-jeremy-ashkenas)
-  - [<u>IOC Containers</u>](http://en.wikipedia.org/wiki/Inversion_of_control)
-  - [<u>Declarative Programming</u>](http://en.wikipedia.org/wiki/Declarative_programming)
-  - [<u>Flex</u>](http://www.adobe.com/products/flex.html)
+- [<u>004 JSJ Backbone.js with Jeremy Ashkenas, co-hosted by Yehuda Katz</u>](https://devchat.tv/js-jabber/004-jsj-backbone-js-with-jeremy-ashkenas)
+  - [<u>IOC Containers</u>](https://en.wikipedia.org/wiki/Inversion_of_control)
+  - [<u>Declarative Programming</u>](https://en.wikipedia.org/wiki/Declarative_programming)
+  - [<u>Flex</u>](https://www.adobe.com/products/flex.html)
 
 19:13 - Differences Between Frameworks
 
 - APIs
 - Plugins
-- [<u>Flash</u>](http://get.adobe.com/flashplayer/)
-- [<u>jQuery UI</u>](http://jqueryui.com/)
+- [<u>Flash</u>](https://get.adobe.com/flashplayer/)
+- [<u>jQuery UI</u>](https://jqueryui.com/)
 - [<u>AngularUI</u>](https://github.com/angular-ui)
 - [<u>ng-include</u>](https://github.com/angular/angular.js/search?utf8=%E2%9C%93&q=ng-include)
 - [<u>Rob Eisenberg (Durandal)</u>](https://twitter.com/EisenbergEffect)
-- [<u>009 AiA ng 2.0 with Rob Eisenberg</u>](http://devchat.tv/adventures-in-angular/009-aia-ng-2-0-with-rob-eisenberg)
-- [<u>Tom Dale</u>](http://tomdale.net/)
+- [<u>009 AiA ng 2.0 with Rob Eisenberg</u>](https://devchat.tv/adventures-in-angular/009-aia-ng-2-0-with-rob-eisenberg)
+- [<u>Tom Dale</u>](https://tomdale.net/)
 
 24:14 - Questions About Choosing a Framework
 
@@ -106,27 +106,27 @@ Recommendations Chapter in Book
 - Libraries
 - Data Binding
 - Routers
-- <u><a href="http://houseofbilz.com/" data-cke-saved-href="http://houseofbilz.com">Brian Genisio</a></u>
-- [<u>MooTools</u>](http://mootools.net/)
-- [<u>script.aculo.us</u>](http://script.aculo.us/)
+- <u><a href="https://houseofbilz.com/" data-cke-saved-href="https://houseofbilz.com">Brian Genisio</a></u>
+- [<u>MooTools</u>](https://mootools.net/)
+- [<u>script.aculo.us</u>](https://script.aculo.us/)
 - [History.js](https://github.com/balupton/History.js/)
-- [<u>Sammy.js</u>](http://www.sammyjs.org/)
-- [<u>View Models</u>](http://en.wikipedia.org/wiki/View_model)
-- [<u>Spaghetti</u>](http://en.wikipedia.org/wiki/Spaghetti_code)
+- [<u>Sammy.js</u>](https://www.sammyjs.org/)
+- [<u>View Models</u>](https://en.wikipedia.org/wiki/View_model)
+- [<u>Spaghetti</u>](https://en.wikipedia.org/wiki/Spaghetti_code)
 - [<u>Scott Hanselman</u>](https://twitter.com/shanselman)
 - [<u>Evergreen</u>&nbsp;&nbsp; &nbsp;](https://github.com/naturalcodeproject/Evergreen)
 
 36:30 - Problems/Edges with Frameworks
 
-- [<u>Stack Overflow: How to write a directive in Angular.js to scrape dom for data</u>](http://stackoverflow.com/questions/23257859/how-to-write-a-directive-in-angular-js-to-scrape-dom-for-data)
+- [<u>Stack Overflow: How to write a directive in Angular.js to scrape dom for data</u>](https://stackoverflow.com/questions/23257859/how-to-write-a-directive-in-angular-js-to-scrape-dom-for-data)
 
 41:35 - Documentation Quality with Frameworks
 
 43:39 - Writing the Book Today - Changes
 
-Chuck’s [<u>JavaScript Mobile</u>](http://mobilejavascript.com/) Roundtable: November 5
+Chuck’s [<u>JavaScript Mobile</u>](https://mobilejavascript.com/) Roundtable: November 5
 
-Text “MobileJS” to 38470 or Visit [<u>JSPowerUp.com</u>](http://jspowerup.com/)
+Text “MobileJS” to 38470 or Visit [<u>JSPowerUp.com</u>](https://jspowerup.com/)
 
 ### Transcript
 

@@ -22,7 +22,7 @@ In this episode, Chuck discusses his new podcast show titled the DevRev. Chuck a
 
 0:00 – Advertisement: [AngularBootCamp.Com](https://angularbootcamp.com)
 
-0:52 – Chuck: Welcome! The panel is myself! I had this idea bouncing in my head for a while and I got some verification while waiting for my guest and panelists to show up. The show that I am producing is called, [DevRev](http://thedevrev.com) and it’s based on developer freedom.
+0:52 – Chuck: Welcome! The panel is myself! I had this idea bouncing in my head for a while and I got some verification while waiting for my guest and panelists to show up. The show that I am producing is called, [DevRev](https://thedevrev.com) and it’s based on developer freedom.
 
 2:22 – Chuck: Some developers love to contribute to open source. Some developers say that they don’t get along with their boss or coworkers. Others will say that they aren’t learning and feel like they are falling behind. I am on the B team and want to be on the A team. It boils down to: are they getting the freedom to do what they want to do.
 
@@ -40,7 +40,7 @@ Chuck: Freedom to pursue the things that I care about vs. not pursue the things 
 
 10:15 – Chuck: How do you feel fulfilled? Let’s find you a place that will payoff for you. There are all kinds of ideas around this. That’s where I want to dive-into!
 
-11:11 – Chuck: If there are any questions that you have in particular – shoot me a message! I will gladly answer your questions and check out [TheDevRev.com](http://thedevrev.com)! I have some friends who run a financial podcast – [2 Frugal Dudes.](https://2frugaldudes.com) I want you to ask the questions that are irking you.
+11:11 – Chuck: If there are any questions that you have in particular – shoot me a message! I will gladly answer your questions and check out [TheDevRev.com](https://thedevrev.com)! I have some friends who run a financial podcast – [2 Frugal Dudes.](https://2frugaldudes.com) I want you to ask the questions that are irking you.
 
 12:36 – Chuck: I feel like there are tons of opportunities for developers out there that we can help you find what’s a good place for you. Find what you want out your career and life – find something that will line-up for you. Even if you are trying to find your first job! There are a lot of options out there. I am putting the show out on YouTube and Facebook!
 
@@ -50,7 +50,7 @@ END – [Advertisement – Cache Fly!](https://www.cachefly.com)
 
 - [Discord App](https://discordapp.com/login?redirect_to=%252Factivity)
 - Discord App – DevChat TV
-- [TheDevRev.com](http://thedevrev.com)
+- [TheDevRev.com](https://thedevrev.com)
 
 **Sponsors:**
 

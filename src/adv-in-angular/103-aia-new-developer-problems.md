@@ -15,23 +15,23 @@ tags:
 
 ## [Angular Remote Conf](https://allremoteconfs.com/angular-2016)
 
-&nbsp; **This show is based off the following listener email:** “I know you've discussed a couple of times about how hard it is to set up an Angular 2 project. Whilst most of this has nothing to do with Angular itself, it's still the barrier to entry. There's no point in saying how much easier Angular 2 is than Angular 1 if you can't get it running. Even though I'd heard your previous discussions on this, in reality I was totally unprepared as to how difficult it was when I had to do it myself recently. Even the Angular 2 5 minute quick start took me a day to get my head around!I was delighted to hear the Angular team was coming up with Angular CLI. Get the mechanics out the way and lower the barrier to entry. So I typed 'ng new myapp'. Oh! Looking at the properties of the directory I saw Size: 161MB, Contains: 40,531 files, 7,226 folders.Has the JavaScript world gone completely mad? Is this really acceptable? 40,000+ files before I write my first line of code? OK, so Angular CLI has created all this stuff for me but I still have to understand what it's about, or how will I maintain it and keep it up-to-date. What happens if there's an incompatibility in one of the libraries used?It would be great to hear the members of the podcast discuss what they think needs to happen in order to simplify this. Is Angular CLI actually simplifying things, or is it just shifting the 'getting starting' problem to become a maintenance problem? Is it even possible to have a simple Angular 2 project, do we need to just accept that 161MB of disk space is a minimum? Has Angular 2 become out of reach for hobbyists, or is it the exclusive property of experts and full time client-side developers only?”04:35 - Purpose and Value15:32 - [“Dumpster Fire”](http://www.urbandictionary.com/define.php?term=Dumpster%20Fire)19:01 - Capability and Complexity26:03 - Getting Setup to Develop in Angular; Investing in Skills
+&nbsp; **This show is based off the following listener email:** “I know you've discussed a couple of times about how hard it is to set up an Angular 2 project. Whilst most of this has nothing to do with Angular itself, it's still the barrier to entry. There's no point in saying how much easier Angular 2 is than Angular 1 if you can't get it running. Even though I'd heard your previous discussions on this, in reality I was totally unprepared as to how difficult it was when I had to do it myself recently. Even the Angular 2 5 minute quick start took me a day to get my head around!I was delighted to hear the Angular team was coming up with Angular CLI. Get the mechanics out the way and lower the barrier to entry. So I typed 'ng new myapp'. Oh! Looking at the properties of the directory I saw Size: 161MB, Contains: 40,531 files, 7,226 folders.Has the JavaScript world gone completely mad? Is this really acceptable? 40,000+ files before I write my first line of code? OK, so Angular CLI has created all this stuff for me but I still have to understand what it's about, or how will I maintain it and keep it up-to-date. What happens if there's an incompatibility in one of the libraries used?It would be great to hear the members of the podcast discuss what they think needs to happen in order to simplify this. Is Angular CLI actually simplifying things, or is it just shifting the 'getting starting' problem to become a maintenance problem? Is it even possible to have a simple Angular 2 project, do we need to just accept that 161MB of disk space is a minimum? Has Angular 2 become out of reach for hobbyists, or is it the exclusive property of experts and full time client-side developers only?”04:35 - Purpose and Value15:32 - [“Dumpster Fire”](https://www.urbandictionary.com/define.php?term=Dumpster%20Fire)19:01 - Capability and Complexity26:03 - Getting Setup to Develop in Angular; Investing in Skills
 
 - [Angular 2 5 Min Quickstart](https://angular.io/docs/ts/latest/quickstart.html)
 - [Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/)
 - “Has Angular 2 become out of reach for hobbyists, or is it the exclusive property of experts and full time client-side developers only?”
-- [Lukas Reubbelke: Angular 2 with Handcrafted Tools, Century-Old Techniques and ES5](http://onehungrymind.com/build-angular-2-app-es5/)
+- [Lukas Reubbelke: Angular 2 with Handcrafted Tools, Century-Old Techniques and ES5](https://onehungrymind.com/build-angular-2-app-es5/)
   &nbsp;Picks
 - [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio Garcia Martinez](https://www.amazon.com/dp/B019MMUAAQ) (Ward)
-- [Wink](http://www.wink.com/products/) (Lukas)
+- [Wink](https://www.wink.com/products/) (Lukas)
 - [Badass: Making Users Awesome by Kathy Sierra](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019) (Lukas)
 - Learning (Joe)
-- [George W. Bush in Dallas: “Too often we judge other groups by their worst examples, while judging ourselves by our best intentions.”](http://www.vox.com/2016/7/12/12164176/george-bush-dallas-shooting-speech-video) (Joe)
+- [George W. Bush in Dallas: “Too often we judge other groups by their worst examples, while judging ourselves by our best intentions.”](https://www.vox.com/2016/7/12/12164176/george-bush-dallas-shooting-speech-video) (Joe)
 - [VidAngel](https://www.vidangel.com/) (Joe)
-- [Opposing protesters meet in Dallas](http://www.cnn.com/videos/us/2016/07/11/one-dallas-protesters-come-together-nccorig.cnn/video/playlists/dallas-police-officer-shot/) (Chuck)
-- [iPad Pro](http://www.apple.com/ipad-pro/) (Chuck)
-- [Apple Pencil](http://www.apple.com/apple-pencil/) (Chuck)
-- [GoodNotes](http://www.goodnotesapp.com/) (Chuck)
+- [Opposing protesters meet in Dallas](https://www.cnn.com/videos/us/2016/07/11/one-dallas-protesters-come-together-nccorig.cnn/video/playlists/dallas-police-officer-shot/) (Chuck)
+- [iPad Pro](https://www.apple.com/ipad-pro/) (Chuck)
+- [Apple Pencil](https://www.apple.com/apple-pencil/) (Chuck)
+- [GoodNotes](https://www.goodnotesapp.com/) (Chuck)
 - [Adventures in Angular Facebook Page](https://www.facebook.com/adventuresinangular/) (Chuck)
 
 ### Transcript

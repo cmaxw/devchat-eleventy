@@ -30,7 +30,7 @@ GraphQL started and developed in Facebook 5 years ago. Front-end and client deve
 
 ## Picks:
 
-Aimee: Github Repository CSF Pro-tips and [For Women Only&nbsp;](http://shaunti.com/book/for-women-only-2/for-women-only-audio-book/)Charles: [JS Remote Conf Videos](https://devchat.tv/conferences/js-remote-conf-2017), Angular and React Remote Conf, [The Emperor's Blades by Brian Staveley](http://www.goodreads.com/book/show/17910124-the-emperor-s-blades), and [Deep Work by &nbsp;Cal Newport](http://www.goodreads.com/book/show/25744928-deep-work)AJ: [Breath of&nbsp;the Wild](http://www.zelda.com/breath-of-the-wild/) and [Kubo&nbsp;and The Two Strings](http://www.imdb.com/title/tt4302938/)Johannes: [Create React Native App](https://github.com/react-community/create-react-native-app)
+Aimee: Github Repository CSF Pro-tips and [For Women Only&nbsp;](https://shaunti.com/book/for-women-only-2/for-women-only-audio-book/)Charles: [JS Remote Conf Videos](https://devchat.tv/conferences/js-remote-conf-2017), Angular and React Remote Conf, [The Emperor's Blades by Brian Staveley](https://www.goodreads.com/book/show/17910124-the-emperor-s-blades), and [Deep Work by &nbsp;Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work)AJ: [Breath of&nbsp;the Wild](https://www.zelda.com/breath-of-the-wild/) and [Kubo&nbsp;and The Two Strings](https://www.imdb.com/title/tt4302938/)Johannes: [Create React Native App](https://github.com/react-community/create-react-native-app)
 
 ## Episode Links:
 

@@ -15,51 +15,51 @@ tags:
 ### Panel
 
 - Vojta Jína ([twitter](https://twitter.com/vojtajina) [github](https://github.com/vojtajina))
-- Misko Hevery ([twitter](https://twitter.com/mhevery) [github](https://github.com/mhevery) [blog](http://misko.hevery.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://blog.coolaj86.com/) [youtube](http://youtube.com/coolaj86))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Misko Hevery ([twitter](https://twitter.com/mhevery) [github](https://github.com/mhevery) [blog](https://misko.hevery.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://blog.coolaj86.com/) [youtube](https://youtube.com/coolaj86))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:39 - Introductions
 
 - [AngularJS](https://angularjs.org/)
-  02:52 - [Dependency Injection](http://en.wikipedia.org/wiki/Dependency_injection)05:21 - Testing
-- [RequireJS](http://requirejs.org/)
+  02:52 - [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)05:21 - Testing
+- [RequireJS](https://requirejs.org/)
 - [Squire.js](https://github.com/iammerrick/Squire.js/)
   16:26 - Dependency Injection (Cont’d)
-- [Three Types of Dependency Injection](http://en.wikipedia.org/wiki/Dependency_injection#Three_types_of_dependency_injection)
+- [Three Types of Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection#Three_types_of_dependency_injection)
 - (Pattern vs Mechanics)
 - Lazy Loading
   24:58 - Injector (Container) 26:13 - [Vojta Jina - Dependency Injection - NG-Conf](https://www.youtube.com/watch?v=_OGGsf1ZXMs)26:52 - Angular 2.0 and Dependency Injection
-- [Assembling Examples](http://en.wikipedia.org/wiki/Dependency_injection#Assembling_examples)
+- [Assembling Examples](https://en.wikipedia.org/wiki/Dependency_injection#Assembling_examples)
   31:40 - [di.js](https://github.com/angular/di.js)
 
 ### Picks
 
-- [JS: The Right Way](http://jstherightway.org/) (Aaron)
-- [DevFest Family 2014](http://devfestfam.com/) (Aaron)
-- [[Audible] Ready Player One by Ernest Cline](http://www.audible.com/pd/Sci-Fi-Fantasy/Ready-Player-One-Audiobook/B005FRGT44/ref=a_search_c4_1_1_srTtl?qid=1400014338&sr=1-1) (Aaron)
-- [[Amazon] Ready Player One by Ernest Cline](http://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=LVYHM23HRPDQ25L4) (Aaron)
-- [[Audible] Lost Boys by Orson Scott Card](http://www.audible.com/pd/Fiction/Lost-Boys-Audiobook/B002V0M532/ref=a_search_c4_1_2_srTtl?qid=1400014352&sr=1-2) (Aaron)
-- [[Amazon] Lost Boys by Orson Scott Card](http://www.amazon.com/gp/product/0061091316/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0061091316&linkCode=as2&tag=chamaxwoo-20&linkId=PEX5EBPZNXEDVK46) (Aaron)
-- [Dependency Injection](http://en.wikipedia.org/wiki/Dependency_injection) (AJ)
-- [Sarah Ervin: The Unstable Future of Angular.js](http://java.dzone.com/articles/unstable-future-angularjs) (AJ)
+- [JS: The Right Way](https://jstherightway.org/) (Aaron)
+- [DevFest Family 2014](https://devfestfam.com/) (Aaron)
+- [[Audible] Ready Player One by Ernest Cline](https://www.audible.com/pd/Sci-Fi-Fantasy/Ready-Player-One-Audiobook/B005FRGT44/ref=a_search_c4_1_1_srTtl?qid=1400014338&sr=1-1) (Aaron)
+- [[Amazon] Ready Player One by Ernest Cline](https://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=LVYHM23HRPDQ25L4) (Aaron)
+- [[Audible] Lost Boys by Orson Scott Card](https://www.audible.com/pd/Fiction/Lost-Boys-Audiobook/B002V0M532/ref=a_search_c4_1_2_srTtl?qid=1400014352&sr=1-2) (Aaron)
+- [[Amazon] Lost Boys by Orson Scott Card](https://www.amazon.com/gp/product/0061091316/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0061091316&linkCode=as2&tag=chamaxwoo-20&linkId=PEX5EBPZNXEDVK46) (Aaron)
+- [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection) (AJ)
+- [Sarah Ervin: The Unstable Future of Angular.js](https://java.dzone.com/articles/unstable-future-angularjs) (AJ)
 - [Static vs Dynamic vs Automatic Dependency Injection](https://gist.github.com/coolaj86/1a384f21c91f8af78db1) (AJ)
 - Rock Climbing (AJ)
-- [Hearthstone](http://us.battle.net/hearthstone/en/) (Jamison)
-- [Liquid Hearth](http://www.liquidhearth.com/) (Jamison)
-- [Nosaj Thing – Drift](http://www.youtube.com/watch?v=F83hH0eu09k) (Jamison)
+- [Hearthstone](https://us.battle.net/hearthstone/en/) (Jamison)
+- [Liquid Hearth](https://www.liquidhearth.com/) (Jamison)
+- [Nosaj Thing – Drift](https://www.youtube.com/watch?v=F83hH0eu09k) (Jamison)
 - [That Conference](https://www.thatconference.com/) (Joe)
-- [[Pluralsight] Front End Web Development: Get Started by Joe Eames](http://pluralsight.com/training/Courses/TableOfContents/front-end-web-development-get-started) (Joe)
+- [[Pluralsight] Front End Web Development: Get Started by Joe Eames](https://pluralsight.com/training/Courses/TableOfContents/front-end-web-development-get-started) (Joe)
 - [ELSETREE 1976](https://www.kickstarter.com/projects/832232974/elstree-1976) (Joe)
-- [Electric Height Adjustable Desk](http://www.instructables.com/id/Electric-Height-Adjustable-Desk/) (Chuck)
-- [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [How to Talk So Kids Will Listen & Listen So Kids Will Talk by Adele Faber and Elaine Mazlish](http://www.amazon.com/gp/product/1451663889/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451663889&linkCode=as2&tag=chamaxwoo-20&linkId=LTXLUKRUKSTLAFEN) (Misko)
-- [The Changelog: Rich Hickey’s Greatest Hits](http://thechangelog.com/rich-hickeys-greatest-hits/) (Vojta)
+- [Electric Height Adjustable Desk](https://www.instructables.com/id/Electric-Height-Adjustable-Desk/) (Chuck)
+- [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [How to Talk So Kids Will Listen & Listen So Kids Will Talk by Adele Faber and Elaine Mazlish](https://www.amazon.com/gp/product/1451663889/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451663889&linkCode=as2&tag=chamaxwoo-20&linkId=LTXLUKRUKSTLAFEN) (Misko)
+- [The Changelog: Rich Hickey’s Greatest Hits](https://thechangelog.com/rich-hickeys-greatest-hits/) (Vojta)
 
 ### Next Week
 

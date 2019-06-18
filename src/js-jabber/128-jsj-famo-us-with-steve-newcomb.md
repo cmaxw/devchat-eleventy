@@ -15,74 +15,74 @@ tags:
 ### Panel
 
 - Steve Newcomb ([twitter](https://twitter.com/stevenewcomb))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Dave Smith ([twitter](https://twitter.com/djsmith42)&nbsp;[github](https://github.com/bigdave)&nbsp;[blog](http://www.eighttrackmind.com/))
-- AJ ONeal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://blog.coolaj86.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Dave Smith ([twitter](https://twitter.com/djsmith42)&nbsp;[github](https://github.com/bigdave)&nbsp;[blog](https://www.eighttrackmind.com/))
+- AJ ONeal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://blog.coolaj86.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:25 - Steve Introduction
 
 - Mark Lu (Cofounder)
-  01:39 - [famo.us](http://www.famo.us/)
+  01:39 - [famo.us](https://www.famo.us/)
 - [html5](https://html5.org/)
-- [JavaScript Meetup Groups](http://javascript.meetup.com/)
-- [React](http://reactjs.net/)
-- [DOM](http://en.wikipedia.org/wiki/Document_Object_Model)
+- [JavaScript Meetup Groups](https://javascript.meetup.com/)
+- [React](https://reactjs.net/)
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
   05:14 - Abstraction
-- [Matrix Transform](http://en.wikipedia.org/wiki/Transformation_matrix)
-- [Scalable Vector Graphics (SVG)](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
-- [WebGL](http://www.khronos.org/webgl/)
+- [Matrix Transform](https://en.wikipedia.org/wiki/Transformation_matrix)
+- [Scalable Vector Graphics (SVG)](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+- [WebGL](https://www.khronos.org/webgl/)
   06:33 - Famo.us vs. Ionic
-- [The Ionic Framework](http://ionicframework.com/)
-- [126 JSJ The Ionic Framework with Max Lynch and Tyler Renelle](http://javascriptjabber.com/126-jsj-the-ionic-framework-with-max-lynch-and-tyler-renelle/)
+- [The Ionic Framework](https://ionicframework.com/)
+- [126 JSJ The Ionic Framework with Max Lynch and Tyler Renelle](https://javascriptjabber.com/126-jsj-the-ionic-framework-with-max-lynch-and-tyler-renelle/)
 - [AngularJS](https://angularjs.org/)
   08:24 - Rendering the DOM
-- [jQuery](http://jquery.com/)
+- [jQuery](https://jquery.com/)
   - [Dave Methvin](https://twitter.com/davemethvin)
-- [Bootstrap](http://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 - Container Surface
   - Div Class = Famo.us Container
-- [Famo.us University](http://famo.us/university/home/#/)
+- [Famo.us University](https://famo.us/university/home/#/)
   12:17 - Rendering Process
 - Animation
 - [Mathan Apps](https://play.google.com/store/apps/developer?id=Mathan)
 - [Unreal 4 Engine](https://www.unrealengine.com/what-is-unreal-engine-4)
-- [Unity 3D](http://unity3d.com/)
-- [Native iOS](http://nativeframework.com/)
-- [Render Tree](http://www.famo.us/guides/render-tree)
-- [periodic.famo.us](http://periodic.famo.us/)
+- [Unity 3D](https://unity3d.com/)
+- [Native iOS](https://nativeframework.com/)
+- [Render Tree](https://www.famo.us/guides/render-tree)
+- [periodic.famo.us](https://periodic.famo.us/)
   18:08 - Libraries in Browser Distribution 19:32 - Cross-Platform
 - All Browsers
   20:22 - Future of Famo.us and DOM
-- [OpenGL](http://www.opengl.org/)
-- [three.js](http://threejs.org/)
+- [OpenGL](https://www.opengl.org/)
+- [three.js](https://threejs.org/)
   24:19 - Managing and Organizing Apps
 - View Layer
-- [Model View Controller (MVC)](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-- [Ember.js](http://emberjs.com/)
-- [Backbone](http://backbonejs.org/)
-- [State.js](http://statejs.org/)
+- [Model View Controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+- [Ember.js](https://emberjs.com/)
+- [Backbone](https://backbonejs.org/)
+- [State.js](https://statejs.org/)
   26:39 - Production Projects with Famo.us
 - [Famo.us Labs](https://www.youtube.com/watch?v=_BCabYisGZg)
 - [Docker](https://www.docker.com/)
-- [Docker Containers](http://docs.docker.com/terms/container/)
-- [jQuery Carousel](http://plugins.jquery.com/carousel/)
-- [Graphical User Interface (GUI)](http://en.wikipedia.org/wiki/Graphical_user_interface)
+- [Docker Containers](https://docs.docker.com/terms/container/)
+- [jQuery Carousel](https://plugins.jquery.com/carousel/)
+- [Graphical User Interface (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface)
   30:24 - Profiting from Famo.us Widgets
-- [Lightbox](<http://en.wikipedia.org/wiki/Lightbox_(JavaScript)>)
-- [Isotope](http://isotope.metafizzy.co/)
+- [Lightbox](<https://en.wikipedia.org/wiki/Lightbox_(JavaScript)>)
+- [Isotope](https://isotope.metafizzy.co/)
   31:19 - Testing 32:17 - Creating Custom Looks for Apps
-- [Human Interface Guide (HIG)](http://en.wikipedia.org/wiki/Human_interface_guidelines)
-- [Android Material Design](http://developer.android.com/preview/material/index.html)
+- [Human Interface Guide (HIG)](https://en.wikipedia.org/wiki/Human_interface_guidelines)
+- [Android Material Design](https://developer.android.com/preview/material/index.html)
   34:13 - Transitioning Coding Workflows
-- [Pristine](http://pristine.websitesunlimitedco.com/)
+- [Pristine](https://pristine.websitesunlimitedco.com/)
   35:37 - Marketing
-- [MIT License](http://en.wikipedia.org/wiki/MIT_License)
-- [Cordova](http://cordova.apache.org/)
-- [Apache License](http://www.apache.org/licenses/)
-- [Famo.us Newsletter](http://famo.us5.list-manage.com/subscribe/post?u=4656ba2b0a364690c8530bc1e&id=3293122916)
+- [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+- [Cordova](https://cordova.apache.org/)
+- [Apache License](https://www.apache.org/licenses/)
+- [Famo.us Newsletter](https://famo.us5.list-manage.com/subscribe/post?u=4656ba2b0a364690c8530bc1e&id=3293122916)
   40:07 - Strengths and Weaknesses of Open Source Projects
 - Corporate Funding
   43:47 - Integrating with Different Platforms
@@ -98,16 +98,16 @@ tags:
 - [ursa](https://github.com/Medium/ursa) (AJ)
 - [ursa Example](https://gist.github.com/coolaj86/f6f36efce2821dfb046d) (AJ)
 - [Hacker School](https://www.hackerschool.com/manual) (Jamison)
-- [sonic-pi](http://sonic-pi.net/) (Jamison)
-- [overtone](http://overtone.github.io/) (Jamison)
+- [sonic-pi](https://sonic-pi.net/) (Jamison)
+- [overtone](https://overtone.github.io/) (Jamison)
 - [JSConf EU 2014 Opening](https://www.youtube.com/watch?v=pkjwUOk_iCk) (Jamison)
-- [Vim](http://www.vim.org/download.php) (Dave)
+- [Vim](https://www.vim.org/download.php) (Dave)
 - [HipChat](https://www.hipchat.com/) (Dave)
-- [Michael Vey 4: Hunt for Jade Dragon by Richard Paul Evans](http://www.amazon.com/gp/product/1481424386/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1481424386&linkCode=as2&tag=chamaxwoo-20&linkId=4I7CGABD7CTDALIM) (Chuck)
-- [Stuff You Should Know: The Podcast](http://www.stuffyoushouldknow.com/podcasts/) (Chuck)
-- [NodeBots](http://nodebots.io/) (Steve)
-- [Sandstorm](http://sandstorm.io/) (Steve)
-- [Hakim El Hattab](http://hakim.se/) (Steve)
+- [Michael Vey 4: Hunt for Jade Dragon by Richard Paul Evans](https://www.amazon.com/gp/product/1481424386/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1481424386&linkCode=as2&tag=chamaxwoo-20&linkId=4I7CGABD7CTDALIM) (Chuck)
+- [Stuff You Should Know: The Podcast](https://www.stuffyoushouldknow.com/podcasts/) (Chuck)
+- [NodeBots](https://nodebots.io/) (Steve)
+- [Sandstorm](https://sandstorm.io/) (Steve)
+- [Hakim El Hattab](https://hakim.se/) (Steve)
 
 ### Next Week
 

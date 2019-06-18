@@ -130,7 +130,7 @@ Ed continues this conversation.
 
 21:20 – Chuck explains it.
 
-21:25 – Ed: Here is what we probably don’t have is a lot of [ERLANG](http://www.erlang.org/community) support.
+21:25 – Ed: Here is what we probably don’t have is a lot of [ERLANG](https://www.erlang.org/community) support.
 
 22:41 – Advertisement.
 
@@ -244,7 +244,7 @@ We do have IE extensions, I am sure there is something for VS Code – but it’
 - [Microsoft’s Azure](https://azure.microsoft.com/en-us/free/search/?&OCID=AID719825_SEM_fNqQIgDa&lnkd=Google_Azure_Brand&gclid=EAIaIQobChMI4pTVroeH3gIVkrrACh3N8A_jEAAYASAAEgKhmPD_BwE&dclid=CPuwl7CHh94CFUyvTwod64QINA)
 - [Microsoft’s Pipeline](https://azure.microsoft.com/en-us/services/devops/pipelines/)
 - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
-- [Erlang](http://www.erlang.org/community)
+- [Erlang](https://www.erlang.org/community)
 - [WhiteSource](https://www.whitesourcesoftware.com/how-does-it-work/)
 - [Chuck’s Twitter](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Ed Thomson’s Twitter](https://twitter.com/ethomson?lang=en)

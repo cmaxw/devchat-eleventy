@@ -12,43 +12,43 @@ tags:
   - podcast
 ---
 
-[Objects in Rails - Part 1 (with Jim Weirich)](http://devchat.tv/ruby-rogues/object-oriented-programming-in-rails-with-jim-weirich)01:34 -&nbsp;[Objects on Rails by Avdi Grimm](http://objectsonrails.com/)
+[Objects in Rails - Part 1 (with Jim Weirich)](https://devchat.tv/ruby-rogues/object-oriented-programming-in-rails-with-jim-weirich)01:34 -&nbsp;[Objects on Rails by Avdi Grimm](https://objectsonrails.com/)
 
 - Object-Oriented Design Within Rails
 - Manipulates Time =\> Pass in the Clock Object
 - Create a Clock Class and Pass It Around
-- [Timecop](http://rubygems.org/gems/timecop)
-  09:22 -&nbsp;[Rails](http://rubyonrails.org/)
+- [Timecop](https://rubygems.org/gems/timecop)
+  09:22 -&nbsp;[Rails](https://rubyonrails.org/)
 - ‘Ruby under the hood’
 - ‘A layer on top of Ruby’
 - Your Models and Controllers Are Just cClasses
 - Ruby Blocks
-  11:40 - [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development (The Facets of Ruby) by José](http://www.amazon.com/gp/product/1937785556/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785556&linkCode=as2&tag=chamaxwoo-20&linkId=CWZC5QWN2OGDBMJI)[Valim](http://www.amazon.com/gp/product/1937785556/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785556&linkCode=as2&tag=chamaxwoo-20&linkId=CWZC5QWN2OGDBMJI)12:46 - [Functional](http://en.wikipedia.org/wiki/Functional_programming) vs. [Object-Oriented Programming](http://en.wikipedia.org/wiki/Object-oriented_programming) in Rails
+  11:40 - [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development (The Facets of Ruby) by José](https://www.amazon.com/gp/product/1937785556/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785556&linkCode=as2&tag=chamaxwoo-20&linkId=CWZC5QWN2OGDBMJI)[Valim](https://www.amazon.com/gp/product/1937785556/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785556&linkCode=as2&tag=chamaxwoo-20&linkId=CWZC5QWN2OGDBMJI)12:46 - [Functional](https://en.wikipedia.org/wiki/Functional_programming) vs. [Object-Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming) in Rails
 - JavaScript is Closer to Functional Programming Than Ruby Is
 - Smalltalk 72 / 76
   16:15 - The Balance (or Anti-Balance) of Having Two Design Centers
 - Blocks / Closures
-  18:12 -&nbsp;[Growing Object-Oriented Software, Guided by Tests by Steve Freeman](http://www.amazon.com/gp/product/0321503627/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321503627&linkCode=as2&tag=chamaxwoo-20&linkId=3GS6VNEHDMUD3Z4G)18:54 - Lazy Enumerables ([blog post](http://blog.railsware.com/2012/03/13/ruby-2-0-enumerablelazy/))
-- [SASL](http://foldoc.org/St+Andrews+Static+Language) (St. Andrew's Static Language)
+  18:12 -&nbsp;[Growing Object-Oriented Software, Guided by Tests by Steve Freeman](https://www.amazon.com/gp/product/0321503627/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321503627&linkCode=as2&tag=chamaxwoo-20&linkId=3GS6VNEHDMUD3Z4G)18:54 - Lazy Enumerables ([blog post](https://blog.railsware.com/2012/03/13/ruby-2-0-enumerablelazy/))
+- [SASL](https://foldoc.org/St+Andrews+Static+Language) (St. Andrew's Static Language)
 - [Rex](https://rubygems.org/gems/rex/versions/2.0.8)
-  25:22 - [The Builder Pattern](http://en.wikipedia.org/wiki/Builder_pattern)29:00 - [Smalltalk Best Practice Patterns by Kent Beck](http://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=013476904X&linkCode=as2&tag=chamaxwoo-20&linkId=6QISAYNFLWFRVDQO)
+  25:22 - [The Builder Pattern](https://en.wikipedia.org/wiki/Builder_pattern)29:00 - [Smalltalk Best Practice Patterns by Kent Beck](https://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=013476904X&linkCode=as2&tag=chamaxwoo-20&linkId=6QISAYNFLWFRVDQO)
 - Breaking Into Small Pieces
 - Filter Streams
-- Example in Rails:&nbsp; [Rails' find_each method](http://guides.rubyonrails.org/active_record_querying.html#retrieving-multiple-objects-in-batches)
+- Example in Rails:&nbsp; [Rails' find_each method](https://guides.rubyonrails.org/active_record_querying.html#retrieving-multiple-objects-in-batches)
 - Batches of Finds
   32:22 - Filters in Controller
-- [Aspect-Oriented Programming](http://en.wikipedia.org/wiki/Aspect-oriented_programming)
-- [INTERCAL](http://en.wikipedia.org/wiki/INTERCAL)
+- [Aspect-Oriented Programming](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
+- [INTERCAL](https://en.wikipedia.org/wiki/INTERCAL)
   33:51 - Continuations
-- [Eloquent Ruby by Russ Olsen](http://www.amazon.com/gp/product/0321584104/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321584104&linkCode=as2&tag=chamaxwoo-20&linkId=4G3OSV3LJJOWVBT5)
+- [Eloquent Ruby by Russ Olsen](https://www.amazon.com/gp/product/0321584104/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321584104&linkCode=as2&tag=chamaxwoo-20&linkId=4G3OSV3LJJOWVBT5)
 - Recommendations / Favorite Practices
   35:00 - Avdi: Encapsulation
 - You can expose controller methods as helpers in a view
   37:30 - Josh: The Presenter
 - Right Between Parameter Object Refactoring and Method Object
-- [Jay Fields](http://blog.jayfields.com/)
-  38:50 - James: Method on Models 40:00 - Josh 2.0: Fixture Scenarios 41:50 - Avdi 2.0: Manipulability 43:14 - [Object Oriented Programming](http://en.wikipedia.org/wiki/Object-oriented_programming) to Represent Real World Objects? Good Idea? Bad Idea? Even Possible?
-- [Object-](http://en.wikipedia.org/wiki/Object-oriented_programming)[Oiented](http://en.wikipedia.org/wiki/Object-oriented_programming)[Programming](http://en.wikipedia.org/wiki/Object-oriented_programming) = Modeling the Important Parts
+- [Jay Fields](https://blog.jayfields.com/)
+  38:50 - James: Method on Models 40:00 - Josh 2.0: Fixture Scenarios 41:50 - Avdi 2.0: Manipulability 43:14 - [Object Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming) to Represent Real World Objects? Good Idea? Bad Idea? Even Possible?
+- [Object-](https://en.wikipedia.org/wiki/Object-oriented_programming)[Oiented](https://en.wikipedia.org/wiki/Object-oriented_programming)[Programming](https://en.wikipedia.org/wiki/Object-oriented_programming) = Modeling the Important Parts
   46:50 - Representing Roles
 
 ### Transcript

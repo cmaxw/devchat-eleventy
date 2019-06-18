@@ -14,78 +14,78 @@ tags:
 
 ### Panel
 
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:48 - Skills to Be a Competitive Web Developer
 
-- [Express.js](http://expressjs.com/)
-- [Geocities [Wiki]](http://en.wikipedia.org/wiki/GeoCities)
-- [jQuery](http://jquery.com/)
-- [postgreSQL](http://www.postgresql.org/)
-- [MongoDB](http://www.mongodb.org/)
-- [Cassandra](http://cassandra.sourceforge.net/)
-- [Bootstrap](http://getbootstrap.com/)
-- [foundation](http://foundation.zurb.com/)
+- [Express.js](https://expressjs.com/)
+- [Geocities [Wiki]](https://en.wikipedia.org/wiki/GeoCities)
+- [jQuery](https://jquery.com/)
+- [postgreSQL](https://www.postgresql.org/)
+- [MongoDB](https://www.mongodb.org/)
+- [Cassandra](https://cassandra.sourceforge.net/)
+- [Bootstrap](https://getbootstrap.com/)
+- [foundation](https://foundation.zurb.com/)
 - [Angular.js](https://angularjs.org/)
   05:50 - Changing/Expanding Technology
-- [JavaScript [Wiki]](http://en.wikipedia.org/wiki/JavaScript)
-- [FoxPro](http://en.wikipedia.org/wiki/FoxPro)
+- [JavaScript [Wiki]](https://en.wikipedia.org/wiki/JavaScript)
+- [FoxPro](https://en.wikipedia.org/wiki/FoxPro)
 - X based language
-- [SQL](http://en.wikipedia.org/wiki/SQL)
-- [Fortran](http://en.wikipedia.org/wiki/Fortran)
-- [COBOL](http://en.wikipedia.org/wiki/COBOL)
-- [IBM DB2](http://en.wikipedia.org/wiki/IBM_DB2)
-- [Oracle](http://en.wikipedia.org/wiki/Oracle_Database)
-- [Ingres](<http://en.wikipedia.org/wiki/Ingres_(database)>)
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [Fortran](https://en.wikipedia.org/wiki/Fortran)
+- [COBOL](https://en.wikipedia.org/wiki/COBOL)
+- [IBM DB2](https://en.wikipedia.org/wiki/IBM_DB2)
+- [Oracle](https://en.wikipedia.org/wiki/Oracle_Database)
+- [Ingres](<https://en.wikipedia.org/wiki/Ingres_(database)>)
   11:22 - iOS Ecosystems
-- [DevOps](http://devops.com/)
-- [C#](<http://en.wikipedia.org/wiki/C_Sharp_(programming_language)>)
+- [DevOps](https://devops.com/)
+- [C#](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>)
   14:48 - Skills for a Successful Developer
-- More on [MongoDB](http://www.mongodb.org/)
-- [MySQL](http://www.mysql.com/)
-- [NoSQL](http://en.wikipedia.org/wiki/NoSQL)
+- More on [MongoDB](https://www.mongodb.org/)
+- [MySQL](https://www.mysql.com/)
+- [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
   17:46 - Creating Ideal Web Developers
-- [Chuck’s Coding Course - Teach Me To Code](http://teachmetocode.com/)
+- [Chuck’s Coding Course - Teach Me To Code](https://teachmetocode.com/)
   20:33 - Specialized Skills vs All-Around Knowledge
 - More on [Angular.js](https://angularjs.org/)
-- [Assembly](http://en.wikipedia.org/wiki/Assembly_language)
+- [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 - [Django](https://www.djangoproject.com/)
 - [Python](https://www.python.org/)
-- [Knockoutjs](http://knockoutjs.com/)
-- [Ember](http://emberjs.com/)
+- [Knockoutjs](https://knockoutjs.com/)
+- [Ember](https://emberjs.com/)
   27:07 - Definitive Developer Skills
 - Frameworks
 - [Heroku](https://www.heroku.com/)
-- [node.js](http://nodejs.org/)
-- [Backbonejs](http://backbonejs.org/)
+- [node.js](https://nodejs.org/)
+- [Backbonejs](https://backbonejs.org/)
 - Front-end Frameworks
-- [ASP.NET](http://www.asp.net/)
-- [HTML](http://en.wikipedia.org/wiki/HTML)
-- [CSS](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [ASP.NET](https://www.asp.net/)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
   40:01 - Future of Developing
-- [React](http://facebook.github.io/react/)
-- [Backend as a service [Wiki] (BaaS)](http://en.wikipedia.org/wiki/Backend_as_a_service)
-- [Platform as a service [Wiki] (PaaS)](http://en.wikipedia.org/wiki/Platform_as_a_service)
-- [iOS](http://en.wikipedia.org/wiki/IOS)
+- [React](https://facebook.github.io/react/)
+- [Backend as a service [Wiki] (BaaS)](https://en.wikipedia.org/wiki/Backend_as_a_service)
+- [Platform as a service [Wiki] (PaaS)](https://en.wikipedia.org/wiki/Platform_as_a_service)
+- [iOS](https://en.wikipedia.org/wiki/IOS)
 - [Facebook](https://www.facebook.com/)
-- [EmpireJS](http://2014.empirejs.org/)
+- [EmpireJS](https://2014.empirejs.org/)
 
 ### Picks
 
-- [Divinity: Original Sin](http://www.divinityoriginalsin.com/) (Jamison and Joe)
-- [SUNLESS SEA](http://store.steampowered.com/app/304650/) (Jamison)
-- [Narratron](http://narratron.com/) (Jamison)
-- [Basil & Fabian: A Wizard & His Man - Chapter 7: Counting the Cost](http://blog.jamisbuck.org/2014/07/15/counting-the-cost.html) (Jamison)
-- [Infinite Crisis](http://www.infinitecrisis.com/en) (Joe)
-- [Ben Orenstein: How to Talk to Developers](http://www.confreaks.com/videos/2488-railsconf2013-how-to-talk-to-developers) (Joe)
-- [The Financial Crisis and the Free Market Cure: Why Pure Capitalism is the World Economy's Only Hope by John A. Allison](http://www.amazon.com/gp/product/0071806776/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0071806776&linkCode=as2&tag=chamaxwoo-20&linkId=EOL47BLBXGCLIJVX) (Joe)
-- [Sh\*t My Dad Says by Justin Halpern](http://www.amazon.com/Sh-t-My-Dad-Says/dp/0061992704/ref=sr_1_1?ie=UTF8&qid=1405625024&sr=8-1&keywords=justin+halpern+sht+my+dad+says)&nbsp;(Chuck)
-- [The Stormlight Archive series by Brandon Sanderson](http://en.wikipedia.org/wiki/The_Stormlight_Archive) (Chuck)
-- [CacheFly](http://www.cachefly.com/) (Chuck)
+- [Divinity: Original Sin](https://www.divinityoriginalsin.com/) (Jamison and Joe)
+- [SUNLESS SEA](https://store.steampowered.com/app/304650/) (Jamison)
+- [Narratron](https://narratron.com/) (Jamison)
+- [Basil & Fabian: A Wizard & His Man - Chapter 7: Counting the Cost](https://blog.jamisbuck.org/2014/07/15/counting-the-cost.html) (Jamison)
+- [Infinite Crisis](https://www.infinitecrisis.com/en) (Joe)
+- [Ben Orenstein: How to Talk to Developers](https://www.confreaks.com/videos/2488-railsconf2013-how-to-talk-to-developers) (Joe)
+- [The Financial Crisis and the Free Market Cure: Why Pure Capitalism is the World Economy's Only Hope by John A. Allison](https://www.amazon.com/gp/product/0071806776/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0071806776&linkCode=as2&tag=chamaxwoo-20&linkId=EOL47BLBXGCLIJVX) (Joe)
+- [Sh\*t My Dad Says by Justin Halpern](https://www.amazon.com/Sh-t-My-Dad-Says/dp/0061992704/ref=sr_1_1?ie=UTF8&qid=1405625024&sr=8-1&keywords=justin+halpern+sht+my+dad+says)&nbsp;(Chuck)
+- [The Stormlight Archive series by Brandon Sanderson](https://en.wikipedia.org/wiki/The_Stormlight_Archive) (Chuck)
+- [CacheFly](https://www.cachefly.com/) (Chuck)
 
 ### Next Week
 

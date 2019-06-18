@@ -39,6 +39,6 @@ Stay in touch with Dylan Johnson!&nbsp;Feel free to send him a message at dylanj
 ## Episode Links:
 
 - [Ben Nadel's infographic line graph of learning Angular](https://www.bennadel.com/blog/2439-my-experience-with-angularjs---the-super-heroic-javascript-mvw-framework.htm)
-- [Richmond RVA.js group](http://rvajs.com/)
+- [Richmond RVA.js group](https://rvajs.com/)
 
 ### Transcript

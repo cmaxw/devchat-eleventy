@@ -20,17 +20,17 @@ tags:
 - [Joshua’s Twitter](https://twitter.com/joshuap)
   3:05 - Upgrading Rails without breaking it6:25 - Working with clients with technical debt12:20 - Frequently seen projects and clients14:45 - Upgrading clients from older versions of Rails22:50 - Why do clients push off upgrading?28:10 - How do you know when it’s time to upgrade?34:35 - Finding the right clients
 - [Website](https://www.upgraderails.com/)
-- [Ruby Weekly](http://rubyweekly.com/)
+- [Ruby Weekly](https://rubyweekly.com/)
   37:50 - Avoiding technical debt
 - [Rails Xss gem](https://github.com/NZKoz/rails_xss)
-- [Bundler](http://bundler.io/)
+- [Bundler](https://bundler.io/)
   40:30 - Upgrading Rails yourself
-- [http://guides.rubyonrails.org/](http://guides.rubyonrails.org/)
+- [https://guides.rubyonrails.org/](https://guides.rubyonrails.org/)
 - [contact@hint.io](mailto:contact@hint.io)
 
 ### **Picks:**
 
-[Suture Gem](http://github.com/testdouble/suture) (Ben)[Debride Gem](https://github.com/seattlerb/debride) (Ben)[JRuby Truffle Project by Oracle](https://github.com/jruby/jruby/wiki/Truffle) (Josh)[ThinkPads](http://shop.lenovo.com/us/en/laptops/thinkpad/)(Josh)[Honeybadger IO](https://www.honeybadger.io/) (Josh)[“A Rubyist’s Guide to Big-O Notation”](http://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/) blog post (Josh)[_Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time_](https://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227) by Brian Tracey (Brian)[Codefights](https://codefights.com/) (Brian)[_Basics of Mechanical Engineering_ by Paul D. Ronney](http://ronney.usc.edu/AME101/AME101-LectureNotes.pdf) (Jason)[_The Demon-haunted World_ by Carl Sagan](https://www.amazon.com/Demon-Haunted-World-Science-Candle-Dark/dp/0345409469) (Jason)
+[Suture Gem](https://github.com/testdouble/suture) (Ben)[Debride Gem](https://github.com/seattlerb/debride) (Ben)[JRuby Truffle Project by Oracle](https://github.com/jruby/jruby/wiki/Truffle) (Josh)[ThinkPads](https://shop.lenovo.com/us/en/laptops/thinkpad/)(Josh)[Honeybadger IO](https://www.honeybadger.io/) (Josh)[“A Rubyist’s Guide to Big-O Notation”](https://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/) blog post (Josh)[_Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time_](https://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227) by Brian Tracey (Brian)[Codefights](https://codefights.com/) (Brian)[_Basics of Mechanical Engineering_ by Paul D. Ronney](https://ronney.usc.edu/AME101/AME101-LectureNotes.pdf) (Jason)[_The Demon-haunted World_ by Carl Sagan](https://www.amazon.com/Demon-Haunted-World-Science-Candle-Dark/dp/0345409469) (Jason)
 
 ### Transcript
 

@@ -29,6 +29,6 @@ On today’s episode of JavaScript Jabber, we have panelists Joe Eames, Aimee Kn
 - [Ask HN: People who completed a boot camp 3+ years ago, what are you doing now?](https://news.ycombinator.com/item?id=14518093)
 - [NgAtlanta](https://twitter.com/NgAtlanta)
   **Charles Max Wood**
-- [Upwork.com](http://upwork.com)
+- [Upwork.com](https://upwork.com)
 
 ### Transcript

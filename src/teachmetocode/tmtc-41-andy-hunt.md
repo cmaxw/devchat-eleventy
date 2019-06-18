@@ -19,7 +19,7 @@ Andy Hunt is the author or co-author of several programming books including:
 - Pragmatic Unit testing in C# with Nunit
 - Practices of an Agile Developer
 - Pragmatic Thinking and Learning: Refactor Your Wetware
-  He's also one of the original signatories of the [Agile Manifesto](http://agilemanifesto.org). Andy is a great person to talk about regarding Agile Development. Here are some things he says you need to become agile and where to start:
+  He's also one of the original signatories of the [Agile Manifesto](https://agilemanifesto.org). Andy is a great person to talk about regarding Agile Development. Here are some things he says you need to become agile and where to start:
 - Do a little of the right things all the time
 - You'll be the expert on the project at the end of the project. Defer important decisions until you understand the problem.
 - Stand up meetings
@@ -31,4 +31,4 @@ Andy Hunt is the author or co-author of several programming books including:
 - Involve the Customer
 - Produce something every 1-4 weeks
 - Retrospectives - Get Feedback
-  [Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC41AndyHunt.mp3)
+  [Download this Episode](https://traffic.libsyn.com/charlesmaxwood/TMTC41AndyHunt.mp3)

@@ -41,12 +41,12 @@ tags:
 - Dev Ops
 - Open Source and charging
 - Where should people go to get started with Ionic? April
-- [com](http://ionicframwork.com)
+- [com](https://ionicframwork.com)
 - [Capacitor Ionic framework](https://capacitor.ionicframework.com/docs/getting-started/with-ionic/)
 - And much more!
   **<u>Links: </u>**
 - https://www.linkedin.com/in/maxlynch
-- [io](http://ionic.io)
+- [io](https://ionic.io)
 - @maxlynch
 - [https://medium.com/@maxlynch](https://medium.com/@maxlynch)
 - https://github.com/mlynch
@@ -58,6 +58,6 @@ tags:
 - [Wait! What happens when my React Native App starts](https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f?gi=68b2e5b5c36d)
 - [Push Notifications AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2018/02/aws-amplify-open-source-javascript-library-adds-react-native-push-notifications-and-authentication-improvements/)
   Max
-- [Mechanical Keyboard](http://www.wasdkeyboards.com)
+- [Mechanical Keyboard](https://www.wasdkeyboards.com)
 
 ### Transcript

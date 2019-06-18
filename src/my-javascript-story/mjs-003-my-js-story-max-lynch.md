@@ -38,6 +38,6 @@ Java, Swing, GTK, Ionic, PHP, Abstract Syntax Tree, Codica, JQuery Mobile, JQuer
 
 ## Picks:
 
-Max: [Hiya](https://itunes.apple.com/ph/app/hiya-caller-id-and-block/id986999874?mt=8), [PS4 Pro](https://www.playstation.com/en-us/explore/ps4-pro/), and&nbsp;[WestWorld](http://www.hbo.com/westworld)Charles: [Zapier](https://zapier.com/)&nbsp;and&nbsp;[Active Campaign](http://www.activecampaign.com/apps/)
+Max: [Hiya](https://itunes.apple.com/ph/app/hiya-caller-id-and-block/id986999874?mt=8), [PS4 Pro](https://www.playstation.com/en-us/explore/ps4-pro/), and&nbsp;[WestWorld](https://www.hbo.com/westworld)Charles: [Zapier](https://zapier.com/)&nbsp;and&nbsp;[Active Campaign](https://www.activecampaign.com/apps/)
 
 ### Transcript

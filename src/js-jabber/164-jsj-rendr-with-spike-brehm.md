@@ -20,34 +20,34 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 
 - [Twitter](https://twitter.com/spikebrehm)
 - [GitHub](https://github.com/spikebrehm)
-- [Blog](http://spike.technology/)
+- [Blog](https://spike.technology/)
 - [Airbnb](https://www.airbnb.com/)
   - [@airbnb](https://twitter.com/airbnb)
   - [@airbnbnerds](https://twitter.com/airbnbnerds)
 
 03:07 - [rendr](https://github.com/rendrjs/rendr)
 
-- [Isomorphic JavaScript](http://isomorphic.net/)
-- [Single-Page Application](http://en.wikipedia.org/wiki/Single-page_application)
+- [Isomorphic JavaScript](https://isomorphic.net/)
+- [Single-Page Application](https://en.wikipedia.org/wiki/Single-page_application)
 - Routes and Controllers
 
 06:24 - Why the back and forth between server-side and client-side applications?
 
-- Rendering Content for [SEO (Search Engine Optimization)](http://en.wikipedia.org/wiki/Search_engine_optimization)
+- Rendering Content for [SEO (Search Engine Optimization)](https://en.wikipedia.org/wiki/Search_engine_optimization)
 - [Spike Brehm: Building Isomorphic Apps @ JSConf.Asia 2014](https://www.youtube.com/watch?v=tcbcERdxjIc) (Video)
-- [Spike Brehm: Building Isomorphic Apps @ JSConf.Asia 2014](http://www.slideshare.net/spikebrehm/building-isomorphic-apps-jsconfasia-2014) (Slides)
-- [Spike Brehm: The Evolution of Airbnb's Frontend](http://www.slideshare.net/spikebrehm/the-evolution-of-airbnbs-frontend)
+- [Spike Brehm: Building Isomorphic Apps @ JSConf.Asia 2014](https://www.slideshare.net/spikebrehm/building-isomorphic-apps-jsconfasia-2014) (Slides)
+- [Spike Brehm: The Evolution of Airbnb's Frontend](https://www.slideshare.net/spikebrehm/the-evolution-of-airbnbs-frontend)
 - Caching
 
 20:28 - Tools That Help
 
-- [Browserify](http://browserify.org/)
-- [webpack](http://webpack.github.io/)
+- [Browserify](https://browserify.org/)
+- [webpack](https://webpack.github.io/)
 - [set-cookie](https://www.npmjs.com/package/set-cookie)
 
 22:21 - Why do this? Who gets statically and dynamically rendered pages?
 
-- [Airbnb Mobile](http://m.airbnb.com)
+- [Airbnb Mobile](https://m.airbnb.com)
 - Hydration
 - [React](https://facebook.github.io/react/)
   - Virtual DOM
@@ -56,8 +56,8 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 
 30:26 - DOM and String-based Templating
 
-- [Handlebars.js](http://handlebarsjs.com/)
-- [Express.js](http://expressjs.com/)
+- [Handlebars.js](https://handlebarsjs.com/)
+- [Express.js](https://expressjs.com/)
   - Mounting
 
 33:11 - Use Cases
@@ -67,11 +67,11 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 
 36:08 - Why does Isomorphic JavaScript get so much hate?
 
-- [Charlie Robbins: Scaling Isomorphic Javascript Code](http://blog.nodejitsu.com/scaling-isomorphic-javascript-code/)
+- [Charlie Robbins: Scaling Isomorphic Javascript Code](https://blog.nodejitsu.com/scaling-isomorphic-javascript-code/)
 - [Michael Jackson: Universal JavaScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
   Picks
 
-[The Paleolithic Diet](http://en.wikipedia.org/wiki/Paleolithic_diet) (Aimee)[Programming Throwdown](http://www.programmingthrowdown.com/) (Aimee) Listen to other people’s views (Chuck)[AJ O'Neal: Access web pages through your home network via SSH](https://coolaj86.com/articles/access-web-pages-through-your-home-network-via-ssh/) (AJ)[AJ O'Neal: Reverse VPN: turn any private device into public cloud server](https://coolaj86.com/articles/reverse-vpn-turn-any-private-device-into-public-cloud-server/) (AJ)[Alt](http://alt.js.org/) (Spike)[Tame Impala](http://www.tameimpala.com/) (Spike)
+[The Paleolithic Diet](https://en.wikipedia.org/wiki/Paleolithic_diet) (Aimee)[Programming Throwdown](https://www.programmingthrowdown.com/) (Aimee) Listen to other people’s views (Chuck)[AJ O'Neal: Access web pages through your home network via SSH](https://coolaj86.com/articles/access-web-pages-through-your-home-network-via-ssh/) (AJ)[AJ O'Neal: Reverse VPN: turn any private device into public cloud server](https://coolaj86.com/articles/reverse-vpn-turn-any-private-device-into-public-cloud-server/) (AJ)[Alt](https://alt.js.org/) (Spike)[Tame Impala](https://www.tameimpala.com/) (Spike)
 
 ### Transcript
 

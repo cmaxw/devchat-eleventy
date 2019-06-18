@@ -31,9 +31,9 @@ tags:
 
 All participants who submit a video will receive not one, not zero, but **THREE** great incentives! Every participant will get:
 
-- A free 1-month subscription to Ryan Bates' [RailsCasts.com](http://railscasts.com/) pro screencasts.
-- A free 1-month subscription to the [RubyMonk.com](http://rubymonk.com/) Ruby learning site.
-- 20% off [The Pragmatic Studio](http://pragmaticstudio.com/)'s [Ruby online training course](http://pragmaticstudio.com/ruby).
-  Big thanks to [RailsCasts.com](http://railscasts.com/), [RubyMonk.com](http://rubymonk.com/)&nbsp;and&nbsp;[The Pragmatic&nbsp;Studio](http://pragmaticstudio.com/)&nbsp;for their generous support! Submissions are due by 10/31/12. We’ll review the videos, and invite a couple of the&nbsp;Nubies with the best hair with **the most awesome hat** who match our top-secret Roguish Nuby-selection process onto the show to share their experiences with the Ruby Rogues audience!
+- A free 1-month subscription to Ryan Bates' [RailsCasts.com](https://railscasts.com/) pro screencasts.
+- A free 1-month subscription to the [RubyMonk.com](https://rubymonk.com/) Ruby learning site.
+- 20% off [The Pragmatic Studio](https://pragmaticstudio.com/)'s [Ruby online training course](https://pragmaticstudio.com/ruby).
+  Big thanks to [RailsCasts.com](https://railscasts.com/), [RubyMonk.com](https://rubymonk.com/)&nbsp;and&nbsp;[The Pragmatic&nbsp;Studio](https://pragmaticstudio.com/)&nbsp;for their generous support! Submissions are due by 10/31/12. We’ll review the videos, and invite a couple of the&nbsp;Nubies with the best hair with **the most awesome hat** who match our top-secret Roguish Nuby-selection process onto the show to share their experiences with the Ruby Rogues audience!
 
 ### Transcript

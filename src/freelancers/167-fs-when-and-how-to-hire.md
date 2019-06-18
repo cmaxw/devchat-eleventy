@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Checkout [RailsClips](https://devchat.tv/rails-clips) and [Angular Remote Conf](http://angularremoteconf.com)!
+Checkout [RailsClips](https://devchat.tv/rails-clips) and [Angular Remote Conf](https://angularremoteconf.com)!
 
 &nbsp;
 
@@ -20,23 +20,23 @@ Checkout [RailsClips](https://devchat.tv/rails-clips) and [Angular Remote Conf](
 
 03:00 - Hiring Virtual Assistants (VAs)
 
-- Mandy = [@therubyrep](https://twitter.com/therubyrep) / [DevReps](http://www.devreps.com/)
-- [Virtual Staff Finder](http://www.virtualstafffinder.com/)
+- Mandy = [@therubyrep](https://twitter.com/therubyrep) / [DevReps](https://www.devreps.com/)
+- [Virtual Staff Finder](https://www.virtualstafffinder.com/)
 
 10:02 - Hiring For Design Work / One-Off Projects
 
-- [Wet Frog Studios](http://wetfrogstudios.com/services/) (Aaron Mahnke)
-- [Podcast Motor](http://www.podcastmotor.com/)
+- [Wet Frog Studios](https://wetfrogstudios.com/services/) (Aaron Mahnke)
+- [Podcast Motor](https://www.podcastmotor.com/)
 - [Elance](https://www.elance.com/)
 - [Fiverr](https://www.fiverr.com/)
 - Odesk =\> [Upwork](https://www.upwork.com/)
 
 16:23 - Hiring Subcontractors
 
-- [Infinum](http://infinum.co)
+- [Infinum](https://infinum.co)
   27:58 - Hiring EmployeesPicks
 
-[Uber](https://www.uber.com/) (Reuven)[Consider the Fork: A History of How We Cook and Eat by Bee Wilson](http://www.amazon.com/gp/product/0465056970/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465056970&linkCode=as2&tag=chamaxwoo-20&linkId=PDJTNIX3BA5SLEXN) (Reuven)[Morgan’s Paradox for Freelancers](https://creativeclass.io/morgans-paradox/) (Eric)[Marcus Blankenship](http://marcusblankenship.com/) (Jonathan)[The Mortified Podcast](http://getmortified.com/) (Jonathan)[Developer On Fire Episode 017 - Charles Max Wood - Get Involved and Try New Things](http://developeronfire.com/Podcast/Episodes/episode-17-charles-max-wood-get-involved-and-try-new-things) (Chuck)[Elevator Saga](http://play.elevatorsaga.com/) (Chuck)
+[Uber](https://www.uber.com/) (Reuven)[Consider the Fork: A History of How We Cook and Eat by Bee Wilson](https://www.amazon.com/gp/product/0465056970/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465056970&linkCode=as2&tag=chamaxwoo-20&linkId=PDJTNIX3BA5SLEXN) (Reuven)[Morgan’s Paradox for Freelancers](https://creativeclass.io/morgans-paradox/) (Eric)[Marcus Blankenship](https://marcusblankenship.com/) (Jonathan)[The Mortified Podcast](https://getmortified.com/) (Jonathan)[Developer On Fire Episode 017 - Charles Max Wood - Get Involved and Try New Things](https://developeronfire.com/Podcast/Episodes/episode-17-charles-max-wood-get-involved-and-try-new-things) (Chuck)[Elevator Saga](https://play.elevatorsaga.com/) (Chuck)
 
 ### Transcript
 

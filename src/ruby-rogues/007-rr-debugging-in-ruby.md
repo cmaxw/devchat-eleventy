@@ -13,25 +13,25 @@ tags:
 ---
 
 - Debuggers and Tools
-  - [Ruby Debug](http://rubyforge.org/projects/ruby-debug/)
+  - [Ruby Debug](https://rubyforge.org/projects/ruby-debug/)
   - [pry](https://github.com/banister/pry)
-  - [Ruby in Steel](http://www.sapphiresteel.com/)
+  - [Ruby in Steel](https://www.sapphiresteel.com/)
   - other IDE's
 - Formatting Debug Output
-  - [YAML's y method](http://rubyquicktips.com/post/1405061475/viewing-a-model-in-yaml)
-  - [Object#inspect](http://www.ruby-doc.org/core/classes/Object.html#M001025)
+  - [YAML's y method](https://rubyquicktips.com/post/1405061475/viewing-a-model-in-yaml)
+  - [Object#inspect](https://www.ruby-doc.org/core/classes/Object.html#M001025)
   - [awesome_print](https://github.com/michaeldv/awesome_print)
 - Outputting debug information
-  - [puts](http://www.ruby-doc.org/core/classes/Kernel.html#M001403)
-  - [p](http://www.ruby-doc.org/core/classes/Kernel.html#M001409)
-  - [raise](http://www.ruby-doc.org/core/classes/Kernel.html#M001410)
-  - [pp](http://ruby-doc.org/stdlib/libdoc/pp/rdoc/index.html)
+  - [puts](https://www.ruby-doc.org/core/classes/Kernel.html#M001403)
+  - [p](https://www.ruby-doc.org/core/classes/Kernel.html#M001409)
+  - [raise](https://www.ruby-doc.org/core/classes/Kernel.html#M001410)
+  - [pp](https://ruby-doc.org/stdlib/libdoc/pp/rdoc/index.html)
 - Other debugging tricks
-  - [abort_on_exception = true](http://corelib.rubyonrails.org/classes/Thread.html#M001136)
+  - [abort_on_exception = true](https://corelib.rubyonrails.org/classes/Thread.html#M001136)
   - The Ruby executable's -d switch and the \$DEBUG constant
   - Using a logger to output data from a specific piece of code
   - The debug method in Rails helpers and views
-  - Using [Object#freeze](http://www.ruby-doc.org/core/classes/Object.html#M001022) on to find what is modifying the object
+  - Using [Object#freeze](https://www.ruby-doc.org/core/classes/Object.html#M001022) on to find what is modifying the object
   - Passing a dummy object that uses method_missing to output method calls and arguments
   - Do not debug alone
   - Spike the debugging, git stash the changes, write the test, unstash the changes and verify the result

@@ -32,9 +32,9 @@ Eric and one of his co-workers went out and created projects with Django and Rai
 
 Initially, Eric created Teach Me to Code as an homage to Ryan Bates from RailsCasts. Eric left his mistakes and fumbling in. He got feedback from people that liked that it showed how to debug and figure out issues. Chuck came in to create content for Teach Me to Code. Eric's company and focus moved to Groovy on Grails which prompted him to hand the series off to Chuck. Eric mentions Chuck's tenacity. Teach Me to Code is a large part of Chuck's journey into podcasting.
 
-#### [19:11][codesponsor](http://codesponsor.io)
+#### [19:11][codesponsor](https://codesponsor.io)
 
-Eric has been building other people's businesses for about 20 years. He's done all kinds of projects at all levels. He doesn't want to continue on a path where he doesn't participate in the end result of the project. Eric tried out AdWords. It'll pay off in 2-5 years, but he has not passion for it. Eric loves programming and developers and wanted to do something that served them. Open Source is starting to have problems with sustainability. People are building their businesses on top of software that's maintained by 1-2 developers. These folks have a day job and aren't paid to write their open source software. The get a bunch of requests for help and that workload doesn't go away. Then they get burned out. Then you have the "no longer maintained" notices on projects that you're using.[Codesponsor](http://codesponsor.io) solves this problem by bringing marketing into the picture to put some money into the developers' pockets and gives them some validation for what they did. Eric talks about a pay me button that Kent C. Dodds put on some of his repos. He didn't get any contributions. The problem with corporate sponsors is that the developer feels obligated to provide unpaid support when their sponsor has a problem.[OpenCollective](https://opencollective.com/) explained. Their biggest problem is money is not coming in.[Open Design Collective](https://opencollective.com/opensourcedesign)[CodeSponsor](http://codesponsor.io) allows companies that want to get in front of developers to put non-obtrusive, subtle text ads in the README's and websites of the projects without creating the issues that come with direct sponsorship. Mention of [ReadTheDocs.org](http://readthedocs.org)
+Eric has been building other people's businesses for about 20 years. He's done all kinds of projects at all levels. He doesn't want to continue on a path where he doesn't participate in the end result of the project. Eric tried out AdWords. It'll pay off in 2-5 years, but he has not passion for it. Eric loves programming and developers and wanted to do something that served them. Open Source is starting to have problems with sustainability. People are building their businesses on top of software that's maintained by 1-2 developers. These folks have a day job and aren't paid to write their open source software. The get a bunch of requests for help and that workload doesn't go away. Then they get burned out. Then you have the "no longer maintained" notices on projects that you're using.[Codesponsor](https://codesponsor.io) solves this problem by bringing marketing into the picture to put some money into the developers' pockets and gives them some validation for what they did. Eric talks about a pay me button that Kent C. Dodds put on some of his repos. He didn't get any contributions. The problem with corporate sponsors is that the developer feels obligated to provide unpaid support when their sponsor has a problem.[OpenCollective](https://opencollective.com/) explained. Their biggest problem is money is not coming in.[Open Design Collective](https://opencollective.com/opensourcedesign)[CodeSponsor](https://codesponsor.io) allows companies that want to get in front of developers to put non-obtrusive, subtle text ads in the README's and websites of the projects without creating the issues that come with direct sponsorship. Mention of [ReadTheDocs.org](https://readthedocs.org)
 
 #### [37:02] Eric's current work situation and Nate Hopkins
 
@@ -44,12 +44,12 @@ Eric talks about Nate Hopkins and Chuck mentions that Nate Hopkins was his first
 
 Eric
 
-- [Carbonads.com](http://carbonads.com)
-- [Timber.io](http://timber.io)
+- [Carbonads.com](https://carbonads.com)
+- [Timber.io](https://timber.io)
 - [Rework podcast by Basecamp](https://rework.fm/)
 - [React Table](https://react-table.js.org/#/story/readme)
   Chuck
-- [Ruby Dev Summit](http://rubydevsummit.com)
+- [Ruby Dev Summit](https://rubydevsummit.com)
 - React Podcast Plans - TBA
 - Elixir Podcast Plans - TBA
 - [Dave Thomas' Elixir Course](https://coding-gnome.thinkific.com/courses/elixir-for-programmers?ref=9e8747)

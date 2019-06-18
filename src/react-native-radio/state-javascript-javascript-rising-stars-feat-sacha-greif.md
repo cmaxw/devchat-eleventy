@@ -16,7 +16,7 @@ tags:
 
 - [The State of JavaScript 2017](https://stateofjs.com/)
 - [2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)
-- [VulcanJS](http://vulcanjs.org/)
+- [VulcanJS](https://vulcanjs.org/)
 - GraphQL
 - What kind of resolvers are you working with?
 - What is the process with data layering?
@@ -28,10 +28,10 @@ tags:
 - Satisfaction
 - Parcel
 - Data on hiring
-- [2018 Hacker Rate Developer Skills Report](http://research.hackerrank.com/developer-skills/2018/)
+- [2018 Hacker Rate Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/)
 - And much more! **<u> </u>**
   **<u>Links: </u>**
-- [http://sachagreif.com](http://sachagreif.com)
+- [https://sachagreif.com](https://sachagreif.com)
 - [**<u>@</u>** <u>SachaGreif</u>](https://twitter.com/sachagreif)
 - [https://medium.com/@sachagreif](https://medium.com/@sachagreif)
 - [https://github.com/SachaG](https://github.com/SachaG)
@@ -41,7 +41,7 @@ tags:
 - [React Native Authentication In Depth](https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b)
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
   Lee
-- [com](http://HumaneTech.com)
+- [com](https://HumaneTech.com)
   Sacha
 - Bouldering sport
 - [5 common issues with GraphQL app and how to fix them](https://medium.freecodecamp.org/five-common-problems-in-graphql-apps-and-how-to-fix-them-ac74d37a293c?gi=53683b40c76e)

@@ -31,8 +31,8 @@ tags:
   **Links:&nbsp;**
 - [Megan Kingdom-Davies](https://uk.linkedin.com/in/megan-kingdom-davies-ba879882)
 - [Peter Bacon Darwin](https://github.com/petebacondarwin)
-- [http://www.bacondarwin.com](http://www.bacondarwin.com)
-- [angularconnect.com](http://angularconnect.com)
+- [https://www.bacondarwin.com](https://www.bacondarwin.com)
+- [angularconnect.com](https://angularconnect.com)
   **Picks:** Charles
 - Why are you using AngularJS? Email or Tweet ar @cmaxw
   Joe •[NG Conf.](https://www.ng-conf.org)
@@ -44,7 +44,7 @@ tags:
 - Peter Video talking about Jenny
 - https://www.youtube.com/watch?v=VkSmaFAuaH4
   John
-- [Psych](http://www.usanetwork.com/psych)
+- [Psych](https://www.usanetwork.com/psych)
   Shai
 - [Solid Principles of OO&nbsp;](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
   Peter

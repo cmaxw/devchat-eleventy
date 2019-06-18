@@ -26,14 +26,14 @@ tags:
 - Networking and hassling
 - Focus on your bullseye
 - Start with the customer, then the type of business you are in
-- Be where your customers are - [medium.com](http://medium.com)
+- Be where your customers are - [medium.com](https://medium.com)
 - Ask people what they’ve done in the past
 - First 3 things to do in freelancing - Don’t quit your job until you have your first paying client, have the skills to do the job, be courageous
   **Links:**
 - [Everyone Hates Marketers](https://everyonehatesmarketers.com) Podcast
-- [HotJar.com](http://HotJar.com)
+- [HotJar.com](https://HotJar.com)
 - [louis@everyonehatesmarketers.com](mailto:louis@everyonehatesmarketers.com)
-- [medium.com](http://medium.com)
+- [medium.com](https://medium.com)
 - [Traction&nbsp;](https://www.amazon.com/dp/B007QWLLV2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Get Clients Now](https://www.amazon.com/dp/B000SEKRWO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
   **Picks:** Reuven

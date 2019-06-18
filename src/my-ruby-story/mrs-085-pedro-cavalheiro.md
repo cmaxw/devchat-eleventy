@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [.TECH](https://get.tech/)–&nbsp;[tech/MRS](https://get.tech/?&coupon=MRS.TECH&utm_source=Influencer&utm_medium=Podcast&utm_campaign=MyRubyStory)and&nbsp;use the coupon code “ **TECH** ”&nbsp;and get a 1 year&nbsp; **.TECH Domain** &nbsp;at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** &nbsp;Pedro Cavalheiro
@@ -23,7 +23,7 @@ In this episode of My Ruby Story, Charles hosts Pedro Cavalheiro a software engi
 ### **Links**
 
 - <u><a href="https://devchat.tv/ruby-rogues/rr-390-creating-a-heroku-like-deployment-solution-with-docker-with-pedro-cavalheiro/">Ruby Rogues: Creating a Heroku-Like Deployment Solution with Docker with Pedro Cavalheiro</a></u>
-- <u><a href="http://pecavalheiro.com/">Pedro’s Website</a></u>
+- <u><a href="https://pecavalheiro.com/">Pedro’s Website</a></u>
 - <u><a href="https://twitter.com/pecavalheiro">Pedro’s Twitter</a></u>
 - <u><a href="https://www.linkedin.com/in/pecavalheiro/">Pedro’s LinkedIN</a></u>
 - <u><a href="https://github.com/pecavalheiro">Pedro’s GitHub</a></u>

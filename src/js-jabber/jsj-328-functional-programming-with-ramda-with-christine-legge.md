@@ -93,7 +93,7 @@ Joe
 
 Christine
 
-- [Dan Mangan](http://danmanganmusic.com/)
+- [Dan Mangan](https://danmanganmusic.com/)
 - [Reply All Podcast](https://www.gimletmedia.com/reply-all)
 
 ### Transcript

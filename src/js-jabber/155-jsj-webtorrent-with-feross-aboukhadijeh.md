@@ -12,35 +12,35 @@ tags:
   - podcast
 ---
 
-[Support our Teespring campaign!](http://teespring.com/jabber) Get your JavaScript Jabber unisex t-shirts, hoodies, ladies’-sized, and long-sleeve tees!
+[Support our Teespring campaign!](https://teespring.com/jabber) Get your JavaScript Jabber unisex t-shirts, hoodies, ladies’-sized, and long-sleeve tees!
 
 02:01 - Feross Aboukhadijeh Introduction
 
 - [Twitter](https://twitter.com/feross)
 - [GitHub](https://github.com/feross)
-- [Blog](http://feross.org/)
+- [Blog](https://feross.org/)
 
-02:39 - [Peer-to-Peer](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/P2P-network.svg/200px-P2P-network.svg.png) Background, [Content Delivery Networks (CDNs)](http://en.wikipedia.org/wiki/Content_delivery_network)
+02:39 - [Peer-to-Peer](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/P2P-network.svg/200px-P2P-network.svg.png) Background, [Content Delivery Networks (CDNs)](https://en.wikipedia.org/wiki/Content_delivery_network)
 
-- [WebRTC](http://www.webrtc.org/)
+- [WebRTC](https://www.webrtc.org/)
 - [PeerCDN](https://peercdn.com/)
-- [BitTorrent](http://www.bittorrent.com/)
+- [BitTorrent](https://www.bittorrent.com/)
 
-09:43 - The [BitTorrent](http://www.bittorrent.com/) Protocol and [Hypertext Transfer Protocol (HTTP)](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+09:43 - The [BitTorrent](https://www.bittorrent.com/) Protocol and [Hypertext Transfer Protocol (HTTP)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
 - [[YouTube] Feross Aboukhadijeh: WebTorrent (JSConf.Asia 2014)](https://www.youtube.com/watch?v=kxHRATfvnlw)
-  - [Distributed Hash Table (DHT)](http://en.wikipedia.org/wiki/Distributed_hash_table)
+  - [Distributed Hash Table (DHT)](https://en.wikipedia.org/wiki/Distributed_hash_table)
 
-13:08 - [WebTorrent](https://github.com/feross/webtorrent) = [BitTorrent](http://www.bittorrent.com/) over [WebRTC](http://www.webrtc.org/)
+13:08 - [WebTorrent](https://github.com/feross/webtorrent) = [BitTorrent](https://www.bittorrent.com/) over [WebRTC](https://www.webrtc.org/)
 
-- [Transmission Control Protocol (TCP)](http://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-- [The User Datagram Protocol (UDP)](http://en.wikipedia.org/wiki/User_Datagram_Protocol)
-- [Session Traversal Utilities for NAT (STUN)](http://en.wikipedia.org/wiki/STUN)
+- [Transmission Control Protocol (TCP)](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+- [The User Datagram Protocol (UDP)](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
+- [Session Traversal Utilities for NAT (STUN)](https://en.wikipedia.org/wiki/STUN)
 
 17:22 - Where Do Original Files Come From?
 
 - Tracker Servers
-- [BitTorrent Enhancement Proposal (BEP)](http://www.bittorrent.org/beps/bep_0001.html)
+- [BitTorrent Enhancement Proposal (BEP)](https://www.bittorrent.org/beps/bep_0001.html)
 
 21:23 - Opposition
 
@@ -53,15 +53,15 @@ tags:
 
 31:12 - Progression of BitTorrent Over Time
 
-- [Technical Decentralization](http://en.wikipedia.org/wiki/Decentralization#Technological_decentralization)
+- [Technical Decentralization](https://en.wikipedia.org/wiki/Decentralization#Technological_decentralization)
 
-35:03 - [Same-Origin Policy](http://en.wikipedia.org/wiki/Same-origin_policy)
+35:03 - [Same-Origin Policy](https://en.wikipedia.org/wiki/Same-origin_policy)
 
 36:33 - [Firefox Hello](https://www.mozilla.org//firefox/hello/)
 
 Picks
 
-January 12th, 2016: Goodbye IE8 and IE9! (Dave)[js-must-watch](https://github.com/bolshchikov/js-must-watch) (Aimee)[Headspace](https://www.headspace.com/) (Aimee) Popcorn Time (AJ)[Steelheart (The Reckoners) by Brandon Sanderson](http://www.amazon.com/gp/product/0385743572/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743572&linkCode=as2&tag=chamaxwoo-20&linkId=PN6XIH2APPMLVDC3) (Chuck)[Teespring](http://teespring.com/) (Chuck)[Loop Drop by Matt McKegg](https://chrome.google.com/webstore/detail/loop-drop/lbihechibofgmjpfnegjblhoicglanbj) (Feross)[SceneVR by Ben Nolan](http://www.scenevr.com/) (Feross)[WebTorrent](http://www.scenevr.com/) (Feross)[node-nat-upnp](https://github.com/indutny/node-nat-upnp) (AJ)[node-nat-pmp](https://github.com/TooTallNate/node-nat-pmp) (AJ)[simple-peer](https://www.npmjs.com/package/simple-peer) (Feross)
+January 12th, 2016: Goodbye IE8 and IE9! (Dave)[js-must-watch](https://github.com/bolshchikov/js-must-watch) (Aimee)[Headspace](https://www.headspace.com/) (Aimee) Popcorn Time (AJ)[Steelheart (The Reckoners) by Brandon Sanderson](https://www.amazon.com/gp/product/0385743572/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743572&linkCode=as2&tag=chamaxwoo-20&linkId=PN6XIH2APPMLVDC3) (Chuck)[Teespring](https://teespring.com/) (Chuck)[Loop Drop by Matt McKegg](https://chrome.google.com/webstore/detail/loop-drop/lbihechibofgmjpfnegjblhoicglanbj) (Feross)[SceneVR by Ben Nolan](https://www.scenevr.com/) (Feross)[WebTorrent](https://www.scenevr.com/) (Feross)[node-nat-upnp](https://github.com/indutny/node-nat-upnp) (AJ)[node-nat-pmp](https://github.com/TooTallNate/node-nat-pmp) (AJ)[simple-peer](https://www.npmjs.com/package/simple-peer) (Feross)
 
 ### Transcript
 

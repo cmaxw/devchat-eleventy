@@ -15,58 +15,58 @@ tags:
 ### Panel
 
 - Todd Parker ([twitter](https://twitter.com/toddmparker) [github](https://github.com/toddparker))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 00:53 - Todd Parker Introduction
 
-- [Filament Group](http://www.filamentgroup.com/)
-  01:21 - [DevChat.tv Indiegogo Campaign](http://www.indiegogo.com/projects/devchat-tv/x/2984703)01:55 - [jQuery Mobile](http://jquerymobile.com/)
-- [jQuery UI](http://jqueryui.com/)
-  04:13 - [Responsive web design](http://en.wikipedia.org/wiki/Responsive_design)06:17 - Mobile & Proxy Browsers
-- [WebKit](http://www.webkit.org/)
-- [Opera & Opera Mini](http://www.opera.com/mobile)
-- [Amazon Silk](http://amazonsilk.wordpress.com/)
+- [Filament Group](https://www.filamentgroup.com/)
+  01:21 - [DevChat.tv Indiegogo Campaign](https://www.indiegogo.com/projects/devchat-tv/x/2984703)01:55 - [jQuery Mobile](https://jquerymobile.com/)
+- [jQuery UI](https://jqueryui.com/)
+  04:13 - [Responsive web design](https://en.wikipedia.org/wiki/Responsive_design)06:17 - Mobile & Proxy Browsers
+- [WebKit](https://www.webkit.org/)
+- [Opera & Opera Mini](https://www.opera.com/mobile)
+- [Amazon Silk](https://amazonsilk.wordpress.com/)
   14:06 - Enhancements 17:11 - Plugging jQuery Mobile into Desktop Applications 19:11 - Using client-side MVC frameworks
-- [AngularJS](http://angularjs.org/)
-- [jQuery Mobile Resources Page](http://jquerymobile.com/resources/)
-  21:52 - [Filament Group](http://www.filamentgroup.com/) and jQuery projects
-- [ThemeRoller](http://jqueryui.com/themeroller/)
+- [AngularJS](https://angularjs.org/)
+- [jQuery Mobile Resources Page](https://jquerymobile.com/resources/)
+  21:52 - [Filament Group](https://www.filamentgroup.com/) and jQuery projects
+- [ThemeRoller](https://jqueryui.com/themeroller/)
 - [The Filament Group on Github](https://github.com/filamentgroup)
-- [Microsoft](http://www.microsoft.com/) Contributions
+- [Microsoft](https://www.microsoft.com/) Contributions
   28:26 - Theming
 - Structure vs Style
 - Object-oriented CSS
-- [Widget Factory](http://jqueryui.com/widget/)
+- [Widget Factory](https://jqueryui.com/widget/)
   37:25 - Accessibility
-- [058 JSJ Building Accessible Websites with Brian Hogan](http://javascriptjabber.com/058-jsj-building-accessible-websites-with-brian-hogan/)
-- [ARIA](http://www.w3.org/TR/wai-aria/)
+- [058 JSJ Building Accessible Websites with Brian Hogan](https://javascriptjabber.com/058-jsj-building-accessible-websites-with-brian-hogan/)
+- [ARIA](https://www.w3.org/TR/wai-aria/)
   44:18 - Progressive Enhancement
-- [Bootstrap](http://twitter.github.io/bootstrap/)
-- [Designing with Progressive Enhancement: Building the web that works for everyone by The Filament Group](http://filamentgroup.com/dwpe/)
+- [Bootstrap](https://twitter.github.io/bootstrap/)
+- [Designing with Progressive Enhancement: Building the web that works for everyone by The Filament Group](https://filamentgroup.com/dwpe/)
 - [Visualize](https://github.com/filamentgroup/jQuery-Visualize)
 
 ### Picks
 
-- [Disenchanted by Robert Kroese](http://www.amazon.com/gp/product/1612185428/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1612185428&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [Disenchanted by Robert Kroese](https://www.amazon.com/gp/product/1612185428/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1612185428&linkCode=as2&tag=chamaxwoo-20) (Joe)
 - [Sid Meier's Ace Patrol](https://itunes.apple.com/us/app/ace-patrol/id583000830?mt=8) (Joe)
-- [Zeds Dead & Omar LinX](http://rd.io/x/QVyxJDFS99U/) (Merrick)
-- [RequireJS](http://requirejs.org/) (Merrick)
-- [Ember 101 Screencasts](http://ember101.com/) (Jamison)
-- [Gifsicle](http://www.lcdf.org/gifsicle/) (Jamison)
+- [Zeds Dead & Omar LinX](https://rd.io/x/QVyxJDFS99U/) (Merrick)
+- [RequireJS](https://requirejs.org/) (Merrick)
+- [Ember 101 Screencasts](https://ember101.com/) (Jamison)
+- [Gifsicle](https://www.lcdf.org/gifsicle/) (Jamison)
 - [vundle](https://github.com/gmarik/vundle) (Jamison)
-- [D-Link SharePort Go Mobile Companion with Rechargeable Battery](http://www.amazon.com/gp/product/B0095F5ACE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0095F5ACE&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [E-3lue Cobra Type-M EMS131BK High Precision Gaming Mouse](http://www.amazon.com/gp/product/B005CPGHAA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005CPGHAA&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [TotalMount - Apple TV Universal Mounting Kit](http://www.amazon.com/gp/product/B0057CVH6W/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0057CVH6W&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Sonos](http://www.sonos.com/) (Todd)
-- [Sketch App](http://www.bohemiancoding.com/sketch/) (Todd)
-- [GitHub](http://github.com/) (Todd)
+- [D-Link SharePort Go Mobile Companion with Rechargeable Battery](https://www.amazon.com/gp/product/B0095F5ACE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0095F5ACE&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [E-3lue Cobra Type-M EMS131BK High Precision Gaming Mouse](https://www.amazon.com/gp/product/B005CPGHAA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005CPGHAA&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [TotalMount - Apple TV Universal Mounting Kit](https://www.amazon.com/gp/product/B0057CVH6W/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0057CVH6W&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Sonos](https://www.sonos.com/) (Todd)
+- [Sketch App](https://www.bohemiancoding.com/sketch/) (Todd)
+- [GitHub](https://github.com/) (Todd)
 - [iOctocat](https://itunes.apple.com/us/app/ioctocat-github-for-ios/id310429782?mt=8) (Chuck)
-- [Grunt](http://gruntjs.com/) (Todd)
+- [Grunt](https://gruntjs.com/) (Todd)
 - [LEGO Batman: DC Super Heroes](https://itunes.apple.com/us/app/lego-batman-dc-super-heroes/id570306657?mt=8) (Todd)
 
 ### Next Week

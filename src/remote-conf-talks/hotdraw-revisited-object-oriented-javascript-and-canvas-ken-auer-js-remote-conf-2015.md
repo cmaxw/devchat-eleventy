@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-In the late 80s, Kent Beck and Ward Cunningham came up with HotDraw (http://c2.com/cgi/wiki?HotDraw), a two-dimensional graphics framework for structured drawing editors, originally written in Smalltalk-80. Since then, many implementations have been created, and the principles applied in a lot of places. While a lot has been learned, the original HotDraw still outshines many of its successors.
+In the late 80s, Kent Beck and Ward Cunningham came up with HotDraw (https://c2.com/cgi/wiki?HotDraw), a two-dimensional graphics framework for structured drawing editors, originally written in Smalltalk-80. Since then, many implementations have been created, and the principles applied in a lot of places. While a lot has been learned, the original HotDraw still outshines many of its successors.
 
 In the last few years, RoleModel Software was asked to build several systems with a complex underlying model where the user input was primarily direct graphical manipulation. This included:
 

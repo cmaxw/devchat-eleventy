@@ -30,7 +30,7 @@ This week on My Ruby Story, Charles talks to Amit Choudhary. Amit was previously
 - First language was C
 - Loved the logic behind how a piece of code works
 - How did you get into Ruby?
-- [Vinsol](http://vinsol.com/home)
+- [Vinsol](https://vinsol.com/home)
 - What have you done with Ruby?
 - Working with Ruby for the last four years
 - Using [Rails](https://rubyonrails.org/) to create APIs
@@ -49,7 +49,7 @@ This week on My Ruby Story, Charles talks to Amit Choudhary. Amit was previously
 - [Ruby Rogues Episode 345](https://devchat.tv/ruby-rogues/rr-345-app-failure-emergencies-holidays)
 - [Big Binary](https://www.bigbinary.com/)
 - [Ruby](https://www.ruby-lang.org/en/)
-- [Vinsol](http://vinsol.com/home)
+- [Vinsol](https://vinsol.com/home)
 - [Rails](https://rubyonrails.org/)
 - [RubyConf India](https://www.rubyconfindia.org/)
 - [Selenium](https://www.seleniumhq.org/)

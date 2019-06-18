@@ -12,15 +12,15 @@ tags:
   - podcast
 ---
 
-Support the shows at [<u>devchat.tv/kickstarter</u>](http://www.devchat.tv/kickstarter)!
+Support the shows at [<u>devchat.tv/kickstarter</u>](https://www.devchat.tv/kickstarter)!
 
 01:45 - Michele Titolo Introduction
 
 - [<u>Twitter</u>](https://twitter.com/micheletitolo)
-- [<u>Blog</u>](http://michele.io/)
-- [<u>Reddit</u>](http://www.reddit.com/)
+- [<u>Blog</u>](https://michele.io/)
+- [<u>Reddit</u>](https://www.reddit.com/)
 - [<u>Women Who Code</u>](https://www.womenwhocode.com/)
-- [<u>Ruby Rogues Episode #147: APIs That Don't Suck with Michele Titolo</u>](http://devchat.tv/ruby-rogues/147-rr-apis-that-dont-suck-with-michele-titolo)
+- [<u>Ruby Rogues Episode #147: APIs That Don't Suck with Michele Titolo</u>](https://devchat.tv/ruby-rogues/147-rr-apis-that-dont-suck-with-michele-titolo)
 
 02:26 - Deconstructing and Decoupling
 
@@ -28,29 +28,29 @@ Support the shows at [<u>devchat.tv/kickstarter</u>](http://www.devchat.tv/kicks
 
 08:36 - Having Seams in Your Code to Avoid Conflict
 
-- [<u>8 Patterns to Help You Destroy Massive View Controller</u>](http://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
+- [<u>8 Patterns to Help You Destroy Massive View Controller</u>](https://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
 
 11:35 - The Deconstructing Mindset (Finding Reuse Patterns)
 
-- [<u>The Rule of Three</u>](<http://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)>)
-- [<u>Inheritance</u>](<http://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)>)
+- [<u>The Rule of Three</u>](<https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)>)
+- [<u>Inheritance</u>](<https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)>)
 
-17:48 - [<u>The Decorator Pattern</u>](http://en.wikipedia.org/wiki/Decorator_pattern)
+17:48 - [<u>The Decorator Pattern</u>](https://en.wikipedia.org/wiki/Decorator_pattern)
 
 18:43 - Categories
 
-21:34 - Sharing [<u>UI (User Interface)</u>](http://en.wikipedia.org/wiki/User_interface) Codes
+21:34 - Sharing [<u>UI (User Interface)</u>](https://en.wikipedia.org/wiki/User_interface) Codes
 
 23:55 - Mechanics of Sharing Code Between Apps
 
 - [<u>Jeffrey Jackson: Private Cocoapods</u>](https://coderwall.com/p/7ucsva)
-- [<u>CocoaPods Guide: Podspec Syntax Reference</u>](http://guides.cocoapods.org/syntax/podspec.html)
+- [<u>CocoaPods Guide: Podspec Syntax Reference</u>](https://guides.cocoapods.org/syntax/podspec.html)
 
 29:02 - Lessons Learned: Easy Ways/Patterns to Know When to Break Up Small Functionalities
 
 - Separate as Soon As Possible
 - Do a Local Pod Using the Path Option (Path is Your Friend!)
-  - [<u>CocoaPods Guide: Private Pods</u>](http://guides.cocoapods.org/making/private-cocoapods.html)
+  - [<u>CocoaPods Guide: Private Pods</u>](https://guides.cocoapods.org/making/private-cocoapods.html)
 - Have a Good Code Review Process
 
 33:23 - Cocoapods: Commit to Source or Not?
@@ -61,7 +61,7 @@ Support the shows at [<u>devchat.tv/kickstarter</u>](http://www.devchat.tv/kicks
 - [<u>[YouTube] Kent Beck: Software G Forces: The Effects of Acceleration</u>](https://www.youtube.com/watch?v=KIkUWG5ACFY)
   Picks
 
-[<u>Refactoring: Improving the Design of Existing Code by Martin Fowler</u>](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) (Pete)[<u>Working Effectively with Legacy Code by Michael Feathers</u>](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) (Pete)[<u>Refactoring To Patterns by Joshua Kerievsky</u>](http://industriallogic.com/xp/refactoring/) (Pete)[<u>WWDC 2010 Session 138: API Design for Cocoa and Cocoa Touch</u>](http://asciiwwdc.com/2010/sessions/138) (Andrew)[<u>[Slides] Michele Titolo: Cocoa Design Patterns in Swift</u>](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift) (Andrew)[<u>The Cocotron</u>](http://cocotron.org) (Andrew)[<u>Matt Gallagher: Design of a multi-platform app using The Cocotron</u>](http://www.cocoawithlove.com/2010/04/design-of-multi-platform-app-using.html) (Andrew)[<u>Zombie Monkie by Tallgrass Brewing Company</u>](http://tallgrassbeer.com/beers/zombie-monkie/) (Jaim) Getting out and participating in programming language communities (Chuck)[<u>The Earthsea Cycle Series Book Series by Ursula K. Le Guin</u>](http://www.amazon.com/gp/bookseries/B00CJDD8GO/ref=dp_st_0689845340) (Chuck)[<u>The Pixar Touch by David A. Price</u>](http://www.amazon.com/Pixar-Touch-David-Price/dp/0307278298/ref=sr_1_1?ie=UTF8&qid=1426449458&sr=8-1&keywords=The+Pixar+Touch) (Chuck)[<u>8 Patterns to Help You Destroy Massive View Controller</u>](http://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/) (Michele)[<u>Artsy - iOS at Scale - objc.io issue #22</u>](http://www.objc.io/issue-22/artsy.html) (Michele)
+[<u>Refactoring: Improving the Design of Existing Code by Martin Fowler</u>](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) (Pete)[<u>Working Effectively with Legacy Code by Michael Feathers</u>](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) (Pete)[<u>Refactoring To Patterns by Joshua Kerievsky</u>](https://industriallogic.com/xp/refactoring/) (Pete)[<u>WWDC 2010 Session 138: API Design for Cocoa and Cocoa Touch</u>](https://asciiwwdc.com/2010/sessions/138) (Andrew)[<u>[Slides] Michele Titolo: Cocoa Design Patterns in Swift</u>](https://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift) (Andrew)[<u>The Cocotron</u>](https://cocotron.org) (Andrew)[<u>Matt Gallagher: Design of a multi-platform app using The Cocotron</u>](https://www.cocoawithlove.com/2010/04/design-of-multi-platform-app-using.html) (Andrew)[<u>Zombie Monkie by Tallgrass Brewing Company</u>](https://tallgrassbeer.com/beers/zombie-monkie/) (Jaim) Getting out and participating in programming language communities (Chuck)[<u>The Earthsea Cycle Series Book Series by Ursula K. Le Guin</u>](https://www.amazon.com/gp/bookseries/B00CJDD8GO/ref=dp_st_0689845340) (Chuck)[<u>The Pixar Touch by David A. Price</u>](https://www.amazon.com/Pixar-Touch-David-Price/dp/0307278298/ref=sr_1_1?ie=UTF8&qid=1426449458&sr=8-1&keywords=The+Pixar+Touch) (Chuck)[<u>8 Patterns to Help You Destroy Massive View Controller</u>](https://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/) (Michele)[<u>Artsy - iOS at Scale - objc.io issue #22</u>](https://www.objc.io/issue-22/artsy.html) (Michele)
 
 ### Transcript
 

@@ -25,22 +25,22 @@ tags:
 - [LinkedIn](https://www.linkedin.com/in/achaudhuri)
 - [Facebook](https://www.facebook.com/)
 
-04:27 - [Flow](http://flowtype.org)
+04:27 - [Flow](https://flowtype.org)
 
 - [@flowtype](https://twitter.com/flowtype)
 - [[GitHub] flow](https://github.com/facebook/flow)
 
 05:36 - Static Type Checking
 
-- [Dynamic vs Static Type Languages](http://stackoverflow.com/questions/125367/dynamic-type-languages-versus-static-type-languages)
+- [Dynamic vs Static Type Languages](https://stackoverflow.com/questions/125367/dynamic-type-languages-versus-static-type-languages)
 
-09:52 - Flow and [Unit Testing](http://en.wikipedia.org/wiki/Unit_testing)
+09:52 - Flow and [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
 
 - [Jest](https://facebook.github.io/jest/)
 
-12:39 - [Gradual Typing](http://en.wikipedia.org/wiki/Gradual_typing)
+12:39 - [Gradual Typing](https://en.wikipedia.org/wiki/Gradual_typing)
 
-15:07 - [Type Inference](http://en.wikipedia.org/wiki/Type_inference)
+15:07 - [Type Inference](https://en.wikipedia.org/wiki/Type_inference)
 
 17:50 - Keeping Up with New Features in JavaScript
 
@@ -50,10 +50,10 @@ tags:
 
 24:46 - Working on Flow
 
-28:27 - Flow vs [TypeScript](http://www.typescriptlang.org/)
+28:27 - Flow vs [TypeScript](https://www.typescriptlang.org/)
 
 - Inference Support
-- [Tony Hoare: Null References: The Billion Dollar Mistake](http://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
+- [Tony Hoare: Null References: The Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
 
 35:41 - Putting the “Java” Back in JavaScript
 
@@ -70,7 +70,7 @@ tags:
 - IRC Channel for Flow: #flowtype on [webchat.freenode.net](https://webchat.freenode.net/)
   Picks
 
-[Nolan Lawson: We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) (Aimee)[Jim 'N Nick's BBQ Restaurant](http://www.jimnnicks.com/) (Aimee)[Frank McSherry: Scalability! But at what COST?](http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html) (Jamison)[Frank McSherry: Bigger data; same laptop](http://www.frankmcsherry.org/graph/scalability/cost/2015/02/04/COST2.html) (Jamison)[Greg Wilson: What We Actually Know About Software Development, and Why We Believe It's True](https://vimeo.com/9270320) (Jamison)[Marron: Time-Travel Debugging for JavaScript/HTML Applications](http://channel9.msdn.com/blogs/Marron/Time-Travel-Debugging-for-JavaScriptHTML) (Jeff)[Real World OCaml](http://realworldocaml.org) (Jeff)[Muse](http://muse.mu/) (Jeff)[Shtetl-Optimized](http://www.scottaaronson.com/blog/) (Avik)[Chef's Table](http://www.netflix.com/WiMovie/80007945) (Avik)
+[Nolan Lawson: We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) (Aimee)[Jim 'N Nick's BBQ Restaurant](https://www.jimnnicks.com/) (Aimee)[Frank McSherry: Scalability! But at what COST?](https://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html) (Jamison)[Frank McSherry: Bigger data; same laptop](https://www.frankmcsherry.org/graph/scalability/cost/2015/02/04/COST2.html) (Jamison)[Greg Wilson: What We Actually Know About Software Development, and Why We Believe It's True](https://vimeo.com/9270320) (Jamison)[Marron: Time-Travel Debugging for JavaScript/HTML Applications](https://channel9.msdn.com/blogs/Marron/Time-Travel-Debugging-for-JavaScriptHTML) (Jeff)[Real World OCaml](https://realworldocaml.org) (Jeff)[Muse](https://muse.mu/) (Jeff)[Shtetl-Optimized](https://www.scottaaronson.com/blog/) (Avik)[Chef's Table](https://www.netflix.com/WiMovie/80007945) (Avik)
 
 ### Transcript
 

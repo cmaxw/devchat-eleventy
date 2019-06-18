@@ -14,43 +14,43 @@ tags:
 
 ### Panel
 
-- Glenn Block ([twitter](http://twitter.com/gblock) [github](https://github.com/glennblock) [blog](http://blogs.msdn.com/b/gblock/))
-- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Tim Caswell ([twitter](http://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](http://howtonode.org/))
+- Glenn Block ([twitter](https://twitter.com/gblock) [github](https://github.com/glennblock) [blog](https://blogs.msdn.com/b/gblock/))
+- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](https://howtonode.org/))
 
 ### Discussion
 
-- [Microsoft Azure SDK](http://www.microsoft.com/en-us/download/details.aspx?id=29988)
-- [NodeJS](http://nodejs.org/)
+- [Microsoft Azure SDK](https://www.microsoft.com/en-us/download/details.aspx?id=29988)
+- [NodeJS](https://nodejs.org/)
 - [AnodeJS](https://github.com/anodejs)
 - node.exe
-- [IIS](http://www.iis.net/)
+- [IIS](https://www.iis.net/)
 - [Cloud9](https://c9.io/)
-- [Chakra - MS JavaScript Engine](<http://en.wikipedia.org/wiki/Chakra_(JScript_engine)>)
-- [LUA](http://www.lua.org/)
+- [Chakra - MS JavaScript Engine](<https://en.wikipedia.org/wiki/Chakra_(JScript_engine)>)
+- [LUA](https://www.lua.org/)
 - [Spidermonkey](https://developer.mozilla.org/en/SpiderMonkey)
-- [V8](http://code.google.com/p/v8/)
-- [IE9](http://windows.microsoft.com/en-us/internet-explorer/products/ie/home/?SignedIn=1)
-- [Metro](<http://en.wikipedia.org/wiki/Metro_(design_language)>)
-- [ASP.net](http://www.asp.net/)
-- [jQuery](http://jquery.com/)
+- [V8](https://code.google.com/p/v8/)
+- [IE9](https://windows.microsoft.com/en-us/internet-explorer/products/ie/home/?SignedIn=1)
+- [Metro](<https://en.wikipedia.org/wiki/Metro_(design_language)>)
+- [ASP.net](https://www.asp.net/)
+- [jQuery](https://jquery.com/)
 - [SignalR](https://github.com/SignalR/SignalR/)
-- [Upshot](http://nuget.org/packages/upshot)
+- [Upshot](https://nuget.org/packages/upshot)
 - Unit testing in Azure
 - Kudu for testing
 
 ### Picks
 
-- [Rock, Paper, Shotgun - Too Many Toys](http://www.rockpapershotgun.com/2012/07/22/cardboard-children-some-games/) (Jamison)
+- [Rock, Paper, Shotgun - Too Many Toys](https://www.rockpapershotgun.com/2012/07/22/cardboard-children-some-games/) (Jamison)
 - Do less stuff (Jamison)
-- [distcc](http://code.google.com/p/distcc/) (AJ)
-- [Chef's Table](http://chefstable.net/fine-dining/)/[The Sundance Tree Room](http://sundanceresort.com/dine/tree_room.html) (AJ)
+- [distcc](https://code.google.com/p/distcc/) (AJ)
+- [Chef's Table](https://chefstable.net/fine-dining/)/[The Sundance Tree Room](https://sundanceresort.com/dine/tree_room.html) (AJ)
 - [Require Analyzier](https://github.com/nodejitsu/require-analyzer) (Glenn)
-- [Shannara series by Terry Brooks](http://www.amazon.com/Terry-Brooks/e/B000APZAHI/ref=sr_tc_2_0?qid=1343898119&sr=8-2-ent) (Glenn)
-- [JamJS](http://jamjs.org/) (Tim)
+- [Shannara series by Terry Brooks](https://www.amazon.com/Terry-Brooks/e/B000APZAHI/ref=sr_tc_2_0?qid=1343898119&sr=8-2-ent) (Glenn)
+- [JamJS](https://jamjs.org/) (Tim)
 - [Speed Dial 2](https://chrome.google.com/webstore/detail/jpfpebmajhhopeonhlcgidhclcccjcik) (Chuck)
-- [Google Apps](http://www.google.com/enterprise/apps/business/) (Chuck)
+- [Google Apps](https://www.google.com/enterprise/apps/business/) (Chuck)
 - [Papers in CS](https://groups.google.com/forum/#!forum/papers-in-computer-science) (AJ)
 - Upcoming JavaScript event in Shanghai (Glenn)
 

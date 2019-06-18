@@ -37,7 +37,7 @@ tags:
 - _[What’s new in React 16.3(.0-alpha) by Bartosz Szczeciński](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b)_
 - _[Beyond React 16 by Dan Abramov](https://www.youtube.com/watch?v=v6iR3Zk4oDY)_
 - [Reddit Thread](https://www.reddit.com/r/reactjs/)
-- [React Newsletter](http://reactjsnewsletter.com/)
+- [React Newsletter](https://reactjsnewsletter.com/)
 - And much, much more!
   &nbsp; **Links:**
 - [com](https://tylermcginnis.com/)
@@ -47,7 +47,7 @@ tags:
 - _[What’s new in React 16.3(.0-alpha) by Bartosz Szczeciński](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b)_
 - _[Beyond React 16 by Dan Abramov](https://www.youtube.com/watch?v=v6iR3Zk4oDY)_
 - [Reddit Thread](https://www.reddit.com/r/reactjs/)
-- [React Newsletter](http://reactjsnewsletter.com/)
+- [React Newsletter](https://reactjsnewsletter.com/)
 - [@tylermcginnis](https://twitter.com/tylermcginnis?lang=en)
   **&nbsp;\*\*** Picks:\*\*Nader
 - [Learn German with Paul Noble](https://www.amazon.com/Learn-German-Paul-Noble-Part/dp/B00A4TLGTQ)

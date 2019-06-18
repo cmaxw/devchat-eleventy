@@ -81,7 +81,7 @@ Charles
 Aimee
 
 - [Desk with cubby holes for cats](https://mymodernmet.com/shared-table-where-people-can-work-and-cats-can-wander/)
-- [_The Key to Good Luck Is an Open Mind_ blog post](http://nautil.us/blog/-the-key-to-good-luck-is-an-open-mind)
+- [_The Key to Good Luck Is an Open Mind_ blog post](https://nautil.us/blog/-the-key-to-good-luck-is-an-open-mind)
 
 AJ
 
@@ -96,7 +96,7 @@ Joe
 
 Henry
 
-- [Celeste](http://www.celestegame.com/)
+- [Celeste](https://www.celestegame.com/)
 - [Zeit Day talks](https://zeit.co/tv)
 
 ### Transcript

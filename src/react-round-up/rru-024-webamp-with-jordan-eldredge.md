@@ -19,7 +19,7 @@ tags:
 
 **Special Guests:** Jordan Eldredge
 
-In this episode, the React Round Up panelists talk to Jordan Eldredge about his project [Webamp](https://webamp.org/). Jordan’s first introduction to programming had to do with music which led him to work both as a singer to now being an engineer. They talk about how common it is for programmers to have diverse backgrounds, especially in front-end developers, what Webamp and [Winamp](http://www.winamp.com/) are, and what he originally wrote Webamp in. they also touch on his inspiration for creating this project, his journey in creating Webamp, and more!
+In this episode, the React Round Up panelists talk to Jordan Eldredge about his project [Webamp](https://webamp.org/). Jordan’s first introduction to programming had to do with music which led him to work both as a singer to now being an engineer. They talk about how common it is for programmers to have diverse backgrounds, especially in front-end developers, what Webamp and [Winamp](https://www.winamp.com/) are, and what he originally wrote Webamp in. they also touch on his inspiration for creating this project, his journey in creating Webamp, and more!
 
 **In particular, we dive pretty deep on:**
 
@@ -31,7 +31,7 @@ In this episode, the React Round Up panelists talk to Jordan Eldredge about his 
 - Front-end web development is very young
 - Self-taught developers
 - What is [Webamp](https://webamp.org/)?
-- Reimplementation of [Winamp](http://www.winamp.com/) in [JavaScript](https://www.javascript.com/)
+- Reimplementation of [Winamp](https://www.winamp.com/) in [JavaScript](https://www.javascript.com/)
 - What is Winamp?
 - What did you originally write Webamp in?
 - What was the inspiration for creating Webamp?
@@ -54,7 +54,7 @@ In this episode, the React Round Up panelists talk to Jordan Eldredge about his 
 
 - [Webamp](https://webamp.org/)
 - [MySQL](https://www.mysql.com/)
-- [Winamp](http://www.winamp.com/)
+- [Winamp](https://www.winamp.com/)
 - [JavaScript](https://www.javascript.com/)
 - [jQuery](https://jquery.com/)
 - [React](https://reactjs.org/)

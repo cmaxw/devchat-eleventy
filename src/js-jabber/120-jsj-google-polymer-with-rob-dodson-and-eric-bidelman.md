@@ -14,13 +14,13 @@ tags:
 
 ### Panel
 
-- Eric Bidelman ([twitter](https://twitter.com/ebidel)&nbsp;[github](https://github.com/ebidel)&nbsp;[blog](http://ericbidelman.tumblr.com/))
-- Rob Dodson ([twitter](https://twitter.com/rob_dodson)&nbsp;[github](https://github.com/robdodson)&nbsp;[blog](http://robdodson.me/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev)&nbsp;[github](https://github.com/aaronfrost)&nbsp;[blog](http://www.jsdotnext.com/))
-- AJ ONeal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://blog.coolaj86.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Eric Bidelman ([twitter](https://twitter.com/ebidel)&nbsp;[github](https://github.com/ebidel)&nbsp;[blog](https://ericbidelman.tumblr.com/))
+- Rob Dodson ([twitter](https://twitter.com/rob_dodson)&nbsp;[github](https://github.com/robdodson)&nbsp;[blog](https://robdodson.me/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev)&nbsp;[github](https://github.com/aaronfrost)&nbsp;[blog](https://www.jsdotnext.com/))
+- AJ ONeal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://blog.coolaj86.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
@@ -28,85 +28,85 @@ tags:
 
 - Rob
   - [Google](https://www.google.com/)
-  - [Polymer Project](http://www.polymer-project.org/)
+  - [Polymer Project](https://www.polymer-project.org/)
 - Eric
-  - [html5](http://html5.org/)
-    02:47 - [Google I/O](http://googledevelopers.blogspot.com/2014/03/google-io-2014.html)
-- Summary of [Polymer](http://polymer/)
-- [chromestatus.com](http://www.chromestatus.com/features)
+  - [html5](https://html5.org/)
+    02:47 - [Google I/O](https://googledevelopers.blogspot.com/2014/03/google-io-2014.html)
+- Summary of [Polymer](https://polymer/)
+- [chromestatus.com](https://www.chromestatus.com/features)
 - [Ele.io](https://ele.io/)
 - [Google I/O Conference](https://www.google.com/events/io)
-- [Open source [Wiki]](http://en.wikipedia.org/wiki/Open_source)
+- [Open source [Wiki]](https://en.wikipedia.org/wiki/Open_source)
 - [Google I/O Github](https://github.com/romainguy/google-io-2014)
-- [Salesforce](http://www.salesforce.com/)
+- [Salesforce](https://www.salesforce.com/)
   05:43 - Different Components with Frameworks
-- [Blink](http://www.chromium.org/blink)
-- [jQuery](http://jquery.com/)
+- [Blink](https://www.chromium.org/blink)
+- [jQuery](https://jquery.com/)
 - [document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document.querySelector?redirectlocale=en-US&redirectslug=DOM%2FDocument.querySelector)
-- [[HTML5 Rocks] Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
-- [Custom Elements Browser](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
-- [HTM Imports Browser](http://www.polymer-project.org/platform/html-imports.html)
+- [[HTML5 Rocks] Shadow DOM 101](https://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+- [Custom Elements Browser](https://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+- [HTM Imports Browser](https://www.polymer-project.org/platform/html-imports.html)
   08:39 - Other Browsers
-- [Webkit](http://www.webkit.org/)
-  09:25 - [Shadow DOM](http://shadowdom.org/)
-- [Shadow DOM with Polymer](http://www.polymer-project.org/platform/shadow-dom.html)
+- [Webkit](https://www.webkit.org/)
+  09:25 - [Shadow DOM](https://shadowdom.org/)
+- [Shadow DOM with Polymer](https://www.polymer-project.org/platform/shadow-dom.html)
 - [Chrome Dev Tools](https://developer.chrome.com/devtools/index)
 - #shadowroot
   16:17 - Efficiency with Network Traffic
-- [HTTP 2.0 [Wiki]](http://en.wikipedia.org/wiki/HTTP_2.0)
+- [HTTP 2.0 [Wiki]](https://en.wikipedia.org/wiki/HTTP_2.0)
 - [vulcanize](https://github.com/Polymer/vulcanize)
-- [node.js](http://nodejs.org/)
-- [grunt](http://gruntjs.com/)
-- [gulp](http://gulpjs.com/)
+- [node.js](https://nodejs.org/)
+- [grunt](https://gruntjs.com/)
+- [gulp](https://gulpjs.com/)
 - [Chrome Apps](https://chrome.google.com/webstore/category/apps)
-  18:48 - [CSP [Wiki]](http://en.wikipedia.org/wiki/Content_Security_Policy) 20:36 - Annotating Elements
+  18:48 - [CSP [Wiki]](https://en.wikipedia.org/wiki/Content_Security_Policy) 20:36 - Annotating Elements
 - [Angular](https://angularjs.org/)
   22:50 - Google I/O
 - [Eric’s Talk](https://www.youtube.com/watch?v=8OJ7ih8EE7s)
 - [Videos from I/O 2013](https://www.youtube.com/results?search_query=google+i%2Fo+2013)
   26:41 - Package Managements
-- [Bower](http://bower.io/)
-- [MPM](http://download.cnet.com/MPM-Office/3000-2065_4-10554773.html)
+- [Bower](https://bower.io/)
+- [MPM](https://download.cnet.com/MPM-Office/3000-2065_4-10554773.html)
   28:39 Roles of Web Components
-- [React](http://reactjs.net/)
-- [Scope](http://scope.sourceforge.net/)
-- [Scope CSS](http://csswizardry.com/2013/05/scope-in-css/)
+- [React](https://reactjs.net/)
+- [Scope](https://scope.sourceforge.net/)
+- [Scope CSS](https://csswizardry.com/2013/05/scope-in-css/)
   32:53 - Weaknesses
-- [Twitter Bootstrap](http://getbootstrap.com/)
-- [Foundation](http://foundation.zurb.com/)
-- [Scala](http://www.scala-lang.org/)
-- [x-kitten element](http://component.kitchen/components/x-kitten)
+- [Twitter Bootstrap](https://getbootstrap.com/)
+- [Foundation](https://foundation.zurb.com/)
+- [Scala](https://www.scala-lang.org/)
+- [x-kitten element](https://component.kitchen/components/x-kitten)
   36:24 - Life at Google
 - Before and After I/O
-- [Chrome Dev Rels](http://dev.chromium.org/getting-involved/dev-channel)
+- [Chrome Dev Rels](https://dev.chromium.org/getting-involved/dev-channel)
   41:28 - Web Components with SEO 46:21 - Future of Web Components and Polymer
 - [Service Worker](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Social_API/Service_worker_API_reference)
   48:28 -Resources for Learning Polymer
-- [Google I/O on YouTube](http://www.bing.com/videos/search?q=youtube+google+io&qpvt=youtube+google+io&FORM=VDRE)
+- [Google I/O on YouTube](https://www.bing.com/videos/search?q=youtube+google+io&qpvt=youtube+google+io&FORM=VDRE)
 - [Eric Bidelman on YouTube](https://www.youtube.com/results?search_query=eric+bidelman+polymer)
 - [Rob Dodson on YouTube](https://www.youtube.com/results?search_query=rob+dodson+polymer)
 - [Matt McNulty on YouTube](https://www.youtube.com/results?search_query=matt+mcnulty+polymer)
-- [Polymer Platform](http://www.polymer-project.org/docs/start/platform.html)
-- [HTML5 Rocks](http://www.html5rocks.com/en/)
-- [HTML5 Rocks - Web Components](http://www.html5rocks.com/en/search?q=web+components)
+- [Polymer Platform](https://www.polymer-project.org/docs/start/platform.html)
+- [HTML5 Rocks](https://www.html5rocks.com/en/)
+- [HTML5 Rocks - Web Components](https://www.html5rocks.com/en/search?q=web+components)
 
 ### Picks
 
-- [The Iron Druid Chronicles](http://en.wikipedia.org/wiki/The_Iron_Druid_Chronicles) (Aaron)
-- [Tricked (Iron Druid Chronicles) by Kevin Hearne](http://www.amazon.com/gp/product/0345533623/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345533623&linkCode=as2&tag=chamaxwoo-20&linkId=TJ4SOYGNE3RXI3DN) (Aaron)
-- [The International Dota 2 Championships](http://www.dota2.com/international/overview/) (Jamison)
-- [Robert Smallshire: the unreasonable effectiveness of dynamic typing](http://schd.ws/hosted_files/buildstuff2013/ce/The%20unreasonable%20effectiveness%20of%20dynamic%20typing%20for%20practical%20programs.pdf) (Jamison)
-- [Fit Men Cook](http://fitmencook.com/) (Jamison)
-- [Toastmasters International](http://www.toastmasters.org/) (Joe)
-- [Villages](http://www.boardgamegeek.com/boardgame/114684/villages) (Joe)
-- [Guardians of the Galaxy](http://www.imdb.com/title/tt2015381/) (Joe)
-- [LessMoney Conference](http://lessmoney.lesseverything.com/) (Chuck)
-- [LessAccounting](http://lessaccounting.com/) (Chuck)
-- [Cold Spring Fault Less Youth by Mount Kimbie](http://www.amazon.com/gp/product/B00C252HTI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C252HTI&linkCode=as2&tag=chamaxwoo-20&linkId=EPIVZZT4WEEXKNES) (Rob)
-- [Flash Boys by Michael Lewis](http://www.amazon.com/gp/product/0393244660/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393244660&linkCode=as2&tag=chamaxwoo-20&linkId=UHLUB2MHKNMYHJIJ) (Rob)
-- [Samsung Gear Live](http://www.samsung.com/global/microsite/gear/gearlive_design.html) (Rob)
-- [Bobby Flay's Grill It! by Bobby Flay](http://www.amazon.com/gp/product/0307351424/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307351424&linkCode=as2&tag=chamaxwoo-20&linkId=XDH3F7LUCKHAYXM6) (Eric)
-- [[blink] Revision 178755](http://src.chromium.org/viewvc/blink?view=revision&revision=178755) (Eric)
+- [The Iron Druid Chronicles](https://en.wikipedia.org/wiki/The_Iron_Druid_Chronicles) (Aaron)
+- [Tricked (Iron Druid Chronicles) by Kevin Hearne](https://www.amazon.com/gp/product/0345533623/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345533623&linkCode=as2&tag=chamaxwoo-20&linkId=TJ4SOYGNE3RXI3DN) (Aaron)
+- [The International Dota 2 Championships](https://www.dota2.com/international/overview/) (Jamison)
+- [Robert Smallshire: the unreasonable effectiveness of dynamic typing](https://schd.ws/hosted_files/buildstuff2013/ce/The%20unreasonable%20effectiveness%20of%20dynamic%20typing%20for%20practical%20programs.pdf) (Jamison)
+- [Fit Men Cook](https://fitmencook.com/) (Jamison)
+- [Toastmasters International](https://www.toastmasters.org/) (Joe)
+- [Villages](https://www.boardgamegeek.com/boardgame/114684/villages) (Joe)
+- [Guardians of the Galaxy](https://www.imdb.com/title/tt2015381/) (Joe)
+- [LessMoney Conference](https://lessmoney.lesseverything.com/) (Chuck)
+- [LessAccounting](https://lessaccounting.com/) (Chuck)
+- [Cold Spring Fault Less Youth by Mount Kimbie](https://www.amazon.com/gp/product/B00C252HTI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C252HTI&linkCode=as2&tag=chamaxwoo-20&linkId=EPIVZZT4WEEXKNES) (Rob)
+- [Flash Boys by Michael Lewis](https://www.amazon.com/gp/product/0393244660/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393244660&linkCode=as2&tag=chamaxwoo-20&linkId=UHLUB2MHKNMYHJIJ) (Rob)
+- [Samsung Gear Live](https://www.samsung.com/global/microsite/gear/gearlive_design.html) (Rob)
+- [Bobby Flay's Grill It! by Bobby Flay](https://www.amazon.com/gp/product/0307351424/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307351424&linkCode=as2&tag=chamaxwoo-20&linkId=XDH3F7LUCKHAYXM6) (Eric)
+- [[blink] Revision 178755](https://src.chromium.org/viewvc/blink?view=revision&revision=178755) (Eric)
 
 ### Next Week
 

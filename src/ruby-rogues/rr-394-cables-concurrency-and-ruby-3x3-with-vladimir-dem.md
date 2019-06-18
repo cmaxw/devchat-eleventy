@@ -112,7 +112,7 @@ End – [Cache Fly!](https://www.cachefly.com)
 **Links:**
 
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
-- [The DevRev Podcast Show](http://thedevrev.com)
+- [The DevRev Podcast Show](https://thedevrev.com)
 - [Angular](https://angular.io)
 - [DevChat TV](https://devchat.tv)
 - [Ruby](https://www.ruby-lang.org/en/)
@@ -125,7 +125,7 @@ End – [Cache Fly!](https://www.cachefly.com)
 - [Faye-Websocket-Ruby](https://github.com/faye/faye-websocket-ruby)
 - [Anycable](https://github.com/anycable/anycable)
 - [EMx 020 Episode](https://devchat.tv/elixir-mix/emx-020-phoenix-and-liveview-with-chris-mccord/)
-- [Entreprogrammers: Episode 248](http://entreprogrammers.com)
+- [Entreprogrammers: Episode 248](https://entreprogrammers.com)
 - [Socketry](https://github.com/socketry/)
 - [The Rails Doctrine](https://rubyonrails.org/doctrine/)
 - [Walmart: Invisible Glass](https://www.walmart.com/ip/Invisible-Glass-Reach-Clean-Tool-2pc-Kit/52621454)
@@ -163,7 +163,7 @@ Nate
 Charles
 
 - [Kanban Flow](https://kanbanflow.com/)
-- [EntreProgrammers](http://entreprogrammers.com)
+- [EntreProgrammers](https://entreprogrammers.com)
 - The pomodoro technique
 - masterhunt.com/devchat
 

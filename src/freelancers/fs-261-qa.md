@@ -29,7 +29,7 @@ This episode of The Freelancers’ Show features panelists Reuven Lerner and Jon
 - [Game of Thrones](https://www.theverge.com/2017/7/17/15979110/game-of-thrones-season-7-episode-1-dragonstone-recap-fantasy-league)
 - [What's the Future](https://www.aspenideas.org/session/wtf-what%E2%80%99s-future)
   **Reuven** :
-- [The Good Fight (TV show)](http://www.cbs.com/shows/the-good-fight/)
+- [The Good Fight (TV show)](https://www.cbs.com/shows/the-good-fight/)
 - [Drip's workflows](https://www.drip.co/workflows)
 
 ### **Links**

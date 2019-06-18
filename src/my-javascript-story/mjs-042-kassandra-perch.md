@@ -34,11 +34,11 @@ tags:
 - https://www.iopipe.com
 - [https://github.com/nodebotanist](https://github.com/nodebotanist)
 - [https://github.com/noopkat/avrgirl](https://github.com/noopkat/avrgirl)
-- [http://johnny-five.io](http://johnny-five.io)
+- [https://johnny-five.io](https://johnny-five.io)
 - [IOpipe](https://www.iopipe.com)
   **Picks** Kassandra
 - Sue Hitten
-- [Johnny 5](http://johnny-five.io)
+- [Johnny 5](https://johnny-five.io)
 - [Serverless Framework&nbsp;](https://serverless.com)
   Charles
 - [VS Code Azure pluggin&nbsp;](https://marketplace.visualstudio.com/items?itemName=bradygaster.azuretoolsforvscode)

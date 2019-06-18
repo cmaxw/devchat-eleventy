@@ -26,7 +26,7 @@ In this episode, the Adventures in Angular panel talks about Agile Fluency with 
 
 1:10 – James has been on the shows previously on [Ruby Rogues Episode 275](https://devchat.tv/ruby-rogues/275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore/) and [My Ruby Story Episode 48](https://devchat.tv/my-ruby-story/mrs-048-james-shore/).
 
-2:00 – He does a lot of work with agile, but actually got started with something called [Extreme Programming](http://www.extremeprogramming.org/).
+2:00 – He does a lot of work with agile, but actually got started with something called [Extreme Programming](https://www.extremeprogramming.org/).
 
 3:14 – When Agile started, it was a reaction to the management belief that the right way to develop software was to hire armies of replaceable programmers and a few architects to design something that was then sent off for these programmers to work.
 
@@ -64,7 +64,7 @@ In this episode, the Adventures in Angular panel talks about Agile Fluency with 
 
 - [Ruby Rogues Episode 275](https://devchat.tv/ruby-rogues/275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore/)
 - [My Ruby Story Episode 48](https://devchat.tv/my-ruby-story/mrs-048-james-shore/)
-- [Extreme Programming](http://www.extremeprogramming.org/)
+- [Extreme Programming](https://www.extremeprogramming.org/)
 - [Agile Fluency Project](https://www.agilefluency.org/)
 - [Agile Fluency Model](https://martinfowler.com/articles/agileFluency.html)
 - [_Smalltalk Best Practice Patterns_ by Kent Beck](https://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent-ebook/dp/B00BBDLIME)
@@ -89,7 +89,7 @@ Charles
 
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
 - [DevChat Merchandise](https://www.teepublic.com/user/cmaxw)
-- [Code Badges](http://codebadge.org/)
+- [Code Badges](https://codebadge.org/)
 - [DevChat.tv YouTube](https://devchat.tv/youtube)
 
 Joe
@@ -101,7 +101,7 @@ James
 
 - [Deliver:Agile](<https://www.agilealliance.org/deliver-agile-2018/#q=~(filters~(postType~(~'aa_event_session~'aa_video)~sources~(~'deliver*3aAgile*202018))~searchTerm~'~sort~'name.sort~sortDirection~'asc~page~1)>)
 - [_Testing Without Mocks: A Pattern Language_](https://www.jamesshore.com/Blog/Testing-Without-Mocks.html)
-- [Jake](http://jakejs.com/) (build tool)
+- [Jake](https://jakejs.com/) (build tool)
 - [The High-Performance Coach](https://www.jamesshore.com/Calendar/2018-09-12.html)
 - [_The Expanse_ by James S. A. Corey](https://www.amazon.com/The-Expanse-7-Book-Series/dp/B071XSV52H)
 

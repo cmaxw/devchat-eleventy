@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Matias Korhonen has been writing Rails apps professionally at [Kisko Labs](http://kiskolabs.com), a Rails-focused software consultancy in Finland, for almost a decade. In his spare time he works on too many side projects (including [Piranhas.co](http://piranhas.co)), a book price comparison site, and [TLS.care](http://tls.care) (an SSL certificate monitoring service). He also somehow manages to find time to homebrew beer. The Rogues talk to Matias about securing your Rails applications. Rails comes with a lot of security features built in, but you can still leave yourself open to exploitation if you're not careful. Most of these problems occur in the portion of the app your write as opposed to the parts of the app that Rails handles for you. We go over several tools and techniques for making sure your application, access, and data are all secure. In particular, we dive pretty deep on:
+Matias Korhonen has been writing Rails apps professionally at [Kisko Labs](https://kiskolabs.com), a Rails-focused software consultancy in Finland, for almost a decade. In his spare time he works on too many side projects (including [Piranhas.co](https://piranhas.co)), a book price comparison site, and [TLS.care](https://tls.care) (an SSL certificate monitoring service). He also somehow manages to find time to homebrew beer. The Rogues talk to Matias about securing your Rails applications. Rails comes with a lot of security features built in, but you can still leave yourself open to exploitation if you're not careful. Most of these problems occur in the portion of the app your write as opposed to the parts of the app that Rails handles for you. We go over several tools and techniques for making sure your application, access, and data are all secure. In particular, we dive pretty deep on:
 
 - Tools that you can use to scan for vulnerabilities or add more security checks to your applications
 - Authentication and authorization mistakes
@@ -22,7 +22,7 @@ Matias Korhonen has been writing Rails apps professionally at [Kisko Labs](http:
 - [secureheaders](https://github.com/twitter/secureheaders)
 - [brakeman](https://github.com/presidentbeef/brakeman)
 - [Code Climate](https://codeclimate.com/)
-- [CloudFlare](http://cloudflare.com)
+- [CloudFlare](https://cloudflare.com)
 - [zxcvbn](https://github.com/dropbox/zxcvbn)
 - [Troy Hunt article on pwned passwords](https://www.troyhunt.com/introducing-306-million-freely-downloadable-pwned-passwords/)
 - [Devise Security Extension](https://github.com/phatworx/devise_security_extension)
@@ -38,7 +38,7 @@ Matias Korhonen has been writing Rails apps professionally at [Kisko Labs](http:
 Brian:
 
 - [Regex 101](https://regex101.com/)
-- [Give and Take by Adam Grant](http://amzn.to/2xmfUv2)
+- [Give and Take by Adam Grant](https://amzn.to/2xmfUv2)
   Eric:
 - [Indie Hackers](https://www.indiehackers.com/)
   Dave:
@@ -47,10 +47,10 @@ Brian:
 - [Ready Player One Comic-Con trailer breakdown](https://www.youtube.com/watch?v=Trhv4Gi6fy4)
 - [Mattermost](https://about.mattermost.com/)
 - Ruby Rogues Parley
-- [Ruby Dev Summit (FREE)](http://rubydevsummit.com)
+- [Ruby Dev Summit (FREE)](https://rubydevsummit.com)
   Matias:
 - [Webpacker 3.0](https://github.com/rails/webpacker)
 - [ActiveStorage](https://github.com/rails/rails/tree/master/activestorage)
-- [Heroku](http://heroku.com)
+- [Heroku](https://heroku.com)
 
 ### Transcript

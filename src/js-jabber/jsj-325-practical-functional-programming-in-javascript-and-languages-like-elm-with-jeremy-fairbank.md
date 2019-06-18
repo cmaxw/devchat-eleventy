@@ -40,7 +40,7 @@ In this episode, the JavaScript Jabber panel talks to Jeremy Fairbank about his 
 - The idea of too much code
 - Combining multiple functions together to make more complex functions
 - Function composition
-- [Elm](http://elm-lang.org/), [Elixir](https://elixir-lang.org/), and [F#](https://fsharp.org/)
+- [Elm](https://elm-lang.org/), [Elixir](https://elixir-lang.org/), and [F#](https://fsharp.org/)
 - Pipe operator
 - Scary to refactor code
 - Static types
@@ -54,7 +54,7 @@ In this episode, the JavaScript Jabber panel talks to Jeremy Fairbank about his 
 
 - [Test Double](https://testdouble.com/)
 - [His talk - _Practical Functional Programming_](https://www.youtube.com/watch?v=I_uIXgSmkDo)
-- [Elm](http://elm-lang.org/)
+- [Elm](https://elm-lang.org/)
 - [Elixir](https://elixir-lang.org/)
 - [F#](https://fsharp.org/)
 - [@elpapapollo](https://twitter.com/elpapapollo?lang=en)
@@ -72,7 +72,7 @@ In this episode, the JavaScript Jabber panel talks to Jeremy Fairbank about his 
 
 Aimee
 
-- [American Dollar](http://theamericandollar.info/)
+- [American Dollar](https://theamericandollar.info/)
 - Force with lease
 
 AJ
@@ -88,6 +88,6 @@ Jeremy
 
 - [_Programming Elm_](https://pragprog.com/book/jfelm/programming-elm)
 - [_The Secrets of Consulting_ by Gerald M. Weinberg](https://www.amazon.com/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
-- [Connect.Tech](http://connect.tech/)
+- [Connect.Tech](https://connect.tech/)
 
 ### Transcript

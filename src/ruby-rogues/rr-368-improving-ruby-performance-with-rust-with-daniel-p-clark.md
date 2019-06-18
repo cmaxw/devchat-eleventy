@@ -43,7 +43,7 @@ In this episode of Ruby Rogues, the panelists talk to Daniel P. Clark about impr
 - Why would use a Rust extension in Ruby?
 - Have you played around with sending objects into a Ruby function?
 - The story behind creating his Faster path gem
-- [rubyflow.com](http://www.rubyflow.com/)
+- [rubyflow.com](https://www.rubyflow.com/)
 - [Turbolinks](https://github.com/turbolinks/turbolinks) and [Spring](https://spring.io/) and how they react
 - [Helix](https://usehelix.com/) project
 - And much, much more!
@@ -57,7 +57,7 @@ In this episode of Ruby Rogues, the panelists talk to Daniel P. Clark about impr
 - [_Rust to the rescue (of Ruby)_](https://medium.com/@fbzga/rust-to-the-rescue-of-ruby-2067f5e1dc25)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [6ftdan.com](https://6ftdan.com/)
-- [rubyflow.com](http://www.rubyflow.com/)
+- [rubyflow.com](https://www.rubyflow.com/)
 - [Turbolinks](https://github.com/turbolinks/turbolinks)
 - [Spring](https://spring.io/)
 - [Helix](https://usehelix.com/)
@@ -101,6 +101,6 @@ Daniel
 - [_Programming Rust_ by Jim Blandy and Jason Orendorff](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283)
 - [All Your Dev YouTube channel](https://www.youtube.com/user/allyourdev)
 - [LegalShield](https://www.legalshield.com/)
-- [GoSmallBiz](http://gosmallbiz.com/)
+- [GoSmallBiz](https://gosmallbiz.com/)
 
 ### Transcript

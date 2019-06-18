@@ -24,7 +24,7 @@ tags:
 - Angular beginnings
 - React Native
 - [React Native Training](https://medium.com/react-native-training)
-- [React JS Consulting](http://www.reactjsconsulting.com/)
+- [React JS Consulting](https://www.reactjsconsulting.com/)
 - Node developer beginnings
 - Backbone to React
 - Ruby background
@@ -43,7 +43,7 @@ tags:
 - And much, much more!
   **Links:**
 - [React Native Training&nbsp;](https://medium.com/react-native-training)
-- [React JS Consulting](http://www.reactjsconsulting.com/)
+- [React JS Consulting](https://www.reactjsconsulting.com/)
 - [React-Howto](https://github.com/petehunt/react-howto)
 - [Beginners Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
 - [_You Don’t Know JS, ES6, and Beyond_ by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%2520%2526%2520beyond)
@@ -59,7 +59,7 @@ tags:
 - [React Dev Summit 2018](https://reactdevsummit.com/)
 - [Ready Player One](https://www.audible.com/pd/Sci-Fi-Fantasy/Ready-Player-One-Audiobook/B005FRGT44)
   Tara
-- [JazzCon](http://jazzcon.tech/)
+- [JazzCon](https://jazzcon.tech/)
 - #toshmagosh
   Nader
 - [Viro Media](https://viromedia.com/)
@@ -70,6 +70,6 @@ tags:
   Cory
 - Node Tip
 - [React: The Big Picture](https://www.pluralsight.com/courses/react-big-picture)
-- [React Rally](http://www.reactrally.com/)
+- [React Rally](https://www.reactrally.com/)
 
 ### Transcript

@@ -14,30 +14,30 @@ tags:
 
 ### Panel
 
-- Nicholas C. Zakas ([twitter](https://twitter.com/slicknet) [github](https://github.com/nzakas/) [blog](http://www.nczonline.net/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
+- Nicholas C. Zakas ([twitter](https://twitter.com/slicknet) [github](https://github.com/nzakas/) [blog](https://www.nczonline.net/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:24 - Nicholas Zakas Introduction
 
 - [Box](https://www.box.com/)
-- [Maintainable JavaScript by Nicholas C. Zakas](http://www.amazon.com/gp/product/1449327680/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449327680&linkCode=as2&tag=chamaxwoo-20)
-- [High Performance JavaScript (Build Faster Web Application Interfaces) by Nicholas C. Zakas](http://www.amazon.com/gp/product/059680279X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=059680279X&linkCode=as2&tag=chamaxwoo-20)
-- [Yahoo](http://www.yahoo.com/)
+- [Maintainable JavaScript by Nicholas C. Zakas](https://www.amazon.com/gp/product/1449327680/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449327680&linkCode=as2&tag=chamaxwoo-20)
+- [High Performance JavaScript (Build Faster Web Application Interfaces) by Nicholas C. Zakas](https://www.amazon.com/gp/product/059680279X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=059680279X&linkCode=as2&tag=chamaxwoo-20)
+- [Yahoo](https://www.yahoo.com/)
   02:19 - What Makes Maintainable JavaScript?
 - Code Layout
 - Clever Solutions (“Chicken Blood Solutions”)
   04:39 - Formatting
-- [Thinking, Fast and Slow by Daniel Kahneman](http://www.amazon.com/gp/product/0374533555/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=chamaxwoo-20)
-- [Broken Window Theory](http://en.wikipedia.org/wiki/Broken_windows_theory)
+- [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/gp/product/0374533555/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=chamaxwoo-20)
+- [Broken Window Theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
   07:33 - Architecture
 - [aura](https://github.com/aurajs/aura)
-- [Nicholas Zakas: The Scalable JavaScript Application Architecture](http://www.youtube.com/watch?v=vXjVFPosQHw)
+- [Nicholas Zakas: The Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)
 - Feature Encapsulation
   14:11 - 'High Performance Javascript' and the balance between short-term and long-term knowledge 19:17 - Important conventions for a team to follow
 - Styles
@@ -46,34 +46,34 @@ tags:
   26:14 - Tools & Techniques
 - Style Guide
   28:31 - Breaking the continuous integration build 31:14 - Linting
-- [JSLint](http://www.jslint.com/)
+- [JSLint](https://www.jslint.com/)
   32:35 - Developing skills for architecting things
 - Experience
 - Personal Trait of Curiosity
 - Component-based and Systems-based software engineers
   37:52 - Architecture and Maintainability
 - Testability
-- [Backbone.js](http://backbonejs.org/)
+- [Backbone.js](https://backbonejs.org/)
   43:28 - Creating common conventions that will apply across projects
 
 ### Picks
 
-- [Domo](http://www.domo.com/) (Joe)
-- [Pluralsight](http://www.pluralsight.com/) (Joe)
-- [Game Dev Tycoon](http://www.greenheartgames.com/) (Joe)
-- [The Star Wars](http://www.darkhorse.com/Zones/StarWars) (Joe)
-- [Foundation Actionscript 3.0 Animation: Making Things Move! by Keith Peters](http://www.amazon.com/gp/product/1590597915/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1590597915&linkCode=as2&tag=chamaxwoo-20) (Merrick)
-- [ng-conf](http://www.ng-conf.org/) (Merrick)
-- [Kveikur by Sigur Rós](http://rd.io/x/QVyxJCJwZ7E/) (Merrick)
+- [Domo](https://www.domo.com/) (Joe)
+- [Pluralsight](https://www.pluralsight.com/) (Joe)
+- [Game Dev Tycoon](https://www.greenheartgames.com/) (Joe)
+- [The Star Wars](https://www.darkhorse.com/Zones/StarWars) (Joe)
+- [Foundation Actionscript 3.0 Animation: Making Things Move! by Keith Peters](https://www.amazon.com/gp/product/1590597915/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1590597915&linkCode=as2&tag=chamaxwoo-20) (Merrick)
+- [ng-conf](https://www.ng-conf.org/) (Merrick)
+- [Kveikur by Sigur Rós](https://rd.io/x/QVyxJCJwZ7E/) (Merrick)
 - [makemeasandwich](https://npmjs.org/package/makemeasandwich) (AJ)
 - Sleep (AJ)
-- [Jekyll Themes](http://jekyllthemes.org/) (Jamison)
-- [Growing Object-Oriented Software, Guided by Tests by Steve Freeman](http://www.amazon.com/gp/product/0321503627/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321503627&linkCode=as2&tag=chamaxwoo-20) (Jamison)
-- [A Canticle For Leibowitz by Walter M. Miller Jr.](http://www.amazon.com/gp/product/0060892994/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060892994&linkCode=as2&tag=chamaxwoo-20) (Jamison)
-- [DevChat.tv](http://www.devchat.tv/) (Chuck)
-- [Thinking, Fast and Slow by Daniel Kahneman](http://www.amazon.com/gp/product/0374533555/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=chamaxwoo-20) (Nicholas)
-- [StePhest Colbchella '013 - Time to Dance](http://www.colbertnation.com/the-colbert-report-videos/428377/august-06-2013/stephest-colbchella--013---time-to-dance) (Nicholas)
-- [Evolution of Music - Pentatonix](http://www.youtube.com/watch?v=lExW80sXsHs&feature=youtu.be) (Nicholas)
+- [Jekyll Themes](https://jekyllthemes.org/) (Jamison)
+- [Growing Object-Oriented Software, Guided by Tests by Steve Freeman](https://www.amazon.com/gp/product/0321503627/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321503627&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [A Canticle For Leibowitz by Walter M. Miller Jr.](https://www.amazon.com/gp/product/0060892994/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060892994&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [DevChat.tv](https://www.devchat.tv/) (Chuck)
+- [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/gp/product/0374533555/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=chamaxwoo-20) (Nicholas)
+- [StePhest Colbchella '013 - Time to Dance](https://www.colbertnation.com/the-colbert-report-videos/428377/august-06-2013/stephest-colbchella--013---time-to-dance) (Nicholas)
+- [Evolution of Music - Pentatonix](https://www.youtube.com/watch?v=lExW80sXsHs&feature=youtu.be) (Nicholas)
 
 ### Next Week
 

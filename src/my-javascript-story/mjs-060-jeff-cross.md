@@ -33,7 +33,7 @@ This week on My JavaScript Story, Charles speaks with Jeff Cross. Jeff has been 
 - From JavaScript to Angular
 - Node Programming
 - APIs
-- [Deployd](http://deployd.com/)
+- [Deployd](https://deployd.com/)
 - Angular Team at Google
 - What have you contributed to angular?
 - Embarrassing stories
@@ -45,7 +45,7 @@ This week on My JavaScript Story, Charles speaks with Jeff Cross. Jeff has been 
 
 - [FreshBooks](https://www.freshbooks.com/invoice?ref=11731&utm_source=pbm&utm_medium=affiliate-program&utm_influencer=419364&utm_campaign=podcast-influencers)
 - [Nrwl](https://nrwl.io/)
-- [Deployd](http://deployd.com/)
+- [Deployd](https://deployd.com/)
 - [Linode](https://promo.linode.com/myangularstory/)
 - [@JeffBCross](https://twitter.com/jeffbcross?lang=en)
 - [@nrwl_io](https://twitter.com/nrwl_io?lang=en)

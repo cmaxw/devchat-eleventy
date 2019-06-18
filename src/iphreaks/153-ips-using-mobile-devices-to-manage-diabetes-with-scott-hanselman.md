@@ -16,27 +16,27 @@ tags:
 
 - [Twitter](https://twitter.com/shanselman)
 - [GitHub](https://github.com/shanselman)
-- [Blog](http://www.hanselman.com/)
-- [Hanselminutes](http://hanselminutes.com/)
-- [This Developer's Life](http://thisdeveloperslife.com/)
+- [Blog](https://www.hanselman.com/)
+- [Hanselminutes](https://hanselminutes.com/)
+- [This Developer's Life](https://thisdeveloperslife.com/)
   02:23 - Managing Diabetes
-- [American Diabetes Association](http://www.diabetes.org/)
-  13:14 - [“Closed-Loop” System](http://www.diabetes.org/research-and-practice/patient-access-to-research/closed-loop-system-can.html)
-- [Dexcom Continuous Glucose Monitoring (CGM)](http://www.dexcom.com/)
+- [American Diabetes Association](https://www.diabetes.org/)
+  13:14 - [“Closed-Loop” System](https://www.diabetes.org/research-and-practice/patient-access-to-research/closed-loop-system-can.html)
+- [Dexcom Continuous Glucose Monitoring (CGM)](https://www.dexcom.com/)
   20:16 - [OpenAPS](https://openaps.org/)23:00 - Monitoring26:37 - The Current State of Systems28:44 - What can people do now?
 - [openaps](https://github.com/openaps)
   34:56 - The Future
-- [Bigfoot Biomedical](http://www.bigfootbiomedical.com/)
+- [Bigfoot Biomedical](https://www.bigfootbiomedical.com/)
   37:37 - Wearing Devices
-- [Scott Hanselman: Hacking Diabetes](http://www.hanselman.com/blog/HackingDiabetes.aspx)
+- [Scott Hanselman: Hacking Diabetes](https://www.hanselman.com/blog/HackingDiabetes.aspx)
   Picks
 - Reading Papers (Andrew)
-- [Diabetes Light](http://diabeteslight.com/) (Jaim)
+- [Diabetes Light](https://diabeteslight.com/) (Jaim)
 - [Diabetes Light: My holistic journey to health (Facebook)](https://www.facebook.com/Diabetes-Light-My-holistic-journey-to-health-188813974545664/) (Jaim)
 - [The Essential Prince Reading List](https://www.buzzfeed.com/doree/the-most-powerful-writing-about-prince#.xjXagrOnL) (Jaim)
-- [Jimmy Jam and Terry Lewis have become synonymous with recording excellence](http://waxpoetics.com/features/articles/jimmy-jam-interview/) (Jaim)
+- [Jimmy Jam and Terry Lewis have become synonymous with recording excellence](https://waxpoetics.com/features/articles/jimmy-jam-interview/) (Jaim)
 - [The Primal Blueprint](https://www.primalblueprint.com/) (Chuck)
-- [Mark’s Daily Apple](http://www.marksdailyapple.com/) (Chuck)
+- [Mark’s Daily Apple](https://www.marksdailyapple.com/) (Chuck)
 - [Chatting with Prince on AOL in 1999](https://medium.com/@shanselman/chatting-with-prince-on-aol-in-1999-23bb540fc47#.hftmtjsyh) (Scott)
 
 ### Transcript

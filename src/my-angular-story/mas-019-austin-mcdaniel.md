@@ -24,7 +24,7 @@ Charles Max Wood **Guest:** Austin McDaniel This week on My JavaScript Story, Ch
 - [jquery&nbsp;](https://jquery.com)
 - Web is the future
 - How did you get into Angular? 2013, v1.2
-- [Backbone](http://backbonejs.org)
+- [Backbone](https://backbonejs.org)
 - Angular 1 & 2
 - NG X Charts
 - Speaking at Conferences
@@ -36,10 +36,10 @@ Charles Max Wood **Guest:** Austin McDaniel This week on My JavaScript Story, Ch
   **Links:&nbsp;**
 - [JavaScript Jabber episode 275](https://devchat.tv/js-jabber/jsj-275-zones-node-austin-mcdaniel)
 - [jquery](https://jquery.com)
-- [http://amcdnl.com](http://amcdnl.com)
+- [https://amcdnl.com](https://amcdnl.com)
 - [Angular Air Podcast](https://angularair.com)
 - @amcdnl
-- [github.com/amcdnl](http://github.com/amcdnl)
+- [github.com/amcdnl](https://github.com/amcdnl)
 -
 
 **Picks** Austin

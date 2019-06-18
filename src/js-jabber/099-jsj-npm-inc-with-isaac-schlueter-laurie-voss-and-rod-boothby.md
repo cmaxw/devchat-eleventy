@@ -14,23 +14,23 @@ tags:
 
 ### Panel
 
-- Isaac Schlueter ([twitter](https://twitter.com/izs)&nbsp;[github](https://github.com/isaacs)&nbsp;[blog](http://blog.izs.me/))
-- Laurie Voss ([twitter](https://twitter.com/seldo) [github](https://github.com/seldo) [blog](http://seldo.com/))
-- Rod Boothby ([twitter](https://twitter.com/rod11) [blog](http://about.me/rod.boothby))
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
+- Isaac Schlueter ([twitter](https://twitter.com/izs)&nbsp;[github](https://github.com/isaacs)&nbsp;[blog](https://blog.izs.me/))
+- Laurie Voss ([twitter](https://twitter.com/seldo) [github](https://github.com/seldo) [blog](https://seldo.com/))
+- Rod Boothby ([twitter](https://twitter.com/rod11) [blog](https://about.me/rod.boothby))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-01:33 - [npm, Inc.](http://www.npmjs.com/)
+01:33 - [npm, Inc.](https://www.npmjs.com/)
 
 - Services & Possible Features
-- [Joyent](http://www.joyent.com/)
+- [Joyent](https://www.joyent.com/)
   05:06 - Monetizing npm
-- [The npm Blog - Funding](http://blog.npmjs.org/post/76320673650/funding#disqus_thread)
+- [The npm Blog - Funding](https://blog.npmjs.org/post/76320673650/funding#disqus_thread)
   07:29 - The History of npm 10:09 - Forming a Foundation vs Forming a Company
 - Code Licensing
 - [npm](https://github.com/npm)
@@ -38,34 +38,34 @@ tags:
   14:32 - Monetizing npm (Cont’d) 16:18 - Investment Concerns 22:40 - Existing Features
 - Downtime
 - Binaries
-- [Manta](http://www.joyent.com/products/manta)
+- [Manta](https://www.joyent.com/products/manta)
 - [Fastly](https://www.fastly.com/)
   29:41 - Value 32:49 - [Nodejitsu](https://www.nodejitsu.com/)
-- [JavaScript Jabber Episode #52 Node & NPM with Isaac Schlueter](http://javascriptjabber.com/052-jsj-node-npm-with-isaac-schlueter/)
+- [JavaScript Jabber Episode #52 Node & NPM with Isaac Schlueter](https://javascriptjabber.com/052-jsj-node-npm-with-isaac-schlueter/)
   39:45 - Short-term npm, Inc. Goals
 - Download Counts
   43:15 - Transition from Node to npm, Inc.
 
 ### Picks
 
-- [The Best Time to Plant a Tree](http://www.lds.org/ensign/2014/01/the-best-time-to-plant-a-tree?lang=eng) (AJ)
-- [Random User Generator](http://randomuser.me/) (AJ)
+- [The Best Time to Plant a Tree](https://www.lds.org/ensign/2014/01/the-best-time-to-plant-a-tree?lang=eng) (AJ)
+- [Random User Generator](https://randomuser.me/) (AJ)
 - [Ledges: Noah Gundersen](https://itunes.apple.com/us/album/ledges/id775975226) (Merrick)
 - [William Fitzsimmons: Lions](https://itunes.apple.com/us/album/lions/id789177929) (Merrick)
-- [Nonviolent Communication: A Language of Life by Marshall B. Rosenberg](http://www.amazon.com/gp/product/1892005034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=chamaxwoo-20) (Merrick)
-- [KONGOS: Lunatic](http://www.amazon.com/gp/product/B009193PH6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009193PH6&linkCode=as2&tag=chamaxwoo-20) (Aaron)
-- [MountainWest JavaScript](http://mtnwestjs.org/) (Jamison)
+- [Nonviolent Communication: A Language of Life by Marshall B. Rosenberg](https://www.amazon.com/gp/product/1892005034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=chamaxwoo-20) (Merrick)
+- [KONGOS: Lunatic](https://www.amazon.com/gp/product/B009193PH6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009193PH6&linkCode=as2&tag=chamaxwoo-20) (Aaron)
+- [MountainWest JavaScript](https://mtnwestjs.org/) (Jamison)
 - [nothing-to-hide](https://github.com/ncase/nothing-to-hide) (Jamison)
 - [Monster Legends](https://itunes.apple.com/us/app/monster-legends-mobile/id653508448?mt=8) (Chuck)
 - [ekanban](https://github.com/samchen2009/ekanban) (Chuck)
-- [Tribes: We Need You to Lead Us by Seth Godin](http://www.amazon.com/gp/product/1591842336/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591842336&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Code Scouts](http://codescouts.org/) (Isaac)
-- [Jobs - npm, Inc.](http://www.npmjs.com/jobs) (Isaac)
+- [Tribes: We Need You to Lead Us by Seth Godin](https://www.amazon.com/gp/product/1591842336/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591842336&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Code Scouts](https://codescouts.org/) (Isaac)
+- [Jobs - npm, Inc.](https://www.npmjs.com/jobs) (Isaac)
 - [Fastly](https://www.fastly.com/) (Laurie)
 - [Slack](https://slack.com/) (Laurie)
-- [hapi](http://spumko.github.io/) (Laurie)
-- [Accretive Solutions](http://www.accretivesolutions.com/) (Rod)
-- [Oakland, California](http://en.wikipedia.org/wiki/Oakland,_California) (Rod)
+- [hapi](https://spumko.github.io/) (Laurie)
+- [Accretive Solutions](https://www.accretivesolutions.com/) (Rod)
+- [Oakland, California](https://en.wikipedia.org/wiki/Oakland,_California) (Rod)
 - NPM: Nice People Matter (Rod)
 
 ### Next Week

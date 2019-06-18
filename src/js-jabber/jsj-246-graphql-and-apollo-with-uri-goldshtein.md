@@ -30,10 +30,10 @@ GraphQL uses the same approach as REST. It runs regardless of the technology bei
 
 ## This week’s Javascript Jabber picks:
 
-Aimee: [Crypto 101](https://www.crypto101.io/)Charles:&nbsp;[Star Wars Rogue&nbsp;One](http://www.starwars.com/films/rogue-one), The Power Consumption for the Death Star Uri: [The 4-Hour Workweek](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=la_B001ILKBW2_1_2/168-0775664-1442057?s=books&ie=UTF8&qid=1485241057&sr=1-2) and [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788) by Tim Feriss
+Aimee: [Crypto 101](https://www.crypto101.io/)Charles:&nbsp;[Star Wars Rogue&nbsp;One](https://www.starwars.com/films/rogue-one), The Power Consumption for the Death Star Uri: [The 4-Hour Workweek](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=la_B001ILKBW2_1_2/168-0775664-1442057?s=books&ie=UTF8&qid=1485241057&sr=1-2) and [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788) by Tim Feriss
 
 ## Episode Links:
 
-[GraphQL.org](http://graphql.org/)[Apollodata.com](http://www.apollodata.com/)
+[GraphQL.org](https://graphql.org/)[Apollodata.com](https://www.apollodata.com/)
 
 ### Transcript

@@ -14,18 +14,18 @@ tags:
 
 00:58 - Amir Rajan Introduction
 
-- [Twitter](http://twitter.com/amirrajan)
+- [Twitter](https://twitter.com/amirrajan)
 - [GitHub](https://github.com/amirrajan)
-- [Blog](http://amirrajan.net/)
+- [Blog](https://amirrajan.net/)
 - [A Dark Room (App)](https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8)
 - [Surviving The App Store: How to Make It as an Indie Game Developer by Amir Rajan](https://leanpub.com/survivingtheappstore)
 - [A Noble Circle](https://itunes.apple.com/us/app/a-noble-circle/id977865620?mt=8)
   03:08 - Building A Dark Room07:14 - Marketing the Game
-- [A Dark Room (Web Version)](http://adarkroom.doublespeakgames.com/)
-- [Twitter](http://twitter.com/)
+- [A Dark Room (Web Version)](https://adarkroom.doublespeakgames.com/)
+- [Twitter](https://twitter.com/)
 - [Facebook Ads](https://www.facebook.com/business/products/ads)
 - [Reddit](https://www.reddit.com/)
-  - Accessibility - [Raising Awareness, the Blind use iOS Devices](http://amirrajan.net/software-development/2013/12/29/if-you-are-reading-this-you-are-not-blind/) - [AppleVis](http://applevis.com/)
+  - Accessibility - [Raising Awareness, the Blind use iOS Devices](https://amirrajan.net/software-development/2013/12/29/if-you-are-reading-this-you-are-not-blind/) - [AppleVis](https://applevis.com/)
     23:40 - Earning a Sustainable Income29:03 - Amir’s Developer Experience
 - [John Sonmez (Simple Programmer)](https://simpleprogrammer.com/)
   33:22 - Reviews37:05 - The Iterative Aspect of Building an Application
@@ -36,7 +36,7 @@ tags:
 - [Hoplite](https://itunes.apple.com/us/app/hoplite/id782438457?mt=8) (Amir)
 - [Alto’s Adventure](https://itunes.apple.com/us/app/altos-adventure/id950812012?mt=8) (Amir)
 - [Transistor](https://itunes.apple.com/us/app/transistor/id948857526?mt=8) (Amir)
-- [Blackbox](http://blackboxpuzzles.com) (Andrew)
+- [Blackbox](https://blackboxpuzzles.com) (Andrew)
 
 ### Transcript
 

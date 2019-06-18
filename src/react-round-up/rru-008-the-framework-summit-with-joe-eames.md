@@ -38,7 +38,7 @@ In this episode of React Round Up, the panel discusses [The Framework Summit](ht
 - Merging communities and creating open dialogue
 - Format of the conference
 - Both single-track and multi-track
-- [Elm](http://elm-lang.org/)
+- [Elm](https://elm-lang.org/)
 - [Vue](https://vuejs.org/)
 - [Angular](https://angular.io/)
 - Great lineup already and it’s getting better
@@ -51,7 +51,7 @@ In this episode of React Round Up, the panel discusses [The Framework Summit](ht
 
 - [React](https://reactjs.org/)
 - [The Framework Summit](https://www.frameworksummit.com/)
-- [Elm](http://elm-lang.org/)
+- [Elm](https://elm-lang.org/)
 - [Vue](https://vuejs.org/)
 - [Angular](https://angular.io/)
 - [Webflow](https://webflow.com/)
@@ -62,7 +62,7 @@ In this episode of React Round Up, the panel discusses [The Framework Summit](ht
 Tara
 
 - [Vue Vixens](https://vuevixens.org/)
-- [ngGirls](http://ng-girls.org/)
+- [ngGirls](https://ng-girls.org/)
 
 Nader
 

@@ -14,58 +14,58 @@ tags:
 
 02:42 - Evaluating Yourself 03:13 - Figuring Out Your Momentum Life Balance
 
-- [NoSQL](http://en.wikipedia.org/wiki/NoSQL)
-- [Tournament Chess](http://en.wikipedia.org/wiki/Chess_tournament)
+- [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
+- [Tournament Chess](https://en.wikipedia.org/wiki/Chess_tournament)
   08:09 - Learning New Things 09:42 - How To Learn
-- [James Edward Gray: Are We Teaching the Best Things?](http://graysoftinc.com/non-code/are-we-teaching-the-best-things)
+- [James Edward Gray: Are We Teaching the Best Things?](https://graysoftinc.com/non-code/are-we-teaching-the-best-things)
   10:20 - Other Types of Thinking
 - Social Skills
-- [Pair Programming](http://en.wikipedia.org/wiki/Pair_programming)
+- [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
   12:57 - “Thinking Like a Computer”
 - Measuring Success with Numbers
   19:56 - Measuring Progress
 - [James Edward Gray Youtube Channel](https://www.youtube.com/results?search_query=james+edward+gray)
-- [MUDs](http://www.online-games.net/newmuds.html)
+- [MUDs](https://www.online-games.net/newmuds.html)
 - Shipping
 - Barriers
-- [Saron’s Blog - Archives](http://bloggytoons.com/posts)
+- [Saron’s Blog - Archives](https://bloggytoons.com/posts)
   27:14 - Areas of Interest
-- [Intrinsic Motivation](http://psychology.about.com/od/motivation/f/intrinsic-motivation.htm)
-- [Rust](http://www.rust-lang.org/)
-  - [Rust IRC Channel](http://client00.chat.mibbit.com/?server=irc.mozilla.org&channel=%23rust)
+- [Intrinsic Motivation](https://psychology.about.com/od/motivation/f/intrinsic-motivation.htm)
+- [Rust](https://www.rust-lang.org/)
+  - [Rust IRC Channel](https://client00.chat.mibbit.com/?server=irc.mozilla.org&channel=%23rust)
     29:33 - Other Metrics or Stats for Evaluation
-- [Typing Tutor](http://freeonlinetypinggames.com/typing-tutor/)
-- [Dreyfus Model of Skill Acquisition](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
-- [User Story](http://en.wikipedia.org/wiki/User_story)
-- [Programming Pearls (2nd Edition) by Jon Bentley](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=sr_1_1?ie=UTF8&qid=1408736081&sr=8-1&keywords=programming+pearls)
+- [Typing Tutor](https://freeonlinetypinggames.com/typing-tutor/)
+- [Dreyfus Model of Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+- [User Story](https://en.wikipedia.org/wiki/User_story)
+- [Programming Pearls (2nd Edition) by Jon Bentley](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=sr_1_1?ie=UTF8&qid=1408736081&sr=8-1&keywords=programming+pearls)
   34:22 - Getting Over Self-Doubt
 - [Social Coding](https://github.com/Social-Coding/Social-Coding)
 - [Steve Klabnik](https://twitter.com/steveklabnik)
-- [Illusory Superiority](http://en.wikipedia.org/wiki/Illusory_superiority)
+- [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
   38:51 - Feedback
-- [Qualitative Feedback](http://www.wisegeek.org/what-is-qualitative-feedback.htm)
-- [RSpec](http://rspec.info/)
-- [Binary Tree](http://en.wikipedia.org/wiki/Binary_tree)
-- [Inject](http://www.injectjs.com/)
+- [Qualitative Feedback](https://www.wisegeek.org/what-is-qualitative-feedback.htm)
+- [RSpec](https://rspec.info/)
+- [Binary Tree](https://en.wikipedia.org/wiki/Binary_tree)
+- [Inject](https://www.injectjs.com/)
   42:54 - Measuring Perspective
 - Social Skills
   47:27 - The Rogues Evaluate Themselves
 - [Swift](https://developer.apple.com/swift/)
-- [Riak](http://basho.com/riak/)
-  - [139 RR - Riak with Sean Cribbs and Bryce Kerley](http://rubyrogues.com/139-rr-riak-with-sean-cribbs-and-bryce-kerley/)
+- [Riak](https://basho.com/riak/)
+  - [139 RR - Riak with Sean Cribbs and Bryce Kerley](https://rubyrogues.com/139-rr-riak-with-sean-cribbs-and-bryce-kerley/)
 - [Verse](https://github.com/verse/verse)
 - [Kindle](https://kindle.amazon.com/)
   53:39 - Evaluating Non-Technical Skills
 - Communication
 - Keeping Journals
-- [zenspider](http://www.zenspider.com/)
+- [zenspider](https://www.zenspider.com/)
   - [Ryan Davis](https://twitter.com/the_zenspider)
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

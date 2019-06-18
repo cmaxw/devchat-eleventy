@@ -14,16 +14,16 @@ tags:
 
 02:36 - Introduction
 
-- [Sam Livingston-Gray: Cognitive Shortcuts: Models, Visualizations, Metaphors, and Other Lies](http://www.confreaks.com/videos/3391-railsconf-cognitive-shortcuts-models-visualizations-metaphors-and-other-lies)
-- [Ruby Rogues Episode #77: Complexity with Glenn Vanderburg](http://rubyrogues.com/077-rr-complexity-with-glenn-vanderburg/)
+- [Sam Livingston-Gray: Cognitive Shortcuts: Models, Visualizations, Metaphors, and Other Lies](https://www.confreaks.com/videos/3391-railsconf-cognitive-shortcuts-models-visualizations-metaphors-and-other-lies)
+- [Ruby Rogues Episode #77: Complexity with Glenn Vanderburg](https://rubyrogues.com/077-rr-complexity-with-glenn-vanderburg/)
 
 04:12 - Processing Techniques
 
-- [Glenn Vanderburg: Programming Intuition](http://agileroots2009.confreaks.com/videos/200-lsrc2009-programming-intuition)
+- [Glenn Vanderburg: Programming Intuition](https://agileroots2009.confreaks.com/videos/200-lsrc2009-programming-intuition)
 
 06:25 - Visualizing Models and Codes
 
-- [Imogen Heap](http://www.imogenheap.com/)
+- [Imogen Heap](https://www.imogenheap.com/)
 
 07:54 - Using Physical and Sensory Parts in Abstraction
 
@@ -33,92 +33,92 @@ tags:
 
 - Concepts, Sequences and Patterns
 - Sciences
-- [The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science by Norman Doidge M.D.](http://www.amazon.com/gp/product/0143113100/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143113100&linkCode=as2&tag=chamaxwoo-20&linkId=ER4FBX2N75S4WNAT)
-- [Ruby Rogues Episode #131 - How To Learn](http://rubyrogues.com/131-rr-how-to-learn/)
+- [The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science by Norman Doidge M.D.](https://www.amazon.com/gp/product/0143113100/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143113100&linkCode=as2&tag=chamaxwoo-20&linkId=ER4FBX2N75S4WNAT)
+- [Ruby Rogues Episode #131 - How To Learn](https://rubyrogues.com/131-rr-how-to-learn/)
 
 11:03 - Values of Patterns
 
 - Mental Shortcuts/Mechanisms
-- [Cognitive Biases](http://en.wikipedia.org/wiki/Cognitive_bias)
+- [Cognitive Biases](https://en.wikipedia.org/wiki/Cognitive_bias)
 
 12:27 - Modeling Other Abstract Concepts
 
 - Musicians as Programmers
-- [The Mythical Man-Month by Fred Brooks](http://www.amazon.com/gp/product/0201835959/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201835959&linkCode=as2&tag=chamaxwoo-20&linkId=ARLNFIOMC5XDJ7UT)
+- [The Mythical Man-Month by Fred Brooks](https://www.amazon.com/gp/product/0201835959/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201835959&linkCode=as2&tag=chamaxwoo-20&linkId=ARLNFIOMC5XDJ7UT)
 
 14:05 - Constrained Ways of Mapping
 
 - Languages
-- [Unified Modeling Language](http://en.wikipedia.org/wiki/Unified_Modeling_Language)
-- [Sapir-Whorf Hypothesis](http://en.wikipedia.org/wiki/Linguistic_relativity)
+- [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+- [Sapir-Whorf Hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativity)
 
 16:56 - Knowing How to Break Out of the Bubble
 
 - Reversing Processes
 
-18:28 - [Anchoring/Focalism](http://en.wikipedia.org/wiki/Focalism)
+18:28 - [Anchoring/Focalism](https://en.wikipedia.org/wiki/Focalism)
 
-- [Oblique Strategies](http://en.wikipedia.org/wiki/Oblique_Strategies)
-- [Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink](http://www.amazon.com/gp/product/1594484805/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594484805&linkCode=as2&tag=chamaxwoo-20&linkId=JXRQBUJXLLQCVDD7)
-- [The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and Dave Thomas](http://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161622X&linkCode=as2&tag=chamaxwoo-20&linkId=VKC3VT5DIR3CRJ2H)
+- [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
+- [Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink](https://www.amazon.com/gp/product/1594484805/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594484805&linkCode=as2&tag=chamaxwoo-20&linkId=JXRQBUJXLLQCVDD7)
+- [The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and Dave Thomas](https://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161622X&linkCode=as2&tag=chamaxwoo-20&linkId=VKC3VT5DIR3CRJ2H)
 
 19:57 - Naming Patterns: Cognitive Shortcuts
 
-- [Rubber Ducking](http://en.wikipedia.org/wiki/Rubber_ducking)
-- [Blindsight by Peter Watts](http://www.amazon.com/gp/product/0765319640/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765319640&linkCode=as2&tag=chamaxwoo-20&linkId=ISVW37IUBUOXMRGL)
+- [Rubber Ducking](https://en.wikipedia.org/wiki/Rubber_ducking)
+- [Blindsight by Peter Watts](https://www.amazon.com/gp/product/0765319640/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765319640&linkCode=as2&tag=chamaxwoo-20&linkId=ISVW37IUBUOXMRGL)
 
-24:32 - [Saccades](http://en.wikipedia.org/wiki/Saccade)
+24:32 - [Saccades](https://en.wikipedia.org/wiki/Saccade)
 
-- [Constructed Reality](http://en.wikipedia.org/wiki/Constructed_reality)
-- [Eidetic Memory](http://en.wikipedia.org/wiki/Idetic_memory)
-- [Saccadic Masking](http://en.wikipedia.org/wiki/Saccadic_masking)
+- [Constructed Reality](https://en.wikipedia.org/wiki/Constructed_reality)
+- [Eidetic Memory](https://en.wikipedia.org/wiki/Idetic_memory)
+- [Saccadic Masking](https://en.wikipedia.org/wiki/Saccadic_masking)
 
 30:56 - Successful Programming Languages
 
 - Communication
-- [CPUs](http://en.wikipedia.org/wiki/Central_processing_unit)
+- [CPUs](https://en.wikipedia.org/wiki/Central_processing_unit)
 - Cognitive Bias
 
-32:42 - [Heuristics](http://en.wikipedia.org/wiki/Heuristics)/Shortcuts
+32:42 - [Heuristics](https://en.wikipedia.org/wiki/Heuristics)/Shortcuts
 
 - [Kasparov vs. Deep Blue](https://www.youtube.com/watch?v=9ojIGBlg6NQ)
-- [Markus Roberts at Open Source Bridge](http://opensourcebridge.org/users/54)
-- [Monte Carlo method](http://en.wikipedia.org/wiki/Monte_Carlo_method)
-- [Think Like (a) Git](http://think-like-a-git.net/)
-- [Kerberos](<http://en.wikipedia.org/wiki/Kerberos_(protocol)>)
-- [Designing an Authentication System: A Dialogue in Four Scenes](http://web.mit.edu/kerberos/dialogue.html)
-- [Jim Weirich: Source Control Made Easy](http://pragprog.com/screencasts/v-jwsceasy/source-control-made-easy)
+- [Markus Roberts at Open Source Bridge](https://opensourcebridge.org/users/54)
+- [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+- [Think Like (a) Git](https://think-like-a-git.net/)
+- [Kerberos](<https://en.wikipedia.org/wiki/Kerberos_(protocol)>)
+- [Designing an Authentication System: A Dialogue in Four Scenes](https://web.mit.edu/kerberos/dialogue.html)
+- [Jim Weirich: Source Control Made Easy](https://pragprog.com/screencasts/v-jwsceasy/source-control-made-easy)
 
 39:14 - Importance of Bias / Battling Bias
 
 - Value of Diversity
-- [Hungry Academy](http://hungryacademy.com/)
+- [Hungry Academy](https://hungryacademy.com/)
 - Career Backgrounds
 - Bias of Solutions
 - Writing Solutions
-- [OOPSLA](http://2014.splashcon.org/track/oopsla2014)
-- [Professor Alex Repenning](http://www.cs.colorado.edu/~ralex/)
+- [OOPSLA](https://2014.splashcon.org/track/oopsla2014)
+- [Professor Alex Repenning](https://www.cs.colorado.edu/~ralex/)
 - Cognitive Biases
 
 46:06 - Anchoring
 
-- [Functional Fixedness](http://en.wikipedia.org/wiki/Functional_fixedness)
-- [Atomicity Consistency Isolation Durability (ACID)](http://en.wikipedia.org/wiki/ACID)
-- [Blackadder](http://en.wikipedia.org/wiki/Blackadder)
+- [Functional Fixedness](https://en.wikipedia.org/wiki/Functional_fixedness)
+- [Atomicity Consistency Isolation Durability (ACID)](https://en.wikipedia.org/wiki/ACID)
+- [Blackadder](https://en.wikipedia.org/wiki/Blackadder)
 
 53:02 - Bias Towards Objects
 
-- [Loss Aversion](http://en.wikipedia.org/wiki/Loss_aversion)
+- [Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion)
 
 55:26 - Introverts vs. Extroverts
 
-- [Suck/Rock Dichotomy](http://nealford.com/memeagora/2009/08/05/suck-rock-dichotomy.html) (coined by Neal Ford)
+- [Suck/Rock Dichotomy](https://nealford.com/memeagora/2009/08/05/suck-rock-dichotomy.html) (coined by Neal Ford)
 
 57:28 - Covering Variable
 
-- [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
+- [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
 - [@jbrains' Tweet Glenn Mentions](https://twitter.com/jbrains/status/474551737626279936)
-- [“The GOOS Book” by Steve Freeman and Nat Pryce](http://www.amazon.com/gp/product/0321503627/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321503627&linkCode=as2&tag=chamaxwoo-20&linkId=D5GJGN36RLP4AZDX)
+- [“The GOOS Book” by Steve Freeman and Nat Pryce](https://www.amazon.com/gp/product/0321503627/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321503627&linkCode=as2&tag=chamaxwoo-20&linkId=D5GJGN36RLP4AZDX)
 
 1:02:13 - [Swift](https://developer.apple.com/swift/)
 
@@ -127,23 +127,23 @@ tags:
 - Execution Mode
 - Avoiding Surprise
 - Right Brain vs. Left Brain
-- [Waterfall](http://en.wikipedia.org/wiki/Waterfall_model)
-- [Agile](http://en.wikipedia.org/wiki/Agile_software_development)
+- [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
+- [Agile](https://en.wikipedia.org/wiki/Agile_software_development)
 
-1:07:39 - [Systems Development Life Cycle (SDLC)](http://en.wikipedia.org/wiki/Systems_development_life-cycle)
+1:07:39 - [Systems Development Life Cycle (SDLC)](https://en.wikipedia.org/wiki/Systems_development_life-cycle)
 
-- [Scrum Sprint](<http://en.wikipedia.org/wiki/Scrum_(software_development)>)
+- [Scrum Sprint](<https://en.wikipedia.org/wiki/Scrum_(software_development)>)
 - Cost/Expenses
-- [Source Control Made Easy by Jim Weirich](http://pragprog.com/screencasts/v-jwsceasy/source-control-made-easy)
-- [xkcd: Protocol](http://xkcd.com/1323/)
-- [VIM Adventures](http://vim-adventures.com/)
-- [A Simple Model of Agile Software Processes – or –&nbsp;Extreme Programming Annealed](http://www.vanderburg.org/Writing/xpannealed.pdf)
+- [Source Control Made Easy by Jim Weirich](https://pragprog.com/screencasts/v-jwsceasy/source-control-made-easy)
+- [xkcd: Protocol](https://xkcd.com/1323/)
+- [VIM Adventures](https://vim-adventures.com/)
+- [A Simple Model of Agile Software Processes – or –&nbsp;Extreme Programming Annealed](https://www.vanderburg.org/Writing/xpannealed.pdf)
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

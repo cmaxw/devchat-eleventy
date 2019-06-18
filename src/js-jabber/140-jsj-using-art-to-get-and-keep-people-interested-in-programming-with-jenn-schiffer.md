@@ -12,29 +12,29 @@ tags:
   - podcast
 ---
 
-Check Out [JS Remote Conf](http://jsremoteconf.com/)!
+Check Out [JS Remote Conf](https://jsremoteconf.com/)!
 
 02:41 - Jenn Schiffer Introduction
 
 - [<u>Twitter</u>](https://twitter.com/jennschiffer)
 - <u><a href="https://github.com/jennschiffer" data-cke-saved-href="https://github.com/jennschiffer">GitHub</a></u>
-- [<u>Blog</u>](http://jennmoney.biz/)
-- <u><a href="http://bocoup.com/" data-cke-saved-href="http://bocoup.com/">Bocoup</a></u>
+- [<u>Blog</u>](https://jennmoney.biz/)
+- <u><a href="https://bocoup.com/" data-cke-saved-href="https://bocoup.com/">Bocoup</a></u>
   - [<u>@bocoup</u>](https://twitter.com/bocoup)
-- [<u>Bocoup Education</u>](http://bocoup.com/education/)
+- [<u>Bocoup Education</u>](https://bocoup.com/education/)
   - [@BocoupEd](https://twitter.com/BocoupEd)
-- [<u>Jenn Schiffer Said This</u>](http://saidby.jennschiffer.com/)
+- [<u>Jenn Schiffer Said This</u>](https://saidby.jennschiffer.com/)
 
-03:08 - [<u>Bocoup</u>](http://bocoup.com/)
+03:08 - [<u>Bocoup</u>](https://bocoup.com/)
 
-04:54 - [<u>make 8-bit art!</u>](http://make8bitart.com/)
+04:54 - [<u>make 8-bit art!</u>](https://make8bitart.com/)
 
-- [<u>Pixel Art</u>](http://en.wikipedia.org/wiki/Pixel_art)
+- [<u>Pixel Art</u>](https://en.wikipedia.org/wiki/Pixel_art)
   - [<u>Jenn's Ello Page</u>](https://ello.co/jenn)
   - [<u>Jenn's Medium Blog</u>](https://medium.com/@jennschiffer)
-  - [<u>Jenn's Ghost Blog</u>](http://negativitysandwiches.com/)
+  - [<u>Jenn's Ghost Blog</u>](https://negativitysandwiches.com/)
 - <u><a href="https://www.youtube.com/watch?v=pj4U_W0OFoE" data-cke-saved-href="https://www.youtube.com/watch?v=pj4U_W0OFoE">Jenn Schiffer: What's the Harm In Sorting: Sanitizing Inputs For More Optimized JS [JSConf2014]</a></u>
-  - [jortSort](http://jort.technology/)
+  - [jortSort](https://jort.technology/)
   - [<u>[GitHub] jortSort</u>](https://github.com/jennschiffer/jortsort)
 
 12:28 - Bringing People Into Coding via Art
@@ -42,35 +42,35 @@ Check Out [JS Remote Conf](http://jsremoteconf.com/)!
 15:28 - Choosing JavaScript as a Platform for Making Art with Code
 
 - Portability
-  - [<u>Alice</u>](http://www.alice.org/index.php)
-- [<u>Grunt</u>](http://gruntjs.com/) vs [<u>Gulp</u>](http://gulpjs.com/)
-  - [<u>Benevolent Dictatorship</u>](http://en.wikipedia.org/wiki/Benevolent_dictatorship)
+  - [<u>Alice</u>](https://www.alice.org/index.php)
+- [<u>Grunt</u>](https://gruntjs.com/) vs [<u>Gulp</u>](https://gulpjs.com/)
+  - [<u>Benevolent Dictatorship</u>](https://en.wikipedia.org/wiki/Benevolent_dictatorship)
 
 22:41 - Other Art-Related Pieces of Technology to Keep People Interested in Programming Through Art
 
 - [<u>The Processing Community (Processing Visualization Language)</u>](https://processing.org/)
-  - [<u>Processing.js</u>](http://processingjs.org/)
-  - [<u>The Hour of Code</u>](http://hourofcode.com/)
-- [<u>Twitterbots</u>](http://en.wikipedia.org/wiki/Twitterbot)
+  - [<u>Processing.js</u>](https://processingjs.org/)
+  - [<u>The Hour of Code</u>](https://hourofcode.com/)
+- [<u>Twitterbots</u>](https://en.wikipedia.org/wiki/Twitterbot)
 
 26:11 - Getting Kids Into Programming
 
 - Programming
 - Hardware
 - Storytelling as an Art
-  - [<u>Alice</u>](http://www.alice.org/index.php)
+  - [<u>Alice</u>](https://www.alice.org/index.php)
 
-29:20 - [<u>var t.;</u>](http://vart.institute/)
+29:20 - [<u>var t.;</u>](https://vart.institute/)
 
-- [<u>var t; //mondrian</u>](http://vart.institute/mondrian/index.html)
-- <u><a href="http://vart.institute/magritte/index.html" data-cke-saved-href="http://vart.institute/magritte/index.html">var t; //magritte</a></u>
-- [<u>vat t; //matisse</u>](http://vart.institute/matisse/index.html)
-- <u><a href="http://nostarch.com/hemingwayjs" data-cke-saved-href="http://nostarch.com/hemingwayjs">If Hemingway Wrote JavaScript by Angus Croll</a></u>
+- [<u>var t; //mondrian</u>](https://vart.institute/mondrian/index.html)
+- <u><a href="https://vart.institute/magritte/index.html" data-cke-saved-href="https://vart.institute/magritte/index.html">var t; //magritte</a></u>
+- [<u>vat t; //matisse</u>](https://vart.institute/matisse/index.html)
+- <u><a href="https://nostarch.com/hemingwayjs" data-cke-saved-href="https://nostarch.com/hemingwayjs">If Hemingway Wrote JavaScript by Angus Croll</a></u>
   - [<u>Angus Croll</u>](https://twitter.com/angustweets)
 
 33:38 - How Can I Learn to Code?
 
-- <u><a href="http://en.wikipedia.org/wiki/Reinventing_the_wheel" data-cke-saved-href="http://en.wikipedia.org/wiki/Reinventing_the_wheel">"Reinventing the Wheel"</a></u>
+- <u><a href="https://en.wikipedia.org/wiki/Reinventing_the_wheel" data-cke-saved-href="https://en.wikipedia.org/wiki/Reinventing_the_wheel">"Reinventing the Wheel"</a></u>
 - Communication
 
 38:00 - Writing Satire
@@ -79,17 +79,17 @@ Check Out [JS Remote Conf](http://jsremoteconf.com/)!
 
 40:18 - Jenn’s Speaking Schedule
 
-- [<u>JSFest</u>](http://jsfest.com/)
+- [<u>JSFest</u>](https://jsfest.com/)
   - [<u>Jenn Schiffer: State of the Malware | DHTMLConf 2000 | JSFest Oakland 2014</u>](https://www.youtube.com/watch?v=AleLPZzkQWc)
-- <u><a href="http://jqueryuk.com/" data-cke-saved-href="http://jqueryuk.com/">jQuery Conf: Oxford</a></u>
-- [<u>LoopConf</u>](http://loopconf.io/)
-- [<u>JSConf: Columbia</u>](http://jsconf.co/)
+- <u><a href="https://jqueryuk.com/" data-cke-saved-href="https://jqueryuk.com/">jQuery Conf: Oxford</a></u>
+- [<u>LoopConf</u>](https://loopconf.io/)
+- [<u>JSConf: Columbia</u>](https://jsconf.co/)
 - Artist in Residency at the Ace Hotel in New York <u><a href="https://www.acehotel.com/calendar/newyork" data-cke-saved-href="https://www.acehotel.com/calendar/newyork">(Schedule)</a></u>
 
 ### See Also
 
 - [<u>@whichlight</u>](https://twitter.com/whichlight)
-- [<u>Tiny Subversions | Darius Kazemi</u>](http://tinysubversions.com/)
+- [<u>Tiny Subversions | Darius Kazemi</u>](https://tinysubversions.com/)
 - <u><a href="https://medium.com/cool-code-pal" data-cke-saved-href="https://medium.com/cool-code-pal">CSS Perverts - Medium</a></u>
 
 ### Transcript

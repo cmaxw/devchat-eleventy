@@ -61,11 +61,11 @@ _The guest talks about the BIG project he is working on now! Listen here!_
 
 11:27 – Guest: ...moving bytes around and moving integers and things like that. Elixir is much nicer!
 
-11:40 – Panel: Can you talk about [Gen TCP](http://erlang.org/doc/man/gen_tcp.html), please?
+11:40 – Panel: Can you talk about [Gen TCP](https://erlang.org/doc/man/gen_tcp.html), please?
 
 11:55 – Guest: A goal of my project tis to dig into the underlining Erlang properties. I think it’s a shame that people don’t explore this.
 
-The guest talks about what [Gen TCP](http://erlang.org/doc/man/gen_tcp.html) is!
+The guest talks about what [Gen TCP](https://erlang.org/doc/man/gen_tcp.html) is!
 
 13:38 – Panel: I like using Gen TCP.
 
@@ -148,19 +148,19 @@ END – [Ad: Lootcrate.com](https://www.lootcrate.com)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [React](https://reactjs.org)
 - [Bitcoin](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388)
-- [Gen_TCP](http://erlang.org/doc/man/gen_tcp.html)
+- [Gen_TCP](https://erlang.org/doc/man/gen_tcp.html)
 - [Stream Data](https://github.com/whatyouhide/stream_data)
-- [Bitcoin](http://www.petecorey.com/blog/tags/#bitcoin)
-- [YECC](http://erlang.org/doc/man/yecc.html)
-- [LEEX](http://erlang.org/doc/man/leex.html)
-- [Music](http://www.petecorey.com/blog/tags/#music)
+- [Bitcoin](https://www.petecorey.com/blog/tags/#bitcoin)
+- [YECC](https://erlang.org/doc/man/yecc.html)
+- [LEEX](https://erlang.org/doc/man/leex.html)
+- [Music](https://www.petecorey.com/blog/tags/#music)
 - [Rustler](https://github.com/hansihe/rustler)
 - [ElixirWeekly](https://elixirweekly.net)
 - [Jsonnet](https://jsonnet.org)
 - [Ksonnet](https://ksonnet.io)
-- [Pete Corey’s Blog](http://www.petecorey.com/blog/)
+- [Pete Corey’s Blog](https://www.petecorey.com/blog/)
 - [Pete Corey’s Twitter](https://twitter.com/petecorey)
-- [Secure Meteor](http://www.petecorey.com/blog/2018/01/15/secure-meteor/)
+- [Secure Meteor](https://www.petecorey.com/blog/2018/01/15/secure-meteor/)
 - [Grafonnet-lib](https://github.com/grafana/grafonnet-lib)
 - [Prometheus-operator](https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus/jsonnet/kube-prometheus)
 - [The Sparrow](https://www.amazon.com/Sparrow-Mary-Doria-Russell/dp/1501247069)

@@ -35,7 +35,7 @@ tags:
 - and much, much more!
   **Links:&nbsp;**
 - [https://twitter.com/mdibernardo](https://twitter.com/mdibernardo)
-- http://mikedebo.ca
+- https://mikedebo.ca
 - [https://github.com/MichaelDiBernardo](https://github.com/MichaelDiBernardo)
 - [https://www.waveapps.com/payments/](https://www.waveapps.com/payments/)
 - @mdbernardo
@@ -45,6 +45,6 @@ tags:
   Charles
 - [CES](https://www.ces.tech)
 - [E Myth Revisited](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
-- [zappier.com](http://zappier.com)
+- [zappier.com](https://zappier.com)
 
 ### Transcript

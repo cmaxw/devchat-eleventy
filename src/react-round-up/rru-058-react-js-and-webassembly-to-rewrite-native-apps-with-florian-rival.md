@@ -16,7 +16,7 @@ tags:
 
 - [Netlify](https://www.netlify.com/)
 - [Sentry](https://sentry.io/) use code “devchat” for 2 months free
-- [Triplebyte](http://triplebyte.com/react)
+- [Triplebyte](https://triplebyte.com/react)
 
 ### **Panel**
 

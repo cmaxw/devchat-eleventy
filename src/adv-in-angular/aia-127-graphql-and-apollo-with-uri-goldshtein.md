@@ -30,10 +30,10 @@ The easiest&nbsp;way to learn about GraphQL is to look at it. It's self-explanat
 
 ## **Picks:**
 
-[Scaphold.io](https://scaphold.io/) (Lukas and Uri)[LearnGraphQL.com](https://learngraphql.com/) (Lukas) GraphQL Implementation of Star Wars API (Lukas)[Carrie Fisher](https://en.wikipedia.org/wiki/Carrie_Fisher) (Joe)[ngVikings 2017&nbsp;Workshop](https://ngvikings.org/schedule/day1?sessionId=87)&nbsp;(Joe)[Angular 2 Fundamentals Course](https://egghead.io/courses/build-a-graphql-server) (Joe and Alyssa)[Battlestar Galactica](https://en.wikipedia.org/wiki/Battlestar_Galactica)&nbsp;(Charles)[GraphQL.org](http://graphql.org/) (Uri)[Apollodata.com](http://www.apollodata.com/) (Uri) Narwhal&nbsp;IO (Uri)
+[Scaphold.io](https://scaphold.io/) (Lukas and Uri)[LearnGraphQL.com](https://learngraphql.com/) (Lukas) GraphQL Implementation of Star Wars API (Lukas)[Carrie Fisher](https://en.wikipedia.org/wiki/Carrie_Fisher) (Joe)[ngVikings 2017&nbsp;Workshop](https://ngvikings.org/schedule/day1?sessionId=87)&nbsp;(Joe)[Angular 2 Fundamentals Course](https://egghead.io/courses/build-a-graphql-server) (Joe and Alyssa)[Battlestar Galactica](https://en.wikipedia.org/wiki/Battlestar_Galactica)&nbsp;(Charles)[GraphQL.org](https://graphql.org/) (Uri)[Apollodata.com](https://www.apollodata.com/) (Uri) Narwhal&nbsp;IO (Uri)
 
 ## **Episode Links:**
 
-[Apollodata.com](http://www.apollodata.com/)[Apollo and Angular Guide](http://dev.apollodata.com/angular2/)[GraphiQL in-browser](https://github.com/graphql/graphiql)[Apollo Client Developer Tools](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm?hl=en-US)[GraphQL Subscriptions in Apollo Client](https://dev-blog.apollodata.com/graphql-subscriptions-in-apollo-client-9a2457f015fb#.8mti8z9yh)[SWAPI GraphQL Wrapper](https://github.com/graphql/swapi-graphql)[GraphQL.org](http://graphql.org/)
+[Apollodata.com](https://www.apollodata.com/)[Apollo and Angular Guide](https://dev.apollodata.com/angular2/)[GraphiQL in-browser](https://github.com/graphql/graphiql)[Apollo Client Developer Tools](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm?hl=en-US)[GraphQL Subscriptions in Apollo Client](https://dev-blog.apollodata.com/graphql-subscriptions-in-apollo-client-9a2457f015fb#.8mti8z9yh)[SWAPI GraphQL Wrapper](https://github.com/graphql/swapi-graphql)[GraphQL.org](https://graphql.org/)
 
 ### Transcript

@@ -20,7 +20,7 @@ This week on My Ruby Story, Chuck talks with [Mark Bates](https://github.com/mar
 
 **In particular, we dive pretty deep on:**
 
-0:00 – [Get A Coder Job!](http://getacoderjob.com/)
+0:00 – [Get A Coder Job!](https://getacoderjob.com/)
 
 0:59 – Chuck: Hi! I saw we were on Episode 198! We talked about Ruby and different communities.
 
@@ -141,17 +141,17 @@ END – [CacheFly](https://www.cachefly.com)
 - [Rails](https://github.com/rails/rails)
 - [Rust](https://www.rust-lang.org/en-US/)
 - [Python](https://www.python.org)
-- [PHP](http://www.php.net)
+- [PHP](https://www.php.net)
 - [Kubernetes](https://kubernetes.io)
 - [React Native](https://facebook.github.io/react-native/)
-- [Ruby Motion](http://www.rubymotion.com)
+- [Ruby Motion](https://www.rubymotion.com)
 - [Mark’s GitHub](https://github.com/markbates)
 - [Mark’s Twitter](https://twitter.com/markbates?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [PaperCall.io](https://www.papercall.io)
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 - Fresh Books
 

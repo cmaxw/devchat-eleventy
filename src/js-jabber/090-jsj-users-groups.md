@@ -14,16 +14,16 @@ tags:
 
 ### Panel
 
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:56 - AJ’s Experience Starting a Users Group
 
-- [VAGUE](http://www.uvm.org/vague/wiki/index.php/Main_Page)
-- [Utah JS](http://utahjs.com/)
+- [VAGUE](https://www.uvm.org/vague/wiki/index.php/Main_Page)
+- [Utah JS](https://utahjs.com/)
 - [Utah JS Forum + Mailing List](https://groups.google.com/forum/#!forum/utahjs)
   06:34 - Mailing Lists 07:23 - IRC 08:07 - Setting up Users Groups
 - Consistency
@@ -37,14 +37,14 @@ tags:
 
 ### Picks
 
-- Your Local [Makerspace](http://makerspace.com/makerspace-directory) (Jamison)
-- [Venmo](http://venmo.com/) (AJ)
+- Your Local [Makerspace](https://makerspace.com/makerspace-directory) (Jamison)
+- [Venmo](https://venmo.com/) (AJ)
 - [Simple](https://bank.simple.com/friends/125f5f44-775d-fd5f-0dcd-9170c7f592cf) (AJ)
 - [Square: Cash](https://square.com/cash) (AJ)
-- [AJ O'Neal: DIY Presentation Recorder for User Groups & Such](http://blog.coolaj86.com/articles/diy-presentation-recorder.html) (AJ)
-- [Date ideas for los lonely hearts of Provo](http://dateprovo.com/) (AJ)
-- [Discourse](http://www.discourse.org/) (Chuck)
-- [JavaScript Jabber Jabber](http://javascriptjabber.com/jabber-forum-signup/) (Chuck)
+- [AJ O'Neal: DIY Presentation Recorder for User Groups & Such](https://blog.coolaj86.com/articles/diy-presentation-recorder.html) (AJ)
+- [Date ideas for los lonely hearts of Provo](https://dateprovo.com/) (AJ)
+- [Discourse](https://www.discourse.org/) (Chuck)
+- [JavaScript Jabber Jabber](https://javascriptjabber.com/jabber-forum-signup/) (Chuck)
 
 ### Next Week
 

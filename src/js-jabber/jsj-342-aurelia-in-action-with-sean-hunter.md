@@ -34,7 +34,7 @@ In this episode, the panel talks with [Sean Hunter](https://github.com/freshcutd
 
 3:22 – Panel: Tell us the history of [Aurelia](https://aurelia.io), please?
 
-3:31 – Panel: Is it like [jQuery](http://jquery.com), [React,](https://reactjs.org) [Vue](https://vuejs.org) or what?
+3:31 – Panel: Is it like [jQuery](https://jquery.com), [React,](https://reactjs.org) [Vue](https://vuejs.org) or what?
 
 3:44 – Guest: Elevator pitch – Aurelia is a single-page app framework! It’s most similar to Vue out of those frameworks; also, similarities to [Ember.js.](https://www.emberjs.com)
 
@@ -148,7 +148,7 @@ What are your thoughts of having multiple SPAs?
 
 43:49 – Panel: I don’t think frameworks are all bad but I want to say that it’s smart to not make it too complex upfront. Learn and grow.
 
-44:28 – Guest: I think a good example of that is [jQuery,](http://jquery.com) right?
+44:28 – Guest: I think a good example of that is [jQuery,](https://jquery.com) right?
 
 45:10 – _Panelist talks about C++, jQuery, among other things._
 
@@ -184,7 +184,7 @@ END – [Advertisement: CacheFly!](https://www.cachefly.com)
 - Ember.js
 - [Vue](https://vuejs.org)
 - [GO](https://golang.org/project/)
-- [jQuery](http://jquery.com)
+- [jQuery](https://jquery.com)
 - [Node.js](https://nodejs.org/en/)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Cypress](https://www.cypress.io)
@@ -212,7 +212,7 @@ AJ
 
 - [Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)
 - [GO Language](https://golang.org)
-- [Harry’s and Flamingo](http://fortune.com/2018/10/16/harrys-labs-flamingo-hair-care-shaving-grooming/)
+- [Harry’s and Flamingo](https://fortune.com/2018/10/16/harrys-labs-flamingo-hair-care-shaving-grooming/)
 
 Jesse Sanders
 

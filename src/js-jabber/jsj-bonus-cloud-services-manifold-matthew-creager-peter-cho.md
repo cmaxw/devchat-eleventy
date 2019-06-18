@@ -28,13 +28,13 @@ tags:
 - Tourist - Credentials management
 - How do I get this setup? Command Line or register online
 - And much more!
-  **Links:** [Manifold](https://www.manifold.co)[https://github.com/mattcreager](https://github.com/mattcreager)@manifoldco @etcpeter @matt_creager[blog.manifold.com](http://blog.manifold.com) **Picks:** Amiee
+  **Links:** [Manifold](https://www.manifold.co)[https://github.com/mattcreager](https://github.com/mattcreager)@manifoldco @etcpeter @matt_creager[blog.manifold.com](https://blog.manifold.com) **Picks:** Amiee
 - Ryan McDermott
   Charles
 - [GitLab&nbsp;](https://about.gitlab.com)
 - [AdminLTE](https://adminlte.io/themes/AdminLTE/index2.html)
   Joe
-- [What You Can’t Say](http://www.paulgraham.com/say.html)
+- [What You Can’t Say](https://www.paulgraham.com/say.html)
   Matt
 - [Star Trek](https://www.cbs.com/all-access/?cbscidmt=discovery&ref= **iv_p_1_g_27257289007_w_kwd-14918300_h_9028550_ii** d_c_v **n_g_c_224744054787_k_star%20trek_m_e_l** t **e** r_1t1_vi\_\_&utm_source=paidsearch&ftag=AAM-00-10adh4i&vndid=google$null$null\$star%20trek&gclid=Cj0KCQjw1JbPBRCrARIsAOKj2PltoFzqfHIGdZinVii7RQlnk84EGtHppjletjaUIsLsFBSsH8_0N_saAljsEALw_wcB)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)

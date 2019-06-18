@@ -14,42 +14,42 @@ tags:
 
 ### Panel
 
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Tim Caswell ([twitter](http://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](http://howtonode.org/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Intro to CoffeeScript](http://introtocoffeescript.eventbrite.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](https://howtonode.org/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Intro to CoffeeScript](https://introtocoffeescript.eventbrite.com/))
 
 ### Discussion
 
 01:15 - [node-webkit](https://github.com/rogerwang/node-webkit)
 
-- Similar to [PhoneGap](http://phonegap.com/)
+- Similar to [PhoneGap](https://phonegap.com/)
 -
 
 Chrome native apps
 
 - Chromium
   05:31 - Event loops and the browsers 06:53 - Example apps
-- [Light Table](http://www.lighttable.com/)
-- [app.js](http://appjs.org/)
-  07:42 - [node-webkit](https://github.com/rogerwang/node-webkit) vs [app.js](http://appjs.org/) 10:00 - Chrome
-- [Chrome Apps: JavaScript Desktop Development](http://dailyjs.com/2012/07/05/evolution-chrome-apps)
-  17:44 - Security implications 25:11 - Testing node-webkit applications 27:19 - Getting a web app into a native app 31:33 - [Creating Your First AppJS App with Custom Chrome](http://www.studiochris.us/2012/creating-your-first-appjs-app-with-custom-chrome/)
+- [Light Table](https://www.lighttable.com/)
+- [app.js](https://appjs.org/)
+  07:42 - [node-webkit](https://github.com/rogerwang/node-webkit) vs [app.js](https://appjs.org/) 10:00 - Chrome
+- [Chrome Apps: JavaScript Desktop Development](https://dailyjs.com/2012/07/05/evolution-chrome-apps)
+  17:44 - Security implications 25:11 - Testing node-webkit applications 27:19 - Getting a web app into a native app 31:33 - [Creating Your First AppJS App with Custom Chrome](https://www.studiochris.us/2012/creating-your-first-appjs-app-with-custom-chrome/)
 - [Chromeless Browser](https://mozillalabs.com/en-US/chromeless/)
 - [Chromeless replacement](https://wiki.mozilla.org/Apps)
 
 ### Picks
 
-- [How mismanagement, incompetence and pride killed THQ's Kaos Studios](http://www.polygon.com/2012/11/1/3560318/homefront-kaos-studios-thq) (Jamison)
+- [How mismanagement, incompetence and pride killed THQ's Kaos Studios](https://www.polygon.com/2012/11/1/3560318/homefront-kaos-studios-thq) (Jamison)
 - [The Insufficiency of Good Design by Sarah Mei](https://speakerdeck.com/sarahmei/the-insufficiency-of-good-design) (Jamison)
-- [app.js](http://appjs.org/) (Tim)
+- [app.js](https://appjs.org/) (Tim)
 - [node-webkit](https://github.com/rogerwang/node-webkit) (Tim)
-- [Macaroni Grill’s Butternut Asiago Tortellaci](http://www.macaronigrill.com/fall-menu) (AJ)
-- [JCPenney](http://www.jcpenney.com/dotcom/index.jsp) (AJ)
+- [Macaroni Grill’s Butternut Asiago Tortellaci](https://www.macaronigrill.com/fall-menu) (AJ)
+- [JCPenney](https://www.jcpenney.com/dotcom/index.jsp) (AJ)
 - Mac OS Stickies (Chuck)
-- [Fieldrunners](http://fieldrunnershtml5.appspot.com/) (Chuck)
+- [Fieldrunners](https://fieldrunnershtml5.appspot.com/) (Chuck)
 
-### [Node Knockout](http://nodeknockout.com/)
+### [Node Knockout](https://nodeknockout.com/)
 
 ### Transcript
 

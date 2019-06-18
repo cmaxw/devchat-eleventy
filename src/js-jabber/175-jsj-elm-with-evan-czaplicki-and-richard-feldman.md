@@ -24,7 +24,7 @@ tags:
 - [GitHub](https://github.com/rtfeldman)
 - [NoRedInk](https://www.noredink.com/)
 
-02:38 - [Elm](http://elm-lang.org/)
+02:38 - [Elm](https://elm-lang.org/)
 
 - [@elmlang](https://twitter.com/elmlang)
 
@@ -35,9 +35,9 @@ tags:
 16:11 - Constraints
 
 - Faruk Ateş
-  - [Modernizr](http://modernizr.com/)
+  - [Modernizr](https://modernizr.com/)
   - <u><a style="text-decoration: none;" href="https://presentate.com/KuraFire/talks/beauty-constraints">The Beauty of Constraints</a></u>
-- Types / [Typescript](http://www.typescriptlang.org/)
+- Types / [Typescript](https://www.typescriptlang.org/)
 
 24:24 - Compilation
 
@@ -47,12 +47,12 @@ tags:
 
 36:34 - Shared Concepts & Guarantees at the Language Level
 
-43:00 - Elm vs [React](http://facebook.github.io/react/)
+43:00 - Elm vs [React](https://facebook.github.io/react/)
 
 47:24 - Integration
 
-- [Ports](http://elm-lang.org/guide/interop)
-- [lunr.js](http://lunrjs.com/)
+- [Ports](https://elm-lang.org/guide/interop)
+- [lunr.js](https://lunrjs.com/)
 
 52:23 - Upcoming Features
 
@@ -68,16 +68,16 @@ tags:
 58:37 - Getting Started with Elm
 
 - [The Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial)
-- [Elm Examples](http://elm-lang.org/examples)
+- [Elm Examples](https://elm-lang.org/examples)
 
 59:41 - Canonical Uses?
 
 01:01:26 - The Elm Community & Contributions
 
 - [The Elm Discuss Mailing List](https://groups.google.com/d/forum/elm-discuss)
-- [Elm user group SF](http://www.meetup.com/Elm-user-group-SF/)
-- [Stack Overflow](http://stackoverflow.com/) ?
-- [The Sublime Text Plugin](http://www.sublimetext.com/2)
+- [Elm user group SF](https://www.meetup.com/Elm-user-group-SF/)
+- [Stack Overflow](https://stackoverflow.com/) ?
+- [The Sublime Text Plugin](https://www.sublimetext.com/2)
 - [WebStorm](https://www.jetbrains.com/webstorm/) Support for Elm?
   - [Coda](https://panic.com/coda/)
 - [grunt-elm](https://github.com/rtfeldman/grunt-elm)
@@ -86,10 +86,10 @@ tags:
 Extras & Resources
 
 - [Evan Czaplicki: Let's be mainstream! User focused design in Elm @ Curry On 2015](https://www.youtube.com/watch?v=oYk8CKH7OhE)
-- [Evan Czaplicki: Blazing Fast HTML: Virtual DOM in Elm](http://elm-lang.org/blog/blazing-fast-html)
+- [Evan Czaplicki: Blazing Fast HTML: Virtual DOM in Elm](https://elm-lang.org/blog/blazing-fast-html)
   Picks
 
-[The Pragmatic Studio: What is Elm? Q&A](https://pragmaticstudio.com/blog/2015/7/23/what-is-elm-qa) (Aimee)[Elm](http://elm-lang.org/) (Joe)[Student Bodies](https://boardgamegeek.com/boardgame/132799/student-bodies) (Joe)[Mike Clark: Getting Started With Elm](https://pragmaticstudio.com/blog/2014/12/19/getting-started-with-elm) (Joe)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[Stripe](https://stripe.com/) (Chuck)[Alcatraz versus the Evil Librarians (Alcatraz, No. 1) by Brandon Sanderson](http://www.amazon.com/gp/product/0439925525/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0439925525&linkCode=as2&tag=chamaxwoo-20&linkId=2G6NQWTABFETU2WA) (Chuck)[Understanding Comics: The Invisible Art by Scott McCloud](http://www.amazon.com/gp/product/006097625X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006097625X&linkCode=as2&tag=chamaxwoo-20&linkId=63N7NFVLBPK4CZNM) (Evan)[The Glass Bead Game: (Magister Ludi) A Novel by Hermann Hesse](http://www.amazon.com/gp/product/0312278497/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0312278497&linkCode=as2&tag=chamaxwoo-20&linkId=KAPEAJJNBNQ24UB2) (Evan)[The Design of Everyday Things: Revised and Expanded Edition by Don Norman](http://www.amazon.com/gp/product/0465050654/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465050654&linkCode=as2&tag=chamaxwoo-20&linkId=UT36LZMG5YNGT4OP) (Richard)[Rich Hickey: Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) (Richard)[NoRedInk Tech Blog](http://noredinktech.tumblr.com/) (Richard)
+[The Pragmatic Studio: What is Elm? Q&A](https://pragmaticstudio.com/blog/2015/7/23/what-is-elm-qa) (Aimee)[Elm](https://elm-lang.org/) (Joe)[Student Bodies](https://boardgamegeek.com/boardgame/132799/student-bodies) (Joe)[Mike Clark: Getting Started With Elm](https://pragmaticstudio.com/blog/2014/12/19/getting-started-with-elm) (Joe)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[Stripe](https://stripe.com/) (Chuck)[Alcatraz versus the Evil Librarians (Alcatraz, No. 1) by Brandon Sanderson](https://www.amazon.com/gp/product/0439925525/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0439925525&linkCode=as2&tag=chamaxwoo-20&linkId=2G6NQWTABFETU2WA) (Chuck)[Understanding Comics: The Invisible Art by Scott McCloud](https://www.amazon.com/gp/product/006097625X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006097625X&linkCode=as2&tag=chamaxwoo-20&linkId=63N7NFVLBPK4CZNM) (Evan)[The Glass Bead Game: (Magister Ludi) A Novel by Hermann Hesse](https://www.amazon.com/gp/product/0312278497/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0312278497&linkCode=as2&tag=chamaxwoo-20&linkId=KAPEAJJNBNQ24UB2) (Evan)[The Design of Everyday Things: Revised and Expanded Edition by Don Norman](https://www.amazon.com/gp/product/0465050654/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465050654&linkCode=as2&tag=chamaxwoo-20&linkId=UT36LZMG5YNGT4OP) (Richard)[Rich Hickey: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (Richard)[NoRedInk Tech Blog](https://noredinktech.tumblr.com/) (Richard)
 
 ### Transcript
 

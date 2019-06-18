@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [.TECH](https://get.tech/)– [tech/MRS](https://get.tech/?&coupon=MRS.TECH&utm_source=Influencer&utm_medium=Podcast&utm_campaign=MyRubyStory) and use the coupon code “ **TECH** ” and get a 1 year **.TECH Domain** at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)
 
@@ -27,11 +27,11 @@ Igor Morozov shares what the ruby community looks like in Moscow, Russia and wha
 ### **Links**
 
 - [RR 407: Functional Programming in Ruby using Dry Gems with Igor Morozov](https://devchat.tv/ruby-rogues/rr-407-functional-programming-in-ruby-using-dry-gems-with-igor-morozov/)
-- [www.morozov.is](http://www.morozov.is/)
+- [www.morozov.is](https://www.morozov.is/)
 
 ### **Picks**
  **Igor Morozov:**
-- [Triarius military trousers by SRVV](http://srvv.store/catalog/1943/75385/)
+- [Triarius military trousers by SRVV](https://srvv.store/catalog/1943/75385/)
 - [https://dry-rb.org/](https://dry-rb.org/)
 - [https://cstack.github.io/db\_tutorial/](https://cstack.github.io/db_tutorial/)
 - [https://github.com/ruby/ruby/commit/9738f96fcfe50b2a605e350bdd40bd7a85665f54](https://github.com/ruby/ruby/commit/9738f96fcfe50b2a605e350bdd40bd7a85665f54)

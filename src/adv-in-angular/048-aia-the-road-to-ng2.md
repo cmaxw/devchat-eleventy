@@ -38,8 +38,8 @@ tags:
 
 28:58 - If you’re starting an app now…what do you do?
 
-- [Adventures in Angular Episode #020: Structuring Code in an AngularJS App with Dan Wahlin](http://devchat.tv/adventures-in-angular/020-aia-structuring-code-in-an-angularjs-app-with-dan-wahlin)
-- [Adventures in Angular Episode #039: ES6 with Scott Moss](http://devchat.tv/adventures-in-angular/039-aia-es6-with-scott-moss)
+- [Adventures in Angular Episode #020: Structuring Code in an AngularJS App with Dan Wahlin](https://devchat.tv/adventures-in-angular/020-aia-structuring-code-in-an-angularjs-app-with-dan-wahlin)
+- [Adventures in Angular Episode #039: ES6 with Scott Moss](https://devchat.tv/adventures-in-angular/039-aia-es6-with-scott-moss)
 - Explaining Value
 
 39:36 - Applying Concepts
@@ -51,7 +51,7 @@ tags:
   - [ng2play](https://github.com/johnpapa/ng2play)
     Picks
 
-[The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim](http://www.amazon.com/gp/product/B00AZRBLHO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AZRBLHO&linkCode=as2&tag=chamaxwoo-20&linkId=DLTMVH3JGZOLWFXU) (Lukas)[Arrow](http://www.imdb.com/title/tt2193021/) (John)[Ex Machina](http://www.imdb.com/title/tt0470752/) (Ward) Listen to other people’s views (Chuck)
+[The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim](https://www.amazon.com/gp/product/B00AZRBLHO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AZRBLHO&linkCode=as2&tag=chamaxwoo-20&linkId=DLTMVH3JGZOLWFXU) (Lukas)[Arrow](https://www.imdb.com/title/tt2193021/) (John)[Ex Machina](https://www.imdb.com/title/tt0470752/) (Ward) Listen to other people’s views (Chuck)
 
 ### Transcript
 

@@ -15,22 +15,22 @@ tags:
 01:21 - Mystery Guest: Peter Cooper
 
 - [Ruby Reloaded](https://cooperpress.com/rubyreloaded)
-- [Ruby Weekly](http://rubyweekly.com/) (Newsletter)
-- [JavaScript Weekly](http://javascriptweekly.com/) (Newsletter)
-- [HTML5 Weekly](http://html5weekly.com/) (Newsletter)
-- [042 RR Producing Content with Peter Cooper](http://rubyrogues.com/042-rr-producing-content-with-peter-cooper/)
+- [Ruby Weekly](https://rubyweekly.com/) (Newsletter)
+- [JavaScript Weekly](https://javascriptweekly.com/) (Newsletter)
+- [HTML5 Weekly](https://html5weekly.com/) (Newsletter)
+- [042 RR Producing Content with Peter Cooper](https://rubyrogues.com/042-rr-producing-content-with-peter-cooper/)
 
 03:46 - How Ruby Rogues got started
 
-- [TWiT.TV](http://twit.tv/)
-- [The Skeptics’ Guide to the Universe](http://www.theskepticsguide.org/)
+- [TWiT.TV](https://twit.tv/)
+- [The Skeptics’ Guide to the Universe](https://www.theskepticsguide.org/)
 
 06:45 - Ruby Rogues: In the Beginning
 
 - Audio Quality
 - Editing Shows
 - VA Problems
-- [ROGUESPOTTING](http://roguespotting.herokuapp.com/)
+- [ROGUESPOTTING](https://roguespotting.herokuapp.com/)
 
 09:47 - Picks
 
@@ -42,7 +42,7 @@ tags:
 
 - Dr. Who
 - Cereal
-- [DOGUE](http://i.imgur.com/AMPilPD.jpg)
+- [DOGUE](https://i.imgur.com/AMPilPD.jpg)
 - [Ruby Rogues Parley](https://parley.rubyrogues.com/)
 - Ryan Davis [@the_zenspider](https://twitter.com/the_zenspider)
 - [minitest](https://github.com/seattlerb/minitest) & minitest pride
@@ -52,20 +52,20 @@ tags:
 
 27:21 - Rails with Aaron Patterson
 
-- [081 RR Rails 4 with Aaron Patterson](http://rubyrogues.com/081-rr-rails-4-with-aaron-patterson/)
+- [081 RR Rails 4 with Aaron Patterson](https://rubyrogues.com/081-rr-rails-4-with-aaron-patterson/)
 
-33:17 - Mystery Guest: Mandy Moore ([The RubyRep](http://www.twitter.com/therubyrep))
+33:17 - Mystery Guest: Mandy Moore ([The RubyRep](https://www.twitter.com/therubyrep))
 
 37:15 - Podcast Production
 
-- [Wide Teams](http://www.wideteams.com/)
-- [The Ruby Freelancers Show](http://www.rubyfreelancers.com/)
+- [Wide Teams](https://www.wideteams.com/)
+- [The Ruby Freelancers Show](https://www.rubyfreelancers.com/)
 
 41:56 - Picking the Intro Joke
 
 43:27 - Episode Editing Process
 
-- [Audacity](http://audacity.sourceforge.net/)
+- [Audacity](https://audacity.sourceforge.net/)
 
 48:33 - Transcripts
 
@@ -75,7 +75,7 @@ tags:
 
 54:00 - Katrina on being the newest Rogue
 
-- [069 RR Therapeutic Refactoring with Katrina Owen](http://rubyrogues.com/069-rr-therapeutic-refactoring-with-katrina-owen/)
+- [069 RR Therapeutic Refactoring with Katrina Owen](https://rubyrogues.com/069-rr-therapeutic-refactoring-with-katrina-owen/)
 
 58:43 - The Future of Ruby Rogues
 
@@ -83,23 +83,23 @@ tags:
 - Panelist bios
 - T-Shirts
 - Ruby Best Practice Patterns book
-- [LoneStarRuby Conference 2013](http://www.lonestarruby.org/2013/lsrc)
+- [LoneStarRuby Conference 2013](https://www.lonestarruby.org/2013/lsrc)
 
 ### Picks
 
-- [023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck](http://rubyrogues.com/023-rr-book-club-smalltalk-best-practice-patterns-with-kent-beck/) (Josh)
-- [087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi Metz](http://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/) (Katrina)
-- [049 RR Agile Communication with Angela Harms](http://rubyrogues.com/049-rr-agile-communication-with-angela-harms/) (David)
-- [047 RR Coding Disciplines with Dan Kubb](http://rubyrogues.com/047-rr-coding-disciplines/) (James)
-- [020 RR Object Oriented Programming in Rails with Jim Weirich](http://rubyrogues.com/object-oriented-programming-in-rails-with-jim-weirich/) (Chuck)
-- [Audacity](http://audacity.sourceforge.net/) (Mandy)
-- [Readability](http://www.readability.com/) (Mandy)
-- [Franzia](http://www.franzia.com/) (Mandy)
-- [090 RR Ruby Nuby Episode](http://rubyrogues.com/090-rr-ruby-nuby-episode/) (Mandy)
+- [023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck](https://rubyrogues.com/023-rr-book-club-smalltalk-best-practice-patterns-with-kent-beck/) (Josh)
+- [087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi Metz](https://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/) (Katrina)
+- [049 RR Agile Communication with Angela Harms](https://rubyrogues.com/049-rr-agile-communication-with-angela-harms/) (David)
+- [047 RR Coding Disciplines with Dan Kubb](https://rubyrogues.com/047-rr-coding-disciplines/) (James)
+- [020 RR Object Oriented Programming in Rails with Jim Weirich](https://rubyrogues.com/object-oriented-programming-in-rails-with-jim-weirich/) (Chuck)
+- [Audacity](https://audacity.sourceforge.net/) (Mandy)
+- [Readability](https://www.readability.com/) (Mandy)
+- [Franzia](https://www.franzia.com/) (Mandy)
+- [090 RR Ruby Nuby Episode](https://rubyrogues.com/090-rr-ruby-nuby-episode/) (Mandy)
 
 ### Book Club
 
-[The Rails View by John Athayde and Bruce Williams](http://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20): Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
+[The Rails View by John Athayde and Bruce Williams](https://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20): Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
 
 ### Next Week
 

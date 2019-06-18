@@ -20,7 +20,7 @@ Suggest topics and guests! [aiatopics](https://github.com/devchattv/aiatopics)
 
 - [Twitter](https://twitter.com/jesterxl)
 - [GitHub](https://github.com/JesterXL)
-- [Blog](http://jessewarden.com/)
+- [Blog](https://jessewarden.com/)
 - [Accenture](https://www.accenture.com)
 
 02:53 - Consulting vs Full-Time Employees
@@ -39,10 +39,10 @@ Suggest topics and guests! [aiatopics](https://github.com/devchattv/aiatopics)
 
 36:41 - Training and Negotiating Rates
 
-- [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It by Michael E. Gerber](http://www.amazon.com/The-E-Myth-Revisited-Small-Businesses/dp/0887307280)
+- [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It by Michael E. Gerber](https://www.amazon.com/The-E-Myth-Revisited-Small-Businesses/dp/0887307280)
   Picks
 
-[<u>Marissa Mayer and the Fight to Save Yahoo! by Nicholas Carlson</u>](http://www.amazon.com/gp/product/1455556610?redirect=true&ref_=wsirn_edmd_s_si_product_title) (Aaron) Snuggling with your kids (Aaron)[<u>Atom</u>](https://atom.io/) (Lukas) Having integrity (Chuck)[<u>aiatopics</u>](https://github.com/devchattv/aiatopics) (Chuck)[<u>15 Minute Podcast Listener chat with Charles Wood</u>](http://adventuresinangular.com/15minutes) (Chuck)[<u>Nigel Barnes: Lessons from Rocket Science (Part 1&amp;2)</u>](https://www.accenture.com/us-en/blogs/blogs-lessons-from-rocket-science-part-1-2) (Jesse)[<u>Nigel Barnes: Lessons from Rocket Science (Part 3)</u>](https://www.accenture.com/us-en/blogs/accenture-devops-rocket-science-3) &nbsp;(Jesse)[<u>jspm.io</u>](http://jspm.io/) (Jesse)
+[<u>Marissa Mayer and the Fight to Save Yahoo! by Nicholas Carlson</u>](https://www.amazon.com/gp/product/1455556610?redirect=true&ref_=wsirn_edmd_s_si_product_title) (Aaron) Snuggling with your kids (Aaron)[<u>Atom</u>](https://atom.io/) (Lukas) Having integrity (Chuck)[<u>aiatopics</u>](https://github.com/devchattv/aiatopics) (Chuck)[<u>15 Minute Podcast Listener chat with Charles Wood</u>](https://adventuresinangular.com/15minutes) (Chuck)[<u>Nigel Barnes: Lessons from Rocket Science (Part 1&amp;2)</u>](https://www.accenture.com/us-en/blogs/blogs-lessons-from-rocket-science-part-1-2) (Jesse)[<u>Nigel Barnes: Lessons from Rocket Science (Part 3)</u>](https://www.accenture.com/us-en/blogs/accenture-devops-rocket-science-3) &nbsp;(Jesse)[<u>jspm.io</u>](https://jspm.io/) (Jesse)
 
 ### Transcript
 

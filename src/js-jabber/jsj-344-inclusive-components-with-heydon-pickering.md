@@ -21,13 +21,13 @@ tags:
 
 **Special Guest:** [Heydon Pickering](https://github.com/Heydon)
 
-In this episode, the panel talks with Heydon Pickering who is a designer and writer. The panel and the guest talk about his new book, which is centered on the topic of today’s show: inclusive components. Check out Heydon’s [Twitter](https://twitter.com/heydonworks), [Website](http://www.heydonworks.com/about), [GitHub,](https://github.com/Heydon) and [Mastodon](https://mastodon.social/@heydon) social accounts to learn more about him. To purchase the book – [go here!](https://shop.smashingmagazine.com/products/inclusive-design-patterns)
+In this episode, the panel talks with Heydon Pickering who is a designer and writer. The panel and the guest talk about his new book, which is centered on the topic of today’s show: inclusive components. Check out Heydon’s [Twitter](https://twitter.com/heydonworks), [Website](https://www.heydonworks.com/about), [GitHub,](https://github.com/Heydon) and [Mastodon](https://mastodon.social/@heydon) social accounts to learn more about him. To purchase the book – [go here!](https://shop.smashingmagazine.com/products/inclusive-design-patterns)
 
 **Show Topics:**
 
 0:00 – [Advertisement: KENDO UI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
 
-0:38 – Chuck: Aimee, Chris, Joe, and myself – we are today’s panel. My show the [DevRev](http://thedevrev.com) is available online to check it out.
+0:38 – Chuck: Aimee, Chris, Joe, and myself – we are today’s panel. My show the [DevRev](https://thedevrev.com) is available online to check it out.
 
 1:30 – Guest: Plain ice cream would be frozen milk and that would be terrible. So I am lemon and candy JavaScript!
 
@@ -41,7 +41,7 @@ If you don’t want to buy the book you can go to the blog. I have been talking 
 
 5:40 – Panel.
 
-5:47 – Guest: I approached Smashing Magazine initially. They didn’t think there was a market for this content at the time. They were very supportive but we will do it as an eBook so our costs our down. At the time, the editor came back and said that: “it was quite good!” We skimmed it but came back to it now and now the content was more relevant in their eyes. I didn’t want to do the same book but I wanted to do it around “patterns.” Rewriting components is what I do all the time. I use Vanilla JavaScript. [Backbone.js](http://backbonejs.org) is the trendy one.
+5:47 – Guest: I approached Smashing Magazine initially. They didn’t think there was a market for this content at the time. They were very supportive but we will do it as an eBook so our costs our down. At the time, the editor came back and said that: “it was quite good!” We skimmed it but came back to it now and now the content was more relevant in their eyes. I didn’t want to do the same book but I wanted to do it around “patterns.” Rewriting components is what I do all the time. I use Vanilla JavaScript. [Backbone.js](https://backbonejs.org) is the trendy one.
 
 9:52 – Panel: The hard book did it get published?
 
@@ -112,7 +112,7 @@ END – [Advertisement: CacheFly!](https://www.cachefly.com)
 **Links:**
 
 - [JavaScript](https://www.javascript.com)
-- [Backbone.js](http://backbonejs.org)
+- [Backbone.js](https://backbonejs.org)
 - [Microsoft’s TFS](https://visualstudio.microsoft.com/tfs/)
 - [Léonie Watson](https://tink.uk)
 - [React](https://reactjs.org)
@@ -120,7 +120,7 @@ END – [Advertisement: CacheFly!](https://www.cachefly.com)
 - Ember.js
 - [Vue](https://vuejs.org)
 - [GO](https://golang.org/project/)
-- [jQuery](http://jquery.com)
+- [jQuery](https://jquery.com)
 - [Node.js](https://nodejs.org/en/)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Cypress](https://www.cypress.io)
@@ -128,7 +128,7 @@ END – [Advertisement: CacheFly!](https://www.cachefly.com)
 - [Heydon’s Mastodon](https://mastodon.social/@heydon)
 - [Heydon’s Book](https://shop.smashingmagazine.com/products/inclusive-design-patterns)
 - [Medium Article on Heydon](https://codeburst.io/heydon-pickering-accessibility-responsibility-and-inclusive-design-6fd8ae9883b8)
-- [Heydon’s Website](http://www.heydonworks.com)
+- [Heydon’s Website](https://www.heydonworks.com)
 - [Heydon’s Twitter](https://twitter.com/heydonworks)
 
 **Sponsors:**
@@ -144,7 +144,7 @@ Joe
 
 - [Chris Ferdinandi's Blog](https://gomakethings.com/)
 - [Luxur board game](https://boardgamegeek.com/boardgame/245643/luxor)
-- [Cypress.io](http://cypress.io/)
+- [Cypress.io](https://cypress.io/)
 
 Aimee
 
@@ -162,7 +162,7 @@ Charles
 
 - [Disney Heroes Battle Mode](https://play.google.com/store/apps/details?id=com.perblue.disneyheroes&hl=en_US)
 - [MFCEO Project Podcast](https://andyfrisella.com/blogs/mfceo-project-podcast)
-- [Gary Lee Audio Experience](http://itunes.apple.com/us/podcast/the-askgaryvee-show/id928159684?mt=2)
+- [Gary Lee Audio Experience](https://itunes.apple.com/us/podcast/the-askgaryvee-show/id928159684?mt=2)
 - [Suggestions for JavaScript Jabber](https://devchat.tv/js-jabber-topics/)
 
 Heydon

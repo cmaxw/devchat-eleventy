@@ -15,7 +15,7 @@ tags:
 ## **Sponsor**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small 
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small 
 - [Triplebyte](https://triplebyte.com/vue) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -31,7 +31,7 @@ Joined by Special Guest: Krystal Campioni
 Krystal Campioni starts by introducing herself and her background. She shares how she got into Vue and her design education. She shares resources for developers looking to learn more about design. She shares free online animation resources. The panel shares their favorite animation tips and discusses what makes vue a great framework for animations. The panel considers the value of animation; what are the benefits for both the user and the team. 
 ### **Links**
 
-- [http://cubic-bezier.com/](http://cubic-bezier.com/)
+- [https://cubic-bezier.com/](https://cubic-bezier.com/)
 - [https://easings.net/en](https://easings.net/en)
 - [https://twitter.com/sarah\_edo](https://twitter.com/sarah_edo)
 - [Visualizations using SVG, Canvas, and WebGL in Vue](https://www.vuemastery.com/conferences/vuejs-amsterdam-2019/visualizations-using-svg-canvas-and-webgl-in-vue/)
@@ -43,7 +43,7 @@ Krystal Campioni starts by introducing herself and her background. She shares ho
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.amazon.de/Dont-Make-Me-Think-Usability/dp/0321965515/ref=asc_df_0321965515/?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 - [Vue in Motion](https://www.vuemastery.com/conferences/vueconf-us-2018/vue-in-motion-rachel-nabors)
 - [https://twitter.com/kenny\_io/status/1114206038801014784](https://twitter.com/kenny_io/status/1114206038801014784)
-- [http://krystalcampioni.com/#/](http://krystalcampioni.com/#/)
+- [https://krystalcampioni.com/#/](https://krystalcampioni.com/#/)
 - [https://twitter.com/krystalcampioni](https://twitter.com/krystalcampioni)
 - [https://medium.com/@krystalcampioni](https://medium.com/@krystalcampioni)
 - [https://github.com/krystalcampioni/vue-animations](https://github.com/krystalcampioni/vue-animations)

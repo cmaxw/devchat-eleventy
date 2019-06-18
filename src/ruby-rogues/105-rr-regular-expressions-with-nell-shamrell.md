@@ -12,14 +12,14 @@ tags:
   - podcast
 ---
 
-01:33 - [DevChat.tv Indiegogo Campaign](http://www.indiegogo.com/projects/devchat-tv)
+01:33 - [DevChat.tv Indiegogo Campaign](https://www.indiegogo.com/projects/devchat-tv)
 
 02:16 - Nell Shamrell Introduction
 
 - [Blue Box](https://bluebox.net/)
-- [Nell Shamrell: Using Regular Expressions in Ruby (Part 1 of 3)](http://www.bluebox.net/about/blog/2013/02/using-regular-expressions-in-ruby-part-1-of-3/)
-- [Nell Shamrell: Using Regular Expressions in Ruby (Part 2 of 3)](http://www.bluebox.net/about/blog/2013/03/using-regular-expressions-in-ruby-part-2-of-3/)
-- [Nell Shamrell: Using Regular Expressions in Ruby (Part 3 of 3)](http://www.bluebox.net/about/blog/2013/03/using-regular-expressions-in-ruby-part-3-of-3/)
+- [Nell Shamrell: Using Regular Expressions in Ruby (Part 1 of 3)](https://www.bluebox.net/about/blog/2013/02/using-regular-expressions-in-ruby-part-1-of-3/)
+- [Nell Shamrell: Using Regular Expressions in Ruby (Part 2 of 3)](https://www.bluebox.net/about/blog/2013/03/using-regular-expressions-in-ruby-part-2-of-3/)
+- [Nell Shamrell: Using Regular Expressions in Ruby (Part 3 of 3)](https://www.bluebox.net/about/blog/2013/03/using-regular-expressions-in-ruby-part-3-of-3/)
 
 03:11 - [Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression)
 
@@ -27,9 +27,9 @@ tags:
 
 08:38 - Being intimidated by Regular Expressions
 
-- [Beyond the Basics: Regular Expressions in Ruby](http://www.slideshare.net/NellShamrell/seattle-rb-regexfinal) (Nell’s Seattle.rb SlideShare Presentation)
-- [Oniguruma Regular Expressions Version 5.9.1](http://www.geocities.jp/kosako3/oniguruma/doc/RE.txt)
-- [Rubular](http://rubular.com/)
+- [Beyond the Basics: Regular Expressions in Ruby](https://www.slideshare.net/NellShamrell/seattle-rb-regexfinal) (Nell’s Seattle.rb SlideShare Presentation)
+- [Oniguruma Regular Expressions Version 5.9.1](https://www.geocities.jp/kosako3/oniguruma/doc/RE.txt)
+- [Rubular](https://rubular.com/)
 
 14:54 - Managing Regular Expressions
 
@@ -37,56 +37,56 @@ tags:
 
 - sub and gsub
 - regex speed
-- [O'Reilly Media: Mastering Regular Expressions by Jeffrey E.F. Friedl](http://shop.oreilly.com/product/9781565922570.do)
+- [O'Reilly Media: Mastering Regular Expressions by Jeffrey E.F. Friedl](https://shop.oreilly.com/product/9781565922570.do)
 - Anchoring
 
 20:39 - Possessive, Greedy and Lazy Quantifiers
 
 24:10 - Lookaheads, Lookbehinds and Lookarounds
 
-- [scan](http://ruby-doc.org/core-2.0/String.html#method-i-scan)
+- [scan](https://ruby-doc.org/core-2.0/String.html#method-i-scan)
 
 28:21 - Regular Expression Engines
 
-- [PCRE](http://www.pcre.org/)
+- [PCRE](https://www.pcre.org/)
 
 31:56 - Ruby-Specific ways of working with regular expressions
 
-- [match](http://ruby-doc.org/core-2.0/String.html#method-i-match)
+- [match](https://ruby-doc.org/core-2.0/String.html#method-i-match)
 - Capture Groups
 - Magic Globals
-- [Oniguruma](http://www.geocities.jp/kosako3/oniguruma/)
+- [Oniguruma](https://www.geocities.jp/kosako3/oniguruma/)
 - [Onigmo](https://github.com/k-takata/Onigmo)
-- [grep](http://ruby-doc.org/core-2.0/Enumerable.html#method-i-grep)
-- [rindex](http://ruby-doc.org/core-2.0/String.html#method-i-rindex)
+- [grep](https://ruby-doc.org/core-2.0/Enumerable.html#method-i-grep)
+- [rindex](https://ruby-doc.org/core-2.0/String.html#method-i-rindex)
 
 47:02 - What shouldn’t you use regular expressions for?
 
-- [include?](http://ruby-doc.org/core-2.0/String.html#method-i-include-3F)
-- [start_with?](http://ruby-doc.org/core-2.0/String.html#method-i-start_with-3F)
-- [html - RegEx match open tags except XHTML self-contained tags - Stack Overflow](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
-- [Mail::RFC822::Address: regexp-based address validation](http://www.ex-parrot.com/pdw/Mail-RFC822-Address.html)
+- [include?](https://ruby-doc.org/core-2.0/String.html#method-i-include-3F)
+- [start_with?](https://ruby-doc.org/core-2.0/String.html#method-i-start_with-3F)
+- [html - RegEx match open tags except XHTML self-contained tags - Stack Overflow](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+- [Mail::RFC822::Address: regexp-based address validation](https://www.ex-parrot.com/pdw/Mail-RFC822-Address.html)
 
 51:09 - Substitutions
 
 - Escapes & Escaping
 - %r
-- [O'Reilly Media: The Ruby Programming Language by David Flanagan, Yukihiro Matsumoto](http://shop.oreilly.com/product/9780596516178.do)
+- [O'Reilly Media: The Ruby Programming Language by David Flanagan, Yukihiro Matsumoto](https://shop.oreilly.com/product/9780596516178.do)
 
 01:00:37 - Regex xkcd Comics
 
-- [xkcd | Regular Expressions](http://xkcd.com/208/)
-- [xkcd | 1171: Perl Problems](http://www.explainxkcd.com/wiki/index.php?title=1171:_Perl_Problems)
+- [xkcd | Regular Expressions](https://xkcd.com/208/)
+- [xkcd | 1171: Perl Problems](https://www.explainxkcd.com/wiki/index.php?title=1171:_Perl_Problems)
 
 01:02:51 - Tricks
 
-- [Lea Verou: /Reg(exp){2}lained/: Demystifying Regular Expressions](<http://www.youtube.com/watch?v=EkluES9RvakBest%20of%20Fluent%202012:%20/Reg(exp)%7B2%7Dlained/:%20Demystifying%20Regular%20Expressions>)
-- [StringScanner](http://www.ruby-doc.org/stdlib-2.0/libdoc/strscan/rdoc/StringScanner.html)
-- [split](http://ruby-doc.org/core-2.0/String.html#method-i-split)
+- [Lea Verou: /Reg(exp){2}lained/: Demystifying Regular Expressions](<https://www.youtube.com/watch?v=EkluES9RvakBest%20of%20Fluent%202012:%20/Reg(exp)%7B2%7Dlained/:%20Demystifying%20Regular%20Expressions>)
+- [StringScanner](https://www.ruby-doc.org/stdlib-2.0/libdoc/strscan/rdoc/StringScanner.html)
+- [split](https://ruby-doc.org/core-2.0/String.html#method-i-split)
 
 ### Book Club
 
-[Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](http://pragprog.com/book/ehxta/explore-it)! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
+[Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](https://pragprog.com/book/ehxta/explore-it)! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
 
 ### Next Week
 

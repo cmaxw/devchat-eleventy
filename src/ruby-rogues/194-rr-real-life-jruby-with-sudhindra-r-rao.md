@@ -20,53 +20,53 @@ tags:
 
 - [Twitter](https://twitter.com/sudhindraRao)
 - [GitHub](https://github.com/betarelease)
-- [Thoughtworks](http://www.thoughtworks.com/)
+- [Thoughtworks](https://www.thoughtworks.com/)
   - [@thoughtworks](https://twitter.com/thoughtworks)
-- [Mingle](http://www.thoughtworks.com/mingle/)
+- [Mingle](https://www.thoughtworks.com/mingle/)
   - [@thatsmingle](https://twitter.com/thatsmingle)
 
-03:32 - [JRuby](http://jruby.org/) Improvements
+03:32 - [JRuby](https://jruby.org/) Improvements
 
-- [Ruby MRI (Matz's Ruby Interpreter)](http://en.wikipedia.org/wiki/Ruby_MRI)
+- [Ruby MRI (Matz's Ruby Interpreter)](https://en.wikipedia.org/wiki/Ruby_MRI)
 
 07:41 - Gotchas
 
 09:09 - Testing and Fast Feedback
 
-- [PostgreSQL](http://www.postgresql.org/)
+- [PostgreSQL](https://www.postgresql.org/)
   - [Transactional DDL in PostgreSQL](https://wiki.postgresql.org/wiki/Transactional_DDL_in_PostgreSQL:_A_Competitive_Analysis)
 - “The David Brady Twitter Limit”
-- “Why are you guys sword fighting?” =\> [xkcd: Compiling](http://xkcd.com/303/)
+- “Why are you guys sword fighting?” =\> [xkcd: Compiling](https://xkcd.com/303/)
 
 16:27 - Choosing JRuby
 
 - Deployment
-- Performance \> [Mongrel](<http://en.wikipedia.org/wiki/Mongrel_(web_server)>)
+- Performance \> [Mongrel](<https://en.wikipedia.org/wiki/Mongrel_(web_server)>)
 
 19:25 - Hosting
 
 20:20 - Scaling & Optimization
 
-- [Multitenancy](http://en.wikipedia.org/wiki/Multitenancy)
-- [Singleton Pattern](http://en.wikipedia.org/wiki/Singleton_pattern)
+- [Multitenancy](https://en.wikipedia.org/wiki/Multitenancy)
+- [Singleton Pattern](https://en.wikipedia.org/wiki/Singleton_pattern)
 
-25:23 - [JVM (Java Virtual Machine)](http://en.wikipedia.org/wiki/Java_virtual_machine)
+25:23 - [JVM (Java Virtual Machine)](https://en.wikipedia.org/wiki/Java_virtual_machine)
 
-- [Oracle](http://www.oracle.com/)
-  - [OpenJDK](http://openjdk.java.net/)
+- [Oracle](https://www.oracle.com/)
+  - [OpenJDK](https://openjdk.java.net/)
 
 26:19 - Self-Hosted Version?
 
 28:17 - Delivery Cycles
 
 - Rearchitecting the Deployment
-  - [Tomcat](http://tomcat.apache.org/)
+  - [Tomcat](https://tomcat.apache.org/)
   - [eb_deployer](https://github.com/ThoughtWorksStudios/eb_deployer)
 - Dealing with Rollbacks
 
 33:09 - Experimentation & Query Optimization
 
-- [DBAs (Database Administrators)](http://en.wikipedia.org/wiki/Database_administrator)
+- [DBAs (Database Administrators)](https://en.wikipedia.org/wiki/Database_administrator)
 
 36:22 - Building Mingle Now
 
@@ -74,7 +74,7 @@ tags:
 
 38:09 - Testing Structure
 
-- [PhantomJS](http://phantomjs.org/)
+- [PhantomJS](https://phantomjs.org/)
 - [Capybara](https://github.com/jnicklas/capybara)
 
 ### Transcript

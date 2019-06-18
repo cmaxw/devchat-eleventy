@@ -31,38 +31,38 @@ tags:
   22:07 - CommunityDeveloper Experience
 - [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
   26:56 - Getting Connected to the React Community
-- [Meetup: Real World React](http://www.meetup.com/real-world-react/)
+- [Meetup: Real World React](https://www.meetup.com/real-world-react/)
   - [@rwreact](https://twitter.com/rwreact)
-- [ReactJS San Francisco Bay Area Meetup](http://www.meetup.com/ReactJS-San-Francisco/)
-- [Meetup](http://www.meetup.com/)
+- [ReactJS San Francisco Bay Area Meetup](https://www.meetup.com/ReactJS-San-Francisco/)
+- [Meetup](https://www.meetup.com/)
 - [Eventbrite](https://www.eventbrite.com/)
-- [Calagator](http://calagator.org/)
+- [Calagator](https://calagator.org/)
 - [Twitter](https://twitter.com/)
 - [Dan Abramov: My React List](https://medium.com/@dan_abramov/my-react-list-862227952a8c#.5pgjtb9pt)
   29:34 - Conferences
-- [React.js Conf](http://conf.reactjs.com/)
-- [React Rally](http://www.reactrally.com/)
-- [ReactNext](http://react-next.com/)
+- [React.js Conf](https://conf.reactjs.com/)
+- [React Rally](https://www.reactrally.com/)
+- [ReactNext](https://react-next.com/)
 - [ReactiveConf](https://reactiveconf.com/)
 - [ReactEurope](https://www.react-europe.org/)
   33:28 - Technology From the Community
 - [redux](https://github.com/reactjs/redux)
-- [ThunderCats.js](http://thundercats.js.org/)38:23 - Choices Are Expanding; Not Shrinking
+- [ThunderCats.js](https://thundercats.js.org/)38:23 - Choices Are Expanding; Not Shrinking
 - Linting
   40:19 - The Future of React42:39 - Starting More Communities&nbsp;Picks
-- [This Developing Story](http://developingstory.netlify.com/) (Aimee)
-- [Nashville](http://www.visitmusiccity.com/) (Aimee)
-- [Nodevember](http://nodevember.org/) (Aimee)
+- [This Developing Story](https://developingstory.netlify.com/) (Aimee)
+- [Nashville](https://www.visitmusiccity.com/) (Aimee)
+- [Nodevember](https://nodevember.org/) (Aimee)
 - [egghead.io: React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes) (Ben)
 - [Lee Byron: Immutable User Interfaces @ Render 2016](https://vimeo.com/166790294) (Ben)
 - [Nick Schrock: React.js Conf 2016 Keynote](https://www.youtube.com/watch?v=MGuKhcnrqGA) (Ben)
 - [create-react-app](https://github.com/facebookincubator/create-react-app) (Ian)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) (Ian)
-- [The Serverless Framework](http://serverless.com/) (Ian)
-- [Ben's Blog](http://blog.benoitvallon.com/) (Berkeley)
+- [The Serverless Framework](https://serverless.com/) (Ian)
+- [Ben's Blog](https://blog.benoitvallon.com/) (Berkeley)
 - [Isaac Asimov’s Robot Series](<https://en.wikipedia.org/wiki/Robot_series_(Asimov)>) (Berkeley)
 - [Vsauce: The Zipf Mystery](https://www.youtube.com/watch?v=fCn8zs912OE) (Berkeley)
-- [Kinesis Advantage for PC & Mac](http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/) (Dave)
+- [Kinesis Advantage for PC & Mac](https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/) (Dave)
 
 ### Transcript
 

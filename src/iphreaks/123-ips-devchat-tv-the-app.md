@@ -12,13 +12,13 @@ tags:
   - podcast
 ---
 
-01:15 - [DevChat.tv](http://devchat.tv): The App
+01:15 - [DevChat.tv](https://devchat.tv): The App
 
 03:51 - Basic Authentication
 
-- [OAuth](http://oauth.net/)
+- [OAuth](https://oauth.net/)
 - [NSURLSession](https://developer.apple.com/library/ios/documentation/Foundation/Reference/NSURLSession_class/)
-- [HTTP: Basic Access Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
+- [https: Basic Access Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
 
 08:05 - Making a Universal App
 
@@ -43,7 +43,7 @@ tags:
 
 23:21 - Is the DevChat.tv app idea overambitious?
 
-- [Stack Overflow](http://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/)
 
 24:38 - Animations and Transitions
 
@@ -62,8 +62,8 @@ tags:
 
 31:00 - Learning Resources
 
-- [Ray Wenderlich](http://www.raywenderlich.com/)
-- [Stanford on iTunes U](http://itunes.stanford.edu/)
+- [Ray Wenderlich](https://www.raywenderlich.com/)
+- [Stanford on iTunes U](https://itunes.stanford.edu/)
 
 34:55 - Third-party Libraries?
 
@@ -72,7 +72,7 @@ tags:
 - [AV Foundation](https://developer.apple.com/av-foundation/)
   Picks
 
-[Exit Through the Gift Shop](http://www.imdb.com/title/tt1587707/) (Jaim) Learn Something New (Andrew)[Michael Vey 5: Storm of Lightning by Richard Paul Evans](http://www.amazon.com/gp/product/1481444107/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1481444107&linkCode=as2&tag=chamaxwoo-20&linkId=JGV5L43DDJLSJ4A2) (Chuck) Get outside and get moving (Chuck)
+[Exit Through the Gift Shop](https://www.imdb.com/title/tt1587707/) (Jaim) Learn Something New (Andrew)[Michael Vey 5: Storm of Lightning by Richard Paul Evans](https://www.amazon.com/gp/product/1481444107/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1481444107&linkCode=as2&tag=chamaxwoo-20&linkId=JGV5L43DDJLSJ4A2) (Chuck) Get outside and get moving (Chuck)
 
 ### Transcript
 

@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry&nbsp;](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry&nbsp;](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Joined By Special Guest:** &nbsp;Phil Hawksworth
 ### **Episode Summary**

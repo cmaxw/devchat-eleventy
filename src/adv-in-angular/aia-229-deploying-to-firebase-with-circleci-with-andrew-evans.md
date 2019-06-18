@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [**Sentry**](http://sentry.io/)– use the code “devchat” for $100 credit
+- [**Sentry**](https://sentry.io/)– use the code “devchat” for $100 credit
 - **[Triplebyte](https://triplebyte.com/)** - offers a $1000 signing bonus
 
 ### **Panel**
@@ -42,7 +42,7 @@ The panelists jokingly wonder whether Andrew should give them 50% of his profits
 
 ### **Picks**
  **Shai Resnick:**
-- [http://exploringjs.com](http://exploringjs.com)
+- [https://exploringjs.com](https://exploringjs.com)
 - [https://youtu.be/gwlevtaC-u0](https://youtu.be/gwlevtaC-u0)
 **Joe Eames:**
 - Movie: Alita: Battle Angel

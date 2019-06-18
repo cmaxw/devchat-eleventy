@@ -38,7 +38,7 @@ This week on My JavaScript Story, Charles speaks with Kevin Griffin. Kevin is on
 - Doesn’t like to pigeon hole himself into one language
 - C++ and C#
 - Didn’t want to support JavaScript originally
-- Using [jQuery](https://jquery.com/), [Knockout](https://knockoutjs.com/), [Ember](https://www.emberjs.com/), and [Backbone](http://backbonejs.org/)
+- Using [jQuery](https://jquery.com/), [Knockout](https://knockoutjs.com/), [Ember](https://www.emberjs.com/), and [Backbone](https://backbonejs.org/)
 - Working with [Vue](https://vuejs.org/) and [React](https://reactjs.org/) now
 - The same problems persist now, just with different frameworks
 - Looking at the project and then deciding which tool to use
@@ -53,7 +53,7 @@ This week on My JavaScript Story, Charles speaks with Kevin Griffin. Kevin is on
 - [JavaScript](https://www.javascript.com/)
 - [Knockout](https://knockoutjs.com/)
 - [Ember](https://www.emberjs.com/)
-- [Backbone](http://backbonejs.org/)
+- [Backbone](https://backbonejs.org/)
 - [Vue](https://vuejs.org/)
 - [React](https://reactjs.org/)
 - [@2frugaldudes](https://twitter.com/2frugaldudes?lang=en)
@@ -64,7 +64,7 @@ This week on My JavaScript Story, Charles speaks with Kevin Griffin. Kevin is on
 
 **Sponsors:**
 
-- [Code Badges](http://codebadge.org/)
+- [Code Badges](https://codebadge.org/)
 - Digital Ocean
 
 **Picks**

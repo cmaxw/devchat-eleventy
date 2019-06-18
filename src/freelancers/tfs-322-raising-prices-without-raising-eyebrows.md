@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 
 ### **Panel:**
@@ -40,7 +40,7 @@ In this episode of the Freelancers' Show, the panel talks about how/when to rais
 - [Bag Man](https://www.msnbc.com/bagman)
 - [https://slate.com/slow-burn](https://slate.com/slow-burn)
 - [https://trainbetter.transistor.fm/](https://trainbetter.transistor.fm/)
-- [The foreigner's guide to WeChat payments in China by Reuven Lerner](http://blog.lerner.co.il/the-foreigners-guide-to-wechat-payments-in-china/)
+- [The foreigner's guide to WeChat payments in China by Reuven Lerner](https://blog.lerner.co.il/the-foreigners-guide-to-wechat-payments-in-china/)
 
 
 ### Transcript

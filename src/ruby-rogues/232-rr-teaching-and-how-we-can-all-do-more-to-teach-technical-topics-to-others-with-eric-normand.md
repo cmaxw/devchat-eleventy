@@ -20,15 +20,15 @@ tags:
 
 - [Twitter](https://twitter.com/ericnormand)
 - [GitHub](https://github.com/ericnormand)
-- [Democracy Works](http://democracy.works/)
-- [LispCast](http://lispcast.com)
-- [Clojure Gazette](http://clojuregazette.com)
-- [PurelyFunctional.tv](http://purelyfunctional.tv)
+- [Democracy Works](https://democracy.works/)
+- [LispCast](https://lispcast.com)
+- [Clojure Gazette](https://clojuregazette.com)
+- [PurelyFunctional.tv](https://purelyfunctional.tv)
 
 03:31 -&nbsp;&nbsp; &nbsp;Old vs Young Programmers
 
-- [Robert C. Martin: My Lawn](http://blog.cleancoder.com/uncle-bob/2014/06/20/MyLawn.html)
-- [“Uncle Bob” Martin Speaks at Yale SOM](http://som.yale.edu/news/2014/09/uncle-bob-martin-speaks-yale-som) &nbsp;
+- [Robert C. Martin: My Lawn](https://blog.cleancoder.com/uncle-bob/2014/06/20/MyLawn.html)
+- [“Uncle Bob” Martin Speaks at Yale SOM](https://som.yale.edu/news/2014/09/uncle-bob-martin-speaks-yale-som) &nbsp;
 
 05:38 - Teaching Fundamentals
 
@@ -48,7 +48,7 @@ tags:
 
 29:36 - Recognizing Students Understanding of Fundamentals
 
-- [NPR Planet Money: When Women Stopped Coding](http://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
+- [NPR Planet Money: When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
 
 31:25 - Should there be prerequisites?
 
@@ -64,15 +64,15 @@ Mentoring
 
 52:11 - Skill vs Knowledge
 
-- [O'Reilly's Head First Series](http://shop.oreilly.com/category/series/head-first.do)
+- [O'Reilly's Head First Series](https://shop.oreilly.com/category/series/head-first.do)
   &nbsp;More From Eric
-- [How to avoid "Makes sense if you already understand it."](http://www.lispcast.com/learning-is-about-skills)
-- [Making True/False Questions Easy](http://www.lispcast.com/making-true-false-easy)
-- [Tap Into Your Social Brain](http://www.lispcast.com/tap-into-your-social-brain)
-- [Use Task Analysis to Break a Skill Into Steps](http://www.lispcast.com/task-analysis)
+- [How to avoid "Makes sense if you already understand it."](https://www.lispcast.com/learning-is-about-skills)
+- [Making True/False Questions Easy](https://www.lispcast.com/making-true-false-easy)
+- [Tap Into Your Social Brain](https://www.lispcast.com/tap-into-your-social-brain)
+- [Use Task Analysis to Break a Skill Into Steps](https://www.lispcast.com/task-analysis)
   Picks
 
-[Inoreader](http://www.inoreader.com/) (Avdi)[Windows 10](https://www.microsoft.com/en-us/windows/windows-10-upgrade) (Avdi)[Sandi Metz's Courses](http://www.sandimetz.com/courses/) (Avdi)[Avdi Grimm: I have a newsletter. You could subscribe, maybe.](http://devblog.avdi.org/2015/10/12/i-have-a-newsletter-you-could-subscribe-maybe/) (Avdi)[Ian Steadman: Sex isn’t chromosomes: the story of a century of misconceptions about X & Y](http://www.newstatesman.com/future-proof/2015/02/sex-isn-t-chromosomes-story-century-misconceptions-about-x-y) (Coraline)[Parable of the Sower by Octavia E. Butler](http://www.amazon.com/gp/product/0446675504/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0446675504&linkCode=as2&tag=chamaxwoo-20&linkId=P7IBLY7IS6FKADTZ) (Coraline)[Wunderlist](https://www.wunderlist.com/) (Jessica)[The Partially Examined Life](https://www.partiallyexaminedlife.com/) (Jessica)[Together Tech](http://togethertech.org/) (Chuck) Being Intentional (Chuck)[Highrise](https://highrisehq.com/) (Chuck)[Eventual Millionaire with Rory Vaden](http://eventualmillionaire.com/roryvaden/) (Chuck)[Ruby Rogues](https://devchat.tv/ruby-rogues/) (Eric)[Yoshiki Ohshima's Youtube Channel](https://www.youtube.com/channel/UCkdJ2NwjI8LcgyvfU7PyaVA) (Eric)[Mindstorms: Children, Computers, And Powerful Ideas by Seymour A. Papert](http://www.amazon.com/gp/product/0465046746/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465046746&linkCode=as2&tag=chamaxwoo-20&linkId=MKHZ35FPPG3A2GFZ) (Eric)
+[Inoreader](https://www.inoreader.com/) (Avdi)[Windows 10](https://www.microsoft.com/en-us/windows/windows-10-upgrade) (Avdi)[Sandi Metz's Courses](https://www.sandimetz.com/courses/) (Avdi)[Avdi Grimm: I have a newsletter. You could subscribe, maybe.](https://devblog.avdi.org/2015/10/12/i-have-a-newsletter-you-could-subscribe-maybe/) (Avdi)[Ian Steadman: Sex isn’t chromosomes: the story of a century of misconceptions about X & Y](https://www.newstatesman.com/future-proof/2015/02/sex-isn-t-chromosomes-story-century-misconceptions-about-x-y) (Coraline)[Parable of the Sower by Octavia E. Butler](https://www.amazon.com/gp/product/0446675504/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0446675504&linkCode=as2&tag=chamaxwoo-20&linkId=P7IBLY7IS6FKADTZ) (Coraline)[Wunderlist](https://www.wunderlist.com/) (Jessica)[The Partially Examined Life](https://www.partiallyexaminedlife.com/) (Jessica)[Together Tech](https://togethertech.org/) (Chuck) Being Intentional (Chuck)[Highrise](https://highrisehq.com/) (Chuck)[Eventual Millionaire with Rory Vaden](https://eventualmillionaire.com/roryvaden/) (Chuck)[Ruby Rogues](https://devchat.tv/ruby-rogues/) (Eric)[Yoshiki Ohshima's Youtube Channel](https://www.youtube.com/channel/UCkdJ2NwjI8LcgyvfU7PyaVA) (Eric)[Mindstorms: Children, Computers, And Powerful Ideas by Seymour A. Papert](https://www.amazon.com/gp/product/0465046746/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465046746&linkCode=as2&tag=chamaxwoo-20&linkId=MKHZ35FPPG3A2GFZ) (Eric)
 
 ### Transcript
 

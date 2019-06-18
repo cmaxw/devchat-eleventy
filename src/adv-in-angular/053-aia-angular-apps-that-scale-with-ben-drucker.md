@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips](http://devchat.tv/rails-clips)!
+Check out [RailsClips](https://devchat.tv/rails-clips)!
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 - [Twitter](https://twitter.com/bendrucker)
 - [GitHub](https://github.com/bendrucker)
-- [Blog](http://www.bendrucker.me/)
+- [Blog](https://www.bendrucker.me/)
 - [EAZE](https://www.eazeup.com/)
 - [Eaze MD](https://eaze.md/)
 - [Ben Drucker: Modular Angular: Apps that Scale @ ng-vegas 2015](https://www.youtube.com/watch?v=4a5L82OBBWk)
@@ -29,9 +29,9 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 04:54 - Tools
 
-- [Browserify](http://browserify.org/)
-- [AMD](http://marcoslin.github.io/angularAMD/#/home)
-- [RequireJS](http://requirejs.org/)
+- [Browserify](https://browserify.org/)
+- [AMD](https://marcoslin.github.io/angularAMD/#/home)
+- [RequireJS](https://requirejs.org/)
 
 06:25 - Ben’s Background in Scalability
 
@@ -62,7 +62,7 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 - Build Process
   37:24 - [Ben's GitHub Repos](https://github.com/bendrucker?tab=repositories) and Open SourcePicks
 
-[Robots on the Line](http://robotsontheline.com/) (Joe)[Saint Petersburg, Russia](https://en.wikipedia.org/wiki/Saint_Petersburg) (Katya)[The Man Who Saw America: Looking back with Robert Frank, the most influential photographer alive](http://www.nytimes.com/2015/07/05/magazine/robert-franks-america.html?_r=0) (Ward)[Paracord](https://en.wikipedia.org/wiki/Parachute_cord) (Chuck)[Soto Pocket Torch](http://www.amazon.com/gp/product/B0046UZRNU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0046UZRNU&linkCode=as2&tag=chamaxwoo-20&linkId=MV5S3E6KR3C6A3IG) (Chuck)[Shyp](http://shyp.com/) (Ben)
+[Robots on the Line](https://robotsontheline.com/) (Joe)[Saint Petersburg, Russia](https://en.wikipedia.org/wiki/Saint_Petersburg) (Katya)[The Man Who Saw America: Looking back with Robert Frank, the most influential photographer alive](https://www.nytimes.com/2015/07/05/magazine/robert-franks-america.html?_r=0) (Ward)[Paracord](https://en.wikipedia.org/wiki/Parachute_cord) (Chuck)[Soto Pocket Torch](https://www.amazon.com/gp/product/B0046UZRNU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0046UZRNU&linkCode=as2&tag=chamaxwoo-20&linkId=MV5S3E6KR3C6A3IG) (Chuck)[Shyp](https://shyp.com/) (Ben)
 
 ### Transcript
 

@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-**Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!**
+**Check out [RailsClips on Kickstarter](https://devchat.tv/kickstarter)!!**
 
 02:16 - Conference WiFi
 
@@ -20,30 +20,30 @@ tags:
 
 - [WWDC](https://developer.apple.com/wwdc/)
   - [@WWDCGlobalPR](https://twitter.com/wwdcglobalpr)
-- [CocoaConf](http://cocoaconf.com/)
+- [CocoaConf](https://cocoaconf.com/)
   - [@cocoaconf](https://twitter.com/cocoaconf)
-- [360iDev](http://360idev.com/)
+- [360iDev](https://360idev.com/)
   - [@360iDev](https://twitter.com/360iDev)
-- [RWDevCon](http://www.rwdevcon.com/)
+- [RWDevCon](https://www.rwdevcon.com/)
   - [@RWDevCon](https://twitter.com/RWDevCon)
-  - [Ray Wenderlich](http://www.raywenderlich.com/)
+  - [Ray Wenderlich](https://www.raywenderlich.com/)
 - [That Conference](https://www.thatconference.com/)
   - [@ThatConference](https://twitter.com/ThatConference)
-- [RubyConf](http://rubyconf.org/)
+- [RubyConf](https://rubyconf.org/)
   - [@rubyconf](https://twitter.com/rubyconf)
-- [RailsConf](http://railsconf.com/)
+- [RailsConf](https://railsconf.com/)
   - [@railsconf](https://twitter.com/railsconf)
-- [MountainWest JavaScript](http://mtnwestjs.org/)
+- [MountainWest JavaScript](https://mtnwestjs.org/)
   - [@mtnwestjs](https://twitter.com/mtnwestjs)
-- [ng-conf](http://www.ng-conf.org/)
+- [ng-conf](https://www.ng-conf.org/)
   - [@ngconf](https://twitter.com/ngconf)
-- [MountainWest RubyConf](http://mtnwestrubyconf.org/)
+- [MountainWest RubyConf](https://mtnwestrubyconf.org/)
   - [@mtnwestrubyconf](https://twitter.com/mtnwestrubyconf)
 - [DevNexus](https://www.devnexus.com/)
   - [@devnexus](https://twitter.com/devnexus)
-- [Podcast Movement](http://podcastmovement.com/)
+- [Podcast Movement](https://podcastmovement.com/)
   - [@PodcastMovement](https://twitter.com/PodcastMovement)
-- [NSNorth](http://nsnorth.ca/)
+- [NSNorth](https://nsnorth.ca/)
   - [@nsnorth](https://twitter.com/nsnorth)
 
 10:23 - Budget, Content, and Social Aspects =\> Value
@@ -55,28 +55,28 @@ tags:
 14:38 - Panelist Plans for 2015
 
 - WWDC Experiences
-- [AltConf](http://www.altconf.com/)
+- [AltConf](https://www.altconf.com/)
   - [@altconf](https://twitter.com/altconf)
 
 19:57 - Size: Smaller, Regional, International Conferences
 
-- [ÇINGLETON](http://cingleton.com/)
+- [ÇINGLETON](https://cingleton.com/)
   - [@cingleton](https://twitter.com/cingleton)
-- [Úll](http://ull.ie)
+- [Úll](https://ull.ie)
   - [@ullconf](https://twitter.com/ullconf)&nbsp; &nbsp;
-- [Aloha Ruby](http://aloharubyconf.com/)
+- [Aloha Ruby](https://aloharubyconf.com/)
   - [@AlohaRubyConf](https://twitter.com/AlohaRubyConf)
 
 21:29 - Travel & Accommodations
 
 - [Uber](https://www.uber.com/)
-- [Amtrak](http://www.amtrak.com/)
+- [Amtrak](https://www.amtrak.com/)
 
-26:46 - [CocoaConf](http://cocoaconf.com/) vs [360iDev](http://360idev.com/)
+26:46 - [CocoaConf](https://cocoaconf.com/) vs [360iDev](https://360idev.com/)
 
 28:44 - Presenting/Speaking at Conferences
 
-- [CocoaHeads](http://cocoaheads.org/)
+- [CocoaHeads](https://cocoaheads.org/)
 - Call for Papers/Proposals (CFPs)
 
 32:53 - Attending Conferences (Tips)
@@ -84,7 +84,7 @@ tags:
 - Meet People
   - Go Out to Eat
   - Tweet with Conference #
-  - Back Channel [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat)
+  - Back Channel [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
 - Make a Friend on Day 1 =\> “The Crowd”
 - Talk Shop
 - Find a Local: “Take me to the best \_\_\_\_\_?”
@@ -96,10 +96,10 @@ tags:
 - [Daniel Steinberg](https://twitter.com/dimsumthinking)
 - [Jonathan Penn](https://twitter.com/jonathanpenn)
 - [Matthijs Hollemans](https://twitter.com/mhollemans)
-- [James Dempsey and the Breakpoints](http://jamesdempsey.net/tag/james-dempsey-and-the-breakpoints/)
+- [James Dempsey and the Breakpoints](https://jamesdempsey.net/tag/james-dempsey-and-the-breakpoints/)
   41:56 - Jam Sessions and Playing GamesPicks
 
-[<u>The Shape of Things to Come: How an Industrial Designer Became Apple's Greatest Product</u>](http://www.newyorker.com/magazine/2015/02/23/shape-things-come?currentPage=all) (Andrew)[<u>Orange Juice Liberation Front: WWDC First-timer tips</u>](http://orangejuiceliberationfront.com/wwdc-first-timer-tips/) (Andrew)[<u>WWDC Tips as Accumulated by a Veteran of a Staggering ONE WWDC</u>](http://tumblr.caseyliss.com/post/23099192614/wwdc-2012-tips) (Andrew)[<u>5 Tips for WWDC 2013</u>](http://realmacsoftware.com/blog/5-tips-for-wwdc-2013) (Andrew)[<u>Carl Brown: Making the Most of Your (iOS) Dev Conference Experience</u>](http://escortmissions.com/blog/2014/08/16/making-the-most-of-your-ios-dev-conference-experience.html) (Jaim)[<u>Ray Wenderlich.com</u>](http://www.raywenderlich.com) (Alondo)[<u>360iDev</u>](http://360idev.com/) (Alondo)[<u>RailsCasts Kickstarter</u>](http://devchat.tv/kickstarter) (Chuck)[<u>YouTube</u>](http://www.youtube.com/) (Chuck)[<u>FFmpeg</u>](https://www.ffmpeg.org/) (Chuck)[<u>Developer’s Box Club</u>](http://devboxclub.com/) (Chuck)[<u>Ruby Remote Conf</u>](http://rubyremoteconf.com/) (Chuck)
+[<u>The Shape of Things to Come: How an Industrial Designer Became Apple's Greatest Product</u>](https://www.newyorker.com/magazine/2015/02/23/shape-things-come?currentPage=all) (Andrew)[<u>Orange Juice Liberation Front: WWDC First-timer tips</u>](https://orangejuiceliberationfront.com/wwdc-first-timer-tips/) (Andrew)[<u>WWDC Tips as Accumulated by a Veteran of a Staggering ONE WWDC</u>](https://tumblr.caseyliss.com/post/23099192614/wwdc-2012-tips) (Andrew)[<u>5 Tips for WWDC 2013</u>](https://realmacsoftware.com/blog/5-tips-for-wwdc-2013) (Andrew)[<u>Carl Brown: Making the Most of Your (iOS) Dev Conference Experience</u>](https://escortmissions.com/blog/2014/08/16/making-the-most-of-your-ios-dev-conference-experience.html) (Jaim)[<u>Ray Wenderlich.com</u>](https://www.raywenderlich.com) (Alondo)[<u>360iDev</u>](https://360idev.com/) (Alondo)[<u>RailsCasts Kickstarter</u>](https://devchat.tv/kickstarter) (Chuck)[<u>YouTube</u>](https://www.youtube.com/) (Chuck)[<u>FFmpeg</u>](https://www.ffmpeg.org/) (Chuck)[<u>Developer’s Box Club</u>](https://devboxclub.com/) (Chuck)[<u>Ruby Remote Conf</u>](https://rubyremoteconf.com/) (Chuck)
 
 Would you attend an iOS Remote Conf? Email [chuck@devchat.tv](mailto:chuck@devchat.tv)
 

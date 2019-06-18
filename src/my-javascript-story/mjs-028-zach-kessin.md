@@ -48,6 +48,6 @@ Zach talks about the list of things he is working on. Starting with Startup Elm 
 
 ##### Charles
 
-[Toast Masters](http://lonepeaktoastmasters.org/)[Zapier](https://zapier.com/)[Javascriptjabber.com/slack](http://javascriptjabber.com/slack)
+[Toast Masters](https://lonepeaktoastmasters.org/)[Zapier](https://zapier.com/)[Javascriptjabber.com/slack](https://javascriptjabber.com/slack)
 
 ### Transcript

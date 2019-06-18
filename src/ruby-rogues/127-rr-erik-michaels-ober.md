@@ -14,7 +14,7 @@ tags:
 
 01:53 - Erik Michaels-Ober
 
-- [SoundCloud](http://soundcloud.com/)
+- [SoundCloud](https://soundcloud.com/)
 
 02:45 - Unofficial Rogue: Emily Stolfo
 
@@ -27,13 +27,13 @@ tags:
 09:31 - Twitter Gems
 
 - [jnunemaker/twitter](https://github.com/jnunemaker/twitter)
-- [140 Proof](http://www.140proof.com/)
+- [140 Proof](https://www.140proof.com/)
 - [faraday](https://github.com/lostisland/faraday)
-- [T](http://sferik.github.io/t/)
+- [T](https://sferik.github.io/t/)
 - [twitter / etc / erd.rb](https://github.com/sferik/twitter/blob/master/etc/erd.rb)
-- [Travis CI](http://travis-ci.org/)
-- [Rubinius](http://rubini.us/)
-- [JRuby](http://jruby.org/)
+- [Travis CI](https://travis-ci.org/)
+- [Rubinius](https://rubini.us/)
+- [JRuby](https://jruby.org/)
 
 17:21 - Other Open-Source Projects
 
@@ -41,7 +41,7 @@ tags:
 - [thor](https://github.com/erikhuda/thor)
 - [Erik's Github Repositories](https://github.com/sferik?tab=repositories)
 - [tweetstream](https://github.com/tweetstream/tweetstream)
-- [OptionParser](http://ruby-doc.org/stdlib-2.0.0/libdoc/optparse/rdoc/OptionParser.html)
+- [OptionParser](https://ruby-doc.org/stdlib-2.0.0/libdoc/optparse/rdoc/OptionParser.html)
 - [Steve Agalloco](https://github.com/spagalloco)
 - [Tony Arcieri](https://github.com/tarcieri)
 - [celluloid](https://github.com/tarcieri/celluloid)
@@ -49,9 +49,9 @@ tags:
 
 23:42 - Dependency Management
 
-- [Yehuda Katz: Using \>= Considered Harmful (or, What’s Wrong With \>=)](http://yehudakatz.com/2010/08/21/using-considered-harmful-or-whats-wrong-with/)
+- [Yehuda Katz: Using \>= Considered Harmful (or, What’s Wrong With \>=)](https://yehudakatz.com/2010/08/21/using-considered-harmful-or-whats-wrong-with/)
 
-25:17 - [Semantic Versioning](http://semver.org/)
+25:17 - [Semantic Versioning](https://semver.org/)
 
 - ~\> Twiddle waka
 - Going 1.0
@@ -68,23 +68,23 @@ tags:
 - Tests
 - [Coveralls](https://coveralls.io/)
 - [Code Climate](https://codeclimate.com/)
-- [083 RR Decomposing Fat Models with Bryan Helmkamp](http://rubyrogues.com/083-rr-decomposing-fat-models-with-bryan-helmkamp/)
-- [041 RR Code Metrics with Bryan Helmkamp](http://rubyrogues.com/041-rr-code-metrics/)
-- [Sarah Mei - "Why Hasn't Ruby Won?"](http://www.youtube.com/watch?v=tlSFBGCaAwM)
+- [083 RR Decomposing Fat Models with Bryan Helmkamp](https://rubyrogues.com/083-rr-decomposing-fat-models-with-bryan-helmkamp/)
+- [041 RR Code Metrics with Bryan Helmkamp](https://rubyrogues.com/041-rr-code-metrics/)
+- [Sarah Mei - "Why Hasn't Ruby Won?"](https://www.youtube.com/watch?v=tlSFBGCaAwM)
 
 43:51 - Maintaining Twitter Gems vs Standard Rails Gems
 
-- [Erik Michaels-Ober: Writing a Rails Engine](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
-- [Testing an engine](http://edgeguides.rubyonrails.org/engines.html#testing-an-engine)
+- [Erik Michaels-Ober: Writing a Rails Engine](https://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
+- [Testing an engine](https://edgeguides.rubyonrails.org/engines.html#testing-an-engine)
 
 47:12 - [adamantium](https://github.com/dkubb/adamantium)
 
-- [Memoization](http://en.wikipedia.org/wiki/Memoization)
+- [Memoization](https://en.wikipedia.org/wiki/Memoization)
 - [thread_safe](https://github.com/headius/thread_safe)
 
 54:32 - [hashie](https://github.com/intridea/hashie)
 
-01:05:77 - [The Null Object Pattern](http://en.wikipedia.org/wiki/Null_Object_pattern)
+01:05:77 - [The Null Object Pattern](https://en.wikipedia.org/wiki/Null_Object_pattern)
 
 01:08:27 - Gem Wrappers
 

@@ -38,7 +38,7 @@ This week on My JavaScript Story, Charles speaks with Ian Sinnott. Since being o
 - [MJS Episode 43 - Nick Disabato](https://devchat.tv/?s=nick+disabato)
 - [JSX](https://reactjs.org/docs/introducing-jsx.html), [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), and [Vue](https://vuejs.org/)
 - What are you working on now?
-- [Johnny-Five](http://johnny-five.io/) and [Arduino](https://www.arduino.cc/)
+- [Johnny-Five](https://johnny-five.io/) and [Arduino](https://www.arduino.cc/)
 - Learning hardware allows you to attach an API to anything
 - Is there anything that you have done that you are proud of?
 - Rendering static sites in React
@@ -58,7 +58,7 @@ This week on My JavaScript Story, Charles speaks with Ian Sinnott. Since being o
 - [Angular](https://angular.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vue](https://vuejs.org/)
-- [Johnny-Five](http://johnny-five.io/)
+- [Johnny-Five](https://johnny-five.io/)
 - [Gatsby](https://www.gatsbyjs.org/)
 - [react-static-webpack-plugin](https://github.com/iansinnott/react-static-webpack-plugin)
 - [react-static-boilerplate](https://github.com/iansinnott/react-static-boilerplate)

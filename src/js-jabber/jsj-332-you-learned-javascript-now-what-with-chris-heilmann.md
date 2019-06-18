@@ -16,7 +16,7 @@ tags:
 **Panel:**
 
 - [AJ O’Neal](https://twitter.com/coolaj86?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [Aimee Knight](http://www.aimeemarieknight.com)
+- [Aimee Knight](https://www.aimeemarieknight.com)
 - [Joe Eames](https://twitter.com/josepheames?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
@@ -126,7 +126,7 @@ Chris: Start growing a community.
 
 39:00 – [Chris](https://twitter.com/codepo8?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor) continues to talk.
 
-42:26 – [Aimee](http://www.aimeemarieknight.com) adds in her thoughts.
+42:26 – [Aimee](https://www.aimeemarieknight.com) adds in her thoughts.
 
 Aimee: I would encourage people to...
 
@@ -192,7 +192,7 @@ Chris: There are highly frequent websites that aren’t being maintained and the
 - [Chris Heilmann’s Website](https://christianheilmann.com)
 - [Chris Heilmann’s Medium](https://medium.com/@codepo8)
 - [Chris Heilmann’s LinkedIn](https://medium.com/@codepo8)
-- [Chris Heilmann](http://icant.co.uk)
+- [Chris Heilmann](https://icant.co.uk)
 - [Chris Heilmann’s GitHub](https://github.com/codepo8)
 - [Smashing Magazine – Chris Heilmann](https://www.smashingmagazine.com/author/christian-heilmann/)
 - [jQuery](https://jquery.com)

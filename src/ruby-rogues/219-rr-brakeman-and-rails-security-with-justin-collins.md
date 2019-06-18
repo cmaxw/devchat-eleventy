@@ -21,20 +21,20 @@ tags:
 
 - [Twitter](https://twitter.com/presidentbeef)
 - [GitHub](https://github.com/presidentbeef)
-- [Blog](http://presidentbeef.com/)
-- [Brakeman](http://brakemanscanner.org/)
+- [Blog](https://presidentbeef.com/)
+- [Brakeman](https://brakemanscanner.org/)
   - [@brakeman](https://twitter.com/brakeman)
 - [SurveyMonkey](https://www.surveymonkey.com/)
 - [Brakeman Pro](https://www.brakemanpro.com/)
   - [@brakemanpro](https://twitter.com/brakemanpro)
 
-03:40 - [Brakeman](http://brakemanscanner.org/) & [Static Analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
+03:40 - [Brakeman](https://brakemanscanner.org/) & [Static Analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
 
 04:02 - Common Security Vulnerabilities (and Definitions)
 
 - [Cross-site Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
 - [SQL Injection&nbsp;&nbsp; &nbsp;](https://en.wikipedia.org/wiki/SQL_injection)
-  - [rails-sqli.org](http://rails-sqli.org/)
+  - [rails-sqli.org](https://rails-sqli.org/)
 - [Mass Assignment](https://en.wikipedia.org/wiki/Mass_assignment_vulnerability)
 - [Open Redirects](https://www.owasp.org/index.php/Open_redirect)
 
@@ -77,7 +77,7 @@ tags:
 
 32:28 - Crowdsourcing Security (Security in Open Source)
 
-- [Terri Oda: Bringing Security to Your Open Source Project](http://opensourcebridge.org/sessions/1554)
+- [Terri Oda: Bringing Security to Your Open Source Project](https://opensourcebridge.org/sessions/1554)
 
 34:54 - The Technical Side of Brakeman and Static Analysis Tools
 
@@ -91,7 +91,7 @@ tags:
 
 48:23 - PhDsPicks
 
-["Why didn't you [just]..." and "Did you consider..." Parley Thread](http://parley.rubyrogues.com/t/why-didnt-you-just-and-did-you-consider/3246/6) (Avdi)[Object Thinking (Developer Reference) by David West](http://www.amazon.com/gp/product/0735619654/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735619654&linkCode=as2&tag=chamaxwoo-20&linkId=CSFX6XCZ6KFOVHJS) (Avdi)[Web Design - The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm) (Avdi)[Brighton Ruby Conference](http://brightonruby.com/) (Avdi)Email (Avdi)The Twitter Mute Button (Avdi)[git - the simple guide](http://rogerdudler.github.io/git-guide/) (Saron)[I Love My Campus](http://i.imgur.com/VoylY6D.gifv) (Saron)[LoneStarRuby](http://www.lonestarruby.org/) (Saron)[React Rally](http://www.reactrally.com/) (Jessica)[Livecoding.tv](http://livecoding.tv) (Jessica)[Remembering the Apollo 11 Moon Landing With the Woman Who Made It Happen](http://time.com/3948364/moon-landing-apollo-11-margaret-hamilton/) (Coraline)[Showgoers](http://showgoers.tv/) (Coraline)[AngularJS Kurs](http://www.iterativ.ch/angularjskurs/) (Chuck)[Hire Thom Parkin!](https://github.com/ParkinT/HireMe) (Chuck)[RethinkDB](http://rethinkdb.com/) (Justin) [Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age by Michael A. Hiltzik](http://www.amazon.com/gp/product/0887309895/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0887309895&linkCode=as2&tag=chamaxwoo-20&linkId=NQLXUVEANFGWPQKY) (Justin)[The Search for General Tso](http://www.imdb.com/title/tt3576038/) (Justin)
+["Why didn't you [just]..." and "Did you consider..." Parley Thread](https://parley.rubyrogues.com/t/why-didnt-you-just-and-did-you-consider/3246/6) (Avdi)[Object Thinking (Developer Reference) by David West](https://www.amazon.com/gp/product/0735619654/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735619654&linkCode=as2&tag=chamaxwoo-20&linkId=CSFX6XCZ6KFOVHJS) (Avdi)[Web Design - The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm) (Avdi)[Brighton Ruby Conference](https://brightonruby.com/) (Avdi)Email (Avdi)The Twitter Mute Button (Avdi)[git - the simple guide](https://rogerdudler.github.io/git-guide/) (Saron)[I Love My Campus](https://i.imgur.com/VoylY6D.gifv) (Saron)[LoneStarRuby](https://www.lonestarruby.org/) (Saron)[React Rally](https://www.reactrally.com/) (Jessica)[Livecoding.tv](https://livecoding.tv) (Jessica)[Remembering the Apollo 11 Moon Landing With the Woman Who Made It Happen](https://time.com/3948364/moon-landing-apollo-11-margaret-hamilton/) (Coraline)[Showgoers](https://showgoers.tv/) (Coraline)[AngularJS Kurs](https://www.iterativ.ch/angularjskurs/) (Chuck)[Hire Thom Parkin!](https://github.com/ParkinT/HireMe) (Chuck)[RethinkDB](https://rethinkdb.com/) (Justin) [Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age by Michael A. Hiltzik](https://www.amazon.com/gp/product/0887309895/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0887309895&linkCode=as2&tag=chamaxwoo-20&linkId=NQLXUVEANFGWPQKY) (Justin)[The Search for General Tso](https://www.imdb.com/title/tt3576038/) (Justin)
 
 ### Transcript
 

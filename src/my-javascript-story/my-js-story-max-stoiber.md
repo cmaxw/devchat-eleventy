@@ -40,7 +40,7 @@ Max: [Smashing Magazine](https://www.smashingmagazine.com/2017/01/styled-compone
 
 ## Episode Links:
 
-react-boilerplate,&nbsp;Vienna JS,&nbsp;carte blanche,&nbsp;[Keystone.js](http://keystonejs.com/),&nbsp;Styled components,&nbsp;Microanalytics
+react-boilerplate,&nbsp;Vienna JS,&nbsp;carte blanche,&nbsp;[Keystone.js](https://keystonejs.com/),&nbsp;Styled components,&nbsp;Microanalytics
 
 ### Transcript
 

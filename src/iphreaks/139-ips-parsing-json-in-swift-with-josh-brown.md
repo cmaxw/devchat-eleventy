@@ -20,7 +20,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) and
 
 - [Twitter](https://twitter.com/jtbrown)
 - [GitHub](https://github.com/joshuatbrown)
-- [Blog](http://roadfiresoftware.com/)
+- [Blog](https://roadfiresoftware.com/)
 - [Parsing JSON in Swift by Josh Brown](https://roadfiresoftware.com/parsing-json-in-swift/)
 
 02:23 - Why Parsing JSON in Swift is Tricky
@@ -50,7 +50,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) and
 
 24:42 - typealias
 
-- [How to use typealias to make JSON parsing more readable in Swift](http://roadfiresoftware.com/2015/07/how-to-use-typealias-to-make-json-parsing-more-readable-in-swift/)
+- [How to use typealias to make JSON parsing more readable in Swift](https://roadfiresoftware.com/2015/07/how-to-use-typealias-to-make-json-parsing-more-readable-in-swift/)
 
 26:34 - App Architecture
 
@@ -62,7 +62,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) and
 
 30:47 - ResourcesPicks
 
-[PlayNow](https://github.com/marcboquet/PlayNow) (Andrew)[VIM Adventures](http://vim-adventures.com) (Andrew)[Mondo](http://mondotees.com) (Andrew)Eat a healthy snack (Jaim)[Honeybadger](https://www.honeybadger.io/) (Chuck)[New Relic](http://newrelic.com/) (Chuck)[Ash Furrow: MVVM is Exceptionally OK](https://ashfurrow.com/blog/mvvm-is-exceptionally-ok/) (Josh)[Coupon code for 10% offParsing JSON in Swift: **iphreaks**](https://roadfiresoftware.com/parsing-json-in-swift/)
+[PlayNow](https://github.com/marcboquet/PlayNow) (Andrew)[VIM Adventures](https://vim-adventures.com) (Andrew)[Mondo](https://mondotees.com) (Andrew)Eat a healthy snack (Jaim)[Honeybadger](https://www.honeybadger.io/) (Chuck)[New Relic](https://newrelic.com/) (Chuck)[Ash Furrow: MVVM is Exceptionally OK](https://ashfurrow.com/blog/mvvm-is-exceptionally-ok/) (Josh)[Coupon code for 10% offParsing JSON in Swift: **iphreaks**](https://roadfiresoftware.com/parsing-json-in-swift/)
 
 ### Transcript
 

@@ -15,23 +15,23 @@ tags:
 2:30 - Amy Hoy Introduction
 
 - [Twitter](https://twitter.com/amyhoy)
-- [Blog](http://unicornfree.com/)
-  3:38 -&nbsp;[Best of Parley](http://www.rubyrogues.com/parley)6:10 -&nbsp;[Paul Graham: Black Swan Farming](http://paulgraham.com/swan.html)9:08 -&nbsp;[The Black Swan: Nassim Nicholas Taleb](http://www.amazon.com/The-Black-Swan-Improbable-Robustness/dp/081297381X/ref=sr_1_1?ie=UTF8&qid=1348332686&sr=8-1&keywords=the+black+swan)12:21 -&nbsp;[Dropbox](http://www.dropbox.com/)12:35 - Venture Capitalism 14:29 - Business vs Startup 15:00 -&nbsp;[Why Blacksmiths are Better at Startups Than You: Amy Hoy](http://unicornfree.com/2012/why-blacksmiths-are-better-at-startups-than-you/)16:00 - Funding 20:12 -&nbsp;[37 Signals](http://37signals.com/)20:14 -&nbsp;[GitHub](https://github.com/)21:02 - Angel Investors 21:30 - Validate Your Idea 22:40 - Customer Finding Process
+- [Blog](https://unicornfree.com/)
+  3:38 -&nbsp;[Best of Parley](https://www.rubyrogues.com/parley)6:10 -&nbsp;[Paul Graham: Black Swan Farming](https://paulgraham.com/swan.html)9:08 -&nbsp;[The Black Swan: Nassim Nicholas Taleb](https://www.amazon.com/The-Black-Swan-Improbable-Robustness/dp/081297381X/ref=sr_1_1?ie=UTF8&qid=1348332686&sr=8-1&keywords=the+black+swan)12:21 -&nbsp;[Dropbox](https://www.dropbox.com/)12:35 - Venture Capitalism 14:29 - Business vs Startup 15:00 -&nbsp;[Why Blacksmiths are Better at Startups Than You: Amy Hoy](https://unicornfree.com/2012/why-blacksmiths-are-better-at-startups-than-you/)16:00 - Funding 20:12 -&nbsp;[37 Signals](https://37signals.com/)20:14 -&nbsp;[GitHub](https://github.com/)21:02 - Angel Investors 21:30 - Validate Your Idea 22:40 - Customer Finding Process
 - Identify Customer/Market Before Idea
-  23:51 -&nbsp;[The Passionate Programmer: Chad Fowler](http://pragprog.com/book/cfcar2/the-passionate-programmer)26:14 - Would You Pay for This Right Now? 26:50 -&nbsp;[Double Your Freelancing Rate by Brennan Dunn](http://doubleyourfreelancingrate.com/)27:07 -&nbsp;[The Lean Startup: Eric Ries](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
+  23:51 -&nbsp;[The Passionate Programmer: Chad Fowler](https://pragprog.com/book/cfcar2/the-passionate-programmer)26:14 - Would You Pay for This Right Now? 26:50 -&nbsp;[Double Your Freelancing Rate by Brennan Dunn](https://doubleyourfreelancingrate.com/)27:07 -&nbsp;[The Lean Startup: Eric Ries](https://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
 - AB Experiments
   28:38 -&nbsp;[Brennan Dunn: Planscope.io](https://planscope.io/)
 - Safari Research Method
   31:30 - Rapport w/ Your VC
-- &nbsp;[Confident Ruby by Avdi Grimm](http://devblog.avdi.org/2012/06/05/confident-ruby-beta/)
+- &nbsp;[Confident Ruby by Avdi Grimm](https://devblog.avdi.org/2012/06/05/confident-ruby-beta/)
   36:54 - Better software 38:06 - Cherishing Problems 40:57 - Failure Archetypes
 - Cure for Religion
 - Kosher Ham
 - Getting in a Land War in Asia
 - Build a Honey Trap
-  46:05 - Choosing Customers (Distribution Mechanisms) 47:23 -&nbsp;[Gary Vaynerchuk](http://garyvaynerchuk.com/)50:20 -&nbsp;[Don Draper](http://vimeo.com/20736616) Example 54:04 -&nbsp;[Kickstarter](https://www.kickstarter.com/)
-- &nbsp;[“Shut Up and Take My Money!” Or, How to Pitch so People Will Listen: Amy Hoy](http://unicornfree.com/2012/shut-up-and-take-my-money-or-how-to-pitch-so-people-will-listen/)
-  54:30 - Getting money upfront 55:00 -&nbsp;[LIFX](http://lifx.co/)56:20 -&nbsp;[SkyCube Project](http://www.kickstarter.com/projects/880837561/skycube-the-first-satellite-launched-by-you)56:40 - Diaspora
+  46:05 - Choosing Customers (Distribution Mechanisms) 47:23 -&nbsp;[Gary Vaynerchuk](https://garyvaynerchuk.com/)50:20 -&nbsp;[Don Draper](https://vimeo.com/20736616) Example 54:04 -&nbsp;[Kickstarter](https://www.kickstarter.com/)
+- &nbsp;[“Shut Up and Take My Money!” Or, How to Pitch so People Will Listen: Amy Hoy](https://unicornfree.com/2012/shut-up-and-take-my-money-or-how-to-pitch-so-people-will-listen/)
+  54:30 - Getting money upfront 55:00 -&nbsp;[LIFX](https://lifx.co/)56:20 -&nbsp;[SkyCube Project](https://www.kickstarter.com/projects/880837561/skycube-the-first-satellite-launched-by-you)56:40 - Diaspora
 
 ### Transcript
 

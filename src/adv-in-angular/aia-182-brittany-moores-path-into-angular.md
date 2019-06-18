@@ -82,6 +82,6 @@ Ward
 Brittany
 
 - [_Hit Refresh_ by Satya Nadella](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA)
-- [Reigns Her Majesty](http://store.steampowered.com/app/717640/Reigns_Her_Majesty/)
+- [Reigns Her Majesty](https://store.steampowered.com/app/717640/Reigns_Her_Majesty/)
 
 ### Transcript

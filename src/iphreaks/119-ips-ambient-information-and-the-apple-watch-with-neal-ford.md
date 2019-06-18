@@ -16,13 +16,13 @@ tags:
 
 - [Twitter](https://twitter.com/neal4d)
 - [GitHub](https://github.com/nealford)
-- [Blog](http://nealford.com/)
-- [ThoughtWorks](http://www.thoughtworks.com/)
+- [Blog](https://nealford.com/)
+- [ThoughtWorks](https://www.thoughtworks.com/)
 
 01:42 - Ambient Information and the Apple Watch
 
 - “Mean Wrangler”
-- [Ambient](http://dictionary.reference.com/browse/ambient) = Accessible and Available
+- [Ambient](https://dictionary.reference.com/browse/ambient) = Accessible and Available
 
 06:39 - Benefits of Having Ambient Information
 
@@ -35,8 +35,8 @@ tags:
 
 15:58 - Visualizing Information, User Experience
 
-- [Dark Sky](http://darkskyapp.com/)
-- [Apple Pay](http://www.apple.com/apple-pay/)
+- [Dark Sky](https://darkskyapp.com/)
+- [Apple Pay](https://www.apple.com/apple-pay/)
 
 17:09 - Apple Watch as a Fashion Accessory
 
@@ -44,7 +44,7 @@ tags:
 
 - Bluetooth
 - Timers
-- Texting/Voice Control w/ [Siri](http://www.apple.com/ios/siri/)
+- Texting/Voice Control w/ [Siri](https://www.apple.com/ios/siri/)
 - Reminders
   - [OmniFocus](https://www.omnigroup.com/omnifocus)
 
@@ -52,7 +52,7 @@ tags:
 
 23:46 - [Google Glass](https://www.google.com/glass/start/)
 
-- [Neal Ford: Ambient Information](http://nealford.com/memeagora/2015/07/20/Ambient_information.html)
+- [Neal Ford: Ambient Information](https://nealford.com/memeagora/2015/07/20/Ambient_information.html)
 
 26:45 - Apps That Shouldn’t Push Ambient Information
 
@@ -77,7 +77,7 @@ Other DevChat.tv Episodes Featuring Neal Ford
 - [Freelancers' Show Episode #145: Life as a Traveling Consultant with Neal Ford](https://devchat.tv/freelancers/145-fs-life-as-a-traveling-consultant-with-neal-ford) &nbsp;&nbsp;
   Picks
 
-[Remote Year](http://www.remoteyear.com/itinerary/) (Alondo) Homemade Chicken Broth (Jaim)[Adafruit Inductries](https://www.adafruit.com/) (Mike)[Soaring Society of America](http://ssa.org/) (Mike)[HMDX - JAM XT Extreme Wireless](http://www.bestbuy.com/site/hmdx-jam-xt-extreme-wireless-speaker-purple/9185158.p?id=1218994549711&skuId=9185158) (Chuck)[Orphan Black](http://www.bbcamerica.com/orphan-black) (Chuck) iOS Remote Conf! Interested? Email chuck@devchat.tv (Chuck)[Seveneves: A Novel by Neal Stephenson](http://www.amazon.com/gp/product/0062190377/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062190377&linkCode=as2&tag=chamaxwoo-20&linkId=VQ7KLQDQYE2GXNXB) (Neal)[Badass: Making Users Awesome by Kathy Sierra](http://www.amazon.com/gp/product/1491919019/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491919019&linkCode=as2&tag=chamaxwoo-20&linkId=RASAJASZDGK254R2) (Neal)[Bose SoundLink Mini Bluetooth Speaker II](http://www.amazon.com/gp/product/B00WK47VEW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WK47VEW&linkCode=as2&tag=chamaxwoo-20&linkId=XGVJYY2EQ5NPHF7B) (Neal)[Beats II Bluetooth Headset](http://www.beatsbydre.com/headphones/beats-studio-wireless.html) (Neal)
+[Remote Year](https://www.remoteyear.com/itinerary/) (Alondo) Homemade Chicken Broth (Jaim)[Adafruit Inductries](https://www.adafruit.com/) (Mike)[Soaring Society of America](https://ssa.org/) (Mike)[HMDX - JAM XT Extreme Wireless](https://www.bestbuy.com/site/hmdx-jam-xt-extreme-wireless-speaker-purple/9185158.p?id=1218994549711&skuId=9185158) (Chuck)[Orphan Black](https://www.bbcamerica.com/orphan-black) (Chuck) iOS Remote Conf! Interested? Email chuck@devchat.tv (Chuck)[Seveneves: A Novel by Neal Stephenson](https://www.amazon.com/gp/product/0062190377/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062190377&linkCode=as2&tag=chamaxwoo-20&linkId=VQ7KLQDQYE2GXNXB) (Neal)[Badass: Making Users Awesome by Kathy Sierra](https://www.amazon.com/gp/product/1491919019/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491919019&linkCode=as2&tag=chamaxwoo-20&linkId=RASAJASZDGK254R2) (Neal)[Bose SoundLink Mini Bluetooth Speaker II](https://www.amazon.com/gp/product/B00WK47VEW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WK47VEW&linkCode=as2&tag=chamaxwoo-20&linkId=XGVJYY2EQ5NPHF7B) (Neal)[Beats II Bluetooth Headset](https://www.beatsbydre.com/headphones/beats-studio-wireless.html) (Neal)
 
 ### Transcript
 

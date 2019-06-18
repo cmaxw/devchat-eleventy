@@ -5,7 +5,7 @@ title: >
 date: 2016-06-16 07:00:13
 episode_number: 097
 duration: 47:53
-audio_url: http://media.devchat.tv/adventures-in-angular/AiA097PascalPrecht.mp3
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA097PascalPrecht.mp3
 podcast: adv-in-angular
 tags:
   - adv_in_angular
@@ -18,24 +18,24 @@ tags:
 
 - [Twitter](https://twitter.com/PascalPrecht)
 - [GitHub](https://github.com/PascalPrecht)
-- [Blog](http://pascalprecht.github.io/)
+- [Blog](https://pascalprecht.github.io/)
   04:29 - [ng-conf](https://www.ng-conf.org/)
 - [Angular-upgrade-demo](https://github.com/thoughtram/angular-upgrade-demo)
   06:42 - Dependency Injection; [@Injectable](https://angular.io/docs/ts/latest/api/core/Injectable-decorator.html)
 - emitDecoratorMetadata
   12:51 - Component Interaction and Communication21:35 - [ContentChildren](https://angular.io/docs/ts/latest/api/core/index/ContentChildren-var.html) and [ContentChild](https://angular.io/docs/ts/latest/api/core/ContentChild-var.html)23:34 - [ViewChildren](https://angular.io/docs/js/latest/api/core/ViewChildren-var.html) and [ViewChild](https://angular.io/docs/ts/latest/api/core/ViewChild-var.html)24:31 - Change Detection
-- [Pascal Precht: Angular 2 Change Detection Explained](http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
+- [Pascal Precht: Angular 2 Change Detection Explained](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
   &nbsp;Picks
-- [Professional Ado Rds Programming With Asp](http://www.amazon.com/Professional-Ado-Rds-Programming-Asp/dp/1861001649) (Lukas)
-- [Data-Driven Services with Silverlight 2 by John Papa](http://www.amazon.com/Data-Driven-Services-Silverlight-John-Papa/dp/0596523092/ref=sr_1_3?s=books&ie=UTF8&qid=1464214393&sr=1-3) (Ward)
+- [Professional Ado Rds Programming With Asp](https://www.amazon.com/Professional-Ado-Rds-Programming-Asp/dp/1861001649) (Lukas)
+- [Data-Driven Services with Silverlight 2 by John Papa](https://www.amazon.com/Data-Driven-Services-Silverlight-John-Papa/dp/0596523092/ref=sr_1_3?s=books&ie=UTF8&qid=1464214393&sr=1-3) (Ward)
 - [ZEIT](https://zeit.co/) (Joe)
 - [Overwatch](https://playoverwatch.com/) (Joe)
-- [5thingsAngular](http://5thingsangular.github.io/) (Pascal)
+- [5thingsAngular](https://5thingsangular.github.io/) (Pascal)
 - [Dr Pepper](https://www.drpepper.com/) (Pascal)
-- [NOMAD](http://www.hellonomad.com/) (John)
-- [Gilderoy Lockhart](http://harrypotter.wikia.com/wiki/Gilderoy_Lockhart) (John)
-- [RIF6 Cube 2-inch Mobile Projector](http://www.amazon.com/RIF6-Projector-120-inch-Portable-Rechargeable/dp/B00QXS8L6I?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) (Chuck)
-- [Fully Alive: Lighten Up and Live - A Journey that Will Change Your Life by Ken Davis](http://www.amazon.com/Fully-Alive-Lighten-Journey-Change/dp/0849948428?ie=UTF8&keywords=fully%20alive&qid=1465489342&ref_=sr_1_3&s=boost&sr=8-3&srs=12034488011) (Chuck)
+- [NOMAD](https://www.hellonomad.com/) (John)
+- [Gilderoy Lockhart](https://harrypotter.wikia.com/wiki/Gilderoy_Lockhart) (John)
+- [RIF6 Cube 2-inch Mobile Projector](https://www.amazon.com/RIF6-Projector-120-inch-Portable-Rechargeable/dp/B00QXS8L6I?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) (Chuck)
+- [Fully Alive: Lighten Up and Live - A Journey that Will Change Your Life by Ken Davis](https://www.amazon.com/Fully-Alive-Lighten-Journey-Change/dp/0849948428?ie=UTF8&keywords=fully%20alive&qid=1465489342&ref_=sr_1_3&s=boost&sr=8-3&srs=12034488011) (Chuck)
 
 ### Transcript
 

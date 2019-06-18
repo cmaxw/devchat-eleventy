@@ -14,34 +14,34 @@ tags:
 
 ### Panel
 
-- Erik Byrn ([twitter](https://twitter.com/ebryn)&nbsp;[github](https://github.com/ebryn)&nbsp;[blog](http://www.prototypal.io/))
+- Erik Byrn ([twitter](https://twitter.com/ebryn)&nbsp;[github](https://github.com/ebryn)&nbsp;[blog](https://www.prototypal.io/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick)&nbsp;[github](https://github.com/iammerrick))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev)&nbsp;[github](https://github.com/aaronfrost)&nbsp;[blog](http://www.jsdotnext.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://blog.coolaj86.com/)&nbsp;[youtube](http://youtube.com/coolaj86))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Charles Ma[x Wood](https://twitter.com/coolaj86)([twitte](https://github.com/coolaj86/)[r](http://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub &nbsp;Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev)&nbsp;[github](https://github.com/aaronfrost)&nbsp;[blog](https://www.jsdotnext.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://blog.coolaj86.com/)&nbsp;[youtube](https://youtube.com/coolaj86))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Charles Ma[x Wood](https://twitter.com/coolaj86)([twitte](https://github.com/coolaj86/)[r](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub &nbsp;Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-02:26 - Erik Byrn Introduction 06:12 - [Ember.js](http://emberjs.com/) 07:43 - [htmlbars](https://github.com/tildeio/htmlbars)
+02:26 - Erik Byrn Introduction 06:12 - [Ember.js](https://emberjs.com/) 07:43 - [htmlbars](https://github.com/tildeio/htmlbars)
 
-- [Handlebars.js](http://handlebarsjs.com/)
+- [Handlebars.js](https://handlebarsjs.com/)
 - Dom Building
 - Precompile Phase
   14:23 - Web Components
-- [Polymer](http://www.polymer-project.org/)
+- [Polymer](https://www.polymer-project.org/)
   19:16 - Performance 25:08 - Web Components (Cont’d)
 - Selector-based Programming
   30:14 - Data Bindings & Rendering
 - The Group Helper
 - Dropping Down / Layering Techniques
-  - [Improving Netflix’s Operational Visibility with Real-Time Insight Tools](http://techblog.netflix.com/2014/01/improving-netflixs-operational.html)
-  - [Discourse](http://www.discourse.org/)
+  - [Improving Netflix’s Operational Visibility with Real-Time Insight Tools](https://techblog.netflix.com/2014/01/improving-netflixs-operational.html)
+  - [Discourse](https://www.discourse.org/)
     36:10 - Productivity and Applications
-- [TodoMVC](http://todomvc.com/)
+- [TodoMVC](https://todomvc.com/)
 - Learning Ember
-  - [Embercasts](http://www.embercasts.com/)
+  - [Embercasts](https://www.embercasts.com/)
     40:47 - Ember: Basic Features 44:08 - [ember-cli](https://github.com/stefanpenner/ember-cli)
 - [broccoli](https://www.npmjs.org/package/broccoli)
 - [esnext](https://github.com/square/esnext)
@@ -49,21 +49,21 @@ tags:
   - [regenerator](https://github.com/facebook/regenerator)
     52:00 - (Transitional) Transpilation
 - [traceur-compiler](https://github.com/google/traceur-compiler)
-- [JSHint](http://www.jshint.com/)
+- [JSHint](https://www.jshint.com/)
 
 ### Picks
 
-- [JSCHANNEL](http://jschannel.com/) (Aaron)
-- [Google I/O Extended - Utah Edition](http://www.gdgut.com/io-extended/) (Aaron)
-- [Atmosphere: Southsiders](http://rd.io/x/QVyxJCIcQO4/) (Merrick)
-- [Repl Electric - The Stars](http://vimeo.com/95988263) (Jamison)
-- [TwitchGIF](http://twitchgif.i.tv/) (Jamison)
+- [JSCHANNEL](https://jschannel.com/) (Aaron)
+- [Google I/O Extended - Utah Edition](https://www.gdgut.com/io-extended/) (Aaron)
+- [Atmosphere: Southsiders](https://rd.io/x/QVyxJCIcQO4/) (Merrick)
+- [Repl Electric - The Stars](https://vimeo.com/95988263) (Jamison)
+- [TwitchGIF](https://twitchgif.i.tv/) (Jamison)
 - [Sabertron](https://www.kickstarter.com/projects/levelup/sabertron-foam-swords-with-electronic-scoring) (Joe)
-- [[Joe's Pluralsight Course] Bower Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/bower-fundamentals) (Joe)
-- [The Vampire Earth Series by E.E. Knight](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=vampire%20earth&sprefix=vampire+ear%2Caps&rh=i%3Aaps%2Ck%3Avampire%20earth) (Joe)
-- [Warehouse 13](http://www.syfy.com/warehouse13) (Chuck)
-- [repl.it](http://repl.it/) (Chuck)
-- [[Videos] Ember Conf 2014](http://confreaks.com/events/emberconf2014) (Erik)
+- [[Joe's Pluralsight Course] Bower Fundamentals](https://pluralsight.com/training/Courses/TableOfContents/bower-fundamentals) (Joe)
+- [The Vampire Earth Series by E.E. Knight](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=vampire%20earth&sprefix=vampire+ear%2Caps&rh=i%3Aaps%2Ck%3Avampire%20earth) (Joe)
+- [Warehouse 13](https://www.syfy.com/warehouse13) (Chuck)
+- [repl.it](https://repl.it/) (Chuck)
+- [[Videos] Ember Conf 2014](https://confreaks.com/events/emberconf2014) (Erik)
 - [esnext](https://github.com/square/esnext) (Erik)
 - [pretender](https://github.com/trek/pretender) (Erik)
 

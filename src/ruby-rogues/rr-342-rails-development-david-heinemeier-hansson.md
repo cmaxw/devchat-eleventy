@@ -48,15 +48,15 @@ tags:
 - VR
 - And much much more
   **Links:**
-- [http://david.heinemeierhansson.com](http://david.heinemeierhansson.com)
+- [https://david.heinemeierhansson.com](https://david.heinemeierhansson.com)
 - [https://twitter.com/internetofshit?lang=en](https://twitter.com/internetofshit?lang=en)
 - [The ReWork Podcast](https://rework.fm)
 - @dhh
   **Picks:** Dave
 - [Minio](https://github.com/minio/minio)
   David
-- [co2meter.com](http://co2meter.com)
-- [Sensor Push](http://www.sensorpush.com)
+- [co2meter.com](https://co2meter.com)
+- [Sensor Push](https://www.sensorpush.com)
 - [The Meditations&nbsp;](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X)
   Eric
 - [Secret of Luck](https://www.youtube.com/watch?v=O4mN33w5Ftw)

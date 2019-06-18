@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)- use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/)- use the code “devchat” for $100 credit
 - [Netlify](https://www.netlify.com/)
 - [Clubhouse](https://clubhouse.io/jsjabber)
 - [CacheFly](https://www.cachefly.com/)
@@ -27,7 +27,7 @@ In this episode of JavaScript Jabber, the panelists talk with Tommy Hodgins who 
 - [Qaffiene](https://github.com/tomhodgins/qaffeine)
 - [Deqaf](https://github.com/tomhodgins/deqaf)
 - [Tommy’s Twitter](https://twitter.com/innovati?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-- [Fizzbuzz](http://staticresource.com/fizzbuzz.html)
+- [Fizzbuzz](https://staticresource.com/fizzbuzz.html)
 &nbsp;
 ### **Picks**
  **Joe**

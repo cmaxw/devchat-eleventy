@@ -41,7 +41,7 @@ tags:
 
 **Picks:** Dave
 
-- [rubyonrails.link](http://rubyonrails.link)
+- [rubyonrails.link](https://rubyonrails.link)
 - [Cure Coin](https://curecoin.net)
   David
 - [Article - How Brands Turn Trolling&nbsp; into a Marketing Strategy](https://melmagazine.com/how-brands-turned-trolling-into-a-marketing-strategy-a486654f2096?gi=6cc55a746fad)
@@ -53,10 +53,10 @@ Eric
 - [iPad Case](https://www.poeticcases.com/products/lumos-2017-apple-ipad-pro-10-5)
   Charles
 - [New Shows&nbsp; - React, View and Elixir Indiegogo](https://www.indiegogo.com)
-- [Avengers Infinity](http://Avengers%20Infinity)
+- [Avengers Infinity](https://Avengers%20Infinity)
 - [Docker](https://www.docker.com)
   Brian
-- [Korg Gaget](http://www.korg.com/us/products/software/korg_gadget/)
+- [Korg Gaget](https://www.korg.com/us/products/software/korg_gadget/)
 - [Pragmatic Studios](https://pragmaticstudio.com)
 
 ### Transcript

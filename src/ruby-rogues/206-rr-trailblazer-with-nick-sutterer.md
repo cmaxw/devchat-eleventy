@@ -14,12 +14,12 @@ tags:
 
 02:53 - Nick Sutterer Introduction
 
-- [Twitter](http://www.twitter.com/apotonick)
+- [Twitter](https://www.twitter.com/apotonick)
 - [GitHub](https://github.com/apotonick)
-- [Blog](http://nicksda.apotomo.de/)
+- [Blog](https://nicksda.apotomo.de/)
 - [Trailblazer: A New Architecture For Rails by Nick Sutterer](https://leanpub.com/trailblazer)
 
-03:31 -&nbsp;[Trailblazer](http://www.trailblazerb.org/)
+03:31 -&nbsp;[Trailblazer](https://www.trailblazerb.org/)
 
 - [[GitHub] trailblazer](https://github.com/apotonick/trailblazer)
 - 04:56 - Form Object
@@ -27,9 +27,9 @@ tags:
 
 07:28 - Validations
 
-- [ActiveModel::Validations](http://api.rubyonrails.org/classes/ActiveModel/Validations.html)
+- [ActiveModel::Validations](https://api.rubyonrails.org/classes/ActiveModel/Validations.html)
 - [lotus/validations](https://github.com/lotus/validations)
-  - [Introducing&nbsp;](http://lucaguidi.com/2014/10/23/introducing-lotus-validations.html)[Lotus::Validations](http://lucaguidi.com/2014/10/23/introducing-lotus-validations.html)
+  - [Introducing&nbsp;](https://lucaguidi.com/2014/10/23/introducing-lotus-validations.html)[Lotus::Validations](https://lucaguidi.com/2014/10/23/introducing-lotus-validations.html)
 
 08:47 - Decoupling
 
@@ -45,11 +45,11 @@ tags:
 
 14:57 - How is Using Trailblazer Different?
 
-18:17 - What Would&nbsp;[DHH](http://www.twitter.com/DHH)&nbsp;Think?
+18:17 - What Would&nbsp;[DHH](https://www.twitter.com/DHH)&nbsp;Think?
 
 19:32 - Trailblazer as an Extra Layer
 
-- [Single Responsibility Principle](http://en.wikipedia.org/wiki/Single_responsibility_principle)
+- [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 - Monoliths
   - [RailsConf 2015: David Heinemeier Hansson Keynote](https://www.youtube.com/watch?v=oMlX9i9Icno)
 
@@ -75,7 +75,7 @@ Deserialization
 - [reform](https://github.com/apotonick/reform)
 - [roar](https://github.com/apotonick/roar)
 - [cells](https://github.com/apotonick/cells)
-  44:16 - GeneratorsPicks[A Gentleman’s Guide To Street Harassment](https://medium.com/human-parts/a-gentlemans-guide-to-street-harassment-fbab3410b340) (Saron)[Tor and HTTPS](https://www.eff.org/pages/tor-and-https) (Saron)[How it feels to watch a user test your product for the first time](http://imgur.com/gallery/GpWZtCn) (Saron)[Humane](http://humanedevelopment.org/)[Development](http://humanedevelopment.org/) (Coraline)[The Left Hand of Darkness](http://www.bbc.co.uk/programmes/b05pkpgg) (Coraline)[Star Wars: Episode VII - The Force Awakens](http://www.imdb.com/title/tt2488496/) (Chuck)[WorkFlowy](https://workflowy.com/) (Chuck)[Ruby Rogues Episode #204: Limerence with Dave Thomas](http://devchat.tv/ruby-rogues/204-rr-limerence-with-dave-thomas) (Chuck)[JS Remote Conf Talks](https://www.youtube.com/playlist?list=PLt8NYnKC3dzL95z5xksIZHxFjErPlC3Xq) (Chuck)[Trailblazer: A New Architecture For Rails by Nick Sutterer](https://leanpub.com/trailblazer) (Nick)[[YouTube] Cinco Face Time Party Snoozer](https://www.youtube.com/watch?v=Tvu2ZI329V4) (Nick)
+  44:16 - GeneratorsPicks[A Gentleman’s Guide To Street Harassment](https://medium.com/human-parts/a-gentlemans-guide-to-street-harassment-fbab3410b340) (Saron)[Tor and HTTPS](https://www.eff.org/pages/tor-and-https) (Saron)[How it feels to watch a user test your product for the first time](https://imgur.com/gallery/GpWZtCn) (Saron)[Humane](https://humanedevelopment.org/)[Development](https://humanedevelopment.org/) (Coraline)[The Left Hand of Darkness](https://www.bbc.co.uk/programmes/b05pkpgg) (Coraline)[Star Wars: Episode VII - The Force Awakens](https://www.imdb.com/title/tt2488496/) (Chuck)[WorkFlowy](https://workflowy.com/) (Chuck)[Ruby Rogues Episode #204: Limerence with Dave Thomas](https://devchat.tv/ruby-rogues/204-rr-limerence-with-dave-thomas) (Chuck)[JS Remote Conf Talks](https://www.youtube.com/playlist?list=PLt8NYnKC3dzL95z5xksIZHxFjErPlC3Xq) (Chuck)[Trailblazer: A New Architecture For Rails by Nick Sutterer](https://leanpub.com/trailblazer) (Nick)[[YouTube] Cinco Face Time Party Snoozer](https://www.youtube.com/watch?v=Tvu2ZI329V4) (Nick)
 
 ### Transcript
 

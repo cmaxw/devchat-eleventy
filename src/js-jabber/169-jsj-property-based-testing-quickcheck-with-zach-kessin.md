@@ -16,12 +16,12 @@ tags:
 
 - [Twitter](https://twitter.com/zkessin)
 - [GitHub](https://github.com/zkessin/)
-- [Zach's Books](http://www.oreilly.com/pub/au/2277)
-- [Parrot](http://parrot-uni.com)
-- [JavaScript Jabber: Episode #057: Functional Programming with Zach Kessin](http://devchat.tv/js-jabber/057-jsj-functional-programming-with-zach-kessin)
-- [Testing Erlang With Quickcheck Book](http://www.erlang-quickcheck-book.com/)
+- [Zach's Books](https://www.oreilly.com/pub/au/2277)
+- [Parrot](https://parrot-uni.com)
+- [JavaScript Jabber: Episode #057: Functional Programming with Zach Kessin](https://devchat.tv/js-jabber/057-jsj-functional-programming-with-zach-kessin)
+- [Testing Erlang With Quickcheck Book](https://www.erlang-quickcheck-book.com/)
 
-04:00 - [Mostly Erlang Podcast](http://mostlyerlang.wordpress.com/)
+04:00 - [Mostly Erlang Podcast](https://mostlyerlang.wordpress.com/)
 
 05:27 - Property-based Testing ([QuickCheck](https://hackage.haskell.org/package/QuickCheck))
 
@@ -43,7 +43,7 @@ tags:
 
 35:57 - Test FailuresPanel
 
-[Nolan Lawson: Taming the asynchronous beast with ES7](http://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html) (Aimee)[Nodevember](http://nodevember.org/) (Aimee)[Hipster Sound](http://hipstersound.com/) (Jamison)[Om Next by David Nolen](https://www.youtube.com/watch?v=ByNs9TG30E8&feature=youtu.be)&nbsp;(Jamison)[Gallant - Weight In Gold](https://open.spotify.com/track/6W9diysjR1V67SRLaygwlI) (Jamison)[React Rally](http://www.reactrally.com/) (Jamison)[Better Off Ted](http://www.imdb.com/title/tt1235547/) (Joe)[Armada: A Novel by Ernest Cline](http://www.amazon.com/gp/product/0804137250/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137250&linkCode=as2&tag=chamaxwoo-20&linkId=Z7OKUSEBIBXRA5XV) (Joe)[Testing Erlang With Quickcheck Book](http://www.erlang-quickcheck-book.com/) (Zach)[Parrot Universal Notification Interface](http://parrot-uni.com) (Zach)[The Famine of Men by Richard H. Kessin](http://www.amazon.com/gp/product/1491868848/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491868848&linkCode=as2&tag=chamaxwoo-20&linkId=OBJZ6LTA3FWMC5WX) (Zach)
+[Nolan Lawson: Taming the asynchronous beast with ES7](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html) (Aimee)[Nodevember](https://nodevember.org/) (Aimee)[Hipster Sound](https://hipstersound.com/) (Jamison)[Om Next by David Nolen](https://www.youtube.com/watch?v=ByNs9TG30E8&feature=youtu.be)&nbsp;(Jamison)[Gallant - Weight In Gold](https://open.spotify.com/track/6W9diysjR1V67SRLaygwlI) (Jamison)[React Rally](https://www.reactrally.com/) (Jamison)[Better Off Ted](https://www.imdb.com/title/tt1235547/) (Joe)[Armada: A Novel by Ernest Cline](https://www.amazon.com/gp/product/0804137250/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137250&linkCode=as2&tag=chamaxwoo-20&linkId=Z7OKUSEBIBXRA5XV) (Joe)[Testing Erlang With Quickcheck Book](https://www.erlang-quickcheck-book.com/) (Zach)[Parrot Universal Notification Interface](https://parrot-uni.com) (Zach)[The Famine of Men by Richard H. Kessin](https://www.amazon.com/gp/product/1491868848/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491868848&linkCode=as2&tag=chamaxwoo-20&linkId=OBJZ6LTA3FWMC5WX) (Zach)
 
 ### Transcript
 

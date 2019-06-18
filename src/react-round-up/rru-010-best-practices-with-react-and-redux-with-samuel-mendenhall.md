@@ -24,7 +24,7 @@ In this episode of React Round Up, the panel discusses best practices with React
 **In particular, we dive pretty deep on:**
 
 - Sam intro
-- [jQuery](http://jquery.com/), [Backbone](http://backbonejs.org/), and [Angular](https://angular.io/)
+- [jQuery](https://jquery.com/), [Backbone](https://backbonejs.org/), and [Angular](https://angular.io/)
 - [React](https://reactjs.org/) and [React Native](https://facebook.github.io/react-native/)
 - New role at Microsoft in commercial software engineering group
 - Working a lot with React and tooling
@@ -48,8 +48,8 @@ In this episode of React Round Up, the panel discusses best practices with React
 
 **Links:**
 
-- [jQuery](http://jquery.com/)
-- [Backbone](http://backbonejs.org/)
+- [jQuery](https://jquery.com/)
+- [Backbone](https://backbonejs.org/)
 - [Angular](https://angular.io/)
 - [React](https://reactjs.org/)
 - [Red Hat](https://www.redhat.com/en)

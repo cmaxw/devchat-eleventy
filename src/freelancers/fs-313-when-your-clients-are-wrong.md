@@ -123,7 +123,7 @@ Erick:
 
 Reuven:
 
-- [Podia](http://podia.com/)
+- [Podia](https://podia.com/)
 - [The Sense of Style by Steven Pinker](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing/dp/0143127799)
 
 ### Transcript

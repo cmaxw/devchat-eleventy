@@ -16,14 +16,14 @@ tags:
 
 - [Twitter](https://twitter.com/dmaurolizer)
 - [GitHub](https://github.com/dmauro)
-- [Blog](http://dmauro.com/)
-- [BuzzFeed](http://www.buzzfeed.com/)
+- [Blog](https://dmauro.com/)
+- [BuzzFeed](https://www.buzzfeed.com/)
 
 01:17 - Kevin Lord Introduction
 
 - [Twitter](https://twitter.com/lordkev)
 - [GitHub](https://github.com/lordkev)
-- [BuzzFeed](http://www.buzzfeed.com/)
+- [BuzzFeed](https://www.buzzfeed.com/)
 
 01:54 - [mattress](https://github.com/buzzfeed/mattress)
 
@@ -48,7 +48,7 @@ tags:
 
 39:13 - What’s next?Picks
 
-[How The Wrong Name Cost Our Startup \$10,000](https://jell.com/blog/how-the-wrong-name-cost-our-startup/) (Alondo)[Patterns](http://krillapps.com/patterns/) (Andrew)[CodeRunner](https://coderunnerapp.com) (Andrew)[Odesi](http://odesi.mixedinkey.com) (Andrew) Recognizing what things are truly important (Chuck) Cleaning your office (Chuck)[Mattt Thompson: NSURLCache](http://nshipster.com/nsurlcache/) (Jaim)[Josh Johnson: Intercepting Requests with NSURLProtocol](http://objectivetoast.com/2014/05/19/intercepting-requests-with-nsurlprotocol/) (Jaim)[Swift.org](https://swift.org/) (David)[@wkwebview](https://twitter.com/wkwebview) (David)[Hackaday](http://hackaday.com) (Kevin)[Jamaica Ting](http://www.jamaicating.com) (Kevin)
+[How The Wrong Name Cost Our Startup \$10,000](https://jell.com/blog/how-the-wrong-name-cost-our-startup/) (Alondo)[Patterns](https://krillapps.com/patterns/) (Andrew)[CodeRunner](https://coderunnerapp.com) (Andrew)[Odesi](https://odesi.mixedinkey.com) (Andrew) Recognizing what things are truly important (Chuck) Cleaning your office (Chuck)[Mattt Thompson: NSURLCache](https://nshipster.com/nsurlcache/) (Jaim)[Josh Johnson: Intercepting Requests with NSURLProtocol](https://objectivetoast.com/2014/05/19/intercepting-requests-with-nsurlprotocol/) (Jaim)[Swift.org](https://swift.org/) (David)[@wkwebview](https://twitter.com/wkwebview) (David)[Hackaday](https://hackaday.com) (Kevin)[Jamaica Ting](https://www.jamaicating.com) (Kevin)
 
 ### Transcript
 

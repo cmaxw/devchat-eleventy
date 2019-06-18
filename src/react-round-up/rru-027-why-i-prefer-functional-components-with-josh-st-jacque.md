@@ -75,7 +75,7 @@ In this episode, the panel talks with Josh St. Jacque who is married with two ki
 
 31:42 – Nader to Josh: “Any other topics?”
 
-31:54 – One thing Josh would like to say is that you and your team are on the same page. You don’t want to get into fights on what style you are using. You don’t want to constantly be changing the code. Use one thing at a time or it will get real messy too quick. One example of this is from Ruby: [hash rockets.](http://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html)
+31:54 – One thing Josh would like to say is that you and your team are on the same page. You don’t want to get into fights on what style you are using. You don’t want to constantly be changing the code. Use one thing at a time or it will get real messy too quick. One example of this is from Ruby: [hash rockets.](https://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html)
 
 33:35 – How to find Josh online...look at links below!
 

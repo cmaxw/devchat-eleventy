@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [Angular Bootcamp](https://angularbootcamp.com/)
 - [TripleByte](https://triplebyte.com/angular)
 - [Cachefly](https://www.cachefly.com/)
@@ -48,10 +48,10 @@ Ben Nadel introduces the irrational demonization of two-way data-binding in Angu
 **Ward Bell**
 - Learn how to sharpen a pencil
 **Ben Nadel**
-- [http://icon.no.sh/](http://icon.no.sh/)
+- [https://icon.no.sh/](https://icon.no.sh/)
 - [https://www.netlify.com/](https://www.netlify.com/)
 - The Marvelous Mrs. Maisel
-- [http://freakonomics.com/](http://freakonomics.com/)
+- [https://freakonomics.com/](https://freakonomics.com/)
 - [https://www.npr.org/podcasts/510308/hidden-brain](https://www.npr.org/podcasts/510308/hidden-brain)
 
 

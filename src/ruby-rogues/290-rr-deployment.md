@@ -20,11 +20,11 @@ tags:
 - [Docker](https://www.docker.com/)
 - [Chef](https://www.chef.io/chef/)
   34:05 - [Nginx](https://www.nginx.com/) and [Passenger](https://www.phusionpassenger.com/)39:35 - Handling caching issues and increasing server space44:25 - Methods for deploying46:30 - Team size and deployment
-- [Capistrano](http://capistranorb.com/)
+- [Capistrano](https://capistranorb.com/)
   49:40 - Monitoring tools
 - [Code Climate](https://codeclimate.com/)
 - [Honey Badger](https://www.honeybadger.io/)
-- [Zabbix](http://www.zabbix.com/)
+- [Zabbix](https://www.zabbix.com/)
 - [NewRelic](https://newrelic.com/?utm_campaign=awr+brand-new_relic+FY17&utm_medium=PS&utm_source=GNORAM&utm_content=NewRelicExact)
 - [TrackJS](https://trackjs.com/)
 - [JSJ 138 with Todd Gardner](https://devchat.tv/js-jabber/138-jsj-trackjs-with-todd-gardner)

@@ -5,7 +5,7 @@ title: >
 date: 2016-06-22 07:00:39
 episode_number: 265
 duration: 01:03:12
-audio_url: http://media.devchat.tv/ruby-rogues/RR265DataFrankMcSherry.mp3
+audio_url: https://media.devchat.tv/ruby-rogues/RR265DataFrankMcSherry.mp3
 podcast: ruby-rogues
 tags:
   - ruby_rogues
@@ -16,13 +16,13 @@ tags:
 
 - [Twitter](https://twitter.com/frankmcsherry)
 - [GitHub](https://github.com/frankmcsherry/)
-  03:06 - Computation03:48 - When are more computers needed?04:28 - [Scalability! But at what COST?](http://www.frankmcsherry.org/assets/COST.pdf)
+  03:06 - Computation03:48 - When are more computers needed?04:28 - [Scalability! But at what COST?](https://www.frankmcsherry.org/assets/COST.pdf)
 - Experimentation
   08:03 - Data Format and Pipelines
 - [Hilbert Curve](https://en.wikipedia.org/wiki/Hilbert_curve)
   - [github.com/frankmcsherry/blog/blob/master/posts/2015-02-04.md](https://github.com/frankmcsherry/blog/blob/master/posts/2015-02-04.md)
     14:06 - Code That Could Grow
-- [Hadoop](http://hadoop.apache.org/)
+- [Hadoop](https://hadoop.apache.org/)
 - [summingbird](https://github.com/twitter/summingbird)
   20:38 - Languages and Performance23:14 - “For Loops Unrolled”
 - [Rust](https://www.rust-lang.org/)
@@ -36,15 +36,15 @@ tags:
   - [github.com/frankmcsherry/blog/blob/master/posts/2015-09-18.md](https://github.com/frankmcsherry/blog/blob/master/posts/2015-09-18.md)
   - [github.com/frankmcsherry/blog/blob/master/posts/2015-09-21.md](https://github.com/frankmcsherry/blog/blob/master/posts/2015-09-21.md)
     &nbsp;Picks
-- [Go-Ped Know Ped Scooter](http://goped.com/scooters/push/know-ped/) (Sam)
+- [Go-Ped Know Ped Scooter](https://goped.com/scooters/push/know-ped/) (Sam)
 - [2015 State of the Software Supply Chain Report](https://www.sonatype.com/state-of-the-software-supply-chain) (Jessica)
 - [The Screwtape Letters](https://en.wikipedia.org/wiki/The_Screwtape_Letters) (Jessica)
-- [Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek](http://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/ref=sr_1_1?ie=UTF8&qid=1464715065&sr=8-1&keywords=start+with+why) (Chuck)
-- [RIF6 Cube 2-inch Mobile Projector](http://www.amazon.com/RIF6-Projector-120-inch-Portable-Rechargeable/dp/B00QXS8L6I?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) (Chuck)
-- [The Night Circus by Erin Morgenstern](http://www.amazon.com/Night-Circus-Erin-Morgenstern/dp/0307744434) (Frank)
-- [PrAna](http://www.prana.com/men/bottoms/pants.html) (Frank)
+- [Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/ref=sr_1_1?ie=UTF8&qid=1464715065&sr=8-1&keywords=start+with+why) (Chuck)
+- [RIF6 Cube 2-inch Mobile Projector](https://www.amazon.com/RIF6-Projector-120-inch-Portable-Rechargeable/dp/B00QXS8L6I?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) (Chuck)
+- [The Night Circus by Erin Morgenstern](https://www.amazon.com/Night-Circus-Erin-Morgenstern/dp/0307744434) (Frank)
+- [PrAna](https://www.prana.com/men/bottoms/pants.html) (Frank)
 - [Rust](https://www.rust-lang.org/) (Frank)
-- [Big Data Analytics with Datalog Queries on Spark](http://yellowstone.cs.ucla.edu/~yang/paper/sigmod2016-p958.pdf) (Frank)
+- [Big Data Analytics with Datalog Queries on Spark](https://yellowstone.cs.ucla.edu/~yang/paper/sigmod2016-p958.pdf) (Frank)
 
 ### Transcript
 
@@ -446,7 +446,7 @@ Frank, what are your picks?
 
 I have also, this is a bit of a weird recommendation but I've been traveling for the past year and I don't know, three months or so. And one of the things that happens when you travel a bit is you realize that for that sort of [inaudible] is you can tell the difference between which clothes are good and which clothes are bad. And I absolutely have to recommend the trousers that I have now. So, I have these really nice trousers by PrAna, these Stretch Zion trousers that I originally got for rock climbing. But they've just stuck with me for a long time. I've gotten some more of them now and they're nice and classy-looking on the one hand. But on the other hand, you scramble over all sorts of horrible rocks and they, whatever dirtiness just gets washed off of them real quick. And absolutely delighted and recommend those unequivocally. Yeah.
 
-Everyone should go and learn Rust, too. That's [www.RustLang.org](http://www.RustLang.org/). You all should do that because it's amazing. And I think that's what I've got though. I can tell you about papers that are awesome, but…
+Everyone should go and learn Rust, too. That's [www.RustLang.org](https://www.RustLang.org/). You all should do that because it's amazing. And I think that's what I've got though. I can tell you about papers that are awesome, but…
 
 **JESSICA:&nbsp;** Can we have just one paper?
 
@@ -460,7 +460,7 @@ Everyone should go and learn Rust, too. That's [www.RustLang.org](http://www.Rus
 
 **CHUCK:&nbsp;** Very cool. If people want to follow up with you, see what you're working on these days, that kind of stuff, where should they go?
 
-**FRANK:&nbsp;** So, probably the best thing to do is if you type in [www.FrankMcSherry.org](http://www.FrankMcSherry.org/) I think I've rigged that so that it properly resolves to GitHub basically, which is where I dump all of the content that I can think of. I've been doing mostly, I call it sort of pro bono science, like research out in the open. So, anything that I think of or start working on I just put out there. There's a blog there which embarrassingly is just a list of markdown files, sort of chronologically, where you can read a whole bunch of sassy stuff about what I'm doing at the moment or thinking about. There is Twitter where if you tweet some things at me I'll probably tweet something back because that's the sort of person I am. But I think checking out what I do on GitHub is probably the right way to see what I'm actually up to.
+**FRANK:&nbsp;** So, probably the best thing to do is if you type in [www.FrankMcSherry.org](https://www.FrankMcSherry.org/) I think I've rigged that so that it properly resolves to GitHub basically, which is where I dump all of the content that I can think of. I've been doing mostly, I call it sort of pro bono science, like research out in the open. So, anything that I think of or start working on I just put out there. There's a blog there which embarrassingly is just a list of markdown files, sort of chronologically, where you can read a whole bunch of sassy stuff about what I'm doing at the moment or thinking about. There is Twitter where if you tweet some things at me I'll probably tweet something back because that's the sort of person I am. But I think checking out what I do on GitHub is probably the right way to see what I'm actually up to.
 
 **CHUCK:&nbsp;** Awesome. Alright.
 

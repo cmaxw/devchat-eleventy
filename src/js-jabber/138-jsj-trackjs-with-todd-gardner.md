@@ -16,7 +16,7 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/toddhgardner)
 - [<u>GitHub</u>](https://github.com/toddhgardner)
-- [<u>{Track:js}</u>](http://trackjs.com/?utm_source=jsjabber&utm_medium=notes&utm_campaign=ny15)
+- [<u>{Track:js}</u>](https://trackjs.com/?utm_source=jsjabber&utm_medium=notes&utm_campaign=ny15)
 - [<u>@trackjs</u>](https://twitter.com/trackjs)
 - [<u>todd@trackjs.com</u>](mailto:todd@trackjs.com)
 
@@ -28,27 +28,27 @@ tags:
 
 - [<u>Eric Brandes</u>](https://twitter.com/brandeseric)
 - [<u>Nick Pelton</u>](https://twitter.com/nickpelton)
-  - [<u>Westwerk Design</u>](http://westwerk.com/)
+  - [<u>Westwerk Design</u>](https://westwerk.com/)
 - Jordan Griffen
 
-08:14 - The [<u>{Track:js}</u>](http://trackjs.com/?utm_source=jsjabber&utm_medium=notes&utm_campaign=ny15) Timeline
+08:14 - The [<u>{Track:js}</u>](https://trackjs.com/?utm_source=jsjabber&utm_medium=notes&utm_campaign=ny15) Timeline
 
-09:21 - Being a [<u>Startup</u>](http://en.wikipedia.org/wiki/Startup_company)
+09:21 - Being a [<u>Startup</u>](https://en.wikipedia.org/wiki/Startup_company)
 
-- [<u>Shark Tank</u>](http://en.wikipedia.org/wiki/Shark_Tank)
+- [<u>Shark Tank</u>](https://en.wikipedia.org/wiki/Shark_Tank)
 
-10:58 - What [<u>{Track:js}</u>](http://trackjs.com/?utm_source=jsjabber&utm_medium=notes&utm_campaign=ny15) Does
+10:58 - What [<u>{Track:js}</u>](https://trackjs.com/?utm_source=jsjabber&utm_medium=notes&utm_campaign=ny15) Does
 
-- [<u>Legacy System</u>](http://en.wikipedia.org/wiki/Legacy_system)
+- [<u>Legacy System</u>](https://en.wikipedia.org/wiki/Legacy_system)
 
 17:11 - Error Handling
 
 - Event Engine
-- [<u>Telemetry</u>](http://en.wikipedia.org/wiki/Telemetry)
-- [<u>The Stack Trace</u>](http://en.wikipedia.org/wiki/Stack_trace)
+- [<u>Telemetry</u>](https://en.wikipedia.org/wiki/Telemetry)
+- [<u>The Stack Trace</u>](https://en.wikipedia.org/wiki/Stack_trace)
   - Async Stacks
   - Backtraces
-  - [<u>Named function expressions demystified by Juriy "kangax" Zaytsev (Javascript IE9 article)</u>](http://kangax.github.io/nfe/)
+  - [<u>Named function expressions demystified by Juriy "kangax" Zaytsev (Javascript IE9 article)</u>](https://kangax.github.io/nfe/)
 
 24:37 - How Intrusive is it?
 
@@ -56,10 +56,10 @@ tags:
 
 31:20 - The Server-Side Technology
 
-- [<u>Elasticsearch</u>](http://www.elasticsearch.com/)
-  - [<u>Lucine</u>](http://lucene.apache.org/core/)
+- [<u>Elasticsearch</u>](https://www.elasticsearch.com/)
+  - [<u>Lucine</u>](https://lucene.apache.org/core/)
 
-33:03 - The [<u>User Interface (UI)</u>](http://en.wikipedia.org/wiki/User_interface)
+33:03 - The [<u>User Interface (UI)</u>](https://en.wikipedia.org/wiki/User_interface)
 
 34:06 - [<u>Baremetrics</u>](https://baremetrics.io/)
 

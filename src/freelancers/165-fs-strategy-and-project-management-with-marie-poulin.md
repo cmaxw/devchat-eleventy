@@ -12,22 +12,22 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips](http://devchat.tv/rails-clips)!
+Check out [RailsClips](https://devchat.tv/rails-clips)!
 
 &nbsp;
 
 00:58 - Marie Poulin Introduction
 
 - [Twitter](https://twitter.com/mariepoulin)
-- [Blog](http://mariepoulin.com/)
-- [Digital Strategy School](http://digitalstrategyschool.com/)
-- [Doki](http://doki.io/)
+- [Blog](https://mariepoulin.com/)
+- [Digital Strategy School](https://digitalstrategyschool.com/)
+- [Doki](https://doki.io/)
 
 01:42 - Marie’s Background and Digital Strategy School Evolution
 
-04:57 - Working with [Breanne Dyck](http://mynameisbreanne.com/)
+04:57 - Working with [Breanne Dyck](https://mynameisbreanne.com/)
 
-- [The Freelancers' Show Episode #164: Teaching and Learning Courses wit Breanne Dyck](http://devchat.tv/freelancers/164-fs-teaching-and-learning-courses-wit-breanne-dyck)
+- [The Freelancers' Show Episode #164: Teaching and Learning Courses wit Breanne Dyck](https://devchat.tv/freelancers/164-fs-teaching-and-learning-courses-wit-breanne-dyck)
 
 06:55 - Freelancer =\> Strategic Business Owner
 
@@ -37,7 +37,7 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 14:55 - Business Audit: Why are you doing what you are doing? What do you want to accomplish with your business?
 
-- [Tara Gentile: Know Where You’re Headed](http://taragentile.com/where/) (Your Chief Initiative)
+- [Tara Gentile: Know Where You’re Headed](https://taragentile.com/where/) (Your Chief Initiative)
 - Monthly, Quarterly, Yearly Check-ins
 - Changing Your Business Takes Time
 
@@ -45,8 +45,8 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 24:27 - Accountability and Discipline
 
-- [BJ Fogg](http://tinyhabits.com/)
-- [The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg](http://www.amazon.com/gp/product/081298160X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298160X&linkCode=as2&tag=chamaxwoo-20&linkId=7C6H3OXUDOTGUKUM)&nbsp;
+- [BJ Fogg](https://tinyhabits.com/)
+- [The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg](https://www.amazon.com/gp/product/081298160X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298160X&linkCode=as2&tag=chamaxwoo-20&linkId=7C6H3OXUDOTGUKUM)&nbsp;
 - What’s happening now? What’s happening later?
 - “Work with your energy”
   - Track Tasks
@@ -57,13 +57,13 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 35:18 - Mastermind Groups
 
-- [Entreprogrammers](http://entreprogrammers.com)
+- [Entreprogrammers](https://entreprogrammers.com)
 
-44:44 - [Doki](http://doki.io/)
+44:44 - [Doki](https://doki.io/)
 
 Picks
 
-[Vornado 530 Compact Whole Room Air Circulator](http://www.amazon.com/gp/product/B000E5S4MW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000E5S4MW&linkCode=as2&tag=chamaxwoo-20&linkId=562DO6VEYNZIPO22) (Eric)[Paracord](https://en.wikipedia.org/wiki/Parachute_cord) (Chuck)[Soto Pocket Torch](http://www.amazon.com/gp/product/B0046UZRNU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0046UZRNU&linkCode=as2&tag=chamaxwoo-20&linkId=MV5S3E6KR3C6A3IG) (Chuck)[The Strategic Designer: Tools & Techniques for Managing the Design Process by David Holston](http://www.amazon.com/gp/product/1600617999/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1600617999&linkCode=as2&tag=chamaxwoo-20&linkId=VPUHMYIMECA6S6DA) (Marie)[Creative Confidence by Tom and David Kelley](http://www.creativeconfidence.com/) (Marie)[[TED Talk] Brene Brown: The Power of Vulnerability](https://www.youtube.com/watch?v=iCvmsMzlF7o) (Marie)
+[Vornado 530 Compact Whole Room Air Circulator](https://www.amazon.com/gp/product/B000E5S4MW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000E5S4MW&linkCode=as2&tag=chamaxwoo-20&linkId=562DO6VEYNZIPO22) (Eric)[Paracord](https://en.wikipedia.org/wiki/Parachute_cord) (Chuck)[Soto Pocket Torch](https://www.amazon.com/gp/product/B0046UZRNU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0046UZRNU&linkCode=as2&tag=chamaxwoo-20&linkId=MV5S3E6KR3C6A3IG) (Chuck)[The Strategic Designer: Tools & Techniques for Managing the Design Process by David Holston](https://www.amazon.com/gp/product/1600617999/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1600617999&linkCode=as2&tag=chamaxwoo-20&linkId=VPUHMYIMECA6S6DA) (Marie)[Creative Confidence by Tom and David Kelley](https://www.creativeconfidence.com/) (Marie)[[TED Talk] Brene Brown: The Power of Vulnerability](https://www.youtube.com/watch?v=iCvmsMzlF7o) (Marie)
 
 ### Transcript
 

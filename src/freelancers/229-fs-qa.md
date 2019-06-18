@@ -17,11 +17,11 @@ tags:
 - [Hourly Billing is Nuts](https://expensiveproblem.com/hbin)
 - [Deadline Funnel](https://deadlinefunnel.com/)
 - [Conferences](https://devchat.tv/conferences)
-- [The Eventual Millionaire](http://eventualmillionaire.com/)
+- [The Eventual Millionaire](https://eventualmillionaire.com/)
   5:00: Questions to ask on a Greenfield project
-- [Bootstrap](http://getbootstrap.com/)
-- [Phoenix](http://www.phoenixframework.org/)
-- [Elixir](http://elixir-lang.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Phoenix](https://www.phoenixframework.org/)
+- [Elixir](https://elixir-lang.org/)
 - [Open Source](https://opensource.org/)
   15:45: How to write cover letters and earn clients
 - [Upwork](https://www.upwork.com/)
@@ -29,14 +29,14 @@ tags:
 - Apprentice model
 - Setting the price
 - Writing the cover letter
-- [Redmine](http://www.redmine.org/)
+- [Redmine](https://www.redmine.org/)
 - [The Apprenticeship Patterns by Dave Hoover](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
 - [Scott Hanselman iPhreaks episode](https://devchat.tv/iphreaks/153-ips-using-mobile-devices-to-manage-diabetes-with-scott-hanselman)
   37:00: What to do if you have no employed experience
 - Don’t lie
 - Get [LinkedIn](https://www.linkedin.com/) endorsements
 - [GitHub](https://github.com/)
-- [Stack Overflow](http://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/)
 - [About.me](https://about.me/)
 
 ### Links:

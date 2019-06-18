@@ -16,8 +16,8 @@ tags:
 
 - [Twitter](https://twitter.com/teropa)
 - [GitHub](https://github.com/teropa)
-- [Blog](http://teropa.info/)
-- [Build Your Own AngularJS with Tero Parviainen](http://teropa.info/build-your-own-angular)
+- [Blog](https://teropa.info/)
+- [Build Your Own AngularJS with Tero Parviainen](https://teropa.info/build-your-own-angular)
 
 02:28 - Getting Started Digging the Angular Source Code
 
@@ -51,7 +51,7 @@ tags:
 
 Picks
 
-[Build Your Own AngularJS with Tero Parviainen](http://teropa.info/build-your-own-angular) (Lukas)[The U.S. National Women’s Soccer Team](http://www.ussoccer.com/womens-national-team) (Joe)[Better Off Ted](http://www.imdb.com/title/tt1235547/) (Joe)[Inside Out](http://www.imdb.com/title/tt2096673/) (Ward)[Aftershokz AS500 Bluez 2 Open Ear Wireless Stereo Headphones](http://www.amazon.com/gp/product/B00JO9Y176/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JO9Y176&linkCode=as2&tag=chamaxwoo-20&linkId=OIQYBVN2TZXHXR7V) (Chuck)[Paul Graham: Programming Bottom-Up](http://www.paulgraham.com/progbot.html) (Tero)[Flash Boys: A Wall Street Revolt by Michael Lewis](http://www.amazon.com/gp/product/0393351599/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393351599&linkCode=as2&tag=chamaxwoo-20&linkId=KPGGHL4SZP7HDQCT) (Tero)
+[Build Your Own AngularJS with Tero Parviainen](https://teropa.info/build-your-own-angular) (Lukas)[The U.S. National Women’s Soccer Team](https://www.ussoccer.com/womens-national-team) (Joe)[Better Off Ted](https://www.imdb.com/title/tt1235547/) (Joe)[Inside Out](https://www.imdb.com/title/tt2096673/) (Ward)[Aftershokz AS500 Bluez 2 Open Ear Wireless Stereo Headphones](https://www.amazon.com/gp/product/B00JO9Y176/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JO9Y176&linkCode=as2&tag=chamaxwoo-20&linkId=OIQYBVN2TZXHXR7V) (Chuck)[Paul Graham: Programming Bottom-Up](https://www.paulgraham.com/progbot.html) (Tero)[Flash Boys: A Wall Street Revolt by Michael Lewis](https://www.amazon.com/gp/product/0393351599/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393351599&linkCode=as2&tag=chamaxwoo-20&linkId=KPGGHL4SZP7HDQCT) (Tero)
 
 ### Transcript
 

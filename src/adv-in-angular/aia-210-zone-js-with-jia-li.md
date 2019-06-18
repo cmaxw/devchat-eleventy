@@ -143,7 +143,7 @@ Jia: It’s not good for the Angular element.
 - [GitHub](https://github.com)
 - [What is New in Zone.js](https://slides.com/jiali/zonejs-2/#/)
 - [Thriller Troopers](https://shirt.woot.com/offers/thriller-troopers-1?ref=w_cnt_top20_6_img)
-- [Web Tracing Framework](http://google.github.io/tracing-framework/)
+- [Web Tracing Framework](https://google.github.io/tracing-framework/)
 - [NG Zone](https://angular.io/api/core/NgZone)
 - [Audible – Educated](https://www.audible.com/pd/Educated-Audiobook/B075F8MBMQ?qid=1537995567&sr=sr_1_1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=2SHHZ6EJT716D17V863D&)
 - [Real Talk – JavaScript](https://realtalkjavascript.simplecast.fm)

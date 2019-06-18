@@ -35,7 +35,7 @@ In this episode of Ruby Rogues, the panel talks to Jared Norman about understand
 - Injecting an error reporting tool
 - Trying to think of a good reason to rescue_from exception
 - Loss of visibility
-- [_Exceptional Ruby_ by Avdi Grimm](http://exceptionalruby.com/)
+- [_Exceptional Ruby_ by Avdi Grimm](https://exceptionalruby.com/)
 - [Ruby Rogues Episode 19](https://devchat.tv/ruby-rogues/019-rr-book-club-exceptional-ruby-with-avdi-grimm)
 - When is capturing exceptions the right way to go?
 - Using an exception when something is legitimately broken
@@ -56,7 +56,7 @@ In this episode of Ruby Rogues, the panel talks to Jared Norman about understand
 - [Solidus](https://github.com/solidusio/solidus)
 - [Spree](https://github.com/spree/spree)
 - [_You Can’t Save Everyone: Some Exceptions Should Be Left Alone_](https://supergood.software/you-cant-save-everyone/)
-- [_Exceptional Ruby_ by Avdi Grimm](http://exceptionalruby.com/)
+- [_Exceptional Ruby_ by Avdi Grimm](https://exceptionalruby.com/)
 - [Ruby Rogues Episode 19](https://devchat.tv/ruby-rogues/019-rr-book-club-exceptional-ruby-with-avdi-grimm)
 - [project-honeypot](https://github.com/cmaxw/project-honeypot)
 - [Jared’s GitHub](https://github.com/jarednorman)
@@ -93,7 +93,7 @@ Catherine
 Dave
 
 - [_Configuring a Sentry Server on Ubuntu 16.04_ by Dave](https://blog.driftingruby.com/configuring-a-sentry-server-on-ubuntu-16-04-lts/)
-- [Re-engage](http://marriagehelp.org/)
+- [Re-engage](https://marriagehelp.org/)
 
 Jared
 

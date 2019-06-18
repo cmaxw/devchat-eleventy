@@ -14,31 +14,31 @@ tags:
 
 ### Panel
 
-- Jeremy Ashkenas ([twitter](https://twitter.com/#!/jashkenas) [github](https://github.com/jashkenas) [blog](http://ashkenas.com/))
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Joachim Larsen ([g+](https://plus.google.com/114020236201265101594/posts) [github](https://github.com/joedeveloper) [website](http://unomi.no.de/))
-- Yehuda Katz ([twitter](http://twitter.com/wycats)&nbsp;[github](https://github.com/wycats)&nbsp;[blog](http://yehudakatz.com/))
+- Jeremy Ashkenas ([twitter](https://twitter.com/#!/jashkenas) [github](https://github.com/jashkenas) [blog](https://ashkenas.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Joachim Larsen ([g+](https://plus.google.com/114020236201265101594/posts) [github](https://github.com/joedeveloper) [website](https://unomi.no.de/))
+- Yehuda Katz ([twitter](https://twitter.com/wycats)&nbsp;[github](https://github.com/wycats)&nbsp;[blog](https://yehudakatz.com/))
 
 ### Discussion
 
-- [IRC log of Jeremy and Yehuda's chat](http://cl.ly/1t062A1N090E2y132G31)
+- [IRC log of Jeremy and Yehuda's chat](https://cl.ly/1t062A1N090E2y132G31)
 - [Ice library](https://github.com/NYTimes/ice/)
-- [Document Cloud](http://www.documentcloud.org/opensource)
-- [Backbone.js](http://documentcloud.github.com/backbone/)
-- [CoffeeScript](http://coffeescript.org/)
-- [Dropshare](http://dropsha.re/#/)
+- [Document Cloud](https://www.documentcloud.org/opensource)
+- [Backbone.js](https://documentcloud.github.com/backbone/)
+- [CoffeeScript](https://coffeescript.org/)
+- [Dropshare](https://dropsha.re/#/)
 - client-side MVC
 - server persisting
-- [jQuery](http://jquery.org/)
+- [jQuery](https://jquery.org/)
 - Is backbone really MVC?
-- [Backbone Collections](http://documentcloud.github.com/backbone/)
-- [Ember](http://emberjs.com/)
+- [Backbone Collections](https://documentcloud.github.com/backbone/)
+- [Ember](https://emberjs.com/)
 - Convention over Configuration
-- [Handlebars](http://handlebarsjs.com/)
+- [Handlebars](https://handlebarsjs.com/)
 - jQuery is an opinionated library
-- [Mustache](http://mustache.github.com/)
+- [Mustache](https://mustache.github.com/)
 - DOM only approach
 - Templates in other languages
 - Benefits of templates on the server
@@ -54,19 +54,19 @@ tags:
 
 ### Picks
 
-- [Matt Might's blog](http://matt.might.net/) (Jamison)
-- [Addy Osmani Video Part 1](http://vimeo.com/35924671)&nbsp;[Part 2](http://vimeo.com/35924733)&nbsp;(Jamison)
-- [uservoice.com](http://uservoice.com/) (AJ)
-- [OK-go music video](http://www.youtube.com/watch?v=qybUFnY7Y8w) (AJ)
-- [NTT Docomo video](http://www.youtube.com/watch?v=ArLiKPFsFoU) (AJ)
-- [ES5.github.com](http://es5.github.com/) (Yehuda)
-- [HTML5 spec author view](http://dev.w3.org/html5/spec-author-view/) (Yehuda)
+- [Matt Might's blog](https://matt.might.net/) (Jamison)
+- [Addy Osmani Video Part 1](https://vimeo.com/35924671)&nbsp;[Part 2](https://vimeo.com/35924733)&nbsp;(Jamison)
+- [uservoice.com](https://uservoice.com/) (AJ)
+- [OK-go music video](https://www.youtube.com/watch?v=qybUFnY7Y8w) (AJ)
+- [NTT Docomo video](https://www.youtube.com/watch?v=ArLiKPFsFoU) (AJ)
+- [ES5.github.com](https://es5.github.com/) (Yehuda)
+- [HTML5 spec author view](https://dev.w3.org/html5/spec-author-view/) (Yehuda)
 - [Chrome for Android](https://market.android.com/details?id=com.android.chrome&hl=en) (Yehuda)
-- [PhoneGap](http://phonegap.com/) (Joachim)
-- [Gmail man](http://www.youtube.com/watch?v=eFCSp23xl40) (Chuck)
-- [myfitnesspal.com](http://www.myfitnesspal.com/) (Chuck)
-- [dailymile.com](http://www.myfitnesspal.com/) (Chuck)
-- [jQuery](http://jquery.com/) (Chuck)
+- [PhoneGap](https://phonegap.com/) (Joachim)
+- [Gmail man](https://www.youtube.com/watch?v=eFCSp23xl40) (Chuck)
+- [myfitnesspal.com](https://www.myfitnesspal.com/) (Chuck)
+- [dailymile.com](https://www.myfitnesspal.com/) (Chuck)
+- [jQuery](https://jquery.com/) (Chuck)
 - [ES-discuss mailing list](https://mail.mozilla.org/listinfo/es-discuss) (Jeremy)
 
 ### Transcript

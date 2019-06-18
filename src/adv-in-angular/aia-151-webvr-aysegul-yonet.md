@@ -24,16 +24,16 @@ The panel for this episode of Adventures in Angular is Alyssa Nicoll, Joe Eames,
 - Ketogenic Diet
 - Keto Cheesecake
   **Charles** :
-- [2 Keto Dudes Podcast&nbsp;](http://www.2ketodudes.com)
+- [2 Keto Dudes Podcast&nbsp;](https://www.2ketodudes.com)
 - [Keto Clarity by Jimmy Moore&nbsp;](https://www.amazon.com/Keto-Clarity-Definitive-Benefits-Low-Carb/dp/1628600071)
-- [Livin’ La Vida Low Carb Podcast](http://www.thelivinlowcarbshow.com/)
+- [Livin’ La Vida Low Carb Podcast](https://www.thelivinlowcarbshow.com/)
 - Keto Pad Thai
   **Joe:**
-- [Rogue One&nbsp;](http://www.starwars.com/films/rogue-one)
+- [Rogue One&nbsp;](https://www.starwars.com/films/rogue-one)
 - Never build a house
   **Aysegul**
 - [Cardboard Camera App&nbsp;](https://play.google.com/store/apps/details?id=com.google.vr.cyclops&hl=en)
-- [Voices of VR Podcast&nbsp;](http://voicesofvr.com/)
+- [Voices of VR Podcast&nbsp;](https://voicesofvr.com/)
 - [You Are Not So Smart Podcast&nbsp;](https://youarenotsosmart.com/podcast/)
 - [Merge Cube&nbsp;](https://mergevr.com/cube)
 

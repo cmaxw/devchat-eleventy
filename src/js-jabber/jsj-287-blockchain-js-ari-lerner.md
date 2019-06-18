@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-**Panel:** Aimee Knight AJ O’Neal Charles Max Wood **Special Guests:&nbsp;** Ari Lerner In this episode, Java Script Jabbers speak with Ari Lerner. Ari is the author of NG Book: The Complete Book on AugularJS, Full Stack React,&nbsp; and a few others.&nbsp; Ari co-runs [newline.co](http://newline.co) a platform that teaches about the Block Chain, Ethereum, New Contracts, etc. Ari mentions a few upcoming books on Machine Learning, Elixir, and react Native. Ari gives a rundown on what the Block Chain is about, and an explanation of a Hash. Ari explains the value of a Hash and 6-bit strings of a Hash. Also, Ari explains the exchange of currency in Bitcoin and the rate of exchange in the Block Chain. Next Ari covers web 3.0 and much more. **In particular, we dive pretty deep on:**
+**Panel:** Aimee Knight AJ O’Neal Charles Max Wood **Special Guests:&nbsp;** Ari Lerner In this episode, Java Script Jabbers speak with Ari Lerner. Ari is the author of NG Book: The Complete Book on AugularJS, Full Stack React,&nbsp; and a few others.&nbsp; Ari co-runs [newline.co](https://newline.co) a platform that teaches about the Block Chain, Ethereum, New Contracts, etc. Ari mentions a few upcoming books on Machine Learning, Elixir, and react Native. Ari gives a rundown on what the Block Chain is about, and an explanation of a Hash. Ari explains the value of a Hash and 6-bit strings of a Hash. Also, Ari explains the exchange of currency in Bitcoin and the rate of exchange in the Block Chain. Next Ari covers web 3.0 and much more. **In particular, we dive pretty deep on:**
 
 - What is the Block Chain?
 - A Hash?
@@ -32,8 +32,8 @@ tags:
 - What should JS developer be doing to prepare?
 - And much more!
   **Links:**
-- [ng-book](http://ng-book.com)
-- [Newline.co](http://newline.co)
+- [ng-book](https://ng-book.com)
+- [Newline.co](https://newline.co)
 - [The History of Money](https://www.amazon.com/History-Money-Ancient-Times-Present/dp/0708317170)
 - @Auser
 - Stack.io

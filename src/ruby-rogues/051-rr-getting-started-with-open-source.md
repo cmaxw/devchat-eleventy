@@ -14,35 +14,35 @@ tags:
 
 1:40 - Josh’s Open Source Projects:
 
-- [Informal](http://rubygems.org/gems/informal)
-- [Refraction](http://rubygems.org/gems/refraction)
+- [Informal](https://rubygems.org/gems/informal)
+- [Refraction](https://rubygems.org/gems/refraction)
   2:06 - James’ Open Source Projects:
-- [FasterCSV](http://rubygems.org/gems/fastercsv)
-- [Highline](http://rubygems.org/gems/highline)
-- [Elif](http://rubygems.org/gems/elif)
-- [Gatling Gun](http://rubygems.org/gems/gatling_gun)
+- [FasterCSV](https://rubygems.org/gems/fastercsv)
+- [Highline](https://rubygems.org/gems/highline)
+- [Elif](https://rubygems.org/gems/elif)
+- [Gatling Gun](https://rubygems.org/gems/gatling_gun)
   3:27 - David’s Open Source Projects:
 - “Ship code every day”
-- [TourBus](http://rubygems.org/gems/tourbus)
-- [Migratrix](http://rubygems.org/gems/migratrix)
-- [Geocode](http://rubygems.org/gems/geocode)
-- [CoffeeScript Cookbook](http://rubygems.org/gems/coffee-script)
+- [TourBus](https://rubygems.org/gems/tourbus)
+- [Migratrix](https://rubygems.org/gems/migratrix)
+- [Geocode](https://rubygems.org/gems/geocode)
+- [CoffeeScript Cookbook](https://rubygems.org/gems/coffee-script)
   6:26 - Chuck’s Open Source Projects:
-- [Sandra](http://rubygems.org/gems/sandra)
+- [Sandra](https://rubygems.org/gems/sandra)
   7:40 - Idea of Shipping Code Every Day
-- [Calendar About Nothing](http://www.pydanny.com/calendar-about-nothing.html) – Seinfeld Reference
+- [Calendar About Nothing](https://www.pydanny.com/calendar-about-nothing.html) – Seinfeld Reference
 - Ship a Usable Feature Every Day
   11:45 - First Open Source Projects:
-- David:&nbsp; [EnvyMud](http://en.wikipedia.org/wiki/EnvyMUD)
-- James:&nbsp; [MUD](http://en.wikipedia.org/wiki/MUD)s
-- Josh:&nbsp; [HyperCard](http://en.wikipedia.org/wiki/HyperCard)
+- David:&nbsp; [EnvyMud](https://en.wikipedia.org/wiki/EnvyMUD)
+- James:&nbsp; [MUD](https://en.wikipedia.org/wiki/MUD)s
+- Josh:&nbsp; [HyperCard](https://en.wikipedia.org/wiki/HyperCard)
 - Chuck:&nbsp; Lessons in Ruby / Reference his [GitHub Account](https://github.com/cmaxw)
   15:42 - How Josh is in the Top 20 Contributors to&nbsp;[Rails](https://github.com/rails)
 - Blogging to get into Open Source
 - Get a Mentor
-- His Mentor:&nbsp; [Rick Olsen (technoweenie)](http://techno-weenie.net/)
-- Thought Process:&nbsp; [The Dreyfus Model](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
-- Most Successful Contribution:&nbsp; [Rake Routes](http://stackoverflow.com/questions/13391143/rails-rake-routes-where-are-they-from)
+- His Mentor:&nbsp; [Rick Olsen (technoweenie)](https://techno-weenie.net/)
+- Thought Process:&nbsp; [The Dreyfus Model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+- Most Successful Contribution:&nbsp; [Rake Routes](https://stackoverflow.com/questions/13391143/rails-rake-routes-where-are-they-from)
   19:36 - New to Open Source/How to Get in
 - "Can I sweep your Dojo"
 - Offer to Write Documentation
@@ -53,41 +53,41 @@ tags:
 - Write a Tutorial
 - Example: Documentation Patches for Rails – lead to a spot on RailsCore
   26:17 - Tools for Contributing to Open Source
-- [Rubyforge](http://rubyforge.com/)
+- [Rubyforge](https://rubyforge.com/)
 - Set up a Website/Email List for Your Project
-- [Pivotal Tracker](http://www.pivotaltracker.com/)
+- [Pivotal Tracker](https://www.pivotaltracker.com/)
 - [TravisCI](https://travis-ci.com/)
-  31:11 - [Yehuda Katz](http://yehudakatz.com/) on Good Projects: Will it Be Around in a Year? Is it Well Maintained? 32:23 - Abandoning or Staging Takeovers of Your Own Projects
-- [Dr. Nic's Code Conf](http://drnicwilliams.com/page/3/?s=ruby)
+  31:11 - [Yehuda Katz](https://yehudakatz.com/) on Good Projects: Will it Be Around in a Year? Is it Well Maintained? 32:23 - Abandoning or Staging Takeovers of Your Own Projects
+- [Dr. Nic's Code Conf](https://drnicwilliams.com/page/3/?s=ruby)
 - An Intentional Strategy?
   33:25 - Roles in Open Source
-- Example, [André Arko](http://arko.net/) for [Bundler](http://bundler.io/contributors.html)
+- Example, [André Arko](https://arko.net/) for [Bundler](https://bundler.io/contributors.html)
   34:11 - Corporate Sponsorship of Open Source
 - Employee Time Contributions to Projects
 - [Engine Yard](https://www.engineyard.com/)
 - Fund People Full-Time to Work on OS
-- Examle: [Evan Phoenix](https://twitter.com/evanphx) & [Brian Ford](http://briantford.com/) on [Rubinius](http://rubini.us/)
+- Examle: [Evan Phoenix](https://twitter.com/evanphx) & [Brian Ford](https://briantford.com/) on [Rubinius](https://rubini.us/)
 - The Exception: Heroku Hired Matz
 - Is the Interest of Corporation Overshadowing the Interest of the Community?
   38:03 - Ways to Fund Open Source Work
 - [Kickstarter](https://www.kickstarter.com/)
 - Asking Your Boss if you Can Open Source Your Work / Goodwill in the Community
 - Example: Google's 20% time
-- [Go Programming Language](http://golang.org/)
+- [Go Programming Language](https://golang.org/)
   39:45 - IPA Movement: Patent Employees Work
-- Twitter’s New [Innovators Patent Agreement](http://engineering.twitter.com/2012/04/introducing-innovators-patent-agreement.html)
+- Twitter’s New [Innovators Patent Agreement](https://engineering.twitter.com/2012/04/introducing-innovators-patent-agreement.html)
   41:36 - Examples of Successful OS Funding - Donations
-- [Yehuda Katz' Tokaido.app Kickstarter](http://www.kickstarter.com/projects/1397300529/railsapp/posts/202008)
+- [Yehuda Katz' Tokaido.app Kickstarter](https://www.kickstarter.com/projects/1397300529/railsapp/posts/202008)
 - [Gregory Brown's Ruby Mendicant project for Prawn](https://github.com/prawnpdf/prawn)
   42:25 - “The difference between crazy and brilliant. Crazy is, you refuse to see the world as it is. Brilliant is you convince other people to see it your way.” 42:55 - Controversy:&nbsp; Make Money on Open Source
 - Levels of&nbsp;[Kickstarter](https://www.kickstarter.com/)
 - Paying to Get on the Mailing List
 - Community Ownership
 - Paying to Be on the ‘Steering’ Committee / To Contribute
-- [Avdi](http://objectsonrails.com/)[’s Objects on Rails Book](http://objectsonrails.com/)
+- [Avdi](https://objectsonrails.com/)[’s Objects on Rails Book](https://objectsonrails.com/)
 - Now, Free. Then, \$5 to get on the Email List.
 - A Book Isn’t an OS Project vs Owned by the Community
-- Setting up [Pledgie](https://pledgie.com/) thru [GitHub](http://www.github.com/) to get OS Donations
+- Setting up [Pledgie](https://pledgie.com/) thru [GitHub](https://www.github.com/) to get OS Donations
   49:48 - How to Compensate the Community for Their OS Contributions
 - [PayPal](https://www.paypal.com/)
 - Send Gifts

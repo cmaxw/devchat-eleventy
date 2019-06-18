@@ -14,58 +14,58 @@ tags:
 
 ### Panel
 
-- John-David Dalton ([twitter](https://twitter.com/jdalton) [github](https://github.com/jdalton) [blog](http://allyoucanleet.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
+- John-David Dalton ([twitter](https://twitter.com/jdalton) [github](https://github.com/jdalton) [blog](https://allyoucanleet.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:32 - John-David Dalton Introduction
 
-- [Lo-Dash](http://lodash.com/)
-- [jsPerf](http://jsperf.com/)
-- [benchmark.js](http://benchmarkjs.com/)
-- [Microsoft](http://www.microsoft.com/)
-  02:19 - [jsPerf](http://jsperf.com/)07:48 - [Lo-Dash](http://lodash.com/)
-- [Underscore](http://underscorejs.org/)
-- [Lo-Dash Custom Builds](http://lodash.com/custom-builds)
-- [Kit Cambridge: Custom Builds in Lo-Dash 2.0](http://kitcambridge.be/blog/custom-builds-in-lo-dash-2-dot-0/)
+- [Lo-Dash](https://lodash.com/)
+- [jsPerf](https://jsperf.com/)
+- [benchmark.js](https://benchmarkjs.com/)
+- [Microsoft](https://www.microsoft.com/)
+  02:19 - [jsPerf](https://jsperf.com/)07:48 - [Lo-Dash](https://lodash.com/)
+- [Underscore](https://underscorejs.org/)
+- [Lo-Dash Custom Builds](https://lodash.com/custom-builds)
+- [Kit Cambridge: Custom Builds in Lo-Dash 2.0](https://kitcambridge.be/blog/custom-builds-in-lo-dash-2-dot-0/)
   14:50 - Performance
 - [object.keys](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 - [qunit](https://github.com/jquery/qunit)
 - [qunit-clib](https://github.com/jdalton/qunit-clib)
   21:07 - Performance Optimization 25:53 - Use
-- [npm-stat](http://npm-stat.vorb.de/charts.html?package=lodash)
+- [npm-stat](https://npm-stat.vorb.de/charts.html?package=lodash)
   33:53 - Competition 40:32 - Testing Performance
-- [JSConf.us ’13: Slides (Perf: The Web Forward)](http://allyoucanleet.com/post/52667587834/jsconf-us-13-slides)
-- [JSConf.us '13: Screencast (Perf: The Web Forward)](http://allyoucanleet.com/post/52667781698/jsconf-us-13-screencast)
+- [JSConf.us ’13: Slides (Perf: The Web Forward)](https://allyoucanleet.com/post/52667587834/jsconf-us-13-slides)
+- [JSConf.us '13: Screencast (Perf: The Web Forward)](https://allyoucanleet.com/post/52667781698/jsconf-us-13-screencast)
   46:00 - Optimizations to Improve Performance 50:34 - Async
-- [lazy.js](http://danieltao.com/lazy.js/index.html)
+- [lazy.js](https://danieltao.com/lazy.js/index.html)
 
 ### Picks
 
-- [Home Depot](http://www.homedepot.com/) (AJ)
-- [Sam’s Club](http://www.samsclub.com/) (AJ)
-- [Carrabba's](http://www.carrabbas.com/) (AJ)
-- [Sizzler](http://www.sizzler.com/) (AJ)
-- [The Michael J. Fox Show](http://www.imdb.com/title/tt2338232/) (Joe)
-- [Skinit](http://www.skinit.com/) (Joe)
+- [Home Depot](https://www.homedepot.com/) (AJ)
+- [Sam’s Club](https://www.samsclub.com/) (AJ)
+- [Carrabba's](https://www.carrabbas.com/) (AJ)
+- [Sizzler](https://www.sizzler.com/) (AJ)
+- [The Michael J. Fox Show](https://www.imdb.com/title/tt2338232/) (Joe)
+- [Skinit](https://www.skinit.com/) (Joe)
 - [nodist](https://github.com/marcelklehr/nodist) (Joe)
 - [nave](https://github.com/isaacs/nave) (John-David)
 - [javascript-allonge](https://github.com/raganwald/javascript-allonge) (Merrick)
-- [&lt;dialog&gt; element: Modals made easy](http://updates.html5rocks.com/2013/09/dialog-element-Modals-made-easy) (Merrick)
+- [&lt;dialog&gt; element: Modals made easy](https://updates.html5rocks.com/2013/09/dialog-element-Modals-made-easy) (Merrick)
 - [1Password](https://agilebits.com/onepassword) (Merrick)
-- [cdnjs](http://cdnjs.com/) (John-David)
+- [cdnjs](https://cdnjs.com/) (John-David)
 - Modules (John-David)
-- [npm-stat](http://npm-stat.vorb.de/) (John-David)
-- [Lorn – Ask The Dust](http://ninjatune.net/release/lorn/ask-the-dust) (Jamison)
-- [Rebecca Murphey: Optimizing for Developer Delight](http://www.youtube.com/watch?v=-WpDN2k7vbU) (Jamison)
+- [npm-stat](https://npm-stat.vorb.de/) (John-David)
+- [Lorn – Ask The Dust](https://ninjatune.net/release/lorn/ask-the-dust) (Jamison)
+- [Rebecca Murphey: Optimizing for Developer Delight](https://www.youtube.com/watch?v=-WpDN2k7vbU) (Jamison)
 - [James Mickens: The Slow Winter](https://www.usenix.org/system/files/1309_14-17_mickens.pdf) (Jamison)
-- [League of Legends](http://beta.na.leagueoflegends.com/) (Chuck)
-- [Reflector App](http://www.airsquirrels.com/reflector/) (Chuck)
+- [League of Legends](https://beta.na.leagueoflegends.com/) (Chuck)
+- [Reflector App](https://www.airsquirrels.com/reflector/) (Chuck)
 
 ### Next Week
 

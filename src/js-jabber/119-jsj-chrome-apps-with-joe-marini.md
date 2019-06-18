@@ -14,11 +14,11 @@ tags:
 
 ### Panel
 
-- Joe Marini ([twitter](https://twitter.com/joemarini)&nbsp;[github](https://github.com/joemarini)&nbsp;[blog](http://www.joemarini.com/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev)&nbsp;[github](https://github.com/aaronfrost)&nbsp;[blog](http://www.jsdotnext.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://blog.coolaj86.com/)&nbsp;[youtube](http://youtube.com/coolaj86))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Joe Marini ([twitter](https://twitter.com/joemarini)&nbsp;[github](https://github.com/joemarini)&nbsp;[blog](https://www.joemarini.com/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev)&nbsp;[github](https://github.com/aaronfrost)&nbsp;[blog](https://www.jsdotnext.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://blog.coolaj86.com/)&nbsp;[youtube](https://youtube.com/coolaj86))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
@@ -28,26 +28,26 @@ tags:
 - [Play](https://play.google.com/store)
   05:45 - Overview of [Chrome Apps](https://www.google.com/intl/en/chrome/webstore/apps-create.html)
 - [Legacy Apps](https://itunes.apple.com/us/app/legacy-countdown/id635713919?mt=8)
-- [Code Labs](http://www.codelabs.com/home.aspx)
+- [Code Labs](https://www.codelabs.com/home.aspx)
 - [Chrome Web Store](https://chrome.google.com/webstore)
   08:02 - Chrome with JavaScript
 - [Native Client](https://developer.chrome.com/native-client)
-- [Portable Native Client](http://www.chromium.org/nativeclient/pnacl/introduction-to-portable-native-client)
-- [Sandbox [Wiki]](<http://en.wikipedia.org/wiki/Sandbox_(computer_security)>)
-- [Chrome Sandbox](http://dev.chromium.org/developers/design-documents/sandbox)
-- [Netscape](http://isp.netscape.com/)
-- [Empathy](http://empathyphp.co.uk/)
-- [Pinnacle](http://www.pinnaclesys.com/publicsite/us/home/)
-- [WebRTC](http://www.webrtc.org/)
+- [Portable Native Client](https://www.chromium.org/nativeclient/pnacl/introduction-to-portable-native-client)
+- [Sandbox [Wiki]](<https://en.wikipedia.org/wiki/Sandbox_(computer_security)>)
+- [Chrome Sandbox](https://dev.chromium.org/developers/design-documents/sandbox)
+- [Netscape](https://isp.netscape.com/)
+- [Empathy](https://empathyphp.co.uk/)
+- [Pinnacle](https://www.pinnaclesys.com/publicsite/us/home/)
+- [WebRTC](https://www.webrtc.org/)
 - [Cracking Sands Racing](https://chrome.google.com/webstore/detail/cracking-sands-racing/pnafpgbiiobelphegdbieldnmojicndb?hl=en-GB)
-- [Jump](http://jumpdesktop.com/)
+- [Jump](https://jumpdesktop.com/)
   12:06 -Uses for Chrome Apps
 - [Web Apps](https://chrome.google.com/webstore/category/collection/drive_apps)
 - [Shopping Apps](https://chrome.google.com/webstore/search/shopping%20apps)
 - [Google Cloud](https://chrome.google.com/webstore/detail/chromemyadmin/ndgnpnpakfcdjmpgmcaknimfgcldechn)
 - [ChromeMyAdmin](https://chrome.google.com/webstore/detail/chromemyadmin/ndgnpnpakfcdjmpgmcaknimfgcldechn)
 - [Sample Apps](https://chrome.google.com/webstore/search/sample%20apps)
-- [Fluent Conference](http://fluentconf.com/fluent2014/public/content/home)
+- [Fluent Conference](https://fluentconf.com/fluent2014/public/content/home)
 - [Joe Marini at Fluent 2013](https://www.youtube.com/watch?v=e0W2szZ2qhg)
 - [Aaron Frost: 1.21 Gigawatts - Chromeapps w/ Node and Angular](https://www.youtube.com/watch?v=h3t_ytxQnjE)
 - [Paul Irish getting shocked at FluentConf 2013](https://www.youtube.com/watch?v=A598s8j0Gzw)
@@ -55,22 +55,22 @@ tags:
 - [Dart](https://www.dartlang.org/)
 - [Chrome Dev Editor](https://github.com/dart-lang/chromedeveditor)
   19:53 - Future of Browsers and Platforms
-- [Ruby Rogues #164 - Staying Sharp with Dave Thomas](http://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/)
+- [Ruby Rogues #164 - Staying Sharp with Dave Thomas](https://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/)
   22:12 - Future of Chrome Apps with Android
-- [Cordova](http://cordova.apache.org/)
+- [Cordova](https://cordova.apache.org/)
 - [Cordova Chrome App](https://github.com/MobileChromeApps/chrome-cordova)
-- [PhoneGap](http://phonegap.com/)
+- [PhoneGap](https://phonegap.com/)
   25:57 - Writing Apps with Chrome vs. Node.js
 - [Node Webkit](https://github.com/rogerwang/node-webkit)
-- [CSP [Wiki]](http://en.wikipedia.org/wiki/Content_Security_Policy)
-- [Chrome OS](http://download.cnet.com/Google-Chrome-OS/3000-18513_4-75329145.html)
+- [CSP [Wiki]](https://en.wikipedia.org/wiki/Content_Security_Policy)
+- [Chrome OS](https://download.cnet.com/Google-Chrome-OS/3000-18513_4-75329145.html)
   29:26 - Apps Extending Chrome
 - [Chrome Messaging System](https://developer.chrome.com/native-client/devguide/coding/message-system?hl=zh-CN)
-- [Internet Explorer](http://windows.microsoft.com/en-US/internet-explorer/download-ie) (IE)
-- [MongoDB](http://www.mongodb.org/)
+- [Internet Explorer](https://windows.microsoft.com/en-US/internet-explorer/download-ie) (IE)
+- [MongoDB](https://www.mongodb.org/)
   34:45 - Cross-Platform Apps
-- [Windows](http://windows.microsoft.com/en-us/windows/home)
-- [Mac OS X](http://www.apple.com/osx/)
+- [Windows](https://windows.microsoft.com/en-us/windows/home)
+- [Mac OS X](https://www.apple.com/osx/)
 - [Linux](https://www.linux.com/)
   36:26 - Joe’s Favorite Apps
 - [Sunrise](https://chrome.google.com/webstore/detail/sunrise-calendar/mojepfklcankkmikonjlnidiooanmpbb)
@@ -80,27 +80,27 @@ tags:
 - Cracking Sands
 - [WeVideo](https://chrome.google.com/webstore/detail/wevideo-video-editor-and/okgjbfikepgflmlelgfgecmgjnmnmnnb)
 - [Pixlr](https://chrome.google.com/webstore/detail/pixlr-o-matic/ehcibdjmpjlekgjhepbfmenfppliikcj)
-- [Autodesk](http://www.autodesk.com/)
+- [Autodesk](https://www.autodesk.com/)
   39:28 - Developer Resources
 - [developer.chrome.com/apps](https://developer.chrome.com/)
-- [github.com/googlechrome](http://github.com/googlechrome)
+- [github.com/googlechrome](https://github.com/googlechrome)
 - [Github](https://github.com/)
 - [Joe at Midwest.io (Youtube)](https://www.youtube.com/results?search_query=joe+marini+midwest+io)
-- [Stack Overflow- Google Chrome Apps](http://stackoverflow.com/search?q=google+chrome+apps)
-- [Stack Overflow](http://stackoverflow.com/)
+- [Stack Overflow- Google Chrome Apps](https://stackoverflow.com/search?q=google+chrome+apps)
+- [Stack Overflow](https://stackoverflow.com/)
   40:46 - Future of Chrome Apps
-- [NFR.com](http://nfr.com/)
+- [NFR.com](https://nfr.com/)
 
 ### Picks
 
-- [Ghostbusters](http://en.wikipedia.org/wiki/Ghostbusters) (AJ)
-- [Belkin Thunderbolt Express Dock with 1-Meter Thunderbolt Data Transfer Cable](http://www.amazon.com/gp/product/B00D6BYDGC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00D6BYDGC&linkCode=as2&tag=chamaxwoo-20&linkId=I2NZYWDXQROX7EPR) (AJ)
-- [StarTech.com Thunderbolt Laptop Docking Station with Cable for MacBook Air and MacBook Pro](http://www.amazon.com/gp/product/B00GQSBP90/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GQSBP90&linkCode=as2&tag=chamaxwoo-20&linkId=CX4HBJX5T2L52E2I) (Chuck)
-- [Derek](http://www.imdb.com/title/tt2616280/) (Joe E.)
-- [Resonate: Present Visual Stories that Transform Audiences by Nancy Duarte](http://www.amazon.com/gp/product/0470632011/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470632011&linkCode=as2&tag=chamaxwoo-20&linkId=XU5DWXPCMR7HRBFD) (Joe E.)
-- [Hounded (Iron Druid Chronicles) by Kevin Hearne](http://www.amazon.com/gp/product/0345522478/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345522478&linkCode=as2&tag=chamaxwoo-20&linkId=B6SLQIHAN5ZRHCIB) (Aaron)
-- [Pixi.js](http://www.pixijs.com/) (Aaron)
-- [Google Cardboard](http://g.co/cardboard) (Aaron)
+- [Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters) (AJ)
+- [Belkin Thunderbolt Express Dock with 1-Meter Thunderbolt Data Transfer Cable](https://www.amazon.com/gp/product/B00D6BYDGC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00D6BYDGC&linkCode=as2&tag=chamaxwoo-20&linkId=I2NZYWDXQROX7EPR) (AJ)
+- [StarTech.com Thunderbolt Laptop Docking Station with Cable for MacBook Air and MacBook Pro](https://www.amazon.com/gp/product/B00GQSBP90/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GQSBP90&linkCode=as2&tag=chamaxwoo-20&linkId=CX4HBJX5T2L52E2I) (Chuck)
+- [Derek](https://www.imdb.com/title/tt2616280/) (Joe E.)
+- [Resonate: Present Visual Stories that Transform Audiences by Nancy Duarte](https://www.amazon.com/gp/product/0470632011/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470632011&linkCode=as2&tag=chamaxwoo-20&linkId=XU5DWXPCMR7HRBFD) (Joe E.)
+- [Hounded (Iron Druid Chronicles) by Kevin Hearne](https://www.amazon.com/gp/product/0345522478/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345522478&linkCode=as2&tag=chamaxwoo-20&linkId=B6SLQIHAN5ZRHCIB) (Aaron)
+- [Pixi.js](https://www.pixijs.com/) (Aaron)
+- [Google Cardboard](https://g.co/cardboard) (Aaron)
 - [Apple 1984 Super Bowl Commercial Introducing Macintosh](https://www.youtube.com/watch?v=2zfqw8nhUwA) (Joe M.)
 
 ### Next Week

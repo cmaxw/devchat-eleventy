@@ -16,44 +16,44 @@ tags:
 
 - [Twitter](https://twitter.com/Interactivlogic)
 - [GitHub](https://github.com/InteractiveLogic)
-- [Blog](http://interactivelogic.net/wp/)
-- [Cloud City](http://www.cloudcity.io/)
+- [Blog](https://interactivelogic.net/wp/)
+- [Cloud City](https://www.cloudcity.io/)
   02:38 - [IoT (Internet of Things)](https://en.wikipedia.org/wiki/Internet_of_things); iOS & IoT
 - [iBeacon](https://en.wikipedia.org/wiki/IBeacon)
   06:48 - Panelist IoT Device Experiences
 - Andrew & Caleb: [Wired In](https://www.kickstarter.com/projects/wiredin/wired-in-wireless-productivity-sign-with-arduino-a)
 - Layne: [Nest Thermostat](https://nest.com/thermostat/meet-nest-thermostat/)
   - [Amazon Echo](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E)
-  - [Rachio Smart WiFi Sprinkler Controller](http://rachio.com)
-- Caleb: [RFduino](http://www.rfduino.com/)
+  - [Rachio Smart WiFi Sprinkler Controller](https://rachio.com)
+- Caleb: [RFduino](https://www.rfduino.com/)
 - Chuck: [Ring Wi-Fi Enabled Video Doorbell](https://www.amazon.com/Ring-Wi-Fi-Enabled-Video-Doorbell/dp/B00N2ZDXW2)
-  14:00 - [Near Field Communication](http://www.nearfieldcommunication.org/)
+  14:00 - [Near Field Communication](https://www.nearfieldcommunication.org/)
 - [Core Bluetooth](https://developer.apple.com/library/ios/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/AboutCoreBluetooth/Introduction.html)
 - [Core Location](https://developer.apple.com/library/ios/documentation/CoreLocation/Reference/CoreLocation_Framework/)
 - [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
   17:06 - Getting Started: Devices
 - [The Bean](https://punchthrough.com/bean)
-- [LightBlue Bean+](http://store.punchthrough.com/collections/all/products/lightblue-bean)
+- [LightBlue Bean+](https://store.punchthrough.com/collections/all/products/lightblue-bean)
 - [Arduino](https://www.arduino.cc/)
-  - [BLE Shield](http://redbearlab.com/bleshield/)
+  - [BLE Shield](https://redbearlab.com/bleshield/)
 - [The Particle Photon](https://store.particle.io/) &nbsp;&nbsp;
 - iBeacons
-  - [Estimote Beacons](http://estimote.com/)
-  - [Gimbal](http://www.gimbal.com/) - [Pop Up Labs](http://www.popup-labs.com/)
+  - [Estimote Beacons](https://estimote.com/)
+  - [Gimbal](https://www.gimbal.com/) - [Pop Up Labs](https://www.popup-labs.com/)
     21:35 - Starting Projects
 - [Tile](https://www.thetileapp.com/)
 - [iPhreaks Episode #127: iBeacons with Azam Sharp](https://devchat.tv/iphreaks/127-ips-ibeacons-with-azam-sharp)
-- [Samsonite Track&Go™ Suitcase](http://destination.samsonite.com/en-eu/news/samsonite-introduces-trackgo-reliable-solution-usi)
+- [Samsonite Track&Go™ Suitcase](https://destination.samsonite.com/en-eu/news/samsonite-introduces-trackgo-reliable-solution-usi)
 - 24:19 - Devices Connected to the Internet
 - [iPhreaks Show Episode #158: Internet of Things (IoT) with Olivier Bloch (from Microsoft Build Conference 2016)](https://devchat.tv/iphreaks/158-ips-internet-of-things-iot-with-olivier-bloch)
   28:19 - Threshold of Devices
-- [A.I. (Artificial Intelligence)](http://www.imdb.com/title/tt0212720/)
-- [Apple HomeKit](http://www.apple.com/ios/homekit/)
+- [A.I. (Artificial Intelligence)](https://www.imdb.com/title/tt0212720/)
+- [Apple HomeKit](https://www.apple.com/ios/homekit/)
   33:05 - Security
-- [Security in the Internet of Things](http://pages.path.windriver.com/-WP-IoT-security-in-the-internet-of-things)
+- [Security in the Internet of Things](https://pages.path.windriver.com/-WP-IoT-security-in-the-internet-of-things)
 - [TechCrunch - Why IoT Security Is So Critical](https://techcrunch.com/2015/10/24/why-iot-security-is-so-critical/)
   38:57 - Core Bluetooth Work Processes
-- [Texas Instruments Sensor Tags](http://www.ti.com/sensortag)
+- [Texas Instruments Sensor Tags](https://www.ti.com/sensortag)
   &nbsp;Picks
 - [PMKVObserver](https://github.com/postmates/PMKVObserver) (Andrew)
 - [Electric Imp](https://electricimp.com/platform/hardware/) (Andrew)
@@ -64,17 +64,17 @@ tags:
 - [iPhreaks Episode #107: Andrew Talks Arduino](https://devchat.tv/iphreaks/107-ips-andrew-talks-arduino) (Andrew)
 - [Yoav Schwartz: Practical CoreBluetooth for Peripherals](https://realm.io/news/yoav-schwartz-corebluetooth-peripherals/) (Andrew)
 - [BTLE Central Peripheral Transfer](https://developer.apple.com/library/ios/samplecode/BTLE_Transfer/Introduction/Intro.html) (Jaim)
-- [We put a chip in it!](http://weputachipinit.tumblr.com/) (Jaim)
+- [We put a chip in it!](https://weputachipinit.tumblr.com/) (Jaim)
 - [@internetofshit](https://twitter.com/internetofshit) (Jaim)
-- [PaintCode](http://www.paintcodeapp.com) (Caleb)
+- [PaintCode](https://www.paintcodeapp.com) (Caleb)
 - [Handy BLE](https://itunes.apple.com/us/app/handy-ble-simple-bluetooth/id985786496?mt=8) (Caleb)
-- [Rachio Smart WiFi Sprinkler Controller](http://rachio.com) (Layne)
+- [Rachio Smart WiFi Sprinkler Controller](https://rachio.com) (Layne)
 - [Motion Stills](https://itunes.apple.com/us/app/motion-stills-create-live/id1086172168?ls=1&mt=8) (Layne)
-- [Procrastinate on Purpose by Rory Vaden](http://www.procrastinateonpurpose.com/) (Chuck)
-- [Mophie Battery Cases](http://www.mophie.com/shop/battery-cases) (Chuck)
+- [Procrastinate on Purpose by Rory Vaden](https://www.procrastinateonpurpose.com/) (Chuck)
+- [Mophie Battery Cases](https://www.mophie.com/shop/battery-cases) (Chuck)
 - [Adafruit Learning System](https://learn.adafruit.com/) (Evan)
 - [BeaconsInSpace](https://www.beaconsinspace.com/) (Evan)
-- [Adam Savage's Maker Faire 2016 Talk](http://www.tested.com/art/makers/572490-adam-savages-maker-faire-2016-talk/) (Evan)
+- [Adam Savage's Maker Faire 2016 Talk](https://www.tested.com/art/makers/572490-adam-savages-maker-faire-2016-talk/) (Evan)
 
 ### Transcript
 

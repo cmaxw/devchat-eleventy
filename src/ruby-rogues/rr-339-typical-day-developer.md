@@ -45,7 +45,7 @@ tags:
 - [Calendly&nbsp;](https://calendly.com)
 - [Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)- Book
 - Writing Great Sentences&nbsp; - Book
-- [trello.com](http://trello.com)
+- [trello.com](https://trello.com)
   **Picks:** Eric
 - [Calendly&nbsp;](https://calendly.com)
 - [Clubhouse](https://clubhouse.io)

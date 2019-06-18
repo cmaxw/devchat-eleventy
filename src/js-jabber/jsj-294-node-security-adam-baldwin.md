@@ -48,14 +48,14 @@ tags:
 - [Have I been Pwned?](https://www.google.com/search?client=safari&rls=en&q=Have+I+been+Pwned?&ie=UTF-8&oe=UTF-8)
   Charles
 - [Nettie Pot&nbsp;](https://www.amazon.com/Aromatic-Salt-Premium-Ceramic-Green/dp/B01LOUBZGC/ref=sr_1_2_a_it?s=books&ie=UTF8&qid=1515028074&sr=8-2&keywords=Nettie+Pot)
-- [convo.com](http://convo.com)
+- [convo.com](https://convo.com)
   AJ
 - This Episode with Adam Baldwin
 - [Free the Future of Radical Price](https://www.amazon.com/Free-Future-Radical-Chris-Anderson/dp/1401322905)
 - [Made In America Sam Walton](https://www.amazon.com/Sam-Walton-Made-America-ebook/dp/B008ZPG704/ref=sr_1_1?s=books&ie=UTF8&qid=1515027905&sr=1-1&keywords=Made+In+America+Sam+Walton)
 - Sonic - VGM Album
   Joe
-- [Pych - Movie](http://deadline.com/2017/10/psych-the-movie-usa-networks-john-cena-new-york-comic-con-dule-hill-james-roday-1202184192/)
+- [Pych - Movie](https://deadline.com/2017/10/psych-the-movie-usa-networks-john-cena-new-york-comic-con-dule-hill-james-roday-1202184192/)
 - [NG Conf](https://www.ng-conf.org)
 - [Why We Don’t Suck](https://www.amazon.com/Why-We-Dont-Suck-Partisan/dp/1524762733)
 

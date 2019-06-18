@@ -48,7 +48,7 @@ This week on My JavaScript Story, Charles speaks with Sérgio Crisóstomo. Charl
 
 13:35 – Sérgio: One day in the school, we got a new principal that the school didn’t like. I left because I wasn’t happy. I was a fulltime musician, and looked at this fulltime-programming job. I went to an interview where there were code quizzes. I loved the challenges. I had to choose between two different careers. After some negotiations it was a great fit for me. I got to be in-charge of different projects. Right now, I am a senior developer. It’s a small company but it is growing.
 
-15:48 – [Advertisement  E-book!](http://codebadge.org/)
+15:48 – [Advertisement  E-book!](https://codebadge.org/)
 
 16:31 – Chuck: It’s interesting to see how you weren’t happy with your original job and how you got into programming fulltime.
 
@@ -86,13 +86,13 @@ This week on My JavaScript Story, Charles speaks with Sérgio Crisóstomo. Charl
 
 - [Meetup.com](https://www.meetup.com)
 - [Sergio’s GitHub](https://github.com/SergioCrisostomo)
-- [Sergio’s Website](http://sergiofrilans.se)
-- [Sergio’s Website](http://sergiofrilans.se/musician.html)
+- [Sergio’s Website](https://sergiofrilans.se)
+- [Sergio’s Website](https://sergiofrilans.se/musician.html)
 - [Sergio’s Twitter](https://twitter.com/sergiofrilans?lang=en)
 
 **Sponsors:**
 
-- [Code Badges](http://codebadge.org/)
+- [Code Badges](https://codebadge.org/)
 - Digital Ocean
 - [Cache Fly](https://www.cachefly.com)
 

@@ -30,6 +30,6 @@ Roslin helps the compiler become easier to work on. The API surface is provided 
 
 ## Picks:
 
-**Kasey:** &nbsp;[Kentucky Bourbon Trail](http://kybourbontrail.com/)
+**Kasey:** &nbsp;[Kentucky Bourbon Trail](https://kybourbontrail.com/)
 
 ### Transcript

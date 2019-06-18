@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/astory) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 **Host:** Charles Max Wood **Guest:** &nbsp;Joe Eames
@@ -33,12 +33,12 @@ In this episode of My Angular Story, Charles Max Wood hosts Joe Eames, CEO of Th
 - [https://github.com/stimulusjs/stimulus](https://github.com/stimulusjs/stimulus)
 - [https://www.ng-conf.org/](https://www.ng-conf.org/)
 - [https://twitter.com/loopconf](https://twitter.com/loopconf?lang=en)
-- [http://www.pluralsight.com/author/joe-eames](http://www.pluralsight.com/author/joe-eames)
+- [https://www.pluralsight.com/author/joe-eames](https://www.pluralsight.com/author/joe-eames)
 - [https://www.facebook.com/adventuresinangular](https://www.facebook.com/adventuresinangular)
 - [https://twitter.com/angularpodcast](https://twitter.com/angularpodcast)
 - [https://www.frameworksummit.com/](https://www.frameworksummit.com/)
 - [https://conf.reactjs.org/](https://conf.reactjs.org/)
-- [Dev Ed Podcast](http://devedpodcast.com)
+- [Dev Ed Podcast](https://devedpodcast.com)
 
 ### **Picks**
  **Joe Eames:**
@@ -47,7 +47,7 @@ In this episode of My Angular Story, Charles Max Wood hosts Joe Eames, CEO of Th
 - [Deep Space D-6 Board Game](https://www.tauleadergames.com/deep-space-d6)
 - [https://boardgamegeek.com/](https://boardgamegeek.com/)
 **Charles Max Wood:**
-- [Villainous Board Game](http://www.wonderforge.com/games/disney/villainous/)
+- [Villainous Board Game](https://www.wonderforge.com/games/disney/villainous/)
 - [Pandemic Legacy Season 2 Board Game](https://www.zmangames.com/en/products/pandemic-legacy-season-2/)
 - [Splendor Board Game](https://www.spacecowboys.fr/splendor/language:eng)
 - [Harry Potter: Hogwarts Battle Board Game](https://theop.games/products/game/harry-potter-hogwarts-battle-a-cooperative-deck-building-game/)

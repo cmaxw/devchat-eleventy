@@ -18,7 +18,7 @@ tags:
 
 00:42 - Introducing Jason Swett
 
-- [Angular on Rails](http://angularonrails.com)
+- [Angular on Rails](https://angularonrails.com)
 - Use the code “rubyrogues” to get \$10 off your purchase
 - [Twitter](https://twitter.com/jasonswett)
 - Email: jason@angularonrails.com
@@ -31,7 +31,7 @@ tags:
 - [Pragmatic Bookshelf](https://pragprog.com/)
   37:50 - How to get the most out of the book42:40 - Panelist Jerome Hardaway
 - [Previous Ruby Rogues Episode](https://devchat.tv/ruby-rogues/279-rr-vets-who-code-with-jerome-hardaway)
-- [Vets Who Code](http://vetswhocode.io/)
+- [Vets Who Code](https://vetswhocode.io/)
 - [DreamForce](https://www.salesforce.com/dreamforce/DF16/)
 
 ### **Picks:**

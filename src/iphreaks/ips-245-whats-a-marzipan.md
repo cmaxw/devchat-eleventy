@@ -58,7 +58,7 @@ In today’s episode, the iPhreaks panel talk about Marizipan. Marzipan is the c
 
 Jaim
 
-- [Sturgill Simpson](http://www.sturgillsimpson.com/)
+- [Sturgill Simpson](https://www.sturgillsimpson.com/)
 
 Erica
 

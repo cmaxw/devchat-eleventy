@@ -14,49 +14,49 @@ tags:
 
 03:40 - Cartooning
 
-- [Saron’s Cartoons](http://bloggytoons.com/toons/)
+- [Saron’s Cartoons](https://bloggytoons.com/toons/)
   04:39 - What is “Creativity” and “Being Creative”?
 - Purpose
 - Relaxing
-- [Becoming a Writer by Dorothea Brande](http://www.amazon.com/gp/product/0874771641/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0874771641&linkCode=as2&tag=chamaxwoo-20&linkId=XQ5RUGTME7RY6ZVS)
+- [Becoming a Writer by Dorothea Brande](https://www.amazon.com/gp/product/0874771641/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0874771641&linkCode=as2&tag=chamaxwoo-20&linkId=XQ5RUGTME7RY6ZVS)
 - Inspiration
   09:12 - Creativity and Coding
 - Stimulation
 - “The Principle of Least Surprise”
   18:40 - Avoidance and Procrastination
-- [Type A People vs Type B People](http://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory)
+- [Type A People vs Type B People](https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory)
   22:18 - Increasing Creativity
-- [exercism.io](http://exercism.io/)
+- [exercism.io](https://exercism.io/)
   23:35 - What is “Creativity”?
 - Self-Comparison
-- [RubyTapas](http://www.rubytapas.com/)
+- [RubyTapas](https://www.rubytapas.com/)
 - Novelty
 - Productivity & Invention
 - Getting Ideas
   31:02 - Creative Endeavours
 - Creating a Language
 - Inventing
-- [Everything is a Remix](http://everythingisaremix.info/)
+- [Everything is a Remix](https://everythingisaremix.info/)
 - “Manufacturing Serendipity”
   33:53 - Running Out of Ideas
 - “I write only when inspiration strikes. Fortunately it strikes every morning at nine o'clock sharp.” - W. Somerset Maugham
-- [National Novel Writing Month (NaNoWriMo)](http://nanowrimo.org/)
+- [National Novel Writing Month (NaNoWriMo)](https://nanowrimo.org/)
   37:38 - Stifling Creativity & Putting “Crap” Out There
 - Studying Other People’s Work
-  41:17 - [Left Brain vs Right Brain](http://psychology.about.com/od/cognitivepsychology/a/left-brain-right-brain.htm) 46:03 - Exploring Creativity 47:45 - How Do You Become Creative?
+  41:17 - [Left Brain vs Right Brain](https://psychology.about.com/od/cognitivepsychology/a/left-brain-right-brain.htm) 46:03 - Exploring Creativity 47:45 - How Do You Become Creative?
 - David’s Paperclip Example
 - Saron’s Candle on the Wall Example
-- [Drive by Dan Pink](http://www.amazon.com/gp/product/1594484805/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594484805&linkCode=as2&tag=chamaxwoo-20&linkId=DGX6RN27T7WS6E7T)
-- [Functional Fixedness](http://en.wikipedia.org/wiki/Functional_fixedness)
-- [Global Day of Coderetreat](http://globalday.coderetreat.org/)
+- [Drive by Dan Pink](https://www.amazon.com/gp/product/1594484805/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594484805&linkCode=as2&tag=chamaxwoo-20&linkId=DGX6RN27T7WS6E7T)
+- [Functional Fixedness](https://en.wikipedia.org/wiki/Functional_fixedness)
+- [Global Day of Coderetreat](https://globalday.coderetreat.org/)
 - Putting Yourself Under Stress/Duress
   01:01:42 - Contribute to Open Source
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Transcript
 

@@ -26,7 +26,7 @@ In this episode of Ruby Rogues, the panelists talk to Olivier Lacan about his bl
 **In particular, we dive pretty deep on:**
 
 - Olivier intro
-- [Sass](https://sass-lang.com/ruby-sass) and [Haml](http://haml.info/)
+- [Sass](https://sass-lang.com/ruby-sass) and [Haml](https://haml.info/)
 - [Code School](https://www.codeschool.com/)
 - Why they are shutting down Code School
 - Transferring expertise to [PluralSight](https://www.pluralsight.com/)
@@ -52,7 +52,7 @@ In this episode of Ruby Rogues, the panelists talk to Olivier Lacan about his bl
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Code School](https://www.codeschool.com/)
 - [Sass](https://sass-lang.com/ruby-sass)
-- [Haml](http://haml.info/)
+- [Haml](https://haml.info/)
 - [PluralSight](https://www.pluralsight.com/)
 - [_The Life and Death of a Rails App_ Talk](https://speakerdeck.com/olivierlacan/the-life-and-death-of-a-rails-app)
 - [Ruby Gems](https://rubygems.org/)

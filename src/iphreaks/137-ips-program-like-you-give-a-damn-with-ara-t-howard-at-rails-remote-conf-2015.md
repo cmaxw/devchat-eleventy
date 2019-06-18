@@ -34,7 +34,7 @@ Check out **[All Remote Confs](https://allremoteconfs.com)** for next year’s r
 
 &nbsp;
 
-We, the iPhreaks Show panelists (And, **[Mandy](http://twitter.com/therubyrep)**!), hope you had a very happy holiday season.
+We, the iPhreaks Show panelists (And, **[Mandy](https://twitter.com/therubyrep)**!), hope you had a very happy holiday season.
 
 ### Transcript
 

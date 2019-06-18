@@ -36,7 +36,7 @@ David:&nbsp;Minio Amazon S3 Compliant API Charles: JS RemoteConf talk about Lamb
 
 ## **Episode Links:**
 
-[5.1.0 release notes](http://edgeguides.rubyonrails.org/5_1_release_notes.html), [Yarn](https://yarnpkg.com/en/), [Webpack](https://webpack.js.org/)
+[5.1.0 release notes](https://edgeguides.rubyonrails.org/5_1_release_notes.html), [Yarn](https://yarnpkg.com/en/), [Webpack](https://webpack.js.org/)
 
 ### Transcript
 

@@ -30,7 +30,7 @@ Soroush&nbsp;explains that sequences are the simplest type available. It provide
 
 ## Picks:
 
-Erica: [Recommend Me a Book](http://www.recommendmeabook.com/)Soroush: [Serious Eats](http://www.seriouseats.com/)Andrew: travel to Japan
+Erica: [Recommend Me a Book](https://www.recommendmeabook.com/)Soroush: [Serious Eats](https://www.seriouseats.com/)Andrew: travel to Japan
 
 ## Episode Links:
 

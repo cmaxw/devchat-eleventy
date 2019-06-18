@@ -14,45 +14,45 @@ tags:
 
 ### Panel
 
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-02:15 - [XML](http://en.wikipedia.org/wiki/XML) vs [JSON](http://www.json.org/)
+02:15 - [XML](https://en.wikipedia.org/wiki/XML) vs [JSON](https://www.json.org/)
 
-- [JSON API](http://jsonapi.org/)
-- [AJ O'Neal: No, really, XML is retarded.](http://coolaj86.blogspot.com/2010_03_01_archive.html)
-  05:41 - [Single-page App](http://en.wikipedia.org/wiki/Single-page_application) vs [Server-side App](http://en.wikipedia.org/wiki/Server-side) vs [Client-side App](http://en.wikipedia.org/wiki/Client-side)09:40 - REST
+- [JSON API](https://jsonapi.org/)
+- [AJ O'Neal: No, really, XML is retarded.](https://coolaj86.blogspot.com/2010_03_01_archive.html)
+  05:41 - [Single-page App](https://en.wikipedia.org/wiki/Single-page_application) vs [Server-side App](https://en.wikipedia.org/wiki/Server-side) vs [Client-side App](https://en.wikipedia.org/wiki/Client-side)09:40 - REST
 - [REST API](https://www.twilio.com/docs/api/rest)
 - [Non-REST API](https://www.twilio.com/docs/api/twiml)
 - [AJ O'Neal: RESTful JSON APIs](https://docs.google.com/presentation/d/1y41QeYnV2AlpmLolmnx_oFn-qPwdoVTVQJQECnWe_-U/edit)
-  21:00 - Query Parameters 22:58 - [OData](http://www.odata.org/)24:27 - Authentication 27:05 - Streaming 30:55 - Designing an API for Real-Time Communication
-- [HTTP 2.0](http://en.wikipedia.org/wiki/HTTP_2.0)
-- [Ruby Rogues #135: HTTP 2.0 with Ilya Grigorik](http://rubyrogues.com/135-rr-http-2-0-with-ilya-grigorik/)
-- [WebSockets](http://en.wikipedia.org/wiki/WebSocket)
+  21:00 - Query Parameters 22:58 - [OData](https://www.odata.org/)24:27 - Authentication 27:05 - Streaming 30:55 - Designing an API for Real-Time Communication
+- [HTTP 2.0](https://en.wikipedia.org/wiki/HTTP_2.0)
+- [Ruby Rogues #135: HTTP 2.0 with Ilya Grigorik](https://rubyrogues.com/135-rr-http-2-0-with-ilya-grigorik/)
+- [WebSockets](https://en.wikipedia.org/wiki/WebSocket)
   35:24 - Formatting the JSON
 
 ### Picks
 
-- [Sphero](http://www.gosphero.com/) (Aaron)
-- [CylonJS](http://cylonjs.com/) (Aaron)
-- [Mascarade](http://www.boardgamegeek.com/boardgame/139030/mascarade) (Joe)
-- [The Winds of War by Robert Mitchum](http://www.amazon.com/gp/product/B0001NBNGQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0001NBNGQ&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [War and Remembrance by Robert Mitchum](http://www.amazon.com/gp/product/B001CDLATY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001CDLATY&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [Gatling Project - Stress Tool](http://gatling-tool.org/) (Jamison)
-- [The chillest of monkeys](http://www.chillestmonkey.com/) (Jamison)
-- [PassportJS](http://passportjs.org/) (AJ)
+- [Sphero](https://www.gosphero.com/) (Aaron)
+- [CylonJS](https://cylonjs.com/) (Aaron)
+- [Mascarade](https://www.boardgamegeek.com/boardgame/139030/mascarade) (Joe)
+- [The Winds of War by Robert Mitchum](https://www.amazon.com/gp/product/B0001NBNGQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0001NBNGQ&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [War and Remembrance by Robert Mitchum](https://www.amazon.com/gp/product/B001CDLATY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001CDLATY&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [Gatling Project - Stress Tool](https://gatling-tool.org/) (Jamison)
+- [The chillest of monkeys](https://www.chillestmonkey.com/) (Jamison)
+- [PassportJS](https://passportjs.org/) (AJ)
 - [OAuth2orize](https://github.com/jaredhanson/oauth2orize) (AJ)
-- [Influencer: The Power to Change Anything](http://www.amazon.com/gp/product/007148499X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007148499X&linkCode=as2&tag=chamaxwoo-20) (AJ)
-- [Nonviolent Communication: A Language of Life](http://www.amazon.com/gp/product/1892005034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=chamaxwoo-20) (AJ)
-- [Date Provo](http://dateprovo.com/) (AJ)
-- [Fiverr](http://fiverr.com/) (Chuck)
-- [Hover](http://www.hover.com/) (Chuck)
-- [Shark Tank Jump Start Your Business: How to Launch and Grow a Business from Concept to Cash by Michael Parrish DuDell](http://www.amazon.com/gp/product/1401312926/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1401312926&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Influencer: The Power to Change Anything](https://www.amazon.com/gp/product/007148499X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007148499X&linkCode=as2&tag=chamaxwoo-20) (AJ)
+- [Nonviolent Communication: A Language of Life](https://www.amazon.com/gp/product/1892005034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=chamaxwoo-20) (AJ)
+- [Date Provo](https://dateprovo.com/) (AJ)
+- [Fiverr](https://fiverr.com/) (Chuck)
+- [Hover](https://www.hover.com/) (Chuck)
+- [Shark Tank Jump Start Your Business: How to Launch and Grow a Business from Concept to Cash by Michael Parrish DuDell](https://www.amazon.com/gp/product/1401312926/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1401312926&linkCode=as2&tag=chamaxwoo-20) (Chuck)
 
 ### Next Week
 

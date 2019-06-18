@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io) use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 
 ### **Panelists:**
@@ -31,10 +31,10 @@ In this episode of the Freelancers' Show, the panel talks about their plans for 
 - [HubSpot Sales Chrome Plugin](https://chrome.google.com/webstore/detail/hubspot-sales/oiiaigjnkhngdbnoookogelabohpglmd?hl=en)
 - [la Barbecue](https://www.labarbecue.com/)
 **Jeremy Green:**
-- [Increase Your Consulting Fees](http://increaseyourconsultingfees.com/)
+- [Increase Your Consulting Fees](https://increaseyourconsultingfees.com/)
 - [Company Of One](https://ofone.co/)
 **Kai Davis:**
-- [Kick procrastination's ass: Run a dash](http://www.43folders.com/2005/09/08/kick-procrastinations-ass-run-a-dash)
+- [Kick procrastination's ass: Run a dash](https://www.43folders.com/2005/09/08/kick-procrastinations-ass-run-a-dash)
 - [TextExpander](https://textexpander.com/)
 **Reuven Lerner**
 - [Nine Pints](https://www.amazon.com/Nine-Pints-Journey-Medicine-Mysteries-ebook/)

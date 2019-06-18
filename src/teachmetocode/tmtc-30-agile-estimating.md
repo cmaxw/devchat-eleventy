@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-[![](http://teachmetocode.com/podcast/files/2010/08/BuildingSkills-itunes.jpg 'BuildingSkills-itunes')](http://teachmetocode.com/podcast/files/2010/08/BuildingSkills-itunes.jpg)Estimating your workload can be tricky, but most management, marketing, and sales departments want to know when new features or bug fixes will be out so they can project where what they'll be able to sell in the future. You can estimate on the following scales:
+[![](https://teachmetocode.com/podcast/files/2010/08/BuildingSkills-itunes.jpg 'BuildingSkills-itunes')](https://teachmetocode.com/podcast/files/2010/08/BuildingSkills-itunes.jpg)Estimating your workload can be tricky, but most management, marketing, and sales departments want to know when new features or bug fixes will be out so they can project where what they'll be able to sell in the future. You can estimate on the following scales:
 
 - T-shirt sizes
 - Fibonacci Numbers
@@ -23,4 +23,4 @@ tags:
 - Hours
 - Days
 - T-shirt sizes
-  Overall, estimation can help you inform timelines, identify problems in features or your development cycle, and open discussion on tough features. [Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC_30_-_Agile_Estimations.mp3)
+  Overall, estimation can help you inform timelines, identify problems in features or your development cycle, and open discussion on tough features. [Download this Episode](https://traffic.libsyn.com/charlesmaxwood/TMTC_30_-_Agile_Estimations.mp3)

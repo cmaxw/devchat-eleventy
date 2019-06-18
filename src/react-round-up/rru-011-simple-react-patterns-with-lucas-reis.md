@@ -52,7 +52,7 @@ In this episode of React Round Up, the panel discusses simple React patterns wit
 - [React](https://reactjs.org/)
 - [_Simple Made Easy_ by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
 - [Lucas’s GitHub](https://github.com/lucasmreis)
-- [Lucas’s Blog](http://lucasmreis.github.io/blog/)
+- [Lucas’s Blog](https://lucasmreis.github.io/blog/)
 - [@iamlucasreis](https://twitter.com/iamlucasreis)
 
 **Picks:**

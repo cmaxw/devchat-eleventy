@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)– use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/)– use the code “devchat” for $100 credit
 - [TripleByte](https://triplebyte.com/rogues) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -28,7 +28,7 @@ In this episode of React Round Up, Justin Bennett speaks with co-founder of Couc
 - [https://fauna.com/](https://fauna.com/)
 - [Serverless](https://serverless.com/)
 - [Netlify](https://www.netlify.com/)
-- [React Native](http://www.reactnative.com/)
+- [React Native](https://www.reactnative.com/)
 - [Firebase](https://firebase.google.com/)
 - [https://www.facebook.com/React-Round-Up](https://www.facebook.com/React-Round-Up-297859274397129/)
 - [https://twitter.com/reactroundup](https://twitter.com/reactroundup)

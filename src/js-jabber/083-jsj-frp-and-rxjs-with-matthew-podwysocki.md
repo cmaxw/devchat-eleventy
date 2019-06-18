@@ -14,36 +14,36 @@ tags:
 
 ### Panel
 
-- Matthew Podwysocki ([twitter](http://www.twitter.com/mattpodwysocki) [github](https://github.com/mattpodwysocki) [@ReactiveX](https://twitter.com/ReactiveX))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Matthew Podwysocki ([twitter](https://www.twitter.com/mattpodwysocki) [github](https://github.com/mattpodwysocki) [@ReactiveX](https://twitter.com/ReactiveX))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-01:01 - [061 JSJ Functional Reactive Programming with Juha Paananen and Joe Fiorini](http://javascriptjabber.com/061-jsj-functional-reactive-programming-with-juha-paananen-and-joe-fiorini/)
+01:01 - [061 JSJ Functional Reactive Programming with Juha Paananen and Joe Fiorini](https://javascriptjabber.com/061-jsj-functional-reactive-programming-with-juha-paananen-and-joe-fiorini/)
 
 - [Coursera: Principles of Reactive Programming](https://www.coursera.org/course/reactive)
   02:49 - Matthew Podwysocki
-- [Microsoft](http://www.microsoft.com/)
-  05:12 - [Functional Reactive Programming (FRP)](http://en.wikipedia.org/wiki/Functional_reactive_programming)07:01 - FRP vs Reactive Programming 09:31 - [RxJS](https://github.com/Reactive-Extensions/RxJS)
-- [Volta](http://en.wikipedia.org/wiki/Microsoft_Live_Labs_Volta)
+- [Microsoft](https://www.microsoft.com/)
+  05:12 - [Functional Reactive Programming (FRP)](https://en.wikipedia.org/wiki/Functional_reactive_programming)07:01 - FRP vs Reactive Programming 09:31 - [RxJS](https://github.com/Reactive-Extensions/RxJS)
+- [Volta](https://en.wikipedia.org/wiki/Microsoft_Live_Labs_Volta)
   21:15 - Reactive Programming and Backend Code 25:07 - Using Reactive Programming
 - [Netflix](https://netflix.com/)
-- [ChronoZoom](http://www.chronozoom.com/)
+- [ChronoZoom](https://www.chronozoom.com/)
   35:09 - The Future of RxJS
 - [IxJS](https://github.com/Reactive-Extensions/IxJS)
 
 ### Picks
 
-- [Helios – Caesura](http://www.amazon.com/Caesura-Helios/dp/B001EIK7PK) (Jamison)
-- [2005 Subaru Impreza](http://www.kbb.com/subaru/impreza/2005-subaru-impreza/outback-sport-wagon-4d/) (AJ)
-- [Top 11 Wagons and Hatchbacks for Tall Drivers for 2013](http://www.edmunds.com/car-reviews/top-10/top-11-wagons-and-hatchbacks-for-tall-drivers-for-2013.html) (AJ)
-- [Top 10 SUVs and Crossovers for Tall Drivers for 2013](http://www.edmunds.com/car-reviews/top-10/top-10-suvs-and-crossovers-for-tall-drivers-for-2013.html) (AJ)
-- [HMDX Jam Plus Portable Speaker](http://www.amazon.com/gp/product/B00BYRPPHQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BYRPPHQ&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [A standing desk for \$22](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html) (Chuck)
-- [RobotsWeekly](http://www.robotsweekly.com/)&nbsp;(Matthew)
-- [RobotsConf](http://www.robotsconf.com/)&nbsp;(Matthew)
+- [Helios – Caesura](https://www.amazon.com/Caesura-Helios/dp/B001EIK7PK) (Jamison)
+- [2005 Subaru Impreza](https://www.kbb.com/subaru/impreza/2005-subaru-impreza/outback-sport-wagon-4d/) (AJ)
+- [Top 11 Wagons and Hatchbacks for Tall Drivers for 2013](https://www.edmunds.com/car-reviews/top-10/top-11-wagons-and-hatchbacks-for-tall-drivers-for-2013.html) (AJ)
+- [Top 10 SUVs and Crossovers for Tall Drivers for 2013](https://www.edmunds.com/car-reviews/top-10/top-10-suvs-and-crossovers-for-tall-drivers-for-2013.html) (AJ)
+- [HMDX Jam Plus Portable Speaker](https://www.amazon.com/gp/product/B00BYRPPHQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BYRPPHQ&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [A standing desk for \$22](https://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html) (Chuck)
+- [RobotsWeekly](https://www.robotsweekly.com/)&nbsp;(Matthew)
+- [RobotsConf](https://www.robotsconf.com/)&nbsp;(Matthew)
 
 ### Next Week
 

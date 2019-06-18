@@ -16,23 +16,23 @@ tags:
 
 - [Twitter](https://twitter.com/keithwhor)
 - [GitHub](https://github.com/keithwhor)
-- [Blog](http://www.keithwhor.com/)
+- [Blog](https://www.keithwhor.com/)
 - [Polybit](https://polybit.com/)
-  02:50 - [Nodal](http://www.nodaljs.com/) | [nodal](https://github.com/keithwhor/nodal)
+  02:50 - [Nodal](https://www.nodaljs.com/) | [nodal](https://github.com/keithwhor/nodal)
 - [The LAMP Stack](https://www.turnkeylinux.org/lampstack)
 - [Node.js](https://nodejs.org/en/)
 - [Django](https://www.djangoproject.com/)
-- [Rails](http://rubyonrails.org/)
+- [Rails](https://rubyonrails.org/)
   05:41 - Frameworks07:56 - Async Flow; Callback Execution
-- [Brian LeRoux](http://brian.io/)
-  10:29 - Nodal Use Cases13:11 - [GraphQL](http://graphql.org/)15:07 - [PostgreSQL](https://www.postgresql.org/)17:56 - Developer Evolution
+- [Brian LeRoux](https://brian.io/)
+  10:29 - Nodal Use Cases13:11 - [GraphQL](https://graphql.org/)15:07 - [PostgreSQL](https://www.postgresql.org/)17:56 - Developer Evolution
 - [github.com/poly/dotcom](https://github.com/poly/dotcom)
   24:05 - Scheduled Tasks and Migrations
-- [Sidekiq](http://sidekiq.org/)
+- [Sidekiq](https://sidekiq.org/)
   28:57 - ORM Flexibility33:14 - API Payloads35:24 - The ORM40:37 - Testing43:10 - 1.0?45:18 - Getting Started&nbsp;Picks
 - [The 2016 UtahJS Conference](https://conf.utahjs.com/) (Dave)
-- [Writing good code: how to reduce the cognitive load of your code](http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/) (Aimee)
-- [Natural Calm](http://naturalvitality.com/natural-calm/) (Aimee)
+- [Writing good code: how to reduce the cognitive load of your code](https://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/) (Aimee)
+- [Natural Calm](https://naturalvitality.com/natural-calm/) (Aimee)
 - Unplugging from technology (Chuck)
 - [#CodeNewbie](https://twitter.com/hashtag/codenewbie) (Chuck)
 - [Angular Remote Conf](https://allremoteconfs.com/angular-2016) (Chuck)

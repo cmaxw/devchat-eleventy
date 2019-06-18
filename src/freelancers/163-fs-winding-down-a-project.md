@@ -37,7 +37,7 @@ tags:
 - Working With Startups
   45:47 - “Offboarding” Cont’dPicks
 
-[Podcast for America](http://www.slate.com/articles/podcasts/podcast_for_america.html) (Reuven)[HRV4Training](https://itunes.apple.com/us/app/hrv4training/id686923970?mt=8) (Eric)[Terrifying Robot Dog](http://show.terrifyingrobotdog.com/) (Jonathan)[Bartesian: the Ultimate Home Cocktail Machine](https://www.kickstarter.com/projects/1384275386/bartesian-the-first-capsule-cocktail-machine) (Jonathan)[Mandy's Fiancé's Video Game Fund](https://life.indiegogo.com/fundraisers/mandy-s-fiance-s-video-game-fund) (Chuck)[Downcast](http://www.downcastapp.com/) (Chuck)[Aftershokz AS500 Bluez 2 Open Ear Wireless Stereo Headphones](http://www.amazon.com/gp/product/B00JO9Y176/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JO9Y176&linkCode=as2&tag=chamaxwoo-20&linkId=OIQYBVN2TZXHXR7V) (Chuck)
+[Podcast for America](https://www.slate.com/articles/podcasts/podcast_for_america.html) (Reuven)[HRV4Training](https://itunes.apple.com/us/app/hrv4training/id686923970?mt=8) (Eric)[Terrifying Robot Dog](https://show.terrifyingrobotdog.com/) (Jonathan)[Bartesian: the Ultimate Home Cocktail Machine](https://www.kickstarter.com/projects/1384275386/bartesian-the-first-capsule-cocktail-machine) (Jonathan)[Mandy's Fiancé's Video Game Fund](https://life.indiegogo.com/fundraisers/mandy-s-fiance-s-video-game-fund) (Chuck)[Downcast](https://www.downcastapp.com/) (Chuck)[Aftershokz AS500 Bluez 2 Open Ear Wireless Stereo Headphones](https://www.amazon.com/gp/product/B00JO9Y176/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JO9Y176&linkCode=as2&tag=chamaxwoo-20&linkId=OIQYBVN2TZXHXR7V) (Chuck)
 
 ### Transcript
 

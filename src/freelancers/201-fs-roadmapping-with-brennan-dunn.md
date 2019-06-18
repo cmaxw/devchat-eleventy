@@ -20,11 +20,11 @@ Check out [All Remote Confs](https://allremoteconfs.com/)!
 
 - [Twitter](https://twitter.com/brennandunn)
 - [GitHub](https://github.com/brennandunn)
-- [Blog](http://brennandunn.com/)
-- [The Freelancers’ Show #77: Recurring Revenue with Brennan Dunn](http://www.freelancersshow.com/the-freelancers-show-077-recurring-revenue-with-brennan-dunn/)
+- [Blog](https://brennandunn.com/)
+- [The Freelancers’ Show #77: Recurring Revenue with Brennan Dunn](https://www.freelancersshow.com/the-freelancers-show-077-recurring-revenue-with-brennan-dunn/)
 - [The Freelancers' Show #96: Value-Based Pricing with Brennan Dunn](https://devchat.tv/freelancers/the-freelancers-show-096-value-based-pricing-with-brennan-dunn)
-- [Double Your Freelancing Rate by Brennan Dunn](http://doubleyourfreelancingrate.com/)
-- [Double Your Freelancing Conference](http://doubleyourfreelancing.com/conf/)
+- [Double Your Freelancing Rate by Brennan Dunn](https://doubleyourfreelancingrate.com/)
+- [Double Your Freelancing Conference](https://doubleyourfreelancing.com/conf/)
 
 04:00 - Roadmapping vs Estimating
 
@@ -48,7 +48,7 @@ Check out [All Remote Confs](https://allremoteconfs.com/)!
 
 48:29 - Mistakes Made Along the WayPicks
 
-[Dropshare](https://getdropsha.re/) (Jonathan)[Horace and Pete](https://louisck.net/show/horace-and-pete) (Jonathan)[The Expanse](http://www.imdb.com/title/tt3230854/) (Philip)[Thrive Landing Pages](https://thrivethemes.com/landingpages/) (Philip)[Machine Learning Mastery](http://machinelearningmastery.com/) (Reuven)[The Terrible Two Get Worse](http://www.amazon.com/Terrible-Two-Get-Worse/dp/1419716808) (Reuven)[The Microsoft Build Conference](https://build.microsoft.com/) (Chuck)[HoloLens](https://www.microsoft.com/microsoft-hololens/en-us) (Chuck) Retreats (Chuck)[MicroConf](http://www.microconf.com/) (Chuck)[Advance Custom Fields](https://www.advancedcustomfields.com/) (Brennan)[WooCommerce](https://www.woothemes.com/woocommerce/) (Brennan)[Mastering Project Roadmaps](https://doubleyourfreelancing.com/roadmapping/) (Brennan)[Double Your Freelancing Conference](http://doubleyourfreelancing.com/conf) (Brennan)
+[Dropshare](https://getdropsha.re/) (Jonathan)[Horace and Pete](https://louisck.net/show/horace-and-pete) (Jonathan)[The Expanse](https://www.imdb.com/title/tt3230854/) (Philip)[Thrive Landing Pages](https://thrivethemes.com/landingpages/) (Philip)[Machine Learning Mastery](https://machinelearningmastery.com/) (Reuven)[The Terrible Two Get Worse](https://www.amazon.com/Terrible-Two-Get-Worse/dp/1419716808) (Reuven)[The Microsoft Build Conference](https://build.microsoft.com/) (Chuck)[HoloLens](https://www.microsoft.com/microsoft-hololens/en-us) (Chuck) Retreats (Chuck)[MicroConf](https://www.microconf.com/) (Chuck)[Advance Custom Fields](https://www.advancedcustomfields.com/) (Brennan)[WooCommerce](https://www.woothemes.com/woocommerce/) (Brennan)[Mastering Project Roadmaps](https://doubleyourfreelancing.com/roadmapping/) (Brennan)[Double Your Freelancing Conference](https://doubleyourfreelancing.com/conf) (Brennan)
 
 ### Transcript
 

@@ -14,13 +14,13 @@ tags:
 
 01:29 - Elisabeth Hendrickson Introduction
 
-- [Pivotal Labs](http://pivotallabs.com/)
-- [Caltech](http://www.caltech.edu/)
-- [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](http://pragprog.com/book/ehxta/explore-it)
+- [Pivotal Labs](https://pivotallabs.com/)
+- [Caltech](https://www.caltech.edu/)
+- [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](https://pragprog.com/book/ehxta/explore-it)
 
 05:00 - The Role of a Software Tester
 
-- [The Art of Software Testing by Glenford J. Myers](http://www.amazon.com/gp/product/1118031962/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118031962&linkCode=as2&tag=chamaxwoo-20)
+- [The Art of Software Testing by Glenford J. Myers](https://www.amazon.com/gp/product/1118031962/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118031962&linkCode=as2&tag=chamaxwoo-20)
 
 08:39 - Exploratory Testing
 
@@ -35,7 +35,7 @@ tags:
 
 22:19 - Implementing Exploratory Testing
 
-- Dude’s Law: [The Dude Abides (An Interview with David Hussman)](http://pragprog.com/magazines/2012-01/the-dude-abides)
+- Dude’s Law: [The Dude Abides (An Interview with David Hussman)](https://pragprog.com/magazines/2012-01/the-dude-abides)
 
 32:20 - Personas
 
@@ -46,17 +46,17 @@ tags:
 
 - Mental Pack Rat Syndrome
 
-37:00 - [Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character) by Richard P. Feynman](http://www.amazon.com/gp/product/0393316041/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393316041&linkCode=as2&tag=chamaxwoo-20)
+37:00 - [Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character) by Richard P. Feynman](https://www.amazon.com/gp/product/0393316041/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393316041&linkCode=as2&tag=chamaxwoo-20)
 
-39:08 - [Fuzz Testing](http://en.wikipedia.org/wiki/Fuzz_testing)
+39:08 - [Fuzz Testing](https://en.wikipedia.org/wiki/Fuzz_testing)
 
 40:29 - Tools
 
 - irb
-- [Firebug](http://getfirebug.com/)
+- [Firebug](https://getfirebug.com/)
 - [Chrome’s Developer Mode](https://sites.google.com/site/chromeoswikisite/home/what-s-new-in-dev-and-beta/developer-mode)
-- [JavaScript Console](http://jsconsole.com/)
-- [Fiddler](http://fiddler2.com/)
+- [JavaScript Console](https://jsconsole.com/)
+- [Fiddler](https://fiddler2.com/)
 
 42:31 - Mocking
 
@@ -66,7 +66,7 @@ tags:
 
 47:20 - “ET”
 
-48:04 - [Exploration Testing the Easy Button](http://www.youtube.com/watch?v=Vy0I2SB5OLo)
+48:04 - [Exploration Testing the Easy Button](https://www.youtube.com/watch?v=Vy0I2SB5OLo)
 
 48:32 - Exploratory Testing in a Project
 
@@ -80,13 +80,13 @@ tags:
 
 58:11 - Resources
 
-- [Association for Software Testing](http://www.associationforsoftwaretesting.org/)
-- [CAST 2013](http://www.associationforsoftwaretesting.org/conference/cast-2013/)
-- [Pacific Northwest Software Quality Conference (PNSQC)](http://www.pnsqc.org/)
+- [Association for Software Testing](https://www.associationforsoftwaretesting.org/)
+- [CAST 2013](https://www.associationforsoftwaretesting.org/conference/cast-2013/)
+- [Pacific Northwest Software Quality Conference (PNSQC)](https://www.pnsqc.org/)
 
 ### Book Club
 
-[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](http://computationbook.com/) &nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O'Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
+[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](https://computationbook.com/) &nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O'Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
 
 ### Next Week
 

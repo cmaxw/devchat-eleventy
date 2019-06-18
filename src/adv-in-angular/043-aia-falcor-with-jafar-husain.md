@@ -12,27 +12,27 @@ tags:
   - podcast
 ---
 
-Check out and sign up for [Ruby Remote Conf](http://rubyremoteconf.com)!
+Check out and sign up for [Ruby Remote Conf](https://rubyremoteconf.com)!
 
 02:09 - Jafar Husain Introduction
 
 - [Twitter](https://twitter.com/jhusain)
 - [GitHub](https://github.com/jhusain)
 - [Netflix](https://www.netflix.com/)
-- [TC39](http://www.ecma-international.org/memento/TC39.htm)
+- [TC39](https://www.ecma-international.org/memento/TC39.htm)
 
 02:42 - Falcor
 
 - [@falcorjs](https://twitter.com/falcorjs)
 - [Netflix JavaScript Talks - Falcor](https://www.youtube.com/watch?v=z8UgDZ4rXBU)
 
-06:56 - [MVC (Model View Controller)](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+06:56 - [MVC (Model View Controller)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 
 - Separation of Concerns
 
 17:41 - Performance
 
-- [REST](http://en.wikipedia.org/wiki/Representational_state_transfer)
+- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - Lazy Loading
 
 34:23 - Angular 2
@@ -41,7 +41,7 @@ Check out and sign up for [Ruby Remote Conf](http://rubyremoteconf.com)!
 - Data Access Patterns
   Picks
 
-[Land of Lisp: Learn to Program in Lisp, One Game at a Time! by Conrad Barski, M.D.](http://www.nostarch.com/lisp.htm) (Lukas)[Stevie Wonder: 1-2-3 Sesame Street](https://www.youtube.com/watch?v=tFlxh9I6Bw4) (Lukas)[Visual Studio Code](https://code.visualstudio.com/) (Ward)[Traction: Get a Grip on Your Business by Gino Wickman](http://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=GXM77XKIU2CJR2GJ) (Chuck)[Wool by Hugh Howey](http://www.amazon.com/gp/product/1476733953/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476733953&linkCode=as2&tag=chamaxwoo-20&linkId=76PJP26QUP5CMUJ3) (Chuck)[MediaWiki](https://www.mediawiki.org/) (Chuck)[PureScript](http://www.purescript.org/) (Jafar)
+[Land of Lisp: Learn to Program in Lisp, One Game at a Time! by Conrad Barski, M.D.](https://www.nostarch.com/lisp.htm) (Lukas)[Stevie Wonder: 1-2-3 Sesame Street](https://www.youtube.com/watch?v=tFlxh9I6Bw4) (Lukas)[Visual Studio Code](https://code.visualstudio.com/) (Ward)[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=GXM77XKIU2CJR2GJ) (Chuck)[Wool by Hugh Howey](https://www.amazon.com/gp/product/1476733953/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476733953&linkCode=as2&tag=chamaxwoo-20&linkId=76PJP26QUP5CMUJ3) (Chuck)[MediaWiki](https://www.mediawiki.org/) (Chuck)[PureScript](https://www.purescript.org/) (Jafar)
 
 ### Transcript
 

@@ -26,29 +26,29 @@ tags:
 
 - [React Native](https://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
-- [Electron](http://electron.atom.io/)
+- [Electron](https://electron.atom.io/)
 - [Cordova](https://cordova.apache.org/)
 - [iOT (Internet of Things)](https://en.wikipedia.org/wiki/Internet_of_Things)
-- [Elm](http://elm-lang.org/)
+- [Elm](https://elm-lang.org/)
 
 10:56 - [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
-19:16 - [Elm](http://elm-lang.org/) / [redux](https://github.com/rackt/redux)
+19:16 - [Elm](https://elm-lang.org/) / [redux](https://github.com/rackt/redux)
 
 22:40 - [RxJS](https://github.com/Reactive-Extensions/RxJS) and [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
 
-- [Victor Savkin: Managing State in Angular 2 Applications](http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications)
+- [Victor Savkin: Managing State in Angular 2 Applications](https://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications)
 
 25:00 - ES2015
 
-27:43 - Types: [TypeScript](http://www.typescriptlang.org/) / [Flow](http://flowtype.org/)
+27:43 - Types: [TypeScript](https://www.typescriptlang.org/) / [Flow](https://flowtype.org/)
 
 30:59 - [npm](https://www.npmjs.com/)
 
 33:00 - Junior Developers and Bootcamps
 
 - [Thinkful](https://www.thinkful.com/)
-- [Bloc](http://bloc.io)
+- [Bloc](https://bloc.io)
 
 47:27 - Will other communities start looking at Node?
 
@@ -59,7 +59,7 @@ tags:
 - [Visual Studio Code](https://code.visualstudio.com/)
   Picks
 
-[Victor Savkin: Managing State in Angular 2 Applications](http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications) (Joe)[Desserts of Kharak](http://store.steampowered.com/app/281610/) (Joe)[The Prodigals Club](https://boardgamegeek.com/boardgame/181796/prodigals-club) (Joe)[AST explorer](https://astexplorer.net/) (Aimee)[Chyld Medford](https://twitter.com/chyldmedford) (Aimee)[Mazie's Girl Scout Cookie Digital Order Site](https://digitalcookie.girlscouts.org/scout/mazie7271/) (Aimee)[Mogo Portable Seat](http://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00) (Chuck)[Patt Flynn: How to Write a Book: The Secret to a Super Fast First Draft](http://www.smartpassiveincome.com/how-to-write-a-book-fast-first-draft/) (Chuck)[React Remote Conf](https://allremoteconfs.com/react-2016) (Chuck)
+[Victor Savkin: Managing State in Angular 2 Applications](https://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications) (Joe)[Desserts of Kharak](https://store.steampowered.com/app/281610/) (Joe)[The Prodigals Club](https://boardgamegeek.com/boardgame/181796/prodigals-club) (Joe)[AST explorer](https://astexplorer.net/) (Aimee)[Chyld Medford](https://twitter.com/chyldmedford) (Aimee)[Mazie's Girl Scout Cookie Digital Order Site](https://digitalcookie.girlscouts.org/scout/mazie7271/) (Aimee)[Mogo Portable Seat](https://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00) (Chuck)[Patt Flynn: How to Write a Book: The Secret to a Super Fast First Draft](https://www.smartpassiveincome.com/how-to-write-a-book-fast-first-draft/) (Chuck)[React Remote Conf](https://allremoteconfs.com/react-2016) (Chuck)
 
 ### Transcript
 

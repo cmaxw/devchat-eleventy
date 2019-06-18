@@ -40,7 +40,7 @@ Charles Max Wood **Special Guests:&nbsp;** Chris Dias PJ Meyer In this episode, 
   **Links:**
 - https://code.visualstudio.com
 - [https://github.com/chrisdias](https://github.com/chrisdias)
-- [GitHub.com/microsoft](http://GitHub.com/microsoft)
+- [GitHub.com/microsoft](https://GitHub.com/microsoft)
 - @code
   **Picks:** Chris
 - Pizza

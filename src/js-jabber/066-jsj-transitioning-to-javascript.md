@@ -14,39 +14,39 @@ tags:
 
 ### Panel
 
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-01:10 - Making the transition from one primary language to [JavaScript](http://en.wikipedia.org/wiki/Javascript)01:30 - Merrick’s Experience
+01:10 - Making the transition from one primary language to [JavaScript](https://en.wikipedia.org/wiki/Javascript)01:30 - Merrick’s Experience
 
 - [ActionScript](https://en.wikipedia.org/wiki/ActionScript)
   03:32 - Joe’s Experience
 - [.NET](https://en.wikipedia.org/wiki/.NET_Framework)
-- [Microsoft](http://www.microsoft.com/)
-  07:46 - Moving from [C#](<http://en.wikipedia.org/wiki/C_Sharp_(programming_language)>) to JavaScript
+- [Microsoft](https://www.microsoft.com/)
+  07:46 - Moving from [C#](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>) to JavaScript
 - Misconceptions
   09:25 - JavaScript Misconceptions 10:59 - Chuck’s Experience
-- [Ruby on Rails](http://en.wikipedia.org/wiki/Ruby_on_Rails)
+- [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails)
   14:25 - Rails and JavaScript Avoidance 15:25 - Microsoft and JavaScript Avoidance 16:58 - JavaScript Development in General
 - Browsers and Problems
   23:38 - Libraries and Tools
-- [044 JSJ Book Club: Effective JavaScript with David Herman](http://javascriptjabber.com/044-jsj-book-club-effective-javascript-with-david-herman/)
-- [Effective JavaScript by David Herman](http://www.amazon.com/gp/product/0321812182/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321812182)
-  24:45 - Code Structure 27:03 - [node.js](http://nodejs.org/)28:00 - Learning core concepts behind JavaScript 29:11 - Understanding Clojures, Scoping & Context 29:53 - Testing 31:35 - Deviating off the common path 33:10 - Idiomatic JavaScript
+- [044 JSJ Book Club: Effective JavaScript with David Herman](https://javascriptjabber.com/044-jsj-book-club-effective-javascript-with-david-herman/)
+- [Effective JavaScript by David Herman](https://www.amazon.com/gp/product/0321812182/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321812182)
+  24:45 - Code Structure 27:03 - [node.js](https://nodejs.org/)28:00 - Learning core concepts behind JavaScript 29:11 - Understanding Clojures, Scoping & Context 29:53 - Testing 31:35 - Deviating off the common path 33:10 - Idiomatic JavaScript
 
 ### Picks
 
-- [Dart](http://www.dartlang.org/) (Merrick)
+- [Dart](https://www.dartlang.org/) (Merrick)
 - [ES6 Plans](https://wiki.mozilla.org/ES6_plans) (Merrick)
-- [Defiance](http://www.defiance.com/en/series/) (Joe)
-- [America's Got Talent](http://www.nbc.com/americas-got-talent/) (Joe)
-- [StarCraft II World Championship Series (WCS)](http://wcs.battle.net/sc2/en?utm_source=battle.net&utm_medium=internal&utm_campaign=wcs&utm_content=sc2-rail) (Joe)
-- [Continuum](http://www.showcase.ca/continuum) (Chuck)
-- [Fringe](http://www.fox.com/fringe) (Chuck)
-- [CleanMyMac](http://macpaw.com/cleanmymac) (Chuck)
+- [Defiance](https://www.defiance.com/en/series/) (Joe)
+- [America's Got Talent](https://www.nbc.com/americas-got-talent/) (Joe)
+- [StarCraft II World Championship Series (WCS)](https://wcs.battle.net/sc2/en?utm_source=battle.net&utm_medium=internal&utm_campaign=wcs&utm_content=sc2-rail) (Joe)
+- [Continuum](https://www.showcase.ca/continuum) (Chuck)
+- [Fringe](https://www.fox.com/fringe) (Chuck)
+- [CleanMyMac](https://macpaw.com/cleanmymac) (Chuck)
 
 ### Book Club
 

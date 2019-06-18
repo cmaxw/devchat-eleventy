@@ -14,88 +14,88 @@ tags:
 
 ### Panel
 
-- Dylan Schiemann ([twitter](https://twitter.com/dylans) [github](https://github.com/dylans) [blog](http://dylanschiemann.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Dylan Schiemann ([twitter](https://twitter.com/dylans) [github](https://github.com/dylans) [blog](https://dylanschiemann.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 00:57 - Dylan Schiemann Introduction
 
-- [The Dojo Toolkit](http://dojotoolkit.org/)
-- [CEO of SitePen](http://www.sitepen.com/)
+- [The Dojo Toolkit](https://dojotoolkit.org/)
+- [CEO of SitePen](https://www.sitepen.com/)
   01:14 - Dojo
 - [TD Ameritrade](https://www.tdameritrade.com/)
-- [The Wall Street Journal](http://online.wsj.com/home-page)
-- [JPMorgan Chase & Co](http://www.jpmorganchase.com/corporate/Home/home.htm)
-- [TD Bank](http://www.tdbank.com/)
+- [The Wall Street Journal](https://online.wsj.com/home-page)
+- [JPMorgan Chase & Co](https://www.jpmorganchase.com/corporate/Home/home.htm)
+- [TD Bank](https://www.tdbank.com/)
 - [voro.com](https://voro.com/)
-- [Esri](http://www.esri.com/)
+- [Esri](https://www.esri.com/)
   04:40 - Why is Dojo relevant today?
 - Peter Higgins: #dadt (Dojo already did that)
-  07:00 - [AMD](http://www.sitepen.com/blog/2012/06/25/amd-the-definitive-source/) and [RequireJS](http://requirejs.org/)
+  07:00 - [AMD](https://www.sitepen.com/blog/2012/06/25/amd-the-definitive-source/) and [RequireJS](https://requirejs.org/)
 - Performance Benefits
-- [CommonJS](http://www.commonjs.org/)
-  10:34 - [Dijit](http://dojotoolkit.org/reference-guide/1.9/dijit/)
+- [CommonJS](https://www.commonjs.org/)
+  10:34 - [Dijit](https://dojotoolkit.org/reference-guide/1.9/dijit/)
 - Form Controls
 - Layout Widgets
 - Other Widgets (i.e. grids, rich text editor controls, trees, etc.)
-- [Polymer](http://www.polymer-project.org/)
+- [Polymer](https://www.polymer-project.org/)
   15:32 - Browser Support
-- [The Awesome Bar](http://support.mozilla.org/en-US/kb/awesome-bar-find-your-bookmarks-history-and-tabs?redirectlocale=en-US&redirectslug=Location+bar+autocomplete)
+- [The Awesome Bar](https://support.mozilla.org/en-US/kb/awesome-bar-find-your-bookmarks-history-and-tabs?redirectlocale=en-US&redirectslug=Location+bar+autocomplete)
 - Removing Code
 - Aspect-oriented Programming
   20:01 - Dojo 2
-- [Dojo Mobile](http://dojotoolkit.org/features/mobile)
+- [Dojo Mobile](https://dojotoolkit.org/features/mobile)
 - Responsive Dijits
 - Local Storage
 - Better Grid Widgets
 - Cleaner APIs
   32:52 - Marketing Dojo
-- [Dojo Tutorials](http://dojotoolkit.org/documentation/)
+- [Dojo Tutorials](https://dojotoolkit.org/documentation/)
 - Good APIs
 - Demos
-- [Target Environments](http://yuilibrary.com/yui/environments/)
+- [Target Environments](https://yuilibrary.com/yui/environments/)
   27:55 - Graded Support
-- [Graded Browser Support - YUI Library](http://yuilibrary.com/yui/docs/tutorials/gbs/)
+- [Graded Browser Support - YUI Library](https://yuilibrary.com/yui/docs/tutorials/gbs/)
   30:56 - Maintaining the old version while moving ahead with the new version 33:01 - Strict Mode
-- [dojo.declare](http://dojotoolkit.org/reference-guide/1.6/dojo/declare.html)
-  34:15 - Dojo and [Node.js](http://nodejs.org/)
-- [dojo/request](http://dojotoolkit.org/reference-guide/dojo/request.html)
-  36:20 - [The Dojo Foundation](http://dojofoundation.org/)
+- [dojo.declare](https://dojotoolkit.org/reference-guide/1.6/dojo/declare.html)
+  34:15 - Dojo and [Node.js](https://nodejs.org/)
+- [dojo/request](https://dojotoolkit.org/reference-guide/dojo/request.html)
+  36:20 - [The Dojo Foundation](https://dojofoundation.org/)
 - [lodash](https://github.com/bestiejs/lodash)
 - [The Intern](https://github.com/theintern/intern)
   40:21 - Testing
-- [D.O.H.: Dojo Objective Harness](http://dojotoolkit.org/reference-guide/1.9/util/doh.html)
+- [D.O.H.: Dojo Objective Harness](https://dojotoolkit.org/reference-guide/1.9/util/doh.html)
 - [Sauce Labs](https://saucelabs.com/)
-- [Chai](http://chaijs.com/)
+- [Chai](https://chaijs.com/)
   42:56 - Charting and Graphing & Vector Graphics
-- [DojoX](http://dojotoolkit.org/reference-guide/1.9/dojox/)
+- [DojoX](https://dojotoolkit.org/reference-guide/1.9/dojox/)
 - [voro.com](https://voro.com/)
-- [GFX](http://dojotoolkit.org/reference-guide/1.9/dojox/gfx.html)
-- [D3](http://d3js.org/)
-- [Raphaël](http://raphaeljs.com/)
-  46:41 - The History of Dojo and [Prototype](http://prototypejs.org/)
+- [GFX](https://dojotoolkit.org/reference-guide/1.9/dojox/gfx.html)
+- [D3](https://d3js.org/)
+- [Raphaël](https://raphaeljs.com/)
+  46:41 - The History of Dojo and [Prototype](https://prototypejs.org/)
 
 ### Picks
 
-- [Sexism in Video Games - This Female Gamer is Fed Up / from a woman's view / woman / Rape is in Grand Theft Auto Game](http://spooky.ms11.net/pages/p2.html) (AJ)
-- [My Fair Lady](http://www.imdb.com/title/tt0058385/) (AJ)
-- [Moon](http://www.imdb.com/title/tt1182345/) (Jamison)
-- [Dr. Dog](http://www.drdogmusic.com/) (Jamison)
+- [Sexism in Video Games - This Female Gamer is Fed Up / from a woman's view / woman / Rape is in Grand Theft Auto Game](https://spooky.ms11.net/pages/p2.html) (AJ)
+- [My Fair Lady](https://www.imdb.com/title/tt0058385/) (AJ)
+- [Moon](https://www.imdb.com/title/tt1182345/) (Jamison)
+- [Dr. Dog](https://www.drdogmusic.com/) (Jamison)
 - [Warhammer Quest](https://itunes.apple.com/nz/app/warhammer-quest/id573516833?mt=8) (Joe)
 - [Knights of the Old Republic](https://itunes.apple.com/us/app/star-wars-knights-old-republic/id611436052?mt=8) (Joe)
-- [Ruins by Orson Scott Card](http://www.amazon.com/gp/product/1416991778/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1416991778&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [AngularJS Fundamentals (Joe’s Pluralsight Course)](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) (Joe)
+- [Ruins by Orson Scott Card](https://www.amazon.com/gp/product/1416991778/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1416991778&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [AngularJS Fundamentals (Joe’s Pluralsight Course)](https://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) (Joe)
 - [Commit](https://itunes.apple.com/us/app/commit/id473527073?mt=8) (Chuck)
-- [Authority | Nathan Barry](http://nathanbarry.com/authority/) (Chuck)
-- [The Intern](http://theintern.io/) (Dylan)
+- [Authority | Nathan Barry](https://nathanbarry.com/authority/) (Chuck)
+- [The Intern](https://theintern.io/) (Dylan)
 - [FrozenJS](https://github.com/iceddev/frozen/) (Dylan)
 - [hammer throw: 1986 Youri Sedykh's World Record Series](https://www.youtube.com/watch?v=4qAE2PrCVhY) (Dylan)
 - [Kundalini Yoga](https://en.wikipedia.org/wiki/Kundalini_yoga) (Dylan)
-- [Arcosanti](http://www.arcosanti.org/) (Dylan)
+- [Arcosanti](https://www.arcosanti.org/) (Dylan)
 - [Ubud, Bali](https://www.google.com/search?q=ubud+bali&tbm=isch) (Dylan)
 - [Insadong, Seoul, South Korea](https://www.google.com/search?q=insadong+seoul&tbm=isch) (Dylan)
 

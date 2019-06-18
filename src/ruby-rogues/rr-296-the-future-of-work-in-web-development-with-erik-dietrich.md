@@ -30,10 +30,10 @@ Large enterprise organizations such as banks and financial companies have diffic
 
 ## **Picks:**
 
-Jason: [Value-Based Fees by Alan Weiss](https://www.alanweiss.com/store/books/value-based-fees/)&nbsp;and&nbsp;[Effective JavaScript by David Herman](http://effectivejs.com/)David: [Ansible](https://www.ansible.com/docker)Erik: [Developer Hegemony](https://leanpub.com/developerhegemony), [Ribbon Farm](http://www.ribbonfarm.com/the-gervais-principle/), and Freelancers Podcast Ditching Hourly
+Jason: [Value-Based Fees by Alan Weiss](https://www.alanweiss.com/store/books/value-based-fees/)&nbsp;and&nbsp;[Effective JavaScript by David Herman](https://effectivejs.com/)David: [Ansible](https://www.ansible.com/docker)Erik: [Developer Hegemony](https://leanpub.com/developerhegemony), [Ribbon Farm](https://www.ribbonfarm.com/the-gervais-principle/), and Freelancers Podcast Ditching Hourly
 
 ## Links:
 
-[https://leanpub.com/developerhegemony](https://leanpub.com/developerhegemony)[http://www.daedtech.com/book/](http://www.daedtech.com/book/)
+[https://leanpub.com/developerhegemony](https://leanpub.com/developerhegemony)[https://www.daedtech.com/book/](https://www.daedtech.com/book/)
 
 ### Transcript

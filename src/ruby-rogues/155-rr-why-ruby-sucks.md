@@ -14,7 +14,7 @@ tags:
 
 02:32 - Version Mismatches
 
-- [Ripper](http://ruby-doc.org/stdlib-2.0.0/libdoc/ripper/rdoc/Ripper.html)
+- [Ripper](https://ruby-doc.org/stdlib-2.0.0/libdoc/ripper/rdoc/Ripper.html)
 - [guard](https://github.com/guard/guard)
 - [Python](https://www.python.org/) = Stable
 - Keyword Arguments
@@ -24,37 +24,37 @@ tags:
 
 14:52 - Parsing Ruby
 
-- [Light Table](http://www.lighttable.com/)
+- [Light Table](https://www.lighttable.com/)
 
 21:08 - The Ruby Standard Library
 
-- [Java](http://java.com/) Nails It
+- [Java](https://java.com/) Nails It
 
-26:35 - [Windows](http://windows.microsoft.com/) Support
+26:35 - [Windows](https://windows.microsoft.com/) Support
 
-- [RubyInstaller](http://rubyinstaller.org/)
-- [RailsInstaller](http://railsinstaller.org/)
+- [RubyInstaller](https://rubyinstaller.org/)
+- [RailsInstaller](https://railsinstaller.org/)
 
 35:13 - GUI Support
 
 44:40 - Concurrency
 
-- [JRuby](http://jruby.org/)
-- [Deploying with JRuby: Deliver Scalable Web Apps using the JVM by Joe Kutner](http://www.amazon.com/gp/product/1934356972/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356972&linkCode=as2&tag=chamaxwoo-20&linkId=WLDATZ7IWPFUMPZG)
+- [JRuby](https://jruby.org/)
+- [Deploying with JRuby: Deliver Scalable Web Apps using the JVM by Joe Kutner](https://www.amazon.com/gp/product/1934356972/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356972&linkCode=as2&tag=chamaxwoo-20&linkId=WLDATZ7IWPFUMPZG)
 - Speed
 - Forking
-- [Module: Process (Ruby 2.1.1)](http://www.ruby-doc.org/core-2.1.1/Process.html#method-c-fork)
-- [Erlang](http://erlang.org/)
+- [Module: Process (Ruby 2.1.1)](https://www.ruby-doc.org/core-2.1.1/Process.html#method-c-fork)
+- [Erlang](https://erlang.org/)
 
 01:02:34 - Resources
 
 ### See Also
 
-[Ruby Rogues Episode #17: What's Wrong With Ruby?](http://rubyrogues.com/what%E2%80%99s-wrong-with-ruby/)
+[Ruby Rogues Episode #17: What's Wrong With Ruby?](https://rubyrogues.com/what%E2%80%99s-wrong-with-ruby/)
 
 ### Book Club
 
-[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
+[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
 
 ### Next Week
 

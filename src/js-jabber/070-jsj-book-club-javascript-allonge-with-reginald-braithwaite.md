@@ -14,48 +14,48 @@ tags:
 
 ### Panel
 
-- Reginald Braithwaite ([twitter](https://twitter.com/raganwald) [github](https://github.com/raganwald) [blog](http://braythwayt.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
+- Reginald Braithwaite ([twitter](https://twitter.com/raganwald) [github](https://github.com/raganwald) [blog](https://braythwayt.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 02:08 - Reg Braithwaite Introduction
 
-- [Github](http://www.github.com/)
+- [Github](https://www.github.com/)
   03:46 - [JavaScript Allongé by Reginald Braithwaite](https://leanpub.com/javascript-allonge)06:43 - The Y Combinator
 - [Kestrels, Quirky Birds, and Hopeless Egocentricity by Reginald Braithwaite](https://leanpub.com/combinators)
   14:26 - Book Summary/Perspective
 - Functions
-- [QED, The Strange Theory of Light and Matter by Richard P. Feynman](http://www.amazon.com/gp/product/0691125759/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691125759&linkCode=as2&tag=chamaxwoo-20)
+- [QED, The Strange Theory of Light and Matter by Richard P. Feynman](https://www.amazon.com/gp/product/0691125759/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691125759&linkCode=as2&tag=chamaxwoo-20)
   21:37 - Footnotes
-- [Flashman: A Novel by George MacDonald Fraser](http://www.amazon.com/gp/product/0452259614/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452259614&linkCode=as2&tag=chamaxwoo-20)
-  26:42 - [allong.es](http://allong.es/)
-- [Michael Fogus](http://blog.fogus.me/)
+- [Flashman: A Novel by George MacDonald Fraser](https://www.amazon.com/gp/product/0452259614/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452259614&linkCode=as2&tag=chamaxwoo-20)
+  26:42 - [allong.es](https://allong.es/)
+- [Michael Fogus](https://blog.fogus.me/)
   29:15 - Sharing Knowledge & Information 33:01 - The Coffee Theme
 - [CoffeeScript Ristretto by Reginald Braithwaite](https://leanpub.com/coffeescript-ristretto)
   37:42 - Favorite Parts of the Book
 - How Prototypes Work
 - Combinators
   42:18 - Writing the Beginning 44:41 - Reg’s Programming Background
-- [One Two Three . . . Infinity: Facts and Speculations of Science by George Gamow](http://www.amazon.com/gp/product/0486256642/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486256642&linkCode=as2&tag=chamaxwoo-20)
+- [One Two Three . . . Infinity: Facts and Speculations of Science by George Gamow](https://www.amazon.com/gp/product/0486256642/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486256642&linkCode=as2&tag=chamaxwoo-20)
 
 ### Picks
 
-- [ng-conf](http://www.ng-conf.org/) (Joe & Merrick)
-- [LUMOback](http://www.lumoback.com/) (Merrick)
-- [Twilio](http://www.twilio.com/) (AJ)
+- [ng-conf](https://www.ng-conf.org/) (Joe & Merrick)
+- [LUMOback](https://www.lumoback.com/) (Merrick)
+- [Twilio](https://www.twilio.com/) (AJ)
 - [Bountysource](https://www.bountysource.com/fundraisers/431-an-inbox-api-for-everything) (AJ)
-- [Brian Stevens](http://www.twitter.com/bdstevens) / [Data Porters](http://dataporters.com/) (Chuck)
-- [InformIT](http://informit.com/) (Chuck)
-- [Safari Books Online](http://www.safaribooksonline.com/) (Chuck)
-- [QED, The Strange Theory of Light and Matter by Richard P. Feynman](http://www.amazon.com/gp/product/0691125759/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691125759&linkCode=as2&tag=chamaxwoo-20) (Reginald)
-- [One Two Three . . . Infinity: Facts and Speculations of Science by George Gamow](http://www.amazon.com/gp/product/0486256642/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486256642&linkCode=as2&tag=chamaxwoo-20) (Reginald)
-- [Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart](http://www.amazon.com/gp/product/1449329276/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449329276&linkCode=as2&tag=chamaxwoo-20) (Reginald)
-- [Realm of Racket: Learn to Program, One Game at a Time! by Matthias Felleisen](http://www.amazon.com/gp/product/1593274912/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593274912&linkCode=as2&tag=chamaxwoo-20) (Reginald)
+- [Brian Stevens](https://www.twitter.com/bdstevens) / [Data Porters](https://dataporters.com/) (Chuck)
+- [InformIT](https://informit.com/) (Chuck)
+- [Safari Books Online](https://www.safaribooksonline.com/) (Chuck)
+- [QED, The Strange Theory of Light and Matter by Richard P. Feynman](https://www.amazon.com/gp/product/0691125759/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691125759&linkCode=as2&tag=chamaxwoo-20) (Reginald)
+- [One Two Three . . . Infinity: Facts and Speculations of Science by George Gamow](https://www.amazon.com/gp/product/0486256642/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486256642&linkCode=as2&tag=chamaxwoo-20) (Reginald)
+- [Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart](https://www.amazon.com/gp/product/1449329276/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449329276&linkCode=as2&tag=chamaxwoo-20) (Reginald)
+- [Realm of Racket: Learn to Program, One Game at a Time! by Matthias Felleisen](https://www.amazon.com/gp/product/1593274912/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593274912&linkCode=as2&tag=chamaxwoo-20) (Reginald)
 
 ### Special Offer!
 

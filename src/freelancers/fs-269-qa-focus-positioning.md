@@ -32,16 +32,16 @@ tags:
 - Specialize on a vertical - easier and safer
 - and much more.
   **Links:**
-- [CopyHackers.com](http://CopyHackers.com)
+- [CopyHackers.com](https://CopyHackers.com)
   **Picks:** Jonathan
 - [Nespresso](https://www.nespresso.com/us/en/)
-- [howtobuildyourfirstproductizedservice.com](http://howtobuildyourfirstproductizedservice.com)
+- [howtobuildyourfirstproductizedservice.com](https://howtobuildyourfirstproductizedservice.com)
 -
 
 Kai
 
-- [Autoresponder Madness](http://autorespondermadness3.com)
-- [carrd.co](http://carrd.co)
+- [Autoresponder Madness](https://autorespondermadness3.com)
+- [carrd.co](https://carrd.co)
 -
 
 ### Transcript

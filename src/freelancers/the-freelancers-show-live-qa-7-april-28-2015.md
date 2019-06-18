@@ -14,13 +14,13 @@ tags:
 
 07:06 - Finding Work on Sites Like [Elance](https://www.elance.com/) and [Upwork](https://www.upwork.com/) (formerly oDesk)
 
-- [Danny Margulies The Non-Scuzzy and Totally True Story of How I Earned 6 Figures in 12 Months by Mastering the “Hidden Elance Economy”](http://copyhackers.com/2014/12/how-to-earn-on-elance/)
+- [Danny Margulies The Non-Scuzzy and Totally True Story of How I Earned 6 Figures in 12 Months by Mastering the “Hidden Elance Economy”](https://copyhackers.com/2014/12/how-to-earn-on-elance/)
 - [Danny Margulies: How to Make Money On Elance – My \$100,000 Year](https://freelancetowin.com/how-to-make-money-on-elance-my-100k-year/)
 - [Fiverr](https://www.fiverr.com/)
 
 14:24 - What sort of project/scope documentation do you generate for clients to supply time/budget estimates?
 
-- [ROI (Return On Investment)](http://www.investopedia.com/terms/r/returnoninvestment.asp)
+- [ROI (Return On Investment)](https://www.investopedia.com/terms/r/returnoninvestment.asp)
 - [ChiliProject](https://www.chiliproject.org/)
 
 23:26 - How much time do you spend with the client defining the scope of the work before you sign a contract?
@@ -43,7 +43,7 @@ If you only work 20-30 hours per week, and have at a minimum of 2 clients, does 
 
 Picks
 
-[Danny Margulies The Non-Scuzzy and Totally True Story of How I Earned 6 Figures in 12 Months by Mastering the “Hidden Elance Economy”](http://copyhackers.com/2014/12/how-to-earn-on-elance/) (Eric)[MicroConf](http://www.microconf.com/) (Chuck)[Mini Habits: Smaller Habits, Bigger Results by Stephen Guise](http://www.amazon.com/gp/product/B00HGKNBDK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HGKNBDK&linkCode=as2&tag=chamaxwoo-20&linkId=IKJXV3F3USF4EDMW) (Chuck)[Habit Stacking: 97 Small Life Changes That Take Five Minutes or Less by S.J. Scott](http://www.amazon.com/gp/product/1499341474/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1499341474&linkCode=as2&tag=chamaxwoo-20&linkId=W22QMACQIT4POQUH) (Chuck)[How to Win Friends & Influence People by Dale Carnegie](http://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=chamaxwoo-20&linkId=ON3LUL4C3LGH2OC2) (Chuck)[Slate's Whistlestop Podcast](https://itunes.apple.com/us/podcast/slates-whistlestop/id969793721?mt=2) (Reuven)
+[Danny Margulies The Non-Scuzzy and Totally True Story of How I Earned 6 Figures in 12 Months by Mastering the “Hidden Elance Economy”](https://copyhackers.com/2014/12/how-to-earn-on-elance/) (Eric)[MicroConf](https://www.microconf.com/) (Chuck)[Mini Habits: Smaller Habits, Bigger Results by Stephen Guise](https://www.amazon.com/gp/product/B00HGKNBDK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HGKNBDK&linkCode=as2&tag=chamaxwoo-20&linkId=IKJXV3F3USF4EDMW) (Chuck)[Habit Stacking: 97 Small Life Changes That Take Five Minutes or Less by S.J. Scott](https://www.amazon.com/gp/product/1499341474/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1499341474&linkCode=as2&tag=chamaxwoo-20&linkId=W22QMACQIT4POQUH) (Chuck)[How to Win Friends & Influence People by Dale Carnegie](https://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=chamaxwoo-20&linkId=ON3LUL4C3LGH2OC2) (Chuck)[Slate's Whistlestop Podcast](https://itunes.apple.com/us/podcast/slates-whistlestop/id969793721?mt=2) (Reuven)
 
 ### Transcript
 

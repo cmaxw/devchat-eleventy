@@ -14,25 +14,25 @@ tags:
 
 ### Panel
 
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
 
 ### Discussion
 
 01:36 - Aaron Frost Introduction
 
-- Web Developer at [Domo](http://www.domo.com/)
-- [1.21 Gigawatts – Chromeapps with Angularjs and Node (Aaron Frost and Dave Geddes)](http://www.youtube.com/watch?v=h3t_ytxQnjE)
-- [JS.next: A Manager’s Guide by Aaron Frost](http://chimera.labs.oreilly.com/books/1234000001623)
-  02:21 - [ECMAScript](http://www.ecmascript.org/) and JavaScript
-- [Brendan Eich talking about the Lord Of The Rings Comparison](http://www.youtube.com/watch?v=eUtsgUrF-ec&feature=youtube_gdata_player)
-- [JScript](http://en.wikipedia.org/wiki/JScript)
+- Web Developer at [Domo](https://www.domo.com/)
+- [1.21 Gigawatts – Chromeapps with Angularjs and Node (Aaron Frost and Dave Geddes)](https://www.youtube.com/watch?v=h3t_ytxQnjE)
+- [JS.next: A Manager’s Guide by Aaron Frost](https://chimera.labs.oreilly.com/books/1234000001623)
+  02:21 - [ECMAScript](https://www.ecmascript.org/) and JavaScript
+- [Brendan Eich talking about the Lord Of The Rings Comparison](https://www.youtube.com/watch?v=eUtsgUrF-ec&feature=youtube_gdata_player)
+- [JScript](https://en.wikipedia.org/wiki/JScript)
 - [ActionScript](https://en.wikipedia.org/wiki/ActionScript)
-  06:02 - [TC39 on ECMA](http://www.ecma-international.org/memento/TC39.htm)
-- [Notes from the TC39 Meetings](http://esdiscuss.org/notes)
-  06:44 - [ECMAScript:Harmony](http://stackoverflow.com/questions/6506519/ecmascriptharmony-es6-to-javascript-compiler)09:59 - ES6 Features
+  06:02 - [TC39 on ECMA](https://www.ecma-international.org/memento/TC39.htm)
+- [Notes from the TC39 Meetings](https://esdiscuss.org/notes)
+  06:44 - [ECMAScript:Harmony](https://stackoverflow.com/questions/6506519/ecmascriptharmony-es6-to-javascript-compiler)09:59 - ES6 Features
 - Arrow Functions/Lambdas
 - Lexical Scoping
 - Destructioning
@@ -46,24 +46,24 @@ tags:
 - Destructuring Patterns
   17:59 - Default Values 18:49 - Rest & Default Parameters 20:39 - Let
 - Variable Hoisting
-- [Traceur Compiler](http://traceur-compiler.googlecode.com/git/demo/repl.html)
+- [Traceur Compiler](https://traceur-compiler.googlecode.com/git/demo/repl.html)
 - [grunt-traceur](https://github.com/aaronfrost/grunt-traceur)
 - Let Expressions & Statements
 - Blocks & Block Scopes
 - [temporal-dead-zone.js](https://gist.github.com/rwldrn/3804786)
-  27:20 - Generators 28:39 - The Module System 29:48 - Template Strings 32:05 - Aaron’s Opinion of [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)36:01 - Using ES6 Today
+  27:20 - Generators 28:39 - The Module System 29:48 - Template Strings 32:05 - Aaron’s Opinion of [Internet Explorer](https://windows.microsoft.com/en-us/internet-explorer/download-ie)36:01 - Using ES6 Today
 - Tracer Compiler
   39:18 - Designing a New Language
 
 ### Picks
 
-- [Pacific Rim](http://www.imdb.com/title/tt1663662/?ref_=fn_al_tt_1) (Joe)
-- [That Conference](http://www.thatconference.com/) (Joe)
-- [PHOX](http://www.phoxband.com/) (Merrick)
+- [Pacific Rim](https://www.imdb.com/title/tt1663662/?ref_=fn_al_tt_1) (Joe)
+- [That Conference](https://www.thatconference.com/) (Joe)
+- [PHOX](https://www.phoxband.com/) (Merrick)
 - [Sqwiggle](https://www.sqwiggle.com/) (Jamison)
-- [NodeConf](http://blog.izs.me/post/54766250297/nodeconf-2013) (Jamison)
-- [Jon Hopkins - Immunity](http://www.last.fm/music/Jon+Hopkins/_/Immunity) (Jamison)
-- [Tombstone](http://www.imdb.com/title/tt0108358/?ref_=sr_1) (Aaron)
+- [NodeConf](https://blog.izs.me/post/54766250297/nodeconf-2013) (Jamison)
+- [Jon Hopkins - Immunity](https://www.last.fm/music/Jon+Hopkins/_/Immunity) (Jamison)
+- [Tombstone](https://www.imdb.com/title/tt0108358/?ref_=sr_1) (Aaron)
 - [Justin Timberlake - The 20/20 Experience](https://play.google.com/store/music/album/Justin_Timberlake_The_20_20_Experience?id=Bxpxcxaqo645qhz6qffwbgmkwa4) (Aaron)
 
 ### Book Club

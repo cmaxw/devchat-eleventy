@@ -21,26 +21,26 @@ John-Daniel Trask is the CEO and developer at Raygun.io. JD and Chuck talk in th
 - Delphi
 - [NetScape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator)
 - VBScript
-- [JQuery](http://jquery.com)
-- [Mindscape](http://www.mindscapehq.com/)
-- [Raygun.io](http://raygun.io)
-- [CoffeeScript](http://coffeescript.org)
-- [Visual Studio](http://visualstudio.com)
+- [JQuery](https://jquery.com)
+- [Mindscape](https://www.mindscapehq.com/)
+- [Raygun.io](https://raygun.io)
+- [CoffeeScript](https://coffeescript.org)
+- [Visual Studio](https://visualstudio.com)
 - [Scott Hanselman on Dark Matter Developers](https://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx)
 - [Tensorflow](https://www.tensorflow.org/)
-- [Stripe](http://stripe.com)
-- [@traskjd](http://twitter.com/traskjd)
+- [Stripe](https://stripe.com)
+- [@traskjd](https://twitter.com/traskjd)
   Picks: JD:
-- [Keygen.sh](http://keygen.sh)
-- [Octopus Deploy](http://octopus.com)
+- [Keygen.sh](https://keygen.sh)
+- [Octopus Deploy](https://octopus.com)
 - [JavaScript x86](https://github.com/copy/v86)
   Chuck:
-- [The Miracle Morning](http://amzn.to/2jRMXUv)
+- [The Miracle Morning](https://amzn.to/2jRMXUv)
 - [Meditations App](https://itunes.apple.com/us/app/meditation-studio-guided-meditations-and-courses/id1066018502?mt=8)
 - [Vision Board App](https://itunes.apple.com/us/app/jack-canfield-success-vision-board/id498708060?mt=8)
-- [LootCrate](http://www.trylootcrate.com/click.track?CID=327723&AFID=419364&ADID=1698972&SID=)
+- [LootCrate](https://www.trylootcrate.com/click.track?CID=327723&AFID=419364&ADID=1698972&SID=)
 - Game of Thrones Journal
-- [Zelda Theme Journal](http://amzn.to/2wIF7Tq)
+- [Zelda Theme Journal](https://amzn.to/2wIF7Tq)
   &nbsp;
 
 ### Transcript

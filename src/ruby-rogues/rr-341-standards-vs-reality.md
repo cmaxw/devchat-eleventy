@@ -28,7 +28,7 @@ tags:
 - Validation
 - Code growing
 - Lines of Code
-- [Rubocop&nbsp;](http://batsov.com/rubocop/)
+- [Rubocop&nbsp;](https://batsov.com/rubocop/)
 - Building standard on your own projects
 - Writing code that works, but not beautiful
 - How quickly can you get it done
@@ -40,8 +40,8 @@ tags:
   David
 - [Spy’s Guide to Strategy&nbsp;](https://www.amazon.com/Spys-Guide-Strategy-Kindle-Single-ebook/dp/B074DZQZBY)
   Charles
-- [UpWork.com](http://UpWork.com)
-- [PipeDrive.com](http://PipeDrive.com)
+- [UpWork.com](https://UpWork.com)
+- [PipeDrive.com](https://PipeDrive.com)
 - [The Way of Kings - books&nbsp;](https://www.amazon.com/Way-Kings-Brandon-Sanderson/dp/0765365278)
 - Getting a second opinion
 

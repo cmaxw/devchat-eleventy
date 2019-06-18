@@ -29,8 +29,8 @@ tags:
 - Fundraising to add new cities
   **Links:**
 - [https://www.relay.fm/originality/](https://www.relay.fm/originality/)
-- [http://theincomparable.com](http://theincomparable.com)
-- [http://appcamp4girls.com/contribute](http://appcamp4girls.com/contribute)
+- [https://theincomparable.com](https://theincomparable.com)
+- [https://appcamp4girls.com/contribute](https://appcamp4girls.com/contribute)
 - [https://www.indiegogo.com/projects/app-camp-2020-help-us-expand-to-3-new-cities-education/](https://www.indiegogo.com/projects/app-camp-2020-help-us-expand-to-3-new-cities-education/)
   **Picks:** Gui:
 - Apple TV 4K and HDR Devices

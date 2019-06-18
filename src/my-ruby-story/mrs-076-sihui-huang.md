@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [.TECH](https://get.tech/)–&nbsp;[tech/MRS](https://get.tech/?&coupon=MRS.TECH&utm_source=Influencer&utm_medium=Podcast&utm_campaign=MyRubyStory) use the coupon code “ **TECH** ”&nbsp;and get a 1 year&nbsp; **.TECH Domain** at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** &nbsp;Sihui Huang
@@ -24,7 +24,7 @@ In this episode of My Ruby Story, Charles hosts Sihui Huang, a software engineer
 
 - <u><a href="https://devchat.tv/ruby-rogues/rr-375-how-to-contribute-to-ruby-with-sihui-huang/">Ruby Rogues: “How to Contribute to Ruby” with Sihui Huang</a></u>
 - <u><a href="https://github.com/Sihui">Sihui’s GitHub</a></u>
-- <u><a href="http://www.sihui.io/">Sihui’s Website</a></u>
+- <u><a href="https://www.sihui.io/">Sihui’s Website</a></u>
 - <u><a href="https://www.linkedin.com/in/sihuihuang/">Sihui’s LinkedIN</a></u>
 - <u><a href="https://twitter.com/sihui_io">Sihui’s Twitter</a></u>
 - <u><a href="https://devchat.tv/my-ruby-story/">https://devchat.tv/my-ruby-story/</a></u>

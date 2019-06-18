@@ -16,7 +16,7 @@ tags:
 
 - [Triplebyte](https://triplebyte.com/rogues) offers a $1000 signing bonus
 - [Sentry](https://sentry.io/welcome/) use the code “devchat” for $100 credit
-- [Linode](http://linode.com/javascriptjabber)
+- [Linode](https://linode.com/javascriptjabber)
 - [CacheFly](https://www.cachefly.com/)
 
 ### **Panel**
@@ -31,7 +31,7 @@ Joined by Special Guest: Gareth McCumskey
 Gareth McCumskey introduces JAMstack and serverless. He goes into great detail on how it works. Aimee Knight and Aaron Frost voice their concerns about going serverless. Aimee thinks it feels dirty. Aaron has concerns about the code, is it actually easier, what use cases would he use it for, and does it actually save money. Gareth addresses these concerns and the rest of the panel considers the positive and negatives of using JAMstack and serverless. Charles Max Wood asks for specific use cases; Gareth supplies many uses cases and the benefits that each of these cases.
 ### **Links**
 
-- [http://herodev.com/](http://herodev.com/)
+- [https://herodev.com/](https://herodev.com/)
 - [https://thinkster.io/](https://thinkster.io/)
 - [https://jamstack.org/](https://jamstack.org/)
 - [https://www.mongodb.com/cloud/stitch](https://www.mongodb.com/cloud/stitch)

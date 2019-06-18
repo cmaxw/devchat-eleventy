@@ -26,7 +26,7 @@ In this episode of Ruby Rogues, the panelists talk with [Josh Justice](https://t
 
 0:00 – Advertisement: [Sentry.io](https://sentry.io/welcome/)
 
-1:04 – Chuck: Hi! Dave, Nate, and myself are on the panel and our special guest is Josh Justice! I am developing a show about developer freedom and it’s called [The DevRev](http://thedevrev.com). It will be streamed through YouTube, and I will record Friday afternoons. Check out Facebook, too!
+1:04 – Chuck: Hi! Dave, Nate, and myself are on the panel and our special guest is Josh Justice! I am developing a show about developer freedom and it’s called [The DevRev](https://thedevrev.com). It will be streamed through YouTube, and I will record Friday afternoons. Check out Facebook, too!
 
 2:11 – Josh: Thanks! I am happy to be here!
 
@@ -212,11 +212,11 @@ End – [Cache Fly!](https://www.cachefly.com)
 - [GitHub: VCR](https://github.com/vcr/vcr)
 - [Big Nerd Ranch](https://www.bignerdranch.com)
 - [Big Nerd Ranch: Josh Justice / Team Manager](https://www.bignerdranch.com/about/the-team/josh-justice/)
-- [The Bike Shed](http://bikeshed.fm)
+- [The Bike Shed](https://bikeshed.fm)
 - [Keynote: Tom Dale @ EmberFest 2018](https://www.youtube.com/watch?v=oRzmDobMZ_Q)
 - [JSJ 291 Episode](https://devchat.tv/js-jabber/jsj-291-serverless-javascript-gareth-mccumskey/)
 - [Serverless](https://serverless.com)
-- [Article: Test-Induced Design Damage](http://david.heinemeierhansson.com/2014/test-induced-design-damage.html)
+- [Article: Test-Induced Design Damage](https://david.heinemeierhansson.com/2014/test-induced-design-damage.html)
 - [Video: Is TDD Dead?](https://www.youtube.com/watch?v=z9quxZsLcfo)
 - [Music: Sub Conscious – Electronic / 2004](https://itunes.apple.com/us/album/sub-conscious/472786776)
 - [Music: Interloper / 2015](https://itunes.apple.com/us/album/interloper-2015-remaster/976522606)

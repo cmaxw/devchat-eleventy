@@ -14,9 +14,9 @@ tags:
 
 ### Panel
 
-- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood&nbsp;([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance&nbsp;([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
+- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood&nbsp;([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance&nbsp;([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
 
 ### Discussion
 
@@ -24,72 +24,72 @@ tags:
 - Event Driven Models
 - Web Workers
 - Threads
-- [htop](http://htop.sourceforge.net/)
+- [htop](https://htop.sourceforge.net/)
 - ps
 - Reactor Pattern
-- [Loopage (Douglas Crockford)](http://www.podcast.tv/video-episodes/douglas-crockford-crockford-on-javascript-scene-6-loopage-13051783.html)
-- [libev](http://software.schmorp.de/pkg/libev.html)
+- [Loopage (Douglas Crockford)](https://www.podcast.tv/video-episodes/douglas-crockford-crockford-on-javascript-scene-6-loopage-13051783.html)
+- [libev](https://software.schmorp.de/pkg/libev.html)
 - [libuv](https://github.com/joyent/libuv)
 - JavaScript with VBscript on Windows
-- [Rhino](http://www.mozilla.org/rhino/)
-- [Aptana](http://aptana.com/)
-- [Jaxer](http://www.jaxer.org/)
-- [Zuul.js](http://zuulcat.com/tag/javascript/)
-- [Ringo.js](http://ringojs.org/)
-- [Node.js](http://nodejs.org/)
-- [jQuery](http://jquery.com/)
-- [Common.js](http://www.commonjs.org/)
+- [Rhino](https://www.mozilla.org/rhino/)
+- [Aptana](https://aptana.com/)
+- [Jaxer](https://www.jaxer.org/)
+- [Zuul.js](https://zuulcat.com/tag/javascript/)
+- [Ringo.js](https://ringojs.org/)
+- [Node.js](https://nodejs.org/)
+- [jQuery](https://jquery.com/)
+- [Common.js](https://www.commonjs.org/)
 - Scope
-- [Node.js Documentation](http://nodejs.org/docs/v0.4.0/api/)
+- [Node.js Documentation](https://nodejs.org/docs/v0.4.0/api/)
 - Ruby
 - NPM
 - Semantic Versioning
 - Package managers
-- [CPAN](http://www.cpan.org/)
-- [RubyGems](http://rubygems.org/)
-- [Package.json file](http://wiki.commonjs.org/wiki/Packages/1.0)
+- [CPAN](https://www.cpan.org/)
+- [RubyGems](https://rubygems.org/)
+- [Package.json file](https://wiki.commonjs.org/wiki/Packages/1.0)
 - Globally installed vs locally installed
 - How to get started with NPM as a developer
 - require
 - instanceOf
 - Mime module
-- [nodejs.org](http://nodejs.org/)
-- [npmjs.org](http://npmjs.org/)
+- [nodejs.org](https://nodejs.org/)
+- [npmjs.org](https://npmjs.org/)
 - [github.com](https://github.com/)
 - Watchers
 - Forks
 - #node.js on freenode
-- [hubot](http://hubot.github.com/)
+- [hubot](https://hubot.github.com/)
 - Realtime stuff
-- [Socket.io](http://socket.io/)
-- [Python](http://www.python.org/)
-- [Golang](http://golang.org/)
-- [ARM](http://www.arm.com/)
+- [Socket.io](https://socket.io/)
+- [Python](https://www.python.org/)
+- [Golang](https://golang.org/)
+- [ARM](https://www.arm.com/)
 - Benchmarks
 - Node Supervisor
 - System Scripts in Node
 - Downsides
   - Startup Time
   - Some problems don't play well asychronously
-- [JSON](http://www.json.org/)
+- [JSON](https://www.json.org/)
 - Low level networking stuff
 - Push based notification
 - MVC
 - Separation of concerns
-- [Dart](http://code.google.com/p/dart/)
+- [Dart](https://code.google.com/p/dart/)
 
 ### Picks
 
-- [HappySocks.com](http://www.happysocks.com/us/) (Jamison)
-- [Justified](http://www.amazon.com/gp/product/B0038M2APA/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0038M2APA) (Jamison)
-- [Kindle](http://www.amazon.com/gp/product/B0051VVOB2/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0051VVOB2) (Jamison)
-- [Grado SR60](http://www.amazon.com/gp/product/B0006DPMU4/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0006DPMU4) (Jamison)
-- [Nintendo](http://www.nintendo.com/?country=US&lang=en) (AJ)
-- [Smash Bros](http://www.smashbros.com/) (AJ)
-- [Mario Bros](http://mario.nintendo.com/) (AJ)
-- [Things](http://itunes.apple.com/us/app/things/id284971781?mt=8)&nbsp;(Chuck)
-- [Harvest](http://www.getharvest.com/) (Chuck)
-- [The Podcast Mastermind](http://thepodcastmastermind.com/) (Chuck)
+- [HappySocks.com](https://www.happysocks.com/us/) (Jamison)
+- [Justified](https://www.amazon.com/gp/product/B0038M2APA/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0038M2APA) (Jamison)
+- [Kindle](https://www.amazon.com/gp/product/B0051VVOB2/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0051VVOB2) (Jamison)
+- [Grado SR60](https://www.amazon.com/gp/product/B0006DPMU4/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0006DPMU4) (Jamison)
+- [Nintendo](https://www.nintendo.com/?country=US&lang=en) (AJ)
+- [Smash Bros](https://www.smashbros.com/) (AJ)
+- [Mario Bros](https://mario.nintendo.com/) (AJ)
+- [Things](https://itunes.apple.com/us/app/things/id284971781?mt=8)&nbsp;(Chuck)
+- [Harvest](https://www.getharvest.com/) (Chuck)
+- [The Podcast Mastermind](https://thepodcastmastermind.com/) (Chuck)
 
 ### Transcript
 

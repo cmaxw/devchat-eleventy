@@ -40,7 +40,7 @@ tags:
 
 ### Picks:
 
-Swift (Paul)[BBS the Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (Jaim)[CleanCoders.com](https://cleancoders.com/) (Rod)[Swift from Two to Three](https://leanpub.com/swift23) (Paul)Article on how we teach math (Paul)[Lockhart’s Lament](https://www.maa.org/external_archive/devlin/devlin_03_08.html)(Paul)[If I Sleep for an Hour, 30 People Will Die](http://www.nytimes.com/2016/10/02/opinion/sunday/if-i-sleep-for-an-hour-30-people-will-die.html) (Paul)[Bust Out Solutions](http://bustoutsolutions.com/)
+Swift (Paul)[BBS the Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (Jaim)[CleanCoders.com](https://cleancoders.com/) (Rod)[Swift from Two to Three](https://leanpub.com/swift23) (Paul)Article on how we teach math (Paul)[Lockhart’s Lament](https://www.maa.org/external_archive/devlin/devlin_03_08.html)(Paul)[If I Sleep for an Hour, 30 People Will Die](https://www.nytimes.com/2016/10/02/opinion/sunday/if-i-sleep-for-an-hour-30-people-will-die.html) (Paul)[Bust Out Solutions](https://bustoutsolutions.com/)
 
 ### Transcript
 

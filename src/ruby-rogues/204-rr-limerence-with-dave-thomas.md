@@ -15,7 +15,7 @@ tags:
 02:37 - Dave Thomas Introduction
 
 - [Twitter](https://twitter.com/pragdave)
-- [Blog](http://pragdave.me/)
+- [Blog](https://pragdave.me/)
 - [The Pragmatic Bookshelf](https://pragprog.com/)
 
 04:17 - How Dave Got Started in Programming
@@ -27,9 +27,9 @@ tags:
 - Leadism Over Chosen Technologies and Its’ Effect on Innovation
 - Switching Tools and Making Excuses
 
-19:29 - [Limerence](http://en.wikipedia.org/wiki/Limerence)
+19:29 - [Limerence](https://en.wikipedia.org/wiki/Limerence)
 
-- [Love and Limerence: The Experience of Being in Love by Dorothy Tennov](http://www.amazon.com/gp/product/0812862864/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812862864&linkCode=as2&tag=chamaxwoo-20&linkId=OF5YYV3LSFXVVZAI)
+- [Love and Limerence: The Experience of Being in Love by Dorothy Tennov](https://www.amazon.com/gp/product/0812862864/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812862864&linkCode=as2&tag=chamaxwoo-20&linkId=OF5YYV3LSFXVVZAI)
 - Irrational Interest and Defensiveness
 
 28:54 - Ruby = Happiness: Does it Hurt?
@@ -43,19 +43,19 @@ tags:
 
 38:01 - Choosing _Similar_ Tools and Technologies vs Choosing _Different_ Tools and Technologies
 
-- [Gulp](http://gulpjs.com/) =\> [Grunt](http://gruntjs.com/) =\> [Browserify](http://browserify.org/) Example
-- [Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](http://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356050&linkCode=as2&tag=chamaxwoo-20&linkId=IX6ICL6PDJIZA5QU)
+- [Gulp](https://gulpjs.com/) =\> [Grunt](https://gruntjs.com/) =\> [Browserify](https://browserify.org/) Example
+- [Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](https://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356050&linkCode=as2&tag=chamaxwoo-20&linkId=IX6ICL6PDJIZA5QU)
 
 43:36 - Relationships and Identities
 
 46:08 - Looking Forward vs Looking Back (Knowing Your History)
 
 - Resources, Curriculum:
-  - [Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science) by Harold Abelson](http://www.amazon.com/gp/product/0262510871/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262510871&linkCode=as2&tag=chamaxwoo-20&linkId=KV3TPJEHIO23ZTPF) (SICP)
-  - [Smalltalk Best Practice Patterns by Kent Beck](http://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=013476904X&linkCode=as2&tag=chamaxwoo-20&linkId=YPBQDEMZKQEGAWZX)
-  - [Types and Programming Languages by Benjamin C. Pierce](http://www.amazon.com/gp/product/0262162091/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262162091&linkCode=as2&tag=chamaxwoo-20&linkId=G27VD4NXKUABPRFF)&nbsp; &nbsp;
-  - [The Art of Computer Programming by Donald Knuth](http://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (Series)
-- [Communicating Sequential Processes](http://en.wikipedia.org/wiki/Communicating_sequential_processes) (CSP) Brainstorming Example
+  - [Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science) by Harold Abelson](https://www.amazon.com/gp/product/0262510871/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262510871&linkCode=as2&tag=chamaxwoo-20&linkId=KV3TPJEHIO23ZTPF) (SICP)
+  - [Smalltalk Best Practice Patterns by Kent Beck](https://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=013476904X&linkCode=as2&tag=chamaxwoo-20&linkId=YPBQDEMZKQEGAWZX)
+  - [Types and Programming Languages by Benjamin C. Pierce](https://www.amazon.com/gp/product/0262162091/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262162091&linkCode=as2&tag=chamaxwoo-20&linkId=G27VD4NXKUABPRFF)&nbsp; &nbsp;
+  - [The Art of Computer Programming by Donald Knuth](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (Series)
+- [Communicating Sequential Processes](https://en.wikipedia.org/wiki/Communicating_sequential_processes) (CSP) Brainstorming Example
 
 01:01:48 - Is the rampant use of social media hindering the learning of big ideas?
 
@@ -63,11 +63,11 @@ tags:
 
 01:08:15 - How You Learn a Language / Decide You Like a Language
 
-- [Sudoku Solver](http://www.sudoku-solutions.com/)
+- [Sudoku Solver](https://www.sudoku-solutions.com/)
 - Markdown Parser
   Picks
 
-[Slack](https://slack.com/) (Dave)[Why Does E=mc2? (And Why Should We Care?) by Brian Cox and Jeff Forshaw](http://www.amazon.com/gp/product/0306818760/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0306818760&linkCode=as2&tag=chamaxwoo-20&linkId=YEF4I6TXJH4FXW4A) (Dave)[Philly Emerging Tech Conference](http://phillyemergingtech.com/) &nbsp;(Dave)
+[Slack](https://slack.com/) (Dave)[Why Does E=mc2? (And Why Should We Care?) by Brian Cox and Jeff Forshaw](https://www.amazon.com/gp/product/0306818760/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0306818760&linkCode=as2&tag=chamaxwoo-20&linkId=YEF4I6TXJH4FXW4A) (Dave)[Philly Emerging Tech Conference](https://phillyemergingtech.com/) &nbsp;(Dave)
 
 ### Transcript
 

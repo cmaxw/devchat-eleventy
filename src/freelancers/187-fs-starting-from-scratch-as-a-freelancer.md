@@ -26,7 +26,7 @@ Freelancers’ Show GitHub Repository: [github.com/devchattv/freelancerstopics](
 
 - Work on your mindset
 - Interview potential clients (Identify the expensive problem)
-  - [Lean Customer Development: Building Products Your Customers Will Buy by Cindy Alvarez](http://www.amazon.com/Lean-Customer-Development-Building-Customers/dp/1449356354)
+  - [Lean Customer Development: Building Products Your Customers Will Buy by Cindy Alvarez](https://www.amazon.com/Lean-Customer-Development-Building-Customers/dp/1449356354)
 - Build a lead magnet and build social proof
 - Build a landing page for your lead magnet
 - Build a month’s worth of articles; set up an email list
@@ -53,7 +53,7 @@ Freelancers’ Show GitHub Repository: [github.com/devchattv/freelancerstopics](
 
 45:09 - Your Mailing ListPicks
 
-[Jessica Jones](http://www.imdb.com/title/tt2357547/) (Reuven)[SoHelpful](https://www.sohelpful.me/) (Philip)[Brennan Dunn: How To Start a Freelancing Business That Won't Fail](http://doubleyourfreelancing.com/start-a-freelancing-business/) (Philip)[The Tim Ferriss Experiment: Derek Sivers Reloaded – On Success Habits and Billionaires with Perfect Abs](http://fourhourworkweek.com/2015/12/28/derek-sivers-reloaded-on-success-habits-and-billionaires-with-perfect-abs/) (Jonathan)[8 Tips For Software Developers Starting Their Own Business](https://expensiveproblem.com/8-tips-for-software-developers-starting-their-own-business) (Jonathan)[Veronica Mars](http://www.imdb.com/title/tt0412253/) (Jonathan)[CES](https://www.cesweb.org/) (Chuck)[Las Vegas](http://www.lasvegas.com/) (Chuck)
+[Jessica Jones](https://www.imdb.com/title/tt2357547/) (Reuven)[SoHelpful](https://www.sohelpful.me/) (Philip)[Brennan Dunn: How To Start a Freelancing Business That Won't Fail](https://doubleyourfreelancing.com/start-a-freelancing-business/) (Philip)[The Tim Ferriss Experiment: Derek Sivers Reloaded – On Success Habits and Billionaires with Perfect Abs](https://fourhourworkweek.com/2015/12/28/derek-sivers-reloaded-on-success-habits-and-billionaires-with-perfect-abs/) (Jonathan)[8 Tips For Software Developers Starting Their Own Business](https://expensiveproblem.com/8-tips-for-software-developers-starting-their-own-business) (Jonathan)[Veronica Mars](https://www.imdb.com/title/tt0412253/) (Jonathan)[CES](https://www.cesweb.org/) (Chuck)[Las Vegas](https://www.lasvegas.com/) (Chuck)
 
 ### Transcript
 

@@ -19,25 +19,25 @@ tags:
 - Ruby Golf Contest Winner
 - [Lucas' Ruby Golf Submission: Sharktime](https://twitter.com/moonbeamlabs/status/203482835175215104)
 - [Lucas' Ruby Golf Submission: To-Do List](https://twitter.com/moonbeamlabs/statuses/202029423527071744)
-- [triAGENS](http://en.triagens.com/)
+- [triAGENS](https://en.triagens.com/)
 
-11:03 - [ArangoDB](http://www.arangodb.org/)
+11:03 - [ArangoDB](https://www.arangodb.org/)
 
 - [arangodb](https://github.com/triagens/arangodb)
 
 12:35 - Graph Databases
 
-- [Oracle Database](http://www.oracle.com/us/products/database/)
-- [DB2](http://www.ibm.com/software/data/db2/)
+- [Oracle Database](https://www.oracle.com/us/products/database/)
+- [DB2](https://www.ibm.com/software/data/db2/)
 
 17:31 - Computer Science Education
 
-- [Ruby Rogues #120 - Book Club: Understanding Computation with Tom Stuart](http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/)
-- [Galois sets/connections](http://en.wikipedia.org/wiki/Galois_connection)
-- [Overtone](http://overtone.github.io/)
-- [Understanding Computation by Tom Stuart](http://computationbook.com/)
+- [Ruby Rogues #120 - Book Club: Understanding Computation with Tom Stuart](https://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/)
+- [Galois sets/connections](https://en.wikipedia.org/wiki/Galois_connection)
+- [Overtone](https://overtone.github.io/)
+- [Understanding Computation by Tom Stuart](https://computationbook.com/)
 
-29:18 - [The Halting Problem](http://en.wikipedia.org/wiki/Halting_problem)
+29:18 - [The Halting Problem](https://en.wikipedia.org/wiki/Halting_problem)
 
 32:45 - Lucas’ Other Projects & Open Source Code
 
@@ -45,23 +45,23 @@ tags:
 - [guacamole](https://github.com/triagens/guacamole)
 - [hcking](https://github.com/hcking/hcking)
 
-36:51 - [exercism.io](http://exercism.io/) and [exogenesis](https://github.com/moonglum/exogenesis)
+36:51 - [exercism.io](https://exercism.io/) and [exogenesis](https://github.com/moonglum/exogenesis)
 
 - [devtools](https://github.com/rom-rb/devtools)
 
-45:46 - [Functional Programming](http://en.wikipedia.org/wiki/Functional_programming)
+45:46 - [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
-- [Haskell](http://www.haskell.org/)
-- [Project Euler](http://projecteuler.net/)
+- [Haskell](https://www.haskell.org/)
+- [Project Euler](https://projecteuler.net/)
 
 53:28 - Haskell and Functional Programming Resources
 
-- [Clojure](http://clojure.org/)
-- [Learn You a Haskell for Great Good! A Beginner's Guide by Miran Lipovača](http://learnyouahaskell.com/)
-- [Real World Haskell by by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/)
-- [Programming in Haskell by Graham Hutton](http://www.cs.nott.ac.uk/~gmh/book.html)
-- [Lisp](<http://en.wikipedia.org/wiki/Lisp_(programming_language)>)
-- [QuickCheck](http://www.haskell.org/haskellwiki/Introduction_to_QuickCheck1)
+- [Clojure](https://clojure.org/)
+- [Learn You a Haskell for Great Good! A Beginner's Guide by Miran Lipovača](https://learnyouahaskell.com/)
+- [Real World Haskell by by Bryan O'Sullivan, Don Stewart, and John Goerzen](https://book.realworldhaskell.org/)
+- [Programming in Haskell by Graham Hutton](https://www.cs.nott.ac.uk/~gmh/book.html)
+- [Lisp](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>)
+- [QuickCheck](https://www.haskell.org/haskellwiki/Introduction_to_QuickCheck1)
 
 ### Book Club
 
@@ -69,7 +69,7 @@ tags:
 
 ### Ruby Rogues Parley
 
-[Sign up for our Discourse Discussion Board!](http://parley.rubyrogues.com/)
+[Sign up for our Discourse Discussion Board!](https://parley.rubyrogues.com/)
 
 ### Ruby Rogues T-Shirts!
 

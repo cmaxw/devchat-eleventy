@@ -12,24 +12,24 @@ tags:
   - podcast
 ---
 
-01:08 - [WebRTC](http://www.webrtc.org/)
+01:08 - [WebRTC](https://www.webrtc.org/)
 
 03:23 - Advantages
 
 04:51 - Approaching WebRTC
 
-- [Bowser](http://www.openwebrtc.org/bowser/)
-- [Pristine IO: Build iOS AppRTC iOS AppRTC Deep Dive (Pt. 1)](http://tech.pristine.io/build-ios-apprtc/)
+- [Bowser](https://www.openwebrtc.org/bowser/)
+- [Pristine IO: Build iOS AppRTC iOS AppRTC Deep Dive (Pt. 1)](https://tech.pristine.io/build-ios-apprtc/)
 - [webrtc-build-scripts](https://github.com/pristineio/webrtc-build-scripts)
 - [AppRTC on CocoaPods](https://cocoapods.org/pods/AppRTC)
-- [openTalk API](http://www.telappliant.com/partners/voip-solutions/wholesale-api/)
+- [openTalk API](https://www.telappliant.com/partners/voip-solutions/wholesale-api/)
 - [OpenTok Developer Center](https://tokbox.com/developer/)
 
 08:24 - Use Cases and Gotchas
 
 - [PodClear](https://podclear.com/#/)
 - [Zencastr](https://zencastr.com/)
-- [ICE Candidates Explanation](http://stackoverflow.com/questions/21069983/what-are-ice-candidates-and-how-do-the-peer-connection-choose-between-them)
+- [ICE Candidates Explanation](https://stackoverflow.com/questions/21069983/what-are-ice-candidates-and-how-do-the-peer-connection-choose-between-them)
 - [Thomas Gorissen: jQuery for WebRTC @ JS Remote Conf 2015](https://devchat.tv/remote-conference-talks/jquery-for-webrtc-thomas-gorissen-js-remote-conf-2015)
 - [JavaScript Jabber Episode #155: Webtorrent with Feross Aboukhadijeh](https://devchat.tv/js-jabber/155-jsj-webtorrent-with-feross-aboukhadijeh)
 
@@ -41,7 +41,7 @@ tags:
 
 22:35 - Alternatives to WebRTCPicks
 
-[Observable-Swift](https://github.com/slazyk/Observable-Swift) (Andrew)[CocoaHeads-SLC-Presentations](https://github.com/armadsen/CocoaHeads-SLC-Presentations/tree/master/KVO-and-Related-Patterns-In-Swift) (Andrew)[Karma](https://yourkarma.com/) (Alondo)[Eden Twig Tea](http://www.amazon.com/gp/product/B000LKTJUG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000LKTJUG&linkCode=as2&tag=chamaxwoo-20&linkId=AU74WY4OMQUVVNYH) (Jaim)[iphreakstopics](https://github.com/devchattv/iphreakstopics) (Chuck) Geek Toys (Chuck)[ThinkGeek](https://www.thinkgeek.com/) (Chuck)[Sonic Screwdriver](http://www.amazon.com/gp/product/B003FHXMDC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003FHXMDC&linkCode=as2&tag=devchattv-20&linkId=O3ZEXGQLYS54TCFB) (Chuck)
+[Observable-Swift](https://github.com/slazyk/Observable-Swift) (Andrew)[CocoaHeads-SLC-Presentations](https://github.com/armadsen/CocoaHeads-SLC-Presentations/tree/master/KVO-and-Related-Patterns-In-Swift) (Andrew)[Karma](https://yourkarma.com/) (Alondo)[Eden Twig Tea](https://www.amazon.com/gp/product/B000LKTJUG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000LKTJUG&linkCode=as2&tag=chamaxwoo-20&linkId=AU74WY4OMQUVVNYH) (Jaim)[iphreakstopics](https://github.com/devchattv/iphreakstopics) (Chuck) Geek Toys (Chuck)[ThinkGeek](https://www.thinkgeek.com/) (Chuck)[Sonic Screwdriver](https://www.amazon.com/gp/product/B003FHXMDC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003FHXMDC&linkCode=as2&tag=devchattv-20&linkId=O3ZEXGQLYS54TCFB) (Chuck)
 
 ### Transcript
 

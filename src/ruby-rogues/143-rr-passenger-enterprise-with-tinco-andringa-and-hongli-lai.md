@@ -14,46 +14,46 @@ tags:
 
 01:35 - Hongli Lai and Tinco Andringa Introductions
 
-- [Phusion](http://www.phusion.nl/)
+- [Phusion](https://www.phusion.nl/)
 
-02:29 - [Phusion Passenger](http://phusionpassenger.com/)
+02:29 - [Phusion Passenger](https://phusionpassenger.com/)
 
-04:29 - [Rack](http://rack.github.io/)
+04:29 - [Rack](https://rack.github.io/)
 
-05:04 - [Node.js](http://nodejs.org/), [MeteorJS](http://www.meteor.com/), [Python](http://www.python.org/) Support
+05:04 - [Node.js](https://nodejs.org/), [MeteorJS](https://www.meteor.com/), [Python](https://www.python.org/) Support
 
 06:51 - Processes and Threads
 
-- [Ruby Rogues Episode #58 - Book Club: Working with Unix Processes with Jesse Storimer](http://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/)
-- [Ruby Enterprise Edition](http://rubyenterpriseedition.com/)
-- [Smart Spawning](http://www.modrails.com/documentation/Users%20guide%20Apache.html#_the_smart_spawning_method)
+- [Ruby Rogues Episode #58 - Book Club: Working with Unix Processes with Jesse Storimer](https://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/)
+- [Ruby Enterprise Edition](https://rubyenterpriseedition.com/)
+- [Smart Spawning](https://www.modrails.com/documentation/Users%20guide%20Apache.html#_the_smart_spawning_method)
 
 18:38 - Advantages of Phusion Passenger Enterprise
 
-- [Rolling Restarts](http://answers.yahoo.com/question/index?qid=20061209033415AAUEayl)
+- [Rolling Restarts](https://answers.yahoo.com/question/index?qid=20061209033415AAUEayl)
 
 21:16 - Mass Deployment
 
-22:48 - [Passenger](http://phusionpassenger.com/) vs [Unicorn](http://rubygems.org/gems/unicorn)
+22:48 - [Passenger](https://phusionpassenger.com/) vs [Unicorn](https://rubygems.org/gems/unicorn)
 
 25:07 - Error Resistant Deploys
 
 26:47 - Hosting
 
-- [DreamHost](http://www.dreamhost.com/)
+- [DreamHost](https://www.dreamhost.com/)
 
-28:48 - [Apache](http://httpd.apache.org/), [Nginx](http://nginx.org/)&nbsp;Support
+28:48 - [Apache](https://httpd.apache.org/), [Nginx](https://nginx.org/)&nbsp;Support
 
 31:22 - Stability Issues
 
 33:46 - [Documentation and Support](https://www.phusionpassenger.com/documentation_and_support)
 
 - [Phusion Passenger Discussions (Google Group)](https://groups.google.com/forum/#!forum/phusion-passenger)
-- [Recent Technical Advances in Phusion Passenger](http://vimeo.com/phusionnl/review/85970704/29c734399f)
+- [Recent Technical Advances in Phusion Passenger](https://vimeo.com/phusionnl/review/85970704/29c734399f)
 
 ### Book Club
 
-[Ruby Under a Microscope by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](http://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](http://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
+[Ruby Under a Microscope by Pat Shaughnessy](https://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](https://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](https://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
 
 ### Next Week
 

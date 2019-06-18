@@ -16,7 +16,7 @@ tags:
 
 #### MJS 022 My JS Story Laurie Voss
 
-This week we have another My JavaScript story. This week’s guest is Laurie Voss. Laurie has worked with [NPM](http://npmjs.org) from the start and has been a vital piece to getting it off the ground. Hear how Laurie got interested in computers, how Laurie got started with NPM, as well as a few things about the newly released NPM 5.
+This week we have another My JavaScript story. This week’s guest is Laurie Voss. Laurie has worked with [NPM](https://npmjs.org) from the start and has been a vital piece to getting it off the ground. Hear how Laurie got interested in computers, how Laurie got started with NPM, as well as a few things about the newly released NPM 5.
 
 ---
 
@@ -58,7 +58,7 @@ Laurie reminds everyone about [NPM Organizations](https://www.npmjs.com/docs/org
 
 ##### Laurie
 
-[Zite and NextJS](https://zeit.co/blog/next)[Slides.com](http://slides.com/)
+[Zite and NextJS](https://zeit.co/blog/next)[Slides.com](https://slides.com/)
 
 ##### Charles
 
@@ -68,7 +68,7 @@ Laurie reminds everyone about [NPM Organizations](https://www.npmjs.com/docs/org
 
 #### Links
 
-[Twitter](http://twitter.com/Seldo/)[NPM Organizations](https://www.npmjs.com/docs/orgs/)[NPM Enterprise](https://www.npmjs.com/enterprise)
+[Twitter](https://twitter.com/Seldo/)[NPM Organizations](https://www.npmjs.com/docs/orgs/)[NPM Enterprise](https://www.npmjs.com/enterprise)
 
 ---
 

@@ -16,12 +16,12 @@ tags:
 
 - [Twitter](https://twitter.com/jodosha)
 - [GitHub](https://github.com/jodosha)
-- [Blog](http://lucaguidi.com/)
+- [Blog](https://lucaguidi.com/)
 
-02:35 - [The Lotus Framework](http://lotusrb.org/)
+02:35 - [The Lotus Framework](https://lotusrb.org/)
 
 - [@lotus_rb](https://twitter.com/lotus_rb)
-- [Lotus Mailing List](http://lotusrb.org/mailing-list/)
+- [Lotus Mailing List](https://lotusrb.org/mailing-list/)
 - [A Rails Criticism by Luca Guidi](https://speakerdeck.com/jodosha/a-rails-criticism)
 
 03:56 - Working Full-time on Open Source
@@ -49,10 +49,10 @@ tags:
 
 32:37 - Contributing to Lotus
 
-- [Contributor Code of Conduct](http://lotusrb.org/community/#code-of-conduct)
+- [Contributor Code of Conduct](https://lotusrb.org/community/#code-of-conduct)
 - [discuss.lotusrb.org](https://discuss.lotusrb.org/)
 - [lotus/chat - Gitter](https://gitter.im/lotus/chat)
-- [Lotus Hack Day 2015](http://lotusrb.org/hackday/)
+- [Lotus Hack Day 2015](https://lotusrb.org/hackday/)
 
 34:50 - Using Fewer Gems
 
@@ -62,7 +62,7 @@ tags:
 
 42:56 - Upcoming FeaturesPicks
 
-[Threes](http://asherv.com/threes/) (Jessica)[15 Minute Podcast Listener chat with Charles Wood](https://rubyrogues.com/15minutes) (Chuck)[Rails Remote Conf](http://railsremoteconf.com) (Chuck)[Pebble Time](https://pebble.com/pebble-time-smartwatch-features) (Chuck)[micro.rb](http://microrb.com/) (Luca)[Duy Huynh](http://www.duyhuynh.com/about-duy-huynh/) (Luca)
+[Threes](https://asherv.com/threes/) (Jessica)[15 Minute Podcast Listener chat with Charles Wood](https://rubyrogues.com/15minutes) (Chuck)[Rails Remote Conf](https://railsremoteconf.com) (Chuck)[Pebble Time](https://pebble.com/pebble-time-smartwatch-features) (Chuck)[micro.rb](https://microrb.com/) (Luca)[Duy Huynh](https://www.duyhuynh.com/about-duy-huynh/) (Luca)
 
 ### Transcript
 

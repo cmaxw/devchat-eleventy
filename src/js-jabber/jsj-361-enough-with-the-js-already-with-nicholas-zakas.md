@@ -50,7 +50,7 @@ Nicholas Zakas discusses the overuse of JavaScript and the underuse of HTML and 
 - [https://www.holloway.com/g/equity-compensation](https://www.holloway.com/g/equity-compensation)
 **Charles Max Wood:**
 - [https://podfestexpo.com/](https://podfestexpo.com/)
-- [http://charlesmaxwood.com/](http://charlesmaxwood.com/)
+- [https://charlesmaxwood.com/](https://charlesmaxwood.com/)
 - [https://www.11ty.io/](https://www.11ty.io/)
 - [https://www.netlify.com/](https://www.netlify.com/)
 **Joe Eames:**

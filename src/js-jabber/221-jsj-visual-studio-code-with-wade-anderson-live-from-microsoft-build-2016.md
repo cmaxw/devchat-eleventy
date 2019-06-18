@@ -14,7 +14,7 @@ tags:
 
 This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/) 2016. In this episode we chatted with Wade Anderson of Microsoft about [Visual Studio Code](https://code.visualstudio.com/). You can follow him on [Twitter](https://twitter.com/waderyan_), or check out what he’s done over on [GitHub](https://github.com/waderyan).&nbsp;Picks
 
-- [Parks and Recreation](http://www.imdb.com/title/tt1266020/) (Wade)
+- [Parks and Recreation](https://www.imdb.com/title/tt1266020/) (Wade)
 - [VidAngel](https://www.vidangel.com/browse) (Wade)
   &nbsp;A special thanks again goes out to [Richard Campbell](https://twitter.com/richcampbell) and [Carl Franklin](https://twitter.com/carlfranklin) from [.NETRocks](https://www.dotnetrocks.com/) for putting this podcast series together! You rock!
 

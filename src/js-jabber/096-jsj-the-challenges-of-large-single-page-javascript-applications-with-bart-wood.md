@@ -15,37 +15,37 @@ tags:
 ### Panel
 
 - Bart Wood ([twitter](https://twitter.com/SBartWood) [github](https://github.com/theironcook))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:29 - Bart Wood Introduction 02:12 - The Frontend
 
-- [Backbone.js](http://backbonejs.org/)
+- [Backbone.js](https://backbonejs.org/)
   02:48 - Working on Single Page Applications 05:56 - Limitations
 - Memory
-- [JSFiddle](http://jsfiddle.net/)
+- [JSFiddle](https://jsfiddle.net/)
   09:51 - Online Practice Management Solution 11:40 - Other Storage Mechanisms/Data Structures
-- [PouchDB](http://pouchdb.com/)
-- [Socket.IO](http://socket.io/)
+- [PouchDB](https://pouchdb.com/)
+- [Socket.IO](https://socket.io/)
 - [IndexedDB](https://developer.mozilla.org/en-US/docs/IndexedDB)
 - UUIDs
-- [POJOs (Plain Old JavaScript Objects)](http://en.wikipedia.org/wiki/Plain_Old_Java_Object)
+- [POJOs (Plain Old JavaScript Objects)](https://en.wikipedia.org/wiki/Plain_Old_Java_Object)
   20:14 - Nesting 21:04 - Memory Testing 22:19 - Cleaning Up Views & Listeners for Performance 24:02 - [Chrome Profiling Tools](https://developers.google.com/chrome-developer-tools/docs/cpu-profiling)
 - [Kojak](https://github.com/theironcook/Kojak)
   32:10 - Why You Shouldn’t Build Large Single Page Apps 35:47 - [React](https://github.com/threerings/react)
-- [JavaScript Jabber Episode #73: React with Pete Hunt and Jordan Walke](http://javascriptjabber.com/073-jsj-react-with-pete-hunt-and-jordan-walke/)
+- [JavaScript Jabber Episode #73: React with Pete Hunt and Jordan Walke](https://javascriptjabber.com/073-jsj-react-with-pete-hunt-and-jordan-walke/)
   37:56 - Maintaining the App
 - [Crucible](https://confluence.atlassian.com/display/CRUCIBLE/Supported+platforms)
 
 ### Picks
 
-- [The Book Thief](http://www.imdb.com/title/tt0816442/) (AJ)
-- [focus@will](http://focusatwill.com/) (Chuck)
-- [The Way of Kings by Brandon Sanderson](http://www.amazon.com/gp/product/0765365278/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765365278&linkCode=as2&tag=chamaxwoo-20) (Bart)
-- [Vikings](http://www.imdb.com/title/tt2306299/) (Bart)
-- [Faded Paper Figures: The Matter](http://fadedpaperfigures.com/) (AJ)
+- [The Book Thief](https://www.imdb.com/title/tt0816442/) (AJ)
+- [focus@will](https://focusatwill.com/) (Chuck)
+- [The Way of Kings by Brandon Sanderson](https://www.amazon.com/gp/product/0765365278/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765365278&linkCode=as2&tag=chamaxwoo-20) (Bart)
+- [Vikings](https://www.imdb.com/title/tt2306299/) (Bart)
+- [Faded Paper Figures: The Matter](https://fadedpaperfigures.com/) (AJ)
 
 ### Next Week
 

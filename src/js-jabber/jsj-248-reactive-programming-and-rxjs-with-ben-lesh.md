@@ -30,6 +30,6 @@ RxJS has a lot of operators off the Observable type. An Observable is just a fun
 
 ## Picks:
 
-Joe: [Wassim Chegham](https://twitter.com/manekinekko), NG&nbsp;2 fundamentals course Charles: [Shure SM58 Microphone](http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone), [Xenyx 802 mixer](https://www.amazon.com/Behringer-802-Premium-8-Input-Preamps/dp/B000J5XS3C), and [JS Remote Conference 2017](https://devchat.tv/conferences/js-remote-conf-2017)Tracy: [Food CSS](http://foodcss.com/) and [ng cruise](https://ngcruise.com/#/)Ben: RxJS Workshop, [Github TC 39](https://github.com/tc39), and Redox Observable
+Joe: [Wassim Chegham](https://twitter.com/manekinekko), NG&nbsp;2 fundamentals course Charles: [Shure SM58 Microphone](https://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone), [Xenyx 802 mixer](https://www.amazon.com/Behringer-802-Premium-8-Input-Preamps/dp/B000J5XS3C), and [JS Remote Conference 2017](https://devchat.tv/conferences/js-remote-conf-2017)Tracy: [Food CSS](https://foodcss.com/) and [ng cruise](https://ngcruise.com/#/)Ben: RxJS Workshop, [Github TC 39](https://github.com/tc39), and Redox Observable
 
 ### Transcript

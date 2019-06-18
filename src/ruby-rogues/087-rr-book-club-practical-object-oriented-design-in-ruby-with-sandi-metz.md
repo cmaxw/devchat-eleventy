@@ -15,15 +15,15 @@ tags:
 
 1:35 - Introducing Sandi Metz
 
-- _[Practical Object-Oriented Design in Ruby by Sandi Metz](http://poodr.com/)_
+- _[Practical Object-Oriented Design in Ruby by Sandi Metz](https://poodr.com/)_
 
-- [Website](http://www.sandimetz.com/)
+- [Website](https://www.sandimetz.com/)
 - [Twitter](https://twitter.com/sandimetz)
   6:15 - The book writing process and the speech writing process17:30 - Flow of _POODR_21:35 - Why design is for everyone24:20 - The fear of writing a book: Am I \_really_ an expert?27:00 - Breaking the rules34:00 - Cheat sheets, screencasts, and diagrams for \_POODR_42:00 - Topics beyond \_POODR_45:20 - Why Sandi loves Rails51:05 - How long will Rails last?55:30 - When should you begin introducing design?1:01:00 - Working with an Inheritance interface1:06:30 - Rules for testing1:14:45 - Well-tested objects without well-tested interactions1:18:45 - Sandi’s rules for coding and breaking them1:26:15 - Having too many small objects versus having too big objects
 
 ### Picks:
 
-[“The Deep Synergy Between Testability and Good Design” Speech by Michael Feathers](https://www.youtube.com/watch?v=4cVZvoFGJTU) (James)[_Endless Space_ game on Steam](http://store.steampowered.com/app/208140/) (James)Board games: [_Lords of Waterdeep_](https://boardgamegeek.com/boardgame/110327/lords-waterdeep), [_Love Letter_](https://boardgamegeek.com/boardgame/129622/love-letter), [_Eminent Domain_](https://boardgamegeek.com/boardgame/68425/eminent-domain) (James)[George Takai’s episode on the _Penn’s Sunday School_ podcast](https://player.fm/series/penns-sunday-school/george-takei-its-okay-to-be-takei) (Avdi)[_Hardcore History_ podcast by Dan Carlin](http://www.dancarlin.com/) &nbsp;(Avdi)[_Infinite Monkey Cage_](http://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads) podcast by BBC Radio 4 (Avdi)[Marked App](http://marked2app.com/) (Josh)[Herman Miller Aeron chair](http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html) (Charles)[Bubble Timer](http://bubbletimer.com/) (Sandi)[Gutter Cleaning Robot](http://www.irobot.com/For-the-Home/Outdoor-Maintenance/Looj.aspx) (Sandi)
+[“The Deep Synergy Between Testability and Good Design” Speech by Michael Feathers](https://www.youtube.com/watch?v=4cVZvoFGJTU) (James)[_Endless Space_ game on Steam](https://store.steampowered.com/app/208140/) (James)Board games: [_Lords of Waterdeep_](https://boardgamegeek.com/boardgame/110327/lords-waterdeep), [_Love Letter_](https://boardgamegeek.com/boardgame/129622/love-letter), [_Eminent Domain_](https://boardgamegeek.com/boardgame/68425/eminent-domain) (James)[George Takai’s episode on the _Penn’s Sunday School_ podcast](https://player.fm/series/penns-sunday-school/george-takei-its-okay-to-be-takei) (Avdi)[_Hardcore History_ podcast by Dan Carlin](https://www.dancarlin.com/) &nbsp;(Avdi)[_Infinite Monkey Cage_](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads) podcast by BBC Radio 4 (Avdi)[Marked App](https://marked2app.com/) (Josh)[Herman Miller Aeron chair](https://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html) (Charles)[Bubble Timer](https://bubbletimer.com/) (Sandi)[Gutter Cleaning Robot](https://www.irobot.com/For-the-Home/Outdoor-Maintenance/Looj.aspx) (Sandi)
 
 ### Transcript
 

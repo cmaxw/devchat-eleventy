@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-**Panel:** Dave Kimura Eric Berry David Richards **Special Guest: Justin Searls and Josh Greenwood** In this episode, the Ruby Rogues speaks with Justin Searls and Josh Greenwood. Justin and Josh both work for a software agency called [Test Double](http://testdouble.com), who are a fully remote software agency. Both Josh and Justin are well versed in many technologies and platforms of development such as Ruby, Javascript and much more.&nbsp; Both Justin and Josh are on the show to talks about their recent presentation “There's Nothing New Under the Sun,” which was presented at conferences. **In particular, we dive pretty deep on:**
+**Panel:** Dave Kimura Eric Berry David Richards **Special Guest: Justin Searls and Josh Greenwood** In this episode, the Ruby Rogues speaks with Justin Searls and Josh Greenwood. Justin and Josh both work for a software agency called [Test Double](https://testdouble.com), who are a fully remote software agency. Both Josh and Justin are well versed in many technologies and platforms of development such as Ruby, Javascript and much more.&nbsp; Both Justin and Josh are on the show to talks about their recent presentation “There's Nothing New Under the Sun,” which was presented at conferences. **In particular, we dive pretty deep on:**
 
 - History and the knowledge of the community
 - Abandoning Gems
@@ -32,24 +32,24 @@ tags:
 - and much much more.
   **Links:&nbsp;**
 - https://github.com/searls
-- http://testdouble.com
+- https://testdouble.com
 - @searls
 - @joshtgreenwood
   **Picks:** David
-- [Gilmore Girls&nbsp;](http://www.imdb.com/title/tt0238784/)
+- [Gilmore Girls&nbsp;](https://www.imdb.com/title/tt0238784/)
 - [Programming Language&nbsp; - Julia](https://julialang.org)
   Eric
 - [Orville&nbsp;](https://www.fox.com/the-orville#season-1)
-- [BoJack Horseman&nbsp;](http://www.imdb.com/title/tt3398228/)
+- [BoJack Horseman&nbsp;](https://www.imdb.com/title/tt3398228/)
   Dave
-- [A Good Snowman is hard to build&nbsp;](http://agoodsnowman.com)
+- [A Good Snowman is hard to build&nbsp;](https://agoodsnowman.com)
 - [Dos Strap](https://github.com/seiyria/dos-strap)
   Justin
 - [Ruby Warrior](https://www.bloc.io/ruby-warrior#/)
 - [SkyrimVR](https://kinja.com/api/profile/getsession?redirect=https://gizmodo.com/setsession?r=https%253A%252F%252Fgizmodo.com%252Fskyrim-vr-is-everything-wrong-with-virtual-reality-righ-1820981227)
 - [Osaka](https://www.osakacoffee.com)
   Josh
-- [Elm](http://elm-lang.org)
+- [Elm](https://elm-lang.org)
 - Space Max text editor
 - [Mini Metro](https://dinopoloclub.com/minimetro/)
 

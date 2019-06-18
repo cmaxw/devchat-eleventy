@@ -34,7 +34,7 @@ Erika: Brandon Sanderson's Stormlight Trilogy third book Jaim: [BetterExplained.
 
 ## Episode Link:
 
-[Astropad](http://astropad.com/)[Launching an App in the App Store with Matt Ronge](https://devchat.tv/iphreaks/113-ips-launching-an-app-in-the-app-store-with-matt-ronge)
+[Astropad](https://astropad.com/)[Launching an App in the App Store with Matt Ronge](https://devchat.tv/iphreaks/113-ips-launching-an-app-in-the-app-store-with-matt-ronge)
 
 ### Transcript
 

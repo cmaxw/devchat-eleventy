@@ -5,7 +5,7 @@ title: >
 date: 2019-03-19 10:00:20
 episode_number: 043
 duration: 53:54
-audio_url: http://media.devchat.tv/elixir-mix/EMx_043_Using_GenServers_and_Tasks_Together_to_Create_Fault-Tolerant_Apps_with_Jack_Marchant.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_043_Using_GenServers_and_Tasks_Together_to_Create_Fault-Tolerant_Apps_with_Jack_Marchant.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/elixir)offers a $1000 signing bonus
 - [.TECH](https://get.tech/) - [Go.tech/Elixir](https://get.tech/?&coupon=ELIXIR.TECH&utm_source=Influencer&utm_medium=Podcast&utm_campaign=ElixirMix) and use the coupon code “ **ELIXIR.TECH** ” and get a 1 year .TECH Domain at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)
@@ -29,7 +29,7 @@ Mark Ericksen and Josh Adams ask Jack Marchant, a software engineer from Austral
 ### **Links**
 
 - [https://reactjs.org/](https://reactjs.org/)
-- [http://absinthe-graphql.org/](http://absinthe-graphql.org/)
+- [https://absinthe-graphql.org/](https://absinthe-graphql.org/)
 - [https://reactjs.org/docs/error-boundaries.html](https://reactjs.org/docs/error-boundaries.html)
 - [https://www.jackmarchant.com/articles/you-might-not-need-a-genserver](https://www.jackmarchant.com/articles/you-might-not-need-a-genserver)
 - [https://www.jackmarchant.com/articles/using-a-genserver-to-handle-asynchronous-concurrent-tasks](https://www.jackmarchant.com/articles/using-a-genserver-to-handle-asynchronous-concurrent-tasks)

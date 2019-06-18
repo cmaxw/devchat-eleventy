@@ -15,9 +15,9 @@ tags:
 00:55 - Laura Roeder Introduction
 
 - [Twitter](https://twitter.com/lkr)
-- [LKR Social Media](http://lkrsocialmedia.com/)
-- [Blog](http://lkrsocialmedia.com/category/blog/)
-- [Edgar](http://meetedgar.com/)
+- [LKR Social Media](https://lkrsocialmedia.com/)
+- [Blog](https://lkrsocialmedia.com/category/blog/)
+- [Edgar](https://meetedgar.com/)
   - [@meetedgar](https://twitter.com/meetedgar)&nbsp;&nbsp;
   - [Facebook](https://www.facebook.com/MeetEdgar)
 
@@ -66,7 +66,7 @@ Other tools mentioned on today’s show
 - [Facebook](https://www.facebook.com/)
 - [Twitter](https://twitter.com/)
 - [Hootsuite](https://hootsuite.com/)
-- [Tweetbot](http://tapbots.com/tweetbot/)
+- [Tweetbot](https://tapbots.com/tweetbot/)
 - [Snapchat](https://www.snapchat.com/)
 - [Periscope](https://www.periscope.tv/)
 - [Meerkat](https://meerkatapp.co/)
@@ -74,7 +74,7 @@ Other tools mentioned on today’s show
 - [Pinterest](https://www.pinterest.com/)
   Picks
 
-[feedly](https://feedly.com/) (Reuven)[Super Spicy Media Blog](http://superspicymedia.com/blog/) (Jonathan)[Resources for DYFConf attendees by Kurt Elster](http://kurtelster.com/dyfconf/) (Jonathan)[Edgar](http://meetedgar.com/) (Chuck)[Hootsuite](https://hootsuite.com/) (Chuck)[Tweetbot](http://tapbots.com/tweetbot/) (Chuck)[Unfollowers.com](https://unfollowers.com/) (Chuck)[Basecamp](https://basecamp.com/) (Chuck)[Pocket](https://getpocket.com/) (Laura)
+[feedly](https://feedly.com/) (Reuven)[Super Spicy Media Blog](https://superspicymedia.com/blog/) (Jonathan)[Resources for DYFConf attendees by Kurt Elster](https://kurtelster.com/dyfconf/) (Jonathan)[Edgar](https://meetedgar.com/) (Chuck)[Hootsuite](https://hootsuite.com/) (Chuck)[Tweetbot](https://tapbots.com/tweetbot/) (Chuck)[Unfollowers.com](https://unfollowers.com/) (Chuck)[Basecamp](https://basecamp.com/) (Chuck)[Pocket](https://getpocket.com/) (Laura)
 
 ### Transcript
 

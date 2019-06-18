@@ -35,13 +35,13 @@ tags:
   **<u>Links: </u>**
 - [Artsy](https://www.artsy.net)
 - [Orta Therox](https://github.com/orta)
-- http://orta.io
+- https://orta.io
   **<u>Picks:</u>** Gant
 - [Chain React Conf.](https://infinite.red/ChainReactConf)
 - [Stoeffel Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
   Nader
 - [Ready Player One](https://www.audible.com/t2/title?cvo_campaign=936444919&gclid=Cj0KCQiAyNjRBRCpARIsAPDBnn10xcE2cZiBMsSWABvZfeVfg-uubqZkBpiiJ-XmB7aipDzDOe7ByGIaAkx8EALw_wcB&Matchtype=e&asin=B005FRGT44&cvosrc=ppc.google.ready+player+one&cvo_crid=226054505162&source_code=GO1GBSH09091690EP)
-- [React Native Training](http://reactnative.training)
+- [React Native Training](https://reactnative.training)
   Orta
 - Study [GraphQL Tools](https://www.npmjs.com/package/graphql-tools)
 

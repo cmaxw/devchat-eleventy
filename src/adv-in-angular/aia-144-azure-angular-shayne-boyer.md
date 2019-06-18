@@ -148,7 +148,7 @@ On today’s episode of Adventures of Angular we’ve got panelists Ward Bell, J
 
 ##### Joe
 
-[John Papa’s course on Angular CLI course.](https://www.pluralsight.com/courses/angular-cli)[NG Doc.](http://ngdoc.io/)
+[John Papa’s course on Angular CLI course.](https://www.pluralsight.com/courses/angular-cli)[NG Doc.](https://ngdoc.io/)
 
 ##### Ward
 
@@ -160,7 +160,7 @@ Troy Hunt used Azure functions to fight DDOS attacks article. Alexa
 
 ##### Shayne
 
-[Keyvo Smartlock](http://www.kwikset.com/kevo/default)[Angular 2 app to Azure using Git play by play course.](https://www.pluralsight.com/courses/play-by-play-angular-2-app-deployment-azure-git-john-papa-shayne-boyer)[Docs.microsoft.com](https://docs.microsoft.com/)
+[Keyvo Smartlock](https://www.kwikset.com/kevo/default)[Angular 2 app to Azure using Git play by play course.](https://www.pluralsight.com/courses/play-by-play-angular-2-app-deployment-azure-git-john-papa-shayne-boyer)[Docs.microsoft.com](https://docs.microsoft.com/)
 
 ---
 

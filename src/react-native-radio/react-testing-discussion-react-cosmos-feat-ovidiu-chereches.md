@@ -46,8 +46,8 @@ tags:
 - [React Cosmos](https://github.com/react-cosmos/react-cosmos/issues/182)
 - space
   **<u>Picks:</u>** Spencer
-- [expo.io](http://snack.expo.io)
+- [expo.io](https://snack.expo.io)
   Nader
-- [New Orleans](http://www.neworleansonline.com)
+- [New Orleans](https://www.neworleansonline.com)
 
 ### Transcript

@@ -5,7 +5,7 @@ title: >
 date: 2016-06-16 07:00:14
 episode_number: 206
 duration: 53:33
-audio_url: http://media.devchat.tv/freelancers/FS206SoloToAgency.mp3
+audio_url: https://media.devchat.tv/freelancers/FS206SoloToAgency.mp3
 podcast: freelancers
 tags:
   - freelancers
@@ -15,7 +15,7 @@ tags:
 01:51 - Gavin Ballard Introduction
 
 - [Twitter](https://twitter.com/gavinballard)
-- [Blog](http://gavinballard.com/)
+- [Blog](https://gavinballard.com/)
 - [Disco](https://www.discolabs.com/)
 - [Shopify](https://www.shopify.com/?ref=disco)
   02:29 - Going From Solo to Agency04:23 - Realistic Expectations; End Goal12:47 - Niches15:00 - Marketing for Flexibility and Working With Other Team Members17:12 - Changing Roles
@@ -25,10 +25,10 @@ tags:
   29:32 - Financial Changes34:10 - Managing Your Pipeline38:52 - Choosing a Niche in a Larger Ecosystem43:00 - What if it’s a mistake?44:49 - Starting an Agency&nbsp;Picks
 - [ScreenFlow](https://www.telestream.net/screenflow/) (Philip)
 - [Philip's Positioning Crash Course](https://philipmorganconsulting.com/positioning-crash-course/) (Philip)
-- [The Society of Mind by Marvin Minsky](http://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135) (Reuven)
-- [Reuven's Regexp Crash Course](http://practicemakesregexp.com/regexp-crash-course/) (Reuven)
+- [The Society of Mind by Marvin Minsky](https://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135) (Reuven)
+- [Reuven's Regexp Crash Course](https://practicemakesregexp.com/regexp-crash-course/) (Reuven)
 - [Trello](https://trello.com/) (Chuck)
-- [Gravity Forms](http://www.gravityforms.com/) (Chuck)
+- [Gravity Forms](https://www.gravityforms.com/) (Chuck)
 - [Zapier](https://zapier.com/) (Chuck)
 - [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)
 - [Brian Cardarella: Lessons Learned - Three years of running a software consultancy](https://dockyard.com/blog/2014/12/28/lessons-learned-three-years-running-a-software-consultancy) (Gavin)

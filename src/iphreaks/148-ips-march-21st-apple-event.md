@@ -15,29 +15,29 @@ tags:
 01:10 - iPhone
 
 - Gigabyte Options
-- [iPhone SE](http://www.apple.com/iphone-se/)
+- [iPhone SE](https://www.apple.com/iphone-se/)
 
 08:34 - FBI Case and Security
 
-15:19 - [iOS 9.3](http://www.apple.com/ios/preview/)
+15:19 - [iOS 9.3](https://www.apple.com/ios/preview/)
 
-- <u><a style="text-decoration: none;" href="http://mashable.com/2016/03/21/how-to-use-night-shift-in-ios-9-3/">Night Shift</a></u>
+- <u><a style="text-decoration: none;" href="https://mashable.com/2016/03/21/how-to-use-night-shift-in-ios-9-3/">Night Shift</a></u>
   - [f.lux](https://justgetflux.com/)
 - Color Profiles
 
-17:44 - [iPad Pro](http://www.apple.com/ipad-pro/)
+17:44 - [iPad Pro](https://www.apple.com/ipad-pro/)
 
-- [Apple Pencil](http://www.apple.com/apple-pencil/)
+- [Apple Pencil](https://www.apple.com/apple-pencil/)
 
-22:40 - [Apple Watch](http://www.apple.com/watch/)
+22:40 - [Apple Watch](https://www.apple.com/watch/)
 
-24:10 - [Apple TV](http://www.apple.com/tv/)
+24:10 - [Apple TV](https://www.apple.com/tv/)
 
-27:48 - [ResearchKit and CareKit](http://www.apple.com/researchkit/)
+27:48 - [ResearchKit and CareKit](https://www.apple.com/researchkit/)
 
 30:49 - April 1st IntroPicks
 
-[Uvex S0360X Ultra-spec 2000 Safety Eyewear](http://www.amazon.com/Uvex-S0360X-Ultra-spec-SCT-Orange-Anti-Fog/dp/B003OBZ64M/ref=sr_1_1?ie=UTF8&qid=1458760403&sr=8-1&keywords=blue+light+goggles) (Jaim)[Andyy Hope: Swift: Selector syntax sugar](https://medium.com/swift-programming/swift-selector-syntax-sugar-81c8a8b10df3#.fs5doma0x) (Andrew)[OLO - The First Ever Smartphone 3D Printer](https://www.kickstarter.com/projects/olo3d/olo-the-first-ever-smartphone-3d-printer) (Andrew)[Shapr3D](http://shapr3d.com) (Andrew) Taking a break (Chuck)[Facebook Groups](http://www.facebookgroups.com/) (Chuck)[iPhreaks Show on Facebook](https://www.facebook.com/IPhreaks-Show-164541030597807/?fref=ts) (Chuck)
+[Uvex S0360X Ultra-spec 2000 Safety Eyewear](https://www.amazon.com/Uvex-S0360X-Ultra-spec-SCT-Orange-Anti-Fog/dp/B003OBZ64M/ref=sr_1_1?ie=UTF8&qid=1458760403&sr=8-1&keywords=blue+light+goggles) (Jaim)[Andyy Hope: Swift: Selector syntax sugar](https://medium.com/swift-programming/swift-selector-syntax-sugar-81c8a8b10df3#.fs5doma0x) (Andrew)[OLO - The First Ever Smartphone 3D Printer](https://www.kickstarter.com/projects/olo3d/olo-the-first-ever-smartphone-3d-printer) (Andrew)[Shapr3D](https://shapr3d.com) (Andrew) Taking a break (Chuck)[Facebook Groups](https://www.facebookgroups.com/) (Chuck)[iPhreaks Show on Facebook](https://www.facebook.com/IPhreaks-Show-164541030597807/?fref=ts) (Chuck)
 
 ### Transcript
 

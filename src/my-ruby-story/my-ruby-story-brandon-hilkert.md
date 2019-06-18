@@ -34,14 +34,14 @@ Brandon practiced a lot to overcome the impostor syndrome. He built usable toy a
 
 ## Establish Connections
 
-Connect with Brandon on [Twitter](https://twitter.com/brandonhilkert?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [blog](http://brandonhilkert.com/). You can also follow him through the links below. Don’t forget to let him know you heard about him on Devchat.tv’s Ruby Rogues My Ruby Story podcast!
+Connect with Brandon on [Twitter](https://twitter.com/brandonhilkert?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [blog](https://brandonhilkert.com/). You can also follow him through the links below. Don’t forget to let him know you heard about him on Devchat.tv’s Ruby Rogues My Ruby Story podcast!
 
 ## Picks:
 
-Brandon: Guilds, Ruby on Rails, and Bark Charles: [The Emperor's Blades](http://www.goodreads.com/book/show/17910124-the-emperor-s-blades), [The Providence of Fire](http://www.goodreads.com/book/show/22055280-the-providence-of-fire), [Google Drive](https://www.google.com/drive/), and [Contactually](http://www.contactually.com/)
+Brandon: Guilds, Ruby on Rails, and Bark Charles: [The Emperor's Blades](https://www.goodreads.com/book/show/17910124-the-emperor-s-blades), [The Providence of Fire](https://www.goodreads.com/book/show/22055280-the-providence-of-fire), [Google Drive](https://www.google.com/drive/), and [Contactually](https://www.contactually.com/)
 
 ## Episode Links:
 
-Classic ASP,&nbsp;Codeignitor, [Agile Web Development with Rails by Sam Ruby](https://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564),&nbsp;Multithreading,&nbsp;[Sidekiq](http://sidekiq.org/),&nbsp;Suckerpunch
+Classic ASP,&nbsp;Codeignitor, [Agile Web Development with Rails by Sam Ruby](https://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564),&nbsp;Multithreading,&nbsp;[Sidekiq](https://sidekiq.org/),&nbsp;Suckerpunch
 
 ### Transcript

@@ -16,11 +16,11 @@ tags:
 
 - [Twitter](https://twitter.com/RayHightower)
 - [GitHub](https://github.com/RayHightower)
-- [Blog](http://rayhightower.com/)
-- [WisdomGroup](http://www.wisdomgroup.com/)
-- [ChicagoRuby](http://www.chicagoruby.org/)
+- [Blog](https://rayhightower.com/)
+- [WisdomGroup](https://www.wisdomgroup.com/)
+- [ChicagoRuby](https://www.chicagoruby.org/)
 - [WindyCityRails](https://www.windycityrails.com/)
-- [WindyCityThings](http://windycitythings.com/)
+- [WindyCityThings](https://windycitythings.com/)
 
 03:22 - [Parallella](https://www.parallella.org/)
 
@@ -34,14 +34,14 @@ tags:
 
 - [Verilog](https://en.wikipedia.org/wiki/Verilog)
 
-22:22 - [Concurrency](<https://en.wikipedia.org/wiki/Concurrency_(computer_science)>) and [Parallelism](http://literarydevices.net/parallelism/)
+22:22 - [Concurrency](<https://en.wikipedia.org/wiki/Concurrency_(computer_science)>) and [Parallelism](https://literarydevices.net/parallelism/)
 
 - [The Most Energy Efficient Supercomputer on the Planet by Ray Hightower at Madison+ Ruby 2015](https://www.youtube.com/watch?v=Tbx0KGd6ols)
 - [github.com/parallella/parallella-examples](https://github.com/parallella/parallella-examples)
 
 32:48 - Getting Started with [Parallella](https://www.parallella.org/)
 
-- [Parallella Quick Start Guide (with gotchas)](http://rayhightower.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/)
+- [Parallella Quick Start Guide (with gotchas)](https://rayhightower.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/)
 - COIK = Clear Only If Known
 - [parallella.org/forums](https://parallella.org/forums/)
 
@@ -50,11 +50,11 @@ tags:
 42:38 - [IoT (Internet of Things)](https://en.wikipedia.org/wiki/Internet_of_Things)
 
 - [HealthKit](https://developer.apple.com/healthkit/)
-- [HomeKit](http://www.apple.com/ios/homekit/)
+- [HomeKit](https://www.apple.com/ios/homekit/)
 - [WatchKit](https://developer.apple.com/watchkit/)
   Picks
 
-[Refactoring Ruby with Monads](http://codon.com/refactoring-ruby-with-monads) (Coraline)[Ruby Rogues Episode #120: Book Club: Understanding Computation with Tom Stuart](https://devchat.tv/ruby-rogues/120-rr-book-club-understanding-computation-with-tom-stuart) (Chuck) Learning to play the piano (Jessica)[Mogo Portable Seat](http://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00) (Chuck)[Rob Pike: Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) (Ray)[Designing and Building Parallel Programs by Ian Foster](http://www-unix.mcs.anl.gov/~itf/dbpp/text/book.html) (Ray)
+[Refactoring Ruby with Monads](https://codon.com/refactoring-ruby-with-monads) (Coraline)[Ruby Rogues Episode #120: Book Club: Understanding Computation with Tom Stuart](https://devchat.tv/ruby-rogues/120-rr-book-club-understanding-computation-with-tom-stuart) (Chuck) Learning to play the piano (Jessica)[Mogo Portable Seat](https://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00) (Chuck)[Rob Pike: Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) (Ray)[Designing and Building Parallel Programs by Ian Foster](https://www-unix.mcs.anl.gov/~itf/dbpp/text/book.html) (Ray)
 
 ### Transcript
 

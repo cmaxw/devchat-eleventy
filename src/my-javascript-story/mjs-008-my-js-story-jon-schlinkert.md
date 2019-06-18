@@ -22,7 +22,7 @@ In the beginning, he really didn't intend to get into programming.&nbsp;Over fiv
 
 ## Stepping Into JavaScript
 
-Initially, he didn't have any hope of learning how to write code. All he wanted was just to learn how to design and build prototypes. The very first thing he did was to learn HTML and CSS. Jon ended up&nbsp;joining the JS core team after about a year. His primary contribution was documentation. He recalls the time he decided to learn about JavaScript. He approached&nbsp;his friend, Brian Woodward, to help him build a tool to generate prototypes. His first JavaScript project was a static site generator now known as [Assemble](http://assemble.io/).
+Initially, he didn't have any hope of learning how to write code. All he wanted was just to learn how to design and build prototypes. The very first thing he did was to learn HTML and CSS. Jon ended up&nbsp;joining the JS core team after about a year. His primary contribution was documentation. He recalls the time he decided to learn about JavaScript. He approached&nbsp;his friend, Brian Woodward, to help him build a tool to generate prototypes. His first JavaScript project was a static site generator now known as [Assemble](https://assemble.io/).
 
 ## Contributions to the Community
 

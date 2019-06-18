@@ -12,29 +12,29 @@ tags:
   - podcast
 ---
 
-### [Use this link and code JAVAJAB to get 20% off your registration for FluentConf 2013!](http://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo)
+### [Use this link and code JAVAJAB to get 20% off your registration for FluentConf 2013!](https://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo)
 
 ### Panel
 
-- Derick Bailey ([twitter](https://twitter.com/derickbailey) [github](https://github.com/derickbailey) [blog](http://lostechies.com/derickbailey/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
+- Derick Bailey ([twitter](https://twitter.com/derickbailey) [github](https://github.com/derickbailey) [blog](https://lostechies.com/derickbailey/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Tim Caswell ([twitter](http://twitter.com/creationix/) [github](https://github.com/creationix/) [howtonode.org](http://howtonode.org/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/) [github](https://github.com/creationix/) [howtonode.org](https://howtonode.org/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:03 - Derick Bailey Introduction
 
-- [Kendo UI](http://www.kendoui.com/)
-  02:11 - [Marionette.js](http://marionettejs.com/)
-- [Backbone.js](http://backbonejs.org/)
+- [Kendo UI](https://www.kendoui.com/)
+  02:11 - [Marionette.js](https://marionettejs.com/)
+- [Backbone.js](https://backbonejs.org/)
 - Zombie Views
   06:57 - How backbone.js helps with large-scale applications
 - Scalability
   08:42 - High-level application architecture path with Marionette.js
-- [BBCloneMail](http://bbclonemail.herokuapp.com/#mail)
+- [BBCloneMail](https://bbclonemail.herokuapp.com/#mail)
 - [BBClone Mail Source Code](https://github.com/marionettejs/bbclonemail)
   13:02 - Breaking down Marionette.js
 - [marionettejs / backbone.babysitter](https://github.com/marionettejs/backbone.babysitter)
@@ -46,38 +46,38 @@ tags:
 - Single-page applications
 - Simplicity & maintainability
   34:23 - Routing
-- [Single responsibility principle](http://en.wikipedia.org/wiki/Single_responsibility_principle)
+- [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 - [boazsender / backbone.routefilter](https://github.com/boazsender/backbone.routefilter)
   41:40 - Compatibility Issues
-- [Thorax](http://thoraxjs.org/)
-- [Chaplin](http://chaplinjs.org/)
+- [Thorax](https://thoraxjs.org/)
+- [Chaplin](https://chaplinjs.org/)
 - [tbranyen / backbone.layoutmanager](https://github.com/tbranyen/backbone.layoutmanager)
-- [backbone.stickit](http://nytimes.github.io/backbone.stickit/)
+- [backbone.stickit](https://nytimes.github.io/backbone.stickit/)
 - Composition vs Inheritance
   48:57 - Layouts, region managers, and regions
 
 ### Picks
 
 - [Raynos / continuable](https://github.com/Raynos/continuable/blob/master/spec.md) (Tim)
-- [asm.js](http://asmjs.org/) (Joe)
-- [Arrested Development](http://www.imdb.com/title/tt0367279/) (Joe)
-- [Learn CSS Layout](http://learnlayout.com/) (Merrick)
-- [Data in Gapminder World](http://www.gapminder.org/data/) (Merrick)
-- [BYU Easter Prank](http://youtu.be/WIsaWW-Op-Y) (AJ)
-- [Ryan and Bryndi Engagement Story](http://youtu.be/OgulnTWEM5g) (AJ)
-- [Ryan and Bryndi Wedding Day](http://youtu.be/iF5MmeefPQo) (AJ)
-- [Libsyn](http://www.libsyn.com/) (Chuck)
-- [Get Clicky](http://clicky.com/131029) (Chuck)
-- [Arduino](http://arduino.cc/) (Derick)
+- [asm.js](https://asmjs.org/) (Joe)
+- [Arrested Development](https://www.imdb.com/title/tt0367279/) (Joe)
+- [Learn CSS Layout](https://learnlayout.com/) (Merrick)
+- [Data in Gapminder World](https://www.gapminder.org/data/) (Merrick)
+- [BYU Easter Prank](https://youtu.be/WIsaWW-Op-Y) (AJ)
+- [Ryan and Bryndi Engagement Story](https://youtu.be/OgulnTWEM5g) (AJ)
+- [Ryan and Bryndi Wedding Day](https://youtu.be/iF5MmeefPQo) (AJ)
+- [Libsyn](https://www.libsyn.com/) (Chuck)
+- [Get Clicky](https://clicky.com/131029) (Chuck)
+- [Arduino](https://arduino.cc/) (Derick)
 - [Johnny-Five](https://github.com/rwldrn/johnny-five) (Derick)
-- [BackboneRails Screencasts](http://www.backbonerails.com/) (Derick)
-- [Settler's Of Catan](http://www.catan.com/) (Derick)
-- [Ticket To Ride](http://www.daysofwonder.com/tickettoride/en/) (Derick)
-- [Carcassonne](http://boardgamegeek.com/boardgame/822/carcassonne) (Derick)
-- [JavaScript Patterns by Stoyan Stefanov](http://www.amazon.com/gp/product/0596806752/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596806752&linkCode=as2&tag=chamaxwoo-20) (Derick)
-- [Patterns For Large-Scale JavaScript Application Architecture: Addy Osmani](http://addyosmani.com/largescalejavascript/) (Derick)
-- [Learning JavaScript Design Patterns by Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) (Derick)
-- [Developing Backbone.js Applications: Addy Osmani](http://addyosmani.github.io/backbone-fundamentals/) (Derick)
+- [BackboneRails Screencasts](https://www.backbonerails.com/) (Derick)
+- [Settler's Of Catan](https://www.catan.com/) (Derick)
+- [Ticket To Ride](https://www.daysofwonder.com/tickettoride/en/) (Derick)
+- [Carcassonne](https://boardgamegeek.com/boardgame/822/carcassonne) (Derick)
+- [JavaScript Patterns by Stoyan Stefanov](https://www.amazon.com/gp/product/0596806752/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596806752&linkCode=as2&tag=chamaxwoo-20) (Derick)
+- [Patterns For Large-Scale JavaScript Application Architecture: Addy Osmani](https://addyosmani.com/largescalejavascript/) (Derick)
+- [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (Derick)
+- [Developing Backbone.js Applications: Addy Osmani](https://addyosmani.github.io/backbone-fundamentals/) (Derick)
 
 ### Next Week
 

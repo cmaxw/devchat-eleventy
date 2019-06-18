@@ -34,11 +34,11 @@ What made Mike really get into JavaScript was the language's inevitability. He's
 
 ## Get Connected
 
-Isaac would love to hear from you! Visit him through&nbsp;the links below. Don't forget to let Isaac know you heard about him on Devchat.tv's Adventures in Angular My Angular Story![Isaac's Twitter](https://twitter.com/izs?lang=en)[NPM's Twitter](https://twitter.com/npmjs)[NPM's blog](http://blog.npmjs.org/)[NPM website](https://www.npmjs.com/)
+Isaac would love to hear from you! Visit him through&nbsp;the links below. Don't forget to let Isaac know you heard about him on Devchat.tv's Adventures in Angular My Angular Story![Isaac's Twitter](https://twitter.com/izs?lang=en)[NPM's Twitter](https://twitter.com/npmjs)[NPM's blog](https://blog.npmjs.org/)[NPM website](https://www.npmjs.com/)
 
 ## Picks:
 
-Isaac: [Westworld](http://www.hbo.com/westworld), [The Imperial Radch Trilogy](https://www.goodreads.com/series/113751-imperial-radch), and [Story of Your Life by Ted Chiang](http://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others)Charles: [Sphero BB8 Droid](http://www.sphero.com/starwars/bb8)&nbsp;and&nbsp;[Arcanum Unbounded by Brandon Sanderson](https://brandonsanderson.com/books/cosmere-short-fiction/arcanum-unbounded/)
+Isaac: [Westworld](https://www.hbo.com/westworld), [The Imperial Radch Trilogy](https://www.goodreads.com/series/113751-imperial-radch), and [Story of Your Life by Ted Chiang](https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others)Charles: [Sphero BB8 Droid](https://www.sphero.com/starwars/bb8)&nbsp;and&nbsp;[Arcanum Unbounded by Brandon Sanderson](https://brandonsanderson.com/books/cosmere-short-fiction/arcanum-unbounded/)
 
 ### Transcript
 

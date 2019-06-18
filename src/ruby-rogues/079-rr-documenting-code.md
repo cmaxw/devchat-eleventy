@@ -12,9 +12,9 @@ tags:
   - podcast
 ---
 
-### 01:58 - [Ruby Nuby](http://rubyrogues.com/ruby-nuby-project/)
+### 01:58 - [Ruby Nuby](https://rubyrogues.com/ruby-nuby-project/)
 
-- [Submissions](http://rubyrogues.com/ruby-nuby-project-2/): 2.5+ hours worth of content
+- [Submissions](https://rubyrogues.com/ruby-nuby-project-2/): 2.5+ hours worth of content
   02:37 - Best of Parley
 - Crafting Outside the Technology World by [Rod Jenkins](https://twitter.com/ScriptGorilla)
   03:51 - Documenting Code 05:29 - Comments
@@ -29,37 +29,37 @@ tags:
 
 -
 
-[Literate Programming](http://en.wikipedia.org/wiki/Literate_programming)
+[Literate Programming](https://en.wikipedia.org/wiki/Literate_programming)
 
 -
 
-[Learnable Programming](http://worrydream.com/LearnableProgramming/)
+[Learnable Programming](https://worrydream.com/LearnableProgramming/)
 20:15 - Inline comments
 
 - Adapter layer
-- Intention revealing method: [Smalltalk Best Practice Patterns by Kent Beck](http://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=013476904X&linkCode=as2&tag=chamaxwoo-20)
+- Intention revealing method: [Smalltalk Best Practice Patterns by Kent Beck](https://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=013476904X&linkCode=as2&tag=chamaxwoo-20)
   27:12 - rdoc
 -
 
-[Inside Macintosh](http://www.amazon.com/gp/product/0201632993/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201632993&linkCode=as2&tag=chamaxwoo-20)
+[Inside Macintosh](https://www.amazon.com/gp/product/0201632993/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201632993&linkCode=as2&tag=chamaxwoo-20)
 
 - API Documentation
 -
 
-[Doxygen](http://www.stack.nl/~dimitri/doxygen/)
+[Doxygen](https://www.stack.nl/~dimitri/doxygen/)
 
 -
 
-[Learnable Programming](http://worrydream.com/LearnableProgramming/)
+[Learnable Programming](https://worrydream.com/LearnableProgramming/)
 
 -
 
-[perldoc](http://perldoc.perl.org/perldoc.html)
+[perldoc](https://perldoc.perl.org/perldoc.html)
 41:24 - Integrated Documentation 47:01 - README
 
 -
 
-[Tom Preston-Werner: Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+[Tom Preston-Werner: Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
 -
 
@@ -68,25 +68,25 @@ tags:
 -
 
 [dbrady/polyhedra](https://github.com/dbrady/polyhedra)
-52:23 - [Class-responsibility-collaboration cards](http://en.wikipedia.org/wiki/Class-responsibility-collaboration_card)
+52:23 - [Class-responsibility-collaboration cards](https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card)
 
 -
 
-[CRC Cards](http://www.extremeprogramming.org/rules/crccards.html)
+[CRC Cards](https://www.extremeprogramming.org/rules/crccards.html)
 
 -
 
-[OmniGraffle](http://www.omnigroup.com/products/omnigraffle/)
-55:52 - [Rails Guides](http://guides.rubyonrails.org/)
+[OmniGraffle](https://www.omnigroup.com/products/omnigraffle/)
+55:52 - [Rails Guides](https://guides.rubyonrails.org/)
 
-- [Railscasts](http://railscasts.com/)
+- [Railscasts](https://railscasts.com/)
 -
 
-[Designing Hypermedia APIs](http://designinghypermediaapis.com/)
+[Designing Hypermedia APIs](https://designinghypermediaapis.com/)
 
 ### Podcast Awards
 
-- **[VOTE HERE!](http://www.podcastawards.com/)**
+- **[VOTE HERE!](https://www.podcastawards.com/)**
 
 ### Next Week
 
@@ -94,10 +94,10 @@ tags:
 
 ### Book Club
 
-The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](http://www.informit.com/).
+The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](https://www.informit.com/).
 
-- First create a user account: [www.informit.com/join](http://www.informit.com/join)
-- SAVE 40% When You Buy 2: [www.informit.com/ruby](http://www.informit.com/ruby)
+- First create a user account: [www.informit.com/join](https://www.informit.com/join)
+- SAVE 40% When You Buy 2: [www.informit.com/ruby](https://www.informit.com/ruby)
 - Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
 - (Includes FREE SHIPPING within the U.S.!)
 

@@ -20,11 +20,11 @@ Go check out [JS Remote Conf](https://jsremoteconf.com/)!
 
 - [Twitter](https://twitter.com/PascalPrecht)
 - [GitHub](https://github.com/PascalPrecht)
-- [Blog](http://pascalprecht.github.io/)
+- [Blog](https://pascalprecht.github.io/)
 
 03:03 - Getting Involved with the Angular 2 Documentation
 
-- [thoughtram Blog](http://blog.thoughtram.io)
+- [thoughtram Blog](https://blog.thoughtram.io)
 
 05:10 - Deciding Where to Contribute
 
@@ -56,7 +56,7 @@ Go check out [JS Remote Conf](https://jsremoteconf.com/)!
 - [wardb@ideablade.com](mailto:wardb@ideablade.com)
   Picks
 
-[Heart of a Dog](http://www.imdb.com/title/tt4935446/) (Ward)[Chrome Dev Summit codelabs](https://www.code-labs.io/chrome-dev-summit) (Aaron)[Toastmasters](https://www.toastmasters.org/) (Chuck)[Nexus 5X](https://store.google.com/product/nexus_5x?utm_source=en-ha-na-sem&utm_medium=text&utm_content=bkws&utm_campaign=nexus5x&gclid=Cj0KEQiAg7ayBRD8qqSGt-fj6uYBEiQAucjOwctZDpb9TTB_IExJeZLdS03BejwkI-beicFiOmZi6_EaAugW8P8HAQ) (Pascal)[@robwormald](https://twitter.com/robwormald) (Pascal)[thoughtram Blog](http://blog.thoughtram.io) (Ward)
+[Heart of a Dog](https://www.imdb.com/title/tt4935446/) (Ward)[Chrome Dev Summit codelabs](https://www.code-labs.io/chrome-dev-summit) (Aaron)[Toastmasters](https://www.toastmasters.org/) (Chuck)[Nexus 5X](https://store.google.com/product/nexus_5x?utm_source=en-ha-na-sem&utm_medium=text&utm_content=bkws&utm_campaign=nexus5x&gclid=Cj0KEQiAg7ayBRD8qqSGt-fj6uYBEiQAucjOwctZDpb9TTB_IExJeZLdS03BejwkI-beicFiOmZi6_EaAugW8P8HAQ) (Pascal)[@robwormald](https://twitter.com/robwormald) (Pascal)[thoughtram Blog](https://blog.thoughtram.io) (Ward)
 
 ### Transcript
 

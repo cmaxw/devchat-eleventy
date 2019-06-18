@@ -16,12 +16,12 @@ tags:
 
 **Guest:** Nadia Odunayo
 
-This week on My Ruby Story, Charles talks to Nadia Odunayo. Nadia was previously on [Ruby Rogues Episode 264](https://devchat.tv/ruby-rogues/264-rr-code-hospitality-with-nadia-odunayo/) and she used to have her own podcast called [Ruby Book Club](http://rubybookclub.com/). She first got into programming because when she was in college she launched a creative writing publication and she was frustrated that she had to keep asking others for help. This was when she started researching coding and how it all worked so that she could put her ideas into action. They talk about [Ruby](https://www.ruby-lang.org/en/) being the first programming language she learned, the importance of learning both the frontend and the backend, her desire to run her own thing, her need to find a company that would support her learning, and more!
+This week on My Ruby Story, Charles talks to Nadia Odunayo. Nadia was previously on [Ruby Rogues Episode 264](https://devchat.tv/ruby-rogues/264-rr-code-hospitality-with-nadia-odunayo/) and she used to have her own podcast called [Ruby Book Club](https://rubybookclub.com/). She first got into programming because when she was in college she launched a creative writing publication and she was frustrated that she had to keep asking others for help. This was when she started researching coding and how it all worked so that she could put her ideas into action. They talk about [Ruby](https://www.ruby-lang.org/en/) being the first programming language she learned, the importance of learning both the frontend and the backend, her desire to run her own thing, her need to find a company that would support her learning, and more!
 
 **In particular, we dive pretty deep on:**
 
 - [Ruby Rogues Episode 264](https://devchat.tv/ruby-rogues/264-rr-code-hospitality-with-nadia-odunayo/)
-- [Ruby Book Club](http://rubybookclub.com/)
+- [Ruby Book Club](https://rubybookclub.com/)
 - How did you first get into programming?
 - Hated having to ask other for help
 - Studied Philosophy, Politics, and Economics at University
@@ -34,7 +34,7 @@ This week on My Ruby Story, Charles talks to Nadia Odunayo. Nadia was previously
 - Frontend VS backend
 - How long was the program?
 - Learning Ruby first and the pros to that
-- [Sinatra](http://sinatrarb.com/)
+- [Sinatra](https://sinatrarb.com/)
 - Do you feel like the boot camp prepared you to be a full-time Ruby developer?
 - Wanting to run her own thing
 - Doing these courses only scratches the surface
@@ -48,14 +48,14 @@ This week on My Ruby Story, Charles talks to Nadia Odunayo. Nadia was previously
 **Links:**
 
 - [Ruby Rogues Episode 264](https://devchat.tv/ruby-rogues/264-rr-code-hospitality-with-nadia-odunayo/)
-- [Ruby Book Club](http://rubybookclub.com/)
+- [Ruby Book Club](https://rubybookclub.com/)
 - [Code First: Girls](https://www.codefirstgirls.org.uk/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Rails](https://rubyonrails.org/)
-- [Sinatra](http://sinatrarb.com/)
+- [Sinatra](https://sinatrarb.com/)
 - [Pivotal Labs](https://pivotal.io/labs)
 - [@nodunayo](https://twitter.com/nodunayo?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [nadiaodunayo.com](http://www.nadiaodunayo.com/)
+- [nadiaodunayo.com](https://www.nadiaodunayo.com/)
 - [Nadia’s GitHub](https://github.com/nodunayo)
 
 **Sponsors:**
@@ -74,6 +74,6 @@ Nadia
 
 - [_Nonviolent Communication_ by Marshall B. Rosenberg](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034)
 - [The Evolution of Trust](https://ncase.me/trust/)
-- [Work Life Podcast](http://www.adamgrant.net/worklife)
+- [Work Life Podcast](https://www.adamgrant.net/worklife)
 
 ### Transcript

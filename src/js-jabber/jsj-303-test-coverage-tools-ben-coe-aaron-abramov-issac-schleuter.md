@@ -43,8 +43,8 @@ tags:
 - [@AaronAbramov\_](https://twitter.com/aaronabramov_?lang=en)
 - [Issac’s GitHub](https://github.com/isaacs)
   **Picks:** Charles
-- [React Roundup](http://reactroundup.com/)
-- [Views on Vue](http://viewsonvue.com/)
+- [React Roundup](https://reactroundup.com/)
+- [Views on Vue](https://viewsonvue.com/)
 - [Adventures in Angular](https://devchat.tv/adv-in-angular)
 - [React Dev Summit 2018](https://reactdevsummit.com/)
   Aimee
@@ -61,7 +61,7 @@ tags:
   Aaron
 - [Reason](https://reasonml.github.io/)
   Issac
-- [The Tap 100](http://www.node-tap.org/100/)
+- [The Tap 100](https://www.node-tap.org/100/)
 - [Krypton App](https://krypt.co/)
 - [Friendly Fire Podcasts](https://art19.com/shows/friendly-fire)
 

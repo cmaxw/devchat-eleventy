@@ -12,16 +12,16 @@ tags:
   - podcast
 ---
 
-- [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://www.amazon.com/gp/product/0596518382/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0596518382) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0596518382&camp=217145&creative=399369)
-- [Software Craftsmanship](http://softwarecraftsmanship.org/ 'Software Craftsmanship')
+- [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.amazon.com/gp/product/0596518382/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0596518382) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0596518382&camp=217145&creative=399369)
+- [Software Craftsmanship](https://softwarecraftsmanship.org/ 'Software Craftsmanship')
 - SCNA
-- [Glenn Vanderburg's RailsConf talk](http://www.youtube.com/watch?v=LlTiMUzLMgM 'YouTube - RailsConf 2011, Glenn Vanderburg Talk')
+- [Glenn Vanderburg's RailsConf talk](https://www.youtube.com/watch?v=LlTiMUzLMgM 'YouTube - RailsConf 2011, Glenn Vanderburg Talk')
 - Apprenticeship Programs
   - Groupon
   - Obtiva
-- [Code Retreats](http://coderetreat.com/ 'Coderetreat.com')
+- [Code Retreats](https://coderetreat.com/ 'Coderetreat.com')
 - Global Code Retreat day
-- [Software Craftsmanship Manifesto](http://manifesto.softwarecraftsmanship.org/ 'Software Craftsmanship Manifesto')
+- [Software Craftsmanship Manifesto](https://manifesto.softwarecraftsmanship.org/ 'Software Craftsmanship Manifesto')
 - Dave Hoover's Apprenticeship Patterns book
 - Capability Maturity Model
 - omphaloskepsis: the contemplation of one's navel (Thanks, Josh)

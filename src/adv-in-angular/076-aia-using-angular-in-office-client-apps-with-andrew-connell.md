@@ -20,7 +20,7 @@ tags:
 
 - [Twitter](https://twitter.com/andrewconnell)
 - [GitHub](https://github.com/AndrewConnell)
-- [Blog](http://www.andrewconnell.com/)
+- [Blog](https://www.andrewconnell.com/)
 
 03:16 - Building for an Office Platform
 
@@ -36,21 +36,21 @@ tags:
 
 14:41 - SharePoint Add-ins
 
-- [Getting Started Building Office Add-ins](http://dev.office.com/getting-started/addins)
-- [Training Modules for Doing ^](http://dev.office.com/training#?filters=deep%20dive%20into%20the%20office%20365%20add-in%20model)
+- [Getting Started Building Office Add-ins](https://dev.office.com/getting-started/addins)
+- [Training Modules for Doing ^](https://dev.office.com/training#?filters=deep%20dive%20into%20the%20office%20365%20add-in%20model)
 
 27:32 - Adoption, Uptake
 
-29:29 - [Office UI Fabric](http://dev.office.com/fabric)
+29:29 - [Office UI Fabric](https://dev.office.com/fabric)
 
-- [Angular 1.x Directives for Office UI Fabric](http://ngofficeuifabric.com)
+- [Angular 1.x Directives for Office UI Fabric](https://ngofficeuifabric.com)
 
 33:03 - What’s the plan for Angular 2?
 
 - The Binding Syntax
   Picks
 
-[Shannara](http://www.mtv.com/shows/shannara) (John)[[egghead.io] Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) (Lukas)[View-Master Virtual Reality Starter Pack](http://www.amazon.com/gp/product/B011EG5HJ2) (Lukas) Dan Abramov’s work on React (Ward)[JavaScript Jabber Episode 179: redux and React with Dan Abramov](https://devchat.tv/js-jabber/179-jsj-redux-and-react-with-dan-abramov) (Chuck)[JavaScript Jabber Episode 181: The Evolution of Flux Libraries with Andrew Clark and Dan Abramov](https://devchat.tv/js-jabber/181-jsj-the-evolution-of-flux-libraries-with-andrew-clark-and-dan-abramov) (Chuck)[Star Wars](http://www.starwars.com/) (Joe)[Sphero BB-8](http://www.sphero.com/starwars) (Joe)[Build-A-Bear Chewbacca](http://www.buildabear.com/shopping/store/Chewbacca-Plush/productId=prod11460158) (Joe)[The Star Wars: The Force Awakens Soundtrack](http://www.amazon.com/Star-Wars-The-Force-Awakens/dp/B014V6JIQK) (Joe)[LambdaConf](http://lambdaconf.us/) (Joe)[MyFitnessPal](http://www.myfitnesspal.com/) (Chuck)[Allrecipes](http://allrecipes.com/) (Chuck) A gym membership (Chuck)[The Nike+ Running App](http://www.nike.com/us/en_us/c/running/nikeplus/gps-app) (Chuck)[Run 10k](http://felttip.com/run10k/) (Chuck)[Aftershokz Blues 2](http://aftershokz.com/products/bluez-2) (Chuck)[The Twelve Factor App](http://12factor.net/) (Andrew)[ngOfficeUIFabric.com](http://ngofficeuifabric.com) (Andrew)[The Innovators (How a Group of Hackers Geniuses and Geeks Created the Digital Revolution) by Walter Isaacson](http://www.amazon.com/Innovators-Geniuses-Revolution-INNOVATORS-Hardcover/dp/B00QNH5KX6/ref=sr_1_2?s=books&ie=UTF8&qid=1452121807&sr=1-2&keywords=the+innovators) (Andrew)
+[Shannara](https://www.mtv.com/shows/shannara) (John)[[egghead.io] Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) (Lukas)[View-Master Virtual Reality Starter Pack](https://www.amazon.com/gp/product/B011EG5HJ2) (Lukas) Dan Abramov’s work on React (Ward)[JavaScript Jabber Episode 179: redux and React with Dan Abramov](https://devchat.tv/js-jabber/179-jsj-redux-and-react-with-dan-abramov) (Chuck)[JavaScript Jabber Episode 181: The Evolution of Flux Libraries with Andrew Clark and Dan Abramov](https://devchat.tv/js-jabber/181-jsj-the-evolution-of-flux-libraries-with-andrew-clark-and-dan-abramov) (Chuck)[Star Wars](https://www.starwars.com/) (Joe)[Sphero BB-8](https://www.sphero.com/starwars) (Joe)[Build-A-Bear Chewbacca](https://www.buildabear.com/shopping/store/Chewbacca-Plush/productId=prod11460158) (Joe)[The Star Wars: The Force Awakens Soundtrack](https://www.amazon.com/Star-Wars-The-Force-Awakens/dp/B014V6JIQK) (Joe)[LambdaConf](https://lambdaconf.us/) (Joe)[MyFitnessPal](https://www.myfitnesspal.com/) (Chuck)[Allrecipes](https://allrecipes.com/) (Chuck) A gym membership (Chuck)[The Nike+ Running App](https://www.nike.com/us/en_us/c/running/nikeplus/gps-app) (Chuck)[Run 10k](https://felttip.com/run10k/) (Chuck)[Aftershokz Blues 2](https://aftershokz.com/products/bluez-2) (Chuck)[The Twelve Factor App](https://12factor.net/) (Andrew)[ngOfficeUIFabric.com](https://ngofficeuifabric.com) (Andrew)[The Innovators (How a Group of Hackers Geniuses and Geeks Created the Digital Revolution) by Walter Isaacson](https://www.amazon.com/Innovators-Geniuses-Revolution-INNOVATORS-Hardcover/dp/B00QNH5KX6/ref=sr_1_2?s=books&ie=UTF8&qid=1452121807&sr=1-2&keywords=the+innovators) (Andrew)
 
 ### Transcript
 

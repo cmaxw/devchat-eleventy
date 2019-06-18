@@ -19,8 +19,8 @@ tags:
   03:46 - Stephen Fluin Introduction
 - [Twitter](https://twitter.com/stephenfluin)
 - [GitHub](https://github.com/PeEllAvaj)
-- [Blog](http://mortalpowers.com/)
-  04:28 - [Improvements Coming for Routing in Angular](http://angularjs.blogspot.com/2016/06/improvements-coming-for-routing-in.html)08:22 - Syntax 11:10 - Preloading Data 13:59 - [Brian Ford](https://twitter.com/briantford)’s Router =\> The New Router
+- [Blog](https://mortalpowers.com/)
+  04:28 - [Improvements Coming for Routing in Angular](https://angularjs.blogspot.com/2016/06/improvements-coming-for-routing-in.html)08:22 - Syntax 11:10 - Preloading Data 13:59 - [Brian Ford](https://twitter.com/briantford)’s Router =\> The New Router
 - [Lifecycle Hooks](https://angular.github.io/router/lifecycle)
   - [canActivate](https://angular.github.io/router/lifecycle#can-activate)
   - [canDeactivate](https://angular.github.io/router/lifecycle#can-deactivate)
@@ -34,12 +34,12 @@ tags:
   23:28 - Auxiliary Route 24:51 - Offline Compilation
 - [CSS (Cascading Style Sheets)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
   29:38 - Bundling; Development Experience 32:46 - Relative Pass 41:25 - Treeshaking 43:21 - What’s left before Angular goes live? &nbsp; Picks
-- [rollup.js](http://rollupjs.org/) (Rob)
+- [rollup.js](https://rollupjs.org/) (Rob)
 - [Google Play’s Family Plan](https://support.google.com/googleplay/answer/6317786?hl=en) (Jules)
 - [Plunker](https://plnkr.co/) (Stephen)
-- [Ford](http://www.ford.com/) and [Chevrolet](http://www.chevrolet.com/) (John)
-- [Adobe Lightroom](http://www.adobe.com/products/photoshop-lightroom.html) (John)
-- [X-Men Apocalypse](http://www.imdb.com/title/tt3385516/) (Joe)
+- [Ford](https://www.ford.com/) and [Chevrolet](https://www.chevrolet.com/) (John)
+- [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) (John)
+- [X-Men Apocalypse](https://www.imdb.com/title/tt3385516/) (Joe)
 - [P.I.](https://boardgamegeek.com/boardgame/129050/pi) (Joe)
 
 ### Transcript

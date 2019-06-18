@@ -151,7 +151,7 @@ What does the future look like for Sonic Pi?
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
 - [Erlang](https://www.erlang.org)
 - [Ruby](https://www.ruby-lang.org/en/)
-- [Ruby Motion](http://www.rubymotion.com)
+- [Ruby Motion](https://www.rubymotion.com)
 - [Ruby on Rails](https://rubyonrails.org)
 - [Sonic Pi](https://sonic-pi.net)
 - [Sonic Pi – GitHub](https://github.com/samaaron/sonic-pi/graphs/contributors)

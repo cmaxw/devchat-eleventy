@@ -151,7 +151,7 @@ In addition, sometimes, TERRIBLE jokes go a long way! To show that you are actua
 
 52:21 – Clippy and Microsoft Bob.
 
-52:32 – [E-Book Code Badges!](http://codebadge.org/)
+52:32 – [E-Book Code Badges!](https://codebadge.org/)
 
 53:12 – Picks!
 
@@ -161,7 +161,7 @@ In addition, sometimes, TERRIBLE jokes go a long way! To show that you are actua
 - [Ruby on Rails](https://rubyonrails.org)
 - [Angular](https://www.upwork.com/ppc/landing/?ct=Programmers&gclid=EAIaIQobChMIuK2B156s3QIVRtbACh0u7wcBEAAYAiAAEgK66_D_BwE&hl=Top%2520Rated%2520AngularJS%2520Programmers&query=AngularJS&vt_med=provenD2)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - [Notion](https://www.notion.so/0ccd3ccbb2c44de6b3c0e3dac93e0de1)
 - [Vue](https://opencollective.com/vuejs)
 - [Sarah Drasner’s Article](https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/)
@@ -176,7 +176,7 @@ In addition, sometimes, TERRIBLE jokes go a long way! To show that you are actua
 
 - [Kendo UI](https://www.telerik.com/kendo-angular-ui/?utm_medium=cpm&utm_source=adventuresinng&utm_campaign=dt-kendo-ang2-nov16&utm_content=audio)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**
@@ -203,7 +203,7 @@ In addition, sometimes, TERRIBLE jokes go a long way! To show that you are actua
 
 [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - [Notion.So](https://www.notion.so)
 
 ### Transcript

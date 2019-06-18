@@ -15,15 +15,15 @@ tags:
 02:52 - David Herman Introduction
 
 - [Twitter](https://twitter.com/littlecalculist)
-- [Blog](http://calculist.org/)
-- [JavaScript Jabber Episode #54: JavaScript Parsing, ASTs, and Language Grammar w/ David Herman and Ariya Hidayat](http://devchat.tv/js-jabber/054-jsj-javascript-parsing-asts-and-language-grammar-w-david-herman-and-ariya-hidayat)
-- [JavaScript Jabber Episode #44: Book Club! Effective JavaScript with David Herman](http://devchat.tv/js-jabber/044-jsj-book-club-effective-javascript-with-david-herman)
-- [Effective JavaScript by David Herman](http://effectivejs.com/)
+- [Blog](https://calculist.org/)
+- [JavaScript Jabber Episode #54: JavaScript Parsing, ASTs, and Language Grammar w/ David Herman and Ariya Hidayat](https://devchat.tv/js-jabber/054-jsj-javascript-parsing-asts-and-language-grammar-w-david-herman-and-ariya-hidayat)
+- [JavaScript Jabber Episode #44: Book Club! Effective JavaScript with David Herman](https://devchat.tv/js-jabber/044-jsj-book-club-effective-javascript-with-david-herman)
+- [Effective JavaScript by David Herman](https://effectivejs.com/)
   - [@effectivejs](https://twitter.com/effectivejs)
-- [TC39](http://www.ecma-international.org/memento/TC39.htm)
+- [TC39](https://www.ecma-international.org/memento/TC39.htm)
 - [Mozilla](https://www.mozilla.org/)
 
-03:50 - [The Rust Programming Language](http://www.rust-lang.org/)
+03:50 - [The Rust Programming Language](https://www.rust-lang.org/)
 
 - [[GitHub] rust](https://github.com/rust-lang/rust)
 
@@ -38,18 +38,18 @@ tags:
 11:44 - Stack vs Heap Memory
 
 - [Etymology of "Foo"](https://tools.ietf.org/html/rfc3092)
-- [RAII (Resource Acquisition Is Initialization)](http://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization)
+- [RAII (Resource Acquisition Is Initialization)](https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization)
 
 16:52 - The Core of Rust
 
 - Ownership
 - Type System
 
-24:23 - [Segmentation Fault](http://en.wikipedia.org/wiki/Segmentation_fault) (Seg Faults)
+24:23 - [Segmentation Fault](https://en.wikipedia.org/wiki/Segmentation_fault) (Seg Faults)
 
 27:51 - How much should programmers care about programming languages?
 
-- [Andrew Oppenlander: Rust FFI (Embedding Rust in projects for safe, concurrent, and fast code anywhere.)](http://oppenlander.me/articles/rust-ffi)
+- [Andrew Oppenlander: Rust FFI (Embedding Rust in projects for safe, concurrent, and fast code anywhere.)](https://oppenlander.me/articles/rust-ffi)
 
 32:43 - Concurrency and Multithreaded Programming
 
@@ -57,9 +57,9 @@ tags:
 
 37:58 - [servo](https://github.com/servo/servo)
 
-40:27 - [asm.js](http://asmjs.org/)
+40:27 - [asm.js](https://asmjs.org/)
 
-- [emscripten](http://kripken.github.io/emscripten-site/)
+- [emscripten](https://kripken.github.io/emscripten-site/)
 
 42:19 - Cool Apps Built with Rust
 
@@ -70,10 +70,10 @@ tags:
 
 45:46 - Learning Rust
 
-- [Rust for Rubyists by Steve Klabnik](http://www.rustforrubyists.com/)
+- [Rust for Rubyists by Steve Klabnik](https://www.rustforrubyists.com/)
   Picks
 
-[Software Engineering Radio](http://www.se-radio.net/) (Dave)[How Will You Measure Your Life? by Clayton M. Christensen](http://www.amazon.com/gp/product/0062102419/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062102419&linkCode=as2&tag=chamaxwoo-20&linkId=Y3P4RCK3ETLHENDW) (Dave)[The Presidents of the United States of America](http://www.amazon.com/gp/product/B000002B9P/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000002B9P&linkCode=as2&tag=chamaxwoo-20&linkId=QFMLZMHEHZDO7E64) (Dave)[Design Patterns in C](http://stackoverflow.com/a/9125140) (AJ)[Microsoft Edge Dev Blog: Bringing Asm.js to Chakra and Microsoft Edge](http://blogs.windows.com/msedgedev/2015/05/07/bringing-asm-js-to-chakra-microsoft-edge/) (AJ)[The Web Platform Podcast: Episode 43: Modern JavaScript with ES6 & ES7](http://thewebplatform.libsyn.com/43-modern-javascript-with-es6-es7) (AJ)[Firefox Fame Phone](https://developer.mozilla.org/en-US/Firefox_OS/Phone_guide/Flame) (AJ)[iTunes U CS106A (Programming Methodology)](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) (Aimee)[Valerian Root on Etsy](https://www.etsy.com/search/pet-supplies?q=valerian+root) (Aimee)[The Dear Hunter - Live](https://open.spotify.com/album/7lQsuROaOSVOc27IMvOZ9u) (Jamison)[Designing Data-Intensive Applications by Martin Kleppmann](http://dataintensive.net/) (Jamison)[Fogus: Perlis Languages](http://blog.fogus.me/2011/08/14/perlis-languages/) (Jamison)[Galactic Civilizations III](http://www.galciv3.com/) (Joe)[Visual Studio Code](https://code.visualstudio.com/) (Joe)[Tessel](https://tessel.io/)[2](https://tessel.io/) (Dave)[Event Driven: How to Run Memorable Tech Conferences by Leah Silber](https://leanpub.com/eventdriven/) (Dave) Plush Hello Kitty Doll (Dave)
+[Software Engineering Radio](https://www.se-radio.net/) (Dave)[How Will You Measure Your Life? by Clayton M. Christensen](https://www.amazon.com/gp/product/0062102419/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062102419&linkCode=as2&tag=chamaxwoo-20&linkId=Y3P4RCK3ETLHENDW) (Dave)[The Presidents of the United States of America](https://www.amazon.com/gp/product/B000002B9P/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000002B9P&linkCode=as2&tag=chamaxwoo-20&linkId=QFMLZMHEHZDO7E64) (Dave)[Design Patterns in C](https://stackoverflow.com/a/9125140) (AJ)[Microsoft Edge Dev Blog: Bringing Asm.js to Chakra and Microsoft Edge](https://blogs.windows.com/msedgedev/2015/05/07/bringing-asm-js-to-chakra-microsoft-edge/) (AJ)[The Web Platform Podcast: Episode 43: Modern JavaScript with ES6 & ES7](https://thewebplatform.libsyn.com/43-modern-javascript-with-es6-es7) (AJ)[Firefox Fame Phone](https://developer.mozilla.org/en-US/Firefox_OS/Phone_guide/Flame) (AJ)[iTunes U CS106A (Programming Methodology)](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) (Aimee)[Valerian Root on Etsy](https://www.etsy.com/search/pet-supplies?q=valerian+root) (Aimee)[The Dear Hunter - Live](https://open.spotify.com/album/7lQsuROaOSVOc27IMvOZ9u) (Jamison)[Designing Data-Intensive Applications by Martin Kleppmann](https://dataintensive.net/) (Jamison)[Fogus: Perlis Languages](https://blog.fogus.me/2011/08/14/perlis-languages/) (Jamison)[Galactic Civilizations III](https://www.galciv3.com/) (Joe)[Visual Studio Code](https://code.visualstudio.com/) (Joe)[Tessel](https://tessel.io/)[2](https://tessel.io/) (Dave)[Event Driven: How to Run Memorable Tech Conferences by Leah Silber](https://leanpub.com/eventdriven/) (Dave) Plush Hello Kitty Doll (Dave)
 
 ### Transcript
 

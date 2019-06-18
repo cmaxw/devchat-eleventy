@@ -29,4 +29,4 @@ Thank you guys so much for helping me make it to RubyConf this year. It was a gr
 - Michael Hartl
 - Chad Fowler
 - Dave Thomas
-  Finally, I'd like to thank the handful of people who came up to me and told me how much they enjoy the podcast and screencast. It's great to talk to you guys. You inspire me to do better.[Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC40RubyConf2010.mp3)
+  Finally, I'd like to thank the handful of people who came up to me and told me how much they enjoy the podcast and screencast. It's great to talk to you guys. You inspire me to do better.[Download this Episode](https://traffic.libsyn.com/charlesmaxwood/TMTC40RubyConf2010.mp3)

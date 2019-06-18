@@ -22,13 +22,13 @@ Introduction
   15:30: Testing with productized service
 - [Draft](https://draft.nu/)
 - [Ethercycle](https://ethercycle.com/pricing/)
-- [Website Teardowns](http://kurtelster.com/products/websiteteardowns/) (Kai Davis and Kurt Elster)
+- [Website Teardowns](https://kurtelster.com/products/websiteteardowns/) (Kai Davis and Kurt Elster)
   19:30: Mobile Onboarding
-- [Blair Enns](http://www.winwithoutpitching.com/about/)
+- [Blair Enns](https://www.winwithoutpitching.com/about/)
   28:30: Freelancers just starting out
 - Hourly billing
 - Screening out clients
-- [Website Rescue](http://websiterescues.com/)
+- [Website Rescue](https://websiterescues.com/)
   38:10: Word of mouth
 - Part of marketing
 - Niches
@@ -42,7 +42,7 @@ Introduction
 
 ### Picks:
 
-[Building the Perfect Sales Page](https://expensiveproblem.com/building-the-perfect-sales-page) (Jonathan)[Internet Archive Wayback Machine](https://archive.org/web/) (Philip)Examples of Productized Services:\* [https://draft.nu/revise/](https://draft.nu/revise/)\* [http://websiterescues.com/](http://websiterescues.com/)\* [https://doubleyouraudience.com/pricing/outreach/](https://doubleyouraudience.com/pricing/outreach/)\* [https://memberup.co/membership-roadmap/](https://memberup.co/membership-roadmap/)\* [http://sessions.superspicymedia.com/](http://sessions.superspicymedia.com/)\* [http://uibreakfast.com/services/](http://uibreakfast.com/services/)&nbsp;[hired.com/freelancershow](http://hired.com/freelancershow)
+[Building the Perfect Sales Page](https://expensiveproblem.com/building-the-perfect-sales-page) (Jonathan)[Internet Archive Wayback Machine](https://archive.org/web/) (Philip)Examples of Productized Services:\* [https://draft.nu/revise/](https://draft.nu/revise/)\* [https://websiterescues.com/](https://websiterescues.com/)\* [https://doubleyouraudience.com/pricing/outreach/](https://doubleyouraudience.com/pricing/outreach/)\* [https://memberup.co/membership-roadmap/](https://memberup.co/membership-roadmap/)\* [https://sessions.superspicymedia.com/](https://sessions.superspicymedia.com/)\* [https://uibreakfast.com/services/](https://uibreakfast.com/services/)&nbsp;[hired.com/freelancershow](https://hired.com/freelancershow)
 
 ### Transcript
 

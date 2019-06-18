@@ -5,7 +5,7 @@ title: >
 date: 2016-08-03 07:00:19
 episode_number: 271
 duration: 46:55
-audio_url: http://media.devchat.tv/ruby-rogues/RR271NewDevProblems.mp3
+audio_url: https://media.devchat.tv/ruby-rogues/RR271NewDevProblems.mp3
 podcast: ruby-rogues
 tags:
   - ruby_rogues
@@ -19,35 +19,35 @@ tags:
 
 - [Twitter](https://twitter.com/justinweiss)
 - [GitHub](https://github.com/justinweiss)
-- [Blog](http://www.justinweiss.com/)
+- [Blog](https://www.justinweiss.com/)
 - [Avvo](https://www.avvo.com/) &nbsp;
 - [Practicing Rails: Learn Rails Without Being Overwhelmed by Justin Weiss](https://www.justinweiss.com/practicing-rails/)
   02:15 - “Learning Rails Without Getting Overwhelmed”?
 - [Agile Web Development with Rails by Dave Thomas and David Heinemeier Hansson, with Leon Breedt, Mike Clark, James Duncan Davidson, Justin Gehtland, and Andreas Schwarz](https://pragprog.com/book/rails2/agile-web-development-with-rails)
   02:34 - Problems New Developers Don’t Realize They Have04:35 - Learning New Things08:05 - What is a success?09:02 - What can senior devs do? What shouldn’t they do?
-- [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman David H. Hoover and Adewale Oshineye](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
+- [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman David H. Hoover and Adewale Oshineye](https://chimera.labs.oreilly.com/books/1234000001813/index.html)
 - [Pragmatic Thinking and Learning by Andy Hunt](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)
-- [Brandon Hays: The Conjoined Triangles of Senior-Level Development](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html)
+- [Brandon Hays: The Conjoined Triangles of Senior-Level Development](https://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html)
   15:43 - Are there still “Architects”?20:45 - The Existential Crisis of Software Development
-- [Integrated Tests Are A Scam](http://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
+- [Integrated Tests Are A Scam](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
 - [Emo Philips: The best God joke ever - and it's mine!](https://www.theguardian.com/stage/2005/sep/29/comedy.religion)
   22:26 - The Responsibility of the Students26:08 - How can new developers obtain objective evidence of their blind spots?
 - [Bias Blind Spot](https://en.wikipedia.org/wiki/Bias_blind_spot)
 - [The Fifth Discipline: The Art & Practice of The Learning Organization by Peter M. Senge](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254/ref=sr_1_1?s=books&ie=UTF8&qid=1469747932&sr=1-1&keywords=The+Fifth+Discipline%3A+The+Art+%26+Practice+of+The+Learning+Organization+by+Peter+M.+Senge)
-- [Asch Experiment](http://www.simplypsychology.org/asch-conformity.html)
+- [Asch Experiment](https://www.simplypsychology.org/asch-conformity.html)
   33:49 - Early Career Developers Working Together37:03 - Learning Practices&nbsp;Picks
 - [emoj](https://github.com/sindresorhus/emoj) (Coraline)
-- [Teaching Robots to Feel: Emoji & Deep Learning](http://getdango.com/emoji-and-deep-learning.html) (Coraline)
+- [Teaching Robots to Feel: Emoji & Deep Learning](https://getdango.com/emoji-and-deep-learning.html) (Coraline)
 - [The Lies of Locke Lamora](https://en.wikipedia.org/wiki/The_Lies_of_Locke_Lamora) (Sam)
-- [Gorilla Tape](http://www.gorillatough.com/gorilla-tape) (Sam)
-- [Portillo's](http://www.portillos.com/) (Chuck)
-- [iPad Pro](http://www.apple.com/ipad-pro/) (Chuck)
-- [Apple Smart Keyboard](http://www.apple.com/smart-keyboard/) (Chuck)
-- [Apple Pencil](http://www.apple.com/apple-pencil/) (Chuck)
+- [Gorilla Tape](https://www.gorillatough.com/gorilla-tape) (Sam)
+- [Portillo's](https://www.portillos.com/) (Chuck)
+- [iPad Pro](https://www.apple.com/ipad-pro/) (Chuck)
+- [Apple Smart Keyboard](https://www.apple.com/smart-keyboard/) (Chuck)
+- [Apple Pencil](https://www.apple.com/apple-pencil/) (Chuck)
 - [GoodNotes](https://itunes.apple.com/us/app/goodnotes-4-notes-pdf/id778658393?mt=8) (Chuck)
-- [Podcast Movement](http://podcastmovement.com/) (Chuck)
+- [Podcast Movement](https://podcastmovement.com/) (Chuck)
 - [The Principles of Product Development Flow: Second Generation Lean Product Development by Donald G. Reinertsen](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009) (Justin)
-- [How to Write in Plain English](http://www.plainenglish.co.uk/files/howto.pdf) (Justin)
+- [How to Write in Plain English](https://www.plainenglish.co.uk/files/howto.pdf) (Justin)
 - [Avvo](https://www.avvo.com/) (Justin)
 
 ### Transcript

@@ -18,9 +18,9 @@ tags:
 - [GitHub](https://github.com/daveverwer)
 - [Blog](https://about.me/daveverwer)
 
-02:30 - [iOS Dev Weekly](http://iosdevweekly.com/) &nbsp;
+02:30 - [iOS Dev Weekly](https://iosdevweekly.com/) &nbsp;
 
-- [Ruby Weekly](http://rubyweekly.com/)
+- [Ruby Weekly](https://rubyweekly.com/)
 
 05:29 - Curating Process
 
@@ -36,21 +36,21 @@ tags:
 
 10:52 - Sponsorship
 
-15:24 - [Curated](http://curated.co/) and Email Marketing
+15:24 - [Curated](https://curated.co/) and Email Marketing
 
 - Customers
-- [Remotive](http://remotive.io/)
+- [Remotive](https://remotive.io/)
 - Spam
 
 21:21 - Avoiding Spam Filters
 
 - [Litmus](https://litmus.com/)
 
-24:54 - [A/B Testing](http://en.wikipedia.org/wiki/A/B_testing)
+24:54 - [A/B Testing](https://en.wikipedia.org/wiki/A/B_testing)
 
 26:07 - Dave and iOS DevelopmentPicks
 
-[Russ Bishop: More Swift Attributes](http://www.russbishop.net/more-swift-attributes) (Andrew)[Silicon Labs Microcontrollers](http://www.silabs.com/Pages/default.aspx) (Andrew)[DigiKey](http://www.digikey.com) (Andrew)[ASCIIwwdc](http://asciiwwdc.com/) (Mike)[Lifeline...](https://itunes.apple.com/gb/app/lifeline.../id982354972?mt=8) (Dave)[Pink Floyd on Vinyl on YouTube](https://www.youtube.com/watch?v=Uf-0Y2Ddmu4) (Jaim)
+[Russ Bishop: More Swift Attributes](https://www.russbishop.net/more-swift-attributes) (Andrew)[Silicon Labs Microcontrollers](https://www.silabs.com/Pages/default.aspx) (Andrew)[DigiKey](https://www.digikey.com) (Andrew)[ASCIIwwdc](https://asciiwwdc.com/) (Mike)[Lifeline...](https://itunes.apple.com/gb/app/lifeline.../id982354972?mt=8) (Dave)[Pink Floyd on Vinyl on YouTube](https://www.youtube.com/watch?v=Uf-0Y2Ddmu4) (Jaim)
 
 ### Transcript
 

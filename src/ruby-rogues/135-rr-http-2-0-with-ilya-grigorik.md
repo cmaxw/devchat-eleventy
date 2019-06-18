@@ -14,30 +14,30 @@ tags:
 
 01:49 - Ilya Grigorik Introduction
 
-- Web Performance Engineer at [Google](http://www.google.com/)
+- Web Performance Engineer at [Google](https://www.google.com/)
 
-03:08 - [HTTP 2.0](http://en.wikipedia.org/wiki/HTTP_2.0)
+03:08 - [HTTP 2.0](https://en.wikipedia.org/wiki/HTTP_2.0)
 
-- [HTTP 0.9](http://www.w3.org/DesignIssues/HTTP0.9Summary.html)
-- [Gopher](<http://en.wikipedia.org/wiki/Gopher_(protocol)>)
-- [HTTP 1.0](http://www.w3.org/Protocols/HTTP/1.0/spec.html)
+- [HTTP 0.9](https://www.w3.org/DesignIssues/HTTP0.9Summary.html)
+- [Gopher](<https://en.wikipedia.org/wiki/Gopher_(protocol)>)
+- [HTTP 1.0](https://www.w3.org/Protocols/HTTP/1.0/spec.html)
 
 09:05 - Performance
 
-- [Latency](<http://en.wikipedia.org/wiki/Latency_(engineering)>)
-- [Bandwidth](<http://en.wikipedia.org/wiki/Bandwidth_(computing)>)
+- [Latency](<https://en.wikipedia.org/wiki/Latency_(engineering)>)
+- [Bandwidth](<https://en.wikipedia.org/wiki/Bandwidth_(computing)>)
 
 15:48 - Binary Framing
 
 - Transparency
 
-19:21 - [HTTP 1.0](http://www.w3.org/Protocols/HTTP/1.0/spec.html) vs [HTTP 2.0](http://en.wikipedia.org/wiki/HTTP_2.0)
+19:21 - [HTTP 1.0](https://www.w3.org/Protocols/HTTP/1.0/spec.html) vs [HTTP 2.0](https://en.wikipedia.org/wiki/HTTP_2.0)
 
 - Connection Speeds
 
-33:28 - Seeing [HTTP 2.0](http://en.wikipedia.org/wiki/HTTP_2.0)
+33:28 - Seeing [HTTP 2.0](https://en.wikipedia.org/wiki/HTTP_2.0)
 
-- [SPDY](http://en.wikipedia.org/wiki/SPDY)
+- [SPDY](https://en.wikipedia.org/wiki/SPDY)
 
 36:13 - Browser Support
 
@@ -45,9 +45,9 @@ tags:
 
 41:04 - Upgrading
 
-- [Ports](<http://en.wikipedia.org/wiki/Port_(computer_networking)>)
-- [Proxies](http://en.wikipedia.org/wiki/Proxy_server)
-- [Websockets](http://en.wikipedia.org/wiki/WebSocket)
+- [Ports](<https://en.wikipedia.org/wiki/Port_(computer_networking)>)
+- [Proxies](https://en.wikipedia.org/wiki/Proxy_server)
+- [Websockets](https://en.wikipedia.org/wiki/WebSocket)
 
 44:21 - Caching
 
@@ -65,10 +65,10 @@ tags:
 
 56:47 - References
 
-- [Mailing List](http://lists.w3.org/Archives/Public/ietf-http-wg/)
-- [High Performance Browser Networking by Ilya Grigorik](http://hpbn.co/)
+- [Mailing List](https://lists.w3.org/Archives/Public/ietf-http-wg/)
+- [High Performance Browser Networking by Ilya Grigorik](https://hpbn.co/)
 
-57:49 - [The Extensible Web Manifesto](http://extensiblewebmanifesto.org/)
+57:49 - [The Extensible Web Manifesto](https://extensiblewebmanifesto.org/)
 
 ### Book Club
 
@@ -76,7 +76,7 @@ tags:
 
 ### Ruby Rogues Parley
 
-[Sign up for our Discourse Discussion Board!](http://parley.rubyrogues.com/)
+[Sign up for our Discourse Discussion Board!](https://parley.rubyrogues.com/)
 
 ### Ruby Rogues T-Shirts!
 

@@ -18,7 +18,7 @@ tags:
 
 - [Twitter](https://twitter.com/kerrizor)
 - [GitHub](https://github.com/kerrizor)
-- [Blog](http://kerrizor.com/)
+- [Blog](https://kerrizor.com/)
   02:12 - Networking Without Networking04:22 - [Social Currency](https://en.wikipedia.org/wiki/Social_currency)06:35 - Creating Opportunities to Connect
 - Knowing Small Details About People
 - Remembering Faces
@@ -28,7 +28,7 @@ tags:
 - Playing Games
   22:38 - New Programmers as Speakers24:17 - Connecting After Talks25:29 - Merging the Speakers and Attendees30:13 - Users Groups
 - Be an Organizer
-- [Get A Coder Job](http://getacoderjob.com/)
+- [Get A Coder Job](https://getacoderjob.com/)
 - Travel and Find a Users Group
   35:01 - Livestreaming; Pairing Sharing
 - [Livecoding.tv](https://www.livecoding.tv/)
@@ -36,14 +36,14 @@ tags:
 - [Hangouts On Air](https://support.google.com/plus/answer/2553119?hl=en)
 - [YouTube Live](https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig)
 - [Crowdcast](https://www.crowdcast.io/)
-  37:03 - Connecting with People at Specific Companies47:27 - [The Opportunity Scholarship Program](http://rubyconf.org/scholarship)&nbsp;Picks
+  37:03 - Connecting with People at Specific Companies47:27 - [The Opportunity Scholarship Program](https://rubyconf.org/scholarship)&nbsp;Picks
 - [Nadia Eghbal: I hate the term “open source”](https://medium.com/@nayafia/i-hate-the-term-open-source-a65fd481a95#.lcwx7lga1) (Coraline)
 - [tabular](https://github.com/godlygeek/tabular) (Sam)
 - [dotfiles/vimrc at master](https://github.com/geeksam/dotfiles/blob/master/vimconfig/vimrc#L408-L438) (Sam)
 - [PlugBug World](https://www.twelvesouth.com/product/plugbug-world) (Chuck)
-- [Safemore Smart 8-Outlet with 4-USB Output Surge Protection Power Strip](http://www.amazon.com/Safemore-Smart-8-Outlet-Output-Protection/dp/B00RTFHV10?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_search_detailpage) (Chuck)
-- [moonconf](http://moonconf.org/) (Kerri)
-- [Open Source and Feelings](http://www.osfeels.com/) (Kerri)
+- [Safemore Smart 8-Outlet with 4-USB Output Surge Protection Power Strip](https://www.amazon.com/Safemore-Smart-8-Outlet-Output-Protection/dp/B00RTFHV10?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_search_detailpage) (Chuck)
+- [moonconf](https://moonconf.org/) (Kerri)
+- [Open Source and Feelings](https://www.osfeels.com/) (Kerri)
 - [Sage Yoyo Starter Pack](https://yoyotricks.com/yoyo-store/yoyo-brands/yotricks/the-sage-yoyo-starter-pack/) (Kerri)
 
 ### Transcript

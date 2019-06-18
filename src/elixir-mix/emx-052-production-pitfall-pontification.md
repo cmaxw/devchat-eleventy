@@ -5,7 +5,7 @@ title: >
 date: 2019-05-21 10:00:32
 episode_number: 052
 duration: 52:40
-audio_url: http://media.devchat.tv/elixir-mix/EMx_052_TBD_Panelists.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_052_TBD_Panelists.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 # **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/elixir)offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -34,7 +34,7 @@ Michael Ries and Josh Adams share mistakes they have made and common pitfalls de
 - [https://github.com/keathley/vapor](https://github.com/keathley/vapor)
 - [https://github.com/coryodaniel/bonny](https://github.com/coryodaniel/bonny)
 - [https://hex.pm/packages/libcluster](https://hex.pm/packages/libcluster)
-- [http://blog.plataformatec.com.br/2019/04/whats-new-in-elixir-apr-19/](http://blog.plataformatec.com.br/2019/04/whats-new-in-elixir-apr-19/)
+- [https://blog.plataformatec.com.br/2019/04/whats-new-in-elixir-apr-19/](https://blog.plataformatec.com.br/2019/04/whats-new-in-elixir-apr-19/)
 - [https://jenkins.io/projects/jenkins-x/](https://jenkins.io/projects/jenkins-x/)
 - [https://hex.pm/packages/lbm\_kv](https://hex.pm/packages/lbm_kv)
 - [https://twitter.com/elixir\_mix](https://twitter.com/elixir_mix)
@@ -42,7 +42,7 @@ Michael Ries and Josh Adams share mistakes they have made and common pitfalls de
 
 ### **Picks**
  **Michael Ries:**
-- [http://www.erlang-in-anger.com/](http://www.erlang-in-anger.com/)
+- [https://www.erlang-in-anger.com/](https://www.erlang-in-anger.com/)
 - [https://hex.pm/packages/recon](https://hex.pm/packages/recon)
 - [Manipulating the YouTube Algorithm](https://www.youtube.com/watch?v=1PGm8LslEb4)
 **Josh Adam:**

@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- <u></u>[Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- <u></u>[Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [Triplebyte](https://triplebyte.com/react)
 - [CacheFly](https://www.cachefly.com/)
 
@@ -28,8 +28,8 @@ Joined by special guest: Thomas Aylott
 In this episode of React Round Up, Thomas Aylott, Founder at Things That Do Stuff, gives an overview of Framer X, explains what it is used for and how it can be beneficial for web designers. The panelists then discuss the timeline and usage of different design and developer tools along with their compatibility with various platforms. Thomas shares his front-end development experiences from 2005, the kind of technologies he learnt and how, with interesting and fun anecdotes, and also talks about about his time at Facebook. They discuss the fact that how Ruby on Rails has brought about a significant change in web development, work-life balance in general, and in the end, the importance of making checklists and taking ownership.
 ### **Links**
 
-- [Things That Do Stuff](http://thingsthatdostuff.com/)
-- [Thomas’s website](http://subtlegradient.com/)
+- [Things That Do Stuff](https://thingsthatdostuff.com/)
+- [Thomas’s website](https://subtlegradient.com/)
 - [Thomas’s Twitter](https://twitter.com/subtlegradient?lang=en)
 - [Thomas’s GitHub](https://github.com/subtleGradient)
 - [Thomas’s YouTube](https://www.youtube.com/channel/UCZo0rCa6jiy8PrdK4TcOv5w)

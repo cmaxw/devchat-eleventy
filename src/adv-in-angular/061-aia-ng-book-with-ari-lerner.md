@@ -15,13 +15,13 @@ tags:
 02:13 - Ari Lerner Introduction
 
 - [Twitter](https://twitter.com/auser)
-- [Blog](http://willcodeforfoo.com/)
+- [Blog](https://willcodeforfoo.com/)
 - [ng-book](https://www.ng-book.com/)
-- [ng-newsletter](http://www.ng-newsletter.com/)
+- [ng-newsletter](https://www.ng-newsletter.com/)
 
 04:56 - [ng-book 2](https://www.ng-book.com/2/)
 
-- [Typescript](http://www.typescriptlang.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - ES5 / ES6
   - Classes
 
@@ -45,7 +45,7 @@ tags:
 
 52:49 - Waiting for Angular 2Picks
 
-Start a local hackathon (John)[The Big Bang Theory](http://www.imdb.com/title/tt0898266/) (Joe)[Wolverine: Old Man Logan by Mark Miller](http://www.amazon.com/gp/product/0785131728/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785131728&linkCode=as2&tag=chamaxwoo-20&linkId=NLMQ77XYSMMZVK3H) (Joe)Start a Meetup for boardgaming for your local developer community (Joe)[Waiting for Godot: A Tragicomedy in Two Acts by Samuel Beckett](http://www.amazon.com/gp/product/080214442X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=080214442X&linkCode=as2&tag=chamaxwoo-20&linkId=M6GBEJ3OJWQMWG6K) (Ward)[Waiting for Guffman](http://www.imdb.com/title/tt0118111/) (Ward)[iOS 9](http://www.apple.com/ios/whats-new/) (Chuck)[Pebble.js](http://developer.getpebble.com/docs/pebblejs/) (Chuck)[spacemacs](https://github.com/syl20bnr/spacemacs) (Ari)[open-ocr](https://github.com/tleyden/open-ocr) (Ari)
+Start a local hackathon (John)[The Big Bang Theory](https://www.imdb.com/title/tt0898266/) (Joe)[Wolverine: Old Man Logan by Mark Miller](https://www.amazon.com/gp/product/0785131728/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785131728&linkCode=as2&tag=chamaxwoo-20&linkId=NLMQ77XYSMMZVK3H) (Joe)Start a Meetup for boardgaming for your local developer community (Joe)[Waiting for Godot: A Tragicomedy in Two Acts by Samuel Beckett](https://www.amazon.com/gp/product/080214442X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=080214442X&linkCode=as2&tag=chamaxwoo-20&linkId=M6GBEJ3OJWQMWG6K) (Ward)[Waiting for Guffman](https://www.imdb.com/title/tt0118111/) (Ward)[iOS 9](https://www.apple.com/ios/whats-new/) (Chuck)[Pebble.js](https://developer.getpebble.com/docs/pebblejs/) (Chuck)[spacemacs](https://github.com/syl20bnr/spacemacs) (Ari)[open-ocr](https://github.com/tleyden/open-ocr) (Ari)
 
 ### Transcript
 

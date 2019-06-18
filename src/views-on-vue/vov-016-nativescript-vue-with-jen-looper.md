@@ -45,7 +45,7 @@ In this episode of Views on Vue, the panelists discuss NativeScript-Vue with Jen
 - [Vue DevTools](https://github.com/vuejs/vue-devtools)
 - Testing with NativeScript
 - [NativeScripting.com](https://nativescripting.com/)
-- [NativeScriptSnacks.com](http://www.nativescriptsnacks.com/)
+- [NativeScriptSnacks.com](https://www.nativescriptsnacks.com/)
 - [@VueVixens](https://twitter.com/vuevixens?lang=en)
 - [Elocute](https://github.com/jlooper/elocute)
 - And much, much more!
@@ -67,7 +67,7 @@ In this episode of Views on Vue, the panelists discuss NativeScript-Vue with Jen
 - [@VueVixens](https://twitter.com/vuevixens?lang=en)
 - [Elocute](https://github.com/jlooper/elocute)
 - [Jen’s GitHub](https://github.com/jlooper)
-- [JenLooper.com](http://www.jenlooper.com/)
+- [JenLooper.com](https://www.jenlooper.com/)
 - [@jenlooper](https://twitter.com/jenlooper)
 - [Vue Vixens](https://vuevixens.org/)
 
@@ -95,7 +95,7 @@ Joe
 
 Jen
 
-- [_Bombshell: The Hedy Lamarr Story_ on PBS](http://www.pbs.org/wnet/americanmasters/bombshell-hedy-lamarr-story-film/9906/)
+- [_Bombshell: The Hedy Lamarr Story_ on PBS](https://www.pbs.org/wnet/americanmasters/bombshell-hedy-lamarr-story-film/9906/)
 - [_VS Code Can Do That?_ Series](https://vscodecandothat.com/)
 - [Cat School](https://www.instagram.com/cat.school/?hl=en)
 

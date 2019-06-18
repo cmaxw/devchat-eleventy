@@ -15,21 +15,21 @@ tags:
 &nbsp;02:25 - Daniel Jacobson Introduction
 
 - [Twitter](https://twitter.com/daniel_jacobson)
-- [Blog](http://www.danieljacobson.com/)
-- [SlideShare](http://www.slideshare.net/danieljacobson/presentations)
+- [Blog](https://www.danieljacobson.com/)
+- [SlideShare](https://www.slideshare.net/danieljacobson/presentations)
 - [LinkedIn](https://www.linkedin.com/profile/view?id=4981209)
 - [Netflix](https://www.netflix.com/)
   - [@netflix](https://twitter.com/netflix)
-  - [Netflix Techblog](http://techblog.netflix.com/)
+  - [Netflix Techblog](https://techblog.netflix.com/)
   - [Netflix GitHub](https://github.com/Netflix)
 
 02:46 - How Netflix Looks at Programming and Development Team
 
 - Context and Control
 - Freedom and Responsibility
-  - [Netflix: Freedom & Responsibility Culture (Version 1)](http://www.slideshare.net/reed2001/culture-2009)
-  - [Netflix Culture: Freedom & Responsibility (Version 2)](http://www.slideshare.net/reed2001/culture-1798664)&nbsp;&nbsp;
-- [Amazon AWS](http://aws.amazon.com/)
+  - [Netflix: Freedom & Responsibility Culture (Version 1)](https://www.slideshare.net/reed2001/culture-2009)
+  - [Netflix Culture: Freedom & Responsibility (Version 2)](https://www.slideshare.net/reed2001/culture-1798664)&nbsp;&nbsp;
+- [Amazon AWS](https://aws.amazon.com/)
 - [JVM (Java Virtual Machine)](https://en.wikipedia.org/wiki/Java_virtual_machine)
 - “Specialties”
 
@@ -39,7 +39,7 @@ tags:
 
 06:37 - Onboarding Process
 
-08:15 - [Engineering spirals: 10 philosophies to facilitate innovation](http://thenextweb.com/dd/2014/03/25/engineering-spirals-10-philosophies-facilitate-innovation/)
+08:15 - [Engineering spirals: 10 philosophies to facilitate innovation](https://thenextweb.com/dd/2014/03/25/engineering-spirals-10-philosophies-facilitate-innovation/)
 
 - Introspection
 - Transformations:
@@ -54,17 +54,17 @@ tags:
 - Building Trust and Confidence &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
 - Maintenance Mode
 
-23:12 - [APIs](http://techblog.netflix.com/search/label/api)
+23:12 - [APIs](https://techblog.netflix.com/search/label/api)
 
-- [Why REST Keeps Me Up At Night](http://www.programmableweb.com/news/why-rest-keeps-me-night/2012/05/15)
-- [API Orchestration Layers](http://thenextweb.com/dd/2013/12/17/future-api-design-orchestration-layer/) (Separation of Concerns)
+- [Why REST Keeps Me Up At Night](https://www.programmableweb.com/news/why-rest-keeps-me-night/2012/05/15)
+- [API Orchestration Layers](https://thenextweb.com/dd/2013/12/17/future-api-design-orchestration-layer/) (Separation of Concerns)
   - Gather
   - Format
   - Deliver
 
 29:32 - Solving Real Problems, The Groovy Layer
 
-- [The Groovy Programming Language](http://www.groovy-lang.org/)
+- [The Groovy Programming Language](https://www.groovy-lang.org/)
 
 31:34 - [hystrix](https://github.com/Netflix/hystrix) and Patterns for Making Systems Resilient
 
@@ -86,7 +86,7 @@ Screening Process
 - Scaling and Maintaining&nbsp;
   Picks
 
-[Fund Club](http://joinfundclub.com) (Coraline)[The Codeless Code](http://thecodelesscode.com/) (Avdi)[Trotro](http://www.netflix.com/title/70234499) (Avdi)[Serial Podcast](http://serialpodcast.org/) (Chuck) Happy Father’s Day! (Chuck)[RailsClips](http://devchat.tv/rails-clips) (Chuck)[StartUp](http://gimletmedia.com/show/startup/) (Daniel)[Reply All](http://gimletmedia.com/show/reply-all/) (Daniel)[Mystery Show](http://gimletmedia.com/show/mystery-show/) (Daniel)[Chris Messina: Seeking Genius in Negative Space](https://medium.com/genius-week/seeking-genius-in-negative-space-4e7c755f641f) (Daniel)[Chris Messina: Full Stack Employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1) (Daniel)[Netflix Techblog](http://techblog.netflix.com/) (Daniel)[Netflix GitHub](https://github.com/Netflix) (Daniel)
+[Fund Club](https://joinfundclub.com) (Coraline)[The Codeless Code](https://thecodelesscode.com/) (Avdi)[Trotro](https://www.netflix.com/title/70234499) (Avdi)[Serial Podcast](https://serialpodcast.org/) (Chuck) Happy Father’s Day! (Chuck)[RailsClips](https://devchat.tv/rails-clips) (Chuck)[StartUp](https://gimletmedia.com/show/startup/) (Daniel)[Reply All](https://gimletmedia.com/show/reply-all/) (Daniel)[Mystery Show](https://gimletmedia.com/show/mystery-show/) (Daniel)[Chris Messina: Seeking Genius in Negative Space](https://medium.com/genius-week/seeking-genius-in-negative-space-4e7c755f641f) (Daniel)[Chris Messina: Full Stack Employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1) (Daniel)[Netflix Techblog](https://techblog.netflix.com/) (Daniel)[Netflix GitHub](https://github.com/Netflix) (Daniel)
 
 ### Transcript
 

@@ -17,7 +17,7 @@ tags:
 - [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/rogues) offers a $1000 signing bonus
 - [RedisGreen](https://redisgreen.net/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues)
-- [Cachefly](http://www.cachefly.com/)
+- [Cachefly](https://www.cachefly.com/)
 
 ### **Panel**
 

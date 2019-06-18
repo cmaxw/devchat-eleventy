@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small
 - [Triplebyte](https://triplebyte.com/vue) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -47,7 +47,7 @@ Alex Vipond introduces himself and what he does. He introduces renderless compon
 - Tourism in Honduras
 **Ben Hong:**
 - [Primer](https://www.amazon.com/Primer-Shane-Carruth/dp/B0007N1JC8/ref=sr_1_2?hvadid=77653014008418&hvbmt=be&hvdev=c&hvqmt=e&keywords=primer+movie&qid=1559186218&s=movies-tv&sr=1-2)
-- [http://steinsgate.tv/index.html](http://steinsgate.tv/index.html)
+- [https://steinsgate.tv/index.html](https://steinsgate.tv/index.html)
 **Natalia Tepluhina:**
 - Better release
 

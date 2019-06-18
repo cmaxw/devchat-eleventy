@@ -48,7 +48,7 @@ tags:
 - [Sentry’s GitHub](https://github.com/getsentry)
 - [@getsentry](https://twitter.com/getsentry?lang=en)
 - [David’s GitHub](https://github.com/dcramer)
-- [David’s Website](http://cra.mr/)
+- [David’s Website](https://cra.mr/)
 - [@zeeg](https://twitter.com/zeeg)
   **Sponsors**
 - [Linode](https://promo.linode.com/adventuresinangular/)

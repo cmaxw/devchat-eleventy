@@ -14,53 +14,53 @@ tags:
 
 ### Panel
 
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
-  Discussion 00:39 - [Going Rogue Video](http://www.goingroguevideo.com/)01:10 - Working From Home 02:17 - Office Setups/Furniture
-- [LX Desk Mount LCD Arm](http://www.amazon.com/gp/product/B00358RIRC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00358RIRC&linkCode=as2&tag=chamaxwoo-20)
-- [Aeron Chair by Herman Miller](http://www.amazon.com/gp/product/B003M1C7XW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003M1C7XW&linkCode=as2&tag=chamaxwoo-20)
-- [VendorGear Headrest for Herman Miller Aeron Chair](http://www.amazon.com/gp/product/B003DDA0PG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003DDA0PG&linkCode=as2&tag=chamaxwoo-20)
-- [A standing desk for \$22](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html)
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
+  Discussion 00:39 - [Going Rogue Video](https://www.goingroguevideo.com/)01:10 - Working From Home 02:17 - Office Setups/Furniture
+- [LX Desk Mount LCD Arm](https://www.amazon.com/gp/product/B00358RIRC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00358RIRC&linkCode=as2&tag=chamaxwoo-20)
+- [Aeron Chair by Herman Miller](https://www.amazon.com/gp/product/B003M1C7XW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003M1C7XW&linkCode=as2&tag=chamaxwoo-20)
+- [VendorGear Headrest for Herman Miller Aeron Chair](https://www.amazon.com/gp/product/B003DDA0PG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003DDA0PG&linkCode=as2&tag=chamaxwoo-20)
+- [A standing desk for \$22](https://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html)
   09:27 - Office Mates 10:17 - Music/Background Noise 11:32 - Footrests
-- [HomCom Ottoman](http://www.amazon.com/gp/product/B009P9W00A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009P9W00A&linkCode=as2&tag=chamaxwoo-20)
+- [HomCom Ottoman](https://www.amazon.com/gp/product/B009P9W00A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009P9W00A&linkCode=as2&tag=chamaxwoo-20)
   14:24 - Time Management
-- [Dan Miller’s 48 Days Podcast](http://48days.com/)
-- [Rudder of The Day](http://www.48days.com/store/rudder/)
-- [The 4-Hour Workweek](http://www.fourhourworkweek.com/)
+- [Dan Miller’s 48 Days Podcast](https://48days.com/)
+- [Rudder of The Day](https://www.48days.com/store/rudder/)
+- [The 4-Hour Workweek](https://www.fourhourworkweek.com/)
   23:47 - Communication/Collaboration
-- [Skype](http://skype.com/)
-- [GoToMeeting](http://www.gotomeeting.com/)
-- [Pivotal Tracker](http://pivotaltracker/)
+- [Skype](https://skype.com/)
+- [GoToMeeting](https://www.gotomeeting.com/)
+- [Pivotal Tracker](https://pivotaltracker/)
 - [JIRA](https://www.atlassian.com/software/jira)
 - [Confluence](https://www.atlassian.com/software/confluence)
 - [Trello](https://trello.com/)
-- [TeamViewer](http://www.teamviewer.com/)
-- [Redmine](http://redmine.org/)
+- [TeamViewer](https://www.teamviewer.com/)
+- [Redmine](https://redmine.org/)
   30:40 - Productivity 39:29 - Task Management
-- [Excel](http://office.microsoft.com/en-us/excel/)
+- [Excel](https://office.microsoft.com/en-us/excel/)
 - [Google+ Spreadsheets](https://plus.google.com/+GoogleDrive/posts/EDpLAtFksPx)
-- [Omnifocus](http://www.omnigroup.com/omnifocus)
-- [Getting Things Done: The Art of Stress-Free Productivity by David Allen](http://www.amazon.com/gp/product/0142000280/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142000280&linkCode=as2&tag=chamaxwoo-20)
-- [Rolodex Stacking Tray Support](http://www.amazon.com/gp/product/B00008XPHD/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00008XPHD&linkCode=as2&tag=chamaxwoo-20)
-- [Rolodex Elegant Warm Metropolitan Look Desk Tray](http://www.amazon.com/gp/product/B00006IALZ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00006IALZ&linkCode=as2&tag=chamaxwoo-20)
+- [Omnifocus](https://www.omnigroup.com/omnifocus)
+- [Getting Things Done: The Art of Stress-Free Productivity by David Allen](https://www.amazon.com/gp/product/0142000280/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142000280&linkCode=as2&tag=chamaxwoo-20)
+- [Rolodex Stacking Tray Support](https://www.amazon.com/gp/product/B00008XPHD/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00008XPHD&linkCode=as2&tag=chamaxwoo-20)
+- [Rolodex Elegant Warm Metropolitan Look Desk Tray](https://www.amazon.com/gp/product/B00006IALZ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00006IALZ&linkCode=as2&tag=chamaxwoo-20)
 - [Evernote](https://evernote.com/)
 - [SaneBox](https://www.sanebox.com/)
-- [The Freelancers’ Show 073 – Book Club: Getting Things Done with David Allen](http://www.freelancersshow.com/the-freelancers-show-073-book-club-getting-things-done-with-david-allen/)
-- [Hazel](http://www.noodlesoft.com/hazel.php)
-- [Fujitsu ScanSnap S1300i Instant PDF Sheet-Fed Mobile Document Scanner](http://www.amazon.com/gp/product/B008HBFADQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008HBFADQ&linkCode=as2&tag=chamaxwoo-20)
+- [The Freelancers’ Show 073 – Book Club: Getting Things Done with David Allen](https://www.freelancersshow.com/the-freelancers-show-073-book-club-getting-things-done-with-david-allen/)
+- [Hazel](https://www.noodlesoft.com/hazel.php)
+- [Fujitsu ScanSnap S1300i Instant PDF Sheet-Fed Mobile Document Scanner](https://www.amazon.com/gp/product/B008HBFADQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008HBFADQ&linkCode=as2&tag=chamaxwoo-20)
   45:57 - Computing/Networking Equipment 48:33 - Decoration
 - Whiteboard/Shower Board
 - Windows/Natural Light
   50:41 - Using Mobile Devices or Tablets
-- [GOgroove BlueSYNC OR3 Rechargeable Bluetooth 4.0 Portable Wireless Speaker](http://www.amazon.com/gp/product/B0083UU1OO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0083UU1OO&linkCode=as2&tag=chamaxwoo-20)
+- [GOgroove BlueSYNC OR3 Rechargeable Bluetooth 4.0 Portable Wireless Speaker](https://www.amazon.com/gp/product/B0083UU1OO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0083UU1OO&linkCode=as2&tag=chamaxwoo-20)
 
 ### Picks
 
-- [Hell's Backbone Grill](http://hellsbackbonegrill.com/) (Joe)
-- [Calf Creek Falls Trail](http://www.utah.com/hike/calf_creek.htm) (Joe)
-- [The Rochester Panel](http://www.emerycounty.com/Travel/images/rockart/rochesterrockartpanel6.html) (Chuck)
-- [ShareMouse](http://www.keyboard-and-mouse-sharing.com/) (Chuck)
-- [Michael Vey](http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=micheal%20vey) (Chuck)
+- [Hell's Backbone Grill](https://hellsbackbonegrill.com/) (Joe)
+- [Calf Creek Falls Trail](https://www.utah.com/hike/calf_creek.htm) (Joe)
+- [The Rochester Panel](https://www.emerycounty.com/Travel/images/rockart/rochesterrockartpanel6.html) (Chuck)
+- [ShareMouse](https://www.keyboard-and-mouse-sharing.com/) (Chuck)
+- [Michael Vey](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=micheal%20vey) (Chuck)
 
 ### Next Week
 

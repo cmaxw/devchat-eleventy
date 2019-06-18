@@ -21,7 +21,7 @@ tags:
 
 **Special Guest:** Gregorio Zanon
 
-In today’s episode, the iPhreaks panel talk to Gregorio Zanon about data transparency and [iMazing](https://imazing.com/download). Gregorio is in Geneva, Switzerland currently and is the code leader at [DigiDNA](http://digidna.ch/) which created the app [iMazing](https://imazing.com/download). He talks about the inspiration for creating the app, its main functions, and what kind of people use this app. They also touch on the topic of data transparency, what it is, and how it affects developers.
+In today’s episode, the iPhreaks panel talk to Gregorio Zanon about data transparency and [iMazing](https://imazing.com/download). Gregorio is in Geneva, Switzerland currently and is the code leader at [DigiDNA](https://digidna.ch/) which created the app [iMazing](https://imazing.com/download). He talks about the inspiration for creating the app, its main functions, and what kind of people use this app. They also touch on the topic of data transparency, what it is, and how it affects developers.
 
 **In particular, we dive pretty deep on:**
 
@@ -50,7 +50,7 @@ In today’s episode, the iPhreaks panel talk to Gregorio Zanon about data trans
 - [iMazing](https://imazing.com/download)
 - [Delete Facebook article](https://www.imore.com/delete-your-facebook)
 - [@RealGregzo](https://twitter.com/realgregzo)
-- [DigiDNA](http://digidna.ch/)
+- [DigiDNA](https://digidna.ch/)
 - Friendly 30% off for developers: PHREAKS-GET-IMAZING
 
 **Picks:**

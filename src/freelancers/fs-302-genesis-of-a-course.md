@@ -56,7 +56,7 @@ In this episode of the Freelancer’s Show, Reuven talks about the “Genesis of
 
 - [FreshBooks](https://www.freshbooks.com/invoice?ref=11731&utm_source=pbm&utm_medium=affiliate-program&utm_influencer=419364&utm_campaign=podcast-influencers)
 
-[**Picks**](http://www.apple.com)
+[**Picks**](https://www.apple.com)
 
 Reuven Lerner
 

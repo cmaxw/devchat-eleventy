@@ -16,11 +16,11 @@ tags:
 
 - [Enova](https://www.enova.com/)
   3:20 - The origins of Enova’s apprenticeship program6:20 - Creating and teaching the curriculum
-- [Rails Guide to Active Support](http://guides.rubyonrails.org/active_support_core_extensions.html)
+- [Rails Guide to Active Support](https://guides.rubyonrails.org/active_support_core_extensions.html)
 - [Code School](https://www.codeschool.com/)
   11:05 - Realities of implementing an apprenticeship program15:30 - Jill’s experience21:10 - Feedback processes22:50 - Advice for setting up an apprenticeship program24:20 - Ideal candidates and mentors
 - [Women Who Code](https://www.womenwhocode.com/)
-- [Code2040](http://www.code2040.org/)
+- [Code2040](https://www.code2040.org/)
 - [Girl Develop It](https://www.girldevelopit.com/)
   28:05 - Apprenticeship and new hire diversity28:45 - Experimenting with bias, communication, and engagement33:20 - Do trainees take too much time away from regular employees?37:05 - Teaching the codebase39:50 - Firing apprentices42:05 - Advantages of working at a lucrative company45:45 - Learning outside the program
 - [Edx](https://www.edx.org/)
@@ -31,7 +31,7 @@ tags:
 
 ### Picks:
 
-[Ruby Tapas](https://www.rubytapas.com/) (Avdi)[Nozbe](https://nozbe.com/) (Avdi)[Postach.io](https://postach.io/) (Avdi)[Neo4j](https://neo4j.com/) (Caroline)[_Thinking in Systems_ by Donella H. Meadows](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) (Caroline)[DeskTime](https://desktime.com/) (Charles)[“Codes of Conduct 101 + FAQ”](https://www.ashedryden.com/blog/codes-of-conduct-101-faq) post by Ashe Dryden (Joe)[_The Book With No Pictures_ by B.J. Novak](https://www.amazon.com/Book-No-Pictures-B-J-Novak/dp/0803741715)(Joe)[_Practical Object-Oriented Design_ by Sandi Metz](http://poodr.com/) (Jill)[Edx CS50 Class](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) (Jill)
+[Ruby Tapas](https://www.rubytapas.com/) (Avdi)[Nozbe](https://nozbe.com/) (Avdi)[Postach.io](https://postach.io/) (Avdi)[Neo4j](https://neo4j.com/) (Caroline)[_Thinking in Systems_ by Donella H. Meadows](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) (Caroline)[DeskTime](https://desktime.com/) (Charles)[“Codes of Conduct 101 + FAQ”](https://www.ashedryden.com/blog/codes-of-conduct-101-faq) post by Ashe Dryden (Joe)[_The Book With No Pictures_ by B.J. Novak](https://www.amazon.com/Book-No-Pictures-B-J-Novak/dp/0803741715)(Joe)[_Practical Object-Oriented Design_ by Sandi Metz](https://poodr.com/) (Jill)[Edx CS50 Class](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) (Jill)
 
 ### Transcript
 

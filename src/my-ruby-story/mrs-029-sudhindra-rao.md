@@ -20,7 +20,7 @@ tags:
 - Debugging form memory
 - How did you get back to working in Ruby?
 - Application Programming
-- [Thought Works&nbsp;](http://www.thoughtworks.com/)
+- [Thought Works&nbsp;](https://www.thoughtworks.com/)
 - What have you done with Ruby that you are proud of?
 - Providing solution and building apps
 - What is it about building apps that appeal to you?
@@ -38,7 +38,7 @@ tags:
 - [Remote](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501)
 - React Tool Chain
 - [Runaway Species](https://www.amazon.com/s/?ie=UTF8&keywords=runaway+species&tag=googhydr-20&index=aps&hvadid=241634285995&hvpos=1t1&hvnetw=g&hvrand=15666352726698379940&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028550&hvtargid=aud-397161105788:kwd-418962554357&ref=pd_sl_9n033zzc9j_e)
-- [BBC Earth](http://www.bbc.com/earth/world)
+- [BBC Earth](https://www.bbc.com/earth/world)
 - Eggless Apple Carrot Cake
   Charles
 - [Sling TV](https://www.sling.com)

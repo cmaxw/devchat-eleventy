@@ -25,7 +25,7 @@ Kyle Jessup Introduction
 
 01:04 - [Perfect](https://github.com/PerfectlySoft/Perfect)
 
-03:14 - The [Lasso](http://www.lassosoft.com/Lasso-Frameworks) Language and Framework
+03:14 - The [Lasso](https://www.lassosoft.com/Lasso-Frameworks) Language and Framework
 
 - [Lasso (Wiki)](<https://en.wikipedia.org/wiki/Lasso_(programming_language)>)
 
@@ -36,7 +36,7 @@ Kyle Jessup Introduction
 15:32 - What Perfect Currently Consists Of
 
 - [PerfectLib](https://github.com/PerfectlySoft/Perfect/tree/master/PerfectLib)
-- [lib/gcd.c](http://lxr.free-electrons.com/source/lib/gcd.c)
+- [lib/gcd.c](https://lxr.free-electrons.com/source/lib/gcd.c)
 - [libdispatch](https://libdispatch.macosforge.org/)
 
 20:02 - Getting Started on Perfect
@@ -55,7 +55,7 @@ Kyle Jessup Introduction
 
 38:26 - Use CasesPicks
 
-[Charlestown, SC](http://www.charlestoncvb.com/) (Jaim)[Amphibious](http://a.mphibio.us) (Kyle)[Pleiades](http://pleiades.ca/) (Sean)[SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) (Andrew)[Anker](http://www.anker.com) (Andrew)
+[Charlestown, SC](https://www.charlestoncvb.com/) (Jaim)[Amphibious](https://a.mphibio.us) (Kyle)[Pleiades](https://pleiades.ca/) (Sean)[SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) (Andrew)[Anker](https://www.anker.com) (Andrew)
 
 ### Transcript
 

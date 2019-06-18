@@ -20,7 +20,7 @@ tags:
   02:09 - Zach Brock Introduction
 - [Twitter](https://twitter.com/z)
 - [GitHub](https://github.com/zbrock)
-- [Blog](http://www.zbrock.com./)
+- [Blog](https://www.zbrock.com./)
   02:22 -&nbsp;[Square](https://squareup.com/)
 - How Square Works
 - Kinetic Energy vs Battery Life
@@ -29,37 +29,37 @@ tags:
 1. Initial System
 2. Series of Our Systems
 3. Third Party Service to Setermine Legitimacy of Credit Card =\> Then Back
-   15:44 - [Service Oriented Architecture (SOA)](http://en.wikipedia.org/wiki/Service-oriented_architecture)16:28 - Degrading Gracefully
+   15:44 - [Service Oriented Architecture (SOA)](https://en.wikipedia.org/wiki/Service-oriented_architecture)16:28 - Degrading Gracefully
 
-- [Decorator Pattern](http://en.wikipedia.org/wiki/Decorator_pattern)
-  17:32 -&nbsp;[jRuby](http://jruby.org/)18:07 - Publishing
+- [Decorator Pattern](https://en.wikipedia.org/wiki/Decorator_pattern)
+  17:32 -&nbsp;[jRuby](https://jruby.org/)18:07 - Publishing
 - [pubsubhubbub](https://code.google.com/p/pubsubhubbub/)
   19:37 - Lynda Model / Blackboard Model / Whiteboard Model
 - JSON Feeds
-  21:14 -&nbsp;[LMAX](http://martinfowler.com/articles/lmax.html)24:50 -&nbsp;[resque](https://github.com/blog/542-introducing-resque)
+  21:14 -&nbsp;[LMAX](https://martinfowler.com/articles/lmax.html)24:50 -&nbsp;[resque](https://github.com/blog/542-introducing-resque)
 - Sharing Code Between Services
-  25:30 -&nbsp;[Clojure](http://clojure.org/)
+  25:30 -&nbsp;[Clojure](https://clojure.org/)
 - [swap!](https://clojuredocs.org/clojure.core/swap!)
   27:08 - Internal Gems 28:45 - [The "Monorail"](https://www.ruby-toolbox.com/projects/monorail)29:36 -&nbsp;[GitHub Enterprise](https://enterprise.github.com/)
 - [Yammer](https://www.yammer.com/)
   30:30 - Publishing API's as a Gem for Both the Server and Client
 - Keeping an Idea of What's Going on by Posting Monitors Around the Office
-- [Nagios](http://www.nagios.org/)
-- [Mike Bostock](http://bost.ocks.org/mike/)
-  32:20 -&nbsp;[Cube](http://square.github.com/cube/)
-- [Cubism](http://square.github.com/cubism/)
-- [Graphite](http://graphite.wikidot.com/)
+- [Nagios](https://www.nagios.org/)
+- [Mike Bostock](https://bost.ocks.org/mike/)
+  32:20 -&nbsp;[Cube](https://square.github.com/cube/)
+- [Cubism](https://square.github.com/cubism/)
+- [Graphite](https://graphite.wikidot.com/)
 - Metrics & Dashboards
   36:14 - Deployment
 - Monorail Deployment
 - Service Deployment
   37:15 -&nbsp;[Jetpack](https://github.com/square/jetpack)
-- [MySQL](http://www.mysql.com/)&nbsp;is Deprecated at Square
-  38:05 -&nbsp;[PostgreSQL](http://www.postgresql.org/),&nbsp;[MongoDB](http://www.mongodb.org/)39:30 - Green/Blue Deployment
+- [MySQL](https://www.mysql.com/)&nbsp;is Deprecated at Square
+  38:05 -&nbsp;[PostgreSQL](https://www.postgresql.org/),&nbsp;[MongoDB](https://www.mongodb.org/)39:30 - Green/Blue Deployment
 - Do Migrations Offline
-- [Mountain West Ruby Conference](http://mtnwestrubyconf.org/)
-- [GoGaRuCo](http://gogaruco.com/)
-  41:55 - [File Transfer Protocol (FTP)](http://en.wikipedia.org/wiki/File_Transfer_Protocol)
+- [Mountain West Ruby Conference](https://mtnwestrubyconf.org/)
+- [GoGaRuCo](https://gogaruco.com/)
+  41:55 - [File Transfer Protocol (FTP)](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 
 ### Transcript
 

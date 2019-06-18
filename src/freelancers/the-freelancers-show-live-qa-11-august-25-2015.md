@@ -26,7 +26,7 @@ tags:
 
 51:47 - Do you let clients text you about projects? I found that once you let that happen, they start texting about things that should be emailed or handled elsewhere. Or, texting expecting a faster response. Or, texting at inconvenient times like when you’re driving with your family.Picks
 
-[Naomi Dunford: How To Confidently Raise Your Rates](http://ittybiz.com/raise-your-rates-with-confidence/) (Eric)[Blair Enns: Seven Universal Truths About Money](https://www.winwithoutpitching.com/seven-universal-truths-about-money/) (Eric)
+[Naomi Dunford: How To Confidently Raise Your Rates](https://ittybiz.com/raise-your-rates-with-confidence/) (Eric)[Blair Enns: Seven Universal Truths About Money](https://www.winwithoutpitching.com/seven-universal-truths-about-money/) (Eric)
 
 ### Transcript
 

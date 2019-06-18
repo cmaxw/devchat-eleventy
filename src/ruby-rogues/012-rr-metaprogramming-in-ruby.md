@@ -13,7 +13,7 @@ tags:
 ---
 
 - What is metaprogramming
-- [AST](http://en.wikipedia.org/wiki/Abstract_syntax_tree)
+- [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 - [Ripper](https://github.com/lsegal/ripper18)
 - method_missing
 - send

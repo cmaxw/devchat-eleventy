@@ -18,6 +18,6 @@ On this episode of Adventures and Angular the panelists are Alyssa Nicoll, Joe E
 
 ### **Picks** :
 
-**Joe** :[Valerie Kittel](http://valeriekittel.com/) **Alyssa:** [NG Houston&nbsp;](https://www.meetup.com/ngHouston/) **John** : Do not speak at the audience; bring them on the same journey you went through when you learned that thing you're speaking about. **Charles** :[Angular Dev Summit&nbsp;](https://angulardevsummit.com/)
+**Joe** :[Valerie Kittel](https://valeriekittel.com/) **Alyssa:** [NG Houston&nbsp;](https://www.meetup.com/ngHouston/) **John** : Do not speak at the audience; bring them on the same journey you went through when you learned that thing you're speaking about. **Charles** :[Angular Dev Summit&nbsp;](https://angulardevsummit.com/)
 
 ### Transcript

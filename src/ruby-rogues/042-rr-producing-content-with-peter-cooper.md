@@ -14,43 +14,43 @@ tags:
 
 01:04 - Peter Cooper Introduction
 
-- [RubyFlow](http://www.rubyflow.com/)
-- [Ruby Inside](http://www.rubyinside.com/)
-- [Ruby Weekly](http://rubyweekly.com/)
+- [RubyFlow](https://www.rubyflow.com/)
+- [Ruby Inside](https://www.rubyinside.com/)
+- [Ruby Weekly](https://rubyweekly.com/)
   02:52 - Influencing Peter
 - [Ryan Bates](https://twitter.com/rbates)
-  - [RailsCasts Pro](http://railscasts.com/pro)
+  - [RailsCasts Pro](https://railscasts.com/pro)
 - [Geoffrey Grosenbach](https://twitter.com/topfunky)
 - [Rob Conery](https://twitter.com/robconery)
-- [TekPub](http://www.pluralsight.com/tag/tekpub)
+- [TekPub](https://www.pluralsight.com/tag/tekpub)
   03:47 - Peter’s Work
-- [Ruby Reloaded](http://rubyreloaded.com/)
-  - Similar to [Marc-André Cournoyer](http://macournoyer.com/)
-- [Ruby 1.9 video](http://vimeo.com/groups/rubytw/videos/29438332)
-- [The Ruby Show](http://rubyshow.com/)
-- [JavaScript Weekly](http://javascriptweekly.com/)
-- [HTML5 Weekly](http://html5weekly.com/)
-- Uses [getdpd](http://getdpd.com/)
+- [Ruby Reloaded](https://rubyreloaded.com/)
+  - Similar to [Marc-André Cournoyer](https://macournoyer.com/)
+- [Ruby 1.9 video](https://vimeo.com/groups/rubytw/videos/29438332)
+- [The Ruby Show](https://rubyshow.com/)
+- [JavaScript Weekly](https://javascriptweekly.com/)
+- [HTML5 Weekly](https://html5weekly.com/)
+- Uses [getdpd](https://getdpd.com/)
   07:50 - Topics of Ruby Reloaded
 - DSL
 - Building a Library From Scratch
 - Threading
 - Concurrency
-  10:22 - James’ [Rubies in the Rough](http://subinterest.com/rubies-in-the-rough)10:50 -&nbsp;Avdi’s [Exceptional Ruby](http://exceptionalruby.com/)11:30 - Media / \$ Side of Ruby 16:30 - Client Work 19:14 - Using an e-Commerce Site 20:35 - Peter as a Content Producer vs Programmer for Hire
+  10:22 - James’ [Rubies in the Rough](https://subinterest.com/rubies-in-the-rough)10:50 -&nbsp;Avdi’s [Exceptional Ruby](https://exceptionalruby.com/)11:30 - Media / \$ Side of Ruby 16:30 - Client Work 19:14 - Using an e-Commerce Site 20:35 - Peter as a Content Producer vs Programmer for Hire
 - First had to build & sell:
-- [Code Snippets](http://www.dzone.com/snippets) / Dzone
+- [Code Snippets](https://www.dzone.com/snippets) / Dzone
 - Feed Digest
   25:45 - Staying Current 27:04 - Ruby 1.9
-- [Getting Ready for Ruby 1.9](http://blog.grayproductions.net/articles/getting_ready_for_ruby_19)
-- [Ruby 1.9's Three Default Encodings](http://blog.grayproductions.net/articles/ruby_19s_three_default_encodings)
-- [Ruby 1.9's String](http://blog.grayproductions.net/articles/ruby_19s_string)
+- [Getting Ready for Ruby 1.9](https://blog.grayproductions.net/articles/getting_ready_for_ruby_19)
+- [Ruby 1.9's Three Default Encodings](https://blog.grayproductions.net/articles/ruby_19s_three_default_encodings)
+- [Ruby 1.9's String](https://blog.grayproductions.net/articles/ruby_19s_string)
   28:25 - Peter’s Publishing / Opinions
-- [Peter's review of the Book of Ruby](http://www.rubyinside.com/the-book-of-ruby-review-5166.html)
+- [Peter's review of the Book of Ruby](https://www.rubyinside.com/the-book-of-ruby-review-5166.html)
   36:30 - Using Various Types of Media
-- [Beginning Ruby](http://www.amazon.com/gp/product/1590597664/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1590597664) (by Peter Cooper)
+- [Beginning Ruby](https://www.amazon.com/gp/product/1590597664/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1590597664) (by Peter Cooper)
 - eBooks
-- [Ruby Trick Shots](http://www.youtube.com/watch?feature=player_embedded&v=gIEMKOI_Y-4)
-- [Self Promotion for Geeks](http://selfpromotionforgeeks.com/)
+- [Ruby Trick Shots](https://www.youtube.com/watch?feature=player_embedded&v=gIEMKOI_Y-4)
+- [Self Promotion for Geeks](https://selfpromotionforgeeks.com/)
   44:15 - ‘Rising Tides Lifts All Boats’
 
 ### Transcript

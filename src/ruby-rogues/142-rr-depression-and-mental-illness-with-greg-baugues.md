@@ -14,31 +14,31 @@ tags:
 
 02:32 - Greg Baugues Introduction
 
-- [Twilio](http://twilio.com/)
+- [Twilio](https://twilio.com/)
 
-03:33 - [Greg Baugues: Devs and Depression](http://www.confreaks.com/videos/2341-mwrc2013-devs-and-depression)
+03:33 - [Greg Baugues: Devs and Depression](https://www.confreaks.com/videos/2341-mwrc2013-devs-and-depression)
 
 07:20 - Stigma
 
-- [James Edward Gray II: Built to Program](http://www.confreaks.com/videos/2673-gogaruco2013-built-to-program)
+- [James Edward Gray II: Built to Program](https://www.confreaks.com/videos/2673-gogaruco2013-built-to-program)
 
 15:50 - Getting Help
 
-- [Cognitive Behavioral Therapy](http://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT)
+- [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT)
 
 34:25 - Finding Support
 
 38:31 - Preventative Care
 
-- [Fitbit](http://fitbit.com/)
-- [Moodscope](http://moodscope.com/)
+- [Fitbit](https://fitbit.com/)
+- [Moodscope](https://moodscope.com/)
 
 44:50 - Self-Discovery
 
-- [Ruby Rogues Episode #49: Agile Communication with Angela Harms](http://rubyrogues.com/049-rr-agile-communication-with-angela-harms/)
-- [Nonviolent Communication: A Language of Life by Marshall B. Rosenberg](http://www.amazon.com/gp/product/1892005034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=chamaxwoo-20)
+- [Ruby Rogues Episode #49: Agile Communication with Angela Harms](https://rubyrogues.com/049-rr-agile-communication-with-angela-harms/)
+- [Nonviolent Communication: A Language of Life by Marshall B. Rosenberg](https://www.amazon.com/gp/product/1892005034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=chamaxwoo-20)
 
-52:34 - [Developers and Depression](http://devsanddepression.com/)
+52:34 - [Developers and Depression](https://devsanddepression.com/)
 
 57:27 - Preventative Care (cont’d)
 
@@ -49,13 +49,13 @@ tags:
 
 01:09:19 - Resources
 
-- [DevPress](http://devpress.com/)
+- [DevPress](https://devpress.com/)
 - [greg@baugues.com](mailto:greg@baugues.com)
-- [The National Institute of Mental Health](http://www.nimh.nih.gov/)
+- [The National Institute of Mental Health](https://www.nimh.nih.gov/)
 
 ### Book Club
 
-[Ruby Under a Microscope by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](http://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](http://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
+[Ruby Under a Microscope by Pat Shaughnessy](https://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](https://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](https://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
 
 ### Next Week
 

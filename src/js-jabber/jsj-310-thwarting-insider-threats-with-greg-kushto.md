@@ -51,7 +51,7 @@ In this episode, the JavaScript Jabber panelists discuss thwarting insider threa
 - [Force 3](https://www.force3.com/)
 - [Greg’s LinkedIn](https://www.linkedin.com/in/greg-kushto-050806a2)
 - [@Greg_Kushto](https://twitter.com/greg_kushto?lang=en)
-- [Greg’s BLog](http://www.force3.com/blog/)
+- [Greg’s BLog](https://www.force3.com/blog/)
 
 **Picks:**
 
@@ -59,10 +59,10 @@ Charles
 
 - [HaveIBeenPwned.com](https://haveibeenpwned.com/)
 - [Plural Sight](https://www.pluralsight.com/)
-- [Elixir podcast](http://elixirmix.com/) coming soon
+- [Elixir podcast](https://elixirmix.com/) coming soon
 - [NG conf](https://www.ng-conf.org/)
 - [MicroConf](https://www.microconf.com/)
-- [RubyHack](http://rubyhack.com/)
+- [RubyHack](https://rubyhack.com/)
 - [Microsoft Build](https://www.microsoft.com/en-us/build)
 
 Cory

@@ -12,37 +12,37 @@ tags:
   - podcast
 ---
 
-02:46 -&nbsp;[instiki](http://instiki.org/show/HomePage)
+02:46 -&nbsp;[instiki](https://instiki.org/show/HomePage)
 
 - Madeleine
-- [Ruby on Rails](http://rubyonrails.org/)
-- [Basecamp](http://basecamp.com/)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Basecamp](https://basecamp.com/)
   06:11 - Git Compare
 - Git Blame
 - Replace Code You Don't Like
-- [Merb](http://rubygems.org/gems/merb)
-- [Yehuda Katz](http://yehudakatz.com/)
-- [Aaron Patterson](http://tenderloving.com/)
+- [Merb](https://rubygems.org/gems/merb)
+- [Yehuda Katz](https://yehudakatz.com/)
+- [Aaron Patterson](https://tenderloving.com/)
 - "I work on the stuff that I need." - David's role in Ruby on Rails
-  07:55 -&nbsp;[37Signals](http://37signals.com/)
+  07:55 -&nbsp;[37Signals](https://37signals.com/)
 - Code Comparison and Determining Which Code is Better
   12:48 - Code Value is Best Determined by Code in a Real Project 14:12 -&nbsp;[resourceful](https://github.com/hcatlin/make_resourceful)16:14 - YAGNI (You Ain't Gonna Need It) 16:54 - "I try not to extract any code or functionality unless I've seen the problem at least 3 times."
-- [Design Patterns by the Gang of Four](http://www.amazon.com/gp/product/0201633612/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201633612)
-  18:50 - PDI (Please Do investigate) 20:35 -&nbsp;[Strong Parameters](http://weblog.rubyonrails.org/2012/3/21/strong-parameters/)21:48 - Show the Evidence with Real Code
+- [Design Patterns by the Gang of Four](https://www.amazon.com/gp/product/0201633612/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201633612)
+  18:50 - PDI (Please Do investigate) 20:35 -&nbsp;[Strong Parameters](https://weblog.rubyonrails.org/2012/3/21/strong-parameters/)21:48 - Show the Evidence with Real Code
 - The Before & After
-  22:50 - Show Improvement by Implementing Change 22:53 - Nested Parameters 23:30 - [Internationalization](http://en.wikipedia.org/wiki/Internationalization)25:38 - Disconnect Between Design Patterns/Abstract Ideas and Implementation
+  22:50 - Show Improvement by Implementing Change 22:53 - Nested Parameters 23:30 - [Internationalization](https://en.wikipedia.org/wiki/Internationalization)25:38 - Disconnect Between Design Patterns/Abstract Ideas and Implementation
 - [Jason Fried](https://twitter.com/jasonfried)
-- [Object-Oriented Design](http://en.wikipedia.org/wiki/Object-oriented_design) in Rails
-  37:08 -&nbsp;[Design Patterns by the Gang of Four](http://www.amazon.com/gp/product/0201633612/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201633612)
-- [Refactoring by Martin Fowler](http://www.amazon.com/gp/product/0201485672/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201485672)
-- [Patterns: Enterprise Application Architecture](http://www.amazon.com/gp/product/0321127420/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321127420)
-  40:40 - [DCI](http://en.wikipedia.org/wiki/DCI)41:27 - [Law of Demeter](http://en.wikipedia.org/wiki/Law_of_Demeter)45:00 - Feel the Pain, Understand the Pattern
-- [Witgenstein’s Ladder](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCEQFjAA&url=http%253A%252F%252Fwww.amazon.com%252FWittgensteins-Ladder-Language-Strangeness-Ordinary%252Fdp%252F0226660605&ei=hcDvVMO8G8O1ogTJsIGYAg&usg=AFQjCNHacF4i-bXFkZJ-Wa02Gc_6d5dfsA&sig2=P7-eqPOe6M04Hhcufy2usg&bvm=bv.87269000,d.cGU)
-  52:06 - [Front End Development](http://en.wikipedia.org/wiki/Front_end_development)
+- [Object-Oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design) in Rails
+  37:08 -&nbsp;[Design Patterns by the Gang of Four](https://www.amazon.com/gp/product/0201633612/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201633612)
+- [Refactoring by Martin Fowler](https://www.amazon.com/gp/product/0201485672/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201485672)
+- [Patterns: Enterprise Application Architecture](https://www.amazon.com/gp/product/0321127420/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321127420)
+  40:40 - [DCI](https://en.wikipedia.org/wiki/DCI)41:27 - [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)45:00 - Feel the Pain, Understand the Pattern
+- [Witgenstein’s Ladder](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCEQFjAA&url=http%253A%252F%252Fwww.amazon.com%252FWittgensteins-Ladder-Language-Strangeness-Ordinary%252Fdp%252F0226660605&ei=hcDvVMO8G8O1ogTJsIGYAg&usg=AFQjCNHacF4i-bXFkZJ-Wa02Gc_6d5dfsA&sig2=P7-eqPOe6M04Hhcufy2usg&bvm=bv.87269000,d.cGU)
+  52:06 - [Front End Development](https://en.wikipedia.org/wiki/Front_end_development)
 - "Is the code better?"
-  54:11 -&nbsp;[Ember.js](http://emberjs.com/)
+  54:11 -&nbsp;[Ember.js](https://emberjs.com/)
 - Client-side MVC
-  59:24 -&nbsp;[37Signals](http://37signals.com/)&nbsp;(Cont'd)
+  59:24 -&nbsp;[37Signals](https://37signals.com/)&nbsp;(Cont'd)
 
 ### Transcript
 

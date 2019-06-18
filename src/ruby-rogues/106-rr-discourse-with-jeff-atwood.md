@@ -14,61 +14,61 @@ tags:
 
 01:34 - Jeff Atwood Introduction
 
-- [Coding Horror](http://codinghorror.com/)
-- [Stack Overflow](http://stackoverflow.com/)
-- [Stack Exchange](http://stackexchange.com/)
-- [Discourse](http://www.discourse.org/)
+- [Coding Horror](https://codinghorror.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Stack Exchange](https://stackexchange.com/)
+- [Discourse](https://www.discourse.org/)
 
-02:14 - [Stack Overflow](http://stackoverflow.com/)
+02:14 - [Stack Overflow](https://stackoverflow.com/)
 
 03:11 - Goals and Motivations
 
 - [discourse / discourse](https://github.com/discourse/discourse)
-- [Experts Exchange](http://www.experts-exchange.com/)
+- [Experts Exchange](https://www.experts-exchange.com/)
 - [phpBB](https://www.phpbb.com/community/)
-- [vBulletin](http://www.vbulletin.org/forum/portal.php)
-- [Reddit](http://www.reddit.com/)
+- [vBulletin](https://www.vbulletin.org/forum/portal.php)
+- [Reddit](https://www.reddit.com/)
 
 10:35 - Success
 
-- [How-To Geek](http://discuss.howtogeek.com/)
+- [How-To Geek](https://discuss.howtogeek.com/)
 
 16:46 - Discourse’s Code
 
-- [Coding Horror: Why Ruby?](http://www.codinghorror.com/blog/2013/03/why-ruby.html)
-- [Coding Horror: The Principle of Least Power](http://www.codinghorror.com/blog/2007/07/the-principle-of-least-power.html) (Atwood’s Law)
-- [ForumWarz](http://www.forumwarz.com/)
+- [Coding Horror: Why Ruby?](https://www.codinghorror.com/blog/2013/03/why-ruby.html)
+- [Coding Horror: The Principle of Least Power](https://www.codinghorror.com/blog/2007/07/the-principle-of-least-power.html) (Atwood’s Law)
+- [ForumWarz](https://www.forumwarz.com/)
 - [discourse / discourse](https://github.com/discourse/discourse)
 
 23:12 - Open-Source Licensing
 
-- [GPL (General Public License)](http://en.wikipedia.org/wiki/GNU_General_Public_License)
+- [GPL (General Public License)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 
-26:43 - Using a [CLA (Contributor License Agreement)](http://en.wikipedia.org/wiki/Contributor_License_Agreement)
+26:43 - Using a [CLA (Contributor License Agreement)](https://en.wikipedia.org/wiki/Contributor_License_Agreement)
 
-29:48 - [Open-Source Versions vs Proprietary Versions](http://en.wikipedia.org/wiki/Contributor_License_Agreement)
+29:48 - [Open-Source Versions vs Proprietary Versions](https://en.wikipedia.org/wiki/Contributor_License_Agreement)
 
-- [Vanilla](http://vanillaforums.org/)
+- [Vanilla](https://vanillaforums.org/)
 
 33:12 - Discourse and Ruby
 
 - Giving back to the community
 - Performance
 
-45:35 - Choosing [PostgreSQL](http://en.wikipedia.org/wiki/PostgreSQL)
+45:35 - Choosing [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)
 
 47:15 - Releasing Discourse
 
 - “The Rule of Three”
 - Using Discourse for [Ruby Rogues Parley](https://parley.rubyrogues.com/)
-- [Ember](http://emberjs.com/)
-- [Greenheart Games Tricks Players for Lesson on Piracy](http://www.pcmag.com/article2/0,2817,2418341,00.asp)
-- [Greenheart Games Forum](http://forum.greenheartgames.com/)
-- [Soylent Discourse](http://discourse.soylent.me/)
+- [Ember](https://emberjs.com/)
+- [Greenheart Games Tricks Players for Lesson on Piracy](https://www.pcmag.com/article2/0,2817,2418341,00.asp)
+- [Greenheart Games Forum](https://forum.greenheartgames.com/)
+- [Soylent Discourse](https://discourse.soylent.me/)
 
 ### Book Club
 
-[Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](http://pragprog.com/book/ehxta/explore-it)! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
+[Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](https://pragprog.com/book/ehxta/explore-it)! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
 
 ### Next Week
 

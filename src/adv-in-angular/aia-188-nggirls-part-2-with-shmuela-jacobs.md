@@ -20,12 +20,12 @@ tags:
 
 **Special Guests:** Shmuela Jacobs
 
-In this episode of Adventures in Angular, the panel talks to Shmuela Jacobs about ngGirls. Shmuela founded [ngGirls](http://ng-girls.org/), which is an organization where they try to increase diversity in tech, and it is mainly focused towards [Angular](https://angular.io/). This is because she loves Angular and feels that it is a good platform to start with because of its simplicity. They talk about how she came up with the idea for ngGirls, how the company works, and stress the incredibly helpful nature of the Angular community.
+In this episode of Adventures in Angular, the panel talks to Shmuela Jacobs about ngGirls. Shmuela founded [ngGirls](https://ng-girls.org/), which is an organization where they try to increase diversity in tech, and it is mainly focused towards [Angular](https://angular.io/). This is because she loves Angular and feels that it is a good platform to start with because of its simplicity. They talk about how she came up with the idea for ngGirls, how the company works, and stress the incredibly helpful nature of the Angular community.
 
 **In particular, we dive pretty deep on:**
 
 - Shmuela intro
-- [Angular](https://angular.io/) and [ngGirls](http://ng-girls.org/)
+- [Angular](https://angular.io/) and [ngGirls](https://ng-girls.org/)
 - The Angular community
 - How the workshop works
 - Free workshop run by volunteers
@@ -49,7 +49,7 @@ In this episode of Adventures in Angular, the panel talks to Shmuela Jacobs abou
 
 **Links:&nbsp;**
 
-- [ngGirls](http://ng-girls.org/)
+- [ngGirls](https://ng-girls.org/)
 - [Angular](https://angular.io/)
 - [Google I/O](https://events.google.com/io/)
 - [Django girls](https://djangogirls.org/)

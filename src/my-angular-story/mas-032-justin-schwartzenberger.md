@@ -29,11 +29,11 @@ This week on My Angular Story, Charles speaks with Justin Schwartzenberger. Just
 - Passion in writing and film
 - What was it about programming that got you excited?
 - Job as tech support at internet service provider
-- [PHP](http://www.php.net/) development
+- [PHP](https://www.php.net/) development
 - Love the opportunity to build something real
 - How did you get into [Angular](https://angular.io/)?
 - Built an ERP system
-- What made you choose [AngularJS](https://angularjs.org/) over [Durandal](http://durandaljs.com/)?
+- What made you choose [AngularJS](https://angularjs.org/) over [Durandal](https://durandaljs.com/)?
 - Leveraging [TypeScript](https://www.typescriptlang.org/)
 - What did you like about AngularJS?
 - Liked the idea of a single-page app
@@ -50,10 +50,10 @@ This week on My Angular Story, Charles speaks with Justin Schwartzenberger. Just
 
 **Links:**
 
-- [PHP](http://www.php.net/)
+- [PHP](https://www.php.net/)
 - [Angular](https://angular.io/)
 - [AngularJS](https://angularjs.org/)
-- [Durandal](http://durandaljs.com/)
+- [Durandal](https://durandaljs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Angular Air](https://angularair.com/)
 - [Justin’s PluralSight](https://www.pluralsight.com/authors/justin-schwarty)
@@ -71,7 +71,7 @@ Charles
 - [WordPress](https://wordpress.com/)
 - Newspaper Theme on WordPress
 - [React Round Up](https://devchat.tv/react-round-up)
-- [Views on Vue](http://viewsonvue.com/)
+- [Views on Vue](https://viewsonvue.com/)
 
 Justin
 

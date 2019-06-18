@@ -19,7 +19,7 @@ tags:
 
 **Special Guest:** Shai Mishali
 
-In today’s episode, the iPhreaks panel talks to Shai Mishali about RxSwift. Shai is an iOS engineer who started his career as a backend engineer. Currently, he is in charge of the Tim Horton’s iOS app, and in his free time he does a lot of open source, specifically within the [RxSwift](https://github.com/ReactiveX/RxSwift) community. They talk about how he got into programming, the difference between [React](https://reactjs.org/) and RxSwift, and they explain [ReactiveX](http://reactivex.io/). They also touch on the downsides of Rx, how debugging works, and more!
+In today’s episode, the iPhreaks panel talks to Shai Mishali about RxSwift. Shai is an iOS engineer who started his career as a backend engineer. Currently, he is in charge of the Tim Horton’s iOS app, and in his free time he does a lot of open source, specifically within the [RxSwift](https://github.com/ReactiveX/RxSwift) community. They talk about how he got into programming, the difference between [React](https://reactjs.org/) and RxSwift, and they explain [ReactiveX](https://reactivex.io/). They also touch on the downsides of Rx, how debugging works, and more!
 
 **In particular, we dive pretty deep on:**
 
@@ -36,7 +36,7 @@ In today’s episode, the iPhreaks panel talks to Shai Mishali about RxSwift. Sh
 - Big idea behind React
 - Is there a model that iOS developers use that is similar to how React/Reactive programming works?
 - [RxFeedback](https://github.com/NoTests/RxFeedback.swift)
-- Explain [ReactiveX](http://reactivex.io/)
+- Explain [ReactiveX](https://reactivex.io/)
 - Observables & Binding
 - What are the downsides of Rx?
 - Does Rx feel like functional programming, or the delegate pattern?
@@ -48,10 +48,10 @@ In today’s episode, the iPhreaks panel talks to Shai Mishali about RxSwift. Sh
 **Links:**
 
 - [RxSwift](https://github.com/ReactiveX/RxSwift)
-- [RxSwift Community Projects](http://community.rxswift.org/)
+- [RxSwift Community Projects](https://community.rxswift.org/)
 - [React](https://reactjs.org/)
 - [Swift](https://swift.org/)
-- [ReactiveX](http://reactivex.io/)
+- [ReactiveX](https://reactivex.io/)
 - [RxFeedback](https://github.com/NoTests/RxFeedback.swift)
 - [@freak4pc](https://twitter.com/freak4pc?lang=en)
 - [Shai’s Medium](https://medium.com/@freak4pc)

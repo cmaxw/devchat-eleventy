@@ -92,6 +92,6 @@ Joe
 
 Ward
 
-- [NWLA Tournament](http://nwlatournament.com/)
+- [NWLA Tournament](https://nwlatournament.com/)
 
 ### Transcript

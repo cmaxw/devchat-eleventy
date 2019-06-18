@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Our small Ruby podcast has been overrun by the likes of Josh Susser, who this month chose [Smalltalk Best Practice Patterns](http://www.amazon.com/gp/product/013476904X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=013476904X) ![](http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=013476904X&camp=217145&creative=399369) by Kent Beck as our Book Club for next month. We'll be recording the podcast on Tuesday, October 4th at 9:30AM Mountain Time.
+Our small Ruby podcast has been overrun by the likes of Josh Susser, who this month chose [Smalltalk Best Practice Patterns](https://www.amazon.com/gp/product/013476904X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=013476904X) ![](https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=013476904X&camp=217145&creative=399369) by Kent Beck as our Book Club for next month. We'll be recording the podcast on Tuesday, October 4th at 9:30AM Mountain Time.
 
 ### Kent will be joining us for that episode.
 

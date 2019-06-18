@@ -14,7 +14,7 @@ tags:
 
 00:55 - Ruby 2
 
-- [Ruby 2.0.0 in Detail](http://globaldev.co.uk/2013/03/ruby-2-0-0-in-detail/)
+- [Ruby 2.0.0 in Detail](https://globaldev.co.uk/2013/03/ruby-2-0-0-in-detail/)
 - Incompatabilities
 
 05:02 - Incremental Performance Improvements
@@ -22,22 +22,22 @@ tags:
 - Garbage Collection
 - Requires
 - Method Dispatch
-- [Peter Cooper's Ruby Weekly](http://rubyweekly.com/)
+- [Peter Cooper's Ruby Weekly](https://rubyweekly.com/)
 
 06:50 - VM Optimizations
 
-- [Ruby Conf 12 - Implementation Details of Ruby 2.0 VM by Koichi Sasada](http://www.youtube.com/watch?v=lWIP4nsKIMU)
+- [Ruby Conf 12 - Implementation Details of Ruby 2.0 VM by Koichi Sasada](https://www.youtube.com/watch?v=lWIP4nsKIMU)
 
 08:51 - Keyword Arguments
 
-- [Ruby 2.0 : Keyword arguments](http://dev.af83.com/2013/02/18/ruby-2-0-keyword-arguments.html)
+- [Ruby 2.0 : Keyword arguments](https://dev.af83.com/2013/02/18/ruby-2-0-keyword-arguments.html)
 
 18:13 - %i[]
 
 21:13 - Unbound methods from a module can be bound to any object
 
 - [An adventure in prototypes](https://practicingruby.com/articles/shared/xjhovcnfqaui) (Practicing Ruby article by Avdi)
-- [Modeling the World with Prototypes](http://devblog.avdi.org/2012/12/11/modeling-the-world-with-prototypes/) (Avdi’s follow-up article on his own blog)
+- [Modeling the World with Prototypes](https://devblog.avdi.org/2012/12/11/modeling-the-world-with-prototypes/) (Avdi’s follow-up article on his own blog)
 
 25:30 - Prepend
 
@@ -49,20 +49,20 @@ tags:
 
 41:25 - Lazy Enumerables
 
-- [Ruby 2.0 Enumerable::Lazy | Railsware Blog](http://railsware.com/blog/2012/03/13/ruby-2-0-enumerablelazy/)
+- [Ruby 2.0 Enumerable::Lazy | Railsware Blog](https://railsware.com/blog/2012/03/13/ruby-2-0-enumerablelazy/)
 - Performance advantages
 
 49:38 - Lack of updated/refurbished standard libraries
 
 52:46 - Garbage Collector
 
-- [058 RR Book Club: Working with Unix Processes with Jesse Storimer](http://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/)
-- [Why You Should Be Excited About Garbage Collection in Ruby 2.0 - Pat Shaughnessy](http://patshaughnessy.net/2012/3/23/why-you-should-be-excited-about-garbage-collection-in-ruby-2-0)
+- [058 RR Book Club: Working with Unix Processes with Jesse Storimer](https://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/)
+- [Why You Should Be Excited About Garbage Collection in Ruby 2.0 - Pat Shaughnessy](https://patshaughnessy.net/2012/3/23/why-you-should-be-excited-about-garbage-collection-in-ruby-2-0)
 
 56:46 - Improving your window into the inner workings of Ruby
 
-- [Class: TracePoint (Ruby 2.0)](http://www.ruby-doc.org/core-2.0/TracePoint.html)
-- [ObjectSpace.reachable_objects_from() (Japanese Blog Article)](http://d.hatena.ne.jp/miura1729/20121203/1354460531)
+- [Class: TracePoint (Ruby 2.0)](https://www.ruby-doc.org/core-2.0/TracePoint.html)
+- [ObjectSpace.reachable_objects_from() (Japanese Blog Article)](https://d.hatena.ne.jp/miura1729/20121203/1354460531)
 
 58:33 - to_h
 
@@ -70,11 +70,11 @@ tags:
 
 01:00:55 - Can a language keep evolving and growing?
 
-- [Boundaries - Gary Bernhardt - Ruby Conference 2012](http://www.confreaks.com/videos/1314-rubyconf2012-boundaries)
+- [Boundaries - Gary Bernhardt - Ruby Conference 2012](https://www.confreaks.com/videos/1314-rubyconf2012-boundaries)
 
 ### Book Club
 
-[The Rails View by John Athayde and Bruce Williams](http://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20): Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
+[The Rails View by John Athayde and Bruce Williams](https://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20): Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
 
 ### Next Week
 

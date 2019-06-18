@@ -33,7 +33,7 @@ In this episode of Views on Vue, the panelists discuss Vue testing with Roman Ku
 - [Angular](https://angular.io/)
 - Transition from Angular to Vue
 - How did you do the transition?
-- [CoffeeScript](http://coffeescript.org/)
+- [CoffeeScript](https://coffeescript.org/)
 - Did you find there were differences in how Vue integrated?
 - Why did you choose Vue?
 - Vue is nice to progress into
@@ -41,7 +41,7 @@ In this episode of Views on Vue, the panelists discuss Vue testing with Roman Ku
 - Got a lot of great feedback from back-end engineers
 - Did you have any concerns of its long-term viability?
 - Read through a lot of the Vue source code
-- Had template written in [Slim](http://slim-lang.com/)
+- Had template written in [Slim](https://slim-lang.com/)
 - [Babble](https://www.babble.com/) and [TypeScript](https://www.typescriptlang.org/)
 - Vue is a progressive framework
 - Time reading the source code
@@ -56,8 +56,8 @@ In this episode of Views on Vue, the panelists discuss Vue testing with Roman Ku
 - [Codeship](https://codeship.com/)
 - [Vue](https://vuejs.org/)
 - [Angular](https://angular.io/)
-- [CoffeeScript](http://coffeescript.org/)
-- [Slim](http://slim-lang.com/)
+- [CoffeeScript](https://coffeescript.org/)
+- [Slim](https://slim-lang.com/)
 - [Babble](https://www.babble.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://www.javascript.com/)
@@ -68,7 +68,7 @@ In this episode of Views on Vue, the panelists discuss Vue testing with Roman Ku
 
 Chris
 
-- [We Have Concerns Podcast](http://wehaveconcerns.com/)
+- [We Have Concerns Podcast](https://wehaveconcerns.com/)
 - [The Anthropocene Reviewed Podcast](https://itunes.apple.com/us/podcast/the-anthropocene-reviewed/id1342003491?mt=2)
 - [_The Obelisk Gate_ by N. K. Jemisin](https://www.amazon.com/Obelisk-Gate-Broken-Earth/dp/0316229261)
 
@@ -81,7 +81,7 @@ Divya
 Erik
 
 - [_Testing Vue.js Applications_ by Edd Yerburgh](https://www.manning.com/books/testing-vuejs-applications)
-- [_Vue.js in Action_ by Erik Hanchett](http://www.programwitherik.com/book/)
+- [_Vue.js in Action_ by Erik Hanchett](https://www.programwitherik.com/book/)
 
 Joe
 
@@ -89,7 +89,7 @@ Joe
 
 Brett
 
-- [Flashforge Find 3D printer](http://www.flashforge.com/finder-3d-printer/)
+- [Flashforge Find 3D printer](https://www.flashforge.com/finder-3d-printer/)
 - [_Last Shot_ (Star Wars) by Daniel José Older](https://www.amazon.com/Last-Shot-Star-Wars-Lando-ebook/dp/B079KSMJHG)
 
 Roman

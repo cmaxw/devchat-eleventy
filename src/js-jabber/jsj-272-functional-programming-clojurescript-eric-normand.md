@@ -29,15 +29,15 @@ This episode of JavaScript Jabber features panelists Aimee Knight and Charles Ma
 - [_The Hidden Cost of Abstraction_&nbsp;](https://purelyfunctional.tv/issues/clojure-gazette-177-the-hidden-costs-of-abstraction/)
 - [_What Functional Language Should I Learn&nbsp;_](https://hackernoon.com/what-functional-language-should-i-learn-5e4157ff574f)
   **Eric**
-- [Steven King, _On Writing&nbsp;_](http://www.amazon.com/dp/B009BDVD2Q/?tag=chamaxwoo-20)
+- [Steven King, _On Writing&nbsp;_](https://www.amazon.com/dp/B009BDVD2Q/?tag=chamaxwoo-20)
 - [Youtube Channel: Tested&nbsp;](https://www.youtube.com/user/testedcom) **&nbsp;**
   **Charles**
 - Ionic Framework
 
 ### **Links**
 
-- [Purely Functional TV&nbsp;](http://www.purelyfunctional.tv)
-- [Blog&nbsp;](http://www.lispcast.com/)
+- [Purely Functional TV&nbsp;](https://www.purelyfunctional.tv)
+- [Blog&nbsp;](https://www.lispcast.com/)
 - [Building Composable Abstractions&nbsp;](https://purelyfunctional.tv/building-composable-abstractions/)
 
 ### Transcript

@@ -16,7 +16,7 @@ tags:
 
 **Guest:** **David Hemmat**
 
-This week on My Ruby Story, Charles talks to [David Hemmat](http://davidhemmat.com) about his educational background, career choices, and suggestions for developers. David is a web developer who works mainly with Ruby on Rails. In the past few years, David has done work for a number of clients including [Condé Nast](http://www.condenast.com), [Six Red Marbles](http://sixredmarbles.com), [ShopKeep](https://www.shopkeep.com), and [Couplewise](https://couplewise.com). Currently, David is working on a number of personal and professional development projects.
+This week on My Ruby Story, Charles talks to [David Hemmat](https://davidhemmat.com) about his educational background, career choices, and suggestions for developers. David is a web developer who works mainly with Ruby on Rails. In the past few years, David has done work for a number of clients including [Condé Nast](https://www.condenast.com), [Six Red Marbles](https://sixredmarbles.com), [ShopKeep](https://www.shopkeep.com), and [Couplewise](https://couplewise.com). Currently, David is working on a number of personal and professional development projects.
 
 **In particular, we dive pretty deep on:**
 
@@ -56,7 +56,7 @@ This week on My Ruby Story, Charles talks to [David Hemmat](http://davidhemmat.c
 - [Digital Ocean](https://www.digitalocean.com)
 - [CacheFly](https://www.cachefly.com)
 - [Blue Coding](https://www.bluecoding.com)
-- [David R. Hemmat’s Website](http://davidhemmat.com)
+- [David R. Hemmat’s Website](https://davidhemmat.com)
 - David’s E-mail: david@davidhemmat.com
 - [Medium Account for David Hemmat](https://medium.com/@dhemmat)
 
@@ -69,14 +69,14 @@ This week on My Ruby Story, Charles talks to [David Hemmat](http://davidhemmat.c
 **David**
 
 - [Rails Tutorial by Michael Hartl](https://www.railstutorial.org)
-- [Codecademy](http://pro.codecademy.com/?utm_source=google&utm_medium=cpc&utm_campaign=tm&gclid=EAIaIQobChMI9POVkPC62wIVBKtpCh3ypAEcEAAYASAAEgLGlvD_BwE)
-- [Rails Casts](http://railscasts.com)
+- [Codecademy](https://pro.codecademy.com/?utm_source=google&utm_medium=cpc&utm_campaign=tm&gclid=EAIaIQobChMI9POVkPC62wIVBKtpCh3ypAEcEAAYASAAEgLGlvD_BwE)
+- [Rails Casts](https://railscasts.com)
 - [Platzi](https://courses.platzi.com)
 
 **Charles**
 
 - [Framework Summit](https://www.frameworksummit.com)
-- [Ruby Hack](http://rubyhack.com)
+- [Ruby Hack](https://rubyhack.com)
 - [Microsoft Build](https://www.microsoft.com/en-us/build)
 - [Podcast Movement](https://podcastmovement.com)
 

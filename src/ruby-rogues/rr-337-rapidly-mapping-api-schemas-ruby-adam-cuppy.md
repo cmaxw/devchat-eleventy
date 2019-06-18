@@ -29,7 +29,7 @@ tags:
 - NVC
 - Inspiration to build
 - Communication among the team is the first code you write
-- [What if Shakespeare wrote Ruby?](http://What%20if%20Shakesspere%20wrote%20Ruby)
+- [What if Shakespeare wrote Ruby?](https://What%20if%20Shakesspere%20wrote%20Ruby)
 - Write and tell a new story
 - Failure is not that common - Break stuff.
 -
@@ -37,17 +37,17 @@ tags:
   **Links:&nbsp;**
 - [Zeal&nbsp;](https://codingzeal.com)
 - @adamcuppy
-- [github.com/acuppy](http://github.com/acuppy)
+- [github.com/acuppy](https://github.com/acuppy)
   **Picks:** Dave
 - [Drifting Ruby Podcast](https://www.driftingruby.com)
   Adam
 - [The Daily Stoic&nbsp;](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/B01MA32SO0)
 - [Profit First](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making-ebook/dp/B01HCGYTH4/ref=sr_1_1?s=books&ie=UTF8&qid=1511293572&sr=1-1&keywords=Profit+First)
-- [Interestings Podcast](http://podcast.codingzeal.com)
+- [Interestings Podcast](https://podcast.codingzeal.com)
   Eric
 - [Bottega&nbsp;](https://bottega.tech)
   Brian
-- [officehours.io](http://officehours.io)
+- [officehours.io](https://officehours.io)
 
 ### Transcript
 

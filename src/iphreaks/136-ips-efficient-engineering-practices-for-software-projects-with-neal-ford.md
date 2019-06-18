@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/neal4d)
 - [GitHub](https://github.com/nealford)
-- [Blog](http://nealford.com/)
+- [Blog](https://nealford.com/)
 - [iPhreaks Episode #84: Building Your Technology Radar with Neal Ford](https://devchat.tv/iphreaks/084-iphreaks-show-building-your-technology-radar-with-neal-ford)
 - [iPhreaks Show Episode #119: Ambient Information and the Apple Watch with Neal Ford](https://devchat.tv/iphreaks/119-ips-ambient-information-and-the-apple-watch-with-neal-ford)
 - [ThoughtWorks](https://www.thoughtworks.com/)
@@ -26,30 +26,30 @@ tags:
 - [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 - [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
   - Continuous Integration Servers
-    - [CruiseControl](http://cruisecontrol.sourceforge.net/)
+    - [CruiseControl](https://cruisecontrol.sourceforge.net/)
 - [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery)
 
 08:42 - Feature Branching
 
-- [Martin Fowler: FeatureBranch](http://martinfowler.com/bliki/FeatureBranch.html)
+- [Martin Fowler: FeatureBranch](https://martinfowler.com/bliki/FeatureBranch.html)
 
 12:13 - Bad Things About Feature Branching
 
 - Merge Ambush
 - No Opportunistic Refactoring
-  - [ClearCase](http://www.ibm.com/software/products/en/clearcase)
+  - [ClearCase](https://www.ibm.com/software/products/en/clearcase)
 - Merge Conflicts
 
-17:02 - [Trunk Based Development](http://www.alwaysagileconsulting.com/articles/organisation-pattern-trunk-based-development/)
+17:02 - [Trunk Based Development](https://www.alwaysagileconsulting.com/articles/organisation-pattern-trunk-based-development/)
 
 - Feature Toggles
-  - [Martin Fowler: Feature Toggles](http://martinfowler.com/bliki/FeatureToggle.html)
+  - [Martin Fowler: Feature Toggles](https://martinfowler.com/bliki/FeatureToggle.html)
 
 24:10 - Continuous Integration (Cont’d)
 
 26:58 - [Hypothesis-Driven Development](https://dzone.com/articles/hypothesis-driven-development) (Experiment-Driven Development)
 
-- [Radiolab Podcast: The Trust Engineers](http://www.radiolab.org/story/trust-engineers/)
+- [Radiolab Podcast: The Trust Engineers](https://www.radiolab.org/story/trust-engineers/)
 
 32:08 - Pull Requests
 
@@ -64,15 +64,15 @@ tags:
 - [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
 - [Functional Testing](https://en.wikipedia.org/wiki/Functional_testing)
 
-49:15 - Consulting Judo - [Michael Nygard](http://www.michaelnygard.com/)
+49:15 - Consulting Judo - [Michael Nygard](https://www.michaelnygard.com/)
 
 - “Demonstration trumps discussion.”
   54:28 - Eliminating Pain Points; Automation & Delegation
-- [The Productive Programmer by Neal Ford](http://www.amazon.com/Productive-Programmer-Theory-Practice-OReilly/dp/0596519788)
-- [Eventual Millionaire Podcast](http://eventualmillionaire.com/)
+- [The Productive Programmer by Neal Ford](https://www.amazon.com/Productive-Programmer-Theory-Practice-OReilly/dp/0596519788)
+- [Eventual Millionaire Podcast](https://eventualmillionaire.com/)
   01:00:33 - The Out-of-town Consultant EffectPicks
 
-[Apple TV](http://www.apple.com/tv/) (Jaim)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)[iOS Remote Conf](https://allremoteconfs.com/ios-2016) (Chuck)[LaunchDarkly](https://launchdarkly.com/) (Neal)[Grasp](http://www.graspjs.com/) (Neal)
+[Apple TV](https://www.apple.com/tv/) (Jaim)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)[iOS Remote Conf](https://allremoteconfs.com/ios-2016) (Chuck)[LaunchDarkly](https://launchdarkly.com/) (Neal)[Grasp](https://www.graspjs.com/) (Neal)
 
 ### Transcript
 

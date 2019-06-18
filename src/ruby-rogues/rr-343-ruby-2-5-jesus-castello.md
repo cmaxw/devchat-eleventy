@@ -31,8 +31,8 @@ tags:
   **Links:**
 - [https://github.com/ruby/ruby/blob/v2_5_0_preview1/NEWS](https://github.com/ruby/ruby/blob/v2_5_0_preview1/NEWS)
 - [https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/](https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/)
-- [http://www.rubyguides.com/2017/11/ruby-2-5-performance/](http://www.rubyguides.com/2017/11/ruby-2-5-performance/)
-- [http://www.rubyguides.com](http://www.rubyguides.com)
+- [https://www.rubyguides.com/2017/11/ruby-2-5-performance/](https://www.rubyguides.com/2017/11/ruby-2-5-performance/)
+- [https://www.rubyguides.com](https://www.rubyguides.com)
 - @matugm
 -
 
@@ -47,10 +47,10 @@ tags:
   Charles
 - [New Shows&nbsp; - React, View and Elixir Indiegogo](https://www.indiegogo.com)
 - [React Dev Summit](https://reactdevsummit.com)
-- [DevChat.tv/events](http://DevChat.tv/events)
+- [DevChat.tv/events](https://DevChat.tv/events)
   Jesus
-- [Ruby Gems&nbsp; - Table Print](http://tableprintgem.com)
+- [Ruby Gems&nbsp; - Table Print](https://tableprintgem.com)
 - [Rails ERV](https://apidock.com/ruby/ERB)
-- [Ruby Guides&nbsp;](http://www.rubyguides.com)
+- [Ruby Guides&nbsp;](https://www.rubyguides.com)
 
 ### Transcript

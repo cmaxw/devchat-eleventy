@@ -30,7 +30,7 @@ Check out [allremoteconfs.com](https://allremoteconfs.com/) to get in on all the
 
 - [@code](https://twitter.com/code)
 
-03:49 - Built on [Electron](http://electron.atom.io/)
+03:49 - Built on [Electron](https://electron.atom.io/)
 
 - [JavaScript Jabber Episode #193: Electron with Jessica Lord and Amy Palamountain](https://devchat.tv/js-jabber/193-jsj-electron-with-jessica-lord-and-amy-palamountain)
 
@@ -65,7 +65,7 @@ Check out [allremoteconfs.com](https://allremoteconfs.com/) to get in on all the
 
 58:15 - Design PatternsPicks
 
-[LEGO Star Wars: The Force Awakens Video Game - Announce Teaser Trailer](https://www.youtube.com/watch?v=i0IJqIzO_YM) (Joe)[Firebase](http://www.firebase.com) (Joe)[Progress bar noticeably slows down npm install: Issue #11283](https://github.com/npm/npm/issues/11283#issuecomment-175246823) (Jamison)[Darkest Dungeon](http://www.darkestdungeon.com/) (Jamison)[Trek Glowacki Twitter Thread](https://twitter.com/trek/status/692116840940716032) (Jamison)[Mogo Portable Seat](https://smile.amazon.com/gp/product/B00KQ1M1XM/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1) (Chuck)[Clear Acrylic Wall Mountable 10 Slot Dry Erase Marker & Eraser Holder Organizer Rack](https://smile.amazon.com/gp/product/B017MPK6SG/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1) (Chuck)[Bitmap Graphics SIGGRAPH'84 Course Notes](https://pdos.csail.mit.edu/~rsc/pike84bitblt.pdf) (Erich) Salsa (Chris)[The Microsoft Band](https://www.microsoft.com/Microsoft-Band/en-us?}&ocid=NEON_SEM_google_&cid=NEON_SEM_google) (Chris)[Making a Murderer](https://en.wikipedia.org/wiki/Making_a_Murderer) (Chris)
+[LEGO Star Wars: The Force Awakens Video Game - Announce Teaser Trailer](https://www.youtube.com/watch?v=i0IJqIzO_YM) (Joe)[Firebase](https://www.firebase.com) (Joe)[Progress bar noticeably slows down npm install: Issue #11283](https://github.com/npm/npm/issues/11283#issuecomment-175246823) (Jamison)[Darkest Dungeon](https://www.darkestdungeon.com/) (Jamison)[Trek Glowacki Twitter Thread](https://twitter.com/trek/status/692116840940716032) (Jamison)[Mogo Portable Seat](https://smile.amazon.com/gp/product/B00KQ1M1XM/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1) (Chuck)[Clear Acrylic Wall Mountable 10 Slot Dry Erase Marker & Eraser Holder Organizer Rack](https://smile.amazon.com/gp/product/B017MPK6SG/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1) (Chuck)[Bitmap Graphics SIGGRAPH'84 Course Notes](https://pdos.csail.mit.edu/~rsc/pike84bitblt.pdf) (Erich) Salsa (Chris)[The Microsoft Band](https://www.microsoft.com/Microsoft-Band/en-us?}&ocid=NEON_SEM_google_&cid=NEON_SEM_google) (Chris)[Making a Murderer](https://en.wikipedia.org/wiki/Making_a_Murderer) (Chris)
 
 ### Transcript
 

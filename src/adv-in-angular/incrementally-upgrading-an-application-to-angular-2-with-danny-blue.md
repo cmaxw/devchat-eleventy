@@ -14,7 +14,7 @@ tags:
 
 ## Incrementally Upgrading an Application to Angular 2 with Danny Blue
 
-On today’s episode, Charles Max Wood, Alyssa Nickel, Ward Bell, and Joe Eames discuss **Incrementally Upgrading an Application to Angular 2 with Danny Blue**. Danny is a Software Engineer at [LiveSafe](http://www.livesafemobile.com/), and is an expert when it comes to web technology. Danny talks about upgrading jQuery spa. &nbsp;&nbsp;
+On today’s episode, Charles Max Wood, Alyssa Nickel, Ward Bell, and Joe Eames discuss **Incrementally Upgrading an Application to Angular 2 with Danny Blue**. Danny is a Software Engineer at [LiveSafe](https://www.livesafemobile.com/), and is an expert when it comes to web technology. Danny talks about upgrading jQuery spa. &nbsp;&nbsp;
 
 ## jQuery&nbsp;Jokes
 
@@ -30,11 +30,11 @@ Schemas are an Angular 2 property. They are for the compiler. What most folks ar
 
 ## Picks:
 
-Alyssa: [ng-book 2](https://www.ng-book.com/2/)&nbsp;and her awesome image on [Twitter](https://twitter.com/AlyssaNicoll/status/811254869151674368), &nbsp;the deodorant love of her life by [Dove](http://www.target.com/p/dove-beauty-finish-dry-spray-antiperspirant-3-8-oz/-/A-16638950?ref=tgt_adv_XS000000&AFID=google_pla_df&CPNG=PLA_Health+Beauty+Shopping&adgroup=SC_Health+Beauty&LID=700000001170770pgs&network=g&device=c&location=9011784&gclid=Cj0KEQiAyuPCBRCimuayhb3qqvwBEiQAgz62kVGV5ph9lrAcGNZB4LScJhj7m5e11A3DLdffpxn2qCUaAtwS8P8HAQ&gclsrc=aw.ds)&nbsp;and a [YouTube video](https://www.youtube.com/watch?v=kfOmCwp7PmI). Joe: [Star&nbsp;Wars: Rogue One](http://www.starwars.com/films/rogue-one), his friend [Roman](https://twitter.com/roman_hry) and the [Overwatch](https://playoverwatch.com/en-us/) game Charles: [Death Star costs](https://www.ovoenergy.com/blog/energy/as-rogue-one-arrives-in-cinemas-we-estimate-the-cost-of-powering-the-death-star.html)Danny: [Doom 2016](http://doom.com/en-us/), [Masters of Doom](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155)&nbsp;RX c-sharp unity library is out there for building games with reactive streams.
+Alyssa: [ng-book 2](https://www.ng-book.com/2/)&nbsp;and her awesome image on [Twitter](https://twitter.com/AlyssaNicoll/status/811254869151674368), &nbsp;the deodorant love of her life by [Dove](https://www.target.com/p/dove-beauty-finish-dry-spray-antiperspirant-3-8-oz/-/A-16638950?ref=tgt_adv_XS000000&AFID=google_pla_df&CPNG=PLA_Health+Beauty+Shopping&adgroup=SC_Health+Beauty&LID=700000001170770pgs&network=g&device=c&location=9011784&gclid=Cj0KEQiAyuPCBRCimuayhb3qqvwBEiQAgz62kVGV5ph9lrAcGNZB4LScJhj7m5e11A3DLdffpxn2qCUaAtwS8P8HAQ&gclsrc=aw.ds)&nbsp;and a [YouTube video](https://www.youtube.com/watch?v=kfOmCwp7PmI). Joe: [Star&nbsp;Wars: Rogue One](https://www.starwars.com/films/rogue-one), his friend [Roman](https://twitter.com/roman_hry) and the [Overwatch](https://playoverwatch.com/en-us/) game Charles: [Death Star costs](https://www.ovoenergy.com/blog/energy/as-rogue-one-arrives-in-cinemas-we-estimate-the-cost-of-powering-the-death-star.html)Danny: [Doom 2016](https://doom.com/en-us/), [Masters of Doom](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155)&nbsp;RX c-sharp unity library is out there for building games with reactive streams.
 
 ## Links:
 
-[Hire.com bonus](http://hire.com/adventuresinangular)&nbsp; &nbsp;
+[Hire.com bonus](https://hire.com/adventuresinangular)&nbsp; &nbsp;
 
 ### Transcript
 

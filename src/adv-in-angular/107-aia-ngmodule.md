@@ -19,7 +19,7 @@ tags:
 
 ### **Picks**
 
-[_Stranger Things_](http://www.imdb.com/title/tt4574334/) on Netflix (Joe)[_Game of Thrones_](http://www.hbo.com/game-of-thrones) (Jules)[Angular 2 Class](http://ftlauderdale.ng-learn.com) with John Pop and Dan Moleen. Use code “AIA” for \$200 off registration (Joe)[Gboard](https://itunes.apple.com/us/app/gboard-search.-gifs.-emojis/id1091700242?mt=8) for iPhone (Jules)[Factorio](https://www.factorio.com/) game (Steve)[Electric Knife Sharpener](https://www.amazon.com/Choice-Trizor-EdgeSelect-Electric-Sharpener/dp/B0018RSEMU) (Ward)[IdeaBlade](https://www.ideablade.com/) (Ward)[Freshdesk](https://freshdesk.com/) (Charles)
+[_Stranger Things_](https://www.imdb.com/title/tt4574334/) on Netflix (Joe)[_Game of Thrones_](https://www.hbo.com/game-of-thrones) (Jules)[Angular 2 Class](https://ftlauderdale.ng-learn.com) with John Pop and Dan Moleen. Use code “AIA” for \$200 off registration (Joe)[Gboard](https://itunes.apple.com/us/app/gboard-search.-gifs.-emojis/id1091700242?mt=8) for iPhone (Jules)[Factorio](https://www.factorio.com/) game (Steve)[Electric Knife Sharpener](https://www.amazon.com/Choice-Trizor-EdgeSelect-Electric-Sharpener/dp/B0018RSEMU) (Ward)[IdeaBlade](https://www.ideablade.com/) (Ward)[Freshdesk](https://freshdesk.com/) (Charles)
 
 ### Transcript
 

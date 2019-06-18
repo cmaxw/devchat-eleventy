@@ -20,29 +20,29 @@ Sign up for [Ruby Remote Conf!!](https://rubyremoteconf.com/)
 
 - [Twitter](https://twitter.com/jeremyevans0)
 - [GitHub](https://github.com/jeremyevans)
-- [Blog](http://code.jeremyevans.net/)
-- [Sequel](http://sequel.jeremyevans.net/)
-- [Ruby Hero Awards](http://rubyheroes.com/)
+- [Blog](https://code.jeremyevans.net/)
+- [Sequel](https://sequel.jeremyevans.net/)
+- [Ruby Hero Awards](https://rubyheroes.com/)
 
-03:58 - [Roda](http://roda.jeremyevans.net/) and Routing Trees
+03:58 - [Roda](https://roda.jeremyevans.net/) and Routing Trees
 
 - [rum](https://github.com/chneukirchen/rum)
-- [Cuba](http://cuba.is/)
-  - [Ruby Rogues Episode #182: Keeping Libraries and Utilities Small and Simple with Michel Martens](http://devchat.tv/ruby-rogues/182-rr-keeping-libraries-and-utilities-small-and-simple-with-michel-martens)
+- [Cuba](https://cuba.is/)
+  - [Ruby Rogues Episode #182: Keeping Libraries and Utilities Small and Simple with Michel Martens](https://devchat.tv/ruby-rogues/182-rr-keeping-libraries-and-utilities-small-and-simple-with-michel-martens)
 - Plugins:
-  - [ClassLevelRouting](http://roda.jeremyevans.net/rdoc/classes/Roda/RodaPlugins/ClassLevelRouting.html)
+  - [ClassLevelRouting](https://roda.jeremyevans.net/rdoc/classes/Roda/RodaPlugins/ClassLevelRouting.html)
 
-08:56 - Roda vs [Padrino](http://www.padrinorb.com/), [Sinatra](http://www.sinatrarb.com/)
+08:56 - Roda vs [Padrino](https://www.padrinorb.com/), [Sinatra](https://www.sinatrarb.com/)
 
 10:03 - Nested Routing
 
 11:09 - Snipping Routing Trees?
 
-- [MultiRoute](http://roda.jeremyevans.net/rdoc/classes/Roda/RodaPlugins/MultiRoute.html)
+- [MultiRoute](https://roda.jeremyevans.net/rdoc/classes/Roda/RodaPlugins/MultiRoute.html)
 
-13:19 - Dispatching from One [Rack](http://rack.github.io/) Application to Another
+13:19 - Dispatching from One [Rack](https://rack.github.io/) Application to Another
 
-13:54 - [Rails](http://rubyonrails.org/) Integration
+13:54 - [Rails](https://rubyonrails.org/) Integration
 
 14:33 - Performance and Benchmarking
 
@@ -57,21 +57,21 @@ Sign up for [Ruby Remote Conf!!](https://rubyremoteconf.com/)
 
 19:26 - Support Decisions (Roadmapping)
 
-- [Opal](http://opalrb.org/)
-  - More on Opal: [Ruby Rogues Episode #193: The Volt Framework with Ryan Stout](http://devchat.tv/ruby-rogues/193-rr-the-volt-framework-with-ryan-stout)
+- [Opal](https://opalrb.org/)
+  - More on Opal: [Ruby Rogues Episode #193: The Volt Framework with Ryan Stout](https://devchat.tv/ruby-rogues/193-rr-the-volt-framework-with-ryan-stout)
 - [tilt](https://github.com/rtomayko/tilt)
 - [The Changelog Episode #154: All Things Ruby with 2015’s Ruby Heroes](https://changelog.com/154/)
 
 22:05 - Plugin Architecture
 
-- [Sequel](http://sequel.jeremyevans.net/)
-- [The Single Responsibility Principle](http://en.wikipedia.org/wiki/Single_responsibility_principle)
+- [Sequel](https://sequel.jeremyevans.net/)
+- [The Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 - [roda/lib/roda/plugins at master](https://github.com/jeremyevans/roda/tree/master/lib/roda/plugins)
 
 28:00 - Security
 
-- [Ruby Rogues Episode #207: Rebuilding Rails with Noah Gibbs](http://devchat.tv/ruby-rogues/207-rr-rebuilding-rails-with-noah-gibbs)
-- [DefaultHeaders](http://roda.jeremyevans.net/rdoc/classes/Roda/RodaPlugins/DefaultHeaders.html)
+- [Ruby Rogues Episode #207: Rebuilding Rails with Noah Gibbs](https://devchat.tv/ruby-rogues/207-rr-rebuilding-rails-with-noah-gibbs)
+- [DefaultHeaders](https://roda.jeremyevans.net/rdoc/classes/Roda/RodaPlugins/DefaultHeaders.html)
 
 30:17 - Apps That Work Well with Roda and Using Roda
 
@@ -85,23 +85,23 @@ Sign up for [Ruby Remote Conf!!](https://rubyremoteconf.com/)
 
 40:01 - Jeremy’s Work/Life Balance
 
-- [OpenBSD](http://www.openbsd.org/)
+- [OpenBSD](https://www.openbsd.org/)
 
-43:46 - [Open Source](http://en.wikipedia.org/wiki/Open_source)
+43:46 - [Open Source](https://en.wikipedia.org/wiki/Open_source)
 
 - Getting Paid
 - Picking a Project
 
 49:03 - Application Optimization
 
-- [Big O Notation](http://en.wikipedia.org/wiki/Big_O_notation)
+- [Big O Notation](https://en.wikipedia.org/wiki/Big_O_notation)
 
 57:00 - Routing Approaches
 
-- [The Annotated C++ Reference Manual by Ellis and Stroustrup](http://www.stroustrup.com/arm.html)
+- [The Annotated C++ Reference Manual by Ellis and Stroustrup](https://www.stroustrup.com/arm.html)
   Picks
 
-[Self: The Movie;](https://www.youtube.com/watch?v=Ox5P7QyL774) (Avdi)[Self and Self: Whys and Wherefores](https://www.youtube.com/watch?v=3ka4KY7TMTU) (Avdi)[April Fools Video Prank in Math Class](https://www.youtube.com/watch?v=P2SsIYEbCio) (Saron)[A pattern language for microservices](http://microservices.io/patterns/index.html) (Coraline)[Wytches](https://www.comixology.com/Wytches/comics-series/26096) (Coraline)[Garmin Vivosmart](http://www.amazon.com/gp/product/B00N7MHMWM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00N7MHMWM&linkCode=as2&tag=chamaxwoo-20&linkId=OIAYU3ODSCX46PIB) (David)["REDNECK AVENGERS: TULSA NIGHTS" — A Bad Lip Reading of Marvel's The Avengers](https://www.youtube.com/watch?v=OOQnk-hRVuc&feature=youtu.be) (David)[CodeNewbie Episode #37: From Skates To Code with Aimee Knight](http://www.codenewbie.org/podcast/from-skates-to-code) (Chuck)[This Is Your Life Podcast](http://michaelhyatt.com/thisisyourlife) (Chuck) Cleaning off your desk (Chuck)[Ys](http://en.wikipedia.org/wiki/Ys_%28series%29) (Jeremy)[minjs](https://github.com/i10a/minjs) (Jeremy)[Camp (2013)](http://www.imdb.com/title/tt2371287/) (Jeremy)&nbsp;
+[Self: The Movie;](https://www.youtube.com/watch?v=Ox5P7QyL774) (Avdi)[Self and Self: Whys and Wherefores](https://www.youtube.com/watch?v=3ka4KY7TMTU) (Avdi)[April Fools Video Prank in Math Class](https://www.youtube.com/watch?v=P2SsIYEbCio) (Saron)[A pattern language for microservices](https://microservices.io/patterns/index.html) (Coraline)[Wytches](https://www.comixology.com/Wytches/comics-series/26096) (Coraline)[Garmin Vivosmart](https://www.amazon.com/gp/product/B00N7MHMWM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00N7MHMWM&linkCode=as2&tag=chamaxwoo-20&linkId=OIAYU3ODSCX46PIB) (David)["REDNECK AVENGERS: TULSA NIGHTS" — A Bad Lip Reading of Marvel's The Avengers](https://www.youtube.com/watch?v=OOQnk-hRVuc&feature=youtu.be) (David)[CodeNewbie Episode #37: From Skates To Code with Aimee Knight](https://www.codenewbie.org/podcast/from-skates-to-code) (Chuck)[This Is Your Life Podcast](https://michaelhyatt.com/thisisyourlife) (Chuck) Cleaning off your desk (Chuck)[Ys](https://en.wikipedia.org/wiki/Ys_%28series%29) (Jeremy)[minjs](https://github.com/i10a/minjs) (Jeremy)[Camp (2013)](https://www.imdb.com/title/tt2371287/) (Jeremy)&nbsp;
 
 ### Transcript
 

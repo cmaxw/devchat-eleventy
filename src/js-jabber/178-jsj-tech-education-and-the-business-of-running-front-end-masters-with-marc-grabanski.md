@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/1Marc)
 - [GitHub](https://github.com/1Marc)
-- [Blog](http://marcgrabanski.com/about/)
+- [Blog](https://marcgrabanski.com/about/)
 
 03:35 - [The jQuery UI Datepicker](https://jqueryui.com/datepicker/)
 
@@ -26,7 +26,7 @@ tags:
 
 07:26 - The Live Streaming Phenomenon
 
-- [Twitch.tv](http://www.twitch.tv/)
+- [Twitch.tv](https://www.twitch.tv/)
 
 09:17 - Scalability
 
@@ -46,7 +46,7 @@ tags:
 
 - [egghead.io](https://egghead.io/)
 - [CodeCombat](https://codecombat.com/)
-- [NodeSchool](http://nodeschool.io/)
+- [NodeSchool](https://nodeschool.io/)
 
 21:40 - The Business Model
 
@@ -58,7 +58,7 @@ tags:
 
 25:28 - Technical Setup
 
-- [Livestream](http://livestream.com)
+- [Livestream](https://livestream.com)
 - [Firebase](https://www.firebase.com/)
 
 27:27 - Selecting Topics
@@ -77,10 +77,10 @@ tags:
 
 36:14 - eLearning Experiments
 
-- [Untrusted](http://alexnisnevich.github.io/untrusted/)
-- [exercism.io](http://exercism.io/)
-- [NodeSchool](http://nodeschool.io/)
-- [A Better Way to Learn JavaScript](http://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
+- [Untrusted](https://alexnisnevich.github.io/untrusted/)
+- [exercism.io](https://exercism.io/)
+- [NodeSchool](https://nodeschool.io/)
+- [A Better Way to Learn JavaScript](https://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
 - [My Tech High](https://mytechhigh.com/)
 
 39:30 - Giveaways
@@ -95,7 +95,7 @@ tags:
 
 Picks
 
-[Jessica Kerr: Functional Principles In React @ React Rally 2015](https://www.youtube.com/watch?v=1uRC3hmKQnM) (Jamison)[thought-haver](https://github.com/jergason/thought-haver) (Jamison)[[Frontend Masters] Angular Application Development](https://frontendmasters.com/courses/angular-app-dev/) (Aimee)[[Frontend Masters] JavaScript the Good Parts](https://frontendmasters.com/courses/javascript-the-good-parts/) (Aimee)[LÄRABAR](http://www.larabar.com/) (Aimee) Taking time off (Chuck)[The Man from U.N.C.L.E.](http://www.imdb.com/title/tt1638355/?ref_=nv_sr_1) (Joe)[BB-8 by Sphero](http://store.sphero.com/products/bb-8-by-sphero) (Joe)[ng-conf](http://www.ng-conf.org) (Joe)[The Tim Ferriss Show](http://fourhourworkweek.com/podcast/) (Marc)[CodeCombat](https://codecombat.com/) (Marc)[Untrusted](http://alexnisnevich.github.io/untrusted/) (Marc)
+[Jessica Kerr: Functional Principles In React @ React Rally 2015](https://www.youtube.com/watch?v=1uRC3hmKQnM) (Jamison)[thought-haver](https://github.com/jergason/thought-haver) (Jamison)[[Frontend Masters] Angular Application Development](https://frontendmasters.com/courses/angular-app-dev/) (Aimee)[[Frontend Masters] JavaScript the Good Parts](https://frontendmasters.com/courses/javascript-the-good-parts/) (Aimee)[LÄRABAR](https://www.larabar.com/) (Aimee) Taking time off (Chuck)[The Man from U.N.C.L.E.](https://www.imdb.com/title/tt1638355/?ref_=nv_sr_1) (Joe)[BB-8 by Sphero](https://store.sphero.com/products/bb-8-by-sphero) (Joe)[ng-conf](https://www.ng-conf.org) (Joe)[The Tim Ferriss Show](https://fourhourworkweek.com/podcast/) (Marc)[CodeCombat](https://codecombat.com/) (Marc)[Untrusted](https://alexnisnevich.github.io/untrusted/) (Marc)
 
 ### Transcript
 

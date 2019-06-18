@@ -16,18 +16,18 @@ tags:
 
 - [Twitter](https://twitter.com/davatron5000)
 - [GitHub](https://github.com/davatron5000)
-- [Blog](http://daverupert.com/)
-- [Paravel](http://paravelinc.com/)
+- [Blog](https://daverupert.com/)
+- [Paravel](https://paravelinc.com/)
 
 03:42 - Chris Coyier Introduction
 
 - [Twitter](https://twitter.com/chriscoyier)
 - [GitHub](https://github.com/chriscoyier)
-- [Blog](http://chriscoyier.net/)
+- [Blog](https://chriscoyier.net/)
 - [CSS-Tricks](https://css-tricks.com/)
-- [CodePen](http://codepen.io/)
+- [CodePen](https://codepen.io/)
 
-06:24 - [The ShopTalk Show](http://shoptalkshow.com/) and Podcasting
+06:24 - [The ShopTalk Show](https://shoptalkshow.com/) and Podcasting
 
 - [@shoptalkshow](https://twitter.com/shoptalkshow)
 - “What do I learn next?” =\> “Just Build Websites!”
@@ -35,7 +35,7 @@ tags:
 
 23:19 - Tech Is A Niche
 
-- [Paul Ford: What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+- [Paul Ford: What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 29:51 - Balancing Technical Content for All Levels of Listeners
 
@@ -45,23 +45,23 @@ tags:
 
 - [Code Golf](https://en.wikipedia.org/wiki/Code_golf)
 
-41:54 - [The Accessibility Project](http://a11yproject.com/)
+41:54 - [The Accessibility Project](https://a11yproject.com/)
 
-- [Adventures in Angular Episode #027: Accessibility with Marcy Sutton](http://devchat.tv/adventures-in-angular/027-aia-accessibility-with-marcy-sutton)
+- [Adventures in Angular Episode #027: Accessibility with Marcy Sutton](https://devchat.tv/adventures-in-angular/027-aia-accessibility-with-marcy-sutton)
 - [Anne Gibson: An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-july-31)
 
 56:02 - Favorite & Cool Episodes
 
-- [ShowTalk Show Episode #091: with Jamison Dance and Merrick Christensen](http://shoptalkshow.com/episodes/091-js-jabber/)
-- [ShopTalk Show Episode #101: with John Resig](http://shoptalkshow.com/episodes/101-john-resig/)
-- [ShopTalk Show Episode #157: with Alex Russell](http://shoptalkshow.com/episodes/157-alex-russell/) &nbsp;
-- [ShopTalk Show Episode #147: with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/)
-- [ShopTalk Show Episode #123: Special Archive Episode from 2004](http://shoptalkshow.com/episodes/123-special-archive-episode-2004/)
-- [ShopTalk Show Episode #166: with Lisa Irish](http://shoptalkshow.com/episodes/166-with-lisa-irish/)
-- [ShopTalk Show Episode #161: with Eric Meyer](http://shoptalkshow.com/episodes/161-with-eric-meyer/)
+- [ShowTalk Show Episode #091: with Jamison Dance and Merrick Christensen](https://shoptalkshow.com/episodes/091-js-jabber/)
+- [ShopTalk Show Episode #101: with John Resig](https://shoptalkshow.com/episodes/101-john-resig/)
+- [ShopTalk Show Episode #157: with Alex Russell](https://shoptalkshow.com/episodes/157-alex-russell/) &nbsp;
+- [ShopTalk Show Episode #147: with Tom Dale](https://shoptalkshow.com/episodes/147-tom-dale/)
+- [ShopTalk Show Episode #123: Special Archive Episode from 2004](https://shoptalkshow.com/episodes/123-special-archive-episode-2004/)
+- [ShopTalk Show Episode #166: with Lisa Irish](https://shoptalkshow.com/episodes/166-with-lisa-irish/)
+- [ShopTalk Show Episode #161: with Eric Meyer](https://shoptalkshow.com/episodes/161-with-eric-meyer/)
   Picks
 
-[FIFA Women's World Cup](http://www.fifa.com/womensworldcup/) (Joe)[Winnipeg](http://www.winnipeg.ca/interhom/) (Joe)[The Martian by Andy Weir](http://www.amazon.com/gp/product/0553418025/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553418025&linkCode=as2&tag=chamaxwoo-20&linkId=DB6DYY5LTBRCWIMG) (Joe)[Zapier](https://zapier.com/) (Aimee)[SparkPost](https://elements.heroku.com/addons/sparkpost) (Aimee)[dev.modern.ie/tools/vms](http://dev.modern.ie/tools/vms/) (AJ)[remote.modern.ie](https://remote.modern.ie/) (AJ)[Microsoft Edge](https://www.microsoft.com/en-us/windows/browser-for-doing) (AJ)[StarFox Zero for Wii U](http://t.co/4RTgCqJMcC) (AJ)[Hot Plate](https://gist.github.com/coolaj86/6033171) (AJ)[untrusted](http://alexnisnevich.github.io/untrusted/) (AJ)[Skiplagged](https://skiplagged.com) (Dave)[Judge John Hodgman](http://www.maximumfun.org/shows/judge-john-hodgman) (Dave)[Wayward Pines](http://www.fox.com/wayward-pines) (Chris)[Sturgill Simpson](http://sturgillsimpson.bandcamp.com/music) (Chris)[The Economic Value of Rapid Response Time](http://www.vm.ibm.com/devpages/jelliott/evrrt.html) (Dave)[The Adventure Zone](http://www.maximumfun.org/shows/adventure-zone) (Dave)[React Rally](http://reactrally.com) (Jamison)[Matsuoka Shuzo: NEVER GIVE UP](https://www.youtube.com/watch?v=KxGRhd_iWuE) (Jamison) [DESTROY WITH SCIENCE - Quantum Loop](https://www.youtube.com/watch?v=EBkmdNDIR6E) (Jamison)[Serial Podcast](http://serialpodcast.org/) (Chuck)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck)
+[FIFA Women's World Cup](https://www.fifa.com/womensworldcup/) (Joe)[Winnipeg](https://www.winnipeg.ca/interhom/) (Joe)[The Martian by Andy Weir](https://www.amazon.com/gp/product/0553418025/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553418025&linkCode=as2&tag=chamaxwoo-20&linkId=DB6DYY5LTBRCWIMG) (Joe)[Zapier](https://zapier.com/) (Aimee)[SparkPost](https://elements.heroku.com/addons/sparkpost) (Aimee)[dev.modern.ie/tools/vms](https://dev.modern.ie/tools/vms/) (AJ)[remote.modern.ie](https://remote.modern.ie/) (AJ)[Microsoft Edge](https://www.microsoft.com/en-us/windows/browser-for-doing) (AJ)[StarFox Zero for Wii U](https://t.co/4RTgCqJMcC) (AJ)[Hot Plate](https://gist.github.com/coolaj86/6033171) (AJ)[untrusted](https://alexnisnevich.github.io/untrusted/) (AJ)[Skiplagged](https://skiplagged.com) (Dave)[Judge John Hodgman](https://www.maximumfun.org/shows/judge-john-hodgman) (Dave)[Wayward Pines](https://www.fox.com/wayward-pines) (Chris)[Sturgill Simpson](https://sturgillsimpson.bandcamp.com/music) (Chris)[The Economic Value of Rapid Response Time](https://www.vm.ibm.com/devpages/jelliott/evrrt.html) (Dave)[The Adventure Zone](https://www.maximumfun.org/shows/adventure-zone) (Dave)[React Rally](https://reactrally.com) (Jamison)[Matsuoka Shuzo: NEVER GIVE UP](https://www.youtube.com/watch?v=KxGRhd_iWuE) (Jamison) [DESTROY WITH SCIENCE - Quantum Loop](https://www.youtube.com/watch?v=EBkmdNDIR6E) (Jamison)[Serial Podcast](https://serialpodcast.org/) (Chuck)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck)
 
 ### Transcript
 

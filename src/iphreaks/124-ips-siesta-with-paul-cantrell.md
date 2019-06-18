@@ -17,7 +17,7 @@ tags:
 - [Twitter](https://twitter.com/inthehands)
 - [GitHub](https://github.com/pcantrell)
 - [Blog](https://innig.net/)
-- [Bust Out Solutions](http://bustoutsolutions.com/)
+- [Bust Out Solutions](https://bustoutsolutions.com/)
 
 01:41 - [Siesta](https://github.com/bustoutsolutions/siesta)
 
@@ -41,7 +41,7 @@ tags:
 
 45:11 - ReadabilityPicks
 
-[Siesta README](https://github.com/bustoutsolutions/siesta/blob/master/README.md) (Jaim) Standing Up (Chuck)[SmartCells Anti-Fatigue Comfort Mat](http://www.amazon.com/gp/product/B0092N4H64?psc=1&redirect=true&ref_=oh_aui_search_detailpage) (Chuck)[Lifehacker Ikea Standing Desk](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html) (Chuck)[Periscope](https://www.periscope.tv/) (Chuck)[Katch](http://katch.me/) (Chuck)[The Complete Guide to the Alexander Technique](http://www.alexandertechnique.com/) (Paul)[Alexandros Salazar: The Ghost of Swift Bugs Future](http://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_203) (Paul)[99% Invisible Episode #52: Galloping Gertie](http://99percentinvisible.org/episode/episode-52-galloping-gertie/) (Paul)[Proofs and Refutations: The Logic of Mathematical Discovery by Imre Lakatos](https://en.wikipedia.org/wiki/Proofs_and_Refutations) (Paul)
+[Siesta README](https://github.com/bustoutsolutions/siesta/blob/master/README.md) (Jaim) Standing Up (Chuck)[SmartCells Anti-Fatigue Comfort Mat](https://www.amazon.com/gp/product/B0092N4H64?psc=1&redirect=true&ref_=oh_aui_search_detailpage) (Chuck)[Lifehacker Ikea Standing Desk](https://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html) (Chuck)[Periscope](https://www.periscope.tv/) (Chuck)[Katch](https://katch.me/) (Chuck)[The Complete Guide to the Alexander Technique](https://www.alexandertechnique.com/) (Paul)[Alexandros Salazar: The Ghost of Swift Bugs Future](https://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_203) (Paul)[99% Invisible Episode #52: Galloping Gertie](https://99percentinvisible.org/episode/episode-52-galloping-gertie/) (Paul)[Proofs and Refutations: The Logic of Mathematical Discovery by Imre Lakatos](https://en.wikipedia.org/wiki/Proofs_and_Refutations) (Paul)
 
 ### Transcript
 

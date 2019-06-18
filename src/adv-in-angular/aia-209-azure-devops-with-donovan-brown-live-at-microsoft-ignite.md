@@ -16,9 +16,9 @@ tags:
 
 Charles Max Woods
 
-**Special Guests:** [Donovan Brown](http://donovanbrown.com)
+**Special Guests:** [Donovan Brown](https://donovanbrown.com)
 
-In this episode, the Adventures in Angular panel talks with Donovan Brown. He is a principal DevOps Manager with Microsoft with a background in application development. He also runs one of the nation’s fastest growing online registration sites for motorsports events [DLBRACING.com](http://www.dlbracing.com). When he is not writing software, he races cars for fun. Listen to today’s episode where Chuck and Donovan talk about DevOps, Azure, Python, Angular, React, Vue, and much, much more!
+In this episode, the Adventures in Angular panel talks with Donovan Brown. He is a principal DevOps Manager with Microsoft with a background in application development. He also runs one of the nation’s fastest growing online registration sites for motorsports events [DLBRACING.com](https://www.dlbracing.com). When he is not writing software, he races cars for fun. Listen to today’s episode where Chuck and Donovan talk about DevOps, Azure, Python, Angular, React, Vue, and much, much more!
 
 **Show Topics:**
 
@@ -90,7 +90,7 @@ It guides my thought process.
 
 DevOps – we are talking about processes. Sounds like your DevOps is a flexible tool. Some people are looking for A METHOD. Like a business coach. Does Azure DevOps do that?
 
-23:13 – Guest: Azure DevOps Projects. [YoTeam.](http://donovanbrown.com/post/yo-TFS)
+23:13 – Guest: Azure DevOps Projects. [YoTeam.](https://donovanbrown.com/post/yo-TFS)
 
 Note.js, Java and others are mentioned by the Guest.
 
@@ -98,11 +98,11 @@ Note.js, Java and others are mentioned by the Guest.
 
 25:48 – Chuck: I am curious – 2 test sweets for Angular or React or Vue. How does that work?
 
-26:05 – Guest: So that is Jasmine or Mocha? So it really doesn’t matter. I’m a big fan of Mocha. It tests itself. I install local to my project alone – I can do it on any CI system in the world. [YoTeam](http://donovanbrown.com/post/yo-TFS) is not used in your pipeline. Install 2 parts – Yo and Generator – Team. Answer the questions and it’s awesome. I’ve done conferences in New Zealand.
+26:05 – Guest: So that is Jasmine or Mocha? So it really doesn’t matter. I’m a big fan of Mocha. It tests itself. I install local to my project alone – I can do it on any CI system in the world. [YoTeam](https://donovanbrown.com/post/yo-TFS) is not used in your pipeline. Install 2 parts – Yo and Generator – Team. Answer the questions and it’s awesome. I’ve done conferences in New Zealand.
 
 28:37 – Chuck: Why would I go anywhere else?
 
-28:44 – Guest: [YoTeam](http://donovanbrown.com/post/yo-TFS)&nbsp; was the idea of...
+28:44 – Guest: [YoTeam](https://donovanbrown.com/post/yo-TFS)&nbsp; was the idea of...
 
 28:57 – Check out Guest
 
@@ -218,11 +218,11 @@ The pain will motivate you.
 
 - [Donovan Brown’s GitHub](https://github.com/DarqueWarrior)
 - [Donovan Brown’s Twitter](https://twitter.com/DonovanBrown?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [Donovan Brown](http://donovanbrown.com)
+- [Donovan Brown](https://donovanbrown.com)
 - [Donovan Brown – Channel 9](https://channel9.msdn.com/Events/Speakers/donovan-brown)
 - [Donovan Brown – Microsoft](https://developer.microsoft.com/en-us/advocates/donovan-brown)
 - [Azure](https://azure.microsoft.com/en-us/free/search/?&OCID=AID719825_SEM_nLUGHrbQ&lnkd=Google_Azure_Brand&gclid=EAIaIQobChMInYG5oonk3QIVDoxpCh3XjAl7EAAYASAAEgLdh_D_BwE&dclid=CLj7g6SJ5N0CFZUGfQodq7gGrA)
-- [YoTeam](http://donovanbrown.com/post/yo-TFS)
+- [YoTeam](https://donovanbrown.com/post/yo-TFS)
 - [Azure.com/devops](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 - [GitHub](https://github.com)
 - [Azure DevOps’ Twitter](https://twitter.com/azuredevops?lang=en)
@@ -242,7 +242,7 @@ The pain will motivate you.
 
 **Donovan**
 
-- [YoTeam](http://donovanbrown.com/post/yo-Team)
-- [VSTeam Powershell Module](http://donovanbrown.com/post/PowerShell-I-would-like-you-to-meet-TFS-and-VSTS)
+- [YoTeam](https://donovanbrown.com/post/yo-Team)
+- [VSTeam Powershell Module](https://donovanbrown.com/post/PowerShell-I-would-like-you-to-meet-TFS-and-VSTS)
 
 ### Transcript

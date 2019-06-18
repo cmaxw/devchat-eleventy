@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/DanWahlin)
 - [GitHub](https://github.com/DanWahlin)
-- [Blog](http://weblogs.asp.net/dwahlin)
+- [Blog](https://weblogs.asp.net/dwahlin)
   03:24 - [Dan Wahlin: Typescript: Angular 2's Secret Weapon @ ng-conf 2016](https://www.youtube.com/watch?v=e3djIqAGqZo&index=3&list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j)04:44 - [ng-conf](https://www.ng-conf.org/) Fair Day Workshops
 - TypeScript 2 in 60ish Minutes
 - Angular 2 in 60ish Minutes
@@ -34,11 +34,11 @@ tags:
 - [John Papa: Angular 2 Workshop in Barcelona](https://johnpapa.net/angular-2-workshop-in-barcelona/) (John)
 - [Ghost](https://ghost.org) (John)
 - [CloudFlare](https://www.cloudflare.com) (John)
-- [Angular 2 Style Guide for TypeScript](http://jpapa.me/ng2style) (Lukas)
-- [Deskbound: Standing Up to a Sitting World by Kelly Starrett](http://www.amazon.com/Deskbound-Standing-Up-Sitting-World/dp/1628600586) (Lukas)
-- [iPhone](http://www.apple.com/iphone/) (Ward)
+- [Angular 2 Style Guide for TypeScript](https://jpapa.me/ng2style) (Lukas)
+- [Deskbound: Standing Up to a Sitting World by Kelly Starrett](https://www.amazon.com/Deskbound-Standing-Up-Sitting-World/dp/1628600586) (Lukas)
+- [iPhone](https://www.apple.com/iphone/) (Ward)
 - [ng-conf 2016 Starcraft Tournament](https://www.youtube.com/watch?v=J5Dj7rINOK4) (Joe)
-- [Duet](http://www.duetdisplay.com/) (Dan)
+- [Duet](https://www.duetdisplay.com/) (Dan)
 
 ### Transcript
 

@@ -120,7 +120,7 @@ I have gotten back to voice acting so check that out!
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 - Fresh Books
 
@@ -135,6 +135,6 @@ I have gotten back to voice acting so check that out!
 **Nell**
 
 - [New speed eradicator for Facebook](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=fil)
-- [The Daiso Store!](http://www.daisojapan.com)
+- [The Daiso Store!](https://www.daisojapan.com)
 
 ### Transcript

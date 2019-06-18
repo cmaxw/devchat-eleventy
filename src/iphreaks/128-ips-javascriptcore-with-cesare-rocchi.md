@@ -15,24 +15,24 @@ tags:
 00:58 - Cesare Rocchi Introduction
 
 - [Twitter](https://twitter.com/_funkyboy)
-- [Studio Magnolia](http://www.studiomagnolia.com/)
-- [Ray Wenderlich](http://www.raywenderlich.com/)
-- [Podrover](http://podrover.com)
+- [Studio Magnolia](https://www.studiomagnolia.com/)
+- [Ray Wenderlich](https://www.raywenderlich.com/)
+- [Podrover](https://podrover.com)
 
-01:55 - [JavaScriptCore](http://trac.webkit.org/wiki/JavaScriptCore)
+01:55 - [JavaScriptCore](https://trac.webkit.org/wiki/JavaScriptCore)
 
-- <u><a style="text-decoration: none;" href="http://asciiwwdc.com/">asciiwwdc</a></u>
+- <u><a style="text-decoration: none;" href="https://asciiwwdc.com/">asciiwwdc</a></u>
 - [webkit.org/blog](https://www.webkit.org/blog/)
 
 04:15 - [WKWebView](https://developer.apple.com/library/ios/documentation/WebKit/Reference/WKWebView_Ref/)s
 
 - Web Assets: Local vs On The Web
   - [UIWebView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIWebView_Class/index.html#//apple_ref/occ/cl/UIWebView)
-  - [The Ionic Framework](http://ionicframework.com)
+  - [The Ionic Framework](https://ionicframework.com)
   - [Adventures in Angular Episode #064: Ionic with Matt Kremer and Mike Hartington](https://devchat.tv/adventures-in-angular/064-aia-ionic-with-matt-kremer-and-mike-hartington)&nbsp;&nbsp;
-  - [JSContext](http://opensource.apple.com/source/JavaScriptCore/JavaScriptCore-7537.65/API/JSContext.h)
+  - [JSContext](https://opensource.apple.com/source/JavaScriptCore/JavaScriptCore-7537.65/API/JSContext.h)
 - MacOS and iOS Platforms
-  - <u><a style="text-decoration: none;" href="http://electron.atom.io/">Electron</a></u>
+  - <u><a style="text-decoration: none;" href="https://electron.atom.io/">Electron</a></u>
   - [Cordova](https://cordova.apache.org/)
   - [React](https://facebook.github.io/react/)
 
@@ -40,13 +40,13 @@ tags:
 
 27:48 - Performance and Upgrades
 
-- [LLVM](http://llvm.org/)
+- [LLVM](https://llvm.org/)
 
 32:17 - Organizing JS Code with Exports
 
 33:47 - Background Processes in JavaScriptPicks
 
-[Highrise](https://highrisehq.com/) (Chuck)[The Ionic Framework](http://ionicframework.com) (Chuck) Podcasting (Cesare)[Pick Up Podcasting](http://pickuppodcasting.com/) (Chuck)
+[Highrise](https://highrisehq.com/) (Chuck)[The Ionic Framework](https://ionicframework.com) (Chuck) Podcasting (Cesare)[Pick Up Podcasting](https://pickuppodcasting.com/) (Chuck)
 
 ### Transcript
 

@@ -16,9 +16,9 @@ tags:
 
 - [Twitter](https://twitter.com/azamsharp)
 - [GitHub](https://github.com/azamsharp)
-- [Blog](http://www.azamsharp.com/)
-- [Blinds.com](http://www.blinds.com/)
-- [7 Minute Body](http://7minutebodyapp.com)
+- [Blog](https://www.azamsharp.com/)
+- [Blinds.com](https://www.blinds.com/)
+- [7 Minute Body](https://7minutebodyapp.com)
 
 02:14 - [iBeacons](https://en.wikipedia.org/wiki/IBeacon)
 
@@ -28,7 +28,7 @@ tags:
 
 05:56 - Can you fake out an iBeacon?
 
-- [Estimote Beacons](http://estimote.com/)
+- [Estimote Beacons](https://estimote.com/)
 
 07:12 - Why the slow adoption of iBeacons?
 
@@ -36,7 +36,7 @@ tags:
 
 14:21 - Precision
 
-- [Nearables are here: introducing Estimote Stickers](http://blog.estimote.com/post/95382199590/nearables-are-here-introducing-estimote-stickers)
+- [Nearables are here: introducing Estimote Stickers](https://blog.estimote.com/post/95382199590/nearables-are-here-introducing-estimote-stickers)
 
 18:12 - Range
 
@@ -52,7 +52,7 @@ tags:
 - [MactsAsBeacon](https://github.com/timd/MactsAsBeacon)
   30:35 - More Use CasesPicks
 
-[Anker PowerPort 5](http://www.amazon.com/gp/product/B00VH8ZW02/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VH8ZW02&linkCode=as2&tag=chamaxwoo-20&linkId=KT73FTVRBBD7QGFN) (Alondo)[FIRST LEGO League](http://www.firstlegoleague.org/) (Jaim)[UIStackView](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIStackView_Class_Reference/) (Andrew)[Rewind](http://www.araelium.com/rewind) (Andrew)[DMG Canvas](http://www.araelium.com/dmgcanvas) (Andrew)[Allrecipes](http://allrecipes.com/) (Chuck)[LinkedIn](https://www.linkedin.com/) (Chuck)[7 Minute Body](http://7minutebodyapp.com) (Azam)
+[Anker PowerPort 5](https://www.amazon.com/gp/product/B00VH8ZW02/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VH8ZW02&linkCode=as2&tag=chamaxwoo-20&linkId=KT73FTVRBBD7QGFN) (Alondo)[FIRST LEGO League](https://www.firstlegoleague.org/) (Jaim)[UIStackView](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIStackView_Class_Reference/) (Andrew)[Rewind](https://www.araelium.com/rewind) (Andrew)[DMG Canvas](https://www.araelium.com/dmgcanvas) (Andrew)[Allrecipes](https://allrecipes.com/) (Chuck)[LinkedIn](https://www.linkedin.com/) (Chuck)[7 Minute Body](https://7minutebodyapp.com) (Azam)
 
 ### Transcript
 

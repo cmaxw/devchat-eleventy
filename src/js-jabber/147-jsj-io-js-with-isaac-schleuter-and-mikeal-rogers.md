@@ -16,19 +16,19 @@ tags:
 
 - [Twitter](https://twitter.com/mikeal)
 - [GitHub](https://github.com/mikeal)
-- [Blog](http://www.futurealoof.com/)
-- [JavaScript Jabber Episode 084: Node with Mikeal Rogers](http://devchat.tv/js-jabber/084-jsj-node-with-mikeal-rogers)
-- [Node](http://nodejs.org/)
+- [Blog](https://www.futurealoof.com/)
+- [JavaScript Jabber Episode 084: Node with Mikeal Rogers](https://devchat.tv/js-jabber/084-jsj-node-with-mikeal-rogers)
+- [Node](https://nodejs.org/)
   - [@nodejs](https://twitter.com/nodejs)
-- [NodeConf](http://nodeconf.com/)
+- [NodeConf](https://nodeconf.com/)
   - [@nodeconf](https://twitter.com/nodeconf)
 
 02:48 - Isaac Z. Schlueter Introduction
 
 - [Twitter](https://twitter.com/izs)
 - [GitHub](https://github.com/isaacs)
-- [Blog](http://blog.izs.me/)
-- [JavaScript Jabber Episode #127: Changes in npm-Land with Forrest Norvell, Rebecca Turner, Ben Coe, and Isaac Z. Schlueter](http://devchat.tv/js-jabber/127-jsj-changes-in-npm-land-with-forrest-norvell-rebecca-turner-ben-coe-and-isaac-z-schlueter)
+- [Blog](https://blog.izs.me/)
+- [JavaScript Jabber Episode #127: Changes in npm-Land with Forrest Norvell, Rebecca Turner, Ben Coe, and Isaac Z. Schlueter](https://devchat.tv/js-jabber/127-jsj-changes-in-npm-land-with-forrest-norvell-rebecca-turner-ben-coe-and-isaac-z-schlueter)
 - [npm](https://www.npmjs.com/)
   - [@npmjs](https://twitter.com/npmjs)
 
@@ -39,8 +39,8 @@ tags:
 - [Packages that currently do not work with io.js](https://github.com/iojs/io.js/issues/456)
 - [Release proposal: v1.2.0](https://github.com/iojs/io.js/issues/768)
   - [@official_iojs](https://twitter.com/official_iojs)
-- [Node Forward](http://nodeforward.org/)
-- [Io (Programming Language)](<http://en.wikipedia.org/wiki/Io_(programming_language)>)
+- [Node Forward](https://nodeforward.org/)
+- [Io (Programming Language)](<https://en.wikipedia.org/wiki/Io_(programming_language)>)
   - [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages by Bruce A. Tate](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks)
 
 06:21 - Technical Differences Between Node and io.js
@@ -48,10 +48,10 @@ tags:
 - [V8 JavaScript Engine](https://code.google.com/p/v8/)
 - Contributors:
   - [Fedor Indutny](https://github.com/indutny)
-  - [Ryan Dahl](http://www.quora.com/Who-is-Ryan-Dahl)
+  - [Ryan Dahl](https://www.quora.com/Who-is-Ryan-Dahl)
     - [Joyent](https://www.joyent.com/)
   - [Rod Vagg](https://github.com/rvagg)
-  - [Domenic Denicola](http://domenicdenicola.com/)
+  - [Domenic Denicola](https://domenicdenicola.com/)
   - [Mikeal Rogers](https://github.com/mikeal)
 
 10:28 - Rebrand
@@ -62,11 +62,11 @@ tags:
 
 14:16 - Governance
 
-- [The Consensus Seeking Model](http://en.wikipedia.org/wiki/Consensus-seeking_decision-making)
+- [The Consensus Seeking Model](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)
 
 16:09 - Versioning
 
-- [SemVer](http://semver.org/)
+- [SemVer](https://semver.org/)
 
 23:54 - Running Node and io.js Simultaneously
 
@@ -84,7 +84,7 @@ tags:
 
 32:47 - ARMv5 and ARMv6l Support
 
-- [Raspberry Pi](http://www.raspberrypi.org/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
 - [iojs/build](https://github.com/iojs/build)
 
 36:22 - Community
@@ -93,8 +93,8 @@ tags:
 
 40:23 - Open Source
 
-- [Merb](http://en.wikipedia.org/wiki/Merb)
-- [CommonJS](http://en.wikipedia.org/wiki/CommonJS)
+- [Merb](https://en.wikipedia.org/wiki/Merb)
+- [CommonJS](https://en.wikipedia.org/wiki/CommonJS)
 
 ### Transcript
 

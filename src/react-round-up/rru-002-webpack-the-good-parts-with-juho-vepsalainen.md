@@ -40,7 +40,7 @@ In this episode of React Round Up, the panel discusses Webpack the good parts wi
 - There is no reason to use a newer tool if it already works in an older tool
 - Are there particular plug-ins that you use in Webpack that you really like?
 - HTML plug-in
-- [React Native](http://facebook.github.io/react-native/)
+- [React Native](https://facebook.github.io/react-native/)
 - Interesting Webpack project uses
 - [Juho’s GitHub](https://github.com/bebraw)
 - Decreasing need to be a Webpacker expert
@@ -52,7 +52,7 @@ In this episode of React Round Up, the panel discusses Webpack the good parts wi
 - [Webpack](https://webpack.js.org/)
 - [SuviveJS](https://survivejs.com/)
 - [React](https://reactjs.org/)
-- [React Native](http://facebook.github.io/react-native/)
+- [React Native](https://facebook.github.io/react-native/)
 - [Juho’s GitHub](https://github.com/bebraw)
 - [NGconf](https://www.ng-conf.org/)
 - [React Finland Conference](https://react-finland.fi/)
@@ -62,7 +62,7 @@ In this episode of React Round Up, the panel discusses Webpack the good parts wi
 Charles
 
 - [React Dev Summit](https://reactdevsummit.com/)
-- [View on Vue Podcast](http://viewsonvue.com/)
+- [View on Vue Podcast](https://viewsonvue.com/)
 - [_The Whole-Brain Child_ by Daniel J. Siegel and Tina Payne Bryson](https://www.amazon.com/Whole-Brain-Child-Revolutionary-Strategies-Developing/dp/0553386697)
 - [Scott Beebe](https://www.mybusinessonpurpose.com/)
 

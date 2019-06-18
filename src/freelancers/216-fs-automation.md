@@ -14,7 +14,7 @@ tags:
 
 02:14 - Why automate? Are there cases where you shouldn’t automate?
 
-- [<u>The Eventual Millionaire: Procrastinate on Purpose with Rory Vaden</u>](http://eventualmillionaire.com/roryvaden/)
+- [<u>The Eventual Millionaire: Procrastinate on Purpose with Rory Vaden</u>](https://eventualmillionaire.com/roryvaden/)
 - [<u>Procrastinate on Purpose: 5 Permissions to Multiply Your Time by Rory Vaden</u>](https://www.amazon.com/Procrastinate-Purpose-Permissions-Multiply-Your/dp/0399170626)
 - "The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency." -- Bill Gates
 
@@ -31,12 +31,12 @@ tags:
 - [<u>Zapier</u>](https://zapier.com/)
 - Unfollowers (Now [<u>Statusbrew</u>](https://statusbrew.com/))
 - [<u>Trello</u>](https://trello.com/)
-- [<u>Gravity Forms</u>](http://www.gravityforms.com/)
+- [<u>Gravity Forms</u>](https://www.gravityforms.com/)
 - [<u>SendGrid</u>](https://sendgrid.com/)
 
 36:58 - Getting Started With Automation
 
-- [<u>McDonald's Corporation: A Real Estate Empire Financed by French Fries</u>](http://www.fool.com/investing/general/2016/03/06/mcdonalds-corporation-a-real-estate-empire-finance.aspx)
+- [<u>McDonald's Corporation: A Real Estate Empire Financed by French Fries</u>](https://www.fool.com/investing/general/2016/03/06/mcdonalds-corporation-a-real-estate-empire-finance.aspx)
 - [<u>The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich by Timothy Ferriss</u>](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_1?s=books&ie=UTF8&qid=1470168508&sr=1-1&keywords=four+hour+work+week)
 - [<u>The 80/20 Rule in Business by Perry Marshall</u>](https://www.perrymarshall.com/80-20/)
   - [<u>Summary of the Perry Marshall 80/20 Sales and Marketing Book</u>](https://www.amazon.com/gp/product/B00PBK5R8Y/)
@@ -47,7 +47,7 @@ tags:
 
 - [<u>Drip</u>](https://www.getdrip.com/)
 - [<u>Zapier</u>](https://zapier.com/)
-- [<u>Gravity Forms</u>](http://www.gravityforms.com/)
+- [<u>Gravity Forms</u>](https://www.gravityforms.com/)
 - [<u>Calendly</u>](https://calendly.com/)
 - [<u>Google Docs</u>](https://www.google.com/docs/about/)
 - [<u>Evernote</u>](https://evernote.com/)
@@ -59,10 +59,10 @@ Picks
 
 - [<u>Process Street</u>](https://www.process.st/) (Philip)
 - "The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency." -- Bill Gates (Philip)
-- [<u>McDonald's Corporation: A Real Estate Empire Financed by French Fries</u>](http://www.fool.com/investing/general/2016/03/06/mcdonalds-corporation-a-real-estate-empire-finance.aspx) (Philip)
+- [<u>McDonald's Corporation: A Real Estate Empire Financed by French Fries</u>](https://www.fool.com/investing/general/2016/03/06/mcdonalds-corporation-a-real-estate-empire-finance.aspx) (Philip)
 - [<u>Summary of the Perry Marshall 80/20 Sales and Marketing Book</u>](https://www.amazon.com/gp/product/B00PBK5R8Y/) (Philip)
-- [<u>The Membership Guys</u>](http://themembershipguys.com/) (Reuven)
-- [<u>Reuven's Technical Training Facebook Group</u>](http://facebook.com/groups/techtraining) (Reuven)
+- [<u>The Membership Guys</u>](https://themembershipguys.com/) (Reuven)
+- [<u>Reuven's Technical Training Facebook Group</u>](https://facebook.com/groups/techtraining) (Reuven)
 - [<u>MemberPress</u>](https://www.memberpress.com/) (Chuck)
 - [<u>Slack</u>](https://slack.com/) (Chuck)
 - The Freelancers’ Show Facebook Group (Chuck)

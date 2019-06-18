@@ -37,7 +37,7 @@ A virus can do anything it wants once it is activated, but can be dealt with usi
 
 - [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 - [InfoSec Book Website](https://leanpub.com/b/holisticinfosecforwebdevelopers)
-- [InfoSec Book Discount: Physical and People](http://leanpub.com/holistic-infosec-for-web-developers/c/JSJabber)
+- [InfoSec Book Discount: Physical and People](https://leanpub.com/holistic-infosec-for-web-developers/c/JSJabber)
 - [InfoSec Book Discount: VPS, Network, Cloud, and Web App](https://leanpub.com/holistic-infosec-for-web-developers-fascicle1-vps-network-cloud-webapplications/c/JSJabber)
 
 ## **Picks:**

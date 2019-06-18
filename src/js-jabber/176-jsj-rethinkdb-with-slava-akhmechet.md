@@ -16,27 +16,27 @@ tags:
 
 - [Twitter](https://twitter.com/spakhm)
 - [GitHub](https://github.com/coffeemug)
-- [Blog](http://www.defmacro.org/)
+- [Blog](https://www.defmacro.org/)
 
-02:41 - [RethinkDB](http://rethinkdb.com/) Overview
+02:41 - [RethinkDB](https://rethinkdb.com/) Overview
 
 - [@rethinkdb](https://twitter.com/rethinkdb)
 - <u><a style="text-decoration: none;" href="https://github.com/rethinkdb/rethinkdb">rethinkdb repo</a></u>&nbsp; &nbsp;&nbsp;
 
 04:24 - How It’s Used
 
-- [Compose.io](http://compose.io)
+- [Compose.io](https://compose.io)
 
 05:58 - Joins
 
 12:50 - Returning Data
 
-- [JSON](http://json.org/)
+- [JSON](https://json.org/)
 
 13:53 - Getting Data to the Browser
 
 - Quora Article
-- [Socket.IO](http://socket.io/)
+- [Socket.IO](https://socket.io/)
 
 19:35 - Clustering
 
@@ -44,7 +44,7 @@ tags:
   - [Jepsen (Call Me Maybe Series)](https://aphyr.com/tags/jepsen)
   - Consensus Algorithms
 
-26:37 - [ReQL](http://rethinkdb.com/docs/introduction-to-reql/)
+26:37 - [ReQL](https://rethinkdb.com/docs/introduction-to-reql/)
 
 30:53 - Indexes
 
@@ -52,7 +52,7 @@ tags:
 
 32:18 - [MapReduce](https://en.wikipedia.org/wiki/MapReduce)
 
-35:44 - [The RethinkDB Community](http://rethinkdb.com/community/) & Contributors
+35:44 - [The RethinkDB Community](https://rethinkdb.com/community/) & Contributors
 
 38:04 - Is it production ready?
 
@@ -64,7 +64,7 @@ Extras
 - [Steve Klabnik: Systems Programming for the Ruby Developer @ Ruby Remote Conf 2015](https://www.youtube.com/watch?v=U9JmfK3gkZ4) &nbsp;
   Picks
 
-[Our World War](http://www.imdb.com/title/tt3419604/) (Dave)[Quest Protein Bars](http://www.questnutrition.com/protein-bars/) (Aimee)[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (Aimee)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[Orphan Black](http://www.imdb.com/title/tt2234222/) (Chuck)[Mr. Robot](http://www.imdb.com/title/tt4158110/) (Slava)[Rick and Morty](http://www.imdb.com/title/tt2861424/) (Slava)[The Rust Programming Language](http://rust-lang.org) (Slava)
+[Our World War](https://www.imdb.com/title/tt3419604/) (Dave)[Quest Protein Bars](https://www.questnutrition.com/protein-bars/) (Aimee)[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (Aimee)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[Orphan Black](https://www.imdb.com/title/tt2234222/) (Chuck)[Mr. Robot](https://www.imdb.com/title/tt4158110/) (Slava)[Rick and Morty](https://www.imdb.com/title/tt2861424/) (Slava)[The Rust Programming Language](https://rust-lang.org) (Slava)
 
 ### Transcript
 

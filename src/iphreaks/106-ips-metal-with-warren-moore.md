@@ -12,22 +12,22 @@ tags:
   - podcast
 ---
 
-Check out Andrew’s [Wired In](http://wearewired.in) Kickstarter! Go [here](https://www.kickstarter.com/projects/wiredin/wired-in-wireless-productivity-sign-with-arduino-a) to check it out and contribute!
+Check out Andrew’s [Wired In](https://wearewired.in) Kickstarter! Go [here](https://www.kickstarter.com/projects/wiredin/wired-in-wireless-productivity-sign-with-arduino-a) to check it out and contribute!
 
 02:53 - Warren Moore Introduction
 
 - [Twitter](https://twitter.com/warrenm)
 - [GitHub](https://github.com/warrenm)
-- [Metal By Example](http://metalbyexample.com/)
+- [Metal By Example](https://metalbyexample.com/)
 
 03:58 - Working for Apple =\> Doing Metal (Transition)
 
-05:15 - [3D Graphics APIs](http://en.wikipedia.org/wiki/Category:3D_graphics_APIs)
+05:15 - [3D Graphics APIs](https://en.wikipedia.org/wiki/Category:3D_graphics_APIs)
 
 - 3D Game Engines ([Unity](https://unity3d.com/), [Unreal](https://www.unrealengine.com/))
-- [3D Rendering](http://en.wikipedia.org/wiki/3D_rendering)
+- [3D Rendering](https://en.wikipedia.org/wiki/3D_rendering)
 - [OpenGL](https://www.opengl.org/)
-  - [GPU (Graphics Processing Unit)](http://en.wikipedia.org/wiki/Graphics_processing_unit)
+  - [GPU (Graphics Processing Unit)](https://en.wikipedia.org/wiki/Graphics_processing_unit)
   - [glVertex](https://www.opengl.org/sdk/docs/man2/xhtml/glVertex.xml)
 
 11:14 - Metal = Objective-C API&nbsp;&nbsp; &nbsp;
@@ -39,14 +39,14 @@ Check out Andrew’s [Wired In](http://wearewired.in) Kickstarter! Go [here](htt
 - Shading Languages:
   - [GLSL](https://www.opengl.org/documentation/glsl/)
   - [The Metal Shading Language](https://developer.apple.com/library/ios/documentation/Metal/Reference/MetalShadingLanguageGuide/Introduction/Introduction.html)
-- [Rasterization](http://en.wikipedia.org/wiki/Rasterisation)
+- [Rasterization](https://en.wikipedia.org/wiki/Rasterisation)
 
 19:40 - [Metal](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Introduction/Introduction.html)
 
 - Precomputed Render States
 - Explicit Memory Management
 
-22:07 - [Draw Call Batching](http://docs.unity3d.com/Manual/DrawCallBatching.html)
+22:07 - [Draw Call Batching](https://docs.unity3d.com/Manual/DrawCallBatching.html)
 
 - [UE4 "Zen Garden" Using Metal API for iOS 8 Revealed at WWDC](https://www.unrealengine.com/blog/ue4-zen-garden-using-metal-api-for-ios-8-revealed-at-wwdc)
 
@@ -55,15 +55,15 @@ Check out Andrew’s [Wired In](http://wearewired.in) Kickstarter! Go [here](htt
 26:01 - Who Is Metal For? What Else Can Metal Do? (Besides 3D Graphics)
 
 - Task Parallelism
-- Compute Programming ([GPGPU = General-Purpose Computing on Graphics Processing Units](http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units))
+- Compute Programming ([GPGPU = General-Purpose Computing on Graphics Processing Units](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units))
 - Signal Processing
   33:35 - Getting Started with Metal
-- [Metal By Example](http://metalbyexample.com/)
+- [Metal By Example](https://metalbyexample.com/)
 - [CAMetalLayer](https://developer.apple.com/library/prerelease/ios/documentation/Animation/Reference/CAMetalLayer_Ref/index.html)
 
 38:15 - Multithreading
 
-- [MTLCommandQueue](http://developer.apple.com/library/ios/documentation/Metal/reference/MTLCommandQueue_Ref/index.html)
+- [MTLCommandQueue](https://developer.apple.com/library/ios/documentation/Metal/reference/MTLCommandQueue_Ref/index.html)
 
 41:34 - Metal Adoption and Future
 
@@ -75,10 +75,10 @@ Check out Andrew’s [Wired In](http://wearewired.in) Kickstarter! Go [here](htt
 - [SceneKit](https://developer.apple.com/library/ios/documentation/SceneKit/Reference/SceneKit_Framework/)
 - [Sprite Kit](https://developer.apple.com/library/mac/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html)
 - [Core Animation](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html)
-- [Mathematics for 3D Game Programming and Computer Graphics by Eric Lengyel](http://www.amazon.com/gp/product/1435458869/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1435458869&linkCode=as2&tag=chamaxwoo-20&linkId=FL2U3IZNWQDYFWNP)
-- [OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.3 by Dave Shreiner](http://www.amazon.com/gp/product/0321773039/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321773039&linkCode=as2&tag=chamaxwoo-20&linkId=YUHNDGSP5WH55XO7)
-- [David H. Eberly](http://store.elsevier.com/David-H.-Eberly/ELS_1014226/)
-- [Mike McShaffry](http://en.wikipedia.org/wiki/Mike_McShaffry)
+- [Mathematics for 3D Game Programming and Computer Graphics by Eric Lengyel](https://www.amazon.com/gp/product/1435458869/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1435458869&linkCode=as2&tag=chamaxwoo-20&linkId=FL2U3IZNWQDYFWNP)
+- [OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.3 by Dave Shreiner](https://www.amazon.com/gp/product/0321773039/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321773039&linkCode=as2&tag=chamaxwoo-20&linkId=YUHNDGSP5WH55XO7)
+- [David H. Eberly](https://store.elsevier.com/David-H.-Eberly/ELS_1014226/)
+- [Mike McShaffry](https://en.wikipedia.org/wiki/Mike_McShaffry)
 
 ### Transcript
 

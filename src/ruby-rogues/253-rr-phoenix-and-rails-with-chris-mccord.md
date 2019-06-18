@@ -16,19 +16,19 @@ tags:
 
 - [Twitter](https://twitter.com/chris_mccord)
 - [GitHub](https://github.com/chrismccord)
-- [Blog](http://www.chrismccord.com/)
+- [Blog](https://www.chrismccord.com/)
 - [DockYard](https://dockyard.com/)
-- [Programming Phoenix: Productive |\> Reliable |\> Fast by Chris McCord, Bruce Tate, and Jose Valim](http://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453/ref=sr_1_1?ie=UTF8&qid=1458842029&sr=8-1&keywords=chris+mccord)
-- [Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!) by Chris McCord](http://www.amazon.com/Metaprogramming-Elixir-Write-Less-Code/dp/1680500414/ref=sr_1_3?ie=UTF8&qid=1458842029&sr=8-3&keywords=chris+mccord)
+- [Programming Phoenix: Productive |\> Reliable |\> Fast by Chris McCord, Bruce Tate, and Jose Valim](https://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453/ref=sr_1_1?ie=UTF8&qid=1458842029&sr=8-1&keywords=chris+mccord)
+- [Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!) by Chris McCord](https://www.amazon.com/Metaprogramming-Elixir-Write-Less-Code/dp/1680500414/ref=sr_1_3?ie=UTF8&qid=1458842029&sr=8-3&keywords=chris+mccord)
 
-02:09 - [The Phoenix Framework](http://www.phoenixframework.org/)
+02:09 - [The Phoenix Framework](https://www.phoenixframework.org/)
 
-- [The Elixir Programming Language](http://elixir-lang.org/)
+- [The Elixir Programming Language](https://elixir-lang.org/)
 - [The Erlang Programming Language](https://www.erlang.org/)
 
 02:46 - Ruby vs Elixir
 
-- [José Valim](http://blog.plataformatec.com.br/)
+- [José Valim](https://blog.plataformatec.com.br/)
 - “Programming should be enjoyable.”
 - [sync](https://github.com/chrismccord/sync)
 - [WhatsApp](https://www.whatsapp.com/)
@@ -42,7 +42,7 @@ tags:
 
 18:06 - Generating a Phoenix Project
 
-- [Mix](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
+- [Mix](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 
 20:44 - Getting Started with Phoenix; Creating and Maintaining
 
@@ -52,7 +52,7 @@ tags:
 
 30:22 - Phoenix and JavaScript; Build Tools
 
-- [Brunch](http://brunch.io/)
+- [Brunch](https://brunch.io/)
 
 37:22 - Phoenix and Elm
 
@@ -76,7 +76,7 @@ tags:
 - [UberAuth](https://angel.co/uberauth)
   01:01:08 - Phoenix PresencePicks
 
-[Radical Candor — The Surprising Secret to Being a Good Boss | First Round Review](https://www.youtube.com/watch?v=4yODalLQ2lM) (Jessica)[Flex ('Mancer) by Ferrett Steinmetz](http://www.amazon.com/Flex-Mancer-Ferrett-Steinmetz-ebook/dp/B00JNPF4BS) (Jessica)[The Teaching Company: How to Listen to and Understand Great Music](http://www.amazon.com/The-Teaching-Company-UNDERSTAND-Complete/dp/1598032704) (Jessica)[Programming Phoenix: Productive |\> Reliable |\> Fast by Chris McCord, Bruce Tate, and José Valim](https://pragprog.com/book/phoenix/programming-phoenix) (Chris)[Jose Valim: Phoenix a web framework for the new web @ Lambda Days 2016](https://www.youtube.com/watch?v=MD3P7Qan3pw) (Chris)[The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich by Timothy Ferriss](http://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_1?ie=UTF8&qid=1458668168&sr=8-1&keywords=4+hour+work+week) (Avdi)[Efficient State-based CRDTs by Delta-Mutation](http://arxiv.org/abs/1410.2803) (Chris)
+[Radical Candor — The Surprising Secret to Being a Good Boss | First Round Review](https://www.youtube.com/watch?v=4yODalLQ2lM) (Jessica)[Flex ('Mancer) by Ferrett Steinmetz](https://www.amazon.com/Flex-Mancer-Ferrett-Steinmetz-ebook/dp/B00JNPF4BS) (Jessica)[The Teaching Company: How to Listen to and Understand Great Music](https://www.amazon.com/The-Teaching-Company-UNDERSTAND-Complete/dp/1598032704) (Jessica)[Programming Phoenix: Productive |\> Reliable |\> Fast by Chris McCord, Bruce Tate, and José Valim](https://pragprog.com/book/phoenix/programming-phoenix) (Chris)[Jose Valim: Phoenix a web framework for the new web @ Lambda Days 2016](https://www.youtube.com/watch?v=MD3P7Qan3pw) (Chris)[The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich by Timothy Ferriss](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_1?ie=UTF8&qid=1458668168&sr=8-1&keywords=4+hour+work+week) (Avdi)[Efficient State-based CRDTs by Delta-Mutation](https://arxiv.org/abs/1410.2803) (Chris)
 
 ### Transcript
 

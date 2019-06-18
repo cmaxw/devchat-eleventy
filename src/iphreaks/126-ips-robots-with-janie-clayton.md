@@ -16,15 +16,15 @@ tags:
 
 - [Twitter](https://twitter.com/RedQueenCoder)
 - [GitHub](https://github.com/RedQueenCoder)
-- [Blog](http://redqueencoder.com/)
-- [iOS 8 SDK Development: Creating iPhone and iPad Apps with Swift](http://www.amazon.com/gp/product/B00ZVPQHWY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZVPQHWY&linkCode=as2&tag=chamaxwoo-20&linkId=MNE4AIVXZCA2DBOF)
-- [The Swift Apprentice: Beginning Programming with Swift 2](http://www.amazon.com/gp/product/1942878133/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1942878133&linkCode=as2&tag=chamaxwoo-20&linkId=7BMDE3N7NKBAMOCZ)
-- [Ray Wenderlich](http://www.raywenderlich.com/)
+- [Blog](https://redqueencoder.com/)
+- [iOS 8 SDK Development: Creating iPhone and iPad Apps with Swift](https://www.amazon.com/gp/product/B00ZVPQHWY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZVPQHWY&linkCode=as2&tag=chamaxwoo-20&linkId=MNE4AIVXZCA2DBOF)
+- [The Swift Apprentice: Beginning Programming with Swift 2](https://www.amazon.com/gp/product/1942878133/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1942878133&linkCode=as2&tag=chamaxwoo-20&linkId=7BMDE3N7NKBAMOCZ)
+- [Ray Wenderlich](https://www.raywenderlich.com/)
 - [Black Pixel](https://blackpixel.com/)&nbsp;&nbsp;
 
 03:02 - iOS and Robotics
 
-- [SonoPlot, Inc.](http://www.sonoplot.com/)
+- [SonoPlot, Inc.](https://www.sonoplot.com/)
 - [Brad Larson](https://twitter.com/bradlarson)
 - [GPUImage](https://github.com/BradLarson/GPUImage)
 
@@ -38,7 +38,7 @@ tags:
 
 - [Microns to Inches](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=micron%20to%20inches)
 - Mac Software
-  - [SonoDraw](http://www.sonoplot.com/content/sonodraw-113)
+  - [SonoDraw](https://www.sonoplot.com/content/sonodraw-113)
 
 18:52 - Why is robotics more complicated?
 
@@ -54,7 +54,7 @@ tags:
 
 33:44 - Open Source and [GPUImage](https://github.com/BradLarson/GPUImage)Picks
 
-[ORSSerialPort](https://github.com/armadsen/ORSSerialPort) (Andrew)[Honeycrisp Apples](https://en.wikipedia.org/wiki/Honeycrisp) (Jaim)[NSScreencast Episode #188: App Transport Security](http://nsscreencast.com/episodes/188-app-transport-security) (Jaim)[Rush Revere and the Brave Pilgrims by Rush Limbaugh](http://www.amazon.com/gp/product/1476755868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476755868&linkCode=as2&tag=chamaxwoo-20&linkId=DUOVW7TNH2CJBAOK) (Chuck)[The Magician's Nephew by C. S. Lewis](http://www.amazon.com/gp/product/0064405052/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0064405052&linkCode=as2&tag=chamaxwoo-20&linkId=2L5IQI36CBPUB3TM) (Chuck)[MONEY Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins](http://www.amazon.com/gp/product/1476757801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476757801&linkCode=as2&tag=chamaxwoo-20&linkId=OA752XGFCLPFHCRZ) (Chuck)[GPUImage](https://github.com/BradLarson/GPUImage) (Janie)[OpenGL ES Pixel Shaders Tutorial](http://www.raywenderlich.com/70208/opengl-es-pixel-shaders-tutorial) (Janie)[Programming Sucks](http://www.stilldrinking.org/programming-sucks) (Janie)
+[ORSSerialPort](https://github.com/armadsen/ORSSerialPort) (Andrew)[Honeycrisp Apples](https://en.wikipedia.org/wiki/Honeycrisp) (Jaim)[NSScreencast Episode #188: App Transport Security](https://nsscreencast.com/episodes/188-app-transport-security) (Jaim)[Rush Revere and the Brave Pilgrims by Rush Limbaugh](https://www.amazon.com/gp/product/1476755868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476755868&linkCode=as2&tag=chamaxwoo-20&linkId=DUOVW7TNH2CJBAOK) (Chuck)[The Magician's Nephew by C. S. Lewis](https://www.amazon.com/gp/product/0064405052/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0064405052&linkCode=as2&tag=chamaxwoo-20&linkId=2L5IQI36CBPUB3TM) (Chuck)[MONEY Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins](https://www.amazon.com/gp/product/1476757801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476757801&linkCode=as2&tag=chamaxwoo-20&linkId=OA752XGFCLPFHCRZ) (Chuck)[GPUImage](https://github.com/BradLarson/GPUImage) (Janie)[OpenGL ES Pixel Shaders Tutorial](https://www.raywenderlich.com/70208/opengl-es-pixel-shaders-tutorial) (Janie)[Programming Sucks](https://www.stilldrinking.org/programming-sucks) (Janie)
 
 ### Transcript
 

@@ -34,10 +34,10 @@ As a JavaScript developer, learning Docker is going to have the same pay-off wit
 
 ## Picks:
 
-AJ: [Gitlab](https://about.gitlab.com/)&nbsp;and Gitti Cory: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)&nbsp;and a steering wheel desk on Ebay Joe: [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies)&nbsp;and Angular workshop in North Carolina Aimee: [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/), haircut, and shooting Charles: [JS Remote Conf](https://devchat.tv/conferences/js-remote-conf-2017), The Invisible Sales Machine Derrick:&nbsp;[Debugging Docker Images](https://sub.watchmecode.net/debugging-docker-images),&nbsp;[EditorConfig](http://editorconfig.org/),[&nbsp;Tokaido board game](https://www.amazon.com/Passport-Game-Studios-FNF001-Tokaido/dp/B00ADNLT8G/), [YouTube gaming channel: Code-Ninja Gaming](https://www.youtube.com/channel/UC7BrMgs_sQAqAuWUwMalr9A), and self-care
+AJ: [Gitlab](https://about.gitlab.com/)&nbsp;and Gitti Cory: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)&nbsp;and a steering wheel desk on Ebay Joe: [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)&nbsp;and Angular workshop in North Carolina Aimee: [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/), haircut, and shooting Charles: [JS Remote Conf](https://devchat.tv/conferences/js-remote-conf-2017), The Invisible Sales Machine Derrick:&nbsp;[Debugging Docker Images](https://sub.watchmecode.net/debugging-docker-images),&nbsp;[EditorConfig](https://editorconfig.org/),[&nbsp;Tokaido board game](https://www.amazon.com/Passport-Game-Studios-FNF001-Tokaido/dp/B00ADNLT8G/), [YouTube gaming channel: Code-Ninja Gaming](https://www.youtube.com/channel/UC7BrMgs_sQAqAuWUwMalr9A), and self-care
 
 ## Episode Links:
 
-Docker Recipes for Node JS Developers,&nbsp;[WatchMeCode.net](https://sub.watchmecode.net/),&nbsp;[Docker](http://docker.com),&nbsp;[Dockerhub](https://hub.docker.com/),&nbsp;Dockerfile,&nbsp;Docker Toolbox,&nbsp;[Virtualbox](https://www.virtualbox.org/),&nbsp;[Rabbus](https://github.com/derickbailey/rabbus)
+Docker Recipes for Node JS Developers,&nbsp;[WatchMeCode.net](https://sub.watchmecode.net/),&nbsp;[Docker](https://docker.com),&nbsp;[Dockerhub](https://hub.docker.com/),&nbsp;Dockerfile,&nbsp;Docker Toolbox,&nbsp;[Virtualbox](https://www.virtualbox.org/),&nbsp;[Rabbus](https://github.com/derickbailey/rabbus)
 
 ### Transcript

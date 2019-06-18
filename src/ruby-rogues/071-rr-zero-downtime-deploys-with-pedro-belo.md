@@ -14,37 +14,37 @@ tags:
 
 Pedro Belo Introduction
 
-- [Heroku](http://www.heroku.com/)
+- [Heroku](https://www.heroku.com/)
   2:03 &nbsp;- Zero Downtime Deploys
-- [Amazon](http://www.amazon.com/)
-  3:53 &nbsp;- [Continuous Deployment](http://en.wikipedia.org/wiki/Continuous_delivery)4:26 &nbsp;-&nbsp;[Unicorn](http://unicorn.bogomips.org/)
-- [RailsConf](http://railsconf.com/)
-- [Ruby Rogues Episode 58: Book Club - Working With Unix Processes with Jesse Storimer](http://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer)
+- [Amazon](https://www.amazon.com/)
+  3:53 &nbsp;- [Continuous Deployment](https://en.wikipedia.org/wiki/Continuous_delivery)4:26 &nbsp;-&nbsp;[Unicorn](https://unicorn.bogomips.org/)
+- [RailsConf](https://railsconf.com/)
+- [Ruby Rogues Episode 58: Book Club - Working With Unix Processes with Jesse Storimer](https://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer)
 - Unix Processes
 - Migrations
-  13:00 &nbsp;-&nbsp;[Heroku](http://www.heroku.com/)
+  13:00 &nbsp;-&nbsp;[Heroku](https://www.heroku.com/)
 - Assets
 - Migrations
   18:13 &nbsp;- AB Cutovers
 - Gradual Deployment
 - Coordinated Rollbacks
-  22:45 &nbsp;-&nbsp;[JRuby](http://jruby.org/)
+  22:45 &nbsp;-&nbsp;[JRuby](https://jruby.org/)
 - [ActiveRecord](https://rubygems.org/gems/activerecord)
-  24:49 &nbsp;-&nbsp;[NoSQL](http://en.wikipedia.org/wiki/NoSQL)
+  24:49 &nbsp;-&nbsp;[NoSQL](https://en.wikipedia.org/wiki/NoSQL)
 - Schema Migrations
   30:00 - Feature Flippers/Toggle/Sliders
 - Staging Environment
 - FakeWeb / WebMock
 - Coordinated Rollback
   41:20 &nbsp;- Crosstalk
-- [GitHub](http://www.github.com/)
+- [GitHub](https://www.github.com/)
 - [Airbrake](https://airbrake.io/)
-  43:00 &nbsp;-&nbsp;[Splunk](http://www.splunk.com/)
+  43:00 &nbsp;-&nbsp;[Splunk](https://www.splunk.com/)
 - ConfigByte
-  43:42 &nbsp;-&nbsp;[Graphite](http://graphite.wikidot.com/)
+  43:42 &nbsp;-&nbsp;[Graphite](https://graphite.wikidot.com/)
 - Sequential Version #
   46:58 &nbsp;- Logstash
-- [Chef](http://www.chef.io/) / [Puppet](http://puppetlabs.com/)
+- [Chef](https://www.chef.io/) / [Puppet](https://puppetlabs.com/)
 
 ### Transcript
 

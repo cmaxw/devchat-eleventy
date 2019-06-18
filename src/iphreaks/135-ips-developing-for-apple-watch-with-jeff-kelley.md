@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out [JS Remote Conf](http://jsremoteconf.com/) and [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)
+Check out [JS Remote Conf](https://jsremoteconf.com/) and [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)
 
 Submit a CFP for [iOS Remote Conf](https://allremoteconfs.com/ios-2016)!
 
@@ -22,11 +22,11 @@ Submit a CFP for [iOS Remote Conf](https://allremoteconfs.com/ios-2016)!
 
 - [Twitter](https://twitter.com/slaunchaman)
 - [GitHub](https://github.com/SlaunchaMan)
-- [Blog](http://blog.slaunchaman.com/)
-- [Detroit Labs](http://www.detroitlabs.com/)
+- [Blog](https://blog.slaunchaman.com/)
+- [Detroit Labs](https://www.detroitlabs.com/)
 - [Developing for Apple Watch by Jeff Kelley](https://pragprog.com/book/jkwatch/developing-for-apple-watch)
 
-02:39 - [The Apple Watch](http://www.apple.com/watch/) (Overview)
+02:39 - [The Apple Watch](https://www.apple.com/watch/) (Overview)
 
 03:33 - How do people decide if they need a watch app?
 
@@ -70,7 +70,7 @@ Submit a CFP for [iOS Remote Conf](https://allremoteconfs.com/ios-2016)!
 
 Picks
 
-[The Song Exploder Podcast](http://songexploder.net/) (Jaim)[Erica Sadun's Blog](http://ericasadun.com) (Andrew)[Hacking Atom to create a Swift IDE that runs on Linux and Mac](https://medium.com/@Aciid/hacking-atom-to-create-a-swift-ide-that-runs-on-linux-and-mac-c7d9520a0fac#.h6b5flf67) (Andrew)[Authy](https://www.authy.com) (Andrew)[Serial Podcast](https://serialpodcast.org/) (Chuck)[BADLAND](https://geo.itunes.apple.com/us/app/badland/id535176909?mt=8&at=10lsEt) (Jeff)[swift-evolution Mailing List](https://lists.swift.org/mailman/listinfo/swift-evolution) (Jeff)[Rocket Fiber](http://rocketfiber.com/) (Jeff)
+[The Song Exploder Podcast](https://songexploder.net/) (Jaim)[Erica Sadun's Blog](https://ericasadun.com) (Andrew)[Hacking Atom to create a Swift IDE that runs on Linux and Mac](https://medium.com/@Aciid/hacking-atom-to-create-a-swift-ide-that-runs-on-linux-and-mac-c7d9520a0fac#.h6b5flf67) (Andrew)[Authy](https://www.authy.com) (Andrew)[Serial Podcast](https://serialpodcast.org/) (Chuck)[BADLAND](https://geo.itunes.apple.com/us/app/badland/id535176909?mt=8&at=10lsEt) (Jeff)[swift-evolution Mailing List](https://lists.swift.org/mailman/listinfo/swift-evolution) (Jeff)[Rocket Fiber](https://rocketfiber.com/) (Jeff)
 
 ### Transcript
 

@@ -17,7 +17,7 @@ tags:
 - AJ O’Neal
 - Aimee Knight
 - Joe Eames
-  **Special Guests:** [Nader Dabit](http://naderdabit.me/#/)
+  **Special Guests:** [Nader Dabit](https://naderdabit.me/#/)
 
 In this episode, the panel talks with programmer, Nader Dabit, who has been with Amazon’s AWS for the past six months. They discuss the new innovations that Amazon is currently working on, and the exciting new projects that Nader gets to be involved with. Check out this episode to hear all the latest!
 
@@ -119,7 +119,7 @@ In this episode, the panel talks with programmer, Nader Dabit, who has been with
 - [Nader Dabit’s Medium](https://medium.com/@dabit3)
 - [Nader Dabit’s LinkedIn](https://www.linkedin.com/in/naderdabit/)
 - [Nader Dabit’s GitHub](https://github.com/dabit3)
-- [Nader Dabit’s Website](http://naderdabit.me/#/)
+- [Nader Dabit’s Website](https://naderdabit.me/#/)
 - [Nader Dabit’s YouTube channel](https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g)
 - [Nader Dabit’s Egg Head](https://egghead.io/instructors/nader-dabit)
 - [JavaScript](https://www.javascript.com)

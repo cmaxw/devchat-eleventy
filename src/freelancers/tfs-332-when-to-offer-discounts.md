@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry small plan
+- [Sentry](https://sentry.io/)– use the code “devchat” for two months free on Sentry small plan
 - [Paymo](https://www.paymoapp.com/?utm_source=Devchat&utm_medium=podcast&utm_campaign=Devchat_Freelancers_Podcast) |[Opt for monthly & get 30% discount on paid plans for 6 months](https://app.paymoapp.com/?discount=622H2D#Paymo.module.subscription/)
 - [Try GanttPRO FREE for 14 days](https://ganttpro.com/) |[Software Development project template](https://ganttpro.com/software-development-plan-template/) Use coupon code “devchat” to[get $50 for using GanttPRO](https://ganttpro.com/go/devchat)
 - [CacheFly](https://www.cachefly.com/)
@@ -36,7 +36,7 @@ The panel goes into detail on the most common reasons to give a discount, sharin
 - [Practical Object-Oriented Design, An Agile Primer Using Ruby](https://www.poodr.com/)
 **Erik Dietrich:**
 - [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448)
-- [Hit to subscribe](http://hitsubscribe.com/apply-to-be-an-author/)
+- [Hit to subscribe](https://hitsubscribe.com/apply-to-be-an-author/)
 
 
 ### Transcript

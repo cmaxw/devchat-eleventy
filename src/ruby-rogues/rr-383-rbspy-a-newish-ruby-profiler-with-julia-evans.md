@@ -245,7 +245,7 @@ It’s fun to see people come in to make contributions.
 **Links:**
 
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
-- [Ruby Motion](http://www.rubymotion.com)
+- [Ruby Motion](https://www.rubymotion.com)
 - [Ruby on Rails](https://rubyonrails.org)
 - [StackProf – GitHub](https://github.com/tmm1/stackprof)
 - [Ruby Spy](https://rbspy.github.io)

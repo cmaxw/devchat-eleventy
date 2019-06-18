@@ -27,6 +27,6 @@ Panel: Gui Jaim Erica In today's episode, the iPhreaks discuss the firmware leak
 - Hopper
 - Harder leaks vs. Softer leaks
 - And much more on the framework
-  Links: Guilherme Rambo on Twitter: @\_inside Steve T-S on Twitter: @stroughtonsmith Jonathan Levin on Twitter: @Morpheus Filipe Espósito on Twitter: @filipekids Picks: Gui:[http://www.flixlist.co/titles/80101899](http://www.flixlist.co/titles/80101899)The Founder - (2016) - Netflix Jaim[https://www.epochconverter.com/](https://www.epochconverter.com/)Erica Cars that work
+  Links: Guilherme Rambo on Twitter: @\_inside Steve T-S on Twitter: @stroughtonsmith Jonathan Levin on Twitter: @Morpheus Filipe Espósito on Twitter: @filipekids Picks: Gui:[https://www.flixlist.co/titles/80101899](https://www.flixlist.co/titles/80101899)The Founder - (2016) - Netflix Jaim[https://www.epochconverter.com/](https://www.epochconverter.com/)Erica Cars that work
 
 ### Transcript

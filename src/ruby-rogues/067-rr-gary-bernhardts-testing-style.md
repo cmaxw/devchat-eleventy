@@ -12,22 +12,22 @@ tags:
   - podcast
 ---
 
-1:17 -&nbsp;[Destroy All Software](https://www.destroyallsoftware.com/screencasts)2:04 - [Object-Oriented Design](http://en.wikipedia.org/wiki/Object-oriented_design)2:22 - Testing 2:40 - [Unix](http://en.wikipedia.org/wiki/Unix)3:33 -&nbsp;[Functional Core, Imperative Shell&nbsp;](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)6:01 -&nbsp;[Growing Object Oriented Software Guided by Tests](http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)
+1:17 -&nbsp;[Destroy All Software](https://www.destroyallsoftware.com/screencasts)2:04 - [Object-Oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design)2:22 - Testing 2:40 - [Unix](https://en.wikipedia.org/wiki/Unix)3:33 -&nbsp;[Functional Core, Imperative Shell&nbsp;](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)6:01 -&nbsp;[Growing Object Oriented Software Guided by Tests](https://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)
 
 - Isolating
   11:40 - Faking 14:30 - Values
-- [Immutability](http://en.wikipedia.org/wiki/Immutable_object)
-  20:36 - [Garbage Collection](http://en.wikipedia.org/wiki/Garbage_collection_%28computer_science%29)24:30 - Mars Rover Curiosity 30:00 - More Testable Code vs. Improved Design 33:01 - [Growing Object-Oriented Software (GOOS)](http://www.growing-object-oriented-software.com/), [Test-Driven Development (TDD)](http://en.wikipedia.org/wiki/Test-driven_development)
+- [Immutability](https://en.wikipedia.org/wiki/Immutable_object)
+  20:36 - [Garbage Collection](https://en.wikipedia.org/wiki/Garbage_collection_%28computer_science%29)24:30 - Mars Rover Curiosity 30:00 - More Testable Code vs. Improved Design 33:01 - [Growing Object-Oriented Software (GOOS)](https://www.growing-object-oriented-software.com/), [Test-Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
 - [Rich Hickey](https://twitter.com/richhickey) Method
-- [Sandy Metz](http://www.sandimetz.com/)
+- [Sandy Metz](https://www.sandimetz.com/)
   43:24 - Threading 48:40 - Erlang
 - Controllers
   51:53 - Roundtrip 53:54 -&nbsp;[Destroy All Software: Sucks/Rocks](https://www.destroyallsoftware.com/screencasts/catalog/sucks-rocks-1-the-rails-app)
-- [Shell Scripting](http://en.wikipedia.org/wiki/Shell_script)
+- [Shell Scripting](https://en.wikipedia.org/wiki/Shell_script)
 
 ### Book Club
 
-We are reading&nbsp;[Growing Object Oriented Software Guided by Tests](http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)&nbsp;and we will review with the author on next time!
+We are reading&nbsp;[Growing Object Oriented Software Guided by Tests](https://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)&nbsp;and we will review with the author on next time!
 
 ### Transcript
 

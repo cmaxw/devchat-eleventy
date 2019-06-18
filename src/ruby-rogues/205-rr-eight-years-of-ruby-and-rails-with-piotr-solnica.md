@@ -16,65 +16,65 @@ tags:
 
 - [Twitter](https://twitter.com/_solnic_)
 - [GitHub](https://github.com/solnic)
-- [Blog](http://solnic.eu/)
-- [Ruby Object Mapper (ROM)](http://rom-rb.org/)
+- [Blog](https://solnic.eu/)
+- [Ruby Object Mapper (ROM)](https://rom-rb.org/)
 -
 
 * [virtus](https://github.com/solnic/virtus)
 
-03:04 - [Piotr Solnica: 8 Things I Learned During 8 Years of Ruby and Rails](http://solnic.eu/2015/03/04/8-things-i-learned-during-8-years-of-ruby-and-rails.html)
+03:04 - [Piotr Solnica: 8 Things I Learned During 8 Years of Ruby and Rails](https://solnic.eu/2015/03/04/8-things-i-learned-during-8-years-of-ruby-and-rails.html)
 
-03:45 - [Test-Driven Development](http://en.wikipedia.org/wiki/Test-driven_development)
+03:45 - [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 
 06:17 - Building a Stack
 
-- [Roda](http://roda.jeremyevans.net/)
+- [Roda](https://roda.jeremyevans.net/)
   - [[YouTube] Jeremy Evans: Better Routing Through Trees (MountainWest RubyConf 2015)](https://www.youtube.com/watch?v=PjnlsIJYkn0)
 
-09:56 - [(TDD) Test-Driven Development](http://en.wikipedia.org/wiki/Test-driven_development) Cont’d
+09:56 - [(TDD) Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) Cont’d
 
-15:36 - Immutability ([Immutable Objects](http://en.wikipedia.org/wiki/Immutable_object))
+15:36 - Immutability ([Immutable Objects](https://en.wikipedia.org/wiki/Immutable_object))
 
-- [Command-Query Separation](http://en.wikipedia.org/wiki/Command%E2%80%93query_separation)
+- [Command-Query Separation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)
 - Changing Objects
 - Freezing Objects
   - [adamantium](https://github.com/dkubb/adamantium)
 - Zippers
-- [Persistent Data Structures](http://en.wikipedia.org/wiki/Persistent_data_structure)
+- [Persistent Data Structures](https://en.wikipedia.org/wiki/Persistent_data_structure)
   - [hamster](https://github.com/hamstergem/hamster)
 
 28:49 - No Rules, Just Guidelines
 
-- [Law of Demeter](http://en.wikipedia.org/wiki/Law_of_Demeter)
+- [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
 - Writing Better Tests
-- [Fizz Buzz Test](http://c2.com/cgi/wiki?FizzBuzzTest)
-  - [Jeff Atwood: Why Can't Programmers.. Program?](http://blog.codinghorror.com/why-cant-programmers-program/)
+- [Fizz Buzz Test](https://c2.com/cgi/wiki?FizzBuzzTest)
+  - [Jeff Atwood: Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/)
   - [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
-  - [David’s Collection of Batpoop Crazy Fizzbuzz Solutions (Including the rand() one)](http://fizzbuzz.rubyforge.org/svn/trunk/lib/fizzbuzz.rb)
-- [Data, Context, Interaction (DCI)](http://en.wikipedia.org/wiki/Data,_context_and_interaction%20%20https://github.com/rom-rb/rom)
+  - [David’s Collection of Batpoop Crazy Fizzbuzz Solutions (Including the rand() one)](https://fizzbuzz.rubyforge.org/svn/trunk/lib/fizzbuzz.rb)
+- [Data, Context, Interaction (DCI)](https://en.wikipedia.org/wiki/Data,_context_and_interaction%20%20https://github.com/rom-rb/rom)
 
 38:39 - Class Interfaces: “Class interfaces are a smell”
 
 - Using Classes
-- [SOLID Principle](<http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)>)
+- [SOLID Principle](<https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)>)
 
 49:30 - “Convenience has a big price”
 
 - Convenience vs Explicitness
 
-55:06 - [Mutation Testing](http://en.wikipedia.org/wiki/Mutation_testing)
+55:06 - [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing)
 
 01:00:51 - “Ideas behind ORM are a fallacy”
 
-- [ORM (Object-Relational Mapping)](http://en.wikipedia.org/wiki/Object-relational_mapping)
-- [Ruby Object Mapper (ROM)](http://rom-rb.org/)
+- [ORM (Object-Relational Mapping)](https://en.wikipedia.org/wiki/Object-relational_mapping)
+- [Ruby Object Mapper (ROM)](https://rom-rb.org/)
 
-01:10:42 - [Piotr Solnica: Introducing Transproc - Functional Data Transformations for Ruby](http://solnic.eu/2015/04/16/introducing-transproc-functional-data-transformations-for-ruby.html)
+01:10:42 - [Piotr Solnica: Introducing Transproc - Functional Data Transformations for Ruby](https://solnic.eu/2015/04/16/introducing-transproc-functional-data-transformations-for-ruby.html)
 
 - [transproc](https://github.com/solnic/transproc)
   Picks
 
-[SweetWater Road Trip](http://sweetwaterbrew.com/brews/road-trip/) (Avdi)[BOSTITCH: Black Magnetic Push Style Staple Remover](http://www.bostitch.com/default.asp?CATEGORY=BOS_STAPLE_REMOVERS&TYPE=PRODUCT&PARTNUMBER=40000M-BLK&SDesc=Black+Magnetic+Push+Style+Staple+Remover) (Avdi)[Planet Mercenary Schlock Mercenary RPG](http://bit.ly/PM-RPG) (David)[Anker® 2.4G Wireless Vertical Ergonomic Optical Mouse](http://www.amazon.com/gp/product/B00BIFNTMC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BIFNTMC&linkCode=as2&tag=chamaxwoo-20&linkId=6UAIGHOQWKGKDIBH) (David)[Anker® Ergonomic Optical USB Wired Vertical Mouse](http://www.amazon.com/gp/product/B00FPAVUHC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FPAVUHC&linkCode=as2&tag=chamaxwoo-20&linkId=A7TMKBZSY5GNM7BP) (David)[asciinema](https://asciinema.org) (Piotr)&nbsp;
+[SweetWater Road Trip](https://sweetwaterbrew.com/brews/road-trip/) (Avdi)[BOSTITCH: Black Magnetic Push Style Staple Remover](https://www.bostitch.com/default.asp?CATEGORY=BOS_STAPLE_REMOVERS&TYPE=PRODUCT&PARTNUMBER=40000M-BLK&SDesc=Black+Magnetic+Push+Style+Staple+Remover) (Avdi)[Planet Mercenary Schlock Mercenary RPG](https://bit.ly/PM-RPG) (David)[Anker® 2.4G Wireless Vertical Ergonomic Optical Mouse](https://www.amazon.com/gp/product/B00BIFNTMC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BIFNTMC&linkCode=as2&tag=chamaxwoo-20&linkId=6UAIGHOQWKGKDIBH) (David)[Anker® Ergonomic Optical USB Wired Vertical Mouse](https://www.amazon.com/gp/product/B00FPAVUHC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FPAVUHC&linkCode=as2&tag=chamaxwoo-20&linkId=A7TMKBZSY5GNM7BP) (David)[asciinema](https://asciinema.org) (Piotr)&nbsp;
 
 ### Transcript
 

@@ -14,14 +14,14 @@ tags:
 
 02:07 - Robert Williams Introduction
 
-- [Workshop](http://letsworkshop.com/)
+- [Workshop](https://letsworkshop.com/)
   - [@letsworkshop](https://twitter.com/letsworkshop)
-- [Emails That Win You Clients by Robert Williams](http://emailsthatwin.com/)
+- [Emails That Win You Clients by Robert Williams](https://emailsthatwin.com/)
 
-02:28 - How Does [Workshop](http://letsworkshop.com/) Work?
+02:28 - How Does [Workshop](https://letsworkshop.com/) Work?
 
 - Lead Generation Newsletter
-- [Help a Reporter Out (HARO)](http://www.helpareporter.com/)
+- [Help a Reporter Out (HARO)](https://www.helpareporter.com/)
 
 04:07 - Getting Picked (Competing For Leads?)
 
@@ -38,7 +38,7 @@ tags:
 
 09:47 - Finding Leads to Offer
 
-- [Wheelhouse](http://inwheelhouse.com/)
+- [Wheelhouse](https://inwheelhouse.com/)
 
 11:54 - Success Stories \> Statistics
 
@@ -46,30 +46,30 @@ tags:
 
 15:27 - Pricing and Value
 
-- [Kurt Elster](http://kurtelster.com/)
-- [Shopify](http://www.shopify.com/)
+- [Kurt Elster](https://kurtelster.com/)
+- [Shopify](https://www.shopify.com/)
 
 20:14 - Email Content
 
 22:10 - Expanding / Contracting / Refocusing Based on Feedback?
 
-23:56 - Writing Emails: [Emails That Win You Clients by Robert Williams](http://emailsthatwin.com/)
+23:56 - Writing Emails: [Emails That Win You Clients by Robert Williams](https://emailsthatwin.com/)
 
-- [PR LEADS](http://www.prleads.com/)
+- [PR LEADS](https://www.prleads.com/)
 - Top Tips:
   - Short
   - Deliver Something of Value
-  - Thumbs Up/Yes for More Info ([Kai Davis](http://kaidavis.com/))
+  - Thumbs Up/Yes for More Info ([Kai Davis](https://kaidavis.com/))
   - Optimize Subject Lines
 
 35:56 - Referrals
 
 37:06 - Upsale Opportunities and Maintenance Agreements
 
-- [Non-compete Clause](http://en.wikipedia.org/wiki/Non-compete_clause)
+- [Non-compete Clause](https://en.wikipedia.org/wiki/Non-compete_clause)
   Picks
 
-[Simplecast](http://simplecast.fm) (Jonathan)[Amazon Dash Button](https://www.amazon.com/oc/dash-button) (Jonathan)[Welcome to Night Vale](http://welcometonightvale.com) (Reuven)[Steelheart (The Reckoners) by Brandon Sanderson](http://www.amazon.com/gp/product/0385743572/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743572&linkCode=as2&tag=chamaxwoo-20&linkId=RJJKGZIL7MMUQEVW) (Chuck)[Paparazzi](https://derailer.org/paparazzi/screenshots) (Robert)[Just Tell Julie](http://justtelljulie.com/) (Robert)[The Magic Email](http://themagicemail.com/) (Robert)
+[Simplecast](https://simplecast.fm) (Jonathan)[Amazon Dash Button](https://www.amazon.com/oc/dash-button) (Jonathan)[Welcome to Night Vale](https://welcometonightvale.com) (Reuven)[Steelheart (The Reckoners) by Brandon Sanderson](https://www.amazon.com/gp/product/0385743572/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743572&linkCode=as2&tag=chamaxwoo-20&linkId=RJJKGZIL7MMUQEVW) (Chuck)[Paparazzi](https://derailer.org/paparazzi/screenshots) (Robert)[Just Tell Julie](https://justtelljulie.com/) (Robert)[The Magic Email](https://themagicemail.com/) (Robert)
 
 ### Transcript
 

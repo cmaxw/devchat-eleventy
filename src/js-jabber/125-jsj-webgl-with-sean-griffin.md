@@ -15,76 +15,76 @@ tags:
 ### Panel
 
 - Sean Griffin ([twitter](https://twitter.com/sgrif)&nbsp;[github](https://github.com/sgrif))
-- Tim Caswell ([twitter](http://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](http://howtonode.org/))
-- AJ ONeal ([twitter](https://twitter.com/coolaj86)&nbsp;[blog](http://blog.coolaj86.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](https://howtonode.org/))
+- AJ ONeal ([twitter](https://twitter.com/coolaj86)&nbsp;[blog](https://blog.coolaj86.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:35 - Sean Introduction
 
-- [thoughtbot](http://thoughtbot.com/)
-- [NoSQL](http://en.wikipedia.org/wiki/NoSQL)
-- [node.js](http://nodejs.org/)
+- [thoughtbot](https://thoughtbot.com/)
+- [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
+- [node.js](https://nodejs.org/)
   02:22 - Large Applications
 - Martial Arts Animation
-- [Adobe Flash](http://get.adobe.com/flashplayer/)
-- [Unity](http://docs.unity3d.com/Manual/Plugins.html)
+- [Adobe Flash](https://get.adobe.com/flashplayer/)
+- [Unity](https://docs.unity3d.com/Manual/Plugins.html)
   04:00 - WebGL Introduction
-- [WebGL](http://www.khronos.org/webgl/)
-- [OpenGL](http://www.opengl.org/)
-  - [GLSL](http://en.wikipedia.org/wiki/OpenGL_Shading_Language)
+- [WebGL](https://www.khronos.org/webgl/)
+- [OpenGL](https://www.opengl.org/)
+  - [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language)
 - [Canvas](https://canvas.instructure.com/login)
-- [Windows Media Player](http://windows.microsoft.com/en-us/windows/windows-media-player)
+- [Windows Media Player](https://windows.microsoft.com/en-us/windows/windows-media-player)
   08:07 - Types of Abstractions
-- [Linear Algebra](http://en.wikipedia.org/wiki/Linear_algebra)
-  - [Engineering](http://en.wikipedia.org/wiki/Engineering)
-- [Wikipedia](http://en.wikipedia.org/wiki/Main_Page)
-- [GLGE](http://www.glge.org/)
+- [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+  - [Engineering](https://en.wikipedia.org/wiki/Engineering)
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+- [GLGE](https://www.glge.org/)
   11:09 - Deciding on Triangles
 - [[YouTube] The More You Know PSA](https://www.youtube.com/watch?v=v3rhQc666Sg)
   11:53 - Writing From Scratch
-- [three.js](http://threejs.org/)
-- [Phong Shading](http://graphics.wikia.com/wiki/Phong_shading)
-- [Open Source](http://en.wikipedia.org/wiki/Open_source)
+- [three.js](https://threejs.org/)
+- [Phong Shading](https://graphics.wikia.com/wiki/Phong_shading)
+- [Open Source](https://en.wikipedia.org/wiki/Open_source)
   15:14 - Setting Up Libraries 16:16 -Getting Started with WebGL
-- [WebGL Fundamentals](http://webglfundamentals.org/)
-- [Render Hell](http://simonschreibt.de/gat/renderhell/)
-- [OpenGL Tutorials](http://www.opengl-tutorial.org/)
-- [OpenGL [Wikibooks]](http://en.wikibooks.org/wiki/OpenGL_Programming)
-  - [Wikibooks](http://www.wikibooks.org/)
-- [thoughtbot blog](http://robots.thoughtbot.com/)
+- [WebGL Fundamentals](https://webglfundamentals.org/)
+- [Render Hell](https://simonschreibt.de/gat/renderhell/)
+- [OpenGL Tutorials](https://www.opengl-tutorial.org/)
+- [OpenGL [Wikibooks]](https://en.wikibooks.org/wiki/OpenGL_Programming)
+  - [Wikibooks](https://www.wikibooks.org/)
+- [thoughtbot blog](https://robots.thoughtbot.com/)
   18:02 - Difference Between Versions
 - Fixed Rendering Pipeline
-- [“Death Test”](http://www.doihaveadeadpixel.com/)
+- [“Death Test”](https://www.doihaveadeadpixel.com/)
   21:42 - Things Sean Wish He Knew Before 23:44 - Third-Party Artwork
-- [JSON](http://json.org/)
-- [COLADDA File Format](http://en.wikipedia.org/wiki/COLLADA)
-- [Maya](http://www.autodesk.com/products/maya/overview)
+- [JSON](https://json.org/)
+- [COLADDA File Format](https://en.wikipedia.org/wiki/COLLADA)
+- [Maya](https://www.autodesk.com/products/maya/overview)
 - window.url.fromdatasource
-- [bower](http://bower.io/)
+- [bower](https://bower.io/)
   28:02 - Common Mistakes 30:58 - Physics and Lighting
-- [id software](http://www.idsoftware.com/en-us)
-- [DOOM](http://doom.com/en-us/)
-- [Shaders](http://en.wikipedia.org/wiki/Shader)
-  - [Lambert Reflection](http://www.physicsforums.com/showthread.php?t=450031)
-  - [Phong Reflection](http://en.wikipedia.org/wiki/Phong_reflection_model)
+- [id software](https://www.idsoftware.com/en-us)
+- [DOOM](https://doom.com/en-us/)
+- [Shaders](https://en.wikipedia.org/wiki/Shader)
+  - [Lambert Reflection](https://www.physicsforums.com/showthread.php?t=450031)
+  - [Phong Reflection](https://en.wikipedia.org/wiki/Phong_reflection_model)
     34:07 - 2D vs. 3D
 
 ### Picks
 
-- [Dominic Tarr: Version One dot Oh My!](http://sentimentalversioning.org/) (Jamison)
-- [Meatspace Chat](http://chat.meatspac.es/) (Jamison)
-- [Arrow](http://www.imdb.com/title/tt2193021/) (Joe)
-- [Star Wars Rebels](http://www.starwars.com/tv-shows/star-wars-rebels) (Joe)
-- [A New Dawn: Star Wars by John Jackson Miller](http://www.amazon.com/gp/product/0553392867/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553392867&linkCode=as2&tag=chamaxwoo-20&linkId=2AQ6MPZEFJIVCZH4) (Joe)
-- [Pixi.js](http://www.pixijs.com/) (Tim)
-- [Luvit](http://luvit.io/) (Tim)
-- [The Last Ship](http://www.imdb.com/title/tt2402207/) (Chuck)
-- [Doctor Who](http://www.bbcamerica.com/doctor-who/) (Chuck)
-- [Render Hell 1.1](http://simonschreibt.de/gat/renderhell/) (Sean)
+- [Dominic Tarr: Version One dot Oh My!](https://sentimentalversioning.org/) (Jamison)
+- [Meatspace Chat](https://chat.meatspac.es/) (Jamison)
+- [Arrow](https://www.imdb.com/title/tt2193021/) (Joe)
+- [Star Wars Rebels](https://www.starwars.com/tv-shows/star-wars-rebels) (Joe)
+- [A New Dawn: Star Wars by John Jackson Miller](https://www.amazon.com/gp/product/0553392867/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553392867&linkCode=as2&tag=chamaxwoo-20&linkId=2AQ6MPZEFJIVCZH4) (Joe)
+- [Pixi.js](https://www.pixijs.com/) (Tim)
+- [Luvit](https://luvit.io/) (Tim)
+- [The Last Ship](https://www.imdb.com/title/tt2402207/) (Chuck)
+- [Doctor Who](https://www.bbcamerica.com/doctor-who/) (Chuck)
+- [Render Hell 1.1](https://simonschreibt.de/gat/renderhell/) (Sean)
 - [Martial Codex](https://www.martialcodex.com/) (Sean)
 
 ### Next Week

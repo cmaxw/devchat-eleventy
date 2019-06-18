@@ -16,8 +16,8 @@ tags:
 
 - [Twitter](https://twitter.com/tjvantoll)
 - [GitHub](https://github.com/tjvantoll)
-- [Blog](http://tjvantoll.com/)
-- [Telerik](http://www.telerik.com/)
+- [Blog](https://tjvantoll.com/)
+- [Telerik](https://www.telerik.com/)
 
 03:08 - Code Sharing
 
@@ -25,7 +25,7 @@ tags:
 
 06:35 - Components and Directives
 
-13:09 - [NativeScript](https://www.nativescript.org/) and [Electron](http://electron.atom.io/)
+13:09 - [NativeScript](https://www.nativescript.org/) and [Electron](https://electron.atom.io/)
 
 15:02 - Business Model
 
@@ -41,12 +41,12 @@ tags:
 
 38:21 - Getting Started with NativeScript
 
-- [Getting Started Guide](http://docs.nativescript.org/start/getting-started)
+- [Getting Started Guide](https://docs.nativescript.org/start/getting-started)
 - [Building Apps with NativeScript and Angular 2](https://nativescript.github.io/nativescript-angular-guide/)
 - [Angular for NativeScript](https://www.nativescript.org/nativescript-is-how-you-build-native-mobile-apps-with-angular)
   Picks
 
-[Things Organized Neatly](http://thingsorganizedneatly.tumblr.com/) (Jules)[House of Cards: A Tale of Hubris and Wretched Excess on Wall Street by William D. Cohan](http://www.amazon.com/gp/product/B001NLL5WC) (Ward)[AngularFire - Firebase](https://www.firebase.com/docs/web/libraries/angular/) (Joe)[Zootopia](http://www.imdb.com/title/tt2948356/) (Joe)Rogue One Star Wars Trailer (John)[HoloLens](https://www.microsoft.com/microsoft-hololens/en-us) (Chuck)[.NET Rocks!](https://www.dotnetrocks.com/) (Chuck)[MicroConf](http://www.microconf.com/) (Chuck)[Build a Raspberry Pi-Powered DIY Amazon Echo](http://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229) (Chuck)[The 5th Wave Book Series](<https://en.wikipedia.org/wiki/The_5th_Wave_(novel)>) (TJ)[Red Rising Series](http://www.redrisingbook.com/) (TJ)
+[Things Organized Neatly](https://thingsorganizedneatly.tumblr.com/) (Jules)[House of Cards: A Tale of Hubris and Wretched Excess on Wall Street by William D. Cohan](https://www.amazon.com/gp/product/B001NLL5WC) (Ward)[AngularFire - Firebase](https://www.firebase.com/docs/web/libraries/angular/) (Joe)[Zootopia](https://www.imdb.com/title/tt2948356/) (Joe)Rogue One Star Wars Trailer (John)[HoloLens](https://www.microsoft.com/microsoft-hololens/en-us) (Chuck)[.NET Rocks!](https://www.dotnetrocks.com/) (Chuck)[MicroConf](https://www.microconf.com/) (Chuck)[Build a Raspberry Pi-Powered DIY Amazon Echo](https://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229) (Chuck)[The 5th Wave Book Series](<https://en.wikipedia.org/wiki/The_5th_Wave_(novel)>) (TJ)[Red Rising Series](https://www.redrisingbook.com/) (TJ)
 
 ### Transcript
 

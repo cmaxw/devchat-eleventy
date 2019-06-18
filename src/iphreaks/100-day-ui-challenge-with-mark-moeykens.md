@@ -32,6 +32,6 @@ Mark&nbsp;started the challenge to learn more about implementation and design. H
 
 ## Picks:
 
-Erica: The Illusion of Life by Frank Thomas and Ollie Johnston, look around for Keynote sales Mark: [sign up for the challenge at Daily UI](http://www.dailyui.co/)Andrew: Keynote
+Erica: The Illusion of Life by Frank Thomas and Ollie Johnston, look around for Keynote sales Mark: [sign up for the challenge at Daily UI](https://www.dailyui.co/)Andrew: Keynote
 
 ### Transcript

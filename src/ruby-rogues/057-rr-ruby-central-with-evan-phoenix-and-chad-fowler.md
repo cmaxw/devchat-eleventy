@@ -12,19 +12,19 @@ tags:
   - podcast
 ---
 
-03:10 - Learning Sign Language 03:55 -&nbsp;[Ruby Central](http://www.rubycentral.org/)
+03:10 - Learning Sign Language 03:55 -&nbsp;[Ruby Central](https://www.rubycentral.org/)
 
-- [RubyConf](http://rubyconf.org/)
-- [RailsConf](http://railsconf2012.com/) 2012
-- [RailsConf Europe](http://en.oreilly.com/railseurope2008/)
-  07:00 - RubyCon vs. RubyConf/Ruby Central 08:24 -&nbsp;[RubyForge](http://rubyforge.org/)
+- [RubyConf](https://rubyconf.org/)
+- [RailsConf](https://railsconf2012.com/) 2012
+- [RailsConf Europe](https://en.oreilly.com/railseurope2008/)
+  07:00 - RubyCon vs. RubyConf/Ruby Central 08:24 -&nbsp;[RubyForge](https://rubyforge.org/)
 - Rick & Tom Copeland
-- [Gforge](http://gforge.org/gf/)
-  09:29 -&nbsp;[RAA](http://raa.ruby-lang.org/)09:58 -&nbsp;[RAA.SUCC](http://www.ruby-lang.org/de/news/2002/12/07/my20021207-raasuccversion--210/)11:19 -&nbsp;[RubyGems.org](http://rubygems.org/)
+- [Gforge](https://gforge.org/gf/)
+  09:29 -&nbsp;[RAA](https://raa.ruby-lang.org/)09:58 -&nbsp;[RAA.SUCC](https://www.ruby-lang.org/de/news/2002/12/07/my20021207-raasuccversion--210/)11:19 -&nbsp;[RubyGems.org](https://rubygems.org/)
 - [gemcutter](https://github.com/rubygems/gemcutter)
   14:14 - PDI as a career choice 15:57- &nbsp;JavaCentral? PythonCentral?
-- [Sun Oracle](http://www.oracle.com/us/sun/index.htm) (Snoracle)
-  17:18 -&nbsp;[Python Software Foundation](http://www.python.org/psf/)17:20 - Perl Software Foundation 18:09 - Organizing Conferences Make People Go Crazy 23:23 - RubyCentral Encouraged the Formation of Regional Conferences 29:56 -&nbsp;[ClassBox](http://scg.unibe.ch/research/classboxes)
+- [Sun Oracle](https://www.oracle.com/us/sun/index.htm) (Snoracle)
+  17:18 -&nbsp;[Python Software Foundation](https://www.python.org/psf/)17:20 - Perl Software Foundation 18:09 - Organizing Conferences Make People Go Crazy 23:23 - RubyCentral Encouraged the Formation of Regional Conferences 29:56 -&nbsp;[ClassBox](https://scg.unibe.ch/research/classboxes)
 - One-Track vs Multi-Track Conferences
   37:52 - Ruby/Rails Community Can Risk Echochamber/Groupthink 38:27 - The Wrong Style of OO 39:13 - "Programmers have a tendency to build castles in the sky." 41:03 - "Overdecomplecting" 43:20 - Moving RubyCentral Forward
 - More Grants

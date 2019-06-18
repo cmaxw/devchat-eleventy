@@ -14,13 +14,13 @@ tags:
 
 02:42 - John Sonmez Introduction
 
-- [<u>Simple Programmer</u>](http://simpleprogrammer.com/)
+- [<u>Simple Programmer</u>](https://simpleprogrammer.com/)
 - [<u>Twitter</u>](https://twitter.com/jsonmez)
 - [<u>GitHub</u>](https://github.com/jsonmez)
-- [<u>Soft Skills: The Software Developer's Life Manual by John Sonmez</u>](http://www.amazon.com/gp/product/1617292397/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617292397&linkCode=as2&tag=chamaxwoo-20&linkId=K4LJYLT2FF3SBZQK)
-- [<u>How to Market Yourself as a Software Developer</u>](http://devcareerboost.com/)
+- [<u>Soft Skills: The Software Developer's Life Manual by John Sonmez</u>](https://www.amazon.com/gp/product/1617292397/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617292397&linkCode=as2&tag=chamaxwoo-20&linkId=K4LJYLT2FF3SBZQK)
+- [<u>How to Market Yourself as a Software Developer</u>](https://devcareerboost.com/)
 - [<u>Get Up and CODE! Podcast</u>](https://itunes.apple.com/us/podcast/get-up-and-code!/id646958161?mt=2)
-- [<u>The Entreprogrammers Podcast</u>](http://entreprogrammers.com/)
+- [<u>The Entreprogrammers Podcast</u>](https://entreprogrammers.com/)
 - [<u>JS Remote Conf</u>](https://jsremoteconf.com/)
 
 05:12 - The Idea of Marketing
@@ -40,15 +40,15 @@ tags:
   - Blogging
   - Speaking at Conferences
   - Talking on Podcasts
-  - Attending [<u>Meetups</u>](http://www.meetup.com/)
+  - Attending [<u>Meetups</u>](https://www.meetup.com/)
   - Training
-- [<u>David Brady: The Job Replacement Guide</u>](http://www.jobreplacementguide.com/)
+- [<u>David Brady: The Job Replacement Guide</u>](https://www.jobreplacementguide.com/)
 
 19:44 - Nailing Interviews & Getting Personal Referrals
 
 - Write Meaningful Comments on Others’ Blogs
 - Learn People Skills
-- [<u>Meritocracy</u>](http://en.wikipedia.org/wiki/Meritocracy)
+- [<u>Meritocracy</u>](https://en.wikipedia.org/wiki/Meritocracy)
 
 23:31 - Taking Time to Market Yourself
 
@@ -63,21 +63,21 @@ tags:
 
 34:48 - Marketing Without Writing
 
-- [<u>Pat Flynn</u>](http://patflynn.com/)
+- [<u>Pat Flynn</u>](https://patflynn.com/)
   - “Be Everywhere”
 
 37:53 - Getting Noticed by People Outside the Field
 
 45:45 - What Would Happen if Everybody Did It?
 
-- [<u>Sam Livingston Gray</u>](http://livingston-gray.com/)
-- [<u>Selection Bias</u>](http://en.wikipedia.org/wiki/Selection_bias)
-- [<u>Double-blind</u>](http://www.merriam-webster.com/dictionary/double-blind) Interviewing
+- [<u>Sam Livingston Gray</u>](https://livingston-gray.com/)
+- [<u>Selection Bias</u>](https://en.wikipedia.org/wiki/Selection_bias)
+- [<u>Double-blind</u>](https://www.merriam-webster.com/dictionary/double-blind) Interviewing
 
 ### Special Offers!
 
-- Go to [<u>devcareerboost.com</u>](http://devcareerboost.com/) and use the code **RUBYROGUES** to get \$100 off John’s How to Market Yourself as a Software Developer course!
-- Comment on this blog post with three things you are going to do within the next month to market yourself as a software developer to **win one of three autographed copies** of John’s book, [<u>Soft Skills: The Software Developer's Life Manual</u>](http://www.amazon.com/gp/product/1617292397/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617292397&linkCode=as2&tag=chamaxwoo-20&linkId=K4LJYLT2FF3SBZQK).
+- Go to [<u>devcareerboost.com</u>](https://devcareerboost.com/) and use the code **RUBYROGUES** to get \$100 off John’s How to Market Yourself as a Software Developer course!
+- Comment on this blog post with three things you are going to do within the next month to market yourself as a software developer to **win one of three autographed copies** of John’s book, [<u>Soft Skills: The Software Developer's Life Manual</u>](https://www.amazon.com/gp/product/1617292397/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617292397&linkCode=as2&tag=chamaxwoo-20&linkId=K4LJYLT2FF3SBZQK).
 
 ### Transcript
 

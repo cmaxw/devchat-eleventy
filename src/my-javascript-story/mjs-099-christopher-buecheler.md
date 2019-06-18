@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Clubhouse](https://clubhouse.io/jsstory)
 - [CacheFly&nbsp;](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Guest:** &nbsp;Christopher Buecheler
@@ -25,12 +25,12 @@ In this episode of My JavaScript Story, Charles hosts Christopher Buecheler, nov
 - [React.js](https://reactjs.org/)
 - [https://twitter.com/closebracejs](https://twitter.com/closebracejs)
 - [Christopher Buecheler’s Twitter](https://twitter.com/cwbuecheler)
-- [Christopher Buecheler’s Website](http://cwbuecheler.com/)
+- [Christopher Buecheler’s Website](https://cwbuecheler.com/)
 - [Christopher Buecheler’s LinkedIn](https://www.linkedin.com/in/cwbuecheler)
 - [Christopher Buecheler’s GitHub](https://github.com/cwbuecheler)
 - [https://closebrace.com/categories/five-minute-react](https://closebrace.com/categories/five-minute-react)
 - [contact@closebrace.com](mailto:contact@closebrace.com)
-- [http://stitchly.io/](http://stitchly.io/)
+- [https://stitchly.io/](https://stitchly.io/)
 - [Christopher Buecheler's Amazon link](https://www.amazon.com/Christopher-Buecheler/e/B004KA4MLE)
 - [Elixir by Christopher Buecheler](https://www.amazon.com/gp/product/B07KGNG2VX/ref=dbs_a_def_rwt_bibl_vppi_i3)
 - [https://devchat.tv/my-javascript-story/](https://devchat.tv/my-javascript-story/)

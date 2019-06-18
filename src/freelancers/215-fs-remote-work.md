@@ -20,27 +20,27 @@ tags:
 - [WeChat](https://web.wechat.com/)
 - [Crowdcast](https://www.crowdcast.io/)
 - [join.me](https://www.join.me/)
-- [Screenflow](http://www.telestream.net/screenflow/)
+- [Screenflow](https://www.telestream.net/screenflow/)
 - Email
 - [GoToMeeting](https://www.gotomeeting.com/)/[GoToWebinar](https://www.gotomeeting.com/webinar/)
 - [Google Hangouts](https://hangouts.google.com/)
 - [Basecamp](https://basecamp.com/)
   13:30 - Setting Client Expectations and Discussions 20:53 - Making the Case for Real-time Communication 29:16 - Timezones
 - [Calendly](https://calendly.com/)
-- [Doodle](http://doodle.com/)
+- [Doodle](https://doodle.com/)
 - [Fantastical](https://flexibits.com/fantastical)
   37:45 - Meeting Face-to-face &nbsp; Picks
-- [The Big Short: Inside the Doomsday Machine by Michael Lewis](http://www.audible.com/pd/Business/The-Big-Short-Audiobook/B003B2ZV8K) (Jonathan)
-- [Hourly Billing Is Nuts by Jonathan Stark](http://hourlybillingisnuts.com) 30% OFF with code FS215 (Jonathan)
+- [The Big Short: Inside the Doomsday Machine by Michael Lewis](https://www.audible.com/pd/Business/The-Big-Short-Audiobook/B003B2ZV8K) (Jonathan)
+- [Hourly Billing Is Nuts by Jonathan Stark](https://hourlybillingisnuts.com) 30% OFF with code FS215 (Jonathan)
 - [Fantastical](https://flexibits.com/fantastical) (Philip)
-- [The Brothers Grimsby](http://www.imdb.com/title/tt3381008/) (Philip)
+- [The Brothers Grimsby](https://www.imdb.com/title/tt3381008/) (Philip)
 - [HappyCow](https://www.happycow.net/) (Reuven)
-- [The Office](http://www.nbc.com/the-office) (Reuven)
-- [The Big Short](http://www.imdb.com/title/tt1596363/) (Reuven)
-- [iPad Pro](http://www.apple.com/ipad-pro/) (Chuck)
-- [Smart Keyboard for iPad Pro](http://www.apple.com/smart-keyboard/) (Chuck)
-- [Apple Pencil](http://www.apple.com/apple-pencil/) (Chuck)
-- [GoodNotes](http://www.goodnotesapp.com/) (Chuck)
+- [The Office](https://www.nbc.com/the-office) (Reuven)
+- [The Big Short](https://www.imdb.com/title/tt1596363/) (Reuven)
+- [iPad Pro](https://www.apple.com/ipad-pro/) (Chuck)
+- [Smart Keyboard for iPad Pro](https://www.apple.com/smart-keyboard/) (Chuck)
+- [Apple Pencil](https://www.apple.com/apple-pencil/) (Chuck)
+- [GoodNotes](https://www.goodnotesapp.com/) (Chuck)
 
 ### Transcript
 

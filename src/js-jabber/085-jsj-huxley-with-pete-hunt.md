@@ -14,23 +14,23 @@ tags:
 
 ### Panel
 
-- Pete Hunt ([twitter](http://www.twitter.com/floydophone) [github](http://www.github.com/petehunt) [blog](http://www.quora.com/Pete-Hunt/Posts))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Pete Hunt ([twitter](https://www.twitter.com/floydophone) [github](https://www.github.com/petehunt) [blog](https://www.quora.com/Pete-Hunt/Posts))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:10 - Pete Hunt Introduction
 
 - [Facebook](https://www.facebook.com/)
-- [Instagram](http://instagram.com/)
+- [Instagram](https://instagram.com/)
   02:11 - [Huxley](https://github.com/facebook/huxley)
-- [Selenium WebDriver](http://www.seleniumhq.org/projects/webdriver/)
-  12:36 - The Huxley Community 15:33 - [Selenium](http://www.seleniumhq.org/) vs Huxley
-- [Kaleidoscope](http://www.kaleidoscopeapp.com/)
-  17:48 - Using [Python](http://www.python.org/)
+- [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/)
+  12:36 - The Huxley Community 15:33 - [Selenium](https://www.seleniumhq.org/) vs Huxley
+- [Kaleidoscope](https://www.kaleidoscopeapp.com/)
+  17:48 - Using [Python](https://www.python.org/)
 - [node-huxley](https://github.com/chenglou/node-huxley)
   18:48 - The Internals 24:42 - The Future of Huxley
 - [Sauce Labs](https://saucelabs.com/)
@@ -38,16 +38,16 @@ tags:
 
 ### Picks
 
-- [Spot It!](http://www.boardgamegeek.com/boardgame/63268/spot-it) (Joe)
-- [The Duke](http://www.boardgamegeek.com/boardgame/36235/the-duke) (Joe)
-- [AngularJS](http://angularjs.org/) (AJ)
+- [Spot It!](https://www.boardgamegeek.com/boardgame/63268/spot-it) (Joe)
+- [The Duke](https://www.boardgamegeek.com/boardgame/36235/the-duke) (Joe)
+- [AngularJS](https://angularjs.org/) (AJ)
 - [Angular UI Router](https://github.com/angular-ui/ui-router) (AJ)
 - [Angular Bootstrap](https://github.com/angular-ui/bootstrap) (AJ)
-- [MountainWest JSConf 2014](http://mtnwestjsconf.org/) (Jamison)
-- [Screenhero](http://screenhero.com/) (Chuck)
-- [OmniGraffle](http://www.omnigroup.com/omnigraffle) (Chuck)
-- [First, Break All the Rules: What the World's Greatest Managers Do Differently by Marcus Buckingham](http://www.amazon.com/gp/product/0684852861/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0684852861&linkCode=as2&tag=chamaxwoo-20) (Pete)
-- [webpack module system](http://webpack.github.io/) (Pete)
+- [MountainWest JSConf 2014](https://mtnwestjsconf.org/) (Jamison)
+- [Screenhero](https://screenhero.com/) (Chuck)
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle) (Chuck)
+- [First, Break All the Rules: What the World's Greatest Managers Do Differently by Marcus Buckingham](https://www.amazon.com/gp/product/0684852861/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0684852861&linkCode=as2&tag=chamaxwoo-20) (Pete)
+- [webpack module system](https://webpack.github.io/) (Pete)
 
 ### Next Week
 

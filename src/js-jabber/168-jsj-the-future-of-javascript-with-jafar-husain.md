@@ -17,7 +17,7 @@ tags:
 - [Twitter](https://twitter.com/jhusain)
 - [GitHub](https://github.com/jhusain)
 - [Netflix](https://www.netflix.com/)
-- [TC39](http://www.ecma-international.org/memento/TC39.htm)
+- [TC39](https://www.ecma-international.org/memento/TC39.htm)
 
 03:29 - The Great Name Debate (ES6, ES7 = ES2015, ES2016!!)
 
@@ -33,10 +33,10 @@ tags:
 
 13:23 - Performance \> Features?
 
-- [ES6 Feature Performance (JavaScript Weekly Article)](http://www.incaseofstairs.com/2015/06/es6-feature-performance/?utm_source=javascriptweekly&utm_medium=email)
+- [ES6 Feature Performance (JavaScript Weekly Article)](https://www.incaseofstairs.com/2015/06/es6-feature-performance/?utm_source=javascriptweekly&utm_medium=email)
 - Features Implemented as Polyfills (Why Bother?)
 
-20:12 - [TC39](http://www.ecma-international.org/memento/TC39.htm)
+20:12 - [TC39](https://www.ecma-international.org/memento/TC39.htm)
 
 24:22 - New Features
 
@@ -47,7 +47,7 @@ tags:
 
 34:48 - [Object.observe()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/observe)
 
-37:51 - [Immutable Types](http://codebetter.com/patricksmacchia/2008/01/13/immutable-types-understand-them-and-use-them/)
+37:51 - [Immutable Types](https://codebetter.com/patricksmacchia/2008/01/13/immutable-types-understand-them-and-use-them/)
 
 45:32 - Structural Types
 
@@ -70,7 +70,7 @@ tags:
 - [asyncawait](https://github.com/yortus/asyncawait) - 16
   Picks
 
-[ES6 and ES7 on The Web Platform Podcast](http://thewebplatform.libsyn.com/webpage/2015/05/12) (AJ)[Binding to the Cloud with Falcor Jafar Husain](https://www.youtube.com/watch?v=WiO1f6h15c8) (AJ)[Asynchronous JavaScript at Netflix by Jafar Husain @ MountainWest Ruby 2014](https://www.youtube.com/watch?v=XE692Clb5LU) (AJ)[Let's Encrypt on Raspberry Pi](https://coolaj86.com/articles/lets-encrypt-on-raspberry-pi/) (AJ)[adventures in haproxy: tcp, tls, https, ssh, openvpn](https://coolaj86.com/articles/adventures-in-haproxy-tcp-tls-https-ssh-openvpn/) (AJ)[Let's Encrypt through HAProxy](https://coolaj86.com/articles/lets-encrypt-with-haproxy/) (AJ)[Mandy's Fiancé's Video Game Fund](https://life.indiegogo.com/fundraisers/mandy-s-fiance-s-video-game-fund) (AJ)[The Murray Gell-Mann Amnesia Effect](http://seekerblog.com/2006/01/31/the-murray-gell-mann-amnesia-effect/) (Dave)[The Majority Illusion](http://arxiv.org/pdf/1506.03022v1.pdf) (Dave)[[Egghead.io] Asynchronous Programming: The End of The Loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop) (Aimee)[Study: You Really Can 'Work Smarter, Not Harder'](http://www.theatlantic.com/education/archive/2014/05/study-you-really-can-work-smarter-not-harder/370819/) (Aimee)[Elm](http://elm-lang.org/) (Jamison)[The Katering Show](http://thekateringshow.com/) (Jamison)[Sharding Tweet](https://twitter.com/amontalenti/status/615116231092371456) (Jamison)[The U.S. Women's National Soccer Team](http://www.ussoccer.com/womens-national-team) (Joe)[mdn.io](http://mdn.io) (Joe)[Aftershokz AS500 Bluez 2 Open Ear Wireless Stereo Headphones](http://www.amazon.com/gp/product/B00JO9Y176/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JO9Y176&linkCode=as2&tag=chamaxwoo-20&linkId=OIQYBVN2TZXHXR7V) (Chuck)[Autonomy, Mastery, Purpose: The Science of What Motivates Us, Animated](http://www.brainpickings.org/2013/05/09/daniel-pink-drive-rsa-motivation/) (Jafar)[Netflix](https://www.netflix.com/) (Jafar)[quiescent](https://github.com/levand/quiescent) (Jafar)[Clojurescript](http://clojure.org/clojurescript) (Jafar)
+[ES6 and ES7 on The Web Platform Podcast](https://thewebplatform.libsyn.com/webpage/2015/05/12) (AJ)[Binding to the Cloud with Falcor Jafar Husain](https://www.youtube.com/watch?v=WiO1f6h15c8) (AJ)[Asynchronous JavaScript at Netflix by Jafar Husain @ MountainWest Ruby 2014](https://www.youtube.com/watch?v=XE692Clb5LU) (AJ)[Let's Encrypt on Raspberry Pi](https://coolaj86.com/articles/lets-encrypt-on-raspberry-pi/) (AJ)[adventures in haproxy: tcp, tls, https, ssh, openvpn](https://coolaj86.com/articles/adventures-in-haproxy-tcp-tls-https-ssh-openvpn/) (AJ)[Let's Encrypt through HAProxy](https://coolaj86.com/articles/lets-encrypt-with-haproxy/) (AJ)[Mandy's Fiancé's Video Game Fund](https://life.indiegogo.com/fundraisers/mandy-s-fiance-s-video-game-fund) (AJ)[The Murray Gell-Mann Amnesia Effect](https://seekerblog.com/2006/01/31/the-murray-gell-mann-amnesia-effect/) (Dave)[The Majority Illusion](https://arxiv.org/pdf/1506.03022v1.pdf) (Dave)[[Egghead.io] Asynchronous Programming: The End of The Loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop) (Aimee)[Study: You Really Can 'Work Smarter, Not Harder'](https://www.theatlantic.com/education/archive/2014/05/study-you-really-can-work-smarter-not-harder/370819/) (Aimee)[Elm](https://elm-lang.org/) (Jamison)[The Katering Show](https://thekateringshow.com/) (Jamison)[Sharding Tweet](https://twitter.com/amontalenti/status/615116231092371456) (Jamison)[The U.S. Women's National Soccer Team](https://www.ussoccer.com/womens-national-team) (Joe)[mdn.io](https://mdn.io) (Joe)[Aftershokz AS500 Bluez 2 Open Ear Wireless Stereo Headphones](https://www.amazon.com/gp/product/B00JO9Y176/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JO9Y176&linkCode=as2&tag=chamaxwoo-20&linkId=OIQYBVN2TZXHXR7V) (Chuck)[Autonomy, Mastery, Purpose: The Science of What Motivates Us, Animated](https://www.brainpickings.org/2013/05/09/daniel-pink-drive-rsa-motivation/) (Jafar)[Netflix](https://www.netflix.com/) (Jafar)[quiescent](https://github.com/levand/quiescent) (Jafar)[Clojurescript](https://clojure.org/clojurescript) (Jafar)
 
 ### Transcript
 

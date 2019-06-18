@@ -12,41 +12,41 @@ tags:
   - podcast
 ---
 
-Check out [106 RR Discourse with Jeff Atwood](http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/) for Discourse Part 1
+Check out [106 RR Discourse with Jeff Atwood](https://rubyrogues.com/106-rr-discourse-with-jeff-atwood/) for Discourse Part 1
 
 01:08 - Sam Saffron & Robin Ward Introduction
 
-- Co-founders of [Discourse](http://www.discourse.org/)
-- [Discourse Meta](http://meta.discourse.org/)
-- [Try Discourse](http://try.discourse.org/)
+- Co-founders of [Discourse](https://www.discourse.org/)
+- [Discourse Meta](https://meta.discourse.org/)
+- [Try Discourse](https://try.discourse.org/)
 
 02:10 - [Turbolinks](https://github.com/rails/turbolinks/)
 
-06:43 - [Ember.js](http://emberjs.com/) & Discourse
+06:43 - [Ember.js](https://emberjs.com/) & Discourse
 
 15:10 - Why Ruby?
 
 18:18 - [discourse](https://github.com/discourse/discourse) Contribution
 
 - [guard](https://github.com/guard/guard)
-- [PhantomJS](http://phantomjs.org/)
+- [PhantomJS](https://phantomjs.org/)
 
 31:06 - Making Discourse Work
 
-- [redis](http://redis.io/)
+- [redis](https://redis.io/)
 - Ruby 2.0
 - [MiniProfiler/Ruby](https://github.com/SamSaffron/MiniProfiler/tree/master/Ruby)
 
 44:05 - Multisite Stuff
 
-- [Multisite setup instructions](http://meta.discourse.org/t/multisite-setup-instructions/4874)
-- [apartment](http://rubygems.org/gems/apartment)
+- [Multisite setup instructions](https://meta.discourse.org/t/multisite-setup-instructions/4874)
+- [apartment](https://rubygems.org/gems/apartment)
 
 46:42 - Multithreading
 
 49:50 - [message_bus](https://github.com/samsaffron/message_bus)
 
-- [faye](http://rubygems.org/gems/faye)
+- [faye](https://rubygems.org/gems/faye)
 
 52:46 - [Code Climate](https://codeclimate.com/)
 
@@ -61,7 +61,7 @@ Check out [106 RR Discourse with Jeff Atwood](http://rubyrogues.com/106-rr-disco
 
 ### Book Club
 
-[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](http://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
+[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](https://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
 
 ### Next Week
 

@@ -32,7 +32,7 @@ tags:
 - Rhyme
 - and much more!
   **Links: &nbsp;**
-- [http://blog.mgechev.com](http://blog.mgechev.com)
+- [https://blog.mgechev.com](https://blog.mgechev.com)
 - [https://github.com/mgechev](https://github.com/mgechev)
 - **@** mgechev
 - https://rhyme.com

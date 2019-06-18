@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 **Host:** Charles Max Wood **Special Guest:** Ethan Brown
 ### **Summary**
@@ -23,7 +23,7 @@ Ethan Brown shares his story starting with his homeschooling days and getting in
 
 - [Web Development with Node and Express: Leveraging the JavaScript Stack by Ethan Brown](https://www.amazon.com/Web-Development-Node-Express-Leveraging-ebook/dp/B00LG17AGO/ref=as_li_ss_tl?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 - [https://vms-inc.com/](https://vms-inc.com/)
-- [http://automerge.com/](http://automerge.com/)
+- [https://automerge.com/](https://automerge.com/)
 - [https://ant.design/](https://ant.design/)
 - [https://twitter.com/EthanRBrown](https://twitter.com/EthanRBrown)
 

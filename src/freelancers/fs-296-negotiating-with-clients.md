@@ -50,7 +50,7 @@ Picks
 
 Reuven Lerner
 
-- [tranistor.fm](http://tranistor.fm)
+- [tranistor.fm](https://tranistor.fm)
 
 Jonathan Stark
 
@@ -58,6 +58,6 @@ Jonathan Stark
 
 Jeremy Green
 
-- [Increase Your Consulting Fees](http://increaseyourconsultingfees.com)
+- [Increase Your Consulting Fees](https://increaseyourconsultingfees.com)
 
 ### Transcript

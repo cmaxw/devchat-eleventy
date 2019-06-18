@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Don’t miss out! Check out [Angular Remote Conf](http://angularremoteconf.com)!
+Don’t miss out! Check out [Angular Remote Conf](https://angularremoteconf.com)!
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Don’t miss out! Check out [Angular Remote Conf](http://angularremoteconf.com)!
 
 - [Twitter](https://twitter.com/wbucksoft)
 - [GitHub](https://github.com/willbuck)
-- [AngularMN](http://www.meetup.com/AngularMN/)
+- [AngularMN](https://www.meetup.com/AngularMN/)
 
 02:57 - Membership & Attendance
 
@@ -36,11 +36,11 @@ Don’t miss out! Check out [Angular Remote Conf](http://angularremoteconf.com)!
 
 10:35 - Prizes & Giveaways
 
-- [Amazing Prize-O-Tron](http://prize-o-tron.herokuapp.com/)
+- [Amazing Prize-O-Tron](https://prize-o-tron.herokuapp.com/)
 - [JetBrains](https://www.jetbrains.com/)
 - [Frontend Masters](https://frontendmasters.com/)
-- [Pluralsight](http://www.pluralsight.com/)
-- [O’Reilly Media](http://www.oreilly.com/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [O’Reilly Media](https://www.oreilly.com/)
 - [egghead.io](https://egghead.io/)
 
 13:54 - Advice for Creating Meetups
@@ -51,7 +51,7 @@ Don’t miss out! Check out [Angular Remote Conf](http://angularremoteconf.com)!
   - Social Hours
 - Sponsorship
 - Advertising
-  - [Meetup.com](http://www.meetup.com/)
+  - [Meetup.com](https://www.meetup.com/)
   - [Google Groups](https://groups.google.com/)
 
 19:47 - Topics & Speakers
@@ -72,7 +72,7 @@ Don’t miss out! Check out [Angular Remote Conf](http://angularremoteconf.com)!
 - [Ruby Rogues Episode #216: Code Review Culture with Derek Prior](https://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior)
 - Arrogance vs Confidence
 - [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
-  - [Scott Hanselman: I'm a phony. Are you?](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx)
+  - [Scott Hanselman: I'm a phony. Are you?](https://www.hanselman.com/blog/ImAPhonyAreYou.aspx)
 
 39:04 - Land Grab Your Social Media
 
@@ -84,7 +84,7 @@ Extras
 - [Adventures in Angular Episode #44: Visual Studio Code with Erich Gamma and Chris Dias](https://devchat.tv/adventures-in-angular/044-aia-visual-studio-code-with-erich-gamma-and-chris-dias)
   Picks
 
-[Galactic Civilizations III](http://www.galciv3.com/) (Joe)[Legendary Encounters: An Alien Deck Building Game](https://boardgamegeek.com/boardgame/146652/legendary-encounters-alien-deck-building-game) (Joe)[Good Mythical Morning Podcast](https://itunes.apple.com/us/podcast/good-mythical-morning-audio/id494335210?mt=2) (Katya)[Coin](http://onlycoin.com) (John)[[Pluralsight] Introducing Visual Studio Code by John Papa](http://www.johnpapa.net/visual-studio-code/) (John)[Angular Remote Conf](http://angularremoteconf.com) (Chuck)[Mastermind Groups](http://www.thesuccessalliance.com/what-is-a-mastermind-group.html) (Chuck)[Midwest JS YouTube Channel](https://www.youtube.com/channel/UCg09l6pJcp2DdCcsSrJmQng) (Will)[Last Week Tonight with John Oliver](https://www.youtube.com/user/LastWeekTonight) (Will)[Heroes of the Storm](http://us.battle.net/heroes/en/) (Will)
+[Galactic Civilizations III](https://www.galciv3.com/) (Joe)[Legendary Encounters: An Alien Deck Building Game](https://boardgamegeek.com/boardgame/146652/legendary-encounters-alien-deck-building-game) (Joe)[Good Mythical Morning Podcast](https://itunes.apple.com/us/podcast/good-mythical-morning-audio/id494335210?mt=2) (Katya)[Coin](https://onlycoin.com) (John)[[Pluralsight] Introducing Visual Studio Code by John Papa](https://www.johnpapa.net/visual-studio-code/) (John)[Angular Remote Conf](https://angularremoteconf.com) (Chuck)[Mastermind Groups](https://www.thesuccessalliance.com/what-is-a-mastermind-group.html) (Chuck)[Midwest JS YouTube Channel](https://www.youtube.com/channel/UCg09l6pJcp2DdCcsSrJmQng) (Will)[Last Week Tonight with John Oliver](https://www.youtube.com/user/LastWeekTonight) (Will)[Heroes of the Storm](https://us.battle.net/heroes/en/) (Will)
 
 ### Transcript
 

@@ -30,6 +30,6 @@ The Talk uses both Angular and Node&nbsp;for authentication. It shows cross-site
 
 ## **Picks:**
 
-Alyssa: [Egg, Inc.&nbsp;](https://play.google.com/store/apps/details?id=com.auxbrain.egginc&hl=en)John: [Getting Started with Node. js Security with Express and Angular by Brian Clark](https://www.pluralsight.com/courses/nodejs-security-express-angular-get-started)&nbsp;and&nbsp;[Core de Force](https://www.amazon.com/CORE-FORCE-Base-workout-program/dp/B01M0N6HCM)Charles: [Autonomous Desks](https://www.autonomous.ai/)Brian: [Raspberry-pi](https://www.raspberrypi.org/)&nbsp;and&nbsp;[Mr. Robot (show on USA Network)](http://www.usanetwork.com/mrrobot/episodes)
+Alyssa: [Egg, Inc.&nbsp;](https://play.google.com/store/apps/details?id=com.auxbrain.egginc&hl=en)John: [Getting Started with Node. js Security with Express and Angular by Brian Clark](https://www.pluralsight.com/courses/nodejs-security-express-angular-get-started)&nbsp;and&nbsp;[Core de Force](https://www.amazon.com/CORE-FORCE-Base-workout-program/dp/B01M0N6HCM)Charles: [Autonomous Desks](https://www.autonomous.ai/)Brian: [Raspberry-pi](https://www.raspberrypi.org/)&nbsp;and&nbsp;[Mr. Robot (show on USA Network)](https://www.usanetwork.com/mrrobot/episodes)
 
 ### Transcript

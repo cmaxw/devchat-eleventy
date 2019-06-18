@@ -16,17 +16,17 @@ tags:
 
 - [Twitter](https://twitter.com/jescalan)
 - [GitHub](https://github.com/jenius)
-- [Carrot Creative](http://carrot.is/creative)
+- [Carrot Creative](https://carrot.is/creative)
 
-03:15 - [Roots](http://roots.cx/)
+03:15 - [Roots](https://roots.cx/)
 
 - [[GitHub] roots](https://github.com/jenius/roots)
 
 05:20 - Static Sites vs Dynamic Sites
 
-- Resource: [Static vs Dynamic Websites](http://www.edinteractive.co.uk/article/?id=4)
+- Resource: [Static vs Dynamic Websites](https://www.edinteractive.co.uk/article/?id=4)
 - Scale
-- [SEO (Search Engine Optimization)](http://en.wikipedia.org/wiki/Search_engine_optimization)
+- [SEO (Search Engine Optimization)](https://en.wikipedia.org/wiki/Search_engine_optimization)
 
 13:47 - Plugins
 
@@ -36,18 +36,18 @@ tags:
 
 20:27 - Roots vs Other Static Site Generators
 
-- [Technical Debt](http://en.wikipedia.org/wiki/Technical_debt)
+- [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
 
-22:31 - [Netlify](http://netlify.com)
+22:31 - [Netlify](https://netlify.com)
 
-26:22 - [HTTPS](http://en.wikipedia.org/wiki/HTTPS)
+26:22 - [HTTPS](https://en.wikipedia.org/wiki/HTTPS)
 
 - [Mathias](https://www.netlify.com/blog/2014/10/03/five-reasons-you-want-https-for-your-static-site)[Biilmann](https://www.netlify.com/blog/2014/10/03/five-reasons-you-want-https-for-your-static-site)[: Five Reasons you want HTTPS for your Static site](https://www.netlify.com/blog/2014/10/03/five-reasons-you-want-https-for-your-static-site)
 - [Let's Encrypt](https://letsencrypt.org)
-  - [Extended Validation Certificate (EV Certificate)](http://en.wikipedia.org/wiki/Extended_Validation_Certificate)
+  - [Extended Validation Certificate (EV Certificate)](https://en.wikipedia.org/wiki/Extended_Validation_Certificate)
     Picks
 
-[ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/#Constants) (Aimee)[Jacob Kaplan-Moss: Keynote at Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE) (Aimee)[Dr. Who](http://www.imdb.com/title/tt0436992/) (AJ)[Power Rangers](http://www.imdb.com/title/tt0106064/?ref_=fn_al_tt_1) (AJ)[Marvel Digital Comics Unlimited](http://marvel.com/comics/unlimited) (Joe)[GoFundMe](http://www.gofundme.com/) (Joe)[Netlify](http://netlify.com) (Jeff)[accord](https://github.com/jenius/accord) (Jeff)[Contentful](http://contentful.com) (Jeff)&nbsp;
+[ECMAScript 6 — New Features: Overview & Comparison](https://es6-features.org/#Constants) (Aimee)[Jacob Kaplan-Moss: Keynote at Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE) (Aimee)[Dr. Who](https://www.imdb.com/title/tt0436992/) (AJ)[Power Rangers](https://www.imdb.com/title/tt0106064/?ref_=fn_al_tt_1) (AJ)[Marvel Digital Comics Unlimited](https://marvel.com/comics/unlimited) (Joe)[GoFundMe](https://www.gofundme.com/) (Joe)[Netlify](https://netlify.com) (Jeff)[accord](https://github.com/jenius/accord) (Jeff)[Contentful](https://contentful.com) (Jeff)&nbsp;
 
 ### Transcript
 

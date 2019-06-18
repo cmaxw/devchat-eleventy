@@ -14,43 +14,43 @@ tags:
 
 ### Panel
 
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Yehuda Katz ([twitter](http://twitter.com/wycats) [github](https://github.com/wycats) [blog](http://yehudakatz.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Yehuda Katz ([twitter](https://twitter.com/wycats) [github](https://github.com/wycats) [blog](https://yehudakatz.com/))
 
 ### Discussion
 
-- [JSON](http://www.json.org/)
+- [JSON](https://www.json.org/)
 - Build the API first
 - Resources
-- [Serializer Gem](http://rubygems.org/gems/serializer) (Ruby)
+- [Serializer Gem](https://rubygems.org/gems/serializer) (Ruby)
 - Efficient for widely used browsers
-- [Ember.js](http://emberjs.com/)
-- [Ruby on Rails](http://rubyonrails.org/)
+- [Ember.js](https://emberjs.com/)
+- [Ruby on Rails](https://rubyonrails.org/)
 - Data Binding
-- [Backbone.js](http://documentcloud.github.com/backbone/)
+- [Backbone.js](https://documentcloud.github.com/backbone/)
 - Truth in DOM
 - Events
 - MVV vs VVV vs MVC
-- [Knockout.js](http://knockoutjs.com/)
-- [Spine.js](http://spinejs.com/)
-- [Angular.js](http://angularjs.org/#/)
-- [Batman.js](http://batmanjs.org/)
+- [Knockout.js](https://knockoutjs.com/)
+- [Spine.js](https://spinejs.com/)
+- [Angular.js](https://angularjs.org/#/)
+- [Batman.js](https://batmanjs.org/)
 - REST
 - HTTP Spec
 
 ### Picks
 
-- [Mike Burbiglia](http://birbigs.com/) (Jamison)
-- [Inu](http://www.amazon.com/gp/product/B003M712VO/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B003M712VO) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=B003M712VO) (Jamison)
-- [Oh Darling - Plug In Stereo](http://www.amazon.com/gp/product/B006M6WCRK/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B006M6WCRK) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=B006M6WCRK) (AJ)
-- [Parse.com/docs/android_guide](http://parse.com/docs/android_guide) (AJ)
-- [The Yellow Lighted Bookshop](http://www.amazon.com/gp/product/1555974503/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1555974503) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=1555974503) (Yehuda)
-- [Mou](http://mouapp.com/)(Yehuda)
-- [Mountain West Ruby Conference](http://mtnwestrubyconf.org/) (Chuck)
-- [Outliers](http://www.amazon.com/gp/product/0316017922/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0316017922) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0316017922) (Chuck)
-- [MacVim](http://code.google.com/p/macvim/) (Chuck)
+- [Mike Burbiglia](https://birbigs.com/) (Jamison)
+- [Inu](https://www.amazon.com/gp/product/B003M712VO/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B003M712VO) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=B003M712VO) (Jamison)
+- [Oh Darling - Plug In Stereo](https://www.amazon.com/gp/product/B006M6WCRK/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B006M6WCRK) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=B006M6WCRK) (AJ)
+- [Parse.com/docs/android_guide](https://parse.com/docs/android_guide) (AJ)
+- [The Yellow Lighted Bookshop](https://www.amazon.com/gp/product/1555974503/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1555974503) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=1555974503) (Yehuda)
+- [Mou](https://mouapp.com/)(Yehuda)
+- [Mountain West Ruby Conference](https://mtnwestrubyconf.org/) (Chuck)
+- [Outliers](https://www.amazon.com/gp/product/0316017922/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0316017922) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0316017922) (Chuck)
+- [MacVim](https://code.google.com/p/macvim/) (Chuck)
 - [Janus](https://github.com/carlhuda/janus) (Chuck)
 
 ### Transcript

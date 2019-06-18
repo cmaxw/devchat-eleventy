@@ -16,16 +16,16 @@ tags:
 
 - [Twitter](https://twitter.com/derekprior)
 - [GitHub](https://github.com/derekprior)
-- [Blog](http://www.prioritized.net/)
+- [Blog](https://www.prioritized.net/)
 - [thoughtbot](https://thoughtbot.com/)
   - [@thoughtbot](https://twitter.com/thoughtbot)
   - [thoughtbot Code Review Guides](https://github.com/thoughtbot/guides/tree/master/code-review)
-- [The Bike Shed Podcast](http://bikeshed.fm/)
+- [The Bike Shed Podcast](https://bikeshed.fm/)
   - [@\_bikeshed](https://twitter.com/_bikeshed)
 
 04:01 - Code Reviews
 
-- [Derek Prior: Implementing a Strong Code-Review Culture @ RailsConf 2015](http://confreaks.tv/videos/railsconf2015-implementing-a-strong-code-review-culture)
+- [Derek Prior: Implementing a Strong Code-Review Culture @ RailsConf 2015](https://confreaks.tv/videos/railsconf2015-implementing-a-strong-code-review-culture)
   - [Slides](https://speakerdeck.com/derekprior/cultivating-a-code-review-culture)
 
 05:14 - What happens when you don’t do code reviews?
@@ -42,7 +42,7 @@ tags:
 14:51 - Small Changes, “Pull Request Bombs”
 
 - Handling Architectural Disagreements and Discussions
-- [Improving the Design of Existing Code by Martin Fowler (with Kent Beck, John Brant, William Opdyke, and Don Roberts)](http://martinfowler.com/books/refactoring.html)
+- [Improving the Design of Existing Code by Martin Fowler (with Kent Beck, John Brant, William Opdyke, and Don Roberts)](https://martinfowler.com/books/refactoring.html)
 
 23:49 - Making Code Review a Supportive Process
 
@@ -66,7 +66,7 @@ tags:
 
 - Style Guides
   - [rubocop](https://github.com/bbatsov/rubocop)
-  - [JSHint](http://jshint.com/)
+  - [JSHint](https://jshint.com/)
   - [sass-lint](https://www.npmjs.com/package/sass-lint)
 - [Hound](https://houndci.com/)
   - [repo](https://github.com/thoughtbot/hound)
@@ -74,15 +74,15 @@ tags:
 
 47:49 - Code Review Feedback Resources for Solo Programmers
 
-- [exercism.io](http://exercism.io/)
-- [pairprogramwith.me](http://www.pairprogramwith.me/)
-- [CodeNewbie](http://www.codenewbie.org/)
-  - [Ruby Monday](http://www.codenewbie.org/blogs/ruby-monday)
-  - [JavaScript Tuesday](http://www.codenewbie.org/blogs/javascript-tuesday)
-  - [Python Thursday](http://www.codenewbie.org/blogs/python-thursday)
+- [exercism.io](https://exercism.io/)
+- [pairprogramwith.me](https://www.pairprogramwith.me/)
+- [CodeNewbie](https://www.codenewbie.org/)
+  - [Ruby Monday](https://www.codenewbie.org/blogs/ruby-monday)
+  - [JavaScript Tuesday](https://www.codenewbie.org/blogs/javascript-tuesday)
+  - [Python Thursday](https://www.codenewbie.org/blogs/python-thursday)
     Picks
 
-[Code Newbie Podcast: Sandi Metz Part I](http://www.codenewbie.org/podcast/poodr-and-beyond-part-i) (Saron)[Code Newbie Podcast: Sandi Metz Part II](http://www.codenewbie.org/podcast/poodr-and-beyond-part-ii) (Saron)[If Google Were A Guy](https://www.youtube.com/watch?v=YuOBzWF0Aws) (Saron)[LEGO Ideas - Lovelace & Babbage](https://ideas.lego.com/projects/102740) (Coraline)[CoverMyMeds is offering Ruby on Rails training for experienced developers](http://covermymeds.com/ruby) (David)[CoverMyMeds Billboard 1](https://s3.amazonaws.com/uploads.hipchat.com/111074/826865/PesSY3hmz6jZMKL/CJQq5lbUAAAvk5x.jpg-large.jpeg) (David)[CoverMyMeds Billboard 2](https://s3.amazonaws.com/uploads.hipchat.com/111074/826865/num6DDjzLhicYUV/IMG_2210.jpg) (David)[The Bike Shed Podcast](http://bikeshed.fm) (Derek)[The Ember RFC Process](https://github.com/emberjs/rfcs) (Derek)[tota11y](https://khan.github.io/tota11y) (Derek)[Eileen Uchitelle: How to Performance @ GoRuCo 2015](http://confreaks.tv/videos/goruco2015-how-to-performance) (Derek)[Olympus SP-100EE](http://www.olympus.co.uk/site/en/c/cameras/digital_cameras/traveller/sp_100ee/index.html) (Avdi)
+[Code Newbie Podcast: Sandi Metz Part I](https://www.codenewbie.org/podcast/poodr-and-beyond-part-i) (Saron)[Code Newbie Podcast: Sandi Metz Part II](https://www.codenewbie.org/podcast/poodr-and-beyond-part-ii) (Saron)[If Google Were A Guy](https://www.youtube.com/watch?v=YuOBzWF0Aws) (Saron)[LEGO Ideas - Lovelace & Babbage](https://ideas.lego.com/projects/102740) (Coraline)[CoverMyMeds is offering Ruby on Rails training for experienced developers](https://covermymeds.com/ruby) (David)[CoverMyMeds Billboard 1](https://s3.amazonaws.com/uploads.hipchat.com/111074/826865/PesSY3hmz6jZMKL/CJQq5lbUAAAvk5x.jpg-large.jpeg) (David)[CoverMyMeds Billboard 2](https://s3.amazonaws.com/uploads.hipchat.com/111074/826865/num6DDjzLhicYUV/IMG_2210.jpg) (David)[The Bike Shed Podcast](https://bikeshed.fm) (Derek)[The Ember RFC Process](https://github.com/emberjs/rfcs) (Derek)[tota11y](https://khan.github.io/tota11y) (Derek)[Eileen Uchitelle: How to Performance @ GoRuCo 2015](https://confreaks.tv/videos/goruco2015-how-to-performance) (Derek)[Olympus SP-100EE](https://www.olympus.co.uk/site/en/c/cameras/digital_cameras/traveller/sp_100ee/index.html) (Avdi)
 
 ### Transcript
 

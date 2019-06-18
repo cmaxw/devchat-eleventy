@@ -12,11 +12,11 @@ tags:
   - podcast
 ---
 
-00:45 - [Eloquent Ruby by Russ Olsen](http://www.amazon.com/gp/product/0321584104/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321584104&linkCode=as2&tag=chamaxwoo-20&linkId=CKURDYPHOJLLOYH7)
+00:45 - [Eloquent Ruby by Russ Olsen](https://www.amazon.com/gp/product/0321584104/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321584104&linkCode=as2&tag=chamaxwoo-20&linkId=CKURDYPHOJLLOYH7)
 
-- [Design Patterns in Ruby](http://www.amazon.com/gp/product/0321490452/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321490452)[&nbsp;by Russ Olsen](http://www.amazon.com/gp/product/0321490452/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321490452&linkCode=as2&tag=chamaxwoo-20&linkId=Q53N3R36S6THMV6M)
+- [Design Patterns in Ruby](https://www.amazon.com/gp/product/0321490452/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321490452)[&nbsp;by Russ Olsen](https://www.amazon.com/gp/product/0321490452/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321490452&linkCode=as2&tag=chamaxwoo-20&linkId=Q53N3R36S6THMV6M)
   07:35 - Unique Control Structure in Ruby
-- [until](http://www.ruby-doc.org/docs/ProgrammingRuby/language.html#loops)
+- [until](https://www.ruby-doc.org/docs/ProgrammingRuby/language.html#loops)
 - Unless
   10:19 - Syntax in Book
 - Suppress Line Endings
@@ -32,7 +32,7 @@ tags:
   28:00 - Book Quibbles (Discrepancies)
 - Explicit Returns
 - Method Length
-  35:22 -&nbsp;[The Weirich rule](http://onestepback.org/index.cgi/Tech/Ruby/BraceVsDoEnd.rdoc)37:50 -&nbsp;[Design Patterns](http://www.amazon.com/gp/product/0201633612/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201633612)38:30 - Idioms / Accommodating Various Types of Programmers 45:50 - Equals in Ruby 47:55 - Around Filter metaphor 49:38 - “Dragging Along Scope Variables” 51:01 - “Good Code is like a Good Joke, you shouldn’t have to explain it”
+  35:22 -&nbsp;[The Weirich rule](https://onestepback.org/index.cgi/Tech/Ruby/BraceVsDoEnd.rdoc)37:50 -&nbsp;[Design Patterns](https://www.amazon.com/gp/product/0201633612/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201633612)38:30 - Idioms / Accommodating Various Types of Programmers 45:50 - Equals in Ruby 47:55 - Around Filter metaphor 49:38 - “Dragging Along Scope Variables” 51:01 - “Good Code is like a Good Joke, you shouldn’t have to explain it”
 
 ### Transcript
 

@@ -15,7 +15,7 @@ tags:
 01:21 - Building Paid Communities
 
 - [The Freelancers' Show Episode #177: Repurposing Material and Building Courses with Keith Perhac](https://devchat.tv/freelancers/177-fs-repurposing-material-and-building-courses-with-keith-perhac)
-- [Book Yourself Solid: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port](http://www.amazon.com/gp/product/0470643471/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470643471&linkCode=as2&tag=devchattv-20&linkId=E2CJZXBMKLNARWQY)
+- [Book Yourself Solid: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port](https://www.amazon.com/gp/product/0470643471/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470643471&linkCode=as2&tag=devchattv-20&linkId=E2CJZXBMKLNARWQY)
 
 04:45 - Platforms
 
@@ -38,7 +38,7 @@ tags:
 
 43:38 - Presense
 
-- [15 Minute Podcast Listener chat with Charles Wood](http://freelancersshow.com/15minutes)
+- [15 Minute Podcast Listener chat with Charles Wood](https://freelancersshow.com/15minutes)
 
 46:36 - Rallying Additional Helpers, Mentors, Friends, etc.
 
@@ -47,7 +47,7 @@ tags:
 - [Discourse](https://www.discourse.org/)
   Picks
 
-[The Top 16 List Building Strategies of 2015 by Bryan Harris](http://videofruit.com/ebook) (Reuven)[Slack](https://slack.com/) (Jonathan)[The Traffic Manual by Kai Davis](https://doubleyouraudience.com/traffic-manual/) (Jonathan)[Selling to Big Companies by Jill Konrath](http://www.amazon.com/gp/product/1419515624/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1419515624&linkCode=as2&tag=devchattv-20&linkId=ATRO34FZWMQMI2PR) (Philip)[FamilySearch](http://familysearch.org) (Chuck)[Relative Finder](http://relativefinder.org) (Chuck)
+[The Top 16 List Building Strategies of 2015 by Bryan Harris](https://videofruit.com/ebook) (Reuven)[Slack](https://slack.com/) (Jonathan)[The Traffic Manual by Kai Davis](https://doubleyouraudience.com/traffic-manual/) (Jonathan)[Selling to Big Companies by Jill Konrath](https://www.amazon.com/gp/product/1419515624/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1419515624&linkCode=as2&tag=devchattv-20&linkId=ATRO34FZWMQMI2PR) (Philip)[FamilySearch](https://familysearch.org) (Chuck)[Relative Finder](https://relativefinder.org) (Chuck)
 
 ### Transcript
 

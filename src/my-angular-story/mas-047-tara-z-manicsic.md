@@ -76,8 +76,8 @@ Charles
 
 Tara
 
-- [Connect.Tech](http://connect.tech/)
-- [DevFest Atlanta](http://devfestatl.com/)
+- [Connect.Tech](https://connect.tech/)
+- [DevFest Atlanta](https://devfestatl.com/)
 - [Cedar Point](https://www.cedarpoint.com/)
 
 ### Transcript

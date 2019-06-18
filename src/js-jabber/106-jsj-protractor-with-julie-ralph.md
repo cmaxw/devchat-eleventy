@@ -15,49 +15,49 @@ tags:
 ### Panel
 
 - Julie Ralph ([twitter](https://twitter.com/SomeJulie) [github](https://github.com/juliemr))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://blog.coolaj86.com/) [youtube](http://youtube.com/coolaj86))
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://blog.coolaj86.com/) [youtube](https://youtube.com/coolaj86))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:32 - Julie Ralph
 
-- [Google](http://www.google.com/)
+- [Google](https://www.google.com/)
 - [AngularJS](https://angularjs.org/)
 - [protractor](https://github.com/angular/protractor)
   02:07 - QA & Development 03:34 - [protractor](https://github.com/angular/protractor)
 - [Webdriver Project](https://code.google.com/p/selenium/wiki/GettingStarted)
-- [Karma](http://karma-runner.github.io/0.12/index.html)
-  08:36 - [End-to-End Tests](http://www.techopedia.com/definition/7035/end-to-end-test) vs [Unit Tests](http://en.wikipedia.org/wiki/Unit_testing)09:57 - Cutting Down Testing Time
+- [Karma](https://karma-runner.github.io/0.12/index.html)
+  08:36 - [End-to-End Tests](https://www.techopedia.com/definition/7035/end-to-end-test) vs [Unit Tests](https://en.wikipedia.org/wiki/Unit_testing)09:57 - Cutting Down Testing Time
 - [Travis CI](https://travis-ci.org/)
 - [Sauce Labs](https://saucelabs.com/)
-- [Selenium WebDriver](http://docs.seleniumhq.org/projects/webdriver/)
-- [Jenkins CI](http://jenkins-ci.org/)
+- [Selenium WebDriver](https://docs.seleniumhq.org/projects/webdriver/)
+- [Jenkins CI](https://jenkins-ci.org/)
   14:33 - Parallelization 17:36 - Roots & Origin
-- [Mocha](http://visionmedia.github.io/mocha/)
+- [Mocha](https://visionmedia.github.io/mocha/)
   20:00 - Becoming a Part of the Angular Team 21:29 - QA/Testing Best Practices
-- [Google Testing Blog](http://googletesting.blogspot.com/)
-  25:10 - Angular 2.0 27:02 - Angular & Testing 28:13 - Running Protractor on Windows 31:02 - [TDD](http://en.wikipedia.org/wiki/Test-driven_development)35:14 - Using Tests as Comments 36:02 - Making Debugging Easier
+- [Google Testing Blog](https://googletesting.blogspot.com/)
+  25:10 - Angular 2.0 27:02 - Angular & Testing 28:13 - Running Protractor on Windows 31:02 - [TDD](https://en.wikipedia.org/wiki/Test-driven_development)35:14 - Using Tests as Comments 36:02 - Making Debugging Easier
 
 ### Picks
 
-- [CAKE](http://www.cakemusic.com/) (AJ)
-- [Birthday Cake](http://en.wikipedia.org/wiki/Birthday_cake) (AJ)
+- [CAKE](https://www.cakemusic.com/) (AJ)
+- [Birthday Cake](https://en.wikipedia.org/wiki/Birthday_cake) (AJ)
 - Medium-rare Hamburgers (AJ)
-- [Crucial Conversations: Tools for Talking When Stakes Are High by Kerry Patterson](http://www.amazon.com/gp/product/0071771328/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0071771328&linkCode=as2&tag=chamaxwoo-20) (Jamison)
-- [Steelheart by Brandon Sanderson](http://brandonsanderson.com/books/steelheart/steelheart/) (Aaron)
-- [DevFest Family 2014](http://www.devfestfam.com/) (Aaron)
+- [Crucial Conversations: Tools for Talking When Stakes Are High by Kerry Patterson](https://www.amazon.com/gp/product/0071771328/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0071771328&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [Steelheart by Brandon Sanderson](https://brandonsanderson.com/books/steelheart/steelheart/) (Aaron)
+- [DevFest Family 2014](https://www.devfestfam.com/) (Aaron)
 - [[Indiegogo] Robots on the Line](https://www.indiegogo.com/projects/robots-on-the-line#home) (Joe)
-- [Japanese: The Game](http://japanesethegame.com/) (Joe)
+- [Japanese: The Game](https://japanesethegame.com/) (Joe)
 - [Julie Ralph](https://github.com/juliemr) (Joe)
-- [OpenWest](http://www.openwest.org/) (Chuck)
-- [Agile Roots](http://www.agileroots.com/) (Chuck)
-- [WatchMeCode](http://sub.watchmecode.net/) (Chuck)
+- [OpenWest](https://www.openwest.org/) (Chuck)
+- [Agile Roots](https://www.agileroots.com/) (Chuck)
+- [WatchMeCode](https://sub.watchmecode.net/) (Chuck)
 - [HabitRPG](https://habitrpg.com/) (Julie)
-- [Test the Web Forward](http://testthewebforward.org/) (Julie)
+- [Test the Web Forward](https://testthewebforward.org/) (Julie)
 
 ### Next Week
 

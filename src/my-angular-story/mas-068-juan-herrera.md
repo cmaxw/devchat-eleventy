@@ -14,7 +14,7 @@ tags:
 
 ## **&nbsp;Sponsors**
 
-- [Sentry&nbsp;](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry&nbsp;](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Guest:** &nbsp;Juan Herrera
 ### **Episode Summary**
@@ -23,7 +23,7 @@ In this episode of My Angular Story, Charles hosts Juan Herrera, Google Develope
 
 - <u><a href="https://devchat.tv/adv-in-angular/aia-220-creating-a-great-community-with-juan-herrera/">Adventures in Angular 220: Creating a Great Community with Juan Herrera</a></u>
 - [Juan's Twitter &nbsp;](https://twitter.com/jdjuan?lang=en)
-- [Holberton | School of Engineering](http://www.holbertonschool.com/_)
+- [Holberton | School of Engineering](https://www.holbertonschool.com/_)
 - [NG-Colombia](https://ngcolombia.com/)
 - [NG-Rome](https://ngrome.io/)
 - [Juan's Medium](https://medium.com/@jdjuan)

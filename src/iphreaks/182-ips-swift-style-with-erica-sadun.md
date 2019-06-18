@@ -14,12 +14,12 @@ tags:
 
 Introduction
 
-- [Erica Sadun](http://ericasadun.com/)
+- [Erica Sadun](https://ericasadun.com/)
 - Erica on [Twitter](https://twitter.com/ericasadun)
 - [Pinky and the Brain](https://www.youtube.com/watch?v=e_mPrhwpZ-8)
   2:30: Moving from Swift 2.0 to 3.0
 - Swift Style
-  7:50: [One True Brace](http://wiki.c2.com/?OneTrueBraceStyle)
+  7:50: [One True Brace](https://wiki.c2.com/?OneTrueBraceStyle)
 - Hybrid approach
 - Mixing Allman with One True Brace
   14:30: Long declarations
@@ -29,7 +29,7 @@ Introduction
 - Different types of comment systems
   24:20: Hardest style decisions to make
 - Advantages and disadvantages
-- [Static public vs. public static](http://stackoverflow.com/questions/5527120/difference-between-public-and-public-static)
+- [Static public vs. public static](https://stackoverflow.com/questions/5527120/difference-between-public-and-public-static)
 - Understanding the context of style
   30:50: Importance of the team adopting a style
 - Anti-turbulance system
@@ -41,7 +41,7 @@ Introduction
 
 ### Picks:
 
-[EveryNoise.com](http://everynoise.com/) (Jaim)[iOS Remote Conf](https://allremoteconfs.com/ios-2016)(Charles)[Toggl](https://toggl.com/) (Charles)[SpamSieve](https://c-command.com/spamsieve/) (Erica)[Keyboard Maestro](https://www.keyboardmaestro.com/) (Erica)[BetterTouchTool](https://www.boastr.net/) (Erica)[Hired.com](https://hired.com/iphreaks)
+[EveryNoise.com](https://everynoise.com/) (Jaim)[iOS Remote Conf](https://allremoteconfs.com/ios-2016)(Charles)[Toggl](https://toggl.com/) (Charles)[SpamSieve](https://c-command.com/spamsieve/) (Erica)[Keyboard Maestro](https://www.keyboardmaestro.com/) (Erica)[BetterTouchTool](https://www.boastr.net/) (Erica)[Hired.com](https://hired.com/iphreaks)
 
 ### Transcript
 

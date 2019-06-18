@@ -13,48 +13,48 @@ tags:
   - new_programmers
 ---
 
-[Support our Teespring campaign!](http://www.teespring.com/aprilrogues) Get your Ruby Rogues unisex t-shirts, hoodies, ladies’-sized, and long-sleeve tees!
+[Support our Teespring campaign!](https://www.teespring.com/aprilrogues) Get your Ruby Rogues unisex t-shirts, hoodies, ladies’-sized, and long-sleeve tees!
 
 &nbsp;
 
 03:19 - Jake Day Williams Introduction
 
 - [Twitter](https://twitter.com/jakedaywilliams)
-- [Wild Academy](http://wildacademy.co/)
+- [Wild Academy](https://wildacademy.co/)
 - [[YouTube] Wild Academy](https://www.youtube.com/user/JakeDayWilliams)
-- [Learn Ruby: The Beginner Guide: An Introduction to Ruby Programming by Jake Day Williams](http://www.amazon.com/gp/product/B00R4T8EJ4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R4T8EJ4&linkCode=as2&tag=chamaxwoo-20&linkId=TDTT6GGCGGHQTIHQ)
-- [Learn PHP: The Beginner Guide: An Introduction to PHP Programming by Jake Day Williams](http://www.amazon.com/gp/product/B00ULKOU1O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ULKOU1O&linkCode=as2&tag=chamaxwoo-20&linkId=CH4FOE4BVZJ4JDNB)
+- [Learn Ruby: The Beginner Guide: An Introduction to Ruby Programming by Jake Day Williams](https://www.amazon.com/gp/product/B00R4T8EJ4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R4T8EJ4&linkCode=as2&tag=chamaxwoo-20&linkId=TDTT6GGCGGHQTIHQ)
+- [Learn PHP: The Beginner Guide: An Introduction to PHP Programming by Jake Day Williams](https://www.amazon.com/gp/product/B00ULKOU1O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ULKOU1O&linkCode=as2&tag=chamaxwoo-20&linkId=CH4FOE4BVZJ4JDNB)
 
 03:48 - What Do New People Struggle With?
 
 04:59 - Teaching While Learning and Video Tutorials vs In-Person Training
 
 - Resources:
-  - [Lynda](http://www.lynda.com/)
-  - [The Ultimate Guide to Coding Bootcamps: The Exhaustive List](http://www.skilledup.com/articles/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list/)
+  - [Lynda](https://www.lynda.com/)
+  - [The Ultimate Guide to Coding Bootcamps: The Exhaustive List](https://www.skilledup.com/articles/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list/)
 - Being a “Self-Starter” &nbsp;
 - [The EntreProgrammers Episode 51: Ship 'em Pears with Jake Day Williams](https://www.youtube.com/watch?v=CS9mDPLV25A)
 - “Work the system that _does_ exist, not the system we _wish_ exists.”
-- [Impostor Syndrome](http://en.wikipedia.org/wiki/Impostor_syndrome)
-- [RailsClips](http://devchat.tv/rails-clips)
-  - [RailsClips Kickstarter Campaign](http://devchat.tv/kickstarter)
-- [Turing's Cathedral: The Origins of the Digital Universe by George Dyson](http://www.amazon.com/gp/product/1400075998/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400075998&linkCode=as2&tag=chamaxwoo-20&linkId=AFSFPBF5OEW7WLJZ)
+- [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
+- [RailsClips](https://devchat.tv/rails-clips)
+  - [RailsClips Kickstarter Campaign](https://devchat.tv/kickstarter)
+- [Turing's Cathedral: The Origins of the Digital Universe by George Dyson](https://www.amazon.com/gp/product/1400075998/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400075998&linkCode=as2&tag=chamaxwoo-20&linkId=AFSFPBF5OEW7WLJZ)
   - [Institute for Advanced Study (IAS)](https://www.ias.edu/)
-- [Blender Guru](http://www.blenderguru.com/): [Andrew Price](https://twitter.com/andrewpprice)
+- [Blender Guru](https://www.blenderguru.com/): [Andrew Price](https://twitter.com/andrewpprice)
 
 16:59 - Responsibility
 
 - As Teachers
-  - [Planet Money Podcast: The App Economy with Marco Arment of Instapaper](http://www.npr.org/blogs/money/2012/01/31/146152273/the-tuesday-podcast-the-app-economy)
+  - [Planet Money Podcast: The App Economy with Marco Arment of Instapaper](https://www.npr.org/blogs/money/2012/01/31/146152273/the-tuesday-podcast-the-app-economy)
 - Gauging Your Own Success
 - Digital Content (Updating)
-  - [Ruby on Rails Tutorial: Learn Web Development with Rails by Michael Hartl](http://railstutorial.org)
+  - [Ruby on Rails Tutorial: Learn Web Development with Rails by Michael Hartl](https://railstutorial.org)
 
 23:05 - Feedback
 
 - Trolling and Criticism (Niceness vs Directness)
 - [David Brady: Ruby Hashes](https://vimeo.com/21981264) and [David Brady: Associative Arrays with James Edward Gray II](https://vimeo.com/22041207) Example
-- [The Job Replacement Guide by David Brady](http://www.jobreplacementguide.com/)
+- [The Job Replacement Guide by David Brady](https://www.jobreplacementguide.com/)
 
 26:22 - Leveling Up and Monetizing Content
 
@@ -62,21 +62,21 @@ tags:
 - Ethics and Morals
 - Long-term Sustainability
 
-33:26 - [Impostor Syndrome](http://en.wikipedia.org/wiki/Impostor_syndrome) and [The Dunning–Kruger Effect](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+33:26 - [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) and [The Dunning–Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 
 - [Lara Hogan: On having a totally reasonable amount of self-confidence](https://the-pastry-box-project.net/lara-hogan/2015-march-18)
 
 37:42 - Is the Ruby Community Beginner-Friendly?
 
 - thoughtbot's [Giant Robots Smashing into Other Giant Robots](https://robots.thoughtbot.com/) Podcast
-- [The Ruby on Rails Podcast: 148: Chad Pytel of thoughtbot discusses @dhh's RailsConf 2014 keynote (and more)](http://5by5.tv/rubyonrails/148) &nbsp;
+- [The Ruby on Rails Podcast: 148: Chad Pytel of thoughtbot discusses @dhh's RailsConf 2014 keynote (and more)](https://5by5.tv/rubyonrails/148) &nbsp;
 
 42:50 - Content Production: Is it a barrier to entry?
 
-- [Becoming a Writer by Dorothea Brande](http://www.amazon.com/gp/product/0874771641/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0874771641&linkCode=as2&tag=chamaxwoo-20&linkId=RBPQBTUXB7LG46LI)
+- [Becoming a Writer by Dorothea Brande](https://www.amazon.com/gp/product/0874771641/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0874771641&linkCode=as2&tag=chamaxwoo-20&linkId=RBPQBTUXB7LG46LI)
   Picks
 
-[Survivorship Bias](http://youarenotsosmart.com/2013/05/23/survivorship-bias/) (Saron)[Laurent Bossavit: 10X Programmer and other Myths in Software Engineering](http://blog.fogcreek.com/10x-programmer-and-other-myths-in-software-engineering-interview-with-laurent-bossavit/) (Jessica)[Rachel Nabors: The Hating Game](http://rachelnabors.com/2015/03/13/the-hating-game/) (Coraline)[How to Poo on a Date: The Lovers' Guide to Toilet Etiquette by Mats](http://www.amazon.com/gp/product/1853757829/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1853757829&linkCode=as2&tag=chamaxwoo-20&linkId=V3PSOTYS7KFPECPR) (David)[How to Poo at Work by Mats](http://www.amazon.com/gp/product/0452297664/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452297664&linkCode=as2&tag=chamaxwoo-20&linkId=NJI73UUCOXYV63S3) (David)[How to Poo on Holiday by Mats](http://www.amazon.com/gp/product/1853758116/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1853758116&linkCode=as2&tag=chamaxwoo-20&linkId=TMWKYX2BCS5M45BE) (David)[Steelheart (The Reckoners) by Brandon Sanderson](http://www.amazon.com/gp/product/0385743572/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743572&linkCode=as2&tag=chamaxwoo-20&linkId=UQBFENF72U6RVTSB) (Chuck)[Gitter](https://gitter.im/) (Chuck)[The Entreprogrammers Podcast](http://entreprogrammers.com/) (Jake)[Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software by Scott Rosenberg](http://www.amazon.com/gp/product/1400082471/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400082471&linkCode=as2&tag=chamaxwoo-20&linkId=VK535K7XVFSIEHBD) (Jake)[Laura Sydell: The Forgotten Female Programmers Who Created Modern Tech](http://www.npr.org/blogs/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech) (Jake)
+[Survivorship Bias](https://youarenotsosmart.com/2013/05/23/survivorship-bias/) (Saron)[Laurent Bossavit: 10X Programmer and other Myths in Software Engineering](https://blog.fogcreek.com/10x-programmer-and-other-myths-in-software-engineering-interview-with-laurent-bossavit/) (Jessica)[Rachel Nabors: The Hating Game](https://rachelnabors.com/2015/03/13/the-hating-game/) (Coraline)[How to Poo on a Date: The Lovers' Guide to Toilet Etiquette by Mats](https://www.amazon.com/gp/product/1853757829/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1853757829&linkCode=as2&tag=chamaxwoo-20&linkId=V3PSOTYS7KFPECPR) (David)[How to Poo at Work by Mats](https://www.amazon.com/gp/product/0452297664/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452297664&linkCode=as2&tag=chamaxwoo-20&linkId=NJI73UUCOXYV63S3) (David)[How to Poo on Holiday by Mats](https://www.amazon.com/gp/product/1853758116/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1853758116&linkCode=as2&tag=chamaxwoo-20&linkId=TMWKYX2BCS5M45BE) (David)[Steelheart (The Reckoners) by Brandon Sanderson](https://www.amazon.com/gp/product/0385743572/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743572&linkCode=as2&tag=chamaxwoo-20&linkId=UQBFENF72U6RVTSB) (Chuck)[Gitter](https://gitter.im/) (Chuck)[The Entreprogrammers Podcast](https://entreprogrammers.com/) (Jake)[Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software by Scott Rosenberg](https://www.amazon.com/gp/product/1400082471/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400082471&linkCode=as2&tag=chamaxwoo-20&linkId=VK535K7XVFSIEHBD) (Jake)[Laura Sydell: The Forgotten Female Programmers Who Created Modern Tech](https://www.npr.org/blogs/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech) (Jake)
 
 &nbsp;
 

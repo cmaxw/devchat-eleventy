@@ -30,7 +30,7 @@ tags:
 - Fiber - New Core Architecture
 - And much more!
   **Links:**
-- [http://azat.co](http://azat.co)
+- [https://azat.co](https://azat.co)
 - [https://node.university](https://node.university)
 - https://devchat.tv/js-jabber/230-jsj-node-at-capital-one-with-azat-mardan
   **Picks:** Cory
@@ -38,13 +38,13 @@ tags:
 - [Prettier](https://github.com/prettier)
   Charles
 - [Indiegogo for Dev Chat](https://www.indiegogo.com/projects/devchat-tv)
-- [forum.devchat.tv](http://forum.devchat.tv)
+- [forum.devchat.tv](https://forum.devchat.tv)
   Aimee
-- [Dev Tees](http://devtees.com)
+- [Dev Tees](https://devtees.com)
 - [Hacker News - Question on Stack Exchange and Estimates&nbsp;](https://news.ycombinator.com/news)
   Joe
 - [Heroku&nbsp;](https://www.heroku.com)
-- [El Camino Christmas](http://www.imdb.com/title/tt3255590/)
+- [El Camino Christmas](https://www.imdb.com/title/tt3255590/)
   Azat
 - [PMP&nbsp;](https://www.pmi.org/certifications/types/project-management-pmp)
 - [Azat - Short Lecture](https://node.university)

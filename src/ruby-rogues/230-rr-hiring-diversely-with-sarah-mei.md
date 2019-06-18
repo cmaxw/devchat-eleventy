@@ -20,15 +20,15 @@ Check out and get your ticket for [Rails Remote Conf](https://railsremoteconf.co
 
 - [Twitter](https://twitter.com/sarahmei)
 - [GitHub](https://github.com/sarahmei)
-- [Blog](http://www.sarahmei.com/blog/)
-- [Devmynd](http://www.devmynd.com/)
-- [RailsBridge](http://www.railsbridge.org/)
+- [Blog](https://www.sarahmei.com/blog/)
+- [Devmynd](https://www.devmynd.com/)
+- [RailsBridge](https://www.railsbridge.org/)
 
 06:11 - Why It’s Hard to be “The First Person”
 
 - Biases
   - [Mind the Gap - On the unconscious bias we all carry, and how it applies to hiring](https://devmynd.com/blog/2015-2-mind-the-gap/)
-  - [Avdi Grimm: What it’s like to come back to a Ruby project after 6 months](http://devblog.avdi.org/2015/08/11/what-its-like-to-come-back-to-a-ruby-project-after-6-months/)
+  - [Avdi Grimm: What it’s like to come back to a Ruby project after 6 months](https://devblog.avdi.org/2015/08/11/what-its-like-to-come-back-to-a-ruby-project-after-6-months/)
 
 13:27 - Transmitting Cultural Values
 
@@ -59,14 +59,14 @@ Check out and get your ticket for [Rails Remote Conf](https://railsremoteconf.co
 
 44:40 - Communication Culture
 
-- [Ask vs. Guess Culture](http://mefitours.tumblr.com/post/351510194/ask-culture-and-guess-culture)
+- [Ask vs. Guess Culture](https://mefitours.tumblr.com/post/351510194/ask-culture-and-guess-culture)
 
 50:43 - Empathy
 
-- [How to Win Friends & Influence People by Dale Carnegie](http://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=chamaxwoo-20&linkId=BZ2URZZ7AJGQ44JG)
+- [How to Win Friends & Influence People by Dale Carnegie](https://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=chamaxwoo-20&linkId=BZ2URZZ7AJGQ44JG)
   Picks
 
-[troll-repellant](https://github.com/benbalter/troll-repellant) (Coraline)[Avdi Grimm: An alternative to `puts` in Ruby](http://devblog.avdi.org/2015/10/02/an-alternative-to-puts-in-ruby/) (Coraline)[Alan C. Kay: The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/) (Avdi)[RubyTapas](http://www.rubytapas.com/) (Avdi)[Rails Remote Conf](https://railsremoteconf.com/) (Chuck)[Loot Crate](https://www.lootcrate.com/) (Chuck)[Prints and Visual Communication](http://www.amazon.com/gp/product/0262590026) (Sarah)[Artful Making: What Managers Need to Know About How Artists Work by Robert Austin](http://www.amazon.com/gp/product/0130086959/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0130086959&linkCode=as2&tag=chamaxwoo-20&linkId=ODRV322APXOEGSTJ) (Sarah)
+[troll-repellant](https://github.com/benbalter/troll-repellant) (Coraline)[Avdi Grimm: An alternative to `puts` in Ruby](https://devblog.avdi.org/2015/10/02/an-alternative-to-puts-in-ruby/) (Coraline)[Alan C. Kay: The Early History of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/) (Avdi)[RubyTapas](https://www.rubytapas.com/) (Avdi)[Rails Remote Conf](https://railsremoteconf.com/) (Chuck)[Loot Crate](https://www.lootcrate.com/) (Chuck)[Prints and Visual Communication](https://www.amazon.com/gp/product/0262590026) (Sarah)[Artful Making: What Managers Need to Know About How Artists Work by Robert Austin](https://www.amazon.com/gp/product/0130086959/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0130086959&linkCode=as2&tag=chamaxwoo-20&linkId=ODRV322APXOEGSTJ) (Sarah)
 
 ### Transcript
 

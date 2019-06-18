@@ -14,7 +14,7 @@ tags:
 
 01:53 - Pat Shaughnessy Introduction
 
-02:19 - [Ruby Under a Microscope by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)
+02:19 - [Ruby Under a Microscope by Pat Shaughnessy](https://patshaughnessy.net/ruby-under-a-microscope)
 
 05:03 - How to Learn Code
 
@@ -24,13 +24,13 @@ tags:
 
 15:28 - Refinements
 
-- [Konstantin Haase: Ruby 2.1](http://rkh.im/ruby-2.1)
+- [Konstantin Haase: Ruby 2.1](https://rkh.im/ruby-2.1)
 
 22:54 - Method Caching
 
-- [James Golick: MRI's Method Caches](http://jamesgolick.com/2013/4/14/mris-method-caches.html)
+- [James Golick: MRI's Method Caches](https://jamesgolick.com/2013/4/14/mris-method-caches.html)
 
-26:59 - [Pat Shaughnessy: Never create Ruby strings longer than 23 characters](http://patshaughnessy.net/2012/1/4/never-create-ruby-strings-longer-than-23-characters)
+26:59 - [Pat Shaughnessy: Never create Ruby strings longer than 23 characters](https://patshaughnessy.net/2012/1/4/never-create-ruby-strings-longer-than-23-characters)
 
 29:14 - Computer Science
 
@@ -38,10 +38,10 @@ tags:
 
 35:05 - Tools
 
-- disasm() in [RubyVM::InstructionSequence](http://www.ruby-doc.org/core-2.1.1/RubyVM/InstructionSequence.html)
+- disasm() in [RubyVM::InstructionSequence](https://www.ruby-doc.org/core-2.1.1/RubyVM/InstructionSequence.html)
 - [ruby/insns.def at trunk](https://github.com/ruby/ruby/blob/trunk/insns.def)
-- [Rubinius](http://rubini.us/)
-- [JRuby](http://jruby.org/)
+- [Rubinius](https://rubini.us/)
+- [JRuby](https://jruby.org/)
 
 42:16 - Modules
 
@@ -51,7 +51,7 @@ tags:
 
 ### Book Club
 
-[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
+[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
 
 ### Next Week
 

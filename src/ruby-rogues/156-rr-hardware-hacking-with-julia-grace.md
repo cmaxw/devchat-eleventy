@@ -16,72 +16,72 @@ tags:
 
 - [twitter](https://twitter.com/jewelia)
 - [github](https://github.com/jewelia)
-- [blog](http://juliahgrace.com/)
+- [blog](https://juliahgrace.com/)
 - [Tindie](https://www.tindie.com/)
-- [OpenWest](http://www.openwest.org/)
+- [OpenWest](https://www.openwest.org/)
 
 02:30 - The Current State of Hardware
 
-- [Arduino](http://www.arduino.cc/)
+- [Arduino](https://www.arduino.cc/)
 
 04:07 - “Indie” Hardware
 
 07:45 - The Hardware Movement
 
-- [The Almost Completely Open Source Laptop Goes on Sale](http://www.wired.com/2014/04/novena/)
-- [Raspberry Pi](http://www.raspberrypi.org/)
+- [The Almost Completely Open Source Laptop Goes on Sale](https://www.wired.com/2014/04/novena/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
 
 11:15 - The “Maker” Culture
 
-- [Maker Faire](http://makerfaire.com/)
+- [Maker Faire](https://makerfaire.com/)
 
 13:07 - Getting Started
 
-- [BeagleBone](http://beagleboard.org/Products/BeagleBone)
-- [Program your Arduino in Python!](http://bit.ly/HardwareHacking)
-- [NodeBots](http://nodebots.io/)
+- [BeagleBone](https://beagleboard.org/Products/BeagleBone)
+- [Program your Arduino in Python!](https://bit.ly/HardwareHacking)
+- [NodeBots](https://nodebots.io/)
 - [[Github] NodeBots](https://github.com/rwaldron/johnny-five)
 
 17:13 - 3D Printing & Laser Cutters
 
-- [Cricut](http://cricut.com/home/)
-- [Silhouette America](http://www.silhouetteamerica.com/)
+- [Cricut](https://cricut.com/home/)
+- [Silhouette America](https://www.silhouetteamerica.com/)
 
 25:23 - Accessibility & Knowledge
 
-- [3-D Printer Makes Life-Saving Splint For Baby Boy's Airway](http://www.npr.org/blogs/thetwo-way/2013/05/23/186273900/3-d-printer-makes-life-saving-splint-for-baby-boys-airway)
-- [Thingiverse](http://www.thingiverse.com/)
-- [Shapeways](http://www.shapeways.com/)
-- [Teensy USB](http://pjrc.com/teensy)
+- [3-D Printer Makes Life-Saving Splint For Baby Boy's Airway](https://www.npr.org/blogs/thetwo-way/2013/05/23/186273900/3-d-printer-makes-life-saving-splint-for-baby-boys-airway)
+- [Thingiverse](https://www.thingiverse.com/)
+- [Shapeways](https://www.shapeways.com/)
+- [Teensy USB](https://pjrc.com/teensy)
 - [raspberry pi lego case](https://www.google.com/search?q=raspberry+pi+lego+case&es_sm=91&tbm=isch&tbo=u&source=univ&sa=X&ei=F7hrU6iQB5fpoAS5pYII&ved=0CFQQ7Ak&biw=1200&bih=779)
 
 36:12 - Lower-level Programming
 
-- [Atwood’s Law](http://blog.codinghorror.com/the-principle-of-least-power/)
-- [The Web Developers are Coming?](http://makezine.com/2013/10/08/the-web-developers-are-coming/)
+- [Atwood’s Law](https://blog.codinghorror.com/the-principle-of-least-power/)
+- [The Web Developers are Coming?](https://makezine.com/2013/10/08/the-web-developers-are-coming/)
 - [Gary Bernhardt: The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 
 42:03 - Rubybots
 
-- [tinyrb](http://code.macournoyer.com/tinyrb/)
+- [tinyrb](https://code.macournoyer.com/tinyrb/)
 - [mruby](https://github.com/mruby/mruby)
-- [chef](http://www.getchef.com/chef/)
-- [Discourse](http://www.discourse.org/)
+- [chef](https://www.getchef.com/chef/)
+- [Discourse](https://www.discourse.org/)
 
 43:49 - Evolution & The Future of Hardware
 
 - [Julia’s Future Stack Talk](https://www.youtube.com/watch?v=16cXLUu204I)
-- [blink(1)](http://thingm.com/products/blink-1/)
+- [blink(1)](https://thingm.com/products/blink-1/)
 
 56:35 - Ruby Resources
 
 - [argus](https://github.com/jimweirich/argus)
-- [Artoo](http://artoo.io/)
-- [Ron Evans: Ruby On Robots Using Artoo](http://confreaks.com/videos/2680-gogaruco2013-ruby-on-robots-using-artoo)
+- [Artoo](https://artoo.io/)
+- [Ron Evans: Ruby On Robots Using Artoo](https://confreaks.com/videos/2680-gogaruco2013-ruby-on-robots-using-artoo)
 
 ### Next Week
 
-Book Club! [Object Design: Roles, Responsibilities, and Collaborations](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)&nbsp;with Rebecca Wirfs-Brock
+Book Club! [Object Design: Roles, Responsibilities, and Collaborations](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)&nbsp;with Rebecca Wirfs-Brock
 
 ### Transcript
 

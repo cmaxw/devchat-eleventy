@@ -54,7 +54,7 @@ In this episode of the Freelancers’ Show, the panelists discuss making a good 
 Reuven
 
 - [_Can Democracy Survive Global Capitalism?_ by Robert Kuttner](https://www.amazon.com/gp/product/0393609936/ref=ox_sc_act_title_1)
-- [Robert Kuttner Talk](http://www.slate.com/articles/podcasts/live_at_politics/2018/06/robert_kuttner_wonders_whether_democracy_can_survive_global_capitalism.html)
+- [Robert Kuttner Talk](https://www.slate.com/articles/podcasts/live_at_politics/2018/06/robert_kuttner_wonders_whether_democracy_can_survive_global_capitalism.html)
 
 Jeremy
 

@@ -14,15 +14,15 @@ tags:
   - deployment
 ---
 
-## [Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well!](http://teespring.com/rubyroguestee)
+## [Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well!](https://teespring.com/rubyroguestee)
 
-02:51 - [The Job Replacement Guide by David Brady](http://www.jobreplacementguide.com/)
+02:51 - [The Job Replacement Guide by David Brady](https://www.jobreplacementguide.com/)
 
 04:42 - Richard Schneeman Introduction
 
-- [Free University Rails Course (UT on Rails)](http://www.schneems.com/ut-rails/)
+- [Free University Rails Course (UT on Rails)](https://www.schneems.com/ut-rails/)
 - [Richard’s YouTube Screencasts](https://www.youtube.com/user/schneems/videos)
-- [Starcraft](http://us.battle.net/sc2/en/)
+- [Starcraft](https://us.battle.net/sc2/en/)
 
 05:55 - [Heroku](https://www.heroku.com/)
 
@@ -37,17 +37,17 @@ tags:
 15:03 - Security
 
 - Secrets.YAML
-- [dotenv gem](http://rubygems.org/gems/dotenv)
+- [dotenv gem](https://rubygems.org/gems/dotenv)
 
-22:26 - [The Twelve Factor App](http://12factor.net/)
+22:26 - [The Twelve Factor App](https://12factor.net/)
 
 - Logging
-- [Millions of Apps: What We’ve Learned - Richard Schneeman](http://www.confreaks.com/videos/2661-btvruby2013-millions-of-apps-what-we-ve-learned)
+- [Millions of Apps: What We’ve Learned - Richard Schneeman](https://www.confreaks.com/videos/2661-btvruby2013-millions-of-apps-what-we-ve-learned)
 - Sprockets
 - [mongres](https://npmjs.org/package/mongres)
 - [sprockets_better_errors](https://github.com/schneems/sprockets_better_errors)
-- [Ruby Rogues Episode #135: HTTP 2.0 with Ilya Grigorik](http://rubyrogues.com/135-rr-http-2-0-with-ilya-grigorik/)
-- [HTTP 2.0](http://en.wikipedia.org/wiki/HTTP_2.0)
+- [Ruby Rogues Episode #135: HTTP 2.0 with Ilya Grigorik](https://rubyrogues.com/135-rr-http-2-0-with-ilya-grigorik/)
+- [HTTP 2.0](https://en.wikipedia.org/wiki/HTTP_2.0)
 
 32:28 - [Heroku Pricing](https://www.heroku.com/pricing)
 
@@ -56,7 +56,7 @@ tags:
 
 37:48 - Faux Pas Using Heroku
 
-43:08 - [New Relic](http://newrelic.com/)
+43:08 - [New Relic](https://newrelic.com/)
 
 - [@ryandotsmith](https://twitter.com/ryandotsmith)
 
@@ -66,11 +66,11 @@ tags:
 
 55:45 - Limitations
 
-- [HireFire](http://hirefire.io/)
+- [HireFire](https://hirefire.io/)
 
 ### Book Club
 
-[Ruby Under a Microscope by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](http://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](http://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
+[Ruby Under a Microscope by Pat Shaughnessy](https://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](https://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](https://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
 
 ### Next Week
 

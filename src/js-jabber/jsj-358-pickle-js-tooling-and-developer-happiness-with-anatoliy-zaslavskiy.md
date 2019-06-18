@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Triplebyte offers a $1000 signing bonus](https://triplebyte.com/jsjabber)
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [CacheFly](https://www.cachefly.com/)
 
 ### **Panel**
@@ -47,7 +47,7 @@ Anatoliy Zaslavskiy introduces pickle.js and answers the panels questions about 
 - [Skyward by Brandon Sanderson](https://www.amazon.com/Skyward-Brandon-Sanderson/dp/0399555773/ref=as_li_ss_tl?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 **Anatoliy Zaslavskiy**
 - Acro yoga
-- [http://www.cuddleparty.com/](http://www.cuddleparty.com/)
+- [https://www.cuddleparty.com/](https://www.cuddleparty.com/)
 
 
 ### Transcript

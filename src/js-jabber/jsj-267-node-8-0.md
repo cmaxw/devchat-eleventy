@@ -203,7 +203,7 @@ On today’s episode of JavaScript Jabber we have panelists Joe Eames, AJ O’Ne
 - Current releases of Node 8 for a half of year
 - Node 6 is LTS
 - Additional year of maintenance of previous LTSs.
-- Schedule is at [http://github.com/node8js/lts](http://github.com/node8js/lts) in a chart
+- Schedule is at [https://github.com/node8js/lts](https://github.com/node8js/lts) in a chart
 - Support for Node 4 with only critical updates, Node 6 minor updates, and Node 8
 - Node 7 doesn’t get much support unless it’s vital security supports.
 - If you’re running 0.10 or 0.12 stop. Those do not get security fixes anymore
@@ -226,7 +226,7 @@ On today’s episode of JavaScript Jabber we have panelists Joe Eames, AJ O’Ne
 
 ##### [40:11] How can people contribute and get involved?
 
-- [NodeToDo.org](http://nodetodo.org) shows how to make contribution
+- [NodeToDo.org](https://nodetodo.org) shows how to make contribution
 - Occasionally major conferences have information on how to contribute
 - Test it out and help make it stronger
 
@@ -235,14 +235,14 @@ On today’s episode of JavaScript Jabber we have panelists Joe Eames, AJ O’Ne
 - If it’s an NPM problem check with them
 - clear cache!
 - install newest version with: `npm install -g npm@latest`
-- Report problems to either [NPM](http://github.com/nmp/nmp) or [Node](http://github.com/nodejs/node)
-- If you’re not sure where the problem is, check [github.com/nodejs/help](http://github.com/nodejs/help)
+- Report problems to either [NPM](https://github.com/nmp/nmp) or [Node](https://github.com/nodejs/node)
+- If you’re not sure where the problem is, check [github.com/nodejs/help](https://github.com/nodejs/help)
 
 ---
 
 #### Links
 
-[Node8](https://nodejs.org/en/blog/release/v8.0.0/)[Node’s Twitter](https://twitter.com/nodejs)[Node’s Medium](https://medium.com/@nodejs)[Node Evangelism Group](http://github.com/nodejs/evangelism/)
+[Node8](https://nodejs.org/en/blog/release/v8.0.0/)[Node’s Twitter](https://twitter.com/nodejs)[Node’s Medium](https://medium.com/@nodejs)[Node Evangelism Group](https://github.com/nodejs/evangelism/)
 
 Mikael on [Twitter](https://twitter.com/mikeal) and [GitHub](https://github.com/mikeal)Arunesh on [Twitter](https://twitter.com/AruneshC)Anna on [Twitter](https://twitter.com/addaleax)
 
@@ -252,17 +252,17 @@ Mikael on [Twitter](https://twitter.com/mikeal) and [GitHub](https://github.com/
 
 ##### AJ
 
-[Overclocked Remix Super Mario RPG Window to The Stars](http://smrpg.ocremix.org/)
+[Overclocked Remix Super Mario RPG Window to The Stars](https://smrpg.ocremix.org/)
 
 ##### Amiee
 
 [Blogpost RisingStack on Node 8](https://blog.risingstack.com/important-features-fixes-node-js-version-8/)  
-[2 Frugal Dudes](http://2frugaldudes.com/)
+[2 Frugal Dudes](https://2frugaldudes.com/)
 
 ##### Charles
 
-[Homeland](http://www.sho.com/homeland)  
-[House of Cards](http://house-of-cards.wikia.com/wiki/Main_Page)
+[Homeland](https://www.sho.com/homeland)  
+[House of Cards](https://house-of-cards.wikia.com/wiki/Main_Page)
 
 ##### Joe
 

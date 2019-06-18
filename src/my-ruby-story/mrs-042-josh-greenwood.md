@@ -32,7 +32,7 @@ This week on My Ruby Story, Charles talks to Josh Greenwood. Josh was recently o
 - International Business degree
 - Didn’t always want to program as a career
 - [Apriss](https://apprisssafety.com/)
-- [Ruby](https://www.ruby-lang.org/en/) and [Rails](http://rubyonrails.org/)
+- [Ruby](https://www.ruby-lang.org/en/) and [Rails](https://rubyonrails.org/)
 - Freelancing job
 - Learned Ruby at internships in college
 - What made you find a love for programming?
@@ -41,8 +41,8 @@ This week on My Ruby Story, Charles talks to Josh Greenwood. Josh was recently o
 - Loved the Ruby community
 - What are you proud of contributing to the community?
 - What are you workn on now?
-- Recent talk at [Code PaLOUsa](http://www.codepalousa.com/Default.aspx)
-- Learning[Elm](http://elm-lang.org/)
+- Recent talk at [Code PaLOUsa](https://www.codepalousa.com/Default.aspx)
+- Learning[Elm](https://elm-lang.org/)
 - And much, much more!
 
 **Links:**
@@ -51,18 +51,18 @@ This week on My Ruby Story, Charles talks to Josh Greenwood. Josh was recently o
 - [Test Double](https://testdouble.com/)
 - [Apriss](https://apprisssafety.com/)
 - [Ruby](https://www.ruby-lang.org/en/)
-- [Rails](http://rubyonrails.org/)
-- [Code PaLOUsa](http://www.codepalousa.com/Default.aspx)
-- [Elm](http://elm-lang.org/)
+- [Rails](https://rubyonrails.org/)
+- [Code PaLOUsa](https://www.codepalousa.com/Default.aspx)
+- [Elm](https://elm-lang.org/)
 - [Josh’s GitHub](https://github.com/JoshTGreenwood)
 - [@JoshTGreenwood](https://twitter.com/JoshTGreenwood?lang=en)
-- [Test Double blog](http://blog.testdouble.com/)
+- [Test Double blog](https://blog.testdouble.com/)
 
 **Picks:**
 
 Charles
 
-- [Ruby Hack](http://rubyhack.com/)
+- [Ruby Hack](https://rubyhack.com/)
 - [Airbrake](https://airbrake.io/)
 - [Rollbar](https://rollbar.com/)
 - [DevChat.tv YouTube](https://www.youtube.com/c/devchattv)
@@ -71,6 +71,6 @@ Charles
 Josh
 
 - [_The Secrets of Consulting_ by Gerald M. Weinberg](https://www.amazon.com/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
-- [The Bullet Journal](http://bulletjournal.com/)
+- [The Bullet Journal](https://bulletjournal.com/)
 
 ### Transcript

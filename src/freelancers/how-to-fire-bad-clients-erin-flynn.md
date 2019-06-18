@@ -47,6 +47,6 @@ Erin would love to hear from you! Tweet her [@erin3flynn](https://twitter.com/er
 
 ## Picks:
 
-Jonathan: [Tasting Room](https://www.tastingroom.com/)Erin: [Say What?!&nbsp;email templates](http://unstoppable.erinflynn.com/p/say-what)Reuven: Survey My Email List
+Jonathan: [Tasting Room](https://www.tastingroom.com/)Erin: [Say What?!&nbsp;email templates](https://unstoppable.erinflynn.com/p/say-what)Reuven: Survey My Email List
 
 ### Transcript

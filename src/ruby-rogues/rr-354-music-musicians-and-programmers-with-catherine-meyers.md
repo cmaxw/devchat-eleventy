@@ -21,7 +21,7 @@ tags:
 
 **Special Guests:** Catherine Meyers
 
-In this episode of Ruby Rogues, the panel discusses music, musicians, and programmers with Catherine Meyers. Catherine is a software engineer at [Mavenlink](https://www.mavenlink.com/) in San Francisco and is a co-organizer of a meet-up called [Women Level Up](http://womenlevelup.com/). Before getting into coding, she was actually an opera singer. They talk a lot about why she decided to change her career and how she came to be a successful coder after being a singer for many years.
+In this episode of Ruby Rogues, the panel discusses music, musicians, and programmers with Catherine Meyers. Catherine is a software engineer at [Mavenlink](https://www.mavenlink.com/) in San Francisco and is a co-organizer of a meet-up called [Women Level Up](https://womenlevelup.com/). Before getting into coding, she was actually an opera singer. They talk a lot about why she decided to change her career and how she came to be a successful coder after being a singer for many years.
 
 **In particular, we dive pretty deep on:**
 
@@ -41,7 +41,7 @@ In this episode of Ruby Rogues, the panel discusses music, musicians, and progra
 - The ability to communicate with many different typed of people
 - Patterns
 - Do musicians have an advantage as a developer?
-- Patterns in[Rails](http://rubyonrails.org/)
+- Patterns in[Rails](https://rubyonrails.org/)
 - How can music make you a better coder?
 - Your brain as a musician
 - Is there a correlation with brain activity and listening to music?
@@ -52,22 +52,22 @@ In this episode of Ruby Rogues, the panel discusses music, musicians, and progra
 
 - [React Dev Summit](https://reactdevsummit.com/)
 - [Mavenlink](https://www.mavenlink.com/)
-- [Women Level Up](http://womenlevelup.com/)
+- [Women Level Up](https://womenlevelup.com/)
 - [Flatiron School](https://flatironschool.com/)
 - [Ruby Conf](https://rubyconf.org/)
-- [Rails](http://rubyonrails.org/)
-- [Ruby Hack Conference](http://rubyhack.com/)
+- [Rails](https://rubyonrails.org/)
+- [Ruby Hack Conference](https://rubyhack.com/)
 - [@CCMeyers324](https://twitter.com/ccmeyers324?lang=en)
-- [CatherineMeyers.com](http://catherinecodes.com/)
+- [CatherineMeyers.com](https://catherinecodes.com/)
 
 **Picks:**
 
 Charles
 
 - [The Greatest Showman](https://en.wikipedia.org/wiki/The_Greatest_Showman)
-- [React Round Up](http://reactroundup.com/)
+- [React Round Up](https://reactroundup.com/)
 - [React Dev Summit](https://reactdevsummit.com/)
-- [Views on Vue](http://viewsonvue.com/)
+- [Views on Vue](https://viewsonvue.com/)
 - Elixir Podcast coming soon
 
 Dave

@@ -17,7 +17,7 @@ tags:
 - How did you get introduced to programming?
 - Old computers
 - Cobalt
-- [Compuserve&nbsp;](http://webcenters.netscape.compuserve.com/menu/)
+- [Compuserve&nbsp;](https://webcenters.netscape.compuserve.com/menu/)
 - AOL
 - When the internet was young
 - Learning Ruby
@@ -26,7 +26,7 @@ tags:
 - [Git&nbsp;](https://www.packtpub.com/application-development/mastering-git-video)
 - Git Cheatsheet
 - Remote work on Rail Project - for Non-Profit
-- [Vim](http://www.vim.org/about.php)
+- [Vim](https://www.vim.org/about.php)
 - A Ruby method a day
 - Software development, Cyber Security, etc
 - Comparison to board games
@@ -34,16 +34,16 @@ tags:
 - Hacking
 - and much, much more!
   **Links:&nbsp;**
-- http://ParaHacker.com
+- https://ParaHacker.com
 - https://github.com/ParkinT
 - [https://www.linkedin.com/in/thomparkin](https://www.linkedin.com/in/thomparkin)
 - [https://devchat.tv/ruby-rogues/245-rr-the-charles-max-wood-interview-with-thom-parkin](https://devchat.tv/ruby-rogues/245-rr-the-charles-max-wood-interview-with-thom-parkin)
 - [Git](https://www.packtpub.com/application-development/mastering-git-video)
-- [wishfulthinking.com](http://wishfulthinking.com)
+- [wishfulthinking.com](https://wishfulthinking.com)
   **Picks** Thom
-- [evernote.com](http://evernote.com)
+- [evernote.com](https://evernote.com)
 - [Uppercase Box](https://www.uppercasebox.com)
-- [Business Spew](http://bs.leveragedsynergies.com)
+- [Business Spew](https://bs.leveragedsynergies.com)
   Charles
 - Take some time to spend with family
 - Learn about your family background

@@ -31,7 +31,7 @@ tags:
 - Edge spec
 - What Flexbox can do
 - Sub-Grids
-- [Geddski.com](http://gedd.ski/)
+- [Geddski.com](https://gedd.ski/)
 - Nesting Grids
 - Old Grid vs New Grid layout
 - Why would you move from Flexbox to CSS Grid?
@@ -45,7 +45,7 @@ tags:
 - [Linode](https://promo.linode.com/javascriptjabber/)
 - [FlexboxZombies.com](https://flexboxzombies.com/p/flexbox-zombies)
 - [GridCritters.com](https://gridcritters.com/p/gridcritters)
-- [Geddski.com](http://gedd.ski/)
+- [Geddski.com](https://gedd.ski/)
 - [GridByExample.com](https://gridbyexample.com/)
 - [FreshBooks](https://www.freshbooks.com/invoice?ref=11731&utm_source=pbm&utm_medium=affiliate-program&utm_influencer=419364&utm_campaign=podcast-influencers)
 - [@Geddski](https://twitter.com/geddski?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
@@ -57,7 +57,7 @@ tags:
   Cory
 - [Cory Tweet](https://twitter.com/housecor/status/962754389533429760)
   AJ
-- [How to Start a Startup](http://startupclass.samaltman.com/)
+- [How to Start a Startup](https://startupclass.samaltman.com/)
 - [Made in America by Sam Walton](https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835)
   Joe
 - [The Dungeoneers by John David Anderson](https://www.amazon.com/Dungeoneers-John-Anderson/dp/0062338153)
@@ -65,6 +65,6 @@ tags:
   Aaron
 - [Fire and Fury by Michael Wolff](https://www.amazon.com/Fire-Fury-Inside-Trump-White/dp/1250158060)
   Dave
-- [They Are Billions](http://store.steampowered.com/app/644930/They_Are_Billions/)
+- [They Are Billions](https://store.steampowered.com/app/644930/They_Are_Billions/)
 
 ### Transcript

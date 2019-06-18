@@ -14,55 +14,55 @@ tags:
 
 01:57 - Dave Thomas Introduction
 
-- [The Pragmatic Programmer: From Journeyman to Master by Dave Thomas](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
-- [The Agile Manifesto](http://agilemanifesto.org/)
-- [The Pickaxe Book](http://www.amazon.com/gp/product/1937785491/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785491&linkCode=as2&tag=chamaxwoo-20&linkId=EHD2SEHJAGH675SH)
+- [The Pragmatic Programmer: From Journeyman to Master by Dave Thomas](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- [The Agile Manifesto](https://agilemanifesto.org/)
+- [The Pickaxe Book](https://www.amazon.com/gp/product/1937785491/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785491&linkCode=as2&tag=chamaxwoo-20&linkId=EHD2SEHJAGH675SH)
 
 03:14 - Changing the Writing of Codes
 
-- [Clojure](http://clojure.org/)
-- [Elixir](http://elixir-lang.org/)
-- [Programming Elixir: Functional |\> Concurrent |\> Pragmatic |\> Fun by Dave Thomas](http://pragprog.com/book/elixir/programming-elixir)
+- [Clojure](https://clojure.org/)
+- [Elixir](https://elixir-lang.org/)
+- [Programming Elixir: Functional |\> Concurrent |\> Pragmatic |\> Fun by Dave Thomas](https://pragprog.com/book/elixir/programming-elixir)
 
 06:37 - New Languages vs. Current Languages
 
 07:42 - Erlang vs Elixir
 
-- [Mostly Erlang](http://mostlyerlang.com/)
-- [Erlang](http://erlang.org/)
-- [Prolog](http://en.wikipedia.org/wiki/Prolog)
-- [Haskell](http://www.haskell.org/)
-- [OGP](http://en.wikipedia.org/wiki/Object-oriented_programming)
-- [Erlang gen-servers](http://www1.erlang.org/documentation/doc-5.2/lib/stdlib-1.11.0/doc/html/gen_server.html)
+- [Mostly Erlang](https://mostlyerlang.com/)
+- [Erlang](https://erlang.org/)
+- [Prolog](https://en.wikipedia.org/wiki/Prolog)
+- [Haskell](https://www.haskell.org/)
+- [OGP](https://en.wikipedia.org/wiki/Object-oriented_programming)
+- [Erlang gen-servers](https://www1.erlang.org/documentation/doc-5.2/lib/stdlib-1.11.0/doc/html/gen_server.html)
 
 09:07 - C and C++
 
-- [Class Construction in C and C++: Object-Oriented Programming Fundamentals by Roger Sessions](http://www.amazon.com/gp/product/0136301045/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0136301045&linkCode=as2&tag=chamaxwoo-20&linkId=5TVACKSZFFCTX5QO)
-- [Encapsulation](<http://en.wikipedia.org/wiki/Encapsulation_(object-oriented_programming)>)
-- [Inheritance](<http://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)>)
-- [Struct](<http://en.wikipedia.org/wiki/Struct_(C_programming_language)>)
-- [Python](<http://en.wikipedia.org/wiki/Python_(programming_language)>)
-- [C Macro](http://en.wikipedia.org/wiki/C_macro)
-- [Uni-code](http://en.wikipedia.org/wiki/Uni-code)
-- [Method Definition](<http://en.wikipedia.org/wiki/Method_(computer_programming)>)
+- [Class Construction in C and C++: Object-Oriented Programming Fundamentals by Roger Sessions](https://www.amazon.com/gp/product/0136301045/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0136301045&linkCode=as2&tag=chamaxwoo-20&linkId=5TVACKSZFFCTX5QO)
+- [Encapsulation](<https://en.wikipedia.org/wiki/Encapsulation_(object-oriented_programming)>)
+- [Inheritance](<https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)>)
+- [Struct](<https://en.wikipedia.org/wiki/Struct_(C_programming_language)>)
+- [Python](<https://en.wikipedia.org/wiki/Python_(programming_language)>)
+- [C Macro](https://en.wikipedia.org/wiki/C_macro)
+- [Uni-code](https://en.wikipedia.org/wiki/Uni-code)
+- [Method Definition](<https://en.wikipedia.org/wiki/Method_(computer_programming)>)
 
 13:16 - Picking New Projects
 
-17:14 - [Dave Thomas in Texas, September 2014- Upcoming Events](http://dallas.eventful.com/events/dave-thomas-/E0-001-070679191-7@2014090519)
+17:14 - [Dave Thomas in Texas, September 2014- Upcoming Events](https://dallas.eventful.com/events/dave-thomas-/E0-001-070679191-7@2014090519)
 
-- [Markdown](http://en.wikipedia.org/wiki/Markdown)
+- [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
-17:56 - [Pattern Matching](http://en.wikipedia.org/wiki/Pattern_match)
+17:56 - [Pattern Matching](https://en.wikipedia.org/wiki/Pattern_match)
 
 - [Lazy Streams](https://github.com/jpommerening/node-lazystream)
-- [Class-based Programming (OO)](http://en.wikipedia.org/wiki/Class-based_programming)
-- [Camel](http://en.wikipedia.org/wiki/CamelCase)
-- [JavaScript Jabber Episode 061- Functional Reactive Programming](http://javascriptjabber.com/061-jsj-functional-reactive-programming-with-juha-paananen-and-joe-fiorini/)
+- [Class-based Programming (OO)](https://en.wikipedia.org/wiki/Class-based_programming)
+- [Camel](https://en.wikipedia.org/wiki/CamelCase)
+- [JavaScript Jabber Episode 061- Functional Reactive Programming](https://javascriptjabber.com/061-jsj-functional-reactive-programming-with-juha-paananen-and-joe-fiorini/)
 
-19:41 - [Agile](http://en.wikipedia.org/wiki/Agile_software_development) and [Agility](http://en.wikipedia.org/wiki/Agile_software_development#Measuring_agility) Principles
+19:41 - [Agile](https://en.wikipedia.org/wiki/Agile_software_development) and [Agility](https://en.wikipedia.org/wiki/Agile_software_development#Measuring_agility) Principles
 
-- [Dave Thomas: Agile Is Dead (Long Live Agility)](http://pragdave.me/blog/2014/03/04/time-to-kill-agile/)
-- [Scrum](<http://en.wikipedia.org/wiki/Scrum_(development)>)
+- [Dave Thomas: Agile Is Dead (Long Live Agility)](https://pragdave.me/blog/2014/03/04/time-to-kill-agile/)
+- [Scrum](<https://en.wikipedia.org/wiki/Scrum_(development)>)
 
 22:19 - Abandoning Agile for Agility
 
@@ -71,35 +71,35 @@ tags:
 28:49 - Writing Tests vs. Not Writing Tests
 
 - [Ruby Rails Conf 2014 - DHH Keynote David Heinemeier Hansson](https://www.youtube.com/watch?v=9LfmrkyP81M)
-- [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
-- [API’s](http://en.wikipedia.org/wiki/Application_programming_interface) (expressive API’s)
-- [Regression](http://en.wikipedia.org/wiki/Regression_testing)
-- [Deploying](http://en.wikipedia.org/wiki/Software_deployment)
-- [Erlang OTP](http://en.wikipedia.org/wiki/Open_Telecom_Platform)
-- [Ruby Rogues Episode 162- Scaling Rails](http://rubyrogues.com/162-rr-scaling-rails-with-steve-corona/)
-- [Wicked Problem](http://en.wikipedia.org/wiki/Wicked_problem)
-- [PCI Compliance](http://www.pcicomplianceguide.org/)
+- [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
+- [API’s](https://en.wikipedia.org/wiki/Application_programming_interface) (expressive API’s)
+- [Regression](https://en.wikipedia.org/wiki/Regression_testing)
+- [Deploying](https://en.wikipedia.org/wiki/Software_deployment)
+- [Erlang OTP](https://en.wikipedia.org/wiki/Open_Telecom_Platform)
+- [Ruby Rogues Episode 162- Scaling Rails](https://rubyrogues.com/162-rr-scaling-rails-with-steve-corona/)
+- [Wicked Problem](https://en.wikipedia.org/wiki/Wicked_problem)
+- [PCI Compliance](https://www.pcicomplianceguide.org/)
 
 44:46 - Breaking Usual Programming Models
 
 46:27 - Using Ruby Unconventionally
 
-- [Pacemaker](<http://en.wikipedia.org/wiki/Pacemaker_(software)>)
+- [Pacemaker](<https://en.wikipedia.org/wiki/Pacemaker_(software)>)
 
 47:55 - Jumping Into New Languages
 
-- [Pseudoscience](http://en.wikipedia.org/wiki/Psuedoscience) (see David’s picks)
-- [Go](<http://en.wikipedia.org/wiki/Go_(programming_language)>)
-- [Dart](<http://en.wikipedia.org/wiki/Dart_(programming_language)>)
-- [OpenGL](http://www.opengl.org/)
+- [Pseudoscience](https://en.wikipedia.org/wiki/Psuedoscience) (see David’s picks)
+- [Go](<https://en.wikipedia.org/wiki/Go_(programming_language)>)
+- [Dart](<https://en.wikipedia.org/wiki/Dart_(programming_language)>)
+- [OpenGL](https://www.opengl.org/)
 
 54:31 - When To Change
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

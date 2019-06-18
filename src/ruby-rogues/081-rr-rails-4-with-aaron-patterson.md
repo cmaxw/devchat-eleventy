@@ -15,22 +15,22 @@ tags:
 ### 03:06 - Best of Parley
 
 - Ordering of Methods by Ian M. Whitney
-  04:28 - Everyone’s first version of Rails 06:11 - [Major changes in Rails 4](http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/)
+  04:28 - Everyone’s first version of Rails 06:11 - [Major changes in Rails 4](https://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/)
 - Moved tests around
 - Changing directory structure
   07:57 - What’s been taken out of Rails 4
 - [Sprockets Rails](https://github.com/rails/sprockets-rails)
-  09:31 - New deprecation policy 10:42 - Committers and the Core Team 13:07 - Release process 15:54 - Beta vs Release Candidate 17:08 - [minitest](http://rubygems.org/gems/minitest) vs [test-unit](http://rubygems.org/gems/test-unit)
-- [minitest-spec](http://rubygems.org/gems/minitest-spec)
-  22:51 - [routing_concerns](http://rubygems.org/gems/routing_concerns) and [turbolinks](https://github.com/rails/turbolinks) 30:00 - [Matryoshka Doll](http://en.wikipedia.org/wiki/Matryoshka_doll)/Russian Doll Caching 34:20 - Rails 4 and thread safety
-- [WEBrick](http://en.wikipedia.org/wiki/WEBrick)
-- [Heroku](http://www.heroku.com/)
+  09:31 - New deprecation policy 10:42 - Committers and the Core Team 13:07 - Release process 15:54 - Beta vs Release Candidate 17:08 - [minitest](https://rubygems.org/gems/minitest) vs [test-unit](https://rubygems.org/gems/test-unit)
+- [minitest-spec](https://rubygems.org/gems/minitest-spec)
+  22:51 - [routing_concerns](https://rubygems.org/gems/routing_concerns) and [turbolinks](https://github.com/rails/turbolinks) 30:00 - [Matryoshka Doll](https://en.wikipedia.org/wiki/Matryoshka_doll)/Russian Doll Caching 34:20 - Rails 4 and thread safety
+- [WEBrick](https://en.wikipedia.org/wiki/WEBrick)
+- [Heroku](https://www.heroku.com/)
   39:59 - Aaron’s individual Rails 4 contributions
 - Live streaming
 - Bug fixes in Rails
-- Refactoring in [actionpack](http://rubygems.org/gems/actionpack)
+- Refactoring in [actionpack](https://rubygems.org/gems/actionpack)
 - Ruby 2.0 Compatability
-  40:28 - Live streaming 41:29 - [PostgresSQL](http://en.wikipedia.org/wiki/PostgreSQL)46:15 - Strong Parameters 49:14 - Queuing system 52:53 - Community participation and learning Rails
+  40:28 - Live streaming 41:29 - [PostgresSQL](https://en.wikipedia.org/wiki/PostgreSQL)46:15 - Strong Parameters 49:14 - Queuing system 52:53 - Community participation and learning Rails
 
 ### Next Week
 
@@ -38,10 +38,10 @@ Vagrant with Michael Ries
 
 ### Book Club
 
-The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](http://www.informit.com/).
+The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](https://www.informit.com/).
 
-- First create a user account: [www.informit.com/join](http://www.informit.com/join)
-- SAVE 40% When You Buy 2: [www.informit.com/ruby](http://www.informit.com/ruby)
+- First create a user account: [www.informit.com/join](https://www.informit.com/join)
+- SAVE 40% When You Buy 2: [www.informit.com/ruby](https://www.informit.com/ruby)
 - Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
 - (Includes FREE SHIPPING within the U.S.!)
 

@@ -31,7 +31,7 @@ tags:
 
 16:38 - Strategies for Preparing for Angular 2 Material; Preserving Old Spirit
 
-22:07 -&nbsp;[Office UI Fabric](http://dev.office.com/fabric)
+22:07 -&nbsp;[Office UI Fabric](https://dev.office.com/fabric)
 
 24:23 - Best Practices and Infrastructure
 
@@ -41,6 +41,6 @@ tags:
 
 28:52 - Getting StartedPicks
 
-[Muru](http://www.merufilm.com/) (Ward)[Temblor](http://temblor.net/) (Ward) Observables (Lukas)[Evan Czaplicki: Let's be mainstream! User focused design in Elm @ Curry On](https://www.youtube.com/watch?v=oYk8CKH7OhE) (Lukas)[Calamity by Brandon Sanderson](http://www.amazon.com/Calamity-The-Reckoners-Brandon-Sanderson/dp/0385743602) (Joe)[The Expanse](http://www.syfy.com/theexpanse) (Jeremy)[Flexbox Froggy](http://flexboxfroggy.com/) (Jeremy) Fiskars Titanium Shears (Jeremy)
+[Muru](https://www.merufilm.com/) (Ward)[Temblor](https://temblor.net/) (Ward) Observables (Lukas)[Evan Czaplicki: Let's be mainstream! User focused design in Elm @ Curry On](https://www.youtube.com/watch?v=oYk8CKH7OhE) (Lukas)[Calamity by Brandon Sanderson](https://www.amazon.com/Calamity-The-Reckoners-Brandon-Sanderson/dp/0385743602) (Joe)[The Expanse](https://www.syfy.com/theexpanse) (Jeremy)[Flexbox Froggy](https://flexboxfroggy.com/) (Jeremy) Fiskars Titanium Shears (Jeremy)
 
 ### Transcript

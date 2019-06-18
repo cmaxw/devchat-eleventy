@@ -12,22 +12,22 @@ tags:
   - podcast
 ---
 
-**Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!**
+**Check out [RailsClips on Kickstarter](https://devchat.tv/kickstarter)!!**
 
 02:45 - Ashton Kemerling Introduction
 
 - [Twitter](https://twitter.com/ashton)
 - [GitHub](https://github.com/AshtonKem)
-- [Blog](http://ashtonkemerling.com/)
+- [Blog](https://ashtonkemerling.com/)
 
-03:00 - Ruby and [Clojure](http://clojure.org/)
+03:00 - Ruby and [Clojure](https://clojure.org/)
 
-- [Pivotal Labs](http://pivotallabs.com/)
-- [Pivotal Tracker](http://www.pivotaltracker.com/)
-- [Clojurescript](http://clojure.org/clojurescript)
-- [Generative Testing](http://www.pivotaltracker.com/community/tracker-blog/generative-testing)
-- [PhantomJS](http://phantomjs.org/)
-- [Invariance](<http://en.wikipedia.org/wiki/Invariant_(computer_science)>)
+- [Pivotal Labs](https://pivotallabs.com/)
+- [Pivotal Tracker](https://www.pivotaltracker.com/)
+- [Clojurescript](https://clojure.org/clojurescript)
+- [Generative Testing](https://www.pivotaltracker.com/community/tracker-blog/generative-testing)
+- [PhantomJS](https://phantomjs.org/)
+- [Invariance](<https://en.wikipedia.org/wiki/Invariant_(computer_science)>)
 
 14:50 - Difficulty
 
@@ -40,7 +40,7 @@ tags:
 
 26:38 - Are Generative Tests Disposable?
 
-- [Capybara](http://en.wikipedia.org/wiki/Capybara)
+- [Capybara](https://en.wikipedia.org/wiki/Capybara)
 
 29:09 - When Do You Start Generative Testing?
 
@@ -54,20 +54,20 @@ tags:
 
 46:57 - Maintaining These Tests
 
-- [Multimethods](http://clojure.org/multimethods)
+- [Multimethods](https://clojure.org/multimethods)
 
 51:12 - Human Actions, Generative Testing, and Architecture
 
-- [Functional Programming](http://en.wikipedia.org/wiki/Functional_programming)
+- [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 01:02:10 - Resources
 
 - [[YouTube] Integrating Test.Check and Javascript](https://www.youtube.com/watch?v=HXGpBrmR70U)
-- [Jessica Kerr: TDD with generative testing: an example in Ruby](http://blog.jessitron.com/2014/09/tdd-with-generative-testing-example-in.html) &nbsp;
-- [Ashton Kemerling: Integrating Test.Check and Javascript](http://ashtonkemerling.com/blog/2014/09/25/integrating-test-dot-check-and-javascript/)
+- [Jessica Kerr: TDD with generative testing: an example in Ruby](https://blog.jessitron.com/2014/09/tdd-with-generative-testing-example-in.html) &nbsp;
+- [Ashton Kemerling: Integrating Test.Check and Javascript](https://ashtonkemerling.com/blog/2014/09/25/integrating-test-dot-check-and-javascript/)
   Picks
 
-[<u>Joseph Wilk: Programming as Performance</u>](https://rubyconf.eventer.com/rubyconf-australia-2015-1223/programming-as-performance-by-joseph-wilk-1733) (Coraline)[<u>Linda Liukas: Principles of Play</u>](https://rubyconf.eventer.com/rubyconf-australia-2015-1223/principles-of-play-by-linda-liukas-1717) (Coraline)[<u>Hello Ruby</u>](http://helloruby.com) (Coraline)[<u>QuickCheck CI</u>](http://quickcheck-ci.com/) (Jessica)[<u>CodeMesh 2014 - John Hughes - QuickCheck Evolution</u>](https://www.youtube.com/watch?v=x7O2Hkq983Y&feature=youtu.be) (Jessica)[<u>GeeCON 2012: Kevlin Henney - It Is Possible to Do Object-Oriented Programming in Java</u>](https://vimeo.com/56748054) (Avdi)[<u>FUJITSU Image Scanner ScanSnap iX500</u>](http://www.fujitsu.com/us/products/computing/peripheral/scanners/scansnap/ix500/) (Avdi)[<u>FFmpeg</u>](https://www.ffmpeg.org/) (Chuck)[<u>YouTube</u>](http://www.youtube.com/) (Chuck)[<u>Developer’s Box Club</u>](http://devboxclub.com/) (Chuck)[<u>Ruby Remote Conf</u>](http://www.rubyremoteconf.com) (Chuck)[<u>RailsCasts on Kickstarter</u>](http://devchat.tv/kickstarter) (Chuck)[<u>Datomic</u>](http://www.datomic.com/) (Ashton)
+[<u>Joseph Wilk: Programming as Performance</u>](https://rubyconf.eventer.com/rubyconf-australia-2015-1223/programming-as-performance-by-joseph-wilk-1733) (Coraline)[<u>Linda Liukas: Principles of Play</u>](https://rubyconf.eventer.com/rubyconf-australia-2015-1223/principles-of-play-by-linda-liukas-1717) (Coraline)[<u>Hello Ruby</u>](https://helloruby.com) (Coraline)[<u>QuickCheck CI</u>](https://quickcheck-ci.com/) (Jessica)[<u>CodeMesh 2014 - John Hughes - QuickCheck Evolution</u>](https://www.youtube.com/watch?v=x7O2Hkq983Y&feature=youtu.be) (Jessica)[<u>GeeCON 2012: Kevlin Henney - It Is Possible to Do Object-Oriented Programming in Java</u>](https://vimeo.com/56748054) (Avdi)[<u>FUJITSU Image Scanner ScanSnap iX500</u>](https://www.fujitsu.com/us/products/computing/peripheral/scanners/scansnap/ix500/) (Avdi)[<u>FFmpeg</u>](https://www.ffmpeg.org/) (Chuck)[<u>YouTube</u>](https://www.youtube.com/) (Chuck)[<u>Developer’s Box Club</u>](https://devboxclub.com/) (Chuck)[<u>Ruby Remote Conf</u>](https://www.rubyremoteconf.com) (Chuck)[<u>RailsCasts on Kickstarter</u>](https://devchat.tv/kickstarter) (Chuck)[<u>Datomic</u>](https://www.datomic.com/) (Ashton)
 
 ### Transcript
 

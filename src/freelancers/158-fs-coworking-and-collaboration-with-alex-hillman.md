@@ -12,41 +12,41 @@ tags:
   - podcast
 ---
 
-Check out [Ruby Remote Conf](http://rubyremoteconf.com)!
+Check out [Ruby Remote Conf](https://rubyremoteconf.com)!
 
 01:56 - Alex Hillman Introduction
 
 - [Twitter](https://twitter.com/alexhillman)
-- [Blog](http://dangerouslyawesome.com/blog/)
-- [The Coworking Weekly Show](http://dangerouslyawesome.com/podcast/)
-- [Indy Hall](http://www.indyhall.org/)
+- [Blog](https://dangerouslyawesome.com/blog/)
+- [The Coworking Weekly Show](https://dangerouslyawesome.com/podcast/)
+- [Indy Hall](https://www.indyhall.org/)
   - [@indyhall](https://twitter.com/indyhall)
 - [Amy Hoy](https://twitter.com/amyhoy)
   - [Unicornfree](https://unicornfree.com/)
-- [30x500: Build and Launch a Profitable Product Business Without Venture Capital](http://courses.30x500.com/)
+- [30x500: Build and Launch a Profitable Product Business Without Venture Capital](https://courses.30x500.com/)
 
 02:57 - Collaboration and Coworking Spaces
 
 08:34 - Nights and Weekends? (After Hours/Night Owl Working)
 
-- [Unconferences](http://en.wikipedia.org/wiki/Unconference) and [BarCamps](http://en.wikipedia.org/wiki/BarCamp)
+- [Unconferences](https://en.wikipedia.org/wiki/Unconference) and [BarCamps](https://en.wikipedia.org/wiki/BarCamp)
 
 13:05 - Coworking is NOT a Talent Agency
 
 15:02 - Isn’t Coworking Distractive?
 
-- [Choice Architecture](http://en.wikipedia.org/wiki/Choice_architecture)
+- [Choice Architecture](https://en.wikipedia.org/wiki/Choice_architecture)
 - Full-Time / Flex-Member Separation = Bad
 
 22:33 - Forming Relationships for Collaboration
 
 - Examples:
   - [Parker](https://twitter.com/parkerwhitney) and [Jake](https://twitter.com/flailmonger)
-    - [Flycops](http://flyclops.com/)
+    - [Flycops](https://flyclops.com/)
       - [@flyclops](https://twitter.com/flyclops)&nbsp;&nbsp;
     - [Domino](https://itunes.apple.com/us/app/domino!-free/id523001403?mt=8)
   - [Amanda](https://twitter.com/FishEuropa) and [Christine](https://twitter.com/Neulita)
-    - [Lanternfish Press](http://lanternfishpress.com/)
+    - [Lanternfish Press](https://lanternfishpress.com/)
       - [@lfpbooks](https://twitter.com/lfpbooks)
     - [The Legend of Sherlock Holmes Kickstarter Project](https://www.kickstarter.com/projects/lanternfish/the-legend-of-sherlock-holmes/description)
 
@@ -56,7 +56,7 @@ Check out [Ruby Remote Conf](http://rubyremoteconf.com)!
 
 - Choice vs Forced Collaboration
 - “Half Baked Ideas”
-  - [Where Good Ideas Come From by Steven Johnson](http://www.amazon.com/gp/product/1594485380/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594485380&linkCode=as2&tag=chamaxwoo-20&linkId=HI2IULCPTIGP7VAE)
+  - [Where Good Ideas Come From by Steven Johnson](https://www.amazon.com/gp/product/1594485380/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594485380&linkCode=as2&tag=chamaxwoo-20&linkId=HI2IULCPTIGP7VAE)
 
 45:20 - Committing to a Coworking Space
 
@@ -69,14 +69,14 @@ Check out [Ruby Remote Conf](http://rubyremoteconf.com)!
 01:03:58 - Starting a Coworking Space
 
 - Core, Committed People
-  - [Community Barn Raising](http://en.wikipedia.org/wiki/Barn_raising)
+  - [Community Barn Raising](https://en.wikipedia.org/wiki/Barn_raising)
 - Resources:
-  - [How To Fund Your Coworking Space](http://dangerouslyawesome.com/2011/09/how-to-fund-your-coworking-space/)
-  - [How Much Does It Cost To Start A Coworking Space?](http://dangerouslyawesome.com/2012/01/how-much-does-it-cost-to-start-a-coworking-space/)
-  - [The Three Necessary Ingredients For Community. Do You Have Them?](http://dangerouslyawesome.com/2012/11/the-three-necessary-ingredients-for-community-do-you-have-them/)
+  - [How To Fund Your Coworking Space](https://dangerouslyawesome.com/2011/09/how-to-fund-your-coworking-space/)
+  - [How Much Does It Cost To Start A Coworking Space?](https://dangerouslyawesome.com/2012/01/how-much-does-it-cost-to-start-a-coworking-space/)
+  - [The Three Necessary Ingredients For Community. Do You Have Them?](https://dangerouslyawesome.com/2012/11/the-three-necessary-ingredients-for-community-do-you-have-them/)
     Picks
 
-[The Tim Ferriss Show](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) - Lazy: A Manifesto (Eric)[Kai Davis: How to Hire a Part-Time Employee](http://kaidavis.com/hire-part-time-employee/) (Jonathan)[Working Podcast](http://www.slate.com/articles/podcasts/working.html) (Reuven)[Startup Podcast](http://gimletmedia.com/show/startup/) (Reuven)[Fundraising While Female](http://advice.datingring.com/fundraising-while-female/) (Reuven)[CodeNewbie Podcast](http://www.codenewbie.org/podcast) (Chuck)[Ask Me Another Podcast](http://www.npr.org/programs/ask-me-another/) (Chuck)[Ruby Remote Conf](http://rubyremoteconf.com) (Chuck)[Reply All Podcast](https://itunes.apple.com/us/podcast/reply-all/id941907967?mt=2) (Alex)[Just Listen: Discover the Secret to Getting Through to Absolutely Anyone by Mark Goulston M.D.](http://www.amazon.com/gp/product/0814414036/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0814414036&linkCode=as2&tag=chamaxwoo-20&linkId=DUS3Q3ZQQOTRCQG3) (Alex)
+[The Tim Ferriss Show](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) - Lazy: A Manifesto (Eric)[Kai Davis: How to Hire a Part-Time Employee](https://kaidavis.com/hire-part-time-employee/) (Jonathan)[Working Podcast](https://www.slate.com/articles/podcasts/working.html) (Reuven)[Startup Podcast](https://gimletmedia.com/show/startup/) (Reuven)[Fundraising While Female](https://advice.datingring.com/fundraising-while-female/) (Reuven)[CodeNewbie Podcast](https://www.codenewbie.org/podcast) (Chuck)[Ask Me Another Podcast](https://www.npr.org/programs/ask-me-another/) (Chuck)[Ruby Remote Conf](https://rubyremoteconf.com) (Chuck)[Reply All Podcast](https://itunes.apple.com/us/podcast/reply-all/id941907967?mt=2) (Alex)[Just Listen: Discover the Secret to Getting Through to Absolutely Anyone by Mark Goulston M.D.](https://www.amazon.com/gp/product/0814414036/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0814414036&linkCode=as2&tag=chamaxwoo-20&linkId=DUS3Q3ZQQOTRCQG3) (Alex)
 
 ### Transcript
 

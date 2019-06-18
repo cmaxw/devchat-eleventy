@@ -14,13 +14,13 @@ tags:
 
 00:15 - Fabio’s experience writing the first Portuguese Ruby on Rails book
 
-- [Fabio’s blog](http://www.akitaonrails.com/)
+- [Fabio’s blog](https://www.akitaonrails.com/)
 - [Twitter](https://twitter.com/AkitaOnRails)
 - [Facebook](https://www.facebook.com/akitaonrails)
   7:35 - Effect on Fabio’s career9:10 - Sharing your knowledge without being an expert11:30 - Is Ruby still exciting? Should you learn a new language?18:50 - Using a different language and returning to Ruby22:30 - Learning[Crystal](https://crystal-lang.org/)24:20 - Building a new project and choosing a technology32:20 - Retiring from Ruby Conf Brazil
-- [Blog post about Ruby Conf Brazil](http://www.akitaonrails.com/2016/10/20/the-conf-initiative)
-- [The Conf](http://www.theconf.club/)
-  **Picks:** [Toastmasters International](https://www.toastmasters.org/) (Jason)[_Clean Code: A Handbook of Agile Software Craftsmanship_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin (Jason)(Jason)[Figma](https://www.figma.com/) (Jerome)[Ifttt](https://ifttt.com/) (Jerome)[_How to Build a Billion Dollar App_](https://www.amazon.com/How-Build-Billion-Dollar-entrepreneurs-ebook/dp/B00HP4HBVA) by George Berkowski(Jerome)[Fabio’s blog](http://www.akitaonrails.com/) (Charles)[_The Twelve Week Year_](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234) by Brian P. Moran and Michael Lennington (Charles)[_The Mythical Man-Month: Essays on Software Engineering_](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick Brooks (Fabio)[_Cosmos_ by Carl Sagan](http://www.imdb.com/title/tt0081846/) and [_Cosmos_ by Neil Degrasse Tyson](http://www.imdb.com/title/tt2395695/) (Fabio)Yaer (Fabio)
+- [Blog post about Ruby Conf Brazil](https://www.akitaonrails.com/2016/10/20/the-conf-initiative)
+- [The Conf](https://www.theconf.club/)
+  **Picks:** [Toastmasters International](https://www.toastmasters.org/) (Jason)[_Clean Code: A Handbook of Agile Software Craftsmanship_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin (Jason)(Jason)[Figma](https://www.figma.com/) (Jerome)[Ifttt](https://ifttt.com/) (Jerome)[_How to Build a Billion Dollar App_](https://www.amazon.com/How-Build-Billion-Dollar-entrepreneurs-ebook/dp/B00HP4HBVA) by George Berkowski(Jerome)[Fabio’s blog](https://www.akitaonrails.com/) (Charles)[_The Twelve Week Year_](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234) by Brian P. Moran and Michael Lennington (Charles)[_The Mythical Man-Month: Essays on Software Engineering_](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick Brooks (Fabio)[_Cosmos_ by Carl Sagan](https://www.imdb.com/title/tt0081846/) and [_Cosmos_ by Neil Degrasse Tyson](https://www.imdb.com/title/tt2395695/) (Fabio)Yaer (Fabio)
 
 ### Transcript
 

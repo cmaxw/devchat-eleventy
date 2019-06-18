@@ -46,7 +46,7 @@ This week on My Angular Story, Charles speaks with [Sharon DiOrio](https://www.l
 
 10:23 – Sharon.
 
-10:27 – Chuck: You spoke at [NG-Conf in 2014](http://branchandbound.net/blog/conferences/2014/01/ng-conf-2014-world-first-angular-conference/) and what are your tips for people who want to speak at these conferences.
+10:27 – Chuck: You spoke at [NG-Conf in 2014](https://branchandbound.net/blog/conferences/2014/01/ng-conf-2014-world-first-angular-conference/) and what are your tips for people who want to speak at these conferences.
 
 10:50 – Sharon: Get experience talking in front of large audiences before the ACTUAL conference! Also, start with Meetups!
 

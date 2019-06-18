@@ -67,7 +67,7 @@ In this episode, the React Round Up panelists talk to Luis Vieira about his [“
 
 - [Kendo UI](https://www.telerik.com/kendo-angular-ui/?utm_medium=cpm&utm_source=adventuresinng&utm_campaign=dt-kendo-ang2-nov16&utm_content=audio)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 
 **Picks:**
 

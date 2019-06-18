@@ -14,14 +14,14 @@ tags:
 
 00:57 - Jonathan’s Career Path Background and Transitions
 
-- [FileMaker](http://www.filemaker.com/)
+- [FileMaker](https://www.filemaker.com/)
 
 06:21 - Chuck’s Crossroad
 
 - Remote Conferences
   - [Angular Remote Conf](https://angularremoteconf.com/)
 - Sponsorship/Advertiser Liaison
-- [Apple TV](http://www.apple.com/tv/)
+- [Apple TV](https://www.apple.com/tv/)
 
 08:16 - Reuven’s Crossroad: Development =\> Training
 
@@ -36,7 +36,7 @@ tags:
 
 35:42 - The Identity Crisis Picks
 
-[Startups For The Rest Of Us Episode #225: Moving on From Auditshark](http://www.startupsfortherestofus.com/episodes/episode-255-moving-on-from-auditshark) (Reuven)[Remarq](http://www.remarq.io/) (Jonathan)[RCA Outdoor Digital HDTV VHF UHF Yagi Type Antenna](http://www.lowes.com/pd_2285-63374-ANT751R___?productId=3549244&pl=1&Ntt=antenna) (Chuck)[TV Fool](http://www.tvfool.com/?option=com_wrapper&Itemid=29) (Chuck)
+[Startups For The Rest Of Us Episode #225: Moving on From Auditshark](https://www.startupsfortherestofus.com/episodes/episode-255-moving-on-from-auditshark) (Reuven)[Remarq](https://www.remarq.io/) (Jonathan)[RCA Outdoor Digital HDTV VHF UHF Yagi Type Antenna](https://www.lowes.com/pd_2285-63374-ANT751R___?productId=3549244&pl=1&Ntt=antenna) (Chuck)[TV Fool](https://www.tvfool.com/?option=com_wrapper&Itemid=29) (Chuck)
 
 ### Transcript
 

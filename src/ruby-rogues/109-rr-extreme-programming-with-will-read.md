@@ -14,27 +14,27 @@ tags:
 
 02:26 - Will Read Introduction
 
-- [Pivotal Labs](http://pivotallabs.com/)
+- [Pivotal Labs](https://pivotallabs.com/)
 
-03:11 - [Extreme Programming](http://en.wikipedia.org/wiki/Extreme_programming) (XP) & Development Practices
+03:11 - [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming) (XP) & Development Practices
 
 - Pair Programming
 - Test-Driven Development (TDD)
 - Continuous Integration
 - Frequent Deploys
-- [Extreme Programming Explained: Embrace Change, Second Edition by Kent Beck](http://www.amazon.com/gp/product/B000OZ0N5S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000OZ0N5S&linkCode=as2&tag=chamaxwoo-20)
+- [Extreme Programming Explained: Embrace Change, Second Edition by Kent Beck](https://www.amazon.com/gp/product/B000OZ0N5S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000OZ0N5S&linkCode=as2&tag=chamaxwoo-20)
 
-05:00 - [Manifesto for Agile Software Development](http://agilemanifesto.org/)
+05:00 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
-- [Scrum](<http://en.wikipedia.org/wiki/Scrum_(software_development)>)
-- [Kanban](<http://en.wikipedia.org/wiki/Kanban_(development)>)
+- [Scrum](<https://en.wikipedia.org/wiki/Scrum_(software_development)>)
+- [Kanban](<https://en.wikipedia.org/wiki/Kanban_(development)>)
 
 07:22 - Project Management Practices
 
 - Iteration Planning
 - Retrospectives
 - Stand-ups
-- [SalesForce](http://salesforce.com/)
+- [SalesForce](https://salesforce.com/)
 
 09:07 - Purpose and Attractiveness of XP
 
@@ -46,24 +46,24 @@ tags:
 
 21:09 - Team Structure
 
-- [Conway’s Law](http://en.wikipedia.org/wiki/Conway's_law)
-- [Ruby Conf 2012 - The Insufficiency of Good Design by Sarah Mei](http://www.youtube.com/watch?v=UgrVdHYEZGg)
+- [Conway’s Law](https://en.wikipedia.org/wiki/Conway's_law)
+- [Ruby Conf 2012 - The Insufficiency of Good Design by Sarah Mei](https://www.youtube.com/watch?v=UgrVdHYEZGg)
 - Customer Product Manager (PM)
 - Collocation
 
 23:54 - Remote Pair Programming
 
 - [#pairwithme](https://twitter.com/search?q=%23pairwithme&src=typd)
-- [MadEye](http://madeye.io/)
-- [Tmux](http://tmux.sourceforge.net/)
-- [Screenhero](http://screenhero.com/)
-- [Wide Teams](http://www.wideteams.com/)
+- [MadEye](https://madeye.io/)
+- [Tmux](https://tmux.sourceforge.net/)
+- [Screenhero](https://screenhero.com/)
+- [Wide Teams](https://www.wideteams.com/)
 
 29:22 - Hiring People for XP
 
 30:56 - Sustainable Pace
 
-- [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
+- [Extreme Programming Rules](https://www.extremeprogramming.org/rules.html)
 - [Pivotal Tracker](https://www.pivotaltracker.com/)
 - Discipline
 
@@ -71,9 +71,9 @@ tags:
 
 - Designer/Developer Disconnect
 
-43:11 - QA ([Quality Assurance](http://en.wikipedia.org/wiki/Quality_assurance)) Teams
+43:11 - QA ([Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)) Teams
 
-- [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](http://pragprog.com/book/ehxta/explore-it)
+- [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](https://pragprog.com/book/ehxta/explore-it)
 
 45:55 - When XP is a bad thing
 
@@ -81,26 +81,26 @@ tags:
 
 51:21 - Tools
 
-- [Introducing the Style Guide Gem - Doc Ritezel](http://pivotallabs.com/style-guide-gem/)
+- [Introducing the Style Guide Gem - Doc Ritezel](https://pivotallabs.com/style-guide-gem/)
 - [git-duet](https://github.com/modcloth/git-duet)
-- [Jenkins CI](http://jenkins-ci.org/)
+- [Jenkins CI](https://jenkins-ci.org/)
 - [ciborg](https://github.com/pivotal/ciborg)
 
 52:50 - Physical Workstations
 
 - Desk Setup
-- [Pairing tete-a-tete - Pivotal Labs](http://pivotallabs.com/pairing-tete-a-tete/)
+- [Pairing tete-a-tete - Pivotal Labs](https://pivotallabs.com/pairing-tete-a-tete/)
 - Team-owned Machines
 
 56:44 - Resources
 
-- [Extreme Programming Explained: Embrace Change, Second Edition by Kent Beck](http://www.amazon.com/gp/product/B000OZ0N5S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000OZ0N5S&linkCode=as2&tag=chamaxwoo-20)
-- [Pivotal Labs Blog](http://pivotallabs.com/community/blogs/)
-- [Dev Bootcamp](http://devbootcamp.com/)
+- [Extreme Programming Explained: Embrace Change, Second Edition by Kent Beck](https://www.amazon.com/gp/product/B000OZ0N5S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000OZ0N5S&linkCode=as2&tag=chamaxwoo-20)
+- [Pivotal Labs Blog](https://pivotallabs.com/community/blogs/)
+- [Dev Bootcamp](https://devbootcamp.com/)
 
 ### Book Club
 
-[Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](http://pragprog.com/book/ehxta/explore-it)! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
+[Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](https://pragprog.com/book/ehxta/explore-it)! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
 
 ### Next Week
 

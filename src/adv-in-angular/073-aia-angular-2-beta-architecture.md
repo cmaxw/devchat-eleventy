@@ -18,7 +18,7 @@ Check out [JS Remote Conf](https://jsremoteconf.com/)! The conference will run f
 
 02:22 - Angular 2 in Beta
 
-- [The Beta Release Blog Post](http://angularjs.blogspot.com/2015/12/angular-2-beta.html)
+- [The Beta Release Blog Post](https://angularjs.blogspot.com/2015/12/angular-2-beta.html)
 
 04:04 - The Notion of a Module
 
@@ -53,7 +53,7 @@ Check out [JS Remote Conf](https://jsremoteconf.com/)! The conference will run f
   - \$scope
     \*\* See website for diagrams mentioned in this show \*\*Picks
 
-[The War of Art: Break Through the Blocks and Win Your Inner Creative Battles Paperback by Steven Pressfield](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_1?s=books&ie=UTF8&qid=1450446804&sr=1-1&keywords=The+War+of+Art) (Lukas) The Angular Panelists and Guests (John)[The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni](http://www.amazon.com/The-Five-Dysfunctions-Team-Leadership/dp/0787960756) (John) Ward’s wife (Ward)[Serial](https://serialpodcast.org/) (Chuck)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)
+[The War of Art: Break Through the Blocks and Win Your Inner Creative Battles Paperback by Steven Pressfield](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_1?s=books&ie=UTF8&qid=1450446804&sr=1-1&keywords=The+War+of+Art) (Lukas) The Angular Panelists and Guests (John)[The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni](https://www.amazon.com/The-Five-Dysfunctions-Team-Leadership/dp/0787960756) (John) Ward’s wife (Ward)[Serial](https://serialpodcast.org/) (Chuck)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)
 
 ### Transcript
 

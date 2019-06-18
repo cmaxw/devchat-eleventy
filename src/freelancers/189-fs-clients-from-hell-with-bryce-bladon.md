@@ -15,10 +15,10 @@ tags:
 02:40 - Bryce Bladon Introduction
 
 - [Twitter](https://twitter.com/BryceBladon)
-- [Blog](http://brycebladon.com/)
-- [Hell To Pay: Everything a Freelancer Needs to Know About Earning Good Money](http://clientsfromhell.net/helltopay)
+- [Blog](https://brycebladon.com/)
+- [Hell To Pay: Everything a Freelancer Needs to Know About Earning Good Money](https://clientsfromhell.net/helltopay)
 
-03:07 - [Clients From Hell](http://clientsfromhell.net/)
+03:07 - [Clients From Hell](https://clientsfromhell.net/)
 
 04:27 - Favorite Stories
 
@@ -41,7 +41,7 @@ tags:
 
 Picks
 
-Being on time (Philip)[Instant Pot IP-DUO60 7-in-1 Programmable Pressure Cooker](http://www.amazon.com/gp/product/B00FLYWNYQ) (Philip)[Dropshare](https://getdropsha.re/) (Philip)[Mike Monteiro: Keynote from Interaction Design Association](https://vimeo.com/121082134) (Jonathan)[27b/6](http://www.27bslash6.com/) (Jonathan)[Pat Flynn: How to Write a Book - The Secret to a Super Fast First Draft - SPI TV Ep. 1](https://www.youtube.com/watch?v=nWoYHAwzcpY) (Chuck)[Freelance Remote Conf](http://freelanceremoteconf.com) (Chuck)[Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)[iOS Remote Conf](http://iosremoteconf.com) (Chuck)[David McRaney: Anchoring Effect](http://youarenotsosmart.com/2010/07/27/anchoring-effect/) (Bryce)[Dan Ariely: Are we in control of our own decisions?](http://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions?language=en) (Bryce)[Soylent](https://www.soylent.com/) (Bryce)
+Being on time (Philip)[Instant Pot IP-DUO60 7-in-1 Programmable Pressure Cooker](https://www.amazon.com/gp/product/B00FLYWNYQ) (Philip)[Dropshare](https://getdropsha.re/) (Philip)[Mike Monteiro: Keynote from Interaction Design Association](https://vimeo.com/121082134) (Jonathan)[27b/6](https://www.27bslash6.com/) (Jonathan)[Pat Flynn: How to Write a Book - The Secret to a Super Fast First Draft - SPI TV Ep. 1](https://www.youtube.com/watch?v=nWoYHAwzcpY) (Chuck)[Freelance Remote Conf](https://freelanceremoteconf.com) (Chuck)[Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)[iOS Remote Conf](https://iosremoteconf.com) (Chuck)[David McRaney: Anchoring Effect](https://youarenotsosmart.com/2010/07/27/anchoring-effect/) (Bryce)[Dan Ariely: Are we in control of our own decisions?](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions?language=en) (Bryce)[Soylent](https://www.soylent.com/) (Bryce)
 
 ### Transcript
 

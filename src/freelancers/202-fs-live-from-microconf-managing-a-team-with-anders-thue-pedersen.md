@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-In this episode, Chuck interviews [Anders Thue Pederson](https://twitter.com/andersthue) of [TimeBlock](http://timeblock.com/) at [MicroConf](http://www.microconf.com/) 2016.The two discuss team building for businesses and go over important aspects such as planning, hiring, and managing employees and subcontractors.&nbsp;Picks
+In this episode, Chuck interviews [Anders Thue Pederson](https://twitter.com/andersthue) of [TimeBlock](https://timeblock.com/) at [MicroConf](https://www.microconf.com/) 2016.The two discuss team building for businesses and go over important aspects such as planning, hiring, and managing employees and subcontractors.&nbsp;Picks
 
 - [News Feed Eradicator for Facebook](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en) (Anders)
 - [Booting Facebook Posts](https://www.facebook.com/business/learn/facebook-page-boost-posts) (Chuck)

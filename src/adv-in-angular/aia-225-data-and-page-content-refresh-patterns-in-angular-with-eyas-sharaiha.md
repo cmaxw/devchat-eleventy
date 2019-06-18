@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io)&nbsp;use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io)&nbsp;use the code "devchat" for $100 credit
 - [Angular Bootcamp](https://angularbootcamp.com)
 - [TripleByte](https://triplebyte.com/angular)
 
@@ -39,11 +39,11 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/? __tn__ =%2Cd%2
 - [Talk List](https://www.ng-conf.org/schedule/) over at NG Conf
 - [Five Minute Marvel](https://www.amazon.com/Spin-Master-Games-Fast-Paced-Cooperative/dp/B07B81RSZX/ref=sr_1_1?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_U)
 John Papa
-- [http://realtalkjs.com](http://realtalkjs.com)
+- [https://realtalkjs.com](https://realtalkjs.com)
 Ward Bell&nbsp;
 - [https://auth0.com/blog/ngrx-facades-pros-and-cons/](https://auth0.com/blog/ngrx-facades-pros-and-cons/)
 Charles Max Wood
-- [http://libsyn.com](http://libsyn.com)
+- [https://libsyn.com](https://libsyn.com)
 - [Purple seat pad](https://www.amazon.com/Purple-Portable-Seat-Cushion-Relieving/dp/B01CKMP10E/ref=sr_1_1_sspa?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_U)
 - [vrbo.com](https://www.vrbo.com/)
 Eyas Sharaiha

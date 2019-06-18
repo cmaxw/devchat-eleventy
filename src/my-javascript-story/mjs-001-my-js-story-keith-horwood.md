@@ -30,7 +30,7 @@ Anyone can open up their web browser console and begin programming. It's that ea
 
 ## Get Connected
 
-You can connect with Keith and see what he’s excited about at the following links. Don’t forget to let Keith know you heard about him on Devchat.tv’s Javascript Jabber My JS Story podcast![WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)[Node](https://nodejs.org/en/)[Nodal](http://www.nodaljs.com/)[Stdlib](https://stdlib.com/)[Tweet Keith](https://twitter.com/keithwhor?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)If you’re short on time, here are the highlights of My JS Story Keith Horwood: How did Keith get started in programming? (2:36) How did Keith get into Jabbascript? (6:41) Full fledged applications from Jabbascript (8:19) What would Keith&nbsp;like to get back into? (14:15) What is really cool right now? (20:07)
+You can connect with Keith and see what he’s excited about at the following links. Don’t forget to let Keith know you heard about him on Devchat.tv’s Javascript Jabber My JS Story podcast![WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)[Node](https://nodejs.org/en/)[Nodal](https://www.nodaljs.com/)[Stdlib](https://stdlib.com/)[Tweet Keith](https://twitter.com/keithwhor?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)If you’re short on time, here are the highlights of My JS Story Keith Horwood: How did Keith get started in programming? (2:36) How did Keith get into Jabbascript? (6:41) Full fledged applications from Jabbascript (8:19) What would Keith&nbsp;like to get back into? (14:15) What is really cool right now? (20:07)
 
 ## Keith’s Picks:
 
@@ -38,6 +38,6 @@ You can connect with Keith and see what he’s excited about at the following li
 
 ## Charles’ Picks:
 
-[Podcast Pilot](http://podcastpilot.com/)[Dokuwiki](https://www.dokuwiki.org/dokuwiki#)[Devchat&nbsp;Conferences 2017](https://devchat.tv/conferences)
+[Podcast Pilot](https://podcastpilot.com/)[Dokuwiki](https://www.dokuwiki.org/dokuwiki#)[Devchat&nbsp;Conferences 2017](https://devchat.tv/conferences)
 
 ### Transcript

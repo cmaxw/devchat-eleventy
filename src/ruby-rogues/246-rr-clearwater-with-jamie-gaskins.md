@@ -16,14 +16,14 @@ tags:
 
 - [Twitter](https://twitter.com/jamie_gaskins)
 - [GitHub](https://github.com/jgaskins)
-- [Blog](http://jgaskins.org/)
+- [Blog](https://jgaskins.org/)
 - [OrderUp](https://orderup.com/)
-- [readthesource: Clearwater with Jamie Gaskins](http://hangouts.readthesource.io/hangouts/clearwater/)
+- [readthesource: Clearwater with Jamie Gaskins](https://hangouts.readthesource.io/hangouts/clearwater/)
 
 02:23 - [Clearwater](https://github.com/clearwater-rb/clearwater)
 
 - [Clearwater Gitter Channel](https://gitter.im/clearwater-rb/clearwater)
-- [Opal](http://opalrb.org/)
+- [Opal](https://opalrb.org/)
 - [roda](https://github.com/jeremyevans/roda)
 
 03:51 - How an App is Typically Structured
@@ -56,9 +56,9 @@ tags:
 
 24:39 - What is success?
 
-25:23 - Using Clearwater with a System Like [Volt](http://voltframework.com/)Picks
+25:23 - Using Clearwater with a System Like [Volt](https://voltframework.com/)Picks
 
-[Contributor Covenant](http://contributor-covenant.org/) (Coraline)[Kaleidoscope](http://www.kaleidoscopeapp.com) (Coraline)[LEGO Ideas - Lovelace & Babbage](https://ideas.lego.com/projects/102740) (Coraline)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)[RushMyPassport](https://www.rushmypassport.com/) (Chuck)[Primula Cold Brew Glass Carafe Iced Coffee Maker](http://www.amazon.com/gp/product/B00YBQ4XZC) (Jamie)[JRuby](http://jruby.org) (Jamie)
+[Contributor Covenant](https://contributor-covenant.org/) (Coraline)[Kaleidoscope](https://www.kaleidoscopeapp.com) (Coraline)[LEGO Ideas - Lovelace & Babbage](https://ideas.lego.com/projects/102740) (Coraline)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)[RushMyPassport](https://www.rushmypassport.com/) (Chuck)[Primula Cold Brew Glass Carafe Iced Coffee Maker](https://www.amazon.com/gp/product/B00YBQ4XZC) (Jamie)[JRuby](https://jruby.org) (Jamie)
 
 ### Transcript
 

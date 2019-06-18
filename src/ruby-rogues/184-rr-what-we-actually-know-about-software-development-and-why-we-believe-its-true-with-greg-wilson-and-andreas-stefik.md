@@ -15,64 +15,64 @@ tags:
 02:38 - Andreas Stefik Introduction
 
 - [<u>Twitter</u>](https://twitter.com/AndreasStefik)
-- [<u>Research Page</u>](http://web.cs.unlv.edu/stefika/)
-- Systems Professor at [<u>University of Nevada: Las Vegas</u>](http://www.unlv.edu/)
-- [<u>CodeMesh 2014 - Andreas Stefik - The Programming Language Wars</u>](http://vimeo.com/111661161)
+- [<u>Research Page</u>](https://web.cs.unlv.edu/stefika/)
+- Systems Professor at [<u>University of Nevada: Las Vegas</u>](https://www.unlv.edu/)
+- [<u>CodeMesh 2014 - Andreas Stefik - The Programming Language Wars</u>](https://vimeo.com/111661161)
 
 02:48 - Greg Wilson Introduction
 
 - [<u>Twitter</u>](https://twitter.com/gvwilson)
-- [<u>Blog</u>](http://third-bit.com/)
-- [<u>[Amazon] Greg's Books</u>](http://smile.amazon.com/Greg-Wilson/e/B001H6PNGM/ref=sr_ntt_srch_lnk_1?qid=1416874098&sr=8-1)
+- [<u>Blog</u>](https://third-bit.com/)
+- [<u>[Amazon] Greg's Books</u>](https://smile.amazon.com/Greg-Wilson/e/B001H6PNGM/ref=sr_ntt_srch_lnk_1?qid=1416874098&sr=8-1)
 
-03:48 - [<u>Greg Wilson - What We Actually Know About Software Development, and Why We Believe It's True</u>](http://vimeo.com/9270320)
+03:48 - [<u>Greg Wilson - What We Actually Know About Software Development, and Why We Believe It's True</u>](https://vimeo.com/9270320)
 
-- [<u>Org Charts</u>](http://office.microsoft.com/en-us/templates/org-charts-visual-TC103427541.aspx)
-- [<u>Test-driven Development (TDD)</u>](http://en.wikipedia.org/wiki/Test-driven_development)
+- [<u>Org Charts</u>](https://office.microsoft.com/en-us/templates/org-charts-visual-TC103427541.aspx)
+- [<u>Test-driven Development (TDD)</u>](https://en.wikipedia.org/wiki/Test-driven_development)
 
-07:33 - [<u>Andreas Stefik and his Perl Study (An Empirical Comparison of the Accuracy Rates of Novices using the Quorum, Perl, and Randomo Programming Languages)</u>](http://delivery.acm.org/10.1145/2090000/2089159/p3-stefik.pdf?ip=174.55.157.181&id=2089159&acc=AUTHOR-IZED&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6921C5E6973C27F7&CFID=603213719&CFTOKEN=23308749& **acm** =1417283609_f91b8510e0d6957a01215e9df63918ae)
+07:33 - [<u>Andreas Stefik and his Perl Study (An Empirical Comparison of the Accuracy Rates of Novices using the Quorum, Perl, and Randomo Programming Languages)</u>](https://delivery.acm.org/10.1145/2090000/2089159/p3-stefik.pdf?ip=174.55.157.181&id=2089159&acc=AUTHOR-IZED&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6921C5E6973C27F7&CFID=603213719&CFTOKEN=23308749& **acm** =1417283609_f91b8510e0d6957a01215e9df63918ae)
 
-- [<u>The Quorum Programming Language</u>](http://quorumlanguage.com/)
+- [<u>The Quorum Programming Language</u>](https://quorumlanguage.com/)
 
 12:10 - Rebuilding Software Engineering Classes
 
 15:34 - How Can **\*I\*** Do Science?
 
-- [<u>Rachel Carson</u>](http://www.rachelcarson.org/)
+- [<u>Rachel Carson</u>](https://www.rachelcarson.org/)
 - [<u>Walter F. Tichy: Should Computer Scientists Experiment More?: 16 Excuses to Avoid Experimentation</u>](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/moreexperiments.pdf)
-- [<u>Andrew J. Ko, Thomas D. LaToza, and Margaret M. Burnett: A practical guide to controlled experiments of software engineering tools with human participants</u>](http://faculty.washington.edu/ajko/papers/Ko2013SEToolEvaluations.pdf)
-- [<u>Functional Programming</u>](http://en.wikipedia.org/wiki/Functional_programming)
-  - [<u>The International Conference on Functional Programming</u>](http://www.icfpconference.org/)
-- <u><a href="http://tavisharmstrong.com/" data-cke-saved-href="http://tavisharmstrong.com/">Tavish Armstrong</a></u>
-  - [<u>Tavish Armstrong: How Long Does It Take To Review an IPython Pull Request?</u>](http://nbviewer.ipython.org/github/tarmstrong/code-analysis/blob/master/IPythonReviewTime.ipynb)
+- [<u>Andrew J. Ko, Thomas D. LaToza, and Margaret M. Burnett: A practical guide to controlled experiments of software engineering tools with human participants</u>](https://faculty.washington.edu/ajko/papers/Ko2013SEToolEvaluations.pdf)
+- [<u>Functional Programming</u>](https://en.wikipedia.org/wiki/Functional_programming)
+  - [<u>The International Conference on Functional Programming</u>](https://www.icfpconference.org/)
+- <u><a href="https://tavisharmstrong.com/" data-cke-saved-href="https://tavisharmstrong.com/">Tavish Armstrong</a></u>
+  - [<u>Tavish Armstrong: How Long Does It Take To Review an IPython Pull Request?</u>](https://nbviewer.ipython.org/github/tarmstrong/code-analysis/blob/master/IPythonReviewTime.ipynb)
 
 23:52 - Thinking in Terms of Data, Experimentation and Revising Teaching Methods of Computer Science
 
-- [<u>The Scientific Method</u>](http://en.wikipedia.org/wiki/Scientific_method)
-- [<u>Performance Engineering</u>](http://en.wikipedia.org/wiki/Performance_engineering)
-- [<u>Simon Peyton Jones</u>](http://en.wikipedia.org/wiki/Simon_Peyton_Jones)
-- <u><a href="http://www.gatech.edu/" data-cke-saved-href="http://www.gatech.edu/">Georgia Tech</a></u>
-  - [Mark Guzdial](http://en.wikipedia.org/wiki/Mark_Guzdial)
-    - [<u>Computing Education Blog</u>](http://computinged.wordpress.com/)
-  - [<u>Barbara Ericson</u>](http://www.cc.gatech.edu/people/barbara-ericson)
-- [<u>The Scratch Group at MIT</u>](http://scratch.mit.edu/parents/)
+- [<u>The Scientific Method</u>](https://en.wikipedia.org/wiki/Scientific_method)
+- [<u>Performance Engineering</u>](https://en.wikipedia.org/wiki/Performance_engineering)
+- [<u>Simon Peyton Jones</u>](https://en.wikipedia.org/wiki/Simon_Peyton_Jones)
+- <u><a href="https://www.gatech.edu/" data-cke-saved-href="https://www.gatech.edu/">Georgia Tech</a></u>
+  - [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial)
+    - [<u>Computing Education Blog</u>](https://computinged.wordpress.com/)
+  - [<u>Barbara Ericson</u>](https://www.cc.gatech.edu/people/barbara-ericson)
+- [<u>The Scratch Group at MIT</u>](https://scratch.mit.edu/parents/)
 - “Software Witch Doctor”
 
 49:41 - How Do We Know Science Works?
 
-- [<u>Pseudoscience</u>](http://en.wikipedia.org/wiki/Pseudoscience)
-- [<u>Andrew Begel and Thomas Zimmermann: Analyze This! 145 Questions for Data Scientists in Software Engineering</u>](http://research.microsoft.com/pubs/208800/begel-icse-2014.pdf)
+- [<u>Pseudoscience</u>](https://en.wikipedia.org/wiki/Pseudoscience)
+- [<u>Andrew Begel and Thomas Zimmermann: Analyze This! 145 Questions for Data Scientists in Software Engineering</u>](https://research.microsoft.com/pubs/208800/begel-icse-2014.pdf)
 
 53:27 - Demonstrating and Proving Theories
 
 59:53 - Practices, Organizations, and Productivity
 
 - Optimizing for Local Maxima
-- [<u>Andreas Stefik and Stefan Hanenberg: The Programming Language Wars: Questions and Responsibilities for the Programming Language Community</u>](http://www.codemesh.io/static/upload/media/141562653162935languagewars.pdf)
+- [<u>Andreas Stefik and Stefan Hanenberg: The Programming Language Wars: Questions and Responsibilities for the Programming Language Community</u>](https://www.codemesh.io/static/upload/media/141562653162935languagewars.pdf)
 
 01:13:07 - Making Languages that are Easy for Novices
 
-- [<u>Paul Denny:  Enhancing syntax error messages appears ineffectual</u>](http://dl.acm.org/citation.cfm?id=2591748)
+- [<u>Paul Denny:  Enhancing syntax error messages appears ineffectual</u>](https://dl.acm.org/citation.cfm?id=2591748)
 
 01:19:10 - The Fallacy of Small Numbers
 
@@ -82,14 +82,14 @@ tags:
 
 01:26:02 - What is the Next Question to Ask to Move Forward?
 
-- <u><a href="http://en.wikipedia.org/wiki/Lambda" data-cke-saved-href="http://en.wikipedia.org/wiki/Lambda">Lambdas</a></u>
+- <u><a href="https://en.wikipedia.org/wiki/Lambda" data-cke-saved-href="https://en.wikipedia.org/wiki/Lambda">Lambdas</a></u>
 
 ### See Also
 
-- [<u>Empirical Software Engineering</u>](http://www.springer.com/computer/swe/journal/10664)
+- [<u>Empirical Software Engineering</u>](https://www.springer.com/computer/swe/journal/10664)
 - [<u>Julia Evans: Visualize your Git!</u>](https://visualize-your-git.herokuapp.com/)
 - [<u>Julia Evans: Visualize your Git! (#295)</u>](https://visualize-your-git.herokuapp.com/display/295)
-- <u><a href="http://sns.cs.princeton.edu/docs/asr-oopsla13.pdf" data-cke-saved-href="http://sns.cs.princeton.edu/docs/asr-oopsla13.pdf">Leo A. Meyerovich: Empirical Analysis of Programming Language Adoption</a></u>
+- <u><a href="https://sns.cs.princeton.edu/docs/asr-oopsla13.pdf" data-cke-saved-href="https://sns.cs.princeton.edu/docs/asr-oopsla13.pdf">Leo A. Meyerovich: Empirical Analysis of Programming Language Adoption</a></u>
 
 ### Transcript
 

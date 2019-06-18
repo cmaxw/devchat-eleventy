@@ -27,7 +27,7 @@ In this episode, the panel talks with Andy Bell who is an independent designer a
 
 0:00 – [Advertisement: KENDO UI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
 
-0:34 – Chuck: Hi! Our panel is AJ, Aimee, Chris, myself and my new show is coming out in a few weeks, which is called the [DevRev!](http://thedevrev.com) It helps you with developer’s freedom! I am super excited. Our guest is Andy Bell. Introduce yourself, please.
+0:34 – Chuck: Hi! Our panel is AJ, Aimee, Chris, myself and my new show is coming out in a few weeks, which is called the [DevRev!](https://thedevrev.com) It helps you with developer’s freedom! I am super excited. Our guest is Andy Bell. Introduce yourself, please.
 
 2:00 – Guest: I am an independent designer and developer out in the U.K.
 
@@ -191,7 +191,7 @@ _Note: “Cutting the Mustard Test” is mentioned._
 
 47:33 – Chuck: I want to shout-out about [DevLifts](https://devlifts.io) that has $19 a month to help you with physical goals. Or you can get the premium slot! It’s terrific stuff. Sign-up with DEVCHAT code but there is a limited number of slots and there is a deadline, too. Just try it! They have a podcast, too!
 
-49:16 – Aimee: [Yeah, I’m on their podcast soon!](http://podcast.devlifts.io)
+49:16 – Aimee: [Yeah, I’m on their podcast soon!](https://podcast.devlifts.io)
 
 49:30 – Chuck: Picks!
 
@@ -205,7 +205,7 @@ END – [Advertisement: CacheFly!](https://www.cachefly.com)
 - Ember.js
 - [Vue](https://vuejs.org)
 - [GO](https://golang.org/project/)
-- [jQuery](http://jquery.com)
+- [jQuery](https://jquery.com)
 - [Node.js](https://nodejs.org/en/)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Cypress](https://www.cypress.io)
@@ -222,7 +222,7 @@ END – [Advertisement: CacheFly!](https://www.cachefly.com)
 - [Game Chops](https://music.gamechops.com/album/arcade-attack)
 - [CNBC – Trump Article](https://www.cnbc.com/2018/05/30/trump-signs-right-to-try-legislation-on-experimental-medicines.html?fbclid=IwAR3EJlxT7PP510g7BtEu3bYg-PPDeGoEjguUkz9iOqh1S8LwcsVCA2oIkvU)
 - [New in Node v10.12](https://coolaj86.com/articles/new-in-node-native-rsa-ec-and-dsa-support/)
-- [Quotes Archive](http://quotes.cat-v.org/programming/)
+- [Quotes Archive](https://quotes.cat-v.org/programming/)
 - [My Amazon Interview Horror Story](https://www.igorkromin.net/index.php/2018/11/04/my-amazon-interview-horror-story/)
 - [DevPal.io](https://devpal.io)
 - [Honest Work](https://honest.work)
@@ -242,14 +242,14 @@ END – [Advertisement: CacheFly!](https://www.cachefly.com)
 
 Aimee
 
-- [Hacker News&nbsp; -&nbsp; Programming Quotes](http://quotes.cat-v.org/programming/)
+- [Hacker News&nbsp; -&nbsp; Programming Quotes](https://quotes.cat-v.org/programming/)
 - [My Amazon Interview Horror Story](https://www.igorkromin.net/index.php/2018/11/04/my-amazon-interview-horror-story/)
 
 Chris
 
 - [Time Ago in Under 50 Lines of JavaScript](https://coolaj86.com/articles/time-ago-in-under-50-lines-of-javascript/)
 - [E-Book Boiler Plate](https://github.com/cferdinandi/ebook-boilerplate)
-- JSJABBER at&nbsp;[gomakethings.com](http://gomakethings.com/)
+- JSJABBER at&nbsp;[gomakethings.com](https://gomakethings.com/)
 
 AJ
 
@@ -266,7 +266,7 @@ Charles
 
 Andy
 
-- [Devpay.io](http://devpal.io)
+- [Devpay.io](https://devpal.io)
 - [Honest.work](https://honest.work)
 - [Relativepath.uk](https://relativepaths.uk)
 

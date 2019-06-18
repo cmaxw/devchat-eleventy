@@ -25,7 +25,7 @@ In this episode of Elixir Mix, the panel talks with [Devon Estes](https://twitte
 
 0:00 – [Advertisement: Get A Coder Job!](https://devchat.tv/get-a-coder-job/)&nbsp;
 
-0:49 – Chuck: I am starting a new show called [The DevRev](http://thedevrev.com). Check it out [here!](http://thedevrev.com) Our special guest today is Devon Estes. [Episode 18](https://devchat.tv/elixir-mix/emx-018-devon-estes-all-in-on-elixir/) is a past episode you’ve been on – check it out [here!](https://devchat.tv/elixir-mix/emx-018-devon-estes-all-in-on-elixir/)
+0:49 – Chuck: I am starting a new show called [The DevRev](https://thedevrev.com). Check it out [here!](https://thedevrev.com) Our special guest today is Devon Estes. [Episode 18](https://devchat.tv/elixir-mix/emx-018-devon-estes-all-in-on-elixir/) is a past episode you’ve been on – check it out [here!](https://devchat.tv/elixir-mix/emx-018-devon-estes-all-in-on-elixir/)
 
 1:26 – Devon: I am American but live in Berlin, Germany for about 4 years now. I was a freelancer, but now I am at a “real” job now where I am a software developer using [Elixir.](https://elixir-lang.org)
 

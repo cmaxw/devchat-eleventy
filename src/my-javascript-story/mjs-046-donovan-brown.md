@@ -19,7 +19,7 @@ tags:
 - Computer Math&nbsp; Cue Basic
 - Selling notes&nbsp; -&nbsp; Chemistry class
 - Board Game creation
-- [Teach yourself C in 21 days](http://v)
+- [Teach yourself C in 21 days](https://v)
 - Change majors
 - Work at Compaq Computers and go promoted as a software engineer
 - Independent, then into Dev Ops
@@ -39,7 +39,7 @@ tags:
 - [DevOps Interviews Podcast](https://channel9.msdn.com/Blogs/DevOps-Interviews)
 - and much, much more!
   **Links:&nbsp;**
-- http://donovanbrown.com
+- https://donovanbrown.com
 - [https://github.com/DarqueWarrior](https://github.com/DarqueWarrior)
 - @DonovanBrown
 - [DevOps Interviews Podcast&nbsp;](https://channel9.msdn.com/Blogs/DevOps-Interviews)

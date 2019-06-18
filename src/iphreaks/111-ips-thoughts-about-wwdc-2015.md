@@ -16,11 +16,11 @@ tags:
 
 &nbsp;
 
-02:09 - [Apple Music](http://www.apple.com/music/)
+02:09 - [Apple Music](https://www.apple.com/music/)
 
 03:12 - [Metal](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Introduction/Introduction.html) for OSX
 
-- [The iPhreaks Show Episode #160: Metal with Warren Moore](http://devchat.tv/iphreaks/106-ips-metal-with-warren-moore)
+- [The iPhreaks Show Episode #160: Metal with Warren Moore](https://devchat.tv/iphreaks/106-ips-metal-with-warren-moore)
 
 05:04 - The New [Swift](https://developer.apple.com/swift/) Features
 
@@ -44,14 +44,14 @@ tags:
 
 38:15 - The Address Sanitizer
 
-- [Valgrind](http://valgrind.org/)
+- [Valgrind](https://valgrind.org/)
 
 51:07 - Crash Logs Addition in Xcode7
 
 - [Crashlytics](https://www.crashlytics.com/)
   54:43 - Installing Apps Without a Subscription to the Developer ProgramPicks
 
-[Owen Williams: Apple’s biggest developer news at WWDC that nobody’s talking about: Bitcode](http://thenextweb.com/apple/2015/06/17/apples-biggest-developer-news-at-wwdc-that-nobodys-talking-about-bitcode/) (Alondo)[neo-Style Lightning Charge & Sync Cable](http://www.samsclub.com/sams/usb-lightning-cable/prod13140155.ip) (Alondo)[Hardcore History Podcast](http://www.dancarlin.com/product/hardcore-history-50-blueprint-for-armageddon-i/) (Jaim)[WebAssembly](https://github.com/WebAssembly) (Mike)[ASCIIwwdc](http://asciiwwdc.com/) (Andrew)
+[Owen Williams: Apple’s biggest developer news at WWDC that nobody’s talking about: Bitcode](https://thenextweb.com/apple/2015/06/17/apples-biggest-developer-news-at-wwdc-that-nobodys-talking-about-bitcode/) (Alondo)[neo-Style Lightning Charge & Sync Cable](https://www.samsclub.com/sams/usb-lightning-cable/prod13140155.ip) (Alondo)[Hardcore History Podcast](https://www.dancarlin.com/product/hardcore-history-50-blueprint-for-armageddon-i/) (Jaim)[WebAssembly](https://github.com/WebAssembly) (Mike)[ASCIIwwdc](https://asciiwwdc.com/) (Andrew)
 
 ### Transcript
 

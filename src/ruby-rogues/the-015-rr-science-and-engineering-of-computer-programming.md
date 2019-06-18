@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-This episode was recorded live at [Lone Star Ruby Conference](http://lonestarrubyconf.com/) by [Opus Video Productions](http://opusvideoproductions.com/)
+This episode was recorded live at [Lone Star Ruby Conference](https://lonestarrubyconf.com/) by [Opus Video Productions](https://opusvideoproductions.com/)
 
 ### Transcript
 

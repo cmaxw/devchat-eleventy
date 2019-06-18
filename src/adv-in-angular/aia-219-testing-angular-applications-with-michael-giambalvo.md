@@ -27,7 +27,7 @@ In this episode, Chuck talks with special guest [Michael Giambalvo](https://twit
 
 0:00 – Advertisement: [AngularBootCamp.Com](https://angularbootcamp.com)
 
-0:53 – Chuck: Our panel is John Papa, Joe Eames, [Alyssa Nicoll](https://twitter.com/AlyssaNicoll), and myself. My new show is the [DevRev](http://thedevrev.com) – check it out, please!
+0:53 – Chuck: Our panel is John Papa, Joe Eames, [Alyssa Nicoll](https://twitter.com/AlyssaNicoll), and myself. My new show is the [DevRev](https://thedevrev.com) – check it out, please!
 
 1:26 – Guest: I am a contributing author to our [new book](https://www.manning.com/books/testing-angular-applications), which is about Angular.
 
@@ -250,11 +250,11 @@ Joe
 - [Luxur - board game](https://www.amazon.com/Board-Game-Luxor/dp/B07D45SYHT)
 - [Testing Angular with Cypress.io](https://www.youtube.com/watch?v=eZyD-8qglWY)
 - [Space Cadets](https://boardgamegeek.com/boardgame/123096/space-cadets)
-- [Sonar Family](http://www.matagot.com/en/catalog/details/jeux-famille/3/sonar-family/951)
+- [Sonar Family](https://www.matagot.com/en/catalog/details/jeux-famille/3/sonar-family/951)
 
 Charles
 
-- [The DevRev Podcast](http://thedevrev.com)
+- [The DevRev Podcast](https://thedevrev.com)
 - [Gary Vee Audio Experience](https://itunes.apple.com/us/podcast/the-garyvee-audio-experience/id928159684?mt=2)
 
 Michael

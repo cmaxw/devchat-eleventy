@@ -20,7 +20,7 @@ tags:
 
 **Special Guests:** Luca Guidi
 
-In this episode of Ruby Rogues, the panelists talk to Luca Guidi about Ruby elapsed time. Luca works remotely for [DNSimple](https://dnsimple.com/) and is most well known in the[Ruby](https://www.ruby-lang.org/en/) community for his open source projects, such as [Hanami](http://hanamirb.org/). They talk about NTP, time drifts, and the pros and cons to using a monoatomic clock. They also touch on the importance of being exposed to different languages in order to be a well-rounded developer.
+In this episode of Ruby Rogues, the panelists talk to Luca Guidi about Ruby elapsed time. Luca works remotely for [DNSimple](https://dnsimple.com/) and is most well known in the[Ruby](https://www.ruby-lang.org/en/) community for his open source projects, such as [Hanami](https://hanamirb.org/). They talk about NTP, time drifts, and the pros and cons to using a monoatomic clock. They also touch on the importance of being exposed to different languages in order to be a well-rounded developer.
 
 **In particular, we dive pretty deep on:**
 
@@ -38,11 +38,11 @@ In this episode of Ruby Rogues, the panelists talk to Luca Guidi about Ruby elap
 - The things you don’t think about are what you take for granted
 - [RailsConf](https://railsconf.com/)
 - How did you come about finding this conclusion?
-- [Go Computer Language](http://wl.english.purdue.edu/owl/resource/560/07/)
+- [Go Computer Language](https://wl.english.purdue.edu/owl/resource/560/07/)
 - Being exposed to different languages
 - [Ruby](https://www.ruby-lang.org/en/) is flexible and high-level
 - The dangers of coming to Ruby as their first language
-- [Rails](http://rubyonrails.org/)
+- [Rails](https://rubyonrails.org/)
 - And much, much more!
 
 **Links:**
@@ -50,11 +50,11 @@ In this episode of Ruby Rogues, the panelists talk to Luca Guidi about Ruby elap
 - [DevChat.tv YouTube](https://www.youtube.com/c/devchattv)
 - [DNSimple](https://dnsimple.com/)
 - [Ruby](https://www.ruby-lang.org/en/)
-- [Hanami](http://hanamirb.org/)
+- [Hanami](https://hanamirb.org/)
 - [Elapsed Time Blog Post](https://blog.dnsimple.com/2018/03/elapsed-time-with-ruby-the-right-way/)
 - [RailsConf](https://railsconf.com/)
-- [Go Language](http://wl.english.purdue.edu/owl/resource/560/07/)
-- [Rails](http://rubyonrails.org/)
+- [Go Language](https://wl.english.purdue.edu/owl/resource/560/07/)
+- [Rails](https://rubyonrails.org/)
 - [LucaGuidi.com](https://lucaguidi.com/)
 - [Luca’s GitHub](https://github.com/jodosha)
 - [@jodosha](https://twitter.com/jodosha?lang=en)

@@ -14,20 +14,20 @@ tags:
 
 ### Panel
 
-- Aaron Patterson ([@tenderlove](http://twitter.com/tenderlove))
-- Charles Max Wood ([@cmaxw](http://twitter.com/cmaxw))
-- David Brady ([@dbrady](http://twitter.com/dbrady))
-- James Edward Gray II ([@JEG2](http://twitter.com/JEG2))
-- Peter Cooper ([@peterc](http://twitter.com/peterc))
+- Aaron Patterson ([@tenderlove](https://twitter.com/tenderlove))
+- Charles Max Wood ([@cmaxw](https://twitter.com/cmaxw))
+- David Brady ([@dbrady](https://twitter.com/dbrady))
+- James Edward Gray II ([@JEG2](https://twitter.com/JEG2))
+- Peter Cooper ([@peterc](https://twitter.com/peterc))
 
 ### Discussion
 
-- [Rspec](http://rspec.info/)
-- [Test::Unit](http://ruby-doc.org/stdlib/libdoc/test/unit/rdoc/classes/Test/Unit.html)
+- [Rspec](https://rspec.info/)
+- [Test::Unit](https://ruby-doc.org/stdlib/libdoc/test/unit/rdoc/classes/Test/Unit.html)
 - [Minitest](https://github.com/seattlerb/minitest)
-- [Minitest-spec](http://bfts.rubyforge.org/minitest/MiniTest/Spec.html)
+- [Minitest-spec](https://bfts.rubyforge.org/minitest/MiniTest/Spec.html)
 - [Riot](https://github.com/thumblemonks/riot)
-- [Cucumber](http://cukes.info/)
+- [Cucumber](https://cukes.info/)
 - East-facing Tests
 
 ### Transcript

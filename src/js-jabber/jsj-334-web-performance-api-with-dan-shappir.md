@@ -14,7 +14,7 @@ tags:
 
 **Panel:**
 
-- [Aimee Knight](http://www.aimeemarieknight.com)
+- [Aimee Knight](https://www.aimeemarieknight.com)
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 - [Christopher Ferdinandi (Boston)](https://2013.boston.wordcamp.org/speakers/)
 
@@ -164,7 +164,7 @@ Frontend developer pro is that likely being woken up in the middle of the night 
 - [jQuery](https://jquery.com)
 - [React](https://reactjs.org)
 - [Elixir](https://elixir-lang.org)
-- [Elm](http://elm-lang.org)
+- [Elm](https://elm-lang.org)
 - [Vue](https://vuejs.org)
 - [Wix](https://www.wix.com)
 - [Window Performance](https://developer.mozilla.org/en-US/docs/Web/API/Window/performance)
@@ -188,7 +188,7 @@ Frontend developer pro is that likely being woken up in the middle of the night 
 
 **Sponsors:**
 
-- [Code Badges](http://codebadge.org)
+- [Code Badges](https://codebadge.org)
 - [Kendo UI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
 - [Sentry](https://sentry.io/welcome/)
 - [Digital Ocean](https://www.cachefly.com)
@@ -197,7 +197,7 @@ Frontend developer pro is that likely being woken up in the middle of the night 
 
 **Picks:**
 
-[Aimee:](http://www.aimeemarieknight.com)
+[Aimee:](https://www.aimeemarieknight.com)
 
 - Waking up early!
 - [How to Deal with Dirty Side Effects in Your Pure Functional JavaScript](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
@@ -211,7 +211,7 @@ Frontend developer pro is that likely being woken up in the middle of the night 
 
 - [Terraform - Game](https://play.google.com/store/apps/details?id=com.alexanderwinn.TerraGenesis&hl=en_US)
 - [“The One Thing"](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776/ref=as_li_ss_tl?ie=UTF8&qid=1535488914&sr=8-1&keywords=the+one+thing&dpID=31bLXJwHXlL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch&linkCode=sl1&tag=devchattv-20&linkId=48a970a5c61e9d72b797162776c7052f&language=en_US)
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - [DevChat on YouTube](https://www.youtube.com/c/devchattv)
 
 [Dan](https://twitter.com/DanShappir?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)

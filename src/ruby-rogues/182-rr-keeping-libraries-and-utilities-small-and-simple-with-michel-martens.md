@@ -18,12 +18,12 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/soveran)
 - <u><a href="https://github.com/soveran" data-cke-saved-href="https://github.com/soveran">GitHub</a></u>
-- [<u>Blog</u>](http://soveran.com/)
+- [<u>Blog</u>](https://soveran.com/)
 - Libraries
-  - [<u>Ohm: Object-hash mapping library for Redis</u>](http://ohm.keyvalue.org/)
+  - [<u>Ohm: Object-hash mapping library for Redis</u>](https://ohm.keyvalue.org/)
   - [<u>cuba</u>](https://github.com/soveran/cuba)
-    - [<u>Sinatra</u>](http://www.sinatrarb.com/)
-- [<u>ls</u>](http://en.wikipedia.org/wiki/Ls)
+    - [<u>Sinatra</u>](https://www.sinatrarb.com/)
+- [<u>ls</u>](https://en.wikipedia.org/wiki/Ls)
 
 05:15 - Getting Others to Contribute to Functionality
 
@@ -37,31 +37,31 @@ tags:
 
 10:23 - Complex vs Simple Tools & Libraries
 
-- [<u>Rails</u>](http://rubyonrails.org/)
-- [<u>Padrino</u>](http://www.padrinorb.com/)
-- [<u>Sinatra</u>](http://www.sinatrarb.com/)
+- [<u>Rails</u>](https://rubyonrails.org/)
+- [<u>Padrino</u>](https://www.padrinorb.com/)
+- [<u>Sinatra</u>](https://www.sinatrarb.com/)
 - Glory and Heroes
   - [<u>Aaron Patterson</u>](https://twitter.com/tenderlove)
   - [<u>Luis Lavena</u>](https://twitter.com/luislavena)
   - [<u>DHH</u>](https://twitter.com/dhh)
 - Keeping Individual Things Simple
 - “Cool Lifts” Complexity Introduced by Enthusiasm
-  - [<u>YAGNI (You Ain’t Gonna Need It)</u>](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it)
+  - [<u>YAGNI (You Ain’t Gonna Need It)</u>](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it)
 
 25:56 - Keeping Libraries from Getting Overwhelmed by “Cool Lifts”
 
 27:11 - Simple Data Types and Other Languages Philosophies
 
-- [<u>Clojure</u>](http://clojure.org/)
-- [<u>Scheme</u>](<http://en.wikipedia.org/wiki/Scheme_(programming_language)>)
-- [<u>Lua</u>](http://www.lua.org/)
+- [<u>Clojure</u>](https://clojure.org/)
+- [<u>Scheme</u>](<https://en.wikipedia.org/wiki/Scheme_(programming_language)>)
+- [<u>Lua</u>](https://www.lua.org/)
 
-28:52 - Ruby and [<u>Lisp</u>](<http://en.wikipedia.org/wiki/Lisp_(programming_language)>)
+28:52 - Ruby and [<u>Lisp</u>](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>)
 
-- [<u>Emacs Lisp</u>](http://en.wikipedia.org/wiki/Emacs_Lisp)
-- [<u>The Tcl Language (Tool Command Language)</u>](http://en.wikipedia.org/wiki/Tcl)
+- [<u>Emacs Lisp</u>](https://en.wikipedia.org/wiki/Emacs_Lisp)
+- [<u>The Tcl Language (Tool Command Language)</u>](https://en.wikipedia.org/wiki/Tcl)
 
-33:04 - [<u>Monkey Patching</u>](http://en.wikipedia.org/wiki/Monkey_patch)
+33:04 - [<u>Monkey Patching</u>](https://en.wikipedia.org/wiki/Monkey_patch)
 
 36:47 - Why Michel Works in Ruby
 
@@ -74,14 +74,14 @@ tags:
 - [<u>Rich Hickey</u>](https://twitter.com/richhickey)
 - OO vs FP People (Object-Oriented vs Functional Programming)
 
-45:27 - [<u>Monkey Patching</u>](http://en.wikipedia.org/wiki/Monkey_patch) (Cont’d)
+45:27 - [<u>Monkey Patching</u>](https://en.wikipedia.org/wiki/Monkey_patch) (Cont’d)
 
 - aka “Extensions”
-- <u><a href="http://www.ruby-doc.org/core-2.1.1/doc/syntax/refinements_rdoc.html" data-cke-saved-href="http://www.ruby-doc.org/core-2.1.1/doc/syntax/refinements_rdoc.html">Refinements</a></u>
+- <u><a href="https://www.ruby-doc.org/core-2.1.1/doc/syntax/refinements_rdoc.html" data-cke-saved-href="https://www.ruby-doc.org/core-2.1.1/doc/syntax/refinements_rdoc.html">Refinements</a></u>
 
 ### Book Club
 
-Tweet [<u>@rubyrogues</u>](https://twitter.com/rubyrogues) to suggest our next Book Club book or join the thread in the [<u>Ruby Rogues Parley</u>](http://parley.rubyrogues.com/)!
+Tweet [<u>@rubyrogues</u>](https://twitter.com/rubyrogues) to suggest our next Book Club book or join the thread in the [<u>Ruby Rogues Parley</u>](https://parley.rubyrogues.com/)!
 
 ### Transcript
 

@@ -19,7 +19,7 @@ tags:
 - How did Chain React Conf go?
 - [Infinite Red](https://infinite.red/) is 100% remote
 - Has been involved in conferences for a long time
-- [RubyMotion](http://www.rubymotion.com/)
+- [RubyMotion](https://www.rubymotion.com/)
 - [React Native](https://facebook.github.io/react-native/) exclusively now at Infinite Red
 - _[The React State Museum by Gant LaBorde](https://hackernoon.com/the-react-state-museum-a278c726315)_
 - [Redux](https://redux.js.org/)
@@ -39,19 +39,19 @@ tags:
 - [JavaScript](https://www.javascript.com/)
 - [Infinite Red](https://infinite.red/)
 - [Chain React Conf](https://infinite.red/ChainReactConf)
-- [RubyMotion](http://www.rubymotion.com/)
+- [RubyMotion](https://www.rubymotion.com/)
 - [React Native](https://facebook.github.io/react-native/)
 - _[The React State Museum by Gant LaBorde](https://hackernoon.com/the-react-state-museum-a278c726315)_
 - [Redux](https://redux.js.org/)
 - [MobX](https://mobx.js.org/getting-started.html)
 - [@GantLaborde](https://twitter.com/GantLaborde?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-- [com](http://gantlaborde.com/)
+- [com](https://gantlaborde.com/)
 - [Gant’s GitHub](https://github.com/GantMan)
 - [Gant’s Medium](https://medium.com/@gantlaborde) **&nbsp;**
   **Sponsors:**
 - [Linode](https://promo.linode.com/reactnativeradio/)
   **Picks:** Nader
-- [Connect Tech](http://connect.tech/)
+- [Connect Tech](https://connect.tech/)
 - [GraphQL Finland](https://graphql-finland.fi/)
 - [React Native Bootcamp](https://tylermcginnis.com/free-react-native-bootcamp/)
 - [New stuff added to AppSync](https://aws.amazon.com/appsync/)
@@ -60,8 +60,8 @@ tags:
 - AR in apps
   Gant
 - _[The React State Museum by Gant LaBorde](https://hackernoon.com/the-react-state-museum-a278c726315)_
-- [Connect Tech](http://connect.tech/)
+- [Connect Tech](https://connect.tech/)
 - [React Native EU](https://react-native.eu/)
-- [React Alicante](http://reactalicante.es/)
+- [React Alicante](https://reactalicante.es/)
 
 ### Transcript

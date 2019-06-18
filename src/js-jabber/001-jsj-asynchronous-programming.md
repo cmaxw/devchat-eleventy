@@ -14,57 +14,57 @@ tags:
 
 ### Panel
 
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Peter Cooper ([twitter](http://twitter.com/peterc) [github](https://github.com/peterc) [blog](http://peterc.org/))
-- Yehuda Katz ([twitter](http://twitter.com/wycats) [github](https://github.com/wycats) [blog](http://yehudakatz.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Peter Cooper ([twitter](https://twitter.com/peterc) [github](https://github.com/peterc) [blog](https://peterc.org/))
+- Yehuda Katz ([twitter](https://twitter.com/wycats) [github](https://github.com/wycats) [blog](https://yehudakatz.com/))
 
 ### Discussion
 
-- [The Javascript Show](http://javascriptshow.com/)
-- [JavaScript Weekly](http://javascriptweekly.com/)
-- [FluentConf&nbsp;](http://fluentconf.com/fluent2012)
-- [SpotterRF](http://spotterrf.com/)
+- [The Javascript Show](https://javascriptshow.com/)
+- [JavaScript Weekly](https://javascriptweekly.com/)
+- [FluentConf&nbsp;](https://fluentconf.com/fluent2012)
+- [SpotterRF](https://spotterrf.com/)
 - Synchronous functions vs Asynchronous functions
-- [setTimeout](http://www.w3schools.com/js/js_timing.asp)
+- [setTimeout](https://www.w3schools.com/js/js_timing.asp)
 - XML/HTTP request (AJAX)
 - User Event
-- [jQuery](http://jquery.com/)
+- [jQuery](https://jquery.com/)
 - Game loops
 - Callbacks
 - [setInterval](https://developer.mozilla.org/en/DOM/window.setInterval)
 - [FuturesJS](https://github.com/coolaj86/futures)
 - named functions vs anonymous functions
 - scope problems
-- [web workers](http://www.html5rocks.com/en/tutorials/workers/basics/)
-- [Node EventEmitter](http://nodejs.org/docs/latest/api/events.html)
+- [web workers](https://www.html5rocks.com/en/tutorials/workers/basics/)
+- [Node EventEmitter](https://nodejs.org/docs/latest/api/events.html)
 - [Node.js](https://github.com/coolaj86/node/blob/nodejs-libs-for-browser/lib/events/events.js)
 - Node sync
 - I/O async
-- [Your coffee shop doesn't use two phase commits](http://www.eaipatterns.com/docs/IEEE_Software_Design_2PC.pdf)
+- [Your coffee shop doesn't use two phase commits](https://www.eaipatterns.com/docs/IEEE_Software_Design_2PC.pdf)
 - Threaded systems
 - Idle time in browser
-- [onUnload hook](http://www.w3schools.com/jsref/event_onunload.asp)
+- [onUnload hook](https://www.w3schools.com/jsref/event_onunload.asp)
 - [Chrome](https://www.google.com/chrome)
 - Ad vendors
-- [Tilde](http://www.tilde.io/)
-- [Utah JS Call for Papers](http://utahjs.com/papers/)
+- [Tilde](https://www.tilde.io/)
+- [Utah JS Call for Papers](https://utahjs.com/papers/)
 
 ### Picks
 
-- [JavaScript: The Good Parts](http://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596517742) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0596517742)(Chuck)
-- [The Adventures of Merlin](http://www.amazon.com/gp/product/B001LF347E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001LF347E) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=B001LF347E) (Chuck)
-- [The Lean Startup](http://www.amazon.com/gp/product/0307887898/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0307887898) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0307887898) (Yehuda)
-- [Sherlock](http://www.amazon.com/gp/product/B004132HZS/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004132HZS) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=B004132HZS) (Peter)
-- [How JavaScript's Timers Work](http://ejohn.org/blog/how-javascript-timers-work/)(Peter)
-- [Fluent Conference](http://fluentconf.com/fluent2012) (Peter)
+- [JavaScript: The Good Parts](https://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596517742) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0596517742)(Chuck)
+- [The Adventures of Merlin](https://www.amazon.com/gp/product/B001LF347E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001LF347E) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=B001LF347E) (Chuck)
+- [The Lean Startup](https://www.amazon.com/gp/product/0307887898/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0307887898) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0307887898) (Yehuda)
+- [Sherlock](https://www.amazon.com/gp/product/B004132HZS/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004132HZS) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=B004132HZS) (Peter)
+- [How JavaScript's Timers Work](https://ejohn.org/blog/how-javascript-timers-work/)(Peter)
+- [Fluent Conference](https://fluentconf.com/fluent2012) (Peter)
 - [Reg Braithwaite](https://github.com/raganwald/homoiconic/blob/master/2012/01/captain-obvious-on-javascript.md) (Peter)
-- [Crockford Videos](http://yuiblog.com/crockford) (AJ)
-- [YUI Blog](http://yuiblog.com/) (AJ)
+- [Crockford Videos](https://yuiblog.com/crockford) (AJ)
+- [YUI Blog](https://yuiblog.com/) (AJ)
 - [Node Google Voice](https://github.com/amper5and/node-google-voice) (AJ)
-- [750words.com](http://750words.com/) (Jamison)
-- [Working Effectively with Legacy Code](http://www.amazon.com/gp/product/0131177052/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0131177052) ![](http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0131177052) (Jamison)
+- [750words.com](https://750words.com/) (Jamison)
+- [Working Effectively with Legacy Code](https://www.amazon.com/gp/product/0131177052/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0131177052) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=as2&o=1&a=0131177052) (Jamison)
 
 ### Transcript
 

@@ -24,7 +24,7 @@ Today’s episode is a My JavaScript Story with John-David Dalton. JD talked abo
 - [Sonarwhal](https://github.com/sonarwhal/sonar)
 - [Twitter / Github: @jdalton](https://twitter.com/jdalton)
   **Charles Max Wood**
-- [Aaron Walker](http://www.viewfromthetop.com/about-aaron)
-- [Interview Valet](http://interviewvalet.com/)
+- [Aaron Walker](https://www.viewfromthetop.com/about-aaron)
+- [Interview Valet](https://interviewvalet.com/)
 
 ### Transcript

@@ -42,7 +42,7 @@ tags:
   **Picks:** Charles
 - [GameVice](https://gamevice.com/)
 - [PipeDrive](https://www.pipedrive.com/en/gettingstarted?utm_source=google&utm_medium=cpc&utm_campaign=US_Brd_Pure_Brand_Exact&utm_term=pipe%2520drive&ad_matchtype=e&device=c&gclid=Cj0KCQiA2snUBRDfARIsAIGfpqGdrsE9szQ943oAUiy39XMEMP4BbVfNglW_RpI0XYqQWjn6KUE1-4MaA)
-- View and [React](http://reactroundup.com/) Podcasts Coming Soon
+- View and [React](https://reactroundup.com/) Podcasts Coming Soon
 - [React Summit](https://reactdevsummit.com/)
   Joe
 - [Ready Player One by Ernest Cline](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448)

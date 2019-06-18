@@ -22,18 +22,18 @@ This episode is a My Angular Story with Gil Fink. Listen to learn more about Gil
 
 - [Goodness Squad](https://www.meetup.com/JavaScript-Israel/events/236498872/)
 - Angular2-indexeddb Library
-- [Spider-Man Homecoming&nbsp;](http://www.spidermanhomecoming.com/)
+- [Spider-Man Homecoming&nbsp;](https://www.spidermanhomecoming.com/)
   **Charles** :
 - The Millionaire Mind
 - [The Freelancer Show&nbsp;](https://devchat.tv/freelancers)
-- [Toastmasters club&nbsp;](http://www.toastmasters.org/)
+- [Toastmasters club&nbsp;](https://www.toastmasters.org/)
 - Angular Dev Summit
 
 ### **Links**
 
 - [Twitter](https://twitter.com/gilfink)
-- [http://gilfink.azurewebsites.net/](http://gilfink.azurewebsites.net/)
+- [https://gilfink.azurewebsites.net/](https://gilfink.azurewebsites.net/)
 - [Medium&nbsp;](https://medium.com/@gilfink/)
-- [Sparxys](http://www.sparxys.com/)
+- [Sparxys](https://www.sparxys.com/)
 
 ### Transcript

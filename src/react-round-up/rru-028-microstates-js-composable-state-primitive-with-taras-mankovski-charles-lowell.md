@@ -124,7 +124,7 @@ Lucas
 
 [Charles (guest)](https://twitter.com/cowboyd?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
-- [Fantasy Land JS - Tom Harding](http://www.tomharding.me/fantasy-land/)
+- [Fantasy Land JS - Tom Harding](https://www.tomharding.me/fantasy-land/)
 - [Funcadelic.JS](https://github.com/cowboyd/funcadelic.js/)
 
 [Taras (guest)](https://twitter.com/tarasm?lang=en)

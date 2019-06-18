@@ -14,8 +14,8 @@ tags:
 
 Related iPhreaks Freelancing Episodes:
 
-- [Episode #071: Freelancing](http://devchat.tv/iphreaks/071-iphreaks-show-freelancing) &nbsp;
-- [Episode #087: Freelancing Part 2](http://devchat.tv/iphreaks/087-iphreaks-show-freelancing-part-2)
+- [Episode #071: Freelancing](https://devchat.tv/iphreaks/071-iphreaks-show-freelancing) &nbsp;
+- [Episode #087: Freelancing Part 2](https://devchat.tv/iphreaks/087-iphreaks-show-freelancing-part-2)
 
 02:52 - What is Work/Life Balance? Is There a Perfect Balance?
 
@@ -25,13 +25,13 @@ Related iPhreaks Freelancing Episodes:
 
 10:10 - Structuring Your Work Week (Prioritization)
 
-- John Sonmez of [Simple Programmer&nbsp; &nbsp;&nbsp;](http://simpleprogrammer.com/)
+- John Sonmez of [Simple Programmer&nbsp; &nbsp;&nbsp;](https://simpleprogrammer.com/)
   - [[YouTube] John Sonmez: How I Plan My Week](https://www.youtube.com/watch?v=W9k0OhJkjQ0)
-  - [Episode #091: Soft Skills and Marketing Yourself as a Software Developer with John Sonmez](http://devchat.tv/iphreaks/091-ips-soft-skills-and-marketing-yourself-as-a-software-developer-with-john-sonmez)
+  - [Episode #091: Soft Skills and Marketing Yourself as a Software Developer with John Sonmez](https://devchat.tv/iphreaks/091-ips-soft-skills-and-marketing-yourself-as-a-software-developer-with-john-sonmez)
 - [KanbanFlow](https://kanbanflow.com/)
-- [Agile Software Development](http://en.wikipedia.org/wiki/Agile_software_development)
-- Quadrant II =\> [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey](http://www.amazon.com/gp/product/1451639619/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451639619&linkCode=as2&tag=chamaxwoo-20&linkId=MXIF4LWGAMJYQ3OE)
-- [The Pomodoro Technique](http://pomodorotechnique.com/)
+- [Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
+- Quadrant II =\> [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey](https://www.amazon.com/gp/product/1451639619/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451639619&linkCode=as2&tag=chamaxwoo-20&linkId=MXIF4LWGAMJYQ3OE)
+- [The Pomodoro Technique](https://pomodorotechnique.com/)
 
 16:30 - Shortening Hours to Maintain Sanity and Maximize Productivity
 
@@ -40,12 +40,12 @@ Related iPhreaks Freelancing Episodes:
 
 22:06 - Just Say NO
 
-- [The Freelancers' Show Episode #072: Saying NO](http://devchat.tv/freelancers/the-freelancers-show-072-saying-no)
-- [The Freelancers' Show Episode #069: Setting Boundaries](http://devchat.tv/freelancers/the-freelancers-show-069-setting-boundaries) &nbsp;
+- [The Freelancers' Show Episode #072: Saying NO](https://devchat.tv/freelancers/the-freelancers-show-072-saying-no)
+- [The Freelancers' Show Episode #069: Setting Boundaries](https://devchat.tv/freelancers/the-freelancers-show-069-setting-boundaries) &nbsp;
 - Do NOT Tolerate Toxic Clients; Find Clients That Are a Good Fit (Mutual Benefit)
   Picks
 
-[Primus and the Chocolate Factory](http://primusville.com/) (Jaim)[VARIDESK](http://www.varidesk.com/stand-up-desks?gclid=CJu60Zj56sQCFdgIgQodvSUAlA) (Jaim)[Audible](http://www.audible.com/) (Chuck)[The Magic of Thinking Big by David J. Schwartz](http://www.audible.com/pd/Business/The-Magic-of-Thinking-Big-Audiobook/B002V1BMPI) (Chuck)[Firefight (The Reckoners) by Brandon Sanderson](http://www.amazon.com/gp/product/0385743580/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743580&linkCode=as2&tag=chamaxwoo-20&linkId=VWR6D7JBCHJDKOYA) (Chuck) Going for a run (Chuck)
+[Primus and the Chocolate Factory](https://primusville.com/) (Jaim)[VARIDESK](https://www.varidesk.com/stand-up-desks?gclid=CJu60Zj56sQCFdgIgQodvSUAlA) (Jaim)[Audible](https://www.audible.com/) (Chuck)[The Magic of Thinking Big by David J. Schwartz](https://www.audible.com/pd/Business/The-Magic-of-Thinking-Big-Audiobook/B002V1BMPI) (Chuck)[Firefight (The Reckoners) by Brandon Sanderson](https://www.amazon.com/gp/product/0385743580/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743580&linkCode=as2&tag=chamaxwoo-20&linkId=VWR6D7JBCHJDKOYA) (Chuck) Going for a run (Chuck)
 
 ### Transcript
 

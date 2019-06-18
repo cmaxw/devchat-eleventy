@@ -14,34 +14,34 @@ tags:
 
 00:49 -&nbsp;Gary Bernhardt&nbsp;Introduction
 
-- [Twitter](http://garybernhardt/)
+- [Twitter](https://garybernhardt/)
 - [GitHub](https://github.com/garybernhardt)
 - [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
-  02:14 - IDEs:&nbsp; [Emacs](http://www.gnu.org/software/emacs/), [Vim](<https://en.wikipedia.org/wiki/Vim_(text_editor)>)03:30 - Who uses what for programming? 06:36 - IDE vs Text Editor
+  02:14 - IDEs:&nbsp; [Emacs](https://www.gnu.org/software/emacs/), [Vim](<https://en.wikipedia.org/wiki/Vim_(text_editor)>)03:30 - Who uses what for programming? 06:36 - IDE vs Text Editor
 - [IDE (Integrated Development Environment)](https://en.wikipedia.org/wiki/Integrated_development_environment)
   - Edit, compile, run tests, debugging
-  - Example: - [SmallTalk](http://www.smalltalk.org/main/) - [Lisp](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>)
+  - Example: - [SmallTalk](https://www.smalltalk.org/main/) - [Lisp](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>)
     09:05 - Differences Between IDEs and Editors
 - Supporting Multiple Languages
-- [Jetbrains](http://www.jetbrains.com/)
-- [Eclipse](http://www.eclipse.org/eclipse/development/)
-  10:41 -&nbsp;[Pragmatic Programmer](http://www.amazon.com/gp/product/020161622X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=020161622X)
+- [Jetbrains](https://www.jetbrains.com/)
+- [Eclipse](https://www.eclipse.org/eclipse/development/)
+  10:41 -&nbsp;[Pragmatic Programmer](https://www.amazon.com/gp/product/020161622X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=020161622X)
 - "Evil Wizards"
-  12:34 -&nbsp;[Developer Studio](http://www.jboss.com/products/devstudio/)18:03 -&nbsp;[Destroy All Software](https://www.destroyallsoftware.com/screencasts)19:02 - [Emacs](http://www.gnu.org/software/emacs/)
-- [save-excursion](http://www.gnu.org/software/emacs/manual/html_node/eintr/save_002dexcursion.html)
+  12:34 -&nbsp;[Developer Studio](https://www.jboss.com/products/devstudio/)18:03 -&nbsp;[Destroy All Software](https://www.destroyallsoftware.com/screencasts)19:02 - [Emacs](https://www.gnu.org/software/emacs/)
+- [save-excursion](https://www.gnu.org/software/emacs/manual/html_node/eintr/save_002dexcursion.html)
   21:23 - [Vim](<https://en.wikipedia.org/wiki/Vim_(text_editor)>)23:06 -&nbsp;[TextMate](https://macromates.com/)
-- Growing in [Sublime Text 2](http://www.sublimetext.com/2)
+- Growing in [Sublime Text 2](https://www.sublimetext.com/2)
 - Advantages
   - Can script in Ruby
     24:00 - Modern Editors 25:32 -&nbsp;[The Textmate Book by James&nbsp;Edward Gray II](https://pragprog.com/book/textmate/textmate)27:00 - Textmate Using Default Mac Key Bindings 30:21 - Getting Started with Text Editors
-- [aquamacs](http://aquamacs.org/)
-- [macvim](http://code.google.com/p/macvim/)
+- [aquamacs](https://aquamacs.org/)
+- [macvim](https://code.google.com/p/macvim/)
   32:10 -&nbsp;[Emacs 24](https://www.gnu.org/software/emacs/manual/html_node/efaq/New-in-Emacs-24.html)33:50 - Remote Editing System
 - Tramp Mode
-  36:30 -&nbsp;[Vim Golf](http://vimgolf.com/)37:25 - Emacs Naming
+  36:30 -&nbsp;[Vim Golf](https://vimgolf.com/)37:25 - Emacs Naming
 - Tramp
 - Hippie-Expand
-  40:00 - Emacs Documentation 41:30 - #emacs on [freenode.net](http://freenode.net/)44:18 - Arguments Between Emacs & Vim 45:09 - [CPU-bound](https://en.wikipedia.org/wiki/CPU-bound)
+  40:00 - Emacs Documentation 41:30 - #emacs on [freenode.net](https://freenode.net/)44:18 - Arguments Between Emacs & Vim 45:09 - [CPU-bound](https://en.wikipedia.org/wiki/CPU-bound)
 
 ### Transcript
 

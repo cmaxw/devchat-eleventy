@@ -16,7 +16,7 @@ tags:
 
 - [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/rogues) offers a $1000 signing bonus
-- [Cachefly](http://www.cachefly.com/)
+- [Cachefly](https://www.cachefly.com/)
 
 ## Panel
 
@@ -30,14 +30,14 @@ Lori Olson introduces herself, her school and ruby motion. Lori invites all to c
 ## Links
 
 - [https://wndxschool.easywebinar.live/registration](https://wndxschool.easywebinar.live/registration)
-- [http://www.rubymotion.com/news/2019/03/01/the-sleeping-dragon-has-awoken.html](http://www.rubymotion.com/news/2019/03/01/the-sleeping-dragon-has-awoken.html)
+- [https://www.rubymotion.com/news/2019/03/01/the-sleeping-dragon-has-awoken.html](https://www.rubymotion.com/news/2019/03/01/the-sleeping-dragon-has-awoken.html)
 - [https://github.com/infinitered/redpotion](https://github.com/infinitered/redpotion)
-- [http://rubymotionquery.com](http://rubymotionquery.com)
+- [https://rubymotionquery.com](https://rubymotionquery.com)
 - [https://wndx.school/p/rubymotion-jumpstart](https://wndx.school/p/rubymotion-jumpstart)
 - [https://github.com/rubymotion/BubbleWrap](https://github.com/rubymotion/BubbleWrap)
 - [https://rubymotionweekly.com](https://rubymotionweekly.com)
 - [https://www.reddit.com/r/ruby/comments/aovm41/a\_renaissance\_for\_ruby\_rubymotion\_will\_be/](https://www.reddit.com/r/ruby/comments/aovm41/a_renaissance_for_ruby_rubymotion_will_be/)
-- [http://macruby.org/](http://macruby.org/)
+- [https://macruby.org/](https://macruby.org/)
 - [https://github.com/amirrajan/rubymotion-templates](https://github.com/amirrajan/rubymotion-templates)
 - [https://github.com/infinitered/bluepotion](https://github.com/infinitered/bluepotion)
 - [https://itunes.apple.com/ca/app/wimby/id1147353955?mt=8](https://itunes.apple.com/ca/app/wimby/id1147353955?mt=8)
@@ -63,7 +63,7 @@ Andrew Mason
 - [https://twitter.com/josh\_cheek](https://twitter.com/josh_cheek)
 Charles Max Wood
 - [www.vrbo.com](https://www.vrbo.com/)
-- [www.audible.com](http://www.audible.com)
+- [www.audible.com](https://www.audible.com)
 Lori Olson
 - [https://alteregoeffect.com](https://alteregoeffect.com)
 - [https://www.jetbrains.com/ruby/](https://www.jetbrains.com/ruby/)

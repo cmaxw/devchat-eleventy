@@ -18,7 +18,7 @@ On today’s episode, Charles Max Wood, Alyssa Nicoll, Joe Eames, and Ward Bell 
 
 ## **Why did Joe choose MEAN?**
 
-[MEAN](http://mean.io/) stands for Mongo Express Angular and Node. Joe wanted&nbsp;to use familiar tools for his production project. He didn't want to use anything heavy on his server. In the process, he considered other options including Firebase. He chose Mongo since he only needed to make simple Rest calls. Any Rest API will be fine to access it. Joe wanted to build a small application. Any SQL would have worked, but he needed something that could enable a quick push.
+[MEAN](https://mean.io/) stands for Mongo Express Angular and Node. Joe wanted&nbsp;to use familiar tools for his production project. He didn't want to use anything heavy on his server. In the process, he considered other options including Firebase. He chose Mongo since he only needed to make simple Rest calls. Any Rest API will be fine to access it. Joe wanted to build a small application. Any SQL would have worked, but he needed something that could enable a quick push.
 
 ## **An Easy Model for a Small App**
 

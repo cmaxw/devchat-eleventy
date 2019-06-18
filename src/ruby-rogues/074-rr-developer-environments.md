@@ -32,24 +32,24 @@ tags:
   22:02 - Knowing what works for you and adapting your environment 23:18 - Office environments versus home environments 25:35 - Desks: cluttered/uncluttered 29:08 - Ergonomics
 -
 
-[Split keyboards](http://www.kinesis-ergo.com/keyboards.htm)
+[Split keyboards](https://www.kinesis-ergo.com/keyboards.htm)
 
 -
 
 Posture and positions
 35:46 - Software and programs that contribute to productivity
 
-- [Balsamiq](http://www.balsamiq.com/products/mockups)
-- [Skitch](http://skitch.com/)
-- [Pivotal Tracker](http://www.pivotaltracker.com/)
+- [Balsamiq](https://www.balsamiq.com/products/mockups)
+- [Skitch](https://skitch.com/)
+- [Pivotal Tracker](https://www.pivotaltracker.com/)
 - [Guard](https://github.com/guard/guard)
-- [tmux](http://tmux.sourceforge.net/)
-- [Continuous Integration](http://jenkins-ci.org/)
-- [CCMenu](http://ccmenu.sourceforge.net/)
+- [tmux](https://tmux.sourceforge.net/)
+- [Continuous Integration](https://jenkins-ci.org/)
+- [CCMenu](https://ccmenu.sourceforge.net/)
   41:08 - Light
 -
 
-[f.lux](http://stereopsis.com/flux/)
+[f.lux](https://stereopsis.com/flux/)
 
 -
 
@@ -90,14 +90,14 @@ Molokai for Emacs
 
 -
 
-[OSX Dark Terminal Theme for Mac Snow Leopard](http://www.nightlion.net/themes/2010/osx-terminal-theme/)
-52:35 - Programming in Windows 55:37 - Mac vs Linux [Why Linux:](http://devblog.avdi.org/2011/08/09/why-linux/) Avdi Grimm [MacPorts](http://www.macports.org/) [Homebrew](http://mxcl.github.com/homebrew/) 01:07:28 - Pomodoro Technique
+[OSX Dark Terminal Theme for Mac Snow Leopard](https://www.nightlion.net/themes/2010/osx-terminal-theme/)
+52:35 - Programming in Windows 55:37 - Mac vs Linux [Why Linux:](https://devblog.avdi.org/2011/08/09/why-linux/) Avdi Grimm [MacPorts](https://www.macports.org/) [Homebrew](https://mxcl.github.com/homebrew/) 01:07:28 - Pomodoro Technique
 
-- [Pomodoro Technique Illustrated](http://www.amazon.com/gp/product/1934356506/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1934356506&linkCode=as2&tag=chamaxwoo-20)
+- [Pomodoro Technique Illustrated](https://www.amazon.com/gp/product/1934356506/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1934356506&linkCode=as2&tag=chamaxwoo-20)
 
 ### Book Club
 
-- [Service-Oriented Design with Ruby and Rails:](http://www.amazon.com/gp/product/0321659368/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321659368&linkCode=as2&tag=chamaxwoo-20) Paul Dix
+- [Service-Oriented Design with Ruby and Rails:](https://www.amazon.com/gp/product/0321659368/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321659368&linkCode=as2&tag=chamaxwoo-20) Paul Dix
 
 ### Transcript
 

@@ -12,30 +12,30 @@ tags:
   - podcast
 ---
 
-01:28 -&nbsp;Dan Kubb&nbsp;Introduction, [DataMapper](http://datamapper.org/)
+01:28 -&nbsp;Dan Kubb&nbsp;Introduction, [DataMapper](https://datamapper.org/)
 
 - [Twitter](https://twitter.com/dkubb)
 - [GitHub](https://github.com/dkubb)
-- [DataMapper](http://datamapper.org/)
+- [DataMapper](https://datamapper.org/)
   - [@datamapper](https://twitter.com/datamapper)
 - [2009 Ruby Hero Award](https://vimeo.com/11052262)
 - DataMapper 2
-  - Variant of [ActiveRecord](http://api.rubyonrails.org/classes/ActiveRecord/Base.html)
+  - Variant of [ActiveRecord](https://api.rubyonrails.org/classes/ActiveRecord/Base.html)
   - Stay away from Magic
   - Includes 40 Backend Adapters
-    07:55 - [CodeBenders](http://www.codebenders.com/)08:31 - Coding Disciplines
+    07:55 - [CodeBenders](https://www.codebenders.com/)08:31 - Coding Disciplines
 - Coding is an Experiment
 - Try Something New; See How it Affects Your Code
   - If You Like It, Keep It
     11:06 - Mutation Testing
-- [Heckle](http://rubygems.org/gems/heckle)
+- [Heckle](https://rubygems.org/gems/heckle)
   13:26 - Essential Practices
 - Code Review
   15:48 - Pure Command Query Separation
 - Query vs Command
   18:47 - Enforcing Command Query / Notation / Documentation
 - Shared Spec
-- [YARDoc](http://yardoc.org/)
+- [YARDoc](https://yardoc.org/)
 - [YardStick](https://github.com/dkubb/yardstick)
   22:00 - “All Code is Experimental” / “Almost Every Decision You Make is Probably Going to be Wrong”
 - There's No Such Thing as a Good Design
@@ -44,10 +44,10 @@ tags:
 - Example, 100% Code Coverage
 - Introduce More Constraints
   29:21 - Process / Code Reviews at CodeBenders 31:20 - Code Standards / Style Guides
-- [Dan's Style Guide](http://pastebin.com/Xixb7YNW)
+- [Dan's Style Guide](https://pastebin.com/Xixb7YNW)
   33:37 - Different Levels of Abstraction for Style Guides
-- [inject](http://www.ruby-doc.org/core-1.9.3/Enumerable.html#method-i-inject)
-- [each_with_object](http://api.rubyonrails.org/classes/Enumerable.html#method-i-each_with_object)
+- [inject](https://www.ruby-doc.org/core-1.9.3/Enumerable.html#method-i-inject)
+- [each_with_object](https://api.rubyonrails.org/classes/Enumerable.html#method-i-each_with_object)
   37:04 - A Recent [Campfire](https://campfirenow.com/) Chat
 - No Story is Uninteresting
   42:17 - False Disciplines

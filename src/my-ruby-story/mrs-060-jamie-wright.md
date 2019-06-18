@@ -72,7 +72,7 @@ Jamie continues to talk about the other reasons why he fell in love with [Ruby](
 
 16:06 – Chuck: Do you have some picks for us?
 
-16:09 – [Advertisement: Chuck’s Get A Coder Job!](http://getacoderjob.com/)
+16:09 – [Advertisement: Chuck’s Get A Coder Job!](https://getacoderjob.com/)
 
 **Links:**
 
@@ -87,8 +87,8 @@ Jamie continues to talk about the other reasons why he fell in love with [Ruby](
 
 **Sponsors:**
 
-- [Code Badges](http://codebadge.org/)
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Code Badges](https://codebadge.org/)
+- [Get a Coder Job](https://getacoderjob.com/)
 
 **Picks:**
 

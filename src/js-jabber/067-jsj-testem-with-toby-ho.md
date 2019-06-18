@@ -14,38 +14,38 @@ tags:
 
 ### Panel
 
-- Toby Ho ([twitter](https://twitter.com/airportyh) [github](https://github.com/airportyh) [blog](http://tobyho.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Toby Ho ([twitter](https://twitter.com/airportyh) [github](https://github.com/airportyh) [blog](https://tobyho.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 00:53 - Aaron Frost Introduction
 
-- [Domo](http://www.domo.com/)
-- [1.21 Gigawatts - Chromeapps with Angularjs and Node (Aaron Frost and Dave Geddes)](http://www.youtube.com/watch?v=h3t_ytxQnjE)
+- [Domo](https://www.domo.com/)
+- [1.21 Gigawatts - Chromeapps with Angularjs and Node (Aaron Frost and Dave Geddes)](https://www.youtube.com/watch?v=h3t_ytxQnjE)
   02:45 - Toby Ho Introduction
 - [testem](https://github.com/airportyh/testem)
-- [Toby Ho - Testem: Interactive JS Test Runner](http://tobyho.com/2012/06/24/testem-interactive-js-test-runner/)
-- [Toby Ho: Better TDD Workflow via Exclusive Tests in Jasmine and Mocha](http://tobyho.com/2012/09/12/better-tdd-workflow-via-exclusive-tests-in-jasmine-and-mocha/)
+- [Toby Ho - Testem: Interactive JS Test Runner](https://tobyho.com/2012/06/24/testem-interactive-js-test-runner/)
+- [Toby Ho: Better TDD Workflow via Exclusive Tests in Jasmine and Mocha](https://tobyho.com/2012/09/12/better-tdd-workflow-via-exclusive-tests-in-jasmine-and-mocha/)
   03:06 - [testem](https://github.com/airportyh/testem)
-- [Autotest](http://autotest.github.io/)
-- [guard](http://github.com/guard/guard)
-- [Jasmine](http://pivotal.github.io/jasmine/)
-- [Mocha](http://visionmedia.github.io/mocha/)
-- [QUnit](http://qunitjs.com/)
-- [Buster.JS](http://docs.busterjs.org/en/latest/#)
-- [PhantomJS](http://phantomjs.org/)
-- [node.js](http://nodejs.org/)
+- [Autotest](https://autotest.github.io/)
+- [guard](https://github.com/guard/guard)
+- [Jasmine](https://pivotal.github.io/jasmine/)
+- [Mocha](https://visionmedia.github.io/mocha/)
+- [QUnit](https://qunitjs.com/)
+- [Buster.JS](https://docs.busterjs.org/en/latest/#)
+- [PhantomJS](https://phantomjs.org/)
+- [node.js](https://nodejs.org/)
   04:43 - Integration Tests
-- [038 JSJ Jasmine with Justin Searls](http://javascriptjabber.com/038-jsj-jasmine-with-justin-searls/)
+- [038 JSJ Jasmine with Justin Searls](https://javascriptjabber.com/038-jsj-jasmine-with-justin-searls/)
 - [capybara](https://github.com/jnicklas/capybara)
-  06:32 - [guard](http://github.com/guard/guard)07:49 - The testem UI
+  06:32 - [guard](https://github.com/guard/guard)07:49 - The testem UI
 - [node-charm](https://github.com/substack/node-charm)
   09:55 - The Browser Launcher 11:40 - CI Mode
-- [Jenkins](http://jenkins-ci.org/)
-- [TeamCity](http://www.jetbrains.com/teamcity/)
+- [Jenkins](https://jenkins-ci.org/)
+- [TeamCity](https://www.jetbrains.com/teamcity/)
   12:27 - Is it a Global Installer?
 - [npm](https://npmjs.org/)
   13:39 - Workflow
@@ -53,18 +53,18 @@ tags:
 - testem.json/testem.yml
 - Devmode
 - Exclusive Tests in Mocha
-- [Karm](http://karma-runner.github.io/0.8/index.html)[a](http://pivotal.github.io/jasmine/)
+- [Karm](https://karma-runner.github.io/0.8/index.html)[a](https://pivotal.github.io/jasmine/)
 - .only
 - Console Logging
   21:27 - Debugging
-- [Git Hooks](http://githooks.com/)
+- [Git Hooks](https://githooks.com/)
 - Minification
-  25:25 - [testem](https://github.com/airportyh/testem) vs [Karm](http://karma-runner.github.io/0.8/index.html)[a](http://pivotal.github.io/jasmine/)
-- [AngularJS](http://angularjs.org/)
+  25:25 - [testem](https://github.com/airportyh/testem) vs [Karm](https://karma-runner.github.io/0.8/index.html)[a](https://pivotal.github.io/jasmine/)
+- [AngularJS](https://angularjs.org/)
   28:08 - Testing JavaScript
-- [Jasmine](http://pivotal.github.io/jasmine/)
-- [Mocha](http://visionmedia.github.io/mocha/)
-- [QUnit](http://qunitjs.com/)
+- [Jasmine](https://pivotal.github.io/jasmine/)
+- [Mocha](https://visionmedia.github.io/mocha/)
+- [QUnit](https://qunitjs.com/)
   29:50 - Browsers
 - [Chrome](https://www.google.com/intl/en/chrome/browser/)
   30:54 - Configurations 32:11 - Contributors
@@ -73,20 +73,20 @@ tags:
 - [Justin Searls](https://github.com/searls)
 - [David Mosher](https://github.com/davemo)
 - [lineman](https://github.com/testdouble/lineman)
-  33:33 - [Grunt.js](http://gruntjs.com/)
+  33:33 - [Grunt.js](https://gruntjs.com/)
 - [grunt-testem](https://github.com/sideroad/grunt-testem)
   35:09 - Testing & TDD
-- [Brya](http://pivotal.github.io/jasmine/)[n Liles: TATFT - Test All the F\*\*\*in Time](http://www.youtube.com/watch?v=LfmAzLAKKoc)
+- [Brya](https://pivotal.github.io/jasmine/)[n Liles: TATFT - Test All the F\*\*\*in Time](https://www.youtube.com/watch?v=LfmAzLAKKoc)
 
 ### Picks
 
-- [The Rithmatist by Brandon Sanderson](http://www.amazon.com/gp/product/0765320320/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765320320&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [Call of Duty: Black Ops 2](http://www.callofduty.com/blackops2) (Aaron)
-- [Amazon Prime](http://www.amazon.com/gp/product/B00DBYBNEE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DBYBNEE&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Big Bang Theory](http://www.imdb.com/title/tt0898266/) (Chuck)
-- [HandBrake](http://handbrake.fr/) (Chuck)
-- [Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz](http://www.youtube.com/watch?v=URSWYvyc42M) (Toby)
-- [Giles Bowkett - Secrets Of Superstar Programmer Productivity: Flow](http://gilesbowkett.blogspot.com/2010/07/secrets-of-superstar-programmer.html) (Toby)
+- [The Rithmatist by Brandon Sanderson](https://www.amazon.com/gp/product/0765320320/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765320320&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [Call of Duty: Black Ops 2](https://www.callofduty.com/blackops2) (Aaron)
+- [Amazon Prime](https://www.amazon.com/gp/product/B00DBYBNEE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DBYBNEE&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Big Bang Theory](https://www.imdb.com/title/tt0898266/) (Chuck)
+- [HandBrake](https://handbrake.fr/) (Chuck)
+- [Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M) (Toby)
+- [Giles Bowkett - Secrets Of Superstar Programmer Productivity: Flow](https://gilesbowkett.blogspot.com/2010/07/secrets-of-superstar-programmer.html) (Toby)
 
 ### Book Club
 

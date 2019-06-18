@@ -38,6 +38,6 @@ Learn more about Mikeal Rogers by connecting with him&nbsp;and see what he’s c
 
 ## Picks:
 
-Mikeal: [Web Torrent&nbsp;](https://webtorrent.io/), [Tool of&nbsp;Titans&nbsp;by Tim Ferriss](https://toolsoftitans.com/), &nbsp;and [Normal by&nbsp;Normal by Warren Ellis](https://www.amazon.com/Normal-Novel-Warren-Ellis/dp/0374534977)Charles: Conference Stickers for JavaScript and Adventures in Angular,&nbsp;[Poster-size calendars](http://www.neuyear.net/), and [The 12 Week Year by Brian P. Moran and Michael Lennington](https://www.amazon.com/12-Week-Year-Others-Months/dp/1501277332)
+Mikeal: [Web Torrent&nbsp;](https://webtorrent.io/), [Tool of&nbsp;Titans&nbsp;by Tim Ferriss](https://toolsoftitans.com/), &nbsp;and [Normal by&nbsp;Normal by Warren Ellis](https://www.amazon.com/Normal-Novel-Warren-Ellis/dp/0374534977)Charles: Conference Stickers for JavaScript and Adventures in Angular,&nbsp;[Poster-size calendars](https://www.neuyear.net/), and [The 12 Week Year by Brian P. Moran and Michael Lennington](https://www.amazon.com/12-Week-Year-Others-Months/dp/1501277332)
 
 ### Transcript

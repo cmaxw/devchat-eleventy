@@ -21,12 +21,12 @@ tags:
 
 **Special Guests:** Paweł Dąbrowski
 
-In this episode of Ruby Rogues, the panelists talk to Paweł Dąbrowski about metaprogramming and DSLs. Paweł is a [Ruby](https://www.ruby-lang.org/en/) developer, is on the [iRonin](https://www.ironin.it/) team, and runs a [Ruby blog](http://pdabrowski.com/blog/articles), which he started in January 2018. They talk about his blog, the importance of contributing to the community, and why he chose to create his own version of [RSpec](http://rspec.info/). They also touch on how hard it was to get into blog writing as a developer, the use of blog writing as a way to confirm your skills, and much more!
+In this episode of Ruby Rogues, the panelists talk to Paweł Dąbrowski about metaprogramming and DSLs. Paweł is a [Ruby](https://www.ruby-lang.org/en/) developer, is on the [iRonin](https://www.ironin.it/) team, and runs a [Ruby blog](https://pdabrowski.com/blog/articles), which he started in January 2018. They talk about his blog, the importance of contributing to the community, and why he chose to create his own version of [RSpec](https://rspec.info/). They also touch on how hard it was to get into blog writing as a developer, the use of blog writing as a way to confirm your skills, and much more!
 
 **In particular, we dive pretty deep on:**
 
 - Paweł intro
-- [_Build your own RSpec_ blog post](http://pdabrowski.com/blog/ruby-on-rails/testing/build-your-own-rspec/)
+- [_Build your own RSpec_ blog post](https://pdabrowski.com/blog/ruby-on-rails/testing/build-your-own-rspec/)
 - Wanted to dive in and share his thoughts on the topic
 - The importance of branding yourself
 - He wants to be able to share his skills to others
@@ -35,7 +35,7 @@ In this episode of Ruby Rogues, the panelists talk to Paweł Dąbrowski about m
 - Developer therapy
 - Write a blog post and then make it into a script
 - Do you find yourself going back to your blog posts in the future?
-- Why did you decide to create your own version of [RSpec](http://rspec.info/)?
+- Why did you decide to create your own version of [RSpec](https://rspec.info/)?
 - How far did you get into creating your own RSpec before it got really difficult?
 - Remind yourself it’s just Ruby code
 - Did you use TDD?
@@ -53,9 +53,9 @@ In this episode of Ruby Rogues, the panelists talk to Paweł Dąbrowski about m
 - [DevChat.tv](https://devchat.tv/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [iRonin](https://www.ironin.it/)
-- Paweł’s [Ruby blog](http://pdabrowski.com/blog/articles)
-- [_Build your own RSpec_ blog post](http://pdabrowski.com/blog/ruby-on-rails/testing/build-your-own-rspec/)
-- [RSpec](http://rspec.info/)
+- Paweł’s [Ruby blog](https://pdabrowski.com/blog/articles)
+- [_Build your own RSpec_ blog post](https://pdabrowski.com/blog/ruby-on-rails/testing/build-your-own-rspec/)
+- [RSpec](https://rspec.info/)
 - [Paweł’s GitHub](https://github.com/rubyhero)
 - [Views on Vue Podcast](https://devchat.tv/views-on-vue)
 - [VoV Episode 3: Nuxt.js Podcast](https://devchat.tv/views-on-vue/vov-003-nuxt-js-basics-and-vuejs-in-action)

@@ -57,7 +57,7 @@ This week on My Angular Story, Charles speaks with [Yakov Fain](https://yakovfai
 - [Yakov Fain’s LinkedIn](https://www.linkedin.com/in/yfain)
 - [Yakov Fain’s Publications](https://yakovfain.com/my-publications/)
 - [Yakov Fain’s Medium Account](https://medium.com/@yakov_fain)
-- [Yakov Fain – Sys.con Media](http://yakovfain.sys-con.com)
+- [Yakov Fain – Sys.con Media](https://yakovfain.sys-con.com)
 - [TypeScript](https://www.typescriptlang.org)
 - [Charles’ Blog](https://charlesmaxwood.com)
 
@@ -69,7 +69,7 @@ This week on My Angular Story, Charles speaks with [Yakov Fain](https://yakovfai
 
 Charles
 
-- [RubyHack](http://rubyhack.com) – Charles wants to use his talk (that he was going to use at RubyHack) into an hour video.
+- [RubyHack](https://rubyhack.com) – Charles wants to use his talk (that he was going to use at RubyHack) into an hour video.
 - Audio Book
   - [“Crucial Accountability” by Kerry Patterson, et al.](https://www.audible.com/pd/Business/Crucial-Accountability-Audiobook/B00HZOLD00?source_code=GO1GB907OSH060513&gclid=EAIaIQobChMI3IvZgITA2wIVAQhpCh0SGw5dEAAYASAAEgIXMvD_BwE)
 - Podcast

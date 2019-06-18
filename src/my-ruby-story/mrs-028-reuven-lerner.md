@@ -34,7 +34,7 @@ tags:
 - and much, much more!
   **Links: &nbsp;**
 - https://lerner.co.il
-- [http://blog.lerner.co.il](http://blog.lerner.co.il)
+- [https://blog.lerner.co.il](https://blog.lerner.co.il)
 - [Ruby Rouges Episode 260](https://devchat.tv/ruby-rogues/260-rr-training-with-reuven-lerner)
 - [revue@lerner.co.il](mailto:revue@lerner.co.il)
 - @revuemlerner

@@ -16,10 +16,10 @@ tags:
 
 - [Twitter](https://twitter.com/YorickPeterse)
 - [GitHub](https://github.com/YorickPeterse)
-- [Blog](http://yorickpeterse.com/)
-- [Rubinius](http://rubini.us/)
-- [The XML C parser and toolkit of Gnome](http://www.xmlsoft.org/)
-- [libxslt](http://xmlsoft.org/libxslt/)
+- [Blog](https://yorickpeterse.com/)
+- [Rubinius](https://rubini.us/)
+- [The XML C parser and toolkit of Gnome](https://www.xmlsoft.org/)
+- [libxslt](https://xmlsoft.org/libxslt/)
 
 03:07 - [oga](https://github.com/YorickPeterse/oga)
 
@@ -64,7 +64,7 @@ tags:
 - Documentation
   Picks
 
-[AirPair](http://airpair.com) (Chuck)[CAL(1) Shell Command](http://man7.org/linux/man-pages/man1/cal.1.html) (Jessica)[fish shell](http://fishshell.com/) (Yorick)[asciinema](http://asciinema.org) (Yorick)
+[AirPair](https://airpair.com) (Chuck)[CAL(1) Shell Command](https://man7.org/linux/man-pages/man1/cal.1.html) (Jessica)[fish shell](https://fishshell.com/) (Yorick)[asciinema](https://asciinema.org) (Yorick)
 
 ### Transcript
 

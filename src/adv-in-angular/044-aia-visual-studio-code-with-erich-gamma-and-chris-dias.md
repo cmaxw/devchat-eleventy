@@ -22,11 +22,11 @@ tags:
 - [Twitter](https://twitter.com/ErichGamma)
 - [GitHub](https://github.com/egamma)
 
-03:38 - [Visual Studio Code](http://code.visualstudio.com)
+03:38 - [Visual Studio Code](https://code.visualstudio.com)
 
 - [@VisualStudio](https://twitter.com/VisualStudio)
 - [[YouTube] Chris Dias: Visual Studio Code @ Build2015](https://www.youtube.com/watch?v=lEI9mxYpcS8)
-- [IDE (Integrated Development Environment)](http://en.wikipedia.org/wiki/Integrated_development_environment)
+- [IDE (Integrated Development Environment)](https://en.wikipedia.org/wiki/Integrated_development_environment)
 - Core Inner Loop
 - Opinionated Workflow
 
@@ -37,7 +37,7 @@ tags:
 09:58 - Branding and Searchability
 
 - [#vscode](https://twitter.com/search?q=%23VSCode&src=typd)
-- [UserVoice Site for Visual Studio Code Feature Requests](http://visualstudio.uservoice.com/forums/293070-visual-studio-code)
+- [UserVoice Site for Visual Studio Code Feature Requests](https://visualstudio.uservoice.com/forums/293070-visual-studio-code)
 
 13:51 - Philosophically, what were the driving factors behind Microsoft releasing a cross-platform tool?
 
@@ -52,7 +52,7 @@ tags:
 - [Debugging](https://msdn.microsoft.com/en-us/library/hcw1s69b.aspx)
 - [Lightweight Environment](https://msdn.microsoft.com/en-us/library/hcw1s69b.aspx)
 - [Project Structure](https://msdn.microsoft.com/en-us/library/hcw1s69b.aspx)
-- [TypeScript](http://www.typescriptlang.org/) Integration
+- [TypeScript](https://www.typescriptlang.org/) Integration
 
 33:13 - Testing
 
@@ -76,11 +76,11 @@ tags:
 - Auto-Update
 - [Windows Insider Program](https://insider.windows.com/)
 
-47:13 - Visual Studio Code vs [Sublime Text](http://www.sublimetext.com/)
+47:13 - Visual Studio Code vs [Sublime Text](https://www.sublimetext.com/)
 
 Picks
 
-[Chris Dias, Erich Gamma and John Papa - Visual Studio Code: A Deep Dive on the Redefined Code Editor for OS X, Linux and Windows](http://channel9.msdn.com/Events/Build/2015/3-680) (John)[Visual Studio Code Connect Link](https://code.visualstudio.com/Home/Connect) (John)[Rob Eisenberg: Getting Started with Aurelia and TypeScript](http://blog.durandal.io/2015/05/06/getting-started-with-aurelia-and-typescript/) (Ward)[Blue Man Group](http://www.blueman.com/) (Katya)[ng-vegas](http://www.ng-vegas.org) (Joe)[[YouTube] ng-vegas Channel](https://www.youtube.com/channel/UC7BRj6uzK1M2MVOuq8zTVKQ) (Joe)[The CodeNewbie Podcast](http://www.codenewbie.org/podcast) (Chuck)[Ask Me Another](http://www.npr.org/podcasts/510299/ask-me-another) (Chuck)[[YouTube] Getting Started with Angular 2 Developer Preview](https://www.youtube.com/watch?v=HmWm21cCAXM) (Chris)[Jonathan Turner: Using TypeScript in Visual Studio Code](http://blogs.msdn.com/b/typescript/archive/2015/04/30/using-typescript-in-visual-studio-code.aspx) (Chris)[Emmet](http://emmet.io/) (Chris)[The Computing Universe: A Journey through a Revolution by Tony Hey and Gyuri Pápay](http://www.cambridge.org/us/academic/subjects/computer-science/computing-general-interest/computing-universe-journey-through-revolution?format=PB) (Eric)
+[Chris Dias, Erich Gamma and John Papa - Visual Studio Code: A Deep Dive on the Redefined Code Editor for OS X, Linux and Windows](https://channel9.msdn.com/Events/Build/2015/3-680) (John)[Visual Studio Code Connect Link](https://code.visualstudio.com/Home/Connect) (John)[Rob Eisenberg: Getting Started with Aurelia and TypeScript](https://blog.durandal.io/2015/05/06/getting-started-with-aurelia-and-typescript/) (Ward)[Blue Man Group](https://www.blueman.com/) (Katya)[ng-vegas](https://www.ng-vegas.org) (Joe)[[YouTube] ng-vegas Channel](https://www.youtube.com/channel/UC7BRj6uzK1M2MVOuq8zTVKQ) (Joe)[The CodeNewbie Podcast](https://www.codenewbie.org/podcast) (Chuck)[Ask Me Another](https://www.npr.org/podcasts/510299/ask-me-another) (Chuck)[[YouTube] Getting Started with Angular 2 Developer Preview](https://www.youtube.com/watch?v=HmWm21cCAXM) (Chris)[Jonathan Turner: Using TypeScript in Visual Studio Code](https://blogs.msdn.com/b/typescript/archive/2015/04/30/using-typescript-in-visual-studio-code.aspx) (Chris)[Emmet](https://emmet.io/) (Chris)[The Computing Universe: A Journey through a Revolution by Tony Hey and Gyuri Pápay](https://www.cambridge.org/us/academic/subjects/computer-science/computing-general-interest/computing-universe-journey-through-revolution?format=PB) (Eric)
 
 ### Transcript
 

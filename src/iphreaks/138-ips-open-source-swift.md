@@ -24,11 +24,11 @@ Get the top 10 episodes of iPhreaks! Text **IPHREAKS** to **7656263464**.
 
 - [Swift](https://swift.org/)
 - [WebKit](https://webkit.org/)
-- [Perfect](http://perfect.org)
+- [Perfect](https://perfect.org)
 
 05:59 - Running Swift on [Linux](https://www.linux.com/) and [Raspberry Pi](https://www.raspberrypi.org/)
 
-- [Andrew Madsen: Swift on Raspberry Pi](http://blog.andrewmadsen.com/post/136137396480/swift-on-raspberry-pi)
+- [Andrew Madsen: Swift on Raspberry Pi](https://blog.andrewmadsen.com/post/136137396480/swift-on-raspberry-pi)
 
 08:40 - Benefits of Running Swift as an Embedded Program
 
@@ -52,7 +52,7 @@ Get the top 10 episodes of iPhreaks! Text **IPHREAKS** to **7656263464**.
 
 22:26 - Developing on [GitHub](https://github.com/)
 
-- [Erica Sadun](http://ericasadun.com/)
+- [Erica Sadun](https://ericasadun.com/)
 
 24:56 - Downsides to Open Sourcing Swift ?
 
@@ -66,7 +66,7 @@ Get the top 10 episodes of iPhreaks! Text **IPHREAKS** to **7656263464**.
 
 34:37 - [REPLs (Read, Evaluate, Print, Loop)](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)Picks
 
-[Alexandros Salazar: The Ghost of Swift Bugs Future](http://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future) (Jaim)[Andrew Madsen: Swift on Raspberry Pi](http://blog.andrewmadsen.com/post/136137396480/swift-on-raspberry-pi) (Andrew)[Swift Sandbox Open Source Newsletter](http://swiftsandbox.io) (Andrew)[IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/#/repl) (Andrew)[Nike+ Running](http://www.nike.com/us/en_us/c/running/nikeplus/gps-app) (Chuck)[Run 10k](http://felttip.com/run10k/) (Chuck)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)[AfterShokz Bluez 2 Headphones](http://aftershokz.com/products/bluez-2) (Chuck)[MyFitnessPal](http://www.myfitnesspal.com/) (Chuck)
+[Alexandros Salazar: The Ghost of Swift Bugs Future](https://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future) (Jaim)[Andrew Madsen: Swift on Raspberry Pi](https://blog.andrewmadsen.com/post/136137396480/swift-on-raspberry-pi) (Andrew)[Swift Sandbox Open Source Newsletter](https://swiftsandbox.io) (Andrew)[IBM Swift Sandbox](https://swiftlang.ng.bluemix.net/#/repl) (Andrew)[Nike+ Running](https://www.nike.com/us/en_us/c/running/nikeplus/gps-app) (Chuck)[Run 10k](https://felttip.com/run10k/) (Chuck)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)[AfterShokz Bluez 2 Headphones](https://aftershokz.com/products/bluez-2) (Chuck)[MyFitnessPal](https://www.myfitnesspal.com/) (Chuck)
 
 ### Transcript
 

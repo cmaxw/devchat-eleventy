@@ -25,7 +25,7 @@ In this episode of Elixir Mix, the panel talks with [Kamil Lelonek](https://twit
 
 0:00 – [Advertisement: Get A Coder Job!](https://devchat.tv/get-a-coder-job/)&nbsp;
 
-0:48 – Chuck: Hello! Our panel today is Mark and myself. Friendly reminder to listeners: check out my show the [DevRev](http://thedevrev.com). Our guest today is [Kamil Lelonek!](https://twitter.com/KamilLelonek?lang=en)
+0:48 – Chuck: Hello! Our panel today is Mark and myself. Friendly reminder to listeners: check out my show the [DevRev](https://thedevrev.com). Our guest today is [Kamil Lelonek!](https://twitter.com/KamilLelonek?lang=en)
 
 1:23 – Guest.
 
@@ -162,7 +162,7 @@ END – [CacheFly!](https://www.cachefly.com)
 - [Event Store](https://eventstore.org)
 - [PostgreSQL](https://www.postgresql.org)
 - [MongoDB](https://www.mongodb.com)
-- [Erlang: mnesia](http://erlang.org/doc/man/mnesia.html)
+- [Erlang: mnesia](https://erlang.org/doc/man/mnesia.html)
 - [GitHub: cachex](https://github.com/whitfin/cachex)
 - [GitHub: meh / amnesia](https://github.com/meh/amnesia)
 - [PostGIS](https://postgis.net)

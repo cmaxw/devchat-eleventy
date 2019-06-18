@@ -5,7 +5,7 @@ title: >
 date: 2016-06-23 07:00:08
 episode_number: 098
 duration: 51:56
-audio_url: http://media.devchat.tv/adventures-in-angular/AiA098AzureFunctionsPortal.mp3
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA098AzureFunctionsPortal.mp3
 podcast: adv-in-angular
 tags:
   - adv_in_angular
@@ -16,24 +16,24 @@ tags:
 
 - [Twitter](https://twitter.com/ahmelsayed)
 - [GitHub](https://github.com/ahmelsayed)
-- [Blog](http://ahmelsayed.com/)
+- [Blog](https://ahmelsayed.com/)
   02:09 - Chris Anderson Introduction
 - [Twitter](https://twitter.com/crandycodes)
 - [GitHub](https://github.com/christopheranderson)
-  02:19 - [Microsoft Azure Functions](http://functions.azure.com)
+  02:19 - [Microsoft Azure Functions](https://functions.azure.com)
 - [iPhreaks Show Episode #157: Azure App Services with Matthew Henderson](https://devchat.tv/iphreaks/ips-157-azure-app-services-with-matthew-henderson)
   02:28 - Building the [Azure Functions Portal](https://github.com/projectkudu/AzureFunctionsPortal) on Angular 209:37 - The Backend11:18 - Approaching Leadership for Approval to Build in Angular 2/Beta; Deciding Factors15:18 - App Organization and Architectural Pattern18:38 - Ease and Hardships of Starting the App22:33 - Use Cases24:13 - Browser Issues25:39 - Debugging
 - [Augury](https://augury.angular.io/)
   26:52 - [Angular CLI](https://cli.angular.io/)
-- [jspm.io](http://jspm.io/)
+- [jspm.io](https://jspm.io/)
   28:59 - Workflow40:08 - Observables & Streaming41:36 - Upgrading42:15 - Would you recommend Angular 2?44:35 - Testing&nbsp;Picks
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) (John)
 - [NativeScript](https://www.nativescript.org/) (John)
-- [Ionic 2](http://ionic.io/2) (John)
+- [Ionic 2](https://ionic.io/2) (John)
 - [Billy Collins](https://pen.org/billy-collins) (Ward)
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447) (Chuck)
-- [Audible](http://www.audible.com/) (Chuck)
-- [Sapiens: A Brief History of Humankind by Yuval Noah Harari](http://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) (Ahmed)
+- [Audible](https://www.audible.com/) (Chuck)
+- [Sapiens: A Brief History of Humankind by Yuval Noah Harari](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) (Ahmed)
 - [Promise Theory](https://en.wikipedia.org/wiki/Promise_theory) (Chris)
 
 ### Transcript

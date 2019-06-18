@@ -15,7 +15,7 @@ tags:
 **Panel:**
 
 - [AJ O’Neal](https://twitter.com/coolaj86?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [Aimee Knight](http://www.aimeemarieknight.com)
+- [Aimee Knight](https://www.aimeemarieknight.com)
 - [Joe Eames](https://twitter.com/josepheames?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
@@ -43,7 +43,7 @@ In this episode, the panel talks with programmer, [Vitali Zaidman](https://mediu
 
 6:01 – Like life, it’s sometimes easier to use things that make things very valuable.
 
-7:55 – Aimee: I have heard great things about [Cypress](http://www.cypress.com/documentation/software-and-drivers/free-and-open-source-software-download-page), but at work we are using another program.
+7:55 – Aimee: I have heard great things about [Cypress](https://www.cypress.com/documentation/software-and-drivers/free-and-open-source-software-download-page), but at work we are using another program.
 
 8:22 – Vitali: Check out my article.
 
@@ -176,7 +176,7 @@ He continues this conversation from here on out.
 - [JavaScript](https://www.javascript.com)
 - [Brutalist Web Design](https://brutalist-web.design)
 - [Jasmine](https://jasmine.github.io)
-- [Cypress](http://www.cypress.com/documentation/software-and-drivers/free-and-open-source-software-download-page)
+- [Cypress](https://www.cypress.com/documentation/software-and-drivers/free-and-open-source-software-download-page)
 - [React](https://reactjs.org)
 - [jQuery](https://jquery.com)
 - [Jest](https://jestjs.io)
@@ -208,7 +208,7 @@ He continues this conversation from here on out.
 
 **Aimee Knight**
 
-- [Hacker News – “Does Software Understand Complexity” via Michael Feathers](http://www.mokacoding.com/blog/does-software-understand-complexity-m-feathers/)
+- [Hacker News – “Does Software Understand Complexity” via Michael Feathers](https://www.mokacoding.com/blog/does-software-understand-complexity-m-feathers/)
 - [Cream City Code](https://www.eventbrite.com/e/cream-city-code-2018-tickets-44368623748)
 
 **Chuck**

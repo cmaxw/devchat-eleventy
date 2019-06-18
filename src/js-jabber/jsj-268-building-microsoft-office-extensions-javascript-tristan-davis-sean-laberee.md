@@ -22,7 +22,7 @@ AJ O'Neal
 
 - Lithium
   Charles Max Wood
-- [Miracle Morning by Hal Erod](http://halelrod.com/books/)
+- [Miracle Morning by Hal Erod](https://halelrod.com/books/)
 - [Clean Code by Uncle Bob Martin](https://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwju762SmvDUAhUCa7wKHW3AAC0QFgg2MAM&url=https%3A%2F%2Fwww.amazon.com%2FClean-Code-Handbook-Software-Craftsmanship%2Fdp%2F0132350882&usg=AFQjCNHJDnmWbqzqrhM5Lav_Z6k-PxQEKA)
 - Ketogenic diet
   Tristan Davis

@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Angular Bootcamp](https://angularbootcamp.com/)
 - [TripleByte](https://triplebyte.com/angular) offers a $1000 signing bonus
 - [Cachefly](https://www.cachefly.com/)

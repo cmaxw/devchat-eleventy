@@ -17,7 +17,7 @@ tags:
 - [Twitter](https://twitter.com/ossia)
 - [GitHub](https://github.com/QuincyLarson)
 
-03:20 - [Free Code Camp](http://www.freecodecamp.com/)
+03:20 - [Free Code Camp](https://www.freecodecamp.com/)
 
 - [@FreeCodeCamp](https://twitter.com/FreeCodeCamp)&nbsp;&nbsp;
 
@@ -63,7 +63,7 @@ tags:
 
 36:55 - Partnerships
 
-- [Project Management Institute](http://www.pmi.org/)
+- [Project Management Institute](https://www.pmi.org/)
 
 37:53 - Making Free Code Camp More Effective
 
@@ -82,7 +82,7 @@ tags:
 - [Free Code Camp Volunteer Quiz](https://www.boombox.com/c/quiz/175881/free-code-camp-volunteer-quiz)
   Picks
 
-[Our Greatest Fear — Marianne Williamson](http://explorersfoundation.org/glyphery/122.html) (AJ)[The Rabbit Joint - The Legend of Zelda](https://youtu.be/DqKHGMQGP8Y) (AJ)[Nintendo (Twilight Princess HD Soundtrack)](http://i.imgur.com/fMH0gWy.jpg) (AJ)[Steve Wozniak: The early days @ TEDxBerkeley](https://youtu.be/PwSyjz1off4?t=30) (AJ)[Favor of the Pharaoh](http://boardgamegeek.com/boardgame/171011/favor-pharaoh) (Joe)[The Goldbergs](http://abc.go.com/shows/the-goldbergs) (Joe)[The Best Podcast Rap](https://www.facebook.com/mattgiovanisci/videos/10208617188848005/) (Chuck)[Word Swag](http://wordswag.co/) (Chuck)[Cecily Carver: Things I Wish Someone Had Told Me When I Was Learning How to Code](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329) (Quincy)[Code for the Kingdom](http://codeforthekingdom.org/index.html) (Aimee)[diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) (Aimee)
+[Our Greatest Fear — Marianne Williamson](https://explorersfoundation.org/glyphery/122.html) (AJ)[The Rabbit Joint - The Legend of Zelda](https://youtu.be/DqKHGMQGP8Y) (AJ)[Nintendo (Twilight Princess HD Soundtrack)](https://i.imgur.com/fMH0gWy.jpg) (AJ)[Steve Wozniak: The early days @ TEDxBerkeley](https://youtu.be/PwSyjz1off4?t=30) (AJ)[Favor of the Pharaoh](https://boardgamegeek.com/boardgame/171011/favor-pharaoh) (Joe)[The Goldbergs](https://abc.go.com/shows/the-goldbergs) (Joe)[The Best Podcast Rap](https://www.facebook.com/mattgiovanisci/videos/10208617188848005/) (Chuck)[Word Swag](https://wordswag.co/) (Chuck)[Cecily Carver: Things I Wish Someone Had Told Me When I Was Learning How to Code](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329) (Quincy)[Code for the Kingdom](https://codeforthekingdom.org/index.html) (Aimee)[diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) (Aimee)
 
 ### Transcript
 

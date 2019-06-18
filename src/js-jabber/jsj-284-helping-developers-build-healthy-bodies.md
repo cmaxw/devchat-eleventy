@@ -33,21 +33,21 @@ tags:
 - Sleep - brain wave activity, caffeine, and light
 - Naps
 - And much more!
-  **Links:** @jchiatt @devlifts[devlifts.io](http://devlifts.io) **Picks:** Amiee
+  **Links:** @jchiatt @devlifts[devlifts.io](https://devlifts.io) **Picks:** Amiee
 - https://www.womenwhotech.com/panelist-bios
 - https://github.com/AllThingsSmitty/css-protips
   Charles
 - [Gunnar blue blockers&nbsp;](https://gunnar.com/?gclid=Cj0KCQjwprbPBRCHARIsAF_7gDa7P7v5iVaIHUYH2hx6xFkkreJfPD54HGTh787QVKfgn43VTNFrVX0aAmm7EALw_wcB)
 - Flux
-- [ReactDevSummit.com](http://ReactDevSummit.com)
-- [JSDevSummit.com](http://JSDevSummit.com)
+- [ReactDevSummit.com](https://ReactDevSummit.com)
+- [JSDevSummit.com](https://JSDevSummit.com)
 -
 
 JC
 
-- [American Vandal](http://www.imdb.com/title/tt6877772/)
-- [Confession Tapes&nbsp;](http://www.imdb.com/title/tt7349602/)
+- [American Vandal](https://www.imdb.com/title/tt6877772/)
+- [Confession Tapes&nbsp;](https://www.imdb.com/title/tt7349602/)
 - [Qalo](https://qalo.com)
-- [https://lodash.com](http://Lo%20Dash)
+- [https://lodash.com](https://Lo%20Dash)
 
 ### Transcript

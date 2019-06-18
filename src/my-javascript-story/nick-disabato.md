@@ -37,11 +37,11 @@ tags:
   **Links:&nbsp;**
 - [https://draft.nu](https://draft.nu)
 - [https://nickd.org/bio/](https://nickd.org/bio/)
-- [draftsletters.com](http://draftsletters.com)
+- [draftsletters.com](https://draftsletters.com)
 - @nickd
   **Picks** Charles
 - [Dash Pro&nbsp;](https://www.amazon.com/s/?ie=UTF8&keywords=the+dash+pro&tag=googhydr-20&index=aps&hvadid=241944799904&hvpos=1t2&hvnetw=g&hvrand=6798390131814822469&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028550&hvtargid=aud-397161105788:kwd-312865236386&ref=pd_sl_1nx37wfpxk_b)
-- [convo.com](http://convo.com)
+- [convo.com](https://convo.com)
   Nick
 - [Visual Web Optimizer&nbsp;](https://vwo.com/campaign/get-started/?ads_cmpid=956514186&ads_adid=49202577724&ads_matchtype=e&ads_network=g&ads_creative=236620785010&utm_term=visual%20web%20optimizer&ads_targetid=kwd-336374200770&utm_campaign=&utm_source=adwords&utm_medium=ppc&ttv=2&gclid=Cj0KCQiAkNfSBRCSARIsAL-u3X-gWjQyn3-cE86bTehPvUT29YzmSctOAJcEqlXPYN-tftIUpmklqKsaAi1qEALw_wcB)
 - [Designing for Accessibility&nbsp;](https://www.amazon.com/Accessibility-Everyone-Laura-Kalbag/dp/1937557618)

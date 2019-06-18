@@ -32,11 +32,11 @@ This week on My Angular Story, Charles speaks with [Travis Tidwell](https://twit
 
 3:05 – Chuck: How did you get into programming?
 
-3:09 – Guest: I am going to be 40-years old in May! I am getting up there. Everyone who I am talking to (in my age) it seems like we have the same story. We have this story of having that REALLY old computer. Parents bring home the [IBM](https://www.ibm.com/us-en/?ar=1) or the [Commodore 64](http://oldcomputers.net/c64.html) and that really is my story. At the time, the only thing you could learn with it was to program – there weren’t any video games, etc. A book that I geeked-out about was: [“DOS for Dummies.”](https://www.amazon.com/DOS-Dummies-Dan-Gookin/dp/0764503618)
+3:09 – Guest: I am going to be 40-years old in May! I am getting up there. Everyone who I am talking to (in my age) it seems like we have the same story. We have this story of having that REALLY old computer. Parents bring home the [IBM](https://www.ibm.com/us-en/?ar=1) or the [Commodore 64](https://oldcomputers.net/c64.html) and that really is my story. At the time, the only thing you could learn with it was to program – there weren’t any video games, etc. A book that I geeked-out about was: [“DOS for Dummies.”](https://www.amazon.com/DOS-Dummies-Dan-Gookin/dp/0764503618)
 
 _The guest talks about his senior year in college and how he came to fall in-love with programming._
 
-6:28 – Guest: After college, I got a job for working for a company that used [C++](http://www.cplusplus.com/doc/tutorial/) code. People ask: How the heck did you get into Web? My background, too, was tap dancing and in the arts. Most people don’t know that. I was giving these tap lessons to kids – and around that time YouTube was just for cat videos. At the time, I thought it would be great to teach these tap video lessons online. I found a CMS at the time that would help me with my teaching intent. [Drupal](https://www.drupal.org/about) took me into the frontend libraries. PHP is a backend language, and [Drupal](https://www.drupal.org/about) was based entirely on PHP. There was this huge paradigm-shift within my career. I really got into these tools not knowing that it would change my career.
+6:28 – Guest: After college, I got a job for working for a company that used [C++](https://www.cplusplus.com/doc/tutorial/) code. People ask: How the heck did you get into Web? My background, too, was tap dancing and in the arts. Most people don’t know that. I was giving these tap lessons to kids – and around that time YouTube was just for cat videos. At the time, I thought it would be great to teach these tap video lessons online. I found a CMS at the time that would help me with my teaching intent. [Drupal](https://www.drupal.org/about) took me into the frontend libraries. PHP is a backend language, and [Drupal](https://www.drupal.org/about) was based entirely on PHP. There was this huge paradigm-shift within my career. I really got into these tools not knowing that it would change my career.
 
 My open source has taken me to tutorial videos. Eventually, a light bulb went off and I found a solution that needed to be solved within Angular.
 
@@ -96,8 +96,8 @@ END – [CacheFly](https://www.cachefly.com)
 - Chuck’s Twitter
 - Chuck’s E-mail: [chuck@devchat.tv](mailto:chuck@devchat.tv)
 - [Travis Tidwell’s Book: Flash With Drupal](https://www.amazon.com/Flash-Drupal-Travis-Tidwell-ebook/dp/B0057WCS56/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=0d22859719a3b343c23e3b1ed976b359&language=en_US)
-- [“How to Build a M.E.A.N. Web Application” by Travis Tidwell](http://travistidwell.com/blog/2015/01/20/how-to-build-a-mean-web-application/)
-- [Angular-Formly](http://angular-formly.com/#!/)
+- [“How to Build a M.E.A.N. Web Application” by Travis Tidwell](https://travistidwell.com/blog/2015/01/20/how-to-build-a-mean-web-application/)
+- [Angular-Formly](https://angular-formly.com/#!/)
 - [Angular](https://angular.io)
 - [Angular – FormBuilder](https://angular.io/api/forms/FormBuilder)
 - [Patreon](https://www.patreon.com)

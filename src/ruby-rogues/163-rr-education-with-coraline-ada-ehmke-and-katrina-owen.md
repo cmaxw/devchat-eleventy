@@ -16,22 +16,22 @@ tags:
 
 - [twitter](https://twitter.com/bantik)
 - [github](https://github.com/Bantik)
-- [blog](http://where.coraline.codes/)
-- [Instructure](http://www.instructure.com/)
+- [blog](https://where.coraline.codes/)
+- [Instructure](https://www.instructure.com/)
 
 02:30 - Katrina Owen Introduction
 
-- [twitter](http://twitter.com/kytrinyx)
+- [twitter](https://twitter.com/kytrinyx)
 - [github](https://github.com/kytrinyx)
-- [blog](http://kytrinyx.com/)
-- [Splice](http://www.spliceapp.com/)
+- [blog](https://kytrinyx.com/)
+- [Splice](https://www.spliceapp.com/)
 - [Katrina at Rails 2013](https://www.youtube.com/watch?v=KaBrHBlMHBI)
 
 05:00 - Katrina’s Teaching Tactics
 
-- [Blaise Pascal](http://en.wikipedia.org/wiki/Blaise_Pascal) quote
+- [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) quote
 - People Who Want To Learn
-- [The Flatiron School](http://flatironschool.com/)
+- [The Flatiron School](https://flatironschool.com/)
 
 12:14 - Dealing With People
 
@@ -39,42 +39,42 @@ tags:
 
 14:47 - Mentorship/Mastery
 
-- [Dev Bootcamp](http://devbootcamp.com/) / [@DevBootcamp](https://twitter.com/DevBootcamp)
+- [Dev Bootcamp](https://devbootcamp.com/) / [@DevBootcamp](https://twitter.com/DevBootcamp)
 - [@feministy](https://twitter.com/feministing)
-- [Mastery by Robert Greene](http://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&camp=1789&creative=9325&index=aps&keywords=mastery&linkCode=as2&tag=chamaxwoo-20&linkId=QEAZYQOR6SHZH2NV)
-- [Socratic Method](http://en.wikipedia.org/wiki/Socratic_method)
-- [Autocratic](http://www.merriam-webster.com/dictionary/autocratic)
+- [Mastery by Robert Greene](https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&camp=1789&creative=9325&index=aps&keywords=mastery&linkCode=as2&tag=chamaxwoo-20&linkId=QEAZYQOR6SHZH2NV)
+- [Socratic Method](https://en.wikipedia.org/wiki/Socratic_method)
+- [Autocratic](https://www.merriam-webster.com/dictionary/autocratic)
 
 23:07 - Responsibilities to Community
 
 24:47 - Organizations/Meetups
 
-- [ChicagoRuby](http://www.meetup.com/ChicagoRuby/)
-- [Women Who Code](http://www.womenwhocode.com/)
-- [Girl Develop It](http://girldevelopit.com/)
-- [Chicago Women Developers](http://www.cwdevs.com/)
-- [LGBT Community](http://en.wikipedia.org/wiki/LGBT) Chicago
-- “Don’t Be An Asshole” - [The Flatiron School](http://flatironschool.com/)
-- [This American Life Episode #370: Ruining It for the Rest of Us](http://www.thisamericanlife.org/radio-archives/episode/370/ruining-it-for-the-rest-of-us)
+- [ChicagoRuby](https://www.meetup.com/ChicagoRuby/)
+- [Women Who Code](https://www.womenwhocode.com/)
+- [Girl Develop It](https://girldevelopit.com/)
+- [Chicago Women Developers](https://www.cwdevs.com/)
+- [LGBT Community](https://en.wikipedia.org/wiki/LGBT) Chicago
+- “Don’t Be An Asshole” - [The Flatiron School](https://flatironschool.com/)
+- [This American Life Episode #370: Ruining It for the Rest of Us](https://www.thisamericanlife.org/radio-archives/episode/370/ruining-it-for-the-rest-of-us)
 
 29:26 - “Bad Apples”
 
 34:26 - Mentor/Teacher Relationships
 
-- [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman by Dave Hoover](http://www.amazon.com/gp/product/0596518382/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596518382&linkCode=as2&tag=chamaxwoo-20&linkId=YLDXCC7AEFAR66RZ)
-- [Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](http://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356050&linkCode=as2&tag=chamaxwoo-20&linkId=RSEI24I6VBLJXGKV)
-- [Dreyfus Scale](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+- [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman by Dave Hoover](https://www.amazon.com/gp/product/0596518382/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596518382&linkCode=as2&tag=chamaxwoo-20&linkId=YLDXCC7AEFAR66RZ)
+- [Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](https://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356050&linkCode=as2&tag=chamaxwoo-20&linkId=RSEI24I6VBLJXGKV)
+- [Dreyfus Scale](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 
 38:20 - Paid Coaching
 
-- [AirPair](http://www.airpair.com/)
+- [AirPair](https://www.airpair.com/)
 
 42:50 - Direct vs. Indirect Mentorship
 
-- [Professor Mark Andre](http://www.pacificu.edu/optometry/faculty/mark_andre.cfm)
+- [Professor Mark Andre](https://www.pacificu.edu/optometry/faculty/mark_andre.cfm)
 - “Weaponizing Goodwill”
-- [The "Clever Hans" Effect](http://en.wikipedia.org/wiki/Clever_Hans)
-- [Carol Dweck](http://mindsetonline.com/abouttheauthor/)
+- [The "Clever Hans" Effect](https://en.wikipedia.org/wiki/Clever_Hans)
+- [Carol Dweck](https://mindsetonline.com/abouttheauthor/)
 
 53:30 - Bringing Up Junior Developers
 
@@ -82,9 +82,9 @@ tags:
 - [Code Club](https://www.codeclub.org.uk/)
 - [Dan Kubb](https://twitter.com/@dkubb)
 - [Erik Michaels-Ober](https://twitter.com/sferik)
-- [Myron Marston](http://myronmars.to/n/dev-blog)
+- [Myron Marston](https://myronmars.to/n/dev-blog)
 - [Markus Shirp](https://twitter.com/@_m_b_j_)
-- [Exercism](http://exercism.io/)
+- [Exercism](https://exercism.io/)
 
 01:01:59 - Putting Code Online
 
@@ -94,9 +94,9 @@ tags:
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

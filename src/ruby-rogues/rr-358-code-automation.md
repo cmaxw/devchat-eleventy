@@ -38,14 +38,14 @@ In this episode of Ruby Rogues, the panel discusses code automation. They talk a
 - The pros and cons to “sprints”
 - Velocity is a planning tool only
 - Test runners
-- [TypeScript](https://www.typescriptlang.org/), [CoffeeScript](http://coffeescript.org/), and [ES6](https://es6.io/) build processes
+- [TypeScript](https://www.typescriptlang.org/), [CoffeeScript](https://coffeescript.org/), and [ES6](https://es6.io/) build processes
 - What to do when the “sprint” timeline doesn’t match up with your actual performance?
 - And much, much more!
 
 **Links:**
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [CoffeeScript](http://coffeescript.org/)
+- [CoffeeScript](https://coffeescript.org/)
 - [ES6](https://es6.io/)
 - [Chuck@DevChat.tv](mailto:Chuck@DevChat.tv)
 

@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips](http://devchat.tv/rails-clips) and [Angular Remote Conf](http://angularremoteconf.com)!
+Check out [RailsClips](https://devchat.tv/rails-clips) and [Angular Remote Conf](https://angularremoteconf.com)!
 
 &nbsp;
 
@@ -20,15 +20,15 @@ Check out [RailsClips](http://devchat.tv/rails-clips) and [Angular Remote Conf](
 
 - [Twitter](https://twitter.com/rubybuddha)
 - [GitHhub](https://github.com/leongersing)
-- [Blog](http://leongersing.com/)
-- [Dev Bootcamp](http://devbootcamp.com/)
+- [Blog](https://leongersing.com/)
+- [Dev Bootcamp](https://devbootcamp.com/)
 - [[Talk] Leon Gersing: Keep Software Weird](https://www.youtube.com/watch?v=5HRgfxDtaPI)
 
 03:24 - “Augmenting Your Reality”
 
 07:06 - Emotional Goals and Quantifying Happiness
 
-- [Hacking Happy by Dusty Phillips](http://hackinghappy.com)
+- [Hacking Happy by Dusty Phillips](https://hackinghappy.com)
 
 13:49 - Quantification
 
@@ -48,23 +48,23 @@ Check out [RailsClips](http://devchat.tv/rails-clips) and [Angular Remote Conf](
 
 31:55 - The Ruby Community, Whimsy, and Creating Realities
 
-- [why's (poignant) guide to Ruby: in color by why the lucky stiff](http://www.amazon.com/gp/product/1512212938/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1512212938&linkCode=as2&tag=chamaxwoo-20&linkId=3GCHNDHALUNEQGEN)
+- [why's (poignant) guide to Ruby: in color by why the lucky stiff](https://www.amazon.com/gp/product/1512212938/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1512212938&linkCode=as2&tag=chamaxwoo-20&linkId=3GCHNDHALUNEQGEN)
 
-40:41 - Leon’s Role at [Dev Bootcamp](http://devbootcamp.com/)
+40:41 - Leon’s Role at [Dev Bootcamp](https://devbootcamp.com/)
 
 42:16 - Wisdom; Not Authority
 
 44:14 - Recommended Reading
 
 - Aldous Huxley
-  - [The Perennial Philosophy: An Interpretation of the Great Mystics, East and West](http://www.amazon.com/gp/product/0061724947/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0061724947&linkCode=as2&tag=chamaxwoo-20&linkId=FD7HS2MWHLDGTM2O)
+  - [The Perennial Philosophy: An Interpretation of the Great Mystics, East and West](https://www.amazon.com/gp/product/0061724947/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0061724947&linkCode=as2&tag=chamaxwoo-20&linkId=FD7HS2MWHLDGTM2O)
 - Jean Baudrillard
-  - [Simulacra and Simulation (The Body, In Theory: Histories of Cultural Materialism)](http://www.amazon.com/gp/product/0472065211/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0472065211&linkCode=as2&tag=chamaxwoo-20&linkId=6735SRDAL2AWPR2O)
-  - [America](http://www.amazon.com/gp/product/184467682X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=184467682X&linkCode=as2&tag=chamaxwoo-20&linkId=4KF7XVB5ZESAO3RS)
-- [Play: How it Shapes the Brain, Opens the Imagination, and Invigorates the Soul by Stuart Brown](http://www.amazon.com/gp/product/1583333789/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1583333789&linkCode=as2&tag=chamaxwoo-20&linkId=J7PEWNJTEMUHCEDQ) &nbsp;
+  - [Simulacra and Simulation (The Body, In Theory: Histories of Cultural Materialism)](https://www.amazon.com/gp/product/0472065211/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0472065211&linkCode=as2&tag=chamaxwoo-20&linkId=6735SRDAL2AWPR2O)
+  - [America](https://www.amazon.com/gp/product/184467682X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=184467682X&linkCode=as2&tag=chamaxwoo-20&linkId=4KF7XVB5ZESAO3RS)
+- [Play: How it Shapes the Brain, Opens the Imagination, and Invigorates the Soul by Stuart Brown](https://www.amazon.com/gp/product/1583333789/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1583333789&linkCode=as2&tag=chamaxwoo-20&linkId=J7PEWNJTEMUHCEDQ) &nbsp;
   Picks
 
-[Dollywood's Splash Country Water Adventures Park](http://www.dollywood.com/waterpark.aspx) (Avdi)Normality (Avdi)[Jessica Kerr: Meritocracy @ PolyConf 2015](https://www.youtube.com/watch?v=viyIGHiYCk8) (Jessica)[Periscope](https://www.periscope.tv/) (Chuck)[The Eventual Millionaire Podcast](http://eventualmillionaire.com/2011/01/eventual-millionaire-podcast-episode-one-about-jaime/) (Chuck)[Entreprogrammers Retreat 2015](http://entreprogrammers.com/retreat2015) &nbsp;(Chuck)[Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain](http://www.amazon.com/gp/product/0307352153/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307352153&linkCode=as2&tag=chamaxwoo-20&linkId=3IVE3W3W5LLCLVTF) (Leon)[Play: How it Shapes the Brain, Opens the Imagination, and Invigorates the Soul by Stuart Brown](http://www.amazon.com/gp/product/1583333789/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1583333789&linkCode=as2&tag=chamaxwoo-20&linkId=J7PEWNJTEMUHCEDQ) (Leon)[Shel Silverstein - Freakin At The Freakers Ball](http://www.amazon.com/gp/product/B00HSW6VHE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HSW6VHE&linkCode=as2&tag=chamaxwoo-20&linkId=XFSER2HLRVVGBOCD) (Leon)[The Circle by Dave Eggers](http://www.amazon.com/gp/product/0345807294/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345807294&linkCode=as2&tag=chamaxwoo-20&linkId=U4TMTJHCH7KCNX5I) (Leon)
+[Dollywood's Splash Country Water Adventures Park](https://www.dollywood.com/waterpark.aspx) (Avdi)Normality (Avdi)[Jessica Kerr: Meritocracy @ PolyConf 2015](https://www.youtube.com/watch?v=viyIGHiYCk8) (Jessica)[Periscope](https://www.periscope.tv/) (Chuck)[The Eventual Millionaire Podcast](https://eventualmillionaire.com/2011/01/eventual-millionaire-podcast-episode-one-about-jaime/) (Chuck)[Entreprogrammers Retreat 2015](https://entreprogrammers.com/retreat2015) &nbsp;(Chuck)[Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain](https://www.amazon.com/gp/product/0307352153/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307352153&linkCode=as2&tag=chamaxwoo-20&linkId=3IVE3W3W5LLCLVTF) (Leon)[Play: How it Shapes the Brain, Opens the Imagination, and Invigorates the Soul by Stuart Brown](https://www.amazon.com/gp/product/1583333789/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1583333789&linkCode=as2&tag=chamaxwoo-20&linkId=J7PEWNJTEMUHCEDQ) (Leon)[Shel Silverstein - Freakin At The Freakers Ball](https://www.amazon.com/gp/product/B00HSW6VHE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HSW6VHE&linkCode=as2&tag=chamaxwoo-20&linkId=XFSER2HLRVVGBOCD) (Leon)[The Circle by Dave Eggers](https://www.amazon.com/gp/product/0345807294/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345807294&linkCode=as2&tag=chamaxwoo-20&linkId=U4TMTJHCH7KCNX5I) (Leon)
 
 ### Transcript
 

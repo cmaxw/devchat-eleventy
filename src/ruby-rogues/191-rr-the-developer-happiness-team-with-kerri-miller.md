@@ -18,22 +18,22 @@ Discussion
 
 - [<u>Twitter</u>](https://twitter.com/kerrizor)
 - [<u>GitHub</u>](https://github.com/kerrizor)
-- [<u>Blog</u>](http://kerrizor.com/)
+- [<u>Blog</u>](https://kerrizor.com/)
 
 02:44 - Happiness and Motivation
 
-- [<u>Maslow’s Hierarchy of Needs</u>](http://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)
-- [<u>Marcus Buckingham</u>](http://en.wikipedia.org/wiki/Marcus_Buckingham)
-  - [<u>The Strengths Engagement Track</u>](http://www.tmbc.com/assets/sc/go/WhitePaper.pdf)
+- [<u>Maslow’s Hierarchy of Needs</u>](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)
+- [<u>Marcus Buckingham</u>](https://en.wikipedia.org/wiki/Marcus_Buckingham)
+  - [<u>The Strengths Engagement Track</u>](https://www.tmbc.com/assets/sc/go/WhitePaper.pdf)
 - “Best Friend at Work”?
 - Competition vs Collaboration
 - Eliminating Elements That Can Block Happiness
 - Happiness? Fulfillment? Satisfaction?
-  - [Thinking Fast and Slow by&nbsp;Daniel Kahneman](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+  - [Thinking Fast and Slow by&nbsp;Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 
 14:35 - Happiness as a Culture
 
-- [<u>Agile Software Development</u>](http://en.wikipedia.org/wiki/Agile_software_development)
+- [<u>Agile Software Development</u>](https://en.wikipedia.org/wiki/Agile_software_development)
 - “Enforced Fun”
 - Making Decisions
   - Data, Surveys, Friction Points, Metrics
@@ -41,9 +41,9 @@ Discussion
 - Unlimited Paid Time Off (PTO)
 - Monthly All-Hands Meetings
 
-26:55 - [<u>Drive by Dan Pink</u>](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) =\> The 3 Things That Motivate People
+26:55 - [<u>Drive by Dan Pink</u>](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) =\> The 3 Things That Motivate People
 
-- [<u>Dan Pink: The puzzle of motivation</u>](http://www.ted.com/talks/dan_pink_on_motivation?language=en) (TED Talk)
+- [<u>Dan Pink: The puzzle of motivation</u>](https://www.ted.com/talks/dan_pink_on_motivation?language=en) (TED Talk)
 
 1. Autonomy
 2. Mastery
@@ -67,7 +67,7 @@ Discussion
 
 - Take a Relationship Skills Test
 - Practicing Empathy & Conversation
-- [<u>How To Behave So Your Kids Will Too by Sal Severe</u>](http://www.amazon.com/How-Behave-Your-Children-Will/dp/0141001933)
+- [<u>How To Behave So Your Kids Will Too by Sal Severe</u>](https://www.amazon.com/How-Behave-Your-Children-Will/dp/0141001933)
 - Hiring For Your Team & Evaluating Companies
 
 ### Transcript

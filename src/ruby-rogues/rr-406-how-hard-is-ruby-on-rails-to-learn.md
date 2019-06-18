@@ -17,7 +17,7 @@ tags:
 - [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/rogues) offers a $1000 signing bonus
 - [RedisGreen](https://redisgreen.net/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues)
-- [Cachefly](http://www.cachefly.com/)
+- [Cachefly](https://www.cachefly.com/)
 
 ### **Panel**
 
@@ -33,7 +33,7 @@ Charles Max Wood puts the question to the panel, how hard is it to learn ruby on
 - [Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers-ebook/dp/B00A32NYYE/ref=sr_1_fkmr0_1%20?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 - [https://thinkster.io/](https://thinkster.io/)
 - [https://www.railstutorial.org/](https://www.railstutorial.org/)
-- [http://learn-rails.com/learn-ruby-on-rails.html](http://learn-rails.com/learn-ruby-on-rails.html)
+- [https://learn-rails.com/learn-ruby-on-rails.html](https://learn-rails.com/learn-ruby-on-rails.html)
 - [https://www.facebook.com/RubyRogues](https://www.facebook.com/RubyRogues/)
 - [https://twitter.com/rubyrogues](https://twitter.com/rubyrogues)
 

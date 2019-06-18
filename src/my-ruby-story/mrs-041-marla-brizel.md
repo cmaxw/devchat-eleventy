@@ -42,7 +42,7 @@ This week on My Ruby Story, Charles talks to Marla Brizel. Marla works at [Test 
 - The value of conferences
 - What have you done with Ruby that you are proud of?
 - [Denver Startup Week](https://www.denverstartupweek.org/)
-- [Ruby on Rails](http://rubyonrails.org/)
+- [Ruby on Rails](https://rubyonrails.org/)
 - Elections
 - And much, much more!
 
@@ -64,7 +64,7 @@ Charles
 - [TripIt](https://www.tripit.com/#sm.000003gnt5san1dziulwsisnnoiem)
 - [NG conf](https://www.ng-conf.org/)
 - [MicroConf](https://www.microconf.com/)
-- [RubyHack](http://rubyhack.com/)
+- [RubyHack](https://rubyhack.com/)
 - [Microsoft Build](https://www.microsoft.com/en-us/build)
 - [Podcast Movement](https://podcastmovement.com/)
 - [Get a Job Course](https://devchat.tv/get-a-coder-job)
@@ -74,7 +74,7 @@ Marla
 
 - [Vokl Aura Skis](https://www.evo.com/skis/volkl-aura-womens)
 - [dry-rb](https://dry-rb.org/)
-- [GitX](http://gitx.frim.nl/)
+- [GitX](https://gitx.frim.nl/)
 - [Silvercar](https://www.silvercar.com/)
 - Denver Airport Train
 - [Denver Startup Week](https://www.denverstartupweek.org/)

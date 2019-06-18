@@ -21,9 +21,9 @@ React Native Radio – Episode 119 **<u>Panel:</u>** Nader Dabit **<u>Special Gu
 **Shyam**
 - [IDE Plugins](https://gluonhq.com/get-started/ide-plugins/)
 **Ryan** 
-- [Text from Xcode](http://www.textfromxcode.com/)
+- [Text from Xcode](https://www.textfromxcode.com/)
 - [Twitter - Text from Xcode](https://twitter.com/textfromxcode)
-- [XChuck: My dad reads Xcode errors](http://errorchucking.tumblr.com/)
+- [XChuck: My dad reads Xcode errors](https://errorchucking.tumblr.com/)
 
 
 ### Transcript

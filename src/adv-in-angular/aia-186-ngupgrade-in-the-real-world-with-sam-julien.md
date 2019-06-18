@@ -56,7 +56,7 @@ In this episode of Adventures in Angular, the panel talks to Sam Julien about ng
 - [npm](https://www.npmjs.com/)
 - [Angular AOT mode](https://angular.io/guide/aot-compiler)
 - [@SamJulien](https://twitter.com/samjulien?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [SamJulien.com](http://www.samjulien.com/)
+- [SamJulien.com](https://www.samjulien.com/)
 - [@UpgradingAJS](https://twitter.com/UpgradingAJS)
 - [Upgrading AJS Medium](https://medium.com/@UpgradingAJS)
 - [Sam’s GitHub](https://github.com/samjulien')

@@ -15,78 +15,78 @@ tags:
 ### Panel
 
 - Guillermo Rauch ([twitter](https://twitter.com/rauchg)&nbsp;[github](https://github.com/guille))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:50 - Guillermo Introduction
 
 - [Cloudup](https://cloudup.com/)
-- [Node.js](http://nodejs.org/)
-- [Socket.IO](http://socket.io/)
-- [MooTools](http://mootools.net/)
+- [Node.js](https://nodejs.org/)
+- [Socket.IO](https://socket.io/)
+- [MooTools](https://mootools.net/)
 - [Valerio Proietti](https://twitter.com/kamicane)
-- [Symfony](http://symfony.com/)
-- [Automattic](http://automattic.com/)
+- [Symfony](https://symfony.com/)
+- [Automattic](https://automattic.com/)
 - [CloudApp](https://www.getcloudapp.com/)
   04:21 - Definition of Sockets
-- [AJAX [Wiki]](http://en.wikipedia.org/wiki/Ajax_%28programming%29)
+- [AJAX [Wiki]](https://en.wikipedia.org/wiki/Ajax_%28programming%29)
 - [Rhino](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino)
-- [APE (Ajax Push Engine)](http://ape-project.org/)
+- [APE (Ajax Push Engine)](https://ape-project.org/)
 - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
 - [node kernel](https://github.com/kodmunki/ku4node-kernel)
   10:46 - Features of Sockets
 - Base Protocols
-- [SPDY](http://www.chromium.org/spdy)
-- [WebSocket](http://www.websocket.org/)
+- [SPDY](https://www.chromium.org/spdy)
+- [WebSocket](https://www.websocket.org/)
   15:58 - Multiplexing 17:33 - Trade-Offs
 - Polling
 - [Joyent](https://www.joyent.com/)
   21:31 - Pushing Data
-- [Redis](http://redis.io/)
-- [MongoDB](http://www.mongodb.org/)
+- [Redis](https://redis.io/)
+- [MongoDB](https://www.mongodb.org/)
   24:09 - Managing Connections
 - Issues
-- [IRC [Wiki]](http://en.wikipedia.org/wiki/Internet_Relay_Chat)
-- [XMTP](http://www.xmtp.net/)
-- [Get Started Chat](http://socket.io/get-started/chat/)
-  28:48 - [Engine.io](http://www.engine.io/)
-- [JSON-P](http://json-p.org/)
-- [JSON](http://json.org/)
+- [IRC [Wiki]](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+- [XMTP](https://www.xmtp.net/)
+- [Get Started Chat](https://socket.io/get-started/chat/)
+  28:48 - [Engine.io](https://www.engine.io/)
+- [JSON-P](https://json-p.org/)
+- [JSON](https://json.org/)
   29:44 - Security Concerns 31:13 - Future of Socket.IO
-- [jQuery](http://jquery.com/)
+- [jQuery](https://jquery.com/)
   34:23 - Third-Party Providers
 - Data Synchronizations
-- [PubNub](http://www.pubnub.com/)
-- [PubNub Blog Post on Socket.IO](http://www.pubnub.com/blog/pubnub-takes-socketio-next-level/)
-- [Push](http://www.pushframework.com/)
-- [Pusher](http://pusher.com/)
+- [PubNub](https://www.pubnub.com/)
+- [PubNub Blog Post on Socket.IO](https://www.pubnub.com/blog/pubnub-takes-socketio-next-level/)
+- [Push](https://www.pushframework.com/)
+- [Pusher](https://pusher.com/)
 - [Firebase](https://www.firebase.com/)
-- [Combase](http://www.combase.cc/index.php/en/)
+- [Combase](https://www.combase.cc/index.php/en/)
 - [Swift](https://developer.apple.com/swift/)
   36:54 - Working with Front-end Frameworks
-- [Ember](http://emberjs.com/)
+- [Ember](https://emberjs.com/)
 - [Angular](https://angularjs.org/)
   39:03 - Scalability
-- [nginx](http://nginx.org/)
-- [zendesk](http://www.zendesk.com/)
-- [HAProxy](http://www.haproxy.org/)
+- [nginx](https://nginx.org/)
+- [zendesk](https://www.zendesk.com/)
+- [HAProxy](https://www.haproxy.org/)
 - [Heroku](https://www.heroku.com/)
 
 ### Picks
 
-- [SlideDeck](http://www.slidedeck.com/) (Jamison)
-- [Alma Madsen: Advanced CSS3 Techniques](http://almamadsen.com/decks/advanced-css3/#/step-35) (Jamison)
-- [[The New Yorker] Simon Rich: Sell Out: Part One](http://www.newyorker.com/humor/daily-shouts/sell-out-part-one) (Jamison)
+- [SlideDeck](https://www.slidedeck.com/) (Jamison)
+- [Alma Madsen: Advanced CSS3 Techniques](https://almamadsen.com/decks/advanced-css3/#/step-35) (Jamison)
+- [[The New Yorker] Simon Rich: Sell Out: Part One](https://www.newyorker.com/humor/daily-shouts/sell-out-part-one) (Jamison)
 - [Guillermo’s Blog - Need for Speed](https://cloudup.com/blog/the-need-for-speed) (Jamison)
 - [Cloudup](https://cloudup.com/blog/the-need-for-speed) (Jamison)
-- [QBQ! The Question Behind the Question: Practicing Personal Accountability at Work and in Life by John G. Miller](http://www.amazon.com/gp/product/0399152334/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0399152334&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [The Go-Getter: A Story That Tells You How To Be One by Peter B. Kyne](http://www.amazon.com/gp/product/1493680889/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1493680889&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Rhinoceros Success : the Secret to Charging Full Speed Toward Every Opportunity by Scott Alexander](http://www.amazon.com/gp/product/1937077152/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937077152&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [p5.js](http://p5js.org/) (Guillermo)
-- [Why JavaScript Is The Next (or first) Programming Language You Should Learn](http://dentedreality.com.au/2014/08/04/why-javascript-is-the-next-or-first-programming-language-you-should-learn/) (Guillermo)
-- [FishPlaysPokemon](http://www.twitch.tv/fishplayspokemon) (Guillermo)
+- [QBQ! The Question Behind the Question: Practicing Personal Accountability at Work and in Life by John G. Miller](https://www.amazon.com/gp/product/0399152334/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0399152334&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [The Go-Getter: A Story That Tells You How To Be One by Peter B. Kyne](https://www.amazon.com/gp/product/1493680889/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1493680889&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Rhinoceros Success : the Secret to Charging Full Speed Toward Every Opportunity by Scott Alexander](https://www.amazon.com/gp/product/1937077152/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937077152&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [p5.js](https://p5js.org/) (Guillermo)
+- [Why JavaScript Is The Next (or first) Programming Language You Should Learn](https://dentedreality.com.au/2014/08/04/why-javascript-is-the-next-or-first-programming-language-you-should-learn/) (Guillermo)
+- [FishPlaysPokemon](https://www.twitch.tv/fishplayspokemon) (Guillermo)
 
 ### Next Week
 

@@ -12,46 +12,46 @@ tags:
   - podcast
 ---
 
-### [Use this link and code JAVAJAB to get 20% off your registration for FluentConf 2013!](http://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo)
+### [Use this link and code JAVAJAB to get 20% off your registration for FluentConf 2013!](https://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo)
 
 ### Panel
 
-- Zachary Kessin ([twitter](https://twitter.com/zkessin) [github](https://github.com/zkessin/) [Mostly Erlang Podcast](http://mostlyerlang.wordpress.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
+- Zachary Kessin ([twitter](https://twitter.com/zkessin) [github](https://github.com/zkessin/) [Mostly Erlang Podcast](https://mostlyerlang.wordpress.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 00:55 - Zach Kessin Introduction
 
-- [Programming HTML5 Applications](http://shop.oreilly.com/product/0636920015116.do)
-- [Building Web Applications with Erlang](http://shop.oreilly.com/product/0636920021452.do)
+- [Programming HTML5 Applications](https://shop.oreilly.com/product/0636920015116.do)
+- [Building Web Applications with Erlang](https://shop.oreilly.com/product/0636920021452.do)
 - Product Structure
-- [Mostly Erlang Podcast](http://mostlyerlang.wordpress.com/)
+- [Mostly Erlang Podcast](https://mostlyerlang.wordpress.com/)
   03:01 - Functional Programming
-- [Haskell](http://www.haskell.org/haskellwiki/Haskell)
+- [Haskell](https://www.haskell.org/haskellwiki/Haskell)
 - [LISP](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>)
-- [Scheme](<http://en.wikipedia.org/wiki/Scheme_(programming_language)>)
-- [Erlang](http://www.erlang.org/)
-- [Underscore.js](http://underscorejs.org/)
-- [chain](http://underscorejs.org/#chain)
-  06:44 - [Monad](<http://en.wikipedia.org/wiki/Monad_(functional_programming)>)
+- [Scheme](<https://en.wikipedia.org/wiki/Scheme_(programming_language)>)
+- [Erlang](https://www.erlang.org/)
+- [Underscore.js](https://underscorejs.org/)
+- [chain](https://underscorejs.org/#chain)
+  06:44 - [Monad](<https://en.wikipedia.org/wiki/Monad_(functional_programming)>)
 - [q](https://github.com/kriskowal/q)
-- [Maybe monad](http://en.wikibooks.org/wiki/Haskell/Understanding_monads/Maybe)
+- [Maybe monad](https://en.wikibooks.org/wiki/Haskell/Understanding_monads/Maybe)
   11:33 - Functional Languages vs JavaScript
 - No side effects
   18:09 - Why Functional Programming?
-- [037 JSJ Promises with Dominic Denicola and Kris Kowal](http://javascriptjabber.com/037-jsj-promises-with-domenic-denicola-and-kris-kowal/)
+- [037 JSJ Promises with Dominic Denicola and Kris Kowal](https://javascriptjabber.com/037-jsj-promises-with-domenic-denicola-and-kris-kowal/)
 - Higher order functions
-- [Ext JS](http://www.sencha.com/products/extjs)
-  24:35 - [Tail_call](http://en.wikipedia.org/wiki/Tail_call)
+- [Ext JS](https://www.sencha.com/products/extjs)
+  24:35 - [Tail_call](https://en.wikipedia.org/wiki/Tail_call)
 - Recursion
 - cdr
 - car
-- [044 JSJ Book Club: Effective JavaScript with David Herman](http://javascriptjabber.com/044-jsj-book-club-effective-javascript-with-david-herman/)
+- [044 JSJ Book Club: Effective JavaScript with David Herman](https://javascriptjabber.com/044-jsj-book-club-effective-javascript-with-david-herman/)
   32:54 - Programming Languages
-- [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers) by Bruce Tate](http://www.amazon.com/gp/product/193435659X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=193435659X&linkCode=as2&tag=chamaxwoo-20)
+- [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers) by Bruce Tate](https://www.amazon.com/gp/product/193435659X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=193435659X&linkCode=as2&tag=chamaxwoo-20)
   33:38 - Functional Programming Libraries
 - [valentine](https://github.com/ded/valentine)
 - [Maybe.coffee](https://gist.github.com/zkessin/4952326)
@@ -61,15 +61,15 @@ tags:
 
 ### Picks
 
-- [Vi Hart on Normalcy of Pi](http://www.youtube.com/watch?v=uXoh6vi6J5U) (Jamison)
-- [Sport Balls Replaced With Cats](http://sportballsreplacedwithcats.tumblr.com/) (Jamison)
+- [Vi Hart on Normalcy of Pi](https://www.youtube.com/watch?v=uXoh6vi6J5U) (Jamison)
+- [Sport Balls Replaced With Cats](https://sportballsreplacedwithcats.tumblr.com/) (Jamison)
 - [JavaScript Allongé by Reginald Braithwaite](https://leanpub.com/javascript-allonge) (Merrick)
-- [BonsaiJS](http://bonsaijs.org/) (Merrick)
-- [Wringing out Water on the ISS - for Science!](http://www.youtube.com/watch?v=o8TssbmY-GM) (Chuck)
-- [RequireJS](http://requirejs.org/) (Chuck)
-- [Mostly Erlang](http://mostlyerlang.wordpress.com/) (Zach)
+- [BonsaiJS](https://bonsaijs.org/) (Merrick)
+- [Wringing out Water on the ISS - for Science!](https://www.youtube.com/watch?v=o8TssbmY-GM) (Chuck)
+- [RequireJS](https://requirejs.org/) (Chuck)
+- [Mostly Erlang](https://mostlyerlang.wordpress.com/) (Zach)
 - Boston PD (Zach)
-- [Iron Dome](http://www.youtube.com/watch?v=o8qHW0RP-Vc) (Zach)
+- [Iron Dome](https://www.youtube.com/watch?v=o8qHW0RP-Vc) (Zach)
 
 ### Next Week
 

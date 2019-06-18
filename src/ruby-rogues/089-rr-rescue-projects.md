@@ -14,13 +14,13 @@ tags:
 
 01:05 - Podcast Awards Results
 
-- [The Audacity to Podcast](http://theaudacitytopodcast.com/)
+- [The Audacity to Podcast](https://theaudacitytopodcast.com/)
   02:33 - Best Ruby Rogues Episode of 2012 Results
-- 1. [069 RR Therapeutic Refactoring with Katrina Owen](http://rubyrogues.com/069-rr-therapeutic-refactoring-with-katrina-owen/)
-- 2. [067 RR Gary Bernhardt’s Testing Style](http://rubyrogues.com/067-rr-gary-bernhardts-testing-style/)
-- 3. [049 RR Agile Communication with Angela Harms](http://rubyrogues.com/049-rr-agile-communication-with-angela-harms/)
+- 1. [069 RR Therapeutic Refactoring with Katrina Owen](https://rubyrogues.com/069-rr-therapeutic-refactoring-with-katrina-owen/)
+- 2. [067 RR Gary Bernhardt’s Testing Style](https://rubyrogues.com/067-rr-gary-bernhardts-testing-style/)
+- 3. [049 RR Agile Communication with Angela Harms](https://rubyrogues.com/049-rr-agile-communication-with-angela-harms/)
      03:49 - Rescue Projects
-- [Twitter brings in big guns from Pivotal Labs to help rebuild it’s troubled infrastructure](http://venturebeat.com/2008/06/12/messaging-service-twitter-hires-top-developer-firm-pivotal-labs-to-help-rebuild-its-software-architecture/)
+- [Twitter brings in big guns from Pivotal Labs to help rebuild it’s troubled infrastructure](https://venturebeat.com/2008/06/12/messaging-service-twitter-hires-top-developer-firm-pivotal-labs-to-help-rebuild-its-software-architecture/)
 - Process vs Code Quality
 - Rails and Rescue Projects
   08:50 - Things that need Rescued
@@ -35,15 +35,15 @@ tags:
   13:18 - The Panic Factor 14:23 - Legacy Code
 -
 
-[Aloha Ruby Conf 2012: Legacy by Chad Fowler](http://www.confreaks.com/videos/1240-aloharuby2012-legacy)
+[Aloha Ruby Conf 2012: Legacy by Chad Fowler](https://www.confreaks.com/videos/1240-aloharuby2012-legacy)
 17:28 - Fresh Attitude/Perspective
 
-- [“The Omega Mess” (Go Ahead, Make a Mess: Sandi Metz)](http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
+- [“The Omega Mess” (Go Ahead, Make a Mess: Sandi Metz)](https://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
   24:53 - The Big Rewrite
-- [Songkick:The path to SOA](http://www.songkick.com/devblog/2012/09/06/the-path-to-soa/)
+- [Songkick:The path to SOA](https://www.songkick.com/devblog/2012/09/06/the-path-to-soa/)
 -
 
-[Working Effectively with Legacy Code by Michael Feathers](http://www.amazon.com/gp/product/0131177052/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0131177052)
+[Working Effectively with Legacy Code by Michael Feathers](https://www.amazon.com/gp/product/0131177052/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0131177052)
 30:47 - Josh’s 4-Step Plan for how to do a Rescue Project
 
 - 1. Stop Making Things Worse
@@ -53,14 +53,14 @@ tags:
      37:32 - The One Big Issue 40:49 - Psychological Aspects
 - Blame/Guilt Cycle
 - Team Structure
-- [The Insufficiency of Good Design: Sarah Mei](http://www.confreaks.com/videos/1304-rubyconf2012-the-insufficiency-of-good-design)
+- [The Insufficiency of Good Design: Sarah Mei](https://www.confreaks.com/videos/1304-rubyconf2012-the-insufficiency-of-good-design)
 - Pairing
   46:47 - Depression, Frustration & Trust
 - Taking Breaks
 
 ### Book Club
 
-[Patterns of Enterprise Application Architecture by Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420)
+[Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420)
 
 ### Next Week
 

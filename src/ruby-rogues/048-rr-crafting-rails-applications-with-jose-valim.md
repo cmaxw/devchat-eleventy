@@ -14,59 +14,59 @@ tags:
 
 01:35 - José Valim from Plataforma
 
-- Author of [Crafting Rails Applications](http://www.amazon.com/gp/product/1934356735/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1934356735)
-- Writing the&nbsp;[Elixir](http://elixir-lang.org/) Language
+- Author of [Crafting Rails Applications](https://www.amazon.com/gp/product/1934356735/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1934356735)
+- Writing the&nbsp;[Elixir](https://elixir-lang.org/) Language
 - Why He Wrote the Book:
-- [Google Summer of Code](http://code.google.com/soc/)
-  - [Yehuda Katz](http://yehudakatz.com/)
+- [Google Summer of Code](https://code.google.com/soc/)
+  - [Yehuda Katz](https://yehudakatz.com/)
   - Authorship Driven Development
   - Book-driven Development (BDD)
   - Test-driven Examples/Development - Example: How to Implement [ActiveModel](https://github.com/rails/rails/tree/master/activemodel) - [Cucumber](https://cukes.info/)
     13:11 - Practical Examples/Topics in the Book
 - Email Forms
-- [Honeypot](http://en.wikipedia.org/wiki/Honeypot_%28computing%29)
-- [Markdown](http://en.wikipedia.org/wiki/Markdown)
+- [Honeypot](https://en.wikipedia.org/wiki/Honeypot_%28computing%29)
+- [Markdown](https://en.wikipedia.org/wiki/Markdown)
 - Engines
-- [ORMs](http://en.wikipedia.org/wiki/Object-relational_mapping)
+- [ORMs](https://en.wikipedia.org/wiki/Object-relational_mapping)
 - Left Out of the Book:
-  - [AbstractController](http://static.springsource.org/spring/docs/2.5.x/api/org/springframework/web/servlet/mvc/AbstractController.html)
-  - [ActionController](http://api.rubyonrails.org/classes/ActionController/Base.html) & [Action Mailer](http://guides.rubyonrails.org/action_mailer_basics.html)
+  - [AbstractController](https://static.springsource.org/spring/docs/2.5.x/api/org/springframework/web/servlet/mvc/AbstractController.html)
+  - [ActionController](https://api.rubyonrails.org/classes/ActionController/Base.html) & [Action Mailer](https://guides.rubyonrails.org/action_mailer_basics.html)
     15:50 - Way of Building Chapters/Topics
 - Generators
 - [Railties](https://gist.github.com/rails/rails/tree/master/railties)
 - Extension Points in Rails
-  20:15 - Addressing [Object-Oriented Design](http://en.wikipedia.org/wiki/Object-oriented_design) in the Book
-- [Yehuda Katz](http://yehudakatz.com/) did Resolvers (& [Carl Lerche](http://contributors.rubyonrails.org/contributors/carl-lerche/commits))
-- [Liquid](http://liquidmarkup.org/)
-  22:12 - José’s Talk at [RailsConf](http://railsconf2012.com/)
+  20:15 - Addressing [Object-Oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design) in the Book
+- [Yehuda Katz](https://yehudakatz.com/) did Resolvers (& [Carl Lerche](https://contributors.rubyonrails.org/contributors/carl-lerche/commits))
+- [Liquid](https://liquidmarkup.org/)
+  22:12 - José’s Talk at [RailsConf](https://railsconf2012.com/)
 - Rails 3.1
-- [Sinatra](http://www.airpair.com/ruby-on-rails/posts/rails-vs-sinatra) Controllers
+- [Sinatra](https://www.airpair.com/ruby-on-rails/posts/rails-vs-sinatra) Controllers
   23:52 - Engines & Testing
-- [Enginex](http://rubygems.org/gems/enginex)
+- [Enginex](https://rubygems.org/gems/enginex)
 - Merged into Rails 3.1
-- [Piotr Solnica](http://solnic.eu/)
-- [Combustion](http://rubygems.org/gems/combustion)
+- [Piotr Solnica](https://solnic.eu/)
+- [Combustion](https://rubygems.org/gems/combustion)
   31:55 - Ease of Learning/Using Rails
-- [RVM](http://devchat.tv/ruby-rogues/rvm.beginrescueend.com)
-- [Bundler](http://gembundler.com/)
+- [RVM](https://devchat.tv/ruby-rogues/rvm.beginrescueend.com)
+- [Bundler](https://gembundler.com/)
 - [José's example of loading a Rails application in one file.](https://gist.github.com/1942658)
   35:00 - Features/Longevity of Rails/API
-- [Rack](http://rubygems.org/gems/rack)/Responders
-- [Middleware](http://en.wikipedia.org/wiki/Middleware)
+- [Rack](https://rubygems.org/gems/rack)/Responders
+- [Middleware](https://en.wikipedia.org/wiki/Middleware)
 - [Aaron Patterson](https://github.com/tenderlove)
   42:38 - Rules Addressed in the Book
-- [Sinatra](http://www.sinatrarb.com/) vs [Railtie](http://edgeapi.rubyonrails.org/classes/Rails/Railtie.html) vs Engine
+- [Sinatra](https://www.sinatrarb.com/) vs [Railtie](https://edgeapi.rubyonrails.org/classes/Rails/Railtie.html) vs Engine
   44:41 - Updating the Book?
 - Rails 3.1 / Engines
-- [Active Relation](http://api.rubyonrails.org/classes/ActiveRecord/Relation.html)
-- [ActiveResource](http://rubygems.org/gems/activeresource)
+- [Active Relation](https://api.rubyonrails.org/classes/ActiveRecord/Relation.html)
+- [ActiveResource](https://rubygems.org/gems/activeresource)
   46:18 - Asset Pipeline
-- [Tilt](http://rubygems.org/gems/tilt)
+- [Tilt](https://rubygems.org/gems/tilt)
   49:10 - José's Involvement in Rails Core 52:36 - José's Open Source Projects
-- [Devise](http://rubygems.org/gems/devise)
-- [Simpleform](http://rubygems.org/gems/simple_form)
-- [Elixir](http://elixir-lang.org/)
-- [Erlang Virtual Machine](http://www.erlang.org/faq/implementations.html)
+- [Devise](https://rubygems.org/gems/devise)
+- [Simpleform](https://rubygems.org/gems/simple_form)
+- [Elixir](https://elixir-lang.org/)
+- [Erlang Virtual Machine](https://www.erlang.org/faq/implementations.html)
 
 ### Transcript
 

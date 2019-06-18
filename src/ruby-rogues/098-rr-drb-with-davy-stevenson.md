@@ -14,8 +14,8 @@ tags:
 
 01:02 - Davy Stevenson Introduction
 
-- [Elemental Technologies](http://www.elementaltechnologies.com/)
-- [DRb vs RabbitMQ Showdown - Davy Stevenson - Ruby Conference 2012](http://confreaks.com/videos/1293-rubyconf2012-drb-vs-rabbitmq-showdown)
+- [Elemental Technologies](https://www.elementaltechnologies.com/)
+- [DRb vs RabbitMQ Showdown - Davy Stevenson - Ruby Conference 2012](https://confreaks.com/videos/1293-rubyconf2012-drb-vs-rabbitmq-showdown)
 
 03:29 - dRuby
 
@@ -28,19 +28,19 @@ tags:
 
 10:28 - Distributed Objects
 
-- [097 RR Book Club: Patterns of Enterprise Architecture with Martin Fowler](http://rubyrogues.com/097-rr-book-club-patterns-of-enterprise-architecture-with-martin-fowler/)
+- [097 RR Book Club: Patterns of Enterprise Architecture with Martin Fowler](https://rubyrogues.com/097-rr-book-club-patterns-of-enterprise-architecture-with-martin-fowler/)
 - Signaling Mechanism
-- [GOOS: Growing Object-Oriented Software by Steve Freeman and Nat Pryce](http://www.growing-object-oriented-software.com/)
+- [GOOS: Growing Object-Oriented Software by Steve Freeman and Nat Pryce](https://www.growing-object-oriented-software.com/)
 
 17:22 - Passing data through DRb
 
 - Calling Methods
 - Daemon Process
 
-20:58 - [RabbitMQ](http://en.wikipedia.org/wiki/RabbitMQ)
+20:58 - [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ)
 
-- [Rinda](<http://en.wikipedia.org/wiki/Rinda_(Ruby_programming_language)>) and Rinda::Ring
-- [Class: Ring::RingFinger (Ruby 1.9.3)](http://www.ruby-doc.org/stdlib-1.9.3/libdoc/rinda/rdoc/Rinda/RingFinger.html)
+- [Rinda](<https://en.wikipedia.org/wiki/Rinda_(Ruby_programming_language)>) and Rinda::Ring
+- [Class: Ring::RingFinger (Ruby 1.9.3)](https://www.ruby-doc.org/stdlib-1.9.3/libdoc/rinda/rdoc/Rinda/RingFinger.html)
 
 25:50 - Reliability
 
@@ -54,19 +54,19 @@ tags:
 38:23 - DRb Magic
 
 - Marshalling
-- [Remote Facade Pattern](http://martinfowler.com/eaaCatalog/remoteFacade.html)
+- [Remote Facade Pattern](https://martinfowler.com/eaaCatalog/remoteFacade.html)
 
 45:13 - Getting started with DRb
 
 - [seki / Drip](https://github.com/seki/Drip)
-- [The dRuby Book: Distributed and Parallel Computing with Ruby by Masatoshi Seki (Translated by Makoto Inoue)](http://pragprog.com/book/sidruby/the-druby-book)
-- [Distributed Programming with Ruby by Mark Bates](http://metabates.com/books.html)
+- [The dRuby Book: Distributed and Parallel Computing with Ruby by Masatoshi Seki (Translated by Makoto Inoue)](https://pragprog.com/book/sidruby/the-druby-book)
+- [Distributed Programming with Ruby by Mark Bates](https://metabates.com/books.html)
 
 48:13 - DRb Use
 
 ### Book Club
 
-[The Rails View by John Athayde and Bruce Williams](http://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20): Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
+[The Rails View by John Athayde and Bruce Williams](https://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20): Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
 
 ### Next Week
 

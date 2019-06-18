@@ -16,9 +16,9 @@ tags:
 
 - [Twitter](https://twitter.com/robwalling)
 - [GitHub](https://github.com/rwalling)
-- [Blog](http://www.softwarebyrob.com/)
-- [Startups For the Rest of Us](http://www.startupsfortherestofus.com/)
-- [MicroConf](http://www.microconf.com/)
+- [Blog](https://www.softwarebyrob.com/)
+- [Startups For the Rest of Us](https://www.startupsfortherestofus.com/)
+- [MicroConf](https://www.microconf.com/)
   - [@MicroConf](https://twitter.com/MicroConf)
 - [Drip](https://www.getdrip.com/)
   - [@getdrip](https://twitter.com/getdrip)
@@ -44,24 +44,24 @@ tags:
 - Email Capture Forms Everywhere
 - Autoresponders
 - Lead Scoring
-  - [Eric's Mailing List](http://www.littlestreamsoftware.com/)
+  - [Eric's Mailing List](https://www.littlestreamsoftware.com/)
 
 25:58 - Frequency and Growing Your List
 
-- [Patrick Mckenzie](http://www.kalzumeus.com/)
-- [Software by Rob](http://www.softwarebyrob.com/)
-- [James Clear](http://jamesclear.com/)
+- [Patrick Mckenzie](https://www.kalzumeus.com/)
+- [Software by Rob](https://www.softwarebyrob.com/)
+- [James Clear](https://jamesclear.com/)
 
 29:01 - Exclusivity
 
 - Permalinking
-  - [Nick Disabato](http://nickd.org/)[P](http://nickd.org/)
-- [Public, But Not Visible](http://nickd.org/)
-- [Social Shares](http://nickd.org/)
+  - [Nick Disabato](https://nickd.org/)[P](https://nickd.org/)
+- [Public, But Not Visible](https://nickd.org/)
+- [Social Shares](https://nickd.org/)
 
 35:20 - Updating Content
 
-- [Michael Port](http://www.michaelport.com/)
+- [Michael Port](https://www.michaelport.com/)
 
 40:06 - Vanity Metrics
 
@@ -74,7 +74,7 @@ tags:
 - [Clay Collins](https://twitter.com/claycollins)
   Picks
 
-[Saas Marketing Essentials by Ryan Battles](https://ryanbattles.com/saas-marketing-essentials) (Rob)[Bloxels](https://www.kickstarter.com/projects/pixelpress/bloxels-build-your-own-video-games-with-blocks)[: Build Your Own Video Games with Blocks by Pixel Press](https://www.kickstarter.com/projects/pixelpress/bloxels-build-your-own-video-games-with-blocks) (Rob)[Circa Notebooks from Levenger](http://www.levenger.com/circa-notebooks-339.aspx) (Jonathan)[Book Yourself Solid: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port](http://www.amazon.com/Book-Yourself-Solid-Reliable-Marketing/dp/0470643471/ref=asap_bc?ie=UTF8) (Jonathan)[Content marketing isn’t the dirty word you think it is](https://pjrvs.com/a/content) (Eric)[LEGO Mindstorms](http://www.amazon.com/gp/product/B00CWER3XY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CWER3XY&linkCode=as2&tag=chamaxwoo-20&linkId=6M6BDYMBRVDLWCY5) (Reuven)[Brixton Brothers Books](http://www.amazon.com/gp/product/1442498188/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1442498188&linkCode=as2&tag=chamaxwoo-20&linkId=GHXFE3NT6GX6JO5A) (Reuven)[Pleco](https://www.pleco.com/) (Reuven)
+[Saas Marketing Essentials by Ryan Battles](https://ryanbattles.com/saas-marketing-essentials) (Rob)[Bloxels](https://www.kickstarter.com/projects/pixelpress/bloxels-build-your-own-video-games-with-blocks)[: Build Your Own Video Games with Blocks by Pixel Press](https://www.kickstarter.com/projects/pixelpress/bloxels-build-your-own-video-games-with-blocks) (Rob)[Circa Notebooks from Levenger](https://www.levenger.com/circa-notebooks-339.aspx) (Jonathan)[Book Yourself Solid: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port](https://www.amazon.com/Book-Yourself-Solid-Reliable-Marketing/dp/0470643471/ref=asap_bc?ie=UTF8) (Jonathan)[Content marketing isn’t the dirty word you think it is](https://pjrvs.com/a/content) (Eric)[LEGO Mindstorms](https://www.amazon.com/gp/product/B00CWER3XY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CWER3XY&linkCode=as2&tag=chamaxwoo-20&linkId=6M6BDYMBRVDLWCY5) (Reuven)[Brixton Brothers Books](https://www.amazon.com/gp/product/1442498188/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1442498188&linkCode=as2&tag=chamaxwoo-20&linkId=GHXFE3NT6GX6JO5A) (Reuven)[Pleco](https://www.pleco.com/) (Reuven)
 
 ### Transcript
 

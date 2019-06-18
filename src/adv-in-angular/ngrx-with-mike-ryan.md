@@ -30,11 +30,11 @@ RxJS defines&nbsp;operators and provides a domain that specifically works with o
 
 ## Picks:
 
-Alyssa: [NG Conf 2017](https://www.ng-conf.org/)Ward: NGRx Charles: Newly built desktop machine running Windows 10, [Pamela](http://www.pamela.biz/), and&nbsp;[movavi](https://www.movavi.com/?gclid=Cj0KEQjw5YfHBRDzjNnioYq3_swBEiQArj4pdFABcA-5dmuUTh0eh09Uqufp5Gc4gOVvI-asggTmBikaAvfB8P8HAQ)Mike:[NGx charts](https://github.com/swimlane/ngx-charts) and [Angular&nbsp;CLI](https://cli.angular.io/)
+Alyssa: [NG Conf 2017](https://www.ng-conf.org/)Ward: NGRx Charles: Newly built desktop machine running Windows 10, [Pamela](https://www.pamela.biz/), and&nbsp;[movavi](https://www.movavi.com/?gclid=Cj0KEQjw5YfHBRDzjNnioYq3_swBEiQArj4pdFABcA-5dmuUTh0eh09Uqufp5Gc4gOVvI-asggTmBikaAvfB8P8HAQ)Mike:[NGx charts](https://github.com/swimlane/ngx-charts) and [Angular&nbsp;CLI](https://cli.angular.io/)
 
 ## Episode Links:
 
-[NGRx](http://ngrx.github.io/),&nbsp;Reactive Programming,&nbsp;React,&nbsp;RxJS,&nbsp;RxJS Operators,&nbsp;Redux,&nbsp;NGRx/store,&nbsp;Flux,&nbsp;NGRx/effects,&nbsp;NGRx/router-store
+[NGRx](https://ngrx.github.io/),&nbsp;Reactive Programming,&nbsp;React,&nbsp;RxJS,&nbsp;RxJS Operators,&nbsp;Redux,&nbsp;NGRx/store,&nbsp;Flux,&nbsp;NGRx/effects,&nbsp;NGRx/router-store
 
 ### Transcript
 

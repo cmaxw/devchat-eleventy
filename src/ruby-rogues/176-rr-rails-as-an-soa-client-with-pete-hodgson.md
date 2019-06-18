@@ -12,26 +12,26 @@ tags:
   - podcast
 ---
 
-## Check out the [Code Newbie Podcast](http://www.codenewbie.org/) brought to you and hosted by our own, Saron Yitbarek!
+## Check out the [Code Newbie Podcast](https://www.codenewbie.org/) brought to you and hosted by our own, Saron Yitbarek!
 
 03:02 - Pete Hodgson Introduction
 
-- [ThoughtWorks](http://www.thoughtworks.com/)
-- [Martin Fowler](http://en.wikipedia.org/wiki/Martin_Fowler)
-- [The iPhreaks Show](http://iphreaksshow.com/)
-  03:48 - [Pete Hodgson: Rails as an SOA Client](http://www.confreaks.com/videos/3347-railsconf-rails-as-an-soa-client)
+- [ThoughtWorks](https://www.thoughtworks.com/)
+- [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler)
+- [The iPhreaks Show](https://iphreaksshow.com/)
+  03:48 - [Pete Hodgson: Rails as an SOA Client](https://www.confreaks.com/videos/3347-railsconf-rails-as-an-soa-client)
 - [[Slides] Pete Hodgson: Rails as an SOA Client](https://speakerdeck.com/phodgson/railsconf2014)
-  05:27 - [Conway’s Law](http://en.wikipedia.org/wiki/Conway's_law) and [Service-Oriented Architecture (SOA)](http://en.wikipedia.org/wiki/Service-oriented_architecture)
+  05:27 - [Conway’s Law](https://en.wikipedia.org/wiki/Conway's_law) and [Service-Oriented Architecture (SOA)](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 - Team Boundaries
 - Testing Boundaries Between Teams
 - The Shape of an Organization
 - How the Shape of an Architecture Can Play Together or Interfere with Each Other
-- [Codependence](http://en.wikipedia.org/wiki/Codependency) vs [Independence](http://en.wikipedia.org/wiki/Independence)
-- [Decoupling](http://en.wikipedia.org/wiki/Decoupling) of Teams
+- [Codependence](https://en.wikipedia.org/wiki/Codependency) vs [Independence](https://en.wikipedia.org/wiki/Independence)
+- [Decoupling](https://en.wikipedia.org/wiki/Decoupling) of Teams
   14:03 - Faking Out Services / Contract Tests
-- [Martin Fowler: Consumer-Driven Contracts: A Service Evolution Pattern](http://martinfowler.com/articles/consumerDrivenContracts.html)
+- [Martin Fowler: Consumer-Driven Contracts: A Service Evolution Pattern](https://martinfowler.com/articles/consumerDrivenContracts.html)
 - Maintaining the Fakes
-- [Shim](<http://en.wikipedia.org/wiki/Shim_(computing)>)
+- [Shim](<https://en.wikipedia.org/wiki/Shim_(computing)>)
 - Gems
   - [pact](https://rubygems.org/gems/pact)
   - [pacto](https://rubygems.org/gems/pacto)
@@ -40,33 +40,33 @@ tags:
 - In-process vs Out of Process
 - Facilitating Communication Between Teams
   - Diversity
-  - [Algorithmic Efficiency](http://en.wikipedia.org/wiki/Algorithmic_efficiency)
-- [Continuous Delivery](http://en.wikipedia.org/wiki/Continuous_delivery)
-  - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble](http://www.amazon.com/gp/product/0321601912/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321601912&linkCode=as2&tag=chamaxwoo-20&linkId=4NSKQ2TXFVBZEOIM)
+  - [Algorithmic Efficiency](https://en.wikipedia.org/wiki/Algorithmic_efficiency)
+- [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery)
+  - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble](https://www.amazon.com/gp/product/0321601912/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321601912&linkCode=as2&tag=chamaxwoo-20&linkId=4NSKQ2TXFVBZEOIM)
     29:04 - [faraday](https://github.com/lostisland/faraday)
-- [rack](http://rack.github.io/)
-- [middleware](http://en.wikipedia.org/wiki/Middleware) - (i.e: lenses / filters)
+- [rack](https://rack.github.io/)
+- [middleware](https://en.wikipedia.org/wiki/Middleware) - (i.e: lenses / filters)
   32:47 - [faraday](https://github.com/lostisland/faraday) and SOA
 - Hexagonal Architecture
 - Service Gateways
   - Testing in Isolation
 - Staging Environment
 - Shared Dev Environments
-  40:41 - [Feature Flags (aka Feature Toggles)](http://en.wikipedia.org/wiki/Feature_toggle)
+  40:41 - [Feature Flags (aka Feature Toggles)](https://en.wikipedia.org/wiki/Feature_toggle)
 - Extreme Deployment
-  - [Ruby Rogues Episode #172: Extreme Deployment with Badri Janakiraman and Florian Motlik](http://rubyrogues.com/172-rr-extreme-deployment-with-badri-janakiraman-and-florian-motlik/)
-    44:15 - [Caching](<http://en.wikipedia.org/wiki/Cache_(computing)>)
+  - [Ruby Rogues Episode #172: Extreme Deployment with Badri Janakiraman and Florian Motlik](https://rubyrogues.com/172-rr-extreme-deployment-with-badri-janakiraman-and-florian-motlik/)
+    44:15 - [Caching](<https://en.wikipedia.org/wiki/Cache_(computing)>)
 - Segmentation by Freshness
 
-## [Join Chuck and the rest of The Freelancers’ Show panelists on October 7th for a LIVE Q&A](http://freelancersanswers.com/)
+## [Join Chuck and the rest of The Freelancers’ Show panelists on October 7th for a LIVE Q&A](https://freelancersanswers.com/)
 
 ## [Subscribe to Avdi’s RubyTapas!](https://rubytapas.dpdcart.com/subscriber/add?plan_id=10&plan_term_id=17)
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

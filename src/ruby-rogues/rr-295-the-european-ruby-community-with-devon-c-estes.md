@@ -30,10 +30,10 @@ The biggest difference Devon saw in terms of programming is around RAILS. In the
 
 ## **Picks:**
 
-Jason: [Do What You Love and Other Lies About Success and Happiness](https://www.amazon.com/Do-What-You-Love-Happiness/dp/1941393470)&nbsp;and&nbsp;[Free Training on Ruby and Rails](https://www.angularonrails.com/)&nbsp;Jerome: [Thank You Economy by Gary Vaynerchuck](https://www.amazon.com/Thank-You-Economy-Gary-Vaynerchuk/dp/0061914185), [Tools of the Titans by Tim Ferriss](https://toolsoftitans.com/), and [Digital Ocean](https://www.digitalocean.com/)Brian: [Driven to Distraction at Work by Edward M. Hallowell, MD](https://www.amazon.com/Driven-Distraction-Work-Focus-Productive/dp/1511392509)&nbsp;and&nbsp;[vimwiki](http://vimawesome.com/plugin/vimwiki)Charles: [Devops Remote Conference 2017](https://devchat.tv/conferences/devops-remote-conf-2017)&nbsp;and&nbsp;[Shure SM 58 Microphone](http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone)Devon: [Honeypot](https://www.honeypot.io/), [Freakonomics Podcast](http://freakonomics.com/), and Crato (Code consistency)
+Jason: [Do What You Love and Other Lies About Success and Happiness](https://www.amazon.com/Do-What-You-Love-Happiness/dp/1941393470)&nbsp;and&nbsp;[Free Training on Ruby and Rails](https://www.angularonrails.com/)&nbsp;Jerome: [Thank You Economy by Gary Vaynerchuck](https://www.amazon.com/Thank-You-Economy-Gary-Vaynerchuk/dp/0061914185), [Tools of the Titans by Tim Ferriss](https://toolsoftitans.com/), and [Digital Ocean](https://www.digitalocean.com/)Brian: [Driven to Distraction at Work by Edward M. Hallowell, MD](https://www.amazon.com/Driven-Distraction-Work-Focus-Productive/dp/1511392509)&nbsp;and&nbsp;[vimwiki](https://vimawesome.com/plugin/vimwiki)Charles: [Devops Remote Conference 2017](https://devchat.tv/conferences/devops-remote-conf-2017)&nbsp;and&nbsp;[Shure SM 58 Microphone](https://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone)Devon: [Honeypot](https://www.honeypot.io/), [Freakonomics Podcast](https://freakonomics.com/), and Crato (Code consistency)
 
 ## **Links:**
 
-[Hanami](http://hanamirb.org/blog/2016/01/22/lotus-is-now-hanami.html)
+[Hanami](https://hanamirb.org/blog/2016/01/22/lotus-is-now-hanami.html)
 
 ### Transcript

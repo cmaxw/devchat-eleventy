@@ -18,59 +18,59 @@ Check out [<u>JS Remote Conf</u>](https://jsremoteconf.com/)
 
 - [<u>Twitter</u>](https://twitter.com/josephgentle)
 - [<u>GitHub</u>](https://github.com/josephg)
-- [<u>Blog</u>](http://josephg.com/blog/)
+- [<u>Blog</u>](https://josephg.com/blog/)
 - [<u>Lever</u>](https://lever.co/)
-- [<u>Spatch</u>](http://spatch.co/)
+- [<u>Spatch</u>](https://spatch.co/)
 
-02:45 - [<u>Google Wave</u>](http://en.wikipedia.org/wiki/Apache_Wave)
+02:45 - [<u>Google Wave</u>](https://en.wikipedia.org/wiki/Apache_Wave)
 
-07:31 - [<u>ShareJS</u>](http://sharejs.org/) & Google Wave
+07:31 - [<u>ShareJS</u>](https://sharejs.org/) & Google Wave
 
-09:34 - [<u>Operation Transform (OT)</u>](http://en.wikipedia.org/wiki/Operational_transformation)
+09:34 - [<u>Operation Transform (OT)</u>](https://en.wikipedia.org/wiki/Operational_transformation)
 
-- [<u>Federation</u>](http://www.techopedia.com/definition/2500/federation)
+- [<u>Federation</u>](https://www.techopedia.com/definition/2500/federation)
 - Merging Algorithms
 
-17:07 - Distributed Systems and [<u>Conflict-free Replicated Data Types (CRDTs)</u>](http://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+17:07 - Distributed Systems and [<u>Conflict-free Replicated Data Types (CRDTs)</u>](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
 19:40 - Shared Updates in Relation to [<u>Bitcoin</u>](https://bitcoin.org/)
 
-- [<u>Bitmessage</u>](http://bitmessage.org/) (The Bitcoin-like Message System)
+- [<u>Bitmessage</u>](https://bitmessage.org/) (The Bitcoin-like Message System)
 
 22:44 - Collaboration
 
 - [<u>io.js</u>](https://iojs.org/)
 
-26:49 - [<u>Federation</u>](http://www.techopedia.com/definition/2500/federation) (Cont’d)
+26:49 - [<u>Federation</u>](https://www.techopedia.com/definition/2500/federation) (Cont’d)
 
 34:33 - How ShareJS Works
 
-40:07 - Rich Text Editing Using [<u>Quilljs</u>](http://quilljs.com/)
+40:07 - Rich Text Editing Using [<u>Quilljs</u>](https://quilljs.com/)
 
 - [<u>Jason Chen</u>](https://twitter.com/jhchen)
-- [<u>JavaScript Jabber Episode #134: Quilljs with Jason Chen</u>](http://devchat.tv/js-jabber/134-jsj-quilljs-with-jason-chen)
+- [<u>JavaScript Jabber Episode #134: Quilljs with Jason Chen</u>](https://devchat.tv/js-jabber/134-jsj-quilljs-with-jason-chen)
 
 41:56 - Contributing to ShareJS
 
-42:26 - [<u>Spatch</u>](http://spatch.co/) is Hiring! Email [<u>josephg@gmail.com</u>](mailto:josephg@gmail.com)
+42:26 - [<u>Spatch</u>](https://spatch.co/) is Hiring! Email [<u>josephg@gmail.com</u>](mailto:josephg@gmail.com)
 
 43:00 - How ShareJS Works on the Backend
 
-- [<u>MongoDB</u>](http://www.mongodb.org/)
-- [<u>Redis</u>](http://redis.io/)
-- [<u>ottypes</u>](http://github.com/ottypes)
+- [<u>MongoDB</u>](https://www.mongodb.org/)
+- [<u>Redis</u>](https://redis.io/)
+- [<u>ottypes</u>](https://github.com/ottypes)
 - “Intent Preservation”
 
 47:17 - Applications Built with ShareJS
 
 - [<u>Lever</u>](https://lever.co/)
   - [<u>Nate Smith</u>](https://twitter.com/nateps)
-  - [<u>DerbyJS</u>](http://derbyjs.com/)
+  - [<u>DerbyJS</u>](https://derbyjs.com/)
 - [<u>Rizzoma</u>](https://rizzoma.com/)
 
 50:54 - Potential Projects Using ShareJS
 
-- [<u>Progressive Enhancement</u>](http://en.wikipedia.org/wiki/Progressive_enhancement)
+- [<u>Progressive Enhancement</u>](https://en.wikipedia.org/wiki/Progressive_enhancement)
 - “Spatch” =\> Short for “Dispatch”
 - Notifications
 - Semantic Version Control

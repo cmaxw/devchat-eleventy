@@ -45,7 +45,7 @@ Jonathan Stark
 
 - [Chris Do of Blind](https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog)
 - [Gorilla Clients](https://www.winwithoutpitching.com/replacing-gorilla-account/)
-- [valuepricingbootcamp.com](http://valuepricingbootcamp.com)
+- [valuepricingbootcamp.com](https://valuepricingbootcamp.com)
 
 Erik Dietrich
 
@@ -54,7 +54,7 @@ Erik Dietrich
 
 Jeremy Green
 
-- [Increase Your Consulting Fees](http://increaseyourconsultingfees.com)&nbsp;
+- [Increase Your Consulting Fees](https://increaseyourconsultingfees.com)&nbsp;
 - [Rock’n Roll with EmberJS](https://balinterdi.com/rock-and-roll-with-emberjs/)
 
 ### Transcript

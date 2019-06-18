@@ -15,10 +15,10 @@ tags:
 ### Panel
 
 - Jeremy Ashkenas
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
 - Tim Caswell
 
 ### Discussion
@@ -27,37 +27,37 @@ tags:
 - Backbone.js
 - Underscore.js
 - Pluralsight
-- [Document Cloud](http://www.documentcloud.org/home)
+- [Document Cloud](https://www.documentcloud.org/home)
 - Compiles to Javascript
 - Cross-compilers for Ruby, Python, etc.
-- [Haxx](http://www.haxx.se/)
-- [Ruby on Rails](http://rubyonrails.org/)
-- [ES5](http://www.es5.com/)
+- [Haxx](https://www.haxx.se/)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [ES5](https://www.es5.com/)
 - i.tv uses it full time
 - May not be ideal for writing Node.js libraries
-- [Node.js](http://nodejs.org/)
-- [NPM](http://npmjs.org/)
+- [Node.js](https://nodejs.org/)
+- [NPM](https://npmjs.org/)
 - CoffeeScript NPM module
 - CoffeeScript compiler is written in CoffeeScript
-- [jyson](http://opensource.xhaus.com/projects/show/jyson)
-- [QUnit](http://docs.jquery.com/QUnit)
+- [jyson](https://opensource.xhaus.com/projects/show/jyson)
+- [QUnit](https://docs.jquery.com/QUnit)
 - testing in CoffeeScript
-- [Jasmine](http://pivotal.github.com/jasmine/)
+- [Jasmine](https://pivotal.github.com/jasmine/)
 - Arrow notation
 - Does arrow notation encourage writing anonymous functions?
 - Not all anonymous functions are anonymous
 - CoffeeScript uses function expressions
 - Thin arrow (-\>)/Fat arrow (=\>)
-- [Haskell](http://www.haskell.org/haskellwiki/Haskell)
-- [OCAML](http://caml.inria.fr/ocaml/)
+- [Haskell](https://www.haskell.org/haskellwiki/Haskell)
+- [OCAML](https://caml.inria.fr/ocaml/)
 - Do you need curly braces?
 - You can use parenthesis to enclose your function
-- [Linguistic Relativity](http://en.wikipedia.org/wiki/Linguistic_relativity)
+- [Linguistic Relativity](https://en.wikipedia.org/wiki/Linguistic_relativity)
 - Chaining functions & comprehensions
 - Implicit returns
-- [Ruby](http://www.ruby-lang.org/en/)
-- [Dave Thomas](http://pragdave.pragprog.com/)
-- [Lua](http://www.lua.org/)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Dave Thomas](https://pragdave.pragprog.com/)
+- [Lua](https://www.lua.org/)
 - [es-discuss mailing list](https://mail.mozilla.org/listinfo/es-discuss)
 - JS-next implementations in CoffeeScript
 - IE6 is the lowest common denominator
@@ -76,30 +76,30 @@ tags:
 - super
 - Node.js inheritance
 - Mixin based multiple inheritance
-- V8 - [V8 JavaScript Engine](http://code.google.com/p/v8/), [JSJ Interview](http://javascriptjabber.com/008-jsj-v8-and-dart-with-lars-bak-and-kaspar-lund/)
+- V8 - [V8 JavaScript Engine](https://code.google.com/p/v8/), [JSJ Interview](https://javascriptjabber.com/008-jsj-v8-and-dart-with-lars-bak-and-kaspar-lund/)
 - Compile to specific targets
 - Python
 - CoffeeScript allows you to evolve the language without breaking the web
 - [ChromeFrame](https://developers.google.com/chrome/chrome-frame/)
-- [JavascriptLint](http://www.javascriptlint.com/)
-- [Node.js Event Emitter](http://nodejs.org/docs/v0.4.7/api/events.html)
-- [IcedCoffeeScript](http://maxtaco.github.com/coffee-script/)
+- [JavascriptLint](https://www.javascriptlint.com/)
+- [Node.js Event Emitter](https://nodejs.org/docs/v0.4.7/api/events.html)
+- [IcedCoffeeScript](https://maxtaco.github.com/coffee-script/)
 
 ### Picks
 
-- [Raspberry Pi](http://www.raspberrypi.org/) (AJ)
-- [ArchLinux](http://www.archlinux.org/) (AJ)
-- [Dash](http://itunes.apple.com/us/app/dash/id458034879?ls=1&mt=12) (Jamison)
-- [Predictably Irrational](http://www.amazon.com/gp/product/0061353248/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061353248) [amazon](Jamison)
-- [Russian Circles](http://itunes.apple.com/us/album/geneva/id333020661?uo=4)&nbsp;(Jamison)
-- [Basketball Visualization from the NY Times](http://www.nytimes.com/interactive/2012/06/11/sports/basketball/nba-shot-analysis.html) (Jamison & Jeremy)
-- [Ready Player One](http://www.readyplayerone.com/)&nbsp;(Joe)
-- [Day 9](http://day9.tv/) (Joe)
-- [Growing Object Oriented Software Guided by Tests](http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627) (Joe)
+- [Raspberry Pi](https://www.raspberrypi.org/) (AJ)
+- [ArchLinux](https://www.archlinux.org/) (AJ)
+- [Dash](https://itunes.apple.com/us/app/dash/id458034879?ls=1&mt=12) (Jamison)
+- [Predictably Irrational](https://www.amazon.com/gp/product/0061353248/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061353248) [amazon](Jamison)
+- [Russian Circles](https://itunes.apple.com/us/album/geneva/id333020661?uo=4)&nbsp;(Jamison)
+- [Basketball Visualization from the NY Times](https://www.nytimes.com/interactive/2012/06/11/sports/basketball/nba-shot-analysis.html) (Jamison & Jeremy)
+- [Ready Player One](https://www.readyplayerone.com/)&nbsp;(Joe)
+- [Day 9](https://day9.tv/) (Joe)
+- [Growing Object Oriented Software Guided by Tests](https://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627) (Joe)
 - Programming should be fun (Tim)
-- [Nodebits.org](http://nodebits.org/) (Tim)
-- [CoffeeScript Cookbook](http://coffeescriptcookbook.com/) (Chuck)
-- [Stitcher](http://itunes.apple.com/us/app/stitcher-radio/id288087905?mt=8#) (Chuck)
+- [Nodebits.org](https://nodebits.org/) (Tim)
+- [CoffeeScript Cookbook](https://coffeescriptcookbook.com/) (Chuck)
+- [Stitcher](https://itunes.apple.com/us/app/stitcher-radio/id288087905?mt=8#) (Chuck)
 - [Papers in Computer Science group](https://groups.google.com/forum/?fromgroups#!forum/papers-in-computer-science) (Jamison)
 - JSON API's Online Training (Chuck)
 

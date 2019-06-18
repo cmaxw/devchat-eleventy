@@ -78,7 +78,7 @@ Josh
 
 Mark
 
-- [Absinthe Library](http://absinthe-graphql.org/)
+- [Absinthe Library](https://absinthe-graphql.org/)
 
 Claudio
 

@@ -22,6 +22,6 @@ Jerome Hardaway, Dave Kimura, and Charles Max Wood discuss Shrine with Janko Mah
 
 ### **Picks** :
 
-**Dave:** Wallabag: [https://wallabag.org/en](https://wallabag.org/en) **Charles** : Stair Points Skil Saw: [http://www.amazon.com/dp/B0731Q92BY/?tag=chamaxwoo-20](http://www.amazon.com/dp/B0731Q92BY/?tag=chamaxwoo-20) **Janko** : Event Machine: [http://www.rubyeventmachine.com/](http://www.rubyeventmachine.com/) **Links:** GitHub: [https://github.com/janko-m](https://github.com/janko-m)Twitter: [https://twitter.com/jankomarohnic?lang=en](https://twitter.com/jankomarohnic?lang=en)
+**Dave:** Wallabag: [https://wallabag.org/en](https://wallabag.org/en) **Charles** : Stair Points Skil Saw: [https://www.amazon.com/dp/B0731Q92BY/?tag=chamaxwoo-20](https://www.amazon.com/dp/B0731Q92BY/?tag=chamaxwoo-20) **Janko** : Event Machine: [https://www.rubyeventmachine.com/](https://www.rubyeventmachine.com/) **Links:** GitHub: [https://github.com/janko-m](https://github.com/janko-m)Twitter: [https://twitter.com/jankomarohnic?lang=en](https://twitter.com/jankomarohnic?lang=en)
 
 ### Transcript

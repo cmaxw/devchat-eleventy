@@ -28,7 +28,7 @@ tags:
 
 05:08 - Language = [Ruby](https://www.ruby-lang.org/)
 
-06:29 - [Nomad](http://nomad-cli.com/)
+06:29 - [Nomad](https://nomad-cli.com/)
 
 08:32 - What do these tools help with?
 
@@ -66,7 +66,7 @@ tags:
 - [sigh](https://github.com/fastlane/sigh)
   34:23 - Naming ToolsPicks
 
-[Swift Sandbox](http://swiftsandbox.io) (Andrew)[Chris McVeigh](http://chrismcveigh.com/cm/welcome.html) (Andrew) Brine your turkey (Jaim)[Tower](http://www.git-tower.com/) (Felix)[what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using) (Felix)[Google Flights](https://www.google.com/flights/) (Felix)
+[Swift Sandbox](https://swiftsandbox.io) (Andrew)[Chris McVeigh](https://chrismcveigh.com/cm/welcome.html) (Andrew) Brine your turkey (Jaim)[Tower](https://www.git-tower.com/) (Felix)[what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using) (Felix)[Google Flights](https://www.google.com/flights/) (Felix)
 
 ### Transcript
 

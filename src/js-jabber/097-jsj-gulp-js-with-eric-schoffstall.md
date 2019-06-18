@@ -14,19 +14,19 @@ tags:
 
 ### Panel
 
-- Eric Schoffstall ([twitter](https://twitter.com/eschoff)&nbsp;[github](https://github.com/Contra)&nbsp;[blog](http://contra.io/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Eric Schoffstall ([twitter](https://twitter.com/eschoff)&nbsp;[github](https://github.com/Contra)&nbsp;[blog](https://contra.io/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:47 - Eric Schoffstall Introduction
 
-- [Fractal](http://wearefractal.com/)
-  02:35 - [Gulp](https://github.com/gulpjs/gulp)05:11 - Streams 07:51 - [Gulp](https://github.com/gulpjs/gulp) vs [Grun](https://github.com/gulpjs/gulp)[t](http://gruntjs.com/)09:22 - Plugins 12:49 - Speed
+- [Fractal](https://wearefractal.com/)
+  02:35 - [Gulp](https://github.com/gulpjs/gulp)05:11 - Streams 07:51 - [Gulp](https://github.com/gulpjs/gulp) vs [Grun](https://github.com/gulpjs/gulp)[t](https://gruntjs.com/)09:22 - Plugins 12:49 - Speed
 - [gulp-grunt](https://www.npmjs.org/package/gulp-grunt)
 - [grunt-gulp](https://npmjs.org/package/grunt-gulp)
   17:24 - Concatenation & Flexibility 20:13 - Advantages of Gulp 23:08 - Error Management 25:05 - [How to Contribute to Gulp](https://github.com/gulpjs/gulp/blob/master/CONTRIBUTING.md)26:44 - Blacklisting & Curation
@@ -34,22 +34,22 @@ tags:
   32:54 - Resources
 - [Laracasts | Gulp This](https://laracasts.com/lessons/gulp-this)
 - [Gulp Articles](https://github.com/gulpjs/gulp/tree/master/docs#articles)
-- [A Gulp of Gulp.js Presentation](http://murphyrandle.github.io/AGulpOfGulp/#/)
+- [A Gulp of Gulp.js Presentation](https://murphyrandle.github.io/AGulpOfGulp/#/)
 
 ### Picks
 
-- [The Fault in Our Stars by John Green](http://www.amazon.com/gp/product/0525478817/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525478817&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [The Fault in Our Stars by John Green](https://www.amazon.com/gp/product/0525478817/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525478817&linkCode=as2&tag=chamaxwoo-20) (Joe)
 - [Castle Doombad](https://itunes.apple.com/us/app/castle-doombad/id622788881?mt=8) (Joe)
-- [24: Live Another Day](http://www.fox.com/24-live-another-day/) (Joe)
-- [Clark: Totems Flare](http://en.wikipedia.org/wiki/Totems_Flare) (Jamison)
-- [Alan Kay - Normal Considered Harmful](http://www.youtube.com/watch?v=FvmTSpJU-Xc) (Jamison)
-- [House of Cards](http://www.imdb.com/title/tt1856010/) (Aaron)
-- [Satya Nadella](http://en.wikipedia.org/wiki/Satya_Nadella) (Aaron)
-- [John Oliver Roasts Silicon Valley At The Crunchies](http://techcrunch.com/2014/02/11/john-oliver-kills-at-crunchies-with-jokes-about-san-franciscos-gentrification-the-nsa-techs-cartoon-villains/) (Aaron)
-- [STR8 Original Eau De Toilette Cologne](http://www.amazon.com/gp/product/B00BW559Q2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BW559Q2&linkCode=as2&tag=chamaxwoo-20) (AJ)
+- [24: Live Another Day](https://www.fox.com/24-live-another-day/) (Joe)
+- [Clark: Totems Flare](https://en.wikipedia.org/wiki/Totems_Flare) (Jamison)
+- [Alan Kay - Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) (Jamison)
+- [House of Cards](https://www.imdb.com/title/tt1856010/) (Aaron)
+- [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella) (Aaron)
+- [John Oliver Roasts Silicon Valley At The Crunchies](https://techcrunch.com/2014/02/11/john-oliver-kills-at-crunchies-with-jokes-about-san-franciscos-gentrification-the-nsa-techs-cartoon-villains/) (Aaron)
+- [STR8 Original Eau De Toilette Cologne](https://www.amazon.com/gp/product/B00BW559Q2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BW559Q2&linkCode=as2&tag=chamaxwoo-20) (AJ)
 - [node-tel-carrier](https://github.com/coolaj86/node-tel-carrier) (AJ)
 - Antibiotics (Chuck)
-- [nodeschool.io](http://nodeschool.io/#stream-adventure) (Eric)
+- [nodeschool.io](https://nodeschool.io/#stream-adventure) (Eric)
 - [fedorable_parkour](https://www.youtube.com/watch?v=nmzaalWYqRo) (Eric)
 - [Node.JS Is Stupid And If You Use It So Are You](https://www.youtube.com/watch?v=1e1zzna-dNw) (Eric)
 

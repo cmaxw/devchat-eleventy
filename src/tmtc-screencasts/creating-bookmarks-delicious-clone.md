@@ -12,4 +12,4 @@ tags:
   - podcast
 ---
 
-&nbsp; This is a basic implementation of creating bookmarks for our delicious clone using the Rails built in REST. I also found out that you need the haml-rails gem in order to get your views to generate in HAML.[Download](http://traffic.libsyn.com/tmtc/CreatingBookmarks.m4v) 255.3 MB[Download (iPhone & iPod)](http://traffic.libsyn.com/tmtc/CreatingBookmarksiPhone.m4v) 119.2 MB
+&nbsp; This is a basic implementation of creating bookmarks for our delicious clone using the Rails built in REST. I also found out that you need the haml-rails gem in order to get your views to generate in HAML.[Download](https://traffic.libsyn.com/tmtc/CreatingBookmarks.m4v) 255.3 MB[Download (iPhone & iPod)](https://traffic.libsyn.com/tmtc/CreatingBookmarksiPhone.m4v) 119.2 MB

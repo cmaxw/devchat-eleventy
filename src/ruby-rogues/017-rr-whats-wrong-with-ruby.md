@@ -12,12 +12,12 @@ tags:
   - podcast
 ---
 
-- [Rubinius](http://rubini.us/)
-- [RubySpec](http://rubyspec.org/)
+- [Rubinius](https://rubini.us/)
+- [RubySpec](https://rubyspec.org/)
 - Testing
-- [Test::Unit](http://ruby-doc.org/stdlib/libdoc/test/unit/rdoc/classes/Test/Unit.html)
-- [RSpec](http://rspec.info/)
-- [Cucumber](http://cukes.info/)
+- [Test::Unit](https://ruby-doc.org/stdlib/libdoc/test/unit/rdoc/classes/Test/Unit.html)
+- [RSpec](https://rspec.info/)
+- [Cucumber](https://cukes.info/)
 - Levels or Ruby
   - Language
   - Implementation
@@ -37,9 +37,9 @@ tags:
   - How much documentation do we need if we can open the source of our projects?
 - speed
   - Generally takes an architecture change to get better.
-- [the Ruby Application Archive (RAA)](http://raa.ruby-lang.org/)
-  - [narray](http://raa.ruby-lang.org/project/narray/)
-  - [rbtree](http://raa.ruby-lang.org/project/ruby-rbtree/)
+- [the Ruby Application Archive (RAA)](https://raa.ruby-lang.org/)
+  - [narray](https://raa.ruby-lang.org/project/narray/)
+  - [rbtree](https://raa.ruby-lang.org/project/ruby-rbtree/)
 
 ### Transcript
 

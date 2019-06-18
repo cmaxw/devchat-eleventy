@@ -145,7 +145,7 @@ In this episode of Elixir Mix, the panel talks to [Brooklyn Zelenka](https://git
 - [Algae](https://github.com/expede/algae)
 - [Exceptional](https://github.com/expede/exceptional)
 - [Phoenix Exceptional](https://github.com/expede/phoenix_exceptional)
-- [Robot Overload](http://www.robotoverlord.io)
+- [Robot Overload](https://www.robotoverlord.io)
 - [Raft Consensus Algorithm](https://raft.github.io)
 - [Ethereum Status Codes](https://github.com/expede/ethereum-status-codes)
 - [Dialyxir](https://github.com/jeremyjh/dialyxir)
@@ -167,9 +167,9 @@ In this episode of Elixir Mix, the panel talks to [Brooklyn Zelenka](https://git
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badges](http://codebadge.org/)
+- [Code Badges](https://codebadge.org/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**

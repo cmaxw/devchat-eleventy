@@ -15,16 +15,16 @@ tags:
 01:37 - Brian Casel Introduction
 
 - [<u>twitter</u>](https://twitter.com/CasJam)
-- [<u>blog</u>](http://www.casjam.com/)
-- [<u>Restaurant Engine</u>](http://restaurantengine.com/)
-- [<u>Productize</u>](http://casjam.com/productize)
+- [<u>blog</u>](https://www.casjam.com/)
+- [<u>Restaurant Engine</u>](https://restaurantengine.com/)
+- [<u>Productize</u>](https://casjam.com/productize)
 
 02:54 - Productizing (Consulting vs Manual Services)
 
-- [<u>Freelancers' Show Episode #137: Productized Consulting with Nick Disabato</u>](http://devchat.tv/freelancers/137-fs-productized-consulting-with-nick-disabato)
-- <u><a href="http://bootstrappedweb.com/productized-services/" data-cke-saved-href="http://bootstrappedweb.com/productized-services/">How to Build a Productized Service Business w/ Nick Disabato (Draft Revise)</a></u>
-  - [<u>Boostrapped Web Podcast</u>](http://bootstrappedweb.com/)
-- [<u>Dan Norris' WP Curve</u>](http://wpcurve.com/)
+- [<u>Freelancers' Show Episode #137: Productized Consulting with Nick Disabato</u>](https://devchat.tv/freelancers/137-fs-productized-consulting-with-nick-disabato)
+- <u><a href="https://bootstrappedweb.com/productized-services/" data-cke-saved-href="https://bootstrappedweb.com/productized-services/">How to Build a Productized Service Business w/ Nick Disabato (Draft Revise)</a></u>
+  - [<u>Boostrapped Web Podcast</u>](https://bootstrappedweb.com/)
+- [<u>Dan Norris' WP Curve</u>](https://wpcurve.com/)
 
 07:16 - Niching Down
 
@@ -34,7 +34,7 @@ tags:
 13:32 - Price Points
 
 - Removing Time from the Equation
-- [<u>Value-Based Pricing</u>](http://en.wikipedia.org/wiki/Value-based_pricing)
+- [<u>Value-Based Pricing</u>](https://en.wikipedia.org/wiki/Value-based_pricing)
 - Communicating Benefits
 - Pinpointing Expertise
 
@@ -49,7 +49,7 @@ tags:
 
 - Being Refined
 - Adding Granular Detail
-- <u><a href="http://theadmin.org/articles/freelance-chi/" data-cke-saved-href="http://theadmin.org/articles/freelance-chi/">Freelance Chi</a></u>
+- <u><a href="https://theadmin.org/articles/freelance-chi/" data-cke-saved-href="https://theadmin.org/articles/freelance-chi/">Freelance Chi</a></u>
   - Eric’s 3 Core Systems
     - Lead Generation
     - Lead Conversion
@@ -59,17 +59,17 @@ tags:
 
 31:52 - Marketing
 
-- [<u>Brian Casel: How To Uncomplicate Your Marketing</u>](http://casjam.com/uncomplicate-marketing/)
+- [<u>Brian Casel: How To Uncomplicate Your Marketing</u>](https://casjam.com/uncomplicate-marketing/)
 - Build Trust
 - Know Who You’re Speaking To
 
 36:31 - Quick Lanches
 
-- [<u>Bryan Harris: How to make \$1,000 in the next 14 days without an idea</u>](http://blog.videofruit.com/quickest-way-to-start-a-business/)
-- [<u>Landing Page In A Day</u>](http://landingpageinaday.com/)
-- [<u>How I launched a productized consulting service in 2 days that brought \$15,450 worth of work in the first month</u>](http://studiofellow.com/articles/productized/)
+- [<u>Bryan Harris: How to make \$1,000 in the next 14 days without an idea</u>](https://blog.videofruit.com/quickest-way-to-start-a-business/)
+- [<u>Landing Page In A Day</u>](https://landingpageinaday.com/)
+- [<u>How I launched a productized consulting service in 2 days that brought \$15,450 worth of work in the first month</u>](https://studiofellow.com/articles/productized/)
 
-40:23 - <u><a href="http://casjam.com/" data-cke-saved-href="http://casjam.com/">Brian's Free Crash Course: Productize Your Service</a></u>
+40:23 - <u><a href="https://casjam.com/" data-cke-saved-href="https://casjam.com/">Brian's Free Crash Course: Productize Your Service</a></u>
 
 ### Transcript
 

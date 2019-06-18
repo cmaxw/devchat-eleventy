@@ -19,7 +19,7 @@ tags:
 - Ruby Newbies Contest
   06:53 &nbsp;- A Good Starter Project / First Ruby Projects
 - PROM Image Preprocessor
-  14:11 -&nbsp;[The Ruby Quiz](http://www.rubyquiz.com/)
+  14:11 -&nbsp;[The Ruby Quiz](https://www.rubyquiz.com/)
 - Mini CMS
 - Airport Mystery Shopping Rails Site
 - Sequel
@@ -33,15 +33,15 @@ tags:
 - Simple Command Line Apps
   39:05 &nbsp;- What should I work on?
 - Do something you find interesting.
-- [ERB](http://ruby-doc.org/stdlib-2.2.0/libdoc/erb/rdoc/ERB.html)
-- [DRb](http://ruby-doc.org//stdlib-1.9.3/libdoc/drb/rdoc/DRb.html)
-- [MUD (Multi-user Dungeon)](http://en.wikipedia.org/wiki/MUD)
+- [ERB](https://ruby-doc.org/stdlib-2.2.0/libdoc/erb/rdoc/ERB.html)
+- [DRb](https://ruby-doc.org//stdlib-1.9.3/libdoc/drb/rdoc/DRb.html)
+- [MUD (Multi-user Dungeon)](https://en.wikipedia.org/wiki/MUD)
 - Chat Server w/ Combat
   45:50 &nbsp;- Ideal Starter Project
 - Overlaps Your Skill Area & Goes a Little Beyond
-  46:19 &nbsp;- Application for [Streeteasy.com](http://streeteasy.com/)
+  46:19 &nbsp;- Application for [Streeteasy.com](https://streeteasy.com/)
 - Ruby Sort
-- Call sort_by – It Does a [Schwartzian Transform](http://en.wikipedia.org/wiki/Schwartzian_transform)
+- Call sort_by – It Does a [Schwartzian Transform](https://en.wikipedia.org/wiki/Schwartzian_transform)
 - Don’t Be Too Emotionally Connected to Your Starter Project
 
 ### Transcript

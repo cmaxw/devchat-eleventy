@@ -5,7 +5,7 @@ title: >
 date: 2019-02-12 11:00:14
 episode_number: 038
 duration: 47:18
-audio_url: http://media.devchat.tv/elixir-mix/EMx_038_Slax_and_SAX_Parsers_with_Ben_Schmeckpeper.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_038_Slax_and_SAX_Parsers_with_Ben_Schmeckpeper.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io)&nbsp;use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io)&nbsp;use the code "devchat" for $100 credit
 
 ### **Panel**
 
@@ -27,16 +27,16 @@ Charles would expressed how in this episode they had a good time learning about 
 ### **Links**
 
 - [Ben Schmeckpeper Twitter](https://twitter.com/bschmeck/status/703353550408179712)
-- [Ben Schmeckpeper blog](http://blog.s10r.com)
+- [Ben Schmeckpeper blog](https://blog.s10r.com)
 - [https://photos.app.goo.gl/17v3dnxGoYsgkTvn6](https://photos.app.goo.gl/17v3dnxGoYsgkTvn6)
 - [https://photos.app.goo.gl/zH17oda67NKPr1rL9](https://photos.app.goo.gl/zH17oda67NKPr1rL9)&nbsp;
-- [xmerl XML parser](http://erlang.org/doc/apps/xmerl/xmerl_ug.html)&nbsp;
+- [xmerl XML parser](https://erlang.org/doc/apps/xmerl/xmerl_ug.html)&nbsp;
 - [Erlsom - Erlang library to parse XML documents](https://github.com/willemdj/erlsom)&nbsp;
 - [BERT - Binary ERlang Term](https://github.com/mojombo/bert)&nbsp;
-- [BERT and BERT-RPC 1.0 Specification](http://bert-rpc.org/)&nbsp;
+- [BERT and BERT-RPC 1.0 Specification](https://bert-rpc.org/)&nbsp;
 - [Saxy - an XML SAX parser and encoder in Elixir](https://github.com/qcam/saxy)&nbsp;
 - [Genstage](https://hexdocs.pm/gen_stage/GenStage.html)&nbsp;
-- [Slax](http://blog.s10r.com/2018/10/11/announcing-slax.html)
+- [Slax](https://blog.s10r.com/2018/10/11/announcing-slax.html)
 - [SAX - Wikipedia](https://en.wikipedia.org/wiki/Simple_API_for_XML)
 
 ### **Picks**
@@ -50,7 +50,7 @@ Charles would expressed how in this episode they had a good time learning about 
 **Ben:**
 - [The Soul of a New Machine](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491977/ref=sr_1_1?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 - [Reflections on Trusting Trust](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
-- [The Rise of Worse is Better](http://web.mit.edu/6.033/www/papers/Worse_is_Better.pdf)&nbsp;
+- [The Rise of Worse is Better](https://web.mit.edu/6.033/www/papers/Worse_is_Better.pdf)&nbsp;
 - [Flameshot](https://github.com/lupoDharkael/flameshot)&nbsp;
 
 

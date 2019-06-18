@@ -42,22 +42,22 @@ tags:
   **Links:**
 - @garethmcc
 - @expatexplore
-- [gareth.mccumskey.com](http://gareth.mccumskey.com)
+- [gareth.mccumskey.com](https://gareth.mccumskey.com)
 - [https://github.com/garethmcc](https://github.com/garethmcc)
-- [serverless.com](http://serverless.com)
+- [serverless.com](https://serverless.com)
   **Picks:** Aimee
 - [Serverless Architectures&nbsp;](https://martinfowler.com/articles/serverless.html)
 - [NG-BE Conference&nbsp;](https://ng-be.org)
   AJ
-- [Documentary on Enron](http://www.imdb.com/title/tt1016268/)
+- [Documentary on Enron](https://www.imdb.com/title/tt1016268/)
 - [Hard Thing about Hard Things&nbsp;](https://www.audible.com/t2/title?pcrid=205621322776&Matchtype=b&mkwid=sJwu0g7af_dc&cvosrc=ppc.google.the++hard++thing++about++hard++things&cvo_crid=205621322776&pgrid=15656668929&cvo_campaign=250471929&gclid=CjwKCAiA9rjRBRAeEiwA2SV4ZVczjfo6EQAa34X67m9n3qrTGIvD0nSiAg8wH4rchhtvbMu0qBspehoCXJIQAvD_BwE&pmt=b&ptaid=kwd-87629970489&asin=B00I0AJC2Y&source_code=GO1GBSH09091690EI&pkw=the++hard++thing++about++hard++things)
   Charles
 - [Serverless Framework](https://www.npmjs.com/package/serverless)
 - [The Storm Light Achieves&nbsp;](https://brandonsanderson.com/books/the-stormlight-archive/)
-- [Avengers: Infinity War](http://www.imdb.com/title/tt4154756/)
+- [Avengers: Infinity War](https://www.imdb.com/title/tt4154756/)
   Gareth
-- [Building MicroServices&nbsp;](http://shop.oreilly.com/product/0636920033158.do)
-- [Skeptics Guide To The Universe Podcast](http://www.theskepticsguide.org)
+- [Building MicroServices&nbsp;](https://shop.oreilly.com/product/0636920033158.do)
+- [Skeptics Guide To The Universe Podcast](https://www.theskepticsguide.org)
 - Expate Explore
   Joe
 - [Wonder -&nbsp; Movie](https://www.rottentomatoes.com/m/wonder/)

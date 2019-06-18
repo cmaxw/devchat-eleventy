@@ -16,10 +16,10 @@ tags:
 
 - [Twitter](https://twitter.com/travisjeffery)
 - [GitHub](https://github.com/travisjeffery)
-- [Blog](http://travisjeffery.com/)
-- [Stash](http://stash.cool/)
+- [Blog](https://travisjeffery.com/)
+- [Stash](https://stash.cool/)
 
-01:36 - [Clang-format](http://clang.llvm.org/docs/ClangFormat.html), [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy/)
+01:36 - [Clang-format](https://clang.llvm.org/docs/ClangFormat.html), [Clang-Tidy](https://clang.llvm.org/extra/clang-tidy/)
 
 02:00 - What is a linter?
 
@@ -43,11 +43,11 @@ tags:
 
 14:13 - Code Style
 
-- [Documentation on Style Options](http://clang.llvm.org/docs/ClangFormatStyleOptions.html)
+- [Documentation on Style Options](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
 
 19:21 - Continuous Integration Workflow
 
-20:48 - [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy/) (Cont’d)
+20:48 - [Clang-Tidy](https://clang.llvm.org/extra/clang-tidy/) (Cont’d)
 
 - [clang-query](https://github.com/llvm-mirror/clang-tools-extra/tree/master/clang-query)
 
@@ -57,7 +57,7 @@ Extra Resources
 - [Daniel Jasper: Keep your code sane with clang-tidy: Meeting C++ 2015 Lightning Talks](https://www.youtube.com/watch?v=nzCLcfH3pb0)
   Picks
 
-[objClean](http://objclean.com/index.php) (Andrew)[Swift-Clean](http://www.swiftcleanapp.com) (Andrew)[Friction Between Programming Professionals and Beginners](http://www.programmingforbeginnersbook.com/blog/friction_between_programming_professionals_and_beginners/) (Andrew) Help people that are new (Andrew)[Hopper](https://www.hopper.com/) (Jaim)[Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values by Robert M. Pirsig](http://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469) (Travis)[Stash](http://stash.cool/) (Travis)[A Guide to the Good Life: The Ancient Art of Stoic Joy by William B. Irving](http://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/0195374614) (Travis)
+[objClean](https://objclean.com/index.php) (Andrew)[Swift-Clean](https://www.swiftcleanapp.com) (Andrew)[Friction Between Programming Professionals and Beginners](https://www.programmingforbeginnersbook.com/blog/friction_between_programming_professionals_and_beginners/) (Andrew) Help people that are new (Andrew)[Hopper](https://www.hopper.com/) (Jaim)[Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values by Robert M. Pirsig](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469) (Travis)[Stash](https://stash.cool/) (Travis)[A Guide to the Good Life: The Ancient Art of Stoic Joy by William B. Irving](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/0195374614) (Travis)
 
 ### Transcript
 

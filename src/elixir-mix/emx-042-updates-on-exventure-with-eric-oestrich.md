@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [Triplebyte](https://triplebyte.com/elixir)
 - [CacheFly](https://www.cachefly.com/)
 
@@ -27,9 +27,9 @@ Guest: Eric Oestrich
 In this episode of Elixir Mix, Mark Ericksen and Josh Adams chat with guest, Eric Oestrich, a developer at SmartLogic and creator of ExVenture and Grapevine, two open source Elixir applications centered around text based games. Eric gives updates on ExVenture and Grapevine. Mark and Josh both have referenced ExVenture before, for using different ideas. They mention Prometheus and Grafana, two monitoring platforms that work well with Elixir applications. &nbsp;Eric also describes how Grapevine and ExVenture interact to help gamers get profiled with their achievements. Eric shares his experiences getting ExVenture set up with a continuous integration (CI) server. Panelists agree having side projects help developers try out new technology without deadline pressure. Eric does live development every Monday at 12:00 pm EST on [smartlogictv](https://www.twitch.tv/smartlogictv). Eric and Mark both share their experiences with live coding. Josh mentions an article he liked on live coding: [“_Lessons from my first year of live coding on&nbsp;Twitch_” by Suz Hinton](https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1). Eric talks about what he has been working on outside of ExVenture and Grapevine. They briefly compare ease of shelling out in Python, Elixir and Ruby. SmartLogic now has a podcast called “Smart Software with SmartLogic” and Mark was a guest on one of the episodes “Elixir in Production”.
 ### **Links**
 
-- [http://erlang.org/doc/man/sys.html#get\_state-1](http://erlang.org/doc/man/sys.html#get_state-1)
-- [http://oestrich.org/](http://oestrich.org/)
-- [http://blog.oestrich.org/](http://blog.oestrich.org/)
+- [https://erlang.org/doc/man/sys.html#get\_state-1](https://erlang.org/doc/man/sys.html#get_state-1)
+- [https://oestrich.org/](https://oestrich.org/)
+- [https://blog.oestrich.org/](https://blog.oestrich.org/)
 - [https://twitter.com/ericoestrich](https://twitter.com/ericoestrich)
 - [https://www.smartlogic.com/](https://www.smartlogic.com/)
 - [https://exventure.org/](https://exventure.org/)
@@ -48,7 +48,7 @@ In this episode of Elixir Mix, Mark Ericksen and Josh Adams chat with guest, Eri
 - [Lessons from my first year of live coding on Twitch by Suz Hinton](https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)
 - [https://obsproject.com/](https://obsproject.com/)
 - [https://github.com/alco/porcelain](https://github.com/alco/porcelain)
-- [http://bert-rpc.org/](http://bert-rpc.org/)
+- [https://bert-rpc.org/](https://bert-rpc.org/)
 - [https://github.com/mojombo/bertrpc](https://github.com/mojombo/bertrpc)
 - [https://podcast.smartlogic.io/](https://podcast.smartlogic.io/)
 - [https://github.com/oestrich/ex\_venture/](https://github.com/oestrich/ex_venture/)
@@ -60,9 +60,9 @@ In this episode of Elixir Mix, Mark Ericksen and Josh Adams chat with guest, Eri
  **Josh Adams:**
 - [https://github.com/beerriot/goma](https://github.com/beerriot/goma)
 **Mark Ericksen:**
-- [http://blog.plataformatec.com.br/2019/02/announcing-broadway/](http://blog.plataformatec.com.br/2019/02/announcing-broadway/)
+- [https://blog.plataformatec.com.br/2019/02/announcing-broadway/](https://blog.plataformatec.com.br/2019/02/announcing-broadway/)
 **Eric Oestrich:**
-- [http://www.restfest.org/](http://www.restfest.org/)
+- [https://www.restfest.org/](https://www.restfest.org/)
 &nbsp;
 
 ### Transcript

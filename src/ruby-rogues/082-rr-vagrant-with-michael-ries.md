@@ -16,27 +16,27 @@ tags:
 
 - Our New Rogue: Katrina Owen by [Josh Susser](https://twitter.com/joshsusser)
 - Ruby Nuby Challenge Winners: [Elise Worthy](https://twitter.com/eliseworthy), [Erin Parker](https://twitter.com/neverbendeasy), [Geoff Petrie](https://twitter.com/geopet), [Matt Ruzicka](https://twitter.com/mattruzicka)
-  03:22 - [Vagrant](http://vagrantup.com/)
-- [074 RR Developer Environments](http://rubyrogues.com/0074-rr-developer-environments/)
+  03:22 - [Vagrant](https://vagrantup.com/)
+- [074 RR Developer Environments](https://rubyrogues.com/0074-rr-developer-environments/)
   04:44 - Setting up Vagrant
-- [Provisioners](http://vagrantup.com/v1/docs/provisioners.html)
+- [Provisioners](https://vagrantup.com/v1/docs/provisioners.html)
 - [VirtualBox](https://www.virtualbox.org/)
 -
 
-[Vagrantbox.es](http://www.vagrantbox.es/)
+[Vagrantbox.es](https://www.vagrantbox.es/)
 09:31 - What does it matter if your developer environment is different from your production environment?
 
 -
 
-[Multi-VM Environments](http://vagrantup.com/v1/docs/multivm.html)
+[Multi-VM Environments](https://vagrantup.com/v1/docs/multivm.html)
 
 -
 
 [Bosh](https://github.com/drnic/bosh-getting-started)
 
-- [Chef](http://www.opscode.com/chef/)
+- [Chef](https://www.opscode.com/chef/)
   14:17 - Benefits and advantages of using Vagrant 18:41 - Multiple Machine Stacks 24:07 - Repackaging
-- [Puppet](http://projects.puppetlabs.com/projects/puppet)
+- [Puppet](https://projects.puppetlabs.com/projects/puppet)
   25:17 - Shared images
 -
 
@@ -50,7 +50,7 @@ tags:
 -
 
 DNS issues
-31:12 - IDEs, [vim](http://www.vim.org/download.php) and [TextMate](http://macromates.com/)[Send the RubyRogues a voice message!](https://www.speakpipe.com/RubyRogues)
+31:12 - IDEs, [vim](https://www.vim.org/download.php) and [TextMate](https://macromates.com/)[Send the RubyRogues a voice message!](https://www.speakpipe.com/RubyRogues)
 
 ### Next Week
 
@@ -58,10 +58,10 @@ Decomposing Fat Models with Bryan Helmkamp
 
 ### Book Club
 
-The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](http://www.informit.com/).
+The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](https://www.informit.com/).
 
-- First create a user account: [www.informit.com/join](http://www.informit.com/join)
-- SAVE 40% When You Buy 2: [www.informit.com/ruby](http://www.informit.com/ruby)
+- First create a user account: [www.informit.com/join](https://www.informit.com/join)
+- SAVE 40% When You Buy 2: [www.informit.com/ruby](https://www.informit.com/ruby)
 - Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
 - (Includes FREE SHIPPING within the U.S.!)
 

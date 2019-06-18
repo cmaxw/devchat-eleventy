@@ -24,11 +24,11 @@ tags:
 - [Meteor](https://www.meteor.com)
 - JavaScript fatigue
 - Great snapshot of where people are at
-- [Backbone](http://backbonejs.org)
+- [Backbone](https://backbonejs.org)
 - Great tool to detect trends
 - Backgrounds of the people who created this survey
 - Bias in the results
-- [GraphQL](http://graphql.org)
+- [GraphQL](https://graphql.org)
 - Correlation vs causation issue
 - Why certain frameworks are scarce
 - Bootcamps are teaching React and Angular now
@@ -39,13 +39,13 @@ tags:
   **Links: &nbsp;**
 - [Rising Star JS](https://risingstars.js.org/2017/en/)
 - [@SachaGreif](https://twitter.com/SachaGreif?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [VulcanJS.org](http://vulcanjs.org/)
+- [VulcanJS.org](https://vulcanjs.org/)
 - [Sidebar.io](https://sidebar.io/)
   **Picks:** Charles
-- [The Greatest Showman](http://www.imdb.com/title/tt1485796/)
+- [The Greatest Showman](https://www.imdb.com/title/tt1485796/)
 - [React Dev Summit 2018](https://reactdevsummit.com/)
-- [React Roundup&nbsp;](http://reactroundup.com/)
-- [Views on Vue](http://viewsonvue.com/)
+- [React Roundup&nbsp;](https://reactroundup.com/)
+- [Views on Vue](https://viewsonvue.com/)
   Sacha
 - [Rising Stars JS](https://risingstars.js.org/2017/en/)
 - [Best of JS](https://bestof.js.org/)

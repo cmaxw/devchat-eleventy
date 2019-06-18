@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-02:50 -&nbsp;[Michael Hartl, Tau Manifesto](http://www.tauday.com/tau-manifesto)
+02:50 -&nbsp;[Michael Hartl, Tau Manifesto](https://www.tauday.com/tau-manifesto)
 
 - Hardest Part of Programming = Estimation
   - Person Problem; Not a Programming Problem
@@ -29,7 +29,7 @@ tags:
 - Points: Measure to Estimate Effort for Completing [Agile Development](https://en.wikipedia.org/wiki/Agile_software_development)
   - Or Measures of Complexity
 - Velocity (in Agile) = Points Completed Per Iteration
-- [Pivotal Tracker](http://pivotaltracker.com/)
+- [Pivotal Tracker](https://pivotaltracker.com/)
   20:40 - Components to Making Estimate
 - Amount of Time/Effort
 - Confidence Factor

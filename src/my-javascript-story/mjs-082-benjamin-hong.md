@@ -163,7 +163,7 @@ Where do they find you?
 
 - [Framework Summit – UT](https://www.frameworksummit.com) (Ember, Elm, and tons more!)
 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite)
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 
 [Ben](https://www.linkedin.com/in/hongb1)
 

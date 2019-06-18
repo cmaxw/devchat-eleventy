@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors:**
 
-- [Sentry](http://sentry.io/)– use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)– use the code “devchat” for 2 months free on Sentry small plan
 - [.TECH](https://get.tech/) - [Go.tech/Freelancer](https://get.tech/?&coupon=Freelancer.tech&utm_source=Influencer&utm_medium=Podcast&utm_campaign=FreelancerShow) and use the coupon code “ **FREELANCER.TECH** ” and get a 1 year .TECH Domain at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)
 
@@ -31,8 +31,8 @@ In this episode of the Freelancers' Show, the panel talks about how to put syste
 - [Getting Things Done by David Allen](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280)
 - [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280/)
 **Jonathan Stark:**
-- [Work The System by Sam Carpenter](http://www.builttosell.com/)
-- [10-Day Systems Challenge by Jonathan Stark](http://systemschallenge.com/)
+- [Work The System by Sam Carpenter](https://www.builttosell.com/)
+- [10-Day Systems Challenge by Jonathan Stark](https://systemschallenge.com/)
 &nbsp;
 
 ### Transcript

@@ -39,7 +39,7 @@ tags:
 - And much more!
   **Picks:** Jonathan
 - [My Brother, My Brother and Me Podcast](https://itunes.apple.com/us/podcast/my-brother-my-brother-and-me/id367330921?mt=2)
-- [valuepricingbootcamp.com](http://valuepricingbootcamp.com)
+- [valuepricingbootcamp.com](https://valuepricingbootcamp.com)
   Reuven
 - Backups! Use Backups!
 

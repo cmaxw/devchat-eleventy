@@ -14,34 +14,34 @@ tags:
 
 01:30 - Alex Gaynor Introduction
 
-- [Rdio](http://www.rdio.com/)
+- [Rdio](https://www.rdio.com/)
 - [Topaz](https://github.com/topazproject/topaz)
-- [Python](http://www.python.org/)
-  01:54 - Combining [Python](http://www.python.org/) and Ruby
-- [Announcing Topaz: A New Ruby - Topaz 0.1 documentation](http://docs.topazruby.com/en/latest/blog/announcing-topaz/)
-- [RPython](http://en.wikipedia.org/wiki/PyPy#RPython)
-- [PyPy](http://en.wikipedia.org/wiki/PyPy)
-- [DJango](<http://en.wikipedia.org/wiki/Django_(web_framework)>)
-  05:57 - Websites that run on [DJango](<http://en.wikipedia.org/wiki/Django_(web_framework)>)
-- [addons.mozilla.org/](http://addons.mozilla.org/)
-- [DISQUS](http://disqus.com/)
+- [Python](https://www.python.org/)
+  01:54 - Combining [Python](https://www.python.org/) and Ruby
+- [Announcing Topaz: A New Ruby - Topaz 0.1 documentation](https://docs.topazruby.com/en/latest/blog/announcing-topaz/)
+- [RPython](https://en.wikipedia.org/wiki/PyPy#RPython)
+- [PyPy](https://en.wikipedia.org/wiki/PyPy)
+- [DJango](<https://en.wikipedia.org/wiki/Django_(web_framework)>)
+  05:57 - Websites that run on [DJango](<https://en.wikipedia.org/wiki/Django_(web_framework)>)
+- [addons.mozilla.org/](https://addons.mozilla.org/)
+- [DISQUS](https://disqus.com/)
   06:38 - Running Topaz
-- [Squeak](http://www.squeak.org/)
-- [ANSI C](http://en.wikipedia.org/wiki/ANSI_C)
-  09:15 - [TopazWroclove2013: Tim Felgentreff](http://www.slideshare.net/timfelgentreff/wroclove)
+- [Squeak](https://www.squeak.org/)
+- [ANSI C](https://en.wikipedia.org/wiki/ANSI_C)
+  09:15 - [TopazWroclove2013: Tim Felgentreff](https://www.slideshare.net/timfelgentreff/wroclove)
 -
 
-[Maglev](http://maglev.github.com/)
+[Maglev](https://maglev.github.com/)
 
 13:44 - Compilation Errors
 15:10 - Integration with Ruby
 
-- [RubySpec](http://rubyspec.org/)
-- [Rubinius](http://rubini.us/)
+- [RubySpec](https://rubyspec.org/)
+- [Rubinius](https://rubini.us/)
 - [lib-topaz](https://github.com/topazproject/topaz/tree/master/lib-topaz)
   17:47 - Performance and Benchmarking
 
-20:52 - [Global Interpreter Lock](http://en.wikipedia.org/wiki/Global_Interpreter_Lock)
+20:52 - [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_Interpreter_Lock)
 
 -
 
@@ -61,14 +61,14 @@ Waiting to implement features
 - Pull requests
 - [FFI](https://github.com/ffi/ffi/wiki)
 - Targeting specs
-- [PLY (Python Lex-Yacc)](http://www.dabeaz.com/ply/ply.html)
+- [PLY (Python Lex-Yacc)](https://www.dabeaz.com/ply/ply.html)
   44:20 - Ruby features that people use wrong
 
 46:23 - Blocks
 
 ### Book Club
 
-[Patterns of Enterprise Application Architecture by Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420): You have one week left to finish it! Yay!
+[Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420): You have one week left to finish it! Yay!
 
 ### Next Week
 

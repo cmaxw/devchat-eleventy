@@ -34,11 +34,11 @@ tags:
 - Open-source project
   Debugging experience
 - Configuration to Mac
-- [HyperCard](http://hypercard.org/)
+- [HyperCard](https://hypercard.org/)
 
 ### Picks:
 
-[Postman Mac App](https://www.getpostman.com/) (Andrew)[Turn Season Two](http://www.amc.com/shows/turn) (Rod)[Rod’s Blog](http://rodschmidt.com/) (Rod)[Dark Matter](http://www.syfy.com/darkmatter) (Ash)
+[Postman Mac App](https://www.getpostman.com/) (Andrew)[Turn Season Two](https://www.amc.com/shows/turn) (Rod)[Rod’s Blog](https://rodschmidt.com/) (Rod)[Dark Matter](https://www.syfy.com/darkmatter) (Ash)
 
 ### Transcript
 

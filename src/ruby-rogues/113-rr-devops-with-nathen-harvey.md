@@ -14,14 +14,14 @@ tags:
 
 02:03 - Nathen Harvey Introduction
 
-- [Food Fight Show](http://foodfightshow.org/)
-- Community Manager at [Opscode](http://www.opscode.com/)
-- [DevOpsDC](http://www.meetup.com/DevOpsDC/)
+- [Food Fight Show](https://foodfightshow.org/)
+- Community Manager at [Opscode](https://www.opscode.com/)
+- [DevOpsDC](https://www.meetup.com/DevOpsDC/)
 
 02:49 - What is DevOps?
 
 - [Nathen Harvey: DevOp with Me!](https://speakerdeck.com/nathenharvey/devop-with-me)
-- [Rails Devops Cheatsheet](http://rubytune.com/cheat)
+- [Rails Devops Cheatsheet](https://rubytune.com/cheat)
 
 10:14 - DevOps and Developers
 
@@ -29,20 +29,20 @@ tags:
 
 12:01 - System Architecture vs Application Architecture
 
-- [Netflix Open Source](http://netflix.github.io/#repo)
+- [Netflix Open Source](https://netflix.github.io/#repo)
 
 15:26 - Ruby and DevOps
 
-- [Chef](http://www.opscode.com/chef/)
+- [Chef](https://www.opscode.com/chef/)
 - [Puppet](https://puppetlabs.com/)
 - [capistrano](https://github.com/capistrano/capistrano)
-- [CFEngine](http://cfengine.com/)
+- [CFEngine](https://cfengine.com/)
 - [moonshine](https://github.com/railsmachine/moonshine)
 
 23:04 - Immutable Infrastructure
 
-- [Chad Fowler: Trash Your Servers and Burn Your Code: Immutable Infrastructure and Disposable Components](http://chadfowler.com/blog/2013/06/23/immutable-deployments/)
-- [Bryan Thompson: SOA Safari in the Amazon](http://confreaks.com/videos/2369-rmw2013-soa-safari-in-the-amazon)
+- [Chad Fowler: Trash Your Servers and Burn Your Code: Immutable Infrastructure and Disposable Components](https://chadfowler.com/blog/2013/06/23/immutable-deployments/)
+- [Bryan Thompson: SOA Safari in the Amazon](https://confreaks.com/videos/2369-rmw2013-soa-safari-in-the-amazon)
 
 28:11 - The Chef Server
 
@@ -51,17 +51,17 @@ tags:
 34:25 - Shell Commands
 
 - [chefspec](https://github.com/acrmp/chefspec)
-- [Cucumber-chef](http://www.cucumber-chef.org/)
-- [Jenkins](http://jenkins-ci.org/)
+- [Cucumber-chef](https://www.cucumber-chef.org/)
+- [Jenkins](https://jenkins-ci.org/)
 - [Travis CI](https://travis-ci.org/)
 
 37:04 - Package Management
 
 - [FPM](https://github.com/jordansissel/fpm)
-- [RVM](http://rvm.io/)
+- [RVM](https://rvm.io/)
 - [rbenv](https://github.com/sstephenson/rbenv)
-- [chruby](http://pbrisbin.com/posts/chruby)
-- [JRuby](http://jruby.org/)
+- [chruby](https://pbrisbin.com/posts/chruby)
+- [JRuby](https://jruby.org/)
 
 44:17 - Communication and Working Together
 
@@ -69,18 +69,18 @@ tags:
 
 50:05 - Process and Team Composition
 
-- [Vagrant](http://www.vagrantup.com/)
-- [Growing Object-Oriented Software Guided by Tests (GOOS)](http://www.growing-object-oriented-software.com/)
-- [068 RR Book Club: Growing Object Oriented Software Guided by Tests](http://rubyrogues.com/068-rr-book-club-growing-object-oriented-software-guided-by-tests/)
+- [Vagrant](https://www.vagrantup.com/)
+- [Growing Object-Oriented Software Guided by Tests (GOOS)](https://www.growing-object-oriented-software.com/)
+- [068 RR Book Club: Growing Object Oriented Software Guided by Tests](https://rubyrogues.com/068-rr-book-club-growing-object-oriented-software-guided-by-tests/)
 
 54:21 - The DevOps Movement & Direction
 
-- [John Willis: What Devops Means to Me](http://www.opscode.com/blog/2010/07/16/what-devops-means-to-me/)
+- [John Willis: What Devops Means to Me](https://www.opscode.com/blog/2010/07/16/what-devops-means-to-me/)
 - Culture, Automation, Measurement, and Sharing (CAMS)
 
 ### Book Club
 
-[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](http://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
+[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](https://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
 
 ### Next Week
 

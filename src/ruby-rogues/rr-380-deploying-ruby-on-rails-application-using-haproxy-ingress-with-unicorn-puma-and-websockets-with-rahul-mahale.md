@@ -138,7 +138,7 @@ _The story continues..._
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [JavaScript](https://www.javascript.com)
-- [Phoenix](http://www.phoenixsoftware.com/ode.htm)
+- [Phoenix](https://www.phoenixsoftware.com/ode.htm)
 - [Heroku](https://www.heroku.com/languages)
 - [Amazon EKS](https://aws.amazon.com/eks/)
 - [Kubernetes](https://kubernetes.io)
@@ -151,7 +151,7 @@ _The story continues..._
 - [Rancher](https://rancher.com)
 - [Learn Kubernetes Using Interactive...](https://www.katacoda.com/courses/kubernetes)by Ben Hall
 - [Podcast – All Things Devops](https://allthingsdevops.bigbinary.com)
-- [Nanobox](http://nanobox.com)
+- [Nanobox](https://nanobox.com)
 - [Cloud 66](https://cloud66.com)
 - [Chef](https://www.chef.io)
 - [Puppet](https://puppet.com)
@@ -185,7 +185,7 @@ Dave
 Eric
 
 - [Cloud 66](https://cloud66.com)
-- [Nanobox](http://nanobox.com)
+- [Nanobox](https://nanobox.com)
 
 Rahul
 

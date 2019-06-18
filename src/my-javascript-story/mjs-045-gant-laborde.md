@@ -38,10 +38,10 @@ tags:
   **Links:&nbsp;**
 - https://infinite.red
 - https://infinite.red/ignite
-- [http://blog.npmjs.org/post/81600398588/npm-install-ben-coe-g](http://blog.npmjs.org/post/81600398588/npm-install-ben-coe-g)
+- [https://blog.npmjs.org/post/81600398588/npm-install-ben-coe-g](https://blog.npmjs.org/post/81600398588/npm-install-ben-coe-g)
 - [Yargs](https://github.com/yargs/yargs)
 - [InstanbulJS](https://github.com/istanbuljs/nyc)
-- [gantlaborde.com](http://gantlaborde.com)
+- [gantlaborde.com](https://gantlaborde.com)
 -
 
 **Picks** Gant
@@ -49,7 +49,7 @@ tags:
 - [Chain React](https://infinite.red/ChainReactConf/2017) Conference
   Charles
 - [Avengers Infinity&nbsp;](https://www.youtube.com/watch?v=6ZfuNTqbHE8)
-- [forum.devchat.tv](http://forum.devchat.tv)
+- [forum.devchat.tv](https://forum.devchat.tv)
 - [Donate](https://www.patreon.com/devchattv)
 - [React Podcast for Dev Chat TV&nbsp;](https://www.indiegogo.com/projects/react-round-up-podcast-on-devchat-tv)
 

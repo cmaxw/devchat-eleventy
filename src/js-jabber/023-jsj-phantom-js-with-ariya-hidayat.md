@@ -14,41 +14,41 @@ tags:
 
 ### Panel
 
-- Ariya Hidayat ([twitter](http://twitter.com/ariyahidayat) [github](https://github.com/ariya)&nbsp;[blog](http://ariya.blogspot.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Tim Caswell ([twitter](http://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](http://howtonode.org/))
-- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
+- Ariya Hidayat ([twitter](https://twitter.com/ariyahidayat) [github](https://github.com/ariya)&nbsp;[blog](https://ariya.blogspot.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](https://howtonode.org/))
+- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
 
 ### Discussion
 
-- [PhantomJS](http://phantomjs.org/)
-- [CoffeeScript](http://coffeescript.org/)
-- [Webkit](http://www.webkit.org/)
-- [Qt - Nokia](http://qt.nokia.com/)
-- [AJAX](<http://en.wikipedia.org/wiki/Ajax_(programming)>)
+- [PhantomJS](https://phantomjs.org/)
+- [CoffeeScript](https://coffeescript.org/)
+- [Webkit](https://www.webkit.org/)
+- [Qt - Nokia](https://qt.nokia.com/)
+- [AJAX](<https://en.wikipedia.org/wiki/Ajax_(programming)>)
 - [jsdom](https://github.com/tmpvar/jsdom/)
-- [HTML5](http://www.w3schools.com/html5/default.asp)
-- [CSS3](http://www.css3.info/)
+- [HTML5](https://www.w3schools.com/html5/default.asp)
+- [CSS3](https://www.css3.info/)
 - SEO
-- [Jasmine](http://pivotal.github.com/jasmine/)
+- [Jasmine](https://pivotal.github.com/jasmine/)
 - File/Directory Structure and Security
 - Unit Testing
-- [TravisCI](http://travis-ci.org/)
-- [ember.js](http://emberjs.com/)
-- [Dave Hoover](http://redsquirrel.com/dave/)
+- [TravisCI](https://travis-ci.org/)
+- [ember.js](https://emberjs.com/)
+- [Dave Hoover](https://redsquirrel.com/dave/)
 
 ### Picks
 
-- [Sterling DeMille - PhantomJS Thumbnail Viewer](http://www.sterlingdemille.com/thumbmaker.html)&nbsp;(AJ)
-- [theTransistor](http://thetransistor.com/)&nbsp;(AJ)
-- [Total Recall](http://www.imdb.com/title/tt1386703/) (2012) (Joe)
-- [Test Driven Development by Example by Kent Beck](http://www.amazon.com/gp/product/0321146530/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321146530) (Joe)
+- [Sterling DeMille - PhantomJS Thumbnail Viewer](https://www.sterlingdemille.com/thumbmaker.html)&nbsp;(AJ)
+- [theTransistor](https://thetransistor.com/)&nbsp;(AJ)
+- [Total Recall](https://www.imdb.com/title/tt1386703/) (2012) (Joe)
+- [Test Driven Development by Example by Kent Beck](https://www.amazon.com/gp/product/0321146530/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321146530) (Joe)
 - The Smith Library (RPC SYSTEM) (Tim)
-- [Backbone.js](http://backbonejs.org/) (Chuck)
-- [Mockingjay - The Hunger Games Trilogy](http://www.amazon.com/gp/product/0439023513/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0439023513) (Ariya)
-- [Dart](http://code.google.com/p/dart/) (Ariya)
-- [The Olympics](http://www.olympic.org/) (Joe)
+- [Backbone.js](https://backbonejs.org/) (Chuck)
+- [Mockingjay - The Hunger Games Trilogy](https://www.amazon.com/gp/product/0439023513/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0439023513) (Ariya)
+- [Dart](https://code.google.com/p/dart/) (Ariya)
+- [The Olympics](https://www.olympic.org/) (Joe)
 
 ### Transcript
 

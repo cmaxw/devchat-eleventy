@@ -16,11 +16,11 @@ tags:
 
 - [twitter](https://twitter.com/drbrain)
 - [github](https://github.com/drbrain)
-- [blog](http://blog.segment7.net/)
-- [RubyGems](http://rubygems.org/)
+- [blog](https://blog.segment7.net/)
+- [RubyGems](https://rubygems.org/)
 - [Ruby](https://www.ruby-lang.org/)
   04:22 - Start of RubyGems
-- [Rubyconf](http://www.rubyconf.org/)
+- [Rubyconf](https://www.rubyconf.org/)
 - [RubyForge](https://rubygems.org/gems/rubyforge)
 - Tom Copeland
 - [kitchen-sink](https://github.com/recurser/rails-kitchen-sink)
@@ -28,40 +28,40 @@ tags:
   06:21 - Core Functionality
 - Gem Installer
 - Loading Code
-- [setup.rb](http://i.loveruby.net/en/projects/setup/doc/usage.html)
+- [setup.rb](https://i.loveruby.net/en/projects/setup/doc/usage.html)
   09:37- Solving Developer Problems with RubyGems
-- [Rich Internet Application (RIA)](http://en.wikipedia.org/wiki/Rich_Internet_application)
+- [Rich Internet Application (RIA)](https://en.wikipedia.org/wiki/Rich_Internet_application)
 - [RubyTalk Mailing List](https://www.ruby-lang.org/en/community/mailing-lists/)
   10:33 - Eric’s History with Open Source
-- [Open Source](http://en.wikipedia.org/wiki/Open_source)
+- [Open Source](https://en.wikipedia.org/wiki/Open_source)
 - [Mozilla Project](https://www.mozilla.org/en-US/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [doT](https://github.com/olado/doT)
 - [Ruby Community](https://www.ruby-lang.org/en/community/)
-  11:53 - Changes to RubyGems 13:25 - Merging with [Bundler](http://bundler.io/)
-- [Ruby Central](http://www.rubycentral.org/)
-- [Shim](<http://en.wikipedia.org/wiki/Shim_(computing)>)
+  11:53 - Changes to RubyGems 13:25 - Merging with [Bundler](https://bundler.io/)
+- [Ruby Central](https://www.rubycentral.org/)
+- [Shim](<https://en.wikipedia.org/wiki/Shim_(computing)>)
   16:55 - Hidden Features in RubyGems
-- [Run your own gem server](http://guides.rubygems.org/run-your-own-gem-server/)
-- [Rails Sidekiq](http://sidekiq.org/)
-- [Sidekiq Pro](http://sidekiq.org/pro/)
+- [Run your own gem server](https://guides.rubygems.org/run-your-own-gem-server/)
+- [Rails Sidekiq](https://sidekiq.org/)
+- [Sidekiq Pro](https://sidekiq.org/pro/)
 - [geminabox](https://github.com/geminabox/geminabox)
 - gem_push
 - gem_owner
   20:15 - Package Structures 21:42 -Gem Signing - Security Tools
 - [Python](https://www.python.org/)
-- [OpenSSL](http://www.openssl.org/)
-- [Pretty Good Programming (PGP)](http://en.wikipedia.org/wiki/Pretty_Good_Privacy)
-- [Applied Crytography: Protocols, Algorithms, and Source Code in C by Bruce Scheier](http://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/0471117099/ref=sr_1_1?s=books&ie=UTF8&qid=1410533622&sr=1-1&keywords=applied+cryptography)
-- [Cryptography](http://www.webopedia.com/TERM/C/cryptography.html)
+- [OpenSSL](https://www.openssl.org/)
+- [Pretty Good Programming (PGP)](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
+- [Applied Crytography: Protocols, Algorithms, and Source Code in C by Bruce Scheier](https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/0471117099/ref=sr_1_1?s=books&ie=UTF8&qid=1410533622&sr=1-1&keywords=applied+cryptography)
+- [Cryptography](https://www.webopedia.com/TERM/C/cryptography.html)
   26:33 - Future Features of RubyGems
 - Prioritizing Features
 - GemFile Support
 - [GitHub Issues](https://github.com/blog/1866-the-new-github-issues)
   29:56 - Building and Deployment of RubyGems
-- [DevOps](http://devops.com/)
-- [RailsConf](http://railsconf.com/)
-- [Amazon AWS](http://aws.amazon.com/)
+- [DevOps](https://devops.com/)
+- [RailsConf](https://railsconf.com/)
+- [Amazon AWS](https://aws.amazon.com/)
 - [Bundler Team](https://twitter.com/bundlerio)
 - Sam Cutler
 - David Radcliffe
@@ -76,33 +76,33 @@ tags:
   36:24 - James’ RubyGems Request RPA - Ruby Package Archive
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/)
 - Customer Reviews
-- [Yelp](http://www.yelp.com/)
-- [Amazon Reviews](http://www.amazon.com/)
-- [Nokogiri](http://nokogiri.org/)
+- [Yelp](https://www.yelp.com/)
+- [Amazon Reviews](https://www.amazon.com/)
+- [Nokogiri](https://nokogiri.org/)
 - [ERB](https://itunes.apple.com/us/app/product-reviews/id421120569?mt=8)
 - [Caml](https://itunes.apple.com/us/app/product-reviews/id421120569?mt=8)
   43:20 - “Gem Prelude”
 - Deployment
   45:31 - Dealing with Open Source Community
 - [Seth Vargo](https://twitter.com/sethvargo)
-- [Chef](http://www.getchef.com/chef/)
+- [Chef](https://www.getchef.com/chef/)
 - [Seth Vargo: Leaving Chef](https://sethvargo.com/leaving-chef/)
   50:11 - Good/Bad Parts of RubyGems Coding
-- [RDoc](http://rdoc.sourceforge.net/)
+- [RDoc](https://rdoc.sourceforge.net/)
   51:46 - Lessons Learned 54:16 - Favorite Gem Commands
 - [gem_uninstall](https://github.com/ANNotunzdY/gem_uninstaller)
-- [gem_pristine](http://rubygems.org/search?utf8=%E2%9C%93&query=pristine)
+- [gem_pristine](https://rubygems.org/search?utf8=%E2%9C%93&query=pristine)
   56:24 - Eric’s Upcoming Conferences
-- [RubyKaigi](http://rubykaigi.org/2014)
-- [RubyConf](http://www.rubyconf.org/)
+- [RubyKaigi](https://rubykaigi.org/2014)
+- [RubyConf](https://www.rubyconf.org/)
 - [Ruby on Ales](https://ruby.onales.com/)
-- [Cascadia IT Conference](http://casitconf.org/casitconf15/)
+- [Cascadia IT Conference](https://casitconf.org/casitconf15/)
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

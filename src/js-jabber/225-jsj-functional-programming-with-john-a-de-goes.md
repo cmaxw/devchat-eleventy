@@ -16,29 +16,29 @@ tags:
 
 - [Twitter](https://twitter.com/jdegoes)
 - [GitHub](https://github.com/jdegoes)
-- [Blog](http://degoes.net/)
-- [SlamData](http://slamdata.com/)
-  04:07 - [PureScript](http://www.purescript.org/)
+- [Blog](https://degoes.net/)
+- [SlamData](https://slamdata.com/)
+  04:07 - [PureScript](https://www.purescript.org/)
 - [JavaScript Jabber Episode #189: PureScript with John A. De Goes and Phil Freeman](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)
   04:58 - “Purely Functional” ![interactive-1](https://devchat.tv/wp-content/uploads/2016/08/interactive-1.gif)09:18 - Weaknesses With [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 - [Object-oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 - [Procedural Programming](https://en.wikipedia.org/wiki/Procedural_programming)
   14:36 - Organizing a FP Codebase
-- [John A. De Goes: A Modern Architecture for FP](http://degoes.net/articles/modern-fp)
+- [John A. De Goes: A Modern Architecture for FP](https://degoes.net/articles/modern-fp)
   17:54 - Beginners and Functional Programming; Getting Started
 - Learning About the History of Functional Programming
 - Hiring Junior Devs to do FP
   28:20 - The Rise of Functional Programming in JavaScript-land32:08 - Handling Existing Applications36:03 - Complexity Argument41:53 - Weighing Language Tradeoffs; Alt.jsPicks
 - [Nadia Odunayo: The Guest: A Guide To Code Hospitality @ RailsConf 2016](https://youtu.be/hHzWG1FltaE) (Aimee)
-- [React Rally](http://www.reactrally.com/) (Jamison)
-- [Cleanup Algorithm](http://joneshf.github.io/programming/2015/10/04/Cleanup-Algorithm.html) (Jamison)
+- [React Rally](https://www.reactrally.com/) (Jamison)
+- [Cleanup Algorithm](https://joneshf.github.io/programming/2015/10/04/Cleanup-Algorithm.html) (Jamison)
 - [PostgreSQL Exercises](https://pgexercises.com/) (Jamison)
-- [iPad Pro](http://www.apple.com/ipad-pro/) (Chuck)
-- [Smart Keyboard for iPad Pro](http://www.apple.com/smart-keyboard/) (Chuck)
-- [Apple Pencil](http://www.apple.com/apple-pencil/) (Chuck)
-- [GoodNotes](http://www.goodnotesapp.com/) (Chuck)
-- [John A. De Goes: Halogen: Past, Present, and Future](http://www.slideshare.net/jdegoes/halogen-past-present-and-future) (John)
-- [slamdata](http://github.com/slamdata/slamdata) (John)
+- [iPad Pro](https://www.apple.com/ipad-pro/) (Chuck)
+- [Smart Keyboard for iPad Pro](https://www.apple.com/smart-keyboard/) (Chuck)
+- [Apple Pencil](https://www.apple.com/apple-pencil/) (Chuck)
+- [GoodNotes](https://www.goodnotesapp.com/) (Chuck)
+- [John A. De Goes: Halogen: Past, Present, and Future](https://www.slideshare.net/jdegoes/halogen-past-present-and-future) (John)
+- [slamdata](https://github.com/slamdata/slamdata) (John)
 
 ### Transcript
 

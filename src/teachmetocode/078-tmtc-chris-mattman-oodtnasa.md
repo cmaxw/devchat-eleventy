@@ -37,6 +37,6 @@ tags:
 - IDL
 - CHLA (Childrens Hospital of LA)
 - VPICU
-- [OODT Contact page (info on mailing lists, etc.)](http://oodt.apache.org/contact/)
+- [OODT Contact page (info on mailing lists, etc.)](https://oodt.apache.org/contact/)
 
 ### Transcript

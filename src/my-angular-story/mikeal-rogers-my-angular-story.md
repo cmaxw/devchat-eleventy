@@ -34,7 +34,7 @@ As he advanced in his career, however, Mikeal began having problems with Python.
 
 ## Get Connected
 
-Tweet Mikeal @mikeal, and let him know you heard about him on My Angular Story. He&nbsp;would love to hear from you! Visit him through&nbsp;the links below.[Request for Commits Podcast](http://rfc.fm)[Twitter](https://twitter.com/mikeal?lang=en)
+Tweet Mikeal @mikeal, and let him know you heard about him on My Angular Story. He&nbsp;would love to hear from you! Visit him through&nbsp;the links below.[Request for Commits Podcast](https://rfc.fm)[Twitter](https://twitter.com/mikeal?lang=en)
 
 ## Picks:
 

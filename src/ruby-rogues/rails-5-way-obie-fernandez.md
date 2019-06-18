@@ -18,7 +18,7 @@ Obie Fernandez is the author of [The Rails Way series](https://www.amazon.com/s/
 
 ## **From Blogging to Writing a Book**
 
-Obie was already blogging for nine years about ruby and rails when Addison Wesley editor Debra Williams invited him to write a book. The only ruby book available that time was [The Ruby Way by Hal Fulton](http://amzn.to/2n6fExm). Obie's first idea was to write about rails and the enterprise. But, the ideas he had weren't sufficient for a book. He ended writing a Rails reference book, which took him 3 years to complete.
+Obie was already blogging for nine years about ruby and rails when Addison Wesley editor Debra Williams invited him to write a book. The only ruby book available that time was [The Ruby Way by Hal Fulton](https://amzn.to/2n6fExm). Obie's first idea was to write about rails and the enterprise. But, the ideas he had weren't sufficient for a book. He ended writing a Rails reference book, which took him 3 years to complete.
 
 ## **The Start of a Series**
 
@@ -29,17 +29,17 @@ He told his dad about the writing opportunity. Obie found it great to author a b
 Writing the book forced Obie&nbsp;to learn a lot. According to him, writing a book is more than just writing. He is thankful that he got a lot of help in the process. Before the series, Obie has written a couple of books using the Fieldstone Method. Using simple text files, he kept track of his ideas as they naturally came to him. Basically, he noted them down until he finally compiled them into one book.Download and listen to&nbsp;_The Rails 5 Way with Obie Fernandez_.&nbsp;Connect with Obie via&nbsp;Twitter @obie. You can also follow him through these links:
 
 - [Twitter](https://twitter.com/obie?lang=en)
-- [Obie Fernandez website](http://obiefernandez.com)
-- [Kickass Consulting](http://kickass-consulting.com)
-- [MagmaConf 2017](http://bit.ly/2mp27gM)&nbsp;(50% OFF direct link)
+- [Obie Fernandez website](https://obiefernandez.com)
+- [Kickass Consulting](https://kickass-consulting.com)
+- [MagmaConf 2017](https://bit.ly/2mp27gM)&nbsp;(50% OFF direct link)
 
 ## **Picks:**
 
-Jason: [The Lost Continent by Bill Bryson](https://www.amazon.com/Lost-Continent-Travels-Small-Town-America/dp/0060920084), [Bulgaria](https://en.wikipedia.org/wiki/Bulgaria)Brian: [Pi-hole](https://pi-hole.net/?v=7516fd43adaa), [vimwiki](https://github.com/vimwiki/vimwiki)Charles: [Drip](https://www.drip.co/), [pc build](http://pcgamehaven.com/1500-gaming-pc-build-the-high-end/)&nbsp;([3TB Desktop Hard Disk Drive](http://amzn.to/2mos7ZO), [Microsoft Windows 10 Pro USB](http://amzn.to/2npowvn), [Corsair Vengeance Red LED](http://amzn.to/2nBgvCO), [Crucial MX300 Internal Solid State Drive](http://amzn.to/2npAIfy)),&nbsp;[Newbie Remote Conf](https://devchat.tv/conferences/newbie-remote-conf-2017), RE20 Shockmount Obie: The Artist's Way, [hear him speak at&nbsp;MagmaConf](http://bit.ly/2mp27gM), [750words.com](http://750words.com/), a week at Cuba, [The Rails 5 Way on Leanpub](https://leanpub.com/tr5w)
+Jason: [The Lost Continent by Bill Bryson](https://www.amazon.com/Lost-Continent-Travels-Small-Town-America/dp/0060920084), [Bulgaria](https://en.wikipedia.org/wiki/Bulgaria)Brian: [Pi-hole](https://pi-hole.net/?v=7516fd43adaa), [vimwiki](https://github.com/vimwiki/vimwiki)Charles: [Drip](https://www.drip.co/), [pc build](https://pcgamehaven.com/1500-gaming-pc-build-the-high-end/)&nbsp;([3TB Desktop Hard Disk Drive](https://amzn.to/2mos7ZO), [Microsoft Windows 10 Pro USB](https://amzn.to/2npowvn), [Corsair Vengeance Red LED](https://amzn.to/2nBgvCO), [Crucial MX300 Internal Solid State Drive](https://amzn.to/2npAIfy)),&nbsp;[Newbie Remote Conf](https://devchat.tv/conferences/newbie-remote-conf-2017), RE20 Shockmount Obie: The Artist's Way, [hear him speak at&nbsp;MagmaConf](https://bit.ly/2mp27gM), [750words.com](https://750words.com/), a week at Cuba, [The Rails 5 Way on Leanpub](https://leanpub.com/tr5w)
 
 ## **Episode Links:**
 
-[The Rails 5 Way by Obie Fernandez](http://amzn.to/2n6dHB8), [The Ruby Way by Hal Fulton](http://amzn.to/2n6fExm), [Programming Ruby by Dave Thomas et. al.](http://amzn.to/2nk5LMW), [Patterns of Enterprise Application Architecture](http://amzn.to/2npmkUE), [Professional Ruby Series by Addison-Wesley](http://amzn.to/2n6gwC8), [David Heinemeier Hansson](http://david.heinemeierhansson.com/), Fieldstone Method, [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development), [ThoughtWorks](https://www.thoughtworks.com/)
+[The Rails 5 Way by Obie Fernandez](https://amzn.to/2n6dHB8), [The Ruby Way by Hal Fulton](https://amzn.to/2n6fExm), [Programming Ruby by Dave Thomas et. al.](https://amzn.to/2nk5LMW), [Patterns of Enterprise Application Architecture](https://amzn.to/2npmkUE), [Professional Ruby Series by Addison-Wesley](https://amzn.to/2n6gwC8), [David Heinemeier Hansson](https://david.heinemeierhansson.com/), Fieldstone Method, [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development), [ThoughtWorks](https://www.thoughtworks.com/)
 
 ### Transcript
 

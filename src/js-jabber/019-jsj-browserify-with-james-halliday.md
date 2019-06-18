@@ -14,19 +14,19 @@ tags:
 
 ### Panel
 
-- James Halliday ([twitter](http://twitter.com/substack) [github](https://github.com/substack)&nbsp;[substack.net](http://substack.net/))
-- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Tim Caswell ([twitter](http://twitter.com/creationix/) [github](https://github.com/creationix/)&nbsp;[howtonode.org](http://howtonode.org/))
+- James Halliday ([twitter](https://twitter.com/substack) [github](https://github.com/substack)&nbsp;[substack.net](https://substack.net/))
+- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/) [github](https://github.com/creationix/)&nbsp;[howtonode.org](https://howtonode.org/))
 
 ### Discussion
 
 - Talking like sailors
 - [Browserling](https://browserling.com/)
-- [NodeUp Podcast](http://nodeup.com/)
+- [NodeUp Podcast](https://nodeup.com/)
 - [Browserify](https://github.com/substack/node-browserify)
-- [AMD](http://requirejs.org/docs/whyamd.html#amd)
+- [AMD](https://requirejs.org/docs/whyamd.html#amd)
 - Diversity in package management
 - [onejs](https://github.com/azer/onejs/)
 - [ender-js](https://github.com/ender-js/Ender/)
@@ -36,20 +36,20 @@ tags:
 - browser_request
 - Modules in the browser
 - [Harmony Modules (ES6)](https://wiki.mozilla.org/ES6_plans#Modules)
-- [AST - Abstract Syntax Tree](http://en.wikipedia.org/wiki/Abstract_syntax_tree)
+- [AST - Abstract Syntax Tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 - Handling dependencies between services
 
 ### Picks
 
-- [The Dear Hunter (band)](http://thedearhunter.com/) (Jamison)
-- [Meet the Pyro - From TF2](http://www.youtube.com/watch?v=PjEzzwf8kTs) (Jamison)
-- [Interpreted Dance by Jamison Dance](http://jamisondance.com/) (AJ)
-- [Brave](http://disney.go.com/brave/index.html) (AJ)
-- [Linux Graphic Stack Explained (blog post)](http://yangman.ca/blog/2009/10/linux-graphics-driver-stack-explained/) (Tim)
+- [The Dear Hunter (band)](https://thedearhunter.com/) (Jamison)
+- [Meet the Pyro - From TF2](https://www.youtube.com/watch?v=PjEzzwf8kTs) (Jamison)
+- [Interpreted Dance by Jamison Dance](https://jamisondance.com/) (AJ)
+- [Brave](https://disney.go.com/brave/index.html) (AJ)
+- [Linux Graphic Stack Explained (blog post)](https://yangman.ca/blog/2009/10/linux-graphics-driver-stack-explained/) (Tim)
 - Voting (Chuck)
-- Heroes - [iTunes](http://itunes.apple.com/us/tv-season/heroes-season-1/id196139170?uo=4), [Netflix](http://movies.netflix.com/movie/Heroes-Season-1/70057024) (Chuck)
-- No Ordinary Family - [Netflix](http://movies.netflix.com/movie/No-Ordinary-Family/70177068) (Chuck)
-- [Drop the Bomb - Disasteradio](http://www.youtube.com/watch?v=Gd8be0DVj68) (James)
+- Heroes - [iTunes](https://itunes.apple.com/us/tv-season/heroes-season-1/id196139170?uo=4), [Netflix](https://movies.netflix.com/movie/Heroes-Season-1/70057024) (Chuck)
+- No Ordinary Family - [Netflix](https://movies.netflix.com/movie/No-Ordinary-Family/70177068) (Chuck)
+- [Drop the Bomb - Disasteradio](https://www.youtube.com/watch?v=Gd8be0DVj68) (James)
 - [Mux Demux - Dominic Tarr](https://github.com/dominictarr/mux-demux) (James)
 
 ### Transcript

@@ -14,30 +14,30 @@ tags:
 
 &nbsp;This show is dedicated to Chuck’s grandfather, Tennyson Smith.
 
-- [Patent US4590376: Apparatus and technique for monitoring photoelectron emission from surfaces](http://www.google.com/patents/US4590376)
-- [Patent US4957368: Apparatus and process for performing ellipsometric measurements of surfaces](http://www.google.com/patents/US4957368)
+- [Patent US4590376: Apparatus and technique for monitoring photoelectron emission from surfaces](https://www.google.com/patents/US4590376)
+- [Patent US4957368: Apparatus and process for performing ellipsometric measurements of surfaces](https://www.google.com/patents/US4957368)
 
 02:55 - Ryan Stout Introduction
 
 - [Twitter](https://twitter.com/ryanstout)
 - [GitHub](https://github.com/ryanstout)
-- [Agile Productions](http://www.agileproductions.com/)
+- [Agile Productions](https://www.agileproductions.com/)
 
-03:46 - [The Volt Framework](http://voltframework.com/)
+03:46 - [The Volt Framework](https://voltframework.com/)
 
 - [[GitHub] volt](https://github.com/voltrb/volt)
-- [Opal](http://opalrb.org/)
+- [Opal](https://opalrb.org/)
 - Sharing the Frontend and the Backend
   - [realtime-validations](https://rubygems.org/gems/realtime-validations)
-  - [WebSockets](http://en.wikipedia.org/wiki/WebSocket)
+  - [WebSockets](https://en.wikipedia.org/wiki/WebSocket)
 
 06:41 - Multiple Syncing & Conflicting Changes with Two Different Clients
 
 - [RubyConf 2014 - Isomorphic App Development with Ruby and Volt by Ryan Stout](https://www.youtube.com/watch?v=7i6AL7Walc4)
-  - [Operational Transform](http://en.wikipedia.org/wiki/Operational_transformation)
-    - [Derby](http://derbyjs.com/)
-    - [ShareJS](http://sharejs.org/)
-      - [JavaScript Jabber Episode #142: ShareJS with Joseph](http://devchat.tv/js-jabber/142-jsj-sharejs-with-joseph-gentle)&nbsp;[Gentle](http://devchat.tv/js-jabber/142-jsj-sharejs-with-joseph-gentle)
+  - [Operational Transform](https://en.wikipedia.org/wiki/Operational_transformation)
+    - [Derby](https://derbyjs.com/)
+    - [ShareJS](https://sharejs.org/)
+      - [JavaScript Jabber Episode #142: ShareJS with Joseph](https://devchat.tv/js-jabber/142-jsj-sharejs-with-joseph-gentle)&nbsp;[Gentle](https://devchat.tv/js-jabber/142-jsj-sharejs-with-joseph-gentle)
     - [Meteor](https://www.meteor.com/)
 
 10:02 - Limitations
@@ -46,11 +46,11 @@ tags:
 
 11:56 - Math
 
-- [Floating Point](http://en.wikipedia.org/wiki/Floating_point)
+- [Floating Point](https://en.wikipedia.org/wiki/Floating_point)
 
 14:14 - Components
 
-- [react](http://facebook.github.io/react/)
+- [react](https://facebook.github.io/react/)
 
 16:23 - Volt’s Inception
 
@@ -62,7 +62,7 @@ tags:
 
 22:20 - Browser Compatability
 
-- [WebSockets](http://en.wikipedia.org/wiki/WebSocket)
+- [WebSockets](https://en.wikipedia.org/wiki/WebSocket)
 - [SockJS](https://github.com/sockjs)
 
 23:42 - Building an Entire App with Volt
@@ -73,18 +73,18 @@ tags:
 
 28:39 - Components
 
-- [Service Oriented Architecture (SOA)](http://en.wikipedia.org/wiki/Service-oriented_architecture)
+- [Service Oriented Architecture (SOA)](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 
-31:13 - Testing a Volt Application [(TDD)](http://en.wikipedia.org/wiki/Test-driven_development)
+31:13 - Testing a Volt Application [(TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
 
-- Integration Tests with [Capybara](http://en.wikipedia.org/wiki/Capybara)
+- Integration Tests with [Capybara](https://en.wikipedia.org/wiki/Capybara)
 
 33:22 - Persistance
 
-- [MongoDB](http://www.mongodb.org/)
+- [MongoDB](https://www.mongodb.org/)
 - Data Persistence API
 - Deploying on [Heroku](https://www.heroku.com/)
-- [Faye](http://faye.jcoglan.com/ruby.html) Integration
+- [Faye](https://faye.jcoglan.com/ruby.html) Integration
   - [vert-x](https://github.com/vert-x/mod-lang-jruby)
 
 40:33 - Maintenance
@@ -93,12 +93,12 @@ tags:
 
 43:31 - The Open Source Community & Volt
 
-- [Gitter](http://gitter.im/)
+- [Gitter](https://gitter.im/)
 - Beginner Friendly?
 
-45:55 - [REST](http://www.restapitutorial.com/lessons/whatisrest.html)?
+45:55 - [REST](https://www.restapitutorial.com/lessons/whatisrest.html)?
 
-- [HATEOAS](http://en.wikipedia.org/wiki/HATEOAS)
+- [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS)
 
 50:59 - Business Models & the Framework
 
@@ -108,7 +108,7 @@ tags:
 
 57:32 - Destroying CoffeeScript?
 
-- [ECMAScript](http://en.wikipedia.org/wiki/ECMAScript)
+- [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
 
 ### Transcript
 

@@ -16,55 +16,55 @@ tags:
 
 02:31 - Functional Style of Programming
 
-- [Boundaries - Gary Bernhardt](http://www.confreaks.com/videos/1314-rubyconf2012-boundaries)
+- [Boundaries - Gary Bernhardt](https://www.confreaks.com/videos/1314-rubyconf2012-boundaries)
 - [Functional Core, Imperative Shell - Destroy All Software Screencasts](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
-- [Functional Principles for OO Development - Jessica Kerr](http://confreaks.com/videos/2382-rmw2013-functional-principles-for-oo-development)
-- [Michael Feathers: Tell Above, and Ask Below - Hybridizing OO and Functional Design](http://michaelfeathers.typepad.com/michael_feathers_blog/2012/03/tell-above-and-ask-below-hybridizing-oo-and-functional-design.html)
-- [BERT and Ernie: Scaling your Ruby site with Erlang - Tom Preston-Werner](http://www.confreaks.com/videos/160-rubyconf2009-bert-and-ernie-scaling-your-ruby-site-with-erlang)
+- [Functional Principles for OO Development - Jessica Kerr](https://confreaks.com/videos/2382-rmw2013-functional-principles-for-oo-development)
+- [Michael Feathers: Tell Above, and Ask Below - Hybridizing OO and Functional Design](https://michaelfeathers.typepad.com/michael_feathers_blog/2012/03/tell-above-and-ask-below-hybridizing-oo-and-functional-design.html)
+- [BERT and Ernie: Scaling your Ruby site with Erlang - Tom Preston-Werner](https://www.confreaks.com/videos/160-rubyconf2009-bert-and-ernie-scaling-your-ruby-site-with-erlang)
 
 10:22 - Polyglot-type Structure
 
-- [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages by Bruce Tate](http://www.amazon.com/gp/product/193435659X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=193435659X&linkCode=as2&tag=chamaxwoo-20)
-- [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement by Jim R. Wilson](http://www.amazon.com/gp/product/1934356921/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356921&linkCode=as2&tag=chamaxwoo-20)
+- [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages by Bruce Tate](https://www.amazon.com/gp/product/193435659X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=193435659X&linkCode=as2&tag=chamaxwoo-20)
+- [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement by Jim R. Wilson](https://www.amazon.com/gp/product/1934356921/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356921&linkCode=as2&tag=chamaxwoo-20)
 
 16:07 - [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
 
-- [Redis](http://redis.io/)
-- [Memcached](http://memcached.org/)
-- [MongoDB](http://www.mongodb.org/)
+- [Redis](https://redis.io/)
+- [Memcached](https://memcached.org/)
+- [MongoDB](https://www.mongodb.org/)
 
 20:39 - Rich Applications in JavaScript in the Browser
 
 - Server Computation vs Client Computation
-- [Josh Susser: Shifting to the client again](http://blog.hasmanythrough.com/2012/3/15/shifting-to-the-client-again)
+- [Josh Susser: Shifting to the client again](https://blog.hasmanythrough.com/2012/3/15/shifting-to-the-client-again)
 
 27:36 - Proliferation of short developer training programs
 
-- [JumpstartLab](http://jumpstartlab.com/)
-- [Rails Ramp Up](http://railsrampup.com/)
+- [JumpstartLab](https://jumpstartlab.com/)
+- [Rails Ramp Up](https://railsrampup.com/)
 
 31:34 - Diversity
 
-- [RailsBridge](http://workshops.railsbridge.org/)
-- [Rails Girls](http://railsgirls.com/)
-- [Black Girls Code](http://www.blackgirlscode.com/)
-- [CODE2040](http://code2040.org/)
+- [RailsBridge](https://workshops.railsbridge.org/)
+- [Rails Girls](https://railsgirls.com/)
+- [Black Girls Code](https://www.blackgirlscode.com/)
+- [CODE2040](https://code2040.org/)
 
 33:26 - Remote Work
 
-- [The Wide Teams Podcast](http://www.wideteams.com/)
+- [The Wide Teams Podcast](https://www.wideteams.com/)
 
 39:48 - The Reversal of Outsourcing
 
 42:01 - Object-Orientation & Better Ways to Build Software
 
-- [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20)
-- [097 RR Book Club: Patterns of Enterprise Architecture with Martin Fowler](http://rubyrogues.com/097-rr-book-club-patterns-of-enterprise-architecture-with-martin-fowler/)
+- [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20)
+- [097 RR Book Club: Patterns of Enterprise Architecture with Martin Fowler](https://rubyrogues.com/097-rr-book-club-patterns-of-enterprise-architecture-with-martin-fowler/)
 - Rediscovery
 
 ### Book Club
 
-[Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](http://pragprog.com/book/ehxta/explore-it)! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
+[Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](https://pragprog.com/book/ehxta/explore-it)! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
 
 ### Next Week
 

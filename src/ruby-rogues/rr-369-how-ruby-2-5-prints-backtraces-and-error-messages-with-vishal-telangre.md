@@ -20,7 +20,7 @@ tags:
 
 **Special Guests:** Vishal Telangre
 
-In this episode of Ruby Rogues, the panelists talk to Vishal Telangre about his blog post entitled [_Ruby 2.5 prints backtrace and error message in reverse order_](https://blog.bigbinary.com/2018/03/07/ruby-2-5-prints-backstrace-and-error-message-in-reverse-order.html). Vishal is working remotely for [BigBinary](https://www.bigbinary.com/) where he works with [Ruby on Rails](https://rubyonrails.org/), [Kuberernetes](https://kubernetes.io/), and [Elm](http://elm-lang.org/). They talk about the power of blog posts at BigBinary, give suggestions for people wanting to get into blogging, and inspiration for blog posts. They also touch on his blog post, the changes to backtrace in Ruby 2.5, and more!
+In this episode of Ruby Rogues, the panelists talk to Vishal Telangre about his blog post entitled [_Ruby 2.5 prints backtrace and error message in reverse order_](https://blog.bigbinary.com/2018/03/07/ruby-2-5-prints-backstrace-and-error-message-in-reverse-order.html). Vishal is working remotely for [BigBinary](https://www.bigbinary.com/) where he works with [Ruby on Rails](https://rubyonrails.org/), [Kuberernetes](https://kubernetes.io/), and [Elm](https://elm-lang.org/). They talk about the power of blog posts at BigBinary, give suggestions for people wanting to get into blogging, and inspiration for blog posts. They also touch on his blog post, the changes to backtrace in Ruby 2.5, and more!
 
 **In particular, we dive pretty deep on:**
 
@@ -51,7 +51,7 @@ In this episode of Ruby Rogues, the panelists talk to Vishal Telangre about his 
 - [BigBinary](https://www.bigbinary.com/)
 - [Ruby on Rails](https://rubyonrails.org/)
 - [Kuberernetes](https://kubernetes.io/)
-- [Elm](http://elm-lang.org/)
+- [Elm](https://elm-lang.org/)
 - [Vishal’s blog posts at BigBinary](https://blog.bigbinary.com/authors/vishaltelangre/)
 - [Vishal’s GitHub](https://github.com/vishaltelangre)
 - [Vishaltelangre.com](https://vishaltelangre.com/)

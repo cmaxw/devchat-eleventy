@@ -16,14 +16,14 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/tylermcginnis33)
 - [<u>GitHub</u>](https://github.com/tylermcginnis)
-- [<u>Blog</u>](http://tylermcginnis.com/)
+- [<u>Blog</u>](https://tylermcginnis.com/)
 - [<u>DevMountain Programming Bootcamp</u>](https://devmounta.in/)
   - [<u>@DevMtn</u>](https://twitter.com/DevMtn)
 - [<u>Firebase Experts Program</u>](https://www.firebase.com/experts.html)
 
 03:23 - Getting Started at [<u>DevMountain</u>](https://devmounta.in/)
 
-- [<u>Hack Reactor</u>](http://www.hackreactor.com/)
+- [<u>Hack Reactor</u>](https://www.hackreactor.com/)
 - [<u>Needle</u>](https://www.needle.com/)
 
 04:38 - [<u>DevMountain</u>](https://devmounta.in/) Conception
@@ -39,20 +39,20 @@ tags:
 
 - [<u>Katya Eames</u>](https://twitter.com/KoshkaEames)
   - [<u>[YouTube] Katya Eames: How to Teach Angular to your Kids</u>](https://www.youtube.com/watch?v=aH9Plt77cjM)
-- [<u>A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half by Mark Myers</u>](http://www.asmarterwaytolearn.com/)
+- [<u>A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half by Mark Myers</u>](https://www.asmarterwaytolearn.com/)
 
 11:16 - Two Camps: Art (Creators) and Technicians \<= Does [<u>DevMountain</u>](https://devmounta.in/) Cater to One or the Other?
 
 13:08 - Repetition as a Way to Learn
 
-- [<u>The Hard Way Series</u>](http://learncodethehardway.org/) ([<u>Zed Shaw</u>](https://twitter.com/zedshaw))
+- [<u>The Hard Way Series</u>](https://learncodethehardway.org/) ([<u>Zed Shaw</u>](https://twitter.com/zedshaw))
   - Follow [<u>@lzsthw</u>](https://twitter.com/lzsthw) for book related news, advice, and politeness
 
 15:23 - Letting People Struggle vs Helping Them
 
 17:14 - Training/Finding Instructors / Teaching Teachers to be Better Teachers
 
-21:08 - Why Is [<u>JavaScript</u>](http://en.wikipedia.org/wiki/JavaScript) a Good Language to Learn?
+21:08 - Why Is [<u>JavaScript</u>](https://en.wikipedia.org/wiki/JavaScript) a Good Language to Learn?
 
 - [<u>JSX</u>](https://jsx.github.io/)
 
@@ -62,7 +62,7 @@ tags:
 
 28:56 - Bootcamp Learning Environments
 
-- [<u>React Week</u>](http://reactweek.com/)
+- [<u>React Week</u>](https://reactweek.com/)
   - [<u>@reactweek</u>](https://twitter.com/reactweek)
   - [<u>Ryan Florence</u>](https://twitter.com/ryanflorence)
 

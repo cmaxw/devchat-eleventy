@@ -26,7 +26,7 @@ In this episode, the panelist talk with today’s guest, [Kent C. Dodds](https:/
 
 0:00 – [Kendo UI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
 
-0:32 – Chuck: Hello! My new show is [TheDevRev](http://thedevrev.com) – please go check it out!
+0:32 – Chuck: Hello! My new show is [TheDevRev](https://thedevrev.com) – please go check it out!
 
 1:35 – Panel: I want all of it!
 
@@ -163,7 +163,7 @@ Justin
 Charles
 
 - [MFCEO Project Podcast](https://andyfrisella.com/blogs/mfceo-project-podcast)
-- [The DevRev](http://thedevrev.com)
+- [The DevRev](https://thedevrev.com)
 
 Kent
 

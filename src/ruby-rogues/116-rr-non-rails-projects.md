@@ -15,15 +15,15 @@ tags:
 03:55 - Non-Rails Applications
 
 - Daemon Processes
-- [Raspberry Pi](http://www.raspberrypi.org/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
 - [sinatra](https://github.com/bmizerany/sinatra)
-- [Smalltalk Best Practice Patterns by Kent Beck](http://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=013476904X&linkCode=as2&tag=chamaxwoo-20)
+- [Smalltalk Best Practice Patterns by Kent Beck](https://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=013476904X&linkCode=as2&tag=chamaxwoo-20)
 
 07:32 - Requiring
 
 - Logical Paths
 - Load Paths
-- [require_relative](http://stackoverflow.com/questions/3672586/what-is-require-relative-in-ruby)
+- [require_relative](https://stackoverflow.com/questions/3672586/what-is-require-relative-in-ruby)
 
 18:04 - Autoloading
 
@@ -34,8 +34,8 @@ tags:
 
 25:48 - Full Restructure
 
-- [Bundler](http://bundler.io/)
-- [103 RR Ruby Gems](http://rubyrogues.com/103-rr-ruby-gems/)
+- [Bundler](https://bundler.io/)
+- [103 RR Ruby Gems](https://rubyrogues.com/103-rr-ruby-gems/)
 
 36:23 - Testing
 
@@ -44,24 +44,24 @@ tags:
 
 47:08 - Daemonized Applications
 
-- [servolux](http://rubygems.org/gems/servolux)
+- [servolux](https://rubygems.org/gems/servolux)
 
 54:30 - Self-contained Executables
 
-- [Skinny daemons](http://labs.headlondon.com/2010/07/skinny-daemons/)
+- [Skinny daemons](https://labs.headlondon.com/2010/07/skinny-daemons/)
 
 56:50 - Logging
 
-- [025 RR Logging – I Do Not Think It Means What You Think It Means](http://rubyrogues.com/025-rr-logging-i-do-not-think-it-means-what-you-think-it-means/)
+- [025 RR Logging – I Do Not Think It Means What You Think It Means](https://rubyrogues.com/025-rr-logging-i-do-not-think-it-means-what-you-think-it-means/)
 
 01:02:06 - Threading
 
-- [Working With Unix Processes by Jesse Storimer](http://www.amazon.com/gp/product/B0078VSRUE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0078VSRUE&linkCode=as2&tag=chamaxwoo-20)
-- [Jesse Storimer's Blog](http://www.jstorimer.com/)
+- [Working With Unix Processes by Jesse Storimer](https://www.amazon.com/gp/product/B0078VSRUE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0078VSRUE&linkCode=as2&tag=chamaxwoo-20)
+- [Jesse Storimer's Blog](https://www.jstorimer.com/)
 
 ### Book Club
 
-[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](http://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
+[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](https://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
 
 ### Next Week
 

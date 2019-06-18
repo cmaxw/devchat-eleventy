@@ -14,7 +14,7 @@ tags:
 
 ## Sponsors
 
-- [Sentry](http://sentry.io)&nbsp;use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io)&nbsp;use the code "devchat" for $100 credit
 - [TripleByte](https://triplebyte.com/rogues)offers $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 **Panel**

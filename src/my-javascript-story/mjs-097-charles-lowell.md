@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - <u><a href="https://clubhouse.io/jsstory">Clubhouse</a></u>
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** &nbsp;&nbsp;Charles Lowell
@@ -34,7 +34,7 @@ In this episode of My Ruby Story, Charles hosts Charles Lowell, founder and &nbs
 - <u><a href="https://yousician.com/">Yousician App</a></u>
 **Charles Max Wood:**
 - <u><a href="https://paradehomes.com/">Parade of Homes - St. George, Utah </a></u>
-- <u><a href="http://www.vrbo.com/%E2%80%8E">Vrbo.com</a></u>
+- <u><a href="https://www.vrbo.com/%E2%80%8E">Vrbo.com</a></u>
 
 
 ### Transcript

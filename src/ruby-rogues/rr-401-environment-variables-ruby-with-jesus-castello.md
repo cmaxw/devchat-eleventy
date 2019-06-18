@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Sentry](https://sentry.io/welcome/) use code “devchat” for 2 months free on Sentry small plan
-- [TripleByte](http://triplebyte.com/rogues) offers a $1000 signing bonus
+- [TripleByte](https://triplebyte.com/rogues) offers a $1000 signing bonus
 
 ### **Panel** 
 
@@ -30,9 +30,9 @@ In this episode, Jesus Castello, a ruby developer who has been programming since
 - [Ruby Guides - Jesus Castello](https://www.rubyguides.com/)
 - [Jesus Castello Twitter](https://twitter.com/matugm)
 - [Ruby Guides Youtube - Jesus Castello](https://www.youtube.com/JesusCastello)
-- [The Twelve Factor App](http://12fatcor.net/)
+- [The Twelve Factor App](https://12fatcor.net/)
 - [Jesus Castello Facebook](https://www.facebook.com/profile.php?id=100013869195472&fref=search& __tn__ =,d,P-R&eid=ARCv_MNe_YiWTXQZ4RHyqUuvVyboFGsDTEFXcS4ckDsCQprMM2k26gGXJSfTc-c1DHoMNBypgL1Kbio2)
-- [Heroku](http://heroku.com/)
+- [Heroku](https://heroku.com/)
 - [AWS - Amazon](https://aws.amazon.com/?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 - [nginx](https://www.nginx.com/)
 - [Apache](https://httpd.apache.org/)

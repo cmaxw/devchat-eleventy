@@ -267,7 +267,7 @@ People can solve a lot of problems and this is HUGE!
 - [5 Things about developing on a Mac – Video](https://www.youtube.com/watch?v=c0TMasEW29A&feature=youtu.be)
 - [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm)
 - [King and Queen of the Universe](https://www.kobo.com/us/en/ebook/king-and-queen-of-the-universe)
-- [Grinders](http://grinders.co.uk/home/)
+- [Grinders](https://grinders.co.uk/home/)
 - [Dan Muller’s Bio through NRWL](https://blog.nrwl.io/nrwl-welcomes-dan-muller-80d9e1543c82)
 
 **Sponsors:**
@@ -294,14 +294,14 @@ Aaron
 Charles
 
 - [Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS/ref=sr_1_1?ie=UTF8&qid=1540167966&sr=8-1&keywords=extreme+ownership)
-- [Dungeon and Dragons](http://dnd.wizards.com/products/catalog)
+- [Dungeon and Dragons](https://dnd.wizards.com/products/catalog)
 - HeroDevs.com
 
 Dan
 
 - [Look at the Birdie](https://www.amazon.com/Look-at-Birdie-Short-Fiction/dp/0385343728)
 - [The King and Queen of the Universe](https://www.amazon.com/King-Queen-Universe-Kurt-Vonnegut-ebook/dp/B002SME1W6/ref=sr_1_1?s=books&ie=UTF8&qid=1540168159&sr=1-1&keywords=The+King+and+Queen+of+the+Universe)
-- [Grinders Boots](http://grinders.co.uk/home/)
-- [Screaming Females](http://screamingfemales.com/)
+- [Grinders Boots](https://grinders.co.uk/home/)
+- [Screaming Females](https://screamingfemales.com/)
 
 ### Transcript

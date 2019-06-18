@@ -47,9 +47,9 @@ Andrew
 
 - 34th Anniversary of the Original Mac
 - [Altair 8800 Playing Music Over Am Radio](https://www.youtube.com/watch?v=1FDigtF0dRQ)
-- [Mini vMac](http://www.gryphel.com/c/minivmac/)
+- [Mini vMac](https://www.gryphel.com/c/minivmac/)
 - [Soft Modem Arduino Library](https://github.com/arms22/SoftModem)
   Jaim
-- [Trade Wars](http://www.tradewars.com/default.html)
+- [Trade Wars](https://www.tradewars.com/default.html)
 
 ### Transcript

@@ -16,12 +16,12 @@ tags:
 
 - [Twitter](https://twitter.com/livingtech)
 - [GitHub](https://github.com/mgrider)
-- [Blog](http://chesstris.com/)
+- [Blog](https://chesstris.com/)
 - [ActionChess](https://itunes.apple.com/us/app/actionchess/id309543463?mt=8&ign-mpt=uo%3D8)
-- [Go Tetris](http://chesstris.com/2007/10/03/play-go-tetris-10/)
-- [For The Win](http://boardgamegeek.com/boardgame/114871/win)
+- [Go Tetris](https://chesstris.com/2007/10/03/play-go-tetris-10/)
+- [For The Win](https://boardgamegeek.com/boardgame/114871/win)
 - [Catchup](https://itunes.apple.com/us/app/catchup-abstract-strategy/id718429890?mt=8&ign-mpt=uo%3D8)
-- [Abstract Puzzle](http://abstractpuzzle.com/)
+- [Abstract Puzzle](https://abstractpuzzle.com/)
   - [@abstractpuzzle](https://twitter.com/abstractpuzzle)&nbsp;&nbsp;
 
 09:29 - Interaction Design and Mechanics
@@ -35,18 +35,18 @@ tags:
 14:30 - Converting Board Games to Mobile
 
 - Getting the Company on Board
-- [Michael Mindes](http://michaelmindes.com/)
+- [Michael Mindes](https://michaelmindes.com/)
   - [@MichaelMindes](https://twitter.com/michaelmindes)
 - [For The Win Kickstarter](https://www.kickstarter.com/projects/michaelmindes/for-the-win-zombies-pirates-ninjas-aliens-and-monk)
-- [Carcassonne](http://carcassonneapp.com/)
+- [Carcassonne](https://carcassonneapp.com/)
 - [Ascension](https://ascensiongame.com/)
 
 17:09 - Copyright Infringement (Cloning)
 
-- [Settlers of Catan](http://www.catan.com/)
-- [Threes](http://asherv.com/threes/)
-- [2048](http://2048game.com/)
-- [Triple Town](http://spryfox.com/our-games/tripletown/)
+- [Settlers of Catan](https://www.catan.com/)
+- [Threes](https://asherv.com/threes/)
+- [2048](https://2048game.com/)
+- [Triple Town](https://spryfox.com/our-games/tripletown/)
 
 20:54 - Protecting Your Ideas and Partnering with Publishers
 
@@ -54,27 +54,27 @@ tags:
 
 - Marketers, App Store SEOs, etc.
 
-27:02 - [App Shopper](http://appshopper.com/)
+27:02 - [App Shopper](https://appshopper.com/)
 
 28:24 - Technical Aspects of Game Development
 
-- [Cocos2d](http://www.cocos2d-x.org/)
-- [UIkit](http://getuikit.com/)
+- [Cocos2d](https://www.cocos2d-x.org/)
+- [UIkit](https://getuikit.com/)
 - [SpriteKit](https://developer.apple.com/library/ios/documentation/SpriteKit/Reference/SpriteKitFramework_Ref/)
-- [Unity](http://unity3d.com/)
+- [Unity](https://unity3d.com/)
 - [Unreal Engine](https://www.unrealengine.com/)
 
 34:31 - Physics
 
-36:12 - [The International Game Developer's Association](http://igdatc.org/) (IGDA)
+36:12 - [The International Game Developer's Association](https://igdatc.org/) (IGDA)
 
 39:47 - [Catchup](https://itunes.apple.com/us/app/catchup-abstract-strategy/id718429890?mt=8&ign-mpt=uo%3D8)
 
 Picks
 
-[Hunter Loftis: We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) (Pete)[Indie Game: The Movie](http://www.imdb.com/title/tt1942884/) (Pete)[Eurogames](http://martinfowler.com/articles/eurogames/) (Pete)[The Changelog #151: Rust with Steve Klabnik and Yehuda Katz](https://thechangelog.com/151/) (Pete)[A Swift Guide to Rust](http://faq.sealedabstract.com/rust/) (Andrew)[Arduino Esplora](http://arduino.cc/en/Main/arduinoBoardEsplora) (Andrew)[Analogue Nt](http://www.analogueinteractive.com/) (Andrew)[L3D](http://l3dcube.com/) (Martin)[Game Developers Conference](http://www.gdconf.com/) (Martin)[GameLoading](http://www.gameloading.tv/) (Martin)[Top Hat](http://supertop.co/tophat/) (Martin)[CumulusPRO Commercial Grade Anti-Fatigue Comfort Mat Area Mat](http://www.amazon.com/gp/product/B005UA2WNI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005UA2WNI&linkCode=as2&tag=chamaxwoo-20&linkId=MUJHR2WW6FLDVTSU) (Jaim)
+[Hunter Loftis: We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) (Pete)[Indie Game: The Movie](https://www.imdb.com/title/tt1942884/) (Pete)[Eurogames](https://martinfowler.com/articles/eurogames/) (Pete)[The Changelog #151: Rust with Steve Klabnik and Yehuda Katz](https://thechangelog.com/151/) (Pete)[A Swift Guide to Rust](https://faq.sealedabstract.com/rust/) (Andrew)[Arduino Esplora](https://arduino.cc/en/Main/arduinoBoardEsplora) (Andrew)[Analogue Nt](https://www.analogueinteractive.com/) (Andrew)[L3D](https://l3dcube.com/) (Martin)[Game Developers Conference](https://www.gdconf.com/) (Martin)[GameLoading](https://www.gameloading.tv/) (Martin)[Top Hat](https://supertop.co/tophat/) (Martin)[CumulusPRO Commercial Grade Anti-Fatigue Comfort Mat Area Mat](https://www.amazon.com/gp/product/B005UA2WNI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005UA2WNI&linkCode=as2&tag=chamaxwoo-20&linkId=MUJHR2WW6FLDVTSU) (Jaim)
 
-iPhreaks T-Shirts are available via [Teespring](http://teespring.com/)! Visit [teespring.com/iphreaks](http://teespring.com/iphreaks) to reserve yours by Wednesday, May 6th!
+iPhreaks T-Shirts are available via [Teespring](https://teespring.com/)! Visit [teespring.com/iphreaks](https://teespring.com/iphreaks) to reserve yours by Wednesday, May 6th!
 
 T-shirt styles include: unisex up to 3x, ladies', hoodies, and long sleeve tees. Teespring also offers international shipping so that all of our listeners have a chance to buy!
 

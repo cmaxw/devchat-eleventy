@@ -14,11 +14,11 @@ tags:
 
 ### Panel
 
-- Brian Ford ([twitter](https://twitter.com/briantford) [github](https://github.com/btford) [blog](http://briantford.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](https://github.com/cmaxw)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://blog.coolaj86.com/)&nbsp;[youtube](http://youtube.com/coolaj86))
+- Brian Ford ([twitter](https://twitter.com/briantford) [github](https://github.com/btford) [blog](https://briantford.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/cmaxw)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://blog.coolaj86.com/)&nbsp;[youtube](https://youtube.com/coolaj86))
 
 ### Discussion
 
@@ -28,22 +28,22 @@ tags:
 - [zone.js](https://github.com/btford/zone.js/)
   02:13 - Angular 1.0 vs 2.0
 - Tooling
-  03:46 - [zone.js](https://github.com/btford/zone.js/) 06:48 - Domains vs Zones 08:00 - How it Works 09:07 - Testing 09:42 - [The Observer Pattern](http://en.wikipedia.org/wiki/Observer_pattern) 10:47 - Specifying Work
+  03:46 - [zone.js](https://github.com/btford/zone.js/) 06:48 - Domains vs Zones 08:00 - How it Works 09:07 - Testing 09:42 - [The Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern) 10:47 - Specifying Work
 - Hooks
   12:29 - Benefits 17:23 - History 23:06 - Zones & Events 24:21 - [zone](https://www.npmjs.org/package/zone) 26:14 - The Future of Zones
 - [async-listener](https://github.com/othiym23/async-listener)
 
 ### Picks
 
-- [jest](http://facebook.github.io/jest/) (Jamison)
-- [Captain Dave's Whale Watching & Dolphin Safari](http://www.dolphinsafari.com/) (Joe)
-- [belVita](http://www.belvitabreakfast.com/) (Joe)
-- [Heir to the Empire: Star Wars (The Thrawn Trilogy): Star Wars, Volume I (Star Wars: The Thrawn Trilogy) by Timothy Zahn](http://www.amazon.com/gp/product/0553296124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553296124&linkCode=as2&tag=chamaxwoo-20&linkId=EXGDQ7RQQSYNUWKK) (Joe)
-- [Hearthstone](http://us.battle.net/hearthstone/en/) (Chuck)
+- [jest](https://facebook.github.io/jest/) (Jamison)
+- [Captain Dave's Whale Watching & Dolphin Safari](https://www.dolphinsafari.com/) (Joe)
+- [belVita](https://www.belvitabreakfast.com/) (Joe)
+- [Heir to the Empire: Star Wars (The Thrawn Trilogy): Star Wars, Volume I (Star Wars: The Thrawn Trilogy) by Timothy Zahn](https://www.amazon.com/gp/product/0553296124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553296124&linkCode=as2&tag=chamaxwoo-20&linkId=EXGDQ7RQQSYNUWKK) (Joe)
+- [Hearthstone](https://us.battle.net/hearthstone/en/) (Chuck)
 - Sunlight (Chuck)
-- [EntreLeadership: 20 Years of Practical Business Wisdom from the Trenches by Dave Ramsey](http://www.amazon.com/gp/product/1451617852/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451617852&linkCode=as2&tag=chamaxwoo-20&linkId=UZMDKVDR2MI6654N) (Chuck)
-- [Winning: The Ultimate Business How-To Book by Jack Welch](http://www.amazon.com/gp/product/B000FCK3GO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FCK3GO&linkCode=as2&tag=chamaxwoo-20&linkId=LXHOZQE5C6NYOAFD) (Chuck)
-- [James Mickens' talk from Monitorama PDX 2014](http://vimeo.com/95066828?utm_content=bufferd01d5) (Brian)
+- [EntreLeadership: 20 Years of Practical Business Wisdom from the Trenches by Dave Ramsey](https://www.amazon.com/gp/product/1451617852/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451617852&linkCode=as2&tag=chamaxwoo-20&linkId=UZMDKVDR2MI6654N) (Chuck)
+- [Winning: The Ultimate Business How-To Book by Jack Welch](https://www.amazon.com/gp/product/B000FCK3GO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000FCK3GO&linkCode=as2&tag=chamaxwoo-20&linkId=LXHOZQE5C6NYOAFD) (Chuck)
+- [James Mickens' talk from Monitorama PDX 2014](https://vimeo.com/95066828?utm_content=bufferd01d5) (Brian)
 - [Introducing the WebKit FTL JIT](https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/) (Brian)
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love) (Brian)
 

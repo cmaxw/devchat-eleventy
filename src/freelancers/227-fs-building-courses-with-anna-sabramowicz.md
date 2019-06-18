@@ -21,7 +21,7 @@ tags:
   9:00: What type of course?
 - Email (Paid or Free)
 - Video
-- [Joe Rogan podcast](http://joerogan.net/podcasts/)
+- [Joe Rogan podcast](https://joerogan.net/podcasts/)
 - Webinars
 - [HeadsUp app](https://itunes.apple.com/us/app/headsup-webcam-viewer/id583912513?mt=12)
   24:00: Data testing
@@ -36,7 +36,7 @@ tags:
 
 ### Picks
 
-Weekly newsletters (Reuven)[Lerner Consulting](http://lerner.co.il/) (Reuven)[Ikea New Cordless Milk Frother Handheld Cappuccino Latte Espresso](https://www.amazon.com/Ikea-Milk-Frother-100-763-20-Silver/dp/B00Q4O5MY0) (Jonathan)[Ditchinghourly.com](http://Ditchinghourly.com) (Jonathan)[Deadline Funnel](https://deadlinefunnel.com/) (Philip)[Ringr](https://www.ringr.com/) (Philip)[Webinar Jam](https://www.webinarjam.com/index/) (Charles)[Presentation Clicker](https://www.amazon.com/gp/product/B015J5KB3G/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1) (Charles)[Firewatch](http://www.firewatchgame.com/) (Anna)[Papers, Please](http://papersplea.se/) (Anna)[Mark’s Daily Apple](http://www.marksdailyapple.com/) (Anna)[Hired.com](https://hired.com/)
+Weekly newsletters (Reuven)[Lerner Consulting](https://lerner.co.il/) (Reuven)[Ikea New Cordless Milk Frother Handheld Cappuccino Latte Espresso](https://www.amazon.com/Ikea-Milk-Frother-100-763-20-Silver/dp/B00Q4O5MY0) (Jonathan)[Ditchinghourly.com](https://Ditchinghourly.com) (Jonathan)[Deadline Funnel](https://deadlinefunnel.com/) (Philip)[Ringr](https://www.ringr.com/) (Philip)[Webinar Jam](https://www.webinarjam.com/index/) (Charles)[Presentation Clicker](https://www.amazon.com/gp/product/B015J5KB3G/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1) (Charles)[Firewatch](https://www.firewatchgame.com/) (Anna)[Papers, Please](https://papersplea.se/) (Anna)[Mark’s Daily Apple](https://www.marksdailyapple.com/) (Anna)[Hired.com](https://hired.com/)
 
 ### Transcript
 

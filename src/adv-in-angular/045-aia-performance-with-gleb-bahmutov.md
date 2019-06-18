@@ -20,12 +20,12 @@ tags:
 
 - [Twitter](https://twitter.com/bahmutov)
 - [GitHub](https://github.com/bahmutov)
-- [Blog](http://glebbahmutov.com/)
+- [Blog](https://glebbahmutov.com/)
 
 03:21 - Perceptual Performance
 
 - [Paul Irish: "Delivering the goods" Fluent 2014 Keynote](https://www.youtube.com/watch?v=R8W_6xWphtw)
-- [Gleb](http://glebbahmutov.com/blog/improving-angular-web-app-performance-example/)[Bahmutov](http://glebbahmutov.com/blog/improving-angular-web-app-performance-example/)[: Improving Angular web app performance example.](http://glebbahmutov.com/blog/improving-angular-web-app-performance-example/)
+- [Gleb](https://glebbahmutov.com/blog/improving-angular-web-app-performance-example/)[Bahmutov](https://glebbahmutov.com/blog/improving-angular-web-app-performance-example/)[: Improving Angular web app performance example.](https://glebbahmutov.com/blog/improving-angular-web-app-performance-example/)
 - [[YouTube] Gleb ](https://www.youtube.com/watch?v=UP1Iuln_iVk)[Bahmutov](https://www.youtube.com/watch?v=UP1Iuln_iVk)[: Profile and Optimize Your JavaScript Like a Ninja](https://www.youtube.com/watch?v=UP1Iuln_iVk)
 
 07:09 - Getting User Feedback
@@ -36,7 +36,7 @@ tags:
 
 16:45 - Performance Optimization
 
-- [The Pareto Principle](http://en.wikipedia.org/wiki/Pareto_principle)
+- [The Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle)
 - [Chrome DevTools](https://developer.chrome.com/devtools)
 
 20:38 - Benchmarks
@@ -53,7 +53,7 @@ tags:
 
 28:44 - Performance Lessons
 
-- [Ng-](http://mattslocum.github.io/ng-webworker/)[webworker](http://mattslocum.github.io/ng-webworker/)
+- [Ng-](https://mattslocum.github.io/ng-webworker/)[webworker](https://mattslocum.github.io/ng-webworker/)
 - [Dave Smith: Angular + React = Speed @ ng-conf 2015](https://www.youtube.com/watch?v=XQM0K6YG18s)
 
 34:30 - Public Opinion on Performance in Angular
@@ -64,12 +64,12 @@ tags:
 
 - [Minko](https://www.youtube.com/watch?v=zeChCjj-tbY)[Gechev: Bringing Immutability to Angular @ ng-vegas 2015](https://www.youtube.com/watch?v=zeChCjj-tbY)
   &nbsp;More From Gleb:
-- [Fast](http://glebbahmutov.com/blog/fast-legoization/)[Legoization](http://glebbahmutov.com/blog/fast-legoization/)
-- [Angular plus React equals Speed revisited](http://glebbahmutov.com/blog/angular-plus-react-equals-speed-revisited/)
-- [JavaScript and AngularJs learning resources](http://glebbahmutov.com/blog/javascript-and-angularjs-learning-resources/)
+- [Fast](https://glebbahmutov.com/blog/fast-legoization/)[Legoization](https://glebbahmutov.com/blog/fast-legoization/)
+- [Angular plus React equals Speed revisited](https://glebbahmutov.com/blog/angular-plus-react-equals-speed-revisited/)
+- [JavaScript and AngularJs learning resources](https://glebbahmutov.com/blog/javascript-and-angularjs-learning-resources/)
   Picks
 
-[The CodeNewbie Podcast](http://www.codenewbie.org/podcast) (Chuck)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck)[Wait Wait... Don't Tell Me!](http://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me) (Chuck)[Ask Me Another](http://www.npr.org/podcasts/510299/ask-me-another) (Chuck)[Ruby Rogues](http://rubyrogues.com/) (Chuck)[JavaScript Jabber](http://javascriptjabber.com/) (Chuck)[The Freelancers’ Show](http://devchat.tv/freelancers) (Chuck)[The iPhreaks Show](http://devchat.tv/iphreaks) (Chuck)[RailsClips](http://devchat.tv/rails-clips) (Chuck)[Car Talk](http://www.npr.org/podcasts/510208/car-talk) (Gleb)[Colorsublime](http://colorsublime.com/) (Gleb)
+[The CodeNewbie Podcast](https://www.codenewbie.org/podcast) (Chuck)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck)[Wait Wait... Don't Tell Me!](https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me) (Chuck)[Ask Me Another](https://www.npr.org/podcasts/510299/ask-me-another) (Chuck)[Ruby Rogues](https://rubyrogues.com/) (Chuck)[JavaScript Jabber](https://javascriptjabber.com/) (Chuck)[The Freelancers’ Show](https://devchat.tv/freelancers) (Chuck)[The iPhreaks Show](https://devchat.tv/iphreaks) (Chuck)[RailsClips](https://devchat.tv/rails-clips) (Chuck)[Car Talk](https://www.npr.org/podcasts/510208/car-talk) (Gleb)[Colorsublime](https://colorsublime.com/) (Gleb)
 
 ### Transcript
 

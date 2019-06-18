@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-02:27 - [Coding House](http://codinghouse.co/) Scholarship Winners with AJ and Aimee
+02:27 - [Coding House](https://codinghouse.co/) Scholarship Winners with AJ and Aimee
 
 - Emily Dreisbach (50% scholarship winner)
 - Blake Gilmore (50% scholarship winner)
@@ -31,11 +31,11 @@ tags:
 
 - [Twitter](https://twitter.com/wraithan)
 - [GitHub](https://github.com/wraithan)
-- [Blog](http://blog.wraithan.net/)
+- [Blog](https://blog.wraithan.net/)
 
 11:01 - Why Care About Monitoring?
 
-- [Insights](http://newrelic.com/insights)
+- [Insights](https://newrelic.com/insights)
 
 13:08 - [Mixedpanel](https://mixpanel.com/)
 
@@ -45,27 +45,27 @@ tags:
   - [MySQL](https://www.mysql.com/)
   - [statsd](https://github.com/etsy/statsd)
 - Traces
-  - [S3](http://aws.amazon.com/s3/)
-  - [Cassandra](http://cassandra.apache.org/)
-- [Insights](http://newrelic.com/insights)
+  - [S3](https://aws.amazon.com/s3/)
+  - [Cassandra](https://cassandra.apache.org/)
+- [Insights](https://newrelic.com/insights)
 
 17:26 - New Relic’s CEO: [Lew Cirne](https://en.wikipedia.org/wiki/Lew_Cirne)
 
 18:37 - How the [Node](https://nodejs.org/) Agent Works
 
-- [Express.js](http://expressjs.com/) Specifics&nbsp;&nbsp; &nbsp;
+- [Express.js](https://expressjs.com/) Specifics&nbsp;&nbsp; &nbsp;
 - Transactions and Controller Names
 - Database Monitoring
 - [MongoDB](https://www.mongodb.org/)
-- [Oracle](http://www.oracle.com/) Support
+- [Oracle](https://www.oracle.com/) Support
 
 23:27 - Deciding Which Databases to Support
 
-- [Postgres](http://www.postgresql.org/)
+- [Postgres](https://www.postgresql.org/)
 
 26:41 - Browser Monitoring
 
-32:54 - Using [Zombie.js](http://zombie.js.org/)?
+32:54 - Using [Zombie.js](https://zombie.js.org/)?
 
 34:11 - Tree of Causality
 
@@ -76,19 +76,19 @@ tags:
 47:28 - Performance
 
 - [CodeGen](https://codegen.codeplex.com/)
-- [mraleph Blog](http://mrale.ph/blog/)
+- [mraleph Blog](https://mrale.ph/blog/)
 - [v8-perf](https://github.com/thlorenz/v8-perf)
 - Benchmarking
   - [jsPerf](https://jsperf.com/)
 
-01:00:53 - [New Relic](http://newrelic.com/)
+01:00:53 - [New Relic](https://newrelic.com/)
 
 - [@newrelic](https://twitter.com/newrelic)
 - [New Relic Blog](https://blog.newrelic.com/)
 - [New Relic Community Forum](https://discuss.newrelic.com/)
   Picks
 
-[mraleph Blog](http://mrale.ph/blog/) (Wraithan)[v8-perf](http://thlorenz.com/v8-perf/) (Wraithan)[The Dear Hunter: A Night on the Town](https://www.youtube.com/watch?v=mIREZAOk4kg) (Jamison)[React Rally](http://www.reactrally.com/) (Jamison)[caddy](https://github.com/mholt/caddy) (AJ)[Windows 10: Setup your Raspberry Pi 2](http://ms-iot.github.io/content/en-US/win10/SetupRPI.htm) (AJ)[Remote debugging protocol](https://developer.chrome.com/devtools/docs/debugger-protocol) (Ben)[Chrome Dev Tools Filmstrip View](http://webperformance.io/devtools-filmstrip) (Ben)
+[mraleph Blog](https://mrale.ph/blog/) (Wraithan)[v8-perf](https://thlorenz.com/v8-perf/) (Wraithan)[The Dear Hunter: A Night on the Town](https://www.youtube.com/watch?v=mIREZAOk4kg) (Jamison)[React Rally](https://www.reactrally.com/) (Jamison)[caddy](https://github.com/mholt/caddy) (AJ)[Windows 10: Setup your Raspberry Pi 2](https://ms-iot.github.io/content/en-US/win10/SetupRPI.htm) (AJ)[Remote debugging protocol](https://developer.chrome.com/devtools/docs/debugger-protocol) (Ben)[Chrome Dev Tools Filmstrip View](https://webperformance.io/devtools-filmstrip) (Ben)
 
 ### Transcript
 

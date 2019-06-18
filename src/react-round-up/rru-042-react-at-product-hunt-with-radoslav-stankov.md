@@ -121,7 +121,7 @@ Radoslav
 
 - [Getting to know React DOM’s event handling system inside and out](https://medium.com/the-guild/getting-to-know-react-doms-event-handling-system-inside-out-378c44d2a5d0)
 - [React Fiber Architecture](https://github.com/SaeedMalikx/React-Fiber-Architecture)[React Hooks](https://nikgraf.github.io/react-hooks/)
-- [React.NotAConf](http://react-not-a-conf.com)
+- [React.NotAConf](https://react-not-a-conf.com)
 
 Lucas
 

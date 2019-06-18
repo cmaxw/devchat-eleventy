@@ -14,39 +14,39 @@ tags:
 
 ### Panel
 
-- Alex Russell ([twitter](https://twitter.com/slightlylate) [github](https://github.com/slightlyoff) [blog](http://infrequently.org/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Alex Russell ([twitter](https://twitter.com/slightlylate) [github](https://github.com/slightlyoff) [blog](https://infrequently.org/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 00:52 - Alex Russell Introduction
 
-- [Blink](http://www.chromium.org/blink)
-- [TC39 - ECMAScript](http://www.ecma-international.org/memento/TC39.htm)
-  03:35 - [Google DevTools](http://developers.google.com/chrome-developer-tools/)04:44 - Alex’s Background
-- [The Dojo Project](http://dojofoundation.org/projects/)
+- [Blink](https://www.chromium.org/blink)
+- [TC39 - ECMAScript](https://www.ecma-international.org/memento/TC39.htm)
+  03:35 - [Google DevTools](https://developers.google.com/chrome-developer-tools/)04:44 - Alex’s Background
+- [The Dojo Project](https://dojofoundation.org/projects/)
 - [Chrome Frame](https://developers.google.com/chrome/chrome-frame/)
-  07:14 - [TC39 - ECMAScript](http://www.ecma-international.org/memento/TC39.htm)
-- [ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
-  10:08 - Backwards Compatibility 12:45 - Features 21:16 - [Promises Spec](http://promises-aplus.github.io/promises-spec/)22:10 - Module Systems 25:08 - Implementing Ideas
-- [ES Discuss](http://esdiscuss.org/)
-- [Mailing List](http://mail.mozilla.org/listinfo/es-discuss)
-  29:27 - Misconceptions 33:36 - Server-side Systems 36:14 - The [Node](http://nodejs.org/) Community 40:21 - Making Progress 41:42 - Traits 42:59 - The [Dot Operator](http://publib.boulder.ibm.com/infocenter/macxhelp/topic/com.ibm.vacpp6m.doc/language/ref/clrc05cplr184.htm)46:10 - Automatic Semicolon Insertion (ASI) 47:29 - Creating a New Language 53:30 - Subsetting JavaScript Features
+  07:14 - [TC39 - ECMAScript](https://www.ecma-international.org/memento/TC39.htm)
+- [ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+  10:08 - Backwards Compatibility 12:45 - Features 21:16 - [Promises Spec](https://promises-aplus.github.io/promises-spec/)22:10 - Module Systems 25:08 - Implementing Ideas
+- [ES Discuss](https://esdiscuss.org/)
+- [Mailing List](https://mail.mozilla.org/listinfo/es-discuss)
+  29:27 - Misconceptions 33:36 - Server-side Systems 36:14 - The [Node](https://nodejs.org/) Community 40:21 - Making Progress 41:42 - Traits 42:59 - The [Dot Operator](https://publib.boulder.ibm.com/infocenter/macxhelp/topic/com.ibm.vacpp6m.doc/language/ref/clrc05cplr184.htm)46:10 - Automatic Semicolon Insertion (ASI) 47:29 - Creating a New Language 53:30 - Subsetting JavaScript Features
 
 ### Picks
 
-- [Death Tower](http://www.idownloadblog.com/2013/11/14/death-tower/) (Joe)
-- [Samsung - 2.1-Channel Soundbar with Wireless Subwoofer](http://www.bestbuy.com/site/2-1-channel-soundbar-with-wireless-subwoofer/7905043.p?id=1218862381353&skuId=7905043&st=samsung%20sound%20bar&cp=1&lp=3) (Joe)
-- [The Host](http://www.imdb.com/title/tt1517260/) (AJ)
-- [The Hobbit: The Desolation of Smaug](http://www.imdb.com/title/tt1170358/) (Chuck)
-- [The Classic Dr. Who Videos](http://www.youtube.com/user/OldDoctorWho) (Chuck)
-- [Duct Tape Marketing Revised & Updated: The World's Most Practical Small Business Marketing Guide by John Jantsch](http://www.amazon.com/gp/product/1595554653/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1595554653&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Unlocking the Clubhouse: Women in Computing by Jane Margolis](http://www.amazon.com/gp/product/0262632691/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262632691&linkCode=as2&tag=chamaxwoo-20) (Alex)
-- [XCOM: Enemy Within](http://www.xcom.com/enemywithin) (Alex)
-- [Have I Got News for You](http://en.wikipedia.org/wiki/Have_I_Got_News_for_You) (Alex)
-- [Only Connect](http://www.bbc.co.uk/programmes/b00lskhg) (Alex)
+- [Death Tower](https://www.idownloadblog.com/2013/11/14/death-tower/) (Joe)
+- [Samsung - 2.1-Channel Soundbar with Wireless Subwoofer](https://www.bestbuy.com/site/2-1-channel-soundbar-with-wireless-subwoofer/7905043.p?id=1218862381353&skuId=7905043&st=samsung%20sound%20bar&cp=1&lp=3) (Joe)
+- [The Host](https://www.imdb.com/title/tt1517260/) (AJ)
+- [The Hobbit: The Desolation of Smaug](https://www.imdb.com/title/tt1170358/) (Chuck)
+- [The Classic Dr. Who Videos](https://www.youtube.com/user/OldDoctorWho) (Chuck)
+- [Duct Tape Marketing Revised & Updated: The World's Most Practical Small Business Marketing Guide by John Jantsch](https://www.amazon.com/gp/product/1595554653/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1595554653&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Unlocking the Clubhouse: Women in Computing by Jane Margolis](https://www.amazon.com/gp/product/0262632691/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262632691&linkCode=as2&tag=chamaxwoo-20) (Alex)
+- [XCOM: Enemy Within](https://www.xcom.com/enemywithin) (Alex)
+- [Have I Got News for You](https://en.wikipedia.org/wiki/Have_I_Got_News_for_You) (Alex)
+- [Only Connect](https://www.bbc.co.uk/programmes/b00lskhg) (Alex)
 
 ### Next Week
 

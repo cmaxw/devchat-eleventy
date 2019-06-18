@@ -16,8 +16,8 @@ tags:
 
 - [Twitter](https://twitter.com/traskjd)
 - [GitHub](https://github.com/CmdrKeen)
-- [Blog](http://jdtrask.com/)
-- [Mindscape](http://www.mindscapehq.com/)
+- [Blog](https://jdtrask.com/)
+- [Mindscape](https://www.mindscapehq.com/)
   - [@MindscapeHQ](https://twitter.com/MindscapeHQ)
 
 04:57 - [Raygun.io](https://raygun.io/)
@@ -31,7 +31,7 @@ tags:
 
 10:06 - Most Common Errors
 
-12:05 - [Source Maps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
+12:05 - [Source Maps](https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
 
 19:16 - Managing Error Reporting in Gross Environments
 
@@ -55,8 +55,8 @@ tags:
 
 37:58 - Getting the _BEST_ Information
 
-- [Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
-- [Stockholm Syndrome](http://en.wikipedia.org/wiki/Stockholm_syndrome)
+- [Promises](https://www.html5rocks.com/en/tutorials/es6/promises/)
+- [Stockholm Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome)
 
 42:24 - The Backend: [Node.js](https://nodejs.org/)
 
@@ -66,7 +66,7 @@ tags:
 
 Picks
 
-[LDS Connect](https://ldsconnect.org) (AJ)[LDS I/O](https://lds.io) (AJ)[TED Talk About Nothing](https://www.youtube.com/watch?v=8S0FDjFBj8o) (Dave)[OlliOlli 2 Soundtrack](https://www.youtube.com/watch?v=hpLdTcBsoK4) (Jamison)[Jurassic Park](http://www.imdb.com/title/tt0107290/?ref_=nv_sr_1) (Joe)[ng-vegas](http://www.ng-vegas.org/) (Joe)[WASD CODE 87-Key Illuminated Mechanical Keyboard with White LED Backlighting - Cherry MX Clear](http://www.amazon.com/gp/product/B00LTAEV0K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LTAEV0K&linkCode=as2&tag=chamaxwoo-20&linkId=DGOCKESAST4P7EDZ) (Chuck)[Grifiti Fat Wrist Pad](http://www.amazon.com/gp/product/B004D8Q48M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004D8Q48M&linkCode=as2&tag=chamaxwoo-20&linkId=KZJVCWXJSFPEHJ2G) (Chuck) Thank You [Rails Clips Kickstarter](http://devchat.tv/kickstarter) Backers! (Chuck)[Mastery by Robert Greene](http://www.amazon.com/gp/product/014312417X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=014312417X&linkCode=as2&tag=chamaxwoo-20&linkId=SZTGOPLB6LFRQHKY) (Chuck)[Ready Player One by Ernest Cline](http://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=CGO5XGMSO5VQ5KHK) (Chuck)[The Pirates of Silicon Valley](http://www.imdb.com/title/tt0168122/) (John-Daniel)[littleBits](http://littlebits.cc/) (John-Daniel)
+[LDS Connect](https://ldsconnect.org) (AJ)[LDS I/O](https://lds.io) (AJ)[TED Talk About Nothing](https://www.youtube.com/watch?v=8S0FDjFBj8o) (Dave)[OlliOlli 2 Soundtrack](https://www.youtube.com/watch?v=hpLdTcBsoK4) (Jamison)[Jurassic Park](https://www.imdb.com/title/tt0107290/?ref_=nv_sr_1) (Joe)[ng-vegas](https://www.ng-vegas.org/) (Joe)[WASD CODE 87-Key Illuminated Mechanical Keyboard with White LED Backlighting - Cherry MX Clear](https://www.amazon.com/gp/product/B00LTAEV0K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LTAEV0K&linkCode=as2&tag=chamaxwoo-20&linkId=DGOCKESAST4P7EDZ) (Chuck)[Grifiti Fat Wrist Pad](https://www.amazon.com/gp/product/B004D8Q48M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004D8Q48M&linkCode=as2&tag=chamaxwoo-20&linkId=KZJVCWXJSFPEHJ2G) (Chuck) Thank You [Rails Clips Kickstarter](https://devchat.tv/kickstarter) Backers! (Chuck)[Mastery by Robert Greene](https://www.amazon.com/gp/product/014312417X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=014312417X&linkCode=as2&tag=chamaxwoo-20&linkId=SZTGOPLB6LFRQHKY) (Chuck)[Ready Player One by Ernest Cline](https://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=CGO5XGMSO5VQ5KHK) (Chuck)[The Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/) (John-Daniel)[littleBits](https://littlebits.cc/) (John-Daniel)
 
 ### Transcript
 

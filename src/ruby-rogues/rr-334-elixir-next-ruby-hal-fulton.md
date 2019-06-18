@@ -16,7 +16,7 @@ tags:
 
 - Hal talks about the history of Ruby
 - Ruby does not handle multiple processors
-- [The Free Lunch is Over](http://www.gotw.ca/publications/concurrency-ddj.htm) - Moore’s Law
+- [The Free Lunch is Over](https://www.gotw.ca/publications/concurrency-ddj.htm) - Moore’s Law
 - The future is in multiple core and or processors
 - OOP or FP
 - Immutability
@@ -30,7 +30,7 @@ tags:
 - and much much more.
   **Links:&nbsp;**
 - [The Ruby Way](https://www.amazon.com/Ruby-Way-Programming-Addison-Wesley-Professional/dp/0321714636)
-- [http://therubyway.io](http://therubyway.io)
+- [https://therubyway.io](https://therubyway.io)
 - [https://github.com/hal9000](https://github.com/hal9000)
 - @hal9000
   **Picks:** Hal
@@ -40,11 +40,11 @@ tags:
 - The Long Now Foundation -&nbsp; Organization
 - Gesture App for iPad
   Dave
-- [Interact JS](http://interactjs.io)
+- [Interact JS](https://interactjs.io)
   Chuck
 - Getting back into Coding
-- [egghead.io](http://egghead.io)
-- [devchat.tv/15minutes](http://devchat.tv/15minutes)
+- [egghead.io](https://egghead.io)
+- [devchat.tv/15minutes](https://devchat.tv/15minutes)
 -
 
 ### Transcript

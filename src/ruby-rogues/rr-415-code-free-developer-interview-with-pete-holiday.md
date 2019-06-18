@@ -37,10 +37,10 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/? __tn__ =%2Cd%2
  **Andrew Mason:**
 - [Rails ERD gem](https://github.com/voormedia/rails-erd)
 **Dave Kimura:**
-- [Plant UML](http://plantuml.com/)
+- [Plant UML](https://plantuml.com/)
 - [Drill propeller](https://www.amazon.com/Drill-Paddle-Outdoors-Pontoons-Watercraft/dp/B00KSWZZAA/ref=sr_1_1?crid=Q5M359A4CIQG&keywords=drill+propeller&qid=1559151770&s=gateway&sprefix=drill+prop%2Caps%2C128&sr=8-1)
 **Charles Max Wood:**
-- _[Find Your Dream Coder Job](http://getacoderjob.com)_
+- _[Find Your Dream Coder Job](https://getacoderjob.com)_
 - [EverywhereRB](https://keepcurrentacademy.com/everywhererb/)
 **Nate Hopkins:**
 - [_Hamilton_](https://hamiltonmusical.com/new-york/)

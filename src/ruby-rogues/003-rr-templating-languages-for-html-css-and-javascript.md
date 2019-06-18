@@ -14,37 +14,37 @@ tags:
 
 ### Panel
 
-- Charles Max Wood ([@cmaxw](http://twitter.com/cmaxw))
-- James Edward Gray II ([@JEG2](http://twitter.com/JEG2))
-- Peter Cooper ([@peterc](http://twitter.com/peterc))
-- Wynn Netherland ([@pengwynn](http://twitter.com/pengwynn))
+- Charles Max Wood ([@cmaxw](https://twitter.com/cmaxw))
+- James Edward Gray II ([@JEG2](https://twitter.com/JEG2))
+- Peter Cooper ([@peterc](https://twitter.com/peterc))
+- Wynn Netherland ([@pengwynn](https://twitter.com/pengwynn))
 
 ### Discussion
 
-- [HAML](http://haml-lang.com/)
-- [SASS](http://sass-lang.com/)
-- [CoffeeScript](http://jashkenas.github.com/coffee-script/)
-- [ERB](http://www.ruby-doc.org/stdlib/libdoc/erb/rdoc/)
+- [HAML](https://haml-lang.com/)
+- [SASS](https://sass-lang.com/)
+- [CoffeeScript](https://jashkenas.github.com/coffee-script/)
+- [ERB](https://www.ruby-doc.org/stdlib/libdoc/erb/rdoc/)
 - [FireSass](https://addons.mozilla.org/en-US/firefox/addon/firesass-for-firebug/)
 - [tilt](https://github.com/rtomayko/tilt/)
-- [SCSS](http://sass-lang.com/)
-- [Heroku](http://heroku.com/)
-- [git hooks](http://www.kernel.org/pub/software/scm/git/docs/githooks.html)
-- [Titanium](http://www.appcelerator.com/)
-- [Slim](http://slim-lang.com/)
-- [Mustache](http://mustache.github.com/)
-- [Builder](http://builder.rubyforge.org/)
-- [Markaby](http://markaby.rubyforge.org/)
+- [SCSS](https://sass-lang.com/)
+- [Heroku](https://heroku.com/)
+- [git hooks](https://www.kernel.org/pub/software/scm/git/docs/githooks.html)
+- [Titanium](https://www.appcelerator.com/)
+- [Slim](https://slim-lang.com/)
+- [Mustache](https://mustache.github.com/)
+- [Builder](https://builder.rubyforge.org/)
+- [Markaby](https://markaby.rubyforge.org/)
 - [Tagz](https://github.com/ahoward/tagz)
 - [Zappa](https://github.com/mauricemach/zappa)
-- [Jekyll](http://jekyllrb.com/)
-- [Markdown](http://daringfireball.net/projects/markdown/)
-- [Textile](http://textile.thresholdstate.com/)
-- [Liquid](http://www.liquidmarkup.org/)
+- [Jekyll](https://jekyllrb.com/)
+- [Markdown](https://daringfireball.net/projects/markdown/)
+- [Textile](https://textile.thresholdstate.com/)
+- [Liquid](https://www.liquidmarkup.org/)
 - [CoffeeCup](https://github.com/dsc/coffeecup/tree/)
-- [Erector](http://erector.rubyforge.org/)
-- [Ruby-Toolbox](http://ruby-toolbox.com/)
-  The music is "Not Your Choice" by Wetnurse and available on [Metal Sucks](http://www.metalsucks.net/2011/03/01/nyc-sucks-volume-2-free-metal-download-now/).
+- [Erector](https://erector.rubyforge.org/)
+- [Ruby-Toolbox](https://ruby-toolbox.com/)
+  The music is "Not Your Choice" by Wetnurse and available on [Metal Sucks](https://www.metalsucks.net/2011/03/01/nyc-sucks-volume-2-free-metal-download-now/).
 
 ### Transcript
 

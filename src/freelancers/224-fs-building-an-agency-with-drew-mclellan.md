@@ -16,7 +16,7 @@ tags:
 
 - [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)
 - Drew McLellan
-- [Agency Management Institute](http://agencymanagementinstitute.com/)
+- [Agency Management Institute](https://agencymanagementinstitute.com/)
   2:40: Building an Agency
 - Adding employees
 - Traditional vs 1099 model
@@ -49,7 +49,7 @@ tags:
 
 ### Picks:
 
-[Drip](https://www.drip.co/)(Philip)Course on Drip (Philip)Having a vision for your business (Reuven)[Dev Shop Marketing Briefing](https://philipmorganconsulting.com/dev-shop-marketing-briefings/dsmb-email-marketing-mindset/) (Reuven)[12 Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)[A Conversation of Character](https://www.amazon.com/Zig-Ziglar-Conversation-Character-3DVDs/dp/1562077171) (Charles)[Who](https://www.amazon.com/dp/B001EL6RWY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)(Charles)[The Radical Leap](https://www.amazon.com/dp/B00PWKOBLC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Drew)[Traction](https://www.amazon.com/dp/B007QWLLV2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)(Drew)[Entrepreneurial Operating System](https://www.eosworldwide.com/) (Drew)[Wunderlist](https://www.wunderlist.com/)(Drew)[Agency Management Institute](http://agencymanagementinstitute.com/)
+[Drip](https://www.drip.co/)(Philip)Course on Drip (Philip)Having a vision for your business (Reuven)[Dev Shop Marketing Briefing](https://philipmorganconsulting.com/dev-shop-marketing-briefings/dsmb-email-marketing-mindset/) (Reuven)[12 Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)[A Conversation of Character](https://www.amazon.com/Zig-Ziglar-Conversation-Character-3DVDs/dp/1562077171) (Charles)[Who](https://www.amazon.com/dp/B001EL6RWY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)(Charles)[The Radical Leap](https://www.amazon.com/dp/B00PWKOBLC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Drew)[Traction](https://www.amazon.com/dp/B007QWLLV2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)(Drew)[Entrepreneurial Operating System](https://www.eosworldwide.com/) (Drew)[Wunderlist](https://www.wunderlist.com/)(Drew)[Agency Management Institute](https://agencymanagementinstitute.com/)
 
 ### Transcript
 

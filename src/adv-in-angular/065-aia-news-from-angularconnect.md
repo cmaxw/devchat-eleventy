@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-[AngularConnect](http://angularconnect.com)
+[AngularConnect](https://angularconnect.com)
 
 [Track 1 Playlist](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)[Track 2 Playlist](https://www.youtube.com/channel/UCBXsUGFxL1ilvPgQ_WXR4mw)
 
@@ -32,7 +32,7 @@ tags:
 - [Full Stack Angular 2 with Jeff Whelpley and Patrick Stapleton](https://www.youtube.com/watch?v=MtoHFDfi8FM)
 - [ngAnimate 2 0 with Matias Niemelä](https://www.youtube.com/watch?v=izp5N2eeogg)
 - [Testing Strategies with Angular 2 with Julie Ralph](https://www.youtube.com/watch?v=C0F2E-PRm44)
-- [Ionic 2](http://ionic.io/2)
+- [Ionic 2](https://ionic.io/2)
 - [Getting started in Angular 2 with Rado Kirov and Naomi Black](https://www.youtube.com/watch?v=LS3aewTkfHI)
 - [Building apps with Firebase and Angular 2 with Sara Robinson](https://www.youtube.com/watch?v=RD0xYicNcaY)
 
@@ -45,7 +45,7 @@ tags:
 
 35:03 - What is the next big Angular Conference on the horizon?
 
-- [ng-conf 2016](http://www.ng-conf.org/)
+- [ng-conf 2016](https://www.ng-conf.org/)
 
 36:09 - Going to Beta (Cont’d)
 
@@ -81,7 +81,7 @@ Suggest topics and guests! Contribute to the repo [aiatopics](https://github.com
 
 Picks
 
-[AngularConnect](http://angularconnect.com) (Joe)[Denmark](http://denmark.dk/) (Joe)[Star Wars: The Force Awakens Trailer (Official)](http://www.youtube.com/watch?v=sGbxmsDFVnE) (John)[Ultimate t-shirt for trolling science fiction fans](http://boingboing.net/2015/06/21/ultimate-t-shirt-for-trolling.html) (Chuck)[Rush Revere and the Brave Pilgrims by Rush Limbaugh](http://www.amazon.com/gp/product/1476755868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476755868&linkCode=as2&tag=chamaxwoo-20&linkId=OJ2PB4OWXUSF2WJ3) (Chuck)[The Magician's Nephew by C. S. Lewis](http://www.amazon.com/gp/product/0064405052/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0064405052&linkCode=as2&tag=chamaxwoo-20&linkId=7UC6F7PO6RD5THIY) (Chuck)[MONEY Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins](http://www.amazon.com/gp/product/1476757801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476757801&linkCode=as2&tag=chamaxwoo-20&linkId=4ULIBYQLH5PQSAPD) (Chuck)
+[AngularConnect](https://angularconnect.com) (Joe)[Denmark](https://denmark.dk/) (Joe)[Star Wars: The Force Awakens Trailer (Official)](https://www.youtube.com/watch?v=sGbxmsDFVnE) (John)[Ultimate t-shirt for trolling science fiction fans](https://boingboing.net/2015/06/21/ultimate-t-shirt-for-trolling.html) (Chuck)[Rush Revere and the Brave Pilgrims by Rush Limbaugh](https://www.amazon.com/gp/product/1476755868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476755868&linkCode=as2&tag=chamaxwoo-20&linkId=OJ2PB4OWXUSF2WJ3) (Chuck)[The Magician's Nephew by C. S. Lewis](https://www.amazon.com/gp/product/0064405052/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0064405052&linkCode=as2&tag=chamaxwoo-20&linkId=7UC6F7PO6RD5THIY) (Chuck)[MONEY Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins](https://www.amazon.com/gp/product/1476757801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476757801&linkCode=as2&tag=chamaxwoo-20&linkId=4ULIBYQLH5PQSAPD) (Chuck)
 
 ### Transcript
 

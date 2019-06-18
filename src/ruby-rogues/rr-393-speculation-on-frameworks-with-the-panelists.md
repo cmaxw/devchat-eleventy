@@ -110,7 +110,7 @@ End – [Cache Fly!](https://www.cachefly.com)
 **Links:**
 
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
-- [The DevRev Podcast Show](http://thedevrev.com)
+- [The DevRev Podcast Show](https://thedevrev.com)
 - [Angular](https://angular.io)
 - [DevChat TV](https://devchat.tv)
 - [Ruby](https://www.ruby-lang.org/en/)

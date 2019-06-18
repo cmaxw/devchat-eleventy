@@ -16,58 +16,58 @@ tags:
 
 - [twitter](https://twitter.com/saronyitbarek)
 - [github](https://github.com/sarony)
-- [blog](http://bloggytoons.com/)
-- [The Flatiron School](http://flatironschool.com/)
+- [blog](https://bloggytoons.com/)
+- [The Flatiron School](https://flatironschool.com/)
   - [@FlatironSchool](https://twitter.com/FlatironSchool)
 
-02:05 - [The New York Tech Meetup (NYTM)](http://nytm.org/)
+02:05 - [The New York Tech Meetup (NYTM)](https://nytm.org/)
 
 - [Saron’s RailsConf Talk](https://www.youtube.com/watch?v=mW_xKGUKLpk)
 - The Hackers in Residence
 
 04:57 - Getting into Programming / Math & Programming
 
-- [Steve Jobs by Walter Isaacson](http://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451648537&linkCode=as2&tag=chamaxwoo-20&linkId=CHTS3DJPJ5JJI6RH)
-- [James Edward Gray: Are We Teaching the Best Things?](http://graysoftinc.com/non-code/are-we-teaching-the-best-things)
+- [Steve Jobs by Walter Isaacson](https://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451648537&linkCode=as2&tag=chamaxwoo-20&linkId=CHTS3DJPJ5JJI6RH)
+- [James Edward Gray: Are We Teaching the Best Things?](https://graysoftinc.com/non-code/are-we-teaching-the-best-things)
 
 09:21 - Hacking Education
 
 - Reading Code
   - [Saron’s RailsConf Talk](https://www.youtube.com/watch?v=mW_xKGUKLpk)
-- [Code Club](http://bloggytoons.com/code-club/)
+- [Code Club](https://bloggytoons.com/code-club/)
   - [@ReadingCodeGood](https://twitter.com/ReadingCodeGood)
-- [#CodeNewbie](http://bloggytoons.com/codenewbie/)
+- [#CodeNewbie](https://bloggytoons.com/codenewbie/)
   - [@CodeNewbies](https://twitter.com/CodeNewbies)
-- [David Brady: How To Ship Code Every Single Day - MWRC 2010 Lightning Talks](http://www.confreaks.com/videos/10-mwrc2010-lightning-talks-1)
-- [James Edward Gray: A Library in One Day](http://graysoftinc.com/my-projects/a-library-in-one-day)
+- [David Brady: How To Ship Code Every Single Day - MWRC 2010 Lightning Talks](https://www.confreaks.com/videos/10-mwrc2010-lightning-talks-1)
+- [James Edward Gray: A Library in One Day](https://graysoftinc.com/my-projects/a-library-in-one-day)
 
 19:43 - Intimidation and the Tech Industry
 
 - “Permission”
-- [Demons and CFPs](http://bloggytoons.com/posts/2014/2/22/demons-and-cfps)
+- [Demons and CFPs](https://bloggytoons.com/posts/2014/2/22/demons-and-cfps)
 
 31:26 - Concepts and Cartoons
 
-- [Bloggy-Toons](http://bloggytoons.com/)
-- [Draw Real People! (Discover Drawing) by Lee Hammond](http://www.amazon.com/gp/product/0891346570/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0891346570&linkCode=as2&tag=chamaxwoo-20&linkId=CK3QTTFGMEJAXZGG)
-- [The Oatmeal](http://theoatmeal.com/)
-- [How Web Apps Work](http://bloggytoons.com/posts/2013/11/12/how-web-apps-work-part-1)
+- [Bloggy-Toons](https://bloggytoons.com/)
+- [Draw Real People! (Discover Drawing) by Lee Hammond](https://www.amazon.com/gp/product/0891346570/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0891346570&linkCode=as2&tag=chamaxwoo-20&linkId=CK3QTTFGMEJAXZGG)
+- [The Oatmeal](https://theoatmeal.com/)
+- [How Web Apps Work](https://bloggytoons.com/posts/2013/11/12/how-web-apps-work-part-1)
 
 40:18 - “Being” a Programmer
 
-- [Spencer's Smile](http://bloggytoons.com/posts/2013/10/1/smile-week-1-flatiron-reflections)
-- [Ara T. Howard: Static Is The New Black](http://dojo4.com/blog/static-is-the-new-black)
+- [Spencer's Smile](https://bloggytoons.com/posts/2013/10/1/smile-week-1-flatiron-reflections)
+- [Ara T. Howard: Static Is The New Black](https://dojo4.com/blog/static-is-the-new-black)
 
-47:45 - [Intersectionality](http://en.wikipedia.org/wiki/Intersectionality)
+47:45 - [Intersectionality](https://en.wikipedia.org/wiki/Intersectionality)
 
-- [Imposter Syndrome](http://en.wikipedia.org/wiki/Impostor_syndrome)
+- [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 
 56:44 - Tips for Reading Code
 
-- [Ruby Rogues Episode #31: Code Reading](http://rubyrogues.com/031-rr-code-reading/)
-- [Code Club](http://bloggytoons.com/code-club/)
+- [Ruby Rogues Episode #31: Code Reading](https://rubyrogues.com/031-rr-code-reading/)
+- [Code Club](https://bloggytoons.com/code-club/)
   - [@ReadingCodeGood](https://twitter.com/ReadingCodeGood)
-- [David Brady: Running SimpleCov when COVERAGE=true](http://heartmindcode.com/2012/05/07/running-simplecov-when-coveragetrue/)
+- [David Brady: Running SimpleCov when COVERAGE=true](https://heartmindcode.com/2012/05/07/running-simplecov-when-coveragetrue/)
 - [Evernote](https://evernote.com/)
 
 01:07:07 - Breaking Down Concepts
@@ -79,9 +79,9 @@ tags:
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

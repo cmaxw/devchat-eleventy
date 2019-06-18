@@ -16,15 +16,15 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/jspahrsummers)
 - [<u>GitHub</u>](https://github.com/jspahrsummers)
-- [<u>Blog</u>](http://jspahrsummers.com/)
+- [<u>Blog</u>](https://jspahrsummers.com/)
 - [<u>GitHub</u>](https://github.com/) (Company)
   - [<u>@GitHub</u>](https://twitter.com/GitHub)
 
-02:04 - [<u>Carthage</u>](http://en.wikipedia.org/wiki/Carthage)
+02:04 - [<u>Carthage</u>](https://en.wikipedia.org/wiki/Carthage)
 
 - [<u>[GitHub] Carthage</u>](https://github.com/Carthage)
 
-02:30 - [<u>CocoaPods</u>](http://cocoapods.org/) vs [<u>Carthage</u>](https://github.com/Carthage/Carthage)
+02:30 - [<u>CocoaPods</u>](https://cocoapods.org/) vs [<u>Carthage</u>](https://github.com/Carthage/Carthage)
 
 04:09 - Motivation for Creating [<u>Carthage</u>](https://github.com/Carthage/Carthage)
 
@@ -33,7 +33,7 @@ tags:
 
 06:38 - Support and Getting Started with [<u>Carthage</u>](https://github.com/Carthage/Carthage)
 
-08:19 - Working with Other Custom Build Tools like [<u>RubyMotion</u>](http://www.rubymotion.com/) or [<u>Xamarin</u>](http://xamarin.com/)
+08:19 - Working with Other Custom Build Tools like [<u>RubyMotion</u>](https://www.rubymotion.com/) or [<u>Xamarin</u>](https://xamarin.com/)
 
 - Requirements
 
@@ -51,7 +51,7 @@ tags:
 
 - [<u>Rob Rix</u>](https://twitter.com/rob_rix)
 
-14:51 - Choosing [<u>CocoaPods</u>](http://cocoapods.org/) or [<u>Carthage</u>](https://github.com/Carthage/Carthage)
+14:51 - Choosing [<u>CocoaPods</u>](https://cocoapods.org/) or [<u>Carthage</u>](https://github.com/Carthage/Carthage)
 
 16:54 - [<u>Carthage</u>](https://github.com/Carthage/Carthage) and [<u>Swift</u>](https://developer.apple.com/swift/)
 
@@ -63,7 +63,7 @@ tags:
 
 21:56 - Support for Other Version Control Systems
 
-- [<u>Mercurial</u>](http://mercurial.selenic.com/)
+- [<u>Mercurial</u>](https://mercurial.selenic.com/)
 - [<u>Kiln</u>](https://www.fogcreek.com/kiln/)
 
 22:58 - The Future of [<u>Carthage</u>](https://github.com/Carthage/Carthage)
@@ -77,7 +77,7 @@ tags:
 
 Picks
 
-[<u>Welcome to Macintosh Podcast</u>](http://www.macintosh.fm) (Andrew)[<u>Appalachian Jerky Company</u>](http://www.2jerkys.com) (Andrew)[<u>The Wizard of Earthsea Trilogy by Ursula K. Le Guin</u>](http://www.amazon.com/s/?ie=UTF8&keywords=the+wizard+of+earthsea+trilogy&tag=googhydr-20&index=stripbooks&hvadid=34348210429&hvpos=1t1&hvexid=&hvnetw=g&hvrand=3272879778382781593&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_3aw7rai30l_b) (Chuck)[<u>Traction by Gino Wickman</u>](http://www.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837/ref=sr_1_1?s=books&ie=UTF8&qid=1426800422&sr=1-1&keywords=Traction) (Chuck)[<u>Few.swift</u>](https://github.com/joshaber/Few.swift) (Justin)
+[<u>Welcome to Macintosh Podcast</u>](https://www.macintosh.fm) (Andrew)[<u>Appalachian Jerky Company</u>](https://www.2jerkys.com) (Andrew)[<u>The Wizard of Earthsea Trilogy by Ursula K. Le Guin</u>](https://www.amazon.com/s/?ie=UTF8&keywords=the+wizard+of+earthsea+trilogy&tag=googhydr-20&index=stripbooks&hvadid=34348210429&hvpos=1t1&hvexid=&hvnetw=g&hvrand=3272879778382781593&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_3aw7rai30l_b) (Chuck)[<u>Traction by Gino Wickman</u>](https://www.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837/ref=sr_1_1?s=books&ie=UTF8&qid=1426800422&sr=1-1&keywords=Traction) (Chuck)[<u>Few.swift</u>](https://github.com/joshaber/Few.swift) (Justin)
 
 _For more on Carthage, check out the [<u>Github repo</u>](https://github.com/Carthage/Carthage) and the [<u>Quora answers</u>](https://www.quora.com/Carthage-dependency-manager) from Justin!_
 

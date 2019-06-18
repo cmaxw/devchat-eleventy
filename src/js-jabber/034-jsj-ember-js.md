@@ -14,20 +14,20 @@ tags:
 
 ### Panel
 
-- Trek Glowacki ([twitter](https://twitter.com/trek) [github](https://github.com/trek) [Trek by trek](http://trek.github.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86)[github](https://github.com/coolaj86/)[blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[github](http://github.com/charlesmaxwood)[Teach Me To Code](http://teachmetocode.com/)[Intro to CoffeeScript](http://introtocoffeescript.eventbrite.com/))
+- Trek Glowacki ([twitter](https://twitter.com/trek) [github](https://github.com/trek) [Trek by trek](https://trek.github.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86)[github](https://github.com/coolaj86/)[blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[github](https://github.com/charlesmaxwood)[Teach Me To Code](https://teachmetocode.com/)[Intro to CoffeeScript](https://introtocoffeescript.eventbrite.com/))
 
 ### Discussion
 
-02:18 - Ember.js ([twitter](https://twitter.com/emberjs), [github](https://github.com/emberjs/ember.js), [site](http://emberjs.com/)) 03:17 - Based on/Inspired by [SproutCore](http://sproutcore.com/)? 05:39 - The Rails of JavaScript?
+02:18 - Ember.js ([twitter](https://twitter.com/emberjs), [github](https://github.com/emberjs/ember.js), [site](https://emberjs.com/)) 03:17 - Based on/Inspired by [SproutCore](https://sproutcore.com/)? 05:39 - The Rails of JavaScript?
 
 - “Magical”
   06:29 - [todomvc](https://github.com/addyosmani/todomvc)
 -
 
-[Backbone.js&nbsp;&nbsp;&nbsp;](http://backbonejs.org/)
+[Backbone.js&nbsp;&nbsp;&nbsp;](https://backbonejs.org/)
 11:21 - Pulling pieces of Ember.js 12:07 - Struggles with using Ember.js
 
 - Learning API can and does change frequently
@@ -37,7 +37,7 @@ tags:
 -
 
 State machines
-32:31 - Spending time learning Ember.js 35:06 - Frameworks and [Wordpress](http://wordpress.org/) 41:57 - Event loop 42:49 - API
+32:31 - Spending time learning Ember.js 35:06 - Frameworks and [Wordpress](https://wordpress.org/) 41:57 - Event loop 42:49 - API
 
 -
 
@@ -49,20 +49,20 @@ Binding syntax
 
 -
 
-[Handlebars.js](http://handlebarsjs.com/)
+[Handlebars.js](https://handlebarsjs.com/)
 46:38 - Rendering and nesting views
 
 ### Picks
 
-- [Promo Only](http://www.promoonly.com/) (AJ)
-- [TinyToCS: Tiny Transactions on Computer Science](http://tinytocs.org/) (Jamison)
-- [HandBrake](http://handbrake.fr/) (Chuck)
-- [BitTorrent](http://www.bittorrent.com/) (Chuck)
-- [Transmission](http://www.transmissionbt.com/) (Chuck)
-- [Presto 04213 Electronic Digital Timer](http://www.amazon.com/gp/product/B001CQG618/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001CQG618&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Crafty.js](http://craftyjs.com/) (Trek)
-- [About Face 3: The Essentials of Interaction Design by Robert Reimann](http://www.amazon.com/gp/product/0470084111/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470084111&linkCode=as2&tag=chamaxwoo-20) (Trek)
-- [Tucker Teaches the Clockies to Copulate by David Erik Nelson](http://www.amazon.com/gp/product/B006RTWZF6/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006RTWZF6&linkCode=as2&tag=chamaxwoo-20) (Trek)
+- [Promo Only](https://www.promoonly.com/) (AJ)
+- [TinyToCS: Tiny Transactions on Computer Science](https://tinytocs.org/) (Jamison)
+- [HandBrake](https://handbrake.fr/) (Chuck)
+- [BitTorrent](https://www.bittorrent.com/) (Chuck)
+- [Transmission](https://www.transmissionbt.com/) (Chuck)
+- [Presto 04213 Electronic Digital Timer](https://www.amazon.com/gp/product/B001CQG618/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001CQG618&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Crafty.js](https://craftyjs.com/) (Trek)
+- [About Face 3: The Essentials of Interaction Design by Robert Reimann](https://www.amazon.com/gp/product/0470084111/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470084111&linkCode=as2&tag=chamaxwoo-20) (Trek)
+- [Tucker Teaches the Clockies to Copulate by David Erik Nelson](https://www.amazon.com/gp/product/B006RTWZF6/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006RTWZF6&linkCode=as2&tag=chamaxwoo-20) (Trek)
 
 ### Transcript
 

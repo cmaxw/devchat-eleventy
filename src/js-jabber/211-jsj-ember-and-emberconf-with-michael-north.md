@@ -16,9 +16,9 @@ tags:
 
 - [Twitter](https://twitter.com/michaellnorth)
 - [GitHub](https://github.com/mike-north)
-- [Levanto Financial](http://www.levantofinancial.com/)
+- [Levanto Financial](https://www.levantofinancial.com/)
 
-04:10 - [Ember](http://emberjs.com/) vs [React](https://facebook.github.io/react/) or [Angular](https://angularjs.org/)
+04:10 - [Ember](https://emberjs.com/) vs [React](https://facebook.github.io/react/) or [Angular](https://angularjs.org/)
 
 - [JavaScript Jabber Episode #203: Aurelia with Rob Eisenberg](https://devchat.tv/js-jabber/203-jsj-aurelia-with-rob-eisenberg)
 
@@ -26,17 +26,17 @@ tags:
 
 09:39 - Changes in Ember
 
-- [SproutCore &nbsp;](http://sproutcore.com/)
+- [SproutCore &nbsp;](https://sproutcore.com/)
 - [iCloud](https://www.icloud.com/)
-- [Ember CLI](http://ember-cli.com/)
+- [Ember CLI](https://ember-cli.com/)
 - Performance
 - [glimmer](https://github.com/tildeio/glimmer)
 
-16:04 - [Ember FastBoot](http://ember-fastboot.com/)
+16:04 - [Ember FastBoot](https://ember-fastboot.com/)
 
 - [Building a performant real-time web app with Ember Fastboot and Phoenix](https://medium.com/@mikenorth/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308#.45aquo9yd)
 
-18:53 - [EmberConf](http://emberconf.com/)
+18:53 - [EmberConf](https://emberconf.com/)
 
 - [Opening Keynote by Yehuda Katz & Tom Dale](https://www.youtube.com/watch?v=OInJBwS8VDQ&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW&index=1)
 
@@ -45,7 +45,7 @@ tags:
 - [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 - Hybrid Apps
 
-29:52 - [Electron](http://electron.atom.io/)
+29:52 - [Electron](https://electron.atom.io/)
 
 30:46 - Open Source Empowerment; The Ember Learning Team
 
@@ -53,7 +53,7 @@ tags:
 
 37:11 - The Ember CommunityPicks
 
-[React Rally](http://www.reactrally.com/) (Jamison)[Embedded](http://www.npr.org/podcasts/510311/embedded) (Jamison)[Remy Sharp: A debugging thought process](https://remysharp.com/2016/04/04/a-debugging-thought-process) (Jamison)[NashDev Podcast](http://nashdevcast.com/) (Aimee)[JS developers who don’t know what closure is are fine.](https://uselessdevblog.wordpress.com/2016/04/11/js-developers-who-dont-know-what-closure-is-are-fine/) (Aimee)[Sublime Text](https://www.sublimetext.com/) (Chuck)[DesktopServer](https://serverpress.com/get-desktopserver/) (Chuck)[MemberPress](https://www.memberpress.com/) (Chuck)[Frontend Masters](https://frontendmasters.com/) (Mike)[Wicked Good Ember Conf](https://wickedgoodember.com/) (Mike) Debugging Node.js with [Visual Studio Code](https://code.visualstudio.com/) (Mike)
+[React Rally](https://www.reactrally.com/) (Jamison)[Embedded](https://www.npr.org/podcasts/510311/embedded) (Jamison)[Remy Sharp: A debugging thought process](https://remysharp.com/2016/04/04/a-debugging-thought-process) (Jamison)[NashDev Podcast](https://nashdevcast.com/) (Aimee)[JS developers who don’t know what closure is are fine.](https://uselessdevblog.wordpress.com/2016/04/11/js-developers-who-dont-know-what-closure-is-are-fine/) (Aimee)[Sublime Text](https://www.sublimetext.com/) (Chuck)[DesktopServer](https://serverpress.com/get-desktopserver/) (Chuck)[MemberPress](https://www.memberpress.com/) (Chuck)[Frontend Masters](https://frontendmasters.com/) (Mike)[Wicked Good Ember Conf](https://wickedgoodember.com/) (Mike) Debugging Node.js with [Visual Studio Code](https://code.visualstudio.com/) (Mike)
 
 ### Transcript
 

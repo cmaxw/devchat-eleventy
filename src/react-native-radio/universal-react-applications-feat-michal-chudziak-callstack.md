@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-**React Native Radio | Episode 82\*\*** <u> </u> \***\*<u>Panel </u>** Nader Dabit Mike Grabowski **Guests** : Michał&nbsp;Chudziak In today’s show the Nader Dabit of React Native Radio and Mike Grabowski of Callstack speaks Mike of [CallStack](http://CallStack.com) to discuss the topic of Universal Applications. Mike is a Full Stack developer with focus on React Native and cross platform applications. Mike talks about what Universal React is about and the uses for this platform. **Topics and Questions discussed:** &nbsp;
+**React Native Radio | Episode 82\*\*** <u> </u> \***\*<u>Panel </u>** Nader Dabit Mike Grabowski **Guests** : Michał&nbsp;Chudziak In today’s show the Nader Dabit of React Native Radio and Mike Grabowski of Callstack speaks Mike of [CallStack](https://CallStack.com) to discuss the topic of Universal Applications. Mike is a Full Stack developer with focus on React Native and cross platform applications. Mike talks about what Universal React is about and the uses for this platform. **Topics and Questions discussed:** &nbsp;
 
 - What is Universal React?
 - What type for customer is looking for this kind of platform?
@@ -24,7 +24,7 @@ tags:
 - With web, how does the navigation work? - There are 2 ways to handle the navigation
 - Would the universal application be able to handle desktop, or is it only for mobile?
 - What are the benefit of adding at platform? Serially or at once?
-- Are there any resources for getting started - [callstack.com](http://callstack.com)
+- Are there any resources for getting started - [callstack.com](https://callstack.com)
 - Tell us about React XP, React Native Web, and React Primitives?
 - Would the process be different if you were building with React Primitives or React Web? Similar
 - Do you do development with your clients within the company?

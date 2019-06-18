@@ -15,15 +15,15 @@ tags:
 1:40 - Introducing Uri Goldshtien
 
 - [Meteor Development Group](https://www.meteor.com/company)
-- [Apollo Library](http://dev.apollodata.com/angular2/)
+- [Apollo Library](https://dev.apollodata.com/angular2/)
 - [Github](https://github.com/Urigo)
 - [Twitter](https://twitter.com/urigoldshtein?lang=en)
-  6:00 -Intro to [Graph QL](http://graphql.org/)
-- [http://www.graphql.com/](http://www.graphql.com/)
-- [Community page](http://graphql.org/community/)
+  6:00 -Intro to [Graph QL](https://graphql.org/)
+- [https://www.graphql.com/](https://www.graphql.com/)
+- [Community page](https://graphql.org/community/)
   28:40 - Live demo of using Graph QL35:00 - Demo using example apps
 - [Instagraph](https://github.com/kamilkisiela/instagraph)
-- [Blog posts](http://info.meteor.com/blog/angular-meteor-1.3)
+- [Blog posts](https://info.meteor.com/blog/angular-meteor-1.3)
 
 ### Transcript
 

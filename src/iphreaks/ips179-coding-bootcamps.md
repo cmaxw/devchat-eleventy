@@ -38,7 +38,7 @@ Introduction
 
 ### Picks:
 
-[Salt and Sanctuary](http://store.steampowered.com/agecheck/app/283640/) (Layne)[SCSI2SD](http://www.codesrc.com/mediawiki/index.php?title=SCSI2SD) (Andrew)[Macintoshgarden.org](http://macintoshgarden.org/) (Andrew)[For the Love of Spock](http://fortheloveofspock.com/) (Andrew)
+[Salt and Sanctuary](https://store.steampowered.com/agecheck/app/283640/) (Layne)[SCSI2SD](https://www.codesrc.com/mediawiki/index.php?title=SCSI2SD) (Andrew)[Macintoshgarden.org](https://macintoshgarden.org/) (Andrew)[For the Love of Spock](https://fortheloveofspock.com/) (Andrew)
 
 ### Transcript
 

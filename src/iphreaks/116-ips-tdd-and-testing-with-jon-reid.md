@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/qcoding)
 - [GitHub](https://github.com/jonreid)
-- [Blog](http://qualitycoding.org/)
+- [Blog](https://qualitycoding.org/)
 
 02:45 - Tools For Testing and [Test-Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
 
@@ -48,9 +48,9 @@ tags:
 
 30:18 - Communication and Collaboration
 
-- [Working Effectively with Legacy Code by Michael Feathers](http://www.amazon.com/gp/product/0131177052/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0131177052&linkCode=as2&tag=chamaxwoo-20&linkId=JZACO7I2UDMWMVT2)
+- [Working Effectively with Legacy Code by Michael Feathers](https://www.amazon.com/gp/product/0131177052/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0131177052&linkCode=as2&tag=chamaxwoo-20&linkId=JZACO7I2UDMWMVT2)
 
-33:39 - [OCMock](http://ocmock.org/), [OCMockito](https://github.com/jonreid/OCMockito)
+33:39 - [OCMock](https://ocmock.org/), [OCMockito](https://github.com/jonreid/OCMockito)
 
 39:13 - [OCMockito](https://github.com/jonreid/OCMockito) with Swift?
 
@@ -58,7 +58,7 @@ tags:
   - [Brian Gesak](https://github.com/modocache)
     41:07 - Inside Out vs Outside InPicks
 
-[wit.ai](https://wit.ai/) (Mike)[Jon's UIViewController TDD Screencast](http://qualitycoding.org/uiviewcontroller-tdd/) (Jaim)[Test-Driven iOS Development (Developer's Library) by Graham Lee](http://www.amazon.com/gp/product/B007RNK0W6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RNK0W6&linkCode=as2&tag=chamaxwoo-20&linkId=EQMJEXL76KDUDHJA) (Jaim)[NeewerHandheld Video Stabilizer for DV GoPro Mini Cameras](http://www.amazon.com/gp/product/B00QY8ANNQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QY8ANNQ&linkCode=as2&tag=chamaxwoo-20&linkId=IMK7QPOAASWBZOII) (Chuck)[Cell Phone Tripod Adapter](http://www.amazon.com/gp/product/B00OS9E6AO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OS9E6AO&linkCode=as2&tag=chamaxwoo-20&linkId=VNSUOS5JERPZYYH4) (Chuck)[Working Effectively with Legacy Code by Michael Feathers](http://www.amazon.com/gp/product/0131177052/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0131177052&linkCode=as2&tag=chamaxwoo-20&linkId=JZACO7I2UDMWMVT2) (Jon)[Clean Coders](https://cleancoders.com) (Jon)[AppCode](https://www.jetbrains.com/objc/) (Jon)
+[wit.ai](https://wit.ai/) (Mike)[Jon's UIViewController TDD Screencast](https://qualitycoding.org/uiviewcontroller-tdd/) (Jaim)[Test-Driven iOS Development (Developer's Library) by Graham Lee](https://www.amazon.com/gp/product/B007RNK0W6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RNK0W6&linkCode=as2&tag=chamaxwoo-20&linkId=EQMJEXL76KDUDHJA) (Jaim)[NeewerHandheld Video Stabilizer for DV GoPro Mini Cameras](https://www.amazon.com/gp/product/B00QY8ANNQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QY8ANNQ&linkCode=as2&tag=chamaxwoo-20&linkId=IMK7QPOAASWBZOII) (Chuck)[Cell Phone Tripod Adapter](https://www.amazon.com/gp/product/B00OS9E6AO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OS9E6AO&linkCode=as2&tag=chamaxwoo-20&linkId=VNSUOS5JERPZYYH4) (Chuck)[Working Effectively with Legacy Code by Michael Feathers](https://www.amazon.com/gp/product/0131177052/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0131177052&linkCode=as2&tag=chamaxwoo-20&linkId=JZACO7I2UDMWMVT2) (Jon)[Clean Coders](https://cleancoders.com) (Jon)[AppCode](https://www.jetbrains.com/objc/) (Jon)
 
 ### Transcript
 

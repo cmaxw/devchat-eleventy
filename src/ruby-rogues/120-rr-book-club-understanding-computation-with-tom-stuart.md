@@ -14,7 +14,7 @@ tags:
 
 01:52 - Tom Stuart Introduction
 
-02:24 - [Understanding Computation by Tom Stuart](http://computationbook.com/)
+02:24 - [Understanding Computation by Tom Stuart](https://computationbook.com/)
 
 02:53 - Why Tom Wrote the Book
 
@@ -24,11 +24,11 @@ tags:
 
 18:37 - Pages 187-192
 
-- [Types and Programming Languages by Benjamin C. Pierce](http://www.amazon.com/gp/product/0262162091/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262162091&linkCode=as2&tag=chamaxwoo-20)
+- [Types and Programming Languages by Benjamin C. Pierce](https://www.amazon.com/gp/product/0262162091/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262162091&linkCode=as2&tag=chamaxwoo-20)
 
 22:22 - Lambda Calculus
 
-- [The Halting Problem](http://en.wikipedia.org/wiki/Halting_problem)
+- [The Halting Problem](https://en.wikipedia.org/wiki/Halting_problem)
 
 35:36 - Decidability and Undecidability
 
@@ -36,20 +36,20 @@ tags:
 
 52:40 - Understanding Computation
 
-- [DNA Computing](http://en.wikipedia.org/wiki/DNA_computing)
+- [DNA Computing](https://en.wikipedia.org/wiki/DNA_computing)
 
-57:37 - [The Goldbach Conjecture](http://en.wikipedia.org/wiki/Goldbach's_conjecture)
+57:37 - [The Goldbach Conjecture](https://en.wikipedia.org/wiki/Goldbach's_conjecture)
 
 01:02:52 - Finite State Machine
 
 01:05:14 - The Impact of Quantum Computing
 
-- [Scott Aaronson](http://www.scottaaronson.com/)
-- [Quantum Computing since Democritus by Scott Aaronson](http://www.amazon.com/gp/product/0521199565/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0521199565&linkCode=as2&tag=chamaxwoo-20)
+- [Scott Aaronson](https://www.scottaaronson.com/)
+- [Quantum Computing since Democritus by Scott Aaronson](https://www.amazon.com/gp/product/0521199565/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0521199565&linkCode=as2&tag=chamaxwoo-20)
 
 01:07:25 - The Book and Rails
 
-- [html - RegEx match open tags except XHTML self-contained tags - Stack Overflow](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+- [html - RegEx match open tags except XHTML self-contained tags - Stack Overflow](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 
 01:16:41 - Using Ruby for the Book
 

@@ -23,7 +23,7 @@ tags:
 - [Viro-React](https://viromedia.com/viroreact/)
 - [Article: VR / AR](https://cramer.com/story/the-difference-between-ar-and-vr/)
 - [Movie: READY PLAYER ONE](https://www.imdb.com/title/tt1677720/)
-- [Ready Player One’s Website](http://readyplayeronemovie.com)
+- [Ready Player One’s Website](https://readyplayeronemovie.com)
 - [Past Episode with Vladimir](https://devchat.tv/react-native-radio/building-iot-applications-with-react-native-feat-vladimir-novick/)
 - [Vladimir’s Twitter](https://twitter.com/vladimirnovick?lang=en)
 - [Vladimir’s GitHub](https://github.com/vnovick)

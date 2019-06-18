@@ -144,11 +144,11 @@ In this episode, the panel talks with Peter Mbanugo who is a software developer,
 
 25:08 – Peter: It’s great to see the diversity.
 
-25:14 – Panel: I think it’s cool what you are doing. I am glad you wrote an article. What is [HospitalRun?](http://hospitalrun.io)
+25:14 – Panel: I think it’s cool what you are doing. I am glad you wrote an article. What is [HospitalRun?](https://hospitalrun.io)
 
 25:42 – Peter: It’s a hospital management system to work offline first. To use them in remote areas where there is no connectivity.
 
-27:08 – Panel: It’s an opensource project – [Hospital.io.](http://hospitalrun.io) You are more the maintainer of the frontend right?
+27:08 – Panel: It’s an opensource project – [Hospital.io.](https://hospitalrun.io) You are more the maintainer of the frontend right?
 
 28:05 – Peter: Yes.
 
@@ -177,13 +177,13 @@ In this episode, the panel talks with Peter Mbanugo who is a software developer,
 - [DevChat TV](https://devchat.tv)
 - [Can I Use Websocket?](https://caniuse.com/#search=websocket)
 - [Demopuppy.com](https://demopuppy.com/en/)
-- [HospitalRun.io](http://hospitalrun.io)
+- [HospitalRun.io](https://hospitalrun.io)
 - [What are the best tools for automating social media growth?](https://www.producthunt.com)
 - [Peter Mbanugo’s Twitter](https://twitter.com/p_mbanugo)
 - Peter Mbanugo’s Email: p.mbanugo@yahoo.com
 - [Peter’s blogs](https://www.telerik.com/blogs/author/peter-mbanugo)
 - [Vue Mastery](https://www.vuemastery.com/conferences/vueconf-2018/)
-- [Hoodie](http://hood.ie)
+- [Hoodie](https://hood.ie)
 - [Meetups](https://www.meetup.com)
 - Hamoni
 
@@ -211,7 +211,7 @@ John
 
 Peter
 
-- [Hoodie](http://hood.ie/)
+- [Hoodie](https://hood.ie/)
 - [Vue Dev Tools](https://github.com/vuejs/vue-devtools)
 - [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818)
 

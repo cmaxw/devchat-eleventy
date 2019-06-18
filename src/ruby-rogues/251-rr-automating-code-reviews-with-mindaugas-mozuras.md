@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/mmozuras)
 - [GitHub](https://github.com/mmozuras)
-- [Blog](http://codingfearlessly.com/)
+- [Blog](https://codingfearlessly.com/)
 - [Vinted](https://www.vinted.com/)
 - [pronto](https://github.com/mmozuras/pronto)
 
@@ -29,7 +29,7 @@ tags:
 06:04 - [pronto](https://github.com/mmozuras/pronto) vs [rubocop](https://github.com/bbatsov/rubocop)
 
 - [flay](https://github.com/seattlerb/flay)
-- [Brakeman](http://brakemanscanner.org/)
+- [Brakeman](https://brakemanscanner.org/)
 - [metric_fu](https://github.com/jscruggs/metric_fu)
 - [flog](https://github.com/seattlerb/flog)
 
@@ -53,7 +53,7 @@ tags:
 
 25:56 - Feature Flags
 
-- [Martin Fowler: Feature Toggles](http://martinfowler.com/articles/feature-toggles.html)
+- [Martin Fowler: Feature Toggles](https://martinfowler.com/articles/feature-toggles.html)
 - [iPhreaks Episode #136: Efficient Engineering Practices for Software Projects with Neal Ford](https://devchat.tv/iphreaks/136-ips-efficient-engineering-practices-for-software-projects-with-neal-ford)
 
 27:21 - Managing Open Source Projects and Communities
@@ -63,7 +63,7 @@ tags:
 - [Bitbucket](https://bitbucket.org/) Support
   Picks
 
-[Manic Panic Hair Dye](https://www.manicpanic.com/hair/hair-color?limit=all) (Jessica)[Kenneth Reitz: MentalHealthError: an exception occurred.](http://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred) (Jessica)[Frinkiac](https://frinkiac.com) (Coraline)[Erik Trautman: Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) (Coraline)[AppSumo](http://www.appsumo.com/) (Chuck)[AddThis](http://www.addthis.com/) (Chuck)[CircleCI](https://circleci.com/) (Chuck)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)[RescueTime](https://www.rescuetime.com/) (Mindaugas)[Dan McKinley: Choose Boring Technology](http://mcfunley.com/choose-boring-technology) (Mindaugas)[Brandon Sanderson](http://brandonsanderson.com/) (Mindaugas)
+[Manic Panic Hair Dye](https://www.manicpanic.com/hair/hair-color?limit=all) (Jessica)[Kenneth Reitz: MentalHealthError: an exception occurred.](https://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred) (Jessica)[Frinkiac](https://frinkiac.com) (Coraline)[Erik Trautman: Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) (Coraline)[AppSumo](https://www.appsumo.com/) (Chuck)[AddThis](https://www.addthis.com/) (Chuck)[CircleCI](https://circleci.com/) (Chuck)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)[RescueTime](https://www.rescuetime.com/) (Mindaugas)[Dan McKinley: Choose Boring Technology](https://mcfunley.com/choose-boring-technology) (Mindaugas)[Brandon Sanderson](https://brandonsanderson.com/) (Mindaugas)
 
 ### Transcript
 

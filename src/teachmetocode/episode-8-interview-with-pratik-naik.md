@@ -14,20 +14,20 @@ tags:
 
 In this interview with Pratik, we discuss several things, including:
 
-- [Cramp - A web framework in Ruby](http://m.onkey.org/2010/1/7/introducing-cramp) ([the repo on github](http://github.com/lifo/cramp))
+- [Cramp - A web framework in Ruby](https://m.onkey.org/2010/1/7/introducing-cramp) ([the repo on github](https://github.com/lifo/cramp))
 - Practicing coding - Write more code
 - Reading other people's code
-- [Rails Core](http://rubyonrails.org/core)
-- [37Signals](http://37signals.com/)
+- [Rails Core](https://rubyonrails.org/core)
+- [37Signals](https://37signals.com/)
 - Freelancing
-- Submitting patches to [Ruby on Rails](http://rubyonrails.org)
-- [Rails 3](http://rubyonrails.org) ([the repo on github](http://github.com/rails/rails))
-- [Arel](http://github.com/rails/arel)
+- Submitting patches to [Ruby on Rails](https://rubyonrails.org)
+- [Rails 3](https://rubyonrails.org) ([the repo on github](https://github.com/rails/rails))
+- [Arel](https://github.com/rails/arel)
 - Learning to Program
 - Adapting other people's code
 - Testing
 - Best Practices (the Basics)
 - Code Organization
-- [Shoulda](http://thoughtbot.com/community/)
-- [Webrat](http://github.com/brynary/webrat)
-  [Download this Episode](http://media.libsyn.com/media/charlesmaxwood/RailsCoach008InterviewwithPratikNaik.mp3)
+- [Shoulda](https://thoughtbot.com/community/)
+- [Webrat](https://github.com/brynary/webrat)
+  [Download this Episode](https://media.libsyn.com/media/charlesmaxwood/RailsCoach008InterviewwithPratikNaik.mp3)

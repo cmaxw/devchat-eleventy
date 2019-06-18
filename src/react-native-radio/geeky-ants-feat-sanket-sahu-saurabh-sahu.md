@@ -48,7 +48,7 @@ tags:
 - [Solidarity](https://github.com/infinitered/solidarity)
   Nader
 - [Shoe Dog](https://www.amazon.com/Shoe-Dog-Phil-Knight/dp/1508211809)
-- [org/learn](http://GraphQL.org/learn)
+- [org/learn](https://GraphQL.org/learn)
   Sanket
 - [Ignite 3.0](https://github.com/infinitered/ignite-ir-boilerplate)
 

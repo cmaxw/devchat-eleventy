@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors:**
 
-- [Sentry](http://sentry.io/)– use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/)– use the code “devchat” for $100 credit
 - [Clubhouse](https://clubhouse.io/jsjabber)
 **Host:** Charles Max Wood **Guest:** Bart Wood &nbsp;
 #### **Episode Summary**

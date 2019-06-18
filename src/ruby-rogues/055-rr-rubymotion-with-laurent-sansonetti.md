@@ -16,9 +16,9 @@ tags:
 
 - [Twitter](https://twitter.com/lrz)
 - [GitHub](https://github.com/lrz)
-- [Blog](http://lrz.flavors.me/)
-  03:25 -&nbsp;[RubyMotion: Commercial version of MacRuby for iOS](http://www.rubymotion.com/)
-- [MacRuby](http://macruby.org/)
+- [Blog](https://lrz.flavors.me/)
+  03:25 -&nbsp;[RubyMotion: Commercial version of MacRuby for iOS](https://www.rubymotion.com/)
+- [MacRuby](https://macruby.org/)
 - 3 Main Tech Differences between MacRuby & RubyMotion
   05:25 - Compilation
 - Static Compiler
@@ -30,24 +30,24 @@ tags:
 - Redefining Core Methods
 - No Binding Method on the Proc
 - [Charles Nutter](https://twitter.com/headius)
-  - [jRuby](http://jruby.org/)
+  - [jRuby](https://jruby.org/)
     12:42 - How much can you change Ruby and still call it Ruby?
 - [mRuby](https://github.com/mruby/mruby)
-- [Matz (Yukihiro Matsumoto)](http://en.wikipedia.org/wiki/Yukihiro_Matsumoto)
-- [RubySpec](http://rubyspec.org/)
-- [Ruby Standard](http://www.ruby-doc.org/stdlib-1.9.3/)
+- [Matz (Yukihiro Matsumoto)](https://en.wikipedia.org/wiki/Yukihiro_Matsumoto)
+- [RubySpec](https://rubyspec.org/)
+- [Ruby Standard](https://www.ruby-doc.org/stdlib-1.9.3/)
   15:03 - Apple Store Compliant 16:18 - Memory Management
-- [Automatic Release Count (ARC)](http://en.wikipedia.org/wiki/Automatic_Reference_Counting)
-  17:22 - Cyclic References =\> [RubyMotion](http://www.rubymotion.com/)
-- [Github Repo w/ Examples](http://help.github.com/create-a-repo/)
-  18:36 - Understanding [Objective-C](http://en.wikipedia.org/wiki/Objective-C)
-- [UIKit](http://getuikit.com/)
-  22:43 - RubyGems for RubyMotion 24:15 - [Interface Builder](http://en.wikipedia.org/wiki/Interface_Builder)
+- [Automatic Release Count (ARC)](https://en.wikipedia.org/wiki/Automatic_Reference_Counting)
+  17:22 - Cyclic References =\> [RubyMotion](https://www.rubymotion.com/)
+- [Github Repo w/ Examples](https://help.github.com/create-a-repo/)
+  18:36 - Understanding [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
+- [UIKit](https://getuikit.com/)
+  22:43 - RubyGems for RubyMotion 24:15 - [Interface Builder](https://en.wikipedia.org/wiki/Interface_Builder)
 - xib files
-- [TextMate](http://macromates.com/)
+- [TextMate](https://macromates.com/)
 - VI
 - ASCII
-  26:32 -&nbsp;[Rake](http://rake.rubyforge.org/)26:55 - Console on a Running Application
+  26:32 -&nbsp;[Rake](https://rake.rubyforge.org/)26:55 - Console on a Running Application
 - [Rich Kilmer](https://twitter.com/rich_kilmer)
 - Cmd-click: Change Self in the Console
 - Development Mode Type Update the Simulator at Runtime
@@ -56,17 +56,17 @@ tags:
 - Community Development
 - DSLs
 - Frameworks
-  32:15 - Why not Open Source? 37:47 -&nbsp;[CocoaPods](https://github.com/CocoaPods/CocoaPods)38:11 -&nbsp;[Mustachio](http://itunes.apple.com/us/app/mustachio/id525324802?mt=8)
-- [RubyMotion News](http://www.rubymotion.com/news/)
-  39:41 -&nbsp;[Pragmatic Studio Video](http://pragmaticstudio.com/ruby)
+  32:15 - Why not Open Source? 37:47 -&nbsp;[CocoaPods](https://github.com/CocoaPods/CocoaPods)38:11 -&nbsp;[Mustachio](https://itunes.apple.com/us/app/mustachio/id525324802?mt=8)
+- [RubyMotion News](https://www.rubymotion.com/news/)
+  39:41 -&nbsp;[Pragmatic Studio Video](https://pragmaticstudio.com/ruby)
 - [Mike Clark](https://twitter.com/clarkware)
   - [UIWindow](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIWindow_Class/index.html)
   - [UIScreen](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIScreen_Class/index.html)
-- [Jim Weirich](http://en.wikipedia.org/wiki/Jim_Weirich)
-  42:50 -&nbsp;[iOS SDK Development](http://www.amazon.com/gp/product/1934356948/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1934356948)
+- [Jim Weirich](https://en.wikipedia.org/wiki/Jim_Weirich)
+  42:50 -&nbsp;[iOS SDK Development](https://www.amazon.com/gp/product/1934356948/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1934356948)
 - [Apple iOS Library Documentation](https://developer.apple.com/devcenter/ios/index.action)
 - Obj-C Crash
-- [Xamarin MonoTouch](http://developer.xamarin.com/guides/ios/user_interface/monotouch.dialog/)
+- [Xamarin MonoTouch](https://developer.xamarin.com/guides/ios/user_interface/monotouch.dialog/)
 
 ### Transcript
 

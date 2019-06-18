@@ -50,7 +50,7 @@ Some freelancers decide they are going to price every service as the same thing 
 
 #### Curtis
 
-[Are you a satisficer or a Maximizer](http://gretchenrubin.com/happiness_project/2006/06/are_you_a_satis/)
+[Are you a satisficer or a Maximizer](https://gretchenrubin.com/happiness_project/2006/06/are_you_a_satis/)
 
 #### Jonathan
 
@@ -58,7 +58,7 @@ Some freelancers decide they are going to price every service as the same thing 
 
 #### Phillip
 
-[My Dad Wrote a Porno Podcast](http://www.mydadwroteaporno.com/#intro1)
+[My Dad Wrote a Porno Podcast](https://www.mydadwroteaporno.com/#intro1)
 
 #### Reuven
 

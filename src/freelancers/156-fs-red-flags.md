@@ -20,7 +20,7 @@ tags:
 
 09:26 - “Our developers are above-average smart!”
 
-- [Lake Wobegon Effect](http://en.wikipedia.org/wiki/Lake_Wobegon)
+- [Lake Wobegon Effect](https://en.wikipedia.org/wiki/Lake_Wobegon)
 
 10:40 - Lack of Communication / Communication Skills Suck
 
@@ -32,7 +32,7 @@ tags:
 
 28:03 - “We’ll pay you in equity!” or “We’ll give you a share of our profits!”
 
-29:59 - Ridiculous [NDAs (Non-Disclosure Agreements)](http://en.wikipedia.org/wiki/Non-disclosure_agreement)
+29:59 - Ridiculous [NDAs (Non-Disclosure Agreements)](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 
 32:04 - Vetting Processes
 
@@ -40,7 +40,7 @@ tags:
 
 44:56 - Low-Budget CompaniesPicks
 
-[Kai Davis:](http://microconfrecap.com/)[Microconf](http://microconfrecap.com/)[2015 Recap](http://microconfrecap.com/) (Eric)[Pricing with Confidence: 10 Ways to Stop Leaving Money on the Table by Reed Holden](http://www.amazon.com/gp/product/0470197579/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470197579&linkCode=as2&tag=chamaxwoo-20&linkId=M5LVKBZFOTN3OG5D) (Jonathan)[CleanMyMac 3](https://macpaw.com/cleanmymac) (Reuven)
+[Kai Davis:](https://microconfrecap.com/)[Microconf](https://microconfrecap.com/)[2015 Recap](https://microconfrecap.com/) (Eric)[Pricing with Confidence: 10 Ways to Stop Leaving Money on the Table by Reed Holden](https://www.amazon.com/gp/product/0470197579/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470197579&linkCode=as2&tag=chamaxwoo-20&linkId=M5LVKBZFOTN3OG5D) (Jonathan)[CleanMyMac 3](https://macpaw.com/cleanmymac) (Reuven)
 
 ### Transcript
 

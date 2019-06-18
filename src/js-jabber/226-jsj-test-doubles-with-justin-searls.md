@@ -18,19 +18,19 @@ tags:
 
 - [Twitter](https://twitter.com/searls)
 - [GitHub](https://github.com/searls)
-- [Blog](http://about.me/searls)
-- [Test Double](http://testdouble.com/)
+- [Blog](https://about.me/searls)
+- [Test Double](https://testdouble.com/)
 - [JavaScript Jabber Episode #038: Jasmine with Justin Searls](https://devchat.tv/js-jabber/038-jsj-jasmine-with-justin-searls)
   04:13 - Testing
 - [testdouble.js](https://github.com/testdouble/testdouble.js)
 - [teenytest](https://github.com/testdouble/teenytest)
-- [Sinon.JS](http://sinonjs.org/)
+- [Sinon.JS](https://sinonjs.org/)
   08:44 - Mocking
 - [Growing Object-Oriented Software, Guided by Tests by Steve Freeman and Nat Pryce](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 - [Jim Weirich](https://en.wikipedia.org/wiki/Jim_Weirich)
   14:45 - Starting These Concepts as a Junior Developer
 - [Test-driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
-  17:55 - [testdouble.js vs. sinon.js](http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html)
+  17:55 - [testdouble.js vs. sinon.js](https://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html)
 - [NIH = Not Invented Here](https://en.wikipedia.org/wiki/Not_invented_here)
   26:39 - [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing), [Monkey Patching](https://en.wikipedia.org/wiki/Monkey_patch), Duck Punching32:22 - [Node.js](https://nodejs.org/) Negativity
 - Design, Resources
@@ -38,10 +38,10 @@ tags:
   - [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
     42:52 - Community45:08 - The AAA Rule: Arrange, Act, Assert51:19 - Error Messages&nbsp;Picks
 - Unemployment (Jamison)
-- [React Rally](http://reactrally.com) (Jamison)
+- [React Rally](https://reactrally.com) (Jamison)
 - [Julia Evans' Tweet: how to be a wizard programmer](https://twitter.com/b0rk/status/755020037979856896) &nbsp;(Jamison)
 - See the good in people (Aimee)
-- [Sinon.JS](http://sinonjs.org/) (Joe)
+- [Sinon.JS](https://sinonjs.org/) (Joe)
 - [How to Stay Motivated: Developing the Qualities of Success by Zig Ziglar](https://www.amazon.com/How-Stay-Motivated-Developing-Qualities/dp/B001E4SMKG) (Chuck)
 - [The Harry Potter Series](https://en.wikipedia.org/wiki/Harry_Potter) (Chuck)
 - [RetroPie](https://retropie.org.uk/) (Justin)

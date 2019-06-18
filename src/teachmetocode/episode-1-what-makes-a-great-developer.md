@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-[Download this episode](http://media.libsyn.com/media/charlesmaxwood/001_What_Makes_a_Great_Developer_.mp3)
+[Download this episode](https://media.libsyn.com/media/charlesmaxwood/001_What_Makes_a_Great_Developer_.mp3)
 
 ## Why Another Rails Podcast?
 
@@ -22,11 +22,11 @@ Basically, many of us need someone who will encourage us and share our passion f
 
 ### 1. Process
 
-[Agile Development](http://agileprogramming.org/)[Waterfall](http://www.pctechguide.com/articles/waterfall-lifecycle.htm)
+[Agile Development](https://agileprogramming.org/)[Waterfall](https://www.pctechguide.com/articles/waterfall-lifecycle.htm)
 
 ### 2. Passion
 
-[The Passionate Programmer - Aloha on Rails](http://www.alohaonrails.com/2009/11/13/passionate-programmer-video-online/)
+[The Passionate Programmer - Aloha on Rails](https://www.alohaonrails.com/2009/11/13/passionate-programmer-video-online/)
 
 ### 3. Experience
 
@@ -34,6 +34,6 @@ Basically, many of us need someone who will encourage us and share our passion f
 
 ### 5. Community
 
-[RailsBridge](http://railsbridge.org/)
+[RailsBridge](https://railsbridge.org/)
 
 ### 6. Communication Skills

@@ -49,6 +49,6 @@ tags:
 - [_The 12 Week Year_ by Brian P. Moran](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234)
   Todd
 - [Smart Things](https://shop.smartthings.com/)
-- [Rage](http://store.steampowered.com/agecheck/app/9200/)
+- [Rage](https://store.steampowered.com/agecheck/app/9200/)
 
 ### Transcript

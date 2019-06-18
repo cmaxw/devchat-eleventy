@@ -35,7 +35,7 @@ tags:
 - What to do when you get the interview - the offer!
 - And much more!
   **Links:**
-- [devchat.tv/get-a-coder-job-full-access](http://devchat.tv/get-a-coder-job-full-access)full-access
+- [devchat.tv/get-a-coder-job-full-access](https://devchat.tv/get-a-coder-job-full-access)full-access
 - [WeWork](https://www.wework.com)
 - [Expert Salary Negotiation](https://fearlesssalarynegotiation.com)
   **&nbsp;**

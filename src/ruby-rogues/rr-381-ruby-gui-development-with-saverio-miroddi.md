@@ -72,9 +72,9 @@ Saverio: To be honest, this might just be a niche. It’s being developed at a s
 
 17:44 – Chuck: They were headed towards desktop but never got there.
 
-17:55 – Panelist: There is [Ruby Motion.](http://www.rubymotion.com)
+17:55 – Panelist: There is [Ruby Motion.](https://www.rubymotion.com)
 
-18:41 – Chuck: We are going to have a special guest back to talk about doing [Ruby Motion](http://www.rubymotion.com) on the Nintendo Switch. I think it will take a lot to compile to get to the new system.
+18:41 – Chuck: We are going to have a special guest back to talk about doing [Ruby Motion](https://www.rubymotion.com) on the Nintendo Switch. I think it will take a lot to compile to get to the new system.
 
 19:07 – What is your experience with building Opal?
 
@@ -110,7 +110,7 @@ If we are more web active what will throw us off? Just in general. Your visual i
 
 25:12 – Saverio is deciding on whether or not to transition to another language or not.
 
-26:36 – Chuck: Things that are built with [Shoes](http://shoesrb.com)...[Hackety Hack](https://en.wikipedia.org/wiki/Hackety_Hack)?
+26:36 – Chuck: Things that are built with [Shoes](https://shoesrb.com)...[Hackety Hack](https://en.wikipedia.org/wiki/Hackety_Hack)?
 
 26:55 – Saverio: It is hard to write in Shoes. It’s fun for the beginner.
 
@@ -142,12 +142,12 @@ If we are more web active what will throw us off? Just in general. Your visual i
 
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
 - [Ruby](https://www.ruby-lang.org/en/)
-- [Shoes](http://shoesrb.com)
+- [Shoes](https://shoesrb.com)
 - [Saverio Miroddi’s GitHub](https://github.com/saveriomiroddi)
 - [Saverio Miroddi’s article, “Using scripts in any language for...”](https://saveriomiroddi.github.io)
 - [Saverio Miroddi’s article, “An overview of Desktop Ruby GUI Development in 2018”](https://saveriomiroddi.github.io/An-overview-of-ruby-gui-development-in-2018/)
-- [RhoMobile](http://rms.rhomobile.com)
-- [Ruby Motion](http://www.rubymotion.com)
+- [RhoMobile](https://rms.rhomobile.com)
+- [Ruby Motion](https://www.rubymotion.com)
 - [Ruby Gems](https://rubygems.org/gems/sqlite3/versions/1.3.11)
 - [Hackety Hack](https://en.wikipedia.org/wiki/Hackety_Hack)
 - [NPM – Nativefier](https://www.npmjs.com/package/nativefier)

@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/ZChapple)
 - [GitHub](https://github.com/zackarychapple)
-- [Blog](http://zackarychapple.guru/)
+- [Blog](https://zackarychapple.guru/)
 
 02:02 - Performance; Metrics and Analytics
 
@@ -49,7 +49,7 @@ tags:
 - [heimdallr](https://github.com/zackarychapple/heimdallr)
   Picks
 
-[Angular 2: Getting Started by Deborah Kurata](https://www.pluralsight.com/courses/angular-2-getting-started) (Lucas)[Electron](http://electron.atom.io/) (Lukas)[Flyover Country](http://fc.umn.edu/) (Jules)[Snapchat](http://snapchat.com) (Jules)[#AskGaryVee: One Entrepreneur's Take on Leadership, Social Media, and Self-Awareness by Gary Vaynerchuk](http://www.amazon.com/AskGaryVee-Entrepreneurs-Leadership-Social-Self-Awareness/dp/0062273124/ref=sr_1_1?ie=UTF8&qid=1461102939&sr=8-1&keywords=ask+gary+vee) (Lukas)[Betterment](https://www.betterment.com) (Stephen)[Upwork](https://www.upwork.com/) (Chuck)[QuickBooks Online](http://quickbooks.intuit.com/online/) (Chuck)[Crazy Egg](http://www.crazyegg.com/) (Zack)[Grafana](http://grafana.org/) (Zack)
+[Angular 2: Getting Started by Deborah Kurata](https://www.pluralsight.com/courses/angular-2-getting-started) (Lucas)[Electron](https://electron.atom.io/) (Lukas)[Flyover Country](https://fc.umn.edu/) (Jules)[Snapchat](https://snapchat.com) (Jules)[#AskGaryVee: One Entrepreneur's Take on Leadership, Social Media, and Self-Awareness by Gary Vaynerchuk](https://www.amazon.com/AskGaryVee-Entrepreneurs-Leadership-Social-Self-Awareness/dp/0062273124/ref=sr_1_1?ie=UTF8&qid=1461102939&sr=8-1&keywords=ask+gary+vee) (Lukas)[Betterment](https://www.betterment.com) (Stephen)[Upwork](https://www.upwork.com/) (Chuck)[QuickBooks Online](https://quickbooks.intuit.com/online/) (Chuck)[Crazy Egg](https://www.crazyegg.com/) (Zack)[Grafana](https://grafana.org/) (Zack)
 
 ### Transcript
 

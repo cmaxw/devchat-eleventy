@@ -16,77 +16,77 @@ tags:
 
 - [<u>twitter</u>](https://twitter.com/luislavena)
 - [<u>github</u>](https://github.com/luislavena)
-- [<u>blog</u>](http://blog.mmediasys.com/)
-- [<u>RubyInstaller</u>](http://rubyinstaller.org/)
+- [<u>blog</u>](https://blog.mmediasys.com/)
+- [<u>RubyInstaller</u>](https://rubyinstaller.org/)
   - [<u>Ruby</u>](https://www.ruby-lang.org/en/)
-  - [<u>Windows</u>](http://windows.microsoft.com/en-us/windows/home)
-- [<u>.NET</u>](http://en.wikipedia.org/wiki/.NET_Framework)
+  - [<u>Windows</u>](https://windows.microsoft.com/en-us/windows/home)
+- [<u>.NET</u>](https://en.wikipedia.org/wiki/.NET_Framework)
 - [<u>Linux</u>](https://www.linux.com/)
 
 03:49 - [<u>“one-click” Ruby Installer</u>](https://github.com/oneclick/rubyinstaller/)
 
 - [<u>Ruby 1.6 and 1.8</u>](https://www.ruby-lang.org/en/news/2002/12/24/ruby-1-6-8-and-1-8-0-preview-1/)
-- [<u>Rails</u>](http://rubyonrails.org/)
-- [<u>Gems</u>](http://rubygems.org/)
+- [<u>Rails</u>](https://rubyonrails.org/)
+- [<u>Gems</u>](https://rubygems.org/)
 
 06:18 - Installing Ruby on Windows
 
 - [<u>GCC</u>](https://github.com/mattgodbolt/gcc-explorer)
-- [<u>Microsoft C Compiler</u>](http://msdn.microsoft.com/en-us/library/9s7c9wdw.aspx)
-  - [<u>Visual Studio</u>](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx)
-- [<u>Advanced Packaging Tool (APT)</u>](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)
+- [<u>Microsoft C Compiler</u>](https://msdn.microsoft.com/en-us/library/9s7c9wdw.aspx)
+  - [<u>Visual Studio</u>](https://msdn.microsoft.com/en-us/vstudio/aa718325.aspx)
+- [<u>Advanced Packaging Tool (APT)</u>](https://en.wikipedia.org/wiki/Advanced_Packaging_Tool)
 - [<u>gat</u>](https://github.com/dylanwh/gat)
-- [<u>MinGW</u>](http://mingw.org/)
-- [<u>Ruby Gems Installer</u>](http://guides.rubygems.org/)
+- [<u>MinGW</u>](https://mingw.org/)
+- [<u>Ruby Gems Installer</u>](https://guides.rubygems.org/)
 
 09:44 - Installing Gems
 
-- [<u>Dynamic Link Libraries (DLLs)</u>](http://en.wikipedia.org/wiki/Dynamic-link_library)
-- [<u>Nokogiri</u>](http://www.nokogiri.org/)
-- [<u>Bundler</u>](http://bundler.io/)
-- [<u>MySQL</u>](http://www.mysql.com/)
-- [<u>MySQL2</u>](http://rubygems.org/gems/mysql2)
-- [<u>BGem</u>](http://rubygems.org/search?utf8=%E2%9C%93&query=bgem)
-- [<u>BCrypt</u>](http://rubygems.org/search?utf8=%E2%9C%93&query=bcrypt)
-- [<u>SQLite</u>](http://sqlite.org/)
+- [<u>Dynamic Link Libraries (DLLs)</u>](https://en.wikipedia.org/wiki/Dynamic-link_library)
+- [<u>Nokogiri</u>](https://www.nokogiri.org/)
+- [<u>Bundler</u>](https://bundler.io/)
+- [<u>MySQL</u>](https://www.mysql.com/)
+- [<u>MySQL2</u>](https://rubygems.org/gems/mysql2)
+- [<u>BGem</u>](https://rubygems.org/search?utf8=%E2%9C%93&query=bgem)
+- [<u>BCrypt</u>](https://rubygems.org/search?utf8=%E2%9C%93&query=bcrypt)
+- [<u>SQLite</u>](https://sqlite.org/)
 - [<u>devkit-gem</u>](https://github.com/oneclick/devkit-gem)
 - <u><a href="https://github.com/oneclick/rubyinstaller/wiki/Development-Kit" data-cke-saved-href="https://github.com/oneclick/rubyinstaller/wiki/Development-Kit">Development Kit</a></u>
-- [Rake](<http://en.wikipedia.org/wiki/Rake_(software)>)
-  - [<u>Jim Weirich</u>](http://en.wikipedia.org/wiki/Jim_Weirich)
-- [<u>Open Source Cconferences List</u>](http://www.bing.com/search?q=open+source+conferences&go=Submit&qs=n&form=QBRE&pq=open+source+conferences&sc=8-23&sp=-1&sk=&cvid=e6608478c7004e279bd6fdd2bb9d2c8d)
-- [<u>Open Source</u>](http://en.wikipedia.org/wiki/Open_source)
+- [Rake](<https://en.wikipedia.org/wiki/Rake_(software)>)
+  - [<u>Jim Weirich</u>](https://en.wikipedia.org/wiki/Jim_Weirich)
+- [<u>Open Source Cconferences List</u>](https://www.bing.com/search?q=open+source+conferences&go=Submit&qs=n&form=QBRE&pq=open+source+conferences&sc=8-23&sp=-1&sk=&cvid=e6608478c7004e279bd6fdd2bb9d2c8d)
+- [<u>Open Source</u>](https://en.wikipedia.org/wiki/Open_source)
 
 14:04 - RubyInstaller Project in Relation to RailsInstaller Project
 
-- [<u>RailsInstaller</u>](http://railsinstaller.org/)
-- [<u>Git</u>](http://www.git-scm.com/)
-- [<u>Bootstrap and Rails</u>](http://railsapps.github.io/twitter-bootstrap-rails.html)
-  - [<u>Bootstrap</u>](http://getbootstrap.com/)
+- [<u>RailsInstaller</u>](https://railsinstaller.org/)
+- [<u>Git</u>](https://www.git-scm.com/)
+- [<u>Bootstrap and Rails</u>](https://railsapps.github.io/twitter-bootstrap-rails.html)
+  - [<u>Bootstrap</u>](https://getbootstrap.com/)
 
 16:37 - Getting C Code Into Windows Binary
 
 - [<u>Pickaxe</u>](https://github.com/dejw/pickaxe)
-- [<u>Emacs</u>](http://www.gnu.org/software/emacs/)
-- [<u>AppVeyor</u>](http://www.appveyor.com/)
+- [<u>Emacs</u>](https://www.gnu.org/software/emacs/)
+- [<u>AppVeyor</u>](https://www.appveyor.com/)
 - [<u>rake-compiler</u>](https://github.com/luislavena/rake-compiler)
   - [<u>rake-compiler-dev-box</u>](https://github.com/tjschuck/rake-compiler-dev-box)
-- [<u>UNIX System</u>](http://www.unix.org/)
-  - [<u>fork function</u>](http://www.unix.com/unix-for-dummies-questions-and-answers/12815-fork-function.html)
+- [<u>UNIX System</u>](https://www.unix.org/)
+  - [<u>fork function</u>](https://www.unix.com/unix-for-dummies-questions-and-answers/12815-fork-function.html)
 
 20:44 - URU
 
 - [<u>jonforums / usu - Bitbucket</u>](https://bitbucket.org/jonforums/uru/)
   - [<u>RVM</u>](https://rvm.io/)
-    - [<u>Bash</u>](http://www.gnu.org/software/bash/)
-    - [<u>PowerShell</u>](http://en.wikipedia.org/wiki/Windows_PowerShell)
+    - [<u>Bash</u>](https://www.gnu.org/software/bash/)
+    - [<u>PowerShell</u>](https://en.wikipedia.org/wiki/Windows_PowerShell)
 - [<u>binfiles / sudo.bat</u>](https://github.com/luislavena/binfiles/blob/master/sudo.bat)
-- [<u>DIR File</u>](http://www.fileinfo.com/extension/dir)
+- [<u>DIR File</u>](https://www.fileinfo.com/extension/dir)
 
 28:23 - Migrating to New Programs
 
 - Linux
-- [<u>OpenOffice</u>](http://www.openoffice.org/)
-- [<u>MS Excel</u>](http://products.office.com/en-us/excel)
+- [<u>OpenOffice</u>](https://www.openoffice.org/)
+- [<u>MS Excel</u>](https://products.office.com/en-us/excel)
 
 31:06 - Getting Involved
 
@@ -95,13 +95,13 @@ tags:
 
 33:31 - Outreach Programs
 
-- [<u>RailsBridge</u>](http://railsbridge.org/)
-- [<u>Girls Who Code</u>](http://girlswhocode.com/)
-- [<u>RailsGirls</u>](http://railsgirls.com/)
-  - [<u>RailsGirls Events</u>](http://railsgirls.com/events)
+- [<u>RailsBridge</u>](https://railsbridge.org/)
+- [<u>Girls Who Code</u>](https://girlswhocode.com/)
+- [<u>RailsGirls</u>](https://railsgirls.com/)
+  - [<u>RailsGirls Events</u>](https://railsgirls.com/events)
 - Exclusive vs. Inclusive
 - Windows vs. Macs
-- [<u>cURL</u>](http://curl.haxx.se/)
+- [<u>cURL</u>](https://curl.haxx.se/)
 
 39:22 - Future of Website
 
@@ -110,15 +110,15 @@ tags:
 
 43:33 - [<u>Chocolatey: The Alternative Windows Store - Like Yum/Apt-Get</u>](https://www.kickstarter.com/projects/ferventcoder/chocolatey-the-alternative-windows-store-like-yum)
 
-- [<u>apt-get</u>](http://linux.die.net/man/8/apt-get)
-- [<u>brew</u>](http://brew.sh/)
+- [<u>apt-get</u>](https://linux.die.net/man/8/apt-get)
+- [<u>brew</u>](https://brew.sh/)
 - [<u>brew-cask</u>](https://github.com/caskroom/homebrew-cask)
   - [<u>seven six</u>](https://github.com/caskroom/homebrew-cask/search?utf8=%E2%9C%93&q=seven+six)
 - [<u>choco-install</u>](https://github.com/ahe/choco)
 - [<u>Kickstarter</u>](https://www.kickstarter.com/)
-  - [<u>NuGet</u>](http://www.nuget.org/)
+  - [<u>NuGet</u>](https://www.nuget.org/)
     - [<u>background</u>](https://github.com/gnufied/backgroundrb)
-- [<u>Windows 10 Preview</u>](http://windows.microsoft.com/en-us/windows/preview)
+- [<u>Windows 10 Preview</u>](https://windows.microsoft.com/en-us/windows/preview)
   - [<u>OneGet</u>](https://github.com/OneGet/oneget)
 
 49:00 - Barriers to Ruby with Windows
@@ -129,11 +129,11 @@ tags:
 
 ### See Also
 
-- [<u>JSRemoteConf.com</u>](http://jsremoteconf.com/) - Beginning of February
+- [<u>JSRemoteConf.com</u>](https://jsremoteconf.com/) - Beginning of February
 - Webinar Nov. 6: Rails 4.2 with Jeremy Kemper and Eileen Uchitelle
   - [<u>Jeremy Kemper</u>](https://twitter.com/bitsweat)
   - [<u>Eileen Uchitelle</u>](https://twitter.com/eileencodes)
-- [<u>RailsPowerUp.com</u>](http://railspowerup.com/)
+- [<u>RailsPowerUp.com</u>](https://railspowerup.com/)
   - Text “Rails” to 38470
   - Voicemail: 877.223.0342
   - Ruby Rogues ext.1

@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [KendoUI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
-- [Sentry](http://sentry.io) use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io) use the code "devchat" for $100 credit
 - [TripleByte](https://triplebyte.com/vue)
 - [CacheFly](https://www.cachefly.com/)
 **Panel**
@@ -33,7 +33,7 @@ Joined by Special Guest: Darren Jennings **Summary** Darren Jennings talks about
 - [https://www.facebook.com/ViewsonVue](https://www.facebook.com/ViewsonVue/)
 - [https://twitter.com/viewsonvue](https://twitter.com/viewsonvue)
 **Picks**** Charles Max Wood:**
-- [http://entreprogrammers.com/](http://entreprogrammers.com/)
+- [https://entreprogrammers.com/](https://entreprogrammers.com/)
 - [The Pomodoro Technique: The Acclaimed Time-Management System That Has Transformed How We Work](https://www.amazon.com/Pomodoro-Technique-Acclaimed-Time-Management-Transformed/dp/1524760706/ref=sr_1_1?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 - [https://kanbanflow.com/](https://kanbanflow.com/)
 - [https://www.11ty.io/](https://www.11ty.io/)
@@ -43,13 +43,13 @@ Joined by Special Guest: Darren Jennings **Summary** Darren Jennings talks about
 - [Hollow Knight - Nintendo Switch](https://www.amazon.com/Hollow-Knight-Nintendo-Switch-Digital/dp/B07FCVQFHV/ref=sr_1_1?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 - [vue-autosuggest](https://github.com/Educents/vue-autosuggest)
 **Chris Fritz**
-- [http://www.matthewbrowngames.com/hexcellsinfinite.html](http://www.matthewbrowngames.com/hexcellsinfinite.html)
+- [https://www.matthewbrowngames.com/hexcellsinfinite.html](https://www.matthewbrowngames.com/hexcellsinfinite.html)
 - Be vulnerable with people in your life. 
 - [The Power of Vulnerability: Teachings of Authenticity, Connection, and Courage](https://www.amazon.com/Power-Vulnerability-Teachings-Authenticity-Connection/dp/B00D1Z9RFU/ref=sr_1_3?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 **Divya Sasidharan:**
 - [https://24ways.org/](https://24ways.org/)
 - [https://calendar.perfplanet.com](https://calendar.perfplanet.com/)
-- [http://shortdiv.com/](http://shortdiv.com/)
+- [https://shortdiv.com/](https://shortdiv.com/)
 **Joe Eames:** 
 - [Framework Summit](https://www.youtube.com/channel/UCUTZdTjqY9ypGfpYWvSHC2w)
 - [ng-conf minified](https://www.youtube.com/watch?v=lK12I5E0HAY&list=PLOETEcp3DkCqJj2mHLWhn-0a886VusJ2l)

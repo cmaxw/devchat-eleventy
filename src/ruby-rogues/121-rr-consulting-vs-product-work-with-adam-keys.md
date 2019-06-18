@@ -14,7 +14,7 @@ tags:
 
 01:17 - Adam Keys Introduction
 
-- [Keeping Up with Gowalla with Adam Keys](http://rubyrogues.com/029-rr-keeping-up-with-gowalla/)
+- [Keeping Up with Gowalla with Adam Keys](https://rubyrogues.com/029-rr-keeping-up-with-gowalla/)
 - [LivingSocial](https://www.livingsocial.com/)
 - [Sifter](https://sifterapp.com/)
 
@@ -50,7 +50,7 @@ tags:
 
 37:56 - Job Security
 
-- [The Prisoner’s Dilemma](http://en.wikipedia.org/wiki/Prisoner's_dilemma)
+- [The Prisoner’s Dilemma](https://en.wikipedia.org/wiki/Prisoner's_dilemma)
 
 41:42 - Technology Choices
 

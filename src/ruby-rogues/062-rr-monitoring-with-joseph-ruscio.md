@@ -16,26 +16,26 @@ tags:
 
 - [Twitter](https://twitter.com/josephruscio)
 - [GitHub](https://github.com/josephruscio)
-- [Blog](http://joseph.ruscio.org/)
+- [Blog](https://joseph.ruscio.org/)
 - [Librato](https://metrics.librato.com/)
-  01:30 -&nbsp;[SF Metrics Meetup](http://www.meetup.com/San-Francisco-Metrics-Meetup/http:/www.meetup.com/San-Francisco-Metrics-Meetup/)05:57 - [Continuous Deployment](http://en.wikipedia.org/wiki/Continuous_delivery) /&nbsp;[Continuous Integration (CI)](http://en.wikipedia.org/wiki/Continuous_integration)
+  01:30 -&nbsp;[SF Metrics Meetup](https://www.meetup.com/San-Francisco-Metrics-Meetup/https:/www.meetup.com/San-Francisco-Metrics-Meetup/)05:57 - [Continuous Deployment](https://en.wikipedia.org/wiki/Continuous_delivery) /&nbsp;[Continuous Integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration)
 - 1-Click Deploy
 - Feature Flagging
 - Monitoring
 - Alerting
   09:25 - Monitoring vs Alerting
 - Leap Second
-  11:19 - Dashboards 12:25 -&nbsp;[Information Radiator](http://www.atlassian.com/wallboards/information-radiators.jsp)12:49 - Square's Office Monitoring
+  11:19 - Dashboards 12:25 -&nbsp;[Information Radiator](https://www.atlassian.com/wallboards/information-radiators.jsp)12:49 - Square's Office Monitoring
 - Drive the Cost of Metric Collection as Close to Zero as Possible
   18:25 - Intuitively Visualizing Trends
 - Correlations
 - Lean Start-Up
-  21:13 -&nbsp;[Innovation Accounting](http://explorics.com/2012/06/06/living-lean-startup-innovation-accounting/) Metrics
+  21:13 -&nbsp;[Innovation Accounting](https://explorics.com/2012/06/06/living-lean-startup-innovation-accounting/) Metrics
 - Cohort Analysis
 - Track Users Based on Whey They Signed Up
-  22:54 -&nbsp;[Kiss Metrics](http://www.kissmetrics.com/)
+  22:54 -&nbsp;[Kiss Metrics](https://www.kissmetrics.com/)
 - “You Can’t Brag About it Until You Measure It.”
-  29:15 - [New Relic](http://newrelic.com/)32:26 - Active Notifications 35:58 - Get Monitoring Data From Logs
+  29:15 - [New Relic](https://newrelic.com/)32:26 - Active Notifications 35:58 - Get Monitoring Data From Logs
 - [Statsd Daemon](https://github.com/etsy/statsd/)
 - Measurement Without Impacting Performance
   43:30 - Monitoring at the JavaScript Level

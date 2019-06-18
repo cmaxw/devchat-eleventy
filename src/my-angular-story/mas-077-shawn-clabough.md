@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)&nbsp;use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)&nbsp;use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/astory)&nbsp;offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** &nbsp;&nbsp;Shawn Clabough

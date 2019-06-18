@@ -130,7 +130,7 @@ Once I got it then I thought that I needed to explore this stuff more!
 
 I want to learn Ruby, though.
 
-34:16 – Chuck: Anything else in respect to [SignalR?](http://signalr.net)
+34:16 – Chuck: Anything else in respect to [SignalR?](https://signalr.net)
 
 34:15 – Guest: I really think I have dumped everything I know about Signal R just now.
 
@@ -159,7 +159,7 @@ We have tons of new ideas, too!
 - [Socket.io](https://socket.io)
 - [Node-SASS](https://www.npmjs.com/package/node-sass)
 - [ASP.NET SignalR Hubs API Guide – JavaScript Client](https://docs.microsoft.com/en-us/aspnet/signalr/overview/guide-to-the-api/hubs-api-guide-javascript-client)
-- [SignalR.net](http://signalr.net)
+- [SignalR.net](https://signalr.net)
 - [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm)
 - [Parcel](https://developer.android.com/reference/android/os/Parcel)
 - [Brady Gaster’s Twitter](https://twitter.com/bradygaster)

@@ -12,34 +12,34 @@ tags:
   - podcast
 ---
 
-01:37 - [Apple Watch](http://www.apple.com/watch/)
+01:37 - [Apple Watch](https://www.apple.com/watch/)
 
-- [Hermès Strap Collection](http://www.apple.com/apple-watch-hermes/)
+- [Hermès Strap Collection](https://www.apple.com/apple-watch-hermes/)
 - [Pebble Time](https://pebble.com/pebble-time-smartwatch-features)
-- [watchOS 2](http://www.apple.com/watchos-2/)
+- [watchOS 2](https://www.apple.com/watchos-2/)
 
-08:55 - [iPhone 6s + 6s Plus](http://www.apple.com/iphone-6s/)
+08:55 - [iPhone 6s + 6s Plus](https://www.apple.com/iphone-6s/)
 
-- [3D Touch](http://www.apple.com/iphone-6s/3d-touch/)
+- [3D Touch](https://www.apple.com/iphone-6s/3d-touch/)
 - Maintaining Usability Across Multiple Systems
-- [Live Photos](http://www.apple.com/iphone-6s/cameras/)
+- [Live Photos](https://www.apple.com/iphone-6s/cameras/)
 - Multitasking
 - Storage
 
-19:06 - [iPad Pro](http://www.apple.com/ipad-pro/)
+19:06 - [iPad Pro](https://www.apple.com/ipad-pro/)
 
-- [Apple Pencil](http://www.apple.com/apple-pencil/)
+- [Apple Pencil](https://www.apple.com/apple-pencil/)
 - Use Cases
 
-29:20 - [Apple TV](http://www.apple.com/tv/)
+29:20 - [Apple TV](https://www.apple.com/tv/)
 
-- [AirPlay](http://www.apple.com/ios/what-is/)
+- [AirPlay](https://www.apple.com/ios/what-is/)
 - Cross-Device Interaction ??
 - [HomeKit](https://developer.apple.com/homekit/) Integration
 - [tvOS](https://developer.apple.com/tvos/)
   Picks
 
-Oktoberfest Beer (Jaim)[CodeCombat](https://codecombat.com/) (Alondo)[Airplay Tutorial: An Apple TV Multiplayer Quiz Game](http://www.raywenderlich.com/57161/airplay-tutorial) (Alondo)[Beginning tvOS Development with TVML Tutorial](http://www.raywenderlich.com/114886/beginning-tvos-development-with-tvml-tutorial) (Alondo)[Pebble.js](http://developer.getpebble.com/docs/pebblejs/) (Chuck)[Basecamp](https://basecamp.com/) (Chuck)
+Oktoberfest Beer (Jaim)[CodeCombat](https://codecombat.com/) (Alondo)[Airplay Tutorial: An Apple TV Multiplayer Quiz Game](https://www.raywenderlich.com/57161/airplay-tutorial) (Alondo)[Beginning tvOS Development with TVML Tutorial](https://www.raywenderlich.com/114886/beginning-tvos-development-with-tvml-tutorial) (Alondo)[Pebble.js](https://developer.getpebble.com/docs/pebblejs/) (Chuck)[Basecamp](https://basecamp.com/) (Chuck)
 
 ### Transcript
 

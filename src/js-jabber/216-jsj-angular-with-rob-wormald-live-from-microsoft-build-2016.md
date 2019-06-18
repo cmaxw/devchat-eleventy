@@ -5,7 +5,7 @@ title: >
 date: 2016-06-15 07:00:09
 episode_number: 216
 duration: 01:02:19
-audio_url: http://media.devchat.tv/js-jabber/JSJ216BUILDRobWormald.mp3
+audio_url: https://media.devchat.tv/js-jabber/JSJ216BUILDRobWormald.mp3
 podcast: js-jabber
 tags:
   - js_jabber

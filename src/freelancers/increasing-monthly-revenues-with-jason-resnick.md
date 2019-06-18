@@ -32,6 +32,6 @@ Clients pay him more because he's capable of bringing back profit to their busin
 
 ## Picks:
 
-Curtis: [SteelSeries H wireless headphones](https://www.amazon.com/gp/product/B00G6IJ5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00G6IJ5NI&linkCode=as2&tag=strugwithfait-20&linkId=5TKDU5VWDWQ6O2TD)Jason: [Copied App](http://copiedapp.com/)Reuven: [Cork Dork](https://www.amazon.com/Cork-Dork-Wine-Fueled-Sommeliers-Scientists-ebook/dp/B01KGZVT62/ref=sr_1_1)
+Curtis: [SteelSeries H wireless headphones](https://www.amazon.com/gp/product/B00G6IJ5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00G6IJ5NI&linkCode=as2&tag=strugwithfait-20&linkId=5TKDU5VWDWQ6O2TD)Jason: [Copied App](https://copiedapp.com/)Reuven: [Cork Dork](https://www.amazon.com/Cork-Dork-Wine-Fueled-Sommeliers-Scientists-ebook/dp/B01KGZVT62/ref=sr_1_1)
 
 ### Transcript

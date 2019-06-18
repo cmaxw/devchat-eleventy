@@ -14,117 +14,117 @@ tags:
 
 ### Panel
 
-- Tyler Renelle ([twitter](https://twitter.com/lefnire)&nbsp;[github](https://github.com/lefnire)&nbsp;[blog](http://about.me/lefnire))
-- Max Lynch ([twitter](https://twitter.com/maxlynch)&nbsp;[github](https://github.com/mlynch)&nbsp;[blog](http://maxlynch.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Tyler Renelle ([twitter](https://twitter.com/lefnire)&nbsp;[github](https://github.com/lefnire)&nbsp;[blog](https://about.me/lefnire))
+- Max Lynch ([twitter](https://twitter.com/maxlynch)&nbsp;[github](https://github.com/mlynch)&nbsp;[blog](https://maxlynch.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:58 - Guest Introductions
 
 - Max Lynch
-  - [The Ionic Framework](http://ionicframework.com/)
+  - [The Ionic Framework](https://ionicframework.com/)
     - [@Ionicframework](https://twitter.com/ionicframework)
-  - [Drifty](http://www.drifty.com/)
+  - [Drifty](https://www.drifty.com/)
 - Tyler Renelle
   - [HabitRPG](https://habitrpg.com/static/front) - [@habitrpg](https://twitter.com/habitrpg)
     02:38 - Background of Ionic
-- [The Native Framework](http://nativeframework.com/)
-  - [PhoneGap](http://phonegap.com/)
-  - [Cordova](http://cordova.apache.org/)
+- [The Native Framework](https://nativeframework.com/)
+  - [PhoneGap](https://phonegap.com/)
+  - [Cordova](https://cordova.apache.org/)
     03:51 - Different Tools
-- [Adobe](http://www.adobe.com/)
-- [ngCordova](http://ngcordova.com/)
+- [Adobe](https://www.adobe.com/)
+- [ngCordova](https://ngcordova.com/)
 - [Angular](https://angularjs.org/)
   05:51 - Expansion
 - Promises
 - [Xcode](https://developer.apple.com/xcode/)
-- [iOS Storyboard](http://maniacdev.com/ios-5-sdk-tutorial-and-guide/xcode-4-storyboard)
+- [iOS Storyboard](https://maniacdev.com/ios-5-sdk-tutorial-and-guide/xcode-4-storyboard)
   07:17 - Relationship Between PhoneGap and Cordova
-- [Max Lynch: The Last Word on Cordova and PhoneGap](http://ionicframework.com/blog/what-is-cordova-phonegap/)
+- [Max Lynch: The Last Word on Cordova and PhoneGap](https://ionicframework.com/blog/what-is-cordova-phonegap/)
   - [PhoneGap Build](https://build.phonegap.com/)
-  - [PhoneGap Hydration](http://phonegap.com/blog/build/introducing-hydration/)
+  - [PhoneGap Hydration](https://phonegap.com/blog/build/introducing-hydration/)
 - [cordova-cli](https://github.com/apache/cordova-cli)
-- [Bootstrap](http://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
   - [Bootstrap for Mobile](https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme)
-- [Ratchet](http://goratchet.com/)
-- [Topcoat](http://topcoat.io/)
+- [Ratchet](https://goratchet.com/)
+- [Topcoat](https://topcoat.io/)
   10:34 - Competition
-- [jQuery Mobile](http://jquerymobile.com/)
-- [Ratchet](http://goratchet.com/)
-- [Bootstrap](http://getbootstrap.com/)
+- [jQuery Mobile](https://jquerymobile.com/)
+- [Ratchet](https://goratchet.com/)
+- [Bootstrap](https://getbootstrap.com/)
 - Hybrid Mobile Apps
 - [Chrome for Android](https://www.google.com/intl/en/chrome/browser/mobile/android.html)
-- [Zynga Scroller](http://zynga.github.io/scroller/)
+- [Zynga Scroller](https://zynga.github.io/scroller/)
 - Ionic Slide-Out Menu
 - [HipChat](https://www.hipchat.com/)
-- [WebKit](http://www.webkit.org/)
-- [translate3d](http://www.translate3d.com/)
-- [JavaScript Jabber Episode #119: Chrome Apps with Joe Marini](http://javascriptjabber.com/119-jsj-chrome-apps-with-joe-marini/)
+- [WebKit](https://www.webkit.org/)
+- [translate3d](https://www.translate3d.com/)
+- [JavaScript Jabber Episode #119: Chrome Apps with Joe Marini](https://javascriptjabber.com/119-jsj-chrome-apps-with-joe-marini/)
   - [Mobile Chrome Apps](https://github.com/MobileChromeApps)
   - [Crosswalk](https://www.crosswalk-project.org/)
     17:33 - PhoneGap Competitors
-- [Xamarin](http://xamarin.com/)
-- [Indeed](http://www.indeed.com/)
-  - [HTML5](http://html5.org/)
+- [Xamarin](https://xamarin.com/)
+- [Indeed](https://www.indeed.com/)
+  - [HTML5](https://html5.org/)
     19:56 - Times to Customize Hybrids
 - [Swift](https://developer.apple.com/swift/)
-- [WebGL](http://www.khronos.org/webgl/)
+- [WebGL](https://www.khronos.org/webgl/)
   21:10 - Things That Hybrid Apps Can’t Do
 - Bluetooth
   22:10 - Performance
-- [Famo.us](http://www.famo.us/)
-- [AppGyver Steroids](http://www.appgyver.com/steroids?headline=phonegap&utm_expid=51114316-0.fCLM8XExQra3dHqf1ZyBsg.1&utm_referrer=http%3A%2F%2Fwww.appgyver.com%2Fsteroids%3Fheadline%3Dphonegap)
-- [jQuery](http://jquery.com/)
+- [Famo.us](https://www.famo.us/)
+- [AppGyver Steroids](https://www.appgyver.com/steroids?headline=phonegap&utm_expid=51114316-0.fCLM8XExQra3dHqf1ZyBsg.1&utm_referrer=http%3A%2F%2Fwww.appgyver.com%2Fsteroids%3Fheadline%3Dphonegap)
+- [jQuery](https://jquery.com/)
 - [Canvas](https://canvas.instructure.com/login)
-- [DOM](http://en.wikipedia.org/wiki/Document_Object_Model)
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
   26:09 - Cross-Platforms 28:26 - Other Uses of Ionic 29:39 - Data Storage and Management 30:33 - Ionic and HabitRPG
 - [HabitRPG](https://habitrpg.com/static/front)
 - [Angular](https://angularjs.org/)
-- [node.js](http://nodejs.org/)
-- [mongoDB](http://www.mongodb.org/)
-- [browserify](http://browserify.org/)
-- [bower](http://bower.io/)
+- [node.js](https://nodejs.org/)
+- [mongoDB](https://www.mongodb.org/)
+- [browserify](https://browserify.org/)
+- [bower](https://bower.io/)
 - [npm](https://www.npmjs.org/)
-- [Open source](http://en.wikipedia.org/wiki/Open_source)
+- [Open source](https://en.wikipedia.org/wiki/Open_source)
   33:13 - Using Angular with Ionic 34:22 - Updating Ionic: Challenges 37:48 - Lessons Learned
 - [Jetstrap](https://jetstrap.com/)
   38:39 - GitHub Open Source Project
 - [cordova-js](https://github.com/blackberry/cordova-js)
   40:28 - Financial Goals 41:52 - Future of Angular with Ionic/Other Frameworks
-- [Polymer](http://www.polymer-project.org/)
-- [Ember](http://emberjs.com/)
-- [React](http://reactjs.net/)
-  - [Adventures in Angular](http://devchat.tv/adventures-in-angular)
-  - [006 AiA Build Processes](http://devchat.tv/adventures-in-angular/006-aia-build-processes)
+- [Polymer](https://www.polymer-project.org/)
+- [Ember](https://emberjs.com/)
+- [React](https://reactjs.net/)
+  - [Adventures in Angular](https://devchat.tv/adventures-in-angular)
+  - [006 AiA Build Processes](https://devchat.tv/adventures-in-angular/006-aia-build-processes)
 - [@angularpodcast](https://twitter.com/angularpodcast)
-- [Backbone](http://backbonejs.org/)
-- [Ionic Creator](http://ionicframework.com/creator/)
+- [Backbone](https://backbonejs.org/)
+- [Ionic Creator](https://ionicframework.com/creator/)
   45:35 - Tutorials for Ionic
-- [Ionic Framework - Get Started](http://ionicframework.com/getting-started/)
-  - [Docs Page](http://ionicframework.com/docs/)
-- [Learn Ionic Framework](http://learn.ionicframework.com/)
-- [[Pluralsight] Building Mobile Apps With the Ionic Framework and AngularJS by Steve Michelotti](http://pluralsight.com/training/Courses/TableOfContents/building-mobile-apps-ionic-framework-angularjs)
+- [Ionic Framework - Get Started](https://ionicframework.com/getting-started/)
+  - [Docs Page](https://ionicframework.com/docs/)
+- [Learn Ionic Framework](https://learn.ionicframework.com/)
+- [[Pluralsight] Building Mobile Apps With the Ionic Framework and AngularJS by Steve Michelotti](https://pluralsight.com/training/Courses/TableOfContents/building-mobile-apps-ionic-framework-angularjs)
   - [Steve Michelotti](https://twitter.com/smichelotti)
-- [Pluralsight](http://beta.pluralsight.com/)
+- [Pluralsight](https://beta.pluralsight.com/)
   46:42 - Teaching Programming Using Ionic
-- [Codecademy](http://www.codecademy.com/)
+- [Codecademy](https://www.codecademy.com/)
 
 ### Picks
 
 - [Jamison Dance](https://twitter.com/jergason) (Joe)
 - [@jergason](https://twitter.com/jergason)
-- [[Pluralsight] Building Mobile Apps With the Ionic Framework and AngularJS by Steve Michelotti](http://pluralsight.com/training/Courses/TableOfContents/building-mobile-apps-ionic-framework-angularjs) (Joe)
-- [Robot Turtles: The Board Game for Little Programmers](http://www.thinkgeek.com/product/1a11/?pfm=Search&t=robot%20turtles%3A%20the%20board%20game%20for%20little%20programmers) (Joe)
-- [LeadPages](http://www.leadpages.net/products/) (Chuck)
+- [[Pluralsight] Building Mobile Apps With the Ionic Framework and AngularJS by Steve Michelotti](https://pluralsight.com/training/Courses/TableOfContents/building-mobile-apps-ionic-framework-angularjs) (Joe)
+- [Robot Turtles: The Board Game for Little Programmers](https://www.thinkgeek.com/product/1a11/?pfm=Search&t=robot%20turtles%3A%20the%20board%20game%20for%20little%20programmers) (Joe)
+- [LeadPages](https://www.leadpages.net/products/) (Chuck)
 - [HabitRPG](https://habitrpg.com/static/front) (Max)
 - [Postman - REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) (Max)
-- [npm-stat](http://npm-stat.com/) (Max)
+- [npm-stat](https://npm-stat.com/) (Max)
 - [WorkFlowy](https://workflowy.com/) (Tyler)
-- [Alfred](http://www.alfredapp.com/) or [Quicksilver](http://qsapp.com/) (Tyler)
-- [Intellectual Property and Open Source: A Practical Guide to Protecting Code by Van Lindberg](http://www.amazon.com/Intellectual-Property-Open-Source-Protecting/dp/0596517963/ref=sr_1_1?s=books&ie=UTF8&qid=1410379364&sr=1-1&keywords=intellectual+property+and+open+source)(Tyler)
+- [Alfred](https://www.alfredapp.com/) or [Quicksilver](https://qsapp.com/) (Tyler)
+- [Intellectual Property and Open Source: A Practical Guide to Protecting Code by Van Lindberg](https://www.amazon.com/Intellectual-Property-Open-Source-Protecting/dp/0596517963/ref=sr_1_1?s=books&ie=UTF8&qid=1410379364&sr=1-1&keywords=intellectual+property+and+open+source)(Tyler)
 
 ### Next Week
 

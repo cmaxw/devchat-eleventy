@@ -15,7 +15,7 @@ tags:
 02:45 - Welcome new panelist, Philip Morgan!
 
 - [Twitter](https://twitter.com/Philip_Morgan)
-- [Website](http://philipmorganconsulting.com/)
+- [Website](https://philipmorganconsulting.com/)
 - [The Freelancers' Show Episode #160: A Deep Dive on Positioning Yourself As a Specialist with Philip Morgan](https://devchat.tv/freelancers/160-fs-a-deep-dive-on-positioning-yourself-as-a-specialist-with-philip-morgan)
 - [The Positioning Manual for Technical Firms](https://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/)
 
@@ -23,14 +23,14 @@ tags:
 
 14:49 - How Philip’s Business Works
 
-- [The Consulting Pipeline Podcast](http://consultingpipelinepodcast.com/)
+- [The Consulting Pipeline Podcast](https://consultingpipelinepodcast.com/)
 
 25:42 - [15 Minute Podcast Listener chat with Charles Wood](https://freelancersshow.com/15minutes)
 
 28:00 - Finding Opportunities to Be a Guest on Podcasts
 
 - [QuickMail](https://quickmail.io/)
-- [Outbound](http://www.outbound.io/)
+- [Outbound](https://www.outbound.io/)
 
 33:46 - Converting Guest Appearances into Mailing List Subscribers/Paying Customers (“Action”)
 
@@ -39,10 +39,10 @@ tags:
 
 39:10 - Mastermind Groups and Referrals
 
-- [View from the Top](http://www.viewfromthetop.com/)
+- [View from the Top](https://www.viewfromthetop.com/)
   Picks
 
-[13 Ways Designers Screw Up Client Presentations](https://vimeo.com/68470326) (Reuven)[Design Is a Job by Mike Monteiro](http://www.amazon.com/gp/product/1937557049/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937557049&linkCode=as2&tag=devchattv-20&linkId=PKMOKZVWR5UWF7VU) (Philip)[Salestools.io](https://salestools.io/) (Philip)[Highrise](https://highrisehq.com/) (Chuck)[The Positioning Manual for Technical Firms](https://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/) (Chuck)
+[13 Ways Designers Screw Up Client Presentations](https://vimeo.com/68470326) (Reuven)[Design Is a Job by Mike Monteiro](https://www.amazon.com/gp/product/1937557049/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937557049&linkCode=as2&tag=devchattv-20&linkId=PKMOKZVWR5UWF7VU) (Philip)[Salestools.io](https://salestools.io/) (Philip)[Highrise](https://highrisehq.com/) (Chuck)[The Positioning Manual for Technical Firms](https://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/) (Chuck)
 
 ### Transcript
 

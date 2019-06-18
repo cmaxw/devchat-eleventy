@@ -53,7 +53,7 @@ This week on My Ruby Story, Charles talks to Rob Miller. Rob is a return guess f
 
 **Sponsors:**
 
-- [Code Badges](http://codebadge.org)
+- [Code Badges](https://codebadge.org)
 - [Get a Coder Job](https://devchat.tv/get-a-coder-job/)
 
 **Picks:**

@@ -16,22 +16,22 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/mitchellh)
 - [<u>GitHub</u>](https://github.com/mitchellh)
-- [<u>Blog</u>](http://about.me/mitchellh)
+- [<u>Blog</u>](https://about.me/mitchellh)
 
 03:17 - [<u>Vagrant</u>](https://www.vagrantup.com/)
 
 - Windows Users
 - Provisioning
 - Testing Chef Recipes
-- [<u>Provisioning</u>](http://en.wikipedia.org/wiki/Provisioning): Defined
+- [<u>Provisioning</u>](https://en.wikipedia.org/wiki/Provisioning): Defined
 - [<u>VirtualBox</u>](https://www.virtualbox.org/)
-- [<u>VMware</u>](http://www.vmware.com/)
-- [<u>Hypervisors</u>](http://en.wikipedia.org/wiki/Hypervisor)
+- [<u>VMware</u>](https://www.vmware.com/)
+- [<u>Hypervisors</u>](https://en.wikipedia.org/wiki/Hypervisor)
 
 10:38 - Management
 
 - [<u>FreeBSD</u>](https://www.freebsd.org/)
-- [<u>Open Source</u>](http://en.wikipedia.org/wiki/Open_source)
+- [<u>Open Source</u>](https://en.wikipedia.org/wiki/Open_source)
 
 12:18 - Use Cases
 
@@ -39,18 +39,18 @@ tags:
 
 - <u><a href="https://www.chef.io/chef/" data-cke-saved-href="https://www.chef.io/chef/">Chef</a></u>
   - [<u>chef-solo</u>](https://docs.chef.io/chef_solo.html)
-- [<u>Puppet</u>](http://puppetlabs.com/)
-- [<u>Shell Scripts</u>](http://en.wikipedia.org/wiki/Shell_script)
+- [<u>Puppet</u>](https://puppetlabs.com/)
+- [<u>Shell Scripts</u>](https://en.wikipedia.org/wiki/Shell_script)
 
 17:05 - Developer Productivity
 
-- [<u>Vagrant Share</u>](http://docs.vagrantup.com/v2/share/)
+- [<u>Vagrant Share</u>](https://docs.vagrantup.com/v2/share/)
 
 18:54 - Sharing
 
 21:52 - Destroy =\> Recreate
 
-23:23 - [<u>Seed Data</u>](http://www.orafaq.com/wiki/Seed_data)
+23:23 - [<u>Seed Data</u>](https://www.orafaq.com/wiki/Seed_data)
 
 24:27 - Dev & Ops
 
@@ -58,19 +58,19 @@ tags:
 
 33:00 - [<u>HashiCorp</u>](https://hashicorp.com/)
 
-- [<u>Open Core</u>](http://en.wikipedia.org/wiki/Open_core)
-- [<u>Mike Perham</u>](http://www.mikeperham.com/)
-  - [<u>Sidekiq</u>](http://sidekiq.org/)
+- [<u>Open Core</u>](https://en.wikipedia.org/wiki/Open_core)
+- [<u>Mike Perham</u>](https://www.mikeperham.com/)
+  - [<u>Sidekiq</u>](https://sidekiq.org/)
 - The Future
 
-40:20 - [<u>Single Responsibility</u>](http://en.wikipedia.org/wiki/Single_responsibility_principle)
+40:20 - [<u>Single Responsibility</u>](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 
 43:15 - The Plugin System
 
 45:38 - Balancing Schoolwork and Writing Vagrant (Encouragement?)
 
-- [<u>John Resig</u>](http://en.wikipedia.org/wiki/John_Resig)
-- [<u>Yehuda Katz</u>](http://yehudakatz.com/)
+- [<u>John Resig</u>](https://en.wikipedia.org/wiki/John_Resig)
+- [<u>Yehuda Katz</u>](https://yehudakatz.com/)
 
 47:57 - Marketing an Open Source Project
 

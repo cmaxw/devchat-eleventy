@@ -173,7 +173,7 @@ The most interesting screw-up was when I deleted a GitHub...
 - [Get A Coder Job](https://devchat.tv/get-a-coder-job/)
 - [Charles Max Wood’s Twitter](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Nader Dabit’s Twitter](https://twitter.com/dabit3)
-- [Nader Dabit’s Website](http://naderdabit.me/#/about)
+- [Nader Dabit’s Website](https://naderdabit.me/#/about)
 - [Tomas Eglinskas’ GitHub](https://github.com/adtm)
 - [Tomas Eglinskas’ LinkedIn](https://lt.linkedin.com/in/tomas-eglinskas)
 - [Tomas Eglinskas’ Medium](https://medium.com/@tomas.eglinskas)
@@ -191,11 +191,11 @@ The most interesting screw-up was when I deleted a GitHub...
 
 Charles
 
-- [CodeBadge.Org](http://codebadge.org) – Kickstarter
+- [CodeBadge.Org](https://codebadge.org) – Kickstarter
 - [Book – Get A Coder Job](https://devchat.tv/get-a-coder-job/)
 - [Video Course ^](https://devchat.tv/store/get-a-coder-job-video-course/)
 - [Zapier](https://zapier.com)
-- [ConFreaks](http://confreaks.tv/videos/cascadiaruby2014-cloning-the-seattle-ruby-brigade)
+- [ConFreaks](https://confreaks.tv/videos/cascadiaruby2014-cloning-the-seattle-ruby-brigade)
 - [Kent C. Dodds](https://kentcdodds.com)
 
 Nader

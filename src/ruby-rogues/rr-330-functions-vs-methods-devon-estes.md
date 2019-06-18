@@ -34,8 +34,8 @@ tags:
 - [DryRB](https://github.com/dry-rb/dry-rb.org)
 - [Education Super Highway](https://www.educationsuperhighway.org)
 - @devonestes
-- [devonestes.com](http://devonestes.com)
-- [devonestes.com/fir](http://devonestes.com/fir)
+- [devonestes.com](https://devonestes.com)
+- [devonestes.com/fir](https://devonestes.com/fir)
 -
 
 **Picks:** Eric
@@ -46,7 +46,7 @@ tags:
 - [Amazon Free Time](https://www.amazon.com/Amazon-FreeTime-Unlimited-Monthly-Subscription/dp/B01I499BNA)
   Chuck
 - [Ruby Dev Summit](https://rubydevsummit.com)
-- [2ketodudes](http://2ketodudes.com)
+- [2ketodudes](https://2ketodudes.com)
 - [Keto Clarity&nbsp;](https://www.audible.com/t2/title?cvo_campaign=250472289&gclid=Cj0KCQjwgb3OBRDNARIsAOyZbxDpglkwzVIYxEHZyf7cMj8f7cdPiYuWLOmBIATFyCmhckNVZPYI-mQaAp2AEALw_wcB&pcrid=152675288612&Matchtype=e&mkwid=suZPzHFHw_dc&pmt=e&asin=B00NMSJMA6&cvosrc=ppc.google.keto+clarity&cvo_crid=152675288612&source_code=GO1GB907ESH060513&pkw=keto+clarity)
   Devon
 - Nav to Tetris

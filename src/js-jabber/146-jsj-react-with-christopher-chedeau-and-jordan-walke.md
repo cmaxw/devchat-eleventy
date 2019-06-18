@@ -17,17 +17,17 @@ tags:
 
 - [Twitter](https://twitter.com/Vjeux)
 - [GitHub](https://github.com/vjeux)
-- [Blog](http://blog.vjeux.com/)
+- [Blog](https://blog.vjeux.com/)
 
 02:59 - Jordan Walke Introduction
 
 - [Twitter](https://twitter.com/jordwalke)
 - [GitHub](https://github.com/jordwalke)
 
-03:18 - [React.js Conf](http://reactconf.com/)
+03:18 - [React.js Conf](https://reactconf.com/)
 
 - [React.js Conf 2015 Keynote - Introducing React Native](https://code.facebook.com/videos/786462671439502/react-js-conf-2015-keynote-introducing-react-native-/)
-- [React](http://facebook.github.io/react/)
+- [React](https://facebook.github.io/react/)
   - [@react](https://twitter.com/react)
   - [[GitHub] React](https://github.com/facebook/react)
 
@@ -45,21 +45,21 @@ tags:
 
 19:21 - JavaScript Apps in the App Store
 
-20:11 - [CSS (Cascading Style Sheets)](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+20:11 - [CSS (Cascading Style Sheets)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 22:48 - Testing
 
-- [TDD (Test-driven Development)](http://en.wikipedia.org/wiki/Test-driven_development)
+- [TDD (Test-driven Development)](https://en.wikipedia.org/wiki/Test-driven_development)
 
 25:41 - Ported Flexbox Implementation
 
-- [css-layout](http://github.com/facebook/css-layout)
+- [css-layout](https://github.com/facebook/css-layout)
 
 26:08 - Gestures
 
 31:22 - Debugging
 
-- [Chrome](http://www.google.com/chrome/) Debugging
+- [Chrome](https://www.google.com/chrome/) Debugging
 
 34:30 - Inspiring Other Frameworks
 

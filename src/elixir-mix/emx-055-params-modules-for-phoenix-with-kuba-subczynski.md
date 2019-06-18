@@ -5,7 +5,7 @@ title: >
 date: 2019-06-11 10:00:07
 episode_number: 055
 duration: 56:45
-audio_url: http://media.devchat.tv/elixir-mix/EMx_055_Params_Modules_for_Phoenix_with_Kuba_Subczynski.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_055_Params_Modules_for_Phoenix_with_Kuba_Subczynski.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/elixir) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -41,7 +41,7 @@ Kuba Subczynski starts by introducing params modules and the story behind the pa
 
 ### **Picks**
  **Mark Ericksen:**
-- [http://blog.erlang.org/OTP-22-Highlights/](http://blog.erlang.org/OTP-22-Highlights/)
+- [https://blog.erlang.org/OTP-22-Highlights/](https://blog.erlang.org/OTP-22-Highlights/)
 **Michael Ries:**
 - [https://ferd.ca/it-s-about-the-guarantees.html](https://ferd.ca/it-s-about-the-guarantees.html)
 **Kuba Subcynski:**

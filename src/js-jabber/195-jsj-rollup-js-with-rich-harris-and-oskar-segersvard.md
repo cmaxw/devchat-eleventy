@@ -17,19 +17,19 @@ tags:
 - [Twitter](https://twitter.com/Rich_Harris)
 - [GitHub](https://github.com/Rich-Harris)
 - [Blog](https://github.com/Rich-Harris)
-- [The Guardian](http://www.theguardian.com/)
+- [The Guardian](https://www.theguardian.com/)
 
 02:34 - Oskar Segersvärd Introduction
 
 - [Twitter](https://twitter.com/victorystick)
 - [GitHub](https://github.com/Victorystick)
-- [Widespace](http://www.widespace.com/)
+- [Widespace](https://www.widespace.com/)
 
-02:50 - [rollup.js](http://rollupjs.org/)
+02:50 - [rollup.js](https://rollupjs.org/)
 
 - [rollup - npm](https://www.npmjs.com/package/rollup)
 
-04:47 - Caveats and Fundamental Differences Between [CommonJS](http://requirejs.org/docs/commonjs.html) and AMD Modules and ES6 Modules
+04:47 - Caveats and Fundamental Differences Between [CommonJS](https://requirejs.org/docs/commonjs.html) and AMD Modules and ES6 Modules
 
 - [lodash](https://lodash.com/)
 - [Static Analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
@@ -38,7 +38,7 @@ tags:
 
 - Bundler vs Loader
   - [systemjs](https://github.com/systemjs/systemjs)
-  - [jspm](http://jspm.io/)
+  - [jspm](https://jspm.io/)
 - [webpack](https://webpack.github.io/)
 
 17:40 - Input Modules
@@ -53,10 +53,10 @@ tags:
 
 32:11 - [Small modules: it’s not quite that simple](https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4#.2sju6uump)
 
-- [three.js](http://threejs.org/)
+- [three.js](https://threejs.org/)
   41:54 - [jsnext:main – should we use it, and what for?](https://github.com/jsforum/jsforum/issues/5)Picks
 
-[Better Off Ted](http://www.imdb.com/title/tt1235547/) (Joe)[Elementary](http://www.imdb.com/title/tt2191671/) (Joe)[Ruby Rogues Episode #137: Book Club - Functional Programming for the Object-Oriented Programmer with Brian Marick](https://devchat.tv/ruby-rogues/137-rr-book-club-functional-programming-for-the-object-oriented-programmer-with-brian-marick) (Aimee)[Ruby Rogues Episode #115: Functional and Object Oriented Programming with Jessica Kerr](https://devchat.tv/ruby-rogues/115-rr-functional-and-object-oriented-programming-with-jessica-kerr) (Aimee)[Ruby Rogues Episode #65: Functional vs Object Oriented Programming with Michael Feathers](https://devchat.tv/ruby-rogues/065-rr-functional-vs-object-oriented-programming-with-michael-feathers) (Aimee)[Operation Code](https://operationcode.org/) (Aimee) Google Define Function (Dave)[Scott Hanselman: Dark Matter Developers: The Unseen 99%](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) (Dave)[MyFitnessPal](http://www.myfitnesspal.com/) (Chuck)[Nike+ Running](http://www.nike.com/us/en_us/c/running/nikeplus/gps-app) (Chuck)[Couch to 10k](https://itunes.apple.com/us/app/10k-trainer-free-couch-to/id511600311?mt=8) (Chuck)[Aftershokz Bluez 2 Headphones](http://aftershokz.com/products/bluez-2) (Chuck)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck) Climbing (Rich)[The Codeless Code](http://thecodelesscode.com/contents) (Rich)[Star Wars](http://www.starwars.com/) (Rich)[The Website Obesity Crisis](http://idlewords.com/talks/website_obesity.htm) (Oskar)
+[Better Off Ted](https://www.imdb.com/title/tt1235547/) (Joe)[Elementary](https://www.imdb.com/title/tt2191671/) (Joe)[Ruby Rogues Episode #137: Book Club - Functional Programming for the Object-Oriented Programmer with Brian Marick](https://devchat.tv/ruby-rogues/137-rr-book-club-functional-programming-for-the-object-oriented-programmer-with-brian-marick) (Aimee)[Ruby Rogues Episode #115: Functional and Object Oriented Programming with Jessica Kerr](https://devchat.tv/ruby-rogues/115-rr-functional-and-object-oriented-programming-with-jessica-kerr) (Aimee)[Ruby Rogues Episode #65: Functional vs Object Oriented Programming with Michael Feathers](https://devchat.tv/ruby-rogues/065-rr-functional-vs-object-oriented-programming-with-michael-feathers) (Aimee)[Operation Code](https://operationcode.org/) (Aimee) Google Define Function (Dave)[Scott Hanselman: Dark Matter Developers: The Unseen 99%](https://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) (Dave)[MyFitnessPal](https://www.myfitnesspal.com/) (Chuck)[Nike+ Running](https://www.nike.com/us/en_us/c/running/nikeplus/gps-app) (Chuck)[Couch to 10k](https://itunes.apple.com/us/app/10k-trainer-free-couch-to/id511600311?mt=8) (Chuck)[Aftershokz Bluez 2 Headphones](https://aftershokz.com/products/bluez-2) (Chuck)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck) Climbing (Rich)[The Codeless Code](https://thecodelesscode.com/contents) (Rich)[Star Wars](https://www.starwars.com/) (Rich)[The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm) (Oskar)
 
 ### Transcript
 

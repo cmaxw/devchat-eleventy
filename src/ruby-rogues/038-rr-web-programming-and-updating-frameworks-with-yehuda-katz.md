@@ -16,17 +16,17 @@ tags:
 
 - [Twitter](https://twitter.com/wycats)
 - [GitHub](https://github.com/wycats)
-- [Blog](http://yehudakatz.com/)
+- [Blog](https://yehudakatz.com/)
 - [Merb](https://en.wikipedia.org/wiki/Merb)
   - Rails 3
-  - [Ember.js](http://emberjs.com/)
+  - [Ember.js](https://emberjs.com/)
     05:49 - Yehuda Began in [jQuery](https://jquery.com/)
-- [Prototype.js](http://prototypejs.org/)
+- [Prototype.js](https://prototypejs.org/)
   07:44 - [Thomas Fuchs](https://twitter.com/thomasfuchs)
 - [script.aculo.us](https://script.aculo.us/)
   08:19 - [visual-jquery](https://github.com/jquery-archive/visual-jquery)09:05 - Started in with Mobile/JavaScript
-- Worked with&nbsp;[Charles Jolley](http://www.okito.net/)
-  - Founder of [SproutCore](http://sproutcore.com/) - SproutCore 2 =\> Ember.js - SproutCore History of Beer Names - No Longer a Code Name:&nbsp; [Amber (SmallTalk Dialect)](http://amber-lang.net/)
+- Worked with&nbsp;[Charles Jolley](https://www.okito.net/)
+  - Founder of [SproutCore](https://sproutcore.com/) - SproutCore 2 =\> Ember.js - SproutCore History of Beer Names - No Longer a Code Name:&nbsp; [Amber (SmallTalk Dialect)](https://amber-lang.net/)
     11:00 - Amber vs Ember 13:54 - Yehuda in Refactoring / Refurbishing Projects
 - Example:&nbsp; Merb 04 or 05
   16:25 - Desire Perfection = Never Ship
@@ -37,9 +37,9 @@ tags:
   - Security
     - Middleware
   - “Everything Rails does _FOR_ you, it also does _TO_ you.”
-  - [JSON](http://json.org/) as a View Layer
+  - [JSON](https://json.org/) as a View Layer
   - Convention over Configuration
-    32:46 - [Backbone.js](http://backbonejs.org/)33:23 -&nbsp;[Serializer Gem](https://github.com/rails-api/active_model_serializers)35:50 - &nbsp;Presenters vs View Models vs Specialized Presenter for Serialization
+    32:46 - [Backbone.js](https://backbonejs.org/)33:23 -&nbsp;[Serializer Gem](https://github.com/rails-api/active_model_serializers)35:50 - &nbsp;Presenters vs View Models vs Specialized Presenter for Serialization
 - Similar to Templates / View / Erector / Markaby
   37:43 - Yehuda on the politics of [Open Source](https://en.wikipedia.org/wiki/Open_source)
 - Example: TL;DR / Abstractions

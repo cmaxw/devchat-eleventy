@@ -17,7 +17,7 @@ tags:
 - Definition
 - SPI
 - API
-  7:25 -&nbsp;[Net::HTTP](http://ruby-doc.org/stdlib-1.9.3/libdoc/net/http/rdoc/Net/HTTP.html)
+  7:25 -&nbsp;[Net::HTTP](https://ruby-doc.org/stdlib-1.9.3/libdoc/net/http/rdoc/Net/HTTP.html)
 - Cons of Net::HTTP
   11:15 - Exceptions API
 - 4 Distinct Families of Exceptions
@@ -26,16 +26,16 @@ tags:
 - Wrapper around other HTTP libraries
 - Alternatives to HTTPS: Patron & [typhoeus](https://github.com/typhoeus)
   19:45 -&nbsp;[httparty](https://github.com/jnunemaker/httparty)20:24 - [rest-client](https://github.com/archiloque/rest-client)22:20 - Differentiate b/w callback oriented API & explicitly asynchronous callback API
-- [Nokogiri](http://www.nokogiri.org/)
-  24:26 -&nbsp;[FasterCSV](http://fastercsv.rubyforge.org/)
+- [Nokogiri](https://www.nokogiri.org/)
+  24:26 -&nbsp;[FasterCSV](https://fastercsv.rubyforge.org/)
 - Public API
 - Tablular
   32:20 -&nbsp;[gatling_gun](https://github.com/okrb/gatling_gun)33:15 - Layering Abstraction
 - Private API
 - Multiple Levels of Public API
-  41:28 -&nbsp;[Ruby/TK](http://www.ruby-doc.org/docs/ProgrammingRuby/html/ext_tk.html)44:42 -&nbsp;[Versioning and Releases](http://rubyrogues.com/037-rr-versioning-and-releases/)
-- [Ruby Rogues Episode #37: Versioning and Releases](http://devchat.tv/ruby-rogues/037-rr-versioning-and-releases)
-  45:12 -&nbsp;[(DSL) Digital Subscriber Line](http://en.wikipedia.org/wiki/Digital_subscriber_line)45:19 -&nbsp;[RSpec](http://rspec.info/)45:55 -&nbsp;[Cucumber](https://cukes.info/)46:09 -&nbsp;[SQL](http://en.wikipedia.org/wiki/SQL)
+  41:28 -&nbsp;[Ruby/TK](https://www.ruby-doc.org/docs/ProgrammingRuby/html/ext_tk.html)44:42 -&nbsp;[Versioning and Releases](https://rubyrogues.com/037-rr-versioning-and-releases/)
+- [Ruby Rogues Episode #37: Versioning and Releases](https://devchat.tv/ruby-rogues/037-rr-versioning-and-releases)
+  45:12 -&nbsp;[(DSL) Digital Subscriber Line](https://en.wikipedia.org/wiki/Digital_subscriber_line)45:19 -&nbsp;[RSpec](https://rspec.info/)45:55 -&nbsp;[Cucumber](https://cukes.info/)46:09 -&nbsp;[SQL](https://en.wikipedia.org/wiki/SQL)
 - Relational Queries
 
 ### Transcript

@@ -21,16 +21,16 @@ tags:
 - [Horizon.io](https://horizon.io/)
   07:56 - The Admin Interface09:16 - RethinkDB + Horizon10:56 - Versus [Meteor](https://www.meteor.com/)13:35 - Message Format14:26 - Getting Started19:01 - Real-time21:24 - Security26:56 - The Grand Vision; Use Cases32:17 - Managing Deployment with Redundancy &nbsp;Picks
 - [That Conference](https://www.thatconference.com/) (Joe)
-- [AngularConnect](http://angularconnect.com/) (Joe)
-- [React Rally](http://www.reactrally.com/) (Joe)
+- [AngularConnect](https://angularconnect.com/) (Joe)
+- [React Rally](https://www.reactrally.com/) (Joe)
 - [Soft Skills Engineering Podcast](https://itunes.apple.com/us/podcast/soft-skills-engineering/id1091341048?mt=2) (Dave)
-- [May the 4th](http://www.starwars.com/news/the-history-of-may-the-4th) (Chuck)
-- [The Developer Preview](http://horizon.io) (Mike)
-- [The Art Spirit Paperback by Robert Henri](http://www.amazon.com/Art-Spirit-Robert-Henri/dp/8087888561) (Mike)
-- [React Rally](http://www.reactrally.com/) (Jamison)
+- [May the 4th](https://www.starwars.com/news/the-history-of-may-the-4th) (Chuck)
+- [The Developer Preview](https://horizon.io) (Mike)
+- [The Art Spirit Paperback by Robert Henri](https://www.amazon.com/Art-Spirit-Robert-Henri/dp/8087888561) (Mike)
+- [React Rally](https://www.reactrally.com/) (Jamison)
 - [Uncanny Valley Podcast](https://itunes.apple.com/us/podcast/uncanny-valley-podcast-uncanny/id535761300?mt=2) &nbsp;(Jamison)
-- [Kishi Boshi](http://www.kishibashi.com/) (Jamison)
-- [David R. MacIver: On criticizing programming languages (without criticizing their users)](http://www.drmaciver.com/2015/12/on-criticizing-programming-languages/) (Aimee)
+- [Kishi Boshi](https://www.kishibashi.com/) (Jamison)
+- [David R. MacIver: On criticizing programming languages (without criticizing their users)](https://www.drmaciver.com/2015/12/on-criticizing-programming-languages/) (Aimee)
 
 ### Transcript
 

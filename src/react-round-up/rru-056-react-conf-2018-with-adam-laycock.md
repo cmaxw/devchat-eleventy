@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [Triplebyte&nbsp;](https://triplebyte.com/react)offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -43,7 +43,7 @@ Adam Laycock describes his experience at React conf 2018, the atmosphere, the pe
  **Charles Max Wood**
 - [https://www.notion.so/](https://www.notion.so/)
 - [The Effective Executive by Peter F. Drucker](https://www.amazon.com/Effective-Executive-Peter-Drucker-ebook-dp-B07BBRGVNN/dp/B07BBRGVNN/ref=mt_kindle?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
-- [http://entreprogrammers.com/](http://entreprogrammers.com/)
+- [https://entreprogrammers.com/](https://entreprogrammers.com/)
 - Michael Feathers
 - Kent Beck
 **Nader Dabit**

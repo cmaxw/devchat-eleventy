@@ -5,7 +5,7 @@ title: >
 date: 2016-06-22 07:00:27
 episode_number: 217
 duration: 51:49
-audio_url: http://media.devchat.tv/js-jabber/JSJ217Now.mp3
+audio_url: https://media.devchat.tv/js-jabber/JSJ217Now.mp3
 podcast: js-jabber
 tags:
   - js_jabber
@@ -22,8 +22,8 @@ tags:
 - [ZEIT](https://zeit.co/)
   - [@zeithq](https://twitter.com/zeithq) &nbsp;
 - [Cloudup](https://cloudup.com/)
-- [Mongoose.js](http://mongoosejs.com/)
-- [Socket.IO](http://socket.io/)
+- [Mongoose.js](https://mongoosejs.com/)
+- [Socket.IO](https://socket.io/)
   03:07 - [Now: Realtime Node.js Deployments](https://zeit.co/now)04:28 - Key Concepts
 - [now-serve](https://github.com/zeit/now-serve)
 - [Heroku](https://www.heroku.com/)
@@ -32,12 +32,12 @@ tags:
   17:22 - Technology vs Design20:36 - Running Now vs [npm-install](https://docs.npmjs.com/cli/install)27:17 - Simplicity; SSH and Metrics35:33 - Debugging and Performance37:34 - Security41:44 - What’s Next?&nbsp;Picks
 - [Overwatch](https://playoverwatch.com/) (Joe)
 - [To Kill A Mockingbird by Harper Lee](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird) (Jamison)
-- [React Rally](http://www.reactrally.com/) (Jamison)
+- [React Rally](https://www.reactrally.com/) (Jamison)
 - [Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Y. Bhargava](https://www.manning.com/books/grokking-algorithms) (Aimee)
-- [Birgitta Böckeler: Born for it](http://martinfowler.com/articles/born-for-it.html) (Aimee)
+- [Birgitta Böckeler: Born for it](https://martinfowler.com/articles/born-for-it.html) (Aimee)
 - [TSA Pre✓](https://www.tsa.gov/tsa-precheck) (Chuck)
-- [RIF6 Cube 2-inch Mobile Projector](http://www.amazon.com/RIF6-Projector-120-inch-Portable-Rechargeable/dp/B00QXS8L6I?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) (Chuck)
-- [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy](http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227) (Guillermo)
+- [RIF6 Cube 2-inch Mobile Projector](https://www.amazon.com/RIF6-Projector-120-inch-Portable-Rechargeable/dp/B00QXS8L6I?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) (Chuck)
+- [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy](https://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227) (Guillermo)
 
 ### Transcript
 

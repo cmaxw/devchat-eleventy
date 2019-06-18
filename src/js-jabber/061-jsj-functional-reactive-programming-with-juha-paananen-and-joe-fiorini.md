@@ -14,69 +14,69 @@ tags:
 
 ### Panel
 
-- Juha Paananen ([twitter](https://twitter.com/raimohanska) [github](https://github.com/raimohanska) [blog](http://nullzzz.blogspot.com/))
-- Joe Fiorini ([twitter](https://twitter.com/joefiorini) [github](https://github.com/joefiorini) [blog](http://joefiorini.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
+- Juha Paananen ([twitter](https://twitter.com/raimohanska) [github](https://github.com/raimohanska) [blog](https://nullzzz.blogspot.com/))
+- Joe Fiorini ([twitter](https://twitter.com/joefiorini) [github](https://github.com/joefiorini) [blog](https://joefiorini.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:20 - Joe Fiorini Introduction
 
-- Interaction Developer at [Designing Interactive](http://designinginteractive.com/) in Cleveland, OH
+- Interaction Developer at [Designing Interactive](https://designinginteractive.com/) in Cleveland, OH
   01:42 - Juha Paananen Introduction
-- Software Developer at [Reaktor](http://reaktor.fi/en/) in Helsinki, Finland
-  02:30 - [Functional Reactive Programming](http://en.wikipedia.org/wiki/Functional_reactive_programming) (FRP) vs Functional Programming
-- [057 JSJ Functional Programming with Zach Kessin](http://javascriptjabber.com/057-jsj-functional-programming-with-zach-kessin/)
-  04:25 - [Declarative Programming](http://en.wikipedia.org/wiki/Declarative_programming)05:55 - Map and Filter 07:05 - [bacon.js](https://github.com/raimohanska/bacon.js)
-- [Flapjax](http://www.flapjax-lang.org/)
+- Software Developer at [Reaktor](https://reaktor.fi/en/) in Helsinki, Finland
+  02:30 - [Functional Reactive Programming](https://en.wikipedia.org/wiki/Functional_reactive_programming) (FRP) vs Functional Programming
+- [057 JSJ Functional Programming with Zach Kessin](https://javascriptjabber.com/057-jsj-functional-programming-with-zach-kessin/)
+  04:25 - [Declarative Programming](https://en.wikipedia.org/wiki/Declarative_programming)05:55 - Map and Filter 07:05 - [bacon.js](https://github.com/raimohanska/bacon.js)
+- [Flapjax](https://www.flapjax-lang.org/)
   09:10 - Mapping and filtering event streams 10:40 - Asynchronicity and Promises 14:28 - Using FRP
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 - Complex UIs
 - [TodoMVC with Bacon.js, Backbone.js and Transparency.js by pyykiss](https://github.com/tastejs/todomvc/pull/419)
-  20:02 - [Ember.js](http://emberjs.com/) and FRP 22:04 - MVC frameworks and FRP
-- [Juha Paananen: FRP, Bacon.js and stuff: Chicken, Egg and Bacon.js](http://nullzzz.blogspot.com/2013/02/chicken-egg-and-baconjs.html)
+  20:02 - [Ember.js](https://emberjs.com/) and FRP 22:04 - MVC frameworks and FRP
+- [Juha Paananen: FRP, Bacon.js and stuff: Chicken, Egg and Bacon.js](https://nullzzz.blogspot.com/2013/02/chicken-egg-and-baconjs.html)
   24:35 - Learning FRP 25:49 - Where did FRP come from?
-- [What is (functional) reactive programming? - Stack Overflow](http://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming)
-- [Conal Elliott: Composing Reactive Animations](http://conal.net/fran/tutorial.htm)
-- [Haskell](<http://en.wikipedia.org/wiki/Haskell_(programming_language)>)
-- [Reactive-banana - HaskellWiki](http://www.haskell.org/haskellwiki/Reactive-banana)
+- [What is (functional) reactive programming? - Stack Overflow](https://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming)
+- [Conal Elliott: Composing Reactive Animations](https://conal.net/fran/tutorial.htm)
+- [Haskell](<https://en.wikipedia.org/wiki/Haskell_(programming_language)>)
+- [Reactive-banana - HaskellWiki](https://www.haskell.org/haskellwiki/Reactive-banana)
   29:07 - Going beyond visual media
 - [substack/stream-handbook](https://github.com/substack/stream-handbook)
   32:18 - Wrappers 33:31 - How to build things with FRP libraries
-- [Juha Paananen @ MLOC.JS: Functional Reactive Programming in JavaScript using Bacon.js](http://www.ustream.tv/recorded/29299079)
+- [Juha Paananen @ MLOC.JS: Functional Reactive Programming in JavaScript using Bacon.js](https://www.ustream.tv/recorded/29299079)
 
 ### Picks
 
-- [SlideShare: Functional Reactive Programming in JavaScript](http://www.slideshare.net/drboolean/functional-reactive-programming-in-javascript) (AJ)
-- [Valve: The AI Systems of Left 4 Dead by Michael Booth](http://www.valvesoftware.com/publications/2009/ai_systems_of_l4d_mike_booth.pdf) (Jamison)
-- [programming is terrible](http://programmingisterrible.com/) (Jamison)
-- [Simple Made Easy: Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy) (Jamison)
-- [AngularJS Fundamentals (Joe's Pluralsight Course)](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) (Joe)
-- [Open Source Bridge](http://opensourcebridge.org/) (Joe)
-- [That Conference](http://www.thatconference.com/) (Joe)
-- [Star Trek: Into Darkness](http://www.imdb.com/title/tt1408101/) (Joe)
-- [ServerBear](http://serverbear.com/compare/vps) (AJ)
+- [SlideShare: Functional Reactive Programming in JavaScript](https://www.slideshare.net/drboolean/functional-reactive-programming-in-javascript) (AJ)
+- [Valve: The AI Systems of Left 4 Dead by Michael Booth](https://www.valvesoftware.com/publications/2009/ai_systems_of_l4d_mike_booth.pdf) (Jamison)
+- [programming is terrible](https://programmingisterrible.com/) (Jamison)
+- [Simple Made Easy: Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy) (Jamison)
+- [AngularJS Fundamentals (Joe's Pluralsight Course)](https://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) (Joe)
+- [Open Source Bridge](https://opensourcebridge.org/) (Joe)
+- [That Conference](https://www.thatconference.com/) (Joe)
+- [Star Trek: Into Darkness](https://www.imdb.com/title/tt1408101/) (Joe)
+- [ServerBear](https://serverbear.com/compare/vps) (AJ)
 - [rainwave](https://github.com/rmcauley/rainwave) (AJ)
 - [rwbackend](https://github.com/rmcauley/rwbackend) (AJ)
-- [Mesa Boogie Lone Star Guitar Amplifier](http://www.mesaboogie.com/Product_Info/Lonestar/Lonestar.htm) (Merrick)
+- [Mesa Boogie Lone Star Guitar Amplifier](https://www.mesaboogie.com/Product_Info/Lonestar/Lonestar.htm) (Merrick)
 - [backburner.js](https://github.com/ebryn/backburner.js) (Merrick)
 - [messageformat.js](https://github.com/SlexAxton/messageformat.js) (Merrick)
 - [Digital Ocean](https://www.digitalocean.com/?refcode=a3f178e25ae4) (Chuck)
-- [Emacs](http://www.gnu.org/software/emacs/) (Chuck)
+- [Emacs](https://www.gnu.org/software/emacs/) (Chuck)
 - [emacs_libs](https://github.com/terenine/emacs_libs) (Chuck)
-- [Tmux](http://tmux.sourceforge.net/) (Chuck)
-- [GitLab](http://gitlab.org/) (Chuck)
-- [Flight by Twitter](http://twitter.github.io/flight/) (Joe F.)
-- [Ember.js](http://emberjs.com/) (Joe F.)
-- [CodeMash](http://codemash.org/) (Joe F.)
+- [Tmux](https://tmux.sourceforge.net/) (Chuck)
+- [GitLab](https://gitlab.org/) (Chuck)
+- [Flight by Twitter](https://twitter.github.io/flight/) (Joe F.)
+- [Ember.js](https://emberjs.com/) (Joe F.)
+- [CodeMash](https://codemash.org/) (Joe F.)
 - [fantasy-land](https://github.com/puffnfresh/fantasy-land) (Juha)
 - [The Bacon.js postings featuring Phil Roberts](https://github.com/raimohanska/bacon.js/wiki/Documentation) (Juha)
-- [Iron Sky](http://www.imdb.com/title/tt1034314/) (Juha)
-- [Reaktor Dev Day](http://reaktordevday.fi/2013/) (Juha)
+- [Iron Sky](https://www.imdb.com/title/tt1034314/) (Juha)
+- [Reaktor Dev Day](https://reaktordevday.fi/2013/) (Juha)
 
 ### Next Week
 

@@ -56,7 +56,7 @@ In this episode, the Adventures in Angular panel talks to Torgeir Helgevold abou
 - [Webpack](https://webpack.js.org/)
 - [Alex Eagle repo - angular-bazel-example](https://github.com/alexeagle/angular-bazel-example)
 - [@helgevold](https://twitter.com/helgevold?lang=en)
-- [syntaxsuccess.com](http://www.syntaxsuccess.com/)
+- [syntaxsuccess.com](https://www.syntaxsuccess.com/)
 - [Torgeir’s GitHub](https://github.com/thelgevold)
 - [Torgeir’s Nrwl Blog](https://blog.nrwl.io/@tor_92315)
 
@@ -76,7 +76,7 @@ Joe
 
 - [Google Duplex](https://www.youtube.com/watch?v=hyw7AM7OR6U)
 - [_Why AI Will Bring an Explosion of New Jobs_](https://hackernoon.com/why-ai-will-bring-an-explosion-of-new-jobs-11dc203890b)
-- [Full of Sith Podcast – _How the Force Works_](http://fullofsith.com/archives/2205)
+- [Full of Sith Podcast – _How the Force Works_](https://fullofsith.com/archives/2205)
 
 Torgeir
 

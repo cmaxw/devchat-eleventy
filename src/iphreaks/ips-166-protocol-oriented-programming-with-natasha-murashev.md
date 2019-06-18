@@ -14,14 +14,14 @@ tags:
 
 01:58 - Natasha Murashev Introduction
 
-- [@NatashaTheRobot](http://www.twitter.com/NatashaTheRobot)
+- [@NatashaTheRobot](https://www.twitter.com/NatashaTheRobot)
 - [@natashathenomad](https://twitter.com/natashathenomad) &nbsp;
 - [GitHub](https://github.com/NatashaTheRobot)
-- [Blog](http://natashatherobot.com/)
+- [Blog](https://natashatherobot.com/)
 - [This Week in Swift Newsletter](https://swiftnews.curated.co/)
 - [The iPhreaks Show Episode #092: Unit Testing with NatashaTheRobot](https://devchat.tv/iphreaks/092-ips-unit-testing-with-natashatherobot)
-- [try! Swift](http://www.tryswiftconf.com/)
-  - [try! Swift NYC](http://www.tryswiftnyc.com/) Use discount code **IPHREAKS100** for \$100 off a ticket!
+- [try! Swift](https://www.tryswiftconf.com/)
+  - [try! Swift NYC](https://www.tryswiftnyc.com/) Use discount code **IPHREAKS100** for \$100 off a ticket!
     02:31 - Protocol-Oriented Programming
 - [Natasha Murashev: Practical Protocol-Oriented-Programming](https://realm.io/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)
 - [WWDC 2015: Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/)
@@ -33,21 +33,21 @@ tags:
   21:22 - Does protocol-oriented programming change the architecture of your apps substantially?22:06 - Structs \> Classes25:13 - Protocol-oriented Programming Code Examples
 - [Natasha's Talk](https://realm.io/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)
 - [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/)
-  27:05 - Changes With Swift 3?28:03 - [try! Swift](http://www.tryswiftconf.com/)&nbsp;Picks
+  27:05 - Changes With Swift 3?28:03 - [try! Swift](https://www.tryswiftconf.com/)&nbsp;Picks
 - [NorthFace Surge Transit Backpack](https://www.thenorthface.com/shop/surge-transit-backpack-nf0a2zcp) (Alondo)
 - [Andy Matuschak: Let’s Play: Refactor the Mega-Controller @ NSSpain](https://vimeo.com/140037432) (Alondo)
 - [The Well of Ascension (Mistborn, Book 2) by Brandon Sanderson](https://www.amazon.com/Well-Ascension-Mistborn-Book/dp/0765356139) (Layne)
-- [Prague](http://www.prague.eu/) (Layne)
-- [Microsoft Sculpt Ergonomic Keyboard](http://amzn.to/29Vfj5S) (Caleb)
+- [Prague](https://www.prague.eu/) (Layne)
+- [Microsoft Sculpt Ergonomic Keyboard](https://amzn.to/29Vfj5S) (Caleb)
 - [ErgoDox Ergonomic Mechanical Keyboard Kit](https://www.massdrop.com/buy/ergodox) (Caleb)
-- [Ben North & Oliver Nash: Magnetic core memory reborn](http://www.corememoryshield.com/report.html) (Andrew)
-- [Rocket](http://matthewpalmer.net/rocket/) (Andrew)
+- [Ben North & Oliver Nash: Magnetic core memory reborn](https://www.corememoryshield.com/report.html) (Andrew)
+- [Rocket](https://matthewpalmer.net/rocket/) (Andrew)
 - [Alexandros Salazar: The Ghost of Swift Bugs Future](https://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future) (Jaim)
 - [Hector Matos @ AltConf 2016 - Type Erasure Magic](https://speakerdeck.com/hectormatos2011/type-erasure-magic) (Jaim)
-- [How to Stay Motivated: Developing the Qualities of Success by Zig Ziglar](http://www.audible.com/pd/Business/How-to-Stay-Motivated-Audiobook/B002V8MXYK?mkwid=DSATitle_dc&pcrid=81800027649&pmt=b&pkw=_intitle%3Aaudiobook&source_code=GO1GB907OSH060513&gclid=CNHN7c6Rps4CFQRehgodPDwOnQ) (Chuck)
+- [How to Stay Motivated: Developing the Qualities of Success by Zig Ziglar](https://www.audible.com/pd/Business/How-to-Stay-Motivated-Audiobook/B002V8MXYK?mkwid=DSATitle_dc&pcrid=81800027649&pmt=b&pkw=_intitle%3Aaudiobook&source_code=GO1GB907OSH060513&gclid=CNHN7c6Rps4CFQRehgodPDwOnQ) (Chuck)
 - [Understanding Swift Performance](https://developer.apple.com/videos/play/wwdc2016/416/) (Natasha)
 - [Win the Crowd: Unlock the Secrets of Influence, Charisma, and Showmanship by Steve Cohen](https://www.amazon.com/Win-Crowd-Steve-Cohen-ebook/dp/B000N2HD3W/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) (Natasha)
-- [Rainbow Bagels](http://www.thebagelstoreonline.com/) (Natasha)
+- [Rainbow Bagels](https://www.thebagelstoreonline.com/) (Natasha)
 
 ### Transcript
 

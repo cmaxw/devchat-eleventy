@@ -41,21 +41,21 @@ tags:
 - @john_papa
 - https://github.com/johnpapa
   **Picks:** Corey
-- [cypress.io](http://cypress.io)
+- [cypress.io](https://cypress.io)
   Charles
 - [E Myth Revisited](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
-- [Profit First&nbsp;](http://profitfirstbook.com)
-- [Dunkirk](http://www.imdb.com/title/tt5013056/)
+- [Profit First&nbsp;](https://profitfirstbook.com)
+- [Dunkirk](https://www.imdb.com/title/tt5013056/)
   Aimee
 - [Crucial Conversations&nbsp;](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822)
 - [Ripple or XRP](https://ripple.com/xrp/)
   Joe
-- [The Greatest Showman](http://www.imdb.com/title/tt1485796/)
+- [The Greatest Showman](https://www.imdb.com/title/tt1485796/)
 - [Better Late Then Never](https://www.nbc.com/better-late-than-never?nbc=1)
 - Vue
 - [7 Languages In 7 Weeks](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks)&nbsp; - Book
   John
-- [Jumanji](http://www.imdb.com/title/tt2283362/)2017
+- [Jumanji](https://www.imdb.com/title/tt2283362/)2017
 - Emotional Intelligence
 
 ### Transcript

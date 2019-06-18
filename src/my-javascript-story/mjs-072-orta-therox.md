@@ -25,7 +25,7 @@ This week on My JavaScript Story, Charles speaks with Orta Therox. Orta is a nat
 - Artsy
 - iOS programming
 - Hates lack of documentation
-- [CocoaPods](http://cocoadocs.org/)
+- [CocoaPods](https://cocoadocs.org/)
 - Trouble with building native apps
 - His move to [React](https://reactjs.org/) and [React Native](https://facebook.github.io/react-native/)
 - Used to run iOS team at Artsy
@@ -36,7 +36,7 @@ This week on My JavaScript Story, Charles speaks with Orta Therox. Orta is a nat
 - Open source by default idea
 - Loves giving back through blogging and open source
 - How did you get into [Ruby](https://www.ruby-lang.org/en/)?
-- [MacRuby](http://macruby.org/)
+- [MacRuby](https://macruby.org/)
 - Boundaries are very obvious in React Native
 - How did you get into React and React Native?
 - Native developers building stuff in [JavaScript](https://www.javascript.com/)
@@ -48,15 +48,15 @@ This week on My JavaScript Story, Charles speaks with Orta Therox. Orta is a nat
 
 - [JavaScript Jabber Episode 305](https://devchat.tv/js-jabber/jsj-305-continuous-integration-processes-and-dangerjs-with-orta-therox/)
 - [Artsy](https://www.artsy.net/)
-- [CocoaPods](http://cocoadocs.org/)
+- [CocoaPods](https://cocoadocs.org/)
 - [React](https://reactjs.org/)
 - [React Native](https://facebook.github.io/react-native/)
-- [MacRuby](http://macruby.org/)
+- [MacRuby](https://macruby.org/)
 - [JavaScript](https://www.javascript.com/)
 - [@orta](https://twitter.com/orta?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [orta.io](http://orta.io/)
+- [orta.io](https://orta.io/)
 - [Orta’s GitHub](https://github.com/orta)
-- [Artsy Engineering](http://artsy.github.io/)
+- [Artsy Engineering](https://artsy.github.io/)
 
 **Sponsors:**
 

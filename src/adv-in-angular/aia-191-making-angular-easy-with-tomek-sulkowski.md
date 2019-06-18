@@ -18,7 +18,7 @@ Charles Max Wood
 
 **Special Guests:** Tomek Sułkowski
 
-In this episode, the JavaScript Jabber panelists discuss UX in Angular with Tomek Sułkowski. Tomek currently works as a front-end engineer for an app creating company, as well as has been working for [Sages](http://sages.io/) running front-end workshops that mostly have to do with [Angular](https://angular.io/). They talk about his [blog post](https://blog.usejournal.com/angular-techniques-improve-submit-buttons-ux-by-not-disabling-it-896992a94a38), buttons, and improving the user experience. They also touch on the importance of using simple solutions rather than overcomplicated ones, how to teach UI in training, and much more!
+In this episode, the JavaScript Jabber panelists discuss UX in Angular with Tomek Sułkowski. Tomek currently works as a front-end engineer for an app creating company, as well as has been working for [Sages](https://sages.io/) running front-end workshops that mostly have to do with [Angular](https://angular.io/). They talk about his [blog post](https://blog.usejournal.com/angular-techniques-improve-submit-buttons-ux-by-not-disabling-it-896992a94a38), buttons, and improving the user experience. They also touch on the importance of using simple solutions rather than overcomplicated ones, how to teach UI in training, and much more!
 
 **In particular, we dive pretty deep on:**
 
@@ -46,7 +46,7 @@ In this episode, the JavaScript Jabber panelists discuss UX in Angular with Tome
 
 **Links:**
 
-- [Sages](http://sages.io/)
+- [Sages](https://sages.io/)
 - [_Angular techniques: Improve submit button’s UX by NOT disabling it_](https://blog.usejournal.com/angular-techniques-improve-submit-buttons-ux-by-not-disabling-it-896992a94a38)
 - [Angular](https://angular.io/)
 - [_Angular Router Animations: the tricky bits_ by Tomek](https://medium.com/frontend-coach/angular-router-animations-what-they-dont-tell-you-3d2737a7f20b)

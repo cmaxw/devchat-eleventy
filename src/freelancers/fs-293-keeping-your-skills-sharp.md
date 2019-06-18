@@ -43,7 +43,7 @@ Jonathan
 
 - [Revenue Lerner’s Git Course](https://lerner.co.il/introduction-to-git/)
 - [Understanding and Mastering Git](https://store.lerner.co.il/understanding-and-mastering-git)
-- [ValuePricingBootcamp.com](http://ValuePricingBootcamp.com)
+- [ValuePricingBootcamp.com](https://ValuePricingBootcamp.com)
 
 Reuven
 

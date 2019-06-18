@@ -64,8 +64,8 @@ This week on My Ruby Story, Charles talks to Aaron Sumner. Aaron is a senior sof
 
 **Sponsors:**
 
-- [Code Badges](http://codebadge.org/)
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Code Badges](https://codebadge.org/)
+- [Get a Coder Job](https://getacoderjob.com/)
 
 **Picks:**
 
@@ -77,6 +77,6 @@ Charles
 Aaron
 
 - [_Franklin Barbecue: A Meat-Smoking Manifesto_ by Aaron Franklin](https://www.amazon.com/Franklin-Barbecue-Meat-Smoking-Manifesto-Aaron/dp/1607747200)
-- [BBQ with Franklin](http://www.pbs.org/food/web-shows/bbq-with-franklin/)
+- [BBQ with Franklin](https://www.pbs.org/food/web-shows/bbq-with-franklin/)
 
 ### Transcript

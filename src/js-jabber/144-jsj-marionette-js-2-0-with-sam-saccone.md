@@ -17,18 +17,18 @@ tags:
 - [<u>Twitter</u>](https://twitter.com/samccone)
 - [<u>GitHub</u>](https://github.com/samccone)
 
-02:54 - [<u>Marionette.js</u>](http://marionettejs.com/)
+02:54 - [<u>Marionette.js</u>](https://marionettejs.com/)
 
 - [<u>[YouTube] Dancing with Marionette</u>](https://www.youtube.com/channel/UC6dVRPnSACav2AYB5XG7BZw)
-- [<u>Derick Bailey</u>](http://derickbailey.com/)
-  - [<u>JavaScript Jabber Episode #056: Marionette.js with Derick Bailey</u>](http://devchat.tv/js-jabber/056-jsj-marionette-js-with-derick-bailey)
+- [<u>Derick Bailey</u>](https://derickbailey.com/)
+  - [<u>JavaScript Jabber Episode #056: Marionette.js with Derick Bailey</u>](https://devchat.tv/js-jabber/056-jsj-marionette-js-with-derick-bailey)
 
 05:26 - Marionette 1x vs 2x
 
 - Collection View
 - Behaviors
 
-07:33 - [<u>Backbone</u>](http://backbonejs.org/)
+07:33 - [<u>Backbone</u>](https://backbonejs.org/)
 
 - Backbone and Marionette
   - [<u>James Smith - Marionette The Backbone Framework</u>](https://www.youtube.com/watch?v=EvQnntaqVdE)
@@ -39,7 +39,7 @@ tags:
 
 - [<u>Gitter</u>](https://gitter.im/)
 - 11:43 - Marionette Use Cases
-- Vs [<u>Ember</u>](http://emberjs.com/) or [<u>Angular</u>](https://angularjs.org/)
+- Vs [<u>Ember</u>](https://emberjs.com/) or [<u>Angular</u>](https://angularjs.org/)
 
 14:59 - Size
 
@@ -49,7 +49,7 @@ tags:
 
 - Promise
 
-17:32 - [<u>Underscore.js</u>](http://underscorejs.org/)
+17:32 - [<u>Underscore.js</u>](https://underscorejs.org/)
 
 18:11 - Workflow
 
@@ -63,13 +63,13 @@ tags:
 23:12 - Applications Using Marionette
 
 - <u><a href="https://about.me/" data-cke-saved-href="https://about.me/">about.me</a></u>
-- [<u>Bleacher Report</u>](http://bleacherreport.com/)
+- [<u>Bleacher Report</u>](https://bleacherreport.com/)
 - [<u>Disqus</u>](https://disqus.com/)
 - [<u>Etsy</u>](https://www.etsy.com/)
 - [<u>Eventbrite</u>](https://www.eventbrite.com/)
-- <u><a href="http://www.stubhub.com/" data-cke-saved-href="http://www.stubhub.com/">StubHub</a></u>
+- <u><a href="https://www.stubhub.com/" data-cke-saved-href="https://www.stubhub.com/">StubHub</a></u>
 - [CloudFlare](https://www.cloudflare.com/)
-- [<u>Gawker</u>](http://gawker.com/)
+- [<u>Gawker</u>](https://gawker.com/)
 
 25:04 - Testing
 

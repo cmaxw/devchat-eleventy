@@ -29,13 +29,13 @@ tags:
 - Expertise
 - Why should be care?
 - And much more!
-  **Links:** [Draft](https://draft.nu)[Nick Disabato](http://Nick%20Disabato)@nickd[ConversionXL](https://conversionxl.com)[AB Testing Manual](https://draft.nu/manual/)[Wider Funnels&nbsp;](https://www.widerfunnel.com)[Copy Hackers](https://copyhackers.com) **Picks:** Amiee
-- [Nodevember&nbsp;](http://nodevember.org)
+  **Links:** [Draft](https://draft.nu)[Nick Disabato](https://Nick%20Disabato)@nickd[ConversionXL](https://conversionxl.com)[AB Testing Manual](https://draft.nu/manual/)[Wider Funnels&nbsp;](https://www.widerfunnel.com)[Copy Hackers](https://copyhackers.com) **Picks:** Amiee
+- [Nodevember&nbsp;](https://nodevember.org)
   Charles
 - [Mike Gehard&nbsp;](https://www.slideshare.net/msgehard/experiment-driven-development)
-- [Admin LTE](http://adminlte%20icons)
+- [Admin LTE](https://adminlte%20icons)
   Nick
-- [HotJar.com](http://HotJar.com)
+- [HotJar.com](https://HotJar.com)
 -
 
 ### Transcript

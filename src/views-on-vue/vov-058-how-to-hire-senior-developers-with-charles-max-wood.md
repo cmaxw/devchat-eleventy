@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [Triplebyte](https://triplebyte.com/vue) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 

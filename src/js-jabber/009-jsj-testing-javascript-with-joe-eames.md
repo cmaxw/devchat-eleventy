@@ -14,40 +14,40 @@ tags:
 
 ### Panel
 
-- Joe Eames ([Pluralsight bio](http://blog.pluralsight.com/2012/03/06/meet-the-author-joe-eames-and-jquery-advanced-topics/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
+- Joe Eames ([Pluralsight bio](https://blog.pluralsight.com/2012/03/06/meet-the-author-joe-eames-and-jquery-advanced-topics/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
 
 ### Discussion
 
 - TDD
 - Unit testing
 - Community driven development patterns
-- [Selenium](http://seleniumhq.org/)
-- [Selenium Web Driven](http://seleniumhq.org/projects/webdriver/)
+- [Selenium](https://seleniumhq.org/)
+- [Selenium Web Driven](https://seleniumhq.org/projects/webdriver/)
 - Integration Tests
 - UI Tests
 - BDD
 - Tests are only as good as their authoring
-- [javadoc](http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html)
-- [Typed.js](http://typedjs.com/)
+- [javadoc](https://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html)
+- [Typed.js](https://typedjs.com/)
 - [Heckle](https://github.com/tmcw/heckle)
 - Mutation Testing
-- [mocha](http://visionmedia.github.com/mocha/)
-- [jasmine](http://pivotal.github.com/jasmine/)
-- [qunit](http://docs.jquery.com/QUnit)
+- [mocha](https://visionmedia.github.com/mocha/)
+- [jasmine](https://pivotal.github.com/jasmine/)
+- [qunit](https://docs.jquery.com/QUnit)
 - test anything reporter
 - browser testing
 - landing strip test reporter
 - mocha does well with asynchronous code
 - qunit is like xunit
-- [YUI](http://developer.yahoo.com/yui/)
-- [teamcity](http://www.jetbrains.com/teamcity/)
+- [YUI](https://developer.yahoo.com/yui/)
+- [teamcity](https://www.jetbrains.com/teamcity/)
 - Continuous Integration
-- [jsTestDriver](http://code.google.com/p/js-test-driver/)
+- [jsTestDriver](https://code.google.com/p/js-test-driver/)
 - Can you run DOM tests without a browser?
-- [Phantom.js](http://www.phantomjs.org/)
-- [sinon.js](http://sinonjs.org/)
+- [Phantom.js](https://www.phantomjs.org/)
+- [sinon.js](https://sinonjs.org/)
 - Spying on functions
 - Test doubles
 - Start with stubs
@@ -57,21 +57,21 @@ tags:
 - Mocks aren't Stubs by Martin Fowler
 - Don't mock objects you don't own
 - Abstract away libraries you don't own
-- [TestDrivenJS.com](http://www.testdrivenjs.com/)
-- [TestDrivenJS.com Resources page](http://www.testdrivenjs.com/resources/)
+- [TestDrivenJS.com](https://www.testdrivenjs.com/)
+- [TestDrivenJS.com Resources page](https://www.testdrivenjs.com/resources/)
 - regressions
 
 ### Picks
 
-- [unmute](http://www.myspace.com/unmutemusic) (Jamison)
-- [GoodReads](http://www.goodreads.com/) (Jamison)
-- [Bootstrapping Design](http://blog.studiofellow.com/2011/11/01/bootstrapping-design/) (Jamison)
-- [Apparat](http://www.apparat.net/)(Jamison)
-- [Things](http://itunes.apple.com/us/app/things/id284971781?mt=8) (Chuck)
-- [iPad](http://www.apple.com/ipad/) (Chuck)
-- [Last Will](http://www.imdb.com/title/tt1312222/) (Joe)
-- [Psych](http://www.amazon.com/gp/product/B000P0I4P8/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000P0I4P8) (Joe)
-- [The Tower of Fear by Glen Cook](http://www.amazon.com/gp/product/0765358972/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0765358972) (Joe)
+- [unmute](https://www.myspace.com/unmutemusic) (Jamison)
+- [GoodReads](https://www.goodreads.com/) (Jamison)
+- [Bootstrapping Design](https://blog.studiofellow.com/2011/11/01/bootstrapping-design/) (Jamison)
+- [Apparat](https://www.apparat.net/)(Jamison)
+- [Things](https://itunes.apple.com/us/app/things/id284971781?mt=8) (Chuck)
+- [iPad](https://www.apple.com/ipad/) (Chuck)
+- [Last Will](https://www.imdb.com/title/tt1312222/) (Joe)
+- [Psych](https://www.amazon.com/gp/product/B000P0I4P8/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000P0I4P8) (Joe)
+- [The Tower of Fear by Glen Cook](https://www.amazon.com/gp/product/0765358972/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0765358972) (Joe)
 - Touch (Joe)
 
 ### Transcript

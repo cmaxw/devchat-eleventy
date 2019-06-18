@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/mikegehard)
 - [GitHub](https://github.com/mikegehard)
-- [Pivotal](http://pivotal.io/)
+- [Pivotal](https://pivotal.io/)
 
 03:23 - [Monoliths](https://en.wikipedia.org/wiki/Monolith)
 
@@ -25,7 +25,7 @@ tags:
 09:47 - Migrating a Monolith to Microservices Via an Evolutionary Path
 
 - Organization
-- [The Application Continuum: Evolving toward distributed systems](http://www.appcontinuum.io/)
+- [The Application Continuum: Evolving toward distributed systems](https://www.appcontinuum.io/)
 
 15:21 - The Steps Along the Continuum
 
@@ -48,26 +48,26 @@ tags:
 - [pact](https://github.com/realestate-com-au/pact)
 - [Jepsen Testing](https://aphyr.com/tags/jepsen)
 - [Postman](https://www.getpostman.com/docs/writing_tests)
-- [Mashery I/O Docs](http://www.mashery.com/api/io-docs)
+- [Mashery I/O Docs](https://www.mashery.com/api/io-docs)
 
 51:16 - Deployment
 
-- [Pivotal Cloud Foundry](http://pivotal.io/platform)
+- [Pivotal Cloud Foundry](https://pivotal.io/platform)
 
 52:47 - Security
 
-- [UAA](http://docs.run.pivotal.io/concepts/architecture/uaa.html)
+- [UAA](https://docs.run.pivotal.io/concepts/architecture/uaa.html)
 
 55:15 - Advice for those getting started
 
 - [SOA (Service-oriented Architecture)](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-- [Component-Based Rails Applications Resources](http://cbra.info/)
+- [Component-Based Rails Applications Resources](https://cbra.info/)
 
 01:04:09 - Fault Tolerance
 
 Picks
 
-[LOWA Boots](https://www.lowaboots.com/) (Avdi)[Pearl’s Peril](https://itunes.apple.com/us/app/pearls-peril/id594802437?mt=8) (David)[He Never Died](http://www.imdb.com/title/tt2386404/) (David)[httplog](https://github.com/trusche/httplog) (Coraline)[Toxic Workers by Michael Housman and Dylan Minor](http://www.hbs.edu/faculty/Publication%20Files/16-057_d45c0b4f-fa19-49de-8f1b-4b12fe054fea.pdf) (Coraline)[The Unbeatable Squirrel Girl Vol. 1 by Ryan North](http://www.amazon.com/The-Unbeatable-Squirrel-Girl-Vol/dp/0785197028) (Jessica)[Hamilton (Original Broadway Cast Recording)](https://itunes.apple.com/us/album/hamilton-original-broadway/id1025210938) (Jessica)[MyFitnessPal](http://www.myfitnesspal.com/) (Chuck)[Run 10k](http://felttip.com/run10k/) (Chuck)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)[Aftershokz Bluez 2](http://aftershokz.com/products/bluez-2) (Chuck)[FLUIDSTANCE](http://www.fluidstance.com/) (Mike)[The Elm Programming Language](http://elm-lang.org/) (Mike)[Kotlin](https://kotlinlang.org/) (Mike)
+[LOWA Boots](https://www.lowaboots.com/) (Avdi)[Pearl’s Peril](https://itunes.apple.com/us/app/pearls-peril/id594802437?mt=8) (David)[He Never Died](https://www.imdb.com/title/tt2386404/) (David)[httplog](https://github.com/trusche/httplog) (Coraline)[Toxic Workers by Michael Housman and Dylan Minor](https://www.hbs.edu/faculty/Publication%20Files/16-057_d45c0b4f-fa19-49de-8f1b-4b12fe054fea.pdf) (Coraline)[The Unbeatable Squirrel Girl Vol. 1 by Ryan North](https://www.amazon.com/The-Unbeatable-Squirrel-Girl-Vol/dp/0785197028) (Jessica)[Hamilton (Original Broadway Cast Recording)](https://itunes.apple.com/us/album/hamilton-original-broadway/id1025210938) (Jessica)[MyFitnessPal](https://www.myfitnesspal.com/) (Chuck)[Run 10k](https://felttip.com/run10k/) (Chuck)[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)[Aftershokz Bluez 2](https://aftershokz.com/products/bluez-2) (Chuck)[FLUIDSTANCE](https://www.fluidstance.com/) (Mike)[The Elm Programming Language](https://elm-lang.org/) (Mike)[Kotlin](https://kotlinlang.org/) (Mike)
 
 ### Transcript
 

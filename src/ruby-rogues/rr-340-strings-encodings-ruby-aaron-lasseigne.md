@@ -21,21 +21,21 @@ tags:
 - [Active Interaction](https://github.com/AaronLasseigne/active_interaction)
   **Picks:** Eric
 - [The Secret of Luck&nbsp;](https://www.youtube.com/watch?v=O4mN33w5Ftw)
-- [Do Things That Don’t Scale&nbsp;](http://paulgraham.com/ds.html)
-- [Girls](http://www.imdb.com/title/tt1723816/)
+- [Do Things That Don’t Scale&nbsp;](https://paulgraham.com/ds.html)
+- [Girls](https://www.imdb.com/title/tt1723816/)
   Dave
 - [FireFox Quantum&nbsp;](https://www.mozilla.org/en-US/firefox/)
   David
-- [chris.com](http://chris.com)
+- [chris.com](https://chris.com)
 - https://juliasilge.com/blog/tidy-word-vectors/
   Charles
-- [slack.com](http://slack.com)
+- [slack.com](https://slack.com)
 - Visual Studio Code Sharing
 - Podcast for React And View
   Aaron
-- [devdoc.io](http://devdoc.io)
-- [Rose Mountain](http://www.metacritic.com/music/rose-mountain/screaming-females)
-- [The Dollop](http://thedollop.net)
+- [devdoc.io](https://devdoc.io)
+- [Rose Mountain](https://www.metacritic.com/music/rose-mountain/screaming-females)
+- [The Dollop](https://thedollop.net)
 
 ### Transcript
 

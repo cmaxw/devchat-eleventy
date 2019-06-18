@@ -30,6 +30,6 @@ Content marketing requires time and energy.&nbsp;It may not come as easy as some
 
 ## Picks:
 
-Jonathan: [Value Pricing Bootcamp](http://valuepricingbootcamp.com)Philip: [Trust Velocity](http://trustvelocity.com), [Dev Shop Marketing Briefings](https://philipmorganconsulting.com/dev-shop-marketing-briefings/), [Frank Rietta on Content Marketing](https://philipmorganconsulting.com/dsmb-frank-rietta-on-content-marketing/)Reuven: [15-part email course on Boolean Indexing](http://blog.lerner.co.il/boolean-indexing-numpy-pandas-free-e-mail-course-aspiring-data-scientists/), [Training from the Back of the Room! book](http://bowperson.com/training-from-the-back-of-the-room/)
+Jonathan: [Value Pricing Bootcamp](https://valuepricingbootcamp.com)Philip: [Trust Velocity](https://trustvelocity.com), [Dev Shop Marketing Briefings](https://philipmorganconsulting.com/dev-shop-marketing-briefings/), [Frank Rietta on Content Marketing](https://philipmorganconsulting.com/dsmb-frank-rietta-on-content-marketing/)Reuven: [15-part email course on Boolean Indexing](https://blog.lerner.co.il/boolean-indexing-numpy-pandas-free-e-mail-course-aspiring-data-scientists/), [Training from the Back of the Room! book](https://bowperson.com/training-from-the-back-of-the-room/)
 
 ### Transcript

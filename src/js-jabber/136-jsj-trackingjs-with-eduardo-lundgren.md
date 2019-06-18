@@ -20,23 +20,23 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/eduardolundgren)
 - [<u>GitHub</u>](https://github.com/eduardolundgren)
-- <u><a href="http://www.liferay.com/" data-cke-saved-href="http://www.liferay.com/">Liferay</a></u>
+- <u><a href="https://www.liferay.com/" data-cke-saved-href="https://www.liferay.com/">Liferay</a></u>
   - [<u>@Liferay</u>](https://twitter.com/liferay)
-- <u><a href="http://jquery.com/" data-cke-saved-href="http://jquery.com/">jQuery</a></u>
+- <u><a href="https://jquery.com/" data-cke-saved-href="https://jquery.com/">jQuery</a></u>
   - [<u>@jquery</u>](https://twitter.com/jquery)
-- <u><a href="http://jqueryui.com/" data-cke-saved-href="http://jqueryui.com/">jQuery UI</a></u>
+- <u><a href="https://jqueryui.com/" data-cke-saved-href="https://jqueryui.com/">jQuery UI</a></u>
   - [<u>@jqueryui</u>](https://twitter.com/jqueryui)
 - [<u>jquery-simulate</u>](https://github.com/jquery/jquery-simulate)
-- <u><a href="http://alloyui.com/" data-cke-saved-href="http://alloyui.com/">AlloyUI</a></u>
+- <u><a href="https://alloyui.com/" data-cke-saved-href="https://alloyui.com/">AlloyUI</a></u>
   - [<u>@AlloyUI</u>](https://twitter.com/alloyui)
 
-04:03 - [<u>tracking.js</u>](http://trackingjs.com/)
+04:03 - [<u>tracking.js</u>](https://trackingjs.com/)
 
 - Features
   - Feature Descriptor
   - Image Convolution
   - Sobel Technique
-  - [<u>Viola Jones</u>](http://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework)
+  - [<u>Viola Jones</u>](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework)
   - Color Tracking
   - Image Tracking
 
@@ -44,33 +44,33 @@ tags:
 
 09:41 - Choosing JavaScript for Image Processing
 
-- [<u>OpenCV</u>](http://opencv.org/)
+- [<u>OpenCV</u>](https://opencv.org/)
 - [<u>OpenGL</u>](https://www.opengl.org/)
 
-11:05 - [<u>Augmented Reality</u>](http://en.wikipedia.org/wiki/Augmented_reality)
+11:05 - [<u>Augmented Reality</u>](https://en.wikipedia.org/wiki/Augmented_reality)
 
-- [<u>three.js</u>](http://threejs.org/)
+- [<u>three.js</u>](https://threejs.org/)
 
 12:26 - [<u>Leap Motion Controller</u>](https://www.leapmotion.com/)
 
-- [<u>HexGL</u>](http://hexgl.bkcore.com/)
-- [<u>Thibaut Despoulain</u>](http://bkcore.com/)
+- [<u>HexGL</u>](https://hexgl.bkcore.com/)
+- [<u>Thibaut Despoulain</u>](https://bkcore.com/)
 
 14:29 - Performance
 
-18:30 - [<u>asm.js</u>](http://asmjs.org/)
+18:30 - [<u>asm.js</u>](https://asmjs.org/)
 
 19:00 - Examples
 
-- [<u>JavaScript Face Tracking Demo</u>](http://kdzwinel.github.io/JS-face-tracking-demo/)
+- [<u>JavaScript Face Tracking Demo</u>](https://kdzwinel.github.io/JS-face-tracking-demo/)
 - [<u>[YouTube] JavaScript Face Tracing Demo</u>](https://www.youtube.com/watch?v=bC7uALxKDg8)
 - [<u>[YouTube] Scanning Nespresso Capsules with JavaScript</u>](https://www.youtube.com/watch?v=b1e7GIfczwo)
-- [<u>SLIPKNOT - THE DEVIL IN I</u>](http://www.thedevilini.com/#masks)
-- [<u>tracking.js | Color (Video)</u>](http://trackingjs.com/examples/color_video.html)
+- [<u>SLIPKNOT - THE DEVIL IN I</u>](https://www.thedevilini.com/#masks)
+- [<u>tracking.js | Color (Video)</u>](https://trackingjs.com/examples/color_video.html)
 
 22:24 - Limitations and Browser Support
 
-25:04 - Using [<u>Node.js</u>](http://nodejs.org/)
+25:04 - Using [<u>Node.js</u>](https://nodejs.org/)
 
 27:05 - Tracker Interface
 
@@ -78,22 +78,22 @@ tags:
 
 29:05 - Object Detection
 
-- [<u>Yi-Qing Wang: An Analysis of the Viola-Jones Face Detection Algorithm</u>](http://www.ipol.im/pub/art/2014/104/)
+- [<u>Yi-Qing Wang: An Analysis of the Viola-Jones Face Detection Algorithm</u>](https://www.ipol.im/pub/art/2014/104/)
 
 32:32 - Tracking.js vs [<u>Google Hangouts</u>](https://plus.google.com/hangouts) Techniques
 
-- [<u>Optical Flow Technique</u>](http://en.wikipedia.org/wiki/Optical_flow)
+- [<u>Optical Flow Technique</u>](https://en.wikipedia.org/wiki/Optical_flow)
 
-34:52 - [<u>ARToolKit</u>](http://www.hitl.washington.edu/artoolkit/)
+34:52 - [<u>ARToolKit</u>](https://www.hitl.washington.edu/artoolkit/)
 
-- [<u>FLARToolKit</u>](http://www.artoolworks.com/products/open-source-software/flartoolkit-2/)
+- [<u>FLARToolKit</u>](https://www.artoolworks.com/products/open-source-software/flartoolkit-2/)
 - Unifier Viewer
 
 37:09 - Resources
 
 - [<u>Tracking.js Repo</u>](https://github.com/eduardolundgren/tracking.js/)
 - [<u>Tracking.js Examples Folder</u>](https://github.com/eduardolundgren/tracking.js/tree/master/examples)
-- <u><a href="http://kdzwinel.github.io/JS-face-tracking-demo/" data-cke-saved-href="http://kdzwinel.github.io/JS-face-tracking-demo/">Burning Head Demo</a></u>
+- <u><a href="https://kdzwinel.github.io/JS-face-tracking-demo/" data-cke-saved-href="https://kdzwinel.github.io/JS-face-tracking-demo/">Burning Head Demo</a></u>
 
 ### Transcript
 

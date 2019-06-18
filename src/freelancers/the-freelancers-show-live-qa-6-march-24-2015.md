@@ -15,20 +15,20 @@ tags:
 04:07 - At what point does it make sense to register as a corporation? Apart from liability, I assume. If you have profits to reinvest in the business?
 
 - Types of Business Entities:
-- [Sole Proprietorship](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Sole-Proprietorships)
+- [Sole Proprietorship](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Sole-Proprietorships)
 - [Limited Liability Company (LLC)](https://www.sba.gov/content/limited-liability-company-llc)
-- [S-Corporations](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/S-Corporations)
-- [“Piercing the Corporate Veil”](http://en.wikipedia.org/wiki/Piercing_the_corporate_veil)
-- [Errors and Omissions Insurance](http://www.hiscox.com/small-business-insurance/errors-and-omissions-insurance/)
+- [S-Corporations](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/S-Corporations)
+- [“Piercing the Corporate Veil”](https://en.wikipedia.org/wiki/Piercing_the_corporate_veil)
+- [Errors and Omissions Insurance](https://www.hiscox.com/small-business-insurance/errors-and-omissions-insurance/)
 - Annual Minutes and Organizational Meetings
 
 13:25 - Do you umbrella all your products, brands, DBAs, etc. under a main corp?
 
-- [DBA (Doing Business As)](http://en.wikipedia.org/wiki/Doing_business_as)
+- [DBA (Doing Business As)](https://en.wikipedia.org/wiki/Doing_business_as)
 
 18:32 - What was the comical, but legit contract you mentioned on a show recently? (Contracts)
 
-- [Contract Killer](http://stuffandnonsense.co.uk/projects/contract-killer/)
+- [Contract Killer](https://stuffandnonsense.co.uk/projects/contract-killer/)
 - Sue =\> Fold
 
 21:35 - Expensing Home Office for Tax Purposes
@@ -36,11 +36,11 @@ tags:
 - Tax Deductions
 - Tax Credits
 
-31:12 - [Errors and Omissions Insurance](http://www.hiscox.com/small-business-insurance/errors-and-omissions-insurance/) (Cont’d)
+31:12 - [Errors and Omissions Insurance](https://www.hiscox.com/small-business-insurance/errors-and-omissions-insurance/) (Cont’d)
 
 34:38 - Marketing to Launch
 
-- [Jeff Walker of The Product Launch Formula](http://jeffwalker.com/)
+- [Jeff Walker of The Product Launch Formula](https://jeffwalker.com/)
 
 41:26 - Contract Resolution
 
@@ -53,9 +53,9 @@ tags:
 - Even small-scale apps or services?
   Picks
 
-[Just Fucking Ship by Amy Hoy](https://unicornfree.com/just-fucking-ship) (Eric)[The Brain Audit: Why Customers Buy (and Why They Don't) by Sean D'Souza](http://www.amazon.com/gp/product/0473175045/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0473175045&linkCode=as2&tag=chamaxwoo-20&linkId=LB56AZBKM3ZLHZTT) (Jonathan)[The Silkworm (A Cormoran Strike Novel) by Robert Galbraith](http://www.amazon.com/gp/product/0316206873/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316206873&linkCode=as2&tag=chamaxwoo-20&linkId=5TPFNGFUAUXZXASV) (Jonathan)[The Positioning Manual for Technical Firms by Philip Morgan](http://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms-2/) (Reuven)[WASD CODE 87-Key Illuminated Mechanical Keyboard with White LED Backlighting - Cherry MX Clear](http://www.amazon.com/gp/product/B00LTAEV0K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LTAEV0K&linkCode=as2&tag=chamaxwoo-20&linkId=DGOCKESAST4P7EDZ) (Chuck)[Grifiti](http://www.amazon.com/gp/product/B004D8Q48M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004D8Q48M&linkCode=as2&tag=chamaxwoo-20&linkId=KZJVCWXJSFPEHJ2G)[Fat Wrist Pad](http://www.amazon.com/gp/product/B004D8Q48M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004D8Q48M&linkCode=as2&tag=chamaxwoo-20&linkId=KZJVCWXJSFPEHJ2G) (Chuck)[Ready Player One by Ernest Cline](http://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=4EK6QPVUC7PYVE47) (Chuck)[Mastery by Robert Greene](http://www.amazon.com/gp/product/014312417X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=014312417X&linkCode=as2&tag=chamaxwoo-20&linkId=AO43US4ZHGKRGCR4) (Chuck)
+[Just Fucking Ship by Amy Hoy](https://unicornfree.com/just-fucking-ship) (Eric)[The Brain Audit: Why Customers Buy (and Why They Don't) by Sean D'Souza](https://www.amazon.com/gp/product/0473175045/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0473175045&linkCode=as2&tag=chamaxwoo-20&linkId=LB56AZBKM3ZLHZTT) (Jonathan)[The Silkworm (A Cormoran Strike Novel) by Robert Galbraith](https://www.amazon.com/gp/product/0316206873/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316206873&linkCode=as2&tag=chamaxwoo-20&linkId=5TPFNGFUAUXZXASV) (Jonathan)[The Positioning Manual for Technical Firms by Philip Morgan](https://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms-2/) (Reuven)[WASD CODE 87-Key Illuminated Mechanical Keyboard with White LED Backlighting - Cherry MX Clear](https://www.amazon.com/gp/product/B00LTAEV0K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LTAEV0K&linkCode=as2&tag=chamaxwoo-20&linkId=DGOCKESAST4P7EDZ) (Chuck)[Grifiti](https://www.amazon.com/gp/product/B004D8Q48M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004D8Q48M&linkCode=as2&tag=chamaxwoo-20&linkId=KZJVCWXJSFPEHJ2G)[Fat Wrist Pad](https://www.amazon.com/gp/product/B004D8Q48M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004D8Q48M&linkCode=as2&tag=chamaxwoo-20&linkId=KZJVCWXJSFPEHJ2G) (Chuck)[Ready Player One by Ernest Cline](https://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=4EK6QPVUC7PYVE47) (Chuck)[Mastery by Robert Greene](https://www.amazon.com/gp/product/014312417X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=014312417X&linkCode=as2&tag=chamaxwoo-20&linkId=AO43US4ZHGKRGCR4) (Chuck)
 
-Join us for our next Live Q&A on Tuesday, May 26th 2015! Sign up and get The Ultimate Guide of Marketing Tools for Freelancers [here](http://freelancersanswers.com/).&nbsp;
+Join us for our next Live Q&A on Tuesday, May 26th 2015! Sign up and get The Ultimate Guide of Marketing Tools for Freelancers [here](https://freelancersanswers.com/).&nbsp;
 
 ### Transcript
 

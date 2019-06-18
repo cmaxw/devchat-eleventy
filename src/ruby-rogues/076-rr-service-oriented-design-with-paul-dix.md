@@ -12,9 +12,9 @@ tags:
   - podcast
 ---
 
-### 01:29 - [Errplane](http://errplane.com/)
+### 01:29 - [Errplane](https://errplane.com/)
 
-### 01:31 - [Service-Oriented Design with Ruby and Rails: Paul Dix](http://www.amazon.com/gp/product/0321659368/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321659368&linkCode=as2&tag=chamaxwoo-20)
+### 01:31 - [Service-Oriented Design with Ruby and Rails: Paul Dix](https://www.amazon.com/gp/product/0321659368/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321659368&linkCode=as2&tag=chamaxwoo-20)
 
 ### 01:49 - Best of Parley
 
@@ -23,7 +23,7 @@ tags:
 - Maglev
 - Object Prevalence
   04:12 - Definition of Service-Oriented Design 06:12 - Email and Service-Oriented Design
-- [Solr](http://lucene.apache.org/solr/)
+- [Solr](https://lucene.apache.org/solr/)
   09:34 - Latency between services
 - Avoid call-depth
 - Caching
@@ -33,7 +33,7 @@ tags:
   16:15 - Splitting things off 18:29 - Layers
 - [Sinatra](https://github.com/sinatra/sinatra)
 - [Scala](https://github.com/scala/scala)
-- [Go](http://golang.org/)
+- [Go](https://golang.org/)
   21:11 - Where to draw the lines between services
 - Keep things that change together, together
 - Defining and connecting APIs
@@ -45,7 +45,7 @@ Messaging
 -
 
 Building services
-35:30 - Applications 38:27 - Status Code 400 40:15 - Don’t be afraid to define a protocol 42:17 - Error code 43:29 - [Conway’s Law](http://en.wikipedia.org/wiki/Conway's_law)
+35:30 - Applications 38:27 - Status Code 400 40:15 - Don’t be afraid to define a protocol 42:17 - Error code 43:29 - [Conway’s Law](https://en.wikipedia.org/wiki/Conway's_law)
 
 - Long-lived services
 - Teams
@@ -56,10 +56,10 @@ Building services
 
 ### Book Club
 
-The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer: Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013 with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](http://www.informit.com/).
+The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer: Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013 with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](https://www.informit.com/).
 
-- First create a user account: [www.informit.com/join](http://www.informit.com/join)
-- SAVE 40% When You Buy 2: [www.informit.com/ruby](http://www.informit.com/ruby)
+- First create a user account: [www.informit.com/join](https://www.informit.com/join)
+- SAVE 40% When You Buy 2: [www.informit.com/ruby](https://www.informit.com/ruby)
 - Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
 - (Includes FREE SHIPPING within the U.S.!)
 

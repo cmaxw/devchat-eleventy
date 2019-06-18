@@ -15,8 +15,8 @@ tags:
 01:02 - Fei Wang Introduction
 
 - [Twitter](https://twitter.com/feifanw)
-- [Blog](http://secretsaucehq.com/blog/)
-- [Secret Sauce](http://secretsaucehq.com/)
+- [Blog](https://secretsaucehq.com/blog/)
+- [Secret Sauce](https://secretsaucehq.com/)
 
 02:24 - Validating an App Idea
 
@@ -28,8 +28,8 @@ tags:
 
 16:24 - Tools and Approaches for Prototyping
 
-- [Sketch](http://sketchtoolbox.com/)
-- [InVision](http://www.invisionapp.com/)
+- [Sketch](https://sketchtoolbox.com/)
+- [InVision](https://www.invisionapp.com/)
 - [Marvel](https://marvelapp.com/)
 - [Ionic Creator](https://creator.ionic.io/)
 
@@ -41,7 +41,7 @@ tags:
 
 29:35 - Validating Your Marketing Channels
 
-- [Traction: Get a Grip on Your Business by Gino Wickman](http://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=devchattv-20&linkId=4LRXFJTLHU3UTY5V)
+- [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=devchattv-20&linkId=4LRXFJTLHU3UTY5V)
 
 33:10 - Pricing
 
@@ -49,10 +49,10 @@ tags:
 
 39:23 - Recap
 
-- [Hooked: How to Build Habit-Forming Products by Nir Eyal](http://www.amazon.com/gp/product/1591847788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591847788&linkCode=as2&tag=devchattv-20&linkId=EEZIGZV4KDF3KSZO)
+- [Hooked: How to Build Habit-Forming Products by Nir Eyal](https://www.amazon.com/gp/product/1591847788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591847788&linkCode=as2&tag=devchattv-20&linkId=EEZIGZV4KDF3KSZO)
   41:34 - Validating You’re on the Right Track Picks
 
-[Sketch Toolbox](http://sketchtoolbox.com/) (Alondo)[Clever Coffee Dripper](http://www.amazon.com/gp/product/B014JVOWB8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014JVOWB8&linkCode=as2&tag=devchattv-20&linkId=ZGGCK3UIXGNGGHHF) (Alondo)[You Must Remember This Podcast](https://itunes.apple.com/us/podcast/you-must-remember-this/id858124601?mt=2) (Jaim)[FamilySearch](http://familysearch.org) (Chuck)[Relative Finder](http://relativefinder.org) (Chuck)[The New Yorker Podcast](http://www.newyorker.com/podcast) (Fei)[Adblock Fast (Fei)](https://itunes.apple.com/us/app/adblock-fast/id1032930802?mt=8)[More Resources From Fei](http://SecretSauceHQ.com/iphreaks) (Fei)
+[Sketch Toolbox](https://sketchtoolbox.com/) (Alondo)[Clever Coffee Dripper](https://www.amazon.com/gp/product/B014JVOWB8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014JVOWB8&linkCode=as2&tag=devchattv-20&linkId=ZGGCK3UIXGNGGHHF) (Alondo)[You Must Remember This Podcast](https://itunes.apple.com/us/podcast/you-must-remember-this/id858124601?mt=2) (Jaim)[FamilySearch](https://familysearch.org) (Chuck)[Relative Finder](https://relativefinder.org) (Chuck)[The New Yorker Podcast](https://www.newyorker.com/podcast) (Fei)[Adblock Fast (Fei)](https://itunes.apple.com/us/app/adblock-fast/id1032930802?mt=8)[More Resources From Fei](https://SecretSauceHQ.com/iphreaks) (Fei)
 
 ### Transcript
 

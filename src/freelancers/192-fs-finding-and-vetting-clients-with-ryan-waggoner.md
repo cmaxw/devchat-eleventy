@@ -16,8 +16,8 @@ tags:
 
 - [Twitter](https://twitter.com/ryanwaggoner)
 - [Facebook](https://www.facebook.com/Ryan-Waggoner-250764694642/)
-- [Blog](http://ryanwaggoner.com/)
-- Lead Curation: [LetsMakeApps](http://letsmakeapps.io/)
+- [Blog](https://ryanwaggoner.com/)
+- Lead Curation: [LetsMakeApps](https://letsmakeapps.io/)
 
 04:30 - Getting Over the Hump
 
@@ -34,7 +34,7 @@ tags:
 
 15:35 - Low Lifetime Value
 
-- [Million Dollar Consulting by Alan Weiss](http://www.amazon.com/Million-Dollar-Consulting-Alan-Weiss/dp/0071622101)
+- [Million Dollar Consulting by Alan Weiss](https://www.amazon.com/Million-Dollar-Consulting-Alan-Weiss/dp/0071622101)
 
 18:15 - Equity For Payment
 
@@ -51,12 +51,12 @@ tags:
 34:54 - Project Billing
 
 - Trust and Communication
-  For our listeners: please visit&nbsp;[letsmakeapps.io/fs/](http://letsmakeapps.io/fs/)&nbsp;to get&nbsp;
+  For our listeners: please visit&nbsp;[letsmakeapps.io/fs/](https://letsmakeapps.io/fs/)&nbsp;to get&nbsp;
 - PDF guide: "Lessons Learned from My First Million Dollars from Freelance”
 - 50% discount on paid plans for LetsMakeApps.io when they launch (worth \$294)
   Picks
 
-[Sony MDRMA900 Over-the-Head Headphones](http://www.amazon.com/Sony-MDRMA900-Headphones-Discontinued-Manufacturer/dp/B007DCCK60) (Philip)[Million Dollar Consulting by Alan Weiss](http://www.amazon.com/Million-Dollar-Consulting-Alan-Weiss/dp/0071622101) (Ryan) Solo Retreats (Ryan)[Pick Four Notebooks](http://www.amazon.com/Pick-Four-Pack-Designed-Share/dp/1936719215) (Ryan)[Working Podcast](http://www.slate.com/articles/podcasts/working.html) (Reuven)
+[Sony MDRMA900 Over-the-Head Headphones](https://www.amazon.com/Sony-MDRMA900-Headphones-Discontinued-Manufacturer/dp/B007DCCK60) (Philip)[Million Dollar Consulting by Alan Weiss](https://www.amazon.com/Million-Dollar-Consulting-Alan-Weiss/dp/0071622101) (Ryan) Solo Retreats (Ryan)[Pick Four Notebooks](https://www.amazon.com/Pick-Four-Pack-Designed-Share/dp/1936719215) (Ryan)[Working Podcast](https://www.slate.com/articles/podcasts/working.html) (Reuven)
 
 ### Transcript
 

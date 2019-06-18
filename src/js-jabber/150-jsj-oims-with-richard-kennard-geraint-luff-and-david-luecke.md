@@ -12,14 +12,14 @@ tags:
   - podcast
 ---
 
-Check out [<u>RailsClips on Kickstarter</u>](http://devchat.tv/kickstarter)!!
+Check out [<u>RailsClips on Kickstarter</u>](https://devchat.tv/kickstarter)!!
 
 02:01 - Richard Kennard Introduction
 
 - [<u>Twitter</u>](https://twitter.com/kennardconsult)
 - [<u>GitHub</u>](https://github.com/kennardconsulting)
-- [<u>Kennard Consulting</u>](http://kennardconsulting.com/)
-- [<u>Metawidget</u>](http://metawidget.org/)
+- [<u>Kennard Consulting</u>](https://kennardconsulting.com/)
+- [<u>Metawidget</u>](https://metawidget.org/)
 
 02:04 - Geraint Luff Introduction
 
@@ -30,14 +30,14 @@ Check out [<u>RailsClips on Kickstarter</u>](http://devchat.tv/kickstarter)!!
 - [<u>Twitter</u>](https://twitter.com/daffl)
 - [<u>GitHub</u>](https://github.com/daffl)
 
-02:57 - [<u>Object-relational Mapping (ORM)</u>](http://en.wikipedia.org/wiki/Object-relational_mapping)
+02:57 - [<u>Object-relational Mapping (ORM)</u>](https://en.wikipedia.org/wiki/Object-relational_mapping)
 
-- [<u>NoSQL</u>](http://en.wikipedia.org/wiki/NoSQL)
+- [<u>NoSQL</u>](https://en.wikipedia.org/wiki/NoSQL)
 - Duplication
 
-10:57 - [<u>Online Interface Mapper (OIM)</u>](http://www.oims.com/)
+10:57 - [<u>Online Interface Mapper (OIM)</u>](https://www.oims.com/)
 
-- [<u>CRUD (Create, Read, Update, Delete)</u>](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) [<u>UI (User Interface)</u>](http://en.wikipedia.org/wiki/User_interface)
+- [<u>CRUD (Create, Read, Update, Delete)</u>](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) [<u>UI (User Interface)</u>](https://en.wikipedia.org/wiki/User_interface)
 
 12:53 - How OIMs Work
 
@@ -55,24 +55,24 @@ Check out [<u>RailsClips on Kickstarter</u>](http://devchat.tv/kickstarter)!!
 
 25:24 - Protocol?
 
-- [<u>Metawidget</u>](http://metawidget.org/)
+- [<u>Metawidget</u>](https://metawidget.org/)
 
 27:56 - Plugging Into Frameworks
 
 - [<u>backbone-forms</u>](https://github.com/powmedia/backbone-forms)
-- [<u>JSON Schema</u>](http://json-schema.org/implementations.html)
+- [<u>JSON Schema</u>](https://json-schema.org/implementations.html)
 
 33:48 - Making Judgement Calls
 
-- [<u>WebComponents</u>](http://www.w3.org/wiki/WebComponents/), [<u>React</u>](http://facebook.github.io/react/)
-- [<u>JSON API</u>](http://jsonapi.org/)
+- [<u>WebComponents</u>](https://www.w3.org/wiki/WebComponents/), [<u>React</u>](https://facebook.github.io/react/)
+- [<u>JSON API</u>](https://jsonapi.org/)
 - [<u>AngularJS</u>](https://angularjs.org/)
 
 49:27 - Example OIMs
 
-- [<u>JSON Schema</u>](http://json-schema.org/implementations.html)
-- [<u>Metawidget</u>](http://metawidget.org/)
-- [<u>Jsonary</u>](http://jsonary.com/)
+- [<u>JSON Schema</u>](https://json-schema.org/implementations.html)
+- [<u>Metawidget</u>](https://metawidget.org/)
+- [<u>Jsonary</u>](https://jsonary.com/)
 
 52:08 - Testing
 

@@ -14,70 +14,70 @@ tags:
 
 01:35 - Megan Fox Introduction
 
-- [Glass Bottom Games](http://www.glassbottomgames.com/)
-- [Jones On Fire](http://www.glassbottomgames.com/projects/jones-on-fire/)
+- [Glass Bottom Games](https://www.glassbottomgames.com/)
+- [Jones On Fire](https://www.glassbottomgames.com/projects/jones-on-fire/)
 - [[Kickstarter] Hot Tin Roof](https://www.kickstarter.com/projects/meganfox/hot-tin-roof-the-cat-that-wore-a-fedora)
 
 02:16 - Making Games
 
-- [Unity](http://unity3d.com/pages/what-is-unity?gclid=CO7Rq8vC-b0CFY17fgodTh0A4Q)
+- [Unity](https://unity3d.com/pages/what-is-unity?gclid=CO7Rq8vC-b0CFY17fgodTh0A4Q)
 - [Unreal Engine](https://www.unrealengine.com/)
-- [Roguelike](http://en.wikipedia.org/wiki/Roguelike)
-- [Photoshop](http://www.photoshop.com/)
+- [Roguelike](https://en.wikipedia.org/wiki/Roguelike)
+- [Photoshop](https://www.photoshop.com/)
 
 06:43 - Finding an Artist
 
-- [The Something Awful Forums](http://forums.somethingawful.com/)
-- [Ludem Dare](http://www.ludumdare.com/)
-- [Polycount Forum](http://www.polycount.com/forum/)
+- [The Something Awful Forums](https://forums.somethingawful.com/)
+- [Ludem Dare](https://www.ludumdare.com/)
+- [Polycount Forum](https://www.polycount.com/forum/)
 - [Twitter](https://twitter.com/)
-- [OpenGameArt](http://opengameart.org/)
-- [3ds Max](http://www.autodesk.com/products/autodesk-3ds-max/overview)
-- [Maya](http://www.autodesk.com/products/autodesk-maya/overview)
-- [FRACT OSC](http://store.steampowered.com/app/243220/)
+- [OpenGameArt](https://opengameart.org/)
+- [3ds Max](https://www.autodesk.com/products/autodesk-3ds-max/overview)
+- [Maya](https://www.autodesk.com/products/autodesk-maya/overview)
+- [FRACT OSC](https://store.steampowered.com/app/243220/)
 
 11:31 - The Indie Game Space & the Indie Game Movement
 
 - [Unreal Engine](https://www.unrealengine.com/)
-- [Sean Hollister: Epic drastically drops the price of Unreal Engine game development](http://www.theverge.com/gaming/2014/3/19/5526086/epic-drastically-drops-the-price-of-unreal-engine-game-development)
-- [ShaderLab](http://forum.unity3d.com/forums/16-ShaderLab)
-- [CryENGINE](http://www.crytek.com/cryengine)
-- [The golden age of indie gaming has arrived](http://www.superlongname.com/posts/the-golden-age-of-indie-gaming-has-arrived)
-- [The DIY Wave of Indie Gaming](http://content.time.com/time/video/player/0,32068,813908344001_2057892,00.html)
+- [Sean Hollister: Epic drastically drops the price of Unreal Engine game development](https://www.theverge.com/gaming/2014/3/19/5526086/epic-drastically-drops-the-price-of-unreal-engine-game-development)
+- [ShaderLab](https://forum.unity3d.com/forums/16-ShaderLab)
+- [CryENGINE](https://www.crytek.com/cryengine)
+- [The golden age of indie gaming has arrived](https://www.superlongname.com/posts/the-golden-age-of-indie-gaming-has-arrived)
+- [The DIY Wave of Indie Gaming](https://content.time.com/time/video/player/0,32068,813908344001_2057892,00.html)
 - [Alec Holowka (@infinite_ammo)](https://twitter.com/infinite_ammo)
-- [Aquaria](http://www.bit-blot.com/aquaria/)
-- [World of Goo](http://www.worldofgoo.com/)
-- [Steam](http://store.steampowered.com/)
-- [TowerFall](http://www.towerfall-game.com/)
+- [Aquaria](https://www.bit-blot.com/aquaria/)
+- [World of Goo](https://www.worldofgoo.com/)
+- [Steam](https://store.steampowered.com/)
+- [TowerFall](https://www.towerfall-game.com/)
 - [Shahid Kamal Ahmad (@shahidkamal)](https://twitter.com/shahidkamal)
-- [Chris Charla (@iocat)](http://twitter.com/iocat)
-- [Pub Fund](http://www.giantbomb.com/pub-fund/3015-7606/)
+- [Chris Charla (@iocat)](https://twitter.com/iocat)
+- [Pub Fund](https://www.giantbomb.com/pub-fund/3015-7606/)
 
-29:40 - [Steam Machines](http://store.steampowered.com/livingroom/SteamMachines/)
+29:40 - [Steam Machines](https://store.steampowered.com/livingroom/SteamMachines/)
 
 31:59 - Mobile Games vs Console/PC Games
 
 35:03 - The Gaming Community
 
-- [Ludum Dare](http://www.ludumdare.com/)
+- [Ludum Dare](https://www.ludumdare.com/)
 - [Amnesia Fortnight](https://www.humblebundle.com/double-fine)
-- [7DRL](http://7drl.org/)
-- [7DFPS](http://7dfps.com/)
+- [7DRL](https://7drl.org/)
+- [7DFPS](https://7dfps.com/)
 
 40:32 - The Gamers and The Writers
 
 - [Juice It or Lose It Video](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
-- [Beat Hazard](http://store.steampowered.com/app/49600/)
+- [Beat Hazard](https://store.steampowered.com/app/49600/)
 
 47:46 - Getting Started in Gaming
 
-- [MMO](http://en.wikipedia.org/wiki/Massively_multiplayer_online_game)
+- [MMO](https://en.wikipedia.org/wiki/Massively_multiplayer_online_game)
 - [Disco Zoo](https://itunes.apple.com/us/app/disco-zoo/id794524208?mt=8)
-- [Vungle](http://www.vungle.com/)
+- [Vungle](https://www.vungle.com/)
 
 ### Book Club
 
-[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
+[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
 
 ### Next Week
 

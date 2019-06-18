@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io)&nbsp;use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io)&nbsp;use the code "devchat" for $100 credit
 - [Clubhouse](https://clubhouse.io/jsjabber)
 &nbsp;
 #### **Panel:**

@@ -14,8 +14,8 @@ tags:
 
 ## **Sponsors:**
 
-- <u><a href="http://www.netlify.com/">Netlify</a></u>
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
+- <u><a href="https://www.netlify.com/">Netlify</a></u>
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
 - [CacheFly](https://www.cachefly.com/)
 
 ### **Panel**
@@ -37,7 +37,7 @@ In this episode of Views on Vue, the panelists talk to Dobromir Hristov, a front
 - [Vuelidate Error Extractor](https://dobromir-hristov.github.io/vuelidate-error-extractor/)
 - [Vue.js Beginners Workshop Facebook](https://www.facebook.com/events/1961707377247690/)
 - [Dobromir's Blog Post: A brief review of Vue learning resources — State of 2018](https://medium.com/hypefactors/a-brief-review-of-vue-learning-resources-state-of-2018-9f9ea0a08a89)
-- [Slides](http://www.slides.com)
+- [Slides](https://www.slides.com)
 - [VueSchool](https://vueschool.io/)
 - [Dopamine](https://dopamine.bg/)
 - [Vue Mastery](https://www.vuemastery.com/)
@@ -56,7 +56,7 @@ In this episode of Views on Vue, the panelists talk to Dobromir Hristov, a front
 - [Sarah Soueidan](https://vimeo.com/296790813)
 **Chris Fritz:**
 - [https://opencollective.com/vuejs](https://opencollective.com/vuejs)
-- [http://www.vueconf.us/workshops/](http://www.vueconf.us/workshops/)
+- [https://www.vueconf.us/workshops/](https://www.vueconf.us/workshops/)
 - [https://www.patreon.com/vuevixens](https://www.patreon.com/vuevixens)
 **Charles Max Wood:**
 - [Fart Bomb](https://youtu.be/xoxhDk-hwuo)
@@ -74,5 +74,5 @@ In this episode of Views on Vue, the panelists talk to Dobromir Hristov, a front
 ## **Sponsors:**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 

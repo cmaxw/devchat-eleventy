@@ -16,15 +16,15 @@ tags:
 
 - [Functional Programming for the Object-Oriented Programmer](https://leanpub.com/fp-oo) by [Andy Lindeman](https://twitter.com/alindeman)
   03:55 - Practical metaprogramming
-- [012 RR Metaprogramming in Ruby](http://rubyrogues.com/metaprogramming-in-ruby/)
-- [Practical Meta Programming Modeling Thought by Steven Harms](http://www.youtube.com/watch?v=s1MJh4VhrKM)
-- [RubyTapas](http://devblog.avdi.org/rubytapas/): 011 Method and Message
+- [012 RR Metaprogramming in Ruby](https://rubyrogues.com/metaprogramming-in-ruby/)
+- [Practical Meta Programming Modeling Thought by Steven Harms](https://www.youtube.com/watch?v=s1MJh4VhrKM)
+- [RubyTapas](https://devblog.avdi.org/rubytapas/): 011 Method and Message
   08:54 - Steven Harms’ definition of metaprogramming
 - Redirection
 - At run time
-  13:23 - Decorator patterns 15:22 - Two categories of metaprogramming 19:13 - [Ruby 2.0 Module#prepend](http://dev.af83.com/2012/10/19/ruby-2-0-module-prepend.html)22:12 - Keys to understanding metaprogramming
+  13:23 - Decorator patterns 15:22 - Two categories of metaprogramming 19:13 - [Ruby 2.0 Module#prepend](https://dev.af83.com/2012/10/19/ruby-2-0-module-prepend.html)22:12 - Keys to understanding metaprogramming
 - Inheritance chain
-- [Metaprogramming Ruby: Program Like the Ruby Pros by Paolo Perrotta](http://www.amazon.com/gp/product/1934356476/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356476&linkCode=as2&tag=chamaxwoo-20)
+- [Metaprogramming Ruby: Program Like the Ruby Pros by Paolo Perrotta](https://www.amazon.com/gp/product/1934356476/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356476&linkCode=as2&tag=chamaxwoo-20)
 - Redirect messages by defining things (def)
   26:43 - undef method vs remove method 30:12 - Making code metaprogrammable
 -
@@ -43,7 +43,7 @@ Ambiguity
 
 -
 
-[Polite metaprogramming](http://www.confreaks.com/videos/374-rubyconf2010-the-polite-programmer-s-guide-to-ruby-etiquette)
+[Polite metaprogramming](https://www.confreaks.com/videos/374-rubyconf2010-the-polite-programmer-s-guide-to-ruby-etiquette)
 
 ### Next Week
 
@@ -53,10 +53,10 @@ Rails 4 with Aaron Patterson
 
 ### Book Club
 
-The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](http://www.informit.com/).
+The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](https://www.informit.com/).
 
-- First create a user account: [www.informit.com/join](http://www.informit.com/join)
-- SAVE 40% When You Buy 2: [www.informit.com/ruby](http://www.informit.com/ruby)
+- First create a user account: [www.informit.com/join](https://www.informit.com/join)
+- SAVE 40% When You Buy 2: [www.informit.com/ruby](https://www.informit.com/ruby)
 - Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
 - (Includes FREE SHIPPING within the U.S.!)
 

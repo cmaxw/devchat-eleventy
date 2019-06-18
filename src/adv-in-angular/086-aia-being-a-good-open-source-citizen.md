@@ -26,7 +26,7 @@ tags:
 20:52 - Contribution Guidelines
 
 - [Twitter Open Source Code of Conduct](https://engineering.twitter.com/opensource/code-of-conduct)
-- [Contributor Covenant](http://contributor-covenant.org/)
+- [Contributor Covenant](https://contributor-covenant.org/)
 
 32:38 - Being an Effective Contributor
 
@@ -39,7 +39,7 @@ tags:
 - [DHH: Software has bugs. This is normal.](https://m.signalvnoise.com/software-has-bugs-this-is-normal-f64761a262ca?gi=28d367a31814)
   Picks
 
-[lite-server](https://github.com/johnpapa/lite-server) (Joe)[The Goldbergs](http://abc.go.com/shows/the-goldbergs) (Joe)[Review: In ‘The Diary of a Teenage Girl,’ a Hormone Bomb Waiting to Explode](http://www.nytimes.com/2015/08/07/movies/review-in-the-diary-of-a-teenage-girl-a-hormone-bomb-waiting-to-explode.html) (Ward)[Code Folding in Visual Studio Code](https://code.visualstudio.com/updates) (John)[How Lucasfilm made Star Wars’ first official VR lightsaber battle](http://www.theverge.com/2016/3/15/11234272/star-wars-trials-on-tatooine-virtual-reality-ilm-ilmxlab-lucasfilm) (John)
+[lite-server](https://github.com/johnpapa/lite-server) (Joe)[The Goldbergs](https://abc.go.com/shows/the-goldbergs) (Joe)[Review: In ‘The Diary of a Teenage Girl,’ a Hormone Bomb Waiting to Explode](https://www.nytimes.com/2015/08/07/movies/review-in-the-diary-of-a-teenage-girl-a-hormone-bomb-waiting-to-explode.html) (Ward)[Code Folding in Visual Studio Code](https://code.visualstudio.com/updates) (John)[How Lucasfilm made Star Wars’ first official VR lightsaber battle](https://www.theverge.com/2016/3/15/11234272/star-wars-trials-on-tatooine-virtual-reality-ilm-ilmxlab-lucasfilm) (John)
 
 &nbsp;
 

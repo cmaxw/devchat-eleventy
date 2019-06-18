@@ -37,7 +37,7 @@ This week on My Ruby Story, Charles talks to Takashi Kokubun. Takashi is a templ
 - Did you do anything in open source with Ruby before working on the JIT compiler?
 - His [JIT Compiler](https://github.com/k0kubun/llrb)
 - What goes into writing a templating system?
-- [Haml](http://haml.info/)
+- [Haml](https://haml.info/)
 - What are you working on now?
 - No longer working for [Cookpad](https://cookpad.com/us?via=jp)
 - How do you spend your time?
@@ -53,7 +53,7 @@ This week on My Ruby Story, Charles talks to Takashi Kokubun. Takashi is a templ
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Treasure Data](https://www.treasuredata.com/)
 - [JIT Compiler](https://github.com/k0kubun/llrb)
-- [Haml](http://haml.info/)
+- [Haml](https://haml.info/)
 - [Cookpad](https://cookpad.com/us?via=jp)
 - [Barbeque](https://github.com/cookpad/barbeque)
 - [Speakerdeck slides on Barbeque](https://speakerdeck.com/k0kubun/scalable-job-queue-system-built-with-docker)

@@ -38,6 +38,6 @@ Joe:&nbsp;Prusa i3 MK2 3D printer, Elm Charles: Game of War, Clash of Clans
 
 ## Episode Links:
 
-[ASP](https://www.asp.net/), [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2016), [Visual Studio](https://www.visualstudio.com/), Ruby on Rails, RJS, [JQuery](https://jquery.com/), [RubyGems](https://rubygems.org/), [Backbone](http://backbonejs.org/), [Ember](http://emberjs.com/), [Angular](https://angularjs.org/), React, [Knockout](http://knockoutjs.com/), [Elm](http://elm-lang.org/), [Redux](http://redux.js.org/docs/introduction/), [Rails Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html), [Grunt](https://gruntjs.com/), halfpipe, [Ember App Kit](http://iamstef.net/ember-app-kit/), [Ember CLI](https://ember-cli.com/), [Babel](https://babeljs.io/)
+[ASP](https://www.asp.net/), [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2016), [Visual Studio](https://www.visualstudio.com/), Ruby on Rails, RJS, [JQuery](https://jquery.com/), [RubyGems](https://rubygems.org/), [Backbone](https://backbonejs.org/), [Ember](https://emberjs.com/), [Angular](https://angularjs.org/), React, [Knockout](https://knockoutjs.com/), [Elm](https://elm-lang.org/), [Redux](https://redux.js.org/docs/introduction/), [Rails Asset Pipeline](https://guides.rubyonrails.org/asset_pipeline.html), [Grunt](https://gruntjs.com/), halfpipe, [Ember App Kit](https://iamstef.net/ember-app-kit/), [Ember CLI](https://ember-cli.com/), [Babel](https://babeljs.io/)
 
 ### Transcript

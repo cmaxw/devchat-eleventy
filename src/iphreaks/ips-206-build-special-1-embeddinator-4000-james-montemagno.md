@@ -20,9 +20,9 @@ This episode is live at the Microsoft Build 2017 in Seattle with Andrew Madsen a
 
 James Montemagno
 
-- [Coffeehouse Blunders podcast](http://www.blunders.fm/)
-- [Chess.com](http://chess.com)
+- [Coffeehouse Blunders podcast](https://www.blunders.fm/)
+- [Chess.com](https://chess.com)
   Andrew Madson
-- [Merge Conflict podcast](http://www.mergeconflict.fm/)
+- [Merge Conflict podcast](https://www.mergeconflict.fm/)
 
 ### Transcript

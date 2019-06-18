@@ -15,18 +15,18 @@ tags:
 This week the rogues discuss the importance of conferences and user groups to the Ruby community.
 
 - User Groups:
-  - [OK.rb](http://ok-ruby.org/)
-  - [Boulder Ruby](http://boulderruby.org/)
-  - [Utah Ruby User Group (URUG)](http://utruby.org/)
+  - [OK.rb](https://ok-ruby.org/)
+  - [Boulder Ruby](https://boulderruby.org/)
+  - [Utah Ruby User Group (URUG)](https://utruby.org/)
 - Conferences:
-  - [Red Dirt RubyConf](http://reddirtrubyconf.com/)
-  - [mountain.rb](http://mountainrb.com/)
-  - [Rocky Mountain Ruby](http://rockymtnruby.com/)
-  - [MountainWest RubyConf (MWRC)](http://mtnwestrubyconf.org/)
-  - [Ruby Web Conference](http://rubywebconf.org/)
+  - [Red Dirt RubyConf](https://reddirtrubyconf.com/)
+  - [mountain.rb](https://mountainrb.com/)
+  - [Rocky Mountain Ruby](https://rockymtnruby.com/)
+  - [MountainWest RubyConf (MWRC)](https://mtnwestrubyconf.org/)
+  - [Ruby Web Conference](https://rubywebconf.org/)
 - Should speakers pay admission?
-  - [PyCon: Everybody Pays](http://jessenoller.com/2011/05/25/pycon-everybody-pays/)
-  - [Conference organizing and speakers](http://martyhaught.com/articles/2011/06/07/conference-organizing-and-speakers/)
+  - [PyCon: Everybody Pays](https://jessenoller.com/2011/05/25/pycon-everybody-pays/)
+  - [Conference organizing and speakers](https://martyhaught.com/articles/2011/06/07/conference-organizing-and-speakers/)
 - What makes a great conference?
   - Try something different
   - Melted brains

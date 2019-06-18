@@ -70,7 +70,7 @@ This week on My Angular Story, Charles speaks with [Joel Tanzi](https://www.link
 
 20:39 – Chuck: Where can people find you online?
 
-20:45 – Joel: At my website – [Stringly Typed!](http://stringlytyped.tech) My [LinkedIn!](https://www.linkedin.com/in/joeltanzi)
+20:45 – Joel: At my website – [Stringly Typed!](https://stringlytyped.tech) My [LinkedIn!](https://www.linkedin.com/in/joeltanzi)
 
 21:45 – [Fresh Books!](https://www.freshbooks.com/?ref=ppc-fb&campaignid=717543354&adgroupid=51893696397&targetid=kwd-298507762065&crid=285105591548&dv=c&ntwk=g&source=GOOGLE&gclid=EAIaIQobChMIw9ygzoDB3gIVD0sNCh2zHQSlEAAYAiAAEgIltfD_BwE&gclsrc=aw.ds)
 
@@ -86,7 +86,7 @@ END – [CacheFly](https://www.cachefly.com)
 - Chuck’s Twitter
 - Chuck’s E-mail: [chuck@devchat.tv](mailto:chuck@devchat.tv)
 - [Joel’s LinkedIn](https://www.linkedin.com/in/joeltanzi)
-- [Stringly Typed](http://stringlytyped.tech)
+- [Stringly Typed](https://stringlytyped.tech)
 
 **Sponsors:**
 

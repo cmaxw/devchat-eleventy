@@ -14,56 +14,56 @@ tags:
 
 03:12 - Speaking at Conferences
 
-- [Ruby Rogues Episode #64: Presenting at Conferences](http://rubyrogues.com/064-rr-presenting-at-conferences/)
+- [Ruby Rogues Episode #64: Presenting at Conferences](https://rubyrogues.com/064-rr-presenting-at-conferences/)
   04:09 - Saron’s Experiences
 - [Saron at RailsConf](https://www.youtube.com/watch?v=mW_xKGUKLpk)
   05:07 - What to Speak About 06:44 - Styles of Talk
-- [Mountain West Conference](http://www.themwc.com/#!/)
-- [Wall of Text](http://uncyclopedia.wikia.com/wiki/Wall_of_Text)
+- [Mountain West Conference](https://www.themwc.com/#!/)
+- [Wall of Text](https://uncyclopedia.wikia.com/wiki/Wall_of_Text)
   09:09 - Guidelines for Certain Conferences
 - Submitting Proposals
   10:13 - Criteria for Speakers
 - Selection Bias
 - Brit Ruby
   - [Why Brit Ruby Was Canceled on Github](https://gist.github.com/seanhandley/4106776)
-- [Noel Rappin: What I learned from reading 429 conference proposals](http://www.noelrappin.com/railsrx/2014/3/17/what-i-learned-from-reading-429-conference-proposals)
+- [Noel Rappin: What I learned from reading 429 conference proposals](https://www.noelrappin.com/railsrx/2014/3/17/what-i-learned-from-reading-429-conference-proposals)
   11:37 - Saron on Feedback
 - Typecasting
-- [Ruby Rogues Episode #69 - Therapeutic Refactoring with Katrina Owen](http://rubyrogues.com/069-rr-therapeutic-refactoring-with-katrina-owen/)
-- [Katrina Owen: Therapeutic Refactoring Talk](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
+- [Ruby Rogues Episode #69 - Therapeutic Refactoring with Katrina Owen](https://rubyrogues.com/069-rr-therapeutic-refactoring-with-katrina-owen/)
+- [Katrina Owen: Therapeutic Refactoring Talk](https://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
   15:26 - Noticing Diversity/Minorities
 - Privledge
-- [Impostor Syndrome](http://en.wikipedia.org/wiki/Impostor_syndrome)
-- [Anil Dash](http://dashes.com/anil/)
-  - [A checklist of stupid things men will say when they find out I only retweet women](http://dashes.com/anil/2014/02/a-checklist-of-stupid-things-men-will-say-when-they-find-out-i-only-retweet-women.html)
-- [The Flatiron School](http://flatironschool.com/)
-- [Adam Enbar](http://adamenbar.com/)
+- [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
+- [Anil Dash](https://dashes.com/anil/)
+  - [A checklist of stupid things men will say when they find out I only retweet women](https://dashes.com/anil/2014/02/a-checklist-of-stupid-things-men-will-say-when-they-find-out-i-only-retweet-women.html)
+- [The Flatiron School](https://flatironschool.com/)
+- [Adam Enbar](https://adamenbar.com/)
   - [@aenbar](https://twitter.com/aenbar)
     22:41 - Feeling Responsibility and Pressure 24:24 - Technical Talks vs. Other Types
-- [Brain Hacking](http://mindhacks.com/)
+- [Brain Hacking](https://mindhacks.com/)
   31:43 - Getting Past “Impostor Syndrome” 37:28 - Ideas for Talks 44:11 - Favorite Talks
-- [Coraline Ada Ehmke: Artisans and Apprentices](http://www.confreaks.com/videos/3346-railsconf-artisans-and-apprentices)
+- [Coraline Ada Ehmke: Artisans and Apprentices](https://www.confreaks.com/videos/3346-railsconf-artisans-and-apprentices)
 - [DHH’s RailsConf Keynote](https://www.youtube.com/watch?v=9LfmrkyP81M)
-- [Eileen Uchitelle: CRUD! The Consequences of Not Understanding How ActiveRecord Translates into MySQL](http://www.confreaks.com/videos/3286-mwrc-crud-the-consequences-of-not-understanding-how-activerecord-translates-into-mysql)
-  - [Eileen Uchitelle](http://www.twitter.com/eileencodes)
-- [Ryan Florence: Bringing the Web Back to the Blind](http://www.confreaks.com/videos/3228-mwjs-bringing-the-web-back-to-the-blind)
-  - [Ryan Florence](http://www.twitter.com/rpflo%20)
-- [Ruby Rogues Episode #119 - Accessibility with Brian Hogan](http://rubyrogues.com/119-rr-accessibility-with-brian-hogan/)
+- [Eileen Uchitelle: CRUD! The Consequences of Not Understanding How ActiveRecord Translates into MySQL](https://www.confreaks.com/videos/3286-mwrc-crud-the-consequences-of-not-understanding-how-activerecord-translates-into-mysql)
+  - [Eileen Uchitelle](https://www.twitter.com/eileencodes)
+- [Ryan Florence: Bringing the Web Back to the Blind](https://www.confreaks.com/videos/3228-mwjs-bringing-the-web-back-to-the-blind)
+  - [Ryan Florence](https://www.twitter.com/rpflo%20)
+- [Ruby Rogues Episode #119 - Accessibility with Brian Hogan](https://rubyrogues.com/119-rr-accessibility-with-brian-hogan/)
   - [Brian Hogan](https://twitter.com/BrianHogan)
-- [Jamison Dance: Hardware Hacking for JS Developers](http://www.confreaks.com/videos/3233-mwjs-hardware-hacking-for-js-developers)
-  - [Jamison Dance](http://www.twitter.com/jergason)
-- [Midwest.io](http://www.midwest.io/)
+- [Jamison Dance: Hardware Hacking for JS Developers](https://www.confreaks.com/videos/3233-mwjs-hardware-hacking-for-js-developers)
+  - [Jamison Dance](https://www.twitter.com/jergason)
+- [Midwest.io](https://www.midwest.io/)
 - [Jessica Kerr: Property-Based Testing for Better Code](https://qconnewyork.com/presentation/property-based-testing-better-code)
   - [Jessica Kerr](https://twitter.com/jessitron)
-- [Luigi Montanez & Ryan Resella: You'll Never Believe Which Web Framework Powers Upworthy](http://www.confreaks.com/videos/3390-railsconf-you-ll-never-believe-which-web-framework-powers-upworthy)
+- [Luigi Montanez & Ryan Resella: You'll Never Believe Which Web Framework Powers Upworthy](https://www.confreaks.com/videos/3390-railsconf-you-ll-never-believe-which-web-framework-powers-upworthy)
 - [Midwest.io YouTube Channel](https://www.youtube.com/user/midwestio)
   51:06 - Pre-Speaker Checklists
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

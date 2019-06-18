@@ -16,13 +16,13 @@ tags:
 
 - [Twitter](https://twitter.com/contrahacks)
 - [GitHub](https://github.com/contra)
-- [Blog](http://contra.io/)
-- [Instagram](http://instagram.com/yungcontra)
+- [Blog](https://contra.io/)
+- [Instagram](https://instagram.com/yungcontra)
 
-02:59 - [shasta](http://shasta.tools)
+02:59 - [shasta](https://shasta.tools)
 
 - [Dan Abramov](https://twitter.com/dan_abramov)
-- [tahoe](http://shasta.tools/tahoe)
+- [tahoe](https://shasta.tools/tahoe)
 
 07:20 - Getting Started
 
@@ -36,14 +36,14 @@ tags:
 
 12:01 - shasta Ideals
 
-- [Opinions](http://shasta.tools/shasta/docs/Opinions.html)
+- [Opinions](https://shasta.tools/shasta/docs/Opinions.html)
   - [Immutable.js](https://facebook.github.io/immutable-js/)
 
 15:07 - Making Choices
 
 17:35 - [redux-thunk](https://github.com/gaearon/redux-thunk), [redux-saga](https://github.com/yelouafi/redux-saga)
 
-19:01 - Lessons Learned from [gulp.js](http://gulpjs.com/)
+19:01 - Lessons Learned from [gulp.js](https://gulpjs.com/)
 
 - Open Source Marketing
 
@@ -51,7 +51,7 @@ tags:
 
 25:20 - [React](https://facebook.github.io/react/)-Specific vs Agnostic
 
-- [Lazer Team](http://www.imdb.com/title/tt3864024/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2413555502&pf_rd_r=0TVRGKMAEWVKTMHK0BD2&pf_rd_s=center-5&pf_rd_t=53401&pf_rd_i=main&ref_=yto_yto_yto_tt4_i_3)
+- [Lazer Team](https://www.imdb.com/title/tt3864024/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2413555502&pf_rd_r=0TVRGKMAEWVKTMHK0BD2&pf_rd_s=center-5&pf_rd_t=53401&pf_rd_i=main&ref_=yto_yto_yto_tt4_i_3)
 
 27:35 - Experimentation with shasta
 
@@ -62,10 +62,10 @@ tags:
 35:30 - The Future of front-end development in JavaScript; Where shasta fits in
 
 - [mercury](https://github.com/Raynos/mercury)
-  - [Victor Savkin: Managing State in Angular 2 Applications](http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications)
+  - [Victor Savkin: Managing State in Angular 2 Applications](https://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications)
     Picks
 
-[Victor Savkin: Managing State in Angular 2 Applications](http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications) (Joe)[Lazer Team](http://www.imdb.com/title/tt3864024/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2413555502&pf_rd_r=0TVRGKMAEWVKTMHK0BD2&pf_rd_s=center-5&pf_rd_t=53401&pf_rd_i=main&ref_=yto_yto_yto_tt4_i_3) (Joe)[Big Black Delta](http://bigblackdelta.com/) (Jamison)[Learning to Use Google Analytics More Effectively at CodePen](https://css-tricks.com/learning-use-google-analytics-effectively-codepen/) (Jamison)[Thing Explainer: Complicated Stuff in Simple Words by Randall Munroe](http://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple/dp/0544668251) (Dave)[Soft Skills Engineering Podcast](https://itunes.apple.com/us/podcast/soft-skills-engineering/id1091341048?mt=2) (Dave)[RevolutionConf 2016](http://revolutionconf.com/#/home) (Aimee)[[Frontend Masters] Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/) (Aimee)[Lush Cosmetics](http://www.lushusa.com/) (Aimee)[horizon](https://github.com/rethinkdb/horizon) (Eric)[Shannon and the Clams - Rip Van Winkle](https://www.youtube.com/watch?v=6zZAFfL25ZM) (Eric)[shasta](http://shasta.tools) (Eric)
+[Victor Savkin: Managing State in Angular 2 Applications](https://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications) (Joe)[Lazer Team](https://www.imdb.com/title/tt3864024/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2413555502&pf_rd_r=0TVRGKMAEWVKTMHK0BD2&pf_rd_s=center-5&pf_rd_t=53401&pf_rd_i=main&ref_=yto_yto_yto_tt4_i_3) (Joe)[Big Black Delta](https://bigblackdelta.com/) (Jamison)[Learning to Use Google Analytics More Effectively at CodePen](https://css-tricks.com/learning-use-google-analytics-effectively-codepen/) (Jamison)[Thing Explainer: Complicated Stuff in Simple Words by Randall Munroe](https://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple/dp/0544668251) (Dave)[Soft Skills Engineering Podcast](https://itunes.apple.com/us/podcast/soft-skills-engineering/id1091341048?mt=2) (Dave)[RevolutionConf 2016](https://revolutionconf.com/#/home) (Aimee)[[Frontend Masters] Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/) (Aimee)[Lush Cosmetics](https://www.lushusa.com/) (Aimee)[horizon](https://github.com/rethinkdb/horizon) (Eric)[Shannon and the Clams - Rip Van Winkle](https://www.youtube.com/watch?v=6zZAFfL25ZM) (Eric)[shasta](https://shasta.tools) (Eric)
 
 ### Transcript
 

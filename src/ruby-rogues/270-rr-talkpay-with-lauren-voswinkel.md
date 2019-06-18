@@ -5,7 +5,7 @@ title: >
 date: 2016-07-27 07:00:24
 episode_number: 270
 duration: 50:43
-audio_url: http://media.devchat.tv/ruby-rogues/RR270TalkPay.mp3
+audio_url: https://media.devchat.tv/ruby-rogues/RR270TalkPay.mp3
 podcast: ruby-rogues
 tags:
   - ruby_rogues
@@ -25,21 +25,21 @@ tags:
   06:11 - [#talkpay](https://twitter.com/hashtag/talkpay?lang=en)
 - [Information Asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry)
   10:22 - Fair Trade of Value; Companies and Salaries
-- [Kelley Blue Book](http://www.kbb.com/)
+- [Kelley Blue Book](https://www.kbb.com/)
   19:37 - Salary Maximization and Negotiations22:40 - Executive Salaries
-- [Planet Money: Episode 682: When CEO Pay Exploded](http://www.npr.org/sections/money/2016/02/05/465747726/-682-when-ceo-pay-exploded)
+- [Planet Money: Episode 682: When CEO Pay Exploded](https://www.npr.org/sections/money/2016/02/05/465747726/-682-when-ceo-pay-exploded)
   25:58 - Hashtag Effectiveness
 - [Glassdoor](https://www.glassdoor.com/index.htm)
   29:05 - Implications of Salary Reveals32:08 - The Labor Management Relations Act of 1947 (Cont’d)Salary Sharing Between Employees35:41 - Sharing Salary Information Publicly and [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 - [Crab Mentality](https://en.wikipedia.org/wiki/Crab_mentality)
   37:38 - Job Elimination42:40 - Is/has #talkpay been successful?&nbsp;More Information
-- [Ex-Apple, Google, Intel geeks in line for \$415m over wage-fix pacts](http://www.theregister.co.uk/2015/01/16/silicon_valley_415m_wage_fix_pacts_settlement/)
-- [Wage Stagnation in Nine Charts](http://www.epi.org/publication/charting-wage-stagnation/)
-- [Highlights of women’s earnings in 2014](http://www.bls.gov/opub/reports/womens-earnings/archive/highlights-of-womens-earnings-in-2014.pdf)
+- [Ex-Apple, Google, Intel geeks in line for \$415m over wage-fix pacts](https://www.theregister.co.uk/2015/01/16/silicon_valley_415m_wage_fix_pacts_settlement/)
+- [Wage Stagnation in Nine Charts](https://www.epi.org/publication/charting-wage-stagnation/)
+- [Highlights of women’s earnings in 2014](https://www.bls.gov/opub/reports/womens-earnings/archive/highlights-of-womens-earnings-in-2014.pdf)
   &nbsp;Picks
 - [The Name of the Wind by Patrick Rothfuss](https://www.amazon.com/Name-Wind-Kingkiller-Chronicles-Day/dp/075640407X/ref=pd_bxgy_14_3?ie=UTF8&psc=1&refRID=5D4HAGF13KDVVE2W7EDW) (Sam)
 - [The Lies of Locke Lamora](https://en.wikipedia.org/wiki/The_Lies_of_Locke_Lamora) (Coraline)
-- [Brandon Sanderson's Alcatraz Versus the Evil Librarians Series](http://brandonsanderson.com/books/alcatraz/alcatraz-versus-the-evil-librarians/) (Chuck)
+- [Brandon Sanderson's Alcatraz Versus the Evil Librarians Series](https://brandonsanderson.com/books/alcatraz/alcatraz-versus-the-evil-librarians/) (Chuck)
 - [Bose QuietComfort 3 Acoustic Noise Cancelling Headphones](https://www.amazon.com/Bose-QuietComfort-Acoustic-Cancelling-Headphones/dp/B0081XAXXM/ref=sr_1_9?ie=UTF8&qid=1468872096&sr=8-9&keywords=bose+noise+cancelling+headphones) (Chuck)
 - [Brené Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en) (Lauren)
 - [Brené Brown: Listening to shame](https://www.ted.com/talks/brene_brown_listening_to_shame?language=en) (Lauren)

@@ -36,11 +36,11 @@ tags:
 - [Inside Code Signing&nbsp;](https://www.objc.io/issues/17-security/inside-code-signing/)
 - [Mac OS Code Signing In Depth](https://developer.apple.com/library/content/technotes/tn2206/_index.html#//apple_ref/doc/uid/DTS40007919-CH1-TNTAG304)
   **Picks:** Jaim:
-- [Mystery Phantom App Updates by Jeff Johnson](http://lapcatsoftware.com/articles/mystery-phantom-app-updates.html)
+- [Mystery Phantom App Updates by Jeff Johnson](https://lapcatsoftware.com/articles/mystery-phantom-app-updates.html)
 - [This Week In Machine Learning & AI Podcast](https://twimlai.com)
 - [Meghan Kane talking Machine Learning at AltConf 2017](https://academy.realm.io/posts/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/)
   Andrew:
-- [Blog on Machine Learning&nbsp;](http://neuralnetworksanddeeplearning.com/chap1.html)
+- [Blog on Machine Learning&nbsp;](https://neuralnetworksanddeeplearning.com/chap1.html)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 
 ### Transcript

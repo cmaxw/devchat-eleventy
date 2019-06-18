@@ -15,19 +15,19 @@ tags:
 01:14 - Jared Richardson Introduction
 
 - [Twitter](https://twitter.com/jaredrichardson)
-- [Blog](http://agileartisans.com/main)
+- [Blog](https://agileartisans.com/main)
 
 01:31 - Andy Hunt Introduction
 
 - [Twitter](https://twitter.com/PragmaticAndy)
-- [Blog](http://andy.pragprog.com/)
-- [The Pragmatic Programmer by Dave Thomas and Andy Hunt](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
-- [Teach Me To Code #41 – Andy Hunt](http://teachmetocode.com/podcast/tmtc-41-andy-hunt/)
+- [Blog](https://andy.pragprog.com/)
+- [The Pragmatic Programmer by Dave Thomas and Andy Hunt](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- [Teach Me To Code #41 – Andy Hunt](https://teachmetocode.com/podcast/tmtc-41-andy-hunt/)
 
-02:35 - Background, [The GROWS Method](http://growsmethod.com/)
+02:35 - Background, [The GROWS Method](https://growsmethod.com/)
 
 - [Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
-- [The Agile Manifesto](http://www.agilemanifesto.org/)
+- [The Agile Manifesto](https://www.agilemanifesto.org/)
 - [Scrum](<https://en.wikipedia.org/wiki/Scrum_(software_development)>)
 - [Dreyfus Model of Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 
@@ -45,14 +45,14 @@ tags:
 
 35:52 - Where do I start?
 
-- [Starting with GROWS](http://growsmethod.com/grows_starting.html)
+- [Starting with GROWS](https://growsmethod.com/grows_starting.html)
 - Checklist-driven Development
 
 43:30 - Can you do GROWS on a small team?
 
 50:25 - Working on Stage 2 before Stage 1 is Done
 
-- [The Unit](http://www.imdb.com/title/tt0460690/)
+- [The Unit](https://www.imdb.com/title/tt0460690/)
 
 54:06 - The Growth of GROWS
 
@@ -61,7 +61,7 @@ Announcement
 - Check out Freelance Remote Conf and iOS Remote Conf at [All Remote Confs](https://allremoteconfs.com/)
   Picks
 
-[Dan Wilson: Regarding Ground Rules For Collaboration](http://www.danwilsonmusic.com/news/journal/regarding-ground-rules-for-collaboration) (Jaim)[Saramonic SmartMixer Professional Recording Stereo Microphone Rig](http://www.amazon.com/gp/product/B014Q9YUKG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014Q9YUKG&linkCode=as2&tag=chamaxwoo-20&linkId=4NIXHMESSKXQIFLD) (Chuck)[Unboxing of saramonic smartmixer for periscope. #ufy](https://katch.me/cmaxw/v/753cd065-4a82-3afe-a66f-e460662fea18) (Chuck)[Clash of Clans](http://supercell.com/en/games/clashofclans/) (Chuck)[Derek Sivers: The /now page movement](https://sivers.org/now3) (Andy)[nownownow.com](http://nownownow.com/) (Andy)[tonymacx86.com](http://tonymacx86.com) (Jared) Get out from behind the keyboard (Jared)
+[Dan Wilson: Regarding Ground Rules For Collaboration](https://www.danwilsonmusic.com/news/journal/regarding-ground-rules-for-collaboration) (Jaim)[Saramonic SmartMixer Professional Recording Stereo Microphone Rig](https://www.amazon.com/gp/product/B014Q9YUKG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014Q9YUKG&linkCode=as2&tag=chamaxwoo-20&linkId=4NIXHMESSKXQIFLD) (Chuck)[Unboxing of saramonic smartmixer for periscope. #ufy](https://katch.me/cmaxw/v/753cd065-4a82-3afe-a66f-e460662fea18) (Chuck)[Clash of Clans](https://supercell.com/en/games/clashofclans/) (Chuck)[Derek Sivers: The /now page movement](https://sivers.org/now3) (Andy)[nownownow.com](https://nownownow.com/) (Andy)[tonymacx86.com](https://tonymacx86.com) (Jared) Get out from behind the keyboard (Jared)
 
 ### Transcript
 

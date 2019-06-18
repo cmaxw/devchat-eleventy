@@ -22,14 +22,14 @@ tags:
 
 05:47 - Value-based Pricing Resources
 
-- [Episode #96: Value-Based Pricing with Brennan Dunn](http://devchat.tv/freelancers/the-freelancers-show-096-value-based-pricing-with-brennan-dunn)
-- [Episode #109: How to Determine Value and Set Pricing with Kirk Bowman](http://devchat.tv/freelancers/the-freelancers-show-109-how-to-determine-value-and-set-pricing-with-kirk-bowman)
+- [Episode #96: Value-Based Pricing with Brennan Dunn](https://devchat.tv/freelancers/the-freelancers-show-096-value-based-pricing-with-brennan-dunn)
+- [Episode #109: How to Determine Value and Set Pricing with Kirk Bowman](https://devchat.tv/freelancers/the-freelancers-show-109-how-to-determine-value-and-set-pricing-with-kirk-bowman)
 
 06:08 - Is There an “Expensive Problem” to be Solved? &nbsp;
 
 08:32 - “Value”
 
-- [ROI (Return On Investment)](http://www.investopedia.com/terms/r/returnoninvestment.asp)
+- [ROI (Return On Investment)](https://www.investopedia.com/terms/r/returnoninvestment.asp)
 
 10:38 - Qualifying Customers as People You Want to Work With
 
@@ -51,9 +51,9 @@ tags:
 - Traveling Rates/Fees
   54:02 - Demonstrating Your ValuePicks
 
-[Talk Python To Me](http://talkpythontome.com/) (Reuven)[The Martian: A Novel by Andy Weir](http://www.amazon.com/gp/product/0553418025/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553418025&linkCode=as2&tag=chamaxwoo-20&linkId=OBE26S7ZG3K6KB4J) (Jonathan)[Pitch Anything Book by Oren Klaff](http://pitchanything.com/book/) (Jonathan)[The Reckoners Series by Brandon Sanderson](http://en.wikipedia.org/wiki/The_Reckoners) (Chuck)[The Magic of Thinking Big &nbsp;David J. Schwartz](http://www.amazon.com/gp/product/0671646788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671646788&linkCode=as2&tag=chamaxwoo-20&linkId=SCAHN4QQXPE3652X) (Chuck)
+[Talk Python To Me](https://talkpythontome.com/) (Reuven)[The Martian: A Novel by Andy Weir](https://www.amazon.com/gp/product/0553418025/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553418025&linkCode=as2&tag=chamaxwoo-20&linkId=OBE26S7ZG3K6KB4J) (Jonathan)[Pitch Anything Book by Oren Klaff](https://pitchanything.com/book/) (Jonathan)[The Reckoners Series by Brandon Sanderson](https://en.wikipedia.org/wiki/The_Reckoners) (Chuck)[The Magic of Thinking Big &nbsp;David J. Schwartz](https://www.amazon.com/gp/product/0671646788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671646788&linkCode=as2&tag=chamaxwoo-20&linkId=SCAHN4QQXPE3652X) (Chuck)
 
-Check out Jonathan’s new coaching services site,&nbsp;[Expensive Problem](http://expensiveproblem.com/)!
+Check out Jonathan’s new coaching services site,&nbsp;[Expensive Problem](https://expensiveproblem.com/)!
 
 ### Transcript
 

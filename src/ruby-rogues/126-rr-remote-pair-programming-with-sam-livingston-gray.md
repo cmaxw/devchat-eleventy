@@ -21,39 +21,39 @@ tags:
 04:41 - Tools
 
 - [GNU Screen](https://www.gnu.org/software/screen/)
-- [tmux](http://tmux.sourceforge.net/)
+- [tmux](https://tmux.sourceforge.net/)
 - [Cloud9 IDE](https://c9.io/)
 - [Floobits](https://floobits.com/)
-- [Google Drive](http://drive.google.com/)
-- [OmniGraffle](http://www.omnigroup.com/omnigraffle)
-- [Screenhero](http://screenhero.com/)
-- [Skype](http://www.skype.com/)
+- [Google Drive](https://drive.google.com/)
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle)
+- [Screenhero](https://screenhero.com/)
+- [Skype](https://www.skype.com/)
 
 13:35 - Terminal Configuration/Setup
 
-- [Vim](http://www.vim.org/) vs [Emacs](http://www.gnu.org/s/emacs/)
+- [Vim](https://www.vim.org/) vs [Emacs](https://www.gnu.org/s/emacs/)
 - [ls-pair](https://github.com/livingsocial/ls-pair)
-- [Pair Program with Me](http://www.pairprogramwith.me/)
+- [Pair Program with Me](https://www.pairprogramwith.me/)
 - [dbrady/emacs_libs](https://github.com/dbrady/emacs_libs)
 - [PeepCode: Commanding Your Text Editor](https://peepcode.com/blog/2012/commanding-your-text-editor)
 
 27:24 - Face-to-Face Interaction & Telepresence
 
-- [Pivotal Labs: Pairing tete-a-tete](http://pivotallabs.com/pairing-tete-a-tete/)
-- [Teleport](http://www.abyssoft.com/software/teleport/)
+- [Pivotal Labs: Pairing tete-a-tete](https://pivotallabs.com/pairing-tete-a-tete/)
+- [Teleport](https://www.abyssoft.com/software/teleport/)
 
 42:51 - Pairing, Remote Work and [LivingSocial](https://www.livingsocial.com/)
 
 44:51 - Conquering Pairing Intimidation
 
-- [exercism.io](http://exercism.io/)
+- [exercism.io](https://exercism.io/)
 
 51:43 - Recording Pair Programming Sessions
 
-- [Josh and Avdi Pairing on Discourse](http://www.youtube.com/watch?v=8LUIqm6xy8A)
+- [Josh and Avdi Pairing on Discourse](https://www.youtube.com/watch?v=8LUIqm6xy8A)
 - [Play by Play | PeepCode Screencasts](https://peepcode.com/screencasts/play-by-play)
 
-53:47 - [Tom Howlett: The Shame of Pair Programming](http://diaryofascrummaster.wordpress.com/2013/09/30/the-shame-of-pair-programming/)
+53:47 - [Tom Howlett: The Shame of Pair Programming](https://diaryofascrummaster.wordpress.com/2013/09/30/the-shame-of-pair-programming/)
 
 54:31 - Advice for Pair Programmers
 

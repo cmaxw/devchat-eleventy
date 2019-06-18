@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-**Special Offer! [Get 33% off](http://leanpub.com/4rulesofsimpledesign/c/rubyrogues)[<u>Understanding the Four Rules of Simple Design</u>](https://leanpub.com/4rulesofsimpledesign)[!](http://leanpub.com/4rulesofsimpledesign/c/rubyrogues)&nbsp;**
+**Special Offer! [Get 33% off](https://leanpub.com/4rulesofsimpledesign/c/rubyrogues)[<u>Understanding the Four Rules of Simple Design</u>](https://leanpub.com/4rulesofsimpledesign)[!](https://leanpub.com/4rulesofsimpledesign/c/rubyrogues)&nbsp;**
 
 02:20 - Check out JS Remote Conf
 
@@ -22,9 +22,9 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/coreyhaines)
 - <u><a href="https://github.com/coreyhaines" data-cke-saved-href="https://github.com/coreyhaines">GitHub</a></u>
-- [<u>Blog</u>](http://articles.coreyhaines.com/)
+- [<u>Blog</u>](https://articles.coreyhaines.com/)
 - [<u>Understanding the Four Rules of Simple Design and other lessons from watching thousands of pairs work on Conway's Game of Life by Corey Haines</u>](https://leanpub.com/4rulesofsimpledesign)
-- [<u>The Global Day of Coderetreat</u>](http://globalday.coderetreat.org/)
+- [<u>The Global Day of Coderetreat</u>](https://globalday.coderetreat.org/)
 
 04:25 - The 4 Rules
 
@@ -32,46 +32,46 @@ tags:
 - 2. Expresses Intent
 - 3. No Duplication
 - 4. Don’t Have Pieces You Don’t Need
-- [<u>J. B. Rainsberger: Refactoring: Where Do I Start?</u>](http://www.jbrains.ca/permalink/refactoring-where-do-i-start)
+- [<u>J. B. Rainsberger: Refactoring: Where Do I Start?</u>](https://www.jbrains.ca/permalink/refactoring-where-do-i-start)
 
 06:51 - The Origin of the Rules
 
-- [<u>Kent Beck</u>](http://en.wikipedia.org/wiki/Kent_Beck)
-- [<u>Ward Cunningham</u>](http://en.wikipedia.org/wiki/Ward_Cunningham)
-- [<u>Jerry Weinberg</u>](http://en.wikipedia.org/wiki/Gerald_Weinberg)
-- [<u>Test-Driven Development (TDD)</u>](http://en.wikipedia.org/wiki/Test-driven_development)
-- [<u>Generative Principles</u>](http://en.wikipedia.org/wiki/Generative_principle)
-- [<u>The SOLID Principles</u>](<http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)>)
-- [<u>The Open/Close Principle</u>](http://en.wikipedia.org/wiki/Open/closed_principle)
+- [<u>Kent Beck</u>](https://en.wikipedia.org/wiki/Kent_Beck)
+- [<u>Ward Cunningham</u>](https://en.wikipedia.org/wiki/Ward_Cunningham)
+- [<u>Jerry Weinberg</u>](https://en.wikipedia.org/wiki/Gerald_Weinberg)
+- [<u>Test-Driven Development (TDD)</u>](https://en.wikipedia.org/wiki/Test-driven_development)
+- [<u>Generative Principles</u>](https://en.wikipedia.org/wiki/Generative_principle)
+- [<u>The SOLID Principles</u>](<https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)>)
+- [<u>The Open/Close Principle</u>](https://en.wikipedia.org/wiki/Open/closed_principle)
 
 14:20 - “Generative”
 
-- [<u>MINASWAN</u>](http://en.wikipedia.org/wiki/MINASWAN)
+- [<u>MINASWAN</u>](https://en.wikipedia.org/wiki/MINASWAN)
 
 18:12 - How Do the Rules Make Us Happy?
 
-- [<u>The Cucumber Language</u>](http://cukes.info/)
+- [<u>The Cucumber Language</u>](https://cukes.info/)
 - [<u>MercuryApp</u>](https://www.mercuryapp.com/)
 
 24:51 - Thinking in Processes
 
-- [<u>Service-oriented Architecture (SOA)</u>](http://en.wikipedia.org/wiki/Service-oriented_architecture)
+- [<u>Service-oriented Architecture (SOA)</u>](https://en.wikipedia.org/wiki/Service-oriented_architecture)
   - Procedural Polymorphism
   - Type-Based Polymorphism
 
 28:57 - Code Duplication
 
-- [<u>The DRY (Don't Repeat Yourself) Principle</u>](http://en.wikipedia.org/wiki/Don't_repeat_yourself)
-- <u><a href="http://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=020161622X&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=6NO3ZIV5MS6DGMEX" data-cke-saved-href="http://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=020161622X&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=6NO3ZIV5MS6DGMEX">The Pragmatic Programmer: From Journeyman to Master by Andy Hunt</a></u>
+- [<u>The DRY (Don't Repeat Yourself) Principle</u>](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
+- <u><a href="https://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=020161622X&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=6NO3ZIV5MS6DGMEX" data-cke-saved-href="https://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=020161622X&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=6NO3ZIV5MS6DGMEX">The Pragmatic Programmer: From Journeyman to Master by Andy Hunt</a></u>
 - Incidental Duplication
-  - <u><a href="http://www.confreaks.com/videos/434-rubyconf2010-maintaining-balance-while-reducing-duplication" data-cke-saved-href="http://www.confreaks.com/videos/434-rubyconf2010-maintaining-balance-while-reducing-duplication">[Confreaks] David Chelimsky: Maintaining Balance While Reducing Duplication</a></u>
+  - <u><a href="https://www.confreaks.com/videos/434-rubyconf2010-maintaining-balance-while-reducing-duplication" data-cke-saved-href="https://www.confreaks.com/videos/434-rubyconf2010-maintaining-balance-while-reducing-duplication">[Confreaks] David Chelimsky: Maintaining Balance While Reducing Duplication</a></u>
   - [[Slides] David Chelimsky: Maintaining Balance While Reducing Duplication](https://speakerdeck.com/bf4/david-chelimsky-rubyconf-2010-maintaining-balance-while-reducing-duplication)
-  - [<u>RSpec</u>](http://rspec.info/)
+  - [<u>RSpec</u>](https://rspec.info/)
   - Duplicate Knowledge vs Duplicate Code
-  - [<u>Object-Orientation (OO)</u>](http://en.wikipedia.org/wiki/Object-oriented_programming)
-  - [<u>Class-Responsibility-Collaboration Card</u>](http://en.wikipedia.org/wiki/Class-responsibility-collaboration_card)
+  - [<u>Object-Orientation (OO)</u>](https://en.wikipedia.org/wiki/Object-oriented_programming)
+  - [<u>Class-Responsibility-Collaboration Card</u>](https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card)
   - “Anemic” Classes
-  - [<u>Immutability</u>](<http://en.wikipedia.org/wiki/Immutability_(theology)>)
+  - [<u>Immutability</u>](<https://en.wikipedia.org/wiki/Immutability_(theology)>)
 
 47:32 - Grouping Methods and Classes
 
@@ -80,14 +80,14 @@ tags:
 52:49 - Testing
 
 - Test First
-- [<u>Test-Driven Development (TDD)</u>](http://en.wikipedia.org/wiki/Test-driven_development)
-- [<u>Sandi Metz</u>](http://www.sandimetz.com/)
-  - <u><a href="http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321721330&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=H2N5SWJTNBESE35I" data-cke-saved-href="http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321721330&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=H2N5SWJTNBESE35I">Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz</a></u>
+- [<u>Test-Driven Development (TDD)</u>](https://en.wikipedia.org/wiki/Test-driven_development)
+- [<u>Sandi Metz</u>](https://www.sandimetz.com/)
+  - <u><a href="https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321721330&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=H2N5SWJTNBESE35I" data-cke-saved-href="https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321721330&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=H2N5SWJTNBESE35I">Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz</a></u>
 
 ## See Also
 
-- <u><a href="http://c2.com/cgi/wiki?XpSimplicityRules" data-cke-saved-href="http://c2.com/cgi/wiki?XpSimplicityRules">Xp Simplicity Rules</a></u>
-  **Special Offer!&nbsp;[Get 33% off&nbsp;](http://leanpub.com/4rulesofsimpledesign/c/rubyrogues)[<u>Understanding the Four Rules of Simple Design</u>](https://leanpub.com/4rulesofsimpledesign)[!](http://leanpub.com/4rulesofsimpledesign/c/rubyrogues)&nbsp;**
+- <u><a href="https://c2.com/cgi/wiki?XpSimplicityRules" data-cke-saved-href="https://c2.com/cgi/wiki?XpSimplicityRules">Xp Simplicity Rules</a></u>
+  **Special Offer!&nbsp;[Get 33% off&nbsp;](https://leanpub.com/4rulesofsimpledesign/c/rubyrogues)[<u>Understanding the Four Rules of Simple Design</u>](https://leanpub.com/4rulesofsimpledesign)[!](https://leanpub.com/4rulesofsimpledesign/c/rubyrogues)&nbsp;**
 
 ### Transcript
 

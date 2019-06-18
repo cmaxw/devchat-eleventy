@@ -48,14 +48,14 @@ This week on My JavaScript Story, Charles speaks with Greg Wilson about his educ
   - Where is the data?
   - If people had the habit of being skeptical, such as fake news and other things, that simply isn’t true.
     - For example: are vaccines dangerous?
-- [Professor Marian Petre – Open University](http://www.open.ac.uk/people/mp8)
+- [Professor Marian Petre – Open University](https://www.open.ac.uk/people/mp8)
 - [Book: “Software Designs Decoded: 66 Ways Experts Think” by Marian Petre](https://www.amazon.com/Software-Design-Decoded-Experts-2016-10-06/dp/B01N9LTSJR)
 
 **Links:**
 
 - [Digital Ocean](https://www.digitalocean.com/products/droplets/?_campaign=G%257CSEARCH%257CB%257CCORE&_adgroup=CORE%257CDigitalOcean&_keyword=digital%2520ocean&_device=c&_copytype=20_optimized&_adposition=1t2&_medium=brand_sem&_source=google&_dkitrig=&gclid=EAIaIQobChMIwvjk4Py62wIVkABpCh1PAAEGEAAYAiAAEgIuEvD_BwE), LLC
 - [FreshBooks](https://www.freshbooks.com)
-- [Greg Wilson](http://third-bit.com)’s Third Bit
+- [Greg Wilson](https://third-bit.com)’s Third Bit
 - [Greg Wilson’s Twitter](https://twitter.com/gvwilson?lang=en)
 - [Greg Wilson’s GitHub](https://github.com/gvwilson)
 - [Greg Wilson’s LinkedIn](https://www.linkedin.com/in/greg-wilson-8187838a/)
@@ -66,7 +66,7 @@ This week on My JavaScript Story, Charles speaks with Greg Wilson about his educ
 - [Rangle’s Bridge](https://rangle.io/bridge/)
 - [Python](https://www.python.org)
 - Ruby
-- [Professor Marian Petre – Open University](http://www.open.ac.uk/people/mp8)
+- [Professor Marian Petre – Open University](https://www.open.ac.uk/people/mp8)
 - [Book: “Software Designs Decoded: 66 Ways Experts Think” by Marian Petre](https://www.amazon.com/Software-Design-Decoded-Experts-2016-10-06/dp/B01N9LTSJR)
 - [CacheFly](https://www.cachefly.com)
 - [Charles Max Wood’s Twitter](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
@@ -89,7 +89,7 @@ Greg
 
 - [Rangle’s Bridge](https://rangle.io/bridge/)
   - Inclusivity and diversity
-- [AOSABOOK.ORG](http://aosabook.org/en/index.html)
+- [AOSABOOK.ORG](https://aosabook.org/en/index.html)
 - [Samson Meteor Microphone](https://www.amazon.com/Condenser-Microphone-Headphones-Fibertique-Cleaning/dp/B077SH8MXP/ref=sr_1_2_sspa?s=electronics&ie=UTF8&qid=1528495247&sr=1-2-spons&keywords=samson+microphone+meteor&psc=1)
 
 ### Transcript

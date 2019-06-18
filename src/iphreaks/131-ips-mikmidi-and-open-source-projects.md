@@ -22,7 +22,7 @@ tags:
 
 07:23 - Deprecation vs Replacing
 
-09:37 - [Semantic Versioning](http://semver.org/)
+09:37 - [Semantic Versioning](https://semver.org/)
 
 15:14 - What is a breaking change?
 
@@ -32,13 +32,13 @@ tags:
 
 26:33 - Being a Good Contributor; Documentation & Examples
 
-- [Contributor Covenant](http://contributor-covenant.org/)&nbsp;&nbsp;
+- [Contributor Covenant](https://contributor-covenant.org/)&nbsp;&nbsp;
 
 31:01 - Using Badges
 
 32:12 - How [Travis CI](https://travis-ci.org/) Integrates with an Open Source Project
 
-- [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html)
+- [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)
 
 35:22 - Hosting for Open Source Projects
 
@@ -49,18 +49,18 @@ tags:
 36:37 - Generated Documentation
 
 - [CocoaPods](https://cocoapods.org/)
-- [CocoaDocs](http://cocoadocs.org/)
+- [CocoaDocs](https://cocoadocs.org/)
 - [Dash](https://kapeli.com/)
 
 39:07 - Licensing
 
 - [The MIT License](https://opensource.org/licenses/MIT)
-- [The Apache License](http://www.apache.org/licenses/)
-- [GPL License](http://www.gnu.org/licenses/gpl-3.0.en.html)
+- [The Apache License](https://www.apache.org/licenses/)
+- [GPL License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 - [AGPL License](https://en.wikipedia.org/wiki/Affero_General_Public_License)
   40:56 - What’s changed in MIKMIDI? (Since Episode #57)Picks
 
-[The Big Star Story](https://www.netflix.com/title/70276014) (Jaim)[Searching for Sugar Man](http://www.sonyclassics.com/searchingforsugarman/) (Andrew)[Erica Sadun: A handful of Swift style rules #swiftlang](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/) (Andrew)[appledoc](https://github.com/tomaz/appledoc) (Andrew)[jazzy](https://github.com/Realm/jazzy) (Andrew)[Toastmasters](https://www.toastmasters.org/) (Chuck)
+[The Big Star Story](https://www.netflix.com/title/70276014) (Jaim)[Searching for Sugar Man](https://www.sonyclassics.com/searchingforsugarman/) (Andrew)[Erica Sadun: A handful of Swift style rules #swiftlang](https://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/) (Andrew)[appledoc](https://github.com/tomaz/appledoc) (Andrew)[jazzy](https://github.com/Realm/jazzy) (Andrew)[Toastmasters](https://www.toastmasters.org/) (Chuck)
 
 ### Transcript
 

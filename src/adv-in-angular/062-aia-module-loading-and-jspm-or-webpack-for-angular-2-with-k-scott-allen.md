@@ -16,15 +16,15 @@ tags:
 
 - [Twitter](https://twitter.com/OdeToCode)
 - [GitHub](https://github.com/OdeToCode)
-- [Blog](http://odetocode.com/)
+- [Blog](https://odetocode.com/)
 
 02:32 - Package Managers, Package Managers vs Module Loaders
 
 06:09 - Getting Modules, Loading Modules, and Bundling Modules
 
-- [Browserify](http://browserify.org/)
+- [Browserify](https://browserify.org/)
 - [webpack](https://webpack.github.io/)
-- [jspm.io](http://jspm.io/)
+- [jspm.io](https://jspm.io/)
 
 11:06 - Exploring ^ These Options
 
@@ -34,9 +34,9 @@ tags:
 
 23:08 - [HTTP/2](https://http2.github.io/)
 
-28:16 - [webpack](https://webpack.github.io/) vs [jspm.io](http://jspm.io/)
+28:16 - [webpack](https://webpack.github.io/) vs [jspm.io](https://jspm.io/)
 
-- [Aurelia](http://aurelia.io/)
+- [Aurelia](https://aurelia.io/)
 - Configuration
 - Getting Started
 
@@ -46,7 +46,7 @@ tags:
 
 50:44 - Evaluating New or Upcoming FrameworksPicks
 
-Learn everything you can about upcoming features of JavaScript: TypeScript, ES-whatever, etc. (John)[TV Fool](http://tvfool.com/) (Chuck)[Michael Vey: The Prisoner of Cell 25 by Richard Paul Evans](http://www.amazon.com/gp/product/1442468122/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1442468122&linkCode=as2&tag=chamaxwoo-20&linkId=6JTUZHSWDSQTU3EI) (Chuck)[The Wire](http://www.imdb.com/title/tt0306414/) (Scott)
+Learn everything you can about upcoming features of JavaScript: TypeScript, ES-whatever, etc. (John)[TV Fool](https://tvfool.com/) (Chuck)[Michael Vey: The Prisoner of Cell 25 by Richard Paul Evans](https://www.amazon.com/gp/product/1442468122/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1442468122&linkCode=as2&tag=chamaxwoo-20&linkId=6JTUZHSWDSQTU3EI) (Chuck)[The Wire](https://www.imdb.com/title/tt0306414/) (Scott)
 
 ### Transcript
 

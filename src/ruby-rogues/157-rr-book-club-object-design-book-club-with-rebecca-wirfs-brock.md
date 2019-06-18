@@ -14,22 +14,22 @@ tags:
 
 ### Panel
 
-- Rebecca Wirfs-Brock ([twitter](https://twitter.com/rebeccawb) [blog](http://www.wirfs-brock.com/))
-- Avdi Grimm ([twitter](http://twitter.com/avdi) [github](http://github.com/avdi) [blog](http://virtuouscode.com/) [book)](http://exceptionalruby.com/)
-- David Brady ([twitter](http://twitter.com/dbrady) [github](http://github.com/dbrady) [blog](http://www.heartmindcode.com/) [ADDcasts](http://addcasts.com/))
-- James Edward Gray ([twitter](http://twitter.com/JEG2) [github](http://github.com/JEG2) [blog](http://blog.grayproductions.net/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://www.railsrampup.com/))
+- Rebecca Wirfs-Brock ([twitter](https://twitter.com/rebeccawb) [blog](https://www.wirfs-brock.com/))
+- Avdi Grimm ([twitter](https://twitter.com/avdi) [github](https://github.com/avdi) [blog](https://virtuouscode.com/) [book)](https://exceptionalruby.com/)
+- David Brady ([twitter](https://twitter.com/dbrady) [github](https://github.com/dbrady) [blog](https://www.heartmindcode.com/) [ADDcasts](https://addcasts.com/))
+- James Edward Gray ([twitter](https://twitter.com/JEG2) [github](https://github.com/JEG2) [blog](https://blog.grayproductions.net/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://www.railsrampup.com/))
 
 ### Discussion
 
 01:38 - Rebecca Wirfs-Brock Introduction
 
-- [Object Design: Roles, Responsibilities, and Collaborations](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20&linkId=65SVXD5DN5Z6J5WB)
-- [Designing Object-Oriented Software](http://www.amazon.com/gp/product/0136298257/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0136298257&linkCode=as2&tag=chamaxwoo-20&linkId=SJN5GZI7K5MRRTTX)
+- [Object Design: Roles, Responsibilities, and Collaborations](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20&linkId=65SVXD5DN5Z6J5WB)
+- [Designing Object-Oriented Software](https://www.amazon.com/gp/product/0136298257/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0136298257&linkCode=as2&tag=chamaxwoo-20&linkId=SJN5GZI7K5MRRTTX)
 
 02:57 - Unofficial Rogues!
 
-- [Logdown](http://logdown.com/)
+- [Logdown](https://logdown.com/)
 - Russell Jennings
 
 03:32 - Object Design
@@ -38,14 +38,14 @@ tags:
 
 04:52 - Responsibilities
 
-- [Responsibility-Driven Design](http://en.wikipedia.org/wiki/Responsibility-driven_design)
+- [Responsibility-Driven Design](https://en.wikipedia.org/wiki/Responsibility-driven_design)
 
 08:03 - Thinking Through Design
 
-- [CRC Cards](http://www.extremeprogramming.org/rules/crccards.html)
-- [XP Design Spikes](http://en.wikipedia.org/wiki/Extreme_programming_practices)
-- [TDD (Test-Driven Development)](http://en.wikipedia.org/wiki/Test-driven_development)
-- [Balsamiq](http://balsamiq.com/)
+- [CRC Cards](https://www.extremeprogramming.org/rules/crccards.html)
+- [XP Design Spikes](https://en.wikipedia.org/wiki/Extreme_programming_practices)
+- [TDD (Test-Driven Development)](https://en.wikipedia.org/wiki/Test-driven_development)
+- [Balsamiq](https://balsamiq.com/)
 
 18:43 - Naming (Vocabulary)
 
@@ -73,7 +73,7 @@ tags:
 56:36 - Balancing Trade-Offs and Design Decisions
 
 - [git-reset](https://www.kernel.org/pub/software/scm/git/docs/git-reset.html)
-- [git-stash](http://git-scm.com/docs/git-stash)
+- [git-stash](https://git-scm.com/docs/git-stash)
 
 01:03:28 - Getting Better at Design
 
@@ -81,20 +81,20 @@ tags:
 
 ### Picks
 
-- [Anthony Bourdain: Parts Unknown](http://www.imdb.com/title/tt2845786/) (Avdi)
+- [Anthony Bourdain: Parts Unknown](https://www.imdb.com/title/tt2845786/) (Avdi)
 - Indoors (David)
-- [The Failure Bow: Matt Smith at TEDxBellevue](http://www.youtube.com/watch?feature=player_embedded&v=cXuD2zHVeB0) (David)
-- [Architecture, Performance, and Games](http://gameprogrammingpatterns.com/architecture-performance-and-games.html) (James)
-- [Avatar](http://www.amazon.com/The-Boy-in-the-Iceberg/dp/B000GFD4C0/ref=sr_1_1?ie=UTF8&qid=1399734454&sr=8-1&keywords=avatar+the+last+airbender) (James)
-- [Balsamiq](http://balsamiq.com/) (Chuck)
-- [Realizing Empathy](http://realizingempathy.com/) (Rebecca)
-- [Edge.org](http://edge.org/) (Rebecca)
+- [The Failure Bow: Matt Smith at TEDxBellevue](https://www.youtube.com/watch?feature=player_embedded&v=cXuD2zHVeB0) (David)
+- [Architecture, Performance, and Games](https://gameprogrammingpatterns.com/architecture-performance-and-games.html) (James)
+- [Avatar](https://www.amazon.com/The-Boy-in-the-Iceberg/dp/B000GFD4C0/ref=sr_1_1?ie=UTF8&qid=1399734454&sr=8-1&keywords=avatar+the+last+airbender) (James)
+- [Balsamiq](https://balsamiq.com/) (Chuck)
+- [Realizing Empathy](https://realizingempathy.com/) (Rebecca)
+- [Edge.org](https://edge.org/) (Rebecca)
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

@@ -26,8 +26,8 @@ On today's episode of Adventures in Angular, we have panelists Alyssa Nicoll, Wa
   **Charles Max Wood**
 - [Ego is the Enemy by Ryan Holiday](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818)
   **TJ VanToll&nbsp;**
-- [Pokemon Go](http://www.pokemongo.com/)
-- [My Dad Wrote a Porno podcast](http://www.mydadwroteaporno.com/)
+- [Pokemon Go](https://www.pokemongo.com/)
+- [My Dad Wrote a Porno podcast](https://www.mydadwroteaporno.com/)
 - [NativeScript Newsletter](https://www.nativescript.org/nativescript-newsletter)
 - [Twitter @NativeScript](https://twitter.com/NativeScript)
 

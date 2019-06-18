@@ -81,6 +81,6 @@ Charles
 TJ
 
 - [_How Did This Get Made?_ Podcast](https://www.earwolf.com/show/how-did-this-get-made/)
-- [_Freakonomics_ Podcast](http://freakonomics.com/archive/)
+- [_Freakonomics_ Podcast](https://freakonomics.com/archive/)
 
 ### Transcript

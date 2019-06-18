@@ -12,14 +12,14 @@ tags:
   - podcast
 ---
 
-01:43 - [Going Rogue Video](http://goingroguevideo.com/)
+01:43 - [Going Rogue Video](https://goingroguevideo.com/)
 
 02:12 - Unofficial Rogue: [Mark Turner](https://twitter.com/amerine)
 
-02:31 - [David Brady: Loyalty and Layoffs](http://heartmindcode.com/2013/08/16/loyalty-and-layoffs/)
+02:31 - [David Brady: Loyalty and Layoffs](https://heartmindcode.com/2013/08/16/loyalty-and-layoffs/)
 
-- [David Brady: Loyalty and Trust](http://heartmindcode.com/2013/09/04/loyalty-and-trust/)
-- [David Brady: Loyalty and Your Professional Network](http://heartmindcode.com/2013/09/02/loyalty-and-your-professional-network/)
+- [David Brady: Loyalty and Trust](https://heartmindcode.com/2013/09/04/loyalty-and-trust/)
+- [David Brady: Loyalty and Your Professional Network](https://heartmindcode.com/2013/09/02/loyalty-and-your-professional-network/)
 
 05:21 - The company is not on your side
 
@@ -31,9 +31,9 @@ tags:
 - “Job for Life”
 - Burning Bridges
 - Job Hopper Phobia
-- [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything by Steven D. Levitt and Stephen J. Dubner](http://www.amazon.com/gp/product/0060731338/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060731338&linkCode=as2&tag=chamaxwoo-20)
-- [Strauss–Howe generational theory](http://en.wikipedia.org/wiki/Strauss%E2%80%93Howe_generational_theory)
-- [Why Generation Y Yuppies Are Unhappy](http://www.waitbutwhy.com/2013/09/why-generation-y-yuppies-are-unhappy.html)
+- [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything by Steven D. Levitt and Stephen J. Dubner](https://www.amazon.com/gp/product/0060731338/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060731338&linkCode=as2&tag=chamaxwoo-20)
+- [Strauss–Howe generational theory](https://en.wikipedia.org/wiki/Strauss%E2%80%93Howe_generational_theory)
+- [Why Generation Y Yuppies Are Unhappy](https://www.waitbutwhy.com/2013/09/why-generation-y-yuppies-are-unhappy.html)
 
 36:18 - Freelance Work
 
@@ -41,18 +41,18 @@ tags:
 
 41:49 - Loyalty to Your Coworkers and Peers
 
-- [Brené Brown: The power of vulnerability](http://www.ted.com/talks/brene_brown_on_vulnerability.html)
-- [The Ones Who Walk Away from Omelas](http://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas)
+- [Brené Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability.html)
+- [The Ones Who Walk Away from Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas)
 
 54:51 - Money and Making Connections
 
 - Introversion Hacks
-- [How to Be Interesting: (In 10 Simple Steps) by Jessica Hagy](http://www.amazon.com/gp/product/0761174702/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761174702&linkCode=as2&tag=chamaxwoo-20)
-- [Toastmasters International](http://toastmasters.org/)
+- [How to Be Interesting: (In 10 Simple Steps) by Jessica Hagy](https://www.amazon.com/gp/product/0761174702/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761174702&linkCode=as2&tag=chamaxwoo-20)
+- [Toastmasters International](https://toastmasters.org/)
 
 1:11:02 - Employer Takeaways
 
-- [Undercover Boss](http://en.wikipedia.org/wiki/Undercover_Boss)
+- [Undercover Boss](https://en.wikipedia.org/wiki/Undercover_Boss)
 
 ### Book Club
 

@@ -12,20 +12,20 @@ tags:
   - podcast
 ---
 
-Check out [ReactRally](http://www.reactrally.com/): A community React conference in Salt Lake City, UT from August 24th-25th!
+Check out [ReactRally](https://www.reactrally.com/): A community React conference in Salt Lake City, UT from August 24th-25th!
 
 03:36 - John Sonmez Introduction
 
 - [Twitter](https://twitter.com/jsonmez)
 - [GitHub](https://github.com/jsonmez)
-- [Simple Programmer](http://simpleprogrammer.com/)
-- [The Entreprogrammers Podcast](http://entreprogrammers.com/)
-- [Soft Skills: The Software Developer's Life Manual by John Sonmez](http://www.manning.com/sonmez/)
-- [How to Market Yourself as a Software Developer](http://devcareerboost.com/) Course
+- [Simple Programmer](https://simpleprogrammer.com/)
+- [The Entreprogrammers Podcast](https://entreprogrammers.com/)
+- [Soft Skills: The Software Developer's Life Manual by John Sonmez](https://www.manning.com/sonmez/)
+- [How to Market Yourself as a Software Developer](https://devcareerboost.com/) Course
 
-04:29 - [Mastermind Groups](http://www.thesuccessalliance.com/what-is-a-mastermind-group.html)
+04:29 - [Mastermind Groups](https://www.thesuccessalliance.com/what-is-a-mastermind-group.html)
 
-- [Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century by Napoleon Hill](http://www.amazon.com/gp/product/1585424331/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1585424331&linkCode=as2&tag=chamaxwoo-20&linkId=GO4CEFKV6P7J7FT2)
+- [Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century by Napoleon Hill](https://www.amazon.com/gp/product/1585424331/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1585424331&linkCode=as2&tag=chamaxwoo-20&linkId=GO4CEFKV6P7J7FT2)
 
 05:53 - “Soft Skills”
 
@@ -41,33 +41,33 @@ Check out [ReactRally](http://www.reactrally.com/): A community React conference
 
 14:14 - Promotion (Managerial) Paths
 
-- [The Peter Principle](http://en.wikipedia.org/wiki/Peter_Principle)
+- [The Peter Principle](https://en.wikipedia.org/wiki/Peter_Principle)
 
 17:52 - “Marketing”
 
 - Value: Give Away 90% / Charge For 10%
 - Seeming “Spammy” (Resistance to Sell)
-- [Neil Patel's Blog](http://neilpatel.com/blog/)
+- [Neil Patel's Blog](https://neilpatel.com/blog/)
 - Documentation for Yourself
   - [AJ O'Neal: How to Tweet from NodeJS](https://coolaj86.com/articles/how-to-tweet-from-nodejs.html)
 
-29:53 - [Get Up and CODE!](http://getupandcode.com/)
+29:53 - [Get Up and CODE!](https://getupandcode.com/)
 
-- [#086: Figure Skating and Software Development with Aimee Knight](http://getupandcode.com/2015/04/10/get-up-and-code-086-figure-skating-and-software-development-with-aimee-knight/)
-- [#067: Weight Loss Plan for Charles (Max Wood)](http://getupandcode.com/2014/11/28/get-code-067-weight-loss-plan-charles/)
+- [#086: Figure Skating and Software Development with Aimee Knight](https://getupandcode.com/2015/04/10/get-up-and-code-086-figure-skating-and-software-development-with-aimee-knight/)
+- [#067: Weight Loss Plan for Charles (Max Wood)](https://getupandcode.com/2014/11/28/get-code-067-weight-loss-plan-charles/)
 
 33:47 - Burnout
 
-- [Do the Work by Steven Pressfield](http://www.amazon.com/gp/product/1936719010/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936719010&linkCode=as2&tag=chamaxwoo-20&linkId=IXHI6ZECWQRSCITR)
-- [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield](http://www.amazon.com/gp/product/1936891026/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936891026&linkCode=as2&tag=chamaxwoo-20&linkId=AUFBAZJWMAKM6WCD)
+- [Do the Work by Steven Pressfield](https://www.amazon.com/gp/product/1936719010/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936719010&linkCode=as2&tag=chamaxwoo-20&linkId=IXHI6ZECWQRSCITR)
+- [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield](https://www.amazon.com/gp/product/1936891026/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936891026&linkCode=as2&tag=chamaxwoo-20&linkId=AUFBAZJWMAKM6WCD)
 - Systems and Habits (Routines)
   - Methods of Execution
 
-Get John’s [How to Market Yourself as a Software Developer](http://devcareerboost.com/) Course for \$100 off using the code **JSJABBER**
+Get John’s [How to Market Yourself as a Software Developer](https://devcareerboost.com/) Course for \$100 off using the code **JSJABBER**
 
-Comment on this episode for your chance to win one of two autographed copies of [Soft Skills: The Software Developer's Life Manual by John Sonmez](http://www.manning.com/sonmez/)Picks
+Comment on this episode for your chance to win one of two autographed copies of [Soft Skills: The Software Developer's Life Manual by John Sonmez](https://www.manning.com/sonmez/)Picks
 
-[The Recurse Center](https://www.hackerschool.com/) (Jamison)[Code Words Blog](https://codewords.recurse.com/) (Jamison)[DayZ Player Sings (And Plays Guitar) For His Life](http://steamed.kotaku.com/dayz-player-sings-and-plays-guitar-for-his-life-1693226685/+nathangrayson) (Jamison)[Demon](http://www.shigabooks.com/index.php?page=002) (Jamison)[Mastodon: Leviathan](http://www.amazon.com/gp/product/B0002N66FS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002N66FS&linkCode=as2&tag=chamaxwoo-20&linkId=XLR5QHFUIYZLO5WH) (Jamison)[Jan Van Haasteren Puzzles](http://www.amazon.com/s/ref=nb_sb_ss_i_0_10?url=search-alias%3Dtoys-and-games&field-keywords=jan%20van%20haasteren%20puzzles&sprefix=jan+van+ha%2Ctoys-and-games%2C191) (Joe)[Hobbit Tales from the Green Dragon Inn](http://www.boardgamegeek.com/boardgame/145475/hobbit-tales-green-dragon-inn) (Joe)[AngularJS-Resources](https://github.com/JonathanZWhite/AngularJS-Resources) (Aimee)[Superfeet Insoles](https://www.superfeet.com/) (Aimee)[Good Mythical Morning](https://www.youtube.com/watch?v=AEKnMoXrLoo) (AJ)[The Magic of Thinking Big by David J. Schwartz](http://www.amazon.com/gp/product/0671646788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671646788&linkCode=as2&tag=chamaxwoo-20&linkId=MINZUDYHKJ26P3O4) (Chuck)[Streak](https://www.streak.com/) (John)[The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It by Michael E. Gerber](http://www.amazon.com/gp/product/0887307280/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0887307280&linkCode=as2&tag=chamaxwoo-20&linkId=QAWTOKK3E7TFKJ4T) (John)[Influence: The Psychology of Persuasion, Revised Edition by Robert B. Cialdini](http://www.amazon.com/gp/product/006124189X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006124189X&linkCode=as2&tag=chamaxwoo-20&linkId=OXGFQNK33R62HDQX) (John)[Do the Work by Steven Pressfield](http://www.amazon.com/gp/product/1936719010/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936719010&linkCode=as2&tag=chamaxwoo-20&linkId=IXHI6ZECWQRSCITR) (John)[The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield](http://www.amazon.com/gp/product/1936891026/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936891026&linkCode=as2&tag=chamaxwoo-20&linkId=AUFBAZJWMAKM6WCD) (John)
+[The Recurse Center](https://www.hackerschool.com/) (Jamison)[Code Words Blog](https://codewords.recurse.com/) (Jamison)[DayZ Player Sings (And Plays Guitar) For His Life](https://steamed.kotaku.com/dayz-player-sings-and-plays-guitar-for-his-life-1693226685/+nathangrayson) (Jamison)[Demon](https://www.shigabooks.com/index.php?page=002) (Jamison)[Mastodon: Leviathan](https://www.amazon.com/gp/product/B0002N66FS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002N66FS&linkCode=as2&tag=chamaxwoo-20&linkId=XLR5QHFUIYZLO5WH) (Jamison)[Jan Van Haasteren Puzzles](https://www.amazon.com/s/ref=nb_sb_ss_i_0_10?url=search-alias%3Dtoys-and-games&field-keywords=jan%20van%20haasteren%20puzzles&sprefix=jan+van+ha%2Ctoys-and-games%2C191) (Joe)[Hobbit Tales from the Green Dragon Inn](https://www.boardgamegeek.com/boardgame/145475/hobbit-tales-green-dragon-inn) (Joe)[AngularJS-Resources](https://github.com/JonathanZWhite/AngularJS-Resources) (Aimee)[Superfeet Insoles](https://www.superfeet.com/) (Aimee)[Good Mythical Morning](https://www.youtube.com/watch?v=AEKnMoXrLoo) (AJ)[The Magic of Thinking Big by David J. Schwartz](https://www.amazon.com/gp/product/0671646788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671646788&linkCode=as2&tag=chamaxwoo-20&linkId=MINZUDYHKJ26P3O4) (Chuck)[Streak](https://www.streak.com/) (John)[The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It by Michael E. Gerber](https://www.amazon.com/gp/product/0887307280/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0887307280&linkCode=as2&tag=chamaxwoo-20&linkId=QAWTOKK3E7TFKJ4T) (John)[Influence: The Psychology of Persuasion, Revised Edition by Robert B. Cialdini](https://www.amazon.com/gp/product/006124189X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006124189X&linkCode=as2&tag=chamaxwoo-20&linkId=OXGFQNK33R62HDQX) (John)[Do the Work by Steven Pressfield](https://www.amazon.com/gp/product/1936719010/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936719010&linkCode=as2&tag=chamaxwoo-20&linkId=IXHI6ZECWQRSCITR) (John)[The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield](https://www.amazon.com/gp/product/1936891026/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936891026&linkCode=as2&tag=chamaxwoo-20&linkId=AUFBAZJWMAKM6WCD) (John)
 
 &nbsp;
 

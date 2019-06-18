@@ -20,18 +20,18 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/en_JS)
 - <u><a style="text-decoration: none;" href="https://github.com/josephsavona">GitHhub</a></u>
-- [<u>Blog</u>](http://josephsavona.com/)
+- [<u>Blog</u>](https://josephsavona.com/)
 
 02:49 - [<u>Facebook</u>](https://www.facebook.com/) and Open Source
 
 04:10 - [<u>GraphQL</u>](https://gist.github.com/wincent/598fa75e22bdfa44cf47#what-is-graphql) and [<u>Relay</u>](https://gist.github.com/wincent/598fa75e22bdfa44cf47#what-is-relay) Overview
 
-- “[<u>React</u>](http://facebook.github.io/react/) for Your Data” / Component-based Data Fetching
+- “[<u>React</u>](https://facebook.github.io/react/) for Your Data” / Component-based Data Fetching
 
 06:11 - Unique to React? Passing Down Through the Hierarchy
 
 - [<u>XHP</u>](https://www.facebook.com/notes/facebook-engineering/xhp-a-new-way-to-write-php/294003943919)
-- [<u>Representational State Transfer (REST)</u>](http://en.wikipedia.org/wiki/Representational_state_transfer)
+- [<u>Representational State Transfer (REST)</u>](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 10:09 - Queries
 
@@ -55,7 +55,7 @@ tags:
 
 31:50 - Data Management
 
-34:25 - [<u>Open Source</u>](http://en.wikipedia.org/wiki/Open_source)
+34:25 - [<u>Open Source</u>](https://en.wikipedia.org/wiki/Open_source)
 
 36:40 - Reflecting Backend Constraints? (Optimizing the Backend)
 
@@ -63,7 +63,7 @@ tags:
 
 46:24 - Security
 
-47:16 - Replacing [<u>REST</u>](http://en.wikipedia.org/wiki/Representational_state_transfer) (Adopting New Technology)
+47:16 - Replacing [<u>REST</u>](https://en.wikipedia.org/wiki/Representational_state_transfer) (Adopting New Technology)
 
 - “The Progressive Disclosure of Complexity”
 
@@ -72,7 +72,7 @@ tags:
 - Games
   Picks
 
-[<u>Another Eternity by Purity Ring</u>](https://itunes.apple.com/us/album/another-eternity/id953409287) (Jamison)[<u>JT Olds: What riding a unicycle can teach us about microaggressions</u>](http://www.jtolds.com/newsletter/2015/3/9/losing-a-wheel-but-gaining-perspective-gender-imbalance-sucks) (Jamison)[<u>OCReMix</u>](http://ocremix.org/) (AJ)[<u>Duet Display</u>](http://www.duetdisplay.com/) (Chuck)[<u>Summoners War</u>](https://itunes.apple.com/us/app/summoners-war/id852912420?mt=8) (Chuck)[<u>Thinking, Fast and Slow by Daniel Kahneman</u>](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) (Joe) Learning a new language (Joe)[<u>Other People: What Kind of Man (Nicolas Jaar remix) - Florence &amp; the Machine</u>](https://soundcloud.com/otherpeoplerecords/what-kind-of-man-nicolas-jaar-remix-florence-the-machine) (Nick)[<u>Boosted Boards</u>](http://boostedboards.com/) (Nick)[<u>The Onion: Succession Of Terrible Events Fails To Befall 33-Year-Old Riding Longboard To Digital Media Job</u>](http://www.theonion.com/articles/succession-of-terrible-events-fails-to-befall-33ye,27597/) (Nick)
+[<u>Another Eternity by Purity Ring</u>](https://itunes.apple.com/us/album/another-eternity/id953409287) (Jamison)[<u>JT Olds: What riding a unicycle can teach us about microaggressions</u>](https://www.jtolds.com/newsletter/2015/3/9/losing-a-wheel-but-gaining-perspective-gender-imbalance-sucks) (Jamison)[<u>OCReMix</u>](https://ocremix.org/) (AJ)[<u>Duet Display</u>](https://www.duetdisplay.com/) (Chuck)[<u>Summoners War</u>](https://itunes.apple.com/us/app/summoners-war/id852912420?mt=8) (Chuck)[<u>Thinking, Fast and Slow by Daniel Kahneman</u>](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) (Joe) Learning a new language (Joe)[<u>Other People: What Kind of Man (Nicolas Jaar remix) - Florence &amp; the Machine</u>](https://soundcloud.com/otherpeoplerecords/what-kind-of-man-nicolas-jaar-remix-florence-the-machine) (Nick)[<u>Boosted Boards</u>](https://boostedboards.com/) (Nick)[<u>The Onion: Succession Of Terrible Events Fails To Befall 33-Year-Old Riding Longboard To Digital Media Job</u>](https://www.theonion.com/articles/succession-of-terrible-events-fails-to-befall-33ye,27597/) (Nick)
 
 ### Transcript
 

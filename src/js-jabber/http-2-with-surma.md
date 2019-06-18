@@ -30,6 +30,6 @@ Compressing everything in one big bundle is definitely an anti-pattern. It's lit
 
 ## Picks:
 
-Aimee: Flexbox Game and International JavaScript Conference Joe: [Guardians of the Galaxy 2](http://www.imdb.com/title/tt3896198/)Charles: Major Love Language Test, [Bluetick.io](https://bluetick.io/), and &nbsp;[Diablo III&nbsp;](https://us.battle.net/d3/en/)Surma: JavaScript modules and Sentorio
+Aimee: Flexbox Game and International JavaScript Conference Joe: [Guardians of the Galaxy 2](https://www.imdb.com/title/tt3896198/)Charles: Major Love Language Test, [Bluetick.io](https://bluetick.io/), and &nbsp;[Diablo III&nbsp;](https://us.battle.net/d3/en/)Surma: JavaScript modules and Sentorio
 
 ### Transcript

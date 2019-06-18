@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-The recording for this episode took place on February 18th, 2016 at the [<u>NG-NL</u>](http://ng-nl.org/) conference in Amsterdam.
+The recording for this episode took place on February 18th, 2016 at the [<u>NG-NL</u>](https://ng-nl.org/) conference in Amsterdam.
 
 &nbsp;
 

@@ -45,16 +45,16 @@ In this episode, the Adventures in Angular panel talks to Neil Brown about learn
 - You need a lot of practice
 - Helps to have spaced practice
 - The best way to learn
-- [_Ten quick tips for teaching programming_ by Neil Brown](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)
+- [_Ten quick tips for teaching programming_ by Neil Brown](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)
 - And much, much more!
 
 **Links:**
 
 - [Ruby Rogues Episode 257](https://devchat.tv/ruby-rogues/257-rr-learning-and-training-with-neil-brown/)
 - [_Pragmatic Thinking and Learning_ by Andy Hunt](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)
-- [_Ten quick tips for teaching programming_ by Neil Brown](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)
+- [_Ten quick tips for teaching programming_ by Neil Brown](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)
 - [@neilccbrown](https://twitter.com/neilccbrown)
-- [Neil’s Website](http://www.twistedsquare.com/)
+- [Neil’s Website](https://www.twistedsquare.com/)
 
 **Sponsors**
 

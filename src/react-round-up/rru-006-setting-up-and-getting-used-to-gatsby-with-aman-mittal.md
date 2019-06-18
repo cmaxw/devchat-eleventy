@@ -60,7 +60,7 @@ In this episode of React Round Up, the panel discuss setting up and getting used
 - [Aman’s GitHub](https://github.com/amandeepmittal)
 - [Aman’s Medium](https://medium.com/@amanhimself)
 - [@Amanhimself](https://twitter.com/amanhimself?lang=en)
-- [Readingbooks.blog](http://readingbooks.blog/)
+- [Readingbooks.blog](https://readingbooks.blog/)
 
 **Picks:**
 

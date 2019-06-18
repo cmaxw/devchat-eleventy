@@ -5,7 +5,7 @@ title: >
 date: 2019-01-22 11:00:09
 episode_number: 035
 duration: 59:09
-audio_url: http://media.devchat.tv/elixir-mix/EMx_035_Adopting_Elixir_with_Tiago_Duarte.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_035_Adopting_Elixir_with_Tiago_Duarte.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## Sponsors
 
-- [Sentry](http://sentry.io)&nbsp;use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io)&nbsp;use the code "devchat" for $100 credit
 - [TripleByte](https://triplebyte.com/elixir)
 
 ### **Panel**
@@ -45,7 +45,7 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/? __tn__ =%2Cd%2
  **Charles Max Wood:**
 - Go to [https://github.com/cmaxw/devchat-eleventy](https://github.com/cmaxw/devchat-eleventy) and send him a poll request with 5 episodes tagged that you’ve listened to in exchange for 1 hour of coaching. 
 **Josh Adams:**
-- [Dotsies.org](http://dotsies.org/)
+- [Dotsies.org](https://dotsies.org/)
 **Mark Ericson:**
 - “Because inheritance exposes a subclass to details of its parent’s implementation, it’s often said that inheritance breaks encapsulation.” from _The Gang of Four Design Patterns_
 **Tiago Duarte:**

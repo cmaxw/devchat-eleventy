@@ -42,7 +42,7 @@ tags:
 - [Wix](https://www.wix.com/)
 - [Framework Summit&nbsp;](https://www.frameworksummit.com/)
 - [@iamMerrick](https://twitter.com/iammerrick?lang=en)
-- [MerrickChristensen.com](http://merrickchristensen.com/)
+- [MerrickChristensen.com](https://merrickchristensen.com/)
   **Picks:** Merrick
 - [Sho Baraka](https://itunes.apple.com/us/artist/sho-baraka/260213661)
 - [Grid Critters](https://gridcritters.com/p/gridcritters)

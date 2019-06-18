@@ -15,12 +15,12 @@ tags:
 1:25 - Introducing Travis Tidwell
 
 - [Form.io](https://form.io/)
-- [Blog](http://travistidwell.com/)
+- [Blog](https://travistidwell.com/)
 - [Twitter](https://twitter.com/softwaregnome)
 - [Github](https://github.com/travist)
   2:35 - What’s a form and why would you build one?8:30 - Making changes to API-driven forms
-- [Swagger](http://swagger.io/)
-  13:50 - Forms and [GraphQL](http://graphql.org/)15:10 - Working with conditions 16:55 - Serverless applications 24:20 - Microservices, actions, and web hooks 29:15 - Are all PWA’s serverless?31:10 - Building apps API-first instead of mobile-first36:00- The user experience and the API-first approach 38:10 - The inspection example42:50 - Rendering widgets using Angular
+- [Swagger](https://swagger.io/)
+  13:50 - Forms and [GraphQL](https://graphql.org/)15:10 - Working with conditions 16:55 - Serverless applications 24:20 - Microservices, actions, and web hooks 29:15 - Are all PWA’s serverless?31:10 - Building apps API-first instead of mobile-first36:00- The user experience and the API-first approach 38:10 - The inspection example42:50 - Rendering widgets using Angular
 - [https://github.com/formio/ng2-formio](https://github.com/formio/ng2-formio)
   46:50 - Teaching the “why” and the “how”
 
@@ -32,9 +32,9 @@ tags:
   - [046 - Prepping for NG2](https://devchat.tv/adv-in-angular/046-aia-preparing-for-ng2-with-shai-reznik)
   - [040 - ng-wat](https://devchat.tv/adv-in-angular/040-aia-ng-wat-with-shai-reznik)
 - [_Objects of Desire: Design and Society since 1750_ by Adrian Forty](https://www.amazon.com/Objects-Desire-Design-Society-Since/dp/0500274126) (Ward)
-- [Moleskine notebooks](http://www.moleskine.com/us/) (Charles)
+- [Moleskine notebooks](https://www.moleskine.com/us/) (Charles)
 - [Asana](https://asana.com/) (Charles)
-- [_Westworld_](http://www.imdb.com/title/tt0475784/) (Travis)
+- [_Westworld_](https://www.imdb.com/title/tt0475784/) (Travis)
   &nbsp;
 
 ### Transcript

@@ -15,7 +15,7 @@ tags:
 00:52 - Marcus Blankenship Introduction
 
 - [Twitter](https://twitter.com/justzeros)
-- [Blog](http://marcusblankenship.com/list/)
+- [Blog](https://marcusblankenship.com/list/)
 
 01:38 - Moving Towards Management
 
@@ -40,7 +40,7 @@ tags:
 - “Self-Managing Individuals”
   48:26 - Checking In and Setting MilestonesPicks
 
-[Drip](https://www.getdrip.com/) (Jonathan)[100 Percent Up Front](https://expensiveproblem.com/100) (Jonathan)[Peopleware: Productive Projects and Teams by Tom DeMarco](http://www.amazon.com/gp/product/0321934113/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321934113&linkCode=as2&tag=chamaxwoo-20&linkId=32GVTLUDBS2WYHK3) (Reuven)[MONEY Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins](http://www.amazon.com/gp/product/1476757801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476757801&linkCode=as2&tag=chamaxwoo-20&linkId=YK26LKS42B2OOZTO) (Chuck)[Rush Revere and the Brave Pilgrims: Time-Travel Adventures with Exceptional Americans by Rush Limbaugh](http://www.amazon.com/gp/product/1476755868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476755868&linkCode=as2&tag=chamaxwoo-20&linkId=AB6TLRCBNOECQBTQ) (Chuck)[Behind Closed Doors: Secrets of Great Management by Johanna Rothman and Esther Derby](http://www.amazon.com/gp/product/B00A4OA6UQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A4OA6UQ&linkCode=as2&tag=chamaxwoo-20&linkId=NE62PAZFJG26TZJH) (Marcus)[The Trusted Advisor by David H. Maister](http://www.amazon.com/gp/product/0743212347/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0743212347&linkCode=as2&tag=chamaxwoo-20&linkId=ZYE4QQGJT2IZHJRH) (Marcus)
+[Drip](https://www.getdrip.com/) (Jonathan)[100 Percent Up Front](https://expensiveproblem.com/100) (Jonathan)[Peopleware: Productive Projects and Teams by Tom DeMarco](https://www.amazon.com/gp/product/0321934113/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321934113&linkCode=as2&tag=chamaxwoo-20&linkId=32GVTLUDBS2WYHK3) (Reuven)[MONEY Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins](https://www.amazon.com/gp/product/1476757801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476757801&linkCode=as2&tag=chamaxwoo-20&linkId=YK26LKS42B2OOZTO) (Chuck)[Rush Revere and the Brave Pilgrims: Time-Travel Adventures with Exceptional Americans by Rush Limbaugh](https://www.amazon.com/gp/product/1476755868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476755868&linkCode=as2&tag=chamaxwoo-20&linkId=AB6TLRCBNOECQBTQ) (Chuck)[Behind Closed Doors: Secrets of Great Management by Johanna Rothman and Esther Derby](https://www.amazon.com/gp/product/B00A4OA6UQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A4OA6UQ&linkCode=as2&tag=chamaxwoo-20&linkId=NE62PAZFJG26TZJH) (Marcus)[The Trusted Advisor by David H. Maister](https://www.amazon.com/gp/product/0743212347/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0743212347&linkCode=as2&tag=chamaxwoo-20&linkId=ZYE4QQGJT2IZHJRH) (Marcus)
 
 ### Transcript
 

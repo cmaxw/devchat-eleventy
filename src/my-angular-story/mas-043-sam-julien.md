@@ -44,7 +44,7 @@ This week on My Angular Story, Charles speaks with Sam Julien. Sam’s course [U
 - Are there contributions to the community that you are really proud of?
 - Writing for [Scotch.io](https://scotch.io/@samjulien) and [Telerik](https://www.telerik.com/blogs/author/sam-julien)
 - Runs [Angular Portland groups](https://www.meetup.com/ngpdxers/)
-- Talking at [Angular Denver](http://angulardenver.com/) and [AngularMix](https://angularmix.com/#!/)
+- Talking at [Angular Denver](https://angulardenver.com/) and [AngularMix](https://angularmix.com/#!/)
 - What made you want to make your course?
 - And much, much more!
 
@@ -60,10 +60,10 @@ This week on My Angular Story, Charles speaks with Sam Julien. Sam’s course [U
 - [Sam’s Scotch.io page](https://scotch.io/@samjulien)
 - [Sam’s Telerik blog](https://www.telerik.com/blogs/author/sam-julien)
 - [Angular Portland groups](https://www.meetup.com/ngpdxers/)
-- [Angular Denver](http://angulardenver.com/)
+- [Angular Denver](https://angulardenver.com/)
 - [AngularMix](https://angularmix.com/#!/)
 - [@samjulien](https://twitter.com/samjulien?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [samjulien.com](http://www.samjulien.com/)
+- [samjulien.com](https://www.samjulien.com/)
 - [Sam’s GitHub](https://github.com/samjulien)
 
 **Sponsors:**

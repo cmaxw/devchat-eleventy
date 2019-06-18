@@ -32,7 +32,7 @@ In this episode, the Adventures in Angular panel talks about what Ward is doing 
 - Taking lead on a new project
 - [ngRx data](https://github.com/johnpapa/angular-ngrx-data)
 - [Redux](https://redux.js.org/) and [RxJS](https://github.com/ReactiveX/rxjs)
-- His company makes [Breeze](http://breeze.github.io/doc-js/)
+- His company makes [Breeze](https://breeze.github.io/doc-js/)
 - Needed an enrollment app
 - Didn’t want to use Breeze, they wanted him to use reactive programming
 - Needed the application to be as simple as possible
@@ -58,7 +58,7 @@ In this episode, the Adventures in Angular panel talks about what Ward is doing 
 - [ngRx data](https://github.com/johnpapa/angular-ngrx-data)
 - [Redux](https://redux.js.org/)
 - [RxJS](https://github.com/ReactiveX/rxjs)
-- [Breeze](http://breeze.github.io/doc-js/)
+- [Breeze](https://breeze.github.io/doc-js/)
 - [React State Museum](https://github.com/GantMan/ReactStateMuseum)
 
 **Sponsors**

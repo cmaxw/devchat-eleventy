@@ -91,7 +91,7 @@ This week on My Angular Story, Charles speaks with [Bonnie Brennan](https://deve
 Charles
 
 - [Sasqwatch is Real](https://www.youtube.com/watch?v=wbcJfg-d5nI)
-- [New Show – The DevRev](http://thedevrev.com)
+- [New Show – The DevRev](https://thedevrev.com)
 - [DevChat.Tv](https://devchat.tv)
 
 Bonnie

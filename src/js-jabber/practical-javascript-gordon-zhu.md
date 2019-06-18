@@ -34,10 +34,10 @@ Gordon allows his students to learn incrementally. He usually starts be giving t
 
 ## Picks:
 
-Joe: escape rooms in Utah Cory: quote from friend: “Software maintenance is not like keep it working like before; it's keeping useful in a changing world.” Charles: [Microsoft Build Developer Conf](https://build.microsoft.com/), [Podcast Movement in August](http://podcastmovement.com/), YouTube videos Gordon: 10 Things I Have Learned by Milton Glaser
+Joe: escape rooms in Utah Cory: quote from friend: “Software maintenance is not like keep it working like before; it's keeping useful in a changing world.” Charles: [Microsoft Build Developer Conf](https://build.microsoft.com/), [Podcast Movement in August](https://podcastmovement.com/), YouTube videos Gordon: 10 Things I Have Learned by Milton Glaser
 
 ## Episode Links:
 
-[Practical Javascript](http://practicaljavascript.net)[Watch and Code](http://watchandcode.com)
+[Practical Javascript](https://practicaljavascript.net)[Watch and Code](https://watchandcode.com)
 
 ### Transcript

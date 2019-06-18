@@ -15,8 +15,8 @@ tags:
 01:10 -&nbsp;[Bryan Helmkamp](https://github.com/brynary)&nbsp;Introduction
 
 - [Code Climate](https://codeclimate.com/about)
-- [NYCRB](http://www.meetup.com/NYC-rb/) Meet ups
-- [GoRuCo](http://goruco.com/)
+- [NYCRB](https://www.meetup.com/NYC-rb/) Meet ups
+- [GoRuCo](https://goruco.com/)
   02:54 - Code Metrics
 - Code Coverage
 - Static Analysis
@@ -26,58 +26,58 @@ tags:
   09:14 - Ruby Rogues Issues with Metrics
 - [James' example from Code Climate](https://skitch.com/jeg2/g94bp/interestmailer-from-subinterest-code-climate)
 - Parse Tree
-- [Flay](http://rubygems.org/gems/flay)
+- [Flay](https://rubygems.org/gems/flay)
 - [Code Climate](https://codeclimate.com/)
 - Reductio ad absurdum
 - Chafe (too DRY)
 - Premature optimization
-  13:27 -&nbsp;[David Chelimsky's RubyConf Talk](http://www.confreaks.com/videos/434-rubyconf2010-maintaining-balance-while-reducing-duplication)14:18 - Duplication in Controllers
+  13:27 -&nbsp;[David Chelimsky's RubyConf Talk](https://www.confreaks.com/videos/434-rubyconf2010-maintaining-balance-while-reducing-duplication)14:18 - Duplication in Controllers
 - Rails' Scaffolding
   17:03 - Code Complexity vs Duplication
 - Example: Code Climate
-- [Flog](http://rubygems.org/gems/flog)
+- [Flog](https://rubygems.org/gems/flog)
 - [Ryan Davis](https://twitter.com/the_zenspider)
 - ABC Metric (Assignments, Branches, Conditions)
   19:17 - Aggregated Metric Examples
 - McCabe/Cyclomatic Complexity
-- [Saikuro](http://rubygems.org/gems/Saikuro)
-  20:58 - [Roodi](http://rubygems.org/gems/roodi)
+- [Saikuro](https://rubygems.org/gems/Saikuro)
+  20:58 - [Roodi](https://rubygems.org/gems/roodi)
 - "Metrics Driven Development"
   23:06 - Composition / Composed Method Pattern
 - "Is all the code in the method at the same level of abstraction?"
   26:00 - Too Many Methods / Instance Variables? 26:45 - Code Smell
-- [Reek](http://rubygems.org/gems/reek)
+- [Reek](https://rubygems.org/gems/reek)
   28:35 - Programming Style in Metrics
-- [Law of Demeter](http://en.wikipedia.org/wiki/Law_of_Demeter)
+- [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
   31:27 - Tools for Detecting Immutability Violations
-- [Pascal](<http://en.wikipedia.org/wiki/Pascal_(programming_language)>)
+- [Pascal](<https://en.wikipedia.org/wiki/Pascal_(programming_language)>)
   32:00 - Tracking Code Metrics
-- [Git Hooks](http://book.git-scm.com/5_git_hooks.html)
-- [CI (Continuous Integration)](http://en.wikipedia.org/wiki/Continuous_integration)
-- [metric_fu](http://rubygems.org/gems/metric_fu)
-- [Play by Play with Zed Shaw on Peepcode](http://peepcode.com/products/play-by-play-zed-shaw)
+- [Git Hooks](https://book.git-scm.com/5_git_hooks.html)
+- [CI (Continuous Integration)](https://en.wikipedia.org/wiki/Continuous_integration)
+- [metric_fu](https://rubygems.org/gems/metric_fu)
+- [Play by Play with Zed Shaw on Peepcode](https://peepcode.com/products/play-by-play-zed-shaw)
   35:11 - Other Metrics
 - Automation
 - CI
-- [Limited Red](http://www.limited-red.com/)
+- [Limited Red](https://www.limited-red.com/)
 - [Joseph Wilk](https://twitter.com/josephwilk)
 - Cucumber Frame
   37:20 - Measuring Test Complexity 37:56 - Test Coverage Tools
-- [SimpleCov](http://rubygems.org/gems/simplecov)
-- [CoverMe](http://rubygems.org/gems/cover_me)
+- [SimpleCov](https://rubygems.org/gems/simplecov)
+- [CoverMe](https://rubygems.org/gems/cover_me)
 - Use with:
-  - [Guard](http://rubygems.org/gems/guard)
-  - [RSpec](http://rubygems.org/gems/rspec)
+  - [Guard](https://rubygems.org/gems/guard)
+  - [RSpec](https://rubygems.org/gems/rspec)
     38:51 - Metrics Fitting Into Agile Team Process
 - Github Style
 - Retrospectives
 - Brown Bag Lunches
 - Group Refactoring Sessions
   42:00 - Downside of Metrics on a Team
-- [Git Blame](http://book.git-scm.com/5_finding_issues_-_git_blame.html)
+- [Git Blame](https://book.git-scm.com/5_finding_issues_-_git_blame.html)
 - Similar to Past: Unit Testing
 - Measuring Actual Cost of Code Problems: aka Technical Debt
-- [Sonar](http://www.sonarsource.org/)
+- [Sonar](https://www.sonarsource.org/)
   45:12 - Organizational Uptake of Metrics 48:00 - Metrics and Money 50:34 - Behavioral Metrics
 - Time Spent on Problems
 - Proportional Investment

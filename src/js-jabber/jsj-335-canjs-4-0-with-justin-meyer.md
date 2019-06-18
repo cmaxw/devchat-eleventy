@@ -14,7 +14,7 @@ tags:
 
 **Panel:**
 
-- [Aimee Knight](http://www.aimeemarieknight.com)
+- [Aimee Knight](https://www.aimeemarieknight.com)
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en) (DevChat TV)
 - [Christopher Ferdinandi (Boston)](https://2013.boston.wordcamp.org/speakers/)
 - [Joe Eames](https://twitter.com/josepheames)
@@ -173,7 +173,7 @@ _Justin continues this conversation._
 - [jQuery](https://jquery.com)
 - [React](https://reactjs.org)
 - [Elixir](https://elixir-lang.org)
-- [Elm](http://elm-lang.org)
+- [Elm](https://elm-lang.org)
 - [Vue](https://vuejs.org)
 - [Polyfill.io](https://polyfill.io/v2/docs/)
 - [Dinero.js](https://sarahdayan.github.io/dinero.js/)

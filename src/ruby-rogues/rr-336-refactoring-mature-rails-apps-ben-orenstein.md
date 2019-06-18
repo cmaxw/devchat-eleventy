@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-**Panel:** Charles Max Wood Dave Kimura Eric Berry David Richards **Special Guest:&nbsp;** David Richards In this episode, the Ruby Rogues speak with a return guest, Ben Orenstein. Ben gives an update on leaving the company he worked for&nbsp;[ThoughtBot](https://thoughtbot.com), to pursue entrepreneurial aspirations. He most recent work is a call [Refactoring Rails](http://www.refactoringrails.io/buy). Ben speaks about the work that went into creating this course and working with Rail on this type of platform. Ben dives into the course features such as testing practices, coding practices, code quality, and much more. **In particular, we dive pretty deep on:&nbsp;**
+**Panel:** Charles Max Wood Dave Kimura Eric Berry David Richards **Special Guest:&nbsp;** David Richards In this episode, the Ruby Rogues speak with a return guest, Ben Orenstein. Ben gives an update on leaving the company he worked for&nbsp;[ThoughtBot](https://thoughtbot.com), to pursue entrepreneurial aspirations. He most recent work is a call [Refactoring Rails](https://www.refactoringrails.io/buy). Ben speaks about the work that went into creating this course and working with Rail on this type of platform. Ben dives into the course features such as testing practices, coding practices, code quality, and much more. **In particular, we dive pretty deep on:&nbsp;**
 
 - What makes Rail development slow to a crawl?
 - Active record callbacks
@@ -35,12 +35,12 @@ tags:
 - [30 Day Code Quality Challenge&nbsp;](https://www.codequalitychallenge.com)
 - and much much more.
   **Links:&nbsp;**
-- [Refactoring Rails](http://www.refactoringrails.io/buy)
+- [Refactoring Rails](https://www.refactoringrails.io/buy)
 - [ThoughtBot](https://thoughtbot.com)
-- [Podcast -&nbsp; The Art Product](http://artofproductpodcast.com)
+- [Podcast -&nbsp; The Art Product](https://artofproductpodcast.com)
 - [30 Day Code Quality Challenge](https://www.codequalitychallenge.com)
 - @r00k
-- [benorenstein.com](http://benorenstein.com)
+- [benorenstein.com](https://benorenstein.com)
   **Picks:** David
 - [What Makes Us Feel Great About Our Work?](https://www.youtube.com/watch?v=5aH2Ppjpcho)
   Dave

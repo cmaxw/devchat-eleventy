@@ -12,9 +12,9 @@ tags:
   - podcast
 ---
 
-**Panel:&nbsp;** Joe Eames Alyssa Nicoll Ward Bell **Special Guests: Eric Simons and Albert Pai** In the episode of Adventures in Angular, the panel discusses StackBlitz with Eric Simons and Albert Pai. the co-founders of [thinkster.io](http://thinkster.io), where their company javascript technology’s various frameworks and backend. Also, with the recent creation of Stalkblitz, which is the main topic of today discussion. Stackblitz it an online VS Code IDE for Angular, React, Ionic, and a few more other technologies are supported. This is designed to run web pack and vs code inside your browser at blazing fast speeds. Eric and Albert dive into the many different advantages and services available by StackBlitz and [thinker.io](http://thinker.io). **In particular, we dive pretty deep on:** •Programming at 10-13 years old
+**Panel:&nbsp;** Joe Eames Alyssa Nicoll Ward Bell **Special Guests: Eric Simons and Albert Pai** In the episode of Adventures in Angular, the panel discusses StackBlitz with Eric Simons and Albert Pai. the co-founders of [thinkster.io](https://thinkster.io), where their company javascript technology’s various frameworks and backend. Also, with the recent creation of Stalkblitz, which is the main topic of today discussion. Stackblitz it an online VS Code IDE for Angular, React, Ionic, and a few more other technologies are supported. This is designed to run web pack and vs code inside your browser at blazing fast speeds. Eric and Albert dive into the many different advantages and services available by StackBlitz and [thinker.io](https://thinker.io). **In particular, we dive pretty deep on:** •Programming at 10-13 years old
 
-- Created [thinkerster.io](http://thinkerster.io) together
+- Created [thinkerster.io](https://thinkerster.io) together
 - What is Stalkblitz?
 - Local dev environments
 - Six months of work into making Stackblitz online
@@ -41,20 +41,20 @@ tags:
 - VS Docs
 - VS Code
   •and much more! **Links:&nbsp;**
-- [thinkster.io](http://thinkster.io)
+- [thinkster.io](https://thinkster.io)
 - [https://medium.com/@ericsimons/stackblitz-online-vs-code-ide-for-angular-react-7d09348497f4](https://medium.com/@ericsimons/stackblitz-online-vs-code-ide-for-angular-react-7d09348497f4)
 - @stackblitz
-- [stackblitz.com](http://stackblitz.com)
+- [stackblitz.com](https://stackblitz.com)
   **Picks:** Joe
-- [Something Rotten](http://rottenbroadway.com)
+- [Something Rotten](https://rottenbroadway.com)
 - [Dollars and Cents&nbsp;](https://www.amazon.com/Dollars-Sense-Misthink-Money-Smarter/dp/006265120X)
   Alyssa
-- N[G Atlanta&nbsp;](http://ng-atl.org)
-- [The Greatest Showman&nbsp;](http://www.imdb.com/title/tt1485796/)
+- N[G Atlanta&nbsp;](https://ng-atl.org)
+- [The Greatest Showman&nbsp;](https://www.imdb.com/title/tt1485796/)
   Ward
 - No Pick
   Eric and Albert
-- [realworld.io](http://realworld.io)
-- [thinkster.io](http://thinkster.io)
+- [realworld.io](https://realworld.io)
+- [thinkster.io](https://thinkster.io)
 
 ### Transcript

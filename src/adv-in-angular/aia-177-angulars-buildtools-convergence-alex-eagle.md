@@ -43,10 +43,10 @@ tags:
 
 **Picks:** Charles
 
-- [Developer Week](http://www.developerweek.com/)
-- [ngATL](http://ng-atl.org/)
+- [Developer Week](https://www.developerweek.com/)
+- [ngATL](https://ng-atl.org/)
   Joe
-- [The Greatest Showman](http://www.imdb.com/title/tt1485796/)
+- [The Greatest Showman](https://www.imdb.com/title/tt1485796/)
 - [Kids on Bikes&nbsp;](https://www.kickstarter.com/projects/jgilmour/kids-on-bikes-rpg-strange-adventures-in-small-town)
 -
 

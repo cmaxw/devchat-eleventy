@@ -224,7 +224,7 @@ Google Classroom and Google Calendar.
 - [jQuery](https://jquery.com)
 - [React](https://reactjs.org)
 - [Elixir](https://elixir-lang.org)
-- [Elm](http://elm-lang.org)
+- [Elm](https://elm-lang.org)
 - [Vue](https://blog.closebrace.com)
 - [ESLint](https://eslint.org)
 - [Node.js](https://nodejs.org/en/)
@@ -236,7 +236,7 @@ Google Classroom and Google Calendar.
 - [Medium Article by David Gilbertson](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 - [Hackster.io – Pi Car](https://www.hackster.io/bestd25/pi-car-016e66)
 - [Pi Moroni](https://shop.pimoroni.com/products/coretec-tiny-4wd-robot-rover)
-- [Holding a Program in One’s Head](http://paulgraham.com/head.html)
+- [Holding a Program in One’s Head](https://paulgraham.com/head.html)
 - [PJ Evans’ Twitter](https://twitter.com/mrpjevans?lang=en)
 
 **Sponsors:**
@@ -250,7 +250,7 @@ Google Classroom and Google Calendar.
 
 Aimee
 
-- [Paul Graham - Blog](http://paulgraham.com/head.html)
+- [Paul Graham - Blog](https://paulgraham.com/head.html)
 
 AJ
 

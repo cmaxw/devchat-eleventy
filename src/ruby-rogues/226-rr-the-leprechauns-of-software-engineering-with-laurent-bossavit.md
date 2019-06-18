@@ -16,13 +16,13 @@ tags:
 
 - [Twitter](https://twitter.com/Morendil)
 - [GitHub](https://github.com/Morendil)
-- [Institut Agile](http://institut-agile.fr/)
+- [Institut Agile](https://institut-agile.fr/)
 
-03:11 - [The Leprechauns of Software Engineering by Laurent Bossavit](http://www.amazon.com/gp/product/2954745509/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=2954745509&linkCode=as2&tag=chamaxwoo-20&linkId=64WVIVNTWRX5EJB5)
+03:11 - [The Leprechauns of Software Engineering by Laurent Bossavit](https://www.amazon.com/gp/product/2954745509/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=2954745509&linkCode=as2&tag=chamaxwoo-20&linkId=64WVIVNTWRX5EJB5)
 
 04:52 - The 10x Programmer
 
-- [Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve McConnell](http://www.amazon.com/gp/product/0735619670/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735619670&linkCode=as2&tag=chamaxwoo-20&linkId=VN3NXYRBKUG6NU44)
+- [Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve McConnell](https://www.amazon.com/gp/product/0735619670/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735619670&linkCode=as2&tag=chamaxwoo-20&linkId=VN3NXYRBKUG6NU44)
 
 13:07 - The Custom Defects Curve
 
@@ -32,14 +32,14 @@ tags:
 
 25:09 - Agile, Waterfall, and The Software Crisis
 
-- [Thinking, Fast and Slow by Daniel Kahneman](http://www.amazon.com/gp/product/0374533555/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=chamaxwoo-20&linkId=CZNDXRLVUHQAH6Z4)
+- [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/gp/product/0374533555/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=chamaxwoo-20&linkId=CZNDXRLVUHQAH6Z4)
 - “Bugs in the brain” = Cognitive Biases
 
 32:30 - Estimations, Calibration and Assessments
 
-- <u><a style="text-decoration: none;" href="http://www.amazon.com/gp/product/1118539273/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1118539273&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=5TDQUP5VJYNTA6VN">How to Measure Anything: Finding the Value of Intangibles in Business by Douglas W. Hubbard</a></u>
-- [Expert Political Judgment: How Good Is It? How Can We Know? by Philip E. Tetlock](http://www.amazon.com/gp/product/0691128715/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691128715&linkCode=as2&tag=chamaxwoo-20&linkId=K7NB67XJHQZA7P6T)
-- [Software Estimation: Demystifying the Black Art by Steve McConnell](http://www.amazon.com/gp/product/B00BSZT7QO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BSZT7QO&linkCode=as2&tag=chamaxwoo-20&linkId=Y5UJ6U5MVVE7UOMY)&nbsp; &nbsp;&nbsp;
+- <u><a style="text-decoration: none;" href="https://www.amazon.com/gp/product/1118539273/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1118539273&amp;linkCode=as2&amp;tag=chamaxwoo-20&amp;linkId=5TDQUP5VJYNTA6VN">How to Measure Anything: Finding the Value of Intangibles in Business by Douglas W. Hubbard</a></u>
+- [Expert Political Judgment: How Good Is It? How Can We Know? by Philip E. Tetlock](https://www.amazon.com/gp/product/0691128715/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691128715&linkCode=as2&tag=chamaxwoo-20&linkId=K7NB67XJHQZA7P6T)
+- [Software Estimation: Demystifying the Black Art by Steve McConnell](https://www.amazon.com/gp/product/B00BSZT7QO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BSZT7QO&linkCode=as2&tag=chamaxwoo-20&linkId=Y5UJ6U5MVVE7UOMY)&nbsp; &nbsp;&nbsp;
 
 38:16 - Starting Points/Research Skills for Identifying Leprechauns
 
@@ -56,7 +56,7 @@ tags:
 - [QWERTY](https://en.wikipedia.org/wiki/QWERTY) vs [Dvorak](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard)
   Picks
 
-[The Leprechauns of Software Engineering by Laurent Bossavit](http://www.amazon.com/gp/product/2954745509/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=2954745509&linkCode=as2&tag=chamaxwoo-20&linkId=64WVIVNTWRX5EJB5) (Avdi)[The Crystal Programming Language](http://crystal-lang.org/) (Avdi)[Zojirushi](http://www.zojirushi.com/) (Avdi)[The Elm Programming Language](http://elm-lang.org) (Laurent)[Smarter Every Day 133: The Backwards Brain Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0) (Laurent)[Station Eleven by Emily St. John Mandel](http://www.amazon.com/gp/product/0804172447/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804172447&linkCode=as2&tag=chamaxwoo-20&linkId=BSRDS62VQ43PNNMZ) (Laurent)[How to Measure Anything: Finding the Value of Intangibles in Business by Douglas W. Hubbard](http://www.amazon.com/gp/product/1118539273/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118539273&linkCode=as2&tag=chamaxwoo-20&linkId=5TDQUP5VJYNTA6VN) (Jessica)
+[The Leprechauns of Software Engineering by Laurent Bossavit](https://www.amazon.com/gp/product/2954745509/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=2954745509&linkCode=as2&tag=chamaxwoo-20&linkId=64WVIVNTWRX5EJB5) (Avdi)[The Crystal Programming Language](https://crystal-lang.org/) (Avdi)[Zojirushi](https://www.zojirushi.com/) (Avdi)[The Elm Programming Language](https://elm-lang.org) (Laurent)[Smarter Every Day 133: The Backwards Brain Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0) (Laurent)[Station Eleven by Emily St. John Mandel](https://www.amazon.com/gp/product/0804172447/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804172447&linkCode=as2&tag=chamaxwoo-20&linkId=BSRDS62VQ43PNNMZ) (Laurent)[How to Measure Anything: Finding the Value of Intangibles in Business by Douglas W. Hubbard](https://www.amazon.com/gp/product/1118539273/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118539273&linkCode=as2&tag=chamaxwoo-20&linkId=5TDQUP5VJYNTA6VN) (Jessica)
 
 ### Transcript
 

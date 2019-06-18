@@ -19,12 +19,12 @@ tags:
   22:56 - Content Upgrades
 - [Philip Morgan: A Minimum Viable Funnel (MVF)](https://philipmorganconsulting.com/a-minimum-viable-funnel-mvf/)
   29:53 - Pitches32:28 - If/When Property Becomes Public
-- [This American Life #427: Original Recipe](http://www.thisamericanlife.org/radio-archives/episode/427/original-recipe)
+- [This American Life #427: Original Recipe](https://www.thisamericanlife.org/radio-archives/episode/427/original-recipe)
   36:10 - Year-end Reports&nbsp; Picks
-- [KingSumo](http://kingsumo.com/) (Reuven)
+- [KingSumo](https://kingsumo.com/) (Reuven)
 - [Google Keep](https://keep.google.com/) (Jonathan)
-- [Jonathan Stark: How To Write Proposals That Close Without Lowering Your Prices](http://ccst.io/e/jstark3) (Jonathan)
-- [Lead Generation Trust Velocity](http://trustvelocity.com) (Philip)
+- [Jonathan Stark: How To Write Proposals That Close Without Lowering Your Prices](https://ccst.io/e/jstark3) (Jonathan)
+- [Lead Generation Trust Velocity](https://trustvelocity.com) (Philip)
 - [SendOwl](https://www.sendowl.com/) (Philip)
 - [Heap Analytics](https://heapanalytics.com) (Philip)
 - [The Primal Blueprint](https://www.primalblueprint.com/) (Chuck)

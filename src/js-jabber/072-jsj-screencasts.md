@@ -14,55 +14,55 @@ tags:
 
 ### Panel
 
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:31 - Screencasting Experience
 
-- [Pluralsight: AngularJS Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) - Joe
-- [Pluralsight: jQuery Advanced Topics](http://pluralsight.com/training/Courses/TableOfContents/jquery-adv) - Joe
-- [Pluralsight: Testing Clientside JavaScript](http://pluralsight.com/training/Courses/TableOfContents/testing-javascript) - Joe
-- [Teach Me To Code](http://teachmetocode.com/) - Chuck
+- [Pluralsight: AngularJS Fundamentals](https://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) - Joe
+- [Pluralsight: jQuery Advanced Topics](https://pluralsight.com/training/Courses/TableOfContents/jquery-adv) - Joe
+- [Pluralsight: Testing Clientside JavaScript](https://pluralsight.com/training/Courses/TableOfContents/testing-javascript) - Joe
+- [Teach Me To Code](https://teachmetocode.com/) - Chuck
   02:44 - Getting into Screencasting 06:16 - Screencasting and JavaScript Jabber
 - Sharing Knowledge
-- [RailsCasts](http://railscasts.com/) (Ruby)
-- [NSScreencast](http://nsscreencast.com/) (iOS)
+- [RailsCasts](https://railscasts.com/) (Ruby)
+- [NSScreencast](https://nsscreencast.com/) (iOS)
   09:45 - JavaScript Screencasts
-- [Embercasts](http://www.embercasts.com/)
-- [egghead.io](http://www.egghead.io/) (Angular)
-- [PeepCode](http://peepcode.com/)
-- [YouTube](http://www.youtube.com/)
+- [Embercasts](https://www.embercasts.com/)
+- [egghead.io](https://www.egghead.io/) (Angular)
+- [PeepCode](https://peepcode.com/)
+- [YouTube](https://www.youtube.com/)
   10:54 - Conference Talks vs Screencasts 14:34 - Blog Posts vs Screencasts 17:58 - Recording Screencasts (Tools)
-- [Camtasia](http://www.techsmith.com/camtasia.html)
+- [Camtasia](https://www.techsmith.com/camtasia.html)
 - [ScreenFlow](https://itunes.apple.com/us/app/screenflow-4/id573279886?mt=12)
-- [Jing](http://www.techsmith.com/jing.html)
+- [Jing](https://www.techsmith.com/jing.html)
   22:59 - Voiceovers vs Typing and Talking 26:17 - Audio Quality
-- [Blue Snowball](http://www.amazon.com/gp/product/B000EOPQ7E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EOPQ7E&linkCode=as2&tag=chamaxwoo-20)
-- [Blue Yeti](http://www.amazon.com/gp/product/B002VA464S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002VA464S&linkCode=as2&tag=chamaxwoo-20)
-- [Shure SM58](http://www.amazon.com/gp/product/B000CZ0R42/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000CZ0R42&linkCode=as2&tag=chamaxwoo-20)
+- [Blue Snowball](https://www.amazon.com/gp/product/B000EOPQ7E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EOPQ7E&linkCode=as2&tag=chamaxwoo-20)
+- [Blue Yeti](https://www.amazon.com/gp/product/B002VA464S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002VA464S&linkCode=as2&tag=chamaxwoo-20)
+- [Shure SM58](https://www.amazon.com/gp/product/B000CZ0R42/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000CZ0R42&linkCode=as2&tag=chamaxwoo-20)
   28:53 - Editing Software
-- [Adobe Premier Pro](http://www.adobe.com/products/premiere)
-- [Final Cut Pro](http://www.apple.com/finalcutpro/)
-- [Video Hive](http://videohive.net/?ref=woody2shoes)
+- [Adobe Premier Pro](https://www.adobe.com/products/premiere)
+- [Final Cut Pro](https://www.apple.com/finalcutpro/)
+- [Video Hive](https://videohive.net/?ref=woody2shoes)
   33:27 - Preparing for Screencasts
 - Large Font
 - Closed-Captioning
   40:23 - Videos of Yourself with Screencasts
-- [Wistia](http://wistia.com/)
+- [Wistia](https://wistia.com/)
 - Transcripts
 
 ### Picks
 
-- [RequireBin](http://requirebin.com/?gist=6101383) (Jamison)
-- [The International - Dota 2 Championships](http://www.dota2.com/international/home/overview/) (Jamison)
-- [That Conference](http://www.thatconference.com/) (Joe)
-- [Seraphina by Rachel Hartman](http://www.amazon.com/gp/product/0375866566/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0375866566&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [ng-conf](http://www.ng-conf.org/) (Joe)
-- [Video Hive](http://videohive.net/?ref=woody2shoes) (Chuck)
-- [LessAccounting](http://lessaccounting.com/) (Chuck)
+- [RequireBin](https://requirebin.com/?gist=6101383) (Jamison)
+- [The International - Dota 2 Championships](https://www.dota2.com/international/home/overview/) (Jamison)
+- [That Conference](https://www.thatconference.com/) (Joe)
+- [Seraphina by Rachel Hartman](https://www.amazon.com/gp/product/0375866566/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0375866566&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [ng-conf](https://www.ng-conf.org/) (Joe)
+- [Video Hive](https://videohive.net/?ref=woody2shoes) (Chuck)
+- [LessAccounting](https://lessaccounting.com/) (Chuck)
 
 ### Next Week
 

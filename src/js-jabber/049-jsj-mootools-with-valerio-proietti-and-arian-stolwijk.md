@@ -15,22 +15,22 @@ tags:
 ### Panel
 
 - Valerio Proietti ([twitter](https://twitter.com/kamicane) [github](https://github.com/kamicane))
-- Arian Stolwijk ([twitter](https://twitter.com/astolwijk) [github](https://github.com/arian) [blog](http://www.aryweb.nl/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
+- Arian Stolwijk ([twitter](https://twitter.com/astolwijk) [github](https://github.com/arian) [blog](https://www.aryweb.nl/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:08 - Arian Stolwijk Introduction
 
 - MooTools Developer
-- [Symbaloo](http://www.symbaloo.com/)
+- [Symbaloo](https://www.symbaloo.com/)
   01:39 - Valerio Proietti Introduction
 - MooTools Creator
 - [Spotify](https://www.spotify.com/)
-  02:21 - What is [MooTools](http://mootools.net/)?
+  02:21 - What is [MooTools](https://mootools.net/)?
 - [Github - MooTools](https://github.com/mootools/)
   07:04 - The Class System
 - [mootools / prime](https://github.com/mootools/prime)
@@ -38,44 +38,44 @@ tags:
 - Ghost
   11:19 - [Prime](https://github.com/mootools/prime)
 - [mootools / wrapup](https://github.com/mootools/wrapup)
-- [CommonJS](http://www.commonjs.org/)
-  14:18 - MooTools vs [jQuery](http://jquery.com/) 19:53 - Using MooTools and jQuery together
-- [Object Oriented jQuery with MooTools @jQuery Conference: Ryan Florence](http://mootools.net/blog/2010/04/27/object-oriented-jquery-with-mootools-jquery-conference/)
+- [CommonJS](https://www.commonjs.org/)
+  14:18 - MooTools vs [jQuery](https://jquery.com/) 19:53 - Using MooTools and jQuery together
+- [Object Oriented jQuery with MooTools @jQuery Conference: Ryan Florence](https://mootools.net/blog/2010/04/27/object-oriented-jquery-with-mootools-jquery-conference/)
   21:08 - MooTools for Frameworks
 - [epitome](https://github.com/DimitarChristoff/Epitome)
 - [neuro](https://github.com/GCheung55/Neuro)
 - [Github - MooTools](https://github.com/mootools/)
   23:48 - Chaining
-- [MooTools Demos - Chaining](http://mootools.net/demos/?demo=Chaining#)
+- [MooTools Demos - Chaining](https://mootools.net/demos/?demo=Chaining#)
   26:59 - Request API for Ajax calls 29:11 - Favorite MooTools-using Websites
 - [Spotify](https://www.spotify.com/)
-- [9GAG](http://www.9gag.com/)
+- [9GAG](https://www.9gag.com/)
   29:45 - Accomplishments
 - Class System
 - [wrapup](https://github.com/mootools/wrapup)
 - [arian / prime-util](https://github.com/arian/prime-util)
   31:36 - The history of MooTools
-- [script.aculo.us](http://script.aculo.us/)
-- [moo.fx](http://moofx.mad4milk.net/)
+- [script.aculo.us](https://script.aculo.us/)
+- [moo.fx](https://moofx.mad4milk.net/)
 
 ### Picks
 
-- [Wasteland 2](http://en.wikipedia.org/wiki/Wasteland_2) (Joe)
-- [The Lost Fleet Series by Jack Campbell](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=lost%20fleet%20series) (Joe)
-- [MooTools](http://mootools.net/) (Merrick)
+- [Wasteland 2](https://en.wikipedia.org/wiki/Wasteland_2) (Joe)
+- [The Lost Fleet Series by Jack Campbell](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=lost%20fleet%20series) (Joe)
+- [MooTools](https://mootools.net/) (Merrick)
 - People who can ride on airplanes for the first time (Merrick)
-- [ES6 Module Transpiler - Tomorrow's JavaScript module syntax today](http://corner.squareup.com/2013/02/es6-module-transpiler.html) (Jamison)
+- [ES6 Module Transpiler - Tomorrow's JavaScript module syntax today](https://corner.squareup.com/2013/02/es6-module-transpiler.html) (Jamison)
 - [ajacksified / song-of-github](https://github.com/ajacksified/song-of-github) (Jamison)
-- [Community Vote for OpenWest Conference 2013](http://www.openwest.org/vote/) (Jamison)
+- [Community Vote for OpenWest Conference 2013](https://www.openwest.org/vote/) (Jamison)
 - [walmartlabs / hapi](https://github.com/walmartlabs/hapi) (Jamison)
-- [Cornify](http://www.cornify.com/) (Chuck)
-- [Parade of Homes](http://paradehomes.com/) (Chuck)
-- [Dave Ramsey's Financial Peace University](http://daveramsey.com/fpu) (Chuck)
+- [Cornify](https://www.cornify.com/) (Chuck)
+- [Parade of Homes](https://paradehomes.com/) (Chuck)
+- [Dave Ramsey's Financial Peace University](https://daveramsey.com/fpu) (Chuck)
 - [Floby / node-libspotify](https://github.com/Floby/node-libspotify) (Valerio)
 - [visionmedia / superagent](https://github.com/visionmedia/superagent) (Valerio)
 - [kamicane / moofx](https://github.com/kamicane/moofx) (Valerio)
 - [Why Mozilla Matters: Brendan Eich](https://brendaneich.com/2013/02/why-mozilla-matters/) (Arian)
-- [Ubuntu (source code)](http://archive.ubuntu.com/) (Arian)
+- [Ubuntu (source code)](https://archive.ubuntu.com/) (Arian)
 
 ### Next Week
 

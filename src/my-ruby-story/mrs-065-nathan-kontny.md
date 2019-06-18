@@ -115,8 +115,8 @@ Ownership is everything – once you don’t own it – you loose that control. 
 
 **Sponsors:**
 
-- [Code Badges](http://codebadge.org/)
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Code Badges](https://codebadge.org/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**

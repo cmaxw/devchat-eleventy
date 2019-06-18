@@ -237,7 +237,7 @@ You have C3 – what’s your opinion on C3?
 
 56:35 – Panel: Let’s go to Picks!
 
-56:40 – [Advertisement – Code Badges](http://codebadge.org/)
+56:40 – [Advertisement – Code Badges](https://codebadge.org/)
 
 **Links:**
 
@@ -245,7 +245,7 @@ You have C3 – what’s your opinion on C3?
 - [Ruby on Rails](https://rubyonrails.org)
 - [Angular](https://www.upwork.com/ppc/landing/?ct=Programmers&gclid=EAIaIQobChMIuK2B156s3QIVRtbACh0u7wcBEAAYAiAAEgK66_D_BwE&hl=Top%2520Rated%2520AngularJS%2520Programmers&query=AngularJS&vt_med=provenD2)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - [Notion](https://www.notion.so/0ccd3ccbb2c44de6b3c0e3dac93e0de1)
 - [Vue](https://opencollective.com/vuejs)
 - [Meltano](https://gitlab.com/meltano/meltano/)
@@ -266,7 +266,7 @@ You have C3 – what’s your opinion on C3?
 - [Hacker Noon – Finding Creativity in Software Engineer](https://hackernoon.com/finding-creativity-in-software-engineering-5f20193ae54c)
 - [Indiegogo](https://www.indiegogo.com/projects/toms-and-so-ill-shoes-to-get-kids-climbing#/)
 - [Create Awesome Vue.js Apps With...](https://school.programwitherik.com/p/create-awesome-vue-js-apps-with-nuxt-js)
-- [Data Sketches](http://www.datasketch.es)
+- [Data Sketches](https://www.datasketch.es)
 - [Vue.js in Action](https://www.amazon.com/Vue-js-Action-Eric-Hanchett/dp/1617294624)
 - [Benjamin Hardy’s Website](https://www.benjaminhardy.com)
 - [Data Intensive: Don’t Just Hack It Together](https://dataintensive.net)
@@ -280,7 +280,7 @@ You have C3 – what’s your opinion on C3?
 
 - [Kendo UI](https://www.telerik.com/kendo-angular-ui/?utm_medium=cpm&utm_source=adventuresinng&utm_campaign=dt-kendo-ang2-nov16&utm_content=audio)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**
@@ -303,7 +303,7 @@ John
 
 Divya
 
-- [Data Sketch](http://www.datasketch.es/)
+- [Data Sketch](https://www.datasketch.es/)
 - [One climb](https://www.indiegogo.com/projects/toms-and-so-ill-shoes-to-get-kids-climbing%23/)
 - [Finding Creativity in Software Engineering](https://hackernoon.com/finding-creativity-in-software-engineering-5f20193ae54c)
 

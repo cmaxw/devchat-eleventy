@@ -203,7 +203,7 @@ I run conferences we cannot even cover their travel costs. Other conferences we 
 
 The moral is that you WANT to do what you are doing.
 
-1:06:11 – [Advertisement.](http://codebadge.org/)
+1:06:11 – [Advertisement.](https://codebadge.org/)
 
 **Links:**
 
@@ -216,7 +216,7 @@ The moral is that you WANT to do what you are doing.
 
 - [Kendo UI](https://www.telerik.com/kendo-angular-ui/?utm_medium=cpm&utm_source=adventuresinng&utm_campaign=dt-kendo-ang2-nov16&utm_content=audio)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**

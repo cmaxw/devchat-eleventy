@@ -20,16 +20,16 @@ tags:
 
 **Special Guests:** Takashi Kokubun
 
-In this episode of Ruby Rogues, the panel discusses Ruby 3 with Takashi Kokubun. Takashi works for [Treasure Data](https://www.treasuredata.com/) as a layers application engineer and works with template engines such as [Haml](http://haml.info/) and [Hamlit](https://github.com/k0kubun/hamlit). They talk about JIT Compilers and the upcoming Ruby 3.0 launch and the efforts that are going in to making this launch run more smoothly. They also touch on the importance of optimizing your code and discuss the 3 by 3 challenge with the upcoming Ruby 3.0 launch.
+In this episode of Ruby Rogues, the panel discusses Ruby 3 with Takashi Kokubun. Takashi works for [Treasure Data](https://www.treasuredata.com/) as a layers application engineer and works with template engines such as [Haml](https://haml.info/) and [Hamlit](https://github.com/k0kubun/hamlit). They talk about JIT Compilers and the upcoming Ruby 3.0 launch and the efforts that are going in to making this launch run more smoothly. They also touch on the importance of optimizing your code and discuss the 3 by 3 challenge with the upcoming Ruby 3.0 launch.
 
 **In particular, we dive pretty deep on:**
 
 - Takashi intro
-- [Haml](http://haml.info/)
+- [Haml](https://haml.info/)
 - Works for [Treasure Data](https://www.treasuredata.com/)
 - What is a JCompiler?
 - [JIT Compiler](https://github.com/k0kubun/llrb)
-- [Rails](http://rubyonrails.org/)
+- [Rails](https://rubyonrails.org/)
 - Real world application performance
 - Have you done any benchmarks to see if the actual application performance has increased?
 - Need method inlining for the best application
@@ -48,9 +48,9 @@ In this episode of Ruby Rogues, the panel discusses Ruby 3 with Takashi Kokubun.
 
 **Links:**
 
-- [Haml](http://haml.info/)
+- [Haml](https://haml.info/)
 - [Treasure Data](https://www.treasuredata.com/)
-- [Rails](http://rubyonrails.org/)
+- [Rails](https://rubyonrails.org/)
 - [Hamlit](https://github.com/k0kubun/hamlit)
 - [JIT Compiler](https://github.com/k0kubun/llrb)
 - [LLVM](https://llvm.org/)
@@ -63,7 +63,7 @@ In this episode of Ruby Rogues, the panel discusses Ruby 3 with Takashi Kokubun.
 
 Eric
 
-- [_Origin_ by Dan Brown](http://danbrown.com/origin/)
+- [_Origin_ by Dan Brown](https://danbrown.com/origin/)
 - [Tunnel Bear](https://www.tunnelbear.com/)
 
 Dave

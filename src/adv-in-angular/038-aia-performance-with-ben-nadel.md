@@ -21,9 +21,9 @@ tags:
 
 - [Twitter](https://twitter.com/BenNadel)
 - [GitHub](https://github.com/bennadel)
-- [Blog](http://www.bennadel.com/)
-- [Adventures in Angular Episode 029: Angular At Work with Ben Nadel](http://devchat.tv/adventures-in-angular/029-aia-angular-at-work-with-ben-nadel)
-- [InVision](http://www.invisionapp.com/)
+- [Blog](https://www.bennadel.com/)
+- [Adventures in Angular Episode 029: Angular At Work with Ben Nadel](https://devchat.tv/adventures-in-angular/029-aia-angular-at-work-with-ben-nadel)
+- [InVision](https://www.invisionapp.com/)
   - [@InVisionApp](https://twitter.com/InVisionApp)
 
 04:47 - Performance
@@ -35,7 +35,7 @@ tags:
 10:01 - Fixing Performance Problems as a Team
 
 - Engineering Validation
-- _“Premature optimization is the root of all evil --_ [Donald Knuth](http://c2.com/cgi/wiki?DonKnuth)_”_
+- _“Premature optimization is the root of all evil --_ [Donald Knuth](https://c2.com/cgi/wiki?DonKnuth)_”_
 - [DOM Manipulation](https://api.jquery.com/category/manipulation/)
   - [ngRepeat](https://docs.angularjs.org/api/ng/directive/ngRepeat)
 - Screen Experience
@@ -44,11 +44,11 @@ tags:
 
 - [Chrome Developer Tools](https://developer.chrome.com/devtools)
   - [Firefox](https://mozorg.cdn.mozilla.net/media/img/firefox/desktop/index/animations/firefox-logo.bee1d85af18f.png)
-    - [Firebug](http://getfirebug.com/)
+    - [Firebug](https://getfirebug.com/)
 - Utilizing [Chrome Dev Tools](https://developer.chrome.com/devtools) and Creating the Videos on Ben’s Blog
-- “[Imposter Syndrome](http://en.wikipedia.org/wiki/Impostor_syndrome)”
-  - [Addy Osmani](http://addyosmani.com/)
-  - [Paul Irish](http://paulirish.com/)
+- “[Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)”
+  - [Addy Osmani](https://addyosmani.com/)
+  - [Paul Irish](https://paulirish.com/)
 
 29:27 - “Just-in-Time View Construction”
 
@@ -58,21 +58,21 @@ tags:
 
 - [[YouTube] Dave Smith: Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s)
 - Unit Directional Data Flow & Functionality
-- [Victor](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)[Savkin](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)[: Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
+- [Victor](https://victorsavkin.com/post/110170125256/change-detection-in-angular-2)[Savkin](https://victorsavkin.com/post/110170125256/change-detection-in-angular-2)[: Change Detection in Angular 2](https://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
 - [[Egghead.io] John Lindquist: Angular 2: Template Syntax](https://egghead.io/lessons/angularjs-angular-2-template-syntax)
-- ES5, ES6&nbsp; &nbsp;&nbsp;[AtScript](http://en.wikipedia.org/wiki/AtScript), [TypeScript](http://www.typescriptlang.org/)
-- [traceur-compiler](http://code.google.com/p/traceur-compiler/)
+- ES5, ES6&nbsp; &nbsp;&nbsp;[AtScript](https://en.wikipedia.org/wiki/AtScript), [TypeScript](https://www.typescriptlang.org/)
+- [traceur-compiler](https://code.google.com/p/traceur-compiler/)
 - [Babel](https://babeljs.io/)
 
 46:01 - Moving to 2.0
 
 ## Picks
 
-[BrowserSync](http://www.browsersync.io/) (John)[[Egghead.io] Angular 2: Template Syntax](https://egghead.io/lessons/angularjs-angular-2-template-syntax) (Joe)Win an [InVision App](http://www.invisionapp.com/) T-Shirt! (Lukas)[Adventures in Angular](http://devchat.tv/adventures-in-angular) (Lukas)[WELCOME TO NIGHT VALE](http://commonplacebooks.com/) (Katya)[Being and Time (Harper Perennial Modern Thought) by Martin Heidegger](http://www.amazon.com/gp/product/0061575593/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0061575593&linkCode=as2&tag=chamaxwoo-20&linkId=PVTXHJUHPYJUKHA2) (Ward)[Angular Grid](http://www.angulargrid.com/) (Ward)[Steelheart (The Reckoners) by Brandon Sanderson](http://www.amazon.com/gp/product/0385743572/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743572&linkCode=as2&tag=chamaxwoo-20&linkId=Q6QMEUACPX375CM3) (Chuck)[StarTech.com MUHSMF2M 2m 4 Position TRRS Headset Extension Cable](http://www.amazon.com/gp/product/B008DWGLLO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008DWGLLO&linkCode=as2&tag=chamaxwoo-20&linkId=HH3FNE3LAIAX55OL) (Ben)[Any Given Sunday](http://www.imdb.com/title/tt0146838/) (Ben)
+[BrowserSync](https://www.browsersync.io/) (John)[[Egghead.io] Angular 2: Template Syntax](https://egghead.io/lessons/angularjs-angular-2-template-syntax) (Joe)Win an [InVision App](https://www.invisionapp.com/) T-Shirt! (Lukas)[Adventures in Angular](https://devchat.tv/adventures-in-angular) (Lukas)[WELCOME TO NIGHT VALE](https://commonplacebooks.com/) (Katya)[Being and Time (Harper Perennial Modern Thought) by Martin Heidegger](https://www.amazon.com/gp/product/0061575593/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0061575593&linkCode=as2&tag=chamaxwoo-20&linkId=PVTXHJUHPYJUKHA2) (Ward)[Angular Grid](https://www.angulargrid.com/) (Ward)[Steelheart (The Reckoners) by Brandon Sanderson](https://www.amazon.com/gp/product/0385743572/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743572&linkCode=as2&tag=chamaxwoo-20&linkId=Q6QMEUACPX375CM3) (Chuck)[StarTech.com MUHSMF2M 2m 4 Position TRRS Headset Extension Cable](https://www.amazon.com/gp/product/B008DWGLLO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008DWGLLO&linkCode=as2&tag=chamaxwoo-20&linkId=HH3FNE3LAIAX55OL) (Ben)[Any Given Sunday](https://www.imdb.com/title/tt0146838/) (Ben)
 
 ## News
 
-- [ng-vegas](http://www.ng-vegas.org): May 7th and 8th, 2015!
+- [ng-vegas](https://www.ng-vegas.org): May 7th and 8th, 2015!
 - [AngularU](https://angularu.com/ng/) in the Bay Area in June
 
 ### Transcript

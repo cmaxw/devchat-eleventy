@@ -15,9 +15,9 @@ tags:
 ## **Sponsors:**
 
 - [KendoUI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
-- [Sentry](http://sentry.io)&nbsp;use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io)&nbsp;use the code "devchat" for $100 credit
 - [TripleByte](https://triplebyte.com/react) $1000 signing bonus
-- [Cachefly](http://cachefly.com)
+- [Cachefly](https://cachefly.com)
 
 **Panel:**
 

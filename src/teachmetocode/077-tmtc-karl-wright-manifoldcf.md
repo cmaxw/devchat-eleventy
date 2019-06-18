@@ -12,6 +12,6 @@ tags:
   - podcast
 ---
 
-[powerpress] Today I am joined by Karl Wright, Nokia engineer, ManifoldCF developer and author of ManifoldCF in action. We discuss [ManifoldCF](http://incubator.apache.org/connectors/), an Apache Incubator project, its beginnings, its purpose and its inner workings.
+[powerpress] Today I am joined by Karl Wright, Nokia engineer, ManifoldCF developer and author of ManifoldCF in action. We discuss [ManifoldCF](https://incubator.apache.org/connectors/), an Apache Incubator project, its beginnings, its purpose and its inner workings.
 
 ### Transcript

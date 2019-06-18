@@ -17,11 +17,11 @@ tags:
 \* Editor’s Note: Ruby Remote Conf is over, but you can still purchase a ticket to get instant access to the talks!&nbsp;02:22 - Hanging with Buyers05:27 - Identifying a Niche and Finding That Expensive Problem12:27 - Strategies for Getting Noticed17:16 - Types of Buyers21:54 - Word of Mouth; Talking to Others
 
 - [Toastmasters](https://www.toastmasters.org/)
-- [Startups For the Rest of Us](http://www.startupsfortherestofus.com/)
+- [Startups For the Rest of Us](https://www.startupsfortherestofus.com/)
   28:37 - Tips for Introverts37:35 - Tips for Recruiters47:43 - Value&nbsp;Picks
 - [Disrupted: My Misadventure in the Start-Up Bubble by Dan Lyons](https://www.amazon.com/Disrupted-My-Misadventure-Start-Up-Bubble/dp/0316306088) (Reuven)
 - [Beaver Builder](https://www.wpbeaverbuilder.com/) (Philip)
-- [Selling to Big Companies by Jill Konrath](http://www.amazon.com/Selling-Big-Companies-Jill-Konrath/dp/1419515624) (Philip)
+- [Selling to Big Companies by Jill Konrath](https://www.amazon.com/Selling-Big-Companies-Jill-Konrath/dp/1419515624) (Philip)
 - [The Belgariad Series](https://en.wikipedia.org/wiki/The_Belgariad) (Chuck)
 - [Fully Alive by Ken Davis](https://www.amazon.com/Fully-Alive-Ken-Davis/dp/B008MTDZ12) (Chuck)
 - [All Remote Conferences](https://allremoteconfs.com/) (Chuck)

@@ -72,6 +72,6 @@ Ketogenic diet Spaghetti Squash
 
 #### Links
 
-[Dave’s Twitter](https://twitter.com/kobaltz)[Drfting Ruby Twitter](https://twitter.com/DriftingRuby)[Drifting Ruby](http://www.driftingruby.com)
+[Dave’s Twitter](https://twitter.com/kobaltz)[Drfting Ruby Twitter](https://twitter.com/DriftingRuby)[Drifting Ruby](https://www.driftingruby.com)
 
 ### Transcript

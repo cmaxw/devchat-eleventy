@@ -16,25 +16,25 @@ tags:
 
 - [Twitter](https://twitter.com/markbates)
 - [GitHub](https://github.com/markbates)
-- [Blog](http://metabates.com/)
-- [Boston Ruby Users Group](http://bostonrb.org/)
+- [Blog](https://metabates.com/)
+- [Boston Ruby Users Group](https://bostonrb.org/)
   - [@bostonrb](https://twitter.com/bostonrb)
-- [MetaCasts: HD Screencasts for GO Enthusiasts](http://www.metacasts.tv/)
+- [MetaCasts: HD Screencasts for GO Enthusiasts](https://www.metacasts.tv/)
   - [@metacasts](https://twitter.com/metacasts)&nbsp;&nbsp;
 
 03:14 - Scott Feinberg Introduction
 
 - [Twitter](https://twitter.com/scottefein)
 - [GitHub](https://github.com/scottefein)
-- [Blog](http://blog.sefindustries.com/)
+- [Blog](https://blog.sefindustries.com/)
 - [WePay](https://www.wepay.com/)
   - [@WePay](https://twitter.com/WePay)
   - [@wepaystatus](https://twitter.com/wepaystatus)
 
 03:46 - Community Values
 
-- [2014 Videos - WindyCityRails Lightning Talks](http://www.windycityrails.org/videos/2014/#19) (Scott’s is first)
-- [Scott Feinberg: Where does Ruby go from here? (The Happiness Manifesto)](http://blog.sefindustries.com/the-happiness-manifesto/)
+- [2014 Videos - WindyCityRails Lightning Talks](https://www.windycityrails.org/videos/2014/#19) (Scott’s is first)
+- [Scott Feinberg: Where does Ruby go from here? (The Happiness Manifesto)](https://blog.sefindustries.com/the-happiness-manifesto/)
   - [[GitHub] the-happiness-manifesto](https://github.com/scottefein/the-happiness-manifesto)&nbsp;&nbsp;
 
 05:32 - Ruby Community Standards and Values
@@ -42,80 +42,80 @@ tags:
 - Testing
 - Programming Should Be Fun and Enjoyable
 - Pairing
-- Large Regional Conferences and [Meetups&nbsp;&nbsp; &nbsp;](http://www.meetup.com/)
+- Large Regional Conferences and [Meetups&nbsp;&nbsp; &nbsp;](https://www.meetup.com/)
 
 07:33 - User Groups
 
-- [Lambda Lounge](http://lambdalounge.org/)
+- [Lambda Lounge](https://lambdalounge.org/)
   - [@LambdaLounge](https://twitter.com/LambdaLounge)
-- [Netflix Open Source Group](http://www.meetup.com/Netflix-Open-Source-Platform/)
+- [Netflix Open Source Group](https://www.meetup.com/Netflix-Open-Source-Platform/)
 
 10:18 - Polyglot Conferences
 
 - [Midwest.io 2014 - MythBashers: Adventures in Overlooked Technologies - Avdi Grimm](https://www.youtube.com/watch?v=jsXK11f4yE0)
 - [[GitHub] A web server written in Bash](https://github.com/avleen/bashttpd)
-- [Great Wide Open](http://greatwideopen.org/)
+- [Great Wide Open](https://greatwideopen.org/)
   - [@AllThingsOpen](https://twitter.com/AllThingsOpen)
-- [CodeMash](http://www.codemash.org/)
+- [CodeMash](https://www.codemash.org/)
   - [@codemash](https://twitter.com/codemash)
 
 13:07 - Including and Getting Newbies Involved in Conference and Community Culture
 
 - Generations
 - Boot Camps
-  - [Launch Academy](http://www.launchacademy.com/)
+  - [Launch Academy](https://www.launchacademy.com/)
     - [@LaunchAcademy\_](https://twitter.com/LaunchAcademy_)
 - Hugs
 
 20:41 - Diversity and Codes of Conduct
 
-- [PyLadies](http://www.pyladies.com/)
+- [PyLadies](https://www.pyladies.com/)
   - [PyLadies Chapters (Twitter)](https://twitter.com/PyLadies_pdx/lists/pyladies-chapters)
-- [RailsBridge](http://www.railsbridge.org/)
+- [RailsBridge](https://www.railsbridge.org/)
   - [@railsbridge](https://twitter.com/railsbridge)
-- [Rails Girls](http://railsgirls.com/)
+- [Rails Girls](https://railsgirls.com/)
   - [@railsgirls](https://twitter.com/railsgirls)
 
-23:08 - [AlterConf](http://www.alterconf.com/)
+23:08 - [AlterConf](https://www.alterconf.com/)
 
 - [@AlterConf](https://twitter.com/alterconf)
-- [Ashe Dryden](http://www.ashedryden.com/)
+- [Ashe Dryden](https://www.ashedryden.com/)
   - [@ashedryden](https://twitter.com/ashedryden)
 
 24:22 - [PyCon](https://us.pycon.org/)
 
 - [@pycon](https://twitter.com/pycon)
 
-25:31 - [HappinessConf](http://www.happinessconf.com/)
+25:31 - [HappinessConf](https://www.happinessconf.com/)
 
 - [@Happiness_Conf](https://twitter.com/Happiness_Conf) &nbsp;
 - Diversity
-  - [Black Girls Code](http://www.blackgirlscode.com/)
+  - [Black Girls Code](https://www.blackgirlscode.com/)
     - [@blackgirlscode](https://twitter.com/blackgirlscode)
   - [Women Who Code](https://www.womenwhocode.com/)
     - [@WomenWhoCode](https://twitter.com/WomenWhoCode)
 
 28:30 - Developer Happiness and Invoking Community Values Within Corporate Company Culture
 
-- [Ruby Rogues Episode #191: The Developer Happiness Team with Kerri Miller](http://devchat.tv/ruby-rogues/191-rr-the-developer-happiness-team-with-kerri-miller)
-  - [PluralSight](http://www.pluralsight.com/)
-    - [PluralSight Author Summit](http://blog.pluralsight.com/pluralsight-annual-author-summit)
+- [Ruby Rogues Episode #191: The Developer Happiness Team with Kerri Miller](https://devchat.tv/ruby-rogues/191-rr-the-developer-happiness-team-with-kerri-miller)
+  - [PluralSight](https://www.pluralsight.com/)
+    - [PluralSight Author Summit](https://blog.pluralsight.com/pluralsight-annual-author-summit)
 - Trust
 - Roles of Influence
   - Navigating Office Politics
 
-38:03 - [Agile Software Development](http://en.wikipedia.org/wiki/Agile_software_development) and Productivity
+38:03 - [Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development) and Productivity
 
-- [The 4 Disciplines of Execution: Achieving Your Wildly Important Goals](http://www.amazon.com/The-Disciplines-Execution-Achieving-Important/dp/1491517751)
+- [The 4 Disciplines of Execution: Achieving Your Wildly Important Goals](https://www.amazon.com/The-Disciplines-Execution-Achieving-Important/dp/1491517751)
 - [[TED Talk] Bruce Feiler: Agile programming — for your family](https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family) &nbsp;
 
 40:41 - “The Ruby Diaspora”
 
 - [Mark Bates - Panel: The Future of Ruby - Burlington Ruby Conference 2014](https://vimeo.com/103590400)
-- [Elixir](http://elixir-lang.org/)
+- [Elixir](https://elixir-lang.org/)
   - [Programming Elixir: Functional |\> Concurrent |\> Pragmatic |\> Fun by Dave Thomas](https://pragprog.com/book/elixir/programming-elixir)
 - [The Go Programming Language](https://golang.org/)
-  - [Gophercon](http://www.gophercon.com/)
+  - [Gophercon](https://www.gophercon.com/)
     - [@GopherCon](https://twitter.com/GopherCon)
 
 47:47 - Acceptance
@@ -126,7 +126,7 @@ tags:
 
 - Boston Ruby’s “Project Night”
 - Mentor Someone Who Doesn’t Look Like You
-  Picks[<u>Love Letter</u>](http://www.alderac.com/tempest/love-letter/) (Coraline)[<u>RescueTime</u>](https://www.rescuetime.com/) (Coraline)[<u>Hacking Happy by Dusty Phillips</u>](http://www.amazon.com/Hacking-Happy-Dusty-Phillips/dp/1479245054) (Jessica)[<u>Happiness Conf Coupon Code</u>](http://tickets.happinessconf.com/?discount_code=ruby_rogues) (Scott)[<u>HappinessConf Speakers Page</u>](http://www.happinessconf.com/speakers) (Scott)[<u>The Flight Deal</u>](http://www.theflightdeal.com/) (Scott)[<u>iStat Menus</u>](http://bjango.com/mac/istatmenus/) (Scott)[<u>HappinessConf</u>](http://www.happinessconf.com/) (Mark)[<u>The Go Programming Language</u>](https://golang.org/) (Mark) Use the Coupon Code: ROGUES to get your first month free: [<u>MetaCasts.tv: HD Screencasts for GO Enthusiasts</u>](http://www.metacasts.tv/) (Mark)
+  Picks[<u>Love Letter</u>](https://www.alderac.com/tempest/love-letter/) (Coraline)[<u>RescueTime</u>](https://www.rescuetime.com/) (Coraline)[<u>Hacking Happy by Dusty Phillips</u>](https://www.amazon.com/Hacking-Happy-Dusty-Phillips/dp/1479245054) (Jessica)[<u>Happiness Conf Coupon Code</u>](https://tickets.happinessconf.com/?discount_code=ruby_rogues) (Scott)[<u>HappinessConf Speakers Page</u>](https://www.happinessconf.com/speakers) (Scott)[<u>The Flight Deal</u>](https://www.theflightdeal.com/) (Scott)[<u>iStat Menus</u>](https://bjango.com/mac/istatmenus/) (Scott)[<u>HappinessConf</u>](https://www.happinessconf.com/) (Mark)[<u>The Go Programming Language</u>](https://golang.org/) (Mark) Use the Coupon Code: ROGUES to get your first month free: [<u>MetaCasts.tv: HD Screencasts for GO Enthusiasts</u>](https://www.metacasts.tv/) (Mark)
 
 ### Transcript
 

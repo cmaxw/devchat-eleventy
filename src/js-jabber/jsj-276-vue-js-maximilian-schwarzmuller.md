@@ -24,13 +24,13 @@ AJ **:**
 - [Dream Dinners](https://dreamdinners.com/)
   Aimee:
 - [Julie Evans blog&nbsp;](https://jvns.ca/blog/2017/08/06/learning-at-work/)
-- [Nodevember](http://nodevember.org/)
+- [Nodevember](https://nodevember.org/)
   Charles:
 - The Ketogenic Diet
-- [2 Keto Dudes Podcast&nbsp;](http://2ketodudes.com/)
+- [2 Keto Dudes Podcast&nbsp;](https://2ketodudes.com/)
   Max:
 - [Nuxt.js Framework&nbsp;](https://nuxtjs.org)
-- [Slack “Chat with yourself” Channel](http://www.slack.com)
+- [Slack “Chat with yourself” Channel](https://www.slack.com)
 
 ### **Links**
 

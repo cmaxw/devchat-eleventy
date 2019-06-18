@@ -14,50 +14,50 @@ tags:
 
 ### Panel
 
-- Dominic Szablewski ([twitter](https://twitter.com/phoboslab) [github](https://github.com/phoboslab) [PhobosLab](http://phoboslab.org/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Dominic Szablewski ([twitter](https://twitter.com/phoboslab) [github](https://github.com/phoboslab) [PhobosLab](https://phoboslab.org/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-01:20 - Dominic Szablewski Introduction 01:54 - [Impact.js](http://impactjs.com/)
+01:20 - Dominic Szablewski Introduction 01:54 - [Impact.js](https://impactjs.com/)
 
-- [Biolab Disaster](http://playbiolab.com/)
+- [Biolab Disaster](https://playbiolab.com/)
   03:00 - Selling/Charging vs Open-Source/Consulting
-- [Z-Type](http://phoboslab.org/ztype/)
+- [Z-Type](https://phoboslab.org/ztype/)
   06:09 - Game Development 08:42 - HTML5 Game Development
-- [Ejecta](http://impactjs.com/ejecta)
-- [Physics Engine](http://en.wikipedia.org/wiki/Physics_engine)
-- [Box2D](http://box2d.org/)
+- [Ejecta](https://impactjs.com/ejecta)
+- [Physics Engine](https://en.wikipedia.org/wiki/Physics_engine)
+- [Box2D](https://box2d.org/)
   17:10 - AI 18:24 - Making Games Engaging
-- [AudioJungle](http://audiojungle.net/)
-- [OpenGameArt](http://opengameart.org/)
+- [AudioJungle](https://audiojungle.net/)
+- [OpenGameArt](https://opengameart.org/)
 - [Doodle Jump](https://itunes.apple.com/us/app/doodle-jump/id307727765?mt=8)
 - [Bubble Ball](https://itunes.apple.com/us/app/bubble-ball/id412089940?mt=8)
-- [The Incredible Machine (series)](<http://en.wikipedia.org/wiki/The_Incredible_Machine_(series)>)
+- [The Incredible Machine (series)](<https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)>)
   25:52 - Getting Ideas for Games 28:10 - Trial Licensing 29:32 - Writing Impact vs Regular Web Development 33:44 - The Game Engine
 - Tile Mapping
   37:18 - Browser Differentiation 40:33 - Testing 41:47 - Getting Started with Game Development 43:30 - Multiplayer, Networking, and Communication 45:25 - Making a Career Out of Game Development 47:37 - [Nintendo Web Framework](https://wiiu-developers.nintendo.com/)
 
 ### Picks
 
-- [AverMedia Live Gamer Portable](http://www.amazon.com/gp/product/B00B2IZ3B0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B2IZ3B0&linkCode=as2&tag=chamaxwoo-20) (AJ)
-- [HDCP Stripper](http://www.amazon.com/gp/product/B009TU5QVK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009TU5QVK&linkCode=as2&tag=chamaxwoo-20) (AJ)
-- [Pyle-Pro PDWM96 Lavalier Wireless Microphone System](http://www.amazon.com/gp/product/B0007L8BQW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0007L8BQW&linkCode=as2&tag=chamaxwoo-20)(AJ)
-- [Hot-Dog Legs](http://hot-dog-legs.tumblr.com/) (Jamison)
-- [SOMA](http://somasystems.org/) (Jamison)
-- [Gravity](http://www.imdb.com/title/tt1454468/?ref_=fn_al_tt_1) (Joe)
-- [myCUBE](http://ienjoysounds.com/) (Joe)
-- [Steelheart by Brandon Sanderson](http://www.amazon.com/gp/product/0385743564/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743564&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [Chef](http://www.opscode.com/chef/) (Chuck)
+- [AverMedia Live Gamer Portable](https://www.amazon.com/gp/product/B00B2IZ3B0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B2IZ3B0&linkCode=as2&tag=chamaxwoo-20) (AJ)
+- [HDCP Stripper](https://www.amazon.com/gp/product/B009TU5QVK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009TU5QVK&linkCode=as2&tag=chamaxwoo-20) (AJ)
+- [Pyle-Pro PDWM96 Lavalier Wireless Microphone System](https://www.amazon.com/gp/product/B0007L8BQW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0007L8BQW&linkCode=as2&tag=chamaxwoo-20)(AJ)
+- [Hot-Dog Legs](https://hot-dog-legs.tumblr.com/) (Jamison)
+- [SOMA](https://somasystems.org/) (Jamison)
+- [Gravity](https://www.imdb.com/title/tt1454468/?ref_=fn_al_tt_1) (Joe)
+- [myCUBE](https://ienjoysounds.com/) (Joe)
+- [Steelheart by Brandon Sanderson](https://www.amazon.com/gp/product/0385743564/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743564&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [Chef](https://www.opscode.com/chef/) (Chuck)
 - [Start your free trial of Enterprise Chef](https://getchef.opscode.com/signup) (Chuck)
-- [Nathen Harvey: Learning Chef](http://www.nathenharvey.com/blog/2012/12/06/learning-chef-part-1) (Chuck)
-- [AngularJS Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) (Chuck)
-- [OpenGameArt](http://opengameart.org/) (Dominic)
-- [Little Big Mansion](http://www.krisjet.com/littlebigmansion/) (Dominic)
-- [Come With Us - Lindsey Stirling & Can't Stop Won't Stop](http://youtu.be/0HJoNXWWMuA) (AJ)
+- [Nathen Harvey: Learning Chef](https://www.nathenharvey.com/blog/2012/12/06/learning-chef-part-1) (Chuck)
+- [AngularJS Fundamentals](https://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) (Chuck)
+- [OpenGameArt](https://opengameart.org/) (Dominic)
+- [Little Big Mansion](https://www.krisjet.com/littlebigmansion/) (Dominic)
+- [Come With Us - Lindsey Stirling & Can't Stop Won't Stop](https://youtu.be/0HJoNXWWMuA) (AJ)
 
 ### Next Week
 

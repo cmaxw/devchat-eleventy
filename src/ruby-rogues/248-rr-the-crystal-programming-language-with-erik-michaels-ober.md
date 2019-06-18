@@ -21,7 +21,7 @@ tags:
 - [GitHub](https://github.com/sferik)
 - [Ruby Rogues Episode #127: Erik Michaels-Ober](https://devchat.tv/ruby-rogues/127-rr-erik-michaels-ober)
 
-02:07 - [The Crystal Programming Language](http://crystal-lang.org/) and Statically Typed Programming Languages
+02:07 - [The Crystal Programming Language](https://crystal-lang.org/) and Statically Typed Programming Languages
 
 - [Erik Michaels-Ober: An Introduction to Crystal @ PolyConf 15](https://www.youtube.com/watch?v=Ysm4IU4aWoQ)
 
@@ -30,7 +30,7 @@ tags:
 - Union Types
 - [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
 - [Monkey Patching](https://en.wikipedia.org/wiki/Monkey_patch)
-- [Sandi Metz Blog Post on the Wrong Abstraction](http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+- [Sandi Metz Blog Post on the Wrong Abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 
 15:06 - Crystal vs [Rust](https://www.rust-lang.org/) or [Go](https://golang.org/)
 
@@ -44,9 +44,9 @@ tags:
 
 22:53 - The History of Crystal and its Development as a Language
 
-- [Crystal Docs](http://crystal-lang.org/docs/)
+- [Crystal Docs](https://crystal-lang.org/docs/)
 - [Crystal GitHub Repo](https://github.com/manastech/crystal)
-- [The Future of Crystal](http://crystal-lang.org/2015/12/24/the-future-of-crystal.html) (Christmastime Blog Post)
+- [The Future of Crystal](https://crystal-lang.org/2015/12/24/the-future-of-crystal.html) (Christmastime Blog Post)
 
 24:41 - Annotation and Return Value
 
@@ -56,17 +56,17 @@ tags:
 
 32:15 - Getting Involved with Crystal and the Development of the Language
 
-- [Crystal to_proc](http://crystal-lang.org/2013/09/15/to-proc.html)
+- [Crystal to_proc](https://crystal-lang.org/2013/09/15/to-proc.html)
 
 40:08 - Threading and Concurrency
 
-44:28 - [Crystalshards](http://crystalshards.herokuapp.com/)
+44:28 - [Crystalshards](https://crystalshards.herokuapp.com/)
 
-- [Crystal Weekly](http://www.crystalweekly.com/)
+- [Crystal Weekly](https://www.crystalweekly.com/)
 
 49:30 - Use Cases and Benchmarks
 
-- [Crystal Standard Library](http://crystal-lang.org/api/)
+- [Crystal Standard Library](https://crystal-lang.org/api/)
 - [wc.cr](https://github.com/sferik/wc.cr/blob/master/src/wc.cr)
 
 01:03:15 - Compile Errors&nbsp; &nbsp;&nbsp;
@@ -74,11 +74,11 @@ tags:
 More on Crystal
 
 - [Erik Michaels-Ober: Crystal Programming Language @ RubyC 2015](https://www.youtube.com/watch?v=iyqURh5LSF4)
-- [Interview for RubyC-2015 with Erik Michaels-Ober](http://rubyc.eu/posts/24)
+- [Interview for RubyC-2015 with Erik Michaels-Ober](https://rubyc.eu/posts/24)
 - [Built-in formatting tool Issue](https://github.com/manastech/crystal/issues/309)
   Picks
 
-[Easy Bash Prompt Generator](http://ezprompt.net) (Jessica)[Logitech Wireless Headset Dual H820e Double-Ear Stereo Business Headset](http://www.amazon.com/Logitech-Wireless-Headset-Double-Ear-Business/dp/B00DBCJKPK/ref=sr_1_2?ie=UTF8&qid=1455129616&sr=8-2&keywords=logitech+820e+wireless+headset) (David)[Ruby Rogues Episode #127: Erik Michaels-Ober](https://devchat.tv/ruby-rogues/127-rr-erik-michaels-ober) (Erik)[fish shell](https://fishshell.com/) (Erik)[Rails Girls Summer of Code](http://railsgirlssummerofcode.org/campaign/) (Erik)[RescueTime](https://www.rescuetime.com/) (Avdi)[The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey](http://www.amazon.com/The-Habits-Highly-Effective-People/dp/0743269519) (Avdi)[Whiplash White IPA](http://sweetwaterbrew.com/brews/whiplash/) (Avdi)
+[Easy Bash Prompt Generator](https://ezprompt.net) (Jessica)[Logitech Wireless Headset Dual H820e Double-Ear Stereo Business Headset](https://www.amazon.com/Logitech-Wireless-Headset-Double-Ear-Business/dp/B00DBCJKPK/ref=sr_1_2?ie=UTF8&qid=1455129616&sr=8-2&keywords=logitech+820e+wireless+headset) (David)[Ruby Rogues Episode #127: Erik Michaels-Ober](https://devchat.tv/ruby-rogues/127-rr-erik-michaels-ober) (Erik)[fish shell](https://fishshell.com/) (Erik)[Rails Girls Summer of Code](https://railsgirlssummerofcode.org/campaign/) (Erik)[RescueTime](https://www.rescuetime.com/) (Avdi)[The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey](https://www.amazon.com/The-Habits-Highly-Effective-People/dp/0743269519) (Avdi)[Whiplash White IPA](https://sweetwaterbrew.com/brews/whiplash/) (Avdi)
 
 ### Transcript
 

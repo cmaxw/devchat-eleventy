@@ -22,8 +22,8 @@ There’s still time! Check out and get your [JS Remote Conf](https://jsremoteco
 
 - [Twitter](https://twitter.com/nikmd23)
 - [GitHub](https://github.com/nikmd23)
-- [Blog](http://nikcodes.com/)
-- [Glimpse](http://getglimpse.com/)
+- [Blog](https://nikcodes.com/)
+- [Glimpse](https://getglimpse.com/)
 - [[Pluralsight] WebPageTest Deep Dive](https://www.pluralsight.com/courses/webpagetest-deep-dive)
 
 02:58 - RAIL (Response, Animation, Idle, Load)
@@ -33,11 +33,11 @@ There’s still time! Check out and get your [JS Remote Conf](https://jsremoteco
 08:15 - [Frame Rates](https://en.wikipedia.org/wiki/Frame_rate)
 
 - [frames-per-second.appspot.com](https://frames-per-second.appspot.com/)
-- [CSS Triggers](http://csstriggers.com)
+- [CSS Triggers](https://csstriggers.com)
 
 16:05 - Scrolling
 
-- [requestAnimationFrame](http://creativejs.com/resources/requestanimationframe/)
+- [requestAnimationFrame](https://creativejs.com/resources/requestanimationframe/)
 
 19:09 - [The Web Animation API](https://w3c.github.io/web-animations/)
 
@@ -48,15 +48,15 @@ There’s still time! Check out and get your [JS Remote Conf](https://jsremoteco
 
 27:14 - HTTP and Optimization
 
-- [Yesterday's perf best-practices are today's HTTP/2 anti-patterns by Ilya Grigorik](http://conferences.oreilly.com/velocity/devops-web-performance-2015/public/schedule/detail/42385)
+- [Yesterday's perf best-practices are today's HTTP/2 anti-patterns by Ilya Grigorik](https://conferences.oreilly.com/velocity/devops-web-performance-2015/public/schedule/detail/42385)
 - [Ruby Rogues Episode #135: HTTP 2.0 with Ilya Grigorik](https://devchat.tv/ruby-rogues/135-rr-http-2-0-with-ilya-grigorik)
 - [Hypertext Transfer Protocol Version 2 (HTTP/2)](https://tools.ietf.org/html/rfc7540)
-- [Can I use...](http://caniuse.com/#feat=http2)
+- [Can I use...](https://caniuse.com/#feat=http2)
 - [Server Push](https://tools.ietf.org/html/rfc7540#section-8.2)
 
 35:25 - ES6 and Performance
 
-- [ES6 Feature Performance](http://www.incaseofstairs.com/2015/06/es6-feature-performance/)
+- [ES6 Feature Performance](https://www.incaseofstairs.com/2015/06/es6-feature-performance/)
 - [six-speed](https://github.com/kpdecker/six-speed)
 
 40:46 - Understanding the Scale
@@ -71,13 +71,13 @@ There’s still time! Check out and get your [JS Remote Conf](https://jsremoteco
 47:51 - [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management) and [Garbage Collection](<https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)>)
 
 - [Memory Management Masterclass with Addy Osmani](https://www.youtube.com/watch?v=LaxbdIyBkL0)
-- [Addy Osmani: JavaScript Memory Management Masterclass](http://addyosmani.com/blog/video-javascript-memory-management-masterclass/)
+- [Addy Osmani: JavaScript Memory Management Masterclass](https://addyosmani.com/blog/video-javascript-memory-management-masterclass/)
 - [Under the Hood of .NET Memory Management by Chris Farrell and Nick Harrison](https://www.red-gate.com/community/books/under-the-hood-dotnet-memory-management) (Nik)
 - Memory vs Performance Problems
 - [Rick Hudson: Go GC: Solving the Latency Problem @ GopherCon 2015](https://www.youtube.com/watch?v=aiv1JOfMjm0)
   Picks
 
-[Hardcore History Podcast](http://www.dancarlin.com/hardcore-history-series/) (Jamison)[Static vs. Dynamic Languages: A Literature Review](http://danluu.com/empirical-pl) (Jamison)[TJ Fuller Tumblr](http://fullertj.tumblr.com/) (Jamison)[Pickle Cat](http://dn.ht/picklecat/) (Jamison)[WatchMeCode](https://sub.watchmecode.net/) (Aimee) Don’t jump around while learning in JavaScript (Aimee)[P!nk - Bohemian Rhapsody](https://www.youtube.com/watch?v=eLfW_XMwBGk) (Joe)[Rich Hickey: Design, Composition and Performance](http://www.infoq.com/presentations/Design-Composition-Performance) (Joe)[Undisclosed Podcast](http://undisclosed-podcast.com/) (AJ)[History of Gaming Historian - 100K Subscriber Special](https://www.youtube.com/watch?v=8nZMseDOiJo) (AJ)[15 Minute Podcast Listener chat with Charles Wood](http://javascriptjabber.com/15minutes) (Chuck)[JS Remote Conf](https://jsremoteconf.com/) (Chuck)[All Remote Confs](https://allremoteconfs.com/) (Chuck)[Clash of Clans](http://supercell.com/en/games/clashofclans/) (Chuck)[Star Wars Commander](http://www.starwars.com/games-apps/star-wars-commander) (Chuck)[Coin](https://onlycoin.com/) (Chuck)[The Airhook](http://www.theairhook.com/) (Chuck)[GoldieBlox](http://www.goldieblox.com/) (Chuck)
+[Hardcore History Podcast](https://www.dancarlin.com/hardcore-history-series/) (Jamison)[Static vs. Dynamic Languages: A Literature Review](https://danluu.com/empirical-pl) (Jamison)[TJ Fuller Tumblr](https://fullertj.tumblr.com/) (Jamison)[Pickle Cat](https://dn.ht/picklecat/) (Jamison)[WatchMeCode](https://sub.watchmecode.net/) (Aimee) Don’t jump around while learning in JavaScript (Aimee)[P!nk - Bohemian Rhapsody](https://www.youtube.com/watch?v=eLfW_XMwBGk) (Joe)[Rich Hickey: Design, Composition and Performance](https://www.infoq.com/presentations/Design-Composition-Performance) (Joe)[Undisclosed Podcast](https://undisclosed-podcast.com/) (AJ)[History of Gaming Historian - 100K Subscriber Special](https://www.youtube.com/watch?v=8nZMseDOiJo) (AJ)[15 Minute Podcast Listener chat with Charles Wood](https://javascriptjabber.com/15minutes) (Chuck)[JS Remote Conf](https://jsremoteconf.com/) (Chuck)[All Remote Confs](https://allremoteconfs.com/) (Chuck)[Clash of Clans](https://supercell.com/en/games/clashofclans/) (Chuck)[Star Wars Commander](https://www.starwars.com/games-apps/star-wars-commander) (Chuck)[Coin](https://onlycoin.com/) (Chuck)[The Airhook](https://www.theairhook.com/) (Chuck)[GoldieBlox](https://www.goldieblox.com/) (Chuck)
 
 ### Transcript
 

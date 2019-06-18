@@ -33,7 +33,7 @@ In this episode of Views on Vue, the panelists discuss state management with Vue
 - [Vuex](https://vuex.vuejs.org/) and [Vue Router](https://router.vuejs.org/)
 - Great way to get things started
 - What if you’re using a configuration from Vue CLI 2.0?
-- [Webpack](https://webpack.js.org/) or [Browserify](http://browserify.org/)
+- [Webpack](https://webpack.js.org/) or [Browserify](https://browserify.org/)
 - Making things easier and better for new Vue developers
 - Further configuring your projects
 - Have you found anything you haven’t been able to configure with Vue CLI 3?
@@ -57,14 +57,14 @@ In this episode of Views on Vue, the panelists discuss state management with Vue
 - [Vuex](https://vuex.vuejs.org/)
 - [Vue Router](https://router.vuejs.org/)
 - [Webpack](https://webpack.js.org/)
-- [Browserify](http://browserify.org/)
+- [Browserify](https://browserify.org/)
 - [Vuex Modules](https://vuex.vuejs.org/guide/modules.html)
 - [_The Importance of State Management in Vue_ – Hassan’s Talk](https://www.youtube.com/watch?v=B7g7MOrDtMY)
 - [ESLint](https://eslint.org/)
 - [Hassan’s Medium](https://medium.com/@hassan.djirdeh)
 - [Hassan’s GitHub](https://github.com/djirdehh)
 - [@djirdehh](https://twitter.com/djirdehh?lang=en)
-- [hassandjirdeh.com](http://www.hassandjirdeh.com/)
+- [hassandjirdeh.com](https://www.hassandjirdeh.com/)
 
 **Sponsors:**
 
@@ -81,7 +81,7 @@ Charles
 
 Chris
 
-- [Sarah Drasner Repo - loldash](http://www.loldash.com/)
+- [Sarah Drasner Repo - loldash](https://www.loldash.com/)
 - [Jean-Claude Van Johnson](https://www.imdb.com/title/tt6682754/)
 - [Dark](https://www.imdb.com/title/tt5753856/)
 - [Primer](https://www.imdb.com/title/tt0390384/)
@@ -97,7 +97,7 @@ Divya
 
 Hassan
 
-- [Avengers: Infinity War](http://marvel.com/movies/movie/223/avengers_infinity_war)
-- [Lambda School](http://go.lambdaschool.com/)
+- [Avengers: Infinity War](https://marvel.com/movies/movie/223/avengers_infinity_war)
+- [Lambda School](https://go.lambdaschool.com/)
 
 ### Transcript

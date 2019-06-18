@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-**Panel:&nbsp;** Charles Max Wood **Guest:** Ben Coe This week on My JavaScript Story, Charles speaks with Ben Coe. Ben is the co-founder of [attachments.me.](http://attachments.me)&nbsp;Currently, work for NPM, and had worked for Freshbooks where he began his professional development career.&nbsp; Ben talks about his journey into programming and learning JavaScript, and the many experiences into his successful dev career. Ben shares his contributions to the Javascript community and the open source world with technologies like [Yargs](https://github.com/yargs/yargs) and [InstanbulJS](https://github.com/istanbuljs/nyc). **In particular, we dive pretty deep on:**
+**Panel:&nbsp;** Charles Max Wood **Guest:** Ben Coe This week on My JavaScript Story, Charles speaks with Ben Coe. Ben is the co-founder of [attachments.me.](https://attachments.me)&nbsp;Currently, work for NPM, and had worked for Freshbooks where he began his professional development career.&nbsp; Ben talks about his journey into programming and learning JavaScript, and the many experiences into his successful dev career. Ben shares his contributions to the Javascript community and the open source world with technologies like [Yargs](https://github.com/yargs/yargs) and [InstanbulJS](https://github.com/istanbuljs/nyc). **In particular, we dive pretty deep on:**
 
 - How did you get into programming?
 - Noodling around with old computers from Waterloo
@@ -34,7 +34,7 @@ tags:
   **Links:&nbsp;**
 - https://github.com/bcoe
 - **@** BenjaminCoe
-- [http://blog.npmjs.org/post/81600398588/npm-install-ben-coe-g](http://blog.npmjs.org/post/81600398588/npm-install-ben-coe-g)
+- [https://blog.npmjs.org/post/81600398588/npm-install-ben-coe-g](https://blog.npmjs.org/post/81600398588/npm-install-ben-coe-g)
 - [Yargs](https://github.com/yargs/yargs)
 - [InstanbulJS](https://github.com/istanbuljs/nyc)
   **Picks** Ben

@@ -12,21 +12,21 @@ tags:
   - podcast
 ---
 
-Check out [Rails Remote Conf](http://railsremoteconf.com)! Submit a CFP!
+Check out [Rails Remote Conf](https://railsremoteconf.com)! Submit a CFP!
 
 01:53 - Daniel Kehoe Introduction
 
 - [Twitter](https://twitter.com/danielkehoe)
 - [GitHub](https://github.com/fortuity)
-- [Blog](http://danielkehoe.com/)
+- [Blog](https://danielkehoe.com/)
 
 02:07 - Digital Nomad Lifestyle
 
-- [Daniel Kehoe: Why I Left My Heart in San Francisco](http://blog.railsapps.org/post/124463849955/why-i-left-my-heart-in-san-francisco)
+- [Daniel Kehoe: Why I Left My Heart in San Francisco](https://blog.railsapps.org/post/124463849955/why-i-left-my-heart-in-san-francisco)
 - [Nomad List](https://nomadlist.com/)
-- [Remote Year](http://www.remoteyear.com/itinerary/)
+- [Remote Year](https://www.remoteyear.com/itinerary/)
 
-08:45 - [RailsApps](http://railsapps.github.io/) & [Rails Tutorials](https://tutorials.railsapps.org/)
+08:45 - [RailsApps](https://railsapps.github.io/) & [Rails Tutorials](https://tutorials.railsapps.org/)
 
 - [@rails_apps](https://twitter.com/rails_apps)
 - [[GitHub] RailsApps](https://github.com/RailsApps)
@@ -37,14 +37,14 @@ Check out [Rails Remote Conf](http://railsremoteconf.com)! Submit a CFP!
 
 22:42 - [rails-composer](https://github.com/RailsApps/rails-composer) for Beginner Programmers &nbsp;&nbsp;
 
-- [Flatiron School](http://flatironschool.com/), [@aviflombaum](https://twitter.com/aviflombaum)
-- [Learn Ruby on Rails by Daniel Kehoe](http://www.amazon.com/gp/product/B00QK2T1SY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QK2T1SY&linkCode=as2&tag=chamaxwoo-20&linkId=KNJUIETFYT7SDJTG)
+- [Flatiron School](https://flatironschool.com/), [@aviflombaum](https://twitter.com/aviflombaum)
+- [Learn Ruby on Rails by Daniel Kehoe](https://www.amazon.com/gp/product/B00QK2T1SY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QK2T1SY&linkCode=as2&tag=chamaxwoo-20&linkId=KNJUIETFYT7SDJTG)
 
 Remember to go check out [Daniel's Kickstarter Project: Rails Composer with Rails Tutorials](https://www.kickstarter.com/projects/909377477/rails-composer-with-rails-tutorials)!
 
 Picks
 
-[remote | ok](https://remoteok.io/) (Saron)[Rails Remote Conf](http://railsremoteconf.com) (Chuck)[weworkremotely.com](https://weworkremotely.com/) (Chuck)[Slack](https://slack.com/) (Chuck)[Screenhero](https://screenhero.com/) (Chuck)[Pinegrow Web Editor](http://pinegrow.com/) (Daniel)[Nomad List](https://nomadlist.com/) (Daniel)[Low Yat Plaza](http://plazalowyat.com/) (Daniel)
+[remote | ok](https://remoteok.io/) (Saron)[Rails Remote Conf](https://railsremoteconf.com) (Chuck)[weworkremotely.com](https://weworkremotely.com/) (Chuck)[Slack](https://slack.com/) (Chuck)[Screenhero](https://screenhero.com/) (Chuck)[Pinegrow Web Editor](https://pinegrow.com/) (Daniel)[Nomad List](https://nomadlist.com/) (Daniel)[Low Yat Plaza](https://plazalowyat.com/) (Daniel)
 
 ### Transcript
 

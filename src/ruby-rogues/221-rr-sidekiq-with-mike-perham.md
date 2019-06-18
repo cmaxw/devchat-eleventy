@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out [Angular Remote Conf](http://www.angularremoteconf.com) and [RailsClips](https://devchat.tv/rails-clips)!
+Check out [Angular Remote Conf](https://www.angularremoteconf.com) and [RailsClips](https://devchat.tv/rails-clips)!
 
 &nbsp;
 
@@ -20,15 +20,15 @@ Check out [Angular Remote Conf](http://www.angularremoteconf.com) and [RailsClip
 
 - [Twitter](https://twitter.com/mperham)
 - [GitHub](https://github.com/mperham)
-- [Blog](http://www.mikeperham.com/)
-- <u><a style="text-decoration: none;" href="http://contribsys.com/">Contributed Systems</a></u>
+- [Blog](https://www.mikeperham.com/)
+- <u><a style="text-decoration: none;" href="https://contribsys.com/">Contributed Systems</a></u>
 - [sidekiq](https://github.com/mperham/sidekiq)
 - [dalli](https://github.com/mperham/dalli)
 
-03:43 - [Sidekiq](http://contribsys.com/sidekiq/) Overview
+03:43 - [Sidekiq](https://contribsys.com/sidekiq/) Overview
 
 - [resque](https://github.com/resque/resque)
-- [JRuby](http://jruby.org)
+- [JRuby](https://jruby.org)
 
 05:18 - Job Runners vs Queuing Systems, Background Jobs
 
@@ -45,19 +45,19 @@ Check out [Angular Remote Conf](http://www.angularremoteconf.com) and [RailsClip
 
 12:49 - Passing Data
 
-14:01 - Performance Boost From Using [JRuby](http://jruby.org)?
+14:01 - Performance Boost From Using [JRuby](https://jruby.org)?
 
 15:48 - [The Actor Model](https://en.wikipedia.org/wiki/Actor_model)
 
 - [revactor](https://github.com/tarcieri/revactor)
-- [Rubinius](http://rubini.us)
+- [Rubinius](https://rubini.us)
 - [girl_friday](https://github.com/mperham/girl_friday)
 
 20:39 - Sidekiq Roadmap
 
 - Statistics & History
 
-21:44 - [Sidekiq Enterprise](http://www.mikeperham.com/2015/08/06/sidekiq-enterprise)
+21:44 - [Sidekiq Enterprise](https://www.mikeperham.com/2015/08/06/sidekiq-enterprise)
 
 27:58 - Sidekiq vs Resque
 
@@ -73,8 +73,8 @@ Check out [Angular Remote Conf](http://www.angularremoteconf.com) and [RailsClip
 
 33:12 - Mixing In Other Data Stores
 
-- [Redis](http://redis.io)
-- [Kafka](http://kafka.apache.org/)
+- [Redis](https://redis.io)
+- [Kafka](https://kafka.apache.org/)
 - [Apollo](https://activemq.apache.org/apollo/)
 
 38:42 - Encoding
@@ -88,10 +88,10 @@ Check out [Angular Remote Conf](http://www.angularremoteconf.com) and [RailsClip
 44:04 - Launching An Open Source Project
 
 - [Kickstarter](https://www.kickstarter.com/)
-- [BSD](https://en.wikipedia.org/wiki/BSD_licenses) & [LGPL](http://www.gnu.org/licenses/lgpl-3.0.en.html) Licences
+- [BSD](https://en.wikipedia.org/wiki/BSD_licenses) & [LGPL](https://www.gnu.org/licenses/lgpl-3.0.en.html) Licences
   Picks
 
-[Mike Hoye: Citation Needed](http://exple.tive.org/blarg/2013/10/22/citation-needed/) (David)[Code Master](http://www.target.com/p/code-master/-/A-17065131) (Coraline)[Robot Turtles](http://www.robotturtles.com) (Coraline)[Zalando STUPS](https://stups.io) (Jessica)[Elevator Saga](http://play.elevatorsaga.com/) (Chuck)[Developer On Fire: Episode 017 - Charles Max Wood - Get Involved and Try New Things](http://developeronfire.com/Podcast/Episodes/episode-17-charles-max-wood-get-involved-and-try-new-things) (Chuck)[Model View Culture](https://modelviewculture.com) (Mike)[Plasso](https://plasso.co) (Mike)[James Mickens: Not Even Close: The State of Computer Security (with slides) from NDC Conferences](https://vimeo.com/135347162) (Mike)
+[Mike Hoye: Citation Needed](https://exple.tive.org/blarg/2013/10/22/citation-needed/) (David)[Code Master](https://www.target.com/p/code-master/-/A-17065131) (Coraline)[Robot Turtles](https://www.robotturtles.com) (Coraline)[Zalando STUPS](https://stups.io) (Jessica)[Elevator Saga](https://play.elevatorsaga.com/) (Chuck)[Developer On Fire: Episode 017 - Charles Max Wood - Get Involved and Try New Things](https://developeronfire.com/Podcast/Episodes/episode-17-charles-max-wood-get-involved-and-try-new-things) (Chuck)[Model View Culture](https://modelviewculture.com) (Mike)[Plasso](https://plasso.co) (Mike)[James Mickens: Not Even Close: The State of Computer Security (with slides) from NDC Conferences](https://vimeo.com/135347162) (Mike)
 
 ### Transcript
 

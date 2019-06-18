@@ -14,9 +14,9 @@ tags:
 
 02:42 - Models
 
-- [Apple Watch](http://store.apple.com/us/buy-watch/apple-watch)
-- [Apple Watch Sport](http://store.apple.com/us/buy-watch/apple-watch-sport)
-- [Apple Watch Edition](http://store.apple.com/us/buy-watch/apple-watch-edition)
+- [Apple Watch](https://store.apple.com/us/buy-watch/apple-watch)
+- [Apple Watch Sport](https://store.apple.com/us/buy-watch/apple-watch-sport)
+- [Apple Watch Edition](https://store.apple.com/us/buy-watch/apple-watch-edition)
 
 04:51 - iPhone Interaction
 
@@ -45,7 +45,7 @@ tags:
 
 21:00 - Screen Brightness
 
-22:45 - Motion Sensing?Picks[SPIbelt](http://www.spibelt.com/) (Jaim)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck)[Traction: Get a Grip on Your Business by Gino Wickman](http://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=TRN56U3KTKROTGZS) (Chuck) New Star Wars Trailers (Chuck)
+22:45 - Motion Sensing?Picks[SPIbelt](https://www.spibelt.com/) (Jaim)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck)[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=TRN56U3KTKROTGZS) (Chuck) New Star Wars Trailers (Chuck)
 
 ### Transcript
 

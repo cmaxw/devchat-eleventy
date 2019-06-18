@@ -17,32 +17,32 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/KinseyAnnDurham)
 - <u><a href="https://github.com/durhamka" data-cke-saved-href="https://github.com/durhamka">Github</a></u>
-- [<u>Blog</u>](http://www.kinseyanndurham.com/)
-- [<u>GoSpotCheck</u>](http://www.gospotcheck.com/)
-- [<u>Pair Programming</u>](http://en.wikipedia.org/wiki/Pair_programming)
-- [<u>Rails API</u>](http://api.rubyonrails.org/)
-- [<u>Android</u>](http://www.android.com/)
+- [<u>Blog</u>](https://www.kinseyanndurham.com/)
+- [<u>GoSpotCheck</u>](https://www.gospotcheck.com/)
+- [<u>Pair Programming</u>](https://en.wikipedia.org/wiki/Pair_programming)
+- [<u>Rails API</u>](https://api.rubyonrails.org/)
+- [<u>Android</u>](https://www.android.com/)
 
-02:48 - [<u>Less Money Conference</u>](http://lessmoney.lesseverything.com/)
+02:48 - [<u>Less Money Conference</u>](https://lessmoney.lesseverything.com/)
 
 - [<u>LessAccounting</u>](https://lessaccounting.com/)
   - [<u>Allan Branch</u>](https://twitter.com/lessallan)
 
 03:19 - Kinsey’s Background
 
-- [<u>CU Boulder</u>](http://www.colorado.edu/)
-- [<u>RubyConf</u>](http://www.rubyconf.org/)
+- [<u>CU Boulder</u>](https://www.colorado.edu/)
+- [<u>RubyConf</u>](https://www.rubyconf.org/)
   - [<u>Kinsey at RubyConf</u>](https://www.youtube.com/watch?v=fXUMRXa6xf0)
-- [<u>RailsBridge</u>](http://www.railsbridge.org/)
+- [<u>RailsBridge</u>](https://www.railsbridge.org/)
   - <u><a href="https://twitter.com/railsbridge" data-cke-saved-href="https://twitter.com/railsbridge">Twitter</a></u>
-- [<u>Rails Core Committer</u>](http://rubyonrails.org/core/)
-- [<u>Thoughtbot Apprenticeships</u>](http://www.apprentice.io/)
-  - [<u>Thoughtbot</u>](http://thoughtbot.com/)
+- [<u>Rails Core Committer</u>](https://rubyonrails.org/core/)
+- [<u>Thoughtbot Apprenticeships</u>](https://www.apprentice.io/)
+  - [<u>Thoughtbot</u>](https://thoughtbot.com/)
 
-06:34 - Degrees vs. [<u>Dev Bootcamps</u>](http://en.wikipedia.org/wiki/Dev_Bootcamp)
+06:34 - Degrees vs. [<u>Dev Bootcamps</u>](https://en.wikipedia.org/wiki/Dev_Bootcamp)
 
 - Advantages vs. Disadvantages
-- [<u>Computer Science</u>](http://en.wikipedia.org/wiki/Computer_science)
+- [<u>Computer Science</u>](https://en.wikipedia.org/wiki/Computer_science)
 
 09:12 - Finding Mentors
 
@@ -50,8 +50,8 @@ tags:
 
 Discouraging Attitudes and Comments
 
-- [<u>“Feign Surprise”</u>](http://www.answers.com/Q/What_does_feigning_surprise_mean)
-- [<u>Big O notation</u>](http://en.wikipedia.org/wiki/Big_O_notation)
+- [<u>“Feign Surprise”</u>](https://www.answers.com/Q/What_does_feigning_surprise_mean)
+- [<u>Big O notation</u>](https://en.wikipedia.org/wiki/Big_O_notation)
 - Gender Bias
 
 14:54 - Programmer Stereotypes
@@ -74,13 +74,13 @@ Discouraging Attitudes and Comments
 
 - Degree vs. Non-degree
 - Intimidation
-- [<u>Brigham Young University</u>](http://home.byu.edu/home/)
-- [<u>Community College</u>](http://en.wikipedia.org/wiki/Community_college)
-- [<u>Git</u>](http://www.git-scm.com/)
-- [<u>WikiWiki</u>](http://en.wikipedia.org/wiki/Wiki)
-- [<u>Lambda</u>](http://msdn.microsoft.com/en-us/library/bb397687.aspx)
+- [<u>Brigham Young University</u>](https://home.byu.edu/home/)
+- [<u>Community College</u>](https://en.wikipedia.org/wiki/Community_college)
+- [<u>Git</u>](https://www.git-scm.com/)
+- [<u>WikiWiki</u>](https://en.wikipedia.org/wiki/Wiki)
+- [<u>Lambda</u>](https://msdn.microsoft.com/en-us/library/bb397687.aspx)
 
-28:53 - [<u>“Impostor Syndrome”</u>](http://en.wikipedia.org/wiki/Impostor_syndrome)
+28:53 - [<u>“Impostor Syndrome”</u>](https://en.wikipedia.org/wiki/Impostor_syndrome)
 
 - [<u>Sandi Metz</u>](https://twitter.com/sandimetz)
 
@@ -88,22 +88,22 @@ Discouraging Attitudes and Comments
 
 31:51 - Getting Hired
 
-- [<u>Open Source</u>](http://en.wikipedia.org/wiki/Open_source)
+- [<u>Open Source</u>](https://en.wikipedia.org/wiki/Open_source)
 
 35:52 - Networking and Building Relationships
 
 - Users Groups
-- [<u>Denver Ruby Meetup</u>](http://www.meetup.com/Denver-Ruby-On-Rails-Meetup/)
+- [<u>Denver Ruby Meetup</u>](https://www.meetup.com/Denver-Ruby-On-Rails-Meetup/)
   - Beginners’ Track
-- [<u>Salt Lake City Ruby Meetup</u>](http://www.meetup.com/Coding-Bootcamp-DevPoint-Labs-Meet-Greet-Ruby-workshop/)
+- [<u>Salt Lake City Ruby Meetup</u>](https://www.meetup.com/Coding-Bootcamp-DevPoint-Labs-Meet-Greet-Ruby-workshop/)
 
 38:29 - Experience From a Different Field
 
-- [<u>160 RR Conceptualizing Code with Sam Livingston-Gray and Glenn Vanderburg</u>](http://devchat.tv/ruby-rogues/160-rr-conceptualizing-code-with-sam-livingston-gray-and-glenn-vanderburg)
+- [<u>160 RR Conceptualizing Code with Sam Livingston-Gray and Glenn Vanderburg</u>](https://devchat.tv/ruby-rogues/160-rr-conceptualizing-code-with-sam-livingston-gray-and-glenn-vanderburg)
   - [<u>Sam Livingston-Gray</u>](https://twitter.com/geeksam)
   - [<u>Glenn Vanderburg</u>](https://twitter.com/glv)
-- [<u>Education Lead Generation</u>](http://www.higheredgrowth.com/education-lead-generation/)
-  - [<u>Landing Pages</u>](http://en.wikipedia.org/wiki/Landing_page)
+- [<u>Education Lead Generation</u>](https://www.higheredgrowth.com/education-lead-generation/)
+  - [<u>Landing Pages</u>](https://en.wikipedia.org/wiki/Landing_page)
 
 42:27 - Recommendations for Finding a Job
 
@@ -111,7 +111,7 @@ Discouraging Attitudes and Comments
 - Speaking Up
 - Proving Yourself
 - Know Your Strengths and Weaknesses
-  - [<u>Pivotal Apps</u>](http://www.pivotal.io/products/pivotal-app-suite)
+  - [<u>Pivotal Apps</u>](https://www.pivotal.io/products/pivotal-app-suite)
 
 45:17 - Interviewing Process
 

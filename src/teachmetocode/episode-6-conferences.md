@@ -12,11 +12,11 @@ tags:
   - podcast
 ---
 
-[Download this episode](http://media.libsyn.com/media/charlesmaxwood/railscoach006.mp3)[Subscribe in iTunes](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=346089573)Remember to leave feedback by calling 801-753-8279 or emailing [podcast@railscoach.com](mailto:podcast@railscoach.com). Conferences are a great way to learn and meet people. The conferences I've attended:
+[Download this episode](https://media.libsyn.com/media/charlesmaxwood/railscoach006.mp3)[Subscribe in iTunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=346089573)Remember to leave feedback by calling 801-753-8279 or emailing [podcast@railscoach.com](mailto:podcast@railscoach.com). Conferences are a great way to learn and meet people. The conferences I've attended:
 
-- [Mountain West RubyConf](http://mtnwestrubyconf.org/2010/)
-- [RubyConf](http://www.rubyconf.org/)
-- [RailsConf](http://en.oreilly.com/rails2010)
+- [Mountain West RubyConf](https://mtnwestrubyconf.org/2010/)
+- [RubyConf](https://www.rubyconf.org/)
+- [RailsConf](https://en.oreilly.com/rails2010)
   Tips for getting the most out of conferences:<!--more-->
 - Put away your distractions.
 - Sit next to and meet people you don't know.
@@ -33,12 +33,12 @@ tags:
 - Review the basics.
 - Find a job or increase marketability.
   Conferences in the Ruby and Rails Community
-- [RailsConf](http://en.oreilly.com/rails2010)
-- [RubyConf](http://rubyconf.org)
-- [MountainWest RubyConf](http://mtnwestrubyconf.org/2010/)
+- [RailsConf](https://en.oreilly.com/rails2010)
+- [RubyConf](https://rubyconf.org)
+- [MountainWest RubyConf](https://mtnwestrubyconf.org/2010/)
 - acts_as_conference
-- [Lone Star Ruby Conf](http://www.lonestarrubyconf.com/)
-- [Ruby Hoedown](http://rubyhoedown.com/)
-- [Windy City Rails](http://windycityrails.org/)
-- [GoGaRuCo](http://gogaruco.com)
-- [Aloha on Rails](http://www.alohaonrails.com)
+- [Lone Star Ruby Conf](https://www.lonestarrubyconf.com/)
+- [Ruby Hoedown](https://rubyhoedown.com/)
+- [Windy City Rails](https://windycityrails.org/)
+- [GoGaRuCo](https://gogaruco.com)
+- [Aloha on Rails](https://www.alohaonrails.com)

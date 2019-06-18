@@ -5,7 +5,7 @@ title: >
 date: 2019-05-14 10:00:54
 episode_number: 051
 duration: 1:01:41
-audio_url: http://media.devchat.tv/elixir-mix/EMx_051_TBD_with_Connor_Rigby.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_051_TBD_with_Connor_Rigby.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/elixir) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -30,13 +30,13 @@ Connor Rigby, a core member of the Nerves team, answers the panel's questions ab
 
 - [https://farm.bot/](https://farm.bot/)
 - [https://github.com/nerves-project](https://github.com/nerves-project)
-- [http://wiki.ros.org/sig/Embedded](http://wiki.ros.org/sig/Embedded)
+- [https://wiki.ros.org/sig/Embedded](https://wiki.ros.org/sig/Embedded)
 - [https://elixirforum.com/t/sqlite-ecto2-new-maintainer/15611](https://elixirforum.com/t/sqlite-ecto2-new-maintainer/15611)
 - [https://github.com/elixir-sqlite/sqlite\_ecto2](https://github.com/elixir-sqlite/sqlite_ecto2)
 - [https://www.rosepoint.com/](https://www.rosepoint.com/)
 - [https://github.com/RosePointNav](https://github.com/RosePointNav)
 - [ElixirConf 2015 - Embedded Elixir in Action by Garth Hitchens](https://www.youtube.com/watch?v=kpzQrFC55q4)
-- [Mocks and explicit contracts](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
+- [Mocks and explicit contracts](https://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
 - [https://www.nerves-hub.org/](https://www.nerves-hub.org/)
 - [https://www.media.mit.edu/projects/personal-food-computer/overview/](https://www.media.mit.edu/projects/personal-food-computer/overview/)
 - [https://smartrent.com/](https://smartrent.com/)

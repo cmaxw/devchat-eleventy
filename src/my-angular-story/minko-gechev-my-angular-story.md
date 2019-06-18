@@ -34,10 +34,10 @@ Minko would love to hear from you! Visit him through&nbsp;the links below. Don't
 
 ## Picks:
 
-Minko: [Text and Programming Languages by MIT Press](https://mitpress.mit.edu/books/types-and-programming-languages)&nbsp;and EFF programming language Charles: [The Eventual Millionaire by Jaime Masters](http://eventualmillionaire.com/)&nbsp;and [Deep Work Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+Minko: [Text and Programming Languages by MIT Press](https://mitpress.mit.edu/books/types-and-programming-languages)&nbsp;and EFF programming language Charles: [The Eventual Millionaire by Jaime Masters](https://eventualmillionaire.com/)&nbsp;and [Deep Work Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 
 ## Episode Links:
 
-[Angular in Patterns](https://github.com/mgechev/angularjs-in-patterns),&nbsp;[AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide),&nbsp;[John Papa’s Style Guide](https://github.com/johnpapa/angular-styleguide),&nbsp;[Switching to Angular 2 by Minko Gechev](https://www.amazon.com/Switching-Angular-2-Minko-Gechev-ebook/dp/B0171UHKYA),&nbsp;[Getting Started with Angular by Minko Gechev](https://www.amazon.com/Getting-started-Angular-Minko-Gechev-ebook/dp/B01MU0LE1A),&nbsp;[Eve programming language](http://witheve.com/), [VMWare](http://www.vmware.com/asean.html)
+[Angular in Patterns](https://github.com/mgechev/angularjs-in-patterns),&nbsp;[AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide),&nbsp;[John Papa’s Style Guide](https://github.com/johnpapa/angular-styleguide),&nbsp;[Switching to Angular 2 by Minko Gechev](https://www.amazon.com/Switching-Angular-2-Minko-Gechev-ebook/dp/B0171UHKYA),&nbsp;[Getting Started with Angular by Minko Gechev](https://www.amazon.com/Getting-started-Angular-Minko-Gechev-ebook/dp/B01MU0LE1A),&nbsp;[Eve programming language](https://witheve.com/), [VMWare](https://www.vmware.com/asean.html)
 
 ### Transcript

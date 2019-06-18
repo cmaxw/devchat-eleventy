@@ -14,8 +14,8 @@ tags:
 
 ## **&nbsp;Sponsors:**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
-- [.TECH -](https://get.tech/)[Go.tech/Freelancer](http://Go.tech/Freelancer)&nbsp;and use the coupon code “ **FREELANCER.TECH** ” and get a 1 year .TECH Domain at $9.99 and 5 Year Domain at $49.99. Hurry!
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [.TECH -](https://get.tech/)[Go.tech/Freelancer](https://Go.tech/Freelancer)&nbsp;and use the coupon code “ **FREELANCER.TECH** ” and get a 1 year .TECH Domain at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [Try GanttPRO FREE for 14 days](https://ganttpro.com/)|&nbsp;[Software Development project&nbsp;](https://ganttpro.com/software-development-plan-template/)[template](https://ganttpro.com/software-development-plan-template/)&nbsp;Use coupon code “devchat” to&nbsp;[get $50 for using GanttPRO](https://ganttpro.com/go/devchat)
 - [CacheFly](https://www.cachefly.com/)
 

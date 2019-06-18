@@ -14,22 +14,22 @@ tags:
 
 01:57 - Tools and Scheduling Apps
 
-- [Google Calendar](http://calendar.google.com)
+- [Google Calendar](https://calendar.google.com)
 - [Sunrise Calendar](https://calendar.sunrise.am/)
 - [Calendly](https://calendly.com/)
 - [YouCanBook.me](https://youcanbook.me/)
-- [Due: The Superfast Reminder App](http://www.dueapp.com/)
-- [BusyCal](http://www.busymac.com/busycal/)
+- [Due: The Superfast Reminder App](https://www.dueapp.com/)
+- [BusyCal](https://www.busymac.com/busycal/)
 
 08:16 - Prioritizing and Planning a Productive Day (Making a Commitment and Sticking to a System)
 
-- [The Pomodoro Technique](http://pomodorotechnique.com/)
+- [The Pomodoro Technique](https://pomodorotechnique.com/)
 - [KanbanFlow](https://kanbanflow.com/)
-- [Getting Things Done: The Art of Stress-Free Productivity by David Allen](http://www.amazon.com/dp/0142000280/?tag=googhydr-20&hvadid=43437217647&hvpos=1t1&hvexid=&hvnetw=g&hvrand=1555736370269098548&hvpone=8.88&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_9pik16q4jk_b)
+- [Getting Things Done: The Art of Stress-Free Productivity by David Allen](https://www.amazon.com/dp/0142000280/?tag=googhydr-20&hvadid=43437217647&hvpos=1t1&hvexid=&hvnetw=g&hvrand=1555736370269098548&hvpone=8.88&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_9pik16q4jk_b)
 
 18:27 - Getting Started
 
-- [Leo Babauta’s MIT Idea (Most Important Task)](http://zenhabits.net/purpose-your-day-most-important-task/)
+- [Leo Babauta’s MIT Idea (Most Important Task)](https://zenhabits.net/purpose-your-day-most-important-task/)
   - The “Dragon Task” \<= That **ONE** Task
 - Tracking Back and Forth vs Having Everything in One Place
 
@@ -51,12 +51,12 @@ tags:
 49:01 - Offloading to Free Up Your Schedule
 
 - Have a “Workshop” Every Week
-  - <u><a style="text-decoration: none;" href="http://www.amazon.com/The-Ultimate-Sales-Machine-Turbocharge/dp/1591842158">The Ultimate Sales Machine: Turbocharge Your Business with Relentless Focus on 12 Key Strategies by Chet Holmes</a></u>
+  - <u><a style="text-decoration: none;" href="https://www.amazon.com/The-Ultimate-Sales-Machine-Turbocharge/dp/1591842158">The Ultimate Sales Machine: Turbocharge Your Business with Relentless Focus on 12 Key Strategies by Chet Holmes</a></u>
     Picks
 
-[<u>Unbreakable Kimmy Schmidt</u>](https://en.wikipedia.org/wiki/Unbreakable_Kimmy_Schmidt) (Reuven)[<u>The Complete Guide to Finding and Selling eCommerce Clients: Learn How to Find, Price, and Sell Clients on Your High-Value Service by Brennan Dunn</u>](http://doubleyourfreelancing.com/guide-to-selling-ecommerce-clients/) (Eric)[<u>Starcraft II</u>](http://us.battle.net/sc2/en/) (Chuck)
+[<u>Unbreakable Kimmy Schmidt</u>](https://en.wikipedia.org/wiki/Unbreakable_Kimmy_Schmidt) (Reuven)[<u>The Complete Guide to Finding and Selling eCommerce Clients: Learn How to Find, Price, and Sell Clients on Your High-Value Service by Brennan Dunn</u>](https://doubleyourfreelancing.com/guide-to-selling-ecommerce-clients/) (Eric)[<u>Starcraft II</u>](https://us.battle.net/sc2/en/) (Chuck)
 
-Q&A Signup: [Freelancers’ Answers](http://freelancersanswers.com/)
+Q&A Signup: [Freelancers’ Answers](https://freelancersanswers.com/)
 
 ### Transcript
 

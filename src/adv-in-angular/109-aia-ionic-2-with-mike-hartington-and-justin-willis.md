@@ -19,18 +19,18 @@ tags:
 Panel: Joe Eames, John Papa, Jules Kramer, Lucas Reubelki, and Charles Max Wood1:50 - Introducing Mike Hartington and Justin Willis
 
 - [Mike’s Github](https://github.com/mhartington)
-- [Mike’s Blog](http://mhartington.io/)
+- [Mike’s Blog](https://mhartington.io/)
 - [Mike’s Twitter](https://twitter.com/mhartington?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [Justin’s Twitter](https://twitter.com/justinwillis96)
 - [Justin’s Github](https://github.com/jgw96)
   3:00 - Updates to Ionic Creator5:00 - Choosing between Ionic 1 or Ionic 29:15 - Updating Ionic with Angular’s changes11:25 - Using Ionic CLI to create projects13:00 - Overlap between Angular CLI and Ionic CLI15:20 - Progressive web apps vs Ionic18:35 - Ionic with PWA’s and Ionic with Cordova20:05 - What is a PWA?22:30 - Dispelling the rumors around Ionic and Cordova
 - [Untappd](https://untappd.com/) social drinking app
-- [Sworkit](http://sworkit.com/) workout app
+- [Sworkit](https://sworkit.com/) workout app
   24:50 - Gaming and Ionic26:15 - Lessons learned from beta testing Angular 229:15 - Limitations to Cordova31:10 - Coding and Platform34:50 - Using RXJS and Promises36:50 - Animations37:40 - Testing Story for Ionic
 
 ### **Picks:**
 
-[Ionic extension for VS Code](https://blogs.msdn.microsoft.com/visualstudio/2016/03/30/build-ionic-apps-in-minutes-with-vs-code/) (John)Gene Wilder and [_Young Frankenstein_](http://www.imdb.com/title/tt0072431/) (Joe) [ServiceWorker Cookbook](https://serviceworke.rs/)(Justin)[Reddit DIY](https://www.reddit.com/r/DIY/) (Mike)
+[Ionic extension for VS Code](https://blogs.msdn.microsoft.com/visualstudio/2016/03/30/build-ionic-apps-in-minutes-with-vs-code/) (John)Gene Wilder and [_Young Frankenstein_](https://www.imdb.com/title/tt0072431/) (Joe) [ServiceWorker Cookbook](https://serviceworke.rs/)(Justin)[Reddit DIY](https://www.reddit.com/r/DIY/) (Mike)
 
 ### Transcript
 

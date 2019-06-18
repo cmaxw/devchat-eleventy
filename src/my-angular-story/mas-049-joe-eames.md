@@ -24,7 +24,7 @@ Panel
 - The birth of NG&nbsp;conference? (27:11)
 - Joe's current projects? (39:36)
   **Picks:\*\*** Joe's&nbsp;\*\*
-- [Costa Vida](http://www.costavida.com/)
+- [Costa Vida](https://www.costavida.com/)
 - [NG Cruise](https://ngcruise.com/#/)
   **Charles' Pick:**
 - [Air BNB&nbsp;](https://www.airbnb.com/?af=43720035&c=A_TC%3Dzfcr4pbmbb%26G_MT%3Dp%26G_CR%3D122167460828%26G_N%3Dg%26G_K%3Dair%20bnb%26G_P%3D%26G_D%3Dc&atlastest5=true&gclid=Cj0KEQiA_KvEBRCtzNil4-KR-LIBEiQAmgekFwrsmFcMqUHZ4OZ1ESEtAZULlIxHL3IOWPhcqKEagUQaAkvR8P8HAQ)

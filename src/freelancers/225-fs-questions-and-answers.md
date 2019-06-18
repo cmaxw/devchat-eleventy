@@ -35,7 +35,7 @@ tags:
 - [Paul Jarvis](https://pjrvs.com/)
 - [Rails Remote Conf](https://allremoteconfs.com/rails-2016)
 - [How to Hire a Part-Time Employee](https://doubleyouraudience.com/hire-part-time-employee/)
-- [Entreprogrammers.com](http://entreprogrammers.com/)
+- [Entreprogrammers.com](https://entreprogrammers.com/)
   Picks:
 - [Selling To Big Companies by Jill Konrath](https://www.amazon.com/dp/B008BMNJEI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [How to Hire a Part-Time Employee](https://doubleyouraudience.com/hire-part-time-employee/)

@@ -21,7 +21,7 @@ tags:
 - By trade a&nbsp; being a designer
 - Building with JavaScript
 - Learning about Meteor on Hacker News in 2013
-- [Sacha Greif&nbsp;](http://sachagreif.com)
+- [Sacha Greif&nbsp;](https://sachagreif.com)
 - Apollo
 - Raw Node JS
 - Understanding Webpack?
@@ -29,23 +29,23 @@ tags:
 - Boilerplates
 - and much, much more!
   **Links:&nbsp;**
-- [Sacha Greif](http://sachagreif.com)
+- [Sacha Greif](https://sachagreif.com)
 - [Clever Beagle](https://cleverbeagle.com)
 - [https://www.meteor.com](https://www.meteor.com)
 - https://themeteorchef.com/info/about
 - [https://cleverbeagle.com/subcribe](https://cleverbeagle.com/subcribe)
 - @rglover
-- [ryanglover.net](http://ryanglover.net)
+- [ryanglover.net](https://ryanglover.net)
   **Picks** Ryan
-- [Halt and Catch Fire](http://www.amc.com/shows/halt-and-catch-fire)
-- [Sacha Greif](http://sachagreif.com) State of JavaScript
+- [Halt and Catch Fire](https://www.amc.com/shows/halt-and-catch-fire)
+- [Sacha Greif](https://sachagreif.com) State of JavaScript
 - Tom Coleman
   Charles
 - React Developer Summit
 - JavaScript Developer Summit
 - [How To Find A Job Course&nbsp;](https://devchat.tv)
 - Stranger Things Season 2
-- [moviepass.com](http://moviepass.com)
+- [moviepass.com](https://moviepass.com)
 
 ### Transcript
 

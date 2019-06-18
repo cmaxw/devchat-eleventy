@@ -42,7 +42,7 @@ Cory suggests that service oriented architecture movement has moved us that way.
 
 ##### Possible Future for Front-end and Back-end Roles
 
-Charles brings up that the development of things like VR are making changes in the roles that front end and back end development play. The front end will more to taking care of the overall application development of apps, while the back end will become supporting roles as services and APIs. New technology like VR and artificial intelligence will need a high amount of computing power on the backend. The front end will focus more on the overall experience, display, and the way we react with things. Charles talks about how the web may move away from being just an HTML platform. He says that it will be interesting to find where JavaScript and frameworks like React will fall into this shift into this next generation. We already are seeing some of this with the capabilities with canvases, [WebVR](https://webvr.info/), and [SVG](http://svgjs.com/) and how they are changing how we experience the web.
+Charles brings up that the development of things like VR are making changes in the roles that front end and back end development play. The front end will more to taking care of the overall application development of apps, while the back end will become supporting roles as services and APIs. New technology like VR and artificial intelligence will need a high amount of computing power on the backend. The front end will focus more on the overall experience, display, and the way we react with things. Charles talks about how the web may move away from being just an HTML platform. He says that it will be interesting to find where JavaScript and frameworks like React will fall into this shift into this next generation. We already are seeing some of this with the capabilities with canvases, [WebVR](https://webvr.info/), and [SVG](https://svgjs.com/) and how they are changing how we experience the web.
 
 ##### Reasonable Component Story
 
@@ -82,7 +82,7 @@ Cory says that he can sum up React in a single sentence. He says that your HTML 
 
 ###### Charles’
 
-[Get a Better Job Course](http://getacoderjob.com/)[Angular Remote Conf (now Ruby Dev Summit)](https://rubydevsummit.com/)[React Podcast Kickstarter](https://devchat.tv/react-native-radio)
+[Get a Better Job Course](https://getacoderjob.com/)[Angular Remote Conf (now Ruby Dev Summit)](https://rubydevsummit.com/)[React Podcast Kickstarter](https://devchat.tv/react-native-radio)
 
 ---
 

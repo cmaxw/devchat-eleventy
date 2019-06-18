@@ -14,8 +14,8 @@ tags:
 
 ### Reading:
 
-- [http://blog.stevecoast.com/what-the-hell-is-happening-to-rails](http://blog.stevecoast.com/what-the-hell-is-happening-to-rails)
-- [http://yehudakatz.com/2011/06/14/what-the-hell-is-happening-to-rails/](http://yehudakatz.com/2011/06/14/what-the-hell-is-happening-to-rails/)
+- [https://blog.stevecoast.com/what-the-hell-is-happening-to-rails](https://blog.stevecoast.com/what-the-hell-is-happening-to-rails)
+- [https://yehudakatz.com/2011/06/14/what-the-hell-is-happening-to-rails/](https://yehudakatz.com/2011/06/14/what-the-hell-is-happening-to-rails/)
   Thoughts on Rails 3.x:
 - Resource routing changed - Good and Bad
 - Performance problems - Explained

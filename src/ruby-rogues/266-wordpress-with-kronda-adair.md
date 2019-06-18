@@ -5,7 +5,7 @@ title: >
 date: 2016-06-29 07:00:56
 episode_number: 266
 duration: 50:44
-audio_url: http://media.devchat.tv/ruby-rogues/RR266KrondaAdair.mp3
+audio_url: https://media.devchat.tv/ruby-rogues/RR266KrondaAdair.mp3
 podcast: ruby-rogues
 tags:
   - ruby_rogues
@@ -17,7 +17,7 @@ tags:
 &nbsp;03:09 - Kronda Adair Introduction
 
 - [Twitter](https://twitter.com/kronda)
-- [Blog](http://kronda.com/)
+- [Blog](https://kronda.com/)
 - [Karvel Digital](https://karveldigital.com/)
   - [@karveldigital](https://twitter.com/karveldigital)
   - [Facebook](https://www.facebook.com/karveldigital/?fref=ts)
@@ -26,13 +26,13 @@ tags:
 - [Derick Bailey](https://twitter.com/derickbailey): [WatchMeCode](https://sub.watchmecode.net/)
 - [Sunk Cost Fallacy](https://en.wikipedia.org/wiki/Sunk_costs)
   07:59 - Why do developers hate WordPress?
-- [Venomous Porridge: A conversation I have every month or so](http://venomousporridge.com/post/389785000/a-conversation-i-have-every-month-or-so)
+- [Venomous Porridge: A conversation I have every month or so](https://venomousporridge.com/post/389785000/a-conversation-i-have-every-month-or-so)
   14:53 - Using Tools That Fit Technology Preferences
-- [PHP](http://php.net/)
-- [Wix](http://www.wix.com/)
+- [PHP](https://php.net/)
+- [Wix](https://www.wix.com/)
 - [Aaron Hockley: WordPress is a DSLR; Squarespace is a Point and Shoot](https://photowebo.com/wordpress-vs-squarespace-photographers/)
 - Technology Bias
-- [Refresh Portland](http://rfrshpdx.org/)
+- [Refresh Portland](https://rfrshpdx.org/)
   21:52 - Empathy and Discovery Processes for Clients
 - Tests
 - Asking Questions
@@ -41,20 +41,20 @@ tags:
     31:38 - Conversations with Customers vs Owners/Managers
 - [WordCamp Orange County](https://2016.oc.wordcamp.org/)
   34:43 - [Websites That Work | Indiegogo](https://www.indiegogo.com/projects/websites-that-work#/)36:48 - Kronda’s Origin Story
-- [Portland Community College](http://www.pcc.edu/)
+- [Portland Community College](https://www.pcc.edu/)
   &nbsp;Picks
-- [Hover](http://hover.com) (Kronda)
-- [Flywheel](http://getflywheel.com) (Kronda)
+- [Hover](https://hover.com) (Kronda)
+- [Flywheel](https://getflywheel.com) (Kronda)
 - [WordPress](https://wordpress.com/) (Kronda)
-- [Thrive Themes](http://thrivethemes.com) (Kronda)
-- [Genesis](http://my.studiopress.com/themes/genesis/) (Kronda)
-- [ActiveCampaign](http://activecampaign.com) (Kronda)
+- [Thrive Themes](https://thrivethemes.com) (Kronda)
+- [Genesis](https://my.studiopress.com/themes/genesis/) (Kronda)
+- [ActiveCampaign](https://activecampaign.com) (Kronda)
 - [Lingo](https://www.lingoapp.com/) (Kronda)
-- [Tybee Island, Georgia](http://tybeeisland.com/) (Jessica)
+- [Tybee Island, Georgia](https://tybeeisland.com/) (Jessica)
 - [Robert Epstein: The empty brain: Your brain does not process information, retrieve knowledge or store memories. In short: your brain is not a computer](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) (Coraline)
 - [Blindsight by Peter Watts](<https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)>) (Sam)
-- [Aurynn Shaw: Contempt Culture](http://blog.aurynn.com/86/contempt-culture) (Sam)
-- [StudioPress](http://www.studiopress.com/) (Chuck)
+- [Aurynn Shaw: Contempt Culture](https://blog.aurynn.com/86/contempt-culture) (Sam)
+- [StudioPress](https://www.studiopress.com/) (Chuck)
 - [DigitalOcean](https://www.digitalocean.com/) (Chuck)
 - [Drip](https://www.getdrip.com/) (Chuck)
 

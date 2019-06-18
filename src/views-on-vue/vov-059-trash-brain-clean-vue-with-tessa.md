@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [Triplebyte](https://triplebyte.com/vue) offers a $1000 signing bonus
 
 ### **Panel**
@@ -36,7 +36,7 @@ Tessa is UI developer, teacher, and community organizer. Her passion is finding 
 - [RenderProps](https://reactjs.org/docs/render-props.html)
 - [Nextech](https://www.nextech.com/)
 - [Closure in comics](https://understandingcomics177.wordpress.com/about/1-2/2-2/)
-- [vuejs.nyc](http://vuejs.nyc/)
+- [vuejs.nyc](https://vuejs.nyc/)
 Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/? __tn__ =%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 ### **Picks**
  **Divya Sasidharan:**

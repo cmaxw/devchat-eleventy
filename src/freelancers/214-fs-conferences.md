@@ -15,8 +15,8 @@ tags:
 01:44 - Deciding to Attend Conferences
 
 - [Double Your Freelancing Conference: Europe](https://doubleyourfreelancing.com/euconf/)
-- [MicroConf](http://www.microconf.com/)
-- [MicroConf Europe](http://www.microconfeurope.com/)
+- [MicroConf](https://www.microconf.com/)
+- [MicroConf Europe](https://www.microconfeurope.com/)
   09:14 - Conference Experiences
 - Receptions
   13:44 - Implementing Ideas From Conferences

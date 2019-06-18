@@ -16,30 +16,30 @@ tags:
 
 - [LivingSocial](https://livingsocial.com/)
 
-03:00 - [The Rails View: Create a Beautiful and Maintainable User Experience by John Athayde and Bruce Williams](http://pragprog.com/book/warv/the-rails-view)
+03:00 - [The Rails View: Create a Beautiful and Maintainable User Experience by John Athayde and Bruce Williams](https://pragprog.com/book/warv/the-rails-view)
 
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 
-07:08 - [HTML5](http://en.wikipedia.org/wiki/HTML5)
+07:08 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
-- [[Confreaks] Ten Things You Didn't Know Rails Could Do: James Edward Grey II](http://www.confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do)
-- [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
-- [HTML5 Periodic Table of the Elements - Josh Duck](http://joshduck.com/periodic-table.html)
-- [Modernizr](http://modernizr.com/)
+- [[Confreaks] Ten Things You Didn't Know Rails Could Do: James Edward Grey II](https://www.confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do)
+- [HTML5 Element Flowchart](https://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
+- [HTML5 Periodic Table of the Elements - Josh Duck](https://joshduck.com/periodic-table.html)
+- [Modernizr](https://modernizr.com/)
 
 11:07 - Tackling Technologies
 
-- [ERb](http://www.ruby-doc.org/stdlib-2.0/libdoc/erb/rdoc/ERB.html)
+- [ERb](https://www.ruby-doc.org/stdlib-2.0/libdoc/erb/rdoc/ERB.html)
 - [Haml](https://en.wikipedia.org/wiki/Haml)
-- [Sass](http://sass-lang.com/)
+- [Sass](https://sass-lang.com/)
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [capybara](https://github.com/jnicklas/capybara)
 - [Vanity](https://github.com/assaf/vanity)
-- [Cucumber](http://cukes.info/)
-- [Selenium](http://docs.seleniumhq.org/)
-- [jQuery](http://jquery.com/)
-- [jQuery Mobile](http://jquerymobile.com/)
+- [Cucumber](https://cukes.info/)
+- [Selenium](https://docs.seleniumhq.org/)
+- [jQuery](https://jquery.com/)
+- [jQuery Mobile](https://jquerymobile.com/)
 - [factory_girl](https://github.com/thoughtbot/factory_girl)
 
 13:02 - Readability Refactoring
@@ -47,33 +47,33 @@ tags:
 14:47 - Potential Book Revisions
 
 - New technologies
-- [Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
-- [CoffeeScript](http://coffeescript.org/)
+- [Asset Pipeline](https://guides.rubyonrails.org/asset_pipeline.html)
+- [CoffeeScript](https://coffeescript.org/)
 
-17:01 - Intro for [CoffeeScript](http://coffeescript.org/) vs Intro for [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+17:01 - Intro for [CoffeeScript](https://coffeescript.org/) vs Intro for [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-18:26 - [Jasmine](http://pivotal.github.io/jasmine/) & [JavaScript](http://en.wikipedia.org/wiki/JavaScript) Coverage
+18:26 - [Jasmine](https://pivotal.github.io/jasmine/) & [JavaScript](https://en.wikipedia.org/wiki/JavaScript) Coverage
 
-- [038 JSJ Jasmine with Justin Searls](http://javascriptjabber.com/038-jsj-jasmine-with-justin-searls/)
+- [038 JSJ Jasmine with Justin Searls](https://javascriptjabber.com/038-jsj-jasmine-with-justin-searls/)
 - [jquery-ujs](https://github.com/rails/jquery-ujs)
 
 21:08 - Using Technologies
 
 24:38 - Book Audience
 
-27:50 - [HTML5](http://html5/) Shifting and Changing
+27:50 - [HTML5](https://html5/) Shifting and Changing
 
 29:39 - Discussing Complicated Topics
 
 - IE Versions
 - Fonts
 
-30:16 - [CSS](http://css/)
+30:16 - [CSS](https://css/)
 
 - Nesting
 - Optimization
 - [libsass](https://github.com/hcatlin/libsass)
-- [Keith Pitt & Mario Visic - Keith and Mario's Guide to Fast Websites](http://vimeo.com/61342267)
+- [Keith Pitt & Mario Visic - Keith and Mario's Guide to Fast Websites](https://vimeo.com/61342267)
 
 34:41 - Form Objects
 
@@ -90,7 +90,7 @@ tags:
 
 ### Book Club
 
-[Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](http://pragprog.com/book/ehxta/explore-it)
+[Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson](https://pragprog.com/book/ehxta/explore-it)
 
 ### Next Week
 

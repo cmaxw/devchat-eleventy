@@ -20,7 +20,7 @@ This week on My Ruby Story, Chuck talks with [Jérémie Bonal](https://medium.co
 
 **In particular, we dive pretty deep on:**
 
-0:00 – [Get A Coder Job!](http://getacoderjob.com/)
+0:00 – [Get A Coder Job!](https://getacoderjob.com/)
 
 1:05 – Chuck: We are talking with [Jérémie Bonal](https://medium.com/@aquajvalin) today. Tell us who you are!
 
@@ -145,7 +145,7 @@ I tried other things, too.
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 - Fresh Books
 
@@ -154,12 +154,12 @@ I tried other things, too.
 Jérémie
 
 - Article
-- [DHH](http://david.heinemeierhansson.com)
+- [DHH](https://david.heinemeierhansson.com)
 
 Chuck
 
 - [Podcast: Launch](https://itunes.apple.com/us/podcast/launch/id1319436103?mt=2)
-- [CodeBadge.Org](http://codebadge.org)
+- [CodeBadge.Org](https://codebadge.org)
 - [Get A Coder Job](https://devchat.tv/get-a-coder-job/)
 - My Ruby Stories! – [DevChat.Tv](https://devchat.tv)
 

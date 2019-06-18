@@ -15,33 +15,33 @@ tags:
 01:46 - Kai Davis Introduction
 
 - [Twitter](https://twitter.com/kaisdavis)
-- [Blog](http://kaidavis.com/)
+- [Blog](https://kaidavis.com/)
 - [Kai's suit from MicroConf](https://twitter.com/kaisdavis/status/717479034389565440)
 - [OppoSuits](https://www.opposuits.com/)
-- [Podcast Outreach: A Guide To Proactively Guesting On Podcasts by Kai Davis](http://podcastoutreach.com/)
+- [Podcast Outreach: A Guide To Proactively Guesting On Podcasts by Kai Davis](https://podcastoutreach.com/)
   03:31 - Podcast Tours09:12 - Outreach Emails
-- [Devchat.tv Interest Survey](http://goo.gl/forms/RAjGRT8Ia6)
-- [Podcast Outreach Email Template](http://doubleyouraudience.com/podcast-outreach-email/)
+- [Devchat.tv Interest Survey](https://goo.gl/forms/RAjGRT8Ia6)
+- [Podcast Outreach Email Template](https://doubleyouraudience.com/podcast-outreach-email/)
   14:44 - Pitching Topics16:28 - Appealing to Audiences19:32 - Popularity Sorting
-- [BuzzSumo](http://buzzsumo.com)
-- [Majestic](http://majesticseo.com)
-- [Moz](http://seomoz.com)
+- [BuzzSumo](https://buzzsumo.com)
+- [Majestic](https://majesticseo.com)
+- [Moz](https://seomoz.com)
   21:56 - Are there markets that don’t listen to podcasts?
-- [cast.market](http://cast.market)
+- [cast.market](https://cast.market)
   24:27 - Does it matter how big podcasts are that you guest on?34:42 - Offerings and Calls to Action
-- [Patrick McKenzie: Ramit Sethi and Patrick McKenzie On Why Your Customers Would Be Happier If You Charged More](http://www.kalzumeus.com/2012/09/21/ramit-sethi-and-patrick-mckenzie-on-why-your-customers-would-be-happier-if-you-charged-more/)
+- [Patrick McKenzie: Ramit Sethi and Patrick McKenzie On Why Your Customers Would Be Happier If You Charged More](https://www.kalzumeus.com/2012/09/21/ramit-sethi-and-patrick-mckenzie-on-why-your-customers-would-be-happier-if-you-charged-more/)
   41:14 - Other Podcast Guest Do’s and Don’ts&nbsp;More from Kai:
-- [How do you write an email to get on a podcast?](http://doubleyouraudience.com/podcast-outreach-email/)
-- [How can I use podcasts to get more traffic?](http://doubleyouraudience.com/podcast-traffic/)
-- [How do I create a list of podcast owners I should reach out to about appearing?](http://doubleyouraudience.com/podcast-prospecting/)
+- [How do you write an email to get on a podcast?](https://doubleyouraudience.com/podcast-outreach-email/)
+- [How can I use podcasts to get more traffic?](https://doubleyouraudience.com/podcast-traffic/)
+- [How do I create a list of podcast owners I should reach out to about appearing?](https://doubleyouraudience.com/podcast-prospecting/)
   &nbsp;Picks
-- [Double Your Freelancing EUConf](http://doubleyourfreelancing.com/euconf/) (Reuven)
-- [JBL Flip 2 Portable Wireless Speaker](http://www.amazon.com/JBL-Portable-Wireless-Speaker-Black/dp/B00GAJ2OK4?ie=UTF8&keywords=jbl%20flip%202&qid=1461576980&ref_=sr_1_1&sr=8-1) (Reuven)
-- [1pageleadgen.site](http://1pageleadgen.site) (Philip)
-- [Audition for The Freelancers’ Show!](http://freelancersshow.com/struggling) (Chuck)
-- [5 Outreach Tricks You’re Missing: Learn How To Email Anyone... And Get A Response](http://freeoutreachcourse.com) (Kai)
-- [Draft: Revise Weekly](http://draft.nu/revise/weekly/) (Kai)
-- [Master Facebook Marketing](http://superspicymedia.com/master-facebook-marketing/) (Kai)
+- [Double Your Freelancing EUConf](https://doubleyourfreelancing.com/euconf/) (Reuven)
+- [JBL Flip 2 Portable Wireless Speaker](https://www.amazon.com/JBL-Portable-Wireless-Speaker-Black/dp/B00GAJ2OK4?ie=UTF8&keywords=jbl%20flip%202&qid=1461576980&ref_=sr_1_1&sr=8-1) (Reuven)
+- [1pageleadgen.site](https://1pageleadgen.site) (Philip)
+- [Audition for The Freelancers’ Show!](https://freelancersshow.com/struggling) (Chuck)
+- [5 Outreach Tricks You’re Missing: Learn How To Email Anyone... And Get A Response](https://freeoutreachcourse.com) (Kai)
+- [Draft: Revise Weekly](https://draft.nu/revise/weekly/) (Kai)
+- [Master Facebook Marketing](https://superspicymedia.com/master-facebook-marketing/) (Kai)
 
 ### Transcript
 

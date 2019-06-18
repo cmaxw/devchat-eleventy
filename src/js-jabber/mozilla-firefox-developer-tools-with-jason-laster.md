@@ -30,6 +30,6 @@ XUL's components are similar to HTML. But when they started debugging, they foun
 
 ## Picks:
 
-AJ: [Retro Game Audio podcast](https://soundcloud.com/retrogameaudio), [The Circle movie](http://www.imdb.com/title/tt4287320/), Ready Player One book Aimee: Blink on YouTube channel, Milo's Tea, Joe Eames for saving the day Joe Eames: [Deception: Murder Hong Kong](https://boardgamegeek.com/boardgame/156129/deception-murder-hong-kong), [Mysterium](https://boardgamegeek.com/boardgame/181304/mysterium)Jason: [yayQuery podcast](http://yayquery.com/)
+AJ: [Retro Game Audio podcast](https://soundcloud.com/retrogameaudio), [The Circle movie](https://www.imdb.com/title/tt4287320/), Ready Player One book Aimee: Blink on YouTube channel, Milo's Tea, Joe Eames for saving the day Joe Eames: [Deception: Murder Hong Kong](https://boardgamegeek.com/boardgame/156129/deception-murder-hong-kong), [Mysterium](https://boardgamegeek.com/boardgame/181304/mysterium)Jason: [yayQuery podcast](https://yayquery.com/)
 
 ### Transcript

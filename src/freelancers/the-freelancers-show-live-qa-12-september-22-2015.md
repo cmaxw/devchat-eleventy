@@ -14,37 +14,37 @@ tags:
 
 00:44 - Balancing Availability and Handling Huge Time Differences
 
-- [ScreenFlow](http://www.telestream.net/screenflow/overview.htm)
+- [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 - [Jing](https://www.techsmith.com/jing.html)
 
-10:42 - Jonathan’s [Double Your Freelancing Conference](http://doubleyourfreelancing.com/conf/) Recap
+10:42 - Jonathan’s [Double Your Freelancing Conference](https://doubleyourfreelancing.com/conf/) Recap
 
 - [Brennan Dunn](https://twitter.com/brennandunn)
 
 18:36 - Is there a way to get the benefits of attending a conference without attending a conference?
 
 - [Slack](https://slack.com/)
-- [Meetup](http://www.meetup.com/)
+- [Meetup](https://www.meetup.com/)
 
 27:10 - Reading Books
 
-- [Essentialism: The Disciplined Pursuit of Less by Greg McKeown](http://www.amazon.com/gp/product/0804137382/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137382&linkCode=as2&tag=chamaxwoo-20&linkId=M2MX4ZFEBGVM2BFF)
-- [Value-Based Fees: How to Charge - and Get - What You're Worth by Alan Weiss](http://www.amazon.com/gp/product/0470275847/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470275847&linkCode=as2&tag=chamaxwoo-20&linkId=KEKMM5WPCC7OFS77)
-- [The Brain Audit: Why Customers Buy (and Why They Don't) by Sean D'Souza](http://www.amazon.com/gp/product/0473175045/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0473175045&linkCode=as2&tag=chamaxwoo-20&linkId=E5IHED6JQ62GDAUW)
+- [Essentialism: The Disciplined Pursuit of Less by Greg McKeown](https://www.amazon.com/gp/product/0804137382/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137382&linkCode=as2&tag=chamaxwoo-20&linkId=M2MX4ZFEBGVM2BFF)
+- [Value-Based Fees: How to Charge - and Get - What You're Worth by Alan Weiss](https://www.amazon.com/gp/product/0470275847/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470275847&linkCode=as2&tag=chamaxwoo-20&linkId=KEKMM5WPCC7OFS77)
+- [The Brain Audit: Why Customers Buy (and Why They Don't) by Sean D'Souza](https://www.amazon.com/gp/product/0473175045/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0473175045&linkCode=as2&tag=chamaxwoo-20&linkId=E5IHED6JQ62GDAUW)
 - [Jonathan’s Reading List &nbsp;](https://expensiveproblem.com/readinglist)
 
 36:23 - Double Your Freelancing Conference Recaps
 
-- [Matt Inglot: #DYFConf 2015 and the Mindsets of Successful Consultants](http://www.freelancetransformation.com/blog/dyfconf-2015)
+- [Matt Inglot: #DYFConf 2015 and the Mindsets of Successful Consultants](https://www.freelancetransformation.com/blog/dyfconf-2015)
 - [Jonathan's #DYFC Page](https://expensiveproblem.com/dyfc)
 - [Kurt Elster: #DYFConf2015 Retrospective: My Personal Journey From Introvert to Public Speaker](https://medium.com/@kurtelster/dyfconf2015-retrospective-my-personal-journey-from-introvert-to-public-speaker-d2168b38dd51)
-- [Julie Elster: My OH SHIT Moment; Pushing Through The Uncomfortable and Conquering My DYFConf Talk](http://blog.justtelljulie.com/post/129512284492/my-oh-shit-moment-pushing-through-the)&nbsp; &nbsp; &nbsp;
+- [Julie Elster: My OH SHIT Moment; Pushing Through The Uncomfortable and Conquering My DYFConf Talk](https://blog.justtelljulie.com/post/129512284492/my-oh-shit-moment-pushing-through-the)&nbsp; &nbsp; &nbsp;
 
 38:41 - Reading (Cont’d)
 
 - [The Positioning Manual For Technical Firms by Philip Morgan](https://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/)
-- [Book Yourself Solid: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port](http://www.amazon.com/gp/product/0470643471/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470643471&linkCode=as2&tag=chamaxwoo-20&linkId=XDLHN7AAZWHJ4CQU) &nbsp;
-- [Steal the Show: From Speeches to Job Interviews to Deal-Closing Pitches, How to Guarantee a Standing Ovation for All the Performances in Your Life by Michael Port](http://www.amazon.com/gp/product/054455518X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=054455518X&linkCode=as2&tag=chamaxwoo-20&linkId=OSCXUBXZSGIURYYV)
+- [Book Yourself Solid: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port](https://www.amazon.com/gp/product/0470643471/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470643471&linkCode=as2&tag=chamaxwoo-20&linkId=XDLHN7AAZWHJ4CQU) &nbsp;
+- [Steal the Show: From Speeches to Job Interviews to Deal-Closing Pitches, How to Guarantee a Standing Ovation for All the Performances in Your Life by Michael Port](https://www.amazon.com/gp/product/054455518X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=054455518X&linkCode=as2&tag=chamaxwoo-20&linkId=OSCXUBXZSGIURYYV)
   - [The Freelancers' Show Episode #81: Book Yourself Solid with Michael Port](https://devchat.tv/freelancers/the-freelancers-show-081-book-club-book-yourself-solid-with-michael-port)
     Picks
 

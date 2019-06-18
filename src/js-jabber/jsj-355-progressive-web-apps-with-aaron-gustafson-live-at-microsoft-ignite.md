@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)&nbsp;use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/)&nbsp;use the code “devchat” for $100 credit
 - [Triplebyte](https://triplebyte.com/jsjabber)
 - [Clubhouse](https://clubhouse.io/jsjabber)
 - [CacheFly](https://www.cachefly.com/)

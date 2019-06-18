@@ -14,33 +14,33 @@ tags:
 
 ### Panel
 
-- Igor Minar ([twitter](https://twitter.com/IgorMinar) [github](https://github.com/IgorMinar) [blog](http://blog.igorminar.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://blog.coolaj86.com/) [youtube](http://youtube.com/coolaj86))
-- Sean Hess ([twitter](https://twitter.com/seanhess) [github](https://github.com/seanhess) [blog](http://seanhess.github.io/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
+- Igor Minar ([twitter](https://twitter.com/IgorMinar) [github](https://github.com/IgorMinar) [blog](https://blog.igorminar.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://blog.coolaj86.com/) [youtube](https://youtube.com/coolaj86))
+- Sean Hess ([twitter](https://twitter.com/seanhess) [github](https://github.com/seanhess) [blog](https://seanhess.github.io/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
 
 ### Discussion
 
 01:36 - Igor Minar Introduction
 
 - Teamleader on [AngularJS](https://angularjs.org/)
-- [Google](http://www.google.com/)
+- [Google](https://www.google.com/)
   02:24 - Igor’s History with Angular 06:37 - The Growth & Innovation of Angular
-- [Dart](http://www.dart.org/)
+- [Dart](https://www.dart.org/)
 - [AngularDart](https://angulardart.org/)
-  14:07 - Minification & [The Closure Compiler](https://developers.google.com/closure/compiler/)18:36 - Dependency Injection & Annotation 22:03 - Using [TypeScript](http://www.typescriptlang.org/) with Angular 26:08 - Error Messages
+  14:07 - Minification & [The Closure Compiler](https://developers.google.com/closure/compiler/)18:36 - Dependency Injection & Annotation 22:03 - Using [TypeScript](https://www.typescriptlang.org/) with Angular 26:08 - Error Messages
 - [diary.js](https://github.com/angular/diary.js/tree/master)
   29:25 - Angular & Google 33:30 - Error Messages (Cont’d) 34:53 - Contributing to Angular and Open Source Projects
 - [[Google Group] angular-dev](https://groups.google.com/d/forum/angular-dev)
 
 ### Picks
 
-- [Google](http://www.google.com/) (AJ)
-- [Introducing Coffee-to-the-Home](http://googlefiberblog.blogspot.com/2014/04/introducing-coffee-to-home.html) (AJ)
+- [Google](https://www.google.com/) (AJ)
+- [Introducing Coffee-to-the-Home](https://googlefiberblog.blogspot.com/2014/04/introducing-coffee-to-home.html) (AJ)
 - [geppetto](https://github.com/taterbase/geppetto) (Jamison)
-- [Worm](http://parahumans.wordpress.com/) (Sean)
-- [Pact](http://pactwebserial.wordpress.com/) (Sean)
-- [Blindspot: Hidden Biases of Good People](http://spottheblindspot.com/the-book/) (Igor)
+- [Worm](https://parahumans.wordpress.com/) (Sean)
+- [Pact](https://pactwebserial.wordpress.com/) (Sean)
+- [Blindspot: Hidden Biases of Good People](https://spottheblindspot.com/the-book/) (Igor)
 
 ### Next Week
 

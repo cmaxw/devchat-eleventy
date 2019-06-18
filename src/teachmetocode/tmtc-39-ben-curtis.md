@@ -12,4 +12,4 @@ tags:
   - podcast
 ---
 
-Show notes are forthcoming.[Download this episode](http://traffic.libsyn.com/charlesmaxwood/TMTC39BenCurtis.mp3)
+Show notes are forthcoming.[Download this episode](https://traffic.libsyn.com/charlesmaxwood/TMTC39BenCurtis.mp3)

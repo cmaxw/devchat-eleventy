@@ -23,7 +23,7 @@ In this episode of the Freelancers’ Show, the panelists discuss sunsetting pro
 
 - When to pull the plug
 - Why a product or service wouldn’t be working
-- Killed off [Daily Tech Video](http://dailytechvideo.com/)
+- Killed off [Daily Tech Video](https://dailytechvideo.com/)
 - The importance of not waiting too long to pull the plug
 - Hard to make a public commitment and then give it up
 - If you’re doing something and you’re not making money, it’s a hobby not a business
@@ -36,13 +36,13 @@ In this episode of the Freelancers’ Show, the panelists discuss sunsetting pro
 - Experimentation is key
 - Will it make money that is fast enough for your business?
 - Is it worth your time and effort?
-- [Mandarin Weekly](http://mandarinweekly.com/)
+- [Mandarin Weekly](https://mandarinweekly.com/)
 - And much, much more!&nbsp; &nbsp; &nbsp;
 
 **Links:**
 
-- [Daily Tech Video](http://dailytechvideo.com/)
-- [Mandarin Weekly](http://mandarinweekly.com/)
+- [Daily Tech Video](https://dailytechvideo.com/)
+- [Mandarin Weekly](https://mandarinweekly.com/)
 
 **Picks:**
 

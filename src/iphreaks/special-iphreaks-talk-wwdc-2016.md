@@ -5,7 +5,7 @@ title: >
 date: 2016-06-15 01:08:05
 episode_number:
 duration: 39:05
-audio_url: http://media.devchat.tv/iphreaks/iPhreaksTalkWWDC2016.mp3
+audio_url: https://media.devchat.tv/iphreaks/iPhreaksTalkWWDC2016.mp3
 podcast: iphreaks
 tags:
   - iphreaks
@@ -14,12 +14,12 @@ tags:
 
 A special discussion about what’s already transpired out at [WWDC](https://developer.apple.com/wwdc/) 2016!&nbsp;Picks
 
-- [Westfield San Francisco Centre Food Emporium](http://www.yelp.com/biz/westfield-san-francisco-centre-food-emporium-san-francisco) (Jaim)
-- [iOS 10 Preview](http://www.apple.com/ios/ios10-preview/) (Caleb)
-- [Funko Pop! Tees](http://funko.com/collections/pop-tees) (Caleb)
-- [Smart Keyboard for 12.9-inch iPad Pro](http://www.apple.com/shop/product/MJYR2LL/A/smart-keyboard-for-12-9-inch-ipad-pro?fnode=3e) (Layne)
+- [Westfield San Francisco Centre Food Emporium](https://www.yelp.com/biz/westfield-san-francisco-centre-food-emporium-san-francisco) (Jaim)
+- [iOS 10 Preview](https://www.apple.com/ios/ios10-preview/) (Caleb)
+- [Funko Pop! Tees](https://funko.com/collections/pop-tees) (Caleb)
+- [Smart Keyboard for 12.9-inch iPad Pro](https://www.apple.com/shop/product/MJYR2LL/A/smart-keyboard-for-12-9-inch-ipad-pro?fnode=3e) (Layne)
 - [The unofficial WWDC app for macOS](https://github.com/insidegui/WWDC) (Andrew)
-- [Andrew Madsen: Objective-C Class Properties](http://blog.andrewmadsen.com/post/145919242155/objective-c-class-properties) (Andrew)
+- [Andrew Madsen: Objective-C Class Properties](https://blog.andrewmadsen.com/post/145919242155/objective-c-class-properties) (Andrew)
   &nbsp;
 
 ### Transcript

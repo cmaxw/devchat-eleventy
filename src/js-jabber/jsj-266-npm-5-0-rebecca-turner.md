@@ -223,11 +223,11 @@ On today’s episode of JavaScript Jabber, Charles Max Wood and panelist Joe Eam
 
 ##### Charles
 
-[Rush Limbaugh’s children’s books](http://rushrevere.com/AdventureSeriesBooks/index.html)[Tinker Crate](http://www.kiwicrate.com/tinker)[Kiwi Crate](http://www.kiwicrate.com/)[NPM](https://www.npmjs.com/)[Episodes on My JS Story.](https://devchat.tv/js-jabber)
+[Rush Limbaugh’s children’s books](https://rushrevere.com/AdventureSeriesBooks/index.html)[Tinker Crate](https://www.kiwicrate.com/tinker)[Kiwi Crate](https://www.kiwicrate.com/)[NPM](https://www.npmjs.com/)[Episodes on My JS Story.](https://devchat.tv/js-jabber)
 
 ##### Joe
 
-[Gravity Falls](http://disneyxd.disney.com/gravity-falls)Board Games
+[Gravity Falls](https://disneyxd.disney.com/gravity-falls)Board Games
 
 ##### Rebecca
 

@@ -15,77 +15,77 @@ tags:
 ### Panel
 
 - Ryan Done ([twitter](https://twitter.com/pickledego)&nbsp;[github](https://github.com/rbdone))
-- Dave Smith ([twitter](https://twitter.com/djsmith42)&nbsp;[github](https://github.com/bigdave)&nbsp;[blog](http://www.eighttrackmind.com/))
+- Dave Smith ([twitter](https://twitter.com/djsmith42)&nbsp;[github](https://github.com/bigdave)&nbsp;[blog](https://www.eighttrackmind.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick)&nbsp;[github](https://github.com/iammerrick))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:19 - Ryan Done Introduction
 
-- [Ancestry.com](http://www.ancestry.com/)
-- [AncestryDNA](http://dna.ancestry.com/)
-- [ClientSuccess](http://clientsuccess.com/)
+- [Ancestry.com](https://www.ancestry.com/)
+- [AncestryDNA](https://dna.ancestry.com/)
+- [ClientSuccess](https://clientsuccess.com/)
   02:04 - Backends - History
-- [Backend as a Service (BaaS)](http://en.wikipedia.org/wiki/Mobile_Backend_as_a_service)
-- [iPhone SDK](http://en.wikipedia.org/wiki/IOS_SDK)
+- [Backend as a Service (BaaS)](https://en.wikipedia.org/wiki/Mobile_Backend_as_a_service)
+- [iPhone SDK](https://en.wikipedia.org/wiki/IOS_SDK)
 - [Parse](https://parse.com/)
 - [Meteor](https://www.meteor.com/)
-  06:51 - [Kinvey](http://www.kinvey.com/) 07:10 - APIs
-- [Salesforce](http://www.salesforce.com/)
+  06:51 - [Kinvey](https://www.kinvey.com/) 07:10 - APIs
+- [Salesforce](https://www.salesforce.com/)
   07:51 - Requirements for BaaS
-- [Hoodie](http://hood.ie/)
+- [Hoodie](https://hood.ie/)
 - User Management
 - Security
 - DaaS (Database as a Service)
 - Data Storage
   09:49 - List of Technologies
 - [html5](https://html5.org/)
-- [CSS3](http://www.css3.com/)
-- [Sass](http://sass-lang.com/)
-- [Compass](http://compass-style.org/)
+- [CSS3](https://www.css3.com/)
+- [Sass](https://sass-lang.com/)
+- [Compass](https://compass-style.org/)
 - [Transitions](https://github.com/ColorTurtle/transitions)
-- [Software as a Service (Saas)](http://en.wikipedia.org/wiki/Software_as_a_service)
-- [Spring Data](http://projects.spring.io/spring-data/)
-- [MVC](http://www.asp.net/mvc)
-- [Hibernate](http://hibernate.org/)
-- [Jasmine](<http://en.wikipedia.org/wiki/Jasmine_(JavaScript_framework)>)
-- [Require](http://www.requirejs.org/)
-- [Grunt](http://gruntjs.com/)
-- [SQL](http://en.wikipedia.org/wiki/SQL)
-- [NoSQL](http://en.wikipedia.org/wiki/NoSQL)
+- [Software as a Service (Saas)](https://en.wikipedia.org/wiki/Software_as_a_service)
+- [Spring Data](https://projects.spring.io/spring-data/)
+- [MVC](https://www.asp.net/mvc)
+- [Hibernate](https://hibernate.org/)
+- [Jasmine](<https://en.wikipedia.org/wiki/Jasmine_(JavaScript_framework)>)
+- [Require](https://www.requirejs.org/)
+- [Grunt](https://gruntjs.com/)
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
 - [Linux](https://www.linux.com/)
-- [Tomcat](http://tomcat.apache.org/)
+- [Tomcat](https://tomcat.apache.org/)
 - [statsd](https://github.com/etsy/statsd)
   13:04 - Applications for BaaS
 - Phone Apps
 - Single Page Apps
 - [Firebase](https://www.firebase.com/)
 - [Whiteboard App](https://awwapp.com/)
-- [Invision](http://www.invisionapp.com/)
+- [Invision](https://www.invisionapp.com/)
   15:37 - Custom Codes
-- [CRUD Apps](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
-- [BAASBOX](http://www.baasbox.com/)
-- [LoopBack](http://loopback.io/)
-- [backendless](http://backendless.com/)
+- [CRUD Apps](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+- [BAASBOX](https://www.baasbox.com/)
+- [LoopBack](https://loopback.io/)
+- [backendless](https://backendless.com/)
   17:03 - BaaS vs. IaaS/PaaS
-- [Infrastructure as a Service (IaaS)](http://en.wikipedia.org/wiki/Cloud_computing#Infrastructure_as_a_service_.28IaaS.29)
-- [Platform as a Service (PaaS)](http://en.wikipedia.org/wiki/Platform_as_a_service)
-- [Amazon Web Services (AWS)](http://aws.amazon.com/)
-  - [Elastic Beanstalk](http://aws.amazon.com/elasticbeanstalk/)
-- [Brian O’Neill Blog](http://brianoneill.blogspot.com/2014/01/looking-for-your-aas-iaas-vs-paas-vs.html)
+- [Infrastructure as a Service (IaaS)](https://en.wikipedia.org/wiki/Cloud_computing#Infrastructure_as_a_service_.28IaaS.29)
+- [Platform as a Service (PaaS)](https://en.wikipedia.org/wiki/Platform_as_a_service)
+- [Amazon Web Services (AWS)](https://aws.amazon.com/)
+  - [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+- [Brian O’Neill Blog](https://brianoneill.blogspot.com/2014/01/looking-for-your-aas-iaas-vs-paas-vs.html)
   - [Brian O'Neill](https://github.com/boneill42)
-- [Rackspace](http://www.rackspace.com/)
-- [nginx](http://nginx.org/en/)
+- [Rackspace](https://www.rackspace.com/)
+- [nginx](https://nginx.org/en/)
 - [Google App Engine](https://cloud.google.com/appengine/docs)
 - [Heroku](https://www.heroku.com/)
   - [Heroku Node Apps](https://devcenter.heroku.com/categories/nodejs)
-- [DynamoDB](http://aws.amazon.com/dynamodb/)
+- [DynamoDB](https://aws.amazon.com/dynamodb/)
 - [Google Cloud Compute](https://cloud.google.com/compute/)
   20:51 - Future of BaaS - New Features
-- [XYZ](http://www.fileinfo.com/extension/xyz)
-- [LDAP](http://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
+- [XYZ](https://www.fileinfo.com/extension/xyz)
+- [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
   23:27 - Relationships with Data
 - Structure
 - Object Relationships
@@ -95,23 +95,23 @@ tags:
 - Easier Management
 - Customization
   26:40 - Vendor Lock-in
-- [Apache Usergrid](http://usergrid.incubator.apache.org/)
-- [Hype Cycle Research Method](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
+- [Apache Usergrid](https://usergrid.incubator.apache.org/)
+- [Hype Cycle Research Method](https://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
 
 ### Picks
 
 - [Airbnb](https://www.airbnb.com/) (Dave)
-- [Align Plugin](http://www.vim.org/scripts/script.php?script_id=294) (Dave)
-- [Benjamin Zander: The transformative power of classical music](http://www.ted.com/talks/benjamin_zander_on_music_and_passion?language=en) (Joe)
-- [What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe](http://www.amazon.com/gp/product/0544272994/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0544272994&linkCode=as2&tag=chamaxwoo-20&linkId=5Q7RXL2AUE2ZNIAP) (Joe)
-- [Das Keyboard Ultimate Soft Tactile](http://www.amazon.com/gp/product/B00JJPZWXC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JJPZWXC&linkCode=as2&tag=chamaxwoo-20&linkId=A3VWBO6RCQD5KI6I) (Merrick)
+- [Align Plugin](https://www.vim.org/scripts/script.php?script_id=294) (Dave)
+- [Benjamin Zander: The transformative power of classical music](https://www.ted.com/talks/benjamin_zander_on_music_and_passion?language=en) (Joe)
+- [What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe](https://www.amazon.com/gp/product/0544272994/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0544272994&linkCode=as2&tag=chamaxwoo-20&linkId=5Q7RXL2AUE2ZNIAP) (Joe)
+- [Das Keyboard Ultimate Soft Tactile](https://www.amazon.com/gp/product/B00JJPZWXC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JJPZWXC&linkCode=as2&tag=chamaxwoo-20&linkId=A3VWBO6RCQD5KI6I) (Merrick)
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) (Merrick)
-- [International OCD Awareness Week](http://iocdf.org/programs/ocdweek/) (Merrick)
-- [The Emperor's Soul (Elantris Book 2) by Brandon Sanderson](http://www.amazon.com/gp/product/B00A1XOPE8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A1XOPE8&linkCode=as2&tag=chamaxwoo-20&linkId=LYE7SNFM52UXMZOG) (Chuck)
-- [Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century by Napoleon Hill](http://www.amazon.com/gp/product/1585424331/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1585424331&linkCode=as2&tag=chamaxwoo-20&linkId=AKC2FXMUPN4ZZ7PQ) (Chuck)
-- [JetBrains WebStorm](http://www.jetbrains.com/webstorm/) (Ryan)
-- [Traveler Guitar](http://travelerguitar.com/) (Ryan)
-- [Zion National Park](http://www.utah.com/nationalparks/zion.htm) (Ryan)
+- [International OCD Awareness Week](https://iocdf.org/programs/ocdweek/) (Merrick)
+- [The Emperor's Soul (Elantris Book 2) by Brandon Sanderson](https://www.amazon.com/gp/product/B00A1XOPE8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A1XOPE8&linkCode=as2&tag=chamaxwoo-20&linkId=LYE7SNFM52UXMZOG) (Chuck)
+- [Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century by Napoleon Hill](https://www.amazon.com/gp/product/1585424331/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1585424331&linkCode=as2&tag=chamaxwoo-20&linkId=AKC2FXMUPN4ZZ7PQ) (Chuck)
+- [JetBrains WebStorm](https://www.jetbrains.com/webstorm/) (Ryan)
+- [Traveler Guitar](https://travelerguitar.com/) (Ryan)
+- [Zion National Park](https://www.utah.com/nationalparks/zion.htm) (Ryan)
 
 ### Transcript
 

@@ -19,27 +19,27 @@ tags:
 - Build something
 - Training at Conferences
 - Rails Guidebook
-- [Programming Ruby by Dave Thomas](http://www.amazon.com/Programming-Ruby-Pragmatic-Programmers-Second/dp/0974514055 'Progamming Ruby - Dave Thomas')
-- [Pragmatic Studio Training](http://pragmaticstudio.com/ 'Pragmatic Studio Training')
+- [Programming Ruby by Dave Thomas](https://www.amazon.com/Programming-Ruby-Pragmatic-Programmers-Second/dp/0974514055 'Progamming Ruby - Dave Thomas')
+- [Pragmatic Studio Training](https://pragmaticstudio.com/ 'Pragmatic Studio Training')
 - Ruby Talk mailing list
 - Course preparation
 - People coming to the language may not know how to program
 - Are we beginner friendly?
-- [Why's poignant guide](http://mislav.uniqpath.com/poignant-guide/book/ "Why's Poignant Guide to Ruby")
-- [shoes](http://shoesrb.com/ 'Shoes')
+- [Why's poignant guide](https://mislav.uniqpath.com/poignant-guide/book/ "Why's Poignant Guide to Ruby")
+- [shoes](https://shoesrb.com/ 'Shoes')
 - learn to program book
-- [tryruby.org](http://tryruby.org/ 'tryruby.org')
-- [kids ruby](http://kidsruby.com/ 'Kids Ruby')
+- [tryruby.org](https://tryruby.org/ 'tryruby.org')
+- [kids ruby](https://kidsruby.com/ 'Kids Ruby')
 - Find a way that works for you to get started, then set a real goal
 - Don't worry about learning syntax, learn to think about problems
 - Syntax isn't something you can ignore, but it's not the most important part
 - It's important to remember what you're doing and what it means
 - Blow your mind pattern
-- [Enumeration protocol](http://www.ruby-doc.org/core-1.9.2/Enumerable.html 'Enumerable')
-- [partition](http://www.ruby-doc.org/core-1.9.2/Enumerable.html#method-i-partition 'Enumerable - Partition Method')
-- [irb](http://ruby-doc.org/docs/ProgrammingRuby/html/irb.html 'irb')
+- [Enumeration protocol](https://www.ruby-doc.org/core-1.9.2/Enumerable.html 'Enumerable')
+- [partition](https://www.ruby-doc.org/core-1.9.2/Enumerable.html#method-i-partition 'Enumerable - Partition Method')
+- [irb](https://ruby-doc.org/docs/ProgrammingRuby/html/irb.html 'irb')
 - getting little wins
-- [REXML](http://www.ruby-doc.org/stdlib-1.9.2/libdoc/rexml/rdoc/REXML/Elements.html 'REXML')
+- [REXML](https://www.ruby-doc.org/stdlib-1.9.2/libdoc/rexml/rdoc/REXML/Elements.html 'REXML')
 
 ### Transcript
 

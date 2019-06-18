@@ -14,24 +14,24 @@ tags:
 
 02:08 - Aja Hammerly Introduction
 
-03:28 - [Aja Hammerly, Seeing the Big Picture: Quick and Easy Data Visualization with Ruby](http://www.youtube.com/watch?v=dWPRLCU39AU)
+03:28 - [Aja Hammerly, Seeing the Big Picture: Quick and Easy Data Visualization with Ruby](https://www.youtube.com/watch?v=dWPRLCU39AU)
 
 05:57 - Seeing Data
 
-- [OS X 10.9 Mavericks: The Ars Technica Review](http://arstechnica.com/apple/2013/10/os-x-10-9/17/)
-- [Feynman Diagram](http://en.wikipedia.org/wiki/Feynman_diagram)
+- [OS X 10.9 Mavericks: The Ars Technica Review](https://arstechnica.com/apple/2013/10/os-x-10-9/17/)
+- [Feynman Diagram](https://en.wikipedia.org/wiki/Feynman_diagram)
 
 14:16 - Data Collection
 
-- [Mechanize](http://mechanize.rubyforge.org/)
-- [Nokogiri](http://nokogiri.org/)
+- [Mechanize](https://mechanize.rubyforge.org/)
+- [Nokogiri](https://nokogiri.org/)
 
 15:31 - Tools
 
-- [Highcharts JS](http://www.highcharts.com/)
-- [Graphviz](http://www.graphviz.org/)
+- [Highcharts JS](https://www.highcharts.com/)
+- [Graphviz](https://www.graphviz.org/)
 - [graph](https://github.com/seattlerb/graph)
-- [Aja Hammerly: Powerful (but Easy) Data Visualization with the Graph Gem](http://www.confreaks.com/videos/673-rubyconf2011-powerful-but-easy-data-visualization-with-the-graph-gem)
+- [Aja Hammerly: Powerful (but Easy) Data Visualization with the Graph Gem](https://www.confreaks.com/videos/673-rubyconf2011-powerful-but-easy-data-visualization-with-the-graph-gem)
 
 20:22 - The [graph](https://github.com/seattlerb/graph) Gem
 
@@ -39,7 +39,7 @@ tags:
 
 22:51 - Colors
 
-- [Colorbrewer](http://colorbrewer2.org/)
+- [Colorbrewer](https://colorbrewer2.org/)
 
 24:36 - Error Bars
 
@@ -51,26 +51,26 @@ tags:
 
 33:01 - Quick and Dirty Techniques
 
-- [work-over-time-2](http://cdn.arstechnica.net/wp-content/uploads/2013/10/work-over-time-2@2x.png)
+- [work-over-time-2](https://cdn.arstechnica.net/wp-content/uploads/2013/10/work-over-time-2@2x.png)
 
 36:57 - Analytics Tools
 
-- [New Relic](http://newrelic.com/)
+- [New Relic](https://newrelic.com/)
 
 38:59 - Animation
 
-- [GraphicConverter](http://www.lemkesoft.de/en/products/graphicconverter/)
+- [GraphicConverter](https://www.lemkesoft.de/en/products/graphicconverter/)
 
-41:44 - [D3.js](http://d3js.org/)
+41:44 - [D3.js](https://d3js.org/)
 
 44:10 - Behavior Visualization
 
-- [Designing Hypermedia APIs](http://www.designinghypermediaapis.com/)
-- [OmniGraffle](http://www.omnigroup.com/omnigraffle/)
+- [Designing Hypermedia APIs](https://www.designinghypermediaapis.com/)
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 
 50:36 - Whimsical Graphing
 
-- [Balsamiq Mockups](http://balsamiq.com/products/mockups/)
+- [Balsamiq Mockups](https://balsamiq.com/products/mockups/)
 
 ### Book Club
 

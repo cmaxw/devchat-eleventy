@@ -18,8 +18,8 @@ tags:
 - [A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 - [Twitter](https://twitter.com/rob_dodson?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
   2:35 - What are Web Components? 5:00 - Using Web Components 10:05 - Why material design hasn’t focused on Web Components11:55 - Making Web Components smaller14:45 - Standards of work18:10 - What is “Shadydom”? 21:05 - Benefits of using Web Components and custom elements26:05 - Web Components and Angular 2.031:05 - Eventing and lifecycle models for Web Components33:55 - Testing Web Components35:30 - Benefits of using Polymer38:50 - Clearing up confusion between Polymer, polyfills, and Web Components
-- [http://webcomponents.org/](http://webcomponents.org/)
-- [SkateJS](http://skate.js.org/)
+- [https://webcomponents.org/](https://webcomponents.org/)
+- [SkateJS](https://skate.js.org/)
 - [Polymer Project](https://www.polymer-project.org/)
   41:20 - What does Rob Dodson do?
 - [Polymer Summit London 2016](https://www.polymer-project.org/summit/)
@@ -30,7 +30,7 @@ tags:
 
 ### **Picks:**
 
-[_Men Explain Things to Me_](https://www.amazon.com/Men-Explain-Things-Rebecca-Solnit/dp/1608464660) by Rebecca Solnit (Ward)[Angular Remote Conf](https://devchat.tv/angular-remote-conf-2016) videos (Charles)[Web Components Remote Conf](https://wcremoteconf.com/) (Charles)[_Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future_ by Ashlee Vance](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233) (Rob)[_Stranger Things_](http://www.imdb.com/title/tt4574334/) (Rob)
+[_Men Explain Things to Me_](https://www.amazon.com/Men-Explain-Things-Rebecca-Solnit/dp/1608464660) by Rebecca Solnit (Ward)[Angular Remote Conf](https://devchat.tv/angular-remote-conf-2016) videos (Charles)[Web Components Remote Conf](https://wcremoteconf.com/) (Charles)[_Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future_ by Ashlee Vance](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233) (Rob)[_Stranger Things_](https://www.imdb.com/title/tt4574334/) (Rob)
 
 ### Transcript
 

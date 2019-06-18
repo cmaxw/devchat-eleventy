@@ -21,8 +21,8 @@ tags:
 - Jared Introduces himself and is company
 - Intro deciton to React and React Native
 - Non technical work - Banker
-- [Nodejs](http://Node.js)
-- [CoffeeScript](http://coffeescript.org)
+- [Nodejs](https://Node.js)
+- [CoffeeScript](https://coffeescript.org)
 - Digital Transformation at The Palmer Group
 - Full Stack work in The Palmer Group
 - Contracting and number of people working at The Palmer Group
@@ -49,7 +49,7 @@ tags:
   Nader
 - [What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.amazon.com/What-International-Scientific-Hypothetical-Questions/dp/0544456866)
 - [Blog post, Youtube video AppSync - Tyler’ blog](https://tylermcginnis.com/building-serverless-react-graphql-apps-with-aws-appsync/)
-- [Blog posts - I’ll you 500,000 dollar a year…](http://adage.com/article/digitalnext/pay-500-000-a-year-work/308778/)
+- [Blog posts - I’ll you 500,000 dollar a year…](https://adage.com/article/digitalnext/pay-500-000-a-year-work/308778/)
   Jared
 - [React Native for Web](https://github.com/necolas/react-native-web)
 - Suspense

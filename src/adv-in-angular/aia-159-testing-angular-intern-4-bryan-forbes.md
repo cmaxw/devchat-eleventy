@@ -36,7 +36,7 @@ tags:
 - [Leadfoot](https://theintern.io/leadfoot/module-leadfoot_Command.html)
 - [Testacular](https://github.com/testacular)
 - [Karma](https://karma-runner.github.io/1.0/index.html)
-- [Protractor](http://www.protractortest.org/#/)
+- [Protractor](https://www.protractortest.org/#/)
 - [Bryan’s blog](https://www.sitepen.com/blog/author/bforbes/)
 - @bryanforbes
 - GitHub/Bryan Forbes
@@ -50,8 +50,8 @@ tags:
   Joe
 - [The Behavior Gap](https://www.amazon.com/dp/B005GSYXX6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
   Charles
-- [Profit First&nbsp;](http://profitfirstbook.com)
-- [MoviePass.com](http://MoviePass.com)
+- [Profit First&nbsp;](https://profitfirstbook.com)
+- [MoviePass.com](https://MoviePass.com)
   Bryan
 - [Using Intern With Angular&nbsp;](https://www.sitepen.com/blog/2017/09/22/efficient-testing-of-angular-with-intern/)
 - Read!

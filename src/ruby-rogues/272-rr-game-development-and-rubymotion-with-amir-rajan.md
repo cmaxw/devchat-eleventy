@@ -16,14 +16,14 @@ tags:
 
 - [Twitter](https://twitter.com/amirrajan)
 - [GitHub](https://github.com/amirrajan)
-- [Blog](http://amirrajan.net/)
+- [Blog](https://amirrajan.net/)
 - [A Noble Circle](https://itunes.apple.com/us/app/a-noble-circle/id977865620?mt=8&ign-mpt=uo%3D4)
 - [Surviving The App Store: How to Make It as an Indie Game Developer by Amir Rajan](https://leanpub.com/survivingtheappstore)
   02:24 - [A Dark Room](https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8) (ADR); Revenue and Downloads
-- [Revenue Updates for A Dark Room et al](http://amirrajan.net/app-dev/2015/11/13/adr-revenue-updates/)
+- [Revenue Updates for A Dark Room et al](https://amirrajan.net/app-dev/2015/11/13/adr-revenue-updates/)
   09:16 - Quality, Heart and Soul, and Putting Yourself Into a Product
 - [iPhreaks Show Episode #161: Successful Indie iOS Game Development with Amir Rajan](https://devchat.tv/iphreaks/161-ips-successful-indie-ios-game-development-with-amir-rajan)
-  14:31 - Choosing [RubyMotion](http://www.rubymotion.com/)
+  14:31 - Choosing [RubyMotion](https://www.rubymotion.com/)
 - [Albacore](https://github.com/derickbailey/Albacore)
 - [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP)
   17:43 - [Objective-C](https://en.wikipedia.org/wiki/Objective-C) vs Ruby
@@ -31,18 +31,18 @@ tags:
   21:51 - Cross-platform Availability23:53 - ADR =\> Watch/TV Capability with RubyMotion26:17 - The Ecosystem in iOS and RubyMotion28:11 - Code Structure29:58 - Testing; UI Automation
 - [mac_bacon](https://rubygems.org/gems/mac_bacon) &nbsp;
   31:29 - Open Source and Proprietary 33:15 - Other Components
-- [UIkit](http://getuikit.com/)
+- [UIkit](https://getuikit.com/)
 - [SpriteKit](https://developer.apple.com/spritekit/)
-- [motion-game](http://www.rubymotion.com/developers/motion-game)
-- [Cocos2d-x](http://www.cocos2d-x.org/)
-- [CocoaPods](http://cocoapods.org)
+- [motion-game](https://www.rubymotion.com/developers/motion-game)
+- [Cocos2d-x](https://www.cocos2d-x.org/)
+- [CocoaPods](https://cocoapods.org)
   34:07 - Going on a Sabbatical40:58 - .NET =\> Ruby
 - [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_of_control); (IoC) Container
   &nbsp;Picks
 - [Transistor](https://www.supergiantgames.com/games/transistor/) (Amir)
-- [Hoplite](http://www.magmafortress.com/p/hoplite.html) (Amir)
-- [Alto's Adventure](http://altosadventure.com/) (Amir)
-- [Shadowrun: Dragonfall](http://store.steampowered.com/app/300550/) (Sam)
+- [Hoplite](https://www.magmafortress.com/p/hoplite.html) (Amir)
+- [Alto's Adventure](https://altosadventure.com/) (Amir)
+- [Shadowrun: Dragonfall](https://store.steampowered.com/app/300550/) (Sam)
 - [Minecraft: Story Mode](https://itunes.apple.com/us/app/minecraft-story-mode/id1001286466?mt=8) (David)
 - Sriracha and Egg in Ramen (Chuck)
 - [Ruby Rogues Facebook Page](https://www.facebook.com/RubyRogues/) (Chuck)

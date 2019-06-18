@@ -14,9 +14,9 @@ tags:
 
 ### Panel
 
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
@@ -26,8 +26,8 @@ tags:
 
 - Networking
   06:31 - How to get a job doing what you like
-- [BetterServers](http://betterservers.com/)
-- [Skunkworks project](http://en.wikipedia.org/wiki/Skunkworks_project)
+- [BetterServers](https://betterservers.com/)
+- [Skunkworks project](https://en.wikipedia.org/wiki/Skunkworks_project)
   09:36 - Qualifications 11:40 - How you find jobs
 
 - Being active in online and offline communities
@@ -38,23 +38,23 @@ tags:
 - “I don’t know.”
 - Pairing
   24:50 - Company fit
-- [095 RR People and Team Dynamics with Joe O’Brien](http://rubyrogues.com/095-rr-people-and-team-dynamics-with-joe-obrien/)
+- [095 RR People and Team Dynamics with Joe O’Brien](https://rubyrogues.com/095-rr-people-and-team-dynamics-with-joe-obrien/)
 - Contract to hire work
   30:47 - What makes somewhere a good place to work?
 - Autonomy
   40:32 - Freelancing
 
-- [The Ruby Freelancers Show](http://www.rubyfreelancers.com/)
+- [The Ruby Freelancers Show](https://www.rubyfreelancers.com/)
 
 ### Picks
 
-- [Psych Season 7](http://www.usanetwork.com/series/psych/) (AJ)
-- [The Fradio - MediaBox](http://www.getmediabox.com/) (AJ)
-- [Das Keyboard Model S Ultimate Mechanical Keyboard](http://www.daskeyboard.com/model-s-ultimate/) (Jamison)
-- [48 Days to the Work You Love: Preparing for the New Normal by Dan Miller](http://www.amazon.com/gp/product/1433669331/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1433669331&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [No More Mondays: Fire Yourself -- and Other Revolutionary Ways to Discover Your True Calling at Work by Dan Miller](http://www.amazon.com/gp/product/B0012YJYNM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0012YJYNM&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [48 Days Podcast](http://www.48days.com/category/48-days-podcast/) (Chuck)
-- [From the Dust](http://spidercomics.com/fromthedust/) (AJ)
+- [Psych Season 7](https://www.usanetwork.com/series/psych/) (AJ)
+- [The Fradio - MediaBox](https://www.getmediabox.com/) (AJ)
+- [Das Keyboard Model S Ultimate Mechanical Keyboard](https://www.daskeyboard.com/model-s-ultimate/) (Jamison)
+- [48 Days to the Work You Love: Preparing for the New Normal by Dan Miller](https://www.amazon.com/gp/product/1433669331/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1433669331&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [No More Mondays: Fire Yourself -- and Other Revolutionary Ways to Discover Your True Calling at Work by Dan Miller](https://www.amazon.com/gp/product/B0012YJYNM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0012YJYNM&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [48 Days Podcast](https://www.48days.com/category/48-days-podcast/) (Chuck)
+- [From the Dust](https://spidercomics.com/fromthedust/) (AJ)
 
 ### Next Week
 

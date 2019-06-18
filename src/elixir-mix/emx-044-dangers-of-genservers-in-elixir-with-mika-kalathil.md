@@ -5,7 +5,7 @@ title: >
 date: 2019-03-26 10:00:38
 episode_number: 044
 duration: 42:49
-audio_url: http://media.devchat.tv/elixir-mix/EMx_044_Dangers_of_GenServers_in_Elixir_with_Mika_Kalathil.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_044_Dangers_of_GenServers_in_Elixir_with_Mika_Kalathil.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## Sponsors
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/elixir)offers a $1000 signing bonus
 - [.TECH](https://get.tech/) – [Go.tech/Elixir](https://get.tech/?&coupon=ELIXIR.TECH&utm_source=Influencer&utm_medium=Podcast&utm_campaign=ElixirMix) and use the coupon code “ **ELIXIR.TECH** ” and get a 1 year .TECH Domain at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)
@@ -45,9 +45,9 @@ Mika Kalathil introduces genservers and how they are misused. The panel plays wi
 - [https://podfestexpo.com/](https://podfestexpo.com/)
 - [https://podcastmovement.com/](https://podcastmovement.com/)
 - Find a positive place
-- [charlesmaxwood.com](http://charlesmaxwood.com)
+- [charlesmaxwood.com](https://charlesmaxwood.com)
 **Mika Kalathil**
-- [exercism.io](http://exercism.io)
+- [exercism.io](https://exercism.io)
 - [https://github.com/discordapp](https://github.com/discordapp)
 
 

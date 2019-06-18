@@ -77,7 +77,7 @@ Charles
 
 Eric
 
-- [Cross Stitching](http://www.cross-stitching.com/)
+- [Cross Stitching](https://www.cross-stitching.com/)
 
 Mark
 

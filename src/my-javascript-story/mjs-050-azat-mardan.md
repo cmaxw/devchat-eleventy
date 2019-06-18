@@ -45,7 +45,7 @@ tags:
   **Picks** Charles
 - [Gardenscapes](https://itunes.apple.com/us/app/gardenscapes/id1105855019?mt=8)
 - [Starcraft II](https://starcraft2.com/en-us/)
-- [The Osiris Method](http://www.osirismethod.com/)
+- [The Osiris Method](https://www.osirismethod.com/)
   Azat
 - [Echo JS](https://echojs.com/)
 

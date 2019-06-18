@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [Triplebyte](https://triplebyte.com/vue) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -60,7 +60,7 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/? __tn__ =%2Cd%2
 **Thorsten Lunborg:**
 - _[Spiderman: Into the Spider Verse](https://www.imdb.com/title/tt4633694/)_
 - [OctoTree](https://github.com/ovity/octotree) and [OctoLinker](https://github.com/OctoLinker/OctoLinker)
-- [The Fabric Presents Mix by Bonobo](http://www.fabriclondon.com/store/bonobo.html)
+- [The Fabric Presents Mix by Bonobo](https://www.fabriclondon.com/store/bonobo.html)
 
 
 ### Transcript

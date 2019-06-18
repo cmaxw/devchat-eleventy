@@ -32,12 +32,12 @@ This week on My Angular Story, Charles speaks with Eudes Petonnet-Vincent. Eudes
 - Loved seeing immediate results
 - Triple language part
 - Functional programming
-- [Elm](http://elm-lang.org/) and [TypeScript](https://www.typescriptlang.org/)
+- [Elm](https://elm-lang.org/) and [TypeScript](https://www.typescriptlang.org/)
 - What was your game?
 - [Node.js](https://nodejs.org/en/) and [Socket.io](https://socket.io/)
 - His game helped him to get his first job
 - Why did you choose Angular?
-- Using [Backbone](http://backbonejs.org/)
+- Using [Backbone](https://backbonejs.org/)
 - For large companies, you always want an all-in-one opinionated package for your framework
 - Angular is very opinionated
 - React is great for smaller projects
@@ -52,11 +52,11 @@ This week on My Angular Story, Charles speaks with Eudes Petonnet-Vincent. Eudes
 - [Angular](https://angular.io/)
 - [React](https://reactjs.org/)
 - [Ember](https://www.emberjs.com/)
-- [Elm](http://elm-lang.org/)
+- [Elm](https://elm-lang.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 - [Socket.io](https://socket.io/)
-- [Backbone](http://backbonejs.org/)
+- [Backbone](https://backbonejs.org/)
 - [@EudesPV](https://twitter.com/eudespv?lang=ca)
 - [Eudes’s GitHub](https://github.com/youdz)
 - [@VMwareClarity](https://twitter.com/VMwareClarity)

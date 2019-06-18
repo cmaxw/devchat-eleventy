@@ -29,7 +29,7 @@ In this episode, the JavaScript Jabber panelists talk about [React: The Big Pict
 - What is [React: The Big Picture](https://www.pluralsight.com/courses/react-big-picture) course?
 - [React](https://reactjs.org/)
 - The frameworks work with each other
-- [Reason](https://reasonml.github.io/) and [Elm](http://elm-lang.org/)
+- [Reason](https://reasonml.github.io/) and [Elm](https://elm-lang.org/)
 - How to decide when using React is the best option?
 - React tradeoffs
 - [JavaScript](https://www.javascript.com/)
@@ -53,7 +53,7 @@ In this episode, the JavaScript Jabber panelists talk about [React: The Big Pict
 - [React: The Big Picture](https://www.pluralsight.com/courses/react-big-picture)
 - [Cory’s Pluralsight](https://www.pluralsight.com/authors/cory-house)
 - [Reason](https://reasonml.github.io/)
-- [Elm](http://elm-lang.org/)
+- [Elm](https://elm-lang.org/)
 - [React](https://reactjs.org/)
 - [JavaScript](https://www.javascript.com/)
 - [React Round Up](https://devchat.tv/react-round-up)
@@ -70,7 +70,7 @@ In this episode, the JavaScript Jabber panelists talk about [React: The Big Pict
 Charles
 
 - [Hunting Hitler](https://www.history.com/shows/hunting-hitler)
-- [The Greatest Showman: Sing-a-long](http://www.imdb.com/title/tt1485796/)
+- [The Greatest Showman: Sing-a-long](https://www.imdb.com/title/tt1485796/)
 
 Aimee
 
@@ -80,7 +80,7 @@ Aimee
 
 Joe
 
-- [Marital Bliss Card Game](http://www.maritalblissgame.com/)
+- [Marital Bliss Card Game](https://www.maritalblissgame.com/)
 
 AJ
 

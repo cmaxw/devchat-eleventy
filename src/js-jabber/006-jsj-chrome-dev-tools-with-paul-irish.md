@@ -14,95 +14,95 @@ tags:
 
 ### Panel
 
-- Paul Irish ([twitter](http://twitter.com/#!/paul_irish)&nbsp;[github](https://github.com/paulirish)&nbsp;[website](http://paulirish.com/))
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Joachim Larsen ([g+](https://plus.google.com/114020236201265101594/posts)&nbsp;[github](https://github.com/joedeveloper)&nbsp;[website](http://unomi.no.de/))
-- Yehuda Katz ([twitter](http://twitter.com/wycats)&nbsp;[github](https://github.com/wycats)&nbsp;[blog](http://yehudakatz.com/))
+- Paul Irish ([twitter](https://twitter.com/#!/paul_irish)&nbsp;[github](https://github.com/paulirish)&nbsp;[website](https://paulirish.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Joachim Larsen ([g+](https://plus.google.com/114020236201265101594/posts)&nbsp;[github](https://github.com/joedeveloper)&nbsp;[website](https://unomi.no.de/))
+- Yehuda Katz ([twitter](https://twitter.com/wycats)&nbsp;[github](https://github.com/wycats)&nbsp;[blog](https://yehudakatz.com/))
 
 ### Discussion
 
-- [Chrome Developer Tools](http://code.google.com/chrome/devtools/docs/overview.html)
-- [Chrome Canary](http://tools.google.com/dlpage/chromesxs)
+- [Chrome Developer Tools](https://code.google.com/chrome/devtools/docs/overview.html)
+- [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - Dev Tools settings
 - Disable Cache
 - Enable Source Maps
 - Ctrl-Shift-R is not reliable in refreshing without the cache
-- [Require.js](http://requirejs.org/)
-- [Webkit Inspector](http://trac.webkit.org/wiki/Web%20Inspector)
+- [Require.js](https://requirejs.org/)
+- [Webkit Inspector](https://trac.webkit.org/wiki/Web%20Inspector)
 - Persisting live changes
 - Live Edit
 - Revision history on live edits
 - Right click and save to disk on changed JS files
 - Autosave extensions
   - [chrome-devtools-autosave](https://github.com/NV/chrome-devtools-autosave)
-  - [autosave-changes-chrome-dev-tools](http://addyosmani.com/blog/autosave-changes-chrome-dev-tools/)
+  - [autosave-changes-chrome-dev-tools](https://addyosmani.com/blog/autosave-changes-chrome-dev-tools/)
 - Scripts Panel
 - Pretty Print button (two braces)
 - Breakpoints
 - Right click function references to get function definitions
-- [Chrome Canary](http://tools.google.com/dlpage/chromesxs)
+- [Chrome Canary](https://tools.google.com/dlpage/chromesxs)
 - Script Navigator
-- [Chrome dev channel](http://dev.chromium.org/getting-involved/dev-channel)
-- [Chrome beta channel](http://dev.chromium.org/getting-involved/dev-channel)
+- [Chrome dev channel](https://dev.chromium.org/getting-involved/dev-channel)
+- [Chrome beta channel](https://dev.chromium.org/getting-involved/dev-channel)
 - Single click edit
-- [Firebug](http://getfirebug.com/)
-- [Peter Beverloo's blog](http://peter.sh/)
+- [Firebug](https://getfirebug.com/)
+- [Peter Beverloo's blog](https://peter.sh/)
 - Chromium Bugs
 - Webkit Bugs
-- [Inventing on Principle](http://vimeo.com/36579366)
-- [processing JS](http://processingjs.org/)
-- [Lea Verou](http://leaverou.me/)
+- [Inventing on Principle](https://vimeo.com/36579366)
+- [processing JS](https://processingjs.org/)
+- [Lea Verou](https://leaverou.me/)
 - Color Picker
 - Mother F\*\*\*ing animated GIF
 - You can use the Dev Tools on the Dev Tools
 - Minification
 - Build Processes
-- [CoffeeScript](http://coffeescript.org/)
+- [CoffeeScript](https://coffeescript.org/)
 - Source Maps
   - [spec](https://docs.google.com/document/d/1U1RGAehQwRypUTovF1KRlpiOFze0b-_2gc6fAH0KY0k/edit)
   - [node.js library](https://github.com/mozilla/source-map)
-- [Mozilla](http://www.mozilla.org/)
+- [Mozilla](https://www.mozilla.org/)
 - [Google Closure](https://developers.google.com/closure/)
-- [rake pipeline](http://rubygems.org/gems/rake-pipeline)
+- [rake pipeline](https://rubygems.org/gems/rake-pipeline)
 - eval
 - uglify
-- [Ryan Seddon](http://www.ryanseddon.com/)
+- [Ryan Seddon](https://www.ryanseddon.com/)
 - [Node Inspector](https://github.com/dannycoates/node-inspector)
 - Chrome is Chromium with extras
-- [Chromium source](http://code.google.com/chromium/)
-- [DBGP debugger protocol](http://xdebug.org/docs-dbgp.php)
+- [Chromium source](https://code.google.com/chromium/)
+- [DBGP debugger protocol](https://xdebug.org/docs-dbgp.php)
 - Box sizing/border box
-- [Dart](http://www.dartlang.org/)
-- [Dartium](http://code.google.com/p/dart/wiki/BuildingDartium)
+- [Dart](https://www.dartlang.org/)
+- [Dartium](https://code.google.com/p/dart/wiki/BuildingDartium)
 - [Cloud9 IDE](https://github.com/ajaxorg/cloud9)
 - Remote Debugging
 - Node.js debugging with Chrome Dev Tools
-- [HTML5Please](http://html5please.com/)
-- [CSS3Please](http://css3please.com/)
-- [Move the Web Forward](http://movethewebforward.org/)
-- [HTML5 Boilerplate](http://html5boilerplate.com/)
-- [Shepherd.js](http://www.dzone.com/links/shepherdjs_keep_your_herd_of_vars_where_it_belongs.html?ref=up-details)
+- [HTML5Please](https://html5please.com/)
+- [CSS3Please](https://css3please.com/)
+- [Move the Web Forward](https://movethewebforward.org/)
+- [HTML5 Boilerplate](https://html5boilerplate.com/)
+- [Shepherd.js](https://www.dzone.com/links/shepherdjs_keep_your_herd_of_vars_where_it_belongs.html?ref=up-details)
 - Chrome on innovating the web in speed and new standards
 
 ### Picks
 
-- [MITX Course on Electronics](http://mitx.mit.edu/) (Yehuda)
-- [Open Courseware Courses](http://ocw.mit.edu/index.htm) (Yehuda)
-- [Gilbert Strang](http://www-math.mit.edu/~gs/) (Yehuda)
-- [Inventing on Principle](http://www.webmonkey.com/2012/02/video-inventing-on-principle/) (Jamison)
-- [CodeMirror](http://codemirror.net/) (Jamison)
-- [D3](http://mbostock.github.com/d3/) (Jamison)
-- [HTML5 Provo Group](http://groups.google.com/group/byu-cocoaheads/browse_thread/thread/38a2f84fd6084d92?pli=1) (AJ)
+- [MITX Course on Electronics](https://mitx.mit.edu/) (Yehuda)
+- [Open Courseware Courses](https://ocw.mit.edu/index.htm) (Yehuda)
+- [Gilbert Strang](https://www-math.mit.edu/~gs/) (Yehuda)
+- [Inventing on Principle](https://www.webmonkey.com/2012/02/video-inventing-on-principle/) (Jamison)
+- [CodeMirror](https://codemirror.net/) (Jamison)
+- [D3](https://mbostock.github.com/d3/) (Jamison)
+- [HTML5 Provo Group](https://groups.google.com/group/byu-cocoaheads/browse_thread/thread/38a2f84fd6084d92?pli=1) (AJ)
 - Local Business (AJ)
 - [three.js](https://github.com/mrdoob/three.js/)&nbsp;(Joachim)
-- [Quake 2 Web GL](http://www.google.com/safebrowsing/diagnostic?site=http://playwebgl.com/games/quake-2-webgl/&hl=en) (Joachim)
-- [ThemeForest.net](http://themeforest.net/) (Chuck)
-- [Echo.net](http://echo.net/) (Paul)
-- [Zero fill right shift](http://www.vanguardsw.com/dphelp4/dph00369.htm)(Paul)
-- [Dom mutation observers](http://updates.html5rocks.com/2012/02/Detect-DOM-changes-with-Mutation-Observers) (Paul)
-- [HTML5Rocks](http://www.html5rocks.com/en/) (Paul)
+- [Quake 2 Web GL](https://www.google.com/safebrowsing/diagnostic?site=https://playwebgl.com/games/quake-2-webgl/&hl=en) (Joachim)
+- [ThemeForest.net](https://themeforest.net/) (Chuck)
+- [Echo.net](https://echo.net/) (Paul)
+- [Zero fill right shift](https://www.vanguardsw.com/dphelp4/dph00369.htm)(Paul)
+- [Dom mutation observers](https://updates.html5rocks.com/2012/02/Detect-DOM-changes-with-Mutation-Observers) (Paul)
+- [HTML5Rocks](https://www.html5rocks.com/en/) (Paul)
 - [ToDo MVC](https://github.com/addyosmani/todomvc)(Paul)
 
 ### Transcript

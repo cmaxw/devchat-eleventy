@@ -61,7 +61,7 @@ Jeremy
 
 Erik
 
-- [Diablo 2](http://us.blizzard.com/en-us/games/d2/)
+- [Diablo 2](https://us.blizzard.com/en-us/games/d2/)
 - [Capital One](https://www.capitalone.com/credit-cards/)
 
 ### Transcript

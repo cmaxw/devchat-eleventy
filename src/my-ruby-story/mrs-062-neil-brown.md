@@ -91,15 +91,15 @@ Neil: Be careful of your own expectations.
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Elixir](https://elixir-lang.org)
 - [Dr. Neil Brown – Podcast](https://hanselminutes.com/636/tips-for-teaching-programming-with-dr-neil-brown)
-- [Dr. Neil Brown – Article](http://www.felienne.com/archives/5935)
+- [Dr. Neil Brown – Article](https://www.felienne.com/archives/5935)
 - [Dr. Neil Brown – Twitter](https://twitter.com/neilccbrown)
 - [Tips for Teaching Programming with Dr. Neil Brown](https://radiopublic.com/hanselminutes-fresh-talk-and-tec-8jzRJj/ep/s1!df6ad)
 - [BlueJ](https://bluej.org)
 
 **Sponsors:**
 
-- [Code Badges](http://codebadge.org/)
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Code Badges](https://codebadge.org/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**

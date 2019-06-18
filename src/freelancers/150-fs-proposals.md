@@ -18,22 +18,22 @@ tags:
   - Budget
   - Middle
   - High-value
-- [Statement of Work (SOW)](http://en.wikipedia.org/wiki/Statement_of_work)
-- [Alan Weiss Sample Proposals](http://www.alanweiss.com/styles/pdf/Sample%20Proposals.pdf)
-- [PO (Purchase Order)](http://en.wikipedia.org/wiki/Purchase_order)
+- [Statement of Work (SOW)](https://en.wikipedia.org/wiki/Statement_of_work)
+- [Alan Weiss Sample Proposals](https://www.alanweiss.com/styles/pdf/Sample%20Proposals.pdf)
+- [PO (Purchase Order)](https://en.wikipedia.org/wiki/Purchase_order)
 
 15:18 - Legal Situations?
 
 - Reuven’s Cautionary Tale
-- [Arbitration](http://en.wikipedia.org/wiki/Arbitration)
-- [Mediation](http://en.wikipedia.org/wiki/Mediation)
+- [Arbitration](https://en.wikipedia.org/wiki/Arbitration)
+- [Mediation](https://en.wikipedia.org/wiki/Mediation)
 
 19:31 - The Proposal is NOT a Pitch (80/20)
 
-- [RFP (Request For Proposal)](http://en.wikipedia.org/wiki/Request_for_proposal)
+- [RFP (Request For Proposal)](https://en.wikipedia.org/wiki/Request_for_proposal)
 - Negotiations and Agreements
   - Have Someone On Your Side (Work With the Right People)
-  - [Value-based Pricing](http://en.wikipedia.org/wiki/Value-based_pricing)
+  - [Value-based Pricing](https://en.wikipedia.org/wiki/Value-based_pricing)
 
 27:45 - Recycling Proposals vs Starting From Scratch
 
@@ -50,8 +50,8 @@ tags:
 36:44 - Proposal-Writing Tools
 
 - [Bidsketch](https://www.bidsketch.com/)
-- [Nusii](http://nusii.com/)
-  40:11 - Understand Client Wants and NeedsPicks[<u>Getting More: How You Can Negotiate to Succeed in Work and Life by Stuart Diamond</u>](http://www.gettingmore.com/) (Jonathan)[<u>The Dip: A Little Book That Teaches You When to Quit (and When to Stick) by Seth Godin</u>](http://www.amazon.com/The-Dip-Little-Teaches-Stick/dp/1591841666) (Eric)[<u>Workflow</u>](https://workflow.is/) (Eric)[<u>YouCanBook.Me</u>](http://youcanbook.me) (Reuven)[<u>Calendly</u>](https://calendly.com/) (Reuven)
+- [Nusii](https://nusii.com/)
+  40:11 - Understand Client Wants and NeedsPicks[<u>Getting More: How You Can Negotiate to Succeed in Work and Life by Stuart Diamond</u>](https://www.gettingmore.com/) (Jonathan)[<u>The Dip: A Little Book That Teaches You When to Quit (and When to Stick) by Seth Godin</u>](https://www.amazon.com/The-Dip-Little-Teaches-Stick/dp/1591841666) (Eric)[<u>Workflow</u>](https://workflow.is/) (Eric)[<u>YouCanBook.Me</u>](https://youcanbook.me) (Reuven)[<u>Calendly</u>](https://calendly.com/) (Reuven)
 
 ### Transcript
 

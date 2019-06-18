@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-01:25 - Unofficial Rogue Avi Flombaum of the [Flatiron School](http://flatironschool.com/)
+01:25 - Unofficial Rogue Avi Flombaum of the [Flatiron School](https://flatironschool.com/)
 
 ### Picksposion!
 
@@ -20,68 +20,68 @@ tags:
 
 -
 
-[Why I Love Being A Programmer in Louisville (or, Why I Won’t Relocate to Work for Your Startup: Ernie Miller](http://erniemiller.org/2012/12/15/why-i-love-being-a-programmer-in-louisville-or-why-i-wont-relocate-to-work-for-your-startup/) (James)
+[Why I Love Being A Programmer in Louisville (or, Why I Won’t Relocate to Work for Your Startup: Ernie Miller](https://erniemiller.org/2012/12/15/why-i-love-being-a-programmer-in-louisville-or-why-i-wont-relocate-to-work-for-your-startup/) (James)
 
 -
 
-[Stack Overflow - Why We (Still) Believe in Working Remotely: David Fullerton](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)(James)
+[Stack Overflow - Why We (Still) Believe in Working Remotely: David Fullerton](https://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)(James)
 
 -
 
-[Wide Teams Podcast](http://www.wideteams.com/)
-06:30 - Noel Rappin ([twitter](http://www.twitter.com/noelrap) [blog](http://www.noelrappin.com/))
+[Wide Teams Podcast](https://www.wideteams.com/)
+06:30 - Noel Rappin ([twitter](https://www.twitter.com/noelrap) [blog](https://www.noelrappin.com/))
 
 -
 
-[Windy City Rails 2012: Let’s Make Testing Fun Again - Noel Rappin](http://www.confreaks.com/videos/1538-windycityrails2012-let-s-make-testing-fun-again) (Avdi)
+[Windy City Rails 2012: Let’s Make Testing Fun Again - Noel Rappin](https://www.confreaks.com/videos/1538-windycityrails2012-let-s-make-testing-fun-again) (Avdi)
 
 -
 
-[030 RR Software Craftsmanship with Noel Rappin](http://rubyrogues.com/030-rr-software-craftsmanship/)
+[030 RR Software Craftsmanship with Noel Rappin](https://rubyrogues.com/030-rr-software-craftsmanship/)
 
 -
 
-[030 JSJ Learning & Teaching JavaScript with Noel Rappin](http://javascriptjabber.com/030-jsj-learning-teaching-javascript-with-noel-rappin/)
+[030 JSJ Learning & Teaching JavaScript with Noel Rappin](https://javascriptjabber.com/030-jsj-learning-teaching-javascript-with-noel-rappin/)
 
 11:05 - I Can’t Believe It Hasn’t Been Picked, Picks
 
 -
 
-[Programming Ruby 1.9 (3rd edition): The Pragmatic Programmers’ Guide](http://pragprog.com/book/ruby3/programming-ruby-1-9) (David)
+[Programming Ruby 1.9 (3rd edition): The Pragmatic Programmers’ Guide](https://pragprog.com/book/ruby3/programming-ruby-1-9) (David)
 
-- [Programming Ruby 1.9 (Amazon Affiliate Link)](http://www.amazon.com/gp/product/1934356085/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356085&linkCode=as2&tag=chamaxwoo-20)
+- [Programming Ruby 1.9 (Amazon Affiliate Link)](https://www.amazon.com/gp/product/1934356085/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356085&linkCode=as2&tag=chamaxwoo-20)
 - [T](https://www.ruby-toolbox.com/)[he Ruby Toolbox](https://www.ruby-toolbox.com/) (James)
-  17:46 - [Old Apps](http://www.oldapps.com/) (Chuck) 19:14 - More Books
-- [The Ruby Programming Language by David Flanagan](http://www.amazon.com/gp/product/0596516177/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596516177&linkCode=as2&tag=chamaxwoo-20)
-- [The Ruby Way by Hal Edwin Fulton](http://www.amazon.com/gp/product/0672328844/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0672328844&linkCode=as2&tag=chamaxwoo-20)
-  20:58 - [Vimium](http://vimium.github.com/) (James) 22:57 - [Kama Pootra: 52 Mind Blowing Ways to Poop by Daniel Cole Young](http://kamapootra.com/) (David) 24:21 - Reminder Services
-- [Contactually](http://www.contactually.com/) (Chuck)
+  17:46 - [Old Apps](https://www.oldapps.com/) (Chuck) 19:14 - More Books
+- [The Ruby Programming Language by David Flanagan](https://www.amazon.com/gp/product/0596516177/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596516177&linkCode=as2&tag=chamaxwoo-20)
+- [The Ruby Way by Hal Edwin Fulton](https://www.amazon.com/gp/product/0672328844/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0672328844&linkCode=as2&tag=chamaxwoo-20)
+  20:58 - [Vimium](https://vimium.github.com/) (James) 22:57 - [Kama Pootra: 52 Mind Blowing Ways to Poop by Daniel Cole Young](https://kamapootra.com/) (David) 24:21 - Reminder Services
+- [Contactually](https://www.contactually.com/) (Chuck)
 -
 
-[FollowUp.cc](http://www.followup.cc/) (Avdi)
+[FollowUp.cc](https://www.followup.cc/) (Avdi)
 27:39 - Picks the Rogues have benefitted from
 
-- [Marked](http://markedapp.com/) (James)
-- [Wordoid](http://wordoid.com/) (James)
+- [Marked](https://markedapp.com/) (James)
+- [Wordoid](https://wordoid.com/) (James)
 -
 
-[Wordnik](http://www.wordnik.com/) (James)
+[Wordnik](https://www.wordnik.com/) (James)
 30:35 - TV-related Picks
 
 -
 
-[Downton Abbey](http://www.pbs.org/wgbh/masterpiece/downtonabbey/) (Chuck)
+[Downton Abbey](https://www.pbs.org/wgbh/masterpiece/downtonabbey/) (Chuck)
 
-- [Sherlock](http://www.pbs.org/wgbh/masterpiece/sherlock/) (James)
-- [Big Bang Theory](http://www.cbs.com/shows/big_bang_theory/) (James)
+- [Sherlock](https://www.pbs.org/wgbh/masterpiece/sherlock/) (James)
+- [Big Bang Theory](https://www.cbs.com/shows/big_bang_theory/) (James)
 -
 
-[Community](http://www.imdb.com/title/tt1439629/) (James)
-33:00 - [RubyTapas](http://devblog.avdi.org/rubytapas/) (David) 35:20 - [‘Big Bang Theory’ star creates TV show about real prodigies: Dara Kerr](http://news.cnet.com/8301-1023_3-57565307-93/big-bang-theory-star-creates-tv-show-about-real-prodigies/)&nbsp;(Avdi) 36:21 - Code-related Picks
+[Community](https://www.imdb.com/title/tt1439629/) (James)
+33:00 - [RubyTapas](https://devblog.avdi.org/rubytapas/) (David) 35:20 - [‘Big Bang Theory’ star creates TV show about real prodigies: Dara Kerr](https://news.cnet.com/8301-1023_3-57565307-93/big-bang-theory-star-creates-tv-show-about-real-prodigies/)&nbsp;(Avdi) 36:21 - Code-related Picks
 
 -
 
-[Iteration Inside and Out](http://journal.stuffwithstuff.com/2013/01/13/iteration-inside-and-out/) (Avdi)
+[Iteration Inside and Out](https://journal.stuffwithstuff.com/2013/01/13/iteration-inside-and-out/) (Avdi)
 
 -
 
@@ -98,32 +98,32 @@ tags:
 
 -
 
-[Edison Electric Table - ELE-TB Series](http://www.versatables.com/products/electric-lift-table/) (David)
+[Edison Electric Table - ELE-TB Series](https://www.versatables.com/products/electric-lift-table/) (David)
 
 -
 
-[Aeron Chair by Herman Miller](http://www.amazon.com/gp/product/B0014YGGKE/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0014YGGKE) (Chuck)
+[Aeron Chair by Herman Miller](https://www.amazon.com/gp/product/B0014YGGKE/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0014YGGKE) (Chuck)
 
 -
 
-[A standing desk for \$22: Colin Nederkoorn](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html) (Chuck)
+[A standing desk for \$22: Colin Nederkoorn](https://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html) (Chuck)
 
 -
 
-[Zoom H4n Handy Portable Digital Recorder](http://www.amazon.com/gp/product/B001QWBM62/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001QWBM62&linkCode=as2&tag=chamaxwoo-20) (James)
+[Zoom H4n Handy Portable Digital Recorder](https://www.amazon.com/gp/product/B001QWBM62/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001QWBM62&linkCode=as2&tag=chamaxwoo-20) (James)
 
 -
 
-[Roland R-05 Studio WAVE/MP3 Recorder](http://www.amazon.com/gp/product/B003IJ3WIW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003IJ3WIW&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+[Roland R-05 Studio WAVE/MP3 Recorder](https://www.amazon.com/gp/product/B003IJ3WIW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003IJ3WIW&linkCode=as2&tag=chamaxwoo-20) (Chuck)
 
 -
 
-[My Podcasting Setup: Charles Max Wood](http://teachmetocode.com/screencasts/my-podcasting-setup/) (Chuck)
-58:23 - [Lone Star Ruby Conference](http://www.lonestarruby.org/2013/lsrc) (James) 58:42 - [Doctor Who Sonic Screwdriver of the 10th Doctor](http://www.thinkgeek.com/product/8cff/) (Chuck) 01:00:51 - [Take A Newbie Shooting: Sharing Our Passion for Firearms](http://www.takeanewbieshooting.com/)&nbsp;(David)
+[My Podcasting Setup: Charles Max Wood](https://teachmetocode.com/screencasts/my-podcasting-setup/) (Chuck)
+58:23 - [Lone Star Ruby Conference](https://www.lonestarruby.org/2013/lsrc) (James) 58:42 - [Doctor Who Sonic Screwdriver of the 10th Doctor](https://www.thinkgeek.com/product/8cff/) (Chuck) 01:00:51 - [Take A Newbie Shooting: Sharing Our Passion for Firearms](https://www.takeanewbieshooting.com/)&nbsp;(David)
 
 ### Book Club
 
-[Patterns of Enterprise Application Architecture by Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420): Read along with us! We will be discussing the book with Martin himself and the episode will air on Wednesday, March 20th, 2013.
+[Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420): Read along with us! We will be discussing the book with Martin himself and the episode will air on Wednesday, March 20th, 2013.
 
 ### Next Week
 

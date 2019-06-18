@@ -50,7 +50,7 @@ On the \<a tag\> you could do...
 
 12:32 – Guest (continues): I got so deep into [JavaScript!](https://www.javascript.com)
 
-13:30 – Guest (continued): They couldn’t figure out what I had done. That’s when I got more into designing JavaScript APIs. About 8 months after graduating from college I was unemployed. I had extra time on my hands. I was worried that I was going to forget the cool stuff that I just developed there. I went over the code and writing for myself how I had constructed it. My goal was to have an expandable tree. This is the design process that I went through. This is the API that I came up with so you can insert and how I went about implementing it. At some point, I was on a discussion with my former colleagues: remember that JavaScript tree thing I wrote – I wrote a description of how I did it. Someone said: Hey this is really good and you should get this published somewhere. Huh! I guess I could do that. I went to websites who were publishing articles on JavaScript. I went to submit the article to one of them. I think it was [DevX](http://www.devx.com) or [WebReference.](http://webreference.com)
+13:30 – Guest (continued): They couldn’t figure out what I had done. That’s when I got more into designing JavaScript APIs. About 8 months after graduating from college I was unemployed. I had extra time on my hands. I was worried that I was going to forget the cool stuff that I just developed there. I went over the code and writing for myself how I had constructed it. My goal was to have an expandable tree. This is the design process that I went through. This is the API that I came up with so you can insert and how I went about implementing it. At some point, I was on a discussion with my former colleagues: remember that JavaScript tree thing I wrote – I wrote a description of how I did it. Someone said: Hey this is really good and you should get this published somewhere. Huh! I guess I could do that. I went to websites who were publishing articles on JavaScript. I went to submit the article to one of them. I think it was [DevX](https://www.devx.com) or [WebReference.](https://webreference.com)
 
 18:03 – Guest: A book is a compilation of different articles?! I can do that. I wanted to write a book that would fill in that next step that was missing. I didn’t know what the book was going to be, and I decided to start writing. Once I’ve had enough content I would take a step back and see what it was about. (Check out Nicholas’ books [here!)](https://www.amazon.com/Nicholas-C.-Zakas/e/B001IGUTOC)
 
@@ -102,8 +102,8 @@ END – [Cache Fly](https://www.cachefly.com)
 - [Elm](https://guide.elm-lang.org)
 - [jQuery](https://jquery.com)
 - [Node](https://nodejs.org/en/)
-- [DevX](http://www.devx.com/welcomead?_qstu=%252F)
-- [WebReference](http://webreference.com/index.html)
+- [DevX](https://www.devx.com/welcomead?_qstu=%252F)
+- [WebReference](https://webreference.com/index.html)
 - [Nicholas C. Zakas’ Books](https://www.amazon.com/Nicholas-C.-Zakas/e/B001IGUTOC/ref=as_li_ss_tl?qid=1542055961&sr=8-2-ent&linkCode=sl2&tag=devchattv-20&linkId=969561db0412012a35dceae4aab88341&language=en_US)
 - [ESLint](https://eslint.org)
 - [NPM – ESLint](https://www.npmjs.com/package/eslint)

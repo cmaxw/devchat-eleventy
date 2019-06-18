@@ -18,7 +18,7 @@ tags:
 
 - [Twitter](https://twitter.com/be_mann)
 - [GitHub](https://github.com/brian-mann)
-  03:33 - [Cypress.io](https://www.cypress.io/)04:09 - [Selenium](http://www.seleniumhq.org/)08:56 - Cypress vs Selenium16:54 - Similarities: Cypress and [Protractor](http://www.protractortest.org/#/)18:22 - Mocking API Data20:40 - Getting Started with Cypress and The Migration Process21:54 - Testing30:31 - Handling Data on the Backend34:16 - What’s coming next in Cypress?
+  03:33 - [Cypress.io](https://www.cypress.io/)04:09 - [Selenium](https://www.seleniumhq.org/)08:56 - Cypress vs Selenium16:54 - Similarities: Cypress and [Protractor](https://www.protractortest.org/#/)18:22 - Mocking API Data20:40 - Getting Started with Cypress and The Migration Process21:54 - Testing30:31 - Handling Data on the Backend34:16 - What’s coming next in Cypress?
 
 ### Transcript
 

@@ -20,7 +20,7 @@ This week on My Ruby Story, Chuck talks with [Olivier Lacan](https://twitter.com
 
 **In particular, we dive pretty deep on:**
 
-0:00 – [Get A Coder Job!](http://getacoderjob.com/)
+0:00 – [Get A Coder Job!](https://getacoderjob.com/)
 
 0:55 – Chuck: Hi! Can you update people where you are at now?
 
@@ -91,14 +91,14 @@ END – [CacheFly](https://www.cachefly.com)
 - [Rails](https://github.com/rails/rails)
 - [Rust](https://www.rust-lang.org/en-US/)
 - [Python](https://www.python.org)
-- [PHP](http://www.php.net)
+- [PHP](https://www.php.net)
 - [Bio for Olivier through PluralSight](https://www.pluralsight.com/authors/olivier-lacan)
 - [Twitter for Olivier Lacan](https://twitter.com/olivierlacan?lang=en)
 - [GitHub for Olivier Lacan](https://github.com/olivierlacan)
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 - Fresh Books
 

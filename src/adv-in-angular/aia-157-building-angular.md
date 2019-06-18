@@ -23,9 +23,9 @@ tags:
 - [Web Pack](https://webpack.js.org)
 - [CLI](https://cli.angular.io)
 - [Heroku](https://www.heroku.com)
-  Picks: Ward[The Annual Procrastination Conference&nbsp;](https://procrastinationconference10.wordpress.com)[Angular in Memory Web API](https://github.com/angular/in-memory-web-api)[Fences&nbsp;](http://www.imdb.com/title/tt2671706/)Alyssa Joe
+  Picks: Ward[The Annual Procrastination Conference&nbsp;](https://procrastinationconference10.wordpress.com)[Angular in Memory Web API](https://github.com/angular/in-memory-web-api)[Fences&nbsp;](https://www.imdb.com/title/tt2671706/)Alyssa Joe
 - Plural Sight Course&nbsp; - Migrating from Angular JS to Angular
-- [Sara Cooper&nbsp;](http://thecooperreview.com)
+- [Sara Cooper&nbsp;](https://thecooperreview.com)
   Charles
 - [Angular Dev Summit](https://angulardevsummit.com)
 - [Zapier](https://zapier.com)

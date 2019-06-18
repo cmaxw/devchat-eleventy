@@ -34,7 +34,7 @@ Connect with Aimee Knight on [Twitter](https://twitter.com/Aimee_Knight). Don’
 
 ## Picks:
 
-Aimee: [Rituals of Shaming in the Software Industry](http://codingwithempathy.com/2017/01/10/rituals-of-shaming-in-the-software-industry/) and [Halo Top](https://www.halotop.com/)Charles: Power cables for iPhone and My JavaScript Story
+Aimee: [Rituals of Shaming in the Software Industry](https://codingwithempathy.com/2017/01/10/rituals-of-shaming-in-the-software-industry/) and [Halo Top](https://www.halotop.com/)Charles: Power cables for iPhone and My JavaScript Story
 
 ## Episode Links:
 

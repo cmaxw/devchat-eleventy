@@ -74,8 +74,8 @@ Cory
 
 Aimee
 
-- [Republic of Tea – Apple Cider Vinegar Tea](http://www.republicoftea.com/)
-- [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
+- [Republic of Tea – Apple Cider Vinegar Tea](https://www.republicoftea.com/)
+- [The Way of Testivus](https://www.agitar.com/downloads/TheWayOfTestivus.pdf)
 
 Joe
 

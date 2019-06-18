@@ -15,24 +15,24 @@ tags:
 01:14 - Ray Wenderlich Introduction
 
 - [Twitter](https://twitter.com/rwenderlich)
-- [Blog](http://www.raywenderlich.com/)
+- [Blog](https://www.raywenderlich.com/)
 
 01:23 - Mic Pringle Introduction
 
 - [Twitter](https://twitter.com/micpringle)
 - [GitHub](https://github.com/micpringle)
-- [The raywenderlich.com Podcast](http://www.raywenderlich.com/rwpodcast)
+- [The raywenderlich.com Podcast](https://www.raywenderlich.com/rwpodcast)
 
 01:40 - Greg Heo Introduction
 
 - [Twitter](https://twitter.com/gregheo)
 - <u><a style="text-decoration: none;" href="https://github.com/gregheo">GitHub</a></u>
-- [Blog](http://gregheo.com/)
+- [Blog](https://gregheo.com/)
 
 01:47 - The Conception of Ray’s Tutorial Website and The Tutorial Team
 
-- [Ray Wenderlich: Tutorials for iPhone / iOS / Developers and Gamers](http://raywenderlich.com)
-- [EA Games](http://www.ea.com/)
+- [Ray Wenderlich: Tutorials for iPhone / iOS / Developers and Gamers](https://raywenderlich.com)
+- [EA Games](https://www.ea.com/)
 
 05:58 - Maintaining High Quality and Consistency
 
@@ -60,9 +60,9 @@ tags:
 
 25:15 - Choosing Topics
 
-26:08 - [RWDevCon](http://www.rwdevcon.com/)
+26:08 - [RWDevCon](https://www.rwdevcon.com/)
 
-31:48 - Working with Ray and on [raywenderlich.com](http://raywenderlich.com)
+31:48 - Working with Ray and on [raywenderlich.com](https://raywenderlich.com)
 
 36:31 - Maximizing Marketing Opportunities
 
@@ -71,17 +71,17 @@ tags:
 41:08 - Highlights
 
 - Video Tutorials
-- [iOS Games by Tutorials Second Edition: Beginning 2D iOS Game Development with Swift](http://www.raywenderlich.com/store/ios-games-by-tutorials)
-- [iOS Animations by Tutorials by Marin Todorov](http://www.raywenderlich.com/store/ios-animations-by-tutorials)
+- [iOS Games by Tutorials Second Edition: Beginning 2D iOS Game Development with Swift](https://www.raywenderlich.com/store/ios-games-by-tutorials)
+- [iOS Animations by Tutorials by Marin Todorov](https://www.raywenderlich.com/store/ios-animations-by-tutorials)
 
 Episode Resources
 
-- [The Freelancers' Show Episode #164: Teaching and Learning Courses with Breanne Dyck](http://devchat.tv/freelancers/164-fs-teaching-and-learning-courses-wit-breanne-dyck)
-- [The Freelancers' Show Episode #165: Strategy and Project Management with Marie Poulin](http://devchat.tv/freelancers/165-fs-strategy-and-project-management-with-marie-poulin)
+- [The Freelancers' Show Episode #164: Teaching and Learning Courses with Breanne Dyck](https://devchat.tv/freelancers/164-fs-teaching-and-learning-courses-wit-breanne-dyck)
+- [The Freelancers' Show Episode #165: Strategy and Project Management with Marie Poulin](https://devchat.tv/freelancers/165-fs-strategy-and-project-management-with-marie-poulin)
 - JavaScript Jabber Episode #173: Online Learning with Gregg Pollack
   Picks
 
-[WinObjC](https://github.com/Microsoft/WinObjC) (Andrew)[Friday Q&A 2015-07-31: Tagged Pointer Strings by Mike Ash](https://www.mikeash.com/pyblog/friday-qa-2015-07-31-tagged-pointer-strings.html) (Andrew)[The Web Platform Podcast Episode 56: Building Your Brand with Charles Max Wood](http://thewebplatform.libsyn.com/56-building-your-brand) (Chuck)[Developer On Fire Episode 017 - Charles Max Wood - Get Involved and Try New Things](http://developeronfire.com/Podcast/Episodes/episode-17-charles-max-wood-get-involved-and-try-new-things) (Chuck)[Skype’s Inside Out Emojis](http://blogs.skype.com/2015/06/18/disneys-inside-out-emoticons-launch-on-skype-today-express-your-feelings-with-our-new-emoticons/) (Chuck)[little bites of cocoa](http://littlebitesofcocoa.com/) (Ray)[The insanely slow road to building a blog (and why most people give up) by Belle Beth Cooper](http://blog.ghost.org/slow-blog-building/) (Ray)[What the Best College Teachers Do by Ken Bain](http://www.amazon.com/gp/product/0674013255/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0674013255&linkCode=as2&tag=chamaxwoo-20&linkId=NXPXYX45B7OPWXJF) (Greg)[What’s Your Learning Style? Quiz](http://www.fractuslearning.com/2015/05/29/whats-your-learning-style-quiz/) (Greg)[Brian Gilham's WatchKit Resources](http://watchkitresources.com) (Mic)[Exploding Kittens](http://www.explodingkittens.com) (Mic)
+[WinObjC](https://github.com/Microsoft/WinObjC) (Andrew)[Friday Q&A 2015-07-31: Tagged Pointer Strings by Mike Ash](https://www.mikeash.com/pyblog/friday-qa-2015-07-31-tagged-pointer-strings.html) (Andrew)[The Web Platform Podcast Episode 56: Building Your Brand with Charles Max Wood](https://thewebplatform.libsyn.com/56-building-your-brand) (Chuck)[Developer On Fire Episode 017 - Charles Max Wood - Get Involved and Try New Things](https://developeronfire.com/Podcast/Episodes/episode-17-charles-max-wood-get-involved-and-try-new-things) (Chuck)[Skype’s Inside Out Emojis](https://blogs.skype.com/2015/06/18/disneys-inside-out-emoticons-launch-on-skype-today-express-your-feelings-with-our-new-emoticons/) (Chuck)[little bites of cocoa](https://littlebitesofcocoa.com/) (Ray)[The insanely slow road to building a blog (and why most people give up) by Belle Beth Cooper](https://blog.ghost.org/slow-blog-building/) (Ray)[What the Best College Teachers Do by Ken Bain](https://www.amazon.com/gp/product/0674013255/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0674013255&linkCode=as2&tag=chamaxwoo-20&linkId=NXPXYX45B7OPWXJF) (Greg)[What’s Your Learning Style? Quiz](https://www.fractuslearning.com/2015/05/29/whats-your-learning-style-quiz/) (Greg)[Brian Gilham's WatchKit Resources](https://watchkitresources.com) (Mic)[Exploding Kittens](https://www.explodingkittens.com) (Mic)
 
 ### Transcript
 

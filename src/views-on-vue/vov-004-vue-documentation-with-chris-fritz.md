@@ -36,7 +36,7 @@ In this episode of Views on Vue, the panelists discuss [Vue](https://vuejs.org/)
 - How to strike balance
 - Documentation is a product
 - Have people look over what you’re writing
-- Tried Vue in [JavaScript](https://www.javascript.com/) and [TypeScript](http://www.typescriptlang.org/)
+- Tried Vue in [JavaScript](https://www.javascript.com/) and [TypeScript](https://www.typescriptlang.org/)
 - Future documentation in the works
 - [Vue CLI](https://vuejs.org/v2/guide/installation.html#CLI)
 - [Vue Enterprise Boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
@@ -50,7 +50,7 @@ In this episode of Views on Vue, the panelists discuss [Vue](https://vuejs.org/)
 - [Vue](https://vuejs.org/)
 - [Vue Style Guide](https://vuejs.org/v2/style-guide/)
 - [JavaScript](https://www.javascript.com/)
-- [TypeScript](http://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Vue CLI](https://vuejs.org/v2/guide/installation.html#CLI)
 - [Vue Enterprise Boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 - [Vue Guide](https://vuejs.org/v2/guide/)
@@ -74,8 +74,8 @@ John
 Chris
 
 - [_Children of Time_ by Adrian Tchaikovsky](https://www.amazon.com/Children-Time-Adrian-Tchaikovsky/dp/1543625584)
-- [_Blindsight_ by Peter Watts](http://www.rifters.com/real/Blindsight.htm)
+- [_Blindsight_ by Peter Watts](https://www.rifters.com/real/Blindsight.htm)
 - [Queer Eye](https://en.wikipedia.org/wiki/Queer_Eye)
-- [Vue Conf US](http://us.vuejs.org/)
+- [Vue Conf US](https://us.vuejs.org/)
 
 ### Transcript

@@ -75,7 +75,7 @@ In this episode of Elixir Mix, the panel talks to Devon Estes. He is an American
 
 45:25 – Let’s do picks!
 
-45:30 – [Code Badges' Advertisement!](http://codebadge.org/)
+45:30 – [Code Badges' Advertisement!](https://codebadge.org/)
 
 46:11 – Picks!
 
@@ -86,7 +86,7 @@ In this episode of Elixir Mix, the panel talks to Devon Estes. He is an American
 - [Code Badger with Charles Max Wood on Kickstarter!](https://www.kickstarter.com/projects/521063736/codebadgeorg)
 - [Devon Estes’ GitHub](https://github.com/devonestes)
 - [Devon Estes’ Twitter](https://twitter.com/devoncestes?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [Devon Estes’ Website](http://devonestes.herokuapp.com)
+- [Devon Estes’ Website](https://devonestes.herokuapp.com)
 - [Devon Estes’ LinkedIn](https://www.linkedin.com/in/devoncestes/)
 - D[evon Estes’ Refactoring Elixir – Lessons Learned from a Year on Exercism.lo](https://youtu.be/tJJMrtJEK1A)
 - [Fast Elixir](https://github.com/devonestes/fast-elixir)
@@ -95,14 +95,14 @@ In this episode of Elixir Mix, the panel talks to Devon Estes. He is an American
 - [Devon Estes’ Blog](https://devonestes.herokuapp.com/all-in)
 - [GitHub’s Elixir-Lang](https://github.com/elixir-lang/elixir/blob/master/lib/elixir/lib/kernel.ex#L4676)
 - [Exercism – Code Practice](https://exercism.io)
-- [Elixir Sips: Learn Elixir With A Pro](http://elixirsips.com)
-- [Devon Estes’ Heroku App](http://devonestes.herokuapp.com/using-erlang-trace-3)
+- [Elixir Sips: Learn Elixir With A Pro](https://elixirsips.com)
+- [Devon Estes’ Heroku App](https://devonestes.herokuapp.com/using-erlang-trace-3)
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badges](http://codebadge.org/)
+- [Code Badges](https://codebadge.org/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**
@@ -120,7 +120,7 @@ Mark
 
 Josh
 
-- [Follow-up on Mark’s pick (see above) – Posters / Harry Potter-Themed](http://steve.vinoski.net/blog/2010/03/29/erlang-the-movie-poster/)
+- [Follow-up on Mark’s pick (see above) – Posters / Harry Potter-Themed](https://steve.vinoski.net/blog/2010/03/29/erlang-the-movie-poster/)
 - [Tortoise](https://github.com/gausby/tortoise)
 
 Eric
@@ -130,8 +130,8 @@ Eric
 
 Devon
 
-- [Toggl](http://computationbook.com) – Time-tracking Tool / It’s free!
-- [“Understanding Computation” by Tom Stuart](http://computationbook.com)
+- [Toggl](https://computationbook.com) – Time-tracking Tool / It’s free!
+- [“Understanding Computation” by Tom Stuart](https://computationbook.com)
 - **Movie:** [Handmaiden](https://www.imdb.com/title/tt4016934/)
 
 ### Transcript

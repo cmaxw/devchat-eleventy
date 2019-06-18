@@ -18,10 +18,10 @@ Check out [<u>JS Remote Conf</u>](https://jsremoteconf.com/)
 
 - [<u>Twitter</u>](https://twitter.com/pamelafox)
 - [<u>GitHub</u>](https://github.com/pamelafox)
-- [<u>Blog</u>](http://www.pamelafox.org/)
+- [<u>Blog</u>](https://www.pamelafox.org/)
 - <u><a href="https://www.khanacademy.org/" data-cke-saved-href="https://www.khanacademy.org/">Khan Academy</a></u>
   - [<u>@khanacademy</u>](https://twitter.com/khanacademy)
-- [<u>Google Maps API</u>](https://developers.google.com/maps/) / [<u>Google Wave</u>](http://en.wikipedia.org/wiki/Apache_Wave)
+- [<u>Google Maps API</u>](https://developers.google.com/maps/) / [<u>Google Wave</u>](https://en.wikipedia.org/wiki/Apache_Wave)
 - [<u>Coursera</u>](https://www.coursera.org/)
 
 04:11 - Working at [<u>Khan Academy</u>](https://www.khanacademy.org/)
@@ -36,13 +36,13 @@ Check out [<u>JS Remote Conf</u>](https://jsremoteconf.com/)
 
 09:42 - Technology Used to Build the Curriculum
 
-- [<u>John Resig</u>](http://en.wikipedia.org/wiki/John_Resig)
-- [<u>The Ace Editor</u>](http://ace.c9.io/)
-- [<u>JSHint</u>](http://jshint.com/)
+- [<u>John Resig</u>](https://en.wikipedia.org/wiki/John_Resig)
+- [<u>The Ace Editor</u>](https://ace.c9.io/)
+- [<u>JSHint</u>](https://jshint.com/)
 - [<u>BabyHint</u>](https://gist.github.com/pamelafox/7745401)
 - [<u>Google App Engine</u>](https://cloud.google.com/appengine/docs)
 - [<u>Python</u>](https://www.python.org/)
-- [<u>BigTable</u>](http://en.wikipedia.org/wiki/BigTable)
+- [<u>BigTable</u>](https://en.wikipedia.org/wiki/BigTable)
 
 12:20 - Common Errors for Beginners
 
@@ -54,27 +54,27 @@ Check out [<u>JS Remote Conf</u>](https://jsremoteconf.com/)
 - Loops
 - Object-oriented Programming
 - 15:12 - Khan Academy vs Other Online Education Companies and Organizations
-- [<u>Drag and Drop JavaScript</u>](http://www.w3schools.com/htmL/html5_draganddrop.asp)
+- [<u>Drag and Drop JavaScript</u>](https://www.w3schools.com/htmL/html5_draganddrop.asp)
 - Block-based Languages
-  - [<u>Scratch</u>](http://scratch.mit.edu/)
-  - <u><a href="http://snap.berkeley.edu/" data-cke-saved-href="http://snap.berkeley.edu/">SNAP</a></u>
-  - <u><a href="http://code.org/" data-cke-saved-href="http://code.org/">Code.org</a></u>
+  - [<u>Scratch</u>](https://scratch.mit.edu/)
+  - <u><a href="https://snap.berkeley.edu/" data-cke-saved-href="https://snap.berkeley.edu/">SNAP</a></u>
+  - <u><a href="https://code.org/" data-cke-saved-href="https://code.org/">Code.org</a></u>
     - [<u>CodeCombat</u>](https://codecombat.com/)
-    - [<u>Frozen</u>](http://code.org/frozen)
-- [<u>Hour of Code</u>](http://hourofcode.com/)
-- [<u>Processing.js</u>](http://processingjs.org/)
+    - [<u>Frozen</u>](https://code.org/frozen)
+- [<u>Hour of Code</u>](https://hourofcode.com/)
+- [<u>Processing.js</u>](https://processingjs.org/)
 
 21:12 - Creativity & Expression
 
 - Programming Through Art
-  - [<u>JavaScript Jabber Episode #140: Using Art to Get and Keep People Interested in Programming with Jenn Schiffer</u>](http://devchat.tv/js-jabber/140-jsj-using-art-to-get-and-keep-people-interested-in-programming-with-jenn-schiffer)
+  - [<u>JavaScript Jabber Episode #140: Using Art to Get and Keep People Interested in Programming with Jenn Schiffer</u>](https://devchat.tv/js-jabber/140-jsj-using-art-to-get-and-keep-people-interested-in-programming-with-jenn-schiffer)
 
 27:40 - Learning to Program
 
-- [<u>Kid Pix</u>](http://en.wikipedia.org/wiki/Kid_Pix)
-- [<u>Sex Differences in Cognitive Abilities by Diane F. Halpern</u>](http://www.amazon.com/Sex-Differences-Cognitive-Abilities-Edition/dp/1848729413)
+- [<u>Kid Pix</u>](https://en.wikipedia.org/wiki/Kid_Pix)
+- [<u>Sex Differences in Cognitive Abilities by Diane F. Halpern</u>](https://www.amazon.com/Sex-Differences-Cognitive-Abilities-Edition/dp/1848729413)
 - [<u>The You Can Learn Anything Campaign</u>](https://www.khanacademy.org/youcanlearnanything)
-- [<u>The Growth Mindset</u>](http://www.mindsetworks.com/webnav/whatismindset.aspx)
+- [<u>The Growth Mindset</u>](https://www.mindsetworks.com/webnav/whatismindset.aspx)
   - “Growth Mindset Interventions”
 
 36:01 - Teaching Adults vs Kids
@@ -82,27 +82,27 @@ Check out [<u>JS Remote Conf</u>](https://jsremoteconf.com/)
 37:53 - Coding as a Basic Literacy?
 
 - [<u>Google Spreadsheets</u>](https://docs.google.com/spreadsheets/)
-- [<u>Cryptography</u>](http://en.wikipedia.org/wiki/Cryptography)
+- [<u>Cryptography</u>](https://en.wikipedia.org/wiki/Cryptography)
 
 40:18 - Getting Education as an Educator
 
 - Social Skills
-- [<u>Ruby Rogues Episode #191: The Developer Happiness Team with Kerri Miller</u>](http://devchat.tv/ruby-rogues/191-rr-the-developer-happiness-team-with-kerri-miller)
+- [<u>Ruby Rogues Episode #191: The Developer Happiness Team with Kerri Miller</u>](https://devchat.tv/ruby-rogues/191-rr-the-developer-happiness-team-with-kerri-miller)
 - Peer Evaluation System
 - Collaborative Projects
-  - [<u>CodeUnion</u>](http://codeunion.io/)
+  - [<u>CodeUnion</u>](https://codeunion.io/)
 
 45:18 - Traditional Computer Science Education vs Non-traditional Computer Science Education
 
-- [<u>Computer Science Teachers Association (CSTA)</u>](http://csta.acm.org/)
+- [<u>Computer Science Teachers Association (CSTA)</u>](https://csta.acm.org/)
 - Joe’s Blog Series on his Daughter:
-  - [<u>Part 1: Why My Daughter No Longer Attends Public High School</u>](http://www.joeeames.me/?p=11)
-  - [<u>Part 2: Our Decision to Pull our Daughter from High School</u>](http://www.joeeames.me/?p=23)
+  - [<u>Part 1: Why My Daughter No Longer Attends Public High School</u>](https://www.joeeames.me/?p=11)
+  - [<u>Part 2: Our Decision to Pull our Daughter from High School</u>](https://www.joeeames.me/?p=23)
 - Self-paced vs In-person Workshops
 
 52:09 - Dave’s Daughter, Molly Smith, Joins the Show
 
-- [<u>The Saxon Math Curriculum</u>](http://www.hmhco.com/shop/education-curriculum/math/saxon-math)
+- [<u>The Saxon Math Curriculum</u>](https://www.hmhco.com/shop/education-curriculum/math/saxon-math)
 - Coding as a Career Path
 - Comments for Pamela and Khan Academy
 

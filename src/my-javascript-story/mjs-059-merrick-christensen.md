@@ -52,7 +52,7 @@ Christensen talks about his journey into programming, starting by creating websi
 - [Wix](https://www.wix.com/)
 - [Framework Summit](https://www.frameworksummit.com/)
 - [@iamMerrick](https://twitter.com/iammerrick?lang=en)
-- [MerrickChristensen.com](http://merrickchristensen.com/)
+- [MerrickChristensen.com](https://merrickchristensen.com/)
 -
 
 **Picks:**

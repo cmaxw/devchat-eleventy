@@ -86,7 +86,7 @@ The exception may be Apple TV. It tends to mainly work for content consumption b
 
 ##### Andrew
 
-[The Living Computer Museum in Seattle](http://www.livingcomputers.org/)
+[The Living Computer Museum in Seattle](https://www.livingcomputers.org/)
 
 ##### Jaim
 

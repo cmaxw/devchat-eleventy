@@ -12,14 +12,14 @@ tags:
   - podcast
 ---
 
-### [Ruby-Chan](http://www.yoshidam.net/Ruby-chan/) Why Beautiful Code?
+### [Ruby-Chan](https://www.yoshidam.net/Ruby-chan/) Why Beautiful Code?
 
 - You know your code is written correctly by looking at it.
 - Knots metaphor - If it’s shaped right, you know it’ll hold.
 - The shape in your mind matches the shape on the page
   Evaluating code:
 - Eric Hodel - Audio evaluator of code
-- [rubygems-sing](http://rubygems.org/gems/rubygems-sing)
+- [rubygems-sing](https://rubygems.org/gems/rubygems-sing)
 - Reveals the intention to someone
   Practices:
 - 80 character limit
@@ -32,7 +32,7 @@ tags:
 
 ### See Also
 
-[Dave’s post on Dishonest code](http://chalain.livejournal.com/39332.html)
+[Dave’s post on Dishonest code](https://chalain.livejournal.com/39332.html)
 
 ### Transcript
 

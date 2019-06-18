@@ -12,45 +12,45 @@ tags:
   - podcast
 ---
 
-### [Use this link and code JAVAJAB to get 20% off your registration for FluentConf 2013!](http://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo)
+### [Use this link and code JAVAJAB to get 20% off your registration for FluentConf 2013!](https://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo)
 
 ### Panel
 
-- Brian Hogan ([twitter](https://twitter.com/bphogan) [github](https://github.com/napcs) [blog](http://www.bphogan.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
+- Brian Hogan ([twitter](https://twitter.com/bphogan) [github](https://github.com/napcs) [blog](https://www.bphogan.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 00:55 - Brian Hogan Introduction
 
-- [HTML5 and CSS3: Develop with Tomorrow's Standards Today by Brian Hogan](http://pragprog.com/book/bhh5/html5-and-css3)
-- [tmux: Productive Mouse-Free Development by Brian Hogan](http://pragprog.com/book/bhtmux/tmux)
-- [Web Development Recipes by Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson, Aaron Godin](http://pragprog.com/book/wbdev/web-development-recipes)
-- Development Editor with [Pragmatic Bookshelf](http://pragprog.com/)
-- Professor at [Chippewa Valley Technical College](http://www.cvtc.edu/Pages/default.aspx)
-  01:48 - What [Accessibility](http://en.wikipedia.org/wiki/Accessibility) Means 02:56 - Making Websites Accessible
-- [YSlow](http://developer.yahoo.com/yslow/)
+- [HTML5 and CSS3: Develop with Tomorrow's Standards Today by Brian Hogan](https://pragprog.com/book/bhh5/html5-and-css3)
+- [tmux: Productive Mouse-Free Development by Brian Hogan](https://pragprog.com/book/bhtmux/tmux)
+- [Web Development Recipes by Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson, Aaron Godin](https://pragprog.com/book/wbdev/web-development-recipes)
+- Development Editor with [Pragmatic Bookshelf](https://pragprog.com/)
+- Professor at [Chippewa Valley Technical College](https://www.cvtc.edu/Pages/default.aspx)
+  01:48 - What [Accessibility](https://en.wikipedia.org/wiki/Accessibility) Means 02:56 - Making Websites Accessible
+- [YSlow](https://developer.yahoo.com/yslow/)
 - People vs Users
   06:06 - “The Right Things”
-- [VersaBraille](http://www.google.com/search?q=versabraille&hl=en&source=lnms&tbm=isch&sa=X&ei=iAGDUZKCMPGn0AHIvoGQDA&ved=0CAcQ_AUoAQ&biw=1357&bih=715)
-- [Responsive Web Design](http://en.wikipedia.org/wiki/Responsive_web_design)
+- [VersaBraille](https://www.google.com/search?q=versabraille&hl=en&source=lnms&tbm=isch&sa=X&ei=iAGDUZKCMPGn0AHIvoGQDA&ved=0CAcQ_AUoAQ&biw=1357&bih=715)
+- [Responsive Web Design](https://en.wikipedia.org/wiki/Responsive_web_design)
   09:00 - Tools & Techniques
-- [Fahrner Image Replacement (FIR)](http://en.wikipedia.org/wiki/Fahrner_Image_Replacement)
+- [Fahrner Image Replacement (FIR)](https://en.wikipedia.org/wiki/Fahrner_Image_Replacement)
 - Web Fonts
 - ⌘+
   14:56 - Manipulating the DOM
-- [ARIA - HTML5](http://dev.w3.org/html5/markup/aria/aria.html)
-- [Ember.js](http://emberjs.com/)
-  16:54 - Screen Resolution 19:24 - [Typeahead](http://en.wikipedia.org/wiki/Typeahead)20:58 - Testing
-- [Jaws](http://www.freedomscientific.com/products/fs/jaws-product-page.asp)
-- [VoiceOver](http://www.apple.com/accessibility/voiceover/)
+- [ARIA - HTML5](https://dev.w3.org/html5/markup/aria/aria.html)
+- [Ember.js](https://emberjs.com/)
+  16:54 - Screen Resolution 19:24 - [Typeahead](https://en.wikipedia.org/wiki/Typeahead)20:58 - Testing
+- [Jaws](https://www.freedomscientific.com/products/fs/jaws-product-page.asp)
+- [VoiceOver](https://www.apple.com/accessibility/voiceover/)
   23:11 - Resources
-- [WebAIM](http://webaim.org/)
-- [Web Content Accessibility Guidelines (WCAG)](http://www.w3.org/WAI/intro/wcag.php)
-- [Section 508](http://section508.gov/)
+- [WebAIM](https://webaim.org/)
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/intro/wcag.php)
+- [Section 508](https://section508.gov/)
   25:00 - Dealing with different kinds of impairments
 - Transcripts
 - Text
@@ -58,23 +58,23 @@ tags:
   28:08 - Ease of Accessibility & Empathy 31:41 - Interactive Pages 35:26 - Making things accessible vs not making things accessible
 - Making experiences better for everyone, period
   42:09 - Resources Cont’d
-- [Web Content Accessibility Guidelines (WCAG)](http://www.w3.org/WAI/intro/wcag.php)
-- [Pro HTML5 Accessibility by Joe O Conner](http://www.amazon.com/gp/product/1430241942/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430241942&linkCode=as2&tag=chamaxwoo-20)
-- [Design Accessible Web Sites: 36 Keys to Creating Content for All Audiences and Platforms by Jeremy Sydik](http://pragprog.com/book/jsaccess/design-accessible-web-sites)
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/intro/wcag.php)
+- [Pro HTML5 Accessibility by Joe O Conner](https://www.amazon.com/gp/product/1430241942/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430241942&linkCode=as2&tag=chamaxwoo-20)
+- [Design Accessible Web Sites: 36 Keys to Creating Content for All Audiences and Platforms by Jeremy Sydik](https://pragprog.com/book/jsaccess/design-accessible-web-sites)
   42:46 - Understanding Others’ Difficulties
 
 ### Picks
 
-- [Leviathan: Warships](http://www.leviathanwarships.com/) (Joe)
-- [Star Command](http://www.starcommandgame.com/home.html) (Joe)
-- [That Conference](http://www.thatconference.com/) (Joe)
-- [Lowes](http://www.lowes.com/) (AJ)
+- [Leviathan: Warships](https://www.leviathanwarships.com/) (Joe)
+- [Star Command](https://www.starcommandgame.com/home.html) (Joe)
+- [That Conference](https://www.thatconference.com/) (Joe)
+- [Lowes](https://www.lowes.com/) (AJ)
 - Friends (AJ)
 - [Ticket to Ride](https://itunes.apple.com/us/app/ticket-to-ride-pocket/id471857988?mt=8) (Chuck)
 - [4 Pics 1 Word](https://itunes.apple.com/us/app/4-pics-1-word/id595558452?mt=8) (Chuck)
-- [Continuum](http://www.imdb.com/title/tt1954347/) (Chuck)
-- [AngularJS](http://angularjs.org/) (Brian)
-- [Presentation Manager from Woojijuice](http://www.wooji-juice.com/products/presentation-remote/presentation-manager.html) (Brian)
+- [Continuum](https://www.imdb.com/title/tt1954347/) (Chuck)
+- [AngularJS](https://angularjs.org/) (Brian)
+- [Presentation Manager from Woojijuice](https://www.wooji-juice.com/products/presentation-remote/presentation-manager.html) (Brian)
 
 ### Next Week
 

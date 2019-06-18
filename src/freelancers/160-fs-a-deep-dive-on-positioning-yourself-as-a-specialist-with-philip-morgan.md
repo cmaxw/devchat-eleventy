@@ -20,7 +20,7 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 
 - [Twitter](https://twitter.com/Philip_Morgan)
 - [Philip Morgan Consulting](https://philipmorganconsulting.com/)
-- [The Positioning Manual for Technical Firms by Philip Morgan](http://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/)
+- [The Positioning Manual for Technical Firms by Philip Morgan](https://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/)
 
 02:30 - Thinking About Positioning and Communicating What You Do
 
@@ -35,7 +35,7 @@ Get your [Ruby Remote Conf](https://rubyremoteconf.com/) tickets and check out t
 - Marketing, Publicity
   56:07 - Positioning ExercisePicks
 
-[Kurt Elster: Email Templates for Freelancers](http://kurtelster.com/emails-for-freelancers/) (Jonathan)[Expensive Problem: Market Research Cold Email Template](https://expensiveproblem.com/market-research-cold-email-template) (Jonathan)[Bryan Harris: How I Made \$10,000 in 24-hours With My First Product (Case Study)](http://blog.videofruit.com/make-money-blogging/) (Reuven)[Jewish guide to visiting China by Reuven Lerner](https://gumroad.com/l/jewishchina) (Reuven)[Spark by Readdle](https://readdle.com/products/spark) (Eric)[AmazonSmile](http://smile.amazon.com/) (Chuck) Listen to other people’s views (Chuck)[Positioning: The Battle for Your Mind by Al Ries](http://www.amazon.com/gp/product/0071373586/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0071373586&linkCode=as2&tag=chamaxwoo-20&linkId=3UHNZZ6W2HTMFWYV) (Philip)[Rolls MS111 Mic Switch Latching or Momentary Microphone Mute Switch with Passes Phantom Power](http://www.amazon.com/gp/product/B001GMXFW6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001GMXFW6&linkCode=as2&tag=chamaxwoo-20&linkId=NRZ6ADNBWWKGRGKB) (Philip)[The Consulting Pipeline Podcast](http://consultingpipelinepodcast.com/) (Philip)
+[Kurt Elster: Email Templates for Freelancers](https://kurtelster.com/emails-for-freelancers/) (Jonathan)[Expensive Problem: Market Research Cold Email Template](https://expensiveproblem.com/market-research-cold-email-template) (Jonathan)[Bryan Harris: How I Made \$10,000 in 24-hours With My First Product (Case Study)](https://blog.videofruit.com/make-money-blogging/) (Reuven)[Jewish guide to visiting China by Reuven Lerner](https://gumroad.com/l/jewishchina) (Reuven)[Spark by Readdle](https://readdle.com/products/spark) (Eric)[AmazonSmile](https://smile.amazon.com/) (Chuck) Listen to other people’s views (Chuck)[Positioning: The Battle for Your Mind by Al Ries](https://www.amazon.com/gp/product/0071373586/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0071373586&linkCode=as2&tag=chamaxwoo-20&linkId=3UHNZZ6W2HTMFWYV) (Philip)[Rolls MS111 Mic Switch Latching or Momentary Microphone Mute Switch with Passes Phantom Power](https://www.amazon.com/gp/product/B001GMXFW6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001GMXFW6&linkCode=as2&tag=chamaxwoo-20&linkId=NRZ6ADNBWWKGRGKB) (Philip)[The Consulting Pipeline Podcast](https://consultingpipelinepodcast.com/) (Philip)
 
 ### Transcript
 

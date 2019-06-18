@@ -26,14 +26,14 @@ He got into JavaScript when he did his very first startup called Scavenger in 20
 
 ## Establish Connections
 
-Valeri surely wants to hear from you! Connect with him&nbsp;on [thecodebarbarian.com](http://thecodebarbarian.com/) and&nbsp;[Twitter](https://twitter.com/code_barbarian?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Don’t forget to let Valeri&nbsp;know you heard about him&nbsp;on Devchat.tv’s JavaScript Jabber My JS Story podcast!
+Valeri surely wants to hear from you! Connect with him&nbsp;on [thecodebarbarian.com](https://thecodebarbarian.com/) and&nbsp;[Twitter](https://twitter.com/code_barbarian?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Don’t forget to let Valeri&nbsp;know you heard about him&nbsp;on Devchat.tv’s JavaScript Jabber My JS Story podcast!
 
 ## Picks:
 
-Valeri:&nbsp;archetype--js on NPM and [Ramda](http://ramdajs.com/)Charles: [Kubo](https://www.indiegogo.com/projects/kubos-the-densest-cube-you-will-ever-own-cool#/), little cars controlled by iPhone or android, Google cardboard based goggles at Walmart
+Valeri:&nbsp;archetype--js on NPM and [Ramda](https://ramdajs.com/)Charles: [Kubo](https://www.indiegogo.com/projects/kubos-the-densest-cube-you-will-ever-own-cool#/), little cars controlled by iPhone or android, Google cardboard based goggles at Walmart
 
 ## Episode Links:
 
-Pokemon,&nbsp;Scavenger/LevelUp,&nbsp;[Prototype.js](http://prototypejs.org/),&nbsp;[Scriptaculous.js](http://script.aculo.us/),&nbsp;jQuery,&nbsp;Karma,&nbsp;Js test driver,&nbsp;Selenium,&nbsp;Sauce Labs,&nbsp;Mongoose,&nbsp;MongoDB,&nbsp;Github Issues,&nbsp;CI (Continuous Integration),&nbsp;Go,&nbsp;Angular 1,&nbsp;Aaron Hackman,&nbsp;MySQL,&nbsp;PostgreSQL,&nbsp;MEAN Stack,&nbsp;Python,&nbsp;Python dictionaries,&nbsp;SQL,&nbsp;Memcached,&nbsp;Ruby on Rails,&nbsp;Wiley publishing,&nbsp;80/20 ES2015 Generators,&nbsp;Todd Motto,&nbsp;The 4 hour body by Tim Ferriss,&nbsp;Co,&nbsp;Mongoose 4.8,&nbsp;RxJS,&nbsp;Archetype,&nbsp;BoosterFuels,&nbsp;Software is about people,&nbsp;Community Best Practices,&nbsp;React,&nbsp;Facebook,&nbsp;Redux
+Pokemon,&nbsp;Scavenger/LevelUp,&nbsp;[Prototype.js](https://prototypejs.org/),&nbsp;[Scriptaculous.js](https://script.aculo.us/),&nbsp;jQuery,&nbsp;Karma,&nbsp;Js test driver,&nbsp;Selenium,&nbsp;Sauce Labs,&nbsp;Mongoose,&nbsp;MongoDB,&nbsp;Github Issues,&nbsp;CI (Continuous Integration),&nbsp;Go,&nbsp;Angular 1,&nbsp;Aaron Hackman,&nbsp;MySQL,&nbsp;PostgreSQL,&nbsp;MEAN Stack,&nbsp;Python,&nbsp;Python dictionaries,&nbsp;SQL,&nbsp;Memcached,&nbsp;Ruby on Rails,&nbsp;Wiley publishing,&nbsp;80/20 ES2015 Generators,&nbsp;Todd Motto,&nbsp;The 4 hour body by Tim Ferriss,&nbsp;Co,&nbsp;Mongoose 4.8,&nbsp;RxJS,&nbsp;Archetype,&nbsp;BoosterFuels,&nbsp;Software is about people,&nbsp;Community Best Practices,&nbsp;React,&nbsp;Facebook,&nbsp;Redux
 
 ### Transcript

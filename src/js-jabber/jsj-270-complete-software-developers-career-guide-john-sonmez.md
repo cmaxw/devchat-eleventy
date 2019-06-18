@@ -16,7 +16,7 @@ tags:
 
 ### JSJ 270 The Complete Software Developers Career Guide with John Sonmez
 
-This episode features a panel of Joe Eames, AJ O’Neal, as well as host Charles Maxwell. Special guest John Sonmez runs the website [SimpleProgrammer.com](http://simpleprogrammer.com/) that is focused on personal development for software developers. He works on career development and improving the non-technical life aspects of software developers. Today’s episode focuses on John’s new book&nbsp;The Complete Software Developers Career Guide.
+This episode features a panel of Joe Eames, AJ O’Neal, as well as host Charles Maxwell. Special guest John Sonmez runs the website [SimpleProgrammer.com](https://simpleprogrammer.com/) that is focused on personal development for software developers. He works on career development and improving the non-technical life aspects of software developers. Today’s episode focuses on John’s new book&nbsp;The Complete Software Developers Career Guide.
 
 ---
 
@@ -74,7 +74,7 @@ The most interesting question is regarding contract verses salary employment and
 
 #### What’s the best place for people to pick up the book?
 
-[simpleprogrammer.com/careerguide](http://simpleprogrammer.com/careerguide/) and it will be sold on Amazon. The book will be 99 cents on kindle – want it to be the best selling software development book ever.
+[simpleprogrammer.com/careerguide](https://simpleprogrammer.com/careerguide/) and it will be sold on Amazon. The book will be 99 cents on kindle – want it to be the best selling software development book ever.
 
 ---
 
@@ -82,7 +82,7 @@ The most interesting question is regarding contract verses salary employment and
 
 #### Joe
 
-[Wonder Woman](http://wonderwomanfilm.com/)
+[Wonder Woman](https://wonderwomanfilm.com/)
 
 #### AJ
 

@@ -20,14 +20,14 @@ tags:
 
 - Speed and Momentum
 - Dependency Management
-  - [CPAN](http://www.cpan.org/)
-  - [Bundler](http://bundler.io/)
+  - [CPAN](https://www.cpan.org/)
+  - [Bundler](https://bundler.io/)
   - [npm](https://www.npmjs.com/)
 
 13:12 - Polyglotting Architecture if Only Using Ruby for Build Tools, Deployment Tools, etc.?
 
 - “Deployment is part of the code.”
-  - [Capistrano](http://capistranorb.com/)
+  - [Capistrano](https://capistranorb.com/)
   - [rake](https://github.com/ruby/rake)
 
 16:09 - Error Messages

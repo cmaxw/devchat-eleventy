@@ -18,16 +18,16 @@ On today's episode of Adventures in Angular, we have panelists Ward Bell, Joe Ea
 
 - Hiking
 - Fishing
-- [Southern Sierras](http://sierranewsonline.com/hiking-and-fishing-with-sally-in-little-lakes-valley/)
+- [Southern Sierras](https://sierranewsonline.com/hiking-and-fishing-with-sally-in-little-lakes-valley/)
   **Chuck Max Wood**
-- [Book: Profit First by Mike Michalowicz](http://profitfirstbook.com/)
+- [Book: Profit First by Mike Michalowicz](https://profitfirstbook.com/)
 - Ketogenic Diet
 - Air-conditioning
   **Joe Eames**
 - [Book: Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are by Seth Stephens-Davidowitz](https://www.amazon.com/Everybody-Lies-Internet-About-Really/dp/0062390856)
 - Rent a scooter to ride around Rome
   **Jeff Whelpley**
-- [Survey: Monorepo vs Multirepo](http://whlp.ly/survey-repo)
+- [Survey: Monorepo vs Multirepo](https://whlp.ly/survey-repo)
 - [Twitter: @jeffwhelpley](https://twitter.com/jeffwhelpley)
 - [Medium: @jeffwhelpey](https://medium.com/@jeffwhelpley)
   **Kushal Dave**

@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out [JS Remote Conf](http://jsremoteconf.com) and [All Remote Confs](http://allremoteconfs.com)!
+Check out [JS Remote Conf](https://jsremoteconf.com) and [All Remote Confs](https://allremoteconfs.com)!
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Check out [JS Remote Conf](http://jsremoteconf.com) and [All Remote Confs](http:
 
 - [Twitter](https://twitter.com/ThomasBurleson)
 - [GitHub](https://github.com/ThomasBurleson)
-- [The Solution Optimist](http://solutionoptimist.com/)
+- [The Solution Optimist](https://solutionoptimist.com/)
 
 03:01 - [Angular Material](https://material.angularjs.org/)
 
@@ -36,7 +36,7 @@ Check out [JS Remote Conf](http://jsremoteconf.com) and [All Remote Confs](http:
 
 14:38 - Mental Model; [google.com/design](https://design.google.com/)
 
-- [ColdFusion](http://www.adobe.com/products/coldfusion-family.html)
+- [ColdFusion](https://www.adobe.com/products/coldfusion-family.html)
 
 18:01 - [Getting Started with Angular Material](https://material.angularjs.org/latest/getting-started)
 
@@ -46,7 +46,7 @@ Check out [JS Remote Conf](http://jsremoteconf.com) and [All Remote Confs](http:
 
 31:23 - Browser Support
 
-- [Can I use... Search = flex](http://caniuse.com/#search=flex)
+- [Can I use... Search = flex](https://caniuse.com/#search=flex)
 
 35:27 - Perf Story
 
@@ -54,7 +54,7 @@ Check out [JS Remote Conf](http://jsremoteconf.com) and [All Remote Confs](http:
 
 41:07 - Angular Material and Angular 2Picks
 
-[Screeps](http://screeps.com) (Joe)[Lena Reinhard: A Talk About Nothing @ .concat() 2015](https://www.youtube.com/watch?v=D3e3V66TH2Y) (Joe)[Meru](http://www.merufilm.com/) (Lukas)[How to Sharpen Pencils](https://vimeo.com/60718161) (Ward)[Hour of Code with Star Wars](https://code.org/star-wars-announcement) (John)[Star Wars | Code.org](https://code.org/starwars) (John)[Star Wars: The Force Awakens](http://www.starwars.com/the-force-awakens/) (John)[JS Remote Conf](http://jsremoteconf.com) (Chuck)[Angular Remote Conf](http://angularremoteconf.com) (Chuck)[All Remote Confs](http://allremoteconfs.com) (Chuck)[Clash of Clans](http://clashofclans.com) (Chuck)[Dan Abramov: Live React: Hot Reloading with Time Travel @ react-europe 2015](https://www.youtube.com/watch?v=xsSnOQynTHs) (Thomas)
+[Screeps](https://screeps.com) (Joe)[Lena Reinhard: A Talk About Nothing @ .concat() 2015](https://www.youtube.com/watch?v=D3e3V66TH2Y) (Joe)[Meru](https://www.merufilm.com/) (Lukas)[How to Sharpen Pencils](https://vimeo.com/60718161) (Ward)[Hour of Code with Star Wars](https://code.org/star-wars-announcement) (John)[Star Wars | Code.org](https://code.org/starwars) (John)[Star Wars: The Force Awakens](https://www.starwars.com/the-force-awakens/) (John)[JS Remote Conf](https://jsremoteconf.com) (Chuck)[Angular Remote Conf](https://angularremoteconf.com) (Chuck)[All Remote Confs](https://allremoteconfs.com) (Chuck)[Clash of Clans](https://clashofclans.com) (Chuck)[Dan Abramov: Live React: Hot Reloading with Time Travel @ react-europe 2015](https://www.youtube.com/watch?v=xsSnOQynTHs) (Thomas)
 
 ### Transcript
 

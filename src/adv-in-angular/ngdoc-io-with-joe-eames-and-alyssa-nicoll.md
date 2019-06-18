@@ -38,6 +38,6 @@ Alyssa: NG Cruise Joe: Dungeons and Dragons game Charles: AngularMix.com Ward: B
 
 ## Episode Links:
 
-Follow Joe Eames on Twitter [@josepheames](https://twitter.com/josepheames) for updates on NgDoc.Io[NgDoc.Io](http://ngdoc.io/)
+Follow Joe Eames on Twitter [@josepheames](https://twitter.com/josepheames) for updates on NgDoc.Io[NgDoc.Io](https://ngdoc.io/)
 
 ### Transcript

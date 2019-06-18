@@ -12,20 +12,20 @@ tags:
   - podcast
 ---
 
-02:04 -&nbsp;[Ruby on Ales](http://ruby.onales.com/)04:09 - Don't Underestimate the Risks of Being Hacked
+02:04 -&nbsp;[Ruby on Ales](https://ruby.onales.com/)04:09 - Don't Underestimate the Risks of Being Hacked
 
 - Loss of Revenue
 - Legal Liability
 - Loss of Reputation
   04:40 - [Secure Sockets Layer Certificate (SSL)](https://www.instantssl.com/ssl.html)
 - Think Like a Hacker
-  05:58 - Security Is a Practice, Not a Product 06:20 - [RailsCasts on Session Hijacking](http://railscasts.com/episodes/356-dangers-of-session-hijacking)07:20 -&nbsp;[FireSheep](http://codebutler.github.com/firesheep/)
-- [Virtual Private Network (VPN)](http://en.wikipedia.org/wiki/Virtual_private_network)
+  05:58 - Security Is a Practice, Not a Product 06:20 - [RailsCasts on Session Hijacking](https://railscasts.com/episodes/356-dangers-of-session-hijacking)07:20 -&nbsp;[FireSheep](https://codebutler.github.com/firesheep/)
+- [Virtual Private Network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_network)
   09:00 - Storing Passwords
-- [Bastion Hosts](http://en.wikipedia.org/wiki/Bastion_host)
-- [BCrypt](http://bcrypt-ruby.rubyforge.org/)
-  09:53 - Avoid the [SQL Injection](http://en.wikipedia.org/wiki/SQL_injection) Vulnerability 10:16 - Rails vs [Sinatra](http://www.sinatrarb.com/)
-- [Wordpress](http://wordpress.org/)
+- [Bastion Hosts](https://en.wikipedia.org/wiki/Bastion_host)
+- [BCrypt](https://bcrypt-ruby.rubyforge.org/)
+  09:53 - Avoid the [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection) Vulnerability 10:16 - Rails vs [Sinatra](https://www.sinatrarb.com/)
+- [Wordpress](https://wordpress.org/)
   12:56 - CSRF Tokens 14:30 - Make a List of the Inputs Into Your System
 - URL Bar
 - Forms
@@ -36,29 +36,29 @@ tags:
 - Look Into Ways People Can Hack
 - What Do You Do When You Get Hacked?
 - Don't Keep Your Compromised System Running
-- [Denial-of-Service Attack (DDOS Attacks)](http://en.wikipedia.org/wiki/Denial-of-service_attack)
+- [Denial-of-Service Attack (DDOS Attacks)](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 - Always Assume the Worst Case Scenario
-  18:49 -&nbsp;[League of Legends compromise](http://www.pcworld.com/article/257292/european_league_of_legends_game_players_have_their_account_data_compromised.html) & [Last.fm compromise](http://news.cnet.com/8301-1009_3-57449037-83/last.fm-warns-users-of-password-leak/)20:43 -&nbsp;[SCrypt](https://github.com/pbhogan/scrypt)22:03 - Password Strength Meters 23:48 - What To Do When You're Hacked:
+  18:49 -&nbsp;[League of Legends compromise](https://www.pcworld.com/article/257292/european_league_of_legends_game_players_have_their_account_data_compromised.html) & [Last.fm compromise](https://news.cnet.com/8301-1009_3-57449037-83/last.fm-warns-users-of-password-leak/)20:43 -&nbsp;[SCrypt](https://github.com/pbhogan/scrypt)22:03 - Password Strength Meters 23:48 - What To Do When You're Hacked:
 - Take the Affected Systems Offline
 - Keep the Affected Systems Around for Forensic Analysis
 - Fix the Problem, Deploy, Nuke
   26:08 - Disclose As Soon As You Know You Are Hacked 27:18 - Don't Try to Hide Things
 - Get Second Opinions
-  28:41 - You Are NOT the Victim. Your Users Are the Victims 29:10 -&nbsp;[Amazon Network Outage Write-up](http://aws.amazon.com/message/65648/)
-- [Trickle-down Effect](http://en.wikipedia.org/wiki/Trickle-down_effect)
+  28:41 - You Are NOT the Victim. Your Users Are the Victims 29:10 -&nbsp;[Amazon Network Outage Write-up](https://aws.amazon.com/message/65648/)
+- [Trickle-down Effect](https://en.wikipedia.org/wiki/Trickle-down_effect)
   31:39 - Brute Forcing is a Numbers Game
 - Exponential Decay
 - Maximum Failure Lockout
-  34:58 - [SQL Injection](http://en.wikipedia.org/wiki/SQL_injection)35:50 -&nbsp;[Metasploit](http://www.metasploit.com/)37:34 -&nbsp;[Professional Penetration Testing](http://www.amazon.com/gp/product/1597494259/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1597494259)
-- [Black Hat Hacker](<http://en.wikipedia.org/wiki/Hacker_(computer_security)#Black_hat>) vs [White Hat Hacker](http://en.wikipedia.org/wiki/White_hat_%28computer_security%29)
+  34:58 - [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)35:50 -&nbsp;[Metasploit](https://www.metasploit.com/)37:34 -&nbsp;[Professional Penetration Testing](https://www.amazon.com/gp/product/1597494259/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1597494259)
+- [Black Hat Hacker](<https://en.wikipedia.org/wiki/Hacker_(computer_security)#Black_hat>) vs [White Hat Hacker](https://en.wikipedia.org/wiki/White_hat_%28computer_security%29)
   39:33 -&nbsp;[Github Public Key Vulnerability Commit](https://github.com/blog/1068-public-key-security-vulnerability-and-mitigation)46:25 - Protect Your Users and Protect Yourself 47:25 - Engineering Failures vs Culture Failures
-- Password Generators ([i.e. Strong Random Password Generator](http://passwordsgenerator.net/))
+- Password Generators ([i.e. Strong Random Password Generator](https://passwordsgenerator.net/))
 - [Rails Security Group](https://groups.google.com/forum/?fromgroups#!forum/rubyonrails-security)
-- [Rails Vulnerability List](http://www.cvedetails.com/vulnerability-list/vendor_id-4954/product_id-8446/Ruby-On-Rails-Ruby-On-Rails.html)
+- [Rails Vulnerability List](https://www.cvedetails.com/vulnerability-list/vendor_id-4954/product_id-8446/Ruby-On-Rails-Ruby-On-Rails.html)
 
 ### Book Club
 
-We're reading [Growing Object Oriented Software Guided by Tests](http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)&nbsp;for the book club. We'll be reviewing it sometime in August.
+We're reading [Growing Object Oriented Software Guided by Tests](https://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)&nbsp;for the book club. We'll be reviewing it sometime in August.
 
 ### Transcript
 

@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors:**
 
-- [Sentry](http://sentry.io/)– use the code “devchat” for 2 months free&nbsp;on Sentry small plan
+- [Sentry](https://sentry.io/)– use the code “devchat” for 2 months free&nbsp;on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 
 ### **Panelists:**
@@ -31,12 +31,12 @@ In this episode of the Freelancers' Show, the panel talks about being nervous ab
 - [Learn Your Lines](https://www.jonathanstark.com/pricing)
 - [The Gift of Fear by Gavin de Becker](https://www.audible.com/pd/The-Gift-of-Fear-Audiobook/B0728KK4YZ?ds_rl=1262685&ds_rl=1263561&ds_rl=1260658&mkwid=DSAINTTitle_dc&pcrid=239333741509&pmt=b&pkw=&source_code=GO1GBSH07271690CB&cvosrc=ppc%20dynamic%20search.google.634950925&cvo_crid=239333741509&cvo_pid=33581432409&gclid=EAIaIQobChMI-6nX1LD84AIVCoGyCh0ytwpaEAAYASAAEgLejfD_BwE&gclsrc=aw.ds)
 **Erik Dietrich:**
-- [Apply to be an author](http://hitsubscribe.com/)
-- [AirBNB Experiences](http://airbnb.com/)
+- [Apply to be an author](https://hitsubscribe.com/)
+- [AirBNB Experiences](https://airbnb.com/)
 **Jeremy Green:**
-- [Increase Your Consulting Fees](http://increaseyourconsultingfees.com/](http://increaseyourconsultingfees.com/))
+- [Increase Your Consulting Fees](https://increaseyourconsultingfees.com/](https://increaseyourconsultingfees.com/))
 **Reuven Lerner:**
-- [Asciidoc](http://asciidoc.org/)
+- [Asciidoc](https://asciidoc.org/)
 
 
 ### Transcript

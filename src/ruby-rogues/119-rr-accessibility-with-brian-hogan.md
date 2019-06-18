@@ -14,13 +14,13 @@ tags:
 
 01:39 - Brian Hogan Introduction
 
-- [tmux: Productive Mouse-Free Development by Brian Hogan](http://pragprog.com/book/bhtmux/tmux)
-- [HTML5 and CSS3: Develop with Tomorrow’s Standards Today by Brian Hogan](http://pragprog.com/book/bhh5/html5-and-css3)
-- [Web Development Recipes by Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson, Aaron Godin](http://pragprog.com/book/wbdev/web-development-recipes)
-- Development Editor with [Pragmatic Bookshelf](http://pragprog.com/)
-- Professor at [Chippewa Valley Technical College](http://www.cvtc.edu/Pages/default.aspx)
+- [tmux: Productive Mouse-Free Development by Brian Hogan](https://pragprog.com/book/bhtmux/tmux)
+- [HTML5 and CSS3: Develop with Tomorrow’s Standards Today by Brian Hogan](https://pragprog.com/book/bhh5/html5-and-css3)
+- [Web Development Recipes by Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson, Aaron Godin](https://pragprog.com/book/wbdev/web-development-recipes)
+- Development Editor with [Pragmatic Bookshelf](https://pragprog.com/)
+- Professor at [Chippewa Valley Technical College](https://www.cvtc.edu/Pages/default.aspx)
 
-02:09 - What [Accessibility](http://en.wikipedia.org/wiki/Accessibility) Means
+02:09 - What [Accessibility](https://en.wikipedia.org/wiki/Accessibility) Means
 
 06:50 - Making Things Accessible
 
@@ -33,8 +33,8 @@ tags:
 
 11:28 - ARIA Roles
 
-- [ARIA – HTML5](http://dev.w3.org/html5/markup/aria/aria.html)
-- [WAI-ARIA Live Regions and HTML5](http://www.overscore.com/testcases/presentation.html)
+- [ARIA – HTML5](https://dev.w3.org/html5/markup/aria/aria.html)
+- [WAI-ARIA Live Regions and HTML5](https://www.overscore.com/testcases/presentation.html)
 
 15:19 - Keyboard Shortcuts
 
@@ -42,17 +42,17 @@ tags:
 
 24:25 - Accessibility Awareness
 
-- [058 JSJ Building Accessible Website with Brian Hogan](http://javascriptjabber.com/058-jsj-building-accessible-websites-with-brian-hogan/)
+- [058 JSJ Building Accessible Website with Brian Hogan](https://javascriptjabber.com/058-jsj-building-accessible-websites-with-brian-hogan/)
 - Sympathy vs Empathy
 - Pixels vs Relative
 
 29:16 - Tools
 
-- [W3C Markup Validation Service](http://validator.w3.org/)
-- [WebAIM - Web Accessibility In Mind](http://webaim.org/)
-- [WebAIM's WCAG 2.0 Checklist for HTML documents](http://webaim.org/standards/wcag/checklist)
-- [Color Oracle](http://colororacle.org/)
-- [JAWS](http://www.freedomscientific.com/products/fs/jaws-product-page.asp)
+- [W3C Markup Validation Service](https://validator.w3.org/)
+- [WebAIM - Web Accessibility In Mind](https://webaim.org/)
+- [WebAIM's WCAG 2.0 Checklist for HTML documents](https://webaim.org/standards/wcag/checklist)
+- [Color Oracle](https://colororacle.org/)
+- [JAWS](https://www.freedomscientific.com/products/fs/jaws-product-page.asp)
 
 35:04 - Web Innovation and Accessibility
 
@@ -78,13 +78,13 @@ tags:
 59:35 - Accessible Websites
 
 - [Google Maps](https://maps.google.com/)
-- [Twitter](http://www.twitter.com/)
+- [Twitter](https://www.twitter.com/)
 
 01:01:16 - Resources
 
-- [WebAIM - Web Accessibility In Mind](http://webaim.org/)
+- [WebAIM - Web Accessibility In Mind](https://webaim.org/)
 - [webaxe Podcast](https://itunes.apple.com/us/podcast/web-axe-practical-web-design/id80887432)
-- [HTML5 accessibility](http://html5accessibility.com/)
+- [HTML5 accessibility](https://html5accessibility.com/)
 
 ### Next Week
 

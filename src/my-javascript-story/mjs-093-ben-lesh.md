@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io) use the code "devchat" for 2 months free on Sentry's small plan
+- [Sentry](https://sentry.io) use the code "devchat" for 2 months free on Sentry's small plan
 - [Clubhouse](https://clubhouse.io/jsjabber)
 - [CacheFly&nbsp;](https://www.cachefly.com/)
 
@@ -28,7 +28,7 @@ In this episode of My JavaScript Story, Charles Max Wood hosts Ben Lesh, RxJS&nb
 - <u><a href="https://www.linkedin.com/in/blesh/">Ben's LinkedIN</a></u>
 - <u><a href="https://twitter.com/benlesh?lang=en">Ben's Twitter</a></u>
 - [<u>Ben's GitHub</u>](https://github.com/benlesh)
-- <u><a href="http://refactr.tech/">http://refactr.tech/</a></u>
+- <u><a href="https://refactr.tech/">https://refactr.tech/</a></u>
 - [https://devchat.tv/my-javascript-story/](https://devchat.tv/my-javascript-story/)
 
 ### **Picks**
@@ -36,7 +36,7 @@ In this episode of My JavaScript Story, Charles Max Wood hosts Ben Lesh, RxJS&nb
 - <u>Angular Ivy</u>
 - <u><a href="https://reactive.how/">reactive.how</a></u>
 - <u><a href="https://www.thisdot.co/rx-workshop">Ben's Workshop</a></u>
-- <u><a href="http://refactr.tech/">http://refactr.tech/</a></u>
+- <u><a href="https://refactr.tech/">https://refactr.tech/</a></u>
 **Charles Max Wood:**
 - [Charles' Twitter](https://twitter.com/cmaxw)
 

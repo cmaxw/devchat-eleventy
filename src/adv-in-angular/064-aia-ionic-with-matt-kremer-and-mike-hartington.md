@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/mhartington)
 - [GitHub](https://github.com/mhartington)
-- [Blog](http://mhartington.io/)
+- [Blog](https://mhartington.io/)
 
 02:27 - Matt Kremer Introduction
 
@@ -24,13 +24,13 @@ tags:
 - [GitHub](https://github.com/matthewkremer)
 - [Blog](https://mattkremer.com/)
 
-02:36 - [The Ionic Framework](http://ionicframework.com) and [Ionic Creator](http://ionic.io/products/creator)
+02:36 - [The Ionic Framework](https://ionicframework.com) and [Ionic Creator](https://ionic.io/products/creator)
 
-- [Getting Started with Ionic](http://ionicframework.com/getting-started/)
+- [Getting Started with Ionic](https://ionicframework.com/getting-started/)
 
-05:25 - [ngCordova](http://ngcordova.com/)
+05:25 - [ngCordova](https://ngcordova.com/)
 
-- [Apache Cordova](http://cordova.apache.org/)
+- [Apache Cordova](https://cordova.apache.org/)
 
 07:14 - Performance
 
@@ -38,11 +38,11 @@ tags:
 
 11:47 - Use Cases
 
-- [Sworkit](http://sworkit.com/)
+- [Sworkit](https://sworkit.com/)
 
 12:37 - Plugins
 
-- [ngCordova Plugins Overview](http://ngcordova.com/docs/plugins/)
+- [ngCordova Plugins Overview](https://ngcordova.com/docs/plugins/)
 
 13:54 - What Ionic is NOT Ideal For
 
@@ -59,22 +59,22 @@ tags:
 
 27:58 - Business Cases: Convincing Others to Use Ionic
 
-32:44 - [Tools for Apache Cordova (TACO)](http://taco.tools/) Overlap
+32:44 - [Tools for Apache Cordova (TACO)](https://taco.tools/) Overlap
 
 36:34 - Deployment
 
 38:58 - Ionic and Angular 2
 
 - [John Papa’s Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
-- [Transitioning Your App from ES5 to TypeScript](http://www.typescriptlang.org/)
+- [Transitioning Your App from ES5 to TypeScript](https://www.typescriptlang.org/)
 
 45:06 - IDE Support
 
-- [Ionic Lab](http://lab.ionic.io/)
-- [Electron](http://electron.atom.io/)
+- [Ionic Lab](https://lab.ionic.io/)
+- [Electron](https://electron.atom.io/)
   Picks
 
-[<u>RAVPower 23000mAh Portable Charger Power Bank External Battery Pack</u>](http://www.amazon.com/gp/product/B00HFMUBYG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HFMUBYG&linkCode=as2&tag=chamaxwoo-20&linkId=XIDU2DT42WBCZIK7) (Joe)[<u>iZombie</u>](http://www.imdb.com/title/tt3501584/?ref_=fn_al_tt_1) (Joe)[<u>Anglebrackets Conference</u>](https://anglebrackets.org/) (John)[<u>The Standing Athlete | Feat. Kelly Starrett | Ep. 274 | MobilityWOD</u>](https://www.youtube.com/watch?v=ay3xNBukCTo) (Lukas)[<u>Kelly Starrett’s Standing Desk Tips</u>](https://www.youtube.com/watch?v=X6oyEI_vxL8) (Lukas)[<u>Charles Max Wood: Standing Desk and Upgrading My Health</u>](http://charlesmaxwood.com/ufy-007-standing-desk-and-upgrading-my-health/) (Chuck)[<u>Thirsty Light Curve</u>](http://www.amazon.com/gp/product/B007FNPLZE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007FNPLZE&linkCode=as2&tag=chamaxwoo-20&linkId=AHY7W23MUKQ3ZZPA) (Chuck)[<u>Beardr</u>](https://itunes.apple.com/app/beardr/id969962728) (Matt)[<u>Blab</u>](http://blab.im) (Matt)[<u>Untappd</u>](https://untappd.com/) (Mike)
+[<u>RAVPower 23000mAh Portable Charger Power Bank External Battery Pack</u>](https://www.amazon.com/gp/product/B00HFMUBYG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HFMUBYG&linkCode=as2&tag=chamaxwoo-20&linkId=XIDU2DT42WBCZIK7) (Joe)[<u>iZombie</u>](https://www.imdb.com/title/tt3501584/?ref_=fn_al_tt_1) (Joe)[<u>Anglebrackets Conference</u>](https://anglebrackets.org/) (John)[<u>The Standing Athlete | Feat. Kelly Starrett | Ep. 274 | MobilityWOD</u>](https://www.youtube.com/watch?v=ay3xNBukCTo) (Lukas)[<u>Kelly Starrett’s Standing Desk Tips</u>](https://www.youtube.com/watch?v=X6oyEI_vxL8) (Lukas)[<u>Charles Max Wood: Standing Desk and Upgrading My Health</u>](https://charlesmaxwood.com/ufy-007-standing-desk-and-upgrading-my-health/) (Chuck)[<u>Thirsty Light Curve</u>](https://www.amazon.com/gp/product/B007FNPLZE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007FNPLZE&linkCode=as2&tag=chamaxwoo-20&linkId=AHY7W23MUKQ3ZZPA) (Chuck)[<u>Beardr</u>](https://itunes.apple.com/app/beardr/id969962728) (Matt)[<u>Blab</u>](https://blab.im) (Matt)[<u>Untappd</u>](https://untappd.com/) (Mike)
 
 ### Transcript
 

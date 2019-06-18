@@ -15,7 +15,7 @@ tags:
 ## **Sponsors:**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io)&nbsp;use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io)&nbsp;use the code "devchat" for $100 credit
 - [CacheFly](https://www.cachefly.com/)
 
 ### **Panel**
@@ -33,7 +33,7 @@ In this episode of React Round Up, the panel talks with Kay Plößer, describing
 - [<u>Kay’s LinkedIn</u>](https://www.linkedin.com/in/kay-pl%C3%B6%C3%9Fer/)
 - [Kay’s Twitter](https://twitter.com/k4y1s)
 - [<u>Kay’s GitHub</u>](https://github.com/kay-is)
-- [Kay's Website](http://kay.is/)
+- [Kay's Website](https://kay.is/)
 - [Kay's Skillshare](https://www.skillshare.com/profile/Kay-P/314785)
 - [Kay's Facebook](https://www.facebook.com/hurr.imma.durr)
 - [https://www.facebook.com/React-Round-Up](https://www.facebook.com/React-Round-Up-297859274397129/)

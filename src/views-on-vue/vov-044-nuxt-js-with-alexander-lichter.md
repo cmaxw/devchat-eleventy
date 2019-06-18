@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [KendoUI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
-- [Sentry](http://sentry.io) use the code "devchat" for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io) use the code "devchat" for 2 months free on Sentry small plan
 - [TripleByte](https://triplebyte.com/vue)
 - [CacheFly](https://www.cachefly.com/)
 
@@ -46,7 +46,7 @@ Alexander Lichter introduces Nuxt.js, explaining how to use it and what use case
 - Disney Heroes: Battle Mode
 - [The Immortal Nicholas](https://www.amazon.com/Immortal-Nicholas-Glenn-Beck/dp/1476798842/ref=sr_1_3?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 **Alexander Lichter:**
-- [http://www.brainerrors.com/anchoringeffect-gandhi.php](http://www.brainerrors.com/anchoringeffect-gandhi.php)
+- [https://www.brainerrors.com/anchoringeffect-gandhi.php](https://www.brainerrors.com/anchoringeffect-gandhi.php)
 - [https://medium.com/@vipercodegames/nuxt-deploy-809eda0168fc](https://medium.com/@vipercodegames/nuxt-deploy-809eda0168fc)
 
 

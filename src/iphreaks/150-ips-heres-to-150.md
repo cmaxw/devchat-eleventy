@@ -34,7 +34,7 @@ Episode 150 Celebration! Here’s to 150 more!
 - [WWDC](https://developer.apple.com/wwdc/)
   [Check out Chuck’s Remote Conference Lineup!](https://allremoteconfs.com/)Picks
 
-[Introducing GPUImage 2, redesigned in Swift](http://sunsetlakesoftware.com/2016/04/16/introducing-gpuimage-2-redesigned-swift) (Jaim)[Ramen YAMADAYA](http://www.ramen-yamadaya.com/) (Jaim)[Candy Japan](https://www.candyjapan.com) (Andrew)[MicroConf](http://www.microconf.com/) (Chuck)[GenerateWP](https://generatewp.com/) (Chuck)[WordPress Membership Plugin](https://www.memberpress.com/) (Chuck)
+[Introducing GPUImage 2, redesigned in Swift](https://sunsetlakesoftware.com/2016/04/16/introducing-gpuimage-2-redesigned-swift) (Jaim)[Ramen YAMADAYA](https://www.ramen-yamadaya.com/) (Jaim)[Candy Japan](https://www.candyjapan.com) (Andrew)[MicroConf](https://www.microconf.com/) (Chuck)[GenerateWP](https://generatewp.com/) (Chuck)[WordPress Membership Plugin](https://www.memberpress.com/) (Chuck)
 
 ### Transcript
 

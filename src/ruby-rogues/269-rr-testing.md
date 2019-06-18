@@ -5,7 +5,7 @@ title: >
 date: 2016-07-20 07:00:37
 episode_number: 269
 duration: 59:49
-audio_url: http://media.devchat.tv/ruby-rogues/RR269Testing.mp3
+audio_url: https://media.devchat.tv/ruby-rogues/RR269Testing.mp3
 podcast: ruby-rogues
 tags:
   - ruby_rogues
@@ -18,21 +18,21 @@ tags:
 
 - [TDD (Test-driven Development)](https://en.wikipedia.org/wiki/Test-driven_development)
   14:35 - Testing the Happy Path16:48 - Writing Tests First18:53 - Sharing Code
-- [Larry Wall: Three Virtues](http://threevirtues.com/)
+- [Larry Wall: Three Virtues](https://threevirtues.com/)
   27:34 - Testing Error Messages29:04 - External vs Mocking/Stubbing34:11 - [Exploratory Tests](https://en.wikipedia.org/wiki/Exploratory_testing) and [Characterization Tests](https://en.wikipedia.org/wiki/Characterization_test)
 - [Sunk Cost Fallacy](https://en.wikipedia.org/wiki/Sunk_costs)
-- [Katrina Owen: Therapeutic Refactoring](http://confreaks.tv/videos/cascadiaruby2012-therapeutic-refactoring)
+- [Katrina Owen: Therapeutic Refactoring](https://confreaks.tv/videos/cascadiaruby2012-therapeutic-refactoring)
   39:07 - Refactoring47:22 - Mocking and Stubbing (Cont’d)
 - [Justin Searls: To Mock or Not to Mock @ SCNA 2012](https://vimeo.com/54045166)
 - [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
-  - [Practical Object-Oriented Design in Ruby by Sandi Metz](http://poodr.com/)
+  - [Practical Object-Oriented Design in Ruby by Sandi Metz](https://poodr.com/)
 - Spies
   &nbsp;Picks
-- [How American Politics Went Insane](http://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/) (Jessica)
+- [How American Politics Went Insane](https://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/) (Jessica)
 - [Alex Kitchens’ Minecraft Tweet](https://twitter.com/alexcameron89/status/743985053332475904) (Sam)
 - [The "Is It a DSL or an API?" Ten Question Checklist](https://gist.github.com/geeksam/24ef10be8c773a2c1bd4) (Sam)
 - [Transmit](https://panic.com/transmit/) (Chuck)
-- [Zoom](http://zoom.us/) (Chuck)
+- [Zoom](https://zoom.us/) (Chuck)
 - [Rails Remote Conf](https://allremoteconfs.com/rails-2016) (Chuck)
 
 ### Transcript

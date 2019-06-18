@@ -12,4 +12,4 @@ tags:
   - podcast
 ---
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="http://www.youtube.com/embed/aHhH3PjH02w" frameborder="0" allowfullscreen></iframe>This is a quick demonstration of how to switch your Rails 3 application to HAML from ERB.
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="https://www.youtube.com/embed/aHhH3PjH02w" frameborder="0" allowfullscreen></iframe>This is a quick demonstration of how to switch your Rails 3 application to HAML from ERB.

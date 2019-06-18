@@ -14,13 +14,13 @@ tags:
 
 0:55 - Dan Fernandez and his work
 
-- [Microsoft Docs](http://docs.microsoft.com)
+- [Microsoft Docs](https://docs.microsoft.com)
 - [Twitter](https://twitter.com/danielfe?lang=en)
   7:50 - Walkthrough of the doc experience15:00 - Editable nature of the doc21:00 - Test driving a language26:30 - Catering to the user32:30 - Open Source34:40 - User feedback37:30 - Filters and Tables of Content40:45 - Form submissions41:50 - Community contributors
 
 ### **Picks:**
 
-[_Ghostbusters_](http://www.imdb.com/title/tt1289401/)(AJ)[Daplie](https://daplie.com/) (AJ) [Daplie Wefunder](https://wefunder.com/daplie) (AJ)[.NET Rocks](https://www.dotnetrocks.com/) (Charles)[ScheduleOnce](http://www.scheduleonce.com/) (Charles)[Devchat.tv 2017 Conferences](https://devchat.tv/conferences) (Charles)[Disable HTML5 Autoplay](https://chrome.google.com/webstore/detail/disable-html5-autoplay/efdhoaajjjgckpbkoglidkeendpkolai?hl=en) (Dan)[Visual Studio Code](https://code.visualstudio.com/) (Dan)[JSJ episode Visual Studio Code with Chris Diaz and Eric Gamma](https://devchat.tv/js-jabber/199-jsj-visual-studio-code-with-chris-dias-and-erich-gamma) (Charles)
+[_Ghostbusters_](https://www.imdb.com/title/tt1289401/)(AJ)[Daplie](https://daplie.com/) (AJ) [Daplie Wefunder](https://wefunder.com/daplie) (AJ)[.NET Rocks](https://www.dotnetrocks.com/) (Charles)[ScheduleOnce](https://www.scheduleonce.com/) (Charles)[Devchat.tv 2017 Conferences](https://devchat.tv/conferences) (Charles)[Disable HTML5 Autoplay](https://chrome.google.com/webstore/detail/disable-html5-autoplay/efdhoaajjjgckpbkoglidkeendpkolai?hl=en) (Dan)[Visual Studio Code](https://code.visualstudio.com/) (Dan)[JSJ episode Visual Studio Code with Chris Diaz and Eric Gamma](https://devchat.tv/js-jabber/199-jsj-visual-studio-code-with-chris-dias-and-erich-gamma) (Charles)
 
 ### Transcript
 

@@ -19,13 +19,13 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) and
 02:31 - Jochen Krause Introduction
 
 - [Twitter](https://twitter.com/jochen_krause)
-- [EclipseSource](http://eclipsesource.com/)
+- [EclipseSource](https://eclipsesource.com/)
 
 03:21 - Ian Bull Introduction
 
 - [Twitter](https://twitter.com/irbull)
 - [GitHub](https://github.com/irbull)
-- [Blog](http://eclipsesource.com/blogs/author/irbull/)
+- [Blog](https://eclipsesource.com/blogs/author/irbull/)
 
 04:01 - [Tabris.js](https://tabrisjs.com/)
 
@@ -71,7 +71,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) and
 - [CocoaPods](https://cocoapods.org/) and Widgets'
   Picks
 
-[Star Wars Essentials](https://www.youtube.com/playlist?list=PLZaEVINf2Bq9C2iSzw1_w2kwz6NU-2EbL) (AJ)[Star Wars: The Force Awakens](http://www.imdb.com/title/tt2488496/) (AJ)[Thing Explainer: Complicated Stuff in Simple Words by Randall Munroe](http://www.amazon.com/gp/product/0544668251/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0544668251&linkCode=as2&tag=chamaxwoo-20&linkId=IF35Z5OAJDXIEODG) (AJ)[James Edwards: Making a Mini-Lisp: Introduction to Transpilers](https://angularclass.com/making-a-mini-lisp-introduction-to-transpilers/) (Aimee)[Nick Saban](https://en.wikipedia.org/wiki/Nick_Saban) (Aimee)[Lloyd Borrett: Bill Gates and Petals Around the Rose](http://www.borrett.id.au/computing/petals-bg.htm) (Jamison)[Dan Luu: Normalization of Deviance in Software: How Completely Broken Practices Become Normal](http://danluu.com/wat/) (Jamison)[Craig Stuntz: Programs that Write Programs: How Compilers Work](https://speakerdeck.com/craigstuntz/programs-that-write-programs-how-compilers-work) (Jamison)[Microsoft](https://www.microsoft.com/) (Dave)[Tina Fey](https://en.wikipedia.org/wiki/Tina_Fey) (Dave)[thoughtram Blog](http://blog.thoughtram.io/) (Dave)[Pascal Precht](https://twitter.com/PascalPrecht) (Dave)[CES](https://www.cesweb.org/) (Chuck)[The Modern Team](http://themodernteam.com/) (Ian)[Eric Elliott](https://ericelliottjs.com/) (Ian)[Thinking, Fast and Slow by Daniel Kahneman](http://www.amazon.com/gp/product/0374533555/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=chamaxwoo-20&linkId=ATDN3KW4CU2IZG4F) (Jochen)
+[Star Wars Essentials](https://www.youtube.com/playlist?list=PLZaEVINf2Bq9C2iSzw1_w2kwz6NU-2EbL) (AJ)[Star Wars: The Force Awakens](https://www.imdb.com/title/tt2488496/) (AJ)[Thing Explainer: Complicated Stuff in Simple Words by Randall Munroe](https://www.amazon.com/gp/product/0544668251/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0544668251&linkCode=as2&tag=chamaxwoo-20&linkId=IF35Z5OAJDXIEODG) (AJ)[James Edwards: Making a Mini-Lisp: Introduction to Transpilers](https://angularclass.com/making-a-mini-lisp-introduction-to-transpilers/) (Aimee)[Nick Saban](https://en.wikipedia.org/wiki/Nick_Saban) (Aimee)[Lloyd Borrett: Bill Gates and Petals Around the Rose](https://www.borrett.id.au/computing/petals-bg.htm) (Jamison)[Dan Luu: Normalization of Deviance in Software: How Completely Broken Practices Become Normal](https://danluu.com/wat/) (Jamison)[Craig Stuntz: Programs that Write Programs: How Compilers Work](https://speakerdeck.com/craigstuntz/programs-that-write-programs-how-compilers-work) (Jamison)[Microsoft](https://www.microsoft.com/) (Dave)[Tina Fey](https://en.wikipedia.org/wiki/Tina_Fey) (Dave)[thoughtram Blog](https://blog.thoughtram.io/) (Dave)[Pascal Precht](https://twitter.com/PascalPrecht) (Dave)[CES](https://www.cesweb.org/) (Chuck)[The Modern Team](https://themodernteam.com/) (Ian)[Eric Elliott](https://ericelliottjs.com/) (Ian)[Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/gp/product/0374533555/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=chamaxwoo-20&linkId=ATDN3KW4CU2IZG4F) (Jochen)
 
 ### Transcript
 

@@ -15,93 +15,93 @@ tags:
 ### 02:16 - Brian Shirai Introduction
 
 - Formerly known as Brian Ford
-- [RR 017: What’s Wrong with Ruby?](http://rubyrogues.com/what%e2%80%99s-wrong-with-ruby/)
-- [RubySpec](http://rubyspec.org/)
-- [Rubinius](http://rubini.us/)
+- [RR 017: What’s Wrong with Ruby?](https://rubyrogues.com/what%e2%80%99s-wrong-with-ruby/)
+- [RubySpec](https://rubyspec.org/)
+- [Rubinius](https://rubini.us/)
 - [Engine Yard](https://www.engineyard.com/)
   05:05 - Ruby’s Design Process
 -
 
-[Ruby Conf 12 - Toward a Design for Ruby by Brian Ford](http://confreaks.com/videos/1278-rubyconf2012-toward-a-design-for-ruby)
+[Ruby Conf 12 - Toward a Design for Ruby by Brian Ford](https://confreaks.com/videos/1278-rubyconf2012-toward-a-design-for-ruby)
 
 -
 
-[jRuby](http://jruby.org/)
+[jRuby](https://jruby.org/)
 
 -
 
-[MagLev](http://maglev.github.com/)
+[MagLev](https://maglev.github.com/)
 
 -
 
-[IronRuby](http://www.ironruby.net/)
+[IronRuby](https://www.ironruby.net/)
 
-- [JSConf2012 - Brian Ford: Is Node.js Better?](http://blip.tv/jsconf/jsconf2012-brian-ford-6091521)
+- [JSConf2012 - Brian Ford: Is Node.js Better?](https://blip.tv/jsconf/jsconf2012-brian-ford-6091521)
   09:55 - Implementations
-- [Ruby MRI (Matz’s Ruby Interpreter)](http://en.wikipedia.org/wiki/Ruby_MRI)
+- [Ruby MRI (Matz’s Ruby Interpreter)](https://en.wikipedia.org/wiki/Ruby_MRI)
   11:25 - What does a dying language look like?
-- [Smalltalk](http://www.smalltalk.org/main/)
-- [Squeak](http://www.squeak.org/)
+- [Smalltalk](https://www.smalltalk.org/main/)
+- [Squeak](https://www.squeak.org/)
   14:16 - Changing the Ruby Process
 - Fragmentation
 - m17n (multilingualization)
   19:15 - Ruby’s Design Process (cont’d)
 -
 
-[Ruby Conf 12 - Toward a Design for Ruby by Brian Ford](http://confreaks.com/videos/1278-rubyconf2012-toward-a-design-for-ruby)
+[Ruby Conf 12 - Toward a Design for Ruby by Brian Ford](https://confreaks.com/videos/1278-rubyconf2012-toward-a-design-for-ruby)
 
 -
 
-[A Ruby Design Process: Brian Shirai](http://brixen.io/2012/12/11/a-ruby-design-process)
+[A Ruby Design Process: Brian Shirai](https://brixen.io/2012/12/11/a-ruby-design-process)
 
 -
 
-[A Ruby Design Process - Talking Points: Brian Shirai](http://brixen.io/2012/12/30/a-ruby-design-process-talking-points)
+[A Ruby Design Process - Talking Points: Brian Shirai](https://brixen.io/2012/12/30/a-ruby-design-process-talking-points)
 
 -
 
-[RubySpec: A Ruby Design Process (Summary)](http://rubyspec.org/design/)
+[RubySpec: A Ruby Design Process (Summary)](https://rubyspec.org/design/)
 
 -
 
-[People the missing ingredient: Joe O’Brien](http://www.confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
+[People the missing ingredient: Joe O’Brien](https://www.confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
 25:13 - Point 1: Forming a Council 28:25 - Point 2: Proposing a Change
 
-- [Yukihiro Matsumoto (Matz)](http://en.wikipedia.org/wiki/Yukihiro_Matsumoto)
-- [Joe Damato](http://timetobleed.com/)
+- [Yukihiro Matsumoto (Matz)](https://en.wikipedia.org/wiki/Yukihiro_Matsumoto)
+- [Joe Damato](https://timetobleed.com/)
   36:31 - Point 3: Proposal Criteria
-- [RubySpec](http://rubyspec.org/)
+- [RubySpec](https://rubyspec.org/)
 - [@brixen](https://twitter.com/brixen)
   46:43 - Point 4: Accepting/Rejecting Proposals
 - Consensus
 - Fork
 -
 
-[Fist-to-Five Consensus-Building](http://freechild.org/Firestarter/Fist2Five.htm)
+[Fist-to-Five Consensus-Building](https://freechild.org/Firestarter/Fist2Five.htm)
 
 -
 
-[Refinements](<http://en.wikipedia.org/wiki/Refinement_(computing)>)
+[Refinements](<https://en.wikipedia.org/wiki/Refinement_(computing)>)
 
 - [Developers Meeting](https://bugs.ruby-lang.org/projects/ruby/wiki/DevelopersMeeting20130115)
 -
 
-[Rails is omakase: David Heinemeier Hansson](http://david.heinemeierhansson.com/2012/rails-is-omakase.html)
+[Rails is omakase: David Heinemeier Hansson](https://david.heinemeierhansson.com/2012/rails-is-omakase.html)
 
 -
 
-[A bug thread including Matz's response](http://bugs.ruby-lang.org/issues/7549)
+[A bug thread including Matz's response](https://bugs.ruby-lang.org/issues/7549)
 01:12:11 - Point 5: Implementing the Proposal 01:18:04 - Point 6: Discussing the Feature 01:27:51 - Point 7: Voting on the Proposed Change
 
 - Challenging Matz
 - Power
-- [Brian followup](http://brixen.io/2012/12/30/a-ruby-design-process-talking-points)
-- [Robert's Rules](http://www.robertsrules.org/)
+- [Brian followup](https://brixen.io/2012/12/30/a-ruby-design-process-talking-points)
+- [Robert's Rules](https://www.robertsrules.org/)
 - Communication
 
 ### Book Club
 
-[Patterns of Enterprise Application Architecture by Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420): Read along with us! We will be discussing the book with Martin himself and the episode will air&nbsp;on Wednesday, March 20th, 2013.
+[Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420): Read along with us! We will be discussing the book with Martin himself and the episode will air&nbsp;on Wednesday, March 20th, 2013.
 
 ### Next Week
 

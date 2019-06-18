@@ -52,7 +52,7 @@ tags:
   Gui:
 - [_MacOS and iOS Internals, Volume I_ by Jonathan Levin](https://www.amazon.com/MacOS-iOS-Internals-User-Mode/dp/099105556X/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=EM0JWHNV364R37S372BR)
   Andrew:
-- [Tea Code](http://www.apptorium.com/teacode)
+- [Tea Code](https://www.apptorium.com/teacode)
 - [Oregon Trail](https://www.target.com/p/the-oregon-trail-card-game/-/A-50562794)
   Jaim:
 - [iOS Ref](https://iosref.com/)

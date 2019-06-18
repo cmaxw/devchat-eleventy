@@ -42,9 +42,9 @@ tags:
 - [Kite Compositor](https://kiteapp.co/)
   **Picks:** Jaim
 - [The ‘King of Kong’ could be stripped of his high score](https://www.engadget.com/2018/02/02/donkey-kong-billy-mitchell-high-score-fraud-allegation/)
-- [Blog post on the “King of King” fraud](http://www.twingalaxies.com/showthread.php/176004-Dispute-Jeremy-Young-Arcade-Donkey-Kong-Points-Hammer-Allowed-Player-Billy-L-Mitchell-Score-1-062-800?s=1b636c5f4af03d7b042dbc6ea35b7ac0&p=946633&viewfull=1#post946633)
+- [Blog post on the “King of King” fraud](https://www.twingalaxies.com/showthread.php/176004-Dispute-Jeremy-Young-Arcade-Donkey-Kong-Points-Hammer-Allowed-Player-Billy-L-Mitchell-Score-1-062-800?s=1b636c5f4af03d7b042dbc6ea35b7ac0&p=946633&viewfull=1#post946633)
   Andrew
 - [Chasing Ghosts - Beyond the Arcade movie](https://www.youtube.com/watch?v=IJz8KIlEq7I)
-- [OpenEmu](http://openemu.org/)
+- [OpenEmu](https://openemu.org/)
 
 ### Transcript

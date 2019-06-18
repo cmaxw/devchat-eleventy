@@ -14,9 +14,9 @@ tags:
 
 ### Panel
 
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
 
 ### Discussion
 
@@ -24,17 +24,17 @@ tags:
   - Conventions
   - Tools
 - Service Oriented Architecture
-- [Connect](http://extjs.github.com/Connect/)
-- [Express](http://expressjs.com/)
+- [Connect](https://extjs.github.com/Connect/)
+- [Express](https://expressjs.com/)
 - Disagreement across the community
-- [CoffeeScript](http://coffeescript.org/)
-- [RailCar](http://railcar.info/)
+- [CoffeeScript](https://coffeescript.org/)
+- [RailCar](https://railcar.info/)
 - CRUD (Create-Read-Update-Delete)
 - Non-Blocking IO in Ruby
 - Debugging in JavaScript
 - Monkey Patching in Ruby makes it harder to debug
 - Stack Traces on Node.js
-- [Domains in Node 0.8](http://nodejs.org/docs/v0.7.8/api/domain.html)
+- [Domains in Node 0.8](https://nodejs.org/docs/v0.7.8/api/domain.html)
 - Process.next_tick
 - Anonymous functions
 - Build process
@@ -46,12 +46,12 @@ tags:
 - [Futures.js](https://github.com/coolaj86/futures)
 - Generators?
 - [Grunt](https://github.com/cowboy/grunt)
-- [Backbone.js](http://backbonejs.org/)
-- [Require.js](http://requirejs.org/)
+- [Backbone.js](https://backbonejs.org/)
+- [Require.js](https://requirejs.org/)
 - Write your own generators
 - Prototypes
 - Asynchronous callback notation for Javascript
-- [iced coffee script](http://maxtaco.github.com/coffee-script/)
+- [iced coffee script](https://maxtaco.github.com/coffee-script/)
 - JSON
 - executing JSON gives you a Javascript object
 - all higher level languages have some support for JSON
@@ -62,10 +62,10 @@ tags:
 
 ### Picks
 
-- [Diablo III](http://www.amazon.com/gp/product/B00178630A/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00178630A) (Jamison)
-- [Amazon EC2](http://aws.amazon.com/ec2/) (AJ)
-- [Skyrim](http://www.amazon.com/gp/product/B004HYIAPM/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004HYIAPM) (Chuck)
-- [Roomba](http://www.amazon.com/gp/product/B001I9024Q/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001I9024Q) (Chuck)
+- [Diablo III](https://www.amazon.com/gp/product/B00178630A/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00178630A) (Jamison)
+- [Amazon EC2](https://aws.amazon.com/ec2/) (AJ)
+- [Skyrim](https://www.amazon.com/gp/product/B004HYIAPM/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004HYIAPM) (Chuck)
+- [Roomba](https://www.amazon.com/gp/product/B001I9024Q/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001I9024Q) (Chuck)
 
 ### Transcript
 

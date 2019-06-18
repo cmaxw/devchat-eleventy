@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips](http://devchat.tv/rails-clips)!
+Check out [RailsClips](https://devchat.tv/rails-clips)!
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 - [Twitter](https://twitter.com/segiddins)
 - [GitHub](https://github.com/segiddins)
-- [Blog](http://segiddins.me/)
+- [Blog](https://segiddins.me/)
 - [Realm](https://realm.io/)
   - [@Realm](https://twitter.com/realm?lang=en)
 
@@ -45,11 +45,11 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 - Networking
   - [AFNetworking](https://github.com/AFNetworking/AFNetworking)
   - [NSURLSession](https://developer.apple.com/library/ios/documentation/Foundation/Reference/NSURLSession_class/)
-  - [JXHTTP](http://cocoapods.org/pods/JXHTTP)
-  - [ASIHTTPRequest](http://allseeing-i.com/ASIHTTPRequest/)
+  - [JXHTTP](https://cocoapods.org/pods/JXHTTP)
+  - [ASIHTTPRequest](https://allseeing-i.com/ASIHTTPRequest/)
     Picks
 
-[RimWorld](http://rimworldgame.com/) (Mike)[Daniel Steinberg: Somewhere Between Tomorrowland and Frontierland](https://vimeo.com/channels/nsconf7/124349158) (Alondo)[AltConf 2015 Videos](https://realm.io/altconf/) (Jaim)[Joshua Marker: Mastering Time and Space: Testing the Objective-C Runtime](https://realm.io/news/altconf-joshua-marker-mastering-time-and-space-testing-the-objective-c-runtime/) (Jaim)[remoteconfs.com](http://remoteconfs.com) (Chuck) God (Chuck) Jesus Christ (Chuck)[The Church of Jesus Christ of Latter-day Saints](http://lds.org) (Chuck)[Graham Lee: I Have No Idea What I'm Doing](https://realm.io/news/altconf-graham-lee-i-have-no-idea-what-i-m-doing/) (Samuel)[Tower](http://www.git-tower.com) (Samuel)[Hopper](http://hopperapp.com) (Samuel)[opensource.apple.com](http://www.opensource.apple.com) (Samuel)
+[RimWorld](https://rimworldgame.com/) (Mike)[Daniel Steinberg: Somewhere Between Tomorrowland and Frontierland](https://vimeo.com/channels/nsconf7/124349158) (Alondo)[AltConf 2015 Videos](https://realm.io/altconf/) (Jaim)[Joshua Marker: Mastering Time and Space: Testing the Objective-C Runtime](https://realm.io/news/altconf-joshua-marker-mastering-time-and-space-testing-the-objective-c-runtime/) (Jaim)[remoteconfs.com](https://remoteconfs.com) (Chuck) God (Chuck) Jesus Christ (Chuck)[The Church of Jesus Christ of Latter-day Saints](https://lds.org) (Chuck)[Graham Lee: I Have No Idea What I'm Doing](https://realm.io/news/altconf-graham-lee-i-have-no-idea-what-i-m-doing/) (Samuel)[Tower](https://www.git-tower.com) (Samuel)[Hopper](https://hopperapp.com) (Samuel)[opensource.apple.com](https://www.opensource.apple.com) (Samuel)
 
 ### Transcript
 

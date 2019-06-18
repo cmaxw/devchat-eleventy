@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/mattpodwysocki)
 - [GitHub](https://github.com/mattpodwysocki)
-- [Microsoft](http://www.microsoft.com/)
+- [Microsoft](https://www.microsoft.com/)
 
 04:01 - [RxJS](https://github.com/Reactive-Extensions/RxJS)
 
@@ -33,7 +33,7 @@ tags:
 
 25:06 - Using RxJS in Common Frameworks
 
-- [RxJS Git Book](http://xgrommx.github.io/rx-book/)
+- [RxJS Git Book](https://xgrommx.github.io/rx-book/)
 - [RxJS Gitter Channel](https://gitter.im/Reactive-Extensions/RxJS)
 
 27:53 - Are there places where observables might not be better than callbacks/Promises?
@@ -50,11 +50,11 @@ tags:
 
 40:29 - Influence
 
-- [Elm](http://elm-lang.org/)
+- [Elm](https://elm-lang.org/)
 - [Functional Reactive Programming (FRP)](https://en.wikipedia.org/wiki/Functional_reactive_programming)
   47:47 - Will observables in ES2016 replace RxJS?Picks
 
-[A cartoon guide to Flux](https://medium.com/@linclark/a-cartoon-guide-to-flux-6157355ab207) (Aimee)[Promisees](http://bevacqua.github.io/promisees/) (Aimee)[The Dear Hunter - Act IV Rebirth in Reprise](https://en.wikipedia.org/wiki/Act_IV:_Rebirth_in_Reprise) (Jamison)[Jessie Char: Expert On Nothing @ NSConf7](https://vimeo.com/124384526) (Jamison)[XHR Breakpoints](http://devtoolsecrets.com/secret/debugging-xhr-breakpoints.html) (Dave)[Glove and Boots](https://www.youtube.com/user/gloveandboots) (Dave)[Computer Programming](https://en.wikipedia.org/wiki/Computer_programming) (Joe)[Evan Czaplicki’s Thesis for Elm](https://www.seas.harvard.edu/sites/default/files/files/archived/Czaplicki.pdf) (Joe)[The Alchemist by Paulo Coelho](http://www.amazon.com/gp/product/0062315005/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062315005&linkCode=as2&tag=chamaxwoo-20&linkId=FIJF4VK3KW6TFV5P) (Chuck)[thaliproject](https://github.com/thaliproject/) (Matthew)[BBC Micro Bit](http://www.electronicsweekly.com/distribution-world/comment/bbc-micro-bit-raspberry-pis-little-brother-2015-10/) (Matthew)[Minutemen](<https://en.wikipedia.org/wiki/Minutemen_(band)>) (Matthew)
+[A cartoon guide to Flux](https://medium.com/@linclark/a-cartoon-guide-to-flux-6157355ab207) (Aimee)[Promisees](https://bevacqua.github.io/promisees/) (Aimee)[The Dear Hunter - Act IV Rebirth in Reprise](https://en.wikipedia.org/wiki/Act_IV:_Rebirth_in_Reprise) (Jamison)[Jessie Char: Expert On Nothing @ NSConf7](https://vimeo.com/124384526) (Jamison)[XHR Breakpoints](https://devtoolsecrets.com/secret/debugging-xhr-breakpoints.html) (Dave)[Glove and Boots](https://www.youtube.com/user/gloveandboots) (Dave)[Computer Programming](https://en.wikipedia.org/wiki/Computer_programming) (Joe)[Evan Czaplicki’s Thesis for Elm](https://www.seas.harvard.edu/sites/default/files/files/archived/Czaplicki.pdf) (Joe)[The Alchemist by Paulo Coelho](https://www.amazon.com/gp/product/0062315005/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062315005&linkCode=as2&tag=chamaxwoo-20&linkId=FIJF4VK3KW6TFV5P) (Chuck)[thaliproject](https://github.com/thaliproject/) (Matthew)[BBC Micro Bit](https://www.electronicsweekly.com/distribution-world/comment/bbc-micro-bit-raspberry-pis-little-brother-2015-10/) (Matthew)[Minutemen](<https://en.wikipedia.org/wiki/Minutemen_(band)>) (Matthew)
 
 ### Transcript
 

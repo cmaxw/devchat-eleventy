@@ -40,7 +40,7 @@ tags:
 - [@Jakeherringbone](https://twitter.com/jakeherringbone?lang=en)
 - [Alex’s Medium](https://medium.com/@Jakeherringbone)
   **Picks:** Charles
-- [Hunting Hitler](http://www.history.com/shows/hunting-hitler)
+- [Hunting Hitler](https://www.history.com/shows/hunting-hitler)
 - [Sling TV](https://www.sling.com/)
 - Encourage people to have civil and respectful conversations
   Alex

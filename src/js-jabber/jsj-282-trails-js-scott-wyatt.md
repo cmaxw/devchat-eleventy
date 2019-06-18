@@ -24,17 +24,17 @@ tags:
 - Avoid problems like React.
 - Not dealing with corporations
 - Why would you want to use trails instead of other projects like Sails, rails, etc.
-- How do you get started - [trailjs.io](http://trailjs.io)
+- How do you get started - [trailjs.io](https://trailjs.io)
 - Quickest way to learn Trails is to build a Trail Pack
 - Don’t be afraid to kill you darlings
 - Testing
 - It Trails production ready?
 - It is a particular type of app where Trails shines?
-  **Links** [trailsjs.io](http://trailsjs.io)[Travis Webb](https://channel9.msdn.com/Blogs/semjs/semjs201601Tra)Picks Amy
-- [Full Stack Developers by Brad Frost](http://bradfrost.com/blog/post/full-stack-developers/)
+  **Links** [trailsjs.io](https://trailsjs.io)[Travis Webb](https://channel9.msdn.com/Blogs/semjs/semjs201601Tra)Picks Amy
+- [Full Stack Developers by Brad Frost](https://bradfrost.com/blog/post/full-stack-developers/)
 - Tracking Macros
   Joe
-- [The Behavior Gap](http://the%20behavior%20gap%20pdf%20download)
+- [The Behavior Gap](https://the%20behavior%20gap%20pdf%20download)
   Charles
 - [Profit First&nbsp;](https://www.amazon.com/s/?ie=UTF8&keywords=profit+first&tag=googhydr-20&index=aps&hvadid=177333083442&hvpos=1t2&hvnetw=g&hvrand=60998143499066646&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028550&hvtargid=kwd-1363986595&ref=pd_sl_2w1nakqc64_e)
 - Keto Diet

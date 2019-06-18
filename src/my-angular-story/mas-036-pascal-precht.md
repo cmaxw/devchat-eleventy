@@ -16,7 +16,7 @@ tags:
 
 **Guest:** Pascal Precht
 
-This week on My Angular Story, Charles speaks with Pascal Precht. Pascal is a software engineer doing a lot of [Angular](https://angular.io/), Angular training, and building apps. He first got into programming near the end of school when his teacher suggested that he go to an informatics school. He found that he loved building websites with HTML and CSS and learned how to program after going back to school for a second time. They talk about what led him to Angular, his company [Thoughtram](http://thoughtram.io/), and what he is proud of contributing to the Angular community.
+This week on My Angular Story, Charles speaks with Pascal Precht. Pascal is a software engineer doing a lot of [Angular](https://angular.io/), Angular training, and building apps. He first got into programming near the end of school when his teacher suggested that he go to an informatics school. He found that he loved building websites with HTML and CSS and learned how to program after going back to school for a second time. They talk about what led him to Angular, his company [Thoughtram](https://thoughtram.io/), and what he is proud of contributing to the Angular community.
 
 **In particular, We dive pretty deep on:**
 
@@ -32,9 +32,9 @@ This week on My Angular Story, Charles speaks with Pascal Precht. Pascal is a so
 - Dynamic sites with PHP
 - How did you get into [Angular](https://angular.io/)?
 - [JavaScript](https://www.javascript.com/) meetup
-- [Knockout](http://knockoutjs.com/)
+- [Knockout](https://knockoutjs.com/)
 - Using Angular in his job
-- [Thoughtram](http://thoughtram.io/)
+- [Thoughtram](https://thoughtram.io/)
 - What is the story behind Thoughtram?
 - What have you done in Angular that you are proud of?
 - [Angular-translate](https://angular-translate.github.io/)
@@ -46,8 +46,8 @@ This week on My Angular Story, Charles speaks with Pascal Precht. Pascal is a so
 
 - [Angular](https://angular.io/)
 - [JavaScript](https://www.javascript.com/)
-- [Knockout](http://knockoutjs.com/)
-- [Thoughtram](http://thoughtram.io/)
+- [Knockout](https://knockoutjs.com/)
+- [Thoughtram](https://thoughtram.io/)
 - [Angular-translate](https://angular-translate.github.io/)
 - [Machine Labs](https://machinelabs.ai/)
 - [@PascalPrecht](https://twitter.com/PascalPrecht?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)

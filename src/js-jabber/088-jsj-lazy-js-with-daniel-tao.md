@@ -14,25 +14,25 @@ tags:
 
 ### Panel
 
-- Daniel Tao ([twitter](https://twitter.com/dan_tao) [github](https://github.com/dtao) [blog](http://danieltao.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Daniel Tao ([twitter](https://twitter.com/dan_tao) [github](https://github.com/dtao) [blog](https://danieltao.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-00:50 - [Freelancing Q&A](http://freelanceqa.eventbrite.com/)01:21 - Daniel Tao Introduction
+00:50 - [Freelancing Q&A](https://freelanceqa.eventbrite.com/)01:21 - Daniel Tao Introduction
 
-- [Google](http://www.google.com/) Ads Review Team
-  02:26 - [Lazy.js](http://danieltao.com/lazy.js/)
-- [Underscore](http://underscorejs.org/)
-- [Lo-Dash](http://lodash.com/)
-- [JavaScript Jabber Episode #79: Lo-Dash with John-David Dalton](http://javascriptjabber.com/079-jsj-lo-dash-with-john-david-dalton/)
-- [Lazy Evaluation](http://en.wikipedia.org/wiki/Lazy_evaluation)
+- [Google](https://www.google.com/) Ads Review Team
+  02:26 - [Lazy.js](https://danieltao.com/lazy.js/)
+- [Underscore](https://underscorejs.org/)
+- [Lo-Dash](https://lodash.com/)
+- [JavaScript Jabber Episode #79: Lo-Dash with John-David Dalton](https://javascriptjabber.com/079-jsj-lo-dash-with-john-david-dalton/)
+- [Lazy Evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation)
   03:28 - Lazily vs Eagerly
 - [lazy.js (Git)](https://github.com/dtao/lazy.js?utm_source=javascriptweekly&utm_medium=email)
   04:55 - Mapping and Iteration
 - Lazy JSON Parsing
-- [Daniel Tao: Lazy.js JSON Parsing Demo](http://danieltao.com/lazy.js/experimental/)
+- [Daniel Tao: Lazy.js JSON Parsing Demo](https://danieltao.com/lazy.js/experimental/)
   13:12 - Performance
 - [AJ’s BogoSort Test](https://gist.github.com/coolaj86/7900798)
   16:28 - Lazy.js = Doing Less Work 19:02 - Lo-Dash vs Lazy vs Underscore
@@ -47,14 +47,14 @@ tags:
 
 ### Picks
 
-- [Big Giant Circles - Impostor Nostalgia - HappiNESs](http://www.youtube.com/watch?v=85KiTimI1hA) (AJ)
-- [AJ O'Neal: DIY Presentation Recorder for User Groups & Such](http://blog.coolaj86.com/articles/diy-presentation-recorder.html) (AJ)
-- [New Spring: The Novel (Wheel of Time) by Robert Jordan](http://www.amazon.com/gp/product/0765345455/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765345455&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Audible](http://www.audible.com/) (Chuck)
-- [Freelancing Q&A](http://freelanceqa.eventbrite.com/) (Chuck)
-- [Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character) by Richard P. Feynman](http://www.amazon.com/gp/product/0393316041/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393316041&linkCode=as2&tag=chamaxwoo-20) (Daniel)
-- [Starflyer 59 - Leave Here a Stranger](http://www.amazon.com/gp/product/B00005K9HO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00005K9HO&linkCode=as2&tag=chamaxwoo-20) (Daniel)
-- [Gittip Blog: Call with David Heinemeier Hannson](http://blog.gittip.com/post/68909962126/call-with-david-heinemeier-hansson) (Daniel)
+- [Big Giant Circles - Impostor Nostalgia - HappiNESs](https://www.youtube.com/watch?v=85KiTimI1hA) (AJ)
+- [AJ O'Neal: DIY Presentation Recorder for User Groups & Such](https://blog.coolaj86.com/articles/diy-presentation-recorder.html) (AJ)
+- [New Spring: The Novel (Wheel of Time) by Robert Jordan](https://www.amazon.com/gp/product/0765345455/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765345455&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Audible](https://www.audible.com/) (Chuck)
+- [Freelancing Q&A](https://freelanceqa.eventbrite.com/) (Chuck)
+- [Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character) by Richard P. Feynman](https://www.amazon.com/gp/product/0393316041/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393316041&linkCode=as2&tag=chamaxwoo-20) (Daniel)
+- [Starflyer 59 - Leave Here a Stranger](https://www.amazon.com/gp/product/B00005K9HO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00005K9HO&linkCode=as2&tag=chamaxwoo-20) (Daniel)
+- [Gittip Blog: Call with David Heinemeier Hannson](https://blog.gittip.com/post/68909962126/call-with-david-heinemeier-hansson) (Daniel)
 
 ### Next Week
 

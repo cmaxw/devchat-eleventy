@@ -21,13 +21,13 @@ tags:
 
 02:27 - What is Meteor?
 
-- [angular-meteor](http://angular-meteor.com/)
+- [angular-meteor](https://angular-meteor.com/)
 
 03:23 - [The Meteor Company](https://www.meteor.com/)
 
 03:54 - Structure & Deployment
 
-- [Matt DeBergalis: What's coming in Meteor 1.2, and beyond](http://info.meteor.com/blog/whats-coming-in-meteor-12-and-beyond)
+- [Matt DeBergalis: What's coming in Meteor 1.2, and beyond](https://info.meteor.com/blog/whats-coming-in-meteor-12-and-beyond)
 
 11:51 - Revenue Story (Scaling)
 
@@ -39,12 +39,12 @@ tags:
 
 22:43 - Angular 2.0
 
-- [angular-meteor: angular2](http://angular-meteor.com/angular2)
+- [angular-meteor: angular2](https://angular-meteor.com/angular2)
 
 26:02 - Observables
 
-- [Jafar Husain at MWJS on Observables](http://www.youtube.com/watch?v=hbuLw4sauCw)
-- [Gleb Bahmutov at MWJS (Journey from procedural to reactive JavaScript with stops)](http://www.youtube.com/watch?v=RCLE3rNhcOI)
+- [Jafar Husain at MWJS on Observables](https://www.youtube.com/watch?v=hbuLw4sauCw)
+- [Gleb Bahmutov at MWJS (Journey from procedural to reactive JavaScript with stops)](https://www.youtube.com/watch?v=RCLE3rNhcOI)
 
 30:48 - Publish Functions
 
@@ -56,19 +56,19 @@ More Resources
 
 - [Uri Goldshtein: Angular-Meteor - Angular2, migration and Angular-Server @ ng-vegas 2015](https://www.youtube.com/watch?v=_mu6BWsnaPM)
 - [Angular Tutorial on the Meteor Site](https://www.meteor.com/tutorials/angular/creating-an-app)
-- [Angular-Server](http://angular-meteor.com/server)
-- [Uri Goldshtein: Thoughts on angular-meteor as a great MEAN Stack](http://info.meteor.com/blog/thoughts-on-angular-meteor-as-a-great-mean-stack)
+- [Angular-Server](https://angular-meteor.com/server)
+- [Uri Goldshtein: Thoughts on angular-meteor as a great MEAN Stack](https://info.meteor.com/blog/thoughts-on-angular-meteor-as-a-great-mean-stack)
 - [David Yahalomi: When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b)
 - [Matt Debergalis: The design and implementation of the Meteor platform](https://www.youtube.com/watch?v=tqLbodVH3dw)
-- [Sashko Stubailo: Optimistic UI with Meteor](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
-- [Telescope](http://www.telescopeapp.org/)
+- [Sashko Stubailo: Optimistic UI with Meteor](https://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
+- [Telescope](https://www.telescopeapp.org/)
 - [Meteor Roadmap | Trello](https://trello.com/b/hjBDflxp/meteor-roadmap)
 - [How to Meteor is production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b)
-- [Forbes article about Meteor](http://www.forbes.com/sites/anthonykosner/2015/06/30/meteor-is-the-app-platform-for-the-new-world-of-cloud-client-computing/)
-- [JavaScript Jabber Episode #076: Meteor.js with Marcus Phillips and Fred Zirdung](http://devchat.tv/js-jabber/076-jsj-meteor-js-with-marcus-phillips-and-fred-zirdung)
+- [Forbes article about Meteor](https://www.forbes.com/sites/anthonykosner/2015/06/30/meteor-is-the-app-platform-for-the-new-world-of-cloud-client-computing/)
+- [JavaScript Jabber Episode #076: Meteor.js with Marcus Phillips and Fred Zirdung](https://devchat.tv/js-jabber/076-jsj-meteor-js-with-marcus-phillips-and-fred-zirdung)
   Picks
 
-[AngularConnect](http://www.angularconnect.com) (Joe)[ng-click.com](http://www.ng-click.com) (Joe)[mdn.io](http://www.mdn.io) (Joe)[Ward and Victor Savkin's Angular 2 Samples](https://github.com/angular/angular/tree/master/modules/examples/src) (Ward)[Downcast](http://www.downcastapp.com/) (Chuck)[iPhone 6 Plus](http://store.apple.com/us/buy-iphone/iphone6) (Chuck)[Côte&Ciel Isar Rucksack](http://www.coteetciel.com/en-IL/isar-backpack-black-melange-laptop-bag) (Uri)[Solar Panel for Bag](http://www.voltaicsystems.com/) (Uri)[Angular-Meteor - Angular2, migration and Angular-Server (Uri @ ng-vegas 2015)](https://www.youtube.com/watch?v=_mu6BWsnaPM) (Uri)
+[AngularConnect](https://www.angularconnect.com) (Joe)[ng-click.com](https://www.ng-click.com) (Joe)[mdn.io](https://www.mdn.io) (Joe)[Ward and Victor Savkin's Angular 2 Samples](https://github.com/angular/angular/tree/master/modules/examples/src) (Ward)[Downcast](https://www.downcastapp.com/) (Chuck)[iPhone 6 Plus](https://store.apple.com/us/buy-iphone/iphone6) (Chuck)[Côte&Ciel Isar Rucksack](https://www.coteetciel.com/en-IL/isar-backpack-black-melange-laptop-bag) (Uri)[Solar Panel for Bag](https://www.voltaicsystems.com/) (Uri)[Angular-Meteor - Angular2, migration and Angular-Server (Uri @ ng-vegas 2015)](https://www.youtube.com/watch?v=_mu6BWsnaPM) (Uri)
 
 ### Transcript
 

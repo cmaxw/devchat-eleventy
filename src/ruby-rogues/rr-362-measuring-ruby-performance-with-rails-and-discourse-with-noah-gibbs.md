@@ -21,18 +21,18 @@ tags:
 
 **Special Guests:** Noah Gibbs
 
-In this episode of Ruby Rogues, the panelists talk to Noah Gibbs about measuring [Ruby](https://www.ruby-lang.org/en/) performance with [Rails](https://rubyonrails.org/) and [Discourse](https://www.discourse.org/). Noah wrote a book called [_Rebuilding Rails_](http://rebuilding-rails.com/) and is currently analyzing Ruby performance for [AppFolio](https://www.appfolio.com/). They talk about how he puts benchmarks around Discourse, the 2 distinct audiences that come to Rails, and how Rails is constantly improving. They also touch on his life as a programmer leading up to being a Ruby fellow and much more!
+In this episode of Ruby Rogues, the panelists talk to Noah Gibbs about measuring [Ruby](https://www.ruby-lang.org/en/) performance with [Rails](https://rubyonrails.org/) and [Discourse](https://www.discourse.org/). Noah wrote a book called [_Rebuilding Rails_](https://rebuilding-rails.com/) and is currently analyzing Ruby performance for [AppFolio](https://www.appfolio.com/). They talk about how he puts benchmarks around Discourse, the 2 distinct audiences that come to Rails, and how Rails is constantly improving. They also touch on his life as a programmer leading up to being a Ruby fellow and much more!
 
 **In particular, we dive pretty deep on:**
 
 - Catherine intro
 - Noah intro
-- [Engineering.appfolio.com](http://engineering.appfolio.com/)
+- [Engineering.appfolio.com](https://engineering.appfolio.com/)
 - [Ruby Weekly](https://rubyweekly.com/)
 - Do you find that your benchmark is applicable worldwide?
 - [Rails](https://rubyonrails.org/) is going to continue to rise and fall
 - [Ruby](https://www.ruby-lang.org/en/) code goes up and down with Rails in the US
-- [Hanami](http://hanamirb.org/)
+- [Hanami](https://hanamirb.org/)
 - How do you put benchmarks around [Discourse](https://www.discourse.org/)?
 - Messy and requires a lot of tooling
 - Always a balance in a benchmark
@@ -51,11 +51,11 @@ In this episode of Ruby Rogues, the panelists talk to Noah Gibbs about measuring
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Rails](https://rubyonrails.org/)
 - [Discourse](https://www.discourse.org/)
-- [_Rebuilding Rails_](http://rebuilding-rails.com/)
+- [_Rebuilding Rails_](https://rebuilding-rails.com/)
 - [AppFolio](https://www.appfolio.com/)
-- [Engineering.appfolio.com](http://engineering.appfolio.com/)
+- [Engineering.appfolio.com](https://engineering.appfolio.com/)
 - [Ruby Weekly](https://rubyweekly.com/)
-- [Hanami](http://hanamirb.org/)
+- [Hanami](https://hanamirb.org/)
 - [@codefolio](https://twitter.com/codefolio?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Noah’s GitHub](https://github.com/noahgibbs)
 

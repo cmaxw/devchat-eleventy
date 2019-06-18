@@ -15,22 +15,22 @@ tags:
 01:20 - Michele Titolo Introduction
 
 - [twitter](https://twitter.com/micheletitolo)
-- [blog](http://michele.io/)
-- [CocoaPods](http://cocoapods.org/)
-- CTO of [Women Who Code](http://www.meetup.com/Women-Who-Code-SF/)
+- [blog](https://michele.io/)
+- [CocoaPods](https://cocoapods.org/)
+- CTO of [Women Who Code](https://www.meetup.com/Women-Who-Code-SF/)
 
-01:48 - [CocoaPods](http://cocoapods.org/)
+01:48 - [CocoaPods](https://cocoapods.org/)
 
-- [NSBrief - #107: Michele Titolo](http://nsbrief.com/107-michele-titolo/)
+- [NSBrief - #107: Michele Titolo](https://nsbrief.com/107-michele-titolo/)
 
 02:50 - Working With APIs
 
-- [Michele Titolo: How To Make APIs That Don't Suck](http://michele.io/how-to-make-apis-that-dont-suck)
+- [Michele Titolo: How To Make APIs That Don't Suck](https://michele.io/how-to-make-apis-that-dont-suck)
 
 08:20 - Conventions
 
-- [LinkHeader](http://www.w3.org/wiki/LinkHeader)
-- [Pagination](http://en.wikipedia.org/wiki/Pagination)
+- [LinkHeader](https://www.w3.org/wiki/LinkHeader)
+- [Pagination](https://en.wikipedia.org/wiki/Pagination)
 - HTTP Status Codes
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 
@@ -42,23 +42,23 @@ tags:
 
 38:32 - Sharing
 
-- [JSON-P](http://json-p.org/)
+- [JSON-P](https://json-p.org/)
 
 42:06 - Being Clever
 
 - [picky](https://github.com/floere/picky)
-- [CocoaPods Blog - Florian Hanke: Search API Version 1](http://blog.cocoapods.org/Search-API-Version-1/)
+- [CocoaPods Blog - Florian Hanke: Search API Version 1](https://blog.cocoapods.org/Search-API-Version-1/)
 
 51:41 - Documentation
 
-- [Postman](http://www.getpostman.com/)
-- [The 'profile' Link Relation Type draft-wilde-profile-link-01](http://tools.ietf.org/html/draft-wilde-profile-link-01)
+- [Postman](https://www.getpostman.com/)
+- [The 'profile' Link Relation Type draft-wilde-profile-link-01](https://tools.ietf.org/html/draft-wilde-profile-link-01)
 - 58:31 - Hypermedia APIs
-- [Designing Hypermedia APIs by Steve Klabnik](http://www.designinghypermediaapis.com/)
+- [Designing Hypermedia APIs by Steve Klabnik](https://www.designinghypermediaapis.com/)
 
 ### Book Club
 
-[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
+[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
 
 ### Next Week
 

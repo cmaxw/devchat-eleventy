@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-The Ruby Rogues Panel video can now be viewed on Confreaks! [Check it out!](http://confreaks.com/videos/2605-lonestarruby2013-ruby-rogues-panel)02:29 - Best Practice Patterns
+The Ruby Rogues Panel video can now be viewed on Confreaks! [Check it out!](https://confreaks.com/videos/2605-lonestarruby2013-ruby-rogues-panel)02:29 - Best Practice Patterns
 
 03:24 - James Edward Gray: [Why Best Practices?](https://speakerdeck.com/jeg2/why-best-practices)
 
@@ -30,7 +30,7 @@ The Ruby Rogues Panel video can now be viewed on Confreaks! [Check it out!](http
 
 ### Book Club
 
-[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](http://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 28th. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
+[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](https://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 28th. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
 
 ### Next Week
 

@@ -22,7 +22,7 @@ tags:
 
 ### Picks:
 
-[_Designated Survivor_](http://www.imdb.com/title/tt5296406/) (Joe)Going to the dollar theater (Charles)[The Daily Lasagna](http://thedailylasagna.com/) (Charles)
+[_Designated Survivor_](https://www.imdb.com/title/tt5296406/) (Joe)Going to the dollar theater (Charles)[The Daily Lasagna](https://thedailylasagna.com/) (Charles)
 
 ### Transcript
 

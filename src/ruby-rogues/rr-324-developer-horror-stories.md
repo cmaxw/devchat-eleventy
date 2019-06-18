@@ -24,9 +24,9 @@ The panel for this episode of Ruby Rogues is Dave Kimura, Eric Berry, and Charle
 - [Active Record Import](https://github.com/zdennis/activerecord-import)
   **Eric:**
 - [udemy – Stephen Grider](https://www.udemy.com/user/sgslo/)
-- [Code Sponsor&nbsp;](http://www.codesponsor.io)
+- [Code Sponsor&nbsp;](https://www.codesponsor.io)
   **Charles:**
-- [Audible](http://www.audible.com/)
+- [Audible](https://www.audible.com/)
 - Meditation app
 - Find something that helps you re-center
 - [Ruby Dev Summit](https://rubydevsummit.com/)

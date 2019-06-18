@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/astory) offers a $1000 signing bonus
 - [Clubhouse](https://clubhouse.io/jsstory)
 - [CacheFly](https://www.cachefly.com/)
@@ -42,7 +42,7 @@ In this episode of My JavaScript Story, Charles hosts Vitali Zaidman, Technical 
 - [https://www.vrbo.com/](https://www.vrbo.com/)
 - [https://paradehomes.com/web/](https://paradehomes.com/web/)
 - [https://www.tripit.com/web](https://www.tripit.com/web)
-- [Player's Handbook Dungeons & Dragons Core Rule Book](http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook)
+- [Player's Handbook Dungeons & Dragons Core Rule Book](https://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook)
 
 
 ### Transcript

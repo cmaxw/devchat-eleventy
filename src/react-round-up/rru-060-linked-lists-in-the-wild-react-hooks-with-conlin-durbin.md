@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
 - [Triplebyte](https://triplebyte.com/react) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -48,7 +48,7 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/? __tn__ =%2Cd%2
 - _[The 3 most effective ways to build trust as a leader](https://m.signalvnoise.com/the-3-most-effective-ways-to-build-trust-as-a-leader/) article_
 - [Pheonix Live View](https://github.com/phoenixframework/phoenix_live_view)
 **Lucas Reis:**
-- [Pamela Zave](http://www.pamelazave.com/faq.html)
+- [Pamela Zave](https://www.pamelazave.com/faq.html)
 - [Small Functions Considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29) article 
 **Dave Ceddia:**
 - [New Redux course](https://daveceddia.com/pure-redux/)

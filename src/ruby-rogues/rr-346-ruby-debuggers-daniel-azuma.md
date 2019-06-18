@@ -37,19 +37,19 @@ tags:
 - If someone wants to put a Ruby app on App engine how do they do that?
 - and much much more.
   **Links:&nbsp;**
-- [http://daniel-azuma.com/](http://daniel-azuma.com/)
-- [http://daniel-azuma.com/articles/talks/rubyconf-2017](http://daniel-azuma.com/articles/talks/rubyconf-2017)
+- [https://daniel-azuma.com/](https://daniel-azuma.com/)
+- [https://daniel-azuma.com/articles/talks/rubyconf-2017](https://daniel-azuma.com/articles/talks/rubyconf-2017)
 - [debugger product](https://cloud.google.com/debugger/)
 - [App Engine](https://cloud.google.com/appengine/)
-- [RailsConf 2012 talk](http://daniel-azuma.com/articles/talks/railsconf-2012)
-- [RailsConf 2013 talk](http://daniel-azuma.com/articles/talks/railsconf-2013)
+- [RailsConf 2012 talk](https://daniel-azuma.com/articles/talks/railsconf-2012)
+- [RailsConf 2013 talk](https://daniel-azuma.com/articles/talks/railsconf-2013)
 - [rgeo](https://github.com/rgeo)
   **Picks:** Brian
 - [Docker](https://www.docker.com)
 - [Monodraw](https://monodraw.helftone.com)
 - [Typora](https://typora.io)
   Eric
-- [The Punisher](http://www.imdb.com/title/tt5675620/)
+- [The Punisher](https://www.imdb.com/title/tt5675620/)
   Dave
 - [Kitematic](https://kitematic.com)
 - [Thomas and Friends Mini app](https://itunes.apple.com/us/app/thomas-friends-minis/id1216643761?mt=8)

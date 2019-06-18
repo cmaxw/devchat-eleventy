@@ -14,7 +14,7 @@ tags:
 
 01:32 - Redefining [Directives](https://docs.angularjs.org/guide/directive)
 
-- [Ben Nadel: Don't Blindly Isolate All The Scopes In AngularJS Directives](http://www.bennadel.com/blog/2729-don-t-blindly-isolate-all-the-scopes-in-angularjs-directives.htm)
+- [Ben Nadel: Don't Blindly Isolate All The Scopes In AngularJS Directives](https://www.bennadel.com/blog/2729-don-t-blindly-isolate-all-the-scopes-in-angularjs-directives.htm)
 - “Priority” in Directives
   - [ngInclude](https://docs.angularjs.org/api/ng/directive/ngInclude)
 - Faking Them Out
@@ -23,15 +23,15 @@ tags:
 16:42 - Why Would You _EVER_ Use the Precompile Function?
 
 - Link Function
-  - [The nitty-gritty of compile and link functions inside AngularJS directives](http://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives/)
+  - [The nitty-gritty of compile and link functions inside AngularJS directives](https://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives/)
 - Compile Function: [\$compile](https://docs.angularjs.org/api/ng/service/$compile)
-- [Transclude Function](http://ng.malsup.com/#!/transclude-function)
+- [Transclude Function](https://ng.malsup.com/#!/transclude-function)
   - [ngIf](https://docs.angularjs.org/api/ng/directive/ngIf)
   - [ngRepeat](https://docs.angularjs.org/api/ng/directive/ngRepeat)
 
 24:14 - When Should You _REALLY_ Use Isolated Scope?
 
-- [Ben Nadel: Using Isolate Scope In Directives In AngularJS](http://www.bennadel.com/blog/2646-using-isolate-scope-in-directives-in-angularjs.htm)
+- [Ben Nadel: Using Isolate Scope In Directives In AngularJS](https://www.bennadel.com/blog/2646-using-isolate-scope-in-directives-in-angularjs.htm)
 - [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
 - New Directives in Angular 2:
   - Component Directive
@@ -44,24 +44,24 @@ tags:
 
 ### Other Resources
 
-[Joe’s Pluralsight Course: AngularJS Directives Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
+[Joe’s Pluralsight Course: AngularJS Directives Fundamentals](https://www.pluralsight.com/courses/angularjs-fundamentals)
 
 ### Tips
 
 - Watch Ward’s course (Testing Techniques in Angular) when it comes out. (Joe)
-- [<u>The Ionic Framework</u>](http://ionicframework.com/) and [<u>Lukas Reubbelke: Ionic ProTips for the Awesome and Lazy Developer</u>](http://onehungrymind.com/ionic-protips/) (Lukas)
+- [<u>The Ionic Framework</u>](https://ionicframework.com/) and [<u>Lukas Reubbelke: Ionic ProTips for the Awesome and Lazy Developer</u>](https://onehungrymind.com/ionic-protips/) (Lukas)
 
 ### Picks
 
-[<u>Instrumentalities of the Night Book Series by Glen Cook</u>](http://www.amazon.com/s/ref=nb_sb_ss_i_0_17?url=search-alias%3Daps&field-keywords=instrumentalities+of+the+night&sprefix=instrumentalities%2Caps%2C269) (Joe)[<u>David East: An Angular2 Todo App: First look at App Development in Angular2</u>](https://www.youtube.com/watch?v=uD6Okha_Yj0&feature=youtu.be) (Ward)[<u>Hooked: How to Build Habit-Forming Products by Nir Eyal</u>](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) (Lukas)[<u>American Sniper by Chris Kyle, Scott McEwen, and Jim De Felice</u>](http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868) (Chuck)
+[<u>Instrumentalities of the Night Book Series by Glen Cook</u>](https://www.amazon.com/s/ref=nb_sb_ss_i_0_17?url=search-alias%3Daps&field-keywords=instrumentalities+of+the+night&sprefix=instrumentalities%2Caps%2C269) (Joe)[<u>David East: An Angular2 Todo App: First look at App Development in Angular2</u>](https://www.youtube.com/watch?v=uD6Okha_Yj0&feature=youtu.be) (Ward)[<u>Hooked: How to Build Habit-Forming Products by Nir Eyal</u>](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) (Lukas)[<u>American Sniper by Chris Kyle, Scott McEwen, and Jim De Felice</u>](https://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868) (Chuck)
 
 Tips
 
-Watch Ward’s course (Testing Techniques in Angular) when it comes out. (Joe)[<u>The Ionic Framework</u>](http://ionicframework.com/) and [<u>Lukas Reubbelke: Ionic ProTips for the Awesome and Lazy Developer</u>](http://onehungrymind.com/ionic-protips/) (Lukas)
+Watch Ward’s course (Testing Techniques in Angular) when it comes out. (Joe)[<u>The Ionic Framework</u>](https://ionicframework.com/) and [<u>Lukas Reubbelke: Ionic ProTips for the Awesome and Lazy Developer</u>](https://onehungrymind.com/ionic-protips/) (Lukas)
 
 ### News
 
-- Announcing: [<u>ng-vegas</u>](http://www.ng-vegas.org/)!!! May 7th-8th at the [<u>Westin Lake Las Vegas Resort</u>](http://www.westinlakelasvegas.com/).
+- Announcing: [<u>ng-vegas</u>](https://www.ng-vegas.org/)!!! May 7th-8th at the [<u>Westin Lake Las Vegas Resort</u>](https://www.westinlakelasvegas.com/).
 - Early bird tickets go on sale at 12:00 noon PST on March 3rd, 2015 and will be \$700.
 - Regular tickets go on sale at 12:00 noon PST on March 12th, 2015 and will be \$800.
 - Call For Presenters (CFPs) close on March 7th, 2015 at midnight.

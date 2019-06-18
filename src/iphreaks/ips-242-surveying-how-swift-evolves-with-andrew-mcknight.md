@@ -47,7 +47,7 @@ In today's episode, the iPheaks panelist speak with Andrew McKnight about Survey
 
 - [https://forums.swift.org/t/surveying-how-swift-evolves/12726](https://forums.swift.org/t/surveying-how-swift-evolves/12726)
 - [https://github.com/armcknight](https://github.com/armcknight)
-- [http://armcknight.com/](http://armcknight.com/)
+- [https://armcknight.com/](https://armcknight.com/)
 - [https://medium.com/@ndrewmcknight/has-recommended](https://medium.com/@ndrewmcknight/has-recommended)
 - [**@** ndrewmcknight](https://twitter.com/ndrewmcknight)
 - [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner)

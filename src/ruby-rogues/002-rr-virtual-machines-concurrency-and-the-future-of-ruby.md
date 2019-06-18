@@ -14,24 +14,24 @@ tags:
 
 ### Panel
 
-- Charles Max Wood ([@cmaxw](http://twitter.com/cmaxw))
-- David Brady ([@dbrady](http://twitter.com/dbrady))
-- Evan Phoenix ([@evanphx](http://twitter.com/evanphx))
-- James Edward Gray II ([@JEG2](http://twitter.com/JEG2))
-- Peter Cooper ([@peterc](http://twitter.com/peterc))
+- Charles Max Wood ([@cmaxw](https://twitter.com/cmaxw))
+- David Brady ([@dbrady](https://twitter.com/dbrady))
+- Evan Phoenix ([@evanphx](https://twitter.com/evanphx))
+- James Edward Gray II ([@JEG2](https://twitter.com/JEG2))
+- Peter Cooper ([@peterc](https://twitter.com/peterc))
 
 ### Discussion
 
-- [Rubinius](http://rubini.us/)
-- [JRuby](http://jruby.org/)
-- [Maglev](http://ruby.gemstone.com/)
-- [MRI (Ruby 1.8.x)](http://ruby-lang.org/)
-- [Yarv (Ruby 1.9.x)](http://ruby-lang.org/)
+- [Rubinius](https://rubini.us/)
+- [JRuby](https://jruby.org/)
+- [Maglev](https://ruby.gemstone.com/)
+- [MRI (Ruby 1.8.x)](https://ruby-lang.org/)
+- [Yarv (Ruby 1.9.x)](https://ruby-lang.org/)
 - JIT compilers
 - Java Virtual Machine (JVM)
 - Global Interpreter Lock (GIL)
 - Thread Safety
-  The music is "Not Your Choice" by Wetnurse and available on [Metal Sucks](http://www.metalsucks.net/2011/03/01/nyc-sucks-volume-2-free-metal-download-now/).
+  The music is "Not Your Choice" by Wetnurse and available on [Metal Sucks](https://www.metalsucks.net/2011/03/01/nyc-sucks-volume-2-free-metal-download-now/).
 
 ### Transcript
 

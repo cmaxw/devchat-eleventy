@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/)– use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/)– use the code “devchat” for $100 credit
 - [TripleByte](https://triplebyte.com/react)
 
 ### **Panel**

@@ -14,9 +14,9 @@ tags:
 
 01:48 - Steve Klabnik Introduction
 
-- [021 RR REST Done Right with Steve Klabnik](http://rubyrogues.com/rest-done-right-with-steve-klabnik/)
+- [021 RR REST Done Right with Steve Klabnik](https://rubyrogues.com/rest-done-right-with-steve-klabnik/)
 
-02:52 - [GoGaRuCo 2013 - No Secrets Allowed by Steve Klabnik](http://www.youtube.com/watch?v=LjZk8PP-u3c)
+02:52 - [GoGaRuCo 2013 - No Secrets Allowed by Steve Klabnik](https://www.youtube.com/watch?v=LjZk8PP-u3c)
 
 - “I’ve Got Nothing to Hide”
 
@@ -28,12 +28,12 @@ tags:
 
 19:27 - How Long Has This Been Going On?
 
-- [The Stasi](http://en.wikipedia.org/wiki/Stasi)
+- [The Stasi](https://en.wikipedia.org/wiki/Stasi)
 
 22:23 - Why Should Software Developers Care?
 
 - Cookies
-- [Fluid App](http://fluidapp.com/)
+- [Fluid App](https://fluidapp.com/)
 
 27:14 - [The Tor Project](https://www.torproject.org/)
 
@@ -45,11 +45,11 @@ tags:
 
 36:33 - Acquiring Information
 
-- [The Art of Deception: Controlling the Human Element of Security by Kevin D. Mitnick](http://www.amazon.com/gp/product/076454280X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=076454280X&linkCode=as2&tag=chamaxwoo-20)
+- [The Art of Deception: Controlling the Human Element of Security by Kevin D. Mitnick](https://www.amazon.com/gp/product/076454280X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=076454280X&linkCode=as2&tag=chamaxwoo-20)
 
 42:42 - Worrying About Security & Negative Consequences
 
-- [BitCoin](http://bitcoin.org/)
+- [BitCoin](https://bitcoin.org/)
 - Encryption
 
 49:12 - What Can Developers Do?
@@ -58,7 +58,7 @@ tags:
 
 59:16 - Vulnerability
 
-- [LinkedIn Intro](http://intro.linkedin.com/)
+- [LinkedIn Intro](https://intro.linkedin.com/)
 
 ### Book Club
 

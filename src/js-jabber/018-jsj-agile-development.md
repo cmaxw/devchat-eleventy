@@ -14,10 +14,10 @@ tags:
 
 ### Panel
 
-- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
+- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
 
 ### Discussion
 
@@ -26,7 +26,7 @@ tags:
 - Scrum [link]
 - Project Tracking tools
 - Agile Roots Conference [link]
-- [Agile Manifesto](http://agilemanifesto.org/)
+- [Agile Manifesto](https://agilemanifesto.org/)
 - "Agile" has become "the way you develop software"
 - What's the difference between the Agile principles and the Agile business?
 - NIH - Not Invented Here
@@ -45,16 +45,16 @@ tags:
 
 ### Picks
 
-- [Rework](http://www.amazon.com/gp/product/0307463745/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0307463745)&nbsp;(Joe)
-- [James Shore's kickstarter project](http://www.kickstarter.com/projects/188988365/lets-code-test-driven-javascript) (Joe)
-- [Resurrection](http://www.amazon.com/gp/product/B007SPPIES/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007SPPIES)&nbsp;(Joe)
-- [Merkur Razor](http://www.amazon.com/gp/product/B000LY2AKI/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000LY2AKI) (AJ)
-- [Double Edged Razor](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0CI8BEBYwBg&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSafety_razor&ei=1hHoT6XxBrPE2QXm39jZCQ&usg=AFQjCNELFIPCOEaUWrVIhRwgqoA_7MqJpQ) (AJ)
-- [Shaving Youtube Video](http://www.youtube.com/watch?v=2XTh7AAlJDE) (AJ)
-- [XCom Enemy Unknown](http://www.xcom.com/enemyunknown/) (Jamison)
-- [12Factor.net](http://www.12factor.net/) (Jamison)
-- [NodeManual.org](http://nodemanual.org/latest/) (Jamison)
-- [IWantMyName.com](http://iwantmyname.com/) (Jamison)
+- [Rework](https://www.amazon.com/gp/product/0307463745/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0307463745)&nbsp;(Joe)
+- [James Shore's kickstarter project](https://www.kickstarter.com/projects/188988365/lets-code-test-driven-javascript) (Joe)
+- [Resurrection](https://www.amazon.com/gp/product/B007SPPIES/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007SPPIES)&nbsp;(Joe)
+- [Merkur Razor](https://www.amazon.com/gp/product/B000LY2AKI/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000LY2AKI) (AJ)
+- [Double Edged Razor](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0CI8BEBYwBg&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSafety_razor&ei=1hHoT6XxBrPE2QXm39jZCQ&usg=AFQjCNELFIPCOEaUWrVIhRwgqoA_7MqJpQ) (AJ)
+- [Shaving Youtube Video](https://www.youtube.com/watch?v=2XTh7AAlJDE) (AJ)
+- [XCom Enemy Unknown](https://www.xcom.com/enemyunknown/) (Jamison)
+- [12Factor.net](https://www.12factor.net/) (Jamison)
+- [NodeManual.org](https://nodemanual.org/latest/) (Jamison)
+- [IWantMyName.com](https://iwantmyname.com/) (Jamison)
 - [Hover.com](https://www.hover.com/) (Chuck)
 - Electric Razor (Chuck)
 

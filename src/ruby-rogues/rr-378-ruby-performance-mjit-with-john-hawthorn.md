@@ -108,6 +108,6 @@ Eric
 John
 
 - [Julia Evans Blog Posts](https://jvns.ca/categories/ruby-profiler/)
-- [Celeste](http://www.celestegame.com/)
+- [Celeste](https://www.celestegame.com/)
 
 ### Transcript

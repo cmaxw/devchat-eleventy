@@ -25,15 +25,15 @@ tags:
 
 10:57 - Welcoming Newbies
 
-- [RailsBridge](http://railsbridge.org/)
-- [TryRuby](http://tryruby.org/levels/1/challenges/0)
-- [Rails for Zombies](http://railsforzombies.org/)
+- [RailsBridge](https://railsbridge.org/)
+- [TryRuby](https://tryruby.org/levels/1/challenges/0)
+- [Rails for Zombies](https://railsforzombies.org/)
 - Conferences & Local Events
 
 14:02 - Be Aware of Inside Culture & Jokes
 
-- [Firefly](http://www.imdb.com/title/tt0303461/)
-- [Lewis Page: Ladies put off tech careers by sci-fi posters, Coke cans](http://www.theregister.co.uk/2009/12/15/geeky_decor_puts_off_ladies/)
+- [Firefly](https://www.imdb.com/title/tt0303461/)
+- [Lewis Page: Ladies put off tech careers by sci-fi posters, Coke cans](https://www.theregister.co.uk/2009/12/15/geeky_decor_puts_off_ladies/)
 
 19:29 - Sharing War Stories
 
@@ -42,37 +42,37 @@ tags:
 
 25:35 - Sharing Information
 
-- [058 RR Book Club: Working with Unix Processes with Jesse Storimer](http://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/)
+- [058 RR Book Club: Working with Unix Processes with Jesse Storimer](https://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/)
 - [@jstorimer: I want my next conference talk to feel more like a cooking demonstration than a lecture.](https://twitter.com/jstorimer/status/349531024893554690)
 
 28:24 - Liking vs Respecting
 
-- [Steel Magnolias](http://www.imdb.com/title/tt0098384/)
+- [Steel Magnolias](https://www.imdb.com/title/tt0098384/)
 
 30:44 - Empathy & Attitude
 
-- [MINASWAN](http://minaswan.github.io/2011/03/18/helloworld)
+- [MINASWAN](https://minaswan.github.io/2011/03/18/helloworld)
 
 33:34 - Constructive Reactions to Drama aka What Would Angela Harms do?
 
 - Role Models
-- [049 RR Agile Communication with Angela Harms](http://rubyrogues.com/049-rr-agile-communication-with-angela-harms/)
+- [049 RR Agile Communication with Angela Harms](https://rubyrogues.com/049-rr-agile-communication-with-angela-harms/)
 - Humility
 
 40:12 - Working Together
 
-- [#RubyFriends](http://rubyfriends.com/)/[@RubyFriends](https://twitter.com/RubyFriends)
+- [#RubyFriends](https://rubyfriends.com/)/[@RubyFriends](https://twitter.com/RubyFriends)
 
 41:22 - More Blogs; Fewer Tweets
 
-- [The Real Adam](http://therealadam.com/)
-- [xkcd: Ten Thousand](http://xkcd.com/1053/)
+- [The Real Adam](https://therealadam.com/)
+- [xkcd: Ten Thousand](https://xkcd.com/1053/)
 
 47:20 - MINEWWMASWAN - Matz Is Nice (Even When We're Mad) And So We Are Nice
 
 ### Book Club
 
-[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](http://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
+[Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!](https://computationbook.com/)&nbsp;&nbsp;He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a&nbsp;discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. \*Discount does not apply to the&nbsp;ebook + print bundle.
 
 ### Next Week
 

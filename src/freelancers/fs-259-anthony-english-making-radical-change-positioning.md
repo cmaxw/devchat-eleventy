@@ -25,9 +25,9 @@ On this episode of the Freelancers’ Show panelists Jonathon Stark, Curtis McHa
   **Curtis**
 - &nbsp;[All Weather Pen](https://www.amazon.com/Rite-Rain-All-Weather-Durable-Clicker/dp/B013HBL318/ref=as_li_ss_tl?ie=UTF8&qid=1498588558&sr=8-2&keywords=rite+in+the+rain+93k&linkCode=sl1&tag=blogcurtismchale-20&linkId=159ef13526649fd0a75fda7259cb1257)
   **Philip**
-- [The Consulting Pipeline Podcast](http://consultingpipelinepodcast.com)
+- [The Consulting Pipeline Podcast](https://consultingpipelinepodcast.com)
   **Reuven**
-- [Das Keyboard&nbsp;](http://daskeyboard.com/)
+- [Das Keyboard&nbsp;](https://daskeyboard.com/)
 - [_Shattered: Inside Hillary Clinton's Doomed Campaign_&nbsp;](https://www.amazon.com/Shattered-Inside-Hillary-Clintons-Campaign-ebook)
   **Anthony**
 - trinityperspectives.com.au

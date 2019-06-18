@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry&nbsp;](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry&nbsp;](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [Clubhouse](https://clubhouse.io/jsstory)
 - [CacheFly](https://www.cachefly.com/)
 

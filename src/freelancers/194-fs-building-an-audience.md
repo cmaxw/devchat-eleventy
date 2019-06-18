@@ -14,7 +14,7 @@ tags:
 
 02:52 - What do I do with an audience?
 
-- [Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy Social World by Gary Vaynerchuk](http://www.amazon.com/Jab-Right-Hook-Story-Social/dp/006227306X)
+- [Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy Social World by Gary Vaynerchuk](https://www.amazon.com/Jab-Right-Hook-Story-Social/dp/006227306X)
 
 09:15 - Growing Your Audience and Keeping Them There
 
@@ -25,8 +25,8 @@ tags:
 - Podcasts
 - Webinars
 - “Planet Aggregators”
-  - [<u>Planet Python</u>](http://planetpython.org/)
-  - [Planet PostgreSQL](http://planet.postgresql.org/)
+  - [<u>Planet Python</u>](https://planetpython.org/)
+  - [Planet PostgreSQL](https://planet.postgresql.org/)
 - Borrowing Audiences; Guest Posting
 
 25:19 - Churn
@@ -36,10 +36,10 @@ tags:
 32:33 - How do you monetize the audience?
 
 - Alignment
-- [Mandarin Weekly](http://mandarinweekly.com/)
+- [Mandarin Weekly](https://mandarinweekly.com/)
 - [Facebook Advertising](https://www.facebook.com/business/products/ads)
 - [FFmpeg](https://www.ffmpeg.org/)
-- [RubyFlow](http://www.rubyflow.com/)
+- [RubyFlow](https://www.rubyflow.com/)
 - [Reddit](https://www.reddit.com/)
 - [Hacker News](https://news.ycombinator.com/)
 
@@ -50,7 +50,7 @@ tags:
 - [Drip](https://www.getdrip.com/)
   Picks
 
-[Practice Makes Regexp](http://PracticeMakesRegexp.com/) (Reuven)[The System Club Letters: 57 Big Ideas to Transform Your Business and Your Life by Ken McCarthy](http://www.amazon.com/The-System-Club-Letters-Transform-ebook/dp/B00ABJIMQE) (Philip)[Drip](https://www.getdrip.com/) (Chuck)[SumoMe](https://sumome.com/) (Chuck)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[All Remote Conferences](https://allremoteconfs.com/) (Chuck)
+[Practice Makes Regexp](https://PracticeMakesRegexp.com/) (Reuven)[The System Club Letters: 57 Big Ideas to Transform Your Business and Your Life by Ken McCarthy](https://www.amazon.com/The-System-Club-Letters-Transform-ebook/dp/B00ABJIMQE) (Philip)[Drip](https://www.getdrip.com/) (Chuck)[SumoMe](https://sumome.com/) (Chuck)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[All Remote Conferences](https://allremoteconfs.com/) (Chuck)
 
 ### Transcript
 

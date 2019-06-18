@@ -14,50 +14,50 @@ tags:
 
 01:57 - Arlen Walker Introduction
 
-- [PKWARE, Inc.](http://www.pkware.com/)
+- [PKWARE, Inc.](https://www.pkware.com/)
   03:06 - Unofficial Rogue: Dave Newton 03:49 - Best of Parley: DHH episode
-- [056 RR David Heinemeier Hansson](http://rubyrogues.com/056-rr-david-heinemeier-hansson/)
+- [056 RR David Heinemeier Hansson](https://rubyrogues.com/056-rr-david-heinemeier-hansson/)
   05:33 - Vote for your favorite Ruby Rogues Episode of 2012:
 -
 
-[rubyrogues.com/survey](http://www.rubyrogues.com/survey)
+[rubyrogues.com/survey](https://www.rubyrogues.com/survey)
 05:58 - Learning From The Past
 
 -
 
-[On Chess and Software Development by Arlen Walker](http://www.theodicius.net/archives/2012/10/13/on-chess-and-software-development/)
+[On Chess and Software Development by Arlen Walker](https://www.theodicius.net/archives/2012/10/13/on-chess-and-software-development/)
 
-- [Model-view-controller](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+- [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
   10:15 - Learning From The Rules
 - Chess
-- [047 RR Coding Disciplines with Dan Kubb](http://rubyrogues.com/047-rr-coding-disciplines/)
+- [047 RR Coding Disciplines with Dan Kubb](https://rubyrogues.com/047-rr-coding-disciplines/)
   17:01 - Testing/Best Practices
-- [Head First books](http://shop.oreilly.com/category/series/head-first.do)
-- [Head First Design Patterns By Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra](http://shop.oreilly.com/product/9780596007126.do)
+- [Head First books](https://shop.oreilly.com/category/series/head-first.do)
+- [Head First Design Patterns By Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra](https://shop.oreilly.com/product/9780596007126.do)
   23:39 - Mentoring
 - Pair Programming
   25:49 - Learning From Other People’s Mistakes
 -
 
-[Code Reading: The Open Source Perspective by Diomidis Spinellis](http://www.amazon.com/gp/product/0201799405/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201799405)
+[Code Reading: The Open Source Perspective by Diomidis Spinellis](https://www.amazon.com/gp/product/0201799405/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201799405)
 
 -
 
-[Software Tools by Brian W. Kernighan, P.J. Plauger](http://www.amazon.com/gp/product/020103669X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=020103669X)
+[Software Tools by Brian W. Kernighan, P.J. Plauger](https://www.amazon.com/gp/product/020103669X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=020103669X)
 
 - Planning for the future; doing nothing
   33:11 - Learning & Teaching Concepts
-- [The Gang of Four Book](http://en.wikipedia.org/wiki/Design_Patterns)
-- [Skill Acquisition: The Dreyfus Model](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+- [The Gang of Four Book](https://en.wikipedia.org/wiki/Design_Patterns)
+- [Skill Acquisition: The Dreyfus Model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 -
 
-[Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](http://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934356050)
+[Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](https://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934356050)
 
 - The Desire to Learn
   47:50 - Good Introductory Patterns
 -
 
-[Sugar-Free Ruby: An Experiment in Object-first: Steven! Regnarök](http://confreaks.com/videos/1112-gogaruco2012-sugar-free-ruby-an-experiment-in-object-first-teaching)
+[Sugar-Free Ruby: An Experiment in Object-first: Steven! Regnarök](https://confreaks.com/videos/1112-gogaruco2012-sugar-free-ruby-an-experiment-in-object-first-teaching)
 
 -
 
@@ -65,15 +65,15 @@ The Composed Method
 
 -
 
-[Adapter Pattern](http://en.wikipedia.org/wiki/Adapter_pattern)
+[Adapter Pattern](https://en.wikipedia.org/wiki/Adapter_pattern)
 
 -
 
-[Facade Pattern](http://en.wikipedia.org/wiki/Facade_pattern)
+[Facade Pattern](https://en.wikipedia.org/wiki/Facade_pattern)
 
 -
 
-[Factory Method Pattern](http://en.wikipedia.org/wiki/Factory_method_pattern)
+[Factory Method Pattern](https://en.wikipedia.org/wiki/Factory_method_pattern)
 
 ### Next Week
 

@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Angular Bootcamp](https://angularbootcamp.com/)
 - [TripleByte](https://triplebyte.com/angular) offers a $1000 signing bonus
 - [Cachefly](https://www.cachefly.com/)
@@ -43,7 +43,7 @@ Aaron Frost introduces a RxJS as a trend that is also a fundamental for angular.
 - [Michael Pearsons Blog](https://medium.com/@m3po22)
 - [https://twitter.com/brandontroberts](https://twitter.com/brandontroberts?lang=en)
 - [https://github.com/brandonroberts](https://github.com/brandonroberts)
-- [www.facebook.com/adventuresinangular](http://www.facebook.com/adventuresinangular)
+- [www.facebook.com/adventuresinangular](https://www.facebook.com/adventuresinangular)
 - [https://twitter.com/angularpodcast](https://twitter.com/angularpodcast)
 
 ### **Picks**

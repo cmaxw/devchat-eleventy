@@ -30,7 +30,7 @@ Raygun's&nbsp;concurrency model was something to consider&nbsp;the time they wer
 
 ## Picks:
 
-Joe: [Tails of Equestria game](http://riverhorse.eu/our-games/my-little-pony-tails-of-equestria/)Aimee: The Tragedy of 100% Code Coverage blog Charles: [Angular Remote Conf call for proposals](https://devchat.tv/conferences/angular-remote-conf-2017), [Raygun](https://raygun.com/)John-Daniel: Discord app, [Forged Alliance Forever](https://www.faforever.com/)
+Joe: [Tails of Equestria game](https://riverhorse.eu/our-games/my-little-pony-tails-of-equestria/)Aimee: The Tragedy of 100% Code Coverage blog Charles: [Angular Remote Conf call for proposals](https://devchat.tv/conferences/angular-remote-conf-2017), [Raygun](https://raygun.com/)John-Daniel: Discord app, [Forged Alliance Forever](https://www.faforever.com/)
 
 ## Episode Links:
 

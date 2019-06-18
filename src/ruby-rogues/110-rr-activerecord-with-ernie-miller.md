@@ -14,9 +14,9 @@ tags:
 
 01:44 - Ernie Miller Introduction
 
-- [The Most Important Optimization: Happiness - Ernie Miller](http://confreaks.com/videos/2384-rmw2013-the-most-important-optimization-happiness)
+- [The Most Important Optimization: Happiness - Ernie Miller](https://confreaks.com/videos/2384-rmw2013-the-most-important-optimization-happiness)
 
-02:58 - [An Intervention for ActiveRecord - Ernie Miller](http://confreaks.com/videos/2460-railsconf2013-an-intervention-for-activerecord)
+02:58 - [An Intervention for ActiveRecord - Ernie Miller](https://confreaks.com/videos/2460-railsconf2013-an-intervention-for-activerecord)
 
 - [Speaker Deck: An Intervention for ActiveRecord](https://speakerdeck.com/erniemiller/an-intervention-for-activerecord)
 
@@ -25,39 +25,39 @@ tags:
 06:50 - Trade-offs
 
 - Ease of ramp-up
-- [The ActiveRecord Pattern](http://en.wikipedia.org/wiki/Active_record_pattern)
+- [The ActiveRecord Pattern](https://en.wikipedia.org/wiki/Active_record_pattern)
 - Class Macros
 
-09:43 - [Impedance Mismatch](http://en.wikipedia.org/wiki/Object-relational_impedance_mismatch)
+09:43 - [Impedance Mismatch](https://en.wikipedia.org/wiki/Object-relational_impedance_mismatch)
 
-- [Sequel: The Database Toolkit for Ruby](http://sequel.rubyforge.org/)
+- [Sequel: The Database Toolkit for Ruby](https://sequel.rubyforge.org/)
 
 13:06 - Magic
 
-- [David Blaine Street Magic 2](http://vimeo.com/43958097)
-- [David Blaine Street Magic 3](http://vimeo.com/44087401)
-- [David Blaine Street Magic 4](http://vimeo.com/44147767)
+- [David Blaine Street Magic 2](https://vimeo.com/43958097)
+- [David Blaine Street Magic 3](https://vimeo.com/44087401)
+- [David Blaine Street Magic 4](https://vimeo.com/44147767)
 - Leaky Abstractions
 - [Squeel](https://github.com/ernie/squeel)
 - Counter Caches
 
 20:04 - Callbacks
 
-- [Chain Of Responsibility Pattern](http://c2.com/cgi/wiki?ChainOfResponsibilityPattern)
-- [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides (The Gang of Four Book)](http://www.amazon.com/gp/product/0201633612/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=chamaxwoo-20)
+- [Chain Of Responsibility Pattern](https://c2.com/cgi/wiki?ChainOfResponsibilityPattern)
+- [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides (The Gang of Four Book)](https://www.amazon.com/gp/product/0201633612/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=chamaxwoo-20)
 
 28:54 - The Count Method
 
-- [The Liskov Substitution Principle](http://en.wikipedia.org/wiki/Liskov_substitution_principle)
+- [The Liskov Substitution Principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
 
-36:38 - [accepts_nested_attributes_for](http://apidock.com/rails/ActiveRecord/NestedAttributes/ClassMethods/accepts_nested_attributes_for)
+36:38 - [accepts_nested_attributes_for](https://apidock.com/rails/ActiveRecord/NestedAttributes/ClassMethods/accepts_nested_attributes_for)
 
-- [Ruby Object Mapper - Roadmap](http://rom-rb.org/)
+- [Ruby Object Mapper - Roadmap](https://rom-rb.org/)
 
 42:46 - The Intervention: Solving ActiveRecord Problems
 
 - Where
-- [Patterns of Enterprise Application Architecture by Martin Fowler](http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
+- [Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
 
 ### Next Week
 

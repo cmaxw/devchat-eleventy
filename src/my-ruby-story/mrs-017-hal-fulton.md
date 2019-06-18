@@ -19,11 +19,11 @@ Today's episode is a My Ruby Story with Hal Fulton. Hal talked about his contrib
 - Ruby Comms
 - [Novel: Secret History by Donna Tartt](https://www.amazon.com/Secret-History-Donna-Tartt/dp/1400031702)
 - [Novel: The Shadow of the Wind by Carlos Ruiz Zafon](https://www.amazon.com/Shadow-Wind-Carlos-Ruiz-Zafón/dp/0143034901)
-- [TV Series: The Man in the High Castle](http://www.imdb.com/title/tt1740299/)
-- [Musical: Hamilton](http://www.hamiltonbroadway.com/)
+- [TV Series: The Man in the High Castle](https://www.imdb.com/title/tt1740299/)
+- [Musical: Hamilton](https://www.hamiltonbroadway.com/)
   **Charles Max Woods**
-- [Book: The Ruby Way by Hal Fulton](http://therubyway.io/)
-- [Editor: Obie Fernandez of The Ruby Way](http://obiefernandez.com/books/)
+- [Book: The Ruby Way by Hal Fulton](https://therubyway.io/)
+- [Editor: Obie Fernandez of The Ruby Way](https://obiefernandez.com/books/)
 - [Ruby Dev Summit](https://rubydevsummit.com/)
 
 ### Transcript

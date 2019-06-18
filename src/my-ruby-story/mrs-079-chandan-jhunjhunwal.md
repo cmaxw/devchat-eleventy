@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** &nbsp;&nbsp;Chandan Jhunjhunwal
 ### **Episode Summary**
@@ -30,13 +30,13 @@ In this episode of My Ruby Story, Charles hosts Chandan Jhunjhunwal, a tech lead
 
 ### **Picks**
  **Chandan Jhunjhunwal:**
-- [Rescuing The Daughter](http://www.enagames.com/escape-game/rescuing-the-daughter)
+- [Rescuing The Daughter](https://www.enagames.com/escape-game/rescuing-the-daughter)
 - [No Ordinary Moments by Dan Millman](https://www.amazon.com/No-Ordinary-Moments-Peaceful-Warriors/dp/0915811405)
 - [Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 - [Metaprogramming Ruby by Paolo Perrotta](https://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476)
 &nbsp; **Charles Max Wood:**
 - [Born to Run by Christopher McDougall](https://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189)
-- [Ultramarathonman by Dean Karnazes](http://www.ultramarathonman.com/web/books/ultra.shtml)
+- [Ultramarathonman by Dean Karnazes](https://www.ultramarathonman.com/web/books/ultra.shtml)
 
 
 ### Transcript

@@ -20,9 +20,9 @@ Submit a CFP or get an early bird ticket! Check out [JS Remote Conf](https://jsr
 
 - [Twitter](https://twitter.com/UriShaked)
 - [GitHub](https://github.com/urish)
-- [Blog](http://urish.org/)
-- [ng-conf Israel](http://ng-conf.co.il/)
-- [BlackBerry](http://us.blackberry.com/)
+- [Blog](https://urish.org/)
+- [ng-conf Israel](https://ng-conf.co.il/)
+- [BlackBerry](https://us.blackberry.com/)
 
 04:27 - Uri’s Libraries
 
@@ -31,8 +31,8 @@ Submit a CFP or get an early bird ticket! Check out [JS Remote Conf](https://jsr
 
 05:11 - Advantages of wrapping things around directives
 
-- [Moment.js](http://momentjs.com/)
-- [spin.js](http://fgnass.github.io/spin.js/)
+- [Moment.js](https://momentjs.com/)
+- [spin.js](https://fgnass.github.io/spin.js/)
 
 10:33 - How do you wrap things around directives?
 
@@ -43,7 +43,7 @@ Submit a CFP or get an early bird ticket! Check out [JS Remote Conf](https://jsr
 - [angular-chosen](https://github.com/simpulton/angular-chosen)
   Picks
 
-The ES2016 Column Operator (Uri)[Bullshit (The Game)](http://www.pagat.com/beating/cheat.html) (Uri)[Angular — Introduction to Reactive Extensions (RxJS)](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f#.ijyw6y3ni) (Lukas)[Kamal Meattle: 3 Plants that Best Recycle Air](https://www.youtube.com/watch?v=_VKRZ0pT9pQ) (Chuck)[Charles Max Wood: My podcasting setup #ufy](https://katch.me/cmaxw/v/b87dd829-a424-37fe-ac2f-ed1e2495a2d1) (Chuck)
+The ES2016 Column Operator (Uri)[Bullshit (The Game)](https://www.pagat.com/beating/cheat.html) (Uri)[Angular — Introduction to Reactive Extensions (RxJS)](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f#.ijyw6y3ni) (Lukas)[Kamal Meattle: 3 Plants that Best Recycle Air](https://www.youtube.com/watch?v=_VKRZ0pT9pQ) (Chuck)[Charles Max Wood: My podcasting setup #ufy](https://katch.me/cmaxw/v/b87dd829-a424-37fe-ac2f-ed1e2495a2d1) (Chuck)
 
 ### Transcript
 

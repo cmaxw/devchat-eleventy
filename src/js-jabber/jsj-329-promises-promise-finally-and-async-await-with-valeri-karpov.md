@@ -20,13 +20,13 @@ tags:
 
 **Special Guests:** Valeri Karpov&nbsp;
 
-In this episode, the panel talks with programmer, Valerie Karpov from Miami, Florida. He is quite knowledgeable with many different programs, but today’s episode they talk specifically about Async/Await and Promise Generators. Val is constantly busy through his different endeavors and recently finished his e-book, [“Mastering Async/Await.”](http://thecodebarbarian.com/new-ebook-mastering-async-await.html) Check-out Val’s social media profiles through LinkedIn, GitHub, Twitter, and more.
+In this episode, the panel talks with programmer, Valerie Karpov from Miami, Florida. He is quite knowledgeable with many different programs, but today’s episode they talk specifically about Async/Await and Promise Generators. Val is constantly busy through his different endeavors and recently finished his e-book, [“Mastering Async/Await.”](https://thecodebarbarian.com/new-ebook-mastering-async-await.html) Check-out Val’s social media profiles through LinkedIn, GitHub, Twitter, and more.
 
 **Show Topics:**
 
 1:20 – Val has been on previous episodes back in 2013 & 2016.
 
-1:37 – Val’s background. He is very involved with multiple companies. Go checkout his [new book!](http://thecodebarbarian.com/new-ebook-mastering-async-await.html)
+1:37 – Val’s background. He is very involved with multiple companies. Go checkout his [new book!](https://thecodebarbarian.com/new-ebook-mastering-async-await.html)
 
 2:39 – Promises generators. Understand Promises and how things sync with Promises. Val suggests that listeners have an integrated understanding of issues like error handling.
 
@@ -56,7 +56,7 @@ In this episode, the panel talks with programmer, Valerie Karpov from Miami, Flo
 
 18:18 – Aimee makes comments about Async/Await.
 
-20:08 – “What are the core principles of your [new e-book](http://thecodebarbarian.com/new-ebook-mastering-async-await.html)?” – Chuck
+20:08 – “What are the core principles of your [new e-book](https://thecodebarbarian.com/new-ebook-mastering-async-await.html)?” – Chuck
 
 20:17 – There are 4 chapters and Val discusses, in detail, what’s in each chapter.
 
@@ -122,7 +122,7 @@ In this episode, the panel talks with programmer, Valerie Karpov from Miami, Flo
 - [Valeri Karpov’s GitHub](https://github.com/vkarpov15)
 - [Valeri Karpov’s Twitter](https://twitter.com/code_barbarian)
 - [Valeri Karpov’s LinkedIn](https://www.linkedin.com/in/valeri-karpov-64b48138)
-- [New E-Book: Mastering Async/Await](http://thecodebarbarian.com/new-ebook-mastering-async-await.html)
+- [New E-Book: Mastering Async/Await](https://thecodebarbarian.com/new-ebook-mastering-async-await.html)
 - [Node](https://nodejs.org/en/)
 - [Python](https://www.python.org)
 - [Windows Scripting Host](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wscript)
@@ -156,8 +156,8 @@ AJ
 Val
 
 - [https://www.npmjs.com/package/serve](https://www.npmjs.com/package/serve)
-- [http://bit.ly/ultimate-skiing](http://bit.ly/ultimate-skiing)
-- [http://asyncawait.net/jsjabber](http://asyncawait.net/jsjabber)
-- [New E-Book: Mastering Async/Await](http://thecodebarbarian.com/new-ebook-mastering-async-await.html)
+- [https://bit.ly/ultimate-skiing](https://bit.ly/ultimate-skiing)
+- [https://asyncawait.net/jsjabber](https://asyncawait.net/jsjabber)
+- [New E-Book: Mastering Async/Await](https://thecodebarbarian.com/new-ebook-mastering-async-await.html)
 
 ### Transcript

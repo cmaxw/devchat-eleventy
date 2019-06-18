@@ -20,7 +20,7 @@ tags:
 
 16:00 - The School Doesn’t Matter
 
-- [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants by Malcolm Gladwell](http://www.amazon.com/gp/product/0316204374/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316204374&linkCode=as2&tag=chamaxwoo-20&linkId=AF7RR4XFXNNAHZUX)
+- [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants by Malcolm Gladwell](https://www.amazon.com/gp/product/0316204374/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316204374&linkCode=as2&tag=chamaxwoo-20&linkId=AF7RR4XFXNNAHZUX)
 
 19:59 - Panel Experience and Career Paths (Cont’d)
 
@@ -36,7 +36,7 @@ tags:
 
 Picks
 
-[The More Things Change](http://bitquabit.com/post/the-more-things-change/) (Jamison)[Allison Kaptur: Effective Learning Strategies for Programmers](http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/) (Jamison)[@Aimee_Knight](https://twitter.com/Aimee_Knight) (Joe)[Star Wars Battlefront](http://starwars.ea.com/starwars/battlefront) (Joe)[Amazing Grass](http://www.amazinggrass.com/) (Aimee)[Daniel Brain: Sane, scalable Angular apps are tricky, but not impossible. Lessons learned from PayPal Checkout.](https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef) (Aimee)[xkcd: Correlation](https://xkcd.com/552/) (Dave)[Lviv, Ukraine](https://en.wikipedia.org/wiki/Lviv) (Dave)[CharlesMaxWood.com](http://charlesmaxwood.com/) (Chuck)[Every Time Zone](http://everytimezone.com/) (Chuck)[The Positioning Manual for Technical Firms by Philip Morgan](https://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/) (Chuck)[JS Remote Conf](https://jsremoteconf.com/) (Chuck)
+[The More Things Change](https://bitquabit.com/post/the-more-things-change/) (Jamison)[Allison Kaptur: Effective Learning Strategies for Programmers](https://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/) (Jamison)[@Aimee_Knight](https://twitter.com/Aimee_Knight) (Joe)[Star Wars Battlefront](https://starwars.ea.com/starwars/battlefront) (Joe)[Amazing Grass](https://www.amazinggrass.com/) (Aimee)[Daniel Brain: Sane, scalable Angular apps are tricky, but not impossible. Lessons learned from PayPal Checkout.](https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef) (Aimee)[xkcd: Correlation](https://xkcd.com/552/) (Dave)[Lviv, Ukraine](https://en.wikipedia.org/wiki/Lviv) (Dave)[CharlesMaxWood.com](https://charlesmaxwood.com/) (Chuck)[Every Time Zone](https://everytimezone.com/) (Chuck)[The Positioning Manual for Technical Firms by Philip Morgan](https://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/) (Chuck)[JS Remote Conf](https://jsremoteconf.com/) (Chuck)
 
 ### Transcript
 

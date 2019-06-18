@@ -54,7 +54,7 @@ In this episode of the Freelancer’s Show, Jeremy, Reuven and Erick discuss “
 
 - [Get a Coder Job](https://devchat.tv/get-a-coder-job/)
 - [Digital Ocean](https://www.digitalocean.com)
-- [Code Badges](http://codebadge.org)
+- [Code Badges](https://codebadge.org)
 
 **Picks:**
 
@@ -69,8 +69,8 @@ Jeremy
 
 Reuven
 
-- [WeeklyPythonExercise.com](http://weeklypythonexercise.com/)
-- [From Cold War to Hot Peace, by Michael McFaul)](http://(https://www.amazon.com/Cold-War-Hot-Peace-Ambassador/dp/0544716248/ref=sr_1_1?ie=UTF8&qid=1525844530&sr=8-1&keywords=cold+war+hot+peace)
-- [War on Peace by Farrow](http://(https://www.amazon.com/gp/product/0393652106/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
+- [WeeklyPythonExercise.com](https://weeklypythonexercise.com/)
+- [From Cold War to Hot Peace, by Michael McFaul)](https://(https://www.amazon.com/Cold-War-Hot-Peace-Ambassador/dp/0544716248/ref=sr_1_1?ie=UTF8&qid=1525844530&sr=8-1&keywords=cold+war+hot+peace)
+- [War on Peace by Farrow](https://(https://www.amazon.com/gp/product/0393652106/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
 
 ### Transcript

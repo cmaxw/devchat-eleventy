@@ -12,16 +12,16 @@ tags:
   - podcast
 ---
 
-01:13 - [Going Rogue Video](http://www.goingroguevideo.com/)
+01:13 - [Going Rogue Video](https://www.goingroguevideo.com/)
 
 01:54 - Charlie Nutter Introduction
 
 03:03 - Unofficial Rogue: [Christian Schlensker](https://twitter.com/wordofchristian)
 
-03:47 - The History of [JRuby](http://jruby.org/)
+03:47 - The History of [JRuby](https://jruby.org/)
 
-- [Red Hat](http://www.redhat.com/)
-- [TorqueBox](http://torquebox.org/)
+- [Red Hat](https://www.redhat.com/)
+- [TorqueBox](https://torquebox.org/)
 
 09:25 - Who’s Using JRuby in Production?
 
@@ -42,7 +42,7 @@ tags:
 
 19:42 - The Popularity of JRuby among the JVM Community
 
-- [Jython](http://www.jython.org/)
+- [Jython](https://www.jython.org/)
 
 21:01 - Interpretation
 
@@ -53,8 +53,8 @@ tags:
 
 27:08 - Collaboration
 
-- [Rubinius](http://rubini.us/)
-- [RubySpec](http://rubyspec.org/)
+- [Rubinius](https://rubini.us/)
+- [RubySpec](https://rubyspec.org/)
 
 29:57 - Process for Adding New Features
 
@@ -67,7 +67,7 @@ tags:
 37:10 - Getting JRuby Support
 
 - Mailing List
-- JRuby on [Freenode](http://freenode.net/) IRC
+- JRuby on [Freenode](https://freenode.net/) IRC
 
 40:46 - Java-Side Integration
 

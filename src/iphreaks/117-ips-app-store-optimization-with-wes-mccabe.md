@@ -12,25 +12,25 @@ tags:
   - podcast
 ---
 
-[Claim 15 minutes of Chuck’s time!](http://www.iphreaksshow.com/15minutes)
+[Claim 15 minutes of Chuck’s time!](https://www.iphreaksshow.com/15minutes)
 
 &nbsp;
 
 01:49 - Wes McCabe Introduction
 
 - [Twitter](https://twitter.com/wdmccabe)
-- [Blog](http://www.wesmccabe.com/)
+- [Blog](https://www.wesmccabe.com/)
 - [SensorTower](https://sensortower.com/)
   - [@SensorTower](https://twitter.com/SensorTower)
 
 02:46 - App Store Optimization (ASO) for SEGA
 
-- [Alex Malafeev: Increase your mobile app downloads using App Store Optimization](http://sfagilemarketing.com/2015/04/app-store-optimization/) (SEGA Video)
+- [Alex Malafeev: Increase your mobile app downloads using App Store Optimization](https://sfagilemarketing.com/2015/04/app-store-optimization/) (SEGA Video)
 
 04:09 - Improving Visibility Within the App Store
 
 - Titles and Keywords
-  - [[SensorTower Blog] The Keyword Spy Module Reveals Your Competitor’s iOS App Keywords](http://blog.sensortower.com/blog/2013/11/18/how-to-spy-on-your-competitors-ios-keywords-with-the-keyword-spy-tool/)
+  - [[SensorTower Blog] The Keyword Spy Module Reveals Your Competitor’s iOS App Keywords](https://blog.sensortower.com/blog/2013/11/18/how-to-spy-on-your-competitors-ios-keywords-with-the-keyword-spy-tool/)
 
 13:19 - Launching a New App
 
@@ -43,7 +43,7 @@ tags:
 
 19:58 - Getting Featured
 
-- [iPhreaks Show Episode #54: Getting Featured in the App Store with Ben Johnson](http://devchat.tv/iphreaks/054-iphreaks-show-getting-featured-in-the-app-store-with-ben-johnson)
+- [iPhreaks Show Episode #54: Getting Featured in the App Store with Ben Johnson](https://devchat.tv/iphreaks/054-iphreaks-show-getting-featured-in-the-app-store-with-ben-johnson)
 
 21:22 - Using [SensorTower](https://sensortower.com/) (Results)
 
@@ -57,7 +57,7 @@ tags:
 
 30:06 - Appstore Views (Reviewing Analytics)Picks
 
-[NHL94 Online](http://nhl94online.com/) (Jaim)[Podcast Movement](http://podcastmovement.com/) (Chuck)[Entrepreneur On Fire](http://www.entrepreneuronfire.com/podcast/) (Chuck)[The Eventual Millionaire](http://eventualmillionaire.com/) (Chuck)[Periscope](https://www.periscope.tv/) (Chuck)[Alex Malafeev: Increase your mobile app downloads using App Store Optimization](http://sfagilemarketing.com/2015/04/app-store-optimization/) (Wes)[ASO Academy](http://academy.sensortower.com/) (Wes)[Jot](https://itunes.apple.com/app/jot/id903742861?ref=producthunt) (Wes)
+[NHL94 Online](https://nhl94online.com/) (Jaim)[Podcast Movement](https://podcastmovement.com/) (Chuck)[Entrepreneur On Fire](https://www.entrepreneuronfire.com/podcast/) (Chuck)[The Eventual Millionaire](https://eventualmillionaire.com/) (Chuck)[Periscope](https://www.periscope.tv/) (Chuck)[Alex Malafeev: Increase your mobile app downloads using App Store Optimization](https://sfagilemarketing.com/2015/04/app-store-optimization/) (Wes)[ASO Academy](https://academy.sensortower.com/) (Wes)[Jot](https://itunes.apple.com/app/jot/id903742861?ref=producthunt) (Wes)
 
 ### Transcript
 

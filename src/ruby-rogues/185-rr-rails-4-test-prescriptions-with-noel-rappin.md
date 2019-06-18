@@ -16,20 +16,20 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/noelrap)
 - [<u>GitHub</u>](https://github.com/noelrappin)
-- [<u>Blog</u>](http://www.noelrappin.com/)
-- [<u>Rails 4 Test Prescriptions by Noel Rappin</u>](http://www.amazon.com/gp/product/1941222196/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1941222196&linkCode=as2&tag=chamaxwoo-20&linkId=TLUMHIK2A4LHAWJK)
-- [<u>Test-Driven Development (TDD)</u>](http://en.wikipedia.org/wiki/Test-driven_development)
-- [<u>David Heinemeier Hansson (DHH): TDD is dead. Long live testing.</u>](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
+- [<u>Blog</u>](https://www.noelrappin.com/)
+- [<u>Rails 4 Test Prescriptions by Noel Rappin</u>](https://www.amazon.com/gp/product/1941222196/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1941222196&linkCode=as2&tag=chamaxwoo-20&linkId=TLUMHIK2A4LHAWJK)
+- [<u>Test-Driven Development (TDD)</u>](https://en.wikipedia.org/wiki/Test-driven_development)
+- [<u>David Heinemeier Hansson (DHH): TDD is dead. Long live testing.</u>](https://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
 
 05:46 - Thinking About the Bigger Picture
 
-07:45 - [<u>Pair Programming</u>](http://en.wikipedia.org/wiki/Pair_programming)
+07:45 - [<u>Pair Programming</u>](https://en.wikipedia.org/wiki/Pair_programming)
 
 09:17 - Testing
 
 - Code Cleanup
-- <u><a href="http://en.wikipedia.org/wiki/Legacy_code" data-cke-saved-href="http://en.wikipedia.org/wiki/Legacy_code">Legacy Code</a></u>
-  - [<u>YAGNI (You Aren’t Gonna Need It)</u>](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it)
+- <u><a href="https://en.wikipedia.org/wiki/Legacy_code" data-cke-saved-href="https://en.wikipedia.org/wiki/Legacy_code">Legacy Code</a></u>
+  - [<u>YAGNI (You Aren’t Gonna Need It)</u>](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it)
 
 Tests as Artifacts
 
@@ -39,16 +39,16 @@ Tests as Artifacts
 
 - Be Literal
 
-21:02 - [<u>Mocking</u>](http://en.wikipedia.org/wiki/Mock_object)
+21:02 - [<u>Mocking</u>](https://en.wikipedia.org/wiki/Mock_object)
 
-- [<u>RSpec</u>](http://rspec.info/)
-- [<u>“Code Smell”</u>](http://en.wikipedia.org/wiki/Code_smell)
+- [<u>RSpec</u>](https://rspec.info/)
+- [<u>“Code Smell”</u>](https://en.wikipedia.org/wiki/Code_smell)
 
-31:00 - [<u>Fixtures</u>](http://en.wikipedia.org/wiki/Test_fixture)
+31:00 - [<u>Fixtures</u>](https://en.wikipedia.org/wiki/Test_fixture)
 
 32:26 - JavaScript Testing
 
-- [<u>Master Space and Time by JavaScript by Noel Rappin</u>](http://www.noelrappin.com/mstwjs/)
+- [<u>Master Space and Time by JavaScript by Noel Rappin</u>](https://www.noelrappin.com/mstwjs/)
 
 35:12 - Testing in the Ruby World vs JavaScript World and Where It’s Heading
 
@@ -59,21 +59,21 @@ Tests as Artifacts
 42:43 - High Value TDD Tests That Might Not Be As Valuable When Done
 
 - One Assertion Per Test
-- [<u>RSpec</u>](http://rspec.info/)
+- [<u>RSpec</u>](https://rspec.info/)
 
 45:10 - Long-Term Regression Tests
 
 46:35 - Test Times and Test Suites
 
-- [<u>Continuous Integration (CI)</u>](http://en.wikipedia.org/wiki/Continuous_integration)
+- [<u>Continuous Integration (CI)</u>](https://en.wikipedia.org/wiki/Continuous_integration)
 
 51:33 - Designing and Enforcing Good Testing Practices
 
-- [<u>“Uncanny Valley”</u>](http://en.wikipedia.org/wiki/Uncanny_valley)
+- [<u>“Uncanny Valley”</u>](https://en.wikipedia.org/wiki/Uncanny_valley)
 
 54:41 - What Not to Test
 
-- [<u>Justin Searls: The Failures of "Intro to TDD"</u>](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html)
+- [<u>Justin Searls: The Failures of "Intro to TDD"</u>](https://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html)
 
 56:23 - “Test Smell”
 

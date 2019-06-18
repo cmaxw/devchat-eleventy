@@ -40,25 +40,25 @@ tags:
 - https://www.briebug.com
 - [https://github.com/briebug](https://github.com/briebug)
 - [https://www.youtube.com/watch?v=pffEkpuZpPo](https://www.youtube.com/watch?v=pffEkpuZpPo)
-- [Slides from presentation](http://briebug.github.io/presentations/conferences/2017/ng-mix/redux-modeling-state/#/)
+- [Slides from presentation](https://briebug.github.io/presentations/conferences/2017/ng-mix/redux-modeling-state/#/)
   **Picks:\*\*** &nbsp;\*\*Charles
-- [NG Atlanta](http://ng-atl.org)
+- [NG Atlanta](https://ng-atl.org)
 - Indiegogo for View and React, and Elixir
 - Echo
   John
 - Learning more about View, React, and Angular
   Ward
-- Going to see [Star Wars](http://www.starwars.com)
+- Going to see [Star Wars](https://www.starwars.com)
   Joe
 - [NG Conf.](https://www.ng-conf.org)
-- [BrieBug.com](http://BrieBug.com)
+- [BrieBug.com](https://BrieBug.com)
 - Jesse Sanders
 - [Heroku](https://www.heroku.com)
   Alyssa
 - [Survey Results for the state of JavaScript](https://stateofjs.com)
   Jesse
 - [NG Dock io](https://www.npmjs.com/package/ng-dock-panel)
-- [Star Wars](http://www.starwars.com)
+- [Star Wars](https://www.starwars.com)
 - [Jes JS](https://www.npmjs.com/package/node-jes)
 
 ### Transcript

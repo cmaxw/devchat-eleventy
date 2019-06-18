@@ -12,21 +12,21 @@ tags:
   - podcast
 ---
 
-Check Out <u><a href="http://devchat.cachefly.net/javascriptjabber/JSJ140JennSchiffer.mp3" data-cke-saved-href="http://devchat.cachefly.net/javascriptjabber/JSJ140JennSchiffer.mp3">JS Remote Conf!</a></u>
+Check Out <u><a href="https://devchat.cachefly.net/javascriptjabber/JSJ140JennSchiffer.mp3" data-cke-saved-href="https://devchat.cachefly.net/javascriptjabber/JSJ140JennSchiffer.mp3">JS Remote Conf!</a></u>
 
 02:30 - Pieter Hintjens Introduction
 
 - [<u>Twitter</u>](https://twitter.com/hintjens)
 - [<u>GitHub</u>](https://github.com/hintjens)
-- [<u>Blog</u>](http://hintjens.com/)
-- [<u>iMatix</u>](http://www.imatix.com/)
-- [<u>Code Connected - ZeroMQ</u>](http://zeromq.org/)
-- [<u>Culture and Empire: Digital Revolution by Pieter Hintjens</u>](http://www.amazon.com/gp/product/B00GF48Z4S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GF48Z4S&linkCode=as2&tag=chamaxwoo-20&linkId=EKY5TUEASIFXLYJ6) [<u>ZeroMQ: Messaging for Many Applications by Pieter Hintjens</u>](http://www.amazon.com/gp/product/1449334067/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449334067&linkCode=as2&tag=chamaxwoo-20&linkId=G46WLGAFLPBVDFBM)
-- [<u>Culture &amp; Empire: Digital Revolution by Pieter Hintjens</u>](http://www.amazon.com/gp/product/B00GF48Z4S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GF48Z4S&linkCode=as2&tag=chamaxwoo-20&linkId=VYCGG7RKEJOXGI2D)
+- [<u>Blog</u>](https://hintjens.com/)
+- [<u>iMatix</u>](https://www.imatix.com/)
+- [<u>Code Connected - ZeroMQ</u>](https://zeromq.org/)
+- [<u>Culture and Empire: Digital Revolution by Pieter Hintjens</u>](https://www.amazon.com/gp/product/B00GF48Z4S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GF48Z4S&linkCode=as2&tag=chamaxwoo-20&linkId=EKY5TUEASIFXLYJ6) [<u>ZeroMQ: Messaging for Many Applications by Pieter Hintjens</u>](https://www.amazon.com/gp/product/1449334067/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449334067&linkCode=as2&tag=chamaxwoo-20&linkId=G46WLGAFLPBVDFBM)
+- [<u>Culture &amp; Empire: Digital Revolution by Pieter Hintjens</u>](https://www.amazon.com/gp/product/B00GF48Z4S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GF48Z4S&linkCode=as2&tag=chamaxwoo-20&linkId=VYCGG7RKEJOXGI2D)
 
 02:53 - Community Building
 
-03:27 - [<u>ZeroMQ</u>](http://zeromq.org/)
+03:27 - [<u>ZeroMQ</u>](https://zeromq.org/)
 
 05:26 - Political Organization
 
@@ -34,12 +34,12 @@ Check Out <u><a href="http://devchat.cachefly.net/javascriptjabber/JSJ140JennSch
 
 - Turn Conflict into Competition
 - Remove the Ability to Create Backdoor Deals
-- [<u>22/C4.1 - Collective Code Construction Contract</u>](http://rfc.zeromq.org/spec:22)
+- [<u>22/C4.1 - Collective Code Construction Contract</u>](https://rfc.zeromq.org/spec:22)
 
 10:11 - Collective Thinking
 
 - Being an “Expert”
-- [<u>Conway’s Law</u>](http://en.wikipedia.org/wiki/Conway's_law)
+- [<u>Conway’s Law</u>](https://en.wikipedia.org/wiki/Conway's_law)
 - Consensus
 
 13:01 - Confusion?
@@ -48,7 +48,7 @@ Check Out <u><a href="http://devchat.cachefly.net/javascriptjabber/JSJ140JennSch
 
 16:15 - The ZeroMQ Community
 
-- [<u>Pieter Hintjens: Sex in Title, and Other Stories</u>](http://hintjens.com/blog:73)
+- [<u>Pieter Hintjens: Sex in Title, and Other Stories</u>](https://hintjens.com/blog:73)
 
 18:24 - Intellectual Thievery and Doing Harm to Others
 
@@ -59,15 +59,15 @@ Check Out <u><a href="http://devchat.cachefly.net/javascriptjabber/JSJ140JennSch
 
 - Sexual Harassment
 - “Bad Actors” vs “Good Actors”
-  - [<u>Parley</u>](http://parley.rubyrogues.com/) Question: When we don’t tolerate people who struggle to be sensitive to the feelings of others, are we being intolerant?
-  - [<u>Pieter Hintjens: The Economics of Evil</u>](http://hintjens.com/blog:18)
-  - [<u>Pieter Hintjens: Children of the Fight</u>](http://hintjens.com/blog:78) (Jessica’s pick she alluded to)
+  - [<u>Parley</u>](https://parley.rubyrogues.com/) Question: When we don’t tolerate people who struggle to be sensitive to the feelings of others, are we being intolerant?
+  - [<u>Pieter Hintjens: The Economics of Evil</u>](https://hintjens.com/blog:18)
+  - [<u>Pieter Hintjens: Children of the Fight</u>](https://hintjens.com/blog:78) (Jessica’s pick she alluded to)
 
 35:43 - Encouraging Good Actors
 
-- [<u>The ZeroMQ Mailing List</u>](http://zeromq.org/docs:mailing-lists)
+- [<u>The ZeroMQ Mailing List</u>](https://zeromq.org/docs:mailing-lists)
 
-38:54 - [<u>Codes of Conduct</u>](http://en.wikipedia.org/wiki/Code_of_conduct)
+38:54 - [<u>Codes of Conduct</u>](https://en.wikipedia.org/wiki/Code_of_conduct)
 
 - “That’s not cool.”
 - 42:47 - Effective Ways to Open Communication and Removing Back Channel Communication

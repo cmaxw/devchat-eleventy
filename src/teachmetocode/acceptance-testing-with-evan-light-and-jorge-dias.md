@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-[powerpress][coulda](https://github.com/elight/coulda)[Filet](https://github.com/xing/filet)[Test::Unit](http://ruby-doc.org/stdlib/libdoc/test/unit/rdoc/classes/Test/Unit.html)Thoughts on what make good acceptance tests:
+[powerpress][coulda](https://github.com/elight/coulda)[Filet](https://github.com/xing/filet)[Test::Unit](https://ruby-doc.org/stdlib/libdoc/test/unit/rdoc/classes/Test/Unit.html)Thoughts on what make good acceptance tests:
 
 - Don’t write brittle tests
 - Communication between the coder and customer

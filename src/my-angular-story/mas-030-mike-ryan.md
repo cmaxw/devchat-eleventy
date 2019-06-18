@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-**Panel:** Charles Max Wood **Guest:** Mike Ryan This week on My Angular Story, Charles speaks with Mike Ryan. Mike is a software engineer at [Synapse](http://www.synapse-wireless.com/) in Alabama and works as a tech lead there. He first got into programming when his family stayed with an uncle during a hurricane as a child and was sent home with parts to build his first computer. This really kicked off his interest in programming and problem-solving. He then created websites to help pay for some of his living costs when in college, and this is what led him to discovering [Angular JS](https://angularjs.org/). **In particular, We dive pretty deep on:&nbsp;**
+**Panel:** Charles Max Wood **Guest:** Mike Ryan This week on My Angular Story, Charles speaks with Mike Ryan. Mike is a software engineer at [Synapse](https://www.synapse-wireless.com/) in Alabama and works as a tech lead there. He first got into programming when his family stayed with an uncle during a hurricane as a child and was sent home with parts to build his first computer. This really kicked off his interest in programming and problem-solving. He then created websites to help pay for some of his living costs when in college, and this is what led him to discovering [Angular JS](https://angularjs.org/). **In particular, We dive pretty deep on:&nbsp;**
 
 - Mike intro
 - How did you first get into programming?
@@ -27,10 +27,10 @@ tags:
 - [Angular JS](https://angularjs.org/) version 1
 - Why did Angular appeal to you?
 - Likes being able to build interactive applications
-- How did you get into doing [ngRx](http://ngrx.github.io/)
+- How did you get into doing [ngRx](https://ngrx.github.io/)
 - Building games in Angular JS and Angular
 - Army game studio
-- [Elm](http://elm-lang.org/) and [Redux](https://redux.js.org/)
+- [Elm](https://elm-lang.org/) and [Redux](https://redux.js.org/)
 - Building Redux for Angular turned into ngRx
 - What challenges did you run into when building it?
 - [NgModules](https://angular.io/guide/ngmodules)
@@ -43,11 +43,11 @@ tags:
   **Links:&nbsp;**
 - [Angular](https://angular.io/)
 - [ng Conf](https://www.ng-conf.org/)
-- [Synapse](http://www.synapse-wireless.com/)
+- [Synapse](https://www.synapse-wireless.com/)
 - [Linux](https://www.linux.org/)
 - [Angular JS](https://angularjs.org/)
-- [ngRx](http://ngrx.github.io/)
-- [Elm](http://elm-lang.org/)
+- [ngRx](https://ngrx.github.io/)
+- [Elm](https://elm-lang.org/)
 - [Redux](https://redux.js.org/)
 - [NgModules](https://angular.io/guide/ngmodules)
 - [NgForward](https://github.com/ngUpgraders/ng-forward)

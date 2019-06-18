@@ -28,20 +28,20 @@ This week on The Freelancers’ Show the panelists are Philip Morgan, Curtis McH
 - [Raymond Hettinger's talk](https://www.youtube.com/watch?v=voXVTjwnn-U)
   **Philip** :
 - [Audio Technica Mic](https://www.amazon.com/dp/B004QJOZS4/ref=sr_ph_1?ie=UTF8&qid=1499799294&sr=sr-1&keywords=atr2100)
-- [Bossjock Studio](http://bossjockstudio.com/)
+- [Bossjock Studio](https://bossjockstudio.com/)
   **Jonathan** :
 - [_Do the Work_ by Steven Pressfield](https://www.audible.com/pd/Self-Development/Do-the-Work-Audiobook/B004XINMIC?qid=1499799317&sr=1-1)
-- [www.caddyserver.com/pricing](http://www.caddyserver.com/pricing)
+- [www.caddyserver.com/pricing](https://www.caddyserver.com/pricing)
   **Curtis:**
 - [Dave Ramsey Podcast&nbsp;](https://itunes.apple.com/ca/podcast/the-dave-ramsey-show/id77001367?mt=2)
 - [Total Money Makeover&nbsp;](https://curtismchale.ca/recommends/total-money-makeover/)
 - [Profit First](https://curtismchale.ca/recommends/profit-first/)
   **Ari:**
-- http://www.censusmappingcourse.com
-- [Profitable Portfolio Blueprint](http://profitableportfolioblueprint.com)
+- https://www.censusmappingcourse.com
+- [Profitable Portfolio Blueprint](https://profitableportfolioblueprint.com)
 
 ### **Links**
 
-[www.arilamstein.com&nbsp;](http://www.arilamstein.com)
+[www.arilamstein.com&nbsp;](https://www.arilamstein.com)
 
 ### Transcript

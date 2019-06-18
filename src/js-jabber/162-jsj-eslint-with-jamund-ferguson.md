@@ -16,33 +16,33 @@ tags:
 
 - [Twitter](https://twitter.com/xjamundx)
 - [GitHub](https://github.com/xjamundx)
-- [Blog](http://j-query.blogspot.com/)
+- [Blog](https://j-query.blogspot.com/)
 - [PayPal](https://www.paypal.com/)
 - [Jamund Ferguson: JavaScript Linting](https://vimeo.com/119903352)[for Code Quality & ESLint Overview](https://vimeo.com/119903352)
 
-02:47 - [Lint](<http://en.wikipedia.org/wiki/Lint_(software)>) (Background)
+02:47 - [Lint](<https://en.wikipedia.org/wiki/Lint_(software)>) (Background)
 
-- [JSLint](http://www.jslint.com/)
-  - [Douglas Crockford](http://en.wikipedia.org/wiki/Douglas_Crockford)
-- [JSHint](http://jshint.com/)
-- [ESLint](http://eslint.org/)
+- [JSLint](https://www.jslint.com/)
+  - [Douglas Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford)
+- [JSHint](https://jshint.com/)
+- [ESLint](https://eslint.org/)
   - [[GitHub] ](https://github.com/eslint/eslint)[eslint](https://github.com/eslint/eslint)
   - [Nicholas Zakas](https://twitter.com/slicknet)
   - [[Gitter] ](https://gitter.im/eslint/eslint)[eslint](https://gitter.im/eslint/eslint)
 
 04:48 - Keeping ESLint Up-to-date
 
-- [Esprima](http://esprima.org/)
+- [Esprima](https://esprima.org/)
   - [Ariya Hidayat](https://twitter.com/AriyaHidayat)
 - [espree](https://github.com/eslint/espree)
 - [Babel](https://babeljs.io/)
   - [babel-](https://github.com/babel/babel-eslint)[eslint](https://github.com/babel/babel-eslint)
 - [ES6 (ECMAScript 6)](https://github.com/lukehoban/es6features)
 
-08:09 - [Abstract Syntax Tree (ASTs)](http://en.wikipedia.org/wiki/Abstract_syntax_tree)
+08:09 - [Abstract Syntax Tree (ASTs)](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 
 - [Jamund](https://skillsmatter.com/skillscasts/5778-don-t-be-scared-of-abstract-syntax-trees)[Ferguson: Don’t be scared of abstract syntax trees](https://skillsmatter.com/skillscasts/5778-don-t-be-scared-of-abstract-syntax-trees)
-- [Minification](<http://en.wikipedia.org/wiki/Minification_(programming)>)
+- [Minification](<https://en.wikipedia.org/wiki/Minification_(programming)>)
 - [UglifyJS](https://github.com/mishoo/UglifyJS)
 
 13:28 - Using Lint Tools
@@ -51,7 +51,7 @@ tags:
 - Aspects to Linting:
   - Code Standardization
   - Catching Bad Mistakes
-- [JSCS (JavaScript Code Style)](http://jscs.info/)
+- [JSCS (JavaScript Code Style)](https://jscs.info/)
   - “Extends”
 
 20:42 - Are there a downsides to linting?
@@ -60,12 +60,12 @@ tags:
 
 23:40 - Establishing Rules
 
-- [Bikeshedding](http://en.wiktionary.org/wiki/bikeshedding)
+- [Bikeshedding](https://en.wiktionary.org/wiki/bikeshedding)
 - Consistency
 
 25:12 - Cool ESLint Features
 
-- [handle-callback-err](http://eslint.org/docs/rules/handle-callback-err.html)
+- [handle-callback-err](https://eslint.org/docs/rules/handle-callback-err.html)
 - Not Throwing Literals
 - No Restricted Modules
   - [Jamund Ferguson: Error Handling in Node.js @ MountainWest JavaScript 2014](https://www.youtube.com/watch?v=p-2fzgfk9AA)
@@ -85,7 +85,7 @@ tags:
 
 Picks
 
-[Mozilla](https://www.mozilla.org/) (AJ)[We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) (Aimee)[Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace) by Chade-Meng Tan](http://www.amazon.com/gp/product/0062116932/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062116932&linkCode=as2&tag=chamaxwoo-20&linkId=5YS7UMT3F6VSK2FW) (Aimee)[Good Mythical Morning](https://www.youtube.com/user/rhettandlink2) (Dave)[Salt Lake City](http://www.ci.slc.ut.us/) (Dave)[BB King Calls This One Of His Best Performances](https://www.youtube.com/watch?v=LWLAAzOBoBI) (Jamison)[json](https://github.com/typicode/json-server)[-server](https://github.com/typicode/json-server) (Jamison)[Austenland](http://www.imdb.com/title/tt1985019/?ref_=nv_sr_1) (Joe)[Supergirl](http://www.imdb.com/title/tt4016454/) (Joe)[A Short History of Nearly Everything by Bill Bryson](http://www.amazon.com/gp/product/076790818X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=076790818X&linkCode=as2&tag=chamaxwoo-20&linkId=IC2VDTYLION3XW7R) (Jamund)[The Book of Mormon](<http://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)>) (Jamund)
+[Mozilla](https://www.mozilla.org/) (AJ)[We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) (Aimee)[Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace) by Chade-Meng Tan](https://www.amazon.com/gp/product/0062116932/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062116932&linkCode=as2&tag=chamaxwoo-20&linkId=5YS7UMT3F6VSK2FW) (Aimee)[Good Mythical Morning](https://www.youtube.com/user/rhettandlink2) (Dave)[Salt Lake City](https://www.ci.slc.ut.us/) (Dave)[BB King Calls This One Of His Best Performances](https://www.youtube.com/watch?v=LWLAAzOBoBI) (Jamison)[json](https://github.com/typicode/json-server)[-server](https://github.com/typicode/json-server) (Jamison)[Austenland](https://www.imdb.com/title/tt1985019/?ref_=nv_sr_1) (Joe)[Supergirl](https://www.imdb.com/title/tt4016454/) (Joe)[A Short History of Nearly Everything by Bill Bryson](https://www.amazon.com/gp/product/076790818X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=076790818X&linkCode=as2&tag=chamaxwoo-20&linkId=IC2VDTYLION3XW7R) (Jamund)[The Book of Mormon](<https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)>) (Jamund)
 
 ### Transcript
 

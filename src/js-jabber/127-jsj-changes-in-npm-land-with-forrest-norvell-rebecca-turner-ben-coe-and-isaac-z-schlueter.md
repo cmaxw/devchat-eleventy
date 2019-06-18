@@ -14,14 +14,14 @@ tags:
 
 ### Panel
 
-- Isaac Z. Schlueter ([twitter](https://twitter.com/izs)&nbsp;[github](https://github.com/isaacs)&nbsp;[blog](http://blog.izs.me/))
+- Isaac Z. Schlueter ([twitter](https://twitter.com/izs)&nbsp;[github](https://github.com/isaacs)&nbsp;[blog](https://blog.izs.me/))
 - Benjamin Coe ([twitter](https://twitter.com/benjamincoe)&nbsp;[github](https://github.com/bcoe))
-- Rebecca Turner ([twitter](https://twitter.com/ReBeccaOrg)&nbsp;[github](https://github.com/iarna)&nbsp;[blog](http://re-becca.org/))
+- Rebecca Turner ([twitter](https://twitter.com/ReBeccaOrg)&nbsp;[github](https://github.com/iarna)&nbsp;[blog](https://re-becca.org/))
 - Forrest L Norvell ([twitter](https://twitter.com/othiym23)&nbsp;[github](https://github.com/othiym23/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Dave Smith ([twitter](https://twitter.com/djsmith42)&nbsp;[github](https://github.com/bigdave)&nbsp;[blog](http://www.eighttrackmind.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Dave Smith ([twitter](https://twitter.com/djsmith42)&nbsp;[github](https://github.com/bigdave)&nbsp;[blog](https://www.eighttrackmind.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
@@ -30,19 +30,19 @@ tags:
 - Isaac Schlueter
   - [npm](https://www.npmjs.org/)
   - [@npmjs](https://twitter.com/npmjs)
-  - [Node](http://nodejs.org/)
+  - [Node](https://nodejs.org/)
 - Ben Coe
   - [npm Enterprise](https://www.npmjs.org/enterprise)
 - Forrest Norvell
   - npm Command Line Interface
 - Rebecca Turner
   03:30 - [npm2](https://www.npmjs.org/package/npm2)
-- [Scope](http://scope.sourceforge.net/)
-- [Yeoman](http://yeoman.io/)
-- [Ember CLI](http://www.ember-cli.com/)
-- [Gulp](http://gulpjs.com/)
-- [Grunt](http://gruntjs.com/)
-- [Bower](http://bower.io/)
+- [Scope](https://scope.sourceforge.net/)
+- [Yeoman](https://yeoman.io/)
+- [Ember CLI](https://www.ember-cli.com/)
+- [Gulp](https://gulpjs.com/)
+- [Grunt](https://gruntjs.com/)
+- [Bower](https://bower.io/)
 - Packages
   - [npm-me](https://www.npmjs.org/package/me)
   - [ndm](https://www.npmjs.org/package/ndm)
@@ -50,25 +50,25 @@ tags:
     07:18 - [Sem Package](https://www.npmjs.org/package/semver)
 - [node semver](https://github.com/npm/node-semver)
 - carat operator
-- [semver.org](http://semver.org/)
+- [semver.org](https://semver.org/)
 - [npm Community](https://geekli.st/community/npm)
-- [PhantomJS](http://phantomjs.org/)
-- [DASH](http://ryonakae.github.io/dash/)
+- [PhantomJS](https://phantomjs.org/)
+- [DASH](https://ryonakae.github.io/dash/)
 - [upstream](https://github.com/evanmiller/nginx_upstream_hash)
   18:12 - Balancing Existing vs. New Users
-- [Bundler](http://bundler.io/)
-- [PyPy](http://pypy.org/)
+- [Bundler](https://bundler.io/)
+- [PyPy](https://pypy.org/)
 - [@npm_tweets](https://twitter.com/npm_tweets)
 - [[GitHub] npm](https://github.com/npm)
-- [The New Deal](http://en.wikipedia.org/wiki/New_Deal)
+- [The New Deal](https://en.wikipedia.org/wiki/New_Deal)
   23:00 - New Features of npm
 - [[GitHub] Scope Packages](https://github.com/jonopus/package-scope.js)
 - [connect](https://github.com/senchalabs/connect)
-- [Express](http://expressjs.com/)
-- npm login —registry=http://mycompany.com —scope=@mycompany
+- [Express](https://expressjs.com/)
+- npm login —registry=https://mycompany.com —scope=@mycompany
 - scoped module: [package.json](https://gist.github.com/bcoe/30d20fb1346f1de5d1ba)
-- [Kraken](http://krakenjs.com/)
-- [Happy](http://happyjs.com/)
+- [Kraken](https://krakenjs.com/)
+- [Happy](https://happyjs.com/)
   28:32 - Setting Up Logins
 - [rc](https://www.npmjs.org/package/rc)
 - [Github Enterprise](https://enterprise.github.com/)
@@ -81,33 +81,33 @@ tags:
 - jump file
   - jump file.lock
     40:55 - Ecosystem Renovations/Website Collections and Ecosystems
-- [Browserify](http://browserify.org/)
+- [Browserify](https://browserify.org/)
 - [grunt npm plugins](https://www.npmjs.org/package/grunt)
 - [developer.salesforce.com/blogs](https://developer.salesforce.com/blogs/)
-  - [Salesforce](http://www.salesforce.com/)
-- [Redis](http://redis.io/)
+  - [Salesforce](https://www.salesforce.com/)
+- [Redis](https://redis.io/)
 
 ### Picks
 
-- [Dan Carlin's Hardcore History](http://www.dancarlin.com/disp.php/hharchive) (Dave)
-- [Brad Bouse - Usefulness of Uselessness (JSConf EU 2014)](http://2014.jsconf.eu/speakers/brad-bouse-usefulness-of-uselessness.html) (Jamison)
+- [Dan Carlin's Hardcore History](https://www.dancarlin.com/disp.php/hharchive) (Dave)
+- [Brad Bouse - Usefulness of Uselessness (JSConf EU 2014)](https://2014.jsconf.eu/speakers/brad-bouse-usefulness-of-uselessness.html) (Jamison)
 - [boids](https://github.com/hughsk/boids) (Jamison)
-- [5013.es](http://5013.es/) (Jamison)
-- [JAXI - The Robot](http://jaxi.s3.amazonaws.com/site/index.html) (Joe)
+- [5013.es](https://5013.es/) (Jamison)
+- [JAXI - The Robot](https://jaxi.s3.amazonaws.com/site/index.html) (Joe)
   - [Kickstarter](https://www.kickstarter.com/projects/adamdunn/jaxi-the-robot)
-- [csstyle](http://www.csstyle.io/) (Joe)
-- [Maroon 5 - V](http://www.maroon5.com/v) (Joe)
-- [Boomerang for Gmail](http://www.boomeranggmail.com/) (Chuck)
-- [Ancillary Justice (Imperial Radch) by Ann Leckie](http://www.amazon.com/gp/product/B00BAXFDLM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BAXFDLM&linkCode=as2&tag=chamaxwoo-20&linkId=SBO2EGR4RLOK3TNO) (Isaac)
-- [Roderick on the Line](http://www.merlinmann.com/roderick/) (Isaac)
-- [U2 Removal Too](http://itunes.com/soi-remove)l (Isaac)
+- [csstyle](https://www.csstyle.io/) (Joe)
+- [Maroon 5 - V](https://www.maroon5.com/v) (Joe)
+- [Boomerang for Gmail](https://www.boomeranggmail.com/) (Chuck)
+- [Ancillary Justice (Imperial Radch) by Ann Leckie](https://www.amazon.com/gp/product/B00BAXFDLM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BAXFDLM&linkCode=as2&tag=chamaxwoo-20&linkId=SBO2EGR4RLOK3TNO) (Isaac)
+- [Roderick on the Line](https://www.merlinmann.com/roderick/) (Isaac)
+- [U2 Removal Too](https://itunes.com/soi-remove)l (Isaac)
 - [nearley](https://www.npmjs.org/package/nearley) (Rebecca)
 - [The Marpa Parser](https://jeffreykegler.github.io/Marpa-web-site/) (Rebecca)
-- [DanceJS](http://dancejs.io/) (Ben)
+- [DanceJS](https://dancejs.io/) (Ben)
 - [inquirer.js](https://github.com/SBoudrias/Inquirer.js/) (Ben)
 - [ndm](https://www.npmjs.org/package/ndm) (Ben)
-- [Edna Piranha’s revisit](http://revisit.link/) (Forrest)
-- [Ta-Nehisi Coates’s Civil War](http://absurdbeats.net/tncs-civil-war/) (Forrest)
+- [Edna Piranha’s revisit](https://revisit.link/) (Forrest)
+- [Ta-Nehisi Coates’s Civil War](https://absurdbeats.net/tncs-civil-war/) (Forrest)
 
 ### Next Week
 

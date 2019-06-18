@@ -55,7 +55,7 @@ This week on My Ruby Story, Charles talks to Catherine Meyers. Catherine first g
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Red Antler](https://redantler.com/)
 - [@CCMeyers324](https://twitter.com/ccmeyers324?lang=en)
-- [CatherineMeyers.com](http://catherinecodes.com/)
+- [CatherineMeyers.com](https://catherinecodes.com/)
 
 **Picks:**
 
@@ -63,7 +63,7 @@ Charles
 
 - [_Running With the Demon_ by Terry Brooks](https://www.amazon.com/Running-Demon-Word-Void-Trilogy/dp/0345422589)
 - [_12 Rules for Life_ by Jordan B. Peterson](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021)
-- [S.W.E.A.T. Pledge](http://profoundlydisconnected.com/skill-work-ethic-arent-taboo/)
+- [S.W.E.A.T. Pledge](https://profoundlydisconnected.com/skill-work-ethic-arent-taboo/)
 
 Catherine
 

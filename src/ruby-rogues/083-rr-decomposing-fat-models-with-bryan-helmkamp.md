@@ -15,12 +15,12 @@ tags:
 ### 02:01 - Best of Parley
 
 - Code Quality by jnanney
-  02:23 - [Code School’s Ruby Bits 1 Course](http://mktg.codeschool.com/ruby-bits-1-rubyrogues/)
+  02:23 - [Code School’s Ruby Bits 1 Course](https://mktg.codeschool.com/ruby-bits-1-rubyrogues/)
 - FREE!
-  04:21 - [041 RR Code Metrics with Bryan Helmkamp](http://rubyrogues.com/041-rr-code-metrics/)04:40 - [Code Climate](https://codeclimate.com/)
-- [Blog](http://blog.codeclimate.com/)
+  04:21 - [041 RR Code Metrics with Bryan Helmkamp](https://rubyrogues.com/041-rr-code-metrics/)04:40 - [Code Climate](https://codeclimate.com/)
+- [Blog](https://blog.codeclimate.com/)
 - [Twitter](https://twitter.com/codeclimate)
-  06:21 - [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)10:05 - Don’t Extract Mixins from Fat Models
+  06:21 - [7 Patterns to Refactor Fat ActiveRecord Models](https://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)10:05 - Don’t Extract Mixins from Fat Models
 - Use composition, not inheritance
 - Mixins to patch together objects which are working together through composition
   15:49 - Recognizing an object that is hiding in a big class
@@ -28,10 +28,10 @@ tags:
 - Look for methods that have repeated words
   17:41 - Value Objects
 - Helper Methods
-  25:21 - [Why Ruby Class Methods Resist Refactoring](http://blog.codeclimate.com/blog/2012/11/14/why-ruby-class-methods-resist-refactoring/)
+  25:21 - [Why Ruby Class Methods Resist Refactoring](https://blog.codeclimate.com/blog/2012/11/14/why-ruby-class-methods-resist-refactoring/)
 - Global variables
 - When is it good to use class methods?
-  37:26 - Skinny Controllers; Fat Models 39:32 - [Your Objects, the Unix Way by John Pignata](http://blog.codeclimate.com/blog/2012/11/28/your-objects-the-unix-way/)
+  37:26 - Skinny Controllers; Fat Models 39:32 - [Your Objects, the Unix Way by John Pignata](https://blog.codeclimate.com/blog/2012/11/28/your-objects-the-unix-way/)
 - Open/Close Principle
 - Decorators
 
@@ -41,10 +41,10 @@ Zach Holman of Github
 
 ### Book Club
 
-The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](http://www.informit.com/).
+The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](https://www.informit.com/).
 
-- First create a user account: [www.informit.com/join](http://www.informit.com/join)
-- SAVE 40% When You Buy 2: [www.informit.com/ruby](http://www.informit.com/ruby)
+- First create a user account: [www.informit.com/join](https://www.informit.com/join)
+- SAVE 40% When You Buy 2: [www.informit.com/ruby](https://www.informit.com/ruby)
 - Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
 - (Includes FREE SHIPPING within the U.S.!)
 

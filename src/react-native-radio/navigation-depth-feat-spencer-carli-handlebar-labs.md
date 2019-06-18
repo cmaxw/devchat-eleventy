@@ -35,12 +35,12 @@ tags:
 - [https://medium.com/@spencer_carli](https://medium.com/@spencer_carli)
 - [https://github.com/spencercarli](https://github.com/spencercarli)
 - @HandlebarLabs
-- [org](http://reactnavigation.org)
+- [org](https://reactnavigation.org)
   &nbsp; **<u>Picks:</u>** Spencer
 - [Visual Studio App Center](https://www.visualstudio.com/app-center/)
   Nader
 - [Arrow Functions in Class Properties Might Not Be As Great As We Think](https://medium.com/@charpeni/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think-3b3551c440b1)
-- [React Native Training](http://reactnative.training)
+- [React Native Training](https://reactnative.training)
 - [HandleBar Labs](https://learn.handlebarlabs.com)
 
 ### Transcript

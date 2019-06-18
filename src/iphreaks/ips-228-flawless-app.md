@@ -28,7 +28,7 @@ tags:
 - https://twitter.com/FlawlessAppio
 - https://twitter.com/LisaDziuba
 - https://twitter.com/ahmed\_sulajman
-- http://www.dailyui.co
+- https://www.dailyui.co
 - https://bendodson.com/weblog/2017/06/16/flawless/
 - https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49
 - https://medium.com/flawless-app-stories/designed-by-engineer-76cbc6ffe34d

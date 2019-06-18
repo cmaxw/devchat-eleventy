@@ -24,7 +24,7 @@ tags:
 
 Picks
 
-[Proposal Template PDF](http://expensiveproblem.com) (Jonathan)[Existential Comics](http://existentialcomics.com/) (Reuven)
+[Proposal Template PDF](https://expensiveproblem.com) (Jonathan)[Existential Comics](https://existentialcomics.com/) (Reuven)
 
 ### Transcript
 

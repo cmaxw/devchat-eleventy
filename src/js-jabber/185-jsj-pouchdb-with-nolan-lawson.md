@@ -20,20 +20,20 @@ Check out [JS Remote Conf!](https://jsremoteconf.com/)
 
 - [Twitter](https://twitter.com/nolanlawson)
 - [GitHub](https://github.com/nolanlawson)
-- [Blog](http://nolanlawson.com/)
-- [Squarespace](http://www.squarespace.com/)
-- [Nolan Lawson: We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+- [Blog](https://nolanlawson.com/)
+- [Squarespace](https://www.squarespace.com/)
+- [Nolan Lawson: We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 
-04:19 - [PouchDB](http://pouchdb.com/) (vs [CouchDB](http://couchdb.apache.org/))
+04:19 - [PouchDB](https://pouchdb.com/) (vs [CouchDB](https://couchdb.apache.org/))
 
 - [@pouchdb](https://twitter.com/pouchdb)
 - [Mailing List](https://groups.google.com/forum/#!forum/pouchdb)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/pouchdb)
-- [Slack](http://slack.pouchdb.com/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/pouchdb)
+- [Slack](https://slack.pouchdb.com/)
 
 05:25 - CouchDB Emulation
 
-- [Mikeal Rogers](http://mikealrogers.com/)
+- [Mikeal Rogers](https://mikealrogers.com/)
 
 06:45 - How CouchDB Works
 
@@ -41,8 +41,8 @@ Check out [JS Remote Conf!](https://jsremoteconf.com/)
 
 10:43 - PouchDB vs Other Paradigms for Building Client-side Apps and Managing Data
 
-- [hood.ie](http://hood.ie/)
-- [Offline First!](http://offlinefirst.org/)
+- [hood.ie](https://hood.ie/)
+- [Offline First!](https://offlinefirst.org/)
 
 13:58 - AP Databases / CP Databases / CA Databases
 
@@ -75,17 +75,17 @@ Check out [JS Remote Conf!](https://jsremoteconf.com/)
 
 34:53 - Partitioning Data
 
-36:22 - [Getting Started](http://pouchdb.com/getting-started.html)
+36:22 - [Getting Started](https://pouchdb.com/getting-started.html)
 
 - [pouchdb-inspector](https://chrome.google.com/webstore/detail/pouchdb-inspector/hbhhpaojmpfimakffndmpmpndcmonkfa?hl=en)
 
 37:09 - Contribution
 
-- [pouchdb](http://github.com/pouchdb/pouchdb)
+- [pouchdb](https://github.com/pouchdb/pouchdb)
 - [Kent C. Dodds: First Timers Only](https://chrome.google.com/webstore/detail/pouchdb-inspector/hbhhpaojmpfimakffndmpmpndcmonkfa)
   38:53 - Upcoming FeaturesPicks
 
-[source-map-explorer](https://www.npmjs.com/package/source-map-explorer) (Jamison)[Facebook: Managing Bias Videos](https://managingbias.fb.com/) (Jamison)[Computers Are Fast](http://computers-are-fast.github.io/) (Jamison)[86 Mac Plus Vs. 07 AMD DualCore. You Won't Believe Who Wins](http://hallicino.hubpages.com/hub/_86_Mac_Plus_Vs_07_AMD_DualCore_You_Wont_Believe_Who_Wins) (Jamison)[Authy App](https://www.authy.com/personal/) (AJ)[Chip Network Channel on YouTube](https://www.youtube.com/watch?v=sHkZaeuH5Ls) (AJ)[Oregon](http://www.oregon.gov/) (AJ)[Browser Authenticator](https://daplie.github.io/browser-authenticator/) (AJ)[Node Authenticator](https://github.com/Daplie/node-authenticator) (AJ)[AngularConnect](http://angularconnect.com/) (Aimee)[Kevin Old (@kevinold)](https://twitter.com/kevinold) (Aimee)[Jordan Kasper (@jakerella)](https://twitter.com/jakerella) (Aimee)[Highrise](https://highrisehq.com/) (Chuck)[Streak](https://www.streak.com/) (Chuck)[The Accursed Kings Series by Maurice Druon](http://www.amazon.com/gp/product/B00NEO1MWY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NEO1MWY&linkCode=as2&tag=chamaxwoo-20&linkId=B4GV6OJ55CRJ3V67) (Nolan)[The Smash Brothers](https://youtu.be/NSf2mgkRm7Q?list=PLoUHkRwnRH-IXbZfwlgiEN8eXmoj6DtKM) (Nolan)[Super Smash Bros. Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee) (Nolan)
+[source-map-explorer](https://www.npmjs.com/package/source-map-explorer) (Jamison)[Facebook: Managing Bias Videos](https://managingbias.fb.com/) (Jamison)[Computers Are Fast](https://computers-are-fast.github.io/) (Jamison)[86 Mac Plus Vs. 07 AMD DualCore. You Won't Believe Who Wins](https://hallicino.hubpages.com/hub/_86_Mac_Plus_Vs_07_AMD_DualCore_You_Wont_Believe_Who_Wins) (Jamison)[Authy App](https://www.authy.com/personal/) (AJ)[Chip Network Channel on YouTube](https://www.youtube.com/watch?v=sHkZaeuH5Ls) (AJ)[Oregon](https://www.oregon.gov/) (AJ)[Browser Authenticator](https://daplie.github.io/browser-authenticator/) (AJ)[Node Authenticator](https://github.com/Daplie/node-authenticator) (AJ)[AngularConnect](https://angularconnect.com/) (Aimee)[Kevin Old (@kevinold)](https://twitter.com/kevinold) (Aimee)[Jordan Kasper (@jakerella)](https://twitter.com/jakerella) (Aimee)[Highrise](https://highrisehq.com/) (Chuck)[Streak](https://www.streak.com/) (Chuck)[The Accursed Kings Series by Maurice Druon](https://www.amazon.com/gp/product/B00NEO1MWY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NEO1MWY&linkCode=as2&tag=chamaxwoo-20&linkId=B4GV6OJ55CRJ3V67) (Nolan)[The Smash Brothers](https://youtu.be/NSf2mgkRm7Q?list=PLoUHkRwnRH-IXbZfwlgiEN8eXmoj6DtKM) (Nolan)[Super Smash Bros. Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee) (Nolan)
 
 ### Transcript
 

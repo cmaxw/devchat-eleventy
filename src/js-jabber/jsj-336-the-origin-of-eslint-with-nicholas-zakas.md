@@ -14,7 +14,7 @@ tags:
 
 **Panel:**
 
-- [Aimee Knight](http://www.aimeemarieknight.com)
+- [Aimee Knight](https://www.aimeemarieknight.com)
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en) (DevChat TV)
 - [Christopher Ferdinandi (Boston)](https://2013.boston.wordcamp.org/speakers/)
 - [Cory House (Kansas City)](https://twitter.com/housecor)
@@ -156,7 +156,7 @@ Lyme disease is spread through tick bites.
 - [jQuery](https://jquery.com)
 - [React](https://reactjs.org)
 - [Elixir](https://elixir-lang.org)
-- [Elm](http://elm-lang.org)
+- [Elm](https://elm-lang.org)
 - [Vue](https://vuejs.org)
 - [GitHub – Prettier](https://github.com/prettier/prettier)
 - [GitHub – Premier](https://github.com/Premier)

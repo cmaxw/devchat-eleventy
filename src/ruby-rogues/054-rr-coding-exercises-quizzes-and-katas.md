@@ -12,39 +12,39 @@ tags:
   - podcast
 ---
 
-02:50 -&nbsp;[RubyQuiz](http://rubyquiz.com/)
+02:50 -&nbsp;[RubyQuiz](https://rubyquiz.com/)
 
 - Practice Tactics
-  05:19 - [CodeKata](http://codekata.com/)07:20 - Learn by Play 07:56 - Have It Deployed
+  05:19 - [CodeKata](https://codekata.com/)07:20 - Learn by Play 07:56 - Have It Deployed
 - "If you're not having fun, you're doing it wrong!"
   09:29 - Ship Something Critical
-- [RubyMotion](http://www.rubymotion.com/)
+- [RubyMotion](https://www.rubymotion.com/)
 - Dig Into or Try Refactoring an Existing Project
 - [Modify the Rails Repository](https://github.com/rails/rails)
 - "If you're not having fun, you're doing it wrong!"
   15:06 - Teach Other People
 - The whole point of the refactoring is that at every step the code is not broken
-  17:17 - Experimentation While Writing Books 22:00 - Code Retreats 22:22 -&nbsp;[International Conference on Functional Programming Contest](http://www.icfpconference.org/contest.html)
+  17:17 - Experimentation While Writing Books 22:00 - Code Retreats 22:22 -&nbsp;[International Conference on Functional Programming Contest](https://www.icfpconference.org/contest.html)
 - 72 Hour Programming Contest
   26:29 - Pair Programming Playtime 28:28 - Play =? Timeboxed Spike Iteration
 - Sites that Provide Quizzes/Exercises:
-  - [Project Euler](http://projecteuler.net/)
-  - [RubyKoans](http://rubykoans.com/)
-  - [Puzzle Node](http://puzzlenode.com/)
-    33:20 -&nbsp;[NPR's Sunday Puzzle](http://www.npr.org/series/4473090/sunday-puzzle)
-- [Rubeque](http://rubeque.com/)
-  36:11 - Webster's Dictionary word list on the Mac/Linux at /usr/share/dict/words 36:59 -&nbsp;[Bookworm](http://www.games.com/game/bookworm/) (Online Game)
-- [Metagaming](http://en.wikipedia.org/wiki/Metagaming)
+  - [Project Euler](https://projecteuler.net/)
+  - [RubyKoans](https://rubykoans.com/)
+  - [Puzzle Node](https://puzzlenode.com/)
+    33:20 -&nbsp;[NPR's Sunday Puzzle](https://www.npr.org/series/4473090/sunday-puzzle)
+- [Rubeque](https://rubeque.com/)
+  36:11 - Webster's Dictionary word list on the Mac/Linux at /usr/share/dict/words 36:59 -&nbsp;[Bookworm](https://www.games.com/game/bookworm/) (Online Game)
+- [Metagaming](https://en.wikipedia.org/wiki/Metagaming)
   38:28 - What do you think about the pointlessly stupid problems like writing a Ruby quine?
-- [Qlobe](http://mamememo.blogspot.com/2010/09/qlobe.html)
+- [Qlobe](https://mamememo.blogspot.com/2010/09/qlobe.html)
   39:18 - Code Golf 40:58 - Writing Code & Reading Code
 - “You get good knowing when to obey the rules and you get great knowing when to break the rules.”
   44:56 - Practice of Learning to Solve Problems vs Learning the Language
 - Confidence in Your Coding Skills
-  48:50 -&nbsp;[David's Blog Post on Mandelbrot Sets](http://www.heartmindcode.com/blog/2010/04/twitterable-mandelbrot/)
-- [Top Coder](http://www.topcoder.com/)
-- [Code Brawl](http://codebrawl.com/)
-- [remotepairprogramming.com](http://remotepairprogramming.com/)
+  48:50 -&nbsp;[David's Blog Post on Mandelbrot Sets](https://www.heartmindcode.com/blog/2010/04/twitterable-mandelbrot/)
+- [Top Coder](https://www.topcoder.com/)
+- [Code Brawl](https://codebrawl.com/)
+- [remotepairprogramming.com](https://remotepairprogramming.com/)
 - SFMTA Clipper Card
 
 ### Transcript

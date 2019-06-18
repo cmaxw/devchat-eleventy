@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/astory) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Guest:** &nbsp;Ward Bell
@@ -29,7 +29,7 @@ In this episode of My Angular Story, Charles hosts Ward Bell, President/Co-Found
 - <u><a href="https://weill.cornell.edu/">Weill Cornell Medicine - Cornell University</a></u>
 - <u><a href="https://www.foxmovies.com/movies/hidden-figures">The Movie Hidden Figures</a></u>
 - <u><a href="https://tryapl.org/">APL</a></u>
-- [<u>General Electric</u>](http://www.ge.com)
+- [<u>General Electric</u>](https://www.ge.com)
 - <u><a href="https://www.ideablade.com/">IdeaBlade</a></u>
 - <u><a href="https://devchat.tv/adv-in-angular/aia-214-ngrx-tips-tricks-with-adrian-faciu/">AiA: NgRx Tips &amp; Tricks with Adrian Fâciu</a></u>
 - <u><a href="https://devchat.tv/adv-in-angular/aia-169-ngrx-entities-jesse-sanders/">AiA: NGRX Entities with Jesse Sanders</a></u>

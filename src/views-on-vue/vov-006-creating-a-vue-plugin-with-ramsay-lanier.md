@@ -20,14 +20,14 @@ tags:
 
 **Special Guests:** Ramsay Lanier
 
-In this episode of Views on Vue, the panelists discuss creating a[Vue](https://vuejs.org/) plugin with Ramsay Lanier. Ramsay is a front-end developer for [Novetta](http://www.novetta.com/) and spends most of his time turning fancy data into cool visualizations. He originally got his start in programming with [React](https://reactjs.org/) and is a new convert over to Vue. He talks about why he decided to create his Vue plugin and what steps he took to create it. This episode is great for people wanting to learn more about plugins and when they can best be used.
+In this episode of Views on Vue, the panelists discuss creating a[Vue](https://vuejs.org/) plugin with Ramsay Lanier. Ramsay is a front-end developer for [Novetta](https://www.novetta.com/) and spends most of his time turning fancy data into cool visualizations. He originally got his start in programming with [React](https://reactjs.org/) and is a new convert over to Vue. He talks about why he decided to create his Vue plugin and what steps he took to create it. This episode is great for people wanting to learn more about plugins and when they can best be used.
 
 **In particular, we dive pretty deep on:**
 
 - Ramsay intro
 - Recent [Vue](https://vuejs.org/) convert
 - Got his start with [React](https://reactjs.org/)
-- Side project: [WordExpress](http://wordexpress.io/)
+- Side project: [WordExpress](https://wordexpress.io/)
 - What is a Vue plugin?
 - How do you get started creating a Vue plugin?
 - [Apollo GraphQL](https://www.apollographql.com/)
@@ -52,16 +52,16 @@ In this episode of Views on Vue, the panelists discuss creating a[Vue](https://v
 
 **Links:**
 
-- [Novetta](http://www.novetta.com/)
+- [Novetta](https://www.novetta.com/)
 - [Vue](https://vuejs.org/)
 - [React](https://reactjs.org/)
-- [WordExpress](http://wordexpress.io/)
+- [WordExpress](https://wordexpress.io/)
 - [Apollo GraphQL](https://www.apollographql.com/)
 - [Vue Plugins Documentation](https://vuejs.org/v2/guide/plugins.html)
 - [Vue Router plugin](https://github.com/vuejs/vue-router)
 - [Vuex](https://vuex.vuejs.org/en/intro.html)
 - [Ramsay’s GitHub](https://github.com/ramsaylanier)
-- [RamsayLanier.com](http://ramsaylanier.com/)
+- [RamsayLanier.com](https://ramsaylanier.com/)
 - [@Rmmsy](https://twitter.com/rmmmsy)
 
 **Picks:**

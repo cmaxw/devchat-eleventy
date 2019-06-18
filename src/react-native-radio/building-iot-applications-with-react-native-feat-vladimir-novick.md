@@ -64,7 +64,7 @@ tags:
   Vladimir
 - [Rebolt](https://github.com/callstackincubator/rebolt)
 - [Rebolt-navigation](https://github.com/callstackincubator/rebolt-navigation)
-- [React Native Europe](http://react-native.eu/)
+- [React Native Europe](https://react-native.eu/)
 - [SmartHome Manager library](ovick/smarthome-m)
 
 ### Transcript

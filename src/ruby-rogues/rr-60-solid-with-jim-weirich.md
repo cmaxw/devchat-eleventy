@@ -12,37 +12,37 @@ tags:
   - podcast
 ---
 
-02:06 - EdgeCase =\>&nbsp;[New Context](http://newcontext.com/)03:23 - [SOLID Principles](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
+02:06 - EdgeCase =\>&nbsp;[New Context](https://newcontext.com/)03:23 - [SOLID Principles](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
 
 - [Uncle Bob Martin](https://sites.google.com/site/unclebobconsultingllc/)
-  04:18 - [Object-Oriented Design](http://en.wikipedia.org/wiki/Object-oriented_design)
+  04:18 - [Object-Oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design)
 - SOLID = Individual Object Design
-- Comparison to [Java](http://en.wikipedia.org/wiki/Java_%28programming_language%29) & [C++](http://en.wikipedia.org/wiki/C%2B%2B)
-  08:28 - [Interface Segregation Principle](http://en.wikipedia.org/wiki/Interface_segregation_principle)10:13 -&nbsp;[Enumerable](http://ruby-doc.org/core-1.9.3/Enumerable.html)
+- Comparison to [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29) & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+  08:28 - [Interface Segregation Principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)10:13 -&nbsp;[Enumerable](https://ruby-doc.org/core-1.9.3/Enumerable.html)
 - XML Builder
 - Shovel Operator
-- [RubyConf talk by Jim Weirich](http://www.confreaks.com/videos/185-rubyconf2009-solid-ruby)
-- [Goruco talk by Sandi Metz](http://www.confreaks.com/videos/240-goruco2009-solid-object-oriented-design)
+- [RubyConf talk by Jim Weirich](https://www.confreaks.com/videos/185-rubyconf2009-solid-ruby)
+- [Goruco talk by Sandi Metz](https://www.confreaks.com/videos/240-goruco2009-solid-object-oriented-design)
 - [Jim's Presentation on github](https://github.com/jimweirich/presentation_solid_ruby)
 - [Resque](https://github.com/defunkt/resque/)
-- [Array](http://api.rubyonrails.org/classes/Array.html)
+- [Array](https://api.rubyonrails.org/classes/Array.html)
   14:07 -&nbsp;[DCI](https://github.com/rubyworks/dci)
-- [Interface Segregation Principle](http://en.wikipedia.org/wiki/Interface_segregation_principle)
-- [Single Responsibility Principle](http://en.wikipedia.org/wiki/Single_responsibility_principle)
+- [Interface Segregation Principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+- [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 - Specify an Interface with a Test
-  15:17 -&nbsp;[ActiveModel::Lint](http://api.rubyonrails.org/classes/ActiveModel/Lint.html)16:38 -&nbsp;[Single Responsibility Principle](http://en.wikipedia.org/wiki/Single_responsibility_principle)
+  15:17 -&nbsp;[ActiveModel::Lint](https://api.rubyonrails.org/classes/ActiveModel/Lint.html)16:38 -&nbsp;[Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 - Composed Method/Compose Class Concept
   19:30 - "An object should only have one reason to change."
 - Friendship Object
 - Pain Points or Code Smells?&nbsp; Answer: TEST FIRST!
-  27:00 -&nbsp;[Plataformatec Blog Post on Why Not to Adopt Rack](http://blog.plataformatec.com.br/2012/06/why-your-web-framework-should-not-adopt-rack-api/)
-- [Liskov Substitution Principle](http://en.wikipedia.org/wiki/Liskov_substitution_principle) is the definition of [Duck Typing](http://en.wikipedia.org/wiki/Duck_typing)
-  30:34 - [Single Responsibility Principle](http://en.wikipedia.org/wiki/Single_responsibility_principle) Violation 31:26 -&nbsp;[Connascence](http://en.wikipedia.org/wiki/Connascent_software_components)
+  27:00 -&nbsp;[Plataformatec Blog Post on Why Not to Adopt Rack](https://blog.plataformatec.com.br/2012/06/why-your-web-framework-should-not-adopt-rack-api/)
+- [Liskov Substitution Principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle) is the definition of [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
+  30:34 - [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle) Violation 31:26 -&nbsp;[Connascence](https://en.wikipedia.org/wiki/Connascent_software_components)
 - Name
 - Position
 - Example of Position:&nbsp; Order of Parameters in a Calling Sequence
 - BS!
-  32:44 -&nbsp;[What Every Programmer Should Know About Object Oriented Design](http://www.amazon.com/gp/product/0932633315/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0932633315)38:30 - [Duck Typing](http://en.wikipedia.org/wiki/Duck_typing)
+  32:44 -&nbsp;[What Every Programmer Should Know About Object Oriented Design](https://www.amazon.com/gp/product/0932633315/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0932633315)38:30 - [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
 
 ### Transcript
 

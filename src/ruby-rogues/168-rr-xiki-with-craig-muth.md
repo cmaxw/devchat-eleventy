@@ -16,60 +16,60 @@ tags:
 
 - [twitter](https://twitter.com/trogdoro)
 - [github](https://github.com/trogdoro)
-- [Xiki](http://www.xiki.org/)
-- [Craig Muth Xiki Ruby Conf Talk](http://www.confreaks.com/videos/1297-rubyconf2012-xiki-the-rubyfied-next-generation-shell-console)
+- [Xiki](https://www.xiki.org/)
+- [Craig Muth Xiki Ruby Conf Talk](https://www.confreaks.com/videos/1297-rubyconf2012-xiki-the-rubyfied-next-generation-shell-console)
   04:44 - Defining Xiki
 - [Chrome Inspector](https://chrome.google.com/webstore/detail/responsive-inspector/memcdolmmnmnleeiodllgpibdjlkbpim)
-- [Code folding](http://en.wikipedia.org/wiki/Code_folding)
-- [Gooey](http://www.softpedia.com/get/Programming/SDK-DDK/tenthstone-Gooey.shtml)
-  06:22 - [gits](http://git-scm.com/download)
+- [Code folding](https://en.wikipedia.org/wiki/Code_folding)
+- [Gooey](https://www.softpedia.com/get/Programming/SDK-DDK/tenthstone-Gooey.shtml)
+  06:22 - [gits](https://git-scm.com/download)
 - [[Kickstarter] Xiki: The Command Revolution](https://www.kickstarter.com/projects/xiki/xiki-the-command-revolution)
   07:45 - Databases 08:59 - History of Xiki
-- [Emacs](http://www.gnu.org/software/emacs/)
-- [Wiki Syntax](http://code.google.com/p/support/wiki/WikiSyntax)
+- [Emacs](https://www.gnu.org/software/emacs/)
+- [Wiki Syntax](https://code.google.com/p/support/wiki/WikiSyntax)
 - [Craig Muth Xiki Strange Loop Talk](https://thestrangeloop.com/sessions/xiki-gui-and-text-interfaces-are-converging)
-- [Craig Muth Xiki QCon Talk](http://qconsf.com/sf2013/user/craig-muth.html)
+- [Craig Muth Xiki QCon Talk](https://qconsf.com/sf2013/user/craig-muth.html)
 - [Linux](https://www.linux.com/)
 - [Sublime](https://github.com/chrsm/Sublime)
-- [Vim](http://www.vim.org/scripts/index.php)
+- [Vim](https://www.vim.org/scripts/index.php)
   18:20 - Interacting with Keyboard Shortcuts
-- [Bash](http://bangsh.com/)
-- [Aquamacs](http://aquamacs.org/)
-- [Vimium](http://vimium.github.io/)
-- [Reflog](http://www.git-scm.com/docs/git-reflog)
-- [iTerm](http://iterm.sourceforge.net/)
-- [Light Table](http://www.lighttable.com/)
+- [Bash](https://bangsh.com/)
+- [Aquamacs](https://aquamacs.org/)
+- [Vimium](https://vimium.github.io/)
+- [Reflog](https://www.git-scm.com/docs/git-reflog)
+- [iTerm](https://iterm.sourceforge.net/)
+- [Light Table](https://www.lighttable.com/)
   28:32 - Adding Menus
-- [d3.js](http://d3js.org/)
-- [three.js](http://threejs.org/)
+- [d3.js](https://d3js.org/)
+- [three.js](https://threejs.org/)
   32:22 - Kickstarter Sponsors
-- [Tulio](http://www.websitelooker.net/www/tulio.com)
-- [PubNub](http://www.pubnub.com/)
+- [Tulio](https://www.websitelooker.net/www/tulio.com)
+- [PubNub](https://www.pubnub.com/)
 - [Twitter](https://twitter.com/)
   33:34 - Composability 46:03 - Emacs Lisp vs. Ruby
-- [Emacs Lisp](http://www.emacswiki.org/emacs/EmacsLisp)
-- [Perl](http://www.perl.org/)
+- [Emacs Lisp](https://www.emacswiki.org/emacs/EmacsLisp)
+- [Perl](https://www.perl.org/)
   48:51 - Getting Started with Xiki
 - [@xiki](https://twitter.com/xiki)
   55:49 - Language Integration 58:48 - Web Components of Xiki
 - [Pebble](https://getpebble.com/steel?utm_source=Bing&utm_medium=cpc&utm_term=pebble%20smart%20watch&utm_campaign=Brand_Search_Brand_+_Generic)
-- [4js](http://www.4js.com/)
+- [4js](https://www.4js.com/)
 - [[Github] xiki](https://github.com/trogdoro/xiki)
-- [TextMate](http://macromates.com/)
-- [TextMate IRC Channel](http://blog.macromates.com/2005/textmate-irc-channel/)
-- [Pastie](http://pastie.org/)
+- [TextMate](https://macromates.com/)
+- [TextMate IRC Channel](https://blog.macromates.com/2005/textmate-irc-channel/)
+- [Pastie](https://pastie.org/)
 
 ### See Also
 
-- [Proto Night: San Francisco](http://www.protonight.com/)
-- [Carla Schroder: Meet Xiki, the Revolutionary Command Shell for Linux and Mac OS X](http://www.linux.com/learn/tutorials/778419-meet-xiki-the-revolutionary-command-shell-for-linux-and-mac-os-x)
-- [John Biggs: Meet Xiki, the Revolutionary Command Shell for Linux and Mac OS X](http://techcrunch.com/2014/07/07/programmer-craig-muth-kickstarts-a-new-version-of-his-arguably-amazing-shell-xiki/)
+- [Proto Night: San Francisco](https://www.protonight.com/)
+- [Carla Schroder: Meet Xiki, the Revolutionary Command Shell for Linux and Mac OS X](https://www.linux.com/learn/tutorials/778419-meet-xiki-the-revolutionary-command-shell-for-linux-and-mac-os-x)
+- [John Biggs: Meet Xiki, the Revolutionary Command Shell for Linux and Mac OS X](https://techcrunch.com/2014/07/07/programmer-craig-muth-kickstarts-a-new-version-of-his-arguably-amazing-shell-xiki/)
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

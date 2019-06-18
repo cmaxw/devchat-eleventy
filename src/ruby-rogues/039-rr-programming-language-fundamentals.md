@@ -16,39 +16,39 @@ tags:
 
 - Why not?&nbsp; "The fundamentals are hidden by the incidentals"
   04:10 - Avdi:&nbsp; Favors C/Lisp to learn programming
-- OR [Scheme](http://groups.csail.mit.edu/mac/projects/scheme/)
+- OR [Scheme](https://groups.csail.mit.edu/mac/projects/scheme/)
   - Only 3 Operators/6 Concepts
-    04:50 - Teaching Syntax vs Concepts 05:08 -&nbsp;[SmallTalk](http://www.smalltalk.org/main/)
+    04:50 - Teaching Syntax vs Concepts 05:08 -&nbsp;[SmallTalk](https://www.smalltalk.org/main/)
 - [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
 - Originally created for [Dynabook](https://en.wikipedia.org/wiki/Dynabook)
-  06:14 - Using [BASIC](http://groups.engin.umd.umich.edu/CIS/course.des/cis400/basic/basic.html) vs SmallTalk 08:00 - Languages with Different Concepts
-- [Haskell](http://www.haskell.org/haskellwiki/Haskell)
-- [Elang](http://www.erlang.org/)
-- [AppleScript](http://developer.apple.com/library/mac/#documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html)
-- [JavaScript](http://www.javascript.com/)
-- [BASH](http://www.gnu.org/software/bash/)
+  06:14 - Using [BASIC](https://groups.engin.umd.umich.edu/CIS/course.des/cis400/basic/basic.html) vs SmallTalk 08:00 - Languages with Different Concepts
+- [Haskell](https://www.haskell.org/haskellwiki/Haskell)
+- [Elang](https://www.erlang.org/)
+- [AppleScript](https://developer.apple.com/library/mac/#documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html)
+- [JavaScript](https://www.javascript.com/)
+- [BASH](https://www.gnu.org/software/bash/)
   Thoughts: 13:11 - “Language depends on the problem you're trying to solve” 13:47 - “Any language can be a good language depending on the concepts you're conveying” 15:05 - “You can't teach experience”
-- Example -&nbsp; [Malcom Gladwell’s Outliers](http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
-  16:27 - “SmallTalk is Ruby dialect” 18:00 -&nbsp;[Object Oriented Programming](http://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep) vs [Functional Programming](http://www.haskell.org/haskellwiki/Functional_programming)
-- Use [Ruby](http://www.ruby-lang.org/en/) to teach these
+- Example -&nbsp; [Malcom Gladwell’s Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
+  16:27 - “SmallTalk is Ruby dialect” 18:00 -&nbsp;[Object Oriented Programming](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep) vs [Functional Programming](https://www.haskell.org/haskellwiki/Functional_programming)
+- Use [Ruby](https://www.ruby-lang.org/en/) to teach these
   - (OR Scheme)
   - Don't teach the edge cases first
     19:00 - "Why would you start with an Object Oriented language and not teach Objects in the first lesson?"
 - Object = Identity + State + Behavior
   21:15 - Ruby is as easy to teach as Visual Basic
 - Programming language to teach w/o programming backgrounds
-  21:52 - “The first language people learn is Excel” 23:20 -&nbsp;[Ruby 4](http://guides.rubyonrails.org/4_0_release_notes.html)
+  21:52 - “The first language people learn is Excel” 23:20 -&nbsp;[Ruby 4](https://guides.rubyonrails.org/4_0_release_notes.html)
 - Avoids ceremony
   25:20 - Programming Language Learned On:
-- Josh:&nbsp; [TI 58 Calculator](http://www.vintagecalculators.com/html/texas_insturments_ti_58.html) & [BASIC](https://en.wikipedia.org/wiki/BASIC)
-- James:&nbsp; [Synthetic Programming on a TI-85](http://stackoverflow.com/questions/142916/whats-your-favorite-programmable-calculator)&nbsp;& [Logo](<https://en.wikipedia.org/wiki/Logo_(programming_language)>)
-- Chuck:&nbsp; [TI-85](https://en.wikipedia.org/wiki/TI-85), [Pascal](<https://en.wikipedia.org/wiki/Pascal_(programming_language)>), [Logo (Turtle)](http://el.media.mit.edu/logo-foundation/logo/turtle.html) & binary/[8085 bytecodes](http://en.wikipedia.org/wiki/Intel_8085)
+- Josh:&nbsp; [TI 58 Calculator](https://www.vintagecalculators.com/html/texas_insturments_ti_58.html) & [BASIC](https://en.wikipedia.org/wiki/BASIC)
+- James:&nbsp; [Synthetic Programming on a TI-85](https://stackoverflow.com/questions/142916/whats-your-favorite-programmable-calculator)&nbsp;& [Logo](<https://en.wikipedia.org/wiki/Logo_(programming_language)>)
+- Chuck:&nbsp; [TI-85](https://en.wikipedia.org/wiki/TI-85), [Pascal](<https://en.wikipedia.org/wiki/Pascal_(programming_language)>), [Logo (Turtle)](https://el.media.mit.edu/logo-foundation/logo/turtle.html) & binary/[8085 bytecodes](https://en.wikipedia.org/wiki/Intel_8085)
   31:58 - Memory Management
-- [C](http://en.wikipedia.org/wiki/The_C_Programming_Language)
-- [Ruby Garbage Collector](http://www.rubyinside.com/how-ruby-manages-memory-and-garbage-collection-3006.html)
-- [malloc](http://www.cplusplus.com/reference/clibrary/cstdlib/malloc/)/[free](http://www.cplusplus.com/reference/clibrary/cstdlib/free/)
+- [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+- [Ruby Garbage Collector](https://www.rubyinside.com/how-ruby-manages-memory-and-garbage-collection-3006.html)
+- [malloc](https://www.cplusplus.com/reference/clibrary/cstdlib/malloc/)/[free](https://www.cplusplus.com/reference/clibrary/cstdlib/free/)
   39:12 - “Learn one language every year”
-- Example:&nbsp; [Forth](http://www.forth.com/forth/)
+- Example:&nbsp; [Forth](https://www.forth.com/forth/)
   - Lisp w/o parenthesis
   - Easy to write a compiler
 - [Prolog](https://en.wikipedia.org/wiki/Prolog)

@@ -43,7 +43,7 @@ Introduction
 
 ### Picks:
 
-[Mike Monteiro Keynote](https://vimeo.com/121082134) (Jonathan)[Shard Keychain Tool](http://www.gerbergear.com/Activity/Everyday/Tools/Shard-Keychain-Tool_22-01769) (Jonathan)[Design Is a Job](https://abookapart.com/products/design-is-a-job) (Philip)[Start With No](https://www.amazon.com/Start-Negotiating-Tools-that-Pros/dp/0609608002) (Philip)[How to Fail at Almost Everything and Still Win Big](https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4) (Reuven)&nbsp;[hired.com/freelancershow](http://www.hired.com/freelancershow)
+[Mike Monteiro Keynote](https://vimeo.com/121082134) (Jonathan)[Shard Keychain Tool](https://www.gerbergear.com/Activity/Everyday/Tools/Shard-Keychain-Tool_22-01769) (Jonathan)[Design Is a Job](https://abookapart.com/products/design-is-a-job) (Philip)[Start With No](https://www.amazon.com/Start-Negotiating-Tools-that-Pros/dp/0609608002) (Philip)[How to Fail at Almost Everything and Still Win Big](https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4) (Reuven)&nbsp;[hired.com/freelancershow](https://www.hired.com/freelancershow)
 
 ### Transcript
 

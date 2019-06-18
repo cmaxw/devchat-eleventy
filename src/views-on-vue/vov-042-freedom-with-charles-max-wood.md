@@ -17,13 +17,13 @@ tags:
 - Chris Fritz
 - Charles Max Wood 
 
-In this episode, the panel consists of Chris and Charles who talk about developer freedom. Chuck talks about his new show called [The DevRev.](http://thedevrev.com) The guys also talk about time management, answering e-mails, being self-employed, and their goals/hopes/dreams that they want to achieve in life. Check it out!
+In this episode, the panel consists of Chris and Charles who talk about developer freedom. Chuck talks about his new show called [The DevRev.](https://thedevrev.com) The guys also talk about time management, answering e-mails, being self-employed, and their goals/hopes/dreams that they want to achieve in life. Check it out!
 
 **Show Topics:**
 
 0:00 [– Advertisement – Kendo UI](https://www.telerik.com/kendo-ui)
 
-0:30 – Chuck: Hi! Today our panel is Chris and myself. My new show is [The DevRev.](http://thedevrev.com) There is a lot of aspect of our job that boil down to freedom. Figure out what they like to do and eliminate the things that they don’t like to do. I think it will be 5x a week and I will have a guest every week. What does freedom mean to you? What is your ideal coding situation where you don’t starve?
+0:30 – Chuck: Hi! Today our panel is Chris and myself. My new show is [The DevRev.](https://thedevrev.com) There is a lot of aspect of our job that boil down to freedom. Figure out what they like to do and eliminate the things that they don’t like to do. I think it will be 5x a week and I will have a guest every week. What does freedom mean to you? What is your ideal coding situation where you don’t starve?
 
 2:10 – Chris: Let me take a step-back. Why I got into coding it was even before that and it was education. I wanted to work with schools and not necessarily tied to only one school. As a programmer I cannot be asked to do things that I don’t agree with.
 
@@ -169,7 +169,7 @@ _Chuck talks about the plan for the DevRev!_
 - [React](https://reactjs.org)
 - [JavaScript](https://www.javascript.com)
 - [C#](https://www.tutorialspoint.com/csharp/)
-- [C++](http://www.cplusplus.com)
+- [C++](https://www.cplusplus.com)
 - [C++ Programming / Memory Management](https://en.wikibooks.org/wiki/C%252B%252B_Programming/Memory_Management)
 - [Angular](https://angular.io)
 - [Blazor](https://github.com/aspnet/Blazor)
@@ -184,7 +184,7 @@ _Chuck talks about the plan for the DevRev!_
 - [Ben Hong’s Twitter](https://twitter.com/bencodezen)
 - [Jacob Schatz’ Twitter](https://twitter.com/jakecodes)
 - [Vue Vixens](https://vuevixens.org)
-- [The DevRev](http://thedevrev.com)
+- [The DevRev](https://thedevrev.com)
 
 **Sponsors:**
 

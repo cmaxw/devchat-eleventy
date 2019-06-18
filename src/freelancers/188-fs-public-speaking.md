@@ -22,7 +22,7 @@ tags:
 
 09:19 - Why should I bother with public speaking?
 
-- [The Consulting Pipeline Podcast: Samuel Hulick: What Happens When You Combine Constraints and a Narrow Focus?](http://consultingpipelinepodcast.com/22)
+- [The Consulting Pipeline Podcast: Samuel Hulick: What Happens When You Combine Constraints and a Narrow Focus?](https://consultingpipelinepodcast.com/22)
 
 16:35 - People Want Your Slides / Calls to Action
 
@@ -42,7 +42,7 @@ tags:
 
 Picks
 
-[Michael Port's Steal The Show Podcast](http://stealtheshow.com/podcast/) (Jonathan)[Chris Anderson: How to Give a Killer Presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation/ar/pr) (Jonathan)[Spectacle](https://www.spectacleapp.com/) (Philip)[HP Instant Ink](https://instantink.hpconnected.com/) (Philip)[Philip Morgan: A Minimum Viable Funnel (MVF)](https://philipmorganconsulting.com/a-minimum-viable-funnel-mvf/) (Philip)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[Toastmasters](https://www.toastmasters.org/) (Chuck)
+[Michael Port's Steal The Show Podcast](https://stealtheshow.com/podcast/) (Jonathan)[Chris Anderson: How to Give a Killer Presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation/ar/pr) (Jonathan)[Spectacle](https://www.spectacleapp.com/) (Philip)[HP Instant Ink](https://instantink.hpconnected.com/) (Philip)[Philip Morgan: A Minimum Viable Funnel (MVF)](https://philipmorganconsulting.com/a-minimum-viable-funnel-mvf/) (Philip)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)[Toastmasters](https://www.toastmasters.org/) (Chuck)
 
 ### Transcript
 

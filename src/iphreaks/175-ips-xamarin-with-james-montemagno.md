@@ -15,7 +15,7 @@ tags:
 1:00: Introduction3:50: [Xamarin](https://www.xamarin.com/)
 
 - Advantages
-- Comparison with [Swift](http://www.apple.com/swift/)
+- Comparison with [Swift](https://www.apple.com/swift/)
 - Cross-platform capability
   9:15: Same-day support 12:30: Standard library
 - Apple
@@ -33,7 +33,7 @@ tags:
   22:40: Sharing code
 - Java libraries
 - [Dot.net](https://www.microsoft.com/net)
-- [Json.net](http://www.newtonsoft.com/json)
+- [Json.net](https://www.newtonsoft.com/json)
   28:00: Xamarin Forms
 - Native controls
   34:40: UWP: Universal Windows Platform
@@ -44,7 +44,7 @@ tags:
 
 ### Picks:
 
-[Clarks Shoes](http://www.clarksusa.com/us/) (Jaim)[James on React Native Radio](https://devchat.tv/react-native-radio/36-xamarin-with-james-montemango) (Charles)[STK Atlanta](http://togrp.com/restaurant/stk-atlanta/) (Charles)[Dot.net](https://www.microsoft.com/net) (James)[Monorail Espresso Seattle](https://www.facebook.com/Monorail-Espresso-117657621584837/) (James)[Merge Conflict podcast](http://www.mergeconflict.fm/) (James)
+[Clarks Shoes](https://www.clarksusa.com/us/) (Jaim)[James on React Native Radio](https://devchat.tv/react-native-radio/36-xamarin-with-james-montemango) (Charles)[STK Atlanta](https://togrp.com/restaurant/stk-atlanta/) (Charles)[Dot.net](https://www.microsoft.com/net) (James)[Monorail Espresso Seattle](https://www.facebook.com/Monorail-Espresso-117657621584837/) (James)[Merge Conflict podcast](https://www.mergeconflict.fm/) (James)
 
 ### Transcript
 

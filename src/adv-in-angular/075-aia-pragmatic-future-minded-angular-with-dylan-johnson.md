@@ -20,9 +20,9 @@ The [Conversation Gist](https://gist.github.com/anonymous/66d7b42c7c0b0f190b5d) 
 
 - [Twitter](https://twitter.com/iamdylanjohnson)
 - [GitHub](https://github.com/dylanjohnson)
-- [Blog](http://dylanjohnson.com/)
-- [Raymond James Financial](http://www.raymondjames.com/)
-- [The Pragmatic Programmer: From Journeyman to Master by Andy Hunt and Dave Thomas](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- [Blog](https://dylanjohnson.com/)
+- [Raymond James Financial](https://www.raymondjames.com/)
+- [The Pragmatic Programmer: From Journeyman to Master by Andy Hunt and Dave Thomas](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 
 05:41 - What “Pragmatic” Means
 
@@ -31,8 +31,8 @@ The [Conversation Gist](https://gist.github.com/anonymous/66d7b42c7c0b0f190b5d) 
 08:28 - Pragmatic Principles
 
 - Always Learning
-- [Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka by Vaughn Vernon](http://www.amazon.com/Reactive-Messaging-Patterns-Actor-Model/dp/0133846830/ref=sr_1_1?s=books&ie=UTF8&qid=1451771103&sr=1-1&keywords=Reactive+Messaging+Patterns)
-- [Why Functional Programming Matters by John Hughes](http://worrydream.com/refs/Hughes-WhyFunctionalProgrammingMatters.pdf)
+- [Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka by Vaughn Vernon](https://www.amazon.com/Reactive-Messaging-Patterns-Actor-Model/dp/0133846830/ref=sr_1_1?s=books&ie=UTF8&qid=1451771103&sr=1-1&keywords=Reactive+Messaging+Patterns)
+- [Why Functional Programming Matters by John Hughes](https://worrydream.com/refs/Hughes-WhyFunctionalProgrammingMatters.pdf)
 
 13:07 - [Stone Soup](https://en.wikipedia.org/wiki/Stone_Soup)
 
@@ -40,11 +40,11 @@ The [Conversation Gist](https://gist.github.com/anonymous/66d7b42c7c0b0f190b5d) 
 
 - “Why should I go learn ‘x’ when I know ‘y’?”
 
-21:58 - [TypeScript](http://www.typescriptlang.org/)
+21:58 - [TypeScript](https://www.typescriptlang.org/)
 
 - [Mixins](https://en.wikipedia.org/wiki/Mixin)
-- [Reginald Braithwaite: JavaScript Mixins, Subclass Factories, and Method Advice](http://raganwald.com/2015/12/28/mixins-subclass-factories-and-method-advice.html)
-- [Let me google that for you (LMGTY)](http://lmgtfy.com/)
+- [Reginald Braithwaite: JavaScript Mixins, Subclass Factories, and Method Advice](https://raganwald.com/2015/12/28/mixins-subclass-factories-and-method-advice.html)
+- [Let me google that for you (LMGTY)](https://lmgtfy.com/)
 
 33:30 - How do we apply these ideas to Angular 2?
 
@@ -63,7 +63,7 @@ The [Conversation Gist](https://gist.github.com/anonymous/66d7b42c7c0b0f190b5d) 
 - [NG6-starter](https://github.com/AngularClass/NG6-starter)
   Picks
 
-More sleep (Ward)[awesome-nodejs (A curated list of delightful Node.js packages and resources)](https://github.com/sindresorhus/awesome-nodejs) (John)[Exploding Kittens](http://www.explodingkittens.com/) (John)[Reactive Programming with RxJS Untangle Your Asynchronous JavaScript Code by Sergi Mansilla](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs) (Lukas)[Greg Wilson: What We Actually Know About Software Development, and Why We Believe It's True](https://vimeo.com/9270320) (Joe)[Star Wars: The Force Awakens Soundtrack](http://www.amazon.com/Star-Wars-The-Force-Awakens/dp/B014V6JIQK) (Joe)[The Pragmatic Programmer: From Journeyman to Master by Andy Hunt and Dave Thomas](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X) (Dylan)[The Pragmatic Programmer Wiki](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) (Dylan)[ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/) (Dylan)[TypeScript Deep Dive by Basarat Ali Syed](https://basarat.gitbooks.io/typescript/) (Dylan)
+More sleep (Ward)[awesome-nodejs (A curated list of delightful Node.js packages and resources)](https://github.com/sindresorhus/awesome-nodejs) (John)[Exploding Kittens](https://www.explodingkittens.com/) (John)[Reactive Programming with RxJS Untangle Your Asynchronous JavaScript Code by Sergi Mansilla](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs) (Lukas)[Greg Wilson: What We Actually Know About Software Development, and Why We Believe It's True](https://vimeo.com/9270320) (Joe)[Star Wars: The Force Awakens Soundtrack](https://www.amazon.com/Star-Wars-The-Force-Awakens/dp/B014V6JIQK) (Joe)[The Pragmatic Programmer: From Journeyman to Master by Andy Hunt and Dave Thomas](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X) (Dylan)[The Pragmatic Programmer Wiki](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) (Dylan)[ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/) (Dylan)[TypeScript Deep Dive by Basarat Ali Syed](https://basarat.gitbooks.io/typescript/) (Dylan)
 
 ### Transcript
 

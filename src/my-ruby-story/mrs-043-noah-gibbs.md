@@ -41,7 +41,7 @@ This week on My Ruby Story, Charles talks to Noah Gibbs. Noah works currently at
 - Building deep device software
 - Making stuff for people that aren’t programmers is hard, but gratifying
 - What are you most proud of contributing to the Ruby community?
-- [Rebuilding Rails](http://rebuilding-rails.com/)
+- [Rebuilding Rails](https://rebuilding-rails.com/)
 - And much, much more!
 
 **Links:**
@@ -51,10 +51,10 @@ This week on My Ruby Story, Charles talks to Noah Gibbs. Noah works currently at
 - [Ruby Weekly](https://rubyweekly.com/)
 - [Ruby on Rails](https://rubyonrails.org/)
 - [Ruby on Rails 15-minute blog video](https://www.youtube.com/watch?v=Gzj723LkRJY&feature=youtu.be)
-- [Rebuilding Rails](http://rebuilding-rails.com/)
+- [Rebuilding Rails](https://rebuilding-rails.com/)
 - [@codefolio](https://twitter.com/codefolio?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Noah’s GitHub](https://github.com/noahgibbs)
-- [Engineering.AppFolio.com](http://engineering.appfolio.com/)
+- [Engineering.AppFolio.com](https://engineering.appfolio.com/)
 - [@AppfolioEng](https://twitter.com/appfolioeng)
 
 **Picks:**
@@ -69,7 +69,7 @@ Charles
 Noah
 
 - [Aaron Rutten Art Tutorials](https://aaronrutten.com/tutorial-videos.html)
-- [Parslet](http://kschiess.github.io/parslet/)
+- [Parslet](https://kschiess.github.io/parslet/)
 - [Fondant Potatoes](https://www.youtube.com/watch?v=XOatJPocjDo)
 
 ### Transcript

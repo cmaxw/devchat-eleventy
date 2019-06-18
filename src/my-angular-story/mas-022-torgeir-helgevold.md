@@ -30,7 +30,7 @@ tags:
   **Links:&nbsp;**
 - [AiA Episode 108](https://devchat.tv/adv-in-angular/108-aia-web-workers-in-angular-with-torgeir-helgevold)
 - [Narwhal Technologies](https://nrwl.io/nx)
-- [http://www.syntaxsuccess.com](http://www.syntaxsuccess.com)
+- [https://www.syntaxsuccess.com](https://www.syntaxsuccess.com)
 - **@** helgevold
   **Picks** Torgeir
 - [Alex Eagle - Bazel](https://github.com/alexeagle)

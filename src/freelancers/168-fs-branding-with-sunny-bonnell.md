@@ -22,11 +22,11 @@ tags:
 01:38 - Archetyping
 
 - [Is Your Brand the Rebel, Hero or Lover? Discovering Brand Archetypes](https://www.linkedin.com/pulse/your-brand-rebel-hero-lover-discovering-archetypes-sunny-bonnell?trk=prof-post)
-- [Understanding The Brand Archetype](http://dsvc.org/events/28/understanding-the-brand-archetype)
+- [Understanding The Brand Archetype](https://dsvc.org/events/28/understanding-the-brand-archetype)
 
 05:48 - Is archetyping important for the solopreneur?
 
-- [Johnny Cupcakes](http://johnnycupcakes.com/)
+- [Johnny Cupcakes](https://johnnycupcakes.com/)
 
 12:21 - Identifying \*Your\* Archetype
 
@@ -34,7 +34,7 @@ tags:
 
 21:44 - What do you do once you choose your archetype?
 
-- [Munk Pack](http://www.munkpack.com/)
+- [Munk Pack](https://www.munkpack.com/)
 - [Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain)
 
 25:12 - Implementing Motto’s Archetype
@@ -51,23 +51,23 @@ tags:
 
 49:14 - The Audience
 
-- [TOMS Shoes](http://www.toms.com/)
+- [TOMS Shoes](https://www.toms.com/)
 
 51:51 - Changing Archetypes
 
-- [Levi's](http://www.levi.com/)
+- [Levi's](https://www.levi.com/)
   &nbsp;
 
 Extras
 
-- [Best Advice I Ever Got: Don't Be a Slave to the Ordinary](http://www.inc.com/young-entrepreneur-council/best-advice-i-ever-got-dont-be-a-slave-to-the-ordinary.html)
-- [10 Ways to Find Your Purpose as a Designer](http://www.howdesign.com/how-magazine/july-2014/10-ways-find-purpose-designer/)
-- [12 Principles For Leading An Extraordinary Company](http://www.forbes.com/sites/yec/2014/04/03/12-principles-for-leading-an-extraordinary-company/)
-- [Five questions to get to the heart of your business](http://www.chicagotribune.com/bluesky/hub/chi-yec-branding-your-startup-bsi-hub-story.html)
-- [Follow Your “Why,” Not Your “What”](http://99u.com/workbook/31337/dont-lead-with-what-you-do-but-why-you-do-it)
+- [Best Advice I Ever Got: Don't Be a Slave to the Ordinary](https://www.inc.com/young-entrepreneur-council/best-advice-i-ever-got-dont-be-a-slave-to-the-ordinary.html)
+- [10 Ways to Find Your Purpose as a Designer](https://www.howdesign.com/how-magazine/july-2014/10-ways-find-purpose-designer/)
+- [12 Principles For Leading An Extraordinary Company](https://www.forbes.com/sites/yec/2014/04/03/12-principles-for-leading-an-extraordinary-company/)
+- [Five questions to get to the heart of your business](https://www.chicagotribune.com/bluesky/hub/chi-yec-branding-your-startup-bsi-hub-story.html)
+- [Follow Your “Why,” Not Your “What”](https://99u.com/workbook/31337/dont-lead-with-what-you-do-but-why-you-do-it)
   &nbsp;Picks
 
-[Circa Notebooks](http://www.levenger.com/circa-notebooks-339.aspx) (Jonathan)[Expensive Problem Coaching Call](https://expensiveproblem.com/call) (Jonathan)[Naomi Dunford: What Is Price Anchoring? (And Should You Do It?)](http://ittybiz.com/what-is-price-anchoring/) (Eric) Setting a goal, making a plan, and executing a plan (Chuck)[Masters of Sex](http://www.imdb.com/title/tt2137109/) (Sunny)[Readymag](https://readymag.com/) (Sunny)[Niice](https://niice.co/) (Sunny)[Yellow108](http://www.yellow108.com/) (Sunny)
+[Circa Notebooks](https://www.levenger.com/circa-notebooks-339.aspx) (Jonathan)[Expensive Problem Coaching Call](https://expensiveproblem.com/call) (Jonathan)[Naomi Dunford: What Is Price Anchoring? (And Should You Do It?)](https://ittybiz.com/what-is-price-anchoring/) (Eric) Setting a goal, making a plan, and executing a plan (Chuck)[Masters of Sex](https://www.imdb.com/title/tt2137109/) (Sunny)[Readymag](https://readymag.com/) (Sunny)[Niice](https://niice.co/) (Sunny)[Yellow108](https://www.yellow108.com/) (Sunny)
 
 ### Transcript
 

@@ -14,10 +14,10 @@ tags:
 
 02:24 - Robert Damphousse Introduction
 
-02:40 - [OAuth](http://oauth.net/)
+02:40 - [OAuth](https://oauth.net/)
 
-- [OpenID](http://openid.net/)
-- [JWT](http://jwt.io/)
+- [OpenID](https://openid.net/)
+- [JWT](https://jwt.io/)
 
 07:15 - [Stormpath](https://stormpath.com/)
 
@@ -29,7 +29,7 @@ tags:
 
 11:29 - Stormpath Authentication vs OAuth Authentication
 
-- [Resource Owner Password Credentials Grant](http://oauthlib.readthedocs.org/en/latest/oauth2/grants/password.html)
+- [Resource Owner Password Credentials Grant](https://oauthlib.readthedocs.org/en/latest/oauth2/grants/password.html)
 
 14:43 - Caching
 
@@ -37,7 +37,7 @@ tags:
 
 18:21 - Security
 
-19:12 - Using [Cassandra](http://cassandra.apache.org/)
+19:12 - Using [Cassandra](https://cassandra.apache.org/)
 
 - [Stormpath in Planet Cassandra: 50k Accounts Imported in Under 200ms](https://stormpath.com/blog/stormpath-planet-cassandra-50k-accounts-imported-under-200ms/)
 
@@ -45,7 +45,7 @@ tags:
 
 22:27 - Authentication as a Service
 
-23:40 - [2FA (Two Factor Authentication)](http://en.wikipedia.org/wiki/Two_factor_authentication)?
+23:40 - [2FA (Two Factor Authentication)](https://en.wikipedia.org/wiki/Two_factor_authentication)?
 
 24:07 - REST APIs
 
@@ -70,13 +70,13 @@ tags:
 
 35:09 - Customers
 
-36:12 - [Active Directory](http://en.wikipedia.org/wiki/Active_Directory), [LDAP (Lightweight Directory Access Protocol)](http://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
+36:12 - [Active Directory](https://en.wikipedia.org/wiki/Active_Directory), [LDAP (Lightweight Directory Access Protocol)](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
 
 37:05 - Support and Pricing
 
 Picks
 
-Putting the "fun" back in "funeral"! Celebrating the death of old IE browsers on January 12! (Dave)[Giant Star Wars LEGO Super Star Destroyer Shattered at 1000 fps | Battle Damage](https://www.youtube.com/watch?v=PN_AMSlNocE) (Dave)[GitLab](https://about.gitlab.com/) (Dave)[Allen Pike: JavaScript Framework Fatigue](http://www.allenpike.com/2015/javascript-framework-fatigue/) (Aimee)[The Cult of](https://medium.com/digital-nomad-stories/the-cult-of-work-you-never-meant-to-join-cd965fb9ea1a)[Work](https://medium.com/digital-nomad-stories/the-cult-of-work-you-never-meant-to-join-cd965fb9ea1a)[You Never Meant to Join](https://medium.com/digital-nomad-stories/the-cult-of-work-you-never-meant-to-join-cd965fb9ea1a) (Aimee)[Serial](http://serialpodcast.org/) (AJ)[HotPlate](https://gist.github.com/coolaj86/6033171) (AJ)[Design Patterns in C](https://stackoverflow.com/questions/4112796/are-there-any-design-patterns-in-c/9125140#9125140) (AJ)[OAuth3](https://oauth3.org) (AJ)[JS Remote Conf Videos](https://www.youtube.com/playlist?list=PLt8NYnKC3dzL95z5xksIZHxFjErPlC3Xq) (Chuck)[Ruby Remote Conf](http://www.rubyremoteconf.com) (Chuck)[Traction: Get a Grip on Your Business by Gino Wickman](http://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=A76OJRG2XKTDC64R) (Chuck)[Startups For the Rest of Us](http://www.startupsfortherestofus.com/) (Chuck)[The Guest House: A Poem](http://mrsmindfulness.com/guest-house-poem/) (Robert)[The Hiring Post](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/) (Robert)[Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) (Robert)
+Putting the "fun" back in "funeral"! Celebrating the death of old IE browsers on January 12! (Dave)[Giant Star Wars LEGO Super Star Destroyer Shattered at 1000 fps | Battle Damage](https://www.youtube.com/watch?v=PN_AMSlNocE) (Dave)[GitLab](https://about.gitlab.com/) (Dave)[Allen Pike: JavaScript Framework Fatigue](https://www.allenpike.com/2015/javascript-framework-fatigue/) (Aimee)[The Cult of](https://medium.com/digital-nomad-stories/the-cult-of-work-you-never-meant-to-join-cd965fb9ea1a)[Work](https://medium.com/digital-nomad-stories/the-cult-of-work-you-never-meant-to-join-cd965fb9ea1a)[You Never Meant to Join](https://medium.com/digital-nomad-stories/the-cult-of-work-you-never-meant-to-join-cd965fb9ea1a) (Aimee)[Serial](https://serialpodcast.org/) (AJ)[HotPlate](https://gist.github.com/coolaj86/6033171) (AJ)[Design Patterns in C](https://stackoverflow.com/questions/4112796/are-there-any-design-patterns-in-c/9125140#9125140) (AJ)[OAuth3](https://oauth3.org) (AJ)[JS Remote Conf Videos](https://www.youtube.com/playlist?list=PLt8NYnKC3dzL95z5xksIZHxFjErPlC3Xq) (Chuck)[Ruby Remote Conf](https://www.rubyremoteconf.com) (Chuck)[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=A76OJRG2XKTDC64R) (Chuck)[Startups For the Rest of Us](https://www.startupsfortherestofus.com/) (Chuck)[The Guest House: A Poem](https://mrsmindfulness.com/guest-house-poem/) (Robert)[The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/) (Robert)[Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) (Robert)
 
 ### Transcript
 

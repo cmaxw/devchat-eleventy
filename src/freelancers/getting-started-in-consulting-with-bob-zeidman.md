@@ -30,7 +30,7 @@ Becoming a consultant is not easy. According to Bob, it's about word of the mout
 
 ## Get Connected
 
-Send Bob Zeidman&nbsp;a message at bob@zeidmanconsulting.com or connect with&nbsp;him at [Zeidman Consulting](http://www.zeidmanconsulting.com/).&nbsp;Let Bob&nbsp;know you heard about him&nbsp;on Devchat.tv’s Freelancers podcast!
+Send Bob Zeidman&nbsp;a message at bob@zeidmanconsulting.com or connect with&nbsp;him at [Zeidman Consulting](https://www.zeidmanconsulting.com/).&nbsp;Let Bob&nbsp;know you heard about him&nbsp;on Devchat.tv’s Freelancers podcast!
 
 ## Picks:
 
@@ -38,7 +38,7 @@ Philip: OWC dual drive Thunderbolt external dock Bob: ThinOPTICS foldable readin
 
 ## Episode Links:
 
-[Zeidman Consulting](http://www.zeidmanconsulting.com/)[SAFE Corporation](https://www.safe-corp.com/company_mgmt.htm)
+[Zeidman Consulting](https://www.zeidmanconsulting.com/)[SAFE Corporation](https://www.safe-corp.com/company_mgmt.htm)
 
 ### Transcript
 

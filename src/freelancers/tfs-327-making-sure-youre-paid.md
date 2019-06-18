@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors:**
 
-- [Sentry](http://sentry.io/)– use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/)– use the code “devchat” for $100 credit
 - [.TECH](https://get.tech/)&nbsp;–&nbsp;[Go.tech/Freelancer](https://get.tech/?&coupon=Freelancer.tech&utm_source=Influencer&utm_medium=Podcast&utm_campaign=FreelancerShow)&nbsp;and use the coupon code “ **FREELANCER.TECH** ” and get a 1 year .TECH Domain at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)
 
@@ -31,21 +31,21 @@ In this episode of the Freelancers' Show, the panel talks to Steve Pomerantz, Fo
 - [Steve's LinkedIN](https://www.linkedin.com/in/stevepomerantz/)
 - [Freelance Collection Twitter](https://twitter.com/fl_collection)
 - [Freelance Collection](https://www.freelancecollection.com/)
-- [20 Types of Nonpaying Clients and Strategies for Getting Paid](http://www.freelancecollection.com/devchat)
+- [20 Types of Nonpaying Clients and Strategies for Getting Paid](https://www.freelancecollection.com/devchat)
 
 ### **Picks:**
  **Jeremy Green:**
 - [How to Fight a Hydra](https://joshkaufman.net/how-to-fight-a-hydra/)
 - [Lawgood.io](https://lawgood.io/)
 **Jeremy Green:**
-- [Apply to be an Author](http://HitSubscribe.com/)
-- [Dev Community](http://dev.to)
+- [Apply to be an Author](https://HitSubscribe.com/)
+- [Dev Community](https://dev.to)
 **Reuven Lerner:**
 - [Mission to Zyxx](https://missiontozyxx.space/)
 **Steve Pomerantz:**
-- [And Co](http://www.and.co)
-- [HelloBonsai.com](http://HelloBonsai.com)
-- [20 Types of Nonpaying Clients and Strategies for Getting Paid](http://www.freelancecollection.com/devchat)
+- [And Co](https://www.and.co)
+- [HelloBonsai.com](https://HelloBonsai.com)
+- [20 Types of Nonpaying Clients and Strategies for Getting Paid](https://www.freelancecollection.com/devchat)
 - [TMZ Video](https://youtu.be/PTX4SzlcfaI)
 
 

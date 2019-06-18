@@ -15,24 +15,24 @@ tags:
 01:42 - James Montemagno Introduction
 
 - [<u>Twitter</u>](https://twitter.com/jamesmontemagno)
-- [<u>GitHub</u>](http://www.github.com/JamesMontemagno)
-- [<u>Blog</u>](http://motzcod.es/)
+- [<u>GitHub</u>](https://www.github.com/JamesMontemagno)
+- [<u>Blog</u>](https://motzcod.es/)
 
 02:42 - Printer Software Development
 
 04:50 - Moving to Mobile Development
 
-- [<u>CES (Consumer Electronics Show)</u>](http://www.cesweb.org/)
+- [<u>CES (Consumer Electronics Show)</u>](https://www.cesweb.org/)
 
-06:19 - [<u>Xamarin</u>](http://xamarin.com/)
+06:19 - [<u>Xamarin</u>](https://xamarin.com/)
 
 - [<u>@xamarinhq</u>](https://twitter.com/xamarinhq)
 - [<u>[GitHub] Xamarin</u>](https://github.com/xamarin)
-- [<u>The iPhreaks Show Episode #081: Xamarin with Frank Krueger</u>](http://devchat.tv/iphreaks/081-iphreaks-show-xamarin-with-frank-krueger)
+- [<u>The iPhreaks Show Episode #081: Xamarin with Frank Krueger</u>](https://devchat.tv/iphreaks/081-iphreaks-show-xamarin-with-frank-krueger)
 
 08:19 - Cross-Platform Development
 
-- [<u>Code Reuse</u>](http://en.wikipedia.org/wiki/Code_reuse)
+- [<u>Code Reuse</u>](https://en.wikipedia.org/wiki/Code_reuse)
 
 11:37 - Companies and Libraries (Sharing Libraries)
 
@@ -46,14 +46,14 @@ tags:
 
 - [<u>MVVM Light</u>](https://mvvmlight.codeplex.com/)
 - [<u>MvvmCross</u>](https://github.com/MvvmCross/MvvmCross)
-- [<u>Mike James: Code Sharing Strategies for iOS &amp; Mac</u>](http://blog.xamarin.com/code-sharing-strategies-for-ios-mac/)
+- [<u>Mike James: Code Sharing Strategies for iOS &amp; Mac</u>](https://blog.xamarin.com/code-sharing-strategies-for-ios-mac/)
 - Edgecases
 
 21:00 - Developing On the Watch with Xamarin
 
-- [<u>The iPhreaks Show Episode #082: WatchKit with Carl Brown</u>](http://devchat.tv/iphreaks/082-iphreaks-show-watchkit-with-carl-brown)
+- [<u>The iPhreaks Show Episode #082: WatchKit with Carl Brown</u>](https://devchat.tv/iphreaks/082-iphreaks-show-watchkit-with-carl-brown)
 
-23:52 - [<u>Android Wear</u>](http://www.android.com/wear/) vs Watch (Wearables)
+23:52 - [<u>Android Wear</u>](https://www.android.com/wear/) vs Watch (Wearables)
 
 - Synchronization
   - [<u>Google Play Services</u>](https://developer.android.com/google/play-services/)
@@ -62,7 +62,7 @@ tags:
 - Committing to and Investing in a Platform
   Picks
 
-[<u>Smokette Elite Model SM025 Electric Smoker</u>](http://www.cookshack.com/store/Smokers_2/Smokette-Elite-Model-SM025) (Jaim)[<u>Monodraw</u>](http://monodraw.helftone.com/) (Andrew)[<u>The LightBlue Bean</u>](https://punchthrough.com/bean/) (Andrew)[<u>The Three Fives Kit: A Discrete 555 Timer</u>](http://shop.evilmadscientist.com/productsmenu/tinykitlist/652) (Andrew)[<u>Refactoring to Patterns by by Joshua Kerievsky</u>](http://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351/ref=sr_1_1?s=books&ie=UTF8&qid=1425497228&sr=1-1&keywords=refactoring+to+patterns) (Alondo)[<u>Ray Wenderlich: iOS 8 by Tutorials</u>](http://www.raywenderlich.com/store/ios-8-by-tutorials) (Alondo)[<u>Ready Player One by Ernest Cline</u>](http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448) (James)[<u>Strava</u>](http://www.strava.com/) (James)[<u>Tavour</u>](https://www.tavour.com) (James)[<u>graze</u>](https://www.graze.com/us/home) (James)
+[<u>Smokette Elite Model SM025 Electric Smoker</u>](https://www.cookshack.com/store/Smokers_2/Smokette-Elite-Model-SM025) (Jaim)[<u>Monodraw</u>](https://monodraw.helftone.com/) (Andrew)[<u>The LightBlue Bean</u>](https://punchthrough.com/bean/) (Andrew)[<u>The Three Fives Kit: A Discrete 555 Timer</u>](https://shop.evilmadscientist.com/productsmenu/tinykitlist/652) (Andrew)[<u>Refactoring to Patterns by by Joshua Kerievsky</u>](https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351/ref=sr_1_1?s=books&ie=UTF8&qid=1425497228&sr=1-1&keywords=refactoring+to+patterns) (Alondo)[<u>Ray Wenderlich: iOS 8 by Tutorials</u>](https://www.raywenderlich.com/store/ios-8-by-tutorials) (Alondo)[<u>Ready Player One by Ernest Cline</u>](https://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448) (James)[<u>Strava</u>](https://www.strava.com/) (James)[<u>Tavour</u>](https://www.tavour.com) (James)[<u>graze</u>](https://www.graze.com/us/home) (James)
 
 ### Transcript
 

@@ -21,7 +21,7 @@ tags:
 - Being an emotional developer
 - Generational expectations of your job
 - The definition of work has changed!
-- [Knowledge worker](http://searchcrm.techtarget.com/definition/knowledge-worker)
+- [Knowledge worker](https://searchcrm.techtarget.com/definition/knowledge-worker)
 - Being an older and experience
 - Working with new developers, and finding developers with experience
 - Doing the brown-bag lunch
@@ -31,7 +31,7 @@ tags:
   **Links:&nbsp;**
 - [We fired our top developer…](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde)
 - [Gitlab](https://about.gitlab.com)
-- [Get Data Chops](http://getdatachops.com/)
+- [Get Data Chops](https://getdatachops.com/)
   **Picks:** David
 - [Holding the Powerful Accountable](https://medium.com/data-journalism-awards/holding-the-powerful-accountable-using-data-f0bd5ebb24e3)
 - [Machine Learning Mastery&nbsp;](https://machinelearningmastery.com)

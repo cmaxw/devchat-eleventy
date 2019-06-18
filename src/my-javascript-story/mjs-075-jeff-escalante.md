@@ -40,7 +40,7 @@ This week on My JavaScript Story, Charles speaks with Jeff Escalante. Jeff is in
 - [jQuery](https://jquery.com/) and [Rails](https://rubyonrails.org/)
 - Becoming a well-rounded developer
 - Got in during the Rails heyday
-- [Backbone](http://backbonejs.org/)
+- [Backbone](https://backbonejs.org/)
 - Learning on the job
 - Bootcamps
 - And much, much more!
@@ -54,7 +54,7 @@ This week on My JavaScript Story, Charles speaks with Jeff Escalante. Jeff is in
 - [React](https://reactjs.org/)
 - [jQuery](https://jquery.com/)
 - [Rails](https://rubyonrails.org/)
-- [Backbone](http://backbonejs.org/)
+- [Backbone](https://backbonejs.org/)
 - [jeffescalante.com](https://jeffescalante.com/)
 - [Jeff’s GitHub](https://github.com/jescalan)
 - [Jeff’s Medium](https://medium.com/@jescalan)

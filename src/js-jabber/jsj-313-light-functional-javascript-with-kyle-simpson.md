@@ -61,7 +61,7 @@ In this episode, the JavaScript Jabber panelists discuss light functional [JavaS
 
 Aimee
 
-- [_What Does Code Readability Mean?_](http://typicalprogrammer.com/what-does-code-readability-mean)
+- [_What Does Code Readability Mean?_](https://typicalprogrammer.com/what-does-code-readability-mean)
 - [@FunctionalKnox](https://twitter.com/functionalknox?lang=en)
 - [HTTP 203 Podcast](https://itunes.apple.com/us/podcast/http-203/id1042283903?mt=2)
 

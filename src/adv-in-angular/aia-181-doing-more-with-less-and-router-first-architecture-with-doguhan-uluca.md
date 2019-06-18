@@ -22,14 +22,14 @@ tags:
 
 **Special Guests:** Doguhan Uluca
 
-In this episode of Adventures in Angular, the panel discusses doing more with less and router-first architecture with Doguhan Uluca. Doguhan works for a consulting company in Washington D.C. called [Excella](https://www.excella.com/), where he is on the JavaScipt Special fleet and is a software development expert. He is also the founder of the [Tech Talk DC](https://www.meetup.com/TechTalkDC/) meetup and organized the [DC Full Stack Dev Summit](http://www.dcfullstack.com/) last year. They talk about doing more with less with code and the importance of deleting code that is unnecessary. Also, they discuss router-first architecture and how it can be used to your advantage in your coding.
+In this episode of Adventures in Angular, the panel discusses doing more with less and router-first architecture with Doguhan Uluca. Doguhan works for a consulting company in Washington D.C. called [Excella](https://www.excella.com/), where he is on the JavaScipt Special fleet and is a software development expert. He is also the founder of the [Tech Talk DC](https://www.meetup.com/TechTalkDC/) meetup and organized the [DC Full Stack Dev Summit](https://www.dcfullstack.com/) last year. They talk about doing more with less with code and the importance of deleting code that is unnecessary. Also, they discuss router-first architecture and how it can be used to your advantage in your coding.
 
 **In particular, we dive pretty deep on:**
 
 - Doguhan intro
 - [Excella Consulting Company](https://www.excella.com/)
 - [Tech Talk DC](https://www.meetup.com/TechTalkDC/)
-- [DC Full Stack Dev Summit](http://www.dcfullstack.com/)
+- [DC Full Stack Dev Summit](https://www.dcfullstack.com/)
 - Being a polyglot is great, but in practice it is very difficult
 - What is true a polyglot developer?
 - Deleting code
@@ -53,10 +53,10 @@ In this episode of Adventures in Angular, the panel discusses doing more with le
 - [JS Dev Summit](https://jsdevsummit.com/)
 - [Excella](https://www.excella.com/)
 - [Tech Talk DC](https://www.meetup.com/TechTalkDC/)
-- [DC Full Stack Dev Summit](http://www.dcfullstack.com/)
+- [DC Full Stack Dev Summit](https://www.dcfullstack.com/)
 - [JavaScript](https://www.javascript.com/)
 - [Agile Software Development](https://www.agilealliance.org/agile101/)
-- [TheJavaScriptPromise.com](http://thejavascriptpromise.com/)
+- [TheJavaScriptPromise.com](https://thejavascriptpromise.com/)
 - [@Duluca](https://twitter.com/duluca?lang=en)
 
 **Picks:**
@@ -85,7 +85,7 @@ Joe
 
 Doguhan
 
-- [TheJavaScriptPromise.com](http://thejavascriptpromise.com/)
+- [TheJavaScriptPromise.com](https://thejavascriptpromise.com/)
 - [Ship It or It Never Happened Conference](https://xp2018.sched.com/event/DrqC/ship-it-or-it-never-happened-the-power-of-docker-heroku-circleci?iframe=no&w=100%25&sidebar=yes&bg=no)
 - [RunKit.com](https://runkit.com/home)
 

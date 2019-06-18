@@ -5,7 +5,7 @@ title: >
 date: 2016-08-17 07:00:11
 episode_number: 273
 duration: 56:34
-audio_url: http://media.devchat.tv/ruby-rogues/RR273ContemptCulture.mp3
+audio_url: https://media.devchat.tv/ruby-rogues/RR273ContemptCulture.mp3
 podcast: ruby-rogues
 tags:
   - ruby_rogues
@@ -16,17 +16,17 @@ tags:
 
 - [Twitter](https://twitter.com/aurynn)
 - [GitHub](https://github.com/aurynn)
-- [Blog](http://blog.aurynn.com/)
-- [Eiara](http://eiara.nz/)
+- [Blog](https://blog.aurynn.com/)
+- [Eiara](https://eiara.nz/)
   01:56 - Contempt Culture
-- [Aurynn Shaw: Contempt Culture](http://blog.aurynn.com/contempt-culture)
+- [Aurynn Shaw: Contempt Culture](https://blog.aurynn.com/contempt-culture)
 - [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
   07:32 - “But PHP is objectively bad….”; True Objectivity
 - [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
   10:35 - The History of The Contempt Culture in Tech Spaces12:40 - Reinventing Tools15:00 - “Intent is not magic.”
-- [Shakesville: Harmful Communication, Part 1: Intent Is Magic](http://www.shakesville.com/2011/12/harmful-communication-part-one-intent.html)
+- [Shakesville: Harmful Communication, Part 1: Intent Is Magic](https://www.shakesville.com/2011/12/harmful-communication-part-one-intent.html)
   20:09 - Contempt Culture in the Ruby Community Towards PHP21:56 - Why Contempt Culture Forms
-- [WDCNZ](http://www.wdcnz.com/)
+- [WDCNZ](https://www.wdcnz.com/)
 - [Luser](https://en.wikipedia.org/wiki/Luser)
 - Power and Goodness
 - [Noblesse Oblige](https://en.wikipedia.org/wiki/Noblesse_oblige)

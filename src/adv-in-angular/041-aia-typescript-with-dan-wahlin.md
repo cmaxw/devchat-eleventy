@@ -16,16 +16,16 @@ tags:
 
 - [Twitter](https://twitter.com/DanWahlin)
 - [GitHub](https://github.com/DanWahlin)
-- [Blog](http://weblogs.asp.net/dwahlin)
-- [The Wahlin Group](http://www.thewahlingroup.com/)
-- [Pluralsight Author Page](http://www.pluralsight.com/author/dan-wahlin)
+- [Blog](https://weblogs.asp.net/dwahlin)
+- [The Wahlin Group](https://www.thewahlingroup.com/)
+- [Pluralsight Author Page](https://www.pluralsight.com/author/dan-wahlin)
 
 02:29 - Background and Involvement in the Angular Community
 
 - [[YouTube] Dan Wahlin: AngularJS in 20ish Minutes (ng-conf 2014)](https://www.youtube.com/watch?v=tnXO-i7944M)
 - [[YouTube] TypeScript and ES6 Dan Wahlin & Andrew Connell (ng-conf2015)](https://www.youtube.com/watch?v=U7NYTKgkZgo)
 
-04:16 - [TypeScript](http://www.typescriptlang.org/)
+04:16 - [TypeScript](https://www.typescriptlang.org/)
 
 - [TypeScript Source Code](https://github.com/Microsoft/TypeScript/)
 
@@ -50,7 +50,7 @@ tags:
 
 - Directives and Providers
 - Services vs Factories
-- [Functional Programming](http://en.wikipedia.org/wiki/Functional_programming)
+- [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 24:11 - TypeScript and Angular 2
 
@@ -63,8 +63,8 @@ tags:
 30:47 - The Angular Community and TypeScript
 
 - Tooling and Transpiling
-  - [Babel](http://babelscript.net/)
-  - [traceur](http://code.google.com/p/traceur-compiler/)
+  - [Babel](https://babelscript.net/)
+  - [traceur](https://code.google.com/p/traceur-compiler/)
   - [WebStorm](https://www.jetbrains.com/webstorm/)
 
 36:38 - Type Inference
@@ -72,7 +72,7 @@ tags:
 - [ng-flow](https://github.com/flowjs/ng-flow)
   Picks
 
-[Avengers: Age of Ultron](http://www.imdb.com/title/tt2395427/) (John)[Star Wars: Episode VII - The Force Awakens](http://www.imdb.com/title/tt2488496/) (John)[.d.ts](<https://typescript.codeplex.com/wikipage?title=Writing%20Definition%20(.d.ts)%20Files>) (John)[Lord of the Rings](http://www.lordoftherings.net/) (Katya)[Avengers: Age of Ultron](http://www.imdb.com/title/tt2395427/) (Katya)[Matterhorn: A Novel of the Vietnam War by Karl Marlantes](http://www.amazon.com/gp/product/0802145310/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0802145310&linkCode=as2&tag=chamaxwoo-20&linkId=WJPFZGYDL6BDUFUO) (Aaron)[Tyler Russell: An Angular2 Timezone Picker - Part 1: Becoming a](http://terussell85.github.io/blog/2015/04/01/building-an-angularjs-timezone-picker-part-1/)[Kartograph](http://terussell85.github.io/blog/2015/04/01/building-an-angularjs-timezone-picker-part-1/)[-er](http://terussell85.github.io/blog/2015/04/01/building-an-angularjs-timezone-picker-part-1/) (Aaron)[Tyler Russell: An Angular2 Timezone Picker - Part 2: Exploring the World (of Ng2)](http://terussell85.github.io/blog/2015/04/21/building-an-angular2-timezone-picker-part-2/) (Aaron)[[Pluralsight] TypeScript Fundamentals by John Papa and Dan Wahlin](http://www.pluralsight.com/courses/typescript) (Lukas)[DefinitelyTyped](https://github.com/borisyankov/DefinitelyTyped) (Ward)[Kent Meyers: The Quietest Place in the Universe: Digging For Dark Matter in An Abandoned Mine](http://harpers.org/archive/2015/05/the-quietest-place-in-the-universe/) (Ward)[Daredevil](http://www.netflix.com/WiMovie/80018294) (Joe)[GoFundMe](http://www.gofundme.com/) (Joe)[[GoFundMe] Send Samantha to Miss Amazing!](http://www.gofundme.com/amazingsamantha) (Joe)[Headspace](https://www.headspace.com/) (Dan)[Faker.js](https://github.com/marak/Faker.js/) (Dan)
+[Avengers: Age of Ultron](https://www.imdb.com/title/tt2395427/) (John)[Star Wars: Episode VII - The Force Awakens](https://www.imdb.com/title/tt2488496/) (John)[.d.ts](<https://typescript.codeplex.com/wikipage?title=Writing%20Definition%20(.d.ts)%20Files>) (John)[Lord of the Rings](https://www.lordoftherings.net/) (Katya)[Avengers: Age of Ultron](https://www.imdb.com/title/tt2395427/) (Katya)[Matterhorn: A Novel of the Vietnam War by Karl Marlantes](https://www.amazon.com/gp/product/0802145310/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0802145310&linkCode=as2&tag=chamaxwoo-20&linkId=WJPFZGYDL6BDUFUO) (Aaron)[Tyler Russell: An Angular2 Timezone Picker - Part 1: Becoming a](https://terussell85.github.io/blog/2015/04/01/building-an-angularjs-timezone-picker-part-1/)[Kartograph](https://terussell85.github.io/blog/2015/04/01/building-an-angularjs-timezone-picker-part-1/)[-er](https://terussell85.github.io/blog/2015/04/01/building-an-angularjs-timezone-picker-part-1/) (Aaron)[Tyler Russell: An Angular2 Timezone Picker - Part 2: Exploring the World (of Ng2)](https://terussell85.github.io/blog/2015/04/21/building-an-angular2-timezone-picker-part-2/) (Aaron)[[Pluralsight] TypeScript Fundamentals by John Papa and Dan Wahlin](https://www.pluralsight.com/courses/typescript) (Lukas)[DefinitelyTyped](https://github.com/borisyankov/DefinitelyTyped) (Ward)[Kent Meyers: The Quietest Place in the Universe: Digging For Dark Matter in An Abandoned Mine](https://harpers.org/archive/2015/05/the-quietest-place-in-the-universe/) (Ward)[Daredevil](https://www.netflix.com/WiMovie/80018294) (Joe)[GoFundMe](https://www.gofundme.com/) (Joe)[[GoFundMe] Send Samantha to Miss Amazing!](https://www.gofundme.com/amazingsamantha) (Joe)[Headspace](https://www.headspace.com/) (Dan)[Faker.js](https://github.com/marak/Faker.js/) (Dan)
 
 ### Transcript
 

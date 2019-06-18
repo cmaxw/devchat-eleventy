@@ -14,11 +14,11 @@ tags:
 
 ### Panel
 
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Joachim Larsen ([g+](https://plus.google.com/114020236201265101594/posts)&nbsp;[github](https://github.com/joedeveloper)&nbsp;[website](http://unomi.no.de/))
-- Yehuda Katz ([twitter](http://twitter.com/wycats)&nbsp;[github](https://github.com/wycats)&nbsp;[blog](http://yehudakatz.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Joachim Larsen ([g+](https://plus.google.com/114020236201265101594/posts)&nbsp;[github](https://github.com/joedeveloper)&nbsp;[website](https://unomi.no.de/))
+- Yehuda Katz ([twitter](https://twitter.com/wycats)&nbsp;[github](https://github.com/wycats)&nbsp;[blog](https://yehudakatz.com/))
 
 ### Discussion
 
@@ -30,14 +30,14 @@ tags:
 - ES5 (strict mode)
 - arguments.callee
 - Old SproutCore used arguments.callee to implement super
-- [Prototypes](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
+- [Prototypes](https://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
 - The new object inherits the function's prototype
 - Prototypes are referenced, not copied
 - Don't monkey with Object.prototype
 - Should you override native prototypes?
 - Object.keys vs for x in y
 - Premature optimization
-- [Property iteration](http://jsperf.com/obj-property-iteration)
+- [Property iteration](https://jsperf.com/obj-property-iteration)
 - Namespaces
 - es-discuss
 - 3 paradigms
@@ -55,29 +55,29 @@ tags:
 - Waterfall pattern: keep functions in the same scope/indentation level and call the next when one finishes
 - Array syntax creates an object that inherits a specific prototype
 - Object keys can only be a string
-- [How to think about OO](http://googletesting.blogspot.com/2009/07/how-to-think-about-oo.html)
-- [EMCAScript 5 Objects and Properties](http://ejohn.org/blog/ecmascript-5-objects-and-properties/)
+- [How to think about OO](https://googletesting.blogspot.com/2009/07/how-to-think-about-oo.html)
+- [EMCAScript 5 Objects and Properties](https://ejohn.org/blog/ecmascript-5-objects-and-properties/)
 - [Closure in action](https://gist.github.com/1847440)
 - [More issues with closures](https://gist.github.com/1847455)
-- [Add behaviors to objects or static clases with 'mix'](http://yuilibrary.com/yui/docs/yui/yui-mix.html)
-- [Code example -&nbsp;Prototypeal Inheritance](http://typewith.me/p/setAInMfda)
-- [Understanding JavaScript Function Involcation and 'this'](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
+- [Add behaviors to objects or static clases with 'mix'](https://yuilibrary.com/yui/docs/yui/yui-mix.html)
+- [Code example -&nbsp;Prototypeal Inheritance](https://typewith.me/p/setAInMfda)
+- [Understanding JavaScript Function Involcation and 'this'](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 
 ### Picks
 
-- [Once Upon a Time](http://beta.abc.go.com/shows/once-upon-a-time) (Yehuda)
-- [Pseudopod](http://pseudopod.org/) (Jamison)
-- [EloquentJavascript.net](http://eloquentjavascript.net/)(Joachim)
-- [JSFiddle.net](http://jsfiddle.net/) (Joachim)
-- [Carrabba's](http://www.carrabbas.com/)&nbsp;(AJ)
-- [Requiem](http://instantitunes.wordpress.com/2010/01/18/how-to-simple-and-quickly-remove-drm-from-itunes-videomusic/) (AJ)
-- [Heil PR-40](http://www.amazon.com/gp/product/B000BQXOEM/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000BQXOEM)&nbsp;(Chuck)
-- [Shure SM-58](http://www.amazon.com/gp/product/B000CZ0R42/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000CZ0R42)&nbsp;(Chuck)
-- [Blue Snowball](http://www.amazon.com/gp/product/B000EOPQ7E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000EOPQ7E)&nbsp;(Chuck)
-- [XENYX 802](http://www.amazon.com/gp/product/B000J5XS3C/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000J5XS3C)&nbsp;(Chuck)
-- [iMic](http://www.amazon.com/gp/product/B000CZ0R42/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000CZ0R42)&nbsp;(Chuck)
-- [Roland R-05](http://www.amazon.com/gp/product/B003IJ3WIW/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B003IJ3WIW)&nbsp;(Chuck)
-- [Adobe Audition](http://www.amazon.com/gp/product/B004TCGBU8/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004TCGBU8)&nbsp;(Chuck)
+- [Once Upon a Time](https://beta.abc.go.com/shows/once-upon-a-time) (Yehuda)
+- [Pseudopod](https://pseudopod.org/) (Jamison)
+- [EloquentJavascript.net](https://eloquentjavascript.net/)(Joachim)
+- [JSFiddle.net](https://jsfiddle.net/) (Joachim)
+- [Carrabba's](https://www.carrabbas.com/)&nbsp;(AJ)
+- [Requiem](https://instantitunes.wordpress.com/2010/01/18/how-to-simple-and-quickly-remove-drm-from-itunes-videomusic/) (AJ)
+- [Heil PR-40](https://www.amazon.com/gp/product/B000BQXOEM/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000BQXOEM)&nbsp;(Chuck)
+- [Shure SM-58](https://www.amazon.com/gp/product/B000CZ0R42/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000CZ0R42)&nbsp;(Chuck)
+- [Blue Snowball](https://www.amazon.com/gp/product/B000EOPQ7E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000EOPQ7E)&nbsp;(Chuck)
+- [XENYX 802](https://www.amazon.com/gp/product/B000J5XS3C/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000J5XS3C)&nbsp;(Chuck)
+- [iMic](https://www.amazon.com/gp/product/B000CZ0R42/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000CZ0R42)&nbsp;(Chuck)
+- [Roland R-05](https://www.amazon.com/gp/product/B003IJ3WIW/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B003IJ3WIW)&nbsp;(Chuck)
+- [Adobe Audition](https://www.amazon.com/gp/product/B004TCGBU8/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004TCGBU8)&nbsp;(Chuck)
 
 ### Transcript
 

@@ -45,7 +45,7 @@ In this episode, the Views on Vue panel talks to Thorsten Luenborg about how he 
 - Using [Open Collective](https://opencollective.com/) and [Patreon](https://www.patreon.com/)
 - Supporters don’t really interfere
 - Security through having a lot of little contributors
-- [VueConf US](http://us.vuejs.org/)
+- [VueConf US](https://us.vuejs.org/)
 - No overarching corporate structure
 - [Ember.js](https://www.emberjs.com/)
 - And much, much more!
@@ -55,7 +55,7 @@ In this episode, the Views on Vue panel talks to Thorsten Luenborg about how he 
 - [Vue](https://vuejs.org/)
 - [Open Collective](https://opencollective.com/)
 - [Patreon](https://www.patreon.com/)
-- [VueConf US](http://us.vuejs.org/)
+- [VueConf US](https://us.vuejs.org/)
 - [Ember.js](https://www.emberjs.com/)
 
 **Sponsors**
@@ -78,8 +78,8 @@ Chris
 Joe
 
 - Microsoft acquisition of GitHub
-- [Full of Sith – How the Force Works](http://fullofsith.com/archives/2205)
-- [Star Wars Oxygen](http://www.rebelforceradio.com/star-wars-oxygen/)
+- [Full of Sith – How the Force Works](https://fullofsith.com/archives/2205)
+- [Star Wars Oxygen](https://www.rebelforceradio.com/star-wars-oxygen/)
 - [Google Duplex](https://www.youtube.com/watch?v=bd1mEm2Fy08)
 
 Thorsten

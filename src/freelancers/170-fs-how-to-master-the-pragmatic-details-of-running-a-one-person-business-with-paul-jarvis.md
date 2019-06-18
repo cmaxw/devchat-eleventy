@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/pjrvs)
 - [Creative Class](https://creativeclass.io/)
-- [Smashing Magazine](http://www.smashingmagazine.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
 - [pjrvs.com](https://pjrvs.com/)
 
 01:42 - Freelancing Patterns
@@ -41,7 +41,7 @@ tags:
 - Creating Specific and Focused Content
   32:01 - Testimonials and FeedbackPicks
 
-[DYFConf 2015 Video Conference Sessions](https://gumroad.com/l/dyfconf2015vids?__s=u85fiiwhv5kpzooqe4vg) (Jonathan)[Mr. Robot](http://www.imdb.com/title/tt4158110/) (Paul)[Huawei P8 lite - 5" Unlocked Android 4G LTE Smartphone](http://www.amazon.com/Huawei-P8-lite-Unlocked-Smartphone/dp/B00W3WTLCG/ref=cm_cr_pr_product_top?ie=UTF8) (Reuven)
+[DYFConf 2015 Video Conference Sessions](https://gumroad.com/l/dyfconf2015vids?__s=u85fiiwhv5kpzooqe4vg) (Jonathan)[Mr. Robot](https://www.imdb.com/title/tt4158110/) (Paul)[Huawei P8 lite - 5" Unlocked Android 4G LTE Smartphone](https://www.amazon.com/Huawei-P8-lite-Unlocked-Smartphone/dp/B00W3WTLCG/ref=cm_cr_pr_product_top?ie=UTF8) (Reuven)
 
 ### Transcript
 

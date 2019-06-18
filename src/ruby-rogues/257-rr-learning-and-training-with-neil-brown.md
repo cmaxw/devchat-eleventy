@@ -5,7 +5,7 @@ title: >
 date: 2016-04-27 07:00:49
 episode_number: 257
 duration: 01:02:12
-audio_url: http://media.devchat.tv/ruby-rogues/RR257LearningTraining.mp3
+audio_url: https://media.devchat.tv/ruby-rogues/RR257LearningTraining.mp3
 podcast: ruby-rogues
 tags:
   - ruby_rogues
@@ -16,10 +16,10 @@ tags:
 01:29 - Neil Brown Introduction
 
 - [Twitter](https://twitter.com/neilccbrown)
-- [Blog](http://academiccomputing.wordpress.com/)
+- [Blog](https://academiccomputing.wordpress.com/)
 - [The University of Kent](https://www.kent.ac.uk/)
-- [BlueJ](http://www.bluej.org/)
-- [Greenfoot](http://www.greenfoot.org/)
+- [BlueJ](https://www.bluej.org/)
+- [Greenfoot](https://www.greenfoot.org/)
 
 02:32 - Where do new people get stuck?
 
@@ -27,7 +27,7 @@ tags:
 
 07:21 - Targeting Particular Age Groups
 
-- [BlueJ](http://www.bluej.org/)
+- [BlueJ](https://www.bluej.org/)
 
 13:46 - Becoming Professional Programmers
 
@@ -51,11 +51,11 @@ tags:
 
 34:08 - Tools
 
-38:23 - ["Frame-Based Editing"](http://www.greenfoot.org/frames/)
+38:23 - ["Frame-Based Editing"](https://www.greenfoot.org/frames/)
 
 40:21 - Beyond Beginners
 
-41:15 - [“My Holy Grail has been to radically simplify professional programming. I now realize that simplification is not fundamentally a technical problem but rather a cultural one. Our nerd culture embraces inhuman levels of complexity. Mastering mind-boggling complexity is our mutant superpower. It is our tribal marker. Complexity is the air we breath, and so it is invisible to us. Simplification will only come from outside this culture. To disrupt programming I first have to reinvent it for a fresh audience of non-programmers.”](http://alarmingdevelopment.org/?p=952)
+41:15 - [“My Holy Grail has been to radically simplify professional programming. I now realize that simplification is not fundamentally a technical problem but rather a cultural one. Our nerd culture embraces inhuman levels of complexity. Mastering mind-boggling complexity is our mutant superpower. It is our tribal marker. Complexity is the air we breath, and so it is invisible to us. Simplification will only come from outside this culture. To disrupt programming I first have to reinvent it for a fresh audience of non-programmers.”](https://alarmingdevelopment.org/?p=952)
 
 44:26 - Technical Matters vs Elitism
 
@@ -68,7 +68,7 @@ tags:
 
 Picks
 
-[git-standup](https://github.com/kamranahmedse/git-standup/) (Coraline)[Craft Conference](http://craft-conf.com) (Jessica)[UtahJS](http://www.meetup.com/UtahJS/) (Chuck)[Zoom H6](https://www.zoom-na.com/products/field-video-recording/field-recording/h6-handy-recorder) (Chuck)[Ian Leslie: The Sugar Conspiracy](http://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin) (Coraline)[The sugar conspiracy](http://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin) (Neil)[Treasure Islands: Tax Havens and the Men Who Stole the World by Nicholas Shaxson](http://treasureislands.org/) (Neil)
+[git-standup](https://github.com/kamranahmedse/git-standup/) (Coraline)[Craft Conference](https://craft-conf.com) (Jessica)[UtahJS](https://www.meetup.com/UtahJS/) (Chuck)[Zoom H6](https://www.zoom-na.com/products/field-video-recording/field-recording/h6-handy-recorder) (Chuck)[Ian Leslie: The Sugar Conspiracy](https://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin) (Coraline)[The sugar conspiracy](https://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin) (Neil)[Treasure Islands: Tax Havens and the Men Who Stole the World by Nicholas Shaxson](https://treasureislands.org/) (Neil)
 
 ### Transcript
 

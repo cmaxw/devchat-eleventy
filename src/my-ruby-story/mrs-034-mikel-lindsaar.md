@@ -38,7 +38,7 @@ tags:
 - [DevChat.Tv YouTube](https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw)
 - [ReIneractive](https://reinteractive.com/)
 - [@Lindsaar](https://twitter.com/lindsaar?lang=en)
-- [Lindsaar.net](http://www.lindsaar.net/)
+- [Lindsaar.net](https://www.lindsaar.net/)
   **Picks:** Charles
 - [AstroReality](https://www.astroreality.com/)
   Mikel

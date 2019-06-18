@@ -12,24 +12,24 @@ tags:
   - podcast
 ---
 
-[Growing Object Oriented Software Guided by Tests](http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)Testing and Design as a Holistic Process 7:10 &nbsp;- Design and Development Philosophy
+[Growing Object Oriented Software Guided by Tests](https://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)Testing and Design as a Holistic Process 7:10 &nbsp;- Design and Development Philosophy
 
 - Context Independent Pieces That Work Well Together
   8:07 - Focus on the communication between pieces, rather than the pieces&nbsp;themselves.
-- [Alan Kay](http://en.wikipedia.org/wiki/Alan_Kay)
+- [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
   9:36 - Falling into the "communication as an afterthought" trap.
 - Monad Bubble
   16:51 - Event Driven System vs Batch Driven System 20:04 - Code in Main as a Matchmaker
 - In Contrast to a Mediators
-  20:55 &nbsp;- "Tell, Don't Ask" 21:26 -&nbsp;[My System -&nbsp;Aron Nimzowitsch](http://www.amazon.com/gp/product/9197600539/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=9197600539)23:16 - Outside-In Development 24:44 - Ports and Adapter Architecture
+  20:55 &nbsp;- "Tell, Don't Ask" 21:26 -&nbsp;[My System -&nbsp;Aron Nimzowitsch](https://www.amazon.com/gp/product/9197600539/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=9197600539)23:16 - Outside-In Development 24:44 - Ports and Adapter Architecture
 - Deferred Decisions
   28:13 - Deployment to Production 33:31 - Rhythm
 - Development Within Highly Integrated Systems
-  37:39 -&nbsp;[The Progress Principle by Teresa Amabile](http://www.amazon.com/gp/product/142219857X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=142219857X)
+  37:39 -&nbsp;[The Progress Principle by Teresa Amabile](https://www.amazon.com/gp/product/142219857X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=142219857X)
 - Success is Addictive
 - Warning: Projects May Appear Too Simple
 - The "Release / Get Shouted At" Cycle
-  42:36 - [Single Responsibility Principle (SRP)](http://en.wikipedia.org/wiki/Single_responsibility_principle)
+  42:36 - [Single Responsibility Principle (SRP)](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 - Plug-ins
   48:21 - The Power in Naming (or Renaming) a Concept
 - Trying not to name things after patterns
@@ -40,7 +40,7 @@ tags:
 
 ### Book Club
 
-Our next book club: [Service Oriented Design with Ruby and Rails by Paul Dix](http://www.amazon.com/gp/product/0321659368/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321659368)
+Our next book club: [Service Oriented Design with Ruby and Rails by Paul Dix](https://www.amazon.com/gp/product/0321659368/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321659368)
 
 ### Transcript
 

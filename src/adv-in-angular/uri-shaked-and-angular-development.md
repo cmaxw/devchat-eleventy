@@ -36,6 +36,6 @@ To learn more about what Uri's interested in or connect with him, check out the 
 
 ## Picks:
 
-**Uri:&nbsp;** AngularConferences, [AngularConnect](http://angularconnect.com/), [Chrome56 Web Bluetooth](https://developers.google.com/web/updates/2017/01/nic56), **Charles** : [Basic Economics](http://amzn.to/2ktUyrU),&nbsp;[React Native on Facebook](https://facebook.github.io/react-native/)&nbsp;and&nbsp;[Visual Studio Code](https://code.visualstudio.com/)
+**Uri:&nbsp;** AngularConferences, [AngularConnect](https://angularconnect.com/), [Chrome56 Web Bluetooth](https://developers.google.com/web/updates/2017/01/nic56), **Charles** : [Basic Economics](https://amzn.to/2ktUyrU),&nbsp;[React Native on Facebook](https://facebook.github.io/react-native/)&nbsp;and&nbsp;[Visual Studio Code](https://code.visualstudio.com/)
 
 ### Transcript

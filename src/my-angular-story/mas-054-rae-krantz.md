@@ -82,7 +82,7 @@ Rae talks about workshops and typical [Meetups.](https://www.meetup.com)
 
 Cleveland area – October 6<sup>th</sup> – learn how to code – it will be fun!
 
-18:25 – Chuck: [ngGirls.org](http://ng-girls.org)
+18:25 – Chuck: [ngGirls.org](https://ng-girls.org)
 
 18:40 – Chuck: Any advice for someone getting into tech?
 
@@ -123,7 +123,7 @@ Chuck talks about [Vue,](https://vuejs.org)[Angular](https://angular.io) and [Ja
 - [Meetup](https://www.meetup.com)
 - [Coursera](https://www.coursera.org)
 - [Angular – Tour of Heroes](https://angular.io/tutorial)
-- [Rae’s Website](http://rachelkrantz.com)
+- [Rae’s Website](https://rachelkrantz.com)
 - [Rae’s GitHub](https://github.com/krantzinator)
 - [Rae’s Medium](https://medium.com/@raekrantz)
 
@@ -143,11 +143,11 @@ Chuck talks about [Vue,](https://vuejs.org)[Angular](https://angular.io) and [Ja
 
 - [Rust Book](https://doc.rust-lang.org/book/)
 - [Women in Technology](https://witchat.github.io)
-- [NG Girls](http://ng-girls.org)
+- [NG Girls](https://ng-girls.org)
 - [Chelsea Troy’s Blog “Leveling Up”](https://chelseatroy.com/category/leveling-up/)
 - [Medium – Snowflake – How They Assess Levels](https://snowflake.medium.com/#1,2,3,2,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%2520Lannister,Staff%2520Engineer)
 - Supportive spouse
 - My Work Team
-- [Cleveland Tech on Slack](http://cleveland-tech.herokuapp.com)
+- [Cleveland Tech on Slack](https://cleveland-tech.herokuapp.com)
 
 ### Transcript

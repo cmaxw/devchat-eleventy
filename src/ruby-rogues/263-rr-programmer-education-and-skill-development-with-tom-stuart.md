@@ -18,20 +18,20 @@ tags:
 
 - [Twitter](https://twitter.com/tomstuart)
 - [GitHub](https://github.com/tomstuart)
-- [Blog](http://codon.com)
+- [Blog](https://codon.com)
 - [Ruby Rogues Episode #120: Book Club: Understanding Computation with Tom Stuart](https://devchat.tv/ruby-rogues/120-rr-book-club-understanding-computation-with-tom-stuart)
-- [Understanding Computation by Tom Stuart](http://computationbook.com/)
+- [Understanding Computation by Tom Stuart](https://computationbook.com/)
   03:17 - “Computer Scientist”; [Computer Science](https://en.wikipedia.org/wiki/Computer_science)04:17 - Static Typing, Type Systems
-- [Tom Stuart: Consider Static Typing @ RubyConf Australia 2015](http://codon.com/consider-static-typing)
+- [Tom Stuart: Consider Static Typing @ RubyConf Australia 2015](https://codon.com/consider-static-typing)
 - [Matz's Opening Keynote at RubyConf 2014](https://www.youtube.com/watch?v=85ct6jOvVPI)
 - [The Halting Problem](https://en.wikipedia.org/wiki/Halting_problem)
   18:44 - The Direction, Adoption Curve, and Use of Ruby33:36 - Multicore Growth and Concurrency =\> What programming language should I learn?
 - [Moore’s Law](https://en.wikipedia.org/wiki/Moore's_law)
   &nbsp;Picks
-- [Halting State by Charles Stross](http://www.amazon.com/Halting-State-Ace-Science-Fiction/dp/0441016073) (Sam)
+- [Halting State by Charles Stross](https://www.amazon.com/Halting-State-Ace-Science-Fiction/dp/0441016073) (Sam)
 - [The Belgariad by David Eddings](https://en.wikipedia.org/wiki/The_Belgariad) (Chuck)
 - [Fully Alive: Discovering What Matters Most by Timothy Shriver](https://www.amazon.com/Fully-Alive-Discovering-What-Matters/dp/0374535825) (Chuck)
-- [The 8000th Busy Beaver number eludes ZF set theory: new paper by Adam Yedidia and me](http://www.scottaaronson.com/blog/?p=2725) (Tom)
+- [The 8000th Busy Beaver number eludes ZF set theory: new paper by Adam Yedidia and me](https://www.scottaaronson.com/blog/?p=2725) (Tom)
 - [Martin Kleppmann: Staying in Sync: from Transactions to Streams](https://www.infoq.com/presentations/event-streams-kafka) (Tom)
 
 ### Transcript

@@ -14,24 +14,24 @@ tags:
 
 ### Panel
 
-- Chris Williams ([twitter](https://twitter.com/voodootikigod) [github](https://github.com/voodootikigod) [blog](http://www.voodootikigod.com/))
-- Tim Caswell ([twitter](http://twitter.com/creationix/) [github](https://github.com/creationix/) [howtonode.org](http://howtonode.org/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://blog.coolaj86.com/) [youtube](http://youtube.com/coolaj86))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Chris Williams ([twitter](https://twitter.com/voodootikigod) [github](https://github.com/voodootikigod) [blog](https://www.voodootikigod.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/) [github](https://github.com/creationix/) [howtonode.org](https://howtonode.org/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://blog.coolaj86.com/) [youtube](https://youtube.com/coolaj86))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:11 - Chris Williams Introduction
 
-- [JSConf](http://jsconf.com/)
-- [RobotsConf](http://robotsconf.com/)
+- [JSConf](https://jsconf.com/)
+- [RobotsConf](https://robotsconf.com/)
   08:00 - Measuring Success
 - Profit
 - Community Appreciation
 - Presentation
   11:46 - Creating a New Conference from Scratch 21:43 - Cost & Budget 26:13 - Venues 35:15 - Feedback 37:36 - Planning an Outdoor/Woodsy Event
-- [Ruby DCamp](http://rubydcamp.org/)
+- [Ruby DCamp](https://rubydcamp.org/)
 - Insurance
   45:48 - Cost & Budget (cont’d) 56:52 - Sponsors
 - [Conference Planning Template](https://docs.google.com/spreadsheet/ccc?key=0AvM3dDSh8VbVdEFfLXU3TERBNTdkNU5HZGdFUllsZXc&usp=sharing)
@@ -39,18 +39,18 @@ tags:
 
 ### Picks
 
-- [Untrusted](http://alexnisnevich.github.io/untrusted/) (AJ)
-- [AJ O'Neal: DIY Presentation Recorder for User Groups & Such](http://blog.coolaj86.com/articles/diy-presentation-recorder.html) (AJ)
-- [Glen Maddern: A GIF Odyssey](http://www.confreaks.com/videos/3240-mwjs-a-gif-odyssey) (Jamison)
-- [Guy Bedford: Browser Package Management](http://www.confreaks.com/videos/3231-mwjs-browser-package-management) (Jamison)
+- [Untrusted](https://alexnisnevich.github.io/untrusted/) (AJ)
+- [AJ O'Neal: DIY Presentation Recorder for User Groups & Such](https://blog.coolaj86.com/articles/diy-presentation-recorder.html) (AJ)
+- [Glen Maddern: A GIF Odyssey](https://www.confreaks.com/videos/3240-mwjs-a-gif-odyssey) (Jamison)
+- [Guy Bedford: Browser Package Management](https://www.confreaks.com/videos/3231-mwjs-browser-package-management) (Jamison)
 - [forge](https://github.com/digitalbazaar/forge) (Tim)
 - Be Nice (Tim)
-- [Ruby Rogues](http://rubyrogues.com/) (Chuck)
-- [The iPhreaks Show](http://iphreaksshow.com/) (Chuck)
-- [The Freelancers’ Show](http://www.freelancersshow.com/) (Chuck)
+- [Ruby Rogues](https://rubyrogues.com/) (Chuck)
+- [The iPhreaks Show](https://iphreaksshow.com/) (Chuck)
+- [The Freelancers’ Show](https://www.freelancersshow.com/) (Chuck)
 - Robots (Chris)
-- [NodeBots](http://nodebots.io/) (Chris)
-- [JavaScript Jabber Episode #103: Robots with Raquel Veléz](http://javascriptjabber.com/103-jsj-robots-with-raquel-velez/)
+- [NodeBots](https://nodebots.io/) (Chris)
+- [JavaScript Jabber Episode #103: Robots with Raquel Veléz](https://javascriptjabber.com/103-jsj-robots-with-raquel-velez/)
 
 ### Next Week
 

@@ -20,7 +20,7 @@ tags:
 
 **Special Guest:** [Genadi Samokovarov](https://twitter.com/gsamokovarov?lang=en)
 
-In this episode of Ruby Rogues, the panel talks with [Genadi Samokovarov](https://twitter.com/gsamokovarov?lang=en) who is a software developer and loves using Ruby. Genadi also likes dance music. You can check out his code at [GitHub](https://github.com/gsamokovarov) and his mixes on [SoundCloud.](https://soundcloud.com/gsamokovarov) Finally, he blogs about technology that he cares about. Check-out his post about a curious Proc.new case in Ruby. If you are interested in his work experience, check out his resume [here](http://gsamokovarov.com/resume/). Send Genadi an email or follow his [social links.](https://twitter.com/gsamokovarov)
+In this episode of Ruby Rogues, the panel talks with [Genadi Samokovarov](https://twitter.com/gsamokovarov?lang=en) who is a software developer and loves using Ruby. Genadi also likes dance music. You can check out his code at [GitHub](https://github.com/gsamokovarov) and his mixes on [SoundCloud.](https://soundcloud.com/gsamokovarov) Finally, he blogs about technology that he cares about. Check-out his post about a curious Proc.new case in Ruby. If you are interested in his work experience, check out his resume [here](https://gsamokovarov.com/resume/). Send Genadi an email or follow his [social links.](https://twitter.com/gsamokovarov)
 
 **Show Topics:**
 
@@ -58,7 +58,7 @@ What I just mentioned what does a web console has a space for?
 
 8:33 – Guest.
 
-9:10 – Chuck: Can I run it on [Sinatra](http://sinatrarb.com)...or the other ones?
+9:10 – Chuck: Can I run it on [Sinatra](https://sinatrarb.com)...or the other ones?
 
 9:20 – Guest: If you make a bit of effort...
 
@@ -180,17 +180,17 @@ What I just mentioned what does a web console has a space for?
 
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
 - [Ruby](https://www.ruby-lang.org/en/)
-- [Ruby Motion](http://www.rubymotion.com)
+- [Ruby Motion](https://www.rubymotion.com)
 - [Ruby on Rails](https://rubyonrails.org)
 - [Angular](https://angular.io)
 - [Ruby Issue Tracking System](https://bugs.ruby-lang.org/users/7585)
 - [Libraries.io](https://libraries.io/github/gsamokovarov)
 - [Balkan Ruby](https://balkanruby.com)
-- [Partial Conf](http://partialconf.com)
+- [Partial Conf](https://partialconf.com)
 - [Chaos Group](https://www.chaosgroup.com)
 - [Genadi Samokovarov’s Twitter](https://twitter.com/gsamokovarov?lang=en)
 - [Genadi Samokovarov’s GitHub](https://github.com/gsamokovarov)
-- [Genadi Samokovarov’s Website](http://gsamokovarov.com)
+- [Genadi Samokovarov’s Website](https://gsamokovarov.com)
 
 **Sponsors:**
 

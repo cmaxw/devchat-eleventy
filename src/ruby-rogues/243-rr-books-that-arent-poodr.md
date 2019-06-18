@@ -12,26 +12,26 @@ tags:
   - podcast
 ---
 
-02:36 - [Software Development and Reality Construction by Christiane Floyd](http://www.amazon.com/gp/product/3642768199/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3642768199&linkCode=as2&tag=chamaxwoo-20&linkId=UTPZTXY2HXM5NO54)
+02:36 - [Software Development and Reality Construction by Christiane Floyd](https://www.amazon.com/gp/product/3642768199/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3642768199&linkCode=as2&tag=chamaxwoo-20&linkId=UTPZTXY2HXM5NO54)
 
 - [Hermeneutics](https://en.wikipedia.org/wiki/Hermeneutics)
 
-05:42 - [Peter Naur: Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf)&nbsp;
+05:42 - [Peter Naur: Programming as Theory Building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)&nbsp;
 
-07:55 - [The Art of Empathy: A Complete Guide to Life's Most Essential Skill by Karla McLaren](http://www.amazon.com/gp/product/1622030613/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1622030613&linkCode=as2&tag=chamaxwoo-20&linkId=XUQDR6SKKGNPHZL5)
+07:55 - [The Art of Empathy: A Complete Guide to Life's Most Essential Skill by Karla McLaren](https://www.amazon.com/gp/product/1622030613/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1622030613&linkCode=as2&tag=chamaxwoo-20&linkId=XUQDR6SKKGNPHZL5)
 
-13:14 - [Programming Elixir: Functional |\> Concurrent |\> Pragmatic |\> Fun by Dave Thomas](http://www.amazon.com/gp/product/1937785580/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785580&linkCode=as2&tag=chamaxwoo-20&linkId=W2LNYBF6WEDCTIPN)
+13:14 - [Programming Elixir: Functional |\> Concurrent |\> Pragmatic |\> Fun by Dave Thomas](https://www.amazon.com/gp/product/1937785580/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785580&linkCode=as2&tag=chamaxwoo-20&linkId=W2LNYBF6WEDCTIPN)
 
 14:32 - [ng-book 2](https://www.ng-book.com/2/)
 
 16:09 - Paper Reading Group
 
-- [Adrian Colyer's Blog](http://blog.acolyer.org)
+- [Adrian Colyer's Blog](https://blog.acolyer.org)
 - [We hear you like papers by Ines Sombra (Slides)](https://speakerdeck.com/randommood/we-hear-you-like-papers)
 
-19:58 - [Mindset: The New Psychology of Success by Carol Dweck](http://www.amazon.com/gp/product/0345472322/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345472322&linkCode=as2&tag=chamaxwoo-20&linkId=6GL2VIKO2JSJBA7A)
+19:58 - [Mindset: The New Psychology of Success by Carol Dweck](https://www.amazon.com/gp/product/0345472322/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345472322&linkCode=as2&tag=chamaxwoo-20&linkId=6GL2VIKO2JSJBA7A)
 
-20:29 - [Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions by Gayle Laakmann McDowell](http://www.amazon.com/gp/product/0984782850/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0984782850&linkCode=as2&tag=chamaxwoo-20&linkId=SL7NNSEN6XDPOQ2K)
+20:29 - [Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions by Gayle Laakmann McDowell](https://www.amazon.com/gp/product/0984782850/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0984782850&linkCode=as2&tag=chamaxwoo-20&linkId=SL7NNSEN6XDPOQ2K)
 
 22:01 - Ruby Rogues Book Club Books Episodes
 
@@ -43,45 +43,45 @@ tags:
 
 22:43 - Books to Learn When You’re Learning to Become a Software Developer
 
-- [Peopleware: Productive Projects and Teams by Tom DeMarco](http://www.amazon.com/gp/product/0321934113/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321934113&linkCode=as2&tag=chamaxwoo-20&linkId=HKNO5SF54LKAX3FS)
-- [The Mythical Man-Month: Essays on Software Engineering by Frederick Phillips Brooks](http://www.amazon.com/gp/product/0201835959/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201835959&linkCode=as2&tag=chamaxwoo-20&linkId=3BX6EZBTOVX6QI5Z)
-- [Software Project Survival Guide by Steve McConnell](http://www.amazon.com/gp/product/1572316217/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1572316217&linkCode=as2&tag=chamaxwoo-20&linkId=4S7XSPUJN5FHMZOS)
-- [Code Complete: A Practical Handbook of Software Construction by Steve McConnell](http://www.amazon.com/gp/product/0735619670/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735619670&linkCode=as2&tag=chamaxwoo-20&linkId=XECNAG66UGKVUFD2) &nbsp;&nbsp;&nbsp;
-- [The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt](http://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161622X&linkCode=as2&tag=chamaxwoo-20&linkId=SO3GOODNFTTFQ364)
-- [Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](http://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356050&linkCode=as2&tag=chamaxwoo-20&linkId=EKWMGGNCZFICVBJV)
-- [The Practice of Programming by Brian W. Kernighan and Rob Pike](http://www.amazon.com/gp/product/020161586X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161586X&linkCode=as2&tag=chamaxwoo-20&linkId=5VAJR6HTZUKVHN46)
+- [Peopleware: Productive Projects and Teams by Tom DeMarco](https://www.amazon.com/gp/product/0321934113/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321934113&linkCode=as2&tag=chamaxwoo-20&linkId=HKNO5SF54LKAX3FS)
+- [The Mythical Man-Month: Essays on Software Engineering by Frederick Phillips Brooks](https://www.amazon.com/gp/product/0201835959/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201835959&linkCode=as2&tag=chamaxwoo-20&linkId=3BX6EZBTOVX6QI5Z)
+- [Software Project Survival Guide by Steve McConnell](https://www.amazon.com/gp/product/1572316217/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1572316217&linkCode=as2&tag=chamaxwoo-20&linkId=4S7XSPUJN5FHMZOS)
+- [Code Complete: A Practical Handbook of Software Construction by Steve McConnell](https://www.amazon.com/gp/product/0735619670/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735619670&linkCode=as2&tag=chamaxwoo-20&linkId=XECNAG66UGKVUFD2) &nbsp;&nbsp;&nbsp;
+- [The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt](https://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161622X&linkCode=as2&tag=chamaxwoo-20&linkId=SO3GOODNFTTFQ364)
+- [Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](https://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356050&linkCode=as2&tag=chamaxwoo-20&linkId=EKWMGGNCZFICVBJV)
+- [The Practice of Programming by Brian W. Kernighan and Rob Pike](https://www.amazon.com/gp/product/020161586X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161586X&linkCode=as2&tag=chamaxwoo-20&linkId=5VAJR6HTZUKVHN46)
 
 33:07 - Technical Programming Books
 
-- [Programming Perl: Unmatched power for text processing and scripting by Tom Christiansen](http://www.amazon.com/gp/product/0596004923/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596004923&linkCode=as2&tag=chamaxwoo-20&linkId=DEVBMUXD6VIDRSHX) (The Camel Book)
-- [Unix Power Tools by Shelley Powers](http://www.amazon.com/gp/product/0596003307/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596003307&linkCode=as2&tag=chamaxwoo-20&linkId=6BUTUVPQ7QUHMVB7)
-- [Ruby Cookbook by Lucas Carlson](http://www.amazon.com/gp/product/1449373712/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373712&linkCode=as2&tag=chamaxwoo-20&linkId=VAKREEBQW2H3OBDI)
+- [Programming Perl: Unmatched power for text processing and scripting by Tom Christiansen](https://www.amazon.com/gp/product/0596004923/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596004923&linkCode=as2&tag=chamaxwoo-20&linkId=DEVBMUXD6VIDRSHX) (The Camel Book)
+- [Unix Power Tools by Shelley Powers](https://www.amazon.com/gp/product/0596003307/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596003307&linkCode=as2&tag=chamaxwoo-20&linkId=6BUTUVPQ7QUHMVB7)
+- [Ruby Cookbook by Lucas Carlson](https://www.amazon.com/gp/product/1449373712/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373712&linkCode=as2&tag=chamaxwoo-20&linkId=VAKREEBQW2H3OBDI)
 - [Programming Ruby: The Pragmatic Programmers' Guide by Dave Thomas, with Chad Fowler and Andy Hunt](https://pragprog.com/book/ruby/programming-ruby)
-- [Agile Web Development with Rails 4 (Facets of Ruby) by Sam Ruby](http://www.amazon.com/gp/product/1937785564/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785564&linkCode=as2&tag=chamaxwoo-20&linkId=ST7QMM3CTACK3XJ7) &nbsp;&nbsp;
-- [SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL by John Viescas](http://www.amazon.com/gp/product/0321992474/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321992474&linkCode=as2&tag=chamaxwoo-20&linkId=5Y5BSCTJD53WFDJ4)
-- [The Art of SQL by Stephane Faroult](http://www.amazon.com/gp/product/0596008945/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596008945&linkCode=as2&tag=chamaxwoo-20&linkId=UF24FRF6G6DQ2SB3)
-- [PostgreSQL: Up and Running: A Practical Introduction to the Advanced Open Source Database by Regina O. Obe](http://www.amazon.com/gp/product/1449373194/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373194&linkCode=as2&tag=chamaxwoo-20&linkId=65ODF5K4TPXVWXLR)
-- [SQL Pocket Guide by Jonathan Gennick](http://www.amazon.com/gp/product/1449394094/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449394094&linkCode=as2&tag=chamaxwoo-20&linkId=ENHN255YKDNQ4EOL)
-- [SQL Antipatterns: Avoiding the Pitfalls of Database Programming by Bill Karwin](http://www.amazon.com/gp/product/1934356557/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356557&linkCode=as2&tag=chamaxwoo-20&linkId=AVDZMSY4JUKGMZEU)
-- [Why's (Poignant) Guide to Ruby](http://poignant.guide/)&nbsp; &nbsp; &nbsp;&nbsp;
+- [Agile Web Development with Rails 4 (Facets of Ruby) by Sam Ruby](https://www.amazon.com/gp/product/1937785564/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785564&linkCode=as2&tag=chamaxwoo-20&linkId=ST7QMM3CTACK3XJ7) &nbsp;&nbsp;
+- [SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL by John Viescas](https://www.amazon.com/gp/product/0321992474/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321992474&linkCode=as2&tag=chamaxwoo-20&linkId=5Y5BSCTJD53WFDJ4)
+- [The Art of SQL by Stephane Faroult](https://www.amazon.com/gp/product/0596008945/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596008945&linkCode=as2&tag=chamaxwoo-20&linkId=UF24FRF6G6DQ2SB3)
+- [PostgreSQL: Up and Running: A Practical Introduction to the Advanced Open Source Database by Regina O. Obe](https://www.amazon.com/gp/product/1449373194/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373194&linkCode=as2&tag=chamaxwoo-20&linkId=65ODF5K4TPXVWXLR)
+- [SQL Pocket Guide by Jonathan Gennick](https://www.amazon.com/gp/product/1449394094/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449394094&linkCode=as2&tag=chamaxwoo-20&linkId=ENHN255YKDNQ4EOL)
+- [SQL Antipatterns: Avoiding the Pitfalls of Database Programming by Bill Karwin](https://www.amazon.com/gp/product/1934356557/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356557&linkCode=as2&tag=chamaxwoo-20&linkId=AVDZMSY4JUKGMZEU)
+- [Why's (Poignant) Guide to Ruby](https://poignant.guide/)&nbsp; &nbsp; &nbsp;&nbsp;
   - [Why The Lucky Stiff](https://en.wikipedia.org/wiki/Why_the_lucky_stiff)
 
 41:17 - Pramming and Business Books
 
-- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz](http://www.amazon.com/gp/product/0062273205/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062273205&linkCode=as2&tag=chamaxwoo-20&linkId=EFV3IILZTTEAUUNQ)
-- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration by Ed Catmull](http://www.amazon.com/gp/product/0812993012/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812993012&linkCode=as2&tag=chamaxwoo-20&linkId=27KT7DTT2JYINIXJ)
-- [In The Plex: How Google Thinks, Works, and Shapes Our Lives by Steven Levy](http://www.amazon.com/gp/product/1416596585/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1416596585&linkCode=as2&tag=chamaxwoo-20&linkId=VPTPWKLS7VYMLXFL)
-- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim](http://www.amazon.com/gp/product/0988262509/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0988262509&linkCode=as2&tag=chamaxwoo-20&linkId=CPYZ73SBRWRZAZV7) &nbsp;&nbsp;
-- [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport](http://www.amazon.com/gp/product/1455509124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455509124&linkCode=as2&tag=chamaxwoo-20&linkId=OZ3G257APFVRLWGI)
-- [The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) by Chad Fowler](http://www.amazon.com/gp/product/1934356344/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356344&linkCode=as2&tag=chamaxwoo-20&linkId=CRCZEYM6FND7EWZO)
-- [Soft Skills: The software developer's life manual by John Sonmez](http://www.amazon.com/gp/product/1617292397/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617292397&linkCode=as2&tag=chamaxwoo-20&linkId=D4EQVJT5SN5E2HRU)
-- [The Rails Freelancing Handbook by Mike Gunderloy](http://www.lulu.com/shop/mike-gunderloy/rails-freelancing-handbook/ebook/product-5276169.html)
-- [The Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online by Violet Blue](http://www.amazon.com/gp/product/1593276486/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276486&linkCode=as2&tag=chamaxwoo-20&linkId=6T4GOYREY66GRTZW)
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz](https://www.amazon.com/gp/product/0062273205/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062273205&linkCode=as2&tag=chamaxwoo-20&linkId=EFV3IILZTTEAUUNQ)
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration by Ed Catmull](https://www.amazon.com/gp/product/0812993012/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812993012&linkCode=as2&tag=chamaxwoo-20&linkId=27KT7DTT2JYINIXJ)
+- [In The Plex: How Google Thinks, Works, and Shapes Our Lives by Steven Levy](https://www.amazon.com/gp/product/1416596585/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1416596585&linkCode=as2&tag=chamaxwoo-20&linkId=VPTPWKLS7VYMLXFL)
+- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim](https://www.amazon.com/gp/product/0988262509/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0988262509&linkCode=as2&tag=chamaxwoo-20&linkId=CPYZ73SBRWRZAZV7) &nbsp;&nbsp;
+- [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport](https://www.amazon.com/gp/product/1455509124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455509124&linkCode=as2&tag=chamaxwoo-20&linkId=OZ3G257APFVRLWGI)
+- [The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) by Chad Fowler](https://www.amazon.com/gp/product/1934356344/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356344&linkCode=as2&tag=chamaxwoo-20&linkId=CRCZEYM6FND7EWZO)
+- [Soft Skills: The software developer's life manual by John Sonmez](https://www.amazon.com/gp/product/1617292397/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617292397&linkCode=as2&tag=chamaxwoo-20&linkId=D4EQVJT5SN5E2HRU)
+- [The Rails Freelancing Handbook by Mike Gunderloy](https://www.lulu.com/shop/mike-gunderloy/rails-freelancing-handbook/ebook/product-5276169.html)
+- [The Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online by Violet Blue](https://www.amazon.com/gp/product/1593276486/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276486&linkCode=as2&tag=chamaxwoo-20&linkId=6T4GOYREY66GRTZW)
   - [Doxing](https://en.wikipedia.org/wiki/Doxing)
-- [Practices of an Agile Developer: Working in the Real World by Venkat Subramaniam](http://www.amazon.com/gp/product/097451408X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=097451408X&linkCode=as2&tag=chamaxwoo-20&linkId=KSLRBWE4F2FSZQCO)
+- [Practices of an Agile Developer: Working in the Real World by Venkat Subramaniam](https://www.amazon.com/gp/product/097451408X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=097451408X&linkCode=as2&tag=chamaxwoo-20&linkId=KSLRBWE4F2FSZQCO)
   Picks
 
-[Mark Manson: The Most Important Question of Your Life](http://markmanson.net/question) (Jessica)[Dan Luu: Normalization of Deviance in Software: How Completely Messed Up Practices Become Normal](http://danluu.com/wat/) (Coraline)[The Noun Project](https://thenounproject.com/) (Avdi)[Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong by James W. Loewen](http://www.amazon.com/gp/product/0743296281/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0743296281&linkCode=as2&tag=chamaxwoo-20&linkId=HKI7CFKQXBJ5DYZ6) (Avdi)[CES](https://www.cesweb.org/) (Chuck)[Bill Buxton: Avoiding the Big Crash](http://www.infoq.com/presentations/cumulative-software-design) (Jessica)
+[Mark Manson: The Most Important Question of Your Life](https://markmanson.net/question) (Jessica)[Dan Luu: Normalization of Deviance in Software: How Completely Messed Up Practices Become Normal](https://danluu.com/wat/) (Coraline)[The Noun Project](https://thenounproject.com/) (Avdi)[Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong by James W. Loewen](https://www.amazon.com/gp/product/0743296281/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0743296281&linkCode=as2&tag=chamaxwoo-20&linkId=HKI7CFKQXBJ5DYZ6) (Avdi)[CES](https://www.cesweb.org/) (Chuck)[Bill Buxton: Avoiding the Big Crash](https://www.infoq.com/presentations/cumulative-software-design) (Jessica)
 
 ### Transcript
 

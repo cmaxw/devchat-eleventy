@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/simjp)
 - [GitHub](https://github.com/jpsim)
-- [Blog](http://www.jpsim.com/)
+- [Blog](https://www.jpsim.com/)
 - [Realm](https://realm.io/)
 
 01:47 - Getting Started with Cross-Platform Development in Swift
@@ -33,7 +33,7 @@ tags:
 
 14:26 - The Virtual Machine and [Xcode](https://developer.apple.com/xcode/)
 
-- [LLDB](http://lldb.llvm.org/)
+- [LLDB](https://lldb.llvm.org/)
 
 18:24 - The Swift Build System
 
@@ -47,7 +47,7 @@ tags:
 
 30:10 - Cross-Platform Swift and RealmPicks
 
-[The Phantom Radio](https://ghostrelationsdept.disney.com) (Andrew)[For Whom the Bell Tolls by Ernest Hemingway](http://www.amazon.com/Whom-Bell-Tolls-Ernest-Hemingway/dp/0684803356) (Jaim)[Flixel: The Case for Pricing Parity for Desktop and Mobile Apps](http://blog.flixel.com/cinemagraph-pro-for-ios-the-case-for-pricing-parity) (Alondo)[The Largest Ever Analysis by Film Dialogue by Gender: 2,000 Scripts, 25,000 Actors, 4 Million Lines](http://polygraph.cool/films/) (JP)
+[The Phantom Radio](https://ghostrelationsdept.disney.com) (Andrew)[For Whom the Bell Tolls by Ernest Hemingway](https://www.amazon.com/Whom-Bell-Tolls-Ernest-Hemingway/dp/0684803356) (Jaim)[Flixel: The Case for Pricing Parity for Desktop and Mobile Apps](https://blog.flixel.com/cinemagraph-pro-for-ios-the-case-for-pricing-parity) (Alondo)[The Largest Ever Analysis by Film Dialogue by Gender: 2,000 Scripts, 25,000 Actors, 4 Million Lines](https://polygraph.cool/films/) (JP)
 
 ### Transcript
 

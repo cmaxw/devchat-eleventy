@@ -61,7 +61,7 @@ In this episode of Elixir Mix, the panel talks to Kamil Lelonek about Blockchain
 - [Blockchain blog posts](https://blog.lelonek.me/tagged/blockchain)
 - [_Mastering Bitcoin_](https://bitcoinbook.info/)
 - [Kamil’s Blog](https://blog.lelonek.me/)
-- [kamil.lelonek.me](http://kamil.lelonek.me/)
+- [kamil.lelonek.me](https://kamil.lelonek.me/)
 - [Kamil’s GitHub](https://github.com/KamilLelonek)
 - [@KamilLelonek](https://twitter.com/kamillelonek?lang=en)
 
@@ -73,7 +73,7 @@ Mark
 
 Eric
 
-- [Six-Sided Fidget Spinner](http://www.brookstone.com/pd/Six-Sided-Fidget-Spinner/323712.html?bkeid=compare%257Cmercent%257Cgooglebaseads%257Csearch&bkeid=compare%257cmercent%257cgooglebaseads%257csearch&gclid=COnK04ng9toCFWyOxQIdd1sLPw&gclsrc=ds)
+- [Six-Sided Fidget Spinner](https://www.brookstone.com/pd/Six-Sided-Fidget-Spinner/323712.html?bkeid=compare%257Cmercent%257Cgooglebaseads%257Csearch&bkeid=compare%257cmercent%257cgooglebaseads%257csearch&gclid=COnK04ng9toCFWyOxQIdd1sLPw&gclsrc=ds)
 
 Justin
 

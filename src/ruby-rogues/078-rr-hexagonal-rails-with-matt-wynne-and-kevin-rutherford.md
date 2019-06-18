@@ -14,17 +14,17 @@ tags:
 
 ### 01:30 - Ruby Nuby Project
 
-- [Ruby Rogues Ruby Nuby Project Submitted Videos](http://rubyrogues.com/ruby-nuby-project-2/)
+- [Ruby Rogues Ruby Nuby Project Submitted Videos](https://rubyrogues.com/ruby-nuby-project-2/)
   02:30 - Best of Parley
 - Life After POODR by [Eoin Kelly](https://twitter.com/eoinkelly)
-  03:20 - [Podcast Awards](http://podcastawards.com/)
+  03:20 - [Podcast Awards](https://podcastawards.com/)
 - Vote once a day, every day for Ruby Rogues!
   05:34 - Hexagonal Rails Definition
 - Growing Object-Oriented Software, Guided by Tests by Steve Freeman
-- [Hexagonal Rails by Matt Wynne](http://www.confreaks.com/videos/977-goruco2012-hexagonal-rails): GORUCO 2012 talk
-  08:31 - [Alistair Cockburn: Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+- [Hexagonal Rails by Matt Wynne](https://www.confreaks.com/videos/977-goruco2012-hexagonal-rails): GORUCO 2012 talk
+  08:31 - [Alistair Cockburn: Hexagonal Architecture](https://alistair.cockburn.us/Hexagonal+architecture)
 - Ports and Adapters
-- [Active Record](http://ar.rubyonrails.org/)
+- [Active Record](https://ar.rubyonrails.org/)
   15:15 - Dependency Inversion
 -
 
@@ -35,18 +35,18 @@ Hidden depencies
 Rake tasks
 19:53 - Domain models and persistence models
 
-- Demoting [Active Record](http://ar.rubyonrails.org/) model classes to be merely persistence
+- Demoting [Active Record](https://ar.rubyonrails.org/) model classes to be merely persistence
 - Domain logic
   27:57 - Flowing the code 35:58 - Object-oriented design
-- [Kent Beck: To Design or Not to Design? A Third Good Question](http://www.threeriversinstitute.org/blog/?p=338)
+- [Kent Beck: To Design or Not to Design? A Third Good Question](https://www.threeriversinstitute.org/blog/?p=338)
 - Connected architecture and modular architecture
-- [Smalltalk Best Practice Patterns by Kent Beck](http://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=013476904X&linkCode=as2&tag=chamaxwoo-20)
-- [076 RR Service-Oriented Design with Paul Dix](http://rubyrogues.com/076-rr-service-oriented-design-with-paul-dix/)
+- [Smalltalk Best Practice Patterns by Kent Beck](https://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=013476904X&linkCode=as2&tag=chamaxwoo-20)
+- [076 RR Service-Oriented Design with Paul Dix](https://rubyrogues.com/076-rr-service-oriented-design-with-paul-dix/)
   45:03 - Writing acceptance tests and unit tests
-- [The Cucumber Book: Behavior-Driven Development for Testers and Developers by Matt Wynne](http://www.amazon.com/gp/product/1934356808/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356808&linkCode=as2&tag=chamaxwoo-20)
+- [The Cucumber Book: Behavior-Driven Development for Testers and Developers by Matt Wynne](https://www.amazon.com/gp/product/1934356808/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356808&linkCode=as2&tag=chamaxwoo-20)
   50:21 - Service Oriented Architecture (SOA)
 - CQRS - Command Query Responsibility Segregation
-- [Daniel Lucraft: From 15 hours to 15 seconds: reducing a crushing build time](http://www.songkick.com/devblog/2012/07/16/from-15-hours-to-15-seconds-reducing-a-crushing-build-time/)
+- [Daniel Lucraft: From 15 hours to 15 seconds: reducing a crushing build time](https://www.songkick.com/devblog/2012/07/16/from-15-hours-to-15-seconds-reducing-a-crushing-build-time/)
 
 ### Next Week
 
@@ -54,10 +54,10 @@ Rake tasks
 
 ### Book Club
 
-The next Ruby Rogues Book Club Pick will be[Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via[InformIT.com](http://www.informit.com/).
+The next Ruby Rogues Book Club Pick will be[Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via[InformIT.com](https://www.informit.com/).
 
-- First create a user account:[www.informit.com/join](http://www.informit.com/join)
-- SAVE 40% When You Buy 2:[www.informit.com/ruby](http://www.informit.com/ruby)
+- First create a user account:[www.informit.com/join](https://www.informit.com/join)
+- SAVE 40% When You Buy 2:[www.informit.com/ruby](https://www.informit.com/ruby)
 - Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
 - (Includes FREE SHIPPING within the U.S.!)
 

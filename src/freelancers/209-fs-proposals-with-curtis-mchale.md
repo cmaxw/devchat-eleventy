@@ -16,8 +16,8 @@ tags:
 
 - [Twitter](https://twitter.com/curtismchale)
 - [GitHub](https://github.com/curtismchale)
-- [Blog](http://curtismchale.ca)
-- [Write Proposals that Win Work](http://curtismchale.ca/products/write-proposals-that-win-work/)
+- [Blog](https://curtismchale.ca)
+- [Write Proposals that Win Work](https://curtismchale.ca/products/write-proposals-that-win-work/)
   02:21 - Discovery Phase
 - [The Freelancers’ Show #096: Value-Based Pricing with Brennan Dunn](https://devchat.tv/freelancers/the-freelancers-show-096-value-based-pricing-with-brennan-dunn)
   03:48 - Proposal Format
@@ -31,7 +31,7 @@ tags:
    05:33 - Options (Cont’d)06:44 - Getting to the “Why”
 
 - [The 5 Whys Method](https://en.wikipedia.org/wiki/5_Whys)
-- [Curtis' Effective Questioning Archives](http://curtismchale.ca/series/effective-questioning/)
+- [Curtis' Effective Questioning Archives](https://curtismchale.ca/series/effective-questioning/)
   11:57 - Objectives (Cont’d)14:53 - Forming Options
 - 9 Questions
 - Getting on the Phone
@@ -44,13 +44,13 @@ tags:
 
 ## Giveaway
 
-**Tell us the best proposal you sent in the comments section and get a copy of Curtis’ book: [Write Proposals that Win Work](http://curtismchale.ca/products/write-proposals-that-win-work/)**
+**Tell us the best proposal you sent in the comments section and get a copy of Curtis’ book: [Write Proposals that Win Work](https://curtismchale.ca/products/write-proposals-that-win-work/)**
 
 &nbsp;Picks
 
 - [Superchondriac](https://www.amazon.com/gp/product/B0157HBGS0/) (Philip)
 - [Start With Why by Simon Sinek](https://www.startwithwhy.com/) (Chuck)
-- [Baron Fig](http://www.baronfig.com/) (Curtis)
+- [Baron Fig](https://www.baronfig.com/) (Curtis)
 
 ### Transcript
 

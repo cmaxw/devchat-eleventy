@@ -70,11 +70,11 @@ Charles
 Joe
 
 - [Pathfinder Plot Twists](https://www.amazon.com/Pathfinder-Campaign-Cards-Social-Combat/dp/1601256108/ref=pd_sim_21_3?_encoding=UTF8&pd_rd_i=1601256108&pd_rd_r=BMJDSWYR35R88BBWRZYR&pd_rd_w=d2Ybq&pd_rd_wg=nTy6C&psc=1&refRID=BMJDSWYR35R88BBWRZYR)
-- [Arrested Development](http://www.imdb.com/title/tt0367279/)
+- [Arrested Development](https://www.imdb.com/title/tt0367279/)
 
 Stephen
 
 - [Demos with Angular Videos](https://www.youtube.com/channel/UCYFd7Qy93YP7gPERnxP545A)
-- [RXmarbles.com](http://rxmarbles.com/)
+- [RXmarbles.com](https://rxmarbles.com/)
 
 ### Transcript

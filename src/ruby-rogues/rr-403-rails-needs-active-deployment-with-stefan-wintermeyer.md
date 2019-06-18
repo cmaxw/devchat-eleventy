@@ -16,7 +16,7 @@ tags:
 
 - [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/rogues) offers a $1000 signing bonus
-- [Cachefly](http://www.cachefly.com)
+- [Cachefly](https://www.cachefly.com)
 
 ### Panel:
 
@@ -35,8 +35,8 @@ Stefan Wintermeyer, a german consultant, discusses his recent blog post “Rails
 - [https://github.com/tongueroo/jack](https://github.com/tongueroo/jack)
 - [https://www.wintermeyer-consulting.de](https://www.wintermeyer-consulting.de)
 - [https://twitter.com/wintermeyer](https://twitter.com/wintermeyer)
-- [www.facebook.com/RubyRogues](http://www.facebook.com/RubyRogues)
-- [www.twitter.com/rubyrogues](http://www.twitter.com/rubyrogues)
+- [www.facebook.com/RubyRogues](https://www.facebook.com/RubyRogues)
+- [www.twitter.com/rubyrogues](https://www.twitter.com/rubyrogues)
 
 ### Picks
 **Eric Berry:**
@@ -44,7 +44,7 @@ Stefan Wintermeyer, a german consultant, discusses his recent blog post “Rails
 **Dave Kimura:**
 - [https://probot.github.io/](https://probot.github.io/)
 **Andrew Mason:**
-- [http://jack-eb.com](http://jack-eb.com)
+- [https://jack-eb.com](https://jack-eb.com)
 
 
 ### Transcript

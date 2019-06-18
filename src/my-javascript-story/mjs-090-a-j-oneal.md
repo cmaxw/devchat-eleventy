@@ -115,7 +115,7 @@ A.J.
 
 Chuck
 
-- Wordpress – [Plugin KingSumo](http://wordpress.kingsumo.com/apps/giveaways/)
+- Wordpress – [Plugin KingSumo](https://wordpress.kingsumo.com/apps/giveaways/)
 - [Getdrip.com](https://www.drip.com)
 - [Softcover.io](https://www.softcover.io)
 

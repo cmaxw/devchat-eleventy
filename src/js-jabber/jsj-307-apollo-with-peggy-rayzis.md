@@ -76,7 +76,7 @@ In this episode, the JavaScript Jabber panelists talk about Apollo with Peggy Ra
 
 Charles
 
-- [GraphQL Ruby](http://graphql-ruby.org/)
+- [GraphQL Ruby](https://graphql-ruby.org/)
 - [WordPress GraphQL](https://github.com/wp-graphql/wp-graphql)
 - [Hogwarts Battles Board Game](https://www.amazon.com/Potter-Hogwarts-Battle-Cooperative-Building/dp/B01EIKRP0K)
 - [Pandemic Legacy](https://www.amazon.com/Pandemic-Legacy-Season-1-Blue/dp/B00TQ5SEAI)

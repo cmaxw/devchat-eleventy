@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
+Check out [RailsClips on Kickstarter](https://devchat.tv/kickstarter)!!
 
 &nbsp;
 
@@ -20,24 +20,24 @@ Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
 
 - [Twitter](https://twitter.com/searls)
 - [GitHub](https://github.com/searls)
-- [Blog](http://about.me/searls)
-- <u><a style="text-decoration: none;" href="http://testdouble.com/">Test Double</a></u>
+- [Blog](https://about.me/searls)
+- <u><a style="text-decoration: none;" href="https://testdouble.com/">Test Double</a></u>
   - [@testdouble](https://twitter.com/testdouble)
 
-03:02 - [Justin Searls: The Social Coding Contract](http://blog.testdouble.com/posts/2014-12-02-the-social-coding-contract.html)
+03:02 - [Justin Searls: The Social Coding Contract](https://blog.testdouble.com/posts/2014-12-02-the-social-coding-contract.html)
 
-- [Open Source](http://en.wikipedia.org/wiki/Open_source)
+- [Open Source](https://en.wikipedia.org/wiki/Open_source)
   - [GitHub](https://github.com/)
 
-04:58 - [Transitive Dependences](http://en.wikipedia.org/wiki/Transitive_dependency) and Understanding [Technical Debt](http://en.wikipedia.org/wiki/Technical_debt)
+04:58 - [Transitive Dependences](https://en.wikipedia.org/wiki/Transitive_dependency) and Understanding [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
 
 - [RailsConf 2014 - Keynote: 10 Years! by Yehuda Katz](https://www.youtube.com/watch?v=9naDS3r4MbY)
-- [The CAP Theorem](http://en.wikipedia.org/wiki/CAP_theorem)
+- [The CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 
 15:21 - Learning Outside Work Hours
 
 - Tracking Time
-- [Micromanagement](http://en.wikipedia.org/wiki/Micromanagement)
+- [Micromanagement](https://en.wikipedia.org/wiki/Micromanagement)
 
 21:21 - Understanding Transitive Dependencies (Cont’d)
 
@@ -46,11 +46,11 @@ Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
 23:00 - Use Someone Else’s Framework or Write Your Own?
 
 - “It Depends.”
-- “A dirty code base is the sign of a well-monetized application.” - [Matt Scantland](http://www.bizjournals.com/columbus/print-edition/2013/07/12/health-care-heroes-matt-scantland.html?page=all)
+- “A dirty code base is the sign of a well-monetized application.” - [Matt Scantland](https://www.bizjournals.com/columbus/print-edition/2013/07/12/health-care-heroes-matt-scantland.html?page=all)
 
 31:25 - When Does it Hurt to Use Tools You Don’t Completely Understand?
 
-- [Elasticsearch](http://www.elasticsearch.org/)
+- [Elasticsearch](https://www.elasticsearch.org/)
 
 34:14 - Leaving Code Behind
 
@@ -61,19 +61,19 @@ Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
   - Community Management
     - Communication
       - [cancan](https://github.com/ryanb/cancan) =\> [cancancan](https://github.com/CanCanCommunity/cancancan)
-      - [GitX](http://gitx.frim.nl/)
-        - [Graphical User Interface (GUI)](http://en.wikipedia.org/wiki/Graphical_user_interface)
-        - [rowanj GitX](http://rowanj.github.io/gitx/)
+      - [GitX](https://gitx.frim.nl/)
+        - [Graphical User Interface (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface)
+        - [rowanj GitX](https://rowanj.github.io/gitx/)
 
 47:22 - Reacting to Change
 
 - Process and Ceremony
-- Deming’s [Common Cause and Special Cause](http://en.wikipedia.org/wiki/Common_cause_and_special_cause_%28statistics%29)
-- <u><a style="text-decoration: none;" href="http://en.wikipedia.org/wiki/Pair_programming">Pair Programming</a></u>
+- Deming’s [Common Cause and Special Cause](https://en.wikipedia.org/wiki/Common_cause_and_special_cause_%28statistics%29)
+- <u><a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Pair_programming">Pair Programming</a></u>
   - [[YouTube] Justin Searls and Aaron Patterson: The act of using vim, tenderly.](https://www.youtube.com/watch?v=w6kPgTkEbZQ)
     54:16 - Just Blog It!Picks
 
-[<u>Royalty Free Music by Kevin MacLeod</u>](http://incompetech.com/music/royalty-free/index.html) (David)[<u>Rebif</u>](http://www.rebif.com/rebif-co-pay) (David)[<u>Ruby Rogues Episode #188: Community Building with Pieter Hintjens</u>](http://devchat.tv/ruby-rogues/188-rr-community-building-with-pieter-hintjens) (Jessica)[<u>Commercial Users of Functional Programming 2015: Call for Presentations</u>](http://cufp.org/2015/call-for-presentations.html) (Jessica)[<u>James Clear: Forget About Setting Goals. Focus on This Instead.</u>](http://jamesclear.com/goals-systems) (Jessica)[<u>Screw motivation, what you need is discipline.</u>](http://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/) (Jessica)[<u>A Wizard of Earthsea by Ursula K. Le Guin</u>](http://www.amazon.com/Wizard-Earthsea-Cycle-Book-ebook/dp/B008T9L6AM/ref=sr_1_1?ie=UTF8&qid=1424985635&sr=8-1&keywords=the+wizard+of+earthsea) (Chuck)[<u>Conform: Exposing the Truth About Common Core and Public Education by Glenn Beck</u>](http://www.amazon.com/Conform-Exposing-Common-Public-Education-ebook/dp/B00GEEB1S6/ref=sr_1_1?ie=UTF8&qid=1424985711&sr=8-1&keywords=conform+by+glenn+beck) (Chuck)[<u>Sony NEX-5T Compact Interchangeable Lens Digital Camera</u>](http://www.amazon.com/Sony-NEX-5T-Compact-Interchangeable-Digital/dp/B00EPWC2WI) (Justin)[<u>Justin’s Talk at RailsConf 2015: Boring Code (Sometimes a Controller is Just a Controller)</u>](http://railsconf.com/program) (Justin)[<u>Alpine iLX-007 7-Inch In-Dash Receiver with Apple CarPlay</u>](http://alpine-usa.com/product/view/carplay-ilx-007) (Justin)
+[<u>Royalty Free Music by Kevin MacLeod</u>](https://incompetech.com/music/royalty-free/index.html) (David)[<u>Rebif</u>](https://www.rebif.com/rebif-co-pay) (David)[<u>Ruby Rogues Episode #188: Community Building with Pieter Hintjens</u>](https://devchat.tv/ruby-rogues/188-rr-community-building-with-pieter-hintjens) (Jessica)[<u>Commercial Users of Functional Programming 2015: Call for Presentations</u>](https://cufp.org/2015/call-for-presentations.html) (Jessica)[<u>James Clear: Forget About Setting Goals. Focus on This Instead.</u>](https://jamesclear.com/goals-systems) (Jessica)[<u>Screw motivation, what you need is discipline.</u>](https://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/) (Jessica)[<u>A Wizard of Earthsea by Ursula K. Le Guin</u>](https://www.amazon.com/Wizard-Earthsea-Cycle-Book-ebook/dp/B008T9L6AM/ref=sr_1_1?ie=UTF8&qid=1424985635&sr=8-1&keywords=the+wizard+of+earthsea) (Chuck)[<u>Conform: Exposing the Truth About Common Core and Public Education by Glenn Beck</u>](https://www.amazon.com/Conform-Exposing-Common-Public-Education-ebook/dp/B00GEEB1S6/ref=sr_1_1?ie=UTF8&qid=1424985711&sr=8-1&keywords=conform+by+glenn+beck) (Chuck)[<u>Sony NEX-5T Compact Interchangeable Lens Digital Camera</u>](https://www.amazon.com/Sony-NEX-5T-Compact-Interchangeable-Digital/dp/B00EPWC2WI) (Justin)[<u>Justin’s Talk at RailsConf 2015: Boring Code (Sometimes a Controller is Just a Controller)</u>](https://railsconf.com/program) (Justin)[<u>Alpine iLX-007 7-Inch In-Dash Receiver with Apple CarPlay</u>](https://alpine-usa.com/product/view/carplay-ilx-007) (Justin)
 
 ### Transcript
 

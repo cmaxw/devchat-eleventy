@@ -14,10 +14,10 @@ tags:
 
 ### Panel
 
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Yehuda Katz ([twitter](http://twitter.com/wycats)&nbsp;[github](https://github.com/wycats)&nbsp;[blog](http://yehudakatz.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Yehuda Katz ([twitter](https://twitter.com/wycats)&nbsp;[github](https://github.com/wycats)&nbsp;[blog](https://yehudakatz.com/))
 
 ### Discussion
 
@@ -31,9 +31,9 @@ tags:
 - Source URL
 - document.write semantics
 - minification
-- [CoffeeScript](http://coffeescript.org/)
+- [CoffeeScript](https://coffeescript.org/)
 - CSS/LESS
-- [Rails' Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
+- [Rails' Asset Pipeline](https://guides.rubyonrails.org/asset_pipeline.html)
 - [Sprockets](https://github.com/sstephenson/sprockets)
 - [Rake](https://github.com/jimweirich/rake)
 - Performance
@@ -44,24 +44,24 @@ tags:
 - Download and deposit method vs package manager
 - Should browser code be in NPM?
 - [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
-- [Common JS](http://www.commonjs.org/)
-- [Ender](http://ender.no.de/)
-- [Require.js](http://requirejs.org/)
-- [Ember.js](http://emberjs.com/)
+- [Common JS](https://www.commonjs.org/)
+- [Ender](https://ender.no.de/)
+- [Require.js](https://requirejs.org/)
+- [Ember.js](https://emberjs.com/)
 - Use synchronous requests when you can.
 - Ruby and Python vs JavaScript for server scripting
 - Browser Community vs Node Community
 
 ### Picks
 
-- [Eliazor ... Harry Potter and the Methods of Rationality](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality) (Jamison)
+- [Eliazor ... Harry Potter and the Methods of Rationality](https://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality) (Jamison)
 - Exercise (Jamison)
-- [LivingSocial (](http://www.livingsocial.com/)AJ)
+- [LivingSocial (](https://www.livingsocial.com/)AJ)
 - [DropShare](https://github.com/coolaj86/dropshare) (AJ)
-- [Debt: The First 5,000 Years](http://www.amazon.com/gp/product/1933633867/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1933633867) (Yehuda)
-- [Flint](http://itunes.apple.com/us/app/flint/id459122418?ls=1&mt=12) (Yehuda)
-- [MailPlane](http://mailplaneapp.com/new_index) (Chuck)
-- [Speedo Aquabeat](http://www.amazon.com/gp/product/B00172VR84/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B00172VR84) (Chuck)
+- [Debt: The First 5,000 Years](https://www.amazon.com/gp/product/1933633867/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1933633867) (Yehuda)
+- [Flint](https://itunes.apple.com/us/app/flint/id459122418?ls=1&mt=12) (Yehuda)
+- [MailPlane](https://mailplaneapp.com/new_index) (Chuck)
+- [Speedo Aquabeat](https://www.amazon.com/gp/product/B00172VR84/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B00172VR84) (Chuck)
 
 ### Transcript
 

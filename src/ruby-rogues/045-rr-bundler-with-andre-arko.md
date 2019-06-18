@@ -16,22 +16,22 @@ tags:
 
 - [@indirect](https://twitter.com/indirect)
 - [GitHub](https://github.com/indirect)
-- [Blog](http://arko.net/)
-- [Bundler](http://gembundler.com/)
+- [Blog](https://arko.net/)
+- [Bundler](https://gembundler.com/)
 - [jQuery-Rails](https://github.com/rails/jquery-rails)
-- Daytime [Plex](http://www.plexapp.com/)
-  03:18 -&nbsp;[Bundler](http://gembundler.com/)
-- [Merb](http://en.wikipedia.org/wiki/Merb)
-  06:56 -&nbsp;[Gem Installer](http://geminstaller.rubyforge.org/)&nbsp;by [Chad Woolley](https://github.com/thewoolleyman/geminstaller)
-- [YAML](http://en.wikipedia.org/wiki/YAML) File
-  09:15 - [Gemfile](http://bundler.io/man/gemfile.5.html)10:30 - How does [Bundler](http://bundler.io/) Work? 11:42 - Best Practices
+- Daytime [Plex](https://www.plexapp.com/)
+  03:18 -&nbsp;[Bundler](https://gembundler.com/)
+- [Merb](https://en.wikipedia.org/wiki/Merb)
+  06:56 -&nbsp;[Gem Installer](https://geminstaller.rubyforge.org/)&nbsp;by [Chad Woolley](https://github.com/thewoolleyman/geminstaller)
+- [YAML](https://en.wikipedia.org/wiki/YAML) File
+  09:15 - [Gemfile](https://bundler.io/man/gemfile.5.html)10:30 - How does [Bundler](https://bundler.io/) Work? 11:42 - Best Practices
 - [“Spermy Operator"](https://github.com/rubygems/rubygems/pull/123)
 - "Twiddle-wakka"
-- [Red Dwarf](http://www.reddwarf.co.uk/news/index.cfm)
+- [Red Dwarf](https://www.reddwarf.co.uk/news/index.cfm)
   15:05 - Pessimistic Operator
-- [Semantic Versioning](http://semver.org/)
+- [Semantic Versioning](https://semver.org/)
   18:20 - Bundler Was Slow
-- [[Confreaks] André Arko: 'bundle install' Y U SO SLOW](http://confreaks.tv/videos/roa2012-bundle-install-y-u-so-slow)
+- [[Confreaks] André Arko: 'bundle install' Y U SO SLOW](https://confreaks.tv/videos/roa2012-bundle-install-y-u-so-slow)
   - [Nick Quaranto](https://github.com/qrush)
   - [Evan Phoenix](https://github.com/evanphx)
     24:06 - Gemsets vs Bundler 25:52 - Gemsets With Gem Installer 27:50 - Including Bundler in Your Own Applications

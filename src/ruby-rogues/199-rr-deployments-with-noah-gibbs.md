@@ -16,15 +16,15 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/codefolio)
 - [<u>GitHub</u>](https://github.com/noahgibbs)
-- [<u>Blog</u>](http://codefol.io/)
+- [<u>Blog</u>](https://codefol.io/)
 
 02:38 - [<u>Rebuilding Rails: Understand Rails by Building a Ruby Web Framework by Noah Gibbs</u>](https://rebuilding-rails.com/)
 
 - [<u>[YouTube] Noah Gibbs: GoGaRuCo 2013 - The Littlest ORM</u>](https://www.youtube.com/watch?v=Uh5MYvNXt0A)
 
-03:06 - [<u>Sinatra</u>](http://www.sinatrarb.com/)
+03:06 - [<u>Sinatra</u>](https://www.sinatrarb.com/)
 
-03:47 - [<u>Rack</u>](http://rack.github.io/)
+03:47 - [<u>Rack</u>](https://rack.github.io/)
 
 - [<u>Introduction to Rack middleware</u>](https://www.amberbit.com/blog/2011/07/13/introduction-to-rack-middleware/)
 - [<u>rackamole</u>](https://github.com/derailed/rackamole)
@@ -33,31 +33,31 @@ tags:
 
 - Hosting
   - [<u>Heroku</u>](https://www.heroku.com/)
-  - [<u>Redis</u>](http://redis.io/)
+  - [<u>Redis</u>](https://redis.io/)
   - [<u>Vagrant</u>](https://www.vagrantup.com/)
 - Server Provisioning
   - [<u>Chef</u>](https://www.chef.io/chef/)
   - [<u>Puppet</u>](https://puppetlabs.com/)
-  - [<u>Ansible</u>](http://www.ansible.com/)
-  - [<u>Capistrano</u>](http://capistranorb.com/)
+  - [<u>Ansible</u>](https://www.ansible.com/)
+  - [<u>Capistrano</u>](https://capistranorb.com/)
 
 12:22 - Support, Operations, and Monitoring
 
-- <u><a style="text-decoration: none;" href="http://en.wikipedia.org/wiki/DevOps">DevOps</a></u>
-- [<u>Database Administrator (DBA)</u>](http://en.wikipedia.org/wiki/Database_administrator)
-- [<u>[Confreaks] Paul Hinze: Smoke &amp; Mirrors: The Primitives of High Availability</u>](http://confreaks.tv/videos/mwrc2015-smoke-mirrors-the-primitives-of-high-availability)
+- <u><a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/DevOps">DevOps</a></u>
+- [<u>Database Administrator (DBA)</u>](https://en.wikipedia.org/wiki/Database_administrator)
+- [<u>[Confreaks] Paul Hinze: Smoke &amp; Mirrors: The Primitives of High Availability</u>](https://confreaks.tv/videos/mwrc2015-smoke-mirrors-the-primitives-of-high-availability)
 - Reliability
 - Enterprise Tools
   - [HashiCorp](https://hashicorp.com/)
-    - [<u>Ruby Rogues Episode #192: Vagrant with Mitchell Hashimoto</u>](http://devchat.tv/ruby-rogues/192-rr-vagrant-with-mitchell-hashimoto)
+    - [<u>Ruby Rogues Episode #192: Vagrant with Mitchell Hashimoto</u>](https://devchat.tv/ruby-rogues/192-rr-vagrant-with-mitchell-hashimoto)
 - Learning Curve and Lack of Documentation (“Wild West”)
 
 20:36 - Social Differences Between Communities: Ruby vs [<u>Python</u>](https://www.python.org/)
 
-- [<u>Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates</u>](http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates)
-- [<u>COBOL</u>](http://en.wikipedia.org/wiki/COBOL), [<u>Java</u>](https://www.oracle.com/java/), [<u>C</u>](<http://en.wikipedia.org/wiki/C_(programming_language)>)
-- [<u>The SaltStack</u>](http://saltstack.com/)
-  - [<u>Ryan D. Lane: Moving away from Puppet: SaltStack or Ansible?</u>](http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/)
+- [<u>Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates</u>](https://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates)
+- [<u>COBOL</u>](https://en.wikipedia.org/wiki/COBOL), [<u>Java</u>](https://www.oracle.com/java/), [<u>C</u>](<https://en.wikipedia.org/wiki/C_(programming_language)>)
+- [<u>The SaltStack</u>](https://saltstack.com/)
+  - [<u>Ryan D. Lane: Moving away from Puppet: SaltStack or Ansible?</u>](https://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/)
 
 27:18 - Deployment Tools Targeting Polyglot Architectures
 
@@ -71,15 +71,15 @@ tags:
 
 34:57 - Reproducibility
 
-- [<u>Bash</u>](http://www.gnu.org/software/bash/)
+- [<u>Bash</u>](https://www.gnu.org/software/bash/)
 
-35:44 - [<u>Docker</u>](http://www.docker.com/) and Configuration Management Tools
+35:44 - [<u>Docker</u>](https://www.docker.com/) and Configuration Management Tools
 
 - [<u>"chroot" = change root</u>](https://wiki.archlinux.org/index.php/change_root)
 
 44:06 - Deployment Problems
 
-46:45 - [<u>Ruby Mad Science</u>](http://rubymadscience.com/)
+46:45 - [<u>Ruby Mad Science</u>](https://rubymadscience.com/)
 
 - [<u>madscience_gem</u>](https://github.com/noahgibbs/madscience_gem)
 - Community Feedback
@@ -88,7 +88,7 @@ tags:
   - Multiple VM Setups
     Picks
 
-[<u>TuneMyGC</u>](https://tunemygc.com) (Coraline)[<u>Bear Metal: Rails Garbage Collection: Tuning Approaches</u>](https://bearmetal.eu/theden/rails-garbage-collection-tuning-approaches/) (Coraline)[<u>Rbkit</u>](http://rbkit.codemancers.com/) (Coraline) Get out and jump in a mud puddle! (Jessica)[<u>Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard</u>](https://pragprog.com/book/mnee/release-it) (Noah)[<u>Ruby DSL Handbook by Jim Gay</u>](http://clean-ruby.com/dsl) (Noah)
+[<u>TuneMyGC</u>](https://tunemygc.com) (Coraline)[<u>Bear Metal: Rails Garbage Collection: Tuning Approaches</u>](https://bearmetal.eu/theden/rails-garbage-collection-tuning-approaches/) (Coraline)[<u>Rbkit</u>](https://rbkit.codemancers.com/) (Coraline) Get out and jump in a mud puddle! (Jessica)[<u>Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard</u>](https://pragprog.com/book/mnee/release-it) (Noah)[<u>Ruby DSL Handbook by Jim Gay</u>](https://clean-ruby.com/dsl) (Noah)
 
 ### Transcript
 

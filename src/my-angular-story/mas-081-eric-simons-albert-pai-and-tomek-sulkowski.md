@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry&nbsp;](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry&nbsp;](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte&nbsp;](https://triplebyte.com/astory)offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Joined By Special Guests:** Eric Simons, Albert Pai and Tomek Sulkowski
@@ -27,7 +27,7 @@ Do you want to send your code to space? Find out how with Charles Max Wood, Eric
 - [MAS 044: Tomek Sułkowski](https://devchat.tv/my-angular-story/mas-044-tomek-sulkowski/)
 - [AiA 191: UX in Angular with Tomek Sułkowski](https://devchat.tv/adv-in-angular/aia-191-making-angular-easy-with-tomek-sulkowski/)
 - [Eric's Twitter](https://twitter.com/ericsimons40)
-- [Eric's Website](http://esft.com)
+- [Eric's Website](https://esft.com)
 - [Albert's Twitter](https://twitter.com/iamalbertpai?lang=en)
 - [Tomek's Medium](https://medium.com/@tomsu)
 - [Tomek's Twitter](https://twitter.com/sulco?lang=en)

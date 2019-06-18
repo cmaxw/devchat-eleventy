@@ -15,48 +15,48 @@ tags:
 ### Panel
 
 - Jon Schlinkert ([twitter](https://twitter.com/jonschlinkert) [github](https://github.com/jonschlinkert))
-- Brian Woodward ([twitter](https://twitter.com/doowb) [github](https://github.com/doowb) [blog](http://www.woodwardb.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Brian Woodward ([twitter](https://twitter.com/doowb) [github](https://github.com/doowb) [blog](https://www.woodwardb.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:44 - Jon and Brian Introductions
 
-- [Sellside](http://sellside.com/)
-  05:14 - [Assemble.io](http://assemble.io/)
+- [Sellside](https://sellside.com/)
+  05:14 - [Assemble.io](https://assemble.io/)
 - [Assemble.io](https://github.com/assemble) (GitHub)
-- [Jekyll](http://jekyllrb.com/)
+- [Jekyll](https://jekyllrb.com/)
   12:34 - Resources
-- [Foundation Docs](http://foundation.zurb.com/docs/)
+- [Foundation Docs](https://foundation.zurb.com/docs/)
   13:19 - Advantages 16:31 - Raising Funding 19:02 - Open Sourcing Assemble.io
 - [phaser](https://github.com/assemble/phaser)
   21:29 - Configuration
-- [Handlebars.js](http://handlebarsjs.com/)
+- [Handlebars.js](https://handlebarsjs.com/)
   24:09 - What to Use Assemble.io For 29:43 - Users
-- [Backbone + CoffeeScript](http://backbonecoffeescript.com/)
-- [Angular Explained by ScriptyBooks](http://www.angularjsbook.com/)
+- [Backbone + CoffeeScript](https://backbonecoffeescript.com/)
+- [Angular Explained by ScriptyBooks](https://www.angularjsbook.com/)
 
 ### Picks
 
-- [deadmau5](http://www.deadmau5.com/) (Aaron)
+- [deadmau5](https://www.deadmau5.com/) (Aaron)
 - [traceur-compile](https://github.com/google/traceur-compiler) (Aaron)
 - [grunt-traceur](https://github.com/aaronfrost/grunt-traceur/issues/14) (Aaron)
-- [Red Dragon by Thomas Harris](http://www.amazon.com/gp/product/0425228223/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0425228223&linkCode=as2&tag=chamaxwoo-20) (Jamison)
-- [Twitch Plays Pokemon](http://www.twitch.tv/twitchplayspokemon)&nbsp;(Jamison)
-- [MountainWest JavaScript](http://mtnwestjs.org/) (Jamison)
-- [Austinland](http://www.imdb.com/title/tt1985019/) (Joe)
-- [Psych](http://www.usanetwork.com/psych) (Joe)
-- [Teen Writers Conference](http://www.teenwritersconference.org/) (Joe)
-- [Basic Economics: A Common Sense Guide to the Economy by Thomas Sowell](http://www.amazon.com/gp/product/0465022529/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465022529&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [(Audible) Basic Economics, Fourth Edition: A Common Sense Guide to the Economy by Thomas Sowell](http://www.audible.com/pd/Business/Basic-Economics-Fourth-Edition-Audiobook/B004H2UBC4/ref=a_search_c4_1_1_srTtl?qid=1392746109&sr=1-1) (Chuck)
-- [Ep.#1 - "Aurora: CV-01": The Frontiers Saga by Ryk Brown](http://www.amazon.com/Ep-Aurora-CV-01-Frontiers-Saga/dp/1480121029/ref=la_B00727LG8Y_1_2?s=books&ie=UTF8&qid=1392745581&sr=1-2) (Jon)
+- [Red Dragon by Thomas Harris](https://www.amazon.com/gp/product/0425228223/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0425228223&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [Twitch Plays Pokemon](https://www.twitch.tv/twitchplayspokemon)&nbsp;(Jamison)
+- [MountainWest JavaScript](https://mtnwestjs.org/) (Jamison)
+- [Austinland](https://www.imdb.com/title/tt1985019/) (Joe)
+- [Psych](https://www.usanetwork.com/psych) (Joe)
+- [Teen Writers Conference](https://www.teenwritersconference.org/) (Joe)
+- [Basic Economics: A Common Sense Guide to the Economy by Thomas Sowell](https://www.amazon.com/gp/product/0465022529/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465022529&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [(Audible) Basic Economics, Fourth Edition: A Common Sense Guide to the Economy by Thomas Sowell](https://www.audible.com/pd/Business/Basic-Economics-Fourth-Edition-Audiobook/B004H2UBC4/ref=a_search_c4_1_1_srTtl?qid=1392746109&sr=1-1) (Chuck)
+- [Ep.#1 - "Aurora: CV-01": The Frontiers Saga by Ryk Brown](https://www.amazon.com/Ep-Aurora-CV-01-Frontiers-Saga/dp/1480121029/ref=la_B00727LG8Y_1_2?s=books&ie=UTF8&qid=1392745581&sr=1-2) (Jon)
 - [phaser](https://github.com/assemble/phaser) (Jon)
 - [Zombie's, Run!](https://www.zombiesrungame.com/) (Brian)
-- [Makers: The New Industrial Revolution by Chris Anderson](http://www.amazon.com/gp/product/0307720950/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307720950&linkCode=as2&tag=chamaxwoo-20) (Brian)
-- [24](http://www.imdb.com/title/tt0285331/) (Brian)
+- [Makers: The New Industrial Revolution by Chris Anderson](https://www.amazon.com/gp/product/0307720950/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307720950&linkCode=as2&tag=chamaxwoo-20) (Brian)
+- [24](https://www.imdb.com/title/tt0285331/) (Brian)
 
 ### Next Week
 

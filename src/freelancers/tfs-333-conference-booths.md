@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry small plan
+- [Sentry](https://sentry.io/)– use the code “devchat” for two months free on Sentry small plan
 - [Paymo](https://www.paymoapp.com/?utm_source=Devchat&utm_medium=podcast&utm_campaign=Devchat_Freelancers_Podcast)|[&nbsp;Opt for monthly & get 30% discount on paid plans for 6 months](https://app.paymoapp.com/?discount=622H2D#Paymo.module.subscription/)
 - [Try GanttPRO FREE for 14 days](https://ganttpro.com/)|[&nbsp;Software Development project template](https://ganttpro.com/software-development-plan-template/)&nbsp;Use coupon code “devchat” to[&nbsp;get $50 for using GanttPRO](https://ganttpro.com/go/devchat)
 - [CacheFly](https://www.cachefly.com/)

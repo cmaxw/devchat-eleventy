@@ -14,11 +14,11 @@ tags:
 
 ### Panel
 
-- Tim Caswell ([twitter](http://twitter.com/creationix/) [github](https://github.com/creationix/) [howtonode.org](http://howtonode.org/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/) [github](https://github.com/creationix/) [howtonode.org](https://howtonode.org/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
@@ -28,11 +28,11 @@ tags:
 - [ApplicationTedit Development Environment](https://chrome.google.com/webstore/detail/tedit-development-environ/ooekdijbnbbjdfjocaiflnjgoohnblgf)
 - [jsgit](https://github.com/creationix/jsgit)
   11:22 - [jack](https://github.com/creationix/jack)
-- [exploder.creationix.com](http://exploder.creationix.com/)
+- [exploder.creationix.com](https://exploder.creationix.com/)
   15:42 - Performance Issues 16:36 - Community Fundraisers & Support
 - [Kickstarter: JS Git by Tim Caswell](https://www.kickstarter.com/projects/creationix/js-git)
 - [Bountysource: JS-Git Fundraiser](https://www.bountysource.com/fundraisers/325-js-git)
-  21:41 - [Atom](http://atom.io/)23:22 - [npm](https://www.npmjs.org/)28:46 - js-git as a Database 30:49 - The Future of js-git & tedit
+  21:41 - [Atom](https://atom.io/)23:22 - [npm](https://www.npmjs.org/)28:46 - js-git as a Database 30:49 - The Future of js-git & tedit
 - Open Source
 - [Isaac Schlueter: Money and Open Source tl;dr - The current situation isn’t optimal](https://medium.com/open-source-life/d44a1953749c)
 - [Thoughts about future of js modules using js-git](https://medium.com/p/d8313c437fe4)
@@ -40,19 +40,19 @@ tags:
 
 ### Picks
 
-- [The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg](http://www.amazon.com/gp/product/081298160X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298160X&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [Frozen Endzone](http://www.frozenendzone.com/) (Joe)
-- [That Conference](http://www.thatconference.com/) (Joe)
-- [Doomsday (Friday Parody)](http://www.youtube.com/watch?v=TlwgW0ym8tI) (AJ)
+- [The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg](https://www.amazon.com/gp/product/081298160X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298160X&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [Frozen Endzone](https://www.frozenendzone.com/) (Joe)
+- [That Conference](https://www.thatconference.com/) (Joe)
+- [Doomsday (Friday Parody)](https://www.youtube.com/watch?v=TlwgW0ym8tI) (AJ)
 - [Stripe Documentation](https://stripe.com/docs/tutorials/charges) (AJ)
-- [PouchDB](http://pouchdb.com/) (AJ)
+- [PouchDB](https://pouchdb.com/) (AJ)
 - [node-ssl-root-cas](https://github.com/coolaj86/node-ssl-root-cas) (AJ)
 - [Project Tango from Google](https://www.google.com/atap/projecttango/) (Aaron)
-- [Agendas - "NightCrawlers" Offical Music Video (Jake Weary)](http://www.youtube.com/watch?v=-aT7vpYITJg) (Aaron)
-- [ASUS Transformer AiO P1801](http://www.asus.com/AllinOne_PCs/ASUS_Transformer_AiO_P1801/) (Tim)
-- [Fun music to code to/Electric Swing](http://www.caravanpalace.com/) (Tim)
+- [Agendas - "NightCrawlers" Offical Music Video (Jake Weary)](https://www.youtube.com/watch?v=-aT7vpYITJg) (Aaron)
+- [ASUS Transformer AiO P1801](https://www.asus.com/AllinOne_PCs/ASUS_Transformer_AiO_P1801/) (Tim)
+- [Fun music to code to/Electric Swing](https://www.caravanpalace.com/) (Tim)
 - [Fantastical](https://flexibits.com/fantastical) (Chuck)
-- [BusyCal](http://www.busymac.com/busycal/) (Chuck)
+- [BusyCal](https://www.busymac.com/busycal/) (Chuck)
 
 ### In Two Weeks
 

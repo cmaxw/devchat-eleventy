@@ -15,14 +15,14 @@ tags:
 02:51 - Marcus Blankenship Introduction
 
 - [Twitter](https://twitter.com/justzeros)
-- [Blog](http://marcusblankenship.com/list/)
+- [Blog](https://marcusblankenship.com/list/)
 
 03:09 - Panelist Worst Boss Experiences
 
 13:06 - Developer Anarchy vs Having a Hierarchy
 
-- [SE-Radio Episode 253: Fred George on Developer Anarchy](http://www.se-radio.net/2016/03/se-radio-episode-253-fred-george-on-developer-anarchy/)
-- [The Valve Playbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+- [SE-Radio Episode 253: Fred George on Developer Anarchy](https://www.se-radio.net/2016/03/se-radio-episode-253-fred-george-on-developer-anarchy/)
+- [The Valve Playbook](https://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 
 20:57 - Transitioning Managers
 
@@ -46,7 +46,7 @@ tags:
 
 51:55 - Why would anyone ever want to be a department manager?Picks
 
-[A Plain English Guide to JavaScript Prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/) (Aimee)[Oatmega](http://givebar.com/) (Aimee)[Luck by Tom Vek](<https://en.wikipedia.org/wiki/Luck_(Tom_Vek_album)>) (Jamison)[The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearly) All of Your Management Problems by Bruce Tulgan](http://www.amazon.com/Challenges-Managers-Face-Step-Step-ebook/dp/B00LMB5P42) (Marcus)[React Rally Call for Proposals](http://speak.reactrally.com) (Jamison)[React Rally](http://reactrally.com) (Jamison)[Multipliers: How the Best Leaders Make Everyone Smarter by Liz Wiseman](http://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) (Dave)[Soft Skills Engineering Podcast](https://player.fm/series/soft-skills-engineering) (Dave)
+[A Plain English Guide to JavaScript Prototypes](https://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/) (Aimee)[Oatmega](https://givebar.com/) (Aimee)[Luck by Tom Vek](<https://en.wikipedia.org/wiki/Luck_(Tom_Vek_album)>) (Jamison)[The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearly) All of Your Management Problems by Bruce Tulgan](https://www.amazon.com/Challenges-Managers-Face-Step-Step-ebook/dp/B00LMB5P42) (Marcus)[React Rally Call for Proposals](https://speak.reactrally.com) (Jamison)[React Rally](https://reactrally.com) (Jamison)[Multipliers: How the Best Leaders Make Everyone Smarter by Liz Wiseman](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) (Dave)[Soft Skills Engineering Podcast](https://player.fm/series/soft-skills-engineering) (Dave)
 
 ### Transcript
 

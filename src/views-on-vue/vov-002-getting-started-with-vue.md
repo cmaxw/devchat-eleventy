@@ -37,7 +37,7 @@ In this episode of Views on Vue, the panelists discuss how they each got into [V
 - [Vue.js Developers](https://vuejsdevelopers.com/)
 - [Vue.js news](https://www.getrevue.co/profile/vuenewsletter)
 - [Vue Vixens](https://vuevixens.org/)
-- [VueConf US](http://us.vuejs.org/)
+- [VueConf US](https://us.vuejs.org/)
 - [Framework Summit](https://www.frameworksummit.com/)
 - The importance of building a community across frameworks
 - [Build a To-Do App with Vue.js 2](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2)
@@ -63,7 +63,7 @@ In this episode of Views on Vue, the panelists discuss how they each got into [V
 - [Vue.js Developers](https://vuejsdevelopers.com/)
 - [Vue.js news](https://www.getrevue.co/profile/vuenewsletter)
 - [Vue Vixens](https://vuevixens.org/)
-- [VueConf US](http://us.vuejs.org/)
+- [VueConf US](https://us.vuejs.org/)
 - [Build a To-Do App with Vue.js 2](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2)
 - [ES6](https://es6.io/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -82,7 +82,7 @@ Charles
 - [React Dev Summit](https://reactdevsummit.com/)
 - [Framework Summit](https://www.frameworksummit.com/)
 - Joe
-- [Counterpart](http://www.imdb.com/title/tt4643084/)
+- [Counterpart](https://www.imdb.com/title/tt4643084/)
 - [Sagrada Board Game](https://www.amazon.com/Floodgate-Games-Sagrada-Board-Game/dp/B01MTG2QY2)
 
 Cher

@@ -14,11 +14,11 @@ tags:
 
 02:28 - Ward Bell (and Co.’s) Documentation Contributions for Angular 2
 
-05:39 - [Peter Bacon Darwin](https://twitter.com/petebd) (and Co.) & [Jade](http://jade-lang.com/)
+05:39 - [Peter Bacon Darwin](https://twitter.com/petebd) (and Co.) & [Jade](https://jade-lang.com/)
 
 07:38 - John Papa and the [Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/)
 
-09:01 - [Geoff Goodman](https://twitter.com/g_goodman) & [Plunker](http://plnkr.co/)
+09:01 - [Geoff Goodman](https://twitter.com/g_goodman) & [Plunker](https://plnkr.co/)
 
 10:07 - [GDE (Google Developer Expert) Program/Summit](https://developers.google.com/experts/)
 
@@ -26,9 +26,9 @@ tags:
 
 16:07 - The Angular Team \<3
 
-17:13 - [Rob Wormald: ng2 + Rx + redux Plunker](http://plnkr.co/edit/wj4lRtAwNMry8ToNzLrm?p=info)
+17:13 - [Rob Wormald: ng2 + Rx + redux Plunker](https://plnkr.co/edit/wj4lRtAwNMry8ToNzLrm?p=info)
 
-- Rob Wormald: [Everything is a Stream Slides from Angular Remote Conf](http://slides.com/robwormald/everything-is-a-stream#/)
+- Rob Wormald: [Everything is a Stream Slides from Angular Remote Conf](https://slides.com/robwormald/everything-is-a-stream#/)
 
 19:13 - [The Go Programming Language](https://golang.org/)
 
@@ -38,20 +38,20 @@ tags:
 
 22:52 - [Minko Gechev](https://twitter.com/mgechev)
 
-- [Minko Gechev: Angular 2 Hot Loader](http://blog.mgechev.com/2015/10/26/angular2-hot-loader-hot-loading-tooling/)
+- [Minko Gechev: Angular 2 Hot Loader](https://blog.mgechev.com/2015/10/26/angular2-hot-loader-hot-loading-tooling/)
 - [Minko Gechev and Finn Fitzsimons: React and NG2 (Google Doc)](https://twitter.com/mgechev/status/668072235677130752)
 
-25:56 - [FiveFilters.org](http://fivefilters.org/)
+25:56 - [FiveFilters.org](https://fivefilters.org/)
 
-26:35 - [Aurelia](http://aurelia.io/) & Other Frameworks + Collaboration and Dialog
+26:35 - [Aurelia](https://aurelia.io/) & Other Frameworks + Collaboration and Dialog
 
-- [Rob Eisenberg: Aurelia Beta Week - Day 1 - The Beta is Here!](http://blog.durandal.io/2015/11/16/aurelia-beta-week-day-1-the-beta-is-here/)
-- [The Elm Programming Language](http://elm-lang.org/)
+- [Rob Eisenberg: Aurelia Beta Week - Day 1 - The Beta is Here!](https://blog.durandal.io/2015/11/16/aurelia-beta-week-day-1-the-beta-is-here/)
+- [The Elm Programming Language](https://elm-lang.org/)
 - [Merrick Christensen: "Innovation is not a ladder, climbed top to bottom. It's a tree growing in lots of directions."](https://twitter.com/iammerrick/status/663780058109100032)
   Picks
 - The GDE Summit and The Angular Community (Lukas)
 - [Thanksgiving](https://en.wikipedia.org/wiki/Thanksgiving) (Ward)
-- [REI](http://www.rei.com/) (Joe)
+- [REI](https://www.rei.com/) (Joe)
 
 ### Transcript
 

@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small
 - [Triplebyte](https://triplebyte.com/vue) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -37,7 +37,7 @@ Michele Cynowicz tells the panel about working for Vox and what they do. She sha
 
 ### **Picks**
  **Chris Fritz:**
-- [http://www.letswatchstartrek.com/ds9-episode-guide/](http://www.letswatchstartrek.com/ds9-episode-guide/)
+- [https://www.letswatchstartrek.com/ds9-episode-guide/](https://www.letswatchstartrek.com/ds9-episode-guide/)
 - [DBT® Skills Training Manual, Second Edition](https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_stripbooks_sr_pg1_1?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 - [Stories of Your Life and Others](https://www.amazon.com/Stories-Your-Life-Others-Chiang-ebook/dp/B0048EKOP0/ref=sr_1_1?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 **Ben Hong:**

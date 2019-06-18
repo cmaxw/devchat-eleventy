@@ -14,112 +14,112 @@ tags:
 
 ### Panel
 
-- TJ VanToll ([twitter](https://twitter.com/tjvantoll)&nbsp;[github](https://github.com/tjvantoll)&nbsp;[blog](http://tjvantoll.com/))
-- Burke Holland ([twitter](https://twitter.com/burkeholland)&nbsp;[github](https://github.com/burkeholland)&nbsp;[blog](http://a.shinynew.me/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev)&nbsp;[github](https://github.com/aaronfrost)&nbsp;[blog](http://www.jsdotnext.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://blog.coolaj86.com/)&nbsp;[youtube](http://youtube.com/coolaj86))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- TJ VanToll ([twitter](https://twitter.com/tjvantoll)&nbsp;[github](https://github.com/tjvantoll)&nbsp;[blog](https://tjvantoll.com/))
+- Burke Holland ([twitter](https://twitter.com/burkeholland)&nbsp;[github](https://github.com/burkeholland)&nbsp;[blog](https://a.shinynew.me/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev)&nbsp;[github](https://github.com/aaronfrost)&nbsp;[blog](https://www.jsdotnext.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://blog.coolaj86.com/)&nbsp;[youtube](https://youtube.com/coolaj86))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:59 - Burke Holland Introduction
 
-- [Telerik](http://www.telerik.com/)
-  02:07 - TJ VanToll Introduction 02:43 - Differences Between [jQuery UI](http://jqueryui.com/) and [Kendo UI](http://www.telerik.com/kendo-ui) 04:43 - Data Widgets
-- [Widget Factory](http://jqueryui.com/widget/) - jQuery UI
-- [Autocomplete](http://docs.telerik.com/kendo-ui/api/web/autocomplete)
+- [Telerik](https://www.telerik.com/)
+  02:07 - TJ VanToll Introduction 02:43 - Differences Between [jQuery UI](https://jqueryui.com/) and [Kendo UI](https://www.telerik.com/kendo-ui) 04:43 - Data Widgets
+- [Widget Factory](https://jqueryui.com/widget/) - jQuery UI
+- [Autocomplete](https://docs.telerik.com/kendo-ui/api/web/autocomplete)
 - Building Counters
-- [Ajax Widgets](http://www.sitepoint.com/10-awesome-jquery-ajax-widgets/)
+- [Ajax Widgets](https://www.sitepoint.com/10-awesome-jquery-ajax-widgets/)
   07:36 - Strengths
-- [jQuery UI Themes](http://www.webresourcesdepot.com/free-jquery-ui-themes-collection/)
-- [Backbone](http://backbonejs.org/)
-- [MVVM](http://en.wikipedia.org/wiki/Model_View_ViewModel)
-- [Ember](http://emberjs.com/)
-- [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-  10:12 -Comparison Site: [jQuery UI vs. Kendo UI.com](http://jqueryuivskendoui.com/)
-- [GPL License](http://en.wikipedia.org/wiki/GPL_license)
-- [IE7](http://en.wikipedia.org/wiki/Internet_Explorer_7)
-- [IE8](http://en.wikipedia.org/wiki/Internet_Explorer_8)
-- [Download IE8](http://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx)
-- [HTML 5](http://en.wikipedia.org/wiki/HTML5)
+- [jQuery UI Themes](https://www.webresourcesdepot.com/free-jquery-ui-themes-collection/)
+- [Backbone](https://backbonejs.org/)
+- [MVVM](https://en.wikipedia.org/wiki/Model_View_ViewModel)
+- [Ember](https://emberjs.com/)
+- [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+  10:12 -Comparison Site: [jQuery UI vs. Kendo UI.com](https://jqueryuivskendoui.com/)
+- [GPL License](https://en.wikipedia.org/wiki/GPL_license)
+- [IE7](https://en.wikipedia.org/wiki/Internet_Explorer_7)
+- [IE8](https://en.wikipedia.org/wiki/Internet_Explorer_8)
+- [Download IE8](https://www.microsoft.com/en-us/download/internet-explorer-8-details.aspx)
+- [HTML 5](https://en.wikipedia.org/wiki/HTML5)
   11:53 - IE Drops 13:49 - Browser Compatibility
-- [Safari](http://www.apple.com/safari/)
+- [Safari](https://www.apple.com/safari/)
 - [Chrome](https://www.google.com/chrome/browser/)
-- [Firefox](http://www.mozilla.org/en-US/firefox/new/)
-- [Android Operating System](http://www.android.com/)
-- [Android 2.3](http://www.techradar.com/news/phone-and-communications/mobile-phones/android-2-3-what-you-need-to-know-913559)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Android Operating System](https://www.android.com/)
+- [Android 2.3](https://www.techradar.com/news/phone-and-communications/mobile-phones/android-2-3-what-you-need-to-know-913559)
   16:07 - Writing Apps and Frameworks
 - [AngularJS](https://angularjs.org/)
   17:35 - Ideas for Next Versions
-- [Datepicker Widget](http://docs.telerik.com/kendo-ui/api/web/datepicker) - jQuery UI
-- [Roadmap](http://blogs.telerik.com/kendoui/posts/14-01-08/announcing-the-kendo-ui-q1-2014-roadmap) - Kendo UI
-- [How Kendo UI Uses Kendo UI To Build Angular Directives For Kendo UI](http://flippinawesome.org/2014/02/03/how-kendo-ui-uses-kendo-ui-to-build-angular-directives-for-kendo-ui/)
+- [Datepicker Widget](https://docs.telerik.com/kendo-ui/api/web/datepicker) - jQuery UI
+- [Roadmap](https://blogs.telerik.com/kendoui/posts/14-01-08/announcing-the-kendo-ui-q1-2014-roadmap) - Kendo UI
+- [How Kendo UI Uses Kendo UI To Build Angular Directives For Kendo UI](https://flippinawesome.org/2014/02/03/how-kendo-ui-uses-kendo-ui-to-build-angular-directives-for-kendo-ui/)
   21:34 - Different Frameworks
-- [JavaScript](http://en.wikipedia.org/wiki/JavaScript) vs. Full App
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) vs. Full App
   23:34 - Most Popular Features of Kendo UI
-- [Grid](http://docs.telerik.com/kendo-ui/api/web/grid)
-- [Editor](http://docs.telerik.com/kendo-ui/api/web/editor)
-- [ACE Editor](http://ace.c9.io/#nav=about)
-- [Scheduler](http://docs.telerik.com/kendo-ui/api/web/scheduler)
-- [TreeView](http://docs.telerik.com/kendo-ui/api/web/treeview)
-- [Upload](http://docs.telerik.com/kendo-ui/api/web/upload)
+- [Grid](https://docs.telerik.com/kendo-ui/api/web/grid)
+- [Editor](https://docs.telerik.com/kendo-ui/api/web/editor)
+- [ACE Editor](https://ace.c9.io/#nav=about)
+- [Scheduler](https://docs.telerik.com/kendo-ui/api/web/scheduler)
+- [TreeView](https://docs.telerik.com/kendo-ui/api/web/treeview)
+- [Upload](https://docs.telerik.com/kendo-ui/api/web/upload)
 - Diagramming Tool (DataViz)
-- [Vizio](http://www.vizio.com/)
-- [Gantt](http://docs.telerik.com/kendo-ui/api/web/gantt)
-- [VML](http://en.wikipedia.org/wiki/Vector_Markup_Language)
+- [Vizio](https://www.vizio.com/)
+- [Gantt](https://docs.telerik.com/kendo-ui/api/web/gantt)
+- [VML](https://en.wikipedia.org/wiki/Vector_Markup_Language)
   26:40 - Customer Implementation 27:29 - Testing Features
-- [DOM](http://en.wikipedia.org/wiki/Document_Object_Model)
-- [React](http://facebook.github.io/react/)
-- [Kendo UI Scroller](http://docs.telerik.com/kendo-ui/getting-started/mobile/scroller)
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
+- [React](https://facebook.github.io/react/)
+- [Kendo UI Scroller](https://docs.telerik.com/kendo-ui/getting-started/mobile/scroller)
   30:24 - “Amazing Implementations of Kendo UI”
-- [Telerik Blog Post on University of Wisconsin](http://blogs.telerik.com/kendoui/posts/page/15)
+- [Telerik Blog Post on University of Wisconsin](https://blogs.telerik.com/kendoui/posts/page/15)
   31:11 - Future of Roadmaps
 - [Google](https://www.google.com/)
 - Datepicker
-- [Globalize](http://docs.telerik.com/kendo-ui/getting-started/framework/globalization/overview)
-- [CLDR](http://en.wikipedia.org/wiki/CLDR)
-- [Pointer Events](http://en.wikipedia.org/wiki/Touch_event#Pointer_events.5B7.5D)
-- [Polyfill](http://en.wikipedia.org/wiki/Polyfill)
-- [Touch Events](http://en.wikipedia.org/wiki/Touch_event#Touch_events)
+- [Globalize](https://docs.telerik.com/kendo-ui/getting-started/framework/globalization/overview)
+- [CLDR](https://en.wikipedia.org/wiki/CLDR)
+- [Pointer Events](https://en.wikipedia.org/wiki/Touch_event#Pointer_events.5B7.5D)
+- [Polyfill](https://en.wikipedia.org/wiki/Polyfill)
+- [Touch Events](https://en.wikipedia.org/wiki/Touch_event#Touch_events)
   33:04 - CLDR/INTL
 - [INTL](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)
   34:16 - Rewriting Frameworks/Constant New Frameworks
-- [No More JS Frameworks by Joe Gregorio](http://bitworking.org/news/2014/05/zero_framework_manifesto)
-- [Knockout](http://knockoutjs.com/)
-- [Underscore](http://underscorejs.org/)
-- [Modular AMD](http://addyosmani.com/writing-modular-js/)
-- [CSS](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-- [ASync Attribute and Scripts at the Bottom by Chris Coyler](http://css-tricks.com/async-attribute-scripts-bottom/)
+- [No More JS Frameworks by Joe Gregorio](https://bitworking.org/news/2014/05/zero_framework_manifesto)
+- [Knockout](https://knockoutjs.com/)
+- [Underscore](https://underscorejs.org/)
+- [Modular AMD](https://addyosmani.com/writing-modular-js/)
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [ASync Attribute and Scripts at the Bottom by Chris Coyler](https://css-tricks.com/async-attribute-scripts-bottom/)
   44:03 - Frameworks and Browsers
 - [Ilya Grigorik at Chrome Dev Summit 2013](https://www.youtube.com/watch?v=eJZ8SdU9zII&list=UU2YCnM2rCPlRkVT91fNvVkQ)
 - [Bootstrap](https://github.com/twbs/bootstrap)
-- [Optimization](<http://en.wikipedia.org/wiki/Optimization_(computer_science)>)
+- [Optimization](<https://en.wikipedia.org/wiki/Optimization_(computer_science)>)
 - [Gmail](https://mail.google.com/)
-- [Script Tags](http://javascript.crockford.com/script.html)
-- [Skype](http://www.skype.com/en/)
+- [Script Tags](https://javascript.crockford.com/script.html)
+- [Skype](https://www.skype.com/en/)
   48:51 - Contributing to jQuery UI or Kendo UI
-- [Stack Overflow](http://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/)
 - [kendo-ui-core](https://github.com/telerik/kendo-ui-core)
 - [GitHub](https://github.com/)
 
 ### Picks
 
-- [Aveda Control Paste](http://www.amazon.com/gp/product/B003JCLABO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003JCLABO&linkCode=as2&tag=chamaxwoo-20&linkId=SQJUS7YO3YKAFQE4) (AJ)
-- [Semi-Colorful Argyle Socks](http://www.amazon.com/gp/product/B00CD6121K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CD6121K&linkCode=as2&tag=chamaxwoo-20&linkId=OYXQXQ6W6FL7HY4S) (AJ)
-- [Egghead.io course on Grunt builds for Angular apps](http://egghead.io/) (Aaron)
-- [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](http://www.amazon.com/gp/product/0812972155/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812972155&linkCode=as2&tag=chamaxwoo-20&linkId=ER7ZZH64CIH6PR4X) (Aaron)
+- [Aveda Control Paste](https://www.amazon.com/gp/product/B003JCLABO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003JCLABO&linkCode=as2&tag=chamaxwoo-20&linkId=SQJUS7YO3YKAFQE4) (AJ)
+- [Semi-Colorful Argyle Socks](https://www.amazon.com/gp/product/B00CD6121K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CD6121K&linkCode=as2&tag=chamaxwoo-20&linkId=OYXQXQ6W6FL7HY4S) (AJ)
+- [Egghead.io course on Grunt builds for Angular apps](https://egghead.io/) (Aaron)
+- [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.amazon.com/gp/product/0812972155/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812972155&linkCode=as2&tag=chamaxwoo-20&linkId=ER7ZZH64CIH6PR4X) (Aaron)
 - [Audible](https://mobile.audible.com/productDetail.htm?asin=B008K8BQG6) (Aaron)
 - [ng-annotate](https://www.npmjs.org/package/grunt-ng-annotate) (Aaron)
-- [U.S. Soccer](http://ussoccer.com/) (Joe)
+- [U.S. Soccer](https://ussoccer.com/) (Joe)
 - [Path of Exile](https://www.pathofexile.com/) (Joe)
-- [Council of Verona](http://www.amazon.com/gp/product/B00HAHALVE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HAHALVE&linkCode=as2&tag=chamaxwoo-20&linkId=JXLIJGOSUSGUBZDM) (Joe)
-- [BetaBrand](http://www.betabrand.com/mens/pants.html) (Burke)
+- [Council of Verona](https://www.amazon.com/gp/product/B00HAHALVE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HAHALVE&linkCode=as2&tag=chamaxwoo-20&linkId=JXLIJGOSUSGUBZDM) (Joe)
+- [BetaBrand](https://www.betabrand.com/mens/pants.html) (Burke)
 - [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12) (Burke)
-- [High Performance Browser Networking by Ilya Grigorik](http://chimera.labs.oreilly.com/books/1230000000545)&nbsp;(TJ)
-- [Nothing to Envy: Ordinary Lives in North Korea by Barbara Demick](http://www.amazon.com/gp/product/0385523912/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385523912&linkCode=as2&tag=chamaxwoo-20&linkId=SFPX6YI3NKTIWHRA)&nbsp;(TJ)
-- [Divergent by Veronica Roth](http://www.amazon.com/gp/product/0062024035/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062024035&linkCode=as2&tag=chamaxwoo-20&linkId=IKZTZCBP3EDLVOZC) (TJ)
+- [High Performance Browser Networking by Ilya Grigorik](https://chimera.labs.oreilly.com/books/1230000000545)&nbsp;(TJ)
+- [Nothing to Envy: Ordinary Lives in North Korea by Barbara Demick](https://www.amazon.com/gp/product/0385523912/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385523912&linkCode=as2&tag=chamaxwoo-20&linkId=SFPX6YI3NKTIWHRA)&nbsp;(TJ)
+- [Divergent by Veronica Roth](https://www.amazon.com/gp/product/0062024035/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062024035&linkCode=as2&tag=chamaxwoo-20&linkId=IKZTZCBP3EDLVOZC) (TJ)
 
 ### Next Week
 

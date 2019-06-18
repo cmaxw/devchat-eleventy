@@ -5,7 +5,7 @@ title: >
 date: 2016-06-09 07:00:59
 episode_number: 205
 duration: 01:04:41
-audio_url: http://media.devchat.tv/freelancers/FS205Retreats.mp3
+audio_url: https://media.devchat.tv/freelancers/FS205Retreats.mp3
 podcast: freelancers
 tags:
   - freelancers
@@ -15,9 +15,9 @@ tags:
 01:39 - Sherry Muterspaugh Walling Introduction
 
 - [Twitter](https://twitter.com/zenfounder)
-- [Blog](http://www.sherrywalling.com/)
+- [Blog](https://www.sherrywalling.com/)
 - [Zen Founder: Startup. Family. Life. By Rob & Sherry Walling](https://itunes.apple.com/us/podcast/zen-founder-startup.-family./id965682541?mt=2)
-- [Startups For The Rest of Us](http://www.startupsfortherestofus.com/)
+- [Startups For The Rest of Us](https://www.startupsfortherestofus.com/)
 - [The Zen Founder Guide to Founder Retreats by Sherry Walling](https://gumroad.com/l/retreats)
   04:18 - “Retreats”
 - Retreats vs Vacations
@@ -28,11 +28,11 @@ tags:
   &nbsp;Picks
 - [Surprisingly Awesome #11 Boredom](https://gimletmedia.com/episode/11-boredom/) (Reuven)
 - [Park City, Utah](https://www.visitparkcity.com/) (Chuck)
-- [Sundance](http://www.sundanceresort.com/) (Chuck)
-- [Ventura, California](http://www.cityofventura.net/) (Chuck)
-- [Moab: Arches National Park](http://www.discovermoab.com/archesnationalpark.htm) (Chuck)
+- [Sundance](https://www.sundanceresort.com/) (Chuck)
+- [Ventura, California](https://www.cityofventura.net/) (Chuck)
+- [Moab: Arches National Park](https://www.discovermoab.com/archesnationalpark.htm) (Chuck)
 - [Zion National Park](https://www.nps.gov/zion/) (Chuck)
-- [Retreat Finder](http://www.retreatfinder.com/) (Sherry)
+- [Retreat Finder](https://www.retreatfinder.com/) (Sherry)
 - [Headspace](https://www.headspace.com/) (Sherry)
 - [The Zen Founder Guide to Founder Retreats by Sherry Walling](https://gumroad.com/l/retreats) (Sherry)
 

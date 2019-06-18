@@ -31,7 +31,7 @@ tags:
 - And much more!
   **Picks:** Johnathan
 - https://www.crowdcast.io/e/altitude/register
-- [howtobuildyourfirstproductizedservice.com](http://howtobuildyourfirstproductizedservice.com)
+- [howtobuildyourfirstproductizedservice.com](https://howtobuildyourfirstproductizedservice.com)
   Philip
 - [Crossing the Chasm&nbsp;](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
 

@@ -34,8 +34,8 @@ tags:
 - How do you make my clients lives better
 - And much more!
   **Picks:** Jonathan
-- [Hourly Billing Is Nuts](http://hourlybillingisnuts.com)
+- [Hourly Billing Is Nuts](https://hourlybillingisnuts.com)
   Kai
-- [Quick Start Roadmapping Projects](http://roadmappingprojects.com)
+- [Quick Start Roadmapping Projects](https://roadmappingprojects.com)
 
 ### Transcript

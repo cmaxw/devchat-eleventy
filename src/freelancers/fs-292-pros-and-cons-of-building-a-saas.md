@@ -49,7 +49,7 @@ In this episode of the Freelancer’s Show, Reuven and Jonathan discuss “Pros 
 Jonathan
 
 - [The Seven Basic Plots: Why We Tell Stories](https://www.amazon.com/Seven-Basic-Plots-Tell-Stories/dp/0826480373)
-- [Value Pricing Bootcamp](http://valuepricingbootcamp.com)
+- [Value Pricing Bootcamp](https://valuepricingbootcamp.com)
 
 Reuven
 

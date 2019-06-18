@@ -14,58 +14,58 @@ tags:
 
 ### Panel
 
-- Valeri Karpov ([twitter](https://twitter.com/code_barbarian)&nbsp;[blog](http://thecodebarbarian.com/)&nbsp;[github](https://github.com/vkarpov15))
-- Ward Bell ([twitter](https://twitter.com/wardbell) [blog](http://neverindoubtnet.blogspot.com/%20) [github](https://github.com/wardbell))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Valeri Karpov ([twitter](https://twitter.com/code_barbarian)&nbsp;[blog](https://thecodebarbarian.com/)&nbsp;[github](https://github.com/vkarpov15))
+- Ward Bell ([twitter](https://twitter.com/wardbell) [blog](https://neverindoubtnet.blogspot.com/%20) [github](https://github.com/wardbell))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-01:25 - [The MEAN Stack](http://blog.mongodb.org/post/49262866911/the-mean-stack-mongodb-expressjs-angularjs-and)
+01:25 - [The MEAN Stack](https://blog.mongodb.org/post/49262866911/the-mean-stack-mongodb-expressjs-angularjs-and)
 
-- [Mongo.db](http://www.mongodb.org/)
-- [Express.js](http://expressjs.com/)
-- [AngularJS](http://angularjs.org/)
-- [Node.js](http://nodejs.org/)
-- [MySQL](http://www.mysql.com/)
-  05:21 - Concurrency 12:49 - [Express.js](http://expressjs.com/)
+- [Mongo.db](https://www.mongodb.org/)
+- [Express.js](https://expressjs.com/)
+- [AngularJS](https://angularjs.org/)
+- [Node.js](https://nodejs.org/)
+- [MySQL](https://www.mysql.com/)
+  05:21 - Concurrency 12:49 - [Express.js](https://expressjs.com/)
 - [Sinatra](https://github.com/sinatra/sinatra)
   14:48 - Working Within the MEAN Stack
 - Mongo and Node
 - Code Sharing
 - Validation Logic
 - [NPM](https://npmjs.org/)
-  28:40 - Using [Angular](http://angularjs.org/)
-- [Knockout](http://knockoutjs.com/)
+  28:40 - Using [Angular](https://angularjs.org/)
+- [Knockout](https://knockoutjs.com/)
   34:40 - Hosting
 - [Digital Ocean](https://www.digitalocean.com/?refcode=a3f178e25ae4)
   37:37 - Deploying MEAN Applications
-- [Apache](http://httpd.apache.org/)
-- [nginx](http://nginx.org/)
+- [Apache](https://httpd.apache.org/)
+- [nginx](https://nginx.org/)
   41:40 - Memory Management
-- [Simon McManus: Forcing Garbage Collection with Node.js and V8](http://simonmcmanus.wordpress.com/2013/01/03/forcing-garbage-collection-with-node-js-and-v8/)
+- [Simon McManus: Forcing Garbage Collection with Node.js and V8](https://simonmcmanus.wordpress.com/2013/01/03/forcing-garbage-collection-with-node-js-and-v8/)
   46:06 - JavaScript Developers 47:42 - Resources
-- [Mean.io](http://mean.io/)
-- [The Code Barbarian](http://thecodebarbarian.wordpress.com/)
-- [egghead.io](http://egghead.io/)
+- [Mean.io](https://mean.io/)
+- [The Code Barbarian](https://thecodebarbarian.wordpress.com/)
+- [egghead.io](https://egghead.io/)
 - [Mongo.db University](https://education.mongodb.com/)
-- [Breeze.js](http://www.breezejs.com/)
+- [Breeze.js](https://www.breezejs.com/)
 
 ### Picks
 
-- [MountainWest JavaScript](http://mtnwestjs.org/) (Jamison)
-- [Risk of Rain](http://chrischristodoulou.bandcamp.com/album/risk-of-rain) (Jamison)
-- [Joe Eames: Pluralsight Courses](http://pluralsight.com/training/Authors/Details/joe-eames) (Joe)
-- [The Legend of Zelda: A Link Between Worlds](http://zelda.com/link-between-worlds/) (Joe)
+- [MountainWest JavaScript](https://mtnwestjs.org/) (Jamison)
+- [Risk of Rain](https://chrischristodoulou.bandcamp.com/album/risk-of-rain) (Jamison)
+- [Joe Eames: Pluralsight Courses](https://pluralsight.com/training/Authors/Details/joe-eames) (Joe)
+- [The Legend of Zelda: A Link Between Worlds](https://zelda.com/link-between-worlds/) (Joe)
 - [Disneyland](https://disneyland.disney.go.com/) (Chuck)
-- [New Media Expo](http://nmxlive.com/) (Chuck)
-- [Valeri Karpov: The Code Barbarian](http://thecodebarbarian.com/) (Valeri)
-- [The Book of Five Rings by Miyamoto Musashi](http://en.wikipedia.org/wiki/The_Book_of_Five_Rings) (Valeri)
-- [Breeze.js](http://www.breezejs.com/) (Ward)
-- [ng-conf](http://ng-conf.org/) (Ward)
-- [Angle Brackets](http://anglebrackets.org/) (Ward)
-- [Her](http://www.imdb.com/title/tt1798709/) (Ward)
+- [New Media Expo](https://nmxlive.com/) (Chuck)
+- [Valeri Karpov: The Code Barbarian](https://thecodebarbarian.com/) (Valeri)
+- [The Book of Five Rings by Miyamoto Musashi](https://en.wikipedia.org/wiki/The_Book_of_Five_Rings) (Valeri)
+- [Breeze.js](https://www.breezejs.com/) (Ward)
+- [ng-conf](https://ng-conf.org/) (Ward)
+- [Angle Brackets](https://anglebrackets.org/) (Ward)
+- [Her](https://www.imdb.com/title/tt1798709/) (Ward)
 
 ### Next Week
 

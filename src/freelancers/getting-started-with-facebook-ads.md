@@ -30,6 +30,6 @@ Together with her clients, Mojca begins by advertising&nbsp;a blog post to a col
 
 ## Picks:
 
-Curtis: [Galago Pro](https://system76.com/cart/configure/galp2)Mojca: [Bear Writing Tool](http://www.bear-writer.com/), [Sketch App](https://sketchapp.com/), and [Two Dots](https://www.dots.co/twodots/)Jonathan: [Fidget Cube](https://thefidgetcube.co/products/fidget-cube), [Drip](https://www.drip.co/), and [Ditching Hourly](http://www.ditchinghourly.com/)
+Curtis: [Galago Pro](https://system76.com/cart/configure/galp2)Mojca: [Bear Writing Tool](https://www.bear-writer.com/), [Sketch App](https://sketchapp.com/), and [Two Dots](https://www.dots.co/twodots/)Jonathan: [Fidget Cube](https://thefidgetcube.co/products/fidget-cube), [Drip](https://www.drip.co/), and [Ditching Hourly](https://www.ditchinghourly.com/)
 
 ### Transcript

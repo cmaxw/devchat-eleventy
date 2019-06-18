@@ -14,9 +14,9 @@ tags:
 
 ## **Sponsors**
 
-- [Triplebyte](http://triplebyte.com/jsjabber)&nbsp;$1000 signing bonus
+- [Triplebyte](https://triplebyte.com/jsjabber)&nbsp;$1000 signing bonus
 - [Sentry](https://sentry.io/) use code “devchat” for 2 months free
-- [Linode](http://linode.com/javascriptjabber)
+- [Linode](https://linode.com/javascriptjabber)
 
 ### **Panel**
 

@@ -24,12 +24,12 @@ tags:
 
 **Special Guests:** Jacob Stoebel
 
-In this episode of Ruby Rogues, the panel discusses code reviews with Jacob Stoebel. Jacob is a [Rails](http://rubyonrails.org/) and [JavaScript](https://www.javascript.com/) developer and works for [ePublishing](https://www.epublishing.com/) where he does mostly front-end programming. He talks about how he believes that code reviews can be both honest and nice, and that they should inspire the programmer to want to go back and make his/her code better, not tear him/her down. He also gives fours steps to the response process for giving positive and helpful code reviews.
+In this episode of Ruby Rogues, the panel discusses code reviews with Jacob Stoebel. Jacob is a [Rails](https://rubyonrails.org/) and [JavaScript](https://www.javascript.com/) developer and works for [ePublishing](https://www.epublishing.com/) where he does mostly front-end programming. He talks about how he believes that code reviews can be both honest and nice, and that they should inspire the programmer to want to go back and make his/her code better, not tear him/her down. He also gives fours steps to the response process for giving positive and helpful code reviews.
 
 **In particular, we dive pretty deep on:**
 
 - Jacob intro
-- [Rails](http://rubyonrails.org/) and [JavaScript](https://www.javascript.com/)
+- [Rails](https://rubyonrails.org/) and [JavaScript](https://www.javascript.com/)
 - Are there other places beside code reviews that we give this kind of feedback?
 - Talking about code reviews is a great ice-breaker at conferences
 - Developing is a creative profession
@@ -53,11 +53,11 @@ In this episode of Ruby Rogues, the panel discusses code reviews with Jacob Stoe
 - [React Dev Summit](https://reactdevsummit.com/)
 - [JS Dev Summit](https://jsdevsummit.com/)
 - [ePublishing](https://www.epublishing.com/)
-- [Rails](http://rubyonrails.org/)
+- [Rails](https://rubyonrails.org/)
 - [JavaScript](https://www.javascript.com/)
 - [@JStoebel](https://twitter.com/jstoebel?lang=en)
 - [Jacob’s GitHub](https://github.com/jstoebel)
-- [Jacob’s Website](http://www.jstoebel.com/)
+- [Jacob’s Website](https://www.jstoebel.com/)
 
 **Picks:**
 
@@ -68,12 +68,12 @@ Charles
 
 Dave
 
-- [Humane Development](http://humanedevelopment.org/)
+- [Humane Development](https://humanedevelopment.org/)
 - [DEWALT 18-Gauge Pneumatic Brad Nailer](https://www.homedepot.com/p/DEWALT-18-Gauge-Pneumatic-Brad-Nailer-DWFP12233/205647692)
 
 Eric
 
-- [Phoenix Framework on Elixir](http://phoenixframework.org/)
+- [Phoenix Framework on Elixir](https://phoenixframework.org/)
 
 David
 

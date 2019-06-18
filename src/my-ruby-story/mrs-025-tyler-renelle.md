@@ -38,8 +38,8 @@ tags:
 - Job displacement phenomenon
 - and much, much more!
   **Links:&nbsp;**
-- http://ocdevel.com
-- [http://ocdevel.com/podcasts/machine-learning](http://ocdevel.com/podcasts/machine-learning)
+- https://ocdevel.com
+- [https://ocdevel.com/podcasts/machine-learning](https://ocdevel.com/podcasts/machine-learning)
 - [Tensor Flow](https://www.tensorflow.org)
 - [Data Skeptic](https://dataskeptic.com) - podcast
 - [https://devchat.tv/js-jabber/jsj-278-machine-learning-tyler-renelle](https://devchat.tv/js-jabber/jsj-278-machine-learning-tyler-renelle)
@@ -49,7 +49,7 @@ tags:
   Charles
 - [CES](https://www.ces.tech)
 - Email beforehand and setup an appointment
-- [VRBO.com](http://VRBO.com)
+- [VRBO.com](https://VRBO.com)
 - [Autonomous.ai](https://www.autonomous.ai)
 -
 

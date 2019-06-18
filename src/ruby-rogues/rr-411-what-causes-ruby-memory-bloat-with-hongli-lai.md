@@ -17,7 +17,7 @@ tags:
 - [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/rogues) offers a $1000 signing bonus
 - [RedisGreen](https://redisgreen.net/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues)
-- [Cachefly](http://www.cachefly.com/)
+- [Cachefly](https://www.cachefly.com/)
 
 ### **Panel**
 
@@ -48,7 +48,7 @@ Eric Berry starts by sharing how Phusion and Phusion passenger changed his caree
 - [https://www.blinkist.com/](https://www.blinkist.com/)
 - [https://euruko2019.org/](https://euruko2019.org/)
 **Eric Berry:**
-- [Codefund.io](http://codefund.io)
+- [Codefund.io](https://codefund.io)
 - [https://devchat.tv/ruby-rogues/](https://devchat.tv/ruby-rogues/)
 **Charles Max Wood:**
 - Open source sustainability podcast

@@ -24,7 +24,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)! Th
 
 - [Twitter](https://twitter.com/natemcguire)
 - [GitHub](https://github.com/natemcguire)
-- [Blog](http://natemcguire.com/)
+- [Blog](https://natemcguire.com/)
 
 04:00 - [Code My Views](https://codemyviews.com/)
 
@@ -56,7 +56,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)! Th
 
 41:51 - HiringPicks
 
-[Force Block: the Star Wars spoiler blocker](https://chrome.google.com/webstore/detail/force-block-the-star-wars/bplpphlobgcnjhoglonpnkooaaenlmol) (Jonathan) Flu Shots (Jonathan)[The Ridge Wallet](https://www.ridgewallet.com/) (Philip)[Invisible Ink: A Practical Guide to Building Stories that Resonate by Brian McDonald](http://www.amazon.com/gp/product/0984178627?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) (Philip)[KIWI Brand deba Style Flexible Stainless Steel Knives](http://www.amazon.com/gp/product/B008QP3PTE?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00) (Philip)[Laracasts](https://laracasts.com/) (Connor)[Browsersync](https://www.browsersync.io/) (Connor)[SalesLoft](https://salesloft.com/) (Nate)[Sendbloom](http://sendbloom.com) (Nate)[Let's Encrypt](http://letsencrypt.org) (Reuven)
+[Force Block: the Star Wars spoiler blocker](https://chrome.google.com/webstore/detail/force-block-the-star-wars/bplpphlobgcnjhoglonpnkooaaenlmol) (Jonathan) Flu Shots (Jonathan)[The Ridge Wallet](https://www.ridgewallet.com/) (Philip)[Invisible Ink: A Practical Guide to Building Stories that Resonate by Brian McDonald](https://www.amazon.com/gp/product/0984178627?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) (Philip)[KIWI Brand deba Style Flexible Stainless Steel Knives](https://www.amazon.com/gp/product/B008QP3PTE?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00) (Philip)[Laracasts](https://laracasts.com/) (Connor)[Browsersync](https://www.browsersync.io/) (Connor)[SalesLoft](https://salesloft.com/) (Nate)[Sendbloom](https://sendbloom.com) (Nate)[Let's Encrypt](https://letsencrypt.org) (Reuven)
 
 ### Transcript
 

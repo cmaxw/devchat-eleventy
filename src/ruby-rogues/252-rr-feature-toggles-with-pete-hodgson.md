@@ -16,13 +16,13 @@ tags:
 
 - [Twitter](https://twitter.com/ph1)
 - [GitHub](https://github.com/moredip)
-- [Blog](http://blog.thepete.net/)
+- [Blog](https://blog.thepete.net/)
 - [Ruby Rogues Episode #176: Rails as an SOA Client with Pete Hodgson](https://devchat.tv/ruby-rogues/176-rr-rails-as-an-soa-client-with-pete-hodgson)
 - [The iPhreaks Show Episodes with Pete Hodgson](https://devchat.tv/hosts/Pete%20Hodgson)
 
 03:13 - Feature Toggles, Flags, Bits, Etc.
 
-- [Trunk Based Development](http://www.alwaysagileconsulting.com/articles/organisation-pattern-trunk-based-development/)
+- [Trunk Based Development](https://www.alwaysagileconsulting.com/articles/organisation-pattern-trunk-based-development/)
 - [iPhreaks Show Episode #136: Efficient Engineering Practices for Software Projects with Neal Ford](https://devchat.tv/iphreaks/136-ips-efficient-engineering-practices-for-software-projects-with-neal-ford)
 
 06:17 - Merge Hell
@@ -31,11 +31,11 @@ tags:
 
 08:59 - Why not constantly rebase?
 
-- [Martin Fowler: FeatureBranch](http://martinfowler.com/bliki/FeatureBranch.html)
+- [Martin Fowler: FeatureBranch](https://martinfowler.com/bliki/FeatureBranch.html)
 
 10:48 - Why use feature toggles?
 
-- [Martin Fowler: Feature Toggles](http://martinfowler.com/articles/feature-toggles.html)
+- [Martin Fowler: Feature Toggles](https://martinfowler.com/articles/feature-toggles.html)
 
 12:29 - Making Code Configurable
 
@@ -58,7 +58,7 @@ tags:
 - Pushback
   40:43 - Managing Code Reviews with No Feature BranchesPicks
 
-[Cryptic Ruby Global Variables and Their Meanings](http://jimneath.org/2010/01/04/cryptic-ruby-global-variables-and-their-meanings.html) (Coraline)[RailsBridge Installfest](http://installfest.railsbridge.org/installfest/installfest) (Coraline)[Concourse](http://concourse.ci/) (Pete)[Architectural Decision Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) (Pete)[Pete Hodgson: The Ultimate Traveler's Coffee Kit](http://blog.thepete.net/blog/2015/06/21/the-ultimate-travelers-coffee-kit/) (Pete)[Deschutes Red Chair NWPA](https://www.deschutesbrewery.com/beer/red-chair-nwpa/) (Pete)
+[Cryptic Ruby Global Variables and Their Meanings](https://jimneath.org/2010/01/04/cryptic-ruby-global-variables-and-their-meanings.html) (Coraline)[RailsBridge Installfest](https://installfest.railsbridge.org/installfest/installfest) (Coraline)[Concourse](https://concourse.ci/) (Pete)[Architectural Decision Records](https://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) (Pete)[Pete Hodgson: The Ultimate Traveler's Coffee Kit](https://blog.thepete.net/blog/2015/06/21/the-ultimate-travelers-coffee-kit/) (Pete)[Deschutes Red Chair NWPA](https://www.deschutesbrewery.com/beer/red-chair-nwpa/) (Pete)
 
 ### Transcript
 

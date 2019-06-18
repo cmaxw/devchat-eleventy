@@ -59,7 +59,7 @@ In this episode, the Adventures in Angular panel talks to Dave Bush about his bl
 - [@davembush](https://twitter.com/davembush?lang=en)
 - [Dave’s GitHub](https://github.com/DaveMBush)
 - [Dave’s Blog](https://davembush.github.io/index.html)
-- [Dave’s Website](http://davebush.brandyourself.com/)
+- [Dave’s Website](https://davebush.brandyourself.com/)
 
 **Sponsors**
 

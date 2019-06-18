@@ -5,7 +5,7 @@ title: >
 date: 2016-06-23 07:00:11
 episode_number: 207
 duration: 01:05:21
-audio_url: http://media.devchat.tv/freelancers/FS207EmailCourses.mp3
+audio_url: https://media.devchat.tv/freelancers/FS207EmailCourses.mp3
 podcast: freelancers
 tags:
   - freelancers
@@ -18,26 +18,26 @@ tags:
 
 - [Twitter](https://twitter.com/josh_earl)
 - [GitHub](https://github.com/joshearl)
-- [Blog](http://joshuaearl.com/)
+- [Blog](https://joshuaearl.com/)
 - [Simple Programmer](https://simpleprogrammer.com/)
-- [The Entreprogrammers Podcast](http://entreprogrammers.com/)
+- [The Entreprogrammers Podcast](https://entreprogrammers.com/)
   02:23 - Creating Email Courses03:57 - Marketing vs Email Courses
 - [How to Market Yourself as a Software Developer](https://simpleprogrammer.com/products/developer-marketing/)
   15:26 - Length
 - [5 Learning Mistakes Developers Make](https://simpleprogrammer.com/lp/5-learning-mistakes-1/)
   18:49 - Opt-in Forms21:48 - Single vs Double Opt-in26:28 - Keeping People Engaged29:26 - Offering Discount Codes33:35 - Content41:32 - Tips for Telling Better Stories 44:45 - Agitation 47:22 - Competition and What Comes Next?51:02 - Asking People to Share
-- [SmartBribe](http://www.smartbribe.com/)
+- [SmartBribe](https://www.smartbribe.com/)
   54:39 - Selling Services&nbsp;Picks
 - [The New York Times Mobile App](https://itunes.apple.com/us/app/nytimes-breaking-local-national/id284862083?mt=8) (Reuven)
-- [Slate Plus](http://www.slate.com/plus/home) (Reuven)
+- [Slate Plus](https://www.slate.com/plus/home) (Reuven)
 - [Double Your Freelancing Conference Europe](https://doubleyourfreelancing.com/euconf/) (Reuven) Discount Code: **FREELANCER**
 - [On Writing Well, 30th Anniversary Edition: An Informal Guide to Writing Nonfiction by William Zinsser](https://www.amazon.com/Writing-Well-30th-Anniversary-Nonfiction-ebook/dp/B0090RVGW0?ie=UTF8&me=&ref_=mt_kindle) (Jonathan)
 - [Jonathan's Webinars](https://www.crowdcast.io/jstark) (Jonathan)
 - [Fitbit One](https://www.fitbit.com/one) (Chuck)
-- [The Entreprogrammers Podcast](http://entreprogrammers.com/) (Chuck)
+- [The Entreprogrammers Podcast](https://entreprogrammers.com/) (Chuck)
 - [Wired for Story: The Writer's Guide to Using Brain Science to Hook Readers from the Very First Sentence by Lisa Cron](https://www.amazon.com/Wired-Story-Writers-Science-Sentence/dp/1607742454) (Josh)
 - [Scrivener](https://www.literatureandlatte.com/scrivener.php) (Josh)
-- [Strides](http://www.stridesapp.com/) (Josh)
+- [Strides](https://www.stridesapp.com/) (Josh)
   Check out Josh's [How to Make More Sales with Email Courses](https://joshuaearl.com/)!!
 
 ### Transcript

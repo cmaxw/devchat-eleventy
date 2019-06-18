@@ -74,7 +74,7 @@ In this episode, the Views on Vue panel talks to Edd Yerburgh about unit testing
 Divya
 
 - [_The React is “just” JavaScript Myth_ by Dave Rupert](https://daverupert.com/2018/06/the-react-is-just-javascript-myth/)
-- [Bang Bang Con](http://bangbangcon.com/)
+- [Bang Bang Con](https://bangbangcon.com/)
 - [Moving Towards Dialogue: Collaborating with your computer using typed holes! by Vaibhav Sagar](https://www.youtube.com/watch?v=0oo8wIi2qBE)
 
 Chris

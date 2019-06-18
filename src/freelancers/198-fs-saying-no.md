@@ -31,7 +31,7 @@ tags:
 
 32:14 - Techniques for Saying “No”Picks
 
-[Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal by Oren Klaff](http://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854) (Philip)[Positioning Crash Course](http://positioningcrashcourse.com) (Philip)[Silicon Valley](http://www.hbo.com/silicon-valley) (Reuven)
+[Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal by Oren Klaff](https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854) (Philip)[Positioning Crash Course](https://positioningcrashcourse.com) (Philip)[Silicon Valley](https://www.hbo.com/silicon-valley) (Reuven)
 
 ### Transcript
 

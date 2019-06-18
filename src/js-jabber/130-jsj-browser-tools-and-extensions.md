@@ -15,38 +15,38 @@ tags:
 02:18 - Browser Tools and Extensions
 
 - [<u>Xcode</u>](https://developer.apple.com/xcode/)
-- [<u>iOS</u>](http://www.apple.com/ios/)
-- [<u>Emacs</u>](http://www.gnu.org/software/emacs/)
-- [<u>Grunt</u>](http://gruntjs.com/)
-- [<u>Gulp</u>](http://gulpjs.com/)
+- [<u>iOS</u>](https://www.apple.com/ios/)
+- [<u>Emacs</u>](https://www.gnu.org/software/emacs/)
+- [<u>Grunt</u>](https://gruntjs.com/)
+- [<u>Gulp</u>](https://gulpjs.com/)
 
 05:30 - Browser Tools
 
-- [<u>Pair Programming</u>](http://en.wikipedia.org/wiki/Pair_programming)
+- [<u>Pair Programming</u>](https://en.wikipedia.org/wiki/Pair_programming)
 
 05:50 - Developer Tools
 
 - [<u>Chrome DevTools</u>](https://developer.chrome.com/devtools)
-  - [<u>Chrome Preserve Log</u>](http://decimaldot.com/2011/10/29/preserve-console-log-in-chrome/)
+  - [<u>Chrome Preserve Log</u>](https://decimaldot.com/2011/10/29/preserve-console-log-in-chrome/)
 - [<u>Firefox DevTools</u>](https://developer.mozilla.org/en-US/docs/Tools)
-  - <u><a href="http://en.wikipedia.org/wiki/OAuth" data-cke-saved-href="http://en.wikipedia.org/wiki/OAuth">OAuth</a></u>
+  - <u><a href="https://en.wikipedia.org/wiki/OAuth" data-cke-saved-href="https://en.wikipedia.org/wiki/OAuth">OAuth</a></u>
   - [<u>Jordan Santell</u>](https://twitter.com/jsantell)
 
 09:47 - Common Features
 
 - Debugger Statement
   - [<u>network-debugger</u>](https://github.com/SpotterRF/network-debugger)
-- [<u>Node</u>](http://nodejs.org/)
-- [<u>AJAX</u>](http://en.wikipedia.org/wiki/Ajax_%28programming%29)
+- [<u>Node</u>](https://nodejs.org/)
+- [<u>AJAX</u>](https://en.wikipedia.org/wiki/Ajax_%28programming%29)
 - [<u>Angular</u>](https://angularjs.org/)
-- [<u>jQuery</u>](http://jquery.com/)
+- [<u>jQuery</u>](https://jquery.com/)
 - [<u>Promises</u>](https://www.promisejs.org/)
 
 13:46 - Break Points
 
 - [<u>node-inspector</u>](https://github.com/node-inspector/node-inspector)
-- [<u>Coders at Work: Reflections on the Craft of Programming by Peter Seibel</u>](http://www.amazon.com/gp/product/1430219483/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430219483&linkCode=as2&tag=chamaxwoo-20&linkId=63LGVSZ34S4JA4HO)
-  - [<u>Donald Knuth</u>](http://en.wikipedia.org/wiki/Donald_Knuth)
+- [<u>Coders at Work: Reflections on the Craft of Programming by Peter Seibel</u>](https://www.amazon.com/gp/product/1430219483/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430219483&linkCode=as2&tag=chamaxwoo-20&linkId=63LGVSZ34S4JA4HO)
+  - [<u>Donald Knuth</u>](https://en.wikipedia.org/wiki/Donald_Knuth)
 
 17:37 - Chrome Emulation
 
@@ -55,14 +55,14 @@ tags:
 18:47 - [<u>Chrome Timeline View</u>](https://developer.chrome.com/devtools/docs/timeline)
 
 - [<u>Addy Osmani</u>](https://twitter.com/addyosmani)
-  - [<u>Blog</u>](http://addyosmani.com/blog/)
+  - [<u>Blog</u>](https://addyosmani.com/blog/)
 
 21:21 - Phone Icons
 
-- [<u>Chrome</u>](http://www.iconarchive.com/tag/google-chrome)
-- [<u>Firefox</u>](http://www.iconspedia.com/search/firefox/)
+- [<u>Chrome</u>](https://www.iconarchive.com/tag/google-chrome)
+- [<u>Firefox</u>](https://www.iconspedia.com/search/firefox/)
 
-23:36 - [<u>JavaScript Console</u>](http://jsconsole.com/)
+23:36 - [<u>JavaScript Console</u>](https://jsconsole.com/)
 
 - [<u>Console in Chrome</u>](https://developer.chrome.com/devtools/docs/console-api)
   - [<u>console.log</u>](https://developer.chrome.com/devtools/docs/console-api#consolelogobject-object)
@@ -74,10 +74,10 @@ tags:
 
 - [<u>PrettyJSON</u>](https://chrome.google.com/webstore/detail/ddngkjbldiejbheifcmnfmmfiniimbbg)
   - [<u>JSON Formatter</u>](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
-  - [<u>JSON</u>](http://json.org/)
-- [<u>Rails</u>](http://rubyonrails.org/)
-- [<u>stacktrace</u>](http://stacktrace.sourceforge.net/)
-- [<u>EditThisCookie</u>](http://www.editthiscookie.com/)
+  - [<u>JSON</u>](https://json.org/)
+- [<u>Rails</u>](https://rubyonrails.org/)
+- [<u>stacktrace</u>](https://stacktrace.sourceforge.net/)
+- [<u>EditThisCookie</u>](https://www.editthiscookie.com/)
   - [<u>Chrome Store</u>](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 - [<u>Chrome Resources Tab</u>](https://developer.chrome.com/devtools/docs/resources)
 
@@ -86,12 +86,12 @@ tags:
 - [<u>PageSpeed</u>](https://developers.google.com/speed/pagespeed/)
 - [<u>Unused CSS Rules</u>](https://developer.chrome.com/devtools/docs/heap-profiling)
 - <u><a href="https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk" data-cke-saved-href="https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk">Angular Batarang</a></u>
-  - [<u>ng-inspector</u>](http://ng-inspector.org/)
+  - [<u>ng-inspector</u>](https://ng-inspector.org/)
 - [<u>Cloud To Butt Plus</u>](https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai)
 - [<u>ModHeader</u>](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
 - [<u>DHC - REST/ATTP API Client</u>](https://chrome.google.com/webstore/detail/dhc-resthttp-api-client/aejoelaoggembcahagimdiliamlcdmfm)
-- [<u>Curl</u>](http://www.yiiframework.com/extension/curl/)
-- [<u>Wget</u>](http://www.gnu.org/software/wget/)
+- [<u>Curl</u>](https://www.yiiframework.com/extension/curl/)
+- [<u>Wget</u>](https://www.gnu.org/software/wget/)
 - [<u>Advanced Rest Client</u>](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)
 - [<u>postman</u>](https://github.com/yzheng624/django-postman)
 
@@ -99,14 +99,14 @@ tags:
 
 - Radar
 - [<u>html5</u>](https://html5.org/)
-- [<u>Ember</u>](http://emberjs.com/)
-- [<u>React</u>](http://reactjs.net/)
+- [<u>Ember</u>](https://emberjs.com/)
+- [<u>React</u>](https://reactjs.net/)
 
 42:37 - Coding Tools
 
-- [<u>Plunker</u>&nbsp;&nbsp; &nbsp;](http://plnkr.co/)
-- [<u>JS Bin</u>](http://jsbin.com/)
-- [<u>CodePen</u>](http://codepen.io/)
+- [<u>Plunker</u>&nbsp;&nbsp; &nbsp;](https://plnkr.co/)
+- [<u>JS Bin</u>](https://jsbin.com/)
+- [<u>CodePen</u>](https://codepen.io/)
   - [<u>Chris Coyier</u>](https://twitter.com/chriscoyier)
 - [<u>Merrick Christensen</u>](https://twitter.com/iammerrick)
 
@@ -122,11 +122,11 @@ tags:
   - control + shift + j = console
 - Style Attributes
 - CSS Displays
-- [<u>Chocolate</u>](http://chocolatey.org/)
-- [<u>AppCode</u>](http://www.jetbrains.com/objc/)
+- [<u>Chocolate</u>](https://chocolatey.org/)
+- [<u>AppCode</u>](https://www.jetbrains.com/objc/)
 - [<u>Chrome Page Ruler</u>](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn)
 - [<u>Chrome Color Pick EyeDropper</u>](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) (Color Picker)
-- [<u>ColorZilla</u>](http://colorzilla.com/)
+- [<u>ColorZilla</u>](https://colorzilla.com/)
 - <u><a href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi" data-cke-saved-href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi">Chrome PerfectPixel</a></u>
 
 ### Transcript

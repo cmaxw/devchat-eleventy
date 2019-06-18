@@ -28,7 +28,7 @@ In this episode of Elixir Mix, the panel discusses [Elixir](https://elixir-lang.
 **In particular, we dive pretty deep on:**
 
 - Panelist introductions
-- [DailyDrip](https://www.dailydrip.com/) and [Elixir Sips](http://elixirsips.com/)
+- [DailyDrip](https://www.dailydrip.com/) and [Elixir Sips](https://elixirsips.com/)
 - [CodeFund.io](https://codefund.io/)
 - [Elixir Lunch](https://www.meetup.com/Elixir-Lunch/?_cookie-check=UMxdU1IzoyLyTjM_) and [Utah Elixir](https://www.meetup.com/utah-elixir/)
 - [Dave Thomas Elixir Course](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
@@ -47,16 +47,16 @@ In this episode of Elixir Mix, the panel discusses [Elixir](https://elixir-lang.
 - Resources
 - [Elixir Resources](https://elixir-lang.org/learning.html)
 - [ElixirSchool.com](https://elixirschool.com/en/)
-- [ElixirStatus.com](http://elixirstatus.com/)
+- [ElixirStatus.com](https://elixirstatus.com/)
 - [Elixir Docs](https://elixir-lang.org/docs.html)
 - #myelixirstatus on Twitter
-- [Phoenix](http://phoenixframework.org/)
+- [Phoenix](https://phoenixframework.org/)
 - And much, much more!
 
 **Links:**
 
 - [DailyDrip](https://www.dailydrip.com/)
-- [Elixir Sips](http://elixirsips.com/)
+- [Elixir Sips](https://elixirsips.com/)
 - [CodeFund.io](https://codefund.io/)
 - [Elixir Lunch](https://www.meetup.com/Elixir-Lunch/?_cookie-check=UMxdU1IzoyLyTjM_)
 - [Utah Elixir](https://www.meetup.com/utah-elixir/)
@@ -65,9 +65,9 @@ In this episode of Elixir Mix, the panel discusses [Elixir](https://elixir-lang.
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Elixir Resources](https://elixir-lang.org/learning.html)
 - [ElixirSchool.com](https://elixirschool.com/en/)
-- [ElixirStatus.com](http://elixirstatus.com/)
+- [ElixirStatus.com](https://elixirstatus.com/)
 - [Elixir Docs](https://elixir-lang.org/docs.html)
-- [Phoenix](http://phoenixframework.org/)
+- [Phoenix](https://phoenixframework.org/)
 - [Brainlid.org](https://brainlid.org/)
 - [@Brainlid](https://twitter.com/brainlid?lang=en)
 - [@knewter](https://twitter.com/knewter)
@@ -94,7 +94,7 @@ Josh
 
 Mark
 
-- [ElixirStatus.com](http://elixirstatus.com/)
+- [ElixirStatus.com](https://elixirstatus.com/)
 - [#ElixirStatus](https://twitter.com/hashtag/elixirstatus)
 
 ### Transcript

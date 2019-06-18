@@ -96,11 +96,11 @@ Personal experience you can help people and find
 - [jQuery](https://jquery.com)
 - [Steve Edwards @Wonder95](https://twitter.com/wonder95)
 - [Steve Edwards’ LinkedIn](https://www.linkedin.com/in/wonder95)
-- [Steve Edwards' Blog](http://www.smgaweb.com/)
+- [Steve Edwards' Blog](https://www.smgaweb.com/)
 
 **Sponsors:**
 
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - Digital Ocean
 - [Cache Fly](https://www.cachefly.com)
 
@@ -108,7 +108,7 @@ Personal experience you can help people and find
 
 [Charles](https://twitter.com/cmaxw?lang=en)
 
-- [Book: Launch by Jeff Walker](http://thelaunchbook.com)
+- [Book: Launch by Jeff Walker](https://thelaunchbook.com)
 - [Get A Coder Job](https://devchat.tv/get-a-coder-job/)
 - [Code Badge](https://www.kickstarter.com/projects/521063736/codebadgeorg)
 - System to help manage the podcast – scheduling, promotion, etc.

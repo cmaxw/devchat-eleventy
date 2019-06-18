@@ -14,7 +14,7 @@ tags:
 
 ## **&nbsp;Sponsors**
 
-- [Sentry&nbsp;](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry&nbsp;](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/astory)offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Guest:** &nbsp;Pete Bacon Darwin
@@ -24,7 +24,7 @@ In this episode of My Angular Story, Charles hosts Pete Bacon Darwin, a stay at 
 
 - <u><a href="https://devchat.tv/adv-in-angular/aia-168-angular-connect-peter-bacon-darwin/">Adventures in Angular 168: Angular Connect with Peter Bacon Darwin</a></u>
 - [Pete's Twitter](https://twitter.com/petebd?lang=en)
-- [http://www.bacondarwin.com](http://www.bacondarwin.com)
+- [https://www.bacondarwin.com](https://www.bacondarwin.com)
 - [Pete's GitHub](https://github.com/petebacondarwin)
 - [Pete's LinkedIN](https://www.linkedin.com/in/peter-bacon-darwin-35b1ab86/)
 - <u><a href="https://devchat.tv/my-angular-story/">https://devchat.tv/my-angular-story/</a></u>

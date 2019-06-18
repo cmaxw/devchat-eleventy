@@ -14,7 +14,7 @@ tags:
 
 ## Unity for iOS
 
-On today's episode, Jaim,&nbsp;Andrew, and Gee&nbsp;discuss&nbsp; **Unity for iOS with Martin Grider**. Martin is the owner and lead developer of Abstract Puzzle, LLC. He is lately into iOS freelancing and has a blog at [chesstris.com](http://chesstris.com/). Stay tuned to learn more about what is new with iOS and what Martin currently enjoys doing!
+On today's episode, Jaim,&nbsp;Andrew, and Gee&nbsp;discuss&nbsp; **Unity for iOS with Martin Grider**. Martin is the owner and lead developer of Abstract Puzzle, LLC. He is lately into iOS freelancing and has a blog at [chesstris.com](https://chesstris.com/). Stay tuned to learn more about what is new with iOS and what Martin currently enjoys doing!
 
 ## Unity and Unreal
 
@@ -34,6 +34,6 @@ Despite its capability to bring you into another world, the Google cardboard sti
 
 ## Picks:
 
-Andrew: [BBS setup by Chris Osborn](https://twitter.com/fozztexx/status/719978849816027136) and Dash Gee:[HTTPIe](https://httpie.org/) and Play Always (project) Jaim: BBS documentary and hockey video game Martin: [VR Digest](http://vrdigest.com/), Big Game Developers Conference in San Francisco, EyeO Festival
+Andrew: [BBS setup by Chris Osborn](https://twitter.com/fozztexx/status/719978849816027136) and Dash Gee:[HTTPIe](https://httpie.org/) and Play Always (project) Jaim: BBS documentary and hockey video game Martin: [VR Digest](https://vrdigest.com/), Big Game Developers Conference in San Francisco, EyeO Festival
 
 ### Transcript

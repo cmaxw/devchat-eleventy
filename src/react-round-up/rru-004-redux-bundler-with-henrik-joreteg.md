@@ -20,7 +20,7 @@ tags:
 
 **Special Guests:** Henrik Joreteg
 
-In this episode of React Round Up, the panel discusses redux-bundler with Henrik Joreteg. Henrik spoke at the first Node Conf, leans towards progressive web apps and single-page apps, and recently has gotten into independent consulting. He also has written a book called [_Human JavaScript_](http://humanjavascript.com/) and is working on his second book right now. They talk about his [redux-bundler](https://github.com/HenrikJoreteg/redux-bundler) on GitHub and the ability to make changes behind the scenes without having to bother the user. He gives a general background on why he created the bundler and how you can use it in your programming to make your life easier.
+In this episode of React Round Up, the panel discusses redux-bundler with Henrik Joreteg. Henrik spoke at the first Node Conf, leans towards progressive web apps and single-page apps, and recently has gotten into independent consulting. He also has written a book called [_Human JavaScript_](https://humanjavascript.com/) and is working on his second book right now. They talk about his [redux-bundler](https://github.com/HenrikJoreteg/redux-bundler) on GitHub and the ability to make changes behind the scenes without having to bother the user. He gives a general background on why he created the bundler and how you can use it in your programming to make your life easier.
 
 **In particular, we dive pretty deep on:**
 
@@ -49,7 +49,7 @@ In this episode of React Round Up, the panel discusses redux-bundler with Henrik
 **Links:**
 
 - [React Dev Summit](https://reactdevsummit.com/)
-- [_Human JavaScript_](http://humanjavascript.com/)
+- [_Human JavaScript_](https://humanjavascript.com/)
 - [Redux-bundler](https://github.com/HenrikJoreteg/redux-bundler)
 - [Redux-bundler example](https://github.com/HenrikJoreteg/redux-bundler-example)
 - [Redux-bundler worker example](https://github.com/HenrikJoreteg/redux-bundler-worker-example)
@@ -69,7 +69,7 @@ Charles
 - [React Dev Summit](https://reactdevsummit.com/)
 - [DevChat.tv](https://devchat.tv/)
 - [Adventures in Angular](https://devchat.tv/adv-in-angular)
-- [Views on Vue](http://viewsonvue.com/)
+- [Views on Vue](https://viewsonvue.com/)
 
 Tara
 

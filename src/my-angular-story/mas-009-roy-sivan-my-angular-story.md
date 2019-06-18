@@ -48,10 +48,10 @@ Roy would love to hear from you! Visit him through&nbsp;the links below. Don't f
 
 ## Picks:
 
-Roy:&nbsp;Angular UI Router for Angular 1,&nbsp;Web designer mag, [WP Rest API](http://v2.wp-api.org/)Charles:&nbsp;Pretty Links Pro,&nbsp;Memberpress,&nbsp;Genesis Theme&nbsp;
+Roy:&nbsp;Angular UI Router for Angular 1,&nbsp;Web designer mag, [WP Rest API](https://v2.wp-api.org/)Charles:&nbsp;Pretty Links Pro,&nbsp;Memberpress,&nbsp;Genesis Theme&nbsp;
 
 ## Episode Links:
 
-[WordPress.tv](http://wordpress.tv/)[AngularJS for WordPress](https://github.com/royboy789/angularjs-for-wordpress)[AngularJS WordPress Theme](https://github.com/royboy789/Angular-Wordpress-Theme)
+[WordPress.tv](https://wordpress.tv/)[AngularJS for WordPress](https://github.com/royboy789/angularjs-for-wordpress)[AngularJS WordPress Theme](https://github.com/royboy789/Angular-Wordpress-Theme)
 
 ### Transcript

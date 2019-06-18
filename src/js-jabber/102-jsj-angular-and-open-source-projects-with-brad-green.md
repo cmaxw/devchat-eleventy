@@ -15,18 +15,18 @@ tags:
 ### Panel
 
 - Brad Green ([twitter](https://twitter.com/bradlygreen)&nbsp;[github](https://github.com/bradlygreen)&nbsp;[google+](https://plus.google.com/+BradGreen))
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://blog.coolaj86.com/) [youtube](http://youtube.com/coolaj86))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://blog.coolaj86.com/) [youtube](https://youtube.com/coolaj86))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:10 - Brad Green Introduction
 
-- [Google](http://www.google.com/)
-- [AngularJS](http://angularjs.org/)
+- [Google](https://www.google.com/)
+- [AngularJS](https://angularjs.org/)
   02:29 - What is Open Source Software? 03:51 - Community Involvement 04:46 - The Angular Team 06:31 - Managing Angular as an Open Source Project
 - [Igor Minar - Angular === Community (Keynote) - NG-Conf 2014](https://www.youtube.com/watch?v=h-SQvre_6qU)
   09:05 - Why Open Source? 09:49 - Google, Money, and Notoriety 11:13 - Getting Google to Open Source 12:06 - The Popularity of Angular 13:16 - Building Angular
@@ -42,17 +42,17 @@ tags:
 ### Picks
 
 - [GDG Southern Idaho](https://plus.google.com/112660287653273028459/posts) (Aaron)
-- [ThunderPlainsConf](http://thunderplainsconf.com/) (Aaron)
-- [Grieves - Winter & The Wolves](http://rd.io/x/QVyxJCIfzQQ/) (Merrick)
-- [Jawbone ICON Bluetooth Headset](http://www.amazon.com/gp/product/B005MHGBX6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005MHGBX6&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [Star Wars: Clone Wars](http://www.imdb.com/title/tt0361243/) (Joe)
-- [Raspberry Pi 8GB Preloaded (NOOBS) SD Card](http://www.amazon.com/gp/product/B00ENPQ1GK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ENPQ1GK&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [IOGEAR Bluetooth 4.0 USB Micro Adapter (GBU521)](http://www.amazon.com/gp/product/B007GFX0PY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007GFX0PY&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [RASPBERRY PI MODEL B 756-8308 Raspberry Pi B](http://www.amazon.com/gp/product/B009SQQF9C/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009SQQF9C&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Kootek Raspberry Pi Power Supply Micro USB Charger Adapter](http://www.amazon.com/gp/product/B00FIFYQMA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FIFYQMA&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [James Nebeker and David G. Young: How to Make an iBeacon Out of a Raspberry Pi](http://developer.radiusnetworks.com/2013/10/09/how-to-make-an-ibeacon-out-of-a-raspberry-pi.html) (Chuck)
-- [This American Life: 520: No Place Like Home](http://www.thisamericanlife.org/radio-archives/episode/520/no-place-like-home?act=3#play) (Brad)
-- [AngularJS: One Framework to Rule Them All?](http://www.huffingtonpost.com/2014/03/24/angularjs-one-framework-t_n_5022395.html)&nbsp;(Brad)
+- [ThunderPlainsConf](https://thunderplainsconf.com/) (Aaron)
+- [Grieves - Winter & The Wolves](https://rd.io/x/QVyxJCIfzQQ/) (Merrick)
+- [Jawbone ICON Bluetooth Headset](https://www.amazon.com/gp/product/B005MHGBX6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005MHGBX6&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [Star Wars: Clone Wars](https://www.imdb.com/title/tt0361243/) (Joe)
+- [Raspberry Pi 8GB Preloaded (NOOBS) SD Card](https://www.amazon.com/gp/product/B00ENPQ1GK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ENPQ1GK&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [IOGEAR Bluetooth 4.0 USB Micro Adapter (GBU521)](https://www.amazon.com/gp/product/B007GFX0PY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007GFX0PY&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [RASPBERRY PI MODEL B 756-8308 Raspberry Pi B](https://www.amazon.com/gp/product/B009SQQF9C/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009SQQF9C&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Kootek Raspberry Pi Power Supply Micro USB Charger Adapter](https://www.amazon.com/gp/product/B00FIFYQMA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FIFYQMA&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [James Nebeker and David G. Young: How to Make an iBeacon Out of a Raspberry Pi](https://developer.radiusnetworks.com/2013/10/09/how-to-make-an-ibeacon-out-of-a-raspberry-pi.html) (Chuck)
+- [This American Life: 520: No Place Like Home](https://www.thisamericanlife.org/radio-archives/episode/520/no-place-like-home?act=3#play) (Brad)
+- [AngularJS: One Framework to Rule Them All?](https://www.huffingtonpost.com/2014/03/24/angularjs-one-framework-t_n_5022395.html)&nbsp;(Brad)
 
 ### Next Week
 

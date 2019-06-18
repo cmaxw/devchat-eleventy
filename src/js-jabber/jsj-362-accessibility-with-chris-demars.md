@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Sentry](https://sentry.io/) use code “devchat” for 2 months free
-- [Triplebyte](http://triplebyte.com/jsjabber) $1000 signing bonus
+- [Triplebyte](https://triplebyte.com/jsjabber) $1000 signing bonus
 
 ### **Panel**
 
@@ -56,7 +56,7 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/? __tn__ =%2Cd%2
 - [Dixxon Flannel Company](https://dixxonquality.com/)
 - [Aquis.com](https://aquis.com/) accessibility simulator
 - [Refactr](https://refactr.tech/) accessibility workshop in June
-- [Follow Chris](http://chrisdemars.com/)
+- [Follow Chris](https://chrisdemars.com/)
 
 
 ### Transcript

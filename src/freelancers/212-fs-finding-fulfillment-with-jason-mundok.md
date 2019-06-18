@@ -15,9 +15,9 @@ tags:
 01:44 - Jason Mundok Introduction
 
 - [Twitter](https://twitter.com/jason_mundok)
-- [Blog](http://www.jasonmundok.com/)
-- [Elusive Moose](http://www.elusivemoose.com)
-- [Find Your Moose Conference](http://www.findyourmoose.com)
+- [Blog](https://www.jasonmundok.com/)
+- [Elusive Moose](https://www.elusivemoose.com)
+- [Find Your Moose Conference](https://www.findyourmoose.com)
   03:47 - Enjoying Work; Finding Passion and Fulfillment
 - Three Dimensions:
 
@@ -28,7 +28,7 @@ tags:
 
 - [The Freelancers' Show Episode #202: Live from MicroConf: Managing a Team with Anders Thue Pedersen](https://devchat.tv/freelancers/202-fs-live-from-microconf-managing-a-team-with-anders-thue-pedersen)
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
-- [Joshua Fields Millburn: 'Follow Your Passion' is Crappy Advice](http://www.theminimalists.com/cal/) (Minimalist Article)
+- [Joshua Fields Millburn: 'Follow Your Passion' is Crappy Advice](https://www.theminimalists.com/cal/) (Minimalist Article)
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124) &nbsp;
   17:42 - Advising People in Consulting
 - Implementing Processes
@@ -41,12 +41,12 @@ tags:
 - [Jason Mundok: What Do You Mean By “Enjoy”?](https://elusivemoose.com/2016/04/what-do-you-mean-by-enjoy/)
 - [The Elusive Moose Podcast Episode 13: Enjoy Your Work!](https://elusivemoose.com/2016/04/episode-13-enjoy-work/)
   &nbsp;Picks
-- [EngineerWorth](http://engineerworth.com/) (Philip)
+- [EngineerWorth](https://engineerworth.com/) (Philip)
 - Unplugging from technology (Chuck)
 - Hosting a retreat (Chuck)
 - [Glympse](https://www.glympse.com/) (Chuck)
-- [The Minimalists Blog](http://www.theminimalists.com) (Jason)
-- [Jeff Walker’s Product Launch Formula](http://jeffwalker.com/) (Jason)
+- [The Minimalists Blog](https://www.theminimalists.com) (Jason)
+- [Jeff Walker’s Product Launch Formula](https://jeffwalker.com/) (Jason)
 
 ### Transcript
 

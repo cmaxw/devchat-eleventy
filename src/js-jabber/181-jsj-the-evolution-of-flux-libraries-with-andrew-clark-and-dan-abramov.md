@@ -20,7 +20,7 @@ Sign up for [JS Remote Conf](https://jsremoteconf.com/)!
 
 - [Twitter](https://twitter.com/acdlite)
 - [GitHub](https://github.com/acdlite)
-- [OpenGov](http://opengov.com/)
+- [OpenGov](https://opengov.com/)
 - [flummox](https://github.com/acdlite/flummox)
 
 03:39 - Dan Abramov Introduction
@@ -35,24 +35,24 @@ Sign up for [JS Remote Conf](https://jsremoteconf.com/)!
 
 09:36 - Data Flow
 
-- [Why FluxComponent \> fluxMixin](http://acdlite.github.io/flummox/docs/guides/why-flux-component-is-better-than-flux-mixin)
+- [Why FluxComponent \> fluxMixin](https://acdlite.github.io/flummox/docs/guides/why-flux-component-is-better-than-flux-mixin)
 - [Mixins Are Dead. Long Live Composition.](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) &nbsp;
 - [Higher-order Components](https://gist.github.com/sebmarkbage/ef0bf1f338a7182b6775)
 - [Sebastian Markbåge's Tweet](https://twitter.com/sebmarkbage/status/647831413186629632)
 
 22:52 - Conceptualizing [React](https://facebook.github.io/react/) and Flux
 
-- [React.js Conf 2015 - Flux Panel](http://conf.reactjs.com/schedule.html#flux-panel)
+- [React.js Conf 2015 - Flux Panel](https://conf.reactjs.com/schedule.html#flux-panel)
 - Does [redux](https://www.npmjs.com/package/redux) limit ambiguity that exists in Flux?
 
 27:50 - Documentation
 
-30:38 - [The Elm Programming Language](http://elm-lang.org/)
+30:38 - [The Elm Programming Language](https://elm-lang.org/)
 
 32:34 - Making Patterns Explicit in Frameworks
 
 - [Tom Dale @ TXJS 2015](https://www.youtube.com/watch?v=rw2MY9Q8Vsk)
-- [Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.](http://www.gigamonkeys.com/flowers/)
+- [Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.](https://www.gigamonkeys.com/flowers/)
 - [Sebastian Markbåge: Minimal API Surface Area @ JSConf EU 2014](https://www.youtube.com/watch?v=4anAwXYqLG8)
 
 36:31 - Getting Started with React and Flux
@@ -63,7 +63,7 @@ Sign up for [JS Remote Conf](https://jsremoteconf.com/)!
 
 58:23 - Keeping the Core Small; Making DecisionsPicks
 
-[Strange Loop 2015 Videos](https://www.youtube.com/playlist?list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R)&nbsp;(Jamison)[Typeset In The Future](http://typesetinthefuture.com/) (Jamison)[Open-source as a project model for internal work (w/ speaker notes) by Kevin Lamping](https://speakerdeck.com/klamping/speaker-notes?utm_source=Software+Lead+Weekly&utm_campaign=4061952748-SWLW_147&utm_medium=email&utm_term=0_efe3d3cd5b-4061952748-131407957) (Jamison)[Explanation of Zipf's Law](https://www.youtube.com/watch?t=1&v=fCn8zs912OE) (Dave)[Will Conant's talk at UtahJS 2015 on Flux](http://conf.utahjs.com) (Dave)[The Legend of ZERO (3 Book Series) by Sara King](http://www.amazon.com/Legend-ZERO-3-Book/dp/B00PMGUG9C/ref=sr_1_2?ie=UTF8&qid=1443561853&sr=8-2&keywords=legend+of+zero) (Joe)[Camel Up](http://www.boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q=camel+up&B1=Go) (Joe)[The Elm Programming Language](http://elm-lang.org/) (Joe)[Boundaries: A talk by Gary Bernhardt from SCNA 2012](https://www.destroyallsoftware.com/talks/boundaries) (Aimee)[Nodevember](http://nodevember.org/) (Aimee)[TV Fool](http://tvfool.com/) (Chuck)[RCA Outdoor Digital HDTV VHF UHF Yagi Type Antenna](http://www.lowes.com/pd_2285-63374-ANT751R___?productId=3549244&pl=1&Ntt=antenna) (Chuck)[The Michael Vey Book Series](http://michaelvey.com/) (Chuck)[BusinessTown](http://welcometobusinesstown.tumblr.com/) (Dan)[Elon Musk: The World’s Raddest Man](http://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html) (Dan)[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/index.html) (Dan)[Abiogenesis](https://en.wikipedia.org/wiki/Abiogenesis) (Dan)[react-future](https://github.com/reactjs/react-future) (Dan)[The Righteous Mind](http://righteousmind.com/) (Andrew)[lodash-fp](https://github.com/lodash/lodash-fp) (Andrew)[Inside Amy Schumer](http://www.cc.com/shows/inside-amy-schumer) (Andrew)[dataloader](https://github.com/facebook/dataloader) (Andrew)[Careers at OpenGov](http://opengov.com/careers/) (Andrew)
+[Strange Loop 2015 Videos](https://www.youtube.com/playlist?list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R)&nbsp;(Jamison)[Typeset In The Future](https://typesetinthefuture.com/) (Jamison)[Open-source as a project model for internal work (w/ speaker notes) by Kevin Lamping](https://speakerdeck.com/klamping/speaker-notes?utm_source=Software+Lead+Weekly&utm_campaign=4061952748-SWLW_147&utm_medium=email&utm_term=0_efe3d3cd5b-4061952748-131407957) (Jamison)[Explanation of Zipf's Law](https://www.youtube.com/watch?t=1&v=fCn8zs912OE) (Dave)[Will Conant's talk at UtahJS 2015 on Flux](https://conf.utahjs.com) (Dave)[The Legend of ZERO (3 Book Series) by Sara King](https://www.amazon.com/Legend-ZERO-3-Book/dp/B00PMGUG9C/ref=sr_1_2?ie=UTF8&qid=1443561853&sr=8-2&keywords=legend+of+zero) (Joe)[Camel Up](https://www.boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q=camel+up&B1=Go) (Joe)[The Elm Programming Language](https://elm-lang.org/) (Joe)[Boundaries: A talk by Gary Bernhardt from SCNA 2012](https://www.destroyallsoftware.com/talks/boundaries) (Aimee)[Nodevember](https://nodevember.org/) (Aimee)[TV Fool](https://tvfool.com/) (Chuck)[RCA Outdoor Digital HDTV VHF UHF Yagi Type Antenna](https://www.lowes.com/pd_2285-63374-ANT751R___?productId=3549244&pl=1&Ntt=antenna) (Chuck)[The Michael Vey Book Series](https://michaelvey.com/) (Chuck)[BusinessTown](https://welcometobusinesstown.tumblr.com/) (Dan)[Elon Musk: The World’s Raddest Man](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html) (Dan)[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/index.html) (Dan)[Abiogenesis](https://en.wikipedia.org/wiki/Abiogenesis) (Dan)[react-future](https://github.com/reactjs/react-future) (Dan)[The Righteous Mind](https://righteousmind.com/) (Andrew)[lodash-fp](https://github.com/lodash/lodash-fp) (Andrew)[Inside Amy Schumer](https://www.cc.com/shows/inside-amy-schumer) (Andrew)[dataloader](https://github.com/facebook/dataloader) (Andrew)[Careers at OpenGov](https://opengov.com/careers/) (Andrew)
 
 ### Transcript
 

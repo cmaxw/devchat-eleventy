@@ -12,22 +12,22 @@ tags:
   - podcast
 ---
 
-Sign up for [Angular Remote Conf](http://www.angularremoteconf.com)!
+Sign up for [Angular Remote Conf](https://www.angularremoteconf.com)!
 
 &nbsp;
 
 02:35 - Jeff Whelpley Introduction
 
 - [Twitter](https://twitter.com/jeffwhelpley)
-- [Blog](http://jeffwhelpley.com/)
+- [Blog](https://jeffwhelpley.com/)
 - [GetHuman](https://gethuman.com)
-- [Angular Air](http://angular-air.com/)
+- [Angular Air](https://angular-air.com/)
 
 02:53 - Patrick Stapleton Introduction
 
 - [Twitter](https://twitter.com/gdi2290)
 - [GitHhub](https://github.com/gdi2290/)
-- <u><a style="text-decoration: none;" href="http://gdi2290.com/">Blog</a></u>
+- <u><a style="text-decoration: none;" href="https://gdi2290.com/">Blog</a></u>
 - [Angular Class](https://angularclass.com/)
 
 03:39 - Advantages of Server Rendering
@@ -51,7 +51,7 @@ Sign up for [Angular Remote Conf](http://www.angularremoteconf.com)!
 
 58:38 - Time TablePicks
 
-[14 by Peter Clines](http://www.amazon.com/gp/product/1618684981/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1618684981&linkCode=as2&tag=chamaxwoo-20&linkId=C4YECXWVSKZADSAX) (Lukas)[ZPacks Cuben Fiber Arc Backpacks](http://www.zpacks.com/backpacks.shtml) (Ward)[Angular Remote Conf](http://www.angularremoteconf.com) (Chuck)[Iron Sharpens Iron](http://www.ironsharpensiron.net/) (Chuck)[View from the Top](http://www.viewfromthetop.com/) (Chuck)[GetHuman](https://gethuman.com) (Jeff)[Angular Universal](https://github.com/angular/universal) (Jeff)[Open Source](https://en.wikipedia.org/wiki/Open_source) (Patrick)[Angular Summit](https://angularsummit.com/) (Patrick)[AngularConnect](http://angularconnect.com/) (Patrick)
+[14 by Peter Clines](https://www.amazon.com/gp/product/1618684981/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1618684981&linkCode=as2&tag=chamaxwoo-20&linkId=C4YECXWVSKZADSAX) (Lukas)[ZPacks Cuben Fiber Arc Backpacks](https://www.zpacks.com/backpacks.shtml) (Ward)[Angular Remote Conf](https://www.angularremoteconf.com) (Chuck)[Iron Sharpens Iron](https://www.ironsharpensiron.net/) (Chuck)[View from the Top](https://www.viewfromthetop.com/) (Chuck)[GetHuman](https://gethuman.com) (Jeff)[Angular Universal](https://github.com/angular/universal) (Jeff)[Open Source](https://en.wikipedia.org/wiki/Open_source) (Patrick)[Angular Summit](https://angularsummit.com/) (Patrick)[AngularConnect](https://angularconnect.com/) (Patrick)
 
 ### Transcript
 

@@ -20,7 +20,7 @@ tags:
 
 - Systems & Tools
   - [Slack](https://slack.com/)
-  - [Basecamp](http://basecamp.com)
+  - [Basecamp](https://basecamp.com)
   - [Trello](https://trello.com/)
   - [KanbanFlow](https://kanbanflow.com/)
   - [Asana](https://asana.com/)
@@ -31,14 +31,14 @@ tags:
 
 - [The Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 - Delegation & Automation
-  - [Getting Things Done: The Art of Stress-Free Productivity by David Allen](http://www.amazon.com/gp/product/0143126563/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143126563&linkCode=as2&tag=chamaxwoo-20&linkId=D3WCSAPJWFLHS4RT)
+  - [Getting Things Done: The Art of Stress-Free Productivity by David Allen](https://www.amazon.com/gp/product/0143126563/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143126563&linkCode=as2&tag=chamaxwoo-20&linkId=D3WCSAPJWFLHS4RT)
 - Habits and Routines
 
 45:58 - Managing Requests for Your Time on Multiple Projects and Contracts
 
 47:27 - CalendaringPicks
 
-[The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing by Marie Kondo](http://www.amazon.com/gp/product/1607747308/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607747308&linkCode=as2&tag=chamaxwoo-20&linkId=HSKHQDKBELWETY3T) (Eric)[Philip Morgan: 3 Content Marketing Ideas For the Time-Constrained Dev Shop](https://philipmorganconsulting.com/3-content-marketing-ideas-for-the-time-constrained-dev-shop/) (Eric)[Mojca Mars: Get High-Value Clients With Social Media](http://doubleyourfreelancing.com/get-high-value-clients-with-social-media/) (Eric)[Android Wear](https://www.android.com/wear/) (Jonathan)[Calendly](https://calendly.com/) (Jonathan)[Double Your Freelancing Conference](https://ti.to/double-your-freelancing/conf2015/discount/JonathanStark) (Jonathan)[Connie Chan: When One App Rules Them All: The Case of WeChat and Mobile in China](https://a16z.com/2015/08/06/wechat-china-mobile-first/) (Reuven)[Penn & Teller: Fool Us](http://www.imdb.com/title/tt1811179/) (Reuven)[Reuven's Training/Coaching Program](http://new.lerner.co.il/coaching) (Reuven)[15 Minute Podcast Listener Chat with Charles Wood](http://freelancersshow.com/15minutes) (Chuck)[The Freelancers' Show Episode #168: Branding with Sunny Bonnell](https://devchat.tv/freelancers/168-fs-branding-with-sunny-bonnell) (Chuck)
+[The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing by Marie Kondo](https://www.amazon.com/gp/product/1607747308/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607747308&linkCode=as2&tag=chamaxwoo-20&linkId=HSKHQDKBELWETY3T) (Eric)[Philip Morgan: 3 Content Marketing Ideas For the Time-Constrained Dev Shop](https://philipmorganconsulting.com/3-content-marketing-ideas-for-the-time-constrained-dev-shop/) (Eric)[Mojca Mars: Get High-Value Clients With Social Media](https://doubleyourfreelancing.com/get-high-value-clients-with-social-media/) (Eric)[Android Wear](https://www.android.com/wear/) (Jonathan)[Calendly](https://calendly.com/) (Jonathan)[Double Your Freelancing Conference](https://ti.to/double-your-freelancing/conf2015/discount/JonathanStark) (Jonathan)[Connie Chan: When One App Rules Them All: The Case of WeChat and Mobile in China](https://a16z.com/2015/08/06/wechat-china-mobile-first/) (Reuven)[Penn & Teller: Fool Us](https://www.imdb.com/title/tt1811179/) (Reuven)[Reuven's Training/Coaching Program](https://new.lerner.co.il/coaching) (Reuven)[15 Minute Podcast Listener Chat with Charles Wood](https://freelancersshow.com/15minutes) (Chuck)[The Freelancers' Show Episode #168: Branding with Sunny Bonnell](https://devchat.tv/freelancers/168-fs-branding-with-sunny-bonnell) (Chuck)
 
 ### Transcript
 

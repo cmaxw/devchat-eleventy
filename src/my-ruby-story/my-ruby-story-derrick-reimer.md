@@ -30,10 +30,10 @@ Derrick&nbsp;wanted to create user documentation for his first product in Rails.
 
 ## Establish Connections
 
-Connect with Derrick on [Twitter](https://twitter.com/derrickreimer?lang=en)&nbsp;and [blog](http://www.scalingsaas.com/). You can also follow him through the links below. Don’t forget to let him know you heard about him on Devchat.tv’s Ruby Rogues My Ruby Story podcast!
+Connect with Derrick on [Twitter](https://twitter.com/derrickreimer?lang=en)&nbsp;and [blog](https://www.scalingsaas.com/). You can also follow him through the links below. Don’t forget to let him know you heard about him on Devchat.tv’s Ruby Rogues My Ruby Story podcast!
 
 ## Picks:
 
-Derrick: [Screen Hero](https://screenhero.com/) and [Prometheus](https://prometheus.io/)Charles: Getting into YouTube, [Clash of Clans](https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en), and [Contactually](http://www.contactually.com/)
+Derrick: [Screen Hero](https://screenhero.com/) and [Prometheus](https://prometheus.io/)Charles: Getting into YouTube, [Clash of Clans](https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en), and [Contactually](https://www.contactually.com/)
 
 ### Transcript

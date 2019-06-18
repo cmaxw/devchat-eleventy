@@ -30,6 +30,6 @@ Innovating the way developer events are conducted from how they are usually done
 
 ## **Picks:**
 
-John:&nbsp;[LIFX](http://www.lifx.com/), [WEMO](http://www.wemo.com/), and [I.T. movie](http://www.imdb.com/title/tt2679552/)Tracy: [SousVide Machine](https://www.sousvidesupreme.com/)&nbsp;and [Contributor Days](http://contributordays.com/)Joe: [Rogue One: A Star Wars Story](http://www.starwars.com/films/rogue-one), [NG cruise](https://ngcruise.com/#/), and [Wassim Chegham on Twitter](https://twitter.com/manekinekko/status/815710194831392769)Alyssa: [Overwatch](https://playoverwatch.com/en-us/)
+John:&nbsp;[LIFX](https://www.lifx.com/), [WEMO](https://www.wemo.com/), and [I.T. movie](https://www.imdb.com/title/tt2679552/)Tracy: [SousVide Machine](https://www.sousvidesupreme.com/)&nbsp;and [Contributor Days](https://contributordays.com/)Joe: [Rogue One: A Star Wars Story](https://www.starwars.com/films/rogue-one), [NG cruise](https://ngcruise.com/#/), and [Wassim Chegham on Twitter](https://twitter.com/manekinekko/status/815710194831392769)Alyssa: [Overwatch](https://playoverwatch.com/en-us/)
 
 ### Transcript

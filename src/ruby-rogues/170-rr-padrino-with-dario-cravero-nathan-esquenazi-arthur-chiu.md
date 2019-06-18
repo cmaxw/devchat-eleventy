@@ -17,58 +17,58 @@ tags:
 - Nathan Esquenazi
   - [twitter](https://twitter.com/nesquena)
   - [github](https://github.com/nesquena)
-  - [Padrino](http://padrinorb.com/)
+  - [Padrino](https://padrinorb.com/)
   - [@padrinorb](https://twitter.com/padrinorb)
-  - [CodePath](http://www.codepath.com/)
+  - [CodePath](https://www.codepath.com/)
 - Arthur Chiu
   - [twitter](https://twitter.com/arthur_chiu)
-  - [blog](http://www.arthurchiu.com/)
+  - [blog](https://www.arthurchiu.com/)
   - [GitHub](https://github.com/)
 - Dario Cravero
   - [twitter](https://twitter.com/dariocravero)
   - [github](https://github.com/dariocravero)
-  - [blog](http://contentkingdom.co/)
-  - [Content Kingdom](http://contentkingdom.org/)
+  - [blog](https://contentkingdom.co/)
+  - [Content Kingdom](https://contentkingdom.org/)
     03:47 - Start of Padrino
 - “The Godfather”
-- [Sinatra](http://www.sinatrarb.com/)
+- [Sinatra](https://www.sinatrarb.com/)
   - [sinatra_more](https://github.com/nesquena/sinatra_more)
-  - [Standalone Usage in Sinatra](http://www.padrinorb.com/guides/standalone-usage-in-sinatra)
+  - [Standalone Usage in Sinatra](https://www.padrinorb.com/guides/standalone-usage-in-sinatra)
     05:59 - Features 07:08 -Writing Apps in Padrino
 - [persistence.js](https://github.com/coresmart/persistencejs)
-- [Bootstrap](http://getbootstrap.com/)
-- [Slim](http://www.slimframework.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Slim](https://www.slimframework.com/)
   10:14 - Default Stacks
-- [jQuery](http://jquery.com/)
+- [jQuery](https://jquery.com/)
 - [rstack](https://github.com/jrun/rstack)
-- [Arabis](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4228331)
+- [Arabis](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4228331)
   12:22 - Crossing Over - Simple to Complex
-- [Monolithic App](http://www.monolithicapps.com/index.html)
+- [Monolithic App](https://www.monolithicapps.com/index.html)
 - [Django](https://www.djangoproject.com/)
-- [RubyGems](http://rubygems.org/)
+- [RubyGems](https://rubygems.org/)
   17:38 - Sinatra vs. Padrino
-- [Dev BootCamp](http://devbootcamp.com/)
-- [Rails BootCamp - San Francisco](http://www.academyx.com/training/san_francisco/ruby/rails/?s=google)
+- [Dev BootCamp](https://devbootcamp.com/)
+- [Rails BootCamp - San Francisco](https://www.academyx.com/training/san_francisco/ruby/rails/?s=google)
   23:47 - Tradeoffs Between Larger Frameworks
-- [Rails Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
+- [Rails Asset Pipeline](https://guides.rubyonrails.org/asset_pipeline.html)
   25:28 - Stacking Gems 27:46 - Applications and Modules 31:23 - Architectural Problems 38:07 - Embedding URL’s 39:37 - Tutorials for Padrino
-- [PadrinoBook](http://padrinobook.com/)
+- [PadrinoBook](https://padrinobook.com/)
 - [Projects Using Padrino](https://github.com/padrino/padrino-framework/wiki/Projects-using-Padrino)
 - [machinima](https://www.machinima.com/)
-- [Padrino Timeline](<http://en.wikipedia.org/wiki/Padrino_(web_framework)>)
+- [Padrino Timeline](<https://en.wikipedia.org/wiki/Padrino_(web_framework)>)
   41:31 - Future of Padrino
 - [namusyaka](https://github.com/namusyaka)
 - [pendragon](https://github.com/namusyaka/pendragon)
-- [JRuby](http://www.jruby.org/)
+- [JRuby](https://www.jruby.org/)
   44:09- Padrino 1.0 46:07- Front-End Framework Support
 - [Angular](https://angularjs.org/)
-- [Backbone](http://backbonejs.org/)
-- [Bower](http://bower.io/)
+- [Backbone](https://backbonejs.org/)
+- [Bower](https://bower.io/)
 - [Rabl](https://github.com/nesquena/rabl)
-  - [JSON](http://json.org/)
-  - [XML](http://en.wikipedia.org/wiki/XML)
-  - [MessagePack](http://msgpack.org/)
-- [JBuilder](http://www.embarcadero.com/products/jbuilder)
+  - [JSON](https://json.org/)
+  - [XML](https://en.wikipedia.org/wiki/XML)
+  - [MessagePack](https://msgpack.org/)
+- [JBuilder](https://www.embarcadero.com/products/jbuilder)
   51:25 - Sinatra with Padrino Projects
 - [Sinatra Omniauth](https://github.com/intridea/omniauth/wiki/Sinatra-Example)
 - [Devise](https://github.com/plataformatec/devise)
@@ -82,9 +82,9 @@ tags:
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

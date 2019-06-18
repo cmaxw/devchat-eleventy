@@ -84,7 +84,7 @@ Chuck: It would be interesting to see bindings. See these other options come for
 
 19:10 – Chuck: Picks!
 
-19:14 – [Advertisement.](http://getacoderjob.com/)
+19:14 – [Advertisement.](https://getacoderjob.com/)
 
 **Links:**
 
@@ -97,13 +97,13 @@ Chuck: It would be interesting to see bindings. See these other options come for
 - [Victor’s Talk on Tech Talk – The Functional Style in Ruby](https://youtu.be/3GjbAUAJ-gY)
 - [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
 - [Book: Voroshilovgrad by Serhiy Zhadan](https://www.amazon.com/Voroshilovgrad-Serhiy-Zhadan/dp/1941920306/)
-- [Book: Words for War](http://l.academicstudiespress.com/words-for-war)
+- [Book: Words for War](https://l.academicstudiespress.com/words-for-war)
   - New Poems from Ukraine
 
 **Sponsors:**
 
-- [Code Badges](http://codebadge.org/)
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Code Badges](https://codebadge.org/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**
@@ -117,7 +117,7 @@ Victor
 
 - [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
 - [Book: Voroshilovgrad by Serhiy Zhadan](https://www.amazon.com/Voroshilovgrad-Serhiy-Zhadan/dp/1941920306/)
-- [Book: Words for War](http://l.academicstudiespress.com/words-for-war)
+- [Book: Words for War](https://l.academicstudiespress.com/words-for-war)
   - New Poems from Ukraine
 
 ### Transcript

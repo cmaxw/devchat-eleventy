@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-### Debugging does not stop when you run out of answers, it stops when you run out of questions Josh brought up [this article.](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/) A few points brought up regarding getting better were:
+### Debugging does not stop when you run out of answers, it stops when you run out of questions Josh brought up [this article.](https://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/) A few points brought up regarding getting better were:
 
 - Practice
 - Measuring achievements
@@ -34,8 +34,8 @@ James:
   Avdi:
 - Practice
 - Read
-  - [Code Complete](http://www.amazon.com/gp/product/0735619670/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0735619670) ![](http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0735619670&camp=217145&creative=399369)
-  - [The Pragmatic Programmer](http://www.amazon.com/gp/product/020161622X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=020161622X) ![](http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=020161622X&camp=217145&creative=399369)
+  - [Code Complete](https://www.amazon.com/gp/product/0735619670/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0735619670) ![](https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0735619670&camp=217145&creative=399369)
+  - [The Pragmatic Programmer](https://www.amazon.com/gp/product/020161622X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=020161622X) ![](https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=020161622X&camp=217145&creative=399369)
 - Work with other people and read their code
   David:
 - Never stop playing

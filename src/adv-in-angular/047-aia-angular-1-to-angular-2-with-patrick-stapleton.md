@@ -16,14 +16,14 @@ tags:
 
 - [Twitter](https://twitter.com/gdi2290)
 - [GitHub](https://github.com/staplet2)
-- [Blog](http://gdi2290.com/)
+- [Blog](https://gdi2290.com/)
 - [Angular Class](https://angularclass.com/)
   - [@AngularClass](https://twitter.com/AngularClass)
 - [Keychain Logistics](https://www.keychainlogistics.com/)&nbsp;&nbsp;
   - [@Keychain](https://twitter.com/Keychain)
-- [Hack Reactor](http://www.hackreactor.com/)
+- [Hack Reactor](https://www.hackreactor.com/)
   - [@HackReactor](https://twitter.com/HackReactor)
-- [Reddit Insight](http://www.redditinsight.com/)
+- [Reddit Insight](https://www.redditinsight.com/)
 
 04:21 - Angular 2 and Where It’s Headed
 
@@ -33,14 +33,14 @@ tags:
 
 - [TodoService in Angular 2 and Angular 1 both in TypeScript and ES5](https://gist.github.com/gdi2290/634101fec1671ee12b3e)
 - [Babel](https://babeljs.io/)
-- [TypeScript](http://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 10:35 - Authoring Scenario in ES5 vs ES6
 
 13:44 - Composition Over Inheritance
 
 - The Class System
-- [Duck Typing](http://en.wikipedia.org/wiki/Duck_typing)
+- [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
 
 18:47 - Services and Directives
 
@@ -56,7 +56,7 @@ tags:
 - Template-Driven, Data-Driven
   Picks
 
-[Amarda: A Novel by Ernest Cline](http://www.amazon.com/gp/product/0804137250/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137250&linkCode=as2&tag=chamaxwoo-20&linkId=F5N7X46OD7BZATE6) (Aaron)[(Chapter 1) Take A First Look At Ernest Cline's Armada](http://io9.com/take-a-first-look-at-ernest-clines-armada-and-win-a-1708228944?utm_campaign=socialflow_io9_facebook&utm_source=io9_facebook&utm_medium=socialflow) (Aaron)[Angular Summit](http://angularsummit.com/conference/boston/2015/09/home) (Aaron)[Sign Language](http://www.lifeprint.com/) (Katya)[Luther Ingram - If Loving You Is Wrong](https://www.youtube.com/watch?v=FvJj7SN9EWI) (Ward)[AngularU](https://angularu.com/ng/) (Ward)[Thinking, Fast and Slow by Daniel Kahneman](http://www.amazon.com/gp/product/0374533555/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=chamaxwoo-20&linkId=BCI4EUZPLPEZYAXV) (Ward)[Denmark](http://denmark.dk/) (Joe) Angular 2 (Patrick)[Babel](https://babeljs.io/) (Patrick)
+[Amarda: A Novel by Ernest Cline](https://www.amazon.com/gp/product/0804137250/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137250&linkCode=as2&tag=chamaxwoo-20&linkId=F5N7X46OD7BZATE6) (Aaron)[(Chapter 1) Take A First Look At Ernest Cline's Armada](https://io9.com/take-a-first-look-at-ernest-clines-armada-and-win-a-1708228944?utm_campaign=socialflow_io9_facebook&utm_source=io9_facebook&utm_medium=socialflow) (Aaron)[Angular Summit](https://angularsummit.com/conference/boston/2015/09/home) (Aaron)[Sign Language](https://www.lifeprint.com/) (Katya)[Luther Ingram - If Loving You Is Wrong](https://www.youtube.com/watch?v=FvJj7SN9EWI) (Ward)[AngularU](https://angularu.com/ng/) (Ward)[Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/gp/product/0374533555/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=chamaxwoo-20&linkId=BCI4EUZPLPEZYAXV) (Ward)[Denmark](https://denmark.dk/) (Joe) Angular 2 (Patrick)[Babel](https://babeljs.io/) (Patrick)
 
 ### Transcript
 

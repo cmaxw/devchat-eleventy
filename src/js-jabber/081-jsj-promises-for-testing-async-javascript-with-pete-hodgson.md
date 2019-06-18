@@ -14,37 +14,37 @@ tags:
 
 ### Panel
 
-- Pete Hodgson ([twitter](https://twitter.com/ph1) [github](https://github.com/moredip) [blog](http://blog.thepete.net/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
+- Pete Hodgson ([twitter](https://twitter.com/ph1) [github](https://github.com/moredip) [blog](https://blog.thepete.net/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-01:19 - [Pete Hodgson: Testing Asynchronous JavaScript](http://martinfowler.com/articles/asyncJS.html)
+01:19 - [Pete Hodgson: Testing Asynchronous JavaScript](https://martinfowler.com/articles/asyncJS.html)
 
-- [Promises](http://promises-aplus.github.io/promises-spec/)
-- [Domenic Denicola](http://domenicdenicola.com/)
+- [Promises](https://promises-aplus.github.io/promises-spec/)
+- [Domenic Denicola](https://domenicdenicola.com/)
   12:43 - Efficiency 21:14 - [q](https://github.com/kriskowal/q)
-- [037 JSJ Promises with Domenic Denicola and Kris Kowal](http://javascriptjabber.com/037-jsj-promises-with-domenic-denicola-and-kris-kowal/)
-- [jQuery](http://jquery.com/)
+- [037 JSJ Promises with Domenic Denicola and Kris Kowal](https://javascriptjabber.com/037-jsj-promises-with-domenic-denicola-and-kris-kowal/)
+- [jQuery](https://jquery.com/)
   22:41 - What test-runners are better for testing asynchronous JavaScript?
 - [jasmine](https://github.com/pivotal/jasmine)
 - [mocha](https://github.com/visionmedia/mocha)
-  32:02 - The Humble Object 33:27 - [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+  32:02 - The Humble Object 33:27 - [Hexagonal Architecture](https://alistair.cockburn.us/Hexagonal+architecture)
 
 ### Picks
 
-- [AngularJS](http://angularjs.org/) (AJ)
-- [Castle of Chaos](http://castleofchaos.com/) (AJ)
+- [AngularJS](https://angularjs.org/) (AJ)
+- [Castle of Chaos](https://castleofchaos.com/) (AJ)
 - [jasmine.async](https://github.com/derickbailey/jasmine.async) (Merrick)
-- [Erlang](http://www.erlang.org/doc.html) (Merrick)
-- [RobotsConf](http://robotsconf.com/) (Merrick)
-- [Thou Shall Prosper: Ten Commandments for Making Money by Rabbi Daniel Lapin](http://www.amazon.com/gp/product/0470485884/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470485884&linkCode=as2&tag=chamaxwoo-20)&nbsp;(Chuck)
-- [Hexagonal/Ports & Adapter Architecture](http://alistair.cockburn.us/Hexagonal+architecture) (Pete)
+- [Erlang](https://www.erlang.org/doc.html) (Merrick)
+- [RobotsConf](https://robotsconf.com/) (Merrick)
+- [Thou Shall Prosper: Ten Commandments for Making Money by Rabbi Daniel Lapin](https://www.amazon.com/gp/product/0470485884/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470485884&linkCode=as2&tag=chamaxwoo-20)&nbsp;(Chuck)
+- [Hexagonal/Ports & Adapter Architecture](https://alistair.cockburn.us/Hexagonal+architecture) (Pete)
 - [Ward's Smallest Federated Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki%20) (Pete)
 - [Kris Kowal](https://twitter.com/kriskowal) (Pete)
-- [Saison Rue](http://beeradvocate.com/beer/profile/16866/42434) (Pete)
+- [Saison Rue](https://beeradvocate.com/beer/profile/16866/42434) (Pete)
 
 ### Next Week
 

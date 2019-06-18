@@ -5,7 +5,7 @@ title: >
 date: 2016-06-09 07:00:42
 episode_number: 156
 duration: 39:36
-audio_url: http://media.devchat.tv/iphreaks/iPS156WWDC.mp3
+audio_url: https://media.devchat.tv/iphreaks/iPS156WWDC.mp3
 podcast: iphreaks
 tags:
   - iphreaks
@@ -14,21 +14,21 @@ tags:
 
 01:22 - Hopes and Wishes
 
-- [AltConf](http://altconf.com/)
+- [AltConf](https://altconf.com/)
 - Instant Apps
   - [Google I/O 2016 Keynote](https://events.google.com/io2016/)
 - Bots
-  - [Amazon Echo](http://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E)
+  - [Amazon Echo](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E)
 - SiriSDK
 - [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12), [Playgrounds](https://developer.apple.com/library/ios/recipes/Playground_Help/Chapters/AboutPlaygrounds.html) for iOS
-  - [Pythonista](http://omz-software.com/pythonista/)
+  - [Pythonista](https://omz-software.com/pythonista/)
 - Swift First Framework
-  16:18 - iOS 10, Swift 3.0 19:43 - Wearables 21:53 - [Apple TV](http://www.apple.com/tv/) / [tvOS](https://developer.apple.com/tvos/)24:56 - The App Store 26:41 - [CloudKit](https://developer.apple.com/icloud/)28:46 - [Firebase](https://www.firebase.com/)&nbsp; Picks
-- [Curry Up Now](http://www.curryupnow.com/) (Jaim)
+  16:18 - iOS 10, Swift 3.0 19:43 - Wearables 21:53 - [Apple TV](https://www.apple.com/tv/) / [tvOS](https://developer.apple.com/tvos/)24:56 - The App Store 26:41 - [CloudKit](https://developer.apple.com/icloud/)28:46 - [Firebase](https://www.firebase.com/)&nbsp; Picks
+- [Curry Up Now](https://www.curryupnow.com/) (Jaim)
 - [Box Kitchen](https://www.facebook.com/boxkitchen.sf) (Jaim)
-- [Southside Spirit House](http://www.southsidesf.com/) (Jaim)
-- [Local Edition Bar: San Francisco](http://www.localeditionsf.com/) (Jaim)
-- [Cathode](http://www.secretgeometry.com/apps/cathode/) (Andrew)
+- [Southside Spirit House](https://www.southsidesf.com/) (Jaim)
+- [Local Edition Bar: San Francisco](https://www.localeditionsf.com/) (Jaim)
+- [Cathode](https://www.secretgeometry.com/apps/cathode/) (Andrew)
 - [Woo](https://woo.io) (Andrew)
 
 ### Transcript

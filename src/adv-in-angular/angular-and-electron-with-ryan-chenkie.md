@@ -30,7 +30,7 @@ By definition, Electron is a platform to build cross platform desktop applicatio
 
 ## Picks:
 
-Joe: Gravity Falls cartoon, [Top Coders 3D Workshop on Angular in July](http://www.topcoders.io/)Lukas: TSA PreCheck, Jazz Theory&nbsp;Book by Mark Levine Charles: Bash on Ubuntu Emulator on Windows, Zapier, [Bluetick](https://bluetick.io/), [Hapi.js Workshop by Ryan Chenkies](https://frontendmasters.com/workshops/hapi-js/)Ryan: [Angular-Electron Projects by Joao Garin](https://libraries.io/github/joaogarin), Mischief Maker Repo by Lukas Ruebbelke, Clocker app
+Joe: Gravity Falls cartoon, [Top Coders 3D Workshop on Angular in July](https://www.topcoders.io/)Lukas: TSA PreCheck, Jazz Theory&nbsp;Book by Mark Levine Charles: Bash on Ubuntu Emulator on Windows, Zapier, [Bluetick](https://bluetick.io/), [Hapi.js Workshop by Ryan Chenkies](https://frontendmasters.com/workshops/hapi-js/)Ryan: [Angular-Electron Projects by Joao Garin](https://libraries.io/github/joaogarin), Mischief Maker Repo by Lukas Ruebbelke, Clocker app
 
 ## Episode Links:
 

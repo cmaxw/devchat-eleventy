@@ -15,7 +15,7 @@ tags:
 ## **Sponsors:**
 
 - [KendoUI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
-- [Sentry](http://sentry.io)&nbsp;use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io)&nbsp;use the code "devchat" for $100 credit
 - [TripleByte](https://triplebyte.com/vue)
 
 **Panel:**
@@ -44,11 +44,11 @@ tags:
 - [Electron](https://electronjs.org/)
 - [Cordova](https://github.com/apache/cordova-js)
 - [Capacitor](https://github.com/ionic-team/capacitor)
-- [Shaders](http://shadersmods.com/category/popular-shaders/)
+- [Shaders](https://shadersmods.com/category/popular-shaders/)
 - [Phaser](https://github.com/photonstorm/phaser)
 - [Web audio API](https://github.com/WebAudio/web-audio-api)
 **Picks:** Chris:
-- [CrossCode](http://www.cross-code.com/)
+- [CrossCode](https://www.cross-code.com/)
 - [Vue Conf US Workshops](https://us.vuejs.org/workshops/)
 Erik:
 - [Let's talk about an unnecessary but popular Vue plugin](https://dev.to/heftyhead/lets-talk-about-an-unnecessary-but-popular-vue-plugin-1ied) article

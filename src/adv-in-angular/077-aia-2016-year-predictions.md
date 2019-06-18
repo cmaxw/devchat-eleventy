@@ -24,8 +24,8 @@ tags:
 
 14:31 - No New Frameworks of Consequence in 2016 ??
 
-- [Cycle.js](http://cycle.js.org/)
-- [Elm](http://elm-lang.org/)
+- [Cycle.js](https://cycle.js.org/)
+- [Elm](https://elm-lang.org/)
 
 21:50 - New Year’s Challenge: Communicate “Why”
 
@@ -45,13 +45,13 @@ tags:
 
 39:54 - <s>ES2015/6,</s> ES7
 
-41:15 - [Bootstrap](http://getbootstrap.com/) Takes a Backseat
+41:15 - [Bootstrap](https://getbootstrap.com/) Takes a Backseat
 
 41:48 - Inline Styles
 
 43:43 - Containers
 
-44:08 - [NOSQL Databases](http://nosql-database.org/)
+44:08 - [NOSQL Databases](https://nosql-database.org/)
 
 44:35 - Java
 
@@ -67,7 +67,7 @@ tags:
 
 55:49 - [WebAssembly](https://github.com/WebAssembly/design/blob/master/README.md)Picks
 
-[Mad Max: Fury Road](http://www.imdb.com/title/tt1392190/) (Ward)[Luca Sestak Duo - Key Engine](https://www.youtube.com/watch?v=B2xrLoBwk0E) (Lukas)[Star Wars: The Force Awakens](http://www.imdb.com/title/tt2488496/) (Joe)[littleBits](http://littlebits.cc/) (Joe) Submit a CFP for [ng-conf](https://www.ng-conf.org/)! (Joe) Spending time with family (John)[Clash of Clans](http://supercell.com/en/games/clashofclans/) (Chuck)[All Remote Confs](https://allremoteconfs.com/) (Chuck)[Swarm Simulator](https://swarmsim.github.io/) (Chuck)[CES](https://www.cesweb.org/) (Chuck)[The Venetian Hotel](http://www.venetian.com/) (Chuck)
+[Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/) (Ward)[Luca Sestak Duo - Key Engine](https://www.youtube.com/watch?v=B2xrLoBwk0E) (Lukas)[Star Wars: The Force Awakens](https://www.imdb.com/title/tt2488496/) (Joe)[littleBits](https://littlebits.cc/) (Joe) Submit a CFP for [ng-conf](https://www.ng-conf.org/)! (Joe) Spending time with family (John)[Clash of Clans](https://supercell.com/en/games/clashofclans/) (Chuck)[All Remote Confs](https://allremoteconfs.com/) (Chuck)[Swarm Simulator](https://swarmsim.github.io/) (Chuck)[CES](https://www.cesweb.org/) (Chuck)[The Venetian Hotel](https://www.venetian.com/) (Chuck)
 
 ### Transcript
 

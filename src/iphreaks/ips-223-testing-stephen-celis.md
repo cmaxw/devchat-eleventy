@@ -34,11 +34,11 @@ tags:
 - [Realm&nbsp;](https://academy.realm.io/posts/altconf-jaim-zuber-stylish-developers-guide-to-unit-testing-in-swift/%0Ahttps://academy.realm.io/posts/altconf-jaim-zuber-stylish-developers-guide-to-unit-testing-in-swift/)
   Andrew:
 - [Cities Skylines](https://www.paradoxplaza.com/cities-skylines/CSCS00GSK-MASTER.html)
-- [Advent of Code](http://adventofcode.com)
+- [Advent of Code](https://adventofcode.com)
   Erica
 - Anti-pick High Sierra missing Network Diagnostics App
   Stephen
-- [Reducers](http://chris.eidhof.nl/post/reducers/)
+- [Reducers](https://chris.eidhof.nl/post/reducers/)
 - [Purescript](https://leanpub.com/purescript/)
 - [Test Driven Reactive Programming](https://talk.objc.io/episodes/S01E53-test-driven-reactive-programming)
 

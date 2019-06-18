@@ -46,24 +46,24 @@ tags:
 - [Clever Beagle&nbsp;](https://cleverbeagle.com)
 - [The Meteor Chef](https://themeteorchef.com)
 - [https://www.linkedin.com/in/ryangglover](https://www.linkedin.com/in/ryangglover)
-- [http://www.ryanglover.net](http://www.ryanglover.net)
+- [https://www.ryanglover.net](https://www.ryanglover.net)
 - [Brick by Brick](https://www.amazon.com/Brick-Rewrote-Innovation-Conquered-Industry/dp/0307951618)
 - [Quitter](https://www.amazon.com/Quitter-Jon-Acuff-ebook/dp/B004ZL9TW0/ref=sr_1_1?s=books&ie=UTF8&qid=1515471817&sr=1-1&keywords=Quitter)
 - [Procrastinate on Purpose](https://www.amazon.com/Procrastinate-Purpose-Permissions-Multiply-Your/dp/0399170634/ref=sr_1_1?s=books&ie=UTF8&qid=1515473313&sr=1-1&keywords=Procrastinate+on+Purpose)
-- [Do Thing That Don’t Scale](http://paulgraham.com/ds.html)
+- [Do Thing That Don’t Scale](https://paulgraham.com/ds.html)
 - @rglover
   **Picks:** Cory
-- [The Power of Moments](http://heathbrothers.com/the-power-of-moments/)
+- [The Power of Moments](https://heathbrothers.com/the-power-of-moments/)
 - [The 50th Law](https://www.goodreads.com/book/show/6043946-the-50th-law)
   Charles
-- [ReactDevSummit.com](http://ReactDevSummit.com)
+- [ReactDevSummit.com](https://ReactDevSummit.com)
 - Indiegogo for Dev Chat
 - .NetRocks
   Aimee
 - [Life of Privilege Explained in a \$100 Race](https://www.youtube.com/watch?v=4K5fbQ1-zps)
   Joe
 - [Everybody Lies](https://www.amazon.com/House-Philosophy-Everybody-Henry-Jacoby/dp/0470316608/ref=sr_1_1_sspa?ie=UTF8&qid=1515473742&sr=8-1-spons&keywords=Everybody+Lies&psc=1)
-- [Murder on the Orient Express](http://www.imdb.com/title/tt3402236/)
+- [Murder on the Orient Express](https://www.imdb.com/title/tt3402236/)
 -
 
 Ryan

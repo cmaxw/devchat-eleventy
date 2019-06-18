@@ -14,9 +14,9 @@ tags:
 
 00:55 - Joseph Wilk Introduction
 
-01:43 - [Confreaks | Ruby Conference 2012: Someone is Wrong by Joseph Wilk](http://www.confreaks.com/videos/1274-rubyconf2012-someone-is-wrong)
+01:43 - [Confreaks | Ruby Conference 2012: Someone is Wrong by Joseph Wilk](https://www.confreaks.com/videos/1274-rubyconf2012-someone-is-wrong)
 
-02:55 - [Rhetoric](http://en.wikipedia.org/wiki/Rhetoric)
+02:55 - [Rhetoric](https://en.wikipedia.org/wiki/Rhetoric)
 
 - [Amphora](https://en.wikipedia.org/wiki/Amphora)
 
@@ -29,38 +29,38 @@ tags:
 
 - Persuasion vs Winning
 - Writing persuasive code
-- [Growth of human factors in application development: Alistair Cockburn](http://alistair.cockburn.us/Growth+of+human+factors+in+application+development/v/slim)
+- [Growth of human factors in application development: Alistair Cockburn](https://alistair.cockburn.us/Growth+of+human+factors+in+application+development/v/slim)
 
 11:59 - Expressing ideas via programming languages
 
-- [Creating Passionate Users: When only the glib win, we all lose](http://headrush.typepad.com/creating_passionate_users/2006/04/when_only_the_g.html)
-- [YouTube | Growing a Language by Guy Steele](http://www.youtube.com/watch?v=_ahvzDzKdB0)
+- [Creating Passionate Users: When only the glib win, we all lose](https://headrush.typepad.com/creating_passionate_users/2006/04/when_only_the_g.html)
+- [YouTube | Growing a Language by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 - “Autistic Language”
 
 19:59 - Literate Programming
 
 24:35 - Emotions and Words
 
-- [Thank You for Arguing: What Aristotle, Lincoln, And Homer Simpson Can Teach Us About the Art of Persuasion by Jay Heinrichs](http://www.amazon.com/gp/product/0307341445/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307341445&linkCode=as2&tag=chamaxwoo-20)
+- [Thank You for Arguing: What Aristotle, Lincoln, And Homer Simpson Can Teach Us About the Art of Persuasion by Jay Heinrichs](https://www.amazon.com/gp/product/0307341445/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307341445&linkCode=as2&tag=chamaxwoo-20)
 - Past Tense/Forensic Debate: Seeks to find out why or how something happened; to fix blame
 - Present Tense/Ethical Debate: Seeks to divide the listeners into tribes pro/con; for/against
 - Future Tense/Deliberative Debate: Seeks to choose among alternatives
 
 35:59 - Rhetoric of Tools
 
-- [Six Thinking Hats](http://www.mindtools.com/pages/article/newTED_07.htm)
-- [Dreyfus model of skill acquisition](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+- [Six Thinking Hats](https://www.mindtools.com/pages/article/newTED_07.htm)
+- [Dreyfus model of skill acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 - Persuasion by authority
 
 46:36 - Rhetoric and persuasion in code
 
 ### Homework
 
-Watch the first ten minutes of [YouTube | Growing a Language by Guy Steele](http://www.youtube.com/watch?v=_ahvzDzKdB0).
+Watch the first ten minutes of [YouTube | Growing a Language by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0).
 
 ### Book Club
 
-[The Rails View by John Athayde and Bruce Williams](http://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20): Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
+[The Rails View by John Athayde and Bruce Williams](https://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20): Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
 
 ### Next Week
 

@@ -16,26 +16,26 @@ tags:
 
 - [Twitter](https://twitter.com/Gilad_Bracha)
 - [GitHub](https://github.com/gbracha)
-- [Blog](http://bracha.org/Site/Home.html)
+- [Blog](https://bracha.org/Site/Home.html)
 - [Dart](https://www.dartlang.org/)
   - [JavaScript Jabber Episode #008: V8 and Dart with Lars Bak and Kasper Lund](https://devchat.tv/js-jabber/008-jsj-v8-and-dart-with-lars-bak-and-kaspar-lund)
   - [Dartium](https://www.dartlang.org/tools/dartium/)
 
 09:17 - Programming Language Evolution and Design
 
-- [Elm](http://elm-lang.org/)
+- [Elm](https://elm-lang.org/)
   - [Ruby Rogues Episode #212: Elm with Richard Feldman and Evan Czaplicki](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki)
 
 10:47 - Capabilities and Language Features
 
-- [Newspeak](http://www.newspeaklanguage.org/)
+- [Newspeak](https://www.newspeaklanguage.org/)
 - “Functional”
 
 12:46 - Actors
 
 16:41 - Live Programming
 
-- [Bret Victor on Live-Coding](http://worrydream.com/LearnableProgramming/)
+- [Bret Victor on Live-Coding](https://worrydream.com/LearnableProgramming/)
 
 19:07 - [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk)
 
@@ -48,20 +48,20 @@ tags:
 
 38:59 - Complexity
 
-42:41 - [Newspeak](http://www.newspeaklanguage.org/) (Con’t)
+42:41 - [Newspeak](https://www.newspeaklanguage.org/) (Con’t)
 
-45:58 - [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk) or [Newspeak](http://www.newspeaklanguage.org/)?
+45:58 - [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk) or [Newspeak](https://www.newspeaklanguage.org/)?
 
-- [Squeak](http://squeak.org/)
-- [Pharo](http://pharo.org/)
-- [Dolphin Smalltalk](http://www.object-arts.com/)
-- [VisualWorks](http://www.cincomsmalltalk.com/main/products/visualworks/)
+- [Squeak](https://squeak.org/)
+- [Pharo](https://pharo.org/)
+- [Dolphin Smalltalk](https://www.object-arts.com/)
+- [VisualWorks](https://www.cincomsmalltalk.com/main/products/visualworks/)
 
 48:13 - How are programming languages like shrubberies
 
 Picks
 
-[Stroopwafels](https://en.wikipedia.org/wiki/Stroopwafel) (Chuck)[Staked: The Iron Druid Chronicles by Kevin Hearne](http://www.amazon.com/Staked-Iron-Druid-Chronicles-Eight-ebook/dp/B00VOYGYNS) (Chuck)[Calamity (The Reckoners) by Brandon Sanderson](http://www.amazon.com/Calamity-The-Reckoners-Brandon-Sanderson/dp/0385743602) (Chuck)[Katrina Owen: Here be Dragons](http://confreaks.tv/videos/bathruby2015-here-be-dragons) (Jessica)[The Slow Party Parrot Emoji](http://theparrotforum.com/images/smilies/emoticons/LittleParrotLeftAnim.gif) (Jessica)[Umberto Eco](http://www.umbertoeco.com/) (Gilad)
+[Stroopwafels](https://en.wikipedia.org/wiki/Stroopwafel) (Chuck)[Staked: The Iron Druid Chronicles by Kevin Hearne](https://www.amazon.com/Staked-Iron-Druid-Chronicles-Eight-ebook/dp/B00VOYGYNS) (Chuck)[Calamity (The Reckoners) by Brandon Sanderson](https://www.amazon.com/Calamity-The-Reckoners-Brandon-Sanderson/dp/0385743602) (Chuck)[Katrina Owen: Here be Dragons](https://confreaks.tv/videos/bathruby2015-here-be-dragons) (Jessica)[The Slow Party Parrot Emoji](https://theparrotforum.com/images/smilies/emoticons/LittleParrotLeftAnim.gif) (Jessica)[Umberto Eco](https://www.umbertoeco.com/) (Gilad)
 
 ### Transcript
 

@@ -77,7 +77,7 @@ Chris
 Divya
 
 - [Daniel Rosenwasser at VueConf](https://www.youtube.com/watch?v=wDYS6FIXkAc)
-- [_My Struggle to Learn React_ by Brad Frost](http://bradfrost.com/blog/post/my-struggle-to-learn-react/)
+- [_My Struggle to Learn React_ by Brad Frost](https://bradfrost.com/blog/post/my-struggle-to-learn-react/)
 
 Erik
 

@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-**Panel:** Dave Kimura Eric Berry David Richards **Special Guest: Nathen Harvey and Nell Shamrell-Harrington** In this episode, the Ruby Rogues panelist speak with Nathen Harvey and Nell Shamrell-Harrington. Nell is the Senior Software Development Engineer at [Chef](https://www.chef.io), the CTO at [Operation Code](http://operationcode.org). Nathen is the VP Community at Chef. The topic of discussion is about Chef. Chef is a platform that enables teams to collaborate, share, and automate everything. **In particular, we dive pretty deep on:**
+**Panel:** Dave Kimura Eric Berry David Richards **Special Guest: Nathen Harvey and Nell Shamrell-Harrington** In this episode, the Ruby Rogues panelist speak with Nathen Harvey and Nell Shamrell-Harrington. Nell is the Senior Software Development Engineer at [Chef](https://www.chef.io), the CTO at [Operation Code](https://operationcode.org). Nathen is the VP Community at Chef. The topic of discussion is about Chef. Chef is a platform that enables teams to collaborate, share, and automate everything. **In particular, we dive pretty deep on:**
 
 - What is Dev Ops? A cultural and professional movement, focused on how we build and operate high-velocity organizations, born from the experiences of its practitioners.
 - Chef Automate - the platform that enables teams to collaborate, share, and automate everything.
@@ -53,11 +53,11 @@ tags:
   Chuck
 - [AirPods&nbsp;](https://www.apple.com/airpods/)
   Nell
-- [Blue Pearl Animal Clinic](http://Blue%20Pearl%20Animal%20Clinic)
-- [Darkest Hour](http://www.imdb.com/title/tt4555426/)
+- [Blue Pearl Animal Clinic](https://Blue%20Pearl%20Animal%20Clinic)
+- [Darkest Hour](https://www.imdb.com/title/tt4555426/)
   Nathen
 - [Dev Ops Days&nbsp;](https://www.devopsdays.org)
-- [ChefConf.com](http://ChefConf.com)
-- [The Food Fight Show Podcast](http://foodfightshow.org)
+- [ChefConf.com](https://ChefConf.com)
+- [The Food Fight Show Podcast](https://foodfightshow.org)
 
 ### Transcript

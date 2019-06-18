@@ -31,22 +31,22 @@ tags:
 - Brain Storms
 - [Evernote&nbsp;](https://evernote.com)
 - Keeping a physical notebook
-- Using task managers like [Trello&nbsp;](http://trello.com)
+- Using task managers like [Trello&nbsp;](https://trello.com)
 - Keyboard Short Cuts - [aText](https://www.trankynam.com/atext/)
 - And much more!
   **Picks:** Reuven
-- [Blog](http://blog.lerner.co.il/sad-day-end-linux-journal-2/)
+- [Blog](https://blog.lerner.co.il/sad-day-end-linux-journal-2/)
   Kai
-- [Merlin Mann on Inbox 0](http://www.43folders.com/izero)
-- [SaneBox&nbsp;](http://sanebox.com/)
+- [Merlin Mann on Inbox 0](https://www.43folders.com/izero)
+- [SaneBox&nbsp;](https://sanebox.com/)
 - [The Life-Changing Magic Of Tidying Up](https://www.amazon.com/dp/B00KK0PICK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Kai's every day carry notebook](https://www.amazon.com/Moleskine-Classic-Colored-Notebook-Underwater/dp/8867323512/ref=sr_1_1?s=books&ie=UTF8&qid=1512504564&sr=1-1&keywords=moleskin+classic+small+soft)
 - [Kai's every day carry pen](https://www.amazon.com/Fisher-Rainbow-Titanium-Nitride-400RB/dp/B000HLD7ZC/ref=sr_1_1?s=books&ie=UTF8&qid=1512504576&sr=8-1&keywords=rainbow+space+pen)
-- [Naomi (of Itty Biz) wrote this great article on staying productize on low energy days)](http://ittybiz.com/stay-productive/)
-- [Text Expander](http://textexpander.com)
+- [Naomi (of Itty Biz) wrote this great article on staying productize on low energy days)](https://ittybiz.com/stay-productive/)
+- [Text Expander](https://textexpander.com)
   Jonathan
 - [Getting Things Done by David Allen](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280)
-- [Productive](http://productiveapp.io/)
+- [Productive](https://productiveapp.io/)
 - [Jonathan's recommended notebook](https://www.levenger.com/CIRCA-326/CIRCA-NOTEBOOKS-339.aspx)
 - [aText](https://www.trankynam.com/atext/)
 

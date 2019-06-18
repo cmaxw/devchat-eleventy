@@ -14,9 +14,9 @@ tags:
 
 ### Panel
 
-- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood&nbsp;([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance&nbsp;([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
+- AJ O'Neal&nbsp;([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood&nbsp;([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance&nbsp;([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
 
 ### Discussion
 
@@ -33,18 +33,18 @@ tags:
 - If you see a bad example, provide a better example
 - eval is evil due to global references
 - eval is also ambiguous
-- [Javascript Weekly](http://javascriptweekly.com/)
+- [Javascript Weekly](https://javascriptweekly.com/)
 - Follow the instructions on the library website
-- [jQuery](http://jquery.com/)
+- [jQuery](https://jquery.com/)
 - Ender
 - jQuery swallows errors
-- [W3C](http://www.w3.org/)
+- [W3C](https://www.w3.org/)
 - Google references MDN
-- [Quirksmode.org](http://quirksmode.org/)
-- [caniuse.com](http://caniuse.com/)
-- [HTML5rocks](http://www.html5rocks.com/en/)
-- [Javascript Show](http://javascriptshow.com/)
-- [Reddit](http://www.reddit.com/)
+- [Quirksmode.org](https://quirksmode.org/)
+- [caniuse.com](https://caniuse.com/)
+- [HTML5rocks](https://www.html5rocks.com/en/)
+- [Javascript Show](https://javascriptshow.com/)
+- [Reddit](https://www.reddit.com/)
 - [Twitter](https://twitter.com/)
   - [github_js](https://twitter.com/#!/github_js)
   - [javascriptdaily](https://twitter.com/#!/javascriptdaily)
@@ -52,25 +52,25 @@ tags:
   - [Yehuda Katz](https://twitter.com/#!/wycats)
   - [Paul Irish](https://twitter.com/#!/paul_irish)
   - [David Herrmann](https://twitter.com/#!/littlecalculist)
-- [YUI Blog](http://yuiblog.com/)
+- [YUI Blog](https://yuiblog.com/)
 - Dave Glass
 - Douglas Crockford
 - Design Patterns
-- [Cartoon of browsers as kids (browser wars)](http://shoze.blogspot.com/2011/06/brorwser-wars.html)
-- [Javascript the Good Parts](http://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0596517742)
+- [Cartoon of browsers as kids (browser wars)](https://shoze.blogspot.com/2011/06/brorwser-wars.html)
+- [Javascript the Good Parts](https://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0596517742)
 - [Isaacs](https://github.com/isaacs/nodejs-yui3) (Node)
-- [nodejs.org](http://nodejs.org/)
+- [nodejs.org](https://nodejs.org/)
 
 ### Picks
 
-- [Browser Wars](http://shoze.blogspot.com/2011/06/brorwser-wars.html)(AJ)
-- [Mailplane](http://mailplaneapp.com/) (Chuck)
-- [Fluid](http://fluidapp.com/) (Chuck)
-- [Prizm](http://prism.mozillalabs.com/) (AJ)
-- [ExpressJS](http://expressjs.com/)(Jamison)
-- [Guillermo Rouche (devthought.com)](http://www.devthought.com/) (Jamison)
-- [blog.nodejitsu.com](http://blog.nodejitsu.com/) (Jamison)
-- [Functional Javascript post by Sean Hess](http://seanhess.posterous.com/learn-from-haskell-functional-resuable-javasc) (Jamison)
+- [Browser Wars](https://shoze.blogspot.com/2011/06/brorwser-wars.html)(AJ)
+- [Mailplane](https://mailplaneapp.com/) (Chuck)
+- [Fluid](https://fluidapp.com/) (Chuck)
+- [Prizm](https://prism.mozillalabs.com/) (AJ)
+- [ExpressJS](https://expressjs.com/)(Jamison)
+- [Guillermo Rouche (devthought.com)](https://www.devthought.com/) (Jamison)
+- [blog.nodejitsu.com](https://blog.nodejitsu.com/) (Jamison)
+- [Functional Javascript post by Sean Hess](https://seanhess.posterous.com/learn-from-haskell-functional-resuable-javasc) (Jamison)
 
 ### Transcript
 

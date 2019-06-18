@@ -37,4 +37,4 @@ tags:
 - Spend 1 hour per day on learning new technologies.
 - Leverage my time better.
 - Set a schedule.
-  [Download this Episode](http://traffic.libsyn.com/charlesmaxwood/TMTC_53_-_Learn_Something_New.mp3)Here's the video version:<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/FXEdtygPEF4" frameborder="0" allowfullscreen></iframe>
+  [Download this Episode](https://traffic.libsyn.com/charlesmaxwood/TMTC_53_-_Learn_Something_New.mp3)Here's the video version:<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/FXEdtygPEF4" frameborder="0" allowfullscreen></iframe>

@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/) 2016. In this episode we chatted with Thomas Dohmke of [HockeyApp](http://hockeyapp.net/features) and the evolution of Interactive C#. You can follow him on [Twitter](https://twitter.com/ashtom), or see what he’s done over on [GitHub](https://github.com/ashtom).Picks[Tesla Model 3](https://www.teslamotors.com/model3) (Thomas)
+This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/) 2016. In this episode we chatted with Thomas Dohmke of [HockeyApp](https://hockeyapp.net/features) and the evolution of Interactive C#. You can follow him on [Twitter](https://twitter.com/ashtom), or see what he’s done over on [GitHub](https://github.com/ashtom).Picks[Tesla Model 3](https://www.teslamotors.com/model3) (Thomas)
 
 ### Transcript
 

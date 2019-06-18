@@ -14,10 +14,10 @@ tags:
 
 01:40 - Prepayment, Deposits, Trust, and Risk
 
-14:55 - Pricing a [SaaS (Software as a Service)](http://en.wikipedia.org/wiki/Software_as_a_service)
+14:55 - Pricing a [SaaS (Software as a Service)](https://en.wikipedia.org/wiki/Software_as_a_service)
 
 - Tier Pricing
-- [Grandfather Clauses](http://en.wikipedia.org/wiki/Grandfather_clause)
+- [Grandfather Clauses](https://en.wikipedia.org/wiki/Grandfather_clause)
 - Beta Test Features
 - Unlocking Features
 
@@ -32,14 +32,14 @@ tags:
 - Podcasting
 - Speaking Engagements
 
-45:03 - The [Get Clients Now](http://getclientsnow.com/) Approach
+45:03 - The [Get Clients Now](https://getclientsnow.com/) Approach
 
-- [The Freelancers' Show Episode #20: Get Clients Now! with C.J. Hayden](http://devchat.tv/freelancers/the-ruby-freelancers-show-020-get-clients-now-with-c-j-hayden)
+- [The Freelancers' Show Episode #20: Get Clients Now! with C.J. Hayden](https://devchat.tv/freelancers/the-ruby-freelancers-show-020-get-clients-now-with-c-j-hayden)
 
 46:47 - If you could give yourself two or three bits of advice when you first started out, what would they be?
 
 - Specialize
-  - [Book Yourself Solid by Michael Port](http://www.bookyourselfsolid.com/)
+  - [Book Yourself Solid by Michael Port](https://www.bookyourselfsolid.com/)
 - Charge More
 - Don’t Be Afraid to Make Mistakes
 
@@ -47,7 +47,7 @@ tags:
 
 Picks
 
-[Pay Your Love First](http://ittybiz.com/pay-your-love-first/) (Eric)[The Consulting Pipeline Podcast](https://itunes.apple.com/us/podcast/consulting-pipeline-podcast/id996285505?mt=2) (Eric)[Drip Sherpa](http://dripsherpa.com/) (Jonathan)[Double Your Freelancing Conference](http://doubleyourfreelancing.com/conf/) (Jonathan)[CodeNewbie Podcast](http://www.codenewbie.org/podcast) (Chuck)[This Is Your Life Podcast](http://michaelhyatt.com/thisisyourlife) (Chuck)
+[Pay Your Love First](https://ittybiz.com/pay-your-love-first/) (Eric)[The Consulting Pipeline Podcast](https://itunes.apple.com/us/podcast/consulting-pipeline-podcast/id996285505?mt=2) (Eric)[Drip Sherpa](https://dripsherpa.com/) (Jonathan)[Double Your Freelancing Conference](https://doubleyourfreelancing.com/conf/) (Jonathan)[CodeNewbie Podcast](https://www.codenewbie.org/podcast) (Chuck)[This Is Your Life Podcast](https://michaelhyatt.com/thisisyourlife) (Chuck)
 
 ### Transcript
 

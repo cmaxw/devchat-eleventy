@@ -43,7 +43,7 @@ tags:
 
 Picks
 
-[The Warriors](http://www.nba.com/warriors/) (Ward)[Tiny Desk Concerts](http://www.npr.org/series/tiny-desk-concerts/) (Lukas)[SNARKY PUPPY](http://snarkypuppy.com/) (Lukas)[Chris Welsh: Microsoft is adding the Linux command line to Windows 10](http://www.theverge.com/2016/3/30/11331014/microsoft-windows-linux-ubuntu-bash) (John)[RAML](http://raml.org/) (John) Listening (Joe)
+[The Warriors](https://www.nba.com/warriors/) (Ward)[Tiny Desk Concerts](https://www.npr.org/series/tiny-desk-concerts/) (Lukas)[SNARKY PUPPY](https://snarkypuppy.com/) (Lukas)[Chris Welsh: Microsoft is adding the Linux command line to Windows 10](https://www.theverge.com/2016/3/30/11331014/microsoft-windows-linux-ubuntu-bash) (John)[RAML](https://raml.org/) (John) Listening (Joe)
 
 ### Transcript
 

@@ -240,7 +240,7 @@ I had to put my application inside an iFrame.
 - [Martin Jakubik’s Medium](https://medium.com/bratislava-angular)
 - [How to Copy, Cut, Paste for Beginners by Melanie Pinola](https://lifehacker.com/5801525/help-new-pc-users-learn-how-to-copy-cut-and-paste)
 - [Art Joker Blog](https://artjoker.net/blog/when-will-angular-7-be-released-top-changes-coming-in-angular-7/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_269)
-- [@AngularMine](http://cl.nicoll.co/1e21419a0e56)
+- [@AngularMine](https://cl.nicoll.co/1e21419a0e56)
 - [Cypress](https://www.cypress.io)
 - [Vue](https://vuejs.org)
 - [Renderer](https://angular.io/api/core/Renderer)

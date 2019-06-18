@@ -14,41 +14,41 @@ tags:
 
 ### Panel
 
-- Joe Eames&nbsp;([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Jamison Dance&nbsp;([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Charles Max Wood&nbsp;([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
+- Joe Eames&nbsp;([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Jamison Dance&nbsp;([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Charles Max Wood&nbsp;([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
 
 ### Discussion
 
 - The JavaScript Community
-- [Node.js](http://nodejs.org/)
+- [Node.js](https://nodejs.org/)
 - The Browser
-- [Mozilla Sauerbraten Cube 2](http://en.wikipedia.org/wiki/Cube_2:_Sauerbraten)
-- [Rick Waldren Javascript Robotics](http://www.youtube.com/watch?v=GVGMjsKy3WQ)
-- [Arduino](http://www.arduino.cc/)
-- [Crockford Videos](http://yuiblog.com/crockford/)
-- [Jquery Blog - John Rezzig](http://ejohn.org/)
+- [Mozilla Sauerbraten Cube 2](https://en.wikipedia.org/wiki/Cube_2:_Sauerbraten)
+- [Rick Waldren Javascript Robotics](https://www.youtube.com/watch?v=GVGMjsKy3WQ)
+- [Arduino](https://www.arduino.cc/)
+- [Crockford Videos](https://yuiblog.com/crockford/)
+- [Jquery Blog - John Rezzig](https://ejohn.org/)
 - The Ruby Community
 - The transition from unsophisticated to sophisticated solutions.
 - [Mozilla Bananabread Demo](https://developer.mozilla.org/en-US/demos/detail/bananabread)
 - Test Unit
-- [Rspec](http://rspec.info/)
-- [Minitest](http://rspec.info/)
-- [Khan Academy](http://www.khanacademy.org/)
-- [Coffee Shop Doesn't Use Two-Phase Commits](http://www.eaipatterns.com/docs/IEEE_Software_Design_2PC.pdf)
-- [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life)
+- [Rspec](https://rspec.info/)
+- [Minitest](https://rspec.info/)
+- [Khan Academy](https://www.khanacademy.org/)
+- [Coffee Shop Doesn't Use Two-Phase Commits](https://www.eaipatterns.com/docs/IEEE_Software_Design_2PC.pdf)
+- [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 
 ### Picks
 
-- [PAX](http://prime.paxsite.com/) (Joe)
-- [Wil Wheaton](http://wilwheaton.net/) (Joe)
+- [PAX](https://prime.paxsite.com/) (Joe)
+- [Wil Wheaton](https://wilwheaton.net/) (Joe)
 - Protip - Pinch the bottom of bananas instead of trying to open from the top. (AJ)
 - Minuteman Pawn in Oram UT (AJ)
-- [Western Digital](http://www.wdc.com/en/) (AJ)
-- [Counterstrike Global Offensive](http://store.steampowered.com/app/730/) (Jamison)
-- [Time Machine](http://www.apple.com/support/timemachine/) (Chuck)
-- [Mozy](http://mozy.com/) (Chuck)
+- [Western Digital](https://www.wdc.com/en/) (AJ)
+- [Counterstrike Global Offensive](https://store.steampowered.com/app/730/) (Jamison)
+- [Time Machine](https://www.apple.com/support/timemachine/) (Chuck)
+- [Mozy](https://mozy.com/) (Chuck)
 
 ### Transcript
 

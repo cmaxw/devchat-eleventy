@@ -20,7 +20,7 @@ This week on My Ruby Story, Chuck talks with Michael King who is a developer, an
 
 **In particular, we dive pretty deep on:**
 
-0:00 – [Get A Coder Job!](http://getacoderjob.com/)
+0:00 – [Get A Coder Job!](https://getacoderjob.com/)
 
 0:58 – Chuck: Say “hi” Michael! Introduce yourself.
 
@@ -56,7 +56,7 @@ _The guest talks about the differences between coding, natural languages, and ma
 
 9:09 – Guest: [Ruby](https://www.ruby-lang.org/en/) was very smooth and I liked it. I got addicted to the process through the [Rails](https://github.com/rails/rails) way and the Ruby syntax.
 
-9:46 – Chuck: Same for me. I have done [PHP](http://www.php.net) before but when I got into [Rails](https://github.com/rails/rails) it naturally flowed into the way I wanted to work on stuff. I get it.
+9:46 – Chuck: Same for me. I have done [PHP](https://www.php.net) before but when I got into [Rails](https://github.com/rails/rails) it naturally flowed into the way I wanted to work on stuff. I get it.
 
 10:12 – Chuck: What are you working on now?
 
@@ -70,7 +70,7 @@ _The guest talks about the differences between coding, natural languages, and ma
 
 12:50 – _Guest talks about the Spanish and English languages._
 
-13:25 – Chuck: I am curious – why didn’t you go with [RubyMotion?](http://www.rubymotion.com)
+13:25 – Chuck: I am curious – why didn’t you go with [RubyMotion?](https://www.rubymotion.com)
 
 13:34 – Guest: I didn’t know anyone that could help me honestly. Also, I didn’t think it was going to be EASY to learn for me.
 
@@ -127,13 +127,13 @@ END – [CacheFly](https://www.cachefly.com)
 - [Rails](https://github.com/rails/rails)
 - [Rust](https://www.rust-lang.org/en-US/)
 - [Python](https://www.python.org)
-- [PHP](http://www.php.net)
+- [PHP](https://www.php.net)
 - [React Native](https://facebook.github.io/react-native/)
-- [Ruby Motion](http://www.rubymotion.com)
+- [Ruby Motion](https://www.rubymotion.com)
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 - Fresh Books
 

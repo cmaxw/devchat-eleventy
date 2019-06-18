@@ -34,7 +34,7 @@ In this episode of React Round Up, the panel discusses the article [_React, Redu
 - Where do you fall on the [Redux](https://redux.js.org/) debate?
 - Redux’s “disadvantages” are actually advantages
 - What is your current stack of choice?
-- [Downshift](http://downshift.netlify.com/?selectedKind=Examples&selectedStory=basic&full=0&addons=1&stories=1&panelRight=0)
+- [Downshift](https://downshift.netlify.com/?selectedKind=Examples&selectedStory=basic&full=0&addons=1&stories=1&panelRight=0)
 - [Conditioner.js](https://github.com/rikschennink/conditioner)
 - Most React tutorials assume you’re working on a single-page web app
 - Sprinkles of jQuery
@@ -56,7 +56,7 @@ In this episode of React Round Up, the panel discusses the article [_React, Redu
 - [jQuery](https://jquery.com/)
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
-- [Downshift](http://downshift.netlify.com/?selectedKind=Examples&selectedStory=basic&full=0&addons=1&stories=1&panelRight=0)
+- [Downshift](https://downshift.netlify.com/?selectedKind=Examples&selectedStory=basic&full=0&addons=1&stories=1&panelRight=0)
 - [Conditioner.js](https://github.com/rikschennink/conditioner)
 - [GraphQL](https://graphql.org/)
 - [Apollo Server](https://github.com/apollographql/apollo-server)

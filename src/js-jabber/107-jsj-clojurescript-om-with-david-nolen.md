@@ -14,52 +14,52 @@ tags:
 
 ### Panel
 
-- David Nolen ([twitter](https://twitter.com/swannodette) [github](https://github.com/swannodette) [blog](http://swannodette.github.io/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://blog.coolaj86.com/) [youtube](http://youtube.com/coolaj86))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
+- David Nolen ([twitter](https://twitter.com/swannodette) [github](https://github.com/swannodette) [blog](https://swannodette.github.io/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://blog.coolaj86.com/) [youtube](https://youtube.com/coolaj86))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:42 - David Nolen Introduction
 
-- [Cognitect](http://cognitect.com/)
+- [Cognitect](https://cognitect.com/)
   03:10 - [ClojureScript](https://github.com/clojure/clojurescript)
-- [Clojure](http://clojure.org/)
-  04:40 - Why ClojureScript? 05:25 - Immutability 09:40 - [React](http://facebook.github.io/react/) and [Om](https://github.com/swannodette/om)
-- [Pete Hunt - React: Rethinking Best Practices](http://2013.jsconf.asia/blog/2013/10/31/jsconfasia-2013-pete-hunt-react-rethinking-best-practices)
+- [Clojure](https://clojure.org/)
+  04:40 - Why ClojureScript? 05:25 - Immutability 09:40 - [React](https://facebook.github.io/react/) and [Om](https://github.com/swannodette/om)
+- [Pete Hunt - React: Rethinking Best Practices](https://2013.jsconf.asia/blog/2013/10/31/jsconfasia-2013-pete-hunt-react-rethinking-best-practices)
   11:47 - How ClojureScript and Om make React Faster
-- [Giant Robots Smashing Into Other Giant Robots: Episode #93 - Diversity of Approach (David Nolen)](http://podcasts.thoughtbot.com/giantrobots/93)
+- [Giant Robots Smashing Into Other Giant Robots: Episode #93 - Diversity of Approach (David Nolen)](https://podcasts.thoughtbot.com/giantrobots/93)
   14:08 - Data Structures
 - [mori](https://github.com/swannodette/mori)
   19:00 - Learning
-- [GoyaPixel](http://jackschaedler.github.io/goya/)
+- [GoyaPixel](https://jackschaedler.github.io/goya/)
   22:21 - Object Observation
-- [Rich Hickey: Keynote - The Value of Values](http://www.infoq.com/presentations/Value-Values)
+- [Rich Hickey: Keynote - The Value of Values](https://www.infoq.com/presentations/Value-Values)
   24:03 - Solving Problems with Om
 - Angular's M story = function MYourself() {}
 - [DataScript](https://github.com/tonsky/datascript)
-  27:12 - Mori and DataScript vs ClojureScript 28:31 - [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)30:13 - How Clojure vs [Lisps](http://en.wikipedia.org/wiki/Lisp)/Functional Languages
-- [Scheme](<http://en.wikipedia.org/wiki/Scheme_(programming_language)>)
-- [Racket](http://racket-lang.org/)
+  27:12 - Mori and DataScript vs ClojureScript 28:31 - [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)30:13 - How Clojure vs [Lisps](https://en.wikipedia.org/wiki/Lisp)/Functional Languages
+- [Scheme](<https://en.wikipedia.org/wiki/Scheme_(programming_language)>)
+- [Racket](https://racket-lang.org/)
   33:08 - Getting Started w/ ClojureScript
 - [Clojure Tools](https://developers.google.com/closure/compiler/)
-- [David Nolen: ClojureScript 101](http://swannodette.github.io/2013/11/07/clojurescript-101/)
-- [David Nolen: The Essence of ClojureScript](http://swannodette.github.io/2013/10/27/the-essence-of-clojurescript/)
-- [Fundamentals of New Computing Mailing List](http://vpri.org/mailman/listinfo/fonc/)
+- [David Nolen: ClojureScript 101](https://swannodette.github.io/2013/11/07/clojurescript-101/)
+- [David Nolen: The Essence of ClojureScript](https://swannodette.github.io/2013/10/27/the-essence-of-clojurescript/)
+- [Fundamentals of New Computing Mailing List](https://vpri.org/mailman/listinfo/fonc/)
   38:01 - Coming Soon: 48:05 - JavaScript & ClojureScript 44:45 - [cljx](https://github.com/lynaghk/cljx)
 
 ### Picks
 
-- [High Performance Browser Networking: What Every Web Developer Should Know About Networking and Web Performance by Ilya Grigorik](http://www.amazon.com/gp/product/1449344763/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449344763&linkCode=as2&tag=chamaxwoo-20) (Jamison)
-- [Ruby Rogues Episode #135: HTTP 2.0 with Ilya Grigorik](http://rubyrogues.com/135-rr-http-2-0-with-ilya-grigorik/)
-- [The Host by Stephenie Meyer](http://www.amazon.com/gp/product/0316218502/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316218502&linkCode=as2&tag=chamaxwoo-20) (AJ)
-- [Blue Dragon: Original Soundtrack](http://www.amazon.com/gp/product/B0014567LG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0014567LG&linkCode=as2&tag=chamaxwoo-20) (AJ)
-- [Behind Sapphire](http://www.behindsapphire.com/) (AJ)
+- [High Performance Browser Networking: What Every Web Developer Should Know About Networking and Web Performance by Ilya Grigorik](https://www.amazon.com/gp/product/1449344763/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449344763&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [Ruby Rogues Episode #135: HTTP 2.0 with Ilya Grigorik](https://rubyrogues.com/135-rr-http-2-0-with-ilya-grigorik/)
+- [The Host by Stephenie Meyer](https://www.amazon.com/gp/product/0316218502/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316218502&linkCode=as2&tag=chamaxwoo-20) (AJ)
+- [Blue Dragon: Original Soundtrack](https://www.amazon.com/gp/product/B0014567LG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0014567LG&linkCode=as2&tag=chamaxwoo-20) (AJ)
+- [Behind Sapphire](https://www.behindsapphire.com/) (AJ)
 - [Redbooth](https://redbooth.com/) (Chuck)
-- [Smart Money Smart Kids: Raising the Next Generation to Win with Money by Dave Ramsey and Rachel Cruze](http://www.amazon.com/gp/product/1937077632/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937077632&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal by M. Mitchell Waldrop](http://www.amazon.com/gp/product/0670899763/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0670899763&linkCode=as2&tag=chamaxwoo-20&linkId=HP3ZH6N5FB2RURAQ) (David)
+- [Smart Money Smart Kids: Raising the Next Generation to Win with Money by Dave Ramsey and Rachel Cruze](https://www.amazon.com/gp/product/1937077632/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937077632&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal by M. Mitchell Waldrop](https://www.amazon.com/gp/product/0670899763/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0670899763&linkCode=as2&tag=chamaxwoo-20&linkId=HP3ZH6N5FB2RURAQ) (David)
 
 ### Next Week
 

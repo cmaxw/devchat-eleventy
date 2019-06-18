@@ -152,7 +152,7 @@ Georgi: Yes.
 - [Angular](https://angular.io)
 - [JavaScript](https://www.google.com/search?client=safari&rls=en&q=javascript&ie=UTF-8&oe=UTF-8)
 - [Vue](https://vuejs.org)
-- [C++](http://www.cplusplus.com)
+- [C++](https://www.cplusplus.com)
 - [C#](https://www.tutorialspoint.com/csharp/)
 - [Georgi’s LinkedIn](https://www.linkedin.com/in/georgi-parlakov-09301962/?originalSubdomain=bg)
 - [Georgi’s Medium](https://medium.com/@gparlakov)
@@ -182,7 +182,7 @@ Georgi: Yes.
 - [The Diabetes Code by Dr. Jason Fung](https://www.amazon.com/Diabetes-Code-Prevent-Reverse-Naturally/dp/1771642653)
 - [Audible](https://www.audible.com/ep/freetrial?source_code=GO1GBSH09091690EF&device=d&ds_rl=1262685&ds_rl=1257028&cvosrc=ppc.google.audible&cvo_campaign=226473129&cvo_crid=302405741403&Matchtype=e&gclid=EAIaIQobChMI6LSn6tGd3gIVFNNkCh0-bwKGEAAYASAAEgLhbPD_BwE&gclsrc=aw.ds)
 - [Book: Ultramarathon Man by Dean Karnazes](https://www.amazon.com/Ultramarathon-Man-Confessions-All-Night-Runner/dp/1585424803/ref=sr_1_2?s=books&ie=UTF8&qid=1540334427&sr=1-2&keywords=ultramarathon+man)
-- [2 Keto Dudes](http://2ketodudes.com)
+- [2 Keto Dudes](https://2ketodudes.com)
 - Walk or Run a 5K everyday (3.1 miles)
 
 ### Transcript

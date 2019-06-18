@@ -76,7 +76,7 @@ At the time I wasn’t impressed with the language. I learned about Angular at t
 
 23:07 – Chuck: Any part of your experience that could help people?
 
-23:17 – Guest: Learn what’s happening under the hood of libraries such as jQuery. Explore and find resources to help you. Keep learning and keep at it. Tools are so god now – such as [Prettier](https://github.com/prettier/prettier) and [Lint](http://www.javascriptlint.com) – they will tell me “you don’t want to do this.” Use the tooling and learn the fundamentals. Also, use [Babel!](https://babeljs.io) Those are my tips of advice.
+23:17 – Guest: Learn what’s happening under the hood of libraries such as jQuery. Explore and find resources to help you. Keep learning and keep at it. Tools are so god now – such as [Prettier](https://github.com/prettier/prettier) and [Lint](https://www.javascriptlint.com) – they will tell me “you don’t want to do this.” Use the tooling and learn the fundamentals. Also, use [Babel!](https://babeljs.io) Those are my tips of advice.
 
 25:55 – Chuck: That’s solid. Yes, the fundamentals and the poly-fills will fill in the gaps. So now it’s: what do I want to stack on top of this? Once you know the fundamentals.
 
@@ -106,7 +106,7 @@ Don’t get overwhelmed. That’s my advice.
 - [Node](https://nodejs.org/en/)
 - [Find and Find Index](<https://github.com/wesbos/es6-articles/blob/master/26%2520-%2520Array.%2520find()%2520and%2520.findIndex().md>)
 - [NativeScript](https://www.nativescript.org)
-- [Lint](http://www.javascriptlint.com)
+- [Lint](https://www.javascriptlint.com)
 - [Babel](https://babeljs.io)
 - [Prettier](https://github.com/prettier/prettier)
 - [Christopher’s GitHub](https://github.com/cmckni3)

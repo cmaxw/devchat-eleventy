@@ -20,14 +20,14 @@ Congratulations, iPhreaks, on 100 Episodes!
 
 - [Twitter](https://twitter.com/subdigital)
 - [GitHub](https://github.com/subdigital)
-- [Blog](http://benscheirman.com/)
-- [NSSreencast](http://nsscreencast.com/)
+- [Blog](https://benscheirman.com/)
+- [NSSreencast](https://nsscreencast.com/)
 
 03:30 - What’s Up, Rod Schmidt?
 
 - [Twitter](https://twitter.com/rodschmidt)
 - [GitHub](https://github.com/infiniteNIL)
-- [InfiniteNIL](http://www.infinitenil.com/)
+- [InfiniteNIL](https://www.infinitenil.com/)
 
 05:18 - The Evolution of The iPhreaks Show and the Panel
 
@@ -39,39 +39,39 @@ Congratulations, iPhreaks, on 100 Episodes!
 
 11:34 - Show Topics: Growth
 
-- [Is Objective-C Dead?](http://devchat.tv/iphreaks/099-ips-is-objective-c-dead-)
+- [Is Objective-C Dead?](https://devchat.tv/iphreaks/099-ips-is-objective-c-dead-)
 - The Introduction of [Swift](https://developer.apple.com/swift/)
 
 15:10 - Favorite Episodes
 
-- [Episode #076: Finding Jobs](http://devchat.tv/iphreaks/076-iphreaks-show-finding-jobs)
-- [Episode #048: Sprite Kit with Jonathan Penn](http://devchat.tv/iphreaks/048-iphreaks-show-sprite-kit-with-jonathan-penn)
-- [Episode #040: MGPCommandBus with Saul Mora](http://devchat.tv/iphreaks/040-iphreaks-show-mgpcommandbus-with-saul-mora)
-- [Episode #006: Core Data with Saul Mora](http://devchat.tv/iphreaks/006-iphreaks-show-core-data-with-saul-mora)
-- [Episode #024: 64-bit with Mike Ash](http://devchat.tv/iphreaks/024-iphreaks-show-64-bit-with-mike-ash)
-- [Episode #008: Prototypes with Ben Lachman](http://devchat.tv/iphreaks/008-iphreaks-show-prototypes-with-ben-lachman)
+- [Episode #076: Finding Jobs](https://devchat.tv/iphreaks/076-iphreaks-show-finding-jobs)
+- [Episode #048: Sprite Kit with Jonathan Penn](https://devchat.tv/iphreaks/048-iphreaks-show-sprite-kit-with-jonathan-penn)
+- [Episode #040: MGPCommandBus with Saul Mora](https://devchat.tv/iphreaks/040-iphreaks-show-mgpcommandbus-with-saul-mora)
+- [Episode #006: Core Data with Saul Mora](https://devchat.tv/iphreaks/006-iphreaks-show-core-data-with-saul-mora)
+- [Episode #024: 64-bit with Mike Ash](https://devchat.tv/iphreaks/024-iphreaks-show-64-bit-with-mike-ash)
+- [Episode #008: Prototypes with Ben Lachman](https://devchat.tv/iphreaks/008-iphreaks-show-prototypes-with-ben-lachman)
 
-20:38 - Ben’s Guitar Podcast: [Vibrato.fm](http://vibrato.fm/)
+20:38 - Ben’s Guitar Podcast: [Vibrato.fm](https://vibrato.fm/)
 
 - [@vibratofm](https://twitter.com/vibratofm)
 - Cohost: [Daniel Pasco](https://twitter.com/dlpasco)
 - Recording Gear
-  - [Heil PR-40 Dynamic Studio Recording Microphone](http://www.amazon.com/gp/product/B00PQYBRNY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PQYBRNY&linkCode=as2&tag=chamaxwoo-20&linkId=TDQEO2A6EP5VL4WZ)
-  - [Mackie Onyx 820i 8-channel Premium FireWire Recording Mixer](http://www.amazon.com/gp/product/B002M3TQ30/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002M3TQ30&linkCode=as2&tag=chamaxwoo-20&linkId=IO3VWFFIUK3KNZRM)
-- [Consumer Electronics Show (CES)](http://www.cesweb.org/)
+  - [Heil PR-40 Dynamic Studio Recording Microphone](https://www.amazon.com/gp/product/B00PQYBRNY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PQYBRNY&linkCode=as2&tag=chamaxwoo-20&linkId=TDQEO2A6EP5VL4WZ)
+  - [Mackie Onyx 820i 8-channel Premium FireWire Recording Mixer](https://www.amazon.com/gp/product/B002M3TQ30/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002M3TQ30&linkCode=as2&tag=chamaxwoo-20&linkId=IO3VWFFIUK3KNZRM)
+- [Consumer Electronics Show (CES)](https://www.cesweb.org/)
 
 27:48 - The Show Process: Scheduling =\> Final Product
 
-- [Mandy](http://www.twitter.com/therubyrep) = [DevReps](http://www.devreps.com/)
-- [Chuck's Podcasting Setup](http://teachmetocode.com/screencasts/my-podcasting-setup/)
-  - [Roland R-05 Studio WAVE/MP3 Recorder](http://www.amazon.com/gp/product/B003IJ3WIW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003IJ3WIW&linkCode=as2&tag=chamaxwoo-20&linkId=QKLQBLA3P5H2WMH3)
-- [Zoom H5 Four-Track Portable Recorder](http://www.amazon.com/gp/product/B00KCXMBES/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KCXMBES&linkCode=as2&tag=chamaxwoo-20&linkId=ETFOS4TA2PAJQD5Z) (Ben)
+- [Mandy](https://www.twitter.com/therubyrep) = [DevReps](https://www.devreps.com/)
+- [Chuck's Podcasting Setup](https://teachmetocode.com/screencasts/my-podcasting-setup/)
+  - [Roland R-05 Studio WAVE/MP3 Recorder](https://www.amazon.com/gp/product/B003IJ3WIW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003IJ3WIW&linkCode=as2&tag=chamaxwoo-20&linkId=QKLQBLA3P5H2WMH3)
+- [Zoom H5 Four-Track Portable Recorder](https://www.amazon.com/gp/product/B00KCXMBES/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KCXMBES&linkCode=as2&tag=chamaxwoo-20&linkId=ETFOS4TA2PAJQD5Z) (Ben)
 
 30:40 - Getting Good Sound
 
 - [Derick Bailey](https://twitter.com/derickbailey)
-  - [Signals And Leaves Podcast](http://blog.signalleaf.com/)
-- [WhisperRoom Sound Isolation Booths](http://www.whisperroom.com/)
+  - [Signals And Leaves Podcast](https://blog.signalleaf.com/)
+- [WhisperRoom Sound Isolation Booths](https://www.whisperroom.com/)
 
 37:20 - Listenership: Finding Our Audience
 
@@ -79,7 +79,7 @@ Congratulations, iPhreaks, on 100 Episodes!
 - “Podcast Fatigue”
   Picks
 
-[<u>Shanghai</u>](http://en.wikipedia.org/wiki/Shanghai) (Ben)[<u>Scanbot</u>](https://scanbot.io/en/index.html) (Ben)[<u>Vibrato.fm</u>](http://vibrato.fm/) (Ben)[<u>Electro-Harmonix SOULFOOD Distortion/Fuzz/Overdrive Pedal</u>](http://www.amazon.com/gp/product/B00HEQ6J0I/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HEQ6J0I&linkCode=as2&tag=chamaxwoo-20&linkId=6CWG2URJI3KWNWLS) (Ben)[<u>Hire Rod!</u>](https://twitter.com/rodschmidt) (Rod)[<u>GoPiGo</u>](http://www.dexterindustries.com/site/?product_cat=gopigo) (Rod)[<u>The New James Bond Trailer: SPECTRE</u>](http://www.007.com/watch-the-spectre-teaser-trailer/) (Rod)[<u>RATIONAL FUNK with Dave King Video Series</u>](https://www.youtube.com/watch?v=tK-hfpvwivg) (Jaim)[<u>Shun VBS0200 Sora 2-Piece Knife Set</u>](http://www.amazon.com/gp/product/B00BQ83ACA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BQ83ACA&linkCode=as2&tag=chamaxwoo-20&linkId=GNEHIHYBTOXG3ETE) (Alondo)[<u>CompareFolders</u>](https://github.com/swisspol/CompareFolders) (Andrew)[<u>TenFourFox</u>](http://www.floodgap.com/software/tenfourfox/) (Andrew)[<u>The New Nintendo 3DS</u>](https://www.nintendo.com/3ds/new-nintendo-3ds) (Andrew)[<u>Steelheart (The Reckoners) by Brandon Sanderson</u>](http://www.amazon.com/gp/product/0385743564/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743564&linkCode=as2&tag=chamaxwoo-20&linkId=XFP26VFN7JHNIMSH) (Chuck)
+[<u>Shanghai</u>](https://en.wikipedia.org/wiki/Shanghai) (Ben)[<u>Scanbot</u>](https://scanbot.io/en/index.html) (Ben)[<u>Vibrato.fm</u>](https://vibrato.fm/) (Ben)[<u>Electro-Harmonix SOULFOOD Distortion/Fuzz/Overdrive Pedal</u>](https://www.amazon.com/gp/product/B00HEQ6J0I/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HEQ6J0I&linkCode=as2&tag=chamaxwoo-20&linkId=6CWG2URJI3KWNWLS) (Ben)[<u>Hire Rod!</u>](https://twitter.com/rodschmidt) (Rod)[<u>GoPiGo</u>](https://www.dexterindustries.com/site/?product_cat=gopigo) (Rod)[<u>The New James Bond Trailer: SPECTRE</u>](https://www.007.com/watch-the-spectre-teaser-trailer/) (Rod)[<u>RATIONAL FUNK with Dave King Video Series</u>](https://www.youtube.com/watch?v=tK-hfpvwivg) (Jaim)[<u>Shun VBS0200 Sora 2-Piece Knife Set</u>](https://www.amazon.com/gp/product/B00BQ83ACA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BQ83ACA&linkCode=as2&tag=chamaxwoo-20&linkId=GNEHIHYBTOXG3ETE) (Alondo)[<u>CompareFolders</u>](https://github.com/swisspol/CompareFolders) (Andrew)[<u>TenFourFox</u>](https://www.floodgap.com/software/tenfourfox/) (Andrew)[<u>The New Nintendo 3DS</u>](https://www.nintendo.com/3ds/new-nintendo-3ds) (Andrew)[<u>Steelheart (The Reckoners) by Brandon Sanderson</u>](https://www.amazon.com/gp/product/0385743564/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385743564&linkCode=as2&tag=chamaxwoo-20&linkId=XFP26VFN7JHNIMSH) (Chuck)
 
 ### Transcript
 

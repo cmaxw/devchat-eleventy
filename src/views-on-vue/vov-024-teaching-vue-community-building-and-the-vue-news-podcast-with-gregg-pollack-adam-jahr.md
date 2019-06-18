@@ -30,7 +30,7 @@ In this episode, the Views on Vue panel talks to Gregg Pollack and Adam Jahr abo
 - Founded Vue Mastery together
 - What made you decide to get into the [Vue](https://vuejs.org/) space and teaching people about Vue?
 - Came from [Code School](https://www.pluralsight.com/codeschool)
-- [Laracasts](https://laracasts.com/) and [RailsCasts](http://railscasts.com/)
+- [Laracasts](https://laracasts.com/) and [RailsCasts](https://railscasts.com/)
 - Passion for open source and teaching
 - Wanted to build Vue Mastery in a way that supports the community
 - Do you see parallels between the Code School community and the Vue community?
@@ -55,7 +55,7 @@ In this episode, the Views on Vue panel talks to Gregg Pollack and Adam Jahr abo
 - [Vue](https://vuejs.org/)
 - [Code School](https://www.pluralsight.com/codeschool)
 - [Laracasts](https://laracasts.com/)
-- [RailsCasts](http://railscasts.com/)
+- [RailsCasts](https://railscasts.com/)
 - [Official Vue News Podcast](https://news.vuejs.org/)
 - [Rails for Zombies](https://www.pluralsight.com/courses/code-school-rails-for-zombies)
 - [Pluralsight](https://www.pluralsight.com/)
@@ -64,7 +64,7 @@ In this episode, the Views on Vue panel talks to Gregg Pollack and Adam Jahr abo
 - [Gregg’s GitHub](https://github.com/Gregg)
 - [Gregg’s Pluralsight](https://www.pluralsight.com/authors/gregg-pollack)
 - [@AdamJahr](https://twitter.com/adamjahr?lang=en)
-- [adamjahr.com](http://adamjahr.com/)
+- [adamjahr.com](https://adamjahr.com/)
 - [Adam’s GitHub](https://github.com/atomjar)
 - [Adam’s Medium](https://medium.com/@adamjahr)
 - [@VueMastery](https://twitter.com/VueMastery)
@@ -80,7 +80,7 @@ In this episode, the Views on Vue panel talks to Gregg Pollack and Adam Jahr abo
 Chris
 
 - [Thorsten Lünborg](https://twitter.com/linus_borg?lang=en), [Sarah Drasner](https://twitter.com/sarah_edo?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor), [Pratik Patel](https://twitter.com/prpatel?lang=en), Gusto, [Tray Lee](https://twitter.com/ladyleet?lang=en), [Deanna Leavitt](https://twitter.com/deannaleavitt), and [Joe Eames](https://twitter.com/josepheames?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [Sebastian Deterding](http://codingconduct.cc/)
+- [Sebastian Deterding](https://codingconduct.cc/)
 - [_Nonviolent Communication_ by Marshall B. Rosenberg](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034)
 - [_Difficult Conversations_ by Douglas Stone](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447)
 
@@ -96,8 +96,8 @@ Erik
 Gregg
 
 - [_13 Reasons Why_](https://www.imdb.com/title/tt1837492/)
-- [Alone: A Love Story](http://www.cbc.ca/mediacentre/program/alone-a-love-story)
-- The Landmark Forum[http://www.landmarkworldwide.com/the-landmark-forum](http://www.landmarkworldwide.com/the-landmark-forum)
+- [Alone: A Love Story](https://www.cbc.ca/mediacentre/program/alone-a-love-story)
+- The Landmark Forum[https://www.landmarkworldwide.com/the-landmark-forum](https://www.landmarkworldwide.com/the-landmark-forum)
 
 Adam
 

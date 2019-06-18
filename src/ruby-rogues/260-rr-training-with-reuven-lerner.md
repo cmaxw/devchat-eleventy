@@ -18,11 +18,11 @@ tags:
 
 - [Twitter](https://twitter.com/reuvenmlerner)
 - [GitHub](https://github.com/reuven)
-- [Blog](http://lerner.co.il/)
+- [Blog](https://lerner.co.il/)
 - [The Freelancers’ Show Podcast](https://devchat.tv/freelancers)
-- [Practice Makes Python by Reuven Lerner](http://practicemakespython.com/)
-- [Practice Makes Regexp by Reuven Lerner](http://practicemakesregexp.com/)
-- [Daily Tech Video](http://dailytechvideo.com/)
+- [Practice Makes Python by Reuven Lerner](https://practicemakespython.com/)
+- [Practice Makes Regexp by Reuven Lerner](https://practicemakesregexp.com/)
+- [Daily Tech Video](https://dailytechvideo.com/)
   03:49 - Training
 - [Pedagogy](https://en.wikipedia.org/wiki/Pedagogy)
   07:54 - Approaching Teaching
@@ -31,15 +31,15 @@ tags:
 - [Metacognition](https://en.wikipedia.org/wiki/Metacognition)
   10:57 - Example: Reuven’s Training Sessions19:59 - Moving Up The Ladder24:06 - Company Goals25:56 - Hostile Learners28:00 - Breaking Into the Big Company Market
 - [LinkedIn](https://www.linkedin.com/)
-- [Devchat.tv Interest Survey](http://goo.gl/forms/RAjGRT8Ia6)
+- [Devchat.tv Interest Survey](https://goo.gl/forms/RAjGRT8Ia6)
   35:03 - Offerings37:53 - Cultural Differences&nbsp;Picks
-- [Society Of Mind By Marvin Minsky](http://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135) (Reuven)
-- [Peter Hessler's Books](http://www.amazon.com/Peter-Hessler/e/B001ILMA1C) (Reuven)
-- [Regexp Crash Course](http://regexpcrashcourse.com) (Reuven)
+- [Society Of Mind By Marvin Minsky](https://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135) (Reuven)
+- [Peter Hessler's Books](https://www.amazon.com/Peter-Hessler/e/B001ILMA1C) (Reuven)
+- [Regexp Crash Course](https://regexpcrashcourse.com) (Reuven)
 - [rspec-given](https://github.com/rspec-given/rspec-given) (Sam)
-- [Katrina Owen on Confreaks](http://confreaks.tv/presenters/katrina-owen) (Sam)
+- [Katrina Owen on Confreaks](https://confreaks.tv/presenters/katrina-owen) (Sam)
 - [github-shoutouts](https://github.com/finnp/github-shoutouts) (Coraline)
-- [Ruby Together](http://rubytogether.org) (Coraline)
+- [Ruby Together](https://rubytogether.org) (Coraline)
 - [Ruby Rogues Episode #224: Ruby Together with André Arko](https://devchat.tv/ruby-rogues/224-rr-ruby-together-with-andr-arko) (Chuck)
 - [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016) (Chuck)
 - [FitBit One](https://www.fitbit.com/one) (Chuck)

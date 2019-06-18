@@ -16,16 +16,16 @@ tags:
 
 **Guest:** Zachary Kessin
 
-This week on My JavaScript Story, Charles speaks with Zachary Kessin. Zach is a web developer who has written [_Programming HTML5 Applications_](https://www.amazon.com/Programming-HTML5-Applications-Cross-Platform-Environments/dp/1449399088) and [_Building Web Applications with Erlang_](https://www.amazon.com/Building-Web-Applications-Erlang-Working/dp/1449309968). Currently, he works a lot with functional programming. He first got into programming because his mother used to write in [Lisp](http://lisp-lang.org/) and he earned his first computer by begging his relatives to help pitch in to get him one when he was seven. They talk about what led him to [Erlang](https://www.erlang.org/) and [Elm](http://elm-lang.org/), why he wanted to be a programmer from a young age, and what he is most proud of in his career.
+This week on My JavaScript Story, Charles speaks with Zachary Kessin. Zach is a web developer who has written [_Programming HTML5 Applications_](https://www.amazon.com/Programming-HTML5-Applications-Cross-Platform-Environments/dp/1449399088) and [_Building Web Applications with Erlang_](https://www.amazon.com/Building-Web-Applications-Erlang-Working/dp/1449309968). Currently, he works a lot with functional programming. He first got into programming because his mother used to write in [Lisp](https://lisp-lang.org/) and he earned his first computer by begging his relatives to help pitch in to get him one when he was seven. They talk about what led him to [Erlang](https://www.erlang.org/) and [Elm](https://elm-lang.org/), why he wanted to be a programmer from a young age, and what he is most proud of in his career.
 
 **In particular, we dive pretty deep on:**
 
 - [JavaScript Jabber Episode 57](https://www.spreaker.com/user/8423552/057-jsj-functional-programming-with-zach)
 - [JavaScript Jabber Episode 169](https://devchat.tv/js-jabber/169-jsj-property-based-testing-quickcheck-with-zach-kessin)
 - Zach intro
-- [Elm](http://elm-lang.org/) and [Erlang](https://www.erlang.org/)
+- [Elm](https://elm-lang.org/) and [Erlang](https://www.erlang.org/)
 - How did you first get into programming?
-- Mother was writing [Lisp](http://lisp-lang.org/) when he was a kid
+- Mother was writing [Lisp](https://lisp-lang.org/) when he was a kid
 - RadioShack color computer
 - Mother taught him Basic
 - Pascal and AP Computer Science
@@ -50,9 +50,9 @@ This week on My JavaScript Story, Charles speaks with Zachary Kessin. Zach is a 
 - [JavaScript Jabber Episode 169](https://devchat.tv/js-jabber/169-jsj-property-based-testing-quickcheck-with-zach-kessin)
 - [_Programming HTML5 Applications_](https://www.amazon.com/Programming-HTML5-Applications-Cross-Platform-Environments/dp/1449399088)
 - [_Building Web Applications with Erlang_](https://www.amazon.com/Building-Web-Applications-Erlang-Working/dp/1449309968)
-- [Elm](http://elm-lang.org/)
+- [Elm](https://elm-lang.org/)
 - [Erlang](https://www.erlang.org/)
-- [Lisp](http://lisp-lang.org/)
+- [Lisp](https://lisp-lang.org/)
 - [Zach’s GitHub](https://github.com/zkessin)
 - [@zkessin](https://twitter.com/zkessin?lang=en)
 - [Zach’s YouTube](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q/featured)

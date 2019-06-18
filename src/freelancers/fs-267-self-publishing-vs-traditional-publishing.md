@@ -30,14 +30,14 @@ tags:
 - You don’t have to conform with traditional aspects with self-publishing
 - and much more.
   **Links:**
-- [kaidavis.com](http://kaidavis.com)
+- [kaidavis.com](https://kaidavis.com)
   **Picks:** Jonathan
 - [SendOwl](https://www.sendowl.com)
 - Tim Grawl
 - [How To Build Your First Productized Service&nbsp;](https://expensiveproblem.com/how-to-build-your-first-productized-service)
   Kai
-- [Stock and Flow](http://snarkmarket.com/2010/4890)
-- [remark.io](http://ringmark.io)
+- [Stock and Flow](https://snarkmarket.com/2010/4890)
+- [remark.io](https://ringmark.io)
   Reuven
 - [Amazon ECHO&nbsp;](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E)
 - [My Heritage](https://www.myheritage.com)

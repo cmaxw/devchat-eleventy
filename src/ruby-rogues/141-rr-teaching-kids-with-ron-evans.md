@@ -12,50 +12,50 @@ tags:
   - podcast
 ---
 
-## [Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well!](http://teespring.com/rubyroguestee)
+## [Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well!](https://teespring.com/rubyroguestee)
 
 ### Panel
 
-- Ron Evans ([twitter](https://twitter.com/deadprogram) [github](https://github.com/deadprogram) [blog](http://deadprogrammersociety.blogspot.com/))
-- David Brady ([twitter](http://twitter.com/dbrady) [github](http://github.com/dbrady) [blog](http://www.heartmindcode.com/) [ADDcasts](http://addcasts.com/))
-- James Edward Gray ([twitter](http://twitter.com/JEG2) [github](http://github.com/JEG2) [blog](http://blog.grayproductions.net/))
-- Josh Susser ([twitter](http://twitter.com/joshsusser) [github](http://github.com/joshsusser) [blog](http://hasmanythrough.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://www.railsrampup.com/))
+- Ron Evans ([twitter](https://twitter.com/deadprogram) [github](https://github.com/deadprogram) [blog](https://deadprogrammersociety.blogspot.com/))
+- David Brady ([twitter](https://twitter.com/dbrady) [github](https://github.com/dbrady) [blog](https://www.heartmindcode.com/) [ADDcasts](https://addcasts.com/))
+- James Edward Gray ([twitter](https://twitter.com/JEG2) [github](https://github.com/JEG2) [blog](https://blog.grayproductions.net/))
+- Josh Susser ([twitter](https://twitter.com/joshsusser) [github](https://github.com/joshsusser) [blog](https://hasmanythrough.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://www.railsrampup.com/))
 
 ### Discussion
 
 02:24 - Ron Evans Introduction
 
-- [The Hybrid Group](http://hybridgroup.com/)
+- [The Hybrid Group](https://hybridgroup.com/)
 
-03:21 - [Programmers Podcast Carnival](http://podcastcarnival.com/)
+03:21 - [Programmers Podcast Carnival](https://podcastcarnival.com/)
 
-- [Mostly Erlang](http://mostlyerlang.com/)
-- [Giant Robots Smashing Into Other Giant Robots](http://robots.thoughtbot.com/)
-- [The Changelog](http://thechangelog.com/)
-- [Herding Code](http://herdingcode.com/)
-- [NodeUp](http://nodeup.com/)
+- [Mostly Erlang](https://mostlyerlang.com/)
+- [Giant Robots Smashing Into Other Giant Robots](https://robots.thoughtbot.com/)
+- [The Changelog](https://thechangelog.com/)
+- [Herding Code](https://herdingcode.com/)
+- [NodeUp](https://nodeup.com/)
 
 04:48 - Teaching Kids to Program
 
-- [KidsRuby](http://www.kidsruby.com/)
-- [Hackity Hack!](http://hackety.com/)
+- [KidsRuby](https://www.kidsruby.com/)
+- [Hackity Hack!](https://hackety.com/)
 
 14:51 - Introducing Kids to Programming
 
-- [Robot Turtles](http://www.robotturtles.com/)
-- [GoldieBlox](http://www.goldieblox.com/)
-- [Hello Ruby](http://www.kickstarter.com/projects/lindaliukas/hello-ruby)
+- [Robot Turtles](https://www.robotturtles.com/)
+- [GoldieBlox](https://www.goldieblox.com/)
+- [Hello Ruby](https://www.kickstarter.com/projects/lindaliukas/hello-ruby)
 
 19:31 - The Value of Programming
 
 28:30 - Organizing Programs to Teach Kids and Getting Involved
 
-- [KidsCodeCamp](http://kidscodecamp.com/)
-- [CoderDojo](http://coderdojo.com/)
-- [Code.org](http://code.org/)
-- [The Pasadena Foundation](http://www.pasadenacf.org/)
-- [Stop Stealing Dreams: (What is School Good For?) by Seth Godin](http://www.sethgodin.com/sg/docs/stopstealingdreamsscreen.pdf)
+- [KidsCodeCamp](https://kidscodecamp.com/)
+- [CoderDojo](https://coderdojo.com/)
+- [Code.org](https://code.org/)
+- [The Pasadena Foundation](https://www.pasadenacf.org/)
+- [Stop Stealing Dreams: (What is School Good For?) by Seth Godin](https://www.sethgodin.com/sg/docs/stopstealingdreamsscreen.pdf)
 
 42:27 - STEM vs STEAM
 
@@ -65,45 +65,45 @@ tags:
 
 52:56 - Age, Curriculum, and Competition
 
-- [FIRST LEGO League](http://www.usfirst.org/roboticsprograms/fll)
-- [LEGO Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com)
-- [Scratch](http://scratch.mit.edu/)
+- [FIRST LEGO League](https://www.usfirst.org/roboticsprograms/fll)
+- [LEGO Mindstorms](https://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com)
+- [Scratch](https://scratch.mit.edu/)
 - Sign Language
-- [Logo](<http://en.wikipedia.org/wiki/Logo_(programming_language)>)
-- [I introduced my 5-year-old and 2-year-old to startx and xmonad. They’re DELIGHTED!](http://changelog.complete.org/archives/7562-i-introduced-my-5-year-old-and-2-year-old-to-startx-and-xmonad-theyre-delighted)
+- [Logo](<https://en.wikipedia.org/wiki/Logo_(programming_language)>)
+- [I introduced my 5-year-old and 2-year-old to startx and xmonad. They’re DELIGHTED!](https://changelog.complete.org/archives/7562-i-introduced-my-5-year-old-and-2-year-old-to-startx-and-xmonad-theyre-delighted)
 
 01:10:25 - Females and Programming
 
-- [Paul Graham: Female Founders](http://paulgraham.com/ff.html)
+- [Paul Graham: Female Founders](https://paulgraham.com/ff.html)
 
 01:17:45 - Resources
 
-- [Paul Lockhart: A Mathematician’s Lament](http://worrydream.com/refs/Lockhart-MathematiciansLament.pdf)
-- [CoderDojo](http://coderdojo.com/)
-- [Code.org](http://code.org/)
-- [3D Game Programming for Kids: Create Interactive Worlds with JavaScript by Chris Strom](http://pragprog.com/book/csjava/3d-game-programming-for-kids)
-- [Learn to Program with Minecraft Plugins: Create Flying Creepers and Flaming Cows in Java by Andy Hunt](http://pragprog.com/book/ahmine/learn-to-program-with-minecraft-plugins)
+- [Paul Lockhart: A Mathematician’s Lament](https://worrydream.com/refs/Lockhart-MathematiciansLament.pdf)
+- [CoderDojo](https://coderdojo.com/)
+- [Code.org](https://code.org/)
+- [3D Game Programming for Kids: Create Interactive Worlds with JavaScript by Chris Strom](https://pragprog.com/book/csjava/3d-game-programming-for-kids)
+- [Learn to Program with Minecraft Plugins: Create Flying Creepers and Flaming Cows in Java by Andy Hunt](https://pragprog.com/book/ahmine/learn-to-program-with-minecraft-plugins)
 - [Minecraft](https://minecraft.net/)
 
 01:26:37 - Robotics
 
-- [Ron Evans: Ruby On Robots Using Artoo](http://confreaks.com/videos/2680-gogaruco2013-ruby-on-robots-using-artoo)
+- [Ron Evans: Ruby On Robots Using Artoo](https://confreaks.com/videos/2680-gogaruco2013-ruby-on-robots-using-artoo)
 
 ### Picks
 
-- [Ruby Conferences](http://rubyconferences.org/) (Josh)
-- [Infantapaulting](http://www.youtube.com/watch?v=94_omZ2RnfI) (Josh)
-- [Play: How it Shapes the Brain, Opens the Imagination, and Invigorates the Soul by Stewart Brown and Christopher Vaughan](http://www.amazon.com/gp/product/1583333789/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1583333789&linkCode=as2&tag=chamaxwoo-20) (David)
-- [Matt Lesko](http://www.lesko.com/) (David)
-- [The Job Replacement Guide by David Brady](http://www.jobreplacementguide.com/) (David)
-- [Chad Fowler: Killing the Crunch Mode Antipattern](http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/) (James)
-- [Once Upon a Time](http://www.imdb.com/title/tt1843230/) (James)
-- [OpenBCI](http://www.openbci.com/) (Ron)
-- [Light Table](http://www.lighttable.com/) (Ron)
+- [Ruby Conferences](https://rubyconferences.org/) (Josh)
+- [Infantapaulting](https://www.youtube.com/watch?v=94_omZ2RnfI) (Josh)
+- [Play: How it Shapes the Brain, Opens the Imagination, and Invigorates the Soul by Stewart Brown and Christopher Vaughan](https://www.amazon.com/gp/product/1583333789/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1583333789&linkCode=as2&tag=chamaxwoo-20) (David)
+- [Matt Lesko](https://www.lesko.com/) (David)
+- [The Job Replacement Guide by David Brady](https://www.jobreplacementguide.com/) (David)
+- [Chad Fowler: Killing the Crunch Mode Antipattern](https://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/) (James)
+- [Once Upon a Time](https://www.imdb.com/title/tt1843230/) (James)
+- [OpenBCI](https://www.openbci.com/) (Ron)
+- [Light Table](https://www.lighttable.com/) (Ron)
 
 ### Book Club
 
-[Ruby Under a Microscope by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](http://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](http://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
+[Ruby Under a Microscope by Pat Shaughnessy](https://patshaughnessy.net/ruby-under-a-microscope)! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014.&nbsp;[No Starch](https://www.nostarch.com/)&nbsp;was kind enough to provide this coupon code your listeners can use to get a discount for&nbsp;[Ruby Under a Microscope](https://nostarch.com/rum). Use the coupon code&nbsp; **ROGUE** &nbsp;for 40% off!&nbsp;_(Coupon expires April 1, 2014.)_
 
 ### Next Week
 

@@ -16,15 +16,15 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/neal4d)
 - [<u>GitHub</u>](https://github.com/nealford)
-- [<u>Blog</u>](http://nealford.com/)
-- [<u>ThoughtWorks</u>](http://www.thoughtworks.com/)
-- [<u>iPhreaks Show Episode #084: Building Your Technology Radar with Neal Ford</u>](http://devchat.tv/iphreaks/084-iphreaks-show-building-your-technology-radar-with-neal-ford)
-- [<u>Freelancers' Show Episode 145: Life as a Traveling Consultant with Neal Ford</u>](http://devchat.tv/freelancers/145-fs-life-as-a-traveling-consultant-with-neal-ford)
+- [<u>Blog</u>](https://nealford.com/)
+- [<u>ThoughtWorks</u>](https://www.thoughtworks.com/)
+- [<u>iPhreaks Show Episode #084: Building Your Technology Radar with Neal Ford</u>](https://devchat.tv/iphreaks/084-iphreaks-show-building-your-technology-radar-with-neal-ford)
+- [<u>Freelancers' Show Episode 145: Life as a Traveling Consultant with Neal Ford</u>](https://devchat.tv/freelancers/145-fs-life-as-a-traveling-consultant-with-neal-ford)
 - [<u>RailsConf 2010: Neal Ford "Creativity &amp; Constraint"</u>](https://www.youtube.com/watch?v=c8ZQwz76wuM)&nbsp;&nbsp;&nbsp;
 
-02:20 -&nbsp;[<u>The Thoughtworks Technology Radar</u>](http://www.thoughtworks.com/radar)
+02:20 -&nbsp;[<u>The Thoughtworks Technology Radar</u>](https://www.thoughtworks.com/radar)
 
-- [<u>Rebecca Parsons</u>](http://www.thoughtworks.com/profiles/rebecca-parsons)
+- [<u>Rebecca Parsons</u>](https://www.thoughtworks.com/profiles/rebecca-parsons)
 
 06:28 - Quadrants
 
@@ -42,17 +42,17 @@ tags:
 
 09:23 - Adopting New Technologies
 
-- [<u>William Gibson</u>](http://en.wikipedia.org/wiki/William_Gibson):&nbsp;_“The future is already here, it’s just not evenly distributed.”_
+- [<u>William Gibson</u>](https://en.wikipedia.org/wiki/William_Gibson):&nbsp;_“The future is already here, it’s just not evenly distributed.”_
 - Cycle Time
-- [<u>Neal Ford: Build Your Own Technology Radar</u>](http://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html)
-- [<u>[YouTube] Neal Ford: Build Your Own Technology Radar</u>](http://www.youtube.com/watch?v=3cqf1neieE4)
+- [<u>Neal Ford: Build Your Own Technology Radar</u>](https://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html)
+- [<u>[YouTube] Neal Ford: Build Your Own Technology Radar</u>](https://www.youtube.com/watch?v=3cqf1neieE4)
 
 14:42 - Providing Familiarity Resources
 
 15:24 - Radars as Resources and Lifecycle Assessment Tools
 
-- [<u>Intentional Software</u>](http://www.intentsoft.com/)
-- [<u>Radar A-Z</u>](http://www.thoughtworks.com/radar/a-z)
+- [<u>Intentional Software</u>](https://www.intentsoft.com/)
+- [<u>Radar A-Z</u>](https://www.thoughtworks.com/radar/a-z)
 
 18:36 - Themes
 
@@ -77,8 +77,8 @@ tags:
 
 43:57 - Functional Programming
 
-- [<u>Functional Thinking: Paradigm Over Syntax by Neal Ford</u>](http://www.amazon.com/Functional-Thinking-Paradigm-Over-Syntax/dp/1449365515/ref=sr_1_1?ie=UTF8&qid=1423839530&sr=8-1&keywords=functional+thinking)
-- [<u>Clojure</u>](http://clojure.org/)
+- [<u>Functional Thinking: Paradigm Over Syntax by Neal Ford</u>](https://www.amazon.com/Functional-Thinking-Paradigm-Over-Syntax/dp/1449365515/ref=sr_1_1?ie=UTF8&qid=1423839530&sr=8-1&keywords=functional+thinking)
+- [<u>Clojure</u>](https://clojure.org/)
 
 44:16 - Estimation
 
@@ -86,10 +86,10 @@ tags:
 
 - [<u>Brett Dargan: bdargan/techradar</u>](https://github.com/bdargan/techradar)
 - Blip Placement
-- [<u>Neal Ford: Build Your Own Technology Radar</u>](http://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html)
+- [<u>Neal Ford: Build Your Own Technology Radar</u>](https://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html)
   Picks
 
-[<u>All Watched Over by Machines of Loving Grace</u>](http://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_%28TV_series%29) (Avdi)[<u>The Project Euler Sprint</u>](http://www.eulersprint.org) (Coraline)[<u>Gloom</u>](http://www.atlas-games.com/gloom/) (Coraline)[<u>The Bad Plus: Inevitable Western</u>](http://www.amazon.com/Inevitable-Western-The-Bad-Plus/dp/B00KQZQLRU) (Jessica)[<u>tmate</u>](http://tmate.io/) (Jessica)[<u>Screenhero</u>](https://screenhero.com/) (Chuck)[<u>Slack</u>](https://slack.com/) (Chuck)[<u>DevOps Bookmarks</u>](http://devopsbookmarks.com) (Neal)[<u>Elvis has left the ivory tower by Neal Ford</u>](http://radar.oreilly.com/2015/02/elvis-has-left-the-ivory-tower.html) (Neal)[<u>Culture Series</u>](http://en.wikipedia.org/wiki/Culture_series) (Neal)
+[<u>All Watched Over by Machines of Loving Grace</u>](https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_%28TV_series%29) (Avdi)[<u>The Project Euler Sprint</u>](https://www.eulersprint.org) (Coraline)[<u>Gloom</u>](https://www.atlas-games.com/gloom/) (Coraline)[<u>The Bad Plus: Inevitable Western</u>](https://www.amazon.com/Inevitable-Western-The-Bad-Plus/dp/B00KQZQLRU) (Jessica)[<u>tmate</u>](https://tmate.io/) (Jessica)[<u>Screenhero</u>](https://screenhero.com/) (Chuck)[<u>Slack</u>](https://slack.com/) (Chuck)[<u>DevOps Bookmarks</u>](https://devopsbookmarks.com) (Neal)[<u>Elvis has left the ivory tower by Neal Ford</u>](https://radar.oreilly.com/2015/02/elvis-has-left-the-ivory-tower.html) (Neal)[<u>Culture Series</u>](https://en.wikipedia.org/wiki/Culture_series) (Neal)
 
 ### Transcript
 

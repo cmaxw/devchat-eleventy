@@ -30,12 +30,12 @@ There were apps for NeXT that wouldn't look so unfamiliar to a modern MAC OS 10 
 
 ## Picks:
 
-Guilherme: [XGist](https://github.com/Bunn/Xgist)Andrew: [Previous NeXT emulator](http://previous.alternative-system.com),&nbsp;trivia: first web browser invented by Tim Berners-Lee Erica: iPad 1 trivia, Buzz NUG Buzzings, and Prize Winner of Defiance Ohio
+Guilherme: [XGist](https://github.com/Bunn/Xgist)Andrew: [Previous NeXT emulator](https://previous.alternative-system.com),&nbsp;trivia: first web browser invented by Tim Berners-Lee Erica: iPad 1 trivia, Buzz NUG Buzzings, and Prize Winner of Defiance Ohio
 
 ## Episode Links:
 
-[Old NeXTSTEP developer documentation](http://www.nextcomputers.org/NeXTfiles/Docs/NeXTStep/3.3/nd/Summaries/)[Modding Mac OS X by Erica Sadun](https://www.abebooks.com/Modding-Mac-OS-X-Erica-Sadun/18152865263/bd)
+[Old NeXTSTEP developer documentation](https://www.nextcomputers.org/NeXTfiles/Docs/NeXTStep/3.3/nd/Summaries/)[Modding Mac OS X by Erica Sadun](https://www.abebooks.com/Modding-Mac-OS-X-Erica-Sadun/18152865263/bd)
 
-[WordWideWeb (NeXT)](http://browsers.evolt.org/browsers/archive/worldwideweb/NeXT/)
+[WordWideWeb (NeXT)](https://browsers.evolt.org/browsers/archive/worldwideweb/NeXT/)
 
 ### Transcript

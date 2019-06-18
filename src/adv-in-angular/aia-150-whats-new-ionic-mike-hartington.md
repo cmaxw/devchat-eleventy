@@ -22,17 +22,17 @@ In this episode of Adventures in Angular the panel is Ward Bell, Alyssa Nicoll, 
 
 - [Sketch](https://www.sketchapp.com/)
   **Joe** :
-- [Dunkirk](http://www.dunkirkmovie.com/)
-- [_Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are&nbsp;_](http://www.amazon.com/dp/0062390856/?tag=chamaxwoo-20)
+- [Dunkirk](https://www.dunkirkmovie.com/)
+- [_Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are&nbsp;_](https://www.amazon.com/dp/0062390856/?tag=chamaxwoo-20)
   **Ward:**
 - E-biking through Switzerland
 - [Rösti](https://en.wikipedia.org/wiki/R%C3%B6sti)
-- [The Founder&nbsp;](http://thefounderfilm.com/)
+- [The Founder&nbsp;](https://thefounderfilm.com/)
   **Charles** :
-- [The Millionaire Mind by T. Harv Eke](http://www.millionairemindbook.com/)
+- [The Millionaire Mind by T. Harv Eke](https://www.millionairemindbook.com/)
   **Mike** :
-- [Diy Nils&nbsp;](http://diynils.com/)
-- [Spider-Man Homecoming](http://www.spidermanhomecoming.com/)
+- [Diy Nils&nbsp;](https://diynils.com/)
+- [Spider-Man Homecoming](https://www.spidermanhomecoming.com/)
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ### Transcript

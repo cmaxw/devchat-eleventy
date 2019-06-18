@@ -20,9 +20,9 @@ tags:
 
 09:46 - Will Apple gain or lose market share in 2016?
 
-13:01 - The [Apple Watch](http://www.apple.com/watch/)
+13:01 - The [Apple Watch](https://www.apple.com/watch/)
 
-16:33 - The [iPhone](http://www.apple.com/iphone/)
+16:33 - The [iPhone](https://www.apple.com/iphone/)
 
 - Headphone Jack and Bluetooth
 - Camera Quality
@@ -37,16 +37,16 @@ tags:
 
 30:50 - Force/3D Touch
 
-32:39 - [Apple Watch](http://www.apple.com/watch/) (Cont’d)
+32:39 - [Apple Watch](https://www.apple.com/watch/) (Cont’d)
 
 34:54 - Purchasing Options/Financing
 
 36:04 - The App Store
 
 - [TestFlight](https://developer.apple.com/testflight/)
-  41:24 - [Apple TV](http://www.apple.com/tv/)Picks
+  41:24 - [Apple TV](https://www.apple.com/tv/)Picks
 
-[Tortuga Travel Backpack](http://www.tortugabackpacks.com/products/tortuga-travel-backpack) (Alondo)[Twelve South PlugBug World Charger and Power Adapter](http://www.apple.com/shop/product/HA808ZM/B/twelve-south-plugbug-world-charger-and-power-adapter?fnode=8b) (Alondo)[Creating App Previews with iMovie](https://developer.apple.com/app-store/app-previews/imovie/Creating-App-Previews-with-iMovie.pdf) (Andrew)[Know It All!](http://www.playknowitall.com) (Andrew)[RushMyPassport](https://www.rushmypassport.com/) (Chuck)[Trello](https://trello.com/) (Chuck)
+[Tortuga Travel Backpack](https://www.tortugabackpacks.com/products/tortuga-travel-backpack) (Alondo)[Twelve South PlugBug World Charger and Power Adapter](https://www.apple.com/shop/product/HA808ZM/B/twelve-south-plugbug-world-charger-and-power-adapter?fnode=8b) (Alondo)[Creating App Previews with iMovie](https://developer.apple.com/app-store/app-previews/imovie/Creating-App-Previews-with-iMovie.pdf) (Andrew)[Know It All!](https://www.playknowitall.com) (Andrew)[RushMyPassport](https://www.rushmypassport.com/) (Chuck)[Trello](https://trello.com/) (Chuck)
 
 ### Transcript
 

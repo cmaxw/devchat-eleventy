@@ -18,19 +18,19 @@ tags:
 
 - [Twitter](https://twitter.com/royboy789)
 - [GitHub](https://github.com/royboy789)
-- [Blog](http://www.roysivan.com/)
+- [Blog](https://www.roysivan.com/)
 - [The WP Crowd Podcast](https://www.thewpcrowd.com/)
   02:23 - Ryan Sullivan Introduction
 - [Twitter](https://twitter.com/ryandonsullivan)
-- [WP Site Care](http://www.wpsitecare.com/)
+- [WP Site Care](https://www.wpsitecare.com/)
 - [LoopConf](https://loopconf.com/)
   02:40 - [WordPress](https://wordpress.com/) and Angular05:00 - Authentication and Security
-- [OAuth](http://oauth.net/)
+- [OAuth](https://oauth.net/)
 - [A Brief Introduction to WordPress Nonces](https://www.tipsandtricks-hq.com/introduction-to-wordpress-nonces-5357)
 - [Hire Otto](https://hireotto.com/)
   07:38 - Data and Plugging Angular Into APIs
 - [AppPresser](https://apppresser.com/)
-  12:54 - [The REST API](http://www.restapitutorial.com/) and Plugins; Custom Plugins
+  12:54 - [The REST API](https://www.restapitutorial.com/) and Plugins; Custom Plugins
 - [Help Scout](https://www.helpscout.net/)
 - [Asana](https://asana.com/)
 - [Harvest](https://www.getharvest.com/)
@@ -43,9 +43,9 @@ tags:
 - [JavaScript for WordPress](https://javascriptforwp.com/)
 - [Angular-Wordpress-Theme](https://github.com/royboy789/Angular-Wordpress-Theme)
 - [AngularJS-Boilerplate](https://github.com/WordPress-Admin-JavaScript-Boilerplate/AngularJS-Boilerplate)
-- [Josh Pollock](http://joshpress.net/)
+- [Josh Pollock](https://joshpress.net/)
   - [angular-wp-front-end](https://github.com/CalderaWP/angular-wp-front-end)
-- [WordPress.tv](http://wordpress.tv/)
+- [WordPress.tv](https://wordpress.tv/)
 -
 
 Picks

@@ -61,10 +61,10 @@ In this episode of Views on Vue, the panelists discuss “Vue Libraries, Open So
 
 Chris
 
-- [The Witcher 3](http://thewitcher.com/en/witcher3)
-- [Cyberpunk 2077](http://www.cyberpunk.net/)
+- [The Witcher 3](https://thewitcher.com/en/witcher3)
+- [Cyberpunk 2077](https://www.cyberpunk.net/)
 - [Gone Home](https://gonehome.game/)
-- [Brothers](http://www.brothersthegame.com/)
+- [Brothers](https://www.brothersthegame.com/)
 - [The Stanley Parable](https://www.stanleyparable.com/)
 
 Divya

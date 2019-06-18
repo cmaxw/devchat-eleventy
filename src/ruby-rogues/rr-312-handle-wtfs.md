@@ -46,7 +46,7 @@ Brian mentions that when working on a rails application he will sometimes&nbsp;`
 
 #### Dave’s Ruby Lifesavers
 
-Dave also adds that adding the gems to your development&nbsp;`better_errors`, and then en&nbsp;`binding_of_caller`&nbsp;are lifesavers. It allows for a more interruptive session with raised errors. Also, in Rails 4 the console feature was added, allowing you to tweak things and play around to debug. Also,&nbsp;[Pry](http://pryrepl.org/)&nbsp;is really useful for loop through and investigate. Dave also notes that Pry, while being a great tool, can sometimes be a bit annoying if you have a large number of loops.
+Dave also adds that adding the gems to your development&nbsp;`better_errors`, and then en&nbsp;`binding_of_caller`&nbsp;are lifesavers. It allows for a more interruptive session with raised errors. Also, in Rails 4 the console feature was added, allowing you to tweak things and play around to debug. Also,&nbsp;[Pry](https://pryrepl.org/)&nbsp;is really useful for loop through and investigate. Dave also notes that Pry, while being a great tool, can sometimes be a bit annoying if you have a large number of loops.
 
 #### Crazy Bug Story - Brian
 
@@ -54,7 +54,7 @@ Brian talks about how in Elixir the declaring of methods is very similar to Ruby
 
 #### Crazy Bug Story - David
 
-David talks about working on a personal project late into the night. Using&nbsp;[Rails 5.1.1](http://www.rubydoc.info/gems/rails), he thought that maybe his issue with the enumerators. He considered that maybe the issue was with Rails 5.1.1 being that is newer. To test to find out if he caused the error, he recreated a simple bit of code that uses enumerators and saw that it worked, then created the same project in 5.1.1 and it also worked, concluding that he created the issue. Later he found he declared the datatype for the enumerator as a string instead of an int. Brian added that creating a fresh application to test for errors is a great way to start debugging, in comparison to immediately to asking others what the problem might be. This method of checking can have a quick pay off if the code is simple. Also, creating new applications to test gives a great foundation of knowing that the problem is in your own code.
+David talks about working on a personal project late into the night. Using&nbsp;[Rails 5.1.1](https://www.rubydoc.info/gems/rails), he thought that maybe his issue with the enumerators. He considered that maybe the issue was with Rails 5.1.1 being that is newer. To test to find out if he caused the error, he recreated a simple bit of code that uses enumerators and saw that it worked, then created the same project in 5.1.1 and it also worked, concluding that he created the issue. Later he found he declared the datatype for the enumerator as a string instead of an int. Brian added that creating a fresh application to test for errors is a great way to start debugging, in comparison to immediately to asking others what the problem might be. This method of checking can have a quick pay off if the code is simple. Also, creating new applications to test gives a great foundation of knowing that the problem is in your own code.
 
 #### Crazy Bug Story - Charles
 
@@ -74,15 +74,15 @@ If you’re using something like caching in your production environment, make su
 
 #### Favorite Development Tools
 
-Some of the panelist’s favorite tools are&nbsp;[Pry](http://pryrepl.org/),&nbsp;[binding_of_caller](https://github.com/banister/binding_of_caller),&nbsp;[better_errors](https://github.com/charliesome/better_errors),&nbsp;[Konami](https://rubygems.org/gems/konami-fo/versions/0.0.3), and&nbsp;[Sinatra](http://www.sinatrarb.com/).&nbsp;[Google Chrome’s RailsPanel extension](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US)&nbsp;Works like&nbsp;[MiniProfiler](https://github.com/MiniProfiler/rack-mini-profiler), but digs in further. By adding this gem to your development environment and running it on Chrome, it shows you all the requests that come through, the controller in action, and lists out all the parameters, as well as active record calls and errors.
+Some of the panelist’s favorite tools are&nbsp;[Pry](https://pryrepl.org/),&nbsp;[binding_of_caller](https://github.com/banister/binding_of_caller),&nbsp;[better_errors](https://github.com/charliesome/better_errors),&nbsp;[Konami](https://rubygems.org/gems/konami-fo/versions/0.0.3), and&nbsp;[Sinatra](https://www.sinatrarb.com/).&nbsp;[Google Chrome’s RailsPanel extension](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US)&nbsp;Works like&nbsp;[MiniProfiler](https://github.com/MiniProfiler/rack-mini-profiler), but digs in further. By adding this gem to your development environment and running it on Chrome, it shows you all the requests that come through, the controller in action, and lists out all the parameters, as well as active record calls and errors.
 
 #### Favorite Production Tools
 
-Brian suggests using any tools available to capture exceptions and error messages. Capturing these issues before the user contacts you makes recreating the issue and debugging it a lot easier. Dave mentions using&nbsp;[New Relic](https://newrelic.com/ruby)&nbsp;to capture performance of application as well as error notification. With New Relic you can adjust the notification threshold and give it actions like sending it to a&nbsp;[Slack](http://slack.com/)&nbsp;channel. Then use something like&nbsp;[Sumo Logic](http://sumologic.com/)&nbsp;to concatenate and combine the logs if it’s coming from various servers.
+Brian suggests using any tools available to capture exceptions and error messages. Capturing these issues before the user contacts you makes recreating the issue and debugging it a lot easier. Dave mentions using&nbsp;[New Relic](https://newrelic.com/ruby)&nbsp;to capture performance of application as well as error notification. With New Relic you can adjust the notification threshold and give it actions like sending it to a&nbsp;[Slack](https://slack.com/)&nbsp;channel. Then use something like&nbsp;[Sumo Logic](https://sumologic.com/)&nbsp;to concatenate and combine the logs if it’s coming from various servers.
 
 #### Shipping Logs Off
 
-[FluentD](http://www.fluentd.org/)&nbsp;can be used to ship off logs to analyze. In some cases management won’t be okay with shipping things off. Doing things internally can sometimes be too much and using a third party aggregation tools can be helpful.
+[FluentD](https://www.fluentd.org/)&nbsp;can be used to ship off logs to analyze. In some cases management won’t be okay with shipping things off. Doing things internally can sometimes be too much and using a third party aggregation tools can be helpful.
 
 #### Some Tools Can Be Heavy
 
@@ -90,7 +90,7 @@ Sumo Logic applet is Java based and takes up quite a bit of space. Jenkins is al
 
 #### Other Logging Tools
 
-[Elastic.co](http://elastic.co/)&nbsp;and&nbsp;[Logstash](https://www.elastic.co/products/logstash)&nbsp;are other logging tools. They have integrations with tools like&nbsp;[Docker](https://hub.docker.com/)&nbsp;and&nbsp;[Kibana](https://www.elastic.co/products/kibana). If you can roll your own logging tools then great. But it’s usually time consuming and takes resources.
+[Elastic.co](https://elastic.co/)&nbsp;and&nbsp;[Logstash](https://www.elastic.co/products/logstash)&nbsp;are other logging tools. They have integrations with tools like&nbsp;[Docker](https://hub.docker.com/)&nbsp;and&nbsp;[Kibana](https://www.elastic.co/products/kibana). If you can roll your own logging tools then great. But it’s usually time consuming and takes resources.
 
 #### Getting Information from People and Assume It’s Wrong
 
@@ -118,7 +118,7 @@ Charles remembers a simple way to watch for issues while debugging. A simple use
 
 ##### Brian
 
-[Learningmusic.abelton.com](http://learningmusic.abelton.com/)
+[Learningmusic.abelton.com](https://learningmusic.abelton.com/)
 
 ##### David
 
@@ -126,7 +126,7 @@ Charles remembers a simple way to watch for issues while debugging. A simple use
 
 ##### Charles
 
-[Microsoft Build](https://build.microsoft.com/)[.Net Rocks Podcast](https://www.dotnetrocks.com/)[Ketogenic Diet & Livin’ La Vita Low Carb](http://livinlavidalowcarb.com/blog/tag/podcast)[Rubydevsummit.com](http://rubydevsummit.com/)
+[Microsoft Build](https://build.microsoft.com/)[.Net Rocks Podcast](https://www.dotnetrocks.com/)[Ketogenic Diet & Livin’ La Vita Low Carb](https://livinlavidalowcarb.com/blog/tag/podcast)[Rubydevsummit.com](https://rubydevsummit.com/)
 
 ---
 

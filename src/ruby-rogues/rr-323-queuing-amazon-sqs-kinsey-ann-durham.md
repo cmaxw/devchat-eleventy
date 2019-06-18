@@ -25,11 +25,11 @@ This episode of Ruby Rogues features panelists Charles Max Wood, Dave Kimura, an
   **Dave** :
 - Health insurance
   **Charles:**
-- [_Profit First&nbsp;_](http://www.amazon.com/dp/0981808298/?tag=chamaxwoo-20)
-- _[Secrets of the Millionaire Mind](http://www.amazon.com/dp/0060763280/?tag=chamaxwoo-20)_
+- [_Profit First&nbsp;_](https://www.amazon.com/dp/0981808298/?tag=chamaxwoo-20)
+- _[Secrets of the Millionaire Mind](https://www.amazon.com/dp/0060763280/?tag=chamaxwoo-20)_
   **Kinsey** :
 - Guide program applications for mentors at RubyConf
-- _[Release It](http://www.amazon.com/dp/0978739213?tag=chamaxwoo-20)&nbsp;_
+- _[Release It](https://www.amazon.com/dp/0978739213?tag=chamaxwoo-20)&nbsp;_
 
 ### **Links for Kinsey**
 

@@ -30,6 +30,6 @@ Aspiring speakers have about 30 seconds to stand out in the first phase. The org
 
 ## **Picks:**
 
-John: [Lionel&nbsp;Train Set](http://www.lionel.com/)Alyssa: NG Cruise Ward: [Neanderthals NY Times](https://www.nytimes.com/2017/01/11/magazine/neanderthals-were-people-too.html?_r=0)Joe: bravery and persistence, Alyssa Nicoll Charles: [Autonomous.ai](https://www.autonomous.ai/)Jeff: [Bostonai.org](https://bostonai.org/), [Arrested Development 5](http://www.cinemablend.com/television/Arrested-Development-Season-5-Definitely-Coming-2016-72241.html)Dave: [Zombie Flexbox course](http://gedd.ski/master/flexbox/), NG-Conf free tickets **Other picks to check out:** &nbsp;NG-Conf,&nbsp;Ionic framework,&nbsp;Angular router,&nbsp;Angular CLI,&nbsp;Typescript,&nbsp;HTC Vive
+John: [Lionel&nbsp;Train Set](https://www.lionel.com/)Alyssa: NG Cruise Ward: [Neanderthals NY Times](https://www.nytimes.com/2017/01/11/magazine/neanderthals-were-people-too.html?_r=0)Joe: bravery and persistence, Alyssa Nicoll Charles: [Autonomous.ai](https://www.autonomous.ai/)Jeff: [Bostonai.org](https://bostonai.org/), [Arrested Development 5](https://www.cinemablend.com/television/Arrested-Development-Season-5-Definitely-Coming-2016-72241.html)Dave: [Zombie Flexbox course](https://gedd.ski/master/flexbox/), NG-Conf free tickets **Other picks to check out:** &nbsp;NG-Conf,&nbsp;Ionic framework,&nbsp;Angular router,&nbsp;Angular CLI,&nbsp;Typescript,&nbsp;HTC Vive
 
 ### Transcript

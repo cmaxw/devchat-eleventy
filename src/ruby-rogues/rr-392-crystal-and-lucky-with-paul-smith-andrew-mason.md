@@ -138,7 +138,7 @@ Guest: Actually – Rails is pretty nice!
 
 37:42 – Guest: It’s totally not charity through Thoughtbot. It’s a huge help in hiring new people. I know they are okay with letting me work on Lucky b/c it’s bringing on new developers and a good marketing tool, and finally recruiting!
 
-39:07 – Chuck: Yeah, I have been talking about developer freedom and that’s what I am addressing through the [DevRev](http://thedevrev.com) show! It’s my new podcast show. We talk with Chris on Elixir Mix. It lends that credibility if they need to save our bacon.
+39:07 – Chuck: Yeah, I have been talking about developer freedom and that’s what I am addressing through the [DevRev](https://thedevrev.com) show! It’s my new podcast show. We talk with Chris on Elixir Mix. It lends that credibility if they need to save our bacon.
 
 40:02 – Panel: What’s your goal with [Lucky?](https://luckyframework.org)
 
@@ -203,7 +203,7 @@ End – [Cache Fly!](https://www.cachefly.com)
 **Links:**
 
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
-- [The DevRev Podcast Show](http://thedevrev.com)
+- [The DevRev Podcast Show](https://thedevrev.com)
 - [DevChat TV](https://devchat.tv)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Elixir](https://elixir-lang.org)
@@ -218,7 +218,7 @@ End – [Cache Fly!](https://www.cachefly.com)
 - [Amber](https://amberframework.org)
 - [Lucky](https://luckyframework.org)
 - [The Lucky Philosophy](https://luckyframework.org/why-lucky/)
-- [The Bike Shed](http://bikeshed.fm/170)
+- [The Bike Shed](https://bikeshed.fm/170)
 - [Thoughtbot](https://robots.thoughtbot.com/designing-lucky-actions-routing)
 - [CodeFund](https://codefund.io)
 - [Lucky: Ruby on Rails to Lucky on Crystal...](https://hackernoon.com/ruby-on-rails-to-lucky-on-crystal-blazing-fast-fewer-bugs-and-even-more-fun-104010913fec)

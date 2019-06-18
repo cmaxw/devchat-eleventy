@@ -5,7 +5,7 @@ title: >
 date: 2019-04-23 10:00:44
 episode_number: 048
 duration: 1:10:14
-audio_url: http://media.devchat.tv/elixir-mix/EMx_048_Introducing_Newest_Panelist_Michael_Reis.mp3.
+audio_url: https://media.devchat.tv/elixir-mix/EMx_048_Introducing_Newest_Panelist_Michael_Reis.mp3.
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/elixir)offers a $1000 signing bonus
 - [.TECH](https://get.tech/) – [Go.tech/Elixir](https://get.tech/?&coupon=ELIXIR.TECH&utm_source=Influencer&utm_medium=Podcast&utm_campaign=ElixirMix) and use the coupon code “ELIXIR.TECH” and get a 1 year .TECH Domain at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)

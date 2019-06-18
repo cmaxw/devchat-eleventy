@@ -16,18 +16,18 @@ tags:
 
 - [Twitter](https://twitter.com/mronge)
 - [GitHub](https://github.com/mronge)
-- [Blog](http://mronge.com/)
-- [Astro HQ](http://astro-hq.com/)
-- <u><a style="text-decoration: none;" href="http://astropad.com/">Astropad</a></u>
+- [Blog](https://mronge.com/)
+- [Astro HQ](https://astro-hq.com/)
+- <u><a style="text-decoration: none;" href="https://astropad.com/">Astropad</a></u>
   - [@astropadapp](https://twitter.com/astropadapp)
 
 01:54 - Launching Astropad
 
-- [Wacom Tablets](http://www.wacom.com/)
+- [Wacom Tablets](https://www.wacom.com/)
 
 05:10 - Being Unique (Unique Selling Proposition)
 
-- [Clear](http://realmacsoftware.com/clear/)
+- [Clear](https://realmacsoftware.com/clear/)
 - Sparrow =\> Gmail
 
 10:05 - Launch Sequence
@@ -48,11 +48,11 @@ tags:
 
 20:51 - Learning to Launch
 
-- [The Burned-Out Blogger's Guide to PR by Jason Kincaid](http://www.amazon.com/gp/product/069230228X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=069230228X&linkCode=as2&tag=chamaxwoo-20&linkId=D7KEYWW4NBID6KZZ)
+- [The Burned-Out Blogger's Guide to PR by Jason Kincaid](https://www.amazon.com/gp/product/069230228X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=069230228X&linkCode=as2&tag=chamaxwoo-20&linkId=D7KEYWW4NBID6KZZ)
 
 22:05 - Marketing: Messaging/Communication/Packaging
 
-25:36 - The Technical Story Behind [Astropad](http://astropad.com/)
+25:36 - The Technical Story Behind [Astropad](https://astropad.com/)
 
 - [TCP (Transmission Control Protocol)](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 - Optimization & Latency
@@ -64,10 +64,10 @@ tags:
 
 35:42 - Niche Down
 
-- [ForeFlight](http://blog.foreflight.com/)
+- [ForeFlight](https://blog.foreflight.com/)
   Picks
 
-Script use for teams for gender neutral environments (Jaim)[KanbanFlow](https://kanbanflow.com/) (Chuck)[HandBrake](https://handbrake.fr/) (Chuck) Hire Chuck for training! Email [Chuck@devchat.tv](mailto:Chuck@devchat.tv)[Rails Testing Coach](http://railstestingcoach.com/) (Chuck)[The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk! by Al Ries](http://www.amazon.com/gp/product/0887306667/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0887306667&linkCode=as2&tag=chamaxwoo-20&linkId=WIB5AFIICHDONY2H) (Matt)[Computer Networks by Andrew S. Tanenbaum](http://www.amazon.com/gp/product/0132126958/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132126958&linkCode=as2&tag=chamaxwoo-20&linkId=MHFZNQYRMFU2BMVJ) (Matt)[Findings](http://findingsapp.com/) (Matt)
+Script use for teams for gender neutral environments (Jaim)[KanbanFlow](https://kanbanflow.com/) (Chuck)[HandBrake](https://handbrake.fr/) (Chuck) Hire Chuck for training! Email [Chuck@devchat.tv](mailto:Chuck@devchat.tv)[Rails Testing Coach](https://railstestingcoach.com/) (Chuck)[The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk! by Al Ries](https://www.amazon.com/gp/product/0887306667/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0887306667&linkCode=as2&tag=chamaxwoo-20&linkId=WIB5AFIICHDONY2H) (Matt)[Computer Networks by Andrew S. Tanenbaum](https://www.amazon.com/gp/product/0132126958/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132126958&linkCode=as2&tag=chamaxwoo-20&linkId=MHFZNQYRMFU2BMVJ) (Matt)[Findings](https://findingsapp.com/) (Matt)
 
 ### Transcript
 

@@ -33,10 +33,10 @@ tags:
 
 - [Code.org](https://code.org/)
 - [Scratch&nbsp;&nbsp; &nbsp;](https://scratch.mit.edu/)
-- [CODE SAVVY](http://www.codesavvy.org)
+- [CODE SAVVY](https://www.codesavvy.org)
   Picks
 
-[Scratch](https://scratch.mit.edu/) (Jaim)[Hour of Code](https://hourofcode.com/) (Jaim)[CODE SAVVY](http://www.codesavvy.org) (Jaim)[Prepo 2](http://wearemothership.com/work/prepo/) (Andrew)[App Camp For Girls](http://appcamp4girls.com/) (Andrew)
+[Scratch](https://scratch.mit.edu/) (Jaim)[Hour of Code](https://hourofcode.com/) (Jaim)[CODE SAVVY](https://www.codesavvy.org) (Jaim)[Prepo 2](https://wearemothership.com/work/prepo/) (Andrew)[App Camp For Girls](https://appcamp4girls.com/) (Andrew)
 
 &nbsp;
 

@@ -45,7 +45,7 @@ tags:
 
 ### Picks:
 
-[How We Hijacked an Entrepreneur.Com Event Sponsorship for \$500](http://lesseverything.com/blog/entpreneurscom-event-sponsorship/) (Jonathan)[Hacking Conferences for Fun and Profit](https://expensiveproblem.com/hacking-conferences-for-fun-and-profit)(Jonathan)[LeadPages](https://www.leadpages.net/) (Simon)[Nvite](https://nvite.com/)(Simon)
+[How We Hijacked an Entrepreneur.Com Event Sponsorship for \$500](https://lesseverything.com/blog/entpreneurscom-event-sponsorship/) (Jonathan)[Hacking Conferences for Fun and Profit](https://expensiveproblem.com/hacking-conferences-for-fun-and-profit)(Jonathan)[LeadPages](https://www.leadpages.net/) (Simon)[Nvite](https://nvite.com/)(Simon)
 
 ### Transcript
 

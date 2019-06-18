@@ -16,11 +16,11 @@ tags:
 
 - Jonathan Stark
 
-In this episode of the Freelancer’s Show, Jonathan discusses “Flipping the Switch,” on a solo podcast episode. Jonathan answers questions about shut down his old mobile site [jonathanstark.com](http://jonathanstark.com) and replaced the content with [ExpensiveProblem.com](http://ExpensiveProblem.com). Jonathan continues with important insights, in his journey, when you are considering closing doors on one business and starting the next.
+In this episode of the Freelancer’s Show, Jonathan discusses “Flipping the Switch,” on a solo podcast episode. Jonathan answers questions about shut down his old mobile site [jonathanstark.com](https://jonathanstark.com) and replaced the content with [ExpensiveProblem.com](https://ExpensiveProblem.com). Jonathan continues with important insights, in his journey, when you are considering closing doors on one business and starting the next.
 
 **In particular, we dive pretty deep on: t**
 
-- Combining business at [jonathanstark.com](http://jonathanstark.com)
+- Combining business at [jonathanstark.com](https://jonathanstark.com)
 - Closed doors on the mobile business
 - Working with Credit Unions
 - Horizontal expertise
@@ -30,10 +30,10 @@ In this episode of the Freelancer’s Show, Jonathan discusses “Flipping the S
 - The announcement of the iPhone and mobile focus
 - Smartphone craze
 - Joining open source projects
-- [Jqtouch](http://jqtjs.com)
+- [Jqtouch](https://jqtjs.com)
 - [PhoneGap](https://phonegap.com)
 - Mobile platform
-- [Jonathan book launch on JQT and PhoneGap](http://shop.oreilly.com/product/9780596805791.do)
+- [Jonathan book launch on JQT and PhoneGap](https://shop.oreilly.com/product/9780596805791.do)
 - Being part of a tribe or a new culture of developers
 - Change in 2012
 - Leads? Budgets for mobile were drying up

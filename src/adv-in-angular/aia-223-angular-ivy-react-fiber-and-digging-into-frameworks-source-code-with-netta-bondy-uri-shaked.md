@@ -14,7 +14,7 @@ tags:
 
 ## Sponsors
 
-- [Sentry](http://sentry.io)&nbsp;use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io)&nbsp;use the code "devchat" for $100 credit
 - [Angular Bootcamp](https://angularbootcamp.com)
 - [TripleByte](https://triplebyte.com/angular)
 **Panel**

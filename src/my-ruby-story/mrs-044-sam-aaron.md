@@ -52,7 +52,7 @@ This week on My Ruby Story, Charles talks to Sam Aaron. Sam is a programmer who 
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Rails](https://rubyonrails.org/)
 - [Clojure](https://clojure.org/)
-- [Sam.Aaron.name](http://sam.aaron.name/)
+- [Sam.Aaron.name](https://sam.aaron.name/)
 - [@samaaron](https://twitter.com/samaaron?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Sam’s Github](https://github.com/samaaron)
 - [@Sonic_Pi](https://twitter.com/sonic_pi?lang=en)

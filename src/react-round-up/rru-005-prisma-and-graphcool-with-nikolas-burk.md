@@ -58,7 +58,7 @@ In this episode of React Round Up, the panel discusses [Prisma](https://www.pris
 - [Prisma Cloud](https://www.prisma.io/cloud/)
 - [React](https://reactjs.org/)
 - [@NikolasBurk](https://twitter.com/nikolasburk?lang=en)
-- [NikolasBurk.com](http://nikolasburk.com/)
+- [NikolasBurk.com](https://nikolasburk.com/)
 
 **Picks:**
 

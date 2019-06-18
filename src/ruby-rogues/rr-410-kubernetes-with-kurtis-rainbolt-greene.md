@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Sentry](https://sentry.io/) use code “devchat” for 2 months free
-- [Triplebyte](http://triplebyte.com/jsjabber) $1000 signing bonus
+- [Triplebyte](https://triplebyte.com/jsjabber) $1000 signing bonus
 - [Redisgreen](https://redisgreen.net/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues)
 - [Cachefly](https://www.cachefly.com/)
 
@@ -63,7 +63,7 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/? __tn__ =%2Cd%2
 - [Drifting Ruby ep. 181- Intro to Kubernetes](https://www.driftingruby.com/episodes/introduction-to-kubernetes)
 **David Kimura:**
 - [Microk8s.io](https://microk8s.io/) and ‘Microk8s.reset’ command
-- [Kubernetes Slack channel](http://slack.k8s.io/)
+- [Kubernetes Slack channel](https://slack.k8s.io/)
 **Kurtis Rainbolt-Greene:**
 - [Satisfactory game](https://www.satisfactorygame.com/)
 - [Kubernetes on Rails video series](https://kubernetesonrails.com/)

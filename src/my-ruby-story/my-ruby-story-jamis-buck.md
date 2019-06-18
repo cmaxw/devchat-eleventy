@@ -33,7 +33,7 @@ Jamis soon went into Ruby. He experimented with other programming languages as w
 Connect with Jamis @jamis through the links below. Don’t forget to let him know you heard about him on Devchat.tv’s Ruby Rogues My Ruby Story podcast!
 
 - [Twitter](https://twitter.com/jamis)
-- [Blog](http://weblog.jamisbuck.org/)
+- [Blog](https://weblog.jamisbuck.org/)
 - [Medium](https://medium.com/@jamis)
 - [GitHub](https://github.com/jamis)
 

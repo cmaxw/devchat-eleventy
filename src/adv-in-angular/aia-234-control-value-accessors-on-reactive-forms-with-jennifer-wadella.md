@@ -16,7 +16,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Angular Bootcamp](https://angularbootcamp.com/)
 - [TripleByte](https://triplebyte.com/angular) offers a $1000 signing bonus
 - [Cachefly](https://www.cachefly.com/)
@@ -35,7 +35,7 @@ In this episode of Adventures in Angular, the panel speaks with Jennifer Wadella
 - [<u>Jennifer's LinkedIN</u>](https://www.linkedin.com/in/jennifer-wadella-7985b46)
 - [<u>Jennifer's Website</u>](https://jenniferwadella.com)
 - <u><a href="https://kcwomenintech.org/">Kansas City Women in Technology</a></u>
-- [<u>Bitovi </u>](http://bitovi.com)
+- [<u>Bitovi </u>](https://bitovi.com)
 - <u><a href="https://kcwomenintech.org/coding-cupcakes/">Coding &amp; Cupcakes | Kansas City Women in Technology</a></u>
 - [Coding & Cocktails | Kansas City Women in Technology](https://kcwomenintech.org/coding-cocktails/)
 - [Kansas City Women in Technology Events](https://kcwomenintech.org/events/)

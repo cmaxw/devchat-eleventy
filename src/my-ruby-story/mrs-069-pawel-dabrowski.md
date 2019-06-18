@@ -20,7 +20,7 @@ This week on My Ruby Story, Chuck talks with [Paweł Dąbrowski](https://github.
 
 **In particular, we dive pretty deep on:**
 
-0:00 – [Get A Coder Job!](http://getacoderjob.com/)
+0:00 – [Get A Coder Job!](https://getacoderjob.com/)
 
 0:55 – Chuck: This week I am talking with [Paweł Dąbrowski](https://github.com/rubyhero) who was on [episode 366.](https://devchat.tv/ruby-rogues/rr-366-build-your-own-rspec-a-gentle-metaprogramming-intro-with-pawel-dąbrowski/) Give us a brief description of who you are, please.
 
@@ -103,7 +103,7 @@ END – [CacheFly](https://www.cachefly.com)
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 - Fresh Books
 

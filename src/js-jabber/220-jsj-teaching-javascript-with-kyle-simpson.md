@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/getify)
 - [GitHub](https://github.com/getify)
-- [Blog](http://getify.me/)
+- [Blog](https://getify.me/)
 - “Getify”
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - [[Pluralsight] Advanced JavaScript by Kyle Simpson](https://www.pluralsight.com/courses/advanced-javascript)
@@ -30,13 +30,13 @@ tags:
   54:33 - Developer Education Programs and The Skill of Teaching&nbsp;Picks
 - [Adam Tornhill: Code, Crime, Complexity: Analyzing software with forensic psychology @ TEDxTrondheim](https://youtu.be/qJ_hplxTYJw) (Aimee)
 - [Your Code as a Crime Scene: Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs by Adam Tornhill](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene) (Aimee)
-- [Planet Money Episode 704: Open Office](http://www.npr.org/sections/money/2016/06/03/480625378/episode-704-open-office) (Jamison)
+- [Planet Money Episode 704: Open Office](https://www.npr.org/sections/money/2016/06/03/480625378/episode-704-open-office) (Jamison)
 - [Zooko's Triangle](https://en.wikipedia.org/wiki/Zooko's_triangle) (Jamison)
-- [The Barkley Marathons](http://barkleymovie.com/) (Jamison)
-- [React Rally](http://www.reactrally.com) (Jamison)
-- [X-Men: Apocalypse](http://www.imdb.com/title/tt3385516/?ref_=nv_sr_1) (Joe)
-- [America's Got Talent](http://www.nbc.com/americas-got-talent) (Joe)
-- [Overwatch](http://playoverwatch.com) (Joe)
+- [The Barkley Marathons](https://barkleymovie.com/) (Jamison)
+- [React Rally](https://www.reactrally.com) (Jamison)
+- [X-Men: Apocalypse](https://www.imdb.com/title/tt3385516/?ref_=nv_sr_1) (Joe)
+- [America's Got Talent](https://www.nbc.com/americas-got-talent) (Joe)
+- [Overwatch](https://playoverwatch.com) (Joe)
 - [Stack](https://play.google.com/store/apps/details?id=com.ketchapp.stack&hl=en) (Kyle)
 - [Jeremy Keith: A web for everyone](https://adactio.com/journal/10665) (Kyle)
 - [Jeremy Keith: Regressive Web Apps](https://adactio.com/journal/10708) (Kyle)

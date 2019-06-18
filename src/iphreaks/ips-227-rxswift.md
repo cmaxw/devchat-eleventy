@@ -48,15 +48,15 @@ tags:
 - [RxSwift book](https://store.raywenderlich.com/products/rxswift)
 - [The Vector Podcast](https://overcast.fm/+K8lhSWphE)
   Andrew
-- [Classic Computing Podcast](http://www.classiccomputing.com/CCPodcasts/CC_Show/CC_Show.html)
-- [Swift Coding Challenges Book](http://snippette.com)
+- [Classic Computing Podcast](https://www.classiccomputing.com/CCPodcasts/CC_Show/CC_Show.html)
+- [Swift Coding Challenges Book](https://snippette.com)
   Junior
 - AppBuilders Conference
   Marin
-- [Snippette](http://snippette.com)
+- [Snippette](https://snippette.com)
 - [Sourcery&nbsp;](https://github.com/krzysztofzablocki/Sourcery)
   Florent
-- [Vert.x Reactive JVM Server Framework](http://vertx.io)
+- [Vert.x Reactive JVM Server Framework](https://vertx.io)
   Scott
 - [Paintcode](https://www.paintcodeapp.com)
 - [RxFlow&nbsp;](https://github.com/RxSwiftCommunity/RxFlow)

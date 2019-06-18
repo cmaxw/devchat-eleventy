@@ -18,9 +18,9 @@ tags:
 - Lucas Reis (NY)
 - Nader Dabit
 
-**Special Guests:** [Christopher Buecheler](http://cwbuecheler.com)
+**Special Guests:** [Christopher Buecheler](https://cwbuecheler.com)
 
-In this episode, the panel talks with [Christopher Buecheler](http://cwbuecheler.com) who is a web developer and moved into JavaScript in 2000. Christopher runs his own business, and records and edits videos among many other responsibilities. He also has a lot of hobbies, and guitars are one of them. Check out today’s episode where the panel and Christopher talk about how to form a tutorial course from start to finish.
+In this episode, the panel talks with [Christopher Buecheler](https://cwbuecheler.com) who is a web developer and moved into JavaScript in 2000. Christopher runs his own business, and records and edits videos among many other responsibilities. He also has a lot of hobbies, and guitars are one of them. Check out today’s episode where the panel and Christopher talk about how to form a tutorial course from start to finish.
 
 **Show Topics:**
 
@@ -129,8 +129,8 @@ Guest: I was on a mentality if “I build it they will come.” This isn’t the
 - [Egghead](https://egghead.io)
 - [State of JavaScript](https://stateofjs.com)
 - [Statecharts](https://statecharts.github.io)
-- [James R. Nelson](http://jamesknelson.com)
-- [Christopher Buecheler’s Website](http://cwbuecheler.com)
+- [James R. Nelson](https://jamesknelson.com)
+- [Christopher Buecheler’s Website](https://cwbuecheler.com)
 - [Christopher Buecheler’s Books](https://www.amazon.com/Christopher-Buecheler/e/B004KA4MLE)
 - [Christopher Buecheler’s Twitter](https://twitter.com/cwbuecheler?lang=en)
 - [Christopher Buecheler’s LinkedIn](https://www.linkedin.com/in/cwbuecheler)

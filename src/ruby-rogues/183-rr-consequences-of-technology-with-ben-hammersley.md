@@ -14,26 +14,26 @@ tags:
 
 02:14 - [<u>JS Remote Conf</u>](https://jsremoteconf.com/)
 
-02:25 - [<u>Ben Hammersley</u>](http://en.wikipedia.org/wiki/Ben_Hammersley) Introduction
+02:25 - [<u>Ben Hammersley</u>](https://en.wikipedia.org/wiki/Ben_Hammersley) Introduction
 
 - [<u>twitter</u>](https://twitter.com/benhammersley)
-- [<u>blog</u>](http://benhammersley.com/)
-- [<u>Cyber Crimes with Ben Hammersley</u>](http://www.bbc.co.uk/programmes/b04p23mv)
+- [<u>blog</u>](https://benhammersley.com/)
+- [<u>Cyber Crimes with Ben Hammersley</u>](https://www.bbc.co.uk/programmes/b04p23mv)
 
-03:08 - Inventing the Term [<u>“Podcast”</u>](http://en.wikipedia.org/wiki/Podcast)
+03:08 - Inventing the Term [<u>“Podcast”</u>](https://en.wikipedia.org/wiki/Podcast)
 
-06:45 - [<u>Moore’s Law</u>](http://en.wikipedia.org/wiki/Moore's_law) & The Capability of Technology
+06:45 - [<u>Moore’s Law</u>](https://en.wikipedia.org/wiki/Moore's_law) & The Capability of Technology
 
-- <u><a href="http://vimeo.com/51810057" data-cke-saved-href="http://vimeo.com/51810057">[Vimeo] Ben Hammersley: The Flower, the Field, and the Stack</a></u>
-  - [<u>Artificial Intelligence (A.I.)</u>](http://en.wikipedia.org/wiki/A.I._Artificial_Intelligence)
-  - [<u>Amazon Echo</u>](http://www.amazon.com/echo/)
+- <u><a href="https://vimeo.com/51810057" data-cke-saved-href="https://vimeo.com/51810057">[Vimeo] Ben Hammersley: The Flower, the Field, and the Stack</a></u>
+  - [<u>Artificial Intelligence (A.I.)</u>](https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence)
+  - [<u>Amazon Echo</u>](https://www.amazon.com/echo/)
 
 13:44 - Politics and Technology
 
 15:52 - Technology on the Rise
 
-- [<u>All Watched Over by Machines of Loving Grace</u>](<http://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series)>)
-- [<u>The Californian Ideology</u>](http://en.wikipedia.org/wiki/The_Californian_Ideology)
+- [<u>All Watched Over by Machines of Loving Grace</u>](<https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series)>)
+- [<u>The Californian Ideology</u>](https://en.wikipedia.org/wiki/The_Californian_Ideology)
 
 20:51 - Danger and Responsibility
 
@@ -44,7 +44,7 @@ tags:
   - [<u>Jawbone</u>](https://jawbone.com/) / <u><a href="https://www.apple.com/watch/" data-cke-saved-href="https://www.apple.com/watch/">Apple Watch</a></u>
   - The Quantified Office
 
-36:49 - Handling and Punishing [<u>Cyberwarfare</u>](http://en.wikipedia.org/wiki/Cyberwarfare)
+36:49 - Handling and Punishing [<u>Cyberwarfare</u>](https://en.wikipedia.org/wiki/Cyberwarfare)
 
 - Occupy and Anonymous
 - “Being Great at the Internet”
@@ -54,11 +54,11 @@ tags:
 - “If I were evil…”
 - Embodied Cultural Belief & Assumptions
 
-44:32 - [<u>Empathy</u>](http://en.wikipedia.org/wiki/Empathy) & [<u>Diversity</u>](http://en.wikipedia.org/wiki/Diversity)
+44:32 - [<u>Empathy</u>](https://en.wikipedia.org/wiki/Empathy) & [<u>Diversity</u>](https://en.wikipedia.org/wiki/Diversity)
 
 51:48 - Sources of Information for Perspective of Trends
 
-- [<u>Global Voices</u>](http://globalvoicesonline.org/)
+- [<u>Global Voices</u>](https://globalvoicesonline.org/)
 - Look Outside the Industry
 
 ### Transcript

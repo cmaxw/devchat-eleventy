@@ -16,9 +16,9 @@ tags:
 
 - [Twitter](https://twitter.com/tenderlove)
 - [GitHub](https://github.com/tenderlove)
-- [Blog](http://tenderlovemaking.com/)
-  01:15 - [Objects on Rails by Avdi Grimm](http://objectsonrails.com/)04:40 - Benchmarking
-- [Ruby's Benchmark Library](http://ruby-doc.org/stdlib-1.9.3/libdoc/benchmark/rdoc/index.html)
+- [Blog](https://tenderlovemaking.com/)
+  01:15 - [Objects on Rails by Avdi Grimm](https://objectsonrails.com/)04:40 - Benchmarking
+- [Ruby's Benchmark Library](https://ruby-doc.org/stdlib-1.9.3/libdoc/benchmark/rdoc/index.html)
   05:50 - Profiling, Benchmarking vs Profiling 07:53- &nbsp;Managing Maintainability
 - Maintainable code \> Fast code
   09:48 - “Easier to optimize correct code than it is to correct optimized code” 12:17 - When do you do benchmarking and measure? 13:31 - “Twitter Limit” 15:16 - Startup and Test Speed 15:40 -&nbsp;“Isn’t for amateurs” 17:17 -&nbsp;[Evan Phoenix's Benchmark Suite Gem](https://github.com/evanphx/benchmark_suite)19:23 - Accuracy
@@ -36,10 +36,10 @@ tags:
 - require 'coverage' for code coverage
 - example:&nbsp; simple_cov
   28:15 - Other Systems That Profile
-- [New Relic](http://newrelic.com/)
+- [New Relic](https://newrelic.com/)
 - [Adobe Scout](https://en.wikipedia.org/wiki/Adobe_Scout)
   28:38 - How You Profile Ruby Virtual Machine
-- [sampling profiling](<http://en.wikipedia.org/wiki/Profiling_(computer_programming)>)
+- [sampling profiling](<https://en.wikipedia.org/wiki/Profiling_(computer_programming)>)
   35:04 - Test the Benchmarks You're Given 39:03 - Communicate The Process 39:20 - Rails' Startup Time Profiling
 - to_s
 - sub-shells (shelling out to find or run commands)

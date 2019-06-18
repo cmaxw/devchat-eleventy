@@ -16,10 +16,10 @@ tags:
 
 - [Twitter](https://twitter.com/codefolio)
 - [GitHub](https://github.com/noahgibbs)
-- [Blog](http://codefol.io/)
-- [Ruby Rogues Episode #199: Deployments with Noah Gibbs](http://devchat.tv/ruby-rogues/199-rr-deployments-with-noah-gibbs)
+- [Blog](https://codefol.io/)
+- [Ruby Rogues Episode #199: Deployments with Noah Gibbs](https://devchat.tv/ruby-rogues/199-rr-deployments-with-noah-gibbs)
 - [Rebuilding Rails by Noah Gibbs](https://rebuilding-rails.com/)
-- [Rails Deploy In An Hour Class](http://rails-deploy-in-an-hour.com/)
+- [Rails Deploy In An Hour Class](https://rails-deploy-in-an-hour.com/)
 
 03:03 - Structure
 
@@ -34,23 +34,23 @@ tags:
 09:19 - Getting Started Rebuilding Rails
 
 - Frameworks
-  - [Sinatra&nbsp;&nbsp; &nbsp;](http://www.sinatrarb.com/)
-  - [Cuba](http://cuba.is/)
-  - [Lotus](http://lotusrb.org/)
-- The Core Functionality of [Rack](http://rack.github.io/)
-  - [CGI = Common Gateway Interface](http://en.wikipedia.org/wiki/Common_Gateway_Interface)
+  - [Sinatra&nbsp;&nbsp; &nbsp;](https://www.sinatrarb.com/)
+  - [Cuba](https://cuba.is/)
+  - [Lotus](https://lotusrb.org/)
+- The Core Functionality of [Rack](https://rack.github.io/)
+  - [CGI = Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 
 15:09 - Use Case for Rebuilding Rails
 
 - Tradeoffs
   - [decent_exposure](https://github.com/hashrocket/decent_exposure)
-    - [The Rails Way by Obie Fernandez](http://www.amazon.com/gp/product/0321944275/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321944275&linkCode=as2&tag=chamaxwoo-20&linkId=JTBEHXJC2ITY4HRD)
+    - [The Rails Way by Obie Fernandez](https://www.amazon.com/gp/product/0321944275/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321944275&linkCode=as2&tag=chamaxwoo-20&linkId=JTBEHXJC2ITY4HRD)
 
 19:49 - View Model Objects (Presenter Objects?)
 
 24:25 - What Do Rails Devs Take For Granted?
 
-- [Rack](http://rack.github.io/)
+- [Rack](https://rack.github.io/)
 - Security
 
 27:59 - Rails = “Weird” ??
@@ -62,16 +62,16 @@ tags:
 
 37:56 - Constraints: Making Framework Decisions
 
-- [Volt](http://voltframework.com/)
+- [Volt](https://voltframework.com/)
 - [Meteor](https://www.meteor.com/)
 
 44:19 - Big Data
 
-- [Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems By Martin Kleppmann](http://shop.oreilly.com/product/0636920032175.do?cmp=af-strata-books-videos-product_cj_9781491903094_%25zp)
+- [Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems By Martin Kleppmann](https://shop.oreilly.com/product/0636920032175.do?cmp=af-strata-books-videos-product_cj_9781491903094_%25zp)
 - [Aphyr](https://aphyr.com/) ([Jepsen](https://aphyr.com/tags/jepsen))
   Picks
 
-[simplehuman Garbage Cans](http://www.simplehuman.com/trash) (Avdi)[Etsy CTO On Its Conservatively Crafty Tech Philosophy](http://techcrunch.com/2015/04/27/etsy-cto-on-its-conservatively-crafty-tech-philosophy/) (Saron)[Death Of A Programmer. Life Of A Farmer.](http://hello-world.io/death-of-a-programmer-life-of-a-farmer/) (Saron)[Mary Poppendieck's Keynote (Jessica)](http://www.ustream.tv/recorded/61477219)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck)[Rails Camp USA West Coast](http://west.railscamp.us) (Chuck)[Traction: Get a Grip on Your Business by Gino Wickman](http://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=TRN56U3KTKROTGZS) (Chuck)[Rails Camps](http://railscamps.com) (Coraline)[The Codeless Code](http://thecodelesscode.com/contents) (Noah)[Ruby Under a Microscope: An Illustrated Guide to Ruby Internals by Pat Shaughnessy](http://www.amazon.com/gp/product/1593275277/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275277&linkCode=as2&tag=chamaxwoo-20&linkId=OKKCRPBXZESJI3CO) (Noah)[The Rails 4 Way by Obie Fernandez](http://www.amazon.com/gp/product/0321944275/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321944275&linkCode=as2&tag=chamaxwoo-20&linkId=KGNYRDS6VBUVXHHP) (Noah)&nbsp;
+[simplehuman Garbage Cans](https://www.simplehuman.com/trash) (Avdi)[Etsy CTO On Its Conservatively Crafty Tech Philosophy](https://techcrunch.com/2015/04/27/etsy-cto-on-its-conservatively-crafty-tech-philosophy/) (Saron)[Death Of A Programmer. Life Of A Farmer.](https://hello-world.io/death-of-a-programmer-life-of-a-farmer/) (Saron)[Mary Poppendieck's Keynote (Jessica)](https://www.ustream.tv/recorded/61477219)[Ruby Remote Conf](https://rubyremoteconf.com/) (Chuck)[Rails Camp USA West Coast](https://west.railscamp.us) (Chuck)[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=TRN56U3KTKROTGZS) (Chuck)[Rails Camps](https://railscamps.com) (Coraline)[The Codeless Code](https://thecodelesscode.com/contents) (Noah)[Ruby Under a Microscope: An Illustrated Guide to Ruby Internals by Pat Shaughnessy](https://www.amazon.com/gp/product/1593275277/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275277&linkCode=as2&tag=chamaxwoo-20&linkId=OKKCRPBXZESJI3CO) (Noah)[The Rails 4 Way by Obie Fernandez](https://www.amazon.com/gp/product/0321944275/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321944275&linkCode=as2&tag=chamaxwoo-20&linkId=KGNYRDS6VBUVXHHP) (Noah)&nbsp;
 
 ### Transcript
 

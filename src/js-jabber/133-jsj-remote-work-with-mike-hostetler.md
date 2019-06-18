@@ -14,11 +14,11 @@ tags:
 
 02:18 - Mike Introduction
 
-- <u><a href="http://appendto.com/" data-cke-saved-href="http://appendto.com/">appendTo</a></u>
+- <u><a href="https://appendto.com/" data-cke-saved-href="https://appendto.com/">appendTo</a></u>
   - [<u>@appendTo</u>](https://twitter.com/appendTo)
 - jQuery Project
   - [jQuery](https://jquery.org/)
-- [<u>Open Source</u>](http://en.wikipedia.org/wiki/Open_source)
+- [<u>Open Source</u>](https://en.wikipedia.org/wiki/Open_source)
 
 02:41 - Remote Work
 
@@ -26,30 +26,30 @@ tags:
 
 03:05 - Communication
 
-- [<u>Organizational Science</u>](http://en.wikipedia.org/wiki/Organizational_studies)
+- [<u>Organizational Science</u>](https://en.wikipedia.org/wiki/Organizational_studies)
 - [<u>Definition of a Manager - Google</u>](https://www.google.com/#q=definition+of+a+manager)
 
 03:59 - Switching to Non-Remote
 
-- [<u>Reddit</u>](http://www.reddit.com/)
+- [<u>Reddit</u>](https://www.reddit.com/)
 - [<u>Yahoo</u>](https://www.yahoo.com/)
-  - [<u>Marissa Mayer</u>](http://en.wikipedia.org/wiki/Marissa_Mayer)
-  - [<u>Marissa Mayer Q&amp;A</u>](http://blogs.wsj.com/digits/2014/10/21/qa-marissa-mayer-on-yahoos-mobile-future/)
+  - [<u>Marissa Mayer</u>](https://en.wikipedia.org/wiki/Marissa_Mayer)
+  - [<u>Marissa Mayer Q&amp;A</u>](https://blogs.wsj.com/digits/2014/10/21/qa-marissa-mayer-on-yahoos-mobile-future/)
 
 06:33 - Setting Expectations
 
 10:44 - Creating Culture
 
 - Business Foundation
-  - [<u>SaaS</u>](http://en.wikipedia.org/wiki/Software_as_a_service)
-  - [<u>Skype</u>](http://www.skype.com/en/)
+  - [<u>SaaS</u>](https://en.wikipedia.org/wiki/Software_as_a_service)
+  - [<u>Skype</u>](https://www.skype.com/en/)
   - [<u>Expensify</u>](https://www.expensify.com/)
-  - [<u>QuickBooks</u>](http://quickbooks.intuit.com/)
+  - [<u>QuickBooks</u>](https://quickbooks.intuit.com/)
 
 12:54 - Establishing/Organizing Teams
 
-- [<u>Fullstack</u>](http://gofullstack.com/)
-- [<u>Node</u>](http://nodejs.org/)
+- [<u>Fullstack</u>](https://gofullstack.com/)
+- [<u>Node</u>](https://nodejs.org/)
 - [<u>Angular</u>](https://angularjs.org/)
 
 17:25 - Organizing Teams Around Projects
@@ -59,45 +59,45 @@ tags:
   - Budget
   - Deadline
   - Communications
-- [<u>Monkey Stress Study (article)</u>](http://mymagicaldroplets.wordpress.com/2009/01/22/the-monkey-experiment-the-habit-virus/)
+- [<u>Monkey Stress Study (article)</u>](https://mymagicaldroplets.wordpress.com/2009/01/22/the-monkey-experiment-the-habit-virus/)
 - [<u>Scrum</u>](https://www.scrum.org/)
-- [<u>Agile</u>](http://www.agile-process.org/)
-- [<u>Pivotal Tracker</u>](http://www.pivotaltracker.com/)
+- [<u>Agile</u>](https://www.agile-process.org/)
+- [<u>Pivotal Tracker</u>](https://www.pivotaltracker.com/)
 - [<u>GitHub</u>](https://github.com/)
   - [<u>GitHub Issues</u>](https://github.com/blog/831-issues-2-0-the-next-generation)
 - [<u>Basecamp</u>](https://basecamp.com/)
 
-21:53 - [<u>Pairing</u>](http://en.wikipedia.org/wiki/Pair_programming)
+21:53 - [<u>Pairing</u>](https://en.wikipedia.org/wiki/Pair_programming)
 
 - Chat
-  - [<u>Skype</u>](http://www.skype.com/)
+  - [<u>Skype</u>](https://www.skype.com/)
   - [<u>Slack</u>](https://slack.com/)
   - [<u>HipChat</u>](https://www.hipchat.com/)
-  - [<u>IRC</u>](http://www.irc.org/)
+  - [<u>IRC</u>](https://www.irc.org/)
 
 23:32 - Struggles
 
 - Hiring for Working Remotely
-  - [<u>Meetup</u>](http://www.meetup.com/)
+  - [<u>Meetup</u>](https://www.meetup.com/)
 
 27:18 - Handing Over appendTo
 
 28:49 - Starting Over/Doing Things Differently
 
-- [<u>devLink</u>](http://www.devlink.net/)
-  - [<u>Mike’s Keynote at devLink (Blog Post)</u>](http://mike-hostetler.com/blog/2013/08/30/why-does-the-software-community-matter/)
-- [<u>Valve</u>](http://www.valvesoftware.com/)
-- [<u>Flat Culture</u>](http://en.wikipedia.org/wiki/Flat_organization)
-- [<u>Ad-hoc Organizations</u>](http://en.wikipedia.org/wiki/Adhocracy)
-- [<u>Mike’s Blog</u>](http://mike-hostetler.com/)
+- [<u>devLink</u>](https://www.devlink.net/)
+  - [<u>Mike’s Keynote at devLink (Blog Post)</u>](https://mike-hostetler.com/blog/2013/08/30/why-does-the-software-community-matter/)
+- [<u>Valve</u>](https://www.valvesoftware.com/)
+- [<u>Flat Culture</u>](https://en.wikipedia.org/wiki/Flat_organization)
+- [<u>Ad-hoc Organizations</u>](https://en.wikipedia.org/wiki/Adhocracy)
+- [<u>Mike’s Blog</u>](https://mike-hostetler.com/)
 
 34:02 - Open salaries
 
 - [<u>Buffer</u>](https://bufferapp.com/)
   - [<u>Buffer Salaries Post</u>](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
-- [<u>Bureau of Labor Statistics</u>](http://www.bls.gov/)
-  - [<u>BLS Fair Labor Standards Act</u>](http://www.bls.gov/opub/mlr/2000/12/art3full.pdf)
-- [<u>“Impostor Syndrome”</u>](http://en.wikipedia.org/wiki/Impostor_syndrome)
+- [<u>Bureau of Labor Statistics</u>](https://www.bls.gov/)
+  - [<u>BLS Fair Labor Standards Act</u>](https://www.bls.gov/opub/mlr/2000/12/art3full.pdf)
+- [<u>“Impostor Syndrome”</u>](https://en.wikipedia.org/wiki/Impostor_syndrome)
 
 39:22 - Hiring Process and Training
 

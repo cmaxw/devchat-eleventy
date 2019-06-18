@@ -34,8 +34,8 @@ This week on My Ruby Story, Charles talks to Mike Gehard. Mike currently works f
 - [Scala](https://www.scala-lang.org/)
 - Figure out how you learn best, and leverage that going forward
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job)
-- [Rails](http://rubyonrails.org/)
-- How did you get into [Ruby](http://www.ruby-lang.org/en/)?
+- [Rails](https://rubyonrails.org/)
+- How did you get into [Ruby](https://www.ruby-lang.org/en/)?
 - Rails doesn’t take a lot of “banging” to get something to fall out the other end being useful
 - What have you contributed to the Ruby community that you’re proud of?
 - What are you working on now?
@@ -51,8 +51,8 @@ This week on My Ruby Story, Charles talks to Mike Gehard. Mike currently works f
 - [Platform Acceleration Lab](https://pivotal.io/platform-acceleration-lab)
 - [Scala](https://www.scala-lang.org/)
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job)
-- [Rails](http://rubyonrails.org/)
-- [Ruby](http://www.ruby-lang.org/en/)
+- [Rails](https://rubyonrails.org/)
+- [Ruby](https://www.ruby-lang.org/en/)
 - [Kotlin](https://kotlinlang.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [DevChat.tv YouTube](https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw)

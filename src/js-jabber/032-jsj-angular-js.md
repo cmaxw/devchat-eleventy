@@ -14,16 +14,16 @@ tags:
 
 ### Panel
 
-- Misko Hevery ([twitter](https://twitter.com/mhevery) [github](https://github.com/mhevery) [blog](http://misko.hevery.com/))
-- Igor Minar ([twitter](https://twitter.com/IgorMinar) [github](https://github.com/IgorMinar) [blog](http://blog.igorminar.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Tim Caswell ([twitter](http://twitter.com/creationix/)[github](https://github.com/creationix/)[howtonode.org](http://howtonode.org/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
+- Misko Hevery ([twitter](https://twitter.com/mhevery) [github](https://github.com/mhevery) [blog](https://misko.hevery.com/))
+- Igor Minar ([twitter](https://twitter.com/IgorMinar) [github](https://github.com/IgorMinar) [blog](https://blog.igorminar.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/)[github](https://github.com/creationix/)[howtonode.org](https://howtonode.org/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
 
 ### Discussion
 
-01:33 - Angular.js ([twitter](https://twitter.com/angularjs) [github](https://github.com/angular/angular.js) [blog](http://angularjs.org/#!/)) 02:33 - Angular.js compared to other frameworks 04:03 - How does it work? 05:22 - Cost 06:06 - HTML Compiler 07:02 - Directives 10:31 - Working with browsers in the future 12:07 - Dependency injection 16:50 - Main method 18:48 - Using [require.js](https://github.com/requirejs) 20:53 - How would you build a TreeView widget in Angular? 24:07 - Where data is stored 24:42 - Scope 29:47 - Syncing to servers
+01:33 - Angular.js ([twitter](https://twitter.com/angularjs) [github](https://github.com/angular/angular.js) [blog](https://angularjs.org/#!/)) 02:33 - Angular.js compared to other frameworks 04:03 - How does it work? 05:22 - Cost 06:06 - HTML Compiler 07:02 - Directives 10:31 - Working with browsers in the future 12:07 - Dependency injection 16:50 - Main method 18:48 - Using [require.js](https://github.com/requirejs) 20:53 - How would you build a TreeView widget in Angular? 24:07 - Where data is stored 24:42 - Scope 29:47 - Syncing to servers
 
 - RESTClient
   31:34 - Testability & Services in Angular 39:04 - Benefits of Angular
@@ -32,14 +32,14 @@ tags:
 
 ### Picks
 
-- [The Arrow](http://www.cwtv.com/shows/arrow) (Joe)
-- [Font Awesome](http://fortawesome.github.com/Font-Awesome/) (Tim)
-- [Testacular](http://vojtajina.github.com/testacular/) (Igor)
-- [Plunker](http://plunker.no.de/) (Igor)
-- [The Better Angels of our Nature: Steven Pinker](http://www.amazon.com/gp/product/0143122010/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143122010&linkCode=as2&tag=chamaxwoo-20) (Misko)
-- [XCOM](http://www.xcom.com/enemyunknown/entry) (Jamison)
-- [The Foundation Series: Isaac Asimov](http://www.amazon.com/Foundation-Empire-Second-Everymans-Library/dp/0307593967/ref=sr_1_7?s=books&ie=UTF8&qid=1349979292&sr=1-7&keywords=foundation) (Jamison)
-- [Influencer: The Power to Change Anything](http://www.amazon.com/gp/product/007148499X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007148499X&linkCode=as2&tag=chamaxwoo-20) (AJ)
+- [The Arrow](https://www.cwtv.com/shows/arrow) (Joe)
+- [Font Awesome](https://fortawesome.github.com/Font-Awesome/) (Tim)
+- [Testacular](https://vojtajina.github.com/testacular/) (Igor)
+- [Plunker](https://plunker.no.de/) (Igor)
+- [The Better Angels of our Nature: Steven Pinker](https://www.amazon.com/gp/product/0143122010/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143122010&linkCode=as2&tag=chamaxwoo-20) (Misko)
+- [XCOM](https://www.xcom.com/enemyunknown/entry) (Jamison)
+- [The Foundation Series: Isaac Asimov](https://www.amazon.com/Foundation-Empire-Second-Everymans-Library/dp/0307593967/ref=sr_1_7?s=books&ie=UTF8&qid=1349979292&sr=1-7&keywords=foundation) (Jamison)
+- [Influencer: The Power to Change Anything](https://www.amazon.com/gp/product/007148499X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007148499X&linkCode=as2&tag=chamaxwoo-20) (AJ)
 
 ### Transcript
 

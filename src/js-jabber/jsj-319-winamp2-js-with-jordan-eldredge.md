@@ -87,7 +87,7 @@ Aimee
 
 Joe
 
-- [2ality.com](http://2ality.com/)
+- [2ality.com](https://2ality.com/)
 - [_What if JavaScript wins?_ Medium post](https://medium.com/@anildash/what-if-javascript-wins-84898e5341a)
 
 Jordan

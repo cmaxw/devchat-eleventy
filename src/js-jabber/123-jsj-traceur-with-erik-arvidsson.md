@@ -14,39 +14,39 @@ tags:
 
 ### Panel
 
-- Erik Arvidsson ([twitter](https://twitter.com/ErikArvidsson)&nbsp;[github](https://github.com/arv)&nbsp;[blog](http://erik.eae.net/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- AJ ONeal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://blog.coolaj86.com/))
+- Erik Arvidsson ([twitter](https://twitter.com/ErikArvidsson)&nbsp;[github](https://github.com/arv)&nbsp;[blog](https://erik.eae.net/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- AJ ONeal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://blog.coolaj86.com/))
 
 ### Discussion
 
 01:52 - Erik Introduction
 
 - [Traceur](https://github.com/google/traceur-compiler)
-  - [TC39](http://www.ecma-international.org/memento/TC39.htm)
+  - [TC39](https://www.ecma-international.org/memento/TC39.htm)
   - [Chrome](https://www.google.com/chrome/browser/)
-  - [Node.js](http://nodejs.org/)
+  - [Node.js](https://nodejs.org/)
     03:49 -Background of Traceur
 - [Peter Hallam](https://twitter.com/peter_hal)
 - [Alex Russell](https://twitter.com/slightlylate)
-  - [JSConf](http://jsconf.com/)
+  - [JSConf](https://jsconf.com/)
   - [Peter Hallam and Alex Russell JSConf 2011](https://www.youtube.com/watch?v=ntDZa7ekFEA)
     05:10 - Implementing Features 06:31 - Other Languages
-- [Async Functions](http://msdn.microsoft.com/en-us/library/hh191564.aspx)
+- [Async Functions](https://msdn.microsoft.com/en-us/library/hh191564.aspx)
 - [Dave Herman](https://twitter.com/littlecalculist)
-- [Task.js](http://taskjs.org/)
-  08:37 - ES6 Development 09:14 - [Promises](http://www.sitepoint.com/overview-javascript-promises/)
+- [Task.js](https://taskjs.org/)
+  08:37 - ES6 Development 09:14 - [Promises](https://www.sitepoint.com/overview-javascript-promises/)
 - [Domenic Denicola](https://twitter.com/domenic)
   09:45 - [Object.observe](https://github.com/jdarling/Object.observe) 10:24 - Traceur & ES6/7 12:19 - [Production](https://github.com/dreamerslab/nodejs.production)
-- [JSJ 111 The Ember.js Project with Erik Bryn](http://javascriptjabber.com/111-jsj-the-ember-js-project-with-erik-bryn/)
+- [JSJ 111 The Ember.js Project with Erik Bryn](https://javascriptjabber.com/111-jsj-the-ember-js-project-with-erik-bryn/)
   14:23 - Features and Functions
 - Symbols
-- [YUI](http://yuilibrary.com/)
-- [Dojo](http://dojotoolkit.org/)
-- [SPREAD](http://lambda-the-ultimate.org/node/4625)
-- [ReST](http://en.wikipedia.org/wiki/ReST)
-- [Array](http://en.wikipedia.org/wiki/Array_programming)
+- [YUI](https://yuilibrary.com/)
+- [Dojo](https://dojotoolkit.org/)
+- [SPREAD](https://lambda-the-ultimate.org/node/4625)
+- [ReST](https://en.wikipedia.org/wiki/ReST)
+- [Array](https://en.wikipedia.org/wiki/Array_programming)
 - Arrows
   20:34 - Libraries
 - [ES6 Module Loaders](https://github.com/ModuleLoader/es6-module-loader)
@@ -54,36 +54,36 @@ tags:
 - [v8](https://github.com/v8/v8)
 - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey?redirectlocale=en-US&redirectslug=SpiderMonkey)
 - [es6 shim](https://github.com/es-shims/es6-shim)
-- [MapSet](http://www.bowvalleysoftware.com/GPS/mapsettoolkit.html)
+- [MapSet](https://www.bowvalleysoftware.com/GPS/mapsettoolkit.html)
   26:29 - Future of es6 Features
 - Mapping
   - [Weak Map](https://www.npmjs.org/package/es6-weak-map)
 - Side Tables
-- [Polymer Project](http://www.polymer-project.org/)
+- [Polymer Project](https://www.polymer-project.org/)
   30:26 - Development Work Flows
 - Best Work Flows to Use
-- [grunt](http://gruntjs.com/)
+- [grunt](https://gruntjs.com/)
   - [grunt-traceur](https://www.npmjs.org/package/grunt-traceur)
-- [gulp](http://gulpjs.com/)
+- [gulp](https://gulpjs.com/)
   - [gulp-traceur](https://www.npmjs.org/package/gulp-traceur)
   - [Aaron Frost](https://twitter.com/js_dev)
-- [Pluralsight](http://beta.pluralsight.com/)
-- [Webstorm](http://www.jetbrains.com/webstorm/)
-- [CommonJS](http://en.wikipedia.org/wiki/CommonJS)
-- [JetBrains](http://www.jetbrains.com/)
-- [JS Bin](http://jsbin.com/)
+- [Pluralsight](https://beta.pluralsight.com/)
+- [Webstorm](https://www.jetbrains.com/webstorm/)
+- [CommonJS](https://en.wikipedia.org/wiki/CommonJS)
+- [JetBrains](https://www.jetbrains.com/)
+- [JS Bin](https://jsbin.com/)
   34:05 - Future of Traceur (Support)
 - Polyfills
 
 ### Picks
 
-- [Regenerator](http://facebook.github.io/regenerator/) (Erik)
-- [Task.js](http://taskjs.org/) (Erik)
-- [Bluehost](http://www.bluehost.com/) (Joe)
-- [Forging Zero by Sara King](http://www.amazon.com/gp/product/B00BTKA42Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BTKA42Y&linkCode=as2&tag=chamaxwoo-20&linkId=INMQGI5LBIAZ7JLO) (Joe)
+- [Regenerator](https://facebook.github.io/regenerator/) (Erik)
+- [Task.js](https://taskjs.org/) (Erik)
+- [Bluehost](https://www.bluehost.com/) (Joe)
+- [Forging Zero by Sara King](https://www.amazon.com/gp/product/B00BTKA42Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BTKA42Y&linkCode=as2&tag=chamaxwoo-20&linkId=INMQGI5LBIAZ7JLO) (Joe)
 - [That Conference](https://www.thatconference.com/) (Joe)
-- [Joe's Pluralsight Courses](http://pluralsight.com/training/Authors/Details/joe-eames) (Joe)
-- [Wool by Hugh Howey](http://www.amazon.com/gp/product/1476733953/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476733953&linkCode=as2&tag=chamaxwoo-20&linkId=A2NFAIH3OPT4QRDF) (Erik)
+- [Joe's Pluralsight Courses](https://pluralsight.com/training/Authors/Details/joe-eames) (Joe)
+- [Wool by Hugh Howey](https://www.amazon.com/gp/product/1476733953/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476733953&linkCode=as2&tag=chamaxwoo-20&linkId=A2NFAIH3OPT4QRDF) (Erik)
 
 ### Next Week
 

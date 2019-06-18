@@ -20,21 +20,21 @@ tags:
 - AJ O'Neal
 - **Special Guests:** Orta Therox
 
-In this episode, the JavaScript Jabber panelists talk about the tool [Danger](http://danger.systems/js/) with Orta Therox. Danger allows you to create cultural rules about your pole request workflow. They discuss what Danger is, how it works, and how it can help you to catch errors and speed up code review. Danger lets you erase discussions so that you can focus on the things that you should really be focusing on, like the code. They also compare Danger to other ways of doing test converge.
+In this episode, the JavaScript Jabber panelists talk about the tool [Danger](https://danger.systems/js/) with Orta Therox. Danger allows you to create cultural rules about your pole request workflow. They discuss what Danger is, how it works, and how it can help you to catch errors and speed up code review. Danger lets you erase discussions so that you can focus on the things that you should really be focusing on, like the code. They also compare Danger to other ways of doing test converge.
 
 **In particular, we dive pretty deep on:**
 
-- What is [DangerJS](http://danger.systems/js/)?
+- What is [DangerJS](https://danger.systems/js/)?
 - Think of it as being on the PR level
 - Provides an eval context
 - Used on larger projects
-- [React,](https://reactjs.org/) [React Native](https://facebook.github.io/react-native/), [Apollo](https://www.apollographql.com/), and [RxJS](http://reactivex.io/rxjs/)
+- [React,](https://reactjs.org/) [React Native](https://facebook.github.io/react-native/), [Apollo](https://www.apollographql.com/), and [RxJS](https://reactivex.io/rxjs/)
 - Experimenting with moving Danger onto a server
 - Danger can run as a linting step
 - Pre-commit hooks
 - [Prettier](https://prettier.io/)
 - How do you use Danger on your own machine?
-- [Danger Ruby](http://danger.systems/ruby/) vs [Danger JS](http://danger.systems/js/)
+- [Danger Ruby](https://danger.systems/ruby/) vs [Danger JS](https://danger.systems/js/)
 - NPM install
 - How is using Danger better that other ways of test coverage?
 - What kinds of rules can you write for this system?
@@ -47,17 +47,17 @@ In this episode, the JavaScript Jabber panelists talk about the tool [Danger](ht
 
 - [React Dev Summit](https://reactdevsummit.com/)
 - [JS Dev Summit](https://jsdevsummit.com/)
-- [Danger JS](http://danger.systems/js/)
+- [Danger JS](https://danger.systems/js/)
 - [React](https://reactjs.org/)
 - [React Native](https://facebook.github.io/react-native/)
 - [Apollo](https://www.apollographql.com/)
-- [RxJS](http://reactivex.io/rxjs/)
+- [RxJS](https://reactivex.io/rxjs/)
 - [Prettier](https://prettier.io/)
-- [Danger Ruby](http://danger.systems/ruby/)
+- [Danger Ruby](https://danger.systems/ruby/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [JavaScript](https://www.javascript.com/)
 - [Orta’s GitHub](https://github.com/orta)
-- [Artsy Blog](http://artsy.github.io/)
+- [Artsy Blog](https://artsy.github.io/)
 
 **Picks:**
 
@@ -74,7 +74,7 @@ Aimee
 
 Joe
 
-- [SaltCON](http://saltcon.com/)
+- [SaltCON](https://saltcon.com/)
 - [Stuffed Fables Board Game](https://www.amazon.com/Plaid-Hat-Games-PHG2200-Stuffed/dp/B0774X4J44)
 
 AJ

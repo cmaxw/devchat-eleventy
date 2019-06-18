@@ -15,21 +15,21 @@ tags:
 02:14 - Best of Parley
 
 - Multiple threads: How do I get Ruby into my .NET shop?
-  03:19 - [Ruby Bits Course](http://www.rubyrogues.com/rubybits)03:49 - Book Club (See Below) 04:45 - Zach Holman of [Github](https://github.com/) 06:38 - Git Redesign
-- [libgit2](http://libgit2.github.com/)
+  03:19 - [Ruby Bits Course](https://www.rubyrogues.com/rubybits)03:49 - Book Club (See Below) 04:45 - Zach Holman of [Github](https://github.com/) 06:38 - Git Redesign
+- [libgit2](https://libgit2.github.com/)
 - [libgit2 / rugged](https://github.com/libgit2/rugged)
   12:11 - Features 15:20 - How Ruby fits into the Github polyglot language ecosystem
-- [Erlang](http://www.erlang.org/)
+- [Erlang](https://www.erlang.org/)
   18:03 - New Launches and Internal Tools 21:34 - Company Direction 24:30 - [Github](https://github.com/) and how they use [Github](https://github.com/)
 -
 
-[How Github Uses Github to Build Github: Zach Holman](http://zachholman.com/talk/how-github-uses-github-to-build-github/)
+[How Github Uses Github to Build Github: Zach Holman](https://zachholman.com/talk/how-github-uses-github-to-build-github/)
 
 - Rails 2.3
   32:31 - Follow Recommendations 35:08 - Using [Github](https://github.com/) for projects that are not related to software 41:29 - Working at [Github](https://github.com/)
-- [V](http://newcdn.flamehaus.com/Valve_Handbook_LowRes.pdf)[alve: Handbook For New Employees](http://newcdn.flamehaus.com/Valve_Handbook_LowRes.pdf)
-- [Clay Shirky: How the Internet will (one day) transform government](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html)
-- [http://daytum.com/holman](http://daytum.com/holman)
+- [V](https://newcdn.flamehaus.com/Valve_Handbook_LowRes.pdf)[alve: Handbook For New Employees](https://newcdn.flamehaus.com/Valve_Handbook_LowRes.pdf)
+- [Clay Shirky: How the Internet will (one day) transform government](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html)
+- [https://daytum.com/holman](https://daytum.com/holman)
 
 ### Next Week
 
@@ -37,10 +37,10 @@ Cloud Computing with Wesley Beary
 
 ### Book Club
 
-The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](http://www.informit.com/).
+The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](https://www.informit.com/).
 
-- First create a user account: [www.informit.com/join](http://www.informit.com/join)
-- SAVE 40% When You Buy 2: [www.informit.com/ruby](http://www.informit.com/ruby)
+- First create a user account: [www.informit.com/join](https://www.informit.com/join)
+- SAVE 40% When You Buy 2: [www.informit.com/ruby](https://www.informit.com/ruby)
 - Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
 - (Includes FREE SHIPPING within the U.S.!)
 

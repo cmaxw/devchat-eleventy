@@ -76,7 +76,7 @@ Erik
 
 Joe
 
-- [_Exploring Zero Configuration With Vue_ by Andrew Thauer](http://blog.rangle.io/exploring-zero-configuration-with-vue/)
+- [_Exploring Zero Configuration With Vue_ by Andrew Thauer](https://blog.rangle.io/exploring-zero-configuration-with-vue/)
 - [7 Secret Patterns Vue Consultants Don’t Want You to Know talk by Chris Fritz](https://www.youtube.com/watch?v=7lpemgMhi0k)
 
 Chris

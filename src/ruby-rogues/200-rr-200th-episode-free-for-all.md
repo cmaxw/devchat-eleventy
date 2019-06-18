@@ -16,71 +16,71 @@ tags:
 
 - [Twitter](https://twitter.com/tenderlove)
 - [GitHub](https://github.com/tenderlove)
-- [Blog](http://tenderlovemaking.com/)
-- [Red Hat](http://www.redhat.com/en) \<= They’re [Hiring](http://jobs.redhat.com/)!!
+- [Blog](https://tenderlovemaking.com/)
+- [Red Hat](https://www.redhat.com/en) \<= They’re [Hiring](https://jobs.redhat.com/)!!
 - Mechanical Keyboarding
-  - [ErgoDox.org](http://ergodox.org/)
-  - <u><a style="text-decoration: none;" href="http://www.arduino.cc/">Arduino</a></u>
-  - [The Norman Layout](https://normanlayout.info/) vs <u><a style="line-height: 1.6; text-decoration: none;" href="http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">Dvorak</a></u>
-  - [<u>Ducky Keyboards</u>](http://www.duckychannel.com.tw/en/keyboard.html)
-  - [Atreus Keyboard Kit](http://atreus.technomancy.us/)
+  - [ErgoDox.org](https://ergodox.org/)
+  - <u><a style="text-decoration: none;" href="https://www.arduino.cc/">Arduino</a></u>
+  - [The Norman Layout](https://normanlayout.info/) vs <u><a style="line-height: 1.6; text-decoration: none;" href="https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">Dvorak</a></u>
+  - [<u>Ducky Keyboards</u>](https://www.duckychannel.com.tw/en/keyboard.html)
+  - [Atreus Keyboard Kit](https://atreus.technomancy.us/)
 
 16:45 - What’s Up with James Edward Gray?
 
 - Game Programming
-  - [GameSalad](http://gamesalad.com/)
-  - [Gusu](http://www.libgosu.org/)
+  - [GameSalad](https://gamesalad.com/)
+  - [Gusu](https://www.libgosu.org/)
   - [Dart](https://www.dartlang.org/)
   - [Unreal Engine](https://www.unrealengine.com/)
-  - [Unity](http://unity3d.com/)
-  - <u><a style="text-decoration: none;" href="http://gameprogrammingpatterns.com/">Game Programming Patterns by Bob Nystrom</a></u>
-  - [<u>James Edward Gray’s Book Review on Game Programming Patterns</u>](http://graysoftinc.com/book-reviews/game-programming-patterns)
-  - [<u>Blender</u>](http://www.blender.org/)
+  - [Unity](https://unity3d.com/)
+  - <u><a style="text-decoration: none;" href="https://gameprogrammingpatterns.com/">Game Programming Patterns by Bob Nystrom</a></u>
+  - [<u>James Edward Gray’s Book Review on Game Programming Patterns</u>](https://graysoftinc.com/book-reviews/game-programming-patterns)
+  - [<u>Blender</u>](https://www.blender.org/)
 - Teaching Kids to Program
-  - [<u>LEGO Mindstorms</u>](http://mindstorms.lego.com/)
-  - <u><a style="line-height: 1.6; text-decoration: none;" href="http://www.wowwee.com/mip/">MiP Robot</a></u>
-  - [Code.org](http://code.org/)
+  - [<u>LEGO Mindstorms</u>](https://mindstorms.lego.com/)
+  - <u><a style="line-height: 1.6; text-decoration: none;" href="https://www.wowwee.com/mip/">MiP Robot</a></u>
+  - [Code.org](https://code.org/)
   - [Joseph Wilk: Programming as Performance (from RubyConf Australia)](https://rubyconf.eventer.com/rubyconf-australia-2015-1223/programming-as-performance-by-joseph-wilk-1733)
-  - [Raspberry Pi](http://www.raspberrypi.org/)
-  - [Sonic Pi](http://sonic-pi.net/)
+  - [Raspberry Pi](https://www.raspberrypi.org/)
+  - [Sonic Pi](https://sonic-pi.net/)
 
 30:16 - What’s Up with Katrina Owen?
 
-- [Splice](http://splice.com)
-- [Bath Ruby Conference](http://2015.bathruby.org/)
+- [Splice](https://splice.com)
+- [Bath Ruby Conference](https://2015.bathruby.org/)
   - [@BathRuby](https://twitter.com/BathRuby)
-  - [[Confreaks] Katrina: Here Be Dragons at Bath Ruby Conference 2015](http://confreaks.tv/videos/bathruby2015-here-be-dragons)
+  - [[Confreaks] Katrina: Here Be Dragons at Bath Ruby Conference 2015](https://confreaks.tv/videos/bathruby2015-here-be-dragons)
 - [The Go Programming Language](https://golang.org/)
-  - <u><a style="text-decoration: none;" href="http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates">Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates</a></u>
-- [<u>Ruby Hero Awards</u>](http://rubyheroes.com/)
-- [<u>99 Bottles Of OOP (Practical Programming Book) by Sandi Metz and Katrina Owen</u>](http://signup.99bottlesbook.com/)
-- [[YouTube] Katrina Owen: Overkill ](https://www.youtube.com/watch?v=GWEEPt8VvmU)&nbsp;(Bob [Exercism](http://www.exercism.io/) Problem)
+  - <u><a style="text-decoration: none;" href="https://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates">Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates</a></u>
+- [<u>Ruby Hero Awards</u>](https://rubyheroes.com/)
+- [<u>99 Bottles Of OOP (Practical Programming Book) by Sandi Metz and Katrina Owen</u>](https://signup.99bottlesbook.com/)
+- [[YouTube] Katrina Owen: Overkill ](https://www.youtube.com/watch?v=GWEEPt8VvmU)&nbsp;(Bob [Exercism](https://www.exercism.io/) Problem)
 
 41:55 - What’s Up with Saron Yitbarek?
 
-- [CodeNewbie](http://www.codenewbie.org/)
+- [CodeNewbie](https://www.codenewbie.org/)
   - [@CodeNewbies](https://twitter.com/CodeNewbies)
   - <u><a style="text-decoration: none;" href="https://twitter.com/hashtag/codenewbie?f=realtime&amp;src=hash">#CodeNewbie</a></u>
   - [Podcast](https://itunes.apple.com/us/podcast/codenewbie/id919219256)
-  - [Discourse Forum](http://discourse.codenewbie.org/)
-  - [Blog](http://www.codenewbie.org/blogs)
+  - [Discourse Forum](https://discourse.codenewbie.org/)
+  - [Blog](https://www.codenewbie.org/blogs)
 - Developer Apprentice at [thoughtbot](https://thoughtbot.com/)
-- <u><a style="text-decoration: none;" href="http://www.nand2tetris.org/">Nand2Tetris</a></u>
-  - [The Elements of Computing Systems: Building a Modern Computer from First Principles by Noam Nisan and Shimon Schocken](http://mitpress.mit.edu/books/elements-computing-systems)
-- [CodeNewbie](http://www.codenewbie.org/) and Hardware
-  - [CodeNewbie Episode #27: Intro to Raspberry Pi with Matt Richardson](http://www.codenewbie.org/podcast/intro-to-raspberry-pi)
-  - <u><a style="text-decoration: none;" href="http://www.codenewbie.org/podcast/the-hardware-marketplace">CodeNewbie Episode #26: The Hardware Marketplace with Julia Grace</a></u>
-  - [CodeNewbie Episode #25: From Software To Hardware with Sara Chipps](http://www.codenewbie.org/podcast/from-software-to-hardware)
-- [[Confreaks] Saron: Reading Code Good at Bath Ruby Conference 2015](http://confreaks.tv/videos/bathruby2015-learning-code-good)
+- <u><a style="text-decoration: none;" href="https://www.nand2tetris.org/">Nand2Tetris</a></u>
+  - [The Elements of Computing Systems: Building a Modern Computer from First Principles by Noam Nisan and Shimon Schocken](https://mitpress.mit.edu/books/elements-computing-systems)
+- [CodeNewbie](https://www.codenewbie.org/) and Hardware
+  - [CodeNewbie Episode #27: Intro to Raspberry Pi with Matt Richardson](https://www.codenewbie.org/podcast/intro-to-raspberry-pi)
+  - <u><a style="text-decoration: none;" href="https://www.codenewbie.org/podcast/the-hardware-marketplace">CodeNewbie Episode #26: The Hardware Marketplace with Julia Grace</a></u>
+  - [CodeNewbie Episode #25: From Software To Hardware with Sara Chipps](https://www.codenewbie.org/podcast/from-software-to-hardware)
+- [[Confreaks] Saron: Reading Code Good at Bath Ruby Conference 2015](https://confreaks.tv/videos/bathruby2015-learning-code-good)
 
 47:31 - A Look Back at the Past 100 Ruby Rogues Episodes and Conference Memories &nbsp;
 
-- [Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates](http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates)
-- [Ruby Rogues Episode #196: Testing Clojure in Ruby with Ashton Kemerling](http://devchat.tv/ruby-rogues/196-rr-testing-clojure-in-ruby-with-ashton-kemerling)
-- [Ruby Midwest](http://www.rubymidwest.com/)
+- [Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates](https://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates)
+- [Ruby Rogues Episode #196: Testing Clojure in Ruby with Ashton Kemerling](https://devchat.tv/ruby-rogues/196-rr-testing-clojure-in-ruby-with-ashton-kemerling)
+- [Ruby Midwest](https://www.rubymidwest.com/)
   - <u><a style="text-decoration: none;" href="https://twitter.com/RubyMidwest">@RubyMidwest</a></u>
   - [[YouTube] Ruby Midwest 2013 Keynote by James Edward Gray II](https://www.youtube.com/watch?v=ZLFeqmh7Dec)
-- [Keep Ruby Weird](http://keeprubyweird.com/)
+- [Keep Ruby Weird](https://keeprubyweird.com/)
   - [@keeprubyweird](https://twitter.com/keeprubyweird)
 
 53:55 - **HI AARON’S MOM! THANKS FOR MAKING AARON PUNNY!** _(Editor’s Note: Aaron didn’t tell you how far into the call it was, but I did. \<3 Mandy)_
@@ -88,7 +88,7 @@ tags:
 55:50 - A Look Back at the Past 100 Ruby Rogues Episodes and Conference Memories (Cont’d)
 
 - James at Scottish Ruby Conf 2013: The Patterns We All Need to Know _(Editor’s Note: I can’t find this must-see video online, but if you can, tweet a link to_ [@therubyrep](https://twitter.com/therubyrep)_)_
-- [[Confreaks] Aaron Patterson: Keep Ruby Weird](http://www.confreaks.com/videos/4785-KeepRubyWeird14-opening-keynote) (Homeopathic Refactoring)
+- [[Confreaks] Aaron Patterson: Keep Ruby Weird](https://www.confreaks.com/videos/4785-KeepRubyWeird14-opening-keynote) (Homeopathic Refactoring)
 
 58:32 - Legacy Rogues: What Changed You and Improved You the Most by Being a Panelist on Ruby Rogues?
 
@@ -100,7 +100,7 @@ tags:
 
 Picks
 
-[<u>The Speed of Dark (Ballantine Reader's Circle) by Elizabeth Moon</u>](http://www.amazon.com/Speed-Dark-Ballantine-Readers-Circle/dp/0345447549/ref=sr_1_1?ie=UTF8&qid=1426613858&sr=8-1&keywords=the+speed+of+dark) (Katrina)[<u>The Curious Incident of the Dog in the Night-Time by Mark Haddon</u>](http://www.amazon.com/The-Curious-Incident-Dog-Night-Time/dp/1400032717) (Katrina)[<u>Atreus Keyboard Kit</u>](http://atreus.technomancy.us/) (Aaron)[<u>Be My Eyes</u>](http://www.bemyeyes.org) (Saron)[<u>March is for Makers</u>](http://www.marchisformakers.com) (Saron)[<u>Hire Saron!</u>](mailto:saron.yitbarek@gmail.com) (Saron)[<u>[Indiegogo] Con Man</u>](https://www.indiegogo.com/projects/con-man) (James)[<u>Alex + Ada</u>](https://imagecomics.com/comics/series/alex-ada) (James)
+[<u>The Speed of Dark (Ballantine Reader's Circle) by Elizabeth Moon</u>](https://www.amazon.com/Speed-Dark-Ballantine-Readers-Circle/dp/0345447549/ref=sr_1_1?ie=UTF8&qid=1426613858&sr=8-1&keywords=the+speed+of+dark) (Katrina)[<u>The Curious Incident of the Dog in the Night-Time by Mark Haddon</u>](https://www.amazon.com/The-Curious-Incident-Dog-Night-Time/dp/1400032717) (Katrina)[<u>Atreus Keyboard Kit</u>](https://atreus.technomancy.us/) (Aaron)[<u>Be My Eyes</u>](https://www.bemyeyes.org) (Saron)[<u>March is for Makers</u>](https://www.marchisformakers.com) (Saron)[<u>Hire Saron!</u>](mailto:saron.yitbarek@gmail.com) (Saron)[<u>[Indiegogo] Con Man</u>](https://www.indiegogo.com/projects/con-man) (James)[<u>Alex + Ada</u>](https://imagecomics.com/comics/series/alex-ada) (James)
 
 ### Transcript
 

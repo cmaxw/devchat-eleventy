@@ -12,8 +12,8 @@ tags:
   - podcast
 ---
 
-<iframe src="http://player.vimeo.com/video/19633680?title=0&amp;byline=0&amp;portrait=0" width="540" height="324" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/19633680?title=0&amp;byline=0&amp;portrait=0" width="540" height="324" frameborder="0"></iframe>
 
 Run your tests faster with parallel_tests gem using all the cores you have on your computer.
 
-[Download](http://traffic.libsyn.com/tmtc/ParallelTests.mov)[Download (iPhone & iPod)](http://traffic.libsyn.com/tmtc/ParallelTestsiPhone.m4v)
+[Download](https://traffic.libsyn.com/tmtc/ParallelTests.mov)[Download (iPhone & iPod)](https://traffic.libsyn.com/tmtc/ParallelTestsiPhone.m4v)

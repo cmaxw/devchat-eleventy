@@ -14,37 +14,37 @@ tags:
 
 ### Panel
 
-- Ben Alman ([twitter](https://twitter.com/cowboy) [github](https://github.com/cowboy) [blog](http://benalman.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Ryan Florence ([twitter](https://twitter.com/ryanflorence) [github](https://github.com/rpflorence) [blog](http://ryanflorence.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Ben Alman ([twitter](https://twitter.com/cowboy) [github](https://github.com/cowboy) [blog](https://benalman.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Ryan Florence ([twitter](https://twitter.com/ryanflorence) [github](https://github.com/rpflorence) [blog](https://ryanflorence.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:34 - Ben Alman Introduction
 
-- [Bocoup](http://bocoup.com/)
+- [Bocoup](https://bocoup.com/)
   02:54 - “Cowboy”
 - Cowboy Coder
-  06:53 - The Birth of [Grunt](http://gruntjs.com/)
-- [Ender](http://ender.jit.su/)
-- [make](http://www.gnu.org/software/make/)
-- [rake](http://rake.rubyforge.org/)
+  06:53 - The Birth of [Grunt](https://gruntjs.com/)
+- [Ender](https://ender.jit.su/)
+- [make](https://www.gnu.org/software/make/)
+- [rake](https://rake.rubyforge.org/)
 - [jake](https://github.com/mde/jake)
   14:34 - Installing Globally & Plugins
-- [JSHint](http://www.jshint.com/)
+- [JSHint](https://www.jshint.com/)
 - [grunt-cli](https://github.com/gruntjs/grunt-cli)
 - [lodash](https://github.com/lodash/lodash)
 - [async](https://github.com/caolan/async)
   20:43 - Managing the project and releasing new versions 22:32 - What is Grunt? What does it do?
-- [jQuery](http://jquery.com/)
+- [jQuery](https://jquery.com/)
 - [libsass](https://github.com/hcatlin/libsass)
-- [SASS](http://sass-lang.com/)
+- [SASS](https://sass-lang.com/)
 - [stylus](https://github.com/learnboost/stylus)
   26:39 - Processes & Building Features
 - [node-task](https://github.com/tkellen/node-task)
-- [guard](http://github.com/guard/guard)
+- [guard](https://github.com/guard/guard)
 - [grunt-contrib-watch](https://github.com/gruntjs/grunt-contrib-watch)
 - [node-prolog](https://github.com/cowboy/node-prolog)
   35:29 - The Node Community and reluctance towards Grunt 41:35 - Why the separation of task loading and configuration? 46:18 - Contributions and Contributing to Grunt 55:18 - What Ben would have done differently building Grunt
@@ -54,15 +54,15 @@ tags:
 
 - Web Components (Ryan)
 - Eliminate Sarcasm (Ryan)
-- [Bee and PuppyCat](http://www.youtube.com/watch?v=lOG_UtLxh58) (Jamison)
-- [MONOPRICE](http://monoprice.com/) (AJ)
-- [AJ O'Neal: Moving to GruntJS](http://blog.coolaj86.com/articles/moving-to-grunt.html) (AJ)
-- [The Best Map Ever Made of America’s Racial Segregation](http://www.wired.com/design/2013/08/how-segregated-is-your-city-this-eye-opening-map-shows-you/?viewall=true) (Chuck)
+- [Bee and PuppyCat](https://www.youtube.com/watch?v=lOG_UtLxh58) (Jamison)
+- [MONOPRICE](https://monoprice.com/) (AJ)
+- [AJ O'Neal: Moving to GruntJS](https://blog.coolaj86.com/articles/moving-to-grunt.html) (AJ)
+- [The Best Map Ever Made of America’s Racial Segregation](https://www.wired.com/design/2013/08/how-segregated-is-your-city-this-eye-opening-map-shows-you/?viewall=true) (Chuck)
 - Clean Off Your Desk (Chuck)
-- [Polygon](http://www.polygon.com/) (Ben)
-- [My Brother, My Brother and Me](http://www.maximumfun.org/shows/my-brother-my-brother-and-me) (Ben)
-- [Echofon](http://www.echofon.com/) (Ben)
-- [Bocoup](http://bocoup.com/) (Ben)
+- [Polygon](https://www.polygon.com/) (Ben)
+- [My Brother, My Brother and Me](https://www.maximumfun.org/shows/my-brother-my-brother-and-me) (Ben)
+- [Echofon](https://www.echofon.com/) (Ben)
+- [Bocoup](https://bocoup.com/) (Ben)
 
 ### Next Week
 

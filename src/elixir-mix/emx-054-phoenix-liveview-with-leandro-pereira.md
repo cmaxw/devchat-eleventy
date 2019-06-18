@@ -5,7 +5,7 @@ title: >
 date: 2019-06-04 10:00:36
 episode_number: 054
 duration: 1:01:51
-audio_url: http://media.devchat.tv/elixir-mix/EMx_054_Phoenix_Live_with_Leandro_Pereir.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_054_Phoenix_Live_with_Leandro_Pereir.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/elixir) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 

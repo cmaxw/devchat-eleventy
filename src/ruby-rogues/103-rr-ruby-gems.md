@@ -14,42 +14,42 @@ tags:
 
 01:22 - Ruby Gems
 
-- [RubyGems.org](http://rubygems.org/)
+- [RubyGems.org](https://rubygems.org/)
 
 03:13 - Should you build a gem?
 
 - Daniel Huckstep ([@darkhelmetlive](https://twitter.com/darkhelmetlive))
 - [Ruby Batteries Included by Daniel Huckstep](https://speakerdeck.com/darkhelmetlive/ruby-batteries-included)
-- [trollop](http://rubygems.org/gems/trollop)
+- [trollop](https://rubygems.org/gems/trollop)
 
 08:12 - Naming Gems
 
 - [gem-love](https://github.com/avdi/gem-love)
 - dash vs underscore
-- [Eric Hodel: How to Name Gems](http://blog.segment7.net/2010/11/15/how-to-name-gems)
+- [Eric Hodel: How to Name Gems](https://blog.segment7.net/2010/11/15/how-to-name-gems)
 
 16:43 - Tools
 
-- [Bundler](http://gembundler.com/)
-- [hoe](http://rubygems.org/gems/hoe)
+- [Bundler](https://gembundler.com/)
+- [hoe](https://rubygems.org/gems/hoe)
 - [jeweler](https://github.com/technicalpickles/jeweler)
-- [What is a gem? - RubyGems Guides](http://guides.rubygems.org/what-is-a-gem/)
-- [require_relative](http://www.ruby-doc.org/core-2.0/Kernel.html#method-i-require_relative)
+- [What is a gem? - RubyGems Guides](https://guides.rubygems.org/what-is-a-gem/)
+- [require_relative](https://www.ruby-doc.org/core-2.0/Kernel.html#method-i-require_relative)
 
 32:50 - Gem Extensions
 
 - [autotest-growl](https://rubygems.org/gems/autotest-growl)
 
-34:39 - Dependencies and Using [Bundler](http://gembundler.com/) to develop gems
+34:39 - Dependencies and Using [Bundler](https://gembundler.com/) to develop gems
 
-- [RubyGems Guides](http://guides.rubygems.org/)
+- [RubyGems Guides](https://guides.rubygems.org/)
 - Gemspec
-- [TourBus Gem](http://github.com/dbrady/tourbus)
+- [TourBus Gem](https://github.com/dbrady/tourbus)
 - [TourBus Gemspec File](https://github.com/dbrady/tourbus/blob/master/tourbus.gemspec)
 - [TourBus Build File](https://github.com/dbrady/tourbus/blob/master/build.sh)
 - [jeweler](https://github.com/technicalpickles/jeweler)
-- [hoe](http://rubygems.org/gems/hoe)
-- [votes.io](http://votes.io/)
+- [hoe](https://rubygems.org/gems/hoe)
+- [votes.io](https://votes.io/)
 
 49:35 - How the gemspec gets used in the lifecycle of gem development
 
@@ -57,11 +57,11 @@ tags:
 
 56:20 - Versioning
 
-- [037 RR Versioning and Releases](http://rubyrogues.com/037-rr-versioning-and-releases/)
+- [037 RR Versioning and Releases](https://rubyrogues.com/037-rr-versioning-and-releases/)
 
 59:00 - Open-Source Licence
 
-- [075 RR Open Source Licenses](http://rubyrogues.com/075-rr-open-source-licenses/)
+- [075 RR Open Source Licenses](https://rubyrogues.com/075-rr-open-source-licenses/)
 
 59:59 - Signing Gems
 
@@ -71,19 +71,19 @@ tags:
 
 01:04:21 - Maintaining Gems
 
-- [051 RR Getting Started with Open Source](http://rubyrogues.com/051-rr-getting-started-with-open-source/)
-- [Highline](http://rubygems.org/gems/highline)
-- [FasterCSV](http://rubygems.org/gems/fastercsv)
+- [051 RR Getting Started with Open Source](https://rubyrogues.com/051-rr-getting-started-with-open-source/)
+- [Highline](https://rubygems.org/gems/highline)
+- [FasterCSV](https://rubygems.org/gems/fastercsv)
 
 01:07:44 - [rakegem](https://github.com/mojombo/rakegem)
 
 01:08:33 - Gem Plugins
 
-- [gem-open](http://rubygems.org/gems/gem-open)
+- [gem-open](https://rubygems.org/gems/gem-open)
 
 ### Next Week
 
-Book Club:&nbsp;[The Rails View by John Athayde and Bruce Williams](http://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20)
+Book Club:&nbsp;[The Rails View by John Athayde and Bruce Williams](https://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20)
 
 ### Transcript
 

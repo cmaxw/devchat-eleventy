@@ -21,7 +21,7 @@ Check out [JS Remote Conf](https://jsremoteconf.com/)!
 - [Twitter](https://twitter.com/robmil/)
 - [GitHub](https://github.com/robmiller)
 - [Blog](https://robm.me.uk/)
-- [Big Fish Marketing](http://bigfishmarketing.com/)
+- [Big Fish Marketing](https://bigfishmarketing.com/)
 - [Text Processing with Ruby: Extracting Value from the Data That Surrounds You with Rob Miller](https://pragprog.com/book/rmtpruby/text-processi)
 
 03:11 - Why does text processing matter?
@@ -36,7 +36,7 @@ Check out [JS Remote Conf](https://jsremoteconf.com/)!
 
 - [Ruby's -e, -n and -p switches](https://robm.me.uk/ruby/2013/11/20/ruby-enp.html)
 - Antipatterns
-- [Class: IO](http://ruby-doc.org/core-2.2.3/IO.html#method-i-each_line)
+- [Class: IO](https://ruby-doc.org/core-2.2.3/IO.html#method-i-each_line)
 
 29:15 - Abstractions and Refactoring
 
@@ -55,7 +55,7 @@ Check out [JS Remote Conf](https://jsremoteconf.com/)!
 - [join](<https://en.wikipedia.org/wiki/Join_(Unix)>)
   Picks
 
-[Text Processing with Ruby: Extracting Value from the Data That Surrounds You with Rob Miller](https://pragprog.com/book/rmtpruby/text-processi) (Avdi)[Data Is Plural by Jeremy Singer-Vine](https://tinyletter.com/data-is-plural) (Avdi)[RubyConf 2015 Videos](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYqT3LHMg4iH270kfyENCpp) (Avdi)[Papers We Love](http://paperswelove.org) (Jessica)[transproc](https://github.com/solnic/transproc) (David)[Does your data fit in RAM?](http://yourdatafitsinram.com/) (David)[advisor](https://github.com/rranelli/advisor) (David)[Swarm Simulator](https://swarmsim.github.io) (Chuck)[15 Minute Podcast Listener chat with Charles Wood](http://rubyrogues.com/15minutes) (Chuck)[Toastmasters](https://www.toastmasters.org/) (Chuck)[All Remote Conferences](https://allremoteconfs.com/) (Chuck)[transproc](https://github.com/solnic/transproc)&nbsp;(Rob)[Sequel: The Database Toolkit for Ruby](http://sequel.jeremyevans.net/)&nbsp;(Rob)[Priceless: The Myth of Fair Value (and How to Take Advantage of It) by William Poundstone](http://www.amazon.com/gp/product/0809078813/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0809078813&linkCode=as2&tag=devchattv-20&linkId=YA6PADPIOOCIQUSN) (Rob)
+[Text Processing with Ruby: Extracting Value from the Data That Surrounds You with Rob Miller](https://pragprog.com/book/rmtpruby/text-processi) (Avdi)[Data Is Plural by Jeremy Singer-Vine](https://tinyletter.com/data-is-plural) (Avdi)[RubyConf 2015 Videos](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYqT3LHMg4iH270kfyENCpp) (Avdi)[Papers We Love](https://paperswelove.org) (Jessica)[transproc](https://github.com/solnic/transproc) (David)[Does your data fit in RAM?](https://yourdatafitsinram.com/) (David)[advisor](https://github.com/rranelli/advisor) (David)[Swarm Simulator](https://swarmsim.github.io) (Chuck)[15 Minute Podcast Listener chat with Charles Wood](https://rubyrogues.com/15minutes) (Chuck)[Toastmasters](https://www.toastmasters.org/) (Chuck)[All Remote Conferences](https://allremoteconfs.com/) (Chuck)[transproc](https://github.com/solnic/transproc)&nbsp;(Rob)[Sequel: The Database Toolkit for Ruby](https://sequel.jeremyevans.net/)&nbsp;(Rob)[Priceless: The Myth of Fair Value (and How to Take Advantage of It) by William Poundstone](https://www.amazon.com/gp/product/0809078813/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0809078813&linkCode=as2&tag=devchattv-20&linkId=YA6PADPIOOCIQUSN) (Rob)
 
 ### Transcript
 

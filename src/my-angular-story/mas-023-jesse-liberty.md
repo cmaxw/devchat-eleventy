@@ -38,21 +38,21 @@ tags:
 - and much, much more!
   **Links:&nbsp;**
 - https://github.com/JesseLiberty
-- http://jesseliberty.com
+- https://jesseliberty.com
 - https://www.pluralsight.com/authors/jesse-liberty
 - [https://www.lynda.com/Jesse-Liberty/8679216-1.html](https://www.lynda.com/Jesse-Liberty/8679216-1.html)
-- [http://jesseliberty.me](http://jesseliberty.me)
+- [https://jesseliberty.me](https://jesseliberty.me)
 - **@** JesseLiberty
 - [AiA Episode 015](https://devchat.tv/adv-in-angular/015-aia-angular-and-kendo-ui-with-jesse-liberty)
 - https://www.wintellect.com
   **Picks** Jesse
 - [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
-- [amazon.com/shop/jesseleiberty](http://amazon.com/shop/jesseleiberty)
+- [amazon.com/shop/jesseleiberty](https://amazon.com/shop/jesseleiberty)
   Charles
 - [Visual Studio Live Share](https://code.visualstudio.com/blogs/2017/11/15/live-share)
 - [https://www.stitcher.com/podcast/javascript-jabber/e/52309775?autoplay=true](https://www.stitcher.com/podcast/javascript-jabber/e/52309775?autoplay=true)
 - [The Wheel of Time&nbsp;](https://www.amazon.com/Wheel-Time-Boxed-Set-Books/dp/0812538366)
-- [2 Keto Dudes](http://2ketodudes.com)
+- [2 Keto Dudes](https://2ketodudes.com)
 - [Keto Reset Diet](https://www.amazon.com/s/?ie=UTF8&keywords=keto+reset+diet&tag=googhydr-20&index=aps&hvadid=241592669233&hvpos=1t1&hvnetw=g&hvrand=9573029492128993141&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028550&hvtargid=aud-397161105788:kwd-327747399348&ref=pd_sl_kynjf4w4b_e)
 - [.NetRocks Podcast&nbsp;](https://www.dotnetrocks.com)
 

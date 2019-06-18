@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-JS Remote Conf will be held from Thursday, January 14th - Saturday, January 16th! [Sign up today!](http://jsremoteconf.com)
+JS Remote Conf will be held from Thursday, January 14th - Saturday, January 16th! [Sign up today!](https://jsremoteconf.com)
 
 &nbsp;
 
@@ -20,18 +20,18 @@ JS Remote Conf will be held from Thursday, January 14th - Saturday, January 16th
 
 - [Twitter](https://twitter.com/youyuxi)
 - [GitHub](https://github.com/yyx990803)
-- [Blog](http://evanyou.me/)
+- [Blog](https://evanyou.me/)
 - [Meteor](https://www.meteor.com/)
 
-02:34 - [Vue.js](http://vuejs.org/) vs Competitors and Motivators Behind the Framework
+02:34 - [Vue.js](https://vuejs.org/) vs Competitors and Motivators Behind the Framework
 
-- [Evan You: Vue.js: A (Re)introduction](http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/)
+- [Evan You: Vue.js: A (Re)introduction](https://blog.evanyou.me/2015/10/25/vuejs-re-introduction/)
 
 07:18 - Use Cases
 
 10:06 - Overlapping Elements and The Component System
 
-- [Getting Started Guide](http://vuejs.org/guide/index.html)
+- [Getting Started Guide](https://vuejs.org/guide/index.html)
 
 11:21 - Pulling in Data
 
@@ -54,7 +54,7 @@ JS Remote Conf will be held from Thursday, January 14th - Saturday, January 16th
 
 24:06 - Vue, Angular, and React: Reactivity and Performance
 
-- [Knockout](http://knockoutjs.com/)
+- [Knockout](https://knockoutjs.com/)
 
 29:06 - Tradeoffs
 
@@ -71,11 +71,11 @@ JS Remote Conf will be held from Thursday, January 14th - Saturday, January 16th
 
 More on Vue.js
 
-- [Laravel Podcast Episode 37: I Love The Things You Are Saying](http://www.laravelpodcast.com/episodes/19454-episode-37-i-love-the-things-you-are-saying)
+- [Laravel Podcast Episode 37: I Love The Things You Are Saying](https://www.laravelpodcast.com/episodes/19454-episode-37-i-love-the-things-you-are-saying)
 - [Developer Tea: Part One: Paul Straw & Sean Washington (@paulstraw & @seanwashington) talk about focus, JavaScript frameworks, and rites of passage](https://developertea.com/episodes/18582) (starting around 16:25)
   Picks
 
-[Daredevil](http://www.imdb.com/title/tt3322312/) (Dave)[AlgoRythmics](https://www.youtube.com/channel/UCIqiLefbVHsOAXDAxQJH7Xw) (Aimee)[Relative Finder](https://www.relativefinder.org/) (Chuck)[FamilySearch](https://familysearch.org/) (Chuck)[Hard Graft](http://www.hardgraft.com/) (Evan)[Piano Phase](http://www.chenalexander.com/Piano-Phase) (Evan)
+[Daredevil](https://www.imdb.com/title/tt3322312/) (Dave)[AlgoRythmics](https://www.youtube.com/channel/UCIqiLefbVHsOAXDAxQJH7Xw) (Aimee)[Relative Finder](https://www.relativefinder.org/) (Chuck)[FamilySearch](https://familysearch.org/) (Chuck)[Hard Graft](https://www.hardgraft.com/) (Evan)[Piano Phase](https://www.chenalexander.com/Piano-Phase) (Evan)
 
 ### Transcript
 

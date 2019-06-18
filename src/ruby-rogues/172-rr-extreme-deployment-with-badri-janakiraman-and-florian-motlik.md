@@ -26,50 +26,50 @@ tags:
     05:09 - Extreme Deployment - Definition and Opposite 09:20 - Tools for Deployment/Process
 - Writing Tests
   10:28 - Application Design
-- [Ross Snyder: Continuous Deployment at Etsy](http://www.slideshare.net/beamrider9/continuous-deployment-at-etsy-a-tale-of-two-approaches)
+- [Ross Snyder: Continuous Deployment at Etsy](https://www.slideshare.net/beamrider9/continuous-deployment-at-etsy-a-tale-of-two-approaches)
   - [Etsy](https://www.etsy.com/)
-    11:38 - [Feature Flags](http://stackoverflow.com/questions/7707383/what-is-a-feature-flag)
-- [Agile](http://en.wikipedia.org/wiki/Agile_software_development)
-- [Extreme Programming](http://www.extremeprogramming.org/)
-- [Schoolhouse Rock!](http://movies.disney.com/schoolhouse-rock)
+    11:38 - [Feature Flags](https://stackoverflow.com/questions/7707383/what-is-a-feature-flag)
+- [Agile](https://en.wikipedia.org/wiki/Agile_software_development)
+- [Extreme Programming](https://www.extremeprogramming.org/)
+- [Schoolhouse Rock!](https://movies.disney.com/schoolhouse-rock)
   - [I’m Just A Bill - Schoolhouse Rock!](https://www.youtube.com/watch?v=FFroMQlKiag)
 - Staging
   18:13 - First Step to Deployment
 - Setting up Workflow
 - Testing
-- [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration)
-  22:36 - [Service-Oriented Architecture](http://en.wikipedia.org/wiki/Service-oriented_architecture) (SOA) 24:29 - APIs
-- [Designing Hypermedia APIs by Steve Klabnik](http://www.designinghypermediaapis.com/)
+- [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
+  22:36 - [Service-Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture) (SOA) 24:29 - APIs
+- [Designing Hypermedia APIs by Steve Klabnik](https://www.designinghypermediaapis.com/)
   27:48 - Migrating Databases
 - Naming
-  34:07 - [Microservices](http://microservices.io/)
-- [Martin Fowler: Microservices](http://martinfowler.com/articles/microservices.html)
-- [Martin Fowler: MicroservicePrerequisites](http://martinfowler.com/bliki/MicroservicePrerequisites.html)
+  34:07 - [Microservices](https://microservices.io/)
+- [Martin Fowler: Microservices](https://martinfowler.com/articles/microservices.html)
+- [Martin Fowler: MicroservicePrerequisites](https://martinfowler.com/bliki/MicroservicePrerequisites.html)
   36:08 - Transitioning to SOA 41:44 - Coupling and Cohesion 43:07 - Deployment with QA Teams
-- [DevOps](http://devops.com/)
-- [Agile vs. Waterfall by Rutul Dave](http://www.cmswire.com/cms/web-cms/web-development-methodologies-agile-vs-waterfall-012266.php)
+- [DevOps](https://devops.com/)
+- [Agile vs. Waterfall by Rutul Dave](https://www.cmswire.com/cms/web-cms/web-development-methodologies-agile-vs-waterfall-012266.php)
   48:11 - Testing Software
-- [AJAX](http://www.w3schools.com/ajax/default.asp)
+- [AJAX](https://www.w3schools.com/ajax/default.asp)
   52:51 - Irreversible Migrations 56:25 - Tools That Help Deployment
-- [Amazon](http://www.amazon.com/)
-- [PaaS](http://en.wikipedia.org/wiki/Platform_as_a_service)
+- [Amazon](https://www.amazon.com/)
+- [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service)
 - [Heroku](https://www.heroku.com/)
-- [Packer](http://www.packer.io/)
+- [Packer](https://www.packer.io/)
 - [Docker](https://www.docker.com/)
-- [Chef](http://www.getchef.com/chef/)
-- [Puppet](http://puppetlabs.com/)
+- [Chef](https://www.getchef.com/chef/)
+- [Puppet](https://puppetlabs.com/)
 - [Terraform](https://github.com/hashicorp/terraform)
-- [Vagrant](http://www.vagrantup.com/)
+- [Vagrant](https://www.vagrantup.com/)
 
 ### See Also
 
-[Mike Brittain: Continuous Deployment: The Dirty Details](http://www.slideshare.net/mikebrittain/mbrittain-continuous-deploymentalm3public)
+[Mike Brittain: Continuous Deployment: The Dirty Details](https://www.slideshare.net/mikebrittain/mbrittain-continuous-deploymentalm3public)
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

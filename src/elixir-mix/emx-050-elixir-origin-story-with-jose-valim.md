@@ -5,7 +5,7 @@ title: >
 date: 2019-05-07 10:00:27
 episode_number: 050
 duration: 1:21:00
-audio_url: http://media.devchat.tv/elixir-mix/EMx_050_Elixir_Origin_Story_with_Jose_Valim.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_050_Elixir_Origin_Story_with_Jose_Valim.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/elixir)offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -43,7 +43,7 @@ José Valim, the creator of Elixir, shares his story with the panel starting wit
 - [https://hexdocs.pm/flow/0.14.3/Flow.html](https://hexdocs.pm/flow/0.14.3/Flow.html)
 - [https://github.com/phoenixframework/phoenix\_pubsub/pull/121#issuecomment-466673652](https://github.com/phoenixframework/phoenix_pubsub/pull/121#issuecomment-466673652)
 - [https://github.com/nashby/jose-vs-oss](https://github.com/nashby/jose-vs-oss)
-- [http://pages.plataformatec.com.br/elixir-development-subscription](http://pages.plataformatec.com.br/elixir-development-subscription)
+- [https://pages.plataformatec.com.br/elixir-development-subscription](https://pages.plataformatec.com.br/elixir-development-subscription)
 - [https://twitter.com/josevalim](https://twitter.com/josevalim)
 - [https://github.com/josevalim](https://github.com/josevalim)
 - [https://www.facebook.com/Elixir-Mix](https://www.facebook.com/Elixir-Mix-302533817267005/)

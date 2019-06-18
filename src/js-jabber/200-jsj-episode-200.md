@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/iammerrick)
 - [GitHub](https://github.com/iammerrick)
-- [Blog](http://merrickchristensen.com/)
+- [Blog](https://merrickchristensen.com/)
 
 03:43 - Favorite Episodes
 
@@ -32,7 +32,7 @@ tags:
 
 08:58 - How have ideas about JavaScript changed since being a panelist on the show?
 
-- [jQuery adding 2 numbers from input fields](http://stackoverflow.com/questions/16269385/jquery-adding-2-numbers-from-input-fields)
+- [jQuery adding 2 numbers from input fields](https://stackoverflow.com/questions/16269385/jquery-adding-2-numbers-from-input-fields)
 
 15:01 - Off the Air Experiences &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -56,16 +56,16 @@ tags:
 - [Adventures in Angular](https://devchat.tv/adventures-in-angular)
 - [Web Security Warriors](https://devchat.tv/web-security-warriors)
 - [React Native Radio](https://devchat.tv/react-native-radio)
-- [JavaScript Air](http://javascriptair.com/)
+- [JavaScript Air](https://javascriptair.com/)
 - [Angular Air](https://angularair.com/)
 
 45:08 - Podcast Administration and Organization; Episode Release Timeline
 
-- [Mandy](http://www.twitter.com/therubyrep)
+- [Mandy](https://www.twitter.com/therubyrep)
 - [Upwork](https://www.upwork.com/)
   Picks
 
-[JavaScript Jabber](https://devchat.tv/js-jabber/) (Joe)[The Harry Potter Audiobooks](https://shop.pottermore.com/en_US/harry-potter-audio-books) (Joe)[Calamity by Brandon Sanderson](http://brandonsanderson.com/tag/calamity/) (Joe)[AngularConnect](http://angularconnect.com/) (Joe)[Dennis Overbye: Gravitational Waves Detected, Confirming Einstein’s Theory](http://www.nytimes.com/2016/02/12/science/ligo-gravitational-waves-black-holes-einstein.html?smprod=nytcore-iphone&smid=nytcore-iphone-share&_r=0) (AJ)[The God Who Weeps: How Mormonism Makes Sense of Life by Terryl Givens](http://amzn.to/20Yfu62) (AJ)[Julia Evans: Have high expectations for your computers](http://jvns.ca/blog/2016/02/10/have-high-expectations-for-computers/) (Jamison)[January 28th GitHub Incident Report](https://github.com/blog/2106-january-28th-incident-report) (Aimee)[Denzel Brade: Front End Dev — Running before you can walk](https://medium.com/@denz_brade/front-end-dev-running-before-you-can-walk-d78a528915b#.enpowa5gp) (Aimee)[Captivating Revised and Updated: Unveiling the Mystery of a Woman's Soul by John Eldredge and Stasi Eldredge](http://www.amazon.com/Captivating-Revised-Updated-Unveiling-Mystery/dp/1400200385) (Aimee)[drone](https://github.com/drone/drone) (Merrick)[Haskell Book](http://haskellbook.com/) (Merrick)[Amazon Prime](http://www.amazon.com/Amazon-Prime-One-Year-Membership/dp/B00DBYBNEE) (Chuck)[nexxt Maine Wall Shelf/Floating Ledge](http://www.amazon.com/gp/product/B00OZJ8YMS?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00) (Chuck) Read the presidential candidate’s books (Chuck)
+[JavaScript Jabber](https://devchat.tv/js-jabber/) (Joe)[The Harry Potter Audiobooks](https://shop.pottermore.com/en_US/harry-potter-audio-books) (Joe)[Calamity by Brandon Sanderson](https://brandonsanderson.com/tag/calamity/) (Joe)[AngularConnect](https://angularconnect.com/) (Joe)[Dennis Overbye: Gravitational Waves Detected, Confirming Einstein’s Theory](https://www.nytimes.com/2016/02/12/science/ligo-gravitational-waves-black-holes-einstein.html?smprod=nytcore-iphone&smid=nytcore-iphone-share&_r=0) (AJ)[The God Who Weeps: How Mormonism Makes Sense of Life by Terryl Givens](https://amzn.to/20Yfu62) (AJ)[Julia Evans: Have high expectations for your computers](https://jvns.ca/blog/2016/02/10/have-high-expectations-for-computers/) (Jamison)[January 28th GitHub Incident Report](https://github.com/blog/2106-january-28th-incident-report) (Aimee)[Denzel Brade: Front End Dev — Running before you can walk](https://medium.com/@denz_brade/front-end-dev-running-before-you-can-walk-d78a528915b#.enpowa5gp) (Aimee)[Captivating Revised and Updated: Unveiling the Mystery of a Woman's Soul by John Eldredge and Stasi Eldredge](https://www.amazon.com/Captivating-Revised-Updated-Unveiling-Mystery/dp/1400200385) (Aimee)[drone](https://github.com/drone/drone) (Merrick)[Haskell Book](https://haskellbook.com/) (Merrick)[Amazon Prime](https://www.amazon.com/Amazon-Prime-One-Year-Membership/dp/B00DBYBNEE) (Chuck)[nexxt Maine Wall Shelf/Floating Ledge](https://www.amazon.com/gp/product/B00OZJ8YMS?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00) (Chuck) Read the presidential candidate’s books (Chuck)
 
 ### Transcript
 

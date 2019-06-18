@@ -12,26 +12,26 @@ tags:
   - podcast
 ---
 
-01:47 - An [Arduino](http://www.arduino.cc/) is a [Microcontroller](http://en.wikipedia.org/wiki/Microcontroller)
+01:47 - An [Arduino](https://www.arduino.cc/) is a [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
 
 03:46 - Where Do You Get an Arduino?
 
-- [Arduino Uno](http://www.arduino.cc/en/Main/ArduinoBoardUno)
+- [Arduino Uno](https://www.arduino.cc/en/Main/ArduinoBoardUno)
 - [SparkFun](https://www.sparkfun.com)
 - [Adafruit](https://www.adafruit.com/)
 
 05:00 - Getting Started (Equipment)
 
-- [Shields](http://www.arduino.cc/en/Main/ArduinoShields)
+- [Shields](https://www.arduino.cc/en/Main/ArduinoShields)
 
 07:58 - Language/Interface
 
-- [Arduino - Software](http://www.arduino.cc/en/Main/Software)
+- [Arduino - Software](https://www.arduino.cc/en/Main/Software)
 - Functions:
   - Setup
   - Loop
 
-13:07 - [Raspberry Pi](https://www.raspberrypi.org/) vs [Arduino](http://www.arduino.cc/)
+13:07 - [Raspberry Pi](https://www.raspberrypi.org/) vs [Arduino](https://www.arduino.cc/)
 
 16:30 - iOS Compatibility
 
@@ -39,13 +39,13 @@ tags:
 - Bluetooth 4.0
   - [The Core Bluetooth Framework](https://developer.apple.com/library/ios/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/AboutCoreBluetooth/Introduction.html)
     - [Packetizer](https://github.com/i-n-g-o/Packetizer)
-    - [Firmata](http://www.arduino.cc/en/Reference/Firmata)
+    - [Firmata](https://www.arduino.cc/en/Reference/Firmata)
 
 24:12 - Projects
 
 - [[Kickstarter] Wired In - Wireless Productivity Sign With Arduino & HomeKit](https://www.kickstarter.com/projects/wiredin/wired-in-wireless-productivity-sign-with-arduino-a)
-  - [Wired In](http://wearewired.in/)
-- [Arduino Esplora](http://www.arduino.cc/en/Main/arduinoBoardEsplora)
+  - [Wired In](https://wearewired.in/)
+- [Arduino Esplora](https://www.arduino.cc/en/Main/arduinoBoardEsplora)
 - [Electric Imp](https://electricimp.com)
 
 32:24 - Patterns
@@ -54,7 +54,7 @@ tags:
 
 Picks
 
-[The 7 Day Startup: You Don't Learn Until You Launch by Dan Norris](http://www.amazon.com/gp/product/1502472392/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1502472392&linkCode=as2&tag=chamaxwoo-20&linkId=VWK7PJ6UQGMLI2LI) (Alondo)[UIKonf 1995 Keynote: Object-Oriented Programming in Objective-C](http://www.sicpers.info/2015/05/object-oriented-programming-in-objective-c/?utm_medium=twitter&utm_source=twitterfeed) (Andrew)[AmScope SE400-Z Professional Binocular Stereo Microscope](http://www.amazon.com/gp/product/B005C75IVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005C75IVM&linkCode=as2&tag=chamaxwoo-20&linkId=KBXMVFPQ5MWG72XQ) (Andrew)[Charlie Christian Neck for Telecasters](http://www.lollarguitars.com/mm5/merchant.mvc?Screen=PROD&Store_Code=LGP&Product_Code=222&Category_Code=charlie-christian-pickups) (Jaim)
+[The 7 Day Startup: You Don't Learn Until You Launch by Dan Norris](https://www.amazon.com/gp/product/1502472392/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1502472392&linkCode=as2&tag=chamaxwoo-20&linkId=VWK7PJ6UQGMLI2LI) (Alondo)[UIKonf 1995 Keynote: Object-Oriented Programming in Objective-C](https://www.sicpers.info/2015/05/object-oriented-programming-in-objective-c/?utm_medium=twitter&utm_source=twitterfeed) (Andrew)[AmScope SE400-Z Professional Binocular Stereo Microscope](https://www.amazon.com/gp/product/B005C75IVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005C75IVM&linkCode=as2&tag=chamaxwoo-20&linkId=KBXMVFPQ5MWG72XQ) (Andrew)[Charlie Christian Neck for Telecasters](https://www.lollarguitars.com/mm5/merchant.mvc?Screen=PROD&Store_Code=LGP&Product_Code=222&Category_Code=charlie-christian-pickups) (Jaim)
 
 ### Transcript
 

@@ -16,57 +16,57 @@ tags:
 
 - [twitter](https://twitter.com/williamcodes)
 - [linkedin](https://www.linkedin.com/in/williamjeffries)
-- [SunGard Consulting Services](http://financialsystems.sungard.com/services/consulting-services)
-- [Heat Seek NYC](http://heatseeknyc.com/)
+- [SunGard Consulting Services](https://financialsystems.sungard.com/services/consulting-services)
+- [Heat Seek NYC](https://heatseeknyc.com/)
 - [Heat Seek Kickstarter Campaign](https://www.kickstarter.com/projects/heatseeknyc/heat-seek-nyc)
   02:53 - How Heat Seek Works 05:17 - An Idea is Born
-- [The Flatiron School](http://flatironschool.com/)
-- [Supermechanical Twine](http://supermechanical.com/twine/)
-- [Tristen Siegel](http://tsiege.github.io/about/)
+- [The Flatiron School](https://flatironschool.com/)
+- [Supermechanical Twine](https://supermechanical.com/twine/)
+- [Tristen Siegel](https://tsiege.github.io/about/)
   06:53 - Getting Funded
 - [Heat Seek Kickstarter Campaign](https://www.kickstarter.com/projects/heatseeknyc/heat-seek-nyc)
-- [NYC BigApps](http://nycbigapps.com/)
+- [NYC BigApps](https://nycbigapps.com/)
   07:53 - Working with the Government
-- [New York Tech Meetup](http://www.meetup.com/ny-tech/)
-- [[TechPresident] De Blasio Names Minerva Tantoco First New York City CTO](http://techpresident.com/news/25265/de-blasio-names-minerva-tantoco-cto)
-- [NYCHA](http://www.nyc.gov/nycha)
-- [NYC HPD (Housing Department)](http://www.nyc.gov/html/hpd/html/home/home.shtml)
-- [NYCEDC](http://www.nycedc.com/)
+- [New York Tech Meetup](https://www.meetup.com/ny-tech/)
+- [[TechPresident] De Blasio Names Minerva Tantoco First New York City CTO](https://techpresident.com/news/25265/de-blasio-names-minerva-tantoco-cto)
+- [NYCHA](https://www.nyc.gov/nycha)
+- [NYC HPD (Housing Department)](https://www.nyc.gov/html/hpd/html/home/home.shtml)
+- [NYCEDC](https://www.nycedc.com/)
   11:39 - Challenges
 - Hardware Contributions
-- [Code For America](http://codeforamerica.org/)
+- [Code For America](https://codeforamerica.org/)
   - [Textizen](https://www.textizen.com/)
-  - [SeeClickFix](http://seeclickfix.com/)
-  - [Engage](http://engage.is/) - [Catarse](http://catarse.me/en)
+  - [SeeClickFix](https://seeclickfix.com/)
+  - [Engage](https://engage.is/) - [Catarse](https://catarse.me/en)
     14:00 - How the Sensors Work
 - [Urban Justice Center](https://www.urbanjustice.org/)
   15:03 - How Heat Seek Helps in Court
-- [Prima Facie](http://en.wikipedia.org/wiki/Prima_facie)
+- [Prima Facie](https://en.wikipedia.org/wiki/Prima_facie)
   15:52 - Building the Cold Map
-- [Leaflet.js](http://leafletjs.com/)
+- [Leaflet.js](https://leafletjs.com/)
   16:44 - Restrictions and Government Data
 - [NYC Open Data](https://nycopendata.socrata.com/)
-- [311](http://www.nyc.gov/311)
+- [311](https://www.nyc.gov/311)
   18:04 - Technological Hurdles, Using Ruby, and Choosing Other Tech Tools
 - Sensors
-- [Raspberry Pi](http://www.raspberrypi.org/)
-- [DigiMesh](http://www.digi.com/technology/digimesh/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
+- [DigiMesh](https://www.digi.com/technology/digimesh/)
   22:00 - Data 25:21 - Getting Ready for this Upcoming Winter & Distributing Sensors 26:59 - Getting Involved in “Civic Hacking”
-- [The Environmental Performance Index (EPI)](http://epi.yale.edu/)
-- [Code For America](http://codeforamerica.org/)
+- [The Environmental Performance Index (EPI)](https://epi.yale.edu/)
+- [Code For America](https://codeforamerica.org/)
 
 ### See Also
 
-- [William and Tristan Present Heat Seek NYC at New York Tech Meetup](http://vimeo.com/97529263)
+- [William and Tristan Present Heat Seek NYC at New York Tech Meetup](https://vimeo.com/97529263)
 - [Heat Seek NYC Aims to Keep the City Warm with Code](https://medium.com/@FlatironSchool/heat-seek-nyc-aims-to-keep-the-city-warm-with-code-d1da5d2a2641)
-- [[The Flatiron School] Project Recap: Heat Seek NYC](http://blog.flatironschool.com/post/86335071438/project-recap-heat-seek-nyc)
-- [[WIRED] How to Use the Internet of Things to Fight Slumlords](http://www.wired.com/2014/08/heat-seek-nyc/)
+- [[The Flatiron School] Project Recap: Heat Seek NYC](https://blog.flatironschool.com/post/86335071438/project-recap-heat-seek-nyc)
+- [[WIRED] How to Use the Internet of Things to Fight Slumlords](https://www.wired.com/2014/08/heat-seek-nyc/)
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

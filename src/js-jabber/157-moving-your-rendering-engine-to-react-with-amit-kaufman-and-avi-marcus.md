@@ -15,12 +15,12 @@ tags:
 02:43 - Amit Kaufman Introduction
 
 - [GitHub](https://github.com/amitkaufman)
-- [Wix](http://www.wix.com/)
+- [Wix](https://www.wix.com/)
 
 03:07 - Avi Marcus Introduction
 
 - [GitHub](https://github.com/avi)
-- [Wix](http://www.wix.com/)
+- [Wix](https://www.wix.com/)
 
 04:35 - Why Move Your Rendering Engine to [React](https://facebook.github.io/react/)?
 
@@ -28,11 +28,11 @@ tags:
 
 07:25 - Using JavaScript
 
-- [Object-Oriented Programming](http://en.wikipedia.org/wiki/Object-oriented_programming)
+- [Object-Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
 09:57 - Business Process and Progression (Getting Managerial Approval)
 
-- [Client-Side vs. Server-Side Rendering](http://openmymind.net/2012/5/30/Client-Side-vs-Server-Side-Rendering/)
+- [Client-Side vs. Server-Side Rendering](https://openmymind.net/2012/5/30/Client-Side-vs-Server-Side-Rendering/)
 
 12:46 - Manipulation
 
@@ -52,7 +52,7 @@ tags:
 
 - Lazy Components
 
-31:31 - [Immutability](http://en.wikipedia.org/wiki/Immutable_object)
+31:31 - [Immutability](https://en.wikipedia.org/wiki/Immutable_object)
 
 34:36 - [Flux](https://facebook.github.io/flux/) and Keeping Code Maintainable
 
@@ -62,11 +62,11 @@ tags:
 
 Picks
 
-[Notes on the book "Art & Fear" by David Bayles & Ted Orland](http://joel.franusic.com/2015/02/27/notes-on-art-and-fear/) (Jamison)[Papers](http://www.papersapp.com/) (Jamison)[Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) (Jamison)[LDS Conference Talks](https://www.lds.org/general-conference/sessions/2015/04?lang=eng) (AJ)[Stephen Young: Why your code is so hard to understand](http://aestheticio.com/why-your-code-is-hard-to-understand/) (Aimee)[Kombucha](http://www.synergydrinks.com/) (Aimee)[Pascal Precht: Integrating Web Components with AngularJS](http://pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/) (Pascal)[Template Syntax Constraints and Reasoning (Design Doc)](https://docs.google.com/document/d/1HHy_zPLGqJj0bHMiWPzPCxn1pO5GlOYwmv-qGgl4f_s/edit) (Pascal)[RUNNING WITH RIFLES](http://store.steampowered.com/app/270150/) (Joe)[[Pluralsight Webinar] AngularJS 2.0: What you need to know with Joe](https://get.pluralsight.com/AngularJS-20-What-you-need-to-know_Registration-Page) (Joe)[Whiplash](http://www.imdb.com/title/tt2582802/) (Amit)[Dan Ariely: What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work) (Amit)[React Templates](http://wix.github.io/react-templates/) (Amit)[Esprima](http://esprima.org/) (Avi)[Big Hero 6](http://www.imdb.com/title/tt2245084/) (Avi)
+[Notes on the book "Art & Fear" by David Bayles & Ted Orland](https://joel.franusic.com/2015/02/27/notes-on-art-and-fear/) (Jamison)[Papers](https://www.papersapp.com/) (Jamison)[Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) (Jamison)[LDS Conference Talks](https://www.lds.org/general-conference/sessions/2015/04?lang=eng) (AJ)[Stephen Young: Why your code is so hard to understand](https://aestheticio.com/why-your-code-is-hard-to-understand/) (Aimee)[Kombucha](https://www.synergydrinks.com/) (Aimee)[Pascal Precht: Integrating Web Components with AngularJS](https://pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/) (Pascal)[Template Syntax Constraints and Reasoning (Design Doc)](https://docs.google.com/document/d/1HHy_zPLGqJj0bHMiWPzPCxn1pO5GlOYwmv-qGgl4f_s/edit) (Pascal)[RUNNING WITH RIFLES](https://store.steampowered.com/app/270150/) (Joe)[[Pluralsight Webinar] AngularJS 2.0: What you need to know with Joe](https://get.pluralsight.com/AngularJS-20-What-you-need-to-know_Registration-Page) (Joe)[Whiplash](https://www.imdb.com/title/tt2582802/) (Amit)[Dan Ariely: What makes us feel good about our work?](https://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work) (Amit)[React Templates](https://wix.github.io/react-templates/) (Amit)[Esprima](https://esprima.org/) (Avi)[Big Hero 6](https://www.imdb.com/title/tt2245084/) (Avi)
 
 &nbsp;
 
-Check out and sign up to get new on [React Rally](http://www.reactrally.com): A community React conference on August 24th and 25th in Salt Lake City, Utah!
+Check out and sign up to get new on [React Rally](https://www.reactrally.com): A community React conference on August 24th and 25th in Salt Lake City, Utah!
 
 ### Transcript
 

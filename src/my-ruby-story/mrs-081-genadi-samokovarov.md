@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/astory) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 **Host:** Charles Max Wood **Guest:** &nbsp;Genadi Samokovarov
@@ -23,7 +23,7 @@ In this episode of My Ruby Story, Charles chats with Genadi Samokovarov, a softw
 ### **Links**
 
 - [RR 386: Web Console Internals with Genadi Samokovarov](https://devchat.tv/ruby-rogues/rr-386-web-console-internals-with-genadi-samokovarov)
-- [http://gsamokovarov.com/](http://gsamokovarov.com/)
+- [https://gsamokovarov.com/](https://gsamokovarov.com/)
 - [https://libraries.io/github/gsamokovarov](https://libraries.io/github/gsamokovarov)
 - [https://twitter.com/gsamokovarov/](https://twitter.com/gsamokovarov/)
 - [https://github.com/gsamokovarov](https://github.com/gsamokovarov)

@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [Triplebyte](https://triplebyte.com/vue)
 - [CacheFly](https://www.cachefly.com/)
 
@@ -34,7 +34,7 @@ Damian Dulisz, a core team member of vuejs, introduces his various libraries and
 - [https://vue-multiselect.js.org/](https://vue-multiselect.js.org/)
 - [https://github.com/shentao/composing-components/](https://github.com/shentao/composing-components/)
 - [https://vuejs.org/](https://vuejs.org/)
-- [Chat.vuejs.org](http://chat.vuejs.org)
+- [Chat.vuejs.org](https://chat.vuejs.org)
 - [https://github.com/shentao/](https://github.com/shentao/)
 - [https://twitter.com/damiandulisz](https://twitter.com/damiandulisz)
 - [https://dulisz.com/](https://dulisz.com/)

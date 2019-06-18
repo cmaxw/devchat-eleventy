@@ -12,33 +12,33 @@ tags:
   - podcast
 ---
 
-02:17 - [Persistence](<http://en.wikipedia.org/wiki/Persistence_(computer_science)>)
+02:17 - [Persistence](<https://en.wikipedia.org/wiki/Persistence_(computer_science)>)
 
 03:08 - Approaches for Persistence
 
 - [NSUserDefaults](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSUserDefaults_Class/index.html)
 
-06:03 - [NSCoding](http://developer.apple.com/documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/index.html)
+06:03 - [NSCoding](https://developer.apple.com/documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/index.html)
 
 - [NSKeyedArchiver](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Classes/NSKeyedArchiver_Class/index.html)
 
-07:57 - [.plists (Property Lists)](http://en.wikipedia.org/wiki/Property_list)
+07:57 - [.plists (Property Lists)](https://en.wikipedia.org/wiki/Property_list)
 
 10:44 - Options for Handling Large Elements&nbsp;&nbsp; &nbsp;
 
-- [SQLite](http://www.sqlite.org/)
-- [Core Data](http://en.wikipedia.org/wiki/Core_Data)
+- [SQLite](https://www.sqlite.org/)
+- [Core Data](https://en.wikipedia.org/wiki/Core_Data)
 
-12:29 - [SQLite](http://www.sqlite.org/) & [Core Data](http://en.wikipedia.org/wiki/Core_Data) Pros and Cons
+12:29 - [SQLite](https://www.sqlite.org/) & [Core Data](https://en.wikipedia.org/wiki/Core_Data) Pros and Cons
 
-- [Object Graphs](http://en.wikipedia.org/wiki/Object_graph) vs [ORMs](http://en.wikipedia.org/wiki/Object-relational_mapping)
-- [Multithreading](<http://en.wikipedia.org/wiki/Multithreading_(computer_architecture)>)
+- [Object Graphs](https://en.wikipedia.org/wiki/Object_graph) vs [ORMs](https://en.wikipedia.org/wiki/Object-relational_mapping)
+- [Multithreading](<https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)>)
 - Undo/Redo Support
 - Different Stores
 
 23:40 - Different Implementations with Core Data
 
-- [Aether](http://aetherlog.com/)
+- [Aether](https://aetherlog.com/)
 
 25:29 - Binary
 
@@ -51,7 +51,7 @@ tags:
 - [Realm](https://realm.io/)
 - [YapDatabase](https://github.com/yapstudios/YapDatabase)
 - [fmdb](https://github.com/ccgus/fmdb)
-- [CouchDB](http://couchdb.apache.org/)
+- [CouchDB](https://couchdb.apache.org/)
 
 32:24 - APIs, Crashing Issues
 
@@ -61,9 +61,9 @@ tags:
 
 Picks
 
-[Marcus Zarra: My Core Data Stack](http://martiancraft.com/blog/2015/03/core-data-stack/) (Alondo)[NSHipster: NSUndoManager](http://nshipster.com/nsundomanager/) (Alondo)[The Lytro Camera](https://www.lytro.com/) (Andrew) Don’t drink coffee as soon as you wake up (Jaim)&nbsp;
+[Marcus Zarra: My Core Data Stack](https://martiancraft.com/blog/2015/03/core-data-stack/) (Alondo)[NSHipster: NSUndoManager](https://nshipster.com/nsundomanager/) (Alondo)[The Lytro Camera](https://www.lytro.com/) (Andrew) Don’t drink coffee as soon as you wake up (Jaim)&nbsp;
 
-iPhreaks T-Shirts are available via [Teespring](http://teespring.com/)! Visit [teespring.com/iphreaks](http://teespring.com/iphreaks) to reserve yours by Wednesday, May 6th!
+iPhreaks T-Shirts are available via [Teespring](https://teespring.com/)! Visit [teespring.com/iphreaks](https://teespring.com/iphreaks) to reserve yours by Wednesday, May 6th!
 
 T-shirt styles include: unisex up to 3x, ladies', hoodies, and long sleeve tees. Teespring also offers international shipping so that all of our listeners have a chance to buy!&nbsp; &nbsp;
 

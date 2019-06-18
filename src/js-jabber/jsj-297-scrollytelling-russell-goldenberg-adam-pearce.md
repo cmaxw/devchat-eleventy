@@ -39,7 +39,7 @@ tags:
 - **@** codenberg
 - **@** adamrpearce
 - [https://pudding.cool/](https://pudding.cool/)
-- [http://russellgoldenberg.github.io](http://russellgoldenberg.github.io)
+- [https://russellgoldenberg.github.io](https://russellgoldenberg.github.io)
 - [https://github.com/1wheel?direction=desc&sort=created&tab=stars](https://github.com/1wheel?direction=desc&sort=created&tab=stars)
 - https://roadtolarissa.com
   **Picks:** Adam

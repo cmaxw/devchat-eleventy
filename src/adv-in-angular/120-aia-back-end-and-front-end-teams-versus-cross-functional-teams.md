@@ -16,7 +16,7 @@ tags:
 
 ### **Picks:**
 
-[_Doctor Strange_](http://www.imdb.com/title/tt1211837/) (Joe)[_Hacksaw Ridge_](http://www.imdb.com/title/tt2119532/) (Joe)Major League Soccer finals (Joe)[React Native Radio](https://devchat.tv/react-native-radio)(Charles)[Ignite - Infinite Red](https://infinite.red/ignite) (Charles)[Frontend Masters](https://frontendmasters.com/)(Charles)
+[_Doctor Strange_](https://www.imdb.com/title/tt1211837/) (Joe)[_Hacksaw Ridge_](https://www.imdb.com/title/tt2119532/) (Joe)Major League Soccer finals (Joe)[React Native Radio](https://devchat.tv/react-native-radio)(Charles)[Ignite - Infinite Red](https://infinite.red/ignite) (Charles)[Frontend Masters](https://frontendmasters.com/)(Charles)
 
 ### Transcript
 

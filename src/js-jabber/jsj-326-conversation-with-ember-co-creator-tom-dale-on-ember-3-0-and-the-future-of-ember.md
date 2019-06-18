@@ -36,7 +36,7 @@ In this episode, the JavaScript Jabber panel talks to Tom Dale about Ember 3.0 a
 - All about Ember 3.0
 - Banner feature – there is nothing new
 - Cracked how you develop software in the open source world that has longevity
-- Major competition in [Backbone](http://backbonejs.org/) previously
+- Major competition in [Backbone](https://backbonejs.org/) previously
 - The Ember community has never been more vibrant
 - Tendency towards disposable software
 - The idea of steady iteration towards improvement
@@ -54,7 +54,7 @@ In this episode, the JavaScript Jabber panel talks to Tom Dale about Ember 3.0 a
 - [Ember](https://www.emberjs.com/)
 - [LinkedIn](https://www.linkedin.com/)
 - [JavaScript](https://www.javascript.com/)
-- [Backbone](http://backbonejs.org/)
+- [Backbone](https://backbonejs.org/)
 - [Python](https://www.python.org/)
 - [@tomdale](https://twitter.com/tomdale?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [tomdale.net](https://tomdale.net/)
@@ -76,7 +76,7 @@ Joe
 
 Aimee
 
-- [_Maker's Schedule, Manager's Schedule_ by Paul Graham](http://www.paulgraham.com/makersschedule.html)
+- [_Maker's Schedule, Manager's Schedule_ by Paul Graham](https://www.paulgraham.com/makersschedule.html)
 
 AJ
 

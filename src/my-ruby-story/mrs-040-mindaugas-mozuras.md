@@ -26,7 +26,7 @@ This week on My Ruby Story, Charles talks to Mindaugas Mozūras. Mindaugas is fr
 - Communication is key
 - How did you first get into programming?
 - His father’s computer at work got him into computers
-- Class in school that taught[Pascal](http://www.pascal-programming.info/index.php)
+- Class in school that taught[Pascal](https://www.pascal-programming.info/index.php)
 - How have things changed since you first started?
 - Didn’t see programming as a career at first
 - Programming didn’t seem like a “serious” career choice
@@ -47,11 +47,11 @@ This week on My Ruby Story, Charles talks to Mindaugas Mozūras. Mindaugas is fr
 - [Vinted](https://www.vinted.com/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Pronto](https://github.com/prontolabs/pronto)
-- [Pascal](http://www.pascal-programming.info/index.php)
+- [Pascal](https://www.pascal-programming.info/index.php)
 - [Nancy](https://github.com/NancyFx/Nancy)
 - [Mindaugas’s GitHub](https://github.com/mmozuras)
 - [@mmozuras](https://twitter.com/mmozuras?lang=en)
-- [CodingFearlessly.com](http://codingfearlessly.com/)
+- [CodingFearlessly.com](https://codingfearlessly.com/)
 
 **Picks:**
 

@@ -14,46 +14,46 @@ tags:
 
 ### Panel
 
-- Pete Hunt ([twitter](http://www.twitter.com/floydophone) [github](http://www.github.com/petehunt) [blog](http://www.quora.com/Pete-Hunt/Posts))
+- Pete Hunt ([twitter](https://www.twitter.com/floydophone) [github](https://www.github.com/petehunt) [blog](https://www.quora.com/Pete-Hunt/Posts))
 - Jordan Walke ([twitter](https://twitter.com/jordwalke) [github](https://github.com/jordwalke))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:34 - Pete Hunt Introduction
 
-- [Instagram](http://www.instagram.com/)
-- [Facebook](http://www.facebook.com/)
-  02:45 - Jordan Walke Introduction 04:15 - [React](http://facebook.github.io/react/)
+- [Instagram](https://www.instagram.com/)
+- [Facebook](https://www.facebook.com/)
+  02:45 - Jordan Walke Introduction 04:15 - [React](https://facebook.github.io/react/)
 - [React - GitHub](https://github.com/facebook/react)
-  06:38 - 60 Frames Per Second 09:34 - Data Binding 12:31 - Performance 17:39 - Diffing Algorithm 19:36 - DOM Manipulation 23:06 - Supporting [node.js](http://nodejs.org/)24:03 - [rendr](https://github.com/airbnb/rendr)26:02 - [JSX](https://github.com/jsx/JSX)30:31 - requestAnimationFrame 34:15 - React and Applications 38:12 - React Users
+  06:38 - 60 Frames Per Second 09:34 - Data Binding 12:31 - Performance 17:39 - Diffing Algorithm 19:36 - DOM Manipulation 23:06 - Supporting [node.js](https://nodejs.org/)24:03 - [rendr](https://github.com/airbnb/rendr)26:02 - [JSX](https://github.com/jsx/JSX)30:31 - requestAnimationFrame 34:15 - React and Applications 38:12 - React Users
 - [Khan Academy](https://www.khanacademy.org/)
   39:53 - Making it work
 
 ### Picks
 
-- [Ben Mabey: Clojure Plain & Simple](http://www.slideshare.net/bmabey/clojure-plainandsimple) (Jamison)
-- [JSConf 2013 Videos](http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx) (Jamison)
+- [Ben Mabey: Clojure Plain & Simple](https://www.slideshare.net/bmabey/clojure-plainandsimple) (Jamison)
+- [JSConf 2013 Videos](https://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx) (Jamison)
 - Kittens (Jamison)
-- [PBS Idea Channel](http://www.youtube.com/user/pbsideachannel) (AJ)
-- [Free Trial SSL](http://www.instantssl.com/ssl-certificate-products/free-ssl-certificate.html) (AJ)
+- [PBS Idea Channel](https://www.youtube.com/user/pbsideachannel) (AJ)
+- [Free Trial SSL](https://www.instantssl.com/ssl-certificate-products/free-ssl-certificate.html) (AJ)
 - [OSX Wifi Volume Remote Control](https://plus.google.com/111222501744950155474/posts/H8vKQLcue6N) (AJ)
 - [js-git](https://github.com/creationix/js-git) (Merrick)
 - [vim-airline](https://github.com/bling/vim-airline) (Merrick)
-- [MLS LIVE](http://live.mlssoccer.com/mlsmdl/) (Joe)
-- [Seraphina by Rachel Hartman](http://www.amazon.com/gp/product/0375866566/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0375866566&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [ng-conf](http://www.ng-conf.org/) (Joe)
+- [MLS LIVE](https://live.mlssoccer.com/mlsmdl/) (Joe)
+- [Seraphina by Rachel Hartman](https://www.amazon.com/gp/product/0375866566/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0375866566&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [ng-conf](https://www.ng-conf.org/) (Joe)
 - [Hire Chuck](mailto:chuck@devchat.tv) (Chuck)
-- [GoToMeeting](http://gotomeeting.com/) (Chuck)
-- [ScreenFlow](http://www.telestream.net/screenflow/) (Chuck)
-- [syriandeveloper](http://instagram.com/syriandeveloper) (Pete)
-- [jsFiddle](http://jsfiddle.net/) (Pete)
-- [Hotel Tonight](http://hoteltonight.com/) (Pete)
-- [Green Flash Brewery Beer: Palate Wrecker](http://www.greenflashbrew.com/our-beers.php) (Jordan)
+- [GoToMeeting](https://gotomeeting.com/) (Chuck)
+- [ScreenFlow](https://www.telestream.net/screenflow/) (Chuck)
+- [syriandeveloper](https://instagram.com/syriandeveloper) (Pete)
+- [jsFiddle](https://jsfiddle.net/) (Pete)
+- [Hotel Tonight](https://hoteltonight.com/) (Pete)
+- [Green Flash Brewery Beer: Palate Wrecker](https://www.greenflashbrew.com/our-beers.php) (Jordan)
 - All Things Vim (Jordan)
 
 ### Next Week

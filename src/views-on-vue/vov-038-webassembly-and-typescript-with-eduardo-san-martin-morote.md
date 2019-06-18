@@ -20,7 +20,7 @@ tags:
 
 **Special Guest:** [Eduardo San Martin Morote](https://github.com/posva)
 
-In this episode, the panel talks with [Eduardo San Martin Morote](https://github.com/posva) who is a member of the Vue.js team, a speaker, and trainer who currently resides in France. The panelists and Eduardo talk about developing games, coding, [WebAssembly](https://github.com/webassembly), [C++,](http://www.cplusplus.com) [Vue](https://vuejs.org), [Angular](https://angular.io), memory management, and much more! Check it out!
+In this episode, the panel talks with [Eduardo San Martin Morote](https://github.com/posva) who is a member of the Vue.js team, a speaker, and trainer who currently resides in France. The panelists and Eduardo talk about developing games, coding, [WebAssembly](https://github.com/webassembly), [C++,](https://www.cplusplus.com) [Vue](https://vuejs.org), [Angular](https://angular.io), memory management, and much more! Check it out!
 
 **Show Topics:**
 
@@ -42,7 +42,7 @@ In this episode, the panel talks with [Eduardo San Martin Morote](https://github
 
 3:08 – Guest.
 
-3:17 – Chris: You wrote a lot of [C++?](http://www.cplusplus.com)
+3:17 – Chris: You wrote a lot of [C++?](https://www.cplusplus.com)
 
 3:20 – Guest: Yep!
 
@@ -50,19 +50,19 @@ In this episode, the panel talks with [Eduardo San Martin Morote](https://github
 
 3:50 – Guest: It’s optimized – you can handle 1 million requests per second – but that doesn’t happen unless it’s a huge organization.
 
-4:24 – Chris: Can you talk about [C++?](http://www.cplusplus.com) Compare it to [JavaScript?](https://www.javascript.com)
+4:24 – Chris: Can you talk about [C++?](https://www.cplusplus.com) Compare it to [JavaScript?](https://www.javascript.com)
 
-4:37 – _Joe talks about transferring from JavaScript to_ [_C++._](http://www.cplusplus.com)
+4:37 – _Joe talks about transferring from JavaScript to_ [_C++._](https://www.cplusplus.com)
 
 4:48 – Guest: I am an instructor, too, and teach [Vue.js](https://vuejs.org) to people. The thing to me is the variable scoping of functions.
 
 5:50 – Chris: Variable scoping – let’s not get into too much detail, cause we are an audio medium.
 
-6:10 – Guest: When you look at the syntax and create classes with JavaScript...I think [C++](http://www.cplusplus.com) has always had classes from the beginning.
+6:10 – Guest: When you look at the syntax and create classes with JavaScript...I think [C++](https://www.cplusplus.com) has always had classes from the beginning.
 
-6:58 – Chris: I used to write things back in the day with [C++.](http://www.cplusplus.com) I remember some features that were added later that I never got to take advantage of. I can’t remember what they were. I thought classes were one of those things. It won’t be a fruitful line of discussion cause I would be guessing.
+6:58 – Chris: I used to write things back in the day with [C++.](https://www.cplusplus.com) I remember some features that were added later that I never got to take advantage of. I can’t remember what they were. I thought classes were one of those things. It won’t be a fruitful line of discussion cause I would be guessing.
 
-Chris: What’s different about [C++](http://www.cplusplus.com) is that the types are more important?
+Chris: What’s different about [C++](https://www.cplusplus.com) is that the types are more important?
 
 7:57 – Guest: It’s not that it’s important it’s necessary.
 
@@ -232,7 +232,7 @@ Try TypeScript – it might be for you!
 - [React](https://reactjs.org)
 - [JavaScript](https://www.javascript.com)
 - [C#](https://www.tutorialspoint.com/csharp/)
-- [C++](http://www.cplusplus.com)
+- [C++](https://www.cplusplus.com)
 - [C++ Programming / Memory Management](https://en.wikibooks.org/wiki/C%252B%252B_Programming/Memory_Management)
 - [Angular](https://angular.io)
 - [Blazor](https://github.com/aspnet/Blazor)

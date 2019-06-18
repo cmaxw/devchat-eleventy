@@ -22,16 +22,16 @@ tags:
 
 - [Twitter](https://twitter.com/MattAsher)
 - [GitHub](https://github.com/Mattasher)
-- [Blog](http://mattasher.com/)
+- [Blog](https://mattasher.com/)
 
-02:51 - [EveryBit.js](http://www.everybit.com/) and [I.CX](https://i.cx/)
+02:51 - [EveryBit.js](https://www.everybit.com/) and [I.CX](https://i.cx/)
 
 - [[GitHub] everybit.js](https://github.com/EveryBit-com/everybit.js)
 - [EveryBit.js Whitepaper](https://github.com/EveryBit-com/everybit.js/tree/develop/whitepaper)
 
 03:43 - Architecture
 
-- [Episode #135: Smallest Federated Wiki with Ward Cunningham](http://devchat.tv/js-jabber/135-jsj-smallest-federated-wiki-with-ward-cunningham)
+- [Episode #135: Smallest Federated Wiki with Ward Cunningham](https://devchat.tv/js-jabber/135-jsj-smallest-federated-wiki-with-ward-cunningham)
 
 06:54 - Sustainability and The Pieces of the System
 
@@ -39,13 +39,13 @@ tags:
 - Authentication
 - Storage
   - [Firebase](https://www.firebase.com/)
-  - [Distributed Hash Table (DHT)](http://en.wikipedia.org/wiki/Distributed_hash_table)
-  - [The Chord Algorithm (Peer-to-Peer)](<http://en.wikipedia.org/wiki/Chord_(peer-to-peer)>)
+  - [Distributed Hash Table (DHT)](https://en.wikipedia.org/wiki/Distributed_hash_table)
+  - [The Chord Algorithm (Peer-to-Peer)](<https://en.wikipedia.org/wiki/Chord_(peer-to-peer)>)
 
-21:56 - [Decentralization](http://en.wikipedia.org/wiki/Decentralization)
+21:56 - [Decentralization](https://en.wikipedia.org/wiki/Decentralization)
 
 - [Space Monkey](https://www.spacemonkey.com/)
-- [Madesafe](http://bmsoftware.com/madesafe/index.htm)
+- [Madesafe](https://bmsoftware.com/madesafe/index.htm)
 
 25:20 - Audience: Why Should I Care?
 
@@ -55,7 +55,7 @@ tags:
 - Storage and Performance
 - Users and Data Management
   - Payload Properties
-  - [Metadata](http://en.wikipedia.org/wiki/Metadata)
+  - [Metadata](https://en.wikipedia.org/wiki/Metadata)
   - Graph Database
     - Adding New Relationships
     - Adding Heuristics
@@ -67,19 +67,19 @@ tags:
 
 36:23 - Cloud Storage and Management (Security & Trust)
 
-- [HTTPS](http://en.wikipedia.org/wiki/HTTP_Secure)
+- [HTTPS](https://en.wikipedia.org/wiki/HTTP_Secure)
   - [SSL](https://www.digicert.com/ssl.htm) Model
   - [GPG](https://www.gnupg.org/) Model
 - “Proof of Presence”
-- ["Self-verifying"](http://en.wikipedia.org/wiki/Self-verification_theory)
-  - [Namecoin Project](http://namecoin.info/)
+- ["Self-verifying"](https://en.wikipedia.org/wiki/Self-verification_theory)
+  - [Namecoin Project](https://namecoin.info/)
 
 47:22 - Implementing Cryptographic Primitives
 
 - [bitcoinjs-lib&nbsp;&nbsp; &nbsp;](https://github.com/bitcoinjs/bitcoinjs-lib)
-- [Key Management](http://en.wikipedia.org/wiki/Key_management)
-- [Cryptography](http://en.wikipedia.org/wiki/Cryptography)
-- [OAuth](http://en.wikipedia.org/wiki/OAuth)
+- [Key Management](https://en.wikipedia.org/wiki/Key_management)
+- [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
+- [OAuth](https://en.wikipedia.org/wiki/OAuth)
 
 55:13 - The Firefox Sync Tool Project
 

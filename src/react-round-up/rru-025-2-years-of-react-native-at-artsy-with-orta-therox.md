@@ -26,7 +26,7 @@ In this episode, the React Round Up panelists talk to Orta Therox about his 2 ye
 
 - Orta intro
 - [React Native](https://facebook.github.io/react-native/) and [JavaScript](https://www.javascript.com/)
-- [_React Native at Artsy_](http://artsy.github.io/series/react-native-at-artsy/) blog post
+- [_React Native at Artsy_](https://artsy.github.io/series/react-native-at-artsy/) blog post
 - [_React Native at Airbnb_](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c) blog post
 - Suspense
 - Web engineering
@@ -44,7 +44,7 @@ In this episode, the React Round Up panelists talk to Orta Therox about his 2 ye
 - Allowing anyone to contribute anywhere within their domain
 - How they describe their native engineers
 - More excited about React Native now than when it was released
-- [Artsy React Native Conference](http://artsy.github.io/artsy-x-react-native.html)
+- [Artsy React Native Conference](https://artsy.github.io/artsy-x-react-native.html)
 - And much, much more!
 
 **Links:**
@@ -52,14 +52,14 @@ In this episode, the React Round Up panelists talk to Orta Therox about his 2 ye
 - [Artsy](https://www.artsy.net/)
 - [React Native](https://facebook.github.io/react-native/)
 - [JavaScript](https://www.javascript.com/)
-- [_React Native at Artsy_](http://artsy.github.io/series/react-native-at-artsy/)
+- [_React Native at Artsy_](https://artsy.github.io/series/react-native-at-artsy/)
 - [_React Native at Airbnb_](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 - [GraphQL](https://graphql.org/)
 - [React](https://reactjs.org/)
 - [@orta](https://twitter.com/orta?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [orta.io](http://orta.io/)
+- [orta.io](https://orta.io/)
 - [Orta’s GitHub](https://github.com/orta)
-- [Artsy Engineering](http://artsy.github.io/)
+- [Artsy Engineering](https://artsy.github.io/)
 
 **Sponsors**
 
@@ -72,13 +72,13 @@ In this episode, the React Round Up panelists talk to Orta Therox about his 2 ye
 Nader
 
 - [AWS Amplify](https://aws-amplify.github.io/amplify-js/index.html)
-- [Artsy Engineering](http://artsy.github.io/) blog
+- [Artsy Engineering](https://artsy.github.io/) blog
 - [Nader’s GitHub](https://github.com/dabit3?tab=repositories)
 
 Sia
 
 - [Styled components](https://www.styled-components.com/)
-- [Web Summer Camp](http://2018.websummercamp.com/)
+- [Web Summer Camp](https://2018.websummercamp.com/)
 
 Lucas
 

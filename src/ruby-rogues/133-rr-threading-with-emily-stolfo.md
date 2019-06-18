@@ -14,29 +14,29 @@ tags:
 
 02:00 - Emily Stolfo Introduction
 
-- [MongoDB](http://www.mongodb.org/)
-- [Columbia University](http://www.columbia.edu/)
+- [MongoDB](https://www.mongodb.org/)
+- [Columbia University](https://www.columbia.edu/)
 
-06:46 - [Emily Stolfo: Thread Safety First](http://confreaks.com/videos/2681-gogaruco2013-thread-safety-first)
+06:46 - [Emily Stolfo: Thread Safety First](https://confreaks.com/videos/2681-gogaruco2013-thread-safety-first)
 
-- [José Valim: Concurrency in Ruby: In search of inspiration - RubyKaigi 2013 Keynote](http://vimeo.com/68259585)
+- [José Valim: Concurrency in Ruby: In search of inspiration - RubyKaigi 2013 Keynote](https://vimeo.com/68259585)
 
 07:43 - Threading
 
-- [Mutex](http://www.ruby-doc.org/core-2.0.0/Mutex.html)
-- [JRuby](http://jruby.org/)
-- [MRI](http://en.wikipedia.org/wiki/Ruby_MRI)
+- [Mutex](https://www.ruby-doc.org/core-2.0.0/Mutex.html)
+- [JRuby](https://jruby.org/)
+- [MRI](https://en.wikipedia.org/wiki/Ruby_MRI)
 
 15:49 - “There is no such thing as thread-safe Ruby code.”
 
-- [Ruby Tapas](http://www.rubytapas.com/)
-- [ConditionVariable](http://ruby-doc.org/stdlib-2.0.0/libdoc/thread/rdoc/ConditionVariable.html)
-- [Queue](http://www.ruby-doc.org/stdlib-2.0.0/libdoc/thread/rdoc/Queue.html)
-- [SizedQueue](http://www.ruby-doc.org/stdlib-2.0.0/libdoc/thread/rdoc/SizedQueue.html)
+- [Ruby Tapas](https://www.rubytapas.com/)
+- [ConditionVariable](https://ruby-doc.org/stdlib-2.0.0/libdoc/thread/rdoc/ConditionVariable.html)
+- [Queue](https://www.ruby-doc.org/stdlib-2.0.0/libdoc/thread/rdoc/Queue.html)
+- [SizedQueue](https://www.ruby-doc.org/stdlib-2.0.0/libdoc/thread/rdoc/SizedQueue.html)
 
 20:02 - Debugging
 
-- [Heisenbug](http://en.wikipedia.org/wiki/Heisenbug)
+- [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)
 
 26:57 - Shared Data
 
@@ -46,7 +46,7 @@ tags:
 
 39:49 - Testing Threads
 
-- [The GIL](http://en.wikipedia.org/wiki/Global_Interpreter_Lock)
+- [The GIL](https://en.wikipedia.org/wiki/Global_Interpreter_Lock)
 - [ruby-atomic](https://github.com/headius/ruby-atomic)
 - [thread_safe](https://github.com/headius/thread_safe)
 

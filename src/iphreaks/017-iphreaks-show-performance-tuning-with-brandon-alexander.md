@@ -20,9 +20,9 @@ Panel Brandon Alexander (twitter github blog) Pete Hodgson (twitter github blog)
 
 - [twitter](https://twitter.com/balexander)
 - [github](https://github.com/whilethis)
-- [blog](http://www.whilethis.com/)
-- [Black Pixel](http://blackpixel.com/)
-- [Pro iOS 5 Tools: Xcode, Instruments and Build Tools by Brandon Alexander](http://www.amazon.com/gp/product/1430236086/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430236086&linkCode=as2&tag=chamaxwoo-20)
+- [blog](https://www.whilethis.com/)
+- [Black Pixel](https://blackpixel.com/)
+- [Pro iOS 5 Tools: Xcode, Instruments and Build Tools by Brandon Alexander](https://www.amazon.com/gp/product/1430236086/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430236086&linkCode=as2&tag=chamaxwoo-20)
 
 02:00 - Performance Tooling & User Experience
 
@@ -37,7 +37,7 @@ Panel Brandon Alexander (twitter github blog) Pete Hodgson (twitter github blog)
 - Frames Per Second
 - Time Profiler
 
-16:24 - [OpenGL ES](http://www.khronos.org/opengles/)
+16:24 - [OpenGL ES](https://www.khronos.org/opengles/)
 
 17:35 - Performance Tuning for Memory-Bound Applications
 
@@ -45,8 +45,8 @@ Panel Brandon Alexander (twitter github blog) Pete Hodgson (twitter github blog)
 
 28:16 - Network Requests
 
-- [“ns run loop modes”](http://www.google.com/#bav=on.2,or.r_cp.r_qf.&fp=864939a8a6565982&q=ns+run+loop+modes)
-- [NSURLConnection](http://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSURLConnection_Class/Reference/Reference.html)
+- [“ns run loop modes”](https://www.google.com/#bav=on.2,or.r_cp.r_qf.&fp=864939a8a6565982&q=ns+run+loop+modes)
+- [NSURLConnection](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSURLConnection_Class/Reference/Reference.html)
 
 36:14 - Visual Changes in iOS 7 and Performance Tuning
 

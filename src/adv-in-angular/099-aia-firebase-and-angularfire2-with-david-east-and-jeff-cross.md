@@ -5,7 +5,7 @@ title: >
 date: 2016-06-30 07:00:29
 episode_number: 099
 duration: 48:27
-audio_url: http://media.devchat.tv/adventures-in-angular/AiA099FirebaseAngularFire2.mp3
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA099FirebaseAngularFire2.mp3
 podcast: adv-in-angular
 tags:
   - adv_in_angular
@@ -28,14 +28,14 @@ tags:
   30:53 - Compliance; Security Roles34:11 - What’s coming in Firebase?39:35 - [Firebase YouTube Channel](https://www.youtube.com/user/Firebase)
 - [Firecasts](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnJVX_0zbKytptZGugPIbJR)
   &nbsp;Picks
-- [Ricoh Theta S Digital Camera](http://www.amazon.com/Ricoh-Theta-Digital-Camera-Black/dp/B014US3FQI) (Lukas)
+- [Ricoh Theta S Digital Camera](https://www.amazon.com/Ricoh-Theta-Digital-Camera-Black/dp/B014US3FQI) (Lukas)
 - [Kuula](https://kuula.co/about) (Lukas)
 - [Gaia GPS](https://www.gaiagps.com/) (Ward)
 - [Procrastinate on Purpose: 5 Permissions to Multiply Your Time by Rory Vaden](https://www.amazon.com/Procrastinate-Purpose-Permissions-Multiply-Your/dp/0399170626) (Chuck)
 - [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016) (Chuck)
-- [Aftershokz](http://aftershokz.com/) (Jeff)
+- [Aftershokz](https://aftershokz.com/) (Jeff)
 - [Firebase YouTube Channel](https://www.youtube.com/user/Firebase) (David)
-- [Freakonomics Podcast](http://freakonomics.com/) (David)
+- [Freakonomics Podcast](https://freakonomics.com/) (David)
 
 ### Transcript
 

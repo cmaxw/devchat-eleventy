@@ -5,7 +5,7 @@ title: >
 date: 2019-03-05 11:00:20
 episode_number: 041
 duration: 1:08:11
-audio_url: http://media.devchat.tv/elixir-mix/EMx_041_What_Really_Makes_Erlang_and_Elixir_Fault_Tolerant_and_Scalable_with_Francesco_Cesarini.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_041_What_Really_Makes_Erlang_and_Elixir_Fault_Tolerant_and_Scalable_with_Francesco_Cesarini.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [Triplebyte](https://triplebyte.com/elixir)
 - [CacheFly](https://www.cachefly.com/)
 

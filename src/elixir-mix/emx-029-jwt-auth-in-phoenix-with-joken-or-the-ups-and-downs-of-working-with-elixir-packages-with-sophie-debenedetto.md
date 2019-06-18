@@ -152,7 +152,7 @@ END – [CacheFly!](https://www.cachefly.com)
 - [Break\_In](https://www.break-in.tech)
 - [The Great Code Adventure](https://www.thegreatcodeadventure.com)
 - [Rabbit](https://github.com/rabbitmq)
-- [Sophie’s Website](http://sophiedebenedetto.nyc)
+- [Sophie’s Website](https://sophiedebenedetto.nyc)
 - [Sophie’s Twitter](https://twitter.com/sm_debenedetto?lang=en)
 
 **Sponsors:**

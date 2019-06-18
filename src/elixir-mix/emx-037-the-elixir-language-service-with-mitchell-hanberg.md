@@ -5,7 +5,7 @@ title: >
 date: 2019-02-05 11:00:21
 episode_number: 037
 duration: 37:59
-audio_url: http://media.devchat.tv/elixir-mix/EMx_037_The_Elixir_Language_Service_with_Mitchell_Hanberg.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_037_The_Elixir_Language_Service_with_Mitchell_Hanberg.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io)&nbsp;use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io)&nbsp;use the code "devchat" for $100 credit
 - [TripleByte](https://triplebyte.com/elixir) offers $1000 signing bonus
 - [Cachefly](https://www.cachefly.com/)
 
@@ -48,7 +48,7 @@ Josh
 
 Mitchell Hanberg
 
-- [http://calnewport.com/books/deep-work/](http://calnewport.com/books/deep-work/)
+- [https://calnewport.com/books/deep-work/](https://calnewport.com/books/deep-work/)
 - [https://www.amazon.com/All-new-Kindle-Paperwhite-Waterproof-Storage/](https://www.amazon.com/All-new-Kindle-Paperwhite-Waterproof-Storage/dp/B07CXG6C9W/ref=dp_ob_title_def)
 
 

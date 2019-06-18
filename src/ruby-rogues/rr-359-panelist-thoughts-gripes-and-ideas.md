@@ -35,7 +35,7 @@ In this episode of Ruby Rogues, the panel talk about their thoughts, gripe about
 - You don’t ever save time, you just shift time
 - Do the hard work up front that you can
 - Stages of a system
-- [Rails](http://rubyonrails.org/), [Ruby](https://www.ruby-lang.org/en/), and [JavaScript](https://www.javascript.com/)
+- [Rails](https://rubyonrails.org/), [Ruby](https://www.ruby-lang.org/en/), and [JavaScript](https://www.javascript.com/)
 - Hello World
 - The future of building more complex languages and frameworks
 - Trial and error
@@ -49,7 +49,7 @@ In this episode of Ruby Rogues, the panel talk about their thoughts, gripe about
 - [Rubygems.org](https://rubygems.org/)
 - [npm install](https://docs.npmjs.com/cli/install)
 - [Gem in a Box](https://github.com/geminabox)
-- [Rails](http://rubyonrails.org/)
+- [Rails](https://rubyonrails.org/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [JavaScript](https://www.javascript.com/)
 - [Fullstack developer image](https://pbs.twimg.com/media/DZB9pXaXUAAiREc.jpg)
@@ -60,7 +60,7 @@ Charles
 
 - [NG Conf](https://www.ng-conf.org/)
 - [DevChat.tv/YouTube](https://devchat.tv/youtube)
-- [RubyHack](http://rubyhack.com/)
+- [RubyHack](https://rubyhack.com/)
 - [MicroConf](https://www.microconf.com/)
 - [Microsoft Build](https://www.microsoft.com/en-us/build)
 - New Show Ideas
@@ -69,11 +69,11 @@ Brian
 
 - [_Functional Web Development with Elixir, OTP, and Phoenix_ by Lance Halvorsen](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix)
 - [Chunkwm GitHub](https://github.com/koekeishiya/chunkwm)
-- [Chunkwm Tutorial](http://hde-advent-2017.hatenadiary.jp/entry/2017/12/24/000000)
+- [Chunkwm Tutorial](https://hde-advent-2017.hatenadiary.jp/entry/2017/12/24/000000)
 
 Eric
 
-- [Crabby Bill’s](http://www.crabbybillsirb.com/)
+- [Crabby Bill’s](https://www.crabbybillsirb.com/)
 - [Bob’s Burgers](https://www.fox.com/bobs-burgers/)
 
 David

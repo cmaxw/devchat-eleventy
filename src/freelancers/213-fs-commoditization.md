@@ -15,7 +15,7 @@ tags:
 01:45 - Gary Herman Introduction
 
 - [Twitter](https://twitter.com/garyjherman)
-- [Jabico Enterprises](http://www.jabico.com/)
+- [Jabico Enterprises](https://www.jabico.com/)
   01:49 - Commoditization10:14 - The Changing Landscape of Software Development
 - Craftsman/Architect vs Entrepreneur
   17:48 - Perception of Value23:55 - Utilizing Offshore Teams vs Onshore Teams31:09 - Specialization34:47 - Roadmapping and Building Trust with Clients
@@ -28,13 +28,13 @@ tags:
 - [Jonathan Stark on Huffduffer](https://huffduffer.com/jonathanstark) (Jonathan)
 - [AmazonBasics AA High-Capacity Rechargeable Batteries](https://www.amazon.com/gp/product/B00HZV9WTM/) (Philip)
 - [AmazonBasics Microfiber Cleaning Cloths](https://www.amazon.com/gp/product/B009FUF6DM/) (Philip)
-- [The Prisonbreak Bootcamp](http://commodityprisonbreak.com) (Philip)
+- [The Prisonbreak Bootcamp](https://commodityprisonbreak.com) (Philip)
 - Don’t lose hope (Philip)
 - [Tab Wrangler](https://chrome.google.com/webstore/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh?hl=en) (Chuck)
 - [Privacy Badger](https://www.eff.org/privacybadger) (Chuck)
 - [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en) (Gary)
-- [I am Rebel](http://www.imdb.com/title/tt5793034/) (Gary)
-- [The Founder Institute](http://fi.co/) (Gary)
+- [I am Rebel](https://www.imdb.com/title/tt5793034/) (Gary)
+- [The Founder Institute](https://fi.co/) (Gary)
 
 ### Transcript
 

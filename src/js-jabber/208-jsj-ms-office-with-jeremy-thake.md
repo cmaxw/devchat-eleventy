@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/)&nbsp;2016. In this episode we chatted with Jeremy Thake of Microsoft&nbsp;about MS Office. You can follow him on [Twitter](https://twitter.com/jthake), see what he’s done over on [GitHub](https://github.com/jthake), or visit his [blog](http://www.jeremythake.com/).Resources:[Office Dev Center](http://dev.office.com/)Picks[Billions](http://www.imdb.com/title/tt4270492/) (Jeremy)
+This episode was recorded live from The [Microsoft Build Conference](https://build.microsoft.com/)&nbsp;2016. In this episode we chatted with Jeremy Thake of Microsoft&nbsp;about MS Office. You can follow him on [Twitter](https://twitter.com/jthake), see what he’s done over on [GitHub](https://github.com/jthake), or visit his [blog](https://www.jeremythake.com/).Resources:[Office Dev Center](https://dev.office.com/)Picks[Billions](https://www.imdb.com/title/tt4270492/) (Jeremy)
 
 ### Transcript
 

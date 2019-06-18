@@ -70,7 +70,7 @@ This week on My Ruby Story, Chuck talks with Daniel Clark who is a Ruby and Rust
 
 13:39 – Chuck: Getting those C libraries up?
 
-13:45 – Guest: That is the most recent thing I am working with. My project RU RU hasn’t been worked on in a while, so I created an official fork for it – you can call it: [RUTIE.](http://www.rubyflow.com/p/6h09os-announcing-rutie-the-tie-between-ruby-and-rust) So much work has been put into it. I am very excited about this project. It’s very active right now.
+13:45 – Guest: That is the most recent thing I am working with. My project RU RU hasn’t been worked on in a while, so I created an official fork for it – you can call it: [RUTIE.](https://www.rubyflow.com/p/6h09os-announcing-rutie-the-tie-between-ruby-and-rust) So much work has been put into it. I am very excited about this project. It’s very active right now.
 
 14:56 – Chuck: How do people find you online?
 
@@ -96,7 +96,7 @@ This week on My Ruby Story, Chuck talks with Daniel Clark who is a Ruby and Rust
 
 **Sponsors**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 - Fresh Books
 

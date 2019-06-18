@@ -40,13 +40,13 @@ Kinsey had experiences and has seen it firsthand. She thinks that it is still an
 
 **Kinsey Ann Durham**
 
-- [RubyConf](http://rubyconf.org/)
+- [RubyConf](https://rubyconf.org/)
 - [Organization: Bridge Foundry](https://bridgefoundry.org/)
 - [Twitter: @KinseyAnnDurham](https://twitter.com/kinseyanndurham)
-- [Website: kinseyanndurham.com](http://kinseyanndurham.com/)
+- [Website: kinseyanndurham.com](https://kinseyanndurham.com/)
   **Charles Max Woods**
 - [RubyRogues Parley](https://parley.rubyrogues.com/)
-- [RubyConf](http://rubyconf.org/)
+- [RubyConf](https://rubyconf.org/)
 - [RailsConf](https://railsconf.com/)
 
 ### Transcript

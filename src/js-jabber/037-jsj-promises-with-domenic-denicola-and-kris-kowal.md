@@ -14,13 +14,13 @@ tags:
 
 ### Panel
 
-- Kris Kowal ([twitter](https://twitter.com/kriskowal) [github](https://github.com/kriskowal) [blog](http://about.me/kriskowal))
-- Domenic Denicola ([twitter](https://twitter.com/domenic) [github](https://github.com/domenic) [blog](http://domenicdenicola.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
+- Kris Kowal ([twitter](https://twitter.com/kriskowal) [github](https://github.com/kriskowal) [blog](https://about.me/kriskowal))
+- Domenic Denicola ([twitter](https://twitter.com/domenic) [github](https://github.com/domenic) [blog](https://domenicdenicola.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick)&nbsp;[github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](https://github.com/cmaxw)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Intro to CoffeeScript](http://introtocoffeescript.eventbrite.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/cmaxw)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Intro to CoffeeScript](https://introtocoffeescript.eventbrite.com/))
 
 ### Discussion
 
@@ -30,7 +30,7 @@ tags:
   05:09 - Using Promises from top to bottom 07:08 - Domains
 -
 
-[NodeConf SummerCamp](http://www.nodeconf.com/)
+[NodeConf SummerCamp](https://www.nodeconf.com/)
 07:55 - [Q](https://github.com/kriskowal/q) 10:22 - q.nfbind 11:15 - Q vs jQuery
 
 -
@@ -47,8 +47,8 @@ tags:
 turn
 
 - chaining
-- [JavaScriptStackTraceApi: Overview of the V8 JavaScript stack trace API](http://code.google.com/p/v8/wiki/JavaScriptStackTraceApi) (error.prepare stack trace)
-  19:36 - [Original Promises/A spec](http://wiki.commonjs.org/wiki/Promises/A) and [Promises/A+ spec](http://promises-aplus.github.com/promises-spec/)
+- [JavaScriptStackTraceApi: Overview of the V8 JavaScript stack trace API](https://code.google.com/p/v8/wiki/JavaScriptStackTraceApi) (error.prepare stack trace)
+  19:36 - [Original Promises/A spec](https://wiki.commonjs.org/wiki/Promises/A) and [Promises/A+ spec](https://promises-aplus.github.com/promises-spec/)
 -
 
 [when.js](https://github.com/cujojs/when)
@@ -72,7 +72,7 @@ turn
 spread method
 28:38 - Error Handling
 
-- [causeway](http://www.erights.org/elang/tools/causeway/)
+- [causeway](https://www.erights.org/elang/tools/causeway/)
   32:57 - Benefits of Promises
 - Error Handling
 -
@@ -82,30 +82,30 @@ Multiple Async at once
 -
 
 Handle things before and after they happen
-40:29 - [task.js](http://taskjs.org/) 41:33 - Language
+40:29 - [task.js](https://taskjs.org/) 41:33 - Language
 
 -
 
-[e programming language](http://www.erights.org/)
+[e programming language](https://www.erights.org/)
 
 -
 
-[CoffeeScript](http://coffeescript.org/)
+[CoffeeScript](https://coffeescript.org/)
 44:11 - Mocking Promises 45:44 - Testing Promises
 
 - [Mocha as Promised](https://github.com/domenic/mocha-as-promised)
 
 ### Picks
 
-- [Code Triage](http://www.codetriage.com/) (Jamison)
-- [The Creative Sandbox Guidebook](http://www.creativesandbox.com/guidebook) (Joe)
-- [Steam](http://store.steampowered.com/) (Joe)
-- [Pluralsight](http://pluralsight.com/training) (Joe)
+- [Code Triage](https://www.codetriage.com/) (Jamison)
+- [The Creative Sandbox Guidebook](https://www.creativesandbox.com/guidebook) (Joe)
+- [Steam](https://store.steampowered.com/) (Joe)
+- [Pluralsight](https://pluralsight.com/training) (Joe)
 - [montage](https://github.com/montagejs/montage) (Kris)
 - [montagejs / mr](https://github.com/montagejs/mr) (Kris)
-- [CascadiaJS 2012 - Domenic Denicola](http://www.youtube.com/watch?gl=US&v=HySQR0t_7CI)(Domenic)
+- [CascadiaJS 2012 - Domenic Denicola](https://www.youtube.com/watch?gl=US&v=HySQR0t_7CI)(Domenic)
 - [Omnifocus](https://itunes.apple.com/us/app/omnifocus/id402835630?mt=12) (Chuck)
-- [Buckyballs](http://www.getbuckyballs.com/?gclid=CMqQx5SL_7MCFYZM4AodbAoAmQ) (AJ)
+- [Buckyballs](https://www.getbuckyballs.com/?gclid=CMqQx5SL_7MCFYZM4AodbAoAmQ) (AJ)
 
 ### Transcript
 

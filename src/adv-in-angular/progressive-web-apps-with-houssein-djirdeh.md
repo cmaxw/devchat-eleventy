@@ -32,7 +32,7 @@ With iPhones, you can simply open up the settings and add an app to your home sc
 
 ## Picks:
 
-Alyssa: [Mr. Fruit Gaming Channel and Website](https://www.youtube.com/user/MyMisterFruit)Joe: [Kingkong](http://www.imdb.com/title/tt0360717/), [Star Wars: Rogue One](http://www.imdb.com/title/tt3748528/),&nbsp;[Wallaby](https://wallabyjs.com/)Charles: Slack and Cyrillus Houssein: [Angular--SSR](https://www.npmjs.com/package/angular-ssr),&nbsp;[Citti](http://citti.io/),&nbsp;and [Logan](http://www.imdb.com/title/tt3315342/)
+Alyssa: [Mr. Fruit Gaming Channel and Website](https://www.youtube.com/user/MyMisterFruit)Joe: [Kingkong](https://www.imdb.com/title/tt0360717/), [Star Wars: Rogue One](https://www.imdb.com/title/tt3748528/),&nbsp;[Wallaby](https://wallabyjs.com/)Charles: Slack and Cyrillus Houssein: [Angular--SSR](https://www.npmjs.com/package/angular-ssr),&nbsp;[Citti](https://citti.io/),&nbsp;and [Logan](https://www.imdb.com/title/tt3315342/)
 
 ## Episode Links:
 

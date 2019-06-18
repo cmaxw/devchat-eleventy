@@ -16,15 +16,15 @@ tags:
 
 - “The Magic Formula”
 - [ROI (Return on Investment)](https://www.entrepreneur.com/encyclopedia/return-on-investment-roi)
-- [Upwork](http://upwork.com/)
+- [Upwork](https://upwork.com/)
 - Agencies and Value Pricing
   15:42 - Philip: How do I specialize?
 - Vertical/Horizontal Specialization
 - How do you validate that a vertical is big enough to support your business?
   - The Forktruck Repair Company Invoice Checking Company Example
     29:45 - Jonathan: How do you get paid 100% up-front?&nbsp;Picks
-- [The Consulting Pipeline Podcast: The One Thing I've Never Heard Anywhere Else About How to Do a Great Interview](http://consultingpipelinepodcast.com/18) (Jonathan)
-- [Bomber Jacket Cord Roll](http://www.levenger.com/bomber-jacket-cord-roll-13258.aspx) (Jonathan)
+- [The Consulting Pipeline Podcast: The One Thing I've Never Heard Anywhere Else About How to Do a Great Interview](https://consultingpipelinepodcast.com/18) (Jonathan)
+- [Bomber Jacket Cord Roll](https://www.levenger.com/bomber-jacket-cord-roll-13258.aspx) (Jonathan)
 - [Freeze](https://www.freezeapp.net/) (Philip)
 
 ### Transcript

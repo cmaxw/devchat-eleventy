@@ -14,13 +14,13 @@ tags:
 
 02:39 - Training Backgrounds
 
-- [New Horizons Computer Learning Centers](http://www.newhorizons.com/)
-- [Check Point Software Technologies](http://www.checkpoint.com/)
-- [Microsoft Learning](http://www.microsoft.com/en-us/learning/)
+- [New Horizons Computer Learning Centers](https://www.newhorizons.com/)
+- [Check Point Software Technologies](https://www.checkpoint.com/)
+- [Microsoft Learning](https://www.microsoft.com/en-us/learning/)
 
 12:50 - Do I need to know training before I start training?
 
-- [SISQO](http://www.sisqo.com/)
+- [SISQO](https://www.sisqo.com/)
 
 16:32 - Open-Enrollment Courses
 

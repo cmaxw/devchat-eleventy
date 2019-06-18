@@ -15,24 +15,24 @@ tags:
 
 ## Panel
 
-- Noel Rappin ([twitter](https://twitter.com/noelrap) [github](https://github.com/noelrappin) [blog](http://www.noelrappin.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Intro to CoffeeScript](http://introtocoffeescript.eventbrite.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
+- Noel Rappin ([twitter](https://twitter.com/noelrap) [github](https://github.com/noelrappin) [blog](https://www.noelrappin.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Intro to CoffeeScript](https://introtocoffeescript.eventbrite.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
 
 ## Discussion
 
-00:52 - Works in training and talent development for [Groupon](http://www.groupon.com/) 00:56 - Author of [Rails Test Prescriptions](http://pragprog.com/book/nrtest/rails-test-prescriptions) and upcoming [Master Space and Time with JavaScript](http://www.noelrappin.com/) 01:21 - Writing a book about JavaScript 02:33 - Focus of the book
+00:52 - Works in training and talent development for [Groupon](https://www.groupon.com/) 00:56 - Author of [Rails Test Prescriptions](https://pragprog.com/book/nrtest/rails-test-prescriptions) and upcoming [Master Space and Time with JavaScript](https://www.noelrappin.com/) 01:21 - Writing a book about JavaScript 02:33 - Focus of the book
 
 - Part 1: Jasmine and jQuery and the JavaScript Object Model
 - Part 2: Extended examples of jQuery
 - Part 3: Backbone
 - Part 4: Ember
   03:46 - Self-published authors 05:15 - Approaches and mindsets to learning JavaScript 06:04 - “Gotchas!” and bad features in Javascript 09:17 - Modeling JavaScript for beginners 11:23 - (AJ joins the podcast) 11:42 - Resources/Classes for learning JavaScript
-- [Good Parts Book](http://www.amazon.com/gp/product/0596517742/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596517742&linkCode=as2&tag=chamaxwoo-20): Douglas Crockford
-- [JavaScript Patterns](http://www.amazon.com/gp/product/0596806752/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596806752&linkCode=as2&tag=chamaxwoo-20): Stoyan Stefanov
-- [Eloquent JavaScript: A Modern Introduction to Programming](http://www.amazon.com/gp/product/1593272820/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593272820&linkCode=as2&tag=chamaxwoo-20): Marijn Haverbeke
-- [Maintainable JavaScript](http://www.amazon.com/gp/product/1449327680/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449327680&linkCode=as2&tag=chamaxwoo-20): Nicholas C. Zakas
+- [Good Parts Book](https://www.amazon.com/gp/product/0596517742/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596517742&linkCode=as2&tag=chamaxwoo-20): Douglas Crockford
+- [JavaScript Patterns](https://www.amazon.com/gp/product/0596806752/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596806752&linkCode=as2&tag=chamaxwoo-20): Stoyan Stefanov
+- [Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/gp/product/1593272820/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593272820&linkCode=as2&tag=chamaxwoo-20): Marijn Haverbeke
+- [Maintainable JavaScript](https://www.amazon.com/gp/product/1449327680/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449327680&linkCode=as2&tag=chamaxwoo-20): Nicholas C. Zakas
   13:54 - Hiring people with JavaScript experience at Groupon 15:12 - Training workshops 17:00 - Getting new hires up to speed quickly
 - Pairing
 - Mentoring
@@ -52,24 +52,24 @@ Code Academy
 
 -
 
-[Starter League](http://starterleague.com/)
+[Starter League](https://starterleague.com/)
 40:00 - Finding a mentor
 
-- [Stack Overflow](http://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/)
 
 ### Picks
 
-- [Shrines by Purity Ring](http://www.amazon.com/gp/product/B0082CIVVI/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0082CIVVI&linkCode=as2&tag=chamaxwoo-20) (Jamison)
-- [Learnable Programming: Bret Victor](http://worrydream.com/LearnableProgramming/) (Jamison)
-- [Mob Software: Richard P. Gabriel & Ron Goldman](http://www.dreamsongs.com/MobSoftware.html) (Jamison)
-- [Monoprice.com](http://monoprice.com/) (AJ)
-- [ZREO: Zelda Reorchestrated](http://zreomusic.com/) (AJ)
-- [The Official Twitter App](http://itunes.apple.com/us/app/twitter/id409789998?mt=12) (Chuck)
-- [Fluid App](http://fluidapp.com/) (Chuck)
-- [Try Jasmine!](http://tryjasmine.com/) (Noel)
+- [Shrines by Purity Ring](https://www.amazon.com/gp/product/B0082CIVVI/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0082CIVVI&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [Learnable Programming: Bret Victor](https://worrydream.com/LearnableProgramming/) (Jamison)
+- [Mob Software: Richard P. Gabriel & Ron Goldman](https://www.dreamsongs.com/MobSoftware.html) (Jamison)
+- [Monoprice.com](https://monoprice.com/) (AJ)
+- [ZREO: Zelda Reorchestrated](https://zreomusic.com/) (AJ)
+- [The Official Twitter App](https://itunes.apple.com/us/app/twitter/id409789998?mt=12) (Chuck)
+- [Fluid App](https://fluidapp.com/) (Chuck)
+- [Try Jasmine!](https://tryjasmine.com/) (Noel)
 - [Justin Searls](https://github.com/searls) (Noel)
-- [The Atrocity Archives: Charles Stross](http://www.amazon.com/gp/product/0441016685/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0441016685&linkCode=as2&tag=chamaxwoo-20) (Noel)
-- [Futurity: A Musical by The Lisps](http://www.futuritythemusical.com/) (Noel)
+- [The Atrocity Archives: Charles Stross](https://www.amazon.com/gp/product/0441016685/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0441016685&linkCode=as2&tag=chamaxwoo-20) (Noel)
+- [Futurity: A Musical by The Lisps](https://www.futuritythemusical.com/) (Noel)
 
 ### Transcript
 

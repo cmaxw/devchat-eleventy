@@ -16,13 +16,13 @@ tags:
 
 - [Twitter](https://twitter.com/b0rk)
 - [GitHub](https://github.com/jvns)
-- [Blog](http://jvns.ca/)
+- [Blog](https://jvns.ca/)
 
 02:52 - Derrick Reimer Introduction
 
 - [Twitter](https://twitter.com/derrickreimer)
 - [GitHub](https://github.com/djreimer)
-- [Blog](http://www.scalingsaas.com/)
+- [Blog](https://www.scalingsaas.com/)
 - [Drip](https://www.getdrip.com/)
 - [SaaS = Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
 - [Codetree](https://codetree.com/)
@@ -35,14 +35,14 @@ tags:
 
 12:01 - How has underlying technology helped and gotten in the way?
 
-- [PostgreSQL](http://www.postgresql.org/)
+- [PostgreSQL](https://www.postgresql.org/)
 
 15:18 - Choosing Boring Technology
 
 20:49 - Scaling (Cont’d)
 
 - Caching
-- [Redis](http://redis.io/)
+- [Redis](https://redis.io/)
 
 29:07 - Strategies to Keep the Application Manageable
 
@@ -54,7 +54,7 @@ tags:
 
 40:13 - PrioritizationPicks
 
-[<u>writegif</u>](https://www.npmjs.com/package/writegif) (Derrick)[<u>RuboCop</u>](http://batsov.com/rubocop/) (Derrick)[<u>htop</u>](http://hisham.hm/htop/) (Jessica)[<u>Java Concurrency in Practice</u>](https://www.amazon.ca/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601) (Julia)[<u>HOW TO PRONOUNCE GIF!</u>](https://www.youtube.com/watch?v=MSJaSS_Zj0Y) (David) Teaching a local Ruby class (Avdi)
+[<u>writegif</u>](https://www.npmjs.com/package/writegif) (Derrick)[<u>RuboCop</u>](https://batsov.com/rubocop/) (Derrick)[<u>htop</u>](https://hisham.hm/htop/) (Jessica)[<u>Java Concurrency in Practice</u>](https://www.amazon.ca/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601) (Julia)[<u>HOW TO PRONOUNCE GIF!</u>](https://www.youtube.com/watch?v=MSJaSS_Zj0Y) (David) Teaching a local Ruby class (Avdi)
 
 ### Transcript
 

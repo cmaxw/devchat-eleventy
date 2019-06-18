@@ -60,7 +60,7 @@ In this episode of Adventures in Angular, the panel talks to Minko Gechev about 
 - [WebRTC](https://webrtc.org/)
 - [Minko’s GitHub](https://github.com/mgechev)
 - [@MGechev](https://twitter.com/mgechev?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [Minko’s Blog](http://blog.mgechev.com/)
+- [Minko’s Blog](https://blog.mgechev.com/)
 
 **Picks:**
 

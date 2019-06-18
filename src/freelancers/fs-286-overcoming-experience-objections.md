@@ -40,10 +40,10 @@ tags:
 - [_Specializing With Little or No Relevant Proof_](https://philipmorganconsulting.com/specializing-with-little-or-no-relevant-proof/)
 - [2Bobs Podcast](https://2bobs.com/)
   Reuven
-- [Star Trek: Discovery](http://www.cbs.com/shows/star-trek-discovery/)
-- [_The Mandarin Companion_](http://mandarincompanion.com/)
+- [Star Trek: Discovery](https://www.cbs.com/shows/star-trek-discovery/)
+- [_The Mandarin Companion_](https://mandarincompanion.com/)
   Kai
 - [_The Antidote: Happiness for People Who Can't Stand Positive Thinking_ by Oliver Burkeman](https://www.amazon.com/Antidote-Happiness-People-Positive-Thinking/dp/0865478015)
-- [MARKUS Chair from IKEA](http://www.ikea.com/us/en/catalog/products/00103102/)
+- [MARKUS Chair from IKEA](https://www.ikea.com/us/en/catalog/products/00103102/)
 
 ### Transcript

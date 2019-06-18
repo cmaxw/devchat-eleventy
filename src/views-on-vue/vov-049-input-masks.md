@@ -14,17 +14,17 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)&nbsp;use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/)&nbsp;use the code “devchat” for $100 credit
 - [TripleByte](https://triplebyte.com/vue)
 &nbsp;
 ### **Episode Summary**
 In this episode Chris and Divya discuss the various aspects of making online forms for clients or checkout processes for customers user friendly. They discuss input masking which allows the user who might be a client or customer to input data such as phone numbers and emails in a way that is readable to the user while still allowing the browser to read the information on the website or when filling out an online form. Chris and Divya touch on some basic questions the engineer might come across in creating these fields. These include: where the users cursor is, pasting issues, time zones, autosizing text areas. They go into detail on filling out forms and the options of having multiple end-points one end point, and ways to help the customer or client fill out data smoothly and correctly. They discuss a little about using a progress bar to help users to see how far along they are in the process. They discuss the option of help-text which helps users to quick reference what something might be when filling out a less familiar form. They discuss briefly the usage of max-limit or max-length; AB Testing. Ultimately in this episode, Chris and Divya help those software engineers who are wanting a basic understanding of what questions they might come across to make a client or customers process on the form or site as smooth as possible through input masking and more. 
 ### **Links**
 
-- [cachefly.com](http://cachefly.com)
+- [cachefly.com](https://cachefly.com)
 - [Autosize](https://www.npmjs.com/package/autosize)
 - [Rachel's Cartooning For Developers](https://courses.rachelnabors.com/)
-- [Content Editable](http://content)
+- [Content Editable](https://content)
 - [Get Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
 - [Computer Properties and Watchers](https://vuejs.org/v2/guide/computed.html)
 

@@ -20,12 +20,12 @@ tags:
 
 **Special Guests:** Dotan Nahum
 
-In this episode, the JavaScript Jabber panelists discuss Hygen with Dotan Nahum. Dotan has worked within open source community, where he created [Hygen](http://www.hygen.io/). They talk about what Hygen is, how it came to be, and code generators in general. He was inspired by the [Rails](https://rubyonrails.org/) generator to create his own generator and took his inspiration from 12 years prior to creating Hygen. They also touch on how to share generators in separate packages and much more!
+In this episode, the JavaScript Jabber panelists discuss Hygen with Dotan Nahum. Dotan has worked within open source community, where he created [Hygen](https://www.hygen.io/). They talk about what Hygen is, how it came to be, and code generators in general. He was inspired by the [Rails](https://rubyonrails.org/) generator to create his own generator and took his inspiration from 12 years prior to creating Hygen. They also touch on how to share generators in separate packages and much more!
 
 **In particular, we dive pretty deep on:**
 
 - Dotan intro
-- What is [Hygen](http://www.hygen.io/)?
+- What is [Hygen](https://www.hygen.io/)?
 - Code generators
 - [Rails in 2006](https://rubyonrails.org/)
 - [Ruby on Rails 15-minute blog video](https://www.youtube.com/watch?v=Gzj723LkRJY&feature=youtu.be)
@@ -50,7 +50,7 @@ In this episode, the JavaScript Jabber panelists discuss Hygen with Dotan Nahum.
 
 **Links:**
 
-- [Hygen](http://www.hygen.io/)
+- [Hygen](https://www.hygen.io/)
 - [Rails](https://rubyonrails.org/)
 - [Ruby on Rails 15-minute blog video](https://www.youtube.com/watch?v=Gzj723LkRJY&feature=youtu.be)
 - [Python](https://www.python.org/)

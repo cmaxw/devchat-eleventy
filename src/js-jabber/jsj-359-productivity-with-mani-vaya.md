@@ -30,7 +30,7 @@ tags:
 Joined by special guest: Mani Vaya
 ### **Episode Summary**
 
-Mani is the founder of a book summary business called [www.2000books.com](http://www.2000books.com/)
+Mani is the founder of a book summary business called [www.2000books.com](https://www.2000books.com/)
 
 At 2000 Books, Mani studies the world’s greatest business and personal development books.
 
@@ -121,7 +121,7 @@ Make sure to use the Coupon code “DEVCHAT” to get the discount.
 **Aimee Knight:**
 - [Interested In Becoming A Site Reliability Engineer?](https://medium.com/@tammybutow/graduating-from-bootcamp-and-interested-in-becoming-a-site-reliability-engineer-b69a38ce858b) blog post
 **Charles Max Wood:**
-- [Entreprogrammers episode 248](http://entreprogrammers.libsyn.com/episode-248-pomodoro-action)
+- [Entreprogrammers episode 248](https://entreprogrammers.libsyn.com/episode-248-pomodoro-action)
 - [Kanbonflow](https://kanbanflow.com/)
 - Physical Pomodoro timer
 **Mani Vaya:**

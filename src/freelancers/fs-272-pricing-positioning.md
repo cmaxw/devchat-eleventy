@@ -34,12 +34,12 @@ tags:
 - Raise rates after 3 months
 - And much more!
   **Picks:** Reuven
-- [Naked Money](http://books.wwnorton.com/books/Naked-Money/)
+- [Naked Money](https://books.wwnorton.com/books/Naked-Money/)
 - [New Bills&nbsp;](https://www.youtube.com/watch?v=J2CKHH_KKGE)
   Philip
 - [NutriBullet Blender&nbsp;](https://www.amazon.com/gp/product/B01N6PO7P0/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
   Kai
-- [Article on Steak&nbsp;](http://idlewords.com/2006/04/argentina_on_two_steaks_a_day.htm)
+- [Article on Steak&nbsp;](https://idlewords.com/2006/04/argentina_on_two_steaks_a_day.htm)
 
 ### Transcript
 

@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Don’t miss out! Sign up for [Angular Remote Conf](http://www.angularremoteconf.com)!
+Don’t miss out! Sign up for [Angular Remote Conf](https://www.angularremoteconf.com)!
 
 &nbsp;
 
@@ -25,7 +25,7 @@ Don’t miss out! Sign up for [Angular Remote Conf](http://www.angularremoteconf
 
 - [Twitter](https://twitter.com/ReBeccaOrg)
 - [GitHub](https://github.com/iarna)
-- [Blog](http://re-becca.org/)
+- [Blog](https://re-becca.org/)
 
 03:05 - Why [npm 3](https://github.com/npm/npm/releases/tag/v3.0.0) Exists and Changes in npm 2 =\> 3
 
@@ -55,7 +55,7 @@ Don’t miss out! Sign up for [Angular Remote Conf](http://www.angularremoteconf
 
 36:00 - npm’s Focus on the Front End
 
-- [Bower](http://bower.io/)
+- [Bower](https://bower.io/)
 - [npm Roadmap](https://github.com/npm/npm/wiki/Roadmap)
 
 42:04 - Transitioning to npm 3
@@ -66,7 +66,7 @@ Don’t miss out! Sign up for [Angular Remote Conf](http://www.angularremoteconf
 
 45:16 - Being in BetaPicks
 
-[Slack List](http://slacklist.info/) (Aimee)[Perceived Performance Fluent Conf Talks](https://youtu.be/7ubJzEi3HuA) (Aimee)[Paul Irish: How Users Perceive the Speed of The Web Keynote @ Fluent 2015](https://youtu.be/2ksXo2_Lfl0) (Aimee)[Subsistence Farming](https://en.wikipedia.org/wiki/Subsistence_agriculture) (AJ)[Developer On Fire Episode 017 - Charles Max Wood - Get Involved and Try New Things](http://developeronfire.com/Podcast/Episodes/episode-17-charles-max-wood-get-involved-and-try-new-things) (Chuck)[Elevator Saga](http://play.elevatorsaga.com/) (Chuck)[BrazilJS](http://braziljs.com.br/) (Forrest) NodeConf Brazil (Forrest)[For quick testing: `npm init -y`, configure init](https://docs.npmjs.com/cli/init) (Forrest)[Where Can I Put Your Cheese? (Or What to Expect From npm@3) @ Boston Ember, May 2015](https://youtu.be/9I2KgK2mYGM?t=30m45s) (Rebecca)[Open Source & Feelings Conference](http://osfeels.com/) (Rebecca)[bugs [npm Documentation]](https://docs.npmjs.com/cli/bugs) (Rebecca)[docs [npm Documentation]](https://docs.npmjs.com/cli/docs) (Rebecca)[repo [npm Documentation]](https://docs.npmjs.com/cli/repo) (Rebecca)
+[Slack List](https://slacklist.info/) (Aimee)[Perceived Performance Fluent Conf Talks](https://youtu.be/7ubJzEi3HuA) (Aimee)[Paul Irish: How Users Perceive the Speed of The Web Keynote @ Fluent 2015](https://youtu.be/2ksXo2_Lfl0) (Aimee)[Subsistence Farming](https://en.wikipedia.org/wiki/Subsistence_agriculture) (AJ)[Developer On Fire Episode 017 - Charles Max Wood - Get Involved and Try New Things](https://developeronfire.com/Podcast/Episodes/episode-17-charles-max-wood-get-involved-and-try-new-things) (Chuck)[Elevator Saga](https://play.elevatorsaga.com/) (Chuck)[BrazilJS](https://braziljs.com.br/) (Forrest) NodeConf Brazil (Forrest)[For quick testing: `npm init -y`, configure init](https://docs.npmjs.com/cli/init) (Forrest)[Where Can I Put Your Cheese? (Or What to Expect From npm@3) @ Boston Ember, May 2015](https://youtu.be/9I2KgK2mYGM?t=30m45s) (Rebecca)[Open Source & Feelings Conference](https://osfeels.com/) (Rebecca)[bugs [npm Documentation]](https://docs.npmjs.com/cli/bugs) (Rebecca)[docs [npm Documentation]](https://docs.npmjs.com/cli/docs) (Rebecca)[repo [npm Documentation]](https://docs.npmjs.com/cli/repo) (Rebecca)
 
 ### Transcript
 

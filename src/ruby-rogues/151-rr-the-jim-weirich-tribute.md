@@ -12,23 +12,23 @@ tags:
   - podcast
 ---
 
-00:11 - Intro Music: [Jim's WhyDay Tribute - Has Anybody Seen My Code?](http://confreaks.com/videos/3086-rubyhoedown2010-jim-s-whyday-tribute-has-anybody-seen-my-code-musical-number)
+00:11 - Intro Music: [Jim's WhyDay Tribute - Has Anybody Seen My Code?](https://confreaks.com/videos/3086-rubyhoedown2010-jim-s-whyday-tribute-has-anybody-seen-my-code-musical-number)
 
-02:16 - [Jim Weirich](http://en.wikipedia.org/wiki/Jim_Weirich)’s Intro Bio
+02:16 - [Jim Weirich](https://en.wikipedia.org/wiki/Jim_Weirich)’s Intro Bio
 
-- [Neo](http://www.neo.com/)
+- [Neo](https://www.neo.com/)
 - [The Weirich Fund](https://jim.neo.com/)
 - [American Heart Association Donations in Memory](https://donate.heart.org/site/apps/ka/sd/donorcustom.asp?msource=GAW&c=fmJUKcOZJkI8G&b=8077571%20)
 
 04:57 - Memories of Jim
 
-- The [Rake](<http://en.wikipedia.org/wiki/Rake_(software)>) Story
+- The [Rake](<https://en.wikipedia.org/wiki/Rake_(software)>) Story
 
 11:15 - Libraries and Code Examples
 
 - [rspec-given](https://github.com/jimweirich/rspec-given)
-- [Ruby Koans](http://rubykoans.com/)
-- [Builder](http://builder.rubyforge.org/)
+- [Ruby Koans](https://rubykoans.com/)
+- [Builder](https://builder.rubyforge.org/)
 - [RubyGems](https://rubygems.org/)
 - [flexmock](https://github.com/jimweirich/flexmock)
 - [class BlankSlate](https://github.com/jimweirich/builder/blob/master/lib/blankslate.rb#L41)
@@ -41,7 +41,7 @@ tags:
 - [Make failure objects respond to to_bool](https://github.com/jimweirich/rspec-given/blob/master/lib/given/failure.rb)
 - [# Normal When clause actions except that exceptions are captured](https://github.com/jimweirich/rspec-given/blob/master/lib/given/extensions.rb#L229)
 - [Move rspec/given/\* to given/rspec/\*](https://github.com/jimweirich/rspec-given/blob/master/lib/given/rspec/have_failed_212.rb)
-- [Jim Weirich: Growing A Language (Scottish Ruby Conference)](http://programme2013.scottishrubyconference.com/proposals/114/video)
+- [Jim Weirich: Growing A Language (Scottish Ruby Conference)](https://programme2013.scottishrubyconference.com/proposals/114/video)
 
 25:56 - Style
 
@@ -52,30 +52,30 @@ tags:
 
 33:20 - Talks and Videos
 
-- [The Polite Programmer's Guide to Ruby Etiquette](http://confreaks.com/videos/374-rubyconf2010-the-polite-programmer-s-guide-to-ruby-etiquette)
-- [Jim Weirich on Confreaks](http://confreaks.com/presenters/24-jim-weirich)
-- [Phusion: Farewell, Jim.](http://blog.phusion.nl/2014/02/20/farewell-jim/)
-- [The Grand Unified Theory of Software Design](http://www.confreaks.com/videos/93-aac2009-the-grand-unified-theory)
-- [SOLID Ruby](http://confreaks.com/videos/185-rubyconf2009-solid-ruby)
-- [Ruby Rogues Episode #20: Object Oriented Programming in Rails with Jim Weirich](http://rubyrogues.com/object-oriented-programming-in-rails-with-jim-weirich/)
-- [Ruby Rogues Episode #60: SOLID with Jim Weirich](http://rubyrogues.com/rr-60-solid-with-jim-weirich/)
-- [Mastering the Ruby Debugger](http://confreaks.com/videos/760-rubymidwest2011-mastering-the-ruby-debugger)
+- [The Polite Programmer's Guide to Ruby Etiquette](https://confreaks.com/videos/374-rubyconf2010-the-polite-programmer-s-guide-to-ruby-etiquette)
+- [Jim Weirich on Confreaks](https://confreaks.com/presenters/24-jim-weirich)
+- [Phusion: Farewell, Jim.](https://blog.phusion.nl/2014/02/20/farewell-jim/)
+- [The Grand Unified Theory of Software Design](https://www.confreaks.com/videos/93-aac2009-the-grand-unified-theory)
+- [SOLID Ruby](https://confreaks.com/videos/185-rubyconf2009-solid-ruby)
+- [Ruby Rogues Episode #20: Object Oriented Programming in Rails with Jim Weirich](https://rubyrogues.com/object-oriented-programming-in-rails-with-jim-weirich/)
+- [Ruby Rogues Episode #60: SOLID with Jim Weirich](https://rubyrogues.com/rr-60-solid-with-jim-weirich/)
+- [Mastering the Ruby Debugger](https://confreaks.com/videos/760-rubymidwest2011-mastering-the-ruby-debugger)
 
 42:00 - Hobbies and Games
 
-- [Quadcopters](http://en.wikipedia.org/wiki/Quadcopter)
-- [Ruby Koans](http://rubykoans.com/)
-- [Friendly Flying Robots with Ruby](http://confreaks.com/videos/3076-scrc2013-friendly-flying-robots-with-ruby)
+- [Quadcopters](https://en.wikipedia.org/wiki/Quadcopter)
+- [Ruby Koans](https://rubykoans.com/)
+- [Friendly Flying Robots with Ruby](https://confreaks.com/videos/3076-scrc2013-friendly-flying-robots-with-ruby)
 
 48:05 - Naming Config Files
 
 51:51 - Jim’s Overall Personality
 
-58:14 - Outtro Music: [Ruby Coding High](http://confreaks.com/videos/740-rockymtnruby2011-ruby-coding-high%20)
+58:14 - Outtro Music: [Ruby Coding High](https://confreaks.com/videos/740-rockymtnruby2011-ruby-coding-high%20)
 
 ### Book Club
 
-[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
+[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
 
 ### Next Week
 

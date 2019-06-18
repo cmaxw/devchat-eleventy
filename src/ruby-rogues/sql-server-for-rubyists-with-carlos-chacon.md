@@ -14,7 +14,7 @@ tags:
 
 ## **SQL Server for Rubyists**
 
-On today's episode, Brian Hogan, David Kimura, and Charles Max Wood discuss **SQL Server for Rubyists with Carlos Chacon**. Carlos is an SQL server enthusiast, managing partner of SQL Data Partners, and co-host of&nbsp;[The SQL Data Partners Podcast](http://sqldatapartners.com/sql-server-podcast/). Tune in to know more&nbsp;what he is currently up to and how his SQL knowledge would help Rubyists!
+On today's episode, Brian Hogan, David Kimura, and Charles Max Wood discuss **SQL Server for Rubyists with Carlos Chacon**. Carlos is an SQL server enthusiast, managing partner of SQL Data Partners, and co-host of&nbsp;[The SQL Data Partners Podcast](https://sqldatapartners.com/sql-server-podcast/). Tune in to know more&nbsp;what he is currently up to and how his SQL knowledge would help Rubyists!
 
 ## **Why Choose SQL Server?**
 
@@ -30,10 +30,10 @@ There are a billion and 1 different configurations right for your data. And they
 
 ## **Picks:**
 
-Brian: [LaunchPad&nbsp;](https://us.novationmusic.com/launch/launchpad-app#)Dave: [Degree-Framing-Nailer](http://www.homedepot.com/p/DEWALT-20-Volt-Max-XR-Lithium-Ion-Cordless-Brushless-2-Speed-33-Degree-Framing-Nailer-DCN692M1/204836207),&nbsp;[Popcorn Chicken](https://www.perdue.com/products/perdue-breaded-popcorn-chicken-26-oz/81461/),&nbsp;[Jira](https://www.atlassian.com/software/jira), and [GitLab](https://about.gitlab.com/)Charles: Goodworx soundtrack, Kickstarter for Ruby 5 podcast show, and [17 Hats](https://www.17hats.com/)Carlos: SQL Server Monitoring Tool and [Not the Future by Bad Lip Reading](https://www.youtube.com/watch?v=k9tgLnI0fFc)
+Brian: [LaunchPad&nbsp;](https://us.novationmusic.com/launch/launchpad-app#)Dave: [Degree-Framing-Nailer](https://www.homedepot.com/p/DEWALT-20-Volt-Max-XR-Lithium-Ion-Cordless-Brushless-2-Speed-33-Degree-Framing-Nailer-DCN692M1/204836207),&nbsp;[Popcorn Chicken](https://www.perdue.com/products/perdue-breaded-popcorn-chicken-26-oz/81461/),&nbsp;[Jira](https://www.atlassian.com/software/jira), and [GitLab](https://about.gitlab.com/)Charles: Goodworx soundtrack, Kickstarter for Ruby 5 podcast show, and [17 Hats](https://www.17hats.com/)Carlos: SQL Server Monitoring Tool and [Not the Future by Bad Lip Reading](https://www.youtube.com/watch?v=k9tgLnI0fFc)
 
 ## **Episode Links:**
 
-[SQL Data Partners](http://sqldatapartners.com/),&nbsp;[SQL Data Partners Podcast](http://sqldatapartners.com/sql-server-podcast/),&nbsp;ODBC,&nbsp;[FreeTDS](http://www.freetds.org/),&nbsp;TinyTDS,&nbsp;SQL Server,&nbsp;[Microsoft Azure](https://azure.microsoft.com/en-us/),&nbsp;Tables,&nbsp;ACID compliance,&nbsp;Data Science,&nbsp;[SQL Server 2016](https://www.microsoft.com/en-us/sql-server/sql-server-2016),&nbsp;[SQL Server Express Version](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express),&nbsp;[SQL Server for Linux](https://www.microsoft.com/en-us/sql-server/sql-server-vnext-including-linux),&nbsp;Red Hat Linux,&nbsp;Ubuntu Linux,&nbsp;[Suse Linux](https://www.suse.com/),&nbsp;Stored Procedures,&nbsp;Ken’s Ruby/SQL Server how-to,&nbsp;Indexes,&nbsp;Foreign Keys,&nbsp;[Ola Hallengren scripts](https://ola.hallengren.com/)
+[SQL Data Partners](https://sqldatapartners.com/),&nbsp;[SQL Data Partners Podcast](https://sqldatapartners.com/sql-server-podcast/),&nbsp;ODBC,&nbsp;[FreeTDS](https://www.freetds.org/),&nbsp;TinyTDS,&nbsp;SQL Server,&nbsp;[Microsoft Azure](https://azure.microsoft.com/en-us/),&nbsp;Tables,&nbsp;ACID compliance,&nbsp;Data Science,&nbsp;[SQL Server 2016](https://www.microsoft.com/en-us/sql-server/sql-server-2016),&nbsp;[SQL Server Express Version](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express),&nbsp;[SQL Server for Linux](https://www.microsoft.com/en-us/sql-server/sql-server-vnext-including-linux),&nbsp;Red Hat Linux,&nbsp;Ubuntu Linux,&nbsp;[Suse Linux](https://www.suse.com/),&nbsp;Stored Procedures,&nbsp;Ken’s Ruby/SQL Server how-to,&nbsp;Indexes,&nbsp;Foreign Keys,&nbsp;[Ola Hallengren scripts](https://ola.hallengren.com/)
 
 ### Transcript

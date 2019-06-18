@@ -175,13 +175,13 @@ How can we make this more effective?
 
 [Dave](https://www.linkedin.com/in/kobaltz)
 
-- [Shapeoko](http://carbide3d.com/shapeoko)
+- [Shapeoko](https://carbide3d.com/shapeoko)
 
 [Eric](https://www.linkedin.com/in/ericberry)
 
 - [Geekbot](https://geekbot.io/)
 - [Polymail](https://ply.ml/S94KQS)
-- [Airbrake](http://airbrake.io)
+- [Airbrake](https://airbrake.io)
 
 [Charles](https://twitter.com/cmaxw?lang=en)
 

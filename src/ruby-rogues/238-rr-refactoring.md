@@ -34,13 +34,13 @@ Check out [JS Remote Conf](https://jsremoteconf.com/) and submit a [Ruby Remote 
 
 26:23 - Refactoring Strategies
 
-- [Extract Method](http://refactoring.com/catalog/extractMethod.html)
-- [Extract Class](http://refactoring.com/catalog/extractClass.html)
+- [Extract Method](https://refactoring.com/catalog/extractMethod.html)
+- [Extract Class](https://refactoring.com/catalog/extractClass.html)
 - Introduce Explaining Variable
 
 37:38 - Performance Tradeoffs
 
-41:42 - [Generative Testing](http://www.pivotaltracker.com/community/tracker-blog/generative-testing)
+41:42 - [Generative Testing](https://www.pivotaltracker.com/community/tracker-blog/generative-testing)
 
 - [approvals](https://github.com/kytrinyx/approvals)
 
@@ -48,13 +48,13 @@ Check out [JS Remote Conf](https://jsremoteconf.com/) and submit a [Ruby Remote 
 
 53:08 - Examples and Resources
 
-- [Martin Fowler: Catalog of Refactorings](http://refactoring.com/catalog/)
-- [Refactoring: Ruby Edition by Jay Fields](http://www.amazon.com/Refactoring-Ruby-Edition-Addison-Wesley-Professional/dp/0321984137)
+- [Martin Fowler: Catalog of Refactorings](https://refactoring.com/catalog/)
+- [Refactoring: Ruby Edition by Jay Fields](https://www.amazon.com/Refactoring-Ruby-Edition-Addison-Wesley-Professional/dp/0321984137)
 - [Katrina Owen: Therapeutic Refactoring @ Cascadia Ruby Conf 2012](https://www.youtube.com/watch?v=J4dlF0kcThQ)
-- [Sam Livingston-Gray: Fluent Refactoring @ LoneStarRuby 2013](http://confreaks.tv/videos/lonestarruby2013-fluent-refactoring)
+- [Sam Livingston-Gray: Fluent Refactoring @ LoneStarRuby 2013](https://confreaks.tv/videos/lonestarruby2013-fluent-refactoring)
   Picks
 
-[Longmire](http://www.netflix.com/title/70269479) (Avdi)[Clash of Clans](http://supercell.com/en/games/clashofclans/) (Chuck)[Star Wars Commander](http://www.starwars.com/games-apps/star-wars-commander) (Chuck)Cleaning your office (Chuck)[Hsing-Hui Hsu: Time flies like an arrow; Fruit flies like a banana: Parsers for Great Good @ RubyConf 2015](https://www.youtube.com/watch?v=AcdliNixNhs) (Coraline)[Betsy Haibel: s/regex/DSLs/: What Regex Teaches Us About DSL Design @ RubyConf 2015](http://confreaks.tv/videos/rubyconf2015-s-regex-dsls-what-regex-teaches-us-about-dsl-design) (Coraline)[Velocity 2016 Call for speakers](http://conferences.oreilly.com/velocity/devops-web-performance-ca/public/cfp/430) (Saron)[RailsConf 2016](http://rubycentral-cfp.herokuapp.com/events/railsconf2016) (Saron)
+[Longmire](https://www.netflix.com/title/70269479) (Avdi)[Clash of Clans](https://supercell.com/en/games/clashofclans/) (Chuck)[Star Wars Commander](https://www.starwars.com/games-apps/star-wars-commander) (Chuck)Cleaning your office (Chuck)[Hsing-Hui Hsu: Time flies like an arrow; Fruit flies like a banana: Parsers for Great Good @ RubyConf 2015](https://www.youtube.com/watch?v=AcdliNixNhs) (Coraline)[Betsy Haibel: s/regex/DSLs/: What Regex Teaches Us About DSL Design @ RubyConf 2015](https://confreaks.tv/videos/rubyconf2015-s-regex-dsls-what-regex-teaches-us-about-dsl-design) (Coraline)[Velocity 2016 Call for speakers](https://conferences.oreilly.com/velocity/devops-web-performance-ca/public/cfp/430) (Saron)[RailsConf 2016](https://rubycentral-cfp.herokuapp.com/events/railsconf2016) (Saron)
 
 ### Transcript
 

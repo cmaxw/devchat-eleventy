@@ -14,9 +14,9 @@ tags:
 
 **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
-**Guest:** [Michael Garrigan](http://michaelgarrigan.com)
+**Guest:** [Michael Garrigan](https://michaelgarrigan.com)
 
-This week on My JavaScript Story, Charles speaks with [http://michaelgarrigan.com](http://michaelgarrigan.com) who is one of the podcast’s listeners. He is changing careers midway and has had many exciting careers in the past, such as being a professional chef, carpenter, repairman, and so on. Listen to today’s episode to hear [Michael’s](http://michaelgarrigan.com) unique experience with programming and JavaScript.
+This week on My JavaScript Story, Charles speaks with [https://michaelgarrigan.com](https://michaelgarrigan.com) who is one of the podcast’s listeners. He is changing careers midway and has had many exciting careers in the past, such as being a professional chef, carpenter, repairman, and so on. Listen to today’s episode to hear [Michael’s](https://michaelgarrigan.com) unique experience with programming and JavaScript.
 
 **In particular, we dive pretty deep on:**
 
@@ -97,11 +97,11 @@ This week on My JavaScript Story, Charles speaks with [http://michaelgarrigan.co
 - [Hack Reactor](https://www.hackreactor.com)
 - [JavaScript](https://www.javascript.com)
 - [Meetup](https://www.meetup.com)
-- [Michaelgarrigan.com – website](http://michaelgarrigan.com)
+- [Michaelgarrigan.com – website](https://michaelgarrigan.com)
 
 **Sponsors:**
 
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - Digital Ocean
 - [Cache Fly](https://www.cachefly.com)
 - [Get A Coder Job](https://devchat.tv/get-a-coder-job/)
@@ -112,11 +112,11 @@ This week on My JavaScript Story, Charles speaks with [http://michaelgarrigan.co
 
 - [TNT – The Last Ship](https://www.tntdrama.com/shows/the-last-ship)
 - [Board game – Pandemic Legacy](https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1)
-- Kickstarter – [Code Badges](http://codebadge.org/)
+- Kickstarter – [Code Badges](https://codebadge.org/)
 
-[Michael Garrigan](http://michaelgarrigan.com)
+[Michael Garrigan](https://michaelgarrigan.com)
 
 - Brad’s YouTube channel - ½ million subscribers
-- [Michaelgarrigan.com – website](http://michaelgarrigan.com)
+- [Michaelgarrigan.com – website](https://michaelgarrigan.com)
 
 ### Transcript

@@ -14,10 +14,10 @@ tags:
 
 ### Panel
 
-- Tom Beatty ([twitter](http://twitter.com/#!/tomdei/) [facebook](http://www.facebook.com/tom.beatty) [website](http://dedge.com/))
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
+- Tom Beatty ([twitter](https://twitter.com/#!/tomdei/) [facebook](https://www.facebook.com/tom.beatty) [website](https://dedge.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
 
 ### Discussion
 
@@ -68,16 +68,16 @@ tags:
 
 ### Picks
 
-- [The Hunger Games](http://www.imdb.com/title/tt1392170/) (AJ)
-- [Thunderstone](http://www.alderac.com/thunderstone/) (Jamison)
-- [How Browsers Work from HTML5Rocks](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) (Jamison)
-- [Calculus Made Easy](http://www.amazon.com/gp/product/0312185480/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312185480) (Jamison)
-- [Shock Mount](http://www.amazon.com/gp/product/B000SZNFFE/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000SZNFFE) (Chuck)
-- [BlueHost](http://www.bluehost.com/track/woody2shoes) (Chuck)
-- [Wordpress](http://wordpress.org/) (Chuck)
-- [DC Online](http://www.dcuniverseonline.com/) (Tom)
-- [Mistborn Trilogy by Brandon Sanderson](http://www.amazon.com/Mistborn-Trilogy-Boxed-Brandon-Sanderson/dp/076536543X/ref=sr_1_1?ie=UTF8&qid=1334091303&sr=8-1) (Tom)
-- [Lynda.com](http://www.lynda.com/) (Tom)
+- [The Hunger Games](https://www.imdb.com/title/tt1392170/) (AJ)
+- [Thunderstone](https://www.alderac.com/thunderstone/) (Jamison)
+- [How Browsers Work from HTML5Rocks](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) (Jamison)
+- [Calculus Made Easy](https://www.amazon.com/gp/product/0312185480/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312185480) (Jamison)
+- [Shock Mount](https://www.amazon.com/gp/product/B000SZNFFE/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000SZNFFE) (Chuck)
+- [BlueHost](https://www.bluehost.com/track/woody2shoes) (Chuck)
+- [Wordpress](https://wordpress.org/) (Chuck)
+- [DC Online](https://www.dcuniverseonline.com/) (Tom)
+- [Mistborn Trilogy by Brandon Sanderson](https://www.amazon.com/Mistborn-Trilogy-Boxed-Brandon-Sanderson/dp/076536543X/ref=sr_1_1?ie=UTF8&qid=1334091303&sr=8-1) (Tom)
+- [Lynda.com](https://www.lynda.com/) (Tom)
 
 ### Transcript
 

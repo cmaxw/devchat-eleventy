@@ -22,7 +22,7 @@ tags:
 
 ### **Picks:**
 
-[_Rogue One_](http://www.starwars.com/films/rogue-one) (John)Top Coders Angular 2 cross-country workshops (Joe and John)[Ng Conf](https://www.ng-conf.org/) (Joe)[Toby Chrome plug-in](https://www.gettoby.com/) (Lukas)[_The Cook, The Thief, His Wife, and Her Lover_](http://www.imdb.com/title/tt0097108/) (Ward)[Ng Cruise](https://ngcruise.com/) (Alyssa)[Egghead.io](https://egghead.io/) (Alyssa)[Newsfeed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en) (Charles)[Echo Dot](https://www.amazon.com/All-New-Amazon-Echo-Dot-Add-Alexa-To-Any-Room/dp/B01DFKC2SO) (Charles)[_Ethics in the Real World_ by Peter Singer](https://www.amazon.com/Ethics-Real-World-Essays-Things/dp/0691172471)(Victor)
+[_Rogue One_](https://www.starwars.com/films/rogue-one) (John)Top Coders Angular 2 cross-country workshops (Joe and John)[Ng Conf](https://www.ng-conf.org/) (Joe)[Toby Chrome plug-in](https://www.gettoby.com/) (Lukas)[_The Cook, The Thief, His Wife, and Her Lover_](https://www.imdb.com/title/tt0097108/) (Ward)[Ng Cruise](https://ngcruise.com/) (Alyssa)[Egghead.io](https://egghead.io/) (Alyssa)[Newsfeed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en) (Charles)[Echo Dot](https://www.amazon.com/All-New-Amazon-Echo-Dot-Add-Alexa-To-Any-Room/dp/B01DFKC2SO) (Charles)[_Ethics in the Real World_ by Peter Singer](https://www.amazon.com/Ethics-Real-World-Essays-Things/dp/0691172471)(Victor)
 
 ### Transcript
 

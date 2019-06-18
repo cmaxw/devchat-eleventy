@@ -22,7 +22,7 @@ Contributor days is an event where programmers&nbsp;are gathered and different f
 
 ## How to Join Contributor Days
 
-If one wants to join the Contributor days, all he has to do is go to their [official website](http://contributordays.com/)&nbsp;and apply for it. Selection is made among applicants, of which some will be remote and some will be in person. This depends on the framework or library organizers are working with. They plan to record video clips of the event to help those who don't get to attend personally. Even if you are not around, you still get to see what's going on and gain insights. These will help you understand why such decisions are made.
+If one wants to join the Contributor days, all he has to do is go to their [official website](https://contributordays.com/)&nbsp;and apply for it. Selection is made among applicants, of which some will be remote and some will be in person. This depends on the framework or library organizers are working with. They plan to record video clips of the event to help those who don't get to attend personally. Even if you are not around, you still get to see what's going on and gain insights. These will help you understand why such decisions are made.
 
 ## Target Participants
 
@@ -30,6 +30,6 @@ Contributor Days is not intended for those who have never contributed to open so
 
 ## Picks
 
-Aimee: &nbsp;[How Terrible Code Gets Written by&nbsp;Perfectly Sane People](https://www.linkedin.com/pulse/how-terrible-code-gets-written-perfectly-sane-people-christian) and [Organic Ginger Turmeric Tea at Trader Joe's](http://www.traderjoes.com/digin/post/organic-ginger-turmeric-herbal-tea)Charles: grandmother's passing,[Game of War](http://www.gameofwarapp.com/), and [The Anchor headphones hook](https://www.amazon.com/Anchor-ORIGINAL-Under-Desk-Headphone-Stand/dp/B00P31BMHG)Tracy: [Jet.com](https://jet.com/) and women empowerment
+Aimee: &nbsp;[How Terrible Code Gets Written by&nbsp;Perfectly Sane People](https://www.linkedin.com/pulse/how-terrible-code-gets-written-perfectly-sane-people-christian) and [Organic Ginger Turmeric Tea at Trader Joe's](https://www.traderjoes.com/digin/post/organic-ginger-turmeric-herbal-tea)Charles: grandmother's passing,[Game of War](https://www.gameofwarapp.com/), and [The Anchor headphones hook](https://www.amazon.com/Anchor-ORIGINAL-Under-Desk-Headphone-Stand/dp/B00P31BMHG)Tracy: [Jet.com](https://jet.com/) and women empowerment
 
 ### Transcript

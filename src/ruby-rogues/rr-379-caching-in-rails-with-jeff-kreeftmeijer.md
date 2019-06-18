@@ -76,9 +76,9 @@ In this episode of Ruby Rogues, the panel talks to [Jeff Kreeftmeijer](https://j
 
 27:44 – Question answered.
 
-28:12 – Does something like this exist for [Phoenix](http://www.phoenixsoftware.com/ode.htm)?
+28:12 – Does something like this exist for [Phoenix](https://www.phoenixsoftware.com/ode.htm)?
 
-28:28 – Jeff: I don’t think there is something like that for [Phoenix](http://www.phoenixsoftware.com/ode.htm).
+28:28 – Jeff: I don’t think there is something like that for [Phoenix](https://www.phoenixsoftware.com/ode.htm).
 
 28:50 – Chuck: When do you want to use one caching over another caching?
 
@@ -133,7 +133,7 @@ This whole article is based on me messing up.
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [JavaScript](https://www.javascript.com)
-- [Phoenix](http://www.phoenixsoftware.com/ode.htm)
+- [Phoenix](https://www.phoenixsoftware.com/ode.htm)
 - [AppSignal](https://appsignal.com)
 - [Russian doll caching](https://blog.appsignal.com/2018/04/03/russian-doll-caching-in-rails.html)
 - [JavaScript Sprinkles.](https://github.com/avand/sprinkles)
@@ -143,7 +143,7 @@ This whole article is based on me messing up.
 - [Fragment Caching in Rails](https://blog.appsignal.com/2018/03/20/fragment-caching-in-rails.html)
 - [Fuubar](https://github.com/thekompanee/fuubar)
 - [Navvy](https://github.com/jeffkreeftmeijer/navvy)
-- [AsciiDoc Home Page](http://asciidoc.org)
+- [AsciiDoc Home Page](https://asciidoc.org)
 - [AsciiDoctor](https://asciidoctor.org)
 - [Elixir Mix – Meet Me.So](https://meetme.so/ElixirMix)
 - [New Relic](https://newrelic.com/?utm_campaign=googlebrand+JM+ABM+Q1FY19+acq+NORAM&utm_source=Google&utm_medium=PS&gclid=EAIaIQobChMIpbDg_MSz3QIVAhtpCh2qpgebEAAYASAAEgJnivD_BwE)
@@ -183,7 +183,7 @@ Eric
 Jeff
 
 - [AsciiDoctor](https://asciidoctor.org)
-- [AsciiDoc Home Page](http://asciidoc.org)
+- [AsciiDoc Home Page](https://asciidoc.org)
 - [Performance in Rails – Interview](https://www.youtube.com/watch?v=ktZLpjCanvg)
 
 ### Transcript

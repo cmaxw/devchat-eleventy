@@ -12,11 +12,11 @@ tags:
   - podcast
 ---
 
-**[Freelancers' Answers](http://freelancersanswers.com/webinar) -- Go here to submit questions for The Freelancers’ Live Q&A shows!**
+**[Freelancers' Answers](https://freelancersanswers.com/webinar) -- Go here to submit questions for The Freelancers’ Live Q&A shows!**
 
 &nbsp;
 
-**Check out [RailsCasts on Kickstarter](http://devchat.tv/kickstarter)!!**
+**Check out [RailsCasts on Kickstarter](https://devchat.tv/kickstarter)!!**
 
 02:19 - Lifestyle Choice and Changes
 
@@ -25,7 +25,7 @@ tags:
 05:29 - Having More Work Than You Can Handle
 
 - Hiring Subcontractors
-  - [Maslow’s Hierarchy of Needs](http://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)
+  - [Maslow’s Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)
 - Seasonal Highs and Lows
 - Disappearing Clients&nbsp;&nbsp; &nbsp;
 
@@ -33,7 +33,7 @@ tags:
 
 13:33 - Getting Bad Vibes From Potential Clients
 
-- [Just Tell Julie](http://justtelljulie.com/)
+- [Just Tell Julie](https://justtelljulie.com/)
 
 21:44 - Transitioning to New Kinds of Work
 
@@ -44,7 +44,7 @@ tags:
 
 39:13 - Reopening Doors to Previous OffersPicks
 
-[<u>Carbon Copy Cloner</u>](http://bombich.com/) (Reuven)[<u>Vivis™ Knight V3 13000mAh Dual USB Portable Charger External Battery Pack</u>](http://www.amazon.com/Vivis-trade-Knight-V3-Smartphones/dp/B00LJCI53M) (Jonathan)[<u>Gin Gins® Spicy Apple Chewy Ginger Candy</u>](http://gingerpeople.com/gin-gin-candies/spicy-apple-ginger-chews.html) (Eric)[<u>YouTube</u>](http://www.youtube.com/) (Chuck)[<u>FFmpeg</u>](https://www.ffmpeg.org/) (Chuck)[<u>Ruby Remote Conf</u>](http://www.rubyremoteconf.com) (Chuck)[<u>Developer’s Box Club</u>](http://devboxclub.com/) (Chuck)
+[<u>Carbon Copy Cloner</u>](https://bombich.com/) (Reuven)[<u>Vivis™ Knight V3 13000mAh Dual USB Portable Charger External Battery Pack</u>](https://www.amazon.com/Vivis-trade-Knight-V3-Smartphones/dp/B00LJCI53M) (Jonathan)[<u>Gin Gins® Spicy Apple Chewy Ginger Candy</u>](https://gingerpeople.com/gin-gin-candies/spicy-apple-ginger-chews.html) (Eric)[<u>YouTube</u>](https://www.youtube.com/) (Chuck)[<u>FFmpeg</u>](https://www.ffmpeg.org/) (Chuck)[<u>Ruby Remote Conf</u>](https://www.rubyremoteconf.com) (Chuck)[<u>Developer’s Box Club</u>](https://devboxclub.com/) (Chuck)
 
 ### Transcript
 

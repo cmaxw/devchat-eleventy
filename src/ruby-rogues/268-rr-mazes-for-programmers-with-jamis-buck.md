@@ -5,7 +5,7 @@ title: >
 date: 2016-07-13 07:00:53
 episode_number: 268
 duration: 47:45
-audio_url: http://media.devchat.tv/ruby-rogues/RR268MazesJamisBuck.mp3
+audio_url: https://media.devchat.tv/ruby-rogues/RR268MazesJamisBuck.mp3
 podcast: ruby-rogues
 tags:
   - ruby_rogues
@@ -17,21 +17,21 @@ tags:
 &nbsp;01:55 - Jamis Buck Introduction
 
 - [Twitter](https://twitter.com/jamis)
-- [GitHub](http://weblog.jamisbuck.org/)
+- [GitHub](https://weblog.jamisbuck.org/)
 - [Blog](https://github.com/jamis)
 - [Medium.com: Jamis Buck](https://medium.com/@jamis)
   02:57 - Mazes
 - [Mazes for Programmers: Code Your Own Twisty Little Passages by Jamis Buck](https://pragprog.com/book/jbmaze/mazes-for-programmers)
-- [3.5 Random Dungeon Generator for D&D](http://www.myth-weavers.com/generate_dungeon.php)
-- [Mazoo!](http://mazoo.jamisbuck.org/)
+- [3.5 Random Dungeon Generator for D&D](https://www.myth-weavers.com/generate_dungeon.php)
+- [Mazoo!](https://mazoo.jamisbuck.org/)
   08:01 - Programing can be fun?! Play
 - [Jamis Buck: Second Wind @ Mountain West Ruby 2016](https://www.youtube.com/watch?v=71suekjBV9Y) (Talk on burnout)
   11:49 - Historical and Traditional vs Technical Mazes13:51 - Jamis’ Backstory with Mazes; Algorithms
-- [Hunt-and-Kill Algorithm](http://weblog.jamisbuck.org/2011/1/24/maze-generation-hunt-and-kill-algorithm)
-- [Wilson's Algorithm](http://weblog.jamisbuck.org/2011/1/20/maze-generation-wilson-s-algorithm) &nbsp;
-- [Eller's Algorithm](http://weblog.jamisbuck.org/2010/12/29/maze-generation-eller-s-algorithm)
+- [Hunt-and-Kill Algorithm](https://weblog.jamisbuck.org/2011/1/24/maze-generation-hunt-and-kill-algorithm)
+- [Wilson's Algorithm](https://weblog.jamisbuck.org/2011/1/20/maze-generation-wilson-s-algorithm) &nbsp;
+- [Eller's Algorithm](https://weblog.jamisbuck.org/2010/12/29/maze-generation-eller-s-algorithm)
   21:14 - Discovering Algorithms
-- [Think Labyrinth](http://www.astrolog.org/labyrnth/maze.htm)
+- [Think Labyrinth](https://www.astrolog.org/labyrnth/maze.htm)
 - [Neo4j](https://neo4j.com/)
   28:01 - Varying Algorithms
 - [AST (Abstract Syntax Tree)](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
@@ -39,17 +39,17 @@ tags:
 - [Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
   39:16 - Text App for Generating Mazes
 - [ASCII](https://en.wikipedia.org/wiki/ASCII)
-- [ChunkyPNG](http://chunkypng.com/)
+- [ChunkyPNG](https://chunkypng.com/)
   &nbsp;Picks
-- [The Walking Dead](http://www.amc.com/shows/the-walking-dead) (Sam)
-- [The Codeless Code](http://thecodelesscode.com/contents) (Coraline)
+- [The Walking Dead](https://www.amc.com/shows/the-walking-dead) (Sam)
+- [The Codeless Code](https://thecodelesscode.com/contents) (Coraline)
 - [Jurgen, A Comedy of Justice](https://en.wikipedia.org/wiki/Jurgen,_A_Comedy_of_Justice) (Jessica)
 - [Feeling sad about tragedy](https://youtu.be/toap7iPpTbs) (Jessica)
 - Completely Disconnect (Chuck)
 - Being Outdoors (Chuck)
 - Shooting Firearms (Chuck)
-- [Productive](http://productiveapp.io/) (Jamis)
-- [Kerbal Space Program](http://kerbalspaceprogram.com) (Jamis)
+- [Productive](https://productiveapp.io/) (Jamis)
+- [Kerbal Space Program](https://kerbalspaceprogram.com) (Jamis)
 
 ### Transcript
 

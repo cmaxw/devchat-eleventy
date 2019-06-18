@@ -12,32 +12,32 @@ tags:
   - podcast
 ---
 
-3:06 -&nbsp;[Firefly](http://www.amazon.com/gp/product/B0000AQS0F/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0000AQS0F)
+3:06 -&nbsp;[Firefly](https://www.amazon.com/gp/product/B0000AQS0F/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0000AQS0F)
 
-- [Scottish Ruby Conf](http://2014.scottishrubyconference.com/)
-  3:55 -&nbsp;[Therapeutic Refactoring - Katrina Owen](http://www.youtube.com/watch?v=J4dlF0kcThQ)
-- [Serenity](http://www.amazon.com/gp/product/B004ZJZPXO/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004ZJZPXO)
-  4:40 -&nbsp;[Refactoring](http://en.wikipedia.org/wiki/Code_refactoring)
+- [Scottish Ruby Conf](https://2014.scottishrubyconference.com/)
+  3:55 -&nbsp;[Therapeutic Refactoring - Katrina Owen](https://www.youtube.com/watch?v=J4dlF0kcThQ)
+- [Serenity](https://www.amazon.com/gp/product/B004ZJZPXO/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004ZJZPXO)
+  4:40 -&nbsp;[Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
 - Livecoding at Talks: Trapeze Sans Net
-  10:11 - Refactoring Makes You Feel Better 10:25 -&nbsp;[Choke by Sian Beilock](http://www.amazon.com/gp/product/1416596186/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1416596186)
+  10:11 - Refactoring Makes You Feel Better 10:25 -&nbsp;[Choke by Sian Beilock](https://www.amazon.com/gp/product/1416596186/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1416596186)
 - Working Memory
 - Losing Grip of Current Context
-  11:23 - [Test Driven Development](http://en.wikipedia.org/wiki/Test-driven_development) (TDD) to stop second-guessing
+  11:23 - [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) to stop second-guessing
 - Classical Characterization Tests
 - Methods missing on inputs?
 - Mocks & Stubs
-  17:53 &nbsp;-&nbsp;[Bryan Takita RR Test Library](http://pivotallabs.com/users/brian/blog/articles/352-introducing-rr)
+  17:53 &nbsp;-&nbsp;[Bryan Takita RR Test Library](https://pivotallabs.com/users/brian/blog/articles/352-introducing-rr)
 - Diameter Method
-  18:52 -&nbsp;[rspec-fire](https://github.com/xaviershay/rspec-fire)20:56 -&nbsp;[Heckle](http://rubygems.org/gems/heckle)
+  18:52 -&nbsp;[rspec-fire](https://github.com/xaviershay/rspec-fire)20:56 -&nbsp;[Heckle](https://rubygems.org/gems/heckle)
 - Doesn’t Work in 1.9
-  22:07 - [Chartjunk](http://en.wikipedia.org/wiki/Chartjunk)
-- [The Visual Display of Quantitative Information by Edward Tufte](http://www.amazon.com/gp/product/0961392142/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0961392142)
+  22:07 - [Chartjunk](https://en.wikipedia.org/wiki/Chartjunk)
+- [The Visual Display of Quantitative Information by Edward Tufte](https://www.amazon.com/gp/product/0961392142/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0961392142)
 - CodeJunk
 - Trailing White Space
   27:56 - Explicit Returns, Surprise Return!
-- Refactoring [Legacy Code](http://en.wikipedia.org/wiki/Legacy_code)
+- Refactoring [Legacy Code](https://en.wikipedia.org/wiki/Legacy_code)
   31:34 - Getting Started with Refactoring: Pick Something Easy and Gain Confidence 35:15 - Identify Abstractions 38:45 - Good Way to Refactor Your Tests
-- [RSpec](http://rspec.info/)
+- [RSpec](https://rspec.info/)
   40:08 - Red/Green Refactor 43:20 - Call a Method, Send a Message
 - OOPS Skills
   46:40 - Right & Left Brained

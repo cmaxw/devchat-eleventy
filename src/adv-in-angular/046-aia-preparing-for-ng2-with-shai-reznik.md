@@ -16,20 +16,20 @@ tags:
 
 - [Twitter](https://twitter.com/shai_reznik)
 - [GitHub](https://github.com/shairez)
-- [Blog](http://www.hirez.io/)
+- [Blog](https://www.hirez.io/)
 - [YouTube](https://www.youtube.com/user/hirezio)
 - [Shai Reznik: ng-wat @ ng-conf 2015](https://www.youtube.com/watch?v=M_Wp-2XA9ZU)
 
 03:02 - Angular 2 and Shai’s Background
 
-- [Adventures in Angular Episode #40: ng-wat with Shai Reznik](http://devchat.tv/adventures-in-angular/040-aia-ng-wat-with-shai-reznik)
-- [HiRez.io](http://www.hirez.io/)
+- [Adventures in Angular Episode #40: ng-wat with Shai Reznik](https://devchat.tv/adventures-in-angular/040-aia-ng-wat-with-shai-reznik)
+- [HiRez.io](https://www.hirez.io/)
 - [Preparing for Angular 2.0 (Part 1)](https://www.youtube.com/watch?v=IlBLlWM1dEc)&nbsp; &nbsp;&nbsp;
 
 05:56 - Radical Changes and the Future
 
-- [Pascal Precht: The difference between Annotations and Decorators](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)&nbsp;
-- [Yehuda Katz](http://yehudakatz.com/)
+- [Pascal Precht: The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)&nbsp;
+- [Yehuda Katz](https://yehudakatz.com/)
 
 12:56 - Comparing and Lining Up Code
 
@@ -37,7 +37,7 @@ tags:
 
 13:46 - Preparing for NG2 Emotionally
 
-- [ng-](http://ngeurope.org/)[europe](http://ngeurope.org/)
+- [ng-](https://ngeurope.org/)[europe](https://ngeurope.org/)
 - [[YouTube] Shai Reznik: Angular 2 - A ](https://www.youtube.com/watch?v=aZm3OcApTN4)[Very Very](https://www.youtube.com/watch?v=aZm3OcApTN4)[Short Introduction](https://www.youtube.com/watch?v=aZm3OcApTN4)
 
 18:44 - What should people start doing to prepare?
@@ -50,12 +50,12 @@ tags:
 - Start Using ES6
   - [Babel](https://babeljs.io/)
   - [typescript-compiler](https://www.npmjs.com/package/typescript-compiler)
-  - [webpac](http://webpack.github.io/)[k](http://webpack.github.io/)
-  - [gulp.js](http://gulpjs.com/)
-  - [Grunt](http://gruntjs.com/)
+  - [webpac](https://webpack.github.io/)[k](https://webpack.github.io/)
+  - [gulp.js](https://gulpjs.com/)
+  - [Grunt](https://gruntjs.com/)
     Picks
 
-[The Princess Bride](http://www.imdb.com/title/tt0093779/) (Katya)[Visual Studio Code](https://code.visualstudio.com/) (Joe)[Console](http://sourceforge.net/projects/console/) (Shai)
+[The Princess Bride](https://www.imdb.com/title/tt0093779/) (Katya)[Visual Studio Code](https://code.visualstudio.com/) (Joe)[Console](https://sourceforge.net/projects/console/) (Shai)
 
 ### Transcript
 

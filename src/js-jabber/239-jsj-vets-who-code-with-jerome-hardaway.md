@@ -14,7 +14,7 @@ tags:
 
 00:55 - Introducing Jerome Hardaway
 
-- [Vets Who Code](http://vetswhocode.io/)
+- [Vets Who Code](https://vetswhocode.io/)
 - [Ruby Rogues Podcast](https://devchat.tv/ruby-rogues)
 - [Facebook](https://www.facebook.com/VetsWhoCodeNYC/)
 - [Twitter](https://twitter.com/vetswhocode)
@@ -32,7 +32,7 @@ tags:
 
 ### **Picks:**
 
-[Soft Skills Engineering Podcast](https://softskills.audio/) (Dave)[Soft Skills Engineering Twitter](https://twitter.com/softskillseng) (Dave)[Awesome Algorithms Github list](https://github.com/tayllan/awesome-algorithms) (Aimee)[“The Churn” blog post by Bob Martin](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html) (Aimee)[_The 12 Week Year_ by Brian P. Moran and Michael Lennington](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234) (Charles)[Vets Who Code](http://vetswhocode.io/) (Jerome)[Practical Javascript](https://watchandcode.com/p/practical-javascript) (Jerome)
+[Soft Skills Engineering Podcast](https://softskills.audio/) (Dave)[Soft Skills Engineering Twitter](https://twitter.com/softskillseng) (Dave)[Awesome Algorithms Github list](https://github.com/tayllan/awesome-algorithms) (Aimee)[“The Churn” blog post by Bob Martin](https://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html) (Aimee)[_The 12 Week Year_ by Brian P. Moran and Michael Lennington](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234) (Charles)[Vets Who Code](https://vetswhocode.io/) (Jerome)[Practical Javascript](https://watchandcode.com/p/practical-javascript) (Jerome)
 
 ### Transcript
 

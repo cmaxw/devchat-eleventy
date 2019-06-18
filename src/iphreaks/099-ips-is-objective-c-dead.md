@@ -16,13 +16,13 @@ Thank you [<u>RailsClips Kickstarter</u>](https://www.kickstarter.com/projects/5
 
 &nbsp;
 
-02:02 - Is [<u>Objective-C</u>](http://en.wikipedia.org/wiki/Objective-C) dead? Will all apps eventually be written in [<u>Swift</u>](https://developer.apple.com/swift/)?
+02:02 - Is [<u>Objective-C</u>](https://en.wikipedia.org/wiki/Objective-C) dead? Will all apps eventually be written in [<u>Swift</u>](https://developer.apple.com/swift/)?
 
 - Will Objective-C’s popularity decline?
 - Replacing/Rewriting Frameworks
-- Updating Code? [<u>Legacy Code</u>](http://en.wikipedia.org/wiki/Legacy_code)?
+- Updating Code? [<u>Legacy Code</u>](https://en.wikipedia.org/wiki/Legacy_code)?
 - Dependency Injection, [<u>NSObject</u>](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/index.html)
-  - [<u>iPhreaks Show Episode #85: Prototyping with Jay Thrash</u>](http://devchat.tv/iphreaks/085-iphreaks-show-prototyping-with-jay-thrash)
+  - [<u>iPhreaks Show Episode #85: Prototyping with Jay Thrash</u>](https://devchat.tv/iphreaks/085-iphreaks-show-prototyping-with-jay-thrash)
 
 08:48 - [<u>Xcode</u>](https://developer.apple.com/xcode/) Support
 
@@ -30,7 +30,7 @@ Thank you [<u>RailsClips Kickstarter</u>](https://www.kickstarter.com/projects/5
 
 - Current Apps Using Swift
   - [<u>GitHub</u>](https://github.com/)
-    - [<u>iPhreaks Show Episode #98: Carthage with Justin Spahr-Summers</u>](http://devchat.tv/iphreaks/098-ips-carthage-with-justin-spahr-summers)
+    - [<u>iPhreaks Show Episode #98: Carthage with Justin Spahr-Summers</u>](https://devchat.tv/iphreaks/098-ips-carthage-with-justin-spahr-summers)
 - Gotchas with Using Both
 - Objc = fear, Swift = familiarity
 - Complementary Languages and Options
@@ -42,9 +42,9 @@ Thank you [<u>RailsClips Kickstarter</u>](https://www.kickstarter.com/projects/5
 
 Picks
 
-[<u>iOS Animations by Tutorials by Ray Wenderlich</u>](http://www.raywenderlich.com/store/ios-animations-by-tutorials) (Alondo)[<u>Elevator Saga</u>](http://play.elevatorsaga.com) (Alondo)[<u>Vibrato.fm</u>](http://vibrato.fm/) (Jaim)[<u>CODE 87-Key Illuminated Mechanical Keyboard with White LED Backlighting - Cherry MX Clear</u>](http://www.amazon.com/gp/product/B00LTAEV0K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LTAEV0K&linkCode=as2&tag=chamaxwoo-20&linkId=DGOCKESAST4P7EDZ) (Chuck)[<u>Grifiti Fat Wrist Pad</u>](http://www.amazon.com/gp/product/B004D8Q48M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004D8Q48M&linkCode=as2&tag=chamaxwoo-20&linkId=KZJVCWXJSFPEHJ2G) (Chuck)[<u>Pebble Watch Kickstarter Campaign</u>](https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises) (Chuck)[<u>Ready Player One by Ernest Cline</u>](http://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=5P4FKABD63JRZ4BE) (Chuck)
+[<u>iOS Animations by Tutorials by Ray Wenderlich</u>](https://www.raywenderlich.com/store/ios-animations-by-tutorials) (Alondo)[<u>Elevator Saga</u>](https://play.elevatorsaga.com) (Alondo)[<u>Vibrato.fm</u>](https://vibrato.fm/) (Jaim)[<u>CODE 87-Key Illuminated Mechanical Keyboard with White LED Backlighting - Cherry MX Clear</u>](https://www.amazon.com/gp/product/B00LTAEV0K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LTAEV0K&linkCode=as2&tag=chamaxwoo-20&linkId=DGOCKESAST4P7EDZ) (Chuck)[<u>Grifiti Fat Wrist Pad</u>](https://www.amazon.com/gp/product/B004D8Q48M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004D8Q48M&linkCode=as2&tag=chamaxwoo-20&linkId=KZJVCWXJSFPEHJ2G) (Chuck)[<u>Pebble Watch Kickstarter Campaign</u>](https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises) (Chuck)[<u>Ready Player One by Ernest Cline</u>](https://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=5P4FKABD63JRZ4BE) (Chuck)
 
-Are you attending [<u>MicroConf</u>](http://www.microconf.com/)? Chuck wants to know! Tweet him at [<u>@cmaxw</u>](https://twitter.com/cmaxw).
+Are you attending [<u>MicroConf</u>](https://www.microconf.com/)? Chuck wants to know! Tweet him at [<u>@cmaxw</u>](https://twitter.com/cmaxw).
 
 ### Transcript
 

@@ -30,6 +30,6 @@ Each episode was unique. Charles particularly enjoyed listening to the show gues
 
 ## **Picks:**
 
-David:&nbsp;[Mario Run](https://itunes.apple.com/us/app/super-mario-run/id1145275343?mt=8)Brian: [Overwatch](https://playoverwatch.com/en-us/) and [Grim Dawn&nbsp;](http://www.grimdawn.com/)Charles: [Ruby Remote Conf](https://devchat.tv/conferences/ruby-remote-conf-2017), [autonomous.ai desks](https://www.autonomous.ai/), &nbsp;[The Anchor](https://www.amazon.com/Anchor-ORIGINAL-Under-Desk-Headphone-Stand/dp/B00P31BMHG), and 1995&nbsp;Dodge Dakota
+David:&nbsp;[Mario Run](https://itunes.apple.com/us/app/super-mario-run/id1145275343?mt=8)Brian: [Overwatch](https://playoverwatch.com/en-us/) and [Grim Dawn&nbsp;](https://www.grimdawn.com/)Charles: [Ruby Remote Conf](https://devchat.tv/conferences/ruby-remote-conf-2017), [autonomous.ai desks](https://www.autonomous.ai/), &nbsp;[The Anchor](https://www.amazon.com/Anchor-ORIGINAL-Under-Desk-Headphone-Stand/dp/B00P31BMHG), and 1995&nbsp;Dodge Dakota
 
 ### Transcript

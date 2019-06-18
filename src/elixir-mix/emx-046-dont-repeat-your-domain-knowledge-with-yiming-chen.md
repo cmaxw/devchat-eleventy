@@ -5,7 +5,7 @@ title: >
 date: 2019-04-09 10:00:47
 episode_number: 046
 duration: 53:43
-audio_url: http://media.devchat.tv/elixir-mix/EMx_046_Don't_Repeat_Your_Domain_Knowledge_with_Yiming_Chen.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_046_Don't_Repeat_Your_Domain_Knowledge_with_Yiming_Chen.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/elixir)offers a $1000 signing bonus
 - [.TECH](https://get.tech/) – [Go.tech/Elixir](https://get.tech/?&coupon=ELIXIR.TECH&utm_source=Influencer&utm_medium=Podcast&utm_campaign=ElixirMix) and use the coupon code “ELIXIR.TECH” and get a 1 year .TECH Domain at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)
@@ -34,10 +34,10 @@ Yiming Chen and the panel discusses his recent blog post about not repeating dom
 - [https://pragprog.com/book/tpp/the-pragmatic-programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 - [https://github.com/schrockwell/bodyguard](https://github.com/schrockwell/bodyguard)
 - [https://thoughtbot.com/blog](https://thoughtbot.com/blog)
-- [http://bikeshed.fm/186](http://bikeshed.fm/186)
+- [https://bikeshed.fm/186](https://bikeshed.fm/186)
 - [https://github.com/plataformatec/mox](https://github.com/plataformatec/mox)
 - [https://www.youtube.com/watch?v=5SbWapbXhKo](https://www.youtube.com/watch?v=5SbWapbXhKo)
-- [http://dsdshcym.github.io/](http://dsdshcym.github.io/)
+- [https://dsdshcym.github.io/](https://dsdshcym.github.io/)
 - [https://twitter.com/dsdshcym](https://twitter.com/dsdshcym)
 - [https://www.facebook.com/Elixir-Mix](https://www.facebook.com/Elixir-Mix-302533817267005/)
 - [https://twitter.com/elixir\_mix](https://twitter.com/elixir_mix)

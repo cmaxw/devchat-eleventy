@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors:**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/astory) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -33,11 +33,11 @@ They discuss the absolute need for continuous integration (CI) in developer team
 - [https://devchat.tv/js-jabber/jsj-345-azure-devops-with-donovan-brown-live-at-microsoft-ignite/](https://devchat.tv/js-jabber/jsj-345-azure-devops-with-donovan-brown-live-at-microsoft-ignite/)
 - [Donovan Brown’s GitHub](https://github.com/DarqueWarrior)
 - [Donovan Brown’s Twitter](https://twitter.com/DonovanBrown?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [Donovan Brown](http://donovanbrown.com/)
+- [Donovan Brown](https://donovanbrown.com/)
 - [Donovan Brown – Channel 9](https://channel9.msdn.com/Events/Speakers/donovan-brown)
 - [Donovan Brown – Microsoft](https://developer.microsoft.com/en-us/advocates/donovan-brown)
 - [Azure](https://azure.microsoft.com/en-us/free/search/?&OCID=AID719825_SEM_nLUGHrbQ&lnkd=Google_Azure_Brand&gclid=EAIaIQobChMInYG5oonk3QIVDoxpCh3XjAl7EAAYASAAEgLdh_D_BwE&dclid=CLj7g6SJ5N0CFZUGfQodq7gGrA)
-- [YoTeam](http://donovanbrown.com/post/yo-TFS)
+- [YoTeam](https://donovanbrown.com/post/yo-TFS)
 - [Azure.com/devops](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 - [https://azuredevopsdemogenerator.azurewebsites.net/](https://azuredevopsdemogenerator.azurewebsites.net/)
 - [https://azure.microsoft.com/en-us/services/devops/pipelines/](https://azure.microsoft.com/en-us/services/devops/pipelines/)
@@ -49,8 +49,8 @@ They discuss the absolute need for continuous integration (CI) in developer team
 
 **Donovan:**
 
-- [YoTeam](http://donovanbrown.com/post/yo-Team)
-- [VSTeam Powershell Module](http://donovanbrown.com/post/PowerShell-I-would-like-you-to-meet-TFS-and-VSTS)
+- [YoTeam](https://donovanbrown.com/post/yo-Team)
+- [VSTeam Powershell Module](https://donovanbrown.com/post/PowerShell-I-would-like-you-to-meet-TFS-and-VSTS)
 
 **Charles:**
 

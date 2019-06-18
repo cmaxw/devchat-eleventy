@@ -15,7 +15,7 @@ tags:
 01:28 - Keith Perhac Introduction
 
 - [Twitter](https://twitter.com/harisenbon79)
-- [Blog](http://keithperhac.com)
+- [Blog](https://keithperhac.com)
 
 02:09 - How do you find stuff that you can repurpose?
 
@@ -37,7 +37,7 @@ tags:
 - Refunds and Chargebacks
   Picks
 
-[Work the System: The Simple Mechanics of Making More and Working Less by Sam Carpente](http://www.amazon.com/gp/product/160832253X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=devchattv-20&linkId=DKXDBBIAO47WUW72) (Keith)[The Brain Audit: Why Customers Buy (and Why They Don't) by Sean D'Souza](http://www.amazon.com/gp/product/0473175045/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0473175045&linkCode=as2&tag=devchattv-20&linkId=SLVZSB47MZ6D4B5O) (Keith)[Hooked: How to Build Habit-Forming Products by Nir Eyal](http://www.amazon.com/gp/product/1591847788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591847788&linkCode=as2&tag=devchattv-20&linkId=JIE4IXNLB2FQEIGZ) (Keith)[Skype](http://www.skype.com/) (Keith)[Schedule Once](http://www.scheduleonce.com/) (Keith)[Edgar](http://meetedgar.com/) (Jonathan)[Facebook Ads Manual: Everything you need to know to get started by Mojca Mars](https://gumroad.com/l/facebook-ads) (Jonathan)[Blab](http://blab.im) (Philip)[Website Teardown with Kurt Elster and Kai Davis](http://kurtelster.com/products/websiteteardowns/) (Reuven) Putting tabasco on popcorn (Reuven) Spending time with your family (Chuck)[@cmaxw](https://twitter.com/cmaxw) (Chuck)[Freelance Remote Conf](http://freelanceremoteconf.com/) (Chuck)
+[Work the System: The Simple Mechanics of Making More and Working Less by Sam Carpente](https://www.amazon.com/gp/product/160832253X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=devchattv-20&linkId=DKXDBBIAO47WUW72) (Keith)[The Brain Audit: Why Customers Buy (and Why They Don't) by Sean D'Souza](https://www.amazon.com/gp/product/0473175045/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0473175045&linkCode=as2&tag=devchattv-20&linkId=SLVZSB47MZ6D4B5O) (Keith)[Hooked: How to Build Habit-Forming Products by Nir Eyal](https://www.amazon.com/gp/product/1591847788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591847788&linkCode=as2&tag=devchattv-20&linkId=JIE4IXNLB2FQEIGZ) (Keith)[Skype](https://www.skype.com/) (Keith)[Schedule Once](https://www.scheduleonce.com/) (Keith)[Edgar](https://meetedgar.com/) (Jonathan)[Facebook Ads Manual: Everything you need to know to get started by Mojca Mars](https://gumroad.com/l/facebook-ads) (Jonathan)[Blab](https://blab.im) (Philip)[Website Teardown with Kurt Elster and Kai Davis](https://kurtelster.com/products/websiteteardowns/) (Reuven) Putting tabasco on popcorn (Reuven) Spending time with your family (Chuck)[@cmaxw](https://twitter.com/cmaxw) (Chuck)[Freelance Remote Conf](https://freelanceremoteconf.com/) (Chuck)
 
 ### Transcript
 

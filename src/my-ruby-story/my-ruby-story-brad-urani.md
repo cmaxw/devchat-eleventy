@@ -34,7 +34,7 @@ Connect with Brad on Twitter and blog. You can also follow him through the links
 
 - [reinteractive](https://reinteractive.com/)
 - [reinteractive Community](https://reinteractive.com/community)
-- [Rails Install Fest](http://railsinstallfest.org)
+- [Rails Install Fest](https://railsinstallfest.org)
 - [Confident Software book registration page](https://reinteractive.com/book/confident_software)
 
 ## Picks:
@@ -43,6 +43,6 @@ Brad: Procore Technologies, The Thrilling Adventures of Lovelace and Babbage, an
 
 ## Episode Links:
 
-[Mail Gem](https://github.com/mikel/mail)[DHH Whoops video](https://www.youtube.com/watch?v=Gzj723LkRJY)README Driven Development[Fun Post on Why Ruby and Rails is Still the Best](https://reinteractive.com/posts/320-why-ruby-on-rails-is-still-the-best)[TopSekr.it One Time Password Sharing](https://topsekr.it/)[RailsDiff](http://railsdiff.org/)
+[Mail Gem](https://github.com/mikel/mail)[DHH Whoops video](https://www.youtube.com/watch?v=Gzj723LkRJY)README Driven Development[Fun Post on Why Ruby and Rails is Still the Best](https://reinteractive.com/posts/320-why-ruby-on-rails-is-still-the-best)[TopSekr.it One Time Password Sharing](https://topsekr.it/)[RailsDiff](https://railsdiff.org/)
 
 ### Transcript

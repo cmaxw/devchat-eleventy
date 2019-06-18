@@ -14,7 +14,7 @@ tags:
 
 02:54 - Everyone Gets It But Me
 
-- [Martin Fowler](http://www.martinfowler.com/)
+- [Martin Fowler](https://www.martinfowler.com/)
 
 04:06 - Tools You “Need” to Know
 
@@ -22,28 +22,28 @@ tags:
 
 07:39 - JavaScript as “Object-Oriented” vs “Event-Oriented”
 
-- [Object-Oriented Programming](http://en.wikipedia.org/wiki/Object-oriented_programming)
+- [Object-Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
 09:30 - Code That Can’t Be Serialized or Deserialized
 
 10:49 - Clojures (Cont’d)
 
-14:32 - [The DOM (Document Object Model)](http://en.wikipedia.org/wiki/Document_Object_Model)
+14:32 - [The DOM (Document Object Model)](https://en.wikipedia.org/wiki/Document_Object_Model)
 
 - [[YouTube] Angular + React = Speed by Dave Smith @ ng-conf 2015](https://www.youtube.com/watch?v=XQM0K6YG18s)
 
 19:52 - Math Is Hard
 
-- [IEEE754](http://en.wikipedia.org/wiki/IEEE_floating_point) (Floating-Point Arithmetic)
+- [IEEE754](https://en.wikipedia.org/wiki/IEEE_floating_point) (Floating-Point Arithmetic)
 
 22:39 - Prototypes
 
-- [Sebastian Porto: A Plain English Guide to JavaScript Prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
+- [Sebastian Porto: A Plain English Guide to JavaScript Prototypes](https://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
 
 25:43 - Asynchronous Programming
 
 - Debugging
-- [Gregor Hohpe: Your Coffee Shop Doesn’t Use Two-Phase Commit](http://www.eaipatterns.com/docs/IEEE_Software_Design_2PC.pdf)
+- [Gregor Hohpe: Your Coffee Shop Doesn’t Use Two-Phase Commit](https://www.eaipatterns.com/docs/IEEE_Software_Design_2PC.pdf)
 - How Do You Learn It?
 
 32:23 - Browser Environments
@@ -55,18 +55,18 @@ tags:
 - Nesting
 - Context Switching
 
-42:48 - [UTF-8](http://en.wikipedia.org/wiki/UTF-8) Conversion
+42:48 - [UTF-8](https://en.wikipedia.org/wiki/UTF-8) Conversion
 
 44:56 - Jamison’s Stack
 
 - [React](https://facebook.github.io/react/)
-- [Koa&nbsp;&nbsp; &nbsp;](http://koajs.com/)
-- [RethinkDB](http://rethinkdb.com/)
+- [Koa&nbsp;&nbsp; &nbsp;](https://koajs.com/)
+- [RethinkDB](https://rethinkdb.com/)
 - [io.js](https://iojs.org/)
-- [Webpack](http://webpack.github.io/)
-  Check out and sign up to get new on [React Rally](http://www.reactrally.com/): A community React conference on August 24th and 25th in Salt Lake City, Utah!Picks
+- [Webpack](https://webpack.github.io/)
+  Check out and sign up to get new on [React Rally](https://www.reactrally.com/): A community React conference on August 24th and 25th in Salt Lake City, Utah!Picks
 
-[Jason Orendorff: ES6 In Depth](https://hacks.mozilla.org/2015/04/es6-in-depth-an-introduction/?utm_source=javascriptweekly&utm_medium=email) (Aimee)[Cat Strollers](http://www.amazon.com/Best-Sellers-Pet-Supplies-Cat-Strollers/zgbs/pet-supplies/3024134011) (Aimee)[Stephano Legacy of the Void](https://www.google.com/?gws_rd=ssl#q=stephano%20legacy%20of%20the%20void) (Joe)[A Gentleman's Guide to Love and Murder](http://www.agentlemansguidebroadway.com/) (Joe)[Gregor Hohpe: Your Coffee Shop Doesn’t Use Two-Phase Commit](http://www.eaipatterns.com/docs/IEEE_Software_Design_2PC.pdf) &nbsp;(AJ)[Firefox OS](https://www.mozilla.org/en-US/firefox/os/2.0/) (AJ)[Flame](https://developer.mozilla.org/en-US/Firefox_OS/Phone_guide/Flame) (AJ)[OpenWest 2015](http://www.openwest.org/) (AJ)[801 Labs Hackerspace](https://www.801labs.org/) (AJ)[Stack Overflow Careers](http://careers.stackoverflow.com/) (AJ)[Dota](http://www.dota2.com/684/)[2](http://www.dota2.com/684/) (Jamison)[Beats, Rye & Types Podcast](http://beatsryetypes.com/) (Jamison)[JS Remote Conf Talks](https://www.youtube.com/playlist?list=PLt8NYnKC3dzL95z5xksIZHxFjErPlC3Xq) (Chuck)[Workflowy](http://workflowy.com) (Chuck)
+[Jason Orendorff: ES6 In Depth](https://hacks.mozilla.org/2015/04/es6-in-depth-an-introduction/?utm_source=javascriptweekly&utm_medium=email) (Aimee)[Cat Strollers](https://www.amazon.com/Best-Sellers-Pet-Supplies-Cat-Strollers/zgbs/pet-supplies/3024134011) (Aimee)[Stephano Legacy of the Void](https://www.google.com/?gws_rd=ssl#q=stephano%20legacy%20of%20the%20void) (Joe)[A Gentleman's Guide to Love and Murder](https://www.agentlemansguidebroadway.com/) (Joe)[Gregor Hohpe: Your Coffee Shop Doesn’t Use Two-Phase Commit](https://www.eaipatterns.com/docs/IEEE_Software_Design_2PC.pdf) &nbsp;(AJ)[Firefox OS](https://www.mozilla.org/en-US/firefox/os/2.0/) (AJ)[Flame](https://developer.mozilla.org/en-US/Firefox_OS/Phone_guide/Flame) (AJ)[OpenWest 2015](https://www.openwest.org/) (AJ)[801 Labs Hackerspace](https://www.801labs.org/) (AJ)[Stack Overflow Careers](https://careers.stackoverflow.com/) (AJ)[Dota](https://www.dota2.com/684/)[2](https://www.dota2.com/684/) (Jamison)[Beats, Rye & Types Podcast](https://beatsryetypes.com/) (Jamison)[JS Remote Conf Talks](https://www.youtube.com/playlist?list=PLt8NYnKC3dzL95z5xksIZHxFjErPlC3Xq) (Chuck)[Workflowy](https://workflowy.com) (Chuck)
 
 ### Transcript
 

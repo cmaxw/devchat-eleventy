@@ -30,11 +30,11 @@ Mikel is currently in search of someone who could work with him in the Mail Gem.
 
 ## Confident Software
 
-Confident Software is a book Mikel has been writing. This book covers about his learnings in programming over the last decade. He's been in positions that not many others have been in. In the last 10 years, he has handled close to 200 applications. This taught him what really matters when you're writing a software project for someone who has to pay for it.Download and listen to _Confident Software with Mikel_ Lindsaar. Connect with Mikel on his [website](http://www.lindsaar.net/), &nbsp;[Twitter](https://twitter.com/lindsaar?lang=en), and [Github](https://github.com/mikel). He would surely love to hear from you! Don't forget to to tell him that you heard about him in Devchat.tv.&nbsp;
+Confident Software is a book Mikel has been writing. This book covers about his learnings in programming over the last decade. He's been in positions that not many others have been in. In the last 10 years, he has handled close to 200 applications. This taught him what really matters when you're writing a software project for someone who has to pay for it.Download and listen to _Confident Software with Mikel_ Lindsaar. Connect with Mikel on his [website](https://www.lindsaar.net/), &nbsp;[Twitter](https://twitter.com/lindsaar?lang=en), and [Github](https://github.com/mikel). He would surely love to hear from you! Don't forget to to tell him that you heard about him in Devchat.tv.&nbsp;
 
 ## Picks:
 
-Dave: [Rails Assets](https://rails-assets.org/#/)&nbsp;and bacon pancakes Charles: [Contactually&nbsp;](http://www.contactually.com/)&nbsp;and [Ruby Remote Conf 2017](https://devchat.tv/conferences/ruby-remote-conf-2017)Mikel: [Top Sekr.it](https://topsekr.it/)&nbsp;and [RailsDiff.org](http://railsdiff.org/)
+Dave: [Rails Assets](https://rails-assets.org/#/)&nbsp;and bacon pancakes Charles: [Contactually&nbsp;](https://www.contactually.com/)&nbsp;and [Ruby Remote Conf 2017](https://devchat.tv/conferences/ruby-remote-conf-2017)Mikel: [Top Sekr.it](https://topsekr.it/)&nbsp;and [RailsDiff.org](https://railsdiff.org/)
 
 ## Episode Links:
 

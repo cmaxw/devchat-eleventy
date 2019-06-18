@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/astory) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Guest:** &nbsp;Adrian Fâciu
@@ -35,7 +35,7 @@ In this episode of My Angular Story, Charles hosts Adrian Fâciu, a system archi
 
 ### **&nbsp;Picks**
  **Adrian Fâciu:**
-- [revo.js Conference](http://revojs.ro)
+- [revo.js Conference](https://revojs.ro)
 **Charles Max Wood:**
 - [Podfest](https://podfestexpo.com/)
 - Charles' Personal Blog

@@ -38,6 +38,6 @@ Connect with Devon on [Twitter](https://twitter.com/devoncestes?lang=en)&nbsp;an
 
 ## Picks:
 
-Devon: [ErgoDox EZ keyboard](https://ergodox-ez.com/), [Dragonball Super](http://www.crunchyroll.com/dragon-ball-super), and [Veep](http://www.hbo.com/veep)Charles: Intel i7 7700 processor, Corsair Vengeance 64GB, SilverStone Technology RL06WS PRO case, GeForce GTX 1080,&nbsp;Windows 10 Linux command line
+Devon: [ErgoDox EZ keyboard](https://ergodox-ez.com/), [Dragonball Super](https://www.crunchyroll.com/dragon-ball-super), and [Veep](https://www.hbo.com/veep)Charles: Intel i7 7700 processor, Corsair Vengeance 64GB, SilverStone Technology RL06WS PRO case, GeForce GTX 1080,&nbsp;Windows 10 Linux command line
 
 ### Transcript

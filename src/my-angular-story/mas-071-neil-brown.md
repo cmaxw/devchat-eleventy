@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry&nbsp;](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry&nbsp;](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/astory)offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Guest:** &nbsp;Neil Brown
@@ -25,7 +25,7 @@ In this episode of My Angular Story, Charles hosts Neil Brown, a research fellow
 - <u><a href="https://devchat.tv/adv-in-angular/aia-202-programming-education-education-research-with-neil-brown/">Adventures in Angular 202: “Programming education/education research” with Neil Brown</a></u>
 - <u><a href="https://devchat.tv/ruby-rogues/257-rr-learning-and-training-with-neil-brown/">Ruby Rogues 257: Learning and Training with Neil Brown</a></u>
 - [Neil's Podcast](https://hanselminutes.com/636/tips-for-teaching-programming-with-dr-neil-brown)
-- [Neil's Article](http://www.felienne.com/archives/5935)
+- [Neil's Article](https://www.felienne.com/archives/5935)
 - [Neil's Twitter](https://twitter.com/neilccbrown)
 - [Tips for Teaching Programming with Dr. Neil Brown](https://radiopublic.com/hanselminutes-fresh-talk-and-tec-8jzRJj/ep/s1!df6ad)
 - [BlueJ](https://bluej.org/)

@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/cironunesdev)
 - [GitHub](https://github.com/cironunes)
-- [Blog](http://cironunes.com/)
+- [Blog](https://cironunes.com/)
 
 02:39 - [Command-line Interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)
 
@@ -24,7 +24,7 @@ tags:
 
 08:10 - Features and Improvements for Angular 2
 
-- [Ruby on Rails](http://rubyonrails.org/)
+- [Ruby on Rails](https://rubyonrails.org/)
 - AST ([Abstract Syntax Tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)) Transformations
   - [NG6-starter](https://github.com/AngularClass/NG6-starter)
 
@@ -38,11 +38,11 @@ tags:
 
 35:38 - GitHub Pages; Community Contribution
 
-- [Angular-cli](http://github.com/angular/angular-cli)
+- [Angular-cli](https://github.com/angular/angular-cli)
 - [The GDE Program](https://developers.google.com/experts/)
   Picks
 
-[Star Wars: The Force Awakens](http://www.starwars.com/the-force-awakens) (John)[LEGO® Star Wars: The Force Awakens](http://www.lego.com/en-us/starwars/games/videogame) (John)[ng-conf](https://www.ng-conf.org/) (John)[AngleBrackets](https://anglebrackets.org/) (John)[Disturbed - The Sound Of Silence](https://www.youtube.com/watch?v=u9Dg-g7t2l4) (Joe)[The Hello World Podcast](http://hwpod.libsyn.com/) (Joe)[Jurgen Van de Moere: How I feel about Angular 2](http://www.jvandemo.com/how-i-feel-about-angular-2/) (Ciro)[angular-cli](http://github.com/angular/angular-cli) (Ciro)
+[Star Wars: The Force Awakens](https://www.starwars.com/the-force-awakens) (John)[LEGO® Star Wars: The Force Awakens](https://www.lego.com/en-us/starwars/games/videogame) (John)[ng-conf](https://www.ng-conf.org/) (John)[AngleBrackets](https://anglebrackets.org/) (John)[Disturbed - The Sound Of Silence](https://www.youtube.com/watch?v=u9Dg-g7t2l4) (Joe)[The Hello World Podcast](https://hwpod.libsyn.com/) (Joe)[Jurgen Van de Moere: How I feel about Angular 2](https://www.jvandemo.com/how-i-feel-about-angular-2/) (Ciro)[angular-cli](https://github.com/angular/angular-cli) (Ciro)
 
 ### Transcript
 

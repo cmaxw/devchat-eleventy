@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/mikeash)
 - [GitHub](https://github.com/mikeash)
-- [Blog](http://www.mikeash.com/)
+- [Blog](https://www.mikeash.com/)
 - [Plausible Labs](https://plausible.coop/)
   - [PLCrashReporter](https://www.plcrashreporter.org/)
   - [VoodooPad](https://plausible.coop/voodoopad/)
@@ -49,7 +49,7 @@ tags:
 24:27 - Use Cases, Connection
 
 - [AT&T Mark the Spot App](https://itunes.apple.com/us/app/at-t-mark-the-spot/id338307313?mt=8)
-- [Network Link Conditioner](http://nshipster.com/network-link-conditioner/)
+- [Network Link Conditioner](https://nshipster.com/network-link-conditioner/)
 - [Designing for Real-World Networks](https://developer.apple.com/library/ios/documentation/NetworkingInternetWeb/Conceptual/NetworkingOverview/WhyNetworkingIsHard/WhyNetworkingIsHard.html)
 
 33:51 - Online/Offline Detection, Handling Slow Responses
@@ -64,7 +64,7 @@ tags:
 
 42:50 - SupportPicks
 
-[Differential Synchronization by Neil Fraser](https://neil.fraser.name/writing/sync/) (Mike)[MailRoute](http://mailroute.net/) (Andrew)[SCSI2SD](http://www.codesrc.com/mediawiki/index.php?title=SCSI2SD) (Andrew)[GFood Lounge](http://www.gfoodlounge.com/) (Jaim)[Calzone's Italian Restaurant in San Francisco](http://www.calzonesf.com/) (Jaim)
+[Differential Synchronization by Neil Fraser](https://neil.fraser.name/writing/sync/) (Mike)[MailRoute](https://mailroute.net/) (Andrew)[SCSI2SD](https://www.codesrc.com/mediawiki/index.php?title=SCSI2SD) (Andrew)[GFood Lounge](https://www.gfoodlounge.com/) (Jaim)[Calzone's Italian Restaurant in San Francisco](https://www.calzonesf.com/) (Jaim)
 
 ### Transcript
 

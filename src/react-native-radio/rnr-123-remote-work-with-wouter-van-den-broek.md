@@ -14,7 +14,7 @@ tags:
 
 #### **Sponsors:**
 
-- [Radio Infinite Red](http://radio.infinite.red/)
+- [Radio Infinite Red](https://radio.infinite.red/)
 - [TripleByte](https://triplebyte.com/reactradio) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 

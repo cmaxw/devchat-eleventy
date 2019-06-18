@@ -18,8 +18,8 @@ On today's episode of iPhreaks, Gui Rambo, Erica Sadun, Jaim Zuber and special g
 
 - [Book: Rework](https://www.amazon.com/Rework-Chinese-Jason-Fried/dp/7508623614)
   **Erica Sadun**
-- [Manga: Monkey King](<http://www.wikiwand.com/en/The_Monkey_King_(manga)>)
-- [Blog: Simulating a Second Finger During Drag](http://ericasadun.com/2017/06/07/simulating-a-second-finger-during-drag/)
+- [Manga: Monkey King](<https://www.wikiwand.com/en/The_Monkey_King_(manga)>)
+- [Blog: Simulating a Second Finger During Drag](https://ericasadun.com/2017/06/07/simulating-a-second-finger-during-drag/)
   **Gui Rambo**
 - [Chibi Studio](https://scratch.mit.edu/studios/2906986/)
 - [iOS Drag and Drop (Session 203)](https://developer.apple.com/videos/play/wwdc2017/203/)

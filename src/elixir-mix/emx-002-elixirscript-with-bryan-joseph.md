@@ -44,7 +44,7 @@ In this episode of Elixir Mix, the panel discusses ElixirScript with Bryan Josep
 - Was there a pain point at all?
 - How far did you get with processes?
 - [Processes library](https://github.com/elixirscript/processes)
-- Do have plans to move this over to [WebAssembly](http://webassembly.org/)?
+- Do have plans to move this over to [WebAssembly](https://webassembly.org/)?
 - [ElixirScript React Library](https://github.com/elixirscript/elixirscript_react)
 - [Vue](https://vuejs.org/)
 - [Webpack](https://webpack.js.org/)
@@ -56,7 +56,7 @@ In this episode of Elixir Mix, the panel discusses ElixirScript with Bryan Josep
 - [Elixir](https://elixir-lang.org/)
 - [ElixirScript](https://github.com/elixirscript)
 - [Processes Library](https://github.com/elixirscript/processes)
-- [WebAssembly](http://webassembly.org/)
+- [WebAssembly](https://webassembly.org/)
 - [ElixirScript React Library](https://github.com/elixirscript/elixirscript_react)
 - [Vue](https://vuejs.org/)
 - [Webpack](https://webpack.js.org/)
@@ -78,7 +78,7 @@ Justin
 Josh
 
 - Capabilities 101
-- [erights.org](http://erights.org/)
+- [erights.org](https://erights.org/)
 
 Bryan
 

@@ -34,6 +34,6 @@ Guillherme Rambo: [Is It Snappy iOs app](https://itunes.apple.com/us/app/is-it-s
 
 ## Episode Link:
 
-[Quality Coding](http://qualitycoding.org/)
+[Quality Coding](https://qualitycoding.org/)
 
 ### Transcript

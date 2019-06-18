@@ -30,6 +30,6 @@ Feedback is the only way to get things done. It is through this that a teacher i
 
 ## Andrew Wants to Hear from You
 
-Reach out to Andrew by following and tweeting him&nbsp;@armadsen. Don’t forget to let them&nbsp;know you heard about him on Devchat.tv’s iPhreaks&nbsp;podcast! If you’re short on time, here are the highlights of 187 Giving Back: How Andrew started out in teaching? (0:41) How did his daily routine changed? (1:39) How Andrew made his teaching effective? (5:30) Teaching highly intellectual students? (14:12) Experience in speaking at conferences? (22:24) **Picks:** Andrew - [ADTPro](http://adtpro.sourceforge.net/), [Other World Computing](https://www.macsales.com/)Jaim - [HelpMeAbstract.com](http://helpmeabstract.com/)
+Reach out to Andrew by following and tweeting him&nbsp;@armadsen. Don’t forget to let them&nbsp;know you heard about him on Devchat.tv’s iPhreaks&nbsp;podcast! If you’re short on time, here are the highlights of 187 Giving Back: How Andrew started out in teaching? (0:41) How did his daily routine changed? (1:39) How Andrew made his teaching effective? (5:30) Teaching highly intellectual students? (14:12) Experience in speaking at conferences? (22:24) **Picks:** Andrew - [ADTPro](https://adtpro.sourceforge.net/), [Other World Computing](https://www.macsales.com/)Jaim - [HelpMeAbstract.com](https://helpmeabstract.com/)
 
 ### Transcript

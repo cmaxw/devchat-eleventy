@@ -14,53 +14,53 @@ tags:
 
 ### Panel
 
-- Alex MacCaw ([twitter](http://www.twitter.com/maccman) [github](https://github.com/maccman) [blog](http://blog.alexmaccaw.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Alex MacCaw ([twitter](https://www.twitter.com/maccman) [github](https://github.com/maccman) [blog](https://blog.alexmaccaw.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-01:13 - [Going Rogue Video](http://www.goingroguevideo.com/)02:12 - Alex MacCaw Introduction
+01:13 - [Going Rogue Video](https://www.goingroguevideo.com/)02:12 - Alex MacCaw Introduction
 
-- [029 JSJ Bower.js with Alex MacCaw and Jacob Thornton](http://javascriptjabber.com/029-jsj-bower-js-with-alex-maccaw-and-jacob-thornton/)
-- [JavaScript Web Applications: jQuery Developers' Guide to Moving State to the Client by Alex MacCaw](http://shop.oreilly.com/product/0636920018421.do)
-- [The Little Book on CoffeeScript: The JavaScript Developer's Guide to Building Better Web Apps by Alex MacCaw](http://shop.oreilly.com/product/0636920024309.do)
-  02:44 - [Monocle](http://monocle.io/)
+- [029 JSJ Bower.js with Alex MacCaw and Jacob Thornton](https://javascriptjabber.com/029-jsj-bower-js-with-alex-maccaw-and-jacob-thornton/)
+- [JavaScript Web Applications: jQuery Developers' Guide to Moving State to the Client by Alex MacCaw](https://shop.oreilly.com/product/0636920018421.do)
+- [The Little Book on CoffeeScript: The JavaScript Developer's Guide to Building Better Web Apps by Alex MacCaw](https://shop.oreilly.com/product/0636920024309.do)
+  02:44 - [Monocle](https://monocle.io/)
 - Alternative for [Hacker News](https://news.ycombinator.com/news)
   03:39 - Speed
-- [Alex MacCaw: Time to first tweet](http://blog.alexmaccaw.com/time-to-first-tweet)
-- [sinatra](http://www.sinatrarb.com/)
+- [Alex MacCaw: Time to first tweet](https://blog.alexmaccaw.com/time-to-first-tweet)
+- [sinatra](https://www.sinatrarb.com/)
 - MVC Framework
 - Synchronicity
   10:48 - SEO
-- [Google Webmaster Tools](http://www.youtube.com/user/GoogleWebmasterHelp)
-- [The Google Webmaster Video on Single-page Apps / SEO](http://www.youtube.com/watch?v=Mibrj2bOFCU)
-- [Alex MacCaw: SEO in JS Web Apps](http://blog.alexmaccaw.com/seo-in-js-web-apps)
-  14:01 - The Social Aspect of Monocle/Community 17:09 - Caching 17:47 - [Google Website Optimizer](http://services.google.com/websiteoptimizer/)18:26 - Responsiveness 21:00 - Client-side & Server-side 25:11 - Testing for Performance
-- [PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)
+- [Google Webmaster Tools](https://www.youtube.com/user/GoogleWebmasterHelp)
+- [The Google Webmaster Video on Single-page Apps / SEO](https://www.youtube.com/watch?v=Mibrj2bOFCU)
+- [Alex MacCaw: SEO in JS Web Apps](https://blog.alexmaccaw.com/seo-in-js-web-apps)
+  14:01 - The Social Aspect of Monocle/Community 17:09 - Caching 17:47 - [Google Website Optimizer](https://services.google.com/websiteoptimizer/)18:26 - Responsiveness 21:00 - Client-side & Server-side 25:11 - Testing for Performance
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   28:39 - The Design Process
-- [sinatra](http://www.sinatrarb.com/)
+- [sinatra](https://www.sinatrarb.com/)
 - [sequel](https://github.com/jeremyevans/sequel)
-  31:44 - [Sourcing.io](http://sourcing.io/)
-- [Sourcing.io Signup](http://sourcing.io/?exclus1ve)
+  31:44 - [Sourcing.io](https://sourcing.io/)
+- [Sourcing.io Signup](https://sourcing.io/?exclus1ve)
   34:15 - Inspiration
 
 ### Picks
 
-- [MicroFormat Tool](http://www.google.com/webmasters/tools/richsnippets) (AJ)
+- [MicroFormat Tool](https://www.google.com/webmasters/tools/richsnippets) (AJ)
 - [Google Markup Helper](https://www.google.com/webmasters/markup-helper/u/0/) (AJ)
 - [Gmail Markup Schemas](https://developers.google.com/gmail/actions/embedding-schemas-in-emails) (AJ)
 - [OUYA](https://www.ouya.tv/) (AJ)
-- [TowerFall](http://www.towerfall-game.com/) (AJ)
-- [Final Fantasy 7](http://vimm.net/vault/?p=details&id=2826) (emulator) [Final Fantasy 7](http://finalfantasyviipc.com/us) (PC) (AJ)
-- [Sunlounger](http://www.amazon.com/Sunlounger/e/B001LHPNL2) (Joe)
-- [Pebble Watch](http://getpebble.com/) (Joe)
-- [ng-conf](http://www.ng-conf.org/) (Joe)
-- [Book Yourself Solid: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port](http://www.amazon.com/gp/product/0470643471/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470643471&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Coder](http://googlecreativelab.github.io/coder/) (Alex)
-- [List of Ig Nobel Prize winners](http://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners) (Alex)
+- [TowerFall](https://www.towerfall-game.com/) (AJ)
+- [Final Fantasy 7](https://vimm.net/vault/?p=details&id=2826) (emulator) [Final Fantasy 7](https://finalfantasyviipc.com/us) (PC) (AJ)
+- [Sunlounger](https://www.amazon.com/Sunlounger/e/B001LHPNL2) (Joe)
+- [Pebble Watch](https://getpebble.com/) (Joe)
+- [ng-conf](https://www.ng-conf.org/) (Joe)
+- [Book Yourself Solid: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port](https://www.amazon.com/gp/product/0470643471/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470643471&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Coder](https://googlecreativelab.github.io/coder/) (Alex)
+- [List of Ig Nobel Prize winners](https://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners) (Alex)
 
 ### Next Week
 

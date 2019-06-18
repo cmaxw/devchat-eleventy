@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/sebmck)
 - [GitHub](https://github.com/sebmck)
-- [Blog](http://sebmck.com/)
+- [Blog](https://sebmck.com/)
 
 02:53 - [Babel](https://babeljs.io/) (Pronunciation Clarification)
 
@@ -26,7 +26,7 @@ tags:
 
 09:14 - The State of Babel
 
-09:59 - Babel and the [TC39](http://www.ecma-international.org/memento/TC39.htm) Process
+09:59 - Babel and the [TC39](https://www.ecma-international.org/memento/TC39.htm) Process
 
 11:54 - Features That Can’t Be Transpiled
 
@@ -61,11 +61,11 @@ tags:
 
 35:03 - Marketing
 
-35:59 - [TypeScript](http://www.typescriptlang.org/)
+35:59 - [TypeScript](https://www.typescriptlang.org/)
 
 37:24 - Babel Development and LaborPicks
 
-[Primitive.io](http://primitive.io) (Joe)[Armada: The Novel by Ernest Cline](http://www.amazon.com/gp/product/0804137250/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137250&linkCode=as2&tag=chamaxwoo-20&linkId=R2I64YROOBSK45FS) (Joe)[How to Win Friends & Influence People by Dale Carnegie](http://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=chamaxwoo-20&linkId=DQMIFWRAMZ4DCMBA) (AJ)[Web Security Warriors Podcast](http://websecuritywarriors.com/) (AJ)[Nodevember](http://nodevember.org/) (Aimee)[The Hitchhiker's Guide to the Galaxy by Douglas Adams](http://www.amazon.com/gp/product/0345391802/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345391802&linkCode=as2&tag=chamaxwoo-20&linkId=PYZOYW4M2KN3UURK) (Dave)[Yellowstone National Park](http://www.nps.gov/yell/) (Dave)[React Rally](http://www.reactrally.com/) (Dave)[Iterativ: AngularJS Kurs](http://www.iterativ.ch/angularjskurs/) (Chuck)[Hire Thom Parkin!](https://github.com/ParkinT/HireMe) (Chuck)[The Martian by Andy Weir](http://www.amazon.com/gp/product/0553418025/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553418025&linkCode=as2&tag=chamaxwoo-20&linkId=EDQWKN3UCJLJ45DB) (Sebastian)[Five Guys Burgers and Fries](http://www.fiveguys.com/) (Sebastian)
+[Primitive.io](https://primitive.io) (Joe)[Armada: The Novel by Ernest Cline](https://www.amazon.com/gp/product/0804137250/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137250&linkCode=as2&tag=chamaxwoo-20&linkId=R2I64YROOBSK45FS) (Joe)[How to Win Friends & Influence People by Dale Carnegie](https://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=chamaxwoo-20&linkId=DQMIFWRAMZ4DCMBA) (AJ)[Web Security Warriors Podcast](https://websecuritywarriors.com/) (AJ)[Nodevember](https://nodevember.org/) (Aimee)[The Hitchhiker's Guide to the Galaxy by Douglas Adams](https://www.amazon.com/gp/product/0345391802/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345391802&linkCode=as2&tag=chamaxwoo-20&linkId=PYZOYW4M2KN3UURK) (Dave)[Yellowstone National Park](https://www.nps.gov/yell/) (Dave)[React Rally](https://www.reactrally.com/) (Dave)[Iterativ: AngularJS Kurs](https://www.iterativ.ch/angularjskurs/) (Chuck)[Hire Thom Parkin!](https://github.com/ParkinT/HireMe) (Chuck)[The Martian by Andy Weir](https://www.amazon.com/gp/product/0553418025/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553418025&linkCode=as2&tag=chamaxwoo-20&linkId=EDQWKN3UCJLJ45DB) (Sebastian)[Five Guys Burgers and Fries](https://www.fiveguys.com/) (Sebastian)
 
 ### Transcript
 

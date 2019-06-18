@@ -20,25 +20,25 @@ tags:
 - [John Papa](https://www.linkedin.com/in/papajohn)
 - [Chris Fritz](https://twitter.com/chrisvfritz?lang=en)
 
-**Special Guest:** [Duncan Grant](http://duncangrant.co.uk/contact.html)
+**Special Guest:** [Duncan Grant](https://duncangrant.co.uk/contact.html)
 
-In this episode, the panel talks with [Duncan Grant](http://duncangrant.co.uk/contact.html) who is a JavaScript developer and he talks briefly about his background. Today he discusses the [“Top Ten Things He Loves About Vue.”](https://medium.com/@dalaidunc/10-things-i-love-about-vue-505886ddaff2) He works in Cambridge, UK and is quite involved there. You can check [Duncan](http://duncangrant.co.uk/contact.html) out through [LinkedIn](https://www.linkedin.com/in/duncan-grant-3605901/), [Twitter](https://twitter.com/thewebnomad?lang=en), [Medium](https://medium.com/@dalaidunc), and other social media sites. He currently works for [Cambridge Intelligence](https://cambridge-intelligence.com). Check out his bios to see Duncan’s latest activity!
+In this episode, the panel talks with [Duncan Grant](https://duncangrant.co.uk/contact.html) who is a JavaScript developer and he talks briefly about his background. Today he discusses the [“Top Ten Things He Loves About Vue.”](https://medium.com/@dalaidunc/10-things-i-love-about-vue-505886ddaff2) He works in Cambridge, UK and is quite involved there. You can check [Duncan](https://duncangrant.co.uk/contact.html) out through [LinkedIn](https://www.linkedin.com/in/duncan-grant-3605901/), [Twitter](https://twitter.com/thewebnomad?lang=en), [Medium](https://medium.com/@dalaidunc), and other social media sites. He currently works for [Cambridge Intelligence](https://cambridge-intelligence.com). Check out his bios to see Duncan’s latest activity!
 
 **Show Topics:**
 
 2:30 – After a certain threshold, it doesn’t matter anymore if there is a vibrant community to learn and support from one another. If there were only one mindset then we’d be in trouble.
 
-2:50 – [Duncan:](http://duncangrant.co.uk/contact.html) Having a community to support each other is great – I agree.
+2:50 – [Duncan:](https://duncangrant.co.uk/contact.html) Having a community to support each other is great – I agree.
 
 3:50 – I think too many people get wrapped-up in the “newest, best” thing out there and that can get tiring.
 
 4:32 – Should I use X over Y? If you are happy and productive then there is no reason to switch. Why do that to yourself?
 
-5:45 – [Duncan:](http://duncangrant.co.uk/contact.html) I only have been using Vue for only 1½ year. I was reluctant to use Vue at first. He wasn’t that interested. Eventually, I did have a look because it was someone saying: “Vue is the new [jQuery](https://jquery.com).” There was a very out-there-comment, and so it made my interested to check-out [Vue](https://vuejs.org). Some of the concepts are very reusable.
+5:45 – [Duncan:](https://duncangrant.co.uk/contact.html) I only have been using Vue for only 1½ year. I was reluctant to use Vue at first. He wasn’t that interested. Eventually, I did have a look because it was someone saying: “Vue is the new [jQuery](https://jquery.com).” There was a very out-there-comment, and so it made my interested to check-out [Vue](https://vuejs.org). Some of the concepts are very reusable.
 
 8:03 – Let’s ask a question, first – what do you NOT like about [Vue](https://vuejs.org)?
 
-8:15 – [Duncan:](http://duncangrant.co.uk/contact.html) It’s the lack of what [Vue](https://vuejs.org) has to offer or not offer.
+8:15 – [Duncan:](https://duncangrant.co.uk/contact.html) It’s the lack of what [Vue](https://vuejs.org) has to offer or not offer.
 
 9:09 – Vue doesn’t have a lot of opinions, unlike [Angular](https://www.upwork.com/ppc/landing/?ct=Programmers&gclid=EAIaIQobChMIuK2B156s3QIVRtbACh0u7wcBEAAYAiAAEgK66_D_BwE&hl=Top%2520Rated%2520AngularJS%2520Programmers&query=AngularJS&vt_med=provenD2) among others.
 
@@ -52,7 +52,7 @@ In this episode, the panel talks with [Duncan Grant](http://duncangrant.co.uk/co
 
 13:05 – For me, [Vue](https://vuejs.org), feels like I can get this thing running very quickly, but you don’t’ have to take them on when you are ready. It’s a slow progressive. But for [Angular](https://www.upwork.com/ppc/landing/?ct=Programmers&gclid=EAIaIQobChMIuK2B156s3QIVRtbACh0u7wcBEAAYAiAAEgK66_D_BwE&hl=Top%2520Rated%2520AngularJS%2520Programmers&query=AngularJS&vt_med=provenD2) you have to bite upfront a little more upfront. But when you get past that it’s about the same. I think it’s easier to slip into [Vue](https://vuejsdevelopers.com) right away.
 
-13:51 – [Duncan:](http://duncangrant.co.uk/contact.html) I agree with that comment.
+13:51 – [Duncan:](https://duncangrant.co.uk/contact.html) I agree with that comment.
 
 14:32 – Wait...I came into learn “x, y, and z” but I have to learn “a, b, and c...”?
 
@@ -64,9 +64,9 @@ In this episode, the panel talks with [Duncan Grant](http://duncangrant.co.uk/co
 
 17:53 - [Divya Sasidharan](https://www.linkedin.com/in/shortdiv) adds her comments.
 
-19:30 – Question to [Duncan](http://duncangrant.co.uk/contact.html) about something he said in his [blog](https://medium.com/@dalaidunc/10-things-i-love-about-vue-505886ddaff2) (2<sup>nd</sup> paragraph). Listen to this time stamp to see what the challenge is all about!
+19:30 – Question to [Duncan](https://duncangrant.co.uk/contact.html) about something he said in his [blog](https://medium.com/@dalaidunc/10-things-i-love-about-vue-505886ddaff2) (2<sup>nd</sup> paragraph). Listen to this time stamp to see what the challenge is all about!
 
-20:05 – [Duncan:](http://duncangrant.co.uk/contact.html) It probably doesn’t and I haven’t seen any horror stories.
+20:05 – [Duncan:](https://duncangrant.co.uk/contact.html) It probably doesn’t and I haven’t seen any horror stories.
 
 21:39 – Topic: Components
 
@@ -128,7 +128,7 @@ In this episode, the panel talks with [Duncan Grant](http://duncangrant.co.uk/co
 
 53:57 – Let’s go to picks!
 
-53:59 – [Advertisement](http://codebadge.org/)
+53:59 – [Advertisement](https://codebadge.org/)
 
 54:37 – Picks!&nbsp;
 
@@ -138,8 +138,8 @@ In this episode, the panel talks with [Duncan Grant](http://duncangrant.co.uk/co
 - [Ruby on Rails](https://rubyonrails.org)
 - [Angular](https://www.upwork.com/ppc/landing/?ct=Programmers&gclid=EAIaIQobChMIuK2B156s3QIVRtbACh0u7wcBEAAYAiAAEgK66_D_BwE&hl=Top%2520Rated%2520AngularJS%2520Programmers&query=AngularJS&vt_med=provenD2)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badge](http://codebadge.org/)
-- [Duncan Grant’s Website](http://duncangrant.co.uk/contact.html)
+- [Code Badge](https://codebadge.org/)
+- [Duncan Grant’s Website](https://duncangrant.co.uk/contact.html)
 - [Duncan Grant’s GitHub](https://github.com/duncangrant)
 - [Duncan Grant’s LinkedIn](https://www.linkedin.com/in/duncan-grant-3605901/)[Duncan Grant’s Midwinter](https://www.midwinter-dg.com)
 - [Duncan Grant’s Medium](https://medium.com/@dalaidunc)
@@ -154,14 +154,14 @@ In this episode, the panel talks with [Duncan Grant](http://duncangrant.co.uk/co
 
 - [Kendo UI](https://www.telerik.com/kendo-angular-ui/?utm_medium=cpm&utm_source=adventuresinng&utm_campaign=dt-kendo-ang2-nov16&utm_content=audio)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**
 
 [Divya Sasidharan](https://www.linkedin.com/in/shortdiv)
 
-- [Article: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+- [Article: The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 - [9 Biggest CSS Grid Mistakes](https://youtu.be/0Gr1XSyxZy0)
 - [Cards Against Humanity](https://cardsagainsthumanity.com)
 
@@ -176,7 +176,7 @@ In this episode, the panel talks with [Duncan Grant](http://duncangrant.co.uk/co
 - [Coffee?](https://en.wikipedia.org/wiki/Kopi_Luwak)
 - [Granola Milk & Honey](https://www.milkandhoneygranola.com/product/rick-baylesss-mexican-mix)
 
-[Duncan](http://duncangrant.co.uk/contact.html)
+[Duncan](https://duncangrant.co.uk/contact.html)
 
 - [Kombucha Tea](https://en.wikipedia.org/wiki/Kombucha)
 - Website: [IndieHackers.Com](https://www.indiehackers.com)

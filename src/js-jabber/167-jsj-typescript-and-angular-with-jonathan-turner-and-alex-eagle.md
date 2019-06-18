@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/Jakeherringbone)
 - [GitHub](https://github.com/alexeagle)
-- [Google](http://www.google.com/)
+- [Google](https://www.google.com/)
 
 02:54 - Jonathan Turner Introduction
 
@@ -26,25 +26,25 @@ tags:
 - [[Talk] Jonathan Turner: TypeScript and Angular 2 @ ng-conf 2015](https://www.youtube.com/watch?v=Xw93oketp18)
 - [[Talk] Jonathan Turner: TypeScript and Angular 2 @ Angular U 2015](https://www.youtube.com/watch?v=2ZIE9gokAxY)
 
-03:30 - What is [TypeScript](http://www.typescriptlang.org/)?
+03:30 - What is [TypeScript](https://www.typescriptlang.org/)?
 
 04:40 - Google + Microsoft = \<3 ([Angular](https://angular.io/) Adopting TypeScript)
 
 - [Rob Eisenberg](https://twitter.com/eisenbergeffect)
 - [AtScript](https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/edit)
-  - [Jonathan Turner: Angular 2: Built on TypeScript](http://blogs.msdn.com/b/typescript/archive/2015/03/05/angular-2-0-built-on-typescript.aspx)
+  - [Jonathan Turner: Angular 2: Built on TypeScript](https://blogs.msdn.com/b/typescript/archive/2015/03/05/angular-2-0-built-on-typescript.aspx)
 
 07:18 - TypeScript Accommodating Angular
 
-- [TC39](http://www.ecma-international.org/memento/TC39.htm)
+- [TC39](https://www.ecma-international.org/memento/TC39.htm)
 - [Yehuda Katz](https://pbs.twimg.com/profile_images/3250074047/46d910af94e25187832cb4a3bc84b2b5_400x400.jpeg)
-- [Aurelia](http://aurelia.io/)
+- [Aurelia](https://aurelia.io/)
 
 09:28 - Surge of Interest in Adopting a Typechecker, [Type System](https://en.wikipedia.org/wiki/Type_system)
 
 14:21 - Angular: Creating a New Language
 
-- [Killing Off Wasabi - Part 1](http://blog.fogcreek.com/killing-off-wasabi-part-1/) ([FogBugz](http://www.fogcreek.com/fogbugz) Article)
+- [Killing Off Wasabi - Part 1](https://blog.fogcreek.com/killing-off-wasabi-part-1/) ([FogBugz](https://www.fogcreek.com/fogbugz) Article)
 - [traceur](https://github.com/google/traceur-compiler)
 
 16:46 - The Angular 2 Component System and How it Uses New Annotations for Classes
@@ -71,7 +71,7 @@ tags:
 
 49:16 - The Angular and TypeScript RelationshipPicks
 
-[f.lux](https://justgetflux.com/) (Aimee)[Jafar Husain: Functional Programming in Javascript (learnrx)](http://jhusain.github.io/learnrx/) (Aimee)[Startup Timelines](http://www.startuptimelines.org/) (Jamison)[Friday Night Lights](http://www.imdb.com/title/tt0758745/) (Jamison)[React Rally](http://www.reactrally.com/) (Jamison)[Evan Farrer: Unit testing isn't enough. You need static typing too.](http://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html) (Dave)[AngularConnect](http://angularconnect.com/) (Joe)[ng-click.com](http://www.ng-click.com) (Joe)[mdn.io](http://www.mdn.io) (Joe)[Sonic Pi](http://sonic-pi.net) (Chuck)[Error Prone](http://errorprone.info) (Alex)[AudioScope-ng2](https://github.com/jonathandturner/AudioScope-ng2/) (Jonathan)[The Nintendo World Championships](https://en.wikipedia.org/wiki/Nintendo_World_Championships) (Jonathan)
+[f.lux](https://justgetflux.com/) (Aimee)[Jafar Husain: Functional Programming in Javascript (learnrx)](https://jhusain.github.io/learnrx/) (Aimee)[Startup Timelines](https://www.startuptimelines.org/) (Jamison)[Friday Night Lights](https://www.imdb.com/title/tt0758745/) (Jamison)[React Rally](https://www.reactrally.com/) (Jamison)[Evan Farrer: Unit testing isn't enough. You need static typing too.](https://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html) (Dave)[AngularConnect](https://angularconnect.com/) (Joe)[ng-click.com](https://www.ng-click.com) (Joe)[mdn.io](https://www.mdn.io) (Joe)[Sonic Pi](https://sonic-pi.net) (Chuck)[Error Prone](https://errorprone.info) (Alex)[AudioScope-ng2](https://github.com/jonathandturner/AudioScope-ng2/) (Jonathan)[The Nintendo World Championships](https://en.wikipedia.org/wiki/Nintendo_World_Championships) (Jonathan)
 
 ### Transcript
 

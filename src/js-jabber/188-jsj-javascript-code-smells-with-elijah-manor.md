@@ -18,17 +18,17 @@ tags:
 
 - [Twitter](https://twitter.com/elijahmanor)
 - [GitHub](https://github.com/elijahmanor)
-- [Blog](http://elijahmanor.com/)
-- [LeanKit](http://leankit.com/)
+- [Blog](https://elijahmanor.com/)
+- [LeanKit](https://leankit.com/)
 - [Eliminate JavaScript Code Smells (Elijah's Talk Abstract)](https://gist.github.com/elijahmanor/6048b4f72265ee33fcaf)
 - [A video containing the 30 min version of the talk: Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo)
-- [The full slides (60 mins worth of material)](http://elijahmanor.com/talks/js-smells)
+- [The full slides (60 mins worth of material)](https://elijahmanor.com/talks/js-smells)
 
 04:49 - What is a “Code Smell”?
 
-- [Martin Fowler: CodeSmell](http://martinfowler.com/bliki/CodeSmell.html)
-- [ESLint](http://eslint.org/)
-- [JSHint](http://jshint.com/)
+- [Martin Fowler: CodeSmell](https://martinfowler.com/bliki/CodeSmell.html)
+- [ESLint](https://eslint.org/)
+- [JSHint](https://jshint.com/)
 
 10:21 - Copy/Paste Code Error
 
@@ -55,7 +55,7 @@ tags:
 
 39:10 - Why use parameters?Picks
 
-[Terms And Conditions May Apply](http://tacma.net/tacma.php) (AJ)[Nodevember](http://nodevember.org/) (Aimee)[Developer Tea](https://developertea.com/) (Aimee)[Jake Shimabukuro](http://www.jakeshimabukuro.com/home/) (Joe)[Screeps](https://screeps.com/) (Joe)[react-styleguide-generator](https://github.com/pocotan001/react-styleguide-generator) (Elijah)[react-styleguidist](https://github.com/sapegin/react-styleguidist) (Elijah)[The Phantom Menace - What it Should Have Been](https://youtu.be/w1RHQQ0cXlo) (AJ)[Attack of the Clones - What it Should Have Been](https://youtu.be/ZE4bU56teH0) (AJ)
+[Terms And Conditions May Apply](https://tacma.net/tacma.php) (AJ)[Nodevember](https://nodevember.org/) (Aimee)[Developer Tea](https://developertea.com/) (Aimee)[Jake Shimabukuro](https://www.jakeshimabukuro.com/home/) (Joe)[Screeps](https://screeps.com/) (Joe)[react-styleguide-generator](https://github.com/pocotan001/react-styleguide-generator) (Elijah)[react-styleguidist](https://github.com/sapegin/react-styleguidist) (Elijah)[The Phantom Menace - What it Should Have Been](https://youtu.be/w1RHQQ0cXlo) (AJ)[Attack of the Clones - What it Should Have Been](https://youtu.be/ZE4bU56teH0) (AJ)
 
 ### Transcript
 

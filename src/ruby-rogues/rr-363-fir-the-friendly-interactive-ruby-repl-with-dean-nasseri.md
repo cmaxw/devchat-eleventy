@@ -32,15 +32,15 @@ In this episode of Ruby Rogues, the panelists talk to Dean Nasseri about Fir. [F
 - Quick lookup
 - What’s your favorite way to use Fir?
 - Use REPLs for everything
-- [Pry](http://pryrepl.org/)
+- [Pry](https://pryrepl.org/)
 - Pry vs Fir
 - How did you approach creating a REPL?
 - Looked at Pry a lot hen creating Fir
-- [_Ruby Under a Microscope_ by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)
+- [_Ruby Under a Microscope_ by Pat Shaughnessy](https://patshaughnessy.net/ruby-under-a-microscope)
 - Do you have a lot of users of it?
 - Wants to direct people to Fish
 - Why would someone switch to Fish?
-- [Oh My ZSH](http://ohmyz.sh/)
+- [Oh My ZSH](https://ohmyz.sh/)
 - Auto suggestions are killer
 - How much time did this take you to build?
 - What kind of terminal do you use?
@@ -54,9 +54,9 @@ In this episode of Ruby Rogues, the panelists talk to Dean Nasseri about Fir. [F
 - [Fir](https://github.com/dnasseri/fir)
 - [Ruby on Rails](https://rubyonrails.org/)
 - [Fish](https://fishshell.com/)
-- [Pry](http://pryrepl.org/)
-- [_Ruby Under a Microscope_ by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)
-- [Oh My ZSH](http://ohmyz.sh/)
+- [Pry](https://pryrepl.org/)
+- [_Ruby Under a Microscope_ by Pat Shaughnessy](https://patshaughnessy.net/ruby-under-a-microscope)
+- [Oh My ZSH](https://ohmyz.sh/)
 - [Hyper](https://hyper.is/)
 - [Mert](https://github.com/eggplanetio/mert)
 - [nasseri.io](https://www.nasseri.io/)
@@ -77,8 +77,8 @@ Eric
 
 Catherine
 
-- [Codeland Conf](http://codelandconf.com/)
-- [RubyHack](http://rubyhack.com/)
+- [Codeland Conf](https://codelandconf.com/)
+- [RubyHack](https://rubyhack.com/)
 
 Dean
 

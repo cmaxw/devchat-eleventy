@@ -12,37 +12,37 @@ tags:
   - podcast
 ---
 
-### [Use this link and code JAVAJAB to get 20% off your registration for FluentConf 2013!](http://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo)
+### [Use this link and code JAVAJAB to get 20% off your registration for FluentConf 2013!](https://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo)
 
 ### Panel
 
-- Isaac Schlueter ([twitter](https://twitter.com/izs) [github](https://github.com/isaacs) [blog](http://blog.izs.me/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
+- Isaac Schlueter ([twitter](https://twitter.com/izs) [github](https://github.com/isaacs) [blog](https://blog.izs.me/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:33 - Isaac Schlueter Introduction
 
-- [NPM](http://npmjs.org/)
-- [Node](http://nodejs.org/)
-  02:33 - [Node](http://nodejs.org/) Backstory
+- [NPM](https://npmjs.org/)
+- [Node](https://nodejs.org/)
+  02:33 - [Node](https://nodejs.org/) Backstory
 - [v8](https://code.google.com/p/v8/)
-- [SpiderMonkey](<http://en.wikipedia.org/wiki/SpiderMonkey_(JavaScript_engine)>)
-- [Joyent](http://joyent.com/)
-  05:37 - [Node](http://nodejs.org/) and New Features
-- [Node.js v0.10.0 Manual & Documentation](http://nodejs.org/api/)
+- [SpiderMonkey](<https://en.wikipedia.org/wiki/SpiderMonkey_(JavaScript_engine)>)
+- [Joyent](https://joyent.com/)
+  05:37 - [Node](https://nodejs.org/) and New Features
+- [Node.js v0.10.0 Manual & Documentation](https://nodejs.org/api/)
 - [v8](https://code.google.com/p/v8/)
   13:30 - Language Accommodations
-- [TC39](http://www.ecma-international.org/memento/TC39.htm)
-- [Luvit](http://luvit.io/)
-- [libev](http://software.schmorp.de/pkg/libev.html)
+- [TC39](https://www.ecma-international.org/memento/TC39.htm)
+- [Luvit](https://luvit.io/)
+- [libev](https://software.schmorp.de/pkg/libev.html)
 - [libuv](https://github.com/joyent/libuv)
-- [eventmachine @ GitHub](http://rubyeventmachine.com/)
-- [Zedd Shaw](http://zeddshaw.com/)
+- [eventmachine @ GitHub](https://rubyeventmachine.com/)
+- [Zedd Shaw](https://zeddshaw.com/)
   22:32 - C++
 - [LibEVN - Node in C](https://github.com/coolaj86/libevn)
   25:19 - New Streams API
@@ -50,33 +50,33 @@ tags:
 30:37 - Semantic Versioning
 
 - Experimental versions
-  33:01 - [NPM](http://npmjs.org/) 39:30 - Issac’s Future 41:06 - Discovery
+  33:01 - [NPM](https://npmjs.org/) 39:30 - Issac’s Future 41:06 - Discovery
 - Recommendation Engine
 - Exposing Quality of Modules
 - Code Quality
   47:18 - Advice for Adopting Node
-- [Joyent](http://joyent.com/)
-- [The Node Firm](http://thenodefirm.com/)
-- [StrongLoop](http://strongloop.com/products)
-- [Iris Couch](http://www.iriscouch.com/)
+- [Joyent](https://joyent.com/)
+- [The Node Firm](https://thenodefirm.com/)
+- [StrongLoop](https://strongloop.com/products)
+- [Iris Couch](https://www.iriscouch.com/)
 
 ### Picks
 
-- [Wild at Heart Revised and Updated: Discovering the Secret of a Man’s Soul by John Eldredge](http://www.amazon.com/gp/product/1400200393/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400200393&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [The Aquabats](http://www.amazon.com/gp/product/1400200393/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400200393&linkCode=as2&tag=chamaxwoo-20) (Jamison)
-- [User Feedback: Isaac Schlueter](http://blog.izs.me/post/45090961790/user-feedback) (Jamison)
-- [Fluent 2013](http://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo) (Merrick) Code: **JAVAJAB**
-- [So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport](http://www.amazon.com/gp/product/1455509124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455509124&linkCode=as2&tag=chamaxwoo-20) (Merrick)
-- [StarCraft II](http://us.battle.net/en/int?r=sc2) (Merrick)
-- [Moving to GruntJS: AJ ONeal](http://blog.coolaj86.com/articles/moving-to-grunt.html) (AJ)
-- [Intro to JSHint: Training Wheels for JavaScript: AJ ONeal](http://blog.coolaj86.com/articles/intro-to-jshint-training-wheels-for-javascript.html) (AJ)
-- [Gimp](http://gimp.org/) (AJ)
-- [And Another Thing... (The Hitchhiker’s Guide to the Galaxy) by Eoin Colfer](http://www.amazon.com/gp/product/B0043RT9I0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0043RT9I0&linkCode=as2&tag=chamaxwoo-20)
-- [Free Music Downloads on Last.fm](http://www.last.fm/music/+free-music-downloads) (AJ)
-- [Blackbird Blackbird - Hawaii](http://www.last.fm/music/Blackbird+Blackbird/_/Hawaii) (AJ)
-- [Hazel](http://www.noodlesoft.com/hazel.php) (Chuck)
-- [Mac Power Users](http://macpowerusers.com/) (Chuck)
-- [Nonviolent Communication: A Language of Life](http://www.amazon.com/gp/product/1892005034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=chamaxwoo-20) (Isaac)
+- [Wild at Heart Revised and Updated: Discovering the Secret of a Man’s Soul by John Eldredge](https://www.amazon.com/gp/product/1400200393/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400200393&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [The Aquabats](https://www.amazon.com/gp/product/1400200393/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400200393&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [User Feedback: Isaac Schlueter](https://blog.izs.me/post/45090961790/user-feedback) (Jamison)
+- [Fluent 2013](https://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo) (Merrick) Code: **JAVAJAB**
+- [So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport](https://www.amazon.com/gp/product/1455509124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455509124&linkCode=as2&tag=chamaxwoo-20) (Merrick)
+- [StarCraft II](https://us.battle.net/en/int?r=sc2) (Merrick)
+- [Moving to GruntJS: AJ ONeal](https://blog.coolaj86.com/articles/moving-to-grunt.html) (AJ)
+- [Intro to JSHint: Training Wheels for JavaScript: AJ ONeal](https://blog.coolaj86.com/articles/intro-to-jshint-training-wheels-for-javascript.html) (AJ)
+- [Gimp](https://gimp.org/) (AJ)
+- [And Another Thing... (The Hitchhiker’s Guide to the Galaxy) by Eoin Colfer](https://www.amazon.com/gp/product/B0043RT9I0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0043RT9I0&linkCode=as2&tag=chamaxwoo-20)
+- [Free Music Downloads on Last.fm](https://www.last.fm/music/+free-music-downloads) (AJ)
+- [Blackbird Blackbird - Hawaii](https://www.last.fm/music/Blackbird+Blackbird/_/Hawaii) (AJ)
+- [Hazel](https://www.noodlesoft.com/hazel.php) (Chuck)
+- [Mac Power Users](https://macpowerusers.com/) (Chuck)
+- [Nonviolent Communication: A Language of Life](https://www.amazon.com/gp/product/1892005034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1892005034&linkCode=as2&tag=chamaxwoo-20) (Isaac)
 
 ### Next Week
 

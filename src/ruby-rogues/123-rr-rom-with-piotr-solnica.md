@@ -14,7 +14,7 @@ tags:
 
 01:24 - Piotr Solnica Introduction
 
-- [Ruby Object Mapper](http://rom-rb.org/)
+- [Ruby Object Mapper](https://rom-rb.org/)
 
 06:08 - Adapters
 

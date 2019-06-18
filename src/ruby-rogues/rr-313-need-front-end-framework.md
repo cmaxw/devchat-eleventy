@@ -36,7 +36,7 @@ David: Get Open
 
 Jerome:&nbsp;[Edibit](https://edibit.wordpress.com/), [Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057/ref=sr_1_1?ie=UTF8&qid=1496561914&sr=8-1&keywords=extreme+ownership),&nbsp;[New Rules](https://www.amazon.com/New-Rules-Work-Playbook-Navigating/dp/0451495675/ref=sr_1_1?ie=UTF8&qid=1496561957&sr=8-1&keywords=the+new+rules+of+work)
 
-Brian: [Elm](http://elm-lang.org/)
+Brian: [Elm](https://elm-lang.org/)
 
 Charles:&nbsp;[The Vanishing American Adult](https://www.amazon.com/Vanishing-American-Adult-Coming-Crisis/dp/1250114403/ref=sr_1_1?ie=UTF8&qid=1496562349&sr=8-1&keywords=the+vanishing+american+adult),&nbsp;[Giftology](https://www.amazon.com/s/ref=nb_sb_ss_c_1_9?url=search-alias%3Daps&field-keywords=giftology&sprefix=giftology%2Caps%2C218&crid=SFRA8SNTDUUC)
 

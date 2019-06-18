@@ -20,15 +20,15 @@ tags:
 
 **Special Guests:** Ben Titzer
 
-In this episode, the JavaScript Jabber panelists discuss WebAssembly and JavaScript with Ben Titzer. Ben is a JavaScript VM engineer and is on the [V8](https://developers.google.com/v8/) team at Google. He was one of the co-inventors of [WebAssembly](http://webassembly.org/) and he now works on VM engineering as well as other things for WebAssembly. They talk about how WebAssembly came to be and when it would be of most benefit to you in your own code.
+In this episode, the JavaScript Jabber panelists discuss WebAssembly and JavaScript with Ben Titzer. Ben is a JavaScript VM engineer and is on the [V8](https://developers.google.com/v8/) team at Google. He was one of the co-inventors of [WebAssembly](https://webassembly.org/) and he now works on VM engineering as well as other things for WebAssembly. They talk about how WebAssembly came to be and when it would be of most benefit to you in your own code.
 
 **In particular, we dive pretty deep on:**
 
 - Ben intro
 - [JavaScript](https://www.javascript.com/)
-- Co-inventor of [WebAssembly](http://webassembly.org/) (Wasm)
+- Co-inventor of [WebAssembly](https://webassembly.org/) (Wasm)
 - Joined [V8](https://developers.google.com/v8/) in 2014
-- [asm.js](http://asmjs.org/)
+- [asm.js](https://asmjs.org/)
 - Built a JIT compiler to make asm.js faster
 - [TurboFan](https://github.com/v8/v8/wiki/TurboFan)
 - What is the role of JavaScript? What is the role of WebAssembly?
@@ -51,8 +51,8 @@ In this episode, the JavaScript Jabber panelists discuss WebAssembly and JavaScr
 
 - [JavaScript](https://www.javascript.com/)
 - [V8](https://developers.google.com/v8/)
-- [WebAssembly](http://webassembly.org/)
-- [asm.js](http://asmjs.org/)
+- [WebAssembly](https://webassembly.org/)
+- [asm.js](https://asmjs.org/)
 - [TurboFan](https://github.com/v8/v8/wiki/TurboFan)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Rust](https://www.rust-lang.org/en-US/)
@@ -63,7 +63,7 @@ In this episode, the JavaScript Jabber panelists discuss WebAssembly and JavaScr
 
 Charles
 
-- [Ready Player One Movie](http://readyplayeronemovie.com/)
+- [Ready Player One Movie](https://readyplayeronemovie.com/)
 - [DevChat.tv YouTube](https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw)
 - Alexa Flash Briefings: Add skill for “JavaScript Rants”
 

@@ -17,17 +17,17 @@ tags:
 - [[YouTube] Shai Reznik: ng-wat Talk from ng-conf 2015](https://www.youtube.com/watch?v=M_Wp-2XA9ZU)
 - [Twitter](https://twitter.com/shai_reznik)
 - [GitHub](https://github.com/shairez)
-- [HiRez.io](http://www.hirez.io/)
+- [HiRez.io](https://www.hirez.io/)
 - [YouTube](https://www.youtube.com/user/hirezio)
 - [Preparing for Angular 2.0 (Part 1)](https://www.youtube.com/watch?v=IlBLlWM1dEc)
-- [JavaScript Israel Meetup Group](http://www.meetup.com/JavaScript-Israel/)
+- [JavaScript Israel Meetup Group](https://www.meetup.com/JavaScript-Israel/)
 
 06:58 - The Conception and Behind the Scenes of the Now Famous [ng-wat Talk](https://www.youtube.com/watch?v=M_Wp-2XA9ZU) and the Talk Reception
 
-- [WAT](https://www.destroyallsoftware.com/talks/wat) (A lightning talk by Gary Bernhardt from [CodeMash](http://www.codemash.org/) 2012)
+- [WAT](https://www.destroyallsoftware.com/talks/wat) (A lightning talk by Gary Bernhardt from [CodeMash](https://www.codemash.org/) 2012)
   29:18 - More Wats?Picks
 
-[The Cat in the Hat by Dr. Seuss](http://www.amazon.com/gp/product/039480001X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=039480001X&linkCode=as2&tag=chamaxwoo-20&linkId=BVFF6V5M2HMLWODL) (Lukas)[Pushing Daisies](http://www.imdb.com/title/tt0925266/) (Katya)[StarCraft II](http://us.battle.net/sc2/en/?-) (Joe)[[Pluralsight Webinar] AngularJS 2.0: What you need to know ](https://get.pluralsight.com/AngularJS-20-What-you-need-to-know_Registration-Page)[with](https://get.pluralsight.com/AngularJS-20-What-you-need-to-know_Registration-Page)[Joe](https://get.pluralsight.com/AngularJS-20-What-you-need-to-know_Registration-Page) (Joe)[Angular 2 Google Docs Folder](https://drive.google.com/drive/u/0/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk) (Shai)[Streamus](https://streamus.com/) (Shai)
+[The Cat in the Hat by Dr. Seuss](https://www.amazon.com/gp/product/039480001X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=039480001X&linkCode=as2&tag=chamaxwoo-20&linkId=BVFF6V5M2HMLWODL) (Lukas)[Pushing Daisies](https://www.imdb.com/title/tt0925266/) (Katya)[StarCraft II](https://us.battle.net/sc2/en/?-) (Joe)[[Pluralsight Webinar] AngularJS 2.0: What you need to know ](https://get.pluralsight.com/AngularJS-20-What-you-need-to-know_Registration-Page)[with](https://get.pluralsight.com/AngularJS-20-What-you-need-to-know_Registration-Page)[Joe](https://get.pluralsight.com/AngularJS-20-What-you-need-to-know_Registration-Page) (Joe)[Angular 2 Google Docs Folder](https://drive.google.com/drive/u/0/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk) (Shai)[Streamus](https://streamus.com/) (Shai)
 
 ### Transcript
 

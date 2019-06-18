@@ -69,7 +69,7 @@ John
 
 - Don’t be afraid to have healthy discussions
 - [Five Things](https://channel9.msdn.com/Shows/5-Things)
-- [The 7 Ds of Development Talk](http://slides.com/johnpapa/7ds#/)
+- [The 7 Ds of Development Talk](https://slides.com/johnpapa/7ds#/)
 
 Joe
 
@@ -83,7 +83,7 @@ Ward
 
 Shai
 
-- [Machine Learning-Driven Bundling by Minko Gechev](http://blog.mgechev.com/2018/03/18/machine-learning-data-driven-bundling-webpack-javascript-markov-chain-angular-react/)
+- [Machine Learning-Driven Bundling by Minko Gechev](https://blog.mgechev.com/2018/03/18/machine-learning-data-driven-bundling-webpack-javascript-markov-chain-angular-react/)
 - Angular TDD course coming soon
 - [JavaScript Unit Testing & TDD Theory](https://www.youtube.com/watch?v=hjFSJ8-w9E0)
 

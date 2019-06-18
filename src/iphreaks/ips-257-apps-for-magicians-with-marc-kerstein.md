@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)&nbsp;use the code “devchat” for 2 months free on Sentry’s small plan
+- [Sentry](https://sentry.io/)&nbsp;use the code “devchat” for 2 months free on Sentry’s small plan
 - [CacheFly](https://www.cachefly.com/)
 
 ### **Panel**
@@ -29,7 +29,7 @@ Abracadabra! Marc Kerstein is an app developer for magicians from London! He has
 ### **Links**
 
 - [https://marckerstein.com/](https://www.hopperapp.com/)
-- [marckerstein.com/apps/](http://marckerstein.com/?apps)
+- [marckerstein.com/apps/](https://marckerstein.com/?apps)
 - 
 
 ### **Picks**

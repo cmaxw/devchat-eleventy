@@ -16,56 +16,56 @@ tags:
 
 - [twitter](https://twitter.com/eileencodes)
 - [github](https://github.com/eileencodes)
-- [blog](http://www.eileencodes.com/)
-- [PhishMe](http://phishme.com/)
-- [ActiveRecord::Batches](http://api.rubyonrails.org/classes/ActiveRecord/Batches.html)
-  03:23 - [Phishing](http://en.wikipedia.org/wiki/Phishing)
-- [Gray Map Testing (Gray Box)](http://en.wikipedia.org/wiki/Gray_box_testing)
-- [Penetration Testing (Pen Testing)](http://en.wikipedia.org/wiki/Penetration_test)
+- [blog](https://www.eileencodes.com/)
+- [PhishMe](https://phishme.com/)
+- [ActiveRecord::Batches](https://api.rubyonrails.org/classes/ActiveRecord/Batches.html)
+  03:23 - [Phishing](https://en.wikipedia.org/wiki/Phishing)
+- [Gray Map Testing (Gray Box)](https://en.wikipedia.org/wiki/Gray_box_testing)
+- [Penetration Testing (Pen Testing)](https://en.wikipedia.org/wiki/Penetration_test)
   05:43 - Incorporating Data
-- [[Talk] Eileen Uchitelle: CRUD! The Consequences of Not Understanding How ActiveRecord Translates into MySQL](http://confreaks.com/videos/3286-mwrc-crud-the-consequences-of-not-understanding-how-activerecord-translates-into-mysql)
+- [[Talk] Eileen Uchitelle: CRUD! The Consequences of Not Understanding How ActiveRecord Translates into MySQL](https://confreaks.com/videos/3286-mwrc-crud-the-consequences-of-not-understanding-how-activerecord-translates-into-mysql)
 - [[Slides] Eileen Uchitelle: CRUD! The Consequences of Not Understanding How ActiveRecord Translates into MySQL](https://speakerdeck.com/eileencodes/crud-what-to-do-when-active-record-mysql-and-your-data-betray-you)
   09:37 - Deleting
 - contact.destroyall
 - “find_each” and "delete_all"
-- [Rails 4.2](http://railsapps.github.io/updating-rails.html)
-- [“Code Smell”](http://en.wikipedia.org/wiki/Code_smell)
-- [Clojure vs. Ruby](http://stackoverflow.com/questions/3335196/clojure-vs-ruby)
+- [Rails 4.2](https://railsapps.github.io/updating-rails.html)
+- [“Code Smell”](https://en.wikipedia.org/wiki/Code_smell)
+- [Clojure vs. Ruby](https://stackoverflow.com/questions/3335196/clojure-vs-ruby)
   - [Ruby](https://www.ruby-lang.org/en/)
-  - [Clojure](http://clojure.org/)
+  - [Clojure](https://clojure.org/)
 - table.all
 - .WHERE
-- [Legacy](http://en.wikipedia.org/wiki/Legacy_system)
+- [Legacy](https://en.wikipedia.org/wiki/Legacy_system)
   19:20 - Creating
 - [batch insert](https://github.com/smangelsdorf/batch_insert)
-- [Big Ruby Conf](http://www.bigrubyconf.com/)
-  - [Schedule - Eileen’s Workshop](http://www.bigrubyconf.com/#schedule)
+- [Big Ruby Conf](https://www.bigrubyconf.com/)
+  - [Schedule - Eileen’s Workshop](https://www.bigrubyconf.com/#schedule)
     23:14 - Reading
-- [find_each](http://apidock.com/rails/ActiveRecord/Batches/ClassMethods/find_each)
-  - [aware](http://apidock.com/rails/String/encoding_aware%3F)
-- [pluck](http://apidock.com/rails/ActiveRecord/Calculations/pluck)
-- [update_attribute](http://apidock.com/rails/ActiveRecord/Base/update_attribute)
+- [find_each](https://apidock.com/rails/ActiveRecord/Batches/ClassMethods/find_each)
+  - [aware](https://apidock.com/rails/String/encoding_aware%3F)
+- [pluck](https://apidock.com/rails/ActiveRecord/Calculations/pluck)
+- [update_attribute](https://apidock.com/rails/ActiveRecord/Base/update_attribute)
   30:25 - ActiveRecord with SQL
-- [SQL](http://en.wikipedia.org/wiki/SQL)
-- [ActiveRecord::Relation](http://api.rubyonrails.org/classes/ActiveRecord/Relation.html)
-  - [to_sql](http://apidock.com/rails/v4.0.2/ActiveRecord/Relation/to_sql)
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [ActiveRecord::Relation](https://api.rubyonrails.org/classes/ActiveRecord/Relation.html)
+  - [to_sql](https://apidock.com/rails/v4.0.2/ActiveRecord/Relation/to_sql)
     34:26 - Problem - Finding Tools
-- [bullet gem](http://rubygems.org/gems/bullet)
+- [bullet gem](https://rubygems.org/gems/bullet)
 - [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler)
-- [New Relic](http://newrelic.com/)
+- [New Relic](https://newrelic.com/)
 - [eager loading](https://github.com/pinnacol/data_graph)
-- [The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas](http://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161622X&linkCode=as2&tag=chamaxwoo-20&linkId=XSKNYU2TY6EEEAHZ)
+- [The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas](https://www.amazon.com/gp/product/020161622X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161622X&linkCode=as2&tag=chamaxwoo-20&linkId=XSKNYU2TY6EEEAHZ)
   41:35 - Teaching ActiveRecord 45:08 - Other Features of ActiveRecord with SQL (Lower Level)
 - [multi-insert](https://github.com/walf443/php-sql-maker-insert_multi)
   47:25 - Domain Models and Optimizations
-- [ActiveModel](http://api.rubyonrails.org/classes/ActiveModel.html)
-- [redis](http://redis.io/)
+- [ActiveModel](https://api.rubyonrails.org/classes/ActiveModel.html)
+- [redis](https://redis.io/)
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

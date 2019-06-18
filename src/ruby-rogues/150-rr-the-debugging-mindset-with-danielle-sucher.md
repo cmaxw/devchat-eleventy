@@ -16,8 +16,8 @@ tags:
 
 - [twitter](https://twitter.com/DanielleSucher)
 - [github](https://github.com/DanielleSucher)
-- [blog](http://www.daniellesucher.com/)
-- [case commons](http://casecommons.org/)
+- [blog](https://www.daniellesucher.com/)
+- [case commons](https://casecommons.org/)
 
 02:35 - [Debugging: The Science of Deduction by Danielle Sucher](https://speakerdeck.com/daniellesucher/debugging-the-science-of-deduction)
 
@@ -29,20 +29,20 @@ tags:
 
 14:37 - Experimentation
 
-- [Ruby Rogues Episode #111 - Book Club: Explore It! with Elisabeth Hendrickson](http://rubyrogues.com/111-rr-book-club-explore-it-with-elisabeth-hendrickson/)
+- [Ruby Rogues Episode #111 - Book Club: Explore It! with Elisabeth Hendrickson](https://rubyrogues.com/111-rr-book-club-explore-it-with-elisabeth-hendrickson/)
 - [Dan Mayer's Production Code Coverage Tool](https://github.com/danmayer/coverband)
 
 23:01 - Googling
 
 26:00 - Reset/Stash
 
-- [git-blame](http://git-scm.com/docs/git-blame)
+- [git-blame](https://git-scm.com/docs/git-blame)
 
 32:11 - Development vs Production Problems
 
 37:33 - Tooling (Logging)
 
-- [Escalating complexity: DevOps learnings from Air France 447 by Lindsay Holmwood](http://www.slideshare.net/auxesis/escalating-complexity-devops-learnings-from-air-france-447)
+- [Escalating complexity: DevOps learnings from Air France 447 by Lindsay Holmwood](https://www.slideshare.net/auxesis/escalating-complexity-devops-learnings-from-air-france-447)
 
 42:15 - Rubber Duck Debugging
 
@@ -52,31 +52,31 @@ tags:
 
 47:43 - Debugging Numerology
 
-- [The Practice of Programming (Addison-Wesley Professional Computing Series) by Brian W. Kernighan](http://www.amazon.com/gp/product/020161586X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161586X&linkCode=as2&tag=chamaxwoo-20)
-- [The case of the 500-mile email](http://www.ibiblio.org/harris/500milemail.html)
+- [The Practice of Programming (Addison-Wesley Professional Computing Series) by Brian W. Kernighan](https://www.amazon.com/gp/product/020161586X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020161586X&linkCode=as2&tag=chamaxwoo-20)
+- [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)
 
-51:05 - [Heisenbug](http://en.wikipedia.org/wiki/Heisenbug)
+51:05 - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)
 
 51:52 - Using Debuggers
 
 - [git-churn](https://github.com/garybernhardt/dotfiles/blob/f0c0ff92209e5aed4fa3ef6faf056eb9944a8f12/bin/git-churn)
 
-59:13 - Narrowing Down & [Miller’s Law](http://en.wikipedia.org/wiki/Miller's_law)
+59:13 - Narrowing Down & [Miller’s Law](https://en.wikipedia.org/wiki/Miller's_law)
 
 - Assertions
 
-01:03:53 - [Bundle Open](http://bundler.io/v1.3/bundle_open.html)
+01:03:53 - [Bundle Open](https://bundler.io/v1.3/bundle_open.html)
 
 01:09:07 - Fixing Bugs
 
-- [Kenneth Koch: One Train May Hide Another](http://www.poets.org/viewmedia.php/prmMID/15592)
-- [Julia Evans: Using strace to avoid reading Ruby code](http://jvns.ca/blog/2014/02/26/using-strace-to-avoid-reading-ruby-code/)
-- [method-i-set_trace_func](http://www.ruby-doc.org/core-2.1.1/Kernel.html#method-i-set_trace_func)
-- [TracePoint](http://www.ruby-doc.org/core-2.1.1/TracePoint.html)
+- [Kenneth Koch: One Train May Hide Another](https://www.poets.org/viewmedia.php/prmMID/15592)
+- [Julia Evans: Using strace to avoid reading Ruby code](https://jvns.ca/blog/2014/02/26/using-strace-to-avoid-reading-ruby-code/)
+- [method-i-set_trace_func](https://www.ruby-doc.org/core-2.1.1/Kernel.html#method-i-set_trace_func)
+- [TracePoint](https://www.ruby-doc.org/core-2.1.1/TracePoint.html)
 
 ### Book Club
 
-[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
+[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
 
 ### Next Week
 

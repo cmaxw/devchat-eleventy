@@ -16,10 +16,10 @@ tags:
 
 - [twitter](https://twitter.com/stevencorona)
 - [github](https://github.com/stevencorona)
-- [blog](http://stevecorona.com/)
-- [BigCommerce](http://www.bigcommerce.com/)
+- [blog](https://stevecorona.com/)
+- [BigCommerce](https://www.bigcommerce.com/)
 
-01:57 - [Twitpic](http://twitpic.com/)
+01:57 - [Twitpic](https://twitpic.com/)
 
 - Start
 - Growth
@@ -29,7 +29,7 @@ tags:
 
 04:31 - Scaling
 
-05:16 - TwitPic as [Rails](http://rubyonrails.org/) Application
+05:16 - TwitPic as [Rails](https://rubyonrails.org/) Application
 
 - PHP to Rails
 - Coding
@@ -41,7 +41,7 @@ tags:
 
 - Read-Only Functionality
 
-12:02 - [MySQL](http://www.mysql.com/)
+12:02 - [MySQL](https://www.mysql.com/)
 
 - Building Apps
 - Converting Tables
@@ -54,23 +54,23 @@ tags:
 
 16:45 - Programmer vs. API Builder Mindset
 
-17:30 - [Go](http://golang.org/)
+17:30 - [Go](https://golang.org/)
 
-17:31 - [Node](http://nodejs.org/)
+17:31 - [Node](https://nodejs.org/)
 
-18:24 - [JRuby](http://jruby.org/)
+18:24 - [JRuby](https://jruby.org/)
 
-- [JVM](http://en.wikipedia.org/wiki/Java_Virtual_Machine)
-- [Tomcat](http://en.wikipedia.org/wiki/Apache_Tomcat)
-- [GlassFish](http://en.wikipedia.org/wiki/GlassFish)
+- [JVM](https://en.wikipedia.org/wiki/Java_Virtual_Machine)
+- [Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat)
+- [GlassFish](https://en.wikipedia.org/wiki/GlassFish)
 
-21:34 - [TorqueBox](http://torquebox.org/)
+21:34 - [TorqueBox](https://torquebox.org/)
 
 23:12 - Background Functionality
 
-26:27 - [async](http://msdn.microsoft.com/en-us/library/hh156513.aspx)
+26:27 - [async](https://msdn.microsoft.com/en-us/library/hh156513.aspx)
 
-28:40 - [Bajillion Different Queueing Servers](http://en.wikipedia.org/wiki/M/M/c_queue)
+28:40 - [Bajillion Different Queueing Servers](https://en.wikipedia.org/wiki/M/M/c_queue)
 
 29:48 - [Resque](https://github.com/resque/resque)
 
@@ -80,34 +80,34 @@ tags:
 
 - JRuby
 
-32:57 - [Is Ruby Fast Yet?](http://www.isrubyfastyet.com/)
+32:57 - [Is Ruby Fast Yet?](https://www.isrubyfastyet.com/)
 
 - Number of Threads
 - JVM Garbage Collection
 - Testing
-- [Unicorn](<http://en.wikipedia.org/wiki/Unicorn_(web_server)>)
-- [Puma](http://en.wikipedia.org/wiki/AMD_Puma)
-- [Passenger](http://en.wikipedia.org/wiki/Phusion_Passenger)
+- [Unicorn](<https://en.wikipedia.org/wiki/Unicorn_(web_server)>)
+- [Puma](https://en.wikipedia.org/wiki/AMD_Puma)
+- [Passenger](https://en.wikipedia.org/wiki/Phusion_Passenger)
 
 40:49 - Algorithms
 
-43:09 - [N+1 in Rails](http://stackoverflow.com/questions/6723101/rails-n1-problem-statistical-data-needed)
+43:09 - [N+1 in Rails](https://stackoverflow.com/questions/6723101/rails-n1-problem-statistical-data-needed)
 
-45:35 - [Micro-Optimizations](http://micro-optimization.com/)
+45:35 - [Micro-Optimizations](https://micro-optimization.com/)
 
 51:26 - Profiler Tools
 
 51:45 - [statsd](https://github.com/etsy/statsd/)
 
-- [Data Aggregation](http://searchsqlserver.techtarget.com/definition/data-aggregation)
+- [Data Aggregation](https://searchsqlserver.techtarget.com/definition/data-aggregation)
 
-53:01 - [New Relic](http://newrelic.com/)
+53:01 - [New Relic](https://newrelic.com/)
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

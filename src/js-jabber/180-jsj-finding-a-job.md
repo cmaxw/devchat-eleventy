@@ -12,9 +12,9 @@ tags:
   - podcast
 ---
 
-02:14 - [15 Minute Podcast Listener chat with Charles Wood](http://javascriptjabber.com/15minutes)
+02:14 - [15 Minute Podcast Listener chat with Charles Wood](https://javascriptjabber.com/15minutes)
 
-03:23 - Amy’s Upcoming Talk at [Nodevember](http://nodevember.org/)
+03:23 - Amy’s Upcoming Talk at [Nodevember](https://nodevember.org/)
 
 04:45 - Junior, Mid-level, and Senior Developers
 
@@ -22,7 +22,7 @@ tags:
 
 14:28 - Looking For the Right Job For **YOU**
 
-- [The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler](http://www.amazon.com/gp/product/1934356344/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356344&linkCode=as2&tag=chamaxwoo-20&linkId=THM3GR7YH2WCPPDA)
+- [The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler](https://www.amazon.com/gp/product/1934356344/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356344&linkCode=as2&tag=chamaxwoo-20&linkId=THM3GR7YH2WCPPDA)
 
 23:22 - Mentorship & Company Culture
 
@@ -40,7 +40,7 @@ tags:
 - Open Source Contribution
 - Don’t Be Afraid … **APPLY!**
 - Apprenticeships
-  - [Saron Yitbarek](https://twitter.com/saronyitbarek): [CodeNewbie](http://www.codenewbie.org/)
+  - [Saron Yitbarek](https://twitter.com/saronyitbarek): [CodeNewbie](https://www.codenewbie.org/)
 - Conferences
 
 46:45 - Communication and People Skills
@@ -53,7 +53,7 @@ Get in touch with Aimee or Chuck!
 - Fork [Aimee’s Ask Me Anything!](https://github.com/AimeeKnight/ama)
   Picks
 
-[JS Remote Conf](https://jsremoteconf.com/) (Chuck)[Rails Remote Conf](http://railsremoteconf.com) (Chuck)[Remote Conference Talks](https://devchat.tv/remote-conference-talks/) (Chuck) Standing Desks (Aimee)[We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) (Aimee)[Interview Cake](https://www.interviewcake.com/) (Aimee)[Nodevember](http://nodevember.org/) (Aimee)[A standing desk for \$22](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html) (Chuck)[SmartCells Anti-Fatigue Comfort Mat](http://www.amazon.com/gp/product/B0092N4H64/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0092N4H64&linkCode=as2&tag=chamaxwoo-20&linkId=JBOH4QM5Z5IHPQKD) (Chuck)[Pebble Time](https://pebble.com/pebble-time-smartwatch-features) (Chuck)[Pebble.js](http://developer.getpebble.com/docs/pebblejs/) (Chuck)
+[JS Remote Conf](https://jsremoteconf.com/) (Chuck)[Rails Remote Conf](https://railsremoteconf.com) (Chuck)[Remote Conference Talks](https://devchat.tv/remote-conference-talks/) (Chuck) Standing Desks (Aimee)[We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) (Aimee)[Interview Cake](https://www.interviewcake.com/) (Aimee)[Nodevember](https://nodevember.org/) (Aimee)[A standing desk for \$22](https://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html) (Chuck)[SmartCells Anti-Fatigue Comfort Mat](https://www.amazon.com/gp/product/B0092N4H64/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0092N4H64&linkCode=as2&tag=chamaxwoo-20&linkId=JBOH4QM5Z5IHPQKD) (Chuck)[Pebble Time](https://pebble.com/pebble-time-smartwatch-features) (Chuck)[Pebble.js](https://developer.getpebble.com/docs/pebblejs/) (Chuck)
 
 ### Transcript
 

@@ -63,7 +63,7 @@ tags:
 - [Metabase](https://www.metabase.com/)
   Justin
 - [Phantom Thread](https://www.imdb.com/title/tt5776858/)
-- [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
+- [Dialyzer](https://erlang.org/doc/man/dialyzer.html)
   Josh
 - [Elm Game Jam](https://itch.io/jam/elm-game-jam-mar-apr-2018)
   Chris

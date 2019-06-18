@@ -35,7 +35,7 @@ In this episode, the JavaScript Jabber panelists discuss the effects of JavaScri
 - What is the CSSOM?
 - Every browser has its separate JS engine
 - Browsers perspective
-- [Aimee ShopTalk Podcast Episode](http://shoptalkshow.com/episodes/306-debugging-css-aimee-knight/)
+- [Aimee ShopTalk Podcast Episode](https://shoptalkshow.com/episodes/306-debugging-css-aimee-knight/)
 - Why is it important to understand how the rendering engine is working?
 - Making wise decisions
 - Give control back to browser if possible
@@ -50,10 +50,10 @@ In this episode, the JavaScript Jabber panelists discuss the effects of JavaScri
 - [Parser API](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API)
 - [Babel](https://babeljs.io/)
 - [jQuery](https://jquery.com/)
-- [Aimee ShopTalk Podcast Episode](http://shoptalkshow.com/episodes/306-debugging-css-aimee-knight/)
+- [Aimee ShopTalk Podcast Episode](https://shoptalkshow.com/episodes/306-debugging-css-aimee-knight/)
 - [JavaScript](https://www.javascript.com/)
 - [@gregwhitworth](https://twitter.com/gregwhitworth?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [GWhitworth.com](http://www.gwhitworth.com/)
+- [GWhitworth.com](https://www.gwhitworth.com/)
 - [Greg’s GitHub](https://github.com/gregwhitworth)
 -
 
@@ -73,11 +73,11 @@ AJ
 Aimee
 
 - Greg’s Talk
-- [_What Your Conference Proposal Is Missing_ by Sarah Mei](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
+- [_What Your Conference Proposal Is Missing_ by Sarah Mei](https://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
 
 Greg
 
-- [Aimee ShopTalk Podcast Episode](http://shoptalkshow.com/episodes/306-debugging-css-aimee-knight/)
+- [Aimee ShopTalk Podcast Episode](https://shoptalkshow.com/episodes/306-debugging-css-aimee-knight/)
 - [Jake Archibald Tasks Talk](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 
 ### Transcript

@@ -179,7 +179,7 @@ React Native is mentioned, too.
 - [A Philosophy of Software Design – book](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 - [XState](https://github.com/davidkpiano/xstate)
 - [Book: Spellmonger](https://www.amazon.com/Spellmonger-Book-One-Terry-Mancour-ebook/dp/B004Q9TD7W)
-- [Did Someone Steal the Declaration of Independence Again?](http://declarationofindependencethief.com)
+- [Did Someone Steal the Declaration of Independence Again?](https://declarationofindependencethief.com)
 - [Book: The Culture Code](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0525492461)
 - [Gant Laborde’s Twitter](https://twitter.com/gantlaborde)
 - Lucas Reis’ Email: [lucasmreis@gmail.com](mailto:lucasmreis@gmail.com)
@@ -206,7 +206,7 @@ Charles
 - Magicians
 - [XState is amazing!](https://github.com/davidkpiano/xstate)
 - [Culture Code](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0525492461) - especially if you work remote. The pains that can happen by working remotely. Helps you identify those issues.
-- Talk in Poland – Secret project. [Lose the Declaration of Independence.](http://declarationofindependencethief.com) “Where’s Waldo?” I am going to find Nicholas Cage in the audience and he will have the Declaration of Independence in backpack. Fake government website.
+- Talk in Poland – Secret project. [Lose the Declaration of Independence.](https://declarationofindependencethief.com) “Where’s Waldo?” I am going to find Nicholas Cage in the audience and he will have the Declaration of Independence in backpack. Fake government website.
 
 Justin
 

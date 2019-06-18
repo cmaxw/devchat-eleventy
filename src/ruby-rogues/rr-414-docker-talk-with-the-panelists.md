@@ -58,7 +58,7 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/? __tn__ =%2Cd%2
 **Charles Max Wood:**
 - [Everywhere RB](https://keepcurrentacademy.com/everywhererb/)
 **David Richards:**
-- [Warren Buffet's letters to his shareholders](http://www.berkshirehathaway.com/letters/letters.html)
+- [Warren Buffet's letters to his shareholders](https://www.berkshirehathaway.com/letters/letters.html)
 
 
 ### Transcript

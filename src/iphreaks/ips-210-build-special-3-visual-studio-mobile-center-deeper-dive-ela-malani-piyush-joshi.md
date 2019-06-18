@@ -18,7 +18,7 @@ This is a special episode of iPhreaks from Microsoft Build with panelists Jaim U
 
 ### Picks
 
-**Ela** :[Settlers of Catan](http://www.amazon.com/dp/B000W7JWUA?tag=chamaxwoo-20) **Piyush** :[Born to Run by Christopher McDougall](http://www.amazon.com/dp/0307279189?tag=chamaxwoo-20)
+**Ela** :[Settlers of Catan](https://www.amazon.com/dp/B000W7JWUA?tag=chamaxwoo-20) **Piyush** :[Born to Run by Christopher McDougall](https://www.amazon.com/dp/0307279189?tag=chamaxwoo-20)
 
 ### **Links**
 

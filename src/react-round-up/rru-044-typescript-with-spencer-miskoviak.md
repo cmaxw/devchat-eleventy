@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [KendoUI](https://www.telerik.com/kendo-ui?utm_medium=social-paid&utm_source=devchattv&utm_campaign=kendo-ui-awareness-jsjabber)
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [TripleByte](https://triplebyte.com/react)
 - [CacheFly](https://www.cachefly.com/)
 
@@ -48,7 +48,7 @@ In this episode, Spencer Miskoviak shares his experience and answers questions a
 - [https://www.garyvaynerchuk.com/podcast/](https://www.garyvaynerchuk.com/podcast/)
 - [https://player.fm/series/refactor-your-body](https://player.fm/series/refactor-your-body)
 **Spencer Miskoviak**
-- [http://www.rubberducking.fm/](http://www.rubberducking.fm/)
+- [https://www.rubberducking.fm/](https://www.rubberducking.fm/)
 - The Future of React
 - [Endurance: My Year in Space, A Lifetime of Discovery by Scott Kelly](https://www.amazon.com/Endurance-Year-Space-Lifetime-Discovery-ebook/dp/B01EE0FCEK/ref=sr_1_2?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 

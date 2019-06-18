@@ -32,7 +32,7 @@ They use a scrum methodology to develop the mission statement. Greg explains wha
 
 #### [9:00] Is waterfall more holistic and agile more flexible?
 
-Both methodologies deliver great software. It's more a matter of how you see and use them. Agile allows you to roll with the punches like new technologies and challenges that come up. You can then reprioritize the features. Delivering each week also means that people can play with something right when it's complete and you can modify it the next week. The terms can be confusing. The main point of software development is to create something that solves a real user problem[Google Design Sprint methodology](http://www.gv.com/sprint/)&nbsp; focuses on gathering data and making decisions over a condensed work of time.
+Both methodologies deliver great software. It's more a matter of how you see and use them. Agile allows you to roll with the punches like new technologies and challenges that come up. You can then reprioritize the features. Delivering each week also means that people can play with something right when it's complete and you can modify it the next week. The terms can be confusing. The main point of software development is to create something that solves a real user problem[Google Design Sprint methodology](https://www.gv.com/sprint/)&nbsp; focuses on gathering data and making decisions over a condensed work of time.
 
 #### [13:55] What types of work do you apply this approach to?
 
@@ -40,7 +40,7 @@ Android, iOS, Alexa skills, medical applications, and IoT products all benefit f
 
 #### [15:00] BlindWays App
 
-[Perkins School for the Blind](http://www.perkins.org/)The people who can see, Google maps will get you to the corner where you can see the bus stop. Blind people get to the corner, but the buses drive right by them because they're not standing at the right place. Bus drivers are trained to pick up people who are looking for them. GPS isn't precise enough to get the blind people within a 2 foot radius of where they're supposed to be. The app's purpose was the get them to the bus stop where they're touching the bus stop pole. They considered all sorts of features, functionalities, and technologies, but it was all about the mission, not the feature. Cities move slowly, so the infrastructure isn't going to change or it won't change very quickly. Agile allowed them to test several solutions and iterate on what was working. For example, they created several interfaces, added the voiceover accessibility features to it, and handed them off to Perkins students. You can test voiceover with the screen off. You can also test for automation and scriptability.
+[Perkins School for the Blind](https://www.perkins.org/)The people who can see, Google maps will get you to the corner where you can see the bus stop. Blind people get to the corner, but the buses drive right by them because they're not standing at the right place. Bus drivers are trained to pick up people who are looking for them. GPS isn't precise enough to get the blind people within a 2 foot radius of where they're supposed to be. The app's purpose was the get them to the bus stop where they're touching the bus stop pole. They considered all sorts of features, functionalities, and technologies, but it was all about the mission, not the feature. Cities move slowly, so the infrastructure isn't going to change or it won't change very quickly. Agile allowed them to test several solutions and iterate on what was working. For example, they created several interfaces, added the voiceover accessibility features to it, and handed them off to Perkins students. You can test voiceover with the screen off. You can also test for automation and scriptability.
 
 #### [23:05] How do you turn on Accessibility and Voiceover?
 
@@ -70,12 +70,12 @@ They ruled out several solutions because they were too complex or would have ove
 
 Erica
 
-- [Ancillary Justice](http://Ancillary Justice)
+- [Ancillary Justice](https://Ancillary Justice)
   Jaim
 - [Swift by Sundell on Command Line Interfaces](https://www.swiftbysundell.com/posts/building-a-command-line-tool-using-the-swift-package-manager)
   Greg
 - Businessy books on Audible
-- [The 5 Dysfunctions of a Team](http://amzn.to/2vKTu4T)
-- [Work Rules](http://amzn.to/2jcDXZE)
+- [The 5 Dysfunctions of a Team](https://amzn.to/2vKTu4T)
+- [Work Rules](https://amzn.to/2jcDXZE)
 
 ### Transcript

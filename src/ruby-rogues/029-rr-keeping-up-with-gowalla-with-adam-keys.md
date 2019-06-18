@@ -29,10 +29,10 @@ tags:
 - Empathy for users
 - Feature branches
 - Adam's blog posts
-  - [Relentless Shipping](http://weblog.therealadam.com/2011/08/31/relentless-shipping/)
-  - [Your FriEnemy the ORM](http://weblog.therealadam.com/2011/10/09/your-frienemy-the-orm/)
-  - [The Current and Future Ruby Platform](http://weblog.therealadam.com/2011/11/06/the-current-and-future-ruby-platform/)
-  - [Chronologic - You Put Your Feeds in it](http://speakerdeck.com/u/therealadam/p/chronologic-you-put-your-feeds-in-it)
+  - [Relentless Shipping](https://weblog.therealadam.com/2011/08/31/relentless-shipping/)
+  - [Your FriEnemy the ORM](https://weblog.therealadam.com/2011/10/09/your-frienemy-the-orm/)
+  - [The Current and Future Ruby Platform](https://weblog.therealadam.com/2011/11/06/the-current-and-future-ruby-platform/)
+  - [Chronologic - You Put Your Feeds in it](https://speakerdeck.com/u/therealadam/p/chronologic-you-put-your-feeds-in-it)
 - Minimum Viable Product
 - Streamlining your feature set
 - Measurements/Statistics

@@ -15,9 +15,9 @@ tags:
 ### Panel
 
 - Matt Pardee ([twitter](https://twitter.com/matt_pardee/) [github](https://github.com/mattpardee) [Cloud9](https://c9.io/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Tim Caswell ([twitter](http://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](http://howtonode.org/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](https://howtonode.org/))
 
 ### Discussion
 
@@ -26,9 +26,9 @@ tags:
 - Collaboration Features
 - Cloud Workspace
 - Built-in Deployment
-- [Cloud Foundry](http://www.cloudfoundry.com/)
+- [Cloud Foundry](https://www.cloudfoundry.com/)
 - RemoteSSH
-- [CommonJS](http://www.commonjs.org/)
+- [CommonJS](https://www.commonjs.org/)
 - [Architect](https://github.com/c9/architect)
 - [github.com/ajaxorg/cloud9](https://github.com/ajaxorg/cloud9)
 - Build Your Own IDE
@@ -36,13 +36,13 @@ tags:
 
 ### Picks
 
-- [MenuMeters](http://www.ragingmenace.com/software/menumeters/) (Jamison)
-- [Go Concurrency Patterns by Rob Pike](http://www.youtube.com/watch?v=f6kdp27TYZs) (Jamison)
+- [MenuMeters](https://www.ragingmenace.com/software/menumeters/) (Jamison)
+- [Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs) (Jamison)
 - [SuperBetter](https://www.superbetter.com/) (A. J.)
-- [Adafruit](http://adafruit.com/) (A. J.)
-- [Allocation Sinking&nbsp;Optimizations](http://wiki.luajit.org/Allocation-Sinking-Optimization)&nbsp;(Tim)
+- [Adafruit](https://adafruit.com/) (A. J.)
+- [Allocation Sinking&nbsp;Optimizations](https://wiki.luajit.org/Allocation-Sinking-Optimization)&nbsp;(Tim)
 - Motor Oil (Chuck)
-- [Get Clients Now by CJ Hayden](http://www.amazon.com/gp/product/0814473741/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0814473741) (Chuck)
+- [Get Clients Now by CJ Hayden](https://www.amazon.com/gp/product/0814473741/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0814473741) (Chuck)
 - Text Injection Bookmarklet (Matt)
 
 ### Transcript

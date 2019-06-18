@@ -47,7 +47,7 @@ Kim: [NodeGoat](https://github.com/OWASP/NodeGoat), [Security Regression Testing
 
 ## Links:
 
-- Book Recommendations&nbsp;-&nbsp;[JavaScript the Good Parts](http://shop.oreilly.com/product/9780596517748.do), [JavaScript the Definitive Guide](http://shop.oreilly.com/product/9780596805531.do), [JavaScript Patterns by Stoyan Stefanov](http://shop.oreilly.com/product/9780596806767.do), [Effective JavaScript by David Herman](http://effectivejs.com/)
+- Book Recommendations&nbsp;-&nbsp;[JavaScript the Good Parts](https://shop.oreilly.com/product/9780596517748.do), [JavaScript the Definitive Guide](https://shop.oreilly.com/product/9780596805531.do), [JavaScript Patterns by Stoyan Stefanov](https://shop.oreilly.com/product/9780596806767.do), [Effective JavaScript by David Herman](https://effectivejs.com/)
 - Podcast Recommendations - JavaScript Jabber,&nbsp;[DotNetRocks](https://www.dotnetrocks.com/), [Hanselminutes](https://hanselminutes.com/)
 - Miscellaneous -&nbsp;[Prototypal Inheritance](https://blog.binarymist.net/2014/06/28/exploring-javascript-prototypes/), [Closures](https://blog.binarymist.net/2014/05/31/javascript-closures/), [Object Creation Patterns](https://blog.binarymist.net/2013/07/06/javascript-object-creation-patterns/), [Scoping and Hoisting](https://blog.binarymist.net/2011/11/14/scoping-hoisting-in-javascript/), Extending Currying and Money Patching ([Part 1](https://blog.binarymist.net/2012/04/29/extending-currying-and-monkey-patching-part-1/), [Part 2](https://blog.binarymist.net/2012/05/14/extending-currying-and-monkey-patching-part-2/), and [Part 3](https://blog.binarymist.net/2012/05/27/extending-currying-and-monkey-patching-part-3/))
 

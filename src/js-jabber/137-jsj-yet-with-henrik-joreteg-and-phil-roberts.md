@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-02:03 - [<u>JS Remote Conf</u>](http://jsremoteconf.com/)
+02:03 - [<u>JS Remote Conf</u>](https://jsremoteconf.com/)
 
 - Text **JSREMOTECONF** to 38470
 
@@ -20,67 +20,67 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/philip_roberts)
 - [<u>GitHub</u>](https://github.com/latentflip)
-- [<u>Blog</u>](http://latentflip.com/)
+- [<u>Blog</u>](https://latentflip.com/)
 
 02:43 - Henrik Joreteg Introduction
 
 - [<u>Twitter</u>](https://twitter.com/HenrikJoreteg)
 - [<u>GitHub</u>](https://github.com/HenrikJoreteg)
-- [<u>Blog</u>](http://joreteg.com/)
+- [<u>Blog</u>](https://joreteg.com/)
 
 02:53 - [<u>&amp;yet</u>](https://andyet.com/)
 
 - [<u>@andyet</u>](https://twitter.com/andyet)
-- [<u>Otalk</u>](http://otalk.org/)
-- [<u>Talko</u>](http://www.talko.com/)
+- [<u>Otalk</u>](https://otalk.org/)
+- [<u>Talko</u>](https://www.talko.com/)
 
 04:35 - &yet Philosophies
 
 - Consulting Work
-- <u><a href="http://andyet.com/team" data-cke-saved-href="http://andyet.com/team">&amp;yet Team</a></u>
-  - [<u>JavaScript Jabber Episode #89: The Node Security Project with Adam Baldwin</u>](http://devchat.tv/js-jabber/089-jsj-the-node-security-project-with-adam-baldwin)
+- <u><a href="https://andyet.com/team" data-cke-saved-href="https://andyet.com/team">&amp;yet Team</a></u>
+  - [<u>JavaScript Jabber Episode #89: The Node Security Project with Adam Baldwin</u>](https://devchat.tv/js-jabber/089-jsj-the-node-security-project-with-adam-baldwin)
   - [<u>Nathan Fritz</u>](https://andyet.com/team/nathan)
-- [<u>Open Source</u>](http://en.wikipedia.org/wiki/Open_source)
+- [<u>Open Source</u>](https://en.wikipedia.org/wiki/Open_source)
 
-08:45 - <u><a href="http://talky.io/" data-cke-saved-href="http://talky.io">Talky</a></u>
+08:45 - <u><a href="https://talky.io/" data-cke-saved-href="https://talky.io">Talky</a></u>
 
-- [WebRTC](http://www.webrtc.org/)
-  - [<u>Peer-to-Peer</u>](http://en.wikipedia.org/wiki/Peer-to-peer)
+- [WebRTC](https://www.webrtc.org/)
+  - [<u>Peer-to-Peer</u>](https://en.wikipedia.org/wiki/Peer-to-peer)
 - Techniques to Scale
   - [Selective Forwarding Unit (SFU)](https://webrtcglossary.com/sfu-selective-forwarding-unit/)
-  - [<u>Multipoint Control Unit (MCU)</u>](http://en.wikipedia.org/wiki/Multipoint_control_unit)
-- [<u>Node.js</u>](http://nodejs.org/) and [<u>WebRTC</u>](http://www.webrtc.org/)
-  - <u><a href="http://simplewebrtc.com/" data-cke-saved-href="http://simplewebrtc.com">SimpleWebRTC.js</a></u>
-  - [WebSockets](http://en.wikipedia.org/wiki/WebSocket)
+  - [<u>Multipoint Control Unit (MCU)</u>](https://en.wikipedia.org/wiki/Multipoint_control_unit)
+- [<u>Node.js</u>](https://nodejs.org/) and [<u>WebRTC</u>](https://www.webrtc.org/)
+  - <u><a href="https://simplewebrtc.com/" data-cke-saved-href="https://simplewebrtc.com">SimpleWebRTC.js</a></u>
+  - [WebSockets](https://en.wikipedia.org/wiki/WebSocket)
   - [<u>Prosody</u>](https://prosody.im/)
 - Signaling Messages
 - Recording and Broadcasting
 
-20:27 - [<u>Ampersand.js</u>](http://ampersandjs.com/) and [<u>Backbone.js</u>](http://backbonejs.org/)
+20:27 - [<u>Ampersand.js</u>](https://ampersandjs.com/) and [<u>Backbone.js</u>](https://backbonejs.org/)
 
 - Open Sourcing Frameworks
-  - [<u>Ryan Florence on Frameworks</u>](http://blog.ryanflorence.com/you-cant-not-have-a-framework.html)
+  - [<u>Ryan Florence on Frameworks</u>](https://blog.ryanflorence.com/you-cant-not-have-a-framework.html)
 - Flexibility
 - Managing State
-- [<u>npm</u>](https://www.npmjs.org/) & [<u>Browserify</u>](http://browserify.org/)
+- [<u>npm</u>](https://www.npmjs.org/) & [<u>Browserify</u>](https://browserify.org/)
 - Tradeoffs
-  - [<u>React</u>](http://reactjs.net/)
-  - [<u>Ruby Rogues Episode #182: Keeping Libraries and Utilities Small and Simple with Michel Martens</u>](http://devchat.tv/ruby-rogues/182-rr-keeping-libraries-and-utilities-small-and-simple-with-michel-martens)
+  - [<u>React</u>](https://reactjs.net/)
+  - [<u>Ruby Rogues Episode #182: Keeping Libraries and Utilities Small and Simple with Michel Martens</u>](https://devchat.tv/ruby-rogues/182-rr-keeping-libraries-and-utilities-small-and-simple-with-michel-martens)
 - Making Changes Easier and Later
-  - [<u>TodoMVC</u>](http://todomvc.com/)
-- [<u>Human JavaScript by Henrik Joreteg</u>&nbsp;&nbsp; &nbsp;](http://read.humanjavascript.com/)
-- Building on Top of [<u>Ampersand.js</u>](http://ampersandjs.com/)?
+  - [<u>TodoMVC</u>](https://todomvc.com/)
+- [<u>Human JavaScript by Henrik Joreteg</u>&nbsp;&nbsp; &nbsp;](https://read.humanjavascript.com/)
+- Building on Top of [<u>Ampersand.js</u>](https://ampersandjs.com/)?
 - Making “Add New Feature” Decisions
 
-42:29 - [<u>&amp;yet Training</u>](http://andyet.com/training)
+42:29 - [<u>&amp;yet Training</u>](https://andyet.com/training)
 
-43:04 - Using <u><a href="http://jquery.com/" data-cke-saved-href="http://jquery.com/">jQuery</a></u>
+43:04 - Using <u><a href="https://jquery.com/" data-cke-saved-href="https://jquery.com/">jQuery</a></u>
 
 ### See Also
 
-- [<u>Opinionated Rundown of JS Frameworks</u>](http://blog.andyet.com/2014/08/13/opinionated-rundown-of-js-frameworks)
+- [<u>Opinionated Rundown of JS Frameworks</u>](https://blog.andyet.com/2014/08/13/opinionated-rundown-of-js-frameworks)
 - [<u>Henrik Joreteg: A Single Page Story</u>](https://speakerdeck.com/henrikjoreteg/ffconf-dot-org)
-- <u><a href="http://blog.andyet.com/2014/10/13/we-cant-be-andyet-without-andyou" data-cke-saved-href="http://blog.andyet.com/2014/10/13/we-cant-be-andyet-without-andyou">Adam Brault: We can't be &amp;yet without &amp;you</a></u>
+- <u><a href="https://blog.andyet.com/2014/10/13/we-cant-be-andyet-without-andyou" data-cke-saved-href="https://blog.andyet.com/2014/10/13/we-cant-be-andyet-without-andyou">Adam Brault: We can't be &amp;yet without &amp;you</a></u>
 
 ### Transcript
 

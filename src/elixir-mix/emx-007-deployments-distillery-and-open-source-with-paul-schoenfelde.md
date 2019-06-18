@@ -62,7 +62,7 @@ In this episode of Elixir Mix, the panel talks to Paul Schoenfelde about deploym
 - [Elixir Mix](https://hexdocs.pm/mix/Mix.html)
 - [@gotbones](https://twitter.com/gotbones?lang=en)
 - [Paul’s GitHub](https://github.com/bitwalker)
-- [Bitwalker.org](http://bitwalker.org/)
+- [Bitwalker.org](https://bitwalker.org/)
 
 **Sponsors:**
 

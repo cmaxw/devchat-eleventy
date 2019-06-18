@@ -58,7 +58,7 @@ Charles
 
 - [Brandon Sanderson Books](https://brandonsanderson.com/)
 - [Writing Excuses Podcast](https://writingexcuses.com/)
-- [Life, the Universe, and Everything Conference](http://ltue.net/)
+- [Life, the Universe, and Everything Conference](https://ltue.net/)
 - [_Bullies_ by Ben Shapiro](https://www.amazon.com/Bullies-Culture-Intimidation-Silences-Americans-ebook/dp/B008GULMDK)
 - [_Fire and Fury_ by Michael Wolff](https://www.amazon.com/Fire-Fury-Inside-Trump-White/dp/1250158060)
 

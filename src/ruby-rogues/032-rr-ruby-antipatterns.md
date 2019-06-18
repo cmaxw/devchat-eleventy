@@ -13,25 +13,25 @@ tags:
 ---
 
 - rescue nil
-- [Exceptional Ruby](http://exceptionalruby.com/ 'Exceptional Ruby by Avdi Grimm')
+- [Exceptional Ruby](https://exceptionalruby.com/ 'Exceptional Ruby by Avdi Grimm')
 - terniary operator as a guard clause
-- [Law of Demeter](http://en.wikipedia.org/wiki/Law_of_Demeter 'Wikipedia - Law of Demeter')
-- [andand](http://weblog.raganwald.com/2008/01/objectandand-objectme-in-ruby.html 'Reginald Braithwaite - andand')
+- [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter 'Wikipedia - Law of Demeter')
+- [andand](https://weblog.raganwald.com/2008/01/objectandand-objectme-in-ruby.html 'Reginald Braithwaite - andand')
 - turtles!
-- [unless...else...](http://37signals.com/svn/posts/2699-making-sense-with-rubys-unless '37 Signals - Unless')
-- [method_missing](http://ruby-doc.org/docs/ProgrammingRuby/html/ref_c_object.html#object.method_missing 'ruby-doc.org - method_missing')
-- [respond_to?](http://www.ruby-doc.org/core-1.9.3/Object.html#method-i-respond_to-3F 'ruby-doc.org - respond_to?')
+- [unless...else...](https://37signals.com/svn/posts/2699-making-sense-with-rubys-unless '37 Signals - Unless')
+- [method_missing](https://ruby-doc.org/docs/ProgrammingRuby/html/ref_c_object.html#object.method_missing 'ruby-doc.org - method_missing')
+- [respond_to?](https://www.ruby-doc.org/core-1.9.3/Object.html#method-i-respond_to-3F 'ruby-doc.org - respond_to?')
 - super
 - mixin modules
 - subclassing/inheritance
-- [defined?](http://www.ruby-doc.org/core-1.8.7/Module.html#method-i-method_defined-3F 'ruby-doc.org - method_defined?')
+- [defined?](https://www.ruby-doc.org/core-1.8.7/Module.html#method-i-method_defined-3F 'ruby-doc.org - method_defined?')
 - "Never use a symbol to do a method's job!"
 - inheritance from Core classes
 - inherit from Struct.new(...)
 - terniary operators that cause side effect methods rather than simply returning values
 - test ? true : false
 - !! for boolean
-- [Don't override #nil?](http://www.ruby-forum.com/topic/160638)
+- [Don't override #nil?](https://www.ruby-forum.com/topic/160638)
 
 ### Transcript
 

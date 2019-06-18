@@ -21,16 +21,16 @@ Today's episode is a My Ruby Story with Noel Rappin. Noel talked about his contr
 **Noel Rappin**
 
 - R programming
-- [Podcast: Tech Done Right](http://www.techdoneright.io/)
-- [Author: Martha Wells](http://www.marthawells.com/)
+- [Podcast: Tech Done Right](https://www.techdoneright.io/)
+- [Author: Martha Wells](https://www.marthawells.com/)
 - [The Murderbot Diaries by Martha Well](https://www.amazon.com/All-Systems-Red-Murderbot-Diaries/dp/0765397536)
 - [Atom Editor](https://atom.io/)
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/)
-- [Bear](http://www.bear-writer.com/)
+- [Bear](https://www.bear-writer.com/)
 - [Twitter @noelrap](https://twitter.com/noelrap)
-- [noelrappin.com](http://www.noelrappin.com/)
+- [noelrappin.com](https://www.noelrappin.com/)
   **Charles Max Wood**
 - [Mighty Mug](https://www.amazon.com/Mighty-Mug/pages/8213937011)
-- [Phrase Express](http://www.phraseexpress.com/)
+- [Phrase Express](https://www.phraseexpress.com/)
 
 ### Transcript

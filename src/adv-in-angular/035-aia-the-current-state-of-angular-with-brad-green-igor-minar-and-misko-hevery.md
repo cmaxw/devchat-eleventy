@@ -14,19 +14,19 @@ tags:
 
 01:08 - Dropping the “JS”
 
-02:15 - [<u>Announcements from ng-conf Blog Post</u>](http://angularjs.blogspot.com/)
+02:15 - [<u>Announcements from ng-conf Blog Post</u>](https://angularjs.blogspot.com/)
 
 03:20 - [<u>Angular </u><u>Internationalization (i18n)</u>](https://docs.angularjs.org/guide/i18n)
 
 05:27 - Annotations
 
-- [<u>Yehuda Katz</u>](http://yehudakatz.com/) and [<u>Rob Eisenberg</u>](https://twitter.com/eisenbergeffect)
+- [<u>Yehuda Katz</u>](https://yehudakatz.com/) and [<u>Rob Eisenberg</u>](https://twitter.com/eisenbergeffect)
 - Reflection and Injection
 
-09:24 - Runtime, Type Inference, and Dealing with Types at Runtime in [<u>TypeScript</u>](http://www.typescriptlang.org/)
+09:24 - Runtime, Type Inference, and Dealing with Types at Runtime in [<u>TypeScript</u>](https://www.typescriptlang.org/)
 
-- [<u>Metaprogramming</u>](http://en.wikipedia.org/wiki/Metaprogramming)
-- [<u>Dependency Injection</u>](http://en.wikipedia.org/wiki/Dependency_injection)
+- [<u>Metaprogramming</u>](https://en.wikipedia.org/wiki/Metaprogramming)
+- [<u>Dependency Injection</u>](https://en.wikipedia.org/wiki/Dependency_injection)
 
 11:05 - The Stability of the Current State of Angular
 
@@ -48,12 +48,12 @@ tags:
 
 25:22 - [<u>Directives</u>](https://docs.angularjs.org/guide/directive) (Angular 1 vs 2)
 
-- How Do You Integrate HTML Templating with the [<u>ECMAScrip</u>](http://en.wikipedia.org/wiki/ECMAScript)t 6 Module System?
+- How Do You Integrate HTML Templating with the [<u>ECMAScrip</u>](https://en.wikipedia.org/wiki/ECMAScript)t 6 Module System?
 - Template Annotation
   - Use Cases
     27:39 - Why Declare Imports in JavaScript?
 
-32:37 - Using Globals with [<u>WebComponents</u>](http://webcomponents.org/)
+32:37 - Using Globals with [<u>WebComponents</u>](https://webcomponents.org/)
 
 - Tooling
 - [<u>Property Binding</u>](https://qt-project.org/doc/qt-4.8/propertybinding.html)
@@ -68,10 +68,10 @@ tags:
     - [<u>[YouTube] Brad Green and Igor Minar: ng-conf 2015 Keynote 1</u>](https://www.youtube.com/watch?v=QHulaj5ZxbI&index=1&list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7)
     - <u><a style="text-decoration: none;" href="https://www.youtube.com/watch?v=-dMBcqwvYA0&amp;index=21&amp;list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7">[YouTube] Misko Hevery and Rado Kirov: ng-conf 2015 Keynote 2</a></u>
 
-### [<u>ng-vegas</u>](http://www.ng-vegas.org) News
+### [<u>ng-vegas</u>](https://www.ng-vegas.org) News
 
 - Sponsors! Get in touch: [<u>joeeames@gmail.com</u>](mailto:joeeames@gmail.com)
-- Now LIVE! <u><a style="text-decoration: none;" href="http://www.ng-vegas.org/speakers">ng-vegas Speaker List</a></u>
+- Now LIVE! <u><a style="text-decoration: none;" href="https://www.ng-vegas.org/speakers">ng-vegas Speaker List</a></u>
 
 ### [<u>AngularU</u>](https://angularu.com/) News
 
@@ -79,7 +79,7 @@ tags:
 
 Picks
 
-[<u>angular2_calendar</u>](https://github.com/djsmith42/angular2_calendar) (Joe)[<u>ng-vegas</u>](http://www.ng-vegas.org) (Joe)[<u>ng-conf 2015 YouTube Channel</u>](https://www.youtube.com/playlist?list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7) (Ward)[<u>[YouTube] Shai Reznik: ng-wat</u>](http://www.youtube.com/watch?v=M_Wp-2XA9ZU) (Chuck) The New [<u>Angular.io</u>](https://angular.io/) Site (Lukas)[<u>Coding Like a Girl</u>](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce) (Brad)[<u>Didgeridoo at ng-conf</u>](https://plus.google.com/u/0/photos/+JoeEames/albums/6124410697314891393/6124410745801124850?sqi=108528253355009668752&sqsi=0fdf33b7-f49a-46f6-b541-66f8d63ee5e0&pid=6124410745801124850&oid=102641583369299547194) (Igor) Angular 2 (Miško)[<u>[YouTube] Dave Smith: Angular + React = Speed</u>](https://www.youtube.com/watch?v=XQM0K6YG18s&list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7&index=35) + Dave’s Addendum (Igor)
+[<u>angular2_calendar</u>](https://github.com/djsmith42/angular2_calendar) (Joe)[<u>ng-vegas</u>](https://www.ng-vegas.org) (Joe)[<u>ng-conf 2015 YouTube Channel</u>](https://www.youtube.com/playlist?list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7) (Ward)[<u>[YouTube] Shai Reznik: ng-wat</u>](https://www.youtube.com/watch?v=M_Wp-2XA9ZU) (Chuck) The New [<u>Angular.io</u>](https://angular.io/) Site (Lukas)[<u>Coding Like a Girl</u>](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce) (Brad)[<u>Didgeridoo at ng-conf</u>](https://plus.google.com/u/0/photos/+JoeEames/albums/6124410697314891393/6124410745801124850?sqi=108528253355009668752&sqsi=0fdf33b7-f49a-46f6-b541-66f8d63ee5e0&pid=6124410745801124850&oid=102641583369299547194) (Igor) Angular 2 (Miško)[<u>[YouTube] Dave Smith: Angular + React = Speed</u>](https://www.youtube.com/watch?v=XQM0K6YG18s&list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7&index=35) + Dave’s Addendum (Igor)
 
 ### Transcript
 

@@ -24,25 +24,25 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)! It
 
 11:18 - Managing Execution; Prioritization
 
-- [Getting Things Done by David Allen](http://gettingthingsdone.com/)
+- [Getting Things Done by David Allen](https://gettingthingsdone.com/)
 - [Calendly](https://calendly.com/)
 
 26:52 - Mastermind Groups
 
 30:35 - Email
 
-- [SaneBox](http://www.sanebox.com/)
+- [SaneBox](https://www.sanebox.com/)
 - [Slack](https://slack.com/)
 - Autoresponders
 - [TextExpander](https://smilesoftware.com/textexpander)
 
 48:39 - Bookkeeping
 
-50:32 - [S.M.A.R.T. Goals](http://topachievement.com/smart.html)
+50:32 - [S.M.A.R.T. Goals](https://topachievement.com/smart.html)
 
 Picks
 
-[Hot Pot](https://en.wikipedia.org/wiki/Hot_pot) (Reuven)[INBOX PAUSE](http://inboxpause.com/) (Jonathan)[Calendly](https://calendly.com/) (Jonathan)[BusyCal](http://www.busymac.com/busycal/) (Chuck)[Basecamp](https://basecamp.com/) (Chuck)[Star Wars](http://www.starwars.com/) (Chuck)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)
+[Hot Pot](https://en.wikipedia.org/wiki/Hot_pot) (Reuven)[INBOX PAUSE](https://inboxpause.com/) (Jonathan)[Calendly](https://calendly.com/) (Jonathan)[BusyCal](https://www.busymac.com/busycal/) (Chuck)[Basecamp](https://basecamp.com/) (Chuck)[Star Wars](https://www.starwars.com/) (Chuck)[Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) (Chuck)
 
 ### Transcript
 

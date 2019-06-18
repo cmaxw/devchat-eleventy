@@ -53,7 +53,7 @@ tags:
   Spencer
 - [React Native Training Blog](https://reactnative.training)
   Nader
-- [React Native 2 years Later](http://artsy.github.io/blog/2018/03/17/two-years-of-react-native/)
+- [React Native 2 years Later](https://artsy.github.io/blog/2018/03/17/two-years-of-react-native/)
 - [Chain React](https://infinite.red/ChainReactConf)
 - [React Native EU Conference](https://www.eventbrite.com/e/react-native-eu-2018-conference-tickets-42276662636)
 - [Flutter for JS Developers](https://hackernoon.com/flutter-for-javascript-developers-35515e533317)

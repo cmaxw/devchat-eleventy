@@ -12,48 +12,48 @@ tags:
   - podcast
 ---
 
-02:20 - Help Support [<u>The Ruby Rogues</u>](http://rubyrogues.com/) and [<u>DevChat.tv</u>](https://devchat.tv/)
+02:20 - Help Support [<u>The Ruby Rogues</u>](https://rubyrogues.com/) and [<u>DevChat.tv</u>](https://devchat.tv/)
 
-- [<u>Donate</u>](http://www.devchat.tv/donate)
-- [<u>Join Parley</u>](http://www.rubyrogues.com/forum)
+- [<u>Donate</u>](https://www.devchat.tv/donate)
+- [<u>Join Parley</u>](https://www.rubyrogues.com/forum)
 - [<u>JS Remote Conf</u>](https://jsremoteconf.com/)
-- [<u>Pick Up Podcasting</u>](http://pickuppodcasting.com/)
+- [<u>Pick Up Podcasting</u>](https://pickuppodcasting.com/)
 
 03:16 - Craig McKeachie Introduction
 
-- [<u>Twitter</u>](http://twitter.com/cmckeachie)
-- [<u>Blog</u>](http://www.funnyant.com/)
+- [<u>Twitter</u>](https://twitter.com/cmckeachie)
+- [<u>Blog</u>](https://www.funnyant.com/)
 - [<u>Craig McKeachie: Choosing a JavaScript MVC Framework</u>](https://www.funnyant.com/choosing-javascript-mvc-framework/)
 - [<u>The JavaScript Framework Guide by Craig McKeachie</u>](https://www.funnyant.com/javascript-framework-guide/)
-- [<u>CodeMash</u>](http://www.codemash.org/)
+- [<u>CodeMash</u>](https://www.codemash.org/)
 
 04:42 - Page Loads
 
 - [<u>MySpace</u>](https://myspace.com/) vs [<u>Facebook</u>](https://www.facebook.com/)
-- [<u>AJAX</u>](<http://en.wikipedia.org/wiki/Ajax_(programming)>)
-- [<u>XMLHttpRequest (XHR)</u>](http://en.wikipedia.org/wiki/XMLHttpRequest)
-- [<u>jQuery</u>](http://jquery.com/)
-- [<u>HTML</u>](http://en.wikipedia.org/wiki/HTML)
+- [<u>AJAX</u>](<https://en.wikipedia.org/wiki/Ajax_(programming)>)
+- [<u>XMLHttpRequest (XHR)</u>](https://en.wikipedia.org/wiki/XMLHttpRequest)
+- [<u>jQuery</u>](https://jquery.com/)
+- [<u>HTML</u>](https://en.wikipedia.org/wiki/HTML)
 
-09:44 - [<u>jQuery</u>](http://jquery.com/)
+09:44 - [<u>jQuery</u>](https://jquery.com/)
 
 18:32 - MVC Framework Features
 
 - Routing
   - [<u>AngularJS</u>](https://angularjs.org/)
-  - [<u>Backbone.js</u>](http://backbonejs.org/)
-  - [<u>Ember.js</u>](http://emberjs.com/)
-  - [<u>Durandal</u>](http://durandaljs.com/)
-  - [<u>Knockout</u>](http://knockoutjs.com/)
+  - [<u>Backbone.js</u>](https://backbonejs.org/)
+  - [<u>Ember.js</u>](https://emberjs.com/)
+  - [<u>Durandal</u>](https://durandaljs.com/)
+  - [<u>Knockout</u>](https://knockoutjs.com/)
 - Templating
-  - [<u>Haml</u>](http://haml.info/)
-  - [<u>ERB</u>](http://ruby-doc.org/stdlib-1.9.3/libdoc/erb/rdoc/ERB.html)
+  - [<u>Haml</u>](https://haml.info/)
+  - [<u>ERB</u>](https://ruby-doc.org/stdlib-1.9.3/libdoc/erb/rdoc/ERB.html)
 
 23:49 - Template vs View
 
 25:19 - Are Different Frameworks Consistent in their Approach to MVC?
 
-- [<u>Marionette.js</u>](http://marionettejs.com/)
+- [<u>Marionette.js</u>](https://marionettejs.com/)
 
 29:36 - User Experience
 
@@ -65,61 +65,61 @@ tags:
 
 37:34 - “The Pit of Success”
 
-- [<u>Scott Guthrie</u>](http://weblogs.asp.net/scottgu)
+- [<u>Scott Guthrie</u>](https://weblogs.asp.net/scottgu)
   - [<u>@scottgu</u>](https://twitter.com/scottgu)
 
-38:59 - [<u>(From Parley)</u>](http://parley.rubyrogues.com/): Why Would Anyone Ever Use [<u>AngularJS</u>](https://angularjs.org/)?
+38:59 - [<u>(From Parley)</u>](https://parley.rubyrogues.com/): Why Would Anyone Ever Use [<u>AngularJS</u>](https://angularjs.org/)?
 
-- [<u>Angular 2</u>](http://ng-learn.org/tags/angularjs-2.html)
-- <u><a href="http://adventuresinangular.com/" data-cke-saved-href="http://adventuresinangular.com">Adventures in Angular</a></u>
-  - [<u>Adventures in Angular Episode #16: NG 1.3 and 2.0 with Brad Green, Igor Minar, and Miško Hevery</u>](http://devchat.tv/adventures-in-angular/016-aia-ng-1-3-and-2-0-with-brad-green-igor-minar-and-mi-ko-hevery)
+- [<u>Angular 2</u>](https://ng-learn.org/tags/angularjs-2.html)
+- <u><a href="https://adventuresinangular.com/" data-cke-saved-href="https://adventuresinangular.com">Adventures in Angular</a></u>
+  - [<u>Adventures in Angular Episode #16: NG 1.3 and 2.0 with Brad Green, Igor Minar, and Miško Hevery</u>](https://devchat.tv/adventures-in-angular/016-aia-ng-1-3-and-2-0-with-brad-green-igor-minar-and-mi-ko-hevery)
 
-46:01 - [<u>Single-page Application (SPA)</u>](http://en.wikipedia.org/wiki/Single-page_application) Accommodation & Client-side Architecture
+46:01 - [<u>Single-page Application (SPA)</u>](https://en.wikipedia.org/wiki/Single-page_application) Accommodation & Client-side Architecture
 
 - Techniques for Wrapping up your jQuery
   - <u><a href="https://twitter.com/tehviking" data-cke-saved-href="https://twitter.com/tehviking">Brandon Hays</a></u>
-  - [<u>JavaScript Jabber Episode #112: Refactoring JavaScript Apps Into a Framework with Brandon Hays</u>](http://devchat.tv/js-jabber/112-jsj-refactoring-javascript-apps-into-a-framework-with-brandon-hays)
+  - [<u>JavaScript Jabber Episode #112: Refactoring JavaScript Apps Into a Framework with Brandon Hays</u>](https://devchat.tv/js-jabber/112-jsj-refactoring-javascript-apps-into-a-framework-with-brandon-hays)
 
-51:00 - [<u>Ember</u>](http://emberjs.com/) vs [<u>Angular</u>](https://angularjs.org/)
+51:00 - [<u>Ember</u>](https://emberjs.com/) vs [<u>Angular</u>](https://angularjs.org/)
 
 53:28 - Other Frameworks, Libraries
 
 - [<u>turbolinks</u>](https://github.com/rails/turbolinks)
 - [<u>pjax</u>](https://github.com/defunkt/jquery-pjax)
-- [<u>Durandal</u>](http://durandaljs.com/)
-- [<u>Knockout</u>](http://knockoutjs.com/)
-  - [<u>Data Binding</u>](http://en.wikipedia.org/wiki/Data_binding)
-  - [<u>JavaScript Jabber Episode #13: Knockout.js with Steven Sanderson</u>](http://devchat.tv/js-jabber/013-jsj-knockout-js-with-steven-sanderson)
+- [<u>Durandal</u>](https://durandaljs.com/)
+- [<u>Knockout</u>](https://knockoutjs.com/)
+  - [<u>Data Binding</u>](https://en.wikipedia.org/wiki/Data_binding)
+  - [<u>JavaScript Jabber Episode #13: Knockout.js with Steven Sanderson</u>](https://devchat.tv/js-jabber/013-jsj-knockout-js-with-steven-sanderson)
 - [<u>history.js</u>](https://github.com/browserstate/history.js/)
-  - [<u>JavaScript Jabber Episode #31: history.js with Benjamin Lupton</u>](http://devchat.tv/js-jabber/031-jsj-history-js)
-- [<u>Sammy.js</u>](http://sammyjs.org/)
+  - [<u>JavaScript Jabber Episode #31: history.js with Benjamin Lupton</u>](https://devchat.tv/js-jabber/031-jsj-history-js)
+- [<u>Sammy.js</u>](https://sammyjs.org/)
 - Portability of Code
 
 59:17 - Getting Started Programming and JavaScript Frameworks
 
 - Timeless Skills
-- [<u>Backbone</u>](http://backbonejs.org/)
+- [<u>Backbone</u>](https://backbonejs.org/)
 - “Magic”
-- [<u>Craig McKeachie: Anatomy of a JavaScript MV\* Framework</u>](http://www.sitepoint.com/anatomy-javascript-mv-framework/)
+- [<u>Craig McKeachie: Anatomy of a JavaScript MV\* Framework</u>](https://www.sitepoint.com/anatomy-javascript-mv-framework/)
 
-01:04:40 - The [<u>React</u>](http://facebook.github.io/react/) Framework
+01:04:40 - The [<u>React</u>](https://facebook.github.io/react/) Framework
 
-- [<u>Craig McKeachie: React.js and How Does It Fit In With Everything Else?</u>](http://www.funnyant.com/reactjs-what-is-it/)
-- [<u>JavaScript Jabber Episode #73: React with Pete Hunt and Jordan Walke</u>](http://devchat.tv/js-jabber/073-jsj-react-with-pete-hunt-and-jordan-walke)
+- [<u>Craig McKeachie: React.js and How Does It Fit In With Everything Else?</u>](https://www.funnyant.com/reactjs-what-is-it/)
+- [<u>JavaScript Jabber Episode #73: React with Pete Hunt and Jordan Walke</u>](https://devchat.tv/js-jabber/073-jsj-react-with-pete-hunt-and-jordan-walke)
 
 01:06:38 - Full Stack Frameworks
 
 - [<u>Meteor</u>](https://www.meteor.com/)
-  - [<u>JavaScript Jabber Episode #76: Meteor.js with Marcus Phillips and Fred Zirdung</u>](http://devchat.tv/js-jabber/076-jsj-meteor-js-with-marcus-phillips-and-fred-zirdung)
+  - [<u>JavaScript Jabber Episode #76: Meteor.js with Marcus Phillips and Fred Zirdung</u>](https://devchat.tv/js-jabber/076-jsj-meteor-js-with-marcus-phillips-and-fred-zirdung)
 - [<u>comet.io</u>](https://www.npmjs.com/package/comet.io)
 - [<u>volt</u>](https://github.com/voltrb/volt)
-- [<u>CanJS</u>](http://canjs.com/)
-- <u><a href="http://durandaljs.com/" data-cke-saved-href="http://durandaljs.com/">Durandal</a></u>
-  - [<u>Rob Eisenberg: Leaving Angular</u>](http://eisenbergeffect.bluespire.com/leaving-angular/)
+- [<u>CanJS</u>](https://canjs.com/)
+- <u><a href="https://durandaljs.com/" data-cke-saved-href="https://durandaljs.com/">Durandal</a></u>
+  - [<u>Rob Eisenberg: Leaving Angular</u>](https://eisenbergeffect.bluespire.com/leaving-angular/)
 - [<u>om</u>](https://github.com/swannodette/om)
-- [<u>ClojureScript</u>](http://clojure.org/clojurescript)
-  - [<u>JavaScript Jabber Episode #107: ClojureScript &amp; Om with David Nolen</u>](http://devchat.tv/js-jabber/107-jsj-clojurescript-om-with-david-nolen)
-- [<u>Flux (a Framework built on React)</u>](http://facebook.github.io/react/blog/2014/05/06/flux.html)
+- [<u>ClojureScript</u>](https://clojure.org/clojurescript)
+  - [<u>JavaScript Jabber Episode #107: ClojureScript &amp; Om with David Nolen</u>](https://devchat.tv/js-jabber/107-jsj-clojurescript-om-with-david-nolen)
+- [<u>Flux (a Framework built on React)</u>](https://facebook.github.io/react/blog/2014/05/06/flux.html)
 
 ### Special Offer!
 

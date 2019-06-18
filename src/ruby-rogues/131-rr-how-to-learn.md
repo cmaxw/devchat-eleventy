@@ -16,8 +16,8 @@ tags:
 
 01:46 - How to Learn
 
-- [Ruby Rogues Parley: How to read programming books](http://parley.rubyrogues.com/t/how-to-read-programming-books/1068)
-- [Katrina Owen: Keynote - Hacking Passion](http://www.confreaks.com/videos/2600-lonestarruby2013-keynote-hacking-passion)
+- [Ruby Rogues Parley: How to read programming books](https://parley.rubyrogues.com/t/how-to-read-programming-books/1068)
+- [Katrina Owen: Keynote - Hacking Passion](https://www.confreaks.com/videos/2600-lonestarruby2013-keynote-hacking-passion)
 
 03:27 - Talent and Effort
 
@@ -34,7 +34,7 @@ tags:
 13:19 - Talent (Cont’d)
 
 - Natural Aptitude
-- [Outliers: The Story of Success by Malcolm Gladwell](http://www.amazon.com/gp/product/B001ANYDAO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001ANYDAO&linkCode=as2&tag=chamaxwoo-20)
+- [Outliers: The Story of Success by Malcolm Gladwell](https://www.amazon.com/gp/product/B001ANYDAO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001ANYDAO&linkCode=as2&tag=chamaxwoo-20)
 
 26:43 - Practice
 
@@ -43,18 +43,18 @@ tags:
 - Case Studies
 - Direct Practice
 - Imitation
-- [Brian Marick: Rocky Mountain Ruby 2013 Programming with that Disreputable Part of your Brain](http://www.youtube.com/watch?v=kLLwJws1nfw)
+- [Brian Marick: Rocky Mountain Ruby 2013 Programming with that Disreputable Part of your Brain](https://www.youtube.com/watch?v=kLLwJws1nfw)
 
 35:27 - Following Rules
 
-- [047 Ruby Rogues: Coding Disciplines with Dan Kubb](http://rubyrogues.com/047-rr-coding-disciplines/)
-- [What's Wrong With Ruby's Object Model (And Why That's a Good Thing) by David Brady](http://www.youtube.com/watch?v=LmtcDFnOYj4)
-- [Steve Klabnik: Keynote - Functional Reactive Programming With Frappuccino (LoneStar Ruby 2013)](http://208.85.150.247/videos/2599-lonestarruby2013-keynote-functional-reactive-programming-with-frappuccino)
+- [047 Ruby Rogues: Coding Disciplines with Dan Kubb](https://rubyrogues.com/047-rr-coding-disciplines/)
+- [What's Wrong With Ruby's Object Model (And Why That's a Good Thing) by David Brady](https://www.youtube.com/watch?v=LmtcDFnOYj4)
+- [Steve Klabnik: Keynote - Functional Reactive Programming With Frappuccino (LoneStar Ruby 2013)](https://208.85.150.247/videos/2599-lonestarruby2013-keynote-functional-reactive-programming-with-frappuccino)
 
 40:47 - Tips on Starting Learning Something New
 
-- [Sucking at something is the first step to becoming sorta good at something.](http://www.quickmeme.com/meme/6n0y)
-- [064 Ruby Rogues: Presenting at Conferences](http://rubyrogues.com/064-rr-presenting-at-conferences/)
+- [Sucking at something is the first step to becoming sorta good at something.](https://www.quickmeme.com/meme/6n0y)
+- [064 Ruby Rogues: Presenting at Conferences](https://rubyrogues.com/064-rr-presenting-at-conferences/)
 - “The License to not Care”
 
 47:28 - Setting Goals
@@ -63,9 +63,9 @@ tags:
 
 53:01 - How to Read Programming Books
 
-- [Ruby Rogues Parley: How to read programming books](http://parley.rubyrogues.com/t/how-to-read-programming-books/1068)
+- [Ruby Rogues Parley: How to read programming books](https://parley.rubyrogues.com/t/how-to-read-programming-books/1068)
 - Information Retrieval Bias
-- [Teach Yourself a New Programming Language in 21 Minutes (Or 2-3 Years, It Depends)](http://heartmindcode.com/2013/06/18/teach-yourself-a-new-programming-language-in-21-minutes-or-2-3-years-it-depends/)
+- [Teach Yourself a New Programming Language in 21 Minutes (Or 2-3 Years, It Depends)](https://heartmindcode.com/2013/06/18/teach-yourself-a-new-programming-language-in-21-minutes-or-2-3-years-it-depends/)
 
 01:17:19 - Teaching Others
 

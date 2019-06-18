@@ -15,8 +15,8 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
-- [Triplebyte](http://triplebyte.com/vue) $1000 signing bonus for listeners
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Triplebyte](https://triplebyte.com/vue) $1000 signing bonus for listeners
 
 ### **Panel**
 

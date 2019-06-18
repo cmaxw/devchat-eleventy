@@ -19,20 +19,20 @@ tags:
 - [The iPhreaks Show Episode #153: Using Mobile Devices to Manage Diabetes with Scott Hanselman](https://devchat.tv/iphreaks/153-ips-using-mobile-devices-to-manage-diabetes-with-scott-hanselman)
   28:19 - Deciding What to Learn Next 31:19 - Keeping Up: Obligations As a Developer34:22 - Deciding What to Learn Next (Cont’d)42:01 - Recommendations
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-- [gulp.js](http://gulpjs.com/)
+- [gulp.js](https://gulpjs.com/)
 - [webpack](https://webpack.github.io/)
 - [The Little Schemer](https://mitpress.mit.edu/books/little-schemer)
-- [Designing Data-Intensive Applications by Martin Kleppmann](http://dataintensive.net/)
+- [Designing Data-Intensive Applications by Martin Kleppmann](https://dataintensive.net/)
   &nbsp;Picks
-- [accidentally nonblocking](http://www.tedunangst.com/flak/post/accidentally-nonblocking) (Jamison)
+- [accidentally nonblocking](https://www.tedunangst.com/flak/post/accidentally-nonblocking) (Jamison)
 - [choo](https://github.com/yoshuawuyts/choo) (Jamison)
 - [Web Rebels](https://www.webrebels.org/) (Jamison)
-- [React Rally](http://www.reactrally.com/) (Jamison)
-- [Grab The Gold](http://grabthegold.com/) (Aimee)
+- [React Rally](https://www.reactrally.com/) (Jamison)
+- [Grab The Gold](https://grabthegold.com/) (Aimee)
 - [node-for-beginners](https://github.com/rockbot/node-for-beginners) (Aimee)
-- [Procrastinate On Purpose by Rory Vaden](http://www.procrastinateonpurpose.com/) (Chuck)
+- [Procrastinate On Purpose by Rory Vaden](https://www.procrastinateonpurpose.com/) (Chuck)
 - [Newbie Remote Conf](https://allremoteconfs.com/newbie-2016) (Chuck)
-- [Get A Coder Job](http://getacoderjob.com/) (Chuck)
+- [Get A Coder Job](https://getacoderjob.com/) (Chuck)
 
 ### Transcript
 

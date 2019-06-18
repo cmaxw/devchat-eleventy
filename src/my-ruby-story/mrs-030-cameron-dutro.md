@@ -39,14 +39,14 @@ tags:
   **Links: &nbsp;**
 - [https://www.linkedin.com/in/camerondutro](https://www.linkedin.com/in/camerondutro)
 - [https://github.com/camertron](https://github.com/camertron)
-- [http://camerondutro.com](http://camerondutro.com)
+- [https://camerondutro.com](https://camerondutro.com)
 - **@** camertron
 - [https://www.lumosity.com](https://www.lumosity.com)
 - [https://devchat.tv/ruby-rogues/267-rr-internationalization-with-cameron-dutro](https://devchat.tv/ruby-rogues/267-rr-internationalization-with-cameron-dutro)
 - Platform Engineer and Dev Ops Opening at Lumosity!
   **Picks** Cameron
 - [The Far Side Comic Strips](https://en.wikipedia.org/wiki/The_Far_Side)
-- [The Fox Trot](http://www.foxtrot.com)
+- [The Fox Trot](https://www.foxtrot.com)
 - Sunday Comics
 - [Amazon Lightsail](https://aws.amazon.com/lightsail/)
 - Mental Health - Preventing Burnout

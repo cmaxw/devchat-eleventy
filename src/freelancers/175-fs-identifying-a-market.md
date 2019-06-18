@@ -30,10 +30,10 @@ Preface: [The Positioning Manual for Technical Firms by Philip Morgan](https://p
 
 42:51 - Takeaways
 
-- [Ask: The Counterintuitive Online Formula to Discover Exactly What Your Customers Want to Buy...Create a Mass of Raving Fans...and Take Any Business to the Next Level by Ryan Levesque](http://www.amazon.com/gp/product/1939447720/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1939447720&linkCode=as2&tag=chamaxwoo-20&linkId=R5KPVYXLF5MTRMZF)
+- [Ask: The Counterintuitive Online Formula to Discover Exactly What Your Customers Want to Buy...Create a Mass of Raving Fans...and Take Any Business to the Next Level by Ryan Levesque](https://www.amazon.com/gp/product/1939447720/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1939447720&linkCode=as2&tag=chamaxwoo-20&linkId=R5KPVYXLF5MTRMZF)
   Picks
 
-[This American Life Episode #569: Put a Bow on It](http://www.thisamericanlife.org/radio-archives/episode/569/put-a-bow-on-it) (Reuven)[Steal the Show by Michael Port](http://www.amazon.com/Steal-Show-Interviews-Deal-Closing-Performances/dp/054455518X/ref=as_li_ss_tl?ie=UTF8&qid=1424095539&sr=8-1&keywords=steal+the+show&linkCode=sl1&tag=httpwwwmichac-20&linkId=594d507eec34c977011cee7853b391cb) (Jonathan)[MONEY Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins](http://www.amazon.com/gp/product/1476757801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476757801&linkCode=as2&tag=chamaxwoo-20&linkId=E32QVPKFK7CHGD5X) (Chuck)[The Positioning Manual for Technical Firms by Philip Morgan](https://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/) (Chuck)
+[This American Life Episode #569: Put a Bow on It](https://www.thisamericanlife.org/radio-archives/episode/569/put-a-bow-on-it) (Reuven)[Steal the Show by Michael Port](https://www.amazon.com/Steal-Show-Interviews-Deal-Closing-Performances/dp/054455518X/ref=as_li_ss_tl?ie=UTF8&qid=1424095539&sr=8-1&keywords=steal+the+show&linkCode=sl1&tag=httpwwwmichac-20&linkId=594d507eec34c977011cee7853b391cb) (Jonathan)[MONEY Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins](https://www.amazon.com/gp/product/1476757801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476757801&linkCode=as2&tag=chamaxwoo-20&linkId=E32QVPKFK7CHGD5X) (Chuck)[The Positioning Manual for Technical Firms by Philip Morgan](https://philipmorganconsulting.com/authority-resource-center/the-positioning-manual-for-technical-firms/) (Chuck)
 
 ### Transcript
 

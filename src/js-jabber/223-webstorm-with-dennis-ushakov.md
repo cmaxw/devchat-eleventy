@@ -44,11 +44,11 @@ tags:
 - [Kotlin](https://kotlinlang.org/)
   &nbsp;Picks
 - [Jesse Kriss: Human scale technology](https://medium.com/@jkriss/human-scale-technology-75da763eb03#.uj93v2vgo) (Jamison)
-- [React Rally](http://reactrally.com) (Jamison)
+- [React Rally](https://reactrally.com) (Jamison)
 - Vote (Chuck)
 - [Transmit](https://panic.com/transmit/) (Chuck)
-- [Steam Squad](http://store.steampowered.com/app/290870/) (Dennis)
-- [Ergobaby Four Position 360 Baby Carrier](http://www.ergobaby.eu/baby-carriers-original-360-fall-2014-final-name-tbd.html) (Dennis)
+- [Steam Squad](https://store.steampowered.com/app/290870/) (Dennis)
+- [Ergobaby Four Position 360 Baby Carrier](https://www.ergobaby.eu/baby-carriers-original-360-fall-2014-final-name-tbd.html) (Dennis)
 
 ### Transcript
 

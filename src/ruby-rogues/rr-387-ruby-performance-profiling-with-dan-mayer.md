@@ -169,7 +169,7 @@ End – [Cache Fly!](https://www.cachefly.com)
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Rust](https://www.rust-lang.org/en-US/)
-- [Ruby Motion](http://www.rubymotion.com)
+- [Ruby Motion](https://www.rubymotion.com)
 - [Ruby on Rails](https://rubyonrails.org)
 - [Angular](https://angular.io)
 - [Benchmark-IPS](https://github.com/evanphx/benchmark-ips)
@@ -181,7 +181,7 @@ End – [Cache Fly!](https://www.cachefly.com)
 - [RR 362 Episode](https://devchat.tv/ruby-rogues/rr-362-measuring-ruby-performance-with-rails-and-discourse-with-noah-gibbs/)
 - [Rails Guides](https://guides.rubyonrails.org/v3.2.13/performance_testing.html)
 - [Atomic Habits](https://jamesclear.com/atomic-habits)
-- [EasyRes](http://easyresapp.com)
+- [EasyRes](https://easyresapp.com)
 - [Skinny Pop](https://www.skinnypop.com)
 - [Blog through AppSignal](https://blog.appsignal.com/2018/09/28/active-record-vs-ecto.html)
 - [Book: Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1539709987&sr=1-1&keywords=extreme+ownership&dpID=51LA5FKuExL&preST=_SY445_QL70_&dpSrc=srch&linkCode=sl1&tag=devchattv-20&linkId=d170287249014e59a063d6862b21b920&language=en_US)
@@ -206,14 +206,14 @@ David
 
 Dave
 
-- [EasyRes](http://easyresapp.com/)
+- [EasyRes](https://easyresapp.com/)
 - [Skinny Pop](https://www.skinnypop.com/)
 
 Charles
 
 - [Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)
-- [Jocko Willink podcast](http://jockopodcast.com/)
-- [2 Keto Dudes](http://2ketodudes.com/)
+- [Jocko Willink podcast](https://jockopodcast.com/)
+- [2 Keto Dudes](https://2ketodudes.com/)
 - [Ketogenic Forums](https://www.ketogenicforums.com)
 
 Dan

@@ -14,7 +14,7 @@ tags:
 
 **Panel:**
 
-- [Aimee Knight](http://www.aimeemarieknight.com)
+- [Aimee Knight](https://www.aimeemarieknight.com)
 - [Joe Eames](https://twitter.com/josepheames?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 
@@ -80,9 +80,9 @@ It’s funny to see how I things have changed.
 
 19:02 – Ethan: I have a lot of thoughts on functional programming and they are mixed. I was exposed to this in the late 90’s. It was around by 20-30 years. These aren’t new. I do credit JavaScript to bring these to the masses. It’s the first language I see the masses clinging to. 10 years ago you didn’t see that. I think that’s great for the programming community in general. I would liken it to a way that Ruby on Rails really changed the way we do web developing with strong tooling. It was never really my favorite language but I can appreciate what it did for web programming. With that said...(Ethan continues the conversation.)
 
-Ethan: I love [Elm.](http://elm-lang.org)
+Ethan: I love [Elm.](https://elm-lang.org)
 
-21:49 – Panelists talks about [Elm.](http://elm-lang.org)
+21:49 – Panelists talks about [Elm.](https://elm-lang.org)
 
 \*The topic diverts slightly.
 
@@ -178,7 +178,7 @@ Data binding. [Flux and Redux](https://www.fullstackreact.com/p/intro-to-flux-an
 - [jQuery](https://jquery.com)
 - [React](https://reactjs.org)
 - [Elixir](https://elixir-lang.org)
-- [Elm](http://elm-lang.org)
+- [Elm](https://elm-lang.org)
 - [Vue](https://vuejs.org)
 - [Automerge - GITHUB](https://github.com/automerge/automerge)
 - [Functional – Light JavaScript](https://leanpub.com/fljs)
@@ -186,7 +186,7 @@ Data binding. [Flux and Redux](https://www.fullstackreact.com/p/intro-to-flux-an
 - [Lego Shop](https://shop.lego.com/en-US/Betrayal-at-Cloud-City-75222?CMP=EMC-VIP2018_08_21_Cloud_City_Announcement_EN+_US&HQS=Hero_A_CTA_NA_EN&RMID=VIP_2018_08_21_Cloud_City_Announcement_NA&RRID=982003962)
 - [The Traveler’s Gift – Book](https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=the+travelers+gift+by+andy+andrews&sprefix=the+travelers+gift,aps,168&crid=3LUZO4J5UR0RK&linkCode=sl2&tag=devchattv-20&linkId=5075904966a764dd4773d721263b0607&language=en_US)
 - [Jocks Rule, Nerds Drool by Jennifer Wright](https://www.nytimes.com/2018/08/11/opinion/sunday/nerds-lebron-james-elon-musk.html)
-- [2ality – JavaScript and more](http://2ality.com)
+- [2ality – JavaScript and more](https://2ality.com)
 - [Cooper Press](https://cooperpress.com)
 - [Book – Ethan Brown](https://www.amazon.com/Learning-JavaScript-Essentials-Application-Development/dp/1491914912/ref=sr_1_4?s=books&ie=UTF8&qid=1538323189&sr=1-4)
 - [O’Reilly Community – Ethan Brown’s Bio](https://www.oreilly.com/pub/au/6091)
@@ -220,7 +220,7 @@ Data binding. [Flux and Redux](https://www.fullstackreact.com/p/intro-to-flux-an
 **Ethan**
 
 - [Jocks Rule, Nerd Drool](https://www.nytimes.com/2018/08/11/opinion/sunday/nerds-lebron-james-elon-musk.html)
-- [JavaScipt Blog by Dr. Axel Rauschmayer](http://2ality.com/)
+- [JavaScipt Blog by Dr. Axel Rauschmayer](https://2ality.com/)
 - [Cooper Press](https://cooperpress.com/)
 
 ### Transcript

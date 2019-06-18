@@ -54,6 +54,6 @@ tags:
 - [Tylenol Cold and Flu Severe](https://www.tylenol.com/products/tylenol-cold-flu-severe-warming-honey-lemon-liquid)
   Kitson
 - [Microsoft Azure](https://azure.microsoft.com/en-us/?v=18.07a)
-- [Zype](http://www.zype.com/)
+- [Zype](https://www.zype.com/)
 
 ### Transcript

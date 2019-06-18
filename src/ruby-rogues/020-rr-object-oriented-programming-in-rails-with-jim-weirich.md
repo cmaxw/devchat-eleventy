@@ -23,12 +23,12 @@ tags:
 - Single Responsibility Principle
 - Ask "What does this object do?" rather than building around the data contained in the object.
 - Presenters (The Presenter Pattern)
-- [Steven Kabnik's Post on Object Oriented Programming and the Presenter Pattern in Rails](http://blog.steveklabnik.com/2011/09/06/the-secret-to-rails-oo-design.html)
+- [Steven Kabnik's Post on Object Oriented Programming and the Presenter Pattern in Rails](https://blog.steveklabnik.com/2011/09/06/the-secret-to-rails-oo-design.html)
 - The problem with Helpers
 - In OO, you're allowed to add more Objects (or Classes)
 - Building your models without referencing ActiveRecord
 - Business objects that reference ActiveRecord data access objects
-- [Object Thinking](http://www.amazon.com/gp/product/0735619654/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0735619654) ![](http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0735619654&camp=217145&creative=399369)
+- [Object Thinking](https://www.amazon.com/gp/product/0735619654/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0735619654) ![](https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0735619654&camp=217145&creative=399369)
 - The database is the last bastion of non-object oriented thinking
 - Behavior centric vs data centric design
 - The impedance mismatch between the database and the object oriented designs
@@ -41,29 +41,29 @@ tags:
   - Switch/case on class
   - Arrays and hashes or arrays of hashes of arrays (Primitive Obsession)
   - Subclassing Array or Hash
-- [forwardable](http://ruby-doc.org/stdlib/libdoc/forwardable/rdoc/index.html)
-- [delegate](http://ruby-doc.org/stdlib/libdoc/delegate/rdoc/index.html)
+- [forwardable](https://ruby-doc.org/stdlib/libdoc/forwardable/rdoc/index.html)
+- [delegate](https://ruby-doc.org/stdlib/libdoc/delegate/rdoc/index.html)
 - Don't inherit from String
-- [Enumerable module](http://www.ruby-doc.org/core/classes/Enumerable.html)
-- [Rake's FileList](http://rake.rubyforge.org/classes/Rake/FileList.html)
+- [Enumerable module](https://www.ruby-doc.org/core/classes/Enumerable.html)
+- [Rake's FileList](https://rake.rubyforge.org/classes/Rake/FileList.html)
 - Skinny Controllers
 - Is REST simply a way of pulling the impedance mismatch from the database all the way up to URL's?
 
 ### Picks
 
-- [RailsBridge workshops](http://wiki.railsbridge.org/projects/1/wiki/Workshops) (Josh)
-- [Ryan Tomayko's blog post on Unicorn](http://tomayko.com/writings/unicorn-is-unix) (James)
-- [The Unix System Programming with Ruby list](http://www.ruby-forum.com/topic/2535619) (James)
+- [RailsBridge workshops](https://wiki.railsbridge.org/projects/1/wiki/Workshops) (Josh)
+- [Ryan Tomayko's blog post on Unicorn](https://tomayko.com/writings/unicorn-is-unix) (James)
+- [The Unix System Programming with Ruby list](https://www.ruby-forum.com/topic/2535619) (James)
 - [awesome_print gem](https://github.com/michaeldv/awesome_print) (David)
-- [vimcasts.org](http://vimcasts.org/) (David)
+- [vimcasts.org](https://vimcasts.org/) (David)
 - [hub](https://github.com/blog/564-hub-git-with-github) (Avdi)
-- [AeroPress Coffee and Espresso Maker](http://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B001HBCVX0) ![](http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=B001HBCVX0&camp=217145&creative=399369)&nbsp;(Avdi)
-- [Institute of Awesome](http://letsfreckle.com/institute-of-awesome/#day26) (Chuck)
-- [Bloons Tower Defense 4](http://ninjakiwi.com/Games/Tower-Defense/Play/Bloons-Tower-Defense-4.html) (Chuck)
-- [World of Goo HD](http://click.linksynergy.com/fs-bin/click?id=tINTP47iIA8&offerid=146261.401301276&type=2&subid=0) (Chuck)
-- [Writing Solid Code](https://admin.devchat.tv/ruby-rogues/episodes/object-oriented-programming-in-rails-with-jim-weirich/%3Ca%20href=%22http://www.amazon.com/gp/product/1556155514/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1556155514%22%3EWriting%20Solid%20Code%3C/a%3E%3Cimg%20src=%22http://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=1556155514&camp=217145&creative=399369%22%20width=%221%22%20height=%221%22%20border=%220%22%20alt=%22%22%20style=%22border:none%20!important;%20margin:0px%20!important;%22%20/%3E) (Jim)
-- [Ukuleles](http://www.amazon.com/s?ie=UTF8&redirect=true&ref_=sr_ex_n_0&keywords=ukulele&qid=1316031292&rh=i%3Aaps%2Ck%3Aukulele#?_encoding=UTF8&tag=chamaxwoo-20&linkCode=ur2&camp=1789&creative=390957) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=ur2&o=1)&nbsp;(Jim)
-- [Jake Shimabukuro](http://www.youtube.com/watch?v=snPQ1z5FoqQ)
+- [AeroPress Coffee and Espresso Maker](https://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B001HBCVX0) ![](https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=B001HBCVX0&camp=217145&creative=399369)&nbsp;(Avdi)
+- [Institute of Awesome](https://letsfreckle.com/institute-of-awesome/#day26) (Chuck)
+- [Bloons Tower Defense 4](https://ninjakiwi.com/Games/Tower-Defense/Play/Bloons-Tower-Defense-4.html) (Chuck)
+- [World of Goo HD](https://click.linksynergy.com/fs-bin/click?id=tINTP47iIA8&offerid=146261.401301276&type=2&subid=0) (Chuck)
+- [Writing Solid Code](https://admin.devchat.tv/ruby-rogues/episodes/object-oriented-programming-in-rails-with-jim-weirich/%3Ca%20href=%22https://www.amazon.com/gp/product/1556155514/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1556155514%22%3EWriting%20Solid%20Code%3C/a%3E%3Cimg%20src=%22https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=1556155514&camp=217145&creative=399369%22%20width=%221%22%20height=%221%22%20border=%220%22%20alt=%22%22%20style=%22border:none%20!important;%20margin:0px%20!important;%22%20/%3E) (Jim)
+- [Ukuleles](https://www.amazon.com/s?ie=UTF8&redirect=true&ref_=sr_ex_n_0&keywords=ukulele&qid=1316031292&rh=i%3Aaps%2Ck%3Aukulele#?_encoding=UTF8&tag=chamaxwoo-20&linkCode=ur2&camp=1789&creative=390957) ![](https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&l=ur2&o=1)&nbsp;(Jim)
+- [Jake Shimabukuro](https://www.youtube.com/watch?v=snPQ1z5FoqQ)
 
 ### Transcript
 

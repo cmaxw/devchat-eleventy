@@ -20,9 +20,9 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) and
 
 - [Twitter](https://twitter.com/EisenbergEffect)
 - [GitHub](https://github.com/EisenbergEffect)
-- [Blog](http://robeisenberg.com/)
+- [Blog](https://robeisenberg.com/)
 
-03:23 - [Aurelia](http://aurelia.io/)
+03:23 - [Aurelia](https://aurelia.io/)
 
 04:28 - Conventions and Configurations
 
@@ -33,7 +33,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) and
 27:56 - Advice for Framework Developers
 
 - [React](https://facebook.github.io/react/)
-- [Cycle.js](http://cycle.js.org/)
+- [Cycle.js](https://cycle.js.org/)
 
 32:52 - Tool Fatigue
 
@@ -43,7 +43,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016) and
 
 45:22 - Aurelia InterfacePicks
 
-[AngularConnect](http://angularconnect.com/) (Joe)[Why Composer John Williams Knows More About Star Wars Than You Do](http://kotaku.com/why-composer-john-williams-knows-more-about-star-wars-t-1753503016) (Joe)[LEGO Star Wars: The Force Awakens Game](https://www.youtube.com/watch?v=i0IJqIzO_YM) (Joe) Angular 1 and [AngularFire](https://www.firebase.com/docs/web/libraries/angular/) (Joe)[The Aurelia Docs](http://aurelia.io/docs.html) (Ward)[OhYeah! ONE Bar](http://ohyeahnutrition.com/products/copy-of-ohyeah-victory-bars?variant=2570621377) (Lukas)[Joe Eames: How Functional Reactive Programming (FRP) is Changing the Face of Web Development](http://www.codemag.com/Article/1601071) (Lukas)[The Auralia Website](http://aurelia.io/) (Lukas)[RushMyPassport](https://www.rushmypassport.com/) (Chuck)[Mogo Portable Seat](http://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00) (Chuck)[The Malazan Book of the Fallen](https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen) (Rob)[Scholastic Metaphysics: A Contemporary Introduction by Edward Feser](http://www.amazon.com/Scholastic-Metaphysics-Contemporary-Introduction-Scholasticae/dp/3868385444) (Rob)[Attack on Titan Vol. 2 by Hajime Isayama](http://www.amazon.com/Attack-Titan-Vol-Hajime-Isayama-ebook/dp/B00CCOO17A/ref=sr_1_1?s=books&ie=UTF8&qid=1454686848&sr=1-1&keywords=attack+on+manga) (Rob)
+[AngularConnect](https://angularconnect.com/) (Joe)[Why Composer John Williams Knows More About Star Wars Than You Do](https://kotaku.com/why-composer-john-williams-knows-more-about-star-wars-t-1753503016) (Joe)[LEGO Star Wars: The Force Awakens Game](https://www.youtube.com/watch?v=i0IJqIzO_YM) (Joe) Angular 1 and [AngularFire](https://www.firebase.com/docs/web/libraries/angular/) (Joe)[The Aurelia Docs](https://aurelia.io/docs.html) (Ward)[OhYeah! ONE Bar](https://ohyeahnutrition.com/products/copy-of-ohyeah-victory-bars?variant=2570621377) (Lukas)[Joe Eames: How Functional Reactive Programming (FRP) is Changing the Face of Web Development](https://www.codemag.com/Article/1601071) (Lukas)[The Auralia Website](https://aurelia.io/) (Lukas)[RushMyPassport](https://www.rushmypassport.com/) (Chuck)[Mogo Portable Seat](https://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00) (Chuck)[The Malazan Book of the Fallen](https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen) (Rob)[Scholastic Metaphysics: A Contemporary Introduction by Edward Feser](https://www.amazon.com/Scholastic-Metaphysics-Contemporary-Introduction-Scholasticae/dp/3868385444) (Rob)[Attack on Titan Vol. 2 by Hajime Isayama](https://www.amazon.com/Attack-Titan-Vol-Hajime-Isayama-ebook/dp/B00CCOO17A/ref=sr_1_1?s=books&ie=UTF8&qid=1454686848&sr=1-1&keywords=attack+on+manga) (Rob)
 
 ### Transcript
 

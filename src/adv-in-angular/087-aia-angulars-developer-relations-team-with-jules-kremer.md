@@ -35,7 +35,7 @@ tags:
 
 27:24 - Angular and Language Paths/Choices
 
-31:02 - ASP[.NET Core](http://docs.asp.net/en/latest/conceptual-overview/dotnetcore.html)
+31:02 - ASP[.NET Core](https://docs.asp.net/en/latest/conceptual-overview/dotnetcore.html)
 
 35:10 - Jule’s Role in Developer Relations
 
@@ -49,7 +49,7 @@ tags:
   - The Inbetweeners
     43:21 - The GDE ProgramPicks
 
-[New York Pluralsight Study Group](http://www.meetup.com/NYPluralsightStudy/) (John)[issues | angular/angular.io](https://github.com/angular/angular.io/issues) (Ward)[GO CUBES](https://gocub.es/) (Lukas) Auto imports from TypeScript (Lukas)[FEM 2016 Plunks](http://onehungrymind.com/fem-examples/) (Lukas)[Sushi Burrito](http://sushiburritoutah.com/) (Joe) Angular Swag Feedback: [juliekremer@google.com](mailto:juliekremer@google.com) (Jules)
+[New York Pluralsight Study Group](https://www.meetup.com/NYPluralsightStudy/) (John)[issues | angular/angular.io](https://github.com/angular/angular.io/issues) (Ward)[GO CUBES](https://gocub.es/) (Lukas) Auto imports from TypeScript (Lukas)[FEM 2016 Plunks](https://onehungrymind.com/fem-examples/) (Lukas)[Sushi Burrito](https://sushiburritoutah.com/) (Joe) Angular Swag Feedback: [juliekremer@google.com](mailto:juliekremer@google.com) (Jules)
 
 ### Transcript
 

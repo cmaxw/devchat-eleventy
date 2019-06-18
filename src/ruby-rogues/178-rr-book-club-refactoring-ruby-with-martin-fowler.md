@@ -12,87 +12,87 @@ tags:
   - podcast
 ---
 
-### **October 30th –&nbsp;[Jeremy Kemper](https://twitter.com/bitsweat)&nbsp;and&nbsp;[Eileen Uchitelle](https://twitter.com/eileencodes)&nbsp;– Google Hangout Session on&nbsp;[Rails 4.2](http://railsapps.github.io/updating-rails.html)**
+### **October 30th –&nbsp;[Jeremy Kemper](https://twitter.com/bitsweat)&nbsp;and&nbsp;[Eileen Uchitelle](https://twitter.com/eileencodes)&nbsp;– Google Hangout Session on&nbsp;[Rails 4.2](https://railsapps.github.io/updating-rails.html)**
 
 ### **Text “Rails” to 38470**
 
 02:40 – Jessica Kerr Introduction
 
 - [@jessitron](https://twitter.com/jessitron)
-- [Scala](http://www.scala-lang.org/)
-- [Clojure](http://clojure.org/)
+- [Scala](https://www.scala-lang.org/)
+- [Clojure](https://clojure.org/)
   03:20 – Martin Fowler Introduction 04:05 – Book Club
-- [Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
-  04:21 – Most Important Part of Refactoring 05:19 –&nbsp;[Refactoring](http://en.wikipedia.org/wiki/Code_refactoring)&nbsp;Definition
+- [Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+  04:21 – Most Important Part of Refactoring 05:19 –&nbsp;[Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)&nbsp;Definition
 - Noun Form
 - Verb Form
   08:49 – Steps to Refactoring
 - [Kent Beck](https://twitter.com/KentBeck)
-- [Debugging](http://en.wikipedia.org/wiki/Debugging)
-- [Test Driven Development (TDD)](http://en.wikipedia.org/wiki/Test-driven_development)
+- [Debugging](https://en.wikipedia.org/wiki/Debugging)
+- [Test Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
   11:04 – When To Use Debuggers
-- [Test Granularity](http://en.wikipedia.org/wiki/Granularity)
+- [Test Granularity](https://en.wikipedia.org/wiki/Granularity)
 - Rollbacks
 - Reasoning About Code
-  12:49 –&nbsp;[Extract Method](http://www.refactoring.com/catalog/extractMethod.html)
+  12:49 –&nbsp;[Extract Method](https://www.refactoring.com/catalog/extractMethod.html)
 - Source Method
 - Target Method
 - Compiler Tests
   16:37 – Writing Code with Refactoring
-- [c3](http://c3js.org/)
+- [c3](https://c3js.org/)
   17:46 – Modernizing Refactoring
-- [Java Vector](http://docs.oracle.com/javase/6/docs/api/java/util/Vector.html)
-- [Collection Pipelines](http://martinfowler.com/articles/collection-pipeline/)
-- [Lambdas](http://msdn.microsoft.com/en-us/library/bb397687.aspx)
-- [Smalltalk](http://www.smalltalk.org/main/)
+- [Java Vector](https://docs.oracle.com/javase/6/docs/api/java/util/Vector.html)
+- [Collection Pipelines](https://martinfowler.com/articles/collection-pipeline/)
+- [Lambdas](https://msdn.microsoft.com/en-us/library/bb397687.aspx)
+- [Smalltalk](https://www.smalltalk.org/main/)
   20:24 – Tools and Refactoring
 - Customization
 - [RubyMine](https://www.jetbrains.com/ruby/)
 - John Brandt
 - [Don Roberts](https://twitter.com/refactoringdr)
-- [C#](<http://en.wikipedia.org/wiki/C_Sharp_(programming_language)>)
+- [C#](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>)
 - Renaming
-  25:02 – Advice for Using Refactoring Tools 26:55 –&nbsp;[CodeSmell](http://martinfowler.com/bliki/CodeSmell.html)&nbsp;Definition 30:28 – Comments and Structures in Languages
+  25:02 – Advice for Using Refactoring Tools 26:55 –&nbsp;[CodeSmell](https://martinfowler.com/bliki/CodeSmell.html)&nbsp;Definition 30:28 – Comments and Structures in Languages
 - Symbols and Strings
 - num_count
 - Commit Messages
 - [Ward Cunningham](https://twitter.com/WardCunningham)
-- [Git](http://www.git-scm.com/)
-- [GitLog](http://www.gitlog.org/)
+- [Git](https://www.git-scm.com/)
+- [GitLog](https://www.gitlog.org/)
 - [GitHub](https://github.com/)
   40:10 – Changes Over 20 Years
-- [Pascal](http://pascal-central.com/ppl/chapter2.html)
-- [Extreme Programming](http://martinfowler.com/bliki/ExtremeProgramming.html)
-- [Self-testing Code](http://www.martinfowler.com/bliki/SelfTestingCode.html)
-- [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration)
+- [Pascal](https://pascal-central.com/ppl/chapter2.html)
+- [Extreme Programming](https://martinfowler.com/bliki/ExtremeProgramming.html)
+- [Self-testing Code](https://www.martinfowler.com/bliki/SelfTestingCode.html)
+- [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
   41:37 – Backlash Against Refactoring
-- [Pair Programming](http://en.wikipedia.org/wiki/Pair_programming)
+- [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
   43:35 – Getting People to Embrace Refactoring
 - Healthy Codes
 - Code Bases
   47:06 – TDD as Automatic Workflow
-- [Preparatory Refactoring](http://martinfowler.com/articles/workflowsOfRefactoring/)
+- [Preparatory Refactoring](https://martinfowler.com/articles/workflowsOfRefactoring/)
   49:47 – Making Changes
-- [Object Orientation (OOP)](http://www.webopedia.com/TERM/O/object_oriented_programming_OOP.html)
+- [Object Orientation (OOP)](https://www.webopedia.com/TERM/O/object_oriented_programming_OOP.html)
 - [Gnarly](https://github.com/spencertipping/gnarly)
-- [jQuery.promises](http://jquerypromises.com/)
-- [jQuery](http://jquery.com/)
+- [jQuery.promises](https://jquerypromises.com/)
+- [jQuery](https://jquery.com/)
 - [Promises](https://www.promisejs.org/)
 - [QPromises](https://github.com/kriskowal/q)
-  54:11 –&nbsp;[Technical Debt](http://en.wikipedia.org/wiki/Technical_debt)&nbsp;and Restarting
-- [Sacrificial Architecture](http://martinfowler.com/bliki/SacrificialArchitecture.html)
-- [Scratch Rewrite](<http://en.wikipedia.org/wiki/Rewrite_(programming)>)
+  54:11 –&nbsp;[Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)&nbsp;and Restarting
+- [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)
+- [Scratch Rewrite](<https://en.wikipedia.org/wiki/Rewrite_(programming)>)
   58:06 – When to Estimate CodeBase Lifetime
 - Becoming a Polite Legacy CodeBase
-  1:00:19 – Knowledge Increase: Working on a Project vs. Learning Better Practices 1:01:35 –&nbsp;[Modularity](<http://msdn.microsoft.com/en-us/library/ff921069(v=PandP.20).aspx>)&nbsp;and&nbsp;[Microservices](http://martinfowler.com/articles/microservices.html)
-- &nbsp;&nbsp;[“Microservices” by Martin Fowler](http://martinfowler.com/articles/microservices.html)
-- &nbsp;&nbsp;[Log Files](http://www.webopedia.com/TERM/L/log_file.html)
+  1:00:19 – Knowledge Increase: Working on a Project vs. Learning Better Practices 1:01:35 –&nbsp;[Modularity](<https://msdn.microsoft.com/en-us/library/ff921069(v=PandP.20).aspx>)&nbsp;and&nbsp;[Microservices](https://martinfowler.com/articles/microservices.html)
+- &nbsp;&nbsp;[“Microservices” by Martin Fowler](https://martinfowler.com/articles/microservices.html)
+- &nbsp;&nbsp;[Log Files](https://www.webopedia.com/TERM/L/log_file.html)
 
 ### See Also
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
-### **October 30th –&nbsp;[Jeremy Kemper](https://twitter.com/bitsweat)&nbsp;and&nbsp;[Eileen Uchitelle](https://twitter.com/eileencodes)&nbsp;– Google Hangout Session on&nbsp;[Rails 4.2](http://railsapps.github.io/updating-rails.html)**
+### **October 30th –&nbsp;[Jeremy Kemper](https://twitter.com/bitsweat)&nbsp;and&nbsp;[Eileen Uchitelle](https://twitter.com/eileencodes)&nbsp;– Google Hangout Session on&nbsp;[Rails 4.2](https://railsapps.github.io/updating-rails.html)**
 
 ### **Text “Rails” to 38470**
 

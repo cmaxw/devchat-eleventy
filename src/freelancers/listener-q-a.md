@@ -34,6 +34,6 @@ It is good to have some obvious competition. Those who typically reply back are 
 
 ## Picks:
 
-Philip: [Replacing the Gorilla Account webcast](http://www.winwithoutpitching.com/replacing-gorilla-account/)Curtis: [The 12 Week Year book](https://12weekyear.com/shop/)Jonathan: The 3 Hours of Getting Clients,&nbsp;[Freelance Transformation episode with Alan Weiss](https://freelancetransformation.com/blog/going-from-surviving-to-thriving-as-a-consultant-with-alan-weiss)
+Philip: [Replacing the Gorilla Account webcast](https://www.winwithoutpitching.com/replacing-gorilla-account/)Curtis: [The 12 Week Year book](https://12weekyear.com/shop/)Jonathan: The 3 Hours of Getting Clients,&nbsp;[Freelance Transformation episode with Alan Weiss](https://freelancetransformation.com/blog/going-from-surviving-to-thriving-as-a-consultant-with-alan-weiss)
 
 ### Transcript

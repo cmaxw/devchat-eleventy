@@ -38,7 +38,7 @@ Send Luke Frye a message at luke@timbertax.co or tweet him [@LukeFrye](https://t
 
 ## Picks:
 
-Curtis: [fancy machine pen](http://www.tactileturn.com/)Luke: [Typography for Lawyers](http://typographyforlawyers.com/), [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788), [Make Money Online podcast](http://makemoneyonline.exposed)Philip: [Logitech BRIO&nbsp;4k webcam](https://www.logitech.com/en-us/product/brio)
+Curtis: [fancy machine pen](https://www.tactileturn.com/)Luke: [Typography for Lawyers](https://typographyforlawyers.com/), [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788), [Make Money Online podcast](https://makemoneyonline.exposed)Philip: [Logitech BRIO&nbsp;4k webcam](https://www.logitech.com/en-us/product/brio)
 
 ## Episode Link:
 

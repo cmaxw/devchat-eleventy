@@ -20,7 +20,7 @@ Check out [JS Remote Conf](https://jsremoteconf.com/) and [All Remote Confs](htt
 
 - [Twitter](https://twitter.com/bradurani)
 - [GitHub](https://github.com/bradurani)
-- [Blog](http://fractalbanana.com/)
+- [Blog](https://fractalbanana.com/)
 - [Procore](https://www.procore.com/)
 
 04:01 - Immutable/Persistent Data Structures; Advantages
@@ -30,7 +30,7 @@ Check out [JS Remote Conf](https://jsremoteconf.com/) and [All Remote Confs](htt
 
 07:30 - Tools for Debugging
 
-08:23 - Why do Rubyists care about things like [Elm](http://elm-lang.org/)?
+08:23 - Why do Rubyists care about things like [Elm](https://elm-lang.org/)?
 
 09:39 - Persistent Data Structure Use Cases; Functional Programming
 
@@ -38,7 +38,7 @@ Check out [JS Remote Conf](https://jsremoteconf.com/) and [All Remote Confs](htt
 
 13:51 - Where does “functional play a role in a typical CRUD app?
 
-[Active Record](http://guides.rubyonrails.org/active_record_basics.html),
+[Active Record](https://guides.rubyonrails.org/active_record_basics.html),
 
 - [The Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle) (SRP)
 - Callbacks
@@ -57,13 +57,13 @@ Check out [JS Remote Conf](https://jsremoteconf.com/) and [All Remote Confs](htt
 
 30:21 - Monoliths as a Necessary Stage in the Development of a Mature Application
 
-- [Elixir](http://elixir-lang.org/)
-  - [The Phoenix Framework](http://www.phoenixframework.org/)
+- [Elixir](https://elixir-lang.org/)
+  - [The Phoenix Framework](https://www.phoenixframework.org/)
   - [ecto](https://github.com/elixir-lang/ecto)
 
-33:23 - [The Repository Pattern](http://martinfowler.com/eaaCatalog/repository.html); Terminology & Naming
+33:23 - [The Repository Pattern](https://martinfowler.com/eaaCatalog/repository.html); Terminology & Naming
 
-- [Patterns of Enterprise Application Architecture by Martin Fowler](http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+- [Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 
 37:40 - [Structured Query Language](https://en.wikipedia.org/wiki/SQL) (SQL)
 
@@ -71,7 +71,7 @@ Check out [JS Remote Conf](https://jsremoteconf.com/) and [All Remote Confs](htt
 - [The Sapir Whorf Hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativity)'
   Picks
 
-[Dan Carlin's Hardcore History](https://itunes.apple.com/us/podcast/dan-carlins-hardcore-history/id173001861?mt=2&ign-mpt=uo%3D4) (Coraline)[Stuff You Missed in History Class](https://itunes.apple.com/us/podcast/stuff-you-missed-in-history/id283605519?mt=2&ign-mpt=uo%3D4) (Coraline)[Buffer](http://buffer.com/) (Avdi)[New Belgium Brewing Accumulation White IPA](http://www.newbelgium.com/beer/accumulation) (Avdi)[Saramonic SmartMixer Professional Recording Stereo Microphone Rig](http://www.amazon.com/gp/product/B014Q9YUKG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014Q9YUKG&linkCode=as2&tag=chamaxwoo-20&linkId=4NIXHMESSKXQIFLD) (Chuck)[LaunchCode](https://www.launchcode.org/) (Brad)[Turing's Cathedral: The Origins of the Digital Universe by George Dyson](http://www.amazon.com/gp/product/1400075998/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400075998&linkCode=as2&tag=chamaxwoo-20&linkId=H4FT6VHKHLVJRPSS) (Coraline)[VAT19](https://www.vat19.com/) (Brad)
+[Dan Carlin's Hardcore History](https://itunes.apple.com/us/podcast/dan-carlins-hardcore-history/id173001861?mt=2&ign-mpt=uo%3D4) (Coraline)[Stuff You Missed in History Class](https://itunes.apple.com/us/podcast/stuff-you-missed-in-history/id283605519?mt=2&ign-mpt=uo%3D4) (Coraline)[Buffer](https://buffer.com/) (Avdi)[New Belgium Brewing Accumulation White IPA](https://www.newbelgium.com/beer/accumulation) (Avdi)[Saramonic SmartMixer Professional Recording Stereo Microphone Rig](https://www.amazon.com/gp/product/B014Q9YUKG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014Q9YUKG&linkCode=as2&tag=chamaxwoo-20&linkId=4NIXHMESSKXQIFLD) (Chuck)[LaunchCode](https://www.launchcode.org/) (Brad)[Turing's Cathedral: The Origins of the Digital Universe by George Dyson](https://www.amazon.com/gp/product/1400075998/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400075998&linkCode=as2&tag=chamaxwoo-20&linkId=H4FT6VHKHLVJRPSS) (Coraline)[VAT19](https://www.vat19.com/) (Brad)
 
 ### Transcript
 

@@ -226,7 +226,7 @@ Charles
 
 Justin
 
-- [RC BLOG](http://artsy.github.io)
+- [RC BLOG](https://artsy.github.io)
 - Podcast: [Indie Hackers](https://www.indiehackers.com/podcast)
 - [Indie Hackers](https://www.indiehackers.com/products)
 

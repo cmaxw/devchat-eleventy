@@ -15,7 +15,7 @@ tags:
 02:42 - Trevor McKendrick Introduction
 
 - [Twitter](https://twitter.com/TrevMcKendrick)
-- [Blog](http://www.trevormckendrick.com/)
+- [Blog](https://www.trevormckendrick.com/)
 
 03:41 - Why do we have to care about taxes and accounting?
 
@@ -52,7 +52,7 @@ tags:
 
 41:32 - Finding a Good AccountantPicks
 
-[AppSumo](http://www.appsumo.com/) (Trevor)[nathanbarry.com](http://nathanbarry.com/) (Trevor)[Accounting For Entrepreneurs and Freelancers Course](http://www.trevormckendrick.com/accounting-course-for-entrepreneurs-and-freelancers/) (Trevor)[Pu Erh Tuo Cha Tea Cakes w/Rose](http://www.amazon.com/gp/product/B000OLJRBI?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s02) (Philip)[Safari Books Online](https://www.safaribooksonline.com/) (Reuven)
+[AppSumo](https://www.appsumo.com/) (Trevor)[nathanbarry.com](https://nathanbarry.com/) (Trevor)[Accounting For Entrepreneurs and Freelancers Course](https://www.trevormckendrick.com/accounting-course-for-entrepreneurs-and-freelancers/) (Trevor)[Pu Erh Tuo Cha Tea Cakes w/Rose](https://www.amazon.com/gp/product/B000OLJRBI?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s02) (Philip)[Safari Books Online](https://www.safaribooksonline.com/) (Reuven)
 
 ### Transcript
 

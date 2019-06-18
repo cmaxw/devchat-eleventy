@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for $100 credit
+- [Sentry](https://sentry.io/) use the code “devchat” for $100 credit
 - [Triplebyte](https://triplebyte.com/vue)
 - [CacheFly](https://www.cachefly.com/)
 
@@ -29,7 +29,7 @@ In this episode of Views on Vue, the panelists talk to Sunil Sandhu, Full Stack 
 ### **Links**
 
 - [Sunil’s Twitter](https://twitter.com/sunilsandhu?lang=en)
-- [Sunil’s website](http://sunilsandhu.com/)
+- [Sunil’s website](https://sunilsandhu.com/)
 - [Learn How to Use Vuex by Building an Online Shopping Website](https://www.telerik.com/blogs/learn-how-to-use-vuex-by-building-an-online-shopping-website)
 - [I created the exact same app in React and Vue. Here are the differences.](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
 - [Set your watch by Netlify](https://setyourwatchby.netlify.com/)

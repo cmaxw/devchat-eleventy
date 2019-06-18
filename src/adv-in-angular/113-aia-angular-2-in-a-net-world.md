@@ -14,7 +14,7 @@ tags:
 
 1:25 - Introducing Marcel Good
 
-- [Breeze](http://www.getbreezenow.com/)
+- [Breeze](https://www.getbreezenow.com/)
 - [Github](https://github.com/marcelgood)
 - [Twitter](https://twitter.com/superswiss)
 - info@ideablade.com
@@ -25,7 +25,7 @@ tags:
 
 ### Picks:
 
-[Silicon Valley Code Camp](https://www.siliconvalley-codecamp.com/) (Ward)[DEVintersection conference in Las Vegas](https://devintersection.com/) (Ward)[Brian Lonsdorf - “Oh Composable World!” Keynote speech](https://www.youtube.com/watch?v=SfWR3dKnFIo) (Lukas)[_Michael Vey_ Series](http://www.michaelvey.com/books.php) by Richard Paul Evans, specifically book six: [_Fall of Hades_](https://www.amazon.com/Michael-Vey-6-Fall-Hades/dp/1481469827) (Charles)[myVEGAS Slots](https://itunes.apple.com/us/app/myvegas-slots-play-free-las/id714508224?mt=8) iPhone game (Charles)[Temphire Angular 2.0 Examples](https://github.com/Breeze/temphire.angular2) (Marcel)[Google Trips](https://itunes.apple.com/us/app/google-trips/id1081561570?mt=8) (Marcel)[_8 Days A Week_](http://www.hulu.com/watch/980384) Beatles documentary on Hulu (Steve)
+[Silicon Valley Code Camp](https://www.siliconvalley-codecamp.com/) (Ward)[DEVintersection conference in Las Vegas](https://devintersection.com/) (Ward)[Brian Lonsdorf - “Oh Composable World!” Keynote speech](https://www.youtube.com/watch?v=SfWR3dKnFIo) (Lukas)[_Michael Vey_ Series](https://www.michaelvey.com/books.php) by Richard Paul Evans, specifically book six: [_Fall of Hades_](https://www.amazon.com/Michael-Vey-6-Fall-Hades/dp/1481469827) (Charles)[myVEGAS Slots](https://itunes.apple.com/us/app/myvegas-slots-play-free-las/id714508224?mt=8) iPhone game (Charles)[Temphire Angular 2.0 Examples](https://github.com/Breeze/temphire.angular2) (Marcel)[Google Trips](https://itunes.apple.com/us/app/google-trips/id1081561570?mt=8) (Marcel)[_8 Days A Week_](https://www.hulu.com/watch/980384) Beatles documentary on Hulu (Steve)
 
 ### Transcript
 

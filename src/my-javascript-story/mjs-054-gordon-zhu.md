@@ -62,7 +62,7 @@ Charles
 - [Roland R-09](https://www.roland.com/us/products/r-09/)
 - [USB-C Dongle Docking Station](https://www.amazon.com/Dongle-Docking-Station-Adapter-macbook/dp/B075L7T23D)
 - [ScreenFlow](https://screenflow.en.softonic.com/mac)
-- [PB Works](http://www.pbworks.com/)
+- [PB Works](https://www.pbworks.com/)
 
 Gordon
 

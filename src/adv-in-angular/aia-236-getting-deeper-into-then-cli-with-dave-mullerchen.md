@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Angular Bootcamp](https://angularbootcamp.com/)
 - [TripleByte](https://triplebyte.com/angular) offers a $1000 signing bonus
 - [Cachefly](https://www.cachefly.com/)
@@ -43,7 +43,7 @@ Dave Mullerchen is a freelancer from Germany and does a lot of Angular workshops
 Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/? __tn__ =%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 ### **Picks**
  **Aaron Frost:**
-- [RXJS Live](http://rxjs.live)
+- [RXJS Live](https://rxjs.live)
 - [“Like It Ain’t Nothin”](https://www.youtube.com/watch?v=LV3oX4eroSY) by Fergie
 **Shai Reznik:** &nbsp;
 - _HBO’s Crashing_ 

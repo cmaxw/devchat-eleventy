@@ -12,20 +12,20 @@ tags:
   - podcast
 ---
 
-Thank you [<u>RailsClips Kickstarter</u>](http://www.devchat.tv/kickstarter) Backers!
+Thank you [<u>RailsClips Kickstarter</u>](https://www.devchat.tv/kickstarter) Backers!
 
 &nbsp;
 
 02:05 - Matias Niemelä Introduction
 
 - [<u>Twitter</u>](https://twitter.com/yearofmoo)
-- [<u>GitHub</u>](http://www.github.com/yearofmoo)
-- [<u>Blog</u>](http://www.yearofmoo.com/)
+- [<u>GitHub</u>](https://www.github.com/yearofmoo)
+- [<u>Blog</u>](https://www.yearofmoo.com/)
 - [<u>[YouTube] Matias Niemelä: Whats new in ngAnimate</u>](https://www.youtube.com/watch?v=R0OrxxJNcjU)
 
 03:13 - Animations with Angular
 
-- [<u>ngAnimate</u>](http://www.nganimate.org/)
+- [<u>ngAnimate</u>](https://www.nganimate.org/)
 
 04:24 - CSS Animations
 
@@ -33,9 +33,9 @@ Thank you [<u>RailsClips Kickstarter</u>](http://www.devchat.tv/kickstarter) Bac
 - Resources:
   - <u><a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations">Mozilla: Using CSS animations</a></u>
   - [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
-  - [<u>CSS3 Animations</u>](http://www.w3schools.com/css/css3_animations.asp)&nbsp;&nbsp;
+  - [<u>CSS3 Animations</u>](https://www.w3schools.com/css/css3_animations.asp)&nbsp;&nbsp;
 - [<u>GreenSock</u>](https://greensock.com/)
-- [<u>Animate.css</u>](http://daneden.github.io/animate.css/)
+- [<u>Animate.css</u>](https://daneden.github.io/animate.css/)
 
 13:06 - Testing
 
@@ -52,21 +52,21 @@ Thank you [<u>RailsClips Kickstarter</u>](http://www.devchat.tv/kickstarter) Bac
 
 20:35 - Side Libraries
 
-- [<u>Animate.css</u>](http://daneden.github.io/animate.css/)
-- [<u>Material Design</u>](http://www.google.com/design/spec/material-design/) Aspect
+- [<u>Animate.css</u>](https://daneden.github.io/animate.css/)
+- [<u>Material Design</u>](https://www.google.com/design/spec/material-design/) Aspect
 - [<u>GreenSock</u>](https://greensock.com/)
 - [<u>ngFx</u>](https://github.com/Hendrixer/ngFx)
 
 22:44 - Routing
 
-- [<u>Gaia</u>](http://gaiaflashframework.tenderapp.com/home)
+- [<u>Gaia</u>](https://gaiaflashframework.tenderapp.com/home)
 - Timeline Feature
 
 26:11 - Default Animations
 
 28:14 - Use Cases
 
-- [<u>YouTube</u>](http://www.youtube.com/) Browsing Website
+- [<u>YouTube</u>](https://www.youtube.com/) Browsing Website
   - [<u>[YouTube] Lukas Rubbelke &amp; Matias Niemela: Awesome Interfaces with AngularJS Animations</u>](https://www.youtube.com/watch?v=hC0MpgUoui4)
 
 30:19 - Where’s Angular 1.4?!?!?!
@@ -75,11 +75,11 @@ Thank you [<u>RailsClips Kickstarter</u>](http://www.devchat.tv/kickstarter) Bac
 
 Picks
 
-[<u>McFarland, USA</u>](http://www.imdb.com/title/tt2097298/?ref_=nv_sr_1) (Joe) Matias! Matias at&nbsp;[<u>ng-vegas</u>](http://www.ng-vegas.org)! (Joe)[<u>[YouTube] Matias Niemelä: Whats new in ngAnimate</u>](https://www.youtube.com/watch?v=R0OrxxJNcjU) (Ward)[<u>Citizenfour</u>](http://www.imdb.com/title/tt4044364/) (Ward)[<u>Teach Like a Champion 2.0: 62 Techniques that Put Students on the Path to College by Doug Lemov</u>](http://www.amazon.com/gp/product/1118901851/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118901851&linkCode=as2&tag=chamaxwoo-20&linkId=W3VAFHLDYWXU3ZLX) (Ward)[<u>ngFx</u>](https://github.com/Hendrixer/ngFx) (Lukas)[<u>Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace) by Chade-Meng Tan</u>](http://www.amazon.com/gp/product/0062116932/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062116932&linkCode=as2&tag=chamaxwoo-20&linkId=CPSDS5GJCCPSG5MU) (Lukas) Thank you&nbsp;[<u>RailsClips Kickstarter</u>](http://www.devchat.tv/kickstarter) Backers! (Chuck)[<u>Ready Player One by Ernest Cline</u>](http://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=F2CVPWYE7IGPVPXH) (Chuck)[<u>Mastery by Robert Greene</u>](http://www.amazon.com/gp/product/014312417X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=014312417X&linkCode=as2&tag=chamaxwoo-20&linkId=77VMQXOBDHAZPX72) (Chuck)[<u>Neovim</u>](http://neovim.org/) (Matias)
+[<u>McFarland, USA</u>](https://www.imdb.com/title/tt2097298/?ref_=nv_sr_1) (Joe) Matias! Matias at&nbsp;[<u>ng-vegas</u>](https://www.ng-vegas.org)! (Joe)[<u>[YouTube] Matias Niemelä: Whats new in ngAnimate</u>](https://www.youtube.com/watch?v=R0OrxxJNcjU) (Ward)[<u>Citizenfour</u>](https://www.imdb.com/title/tt4044364/) (Ward)[<u>Teach Like a Champion 2.0: 62 Techniques that Put Students on the Path to College by Doug Lemov</u>](https://www.amazon.com/gp/product/1118901851/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118901851&linkCode=as2&tag=chamaxwoo-20&linkId=W3VAFHLDYWXU3ZLX) (Ward)[<u>ngFx</u>](https://github.com/Hendrixer/ngFx) (Lukas)[<u>Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace) by Chade-Meng Tan</u>](https://www.amazon.com/gp/product/0062116932/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062116932&linkCode=as2&tag=chamaxwoo-20&linkId=CPSDS5GJCCPSG5MU) (Lukas) Thank you&nbsp;[<u>RailsClips Kickstarter</u>](https://www.devchat.tv/kickstarter) Backers! (Chuck)[<u>Ready Player One by Ernest Cline</u>](https://www.amazon.com/gp/product/0307887448/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887448&linkCode=as2&tag=chamaxwoo-20&linkId=F2CVPWYE7IGPVPXH) (Chuck)[<u>Mastery by Robert Greene</u>](https://www.amazon.com/gp/product/014312417X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=014312417X&linkCode=as2&tag=chamaxwoo-20&linkId=77VMQXOBDHAZPX72) (Chuck)[<u>Neovim</u>](https://neovim.org/) (Matias)
 
 News
 
-- [<u>ng-vegas</u>](http://www.ng-vegas.org): May 7th and 8th, 2015!
+- [<u>ng-vegas</u>](https://www.ng-vegas.org): May 7th and 8th, 2015!
 - [<u>AngularU</u>](https://angularu.com/ng/) in the Bay Area in June
 
 ### Transcript

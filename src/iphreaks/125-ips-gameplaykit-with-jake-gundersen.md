@@ -16,8 +16,8 @@ tags:
 
 - [Twitter](https://twitter.com/fattjake)
 - [GitHub](https://github.com/fattjake)
-- [Blog](http://indieambitions.com/)
-- [The Ray Wenderlich Podcast](http://www.raywenderlich.com/category/podcast)
+- [Blog](https://indieambitions.com/)
+- [The Ray Wenderlich Podcast](https://www.raywenderlich.com/category/podcast)
 
 01:38 - [GameplayKit Framework Reference](https://developer.apple.com/library/prerelease/tvos/documentation/GameplayKit/Reference/GameplayKit_Framework/index.html)
 
@@ -25,11 +25,11 @@ tags:
 
 03:56 - What’s the advantage of GameplayKit?
 
-- [Unity 5](http://unity3d.com/5)
+- [Unity 5](https://unity3d.com/5)
 
 09:05 - Component Architecture
 
-11:52 - [ComponentKit | Component API](http://componentkit.org/docs/component-api.html)
+11:52 - [ComponentKit | Component API](https://componentkit.org/docs/component-api.html)
 
 14:29 - Randomization
 
@@ -56,7 +56,7 @@ tags:
 
 35:54 - Cross-platform LimitationPicks
 
-[fastlane](https://fastlane.tools) (Andrew)[Swift State Machines](http://www.figure.ink/blog/2015/1/31/swift-state-machines-part-1) (Andrew)[Ryan Olson: Libraries Used in the Top 100 iOS Apps](https://medium.com/ios-os-x-development/libraries-used-in-the-top-100-ios-apps-5b845ad927b7) (Andrew)[Charles Max Wood "Upgrading From Yesterday"](http://charlesmaxwood.com/category/upgrading-from-yesterday/) (Chuck)[Charles Max Wood: UFY 007: Standing Desk and Upgrading My Health](http://charlesmaxwood.com/ufy-007-standing-desk-and-upgrading-my-health/) (Chuck)[A Simple, Portable, Inexpensive Standing Desk Solution](http://lifehacker.com/5928335/a-simple-portable-inexpensive-standing-desk-solution) (Chuck)[Periscope](http://www.periscope.tv) (Chuck)[Ray Wenderlich: Introducing the iOS 9 Feast!](http://www.raywenderlich.com/113226/introducing-the-ios-9-feast) (Jacob)[The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing by Marie Kondo](http://www.amazon.com/gp/product/1607747308/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607747308&linkCode=as2&tag=chamaxwoo-20&linkId=U2W2GZWLKQSESQDJ) (Jacob)
+[fastlane](https://fastlane.tools) (Andrew)[Swift State Machines](https://www.figure.ink/blog/2015/1/31/swift-state-machines-part-1) (Andrew)[Ryan Olson: Libraries Used in the Top 100 iOS Apps](https://medium.com/ios-os-x-development/libraries-used-in-the-top-100-ios-apps-5b845ad927b7) (Andrew)[Charles Max Wood "Upgrading From Yesterday"](https://charlesmaxwood.com/category/upgrading-from-yesterday/) (Chuck)[Charles Max Wood: UFY 007: Standing Desk and Upgrading My Health](https://charlesmaxwood.com/ufy-007-standing-desk-and-upgrading-my-health/) (Chuck)[A Simple, Portable, Inexpensive Standing Desk Solution](https://lifehacker.com/5928335/a-simple-portable-inexpensive-standing-desk-solution) (Chuck)[Periscope](https://www.periscope.tv) (Chuck)[Ray Wenderlich: Introducing the iOS 9 Feast!](https://www.raywenderlich.com/113226/introducing-the-ios-9-feast) (Jacob)[The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing by Marie Kondo](https://www.amazon.com/gp/product/1607747308/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607747308&linkCode=as2&tag=chamaxwoo-20&linkId=U2W2GZWLKQSESQDJ) (Jacob)
 
 ### Transcript
 

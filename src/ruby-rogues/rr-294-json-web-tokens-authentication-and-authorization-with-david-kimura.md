@@ -34,6 +34,6 @@ Jerome:&nbsp;Action Cable in Rails 5 by Michael Hartl, SRE Conference in San Fra
 
 ## Links and Topics to Check Out
 
-[Authlogic](https://github.com/binarylogic/authlogic)[Devise](https://github.com/plataformatec/devise)&nbsp;[HTTP Basic Authentication](http://api.rubyonrails.org/classes/ActionController/HttpAuthentication/Basic.html)&nbsp;[BCrypt](http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html)&nbsp;[Rails Engine](http://guides.rubyonrails.org/engines.html)[Redis&nbsp;](http://redis.io)SSL[Adobe Hack](https://nakedsecurity.sophos.com/2013/10/04/adobe-owns-up-to-getting-pwned-login-and-credit-card-data-probably-stolen-all-passwords-reset/)Rainbow Tables[RDS&nbsp;](https://aws.amazon.com/rds/)[JWTs&nbsp;](https://jwt.io/)
+[Authlogic](https://github.com/binarylogic/authlogic)[Devise](https://github.com/plataformatec/devise)&nbsp;[HTTP Basic Authentication](https://api.rubyonrails.org/classes/ActionController/HttpAuthentication/Basic.html)&nbsp;[BCrypt](https://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html)&nbsp;[Rails Engine](https://guides.rubyonrails.org/engines.html)[Redis&nbsp;](https://redis.io)SSL[Adobe Hack](https://nakedsecurity.sophos.com/2013/10/04/adobe-owns-up-to-getting-pwned-login-and-credit-card-data-probably-stolen-all-passwords-reset/)Rainbow Tables[RDS&nbsp;](https://aws.amazon.com/rds/)[JWTs&nbsp;](https://jwt.io/)
 
 ### Transcript

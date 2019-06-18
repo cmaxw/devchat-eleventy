@@ -34,6 +34,6 @@ Connect with Bob Zeidman on [Twitter](https://twitter.com/bob_zeidman?lang=en)or
 
 ## Picks:
 
-Bob: Syntus and [La La Land](http://www.imdb.com/title/tt3783958/)Charles: News Feed Eradicator for Facebook, [Google hangouts,](https://hangouts.google.com/) and [Visual Studio Code](https://code.visualstudio.com/)
+Bob: Syntus and [La La Land](https://www.imdb.com/title/tt3783958/)Charles: News Feed Eradicator for Facebook, [Google hangouts,](https://hangouts.google.com/) and [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Transcript

@@ -5,7 +5,7 @@ title: >
 date: 2019-04-02 10:00:28
 episode_number: 045
 duration: 1:25:17
-audio_url: http://media.devchat.tv/elixir-mix/EMx_045_Where_the_Wild_Things_Are_with_Johnny_Winn.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_045_Where_the_Wild_Things_Are_with_Johnny_Winn.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/elixir)offers a $1000 signing bonus
 - [.TECH](https://get.tech/) – [Go.tech/Elixir](https://get.tech/?&coupon=ELIXIR.TECH&utm_source=Influencer&utm_medium=Podcast&utm_campaign=ElixirMix) and use the coupon code “ **ELIXIR.TECH** ” and get a 1 year .TECH Domain at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)
@@ -48,7 +48,7 @@ Johnny Winn shares his story with the panel starting with how elixir fountain go
 - Las Vegas, NV
 **Josh Adams**
 - [https://news.ycombinator.com/item?id=19414775](https://news.ycombinator.com/item?id=19414775)
-- [http://www.liquidity-lang.org/](http://www.liquidity-lang.org/)
+- [https://www.liquidity-lang.org/](https://www.liquidity-lang.org/)
 **Michael Ries**
 - [https://elixir-circuits.github.io/](https://elixir-circuits.github.io/)
 - [https://embedded-elixir.com/](https://embedded-elixir.com/)

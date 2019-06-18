@@ -12,35 +12,35 @@ tags:
   - podcast
 ---
 
-01:49 - [Join Parley!!](http://rubyrogues.com/parley)
+01:49 - [Join Parley!!](https://rubyrogues.com/parley)
 
-- [Discourse](http://www.discourse.org/)
+- [Discourse](https://www.discourse.org/)
 
-04:37 - [[Parley Thread] Rails 4/1 is out](http://parley.rubyrogues.com/t/rails-4-1-is-out/2007)
+04:37 - [[Parley Thread] Rails 4/1 is out](https://parley.rubyrogues.com/t/rails-4-1-is-out/2007)
 
-- [Setup Rails 4.1, Spring, Rspec, and Guard](http://girders.org/blog/2014/02/06/setup-rails-41-spring-rspec-and-guard/)
-- [Rails 4.1.0: Spring, Variants, Enums, Mailer previews, secrets.yml](http://weblog.rubyonrails.org/2014/4/8/Rails-4-1/)
-- [Ruby on Rails 4.1 Release Notes](http://edgeguides.rubyonrails.org/4_1_release_notes.html)
-- [[Parley Thread] Twelve (12)-Factor apps. Do you? How?](http://parley.rubyrogues.com/t/twelve-12-factor-apps-do-you-how/1514)
-- [12 Factor Applications](http://12factor.net/)
+- [Setup Rails 4.1, Spring, Rspec, and Guard](https://girders.org/blog/2014/02/06/setup-rails-41-spring-rspec-and-guard/)
+- [Rails 4.1.0: Spring, Variants, Enums, Mailer previews, secrets.yml](https://weblog.rubyonrails.org/2014/4/8/Rails-4-1/)
+- [Ruby on Rails 4.1 Release Notes](https://edgeguides.rubyonrails.org/4_1_release_notes.html)
+- [[Parley Thread] Twelve (12)-Factor apps. Do you? How?](https://parley.rubyrogues.com/t/twelve-12-factor-apps-do-you-how/1514)
+- [12 Factor Applications](https://12factor.net/)
 
-21:45 - [[Parley Thread] Where are all the Junior Developer roles?](http://parley.rubyrogues.com/t/where-are-all-the-junior-developer-roles/2014)
+21:45 - [[Parley Thread] Where are all the Junior Developer roles?](https://parley.rubyrogues.com/t/where-are-all-the-junior-developer-roles/2014)
 
-- [Ruby Rogues Episode #107: Impostor Syndrome with Tim Chevalier](http://rubyrogues.com/107-rr-impostor-syndrome-with-tim-chevalier/)
+- [Ruby Rogues Episode #107: Impostor Syndrome with Tim Chevalier](https://rubyrogues.com/107-rr-impostor-syndrome-with-tim-chevalier/)
 
-43:23 - [[Parley Thread] Sinatra instead of Rails](http://parley.rubyrogues.com/t/sinatra-instead-of-rails/1900)
+43:23 - [[Parley Thread] Sinatra instead of Rails](https://parley.rubyrogues.com/t/sinatra-instead-of-rails/1900)
 
-- [Sinatra](http://www.sinatrarb.com/)
-- [Rack](http://rack.github.io/)
-- [The Sinatra Book](http://sinatra-book.gittr.com/)
-- [Class: Rack::Builder](http://rack.rubyforge.org/doc/classes/Rack/Builder.html)
-- [Metal](http://api.rubyonrails.org/classes/ActionController/Metal.html)
+- [Sinatra](https://www.sinatrarb.com/)
+- [Rack](https://rack.github.io/)
+- [The Sinatra Book](https://sinatra-book.gittr.com/)
+- [Class: Rack::Builder](https://rack.rubyforge.org/doc/classes/Rack/Builder.html)
+- [Metal](https://api.rubyonrails.org/classes/ActionController/Metal.html)
 - [rails-api](https://github.com/rails-api/rails-api)
-- [Routing to Rack Applications](http://guides.rubyonrails.org/routing.html#routing-to-rack-applications)
+- [Routing to Rack Applications](https://guides.rubyonrails.org/routing.html#routing-to-rack-applications)
 
 ### Book Club
 
-[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
+[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
 
 ### Next Week
 

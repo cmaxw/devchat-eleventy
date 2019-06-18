@@ -12,4 +12,4 @@ tags:
   - podcast
 ---
 
-This is take II of the Pair Programming episode. The first take wasn't what I wanted to communicate about pair programming. Please give it a listen and check out the show notes on the original recording.[Download this Episode](http://media.libsyn.com/media/charlesmaxwood/rc_15_pair_programming.mp3)
+This is take II of the Pair Programming episode. The first take wasn't what I wanted to communicate about pair programming. Please give it a listen and check out the show notes on the original recording.[Download this Episode](https://media.libsyn.com/media/charlesmaxwood/rc_15_pair_programming.mp3)

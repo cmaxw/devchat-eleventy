@@ -16,18 +16,18 @@ tags:
 
 - [Twitter](https://twitter.com/jerodsanto)
 - [GitHub](https://github.com/jerodsanto)
-- [Blog](http://jerodsanto.net/)
-- [Object Lateral, Inc.](http://objectlateral.com/)
+- [Blog](https://jerodsanto.net/)
+- [Object Lateral, Inc.](https://objectlateral.com/)
 
 02:44 - Adam Stacoviak Introduction
 
 - [Twitter](https://twitter.com/adamstac)
 - [GitHub](https://github.com/adamstac)
-- [Blog](http://adamstacoviak.com/)
+- [Blog](https://adamstacoviak.com/)
 
 02:55 - [The Changelog](https://changelog.com/) and [Beyond Code](https://beyondcode.tv/) (Background)
 
-- [5by5](http://5by5.tv/)
+- [5by5](https://5by5.tv/)
 - [Wynn Netherland](https://twitter.com/pengwynn)
 - [The Changelog #172: GitUp, Git UX, and More with Pierre-Olivier Latour](https://changelog.com/172/)
 - [The Changelog #145: 10+ Years of Rails with DHH](https://changelog.com/145/)
@@ -39,7 +39,7 @@ tags:
 
 16:00 - Sharing Stories of Fascinating People and Choosing Conferences
 
-- [Gophercon](http://www.gophercon.com/)
+- [Gophercon](https://www.gophercon.com/)
 
 21:21 - Differences Between Communities
 
@@ -48,8 +48,8 @@ tags:
 
 24:54 - Where are The Changelog and Beyond Code’s future plans?
 
-- <u><a style="text-decoration: none;" href="http://conferences.oreilly.com/oscon/open-source">OSCON</a></u>
-- [Strange Loop](http://www.thestrangeloop.com/)&nbsp;&nbsp;
+- <u><a style="text-decoration: none;" href="https://conferences.oreilly.com/oscon/open-source">OSCON</a></u>
+- [Strange Loop](https://www.thestrangeloop.com/)&nbsp;&nbsp;
 - Questions:
   - Who is your programming hero?
   - If you had to relearn how to code all over again, what would you tell yourself?
@@ -62,17 +62,17 @@ tags:
 - Bill O’Reilly
 - Linus Torvalds
 - 10 Years of Git with Junio Hamano
-- Apple: [ResearchKit](http://www.apple.com/researchkit/)
+- Apple: [ResearchKit](https://www.apple.com/researchkit/)
 - Sara Chipps
 
 35:43 - Origin Stories
 
 - Mitchell Hashimoto
   - [The Changelog #180: Otto, Vagrant, and Automation with Mitchell Hashimoto](https://changelog.com/180/)
-- [LEGO League](http://www.firstlegoleague.org/)
+- [LEGO League](https://www.firstlegoleague.org/)
   Picks
 
-[Personality Insights](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/personality-insights.html) (Coraline)[The Art of Empathy: A Complete Guide to Life's Most Essential Skill by Karla McLaren](http://www.amazon.com/gp/product/1622030613/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1622030613&linkCode=as2&tag=chamaxwoo-20&linkId=CDIQG5XRZTDJJPIF) (Coraline)[FamilySearch](https://familysearch.org/) (Chuck)Snow (Chuck)[DISTRICT Roasters](http://districtroasters.com/) (Adam)[The Balvenie](https://us.thebalvenie.com/) (Adam)[Lismore Scotch](http://thewhiskeyjug.com/scotch-whiskey/lismore-speyside-single-malt-review/) (Adam)[The Elixir Fountain](https://soundcloud.com/elixirfountain) (Jerod)[Robot or Not?](https://www.theincomparable.com/robot/) (Jerod)[Song Exploder](http://songexploder.net/) (Jerod)
+[Personality Insights](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/personality-insights.html) (Coraline)[The Art of Empathy: A Complete Guide to Life's Most Essential Skill by Karla McLaren](https://www.amazon.com/gp/product/1622030613/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1622030613&linkCode=as2&tag=chamaxwoo-20&linkId=CDIQG5XRZTDJJPIF) (Coraline)[FamilySearch](https://familysearch.org/) (Chuck)Snow (Chuck)[DISTRICT Roasters](https://districtroasters.com/) (Adam)[The Balvenie](https://us.thebalvenie.com/) (Adam)[Lismore Scotch](https://thewhiskeyjug.com/scotch-whiskey/lismore-speyside-single-malt-review/) (Adam)[The Elixir Fountain](https://soundcloud.com/elixirfountain) (Jerod)[Robot or Not?](https://www.theincomparable.com/robot/) (Jerod)[Song Exploder](https://songexploder.net/) (Jerod)
 
 ### Transcript
 

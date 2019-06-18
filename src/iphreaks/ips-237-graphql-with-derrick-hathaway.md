@@ -53,7 +53,7 @@ In today's episode, the iPheaks panel, Erica, and Andrew speak with Derrick Hath
 
 Erica
 
-- [Salt Lake City](http://www.ci.slc.ut.us)
+- [Salt Lake City](https://www.ci.slc.ut.us)
 
 Andrew
 

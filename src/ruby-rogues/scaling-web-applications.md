@@ -30,6 +30,6 @@ Active record is great in managing A-record. If you have to get and modify A-rec
 
 ## **Picks:**
 
-Brian: [hamstudy.org&nbsp;](https://hamstudy.org/)David: [Bobby Fischer Teaches Chess](https://www.amazon.com/Bobby-Fischer-Teaches-Chess/dp/0553263153)Jason: [Jacques Pepin](http://www.pbs.org/show/jacques-pepin-heart-soul/)Charles: [RE&nbsp;20 Broadcast Announcer Microphone](http://www.electrovoice.com/product.php?id=91),&nbsp;and [Xenyx 802 Mixer](https://www.amazon.com/Behringer-802-Premium-8-Input-Preamps/dp/B000J5XS3C)
+Brian: [hamstudy.org&nbsp;](https://hamstudy.org/)David: [Bobby Fischer Teaches Chess](https://www.amazon.com/Bobby-Fischer-Teaches-Chess/dp/0553263153)Jason: [Jacques Pepin](https://www.pbs.org/show/jacques-pepin-heart-soul/)Charles: [RE&nbsp;20 Broadcast Announcer Microphone](https://www.electrovoice.com/product.php?id=91),&nbsp;and [Xenyx 802 Mixer](https://www.amazon.com/Behringer-802-Premium-8-Input-Preamps/dp/B000J5XS3C)
 
 ### Transcript

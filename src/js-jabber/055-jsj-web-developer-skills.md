@@ -12,14 +12,14 @@ tags:
   - podcast
 ---
 
-### [Use this link and code JAVAJAB to get 20% off your registration for FluentConf 2013!](http://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo)
+### [Use this link and code JAVAJAB to get 20% off your registration for FluentConf 2013!](https://fluentconf.com/fluent2013?cmp=mp-code-fl13-javascript-jabber-promo)
 
 ### Panel
 
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
 
 ### Discussion
 
@@ -27,39 +27,39 @@ tags:
 
 - “T-shaped skills”
   11:01 - Minumum level entry skills you need to become a web developer
-- [HTML](http://en.wikipedia.org/wiki/HTML)
-- [CSS](http://en.wikipedia.org/wiki/CSS)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
 - [JSHint](https://github.com/jshint/jshint)
 - [Jade](https://github.com/visionmedia/jade)
 - [less.js](https://github.com/cloudhead/less.js)
 - [jquery](https://github.com/jquery/jquery)
-  19:39 - [CSS](http://en.wikipedia.org/wiki/CSS)
+  19:39 - [CSS](https://en.wikipedia.org/wiki/CSS)
 - [Jade](https://github.com/visionmedia/jade)
   24:24 - Mid-Senior level skills you need to become a web developer
 - Networking
-- [HTTP](http://en.wikipedia.org/wiki/Http)
-- [Wireshark](http://www.wireshark.org/)
-- [Build systems](http://en.wikipedia.org/wiki/Build_system)
-- [node.js](http://nodejs.org/)
-- [NoSQL](http://en.wikipedia.org/wiki/NoSQL)
-- [Netcat](http://netcat.sourceforge.net/)
-- [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) frameworks
-- [Preprocessers](http://en.wikipedia.org/wiki/Preprocessor)
-- [REST](http://en.wikipedia.org/wiki/REST)
+- [HTTP](https://en.wikipedia.org/wiki/Http)
+- [Wireshark](https://www.wireshark.org/)
+- [Build systems](https://en.wikipedia.org/wiki/Build_system)
+- [node.js](https://nodejs.org/)
+- [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
+- [Netcat](https://netcat.sourceforge.net/)
+- [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) frameworks
+- [Preprocessers](https://en.wikipedia.org/wiki/Preprocessor)
+- [REST](https://en.wikipedia.org/wiki/REST)
 
 ### Picks
 
 - [Prime Workers](https://github.com/blittle/prime-workers) (AJ)
-- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) (AJ)
-- [Vagrant](http://www.vagrantup.com/) (Merrick)
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) (AJ)
+- [Vagrant](https://www.vagrantup.com/) (Merrick)
 - [Puppet](https://github.com/puppetlabs/puppet) (Merrick)
-- [Mountain West Ruby Conference](http://mtnwestrubyconf.org/2013/) (Jamison)
-- [TXJS](http://www.texasjavascript.com/) (Jamison)
-- [Breeze.js](http://www.breezejs.com/) (Joe)
+- [Mountain West Ruby Conference](https://mtnwestrubyconf.org/2013/) (Jamison)
+- [TXJS](https://www.texasjavascript.com/) (Jamison)
+- [Breeze.js](https://www.breezejs.com/) (Joe)
 - [edge.js](https://github.com/tjanczuk/edge) (Joe)
-- ['Arrested Development' Comes Back On Netflix On May 26, So Get Extra Sleep Now: Linda Holmes](http://www.npr.org/blogs/monkeysee/2013/04/04/176216217/arrested-development-comes-back-on-netflix-on-may-26-so-get-extra-sleep-now) (Joe)
-- [Intro to Networking with Netcat and NodeJS](http://blog.coolaj86.com/articles/intro-to-networking-with-netcat-and-nodejs.html) (AJ)
-- [Intro to HTTP with Netcat, Node, Connect](http://blog.coolaj86.com/articles/intro-to-http-with-netcat-node-connect.html) (AJ)
+- ['Arrested Development' Comes Back On Netflix On May 26, So Get Extra Sleep Now: Linda Holmes](https://www.npr.org/blogs/monkeysee/2013/04/04/176216217/arrested-development-comes-back-on-netflix-on-may-26-so-get-extra-sleep-now) (Joe)
+- [Intro to Networking with Netcat and NodeJS](https://blog.coolaj86.com/articles/intro-to-networking-with-netcat-and-nodejs.html) (AJ)
+- [Intro to HTTP with Netcat, Node, Connect](https://blog.coolaj86.com/articles/intro-to-http-with-netcat-node-connect.html) (AJ)
 
 ### Next Week
 

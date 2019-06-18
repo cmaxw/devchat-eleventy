@@ -16,10 +16,10 @@ tags:
 
 - [Twitter](https://twitter.com/cheerfulstoic)
 - [GitHub](https://github.com/cheerfulstoic)
-- [Blog](http://blog.brian-underwood.codes/)
-- [Neo Technology](http://neo4j.com/)
+- [Blog](https://blog.brian-underwood.codes/)
+- [Neo Technology](https://neo4j.com/)
 
-02:55 - [Neo4j](http://neo4j.com/)
+02:55 - [Neo4j](https://neo4j.com/)
 
 - [Neo4j [GitHub]](https://github.com/neo4j)
 
@@ -29,11 +29,11 @@ tags:
 
 06:58 - Modeling a Domain as a Graph; How it Works
 
-- [cypher](http://neo4j.com/developer/cypher/)
+- [cypher](https://neo4j.com/developer/cypher/)
 
 13:25 - Built-in Query Processor
 
-15:04 - [Neo4j.rb](http://neo4jrb.io/) =\> ORM; OGM
+15:04 - [Neo4j.rb](https://neo4jrb.io/) =\> ORM; OGM
 
 - [Mongoid](https://github.com/mongodb/mongoid) Influence
 
@@ -55,13 +55,13 @@ tags:
 
 42:16 - Getting Started with Neo4j
 
-- [Getting Started with Neo4j and Ruby](http://neo4j.com/developer/ruby-course/)
+- [Getting Started with Neo4j and Ruby](https://neo4j.com/developer/ruby-course/)
 - [Neo4j Screencasts](https://www.youtube.com/watch?v=n0P0pOP34Mw)
-- [Neo4j.com/developer](http://neo4j.com/developer/get-started/)&nbsp; &nbsp;
+- [Neo4j.com/developer](https://neo4j.com/developer/get-started/)&nbsp; &nbsp;
 - [Neo4j [GitHub]](https://github.com/neo4j)
   Picks
 
-[Elle Luna: The Crossroads of Should and Must](https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0#.ozrbgx7uy) (Jessica)[Lynda Tutorials](http://lynda.com) (Avdi)[How to Win Friends & Influence People by Dale Carnegie](http://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=devchattv-20&linkId=BUKYYLYQ2P7B5ASR) (Avdi)[Marked 2](http://marked2app.com) (Coraline)[Fund Club](http://joinfundclub.com) (Coraline)[RubyTapas #334: Rspec Compound Matchers](http://www.rubytapas.com/episodes/334-Rspec-Compound-Matchers) (Brian)[Pyrosomes](http://www.mnn.com/earth-matters/wilderness-resources/stories/what-in-the-world-is-this-whale-sized-tubular-sea-monster) (Brian)[Americapox: The Missing Plague](https://www.youtube.com/watch?v=JEYh5WACqEk) (Brian)
+[Elle Luna: The Crossroads of Should and Must](https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0#.ozrbgx7uy) (Jessica)[Lynda Tutorials](https://lynda.com) (Avdi)[How to Win Friends & Influence People by Dale Carnegie](https://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=devchattv-20&linkId=BUKYYLYQ2P7B5ASR) (Avdi)[Marked 2](https://marked2app.com) (Coraline)[Fund Club](https://joinfundclub.com) (Coraline)[RubyTapas #334: Rspec Compound Matchers](https://www.rubytapas.com/episodes/334-Rspec-Compound-Matchers) (Brian)[Pyrosomes](https://www.mnn.com/earth-matters/wilderness-resources/stories/what-in-the-world-is-this-whale-sized-tubular-sea-monster) (Brian)[Americapox: The Missing Plague](https://www.youtube.com/watch?v=JEYh5WACqEk) (Brian)
 
 ### Transcript
 

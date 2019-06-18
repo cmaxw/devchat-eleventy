@@ -15,32 +15,32 @@ tags:
 - 00:43 - Nick Quaranto Introduction
   - [Twitter](https://twitter.com/qrush)
   - [GitHub](https://github.com/qrush)
-  - [Blog](http://quaran.to/)
+  - [Blog](https://quaran.to/)
   - [37 Signals](https://37signals.com/)
     01:35 -&nbsp;[Ruby Gems](https://rubygems.org/)02:42 -&nbsp;[Rubyforge](https://en.wikipedia.org/wiki/RubyForge) that prompted [Gemcutter](https://rubygems.org/gems/gemcutter/versions/0.7.1) – (Process)
-  - Started around [Jekyll](http://rubygems.org/gems/jekyll)
+  - Started around [Jekyll](https://rubygems.org/gems/jekyll)
     - Runs GitHub Pages
-  - [github gems](http://gems.github.com/)
+  - [github gems](https://gems.github.com/)
   - [RubyForge](https://en.wikipedia.org/wiki/RubyForge)
-  - [Josh Nichols](https://github.com/technicalpickles):&nbsp; [jeweler](http://rubygems.org/gems/jeweler)
+  - [Josh Nichols](https://github.com/technicalpickles):&nbsp; [jeweler](https://rubygems.org/gems/jeweler)
   - [Tom Preston-Werner](https://github.com/mojombo)
   - [gforge](https://en.wikipedia.org/wiki/GForge)
   - A Gems API
-  - [hoe](http://rubygems.org/gems/hoe)
+  - [hoe](https://rubygems.org/gems/hoe)
   - How to Sell It
-  - [Sinatra](http://www.sinatrarb.com/)&nbsp;Apps
+  - [Sinatra](https://www.sinatrarb.com/)&nbsp;Apps
     12:46 - GitHub's Biggest Regret: Writing RubyGems Server 14:35 - How [RubyGems.org](https://rubygems.org/)&nbsp;Has Changed the Landscape to Manage Gems
   - Release of [gemcutter](https://rubygems.org/gems/gemcutter)
     17:08 -&nbsp;[gemcutter](https://rubygems.org/gems/gemcutter)’s Process (Big Shift in 2009)
   - Gem plugin
   - gem push
-  - [Ruby Central](http://rubycentral.org/)
+  - [Ruby Central](https://rubycentral.org/)
   - Moved it to [rubygems.org](https://rubygems.org/)
     21:30 - Traffic
   - Using Gauges – 20,000/day
   - Uptime Through [Pingdom](https://www.pingdom.com/)
-  - Addition of [Bundler](http://bundler.io/)
-    24:25 - Gemcutter using [S3](http://www.rubyinside.com/gemcutter-is-the-new-official-default-r...)
+  - Addition of [Bundler](https://bundler.io/)
+    24:25 - Gemcutter using [S3](https://www.rubyinside.com/gemcutter-is-the-new-official-default-r...)
   - Indexes
   - Gemspecs/Gems on Cloud Front
     - CDM
@@ -57,13 +57,13 @@ tags:
   - Having or Not Having Comments
   - Mirroring
     35:44 - Traffic
-  - [Modulecounts](http://www.modulecounts.com/) - Tracks CPAN, Pypy, Hackage - CPAN is the Perl Archive
+  - [Modulecounts](https://www.modulecounts.com/) - Tracks CPAN, Pypy, Hackage - CPAN is the Perl Archive
     38:00 - Mirroring and Problems
   - Trust Issues
     43:56 - Gem Building Tools
-  - [Bundler](http://bundler.io/)
-  - [bones](http://rubygems.org/gems/bones)
-  - [rakegems](http://rubygems.org/gems/rake)
+  - [Bundler](https://bundler.io/)
+  - [bones](https://rubygems.org/gems/bones)
+  - [rakegems](https://rubygems.org/gems/rake)
     52:19 - [gemcutter](https://github.com/rubygems/gemcutter) Future Additions
   - Changelogs
   - More People Using APIs

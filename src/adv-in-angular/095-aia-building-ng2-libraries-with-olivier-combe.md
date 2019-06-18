@@ -22,17 +22,17 @@ tags:
   03:21 - Why People Want Libraries in Angular 204:13 - Types of Libraries People Might Write05:21 - [ng2-translate](https://github.com/ocombe/ng2-translate)08:02 - TypeScript Problems vs Package Manager Problems10:22 - Collaboration13:17 - Advice For Writing Libraries
 - [ng-conf-library](https://github.com/ocombe/ng-conf-library)
   19:47 - Design Considerations25:09 - [ng2-translate](https://github.com/ocombe/ng2-translate) (Cont’d)27:53 - Advice for People Doing Public vs Public Libraries28:45 - Simplicity30:11 - [ng-conf](https://www.ng-conf.org/)32:13 - Working with Systems (i.e. [webpack](https://webpack.github.io/))
-- [CommonJS](http://requirejs.org/docs/commonjs.html)
+- [CommonJS](https://requirejs.org/docs/commonjs.html)
 - [Systemjs](https://github.com/systemjs/systemjs)
   36:53 - Upkeep&nbsp;Picks
 - [Khan Academy](https://www.khanacademy.org/) (Jules)
-- [Redbreast Irish Whiskey](http://www.bevmo.com/redbreast-12-year-old-irish-whiskey--750-ml-.html) (Ward)
+- [Redbreast Irish Whiskey](https://www.bevmo.com/redbreast-12-year-old-irish-whiskey--750-ml-.html) (Ward)
 - [Ghost](https://ghost.org) (John)
 - [CloudFlare](https://www.cloudflare.com) (John)
-- [Concept 2 PM5 (Performance Monitor 5)](http://www.concept2.com/service/monitors/pm5) (Lukas)
+- [Concept 2 PM5 (Performance Monitor 5)](https://www.concept2.com/service/monitors/pm5) (Lukas)
 - [ng-conf](https://www.ng-conf.org/) (Lukas)
 - [Trello](https://trello.com/) (Chuck)
-- [Gravity Forms](http://www.gravityforms.com/) (Chuck)
+- [Gravity Forms](https://www.gravityforms.com/) (Chuck)
 - [Zapier](https://zapier.com/) (Chuck)
 - [angular2-library-seed](https://github.com/preboot/angular2-library-seed) (Olivier)
 

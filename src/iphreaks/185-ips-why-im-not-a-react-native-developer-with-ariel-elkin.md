@@ -33,7 +33,7 @@ Introduction
 
 ### Picks:
 
-[How to Disagree by Paul Graham](http://paulgraham.com/disagree.html) (Ariel)[Bullet list of what real programmers are](http://www.humournet.com/misc.humour/real_programmers.txt) (Ariel)[Chainsawsuit comic](http://chainsawsuit.com/comic/2014/09/16/on-research/) (Ariel)&nbsp;[Hired.com/iphreaks](http://hired.com/iphreaks)
+[How to Disagree by Paul Graham](https://paulgraham.com/disagree.html) (Ariel)[Bullet list of what real programmers are](https://www.humournet.com/misc.humour/real_programmers.txt) (Ariel)[Chainsawsuit comic](https://chainsawsuit.com/comic/2014/09/16/on-research/) (Ariel)&nbsp;[Hired.com/iphreaks](https://hired.com/iphreaks)
 
 ### Transcript
 

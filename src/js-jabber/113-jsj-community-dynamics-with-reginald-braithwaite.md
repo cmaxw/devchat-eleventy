@@ -14,44 +14,44 @@ tags:
 
 ### Panel
 
-- Reginald Braithwaite ([twitter](https://twitter.com/raganwald)&nbsp;[github](https://github.com/raganwald)&nbsp;[blog](http://braythwayt.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://blog.coolaj86.com/)&nbsp;[youtube](http://youtube.com/coolaj86))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Reginald Braithwaite ([twitter](https://twitter.com/raganwald)&nbsp;[github](https://github.com/raganwald)&nbsp;[blog](https://braythwayt.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://blog.coolaj86.com/)&nbsp;[youtube](https://youtube.com/coolaj86))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 01:33 - Reginald Braithwaite Introduction
 
 - [GitHub](https://github.com/)
-- [JavaScript Jabber Episode #70 - Book Club: JavaScript Allongé with Reginald Braithwaite](http://javascriptjabber.com/070-jsj-book-club-javascript-allonge-with-reginald-braithwaite/)
+- [JavaScript Jabber Episode #70 - Book Club: JavaScript Allongé with Reginald Braithwaite](https://javascriptjabber.com/070-jsj-book-club-javascript-allonge-with-reginald-braithwaite/)
   02:10 - The Early Days of the JavaScript Community 05:33 - Community Subsets
 - Offensive / Defensive Moves
   11:22 - The Evolution of JavaScript 14:25 - Defensive Features 19:10 - The Core JavaScript Community Members and Newbies
 - Popularity
   - [Hacker News](https://news.ycombinator.com/)
-  - [Reddit](http://www.reddit.com/)
+  - [Reddit](https://www.reddit.com/)
     25:06 - Front-end vs Back-end Developers 29:52 - Hobbyist / Hacker Group Subsets Robots
-- [Raspberry Pis](http://www.raspberrypi.org/)
-- [Arduinos](http://www.arduino.cc/)
-- [Node.js](http://nodejs.org/)
-- [LEGO Mindstorms](http://mindstorms.lego.com/)
-- [The Society of Mind by Marvin Minsky](http://www.amazon.com/gp/product/0671657135/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671657135&linkCode=as2&tag=chamaxwoo-20)
+- [Raspberry Pis](https://www.raspberrypi.org/)
+- [Arduinos](https://www.arduino.cc/)
+- [Node.js](https://nodejs.org/)
+- [LEGO Mindstorms](https://mindstorms.lego.com/)
+- [The Society of Mind by Marvin Minsky](https://www.amazon.com/gp/product/0671657135/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671657135&linkCode=as2&tag=chamaxwoo-20)
 
 ### Picks
 
-- [Functional JavaScript by Michael Fogus](http://functionaljavascript.com/) (Reginald)
+- [Functional JavaScript by Michael Fogus](https://functionaljavascript.com/) (Reginald)
 - [mori](https://github.com/swannodette/mori) (Reginald)
-- [Joel Armstrong: The mess we're in](http://vimeo.com/97408239) (Reginald)
+- [Joel Armstrong: The mess we're in](https://vimeo.com/97408239) (Reginald)
 - [TabCorral](https://addons.mozilla.org/en-US/firefox/addon/TabCorral/) (Jamison)
-- [css3 Parallax](http://codepen.io/scottkellum/pen/bHEcA) (Jamison)
-- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration by Ed Catmull](http://www.amazon.com/gp/product/0812993012/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812993012&linkCode=as2&tag=chamaxwoo-20) (Jamison)
-- [Kill La Kill](http://en.wikipedia.org/wiki/Kill_la_Kill) (Jamison)
-- [Google Image Resize & Caching](http://carlo.zottmann.org/2013/04/14/google-image-resizer/) (AJ)
+- [css3 Parallax](https://codepen.io/scottkellum/pen/bHEcA) (Jamison)
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration by Ed Catmull](https://www.amazon.com/gp/product/0812993012/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812993012&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [Kill La Kill](https://en.wikipedia.org/wiki/Kill_la_Kill) (Jamison)
+- [Google Image Resize & Caching](https://carlo.zottmann.org/2013/04/14/google-image-resizer/) (AJ)
 - [Resize as Service](https://github.com/coolaj86/resize-as-a-service) (AJ)
-- [FIrefox OS](http://www.mozilla.org/en-US/firefox/os/) (AJ)
-- [Steve Jobs by Walter Isaacson](http://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451648537&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM) by Hal Elrod](http://www.amazon.com/gp/product/0979019710/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0979019710&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [FIrefox OS](https://www.mozilla.org/en-US/firefox/os/) (AJ)
+- [Steve Jobs by Walter Isaacson](https://www.amazon.com/gp/product/1451648537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451648537&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM) by Hal Elrod](https://www.amazon.com/gp/product/0979019710/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0979019710&linkCode=as2&tag=chamaxwoo-20) (Chuck)
 
 ### Next Week
 

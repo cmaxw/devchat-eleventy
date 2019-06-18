@@ -18,23 +18,23 @@ tags:
 
 - [twitter](https://twitter.com/ultrasaurus)
 - [github](https://github.com/ultrasaurus)
-- [blog](http://www.ultrasaurus.com/)
-- [Bridge Foundry](http://bridgefoundry.org/)
-- [RailsBridge](http://railsbridge.org/)
-- [Presidential Innovation Fellows](http://www.whitehouse.gov/innovationfellows)
+- [blog](https://www.ultrasaurus.com/)
+- [Bridge Foundry](https://bridgefoundry.org/)
+- [RailsBridge](https://railsbridge.org/)
+- [Presidential Innovation Fellows](https://www.whitehouse.gov/innovationfellows)
 
-04:16 - [Sarah Allen: Why no ruby in gov? (Slideshare)](http://www.slideshare.net/sarah.allen/why-no-ruby-in-gov-pubprf)
+04:16 - [Sarah Allen: Why no ruby in gov? (Slideshare)](https://www.slideshare.net/sarah.allen/why-no-ruby-in-gov-pubprf)
 
 08:25 - Government, Ruby, and Agile Development
 
 14:04 - The Smithsonian Environment, Coding Processes, & CMS
 
 - [Drupal](https://drupal.org/)
-- [PHP](http://www.php.net/)
-- [transcription.si.edu](http://transcription.si.edu/)
+- [PHP](https://www.php.net/)
+- [transcription.si.edu](https://transcription.si.edu/)
 - [WordPress](https://wordpress.org/)
-- [Joomla!](http://www.joomla.org/)
-- [Radiant CMS](http://radiantcms.org/)
+- [Joomla!](https://www.joomla.org/)
+- [Radiant CMS](https://radiantcms.org/)
 - [The Ruby Toolbox](https://www.ruby-toolbox.com/categories/content_management_systems)
 
 41:43 - Working with Government
@@ -46,12 +46,12 @@ tags:
 
 01:03:17 - Getting Involved
 
-- [Presidential Innovation Fellows](http://www.whitehouse.gov/innovationfellows)
-- [Sarah Allen: Why no ruby in gov? (Slideshare)](http://www.slideshare.net/sarah.allen/why-no-ruby-in-gov-pubprf)
+- [Presidential Innovation Fellows](https://www.whitehouse.gov/innovationfellows)
+- [Sarah Allen: Why no ruby in gov? (Slideshare)](https://www.slideshare.net/sarah.allen/why-no-ruby-in-gov-pubprf)
 
 ### Book Club
 
-[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](http://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
+[Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean](https://www.amazon.com/gp/product/0201379430/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201379430&linkCode=as2&tag=chamaxwoo-20)
 
 ### Next Week
 

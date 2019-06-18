@@ -16,25 +16,25 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/Aimee_Knight)
 - [<u>GitHub</u>](https://github.com/AimeeKnight)
-- [<u>Blog</u>](http://aimeemarieknight.com/)
-- [<u>Message Systems</u>](http://messagesystems.com/)
+- [<u>Blog</u>](https://aimeemarieknight.com/)
+- [<u>Message Systems</u>](https://messagesystems.com/)
 
 02:48 - Figure Skating =\> Programming
 
 - Persistence
 - Balance Between Mind and Body
 
-05:03 - Blogging ([<u>Aimee’s Blog</u>](http://aimeemarieknight.com/blog/))
+05:03 - Blogging ([<u>Aimee’s Blog</u>](https://aimeemarieknight.com/blog/))
 
 06:02 - Becoming Interested in Programming
 
-- [<u>Treehouse</u>](http://teamtreehouse.com/)
+- [<u>Treehouse</u>](https://teamtreehouse.com/)
   - [<u>@treehouse</u>](https://twitter.com/treehouse)
 - [<u>Code School</u>](https://www.codeschool.com/)
   - [<u>@codeschool</u>](https://twitter.com/codeschool)
-- [<u>Rails Girls</u>](http://railsgirls.com/)
+- [<u>Rails Girls</u>](https://railsgirls.com/)
   - [<u>@railsgirls</u>](https://twitter.com/railsgirls)
-- [<u>RailsBridge</u>](http://www.railsbridge.org/)
+- [<u>RailsBridge</u>](https://www.railsbridge.org/)
   - [<u>@railsbridge</u>](https://twitter.com/railsbridge)
 
 08:43 - Why Boot Camps?
@@ -50,7 +50,7 @@ tags:
 
 20:33 - Finding Employment After the Boot Camp
 
-- [<u>Baltimore NodeSchool</u>](http://nodeschool.io/baltimore/)
+- [<u>Baltimore NodeSchool</u>](https://nodeschool.io/baltimore/)
 - Passion
 - Interview Prep
 
@@ -67,10 +67,10 @@ tags:
 
 41:05 - Should you get a four-year degree to be a programmer?
 
-- <u><a style="text-decoration: none;" href="http://www.elizabrock.com/">Eliza Brock</a></u>
+- <u><a style="text-decoration: none;" href="https://www.elizabrock.com/">Eliza Brock</a></u>
   Picks
 
-[<u>Aarti Shahani: What Cockroaches With Backpacks Can Do. Ah-mazing</u>](http://www.npr.org/blogs/alltechconsidered/2015/03/16/393403190/what-cockroaches-with-backpacks-can-do-ah-mazing) (Jamison)[<u>Event Driven: How to Run Memorable Tech Conferences by Leah Silber</u>](https://leanpub.com/eventdriven) (Jamison)[<u>The Hiring Post</u>](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/) (Jamison)[<u>Kate Heddleston: Argument Cultures and Unregulated Aggression</u>](https://www.kateheddleston.com/blog/argument-cultures-and-unregulated-aggression) (Jamison)[<u>Axios AJAX Library</u>](https://github.com/mzabriskie/axios) (Dave)[<u>Unbroken: A World War II Story of Survival, Resilience, and Redemption by Laura Hillenbrand</u>](http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/0812974492) (Dave)[<u>[YouTube] Good Mythical Morning: Our Official Apocalypse</u>](https://www.youtube.com/watch?v=AEKnMoXrLoo) (AJ)[<u>Majora's Mask Live Action: The Skull Kid</u>](https://www.youtube.com/watch?v=rlyUt0RIGlo&list=RDOeLUK4a6Ojc) (AJ)[<u>The Westin at Lake Las Vegas Resort &amp; Spa</u>](http://www.westinlakelasvegas.com/) (Joe)[<u>Alchemists</u>](http://boardgamegeek.com/boardgame/161970/alchemists) (Joe)[<u>Valerie Kittel</u>](http://valeriekittel.com/) (Joe)[<u>The Earthsea Trilogy: A Wizard of Earthsea; The Tombs of Atuan; The Farthest Shore by Ursula K. Le Guin</u>](http://www.amazon.com/gp/product/0739452711/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0739452711&linkCode=as2&tag=chamaxwoo-20&linkId=QXBGBW6SRZC2BOHN) (Chuck)[<u>Traction: Get a Grip on Your Business by Gino Wickman</u>](http://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=5PMENHN2464R2HGE) (Chuck)[<u>Freelancers’ Answers</u>](http://freelancersanswers.com/) (Chuck)[<u>Drip</u>](https://www.getdrip.com/) (Chuck)[<u>Brandon Hays: Letter to an aspiring developer</u>](http://brandonhays.com/blog/2014/04/05/letter-to-an-aspiring-developer/#comment-289) (Aimee)[<u>SparkPost</u> (Aimee)](https://www.sparkpost.com/)Exercise and Physical Activity (Aimee)
+[<u>Aarti Shahani: What Cockroaches With Backpacks Can Do. Ah-mazing</u>](https://www.npr.org/blogs/alltechconsidered/2015/03/16/393403190/what-cockroaches-with-backpacks-can-do-ah-mazing) (Jamison)[<u>Event Driven: How to Run Memorable Tech Conferences by Leah Silber</u>](https://leanpub.com/eventdriven) (Jamison)[<u>The Hiring Post</u>](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/) (Jamison)[<u>Kate Heddleston: Argument Cultures and Unregulated Aggression</u>](https://www.kateheddleston.com/blog/argument-cultures-and-unregulated-aggression) (Jamison)[<u>Axios AJAX Library</u>](https://github.com/mzabriskie/axios) (Dave)[<u>Unbroken: A World War II Story of Survival, Resilience, and Redemption by Laura Hillenbrand</u>](https://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/0812974492) (Dave)[<u>[YouTube] Good Mythical Morning: Our Official Apocalypse</u>](https://www.youtube.com/watch?v=AEKnMoXrLoo) (AJ)[<u>Majora's Mask Live Action: The Skull Kid</u>](https://www.youtube.com/watch?v=rlyUt0RIGlo&list=RDOeLUK4a6Ojc) (AJ)[<u>The Westin at Lake Las Vegas Resort &amp; Spa</u>](https://www.westinlakelasvegas.com/) (Joe)[<u>Alchemists</u>](https://boardgamegeek.com/boardgame/161970/alchemists) (Joe)[<u>Valerie Kittel</u>](https://valeriekittel.com/) (Joe)[<u>The Earthsea Trilogy: A Wizard of Earthsea; The Tombs of Atuan; The Farthest Shore by Ursula K. Le Guin</u>](https://www.amazon.com/gp/product/0739452711/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0739452711&linkCode=as2&tag=chamaxwoo-20&linkId=QXBGBW6SRZC2BOHN) (Chuck)[<u>Traction: Get a Grip on Your Business by Gino Wickman</u>](https://www.amazon.com/gp/product/1936661837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936661837&linkCode=as2&tag=chamaxwoo-20&linkId=5PMENHN2464R2HGE) (Chuck)[<u>Freelancers’ Answers</u>](https://freelancersanswers.com/) (Chuck)[<u>Drip</u>](https://www.getdrip.com/) (Chuck)[<u>Brandon Hays: Letter to an aspiring developer</u>](https://brandonhays.com/blog/2014/04/05/letter-to-an-aspiring-developer/#comment-289) (Aimee)[<u>SparkPost</u> (Aimee)](https://www.sparkpost.com/)Exercise and Physical Activity (Aimee)
 
 ### Transcript
 

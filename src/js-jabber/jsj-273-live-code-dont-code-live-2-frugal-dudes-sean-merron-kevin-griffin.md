@@ -26,32 +26,32 @@ This episode of JavaScript Jabber features panelists Aimee Knight, Cory House, a
 
 **Cory**
 
-- [Random Walk Down Wall Street by Burton Malkiel&nbsp;](http://www.amazon.com/dp/0393330338/?tag=chamaxwoo-20)
-- [Rich Dad, Poor Dad by Robert Kiyosaki&nbsp;](http://www.amazon.com/dp/1612680011/?tag=chamaxwoo-20)
-- [Ego is the Enemy by Ryan Holiday](http://www.amazon.com/dp/1591847818/?tag=chamaxwoo-20)
+- [Random Walk Down Wall Street by Burton Malkiel&nbsp;](https://www.amazon.com/dp/0393330338/?tag=chamaxwoo-20)
+- [Rich Dad, Poor Dad by Robert Kiyosaki&nbsp;](https://www.amazon.com/dp/1612680011/?tag=chamaxwoo-20)
+- [Ego is the Enemy by Ryan Holiday](https://www.amazon.com/dp/1591847818/?tag=chamaxwoo-20)
   **Aimee**
 - Hacker News Thread – How to Not Bring Emotions Home With You
-- [Phantogram](http://www.phantogram.com/)
+- [Phantogram](https://www.phantogram.com/)
   **Charles**
-- [Money Master the Game by Tony Robbins&nbsp;](http://www.amazon.com/dp/1476757860/?tag=chamaxwoo-20)
+- [Money Master the Game by Tony Robbins&nbsp;](https://www.amazon.com/dp/1476757860/?tag=chamaxwoo-20)
 - [ELPs (Endorsed Local Providers) Dave Ramsey](https://www.daveramsey.com/elp)
   **Sean**
-- [The Little Book of Common Sense Investing by John Bogle](http://www.amazon.com/dp/1501164589/?tag=chamaxwoo-20)
+- [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/dp/1501164589/?tag=chamaxwoo-20)
 - [Mr. Money Mustache Blog&nbsp;](https://www.mrmoneymustache.com/)
-- [www.mint.com](http://www.mint.com)
+- [www.mint.com](https://www.mint.com)
   **Kevin**
-- [Unshakable by Tony Robbins](http://www.amazon.com/dp/0470102101/?tag=chamaxwoo-20)
+- [Unshakable by Tony Robbins](https://www.amazon.com/dp/0470102101/?tag=chamaxwoo-20)
 - [YNABS](https://www.youneedabudget.com/)
-- [The Millionaire Next Door by Thomas Stanley](http://www.amazon.com/dp/1589795474/?tag=chamaxwoo-20)
+- [The Millionaire Next Door by Thomas Stanley](https://www.amazon.com/dp/1589795474/?tag=chamaxwoo-20)
 
 ### **Links**
 
 - [2 Frugal Dudes Twitter](https://twitter.com/2frugaldudes)
 - [Sean's Twitter](https://twitter.com/seanmerron)
 - [Kevin's Twitter](https://twitter.com/1kevgriff?lang=en)
-- [www.swiftkick.in](http://www.swiftkick.in)
-- [www.kevgriffin.com](http://www.kevingriffin.com)
-- [http://earlyretirementroadmap.com/](http://earlyretirementroadmap.com/)
-- [2 Frugal Dudes Podcast](http://2frugaldudes.com)
+- [www.swiftkick.in](https://www.swiftkick.in)
+- [www.kevgriffin.com](https://www.kevingriffin.com)
+- [https://earlyretirementroadmap.com/](https://earlyretirementroadmap.com/)
+- [2 Frugal Dudes Podcast](https://2frugaldudes.com)
 
 ### Transcript

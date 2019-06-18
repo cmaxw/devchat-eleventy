@@ -12,25 +12,25 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
+Check out [RailsClips on Kickstarter](https://devchat.tv/kickstarter)!!
 
 &nbsp;
 
-01:56 - Testing and [Test-Driven Development (TDD)](http://en.wikipedia.org/wiki/Test-driven_development)
+01:56 - Testing and [Test-Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
 
-- [The iPhreaks Show Episode #92: Unit Testing with NatashaTheRobot](http://devchat.tv/iphreaks/092-ips-unit-testing-with-natashatherobot)
+- [The iPhreaks Show Episode #92: Unit Testing with NatashaTheRobot](https://devchat.tv/iphreaks/092-ips-unit-testing-with-natashatherobot)
 
 03:23 - Panel Experiences with TDD
 
-- [Unit Testing](http://en.wikipedia.org/wiki/Unit_testing)
-- [The Difference Between Faking, Mocking, and Stubbing](http://stackoverflow.com/questions/346372/whats-the-difference-between-faking-mocking-and-stubbing)
+- [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
+- [The Difference Between Faking, Mocking, and Stubbing](https://stackoverflow.com/questions/346372/whats-the-difference-between-faking-mocking-and-stubbing)
 
-08:10 - [Value Objects](http://c2.com/cgi/wiki?ValueObject)
+08:10 - [Value Objects](https://c2.com/cgi/wiki?ValueObject)
 
 09:08 - How To Do TDD
 
 - “Red, Green, Refactor”
-  - [BDD (Behavior-Driven Development)](http://en.wikipedia.org/wiki/Behavior-driven_development)
+  - [BDD (Behavior-Driven Development)](https://en.wikipedia.org/wiki/Behavior-driven_development)
   - [The Cucumber Book: Behaviour-Driven Development for Testers and Developers &nbsp;by Matt Wynne and Aslak Hellesøy](https://pragprog.com/book/hwcuc/the-cucumber-book)
   - [The RSpec Book: Behaviour-Driven Development with RSpec, Cucumber, and Friends &nbsp;by David Chelimsky, Dave Astels, Zach Dennis, Aslak Hellesøy, Bryan Helmkamp, Dan North](https://pragprog.com/book/achbd/the-rspec-book)
 
@@ -38,7 +38,7 @@ Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
 
 13:44 - Value and Getting Started with Testing
 
-- [Ruby Rogues Episode #178: Refactoring Ruby with Martin Fowler](http://devchat.tv/ruby-rogues/178-rr-book-club-refactoring-ruby-with-martin-fowler)
+- [Ruby Rogues Episode #178: Refactoring Ruby with Martin Fowler](https://devchat.tv/ruby-rogues/178-rr-book-club-refactoring-ruby-with-martin-fowler)
 
 21:58 - Writing Tests First
 
@@ -48,8 +48,8 @@ Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
 
 - Automation
   - [guard](https://github.com/guard/guard) (Ruby)
-  - [clang](http://clang-analyzer.llvm.org/xcode.html)
-- [Continuous Integration (CI)](http://en.wikipedia.org/wiki/Continuous_integration)
+  - [clang](https://clang-analyzer.llvm.org/xcode.html)
+- [Continuous Integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration)
 
 32:47 - Higher Level Testing
 
@@ -72,7 +72,7 @@ Check out [RailsClips on Kickstarter](http://devchat.tv/kickstarter)!!
 
 Picks
 
-[<u>John Reid: UIViewController TDD [Screencast]</u>](http://qualitycoding.org/uiviewcontroller-tdd/) (Jaim)[<u>Test-Driven iOS Development (Developer's Library) by Graham Lee</u>](http://www.amazon.com/Test-Driven-iOS-Development-Developers-Library/dp/0321774183) (Jaim)[<u>WatchKit FAQ</u>](http://www.raywenderlich.com/94672/watchkit-faq) (Alondo)[<u>This Idea Must Die: Scientific Theories That Are Blocking Progress (Edge Question Series) by John Brockman</u>](http://www.amazon.com/This-Idea-Must-Die-Scientific/dp/0062374346) (Alondo)[<u>Martin Fowler: The Test Pyramid</u>](http://martinfowler.com/bliki/TestPyramid.html) (Pete)[<u>Working Effectively with Unit Tests by Jay Fields</u>](https://leanpub.com/wewut) (Pete)[<u>Avery Brewing IPA</u>](http://averybrewing.com/our-ales/india-pale-ale/) (Pete)[<u>A Wizard of Earthsea by Ursula K. Le Guin</u>](http://www.amazon.com/Wizard-Earthsea-Cycle-Book-ebook/dp/B008T9L6AM/ref=sr_1_1?ie=UTF8&qid=1424985635&sr=8-1&keywords=the+wizard+of+earthsea) (Chuck)[<u>80/20 Sales and Marketing: The Definitive Guide to Working Less and Making More by Perry Marshall</u>](http://www.amazon.com/80-20-Sales-Marketing-Definitive-ebook/dp/B00CGNRVHE/ref=sr_1_1?ie=UTF8&qid=1424992045&sr=8-1&keywords=80%2F20+marketing) (Chuck)[<u>Miracles and Massacres: True and Untold Stories of the Making of America by Glenn Beck</u>](http://www.amazon.com/Miracles-Massacres-Untold-Stories-America-ebook/dp/B00EWWLKPQ/ref=sr_1_1?ie=UTF8&qid=1424992100&sr=8-1&keywords=miracles+and+massacres+by+glenn+beck) (Chuck)
+[<u>John Reid: UIViewController TDD [Screencast]</u>](https://qualitycoding.org/uiviewcontroller-tdd/) (Jaim)[<u>Test-Driven iOS Development (Developer's Library) by Graham Lee</u>](https://www.amazon.com/Test-Driven-iOS-Development-Developers-Library/dp/0321774183) (Jaim)[<u>WatchKit FAQ</u>](https://www.raywenderlich.com/94672/watchkit-faq) (Alondo)[<u>This Idea Must Die: Scientific Theories That Are Blocking Progress (Edge Question Series) by John Brockman</u>](https://www.amazon.com/This-Idea-Must-Die-Scientific/dp/0062374346) (Alondo)[<u>Martin Fowler: The Test Pyramid</u>](https://martinfowler.com/bliki/TestPyramid.html) (Pete)[<u>Working Effectively with Unit Tests by Jay Fields</u>](https://leanpub.com/wewut) (Pete)[<u>Avery Brewing IPA</u>](https://averybrewing.com/our-ales/india-pale-ale/) (Pete)[<u>A Wizard of Earthsea by Ursula K. Le Guin</u>](https://www.amazon.com/Wizard-Earthsea-Cycle-Book-ebook/dp/B008T9L6AM/ref=sr_1_1?ie=UTF8&qid=1424985635&sr=8-1&keywords=the+wizard+of+earthsea) (Chuck)[<u>80/20 Sales and Marketing: The Definitive Guide to Working Less and Making More by Perry Marshall</u>](https://www.amazon.com/80-20-Sales-Marketing-Definitive-ebook/dp/B00CGNRVHE/ref=sr_1_1?ie=UTF8&qid=1424992045&sr=8-1&keywords=80%2F20+marketing) (Chuck)[<u>Miracles and Massacres: True and Untold Stories of the Making of America by Glenn Beck</u>](https://www.amazon.com/Miracles-Massacres-Untold-Stories-America-ebook/dp/B00EWWLKPQ/ref=sr_1_1?ie=UTF8&qid=1424992100&sr=8-1&keywords=miracles+and+massacres+by+glenn+beck) (Chuck)
 
 ### Transcript
 

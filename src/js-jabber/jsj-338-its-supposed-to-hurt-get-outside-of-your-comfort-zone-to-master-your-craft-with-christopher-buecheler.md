@@ -14,7 +14,7 @@ tags:
 
 **Panel:**
 
-- [Aimee Knight](http://www.aimeemarieknight.com)
+- [Aimee Knight](https://www.aimeemarieknight.com)
 - AJ O’Neal
 - Aaron Frost
 - [Christopher Ferdinandi](https://2013.boston.wordcamp.org/speakers/)
@@ -123,8 +123,8 @@ In this episode, the panel talks with [Christopher Buecheler](https://www.linked
 - [jQuery](https://jquery.com)
 - [React](https://reactjs.org)
 - [Elixir](https://elixir-lang.org)
-- [Elm](http://elm-lang.org)
-- [Vue](http://closebrace.com)
+- [Elm](https://elm-lang.org)
+- [Vue](https://closebrace.com)
 - [JEST](https://jestjs.io)
 - [Puppeteer](https://github.com/smooth-code/jest-puppeteer)
 - [Podflix](https://podflix.app)
@@ -133,8 +133,8 @@ In this episode, the panel talks with [Christopher Buecheler](https://www.linked
 - [YouTube: Mac Miller](https://www.youtube.com/watch?v=QrR_gm6RqCo)
 - [Balloon Fiesta](https://balloonfiesta.com)
 - [DocZ](https://www.docz.site)
-- [CloseBrace](http://closebrace.com)
-- [Christopher Buecheler’s Website](http://cwbuecheler.com)
+- [CloseBrace](https://closebrace.com)
+- [Christopher Buecheler’s Website](https://cwbuecheler.com)
 - [Christopher Buecheler’s LinkedIn](https://www.linkedin.com/in/cwbuecheler)
 - [Christopher Buecheler’s GitHub](https://github.com/cwbuecheler)
 - [Go Learn Things – Chris Ferdinandi](https://gomakethings.com)
@@ -171,6 +171,6 @@ Christopher
 
 - [Docz](https://www.docz.site/)
 - [South Reach Trilogy](https://www.amazon.com/Area-Southern-Annihilation-Authority-Acceptance/dp/0374261172)
-- [Jeff Vandermeer](http://www.jeffvandermeer.com/)
+- [Jeff Vandermeer](https://www.jeffvandermeer.com/)
 
 ### Transcript

@@ -15,7 +15,7 @@ tags:
 ## **Sponsors**
 
 - [Netlify](https://www.netlify.com/)
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
 - [Triplebyte](https://triplebyte.com/react)
 - [CacheFly](https://www.cachefly.com/)
 
@@ -40,7 +40,7 @@ Nat Alison shares with the panel her work in translating Reactjs. Lucas Reis tha
 
 ### **Picks**
  **Lucas Reis**
-- [http://shadow-cljs.org/](http://shadow-cljs.org/)
+- [https://shadow-cljs.org/](https://shadow-cljs.org/)
 **Justin Bennett**
 - [https://zeit.co/now](https://zeit.co/now)
 - [https://github.com/artsy/dupe-report](https://github.com/artsy/dupe-report)

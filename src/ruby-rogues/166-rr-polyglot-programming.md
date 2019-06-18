@@ -12,80 +12,80 @@ tags:
   - podcast
 ---
 
-02:50 - [Polyglot Programming](http://polyglotprogramming.com/) and Learning Other Languages
+02:50 - [Polyglot Programming](https://polyglotprogramming.com/) and Learning Other Languages
 
-- [The Go Programming Language](http://golang.org/)
-- [Elixir](http://elixir-lang.org/)
-- [The Rust Programming Language](http://www.rust-lang.org/)
-- [Clojure](http://clojure.org/)
+- [The Go Programming Language](https://golang.org/)
+- [Elixir](https://elixir-lang.org/)
+- [The Rust Programming Language](https://www.rust-lang.org/)
+- [Clojure](https://clojure.org/)
   03:44 - Chuck and James’ Favorite Languages
-- [Erlang Programming Language](http://www.erlang.org/)
-- [Lisp](<http://en.wikipedia.org/wiki/Lisp_(programming_language)>)
-- [Scheme](<http://en.wikipedia.org/wiki/Scheme_(programming_language)>)
-- [The Little Schemer by Daniel P. Friedman, Matthias Felleisen, Duane Bibby and Gerald J. Sussman](http://www.amazon.com/The-Little-Schemer-4th-Edition/dp/0262560992)
-- [koa](http://koajs.com/)
-- [JSJ Episode 117 - The KOA Framework with Gerred Dillon and Will Conant](http://javascriptjabber.com/117-jsj-the-koa-framework-with-gerred-dillon-and-will-conant/)
-- [node.js](http://nodejs.org/)
-- [Rack](http://rack.github.io/)
-- [Erlang Syntax](http://www.erlang.org/doc/programming_examples/bit_syntax.html)
-  12:40 - Programming in [BASH](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) 13:36 - Narrowing Down Languages
-- [HaskelWiki](http://www.haskell.org/haskellwiki/Haskell)
-- [Carol Nichols: Ruby, Rust, and Concurrency](http://carol-nichols.com/2014/07/14/ruby-rust-concurrency/)
-- [Emacs](http://www.gnu.org/software/emacs/)
+- [Erlang Programming Language](https://www.erlang.org/)
+- [Lisp](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>)
+- [Scheme](<https://en.wikipedia.org/wiki/Scheme_(programming_language)>)
+- [The Little Schemer by Daniel P. Friedman, Matthias Felleisen, Duane Bibby and Gerald J. Sussman](https://www.amazon.com/The-Little-Schemer-4th-Edition/dp/0262560992)
+- [koa](https://koajs.com/)
+- [JSJ Episode 117 - The KOA Framework with Gerred Dillon and Will Conant](https://javascriptjabber.com/117-jsj-the-koa-framework-with-gerred-dillon-and-will-conant/)
+- [node.js](https://nodejs.org/)
+- [Rack](https://rack.github.io/)
+- [Erlang Syntax](https://www.erlang.org/doc/programming_examples/bit_syntax.html)
+  12:40 - Programming in [BASH](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) 13:36 - Narrowing Down Languages
+- [HaskelWiki](https://www.haskell.org/haskellwiki/Haskell)
+- [Carol Nichols: Ruby, Rust, and Concurrency](https://carol-nichols.com/2014/07/14/ruby-rust-concurrency/)
+- [Emacs](https://www.gnu.org/software/emacs/)
 - [clojure.edn](https://github.com/edn-format/edn)
 - [clojurescript](https://github.com/clojure/clojurescript)
 - [Swift](https://developer.apple.com/swift/)
   20:33 - Process of Learning Languages
-- [Ruby Rogues 164 - Staying Sharp With Dave Thomas](http://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/)
+- [Ruby Rogues 164 - Staying Sharp With Dave Thomas](https://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/)
 - [Destroy All Software Screencasts](https://www.destroyallsoftware.com/screencasts)
-- [RubyTapas](http://www.rubytapas.com/)
-- [Elixir Sips](http://elixirsips.com/)
+- [RubyTapas](https://www.rubytapas.com/)
+- [Elixir Sips](https://elixirsips.com/)
   26:42 - Approaches in Different Languages
-- [Sinatra](http://www.sinatrarb.com/)
-- [Padrino [Wiki]](<http://en.wikipedia.org/wiki/Padrino_(web_framework)>)
-- [Capistrano [Wiki]](<http://en.wikipedia.org/wiki/Capistrano_(software)>)
+- [Sinatra](https://www.sinatrarb.com/)
+- [Padrino [Wiki]](<https://en.wikipedia.org/wiki/Padrino_(web_framework)>)
+- [Capistrano [Wiki]](<https://en.wikipedia.org/wiki/Capistrano_(software)>)
   29:59 - Drawbacks to Different Languages in a Team
-- [RabbitMQ](http://www.rabbitmq.com/)
+- [RabbitMQ](https://www.rabbitmq.com/)
   31:07 - Capabilities of Different Languages 32:46 - Understanding API’s
-- [Ruby Quiz](http://rubyquiz.com/)
-- [Ruby Talk](http://ruby-talk.markmail.org/)
+- [Ruby Quiz](https://rubyquiz.com/)
+- [Ruby Talk](https://ruby-talk.markmail.org/)
   36:50 - Communities
-- [Ruby Rogues Parley](http://rubyrogues.com/parley/)
-- [Seattle.rb](http://www.seattlerb.org/)
-- [Perl Quiz of the Week](http://perl.plover.com/qotw/)
+- [Ruby Rogues Parley](https://rubyrogues.com/parley/)
+- [Seattle.rb](https://www.seattlerb.org/)
+- [Perl Quiz of the Week](https://perl.plover.com/qotw/)
   39:36 - New Languages and Changing of Ecosystems
-- [OpenSSL](http://www.openssl.org/)
-- [Ruby Rogues 165 - Systems Programming Tricks with Julia Evans](http://rubyrogues.com/165-rr-systems-programming-tricks-with-julia-evans/)
+- [OpenSSL](https://www.openssl.org/)
+- [Ruby Rogues 165 - Systems Programming Tricks with Julia Evans](https://rubyrogues.com/165-rr-systems-programming-tricks-with-julia-evans/)
 - [Kernel](https://kernel.org/)
-- [Idris](http://www.idris-lang.org/)
+- [Idris](https://www.idris-lang.org/)
   43:49 - Getting Out of a Language Rut
-- [C# [Wiki]](<http://en.wikipedia.org/wiki/C_Sharp_(programming_language)>)
-- [Diablo III](http://us.battle.net/d3/en/)[Diablo Series Wiki](<http://diablo.wikia.com/wiki/Diablo_(game)>)
+- [C# [Wiki]](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>)
+- [Diablo III](https://us.battle.net/d3/en/)[Diablo Series Wiki](<https://diablo.wikia.com/wiki/Diablo_(game)>)
 - [Docker](https://www.docker.com/)
-- [Emacs Lisp [Wiki]](http://en.wikipedia.org/wiki/Emacs_Lisp)
-- [Prototype [Wiki]](http://en.wikipedia.org/wiki/Prototype-based_programming)
-- [jQuery](http://jquery.com/)
-- [MySQL](http://www.mysql.com/)
-- [SQL [Wiki]](http://en.wikipedia.org/wiki/SQL)
-- [NoSQL [Wiki]](http://en.wikipedia.org/wiki/NoSQL)
-- [Ember](http://emberjs.com/)
+- [Emacs Lisp [Wiki]](https://en.wikipedia.org/wiki/Emacs_Lisp)
+- [Prototype [Wiki]](https://en.wikipedia.org/wiki/Prototype-based_programming)
+- [jQuery](https://jquery.com/)
+- [MySQL](https://www.mysql.com/)
+- [SQL [Wiki]](https://en.wikipedia.org/wiki/SQL)
+- [NoSQL [Wiki]](https://en.wikipedia.org/wiki/NoSQL)
+- [Ember](https://emberjs.com/)
 - [AngularJS](https://angularjs.org/)
-- [Knockout](http://knockoutjs.com/)
-- [Bootstrap](http://getbootstrap.com/)
-- [Zurb Foundation](http://foundation.zurb.com/)
+- [Knockout](https://knockoutjs.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Zurb Foundation](https://foundation.zurb.com/)
 - [Dart](https://www.dartlang.org/)
-- [CoffeeScript](http://coffeescript.org/)
+- [CoffeeScript](https://coffeescript.org/)
   55:08 - Future of Languages
-- [Go Conferences 2014 - Schedule](http://lanyrd.com/topics/go-language/)
+- [Go Conferences 2014 - Schedule](https://lanyrd.com/topics/go-language/)
 - [Strange Loop](https://thestrangeloop.com/)
 - [Google](https://www.google.com/)
   58:27 - Time Frame for Languages
 
 ### Book Club
 
-[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](http://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
+[Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck](https://www.amazon.com/gp/product/0321984137/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321984137&linkCode=as2&tag=chamaxwoo-20&linkId=WPGL6ZIINZQSHTFT)
 
-[Refactoring in Ruby by William C. Wake and Kevin Rutherford](http://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
+[Refactoring in Ruby by William C. Wake and Kevin Rutherford](https://www.amazon.com/gp/product/B002TIOYVM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002TIOYVM&linkCode=as2&tag=chamaxwoo-20&linkId=YMP7XASM5JBW7UE6)
 
 ### Next Week
 

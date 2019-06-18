@@ -26,7 +26,7 @@ Check out [iOS Remote Conf](https://allremoteconfs.com/ios-2016)!!!
 09:00 - Tools
 
 - [Xcode](https://developer.apple.com/xcode/)
-- [BBEdit](http://www.barebones.com/products/bbedit/)
+- [BBEdit](https://www.barebones.com/products/bbedit/)
 - [TextMate](https://macromates.com/)
 - [Dash](https://kapeli.com/dash_ios)
 - [Emacs](https://www.gnu.org/software/emacs/)
@@ -45,8 +45,8 @@ Check out [iOS Remote Conf](https://allremoteconfs.com/ios-2016)!!!
 
 19:57 - Desk Setups
 
-- [Lifehacker Ikea Desk](http://lifehacker.com/this-diy-office-desk-is-super-sturdy-built-from-ikea-k-1575339847)
-- [Herman Miller](http://www.hermanmiller.com/)
+- [Lifehacker Ikea Desk](https://lifehacker.com/this-diy-office-desk-is-super-sturdy-built-from-ikea-k-1575339847)
+- [Herman Miller](https://www.hermanmiller.com/)
 - [Spotify](https://www.spotify.com/)
 
 26:06 - Coding Music
@@ -55,14 +55,14 @@ Check out [iOS Remote Conf](https://allremoteconfs.com/ios-2016)!!!
 - [Gustav Mahler - Symphony No. 1 - Bernstein · Vienna Philharmonic Orchestra](https://www.youtube.com/watch?v=5c1RDalpXuA) &nbsp;
 - [Nashville (Bill Frisell Album)](<https://en.wikipedia.org/wiki/Nashville_(Bill_Frisell_album)>)
 - [The Masters of Classical Music - Vivaldi](https://itunes.apple.com/us/album/masters-classical-music-vivaldi/id323330076)
-- [White Noise](http://www.tmsoft.com/white-noise/)
+- [White Noise](https://www.tmsoft.com/white-noise/)
 
 30:28 - Miscellaneous Gear
 
 - [PlugBug](https://www.twelvesouth.com/product/plugbug-world)
   Picks
 
-[Open Radar](http://www.openradar.me) (Andrew) Filing radars with Apple (Andrew)[Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks) (Jaim)[Torrentz](http://torrentz.eu) (Chuck) Come see the iPhreaks at [Microsoft Build Conference](https://build.microsoft.com/)! (Chuck)
+[Open Radar](https://www.openradar.me) (Andrew) Filing radars with Apple (Andrew)[Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks) (Jaim)[Torrentz](https://torrentz.eu) (Chuck) Come see the iPhreaks at [Microsoft Build Conference](https://build.microsoft.com/)! (Chuck)
 
 ### Transcript
 

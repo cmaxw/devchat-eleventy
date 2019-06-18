@@ -5,7 +5,7 @@ title: >
 date: 2019-01-15 23:42:35
 episode_number: 034
 duration: 58:11
-audio_url: http://media.devchat.tv/elixir-mix/EMx_034_My_First_Nerves_Project_with_Anders_Smedegaard_Pedersen.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_034_My_First_Nerves_Project_with_Anders_Smedegaard_Pedersen.mp3
 podcast: elixir-mix
 tags: 
   - elixir_mix
@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io) use the code "devchat" for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io) use the code "devchat" for 2 months free on Sentry small plan
 - [TripleByte](https://triplebyte.com/elixir) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 
@@ -27,7 +27,7 @@ Joined by Special Guest: Anders Smedegaard Pedersen
 Anders Smedegaard Pedersen shares how he got into Elixir and his experience joining the elixir community. He shares with the panel his initial frustration with the community and his confusion on the “correct” way to do things. He tells the panel of his experience at elixir conf meeting Claudio Ortolina, the advice he got, and how this led him to his first nerves project. Mark Ericksen and Josh Adams give advice to new elixir developers. The three of them compare umbrella structure and poncho structure. 
 ### **Links**
 
-- [http://erlang.org/doc/apps/jinterface/jinterface\_users\_guide.html](http://erlang.org/doc/apps/jinterface/jinterface_users_guide.html)
+- [https://erlang.org/doc/apps/jinterface/jinterface\_users\_guide.html](https://erlang.org/doc/apps/jinterface/jinterface_users_guide.html)
 - [https://elixirforum.com/t/do-you-really-need-a-database/4567/15](https://elixirforum.com/t/do-you-really-need-a-database/4567/15)
 - [https://smedegaard.io/my-first-nerves-project-pt-2/](https://smedegaard.io/my-first-nerves-project-pt-2/)
 - [ElixirConf 2018- My first Nerves Project Bioreactor - David Schainker](https://www.youtube.com/watch?v=1bQlc-K6vN0)

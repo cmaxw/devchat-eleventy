@@ -30,7 +30,7 @@ tags:
 - [Podcast Motor](https://www.podcastmotor.com/)
   22:45: Podcasting as a self-referral
 - Podcasting to peers vs. to clients
-- [100 Most Trusted People in America](http://www.rd.com/culture/readers-digest-trust-poll-the-100-most-trusted-people-in-america/) (Reader’s Digest)
+- [100 Most Trusted People in America](https://www.rd.com/culture/readers-digest-trust-poll-the-100-most-trusted-people-in-america/) (Reader’s Digest)
   26:20: What to talk about
 - Define your audience
 - Specific questions to ask
@@ -45,7 +45,7 @@ tags:
 - Make sure you’re having fun
 - Pick a focus
 - Making the execution the product
-  Picks:[Ditching Hourly podcast](http://www.ditchinghourly.com/) (Jonathan)[Todd Tresidder on Double Your Freelancing](https://doubleyourfreelancing.com/double-freelancing-podcast-episode-60-todd-tresidder-financial-independence/) (Jonathan)[Stripped, Macy Gray](http://www.chesky.com/album/stripped) (Philip)[The Online Photographer: 1000 Fans](http://theonlinephotographer.typepad.com/the_online_photographer/2009/03/1000-photographic-fansmaybe.html) (Philip)[Podcast Answer Man](http://podcastanswerman.com/) (Charles)[Podcasting A to Z](https://store.podcastanswerman.com/p/atoz) (Charles)[12 Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)[Freelance Remote Conf for 2017](https://allremoteconfs.com/) (Charles)[Hired.com](https://hired.com/)
+  Picks:[Ditching Hourly podcast](https://www.ditchinghourly.com/) (Jonathan)[Todd Tresidder on Double Your Freelancing](https://doubleyourfreelancing.com/double-freelancing-podcast-episode-60-todd-tresidder-financial-independence/) (Jonathan)[Stripped, Macy Gray](https://www.chesky.com/album/stripped) (Philip)[The Online Photographer: 1000 Fans](https://theonlinephotographer.typepad.com/the_online_photographer/2009/03/1000-photographic-fansmaybe.html) (Philip)[Podcast Answer Man](https://podcastanswerman.com/) (Charles)[Podcasting A to Z](https://store.podcastanswerman.com/p/atoz) (Charles)[12 Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)[Freelance Remote Conf for 2017](https://allremoteconfs.com/) (Charles)[Hired.com](https://hired.com/)
 
 ### Transcript
 

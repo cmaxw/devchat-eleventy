@@ -19,7 +19,7 @@ tags:
 
 **Special Guests:** Luke Francl
 
-In this episode of Ruby Rogues, the panel talks to Luke Francl about his article “[Upgrading Rails applications incrementally](http://www.recursion.org/incremental-rails-upgrade/)”. Luke works at GitHub on search and has been there since October 2017. Before working at [GitHub](https://github.com/), he worked at a search startup that was working with [Rails](https://rubyonrails.org/) and [Elasticsearch](https://www.elastic.co/). They talk about things that people take for granted with search, the impending takeover of GitHub from Microsoft, and what open source looks like today. They also touch on the process of getting hired at GitHub, his process for upgrading Rails applications, and more!
+In this episode of Ruby Rogues, the panel talks to Luke Francl about his article “[Upgrading Rails applications incrementally](https://www.recursion.org/incremental-rails-upgrade/)”. Luke works at GitHub on search and has been there since October 2017. Before working at [GitHub](https://github.com/), he worked at a search startup that was working with [Rails](https://rubyonrails.org/) and [Elasticsearch](https://www.elastic.co/). They talk about things that people take for granted with search, the impending takeover of GitHub from Microsoft, and what open source looks like today. They also touch on the process of getting hired at GitHub, his process for upgrading Rails applications, and more!
 
 **In particular, we dive pretty deep on:**
 
@@ -37,11 +37,11 @@ In this episode of Ruby Rogues, the panel talks to Luke Francl about his article
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
 - The GitHub office
 - What was the process like of getting hired at GitHub?
-- [_Build a Query Parser_](http://www.recursion.org/2017/7/1/build-a-query-parser) blog post
+- [_Build a Query Parser_](https://www.recursion.org/2017/7/1/build-a-query-parser) blog post
 - Using his search experience
 - Rails incremental upgrades
 - His process of upgrading Rails applications
-- [_Upgrading a Rails application incrementally_](http://www.recursion.org/incremental-rails-upgrade/)
+- [_Upgrading a Rails application incrementally_](https://www.recursion.org/incremental-rails-upgrade/)
 - Short vs long upgrading process
 - Rails is fairly compatible between versions
 - And much, much more!
@@ -54,11 +54,11 @@ In this episode of Ruby Rogues, the panel talks to Luke Francl about his article
 - [Wordpress](https://wordpress.com/)
 - [Code Sponsor](https://codesponsor.io/)
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
-- [_Build a Query Parser_](http://www.recursion.org/2017/7/1/build-a-query-parser)
-- [_Upgrading a Rails application incrementally_](http://www.recursion.org/incremental-rails-upgrade/)
-- [luke.francl.org](http://luke.francl.org/)
+- [_Build a Query Parser_](https://www.recursion.org/2017/7/1/build-a-query-parser)
+- [_Upgrading a Rails application incrementally_](https://www.recursion.org/incremental-rails-upgrade/)
+- [luke.francl.org](https://luke.francl.org/)
 - [@lof](https://twitter.com/lof)
-- [Luke’s Blog](http://www.recursion.org/)
+- [Luke’s Blog](https://www.recursion.org/)
 - [Luke’s GitHub](https://github.com/look)
 
 **Sponsors**

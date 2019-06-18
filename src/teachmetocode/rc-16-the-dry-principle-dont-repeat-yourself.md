@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-[![](http://localhost/~charleswood/wordpress/wp-content/uploads/2010/01/BuildingSkills-itunes.jpg)](http://localhost/~charleswood/wordpress/wp-content/uploads/2010/01/BuildingSkills-itunes.jpg)The DRY principle is a guiding principle behind frameworks like [Ruby on Rails](http://rubyonrails.org). It's basic tenet as provided by the Pragmatic Programmers is:
+[![](https://localhost/~charleswood/wordpress/wp-content/uploads/2010/01/BuildingSkills-itunes.jpg)](https://localhost/~charleswood/wordpress/wp-content/uploads/2010/01/BuildingSkills-itunes.jpg)The DRY principle is a guiding principle behind frameworks like [Ruby on Rails](https://rubyonrails.org). It's basic tenet as provided by the Pragmatic Programmers is:
 
 > Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
 
@@ -22,4 +22,4 @@ This basically means that between your database schema, code, architecture, etc.
 - Is this the same process in both cases regardless of dependencies?
 - Is there a case where one process will need to be modified to significantly deviate from the other?
 - Am I creating more work by combining these processes than I would by simply maintaining them as they are?
-  I'm fully aware of that after making my decision, I may not get back to modifying this code, so I have to make the best decision I can. The main concern I have is maintainability. If I can maintain things in one place, for example building code generation off of a configuration file that fans out to multiple parts of the system, keeping the implementation details in the config file. (Think about a SOAP WSDL file.) Or if I can build a configuration off of some code implementation. Or I can generate some documentation from the code. I can avoid circumstances where I can break my code in one place by changing it in another. That's the true power of the DRY principle.[Download this Episode](http://media.libsyn.com/media/charlesmaxwood/rc_16_the_dry_principle.mp3)
+  I'm fully aware of that after making my decision, I may not get back to modifying this code, so I have to make the best decision I can. The main concern I have is maintainability. If I can maintain things in one place, for example building code generation off of a configuration file that fans out to multiple parts of the system, keeping the implementation details in the config file. (Think about a SOAP WSDL file.) Or if I can build a configuration off of some code implementation. Or I can generate some documentation from the code. I can avoid circumstances where I can break my code in one place by changing it in another. That's the true power of the DRY principle.[Download this Episode](https://media.libsyn.com/media/charlesmaxwood/rc_16_the_dry_principle.mp3)

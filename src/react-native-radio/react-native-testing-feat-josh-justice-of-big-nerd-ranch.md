@@ -56,7 +56,7 @@ In today’s episode of the React Native Radio podcast, the panel speaks with Jo
 
 - [Big Nerd Ranch](https://www.bignerdranch.com/about/the-team/josh-justice/)
 - [Josh Justice](https://twitter.com/CodingItWrong)&nbsp;
-- [http://blog.cleancoder.com/uncle-bob/2017/01/13/TypesAndTests.html](http://blog.cleancoder.com/uncle-bob/2017/01/13/TypesAndTests.html)
+- [https://blog.cleancoder.com/uncle-bob/2017/01/13/TypesAndTests.html](https://blog.cleancoder.com/uncle-bob/2017/01/13/TypesAndTests.html)
 - [https://www.destroyallsoftware.com/talks/ideology](https://www.destroyallsoftware.com/talks/ideology)
 - [https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1](https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)
 - [https://shift.infinite.red/react-native-faq-8dc5c1083baa](https://shift.infinite.red/react-native-faq-8dc5c1083baa)

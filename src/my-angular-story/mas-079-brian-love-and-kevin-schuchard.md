@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry&nbsp;](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry&nbsp;](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte&nbsp;](https://triplebyte.com/astory)offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Joined By Special Guests:** &nbsp;&nbsp;Brian Love and Kevin Schuchard
@@ -27,7 +27,7 @@ This episode comes to you live from the podcast booth at [ng-conf 2019](https://
 - <u><a href="https://twitter.com/brian_love?lang=en">Brian Love’s Twitter</a></u>
 - [Kevin Schuchard’s Website](https://www.kevinschuchard.com/)
 - [Kevin Schuchard’s Twitter](https://twitter.com/kevinschuchard)
-- [BrieBug](http://blog.briebug.com/building-an-angular-schematic-for-jest-testing)
+- [BrieBug](https://blog.briebug.com/building-an-angular-schematic-for-jest-testing)
 - [DigitalGlobe](https://www.digitalglobe.com/)
 - [A is for Angular by Jo Hanna Pearce](https://www.youtube.com/watch?v=lgGpU_o8Kqw)
 - [ng-conf 2019](https://www.ng-conf.org/)

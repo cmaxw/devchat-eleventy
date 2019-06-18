@@ -12,30 +12,30 @@ tags:
   - podcast
 ---
 
-**Check out** [**RailsClips on Kickstarter**](http://devchat.tv/kickstarter) **!!**
+**Check out** [**RailsClips on Kickstarter**](https://devchat.tv/kickstarter) **!!**
 
 01:41 - Craig McKeachie Introduction
 
-- [<u>Twitter</u>](http://twitter.com/cmckeachie)
-- [<u>Blog</u>](http://www.funnyant.com/)
+- [<u>Twitter</u>](https://twitter.com/cmckeachie)
+- [<u>Blog</u>](https://www.funnyant.com/)
 - [<u>The JavaScript Framework Guide by Craig McKeachie</u>](https://www.funnyant.com/javascript-framework-guide/)
 
 02:07 - Routing
 
-- [<u>UI-Router: Why many developers don’t use AngularJS’s built-in router</u>](http://www.funnyant.com/angularjs-ui-router/)
+- [<u>UI-Router: Why many developers don’t use AngularJS’s built-in router</u>](https://www.funnyant.com/angularjs-ui-router/)
 
 03:48 - Essential Characteristics of a Router
 
 04:53 - Emphasis on the URL
 
-10:03 - [<u>UI Router</u>](http://angular-ui.github.io/ui-router/site/) \> Custom Directives, Includes, or [<u>ngSwitch</u>](https://docs.angularjs.org/api/ng/directive/ngSwitch)
+10:03 - [<u>UI Router</u>](https://angular-ui.github.io/ui-router/site/) \> Custom Directives, Includes, or [<u>ngSwitch</u>](https://docs.angularjs.org/api/ng/directive/ngSwitch)
 
-- [<u>Ember interview with Tom Dale, a Robust Framework</u>](http://www.funnyant.com/ember-js-interview-with-tom-dale/)
+- [<u>Ember interview with Tom Dale, a Robust Framework</u>](https://www.funnyant.com/ember-js-interview-with-tom-dale/)
 - [<u>Nested Views</u>](https://github.com/angular-ui/ui-router/wiki/Nested-States-%26-Nested-Views) / Child Routes
 
 12:06 - Nested Routes
 
-- [<u>How to make Angularjs nested routes?</u>](http://stackoverflow.com/questions/12790075/how-to-make-angularjs-nested-routes)
+- [<u>How to make Angularjs nested routes?</u>](https://stackoverflow.com/questions/12790075/how-to-make-angularjs-nested-routes)
 
 15:09 - Boxes: “Boxes in boxes in boxes”
 
@@ -46,7 +46,7 @@ tags:
 25:28 - Routers in Other Frameworks and the Angular 1.4 Router
 
 - [<u>The new Router for AngularJS by Rob Eisenberg at ng-europe 2014</u>](https://www.youtube.com/watch?v=h1P_Vh4gSQY)
-- [<u>Rob Eisenberg: Angular 2.0 Router Scenarios</u>](http://eisenbergeffect.bluespire.com/angular-2-router-scenarios/) &nbsp;
+- [<u>Rob Eisenberg: Angular 2.0 Router Scenarios</u>](https://eisenbergeffect.bluespire.com/angular-2-router-scenarios/) &nbsp;
 
 27:28 - Page Lifecycle Support
 
@@ -56,11 +56,11 @@ tags:
 
 ### ng-conf News
 
-The Adventures in Angular Crew will be doing a LIVE panel at [<u>ng-conf</u>](http://www.ng-conf.org/) on Friday, March 6th, 2015 during lunchtime at noon!
+The Adventures in Angular Crew will be doing a LIVE panel at [<u>ng-conf</u>](https://www.ng-conf.org/) on Friday, March 6th, 2015 during lunchtime at noon!
 
 Picks
 
-[<u>ng-conf</u>](http://www.ng-conf.org/) (John)[<u>Angular U</u>](https://angularu.com/ng) (John)[<u>ng-vegas</u>](http://www.ng-vegas.org/) (John)[<u>The Way of Kings (The Stormlight Archive, Book 1) by Brandon Sanderson</u>](http://www.amazon.com/Way-Kings-Stormlight-Archive-Book-ebook/dp/B003P2WO5E/ref=sr_1_1?ie=UTF8&qid=1424282511&sr=8-1&keywords=way+of+kings) (Joe)[<u>Craig McKeache's Blog Post - UI-Router: Why many developers don’t use AngularJS’s built-in router</u>](http://www.funnyant.com/angularjs-ui-router/) (Ward)[<u>Ira Glass on Storytelling, part 1 of 4</u>](https://www.youtube.com/watch?v=loxJ3FtCJJA) (Ward)[<u>RailsCasts Kickstarter</u>](http://www.devchat.tv/kickstarter) (Chuck)[<u>Developers’ Box Club</u>](http://www.devboxclub.com/) (Chuck)[<u>Ruby Remote Conf</u>](http://www.rubyremoteconf.com) (Chuck)[<u>A Pirate's Adventure ~ Treasures of the Seven Seas</u>](https://disneyworld.disney.go.com/attractions/magic-kingdom/pirates-adventures/) (Craig)[<u>The Ginormous Unstoppable Angular Resource List of Angular Resources</u>](http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/) (Craig)
+[<u>ng-conf</u>](https://www.ng-conf.org/) (John)[<u>Angular U</u>](https://angularu.com/ng) (John)[<u>ng-vegas</u>](https://www.ng-vegas.org/) (John)[<u>The Way of Kings (The Stormlight Archive, Book 1) by Brandon Sanderson</u>](https://www.amazon.com/Way-Kings-Stormlight-Archive-Book-ebook/dp/B003P2WO5E/ref=sr_1_1?ie=UTF8&qid=1424282511&sr=8-1&keywords=way+of+kings) (Joe)[<u>Craig McKeache's Blog Post - UI-Router: Why many developers don’t use AngularJS’s built-in router</u>](https://www.funnyant.com/angularjs-ui-router/) (Ward)[<u>Ira Glass on Storytelling, part 1 of 4</u>](https://www.youtube.com/watch?v=loxJ3FtCJJA) (Ward)[<u>RailsCasts Kickstarter</u>](https://www.devchat.tv/kickstarter) (Chuck)[<u>Developers’ Box Club</u>](https://www.devboxclub.com/) (Chuck)[<u>Ruby Remote Conf</u>](https://www.rubyremoteconf.com) (Chuck)[<u>A Pirate's Adventure ~ Treasures of the Seven Seas</u>](https://disneyworld.disney.go.com/attractions/magic-kingdom/pirates-adventures/) (Craig)[<u>The Ginormous Unstoppable Angular Resource List of Angular Resources</u>](https://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/) (Craig)
 
 ### Transcript
 

@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-**Panel:&nbsp;** Ward Bell Joe Eames Charles Max Wood **Special Guests: Zack Chapple &&nbsp;Kim Maida** In the episode of Adventures in Angular the panel speaks with Zack Chapple. Zack is a software architect at [Career Builder](https://www.careerbuilder.com), and is the founder and main organizer for [NG Atlanta](http://ng-atl.org). Zack is on the show to talks about the inspiration for NG Atlanta and the origin stories of the conference. Zack describes the details and goals of the conferences concerning diversity, demographics, and technology. Also joining the show is Kim Maida. Kim is the technical content lead at Auth0. Kim talks about the demographics of women and the diversity of the conference speaks and attendees. Zack is on the show to talks about the inspiration for NG Atlanta and the origin stories of the conference. Zack describes the details and goals of the conferences concerning diversity, demographics, and technology. **In particular, we dive pretty deep on:**
+**Panel:&nbsp;** Ward Bell Joe Eames Charles Max Wood **Special Guests: Zack Chapple &&nbsp;Kim Maida** In the episode of Adventures in Angular the panel speaks with Zack Chapple. Zack is a software architect at [Career Builder](https://www.careerbuilder.com), and is the founder and main organizer for [NG Atlanta](https://ng-atl.org). Zack is on the show to talks about the inspiration for NG Atlanta and the origin stories of the conference. Zack describes the details and goals of the conferences concerning diversity, demographics, and technology. Also joining the show is Kim Maida. Kim is the technical content lead at Auth0. Kim talks about the demographics of women and the diversity of the conference speaks and attendees. Zack is on the show to talks about the inspiration for NG Atlanta and the origin stories of the conference. Zack describes the details and goals of the conferences concerning diversity, demographics, and technology. **In particular, we dive pretty deep on:**
 
 - NG Atlanta&nbsp; - Two-day workshop and Two&nbsp; single-track conference
 - Diversity, Inclusion, Angular
@@ -34,22 +34,22 @@ tags:
 - and much more!
   **Links:&nbsp;**
 - https://www.careerbuilder.com
-- [http://ng-atl.org](http://ng-atl.org)
+- [https://ng-atl.org](https://ng-atl.org)
 - @KimMaida
 - @zchapple
 - https://auth0.com/blog/
   **Picks:\*\*** &nbsp;\*\*Charles
-- [Star Wars&nbsp;](http://www.starwars.com)
+- [Star Wars&nbsp;](https://www.starwars.com)
 - Indiegogo for View and React, and Elixir
   Joe
-- [Murder on the Orient Express](http://www.imdb.com/title/tt3402236/)
+- [Murder on the Orient Express](https://www.imdb.com/title/tt3402236/)
   Ward
 - [Translation of the Odyssey&nbsp;](https://www.amazon.com/Odyssey-Homer/dp/0393089053)
   Zach
-- [Vets Who Code](http://vetswhocode.io)
+- [Vets Who Code](https://vetswhocode.io)
 - [Bright](https://io9.gizmodo.com/netflix-is-officially-making-a-sequel-to-bright-but-lea-1821737420)
   Kim
-- [NG Girls](http://ng-girls.org)
-- [Deep Space 9](http://www.imdb.com/title/tt0106145/)
+- [NG Girls](https://ng-girls.org)
+- [Deep Space 9](https://www.imdb.com/title/tt0106145/)
 
 ### Transcript

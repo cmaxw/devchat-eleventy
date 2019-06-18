@@ -44,7 +44,7 @@ tags:
 - Hacker Noon
   Zubair
 - BlockChain 101
-- [Black Panther movie](https://www.google.com/imgres?imgurl=http://t1.gstatic.com/images?q=tbn:ANd9GcQPpcKQ9eWZGxJe6eXyCW91eayLVm4KqruvJz3GP0F2T2w46yKZ&imgrefurl=http://t1.gstatic.com/images?q=tbn:ANd9GcQPpcKQ9eWZGxJe6eXyCW91eayLVm4KqruvJz3GP0F2T2w46yKZ&h=1080&w=720&tbnid=xfFzvCnbpho4jM:&tbnh=186&tbnw=124&usg=__85z75dyY4UMk_yp5BBfjPp2cCQo=&vet=10ahUKEwik-dz7ptPZAhXL24MKHau4DYkQ_B0IsgIwFw..i&docid=i1BiZeFLQLxJwM&itg=1&client=safari&sa=X&ved=0ahUKEwik-dz7ptPZAhXL24MKHau4DYkQ_B0IsgIwFw)
+- [Black Panther movie](https://www.google.com/imgres?imgurl=https://t1.gstatic.com/images?q=tbn:ANd9GcQPpcKQ9eWZGxJe6eXyCW91eayLVm4KqruvJz3GP0F2T2w46yKZ&imgrefurl=https://t1.gstatic.com/images?q=tbn:ANd9GcQPpcKQ9eWZGxJe6eXyCW91eayLVm4KqruvJz3GP0F2T2w46yKZ&h=1080&w=720&tbnid=xfFzvCnbpho4jM:&tbnh=186&tbnw=124&usg=__85z75dyY4UMk_yp5BBfjPp2cCQo=&vet=10ahUKEwik-dz7ptPZAhXL24MKHau4DYkQ_B0IsgIwFw..i&docid=i1BiZeFLQLxJwM&itg=1&client=safari&sa=X&ved=0ahUKEwik-dz7ptPZAhXL24MKHau4DYkQ_B0IsgIwFw)
   Nader
 - [Crush it by Gary Vaynerchuk](https://www.amazon.com/Crush-Time-Cash-Your-Passion/dp/0061914177)
 - [AWS Amplify](https://github.com/aws/aws-amplify)

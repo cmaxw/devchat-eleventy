@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Don’t miss out! Sign up for [Angular Remote Conf](http://www.angularremoteconf.com)!
+Don’t miss out! Sign up for [Angular Remote Conf](https://www.angularremoteconf.com)!
 
 &nbsp;
 
@@ -32,17 +32,17 @@ Don’t miss out! Sign up for [Angular Remote Conf](http://www.angularremoteconf
 
 04:13 - Approachability For New Developers
 
-- [Turing School](http://turing.io/)
+- [Turing School](https://turing.io/)
 
 05:49 - Making Decisions
 
 06:46 - “Syntax”
 
-07:40 - Adding [or](http://edgeapi.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-or)
+07:40 - Adding [or](https://edgeapi.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-or)
 
 - [Matthew Draper](https://github.com/matthewd)
 
-09:36 - [The Attributes API](http://edgeapi.rubyonrails.org/classes/ActiveRecord/Attributes/ClassMethods.html)
+09:36 - [The Attributes API](https://edgeapi.rubyonrails.org/classes/ActiveRecord/Attributes/ClassMethods.html)
 
 12:57 - Serialization & Deserialization
 
@@ -50,30 +50,30 @@ Don’t miss out! Sign up for [Angular Remote Conf](http://www.angularremoteconf
 
 - [The Rails Core Mailing List](https://groups.google.com/forum/#!forum/rubyonrails-core)
 - [The Rails Talk Mailing List](https://groups.google.com/forum/#!forum/rubyonrails-talk)
-- [Stack Overflow](http://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/)
 
 22:46 - preload, eager_load, includes
 
-- [Robert Pankowecki: 3 ways to do eager loading (preloading) in Rails 3 & 4](http://blog.arkency.com/2013/12/rails4-preloading/)
+- [Robert Pankowecki: 3 ways to do eager loading (preloading) in Rails 3 & 4](https://blog.arkency.com/2013/12/rails4-preloading/)
 
 23:59 - prepend
 
-- [Ruby 2 - Module#prepend](http://gshutler.com/2013/04/ruby-2-module-prepend/)
+- [Ruby 2 - Module#prepend](https://gshutler.com/2013/04/ruby-2-module-prepend/)
 
 25:29 - Deconstructing/Constructing APIs
 
-- [or](http://edgeapi.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-or)
-- [where](http://edgeapi.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-where)
+- [or](https://edgeapi.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-or)
+- [where](https://edgeapi.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-where)
 - [Abstract Syntax Tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 - [arel](https://github.com/rails/arel)
 
-28:27 - [bound_attributes()](http://edgeapi.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-bound_attributes)
+28:27 - [bound_attributes()](https://edgeapi.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-bound_attributes)
 
 29:58 - Trying Ideas and Going About Development in Rails
 
 32:01 - Legacy Code
 
-- [Yehuda Katz: Keynote: 10 Years! @ RailsConf 2014](http://confreaks.tv/videos/railsconf2014-keynote-10-years)
+- [Yehuda Katz: Keynote: 10 Years! @ RailsConf 2014](https://confreaks.tv/videos/railsconf2014-keynote-10-years)
 
 33:43 - The Migration Path From Rails 4 =\> 5
 
@@ -90,14 +90,14 @@ Don’t miss out! Sign up for [Angular Remote Conf](http://www.angularremoteconf
 Extras
 
 - [JavaScript Jabber Episode #161: Rust with David Herman](https://devchat.tv/js-jabber/161-jsj-rust-with-david-herman)
-- [The Bike Shed Podcast](http://bikeshed.fm/)
+- [The Bike Shed Podcast](https://bikeshed.fm/)
   - [@\_bikeshed](https://twitter.com/_bikeshed)
-- [RubyConf Portugal](http://rubyconf.pt/)
+- [RubyConf Portugal](https://rubyconf.pt/)
 - [WindyCityRails](https://www.windycityrails.org/)
-- [Sean Griffin: Designing a Great Ruby API - How We're Simplifying Rails 5](http://confreaks.tv/videos/railsconf2015-designing-a-great-ruby-api-how-we-re-simplifying-rails-5)
+- [Sean Griffin: Designing a Great Ruby API - How We're Simplifying Rails 5](https://confreaks.tv/videos/railsconf2015-designing-a-great-ruby-api-how-we-re-simplifying-rails-5)
   &nbsp;Picks
 
-[Maria Matveeva: Design sprints: what are they for?](https://dockyard.com/blog/2015/08/17/design-sprints-what-are-they-for?ref=heydesigner-weekly33) (Saron)[LoneStarRuby](http://www.lonestarruby.org/) (Saron)[Support CodeNewbie!](https://www.patreon.com/codenewbie?ty=h) (Saron)[Mockaroo](https://www.mockaroo.com) (Coraline)[Jim Kazanjian](http://www.kazanjian.net) (Coraline)[Mastermind Groups](http://www.thesuccessalliance.com/what-is-a-mastermind-group.html) (Chuck) Planning (Chuck)[The Rust Programming Language](https://www.rust-lang.org/) (Sean)
+[Maria Matveeva: Design sprints: what are they for?](https://dockyard.com/blog/2015/08/17/design-sprints-what-are-they-for?ref=heydesigner-weekly33) (Saron)[LoneStarRuby](https://www.lonestarruby.org/) (Saron)[Support CodeNewbie!](https://www.patreon.com/codenewbie?ty=h) (Saron)[Mockaroo](https://www.mockaroo.com) (Coraline)[Jim Kazanjian](https://www.kazanjian.net) (Coraline)[Mastermind Groups](https://www.thesuccessalliance.com/what-is-a-mastermind-group.html) (Chuck) Planning (Chuck)[The Rust Programming Language](https://www.rust-lang.org/) (Sean)
 
 ### Transcript
 

@@ -31,8 +31,8 @@ tags:
 - Getting better and better at training
 - Third party help
 - Speaking with training managers and at conferences
-- [lynda.com](http://lynda.com)
-- Books and promotional products on [amazon.com](http://amazon.com)
+- [lynda.com](https://lynda.com)
+- Books and promotional products on [amazon.com](https://amazon.com)
 - Positioning as a trainer
 - Who do I reach out to?
 -

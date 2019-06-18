@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” to get 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” to get 2 months free on Sentry small plan
 - [TripleByte](https://triplebyte.com/rogues) offers a $1000 signing bonus 
 - [CacheFly](https://www.cachefly.com/)
 **Host:** Charles Max Wood **Guest:** Andrew Mason

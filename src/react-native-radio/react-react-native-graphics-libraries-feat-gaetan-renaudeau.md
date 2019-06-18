@@ -27,7 +27,7 @@ tags:
 - [WebGL](https://get.webgl.org/)
 - More functional programming with gl-react
 - [gl-transitions](https://gl-transitions.com/)
-- [com](http://glslsandbox.com/)
+- [com](https://glslsandbox.com/)
 - gl-react allows you to compose the same way as you would in React
 - [React-motion](https://github.com/chenglou/react-motion)
 - What interests you about this paradigm?
@@ -47,18 +47,18 @@ tags:
 - [react-native-view-shot](https://github.com/gre/react-native-view-shot)
 - [OpenGL](https://www.opengl.org/)
 - [gl-react cookbook](https://gl-react-cookbook.surge.sh/)
-- [com](http://glslsandbox.com/)
+- [com](https://glslsandbox.com/)
 - [React-motion](https://github.com/chenglou/react-motion)
 - [gl-transitions](https://gl-transitions.com/)
 - [Gaëtan’s GitHub](https://github.com/gre)
 - [@greweb](https://twitter.com/greweb)
-- [me](http://greweb.me/)
+- [me](https://greweb.me/)
   **Sponsors:**
 - [Linode](https://promo.linode.com/reactnativeradio/)
   **Picks:** Nader
 - [Open GraphQL Medium](https://medium.com/open-graphql)
 - _[Building Serverless Mobile Applications with React Native & AWS by Nader](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)_
-- [Bucharest, Romania](http://romaniatourism.com/Bucharest.html)
+- [Bucharest, Romania](https://romaniatourism.com/Bucharest.html)
 - [Chain React Conference](https://infinite.red/ChainReactConf)
   Gant
 - [Chain React Conference](https://infinite.red/ChainReactConf)

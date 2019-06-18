@@ -50,7 +50,7 @@ Mike’s not contributing to the Sails project at the moment. He has been focusi
 
 ### **[26:45] – What are you working on now?**
 
-**Raise Marketplace** Currently, Mike is taking on a new role as Director of Front-end Engineering at Raise Marketplace. It is a marketplace start-up in Chicago. His focus is rebuilding the front-end of Raise on a micro service Node.js in Go service architecture. They have also been listed to help some folks at Google in the web performance team. They are always hiring. If you are looking for a remote role for a start-up. Feel free to reach out to him on Twitter or on Raise. **ModernWeb** Mike’s side-project now is a website called [ModernWeb.com](http://modernweb.com), where they help connect companies with teams of software developers and tell the stories of those software projects. A lot of developers are great at writing code but are terrible at telling the awesome things that we do. So, ModernWeb exists to tell the stories of development. The great side effect is companies want to work with you when you tell your stories. They help complete that circle. Go over to ModernWeb.com and you can contact them through the website or you can drop him an email at mike@modernweb.com.
+**Raise Marketplace** Currently, Mike is taking on a new role as Director of Front-end Engineering at Raise Marketplace. It is a marketplace start-up in Chicago. His focus is rebuilding the front-end of Raise on a micro service Node.js in Go service architecture. They have also been listed to help some folks at Google in the web performance team. They are always hiring. If you are looking for a remote role for a start-up. Feel free to reach out to him on Twitter or on Raise. **ModernWeb** Mike’s side-project now is a website called [ModernWeb.com](https://modernweb.com), where they help connect companies with teams of software developers and tell the stories of those software projects. A lot of developers are great at writing code but are terrible at telling the awesome things that we do. So, ModernWeb exists to tell the stories of development. The great side effect is companies want to work with you when you tell your stories. They help complete that circle. Go over to ModernWeb.com and you can contact them through the website or you can drop him an email at mike@modernweb.com.
 
 ### **Picks**
 
@@ -61,7 +61,7 @@ Mike’s not contributing to the Sails project at the moment. He has been focusi
 - [App: Life Cycle](https://itunes.apple.com/us/app/life-cycle-track-your-time.../id1064955217?mt=8)
 - [Zapier](https://zapier.com/)
 - [Twitter: @mikehostetler](https://twitter.com/mikehostetler)
-- [Mike-hostetler.com](http://Mike-hostetler.com)
+- [Mike-hostetler.com](https://Mike-hostetler.com)
   **Charles Max Wood**
 - [Talk: Setting up and Contributing to Open-source Projects by Kent C. Dodds](https://devchat.tv/conferences/js-remote-conf-2017)
 - [JavaScript Jabber Slack](https://devchat.tv/javascript-jabber-slack)

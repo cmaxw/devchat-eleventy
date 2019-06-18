@@ -14,30 +14,30 @@ tags:
 
 ### Panel
 
-- Ben Combee ([twitter](https://twitter.com/unwiredben) [github](https://github.com/unwiredben) [blog](http://combee.net/))
+- Ben Combee ([twitter](https://twitter.com/unwiredben) [github](https://github.com/unwiredben) [blog](https://combee.net/))
 - Gray Norton ([twitter](https://twitter.com/graynorton))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Tim Caswell ([twitter](http://twitter.com/creationix/) [github](https://github.com/creationix/) [howtonode.org](http://howtonode.org/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](http://github.com/charlesmaxwood) [Teach Me To Code](http://teachmetocode.com/) [Intro to CoffeeScript](http://introtocoffeescript.eventbrite.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/) [github](https://github.com/creationix/) [howtonode.org](https://howtonode.org/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/charlesmaxwood) [Teach Me To Code](https://teachmetocode.com/) [Intro to CoffeeScript](https://introtocoffeescript.eventbrite.com/))
 
 ### Discussion
 
-02:38 - enyo.js ([website](http://enyojs.com/) [twitter](https://twitter.com/enyojs) [github](https://github.com/enyojs/enyo))
+02:38 - enyo.js ([website](https://enyojs.com/) [twitter](https://twitter.com/enyojs) [github](https://github.com/enyojs/enyo))
 
-- [Open webOS](http://www.openwebosproject.org/)
-- [Mojo](http://mojo.codeplex.com/)
+- [Open webOS](https://www.openwebosproject.org/)
+- [Mojo](https://mojo.codeplex.com/)
 - [Ares](https://ares.palm.com/Ares/login.html) ([github](https://github.com/enyojs/ares-project))
 -
 
 [ember.js](https://github.com/emberjs/ember.js)
 05:25 - Design 09:08 - Moving enyo to desktop development
 
-- [Windows 8](http://windows.microsoft.com/en-US/windows-8/release-preview)
+- [Windows 8](https://windows.microsoft.com/en-US/windows-8/release-preview)
 - Targeting mobile devices: phones and tablets
   11:23 - Making enyo work across different form factors 14:46 - Browser compatability
 - 16:08 - Testing
-  [HP Enterprise Services](http://en.wikipedia.org/wiki/HP_Enterprise_Services)
+  [HP Enterprise Services](https://en.wikipedia.org/wiki/HP_Enterprise_Services)
 - 19:03 - Why pick enyo?
 - [Tweetdeck](https://twitter.com/TweetDeck)
   21:35 - Desktop versus Native apps
@@ -51,31 +51,31 @@ Keyboards and mice versus fingers
 
 - Touch
   35:58 - Themes 37:19 - Modularly designed application
-- [Enyo 2.0 Sampler](http://enyojs.com/sampler/debug.html)
+- [Enyo 2.0 Sampler](https://enyojs.com/sampler/debug.html)
   38:28 - Coming from a Palm/webOS-based background 40:26 - Learning enyo.js
-- [enyojs.com/docs](http://enyojs.com/docs/)
+- [enyojs.com/docs](https://enyojs.com/docs/)
   43:19 - Testing frameworks
-- [Jasmine](http://pivotal.github.com/jasmine/)
-  44:43 - [Contributions](http://enyojs.com/gallery/)
+- [Jasmine](https://pivotal.github.com/jasmine/)
+  44:43 - [Contributions](https://enyojs.com/gallery/)
 
 ### Picks
 
-- [Things I wish I knew about MongoDB a year ago: Simon Maynard](http://snmaynard.com/2012/10/17/things-i-wish-i-knew-about-mongodb-a-year-ago/) (Jamison)
+- [Things I wish I knew about MongoDB a year ago: Simon Maynard](https://snmaynard.com/2012/10/17/things-i-wish-i-knew-about-mongodb-a-year-ago/) (Jamison)
 - [You’re Missing the Point of Promises: Domenic Denicola](https://gist.github.com/3889970)(Jamison)
-- [Mini MK802 Android](http://www.amazon.com/gp/product/B008F5NSLU/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008F5NSLU&linkCode=as2&tag=chamaxwoo-20) (Tim)
-- [Domo](http://www.domo.com/company/careers) (Joe)
-- [XCOM](http://www.xcom.com/enemyunknown/entry) (Joe)
+- [Mini MK802 Android](https://www.amazon.com/gp/product/B008F5NSLU/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008F5NSLU&linkCode=as2&tag=chamaxwoo-20) (Tim)
+- [Domo](https://www.domo.com/company/careers) (Joe)
+- [XCOM](https://www.xcom.com/enemyunknown/entry) (Joe)
 - [Kingdom Rush](https://itunes.apple.com/us/app/kingdom-rush-hd/id489265199?mt=8) (Joe)
-- [The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series)](http://www.amazon.com/gp/product/0137081073/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0137081073&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [Tweetbot](http://tapbots.com/software/tweetbot/mac/) (Chuck)
-- [Shure SM58-CN Cardroid Dynamic Vocal Microphone](http://www.amazon.com/gp/product/B00015H0X4/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00015H0X4&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [JVC HA-V570 Supra-Aural Headphones](http://www.amazon.com/gp/product/B0002I5RI0/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002I5RI0&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Griffin 7725-IUAI iMic USB Audio Interface](http://www.amazon.com/gp/product/B003Y5D776/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003Y5D776&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Parrot AR.Drone](http://ardrone2.parrot.com/) (Ben)
-- [Video Games Hot Dog Podcast](http://videogameshotdog.com/)(Ben)
-- [Flint](http://giantcomet.com/flint) (Gray)
-- [Gitbox](http://www.gitboxapp.com/)(Gray)
-- [Stories I Only Tell My Friends: Rob Lowe](http://www.amazon.com/gp/product/B006W3Y5F0/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006W3Y5F0&linkCode=as2&tag=chamaxwoo-20) (Gray)
+- [The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series)](https://www.amazon.com/gp/product/0137081073/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0137081073&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [Tweetbot](https://tapbots.com/software/tweetbot/mac/) (Chuck)
+- [Shure SM58-CN Cardroid Dynamic Vocal Microphone](https://www.amazon.com/gp/product/B00015H0X4/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00015H0X4&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [JVC HA-V570 Supra-Aural Headphones](https://www.amazon.com/gp/product/B0002I5RI0/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002I5RI0&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Griffin 7725-IUAI iMic USB Audio Interface](https://www.amazon.com/gp/product/B003Y5D776/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003Y5D776&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Parrot AR.Drone](https://ardrone2.parrot.com/) (Ben)
+- [Video Games Hot Dog Podcast](https://videogameshotdog.com/)(Ben)
+- [Flint](https://giantcomet.com/flint) (Gray)
+- [Gitbox](https://www.gitboxapp.com/)(Gray)
+- [Stories I Only Tell My Friends: Rob Lowe](https://www.amazon.com/gp/product/B006W3Y5F0/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006W3Y5F0&linkCode=as2&tag=chamaxwoo-20) (Gray)
 
 ### Transcript
 

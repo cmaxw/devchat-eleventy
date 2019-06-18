@@ -71,7 +71,7 @@ Panelist talks about tech specs, code writing, and learning projects.
 
 21:00 – Andrew: Whenever there was complicated “something” at work – I was the person to go to.
 
-As I started to do it more and more I saw patterns in the output. Things were kind of predictable, and how to format things. It synchronizes weird. What would I do to write this task? Researched. There are 2 tools = [LEEX](http://erlang.org/doc/man/leex.html) and [YECC](http://erlang.org/doc/man/yecc.html). If you have 2 files in your source directory...
+As I started to do it more and more I saw patterns in the output. Things were kind of predictable, and how to format things. It synchronizes weird. What would I do to write this task? Researched. There are 2 tools = [LEEX](https://erlang.org/doc/man/leex.html) and [YECC](https://erlang.org/doc/man/yecc.html). If you have 2 files in your source directory...
 
 22:56 – Advertisement – [Digital Ocean](https://www.digitalocean.com/)
 
@@ -155,16 +155,16 @@ Andrew: We have enjoyed our time in Elixir. It’s nice.
 
 47:01 – Picks!
 
-47:05 – Advertisement – [Code Badges](http://codebadge.org/)
+47:05 – Advertisement – [Code Badges](https://codebadge.org/)
 
 **Links:**
 
 - [Andrew Summers’ Twitter](https://twitter.com/_asummers)
 - [Credo](https://github.com/rrrene/credo)
-- [Erlang](http://erlang.org/doc/man/code.html)
+- [Erlang](https://erlang.org/doc/man/code.html)
 - [Dialyxir](https://github.com/jeremyjh/dialyxir)
-- [LEEX](http://erlang.org/doc/man/leex.html)
-- [YECC](http://erlang.org/doc/man/yecc.html)
+- [LEEX](https://erlang.org/doc/man/leex.html)
+- [YECC](https://erlang.org/doc/man/yecc.html)
 - [Credo](https://github.com/rrrene/credo)
 - [ERLEX](https://github.com/asummers/erlex)
 - [TypeSpecs](https://hexdocs.pm/elixir/typespecs.html)
@@ -178,9 +178,9 @@ Andrew: We have enjoyed our time in Elixir. It’s nice.
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badges](http://codebadge.org/)
+- [Code Badges](https://codebadge.org/)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**
@@ -198,7 +198,7 @@ Andrew: We have enjoyed our time in Elixir. It’s nice.
 **Charles&nbsp;**
 
 - [Launch by Jeff Walker](https://www.audible.com/pd/Launch-Audiobook/B01ETNAEE0?source_code=GO1GB907OSH060513&gclid=Cj0KCQjw_7HdBRDPARIsAN_ltcLGbGMYb5b6fSGgPXj19xLTJ8puo1yq6lrFAy4Yb9lpmN19Y2XfRJoaAi-OEALw_wcB&gclsrc=aw.ds)
-- [Downcast](http://www.downcastapp.com)
+- [Downcast](https://www.downcastapp.com)
 
 **Andrew**
 

@@ -19,40 +19,40 @@ Don’t forget to check out [Angular Remote Conf](https://angularremoteconf.com/
 02:29 - Aysegul Yonet Introduction
 
 - [Twitter](https://twitter.com/AysegulYonet)
-- [AnnieCannons](http://anniecannons.com/)
+- [AnnieCannons](https://anniecannons.com/)
 
-02:51 - [D3.js](http://d3js.org/)
+02:51 - [D3.js](https://d3js.org/)
 
 04:29 - Aysegul’s Background in Teaching Computing and Social Interest
 
 - [San Quentin](https://en.wikipedia.org/wiki/San_Quentin_State_Prison)
 - [Girl Develop It](https://www.girldevelopit.com/)
-- [Black Girls Code](http://www.blackgirlscode.com/)
+- [Black Girls Code](https://www.blackgirlscode.com/)
 - [Women Who Code](https://www.womenwhocode.com/)
-- [Hack Reactor](http://www.hackreactor.com/)
+- [Hack Reactor](https://www.hackreactor.com/)
   - [The Last Mile Organization](https://thelastmile.org/)
-- [AnnieCannons](http://anniecannons.com/)
+- [AnnieCannons](https://anniecannons.com/)
 
 09:08 - Using D3
 
 - [The D3 Gallery](https://github.com/mbostock/d3/wiki/Gallery)
-- [Pens tagged 'd3' on CodePen](http://codepen.io/tag/d3/)
+- [Pens tagged 'd3' on CodePen](https://codepen.io/tag/d3/)
 
 11:49 - Angular + D3
 
-- [Aysegul Yonet: Creating D3 Components with Angular Slides (Angular U Conference)](http://yonet.github.io/angularU-d3/#/)
+- [Aysegul Yonet: Creating D3 Components with Angular Slides (Angular U Conference)](https://yonet.github.io/angularU-d3/#/)
 
 12:49 - Directives
 
-- [Angular-nvD3](http://krispo.github.io/angular-nvd3/)
+- [Angular-nvD3](https://krispo.github.io/angular-nvd3/)
 
 17:17 - Visualization
 
-- [Creating multiple charts inside ng-repeat with Angular-nvD3 (Plunk)](http://plnkr.co/edit/qFa4UL?p=preview)
+- [Creating multiple charts inside ng-repeat with Angular-nvD3 (Plunk)](https://plnkr.co/edit/qFa4UL?p=preview)
 
 20:06 - Other Uses for D3
 
-- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [A Visual Introduction to Machine Learning](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 23:51 - Mind Blowing Aspects of D3
 
@@ -64,12 +64,12 @@ Don’t forget to check out [Angular Remote Conf](https://angularremoteconf.com/
 
 29:42 - The Learning Curve and Getting Started (Resources)
 
-- [SFHTML5](http://www.meetup.com/sfhtml5/) Presentations from 8/26/2015
+- [SFHTML5](https://www.meetup.com/sfhtml5/) Presentations from 8/26/2015
   - [Elijah Meeks: Challenges of Complex Data Visualization in D3](https://www.youtube.com/watch?v=yEVbE8ZQsD4)
   - [Christoph Holz: visalyze D3 Visualization to gamify analytics](https://www.youtube.com/watch?v=AF8-KXnzngI)
   - [Ali Almossawi: D3 in Practice](https://www.youtube.com/watch?v=ZQQS3ggSySU)
   - [Ayesegul Yonet: Introduction to working with D3.js](https://www.youtube.com/watch?v=DTjLcLytNt8)&nbsp;&nbsp;
-- [Bay Area d3 Meetup](http://www.meetup.com/bay-area-d3-user-group/)
+- [Bay Area d3 Meetup](https://www.meetup.com/bay-area-d3-user-group/)
   - [YouTube Channel](https://www.youtube.com/playlist?list=PLI_sHchSmdCCRq86X778ZpIlbOPCUF0MF)
 
 30:42 - D3 + Angular 2
@@ -79,11 +79,11 @@ Don’t forget to check out [Angular Remote Conf](https://angularremoteconf.com/
 
 Special Offer!
 
-- Get [codeclass: Data vizualization with D3](http://d3.codeclass.io) for 20% off with the code **AYSEGUL**
+- Get [codeclass: Data vizualization with D3](https://d3.codeclass.io) for 20% off with the code **AYSEGUL**
 - Get your ticket(s) to [Angular Remote Conf](https://angularremoteconf.com/) for 25% off with the code **ADVENTURE** or **ADVENTURES**
   Picks
 
-[Starbucks Mango Black Tea Lemonade](http://www.starbucks.com/menu/drinks/tea/mango-black-tea-lemonade) (Lukas)[Rosie Revere, Engineer by Andrea Beaty](http://www.amazon.com/gp/product/1419708457/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1419708457&linkCode=as2&tag=chamaxwoo-20&linkId=DVDP6FN7ID5BBS4N) (Lukas)[Iggy Peck, Architect by Andrea Beaty](http://www.amazon.com/gp/product/081091106X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081091106X&linkCode=as2&tag=chamaxwoo-20&linkId=H2O7GRNXAXI4X7ZD) (Lukas)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[Orphan Black](http://www.imdb.com/title/tt2234222/) (Chuck)[Coworking](https://en.wikipedia.org/wiki/Coworking) (Chuck)[Dashing D3.js](https://www.dashingd3js.com/) (Aysegul)[The Bletchley Circle](http://www.imdb.com/title/tt2275990/) (Aysegul)
+[Starbucks Mango Black Tea Lemonade](https://www.starbucks.com/menu/drinks/tea/mango-black-tea-lemonade) (Lukas)[Rosie Revere, Engineer by Andrea Beaty](https://www.amazon.com/gp/product/1419708457/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1419708457&linkCode=as2&tag=chamaxwoo-20&linkId=DVDP6FN7ID5BBS4N) (Lukas)[Iggy Peck, Architect by Andrea Beaty](https://www.amazon.com/gp/product/081091106X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081091106X&linkCode=as2&tag=chamaxwoo-20&linkId=H2O7GRNXAXI4X7ZD) (Lukas)[Angular Remote Conf](https://angularremoteconf.com/) (Chuck)[Orphan Black](https://www.imdb.com/title/tt2234222/) (Chuck)[Coworking](https://en.wikipedia.org/wiki/Coworking) (Chuck)[Dashing D3.js](https://www.dashingd3js.com/) (Aysegul)[The Bletchley Circle](https://www.imdb.com/title/tt2275990/) (Aysegul)
 
 ### Transcript
 

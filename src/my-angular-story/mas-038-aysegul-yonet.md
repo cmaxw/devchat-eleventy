@@ -34,7 +34,7 @@ This week on My Angular Story, Charles speaks with Aysegul Yonet. Aysegul is a G
 - How did you find [Angular](https://angular.io/)?
 - First project as a developer with Angular
 - Teaching for [Women Who Code](https://www.womenwhocode.com/)
-- [Rails Girls](http://railsgirls.com/) at [Google I/O](https://events.google.com/io/)
+- [Rails Girls](https://railsgirls.com/) at [Google I/O](https://events.google.com/io/)
 - What did you do to advance your skills?
 - Teaching to learn yourself
 - The importance of conferences
@@ -56,7 +56,7 @@ This week on My Angular Story, Charles speaks with Aysegul Yonet. Aysegul is a G
 - [Python](https://www.python.org/)
 - [Hack Reactor](https://www.hackreactor.com/)
 - [Women Who Code](https://www.womenwhocode.com/)
-- [Rails Girls](http://railsgirls.com/)
+- [Rails Girls](https://railsgirls.com/)
 - [Google I/O](https://events.google.com/io/)
 - [GDE](https://developers.google.com/experts/become-an-expert)
 - [@AysSomething](https://twitter.com/ayssomething?lang=en)

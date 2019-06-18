@@ -20,12 +20,12 @@ tags:
 
 **Special Guest:** Leo Dion
 
-In today’s episode, the iPhreaks panel talk to Leo Dion about MicroConf and writing apps for Apple Watch. Leo has been a developer for almost two decades and six years ago he created his own company called [BrightDigit](http://brightdigit.com/). He mostly focuses his time and energy to the Apple space and enjoys developing apps for the iPhone, iPad, and the Apple Watch. They talk about what happens at [MicroConf](https://www.microconf.com/), what he is working on now, tips for starting a meetup, and more!
+In today’s episode, the iPhreaks panel talk to Leo Dion about MicroConf and writing apps for Apple Watch. Leo has been a developer for almost two decades and six years ago he created his own company called [BrightDigit](https://brightdigit.com/). He mostly focuses his time and energy to the Apple space and enjoys developing apps for the iPhone, iPad, and the Apple Watch. They talk about what happens at [MicroConf](https://www.microconf.com/), what he is working on now, tips for starting a meetup, and more!
 
 **In particular, we dive pretty deep on:**
 
 - Leo intro
-- [BrightDigit](http://brightdigit.com/)
+- [BrightDigit](https://brightdigit.com/)
 - [MicroConf](https://www.microconf.com/)
 - What happens at MicroConf?
 - [_Startups for the Rest of Us_ Podcast](https://www.startupsfortherestofus.com/)
@@ -49,7 +49,7 @@ In today’s episode, the iPhreaks panel talk to Leo Dion about MicroConf and wr
 **Links:**
 
 - [MicroConf](https://www.microconf.com/)
-- [BrightDigit](http://brightdigit.com/)
+- [BrightDigit](https://brightdigit.com/)
 - [_Startups for the Rest of Us_ Podcast](https://www.startupsfortherestofus.com/)
 - [@leogdion](https://twitter.com/leogdion)
 - [leogdion.name](https://leogdion.name/)

@@ -31,7 +31,7 @@ tags:
 - SQLite forces all code into the public domain
 - Corporate fork (Twitter forking Ruby Enterprise Edition)
 - Ruby Enterprise Edition forked from Ruby by Phusion
-- [Matz Interview on Heroku](http://blog.new-bamboo.co.uk/2011/7/12/translation-of-matz-q-a-article-after-joining-heroku)
+- [Matz Interview on Heroku](https://blog.new-bamboo.co.uk/2011/7/12/translation-of-matz-q-a-article-after-joining-heroku)
 - Better process
 - Corporate vs Community Kerfuffles
 - What should Ruby do with its new resources?

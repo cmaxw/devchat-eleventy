@@ -30,7 +30,7 @@ As Jordan got further and further, he worked a lot in the energy sector, includi
 
 #### What have you done in Ruby?
 
-Jordan talks about switching all of his work over to Ruby, including doing work for [Quip](https://getquip.com/), the toothbrush service. He has also done work for EventBrite on one of their Micro Services. He soon after quit his work to start [devcamp.com](http://devcamp.com) and launch his own learning platform. He says that he learns best by teaching so he started to create courses, usually for himself. He self-published on platforms like [Udemy](https://Udemy.com/), but was also hired to create courses for [FlatIron](https://flatironschool.com/) School in New York. His time was spent less in development and more in creating courses.
+Jordan talks about switching all of his work over to Ruby, including doing work for [Quip](https://getquip.com/), the toothbrush service. He has also done work for EventBrite on one of their Micro Services. He soon after quit his work to start [devcamp.com](https://devcamp.com) and launch his own learning platform. He says that he learns best by teaching so he started to create courses, usually for himself. He self-published on platforms like [Udemy](https://Udemy.com/), but was also hired to create courses for [FlatIron](https://flatironschool.com/) School in New York. His time was spent less in development and more in creating courses.
 
 #### What makes the DevCamp.com different? What was your inspiration?
 
@@ -62,7 +62,7 @@ Charles suggests that artificial intelligence, augmented reality, and Iot are re
 
 ##### Jordan
 
-[Devcamp](http://devcamp.com)[Bottega](http://bottega.tech/)[Tim and Ruby Topaz](https://github.com/topazproject/topaz)
+[Devcamp](https://devcamp.com)[Bottega](https://bottega.tech/)[Tim and Ruby Topaz](https://github.com/topazproject/topaz)
 
 ##### Charles
 

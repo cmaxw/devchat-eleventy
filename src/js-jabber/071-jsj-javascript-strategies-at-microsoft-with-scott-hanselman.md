@@ -14,10 +14,10 @@ tags:
 
 ### Panel
 
-- Scott Hanselman ([twitter](https://twitter.com/shanselman) [github](https://github.com/shanselman) [blog](http://www.hanselman.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Scott Hanselman ([twitter](https://twitter.com/shanselman) [github](https://github.com/shanselman) [blog](https://www.hanselman.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
@@ -27,35 +27,35 @@ tags:
 - [Azure](https://www.windowsazure.com/) and Web Tools
 - [ASP.NET](https://www.asp.net/) Runtime
   03:17 - Microsoft and JavaScript
-- [Microsoft Build Developer Conference](http://buildwindows.com/)
-- [Scott Hanselman: Angle Brackets, Curly Braces, One ASP.NET and the Cloud](http://channel9.msdn.com/Events/Build/2012/3-027)
-- [Json.NET](http://james.newtonking.com/projects/json-net.aspx)
+- [Microsoft Build Developer Conference](https://buildwindows.com/)
+- [Scott Hanselman: Angle Brackets, Curly Braces, One ASP.NET and the Cloud](https://channel9.msdn.com/Events/Build/2012/3-027)
+- [Json.NET](https://james.newtonking.com/projects/json-net.aspx)
   13:40 - The Cost of Web Development
 - Tooling
-- [Sublime Text](http://www.sublimetext.com/)
-- [Visual Studio](http://www.microsoft.com/visualstudio/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Visual Studio](https://www.microsoft.com/visualstudio/)
   18:17 - Libraries and Frameworks
-- [Knockout](http://knockoutjs.com/)
+- [Knockout](https://knockoutjs.com/)
   24:14 - Innovation in Software
-- [Befunge](http://esolangs.org/wiki/Befunge)
+- [Befunge](https://esolangs.org/wiki/Befunge)
   29:48 - Apps Supporting JavaScript
-- [Create your first Windows Store app using JavaScript (Windows)](http://msdn.microsoft.com/en-us/library/windows/apps/br211385.aspx)
-- [Visual Studio Express](http://www.microsoft.com/visualstudio/eng/products/visual-studio-express-products)
-  34:14 - Windows and [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-- [Chakra](<http://en.wikipedia.org/wiki/Chakra_(JScript_engine)>)
+- [Create your first Windows Store app using JavaScript (Windows)](https://msdn.microsoft.com/en-us/library/windows/apps/br211385.aspx)
+- [Visual Studio Express](https://www.microsoft.com/visualstudio/eng/products/visual-studio-express-products)
+  34:14 - Windows and [Internet Explorer](https://windows.microsoft.com/en-us/internet-explorer/download-ie)
+- [Chakra](<https://en.wikipedia.org/wiki/Chakra_(JScript_engine)>)
   40:42 - Microsoft’s Attitude Towards JavaScript
-- [Scott Hanselman: Azure for the non-Microsoft Person - How and Why?](http://www.youtube.com/watch?v=e1-lLgfB6y0)
-  45:58 - Open Source 49:12 - [asm.js](http://asmjs.org/)52:05 - [Angle Brackets Conference](http://anglebrackets.org/)
+- [Scott Hanselman: Azure for the non-Microsoft Person - How and Why?](https://www.youtube.com/watch?v=e1-lLgfB6y0)
+  45:58 - Open Source 49:12 - [asm.js](https://asmjs.org/)52:05 - [Angle Brackets Conference](https://anglebrackets.org/)
 
 ### Picks
 
-- [The Wolverine](http://www.imdb.com/title/tt1430132/?ref_=sr_1) (Joe)
-- [ng-conf](http://www.ng-conf.org/) (Joe)
-- [Cancún](http://en.wikipedia.org/wiki/Canc%C3%BAn) (Aaron)
+- [The Wolverine](https://www.imdb.com/title/tt1430132/?ref_=sr_1) (Joe)
+- [ng-conf](https://www.ng-conf.org/) (Joe)
+- [Cancún](https://en.wikipedia.org/wiki/Canc%C3%BAn) (Aaron)
 - [@ngconf](https://twitter.com/ngconf) (Aaron)
-- [Wistia](http://wistia.com/) (Chuck)
-- [Mumford And Sons 'Hopeless Wanderer' Music Video](http://www.uproxx.com/tv/2013/08/watch-jason-bateman-ed-helms-jason-sudeikis-will-forte-fill-in-for-mumford-sons/) (Scott)
-- [Beyoncé Joins the Short Hair Club](http://newsfeed.time.com/2013/08/08/pixie-dream-girls-beyonce-joins-the-short-hair-club/) (Scott)
+- [Wistia](https://wistia.com/) (Chuck)
+- [Mumford And Sons 'Hopeless Wanderer' Music Video](https://www.uproxx.com/tv/2013/08/watch-jason-bateman-ed-helms-jason-sudeikis-will-forte-fill-in-for-mumford-sons/) (Scott)
+- [Beyoncé Joins the Short Hair Club](https://newsfeed.time.com/2013/08/08/pixie-dream-girls-beyonce-joins-the-short-hair-club/) (Scott)
 
 ### Next Week
 

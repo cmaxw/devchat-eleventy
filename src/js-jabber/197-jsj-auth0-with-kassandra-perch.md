@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/nodebotanist)
 - [GitHub](https://github.com/nodebotanist)
-- [Blog](http://nodebotani.st/)
+- [Blog](https://nodebotani.st/)
 
 02:46 - [Auth0](https://auth0.com/)
 
@@ -30,9 +30,9 @@ tags:
 
 - How Authentication Works
 
-12:47 - [OAuth](http://oauth.net/)
+12:47 - [OAuth](https://oauth.net/)
 
-- [OpenID Connect](http://openid.net/connect/)
+- [OpenID Connect](https://openid.net/connect/)
 
 14:12 - Identification, Authorization, and Authentication
 
@@ -48,11 +48,11 @@ tags:
 
 24:25 - Documentation and Education
 
-36:42 - The Value of [OpenID Connect](http://openid.net/connect/)
+36:42 - The Value of [OpenID Connect](https://openid.net/connect/)
 
 38:25 - IdentityPicks
 
-[Add AJ on Tri-Force Heroes](https://twitter.com/coolaj86/status/684584569819938816) (AJ)[Making a Murderer](https://www.netflix.com/title/80000770) (AJ)[Mazie's Girl Scout Digital Cookie Site](https://digitalcookie.girlscouts.org/scout/mazie7271) (Aimee)[React (with Introduction to Flux Architecture)](https://frontendmasters.com/courses/react/) (Aimee)[Jordan Scales: Let’s Make A Webpage In 2016](https://medium.com/friendship-dot-js/let-s-make-a-webpage-in-2016-55a673ac791c#.l1hl32cp7) (Jamison)[building-brooklynjs](https://github.com/jed/building-brooklynjs) (Jamison)[Cult of the Party Parrot](http://cultofthepartyparrot.com/) (Jamison)[CSS-Tricks](https://css-tricks.com/) (Jamison)[Auth0 Docs](https://auth0.com/docs) (Kassandra)[OpenID Foundation](https://openid.net) (Kassandra)[Mario & Luigi: Paper Jam](http://marioandluigipaperjam.nintendo.com/) (Kassandra)
+[Add AJ on Tri-Force Heroes](https://twitter.com/coolaj86/status/684584569819938816) (AJ)[Making a Murderer](https://www.netflix.com/title/80000770) (AJ)[Mazie's Girl Scout Digital Cookie Site](https://digitalcookie.girlscouts.org/scout/mazie7271) (Aimee)[React (with Introduction to Flux Architecture)](https://frontendmasters.com/courses/react/) (Aimee)[Jordan Scales: Let’s Make A Webpage In 2016](https://medium.com/friendship-dot-js/let-s-make-a-webpage-in-2016-55a673ac791c#.l1hl32cp7) (Jamison)[building-brooklynjs](https://github.com/jed/building-brooklynjs) (Jamison)[Cult of the Party Parrot](https://cultofthepartyparrot.com/) (Jamison)[CSS-Tricks](https://css-tricks.com/) (Jamison)[Auth0 Docs](https://auth0.com/docs) (Kassandra)[OpenID Foundation](https://openid.net) (Kassandra)[Mario & Luigi: Paper Jam](https://marioandluigipaperjam.nintendo.com/) (Kassandra)
 
 ### Transcript
 

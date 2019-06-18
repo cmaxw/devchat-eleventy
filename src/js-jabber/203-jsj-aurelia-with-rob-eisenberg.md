@@ -20,11 +20,11 @@ Check out [React Remote Conf!](https://allremoteconfs.com/react-2016)
 
 - [Twitter](https://twitter.com/EisenbergEffect)
 - [GitHub](https://github.com/EisenbergEffect)
-- [Blog](http://robeisenberg.com/)
+- [Blog](https://robeisenberg.com/)
 
-02:55 - [Aurelia](http://aurelia.io/)
+02:55 - [Aurelia](https://aurelia.io/)
 
-- [Blog](http://blog.durandal.io/)
+- [Blog](https://blog.durandal.io/)
 
 03:43 - Selling People on Aurelia vs Other Frameworks
 
@@ -36,7 +36,7 @@ Check out [React Remote Conf!](https://allremoteconfs.com/react-2016)
 
 18:46 - Specific Uses
 
-23:03 - [Durandal](http://durandaljs.com/)
+23:03 - [Durandal](https://durandaljs.com/)
 
 25:26 - Aurelia and Angular 2
 
@@ -67,10 +67,10 @@ Check out [React Remote Conf!](https://allremoteconfs.com/react-2016)
 
 01:01:29 - Data Management
 
-- [Breeze.js](http://www.getbreezenow.com/)
+- [Breeze.js](https://www.getbreezenow.com/)
   Picks
 
-Crispy Bacon (Joe)[A Gentleman’s Guide to Love and Murder](http://www.agentlemansguidebroadway.com/) (Joe)[Jamison Dance: Rethinking All Practices: Building Applications in Elm @ React.js Conf 2016](https://www.youtube.com/watch?v=txxKx_I39a8) (Joe)[Vessel | Lorn](https://lorn.bandcamp.com/album/vessel) (Jamison)[The Moon Rang Like a Bell | Hundred Waters](http://pitchfork.com/reviews/albums/19311-hundred-waters-the-moon-rang-like-a-bell/) (Jamison)[The Top 10 Episodes of JavaScript Jabber](https://devchat.tv/js-jabber/) (Chuck)[Amazon Prime](http://www.amazon.com/Amazon-Prime-One-Year-Membership/dp/B00DBYBNEE) (Chuck)[WiiU](http://www.nintendo.com/wiiu) (Chuck)[Sketch](https://www.sketchapp.com/) (Rob)[Zeplin](https://zeplin.io/) (Rob)[servo](https://github.com/servo/servo) (Rob)
+Crispy Bacon (Joe)[A Gentleman’s Guide to Love and Murder](https://www.agentlemansguidebroadway.com/) (Joe)[Jamison Dance: Rethinking All Practices: Building Applications in Elm @ React.js Conf 2016](https://www.youtube.com/watch?v=txxKx_I39a8) (Joe)[Vessel | Lorn](https://lorn.bandcamp.com/album/vessel) (Jamison)[The Moon Rang Like a Bell | Hundred Waters](https://pitchfork.com/reviews/albums/19311-hundred-waters-the-moon-rang-like-a-bell/) (Jamison)[The Top 10 Episodes of JavaScript Jabber](https://devchat.tv/js-jabber/) (Chuck)[Amazon Prime](https://www.amazon.com/Amazon-Prime-One-Year-Membership/dp/B00DBYBNEE) (Chuck)[WiiU](https://www.nintendo.com/wiiu) (Chuck)[Sketch](https://www.sketchapp.com/) (Rob)[Zeplin](https://zeplin.io/) (Rob)[servo](https://github.com/servo/servo) (Rob)
 
 ### Transcript
 

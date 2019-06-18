@@ -18,18 +18,18 @@ tags:
 
 **Guest:** Jacob Stoebel
 
-This week on My Ruby Story, Charles talks to Jacob Stoebel. Jacob is a [Ruby](https://www.ruby-lang.org/en/) and [JavaScript](https://www.javascript.com/) developer and he works for a small company that works with publishers. Jacob first got into programming in high school when he took a computer science class where he messed around with [Pascal](http://www.pascal-programming.info/index.php) and C++. He got back into programming after college when he went back to school for programming to try to make his data entry job easier. They talk about his journey pushing the boundaries with technology, how he went about starting his programming career, and more!
+This week on My Ruby Story, Charles talks to Jacob Stoebel. Jacob is a [Ruby](https://www.ruby-lang.org/en/) and [JavaScript](https://www.javascript.com/) developer and he works for a small company that works with publishers. Jacob first got into programming in high school when he took a computer science class where he messed around with [Pascal](https://www.pascal-programming.info/index.php) and C++. He got back into programming after college when he went back to school for programming to try to make his data entry job easier. They talk about his journey pushing the boundaries with technology, how he went about starting his programming career, and more!
 
 **In particular, we dive pretty deep on:**
 
 - Jacob intro
 - [Ruby Rogues episode 355](https://devchat.tv/ruby-rogues/rr-355-code-reviews-with-jacob-stoebel)
-- [_Honesty, Kindness and Inspiration: Pick Three_ blog post](http://www.jstoebel.com/honesty-kindness-and-inspiration-pick-three/)
+- [_Honesty, Kindness and Inspiration: Pick Three_ blog post](https://www.jstoebel.com/honesty-kindness-and-inspiration-pick-three/)
 - His [RubyConf 2017 talk](https://www.youtube.com/watch?v=hP_2XKYia9I)
 - Encourage people to talk about what they are passionate about
 - How did you first get into programming?
 - Computer science class in High School
-- [Pascal](http://www.pascal-programming.info/index.php) and C++
+- [Pascal](https://www.pascal-programming.info/index.php) and C++
 - Went on to pursue other things besides programming after high school
 - Job involved data processing
 - [Python](https://www.python.org/) class
@@ -51,9 +51,9 @@ This week on My Ruby Story, Charles talks to Jacob Stoebel. Jacob is a [Ruby](ht
 **Links:**
 
 - [Ruby Rogues episode 355](https://devchat.tv/ruby-rogues/rr-355-code-reviews-with-jacob-stoebel)
-- [_Honesty, Kindness and Inspiration: Pick Three_ blog post](http://www.jstoebel.com/honesty-kindness-and-inspiration-pick-three/)
+- [_Honesty, Kindness and Inspiration: Pick Three_ blog post](https://www.jstoebel.com/honesty-kindness-and-inspiration-pick-three/)
 - [RubyConf 2017 talk](https://www.youtube.com/watch?v=hP_2XKYia9I)
-- [Pascal](http://www.pascal-programming.info/index.php)
+- [Pascal](https://www.pascal-programming.info/index.php)
 - [Python](https://www.python.org/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Rails](https://rubyonrails.org/)
@@ -61,7 +61,7 @@ This week on My Ruby Story, Charles talks to Jacob Stoebel. Jacob is a [Ruby](ht
 - [Django](https://www.djangoproject.com/)
 - [Wiki Edu Dashboard](https://dashboard.wikiedu.org/)
 - [Jacob’s GitHub](https://github.com/jstoebel?tab=overview&from=2015-12-01&to=2015-12-31)
-- [jstoebel.com](http://www.jstoebel.com/)
+- [jstoebel.com](https://www.jstoebel.com/)
 - [@jstoebel](https://twitter.com/jstoebel?lang=en)
 
 **Sponsors:**

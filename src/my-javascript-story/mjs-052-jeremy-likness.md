@@ -32,7 +32,7 @@ This week on My JavaScript Story, Charles speaks with Jeremy Likness. Jeremy wor
 - Discovered the internet in college
 - Career focused on Web apps
 - [jQuery](https://jquery.com/)
-- [Backbone.js](http://backbonejs.org/)
+- [Backbone.js](https://backbonejs.org/)
 - Hands-on career with the code
 - He did consulting for 10 years
 - [Linux](https://www.linux.org/)
@@ -48,7 +48,7 @@ This week on My JavaScript Story, Charles speaks with Jeremy Likness. Jeremy wor
 - [Azure](https://azure.microsoft.com/en-us/)
 - [JavaScript](https://www.javascript.com/)
 - [jQuery](https://jquery.com/)
-- [Backbone.js](http://backbonejs.org/)
+- [Backbone.js](https://backbonejs.org/)
 - [Linux](https://www.linux.org/)
 - [@JeremyLikness](https://twitter.com/jeremylikness?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 - [Jeremy’s Blog](https://blog.jeremylikness.com/?gi=550b53de52c9)
@@ -62,7 +62,7 @@ Charles
 Jeremy
 
 - [Dwitter.net](https://www.dwitter.net/)
-- [Hello World: The Film](http://helloworldfilm.com/)
+- [Hello World: The Film](https://helloworldfilm.com/)
 - [Node.js documentation on Azure](https://docs.microsoft.com/en-us/javascript/azure/?view=azure-node-latest&WT.mc_id=connect-c9-jopapa&viewFallbackFrom=azure-node-2.2.0)
 
 ### Transcript

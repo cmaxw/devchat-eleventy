@@ -35,7 +35,7 @@ tags:
   **Picks:** Reuven
 - [Survey Monkey](https://www.surveymonkey.com/)
   Phillip
-- Book - [Get Naked](http://Getting%20Naked)
+- Book - [Get Naked](https://Getting%20Naked)
 
 ### Transcript
 

@@ -32,11 +32,11 @@ This week on My JavaScript Story, Charles speaks with [Rob Eisenberg](https://tw
 
 3:29 – Rob: When I was 8 years old my dad wanted to buy a computer. We went to Sears and we bought our first computer. You’d buy the disk drive and the keyboard looking unit. You could by a monitor, we didn’t, but we used a black and white TV for our monitor. Later we bought the colored monitor and printer. That’s where my fascination started. We set up the computer in my bedroom. We played games. I got intrigued that you could write code to make different games.
 
-It was just magical for me. As being an adult engineer I am trying to go back to that moment to recapture that magical moment for me. It was a great creative outlet. That’s how I first started. I started learning about Q basic and other flavors of Basic. Then I heard about C! I remember you could do anything with C. I went to the library and there wasn’t the Internet, yet. There were 3 books about C and read it and re-read it. I didn’t have any connections nor a compiler. When I first learned C I didn’t have a compiler. I learned how to learn the codes on notebook paper, but as a kid this is what I first started doing. I actually saved some of this stuff and I have it lying around somewhere. I was big into adventure games. That’s when I moved on [C++](http://www.cplusplus.com) and printed out my source code! It’s so crazy to talk about it but at the time that’s what I did as a kid. In JHS there was one other kid that geeked-out about it with me. It was a ton of fun.
+It was just magical for me. As being an adult engineer I am trying to go back to that moment to recapture that magical moment for me. It was a great creative outlet. That’s how I first started. I started learning about Q basic and other flavors of Basic. Then I heard about C! I remember you could do anything with C. I went to the library and there wasn’t the Internet, yet. There were 3 books about C and read it and re-read it. I didn’t have any connections nor a compiler. When I first learned C I didn’t have a compiler. I learned how to learn the codes on notebook paper, but as a kid this is what I first started doing. I actually saved some of this stuff and I have it lying around somewhere. I was big into adventure games. That’s when I moved on [C++](https://www.cplusplus.com) and printed out my source code! It’s so crazy to talk about it but at the time that’s what I did as a kid. In JHS there was one other kid that geeked-out about it with me. It was a ton of fun.
 
 Then it was an intense hobby of mine. Then at the end of HS I had 2 loves: computers and percussion. I was composing for music, too. I had to decide between music or coding. I decided to go with music. It was the best decision I ever made because I studied music composition. When you are composing for dozens of instruments to play one unified thing. Every pitch, every rhythm, and it all works together. Why this note and why that rhythm? There is an artistic side to this and academia, too. The end result is that music is enjoyed by humans; same for software.
 
-I did 2 degrees in music and then started my Master’s in Music. I then realized I love computers, too, how can I put these two together? I read some things on audio programming, and it stepped me back into programming. At this time, I was working in music education and trying to compose music for gamming. Someone said look at this program called [C#!](https://www.tutorialspoint.com/csharp/) I don’t know cause...how can you get any better than [C++?!](http://www.cplusplus.com)
+I did 2 degrees in music and then started my Master’s in Music. I then realized I love computers, too, how can I put these two together? I read some things on audio programming, and it stepped me back into programming. At this time, I was working in music education and trying to compose music for gamming. Someone said look at this program called [C#!](https://www.tutorialspoint.com/csharp/) I don’t know cause...how can you get any better than [C++?!](https://www.cplusplus.com)
 
 In 2003 – I saw a book: teach yourself [C#](https://www.tutorialspoint.com/csharp/) in 24 hours. I read it and I was enthralled with how neat this was! I was building some Windows applications through C#. I thought it was crazy that there was so much change from when I was in college.
 
@@ -98,13 +98,13 @@ We’ve always had great performance and now taking it to the next level. We are
 - [Angular](https://angular.io)
 - [JavaScript](https://www.google.com/search?client=safari&rls=en&q=javascript&ie=UTF-8&oe=UTF-8)
 - [Vue](https://vuejs.org)
-- [C++](http://www.cplusplus.com)
+- [C++](https://www.cplusplus.com)
 - [C#](https://www.tutorialspoint.com/csharp/)
 - [InVision](https://www.invisionapp.com)
 - [Aurelia](https://twitter.com/AureliaEffect)
 - [Aurelia Blog by Rob](https://aurelia.io/blog/)
 - [Rob Eisenberg’s Twitter](https://twitter.com/eisenbergeffect?lang=en)
-- [Rob’s Website](http://robeisenberg.com)
+- [Rob’s Website](https://robeisenberg.com)
 - [Rob’s LinkedIn](https://www.linkedin.com/in/robeisenberg)
 - [Rob’s GitHub](https://github.com/EisenbergEffect)
 - [Rob’s Episode 9](https://devchat.tv/adv-in-angular/009-aia-ng-2-0-with-rob-eisenberg/)
@@ -123,11 +123,11 @@ We’ve always had great performance and now taking it to the next level. We are
 
 - [Database: Orbit DB](https://github.com/orbitdb/orbit-db)
 - [Robit Riddle](https://boardgamegeek.com/boardgame/203215/robit-riddle-storybook-adventures)
-- [The Wingfeather Saga](http://wingfeathersaga.com)
+- [The Wingfeather Saga](https://wingfeathersaga.com)
 
 **Charles**
 
-- Used to play: [Dungeons and Dragons](http://dnd.wizards.com)
+- Used to play: [Dungeons and Dragons](https://dnd.wizards.com)
 - [Little Wizards](https://www.crafty-games.com/shop/little-wizards/)
 - [Park City, UT](https://www.parkcity.org)
 - [VRBO](https://www.vrbo.com/?k_clickid=EAIaIQobChMIgarx5M6L3gIVh7rACh3XtAdsEAAYAiAAEgKcHfD_BwE&ds_kids=p26840931628&ds_kid=43700026840931628&ksprof_id=700000001561967&ksdevice=c&ktarget=kwd-304548565435&kloct=&klocf=9027224&gclid=EAIaIQobChMIgarx5M6L3gIVh7rACh3XtAdsEAAYAiAAEgKcHfD_BwE&gclsrc=aw.ds)

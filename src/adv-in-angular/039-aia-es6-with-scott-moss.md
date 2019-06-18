@@ -18,7 +18,7 @@ tags:
 - [GitHub](https://github.com/Hendrixer)
 - [Udacity](https://www.udacity.com/)
   - [@udacity](https://twitter.com/udacity)
-- [Hack Reactor](http://www.hackreactor.com/)
+- [Hack Reactor](https://www.hackreactor.com/)
 - [Angular Class](https://angularclass.com/)
   - [@angularclass](https://twitter.com/angularclass)
 
@@ -26,7 +26,7 @@ tags:
 
 04:11 - Working with Lukas
 
-05:04 - Angular and ES6 ([ECMAScript](http://en.wikipedia.org/wiki/ECMAScript))
+05:04 - Angular and ES6 ([ECMAScript](https://en.wikipedia.org/wiki/ECMAScript))
 
 - [John Papa's Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 
@@ -35,21 +35,21 @@ tags:
 - Classical Inheritance
 - DDO (Directive Definition Object) &nbsp;&nbsp;
 
-08:58 - [TypeScript&nbsp;&nbsp; &nbsp;](http://www.typescriptlang.org/)
+08:58 - [TypeScript&nbsp;&nbsp; &nbsp;](https://www.typescriptlang.org/)
 
 - Transpiling
-  - [traceur-compiler](http://code.google.com/p/traceur-compiler/)
+  - [traceur-compiler](https://code.google.com/p/traceur-compiler/)
   - [babel](https://github.com/babel/babel)
 - Differences and Definitions: traceur, babel, TypeScript
-  - [Learn about TypeScript 1.5 here](http://blogs.msdn.com/b/typescript/archive/2015/03/27/announcing-typescript-1-5-alpha.aspx) and get it [here](https://www.npmjs.com/package/typescript)
-  - [[Pluralsight] John Papa and Dan Wahlin: TypeScript Fundamentals](http://www.pluralsight.com/courses/typescript)
+  - [Learn about TypeScript 1.5 here](https://blogs.msdn.com/b/typescript/archive/2015/03/27/announcing-typescript-1-5-alpha.aspx) and get it [here](https://www.npmjs.com/package/typescript)
+  - [[Pluralsight] John Papa and Dan Wahlin: TypeScript Fundamentals](https://www.pluralsight.com/courses/typescript)
 - Types Have Value
 
 19:06 - How should people use a transpiler in a real application?
 
 - [webpack](https://camo.githubusercontent.com/f1d103872f836f33dbff7a74ed819004f792a4ad/687474703a2f2f7765627061636b2e6769746875622e696f2f6173736574732f6c6f676f2e706e67)
-- [gulp.js](http://gulpjs.com/)
-- [jspm](http://jspm.io/)
+- [gulp.js](https://gulpjs.com/)
+- [jspm](https://jspm.io/)
 
 21:07 - [systemjs](https://github.com/systemjs/systemjs)
 
@@ -73,7 +73,7 @@ tags:
   - [GoCardless Angular Style Guide](https://github.com/gocardless/angularjs-style-guide)
     39:21 - Learning New Material and Using ES6Picks
 
-[Learn about TypeScript 1.5](http://blogs.msdn.com/b/typescript/archive/2015/03/27/announcing-typescript-1-5-alpha.aspx) (Ward)[The Effective Engineer by Edmond Lau](https://www.theeffectiveengineer.com/book) (Lukas)[Isar Raw Canvas Backpack](http://www.coteetciel.com/en-US/isar-rucksack-raw-canvas-icelandic-ash) (Lukas)[INcontroL](http://wiki.teamliquid.net/starcraft/INcontroL) (Joe) John’s Daughter (John)[Angular U](https://angularu.com/ng/) (John)[The Imitation Game](http://www.imdb.com/title/tt2084970/) (Katya)[Treeline](https://treeline.io/) (Scott)[Interstellar](http://www.imdb.com/title/tt0816692/) (Scott)&nbsp;
+[Learn about TypeScript 1.5](https://blogs.msdn.com/b/typescript/archive/2015/03/27/announcing-typescript-1-5-alpha.aspx) (Ward)[The Effective Engineer by Edmond Lau](https://www.theeffectiveengineer.com/book) (Lukas)[Isar Raw Canvas Backpack](https://www.coteetciel.com/en-US/isar-rucksack-raw-canvas-icelandic-ash) (Lukas)[INcontroL](https://wiki.teamliquid.net/starcraft/INcontroL) (Joe) John’s Daughter (John)[Angular U](https://angularu.com/ng/) (John)[The Imitation Game](https://www.imdb.com/title/tt2084970/) (Katya)[Treeline](https://treeline.io/) (Scott)[Interstellar](https://www.imdb.com/title/tt0816692/) (Scott)&nbsp;
 
 ### Transcript
 

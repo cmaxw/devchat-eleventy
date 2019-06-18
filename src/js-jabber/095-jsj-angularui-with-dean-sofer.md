@@ -14,43 +14,43 @@ tags:
 
 ### Panel
 
-- Dean Sofer ([twitter](https://twitter.com/Unfolio) [github](https://github.com/ProLoser) [blog](http://deansofer.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](http://coolaj86.info/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Dean Sofer ([twitter](https://twitter.com/Unfolio) [github](https://github.com/ProLoser) [blog](https://deansofer.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86) [github](https://github.com/coolaj86/) [blog](https://coolaj86.info/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 02:00 - Dean Sofer Introduction
 
-- [Paxata](http://www.paxata.com/)
-  02:25 - Big Data 03:44 - [AngularUI](http://angular-ui.github.io/)
+- [Paxata](https://www.paxata.com/)
+  02:25 - Big Data 03:44 - [AngularUI](https://angular-ui.github.io/)
 - [PHP-OS](https://sourceforge.net/projects/php-os/)
-  09:25 - Angular and [Ember.js](http://emberjs.com/)
-- [UI-Router](http://angular-ui.github.io/ui-router/)
-  10:40 - Keeping Up-to-date 12:17 - [Bootstrap](http://getbootstrap.com/)
-- [CSS](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-  16:00 - [AngularStrap](http://mgcrea.github.io/angular-strap/)26:56 -[jQuery UI](http://jqueryui.com/)29:24 - Build Tools
-- [BOWER](http://bower.io/)
+  09:25 - Angular and [Ember.js](https://emberjs.com/)
+- [UI-Router](https://angular-ui.github.io/ui-router/)
+  10:40 - Keeping Up-to-date 12:17 - [Bootstrap](https://getbootstrap.com/)
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+  16:00 - [AngularStrap](https://mgcrea.github.io/angular-strap/)26:56 -[jQuery UI](https://jqueryui.com/)29:24 - Build Tools
+- [BOWER](https://bower.io/)
 - [Travis CI](https://travis-ci.org/)
   35:11 - AngularUI Components
-- [Dean Sofer: AngularJS ORM](http://www.youtube.com/watch?v=Iw-3qgG_ipU)
+- [Dean Sofer: AngularJS ORM](https://www.youtube.com/watch?v=Iw-3qgG_ipU)
   39:39 - Support
 
 ### Picks
 
-- [The Black Company Series](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=black%20company&sprefix=black+compa%2Caps&rh=i%3Aaps%2Ck%3Ablack%20company) (Joe)
-- [White Collar](http://www.imdb.com/title/tt1358522/) (Joe)
-- [Sherlock](http://www.imdb.com/title/tt1475582/) (Joe and AJ)
-- [Chuck](http://www.imdb.com/title/tt0934814/) (AJ)
+- [The Black Company Series](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=black%20company&sprefix=black+compa%2Caps&rh=i%3Aaps%2Ck%3Ablack%20company) (Joe)
+- [White Collar](https://www.imdb.com/title/tt1358522/) (Joe)
+- [Sherlock](https://www.imdb.com/title/tt1475582/) (Joe and AJ)
+- [Chuck](https://www.imdb.com/title/tt0934814/) (AJ)
 - Multitools (AJ)
-- [The Making of the Atomic Bomb by Richard Rhodes](http://www.amazon.com/gp/product/1451677618/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451677618&linkCode=as2&tag=chamaxwoo-20) (Jamison)
-- [Thinking in Systems: A Primer by Donella H. Meadows](http://www.amazon.com/gp/product/1603580557/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1603580557&linkCode=as2&tag=chamaxwoo-20) (Jamison)
-- [The Millionaire Mind by Thomas J. Stanley](http://www.amazon.com/gp/product/0740718584/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0740718584&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries](http://www.amazon.com/gp/product/0307887898/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [Basic Economics: A Common Sense Guide to the Economy by Thomas Sowell](http://www.amazon.com/gp/product/0465022529/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465022529&linkCode=as2&tag=chamaxwoo-20) (Chuck)
-- [JavaScript Garden by Ivo Wetzel and Zhang Yi Jiang](http://bonsaiden.github.io/JavaScript-Garden/) (Dean)
+- [The Making of the Atomic Bomb by Richard Rhodes](https://www.amazon.com/gp/product/1451677618/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451677618&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [Thinking in Systems: A Primer by Donella H. Meadows](https://www.amazon.com/gp/product/1603580557/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1603580557&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [The Millionaire Mind by Thomas J. Stanley](https://www.amazon.com/gp/product/0740718584/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0740718584&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries](https://www.amazon.com/gp/product/0307887898/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [Basic Economics: A Common Sense Guide to the Economy by Thomas Sowell](https://www.amazon.com/gp/product/0465022529/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465022529&linkCode=as2&tag=chamaxwoo-20) (Chuck)
+- [JavaScript Garden by Ivo Wetzel and Zhang Yi Jiang](https://bonsaiden.github.io/JavaScript-Garden/) (Dean)
 - The Network Button on [Github](https://github.com/) (Dean)
 - [Dean on Goodreads](https://www.goodreads.com/user/show/5767915-dean) (Dean)
 

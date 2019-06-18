@@ -36,7 +36,7 @@ In this episode of Ruby Rogues, the panel talks to Mindaugas Mozūras about hiri
 - Fear of hiring junior developers
 - [_A USER GUIDE TO ME_ blog post](https://codingfearlessly.com/a-user-guide-to-me)
 - Why did you write this?
-- [_How to Rands_](http://randsinrepose.com/archives/how-to-rands/)
+- [_How to Rands_](https://randsinrepose.com/archives/how-to-rands/)
 - Communication
 - How do you write up job roles?
 - Figuring out what you need
@@ -50,7 +50,7 @@ In this episode of Ruby Rogues, the panel talks to Mindaugas Mozūras about hiri
 
 - [Vinted](https://www.vinted.com/)
 - [_A USER GUIDE TO ME_ blog post](https://codingfearlessly.com/a-user-guide-to-me)
-- [_How to Rands_](http://randsinrepose.com/archives/how-to-rands/)
+- [_How to Rands_](https://randsinrepose.com/archives/how-to-rands/)
 - [Mindaugas GitHub](https://github.com/mmozuras)
 - [vinted.com/jobs](https://www.vinted.com/jobs)
 - [@mmozuras](https://twitter.com/mmozuras?lang=en)

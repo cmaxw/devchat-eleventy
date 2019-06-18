@@ -14,16 +14,16 @@ tags:
 
 ### Panel
 
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
 - Merrick Christensen ([twitter](https://twitter.com/iammerrick) [github](https://github.com/iammerrick))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
-01:47 - [Burnout](http://en.wikipedia.org/wiki/Burnout)
+01:47 - [Burnout](https://en.wikipedia.org/wiki/Burnout)
 
-- [Google: define burnout](http://www.google.com/#gs_rn=16&gs_ri=psy-ab&suggest=p&cp=14&gs_id=1e&xhr=t&q=define+burnout&es_nrs=true&pf=p&output=search&sclient=psy-ab&oq=define+burnout&gs_l=&pbx=1&bav=on.2,or.r_cp.r_qf.&bvm=bv.47534661,d.dmg&fp=4005eb29b7d7f0b0&biw=1306&bih=693)
+- [Google: define burnout](https://www.google.com/#gs_rn=16&gs_ri=psy-ab&suggest=p&cp=14&gs_id=1e&xhr=t&q=define+burnout&es_nrs=true&pf=p&output=search&sclient=psy-ab&oq=define+burnout&gs_l=&pbx=1&bav=on.2,or.r_cp.r_qf.&bvm=bv.47534661,d.dmg&fp=4005eb29b7d7f0b0&biw=1306&bih=693)
   04:57 - Pair Programming 06:19 - Burnout Guilt
 - Thought-workers vs Laborers
   10:15 - Positive Reinforcement 11:18 - Causes of Burnout
@@ -33,9 +33,9 @@ tags:
 - OCD
 - Organizational challenges
 - Fighting
-- [Bikeshedding](http://en.wikipedia.org/wiki/Bikeshedding)
+- [Bikeshedding](https://en.wikipedia.org/wiki/Bikeshedding)
 - Difficult work environment
-- [Twitter](http://www.twitter.com/)
+- [Twitter](https://www.twitter.com/)
 - Comparison
   20:41 - Overcoming Burnout
 - Rest
@@ -52,17 +52,17 @@ tags:
   32:17 - Reaching out to others who may be burning out 35:50 - Preventing Burnout
 - Positive environments
 - Motivation
-- [Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink](http://www.amazon.com/gp/product/1594484805/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594484805&linkCode=as2&tag=chamaxwoo-20)
-- [[YouTube] Drive: The surprising truth about what motivates us](http://www.youtube.com/watch?v=u6XAPnuFjJc)
+- [Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink](https://www.amazon.com/gp/product/1594484805/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594484805&linkCode=as2&tag=chamaxwoo-20)
+- [[YouTube] Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 
 ### Picks
 
-- [America's Got Talent](http://www.nbc.com/americas-got-talent/) (Joe)
-- [Storm Front (Derrick Storm) by Richard Castle](http://www.amazon.com/Storm-Front-Derrick-ebook/dp/B009NVDYQ4/ref=sr_1_1?ie=UTF8&qid=1370541492&sr=8-1&keywords=storm+front) (Joe)
-- [Derandomized - Khan Academy: Machine Learning -\> Measurable Learning](http://derandomized.com/post/51729670543/khan-academy-machine-learning-measurable-learning) (Jamison)
-- [Get On Top](http://foddy.net/GetOnTop.html) (Jamison)
-- [Ben Bernanke to Princeton Grads: The World Isn't Fair (and You All Got Lucky)](http://www.theatlantic.com/business/archive/2013/06/ben-bernanke-to-princeton-grads-the-world-isnt-fair-and-you-all-got-lucky/276471/) (Merrick)
-- [General Assembly](http://generalassemb.ly/) (AJ)
+- [America's Got Talent](https://www.nbc.com/americas-got-talent/) (Joe)
+- [Storm Front (Derrick Storm) by Richard Castle](https://www.amazon.com/Storm-Front-Derrick-ebook/dp/B009NVDYQ4/ref=sr_1_1?ie=UTF8&qid=1370541492&sr=8-1&keywords=storm+front) (Joe)
+- [Derandomized - Khan Academy: Machine Learning -\> Measurable Learning](https://derandomized.com/post/51729670543/khan-academy-machine-learning-measurable-learning) (Jamison)
+- [Get On Top](https://foddy.net/GetOnTop.html) (Jamison)
+- [Ben Bernanke to Princeton Grads: The World Isn't Fair (and You All Got Lucky)](https://www.theatlantic.com/business/archive/2013/06/ben-bernanke-to-princeton-grads-the-world-isnt-fair-and-you-all-got-lucky/276471/) (Merrick)
+- [General Assembly](https://generalassemb.ly/) (AJ)
 - AJ needs a room to rent in San Francisco (AJ)
 - [You Are Your Own Gym (YAYOG)](https://itunes.apple.com/us/app/bodyweight-training-you-are/id416981420?mt=8)
 - [Run 10k](https://itunes.apple.com/us/app/run-10k-interval-training/id350529744?mt=8) (Chuck)

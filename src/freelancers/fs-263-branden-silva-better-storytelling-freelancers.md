@@ -30,7 +30,7 @@ Curtis:
 - [Ira Glass Interview](https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008)
   Branden:
 - [Pixar Storytelling on Khan Academy](https://www.khanacademy.org/partner-content/pixar/storytelling)
-- [His website](http://www.ambition.studio)
-- [His podcast (coming soon)](http://www.ambition.studio/podcast)
+- [His website](https://www.ambition.studio)
+- [His podcast (coming soon)](https://www.ambition.studio/podcast)
 
 ### Transcript

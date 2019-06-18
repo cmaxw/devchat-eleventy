@@ -47,10 +47,10 @@ tags:
 
 - [Mormon Sunday School Podcast](https://itunes.apple.com/us/podcast/engaging-gospel-doctrine-mormon-sunday-school-lds/id542038988?mt=2)
 - Having tough conversations
-- [Kim Crayton](http://www.kimcrayton.com/about/)
+- [Kim Crayton](https://www.kimcrayton.com/about/)
   Dave
 - [iMac Pro](https://www.apple.com/imac-pro/)
-- [Micro Center](http://www.microcenter.com/)
+- [Micro Center](https://www.microcenter.com/)
 -
 
 David

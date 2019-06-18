@@ -76,7 +76,7 @@ Charles
 Sean
 
 - [_Hope and Help for Your Nerves_ by Claire Weekes](https://www.amazon.com/Hope-Help-Nerves-Claire-Weekes/dp/0451167228/ref=sr_1_1?ie=UTF8&qid=1534110897&sr=8-1&keywords=hope+and+help+your+nerves)
-- [Nourish Balance Thrive](http://www.nourishbalancethrive.com/)
+- [Nourish Balance Thrive](https://www.nourishbalancethrive.com/)
 - [Fly.io](https://fly.io/)
 
 ### Transcript

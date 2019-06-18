@@ -106,7 +106,7 @@ My husband has been in software development my whole life.
 
 **Sponsors:**
 
-- [Code Badge](http://codebadge.org/)
+- [Code Badge](https://codebadge.org/)
 - [Cache Fly](https://www.cachefly.com)
 - [Get A Coder Job](https://devchat.tv/get-a-coder-job/)
 
@@ -117,7 +117,7 @@ My husband has been in software development my whole life.
 - Podcasts that Chuck listens to:
   - [Code Newbie](https://www.codenewbie.org)
   - [Our podcasts through DevChat](https://devchat.tv)
-- [Food – Kedo Diet – 2 Keto Dudes](http://2ketodudes.com)
+- [Food – Kedo Diet – 2 Keto Dudes](https://2ketodudes.com)
 
 Christiané Heiligers
 

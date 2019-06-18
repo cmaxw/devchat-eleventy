@@ -12,18 +12,18 @@ tags:
   - podcast
 ---
 
-[RailsClips](http://devchat.tv/rails-clips) is officially launched!
+[RailsClips](https://devchat.tv/rails-clips) is officially launched!
 
 03:11 - Michael Nygard Introduction
 
 - [Twitter](https://twitter.com/mtnygard)
 - [GitHub](https://github.com/mtnygard)
-- [Blog](http://www.michaelnygard.com/)
-- [Cognitect](http://cognitect.com/)
+- [Blog](https://www.michaelnygard.com/)
+- [Cognitect](https://cognitect.com/)
   - [@cognitect](https://twitter.com/cognitect)
-- [Michael Nygard: Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+- [Michael Nygard: Documenting Architecture Decisions](https://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
-04:36 - &nbsp;[Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard](http://www.amazon.com/gp/product/0978739213/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0978739213&linkCode=as2&tag=chamaxwoo-20&linkId=PR4HBQUGMKR3BABL)
+04:36 - &nbsp;[Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard](https://www.amazon.com/gp/product/0978739213/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0978739213&linkCode=as2&tag=chamaxwoo-20&linkId=PR4HBQUGMKR3BABL)
 
 - [The Circuit Breaker Pattern](https://msdn.microsoft.com/en-us/library/dn589784.aspx)
 - Designing Software to Get Past 1.0
@@ -33,7 +33,7 @@ tags:
 - [Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
 - What does “good” look like?
 - “Old ideas in new context result in innovation”
-- [Michael Nygard: Architecture Without an End State](http://t.co/25dNntRniz)
+- [Michael Nygard: Architecture Without an End State](https://t.co/25dNntRniz)
 
 14:29 - Architecture Without an End State (Definition)
 
@@ -66,7 +66,7 @@ tags:
 
 Picks
 
-[Michael Nygard: Architecture Without an End State](http://t.co/25dNntRniz) (Avdi)[Daily Tech Video](http://dailytechvideo.com/) (Avdi)[October CincyRb - Jim Weirich on Decoupling from Rails](https://www.youtube.com/watch?v=tg5RFeSfBM4) (Avdi)[Rachel Shadoan: Why Algorithm Transparency is Vital to the Future of Thinking](http://www.akashiclabs.com/why-algorithm-transparency-is-vital-to-the-future-of-thinking/) (Avdi)[Avdi Grimm: A review of news summary services](http://journal.avdi.org/2015/07/12/a-review-of-news-summary-services/) (Avdi)[Systems Thinking, Third Edition: Managing Chaos and Complexity: A Platform for Designing Business Architecture by Jamshid Gharajedaghi](http://www.amazon.com/gp/product/0123859158/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0123859158&linkCode=as2&tag=chamaxwoo-20&linkId=RJQH4W4TSCBGYFK7) (Jessica)[William Byrd: The Promise of Relational Programming @ PolyConf 15](https://www.youtube.com/watch?v=eQL48qYDwp4) (Jessica)[Again](http://www.againlist.com) (Coraline)[Seveneves: A Novel by Neal Stephenson](http://www.amazon.com/gp/product/0062190377/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062190377&linkCode=as2&tag=chamaxwoo-20&linkId=IX5THVCGECXSHYT3) (Coraline)[remoteconfs.com](http://remoteconfs.com) (Chuck) God (Chuck) Jesus Christ (Chuck)[The Church of Jesus Christ of Latter-day Saints](http://lds.org) (Chuck)[Cory Doctorow: The Internet of Things That Do What You Tell Them](https://www.youtube.com/watch?v=jayTknqC2uc) (Michael)[The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference by Charles M. Kozierok](http://www.amazon.com/gp/product/159327047X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159327047X&linkCode=as2&tag=chamaxwoo-20&linkId=K6PIW53ZVGM6JVDC) (Michael)[services-engineering](https://github.com/mmcgrana/services-engineering) (Michael)
+[Michael Nygard: Architecture Without an End State](https://t.co/25dNntRniz) (Avdi)[Daily Tech Video](https://dailytechvideo.com/) (Avdi)[October CincyRb - Jim Weirich on Decoupling from Rails](https://www.youtube.com/watch?v=tg5RFeSfBM4) (Avdi)[Rachel Shadoan: Why Algorithm Transparency is Vital to the Future of Thinking](https://www.akashiclabs.com/why-algorithm-transparency-is-vital-to-the-future-of-thinking/) (Avdi)[Avdi Grimm: A review of news summary services](https://journal.avdi.org/2015/07/12/a-review-of-news-summary-services/) (Avdi)[Systems Thinking, Third Edition: Managing Chaos and Complexity: A Platform for Designing Business Architecture by Jamshid Gharajedaghi](https://www.amazon.com/gp/product/0123859158/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0123859158&linkCode=as2&tag=chamaxwoo-20&linkId=RJQH4W4TSCBGYFK7) (Jessica)[William Byrd: The Promise of Relational Programming @ PolyConf 15](https://www.youtube.com/watch?v=eQL48qYDwp4) (Jessica)[Again](https://www.againlist.com) (Coraline)[Seveneves: A Novel by Neal Stephenson](https://www.amazon.com/gp/product/0062190377/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062190377&linkCode=as2&tag=chamaxwoo-20&linkId=IX5THVCGECXSHYT3) (Coraline)[remoteconfs.com](https://remoteconfs.com) (Chuck) God (Chuck) Jesus Christ (Chuck)[The Church of Jesus Christ of Latter-day Saints](https://lds.org) (Chuck)[Cory Doctorow: The Internet of Things That Do What You Tell Them](https://www.youtube.com/watch?v=jayTknqC2uc) (Michael)[The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference by Charles M. Kozierok](https://www.amazon.com/gp/product/159327047X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159327047X&linkCode=as2&tag=chamaxwoo-20&linkId=K6PIW53ZVGM6JVDC) (Michael)[services-engineering](https://github.com/mmcgrana/services-engineering) (Michael)
 
 ### Transcript
 

@@ -12,25 +12,25 @@ tags:
   - podcast
 ---
 
-### 01:41 - [Book Club - Practical Object-Oriented Design in Ruby by Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20)
+### 01:41 - [Book Club - Practical Object-Oriented Design in Ruby by Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20)
 
 - Interviewing: January 2nd
 - Airing: January 9th
   02:52 - Best of Parley
 - All past guests/all future guests have joined the list!
-- [Benjamin Fleischer](https://twitter.com/hazula) + [RubyConf](http://rubyconf.org/)&nbsp;tips
-  04:18 - [Ruby Nuby Project](http://rubyrogues.com/ruby-nuby-project/)
+- [Benjamin Fleischer](https://twitter.com/hazula) + [RubyConf](https://rubyconf.org/)&nbsp;tips
+  04:18 - [Ruby Nuby Project](https://rubyrogues.com/ruby-nuby-project/)
 - LAST DAY TO SUBMIT VIDEOS!
-- Supporters: [RubyMonk](http://rubymonk.com/), [RailsCasts](http://railscasts.com/), [The Pragmatic Studio](http://pragmaticstudio.com/ruby)
-  05:29 - [Grasping Complexity with Both Hands](http://confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands)
+- Supporters: [RubyMonk](https://rubymonk.com/), [RailsCasts](https://railscasts.com/), [The Pragmatic Studio](https://pragmaticstudio.com/ruby)
+  05:29 - [Grasping Complexity with Both Hands](https://confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands)
 - How to recognize genuinely complex problems and situations
 - How to think clearly and make smart decisions
 - Things tend to get complicated when people get involved
-  08:46 - [Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy Lister](http://www.amazon.com/gp/product/0932633056/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0932633056&linkCode=as2&tag=chamaxwoo-20)11:19 - [No Silver Bullet --Essence and Accident in Software Engineering by Frederick P. Brooks, Jr.](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf)13:04 - [Learnable Programming: Designing a programming system for understanding programs by Bret Victor](http://worrydream.com/LearnableProgramming/)16:05 - Science and ways of dealing with complex situations 18:20 - Bounded Complexity and Unbounded Complexity 23:41 - [The Birthday Paradox](http://en.wikipedia.org/wiki/Birthday_problem)
+  08:46 - [Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy Lister](https://www.amazon.com/gp/product/0932633056/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0932633056&linkCode=as2&tag=chamaxwoo-20)11:19 - [No Silver Bullet --Essence and Accident in Software Engineering by Frederick P. Brooks, Jr.](https://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf)13:04 - [Learnable Programming: Designing a programming system for understanding programs by Bret Victor](https://worrydream.com/LearnableProgramming/)16:05 - Science and ways of dealing with complex situations 18:20 - Bounded Complexity and Unbounded Complexity 23:41 - [The Birthday Paradox](https://en.wikipedia.org/wiki/Birthday_problem)
 - Asking the right question
   29:04 - Don’t try to make things NOT go wrong 34:35 - Communicating when something is complex
 - Keeping multiple thoughts in your head
-- [Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](http://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356050&linkCode=as2&tag=chamaxwoo-20)
+- [Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt](https://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356050&linkCode=as2&tag=chamaxwoo-20)
   39:24 - Unit Testing
 -
 
@@ -42,7 +42,7 @@ Relativity
 
 -
 
-[Genetic algorithms and software evolution: Thomas S. Ray](http://en.wikipedia.org/wiki/Thomas_S._Ray)
+[Genetic algorithms and software evolution: Thomas S. Ray](https://en.wikipedia.org/wiki/Thomas_S._Ray)
 
 ### Next Week
 
@@ -50,10 +50,10 @@ Relativity
 
 ### Book Club
 
-The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by&nbsp;Sandi Metz](http://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013 with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](http://www.informit.com/).
+The next Ruby Rogues Book Club Pick will be [Practical Object-Oriented Design in Ruby: An Agile Primer by&nbsp;Sandi Metz](https://www.amazon.com/gp/product/0321721330/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321721330&linkCode=as2&tag=chamaxwoo-20). We will be interviewing Sandi on January 2, 2013 with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via [InformIT.com](https://www.informit.com/).
 
-- First create a user account: [www.informit.com/join](http://www.informit.com/join)
-- SAVE 40% When You Buy 2: [www.informit.com/ruby](http://www.informit.com/ruby)
+- First create a user account: [www.informit.com/join](https://www.informit.com/join)
+- SAVE 40% When You Buy 2: [www.informit.com/ruby](https://www.informit.com/ruby)
 - Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
 - (Includes FREE SHIPPING within the U.S.!)
 

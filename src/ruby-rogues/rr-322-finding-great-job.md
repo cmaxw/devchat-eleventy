@@ -24,15 +24,15 @@ This episode of Ruby Rogues the panel is Dave Kimura and Charles Max Wood. They 
   **Charles**
 - [The Miracle Morning by Hal Elrod&nbsp;](https://www.amazon.com/dp/B00CLMX0D4/?tag=chamaxwoo-20)
 - [The Daily Lasagna YouTube&nbsp;](https://www.youtube.com/playlist?list=PLJesql-aSfX6pseKl-4wFNmR_aDe2A3mT)
-- [2 Keto Dudes&nbsp;](http://2ketodudes.com/)
-- [www.ruled.me&nbsp;](http://www.ruled.me)
-- [Living La Vida Low Carb Show with Jimmy Moore](http://www.thelivinlowcarbshow.com/)
+- [2 Keto Dudes&nbsp;](https://2ketodudes.com/)
+- [www.ruled.me&nbsp;](https://www.ruled.me)
+- [Living La Vida Low Carb Show with Jimmy Moore](https://www.thelivinlowcarbshow.com/)
 - [Ketoclarity&nbsp;](https://www.amazon.com/Keto-Clarity-Definitive-Benefits-Low-Carb/dp/1628600071)
 
 ### **Links**
 
-- [Eventual Millionaire&nbsp;](http://eventualmillionaire.com/)
+- [Eventual Millionaire&nbsp;](https://eventualmillionaire.com/)
 - [https://www.railsmentors.org/](https://www.railsmentors.org/)
-- [getacoderjob.com](http://getacoderjob.com)
+- [getacoderjob.com](https://getacoderjob.com)
 
 ### Transcript

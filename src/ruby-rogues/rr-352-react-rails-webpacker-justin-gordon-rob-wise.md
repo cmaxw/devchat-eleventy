@@ -45,7 +45,7 @@ tags:
   **Links:**
 - [HVMN.com](https://hvmn.com/)
 - [Forum.shakacode.com](https://forum.shakacode.com/)
-- [Shakacode.com](http://www.shakacode.com/)
+- [Shakacode.com](https://www.shakacode.com/)
 - [@RailsonMaui](https://twitter.com/railsonmaui?lang=en)
 - [Rob’s GitHub](https://github.com/robwise)
 - [@RobAWise](https://twitter.com/robawise?lang=en)

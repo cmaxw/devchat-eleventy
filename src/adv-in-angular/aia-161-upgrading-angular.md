@@ -30,9 +30,9 @@ tags:
 - Migration
 - Upgrading components
 - and much more!
-  **Links:&nbsp;** •[NG Conf. 2018](http://NG%20Conf.%202018) **Picks:** &nbsp; Ward •[NG Atlanta](http://ng-atl.org)
+  **Links:&nbsp;** •[NG Conf. 2018](https://NG%20Conf.%202018) **Picks:** &nbsp; Ward •[NG Atlanta](https://ng-atl.org)
 - Neutron Star Collision
-  Alyssa •[NG Atlanta&nbsp;](http://ng-atl.org)Joe •Migrations
+  Alyssa •[NG Atlanta&nbsp;](https://ng-atl.org)Joe •Migrations
 - [NG CONF.&nbsp;](https://www.ng-conf.org)
   Aaron
 - [Neutron Star Collision &nbsp;](https://www.nytimes.com/2017/10/16/science/ligo-neutron-stars-collision.html)

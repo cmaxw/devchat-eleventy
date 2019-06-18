@@ -62,7 +62,7 @@ Check out and sign up for [iOS Remote Conf](https://allremoteconfs.com/ios-2016)
 - [Mercurial](https://www.mercurial-scm.org/)
   Picks
 
-[Smoked Gouda Cheese](http://www.wischeese.com/index.php?dispatch=products.view&product_id=24) (Jaim)[Smooch](https://smooch.io) (Dominic)[Making voice calls in Slack](https://get.slack.help/hc/en-us/articles/216771908) (Emma)[The Most Important Object In Computer Graphics History Is This Teapot](http://nautil.us/blog/the-most-important-object-in-computer-graphics-history-is-this-teapot) (Andrew)[Big John's Cajun Cheese](https://www.beehivecheese.com/cheese) (Andrew)[2016 Chocolate and Cheese Festival @ The Natural History Museum of Utah](https://nhmu.utah.edu/events/2016-chocolate-cheese-festival) (Andrew)
+[Smoked Gouda Cheese](https://www.wischeese.com/index.php?dispatch=products.view&product_id=24) (Jaim)[Smooch](https://smooch.io) (Dominic)[Making voice calls in Slack](https://get.slack.help/hc/en-us/articles/216771908) (Emma)[The Most Important Object In Computer Graphics History Is This Teapot](https://nautil.us/blog/the-most-important-object-in-computer-graphics-history-is-this-teapot) (Andrew)[Big John's Cajun Cheese](https://www.beehivecheese.com/cheese) (Andrew)[2016 Chocolate and Cheese Festival @ The Natural History Museum of Utah](https://nhmu.utah.edu/events/2016-chocolate-cheese-festival) (Andrew)
 
 ### Transcript
 

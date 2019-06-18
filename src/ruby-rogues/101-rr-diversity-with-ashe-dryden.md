@@ -16,14 +16,14 @@ tags:
 
 01:39 - Ashe Dryden Introduction
 
-- [Ruby Freelancers](http://www.rubyfreelancers.com/)
+- [Ruby Freelancers](https://www.rubyfreelancers.com/)
 - Independent Developer and Conference Organizer
 
 01:59 - Why should we take steps to increase diversity?
 
 - Diverse teams work together better
-- [Cisgender](http://en.wikipedia.org/wiki/Cisgender)
-- [There are Ladies Present: Uncle Bob](http://blog.8thlight.com/uncle-bob/2013/03/22/There-are-ladies-present.html)
+- [Cisgender](https://en.wikipedia.org/wiki/Cisgender)
+- [There are Ladies Present: Uncle Bob](https://blog.8thlight.com/uncle-bob/2013/03/22/There-are-ladies-present.html)
 
 11:07 - Helping to make the community diverse
 
@@ -32,12 +32,12 @@ tags:
 
 14:50 - Standing up for others/Stopping inappropriate behavior
 
-- [“White Knighting”](http://geekfeminism.wikia.com/wiki/White_Knighting)
+- [“White Knighting”](https://geekfeminism.wikia.com/wiki/White_Knighting)
 - “Hey, that’s not cool.”
 
 21:50 - Apologizing & Making Mistakes
 
-- [Recipe for Ice](http://www.food.com/recipe/ice-cubes-420398)
+- [Recipe for Ice](https://www.food.com/recipe/ice-cubes-420398)
 - [Avdi's How to Apologize](https://gist.github.com/avdi/2160569)
 - [Josh’s Apology Recipe](https://twitter.com/joshsusser/status/289465157074182145)
 - “Intent is not magic”
@@ -45,33 +45,33 @@ tags:
 
 34:19 - Privilege
 
-- [Intersectionality](http://en.wikipedia.org/wiki/Intersectionality)
-- [Anti-Oppression 101 by Lindsey Bieda & Steve Klabnik](http://confreaks.com/videos/1089-madisonruby2012-anti-opression-101)
-- [Dykes to Watch Out For by Alison Bechdel](http://dykestowatchoutfor.com/)
-- [The Bechdel test](http://en.wikipedia.org/wiki/Bechdel_test)
+- [Intersectionality](https://en.wikipedia.org/wiki/Intersectionality)
+- [Anti-Oppression 101 by Lindsey Bieda & Steve Klabnik](https://confreaks.com/videos/1089-madisonruby2012-anti-opression-101)
+- [Dykes to Watch Out For by Alison Bechdel](https://dykestowatchoutfor.com/)
+- [The Bechdel test](https://en.wikipedia.org/wiki/Bechdel_test)
 - Majority and being chosen on merit
-- [Attrition](http://en.wikipedia.org/wiki/Attrition)
+- [Attrition](https://en.wikipedia.org/wiki/Attrition)
 - The Pipeline Problem
 
 50:39 - Biases
 
-- [What if every Olympic sport was photographed like beach volleyball? by Nate Jones](http://www.metro.us/newyork/lifestyle/2012/08/01/what-if-every-olympic-sport-was-photographed-like-beach-volleyball/)
+- [What if every Olympic sport was photographed like beach volleyball? by Nate Jones](https://www.metro.us/newyork/lifestyle/2012/08/01/what-if-every-olympic-sport-was-photographed-like-beach-volleyball/)
 - [Implicit Association Test](https://implicit.harvard.edu/implicit/demo/)
 - Subconscious Biases
-- [Why Your Brain Sees Men As People And Women As Body Parts - Forbes](http://www.forbes.com/sites/jennagoudreau/2012/07/26/why-your-brain-sees-men-as-people-and-women-as-body-parts/)
+- [Why Your Brain Sees Men As People And Women As Body Parts - Forbes](https://www.forbes.com/sites/jennagoudreau/2012/07/26/why-your-brain-sees-men-as-people-and-women-as-body-parts/)
 
 59:03 - Allies
 
 - Accessibility
-- [Disappointing and dangerous experience as a person with disabilities at a conference](http://accessibility.net.nz/blog/a-disappointing-evening-at-confoo/)
+- [Disappointing and dangerous experience as a person with disabilities at a conference](https://accessibility.net.nz/blog/a-disappointing-evening-at-confoo/)
 
 01:02:22 - Improving empathy
 
 01:05:44 - Progress and Movement
 
-- [Feminism](http://en.wikipedia.org/wiki/Feminism)
-- [Are you a Feminist?](http://areyouafeminist.com/)
-- [Social Justice](http://en.wikipedia.org/wiki/Social_justice)
+- [Feminism](https://en.wikipedia.org/wiki/Feminism)
+- [Are you a Feminist?](https://areyouafeminist.com/)
+- [Social Justice](https://en.wikipedia.org/wiki/Social_justice)
 - Representing your community
 
 01:17:21 - Acknowledging diversity while still having fun
@@ -80,14 +80,14 @@ tags:
 
 01:24:30 - Resources
 
-- [Anti-Oppression 101 by Lindsey Bieda & Steve Klabnik](http://confreaks.com/videos/1089-madisonruby2012-anti-opression-101)
-- [MINASWAN: Bryan Liles](http://www.confreaks.com/videos/625-madisonruby2011-minswan)
-- [My Technology Will Be Intersectional or It Will Be BULLSHIT!: Lightning Talk Edition by Julie Pagano](http://juliepagano.com/blog/2012/04/29/my-technology-will-be-intersectional-or-it-will-be-bullshit-lightning-talk-edition/)
-- [Ruby Midwest - Must Have 10+ Years People Experience by Ashe Dryden](http://ashedryden.com/ruby-midwest-must-have-10-years-people-experience)
+- [Anti-Oppression 101 by Lindsey Bieda & Steve Klabnik](https://confreaks.com/videos/1089-madisonruby2012-anti-opression-101)
+- [MINASWAN: Bryan Liles](https://www.confreaks.com/videos/625-madisonruby2011-minswan)
+- [My Technology Will Be Intersectional or It Will Be BULLSHIT!: Lightning Talk Edition by Julie Pagano](https://juliepagano.com/blog/2012/04/29/my-technology-will-be-intersectional-or-it-will-be-bullshit-lightning-talk-edition/)
+- [Ruby Midwest - Must Have 10+ Years People Experience by Ashe Dryden](https://ashedryden.com/ruby-midwest-must-have-10-years-people-experience)
 
 ### Book Club
 
-[The Rails View by John Athayde and Bruce Williams](http://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20): Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
+[The Rails View by John Athayde and Bruce Williams](https://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20): Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
 
 ### Next Week
 

@@ -25,14 +25,14 @@ tags:
 - EG Module
 - Dumping everything in one module or Lazy Routing
 - and much more!
-  **Links:&nbsp;** [AngularBootCamp.com](http://AngularBootCamp.com)@bps3 @johnrbuar[Oasis Digital Solutions](https://oasisdigital.com) **Picks:** Shai
+  **Links:&nbsp;** [AngularBootCamp.com](https://AngularBootCamp.com)@bps3 @johnrbuar[Oasis Digital Solutions](https://oasisdigital.com) **Picks:** Shai
 - [Angular In-Depth](https://blog.angularindepth.com/?gi=a1c8a716c022)
 - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 - [Angular Basics 1](https://www.hirez.io/c/angular-basics-1/e/episode-1-course-overview)
   Alyssa
 - [Active Power Mode](https://github.com/JoelBesada/activate-power-mode)
   Joe
-- [Better Off Ted](http://www.imdb.com/title/tt1235547/)
+- [Better Off Ted](https://www.imdb.com/title/tt1235547/)
   Charles
 - Low Carb Cheese Cake
   Paul

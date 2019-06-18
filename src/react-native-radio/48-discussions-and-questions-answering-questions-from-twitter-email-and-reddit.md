@@ -80,7 +80,7 @@ Go Mobile
 
 Go Lang
 
-http://www.golang.to
+https://www.golang.to
 
 **Peter**
 

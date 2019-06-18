@@ -47,7 +47,7 @@ tags:
   Charles
 - [Hensal Minutes Podcast&nbsp;](https://www.hanselminutes.com)
 - .NetRocks
-- [Two Keto Dudes](http://2ketodudes.com)
+- [Two Keto Dudes](https://2ketodudes.com)
 - NYC
   David
 - [The 3 Important Things I know about Consumers&nbsp; I Learned From Bartending &nbsp;](https://medium.com/swlh/the-3-most-important-things-i-know-about-consumers-i-learned-from-bartending-6a5f36829b)

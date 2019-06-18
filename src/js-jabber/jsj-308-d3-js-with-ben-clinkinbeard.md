@@ -64,7 +64,7 @@ Cory
 
 Joe Eames
 
-- [“JavaScript vs. TypeScript vs. ReasonML” by Dr. Axel Rauschmayer](http://2ality.com/2018/03/javascript-typescript-reasonml.html)
+- [“JavaScript vs. TypeScript vs. ReasonML” by Dr. Axel Rauschmayer](https://2ality.com/2018/03/javascript-typescript-reasonml.html)
 
 Aimee
 

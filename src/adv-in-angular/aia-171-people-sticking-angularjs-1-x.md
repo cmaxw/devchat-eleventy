@@ -46,8 +46,8 @@ tags:
 - Indiegogo for View and React, and Elixir
 - [JavaScript Daily&nbsp;](https://twitter.com/JavaScriptDaily?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
   Joe
-- [Bright&nbsp;](http://www.imdb.com/title/tt5519340/)
-- [Travelers&nbsp;](http://www.imdb.com/title/tt5651844/)
+- [Bright&nbsp;](https://www.imdb.com/title/tt5519340/)
+- [Travelers&nbsp;](https://www.imdb.com/title/tt5651844/)
   Alyssa
 - [NG Conf.](https://www.ng-conf.org)
 

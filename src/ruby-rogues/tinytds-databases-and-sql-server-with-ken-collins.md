@@ -30,7 +30,7 @@ When Ken first got into programming, all the data he dealt with were in SQL serv
 
 ## Picks:
 
-David: [Mattermost](https://about.mattermost.com/), MailDev Jason: [Zen and&nbsp;the Art of Motorcycle Maintenance](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)Brian: bundler-audit Charles: [Disneyland](https://disneyland.disney.go.com/), [MicroConf](http://www.microconf.com/), AWS Lambda, [Ruby Rogues Parley](http://rubyrogues.com/parley)Ken: [RevolutionConf](https://revolutionconf.com/), CSS
+David: [Mattermost](https://about.mattermost.com/), MailDev Jason: [Zen and&nbsp;the Art of Motorcycle Maintenance](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)Brian: bundler-audit Charles: [Disneyland](https://disneyland.disney.go.com/), [MicroConf](https://www.microconf.com/), AWS Lambda, [Ruby Rogues Parley](https://rubyrogues.com/parley)Ken: [RevolutionConf](https://revolutionconf.com/), CSS
 
 ## Episode Link:
 

@@ -34,10 +34,10 @@ Iconfactory&nbsp;focused on making the rendering model as simple as possible.&nb
 
 ## Picks:
 
-**Guillherme:** &nbsp;[Caterpillar](https://github.com/fpg1503/Caterpillar), [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) **Dustin:** &nbsp;[Headspace meditation guide](https://www.headspace.com/), [Divvy window manager](http://mizage.com/divvy/), [Audible books](http://www.audible.com/) **Troy:** &nbsp;[xScope app](http://xscopeapp.com/), [Acorn app by Flying Meat](http://www.flyingmeat.com/acorn/) **Jaim:** &nbsp;[iPad for Pros with Ged Maheux](http://www.imore.com/imore-show-543-ipads-pros-ged-maheux)
+**Guillherme:** &nbsp;[Caterpillar](https://github.com/fpg1503/Caterpillar), [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) **Dustin:** &nbsp;[Headspace meditation guide](https://www.headspace.com/), [Divvy window manager](https://mizage.com/divvy/), [Audible books](https://www.audible.com/) **Troy:** &nbsp;[xScope app](https://xscopeapp.com/), [Acorn app by Flying Meat](https://www.flyingmeat.com/acorn/) **Jaim:** &nbsp;[iPad for Pros with Ged Maheux](https://www.imore.com/imore-show-543-ipads-pros-ged-maheux)
 
 ## Episode Links:
 
-[Linea App](http://linea-app.com/)[Linea on Instagram](https://www.instagram.com/linea_app/)[Animated Review on Linea](http://www.imore.com/animated-review-linea-my-new-favorite-sketching-app)[Astropad](http://astropad.com/)
+[Linea App](https://linea-app.com/)[Linea on Instagram](https://www.instagram.com/linea_app/)[Animated Review on Linea](https://www.imore.com/animated-review-linea-my-new-favorite-sketching-app)[Astropad](https://astropad.com/)
 
 ### Transcript

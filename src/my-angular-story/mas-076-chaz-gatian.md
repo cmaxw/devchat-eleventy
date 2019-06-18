@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry&nbsp;](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry&nbsp;](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [Triplebyte](https://triplebyte.com/astory) offers a $1000 signing bonus
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** &nbsp;Chaz Gatian
@@ -35,7 +35,7 @@ In this episode of My Angular Story, Charles hosts Chaz Gatian, Principal Archit
 ### **&nbsp;Picks**
  **Chaz Gatian:**
 - <u><a href="https://single-spa.js.org/">single-spa</a></u>
-- [GraphQL Inspector](http://graphql-inspector.com)
+- [GraphQL Inspector](https://graphql-inspector.com)
 - [Web Accessibility Guide](https://webaccessibility.guide/)
 **Charles Max Wood:**
 - [MicroConf](https://www.microconf.com/)

@@ -14,35 +14,35 @@ tags:
 
 ### Panel
 
-- Steven Sanderson ([twitter](http://twitter.com/#!/stevensanderson)&nbsp;[github](https://github.com/SteveSanderson) [blog](http://blog.stevensanderson.com/))
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)[&nbsp;github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Yehuda Katz ([twitter](http://twitter.com/wycats)&nbsp;[github](https://github.com/wycats)&nbsp;[blog](http://yehudakatz.com/))
+- Steven Sanderson ([twitter](https://twitter.com/#!/stevensanderson)&nbsp;[github](https://github.com/SteveSanderson) [blog](https://blog.stevensanderson.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)[&nbsp;github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Yehuda Katz ([twitter](https://twitter.com/wycats)&nbsp;[github](https://github.com/wycats)&nbsp;[blog](https://yehudakatz.com/))
 
 ### Discussion
 
-- [Knockout.js](http://knockoutjs.com/)
+- [Knockout.js](https://knockoutjs.com/)
 - Model-View-Controller (MVC)
 - Model-View-Presenter (MVP)
 - Model-View-ViewModel (MVVM)
 - Declarative data binding
 - Control flow binding
 - Are the bindings "logic in the view"?
-- [Microsoft](http://www.microsoft.com/en-us/default.aspx)
+- [Microsoft](https://www.microsoft.com/en-us/default.aspx)
 - Reactive extensions for Javascript
 - Separation of Concerns
-- [Knockout JS Interactive tutorials](http://learn.knockoutjs.com/)
-- [Microsoft MVC](http://www.asp.net/mvc)
-- [Ruby on Rails](http://rubyonrails.org/)
-- [Node.js](http://nodejs.org/)
+- [Knockout JS Interactive tutorials](https://learn.knockoutjs.com/)
+- [Microsoft MVC](https://www.asp.net/mvc)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Node.js](https://nodejs.org/)
 - [Knockout Live](https://github.com/thelinuxlich/knockout.live.plugin)
 - Gmail clone as an example of what Knockout.js
-- [Backbone.js](http://documentcloud.github.com/backbone/)
+- [Backbone.js](https://documentcloud.github.com/backbone/)
 - Knockout focuses on the UI layer and doesn't provide obvious persistence support.
-- [knockout mapping plugin](http://knockoutjs.com/documentation/plugins-mapping.html)
+- [knockout mapping plugin](https://knockoutjs.com/documentation/plugins-mapping.html)
 - [knockout meteor](https://github.com/steveluscher/knockout.meteor)
-- [upshot.js](http://nuget.org/packages/upshot)
+- [upshot.js](https://nuget.org/packages/upshot)
 - onClick="function() {...}" (Don't do this)
 - Code Reuse
 - DOM based templating approach
@@ -51,14 +51,14 @@ tags:
 
 ### Picks
 
-- [@wwwtxt on Twitter](http://twitter.com/#!/wwwtxt) (Jamison)
-- [Wool](http://www.amazon.com/gp/product/1469984202/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1469984202)&nbsp;(Jamison)
-- [Utah Open Source Conference](http://www.utosc.com/) (AJ)
-- [UTOSC 2012 on YouTube](http://www.youtube.com/watch?v=MxPRSDj2qMI) (AJ)
-- [The New Best Recipe Cookbook](http://www.amazon.com/gp/product/0936184744/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0936184744)&nbsp;(Steven)
-- [The Conscious Mind](http://www.amazon.com/gp/product/0195117891/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0195117891)&nbsp;(Steven)
-- [The Better Angels of our Nature](http://www.amazon.com/gp/product/0670022950/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0670022950) (Yehuda)
-- Pickin On Series - [U2 Vol 1](http://www.amazon.com/gp/product/B000QZUH8E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000QZUH8E), [U2 Vol 2](http://www.amazon.com/gp/product/B000TPTNCW/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000TPTNCW), [3 Doors Down](http://www.amazon.com/gp/product/B000QZWIG8/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000QZWIG8)&nbsp;(Chuck)
+- [@wwwtxt on Twitter](https://twitter.com/#!/wwwtxt) (Jamison)
+- [Wool](https://www.amazon.com/gp/product/1469984202/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1469984202)&nbsp;(Jamison)
+- [Utah Open Source Conference](https://www.utosc.com/) (AJ)
+- [UTOSC 2012 on YouTube](https://www.youtube.com/watch?v=MxPRSDj2qMI) (AJ)
+- [The New Best Recipe Cookbook](https://www.amazon.com/gp/product/0936184744/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0936184744)&nbsp;(Steven)
+- [The Conscious Mind](https://www.amazon.com/gp/product/0195117891/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0195117891)&nbsp;(Steven)
+- [The Better Angels of our Nature](https://www.amazon.com/gp/product/0670022950/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0670022950) (Yehuda)
+- Pickin On Series - [U2 Vol 1](https://www.amazon.com/gp/product/B000QZUH8E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000QZUH8E), [U2 Vol 2](https://www.amazon.com/gp/product/B000TPTNCW/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000TPTNCW), [3 Doors Down](https://www.amazon.com/gp/product/B000QZWIG8/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000QZWIG8)&nbsp;(Chuck)
 
 ### Transcript
 

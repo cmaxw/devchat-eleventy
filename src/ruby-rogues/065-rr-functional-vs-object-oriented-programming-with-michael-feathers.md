@@ -12,24 +12,24 @@ tags:
   - podcast
 ---
 
-1:39 -&nbsp;[Groupon](http://www.groupon.com/)1:45 -&nbsp;[Working Effectively With Legacy Code](http://www.amazon.com/gp/product/0131177052/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0131177052)1:55 -&nbsp;[Functional Programming](http://en.wikipedia.org/wiki/Functional_programming)&nbsp;and&nbsp;[Object Oriented Programming](http://en.wikipedia.org/wiki/Object-oriented_programming)
+1:39 -&nbsp;[Groupon](https://www.groupon.com/)1:45 -&nbsp;[Working Effectively With Legacy Code](https://www.amazon.com/gp/product/0131177052/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0131177052)1:55 -&nbsp;[Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)&nbsp;and&nbsp;[Object Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
-- [Tell Above, and Ask Below - Hybridizing OO and Functional Design](http://michaelfeathers.typepad.com/michael_feathers_blog/2012/03/tell-above-and-ask-below-hybridizing-oo-and-functional-design.html)
-  5:12 - Synchronous vs. Asynchronous 6:55 -&nbsp;[Actor model](http://en.wikipedia.org/wiki/Actor_model)
+- [Tell Above, and Ask Below - Hybridizing OO and Functional Design](https://michaelfeathers.typepad.com/michael_feathers_blog/2012/03/tell-above-and-ask-below-hybridizing-oo-and-functional-design.html)
+  5:12 - Synchronous vs. Asynchronous 6:55 -&nbsp;[Actor model](https://en.wikipedia.org/wiki/Actor_model)
 - Large Functional System
   14:29 - Establishing a Bounded Context 16:35 - Information Hiding and Effect Hiding
-- [Scala](http://www.scala-lang.org/)
+- [Scala](https://www.scala-lang.org/)
   24:47 - "A car with four-wheel independent steering isn't more effective in any way."
 - Self Language
   28:44 - Accidental Complexity
 - Decoupling
-  34:26 - Protocols to Patterns 37:03 - [Adaptor Pattern](http://en.wikipedia.org/wiki/Adapter_pattern)38:48 -&nbsp;[Bit Blit](http://en.wikipedia.org/wiki/Bit_blit)
+  34:26 - Protocols to Patterns 37:03 - [Adaptor Pattern](https://en.wikipedia.org/wiki/Adapter_pattern)38:48 -&nbsp;[Bit Blit](https://en.wikipedia.org/wiki/Bit_blit)
 - Method Lookup
   41:33 - Where does OO and FP intersect at a functional level?
 
 ### Book Club
 
-We are reading [Growing Object Oriented Software Guided by Tests](http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627) and we will review with the author on August 22nd!
+We are reading [Growing Object Oriented Software Guided by Tests](https://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627) and we will review with the author on August 22nd!
 
 ### Transcript
 

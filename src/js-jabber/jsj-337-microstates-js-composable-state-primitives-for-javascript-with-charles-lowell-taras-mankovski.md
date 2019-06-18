@@ -222,7 +222,7 @@ Taras
 Charles Lowell
 
 - Chalkboards
-- [Sargent Art Chalk](http://sargentart.com/dustless-chalk/http://sargentart.com/dustless-chalk/)
+- [Sargent Art Chalk](https://sargentart.com/dustless-chalk/https://sargentart.com/dustless-chalk/)
 
 Chris
 

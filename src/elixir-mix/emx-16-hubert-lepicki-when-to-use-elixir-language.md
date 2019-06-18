@@ -65,9 +65,9 @@ In this episode of Elixir Mix, the panel talks to Hubert Lepicki about his blog 
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Code Badges](http://codebadge.org/)
+- [Code Badges](https://codebadge.org/)
 
 **Picks:**
 

@@ -46,6 +46,6 @@ tags:
   Evan
 - [CodeSandbox](https://codesandbox.io/)
 - Climbing
-- [VueConf US](http://us.vuejs.org/)
+- [VueConf US](https://us.vuejs.org/)
 
 ### Transcript

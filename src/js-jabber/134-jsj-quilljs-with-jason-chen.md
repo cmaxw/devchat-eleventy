@@ -16,8 +16,8 @@ tags:
 
 - [<u>twitter</u>](https://twitter.com/jhchen)
 - <u><a href="https://github.com/jhchen" data-cke-saved-href="https://github.com/jhchen">github</a></u>
-- [<u>blog</u>](http://www.jasonchen.me/)
-- Author of <u><a href="http://quilljs.com/" data-cke-saved-href="http://quilljs.com/">Quilljs</a></u>
+- [<u>blog</u>](https://www.jasonchen.me/)
+- Author of <u><a href="https://quilljs.com/" data-cke-saved-href="https://quilljs.com/">Quilljs</a></u>
   - [@quilljs](https://twitter.com/quilljs)
 
 02:27 - The Quill API
@@ -39,13 +39,13 @@ tags:
 
 13:11 - Inserting an Image
 
-- [<u>imgur</u>](http://imgur.com/)
+- [<u>imgur</u>](https://imgur.com/)
 
 15:04 - Challenges of Producing an Editor
 
 - Testing
   - Testing Tools
-    - [<u>Sikuli</u>](http://www.sikuli.org/)
+    - [<u>Sikuli</u>](https://www.sikuli.org/)
 
 17:35 - Long-term Plans
 
@@ -53,11 +53,11 @@ tags:
 
 - [<u>Sauce Labs</u>](https://saucelabs.com/)
 
-20:40 - Setting Up [<u>Quill</u>](http://quilljs.com/)
+20:40 - Setting Up [<u>Quill</u>](https://quilljs.com/)
 
 23:45 - Themes
 
-27:32 - Building [<u>Quill</u>](http://quilljs.com/)
+27:32 - Building [<u>Quill</u>](https://quilljs.com/)
 
 - <u><a href="https://twitter.com/stypi" data-cke-saved-href="https://twitter.com/stypi">Stypi</a></u>
   - [<u>@stypi</u>](https://twitter.com/stypi)

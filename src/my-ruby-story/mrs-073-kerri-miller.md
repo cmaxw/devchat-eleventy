@@ -14,13 +14,13 @@ tags:
 
  **Panel:** [Charles Max Wood](https://twitter.com/cmaxw?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
 
-**Guest:** [Kerri Miller](http://kerrizor.com)
+**Guest:** [Kerri Miller](https://kerrizor.com)
 
-This week on My Ruby Story, Chuck talks with [Kerri Miller](http://kerrizor.com) who is a developer who resides in Seattle! Chuck and Kerri talk about her background, how she got into programming, software, and much more. Check it out!
+This week on My Ruby Story, Chuck talks with [Kerri Miller](https://kerrizor.com) who is a developer who resides in Seattle! Chuck and Kerri talk about her background, how she got into programming, software, and much more. Check it out!
 
 **In particular, we dive pretty deep on:**
 
-0:00 – [Get A Coder Job!](http://getacoderjob.com/)
+0:00 – [Get A Coder Job!](https://getacoderjob.com/)
 
 0:52 – Chuck: Hello! Our guest is Kerri Miller – say Hi!
 
@@ -113,16 +113,16 @@ END – [CacheFly](https://www.cachefly.com)
 - [Rails](https://github.com/rails/rails)
 - [Rust](https://www.rust-lang.org/en-US/)
 - [Python](https://www.python.org)
-- [PHP](http://www.php.net)
+- [PHP](https://www.php.net)
 - [RR 191 Episode with Kerri Miller](https://youtu.be/N1Uw9rSXQh8)
 - [RR 261 Episode with Kerri Miller](https://devchat.tv/ruby-rogues/261-rr-networking-without-networking-with-kerri-miller/)
 - [Kerri Miller’s GitHub](https://github.com/kerrizor)
 - [Kerri Miller’s Twitter](https://twitter.com/kerrizor)
-- [Kerri Miller’s Website](http://kerrizor.com)
+- [Kerri Miller’s Website](https://kerrizor.com)
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Cache Fly](https://www.cachefly.com)
 - Fresh Books
 

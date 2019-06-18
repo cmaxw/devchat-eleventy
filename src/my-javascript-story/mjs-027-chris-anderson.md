@@ -60,7 +60,7 @@ Amed works the most on Angular, Chris’ job as Program Manager puts in him in a
 
 ##### **[00:22:33] What other extracurricular projects have you worked on?**
 
-Chris talks about doing a lot of side projects for a while. One working with [ExpressSocket.io](http://www.expresssocket.io). He also built a middleware project where you can write middleware into Functions. Plenty of little projects he puts on GitHub and never finishes. Chris talks about wishing he could switch hats between being the Program Manager and a developer.
+Chris talks about doing a lot of side projects for a while. One working with [ExpressSocket.io](https://www.expresssocket.io). He also built a middleware project where you can write middleware into Functions. Plenty of little projects he puts on GitHub and never finishes. Chris talks about wishing he could switch hats between being the Program Manager and a developer.
 
 ##### **[00:23:42] Is there anything in particular you feel like you’ve contributed to Angular?**
 
@@ -72,7 +72,7 @@ Chris talks about improving by putting in loads of pull requests for tons of Jav
 
 #### Chris
 
-Mountain Dew Pitch Black[The Expanse Series on SciFi](http://www.syfy.com/theexpanse)[Application Insights](https://azure.microsoft.com/en-us/services/application-insights/)
+Mountain Dew Pitch Black[The Expanse Series on SciFi](https://www.syfy.com/theexpanse)[Application Insights](https://azure.microsoft.com/en-us/services/application-insights/)
 
 #### Charles
 

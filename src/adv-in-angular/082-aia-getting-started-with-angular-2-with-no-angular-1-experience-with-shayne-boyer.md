@@ -16,11 +16,11 @@ tags:
 
 - [Twitter](https://twitter.com/spboyer)
 - [GitHub](https://github.com/spboyer)
-- [Blog](http://tattoocoder.com)
+- [Blog](https://tattoocoder.com)
 
 02:38 - Shayne’s Background
 
-- [TypeScript](http://www.typescriptlang.org/) =\> Angular 2
+- [TypeScript](https://www.typescriptlang.org/) =\> Angular 2
 
 07:20 - Benefits of Skipping Angular 1
 
@@ -28,25 +28,25 @@ tags:
 
 14:18 - First Experiences with Angular 2
 
-22:44 - [ASP.NET 5](http://get.asp.net)
+22:44 - [ASP.NET 5](https://get.asp.net)
 
 - [Shayne’s Play by Play on Pluralsight with John Papa](https://t.co/UAgfDNTsIc)
-- [Shayne Boyer: Legion of Heroes: haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker](http://www.tattoocoder.com/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/)
+- [Shayne Boyer: Legion of Heroes: haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker](https://www.tattoocoder.com/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/)
 
 26:22 - [Node](https://nodejs.org/)
 
 - Aggregation
 
-35:49 - HTTP, [ReactiveX](http://reactivex.io/languages.html)
+35:49 - HTTP, [ReactiveX](https://reactivex.io/languages.html)
 
 - [RX.NET and LINQ](https://github.com/Reactive-Extensions/Rx.NET)
 
 41:16 - Tips to Jump Into Angular 2
 
-- [TypeScript](http://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
   Picks
 
-John Papa’s New Angular 2 Course (Angular 2: First Look) on Pluralsight (Joe) Women in tech: Submit technical talks! (Joe)[Star Wars: Episode VIII](http://www.imdb.com/title/tt2527336/) (Joe)[Rogue One: A Star Wars Story](http://www.imdb.com/title/tt3748528/?ref_=nv_sr_1) (Joe)[[egghead.io] Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) (Ward)[Shayne’s Play by Play on Pluralsight](https://t.co/UAgfDNTsIc) (John)[Girls Who Code](http://girlswhocode.com/) (John) Pacifiers (Chuck)[Amsterdam](https://en.wikipedia.org/wiki/Amsterdam) (Chuck)[The Iron Druid Chronicles: Staked by Kevin Hearne](http://www.amazon.com/Staked-Iron-Druid-Chronicles-Eight-ebook/dp/B00VOYGYNS) (Chuck)[Calamity by Brandon Sanderson](http://www.amazon.com/Calamity-The-Reckoners-Brandon-Sanderson/dp/0385743602) (Chuck)[Thinking in Angular 2.0](https://www.youtube.com/watch?v=XlqoPpLMdwY) (Shayne)[Amazon Echo](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E) (Shayne)
+John Papa’s New Angular 2 Course (Angular 2: First Look) on Pluralsight (Joe) Women in tech: Submit technical talks! (Joe)[Star Wars: Episode VIII](https://www.imdb.com/title/tt2527336/) (Joe)[Rogue One: A Star Wars Story](https://www.imdb.com/title/tt3748528/?ref_=nv_sr_1) (Joe)[[egghead.io] Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) (Ward)[Shayne’s Play by Play on Pluralsight](https://t.co/UAgfDNTsIc) (John)[Girls Who Code](https://girlswhocode.com/) (John) Pacifiers (Chuck)[Amsterdam](https://en.wikipedia.org/wiki/Amsterdam) (Chuck)[The Iron Druid Chronicles: Staked by Kevin Hearne](https://www.amazon.com/Staked-Iron-Druid-Chronicles-Eight-ebook/dp/B00VOYGYNS) (Chuck)[Calamity by Brandon Sanderson](https://www.amazon.com/Calamity-The-Reckoners-Brandon-Sanderson/dp/0385743602) (Chuck)[Thinking in Angular 2.0](https://www.youtube.com/watch?v=XlqoPpLMdwY) (Shayne)[Amazon Echo](https://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E) (Shayne)
 
 ### Transcript
 

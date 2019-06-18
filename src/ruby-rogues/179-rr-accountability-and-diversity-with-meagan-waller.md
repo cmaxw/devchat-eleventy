@@ -17,8 +17,8 @@ tags:
 03:02 - Accountability and Social Justice
 
 - “Pipeline Programs”
-- <u><a href="http://girlswhocode.com/" data-cke-saved-href="http://girlswhocode.com">Girls Who Code</a></u>
-- [<u>Girl Develop It</u>](http://www.girldevelopit.com/)
+- <u><a href="https://girlswhocode.com/" data-cke-saved-href="https://girlswhocode.com">Girls Who Code</a></u>
+- [<u>Girl Develop It</u>](https://www.girldevelopit.com/)
 
 04:09 - Addressing Accountability
 
@@ -34,19 +34,19 @@ tags:
 
 - Level Barrier to Entry
 - Recruiting
-- [<u>Outpace</u>](http://www.outpace.com/)
+- [<u>Outpace</u>](https://www.outpace.com/)
 
 13:19 - Job Listing Scare-Offs
 
 14:55 - Drinking at Conferences
 
 - Adverse Effects
-- [<u>Nickel City Ruby</u>](http://nickelcityruby.com/)
-  - [<u>Events</u>](http://nickelcityruby.com/#schedule)
+- [<u>Nickel City Ruby</u>](https://nickelcityruby.com/)
+  - [<u>Events</u>](https://nickelcityruby.com/#schedule)
     - Boardgame Night
     - GitHub Drinkup
-- [<u>Steel City Ruby</u>](http://www.steelcityruby.org/)
-  - [<u>Events</u>](http://www.steelcityruby.org/events)
+- [<u>Steel City Ruby</u>](https://www.steelcityruby.org/)
+  - [<u>Events</u>](https://www.steelcityruby.org/events)
     - Four-Track Party
 - [<u>QCon New York</u>](https://qconnewyork.com/)
 
@@ -54,7 +54,7 @@ tags:
 
 - Call Out Sexism
 - [<u>Twitter</u>](https://twitter.com/)
-- [<u>Meetup</u>](http://www.meetup.com/)
+- [<u>Meetup</u>](https://www.meetup.com/)
 
 20:38 - Consequences for Intolerance
 
@@ -66,45 +66,45 @@ tags:
 
 23:14 - Learning From Failure
 
-- [<u>Meagan Waller Talk: Learning From Failure</u>](http://meaganwaller.com/talks)
+- [<u>Meagan Waller Talk: Learning From Failure</u>](https://meaganwaller.com/talks)
 
 24:48 - Conquering Fear of Failure
 
-- [<u>8th Light</u>](http://www.8thlight.com/)
-  - [<u>Apprenticeship Program</u>](http://www.8thlight.com/apprenticeship)
-- [<u>Carol Dweck</u>](http://en.wikipedia.org/wiki/Carol_Dweck)
-  - [<u>Article on Carol Dweck’s Mindset Study by Lisa Trei</u>](http://news.stanford.edu/news/2007/february7/dweck-020707.html)
-- [<u>Theory of Relativity</u>](http://en.wikipedia.org/wiki/Theory_of_relativity)
+- [<u>8th Light</u>](https://www.8thlight.com/)
+  - [<u>Apprenticeship Program</u>](https://www.8thlight.com/apprenticeship)
+- [<u>Carol Dweck</u>](https://en.wikipedia.org/wiki/Carol_Dweck)
+  - [<u>Article on Carol Dweck’s Mindset Study by Lisa Trei</u>](https://news.stanford.edu/news/2007/february7/dweck-020707.html)
+- [<u>Theory of Relativity</u>](https://en.wikipedia.org/wiki/Theory_of_relativity)
 
-29:54 - Overcoming [<u>“Impostor Syndrome”</u>](http://en.wikipedia.org/wiki/Impostor_syndrome)
+29:54 - Overcoming [<u>“Impostor Syndrome”</u>](https://en.wikipedia.org/wiki/Impostor_syndrome)
 
-- [<u>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman by Dave Hoover and Adewale Oshineye</u>](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382/ref=sr_1_1?s=books&ie=UTF8&qid=1414426953&sr=1-1&keywords=apprenticeship+patterns)
+- [<u>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman by Dave Hoover and Adewale Oshineye</u>](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382/ref=sr_1_1?s=books&ie=UTF8&qid=1414426953&sr=1-1&keywords=apprenticeship+patterns)
 - “Feedback Loop”
   - Praise Effort (Ask for Help)
   - Expose Ignorance
 
 31:57 - Personal Responsibility to Be Involved
 
-- [<u>QBQ! The Question Behind the Question: Practicing Personal Accountability at Work and in Life by John G. Miller</u>](http://www.amazon.com/QBQ-Question-Behind-Practicing-Accountability/dp/0399152334/ref=sr_1_1?s=books&ie=UTF8&qid=1414427142&sr=1-1&keywords=qbq)
+- [<u>QBQ! The Question Behind the Question: Practicing Personal Accountability at Work and in Life by John G. Miller</u>](https://www.amazon.com/QBQ-Question-Behind-Practicing-Accountability/dp/0399152334/ref=sr_1_1?s=books&ie=UTF8&qid=1414427142&sr=1-1&keywords=qbq)
 
 33:52 - Meagan’s First Project
 
 - Advice for New Developers
-- [<u>Treehouse</u>](http://teamtreehouse.com/)
+- [<u>Treehouse</u>](https://teamtreehouse.com/)
 
 37:17 - Learning vs. Knowing
 
-- [<u>Test Cases</u>](http://en.wikipedia.org/wiki/Test_case) and Implementation
+- [<u>Test Cases</u>](https://en.wikipedia.org/wiki/Test_case) and Implementation
 
 38:51 - Barriers to Careers
 
 - Documentation
-- [<u>Open source</u>](http://en.wikipedia.org/wiki/Open_source)
+- [<u>Open source</u>](https://en.wikipedia.org/wiki/Open_source)
 - [<u>Github</u>](https://github.com/)
 - Version Control
 - Text Skills
 - Public Speaking
-- [<u>Lightning Talks</u>](http://en.wikipedia.org/wiki/Lightning_talk)
+- [<u>Lightning Talks</u>](https://en.wikipedia.org/wiki/Lightning_talk)
 - Meagan Waller Podcast: CFP’s
   - [<u>Marty Haught</u>](https://twitter.com/mghaught)
 
@@ -115,8 +115,8 @@ tags:
 43:49 - Condescending Attitudes
 
 - “Tap Method”
-- [<u>Steve Henn: When Women Stopped Coding</u>](http://www.npr.org/blogs/money/2014/10/21/357629765/when-women-stopped-coding)
-- [<u>[Podcast] Episode 576: When Women Stopped Coding</u>](http://www.npr.org/blogs/money/2014/10/17/356944145/episode-576-when-women-stopped-coding)
+- [<u>Steve Henn: When Women Stopped Coding</u>](https://www.npr.org/blogs/money/2014/10/21/357629765/when-women-stopped-coding)
+- [<u>[Podcast] Episode 576: When Women Stopped Coding</u>](https://www.npr.org/blogs/money/2014/10/17/356944145/episode-576-when-women-stopped-coding)
 - Gender Balance
 
 46:19 - Hiring Women in Marginalized Groups
@@ -126,13 +126,13 @@ tags:
 47:56 - Hiring for Cultural Fit
 
 - Values
-- [<u>Pair Programming</u>](http://en.wikipedia.org/wiki/Pair_programming)
+- [<u>Pair Programming</u>](https://en.wikipedia.org/wiki/Pair_programming)
 - Coworker Friendships
 
 51:25 - Company Loyalty
 
-- <u><a href="http://rubyrogues.com/125-rr-loyalty-and-layoffs/" data-cke-saved-href="http://rubyrogues.com/125-rr-loyalty-and-layoffs/">Ruby Rogues Episode #125: Loyalty and Layoffs</a></u>
-  - [<u>David Brady: Loyalty and Layoffs</u>](http://heartmindcode.com/2013/08/16/loyalty-and-layoffs/)
+- <u><a href="https://rubyrogues.com/125-rr-loyalty-and-layoffs/" data-cke-saved-href="https://rubyrogues.com/125-rr-loyalty-and-layoffs/">Ruby Rogues Episode #125: Loyalty and Layoffs</a></u>
+  - [<u>David Brady: Loyalty and Layoffs</u>](https://heartmindcode.com/2013/08/16/loyalty-and-layoffs/)
 
 53:20 -&nbsp;&nbsp; &nbsp;Values To Look For
 
@@ -142,45 +142,45 @@ tags:
 54:13 - Red Flags
 
 - “Family”
-- [<u>Rails Rumble</u>](http://railsrumble.com/)
+- [<u>Rails Rumble</u>](https://railsrumble.com/)
 - Lack of Diversity
 
 56:13 - Next Move for Diverse Hiring
 
 - Diversity Consultants
 - Change Job Descriptions
-- [Ruby Rogues Episode #101: Diversity with Ashe Dryden](http://rubyrogues.com/101-rr-diversity-with-ashe-dryden/)
-- [Ashe Dryden: Increasing Diversity at Your Conference](http://www.ashedryden.com/blog/increasing-diversity-at-your-conference)
+- [Ruby Rogues Episode #101: Diversity with Ashe Dryden](https://rubyrogues.com/101-rr-diversity-with-ashe-dryden/)
+- [Ashe Dryden: Increasing Diversity at Your Conference](https://www.ashedryden.com/blog/increasing-diversity-at-your-conference)
   - [<u>Ashe Dryden</u>](https://twitter.com/ashedryden)
-- [<u>RailsBridge</u>](http://railsbridge.org/)
+- [<u>RailsBridge</u>](https://railsbridge.org/)
 
 1:00:47 - Change Threatening Atmospheres to Opportunities
 
 - [<u>Kronda</u>](https://twitter.com/kronda)
-- [<u>Days Since Last Tech Incident</u>](http://dayssincelasttechincident.com/)
-- [<u>Gamergate Controversy</u>](http://en.wikipedia.org/wiki/Gamergate_controversy)
+- [<u>Days Since Last Tech Incident</u>](https://dayssincelasttechincident.com/)
+- [<u>Gamergate Controversy</u>](https://en.wikipedia.org/wiki/Gamergate_controversy)
   - [<u>Brianna Wu</u>](https://twitter.com/Spacekatgal)
 
 1:07:57 - Online vs. In-Person Threats
 
 - Twitter and Harassment
 - Social Media Bullying
-- [<u>The Attack on Kathy Sierra by Dan Frost (The Technology Chronicles)</u>](http://blog.sfgate.com/techchron/2007/03/27/the-attack-on-kathy-sierra/)
-- [<u>Kathy Sierra</u>](http://en.wikipedia.org/wiki/Kathy_Sierra)
+- [<u>The Attack on Kathy Sierra by Dan Frost (The Technology Chronicles)</u>](https://blog.sfgate.com/techchron/2007/03/27/the-attack-on-kathy-sierra/)
+- [<u>Kathy Sierra</u>](https://en.wikipedia.org/wiki/Kathy_Sierra)
 - Legal Action
-- <u><a href="http://gracehopper.org/" data-cke-saved-href="http://gracehopper.org">Grace Hopper</a></u>
-  - [Satya Nadella](http://en.wikipedia.org/wiki/Satya_Nadella)
-  - [<u>Male Allies Panel</u>](http://readwrite.com/2014/10/09/technology-sexism-male-allies-grace-hopper-celebration)
+- <u><a href="https://gracehopper.org/" data-cke-saved-href="https://gracehopper.org">Grace Hopper</a></u>
+  - [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella)
+  - [<u>Male Allies Panel</u>](https://readwrite.com/2014/10/09/technology-sexism-male-allies-grace-hopper-celebration)
 
 1:18:21 - Accountability and Listening
 
 - Believing Stories
-- [<u>Avdi Grimm: I get catcalled</u>](http://journal.avdi.org/2014/10/07/i-get-catcalled/)
+- [<u>Avdi Grimm: I get catcalled</u>](https://journal.avdi.org/2014/10/07/i-get-catcalled/)
 
 1:24:52 - Wording
 
 - “They”
-- [Ways Men In Tech Are Unintentionally Sexist](http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/)
+- [Ways Men In Tech Are Unintentionally Sexist](https://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/)
 - “People” vs. “Guys”
 - “Girls” vs. “Women”
 - [<u>Ruby Community</u>](https://www.ruby-lang.org/en/community/)

@@ -16,9 +16,9 @@ tags:
 
 - [Twitter](https://twitter.com/victorsavkin)
 - [GitHub](https://github.com/vsavkin)
-- [Blog](http://victorsavkin.com/)
+- [Blog](https://victorsavkin.com/)
 
-02:30 - [Dependency Injection (DI)](http://en.wikipedia.org/wiki/Dependency_injection)
+02:30 - [Dependency Injection (DI)](https://en.wikipedia.org/wiki/Dependency_injection)
 
 - “Inject By Type”
 - Other Project Use
@@ -39,12 +39,12 @@ tags:
 
 18:02 - Change Detection
 
-- [Victor](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)[Savkin](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)[: Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
+- [Victor](https://victorsavkin.com/post/110170125256/change-detection-in-angular-2)[Savkin](https://victorsavkin.com/post/110170125256/change-detection-in-angular-2)[: Change Detection in Angular 2](https://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
 - [[YouTube] Change Detection Reinvented by Victor ](https://www.youtube.com/watch?v=jvKGQSFQf10)[Savkin](https://www.youtube.com/watch?v=jvKGQSFQf10)[@ ng-conf 2015](https://www.youtube.com/watch?v=jvKGQSFQf10)
 
 24:33 - Components & Immutability
 
-- [immutable-js](http://facebook.github.io/immutable-js/)
+- [immutable-js](https://facebook.github.io/immutable-js/)
 
 28:08 - Scope
 
@@ -56,10 +56,10 @@ tags:
 
 - Action Phase/Control Phase
 - Production Mode/Dev Mode
-  - [Victor](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)[Savkin](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)[: Two Phases of Angular 2 Applications](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)&nbsp;
+  - [Victor](https://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)[Savkin](https://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)[: Two Phases of Angular 2 Applications](https://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)&nbsp;
     Picks
 
-[My Story by Elizabeth Smart](http://www.amazon.com/gp/product/1250055458/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250055458&linkCode=as2&tag=chamaxwoo-20&linkId=PJM2P3MKRYS372ZU) (Aaron)[Shawarma](http://en.wikipedia.org/wiki/Shawarma) (Joe)[Home](http://www.imdb.com/title/tt2224026/) (Katya)[Mulan](http://movies.disney.com/mulan) (Katya)[How to Win Friends & Influence People by Dale Carnegie](http://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=chamaxwoo-20&linkId=WDNUHBF76J7TC4DS) (Chuck)[WorkFlowy](https://workflowy.com/) (Chuck)[Habit Stacking: 97 Small Life Changes That Take Five Minutes or Less by S.J. Scott](http://www.amazon.com/gp/product/1499341474/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1499341474&linkCode=as2&tag=chamaxwoo-20&linkId=3MLNVCV3VIJVD5AO) (Chuck)[Mini Habits: Smaller Habits, Bigger Results by Stephen Guise](http://www.amazon.com/gp/product/1494882272/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1494882272&linkCode=as2&tag=chamaxwoo-20&linkId=B4LENVVTK6ERPEYP) (Chuck)[Android: Netrunner Card Game](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/) (Victor) Mechanical Keyboards (Victor)
+[My Story by Elizabeth Smart](https://www.amazon.com/gp/product/1250055458/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250055458&linkCode=as2&tag=chamaxwoo-20&linkId=PJM2P3MKRYS372ZU) (Aaron)[Shawarma](https://en.wikipedia.org/wiki/Shawarma) (Joe)[Home](https://www.imdb.com/title/tt2224026/) (Katya)[Mulan](https://movies.disney.com/mulan) (Katya)[How to Win Friends & Influence People by Dale Carnegie](https://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=chamaxwoo-20&linkId=WDNUHBF76J7TC4DS) (Chuck)[WorkFlowy](https://workflowy.com/) (Chuck)[Habit Stacking: 97 Small Life Changes That Take Five Minutes or Less by S.J. Scott](https://www.amazon.com/gp/product/1499341474/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1499341474&linkCode=as2&tag=chamaxwoo-20&linkId=3MLNVCV3VIJVD5AO) (Chuck)[Mini Habits: Smaller Habits, Bigger Results by Stephen Guise](https://www.amazon.com/gp/product/1494882272/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1494882272&linkCode=as2&tag=chamaxwoo-20&linkId=B4LENVVTK6ERPEYP) (Chuck)[Android: Netrunner Card Game](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/) (Victor) Mechanical Keyboards (Victor)
 
 ### Transcript
 

@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips](http://devchat.tv/rails-clips) and [Angular Remote Conf](http://www.angularremoteconf.com)!
+Check out [RailsClips](https://devchat.tv/rails-clips) and [Angular Remote Conf](https://www.angularremoteconf.com)!
 
 &nbsp;
 
@@ -28,7 +28,7 @@ Check out [RailsClips](http://devchat.tv/rails-clips) and [Angular Remote Conf](
 
 37:04 - Travel Expenses
 
-47:33 - Quality = Positive [Return On Investment (ROI)](http://www.investopedia.com/terms/r/returnoninvestment.asp)
+47:33 - Quality = Positive [Return On Investment (ROI)](https://www.investopedia.com/terms/r/returnoninvestment.asp)
 
 - Self-Representation
 
@@ -36,21 +36,21 @@ Check out [RailsClips](http://devchat.tv/rails-clips) and [Angular Remote Conf](
 
 Products and Services Referenced During This Episode:
 
-- [BuiltWith](http://builtwith.com/)
-- [Edgar](http://meetedgar.com/)
+- [BuiltWith](https://builtwith.com/)
+- [Edgar](https://meetedgar.com/)
 - [Buffer](https://buffer.com/)
 - [Basecamp](https://basecamp.com/)
 - [Dropbox](https://www.dropbox.com/en/)
-- [CleanMyMac](http://macpaw.com/cleanmymac)
+- [CleanMyMac](https://macpaw.com/cleanmymac)
 - [Synology](https://www.synology.com/)
-- [Drobo](http://www.drobo.com/)
+- [Drobo](https://www.drobo.com/)
 - [Emacs](https://www.gnu.org/software/emacs/)
 - [Keynote](https://www.apple.com/mac/keynote/)
-- [IPython Notebook](http://ipython.org/notebook.html)
+- [IPython Notebook](https://ipython.org/notebook.html)
 - [Uber](https://www.uber.com/)
   Picks
 
-[ExpressVPN](http://expressvpn.com) (Reuven)[Young Money: Inside the Hidden World of Wall Street's Post-Crash Recruits by Kevin Roose](http://www.amazon.com/gp/product/044658326X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=044658326X&linkCode=as2&tag=chamaxwoo-20&linkId=C3HYSFKGP76I6SF5) (Reuven)[CommitStrip: A Very Common Coder’s Youthful Mistake](http://www.commitstrip.com/en/2015/08/03/a-very-common-coders-youthful-mistake/) (Eric)[Paul Jarvis: The one thing every aspiring freelancer, college student or person with access to a time machine should know](https://pjrvs.com/a/perceive) (Eric)[Amazon Echo](http://www.amazon.com/gp/product/B00X4WHP5E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X4WHP5E&linkCode=as2&tag=chamaxwoo-20&linkId=34TRABQ35N6US2MN) (Jonathan)1-877-223-0342 (Chuck)[freelancershow.com/15minutes](http://www.freelancershow.com/15minutes) (Chuck)
+[ExpressVPN](https://expressvpn.com) (Reuven)[Young Money: Inside the Hidden World of Wall Street's Post-Crash Recruits by Kevin Roose](https://www.amazon.com/gp/product/044658326X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=044658326X&linkCode=as2&tag=chamaxwoo-20&linkId=C3HYSFKGP76I6SF5) (Reuven)[CommitStrip: A Very Common Coder’s Youthful Mistake](https://www.commitstrip.com/en/2015/08/03/a-very-common-coders-youthful-mistake/) (Eric)[Paul Jarvis: The one thing every aspiring freelancer, college student or person with access to a time machine should know](https://pjrvs.com/a/perceive) (Eric)[Amazon Echo](https://www.amazon.com/gp/product/B00X4WHP5E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X4WHP5E&linkCode=as2&tag=chamaxwoo-20&linkId=34TRABQ35N6US2MN) (Jonathan)1-877-223-0342 (Chuck)[freelancershow.com/15minutes](https://www.freelancershow.com/15minutes) (Chuck)
 
 ### Transcript
 

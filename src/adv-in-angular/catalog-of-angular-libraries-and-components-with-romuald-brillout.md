@@ -30,6 +30,6 @@ There were about 120 Angular libraries when Romuald started the list. Around 50 
 
 ## **Picks:**
 
-Joe:&nbsp;[jQuery](https://jquery.com/), [PrimeNG](https://www.primefaces.org/primeng/#/), and [SaltCON](http://saltcon.com/)Lukas: [The Complete Far Side](https://www.amazon.com/Complete-Far-Side-Gary-Larson/dp/1449460046)Ward: cave painting Charles: [The Shack](http://www.imdb.com/title/tt2872518/)Romuald: Pushing the (49:13) Consortium
+Joe:&nbsp;[jQuery](https://jquery.com/), [PrimeNG](https://www.primefaces.org/primeng/#/), and [SaltCON](https://saltcon.com/)Lukas: [The Complete Far Side](https://www.amazon.com/Complete-Far-Side-Gary-Larson/dp/1449460046)Ward: cave painting Charles: [The Shack](https://www.imdb.com/title/tt2872518/)Romuald: Pushing the (49:13) Consortium
 
 ### Transcript

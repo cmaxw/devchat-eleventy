@@ -24,15 +24,15 @@ tags:
 - [WWDC: iMessage Apps and Stickers, Part 1](https://developer.apple.com/videos/play/wwdc2016/204/)
 - [WWDC: iMessage Apps and Stickers, Part 2](https://developer.apple.com/videos/play/wwdc2016/224/)
   14:10 - Maps
-- [Apple overhauls iOS Maps with a new design](http://www.theverge.com/2016/6/13/11922842/apple-maps-new-design-ios-10)
+- [Apple overhauls iOS Maps with a new design](https://www.theverge.com/2016/6/13/11922842/apple-maps-new-design-ios-10)
   16:43 - Extensions
 - Viral Potential
 - Reactions/Effects
 - [WeChat](https://itunes.apple.com/us/app/wechat/id414478124?mt=8)
   26:31 - [VoIP (Voice over IP)](https://en.wikipedia.org/wiki/Voice_over_IP)27:04 - Security/Privacy&nbsp;Picks
 - [ClippyJS](https://www.smore.com/clippy-js) (Jaim)
-- [Auric Solar](http://auricsolar.com) (Layne)
-- [Procrastinate on Purpose by Rory Vaden](http://www.procrastinateonpurpose.com/) (Chuck)
+- [Auric Solar](https://auricsolar.com) (Layne)
+- [Procrastinate on Purpose by Rory Vaden](https://www.procrastinateonpurpose.com/) (Chuck)
 
 ### Transcript
 

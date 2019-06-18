@@ -16,8 +16,8 @@ tags:
 
 - [<u>twitter</u>](https://twitter.com/WardCunningham)
 - <u><a href="https://github.com/WardCunningham" data-cke-saved-href="https://github.com/WardCunningham">github</a></u>
-- [<u>blog</u>](http://c2.com/)
-- [<u>wiki</u>](http://c2.com/cgi/wiki)
+- [<u>blog</u>](https://c2.com/)
+- [<u>wiki</u>](https://c2.com/cgi/wiki)
 
 03:03 - [<u>Smallest-Federated-Wiki</u>](https://github.com/WardCunningham/Smallest-Federated-Wiki)
 
@@ -31,13 +31,13 @@ tags:
 07:42 - “Federated” Defined
 
 - How it Works
-- [<u>Creative Commons</u>&nbsp;&nbsp; &nbsp;](http://creativecommons.org/)
+- [<u>Creative Commons</u>&nbsp;&nbsp; &nbsp;](https://creativecommons.org/)
 
 13:55 - Getting Started
 
 15:53 - Single-Page Application Development
 
-- [<u>Browserify</u>](http://browserify.org/)
+- [<u>Browserify</u>](https://browserify.org/)
 - The Dependency Hierarchy Upside Down
 
 18:36 - The Lineup
@@ -54,7 +54,7 @@ tags:
 
 35:36 - Community Moderation
 
-- [<u>Wiki Spam</u>](http://meatballwiki.org/wiki/WikiSpam)
+- [<u>Wiki Spam</u>](https://meatballwiki.org/wiki/WikiSpam)
   42:29 - Blogging Replacement?
 
 ### Transcript

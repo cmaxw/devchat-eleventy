@@ -14,10 +14,10 @@ tags:
 
 ### Panel
 
-- Joe Eames&nbsp;([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Jamison Dance&nbsp;([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Charles Max Wood&nbsp;([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
+- Joe Eames&nbsp;([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Jamison Dance&nbsp;([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Charles Max Wood&nbsp;([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
 
 ### Discussion
 
@@ -26,24 +26,24 @@ tags:
 - Poopfield - PHP Development
 - Dealing With Legacy Code
 - Use Tests
-- [Working Effectively with Legacy Code - Michael Feathers](http://www.amazon.com/gp/product/0131177052/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0131177052)
+- [Working Effectively with Legacy Code - Michael Feathers](https://www.amazon.com/gp/product/0131177052/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0131177052)
 - Risk
 - When is the big rewrite the correct answer?
 
 ### Picks
 
-- [Joseph Smith: Rough Stone Rolling](http://www.amazon.com/gp/product/1400077532/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1400077532) (AJ)
-- [Roll Up Crepes](http://www.urbanspoon.com/r/54/1585549/restaurant/Salt-Lake-City/Roll-Up-Crepes-Orem)&nbsp;(AJ)
-- [Calepin](http://calepin.co/) (AJ)
-- [Bernie](http://www.amazon.com/gp/product/B00891ZD6I/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00891ZD6I) (Jamison)
-- [Dota 2](http://store.steampowered.com/app/570/) (Jamison)
-- Derrick Storm Novels - [A Brewing Storm](http://www.amazon.com/gp/product/B007A577SQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007A577SQ), [A Bloody Storm](http://www.amazon.com/gp/product/B007AE2RGY/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007AE2RGY), [A Raging Storm](http://www.amazon.com/gp/product/B007AE2RDW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007AE2RDW) (Joe)
-- [Castle](http://www.amazon.com/gp/product/B001XRLWPQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001XRLWPQ) (Joe)
-- [X-Wing Mineatures](http://www.amazon.com/gp/product/B007Y8JH46/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007Y8JH46)&nbsp;(Joe)
-- [PEX For Fun](http://www.pexforfun.com/)&nbsp;(Joe)
+- [Joseph Smith: Rough Stone Rolling](https://www.amazon.com/gp/product/1400077532/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1400077532) (AJ)
+- [Roll Up Crepes](https://www.urbanspoon.com/r/54/1585549/restaurant/Salt-Lake-City/Roll-Up-Crepes-Orem)&nbsp;(AJ)
+- [Calepin](https://calepin.co/) (AJ)
+- [Bernie](https://www.amazon.com/gp/product/B00891ZD6I/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00891ZD6I) (Jamison)
+- [Dota 2](https://store.steampowered.com/app/570/) (Jamison)
+- Derrick Storm Novels - [A Brewing Storm](https://www.amazon.com/gp/product/B007A577SQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007A577SQ), [A Bloody Storm](https://www.amazon.com/gp/product/B007AE2RGY/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007AE2RGY), [A Raging Storm](https://www.amazon.com/gp/product/B007AE2RDW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007AE2RDW) (Joe)
+- [Castle](https://www.amazon.com/gp/product/B001XRLWPQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001XRLWPQ) (Joe)
+- [X-Wing Mineatures](https://www.amazon.com/gp/product/B007Y8JH46/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007Y8JH46)&nbsp;(Joe)
+- [PEX For Fun](https://www.pexforfun.com/)&nbsp;(Joe)
 - MLG Championship - Starcraft Duel (Joe)
-- [VESA 75 to 100 Adapter](http://www.amazon.com/gp/product/B005H4GTFE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005H4GTFE) (Chuck)
-- [LG Tone Bluetooth Headphones](http://www.amazon.com/gp/product/B0052YFYFK/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0052YFYFK) (Chuck)
+- [VESA 75 to 100 Adapter](https://www.amazon.com/gp/product/B005H4GTFE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005H4GTFE) (Chuck)
+- [LG Tone Bluetooth Headphones](https://www.amazon.com/gp/product/B0052YFYFK/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0052YFYFK) (Chuck)
 
 ### Transcript
 

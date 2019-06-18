@@ -111,8 +111,8 @@ This week on My Ruby Story, [Charles](https://twitter.com/cmaxw?ref_src=twsrc%25
 
 **Sponsors:**
 
-- [Code Badges](http://codebadge.org/)
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Code Badges](https://codebadge.org/)
+- [Get a Coder Job](https://getacoderjob.com/)
 
 **Picks:**
 
@@ -120,7 +120,7 @@ Charles
 
 - [Audible](https://www.audible.com)
 - [AirPods](https://www.apple.com/airpods/)
-- [Ketogenic](http://2ketodudes.com)
+- [Ketogenic](https://2ketodudes.com)
 
 Jamie
 

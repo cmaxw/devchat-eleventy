@@ -21,11 +21,11 @@ tags:
 
 **Special Guests:** Shmuela Jacobs, Samantha Rhodes, and Bonnie Brennan
 
-In this episode of Adventures in Angular, the panel talks to Shmuela Jacobs, Samantha Rhodes, and Bonnie Brennan about [ngGirls](http://ng-girls.org/). ngGirls is an organization that provides a free one-day workshop with volunteer mentors who will teach them[Angular](https://angular.io/) basics. It was inspired by [Django Girls](https://djangogirls.org/) and provides this type introduction to programming for women who want to learn about Angular. They are really passionate about bringing ngGirls all around the world so that women everywhere can be introduced to both Angular and programming.
+In this episode of Adventures in Angular, the panel talks to Shmuela Jacobs, Samantha Rhodes, and Bonnie Brennan about [ngGirls](https://ng-girls.org/). ngGirls is an organization that provides a free one-day workshop with volunteer mentors who will teach them[Angular](https://angular.io/) basics. It was inspired by [Django Girls](https://djangogirls.org/) and provides this type introduction to programming for women who want to learn about Angular. They are really passionate about bringing ngGirls all around the world so that women everywhere can be introduced to both Angular and programming.
 
 **In particular, we dive pretty deep on:**
 
-- What is [ngGirls](http://ng-girls.org/)?
+- What is [ngGirls](https://ng-girls.org/)?
 - Started in November 2016 in Israel
 - [Django Girls](https://djangogirls.org/)
 - Helps build motivation in young girls to keep programming
@@ -46,8 +46,8 @@ In this episode of Adventures in Angular, the panel talks to Shmuela Jacobs, Sam
 
 **Links:&nbsp;**
 
-- [ngGirls](http://ng-girls.org/)
-- [ngAtlanta](http://ng-atl.org/)
+- [ngGirls](https://ng-girls.org/)
+- [ngAtlanta](https://ng-atl.org/)
 - [Django Girls](https://djangogirls.org/)
 - [Angular](https://angular.io/)
 - [ngConf](https://www.ng-conf.org/)
@@ -68,7 +68,7 @@ Charles
 
 Alyssa
 
-- [Ready Player One Movie](http://readyplayeronemovie.com/)
+- [Ready Player One Movie](https://readyplayeronemovie.com/)
 
 Joe
 

@@ -66,7 +66,7 @@ Reuven suggests people speak at conferences, local user groups, or do webinars. 
 
 #### Reuven
 
-[Music for Makers](http://www.musicformakers.com)[Trainerweekly.com](www.trainerweekly.com)[Weekly Python Exercise](http://WeeklyPythonExercise.com)[Tech Training Group on Facebook](https://facebook.com/groups/techtraining/)
+[Music for Makers](https://www.musicformakers.com)[Trainerweekly.com](www.trainerweekly.com)[Weekly Python Exercise](https://WeeklyPythonExercise.com)[Tech Training Group on Facebook](https://facebook.com/groups/techtraining/)
 
 ---
 

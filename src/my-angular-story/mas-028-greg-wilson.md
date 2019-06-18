@@ -20,7 +20,7 @@ tags:
 - Really enjoyed building software
 - Worked to help build the world’s first wireless mouse
 - Master’s degree in artificial intelligence
-- Do you have any experience with [Ruby](http://www.ruby-lang.org/en/)?
+- Do you have any experience with [Ruby](https://www.ruby-lang.org/en/)?
 - He is a [Python](https://www.python.org/) user
 - He has been teaching scientists how to program for the past 8-10 years
 - Analytics are important
@@ -35,21 +35,21 @@ tags:
 - And much, much more!
   **Links:&nbsp;**
 - [Rangle](https://rangle.io/)
-- [Ruby](http://www.ruby-lang.org/en/)
+- [Ruby](https://www.ruby-lang.org/en/)
 - [Python](https://www.python.org/)
 - [Cognitive dimensions framework](https://www.cl.cam.ac.uk/~afb21/CognitiveDimensions/)
 - [_Software Design Decoded: 66 Ways Experts Think_](https://www.amazon.com/Software-Design-Decoded-Experts-Think/dp/0262035189)
 - [DataCamp](https://www.datacamp.com/)
 - [Greg’s GitHub](https://github.com/gvwilson)
 - [@GVWilson](https://twitter.com/gvwilson?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor)
-- [Third-Bit.com](http://third-bit.com/)
+- [Third-Bit.com](https://third-bit.com/)
   **Picks:** Charles
 - [St. George, Utah Parade of Homes](https://paradehomes.com/web/)
 - [Upside](https://upside.com/travel)
   Greg
 - Bridge Program in Ontario
 - JavaScript tutorial coming soon
-- [AOSABook.org](http://aosabook.org/en/index.html)
+- [AOSABook.org](https://aosabook.org/en/index.html)
 - [Samson Meteor Microphone](https://www.amazon.com/Samson-Meteor-Studio-Microphone-Chrome/dp/B004MF39YS)
 
 ### Transcript

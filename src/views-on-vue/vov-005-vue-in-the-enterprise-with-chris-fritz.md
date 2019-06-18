@@ -71,7 +71,7 @@ Charles
 - [_Ready Player One_ by Ernest Cline](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448)
 - [Chuck@Devchat.tv](mailto:Chuck@Devchat.tv)
 - [@CMaxW](https://twitter.com/cmaxw?lang=en)
-- [Suggest Topics](http://viewsonvue.com/)
+- [Suggest Topics](https://viewsonvue.com/)
 
 Erik
 
@@ -79,9 +79,9 @@ Erik
 
 Chris
 
-- [Vue Conf US](http://us.vuejs.org/)
+- [Vue Conf US](https://us.vuejs.org/)
 - [_The Three-Body Problem_ by Cixin Liu](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032)
-- [Into the Breach](http://store.steampowered.com/app/590380/Into_the_Breach/)
+- [Into the Breach](https://store.steampowered.com/app/590380/Into_the_Breach/)
 - [Vue Vixens](https://vuevixens.org/)
 
 ### Transcript

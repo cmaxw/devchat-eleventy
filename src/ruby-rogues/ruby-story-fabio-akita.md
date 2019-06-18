@@ -38,14 +38,14 @@ Connect with Fabio&nbsp;@akitaonrails through the links below. Don’t forget to
 
 - [Twitter](https://twitter.com/akitaonrails)
 - [Facebook](https://www.facebook.com/akitaonrails)
-- [Blog](http://www.akitaonrails.com/)
+- [Blog](https://www.akitaonrails.com/)
 
 ## Picks:
 
-Fabio: [Windows 10 and Linux](http://www.akitaonrails.com/2016/07/26/the-year-of-linux-on-the-desktop-it-s-usable), [Arch Linux](http://www.akitaonrails.com/archlinux)Charles: [Zapier](https://zapier.com/),&nbsp;Mobabi
+Fabio: [Windows 10 and Linux](https://www.akitaonrails.com/2016/07/26/the-year-of-linux-on-the-desktop-it-s-usable), [Arch Linux](https://www.akitaonrails.com/archlinux)Charles: [Zapier](https://zapier.com/),&nbsp;Mobabi
 
 ## Episode Links:
 
-[THE CONF Call for Papers](http://cfp.theconf.club/)[Fabio's fork of Fulcrum renamed into “Central”](https://github.com/Codeminer42/cm42-central)[Hosted version of Central](http://central.cm42.io/)
+[THE CONF Call for Papers](https://cfp.theconf.club/)[Fabio's fork of Fulcrum renamed into “Central”](https://github.com/Codeminer42/cm42-central)[Hosted version of Central](https://central.cm42.io/)
 
 ### Transcript

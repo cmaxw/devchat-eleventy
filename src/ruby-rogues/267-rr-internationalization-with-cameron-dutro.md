@@ -5,7 +5,7 @@ title: >
 date: 2016-07-06 07:00:42
 episode_number: 267
 duration: 01:01:38
-audio_url: http://media.devchat.tv/ruby-rogues/RR267Internationalization.mp3
+audio_url: https://media.devchat.tv/ruby-rogues/RR267Internationalization.mp3
 podcast: ruby-rogues
 tags:
   - ruby_rogues
@@ -16,41 +16,41 @@ tags:
 
 - [Twitter](https://twitter.com/camertron)
 - [GitHub](https://github.com/camertron)
-- [Lumosity](http://www.lumosity.com)
+- [Lumosity](https://www.lumosity.com)
   02:39 - [Internationalization](https://en.wikipedia.org/wiki/Internationalization) vs [Localization](https://en.wikipedia.org/wiki/Localization)05:28 - How important is internationalization?13:54 - Internationalization and Accessibility
 - [The Tragedy of the Commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
   Developer Ignorance/Indifference19:43 - Tools
 - [Twitter Translation Center](https://translate.twitter.com/)
-- [Rosette](http://rosette-proj.github.io)
+- [Rosette](https://rosette-proj.github.io)
 - [txgh](https://github.com/lumoslabs/txgh)
 - [Transifex](https://www.transifex.com)
   24:48 - How can small companies internationalize?26:22 - Crowdsourcing
-- [Contributor Covenant](http://contributor-covenant.org/)
+- [Contributor Covenant](https://contributor-covenant.org/)
   30:34 - People Have Names
 - [Patrick McKenzie: Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [Falsehoods Programmers Believe About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md)
-- [Carina C. Zona: Schemas for the Real World @ RubyConf AU 2013](http://www.slideshare.net/cczona/schemas-for-the-real-world-rubyconf-au-201302)
+- [Carina C. Zona: Schemas for the Real World @ RubyConf AU 2013](https://www.slideshare.net/cczona/schemas-for-the-real-world-rubyconf-au-201302)
   34:54 - Gender
 - I18n, l10n, m10n: Abbreviations for Internationalization, Localization, and Minimization
   39:35 - Educational Resources
-- [Rails Guides on Internationalization](http://guides.rubyonrails.org/i18n.html)
-- [ICU - International Components for Unicode](http://site.icu-project.org/)
+- [Rails Guides on Internationalization](https://guides.rubyonrails.org/i18n.html)
+- [ICU - International Components for Unicode](https://site.icu-project.org/)
 - [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)
-- [CLDR - Unicode Common Locale Data Repository](http://cldr.unicode.org/)
-  47:14 - [Unicode](http://unicode.org/)
-- [Unicode Consortium](http://unicode.org/consortium/consort.html)
+- [CLDR - Unicode Common Locale Data Repository](https://cldr.unicode.org/)
+  47:14 - [Unicode](https://unicode.org/)
+- [Unicode Consortium](https://unicode.org/consortium/consort.html)
 - [Aditya Mukerjee: I Can Text You A Pile of Poo, But I Can’t Write My Name](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)
   &nbsp; Picks
 - [I17n.rb](https://github.com/dbrady/scrapbin/blob/master/stupid/i17n.rb) - Intranumeralization (David)
 - [Patrick McKenzie: Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) (David)
-- [Mogo Portable Active Office Chair](http://store.focalupright.com/mogo-seat-p/fks-1000.htm) (Sam)
-- [Richard Schneems: Saving Sprockets](http://schneems.com/2016/05/31/saving-sprockets.html) (Coraline)
-- [Calvino Noir](http://mcro.org) (Coraline)
-- [ICU](http://site.icu-project.org/)(Cameron)
-- [CLDR](http://cldr.unicode.org/) (Cameron)
+- [Mogo Portable Active Office Chair](https://store.focalupright.com/mogo-seat-p/fks-1000.htm) (Sam)
+- [Richard Schneems: Saving Sprockets](https://schneems.com/2016/05/31/saving-sprockets.html) (Coraline)
+- [Calvino Noir](https://mcro.org) (Coraline)
+- [ICU](https://site.icu-project.org/)(Cameron)
+- [CLDR](https://cldr.unicode.org/) (Cameron)
 - [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) (Cameron)
-- [Hacknet](http://store.steampowered.com/app/365450/) (Cameron)
-- [Golden State Warriors](http://www.nba.com/warriors/) (Cameron)
+- [Hacknet](https://store.steampowered.com/app/365450/) (Cameron)
+- [Golden State Warriors](https://www.nba.com/warriors/) (Cameron)
 
 ### Transcript
 

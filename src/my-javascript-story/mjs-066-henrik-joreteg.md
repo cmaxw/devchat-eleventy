@@ -29,12 +29,12 @@ This week on My JavaScript Story, Charles speaks with Henrik Joreteg. Henrik has
 - Adobe ColdFusion
 - How were you exposed to [JavaScript](https://www.javascript.com/)?
 - Gig as a ColdFusion developer
-- [jQTouch](http://jqtjs.com/), [jQuery](https://jquery.com/), and [Django](https://www.djangoproject.com/)
+- [jQTouch](https://jqtjs.com/), [jQuery](https://jquery.com/), and [Django](https://www.djangoproject.com/)
 - Interested in building app-like experiences
 - What have you done with JavaScript that you are proud of?
 - Want to push the web into an app-like space
 - Helped to create [Ampersand.js](https://ampersandjs.com/)
-- Wrote [_Human JavaScript_](http://humanjavascript.com/)
+- Wrote [_Human JavaScript_](https://humanjavascript.com/)
 - Created [Simple WebRTC](https://simplewebrtc.com/)
 - Promote web as an application platform
 - What are you working on now?
@@ -51,10 +51,10 @@ This week on My JavaScript Story, Charles speaks with Henrik Joreteg. Henrik has
 - [JavaScript Jabber](https://devchat.tv/js-jabber)
 - [&yet](https://andyet.com/)
 - [JavaScript](https://www.javascript.com/)
-- [jQTouch](http://jqtjs.com/)
+- [jQTouch](https://jqtjs.com/)
 - [jQuery](https://jquery.com/)
 - [Django](https://www.djangoproject.com/)
-- [_Human JavaScript_](http://humanjavascript.com/)
+- [_Human JavaScript_](https://humanjavascript.com/)
 - [Ampersand.js](https://ampersandjs.com/)
 - [Simple WebRTC](https://simplewebrtc.com/)
 - [_Human Redux_](https://reduxbook.com/)

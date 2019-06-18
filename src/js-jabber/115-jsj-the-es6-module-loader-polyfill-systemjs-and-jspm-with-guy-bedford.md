@@ -14,11 +14,11 @@ tags:
 
 ### Panel
 
-- Guy Bedford ([twitter](https://twitter.com/guybedford)&nbsp;[github](https://github.com/guybedford)&nbsp;[blog](http://guybedford.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://blog.coolaj86.com/)&nbsp;[youtube](http://youtube.com/coolaj86))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
-- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](http://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](http://youtube.com/coolaj86)&nbsp;[Teac](http://youtube.com/coolaj86)[h Me To Code](http://teachmetocode.com/)&nbsp;[Rails Ramp Up](http://railsrampup.com/))
+- Guy Bedford ([twitter](https://twitter.com/guybedford)&nbsp;[github](https://github.com/guybedford)&nbsp;[blog](https://guybedford.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- AJ O’Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://blog.coolaj86.com/)&nbsp;[youtube](https://youtube.com/coolaj86))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[git](https://blog.coolaj86.com/)[h](https://github.com/cmaxw)[ub](https://youtube.com/coolaj86)&nbsp;[Teac](https://youtube.com/coolaj86)[h Me To Code](https://teachmetocode.com/)&nbsp;[Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
@@ -26,39 +26,39 @@ tags:
 
 - [es6-module-loader](https://github.com/ModuleLoader/es6-module-loader)
 - [systemjs](https://github.com/systemjs/systemjs)
-- [jspm.io](http://jspm.io/)
+- [jspm.io](https://jspm.io/)
   02:03 - Managing Modules in the Browser
-- [AMD Modules](http://en.wikipedia.org/wiki/Asynchronous_module_definition)
+- [AMD Modules](https://en.wikipedia.org/wiki/Asynchronous_module_definition)
   03:40 - Writing/Enabling Code 04:18 - Changing/Building Applications 05:25 - [ES6 Module Loader Polyfill](https://github.com/jgable/es6-module-loader)
 - [ES6 Module Loader](https://www.npmjs.org/package/es6-module-loader)
-- [JQuery](http://jquery.com/)
+- [JQuery](https://jquery.com/)
 - [Guy Bedford at MountainWest 2014](https://www.youtube.com/watch?v=MXzQP38mdnE)
-- [MountainWest Official Site](http://mtnwestjs.org/2014/sessions)
+- [MountainWest Official Site](https://mtnwestjs.org/2014/sessions)
   10:07 - Separate Requests/Bundling 12:07 - Global Scripts
-- [HTTP 2.0](http://en.wikipedia.org/wiki/HTTP_2.0)
-- [Dynamic Module Loading](http://msdn.microsoft.com/en-us/library/ff921095.aspx)
-- [SPDY](http://en.wikipedia.org/wiki/SPDY)
-- [High Performance Browser Networking by Ilya Grigorik](http://chimera.labs.oreilly.com/books/1230000000545)
+- [HTTP 2.0](https://en.wikipedia.org/wiki/HTTP_2.0)
+- [Dynamic Module Loading](https://msdn.microsoft.com/en-us/library/ff921095.aspx)
+- [SPDY](https://en.wikipedia.org/wiki/SPDY)
+- [High Performance Browser Networking by Ilya Grigorik](https://chimera.labs.oreilly.com/books/1230000000545)
   18:18 - Benefits of Modules 20:16 - JSPM
-- [Third Party Code Dependencies](http://pantsbuild.github.io/3rdparty.html)
-  22:27 -[The ECMAScript 6 schedule changes](http://www.2ality.com/2014/06/es6-schedule.html) 27:01 - ES6&nbsp;vs. js/AMD 30:10 - Future 32:05 - Getting Involved
-- [ES6 module transpiler](http://square.github.io/es6-module-transpiler/)
-- [es.next Project](http://www.slideshare.net/BrendanEich/esnext)
+- [Third Party Code Dependencies](https://pantsbuild.github.io/3rdparty.html)
+  22:27 -[The ECMAScript 6 schedule changes](https://www.2ality.com/2014/06/es6-schedule.html) 27:01 - ES6&nbsp;vs. js/AMD 30:10 - Future 32:05 - Getting Involved
+- [ES6 module transpiler](https://square.github.io/es6-module-transpiler/)
+- [es.next Project](https://www.slideshare.net/BrendanEich/esnext)
 - [Dave Herman at YUI Conference](https://www.youtube.com/watch?v=u4IdoBU1uKE)
 - [traceur-compiler](https://github.com/google/traceur-compiler)
 
 ### Picks
 
 - [XCOM®: Enemy Unknown](https://itunes.apple.com/us/app/xcom-enemy-unknown/id639544885?mt=8) (Jamison)
-- [Inside the Mirrortocracy](http://carlos.bueno.org/2014/06/mirrortocracy.html) (Jamsion)
-- [Mailgun](http://mailgun.com/) (AJ)
-- [Stripe](http://stripe.com/) (AJ)
-- [Divergent](http://www.imdb.com/title/tt1840309/) (AJ)
-- [getKanban.com](http://getkanban.com/BoardGame.html) (Chuck)
-- [U.S. Soccer](http://www.ussoccer.com/) (Joe)
-- [Off Your Rocker](http://boardgamegeek.com/boardgame/120814/off-your-rocker) (Joe)
-- [Civilization: Revolution 2](http://www.civilization.com/us/games/civilization-revolution-2/) (Joe)
-- [jsDelivr](http://www.jsdelivr.com/) (Guy)
+- [Inside the Mirrortocracy](https://carlos.bueno.org/2014/06/mirrortocracy.html) (Jamsion)
+- [Mailgun](https://mailgun.com/) (AJ)
+- [Stripe](https://stripe.com/) (AJ)
+- [Divergent](https://www.imdb.com/title/tt1840309/) (AJ)
+- [getKanban.com](https://getkanban.com/BoardGame.html) (Chuck)
+- [U.S. Soccer](https://www.ussoccer.com/) (Joe)
+- [Off Your Rocker](https://boardgamegeek.com/boardgame/120814/off-your-rocker) (Joe)
+- [Civilization: Revolution 2](https://www.civilization.com/us/games/civilization-revolution-2/) (Joe)
+- [jsDelivr](https://www.jsdelivr.com/) (Guy)
 - [bthread](https://github.com/indutny/bthread) (Guy)
 
 ### Next Week

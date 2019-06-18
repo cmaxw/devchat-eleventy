@@ -28,11 +28,11 @@ Also, don’t forget to get your [Angular Remote Conf](https://angularremoteconf
 - [Atom](https://atom.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Webstorm](https://www.jetbrains.com/webstorm/)
-- [Grunt](http://gruntjs.com/) / [Gulp](http://gulpjs.com/)
+- [Grunt](https://gruntjs.com/) / [Gulp](https://gulpjs.com/)
 
 11:21 - Destructuring&nbsp;&nbsp; &nbsp;
 
-- [Destructuring and parameter handling in ECMAScript 6](http://www.2ality.com/2015/01/es6-destructuring.html)
+- [Destructuring and parameter handling in ECMAScript 6](https://www.2ality.com/2015/01/es6-destructuring.html)
 
 16:01 - Debugging
 
@@ -41,11 +41,11 @@ Also, don’t forget to get your [Angular Remote Conf](https://angularremoteconf
 - [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 - Key Features Needed
 - Getting in the Front Door (Getting Past the Ecosystem)
-- [Angular 1 and Angular 2 integration: the path to seamless upgrade](http://angularjs.blogspot.com/2015/08/angular-1-and-angular-2-coexistence.html)
+- [Angular 1 and Angular 2 integration: the path to seamless upgrade](https://angularjs.blogspot.com/2015/08/angular-1-and-angular-2-coexistence.html)
 
 27:32 - Angular 2 & ES5
 
-- [Pascal Precht: Even better ES5 code for Angular 2](http://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
+- [Pascal Precht: Even better ES5 code for Angular 2](https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
 
 29:44 - Components, Annotations
 
@@ -55,7 +55,7 @@ Also, don’t forget to get your [Angular Remote Conf](https://angularremoteconf
 - [atom-typescript](https://atom.io/packages/atom-typescript)
   38:35 - Learning Lessons (From Panelists)Picks
 
-[Angular Articles by Pascal Precht](http://blog.thoughtram.io/categories/angular-2/) (Lukas)Enter the [ng-conf](http://www.ng-conf.org/) ticket lottery (Joe)
+[Angular Articles by Pascal Precht](https://blog.thoughtram.io/categories/angular-2/) (Lukas)Enter the [ng-conf](https://www.ng-conf.org/) ticket lottery (Joe)
 
 ### Transcript
 

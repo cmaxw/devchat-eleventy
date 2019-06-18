@@ -21,7 +21,7 @@ tags:
 
 **Special Guest:** Jason Swett
 
-In this episode of Ruby Rogues, the panel talks with Jason Swett who is a host of the podcast show, [_Ruby Testing!_](http://www.rubytestingpodcast.com) Jason also teaches Rails testing at [CodeWithJason.com](https://www.codewithjason.com). He currently resides in the Michigan area and works for Ben Franklin Labs. Check-out today’s episode where the panelists and the guest discuss testing topics.
+In this episode of Ruby Rogues, the panel talks with Jason Swett who is a host of the podcast show, [_Ruby Testing!_](https://www.rubytestingpodcast.com) Jason also teaches Rails testing at [CodeWithJason.com](https://www.codewithjason.com). He currently resides in the Michigan area and works for Ben Franklin Labs. Check-out today’s episode where the panelists and the guest discuss testing topics.
 
 **Show Topics:**
 
@@ -232,12 +232,12 @@ Last point that I want to talk about is small stories: continues deployment and 
 - [Get a Coder Job Course](https://devchat.tv/get-a-coder-job/)
 - [Erlang](https://www.erlang.org)
 - [Ruby](https://www.ruby-lang.org/en/)
-- [Ruby Motion](http://www.rubymotion.com)
+- [Ruby Motion](https://www.rubymotion.com)
 - [Ruby on Rails](https://rubyonrails.org)
 - [Angular](https://angular.io)
 - [Single Page Application (SPA)](https://en.wikipedia.org/wiki/Single-page_application)
 - [RSpec – Retry](https://github.com/NoRedInk/rspec-retry)
-- [Ruby Testing Podcast](http://www.rubytestingpodcast.com)
+- [Ruby Testing Podcast](https://www.rubytestingpodcast.com)
 - [The Feynman Technique Model](https://mattyford.com/blog/2014/1/23/the-feynman-technique-model)
 - [Book: Growing Object-Oriented Software, Guided by Tests (1st edition)](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 - [Jason Swett’s Twitter](https://twitter.com/jasonswett?lang=en)
@@ -267,7 +267,7 @@ Nate
 
 Eric
 
-- [Fake App](http://fakeapp.com/)
+- [Fake App](https://fakeapp.com/)
 - [Ruby Hack Conference](https://rubyhack.com)
 
 Dave

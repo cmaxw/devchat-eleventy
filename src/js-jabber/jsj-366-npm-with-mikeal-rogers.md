@@ -38,7 +38,7 @@ Follow JavaScript Jabber on [Devchat.tv](https://devchat.tv/js-jabber/), [Facebo
 - [Mozilla Firefox](https://www.mozilla.org)
 - [Artifact Conference](https://artifactconf.com/)
 **Aimee Knight:**
-- [A Magician Explains Why We See What’s Not There](http://nautil.us/issue/70/variables/a-magician-explains-why-we-see-whats-not-there)
+- [A Magician Explains Why We See What’s Not There](https://nautil.us/issue/70/variables/a-magician-explains-why-we-see-whats-not-there)
 - [Programming: doing it more vs doing it better](https://kevinmartinjose.com/2019/04/08/programming-doing-it-more-vs-doing-it-better/)
 **Mikeal Rogers:**
 - [The Future of the Web - CascadiaJS 2018](https://www.youtube.com/watch?v=83Gws-dPL8A)

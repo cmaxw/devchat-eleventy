@@ -14,11 +14,11 @@ tags:
 
 01:37 - Steven Proctor Introduction
 
-- [Simpli.fi](http://www.simpli.fi/)
+- [Simpli.fi](https://www.simpli.fi/)
 
 03:36 - Background
 
-- [121 RR Consulting vs Product Work with Adam Keys](http://rubyrogues.com/121-rr-consulting-vs-product-work-with-adam-keys/)
+- [121 RR Consulting vs Product Work with Adam Keys](https://rubyrogues.com/121-rr-consulting-vs-product-work-with-adam-keys/)
 
 08:37 - Bringing in Consultants
 
@@ -41,7 +41,7 @@ tags:
 
 ### Ruby Rogues Parley
 
-[Sign up for our Discourse Discussion Board!](http://parley.rubyrogues.com/)
+[Sign up for our Discourse Discussion Board!](https://parley.rubyrogues.com/)
 
 ### Ruby Rogues T-Shirts!
 

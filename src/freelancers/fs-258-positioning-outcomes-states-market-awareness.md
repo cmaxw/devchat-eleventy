@@ -18,6 +18,6 @@ Panelists Philip Morgan, Jonathan Stark, and Reuven Lerner lead the discussion t
 
 ## **Picks**
 
-**Reuven** :[Drip API](https://www.getdrip.com/docs/js-api) **Philip** : "Breakthrough Advertising" by Eugene Schwartz **Jonathan** :[The Expanse Series](http://www.audible.com/series?asin=B008Y45GCQ)&nbsp;
+**Reuven** :[Drip API](https://www.getdrip.com/docs/js-api) **Philip** : "Breakthrough Advertising" by Eugene Schwartz **Jonathan** :[The Expanse Series](https://www.audible.com/series?asin=B008Y45GCQ)&nbsp;
 
 ### Transcript

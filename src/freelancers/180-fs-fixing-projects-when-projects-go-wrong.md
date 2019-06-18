@@ -31,7 +31,7 @@ tags:
 - [Jonathan Stark: First Do No Harm](https://expensiveproblem.com/first-do-no-harm)
   Picks
 
-[Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers (Collins Business Essentials) by Geoffrey A. Moore](http://www.amazon.com/gp/product/0062292986/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062292986&linkCode=as2&tag=devchattv-20&linkId=5OHBEYTDH5MNJQHF) (Philip)[Jonathan Stark: First Do No Harm](https://expensiveproblem.com/first-do-no-harm) (Jonathan)[Creative Class Contract](https://creativeclass.io/contract/) (Jonathan)[Facebook Ads Manual: Everything You Need to Know to Get Started by Mojca Mars](http://gum.co/facebook-ads) (Reuven)
+[Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers (Collins Business Essentials) by Geoffrey A. Moore](https://www.amazon.com/gp/product/0062292986/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062292986&linkCode=as2&tag=devchattv-20&linkId=5OHBEYTDH5MNJQHF) (Philip)[Jonathan Stark: First Do No Harm](https://expensiveproblem.com/first-do-no-harm) (Jonathan)[Creative Class Contract](https://creativeclass.io/contract/) (Jonathan)[Facebook Ads Manual: Everything You Need to Know to Get Started by Mojca Mars](https://gum.co/facebook-ads) (Reuven)
 
 ### Transcript
 

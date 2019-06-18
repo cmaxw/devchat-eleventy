@@ -18,7 +18,7 @@ On this episode, we have another My JavaScript Story, our guest is Matt Creager.
 
 - [OpenCollective.com](https://opencollective.com/)
 - [Scaphold GraphQL](https://scaphold.io/)
-- [Elixir](http://elixir-lang.org/)
+- [Elixir](https://elixir-lang.org/)
 - [Manifold.co](https://www.manifold.co/)
 - [Twitter, Github: @matt_creager](https://twitter.com/matt_creager)
   **Charles Max Wood**

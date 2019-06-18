@@ -18,10 +18,10 @@ Go check out [Rails Remote Conf!](https://railsremoteconf.com/)
 
 - [Twitter](https://twitter.com/leeb)
 - [GitHub](https://github.com/leebyron)
-- [Blog](http://leebyron.com/)
+- [Blog](https://leebyron.com/)
 - [Facebook](https://www.facebook.com/)
 
-02:46 - [GraphQL](http://graphql.org/)
+02:46 - [GraphQL](https://graphql.org/)
 
 - [[GitHub] graphql](https://github.com/asonge/graphql)
 - [Relay](https://facebook.github.io/relay/)
@@ -60,10 +60,10 @@ Go check out [Rails Remote Conf!](https://railsremoteconf.com/)
 
 56:29 - REST =\> GraphQL
 
-- [ElixirConf](http://elixirconf.com/)
+- [ElixirConf](https://elixirconf.com/)
   57:36 - TypesPicks
 
-[San Francisco](http://sfgov.org/) (Jessica)[Dolores Park](https://en.wikipedia.org/wiki/Dolores_Park) (Jessica)[Greg Heo: Outlining Your Conference Talk Pixar-style](http://gregheo.com/blog/speaking-outlining-like-pixar/) (Coraline)[Walnut](https://thewalnut.io) (Coraline)[Tandy Leather](http://www.tandyleather.com/en/) (David)[Ian Atkinson on YouTube](https://www.youtube.com/user/satansbarber) (David)[Bruce Cheaney on YouTube](https://www.youtube.com/user/cheaneysaddles) (David)[Springfield Leather](http://springfieldleather.com/) (David)[Tandy Leather Outlet](https://www.tandyleatheroutlet.com/) (David)[The Ionic Framework](http://ionicframework.com/) (Chuck)[CharlesMaxWood.com](http://charlesmaxwood.com/) (Chuck)[Rails Remote Conf](https://railsremoteconf.com/) (Chuck)[All Remote Confs](http://allremoteconfs.com/) (Chuck)[JS Remote Conf](https://jsremoteconf.com/) (Chuck)[Flow](http://flowtype.org/) (Lee)[The Firesteel: A Novel by Ash Huang](http://thefiresteel.com/) (Lee)
+[San Francisco](https://sfgov.org/) (Jessica)[Dolores Park](https://en.wikipedia.org/wiki/Dolores_Park) (Jessica)[Greg Heo: Outlining Your Conference Talk Pixar-style](https://gregheo.com/blog/speaking-outlining-like-pixar/) (Coraline)[Walnut](https://thewalnut.io) (Coraline)[Tandy Leather](https://www.tandyleather.com/en/) (David)[Ian Atkinson on YouTube](https://www.youtube.com/user/satansbarber) (David)[Bruce Cheaney on YouTube](https://www.youtube.com/user/cheaneysaddles) (David)[Springfield Leather](https://springfieldleather.com/) (David)[Tandy Leather Outlet](https://www.tandyleatheroutlet.com/) (David)[The Ionic Framework](https://ionicframework.com/) (Chuck)[CharlesMaxWood.com](https://charlesmaxwood.com/) (Chuck)[Rails Remote Conf](https://railsremoteconf.com/) (Chuck)[All Remote Confs](https://allremoteconfs.com/) (Chuck)[JS Remote Conf](https://jsremoteconf.com/) (Chuck)[Flow](https://flowtype.org/) (Lee)[The Firesteel: A Novel by Ash Huang](https://thefiresteel.com/) (Lee)
 
 ### Transcript
 

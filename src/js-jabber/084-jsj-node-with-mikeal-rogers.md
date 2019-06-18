@@ -14,44 +14,44 @@ tags:
 
 ### Panel
 
-- Mikeal Rogers ([github](https://github.com/mikeal) [blog](http://www.futurealoof.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
+- Mikeal Rogers ([github](https://github.com/mikeal) [blog](https://www.futurealoof.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
 
 ### Discussion
 
 00:59 - Mikeal Rogers Introduction
 
-- CTO of [Getable](http://getable.com/)
+- CTO of [Getable](https://getable.com/)
 - [windmill](https://github.com/mikeal/windmill)
 - [request](https://github.com/mikeal/request)
-  06:41 - [NodeConf](http://www.nodeconf.com/)
-- [ng-conf](http://ng-conf.org/)
-  16:06 - [Node](http://nodejs.org/): Frontend and Backend
-- [Pluralsight: AngularJS Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals)
+  06:41 - [NodeConf](https://www.nodeconf.com/)
+- [ng-conf](https://ng-conf.org/)
+  16:06 - [Node](https://nodejs.org/): Frontend and Backend
+- [Pluralsight: AngularJS Fundamentals](https://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals)
 - [I-Tier: Dismantling the Monoliths](https://engineering.groupon.com/2013/misc/i-tier-dismantling-the-monoliths/)
-  22:30 - [JVMs](http://en.wikipedia.org/wiki/Java_virtual_machine)
-- [Node.JS Is Stupid And If You Use It So Are You](http://www.youtube.com/watch?v=1e1zzna-dNw)
+  22:30 - [JVMs](https://en.wikipedia.org/wiki/Java_virtual_machine)
+- [Node.JS Is Stupid And If You Use It So Are You](https://www.youtube.com/watch?v=1e1zzna-dNw)
   24:00 - Modules
 - [gist:0479f25edfc6bb043ddb](https://gist.github.com/jrburke/0479f25edfc6bb043ddb)
-- [AMD](http://www.amd.com/) vs [CommonJS](http://wiki.commonjs.org/)
-- [Browserify](http://browserify.org/)
-- [RequireJS](http://requirejs.org/) vs [CommonJS](http://wiki.commonjs.org/)
-- [Bower](http://bower.io/) and [NPM](https://npmjs.org/)
+- [AMD](https://www.amd.com/) vs [CommonJS](https://wiki.commonjs.org/)
+- [Browserify](https://browserify.org/)
+- [RequireJS](https://requirejs.org/) vs [CommonJS](https://wiki.commonjs.org/)
+- [Bower](https://bower.io/) and [NPM](https://npmjs.org/)
 - [package.json](https://npmjs.org/doc/json.html)
-  33:05 - History 40:20 - [Groupon](http://www.groupon.com/) and the Node in Enterprise Story
-- [leveldb](http://code.google.com/p/leveldb/)
+  33:05 - History 40:20 - [Groupon](https://www.groupon.com/) and the Node in Enterprise Story
+- [leveldb](https://code.google.com/p/leveldb/)
 
 ### Picks
 
-- [Mistborn: The Final Empire by Brandon Sanderson](http://www.amazon.com/gp/product/0765350386/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765350386&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants by Malcolm Gladwell](http://www.amazon.com/gp/product/0316204366/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316204366&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [Willpower: Rediscovering the Greatest Human Strength by Roy F. Baumeister](http://www.amazon.com/gp/product/0143122231/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143122231&linkCode=as2&tag=chamaxwoo-20) (Jamison)
-- [Human JavaScript by Henrik Joreteg](http://humanjavascript.com/) (Mikeal)
-- [nodeschool](http://nodeschool.io/) (Mikeal)
-- [JSConf](http://jsconf.com/) (Mikeal)
-- [JSFest](http://jsfest.com/) (Mikeal)
-- [GHTMLConf](http://dhtmlconf.com/) (Mikeal)
+- [Mistborn: The Final Empire by Brandon Sanderson](https://www.amazon.com/gp/product/0765350386/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765350386&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [David and Goliath: Underdogs, Misfits, and the Art of Battling Giants by Malcolm Gladwell](https://www.amazon.com/gp/product/0316204366/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316204366&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [Willpower: Rediscovering the Greatest Human Strength by Roy F. Baumeister](https://www.amazon.com/gp/product/0143122231/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143122231&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [Human JavaScript by Henrik Joreteg](https://humanjavascript.com/) (Mikeal)
+- [nodeschool](https://nodeschool.io/) (Mikeal)
+- [JSConf](https://jsconf.com/) (Mikeal)
+- [JSFest](https://jsfest.com/) (Mikeal)
+- [GHTMLConf](https://dhtmlconf.com/) (Mikeal)
 
 ### Next Week
 

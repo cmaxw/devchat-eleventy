@@ -51,7 +51,7 @@ tags:
 
 44:44 - Whiteboard Solutions
 
-- [Highlight](http://highlig.ht/)
+- [Highlight](https://highlig.ht/)
 
 48:05 - Which software tools can you expect customers to be familiar with/have installed?
 
@@ -59,7 +59,7 @@ tags:
 - [Skype](https://www.skype.com/en/)
   50:35 - Common Miscommunication PitfallsPicks
 
-[Zoom](https://zoom.us/) (Philip)[We Work Remotely](https://weworkremotely.com/) (Philip)[Desktastic](https://panic.com/desktastic/) (Philip)[ZenHub](https://www.zenhub.io/) (Reuven)[The Confidence Game: Why We Fall for It . . . Every Time by Maria Konnikova](http://www.amazon.com/The-Confidence-Game-Fall-Every/dp/0525427414) (Reuven)[Kindle](http://www.amazon.com/Amazon-Kindle-Ereader-Family/b?ie=UTF8&node=6669702011) (Reuven)[Trumpcast](http://www.slate.com/articles/podcasts/trumpcast.html) (Reuven)
+[Zoom](https://zoom.us/) (Philip)[We Work Remotely](https://weworkremotely.com/) (Philip)[Desktastic](https://panic.com/desktastic/) (Philip)[ZenHub](https://www.zenhub.io/) (Reuven)[The Confidence Game: Why We Fall for It . . . Every Time by Maria Konnikova](https://www.amazon.com/The-Confidence-Game-Fall-Every/dp/0525427414) (Reuven)[Kindle](https://www.amazon.com/Amazon-Kindle-Ereader-Family/b?ie=UTF8&node=6669702011) (Reuven)[Trumpcast](https://www.slate.com/articles/podcasts/trumpcast.html) (Reuven)
 
 ### Transcript
 

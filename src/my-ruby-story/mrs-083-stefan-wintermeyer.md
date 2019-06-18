@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [.TECH](https://get.tech/)–&nbsp;[tech/MRS](https://get.tech/?&coupon=MRS.TECH&utm_source=Influencer&utm_medium=Podcast&utm_campaign=MyRubyStory)&nbsp;and&nbsp;use the coupon code “ **MRS.TECH** ”&nbsp;and get a 1 year&nbsp; **.TECH Domain** &nbsp;at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** &nbsp;Stefan Wintermeyer

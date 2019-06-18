@@ -16,7 +16,7 @@ Panel: Charles Max Wood
 
 Guest: David Bush
 
-This week on My Angular Story, Charles speaks with David Bush who is working with Bloomberg after twenty (plus!) years of being self-employed. Charles and David talk about his current projects he’s working on, plus his impressive background. Listen to them talk about JavaScript, [C++,](http://www.cplusplus.com) David’s books, and much more!
+This week on My Angular Story, Charles speaks with David Bush who is working with Bloomberg after twenty (plus!) years of being self-employed. Charles and David talk about his current projects he’s working on, plus his impressive background. Listen to them talk about JavaScript, [C++,](https://www.cplusplus.com) David’s books, and much more!
 
 In particular, we dive pretty deep on:
 
@@ -48,7 +48,7 @@ David continues this conversation.
 
 9:30 – Chuck: Are you primarily a Dot Net developer?
 
-9:43 – David: Primarily; also, [C++.](http://www.cplusplus.com)
+9:43 – David: Primarily; also, [C++.](https://www.cplusplus.com)
 
 10:55 – Chuck: How did you get into being self-employed?
 
@@ -113,12 +113,12 @@ For all of my code, I put all my logic in...
 - [Dave’s YouTube Videos](https://www.youtube.com/user/davidmbush)
 - [Get Started with Angular](https://davembush.github.io/get-started-with-angular/)
 - [Past Episode with David Bush – DevChat TV](https://devchat.tv/adv-in-angular/aia-203-where-to-store-angular-configurations-with-dave-bush/)
-- [C++](http://www.cplusplus.com)
+- [C++](https://www.cplusplus.com)
 
 **Sponsors:**
 
 - [Get&nbsp;A Coder Job](https://devchat.tv/get-a-coder-job/)
-- [Code Badges](http://codebadge.org)
+- [Code Badges](https://codebadge.org)
 - [Cache Fly](https://www.cachefly.com)
 
 **Picks:**

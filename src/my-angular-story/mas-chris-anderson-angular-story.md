@@ -74,7 +74,7 @@ Chris talks about improving by putting in loads of pull requests for tons of Jav
 
 ##### Chris
 
-Mountain Dew Pitch Black[The Expanse Series on SciFi](http://www.syfy.com/theexpanse)[Application Insights](https://azure.microsoft.com/en-us/services/application-insights/)
+Mountain Dew Pitch Black[The Expanse Series on SciFi](https://www.syfy.com/theexpanse)[Application Insights](https://azure.microsoft.com/en-us/services/application-insights/)
 
 ##### Charles
 

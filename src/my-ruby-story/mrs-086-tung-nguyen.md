@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [.TECH](https://get.tech/)–&nbsp;[tech/MRS](https://get.tech/?&coupon=MRS.TECH&utm_source=Influencer&utm_medium=Podcast&utm_campaign=MyRubyStory)&nbsp;and&nbsp;use the coupon code “ **MRS.TECH** ”&nbsp;and get a 1 year&nbsp; **.TECH Domain** &nbsp;at $9.99 and 5 Year Domain at $49.99. Hurry!
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** &nbsp;Tung Nguyen
@@ -35,7 +35,7 @@ In this episode of My Ruby Story, Charles hosts Tung Nguyen, President and Found
 
 ### **Picks**
  **Tung Nguyen**** :**
-- [The Children Learning Reading](http://www.thechildrenslearningreading.com/_)
+- [The Children Learning Reading](https://www.thechildrenslearningreading.com/_)
 - [Opal: Ruby to JavaScript Compiler](https://opalrb.com/)
 **Charles Max Wood:**
 - Podwrench – Podcast Management System
@@ -51,7 +51,7 @@ In this episode of My Ruby Story, Charles hosts Tung Nguyen, President and Found
   - Python
   - .Net
 
-- [Buzzsprout.com](http://www.buzzsprout.com/podcast-hosting_)
+- [Buzzsprout.com](https://www.buzzsprout.com/podcast-hosting_)
 &nbsp;
 
 ### Transcript

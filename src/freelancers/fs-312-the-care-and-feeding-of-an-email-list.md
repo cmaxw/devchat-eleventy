@@ -56,21 +56,21 @@ In this episode of the Freelancer’s Show, Jeremy and Reuven discuss “The Car
 
 - [Get a Coder Job](https://devchat.tv/get-a-coder-job/)
 - [Digital Ocean](https://www.digitalocean.com)
-- [Code Badges](http://codebadge.org)
+- [Code Badges](https://codebadge.org)
 
 **Links**
 
-- Drip: [getdrip.com](http://getdrip.com/)
-- Mailchimp: [Mailchimp.com](http://mailchimp.com/)
-- Content Upgrades: [http://rightmessage.io/](http://rightmessage.io/)
-- RightMessage: [http://rightmessage.io/](http://rightmessage.io/)
-- Sumo: [Sumo.com](http://sumo.com/)
+- Drip: [getdrip.com](https://getdrip.com/)
+- Mailchimp: [Mailchimp.com](https://mailchimp.com/)
+- Content Upgrades: [https://rightmessage.io/](https://rightmessage.io/)
+- RightMessage: [https://rightmessage.io/](https://rightmessage.io/)
+- Sumo: [Sumo.com](https://sumo.com/)
 
 **Picks:**
 
 Jeremy
 
-- [RightMessage](http://rightmessage.io)
+- [RightMessage](https://rightmessage.io)
 
 Reuven
 

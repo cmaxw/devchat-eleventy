@@ -34,15 +34,15 @@ tags:
 - Graph QL - What do you think of it?
 - And much more!
   **<u> </u>\*\*** <u>Links: </u>\*\*
-- [http://wesbos.com](http://wesbos.com)
+- [https://wesbos.com](https://wesbos.com)
 - <u>@wesbos</u>
 - <u>https://github.com/wesbos</u>
 - [https://medium.com/@wesbos](https://medium.com/@wesbos)
-- [io](http://es6.io)
+- [io](https://es6.io)
 - [AWS Mobile](https://aws.amazon.com/mobile/)
 - [AppSync](https://aws.amazon.com/appsync/)
   **<u>Picks:</u>** Wes
-- [TS3](http://www.caldigit.com/thunderbolt-3-dock/thunderbolt-station-3/)
+- [TS3](https://www.caldigit.com/thunderbolt-3-dock/thunderbolt-station-3/)
   Nader
 - [5 Common Problems In GraphQL (And How to Solve Them)](https://medium.freecodecamp.org/five-common-problems-in-graphql-apps-and-how-to-fix-them-ac74d37a293c)
 - [React Native Training Youtube channel](https://www.youtube.com/channel/UC8ivCOllOAo7MfPT9k3Hs-Q)

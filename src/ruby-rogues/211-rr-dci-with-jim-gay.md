@@ -16,35 +16,35 @@ tags:
 
 - [Twitter](https://twitter.com/saturnflyer)
 - [GitHub](https://github.com/saturnflyer)
-- [Blog](http://www.saturnflyer.com/)
-- [Ruby DSL Handbook](http://clean-ruby.com/dsl)
+- [Blog](https://www.saturnflyer.com/)
+- [Ruby DSL Handbook](https://clean-ruby.com/dsl)
 
 03:43 - Object Design
 
-- [Clean Ruby](http://clean-ruby.com)
-- [SOLID Principles](<http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)>)
+- [Clean Ruby](https://clean-ruby.com)
+- [SOLID Principles](<https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)>)
 
-04:39 - [DCI (Data, Context, Interaction)](http://en.wikipedia.org/wiki/Data,_context_and_interaction)
+04:39 - [DCI (Data, Context, Interaction)](https://en.wikipedia.org/wiki/Data,_context_and_interaction)
 
-- [Main Resource for DCI (FullOO)](http://fulloo.info)
+- [Main Resource for DCI (FullOO)](https://fulloo.info)
 
 07:20 - What Painpoint DCI Aims to Solve
 
-- [The Gang of Four Book](http://en.wikipedia.org/wiki/Design_Patterns)
+- [The Gang of Four Book](https://en.wikipedia.org/wiki/Design_Patterns)
 - [object-composition Mailing List (Google Group)](https://groups.google.com/d/forum/object-composition)
 
 09:31 - Designing From DCI From the Start (Process)
 
 - Levels of Use Cases
-  - [Writing Effective Use Cases by Alistair Cockburn](http://www.amazon.com/gp/product/0201702258/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201702258&linkCode=as2&tag=chamaxwoo-20&linkId=WYUOA6ARNHAC743H)
+  - [Writing Effective Use Cases by Alistair Cockburn](https://www.amazon.com/gp/product/0201702258/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201702258&linkCode=as2&tag=chamaxwoo-20&linkId=WYUOA6ARNHAC743H)
 
-11:42 - [Object Composition](http://en.wikipedia.org/wiki/Object_composition)
+11:42 - [Object Composition](https://en.wikipedia.org/wiki/Object_composition)
 
-- [Single Responsibility Principle](http://en.wikipedia.org/wiki/Single_responsibility_principle)
+- [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 
 13:56 - Definitions: Forwarding, Delegation, Consultation, and Inheritance
 
-- [Class-Based Inheritance vs Prototype-Based Inheritance](http://stackoverflow.com/questions/816071/prototype-based-vs-class-based-inheritance)
+- [Class-Based Inheritance vs Prototype-Based Inheritance](https://stackoverflow.com/questions/816071/prototype-based-vs-class-based-inheritance)
 - JavaScript Influence
 
 18:37 - DCI and Service Objects
@@ -69,7 +69,7 @@ tags:
 
 36:51 - The Current State of DCI (Skepticism & Criticism?)
 
-- [Domain-Driven Design](http://en.wikipedia.org/wiki/Domain-driven_design)
+- [Domain-Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design)
 
 38:56 - Preventing Reuse
 
@@ -79,20 +79,20 @@ tags:
 
 45:04 - Resources
 
-- [fulloo.info](http://fulloo.info/)
-- [Marvin](http://fulloo.info/Examples/Marvin/)
+- [fulloo.info](https://fulloo.info/)
+- [Marvin](https://fulloo.info/Examples/Marvin/)
 - [object-composition Mailing List (Google Group)](https://groups.google.com/d/forum/object-composition)
-- [Clean Ruby](http://clean-ruby.com)
+- [Clean Ruby](https://clean-ruby.com)
   More DCI Blog Posts by Jim
-- [Delegation Is Everything And Inheritance Does Not Exist](http://www.saturnflyer.com/blog/jim/2013/11/18/delegation-is-everything-and-inheritance-does-not-exist/)
-- [Chubby Models Are Still Fat With Concerns. DCI Focuses On How Things Work Together](http://www.saturnflyer.com/blog/jim/2012/12/18/chubby-models-are-still-fat-with-concerns-dci-focuses-on-how-things-work-together/)
-- [The Gang Of Four Is Wrong And You Don't Understand Delegation](http://www.saturnflyer.com/blog/jim/2012/07/06/the-gang-of-four-is-wrong-and-you-dont-understand-delegation/)
-- [Triggering The DCI Context](http://www.saturnflyer.com/blog/jim/2012/02/08/triggering-the-dci-context/)
-- [OOP, DCI And Ruby - What Your System Is Vs. What Your System Does](http://www.saturnflyer.com/blog/jim/2011/10/04/oop-dci-and-ruby-what-your-system-is-vs-what-your-system-does/)
-- [4 Simple Steps - Extending Ruby Objects - The Tip Of The Iceberg With DCI](http://www.saturnflyer.com/blog/jim/2011/09/28/4-simple-steps-extending-ruby-objects-the-tip-of-the-iceberg-with-dci/)
+- [Delegation Is Everything And Inheritance Does Not Exist](https://www.saturnflyer.com/blog/jim/2013/11/18/delegation-is-everything-and-inheritance-does-not-exist/)
+- [Chubby Models Are Still Fat With Concerns. DCI Focuses On How Things Work Together](https://www.saturnflyer.com/blog/jim/2012/12/18/chubby-models-are-still-fat-with-concerns-dci-focuses-on-how-things-work-together/)
+- [The Gang Of Four Is Wrong And You Don't Understand Delegation](https://www.saturnflyer.com/blog/jim/2012/07/06/the-gang-of-four-is-wrong-and-you-dont-understand-delegation/)
+- [Triggering The DCI Context](https://www.saturnflyer.com/blog/jim/2012/02/08/triggering-the-dci-context/)
+- [OOP, DCI And Ruby - What Your System Is Vs. What Your System Does](https://www.saturnflyer.com/blog/jim/2011/10/04/oop-dci-and-ruby-what-your-system-is-vs-what-your-system-does/)
+- [4 Simple Steps - Extending Ruby Objects - The Tip Of The Iceberg With DCI](https://www.saturnflyer.com/blog/jim/2011/09/28/4-simple-steps-extending-ruby-objects-the-tip-of-the-iceberg-with-dci/)
   Picks
 
-[Richard Hamming: You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw) (Jessica)[Martin Fowler: Yagni](http://martinfowler.com/bliki/Yagni.html) (Coraline)[Ruby Monday](http://www.codenewbie.org/blogs/ruby-monday) (Saron)[JunkFill](https://chrome.google.com/webstore/detail/junkfill/cajejbcjfkhgmfbapmhopccephhjedeb?hl=en) (Saron)[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) (Saron)[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) (Saron)[Julian Feliciano: What Is Source Control?](http://www.codenewbie.org/blogs/what-is-source-control) (Saron)[Bodum Santos Stovetop Glass Vacuum 34-Ounce Coffee Maker](http://www.amazon.com/gp/product/B00005NCX5/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00005NCX5&linkCode=as2&tag=chamaxwoo-20&linkId=72D5DPJMKPWNUJJL) (Avdi)[The Master and His Emissary: The Divided Brain and the Making of the Western World by Iain McGilchrist](http://www.amazon.com/gp/product/0300188374/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0300188374&linkCode=as2&tag=chamaxwoo-20&linkId=22DN6HCJLKIW4MRQ) (Jim)[request_store_rails](https://github.com/ElMassimo/request_store_rails) (Jim)[littleBits](http://littlebits.cc/) (Jim)
+[Richard Hamming: You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw) (Jessica)[Martin Fowler: Yagni](https://martinfowler.com/bliki/Yagni.html) (Coraline)[Ruby Monday](https://www.codenewbie.org/blogs/ruby-monday) (Saron)[JunkFill](https://chrome.google.com/webstore/detail/junkfill/cajejbcjfkhgmfbapmhopccephhjedeb?hl=en) (Saron)[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) (Saron)[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) (Saron)[Julian Feliciano: What Is Source Control?](https://www.codenewbie.org/blogs/what-is-source-control) (Saron)[Bodum Santos Stovetop Glass Vacuum 34-Ounce Coffee Maker](https://www.amazon.com/gp/product/B00005NCX5/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00005NCX5&linkCode=as2&tag=chamaxwoo-20&linkId=72D5DPJMKPWNUJJL) (Avdi)[The Master and His Emissary: The Divided Brain and the Making of the Western World by Iain McGilchrist](https://www.amazon.com/gp/product/0300188374/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0300188374&linkCode=as2&tag=chamaxwoo-20&linkId=22DN6HCJLKIW4MRQ) (Jim)[request_store_rails](https://github.com/ElMassimo/request_store_rails) (Jim)[littleBits](https://littlebits.cc/) (Jim)
 
 ### Transcript
 

@@ -14,10 +14,10 @@ tags:
 
 ### Panel
 
-- Benjamin Lupton ([twitter](https://twitter.com/balupton) [github](https://github.com/balupton) [blog](http://balupton.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Intro to CoffeeScript](http://introtocoffeescript.eventbrite.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](http://www.testdrivenjs.com/))
+- Benjamin Lupton ([twitter](https://twitter.com/balupton) [github](https://github.com/balupton) [blog](https://balupton.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Intro to CoffeeScript](https://introtocoffeescript.eventbrite.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames)&nbsp;[github](https://github.com/joeeames)&nbsp;[blog](https://www.testdrivenjs.com/))
 
 ### Discussion
 
@@ -31,19 +31,19 @@ tags:
 - [HTML5 History API](https://developer.mozilla.org/en-US/docs/DOM/Manipulating_the_browser_history)
 - Hashbang
   09:26 - URL appearances 10:32 - Maintaining states 12:23 - (Joe joins the podcast) 12:30 - Framework usage 13:42 - Overriding history.js 17:33 - JavaScript community and evolution 21:10 - Particular problems that history.js is geared toward solving 22:07 - Sites implementing history.js
-- [37signals](http://37signals.com/)
-  25:18 - Other libraries that do the same thing 26:12 - Page reloads 32:14 - Browser limitations 34:37 - Live event in [jQuery](http://jquery.com/) 35:42 - history.js: a deep or shallow library? 37:43 - Resources for history.js
+- [37signals](https://37signals.com/)
+  25:18 - Other libraries that do the same thing 26:12 - Page reloads 32:14 - Browser limitations 34:37 - Live event in [jQuery](https://jquery.com/) 35:42 - history.js: a deep or shallow library? 37:43 - Resources for history.js
 
 ### Picks
 
-- [booq: Vyper XL2](http://www.booqbags.com/us/sleeves/vyper-sleeve/VYP-BLK-XL2) (Jamison)
-- [Jordan Santell](http://jsantell.com/) (Jamison)
-- [Star Wars: Red Harvest](http://www.amazon.com/gp/product/B00513F9FW/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00513F9FW&linkCode=as2&tag=chamaxwoo-20) (Joe)
-- [Nitro Circus: The Movie](http://www.imdb.com/title/tt1815852/) (Joe)
-- [Arrested Development](<http://en.wikipedia.org/wiki/Arrested_Development_(TV_series)>) (Joe)
-- [f.lux](http://stereopsis.com/flux/) (Chuck)
+- [booq: Vyper XL2](https://www.booqbags.com/us/sleeves/vyper-sleeve/VYP-BLK-XL2) (Jamison)
+- [Jordan Santell](https://jsantell.com/) (Jamison)
+- [Star Wars: Red Harvest](https://www.amazon.com/gp/product/B00513F9FW/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00513F9FW&linkCode=as2&tag=chamaxwoo-20) (Joe)
+- [Nitro Circus: The Movie](https://www.imdb.com/title/tt1815852/) (Joe)
+- [Arrested Development](<https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)>) (Joe)
+- [f.lux](https://stereopsis.com/flux/) (Chuck)
 - [docpad](https://github.com/bevry/docpad) (Benjamin)
-- [Paulo Coelho](http://www.amazon.com/Paulo-Coelho/e/B000AQ3HB8) (Benjamin)
+- [Paulo Coelho](https://www.amazon.com/Paulo-Coelho/e/B000AQ3HB8) (Benjamin)
 
 ### Transcript
 

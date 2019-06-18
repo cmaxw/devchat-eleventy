@@ -12,14 +12,14 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips](http://devchat.tv/rails-clips)!
+Check out [RailsClips](https://devchat.tv/rails-clips)!
 
 &nbsp;
 
 01:53 - Michele Titolo and [Women Who Code](https://www.womenwhocode.com/) Introduction
 
 - [Twitter](https://twitter.com/micheletitolo)
-- [Blog](http://michele.io/)
+- [Blog](https://michele.io/)
 - [Facebook](https://www.facebook.com/womenwhocode?_rdr)
 
 02:15 - Origin Story
@@ -71,7 +71,7 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 
 46:08 - Are there people who can help people/companies diversify?
 
-- [Ashe Dryden](http://www.ashedryden.com/)
+- [Ashe Dryden](https://www.ashedryden.com/)
   - [The Diverse Team by Ashe Dryden](https://leanpub.com/the-diverse-team)
 - [The Ada Initiative](https://adainitiative.org/)
 - Natural Introductions
@@ -79,39 +79,39 @@ Check out [RailsClips](http://devchat.tv/rails-clips)!
 49:49 - How can I help? (as a man)
 
 - Donations
-- [Fund Club](http://joinfundclub.com/)
-- [AlterConf](http://www.alterconf.com/)
+- [Fund Club](https://joinfundclub.com/)
+- [AlterConf](https://www.alterconf.com/)
 - Volunteering
 
 51:47 - Study Resources (Proof)
 
 - [Model View Culture](https://modelviewculture.com/)
-- [Cosmodrome](http://www.cosmodrome.org/) (from Brianna Wu)
+- [Cosmodrome](https://www.cosmodrome.org/) (from Brianna Wu)
   &nbsp;
 
 ## Groups and Mailing Lists (mentioned in this episode)
 
 - [Glassbreakers](https://www.glassbreakers.co/)
-- [Women Who Code SF (San Francisco)](http://www.meetup.com/Women-Who-Code-SF/)
-- [DevChix](http://www.devchix.com/)
-- [Tech LadyMafia](http://techladymafia.com/) &nbsp;
-- [Girls Who Code](http://girlswhocode.com/)
-- [Black Girls Code](http://www.blackgirlscode.com/)
-- [PyLadies](http://www.pyladies.com/)
-- [Ladies Who Code](http://www.ladieswhocode.com/)
-- [RailsBridge](http://www.railsbridge.org/)
-- [App Camp For Girls](http://appcamp4girls.com/)
+- [Women Who Code SF (San Francisco)](https://www.meetup.com/Women-Who-Code-SF/)
+- [DevChix](https://www.devchix.com/)
+- [Tech LadyMafia](https://techladymafia.com/) &nbsp;
+- [Girls Who Code](https://girlswhocode.com/)
+- [Black Girls Code](https://www.blackgirlscode.com/)
+- [PyLadies](https://www.pyladies.com/)
+- [Ladies Who Code](https://www.ladieswhocode.com/)
+- [RailsBridge](https://www.railsbridge.org/)
+- [App Camp For Girls](https://appcamp4girls.com/)
 - [Girl Develop It](https://www.girldevelopit.com/)
-- [Mobile Bridge](http://www.mobilebridge.com/)
-- [Geekettes](http://www.geekettes.io/)
+- [Mobile Bridge](https://www.mobilebridge.com/)
+- [Geekettes](https://www.geekettes.io/)
 - [PowerToFly](https://www.powertofly.com/)
-- [MotherCoders](http://www.mothercoders.org/)
+- [MotherCoders](https://www.mothercoders.org/)
 - [The Ada Initiative](https://adainitiative.org/)
-- [Fund Club](http://joinfundclub.com/)
-- [AlterConf](http://www.alterconf.com/)
+- [Fund Club](https://joinfundclub.com/)
+- [AlterConf](https://www.alterconf.com/)
   Picks
 
-[Power Up Your Animations! with Marin Todorov](https://realm.io/news/altconf-marin-todorov-animations/) (Alondo)[Poker Theory & Analytics](http://ocw.mit.edu/courses/sloan-school-of-management/15-s50-poker-theory-and-analytics-january-iap-2015/lecture-videos/) (Alondo)[Paracord](https://en.wikipedia.org/wiki/Parachute_cord) (Chuck)[Soto Pocket Torch](http://www.amazon.com/gp/product/B0046UZRNU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0046UZRNU&linkCode=as2&tag=chamaxwoo-20&linkId=MV5S3E6KR3C6A3IG) (Chuck)[Kate Heddleston: How Our Engineering Environments are Killing Diversity](https://kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction) (Michele)[Ashe Dryden: The Responsibility of "Diversity"](http://www.ashedryden.com/blog/the-responsibility-of-diversity) (Michele)[Conference proposal writing: From brainstorm to submit @ 360iDev 2015](http://360idev.com/sessions/conference-proposal-writing-from-brainstorm-to-submit/) (Michele)
+[Power Up Your Animations! with Marin Todorov](https://realm.io/news/altconf-marin-todorov-animations/) (Alondo)[Poker Theory & Analytics](https://ocw.mit.edu/courses/sloan-school-of-management/15-s50-poker-theory-and-analytics-january-iap-2015/lecture-videos/) (Alondo)[Paracord](https://en.wikipedia.org/wiki/Parachute_cord) (Chuck)[Soto Pocket Torch](https://www.amazon.com/gp/product/B0046UZRNU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0046UZRNU&linkCode=as2&tag=chamaxwoo-20&linkId=MV5S3E6KR3C6A3IG) (Chuck)[Kate Heddleston: How Our Engineering Environments are Killing Diversity](https://kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction) (Michele)[Ashe Dryden: The Responsibility of "Diversity"](https://www.ashedryden.com/blog/the-responsibility-of-diversity) (Michele)[Conference proposal writing: From brainstorm to submit @ 360iDev 2015](https://360idev.com/sessions/conference-proposal-writing-from-brainstorm-to-submit/) (Michele)
 
 ### Transcript
 

@@ -16,9 +16,9 @@ tags:
 
 **or**
 
-**show up to our next live Q&A on Tuesday, March 24th at 11AM Pacific, 2PM Eastern: [<u>http://freelancersanswers.com/webinar</u>](http://freelancersanswers.com/webinar).**
+**show up to our next live Q&A on Tuesday, March 24th at 11AM Pacific, 2PM Eastern: [<u>https://freelancersanswers.com/webinar</u>](https://freelancersanswers.com/webinar).**
 
-01:40 - Are [<u>RFPs (Request For Proposals)</u>](http://en.wikipedia.org/wiki/Request_for_proposal) worth applying to if you’re a solo freelancer? What are some strategies for landing RFPs?
+01:40 - Are [<u>RFPs (Request For Proposals)</u>](https://en.wikipedia.org/wiki/Request_for_proposal) worth applying to if you’re a solo freelancer? What are some strategies for landing RFPs?
 
 08:26 - Handling Taxes
 
@@ -27,8 +27,8 @@ tags:
 
 13:02 - Subcontractors
 
-- [<u>Form W-9</u>](http://www.irs.gov/pub/irs-pdf/fw9.pdf)
-- [<u>1099s</u>](http://www.irs.gov/uac/Form-1099-MISC,-Miscellaneous-Income-)
+- [<u>Form W-9</u>](https://www.irs.gov/pub/irs-pdf/fw9.pdf)
+- [<u>1099s</u>](https://www.irs.gov/uac/Form-1099-MISC,-Miscellaneous-Income-)
 
 15:11 - Partnerships
 
@@ -36,22 +36,22 @@ tags:
 
 - Entering a Niche
 - Email Lists
-  - [<u>MailChimp</u>](http://mailchimp.com/)
+  - [<u>MailChimp</u>](https://mailchimp.com/)
 - Podcasting
 - Writing Newsletters
 - Tweet/Interact on Social Media
-- Attend Conferences/[<u>Meetups</u>](http://www.meetup.com/)
+- Attend Conferences/[<u>Meetups</u>](https://www.meetup.com/)
 - Be Genuine
 
 28:06 - Popups, Guest Posting, Lead Magnets, and Giveaways
 
 See Also
 
-- [<u>Authority: Become an Expert, Build a Following, and Gain Financial Independence by Nathan Berry</u>](http://www.amazon.com/Authority-Become-Following-Financial-Independence/dp/1612060919/ref=sr_1_1?ie=UTF8&qid=1424726640&sr=8-1&keywords=authority+nathan)
-- [<u>No Is NOT a Curse Word by Curtis McHale</u>](http://curtismchale.ca/)
+- [<u>Authority: Become an Expert, Build a Following, and Gain Financial Independence by Nathan Berry</u>](https://www.amazon.com/Authority-Become-Following-Financial-Independence/dp/1612060919/ref=sr_1_1?ie=UTF8&qid=1424726640&sr=8-1&keywords=authority+nathan)
+- [<u>No Is NOT a Curse Word by Curtis McHale</u>](https://curtismchale.ca/)
   Picks
 
-[<u>Launch: A Startup Documentary</u>](https://itunes.apple.com/us/podcast/launch.-startup-documentary./id943552289?mt=2) (Eric)[<u>The Best of Art of Value Podcast</u>](http://artofvalue.com/most-important-thing-about-pricing/) (Curtis)[<u>The Quitter by Jon Acuff</u>](http://www.amazon.com/Quitter-Jon-Acuff-ebook/dp/B004ZL9TW0/ref=sr_1_2?ie=UTF8&qid=1424727477&sr=8-2&keywords=the+quitter) (Curtis)[<u>BLU Life 8 Phone</u>](http://www.phonearena.com/phones/BLU-Life-8_id8750) (Reuven)[<u>John Sonmez's How To Build A Blog That Will Boost Your Career</u>](http://devcareerboost.com/blog-course/) (Chuck)
+[<u>Launch: A Startup Documentary</u>](https://itunes.apple.com/us/podcast/launch.-startup-documentary./id943552289?mt=2) (Eric)[<u>The Best of Art of Value Podcast</u>](https://artofvalue.com/most-important-thing-about-pricing/) (Curtis)[<u>The Quitter by Jon Acuff</u>](https://www.amazon.com/Quitter-Jon-Acuff-ebook/dp/B004ZL9TW0/ref=sr_1_2?ie=UTF8&qid=1424727477&sr=8-2&keywords=the+quitter) (Curtis)[<u>BLU Life 8 Phone</u>](https://www.phonearena.com/phones/BLU-Life-8_id8750) (Reuven)[<u>John Sonmez's How To Build A Blog That Will Boost Your Career</u>](https://devcareerboost.com/blog-course/) (Chuck)
 
 ### Transcript
 

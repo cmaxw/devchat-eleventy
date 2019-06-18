@@ -16,27 +16,27 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/josh_earl)
 - [<u>GitHub</u>](https://github.com/joshearl)
-- [<u>Blog</u>](http://joshuaearl.com/)
+- [<u>Blog</u>](https://joshuaearl.com/)
 - Books
   - [<u>Sublime Productivity: Code Like a Pro with Today's Premier Text Editor by Josh Earl</u>](https://leanpub.com/sublime-productivity)
   - [<u>Writing Sublime Plugins by Josh Earl</u>](https://leanpub.com/writing-sublime-plugins)
 - Mailing Lists
-  - [<u>The Sublime Text Tips Newsletter</u>](http://sublimetexttips.com/) ([<u>Sublime Text</u>](http://www.sublimetext.com/))
-  - [<u>DeskHacks</u>](http://www.deskhacks.com) (Standing Desks)
-  - [<u>JoshuaEarl.com</u>](http://joshuaearl.com/) (Marketing)
+  - [<u>The Sublime Text Tips Newsletter</u>](https://sublimetexttips.com/) ([<u>Sublime Text</u>](https://www.sublimetext.com/))
+  - [<u>DeskHacks</u>](https://www.deskhacks.com) (Standing Desks)
+  - [<u>JoshuaEarl.com</u>](https://joshuaearl.com/) (Marketing)
 
 02:17 - Getting Started
 
 - [<u>Leanpub</u>](https://leanpub.com/)
-- [<u>Peter Cooper</u>](http://peterc.org/)
+- [<u>Peter Cooper</u>](https://peterc.org/)
 - [<u>Twitter</u>](https://twitter.com/)
 - Running a Contest
 
 05:17 - Format
 
-- [<u>Wes Bos</u>](http://wesbos.com/)
+- [<u>Wes Bos</u>](https://wesbos.com/)
   - [<u>Sublime Text Power User: A Complete Guide by Wes Bos</u>](https://sublimetextbook.com/?utm_source=booklaunch&utm_medium=banner&utm_campaign=product)
-  - [<u>Tutorials</u>](http://wesbos.com/blog/)
+  - [<u>Tutorials</u>](https://wesbos.com/blog/)
 
 07:44 - Promotion and Getting Subscribers
 
@@ -47,7 +47,7 @@ tags:
 
 11:40 - Sharing Content
 
-- [<u>ROI (Return On Investment)</u>](http://www.investopedia.com/terms/r/returnoninvestment.asp)
+- [<u>ROI (Return On Investment)</u>](https://www.investopedia.com/terms/r/returnoninvestment.asp)
 - [<u>Drip</u>](https://www.getdrip.com/)
   - Autoresponders
   - Lead Scoring
@@ -64,22 +64,22 @@ tags:
 
 - Email Marketing Clients
   - [<u>Drip</u>](https://www.getdrip.com/)
-    - [<u>Rob Walling</u>](http://www.softwarebyrob.com/about/)
-      - [<u>Startups For the Rest of Us Podcast</u>](http://www.startupsfortherestofus.com/)
-  - [<u>AWeber</u>](http://www.aweber.com/)
-  - [<u>MailChimp</u>](http://mailchimp.com/)
+    - [<u>Rob Walling</u>](https://www.softwarebyrob.com/about/)
+      - [<u>Startups For the Rest of Us Podcast</u>](https://www.startupsfortherestofus.com/)
+  - [<u>AWeber</u>](https://www.aweber.com/)
+  - [<u>MailChimp</u>](https://mailchimp.com/)
 - Lead Scoring Feature ([<u>Drip</u>](https://www.getdrip.com/))
 
 35:13 - Is This [Concept] New?
 
-- [<u>Infusionsoft</u>](http://www.infusionsoft.com/)
+- [<u>Infusionsoft</u>](https://www.infusionsoft.com/)
 
 42:07 - Strategies for Growth
 
 - [<u>Twitter</u>](https://twitter.com/)
   - [<u>Twitter: Capture user interest with the Lead Generation Card</u>](https://blog.twitter.com/2013/capture-user-interest-with-the-lead-generation-card)
 - Guest Posting
-  - [<u>Josh Earl: What I Learned From Growing My Email List 3,418% (Nearly 200k) in Just 11 Days</u>](http://www.smartpassiveincome.com/what-i-learned-from-growing-my-email-list-3418-nearly-200k-in-just-11-days/)
+  - [<u>Josh Earl: What I Learned From Growing My Email List 3,418% (Nearly 200k) in Just 11 Days</u>](https://www.smartpassiveincome.com/what-i-learned-from-growing-my-email-list-3418-nearly-200k-in-just-11-days/)
 
 46:38 - [<u>Facebook Ads</u>](https://www.facebook.com/advertising)?
 
@@ -92,7 +92,7 @@ tags:
 - Texting Opt-in Services
   Picks
 
-[<u>Nathan Powell: Jobs to be done, and jobs that are simply done</u>](http://nathanpowell.me/blog/jobs-to-be-done/) (Eric)[<u>FlipBelt</u>](http://www.amazon.com/Level-Terrain-FBV-FlipBelt-Violet/dp/B00JF9EEXQ/) (Eric)[<u>Ez Texting</u>](https://www.eztexting.com/) (Jonathan)[<u>Perry Marshall: Look Over My Shoulder as I Craft Living Soul Connections via Email, The World’s Most Intimate Marketing Medium</u>](http://www.perrymarshall.com/training/lops/) (Josh)[<u>Autoresponder Boot Camp</u>](http://www.perrymarshall.com/autoresponder-bootcamp/) (Josh)[<u>RumbleRoller Beastie Ball</u>](http://rumbleroller.com/massage-balls.html) (Josh)[<u>TextBlade</u>](http://waytools.com) (Josh)[<u>Gumroad</u>](http://gumroad.com) (Reuven)
+[<u>Nathan Powell: Jobs to be done, and jobs that are simply done</u>](https://nathanpowell.me/blog/jobs-to-be-done/) (Eric)[<u>FlipBelt</u>](https://www.amazon.com/Level-Terrain-FBV-FlipBelt-Violet/dp/B00JF9EEXQ/) (Eric)[<u>Ez Texting</u>](https://www.eztexting.com/) (Jonathan)[<u>Perry Marshall: Look Over My Shoulder as I Craft Living Soul Connections via Email, The World’s Most Intimate Marketing Medium</u>](https://www.perrymarshall.com/training/lops/) (Josh)[<u>Autoresponder Boot Camp</u>](https://www.perrymarshall.com/autoresponder-bootcamp/) (Josh)[<u>RumbleRoller Beastie Ball</u>](https://rumbleroller.com/massage-balls.html) (Josh)[<u>TextBlade</u>](https://waytools.com) (Josh)[<u>Gumroad</u>](https://gumroad.com) (Reuven)
 
 ### Transcript
 

@@ -16,11 +16,11 @@ tags:
 
 - [Twitter](https://twitter.com/danluu)
 - [GitHub](https://github.com/danluu)
-- [Blog&nbsp;&nbsp; &nbsp;](http://danluu.com/)
+- [Blog&nbsp;&nbsp; &nbsp;](https://danluu.com/)
 
-05:33 - [Dan Luu: Normalization of deviance in software: how broken practices become standard](http://danluu.com/wat/)
+05:33 - [Dan Luu: Normalization of deviance in software: how broken practices become standard](https://danluu.com/wat/)
 
-08:59 - [Yossi Kreinin: People can read their manager's mind](http://yosefk.com/blog/people-can-read-their-managers-mind.html)
+08:59 - [Yossi Kreinin: People can read their manager's mind](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
 
 19:32 - The Letter ‘Z’ and Security
 
@@ -30,9 +30,9 @@ tags:
 
 42:57 - How to Prevent Deviancy
 
-- [John Banja: The normalization of deviance in healthcare delivery](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2821100/)
+- [John Banja: The normalization of deviance in healthcare delivery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2821100/)
 
-47:54 - [Bruce F. Webster: The Wetware Crisis: the Thermocline of Truth](http://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
+47:54 - [Bruce F. Webster: The Wetware Crisis: the Thermocline of Truth](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
 
 53:43 - Finding a Job That Doesn’t Have These Problems
 
@@ -40,7 +40,7 @@ tags:
 
 Picks
 
-[octohatrack](https://github.com/LABHR/octohatrack) (Coraline)[Einstein's Relativity and the Quantum Revolution: Modern Physics for Non-Scientists](http://www.audible.com/pd/Science-Technology/Einsteins-Relativity-and-the-Quantum-Revolution-Modern-Physics-for-Non-Scientists-2nd-Edition-Audiobook/B00D8J46DW/ref=a_search_c4_1_2_srTtl/181-7136436-5349741?qid=1455643926&sr=1-2) (Avdi)[Real-World Relativity: The GPS Navigation System](http://www.astronomy.ohio-state.edu/~pogge/Ast162/Unit5/gps.html) (Jessica)[Katrina Owen: Here Be Dragons](http://confreaks.tv/videos/bathruby2015-here-be-dragons) (Jessica)[random tweet](http://tweet.onerandom.com/) (Dan)[Profiling a warehouse-scale computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) (Dan)
+[octohatrack](https://github.com/LABHR/octohatrack) (Coraline)[Einstein's Relativity and the Quantum Revolution: Modern Physics for Non-Scientists](https://www.audible.com/pd/Science-Technology/Einsteins-Relativity-and-the-Quantum-Revolution-Modern-Physics-for-Non-Scientists-2nd-Edition-Audiobook/B00D8J46DW/ref=a_search_c4_1_2_srTtl/181-7136436-5349741?qid=1455643926&sr=1-2) (Avdi)[Real-World Relativity: The GPS Navigation System](https://www.astronomy.ohio-state.edu/~pogge/Ast162/Unit5/gps.html) (Jessica)[Katrina Owen: Here Be Dragons](https://confreaks.tv/videos/bathruby2015-here-be-dragons) (Jessica)[random tweet](https://tweet.onerandom.com/) (Dan)[Profiling a warehouse-scale computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) (Dan)
 
 ### Transcript
 

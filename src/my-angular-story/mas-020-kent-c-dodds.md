@@ -50,7 +50,7 @@ tags:
 - [Advance React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
   Charles
 - [Indiegogo for React and Elixir on Dev Chat TV](https://www.indiegogo.com/projects/devchat-tv)
-- [reactdevsummit.com](http://reactdevsummit.com)
+- [reactdevsummit.com](https://reactdevsummit.com)
 - https://www.mybusinessonpurpose.com
 - CES - https://www.youtube.com/c/devchattv
 

@@ -16,16 +16,16 @@ tags:
 
 - [Twitter](https://twitter.com/simjp)
 - [GitHub](https://github.com/jpsim)
-- [Blog](http://www.jpsim.com/)
+- [Blog](https://www.jpsim.com/)
 
 02:11 - [Realm](https://realm.io/)
 
 - [@realm](https://twitter.com/realm)
 - [[GitHub] Realm](https://github.com/realm)
 - [News](https://realm.io/news/)
-- [Realm Newsletter Signup Page](http://realm.us5.list-manage.com/subscribe?u=2aab5198c2f56be1004466570&id=0acdd1c8d5)
+- [Realm Newsletter Signup Page](https://realm.us5.list-manage.com/subscribe?u=2aab5198c2f56be1004466570&id=0acdd1c8d5)
 
-03:59 - Realm vs [SQLite](http://www.sqlite.org/) or [Core Data](http://developer.apple.com/documentation/cocoa/conceptual/coredata/cdprogrammingguide.html)
+03:59 - Realm vs [SQLite](https://www.sqlite.org/) or [Core Data](https://developer.apple.com/documentation/cocoa/conceptual/coredata/cdprogrammingguide.html)
 
 06:27 - Getting Started
 
@@ -43,9 +43,9 @@ tags:
 
 19:21 - Migration, Updating the Data Model
 
-- [Marco Arment](http://www.marco.org/)
+- [Marco Arment](https://www.marco.org/)
 - Resources
-  - [Users](http://www.realm.io/users)
+  - [Users](https://www.realm.io/users)
 
 27:12 - Transactions/Onboarding
 
@@ -54,20 +54,20 @@ tags:
 31:40 - Drawbacks, Feature Addition
 
 - Syncing
-  - [[YouTube] German Coastguard Sinking - Learn English Commercial](http://www.youtube.com/watch?v=gmOTpIVxji8)
+  - [[YouTube] German Coastguard Sinking - Learn English Commercial](https://www.youtube.com/watch?v=gmOTpIVxji8)
 - Notification Inspection
 - Null Values = Not Supported
 
 37:18 - Getting Involved with Realm
 
 - [Realm Google Group](https://groups.google.com/forum/#!forum/realm-cocoa) (Mailing List)
-- [Stack Overflow](http://stackoverflow.com/search?q=Realm)
+- [Stack Overflow](https://stackoverflow.com/search?q=Realm)
 - [[GitHub] Realm](https://github.com/realm)
 - Email: [help@realm.io](mailto:help@realm.io)
 
 38:47 - SQL Querying
 
-41:26 - Testing Picks[desksurfing](http://www.desksurfing.net/) (Alondo)[How to Win Friends & Influence People by Dale Carnegie](http://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=chamaxwoo-20&linkId=TRD2ZFTG4DS53IKF) (Chuck)[WorkFlowy](https://workflowy.com/) (Chuck)[Mini Habits: Smaller Habits, Bigger Results by Stephen Guise](http://www.amazon.com/gp/product/1494882272/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1494882272&linkCode=as2&tag=chamaxwoo-20&linkId=YFLDICYVVQZEHT4K) (Chuck)[Habit Stacking: 97 Small Life Changes That Take Five Minutes or Less by S.J. Scott](http://www.amazon.com/gp/product/1499341474/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1499341474&linkCode=as2&tag=chamaxwoo-20&linkId=NHQHOPXWFMJKBR3N) (Chuck)[Waffle](https://waffle.io) (JP)
+41:26 - Testing Picks[desksurfing](https://www.desksurfing.net/) (Alondo)[How to Win Friends & Influence People by Dale Carnegie](https://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=chamaxwoo-20&linkId=TRD2ZFTG4DS53IKF) (Chuck)[WorkFlowy](https://workflowy.com/) (Chuck)[Mini Habits: Smaller Habits, Bigger Results by Stephen Guise](https://www.amazon.com/gp/product/1494882272/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1494882272&linkCode=as2&tag=chamaxwoo-20&linkId=YFLDICYVVQZEHT4K) (Chuck)[Habit Stacking: 97 Small Life Changes That Take Five Minutes or Less by S.J. Scott](https://www.amazon.com/gp/product/1499341474/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1499341474&linkCode=as2&tag=chamaxwoo-20&linkId=NHQHOPXWFMJKBR3N) (Chuck)[Waffle](https://waffle.io) (JP)
 
 ### Transcript
 

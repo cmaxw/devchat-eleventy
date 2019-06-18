@@ -124,7 +124,7 @@ _Arjan continues this conversation._
 
 We start teaching them at the beginning of the boot camp: recursion and better matching. Better matching, in other languages, isn’t there. Recursion can be hard to grasp. Those are the building blocks. Going from there: how can you expand...
 
-31:39 – Panelist: I saw from your video how you showed the [elevator experience](http://erlang.org/pipermail/erlang-questions/2013-January/071434.html)?
+31:39 – Panelist: I saw from your video how you showed the [elevator experience](https://erlang.org/pipermail/erlang-questions/2013-January/071434.html)?
 
 31:56 – Arjan: I didn’t know that was HIS analogy.
 
@@ -179,7 +179,7 @@ When I get to see the
 
 **Sponsors:**
 
-- [Get a Coder Job](http://getacoderjob.com/)
+- [Get a Coder Job](https://getacoderjob.com/)
 - [Loot Crate](https://www.lootcrate.com)
 - [Fresh Books](https://www.freshbooks.com)
 - [Cache Fly](https://www.cachefly.com)

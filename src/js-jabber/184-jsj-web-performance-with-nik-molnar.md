@@ -20,7 +20,7 @@ Submit a talk or buy a ticket! Check out [JS Remote Conf](https://jsremoteconf.c
 
 - [Twitter](https://twitter.com/nikmd23)
 - [GitHub](https://github.com/nikmd23)
-- [Blog](http://nikcodes.com/)
+- [Blog](https://nikcodes.com/)
 
 02:50 - What Microsoft’s Cross-Platform and Open Tooling Team Does
 
@@ -36,7 +36,7 @@ Submit a talk or buy a ticket! Check out [JS Remote Conf](https://jsremoteconf.c
 
 20:23 - Hierarchy of Needs for Users of Software
 
-- [Aaron Walter: Emotional Interface Design: The Gateway to Passionate Users](http://blog.teamtreehouse.com/emotional-interface-design-the-gateway-to-passionate-users)
+- [Aaron Walter: Emotional Interface Design: The Gateway to Passionate Users](https://blog.teamtreehouse.com/emotional-interface-design-the-gateway-to-passionate-users)
 - [Maslow’s Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 
 24:36 - Controlling Performance
@@ -47,7 +47,7 @@ Submit a talk or buy a ticket! Check out [JS Remote Conf](https://jsremoteconf.c
 
 31:57 - Speed Index
 
-- [WebPagetest](http://www.webpagetest.org/)
+- [WebPagetest](https://www.webpagetest.org/)
 
 41:50 - Avoiding the “It feels fast on my machine” Syndrome
 
@@ -74,10 +74,10 @@ More From Nik
 - [Nik Molnar: Full Stack Web Performance](https://vimeo.com/97415381)
 - [Nik Molnar: Tracking Real World Web Performance](https://vimeo.com/113715672)
 - [Navigation Timing API](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API)
-- [Resource Timing: W3C Working Draft 20 October 2015](http://www.w3.org/TR/resource-timing/)
+- [Resource Timing: W3C Working Draft 20 October 2015](https://www.w3.org/TR/resource-timing/)
   Picks
 
-[UtahJS 2015](http://conf.utahjs.com/) (Dave)[ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) (Jamison)[Saturday Morning Breakfast Cereal (High Frequency Training)](http://smbc-comics.com/index.php?id=3890) (Jamison)[Chris Zacharias: Page Weight Matters](http://blog.chriszacharias.com/page-weight-matters) (Jamison)[React Rally Talks](https://www.youtube.com/playlist?list=PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ) (Jamison)[MONEY Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins](http://www.amazon.com/gp/product/1476757801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476757801&linkCode=as2&tag=chamaxwoo-20&linkId=7S7TRKPPLMXUW6QI) (Chuck)[Rush Revere and the Star-Spangled Banner by Rush Limbaugh](http://www.amazon.com/gp/product/1476789886/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476789886&linkCode=as2&tag=chamaxwoo-20&linkId=C4RL7YHP7TILBYLW) (Chuck)[Visual Studio Code](https://code.visualstudio.com/) (Nik)[High Performance Browser Networking by Ilya Grigorik](http://chimera.labs.oreilly.com/books/1230000000545) (Nik)[Nik's Pluralsight Courses](http://www.pluralsight.com/author/nik-molnar) (Nik)
+[UtahJS 2015](https://conf.utahjs.com/) (Dave)[ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) (Jamison)[Saturday Morning Breakfast Cereal (High Frequency Training)](https://smbc-comics.com/index.php?id=3890) (Jamison)[Chris Zacharias: Page Weight Matters](https://blog.chriszacharias.com/page-weight-matters) (Jamison)[React Rally Talks](https://www.youtube.com/playlist?list=PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ) (Jamison)[MONEY Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins](https://www.amazon.com/gp/product/1476757801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476757801&linkCode=as2&tag=chamaxwoo-20&linkId=7S7TRKPPLMXUW6QI) (Chuck)[Rush Revere and the Star-Spangled Banner by Rush Limbaugh](https://www.amazon.com/gp/product/1476789886/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476789886&linkCode=as2&tag=chamaxwoo-20&linkId=C4RL7YHP7TILBYLW) (Chuck)[Visual Studio Code](https://code.visualstudio.com/) (Nik)[High Performance Browser Networking by Ilya Grigorik](https://chimera.labs.oreilly.com/books/1230000000545) (Nik)[Nik's Pluralsight Courses](https://www.pluralsight.com/author/nik-molnar) (Nik)
 
 ### Transcript
 

@@ -16,7 +16,7 @@ tags:
 
 #### My Ruby Story 009 &nbsp;Brian Hogan
 
-On this episode we have another My Ruby Story and there is a good chance you might recognize him, he is one of Devchat.tv’s panelists Brian Hogan. Aside from being a panelists on Ruby Rouges, he also has a couple other projects like [codecaster.io](http://codecaster.io) as well as [Railsmentors.org](http://www.railsmentors.org/).
+On this episode we have another My Ruby Story and there is a good chance you might recognize him, he is one of Devchat.tv’s panelists Brian Hogan. Aside from being a panelists on Ruby Rouges, he also has a couple other projects like [codecaster.io](https://codecaster.io) as well as [Railsmentors.org](https://www.railsmentors.org/).
 
 ---
 
@@ -68,7 +68,7 @@ Brian talks about how he is working on a book but he can’t tell much about it 
 
 #### Links
 
-[Twitter](https://twitter.com/bphogan)[bphogan.com](http://bphogan.com/)
+[Twitter](https://twitter.com/bphogan)[bphogan.com](https://bphogan.com/)
 
 ---
 

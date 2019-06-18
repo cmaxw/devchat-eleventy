@@ -66,7 +66,7 @@ This week on My Ruby Story, Charles talks to Andy Hunt. Andy has previously been
 Charles
 
 - [Google Drive](https://www.google.com/drive/)
-- [ScanSnap S1300i](http://www.fujitsu.com/us/products/computing/peripheral/scanners/scansnap/s1300i/)
+- [ScanSnap S1300i](https://www.fujitsu.com/us/products/computing/peripheral/scanners/scansnap/s1300i/)
 
 Andy
 

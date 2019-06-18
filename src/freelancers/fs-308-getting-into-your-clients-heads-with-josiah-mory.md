@@ -22,7 +22,7 @@ In this episode of the Freelancer’s Show, Jonathan of the Freelancer’s Show 
 
 **In particular, we dive pretty deep on:**
 
-- Josiah talks about [Kickinbahk Productions](http://kickinbahkproductions.com).
+- Josiah talks about [Kickinbahk Productions](https://kickinbahkproductions.com).
 - Strategies with clients
 - Freelancing
 - Learning from podcasts
@@ -40,7 +40,7 @@ In this episode of the Freelancer’s Show, Jonathan of the Freelancer’s Show 
 
 Links
 
-- [Kickinbahk Productions](http://kickinbahkproductions.com)
+- [Kickinbahk Productions](https://kickinbahkproductions.com)
 - [Joisah Mory’s LinkedIn](https://www.linkedin.com/in/josiahmory)
 
 **Picks:**
@@ -53,7 +53,7 @@ Jonathan
 Josiah
 
 - [ONKRON Monitor Desk Mount](https://www.amazon.com/gp/product/B0744KX5NM/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
-- [Josiah's 5-day email course](http://customerinterviewcourse.com/)
+- [Josiah's 5-day email course](https://customerinterviewcourse.com/)
 - [Josiah's website](https://kickinbahkproductions.com/)
 
 ### Transcript

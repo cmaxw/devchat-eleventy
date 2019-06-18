@@ -21,7 +21,7 @@ When not to test:
 - Verifies code functionality
 - Automated testing
 - Manual tests
-  Only run the tests you need to run. [Guard](https://github.com/guard/guard) [Autotest](http://www.zenspider.com/ZSS/Products/ZenTest/) [Timecop](https://github.com/jtrupiano/timecop) [Redis](http://redis.io/) Testing myths:
+  Only run the tests you need to run. [Guard](https://github.com/guard/guard) [Autotest](https://www.zenspider.com/ZSS/Products/ZenTest/) [Timecop](https://github.com/jtrupiano/timecop) [Redis](https://redis.io/) Testing myths:
 - It’s too hard to test this.
   - This is usually a design flaw.
   - Forked processes are hard to test.
@@ -37,10 +37,10 @@ When not to test:
 - Duplicate code
 - Low Risk code
   Testing Javascript from Rails:
-- [Jasmine](http://pivotal.github.com/jasmine/)
-- [Vows](http://vowsjs.org/)
-- [Jasmine Headless Webkit](http://johnbintz.github.com/jasmine-headless-webkit/)
-- [Zombie](http://zombie.labnotes.org/)
+- [Jasmine](https://pivotal.github.com/jasmine/)
+- [Vows](https://vowsjs.org/)
+- [Jasmine Headless Webkit](https://johnbintz.github.com/jasmine-headless-webkit/)
+- [Zombie](https://zombie.labnotes.org/)
   The clock is a global variable. Code coverage:
 - Ryan likes to have 100% code confidence.
 - Coverage means exercise, not correct functionality.

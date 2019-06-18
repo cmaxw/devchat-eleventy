@@ -27,9 +27,9 @@ tags:
 - Giro box
   33:10: Contacting Marcin
 - [Twitter](https://twitter.com/krzyzanowskim?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-- [Blog](http://blog.krzyzanowskim.com/)
+- [Blog](https://blog.krzyzanowskim.com/)
 - [GitHub](https://github.com/krzyzanowskim)
-  Picks:[The Accountant](http://www.imdb.com/title/tt2140479/) (Rod)[12 Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)[Din Group](https://www.youtube.com/watch?v=1hPSFnix_jk) (Marcin)[Project Distribution Test](http://dduan.net/2016/10/10/distribution-tests/) (Marcin)[Hired.com](http://www.hired.com/iphreaks)
+  Picks:[The Accountant](https://www.imdb.com/title/tt2140479/) (Rod)[12 Week Year](https://www.amazon.com/dp/B00CU9P31K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (Charles)[Din Group](https://www.youtube.com/watch?v=1hPSFnix_jk) (Marcin)[Project Distribution Test](https://dduan.net/2016/10/10/distribution-tests/) (Marcin)[Hired.com](https://www.hired.com/iphreaks)
 
 ### Transcript
 

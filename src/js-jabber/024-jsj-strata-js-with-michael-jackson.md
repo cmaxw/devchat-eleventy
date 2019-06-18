@@ -14,34 +14,34 @@ tags:
 
 ### Panel
 
-- Michael Jackson ([twitter](http://twitter.com/mjackson) [github](https://github.com/mjijackson/) [stratajs.org](http://stratajs.org/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
+- Michael Jackson ([twitter](https://twitter.com/mjackson) [github](https://github.com/mjijackson/) [stratajs.org](https://stratajs.org/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
 
 ### Discussion
 
-- [StrataJS](http://stratajs.org/)
+- [StrataJS](https://stratajs.org/)
 - Rack
-- [WSGI](http://wsgi.readthedocs.org/en/latest/index.html)
+- [WSGI](https://wsgi.readthedocs.org/en/latest/index.html)
 - The Middleware Pattern
-- [NodeJS](http://nodejs.org/)
+- [NodeJS](https://nodejs.org/)
 - Connect and Express
 - Strata App, Strata Middleware Objects
 - Specifying Callbacks
 - Nested Callbacks
 - "Callback&nbsp;Spaghetti"
-- [In a World of Middleware, Who Needs Monolithic Applications? by&nbsp;Jon Crosby](http://www.confreaks.com/videos/49-mwrc2009-in-a-world-of-middleware-who-needs-monolithic-applications)
+- [In a World of Middleware, Who Needs Monolithic Applications? by&nbsp;Jon Crosby](https://www.confreaks.com/videos/49-mwrc2009-in-a-world-of-middleware-who-needs-monolithic-applications)
 - Call Stack Depth Issues
 - Usage at Twitter
-- [Good Docs](http://stratajs.org/manual)
+- [Good Docs](https://stratajs.org/manual)
 
 ### Picks
 
-- [Uncrate](http://uncrate.com/) (Michael)
-- [MXR Guitar Pedals](http://www.jimdunlop.com/) (Michael)
-- [Productive Mouse-Free Development](http://pragprog.com/book/bhtmux/tmux) (Jamison)
-- [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/gp/product/0465026567/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0465026567)&nbsp;(Jamison)
-- [OmniFocus](http://click.linksynergy.com/link?id=olGJBdaco3U&offerid=146261.383804552&type=2&murl=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fomnifocus-for-ipad%2Fid383804552%3Fuo%3D5) (Chuck)
+- [Uncrate](https://uncrate.com/) (Michael)
+- [MXR Guitar Pedals](https://www.jimdunlop.com/) (Michael)
+- [Productive Mouse-Free Development](https://pragprog.com/book/bhtmux/tmux) (Jamison)
+- [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/gp/product/0465026567/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0465026567)&nbsp;(Jamison)
+- [OmniFocus](https://click.linksynergy.com/link?id=olGJBdaco3U&offerid=146261.383804552&type=2&murl=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fomnifocus-for-ipad%2Fid383804552%3Fuo%3D5) (Chuck)
 
 ### Transcript
 

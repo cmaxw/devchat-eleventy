@@ -14,52 +14,52 @@ tags:
 
 ### Panel
 
-- Joe Eames&nbsp;([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](http://coolaj86.info/))
-- Jamison Dance&nbsp;([twitter](http://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](http://jamisondance.com/))
-- Tim Caswell&nbsp;([twitter](http://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](http://howtonode.org/))
-- Charles Max Wood&nbsp;([twitter](http://twitter.com/cmaxw)&nbsp;[github](http://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](http://teachmetocode.com/)&nbsp;[Rails Summer Camp](http://teachmetocodeacademy.com/))
+- Joe Eames&nbsp;([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- AJ O'Neal ([twitter](https://twitter.com/coolaj86)&nbsp;[github](https://github.com/coolaj86/)&nbsp;[blog](https://coolaj86.info/))
+- Jamison Dance&nbsp;([twitter](https://twitter.com/jergason)&nbsp;[github](https://github.com/jergason)&nbsp;[blog](https://jamisondance.com/))
+- Tim Caswell&nbsp;([twitter](https://twitter.com/creationix/)&nbsp;[github](https://github.com/creationix/)&nbsp;[howtonode.org](https://howtonode.org/))
+- Charles Max Wood&nbsp;([twitter](https://twitter.com/cmaxw)&nbsp;[github](https://github.com/charlesmaxwood)&nbsp;[Teach Me To Code](https://teachmetocode.com/)&nbsp;[Rails Summer Camp](https://teachmetocodeacademy.com/))
 
 ### Discussion
 
 - Global Variables
 - Namespacing Functions
-- [XKCD - The General Problem](http://xkcd.com/974/)
+- [XKCD - The General Problem](https://xkcd.com/974/)
 - Modules
-- [RequireJS](http://requirejs.org/)
+- [RequireJS](https://requirejs.org/)
 - Refactoring
 - "Incremental is the key."
 - .js files
 - Order Independent Self-Executing Functions
 - [Browserify](https://github.com/substack/node-browserify)
 - [AlmondJS](https://github.com/jrburke/almond)
-- [Jam](http://jamjs.org/)
-- [EmberJS](http://emberjs.com/)
+- [Jam](https://jamjs.org/)
+- [EmberJS](https://emberjs.com/)
 - Namespaces
 - Copying Functions
 - Using Prototypes
-- [Yehuda Katz - Understanding Prototypes](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
+- [Yehuda Katz - Understanding Prototypes](https://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
 - Aggregation vs Inheritance
 - Manually Copy vs. Compose
 - TDD
-- [Interface Oriented Design](http://www.amazon.com/gp/product/0976694050/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0976694050&linkCode=as2&tag=chamaxwoo-20)
-- [Growing Object Oriented Software Guided by Tests](http://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)
+- [Interface Oriented Design](https://www.amazon.com/gp/product/0976694050/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0976694050&linkCode=as2&tag=chamaxwoo-20)
+- [Growing Object Oriented Software Guided by Tests](https://www.amazon.com/gp/product/0321503627/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321503627)
 - Closure
 - Instances
 
 ### Picks
 
-- [The Pragmatic Programmer](http://www.amazon.com/gp/product/B000SEGEKI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000SEGEKI&linkCode=as2&tag=chamaxwoo-20) (Jamison)
+- [The Pragmatic Programmer](https://www.amazon.com/gp/product/B000SEGEKI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000SEGEKI&linkCode=as2&tag=chamaxwoo-20) (Jamison)
 - [Natural Language Processing](https://class.coursera.org/nlp) (Jamison)
 - Pair Programming (Joe)
-- [Farmageddon](http://boardgamegeek.com/boardgame/102897/farmageddon) (Joe)
-- [Pairwith.me](http://pairwith.me/) (Jamison)
-- [Interface Oriented Design](http://www.amazon.com/gp/product/0976694050/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0976694050&linkCode=as2&tag=chamaxwoo-20) (Tim)
-- [Object Graphs 1-3](http://howtonode.org/object-graphs) (Tim)
-- [Amazon Prime](http://www.amazon.com/gp/prime) (Chuck)
-- [PDFPen](http://click.linksynergy.com/link?id=olGJBdaco3U&offerid=146261.490774625&type=2&murl=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fpdfpen%2Fid490774625%3Fuo%3D5) (Chuck)
+- [Farmageddon](https://boardgamegeek.com/boardgame/102897/farmageddon) (Joe)
+- [Pairwith.me](https://pairwith.me/) (Jamison)
+- [Interface Oriented Design](https://www.amazon.com/gp/product/0976694050/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0976694050&linkCode=as2&tag=chamaxwoo-20) (Tim)
+- [Object Graphs 1-3](https://howtonode.org/object-graphs) (Tim)
+- [Amazon Prime](https://www.amazon.com/gp/prime) (Chuck)
+- [PDFPen](https://click.linksynergy.com/link?id=olGJBdaco3U&offerid=146261.490774625&type=2&murl=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fpdfpen%2Fid490774625%3Fuo%3D5) (Chuck)
 - Zola Gouda from Holland (AJ)
-- [Harmons Grocery](http://www.harmonsgrocery.com/) (AJ)
+- [Harmons Grocery](https://www.harmonsgrocery.com/) (AJ)
 - Puns (anti-pick) (AJ)
 
 ### Transcript

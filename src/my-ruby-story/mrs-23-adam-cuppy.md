@@ -27,17 +27,17 @@ This week on My Ruby Story, Charles speaks with Adam Cuppy. Adam is the co-found
 - @AdamCuppy
 - Git Hub - [acuppy](https://github.com/acuppy)
 - [What if Shakespeare wrote Ruby?](https://www.youtube.com/watch?v=aeSTsMEKxkY)
-- [RubyDevSummit.com](http://RubyDevSummit.com)
+- [RubyDevSummit.com](https://RubyDevSummit.com)
 - [Ego Is The Enemy](https://www.amazon.com/dp/B015NTIXWE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Secrets of the Millionaire Mind&nbsp;](https://www.amazon.com/Secrets-Millionaire-Mind-Mastering-Wealth-ebook/dp/B000FCJZ3G/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1507079619&sr=1-1&keywords=Secrets+of+the+Millionaire+Mind%C2%A0)
 - [Miracle Morning&nbsp;](https://www.amazon.com/Miracle-Morning-Not-So-Obvious-Guaranteed-Transform-ebook/dp/B00AKKS278/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1507079594&sr=1-1&keywords=Miracle+Morning%C2%A0)
 - [The Obstacle Is the Way&nbsp;](https://www.amazon.com/dp/B00G3L1B8K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
   **Picks:&nbsp;** Adam
-- [Ruby Dev Summit](http://RubyDevSummit.com)and Conferences
+- [Ruby Dev Summit](https://RubyDevSummit.com)and Conferences
   Charles
 - Ketogenic Diet - Sugar free cheese cake
-- [Fat Head movie&nbsp;](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjn4c3L4NXWAhWs44MKHa90CasQFggoMAA&url=http://www.fathead-movie.com/&usg=AOvVaw2uWUYPo7rsIDia9FxFoygM)
+- [Fat Head movie&nbsp;](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjn4c3L4NXWAhWs44MKHa90CasQFggoMAA&url=https://www.fathead-movie.com/&usg=AOvVaw2uWUYPo7rsIDia9FxFoygM)
 - [Keto Charity&nbsp;](https://www.amazon.com/dp/B00MEX9B4C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-- [2 Keto Dudes](http://2ketodudes.com)
+- [2 Keto Dudes](https://2ketodudes.com)
 
 ### Transcript

@@ -16,13 +16,13 @@ tags:
 
 - [Twitter](https://twitter.com/petebd)
 - [GitHub](https://github.com/petebacondarwin)
-- [Blog](http://bacondarwin.com/)
+- [Blog](https://bacondarwin.com/)
 - [Adventures in Angular Episode #65: News From AngularConnect](https://devchat.tv/adventures-in-angular/065-aia-news-from-angularconnect)
-- [AngularConnect](http://angularconnect.com/)
+- [AngularConnect](https://angularconnect.com/)
 
 03:48 - Angular 1.5
 
-- [Angular 1.5.0 - ennoblement-facilitation has been released!](http://angularjs.blogspot.com/2016/02/angular-150-ennoblement-facilitation.html)
+- [Angular 1.5.0 - ennoblement-facilitation has been released!](https://angularjs.blogspot.com/2016/02/angular-150-ennoblement-facilitation.html)
 
 06:29 - Will people prefer to write in this style going forward?
 
@@ -38,7 +38,7 @@ tags:
 
 23:00 - Angular 1.4 vs 1.5
 
-25:08 - [TypeScript](http://www.typescriptlang.org/)
+25:08 - [TypeScript](https://www.typescriptlang.org/)
 
 - [ng-forward](https://github.com/ngUpgraders/ng-forward)
 
@@ -50,11 +50,11 @@ tags:
 
 44:34 - [ngTouch](https://docs.angularjs.org/api/ngTouch)
 
-49:58 - [AngularConnect](http://angularconnect.com/)
+49:58 - [AngularConnect](https://angularconnect.com/)
 
 Picks
 
-[AngularConnect](http://angularconnect.com/) (Ward)[ng-conf](https://www.ng-conf.org/) (Joe)[Sarah Blasko](http://www.sarahblasko.com/) (Joe)[Survey](https://www.surveymonkey.com/r/58LQQRM) (Joe)[AngleBrackets](https://anglebrackets.org/) Use the code PAPA for \$50 discount (John)[The LOOP](https://the-loop-company.myshopify.com/) (Chuck)[Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) (Peter)[Hackers: Heroes of the Computer Revolution by Steven Levy](http://www.amazon.com/Hackers-Heroes-Computer-Revolution-Anniversary/dp/1449388396/ref=sr_1_3) (Peter)[Clause 57.10](https://aws.amazon.com/service-terms/) (Peter)
+[AngularConnect](https://angularconnect.com/) (Ward)[ng-conf](https://www.ng-conf.org/) (Joe)[Sarah Blasko](https://www.sarahblasko.com/) (Joe)[Survey](https://www.surveymonkey.com/r/58LQQRM) (Joe)[AngleBrackets](https://anglebrackets.org/) Use the code PAPA for \$50 discount (John)[The LOOP](https://the-loop-company.myshopify.com/) (Chuck)[Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) (Peter)[Hackers: Heroes of the Computer Revolution by Steven Levy](https://www.amazon.com/Hackers-Heroes-Computer-Revolution-Anniversary/dp/1449388396/ref=sr_1_3) (Peter)[Clause 57.10](https://aws.amazon.com/service-terms/) (Peter)
 
 ### Transcript
 

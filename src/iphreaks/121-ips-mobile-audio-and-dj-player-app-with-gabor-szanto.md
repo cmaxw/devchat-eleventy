@@ -16,7 +16,7 @@ tags:
 
 - [Twitter](https://twitter.com/szantog)
 
-02:46 - [Superpowered](http://superpowered.com/)
+02:46 - [Superpowered](https://superpowered.com/)
 
 Typical Applications
 
@@ -25,22 +25,22 @@ Typical Applications
 
 13:00 - Audio Apps on iOS vs Android
 
-- [Android’s 10 Millisecond Problem: The Android Audio Path Latency Explainer](http://superpowered.com/androidaudiopathlatency)
+- [Android’s 10 Millisecond Problem: The Android Audio Path Latency Explainer](https://superpowered.com/androidaudiopathlatency)
 
-16:59 - [Superpowered](http://superpowered.com/) Cost
+16:59 - [Superpowered](https://superpowered.com/) Cost
 
 17:51 - Connecting Code
 
 22:18 - Algorithms
 
-24:25 - [DJ PLAYER](http://djplayerapp.com/) and The DJ Market
+24:25 - [DJ PLAYER](https://djplayerapp.com/) and The DJ Market
 
-- [iMashup](http://imashup.com/)
-- [Flow 8 Deck](http://flowdj.com/)
+- [iMashup](https://imashup.com/)
+- [Flow 8 Deck](https://flowdj.com/)
 - Piracy
   Picks
 
-[Hardcore History](http://www.dancarlin.com/hardcore-history-series/) (Jaim)[Whynter Ice Cream Maker](http://www.amazon.com/gp/product/B00N63J432/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00N63J432&linkCode=as2&tag=chamaxwoo-20&linkId=PBTBKHM6M5TGAHV4) (Andrew)[The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/) (Mike)[Solarbotics Bundles](https://solarbotics.com/catalog/bundles/) (Mike)[15 Minute Podcast Listener chat with Charles Wood](http://iphreaksshow.com/15minutes) (Chuck)[Pebble Time](https://getpebble.com/pebble_time) (Chuck)[The DFT “à Pied”: Mastering The Fourier Transform in One Day](http://blogs.zynaptiq.com/bernsee/dft-a-pied/) (Gábor)
+[Hardcore History](https://www.dancarlin.com/hardcore-history-series/) (Jaim)[Whynter Ice Cream Maker](https://www.amazon.com/gp/product/B00N63J432/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00N63J432&linkCode=as2&tag=chamaxwoo-20&linkId=PBTBKHM6M5TGAHV4) (Andrew)[The Aggregate Magic Algorithms](https://aggregate.org/MAGIC/) (Mike)[Solarbotics Bundles](https://solarbotics.com/catalog/bundles/) (Mike)[15 Minute Podcast Listener chat with Charles Wood](https://iphreaksshow.com/15minutes) (Chuck)[Pebble Time](https://getpebble.com/pebble_time) (Chuck)[The DFT “à Pied”: Mastering The Fourier Transform in One Day](https://blogs.zynaptiq.com/bernsee/dft-a-pied/) (Gábor)
 
 ### Transcript
 

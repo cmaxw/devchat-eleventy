@@ -12,12 +12,12 @@ tags:
   - podcast
 ---
 
-02:29 - Help Support [<u>JavaScript Jabber</u>](http://www.javascriptjabber.com/) and [<u>DevChat.tv</u>](https://devchat.tv/)
+02:29 - Help Support [<u>JavaScript Jabber</u>](https://www.javascriptjabber.com/) and [<u>DevChat.tv</u>](https://devchat.tv/)
 
-- [<u>Donate</u>](http://www.devchat.tv/donate)
-- [<u>Join the Forum</u>](http://www.javascriptjabber.com/forum)
+- [<u>Donate</u>](https://www.devchat.tv/donate)
+- [<u>Join the Forum</u>](https://www.javascriptjabber.com/forum)
 - [<u>JS Remote Conf</u>](https://jsremoteconf.com/)
-- [<u>Pick Up Podcasting</u>](http://pickuppodcasting.com/)
+- [<u>Pick Up Podcasting</u>](https://pickuppodcasting.com/)
 
 03:10 - Jason Weathersby Introduction
 
@@ -26,34 +26,34 @@ tags:
 
 03:55 - [<u>Firefox OS (FxOS)</u>](https://www.mozilla.org/en-US/firefox/os/)
 
-05:38 - [<u>IOT (The Internet of Things)</u>](http://en.wikipedia.org/wiki/Internet_of_Things)
+05:38 - [<u>IOT (The Internet of Things)</u>](https://en.wikipedia.org/wiki/Internet_of_Things)
 
 06:30 - Levels of FxOS
 
-- [<u>Gonk</u>](http://en.wikipedia.org/wiki/Gonk)
+- [<u>Gonk</u>](https://en.wikipedia.org/wiki/Gonk)
 - [<u>Gecko</u>](https://developer.mozilla.org/en-US/docs/Mozilla/Gecko)
 - [<u>Gaia</u>](https://developer.mozilla.org/en-US/Firefox_OS/Platform/Gaia)
   - [<u>Developing Gaia</u>](https://developer.mozilla.org/en-US/Firefox_OS/Developing_Gaia)
 
 08:58 - FxOS and JavaScript Frameworks and the Types of Apps on FxOS
 
-- [<u>Content Security Policy (CSP)</u>](http://en.wikipedia.org/wiki/Content_Security_Policy)
+- [<u>Content Security Policy (CSP)</u>](https://en.wikipedia.org/wiki/Content_Security_Policy)
 - [<u>App Cache</u>](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache)
 
 13:08 - [<u>systemXHR</u>](https://developer.mozilla.org/en-US/Apps/Reference) (and [<u>Angular</u>](https://angularjs.org/))
 
-- [<u>WebAPI</u>](http://wiki.mozilla.org/webapi)
+- [<u>WebAPI</u>](https://wiki.mozilla.org/webapi)
 
 16:28 - [<u>The Flame (The Developer Reference Phone)</u>](https://developer.mozilla.org/en-US/Firefox_OS/Developer_phone_guide/Flame)
 
-22:12 - [<u>Android</u>](http://www.android.com/) and FsOS Compatibility
+22:12 - [<u>Android</u>](https://www.android.com/) and FsOS Compatibility
 
-- [<u>Android Application Package (APK)</u>](http://en.wikipedia.org/wiki/Android_application_package)
-- [<u>Cordova</u>](http://cordova.apache.org/)
+- [<u>Android Application Package (APK)</u>](https://en.wikipedia.org/wiki/Android_application_package)
+- [<u>Cordova</u>](https://cordova.apache.org/)
 
 28:41 - Competition
 
-29:45 - The [<u>UI (User Interface)</u>](http://en.wikipedia.org/wiki/User_interface)
+29:45 - The [<u>UI (User Interface)</u>](https://en.wikipedia.org/wiki/User_interface)
 
 31:56 - Copy/Paste Feature
 
@@ -64,11 +64,11 @@ tags:
   - [fxos-sms-demo](https://github.com/coolaj86/fxos-sms-demo)
   - [<u>fxos-angular-demo</u>](https://github.com/coolaj86/fxos-angular-demo)
 
-36:12 - FxOS & The [<u>Raspberry Pi</u>](http://www.raspberrypi.org/)
+36:12 - FxOS & The [<u>Raspberry Pi</u>](https://www.raspberrypi.org/)
 
 - [<u>How to install Firefox on your Raspberry Pi</u>](https://www.youtube.com/watch?v=9cODs3ft8Xc)
 
-37:49 - An Alternative to [<u>Node</u>](http://nodejs.org/)?
+37:49 - An Alternative to [<u>Node</u>](https://nodejs.org/)?
 
 38:15 - FsOX on Tablets
 
@@ -83,17 +83,17 @@ tags:
 
 - [<u>Bugzilla</u>](https://bugzilla.mozilla.org/)
 
-51:15 - [<u>Cordova</u>](http://cordova.apache.org/)
+51:15 - [<u>Cordova</u>](https://cordova.apache.org/)
 
 52:51 - The Developer HUD
 
-- [<u>asm.js</u>](http://asmjs.org/)
+- [<u>asm.js</u>](https://asmjs.org/)
 - [<u>Debugging Certified Apps</u>](https://developer.mozilla.org/en-US/Firefox_OS/Using_the_App_Manager#Debugging_Certified_Apps_2)
 
 ### A Couple of Screencasts AJ Has Created Recently
 
-- [<u>Self-Hosted Image Resizing Service</u>](http://youtu.be/1goBiTf2ErA)
-- <u><a href="http://youtu.be/YZzhIIJmlE0" data-cke-saved-href="http://youtu.be/YZzhIIJmlE0">How to Secure your VPS</a></u>
+- [<u>Self-Hosted Image Resizing Service</u>](https://youtu.be/1goBiTf2ErA)
+- <u><a href="https://youtu.be/YZzhIIJmlE0" data-cke-saved-href="https://youtu.be/YZzhIIJmlE0">How to Secure your VPS</a></u>
 
 ### Transcript
 

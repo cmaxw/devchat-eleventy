@@ -15,13 +15,13 @@ tags:
 01:29 - Ben Orenstein Introduction
 
 - [Giant Robots Smashing into other Giant Robots](https://learn.thoughtbot.com/giantrobots)
-- [thoughtbot](http://thoughtbot.com/)
+- [thoughtbot](https://thoughtbot.com/)
 - [thoughtbot Learn](https://learn.thoughtbot.com/prime)
 
 04:23 - Tool Sharpening
 
 - [Play by Play: Refactoring with Ben Orenstein](https://peepcode.com/products/play-by-play-benorenstein)
-- [Ben's GoGaRuCo Talk](http://www.confreaks.com/videos/2677-gogaruco2013-frequently-asked-questions)
+- [Ben's GoGaRuCo Talk](https://www.confreaks.com/videos/2677-gogaruco2013-frequently-asked-questions)
 
 07:16 - Coding Environment
 
@@ -43,27 +43,27 @@ tags:
 
 35:52 - Operating System Sharpening
 
-- [Alfred App](http://www.alfredapp.com/)
-- [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
-- [Vimium](http://vimium.github.io/)
-- [LaunchBar](http://www.obdev.at/launchbar)
+- [Alfred App](https://www.alfredapp.com/)
+- [SizeUp](https://www.irradiatedsoftware.com/sizeup/)
+- [Vimium](https://vimium.github.io/)
+- [LaunchBar](https://www.obdev.at/launchbar)
 
 39:32 - Hardware & Other Physical Tools
 
-- [Kinesis Advantage Ergonomic Keyboard](http://www.kinesis-ergo.com/advantage.htm)
-- [GeekDesk](http://www.geekdesk.com/)
-- [A standing desk for \$22](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html)
-- [VIVOBAREFOOT](http://www.vivobarefoot.com/us/?gclid=CLTIvoesrboCFW1yQgodUkcAkg)
-- [Ruby Rogues Episode 074: Developer Environments](http://rubyrogues.com/0074-rr-developer-environments/)
+- [Kinesis Advantage Ergonomic Keyboard](https://www.kinesis-ergo.com/advantage.htm)
+- [GeekDesk](https://www.geekdesk.com/)
+- [A standing desk for \$22](https://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html)
+- [VIVOBAREFOOT](https://www.vivobarefoot.com/us/?gclid=CLTIvoesrboCFW1yQgodUkcAkg)
+- [Ruby Rogues Episode 074: Developer Environments](https://rubyrogues.com/0074-rr-developer-environments/)
 
 48:37 - Favorite Remap
 
-- [Dash](http://kapeli.com/dash)
+- [Dash](https://kapeli.com/dash)
 
 53:33 - Upcoming Appearances
 
-- [RubyConf](http://rubyconf.org/)
-- [Garden City Ruby](http://www.gardencityruby.org/)
+- [RubyConf](https://rubyconf.org/)
+- [Garden City Ruby](https://www.gardencityruby.org/)
 
 ### Book Club
 

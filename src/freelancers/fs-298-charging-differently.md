@@ -44,13 +44,13 @@ Picks
 
 Jonathan Stark
 
-- [valuepricingbootcamp.com](http://valuepricingbootcamp.com)
+- [valuepricingbootcamp.com](https://valuepricingbootcamp.com)
 - [Your Productized Consulting Guide](https://uibreakfast.com/productized-guide/)
-- [howtobulilduourfirstproductizedservice.com](http://howtobulilduourfirstproductizedservice.com)
+- [howtobulilduourfirstproductizedservice.com](https://howtobulilduourfirstproductizedservice.com)
 -
 
 Jeremy Green
 
-- [American Utopia Tour](http://davidbyrne.com/explore/american-utopia/tour)
+- [American Utopia Tour](https://davidbyrne.com/explore/american-utopia/tour)
 
 ### Transcript

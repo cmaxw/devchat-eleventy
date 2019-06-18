@@ -12,14 +12,14 @@ tags:
   - podcast
 ---
 
-**Check out** [**RailsClips on Kickstarter**](http://devchat.tv/kickstarter) **!!**
+**Check out** [**RailsClips on Kickstarter**](https://devchat.tv/kickstarter) **!!**
 
 02:39 - Hongli Lai Introduction
 
 - [Twitter](https://twitter.com/honglilai)
 - [GitHub](https://github.com/FooBarWidget)
-- [Blog](http://izumi.plan99.net/blog/)
-- [Phusion](http://www.phusion.nl/)
+- [Blog](https://izumi.plan99.net/blog/)
+- [Phusion](https://www.phusion.nl/)
 
 03:08 - Tinco Andringa Introduction
 
@@ -31,7 +31,7 @@ tags:
 
 06:13 - Automation
 
-- [nginx](http://nginx.org/)
+- [nginx](https://nginx.org/)
 
 08:37 - Parsing HTTP Headers
 
@@ -43,27 +43,27 @@ tags:
 
 17:12 - [Passenger Enterprise](https://www.phusionpassenger.com/enterprise)
 
-- [Ruby Rogues Episode #143: Passenger Enterprise with Tinco Andringa and Hongli Lai](http://devchat.tv/ruby-rogues/143-rr-passenger-enterprise-with-tinco-andringa-and-hongli-lai)
+- [Ruby Rogues Episode #143: Passenger Enterprise with Tinco Andringa and Hongli Lai](https://devchat.tv/ruby-rogues/143-rr-passenger-enterprise-with-tinco-andringa-and-hongli-lai)
 - [About Phusion Passenger](https://www.phusionpassenger.com/#about)
 - [Documentation & Support](https://www.phusionpassenger.com/documentation_and_support)
 
-20:03 - [Concurrency](<http://en.wikipedia.org/wiki/Concurrency_(computer_science)>) and [Multithreading](<http://en.wikipedia.org/wiki/Multithreading_(computer_architecture)>)
+20:03 - [Concurrency](<https://en.wikipedia.org/wiki/Concurrency_(computer_science)>) and [Multithreading](<https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)>)
 
-- [Multiprocessing](http://en.wikipedia.org/wiki/Multiprocessing)
-- [The Cluster Module](http://nodejs.org/api/cluster.html)
-- [WebSockets](http://en.wikipedia.org/wiki/WebSocket)
+- [Multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing)
+- [The Cluster Module](https://nodejs.org/api/cluster.html)
+- [WebSockets](https://en.wikipedia.org/wiki/WebSocket)
   - [passenger_sticky_sessions](https://www.phusionpassenger.com/documentation/Users%20guide%20Nginx.html#PassengerStickySessions)
 
-23:33 - Setting Up on a Server for a [Node.js](http://nodejs.org/) Application
+23:33 - Setting Up on a Server for a [Node.js](https://nodejs.org/) Application
 
 - [Debian Packages](https://www.debian.org/distrib/packages)
 
 25:06 - Union Station Monitoring Tool ([Union Station Teaser](https://www.unionstationapp.com/))
 
-- [Introducing Union Station: our web app performance monitoring and behavior analysis service; now in open beta](http://old.blog.phusion.nl/2011/03/02/introducing-union-station-our-web-app-performance-monitoring-and-behavior-analysis-service-now-in-open-beta/)
+- [Introducing Union Station: our web app performance monitoring and behavior analysis service; now in open beta](https://old.blog.phusion.nl/2011/03/02/introducing-union-station-our-web-app-performance-monitoring-and-behavior-analysis-service-now-in-open-beta/)
 - Using [Google Polymer](https://www.polymer-project.org/)
-  - [JavaScript Jabber Episode #120: Google Polymer with Rob Dodson and Eric Bidelman](http://devchat.tv/js-jabber/120-jsj-google-polymer-with-rob-dodson-and-eric-bidelman)
-  - Polymer vs [Facebook React](http://facebook.github.io/react/)
+  - [JavaScript Jabber Episode #120: Google Polymer with Rob Dodson and Eric Bidelman](https://devchat.tv/js-jabber/120-jsj-google-polymer-with-rob-dodson-and-eric-bidelman)
+  - Polymer vs [Facebook React](https://facebook.github.io/react/)
 
 ### Transcript
 

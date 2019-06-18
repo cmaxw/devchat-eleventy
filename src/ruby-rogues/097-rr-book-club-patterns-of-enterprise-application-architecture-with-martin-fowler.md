@@ -15,43 +15,43 @@ tags:
 01:31 - Martin Fowler Introduction
 
 - “Author, speaker and general loud-mouth on the topic of software development”
-- [martinfowler.com](http://www.martinfowler.com/)
+- [martinfowler.com](https://www.martinfowler.com/)
 
-02:05 - [Patterns of Enterprise Application Architecture by Martin Fowler (PoEAA)](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321127420&linkCode=as2&tag=chamaxwoo-20)
+02:05 - [Patterns of Enterprise Application Architecture by Martin Fowler (PoEAA)](https://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321127420&linkCode=as2&tag=chamaxwoo-20)
 
-- [Programming Ruby 1.9: The Pragmatic Programmers’ Guide by Andy Hunt (The Pickaxe Book)](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321127420&linkCode=as2&tag=chamaxwoo-20)
-- [Transform View](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321127420&linkCode=as2&tag=chamaxwoo-20)
+- [Programming Ruby 1.9: The Pragmatic Programmers’ Guide by Andy Hunt (The Pickaxe Book)](https://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321127420&linkCode=as2&tag=chamaxwoo-20)
+- [Transform View](https://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321127420&linkCode=as2&tag=chamaxwoo-20)
   10:47 - Architecture 12:30 - Patterns
-- [The Timeless Way of Building by Christopher Alexander&nbsp;](http://www.amazon.com/gp/product/0195024028/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195024028&linkCode=as2&tag=chamaxwoo-20)
-- [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides](http://www.amazon.com/gp/product/0201633612/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=chamaxwoo-20) (Gang of Four Book)
-- [Domain-Specific Languages by Martin Fowler](http://www.amazon.com/gp/product/0321712943/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321712943&linkCode=as2&tag=chamaxwoo-20)
-- [Portland Pattern Repository](http://en.wikipedia.org/wiki/Portland_Pattern_Repository)
+- [The Timeless Way of Building by Christopher Alexander&nbsp;](https://www.amazon.com/gp/product/0195024028/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195024028&linkCode=as2&tag=chamaxwoo-20)
+- [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides](https://www.amazon.com/gp/product/0201633612/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201633612&linkCode=as2&tag=chamaxwoo-20) (Gang of Four Book)
+- [Domain-Specific Languages by Martin Fowler](https://www.amazon.com/gp/product/0321712943/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321712943&linkCode=as2&tag=chamaxwoo-20)
+- [Portland Pattern Repository](https://en.wikipedia.org/wiki/Portland_Pattern_Repository)
   21:51 - Jargon
 
-25:17 - Code of Ethics & Authority 29:08 - [Rails](http://en.wikipedia.org/wiki/Ruby_on_Rails)
+25:17 - Code of Ethics & Authority 29:08 - [Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails)
 
-- [The five programming books that meant most to me by David Heinemeier Hansson of 37 Signals](http://37signals.com/svn/posts/3375-the-five-programming-books-that-meant-most-to-me)
+- [The five programming books that meant most to me by David Heinemeier Hansson of 37 Signals](https://37signals.com/svn/posts/3375-the-five-programming-books-that-meant-most-to-me)
   34:09 - Growing/Evolving Patterns
-- [Active record pattern](http://en.wikipedia.org/wiki/Active_record_pattern)
-- [Data mapper pattern](http://en.wikipedia.org/wiki/Data_mapper_pattern)
-- [Identity Map](http://en.wikipedia.org/wiki/Identity_map)
-  42:55 - [NoSQL](http://en.wikipedia.org/wiki/NoSQL)
-- [NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence by Martin Fowler](http://www.amazon.com/gp/product/0321826620/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321826620&linkCode=as2&tag=chamaxwoo-20)
-- [Aggregate pattern](http://en.wikipedia.org/wiki/Aggregate_pattern)
-- [Ruby DataMapper Status | solnic.eu](http://solnic.eu/2012/01/10/ruby-datamapper-status.html)
-  49:59 - [Row Data Gateway](http://martinfowler.com/eaaCatalog/rowDataGateway.html)56:52 - Potential Book Updates 01:00:23 - [Service-oriented Architecture](http://en.wikipedia.org/wiki/Service-oriented_architecture)
-- [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions by Gregor Hohpe and Bobby Woolf](http://martinfowler.com/books/eip.html)
-  01:05:45 - [Service Layer](http://martinfowler.com/eaaCatalog/serviceLayer.html)01:14:00 - [Remote Facade Pattern](http://martinfowler.com/eaaCatalog/remoteFacade.html)01:19:55 - [UniformAccessPrincipal](http://martinfowler.com/bliki/UniformAccessPrinciple.html)
-- [Ruby Tapas Episode 4: Barewords](http://www.rubytapas.com/episodes)
+- [Active record pattern](https://en.wikipedia.org/wiki/Active_record_pattern)
+- [Data mapper pattern](https://en.wikipedia.org/wiki/Data_mapper_pattern)
+- [Identity Map](https://en.wikipedia.org/wiki/Identity_map)
+  42:55 - [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
+- [NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence by Martin Fowler](https://www.amazon.com/gp/product/0321826620/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321826620&linkCode=as2&tag=chamaxwoo-20)
+- [Aggregate pattern](https://en.wikipedia.org/wiki/Aggregate_pattern)
+- [Ruby DataMapper Status | solnic.eu](https://solnic.eu/2012/01/10/ruby-datamapper-status.html)
+  49:59 - [Row Data Gateway](https://martinfowler.com/eaaCatalog/rowDataGateway.html)56:52 - Potential Book Updates 01:00:23 - [Service-oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+- [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions by Gregor Hohpe and Bobby Woolf](https://martinfowler.com/books/eip.html)
+  01:05:45 - [Service Layer](https://martinfowler.com/eaaCatalog/serviceLayer.html)01:14:00 - [Remote Facade Pattern](https://martinfowler.com/eaaCatalog/remoteFacade.html)01:19:55 - [UniformAccessPrincipal](https://martinfowler.com/bliki/UniformAccessPrinciple.html)
+- [Ruby Tapas Episode 4: Barewords](https://www.rubytapas.com/episodes)
   01:22:28 - PoEAA for Beginners
-- [Dreyfus model of skill acquisition](http://en.wikipedia.org/wiki/Dreyfus_model)
-- [Mocks Aren’t Stubs: Martin Fowler](http://martinfowler.com/articles/mocksArentStubs.html)
+- [Dreyfus model of skill acquisition](https://en.wikipedia.org/wiki/Dreyfus_model)
+- [Mocks Aren’t Stubs: Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html)
   01:26:28 - Martin’s Next Book Club Book Suggestion
-- [Domain-Driven Design: Tackling in the Heart of Software by Eric Evans](http://www.amazon.com/gp/product/0321125215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321125215&linkCode=as2&tag=chamaxwoo-20)
+- [Domain-Driven Design: Tackling in the Heart of Software by Eric Evans](https://www.amazon.com/gp/product/0321125215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321125215&linkCode=as2&tag=chamaxwoo-20)
 
 ### Book Club
 
-[The Rails View by John Athayde and Bruce Williams](http://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20):&nbsp;Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
+[The Rails View by John Athayde and Bruce Williams](https://www.amazon.com/gp/product/1934356875/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356875&linkCode=as2&tag=chamaxwoo-20):&nbsp;Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
 
 ### Next Week
 

@@ -14,61 +14,61 @@ tags:
 
 ### Panel
 
-- Raquel Vélez ([twitter](https://twitter.com/rockbot) [github](https://github.com/rockbot) [blog](http://rckbt.me/))
-- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](http://www.jsdotnext.com/))
-- Joe Eames ([twitter](http://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](http://www.testdrivenjs.com/))
-- Tim Caswell ([twitter](http://twitter.com/creationix/) [github](https://github.com/creationix/) [howtonode.org](http://howtonode.org/))
-- Jamison Dance ([twitter](http://twitter.com/jergason) [github](https://github.com/jergason) [blog](http://jamisondance.com/))
-- Charles Max Wood ([twitter](http://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](http://teachmetocode.com/) [Rails Ramp Up](http://railsrampup.com/))
+- Raquel Vélez ([twitter](https://twitter.com/rockbot) [github](https://github.com/rockbot) [blog](https://rckbt.me/))
+- Aaron Frost ([twitter](https://twitter.com/js_dev) [github](https://github.com/aaronfrost) [blog](https://www.jsdotnext.com/))
+- Joe Eames ([twitter](https://twitter.com/josepheames) [github](https://github.com/joeeames) [blog](https://www.testdrivenjs.com/))
+- Tim Caswell ([twitter](https://twitter.com/creationix/) [github](https://github.com/creationix/) [howtonode.org](https://howtonode.org/))
+- Jamison Dance ([twitter](https://twitter.com/jergason) [github](https://github.com/jergason) [blog](https://jamisondance.com/))
+- Charles Max Wood ([twitter](https://twitter.com/cmaxw) [github](https://github.com/cmaxw) [Teach Me To Code](https://teachmetocode.com/) [Rails Ramp Up](https://railsrampup.com/))
 
 ### Discussion
 
 00:46 - Raquel Vélez Introduction
 
-- [npm, Inc.](http://www.npmjs.com/)
+- [npm, Inc.](https://www.npmjs.com/)
 - [[JSConfUS 2013] Raquel Vèlez: AI.js: Robots with Brains!](https://www.youtube.com/watch?v=NG31UChnNfc)
 - [Front-End Development in Node.js - Raquel Vélez](https://www.youtube.com/watch?v=icNHLlRazds)
   03:09 - Mechanical Engineering -\> JavaScript & Robotics
 - [node-serialport](https://github.com/voodootikigod/node-serialport)
-- [Firmata](http://arduino.cc/en/reference/firmata)
+- [Firmata](https://arduino.cc/en/reference/firmata)
 - [johnny-five](https://github.com/rwaldron/johnny-five)
   09:36 - Matrices
 - [vektor](https://github.com/rockbot/vektor)
-  11:04 - [Kinematics](http://en.wikipedia.org/wiki/Kinematics)15:38 - Getting Started in Robotics
-- [Arduino](http://www.arduino.cc/)
-- [Squishy Circuits](http://squishycircuitsstore.com/kits.html)
-  21:08 - [Servo](http://en.wikipedia.org/wiki/Servo)24:28 - Getting Kids Started in Robotics
-- [Sparkfun Inventor's Kit](http://www.amazon.com/gp/product/B00E4RD4VC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E4RD4VC&linkCode=as2&tag=chamaxwoo-20)
-- [LEGO Mindstorms EV3 31313](http://www.amazon.com/gp/product/B00CWER3XY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CWER3XY&linkCode=as2&tag=chamaxwoo-20)
-- [LEGO Mindstorms NXT 2.0](http://www.amazon.com/gp/product/B001USHRYI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001USHRYI&linkCode=as2&tag=chamaxwoo-20)
-- [The LEGO MINDSTORMS NXT 2.0 Discovery Book: A Beginner's Guide to Building and Programming Robots by Laurens Valk](http://www.amazon.com/gp/product/1593272111/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593272111&linkCode=as2&tag=chamaxwoo-20)
-- [Andrew Nesbit: Hacking Lego Mindstorms EV3 with JavaScript](http://andrew.ghost.io/hacking-lego-mindstorms-ev3-with-javascript/)
+  11:04 - [Kinematics](https://en.wikipedia.org/wiki/Kinematics)15:38 - Getting Started in Robotics
+- [Arduino](https://www.arduino.cc/)
+- [Squishy Circuits](https://squishycircuitsstore.com/kits.html)
+  21:08 - [Servo](https://en.wikipedia.org/wiki/Servo)24:28 - Getting Kids Started in Robotics
+- [Sparkfun Inventor's Kit](https://www.amazon.com/gp/product/B00E4RD4VC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E4RD4VC&linkCode=as2&tag=chamaxwoo-20)
+- [LEGO Mindstorms EV3 31313](https://www.amazon.com/gp/product/B00CWER3XY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CWER3XY&linkCode=as2&tag=chamaxwoo-20)
+- [LEGO Mindstorms NXT 2.0](https://www.amazon.com/gp/product/B001USHRYI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001USHRYI&linkCode=as2&tag=chamaxwoo-20)
+- [The LEGO MINDSTORMS NXT 2.0 Discovery Book: A Beginner's Guide to Building and Programming Robots by Laurens Valk](https://www.amazon.com/gp/product/1593272111/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593272111&linkCode=as2&tag=chamaxwoo-20)
+- [Andrew Nesbit: Hacking Lego Mindstorms EV3 with JavaScript](https://andrew.ghost.io/hacking-lego-mindstorms-ev3-with-javascript/)
   28:40 - Robotics & JavaScript
-- [Sensor Fusion](http://en.wikipedia.org/wiki/Sensor_fusion)
+- [Sensor Fusion](https://en.wikipedia.org/wiki/Sensor_fusion)
 - Accessibility
 - [Tessel](https://tessel.io/)
-- [DukLuv](http://dukluv.io/)
+- [DukLuv](https://dukluv.io/)
 - [Johnny-Five compared to Cylon: Hello](https://gist.github.com/rwaldron/7760342)
-- [CylonJS](http://cylonjs.com/)
+- [CylonJS](https://cylonjs.com/)
   41:30 - Events & Getting Involved in the Community
-- [NodeBots](http://nodebots.io/)
+- [NodeBots](https://nodebots.io/)
 - IRC: robotjs
-- [RobotsConf](http://robotsconf.com/)
-  45:52 - [Spheros](http://www.gosphero.com/)48:22 - [Raspberry Pi](http://www.raspberrypi.org/) vs [Arduino](http://www.arduino.cc/)
+- [RobotsConf](https://robotsconf.com/)
+  45:52 - [Spheros](https://www.gosphero.com/)48:22 - [Raspberry Pi](https://www.raspberrypi.org/) vs [Arduino](https://www.arduino.cc/)
 
 ### Picks
 
 - [Google I/O](https://developers.google.com/events/io/) Rejects (We \<3 You) (Aaron)
-- [Duktape](http://duktape.org/) (Tim)
+- [Duktape](https://duktape.org/) (Tim)
 - [frog pocket - hurrah sapphire moon](https://www.youtube.com/watch?list=RDLAMQq4yvwx0&feature=player_detailpage&v=-V8sen1Yv7M) (Jamison)
-- [homestarrunner.com](http://homestarrunner.com/) (Jamison)
-- [TowerFall](http://www.towerfall-game.com/) (Jamison)
-- [Titanfall](http://www.titanfall.com/) (Joe)
-- [SaltCON](http://www.saltcon.com/) (Joe)
-- [Diablo III](http://us.battle.net/d3/en/) (Chuck)
+- [homestarrunner.com](https://homestarrunner.com/) (Jamison)
+- [TowerFall](https://www.towerfall-game.com/) (Jamison)
+- [Titanfall](https://www.titanfall.com/) (Joe)
+- [SaltCON](https://www.saltcon.com/) (Joe)
+- [Diablo III](https://us.battle.net/d3/en/) (Chuck)
 - [Flowdock](https://www.flowdock.com/) (Chuck)
 - [The Pastry Box Project](https://the-pastry-box-project.net/) (Raquel)
-- [Cute Overlord](http://cuteoverload.com/) (Raquel)
+- [Cute Overlord](https://cuteoverload.com/) (Raquel)
 - Go outside and play at the park, lab, or local university and explore (Raquel)
 
 ### Next Week

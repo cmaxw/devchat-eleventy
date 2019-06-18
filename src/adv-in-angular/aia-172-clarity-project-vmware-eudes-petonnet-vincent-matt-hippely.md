@@ -33,17 +33,17 @@ tags:
 - Consider option for Clarity React, Clarity Custom Elements
 - and much more!
   **Links:&nbsp;**
-- [http://clarity.design](http://clarity.design)
+- [https://clarity.design](https://clarity.design)
 - [https://medium.com/claritydesignsystem](https://medium.com/claritydesignsystem)
 - [NG packager](https://www.npmjs.com/package/ng-packagr)
 - @vmwareclarity
   **Picks:** Charles
 - [PB Wiki](https://my.pbworks.com)
   Joe
-- J[umanji: Welcome to the Jungle](http://www.imdb.com/title/tt2283362/)
+- J[umanji: Welcome to the Jungle](https://www.imdb.com/title/tt2283362/)
   Alyssa
 - [NG Conf.](https://www.ng-conf.org)
-- N[G Atlanta&nbsp;](http://ng-atl.org)
+- N[G Atlanta&nbsp;](https://ng-atl.org)
   Ward
 - New Hammock
 - [Lincoln in the Bardo](https://www.amazon.com/Lincoln-Bardo-Novel-George-Saunders/dp/0812995341)

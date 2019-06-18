@@ -39,7 +39,7 @@ This week on My Angular Story, Charles speaks with Kim Maida. Kim is a technical
 - Authentication
 - What are you working on now?
 - Recently gotten back into management
-- [ng conf](https://www.ng-conf.org/), [AngularUP](http://angular-up.com/), and [AngularMix](https://angularmix.com/)
+- [ng conf](https://www.ng-conf.org/), [AngularUP](https://angular-up.com/), and [AngularMix](https://angularmix.com/)
 - What are you most proud of contributing?
 - Consulting
 - And much, much more!
@@ -53,9 +53,9 @@ This week on My Angular Story, Charles speaks with Kim Maida. Kim is a technical
 - [JavaScript](https://www.javascript.com/)
 - [Angular JS](https://angularjs.org/)
 - [ng conf](https://www.ng-conf.org/)
-- [AngularUP](http://angular-up.com/)
+- [AngularUP](https://angular-up.com/)
 - [AngularMix](https://angularmix.com/)
-- [ng Girls](http://ng-girls.org/)
+- [ng Girls](https://ng-girls.org/)
 - [Kim’s GitHub](https://github.com/kmaida)
 - [@KimMaida](https://twitter.com/KimMaida)
 - [KMaida.io](https://kmaida.io/)
@@ -65,7 +65,7 @@ This week on My Angular Story, Charles speaks with Kim Maida. Kim is a technical
 
 Charles
 
-- [Ready Player One Movie](http://readyplayeronemovie.com/)
+- [Ready Player One Movie](https://readyplayeronemovie.com/)
 - [_Ready Player One_ by Ernest Cline](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448)
 - Ability to Suggest Topics at [DevChat.tv](https://devchat.tv/)
 

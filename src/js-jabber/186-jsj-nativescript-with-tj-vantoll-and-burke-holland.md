@@ -20,21 +20,21 @@ Check out [JS Remote Conf](https://jsremoteconf.com/)! Buy a ticket! Submit a CF
 
 - [Twitter](https://twitter.com/burkeholland)
 - [GitHub](https://github.com/burkeholland)
-- [Blog](http://a.shinynew.me/)
+- [Blog](https://a.shinynew.me/)
 
 04:01 - TJ Van Toll Introduction
 
 - [Twitter](https://twitter.com/tjvantoll)
 - [GitHub](https://github.com/tjvantoll)
-- [Blog](http://tjvantoll.com/)
+- [Blog](https://tjvantoll.com/)
 
-04:33 - [Telerik](http://www.telerik.com/)
+04:33 - [Telerik](https://www.telerik.com/)
 
-- [Telerik Platform](http://www.telerik.com/platform)
+- [Telerik Platform](https://www.telerik.com/platform)
 
-04:57 - [NativeScript](http://nativescript.org)
+04:57 - [NativeScript](https://nativescript.org)
 
-- [JavaScriptCore](http://trac.webkit.org/wiki/JavaScriptCore)
+- [JavaScriptCore](https://trac.webkit.org/wiki/JavaScriptCore)
 - [JavaScript Jabber #128: JavaScriptCore with Cesare Rocchi](https://devchat.tv/iphreaks/128-ips-javascriptcore-with-cesare-rocchi)
 - [React Native](https://facebook.github.io/react-native/)
 
@@ -68,13 +68,13 @@ Check out [JS Remote Conf](https://jsremoteconf.com/)! Buy a ticket! Submit a CF
 
 33:51 - Building for Wearables and AppleTV
 
-- [Burke Holland: Apple Watch and the Cross-Platform Crisis](http://developer.telerik.com/featured/apple-watch-and-the-cross-platform-crisis/)
+- [Burke Holland: Apple Watch and the Cross-Platform Crisis](https://developer.telerik.com/featured/apple-watch-and-the-cross-platform-crisis/)
 
 35:59 - Building Universal Applications
 
 37:14 - Creating NativeScript
 
-- [Kendo UI](http://www.telerik.com/kendo-ui)
+- [Kendo UI](https://www.telerik.com/kendo-ui)
 
 39:42 - Use Cases
 
@@ -88,7 +88,7 @@ Check out [JS Remote Conf](https://jsremoteconf.com/)! Buy a ticket! Submit a CF
 
 48:35 - Data StoragePicks
 
-[Caddy](https://caddyserver.com/) (AJ)[OC ReMix #505: Top Gear 'Track 1 (Final Nitro Mix)' by Rayza](https://www.youtube.com/watch?v=T70EnAdFzaU) (AJ)[Jamie Talbot: What are Bloom filters? A tale of code, dinner, and a favour with unexpected consequences](https://medium.com/the-story/what-are-bloom-filters-1ec2a50c68ff) (Aimee)[Mike Gehard (@mikegehard)](https://twitter.com/mikegehard) (Aimee)[Joe Eames: Becoming Betazoid: How to Listen and Empathize with Others in the Workplace @ AngularConnect 2015](http://angularconnect.com/sessions#becoming-betazoid-how-to-listen-and-empathize-with-others-in-the-workplace) (Dave) Exercise (Chuck) Sleep (Chuck)[electron](https://github.com/atom/electron) (Aaron)[The Synchronicity War Series by Dietmar Wehr](http://www.amazon.com/gp/product/B00EZB3WJQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EZB3WJQ&linkCode=as2&tag=chamaxwoo-20&linkId=JNUSG72IEVPSAGJN) (Aaron)[PAUSE](https://itunes.apple.com/us/app/pause-relaxation-at-your-fingertip/id991764216?mt=8) (Burke)[Outlander](http://www.imdb.com/title/tt3006802/) (TJ)
+[Caddy](https://caddyserver.com/) (AJ)[OC ReMix #505: Top Gear 'Track 1 (Final Nitro Mix)' by Rayza](https://www.youtube.com/watch?v=T70EnAdFzaU) (AJ)[Jamie Talbot: What are Bloom filters? A tale of code, dinner, and a favour with unexpected consequences](https://medium.com/the-story/what-are-bloom-filters-1ec2a50c68ff) (Aimee)[Mike Gehard (@mikegehard)](https://twitter.com/mikegehard) (Aimee)[Joe Eames: Becoming Betazoid: How to Listen and Empathize with Others in the Workplace @ AngularConnect 2015](https://angularconnect.com/sessions#becoming-betazoid-how-to-listen-and-empathize-with-others-in-the-workplace) (Dave) Exercise (Chuck) Sleep (Chuck)[electron](https://github.com/atom/electron) (Aaron)[The Synchronicity War Series by Dietmar Wehr](https://www.amazon.com/gp/product/B00EZB3WJQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EZB3WJQ&linkCode=as2&tag=chamaxwoo-20&linkId=JNUSG72IEVPSAGJN) (Aaron)[PAUSE](https://itunes.apple.com/us/app/pause-relaxation-at-your-fingertip/id991764216?mt=8) (Burke)[Outlander](https://www.imdb.com/title/tt3006802/) (TJ)
 
 ### Transcript
 

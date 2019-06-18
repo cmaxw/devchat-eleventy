@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors:**
 
-- [Sentry](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+- [Sentry](https://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 **Host:&nbsp;** Charles Max Wood **Special Guest:** &nbsp;&nbsp;Josh Justice
 ### **Episode Summary**
@@ -37,7 +37,7 @@ In this episode of My Ruby Story, Charles hosts Josh Justice, software engineer 
 ### **Picks**
  **Josh Justice:**
 - [Webpacker](https://github.com/rails/webpacker)
-- [Object Thinking](http://www.informit.com/store/object-thinking-9780735619654)
+- [Object Thinking](https://www.informit.com/store/object-thinking-9780735619654)
 - [Learn Test-Driven Development](https://learntdd.in/)
 - [Ember and Rails Live Stream](https://twitch.tv/codingitwrong) **&nbsp;**
  **Charles Max Wood:**

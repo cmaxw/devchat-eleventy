@@ -36,7 +36,7 @@ In today’s episode, the iPhreaks panel talks to Will Bishop. Will is 16 years 
 - Filling in the gaps
 - Being able to take risks and experiment at his age
 - Indie developer going head-to-head with the big companies
-- [Twitterific pulling the Watch app](http://www.idownloadblog.com/2018/07/05/twitterrific-no-watch-app/)
+- [Twitterific pulling the Watch app](https://www.idownloadblog.com/2018/07/05/twitterrific-no-watch-app/)
 - Unify the user experience
 - Using [UIkit](https://getuikit.com/)
 - [WatchKit](https://developer.apple.com/documentation/watchkit)
@@ -54,7 +54,7 @@ In today’s episode, the iPhreaks panel talks to Will Bishop. Will is 16 years 
 
 - [Chirp for Twitter](https://itunes.apple.com/US/app/id1397430041?mt=8)
 - [Article on Chirp for Twitter](https://9to5mac.com/2018/06/18/twitter-app-for-apple-watch/)
-- [Twitterific pulling the Watch app](http://www.idownloadblog.com/2018/07/05/twitterrific-no-watch-app/)
+- [Twitterific pulling the Watch app](https://www.idownloadblog.com/2018/07/05/twitterrific-no-watch-app/)
 - [UIkit](https://getuikit.com/)
 - [WatchKit](https://developer.apple.com/documentation/watchkit)
 - [Nano for Reddit](https://itunes.apple.com/gb/app/nano-for-reddit/id1344097185?mt=8)

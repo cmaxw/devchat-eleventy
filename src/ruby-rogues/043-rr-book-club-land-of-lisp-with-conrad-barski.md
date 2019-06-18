@@ -14,33 +14,33 @@ tags:
 
 01:05 -&nbsp;[Conrad Barski](https://twitter.com/lisperati)&nbsp;Introduction
 
-- [Wolters Kluwer](http://www.wolterskluwer.com/)
-- [Casting SPELs](http://www.lisperati.com/casting.html)
-- Land of Lisp ([website](http://landoflisp.com/)) ([book](http://nostarch.com/lisp.htm))
+- [Wolters Kluwer](https://www.wolterskluwer.com/)
+- [Casting SPELs](https://www.lisperati.com/casting.html)
+- Land of Lisp ([website](https://landoflisp.com/)) ([book](https://nostarch.com/lisp.htm))
   05:20 - How the Book Came About
-- [No Starch Press](http://nostarch.com/)
-  08:12 -&nbsp;[Creating Adventure Games on Your Computer by Tim Hartnell](http://www.amazon.com/gp/product/0345318838/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0345318838)
+- [No Starch Press](https://nostarch.com/)
+  08:12 -&nbsp;[Creating Adventure Games on Your Computer by Tim Hartnell](https://www.amazon.com/gp/product/0345318838/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0345318838)
 - TI-99/4A
   08:45 - Games Within he Book
-- [Ultima (adventure game)](<http://en.wikipedia.org/wiki/Ultima_(series)>)
+- [Ultima (adventure game)](<https://en.wikipedia.org/wiki/Ultima_(series)>)
 - ASCII / Rogue (NetHack) clone
 - First Game/Intro
 - Dynamic (Global) Variables
   14:08 - Dave’s take on Beginning of Book
-- [Common Lisp ANSI Specification](http://www.lispworks.com/documentation/common-lisp.html)
-- [Scheme](http://schemers.org/)
-- [Haskell](http://www.haskell.org/haskellwiki/Haskell)
-- [Functional Programming](http://en.wikipedia.org/wiki/Functional_programming)
+- [Common Lisp ANSI Specification](https://www.lispworks.com/documentation/common-lisp.html)
+- [Scheme](https://schemers.org/)
+- [Haskell](https://www.haskell.org/haskellwiki/Haskell)
+- [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
   15:01 - Other Languages / Dialects of Lisp
-- [Common Lisp](http://common-lisp.net/)
+- [Common Lisp](https://common-lisp.net/)
 - Java
-- [Emacs](http://www.gnu.org/software/emacs/)
-- [Emacs Lisp](http://www.gnu.org/software/emacs/emacs-lisp-intro/)
+- [Emacs](https://www.gnu.org/software/emacs/)
+- [Emacs Lisp](https://www.gnu.org/software/emacs/emacs-lisp-intro/)
 - [James' attempt to translate the code samples to Emacs Lisp](https://github.com/JEG2/land_of_emacs_lisp)
 - [Von Neumann Architectures](https://www.cpp.edu/~hnriley/www/VonN.html)
-- [Lambda Calculus](http://en.wikipedia.org/wiki/Lambda_calculus)
-- [Scheme](http://en.wikipedia.org/wiki/Scheme_%28programming_language%29)
-- [Clojure](http://clojure.org/)
+- [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
+- [Scheme](https://en.wikipedia.org/wiki/Scheme_%28programming_language%29)
+- [Clojure](https://clojure.org/)
   21:09 - Defining Lisp / All Lisp Have in Common
 - Complier/Interpreter, Parsing Process
 - Generates Abstract Syntax Tree
@@ -49,25 +49,25 @@ tags:
   - Low-Level Changes to Abstract Syntax Tree
   - Macro System in Lisp
     22:57 - Similar to Lisp
-- [Dylan](http://double.co.nz/dylan/)
+- [Dylan](https://double.co.nz/dylan/)
 - “Lisp under the hood”
-- [JavaScript](http://en.wikipedia.org/wiki/JavaScript)
-- [CoffeeScript](http://coffeescript.org/)
-  23:46 -&nbsp;[Dylan](http://double.co.nz/dylan/)24:36 - Conrad (James) on JavaScript
-- [Why Ruby is an Acceptable Lisp](http://www.randomhacks.net/articles/2005/12/03/why-ruby-is-an-acceptable-lisp)
-- [Paul Graham](http://www.paulgraham.com/college.html)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [CoffeeScript](https://coffeescript.org/)
+  23:46 -&nbsp;[Dylan](https://double.co.nz/dylan/)24:36 - Conrad (James) on JavaScript
+- [Why Ruby is an Acceptable Lisp](https://www.randomhacks.net/articles/2005/12/03/why-ruby-is-an-acceptable-lisp)
+- [Paul Graham](https://www.paulgraham.com/college.html)
   25:27 - On Ruby
 - Sypnosis.com
   26:10 - Lisp Innovated/Borrowed from Lisp:
 - Call Functions Within A Functions
 - Linked Lists
 - Dynamically Allocated Memory
-- [Garbage Collection](http://en.wikipedia.org/wiki/Garbage_collection_%28computer_science%29)
-- [Functional Programming](http://en.wikipedia.org/wiki/Functional_programming)
+- [Garbage Collection](https://en.wikipedia.org/wiki/Garbage_collection_%28computer_science%29)
+- [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 - Generic Functions/Programming
 - Dynamic Dispatch
 - Lexical Closures
-- [XML](http://en.wikipedia.org/wiki/XML)
+- [XML](https://en.wikipedia.org/wiki/XML)
   27:09 - Lisp in Regards to Ruby
 - Symbols
   27:54 - Discovered vs Invented / Simple vs Easy
@@ -76,12 +76,12 @@ tags:
 - Lisp styles (Discovered)
 - The difference between simple and easy
 - [Rich Hickey](https://github.com/richhickey):&nbsp; Clojure
-- [Simple made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) presentation
-- [Rails](http://rubyonrails.org/) vs Lisp
+- [Simple made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) presentation
+- [Rails](https://rubyonrails.org/) vs Lisp
 - Convention vs Configuration
-  32:08 - Lisp is like [Go](http://golang.org/)33:20 - Modifying Lisp
-- [paren-mode (Emacs)](http://www.emacswiki.org/emacs/ShowParenMode)
-  35:44 -&nbsp;[Dave Thomas on Whitespace Sensitivity](http://scotland-on-rails.s3.amazonaws.com/2A04_DaveThomas-SOR.mp4)37:28 - Innovations of Lisp
+  32:08 - Lisp is like [Go](https://golang.org/)33:20 - Modifying Lisp
+- [paren-mode (Emacs)](https://www.emacswiki.org/emacs/ShowParenMode)
+  35:44 -&nbsp;[Dave Thomas on Whitespace Sensitivity](https://scotland-on-rails.s3.amazonaws.com/2A04_DaveThomas-SOR.mp4)37:28 - Innovations of Lisp
 - Print/Read Symmetry
 - You lose some symmetry with certain object types
 - You trade function complexity for object complexity (Josh dissents.)
@@ -96,7 +96,7 @@ tags:
 - Contents of Address/Data Register
   53:39 - Conrad Teaching Lisp 57:28 - Levels
 - “caddadaaaddadaaddr”
-- [Structure and Interpretation of Computer Programs by&nbsp;Harold Abelson](http://www.amazon.com/gp/product/0070004846/ref=as_li_ss_tl?ie=utf8&tag=chamaxwoo-20&linkcode=as2&camp=217145&creative=399369&creativeasin=0070004846)
+- [Structure and Interpretation of Computer Programs by&nbsp;Harold Abelson](https://www.amazon.com/gp/product/0070004846/ref=as_li_ss_tl?ie=utf8&tag=chamaxwoo-20&linkcode=as2&camp=217145&creative=399369&creativeasin=0070004846)
 
 ### Transcript
 

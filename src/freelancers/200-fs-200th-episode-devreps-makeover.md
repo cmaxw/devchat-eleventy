@@ -14,8 +14,8 @@ tags:
 
 02:42 - Mandy Moore Introduction
 
-- [Twitter](http://www.twitter.com/therubyrep)
-- [DevReps](http://www.devreps.com/)
+- [Twitter](https://www.twitter.com/therubyrep)
+- [DevReps](https://www.devreps.com/)
 
 04:54 - Weekly Billing vs Hourly Billing
 
@@ -35,7 +35,7 @@ tags:
 
 39:16 - When is enough, enough?
 
-- [Return On Investment (ROI)](http://www.investopedia.com/terms/r/returnoninvestment.asp)
+- [Return On Investment (ROI)](https://www.investopedia.com/terms/r/returnoninvestment.asp)
 
 45:01 - Mandy’s DevReps Vision
 
@@ -43,7 +43,7 @@ tags:
 
 Picks
 
-“Worry is a misuse of imagination.” - Dan Zadra (Jonathan)[The Cook and the Chef: Musk’s Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) (Jonathan)[BusyCal](http://www.busymac.com/busycal/) (Reuven)[Lead Generation Trust Velocity](https://philipmorganconsulting.com/lead-generation-trust-velocity/) (Philip)[Prisonbreak Bootcamp](https://philipmorganconsulting.com/prisonbreak/) (Philip)[DesktopServer](https://serverpress.com/get-desktopserver/) (Chuck)[Advanced Custom Fields](https://www.advancedcustomfields.com/) (Chuck)[Sublime Text](https://www.sublimetext.com/) (Chuck)[Plan to Eat](https://www.plantoeat.com/ref/89ac595892) (Mandy)[Laredo Boots](http://www.countryoutfitter.com/laredo/) (Mandy)
+“Worry is a misuse of imagination.” - Dan Zadra (Jonathan)[The Cook and the Chef: Musk’s Secret Sauce](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) (Jonathan)[BusyCal](https://www.busymac.com/busycal/) (Reuven)[Lead Generation Trust Velocity](https://philipmorganconsulting.com/lead-generation-trust-velocity/) (Philip)[Prisonbreak Bootcamp](https://philipmorganconsulting.com/prisonbreak/) (Philip)[DesktopServer](https://serverpress.com/get-desktopserver/) (Chuck)[Advanced Custom Fields](https://www.advancedcustomfields.com/) (Chuck)[Sublime Text](https://www.sublimetext.com/) (Chuck)[Plan to Eat](https://www.plantoeat.com/ref/89ac595892) (Mandy)[Laredo Boots](https://www.countryoutfitter.com/laredo/) (Mandy)
 
 ### Transcript
 

@@ -14,39 +14,39 @@ tags:
 
 01:48 - Ara T. Howard Introduction
 
-- CTO of [codeforpeople.com](http://codeforpeople.com/)
-- [dojo4](http://dojo4.com/)
-- [NOAA - National Oceanic and Atmospheric Administration](http://www.noaa.gov/)
+- CTO of [codeforpeople.com](https://codeforpeople.com/)
+- [dojo4](https://dojo4.com/)
+- [NOAA - National Oceanic and Atmospheric Administration](https://www.noaa.gov/)
 - [ahoward / map](https://github.com/ahoward/map)
 - [ahoward / dao](https://github.com/ahoward/dao)
 - [ahoward / slave](https://github.com/ahoward/slave)
   10:11 - [ahoward / rq](https://github.com/ahoward/rq) (Ruby Queue)
 - Jeremy Hinegardner ([@copiousfreetime](https://twitter.com/copiousfreetime))
-- [NOAA Jet Supercomputer](http://gcn.com/Articles/2000/05/05/New-NOAA-supercomputer--boasts-a-Linux-architecture.aspx)
-- [NOAA National Geophysical Data Center (NGDC)](http://www.ngdc.noaa.gov/)
-- [Change Detection In Satellite Observed Change Detection In Satellite Observed Nighttime Lights: 1992 - 2003](http://tlc.unipv.it/urban-remote-sensing-2007/Elvidge.pdf)
+- [NOAA Jet Supercomputer](https://gcn.com/Articles/2000/05/05/New-NOAA-supercomputer--boasts-a-Linux-architecture.aspx)
+- [NOAA National Geophysical Data Center (NGDC)](https://www.ngdc.noaa.gov/)
+- [Change Detection In Satellite Observed Change Detection In Satellite Observed Nighttime Lights: 1992 - 2003](https://tlc.unipv.it/urban-remote-sensing-2007/Elvidge.pdf)
   15:04 - Hurricane Katrina Image Processing
-- [Linux Clustering with Ruby Queue: Small Is Beautiful - Ara T. Howard](http://www.linuxjournal.com/article/7922)
-- [Katrina images generated with Ruby - Ara T. Howard](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/155483)
-- [Google Search: katrina dmsp ara t. howard results](http://www.google.com/#hl=en&sclient=psy-ab&q=katrina+dmsp+ara+t.+howard&oq=katrina+dmsp+ara+t.+howard&gs_l=hp.3...383546.390663.3.390799.28.24.1.3.3.0.299.2834.10j12j2.24.0.les%3B..0.0...1c.1.4.psy-ab.3Cw9-JMkUFQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bvm=bv.42768644,bs.1,d.dmQ&fp=3c5e0dcd06f8f004&biw=786&bih=634)
-- [Guy Decoux](http://www.ruby-forum.com/topic/166658)
+- [Linux Clustering with Ruby Queue: Small Is Beautiful - Ara T. Howard](https://www.linuxjournal.com/article/7922)
+- [Katrina images generated with Ruby - Ara T. Howard](https://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/155483)
+- [Google Search: katrina dmsp ara t. howard results](https://www.google.com/#hl=en&sclient=psy-ab&q=katrina+dmsp+ara+t.+howard&oq=katrina+dmsp+ara+t.+howard&gs_l=hp.3...383546.390663.3.390799.28.24.1.3.3.0.299.2834.10j12j2.24.0.les%3B..0.0...1c.1.4.psy-ab.3Cw9-JMkUFQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bvm=bv.42768644,bs.1,d.dmQ&fp=3c5e0dcd06f8f004&biw=786&bih=634)
+- [Guy Decoux](https://www.ruby-forum.com/topic/166658)
   24:21 - Making Ruby Robust
-- [SQLite](http://www.sqlite.org/)
-- [Dining Philosophers Problem](http://en.wikipedia.org/wiki/Dining_philosophers_problem)
+- [SQLite](https://www.sqlite.org/)
+- [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 - Caching
-- [Ruby on Rails Guides: Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
+- [Ruby on Rails Guides: Asset Pipeline](https://guides.rubyonrails.org/asset_pipeline.html)
   33:00 - Thinking and mapping problems (Design)
-- [An XP Guy](http://www.extremeprogramming.org/)
-- [Exceptional Ruby by Avdi Grimm](http://exceptionalruby.com/)
+- [An XP Guy](https://www.extremeprogramming.org/)
+- [Exceptional Ruby by Avdi Grimm](https://exceptionalruby.com/)
 - rescue Object vs rescue Exception
   48:53 - Testing and Documentation
 - [ahoward / rego](https://github.com/ahoward/rego)
 - [ahoward / testy](https://github.com/ahoward/testy)
-- [Readme Driven Development - Tom Preston-Werner](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+- [Readme Driven Development - Tom Preston-Werner](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
 ### Book Club
 
-[Patterns of Enterprise Application Architecture by Martin Fowler](http://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420): Read along with us! We will be discussing the book with Martin himself and the episode will air on Wednesday, March 20th, 2013.
+[Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.com/gp/product/0321127420/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321127420): Read along with us! We will be discussing the book with Martin himself and the episode will air on Wednesday, March 20th, 2013.
 
 ### Transcript
 

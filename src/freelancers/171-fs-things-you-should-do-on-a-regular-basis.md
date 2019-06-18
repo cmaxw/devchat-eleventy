@@ -16,14 +16,14 @@ tags:
 
 - [100 Days of Burpees Facebook Group](https://www.facebook.com/groups/424912737585458/)
   11:44 - Making Time and Creating Habits & Routines22:23 - Professional Development Training
-- [The Miracle Morning](http://miraclemorning.com/)
-- [Daily Tech Video](http://dailytechvideo.com/)
-- [Terrifying Robot Dog Podcast](http://terrifyingrobotdog.com/)
+- [The Miracle Morning](https://miraclemorning.com/)
+- [Daily Tech Video](https://dailytechvideo.com/)
+- [Terrifying Robot Dog Podcast](https://terrifyingrobotdog.com/)
   30:11 - Days/Nights Out with Family & Friends and CoWorking & Networking (Getting Your People Fix)
 - [Toastmasters International](https://www.toastmasters.org/)
   37:03 - Scheduling Commitments 41:19 - Business Upkeep (Bookkeeping, Client Follow Ups, etc.)48:07 - Make Small ChangesPicks
 
-[100 Days of Burpees Facebook Group](https://www.facebook.com/groups/424912737585458/) (Jonathan)[Kirk Parsley: America's biggest problem @ TEDxReno](https://www.youtube.com/watch?v=7s9C_8-OoxI) (Jonathan)[Philip Morgan: CTA-able Content Marketing](https://philipmorganconsulting.com/cta-able-content-marketing/) (Eric)[Twitter Analytics](https://analytics.twitter.com/) (Reuven)[Animal, Vegetable, Miracle: A Year of Food For Life by Barbara Kingsolver](http://AnimalVegetableMiracle.com/) (Reuven)[ElectoralVote](http://Electoral-Vote.com/) (Reuven)[15 Minute Podcast Listener chat with Charles Wood](https://freelancersshow.com/15minutes) (Chuck)[Pebble Time](https://getpebble.com/pebble_time) (Chuck)
+[100 Days of Burpees Facebook Group](https://www.facebook.com/groups/424912737585458/) (Jonathan)[Kirk Parsley: America's biggest problem @ TEDxReno](https://www.youtube.com/watch?v=7s9C_8-OoxI) (Jonathan)[Philip Morgan: CTA-able Content Marketing](https://philipmorganconsulting.com/cta-able-content-marketing/) (Eric)[Twitter Analytics](https://analytics.twitter.com/) (Reuven)[Animal, Vegetable, Miracle: A Year of Food For Life by Barbara Kingsolver](https://AnimalVegetableMiracle.com/) (Reuven)[ElectoralVote](https://Electoral-Vote.com/) (Reuven)[15 Minute Podcast Listener chat with Charles Wood](https://freelancersshow.com/15minutes) (Chuck)[Pebble Time](https://getpebble.com/pebble_time) (Chuck)
 
 ### Transcript
 

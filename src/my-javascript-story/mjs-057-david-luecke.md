@@ -16,14 +16,14 @@ tags:
 
 **Guest:** David Luecke
 
-This week on My JavaScript Story, Charles speaks with David Luecke. David currently works for [Bullish Ventures](https://bullish.io/), which is a company that builds APIs and mobile web applications for clients using their open source tools. He first got into programming when he got his first computer and started programming using Delphi with [Pascal](http://www.pascal-programming.info/index.php). They also touch on how he first got into [JavaScript](https://www.javascript.com/), [Feathers JS](https://feathersjs.com/), and what he is working on now.
+This week on My JavaScript Story, Charles speaks with David Luecke. David currently works for [Bullish Ventures](https://bullish.io/), which is a company that builds APIs and mobile web applications for clients using their open source tools. He first got into programming when he got his first computer and started programming using Delphi with [Pascal](https://www.pascal-programming.info/index.php). They also touch on how he first got into [JavaScript](https://www.javascript.com/), [Feathers JS](https://feathersjs.com/), and what he is working on now.
 
 **In particular, we dive pretty deep on:**
 
 - David intro
 - How did you first get into programming?
 - Tinkered a lot with electronics as a child
-- Delphi with [Pascal](http://www.pascal-programming.info/index.php)
+- Delphi with [Pascal](https://www.pascal-programming.info/index.php)
 - Planned on doing an apprenticeship computer programming
 - Went to University and got a CS degree
 - How critical do you think a CS degree is?
@@ -31,7 +31,7 @@ This week on My JavaScript Story, Charles speaks with David Luecke. David curren
 - How did you get into [JavaScript](https://www.javascript.com/)?
 - Did some website development in the beginning of his career
 - Java
-- [Dojo](https://dojotoolkit.org/) and [JavaScript MVC](http://www.javascriptmvc.com/)
+- [Dojo](https://dojotoolkit.org/) and [JavaScript MVC](https://www.javascriptmvc.com/)
 - Works a lot with [React Native](https://facebook.github.io/react-native/) now
 - What products have you worked on that you’re proud of?
 - [Feathers JS](https://feathersjs.com/)
@@ -44,10 +44,10 @@ This week on My JavaScript Story, Charles speaks with David Luecke. David curren
 **Links:**
 
 - [Bullish Ventures](https://bullish.io/)
-- [Pascal](http://www.pascal-programming.info/index.php)
+- [Pascal](https://www.pascal-programming.info/index.php)
 - [JavaScript](https://www.javascript.com/)
 - [Dojo](https://dojotoolkit.org/)
-- [JavaScript MVC](http://www.javascriptmvc.com/)
+- [JavaScript MVC](https://www.javascriptmvc.com/)
 - [React Native](https://facebook.github.io/react-native/)
 - [Feathers JS](https://feathersjs.com/)
 - [mySam](https://mysamai.com/)
@@ -66,7 +66,7 @@ Charles
 
 David
 
-- [Idieyoudie.com](http://www.idieyoudie.com/)
+- [Idieyoudie.com](https://www.idieyoudie.com/)
 - [_How to Fix Facebook—Before It Fixes Us_ by Roger McNamee](https://washingtonmonthly.com/magazine/january-february-march-2018/how-to-fix-facebook-before-it-fixes-us/)
 
 ### Transcript

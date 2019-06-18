@@ -27,7 +27,7 @@ In this episode, the React Round Up panelists talk about finding a job as a deve
 - Why they want to touch on this topic
 - Get used to failure
 - [CodeSchool](https://www.pluralsight.com/codeschool)
-- [Hack Night meetup](http://nolahacknight.com/)
+- [Hack Night meetup](https://nolahacknight.com/)
 - Going to meetups to slowly start networking
 - Making friends with developers in your community
 - Networking before you need a job
@@ -49,7 +49,7 @@ In this episode, the React Round Up panelists talk about finding a job as a deve
 
 - [DevChat.tv/15Minutes](https://meetme.so/devchatlistener)
 - [CodeSchool](https://www.pluralsight.com/codeschool)
-- [Hack Night meetup](http://nolahacknight.com/)
+- [Hack Night meetup](https://nolahacknight.com/)
 - [Charles’ Course](https://devchat.tv/)
 - [_How to interview your interviewers_ blog post](https://medium.freecodecamp.org/how-to-interview-your-interviewers-f8f65ac57b80)
 - [Ruby Rogues Episode 184](https://devchat.tv/ruby-rogues/184-rr-what-we-actually-know-about-software-development-and-why-we-believe-its-true-with-greg-wilson-and-andreas-stefik)

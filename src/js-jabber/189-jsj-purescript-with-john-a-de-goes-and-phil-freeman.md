@@ -16,20 +16,20 @@ tags:
 
 - [Twitter](https://twitter.com/jdegoes)
 - [GitHub](https://github.com/jdegoes)
-- [Blog](http://degoes.net/)
-- [SlamData](http://slamdata.com/)
+- [Blog](https://degoes.net/)
+- [SlamData](https://slamdata.com/)
 
 06:34 - Phil Freeman Introduction
 
 - [Twitter](https://twitter.com/paf31)
 - [GitHub](https://github.com/paf31)
-- [Blog](http://functorial.com/)
+- [Blog](https://functorial.com/)
 
-07:38 - What is [PureScript](http://www.purescript.org/)?
+07:38 - What is [PureScript](https://www.purescript.org/)?
 
 09:11 - Features
 
-- [Extensible Effects](http://programmers.stackexchange.com/questions/246439/extensible-effects-in-purescript)
+- [Extensible Effects](https://programmers.stackexchange.com/questions/246439/extensible-effects-in-purescript)
 
 12:24 - Overcoming the Vocabulary Problem in Functional Programming
 
@@ -38,7 +38,7 @@ tags:
 
 20:07 - Prerequisites to PureScript
 
-26:14 - PureScript vs [Elm](http://elm-lang.org/)
+26:14 - PureScript vs [Elm](https://elm-lang.org/)
 
 - [JavaScript Jabber Episode #175: Elm with Evan Czaplicki and Richard Feldman](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
 - No Runtime
@@ -49,13 +49,13 @@ tags:
 
 44:07 - PureScript Background
 
-- [Roy](http://roy.brianmckenna.org/)
+- [Roy](https://roy.brianmckenna.org/)
 
 47:48 - The [WebAssembly](https://github.com/WebAssembly) Effect
 
 51:01 - Readability
 
-53:42 - [PureScript Learning Resources](http://www.purescript.org/learn/)
+53:42 - [PureScript Learning Resources](https://www.purescript.org/learn/)
 
 - [PureScript by Example by Phil Freeman](https://leanpub.com/purescript/read)
 - [PureScript Conf 2015/6](https://github.com/purescript/purescript/wiki/PureScript-Conf-2015)
@@ -66,7 +66,7 @@ tags:
 - [Audrey Popp: Fighting Node Callback Hell with PureScript](https://andreypopp.com/posts/2014-07-21-fighting-node-callbacks-with-purescript.html)
   Picks
 
-[Philip Robects: What the heck is the event loop anyways? @ JS Conf EU 2014](http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html) (Aimee)[loupe](https://github.com/latentflip/loupe) (Aimee)[The Man in the High Castle](http://www.imdb.com/title/tt1740299/) (Jamison)[Nickolas Means: How to Crash an Airplane @ RubyConf 2015](https://www.youtube.com/watch?v=S2FUSr3WlPk) (Jamison) &nbsp;[Lambda Lounge Utah](http://www.meetup.com/Lambda-Lounge-Utah/) (Jamison)[Michael Trotter: Intro to PureScript @ Utah Haskell Meetup](https://www.youtube.com/watch?v=9a57V3bvzaI&feature=youtu.be) (Jamison)[Utah Elm Users](http://www.meetup.com/Utah-Elm-Users/events/226004716/) (Jamison)[Screeps](http://screeps.com) (Joe)[Most Likely to Succeed: Preparing Our Kids for the Innovation Era by Tony Wagner](http://www.amazon.com/gp/product/1501104314/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501104314&linkCode=as2&tag=devchattv-20&linkId=SJL23DQYO7LY7JTL) (Joe)[Dark Matter](http://www.imdb.com/title/tt4159076/?ref_=nv_sr_1) (Joe)[LambdaConf](http://degoesconsulting.com/lambdaconf/) (John)[@lambda_conf](http://twitter.com/lambda_conf/) (John)[ramda](http://github.com/ramda/ramda) (John)[Proper beef, ale & mushroom pie](http://www.bbcgoodfood.com/recipes/252607/proper-beef-ale-and-mushroom-pie) (John)[Tidal](http://tidal.lurk.org) (Phil)[purescript-flare](http://sharkdp.github.io/purescript-flare) (Phil)[The Forward JS Conference](http://forwardjs.com/) (Phil)
+[Philip Robects: What the heck is the event loop anyways? @ JS Conf EU 2014](https://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html) (Aimee)[loupe](https://github.com/latentflip/loupe) (Aimee)[The Man in the High Castle](https://www.imdb.com/title/tt1740299/) (Jamison)[Nickolas Means: How to Crash an Airplane @ RubyConf 2015](https://www.youtube.com/watch?v=S2FUSr3WlPk) (Jamison) &nbsp;[Lambda Lounge Utah](https://www.meetup.com/Lambda-Lounge-Utah/) (Jamison)[Michael Trotter: Intro to PureScript @ Utah Haskell Meetup](https://www.youtube.com/watch?v=9a57V3bvzaI&feature=youtu.be) (Jamison)[Utah Elm Users](https://www.meetup.com/Utah-Elm-Users/events/226004716/) (Jamison)[Screeps](https://screeps.com) (Joe)[Most Likely to Succeed: Preparing Our Kids for the Innovation Era by Tony Wagner](https://www.amazon.com/gp/product/1501104314/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501104314&linkCode=as2&tag=devchattv-20&linkId=SJL23DQYO7LY7JTL) (Joe)[Dark Matter](https://www.imdb.com/title/tt4159076/?ref_=nv_sr_1) (Joe)[LambdaConf](https://degoesconsulting.com/lambdaconf/) (John)[@lambda_conf](https://twitter.com/lambda_conf/) (John)[ramda](https://github.com/ramda/ramda) (John)[Proper beef, ale & mushroom pie](https://www.bbcgoodfood.com/recipes/252607/proper-beef-ale-and-mushroom-pie) (John)[Tidal](https://tidal.lurk.org) (Phil)[purescript-flare](https://sharkdp.github.io/purescript-flare) (Phil)[The Forward JS Conference](https://forwardjs.com/) (Phil)
 
 ### Transcript
 

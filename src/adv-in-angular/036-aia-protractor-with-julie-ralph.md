@@ -16,15 +16,15 @@ tags:
 
 - [<u>Twitter</u>](https://twitter.com/SomeJulie)
 - [<u>GitHub</u>](https://github.com/juliemr)
-- [<u>Google</u>](http://www.google.com/) (Seattle Office)
+- [<u>Google</u>](https://www.google.com/) (Seattle Office)
 - [<u>Angular Team</u>](https://github.com/orgs/angular/people)
   - [<u>Protractor</u>](https://github.com/angular/protractor)
 
 02:47 - Finding Angular and the Team
 
-04:50 - [<u>End-to-End Testing</u>](http://www.techopedia.com/definition/7035/end-to-end-test)
+04:50 - [<u>End-to-End Testing</u>](https://www.techopedia.com/definition/7035/end-to-end-test)
 
-- [<u>WebDriver</u>](http://docs.seleniumhq.org/projects/webdriver/)
+- [<u>WebDriver</u>](https://docs.seleniumhq.org/projects/webdriver/)
 
 08:46 - Making Scripting Easier with Protractor
 
@@ -32,8 +32,8 @@ tags:
 
 11:27 - Framework Support
 
-- [<u>Jasmine</u>](http://jasmine.github.io/)
-- [<u>Mocha</u>](http://mochajs.org/)
+- [<u>Jasmine</u>](https://jasmine.github.io/)
+- [<u>Mocha</u>](https://mochajs.org/)
 - [<u>Cucumber</u>](https://cukes.info/)
 
 12:59 - What You Need to Know to Work with Protractor
@@ -69,7 +69,7 @@ See Also
 - [<u>[YouTube] Julie Ralph: End to End Angular Testing with Protractor</u>](https://www.youtube.com/watch?v=aQipuiTcn3U)
   Picks
 
-[<u>bardjs</u>](https://github.com/wardbell/bardjs) (John)[<u>[Pluralsight] Play by Play: John Papa and Ward Bell</u>](http://www.pluralsight.com/courses/play-by-play-papa-bell) (John)[<u>The revolution that could change the way your child is taught</u>](http://www.theguardian.com/education/2015/mar/11/revolution-changing-way-your-child-taught) (Ward)[<u>Teach Like a Champion: 49 Techniques that Put Students on the Path to College (K-12) by Doug Lemov</u>](http://www.amazon.com/gp/product/0470550473/) (Ward)[<u>Colt Express</u>](http://www.boardgamegeek.com/boardgame/158899/colt-express) (Joe)[<u>ng-book</u>](https://www.ng-book.com/) (Chuck)[<u>DevTools: State Of The Union 2015 by Addy Osmani</u>](https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015) (Julie) Digital Spring Cleaning (Julie)
+[<u>bardjs</u>](https://github.com/wardbell/bardjs) (John)[<u>[Pluralsight] Play by Play: John Papa and Ward Bell</u>](https://www.pluralsight.com/courses/play-by-play-papa-bell) (John)[<u>The revolution that could change the way your child is taught</u>](https://www.theguardian.com/education/2015/mar/11/revolution-changing-way-your-child-taught) (Ward)[<u>Teach Like a Champion: 49 Techniques that Put Students on the Path to College (K-12) by Doug Lemov</u>](https://www.amazon.com/gp/product/0470550473/) (Ward)[<u>Colt Express</u>](https://www.boardgamegeek.com/boardgame/158899/colt-express) (Joe)[<u>ng-book</u>](https://www.ng-book.com/) (Chuck)[<u>DevTools: State Of The Union 2015 by Addy Osmani</u>](https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015) (Julie) Digital Spring Cleaning (Julie)
 
 ### Transcript
 

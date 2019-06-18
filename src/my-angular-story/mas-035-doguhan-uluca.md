@@ -35,7 +35,7 @@ This week on My Angular Story, Charles speaks with Doguhan Uluca. Doguhan is an 
 - Performance-conscious developer
 - Networking and performance testing
 - [Microsoft Silverlight](https://www.microsoft.com/silverlight/)
-- [Knockout](http://knockoutjs.com/)
+- [Knockout](https://knockoutjs.com/)
 - ng-conf in 2014
 - [Excella Retro](https://retro.excella.com/)
 - Why he fell in love with Angular
@@ -50,11 +50,11 @@ This week on My Angular Story, Charles speaks with Doguhan Uluca. Doguhan is an 
 - [_Angular 6 for Enterprise-Ready Web Applications_ by Doguhan](https://www.packtpub.com/web-development/angular-6-enterprise-ready-web-applications)
 - [Angular](https://angular.io/)
 - [Microsoft Silverlight](https://www.microsoft.com/silverlight/)
-- [Knockout](http://knockoutjs.com/)
+- [Knockout](https://knockoutjs.com/)
 - [Excella Retro](https://retro.excella.com/)
 - [@Duluca](https://twitter.com/duluca?lang=en)
 - [Doguhan’s GitHub](https://github.com/duluca)
-- [TheJavaScriptPromise.com](http://thejavascriptpromise.com/)
+- [TheJavaScriptPromise.com](https://thejavascriptpromise.com/)
 - [Doguhan’s GitHub](https://github.com/duluca)
 
 **Picks:**
@@ -69,7 +69,7 @@ Charles
 Doguhan
 
 - [_Angular 6 for Enterprise-Ready Web Applications_ by Doguhan](https://www.packtpub.com/web-development/angular-6-enterprise-ready-web-applications)
-- [TheJavaScriptPromise.com](http://thejavascriptpromise.com/)
+- [TheJavaScriptPromise.com](https://thejavascriptpromise.com/)
 - [Westworld](https://www.imdb.com/title/tt0475784/)
 - [Deliver Agile Conference](https://www.agilealliance.org/deliver-agile-2018/)
 - [Agile XP](https://www.agilealliance.org/xp2018/)

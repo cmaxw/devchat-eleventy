@@ -20,15 +20,15 @@ Get your [JS Remote Conf](https://allremoteconfs.com/js-2016) tickets!
 
 - [Twitter](https://twitter.com/burkeholland)
 - [GitHub](https://github.com/burkeholland)
-- [Blog](http://a.shinynew.me/)
-- [Telerik](http://www.telerik.com/)
+- [Blog](https://a.shinynew.me/)
+- [Telerik](https://www.telerik.com/)
 
 02:40 - TJ VanToll Introduction
 
 - [Twitter](https://twitter.com/tjvantoll)
 - [GitHub](https://github.com/tjvantoll)
-- [Blog](http://tjvantoll.com/)
-- [Telerik](http://www.telerik.com/)
+- [Blog](https://tjvantoll.com/)
+- [Telerik](https://www.telerik.com/)
 
 03:04 - [NativeScript](https://www.nativescript.org/) + Angular; The DOM
 
@@ -38,9 +38,9 @@ Get your [JS Remote Conf](https://allremoteconfs.com/js-2016) tickets!
 
 07:04 - Getting Started/Setting Up a New Application
 
-- [NativeScript Getting Started Guide](http://docs.nativescript.org/start/getting-started)
-  - [Plugins and npm modules](http://docs.nativescript.org/start/getting-started#plugins-and-npm-modules)&nbsp;&nbsp;
-  - [plugins.telerik.com](http://plugins.telerik.com/)
+- [NativeScript Getting Started Guide](https://docs.nativescript.org/start/getting-started)
+  - [Plugins and npm modules](https://docs.nativescript.org/start/getting-started#plugins-and-npm-modules)&nbsp;&nbsp;
+  - [plugins.telerik.com](https://plugins.telerik.com/)
 - Power Features: Skill Reuse
 
 10:34 - Code Reuse
@@ -52,20 +52,20 @@ Get your [JS Remote Conf](https://allremoteconfs.com/js-2016) tickets!
 
 22:12 - Plugins (Cont’d)
 
-- [Telerik's Verified Plugin Marketplace](http://plugins.telerik.com/)
+- [Telerik's Verified Plugin Marketplace](https://plugins.telerik.com/)
 - [Podfile](https://guides.cocoapods.org/using/the-podfile.html)
 
 27:36 - Doing Things with Angular + NativeScript
 
 - Animation
-  - [ngAnimate](http://www.nganimate.org/)
-- [TypeScript](http://www.typescriptlang.org/)
+  - [ngAnimate](https://www.nganimate.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - IDEs
 
 34:14 - Testing
 
 - [github.com/NativeScript/NativeScript/tree/master/apps/tests](https://github.com/NativeScript/NativeScript/tree/master/apps/tests)
-- [Appium](http://appium.io/)
+- [Appium](https://appium.io/)
 
 37:08 - What’s coming down the pipeline?
 
@@ -76,7 +76,7 @@ Get your [JS Remote Conf](https://allremoteconfs.com/js-2016) tickets!
 - [The iPhreaks Show Episode #128: JavaScriptCore with Cesare Rocchi](https://devchat.tv/iphreaks/128-ips-javascriptcore-with-cesare-rocchi)
   42:31 - UI for NativeScriptPicks
 
-[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)[Fathead](http://www.fathead.com/) (Chuck)[Apple Photos](http://www.apple.com/osx/photos/) (TJ)[Michigan State](https://msu.edu/) (TJ) Buy albums you love to support music artists (Burke)
+[Pebble Time Steel](https://www.pebble.com/pebble-time-steel-smartwatch-features) (Chuck)[Fathead](https://www.fathead.com/) (Chuck)[Apple Photos](https://www.apple.com/osx/photos/) (TJ)[Michigan State](https://msu.edu/) (TJ) Buy albums you love to support music artists (Burke)
 
 ### Transcript
 

@@ -20,21 +20,21 @@ tags:
 
 28:31 - Contents and Packaging
 
-- [getacoderjob.com](http://getacoderjob.com/)
+- [getacoderjob.com](https://getacoderjob.com/)
 
 38:09 - Online Summits/Remote Conferences
 
-- [Email Success Summit](http://emailsuccesssummit.com/)
+- [Email Success Summit](https://emailsuccesssummit.com/)
 
 41:45 - Tools and Tactics
 
 - [Crowdcast](https://www.crowdcast.io/)
-- [ClickWebinar](http://www.clickwebinar.com/)
+- [ClickWebinar](https://www.clickwebinar.com/)
 - [Zoom](https://zoom.us/webinar)
 - [Periscope](https://www.periscope.tv/)
   51:47 - Getting Feedback and More InfoPicks
 
-[Crowdcast](https://www.crowdcast.io/) (Jonathan)[Wait But Why](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html) (Jonathan)[27‑inch iMac with Retina 5K display](http://www.apple.com/imac/) (Philip)[Word Swag](http://wordswag.co/) (Chuck)[Dreamstime](http://dreamstime.com) (Chuck)[The Best Podcast Rap Video](https://www.facebook.com/mattgiovanisci/videos/10208617188848005/) (Chuck)
+[Crowdcast](https://www.crowdcast.io/) (Jonathan)[Wait But Why](https://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html) (Jonathan)[27‑inch iMac with Retina 5K display](https://www.apple.com/imac/) (Philip)[Word Swag](https://wordswag.co/) (Chuck)[Dreamstime](https://dreamstime.com) (Chuck)[The Best Podcast Rap Video](https://www.facebook.com/mattgiovanisci/videos/10208617188848005/) (Chuck)
 
 ### Transcript
 

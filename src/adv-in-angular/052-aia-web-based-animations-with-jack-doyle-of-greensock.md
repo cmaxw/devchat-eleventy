@@ -12,17 +12,17 @@ tags:
   - podcast
 ---
 
-Check out [RailsClips](http://devchat.tv/rails-clips) and [RemoteConfs](http://remoteconfs.com/)!
+Check out [RailsClips](https://devchat.tv/rails-clips) and [RemoteConfs](https://remoteconfs.com/)!
 
 &nbsp;
 
 02:53 - Jack Doyle Introduction
 
-- <u><a style="text-decoration: none;" href="http://greensock.com/">GreenSock</a></u>
+- <u><a style="text-decoration: none;" href="https://greensock.com/">GreenSock</a></u>
   - [<u>@greensock</u>](https://twitter.com/greensock)
-  - [GreenSock Blog](http://greensock.com/blog/)&nbsp;&nbsp;
+  - [GreenSock Blog](https://greensock.com/blog/)&nbsp;&nbsp;
 
-03:53 - [GSAP (GreenSock’s Animation Platform)](http://greensock.com/gsap)
+03:53 - [GSAP (GreenSock’s Animation Platform)](https://greensock.com/gsap)
 
 04:05 - GreenSock: The Name
 
@@ -34,7 +34,7 @@ Check out [RailsClips](http://devchat.tv/rails-clips) and [RemoteConfs](http://r
 
 15:01 - Lukas and GreenSock&nbsp;&nbsp; &nbsp;
 
-- [Lukas Reubbelke: Build a Sweet AngularJS Photo Slider Pt 2 with ngTouch](http://onehungrymind.com/build-sweet-angularjs-photo-slider-pt-2-ngtouch/)
+- [Lukas Reubbelke: Build a Sweet AngularJS Photo Slider Pt 2 with ngTouch](https://onehungrymind.com/build-sweet-angularjs-photo-slider-pt-2-ngtouch/)
 
 16:50 - Angular + GreenSock + CSS Animations (GreenSock Under The Hood)
 
@@ -46,8 +46,8 @@ Check out [RailsClips](http://devchat.tv/rails-clips) and [RemoteConfs](http://r
 
 29:20 - Getting Started With Animations, Learning Curve
 
-- [Getting Started with GSAP (GreenSock Animation Platform)](http://greensock.com/get-started-js)
-- [Sarah Drasner](http://sarahdrasnerdesign.com/blog/)
+- [Getting Started with GSAP (GreenSock Animation Platform)](https://greensock.com/get-started-js)
+- [Sarah Drasner](https://sarahdrasnerdesign.com/blog/)
 
 39:13 - When To Use Animations (User Experience)
 
@@ -59,13 +59,13 @@ Check out [RailsClips](http://devchat.tv/rails-clips) and [RemoteConfs](http://r
 
 - [Introduction: Material Design](https://www.google.com/design/spec/material-design/introduction.html#introduction-principles)
 
-49:11 - [Licensing](http://greensock.com/licensing/)
+49:11 - [Licensing](https://greensock.com/licensing/)
 
 51:24 - Mobile Apps
 
 Picks
 
-Take a vacation, and actually do the vacation! (John)[GreenSock](http://greensock.com/) (Lukas)[Microinteractions: Full Color Edition: Designing with Details by Dan Saffer](http://www.amazon.com/gp/product/1491945923/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491945923&linkCode=as2&tag=chamaxwoo-20&linkId=D4KNT2YLYYGLFGTC) (Lukas)[Beautiful Outlaw: Experiencing the Playful, Disruptive, Extravagant Personality of Jesus by John Eldredge](http://www.amazon.com/gp/product/1455525707/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455525707&linkCode=as2&tag=chamaxwoo-20&linkId=HFUC6PDSE6NWTUC5) (Joe)[GOG.com](http://gog.com) (Joe) Sleeping in a hammock (Ward)[remoteconfs.com](http://remoteconfs.com) (Chuck) God (Chuck) Jesus Christ (Chuck)[The Church of Jesus Christ of Latter-day Saints](http://lds.org) (Chuck)[CodePen](http://codepen.io) (Jack)[Seth Godin's Blog](http://sethgodin.typepad.com/) (Jack)
+Take a vacation, and actually do the vacation! (John)[GreenSock](https://greensock.com/) (Lukas)[Microinteractions: Full Color Edition: Designing with Details by Dan Saffer](https://www.amazon.com/gp/product/1491945923/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491945923&linkCode=as2&tag=chamaxwoo-20&linkId=D4KNT2YLYYGLFGTC) (Lukas)[Beautiful Outlaw: Experiencing the Playful, Disruptive, Extravagant Personality of Jesus by John Eldredge](https://www.amazon.com/gp/product/1455525707/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455525707&linkCode=as2&tag=chamaxwoo-20&linkId=HFUC6PDSE6NWTUC5) (Joe)[GOG.com](https://gog.com) (Joe) Sleeping in a hammock (Ward)[remoteconfs.com](https://remoteconfs.com) (Chuck) God (Chuck) Jesus Christ (Chuck)[The Church of Jesus Christ of Latter-day Saints](https://lds.org) (Chuck)[CodePen](https://codepen.io) (Jack)[Seth Godin's Blog](https://sethgodin.typepad.com/) (Jack)
 
 ### Transcript
 

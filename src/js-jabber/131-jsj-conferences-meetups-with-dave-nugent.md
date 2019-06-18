@@ -14,7 +14,7 @@ tags:
 
 02:10 - Dave Introduction
 
-- [<u>PubNub</u>](http://www.pubnub.com/)
+- [<u>PubNub</u>](https://www.pubnub.com/)
 - [<u>@PubNub</u>](https://twitter.com/pubnub)
 
 02:32 - Chuck’s JavaScript Mobile RoundTable - November 5th
@@ -23,40 +23,40 @@ tags:
 
 03:17 - Conferences and Meetups
 
-- [<u>The SF JavaScript Meetup</u>](http://www.meetup.com/jsmeetup/)
+- [<u>The SF JavaScript Meetup</u>](https://www.meetup.com/jsmeetup/)
   - [<u>@SFJavaScript</u>](https://twitter.com/SFJavaScript)
 
-04:06 - <u><a href="http://forwardjs.com/" data-cke-saved-href="http://forwardjs.com/">Forward 2</a></u>
+04:06 - <u><a href="https://forwardjs.com/" data-cke-saved-href="https://forwardjs.com/">Forward 2</a></u>
 
 - [<u>@forwardJS</u>](https://twitter.com/ForwardJS)
 
 05:39 - Setting Your Event Apart
 
-- [<u>MountainWest JavaScript</u>](http://mtnwestjs.org/2014/)
-- [<u>TXJS</u>](http://2013.texasjavascript.com/)
+- [<u>MountainWest JavaScript</u>](https://mtnwestjs.org/2014/)
+- [<u>TXJS</u>](https://2013.texasjavascript.com/)
   - [<u>@txjs</u>](https://twitter.com/txjs)
-- [<u>JSConf</u>](http://jsconf.com/)
+- [<u>JSConf</u>](https://jsconf.com/)
   - [<u>@jsconf</u>](https://twitter.com/jsconf)
 - Themes
 - Types of Talks
 - Attendees
-- [<u>ng-conf</u>](http://www.ng-conf.org/)
+- [<u>ng-conf</u>](https://www.ng-conf.org/)
   - [<u>@ngconf</u>](https://twitter.com/ngconf)
 
 07:07 - Changing Conference Formats
 
-- [<u>Utah JS</u>](http://utahjs.com/)
+- [<u>Utah JS</u>](https://utahjs.com/)
 - Wordpress Loop
 
 09:34 - Conference Goals
 
 - Networking
 
-10:46 - [<u>Multi-track Conferences</u>](http://www.termwiki.com/EN:multi-track_conference) vs. [<u>Single-Track Conferences</u>](http://en.wikipedia.org/wiki/Academic_conference)
+10:46 - [<u>Multi-track Conferences</u>](https://www.termwiki.com/EN:multi-track_conference) vs. [<u>Single-Track Conferences</u>](https://en.wikipedia.org/wiki/Academic_conference)
 
-- [<u>Empirejs</u>](http://2014.empirejs.org/)
+- [<u>Empirejs</u>](https://2014.empirejs.org/)
   - [<u>@Empirejs</u>](https://twitter.com/EmpireJS)
-- [<u>Enterprise Conferences</u>](http://enterpriseitconferences.com/)
+- [<u>Enterprise Conferences</u>](https://enterpriseitconferences.com/)
 
 13:42 - Dave’s First Big Conference
 
@@ -66,7 +66,7 @@ tags:
 
 - Discussion Topics
 - Call For Papers (CFP)
-- [<u>Agile Methodology</u>](http://agilemethodology.org/)
+- [<u>Agile Methodology</u>](https://agilemethodology.org/)
 - Motivation
 - Diversity
 - JavaScript Meetup (see above link)
@@ -76,20 +76,20 @@ tags:
 19:18 - Running a Conference vs. Running a Meetup
 
 - Process of Organizing a Meetup
-- [<u>Meetup.com</u>](http://www.meetup.com/)
+- [<u>Meetup.com</u>](https://www.meetup.com/)
 
 24:35 - Mistakes During Conference Organizing
 
 - [<u>StrangeLoop</u>](https://thestrangeloop.com/)
   - [<u>@strangeloop_stl</u>](https://twitter.com/strangeloop_stl)
-    - [<u>“Powered by JavaScript” - Joel Kemp StrangeLoop 2014</u>](http://mrjoelkemp.com/2014/10/my-talk-at-the-powered-by-javascript-conference-at-strangeloop-2014/)
+    - [<u>“Powered by JavaScript” - Joel Kemp StrangeLoop 2014</u>](https://mrjoelkemp.com/2014/10/my-talk-at-the-powered-by-javascript-conference-at-strangeloop-2014/)
 
 27:11 - Practicing Talks and Giving Feedback
 
 - Dealing with Multiple Opinions
-- [<u>Conference Code of Conduct</u>](http://confcodeofconduct.com/)
+- [<u>Conference Code of Conduct</u>](https://confcodeofconduct.com/)
 - Encouraging Feedback
-- <u><a href="http://en.wikipedia.org/wiki/Sampling_(statistics)" data-cke-saved-href="http://en.wikipedia.org/wiki/Sampling_(statistics)">Sampling</a></u>
+- <u><a href="https://en.wikipedia.org/wiki/Sampling_(statistics)" data-cke-saved-href="https://en.wikipedia.org/wiki/Sampling_(statistics)">Sampling</a></u>
   - Brian Langsdorf
 - Surveying
 - Quantum Conferencing
@@ -103,9 +103,9 @@ tags:
 36:33 - Making Conferences Memorable
 
 - Feedback
-- The Newlywed Game at [<u>Powered by JavaScript</u>](http://www.manning.com/poweredbyjavascript/)
+- The Newlywed Game at [<u>Powered by JavaScript</u>](https://www.manning.com/poweredbyjavascript/)
   - [<u>Trek Glowacki</u>](https://github.com/trek)
-    - [<u>Ember</u>](http://emberjs.com/)
+    - [<u>Ember</u>](https://emberjs.com/)
 - Andy Shaw
 - Tomomi Nomura
 
@@ -113,7 +113,7 @@ tags:
 
 40:16 - International Audiences
 
-- <u><a href="http://www.dotjs.eu/" data-cke-saved-href="http://www.dotjs.eu">dotJS</a></u>
+- <u><a href="https://www.dotjs.eu/" data-cke-saved-href="https://www.dotjs.eu">dotJS</a></u>
 
 ### Transcript
 

@@ -14,7 +14,7 @@ tags:
 
 ## **Sponsors**
 
-- [Sentry](http://sentry.io)&nbsp;use the code "devchat" for $100 credit
+- [Sentry](https://sentry.io)&nbsp;use the code "devchat" for $100 credit
 
 ### **Panel**
 
@@ -25,13 +25,13 @@ tags:
 - Nate Hopkins
 **Special Guest:** Tung Nguyen
 ### **Episode Summary**
-In this episode of Ruby Rogues, the panelists talk with Tung Nguyen, President and Founder of BoltOps AWS Cloud Infrastructure Consultancy, a Bay Area based DevOps infrastructure consultancy. Tung is also the creator of Ruby on Jets. Jets is a&nbsp;Ruby&nbsp;Serverless Framework, allowing you to to create serverless applications with Ruby. It includes everything needed to build and deploy applications to AWS Lambda. Tung explains how Jets works and that even before AWS Lambda supported Ruby, Jets&nbsp;used a shim to run&nbsp;Ruby. The shim was written in a language that is natively supported by AWS Lambda and called out to Ruby. Tung describes this process using the dream in dream concept in the movie Inception. Since AWS Lambda has started supporting Ruby, Jets has since moved to the official AWS version of Ruby. They discuss Tung’s decision to open source Jets and his end goal with it. Tung explains he created Jets because he needed it, he wanted to run Ruby functions without managing a server. So by building tools like Jets he is able to help his clients and his consulting company. By open sourcing them, he is able to give back to the community. Tung talks about the development process of Jets and explains that he has already re-written Jets a couple of times. Finally, for people who want to find out more about Jets, Tung directs them to the documentation and support links on the [Jets website](http://rubyonjets.com/#page-top) and the YouTube videos he has posted.
+In this episode of Ruby Rogues, the panelists talk with Tung Nguyen, President and Founder of BoltOps AWS Cloud Infrastructure Consultancy, a Bay Area based DevOps infrastructure consultancy. Tung is also the creator of Ruby on Jets. Jets is a&nbsp;Ruby&nbsp;Serverless Framework, allowing you to to create serverless applications with Ruby. It includes everything needed to build and deploy applications to AWS Lambda. Tung explains how Jets works and that even before AWS Lambda supported Ruby, Jets&nbsp;used a shim to run&nbsp;Ruby. The shim was written in a language that is natively supported by AWS Lambda and called out to Ruby. Tung describes this process using the dream in dream concept in the movie Inception. Since AWS Lambda has started supporting Ruby, Jets has since moved to the official AWS version of Ruby. They discuss Tung’s decision to open source Jets and his end goal with it. Tung explains he created Jets because he needed it, he wanted to run Ruby functions without managing a server. So by building tools like Jets he is able to help his clients and his consulting company. By open sourcing them, he is able to give back to the community. Tung talks about the development process of Jets and explains that he has already re-written Jets a couple of times. Finally, for people who want to find out more about Jets, Tung directs them to the documentation and support links on the [Jets website](https://rubyonjets.com/#page-top) and the YouTube videos he has posted.
 ### **Links**
 
-- [Jets Ruby Serverless Framework](http://rubyonjets.com/)
+- [Jets Ruby Serverless Framework](https://rubyonjets.com/)
 - [Jets Blog Post](https://blog.boltops.com/2018/12/12/official-aws-ruby-support-for-jets-serverless-framework)
-- [http://rubyonjets.com/docs/crud-html-activerecord/](http://rubyonjets.com/docs/crud-html-activerecord/)
-- [http://rubyonjets.com/docs/crud-json-activerecord/](http://rubyonjets.com/docs/crud-json-activerecord/)
+- [https://rubyonjets.com/docs/crud-html-activerecord/](https://rubyonjets.com/docs/crud-html-activerecord/)
+- [https://rubyonjets.com/docs/crud-json-activerecord/](https://rubyonjets.com/docs/crud-json-activerecord/)
 - [https://asyncy.com/](https://asyncy.com/)
 - [BoltOps](https://www.boltops.com/)
 - [BoltOps Nuts and Bolts Blog](https://blog.boltops.com/)
@@ -41,7 +41,7 @@ In this episode of Ruby Rogues, the panelists talk with Tung Nguyen, President a
 - [Tung's GitHub](https://github.com/tongueroo/jets)
 - [Tung's Twitter](https://twitter.com/tongueroo)
 - [Tung's YouTube Channel](https://www.youtube.com/user/tongueroo)
-- [Support Jets](http://rubyonjets.com/support-jets/)
+- [Support Jets](https://rubyonjets.com/support-jets/)
 - [Introducing Jets: A Ruby Serverless Framework on AWS Lambda](https://www.youtube.com/watch?v=17Y3AJl9dw4)
 - [Build an API with Jets Ruby Serverless Framework](https://www.youtube.com/watch?v=7nB1kfNz5Vs)
 

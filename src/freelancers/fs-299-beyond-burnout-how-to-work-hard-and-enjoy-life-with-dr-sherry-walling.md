@@ -99,13 +99,13 @@ In this episode of the _Freelancer’s Show_, the panel discusses: “Beyond Bur
 - [Linode](https://promo.linode.com/adventuresinangular/)
 - [Cachefly](https://www.cachefly.com)
 
-[**Picks**](http://www.apple.com) **:**
+[**Picks**](https://www.apple.com) **:**
 
 **Jonathan Stark**
 
-- [valuepricingbootcamp.com](http://valuepricingbootcamp.com)
+- [valuepricingbootcamp.com](https://valuepricingbootcamp.com)
 - [Your Productized Consulting Guide](https://uibreakfast.com/productized-guide/)
-- [howtobulilduourfirstproductizedservice.com](http://howtobulilduourfirstproductizedservice.com)
+- [howtobulilduourfirstproductizedservice.com](https://howtobulilduourfirstproductizedservice.com)
 - [James Clear](https://jamesclear.com): Building Habits – mailing list
 
 **Jeremy Green**

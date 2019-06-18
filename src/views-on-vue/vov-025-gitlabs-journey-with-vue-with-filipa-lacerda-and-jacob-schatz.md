@@ -97,11 +97,11 @@ Joe
 Filipa
 
 - [Sarah Drasner Tweet](https://twitter.com/sarah_edo/status/1006907936977743873)
-- [Coffee Table Typography](http://ricardofilipe.com/coffeetabletype/)
+- [Coffee Table Typography](https://ricardofilipe.com/coffeetabletype/)
 
 Jacob
 
-- [Flask](http://flask.pocoo.org/)
+- [Flask](https://flask.pocoo.org/)
 - [The Americans](<https://en.wikipedia.org/wiki/The_Americans_(2013_TV_series)>)
 
 Phil

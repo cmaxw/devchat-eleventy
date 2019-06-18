@@ -37,7 +37,7 @@ In today's episode, the iPheaks panelist speaks with Marin Todorov about Realm. 
 
 **Links:**
 
-- http://www.underplot.com/
+- https://www.underplot.com/
 - [https://github.com/icanzilb](https://github.com/icanzilb)
 - [https://www.linkedin.com/in/marintodorov](https://www.linkedin.com/in/marintodorov)
 - https://www.amazon.com/Marin-Todorov/e/B01N5IG4HR
@@ -51,7 +51,7 @@ Gui
 
 Andrew
 
-- [Open Emu](http://openemu.org/)
+- [Open Emu](https://openemu.org/)
 
 Marin
 

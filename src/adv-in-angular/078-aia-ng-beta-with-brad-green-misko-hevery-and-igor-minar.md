@@ -12,11 +12,11 @@ tags:
   - podcast
 ---
 
-Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)! And while you’re there take a look at [all of this year’s conferences](http://allremoteconfs.com/)!
+Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)! And while you’re there take a look at [all of this year’s conferences](https://allremoteconfs.com/)!
 
 &nbsp;
 
-02:42 - [Angular 2 Beta](http://angularjs.blogspot.com/2015/12/angular-2-beta.html) and Projected Release Talk
+02:42 - [Angular 2 Beta](https://angularjs.blogspot.com/2015/12/angular-2-beta.html) and Projected Release Talk
 
 - [ng-conf](https://www.ng-conf.org/) ??
 
@@ -29,7 +29,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)! An
 17:06 - Language
 
 - [Dart](https://www.dartlang.org/)
-- [TypeScript](http://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 17:33 - Releasing Angular 1 vs 2
 
@@ -54,18 +54,18 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)! An
 
 53:22 - [React](https://facebook.github.io/react/), [React Native](https://facebook.github.io/react-native/)
 
-- [Telerik](http://www.telerik.com/)
+- [Telerik](https://www.telerik.com/)
   - [NativeScript](https://www.nativescript.org/)
 - [React Native Radio](https://devchat.tv/react-native-radio/)
 
 55:37 - Angular Guidance; OO-Style or Functional App Architecture?
 
-- [Victor Savkin’s Blog](http://victorsavkin.com/)
+- [Victor Savkin’s Blog](https://victorsavkin.com/)
 - [Made with Angular](https://www.madewithangular.com/)
 
 01:01:19 - Angular 1 =\> 2 Migration
 
-- [ng-upgrade](http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html)
+- [ng-upgrade](https://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html)
 - [ng-forward](https://github.com/ngUpgraders/ng-forward)
 
 01:04:17 - The Angular Community and Upcoming Conferences and Announcements
@@ -74,7 +74,7 @@ Check out [Freelance Remote Conf](https://allremoteconfs.com/freelance-2016)! An
 - [That Conference](https://www.thatconference.com/)
   Picks
 
-[a2-in-memory-web-api](https://github.com/wardbell/a2-in-memory-web-api) (John) John Papa’s Upcoming Angular 2 Pluralsight Course (John)[Julia Gillard](https://en.wikipedia.org/wiki/Julia_Gillard) (Ward)[Bryce Canyon National Park](http://www.nps.gov/brca/index.htm) (Joe)[Stockpile](http://boardgamegeek.com/boardgame/161614/stockpile) (Joe)[ngrx](https://github.com/ngrx) (Lukas)[The Revenant](http://www.imdb.com/title/tt1663202/) (Brian)[ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution) (Brian)[The Architecture of Open Source Applications](http://www.amazon.com/Architecture-Open-Source-Applications-ebook/dp/B00557TMN4) (Igor)[iPad Pro](http://www.apple.com/ipad-pro/) (Igor)[Apple Pencil](http://www.apple.com/apple-pencil/) (Igor)[Paper & Pencil by FiftyThree](https://www.fiftythree.com/) (Igor)[Mandy Moore](http://www.twitter.com/therubyrep) (Chuck)[Federico Iachetti](https://twitter.com/fiachetti) (Chuck)
+[a2-in-memory-web-api](https://github.com/wardbell/a2-in-memory-web-api) (John) John Papa’s Upcoming Angular 2 Pluralsight Course (John)[Julia Gillard](https://en.wikipedia.org/wiki/Julia_Gillard) (Ward)[Bryce Canyon National Park](https://www.nps.gov/brca/index.htm) (Joe)[Stockpile](https://boardgamegeek.com/boardgame/161614/stockpile) (Joe)[ngrx](https://github.com/ngrx) (Lukas)[The Revenant](https://www.imdb.com/title/tt1663202/) (Brian)[ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution) (Brian)[The Architecture of Open Source Applications](https://www.amazon.com/Architecture-Open-Source-Applications-ebook/dp/B00557TMN4) (Igor)[iPad Pro](https://www.apple.com/ipad-pro/) (Igor)[Apple Pencil](https://www.apple.com/apple-pencil/) (Igor)[Paper & Pencil by FiftyThree](https://www.fiftythree.com/) (Igor)[Mandy Moore](https://www.twitter.com/therubyrep) (Chuck)[Federico Iachetti](https://twitter.com/fiachetti) (Chuck)
 
 ### Transcript
 

@@ -20,8 +20,8 @@ Check out and get your tickets for [React Remote Conf](https://allremoteconfs.co
 
 - [Twitter](https://twitter.com/justinbmeyer)
 - [GitHub](https://github.com/justinbmeyer)
-- [Bitovi](http://bitovi.com/)
-- [JavaScriptMVC](http://www.javascriptmvc.com/)
+- [Bitovi](https://bitovi.com/)
+- [JavaScriptMVC](https://www.javascriptmvc.com/)
 
 03:02 - [DoneJS](https://donejs.com/) and [CanJS](https://canjs.com/)
 
@@ -53,10 +53,10 @@ Check out and get your tickets for [React Remote Conf](https://allremoteconfs.co
 
 39:19 - App Size
 
-- [StealJS](http://stealjs.com/)
+- [StealJS](https://stealjs.com/)
   Picks
 
-[Beautiful Eyes Album by Taylor Swift](https://en.wikipedia.org/wiki/Beautiful_Eyes) (AJ)[When Amazon Dies](http://www.theatlantic.com/technology/archive/2015/10/when-amazon-dies/409387/) (AJ)[PROTODOME](https://protodome.bandcamp.com/) (AJ) City Libraries (AJ)[The Crucible of Doubt: Reflections On the Quest for Faith](http://www.amazon.com/The-Crucible-Doubt-Reflections-Quest/dp/1609079426) (AJ)[Learn X in Y Minutes](https://learnxinyminutes.com/) (Aimee)[Which cat is your JavaScript framework?](http://whichcatisyourjavascriptframework.com/) (Aimee)[@johnpapa Tweet](https://twitter.com/John_Papa/status/701592955933605889) (Joe)[SumoMe](https://sumome.com/) (Chuck)[Drip](https://www.getdrip.com/) (Chuck)[7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders) (Chuck)[Shadow Hunters](https://boardgamegeek.com/boardgame/24068/shadow-hunters) (Chuck)[Calamity (The Reckoners) by Brandon Sanderson](http://www.amazon.com/Calamity-The-Reckoners-Brandon-Sanderson/dp/0385743602) (Chuck)[Staked (The Iron Druid Chronicles) by Kevin Hearne](http://www.amazon.com/Staked-Iron-Druid-Chronicles-Eight-ebook/dp/B00VOYGYNS) (Chuck)[BB-8™ by Sphero](http://store.sphero.com/products/bb-8-by-sphero?gclid=CjwKEAiAo7C2BRDgqODGq5r38DsSJAAv7dTPQnm672Mmhf5WbpLoBz4nOG45gFthZDZvD6cuuj3A5hoCBVjw_wcB) (Justin)[Hyperion Cantos Series](https://www.goodreads.com/series/40461-hyperion-cantos) (Justin)[UtahJS](http://www.meetup.com/UtahJS/) (Justin)
+[Beautiful Eyes Album by Taylor Swift](https://en.wikipedia.org/wiki/Beautiful_Eyes) (AJ)[When Amazon Dies](https://www.theatlantic.com/technology/archive/2015/10/when-amazon-dies/409387/) (AJ)[PROTODOME](https://protodome.bandcamp.com/) (AJ) City Libraries (AJ)[The Crucible of Doubt: Reflections On the Quest for Faith](https://www.amazon.com/The-Crucible-Doubt-Reflections-Quest/dp/1609079426) (AJ)[Learn X in Y Minutes](https://learnxinyminutes.com/) (Aimee)[Which cat is your JavaScript framework?](https://whichcatisyourjavascriptframework.com/) (Aimee)[@johnpapa Tweet](https://twitter.com/John_Papa/status/701592955933605889) (Joe)[SumoMe](https://sumome.com/) (Chuck)[Drip](https://www.getdrip.com/) (Chuck)[7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders) (Chuck)[Shadow Hunters](https://boardgamegeek.com/boardgame/24068/shadow-hunters) (Chuck)[Calamity (The Reckoners) by Brandon Sanderson](https://www.amazon.com/Calamity-The-Reckoners-Brandon-Sanderson/dp/0385743602) (Chuck)[Staked (The Iron Druid Chronicles) by Kevin Hearne](https://www.amazon.com/Staked-Iron-Druid-Chronicles-Eight-ebook/dp/B00VOYGYNS) (Chuck)[BB-8™ by Sphero](https://store.sphero.com/products/bb-8-by-sphero?gclid=CjwKEAiAo7C2BRDgqODGq5r38DsSJAAv7dTPQnm672Mmhf5WbpLoBz4nOG45gFthZDZvD6cuuj3A5hoCBVjw_wcB) (Justin)[Hyperion Cantos Series](https://www.goodreads.com/series/40461-hyperion-cantos) (Justin)[UtahJS](https://www.meetup.com/UtahJS/) (Justin)
 
 ### Transcript
 
