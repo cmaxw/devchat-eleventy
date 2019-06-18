@@ -56,6 +56,38 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Tags", name: "tags", widget: "list", default: ["elixir-mix", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "freelancers" # Used in routes, e.g., /admin/collections/blog
+    label: "The Freelancers' Show" # Used in the UI
+    folder: "src/freelancers" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "freelancers"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["freelancers", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "iphreaks" # Used in routes, e.g., /admin/collections/blog
+    label: "iPhreaks" # Used in the UI
+    folder: "src/iphreaks" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "iphreaks"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["iphreaks", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "js-jabber" # Used in routes, e.g., /admin/collections/blog
     label: "JavaScript Jabber" # Used in the UI
     folder: "src/js-jabber" # The path to the folder where the documents are stored
