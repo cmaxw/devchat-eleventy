@@ -4,7 +4,7 @@
     "format": "prettier --write '**/*.{js,json,md}'"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.5.4",
+    "@11ty/eleventy": "^0.8.3",
     "eslint": "5.3.0",
     "eslint-config-airbnb": "17.1.0",
     "eslint-config-prettier": "^4.0.0",
@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "netlify": "^2.4.4",
-    "netlify-cli": "^2.11.20"
+    "netlify-cli": "^2.11.23"
   }
 }
