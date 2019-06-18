@@ -57,7 +57,17 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addCollection(podcast, function(collection) {
       return collection.getFilteredByTag(podcast).sort(function(a, b) {
         return b.date - a.date;
+      }).filter(function(item) {
+        return item.date <= moment();
       });
+    });
+  });
+
+  eleventyConfig.addCollection("podcast", function(collection) {
+    return collection.getFilteredByTag("podcast").sort(function(a, b) {
+      return b.date - a.date;
+    }).filter(function(item) {
+      return item.date <= moment();
     });
   });
 
