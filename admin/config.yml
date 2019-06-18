@@ -21,7 +21,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["adv_in_angular", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "adventures-in-blockchain" # Used in routes, e.g., /admin/collections/blog
@@ -37,7 +37,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["adventures_in_blockchain", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "adventures-in-devops" # Used in routes, e.g., /admin/collections/blog
@@ -53,7 +53,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["adventures_in_devops", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "adventures-in-dotnet" # Used in routes, e.g., /admin/collections/blog
@@ -69,7 +69,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["adventures_in_dotnet", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "data-therapy" # Used in routes, e.g., /admin/collections/blog
@@ -85,7 +85,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["data_therapy", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "dev-ed" # Used in routes, e.g., /admin/collections/blog
@@ -101,7 +101,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["dev_ed", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "dev-rev" # Used in routes, e.g., /admin/collections/blog
@@ -117,7 +117,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Youtube Video ID", name: "youtube_video_id", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["dev_rev", "video", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "elixir-mix" # Used in routes, e.g., /admin/collections/blog
@@ -133,7 +133,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["elixir_mix", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "freelancers" # Used in routes, e.g., /admin/collections/blog
@@ -149,7 +149,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["freelancers", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "iphreaks" # Used in routes, e.g., /admin/collections/blog
@@ -165,7 +165,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["iphreaks", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "js-jabber" # Used in routes, e.g., /admin/collections/blog
@@ -181,7 +181,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["js_jabber", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "my-angular-story" # Used in routes, e.g., /admin/collections/blog
@@ -197,7 +197,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["my_angular_story", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "my-javascript-story" # Used in routes, e.g., /admin/collections/blog
@@ -213,7 +213,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["my_javascript_story", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "my-ruby-story" # Used in routes, e.g., /admin/collections/blog
@@ -229,7 +229,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["my_ruby_story", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "rails-clips" # Used in routes, e.g., /admin/collections/blog
@@ -245,7 +245,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Youtube Video ID", name: "youtube_video_id", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["rails_clips", "video", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "react-native-radio" # Used in routes, e.g., /admin/collections/blog
@@ -261,7 +261,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["react_native_radio", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "react-round-up" # Used in routes, e.g., /admin/collections/blog
@@ -277,7 +277,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["react_round_up", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "remote-conf-talks" # Used in routes, e.g., /admin/collections/blog
@@ -293,7 +293,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Youtube Video ID", name: "youtube_video_id", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["remote_conf_talks", "video", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "ruby-rogues" # Used in routes, e.g., /admin/collections/blog
@@ -309,7 +309,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["ruby_rogues", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "teachmetocode" # Used in routes, e.g., /admin/collections/blog
@@ -325,7 +325,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["teachmetocode", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "tmtc-screencasts" # Used in routes, e.g., /admin/collections/blog
@@ -341,7 +341,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Youtube Video ID", name: "youtube_video_id", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["tmtc_screencasts", "video", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "views-on-vue" # Used in routes, e.g., /admin/collections/blog
@@ -357,7 +357,7 @@ collections:
       - {label: "Episode Number", name: "episode_number", widget: "string"}
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["views_on_vue", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
@@ -370,6 +370,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Author", name: "author", widget: "select", options: ["charles-max-wood"], default: "charles-max-wood"}
-      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", default: ["blog"]}
       - {label: "Body", name: "body", widget: "markdown"}
