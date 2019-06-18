@@ -6,7 +6,7 @@ date: 2019-06-18T10:00:00.000Z
 episode_number: '956'
 duration: '46:51'
 audio_url: >-
-  http://media.devchat.tv/elixir-mix/EMx_056_Sobelow_and_Related_Topics_with_Griffin_Byatt.mp3
+  https://media.devchat.tv/elixir-mix/EMx_056_Sobelow_and_Related_Topics_with_Griffin_Byatt.mp3
 image: /images/uploads/elixirmix.jpg
 tags:
   - elixir_mix
