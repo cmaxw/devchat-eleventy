@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: js-jabber
 title: 'JSJ 370:  Azure Functions Part II with Jeff Hollan LIVE at Microsoft BUILD'
-date: 2019-06-25T01:00:00.000Z
+date: 2019-06-25T10:00:00.000Z
 episode_number: '370'
 duration: '54:03'
 audio_url: >-
