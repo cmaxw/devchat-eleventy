@@ -104,6 +104,22 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Tags", name: "tags", widget: "list", default: ["js-jabber", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "my-angular-story" # Used in routes, e.g., /admin/collections/blog
+    label: "My Angular Story" # Used in the UI
+    folder: "src/my-angular-story" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "my-angular-story"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["my-angular-story", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "src/blog" # The path to the folder where the documents are stored
