@@ -24,6 +24,86 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image", required: "false"}
       - {label: "Tags", name: "tags", widget: "list", default: ["adv_in_angular", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "adventures-in-blockchain" # Used in routes, e.g., /admin/collections/blog
+    label: "Adventures in Blockchain" # Used in the UI
+    folder: "src/adventures-in-blockchain" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "adventures-in-blockchain"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["adventures_in_blockchain", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "adventures-in-devops" # Used in routes, e.g., /admin/collections/blog
+    label: "Adventures in Devops" # Used in the UI
+    folder: "src/adventures-in-devops" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "adventures-in-devops"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["adventures_in_devops", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "adventures-in-dotnet" # Used in routes, e.g., /admin/collections/blog
+    label: "Adventures in .NET" # Used in the UI
+    folder: "src/adventures-in-dotnet" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "adventures-in-dotnet"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["adventures_in_dotnet", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "data-therapy" # Used in routes, e.g., /admin/collections/blog
+    label: "Data Therapy" # Used in the UI
+    folder: "src/data-therapy" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "data-therapy"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["data_therapy", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "dev-ed" # Used in routes, e.g., /admin/collections/blog
+    label: "Dev Ed Podcast" # Used in the UI
+    folder: "src/dev-ed" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "dev-ed"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image", required: "false"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["dev_ed", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "dev-rev" # Used in routes, e.g., /admin/collections/blog
     label: "The Dev Rev" # Used in the UI
     folder: "src/dev-rev" # The path to the folder where the documents are stored
