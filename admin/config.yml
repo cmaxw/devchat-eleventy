@@ -1,6 +1,9 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  accept_roles:
+    - admin
+    - show_notes
 
 media_folder: "images/uploads"
 
@@ -16,6 +19,5 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Author", name: "author", widget: "select", options: ["charles-max-wood"], default: "charles-max-wood"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Episode Number (format 001)", name: "episode_number", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list", }
       - {label: "Body", name: "body", widget: "markdown"}
