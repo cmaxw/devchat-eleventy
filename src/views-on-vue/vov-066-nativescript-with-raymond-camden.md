@@ -22,19 +22,11 @@ tags:
 
 * Ben Hong
 
-
-
 **Joined by Special Guest:** Raymond Camden
-
-
 
 ## Summary
 
-
-
 Raymond Camden discusses a few of his blog posts with Ben Hong. The first post they discuss is about vue components; Raymond explains VGauge and Toasted notifications. The next post they discuss is about handling errors in Vuejs. Raymond answers questions about NativeScript, how it works, what the layout is like, and how he uses it in his daily programming. Ben asks Raymond about his experiences learning Vuejs and what it was like switching from Jquery. Raymond shares resources for getting started with Vuejs.
-
-
 
 ## Links
 
@@ -49,18 +41,12 @@ Raymond Camden discusses a few of his blog posts with Ben Hong. The first post t
 
 ## Picks
 
-
-
 **Raymond Camden:**
-
-
 
 * Diablo 3 on the Nintendo Switch
 * https://codabreaker.rocks/
 * https://adiavictoria.com/silences
 * Ask me about adoption
-
-
 
 **Ben Hong:**
 
