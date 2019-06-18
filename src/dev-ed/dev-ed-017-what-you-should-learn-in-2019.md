@@ -6,7 +6,7 @@ date: 2019-06-18T02:00:00.000Z
 episode_number: '017'
 duration: '57:22'
 audio_url: >-
-  http://traffic.libsyn.com/thinksterpodcast/Dev_Ed_Podcast_017_What_You_Should_Learn_in_2019.mp3
+  https://traffic.libsyn.com/thinksterpodcast/Dev_Ed_Podcast_017_What_You_Should_Learn_in_2019.mp3
 image: ''
 tags:
   - dev_ed
