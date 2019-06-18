@@ -22,7 +22,7 @@ collections:
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "list", default: ["adv-in-angular", "podcast"] }
+      - {label: "Tags", name: "tags", widget: "list", default: ["adv_in_angular", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "dev-rev" # Used in routes, e.g., /admin/collections/blog
     label: "The Dev Rev" # Used in the UI
@@ -54,7 +54,7 @@ collections:
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "list", default: ["elixir-mix", "podcast"] }
+      - {label: "Tags", name: "tags", widget: "list", default: ["elixir_mix", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "freelancers" # Used in routes, e.g., /admin/collections/blog
     label: "The Freelancers' Show" # Used in the UI
@@ -102,7 +102,7 @@ collections:
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "list", default: ["js-jabber", "podcast"] }
+      - {label: "Tags", name: "tags", widget: "list", default: ["js_jabber", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "my-angular-story" # Used in routes, e.g., /admin/collections/blog
     label: "My Angular Story" # Used in the UI
@@ -118,7 +118,7 @@ collections:
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "list", default: ["my-angular-story", "podcast"] }
+      - {label: "Tags", name: "tags", widget: "list", default: ["my_angular_story", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "my-javascript-story" # Used in routes, e.g., /admin/collections/blog
     label: "My JavaScript Story" # Used in the UI
@@ -134,7 +134,7 @@ collections:
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "list", default: ["my-javascript-story", "podcast"] }
+      - {label: "Tags", name: "tags", widget: "list", default: ["my_javascript_story", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "my-ruby-story" # Used in routes, e.g., /admin/collections/blog
     label: "My Ruby Story" # Used in the UI
@@ -150,7 +150,7 @@ collections:
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "list", default: ["my-ruby-story", "podcast"] }
+      - {label: "Tags", name: "tags", widget: "list", default: ["my_ruby_story", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "rails-clips" # Used in routes, e.g., /admin/collections/blog
     label: "Rails Clips" # Used in the UI
@@ -182,7 +182,7 @@ collections:
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "list", default: ["react-native-radio", "podcast"] }
+      - {label: "Tags", name: "tags", widget: "list", default: ["react_native_radio", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "react-round-up" # Used in routes, e.g., /admin/collections/blog
     label: "React Round Up" # Used in the UI
@@ -198,7 +198,71 @@ collections:
       - {label: "Duration", name: "duration", widget: "string"}
       - {label: "Audio URL", name: "audio_url", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "list", default: ["react-round-up", "podcast"] }
+      - {label: "Tags", name: "tags", widget: "list", default: ["react_round_up", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "remote-conf-talks" # Used in routes, e.g., /admin/collections/blog
+    label: "Remote Conference Talks" # Used in the UI
+    folder: "src/remote-conf-talks" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "remote-conf-talks"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Youtube Video ID", name: "youtube_video_id", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["remote_conf_talks", "video", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "ruby-rogues" # Used in routes, e.g., /admin/collections/blog
+    label: "Ruby Rogues" # Used in the UI
+    folder: "src/ruby-rogues" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "ruby-rogues"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["ruby_rogues", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "teachmetocode" # Used in routes, e.g., /admin/collections/blog
+    label: "Teach Me To Code Podcast" # Used in the UI
+    folder: "src/teachmetocode" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "teachmetocode"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["teachmetocode", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "tmtc-screencasts" # Used in routes, e.g., /admin/collections/blog
+    label: "Teach Me To Code Screencasts" # Used in the UI
+    folder: "src/tmtc-screencasts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "tmtc-screencasts"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Youtube Video ID", name: "youtube_video_id", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["tmtc_screencasts", "video", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
