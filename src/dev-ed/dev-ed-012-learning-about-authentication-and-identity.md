@@ -1,13 +1,15 @@
 ---
 layout: layouts/post.njk
-title: >
-      Dev Ed 012: Learning about Authentication and Identity
-date: 2019-05-14 04:00:21
-episode_number: 
-duration: 
-audio_url: 
 podcast: dev-ed
-tags: 
+title: |
+  Dev Ed 012: Learning about Authentication and Identity
+date: 2019-05-14T04:00:21.000Z
+episode_number: '012'
+duration: '56:10'
+audio_url: >-
+  https://media.devchat.tv/dev-ed/DevEd_012_Learning_About_Authentication_&_Identity.mp3
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---
