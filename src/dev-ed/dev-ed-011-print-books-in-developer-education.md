@@ -1,13 +1,15 @@
 ---
 layout: layouts/post.njk
-title: >
-      DevEd 011:  Print Books in Developer Education
-date: 2019-05-07 04:00:49
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_011_Print_Books_in_Developer_Education.mp3
 podcast: dev-ed
-tags: 
+title: |
+  DevEd 011:  Print Books in Developer Education
+date: 2019-05-07T04:00:49.000Z
+episode_number: '011'
+duration: '44:39'
+audio_url: >-
+  https://media.devchat.tv/dev-ed/DevEd_011_Print_Books_in_Developer_Education.mp3
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---
