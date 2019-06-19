@@ -1,13 +1,15 @@
 ---
 layout: layouts/post.njk
-title: >
-      DevEd 009:  Broadening Your Technical Perspective
-date: 2019-04-23 04:00:50
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_009_Broadening_Your_Technical_Perspective.mp3
 podcast: dev-ed
-tags: 
+title: |
+  DevEd 009:  Broadening Your Technical Perspective
+date: 2019-04-23T04:00:50.000Z
+episode_number: 009
+duration: '45:59'
+audio_url: >-
+  https://media.devchat.tv/dev-ed/DevEd_009_Broadening_Your_Technical_Perspective.mp3
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---
