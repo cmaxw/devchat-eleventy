@@ -1,13 +1,14 @@
 ---
 layout: layouts/post.njk
-title: >
-      DevEd 005: Web Development Boot Camps
-date: 2019-03-26 04:00:05
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_005_Boot_Camps.mp3
 podcast: dev-ed
-tags: 
+title: |
+  DevEd 005: Web Development Boot Camps
+date: 2019-03-26T04:00:05.000Z
+episode_number: '005'
+duration: '1:02:58'
+audio_url: 'https://media.devchat.tv/dev-ed/DevEd_005_Boot_Camps.mp3'
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---
