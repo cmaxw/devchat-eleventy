@@ -53,21 +53,23 @@ module.exports = function(eleventyConfig) {
                   "views_on_vue",
                   "web_sec_warriors"];
 
+  var today = moment();
+
   podcastList.forEach(function(podcast, index) {
     eleventyConfig.addCollection(podcast, function(collection) {
       return collection.getFilteredByTag(podcast).sort(function(a, b) {
-        return b.date - a.date;
+        return a.date - b.date;
       }).filter(function(item) {
-        return item.date <= moment();
+        return item.date <= today;
       });
     });
   });
 
   eleventyConfig.addCollection("podcast", function(collection) {
     return collection.getFilteredByTag("podcast").sort(function(a, b) {
-      return b.date - a.date;
+      return a.date - b.date;
     }).filter(function(item) {
-      return item.date <= moment();
+      return item.date <= today;
     });
   });
 
