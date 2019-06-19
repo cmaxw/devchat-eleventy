@@ -1,0 +1,5 @@
+{
+    "layout": "layouts/post.njk",
+    "image": "/images/podcasts/deved.jpg",
+    "podcast": "dev-ed"
+}
