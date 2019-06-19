@@ -1,13 +1,15 @@
 ---
 layout: layouts/post.njk
-title: >
-      DevEd 008:  Programming Education in Developing Nations
-date: 2019-04-16 04:00:26
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_008_Programming_Education_in_Developing_Nations.mp3
 podcast: dev-ed
-tags: 
+title: |
+  DevEd 008:  Programming Education in Developing Nations
+date: 2019-04-16T04:00:26.000Z
+episode_number: 008
+duration: '38:02'
+audio_url: >-
+  https://media.devchat.tv/dev-ed/DevEd_008_Programming_Education_in_Developing_Nations.mp3
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---
