@@ -1,13 +1,15 @@
 ---
 layout: layouts/post.njk
-title: >
-      DevEd 001: Current State of Education in Web Development
-date: 2019-02-05 04:00:46
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_001_Current_State_of_Education_in_Web_Development.mp3
 podcast: dev-ed
-tags: 
+title: |
+  DevEd 001: Current State of Education in Web Development
+date: 2019-02-05T04:00:46.000Z
+episode_number: '001'
+duration: '50:08'
+audio_url: >-
+  https://media.devchat.tv/dev-ed/DevEd_001_Current_State_of_Education_in_Web_Development.mp3
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---
