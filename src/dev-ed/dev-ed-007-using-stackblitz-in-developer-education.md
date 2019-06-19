@@ -1,13 +1,15 @@
 ---
 layout: layouts/post.njk
-title: >
-      DevEd 007:  Using Stackblitz in Developer Education
-date: 2019-04-09 04:00:52
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_007_Using_Stackblitz_in_Developer_Education.mp3
 podcast: dev-ed
-tags: 
+title: |
+  DevEd 007:  Using Stackblitz in Developer Education
+date: 2019-04-09T04:00:52.000Z
+episode_number: '007'
+duration: '49:14'
+audio_url: >-
+  https://media.devchat.tv/dev-ed/DevEd_007_Using_Stackblitz_in_Developer_Education.mp3
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---
