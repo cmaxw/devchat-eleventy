@@ -35,4 +35,4 @@ The panel discusses different billing models and their experiences with each. Th
 
 ## Reuven Lerner:
 
-[Alexander Hamilton](https://www.amazon.com/Alexander-Hamilton-Ron-Chernow-ebook/dp/B000QJLQZI/ref=sr_1_2?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [Alexander Hamilton](https://www.amazon.com/Alexander-Hamilton-Ron-Chernow-ebook/dp/B000QJLQZI/ref=sr_1_2?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
