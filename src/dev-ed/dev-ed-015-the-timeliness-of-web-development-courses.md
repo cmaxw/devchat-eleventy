@@ -1,13 +1,15 @@
 ---
 layout: layouts/post.njk
-title: >
-      Dev Ed 015: The Timeliness of Web Development Courses
-date: 2019-06-04 04:00:04
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_015_The_Timeliness_of_Web_Development_Courses.mp3
 podcast: dev-ed
-tags: 
+title: |
+  Dev Ed 015: The Timeliness of Web Development Courses
+date: 2019-06-04T04:00:04.000Z
+episode_number: '015'
+duration: '47:10'
+audio_url: >-
+  https://media.devchat.tv/dev-ed/DevEd_015_The_Timeliness_of_Web_Development_Courses.mp3
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---
