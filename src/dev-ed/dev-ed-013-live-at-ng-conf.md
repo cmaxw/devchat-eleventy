@@ -1,13 +1,14 @@
 ---
 layout: layouts/post.njk
-title: >
-      Dev Ed 013: Live at ng-conf- The Benefits of Attending Conferences
-date: 2019-05-21 04:00:30
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_013_Live_at_ng-conf.mp3
 podcast: dev-ed
-tags: 
+title: |
+  Dev Ed 013: Live at ng-conf- The Benefits of Attending Conferences
+date: 2019-05-21T04:00:30.000Z
+episode_number: '013'
+duration: '30:29'
+audio_url: 'https://media.devchat.tv/dev-ed/DevEd_013_Live_at_ng-conf.mp3'
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---

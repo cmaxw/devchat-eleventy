@@ -1,13 +1,14 @@
 ---
 layout: layouts/post.njk
-title: >
-      DevEd 003: Getting Into Development
-date: 2019-02-19 04:02:33
-episode_number: 003
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_003_Getting_Into_Development.mp3
 podcast: dev-ed
-tags: 
+title: |
+  DevEd 003: Getting Into Development
+date: 2019-02-19T04:02:33.000Z
+episode_number: '003'
+duration: '53:56'
+audio_url: 'https://media.devchat.tv/dev-ed/DevEd_003_Getting_Into_Development.mp3'
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---

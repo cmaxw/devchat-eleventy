@@ -1,13 +1,15 @@
 ---
 layout: layouts/post.njk
-title: >
-      DevEd 010:  The Myth of the Genius Programmer
-date: 2019-04-30 04:00:31
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_010_The_Myth_of_the_Genius_Programmer.mp3
 podcast: dev-ed
-tags: 
+title: |
+  DevEd 010:  The Myth of the Genius Programmer
+date: 2019-04-30T04:00:31.000Z
+episode_number: '010'
+duration: '1:03:25'
+audio_url: >-
+  https://media.devchat.tv/dev-ed/DevEd_010_The_Myth_of_the_Genius_Programmer.mp3
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---

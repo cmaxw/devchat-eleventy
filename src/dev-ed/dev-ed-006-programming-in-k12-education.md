@@ -1,13 +1,14 @@
 ---
 layout: layouts/post.njk
-title: >
-      DevEd 006: Programming in K12 Education
-date: 2019-04-02 04:00:31
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_006_Programming_in_K12_Education.mp3
 podcast: dev-ed
-tags: 
+title: |
+  DevEd 006: Programming in K12 Education
+date: 2019-04-02T04:00:31.000Z
+episode_number: '006'
+duration: '1:03:30'
+audio_url: 'https://media.devchat.tv/dev-ed/DevEd_006_Programming_in_K12_Education.mp3'
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---

@@ -1,13 +1,14 @@
 ---
 layout: layouts/post.njk
-title: >
-      Dev Ed 016: Learning Through Podcasts
-date: 2019-06-11 04:00:43
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_016_Learning_Through_Podcasts.mp3
 podcast: dev-ed
-tags: 
+title: |
+  Dev Ed 016: Learning Through Podcasts
+date: 2019-06-11T04:00:43.000Z
+episode_number: '016'
+duration: '45:28'
+audio_url: 'https://media.devchat.tv/dev-ed/DevEd_016_Learning_Through_Podcasts.mp3'
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---

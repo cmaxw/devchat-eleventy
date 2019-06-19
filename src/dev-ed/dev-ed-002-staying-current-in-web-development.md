@@ -1,13 +1,15 @@
 ---
 layout: layouts/post.njk
-title: >
-      Dev Ed 002: Staying Current in Web Development
-date: 2019-02-12 04:01:41
-episode_number: 002
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_002_Staying_Current_in_Web_Development.mp3
 podcast: dev-ed
-tags: 
+title: |
+  Dev Ed 002: Staying Current in Web Development
+date: 2019-02-12T04:01:41.000Z
+episode_number: '002'
+duration: '58:17'
+audio_url: >-
+  https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_002_Staying_Current_in_Web_Development.mp3
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---
