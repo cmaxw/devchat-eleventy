@@ -13,8 +13,8 @@ tags:
 ---
 # Sponsors
 
-* Sentry use the code “devchat” for 2 months free on Sentry small plan
-* CacheFly
+* [Sentry ](http://sentry.io/)use the code “devchat” for 2 months free on Sentry small plan
+* [CacheFly](https://www.cachefly.com/)
 
 **Host:** Charles Max Wood
 
@@ -26,27 +26,28 @@ Ryan grew up around technology as his parents were also software developers. He 
 
 ## Links
 
-* JavaScript Jabber 259: Clean Code JavaScript with Ryan McDermott
-* Ryan's GitHub
-* Ryan's Twitter
-* Ryan's LinkedIn 
-* https://www.facebook.com/javascriptjabber
-* https://twitter.com/JSJabber
-* https://www.facebook.com/DevChattv
+* [JavaScript Jabber 259: Clean Code JavaScript with Ryan McDermott](https://devchat.tv/js-jabber/clean-code-javascript-with-ryan-mcdermott/)
+* [Ryan's GitHub](https://github.com/ryanmcdermott)
+* [Ryan's Twitter](https://twitter.com/ryconoclast?lang=en)
+* [Ryan's LinkedIn ](https://www.linkedin.com/in/ryan-mcdermott-engineer)
+* <https://www.facebook.com/javascriptjabber>
+* <https://twitter.com/JSJabber>
+* <https://www.facebook.com/DevChattv>
 
 ## Picks
 
 **Ryan McDermott:**
 
 * Learn another developer language other than the one you have been using
-* Guns, Germs, and Steel by Jared M. Diamond
-* Sapien by Yuval Noah Harari
-* Chernobyl
-* 
+* [Guns, Germs, and Steel by Jared M. Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552)
+* [Sapien by Yuval Noah Harari](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
+* [Chernobyl](https://www.hbo.com/chernobyl)
+
+
 
 **Charles Max Wood:**
 
-* https://github.com/cmaxw/devchat-eleventy
-* Eleventy
-* Netlify
-* Disqus
+* <https://github.com/cmaxw/devchat-eleventy>
+* [Eleventy](https://www.11ty.io/)
+* [Netlify](https://www.netlify.com/)
+* [Disqus](https://disqus.com/)
