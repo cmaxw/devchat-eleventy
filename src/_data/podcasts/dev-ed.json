@@ -1,0 +1,15 @@
+{
+  "title": "Dev Ed Podcast",
+  "slug": "dev-ed",
+  "artwork": "deved.jpg",
+  "tag": "dev_ed",
+  "current": true,
+  "podwrench_slug": "dev-ed",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "drip_form": "4885765",
+  "color": "blue",
+  "twitter": "https://twitter.com/devedpodcast",
+  "linkedin": "https://linkedin.com/company/devchat",
+  "itunes": "https://podcasts.apple.com/us/podcast/deved-podcast/id1456280468",
+  "rss": "https://feeds.feedwrench.com/deved.rss"
+}
