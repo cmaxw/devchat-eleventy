@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: adv-in-angular
 title: 'AiA 245: CosmosDB with Steve Faulkner LIVE at Microsoft BUILD'
-date: 2019-06-25T01:00:46.151Z
+date: 2019-06-25T10:00:00.000Z
 episode_number: '245'
 duration: '31:22'
 audio_url: >-
