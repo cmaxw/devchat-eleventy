@@ -14,38 +14,26 @@ tags:
 ---
 # Sponsors
 
-* Sentry use the code “devchat” for 2 months free on Sentry small plan
-* Triplebyte offers a $1000 signing bonus
-* CacheFly
-
-
+* [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+* [Triplebyte](https://triplebyte.com/astory) offers a $1000 signing bonus
+* [CacheFly](https://www.cachefly.com/)
 
 **Host:** Charles Max Wood
 
-
-
 **Joined By Special Guests:** James Daniels and Alex Okrushko
-
-
 
 ## Episode Summary
 
-
-
 James Daniels and Alex Okrushko are with Charles Max Wood live from the podcast booth at ng-conf 2019 talking about  new happenings at Firebase a mobile and web application development platform developed by Firebase, Inc and acquired by Google.
-
-
 
 James and Alex talk about how their schedules changed once they were acquired by Google.
 
-
-
 ## Links
 
-* Alex Okrushko's Twitter
-* Alex Okrushko's Blog
-* Alex Okrushko's GitHub
-* James Daniel's LinkedIn
-* James Daniels GitHub
-* Firebase
-* ng-conf 2019
+* [Alex Okrushko's Twitter](https://twitter.com/alexokrushko)
+* [Alex Okrushko's Blog](https://blog.angularindepth.com/@alex.okrushko)
+* [Alex Okrushko's GitHub](https://github.com/alex-okrushko)
+* [James Daniel's LinkedIn](https://www.linkedin.com/in/jamesdaniels)
+* [James Daniels GitHub](https://github.com/jamesdaniels)
+* [Firebase](http://firebase.google.com/official/site‎)
+* [ng-conf 2019](https://www.ng-conf.org/)

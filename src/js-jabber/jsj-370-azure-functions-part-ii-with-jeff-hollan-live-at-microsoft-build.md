@@ -14,9 +14,9 @@ tags:
 ---
 # Sponsors
 
-* Triplebyte offers a $1000 signing bonus
-* Sentry use the code “devchat” for 2 months free on Sentry small plan
-* CacheFly
+* [Triplebyte](https://triplebyte.com/jsjabber) offers a $1000 signing bonus
+* [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
+* [CacheFly](https://www.cachefly.com/)
 
 ## Panel
 
@@ -34,25 +34,25 @@ Jeff and Charles discuss creating and running an Azure function inside a contai
 
 ## Links
 
-* JavaScript Jabber 369: Azure Functions with Colby Tresness LIVE at Microsoft BUILD
-* Durable Functions
-* Jeff’s GitHub
-* Jeff’s Twitter
-* Jeff’s LinkedIn
-* Jeff’s Website
-* Jeff’s Medium
+* [JavaScript Jabber 369: Azure Functions with Colby Tresness LIVE at Microsoft BUILD](https://devchat.tv/js-jabber/jsj-369-azure-functions-with-colby-tresness-live-at-microsoft-build/)
+* [Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview)
+* [Jeff’s GitHub](https://github.com/jeffhollan)
+* [Jeff’s Twitter](https://twitter.com/jeffhollan)
+* [Jeff’s LinkedIn](https://www.linkedin.com/in/jeffhollan)
+* [Jeff’s Website](https://hollan.io/)
+* [Jeff’s Medium](https://medium.com/@jeffhollan)
 * Microsoft Build 2019
-* Follow JavaScript Jabber on Devchat.tv, Facebook and Twitter.
+* Follow JavaScript Jabber on [Devchat.tv](https://devchat.tv/js-jabber/), [Facebook](https://www.facebook.com/javascriptjabber) and [Twitter](https://twitter.com/JSJabber).
 
 ## Picks
 
 **Jeff Hollan:**
 
-* Calm App
-* Game of Thrones TV Series
+* [Calm App](https://www.calm.com/)
+* [Game of Thrones TV Series](https://www.imdb.com/title/tt0944947/)
 
-- - -
+
 
 **Charles Max Wood:**
 
-Family Tree App
+* [Family Tree App](https://itunes.apple.com/us/app/familysearch-tree/id885982973?mt=8)
