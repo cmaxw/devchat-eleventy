@@ -1,13 +1,14 @@
 ---
 layout: layouts/post.njk
-title: >
-      DevEd 004: Is There A Developer Gene?
-date: 2019-03-19 04:00:52
-episode_number: 
-duration: 
-audio_url: https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_004_Is_There_A_Developer_Gene.mp3
 podcast: dev-ed
-tags: 
+title: |
+  DevEd 004: Is There A Developer Gene?
+date: 2019-03-19T04:00:52.000Z
+episode_number: '004'
+duration: '1:03:32'
+audio_url: 'https://media.devchat.tv/dev-ed/DevEd_004_Is_There_A_Developer_Gene.mp3'
+image: /images/uploads/deved_logo.jpg
+tags:
   - dev_ed
   - podcast
 ---
