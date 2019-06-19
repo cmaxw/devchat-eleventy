@@ -58,7 +58,7 @@ module.exports = function(eleventyConfig) {
   podcastList.forEach(function(podcast, index) {
     eleventyConfig.addCollection(podcast, function(collection) {
       return collection.getFilteredByTag(podcast).sort(function(a, b) {
-        return a.date - b.date;
+        return b.date - a.date;
       }).filter(function(item) {
         return item.date <= today;
       });
