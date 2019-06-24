@@ -26,8 +26,6 @@ tags:
 
 Charles Max Wood is LIVE from the podcast booth with Jesse Sanders at the [ng-conf](https://www.ng-conf.org/). Jesse is the founder/CEO of BrieBug Software and an Angular Google Developer Expert (GDE). Jesse talks about the importance of end to end testing which was also the subject of his speech at ng-conf.
 
-
-
 ## Links
 
 * [Adventures in Angular 169: NGRX Entities with Jesse Sanders](https://devchat.tv/adv-in-angular/aia-169-ngrx-entities-jesse-sanders/)
