@@ -24,9 +24,14 @@ tags:
 * David Kimura
 * David Richards
 * Andrew Mason
-  With Special Guest: Leonardo Tegon
-  ### **Episode Summary**
-  Leonardo Tegon is a software developer at Plataformatec, the company that created Devise. Leonardo talks about how he ended up at Plataformatec and shares a little bit about the talk he gave about [alternative authentication methods](https://confreaks.tv/presenters/leonardo-tegon). He talks about the difference between Devise and Warden. Some of the panelists have had some issues with cache warming in Warden, and &nbsp;Leonardo shares ways to get around it. They talk about authentication strategies used in Warden and Devise and different strategies that tap into hardware. Leonardo talks about some of the features coming to Devise, although their primary focus is on maintenance. He talks about the work that goes into such a long-standing project, especially concerning maintaining the integrity of the code but also allowing for progress. They talk about some of their favorite features of Devise. Devise is easy to set up and very functional, but also intimidating. When a library is so big and does so much, it has to make some assumptions. Leonardo talks about how they decide what goes into the library at this point and how easy is it for new maintainers to contribute to the project. Leonardo ultimately wants to make it easier for people to jump in. **Links**
+
+
+With Special Guest: Leonardo Tegon
+
+### **Episode Summary**
+
+Leonardo Tegon is a software developer at Plataformatec, the company that created Devise. Leonardo talks about how he ended up at Plataformatec and shares a little bit about the talk he gave about [alternative authentication methods](https://confreaks.tv/presenters/leonardo-tegon). He talks about the difference between Devise and Warden. Some of the panelists have had some issues with cache warming in Warden, and &nbsp;Leonardo shares ways to get around it. They talk about authentication strategies used in Warden and Devise and different strategies that tap into hardware. Leonardo talks about some of the features coming to Devise, although their primary focus is on maintenance. He talks about the work that goes into such a long-standing project, especially concerning maintaining the integrity of the code but also allowing for progress. They talk about some of their favorite features of Devise. Devise is easy to set up and very functional, but also intimidating. When a library is so big and does so much, it has to make some assumptions. Leonardo talks about how they decide what goes into the library at this point and how easy is it for new maintainers to contribute to the project. Leonardo ultimately wants to make it easier for people to jump in. **Links**
+
 * [Devise](https://github.com/plataformatec/devise)
 * [Warden](https://github.com/plataformatec/devise)
 * [Cache warming](https://www.section.io/blog/what-is-cache-warming/)
