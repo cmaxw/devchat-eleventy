@@ -14,10 +14,10 @@ tags:
 ---
 # Sponsors
 
-* Netlify
-* Sentry use the code “devchat” for 2 months free on Sentry’s small plan
-* Triplebyte offers a $1000 signing bonus
-* CacheFly
+* [Netlify](https://www.netlify.com/)
+* [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
+* [Triplebyte](https://triplebyte.com/react) offers a $1000 signing bonus
+* [CacheFly](https://www.cachefly.com/)
 
 ## Panel
 
