@@ -22,12 +22,15 @@ tags:
 
 ## **Episode Summary**
 
+Sarah Dayan is a Frontend Software Engineer working for Algolia in Paris. She is also the author of [Dinero.js](https://sarahdayan.github.io/dinero.js/).
+
 ## **Links**
 
-* JavaScript Jabber 259: Clean Code JavaScript with Ryan McDermott
+* [JavaScript Jabber 351: Dinero.js with Sarah Dayan](https://devchat.tv/js-jabber/jsj-351-dinero-js-with-sarah-dayan/)
 * [Sarah's Twitter](https://twitter.com/frontstuff_io?lang=en)
 * [Sarah's GitHub](https://github.com/sarahdayan)
 * [Sarah's Medium](https://medium.com/@frontstuff) 
+* [Dinero.js](https://sarahdayan.github.io/dinero.js/)
 * <https://www.facebook.com/javascriptjabber>
 * <https://twitter.com/JSJabber>
 * <https://www.facebook.com/DevChattv>
