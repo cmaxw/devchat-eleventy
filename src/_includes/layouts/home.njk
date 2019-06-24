@@ -9,51 +9,30 @@ date: 2000-01-01
 		<div class="row">
 			<div class="col-lg-3 pr-10">
 				<div class="ts-post-overlay-style-1 ts-post-style-5">
-					{% for podcast in collections.podcast | head(-8)  %}{% if loop.index > 4 %}{% if loop.index < 7 %}
-						<div class="ts-overlay-style">
-							<div class="item">
-								<div class="ts-post-thumb">
-									<a class="post-cat ts-orange-bg" href="{{podcast.url}}">{{podcasts[ podcast.data.podcast ].title}}</a>
-									<a href="{{podcast.url}}">
-										<img class="img-fluid" src="/images/podcasts/{{podcasts[ podcast.data.podcast ].artwork}}" alt="">
-									</a>
-								</div>
-
-								<div class="overlay-post-content">
-									<div class="post-content">
-										<h3 class="post-title">
-											<a href="{{podcast.url}}">{{podcast.data.title}}</a>
-										</h3>
-										<ul class="post-meta-info">
-											<li>
-												<i class="fa fa-calendar-o"></i>
-												{{ podcast.data.date | date }}
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<!-- end item-->
-						</div>
-						<!-- ts overlay style end-->
-					{% endif %}{% endif %}{% endfor %}
+					{% for podcast in collections.js_jabber | head(1)  %}
+						{% include 'episode_thumb.njk' %}
+					{% endfor %}
+					{% for podcast in collections.ruby_rogues | head(1)  %}
+						{% include 'episode_thumb.njk' %}
+					{% endfor %}
 				</div>
 			</div>
 			<!-- col end-->
 			<div class="col-lg-6 pl-0 pr-10">
 				<div id="featured-slider-2" class="owl-carousel ts-overlay-style ts-featured">
-					{% for podcast in collections.podcast | head(-4) %}{% if loop.index < 4 %}
-						<div class="item" style="background-image:url(/images/podcasts/{{podcasts[ podcast.data.podcast ].artwork}})">
-							<a class="post-cat ts-orange-bg" href="#">{{podcasts[ podcast.data.podcast ].title}}</a>
+					{% for episode in collections.podcast | reverse | head(15) %}
+						{% if episode.data.podcast != 'adv-in-angular' and episode.data.podcast != 'js-jabber' and episode.data.podcast != 'ruby-rogues' and episode.data.podcast != 'views-on-vue' %}
+						<div class="item" style="background-image:url(/images/podcasts/{{podcasts[episode.data.podcast].artwork}})">
+							<a class="post-cat ts-orange-bg" href="#">{{podcasts[episode.data.podcast].title}}</a>
 							<div class="overlay-post-content">
 								<div class="post-content">
 									<h2 class="post-title lg">
-										<a href="{{podcast.url}}">{{podcast.data.title}}</a>
+										<a href="{{episode.url}}">{{episode.data.title}}</a>
 									</h2>
 									<ul class="post-meta-info">
 										<li>
 											<i class="fa fa-calendar-o"></i>
-											{{ podcast.date | date }}
+											{{ episode.date | date }}
 										</li>
 									</ul>
 								</div>
@@ -61,41 +40,20 @@ date: 2000-01-01
 							<!--/ Featured post end -->
 						</div>
 						<!-- Item 1 end -->
-					{% endif %}{% endfor %}
+						{% endif %}
+					{% endfor %}
 				</div>
 				<!-- Featured owl carousel end-->
 			</div>
 			<!-- col end-->
 			<div class="col-lg-3 pl-0">
-				<div class="ts-post-overlay-style-1">
-					{% for podcast in collections.podcast | head(-8) %}{% if loop.index > 5 %}{% if loop.index < 8 %}
-						<div class="ts-overlay-style">
-							<div class="item">
-								<div class="ts-post-thumb">
-									<a class="post-cat ts-orange-bg" href="{{podcast.url}}">{{podcasts[ podcast.data.podcast ].title}}</a>
-									<a href="{{podcast.url}}">
-										<img class="img-fluid" src="/images/podcasts/{{podcasts[ podcast.data.podcast ].artwork}}" alt="">
-									</a>
-								</div>
-
-								<div class="overlay-post-content">
-									<div class="post-content">
-										<h3 class="post-title">
-											<a href="{{podcast.url}}">{{podcast.data.title}}</a>
-										</h3>
-										<ul class="post-meta-info">
-											<li>
-												<i class="fa fa-calendar-o"></i>
-												{{ podcast.data.date | date }}
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<!-- end item-->
-						</div>
-						<!-- ts overlay style end-->
-					{% endif %}{% endif %}{% endfor %}
+				<div class="ts-post-overlay-style-1 ts-post-style-5">
+					{% for podcast in collections.adv_in_angular | head(1)  %}
+						{% include 'episode_thumb.njk' %}
+					{% endfor %}
+					{% for podcast in collections.views_on_vue | head(1)  %}
+						{% include 'episode_thumb.njk' %}
+					{% endfor %}
 				</div>
 			</div>
 			<!--col end-->

@@ -1,0 +1,26 @@
+	<div class="ts-overlay-style">
+		<div class="item">
+			<div class="ts-post-thumb">
+				<a class="post-cat ts-orange-bg" href="{{podcast.url}}">{{podcasts[ podcast.data.podcast ].title}}</a>
+				<a href="{{podcast.url}}">
+					<img class="img-fluid" src="/images/podcasts/{{podcasts[ podcast.data.podcast ].artwork}}" alt="">
+				</a>
+			</div>
+
+			<div class="overlay-post-content">
+				<div class="post-content">
+					<h3 class="post-title">
+						<a href="{{podcast.url}}">{{podcast.data.title}}</a>
+					</h3>
+					<ul class="post-meta-info">
+						<li>
+							<i class="fa fa-calendar-o"></i>
+							{{ podcast.data.date | date }}
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- end item-->
+	</div>
+	<!-- ts overlay style end-->

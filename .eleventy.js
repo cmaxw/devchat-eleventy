@@ -35,7 +35,8 @@ module.exports = function(eleventyConfig) {
   });
 
   var podcastList = ["adv_in_angular", 
-                  "dev_rev", 
+                  "dev_rev",
+                  "dev_ed",  
                   "elixir_mix",
                   "freelancers",
                   "iphreaks",
