@@ -87,18 +87,18 @@ title: Devchat.tv - A Podcast for Every Programming Community
 		<section class="top-bar v4">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-8 align-self-center">
+					<div class="col-md-10 align-self-center">
 						<div class="ts-breaking-news clearfix">
 							<h2 class="breaking-title float-left">
 								<i class="fa fa-bolt"></i> Latest Shows:</h2>
 							<div class="breaking-news-content float-left" id="breaking_slider1">
-								{% for podcast in collections.podcast | reverse %}{% if loop.index < 11 %}
+								{% for podcast in collections.podcast | reverse | head(15) %}
 									<div class="breaking-post-content">
 										<p>
 											&nbsp;<a href="{{podcast.url}}">{{podcast.data.title}}</a>&nbsp;&mdash;
 										</p>
 									</div>
-								{% endif %}{% endfor %}
+								{% endfor %}
 							</div>
 						</div>
 					</div>
