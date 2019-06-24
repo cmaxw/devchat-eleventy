@@ -16,6 +16,7 @@
     "prettier": "^1.16.3"
   },
   "dependencies": {
+    "eleventy": "^0.2.0",
     "netlify": "^2.4.4",
     "netlify-cli": "^2.11.23"
   }
