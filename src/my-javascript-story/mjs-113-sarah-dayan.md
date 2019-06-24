@@ -18,22 +18,16 @@ tags:
 
 **Host:** Charles Max Wood
 
-
-
 **Joined By Special Guest:** Sarah Dayan
 
-
-
 ## **Episode Summary**
-
-
 
 ## **Links**
 
 * JavaScript Jabber 259: Clean Code JavaScript with Ryan McDermott
-* Ryan's GitHub
-* Ryan's Twitter
-* Ryan's LinkedIn 
+* Sarah's GitHub
+* [Sarah's Twitter](https://twitter.com/frontstuff_io?lang=en)
+* Sarah's LinkedIn 
 * https://www.facebook.com/javascriptjabber
 * https://twitter.com/JSJabber
 * https://www.facebook.com/DevChattv
