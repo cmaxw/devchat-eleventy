@@ -1,7 +1,8 @@
 {
   "title": "My JavaScript Story",
   "slug": "my-javascript-story",
-  "artwork": "MyJSStory.jpg",
+  "artwork": "MyJSStory-500.jpg",
+  "artwork_front": "MyJSStory-270.jpg",
   "tag": "my_javascript_story",
   "current": true,
   "sponsor_layout": "podwrench_2_sponsors.njk",

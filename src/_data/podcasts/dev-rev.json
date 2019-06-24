@@ -2,6 +2,7 @@
   "title": "The Dev Rev",
   "slug": "dev-rev",
   "artwork": "devrev-500.jpg",
+  "artwork_front": "devrev-270.jpg",
   "tag": "dev_rev",
   "current": true,
   "drip_form": "685084676",

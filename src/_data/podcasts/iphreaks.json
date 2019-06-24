@@ -1,7 +1,8 @@
 {
   "title": "iPhreaks",
   "slug": "iphreaks",
-  "artwork": "iPhreaks.jpg",
+  "artwork": "iPhreaks-500.jpg",
+  "artwork_front": "iPhreaks-270.jpg",
   "tag": "iphreaks",
   "current": true,
   "podwrench_slug": "iphreaks-show",

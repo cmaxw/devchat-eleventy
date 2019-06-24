@@ -1,7 +1,8 @@
 {
   "title": "JavaScript Jabber",
   "slug": "js-jabber",
-  "artwork": "js_jabber.jpg",
+  "artwork": "js_jabber-500.jpg",
+  "artwork_front": "js_jabber-270.jpg",
   "tag": "js_jabber",
   "current": true,
   "podwrench_slug": "javascript-jabber",

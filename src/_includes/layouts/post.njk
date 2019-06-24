@@ -149,7 +149,7 @@ layout: layouts/base.njk
 								<a class="post-cat ts-yellow-bg" href="/{{post.data.podcast}}">{{podcasts[post.data.podcast].title}}</a>
 								<div class="ts-post-thumb">
 									<a href="{{post.url | url}}">
-										<img class="img-fluid" src="{{post.data.image}}" alt="">
+										<img class="img-fluid" src="{{podcasts[post.data.podcast].artwork_front}}" alt="">
 									</a>
 								</div>
 								<div class="post-content">

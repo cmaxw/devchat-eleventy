@@ -1,7 +1,8 @@
 {
   "title": "Dev Ed Podcast",
   "slug": "dev-ed",
-  "artwork": "deved.jpg",
+  "artwork": "deved-500.jpg",
+  "artwork_front": "deved-270.jpg",
   "tag": "dev_ed",
   "current": true,
   "podwrench_slug": "dev-ed",

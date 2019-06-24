@@ -1,7 +1,8 @@
 {
   "title": "Views on Vue",
   "slug": "views-on-vue",
-  "artwork": "viewsonvue.jpg",
+  "artwork": "viewsonvue-500.jpg",
+  "artwork_front": "viewsonvue-270.jpg",
   "tag": "views_on_vue",
   "current": true,
   "sponsor_layout": "podwrench_3_sponsors.njk",

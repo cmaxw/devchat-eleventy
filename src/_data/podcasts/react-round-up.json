@@ -1,7 +1,8 @@
 {
   "title": "React Round Up",
   "slug": "react-round-up",
-  "artwork": "reactroundup.jpg",
+  "artwork": "reactroundup-500.jpg",
+  "artwork_front": "reactroundup-270.jpg",
   "sponsor_layout": "podwrench_3_sponsors.njk",
   "tag": "react_round_up",
   "current": true,

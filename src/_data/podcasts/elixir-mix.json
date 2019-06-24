@@ -2,6 +2,7 @@
   "title": "Elixir Mix",
   "slug": "elixir-mix",
   "artwork": "elixirmix-500.jpg",
+  "artwork_front": "elixirmix-270.jpg",
   "tag": "elixir_mix",
   "current": true,
   "sponsor_layout": "podwrench_3_sponsors.njk",

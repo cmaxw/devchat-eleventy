@@ -1,7 +1,8 @@
 {
   "title": "Teach Me To Code Screencasts",
   "slug": "tmtc-screencasts",
-  "artwork": "teachmetocode.jpg",
+  "artwork": "TeachMeToCode-500.jpg",
+  "artwork_front": "TeachMeToCode-270.jpg",
   "tag": "tmtc_screencasts",
   "current": false,
   "sponsor_layout": "sitewide_sidebar_sponsors.njk",

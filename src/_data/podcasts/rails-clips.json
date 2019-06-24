@@ -1,7 +1,8 @@
 {
   "title": "Rails Clips",
   "slug": "rails-clips",
-  "artwork": "rails-clips.jpg",
+  "artwork": "rails-clips-500.jpg",
+  "artwork_front": "rails-clips-270.jpg",
   "current": false,
   "sponsor_layout": "sitewide_sidebar_sponsors.njk",
   "tag": "rails_clips",

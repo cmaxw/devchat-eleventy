@@ -1,7 +1,8 @@
 {
   "title": "My Angular Story",
   "slug": "my-angular-story",
-  "artwork": "MyAngularStory.jpg",
+  "artwork": "MyAngularStory-500.jpg",
+  "artwork_front": "MyAngularStory-270.jpg",
   "tag": "my_angular_story",
   "current": true,
   "drip_form": "475556559",

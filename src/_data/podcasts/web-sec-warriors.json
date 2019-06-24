@@ -1,7 +1,8 @@
 {
   "title": "Web Security Warriors",
   "slug": "web-sec-warriors",
-  "artwork": "websecwarriors.jpg",
+  "artwork": "websecwarriors-500.jpg",
+  "artwork_front": "websecwarriors-500.jpg",
   "tag": "web_sec_warriors",
   "current": false,
   "sponsor_layout": "sitewide_sidebar_sponsors.njk",

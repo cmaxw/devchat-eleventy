@@ -1,7 +1,8 @@
 {
   "title": "The Freelancers Show",
   "slug": "freelancers",
-  "artwork": "freelancers_500.jpg",
+  "artwork": "freelancers-500.jpg",
+  "artwork_front": "freelancers-270.jpg",
   "tag": "freelancers",
   "current": true,
   "podwrench_slug": "freelancers-show",

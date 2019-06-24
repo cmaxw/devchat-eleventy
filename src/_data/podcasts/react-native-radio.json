@@ -1,7 +1,8 @@
 {
   "title": "React Native Radio",
   "slug": "react-native-radio",
-  "artwork": "react-native-radio.jpg",
+  "artwork": "react-native-radio-500.jpg",
+  "artwork_front": "react-native-radio-270.jpg",
   "tag": "react_native_radio",
   "current": true,
   "sponsor_layout": "podwrench_3_sponsors.njk",

@@ -1,7 +1,8 @@
 {
   "title": "My Ruby Story",
   "slug": "my-ruby-story",
-  "artwork": "MyRubyStory.jpg",
+  "artwork": "MyRubyStory-500.jpg",
+  "artwork_front": "MyRubyStory-270.jpg",
   "tag": "my_ruby_story",
   "current": true,
   "sponsor_layout": "podwrench_2_sponsors.njk",

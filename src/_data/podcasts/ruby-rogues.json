@@ -1,7 +1,8 @@
 {
   "title": "Ruby Rogues",
   "slug": "ruby-rogues",
-  "artwork": "ruby-rogues.jpg",
+  "artwork": "ruby-rogues-500.jpg",
+  "artwork_front": "ruby-rogues-270.jpg",
   "tag": "ruby_rogues",
   "current": true,
   "sponsor_layout": "podwrench_3_sponsors.njk",

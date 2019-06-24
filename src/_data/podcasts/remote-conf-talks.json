@@ -1,0 +1,12 @@
+{
+  "title": "Remote Confeerence Talks",
+  "slug": "remote-conf-talks",
+  "artwork": "RemoteConfs-500.jpg",
+  "artwork_front": "RemoteConf-270.jpg",
+  "sponsor_layout": "sitewide_sidebar_sponsors.njk",
+  "tag": "remote_conf_talks",
+  "current": false,
+  "color": "blue",
+  "linkedin": "https://linkedin.com/company/devchat",
+  "rss": "https://feeds.feedwrench.com/remote-conf-talks.rss"
+}
