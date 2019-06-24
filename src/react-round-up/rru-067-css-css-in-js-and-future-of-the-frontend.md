@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: react-round-up
 title: 'RRU 067:  CSS, CSS-in-JS, and Future of the Frontend '
-date: 2019-06-24T16:20:48.444Z
+date: 2019-06-25T10:00:48.444Z
 episode_number: '067'
 duration: '49:09'
 audio_url: >-
