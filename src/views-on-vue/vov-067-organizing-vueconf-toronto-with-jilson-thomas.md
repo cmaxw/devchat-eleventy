@@ -14,10 +14,10 @@ tags:
 ---
 # Sponsors
 
-* Netlify
-* Sentry use the code “devchat” for 2 months free on Sentry small
-* Triplebyte offers a $1000 signing bonus
-* CacheFly
+* [Netlify](https://www.netlify.com/)
+* [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small
+* [Triplebyte](https://triplebyte.com/vue) offers a $1000 signing bonus
+* [CacheFly](https://www.cachefly.com/)
 
 ## Panel
 
@@ -32,27 +32,36 @@ Jilson Thomas shares how he got started in Vue. He gives the origin story of Vue
 
 ## Links
 
-* [https://twitter.com/jilsonthomas](https://twitter.com/jilsonthomas)
-* [https://vuejobs.com/ ](https://vuejobs.com/)
+* [https://twitter.com/jilsonthomas
+  ](https://twitter.com/jilsonthomas)
+* [https://vuejobs.com/ 
+  ](https://vuejobs.com/)
 * [https://vuetoronto.com/ ](https://vuetoronto.com/)
-* [https://2019.jsconf.eu/news/the-jsconf-cssconf-eu-finances/ ](https://2019.jsconf.eu/news/the-jsconf-cssconf-eu-finances/)
-* [https://www.facebook.com/ViewsonVue](https://www.facebook.com/ViewsonVue)
-* [https://twitter.com/viewsonvue](https://twitter.com/viewsonvue)
+* [https://2019.jsconf.eu/news/the-jsconf-cssconf-eu-finances/ 
+  ](https://2019.jsconf.eu/news/the-jsconf-cssconf-eu-finances/)
+* [https://www.facebook.com/ViewsonVue
+  ](https://www.facebook.com/ViewsonVue)
+* [https://twitter.com/viewsonvue
+  ](https://twitter.com/viewsonvue)
 
 ## Picks
 
 **Jilson Thomas:**
 
-* [https://refactoringui.com/ ](https://refactoringui.com/)
-* [ZOOKYO Webcam Cover Slide for Laptop and Mobile, Ultra Thin, Online Security, Best Camera Cover Sticker for MacBook Smartphone Mac Tablet & Cellphone, 3M Adhesive, Black 6 Pack](https://www.amazon.ca/gp/product/B07G8SWRDG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [https://refactoringui.com/ 
+  ](https://refactoringui.com/)
+* [ZOOKYO Webcam Cover Slide for Laptop and Mobile, Ultra Thin, Online Security, Best Camera Cover Sticker for MacBook Smartphone Mac Tablet & Cellphone, 3M Adhesive, Black 6 Pack
+  ](https://www.amazon.ca/gp/product/B07G8SWRDG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 * <https://twitter.com/samantha_ming> 
 
 **Ben Hong:**
 
-* New Orleans, Louisiana 
+* New Orleans
+  , Louisiana 
 * Super Smash Brothers Ultimate
 
 **Chris Fritz:**
 
 * Mocktails
-* [https://mealsquares.com/](https://mealsquares.com/)
+* [https://mealsquares.com/
+  ](https://mealsquares.com/)
