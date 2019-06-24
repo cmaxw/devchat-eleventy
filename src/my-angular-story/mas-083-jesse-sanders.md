@@ -24,19 +24,18 @@ tags:
 
 ## Episode Summary
 
-Jesse Sanders is the founder/CEO of BrieBug Software and an Angular Google Developer Expert (GDE). He regularly speaks around the world on Angular and related web technologies to inform and inspire developers on how to build the next generation of web applications.
+Charles Max Wood is LIVE from the podcast booth with Jesse Sanders at the [ng-conf](https://www.ng-conf.org/). Jesse is the founder/CEO of BrieBug Software and an Angular Google Developer Expert (GDE). Jesse talks about the importance of end to end testing which was also the subject of his speech at ng-conf.
 
 ## Links
 
 * [Adventures in Angular 169: NGRX Entities with Jesse Sanders](https://devchat.tv/adv-in-angular/aia-169-ngrx-entities-jesse-sanders/)
+* [Jesse's ng-conf Talk](https://www.youtube.com/watch?v=GH9Dvo_BYkk)
 * [Jesse's LinkedIN](https://www.linkedin.com/in/jessesandersbriebug)
-* [Jesse's Twitter](@JesseS_BrieBug)
+* [Jesse's Twitter](@JesseS_BrieBug) 
+* [cypress.io](https://www.cypress.io/)
+* [ng-conf](https://www.ng-conf.org/)
 * <https://www.briebug.com/>
 * [3-Day Angular Bootcamp by BrieBug](https://www.eventbrite.com/e/3-day-angular-bootcamp-by-briebug-tickets-63881946622?aff=ebdssbdestsearch)
 * [BrieBug Blog](https://medium.com/briebug-blog)
 
-## Picks:
-
-**Jesse Sanders:**
-
-**Charles Max Wood:**
+##
