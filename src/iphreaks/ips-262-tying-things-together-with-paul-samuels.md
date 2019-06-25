@@ -5,7 +5,8 @@ title: 'iPS 262: Tying Things Together with Paul Samuels'
 date: 2019-06-25T10:00:50.781Z
 episode_number: '262'
 duration: '45:54'
-audio_url: 'https://media.devchat.tv/iphreaks/iPS_262_Paul_Samuels.mp3'
+audio_url: >-
+  https://media.devchat.tv/iphreaks/iPS_262_Tying_Things_Together_with_Paul_Samuels.mp3
 tags:
   - iphreaks
   - podcast
