@@ -24,10 +24,9 @@ tags:
 
 
 
-
-
 ## Links
 
+* [RR 410: Kubernetes with Kurtis Rainbolt-Greene](https://devchat.tv/ruby-rogues/rr-410-kubernetes-with-kurtis-rainbolt-greene/)
 * [Kurtis' Twitter](https://twitter.com/krainboltgreene)
 * [Kurtis' GitHub](https://github.com/krainboltgreene)
 * [Kurtis' LinkedIn](https://www.linkedin.com/in/krainboltgreene)
@@ -35,10 +34,16 @@ tags:
 * Devchat.tv on Facebook
 * Devchat.tv
 
-
-
 ## Picks
 
 **Kurtis Rainbolt-Greene:**
 
+* [Foundation | A New Era of Organic City-Building](https://www.polymorph.games/foundation/news/)
+
  **Charles Max Wood:**
+
+* [The 12 Week Year by Brian P. Moran](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234)
+* <https://www.notion.so/>
+* [Podwrench.com](https://podwrench.com/) - if you are thinking of starting a podcast, reach out to [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+* Many more exciting new podcasts are starting on [Devchat.tv](https://devchat.tv/) be sure to check it out:
+  *
