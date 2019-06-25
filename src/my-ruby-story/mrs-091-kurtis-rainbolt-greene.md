@@ -46,4 +46,8 @@ tags:
 * <https://www.notion.so/>
 * [Podwrench.com](https://podwrench.com/) - if you are thinking of starting a podcast, reach out to [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
 * Many more exciting new podcasts are starting on [Devchat.tv](https://devchat.tv/) be sure to check it out:
-  *
+  * Adventures in Blockchain
+  * Adventures in Devops
+  * Adventures in .NET
+  * Data Therapy
+  * Sustain Our Software
