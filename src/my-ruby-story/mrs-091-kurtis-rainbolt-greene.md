@@ -51,3 +51,10 @@ tags:
   * Adventures in .NET
   * Data Therapy
   * Sustain Our Software
+* If you are interested in becoming a host on one of these shows reach out to [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+* Other exciting topics [Devchat.tv](https://devchat.tv/) is looking to host podcasts on are:
+  * Artificial Intelligence
+  * Machine Learning
+  * Virtual Reality/ Augmented Reality
+  * Python
+* We have just launched the new [Devchat.tv](https://devchat.tv/) - make sure to check it out and give feedback to [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
