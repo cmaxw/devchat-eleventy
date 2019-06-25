@@ -156,12 +156,13 @@ page_class: category-layout-5
       </div>
 
       <div class="col-lg-3">
-        {% include 'subscribe.njk' %}
+        {% include "subscribe.njk" %}
+        {% include "social_links.njk" %}
 
         {% if podcast %}
           {% include podcasts[ podcast ].sponsor_layout %}
         {% else %}
-          {% include 'sitewide_sidebar_sponsors.njk' %}
+          {% include "sitewide_sidebar_sponsors.njk" %}
         {% endif %}
 
           <div class="post-list-item widgets">

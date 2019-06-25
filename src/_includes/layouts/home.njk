@@ -10,10 +10,10 @@ date: 2000-01-01
 			<div class="col-lg-3 pr-10">
 				<div class="ts-post-overlay-style-1 ts-post-style-5">
 					{% for podcast in collections.js_jabber | head(1)  %}
-						{% include 'episode_thumb.njk' %}
+						{% include "episode_thumb.njk" %}
 					{% endfor %}
 					{% for podcast in collections.ruby_rogues | head(1)  %}
-						{% include 'episode_thumb.njk' %}
+						{% include "episode_thumb.njk" %}
 					{% endfor %}
 				</div>
 			</div>
@@ -49,10 +49,10 @@ date: 2000-01-01
 			<div class="col-lg-3 pl-0">
 				<div class="ts-post-overlay-style-1 ts-post-style-5">
 					{% for podcast in collections.adv_in_angular | head(1)  %}
-						{% include 'episode_thumb.njk' %}
+						{% include "episode_thumb.njk" %}
 					{% endfor %}
 					{% for podcast in collections.views_on_vue | head(1)  %}
-						{% include 'episode_thumb.njk' %}
+						{% include "episode_thumb.njk" %}
 					{% endfor %}
 				</div>
 			</div>

@@ -144,7 +144,7 @@ layout: layouts/base.njk
 						<h2 class="ts-title">Most Popular</h2>
 
 						<div class="most-populers owl-carousel">
-							{%- for post in collections.popular -%}
+							{% for post in collections.popular %}
 							<div class="item">
 								<a class="post-cat ts-yellow-bg" href="/{{post.data.podcast}}">{{podcasts[post.data.podcast].title}}</a>
 								<div class="ts-post-thumb">
@@ -163,7 +163,7 @@ layout: layouts/base.njk
 								</div>
 							</div>
 							<!-- ts-grid-box end-->
-							{%- endfor -%}
+							{% endfor %}
 						</div>
 						<!-- most-populers end-->
 					</div>
@@ -171,12 +171,13 @@ layout: layouts/base.njk
 				</div>
 				<!-- col end -->
 				<div class="col-lg-3">
-        {% include 'subscribe.njk' %}
+        {% include "subscribe.njk" %}
+        {% include "social_links.njk" %}
 
         {% if podcast %}
           {% include podcasts[ podcast ].sponsor_layout %}
         {% else %}
-          {% include 'sitewide_sidebar_sponsors.njk' %}
+          {% include "sitewide_sidebar_sponsors.njk" %}
         {% endif %}
 
           <div class="post-list-item widgets">

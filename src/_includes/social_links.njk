@@ -1,7 +1,4 @@
-{% set baseObj = sitewide %}
 {% if podcast %}
-{% set baseObj = podcasts[podcast] %}
-{% endif %}
 
 <div class="widgets widgets-item">
   <h3 class="widgets-title">
@@ -9,33 +6,33 @@
   </h3>
 
   <ul class="ts-block-social-list">
-    {% if baseObj['facebook'] %}
+    {% if podcasts[podcast]['facebook'] %}
     <li class="ts-facebook">
-      <a href="{{baseObj['facebook']}}">
+      <a href="{{podcasts[podcast]['facebook']}}">
         <i class="fa fa-facebook"></i>
         <b>Facebook </b>
       </a>
     </li>
     {% endif %}
-    {% if baseObj['twitter'] %}
+    {% if podcasts[podcast]['twitter'] %}
     <li class="ts-twitter">
-      <a href="{{baseObj['twitter']}}">
+      <a href="{{podcasts[podcast]['twitter']}}">
         <i class="fa fa-twitter"></i>
         <b>Twitter </b>
       </a>
     </li>
     {% endif %}
-    {% if baseObj['linkedin'] %}
+    {% if podcasts[podcast]['linkedin'] %}
     <li class="ts-linkedin">
-      <a href="{{baseObj['linkedin']}}">
+      <a href="{{podcasts[podcast]['linkedin']}}">
         <i class="fa fa-linkedin"></i>
         <b>LinkedIn</b>
       </a>
     </li>
     {% endif %}
-    {% if baseObj['youtube'] %}
+    {% if podcasts[podcast]['youtube'] %}
     <li class="ts-youtube">
-      <a href="{{baseObj['youtube']}}">
+      <a href="{{podcasts[podcast]['youtube']}}">
         <i class="fa fa-youtube"></i>
         <b>YouTube</b>
       </a>
@@ -44,3 +41,46 @@
   </ul>
 </div>
 <!-- end-->
+{% else %}
+<div class="widgets widgets-item">
+  <h3 class="widgets-title">
+    <span>On social</span>
+  </h3>
+
+  <ul class="ts-block-social-list">
+    {% if sitewide['facebook'] %}
+    <li class="ts-facebook">
+      <a href="{{sitewide['facebook']}}">
+        <i class="fa fa-facebook"></i>
+        <b>Facebook </b>
+      </a>
+    </li>
+    {% endif %}
+    {% if sitewide['twitter'] %}
+    <li class="ts-twitter">
+      <a href="{{sitewide['twitter']}}">
+        <i class="fa fa-twitter"></i>
+        <b>Twitter </b>
+      </a>
+    </li>
+    {% endif %}
+    {% if sitewide['linkedin'] %}
+    <li class="ts-linkedin">
+      <a href="{{sitewide['linkedin']}}">
+        <i class="fa fa-linkedin"></i>
+        <b>LinkedIn</b>
+      </a>
+    </li>
+    {% endif %}
+    {% if sitewide['youtube'] %}
+    <li class="ts-youtube">
+      <a href="{{sitewide['youtube']}}">
+        <i class="fa fa-youtube"></i>
+        <b>YouTube</b>
+      </a>
+    </li>
+    {% endif %}
+  </ul>
+</div>
+<!-- end-->
+{% endif %}
