@@ -40,7 +40,7 @@ tags:
 
 * [Foundation | A New Era of Organic City-Building](https://www.polymorph.games/foundation/news/)
 
- **Charles Max Wood:**
+**Charles Max Wood:**
 
 * [The 12 Week Year by Brian P. Moran](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234)
 * <https://www.notion.so/>
@@ -57,4 +57,4 @@ tags:
   * Machine Learning
   * Virtual Reality/ Augmented Reality
   * Python
-* We have just launched the new [Devchat.tv](https://devchat.tv/) - make sure to check it out and give feedback to [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
+* We have just launched the new [Devchat.tv](https://devchat.tv/)! - make sure to check it out and give feedback to [Charles Max Wood](https://twitter.com/cmaxw?lang=en)
