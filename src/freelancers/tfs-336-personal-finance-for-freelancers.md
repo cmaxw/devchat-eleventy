@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: freelancers
 title: 'TFS 336:  Personal Finance for Freelancers'
-date: 2019-06-25T22:00:16.647Z
+date: 2019-06-25T10:00:16.647Z
 episode_number: '336'
 duration: '56:58'
 audio_url: >-
