@@ -205,17 +205,12 @@ layout: layouts/base.njk
                   <img class="d-flex sidebar-img" src="{{post.data.image}}" alt="">
                   <div class="media-body">
                     <span class="post-tag">
-                      {% set postColor = "pink" %}
-                      {% set postParent = "blog" %}
-                      {% set show = "Blog" %}
                       {% if post.data.podcast %}
-                        {% set podcast = podcasts[ post.data.podcast ] %}
-                        {% set postColor = podcast.color %}
-                        {% set postParent = podcast.title %}
-                        {% set show = podcast.title %}
+	                      <a href="/{{podcasts[post.data.podcast].slug}}" class="{{podcasts[post.data.podcast].color}}-color"> {{podcasts[post.data.podcast].title}}</a>
+											{% else %}
+	                      <a href="/blog" class="pink-color"> Blog</a>
                       {% endif %}
                       
-                      <a href="/{{postParent}}" class="{{postColor}}-color"> {{show}}</a>
                     </span>
                     <h4 class="post-title">
                       <a href="{{post.url | url}}">{{post.data.title}} </a>
@@ -233,17 +228,11 @@ layout: layouts/base.njk
                   <img class="d-flex sidebar-img" src="{{post.data.image}}" alt="">
                   <div class="media-body">
                     <span class="post-tag">
-                      {% set postColor = "pink" %}
-                      {% set postParent = "blog" %}
-                      {% set show = "Blog" %}
                       {% if post.data.podcast %}
-                        {% set podcast = podcasts[ post.data.podcast ] %}
-                        {% set postColor = podcast.color %}
-                        {% set postParent = podcast.title %}
-                        {% set show = podcast.title %}
+	                      <a href="/{{podcasts[post.data.podcast].slug}}" class="{{podcasts[post.data.podcast].color}}-color"> {{podcasts[post.data.podcast].title}}</a>
+											{% else %}
+	                      <a href="/blog" class="pink-color"> Blog</a>
                       {% endif %}
-                      
-                      <a href="/{{postParent}}" class="{{postColor}}-color"> {{show}}</a>
                     </span>
                     <h4 class="post-title">
                       <a href="{{ post.url | url }}">{{post.data.title}}</a>

@@ -185,7 +185,7 @@ title: Devchat.tv - A Podcast for Every Programming Community
 								<!-- nav menu start-->
 								<ul class="nav-menu">
 									<li {% if podcast %}class="active"{% endif %}>
-										<a href="#">Podcasts</a>
+										<a href="#"><i class="fa fa-podcast"></i> Podcasts</a>
 										<div class="megamenu-panel ts-mega-menu">
 											<div class="megamenu-lists">
 												<ul class="megamenu-list list-col-2">
@@ -250,16 +250,25 @@ title: Devchat.tv - A Podcast for Every Programming Community
 										</div>
 									</li>
 									<li {% if author or (page.url == '/blog/') %}class="active"{% endif %}>
-										<a href="/blog">Blog</a>
+										<a href="/blog"><i class="fa fa-th"></i> Blog</a>
 									</li>
 									<li {% if page.url == '/about/' %}class="active"{% endif %}>
-										<a href="/about">About</a>
+										<a href="/about"><i class="fa fa-bolt"></i> About</a>
 									</li>
 									<li {% if page.url == '/support/' %}class="active"{% endif %}>
-										<a href="/support">Support the Podcasts</a>
+										<a href="/support">
+											<i class="fa fa-heart"></i> Support the Podcasts
+										</a>
 									</li>
 									<li{% if page.url == '/sponsor/' %}class="active"{% endif %}>
-										<a href="/sponsor">Sponsor</a>
+										<a href="/sponsor">
+											<i class="fa fa-bullhorn"></i> Sponsor
+										</a>
+									</li>
+									<li>
+										<a href="https://discord.gg/z7RNTHR">
+											<i class="fa fa-comments"></i> Chat
+										</a>
 									</li>
 									<li {% if page.url == '/subscribe/' %}class="active"{% endif %}>
 										<a href="/subscribe">
