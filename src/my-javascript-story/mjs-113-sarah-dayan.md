@@ -22,6 +22,10 @@ tags:
 
 ## **Episode Summary**
 
+Sarah Dayan is a Frontend Software Engineer working for Algolia in Paris. She is also the author of Dinero.js.   Sarah first got introduced to computers when she was a child. She spent hours playing on her grandmother's computer with dial-up internet. At age 15, she created her first HTML website. 
+
+
+
 ## **Links**
 
 * JavaScript Jabber 259: Clean Code JavaScript with Ryan McDermott
