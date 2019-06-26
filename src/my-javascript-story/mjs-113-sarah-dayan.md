@@ -22,13 +22,13 @@ tags:
 
 ## **Episode Summary**
 
-Sarah Dayan is a Frontend Software Engineer working for Algolia in Paris. She is also the author of Dinero.js.   Sarah first got introduced to computers when she was a child. She spent hours playing on her grandmother's computer with dial-up internet. At age 15, she created her first HTML website. 
+Sarah Dayan is a Frontend Software Engineer working for Algolia in Paris. She is also the author of Dinero.js.   Sarah first got introduced to computers when she was a child. She spent hours playing on her grandmother's computer with dial-up internet. At age 15, she created her first HTML website. Sarah and Charles discuss the evolution of front-end development. 
 
 
 
 ## **Links**
 
-* JavaScript Jabber 259: Clean Code JavaScript with Ryan McDermott
+* [JavaScript Jabber 259: Clean Code JavaScript with Ryan McDermott](https://devchat.tv/js-jabber/jsj-351-dinero-js-with-sarah-dayan/)
 * Sarah's GitHub
 * [Sarah's Twitter](https://twitter.com/frontstuff_io?lang=en)
 * Sarah's LinkedIn 
