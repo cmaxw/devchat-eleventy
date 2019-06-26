@@ -22,7 +22,7 @@ tags:
 
 ## Episode Summary
 
-Kurtis is a Senior Software Engineer with over 13 years of experience. He learned programming by playing [MUSH](https://en.wikipedia.org/wiki/MUSH). 
+Kurtis is a Senior Software Engineer with over 13 years of experience. He learned programming by playing [MUSH](https://en.wikipedia.org/wiki/MUSH) is a text-based online social medium to which multiple users are connected at the same time. He already loved programming and when he figured out that he could make a living with it he was hooked. 
 
 
 
