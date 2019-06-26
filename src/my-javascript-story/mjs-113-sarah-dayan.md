@@ -22,9 +22,7 @@ tags:
 
 ## **Episode Summary**
 
-Sarah Dayan is a Frontend Software Engineer working for Algolia in Paris. She is also the author of Dinero.js which was the result of a bug they discovered in JavaScript. Sarah first got introduced to computers when she was a child. She spent hours playing on her grandmother's computer with dial-up internet. At age 15, she created her first HTML website. Sarah and Charles discuss the evolution of front-end development. 
-
-
+Sarah Dayan is a Frontend Software Engineer working for Algolia in Paris. She is also the author of Dinero.js which was the result of a [production bug](https://devchat.tv/js-jabber/jsj-351-dinero-js-with-sarah-dayan/) they discovered in JavaScript. Sarah first got introduced to computers when she was a child. She spent hours playing on her grandmother's computer with dial-up internet. At age 15, she created her first HTML website. Sarah and Charles discuss the evolution of front-end development. Listen to the show to find out more about Sarah's journey as a front-end developer and the projects she is working on now. 
 
 ## **Links**
 
