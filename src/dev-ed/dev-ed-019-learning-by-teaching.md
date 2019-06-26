@@ -20,14 +20,10 @@ tags:
 ---
 ## Panel
 
-* [Joe Eames
-  ](https://thinkster.io/)
-* [Brooke Avery
-  ](https://thinkster.io/)
-* [Luis Hernandez
-  ](https://lambdaschool.com/company/)
-* [Sam Julien
-  ](https://twitter.com/samjulien?lang=en)
+* [Joe Eames](https://thinkster.io/)
+* [Brooke Avery](https://thinkster.io/)
+* [Luis Hernandez](https://lambdaschool.com/company/)
+* [Sam Julien](https://twitter.com/samjulien?lang=en)
 
 Joined by special guests: **Preston Lamb, Aaron Frost**
 
@@ -40,11 +36,8 @@ They talk about ways to tackle not knowing something when asked about it, and wh
 
 ## Links
 
-* [
-  Preston’s Twitter
-  ](https://twitter.com/prestonjlamb)
-* [Aaron’s Twitter
-  ](https://twitter.com/aaronfrost?lang=en)
+* [Preston’s Twitter](https://twitter.com/prestonjlamb)
+* [Aaron’s Twitter](https://twitter.com/aaronfrost?lang=en)
 * [RxJS Conference
   ](https://www.rxjs.live/)
 
@@ -52,28 +45,23 @@ They talk about ways to tackle not knowing something when asked about it, and wh
 
 **Aaron Frost:**
 
-* [Ice Fishing
-  ](https://en.wikipedia.org/wiki/Ice_fishing)
+* [Ice Fishing](https://en.wikipedia.org/wiki/Ice_fishing)****
 
 **Preston Lamb:**
 
-* [Plex Media Server
-  ](https://www.plex.tv/)
+* [Plex Media Server](https://www.plex.tv/)****
 
 **Brooke Avery:**
 
-* [Spider-Man by Sphero
-  ](https://www.amazon.com/Sphero-SP001ROW-Spider-Man-by/dp/B06XCLWMDP?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [Spider-Man by Sphero](https://www.amazon.com/Sphero-SP001ROW-Spider-Man-by/dp/B06XCLWMDP?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)****
 
 **Sam Julien:**
 
-* [OmniFocus
-  ](https://www.omnigroup.com/omnifocus)
+* [OmniFocus](https://www.omnigroup.com/omnifocus)****
 
 **Luis Hernandez:**
 
-* [Pi-hole
-  ](https://pi-hole.net/)
+* [Pi-hole](https://pi-hole.net/)****
 
 **Joe Eames:**
 
