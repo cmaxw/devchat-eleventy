@@ -40,4 +40,14 @@ Sarah Dayan is a Frontend Software Engineer working for Algolia in Paris. She is
 
 **Sarah Dayan:**
 
+* Zdog Library
+* Dear White People TV Series
+* Mass Effect Trilogy for PC
+
 **Charles Max Wood:**
+
+* Taking a roadtri
+* Hotels.com
+* Velocity 2019
+* Food Fight Show
+* Netlify Dev
