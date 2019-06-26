@@ -43,6 +43,8 @@ They talk about ways to tackle not knowing something when asked about it, and wh
 
 ## Picks
 
+****
+
 **Aaron Frost:**
 
 * [Ice Fishing](https://en.wikipedia.org/wiki/Ice_fishing)****
