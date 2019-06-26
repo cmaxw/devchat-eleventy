@@ -45,8 +45,7 @@ In this episode of JavaScript Jabber, special guest Dan Shappir, Performance Tec
 
 ## Links
 
-* [Dan’s Twitter
-  ](https://twitter.com/DanShappir?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [Dan’s Twitter](https://twitter.com/DanShappir?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 * [Dan’s GitHub](https://github.com/DanShappir)
 * [SSR](https://vuejs.org/v2/guide/ssr.html)
 * [WeakMap](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap)
@@ -76,10 +75,8 @@ Follow JavaScript Jabber on[ Devchat.tv](https://devchat.tv/js-jabber/), [Facebo
 
 **Charles Max Wood:**
 
-* [EverywhereJS
-  ](https://keepcurrentacademy.com/everywherejs/)
-* [Christopher Buecheler’s books
-  ](https://www.amazon.com/Christopher-Buecheler/e/B004KA4MLE/ref=as_li_ss_tl?ref=sr_ntt_srch_lnk_1&qid=1559065375&sr=8-1&linkCode=sl2&tag=devchattv-20&linkId=788aa3909b6b80453b7d3f84bcba0937&language=en_US)
+* [EverywhereJS](https://keepcurrentacademy.com/everywherejs/)
+* [Christopher Buecheler’s books](https://www.amazon.com/Christopher-Buecheler/e/B004KA4MLE/ref=as_li_ss_tl?ref=sr_ntt_srch_lnk_1&qid=1559065375&sr=8-1&linkCode=sl2&tag=devchattv-20&linkId=788aa3909b6b80453b7d3f84bcba0937&language=en_US)
 * [Get a Coder Job - Publishing soon!
   ](https://leanpub.com/backdoor)
 
