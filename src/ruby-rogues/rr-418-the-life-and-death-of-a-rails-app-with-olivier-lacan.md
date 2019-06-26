@@ -40,7 +40,7 @@ With Special Guest: Olivier Lacan
 
 ### **Episode Summary**
 
-Olivier Lacan joins the panel again. He currently works for Pluralsight. Today they are talking about the spectrum of creating a Rails app, or any app, from the birth of the idea to the death of the project. They stress the importance of planning for updates. Olivier talks about his experience in creating CodeSchool, which has now been incorporated into Pluralsight. David also shares his experience with the life and death of a project. They talk about technical debt and the trouble that it can create, and the importance of making your Rails application maintainable. 
+Olivier Lacan joins the panel again. He currently works for Pluralsight. Today they are talking about the spectrum of creating a Rails app, or any app, from the birth of the idea to the death of the project. They stress the importance of planning for updates. Olivier talks about his experience in maintaining CodeSchool, which has been incorporated into Pluralsight. David also shares his experience with the life and death of a project. They talk about technical debt and the trouble that it can create, and the importance of making your Rails application maintainable. 
 
 Olivier talks about his experience when CodeSchool was acquired by Pluralsight. The panel discusses the inevitability of the end of an application and different ways of managing company integration. They talk about ways to plan for shutting down a project. One of the best ways to make integration easier is to clean up your code and always be considering what data needs to be kept and what can be truncated. They discuss some of the issues around storing customer data and respecting individual privacy. 
 
