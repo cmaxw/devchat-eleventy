@@ -31,10 +31,9 @@ Sarah Dayan is a Frontend Software Engineer working for Algolia in Paris. She is
 * [JavaScript Jabber 259: Clean Code JavaScript with Ryan McDermott](https://devchat.tv/js-jabber/jsj-351-dinero-js-with-sarah-dayan/)
 * [Sarah's GitHub](https://github.com/sarahdayan)
 * [Sarah's Twitter](https://twitter.com/frontstuff_io?lang=en)
-* Sarah's LinkedIn 
-* https://www.facebook.com/javascriptjabber
-* https://twitter.com/JSJabber
-* https://www.facebook.com/DevChattv
+* <https://www.facebook.com/javascriptjabber>
+* <https://twitter.com/JSJabber>
+* <https://www.facebook.com/DevChattv>
 
 ## Picks
 
