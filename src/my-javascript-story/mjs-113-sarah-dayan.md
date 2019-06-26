@@ -36,8 +36,6 @@ Sarah Dayan is a Frontend Software Engineer working for Algolia in Paris. She is
 
 ## Picks
 
-## 
-
 **Sarah Dayan:**
 
 * Zdog Library
@@ -46,7 +44,7 @@ Sarah Dayan is a Frontend Software Engineer working for Algolia in Paris. She is
 
 **Charles Max Wood:**
 
-* Taking a roadtri
+* Taking a roadtrip
 * Hotels.com
 * Velocity 2019
 * Food Fight Show
