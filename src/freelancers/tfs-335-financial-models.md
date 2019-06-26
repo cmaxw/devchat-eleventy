@@ -6,7 +6,7 @@ date: 2019-06-18T10:00:00.000Z
 episode_number: '335'
 duration: '51:39'
 audio_url: 'https://media.devchat.tv/freelancers/TFS_335_Financial_Models.mp3'
-image: /images/uploads/podcast_show_thumb.jpg
+image: ''
 tags:
   - freelancers
   - podcast
