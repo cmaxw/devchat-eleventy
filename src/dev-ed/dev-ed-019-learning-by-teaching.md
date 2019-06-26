@@ -45,23 +45,23 @@ They talk about ways to tackle not knowing something when asked about it, and wh
 
 **Aaron Frost:**
 
-* [Ice Fishing](https://en.wikipedia.org/wiki/Ice_fishing)****
+* [Ice Fishing](https://en.wikipedia.org/wiki/Ice_fishing)
 
 **Preston Lamb:**
 
-* [Plex Media Server](https://www.plex.tv/)****
+* [Plex Media Server](https://www.plex.tv/)
 
 **Brooke Avery:**
 
-* [Spider-Man by Sphero](https://www.amazon.com/Sphero-SP001ROW-Spider-Man-by/dp/B06XCLWMDP?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)****
+* [Spider-Man by Sphero](https://www.amazon.com/Sphero-SP001ROW-Spider-Man-by/dp/B06XCLWMDP?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 
 **Sam Julien:**
 
-* [OmniFocus](https://www.omnigroup.com/omnifocus)****
+* [OmniFocus](https://www.omnigroup.com/omnifocus)
 
 **Luis Hernandez:**
 
-* [Pi-hole](https://pi-hole.net/)****
+* [Pi-hole](https://pi-hole.net/)
 
 **Joe Eames:**
 
