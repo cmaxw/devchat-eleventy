@@ -7,7 +7,7 @@ episode_number: '336'
 duration: '56:58'
 audio_url: >-
   https://media.devchat.tv/freelancers/TFS_336_Personal_Finance_for_Freelancers.mp3
-image: /images/uploads/podcast_show_thumb.jpg
+image: ''
 tags:
   - freelancers
   - podcast
