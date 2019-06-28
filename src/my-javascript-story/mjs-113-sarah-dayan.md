@@ -22,20 +22,30 @@ tags:
 
 ## **Episode Summary**
 
+Sarah Dayan is a Frontend Software Engineer working for Algolia in Paris. She is also the author of Dinero.js which was the result of a [production bug](https://devchat.tv/js-jabber/jsj-351-dinero-js-with-sarah-dayan/) they discovered in JavaScript. Sarah first got introduced to computers when she was a child. She spent hours playing on her grandmother's computer with dial-up internet. At age 15, she created her first HTML website. Sarah and Charles discuss the evolution of front-end development. Listen to the show to find out more about Sarah's journey as a front-end developer and the projects she is working on now. 
+
 ## **Links**
 
-* JavaScript Jabber 259: Clean Code JavaScript with Ryan McDermott
-* Sarah's GitHub
+* [JSJ 351: Dinero.js with Sarah Dayan ](https://devchat.tv/js-jabber/jsj-351-dinero-js-with-sarah-dayan/)
+* [Sarah's GitHub](https://github.com/sarahdayan)
 * [Sarah's Twitter](https://twitter.com/frontstuff_io?lang=en)
-* Sarah's LinkedIn 
-* https://www.facebook.com/javascriptjabber
-* https://twitter.com/JSJabber
-* https://www.facebook.com/DevChattv
+* [Dinero.js](https://sarahdayan.github.io/dinero.js/)
+* <https://www.facebook.com/javascriptjabber>
+* <https://twitter.com/JSJabber>
+* <https://www.facebook.com/DevChattv>
 
 ## Picks
 
-## 
-
 **Sarah Dayan:**
 
+* [Zdog Library](https://zzz.dog/)
+* [Dear White People TV Series](https://www.imdb.com/title/tt5707802/)
+* [Mass Effect Trilogy for PC](https://www.origin.com/usa/en-us/store/mass-effect/mass-effect-trilogy)
+
 **Charles Max Wood:**
+
+* Taking a roadtrip
+* [Hotels.com](https://hotels.com/)
+* [Velocity 2019](https://velocity-conference.com/)
+* [Food Fight Show](foodfightshow.org/)
+* [Netlify Dev](https://www.netlify.com/)

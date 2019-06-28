@@ -22,17 +22,21 @@ tags:
 
 ## Episode Summary
 
+Kurtis is a Senior Software Engineer with over 13 years of experience. He learned programming by playing [MUSH](https://en.wikipedia.org/wiki/MUSH) is a text-based online social medium to which multiple users are connected at the same time. He already loved programming and when he figured out that he could make a living with it he was hooked. Kurtis talks about his journey as a developer and his role maintaining  Ruby's VCR library.  
+
 
 
 ## Links
 
 * [RR 410: Kubernetes with Kurtis Rainbolt-Greene](https://devchat.tv/ruby-rogues/rr-410-kubernetes-with-kurtis-rainbolt-greene/)
+* [Rubyland](https://rubyland.news/)
 * [Kurtis' Twitter](https://twitter.com/krainboltgreene)
 * [Kurtis' GitHub](https://github.com/krainboltgreene)
-* [Kurtis' LinkedIn](https://www.linkedin.com/in/krainboltgreene)
+* [Kurtis' LinkedIn](https://www.linkedin.com/in/krainboltgreene) 
+* [Media Arts Lab](https://www.mediaartslab.com/)
 * [EverywhereRB Ruby and Rails Community](https://keepcurrentacademy.com/everywhererb/)
-* Devchat.tv on Facebook
-* Devchat.tv
+* <https://devchat.tv/ruby-rogues/>
+* [Devchat.tv](https://devchat.tv/)
 
 ## Picks
 
