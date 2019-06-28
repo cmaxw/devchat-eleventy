@@ -21,7 +21,7 @@ tags:
 
 ## Panel
 
-* Nader Dabbit
+* Nader Dabit
 * Dave Ceddia
 * Lucas Reis
 
@@ -35,7 +35,7 @@ The panel shares their first experiences with CSS and compares CSS and CSS-in-JS
 
 ## Picks
 
-**Nader Dabbit:**
+**Nader Dabit:**
 
 * [21 Lessons for the 21st Century](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari-ebook/dp/B079WM7KLS/ref=sr_1_2?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 
