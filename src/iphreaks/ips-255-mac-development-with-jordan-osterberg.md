@@ -3,7 +3,7 @@ layout: layouts/post.njk
 podcast: iphreaks
 title: |
   iPS 255: Mac Development with Jordan Osterberg
-date: 2019-03-07T11:00:09.000Z
+date: 2019-03-07T10:00:00.000Z
 episode_number: 255
 duration: '35:40'
 audio_url: >-
@@ -12,6 +12,7 @@ image: /images/uploads/iphreaks-500.jpg
 tags:
   - iphreaks
   - podcast
+  - Jordan Osterberg
 ---
 ## **Sponsors**
 
