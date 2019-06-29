@@ -22,7 +22,6 @@ tags:
 * Jaim Zuber
 * Andrew Madsen
 
-
 **Joined by Special Guest:** Marc Kerstein
 
 ### **Summary**
@@ -34,6 +33,4 @@ Abracadabra! Marc Kerstein is an app developer for magicians from London! He has
 * [https://marckerstein.com/](https://www.hopperapp.com/)
 * [marckerstein.com/apps/](https://marckerstein.com/?apps)
 
-
-
-### ****
+###
