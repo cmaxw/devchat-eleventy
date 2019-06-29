@@ -28,8 +28,9 @@ tags:
 ## **Links**
 
 * [JavaScript Jabber 332: “You Learned JavaScript, Now What?” with Chris Heilmann](https://devchat.tv/js-jabber/jsj-332-you-learned-javascript-now-what-with-chris-heilmann/)
-* [Christian's Twitter](https://twitter.com/frontstuff_io?lang=en)
-* [Christian's GitHub](https://github.com/sarahdayan)
+* <https://christianheilmann.com/>
+* [Christian's Twitter](https://twitter.com/codepo8?lang=en)
+* [Christian's LinkedIn](https://www.linkedin.com/in/christianheilmann/)
 * [Christian's Medium](https://medium.com/@frontstuff) 
 * <https://www.facebook.com/javascriptjabber>
 * <https://twitter.com/JSJabber>
@@ -48,4 +49,4 @@ tags:
 **Charles Max Wood:**
 
 * [Privacy Badger - Google Chrome](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
-*
+* Adventures in DevOps - new podcast on <https://devchat.tv/>
