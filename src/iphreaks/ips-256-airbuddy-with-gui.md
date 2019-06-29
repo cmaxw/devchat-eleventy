@@ -29,6 +29,10 @@ The panel discusses Guilherme's new product AirBuddy, an app that helps you conn
 ### **Links**
 
 * [AirBuddy ](https://9to5mac.com/2019/01/28/airbuddy-airpods-w1-integration-mac/)
+* [Gumroad](https://gumroad.com/)
+* <https://gumroad.com/l/airbuddy>
+
+### **Picks**
 
 
 
