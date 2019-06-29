@@ -5,7 +5,7 @@ title: |
   iPS 255: Mac Development with Jordan Osterberg
 date: 2019-03-07T11:00:09.000Z
 episode_number: 255
-duration: '21:40'
+duration: '35:40'
 audio_url: >-
   https://media.devchat.tv/iphreaks/iPS_255_Mac_Development_with_Jordan_Osterberg.mp3
 image: /images/uploads/iphreaks-500.jpg
@@ -21,7 +21,7 @@ tags:
 ### **Panel**
 
 * Jaim Zuber
-* Andrew Madsen
+* Erica Sadun
 * Guilherme Rambo
 
 **Joined By Special Guest:** Jordan Osterberg
@@ -32,7 +32,10 @@ tags:
 
 ### **Links**
 
-* 
+* [Jordan's Twitter](https://twitter.com/osterbergjordan?lang=en)
+* [Countdown](https://countdowns.download/)
+* [Jordan's Dev.to](https://dev.to/jordanosterberg)
+* [Jordan Osterberg - YouTube](https://www.youtube.com/channel/UCiZQVaud0pAPfzA8busnRBA)
 
 ### **Picks**
 
@@ -40,7 +43,7 @@ tags:
 
 * <https://onetimesecret.com/>
 
-**Andrew Madsen:**
+**Erica Sadun:**
 
 * [Sundance Film Festival ](www.sundance.org/festivals/sundance-film-festival)
 * [I Am Mother (2019)](https://www.imdb.com/title/tt6292852/)
