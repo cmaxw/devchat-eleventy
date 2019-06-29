@@ -10,7 +10,7 @@ image: /images/uploads/myrubystory.jpg
 tags:
   - my_ruby_story
   - podcast
-  - Kurtis Rainbolt-Greene
+  - Leonardo Tegon
 ---
 # Sponsors
 
