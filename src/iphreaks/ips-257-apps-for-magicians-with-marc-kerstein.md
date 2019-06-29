@@ -8,6 +8,7 @@ episode_number: 257
 duration: 2598
 audio_url: >-
   https://media.devchat.tv/iphreaks/iPS_257_Apps_for_Magicians_with_Marc_Kerstein.mp3
+image: /images/uploads/iphreaks-500.jpg
 tags:
   - iphreaks
   - podcast
