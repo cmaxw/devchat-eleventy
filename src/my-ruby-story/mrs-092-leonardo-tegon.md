@@ -44,7 +44,8 @@ Leonardo Tegon is a software developer at Plataformatec, the company that create
 
 **Charles Max Wood:**
 
-* New podcasts on [Devchat.tv](https://devchat.tv/) - Sustain Our Software
+* New podcasts are being added on [Devchat.tv](https://devchat.tv/) - Sustain Our Software
 * Ladders with feet on them so they don't slide off - Charles had an accident while working on the roof of his father-in -law. 
-* The new [Devchat.tv](https://devchat.tv/) site. 
-* If you want to be on the [Devchat.tv](https://devchat.tv/) mailing list sign up for the Newsletter [here](https://devchat.activehosted.com/f/5).
+* Check out the new [Devchat.tv](https://devchat.tv/) site!
+* If you want to be on the [Devchat.tv](https://devchat.tv/) mailing list, sign up [here](https://devchat.activehosted.com/f/5).
+* [Cibola Burn (The Expanse) by James S. A. Corey](https://www.amazon.com/Cibola-Burn-Expanse-James-Corey/dp/0316334685)
