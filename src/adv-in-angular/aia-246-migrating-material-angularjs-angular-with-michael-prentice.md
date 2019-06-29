@@ -17,7 +17,7 @@ tags:
 
 * [Sentry](https://sentry.io/welcome) use the code “devchat” for 2 months free on Sentry small plan
 * [Angular Bootcamp](https://angularbootcamp.com/)
-* [Triplebyte](https://triplebyte.com/angular) offers a $1000 signing bonus
+* [Triplebyte](triplebyte.com/angular) offers a $1000 signing bonus
 * [CacheFly](https://www.cachefly.com)
 
 ## Panel
@@ -42,10 +42,12 @@ Michael is the owner of [DevIntent ](https://www.devintent.com/)and an [AngularJ
 
 **Aaron Frost:**
 
-* rxjs.live
-
-**Joe Eames:**
+* [rxjs.live](https://www.rxjs.live/)
 
 **Brian Love:**
+
+* ****
+
+**Joe Eames:**
 
 **Michael Prentice:**
