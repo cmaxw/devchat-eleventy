@@ -47,3 +47,6 @@ Leonardo Tegon is a software developer at Plataformatec, the company that create
 
 
  **Charles Max Wood:**
+
+* 
+* Ladders with feet on them so they don't slide off - Charles had an accident and fell
