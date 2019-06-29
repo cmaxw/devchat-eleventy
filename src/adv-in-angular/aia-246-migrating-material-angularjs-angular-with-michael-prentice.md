@@ -54,3 +54,6 @@ Michael Prentice is the owner of [DevIntent ](https://www.devintent.com/)and an 
 * <https://www.cypress.io/>
 
 **Michael Prentice:**
+
+* [Angular Hispano](https://angular.lat/)
+* [NG Bolivia 2019](https://ng-bolivia.org/)
