@@ -42,7 +42,9 @@ Leonardo Tegon is a software developer at Plataformatec, the company that create
 * [Legion](https://www.imdb.com/title/tt5114356/?ref_=nv_sr_1?ref_=nv_sr_1)
 * [How to Win Friends & Influence People by Dale Carnegie](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 
- **Charles Max Wood:**
+**Charles Max Wood:**
 
-* New podcasts on [Devchat.tv](https://devchat.tv/) - 
-* Ladders with feet on them so they don't slide off - Charles had an accident and fell
+* New podcasts on [Devchat.tv](https://devchat.tv/) - Sustain Our Software
+* Ladders with feet on them so they don't slide off - Charles had an accident while working on the roof of his father-in -law. 
+* The new [Devchat.tv](https://devchat.tv/) site. 
+* If you want to be on the [Devchat.tv](https://devchat.tv/) mailing list sign up for the Newsletter [here](https://devchat.activehosted.com/f/5).
