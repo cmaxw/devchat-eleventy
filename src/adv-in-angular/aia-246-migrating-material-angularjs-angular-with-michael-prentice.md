@@ -40,4 +40,12 @@ Michael is the owner of DevIntent and an AngularJS Material Lead Maintainer at R
 
 ## Picks
 
+****
+
+**Aaron Frost:**
+
+**Joe Eames:**
+
+**Brian Love:**
+
 **Michael Prentice:**
