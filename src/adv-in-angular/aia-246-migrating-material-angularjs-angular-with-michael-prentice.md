@@ -44,6 +44,8 @@ Michael is the owner of DevIntent and an AngularJS Material Lead Maintainer at R
 
 **Aaron Frost:**
 
+* rxjs.live
+
 **Joe Eames:**
 
 **Brian Love:**
