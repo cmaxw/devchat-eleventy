@@ -11,8 +11,9 @@ image: /images/uploads/iphreaks-500.jpg
 tags:
   - iphreaks
   - podcast
+  - Theodore Dubois
 ---
-#### **Panelis/ts:**
+#### ****
 
 # Sponsors
 
@@ -29,9 +30,12 @@ tags:
 
 ## Summary:
 
-
+Theodore explains what[ iSH](https://ish.app/) is to the panel. 
 
 ## **Links** :
+
+* [ iSH](https://ish.app/) 
+* 
 
 ## **Picks** :
 
