@@ -23,7 +23,7 @@ tags:
 
 ## **Episode Summary**
 
-
+ Christian is a Principal Software Development Engineer at Microsoft, working out of Berlin, Germany. 
 
 ## **Links**
 
@@ -31,7 +31,8 @@ tags:
 * <https://christianheilmann.com/>
 * [Christian's Twitter](https://twitter.com/codepo8?lang=en)
 * [Christian's LinkedIn](https://www.linkedin.com/in/christianheilmann/)
-* [Christian's Medium](https://medium.com/@frontstuff) 
+* [Christian's Medium ](https://medium.com/@codepo8)
+* [Christian's GitHub](https://github.com/codepo8)
 * <https://www.facebook.com/javascriptjabber>
 * <https://twitter.com/JSJabber>
 * <https://www.facebook.com/DevChattv>
