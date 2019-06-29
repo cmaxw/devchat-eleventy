@@ -34,6 +34,16 @@ The panel discusses Guilherme's new product AirBuddy, an app that helps you conn
 
 ### **Picks**
 
+**Jaim Zuber**
+
+**Andrew Madsen**
+
+* Sundance Film Festival 
+* I am Mother
+* Untitled The Amazing Jonathan
+
+Guilherme Rambo
+
 
 
 ###
