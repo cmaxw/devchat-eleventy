@@ -10,7 +10,7 @@ image: /images/uploads/myangularstory-300x300.jpg
 tags:
   - my_angular_story
   - podcast
-  - Jesse Sanders
+  - Christoffer Noring
 ---
 # Sponsors
 
