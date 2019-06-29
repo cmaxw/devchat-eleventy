@@ -30,7 +30,7 @@ tags:
 
 ## Episode Summary
 
-Michael is the owner of [DevIntent ](https://www.devintent.com/)and an [AngularJS Material](https://material.angularjs.org/) Lead Maintainer at [Rangle.io](https://rangle.io/). 
+Michael Prentice is the owner of [DevIntent ](https://www.devintent.com/)and an [AngularJS Material](https://material.angularjs.org/) Lead Maintainer at [Rangle.io](https://rangle.io/). 
 
 ## Links
 
@@ -50,5 +50,7 @@ Michael is the owner of [DevIntent ](https://www.devintent.com/)and an [AngularJ
 * [The Umbrella Academy](https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series))
 
 **Joe Eames:**
+
+* <https://www.cypress.io/>
 
 **Michael Prentice:**
