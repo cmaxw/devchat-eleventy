@@ -50,4 +50,5 @@ tags:
 **Charles Max Wood:**
 
 * [Privacy Badger - Google Chrome](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+* [Emacs ](https://www.gnu.org/s/emacs/)
 * Adventures in DevOps - new podcast on <https://devchat.tv/>
