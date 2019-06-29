@@ -30,6 +30,8 @@ tags:
 
 ## Episode Summary
 
+Michael is the owner of DevIntent and an AngularJS Material Lead Maintainer at Rangle.io. 
+
 ## Links
 
 * [Michael’s GitHub](https://github.com/Splaktar)
