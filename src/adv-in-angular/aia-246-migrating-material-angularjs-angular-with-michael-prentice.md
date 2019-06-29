@@ -46,7 +46,8 @@ Michael is the owner of [DevIntent ](https://www.devintent.com/)and an [AngularJ
 
 **Brian Love:**
 
-* ****
+* [Stephen Fluin - YouTube](https://www.youtube.com/channel/UCI9syw9doBbaQzZ3b4WT6rA)
+* [The Umbrella Academy](https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series))
 
 **Joe Eames:**
 
