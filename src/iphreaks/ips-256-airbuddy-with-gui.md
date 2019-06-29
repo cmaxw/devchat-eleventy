@@ -20,15 +20,16 @@ tags:
 
 * Jaim Zuber
 * Andrew Madsen
-* Gui Rambo
+* Guilherme Rambo
 
 ### **Summary**
 
-
+The panel discusses Guilherme's new product AirBuddy, an app that helps you connect AirPods to your computer.
 
 ### **Links**
 
-* [https://marckerstein.com/](https://www.hopperapp.com/)
-* [marckerstein.com/apps/](https://marckerstein.com/?apps)
+* [AirBuddy ](https://9to5mac.com/2019/01/28/airbuddy-airpods-w1-integration-mac/)
+
+
 
 ###
