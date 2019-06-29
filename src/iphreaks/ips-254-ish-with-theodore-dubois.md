@@ -36,6 +36,7 @@ Theodore talks about the [ iSH](https://ish.app/) app with the panel.
 
 * [ iSH](https://ish.app/) 
 * [Theodore's GitHub](https://github.com/tbodt)
+* [curses](https://en.wikipedia.org/wiki/Curses_(programming_library))
 
 ## **Picks** :
 
