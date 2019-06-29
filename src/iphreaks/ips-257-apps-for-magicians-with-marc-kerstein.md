@@ -5,7 +5,7 @@ title: |
   iPS 257:  Apps for Magicians with Marc Kerstein
 date: 2019-03-21T10:00:06.000Z
 episode_number: 257
-duration: '25:98'
+duration: '43:18'
 audio_url: >-
   https://media.devchat.tv/iphreaks/iPS_257_Apps_for_Magicians_with_Marc_Kerstein.mp3
 image: /images/uploads/iphreaks-500.jpg
