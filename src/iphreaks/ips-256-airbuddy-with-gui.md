@@ -5,7 +5,7 @@ title: |
   iPS 256: AirBuddy with Gui
 date: 2019-03-14T10:00:42.000Z
 episode_number: 256
-duration: 2074
+duration: '34:34'
 audio_url: 'https://media.devchat.tv/iphreaks/iPS_256_AirBuddy_with_Gui.mp3'
 image: /images/uploads/iphreaks-500.jpg
 tags:
