@@ -59,3 +59,4 @@ Michael Prentice is the owner of [DevIntent ](https://www.devintent.com/)and an 
 * [NG Bolivia 2019](https://ng-bolivia.org/)
 * [NG Honduras 2019](https://ng-honduras.org/)
 * [ngSpain](https://ngspain.com/)
+* [Frontend Masters](https://frontendmasters.com/)
