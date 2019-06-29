@@ -30,7 +30,7 @@ tags:
 
 ## Episode Summary
 
-Michael is the owner of DevIntent and an AngularJS Material Lead Maintainer at Rangle.io. 
+Michael is the owner of [DevIntent ](https://www.devintent.com/)and an [AngularJS Material](https://material.angularjs.org/) Lead Maintainer at [Rangle.io](https://rangle.io/). 
 
 ## Links
 
