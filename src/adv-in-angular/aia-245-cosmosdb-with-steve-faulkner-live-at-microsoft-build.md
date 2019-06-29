@@ -44,8 +44,6 @@ Listen to the show for more Cosmos DB updates and to find out how Steve he got h
 * [Microsoft Learn Resource](https://www.microsoft.com/en-us/build)
 * [Partitioning in Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview)
 
-
-
 ## Picks
 
 **Steve Faulkner:**
@@ -54,4 +52,4 @@ Listen to the show for more Cosmos DB updates and to find out how Steve he got h
 * [Overcooked on Steam](https://store.steampowered.com/app/448510/Overcooked/)
 * [Fastly](https://www.fastly.com/)
 
-**Charles Max Wood:**
+****
