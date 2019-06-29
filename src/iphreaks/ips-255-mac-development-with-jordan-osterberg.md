@@ -29,7 +29,7 @@ tags:
 
 ### **Summary**
 
-
+Jordan Osterberg talks about how he got into app development and his app [Countdown](https://countdowns.download/).
 
 ### **Links**
 
@@ -37,21 +37,12 @@ tags:
 * [Countdown](https://countdowns.download/)
 * [Jordan's Dev.to](https://dev.to/jordanosterberg)
 * [Jordan Osterberg - YouTube](https://www.youtube.com/channel/UCiZQVaud0pAPfzA8busnRBA)
+* [Marzipan](https://www.imore.com/marzipan)
 
 ### **Picks**
 
 **Jaim Zuber:**
 
-* <https://onetimesecret.com/>
-
 **Erica Sadun:**
 
-* [Sundance Film Festival ](www.sundance.org/festivals/sundance-film-festival)
-* [I Am Mother (2019)](https://www.imdb.com/title/tt6292852/)
-* [The Amazing Johnathan Documentary (2019) ](https://www.imdb.com/title/tt9358084/)
-
 **Guilherme Rambo:**
-
-* [Beats Studio 3 Wireless - Beats by Dre](https://www.beatsbydre.com/headphones/studio3-wireless)
-
-###
