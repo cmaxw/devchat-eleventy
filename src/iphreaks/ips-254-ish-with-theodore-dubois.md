@@ -30,12 +30,12 @@ tags:
 
 ## Summary:
 
-Theodore explains what[ iSH](https://ish.app/) is to the panel. 
+Theodore talks about the [ iSH](https://ish.app/) app with the panel. 
 
 ## **Links** :
 
 * [ iSH](https://ish.app/) 
-* 
+* [Theodore's GitHub](https://github.com/tbodt)
 
 ## **Picks** :
 
