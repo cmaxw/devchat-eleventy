@@ -10,6 +10,7 @@ image: /images/uploads/myjsstory-300x300.jpg
 tags:
   - my_javascript_story
   - podcast
+  - Christian Heilmann
 ---
 # Sponsors
 
@@ -26,7 +27,7 @@ tags:
 
 ## **Links**
 
-* JavaScript Jabber 332: “You Learned JavaScript, Now What?” with Chris Heilmann
+* [JavaScript Jabber 332: “You Learned JavaScript, Now What?” with Chris Heilmann](https://devchat.tv/js-jabber/jsj-332-you-learned-javascript-now-what-with-chris-heilmann/)
 * [Christian's Twitter](https://twitter.com/frontstuff_io?lang=en)
 * [Christian's GitHub](https://github.com/sarahdayan)
 * [Christian's Medium](https://medium.com/@frontstuff) 
@@ -36,8 +37,15 @@ tags:
 
 ## Picks
 
-## 
-
 **Christian Heilmann:**
 
+* <https://webhint.io/>
+* <http://csstricks.com/>
+* <https://dev.to/>
+* <https://codepen.io/>
+* [Microsoft Edge Insider](https://www.microsoftedgeinsider.com/) 
+
 **Charles Max Wood:**
+
+* [Privacy Badger - Google Chrome](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+*
