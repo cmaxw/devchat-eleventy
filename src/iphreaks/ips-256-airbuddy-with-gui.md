@@ -24,7 +24,7 @@ tags:
 
 ### **Summary**
 
-The panel discusses Guilherme's new product AirBuddy, an app that helps you connect AirPods to your computer.
+The panel discusses Guilherme's new product AirBuddy, an app he wrote that helps you connect AirPods to your computer.
 
 ### **Links**
 
@@ -34,16 +34,18 @@ The panel discusses Guilherme's new product AirBuddy, an app that helps you conn
 
 ### **Picks**
 
-**Jaim Zuber**
+**Jaim Zuber:**
 
-**Andrew Madsen**
+* <https://onetimesecret.com/>
 
-* Sundance Film Festival 
-* I am Mother
-* Untitled The Amazing Jonathan
+**Andrew Madsen:**
 
-Guilherme Rambo
+* [Sundance Film Festival ](www.sundance.org/festivals/sundance-film-festival)
+* [I Am Mother (2019)](https://www.imdb.com/title/tt6292852/)
+* [The Amazing Johnathan Documentary (2019) ](https://www.imdb.com/title/tt9358084/)
 
+**Guilherme Rambo:**
 
+* [Beats Studio 3 Wireless - Beats by Dre](https://www.beatsbydre.com/headphones/studio3-wireless)
 
 ###
