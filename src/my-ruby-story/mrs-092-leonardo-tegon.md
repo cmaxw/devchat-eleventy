@@ -23,7 +23,7 @@ tags:
 
 ## Episode Summary
 
-Leonardo Tegon is a software developer at Plataformatec, the company that created [t](https://github.com/plataformatec/devise)he [Elixir Language](https://plataformatec.com/why/elixir/). Leonardo talks about how he ended up at Plataformatec. Leonardo took an IT class in high school and that's how he was introduced to programming. 
+Leonardo Tegon is a software developer at Plataformatec, the company that created [t](https://github.com/plataformatec/devise)he [Elixir Language](https://plataformatec.com/why/elixir/). Leonardo talks about how he ended up at Plataformatec. Leonardo took an IT class in high school and that's how he was introduced to programming. He started with Java language and then proceeded to use Ruby language when started his internship. Charles and Leonardo discuss the usefulness of coding language certifications. 
 
 ## Links
 
