@@ -30,9 +30,7 @@ tags:
 
 ## Episode Summary
 
-Michael Prentice is the owner of [DevIntent ](https://www.devintent.com/)and an [AngularJS Material](https://material.angularjs.org/) Lead Maintainer at [Rangle.io](https://rangle.io/). 
-
-## Links
+Michael Prentice is the owner of [DevIntent ](https://www.devintent.com/)and an [AngularJS Material](https://material.angularjs.org/) Lead Maintainer at [Rangle.io](https://rangle.io/). AngularJS Material is built on top of Angular so Michael works really closely with the Google teams. Michael and panel discuss the process of upgrading to AngularJS to Angular. 
 
 * [Michael’s GitHub](https://github.com/Splaktar)
 * [Michael’s Twitter](https://twitter.com/splaktar?lang=en)
