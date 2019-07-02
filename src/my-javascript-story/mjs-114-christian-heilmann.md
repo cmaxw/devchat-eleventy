@@ -23,7 +23,7 @@ tags:
 
 ## **Episode Summary**
 
-Christian Heilmann got his first computer, a Commodore 64, at a flea market. Even though he was a radio journalist he wrote little games in his freetime. He combined his knowledge of media and his love for programming, and got a contract working for BMW building websites. He now works for Microsof as a Principal Software Development Engineer.
+Christian Heilmann got his first computer, a Commodore 64, at a flea market. He worked as a radio journalist and he wrote little games in his free time. He combined his knowledge of media and his love for programming, and got a contract working for BMW building websites. He now works for Microsof as a Principal Software Development Engineer.
 
 ## **Links**
 
