@@ -23,7 +23,7 @@ tags:
 
 ## **Episode Summary**
 
- Christian is a Principal Software Development Engineer at Microsoft, working out of Berlin, Germany. 
+
 
 ## **Links**
 
