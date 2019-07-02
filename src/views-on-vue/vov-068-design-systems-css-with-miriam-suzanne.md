@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: views-on-vue
 title: 'VoV 068: Design Systems & CSS with Miriam Suzanne'
-date: 2019-07-03T04:04:35.415Z
+date: 2019-07-02T10:00:35.415Z
 episode_number: 068
 duration: '1:15:06'
 audio_url: >-
