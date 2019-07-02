@@ -24,7 +24,7 @@ tags:
 
 ## Episode Summary
 
-Christoffer Noring is a Google Developer Expert and the author of  [RxJS 5 Ultimate](https://www.gitbook.com/book/chrisnoring/rxjs-5-ultimate/details), [Learning Angular](https://www.amazon.com/gp/product/1787124924/ref=dbs_a_def_rwt_bibl_vppi_i1) and [Architecting Angular Applications with Redux, RxJS, and NgRx](https://www.amazon.com/gp/product/B0753HNW7Z/ref=dbs_a_def_rwt_bibl_vppi_i0) books. 
+Christoffer Noring is a Google Developer Expert and the author of  [RxJS 5 Ultimate](https://www.gitbook.com/book/chrisnoring/rxjs-5-ultimate/details), [Learning Angular](https://www.amazon.com/gp/product/1787124924/ref=dbs_a_def_rwt_bibl_vppi_i1) and [Architecting Angular Applications with Redux, RxJS, and NgRx](https://www.amazon.com/gp/product/B0753HNW7Z/ref=dbs_a_def_rwt_bibl_vppi_i0) books. Christoffer talks about how he started coding in AngularJS and Angular 2. 
 
 ## Links
 
@@ -32,7 +32,5 @@ Christoffer Noring is a Google Developer Expert and the author of  [RxJS 5 Ultim
 * [Christoffer's Twitter](https://twitter.com/chris_noring?lang=en)
 * [Christoffer Noring – Medium](https://medium.com/@noringc)
 * [Christoffer Noring - Amazon.com](https://www.amazon.com/Christoffer-Noring/e/B0778XCXSL)
-
-
 
 ##
