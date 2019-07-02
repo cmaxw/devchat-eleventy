@@ -15,9 +15,10 @@ tags:
 
 
 
+*   [Netlify](https://www.netlify.com/)
 *   [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small
+*   [Triplebyte](https://triplebyte.com/vue) offers a $1000 signing bonus
 *   [CacheFly](https://www.cachefly.com/)
-
 
 ### **Panel**
 
