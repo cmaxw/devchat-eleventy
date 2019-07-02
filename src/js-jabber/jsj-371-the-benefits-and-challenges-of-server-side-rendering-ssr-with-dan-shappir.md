@@ -6,7 +6,7 @@ title: >-
   Shappir
 date: 2019-07-02T10:00:00.000Z
 episode_number: '371'
-duration: '01:10:55'
+duration: '01:10:07'
 audio_url: >-
   https://media.devchat.tv/js-jabber/JSJ_371_The_Benefits_and_Challenges_of_Server-Side_Rendering_SSR_with_Dan_Shappir.mp3
 image: /images/uploads/javascript_jabber_thumb.jpg
@@ -25,7 +25,6 @@ tags:
 
 * [Triplebyte](https://triplebyte.com/jsjabber) offers a $1000 signing bonus
 * [Sentry](https://sentry.io/welcome/) use the code “devchat” for $100 credit
-* [Linode](https://promo.linode.com/javascriptjabber/) offers $20 credit 
 * [CacheFly](https://www.cachefly.com/)
 
 ## Panel
