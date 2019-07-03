@@ -15,10 +15,12 @@ tags:
 ---
 # Sponsors
 
-* Sentry use the code “devchat” for 2 months free on Sentry small plan
-* Angular Bootcamp
-* Triplebyte offers a $1000 signing bonus
-* CacheFly
+# Sponsors
+
+* [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
+* [Angular Bootcamp](https://angularbootcamp.com/)
+* [Triplebyte](https://triplebyte.com/) offers a $1000 signing bonus
+* [CacheFly](https://www.cachefly.com/)
 
 ## Panel
 
