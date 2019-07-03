@@ -10,6 +10,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('admin');
 
   eleventyConfig.addNunjucksFilter('date', nunjucksDate);
+  eleventyConfig.addNunjucksFilter('sitemapdate', (dateobj) => {
+    return moment(dateobj).format("YYYY-MM-DD");
+  });
 
   eleventyConfig.addFilter('head', (array, n) => {
     if (n < 0) {
