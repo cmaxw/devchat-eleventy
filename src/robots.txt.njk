@@ -1,0 +1,10 @@
+---
+permalink: /robots.txt
+---
+User-agent: *
+Sitemap: https://devchat.tv/sitemap.xml
+{%- for items in collections.all -%}
+{%- if nocrawlers == true -%}
+Disallow: {{ item.url }}
+{%- endif -%}
+{%- endfor -%}
