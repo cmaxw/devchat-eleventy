@@ -54,4 +54,8 @@ Alex Eagle is a Software Engineer on the core Angular team at Google. Alex and t
 **Joe Eames:**
 
 * [FIFA Women's World Cup France 2019](https://www.fifa.com/womensworldcup/)
-*
+* Playing [Dungeons & Dragons](https://dnd.wizards.com/) with Aaron Frost
+
+**Alex Eagle:**
+
+* ****
