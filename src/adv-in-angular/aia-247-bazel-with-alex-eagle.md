@@ -41,10 +41,17 @@ Alex Eagle is a Software Engineer on the core Angular team at Google. Alex and t
 * [Angular and Bazel](https://bazel.angular.io/)
 * [Join BazelBuild on Slack!](https://slack.bazel.build/)
 
-
-
-
-
 ## Picks
 
-**Michael Prentice:**
+**Aaron Frost:**
+
+* Axe Throwing
+
+**Jennifer Wadella:**
+
+* Drama on the [The Bachelor ( TV series)](https://abc.go.com/shows/the-bachelor) 
+
+**Joe Eames:**
+
+* [FIFA Women's World Cup France 2019](https://www.fifa.com/womensworldcup/)
+*
