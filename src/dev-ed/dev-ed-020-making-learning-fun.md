@@ -39,22 +39,22 @@ They then talk about the techniques they employ or those that others use, in ord
 
 ## Picks
 
-Mike Dane:
+**Mike Dane:**
 
 * [Please don’t mock me - Justin Searls](https://vimeo.com/257056050)
 
-Luis Hernandez:
+**Luis Hernandez:**
 
-* [GatsbyJS](https://www.gatsbyjs.org/)
+* ****[GatsbyJS](https://www.gatsbyjs.org/)
 
-Sam Julien:
+**Sam Julien:**
 
-* [Luna Display](https://lunadisplay.com/)
+* ****[Luna Display](https://lunadisplay.com/)
 
-Shai Reznik:
+**Shai Reznik:**
 
-* [What we talk about when we talk about software - Nat Pryce](https://www.youtube.com/watch?v=syLjjmRgTsE)
+* ****[What we talk about when we talk about software - Nat Pryce](https://www.youtube.com/watch?v=syLjjmRgTsE)
 
-Joe Eames:
+**Joe Eames:**
 
-* [FIFA Women’s World Cup 2019](https://www.fifa.com/womensworldcup/)
+* ****[FIFA Women’s World Cup 2019](https://www.fifa.com/womensworldcup/)
