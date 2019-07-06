@@ -51,17 +51,17 @@ tags:
 
 **Jennifer Wadella:**
 
-* https://www.tiktok.com/@harveybass/video/6699753069669780742?langCountry=en
+* [The Git Up by Blanco Brown](https://www.tiktok.com/@harveybass/video/6699753069669780742?langCountry=en)
 
 **Brian Love:**
 
-* https://github.com/tibing/async-pipeline
+* <https://github.com/tibing/async-pipeline>
 
 **Alyssa Nicoll:**
 
-* https://www.anxietytech.com/
+* <https://www.anxietytech.com/>
 
  **Leonardo Zizzamia:**
 
-* https://ngrome.io/home 
-* https://devfestlevante.eu/
+* [https://ngrome.io/home ](https://ngrome.io/home)
+* <https://devfestlevante.eu/>
