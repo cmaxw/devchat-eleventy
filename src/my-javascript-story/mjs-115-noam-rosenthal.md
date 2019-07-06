@@ -36,9 +36,10 @@ Noam is also a musician and he plays base in  [Lost Highways ](https://www.faceb
 * [Noam's LinkedIn](https://www.linkedin.com/in/noamrosenthal/)
 * [Noam's Twitter](https://twitter.com/realnoam?lang=en)
 * [Noam's Medium](https://medium.com/@realnoam)
-* https://vcvrack.com
-* 
-* 
+* [Rack](https://vcvrack.com/)
+* [Rust Language](https://www.rust-lang.org)
+* [TensorFlow](https://www.tensorflow.org)
+* [Shadertoy](https://www.shadertoy.com/)
 * [Lost Highways](https://www.facebook.com/pg/LostHighways1/about/?ref=page_internal)
 * [Ultimate Guitar Tabs](https://www.ultimate-guitar.com/)
 * <https://www.facebook.com/javascriptjabber>
@@ -51,11 +52,11 @@ Noam is also a musician and he plays base in  [Lost Highways ](https://www.faceb
 
 **Noam Rosenthal:**
 
-* For developers working with JavaScript - learn another language such as 
-* https://www.tensorflow.org
-* https://www.rust-lang.org
+* For developers working with JavaScript - learn another language such as [Rust Language](https://www.rust-lang.org)
+* [TensorFlow](https://www.tensorflow.org)
 * [Shadertoy](https://www.shadertoy.com/)
-* Learn to play  instrument
+* Learn to play an instrument
+* [Ultimate Guitar Tabs](https://www.ultimate-guitar.com/)
 * Do volunteer projects and do not stay in the comfort zone of work
 
 **Charles Max Wood:**
