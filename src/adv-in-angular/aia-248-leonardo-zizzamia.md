@@ -47,12 +47,12 @@ tags:
 
 **Joe Eames:**
 
-****
+* ****
 
 **Jennifer Wadella:**
 
 * https://www.tiktok.com/@harveybass/video/6699753069669780742?langCountry=en
-* 
+* https://www.anxietytech.com/
 
 **Brian Love:**
 
