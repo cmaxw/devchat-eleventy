@@ -30,25 +30,32 @@ tags:
 
 ## Episode Summary
 
-
-
 ## Links
 
 * [Leonardo's Twitter ](https://twitter.com/Zizzamia)
 * https://tehfedaykin.github.io/AllAboutCryptoKitties/
-
 * [Perfume.js](https://zizzamia.github.io/perfume/)
-
-
+* https://www.urbandictionary.com/define.php?term=spill%20the%20tea
+* [D&Diesel ](https://criticalrole.fandom.com/wiki/D%26Diesel)
 
 ## Picks
 
 **Aaron Frost:**
 
+* [Potion of Flying](https://roll20.net/compendium/dnd5e/Potion%20of%20Flying)
+* <https://www.rxjs.live/>
+
 **Joe Eames:**
 
+****
+
 **Jennifer Wadella:**
+
+* https://www.tiktok.com/@harveybass/video/6699753069669780742?langCountry=en
+* 
 
 **Brian Love:**
 
 **Alyssa Nicoll:**
+
+* https://www.anxietytech.com/
