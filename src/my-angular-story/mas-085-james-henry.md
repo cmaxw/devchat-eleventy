@@ -23,7 +23,7 @@ tags:
 
 ## Episode Summary
 
-James Henry is an Angular architect at [Nrwl](https://nrwl.io/about-us) and a Most Valuable Professional (MVP) for TypeScript at Microsoft. James got introduced to developing when he started editing his [Myspace](https://myspace.com/) page at age fifteen. He then bought a [PHP for Dummies](https://www.amazon.com/PHP-5-Dummies-Janet-Valade/dp/0764541668) book and started learning [PHP](https://php.net/) language. He has been working working with Angular since 2012. James recently moved to Toronto from London and will be traveling and attending conferences around Canada and United States in the upcoming months. 
+James Henry is an Angular architect at [Nrwl](https://nrwl.io/about-us) and a Most Valuable Professional (MVP) for TypeScript at Microsoft. James got introduced to developing when he started editing his [Myspace](https://myspace.com/) page at age fifteen. He then bought a [PHP for Dummies](https://www.amazon.com/PHP-5-Dummies-Janet-Valade/dp/0764541668) book and started learning [PHP](https://php.net/) language. He has been working working with Angular since 2012. Currently James is working on [Nrwl Connect](https://connect.nrwl.io/) to be able to provide more support Nrwl customers. James recently moved to Toronto from London and will be traveling and attending conferences around Canada and United States in the upcoming months.  
 
 ## Links
 
