@@ -23,7 +23,7 @@ tags:
 
 ## Episode Summary
 
-James Henry is an Angular architect at [Nrwl](https://nrwl.io/about-us), a consulting company and a Most Valuable Professional (MVP) for TypeScript at Microsoft.
+James Henry is an Angular architect at [Nrwl](https://nrwl.io/about-us), a consulting and training company, and a Most Valuable Professional (MVP) for TypeScript at Microsoft. James has been working with Angular since 2012. James started developing with [PHP](https://php.net/) at age fifteen. 
 
 ## Links
 
