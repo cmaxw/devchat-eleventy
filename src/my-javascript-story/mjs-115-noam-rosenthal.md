@@ -25,7 +25,11 @@ tags:
 
 Noam has recently started offering his services and experiences independently after 20 hands-on years in the software industry. His most recent position was as a Software Architect working on the Wix Editor at [Wix](https://www.wix.com/), an Israeli cloud-based web development platform.  
 
-Noam was first introduced to programming at the age of seven when he started creating games in [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) language. He then went onto  learn HTML. Charles and Noam talk about how the programming community has changed over the years and how it is a lot easier to access knowledge today.  
+Noam was first introduced to programming at the age of seven when he started creating games in [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) language. He then went onto  learn HTML. Charles and Noam talk about how the programming community has changed over the years and how it is a lot easier to access knowledge today. 
+
+Noam is also a musician and he plays base in a band - [Lost Highways ](https://www.facebook.com/pg/LostHighways1/about/?ref=page_internal) and when he isn't coding he is busy producing the songs for their new upcoming album with his band.  
+
+ 
 
 **Links**
 
