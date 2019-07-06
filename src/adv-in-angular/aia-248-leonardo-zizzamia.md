@@ -16,7 +16,7 @@ tags:
 
 * [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
 * [Angular Bootcamp](https://angularbootcamp.com/)
-* CacheFly
+* [CacheFly](https://www.cachefly.com/)
 
 ## Panel
 
@@ -33,11 +33,10 @@ tags:
 ## Links
 
 * [Leonardo's Twitter ](https://twitter.com/Zizzamia)
-* https://tehfedaykin.github.io/AllAboutCryptoKitties/
+* [CryptoKitties](https://tehfedaykin.github.io/AllAboutCryptoKitties/)
 * [Perfume.js](https://zizzamia.github.io/perfume/)
-* https://www.urbandictionary.com/define.php?term=spill%20the%20tea
+* [Spill The Tea- definition ](erfume.jshttps://www.urbandictionary.com/define.php?term=spill%20the%20tea)
 * [D&Diesel ](https://criticalrole.fandom.com/wiki/D%26Diesel)
-* https://twitter.com/AmyNorris/status/1142871306133749760
 
 ## Picks
 
@@ -53,7 +52,6 @@ tags:
 **Jennifer Wadella:**
 
 * https://www.tiktok.com/@harveybass/video/6699753069669780742?langCountry=en
-* https://www.anxietytech.com/
 
 **Brian Love:**
 
