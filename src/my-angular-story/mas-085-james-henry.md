@@ -10,7 +10,7 @@ image: /images/uploads/myangularstory-300x300.jpg
 tags:
   - my_angular_story
   - podcast
-  - Jesse Sanders
+  - James Henry
 ---
 # Sponsors
 
@@ -23,16 +23,14 @@ tags:
 
 ## Episode Summary
 
-
-
-James Henry is a Senior Tech Lead Application Developer at [ADP](https://www.adp.com/).
+James Henry is an Angular architect at [Nrwl](https://nrwl.io/about-us), a consulting company and a Most Valuable Professional (MVP) for TypeScript at Microsoft.
 
 ## Links
 
-* [James LinkedIN](https://www.linkedin.com/in/jhenry0126/)
-* [James Twitter](https://twitter.com/chris_noring?lang=en)
+* [James LinkedIN](https://www.linkedin.com/in/mrjameshenry/)
+* [James Twitter](https://twitter.com/mrjameshenry?lang=en)
 * [James GitHub](https://github.com/JamesHenry)
-
-
+* [Nrwl](https://nrwl.io/about-us)
+* <https://typescriptcourses.com>
 
 ##
