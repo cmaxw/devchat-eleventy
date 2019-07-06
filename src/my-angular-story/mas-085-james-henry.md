@@ -31,6 +31,7 @@ James Henry is an Angular architect at [Nrwl](https://nrwl.io/about-us), a consu
 * [James Twitter](https://twitter.com/mrjameshenry?lang=en)
 * [James GitHub](https://github.com/JamesHenry)
 * [Nrwl](https://nrwl.io/about-us)
+* [Nrwl Connect](https://connect.nrwl.io/)
 * <https://typescriptcourses.com>
 * [Jeffrey Way](https://twitter.com/jeffrey_way?lang=en)
 * [Prettier ](https://prettier.io/)
