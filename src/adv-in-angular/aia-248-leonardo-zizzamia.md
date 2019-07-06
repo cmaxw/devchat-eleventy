@@ -30,6 +30,8 @@ tags:
 
 ## Episode Summary
 
+Leonardo is a Senior Software Engineer, Technical Lead at [Coinbase](https://www.coinbase.com/) based out of San Fransisco. 
+
 ## Links
 
 * [Leonardo's Twitter ](https://twitter.com/Zizzamia)
