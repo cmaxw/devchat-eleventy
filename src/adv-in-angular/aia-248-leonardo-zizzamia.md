@@ -47,7 +47,7 @@ tags:
 
 **Joe Eames:**
 
-* ****
+* Being a Guide and Not Being a Leader
 
 **Jennifer Wadella:**
 
