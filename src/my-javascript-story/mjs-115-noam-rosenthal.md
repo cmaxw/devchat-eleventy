@@ -36,7 +36,11 @@ Noam is also a musician and he plays base in  [Lost Highways ](https://www.faceb
 * [Noam's LinkedIn](https://www.linkedin.com/in/noamrosenthal/)
 * [Noam's Twitter](https://twitter.com/realnoam?lang=en)
 * [Noam's Medium](https://medium.com/@realnoam)
+* https://vcvrack.com
+* 
+* 
 * [Lost Highways](https://www.facebook.com/pg/LostHighways1/about/?ref=page_internal)
+* [Ultimate Guitar Tabs](https://www.ultimate-guitar.com/)
 * <https://www.facebook.com/javascriptjabber>
 * <https://twitter.com/JSJabber>
 * <https://www.facebook.com/DevChattv>
@@ -47,8 +51,14 @@ Noam is also a musician and he plays base in  [Lost Highways ](https://www.faceb
 
 **Noam Rosenthal:**
 
-* https://vcvrack.com
+* For developers working with JavaScript - learn another language such as 
 * https://www.tensorflow.org
 * https://www.rust-lang.org
+* [Shadertoy](https://www.shadertoy.com/)
+* Learn to play  instrument
+* Do volunteer projects and do not stay in the comfort zone of work
 
 **Charles Max Wood:**
+
+* [Cibola Burn ](https://expanse.fandom.com/wiki/Cibola_Burn)
+* [The Seven Principles for Making Marriage Work Book by John M. Gottman and Nan Silver](https://en.wikipedia.org/wiki/The_Seven_Principles_for_Making_Marriage_Work)
