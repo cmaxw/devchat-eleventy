@@ -10,7 +10,7 @@ image: /images/uploads/angular-thumb-1400x1400.jpg
 tags:
   - adv_in_angular
   - podcast
-  - Alex Eagle
+  - Leonardo Zizzamia
 ---
 # Sponsors
 
