@@ -29,9 +29,7 @@ Noam was first introduced to programming at the age of seven when he started cre
 
 Noam is also a musician and he plays base in  [Lost Highways ](https://www.facebook.com/pg/LostHighways1/about/?ref=page_internal) music band. When he isn't coding he is busy producing the songs for their new upcoming album with his band.  
 
- 
-
-**Links**
+## **Links**
 
 * [Noam's LinkedIn](https://www.linkedin.com/in/noamrosenthal/)
 * [Noam's Twitter](https://twitter.com/realnoam?lang=en)
@@ -47,8 +45,6 @@ Noam is also a musician and he plays base in  [Lost Highways ](https://www.faceb
 * <https://www.facebook.com/DevChattv>
 
 ## Picks
-
-## 
 
 **Noam Rosenthal:**
 
