@@ -30,12 +30,14 @@ tags:
 
 ## Episode Summary
 
-Leonardo is a Senior Software Engineer, Technical Lead at [Coinbase](https://www.coinbase.com/) based out of San Fransisco. 
+Leonardo is a Senior Software Engineer, Technical Lead at [Coinbase](https://www.coinbase.com/) a digital currency exchange headquartered in San Francisco. Leonardo and the panel talk about [Perfume.js](https://zizzamia.github.io/perfume/). 
 
 ## Links
 
 * [Leonardo's Twitter ](https://twitter.com/Zizzamia)
+* [Coinbase](https://www.coinbase.com/) 
 * [CryptoKitties](https://tehfedaykin.github.io/AllAboutCryptoKitties/)
+* [Okurrr2svg](https://github.com/tehfedaykin/Okurrr2svg)
 * [Perfume.js](https://zizzamia.github.io/perfume/)
 * [Spill The Tea- definition ](erfume.jshttps://www.urbandictionary.com/define.php?term=spill%20the%20tea)
 * [D&Diesel ](https://criticalrole.fandom.com/wiki/D%26Diesel)
