@@ -25,7 +25,7 @@ tags:
 
 Noam has recently started offering his services and experiences independently after 20 hands-on years in the software industry. His most recent position was as a Software Architect working on the Wix Editor at [Wix](https://www.wix.com/), an Israeli cloud-based web development platform.  
 
-Noam was first introduced to programming at the age of seven when he started creating games in [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) language. He then went onto  learn HTML. Charles and Noam talk about how the programming community has changed over the years and how it is a lot easier now to access information today.  
+Noam was first introduced to programming at the age of seven when he started creating games in [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) language. He then went onto  learn HTML. Charles and Noam talk about how the programming community has changed over the years and how it is a lot easier to access knowledge today.  
 
 **Links**
 
