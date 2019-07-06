@@ -25,13 +25,11 @@ tags:
 
 Noam has recently started offering his services and experiences independently after 20 hands-on years in the software industry. His most recent position was as a Software Architect working on the Wix Editor at [Wix](https://www.wix.com/), an Israeli cloud-based web development platform.  
 
-
-
 ## **Links**
 
 * [Noam's LinkedIn](https://www.linkedin.com/in/noamrosenthal/)
 * [Noam's Twitter](https://twitter.com/realnoam?lang=en)
-* 
+* [Noam's Medium](https://medium.com/@realnoam)
 * <https://www.facebook.com/javascriptjabber>
 * <https://twitter.com/JSJabber>
 * <https://www.facebook.com/DevChattv>
@@ -42,6 +40,8 @@ Noam has recently started offering his services and experiences independently af
 
 **Noam Rosenthal:**
 
-****
+* https://vcvrack.com
+* https://www.tensorflow.org
+* https://www.rust-lang.org
 
 **Charles Max Wood:**
