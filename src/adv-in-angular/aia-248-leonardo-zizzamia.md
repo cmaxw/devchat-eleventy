@@ -37,6 +37,7 @@ tags:
 * [Perfume.js](https://zizzamia.github.io/perfume/)
 * https://www.urbandictionary.com/define.php?term=spill%20the%20tea
 * [D&Diesel ](https://criticalrole.fandom.com/wiki/D%26Diesel)
+* https://twitter.com/AmyNorris/status/1142871306133749760
 
 ## Picks
 
@@ -56,6 +57,13 @@ tags:
 
 **Brian Love:**
 
+* https://github.com/tibing/async-pipeline
+
 **Alyssa Nicoll:**
 
 * https://www.anxietytech.com/
+
+ **Leonardo Zizzamia:**
+
+* https://ngrome.io/home 
+* https://devfestlevante.eu/
