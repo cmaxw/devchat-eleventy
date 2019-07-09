@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: js-jabber
 title: >-
-  JSJ 372:  Kubernetes Docker and Devops with Jessical Deen LIVE from Microsoft
+  JSJ 372:  Kubernetes Docker and Devops with Jessica Deen LIVE from Microsoft
   BUILD
 date: 2019-07-09T10:00:00.000Z
 episode_number: '372'
