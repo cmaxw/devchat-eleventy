@@ -8,7 +8,7 @@ date: 2019-07-09T10:00:02.808Z
 episode_number: 059
 duration: '54:20'
 audio_url: >-
-  http://media.devchat.tv/elixir-mix/EMx_059_Using_Rust_to_Scale_Elixir_for_11_Million_Concurrent_Users_with_Matt_Nowack.mp3
+  https://media.devchat.tv/elixir-mix/EMx_059_Using_Rust_to_Scale_Elixir_for_11_Million_Concurrent_Users_with_Matt_Nowack.mp3
 tags:
   - elixir_mix
   - podcast
