@@ -35,7 +35,7 @@ Joined by Special Guests: Matt Nowack
 
 ### **Summary**
 
-Matt Cohen, a developer at Discord, gives an intro to Discord and shares its origin story. The panel discusses the problems that Discord was having because of its 11 million concurrent users. Matt talks about when they knew there was a problem, how they used a runtime VM to find the problem, the tools they tried to fix the problem and how they landed on NIFs to fix the problem. The panel discusses the risks of using NIFs and how using Rust helps negate that risk. Matt discusses the reference counter in the rustler package and answers questions about using dirty schedulers. Discord developers publish many blogs and publish many open source projects; Matt shares the Discord philosophy on open sourcing and contributing to the Elixir community. 
+Matt Nowack, a developer at Discord, gives an intro to Discord and shares its origin story. The panel discusses the problems that Discord was having because of its 11 million concurrent users. Matt talks about when they knew there was a problem, how they used a runtime VM to find the problem, the tools they tried to fix the problem and how they landed on NIFs to fix the problem. The panel discusses the risks of using NIFs and how using Rust helps negate that risk. Matt discusses the reference counter in the rustler package and answers questions about using dirty schedulers. Discord developers publish many blogs and publish many open source projects; Matt shares the Discord philosophy on open sourcing and contributing to the Elixir community. 
 
 
 ### **Links**
