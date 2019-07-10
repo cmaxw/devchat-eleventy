@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: views-on-vue
-title: 'VoV 069: Real-time UI with Vue with Ari Clark'
+title: 'VoV 069: Real-time UI with Ari Clark'
 date: 2019-07-09T10:00:36.164Z
 episode_number: 069
 duration: '1:19:01'
