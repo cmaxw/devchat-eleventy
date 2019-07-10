@@ -19,7 +19,6 @@ tags:
 
 * [Triplebyte](https://triplebyte.com/jsjabber) offers a $1000 signing bonus
 * [Sentry](https://sentry.io/welcome/) use the code “devchat” for $100 credit
-* [Linode](https://promo.linode.com/javascriptjabber/) offers $20 credit 
 * [CacheFly](https://www.cachefly.com/)
 
 ## Panel
