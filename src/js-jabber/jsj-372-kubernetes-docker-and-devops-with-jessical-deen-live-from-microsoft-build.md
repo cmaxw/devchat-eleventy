@@ -52,7 +52,7 @@ Charles also encourages listeners to also check out the Views on Vue podcast[ Az
 * [Jessica Deen Youtube](https://www.youtube.com/channel/UC-RjyheFSQPAv-MyY0STSIQ)
 * [Kubernetes in 5 mins – YouTube](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 
-Follow Adventures in Angular on [tv](https://devchat.tv/adv-in-angular/), [Facebook ](https://www.facebook.com/adventuresinangular/)and [Twitter](https://twitter.com/angularpodcast).
+Follow JavaScript Jabber on[ Decvhat.tv](https://devchat.tv/), [Facebook ](https://www.facebook.com/adventuresinangular/)and [Twitter](https://twitter.com/angularpodcast).
 
 ## Picks
 
