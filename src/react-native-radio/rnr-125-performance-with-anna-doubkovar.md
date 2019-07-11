@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: react-native-radio
-title: 'RNR 125: Performance with Anna Doubkovar'
+title: 'RNR 125: Performance with Anna Doubkova'
 date: 2019-07-09T10:00:59.741Z
 episode_number: '125'
 duration: '43:27'
@@ -25,12 +25,12 @@ tags:
 
 *   Charles Max Wood
 
-Joined by Special Guest: Anna Doubkovar
+Joined by Special Guest: Anna Doubkova
 
 
 ### **Summary**
 
-Anna Doubkovar, a developer at Hive, shares her experience switching to React Native from React. Anna and Charles Max Wood discuss the reusability when moving from React to React Native. Anna talks about using React Native Web. Charles asks Anna about performance, how they measure performance and what kinds of performance changes they are making to their apps. Anna shares how helpful users are in discovering performance problems in mobile apps. Anna and Charles discuss the benefits of working with React Native and give tips for those getting started in React Native. 
+Anna Doubkova, a developer at Hive, shares her experience switching to React Native from React. Anna and Charles Max Wood discuss the reusability when moving from React to React Native. Anna talks about using React Native Web. Charles asks Anna about performance, how they measure performance and what kinds of performance changes they are making to their apps. Anna shares how helpful users are in discovering performance problems in mobile apps. Anna and Charles discuss the benefits of working with React Native and give tips for those getting started in React Native. 
 
 
 ### **Links**
@@ -54,7 +54,7 @@ Anna Doubkovar, a developer at Hive, shares her experience switching to React Na
 *   [Devchat.tv Youtube Channel](https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw/featured)
 *   [https://75hard.com/info](https://75hard.com/info)
 
-**Anna Doubkovar:**
+**Anna Doubkova:**
 
 
 
