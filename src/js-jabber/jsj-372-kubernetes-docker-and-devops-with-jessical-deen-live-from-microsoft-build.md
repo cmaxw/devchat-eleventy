@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: js-jabber
 title: >-
-  JSJ 372:  Kubernetes Docker and Devops with Jessical Deen LIVE from Microsoft
+  JSJ 372:  Kubernetes Docker and Devops with Jessica Deen LIVE from Microsoft
   BUILD
 date: 2019-07-09T10:00:00.000Z
 episode_number: '372'
@@ -19,7 +19,6 @@ tags:
 
 * [Triplebyte](https://triplebyte.com/jsjabber) offers a $1000 signing bonus
 * [Sentry](https://sentry.io/welcome/) use the code “devchat” for $100 credit
-* [Linode](https://promo.linode.com/javascriptjabber/) offers $20 credit 
 * [CacheFly](https://www.cachefly.com/)
 
 ## Panel
@@ -52,7 +51,7 @@ Charles also encourages listeners to also check out the Views on Vue podcast[ Az
 * [Jessica Deen Youtube](https://www.youtube.com/channel/UC-RjyheFSQPAv-MyY0STSIQ)
 * [Kubernetes in 5 mins – YouTube](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 
-Follow Adventures in Angular on [tv](https://devchat.tv/adv-in-angular/), [Facebook ](https://www.facebook.com/adventuresinangular/)and [Twitter](https://twitter.com/angularpodcast).
+Follow JavaScript Jabber on[ Decvhat.tv](https://devchat.tv/), [Facebook ](https://www.facebook.com/adventuresinangular/)and [Twitter](https://twitter.com/angularpodcast).
 
 ## Picks
 
