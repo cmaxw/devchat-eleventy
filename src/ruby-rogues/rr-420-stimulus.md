@@ -17,24 +17,18 @@ tags:
   - Ruby
   - Ruby on Rails
 ---
-
 ## **Sponsors**
 
-
-
-*   [Sentry](https://sentry.io/) use code “devchat” for $100 credit
-*   [Triplebyte](https://triplebyte.com/rogues) offers $1000 signing bonus
-*   [RedisGreen](https://redisgreen.net/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues)
-
+* [Sentry](https://sentry.io/) use code “devchat” for $100 credit
+* [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues)
+  Try Cloud 66 Rails for FREE & get $66 free credits with promo code **RubyRogues**
+* [RedisGreen](https://redisgreen.net/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues)
 
 ### **Panel**
 
-
-
-*   Charles Max Wood
-*   Dave Kimura
-*   Andrew Mason
-
+* Charles Max Wood
+* Dave Kimura
+* Andrew Mason
 
 ### **Episode Summary**
 
@@ -42,43 +36,34 @@ Today’s topic is the Stimulus library. Stimulus is actually a JavaScript frame
 
 **Links**
 
-
-
-*   [Stimulus](https://github.com/stimulusjs/stimulus)
-*   [Cocoon](https://github.com/nathanvda/cocoon)
-*   [React](https://reactjs.org/)
-*   [Gatsby](https://www.gatsbyjs.org/)
-*   [Capybara](https://github.com/teamcapybara/capybara)
-*   [Cypress](https://www.cypress.io/)
-*   [Stimulus controllers](https://stimulusjs.org/reference/controllers)
-*   [Building Something Real](https://stimulusjs.org/handbook/building-something-real)
-*   [Drifting Ruby episode](https://www.driftingruby.com/episodes?query%5Bname%5D=&tag=stimulusjs)
-*   [John Beatty Stimulus tutorial](https://johnbeatty.co/stimulus-js-tutorials/)
-*   [jQuery](https://jquery.com/)
+* [Stimulus](https://github.com/stimulusjs/stimulus)
+* [Cocoon](https://github.com/nathanvda/cocoon)
+* [React](https://reactjs.org/)
+* [Gatsby](https://www.gatsbyjs.org/)
+* [Capybara](https://github.com/teamcapybara/capybara)
+* [Cypress](https://www.cypress.io/)
+* [Stimulus controllers](https://stimulusjs.org/reference/controllers)
+* [Building Something Real](https://stimulusjs.org/handbook/building-something-real)
+* [Drifting Ruby episode](https://www.driftingruby.com/episodes?query%5Bname%5D=&tag=stimulusjs)
+* [John Beatty Stimulus tutorial](https://johnbeatty.co/stimulus-js-tutorials/)
+* [jQuery](https://jquery.com/)
 
 Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
-
 
 ### **Picks**
 
 **Dave Kimura:**
 
-
-
-*   [Raspberry Pie 4](https://raspi.tv/2019/raspberry-pi-4-launches-with-bcm2711-quad-core-cortex-a72-64-bit-soc-running-at-1-5ghz-with-dual-4k-display-capability)
+* [Raspberry Pie 4](https://raspi.tv/2019/raspberry-pi-4-launches-with-bcm2711-quad-core-cortex-a72-64-bit-soc-running-at-1-5ghz-with-dual-4k-display-capability)
 
 **Charles Max Wood:**
 
-
-
-*   Women’s World Cup
-*   Fox Sports
+* Women’s World Cup
+* Fox Sports
 
 **Andrew Mason:**
 
-
-
-*   Surfing
-*   [Stimulus workshop at RailsConf](https://github.com/noelrappin/rails_conf_north_by)
+* Surfing
+* [Stimulus workshop at RailsConf](https://github.com/noelrappin/rails_conf_north_by)
 
 <!-- Docs to Markdown version 1.0β17 -->
