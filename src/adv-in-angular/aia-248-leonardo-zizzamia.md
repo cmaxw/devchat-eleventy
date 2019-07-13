@@ -63,7 +63,7 @@ Leonardo is a Senior Software Engineer, Technical Lead at [Coinbase](https://www
 
 **Alyssa Nicoll:**
 
-* <https://www.anxietytech.com/>****
+* <https://www.anxietytech.com/>
 
 **Leonardo Zizzamia:**
 
