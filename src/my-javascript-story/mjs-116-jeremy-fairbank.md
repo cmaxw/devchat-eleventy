@@ -26,6 +26,8 @@ tags:
 ## **Links**
 
 * [JSJ 325: Practical functional programming in JavaScript and languages like Elm with Jeremy Fairbank](https://devchat.tv/js-jabber/jsj-325-practical-functional-programming-in-javascript-and-languages-like-elm-with-jeremy-fairbank/)
+* Jeremy’s GitHub
+* Jeremy’s YouTube
 * <https://amzn.to/2INcqI8>
 * <https://amzn.to/2Io4XAf>
 * <https://knockoutjs.com/>
