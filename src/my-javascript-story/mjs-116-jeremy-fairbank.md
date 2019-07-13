@@ -23,16 +23,16 @@ tags:
 
 ## **Episode Summary**
 
-
-
 ## **Links**
 
-*  https://amzn.to/2INcqI8
+* https://amzn.to/2INcqI8
 * https://amzn.to/2Io4XAf
 * https://knockoutjs.com/
 * https://marionettejs.com/
 * https://www.coursera.org/
-* 
+* https://www.coursera.org/learn/programming-languages
+* elm-lang.org
+*  https://www.amazon.com/gp/video/detail/B074QXP758/ref=atv_dl_rdr
 * <https://www.facebook.com/javascriptjabber>
 * <https://twitter.com/JSJabber>
 * <https://www.facebook.com/DevChattv>
@@ -41,4 +41,12 @@ tags:
 
 **Jeremy Fairbank:**
 
-* **Charles Max Wood:**
+*  https://amzn.to/2INhVGM
+* https://pragprog.com/book/jfelm/programming-elm
+* https://www.netflix.com/title/80186864
+* https://www.beyondmeat.com/products/the-beyond-burger
+* https://twitter.com/sentience
+
+**Charles Max Wood:**
+
+* https://meetings.hubspot.com/team104/elixir-mix-episode
