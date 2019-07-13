@@ -25,14 +25,15 @@ tags:
 
 ## **Links**
 
-* https://amzn.to/2INcqI8
-* https://amzn.to/2Io4XAf
-* https://knockoutjs.com/
-* https://marionettejs.com/
-* https://www.coursera.org/
-* https://www.coursera.org/learn/programming-languages
-* elm-lang.org
-*  https://www.amazon.com/gp/video/detail/B074QXP758/ref=atv_dl_rdr
+* [JSJ 325: Practical functional programming in JavaScript and languages like Elm with Jeremy Fairbank](https://devchat.tv/js-jabber/jsj-325-practical-functional-programming-in-javascript-and-languages-like-elm-with-jeremy-fairbank/)
+* <https://amzn.to/2INcqI8>
+* <https://amzn.to/2Io4XAf>
+* <https://knockoutjs.com/>
+* <https://marionettejs.com/>
+* <https://www.coursera.org/>
+* <https://www.coursera.org/learn/programming-languages>
+* [elm-lang.org](elm-lang.org)
+* [ https://www.amazon.com/gp/video/detail/B074QXP758/ref=atv_dl_rdr](https://www.amazon.com/gp/video/detail/B074QXP758/ref=atv_dl_rdr)
 * <https://www.facebook.com/javascriptjabber>
 * <https://twitter.com/JSJabber>
 * <https://www.facebook.com/DevChattv>
@@ -41,7 +42,8 @@ tags:
 
 **Jeremy Fairbank:**
 
-*  https://amzn.to/2INhVGM
+* [ https://www.amazon.com/gp/video/detail/B074QXP758/ref=atv_dl_rdr ](https://www.amazon.com/gp/video/detail/B074QXP758/ref=atv_dl_rdr)
+* <https://amzn.to/2INhVGM>
 * https://pragprog.com/book/jfelm/programming-elm
 * https://www.netflix.com/title/80186864
 * https://www.beyondmeat.com/products/the-beyond-burger
