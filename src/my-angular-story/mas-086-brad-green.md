@@ -30,5 +30,6 @@ Brad Green is an engineering director at Google. He has been ​managing the Ang
 * [Brad's LinkedIN](https://www.linkedin.com/in/bradlykgreen)
 * [Brad's Twitter](https://twitter.com/bradlygreen?lang=en)
 * [Brad's Blog](https://blog.angular.io/@bradlygreen)
+* [AngularJS by by Brad Green,  Shyam Seshadri](https://www.goodreads.com/book/show/16087709-angularjs)
 
 ##
