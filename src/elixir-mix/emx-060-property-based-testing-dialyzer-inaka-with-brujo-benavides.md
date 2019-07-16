@@ -24,7 +24,7 @@ tags:
 
 *   Mark Ericksen
 *   Eric Oestrich
-*   Micheal Ries
+*   Michael Ries
 
 Joined by Special Guest: Brujo Benavides
 
@@ -75,7 +75,7 @@ Brujo Benavides shares what he is working on right now and how his team feels ab
 *   [https://grapevine.haus/](https://grapevine.haus/) 
 *   [https://github.com/oestrich/telnet-elixir](https://github.com/oestrich/telnet-elixir) 
 
-**Micheal Ries:**
+**Michael Ries:**
 
 
 
