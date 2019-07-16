@@ -41,7 +41,9 @@ Jeremy is a Software Developer at [Test Double](https://testdouble.com) and the 
 * <https://www.coursera.org/learn/programming-languages>
 * [elm-lang.org](elm-lang.org)
 * <https://www.facebook.com/javascriptjabber>
-* <https://twitter.com/JSJabber>
+* [https:/](https://twitter.com/JSJabber)
+  * https://github.com/cmaxw/devchat-eleventy
+  [/twitter.com/JSJabber](https://twitter.com/JSJabber)
 * <https://www.facebook.com/DevChattv>
 
 ## Picks
@@ -55,8 +57,8 @@ Jeremy is a Software Developer at [Test Double](https://testdouble.com) and the 
 **Charles Max Wood:**
 
 * [Orphan Black](https://www.amazon.com/gp/video/detail/B074QXP758/ref=atv_dl_rdr)
-* https://devchat.tv/
-* https://www.netlify.com/
-* https://www.11ty.io/
-* https://github.com/cmaxw/devchat-eleventy
+* <https://devchat.tv/>
+* <https://www.netlify.com/>
+* <https://www.11ty.io/>
+* <https://github.com/cmaxw/devchat-eleventy>
 * [JavaScript Jabber - Devchat.tv](https://devchat.tv/js-jabber/)
