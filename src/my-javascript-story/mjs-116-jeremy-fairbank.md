@@ -48,12 +48,12 @@ Jeremy is a Software Developer at [Test Double](https://testdouble.com) and the 
 
 **Jeremy Fairbank:**
 
-* [Orphan Black](https://www.amazon.com/gp/video/detail/B074QXP758/ref=atv_dl_rdr)
+* 
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm)
 * [The Umbrella Academy](https://www.netflix.com/title/80186864)
-* https://www.beyondmeat.com/products/the-beyond-burger
-* https://twitter.com/sentience
+* [Beyond Burger](https://www.beyondmeat.com/products/the-beyond-burger)
 
 **Charles Max Wood:**
 
+* [Orphan Black](https://www.amazon.com/gp/video/detail/B074QXP758/ref=atv_dl_rdr)
 * https://meetings.hubspot.com/team104/elixir-mix-episode
