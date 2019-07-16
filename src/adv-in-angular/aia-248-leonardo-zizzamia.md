@@ -30,7 +30,7 @@ tags:
 
 ## Episode Summary
 
-Leonardo is a Senior Software Engineer, Technical Lead at [Coinbase](https://www.coinbase.com/) a digital currency exchange headquartered in San Francisco. Leonardo and the panel talk about [Perfume.js](https://zizzamia.github.io/perfume/). 
+Leonardo is a Senior Software Engineer, Technical Lead at [Coinbase](https://www.coinbase.com/) a digital currency exchange headquartered in San Francisco. Leonardo and the panel talk about [Perfume.js](https://zizzamia.github.io/perfume/). Over the past 5 years the Chrome team has been working on standardizing user timings for the web. One of the most recent metric tool the Chrome team has built is the Performance Observer which is an experimental API that observes user metrics. Leonardo explains how Perfume.js helps users so they don't have to worry about not complying with web standards in terms of user metrics. Leonardo then gives some guidelines to the web standards and explains what is considered in the normal range and what needs to be improved.
 
 ## Links
 
