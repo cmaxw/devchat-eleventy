@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adv-in-angular
-title: 'AiA 248: Perfume.js with  Leonardo Zizzamia '
+title: 'AiA 248: Perfume.js with  Leonardo Zizzamia  '
 date: 2019-07-16T10:00:00.000Z
 episode_number: '248'
 duration: '59:17'
