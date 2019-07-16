@@ -8,6 +8,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('js');
   eleventyConfig.addPassthroughCopy('fonts');
   eleventyConfig.addPassthroughCopy('admin');
+  eleventyConfig.addPassthroughCopy('_netlify');
 
   eleventyConfig.addNunjucksFilter('date', nunjucksDate);
   eleventyConfig.addNunjucksFilter('sitemapdate', (dateobj) => {
