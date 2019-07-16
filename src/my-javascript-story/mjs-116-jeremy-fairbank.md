@@ -41,9 +41,7 @@ Jeremy is a Software Developer at [Test Double](https://testdouble.com) and the 
 * <https://www.coursera.org/learn/programming-languages>
 * [elm-lang.org](elm-lang.org)
 * <https://www.facebook.com/javascriptjabber>
-* [https:/](https://twitter.com/JSJabber)
-  * https://github.com/cmaxw/devchat-eleventy
-  [/twitter.com/JSJabber](https://twitter.com/JSJabber)
+* [https:/](https://twitter.com/JSJabber)[/twitter.com/JSJabber](https://twitter.com/JSJabber)
 * <https://www.facebook.com/DevChattv>
 
 ## Picks
