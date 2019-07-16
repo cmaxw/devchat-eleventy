@@ -23,7 +23,7 @@ tags:
 
 ## Episode Summary
 
-Brad Green is an engineering director at Google. He has been ​managing Angular for the past 12 years. Brad talks about his Angular journey and explains how having a supportive Angular community outside of Google has helped them with the Angular development inside Google and especially finding new team members for the Angular team. Brad has recently made a decision to leave Google and so he and Aaron discuss what is next for Brad and what this means for the Angular community. 
+Brad Green is an engineering director at Google. He has been ​managing the Angular team for the past 12 years. Brad talks about his Angular journey and explains how having a supportive Angular community outside of Google has helped them with the Angular development inside Google and especially finding new team members for the Angular team. Brad has recently made a decision to leave Google and so he and Aaron discuss what is next for Brad and what this means for the Angular community. 
 
 ## Links
 
