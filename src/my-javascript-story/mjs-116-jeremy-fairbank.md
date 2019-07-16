@@ -55,4 +55,8 @@ Jeremy is a Software Developer at [Test Double](https://testdouble.com) and the 
 **Charles Max Wood:**
 
 * [Orphan Black](https://www.amazon.com/gp/video/detail/B074QXP758/ref=atv_dl_rdr)
-* https://meetings.hubspot.com/team104/elixir-mix-episode
+* https://devchat.tv/
+* https://www.netlify.com/
+* https://www.11ty.io/
+* https://github.com/cmaxw/devchat-eleventy
+* [JavaScript Jabber - Devchat.tv](https://devchat.tv/js-jabber/)
