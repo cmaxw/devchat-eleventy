@@ -4,7 +4,7 @@ podcast: views-on-vue
 title: 'VoV 070: Live from Vue Vixens Workshop with Jen Looper'
 date: 2019-07-16T10:00:37.605Z
 episode_number: '070'
-duration: '1:06:37'
+duration: '1:05:42'
 audio_url: 'https://media.devchat.tv/viewsonvue/VoV_070_Panel.mp3'
 tags:
   - views_on_vue
@@ -14,6 +14,7 @@ tags:
 
 
 
+*   [Netlify](https://www.netlify.com/)
 *   [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
 *   [CacheFly](https://www.cachefly.com/)
 
