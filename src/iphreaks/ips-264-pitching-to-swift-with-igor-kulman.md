@@ -49,7 +49,7 @@ Igor Kulman shares his experience pitching to the Swift evolution process and su
 
 ### **Picks**
 
-**Micheal Holt:**
+**Michael Holt:**
 
 
 
