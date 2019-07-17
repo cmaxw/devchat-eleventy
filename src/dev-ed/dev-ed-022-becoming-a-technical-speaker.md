@@ -12,10 +12,10 @@ tags:
 ---
 ## Panel
 
-* Brooke Avery
-* Luis Hernandez
-* Mike Dane
-* Sam Julien
+* [Brooke Avery](https://thinkster.io/)
+* [Luis Hernandez](https://lambdaschool.com/company/)
+* [Mike Dane](https://www.mikedane.com/)
+* [Sam Julien](https://twitter.com/samjulien?lang=en)
 
 Joined by special guest: **Aspen Payton**
 
@@ -25,11 +25,13 @@ In this episode of the Dev Ed podcast, the panelists talk to Aspen Payton, who i
 
 ## Links
 
-* Aspen Payton - Twitter
-* Crash Course: Angular and ngRx - Aspen Payton
-* How to Prepare a Talk - Gary Bernhardt
-* Convince Your Boss to Upgrade in 5 Minutes - Sam Julien
-* Subjecting State to Good Behavior - Kim Maida
+* [Aspen Payton - Twitter](https://twitter.com/paytonmn)
+* [Crash Course: Angular and ngRx - Aspen Payton](https://www.youtube.com/watch?v=272KDxSIQBw)
+* [How to Prepare a Talk - Gary Bernhardt](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
+* [Convince Your Boss to Upgrade in 5 Minutes - Sam Julien](https://www.youtube.com/watch?v=VS2qZe6ewZA)
+* [Subjecting State to Good Behavior - Kim Maida](https://www.youtube.com/watch?v=XuRpn8KXw6g&t=1s)
+
+
 
 ## Picks
 
