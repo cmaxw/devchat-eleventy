@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: ruby-rogues
-title: 'RR 421: Scaling and Shopify with Kirill Shatrov'
+title: 'RR 421: Scaling and Shopify with Kir Shatrov'
 date: 2019-07-16T10:00:24.331Z
 episode_number: '421'
 duration: '55:11'
@@ -39,11 +39,11 @@ With Special Guest: Kirill Shatrov
 
 ### **Episode Summary**
 
-Today’s guest Kirill Shatrov is a production engineer on Shopify based in London, UK. Today, he and the panel are discussing capacity planning. Kiril believes that capacity planning becomes a priority when your company starts losing money and your customers are suffering. When someone does get to the point of scaling their app, it’s important to look at the limitations of the hosting service. It is also important to remember that scaling is not a job that ever completes.
+Today’s guest Kir Shatrov is a production engineer on Shopify based in London, UK. Today, he and the panel are discussing capacity planning. Kir believes that capacity planning becomes a priority when your company starts losing money and your customers are suffering. When someone does get to the point of scaling their app, it’s important to look at the limitations of the hosting service. It is also important to remember that scaling is not a job that ever completes.
 
-Kirill’s talks about his experience and time with Shopify and what types of changes have happened in the four years he’s been with the company. Kirill explains that when Shopify was founded about 12 years ago, they were some of the first contributors to Rails, and Rails was just a zip file they shared over an email. This is important to know because the monolith code for Shopify has never been rewritten, so they put a lot of care into keeping it working. He talks about some of the techniques Shopify uses to avoid splitting into microservices when scaling their organization and how the multiple instances of the database is structured and managed from an opps point of view. He talks about what aspects of Shopify are open source and the approach to the architecture of the background jobs system.
+Kir’s talks about his experience and time with Shopify and what types of changes have happened in the four years he’s been with the company. Kir explains that when Shopify was founded about 12 years ago, they were some of the first contributors to Rails, and Rails was just a zip file they shared over an email. This is important to know because the monolith code for Shopify has never been rewritten, so they put a lot of care into keeping it working. He talks about some of the techniques Shopify uses to avoid splitting into microservices when scaling their organization and how the multiple instances of the database is structured and managed from an opps point of view. He talks about what aspects of Shopify are open source and the approach to the architecture of the background jobs system.
 
-The panel discusses what should be done if you want to scale your project and move away from background jobs. Kirill talks about what criteria his company uses to determine what moves to a background job and when it is too much to background something. The show finishes with Kirill sharing some of his favorite tips, tricks, and approaches he’s used at Shopify.
+The panel discusses what should be done if you want to scale your project and move away from background jobs. Kir talks about what criteria his company uses to determine what moves to a background job and when it is too much to background something. The show finishes with Kir sharing some of his favorite tips, tricks, and approaches he’s used at Shopify.
 
 **Links**
 
@@ -81,11 +81,11 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP
 
 *   [75 Hard challenge](https://75hard.biz/)
 
-**Kirill Shatrov: **
+**Kir Shatrov: **
 
 
 
 *   [Ruby Hack Challenge](https://github.com/ko1/rubyhackchallenge)
-*   Follow [Kirill Shatrov](https://kirshatrov.com/) @kirshatrov on Twitter and @kirills on Github
+*   Follow [Kirill Shatrov](https://kirshatrov.com/) @kirshatrov on Twitter and @kirs on Github
 
 <!-- Docs to Markdown version 1.0β17 -->
