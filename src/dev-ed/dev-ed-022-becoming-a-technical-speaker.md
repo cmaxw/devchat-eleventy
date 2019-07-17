@@ -10,4 +10,45 @@ tags:
   - dev_ed
   - podcast
 ---
-https://media.devchat.tv/dev-ed/DevEd_022_Becoming_A_Technical_Speaker.mp3
+## Panel
+
+* Brooke Avery
+* Luis Hernandez
+* Mike Dane
+* Sam Julien
+
+Joined by special guest: **Aspen Payton**
+
+## Episode Summary
+
+In this episode of the Dev Ed podcast, the panelists talk to Aspen Payton, who is currently working as a Lead Analyst Programmer at Mayo Clinic, has been in the software industry for about 20 years, and has over 32 granted patents to her name. She gives a background on her work, and talks about her ng-conf journey in detail, including what led her to become a technical speaker at the conference, the preparation involved, the things she learned along the way, and her experience in general. Brooke asks the panel their thoughts on why should one decide or even think about speaking at technical events/conferences rather than just being an attendee which has tons of benefits in itself. The panelists then offer tips and resources on how to prepare thoroughly in order to speak and present well without having a designated coach. Aspen gives a run-through of her procedure of creating slides for her talk at ng-conf, including content and styling, and everyone else chips in with great suggestions as well. They then discuss how to choose a good topic for speaking, what other factors to consider while giving an effective presentation, combating stage fright which can be a challenge for many, how to detect if things are not going well and what to do to improve, how to increase self-confidence and increase audience engagement. Finally, they talk about making the whole process a happy and fulfilling experience, and encourage listeners to give technical speaking a chance while promising that it would definitely be worthwhile.
+
+## Links
+
+* Aspen Payton - Twitter
+* Crash Course: Angular and ngRx - Aspen Payton
+* How to Prepare a Talk - Gary Bernhardt
+* Convince Your Boss to Upgrade in 5 Minutes - Sam Julien
+* Subjecting State to Good Behavior - Kim Maida
+
+## Picks
+
+**Aspen Payton:**
+
+* NPR - Throughline
+
+**Luis Hernandez:**
+
+* Teach Like a Champion - Doug Lemov
+
+**Sam Julien:**
+
+* Transistor
+
+**Brooke Avery:**
+
+* Alphabet Squadron
+
+**Mike Dane:**
+
+* Sapper
