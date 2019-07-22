@@ -75,7 +75,10 @@ layout: layouts/base.njk
 											<audio src="{{audio_url}}"></audio><a class="pcast-download" href="{{audio_url}}" download>Download MP3</a>
 										</div>
 									{% else %}
-										<img src="{{ image }}" class="img-fluid" alt="">
+										{% if hide_image %}
+										{% else %}
+											<img src="{{ image }}" class="img-fluid" alt="">
+										{% endif %}
 									{% endif %}
 								{% endif %}
 							</div>
