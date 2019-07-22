@@ -4,7 +4,7 @@ podcast: react-native-radio
 title: 'RNR 127: The Devchat.tv Mission and Journey with Charles Max Wood'
 date: 2019-07-23T10:00:00.000Z
 episode_number: '127'
-duration: '1:35:15'
+duration: '1:35:50'
 audio_url: 'https://media.devchat.tv/reactnativeradio/RNR_127_Charles_Max_Wood.mp3'
 tags:
   - react_native_radio
