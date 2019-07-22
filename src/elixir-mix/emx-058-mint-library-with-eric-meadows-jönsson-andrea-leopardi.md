@@ -6,7 +6,7 @@ date: 2019-07-02T10:00:55.483Z
 episode_number: 058
 duration: '1:01:42'
 audio_url: >-
-  http://media.devchat.tv/elixir-mix/EMx_058_Mint_Library_with_Eric_Meadows-Jonsson_and_Andrea_Leopardi.mp3
+  https://media.devchat.tv/elixir-mix/EMx_058_Mint_Library_with_Eric_Meadows-Jonsson_and_Andrea_Leopardi.mp3
 tags:
   - elixir_mix
   - podcast
