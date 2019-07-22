@@ -4,7 +4,7 @@ podcast: iphreaks
 title: 'iPS 266:  The Devchat.tv Mission and Journey with Charles Max Wood'
 date: 2019-07-23T10:00:20.533Z
 episode_number: '266'
-duration: '1:35:15'
+duration: '1:35:26'
 audio_url: 'https://media.devchat.tv/iphreaks/iPS_266_Charles_Max_Wood.mp3'
 image: /images/uploads/iphreaks-500.jpg
 tags:
