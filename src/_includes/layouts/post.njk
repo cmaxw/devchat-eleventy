@@ -200,7 +200,7 @@ layout: layouts/base.njk
             <!-- Tab panes -->
             <div class="tab-content">
               <div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
-                {% for post in collections.all | head(-5) | reverse %}
+                {% for post in collections.published | head(-5) | reverse %}
                 <div class="post-content media">
                   <img class="d-flex sidebar-img" src="{{post.data.image}}" alt="">
                   <div class="media-body">
