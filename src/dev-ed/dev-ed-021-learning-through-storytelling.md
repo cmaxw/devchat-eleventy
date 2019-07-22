@@ -20,11 +20,11 @@ tags:
 ## Panel
 
 * [Joe Eames](https://thinkster.io/)
+* [Brooke Avery](https://thinkster.io/)
 * [Jesse Sanders](https://www.briebug.com/)
 * [Luis Hernandez](https://lambdaschool.com/company/)
 * [Mike Dane](https://www.mikedane.com/)
 * [Sam Julien](https://twitter.com/samjulien?lang=en)
-* [Brooke Avery](https://thinkster.io/)
 
 Joined by special guest: **Emma Mulqueeny**
 
