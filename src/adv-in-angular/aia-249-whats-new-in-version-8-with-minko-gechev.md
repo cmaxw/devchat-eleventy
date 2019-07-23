@@ -64,6 +64,7 @@ Minko from Angular team at Google talks about what's new in Angular v8 and what 
 **Brian Love:** 
 
 * https://github.com/cartant/rxjs-spy
+* Go Outside and Stuff
 
 **Minko Gechev:**
 
