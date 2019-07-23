@@ -23,6 +23,7 @@ tags:
 * Aaron Frost
 * Joe Eames
 * Shai Reznik
+* Brian Love
 * Alyssa Nicoll 
 
 **Joined by Special Guest:** Minko Gechev
@@ -54,12 +55,16 @@ Minko from Angular team at Google talks about what's new in Angular v8 and what 
 * Dev Ed 020: Making Learning Fun - DevEd (podcast)
 * Ozark
 * Cobra Kai (TV Series 2018– ) - IMDb
-* Concept of Doing Something You Are Not Comfortable With
+* Getting Out of Your Comfort Zone
 
 **Alyssa Nicoll:**
 
 * [ngAir 211 - Template Streams in Angular & Change Detection Profiling w/ Dominic Elm & Kwinten Pisman](https://www.youtube.com/watch?v=tbr03N3WA2Q)
 
- **Minko Gechev:**
+**Brian Love:** 
+
+* https://github.com/cartant/rxjs-spy
+
+**Minko Gechev:**
 
 *
