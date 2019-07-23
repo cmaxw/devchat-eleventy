@@ -19,23 +19,19 @@ tags:
 ---
 ## **Sponsors**
 
+* [Datadog](dtdg.co/javascriptjabber) 
+* [Sentry](https://sentry.io/) use code “devchat” for 2 months free
 
-
-*   [Sentry](https://sentry.io/) use code “devchat” for 2 months free
-*   [Triplebyte](http://triplebyte.com/jsjabber) $1000 signing bonus
 
 
 ### **Panel**
 
-
-
-*   Aimee Knight
-*   Chris Ferdinandi
-*   Christopher Beucheler
-*   AJ O’Neal
+* Aimee Knight
+* Chris Ferdinandi
+* Christopher Beucheler
+* AJ O’Neal
 
 With Special Guest: Javan Makhmali
-
 
 ### **Episode Summary**
 
@@ -45,53 +41,40 @@ The panel discusses more specific aspects of Trix, such as Exec command. One of 
 
 **Links**
 
-
-
-*   [Trix](https://trix-editor.org/)
-*   [Tiny MCE](https://www.tiny.cloud/)
-*   [Contenteditable](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable)
-*   [Markdown](https://guides.github.com/features/mastering-markdown/)
-*   [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
-*   [HTML](https://www.w3schools.com/html/)
-*   [CoffeeScript](https://coffeescript.org/)
+* [Trix](https://trix-editor.org/)
+* [Tiny MCE](https://www.tiny.cloud/)
+* [Contenteditable](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable)
+* [Markdown](https://guides.github.com/features/mastering-markdown/)
+* [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
+* [HTML](https://www.w3schools.com/html/)
+* [CoffeeScript](https://coffeescript.org/)
 
 Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
-
 
 ### **Picks**
 
 **Javan Makhmali:**
 
-
-
-*   [API for form submissions](https://html.spec.whatwg.org/multipage/forms.html#dom-form-requestsubmit-dev)
+* [API for form submissions](https://html.spec.whatwg.org/multipage/forms.html#dom-form-requestsubmit-dev)
 
 **Chris Ferdinandi:**
 
-
-
-*   [CSS Grid](https://cssgrid-generator.netlify.com/)
-*   [Alex Russel Twitter thread](https://twitter.com/slightlylate/status/1135342338606153729?s=20)
-*   [How To Live a Vibrant Life with Early Stage Dementia](https://qz.com/1612962/how-to-live-a-vibrant-life-with-early-stage-dementia/)
+* [CSS Grid](https://cssgrid-generator.netlify.com/)
+* [Alex Russel Twitter thread](https://twitter.com/slightlylate/status/1135342338606153729?s=20)
+* [How To Live a Vibrant Life with Early Stage Dementia](https://qz.com/1612962/how-to-live-a-vibrant-life-with-early-stage-dementia/)
 
 **AJ O’Neal:**
 
+* [Mario and Chill](https://music.gamechops.com/album/mario-chill)
+* [Chip Tunes 4 Autism: Catharsis](https://chiptunes4autism.bandcamp.com/album/catharsis-a-sensory-friendly-album)
+* [Toilet Auger](https://www.walmart.com/ip/Peerless-Homeowner-Toiler-Auger/17043693)
 
+**Christopher Beucheler:** 
 
-*   [Mario and Chill](https://music.gamechops.com/album/mario-chill)
-*   [Chip Tunes 4 Autism: Catharsis](https://chiptunes4autism.bandcamp.com/album/catharsis-a-sensory-friendly-album)
-*   [Toilet Auger](https://www.walmart.com/ip/Peerless-Homeowner-Toiler-Auger/17043693)
-
-**Christopher Beucheler: **
-
-
-
-*   [Medium to Own blog](https://github.com/mathieudutour/medium-to-own-blog)
+* [Medium to Own blog](https://github.com/mathieudutour/medium-to-own-blog)
 
 **Aimee Knight:**
 
-
-
-*   [Absolute Truth Unlearned as Junior Developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+* [Absolute Truth Unlearned as Junior Developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
 
 <!-- Docs to Markdown version 1.0β17 -->
