@@ -1,0 +1,13 @@
+{
+  "title": "Adventures in Devops",
+  "slug": "adventures-in-devops",
+  "artwork": "devops-500.jpg",
+  "artwork_front": "devops-270.jpg",
+  "tag": "adventures_in_devops",
+  "current": true,
+  "podwrench_slug": "adventures-in-devops",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "drip_form": "4885765",
+  "color": "green",
+  "linkedin": "https://linkedin.com/company/devchat"
+}
