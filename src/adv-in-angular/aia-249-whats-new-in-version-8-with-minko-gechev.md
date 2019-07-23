@@ -29,11 +29,14 @@ tags:
 
 ## Episode Summary
 
-
+Minko from Angular team at Google talks about what's new in Angular 8 and what has changed.
 
 ## Links
 
-* 
+* https://twitter.com/mgechev
+* https://blog.mgechev.com/
+* https://github.com/mgechev
+* https://caniuse.com/#search=modules
 
 ## Picks
 
@@ -55,4 +58,4 @@ tags:
 
  **Minko Gechev:**
 
-*
+\*
