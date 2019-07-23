@@ -1,0 +1,13 @@
+{
+  "title": "Adventures in .NET",
+  "slug": "adventures-in-dotnet",
+  "artwork": "dotnet-500.jpg",
+  "artwork_front": "dotnet-270.jpg",
+  "tag": "adventures_in_dotnet",
+  "current": true,
+  "podwrench_slug": "adventures-in-dotnet",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "drip_form": "4885765",
+  "color": "blue",
+  "linkedin": "https://linkedin.com/company/devchat"
+}
