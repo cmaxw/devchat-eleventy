@@ -15,7 +15,7 @@ tags:
 ---
 # Sponsors
 
-* [DataDog](https://www.datadoghq.com/)
+* [DataDog](https://dtdg.co/javascriptjabber)
 * [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
 * [CacheFly](https://www.cachefly.com/)
 
