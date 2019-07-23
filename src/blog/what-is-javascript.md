@@ -2,7 +2,7 @@
 title: What is JavaScript?
 author: charles-max-wood
 date: 2019-07-16 8:00:00
-image: /images/uploads/whats-your-story.jpg
+image: /images/uploads/what-your-story.jpg
 tags:
   - blog
   - javascript
