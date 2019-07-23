@@ -29,7 +29,7 @@ tags:
 
 ## Episode Summary
 
-Minko from Angular team at Google talks about what's new in Angular 8 and what has changed.
+Minko from Angular team at Google talks about what's new in Angular v8 and what has changed. Some of the exciting new features include differential loading, dynamic imports for lazy routes and CLI workflow improvements which end up being a large perfomance improvement. The panel comments on the fact that it was effortless to migrate from Angular 7 to Angular 8, and Minko also mentions that they had received feedback that the how to start tutorials were not very clear and so in   Angular v8 they made an effort to re-do the tutorials.
 
 ## Links
 
