@@ -21,10 +21,11 @@ tags:
 ## Panel
 
 * Aaron Frost
-* Joe Eames
-* Shai Reznik
-* Brian Love
 * Alyssa Nicoll 
+* Shai Reznik
+* Joe Eames
+* Brian Love
+  ****
 
 **Joined by Special Guest:** Minko Gechev
 
