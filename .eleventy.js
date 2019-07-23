@@ -39,6 +39,9 @@ module.exports = function(eleventyConfig) {
   });
 
   var podcastList = ["adv_in_angular", 
+                  "adventures_in_blockchain",
+                  "adventures_in_devops",
+                  "adventures_in_dotnet",
                   "dev_rev",
                   "dev_ed",  
                   "elixir_mix",
@@ -53,6 +56,7 @@ module.exports = function(eleventyConfig) {
                   "react_round_up",
                   "remote_conf_talks",
                   "ruby_rogues",
+                  "sustain_our_software",
                   "teachmetocode",
                   "tmtc-screencasts",
                   "views_on_vue",
