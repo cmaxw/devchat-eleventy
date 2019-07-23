@@ -25,7 +25,6 @@ tags:
 * Shai Reznik
 * Joe Eames
 * Brian Love
-  ****
 
 **Joined by Special Guest:** Minko Gechev
 
@@ -50,7 +49,7 @@ Minko from Angular team at Google talks about what's new in Angular v8 and what 
 
 **Joe Eames:**
 
-* Bonnie Brennan from [Angular Air Podcast](https://angularair.com/)
+* [Bonnie Brennan and her daughter Sam](https://www.linkedin.com/in/bonniecarson/)
 
 **Shai Reznik:**
 
@@ -71,4 +70,4 @@ Minko from Angular team at Google talks about what's new in Angular v8 and what 
 **Minko Gechev:**
 
 * You can use the "safe navigation" operator in Angular templates 
-* Boxing Gym
+* [Hit Fit SF](https://hitfitsf.com/nobhill/)
