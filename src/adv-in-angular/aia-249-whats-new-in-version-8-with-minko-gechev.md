@@ -68,4 +68,5 @@ Minko from Angular team at Google talks about what's new in Angular v8 and what 
 
 **Minko Gechev:**
 
-*
+* You can use the "safe navigation" operator in Angular templates 
+* Boxing Gym
