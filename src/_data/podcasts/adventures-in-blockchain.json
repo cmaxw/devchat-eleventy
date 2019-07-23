@@ -1,0 +1,13 @@
+{
+  "title": "Adventures in Blockchain",
+  "slug": "adventures-in-blockchain",
+  "artwork": "blockchain-500.jpg",
+  "artwork_front": "blockchain-270.jpg",
+  "tag": "adventures_in_blockchain",
+  "current": true,
+  "podwrench_slug": "adventures-in-blockchain",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "drip_form": "4885765",
+  "color": "green",
+  "linkedin": "https://linkedin.com/company/devchat"
+}
