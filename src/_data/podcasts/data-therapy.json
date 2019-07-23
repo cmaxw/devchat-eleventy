@@ -1,0 +1,13 @@
+{
+  "title": "Data Therapy",
+  "slug": "data-therapy",
+  "artwork": "data-therapy-500.jpg",
+  "artwork_front": "data-therapy-270.jpg",
+  "tag": "data_therapy",
+  "current": true,
+  "podwrench_slug": "data-therapy",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "drip_form": "4885765",
+  "color": "blue",
+  "linkedin": "https://linkedin.com/company/devchat"
+}
