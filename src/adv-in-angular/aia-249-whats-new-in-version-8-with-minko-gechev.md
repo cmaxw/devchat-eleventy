@@ -48,7 +48,7 @@ Minko from Angular team at Google talks about what's new in Angular v8 and what 
 
 **Joe Eames:**
 
-* 
+* Bonnie Brennan from [Angular Air Podcast](https://angularair.com/)
 
 **Shai Reznik:**
 
