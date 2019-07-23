@@ -42,7 +42,8 @@ Minko from Angular team at Google talks about what's new in Angular v8 and what 
 
 **Aaron Frost:**
 
-* 
+* [Stranger Things Season 3](https://www.imdb.com/title/tt4574334/episodes)
+* Angular Denver
 
 **Joe Eames:**
 
@@ -50,12 +51,15 @@ Minko from Angular team at Google talks about what's new in Angular v8 and what 
 
 **Shai Reznik:**
 
-* 
+* Dev Ed 020: Making Learning Fun - DevEd (podcast)
+* Ozark
+* Cobra Kai (TV Series 2018– ) - IMDb
+* Concept of Doing Something You Are Not Comfortable With
 
 **Alyssa Nicoll:**
 
-* 
+* [ngAir 211 - Template Streams in Angular & Change Detection Profiling w/ Dominic Elm & Kwinten Pisman](https://www.youtube.com/watch?v=tbr03N3WA2Q)
 
  **Minko Gechev:**
 
-\*
+*
