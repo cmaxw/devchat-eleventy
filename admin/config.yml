@@ -331,6 +331,23 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["ruby_rogues", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
     sortableFields: ["title", "date", "episode_number"]
+  - name: "sustain-our-software" # Used in routes, e.g., /admin/collections/blog
+    label: "Sustain Our Software" # Used in the UI
+    folder: "src/sustain-our-software" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "sustain-our-softare"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Tags", name: "tags", widget: "list", default: ["sustain_our_software", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+    sortableFields: ["title", "date", "episode_number"]
   - name: "teachmetocode" # Used in routes, e.g., /admin/collections/blog
     label: "Teach Me To Code Podcast" # Used in the UI
     folder: "src/teachmetocode" # The path to the folder where the documents are stored
