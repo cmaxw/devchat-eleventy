@@ -12,13 +12,13 @@ tags:
   - podcast
   - Minko Gechev
 ---
-# Sponsors
+# **Sponsors**
 
 * [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
 * [Angular Bootcamp](https://angularbootcamp.com/)
 * [CacheFly](https://www.cachefly.com/)
 
-## Panel
+## **Panel**
 
 * Aaron Frost
 * Alyssa Nicoll 
@@ -28,11 +28,11 @@ tags:
 
 **Joined by Special Guest:** Minko Gechev
 
-## Episode Summary
+## **Episode Summary**
 
 Minko from Angular team at Google talks about what's new in Angular v8 and what has changed. Some of the exciting new features include differential loading, dynamic imports for lazy routes and CLI workflow improvements which end up being a large perfomance improvement. The panel comments on the fact that it was effortless to migrate from Angular 7 to Angular 8, and Minko also mentions that they had received feedback that the how to start tutorials were not very clear and so in   Angular v8 they made an effort to re-do the tutorials.
 
-## Links
+## **Links**
 
 * [Angular Versioning and Releases - Angular](https://angular.io/guide/releases)
 * [Minko's Twitter](https://twitter.com/mgechev)
@@ -40,7 +40,7 @@ Minko from Angular team at Google talks about what's new in Angular v8 and what 
 * [Minko's GitHub](https://github.com/mgechev)
 * <https://caniuse.com/#search=modules>
 
-## Picks
+## **Picks**
 
 **Aaron Frost:**
 
