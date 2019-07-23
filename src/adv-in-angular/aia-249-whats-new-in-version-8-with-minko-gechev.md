@@ -34,10 +34,11 @@ Minko from Angular team at Google talks about what's new in Angular v8 and what 
 
 ## Links
 
-* https://twitter.com/mgechev
-* https://blog.mgechev.com/
-* https://github.com/mgechev
-* https://caniuse.com/#search=modules
+* [Angular Versioning and Releases - Angular](https://angular.io/guide/releases)
+* [Minko's Twitter](https://twitter.com/mgechev)
+* [Minko's Blog](https://blog.mgechev.com/)
+* [Minko's GitHub](https://github.com/mgechev)
+* <https://caniuse.com/#search=modules>
 
 ## Picks
 
