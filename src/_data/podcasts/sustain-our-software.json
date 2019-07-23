@@ -1,0 +1,13 @@
+{
+  "title": "Sustain Our Software",
+  "slug": "sustain-our-software",
+  "artwork": "sustain-our-software-500.jpg",
+  "artwork_front": "sustain-our-software-270.jpg",
+  "tag": "sustain_our_software",
+  "current": true,
+  "podwrench_slug": "sustain-our-software",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "drip_form": "4885765",
+  "color": "blue",
+  "linkedin": "https://linkedin.com/company/devchat"
+}
