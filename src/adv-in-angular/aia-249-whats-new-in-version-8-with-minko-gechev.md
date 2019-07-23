@@ -54,7 +54,7 @@ Minko from Angular team at Google talks about what's new in Angular v8 and what 
 
 * Dev Ed 020: Making Learning Fun - DevEd (podcast)
 * Ozark
-* Cobra Kai (TV Series 2018– ) - IMDb
+* Cobra Kai 
 * Getting Out of Your Comfort Zone
 
 **Alyssa Nicoll:**
