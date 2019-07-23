@@ -174,14 +174,29 @@ layout: layouts/base.njk
 				</div>
 				<!-- col end -->
 				<div class="col-lg-3">
-        {% include "subscribe.njk" %}
-        {% include "social_links.njk" %}
+					<div class="widgets widgets-item">
+						<h3 class="widgets-title">
+							<span>Suggestion Box</span>
+						</h3>
 
-        {% if podcast %}
-          {% include podcasts[ podcast ].sponsor_layout %}
-        {% else %}
-          {% include "sitewide_sidebar_sponsors.njk" %}
-        {% endif %}
+						<ul class="ts-block-social-list">
+							<li class="ts-pinterest">
+								<a href="/{{podcast}}/recommend">
+									<i class="fa fa-check"></i>
+									<b>Suggest a Topic or Guest </b>
+								</a>
+							</li>
+						</ul>
+					</div>
+
+					{% include "subscribe.njk" %}
+					{% include "social_links.njk" %}
+
+					{% if podcast %}
+						{% include podcasts[ podcast ].sponsor_layout %}
+					{% else %}
+						{% include "sitewide_sidebar_sponsors.njk" %}
+					{% endif %}
 
           <div class="post-list-item widgets">
             <!-- Nav tabs -->
