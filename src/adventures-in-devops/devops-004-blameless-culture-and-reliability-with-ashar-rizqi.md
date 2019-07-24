@@ -23,7 +23,7 @@ Joined by Special Guest: Ashar Rizqi
 
 ### **Summary**
 
-Ashar Rizqi, co-founder and CEO of Blameless, Inc., shares his approach to taking and unreliable system and making it reliable. The panel discusses the importance of maintaining a blameless culture. Ashar explains what an error budget is and principles to use when creating an error budget. The panel considers the benefits of using an error budget. What to measure and how to measure for reliability are considered and the panel discusses how to manage the data received. Ashar explains the importance of cultures and how this affects reliability. The panel asks Ashar about Blameless, Inc; Ashar explains what they are all about, what they do and what types of companies need Blameless, Inc.
+Ashar Rizqi, co-founder and CEO of Blameless, Inc., shares his approach to taking an unreliable system and making it reliable. The panel discusses the importance of maintaining a blameless culture. Ashar explains what an error budget is and principles to use when creating an error budget. The panel considers the benefits of using an error budget. What to measure and how to measure for reliability are considered and the panel discusses how to manage the data received. Ashar explains the importance of cultures and how this affects reliability. The panel asks Ashar about Blameless, Inc; Ashar explains what they are all about, what they do and what types of companies need Blameless, Inc.
 
 
 ### **Links **
