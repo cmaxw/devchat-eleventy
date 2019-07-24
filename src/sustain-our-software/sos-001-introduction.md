@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: sustain-our-software
 title: 'SOS 001: Funding Open-Source Projects'
-date: 2019-07-30T10:00:00.000Z
+date: 2019-08-06T10:00:00.000Z
 episode_number: '001'
 duration: '49:20'
 audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_001_Introduction.mp3'
