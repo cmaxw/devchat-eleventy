@@ -10,7 +10,7 @@ tags:
   - sustain_our_software
   - podcast
 ---
-# Sponsors,
+# Sponsors
 
 * [Cachefly](https://www.cachefly.com/)
 
