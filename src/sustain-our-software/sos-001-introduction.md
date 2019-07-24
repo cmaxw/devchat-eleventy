@@ -44,3 +44,10 @@ This new addition to the Devchat.tv podcast family is about software sustainabil
 * https://adventure.land
 
 **Richard Littauer:**
+
+* brainpickings.com
+* https://www.brainpickings.org/figuring/
+
+**Pia Mancini:**
+
+* https://www.npr.org/sections/goatsandsoda/2019/03/21/702209976/can-inuit-moms-help-me-tame-my-3-year-olds-anger
