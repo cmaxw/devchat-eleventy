@@ -19,7 +19,7 @@ tags:
 
 ## Episode Summary
 
-This new addition to the Devchat.tv podcast family is about software sustainability, open source projects funding  and software maintenance. The panelists introduce themselves and their roles in software sustainability. The panelists also mention that 57% of all software built is open-source and the economic value of open source is over 360 billion dollars so it is crucial to keep developers who maintain open-source projects from burning out. That being said open-source projects have difficulty accessing funding. The panelists talk about efforts that have been made to combat that such as opencollective.com.
+This new addition to the Devchat.tv podcast family is about software sustainability, open source projects funding  and software maintenance. The panelists introduce themselves and their roles in software sustainability. The panelists also mention that 57% of all software built is open-source and the economic value of open source is over 360 billion dollars so it is crucial to keep developers who maintain open-source projects from burning out. That being said open-source projects have difficulty accessing funding. The panelists talk about efforts that have been made to combat that such as opencollective.com. They then talk about some of the other topics the panelists plan to cover are and invite the audience to recommend topics they would like to hear more about on open-source sustainability.
 
 ## Links
 
