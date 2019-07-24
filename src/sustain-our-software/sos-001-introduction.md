@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: sustain-our-software
 title: 'SOS 001: Funding Open-Source Projects'
-date: 2019-07-30T10:00:00.000Z
+date: 2019-08-06T10:00:00.000Z
 episode_number: '001'
 duration: '49:20'
 audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_001_Introduction.mp3'
@@ -10,6 +10,10 @@ tags:
   - sustain_our_software
   - podcast
 ---
+# Sponsors
+
+* [Cachefly](https://www.cachefly.com/)
+
 ## Panel
 
 * Pia Mancini
@@ -33,6 +37,8 @@ This new addition to the Devchat.tv podcast family is about software sustainabil
 * codefund.io
 * https://discourse.sustainoss.org/
 
+
+
 ## Picks
 
 **Jon Schlinkert:**
@@ -45,9 +51,9 @@ This new addition to the Devchat.tv podcast family is about software sustainabil
 
 **Richard Littauer:**
 
-* brainpickings.com
-* https://www.brainpickings.org/figuring/
+* https://99percentinvisible.org/episode/palaces-for-the-people/
 
 **Pia Mancini:**
 
+* https://www.brainpickings.org/figuring/
 * https://www.npr.org/sections/goatsandsoda/2019/03/21/702209976/can-inuit-moms-help-me-tame-my-3-year-olds-anger
