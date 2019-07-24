@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adv-in-angular
-title: 'AiA 249:  What''s new in version 8 with Minko Gechev'
+title: 'AiA 249:  What''s New in Version 8 With Minko Gechev'
 date: 2019-07-23T10:00:00.000Z
 episode_number: '249'
 duration: '1:02:10'
