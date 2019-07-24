@@ -45,7 +45,7 @@ This new addition to the Devchat.tv podcast family is about software sustainabil
 
 **Richard Littauer:**
 
-* ****
+* https://99percentinvisible.org/episode/palaces-for-the-people/
 
 **Pia Mancini:**
 
