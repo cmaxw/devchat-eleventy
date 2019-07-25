@@ -44,7 +44,7 @@ The panelists discuss what it actually means to have dyslexia while dispelling s
 * [ng-club](https://ngclub.info/)
 * [Blockly](https://developers.google.com/blockly/)
 
-## **Picks**
+## Picks
 
 **Bonnie Brennan:**
 
