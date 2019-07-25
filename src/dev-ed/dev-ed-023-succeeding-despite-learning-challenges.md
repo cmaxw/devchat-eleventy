@@ -21,13 +21,16 @@ tags:
 ---
 ## Panel
 
-* [Joe Eames](https://thinkster.io/)
-* [Brooke Avery](https://thinkster.io/)
-* [Sam Julien](https://twitter.com/samjulien?lang=en)
-* [Luis Hernandez](https://lambdaschool.com/company/)
-* [Mike Dane](https://www.mikedane.com/)
+* [Joe Eames](https://thinkster.io/)
+* [Brooke Avery](https://thinkster.io/)
+* [Sam Julien](https://twitter.com/samjulien?lang=en)
+* [Luis Hernandez](https://lambdaschool.com/company/)
+* [Mike Dane
+  ](https://www.mikedane.com/)
 
-Joined by special guests: [**Bonnie Brennan**](https://www.linkedin.com/in/bonniecarson/)**,** [**Samantha Brennan**](https://twitter.com/thelittlestdev?lang=en)****
+Joined by special guests: [**Bonnie Brennan**](https://www.linkedin.com/in/bonniecarson/)**,** [**Samantha Brennan**](https://twitter.com/thelittlestdev?lang=en)
+
+- - -
 
 ## Episode Summary
 
@@ -38,40 +41,47 @@ The panelists discuss what it actually means to have dyslexia while dispelling s
 ## Links
 
 * [Bonnie Brennan - Twitter](https://twitter.com/bonnster75?lang=en) 
-* [Angular for the Visual Learner](https://dyslexics-untie.teachable.com/p/angular-for-the-visual-learner)
-* [Claymation](https://en.wikipedia.org/wiki/Clay_animation)
-* [The Gift of Dyslexia: Why Some of the Smartest People Can't Read...and How They Can Learn](https://www.goodreads.com/book/show/824615.The_Gift_of_Dyslexia)
-* [ng-club](https://ngclub.info/)
-* [Blockly](https://developers.google.com/blockly/)
+* [Angular for the Visual Learner](https://dyslexics-untie.teachable.com/p/angular-for-the-visual-learner)
+* [Claymation](https://en.wikipedia.org/wiki/Clay_animation)
+* [The Gift of Dyslexia: Why Some of the Smartest People Can't Read...and How They Can Learn](https://www.goodreads.com/book/show/824615.The_Gift_of_Dyslexia)
+* [ng-club](https://ngclub.info/)
+* [Blockly
+  ](https://developers.google.com/blockly/)
 
-## Picks
+## Picks
 
 **Bonnie Brennan:**
 
-* ****[ng-club ](https://ngclub.info/)
+* [ng-club 
+  ](https://ngclub.info/)
 * [Blockly - YouTube ](https://www.youtube.com/watch?v=fu9tqTeL-qs)
 
-**Mike Dane:** 
+**Mike Dane:**
 
-* ****[p5.js](https://p5js.org/)
-* [The Coding Train - p5.js](https://www.youtube.com/watch?v=yPWkPOfnGsw)
+* [p5.js](https://p5js.org/)
+* [The Coding Train - p5.js
+  ](https://www.youtube.com/watch?v=yPWkPOfnGsw)
 
 **Samantha Brennan:**
 
-* ****[Angular Denver Conference](https://angulardenver.com/)
+* [Angular Denver Conference
+  ](https://angulardenver.com/)
 
 **Brooke Avery:**
 
-* ****[Kahoot!](https://kahoot.it/)
+* [Kahoot!
+  ](https://kahoot.it/)
 
 **Luis Hernandez:**
 
-* ****[Code Radio](https://coderadio.freecodecamp.org/)
+* [Code Radio
+  ](https://coderadio.freecodecamp.org/)
 
 **Sam Julien:**
 
-* ****[Magic Move in Keynote](https://support.apple.com/kb/ph16959?locale=en_US)
+* [Magic Move in Keynote](https://support.apple.com/kb/ph16959?locale=en_US)
 
 **Joe Eames:**
 
-* ****[Yesterday - movie](https://www.imdb.com/title/tt8079248/)
+* [Yesterday - movie
+  ](https://www.imdb.com/title/tt8079248/)
