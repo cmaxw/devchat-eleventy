@@ -30,8 +30,6 @@ tags:
 
 Joined by special guests: [**Bonnie Brennan**](https://www.linkedin.com/in/bonniecarson/)**,** [**Samantha Brennan**](https://twitter.com/thelittlestdev?lang=en)
 
-- - -
-
 ## Episode Summary
 
 In this episode of the Dev Ed podcast, the panelists talk to the mother-daughter duo, Bonnie and Samantha Brennan, who have been working on teaching web development to people with learning difficulties and bringing about an awareness in the community. While talking about her background, Samantha explains that she has been programming since she was 8, and realized that she was dyslexic while learning Angular, as it is an abstract framework where a bunch of things happen at the backend. Keeping in mind the struggles faced by dyslexic learners, she, along with her mother Bonnie, decided to start the course — Angular for the Visual Learner, where they use visual methods such as pictures and 3D animation in order to overcome the learning challenges. Further in the show, they discuss how to detect if a person is dyslexic and also do an interesting demonstration of the “Cake test” on Joe, a test which helps in the identification of dyslexia.
@@ -45,37 +43,31 @@ The panelists discuss what it actually means to have dyslexia while dispelling s
 * [Claymation](https://en.wikipedia.org/wiki/Clay_animation)
 * [The Gift of Dyslexia: Why Some of the Smartest People Can't Read...and How They Can Learn](https://www.goodreads.com/book/show/824615.The_Gift_of_Dyslexia)
 * [ng-club](https://ngclub.info/)
-* [Blockly
-  ](https://developers.google.com/blockly/)
+* [Blockly](https://developers.google.com/blockly/)
 
-## Picks
+## **Picks**
 
 **Bonnie Brennan:**
 
-* [ng-club 
-  ](https://ngclub.info/)
+* [ng-club ](https://ngclub.info/)
 * [Blockly - YouTube ](https://www.youtube.com/watch?v=fu9tqTeL-qs)
 
 **Mike Dane:**
 
 * [p5.js](https://p5js.org/)
-* [The Coding Train - p5.js
-  ](https://www.youtube.com/watch?v=yPWkPOfnGsw)
+* [The Coding Train - p5.js](https://www.youtube.com/watch?v=yPWkPOfnGsw)
 
 **Samantha Brennan:**
 
-* [Angular Denver Conference
-  ](https://angulardenver.com/)
+* [Angular Denver Conference](https://angulardenver.com/)
 
 **Brooke Avery:**
 
-* [Kahoot!
-  ](https://kahoot.it/)
+* [Kahoot!](https://kahoot.it/)
 
 **Luis Hernandez:**
 
-* [Code Radio
-  ](https://coderadio.freecodecamp.org/)
+* [Code Radio](https://coderadio.freecodecamp.org/)
 
 **Sam Julien:**
 
