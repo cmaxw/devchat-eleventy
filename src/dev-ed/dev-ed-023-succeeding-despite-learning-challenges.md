@@ -25,8 +25,7 @@ tags:
 * [Brooke Avery](https://thinkster.io/)
 * [Sam Julien](https://twitter.com/samjulien?lang=en)
 * [Luis Hernandez](https://lambdaschool.com/company/)
-* [Mike Dane
-  ](https://www.mikedane.com/)
+* [Mike Dane](https://www.mikedane.com/)
 
 Joined by special guests: [**Bonnie Brennan**](https://www.linkedin.com/in/bonniecarson/)**,** [**Samantha Brennan**](https://twitter.com/thelittlestdev?lang=en)
 
