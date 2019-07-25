@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: react-round-up
 title: 'RRU 072: React Hooks for Global State and More Custom Hooks with Daishi Kato'
-date: 2019-07-30T09:00:13.285Z
+date: 2019-07-30T10:00:13.285Z
 episode_number: '072'
 duration: '51:54'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_072_Daishi_Kato.mp3'
