@@ -27,7 +27,7 @@ tags:
 * [Sam Julien
   ](https://twitter.com/samjulien?lang=en)
 
-Joined by special guest: [**Aspen Payton**](https://www.linkedin.com/in/aspen-payton-28705479/)****
+Joined by special guest: [**Aspen Payton**](https://www.linkedin.com/in/aspen-payton-28705479/)
 
 ## Episode Summary
 
