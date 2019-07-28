@@ -31,8 +31,8 @@ Much reaction has been received for the [tweet](https://twitter.com/skirani/stat
 
 ## Links
 
-* https://twitter.com/skirani/status/1149302834619248640
-* https://twitter.com/mike_conley/status/1149851483241947137
+* <https://twitter.com/skirani/status/1149302834619248640>
+* <https://twitter.com/mike_conley/status/1149851483241947137>
 
 
 
