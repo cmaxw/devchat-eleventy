@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: js-jabber
-title: 'JSJ 376: Trix: A Rich Text Editor for Everyday Wrtiting with Javan Makhmali'
+title: 'JSJ 376: Trix: A Rich Text Editor for Everyday Writing with Javan Makhmali'
 date: 2019-07-23T10:00:06.185Z
 episode_number: '376'
 duration: '52:10'
