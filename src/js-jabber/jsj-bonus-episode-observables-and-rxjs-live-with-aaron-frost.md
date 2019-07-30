@@ -22,7 +22,7 @@ tags:
 
 Aaron Frost joins Charles to talk about what [Observables](https://rxjs-dev.firebaseapp.com/guide/observable) are and why developers should learn about them and use them in their code. He explains the difference between Observables, Promises  and Callbacks with an example. 
 
-Aaron then invites all listeners to attend the upcoming [RxJS Live Conference](https://www.rxjs.live/) and introduces the impressive  [speaker](https://www.rxjs.live/) line-up. The conference will take place on **September 5-6** in **Las Vegas** and tickets are still available. Aaron also offers a $100 discount to all listeners with the code "chuckforlife". For any questions you can DM Aaron on his Twitter[ account](https://twitter.com/aaronfrosted?lang=en).
+Aaron then invites all listeners to attend the upcoming [RxJS Live Conference](https://www.rxjs.live/) and introduces the impressive  [speaker](https://www.rxjs.live/) line-up. The conference will take place on **September 5-6** in **Las Vegas** and tickets are still available. Aaron also offers a $100 discount to all listeners with the code "chuckforlife". For any questions you can DM Aaron on his [Twitter account.](https://twitter.com/aaronfrosted?lang=en)
 
 ## Links
 
