@@ -34,9 +34,15 @@ Much reaction has been received for the [tweet](https://twitter.com/skirani/stat
 * <https://twitter.com/skirani/status/1149302834619248640>
 * <https://twitter.com/mike_conley/status/1149851483241947137>
 
-
-
 ## Picks
+
+**Shai Reznik:**
+
+* [PubConf](https://twitter.com/likeOMGitsFEDAY/status/1148974756907180038)
+
+**Jennifer Wadella:**
+
+* [PubConf](https://twitter.com/likeOMGitsFEDAY/status/1148974756907180038)
 
 **Aaron Frost:**
 
@@ -46,10 +52,6 @@ Much reaction has been received for the [tweet](https://twitter.com/skirani/stat
 
 * 
 
-**Shai Reznik:**
 
-* 
 
-**Jennifer Wadella:**
-
-* [PubConf](https://twitter.com/likeOMGitsFEDAY/status/1148974756907180038)
+****
