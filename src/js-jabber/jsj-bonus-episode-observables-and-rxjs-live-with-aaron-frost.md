@@ -12,7 +12,7 @@ tags:
   - podcast
   - Steve Faulkner
 ---
-* A $100 discount to all listeners with the code **"chuckforlife"** for [RxJS Live ](https://www.rxjs.live/)
+* A $100 discount for [RxJS Live ](https://www.rxjs.live/) all listeners with the code **"chuckforlife"** 
 
 **Host:** Charles Max Wood
 
