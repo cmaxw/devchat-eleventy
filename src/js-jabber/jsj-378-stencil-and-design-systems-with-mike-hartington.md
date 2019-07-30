@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: js-jabber
-title: 'JSJ 378: Stencil and Design Systems with Mike Hartington'
+title: 'JSJ 378: Stencil and Design Systems with Josh Thomas and Mike Hartington'
 date: 2019-07-30T10:00:41.674Z
 episode_number: '378'
 duration: '55:12'
