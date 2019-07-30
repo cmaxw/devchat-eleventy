@@ -12,7 +12,7 @@ tags:
   - podcast
   - Steve Faulkner
 ---
-* A $100 discount to all listeners with the code **"chuckforlife"**
+* A $100 discount to all listeners with the code **"chuckforlife"** for [RxJS Live ](https://www.rxjs.live/)
 
 **Host:** Charles Max Wood
 
@@ -27,5 +27,3 @@ Aaron Frost joins Charles to talk about what [Observables](https://rxjs-dev.fire
 * [RxJS Live Conference](https://www.rxjs.live/)
 * [RxJS Conference Tickets](https://ti.to/rxjslive/2019)
 * [Aaron's Twitter](https://twitter.com/aaronfrosted?lang=en)
-* [Promises ](<https://javascript.info › The JavaScript language › Promises, async/await>)
-* [Callbacks ](<https://javascript.info › The JavaScript language › Promises, async/await>)
