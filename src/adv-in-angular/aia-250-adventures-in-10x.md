@@ -53,6 +53,7 @@ Much reaction has been received for the [tweet](https://twitter.com/skirani/stat
 
 * [OnePlus 7 Pro](https://www.oneplus.com/7pro)
 * [Observables ](https://angular.io/guide/observables)
+* [Pablo Fransisco Bits and Pieces ](https://www.youtube.com/watch?v=LgrMi7KgNW)
 
 
 
