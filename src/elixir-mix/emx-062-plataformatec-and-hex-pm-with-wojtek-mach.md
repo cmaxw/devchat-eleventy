@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: elixir-mix
-title: 'EMx 062: Plataformatec and Hex.pm with Wojtek Mach'
+title: 'EMx 062: Elixir 19 and Hex.pm with Wojtek Mach'
 date: 2019-07-30T10:00:13.302Z
 episode_number: '062'
 duration: '1:04:06'
