@@ -27,7 +27,7 @@ tags:
 
 ## Episode Summary
 
-Much reaction has been received for the [tweet](https://twitter.com/skirani/status/1149302834619248640) about the 10x developers and this week the panel outlines the checklist a 10x developer has to meet in order to be considered a 10x developer  (a developer that output 10 times more code than the rest of the company). From always having their screen background set to black to their generally toxic attitude that is disliked by the rest of the team, 10x developers are generally a reason for others to quit their job. The panel discusses why managers continue to keep these people on even though they affect the overall team production negatively and how they should be dealt with.
+Much reaction has been received for the [tweet](https://twitter.com/skirani/status/1149302834619248640) about the 10x developers and this week the panel outlines the checklist a 10x developer has to meet in order to be considered a 10x developer  (a developer that outputs 10 times more code than the rest of the company). From always having their screen background set to black to their generally toxic attitude that is disliked by the rest of the team, 10x developers are generally a reason for others to quit their job. The panel discusses why managers continue to keep these people on even though they affect the overall team production negatively and how they should be dealt with.
 
 ## Links
 
@@ -55,8 +55,4 @@ Much reaction has been received for the [tweet](https://twitter.com/skirani/stat
 * [Observables ](https://angular.io/guide/observables)
 * [Pablo Fransisco Bits and Pieces ](https://www.youtube.com/watch?v=LgrMi7KgNW)
 
-
-
-
-
-****
+- - -
