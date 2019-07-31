@@ -31,7 +31,7 @@ Joined by Special Guest: Donny Wals
 
 ### **Summary**
 
-Donny Wals joins the panel to discuss his most recent talk at Try!Swift in Tokyo. The panel starts by discussing the most common complaints about Core Data. Donny shares how the changes made in iOS 10 and past updates solve these complaints. The panel discusses migration and how it has changed, making it much simpler and easier to use. NSPersistentContainer, NSFetchedResultsController, and other Core Data features and their use cases are considered.
+Donny Wals joins the panel to discuss his most recent talk at Try!Swift in Tokyo. The panel starts by discussing the most common complaints about Core Data. Donny shares how the changes made in iOS 10 and past updates solve these complaints. The panel discusses migration and how it has changed, making it much simpler and easier to use. Various Core Data features and their use cases are considered.
 
 
 ### **Links**
