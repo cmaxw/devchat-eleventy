@@ -30,9 +30,9 @@ Welcome to the first episode of the Adventures in DevOps podcast!               
 
 ## Links
 
-* Nell’s [Twitter](https://twitter.com/nellshamrell?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [LinkedIn](https://www.linkedin.com/in/nellshamrell/)
-* Lee’s [LinkedIn](https://www.linkedin.com/in/law-fuzzylogic/)
-* Scott’s [Twitter](https://twitter.com/citadelgrad?lang=en), [LinkedIn](https://www.linkedin.com/in/citadelgrad/)
+* [Nell’s Twitter](https://twitter.com/nellshamrell?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [LinkedIn](https://www.linkedin.com/in/nellshamrell/)
+* [Lee’s LinkedIn](https://www.linkedin.com/in/law-fuzzylogic/)
+* [Scott’s Twitter](https://twitter.com/citadelgrad?lang=en), [LinkedIn](https://www.linkedin.com/in/citadelgrad/)
 * [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 * [DORA](https://sfdora.org/)
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
