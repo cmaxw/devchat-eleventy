@@ -37,7 +37,7 @@ Welcome to the first episode of the Adventures in DevOps podcast!               
 * [DORA](https://sfdora.org/)
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 * [The Twelve-Factor App](https://www.12factor.net/)
-* [Kubernetes Failure Storie](https://github.com/hjacobs/kubernetes-failure-stories)s
+* [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
 
 ## Picks
 
