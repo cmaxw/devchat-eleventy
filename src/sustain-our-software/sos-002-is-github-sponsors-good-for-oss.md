@@ -11,6 +11,10 @@ tags:
   - sustain_our_software
   - podcast
 ---
+# Sponsors:
+
+* [CacheFly](https://www.cachefly.com/)
+
 ## Panel
 
 * Richard Littauer
@@ -41,4 +45,4 @@ The panel discusses the announcement of the beta [GitHub Sponsors](https://githu
 
 * https://www.hbo.com/documentaries/momentum-generation
 
-****
+- - -
