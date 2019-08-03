@@ -35,6 +35,8 @@ Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer
 * [Vipul's Twitter](https://twitter.com/vipulgupta2048?lang=en)
 * [Samson Goddy's Twitter](https://twitter.com/Samson_Goddy)
 * [Samson Goddy's LinkedIn](https://www.linkedin.com/in/samsongoddy/)
+* <https://pydelhi.org>
+* <https://asetalias.in/>
 
 ## Picks
 
