@@ -10,6 +10,13 @@ tags:
   - adventures_in_blockchain
   - podcast
 ---
+## **Sponsors**
+
+
+
+*   [CacheFly](https://www.cachefly.com/)
+
+
 ### **Panel**
 
 
@@ -32,4 +39,5 @@ The panel starts by discussing the advantages blockchain gives in the payment wo
 *   [https://www.ethereum.org/](https://www.ethereum.org/) 
 *   [https://bitcoin.org/en/](https://bitcoin.org/en/) 
 *   [https://cognitiveclass.ai/learn/blockchain-for-developers/](https://cognitiveclass.ai/learn/blockchain-for-developers/) 
+*   Join[ The Blockchain Developer Bootcamp](http://www.dappuniversity.com/bootcamp)
 *   [https://www.facebook.com/Adventures-in-Blockchain-1180850735452512/](https://www.facebook.com/Adventures-in-Blockchain-1180850735452512/)
