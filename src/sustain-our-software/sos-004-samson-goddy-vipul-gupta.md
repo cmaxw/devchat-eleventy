@@ -38,6 +38,8 @@ Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer
 * <https://pydelhi.org>
 * [ALiAS](https://asetalias.in/)
 * <https://opencollective.com/osca>
+* <https://twitter.com/unicodeveloper>
+* <https://www.yegor256.com/about-me.html>
 
 ## Picks
 
