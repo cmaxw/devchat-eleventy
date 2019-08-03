@@ -42,4 +42,5 @@ Erni Augusto, a JavaScript developer at htmlcoin, joins the panel to share his e
 *   [https://medium.com/](https://medium.com/)
 *   [https://www.reddit.com/](https://www.reddit.com/) 
 *   [https://www.linkedin.com/in/erni-souza/](https://www.linkedin.com/in/erni-souza/)
+*   Join[ The Blockchain Developer Bootcamp](http://www.dappuniversity.com/bootcamp)
 *   [https://www.facebook.com/Adventures-in-Blockchain-1180850735452512/](https://www.facebook.com/Adventures-in-Blockchain-1180850735452512/)
