@@ -24,7 +24,7 @@ tags:
 
 ## Episode Summary
 
-Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer to talk about  open source activities in Nigeria and India. Samson is the co-founder of [Open Source Community Africa](https://www.oscafrica.org/) and Vipul is a Global Outreach Team Lead at [Sugar Labs](https://www.sugarlabs.org/), an activity-focused open-source software learning platform for children. 
+Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer to talk about  open source activities in Nigeria and India. Samson is the co-founder of [Open Source Community Africa](https://www.oscafrica.org/) and Vipul is a Global Outreach Team Lead at [Sugar Labs](https://www.sugarlabs.org/), an activity-focused open-source software learning platform for children. Both Samson and Vipul agree that a lot of developers are not very familiar with open source and the most common question they receive is how one can contribute to open source.
 
 ## Links:
 
