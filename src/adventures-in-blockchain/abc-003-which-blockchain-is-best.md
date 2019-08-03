@@ -22,24 +22,25 @@ tags:
 
 
 *   Gregory McCubbin
+*   Roman Storm
 *   Bruno Duarte Brito
+
+Joined by Special Guest: Erni Augusto
 
 
 ### **Summary**
 
-The panel compares public and private blockchain. They discuss various use cases for private and public blockchains, sharing real-world examples. They advise choosing a blockchain based on end goals. 
+Erni Augusto, a JavaScript developer at htmlcoin, joins the panel to share his experience at htmlcoin and what they are doing. Using for blockchain for medical records is discussed; Erni shares details of how to check out what htmlcoin is doing with this. Erni shares how the infrastructure works at htmlcoin and technical details of what htmlcoin is using. The panel discusses the 2017 51% attack at htmlcoin and other attacks. Erni discusses his challenges joining the htmlcoin team and learning about decentralization. The panel discusses why someone would want to buy htmlcoin and how to use it. 
 
 
 ### **Links**
 
 
 
-*   [https://www.ethereum.org/](https://www.ethereum.org/)
-*   [http://www.dappuniversity.com/](http://www.dappuniversity.com/) 
-*   [https://coinmarketcap.com/](https://coinmarketcap.com/) 
-*   [https://www.hyperledger.org/](https://www.hyperledger.org/) 
-*   [https://twitter.com/brunoduartbrito](https://twitter.com/brunoduartbrito) 
-*   [https://www.instagram.com/bruno_duarte_brito/?hl=en](https://www.instagram.com/bruno_duarte_brito/?hl=en) 
-*   [https://courses.blockgeeks.com/course-track/business-and-enterprise-blockchain/](https://courses.blockgeeks.com/course-track/business-and-enterprise-blockchain/) 
-*   [http://www.dappuniversity.com/bootcamp](http://www.dappuniversity.com/bootcamp) 
+*   [https://htmlcoin.com/](https://htmlcoin.com/) 
+*   [https://althash.org/](https://althash.org/) 
+*   [https://medium.com/](https://medium.com/)
+*   [https://www.reddit.com/](https://www.reddit.com/) 
+*   [https://www.linkedin.com/in/erni-souza/](https://www.linkedin.com/in/erni-souza/)
+*   Join[ The Blockchain Developer Bootcamp](http://www.dappuniversity.com/bootcamp)
 *   [https://www.facebook.com/Adventures-in-Blockchain-1180850735452512/](https://www.facebook.com/Adventures-in-Blockchain-1180850735452512/)
