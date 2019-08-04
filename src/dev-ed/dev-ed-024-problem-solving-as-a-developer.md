@@ -42,15 +42,15 @@ After discussing problem solving in computing, the panelists change the directio
 
 **Mike Dane:**
 
-* ****[Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+* [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
 **Brooke Avery:**
 
-* ****[Pomelo Travel](https://pomelotravel.com/)
+* [Pomelo Travel](https://pomelotravel.com/)
 
 **Sam Julien:**
 
-* ****[Rocket emoji app](https://matthewpalmer.net/rocket/)
+* [Rocket emoji app](https://matthewpalmer.net/rocket/)
 
 **Luis Hernandez:**
 
@@ -62,4 +62,4 @@ After discussing problem solving in computing, the panelists change the directio
 
 **Joe Eames:**
 
-* ****[Stormboard](https://www.stormboard.com/)
+* [Stormboard](https://www.stormboard.com/)
