@@ -27,9 +27,13 @@ tags:
 
 ## Episode Summary
 
+Craig Spence was a developer at [Trade Me](https://www.trademe.co.nz/) in New Zealand before he moved to Sweden to join [Spotify](https://www.spotify.com/).
+
 ## Links
 
 * [Craig's LinkedIn](https://www.linkedin.com/in/craig-spence/)
+* [Trade Me](https://www.trademe.co.nz/) 
+* [Spotify](https://www.spotify.com/)
 
 ## Picks
 
