@@ -45,14 +45,10 @@ Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer
 
 ## Picks
 
-
-
 **Pia Mancini:**
 
 * Certifications for open source contributions
 * suggestions for opencollective 
-
-
 
 **Vipul Gupta:**
 
@@ -62,8 +58,6 @@ Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer
 
 * https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness
 * https://en.wikipedia.org/wiki/Redshirts_%28novel%29
-
-
 
 **Samson Goddy:**
 
