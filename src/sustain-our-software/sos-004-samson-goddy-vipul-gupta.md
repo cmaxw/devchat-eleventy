@@ -47,12 +47,12 @@ Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer
 
 **Pia Mancini:**
 
-* Certifications for open source contributions
-* suggestions for opencollective 
+* Suggestion for certifications for open source contributions
+* Suggestions to move [opencollective ](https://github.com/opencollective)forward
 
 **Vipul Gupta:**
 
-****
+* ****
 
 **Richard Littauer:**
 
