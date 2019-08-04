@@ -20,14 +20,12 @@ tags:
 * [Luis Hernandez](https://lambdaschool.com/about)
 * [Mike Dane](https://www.mikedane.com/)
 
-Joined by special guest: [**Mike Ryan**](https://www.linkedin.com/in/mikeryandesigns/)****
+Joined by special guest: [**Mike Ryan**](https://www.linkedin.com/in/mikeryandesigns/)
 
 ## Episode Summary
 
 In this episode, the panelists talk to Mike Ryan, Software Architect at Synapse.
 
 ## Links
-
-
 
 ## Picks
