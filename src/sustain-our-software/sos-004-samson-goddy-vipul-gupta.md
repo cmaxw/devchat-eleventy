@@ -24,7 +24,7 @@ tags:
 
 ## Episode Summary
 
-Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer to talk about  open source activities in Nigeria and India. Samson is the Member of the Oversight Board at  [Sugar Labs](https://sugarlabs.org/) and co-founder of [Open Source Community Africa](https://www.oscafrica.org/) and Vipul is a Global Outreach Team Lead at Sugar Labs.  Sugar Labs is an activity-focused open-source software learning platform for children. Both Samson and Vipul agree that a lot of developers they talk to are not very familiar with open source and the most common question they receive in meet-up groups is how one can start to contribute to open source.
+Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer to talk about  open source activities in Nigeria and India. Samson is the Member of the Oversight Board at  [Sugar Labs](https://sugarlabs.org/) and co-founder of [Open Source Community Africa](https://www.oscafrica.org/) and Vipul is a Global Outreach Team Lead at Sugar Labs. Sugar Labs is an activity-focused open-source software learning platform for children. Both Samson and Vipul agree that a lot of developers they talk to are not very familiar with open source and the most common question they receive in meet-up groups is how one can start to contribute to open source. They then discuss what can be done to have more open source contributors and conference attendance from the rest of the world. One of the main issues that make travel difficult is visa rules for non- USA and non- UK citizens. A suggestion for conference specific visas is brought up.
 
 ## Links:
 
@@ -58,7 +58,7 @@ Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer
 **Richard Littauer:**
 
 * https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness
-* https://en.wikipedia.org/wiki/Redshirts_%28novel%29
+* [Redshirts by John Scalzi](https://en.wikipedia.org/wiki/Redshirts_%28novel%29)
 
 **Samson Goddy:**
 
