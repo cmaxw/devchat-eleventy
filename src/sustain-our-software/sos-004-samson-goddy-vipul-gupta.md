@@ -40,6 +40,8 @@ Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer
 * <https://opencollective.com/osca>
 * <https://twitter.com/unicodeveloper>
 * <https://www.yegor256.com/about-me.html>
+* [Bounties - Open Collective Docs](https://docs.opencollective.com/help/developers/bounties)
+* [Sustain Summit 2018 | Sustain Open Source](https://sustainoss.org/)
 
 ## Picks
 
