@@ -45,18 +45,27 @@ Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer
 
 ## Picks
 
-**Richard Littauer:**
 
-* 
 
 **Pia Mancini:**
 
-* 
+* Certifications for open source contributions
+* suggestions for opencollective 
 
-**Samson Goddy:**
 
-* 
 
 **Vipul Gupta:**
 
-- - -
+****
+
+**Richard Littauer:**
+
+* https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness
+* https://en.wikipedia.org/wiki/Redshirts_%28novel%29
+
+
+
+**Samson Goddy:**
+
+* Nigerian Jollof rice
+*
