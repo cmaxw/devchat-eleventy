@@ -10,6 +10,12 @@ image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast
+  - Joe Eames
+  - Brooke Avery
+  - Jesse Sanders
+  - Sam Julien
+  - Luis Hernandez
+  - Mike Dane
 ---
 ## Panel
 
@@ -24,9 +30,9 @@ Joined by special guest: [**Mike Ryan**](https://www.linkedin.com/in/mikeryandes
 
 ## Episode Summary
 
-In this episode, the panelists talk to Mike Ryan, Software Architect at Synapse, Google Developer Expert, and a core team member of the NgRx team. Joe starts the discussion by elaborating on the topic chosen and explains what constitutes a "problem" in a developer's life. He asks the panel how often do they use classical algorithms in their everyday work. They then steer the discussion from implementing classical algorithms to logical ones, and discuss how they tackle and overcome complex computing challenges that can be very taxing. They talk about a technique called "Rubber Duck programming", how to go about creating a conducive environment for problem solving, and explain the concept of "flow" in software development along with its importance while dealing with issues. They discuss if pair programming and mob programming help in problem solving and their benefits.
+In this episode, the panelists talk to Mike Ryan, Software Architect at Synapse, Google Developer Expert, and a core team member of the NgRx team. Joe starts the discussion by elaborating on the topic chosen and explains what constitutes a "problem" in a developer's life. He asks the panel how often do they use classical algorithms in their everyday work. They then steer the discussion from implementing classical algorithms to logical ones, and discuss how they tackle and overcome complex computing challenges that can be very taxing. They talk about a technique called "Rubber Duck programming", how to go about creating a conducive environment for problem solving, and explain the concept of "flow" in software development along with its importance while dealing with issues. They discuss if pair-programming and mob-programming help in problem solving and their benefits.
 
-After discussing problem solving in computing, the panelists change the direction of the conversation towards solving team and process pitfalls.  They talk about how important friendships and emotional investments can be especially when there are challenges at work and Jesse explains a methodology called the Quadrant System. In the end, they speak on handling personal problems as an engineer and offer helpful tips to listeners.
+After discussing problem solving in computing, the panelists change the direction of the conversation towards solving team and process pitfalls.  They talk about how important friendships and emotional investments can be, especially when there are challenges at work and Jesse explains a methodology called the Quadrant System. In the end, they speak on handling personal problems as an engineer and offer helpful tips to listeners.
 
 ## Links
 
