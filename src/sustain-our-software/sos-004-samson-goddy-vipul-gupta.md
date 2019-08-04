@@ -52,7 +52,8 @@ Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer
 
 **Vipul Gupta:**
 
-* ****
+* https://swipetounlock.com/
+* [Vipul's Blog](https://vipulgupta1.wordpress.com/)
 
 **Richard Littauer:**
 
@@ -62,4 +63,4 @@ Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer
 **Samson Goddy:**
 
 * Nigerian Jollof rice
-*
+* [Black Panther (2018) ](https://www.imdb.com/title/tt1825683/)
