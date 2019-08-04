@@ -27,15 +27,11 @@ tags:
 
 ## Episode Summary
 
-
-
 ## Links
 
 * [Craig's LinkedIn](https://www.linkedin.com/in/craig-spence/)
 
-
-
-* ## Picks
+## Picks
 
 **Aaron Frost:**
 
@@ -43,4 +39,4 @@ tags:
 
 **Craig Spence:**
 
-****
+- - -
