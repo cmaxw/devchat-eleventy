@@ -40,17 +40,25 @@ After discussing problem solving in computing, the panelists then change the dir
 
 ## Picks
 
-Sam Julien:
+**Mike Dane:**
 
+* ****[Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
+**Brooke Avery:**
 
-Mike Dane:
+* ****[Pomelo Travel](https://pomelotravel.com/)
 
+**Sam Julien:**
 
+* ****[Rocket emoji app](https://matthewpalmer.net/rocket/)
 
-Brooke Avery:
+**Luis Hernandez:**
 
+* [GitHub projects](https://help.github.com/en/articles/tracking-the-progress-of-your-work-with-project-boards)
 
+**Mike Ryan:**
+
+* [React for CLIs](https://github.com/vadimdemedes/ink)
 
 **Joe Eames:**
 
