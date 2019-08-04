@@ -24,8 +24,34 @@ Joined by special guest: [**Mike Ryan**](https://www.linkedin.com/in/mikeryandes
 
 ## Episode Summary
 
-In this episode, the panelists talk to Mike Ryan, Software Architect at Synapse.
+In this episode, the panelists talk to Mike Ryan, Software Architect at Synapse, Google Developer Expert and a core team member of the NgRx team. Joe elaborates on the topic chosen and what constitutes a "problem" in a developer's life. He asks the panel how often do they use a classical algorithm in their everyday work. They then steer the discussion from implementing classical algorithms to logical ones, and discuss how they tackle overcome complex computing challenges that can be very taxing. They talk about a technique called Rubber Duck programming, how to go about creating a conducive environment for problem solving, and explain the concept of "flow" in programming along with its importance. They discuss if pair programming and mob programming help in problem solving and their benefits.
+
+After discussing problem solving in computing, the panelists then change the direction of the conversation towards solving team and process problems.  They talk about how important friendships and emotional investments can be especially when there are challenges at work and Jesse explains the quadrant system. At the end, they speak on handling personal problems as an engineer and offer helpful tips to listeners.
 
 ## Links
 
+* [Mike on Twitter](https://twitter.com/mikeryandev?lang=en)
+* [Mike Ryan - Angular in Depth](https://blog.angularindepth.com/@MikeRyanDev)
+* [Svelte](https://svelte.dev/)
+* [Rubber Duck Debugging](https://rubberduckdebugging.com/)
+* [Rework](https://www.goodreads.com/book/show/6732019-rework)
+* [Radical Candor](https://www.radicalcandor.com/the-book/)
+* [The viral tweet](https://twitter.com/skirani/status/1149302828420067328) and [response](https://twitter.com/fabiovenni/status/1150112167007596547)!
+
 ## Picks
+
+Sam Julien:
+
+
+
+Mike Dane:
+
+
+
+Brooke Avery:
+
+
+
+**Joe Eames:**
+
+* ****[Stormboard](https://www.stormboard.com/)
