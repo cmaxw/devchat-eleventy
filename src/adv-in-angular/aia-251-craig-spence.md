@@ -10,7 +10,7 @@ image: /images/uploads/angular-thumb-1400x1400.jpg
 tags:
   - adv_in_angular
   - podcast
-  - Minko Gechev
+  - Craig Spence
 ---
 # 
 
