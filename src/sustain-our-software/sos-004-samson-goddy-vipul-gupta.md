@@ -1,7 +1,9 @@
 ---
 layout: layouts/post.njk
 podcast: sustain-our-software
-title: 'SOS 004: Samson Goddy & Vipul Gupta'
+title: >-
+  SOS 004:  Open Source Activities Around the World with Samson Goddy and Vipul
+  Gupta
 date: 2019-08-06T10:00:00.000Z
 episode_number: '004'
 duration: '54:16'
@@ -24,7 +26,7 @@ tags:
 
 ## Episode Summary
 
-Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer to talk about  open source activities in Nigeria and India. Samson is the Member of the Oversight Board at  [Sugar Labs](https://sugarlabs.org/) and co-founder of [Open Source Community Africa](https://www.oscafrica.org/) and Vipul is a Global Outreach Team Lead at Sugar Labs. Sugar Labs is an activity-focused open-source software learning platform for children. Both Samson and Vipul agree that a lot of developers they talk to are not very familiar with open source and the most common question they receive in meet-up groups is how one can start to contribute to open source. They then discuss what can be done to have more open source contributors and conference attendance from the rest of the world. One of the main issues that make travel difficult is obtaining visa for non-USA and non-UK citizens. A practice that France has been doing  for conference specific visas is brought up.
+Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer to talk about  open source activities in Nigeria and India. Samson is the Member of the Oversight Board at  [Sugar Labs](https://sugarlabs.org/) and co-founder of [Open Source Community Africa](https://www.oscafrica.org/) and Vipul is a Global Outreach Team Lead at Sugar Labs. Sugar Labs is an activity-focused open-source software learning platform for children. Both Samson and Vipul agree that a lot of developers they talk to are not very familiar with open source and the most common question they receive in meet-up groups is how one can start to contribute to open source. They then discuss what can be done to have more open source contributors and conference attendance from the rest of the world. One of the main issues that make travel difficult is obtaining visa for non-USA and non-UK citizens. A practice that France has been doing  for conference specific visas is brought up as a beneficial example.
 
 ## Links:
 
