@@ -2,8 +2,8 @@
 layout: layouts/post.njk
 podcast: sustain-our-software
 title: >-
-  SOS 004:  Open Source Activities Around the World with Samson Goddy and Vipul
-  Gupta
+  SOS 004:  Open Source Community Activities Around the World with Samson Goddy
+  and Vipul Gupta
 date: 2019-08-06T10:00:00.000Z
 episode_number: '004'
 duration: '54:16'
