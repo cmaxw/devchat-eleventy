@@ -23,7 +23,7 @@ tags:
 
 **Episode Summary**
 
-Craig Spence joins Aaron Frost at [Angular Denver](https://angulardenver.com/) to tell his story about how he got into Angular.
+Craig Spence joins Aaron Frost at [Angular Denver](https://angulardenver.com/) to tell his story about how he got into Angular. Craig switched majors from music to Multimedia Systems Engineering in university. He interned for [Weta Digital ](https://www.wetafx.co.nz/)using Python. 
 
 ### **Links**
 
@@ -32,3 +32,4 @@ Craig Spence joins Aaron Frost at [Angular Denver](https://angulardenver.com/) t
 * [Trade Me](https://www.trademe.co.nz/) 
 * [Spotify](https://www.spotify.com/)
 * [Angular Denver](https://angulardenver.com/)
+* [CoffeeScript](https://coffeescript.org/)
