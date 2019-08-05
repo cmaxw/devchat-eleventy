@@ -23,10 +23,11 @@ tags:
 
 **Episode Summary**
 
-Craig Spence joins Aaron Frost at [Angular Denver](https://angulardenver.com/) to tell his story about how he started developing with Angular. Craig switched majors from Music to Multimedia Systems Engineering in university. He interned for [Weta Digital ](https://www.wetafx.co.nz/)using Python and there he realized how powerful the web was. He then went to work for [Trade Me](https://www.trademe.co.nz/),  the eBay of New Zealand. There he worked in a team migrating the website from AngularJS to Angular. Because they couldn't take the website down they had to re-write from scratch. 
+Craig Spence joins Aaron Frost at [Angular Denver](https://angulardenver.com/) to tell his story about how he started developing with Angular. Craig switched majors from Music to Multimedia Systems Engineering in university. He interned for [Weta Digital ](https://www.wetafx.co.nz/)using Python and there he realized how powerful the web was. He then went to work for [Trade Me](https://www.trademe.co.nz/),  the eBay of New Zealand. There he worked in a team migrating the website from AngularJS to Angular. Because they couldn't take the website down they had to re-write from scratch. Craig 
 
 **Links**
 
+* https://devchat.tv/admin/adv-in-angular/aia-251-craig-spence
 * [Craig's LinkedIn](https://www.linkedin.com/in/craig-spence/)
 * [Craig's Twitter](https://twitter.com/phenomnominal)
 * [Trade Me](https://www.trademe.co.nz/) 
