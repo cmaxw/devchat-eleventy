@@ -10,7 +10,7 @@ image: /images/uploads/myangularstory-300x300.jpg
 tags:
   - my_angular_story
   - podcast
-  - Brad Greene
+  - Craig Spence
 ---
 ## **Sponsors**
 
@@ -23,7 +23,7 @@ tags:
 
 **Episode Summary**
 
-Craig Spence joins Aaron Frost at [Angular Denver](https://angulardenver.com/)
+Craig Spence joins Aaron Frost at [Angular Denver](https://angulardenver.com/) to tell his story about how he got into Angular.
 
 ### **Links**
 
