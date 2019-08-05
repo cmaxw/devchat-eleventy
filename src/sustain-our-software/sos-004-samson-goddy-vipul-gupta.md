@@ -54,12 +54,11 @@ Samson Goddy and Vipul Gupta join the panelists Pia Mancini and Richard Littauer
 
 **Vipul Gupta:**
 
-* https://swipetounlock.com/
-* [Vipul's Blog](https://vipulgupta1.wordpress.com/)
+* <https://swipetounlock.com/>
 
 **Richard Littauer:**
 
-* https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness
+* <https://en.wikipedia.org/wiki/The_Tyranny_of_Structurelessness>
 * [Redshirts by John Scalzi](https://en.wikipedia.org/wiki/Redshirts_%28novel%29)
 
 **Samson Goddy:**
