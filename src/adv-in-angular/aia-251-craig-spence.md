@@ -12,6 +12,8 @@ tags:
   - podcast
   - Minko Gechev
 ---
+# 
+
 # Sponsors
 
 * [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
