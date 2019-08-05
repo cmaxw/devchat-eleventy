@@ -27,7 +27,7 @@ Craig Spence joins Aaron Frost at [Angular Denver](https://angulardenver.com/) t
 
 **Links**
 
-* [AiA 251: Migrating AngularJS to Angular with Craig Spence](https://devchat.tv/admin/adv-in-angular/aia-251-craig-spence)
+* [AiA 251: Migrating AngularJS to Angular with Craig Spence](https://devchat.tv/adv-in-angular/aia-251-craig-spence/)
 * [Craig's LinkedIn](https://www.linkedin.com/in/craig-spence/)
 * [Craig's Twitter](https://twitter.com/phenomnominal)
 * [Trade Me](https://www.trademe.co.nz/) 
