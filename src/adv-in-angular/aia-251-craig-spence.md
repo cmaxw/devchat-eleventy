@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adv-in-angular
-title: 'AiA 251: Upgrading AngularJS to Angular with Craig Spence'
+title: 'AiA 251: gularJS to Angular with Craig Spence'
 date: 2019-08-06T10:00:00.000Z
 episode_number: '251'
 duration: '42:58'
@@ -28,7 +28,7 @@ tags:
 
 ## Episode Summary
 
-Craig Spence was a developer at [Trade Me](https://www.trademe.co.nz/) in New Zealand before he moved to Sweden to join [Spotify](https://www.spotify.com/). Craig talks about his experiences upgrading New Zealand's biggest website Trade Me from [AngularJS](https://angularjs.org/) to [Angular](https://angular.io/) and the mistakes they made and what they learned during the process. The panel agrees that developers should stop writing in AngularJS and make the decision to move forward. Craig is now working at Spotify and is dealing with a challenging bug for 13 days. 
+Craig Spence was a developer at [Trade Me](https://www.trademe.co.nz/) in New Zealand before he moved to Sweden to join [Spotify](https://www.spotify.com/). Craig talks about his experiences upgrading New Zealand's biggest website Trade Me from [AngularJS](https://angularjs.org/) to [Angular](https://angular.io/) and the mistakes they made and what they learned during the process. One of the tips Craig has for the audience is to get more minds in the room especially for problems that are not  The panel agrees that developers should stop writing in AngularJS and make the decision to move forward. Craig is now working at Spotify and is dealing with a challenging bug for 13 days. 
 
 ## Links
 
@@ -55,6 +55,6 @@ Craig Spence was a developer at [Trade Me](https://www.trademe.co.nz/) in New Ze
 
 **Craig Spence:**
 
-* ****
+* [Frank Turner](https://frank-turner.com/)
 
 - - -
