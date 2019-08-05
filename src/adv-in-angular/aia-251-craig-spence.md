@@ -38,13 +38,12 @@ Craig Spence was a developer at [Trade Me](https://www.trademe.co.nz/) in New Ze
 * [Spotify](https://www.spotify.com/)
 * [Angular Denver](https://angulardenver.com/)
 
-
-
 ## Picks
 
 **Aaron Frost:**
 
-* ****[OnePlus 7 Pro](https://www.oneplus.com/7pro) 
+* [OnePlus 7 Pro](https://www.oneplus.com/7pro) 
+* [Chloe Condon - NG-Conf](https://www.ng-conf.org/2019/speakers/chloe-condon/)
 
 **Alyssa Nicoll:**
 
