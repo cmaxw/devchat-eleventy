@@ -33,16 +33,16 @@ The panel discusses the announcement of the beta [GitHub Sponsors](https://githu
 
 **Jon Schlinkert:**
 
-* https://en.wikipedia.org/wiki/Man's_Search_for_Meaning
+* <https://en.wikipedia.org/wiki/Man's_Search_for_Meaning>
 * Eric Berry
 
 **Eric Berry:**
 
-* https://metabase.com/
-* https://tryshift.com/
+* <https://metabase.com/>
+* <https://tryshift.com/>
 
 **Richard Littauer:**
 
-* https://www.hbo.com/documentaries/momentum-generation
+* <https://www.hbo.com/documentaries/momentum-generation>
 
 - - -
