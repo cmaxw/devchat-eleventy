@@ -6,9 +6,12 @@ date: 2019-08-13T10:00:00.000Z
 episode_number: '005'
 duration: '32:47'
 audio_url: 'https://media.devchat.tv/adventures-in-devops/ADO_005_Panel.mp3'
+image: /images/uploads/adventures-in-devops.jpg
 tags:
   - adventures_in_devops
   - podcast
+  - Nell Shamrell-Harrington
+  - Lee Whalen
 ---
 # Sponsors
 
