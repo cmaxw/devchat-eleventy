@@ -23,7 +23,7 @@ tags:
 
 ## Episode Summary
 
-Greg Bloom, the Chief Organizing Officer of [Open Referral Initiative](https://openreferral.org), a community of practice that develops data standards and open source tools that make it easier to share, find and use information about health, human, and social services.Greg talks about the history of Open Referral Initiative and defines what "commons" is. He mentions how some of the dilemmas developers were facing in Open Source Software resembled some of the dilemmas dealt with in common resource management. The panel then talks about what principles or rules should be defined for using Open Source Software resources.
+Greg Bloom, the Chief Organizing Officer of [Open Referral Initiative](https://openreferral.org), a community of practice that develops data standards and open source tools that make it easier to share, find and use information about health, human, and social services.Greg talks about the evolution of Open Referral Initiative  and defines what "commons" is. He mentions how some of the dilemmas developers are facing in open source software maintenance resembles some of the dilemmas dealt with in common resources management. The panel then talks about what principles or rules should be defined for using open source software resources by taking cues from the common resources management guidelines.
 
 ## Links:
 
@@ -42,7 +42,6 @@ Greg Bloom, the Chief Organizing Officer of [Open Referral Initiative](https://o
 * [Principles of Open Source Institutional Design](https://discourse.sustainoss.org/t/principles-of-open-source-institutional-design/62)
 * <https://aspirationtech.org>
 * [Governing Knowledge Commons by  Brett M. Frischmann, Michael J. Madison, Katherine J. Strandburg ](https://www.amazon.com/Governing-Knowledge-Commons-Brett-Frischmann/dp/0190225823)
-
 
 ## Picks
 
