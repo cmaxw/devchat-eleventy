@@ -23,7 +23,7 @@ tags:
 
 ## Episode Summary
 
-The panel discusses the announcement of the beta [GitHub Sponsors](https://github.com/sponsors), a new way to financially support the developers who build the open source software. They list the features they like that GitHub Sponsors offers but think the beta roll-out could have been handled differently. A lot of critical software is dependent on open source software and many of these open source libraries are maintained by unsupported developers. The panel uses border patrolling drones that are used to identify threats as an example to demonstrate how everyday life can suffer if open source sponsorship is geared only towards finished products rather than libraries like these.
+The panel discusses the announcement of the beta [GitHub Sponsors](https://github.com/sponsors), a new way to financially support the developers who build the open source software. They list the features they like that GitHub Sponsors offers but think the beta roll-out could have been handled differently. A lot of critical software is dependent on open source software and many of these open source software libraries are maintained by unsupported developers. The panel uses border patrolling drones that are used to identify threats as an example to demonstrate how everyday life can suffer if open source sponsorship is geared only towards finished products rather than libraries like these.
 
 ## Links
 
