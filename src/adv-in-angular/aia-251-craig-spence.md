@@ -51,8 +51,10 @@ Craig Spence was a developer at [Trade Me](https://www.trademe.co.nz/) in New Ze
 
 **Shai Reznik:**
 
-* https://github.com/hirezio/jasmine-auto-spies
+* <https://github.com/hirezio/jasmine-auto-spies>
 
 **Craig Spence:**
+
+* ****
 
 - - -
