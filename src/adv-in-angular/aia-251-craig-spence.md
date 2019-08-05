@@ -30,7 +30,7 @@ tags:
 
 ## Episode Summary
 
-Craig Spence was a developer at [Trade Me](https://www.trademe.co.nz/) in New Zealand before he moved to Sweden to join [Spotify](https://www.spotify.com/). Craig talks about his experiences upgrading New Zealand's biggest website Trade Me from [AngularJS](https://angularjs.org/) to [Angular](https://angular.io/) and the mistakes they made and what he learned during the process. One of the tips Craig has for the audience is when faced with a problem ask for help from those who have gone through similar situations before, rather that attempting to solve it alone. The panel also agrees that developers should stop writing in AngularJS and make the decision to move forward. Craig is now working at Spotify in Sweden and is dealing with a challenging bug that has lasted for over 13 days. 
+Craig Spence was a developer at [Trade Me](https://www.trademe.co.nz/) in New Zealand before he moved to Sweden to join [Spotify](https://www.spotify.com/). Trade Me is a website similar to eBay where people buy and sell lots of different items. Craig talks about his experiences upgrading New Zealand's biggest website Trade Me from [AngularJS](https://angularjs.org/) to [Angular](https://angular.io/) and the challenges they faced. One of the tips Craig has for the audience is when faced with a problem it is better to ask for help from those who have been in similar situations before, rather that attempting to solve it alone. The panel also agrees that developers should stop writing in AngularJS and make the decision to move forward. Craig recently started working at Spotify in Sweden and is dealing with a challenging bug that has lasted for over 13 days. 
 
 ## Links
 
