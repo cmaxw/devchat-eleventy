@@ -27,31 +27,31 @@ This new addition to the Devchat.tv podcast family is about software sustainabil
 
 ## Links
 
-* https://www.zdnet.com/article/its-an-open-source-world-78-percent-of-companies-run-open-source-software/
-* https://www.blackducksoftware.com/download/2018-open-source-security-and-risk-analysis-infographic
-* https://www.developer-tech.com/news/2015/oct/14/measuring-value-open-source/
-* https://www.youtube.com/watch?v=oTiyh47zFps
-* tidelift.com
-* opencollective.com
-* maintainer.io
-* codefund.io
-* https://discourse.sustainoss.org/
+* <https://www.zdnet.com/article/its-an-open-source-world-78-percent-of-companies-run-open-source-software/>
+* <https://www.blackducksoftware.com/download/2018-open-source-security-and-risk-analysis-infographic>
+* <https://www.developer-tech.com/news/2015/oct/14/measuring-value-open-source/>
+* [Eric Berry's talk on "Incentivizing and Sustaining Open Source."](<Eric Berry sharing a talk on "Incentivizing and Sustaining Open Source.">)
+* [Tidelift](https://tidelift.com/)
+* [Open Collective](https://opencollective.com/)
+* [Maintainer.io](https://maintainer.io/)
+* [CodeFund](https://codefund.io/)
+* [Sustain](https://discourse.sustainoss.org/)
 
 ## Picks
 
 **Jon Schlinkert:**
 
-* https://tidelift.com
+* [Tidelift](https://tidelift.com/)
 
 **Eric Berry:**
 
-* https://adventure.land
+* [Adventure Land](https://adventure.land)
 
 **Richard Littauer:**
 
-* https://99percentinvisible.org/episode/palaces-for-the-people/
+* [Palaces for the People](https://99percentinvisible.org/episode/palaces-for-the-people/)
 
 **Pia Mancini:**
 
-* https://www.brainpickings.org/figuring/
-* https://www.npr.org/sections/goatsandsoda/2019/03/21/702209976/can-inuit-moms-help-me-tame-my-3-year-olds-anger
+* [Brain Pickings](https://www.brainpickings.org/figuring/)
+* [Can Inuit Moms Help Me Tame My 3-Year-Old's Anger?](https://www.npr.org/sections/goatsandsoda/2019/03/21/702209976/can-inuit-moms-help-me-tame-my-3-year-olds-ange)
