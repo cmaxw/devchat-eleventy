@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: sustain-our-software
-title: 'SOS 001: Sustaining Open Source Projects'
+title: 'SOS 001: Sustaining Open Source Projects '
 date: 2019-08-06T10:00:00.000Z
 episode_number: '001'
 duration: '49:20'
