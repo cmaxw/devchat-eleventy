@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: dev-ed
-title: 'DevEd 025: Reinventing Yourself'
+title: 'Dev Ed 025: Reinventing Yourself'
 date: 2019-08-13T10:00:00.000Z
 episode_number: '025'
 duration: '50:03'
