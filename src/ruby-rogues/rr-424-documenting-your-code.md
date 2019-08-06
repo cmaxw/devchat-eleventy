@@ -4,7 +4,7 @@ podcast: ruby-rogues
 title: 'RR 424: Documenting Your Code'
 date: 2019-08-06T10:00:44.330Z
 episode_number: '424'
-duration: '39:57'
+duration: '40:04'
 audio_url: 'https://media.devchat.tv/ruby-rogues/RR_424_Panel.mp3'
 tags:
   - ruby_rogues
