@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adv-in-angular
-title: 'AiA 251: Trade Me AngularJS to Angular Migration with Craig Spence'
+title: 'AiA 251: AngularJS to Angular Migration with Craig Spence'
 date: 2019-08-06T10:00:00.000Z
 episode_number: '251'
 duration: '42:58'
