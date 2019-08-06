@@ -22,24 +22,18 @@ tags:
 ---
 ## **Sponsors**
 
-
-
-*   [Datadog](https://www.datadoghq.com/dg/apm/synthetics/ts-synthetic-monitoring/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=JavaScriptJabbersDevchat-Tshirt)
-*   [Sentry](https://sentry.io/) use code “devchat” for 2 months free
-
+* [Datadog](https://www.datadoghq.com/dg/apm/synthetics/ts-synthetic-monitoring/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=JavaScriptJabbersDevchat-Tshirt)
+* [Sentry](https://sentry.io/) use code “devchat” for 2 months free
 
 ### **Panel**
 
-
-
-*   Aimee Knight
-*   Chris Ferdinandi
-*   Joe Eames
-*   AJ O’Neal
-*   Charles Max Wood
+* Aimee Knight
+* Chris Ferdinandi
+* Joe Eames
+* AJ O’Neal
+* Charles Max Wood
 
 With Special Guests: Josh Thomas and Mike Hartington
-
 
 ### **Episode Summary**
 
@@ -49,70 +43,55 @@ The panel discusses when design systems should be implemented. Since Ionic is a 
 
 The panel discusses some of the drawbacks of web components. They discuss whether or not Cordova changes the game at all. One of the big advantages of using Stencil is the code that is delivered to a browser is generated in such a way that a lot of things are handled for you, unlike in other systems.The panelists talk about their thoughts on web components and the benefits of using a component versus creating a widget the old fashioned way. One such benefit of web components is that you can change the internals of how it works without affecting the API. Josh and Mike talk about some of the abilities of Stencil and compare it to other things like Tachyons. There is a short discussion of the line between frameworks and components and the dangers of pre optimization. If you would like to learn more about Stencil, go to [stenciljs.com](https://stenciljs.com/) and follow Josh and Mike @Jtoms1 and @mhartington.
 
+[Click here to cast your vote NOW for JavaScript Jabber - Best Dev Podcast Award](https://noonies.hackernoon.com/award/cjxrat2ogn51d0b429e2zwy52)
+
 **Links**
 
-
-
-*   [Building Design Systems](https://www.amazon.com/Building-Design-Systems-Experiences-Language/dp/148424513X) book
-*   [Stencil](https://stenciljs.com/)
-*   [Cordova](https://cordova.apache.org/)
-*   [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
-*   [Tachyons ](https://tachyons.io/)
-*   [Ionic 4](https://ionicframework.com/blog/introducing-ionic-4-ionic-for-everyone/)
+* [Building Design Systems](https://www.amazon.com/Building-Design-Systems-Experiences-Language/dp/148424513X) book
+* [Stencil](https://stenciljs.com/)
+* [Cordova](https://cordova.apache.org/)
+* [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+* [Tachyons ](https://tachyons.io/)
+* [Ionic 4](https://ionicframework.com/blog/introducing-ionic-4-ionic-for-everyone/)
 
 Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
-
 
 ### **Picks**
 
 **Aimee Knight:**
 
-
-
-*   [What Does Debugging a Program Look Like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/)
+* [What Does Debugging a Program Look Like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/)
 
 **AJ O’Neal:**
 
-
-
-*   [Legend of Zelda: Link’s Awakening](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
-*   [Neon Genesis Evangelion soundtrack](https://amzn.to/2FyZBjH?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
-*   [Prettier](https://prettier.io/)
+* [Legend of Zelda: Link’s Awakening](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
+* [Neon Genesis Evangelion soundtrack](https://amzn.to/2FyZBjH?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [Prettier](https://prettier.io/)
 
 **Chris Ferdinandi:**
 
-
-
-*   [Kindle Paperwhite](https://www.amazon.com/Amazon-Kindle-Ereader-Family/b/?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
-*   [Company of One](https://ofone.co/)
+* [Kindle Paperwhite](https://www.amazon.com/Amazon-Kindle-Ereader-Family/b/?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [Company of One](https://ofone.co/)
 
 **Charles Max Wood:**
 
-
-
-*   Ladders with feet
-*   [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-*   [Acorns](https://www.acorns.com/chrome-extension/)
+* Ladders with feet
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+* [Acorns](https://www.acorns.com/chrome-extension/)
 
 **Joe Eames:**
 
-
-
-*   [Moment.js](https://momentjs.com/)
-*   [How To Increase Your Page Size by 1500% article](https://css-tricks.com/how-to-increase-your-page-size-by-1500-with-webpack-and-vue/)
-*   [Day.js](https://www.npmjs.com/package/dayjs)
+* [Moment.js](https://momentjs.com/)
+* [How To Increase Your Page Size by 1500% article](https://css-tricks.com/how-to-increase-your-page-size-by-1500-with-webpack-and-vue/)
+* [Day.js](https://www.npmjs.com/package/dayjs)
 
 **Josh Thomas:**
 
-
-
-*   [Toy Story 4](https://www.imdb.com/title/tt1979376/)
+* [Toy Story 4](https://www.imdb.com/title/tt1979376/)
 
 **Mike Hartington:**
 
-
-
-*   [Building Design Systems](http://www.buildingdesignsystems.design)
-*   [Youmightnotneed.com](https://youmightnotneed.com/momentjs/)
+* [Building Design Systems](http://www.buildingdesignsystems.design)
+* [Youmightnotneed.com](https://youmightnotneed.com/momentjs/)
 
 <!-- Docs to Markdown version 1.0β17 -->
