@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: dev-ed
-title: 'Dev Ed 025: Reinventing Yourself'
+title: 'DevEd 025: Reinventing Yourself'
 date: 2019-08-13T10:00:00.000Z
 episode_number: '025'
 duration: '50:03'
@@ -17,6 +17,10 @@ tags:
   - Mike Brocchi
   - reinventing
 ---
+# Sponsors
+
+* [CacheFly](https://www.cachefly.com/)
+
 ## Panel
 
 * [Joe Eames](https://thinkster.io/)
@@ -28,26 +32,28 @@ Joined by special guest: [**Mike Brocchi**](https://www.linkedin.com/in/mikebroc
 
 ## Episode Summary
 
-This episode of the Dev Ed podcast is joined by Mike Brocchi, currently working as a Front-End Developer for Ultimate Software, and has done significant work on the Angular CLI in the past. Joe begins the show by asking the panel what reinventing oneself means to them leading to an interesting discussion. They each share some triggers which made them think about changing course or or starting over again. They share their own experiences where they ended up reconsidering their life choices due to certain roadblocks ultimately resulting in a fulfilling and happy career. They discuss how comfort works against all of this, and how reinventing does not necessarily needs to be a better job or higher salary, it can simply mean choosing something satisfying and challenging. 
+This episode of the Dev Ed podcast is joined by Mike Brocchi, who is currently working as a Front-End Developer for Ultimate Software, and has done significant work on the Angular CLI in the past. Joe begins the show by asking the panel what reinventing oneself means to them, starting off an interesting discussion. They each talk about some triggers that made them think about changing course in their ongoing professional path  or even starting over again. They share their own experiences where they reconsidered their life choices due to certain roadblocks and took necessary actions, ultimately resulting in a fulfilling and happy career. They discuss how comfort works against all of this, and how reinventing does not necessarily have to be a better job or higher salary, it can simply mean choosing something satisfying and challenging. 
 
-The panelists then help listeners understand how to understand and recognize that the need for reinventing themselves, how to go about the process, and different ways and resources that can be used to do so.
+In the end, the panelists then help listeners understand how to understand and recognize the need for reinventing themselves, how to go about the process, and different ways and resources that can be used to do so.
 
-## Links 
+## Links
 
 * [Mike's Twitter](https://twitter.com/Brocco)
 
 ## Picks
 
-**Brooke Avery:**
+**Luis Hernandez:**
 
-* ****[Star Wars: Jedi Challenges](https://www.lenovo.com/us/en/jedichallenges)
+* [How It Actually Works](https://www.howitactuallyworks.com/)
 
 **Sam Julien:**
 
-**Luis Hernandez:**
-
-* ****[How It Actually Works](https://www.howitactuallyworks.com/)
+* [Standing Desk](https://www.autonomous.ai/)
 
 **Mike Brocchi:**
 
-**Joe Eames:**
+* [The Umbrella Academy](https://bpb.opendns.com/b/https/www.netflix.com/title/80186863)
+
+**Brooke Avery:**
+
+* [Star Wars: Jedi Challenges](https://www.lenovo.com/us/en/jedichallenges)****
