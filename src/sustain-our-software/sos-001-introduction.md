@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: sustain-our-software
-title: 'SOS 001: Funding Open Source Projects'
+title: 'SOS 001: Sustaining Open Source Projects'
 date: 2019-08-06T10:00:00.000Z
 episode_number: '001'
 duration: '49:20'
@@ -31,7 +31,7 @@ This new addition to the Devchat.tv podcast family is about software sustainabil
 * <https://www.zdnet.com/article/its-an-open-source-world-78-percent-of-companies-run-open-source-software/>
 * <https://www.blackducksoftware.com/download/2018-open-source-security-and-risk-analysis-infographic>
 * <https://www.developer-tech.com/news/2015/oct/14/measuring-value-open-source/>
-* [Eric Berry's talk on "Incentivizing and Sustaining Open Source."](<Eric Berry sharing a talk on "Incentivizing and Sustaining Open Source.">)
+* Eric Berry's talk on "Incentivizing and Sustaining Open Source.
 * [Tidelift](https://tidelift.com/)
 * [Open Collective](https://opencollective.com/)
 * [Maintainer.io](https://maintainer.io/)
