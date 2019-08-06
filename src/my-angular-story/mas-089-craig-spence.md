@@ -23,7 +23,7 @@ tags:
 
 **Episode Summary**
 
-Craig Spence joins Aaron Frost at [Angular Denver](https://angulardenver.com/) to share his journey as an Angular developer. After switching majors from Music to Multimedia Systems Engineering in university, Craig interned for [Weta Digital](https://www.wetafx.co.nz/) and there he realized how powerful the web was. He then started working for [Trade Me](https://www.trademe.co.nz/), an eBay like website in New Zealand where people buy and sell all kinds of things . There he worked in a team migrating the website from AngularJS to Angular.  Craig shares his experiences and many crises they faced during this transition and explains how they resolved them. He currently  works as a Senior Engineer at [Spotify](https://www.spotify.com/) in Sweden. 
+Craig Spence joins Aaron Frost at [Angular Denver](https://angulardenver.com/) to share his journey as an Angular developer. After switching majors from Music to Multimedia Systems Engineering in university, Craig interned for [Weta Digital](https://www.wetafx.co.nz/) and there he realized how powerful the web was. He then started working for [Trade Me](https://www.trademe.co.nz/), an eBay like website in New Zealand where people buy and sell all kinds of things . There he worked in a team migrating the website from AngularJS to Angular. Craig shares his experiences and many crises they faced during this transition and explains how they resolved them. He currently  works as a Senior Engineer at [Spotify](https://www.spotify.com/) in Sweden. 
 
 **Links**
 
