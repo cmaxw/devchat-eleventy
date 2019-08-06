@@ -31,7 +31,7 @@ This new addition to the Devchat.tv podcast family is about software sustainabil
 * <https://www.zdnet.com/article/its-an-open-source-world-78-percent-of-companies-run-open-source-software/>
 * <https://www.blackducksoftware.com/download/2018-open-source-security-and-risk-analysis-infographic>
 * <https://www.developer-tech.com/news/2015/oct/14/measuring-value-open-source/>
-* Eric Berry's talk on "Incentivizing and Sustaining Open Source.
+* [Eric Berry's talk on Incentivizing and Sustaining Open Source](https://www.youtube.com/watch?v=oTiyh47zFps)
 * [Tidelift](https://tidelift.com/)
 * [Open Collective](https://opencollective.com/)
 * [Maintainer.io](https://maintainer.io/)
