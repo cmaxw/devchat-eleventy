@@ -36,7 +36,7 @@ Jeff Meyerson is the host of the Software Engineering daily podcast and has also
 
 Jeff talks about his podcast Software Engineering Daily and how it got started and the focus of the podcast. As someone working in technology, it is important to stay current on up and coming technology, and listening to podcasts is an excellent way to do that. Jeff talks about where he thinks podcasting is going, especially for programmers. The panel discusses some of the benefits of listening to programming podcasts. Jeff talks about how he is prepping Software Engineering Daily for the future. He shares the audience size for Software Engineering Daily and some of the statistics for his different channels. Jeff has also released an app for Software Engineering Daily, and he shares some information on how it was written. Finally, Jeff gives advice for people who want to use FindCollabs and some of the next steps after creating a profile.
 
-[**Click here to cast your vote NOW for JavaScript Jabber - Best Dev Podcast Award**](https://noonies.hackernoon.com/award/cjxrat2ogn51d0b429e2zwy52)****
+[Click here to cast your vote NOW for JavaScript Jabber - Best Dev Podcast Award](https://noonies.hackernoon.com/award/cjxrat2ogn51d0b429e2zwy52)
 
 **Links**
 
