@@ -56,4 +56,4 @@ In the end, the panelists then help listeners understand how to understand and r
 
 **Brooke Avery:**
 
-* [Star Wars: Jedi Challenges](https://www.lenovo.com/us/en/jedichallenges)****
+* [Star Wars: Jedi Challenges](https://www.lenovo.com/us/en/jedichallenges)
