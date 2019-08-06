@@ -7,6 +7,7 @@ episode_number: '002'
 duration: '46:43'
 audio_url: >-
   https://media.devchat.tv/sustain-our-software/SOS_002_Is_GitHub_Sponsors_Good_for_OSS.mp3
+image: /images/uploads/sustain-our-software-sos-album-art-v2.jpg
 tags:
   - sustain_our_software
   - podcast
