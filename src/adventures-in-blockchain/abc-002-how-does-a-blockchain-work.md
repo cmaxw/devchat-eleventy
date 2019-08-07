@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: adventures-in-blockchain
 title: 'ABC 002: How Does a Blockchain Work?'
-date: 2019-08-06T10:00:00.155Z
+date: 2019-08-06T10:02:00.000Z
 episode_number: '002'
 duration: '1:00:50'
 audio_url: 'https://devchat.cachefly.net/adventures-in-blockchain/ABC_002_Panel.mp3'
