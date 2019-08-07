@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: adventures-in-devops
 title: 'DevOps 003: The Tool Chain Crisis with Priyanka Sharma'
-date: 2019-08-06T10:00:09.670Z
+date: 2019-08-06T10:03:00.000Z
 episode_number: '003'
 duration: '1:19:01'
 audio_url: 'https://media.devchat.tv/adventures-in-devops/ADO_003_Priyanka_Sharma.mp3'
