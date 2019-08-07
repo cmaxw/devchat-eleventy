@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: adventures-in-blockchain
 title: 'ABC 003: Which Blockchain is Best'
-date: 2019-08-06T10:00:30.218Z
+date: 2019-08-06T10:04:00.000Z
 episode_number: '003'
 duration: '42:55'
 audio_url: 'https://media.devchat.tv/adventures-in-blockchain/ABC_003_Panel.mp3'
