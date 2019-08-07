@@ -22,7 +22,7 @@ tags:
 ---
 ## **Sponsors**
 
-* [Datadog](https://www.datadoghq.com/dg/apm/synthetics/ts-synthetic-monitoring/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=JavaScriptJabbersDevchat-Tshirt)
+* [Datadog](https://dtdg.co/javascriptjabber)
 * [Sentry](https://sentry.io/) use code “devchat” for 2 months free
 
 ### **Panel**
