@@ -17,7 +17,7 @@ tags:
 ---
 ## **Sponsors**
 
-* [Datadog](https://www.datadoghq.com/dg/apm/synthetics/ts-synthetic-monitoring/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=JavaScriptJabbersDevchat-Tshirt)
+* [Datadog](https://dtdg.co/javascriptjabber)
 * [Sentry](http://sentry.io/)– use the code “devchat” for $100 credit
 
 ### **Panel**
