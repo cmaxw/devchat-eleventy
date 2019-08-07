@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adventures-in-blockchain
-title: 'ABC 004: Htmlcoin with Erni Augusto'
+title: 'ABC 004: Htmlcoin a Hybrid Coin with Erni Augusto'
 date: 2019-08-06T10:06:00.000Z
 episode_number: '004'
 duration: '35:18'
@@ -30,8 +30,7 @@ Joined by Special Guest: Erni Augusto
 
 ### **Summary**
 
-Erni Augusto, a JavaScript developer at htmlcoin, joins the panel to share his experience at htmlcoin and what they are doing. Using for blockchain for medical records is discussed; Erni shares details of how to check out what htmlcoin is doing with this. Erni shares how the infrastructure works at htmlcoin and technical details of what htmlcoin is using. The panel discusses the 2017 51% attack at htmlcoin and other attacks. Erni discusses his challenges joining the htmlcoin team and learning about decentralization. The panel discusses why someone would want to buy htmlcoin and how to use it. 
-
+Erni Augusto, a JavaScript developer at htmlcoin, joins the panel to share his experience at htmlcoin, what it means to be a hybrid coin and what can be done with it. Using for blockchain for medical records is discussed; Erni shares details of how to check out what htmlcoin is doing with this. Erni shares how the infrastructure works at htmlcoin and technical details of what htmlcoin is using. The panel discusses the 2017 51% attack at htmlcoin and other attacks. Erni discusses his challenges joining the htmlcoin team and learning about decentralization. The panel discusses why someone would want to buy htmlcoin and how to use it. 
 
 ### **Links**
 

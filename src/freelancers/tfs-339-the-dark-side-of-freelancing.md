@@ -37,5 +37,6 @@ Jeremy Green and Erik Dietrich discuss the unforeseen pain points of becoming a 
 
 **Jeremy Green:**
 
-- [https://kaidavis.com/independent-consulting-manual/](https://kaidavis.com/independent-consulting-manual/)
-- [Increasingyourconsultingfees.com](https://www.remarq.io/consulting-value/)
+- [The Independent Consulting Manual](https://kaidavis.com/independent-consulting-manual/)
+- [Increase Your Consulting Fees - Email Course](https://www.remarq.io/consulting-value/)
+

@@ -4,7 +4,7 @@ podcast: sustain-our-software
 title: >-
   SOS 004:  Open Source Community Activities Around the World with Samson Goddy
   and Vipul Gupta
-date: 2019-08-06T10:00:00.000Z
+date: 2019-08-06T10:04:00.000Z
 episode_number: '004'
 duration: '54:16'
 audio_url: >-

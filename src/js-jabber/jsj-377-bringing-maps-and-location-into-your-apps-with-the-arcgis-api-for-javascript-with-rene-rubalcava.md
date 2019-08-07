@@ -23,7 +23,7 @@ tags:
 ---
 ## **Sponsors**
 
-* [Datadog](https://dtdg.co/javascriptjabber) 
+* [Datadog ](https://dtdg.co/javascriptjabber)
 * [Sentry](https://sentry.io/) use code “devchat” for 2 months free
 
 ### **Panel**

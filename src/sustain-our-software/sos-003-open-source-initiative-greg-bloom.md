@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: sustain-our-software
 title: 'SOS 003: Open Source Initiative with Greg Bloom  '
-date: 2019-08-06T10:00:00.000Z
+date: 2019-08-06T10:03:00.000Z
 episode_number: '003'
 duration: '1:08:02'
 audio_url: ' https://media.devchat.tv/sustain-our-software/SOS_003_Greg_Bloom.mp3'
