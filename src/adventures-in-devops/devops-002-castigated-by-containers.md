@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: adventures-in-devops
 title: 'DevOps 002: Castigated by Containers'
-date: 2019-08-06T10:00:06.274Z
+date: 2019-08-06T10:01:00.000Z
 episode_number: '002'
 duration: '47:33'
 audio_url: 'https://media.devchat.tv/adventures-in-devops/ADO_002_Panel.mp3'
