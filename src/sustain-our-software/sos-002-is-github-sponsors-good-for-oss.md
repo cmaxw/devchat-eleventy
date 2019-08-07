@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: sustain-our-software
 title: 'SOS 002: Is GitHub Sponsors Good for Open Source Software (OSS)'
-date: 2019-08-06T10:00:00.000Z
+date: 2019-08-06T10:02:00.000Z
 episode_number: '002'
 duration: '46:43'
 audio_url: >-
