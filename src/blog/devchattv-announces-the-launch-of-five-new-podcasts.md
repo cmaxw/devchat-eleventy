@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: DevChatTV Announces the Launch of Five New Podcasts
 date: 2019-08-06T13:00:00.000Z
 author: charles-max-wood
-image: /images/uploads/devchattv-website-cover.png
+image: /images/uploads/recording-microphone.jpg
 tags:
   - blockchain
   - developers
