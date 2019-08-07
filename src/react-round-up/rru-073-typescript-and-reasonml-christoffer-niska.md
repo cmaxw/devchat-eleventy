@@ -100,7 +100,7 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP
 
 
 
-*   [Brian Vaughn’s React Tools rewrite](https://complexityexplained.github.io/)
+*   [Brian Vaughn’s React Tools rewrite](https://github.com/bvaughn/react-devtools-experimental)
 
 **Lucas Reis:**
 
