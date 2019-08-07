@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: adventures-in-devops
 title: 'DevOps 004: Blameless culture and Reliability with Ashar Rizqi'
-date: 2019-08-06T10:00:59.009Z
+date: 2019-08-06T10:04:00.000Z
 episode_number: '004'
 duration: '1:06:12'
 audio_url: 'https://media.devchat.tv/adventures-in-devops/ADO_004_Ashar_Rizqi.mp3'

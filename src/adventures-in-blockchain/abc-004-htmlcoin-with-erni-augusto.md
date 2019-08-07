@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: adventures-in-blockchain
 title: 'ABC 004: Htmlcoin with Erni Augusto'
-date: 2019-08-06T10:00:29.380Z
+date: 2019-08-06T10:06:00.000Z
 episode_number: '004'
 duration: '35:18'
 audio_url: 'https://media.devchat.tv/adventures-in-blockchain/ABC_004_Erni_Augusto.mp3'
