@@ -19,8 +19,8 @@ tags:
 ---
 ## **Sponsors**
 
-* [RxJS Live](https://www.rxjs.live/) 
 * [Netlify](https://www.netlify.com/)
+* [RxJS Live](https://www.rxjs.live/) 
 
 ### **Panel**
 
