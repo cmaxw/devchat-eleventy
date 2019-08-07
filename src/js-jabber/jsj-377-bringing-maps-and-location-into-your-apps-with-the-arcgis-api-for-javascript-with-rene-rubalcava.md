@@ -23,21 +23,16 @@ tags:
 ---
 ## **Sponsors**
 
-
-
-*   [Sentry](https://sentry.io/) use code “devchat” for 2 months free
-
+* [Datadog](https://dtdg.co/javascriptjabber) 
+* [Sentry](https://sentry.io/) use code “devchat” for 2 months free
 
 ### **Panel**
 
-
-
-*   Aimee Knight
-*   AJ O’Neal
-*   Charles Max Wood
+* Aimee Knight
+* AJ O’Neal
+* Charles Max Wood
 
 With Special Guest: Rene Rubalcava
-
 
 ### **Episode Summary**
 
@@ -49,47 +44,36 @@ The panel discusses how the prevalence of smartphones has changed mapping and GP
 
 **Links**
 
-
-
-*   [Webricate ](http://webricate.com/)
-*   [Esri](https://www.esri.com/en-us/home)
-*   [ArcGIS](http://www.arcgis.com/index.html)
+* [Webricate ](http://webricate.com/)
+* [Esri](https://www.esri.com/en-us/home)
+* [ArcGIS](http://www.arcgis.com/index.html)
 
 Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
-
 
 ### **Picks**
 
 **Rene Rubalcava:**
 
-
-
-*   [Old Man’s War series](https://www.amazon.com/Old-Mans-War-John-Scalzi/dp/0765348276?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
-*   [Always Be My Maybe](https://www.imdb.com/title/tt7374948/)
-*   [Rene’s website](https://odoe.net/)
+* [Old Man’s War series](https://www.amazon.com/Old-Mans-War-John-Scalzi/dp/0765348276?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [Always Be My Maybe](https://www.imdb.com/title/tt7374948/)
+* [Rene’s website](https://odoe.net/)
 
 **AJ O’Neal:**
 
-
-
-*   [INTL](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Intl)
-*   [Colorful](https://www.amazon.com/Colorful-Blu-ray-Kazato-Tomizawa/dp/B00B6DTF8S/ref=sr_1_1??ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
-*   [Time zones in Postgress](https://stackoverflow.com/questions/56640261/how-to-do-row-level-tz-to-utc-conversion-with-postgres/56640262#56640262)
-*   [Time zones in JavaScript](https://git.rootprojects.org/root/when.js)
+* [INTL](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Intl)
+* [Colorful](https://www.amazon.com/Colorful-Blu-ray-Kazato-Tomizawa/dp/B00B6DTF8S/ref=sr_1_1??ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [Time zones in Postgress](https://stackoverflow.com/questions/56640261/how-to-do-row-level-tz-to-utc-conversion-with-postgres/56640262#56640262)
+* [Time zones in JavaScript](https://git.rootprojects.org/root/when.js)
 
 **Aimee Knight:**
 
-
-
-*   [Advice to Less Experienced Developers](https://afreshcup.com/home/2019/06/01/advice-to-less-experienced-developers)
+* [Advice to Less Experienced Developers](https://afreshcup.com/home/2019/06/01/advice-to-less-experienced-developers)
 
 **Charles Max Wood:**
 
-
-
-*   [Heber Half Marathon](https://heberhalf.com/)
-*   [Netlify CMS](https://www.netlifycms.org/)
-*   [Villainous](https://www.amazon.com/Wonder-Forge-Disney-Villainous-Strategy/dp/B07DLGD9K6/ref=sr?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US_1_1)
-*   [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+* [Heber Half Marathon](https://heberhalf.com/)
+* [Netlify CMS](https://www.netlifycms.org/)
+* [Villainous](https://www.amazon.com/Wonder-Forge-Disney-Villainous-Strategy/dp/B07DLGD9K6/ref=sr?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US_1_1)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 <!-- Docs to Markdown version 1.0β17 -->

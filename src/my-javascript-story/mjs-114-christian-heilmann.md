@@ -42,7 +42,7 @@ Christian Heilmann got his first computer, a Commodore 64, at a flea market. He 
 **Christian Heilmann:**
 
 * <https://webhint.io/>
-* <http://csstricks.com/>
+*  <https://css-tricks.com/>
 * <https://dev.to/>
 * <https://codepen.io/>
 * [Microsoft Edge Insider](https://www.microsoftedgeinsider.com/) 
