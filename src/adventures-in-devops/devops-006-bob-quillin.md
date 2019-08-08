@@ -11,10 +11,44 @@ tags:
   - adventures_in_devops
   - podcast
 ---
-Sponsors
+# Sponsors
 
-CacheFly
+* [CacheFly](https://www.cachefly.com/)
 
-Panel
+## Panel
 
-Nell-Shamrell Harrington
+* Nell Shamrell-Harrington
+* Lee Whalen
+* Scott Nixon
+
+Joined by special guests: Bob Quillin, Charles Max Wood
+
+## Episode Summary
+
+
+
+## Links
+
+Nell’s Twitter, LinkedIn
+
+Lee’s LinkedIn
+
+Scott’s Twitter, LinkedIn
+
+The Phoenix Project
+
+DORA
+
+The Joel Test: 12 Steps to Better Code
+
+The Twelve-Factor App
+
+Kubernetes Failure Stories
+
+## Picks
+
+Nell Shamrell-Harrington:
+
+
+
+Scott Nixon:
