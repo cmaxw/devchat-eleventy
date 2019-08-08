@@ -6,7 +6,7 @@ date: 2019-08-06T10:03:00.000Z
 episode_number: '003'
 duration: '1:08:02'
 audio_url: ' https://media.devchat.tv/sustain-our-software/SOS_003_Greg_Bloom.mp3'
-image: /images/uploads/sustain-our-software-sos-album-art-v2.jpg
+image: /images/uploads/sustain-our-software-270.jpg
 tags:
   - sustain_our_software
   - podcast
