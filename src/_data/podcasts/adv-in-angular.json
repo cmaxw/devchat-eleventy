@@ -7,7 +7,7 @@
   "current": true,
   "podwrench_slug": "adventures-in-angular",
   "sponsor_layout": "podwrench_3_sponsors.njk",
-  "drip_form": "4885765",
+  "email_form_id": "13",
   "color": "red",
   "facebook": "https://www.facebook.com/adventuresinangular/",
   "twitter": "https://twitter.com/angularpodcast",

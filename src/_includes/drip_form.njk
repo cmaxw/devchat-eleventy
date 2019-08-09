@@ -1,6 +1,6 @@
-<form method="POST" action="https://devchat.activehosted.com/proc.php" id="_form_5_" class="_form _form_5 _inline-form  _dark" novalidate>
-  <input type="hidden" name="u" value="5" />
-  <input type="hidden" name="f" value="5" />
+<form method="POST" action="https://devchat.activehosted.com/proc.php" id="_form_{{podcasts[ podcast ]['email_form_id'] | default(5)}}_" class="_form _form_{{podcasts[ podcast ]['email_form_id'] | default(5)}} _inline-form  _dark" novalidate>
+  <input type="hidden" name="u" value="{{podcasts[ podcast ]['email_form_id'] | default(5)}}" />
+  <input type="hidden" name="f" value="{{podcasts[ podcast ]['email_form_id'] | default(5)}}" />
   <input type="hidden" name="s" />
   <input type="hidden" name="c" value="0" />
   <input type="hidden" name="m" value="0" />
@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="_button-wrapper _full_width">
-      <button id="_form_5_submit" class="_submit btn btn-primary" type="submit">
+      <button id="_form_{{podcasts[ podcast ]['email_form_id'] | default(5)}}_submit" class="_submit btn btn-primary" type="submit">
         Submit
       </button>
     </div>

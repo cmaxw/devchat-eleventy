@@ -7,7 +7,7 @@
   "current": true,
   "podwrench_slug": "javascript-jabber",
   "sponsor_layout": "podwrench_3_sponsors.njk",
-  "drip_form": "3602938",
+  "email_form_id": "7",
   "color": "yellow",
   "facebook": "https://www.facebook.com/javascriptjabber/",
   "twitter": "https://twitter.com/jsjabber",
