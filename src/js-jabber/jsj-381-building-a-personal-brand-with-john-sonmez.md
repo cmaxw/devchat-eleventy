@@ -38,7 +38,7 @@ John is the founder of Bulldog Mindset andSimple Programmer, which teaches softw
 
 John talks about ways to build your personal brand. One of the easiest ways is blogging but he talks about other methods like podcasts YouTube, writing books, and others. A key to building a personal brand is choosing something that you can become the best at, no matter how small it is. The panel shares their experiences of what things have gotten them attention and notoriety and talk about how other influential programmers got famous. They talk about interacting with central platforms like Medium and Github. Building a personal brand for software developers is the same as any other personal brand, such as having a consistent message, consistent logos and color schemes, and repeated exposure). Most people in the software world aren’t willing to do what’s necessary to build a personal brand, so it makes you stand out when you do it. John talks about the importance of controlling your image so that companies want to hire you. John gives a brief overview of his course How to Market Yourself as a Software Developer. 
 
-\***\*[**Click here to cast your vote NOW for JavaScript Jabber - Best Dev Podcast Award**](https://noonies.hackernoon.com/award/cjxrat2ogn51d0b429e2zwy52)\*\***
+**\*\*[**Click here to cast your vote NOW for JavaScript Jabber - Best Dev Podcast Award**](https://noonies.hackernoon.com/award/cjxrat2ogn51d0b429e2zwy52)\*\***
 
 ### **Links**
 
