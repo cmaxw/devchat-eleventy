@@ -7,7 +7,6 @@ episode_number: '417'
 duration: '1:37:17'
 audio_url: >-
   https://media.devchat.tv/ruby-rogues/RR_417_The_Devchat.tv_Mission_and_Journey_with_Charles_Max_Wood.mp3
-image: /images/uploads/ruby-rogues-thumb-1-300x300.jpg
 tags:
   - ruby_rogues
   - podcast

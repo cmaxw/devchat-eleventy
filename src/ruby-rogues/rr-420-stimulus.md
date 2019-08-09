@@ -6,7 +6,6 @@ date: 2019-07-09T10:00:38.559Z
 episode_number: '420'
 duration: '32:53'
 audio_url: 'https://media.devchat.tv/ruby-rogues/RR_420_Stimulus.mp3'
-image: /images/uploads/ruby-rogues-thumb-1-300x300.jpg
 tags:
   - ruby_rogues
   - podcast
@@ -20,7 +19,8 @@ tags:
 ## **Sponsors**
 
 * [Sentry](https://sentry.io/) use code “devchat” for $100 credit
-* [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues)
+* [Cloud 66 - Pain Free Rails Deployments
+](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues)
   Try Cloud 66 Rails for FREE & get $66 free credits with promo code **RubyRogues**
 * [RedisGreen](https://redisgreen.net/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues)
 

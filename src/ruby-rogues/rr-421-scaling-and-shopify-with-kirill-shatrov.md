@@ -6,7 +6,6 @@ date: 2019-07-16T10:00:24.331Z
 episode_number: '421'
 duration: '55:11'
 audio_url: 'https://media.devchat.tv/ruby-rogues/RR_421_Kirill_Shatrov.mp3'
-image: /images/uploads/ruby-rogues-thumb-1-300x300.jpg
 tags:
   - ruby_rogues
   - podcast

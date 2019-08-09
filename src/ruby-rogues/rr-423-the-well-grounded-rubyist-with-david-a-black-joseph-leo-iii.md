@@ -7,7 +7,6 @@ episode_number: '423'
 duration: '49:12'
 audio_url: >-
   https://media.devchat.tv/ruby-rogues/RR_423_David_A_Black_And_Joseph_Leo_III.mp3
-image: /images/uploads/ruby-rogues-thumb-1-300x300.jpg
 tags:
   - ruby_rogues
   - podcast

@@ -6,7 +6,6 @@ date: 2019-07-23T10:00:48.269Z
 episode_number: '422'
 duration: '43:30'
 audio_url: 'https://media.devchat.tv/ruby-rogues/RR_422_Daniel_Pritchett.mp3'
-image: /images/uploads/ruby-rogues-thumb-1-300x300.jpg
 tags:
   - ruby_rogues
   - podcast

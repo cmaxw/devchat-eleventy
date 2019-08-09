@@ -7,7 +7,6 @@ episode_number: '418'
 duration: '1:10:25'
 audio_url: >-
   https://media.devchat.tv/ruby-rogues/RR_418_The_Life_and_Death_of_a_Rails_App_with_Olivier_Lacan.mp3
-image: /images/uploads/ruby-rogues-thumb-1-300x300.jpg
 tags:
   - ruby_rogues
   - podcast

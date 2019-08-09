@@ -6,7 +6,6 @@ date: 2019-07-02T10:00:14.840Z
 episode_number: '419'
 duration: '47:12'
 audio_url: 'https://media.devchat.tv/ruby-rogues/RR_419_Steve_Peak.mp3'
-image: /images/uploads/ruby-rogues-thumb-1-300x300.jpg
 tags:
   - ruby_rogues
   - podcast
