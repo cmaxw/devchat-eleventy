@@ -7,7 +7,12 @@
   "current": true,
   "podwrench_slug": "adventures-in-blockchain",
   "sponsor_layout": "podwrench_3_sponsors.njk",
-  "drip_form": "4885765",
+  "email_form_id": "15",
   "color": "green",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "facebook": "https://www.facebook.com/Adventures-in-Blockchain-1180850735452512/",
+  "twitter": "https://twitter.com/adv_blockchain",
+  "linkedin": "https://linkedin.com/company/devchat",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iq6c5birfkuu7ien4unph43xygi?t%3DAdventures_in_Blockchain%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16",
+  "rss": "https://feeds.feedwrench.com/AdventuresinBlockchainOnly.rss",
+  "stitcher": "https://www.stitcher.com/s?fid=453030&refid=stpr"
 }
