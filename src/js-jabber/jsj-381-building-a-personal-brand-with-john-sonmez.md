@@ -16,6 +16,9 @@ tags:
   - AJ O'Neal
   - John Somnez
 ---
+
+# [Get John's course "How to Market Yourself as a Software Developer"](https://simpleprogrammer.com/store/products/how-to-market-yourself/?ref=cmaxw&campaign=JavascriptJabber)
+
 ## **Sponsors**
 
 * [Sentry](http://sentry.io/)– use the code “devchat” for $100 credit 
@@ -47,13 +50,13 @@ John talks about ways to build your personal brand. One of the easiest ways is b
 
 **Charles Max Wood:**
 
-* \[To Sell is Human](https://amzn.to/2LP89qN4. Put this at the end instead: ?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
-* \[How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/06710270344. Put this at the end instead: ?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [To Sell is Human](https://amzn.to/2LP89qN4. Put this at the end instead: ?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/06710270344?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 
 **John Somnez:**
 
 * Follow John at [bulldogmindset.com](https://bulldogmindset.com/) and [simpleprogrammer.com](https://simpleprogrammer.com/)
-* \[The Little Book of Stoicism](https://www.amazon.com/Little-Book-Stoicism-Resilience-Confidence-ebook/dp/B07MY2VFQD4. Put this at the end instead: ?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [The Little Book of Stoicism](https://www.amazon.com/Little-Book-Stoicism-Resilience-Confidence-ebook/dp/B07MY2VFQD4?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 * [Training Peaks](https://www.trainingpeaks.com/)
 
 **Christopher Beucheler:**
@@ -64,6 +67,6 @@ John talks about ways to build your personal brand. One of the easiest ways is b
 
 * [Distant Worlds: Music from Final Fantasy](https://amzn.to/2XBdZTt)
 * [Parallels](https://www.parallels.com/)
-* \[Cam Slide](https://amzn.to/2xByzno4. Put this at the end instead: ?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [Cam Slide](https://amzn.to/2xByzno4?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 
 <!-- Docs to Markdown version 1.0β17 -->
