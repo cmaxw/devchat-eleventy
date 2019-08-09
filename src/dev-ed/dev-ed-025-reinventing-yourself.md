@@ -34,7 +34,7 @@ Joined by special guest: [**Mike Brocchi**](https://www.linkedin.com/in/mikebroc
 
 This episode of the Dev Ed podcast is joined by Mike Brocchi, who is currently working as a Front-End Developer for Ultimate Software, and has done significant work on the Angular CLI in the past. Joe begins the show by asking the panel what reinventing oneself means to them, starting off an interesting discussion. They each talk about some triggers that made them think about changing course in their ongoing professional path  or even starting over again. They share their own experiences where they reconsidered their life choices due to certain roadblocks and took necessary actions, ultimately resulting in a fulfilling and happy career. They discuss how comfort works against all of this, and how reinventing does not necessarily have to be a better job or higher salary, it can simply mean choosing something satisfying and challenging. 
 
-In the end, the panelists then help listeners understand how to understand and recognize the need for reinventing themselves, how to go about the process, and different ways and resources that can be used to do so.
+In the end, the panelists help listeners understand how to comprehend and recognize the need of reinventing themselves, how to go about the process, and different ways and resources that can be used to do so.
 
 ## Links
 
