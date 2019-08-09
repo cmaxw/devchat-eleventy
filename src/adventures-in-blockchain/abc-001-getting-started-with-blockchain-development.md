@@ -10,9 +10,9 @@ tags:
   - adventures_in_blockchain
   - podcast
 ---
-## **Sponsors**
+### **Sponsors**
 
-* [CacheFly](https://www.cachefly.com/)
+* ****[CacheFly](https://www.cachefly.com/)
 
 ### **Panel**
 
@@ -22,7 +22,7 @@ tags:
 
 ### **Summary**
 
-The panel of the brand new podcast, Adventures in Blockchain podcast introduces themselves and shares their journeys getting into development and blockchain. The different ways of getting started with blockchain development are discussed briefly, including buying cryptocurrency and resources for learning blockchain code. The panel shares the different uses of blockchain technology and the potential for other unknown cases.   
+The panel of the new podcast, Adventures in Blockchain introduces themselves and shares their journeys getting into development and blockchain. The different ways of getting started with blockchain development are discussed briefly, including buying cryptocurrency and resources for learning blockchain code. The panel shares the different uses of blockchain technology and the potential for other unknown cases.
 
 ### **Links**
 
