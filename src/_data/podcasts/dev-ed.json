@@ -7,7 +7,7 @@
   "current": true,
   "podwrench_slug": "dev-ed",
   "sponsor_layout": "podwrench_3_sponsors.njk",
-  "drip_form": "4885765",
+  "email_form_id": "21",
   "color": "blue",
   "twitter": "https://twitter.com/devedpodcast",
   "linkedin": "https://linkedin.com/company/devchat",

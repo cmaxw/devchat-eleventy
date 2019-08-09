@@ -5,7 +5,7 @@
   "artwork_front": "devrev-270.jpg",
   "tag": "dev_rev",
   "current": true,
-  "drip_form": "685084676",
+  "email_form_id": "21",
   "podwrench_slug": "the-dev-rev",
   "sponsor_layout": "sitewide_sidebar_sponsors.njk",
   "color": "blue",

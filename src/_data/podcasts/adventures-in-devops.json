@@ -7,7 +7,7 @@
   "current": true,
   "podwrench_slug": "adventures-in-devops",
   "sponsor_layout": "podwrench_3_sponsors.njk",
-  "drip_form": "4885765",
+  "email_form_id": "17",
   "color": "green",
   "spotify": "https://open.spotify.com/show/7h0KN1wSukqOmQVvMmAfan",
   "linkedin": "https://linkedin.com/company/devchat"
