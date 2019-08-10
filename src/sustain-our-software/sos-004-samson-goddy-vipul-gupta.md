@@ -9,7 +9,6 @@ episode_number: '004'
 duration: '54:16'
 audio_url: >-
   https://devchat.cachefly.net/sustain-our-software/SOS_004_Samson_Goddy_And_Vipul_Gupta.mp3
-image: /images/uploads/sustain-our-software-270.jpg
 tags:
   - sustain_our_software
   - podcast

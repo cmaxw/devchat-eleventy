@@ -6,7 +6,6 @@ date: 2019-08-06T10:00:00.000Z
 episode_number: '001'
 duration: '49:20'
 audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_001_Introduction.mp3'
-image: /images/uploads/sustain-our-software-270.jpg
 tags:
   - sustain_our_software
   - podcast
