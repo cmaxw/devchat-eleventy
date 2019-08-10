@@ -7,7 +7,7 @@
   "current": true,
   "podwrench_slug": "freelancers-show",
   "sponsor_layout": "podwrench_3_sponsors.njk",
-  "drip_form": "8930525",
+  "email_form_id": "25",
   "color": "purple",
   "facebook": "https://www.facebook.com/freelancersshow/",
   "twitter": "https://twitter.com/freelancershow",

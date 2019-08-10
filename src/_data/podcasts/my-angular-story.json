@@ -5,7 +5,7 @@
   "artwork_front": "MyAngularStory-270.jpg",
   "tag": "my_angular_story",
   "current": true,
-  "drip_form": "475556559",
+  "email_form_id": "29",
   "sponsor_layout": "podwrench_2_sponsors.njk",
   "color": "red",
   "facebook": "https://www.facebook.com/adventuresinangular/",
