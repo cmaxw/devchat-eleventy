@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: js-jabber
-title: 'JSJ 383: What is JavaScript'
+title: 'JSJ 383: What is JavaScript?'
 date: 2019-08-15T10:00:29.982Z
 episode_number: '383'
 duration: '44:44'
