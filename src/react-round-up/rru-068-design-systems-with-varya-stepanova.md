@@ -7,7 +7,6 @@ episode_number: 068
 duration: '32:27'
 audio_url: >-
   https://media.devchat.tv/reactroundup/RRU_068_Design_Systems_with_Varya_Stepanova.mp3
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

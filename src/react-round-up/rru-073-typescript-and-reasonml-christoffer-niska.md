@@ -6,7 +6,6 @@ date: 2019-08-06T10:00:28.547Z
 episode_number: '073'
 duration: '52:19'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_073_Christoffer_Niska.mp3'
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

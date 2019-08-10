@@ -7,7 +7,6 @@ episode_number: '067'
 duration: '49:09'
 audio_url: >-
   https://media.devchat.tv/reactroundup/RRU_067_CSS_CSS-in-JS_and_Future_of_the_Frontend.mp3
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

@@ -6,7 +6,6 @@ date: 2019-07-23T10:00:06.242Z
 episode_number: '071'
 duration: '22:25'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_071_Panel.mp3'
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

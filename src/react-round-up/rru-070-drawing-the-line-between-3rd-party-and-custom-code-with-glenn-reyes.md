@@ -6,7 +6,6 @@ date: 2019-07-16T10:00:19.000Z
 episode_number: '070'
 duration: '43:57'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_070_Glenn_Reyes.mp3'
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

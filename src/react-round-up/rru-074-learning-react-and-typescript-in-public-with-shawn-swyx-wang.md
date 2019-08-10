@@ -6,7 +6,6 @@ date: 2019-08-13T10:00:58.229Z
 episode_number: '074'
 duration: '54:19'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_074_Shawn_swyx_Wang.mp3'
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

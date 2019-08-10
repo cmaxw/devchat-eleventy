@@ -7,7 +7,6 @@ episode_number: '066'
 duration: '55:35'
 audio_url: >-
   https://media.devchat.tv/reactroundup/RRU_066_Accessibility_is_not_a_React_Problem_with_Leslie_Cohn-Wein.mp3
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

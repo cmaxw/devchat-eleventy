@@ -7,7 +7,6 @@ episode_number: 069
 duration: '54:54'
 audio_url: >-
   https://media.devchat.tv/reactroundup/RRU_069_The_State_Machines_in_React_with_David_Khourshid.mp3
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast
