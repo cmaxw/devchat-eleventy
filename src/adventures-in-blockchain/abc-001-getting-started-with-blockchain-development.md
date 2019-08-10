@@ -22,7 +22,10 @@ tags:
 
 ### **Summary**
 
-The panel of the new podcast, Adventures in Blockchain introduces themselves and shares their journeys getting into development and blockchain. The different ways of getting started with blockchain development are discussed briefly, including buying cryptocurrency and resources for learning blockchain code. The panel shares the different uses of blockchain technology and the potential for other unknown cases.
+The panel introduces themselves in this exciting new podcast. Roman Storm, a former software engineer, wanted to build a startup and heard about Bitcoin. After building himself a bitcoin wallet and later moved the Ethereum, he eventually began security consulting for companies in the blockchain space. Bruno Duarte Brito has a very unique story having never owned a cryptocurrency or a wallet; he found his way to the blockchain by requesting to be put on a blockchain project at his company. Bruno mostly works with Hyperledger and blockchain for business. Gregory McCubbin, a self-taught developer, started following cryptocurrency prices and wanted to learn more. Looking for online resources, he found the materials available scarce. After learning blockchain he built up Dapp University as a resource for future blockchain developers. 
+
+
+The panel discusses the importance of where you are starting from and what is bringing you to the blockchain. Bruno discusses the importance of knowing the blockchain theory. The panel advises getting some cryptocurrency or trying a test network and outlines the benefits of using cryptocurrency to understand how the blockchain works. Blockchain, as a relatively new technology, holds many possible use cases for the creative and curious developer. The panel discusses some of the use cases being seen and explored, including blockchain for business, cryptocurrency, securing medical records and Dubai’s smart city project.
 
 ### **Links**
 
