@@ -7,6 +7,7 @@
   "current": true,
   "sponsor_layout": "podwrench_2_sponsors.njk",
   "color": "red",
+  "email_form_id": "35",
   "facebook": "https://www.facebook.com/RubyRogues/",
   "twitter": "https://twitter.com/rubyrogues",
   "youtube": "https://www.youtube.com/playlist?list=PLJesql-aSfX7IZAb5IUbi9dOXPbCZYqZi",

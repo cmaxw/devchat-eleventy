@@ -7,8 +7,12 @@
   "current": true,
   "podwrench_slug": "sustain-our-software",
   "sponsor_layout": "podwrench_3_sponsors.njk",
-  "drip_form": "4885765",
+  "email_form_id": "41",
   "color": "blue",
   "spotify": "https://open.spotify.com/show/63M8SvQUeVLwFcpZnmOCyP",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "rss": "https://feeds.feedwrench.com/SustainOurSoftware.rss",
+  "twitter": "https://twitter.com/sos_opensource",
+  "facebook": "https://www.facebook.com/Sustain-Our-Software-SOS-857471391289849/",
+  "stitcher": "https://www.stitcher.com/podcast/ruby-rogues/sustain-our-software"
 }
