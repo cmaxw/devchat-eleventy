@@ -35,6 +35,7 @@ Mahdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 * [Tidelift](https://tidelift.com/)
 * [Open Source Initiative](https://opensource.org/osd)
 * [The Market for Lemons](https://en.wikipedia.org/wiki/The_Market_for_Lemons)
+* [FOSSmarks](http://fossmarks.org/)
 
 ## Picks
 
