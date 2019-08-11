@@ -43,6 +43,7 @@ Mahdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 * <https://github.com/micromatch/micromatch>
 * [IBM closes $34 billion Red Hat acquisition: Now it's time to deliver](https://www.zdnet.com/article/ibm-closes-34-billion-red-hat-acquisition-now-its-time-to-deliver/)
 * [Walmart's investment in open source isn't cheap](https://www.infoworld.com/article/2608897/walmart-s-investment-in-open-source-isn-t-cheap.html)
+* [Making Uncommon Knowledge Common](https://kwokchain.com/2019/04/09/making-uncommon-knowledge-common/)
 
 
 ## Picks
