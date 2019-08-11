@@ -23,11 +23,11 @@ tags:
 * Aaron Frost
 * Shai Reznik
 
-**Joined By Special Guest:** Hans Larsen
+**moreJoined By Special Guest:** Hans Larsen
 
 ## Episode Summary
 
-Hans Larsen, Team Lead of the Angular CLI at Google has left Google to pursue other opportunities. The panel meets with Hans to talk out about his 4 years at Google Angular team. 
+Hans Larsen, Team Lead of the Angular CLI at Google has left Google to pursue other opportunities. The panel meets with Hans to talk out about his time at Google Angular team and some of the challenges they faced. They then talk about Hank's future plans as well as some of the fun times they had at the Angular conferences. 
 
 ## Links
 
