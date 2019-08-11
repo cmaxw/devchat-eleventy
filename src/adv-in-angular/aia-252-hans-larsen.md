@@ -27,11 +27,12 @@ tags:
 
 ## Episode Summary
 
-Hans Larsen, Team Lead of the Angular CLI at Google has left Google to pursue other opportunities. The panel meets with Hans to talk out about his time at Google Angular team and some of the challenges they faced. They then talk about Hank's future plans as well as some of the fun times they had at the Angular conferences. 
+Hans Larsen, Team Lead of the Angular CLI at Google has left Google to pursue other opportunities. The panel meets with Hans to talk out about his time at Google Angular team and some of the challenges they faced. They then talk about Hans' future plans as well as some of the fun times they had at the Angular conferences. 
 
 ## Links
 
 * [Hans Larsen LinkedIn](https://www.linkedin.com/in/hanslarsen/)
+* [Hans (@hanslatwork) | Twitter](https://twitter.com/hanslatwork?lang=en)
 * [Angular is About Love!](https://www.youtube.com/watch?v=JlLgxfZNTdI)
 * [webpack](https://webpack.js.org/)
 
