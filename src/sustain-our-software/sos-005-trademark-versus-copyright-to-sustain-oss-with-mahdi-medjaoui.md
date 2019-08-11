@@ -39,6 +39,7 @@ Mahdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 * [Contributor License Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)
 * [Why I Do Not Support a Node Foundation by Eran Hammer](https://hueniverse.com/why-i-do-not-support-a-node-foundation-a9cc00e1e677)
 * <https://www.fundthecode.org/>
+* [A Trademark-based contract for OSS maintainers](https://framagit.org/inno3/tm-contract-for-oss-maintainers/tree/master)
 
 
 ## Picks
