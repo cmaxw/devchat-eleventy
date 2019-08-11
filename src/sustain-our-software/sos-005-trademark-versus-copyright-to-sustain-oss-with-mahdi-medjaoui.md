@@ -40,6 +40,7 @@ Mahdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 * [Why I Do Not Support a Node Foundation by Eran Hammer](https://hueniverse.com/why-i-do-not-support-a-node-foundation-a9cc00e1e677)
 * <https://www.fundthecode.org/>
 * [A Trademark-based contract for OSS maintainers](https://framagit.org/inno3/tm-contract-for-oss-maintainers/tree/master)
+* [IBM closes $34 billion Red Hat acquisition: Now it's time to deliver](https://www.zdnet.com/article/ibm-closes-34-billion-red-hat-acquisition-now-its-time-to-deliver/)
 
 
 ## Picks
