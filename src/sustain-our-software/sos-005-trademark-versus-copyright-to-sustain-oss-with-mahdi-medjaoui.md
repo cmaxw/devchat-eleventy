@@ -24,7 +24,7 @@ tags:
 
 ## Episode Summary
 
-Mahdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintainers.org/) and the founder of [OAuth.io](https://oauth.io/) and [APIdays Conferences](https://www.apidays.co/). He is also the EU commission 2020 expert on open data and open APIs. He has co-authored  O’Reilly Book [“Continuous API management”](https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1492043559) and created the [Maintainers Contract](https://framagit.org/inno3/tm-contract-for-oss-maintainers/blob/master/tm-maintainers-contract.md) and ALIAS protocol
+Mahdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintainers.org/) and the founder of [OAuth.io](https://oauth.io/) and [APIdays Conferences](https://www.apidays.co/). He is also the EU commission 2020 expert on open data and open APIs. He has co-authored  O’Reilly Book [“Continuous API management”](https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1492043559) and created the [Maintainers Contract](https://framagit.org/inno3/tm-contract-for-oss-maintainers/blob/master/tm-maintainers-contract.md) and ALIAS protocol. 
 
 
 
@@ -32,6 +32,8 @@ Mahdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 
 * [Mahdi's LinkedIn](https://www.linkedin.com/in/mehdimedjaoui/en)
 * [Sustain 2018](https://sustainoss.org/) 
+* [Tidelift](https://tidelift.com/)
+* [Open Source Initiative](https://opensource.org/osd)
 
 ## Picks
 
