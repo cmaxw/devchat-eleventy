@@ -37,10 +37,17 @@ Hans Larsen, Team Lead of the Angular CLI at Google has left Google to pursue ot
 
 ## Picks
 
-**Aaron Frost:**
-
 **Shai Reznik:**
 
+* [16 Personalities](https://www.16personalities.com/)
+
+**Aaron Frost:**
+
+* [NOVA: Black Hole Apocalypse | Netflix](https://www.netflix.com/title/81121172)
+
 **Hans Larsen:**
+
+* Become a parent
+* Have a drink with someone you love
 
 - - -
