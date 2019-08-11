@@ -36,6 +36,9 @@ Mahdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 * [Open Source Initiative](https://opensource.org/osd)
 * [The Market for Lemons](https://en.wikipedia.org/wiki/The_Market_for_Lemons)
 * [FOSSmarks](http://fossmarks.org/)
+* [Contributor License Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)
+* [Why I Do Not Support a Node Foundation by Eran Hammer](https://hueniverse.com/why-i-do-not-support-a-node-foundation-a9cc00e1e677)
+* 
 
 ## Picks
 
