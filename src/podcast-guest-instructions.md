@@ -3,7 +3,6 @@ layout: layouts/post.njk
 title: >
   Podcast Guest Preparation Instructions
 image: /images/uploads/podcast-guest.jpg
-date: 2000-01-01
 episode_number:
 duration:
 audio_url:

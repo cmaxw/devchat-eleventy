@@ -3,7 +3,6 @@ layout: layouts/post.njk
 title: >
   About
 image: /images/podcast-woman.jpg
-date: 2000-01-01
 episode_number:
 duration:
 audio_url:

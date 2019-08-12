@@ -2,7 +2,6 @@
 layout: layouts/post.njk
 title: >
   Subscribe
-date: 2000-01-01
 episode_number:
 duration:
 audio_url:
