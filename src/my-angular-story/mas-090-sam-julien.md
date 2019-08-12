@@ -17,18 +17,19 @@ tags:
 * [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
 * [CacheFly](https://www.cachefly.com/)
 
-**Host:** Aaron Frost
+**Host:** Aaron Frost 
+
+**Guest Host:**
 
 **Joined By Special Guest:** Sam Julien
 
 **Episode Summary**
 
-
+Sam Julien, R&D Content Engineer at[ Auth0](https://auth0.com/) joins Aaron Frost at [Angular Denver](https://angulardenver.com/). Sam shares his story of how he got into Angular with us. Sam started building websites at 12 years old. 
 
 ### **Links**
 
-* [Craig's LinkedIn](https://www.linkedin.com/in/craig-spence/)
-* [Craig's Twitter](https://twitter.com/phenomnominal)
-* [Trade Me](https://www.trademe.co.nz/) 
-* [Spotify](https://www.spotify.com/)
+* [Sam's LinkedIn](https://www.linkedin.com/in/samjulien/)
+* [Sam's Twitter](https://twitter.com/samjulien?lang=en)
+* [Auth0](https://auth0.com/) 
 * [Angular Denver](https://angulardenver.com/)
