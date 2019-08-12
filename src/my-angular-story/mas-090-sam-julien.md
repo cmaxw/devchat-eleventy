@@ -19,7 +19,7 @@ tags:
 
 **Host:** Aaron Frost 
 
-**Guest Host:**
+**Guest Host:** Ryan Frost
 
 **Joined By Special Guest:** Sam Julien
 
