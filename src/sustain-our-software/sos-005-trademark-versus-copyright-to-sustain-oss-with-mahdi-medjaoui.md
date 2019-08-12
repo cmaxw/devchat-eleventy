@@ -71,4 +71,7 @@ Mehdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 
 **Mehdi Medjaoui:**
 
+* https://github.com/Droogans/unmaintainable-code
+* https://increment.com/
+
 - - -
