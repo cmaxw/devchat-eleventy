@@ -62,8 +62,9 @@ Mehdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 
 **Richard Littauer:**
 
-* **https://en.wikipedia.org/wiki/The_Cherry_Orchard**
-* ****
+* https://en.wikipedia.org/wiki/The_Cherry_Orchard
+* https://www.amazon.com/Great-Book-Amber-Complete-Chronicles/dp/0380809060
+* https://www.davidwhyte.com/
 
 **Mehdi Medjaoui:**
 
