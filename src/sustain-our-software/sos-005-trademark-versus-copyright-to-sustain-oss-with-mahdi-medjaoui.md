@@ -51,14 +51,19 @@ Mehdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 
 ## Picks
 
-**Jon Schlinkert:**
+****
 
 **Eric Berry:**
 
 * [Making Uncommon Knowledge Common](https://kwokchain.com/2019/04/09/making-uncommon-knowledge-common/)
-* SuperHuman marketing efforts
+* [SuperHuman](https://superhuman.com/) marketing efforts
+
+**Jon Schlinkert:**
 
 **Richard Littauer:**
+
+* **https://en.wikipedia.org/wiki/The_Cherry_Orchard**
+* ****
 
 **Mehdi Medjaoui:**
 
