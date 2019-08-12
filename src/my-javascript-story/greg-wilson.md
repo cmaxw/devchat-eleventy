@@ -5,7 +5,7 @@ title: 'MJS 118: Aaron Frost'
 date: 2018-08-13T10:00:58.000Z
 episode_number: '118'
 duration: '29:35'
-audio_url: 'https://media.devchat.tv/js-jabber/JSJ_Bonus_Aaron_Frost.mp3'
+audio_url: 'https://media.devchat.tv/my-js-story/MJS_118_Aaron_Frost.mp3'
 tags:
   - my_javascript_story
   - podcast
