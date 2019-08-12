@@ -29,6 +29,7 @@ Sam Julien, R&D Content Engineer at[ Auth0](https://auth0.com/) joins Aaron Fros
 
 ### **Links**
 
+* [MAS 043: Sam Julien](https://devchat.tv/my-angular-story/mas-043-sam-julien/)
 * [Sam's LinkedIn](https://www.linkedin.com/in/samjulien/)
 * [Sam's Twitter](https://twitter.com/samjulien?lang=en)
 * [Auth0](https://auth0.com/) 
