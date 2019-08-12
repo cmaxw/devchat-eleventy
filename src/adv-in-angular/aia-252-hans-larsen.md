@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adv-in-angular
-title: 'AiA 252: Hans Larsen'
+title: 'AiA 252: Saying Goodbye to Angular CLI with Hans Larsen'
 date: 2019-08-13T10:00:00.000Z
 episode_number: '252'
 duration: '42:58'
@@ -10,7 +10,7 @@ image: /images/uploads/angular-thumb-1400x1400.jpg
 tags:
   - adv_in_angular
   - podcast
-  - Minko Gechev
+  - Hans Larsen
 ---
 # Sponsors
 
@@ -27,20 +27,28 @@ tags:
 
 ## Episode Summary
 
-Hans Larsen, Team Lead of the Angular CLI at Google has left Google to pursue other opportunities. The panel meets with Hans to talk out about his 4 years at Google Angular team. 
+Hans Larsen, Team Lead of the Angular CLI at Google has left Google to pursue other opportunities. The panel meets with Hans to talk out about his time at Google Angular team and some of the challenges they faced. They then talk about Hans' future plans as well as some of the fun times they had at the Angular conferences. 
 
 ## Links
 
 * [Hans Larsen LinkedIn](https://www.linkedin.com/in/hanslarsen/)
+* [Hans (@hanslatwork) | Twitter](https://twitter.com/hanslatwork?lang=en)
 * [Angular is About Love!](https://www.youtube.com/watch?v=JlLgxfZNTdI)
 * [webpack](https://webpack.js.org/)
 
 ## Picks
 
-**Aaron Frost:**
-
 **Shai Reznik:**
 
+* [16 Personalities](https://www.16personalities.com/)
+
+**Aaron Frost:**
+
+* [NOVA: Black Hole Apocalypse | Netflix](https://www.netflix.com/title/81121172)
+
 **Hans Larsen:**
+
+* Become a parent
+* Have a drink with someone you love
 
 - - -
