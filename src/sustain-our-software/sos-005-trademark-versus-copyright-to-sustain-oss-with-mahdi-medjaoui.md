@@ -60,6 +60,9 @@ Mehdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 
 **Jon Schlinkert:**
 
+* https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123
+* https://www.amazon.com/Profit-Zone-Strategic-Business-Tomorrows/dp/0812933044
+
 **Richard Littauer:**
 
 * https://en.wikipedia.org/wiki/The_Cherry_Orchard
