@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adv-in-angular
-title: 'AiA 252: Hans Larsen'
+title: 'AiA 252: Saying Goodbye to Angular CLI with Hans Larsen'
 date: 2019-08-13T10:00:00.000Z
 episode_number: '252'
 duration: '42:58'
@@ -10,7 +10,7 @@ image: /images/uploads/angular-thumb-1400x1400.jpg
 tags:
   - adv_in_angular
   - podcast
-  - Minko Gechev
+  - Hans Larsen
 ---
 # Sponsors
 
