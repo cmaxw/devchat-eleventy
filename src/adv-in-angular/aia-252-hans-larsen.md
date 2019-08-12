@@ -23,7 +23,7 @@ tags:
 * Aaron Frost
 * Shai Reznik
 
-**moreJoined By Special Guest:** Hans Larsen
+**Joined By Special Guest:** Hans Larsen
 
 ## Episode Summary
 
