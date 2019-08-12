@@ -19,11 +19,11 @@ tags:
 
 **Host:** Aaron Frost
 
-**Joined By Special Guest:** Craig Spence
+**Joined By Special Guest:** Sam Julien
 
 **Episode Summary**
 
-Craig Spence joins Aaron Frost at [Angular Denver](https://angulardenver.com/)
+
 
 ### **Links**
 
