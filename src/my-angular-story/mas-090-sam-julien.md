@@ -25,11 +25,13 @@ tags:
 
 **Episode Summary**
 
-Sam Julien, R&D Content Engineer at[ Auth0](https://auth0.com/) joins Aaron Frost at [Angular Denver](https://angulardenver.com/). Sam shares his story of how he got into Angular with us. Sam started building websites at 12 years old. Even though he wanted to major in Computer Science and become a developer, because he didn't want to take math classes he majored in Religion instead. While he was working in finance, he wanted to pursue becoming a developer and got a job as a contractor. Upon advice from a friend, he learned AngularJS. 
+Sam Julien, R&D Content Engineer at[ Auth0](https://auth0.com/) joins Aaron Frost at [Angular Denver](https://angulardenver.com/). Sam shares his story of how he got into Angular with us. Sam started building websites at 12 years old. Even though he wanted to major in Computer Science and become a developer, because he didn't want to take math classes he majored in Religion instead. While he was working in finance, he wanted to pursue becoming a developer and got a job as a contractor. Upon advice from a friend, he learned AngularJS and went onto 
 
 ### **Links**
 
 * [Sam's LinkedIn](https://www.linkedin.com/in/samjulien/)
 * [Sam's Twitter](https://twitter.com/samjulien?lang=en)
 * [Auth0](https://auth0.com/) 
+* <https://www.upgradingangularjs.com/>
+* [Talks - Sam Julien](www.samjulien.com/talks/)
 * [Angular Denver](https://angulardenver.com/)
