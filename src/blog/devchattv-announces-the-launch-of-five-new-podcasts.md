@@ -14,6 +14,7 @@ tags:
   - dotnet
   - .NET
   - data science
+  - blog
 ---
 FOR IMMEDIATE RELEASE
 
@@ -39,7 +40,8 @@ As the name suggests, [Adventures in DevOps](https://www.facebook.com/Adventures
 
 Every Tuesday, Adventures in DevOps’ hosts, Nell Shamrell-Harrington, Scott Nixon and Lee Whalen release interesting and insightful podcasts. 
 
-[Facebook ](https://www.facebook.com/Adventures-in-DevOps-345350773046268/)|  [Twitter](https://twitter.com/DevOpsPodcast)
+[Facebook ](https://www.facebook.com/Adventures-in-DevOps-345350773046268/)|  [Twitter
+](https://twitter.com/DevOpsPodcast)
 
 
 
@@ -59,7 +61,8 @@ Hosts, Eric Berry, Jon Schlinkert, Pia Mancini and Richard Littauer release an e
 
 The [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain) podcast, releases weekly on a Tuesday and focuses on blockchain, ranging from basic core concepts to advanced techniques. Adventures in Blockchain will inevitably hit the top podcast list in no time, as the prolific hosts Gregory McCubbin, Roman Storm and Bruno Duarte Brito excavate blockchain topics with their guests.
 
-[Facebook ](https://www.facebook.com/Adventures-in-Blockchain-1180850735452512/)|  [Twitter](https://twitter.com/adv_blockchain)
+[Facebook ](https://www.facebook.com/Adventures-in-Blockchain-1180850735452512/)|  [Twitter
+](https://twitter.com/adv_blockchain)
 
 
 
@@ -83,7 +86,8 @@ This show includes discussions about data collection and evaluation techniques t
 
 The [Data Therapy](https://devchat.tv/) podcast is hosted by David Richards and his co-host Rex Griffiths and releases weekly on Tuesdays.
 
-[Facebook ](https://www.facebook.com/Data-Therapy-470299020402784/)|  [Twitter](https://twitter.com/devchattv)
+[Facebook ](https://www.facebook.com/Data-Therapy-470299020402784/)|  [Twitter
+](https://twitter.com/devchattv)
 
 
 
