@@ -1,17 +1,26 @@
 ---
 permalink: /sitemap.xml
 ---
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{%- for item in collections.all %}
-{%- if item.data.ignore !== true %}
+  {%- for podcast in podcastList %}
+  <url>
+    <loc>https://devchat.tv/{{podcasts[podcast].slug}}/</loc>
+    {%- for item in collections[podcasts[podcast].tag] | head(1) %}
+    <lastmod>{{ item.date | sitemapdate }}</lastmod>
+    {%- endfor %}
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  {%- endfor %}
+  {%- for item in collections.all %}
+  {%- if item.data.ignore !== true %}
   <url>
     <loc>https://devchat.tv{{ item.url }}</loc>
     <lastmod>{{ item.date | sitemapdate }}</lastmod>
     <changefreq>{{ item.data.changefreq or 'monthly' }}</changefreq>
     <priority>{{ item.data.priority or '0.9' }}</priority>
   </url>
-{% endif %}
-{% endfor %}
+  {%- endif %}
+  {%- endfor %}
 </urlset>
