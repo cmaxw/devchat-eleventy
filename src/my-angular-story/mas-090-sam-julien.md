@@ -43,6 +43,10 @@ Sam Julien, R&D Content Engineer at[ Auth0](https://auth0.com/) joins Aaron Fros
 
 * [Model 3 | Tesla](https://www.tesla.com/model3)
 
+**Ryan Connor Frost:**
+
+* [Fortnite](https://en.wikipedia.org/wiki/Fortnite)
+
 **Joe Eames:**
 
 * Twice As Clever | Board Game 
