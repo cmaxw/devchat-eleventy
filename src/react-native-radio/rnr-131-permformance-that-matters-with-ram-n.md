@@ -1,9 +1,9 @@
 ---
 layout: layouts/post.njk
 podcast: react-native-radio
-title: 'RNR 131: Permformance that Matters with Ram N'
-date: 2019-08-20T10:00:36.984Z
-episode_number: '131'
+title: 'RNR 130: Permformance that Matters with Ram N'
+date: 2019-08-13T10:00:36.984Z
+episode_number: '130'
 duration: '45:16'
 audio_url: 'https://media.devchat.tv/reactnativeradio/RNR_131_Ram_N.mp3'
 tags:
