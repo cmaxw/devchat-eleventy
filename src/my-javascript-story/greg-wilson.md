@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: my-javascript-story
 title: 'MJS 118: Aaron Frost'
-date: 2018-08-13T10:00:58.000Z
+date: 2018-08-12T10:00:00.000Z
 episode_number: '118'
 duration: '29:35'
 audio_url: 'https://media.devchat.tv/my-js-story/MJS_118_Aaron_Frost.mp3'
