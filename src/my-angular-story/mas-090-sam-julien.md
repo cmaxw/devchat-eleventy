@@ -36,3 +36,10 @@ Sam Julien, R&D Content Engineer at[ Auth0](https://auth0.com/) joins Aaron Fros
 * <https://www.upgradingangularjs.com/>
 * [Talks - Sam Julien](www.samjulien.com/talks/)
 * [Angular Denver](https://angulardenver.com/)
+
+### **Picks**
+
+**Aaron Frost:**
+
+* [Model 3 | Tesla](https://www.tesla.com/model3)
+  ****
