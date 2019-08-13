@@ -55,3 +55,4 @@ Sam Julien, R&D Content Engineer at[ Auth0](https://auth0.com/) joins Aaron Fros
 
 * [Keyboard Maestro](https://www.keyboardmaestro.com/)
 * [Automators - Relay FM](https://www.relay.fm/automators)
+* [Mac Power Users](https://www.relay.fm/mpu)
