@@ -19,7 +19,7 @@ tags:
 
 **Host:** Aaron Frost 
 
-**Guest Hosts:** Ryan Frost and Joe Eames
+**Guest Hosts:** Ryan Connor Frost and Joe Eames
 
 **Joined By Special Guest:** Sam Julien
 
@@ -42,4 +42,9 @@ Sam Julien, R&D Content Engineer at[ Auth0](https://auth0.com/) joins Aaron Fros
 **Aaron Frost:**
 
 * [Model 3 | Tesla](https://www.tesla.com/model3)
-  ****
+
+**Joe Eames:**
+
+* Twice As Clever | Board Game 
+
+****
