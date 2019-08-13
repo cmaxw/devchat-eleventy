@@ -51,4 +51,6 @@ Sam Julien, R&D Content Engineer at[ Auth0](https://auth0.com/) joins Aaron Fros
 
 * [Twice As Clever | Board Game](https://boardgamegeek.com/boardgame/269210/twice-clever) 
 
-****
+**Sam Julien:**
+
+*
