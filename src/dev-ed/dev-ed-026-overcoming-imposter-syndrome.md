@@ -21,6 +21,7 @@ tags:
 # Sponsors
 
 * [Thinkster.io](https://thinkster.io/)
+* [CacheFly](https://www.cachefly.com/)
 
 ## Panel
 
@@ -35,9 +36,9 @@ Joined by special guest: [**Preston Lamb**](https://www.linkedin.com/in/pjlamb12
 
 ## Episode Summary
 
-In this episode of the Dev Ed podcast, the panelists talk to recurring special guest Preston Lamb who is software developer at MotivHealth. They start the discussion by each explaining how and when the imposter syndrome has affected them in their work. They talk about it being more frequent than we think, how it impacts their confidence and leads to self-doubt, the fact that switching career paths and learning something new can be intimidating and hard, anxiety issues, and the feeling of not knowing something especially on stage or while doing something like consulting where you are expected to be an expert.
+In this episode of the Dev Ed podcast, the panelists talk to recurring special guest Preston Lamb who is a software developer at MotivHealth. They start the discussion by each explaining how and when the imposter syndrome has affected them in their work. They talk about it being more frequent than generally thought of and how it impacts their confidence and leads to self-doubt. They share their experiences when switching career paths and learning something new became intimidating and hard at times, caused anxiety and led to the feeling of not knowing something especially on stage or while doing something like consulting where you are expected to be an expert.
 
-They discuss which activities are more likely to cause the imposter syndrome  - teaching, being around other developers, conferences, getting new jobs and promotions, and also cases where they don't encounter it. They then describe useful strategies to combat it during each of the above mentioned activities and offer great tips for listeners along the way. They end the episode on a hopeful and encouraging note and mention one thing they would like to learn in the near future.
+They discuss which activities are more likely to cause the imposter syndrome - teaching, being around other developers, conferences, getting new jobs and promotions, and also cases where they don't encounter it. They then describe useful strategies to combat it during each of the above mentioned activities and offer great tips for listeners along the way. They end the episode on a hopeful and encouraging note and mention one thing they would like to learn in the near future.
 
 ## Links
 
