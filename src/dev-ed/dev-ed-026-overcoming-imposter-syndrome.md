@@ -56,17 +56,9 @@ They discuss which activities are more likely to cause the imposter syndrome - t
 
 * [Webpack](https://webpack.js.org/)
 
-**Sam Julien:**
+**Sam Julien, Brooke Avery, Jesse Sanders:**
 
-* CSS Designs
-
-**Brooke Avery:**
-
-* CSS
-
-**Jesse Sanders:**
-
-* CSS
+* [CSS](https://www.w3schools.com/css/)
 
 **Preston Lamb:**
 
