@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: adventures-in-blockchain
 title: 'ABC 006: How To Earn Passive Income As A Blockchain Developer'
-date: 2019-08-15T05:36:47.546Z
+date: 2019-08-20T10:00:47.546Z
 episode_number: '006'
 duration: '39:06'
 audio_url: 'https://devchat.cachefly.net/adventures-in-blockchain/ABC_006_Panel.mp3'
