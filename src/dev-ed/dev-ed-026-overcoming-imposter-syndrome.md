@@ -51,11 +51,11 @@ They discuss which activities are more likely to cause the imposter syndrome  - 
 
 * [Jest](https://jestjs.io/)
 
-**Sam Julien:**
+**Mike Dane:**
 
 * [Webpack](https://webpack.js.org/)
 
-**Preston Lamb:**
+**Sam Julien:**
 
 * CSS Designs
 
@@ -63,16 +63,18 @@ They discuss which activities are more likely to cause the imposter syndrome  - 
 
 * CSS
 
-**Luis Hernandez:**
-
-* [How It Actually Works](https://www.howitactuallyworks.com/)
-
-**Mike Dane:**
-
-* 
-
 **Jesse Sanders:**
 
 * CSS
+
+**Preston Lamb:**
+
+* How Things Work
+
+**Luis Hernandez:**
+
+* [Regular expressions](https://en.wikipedia.org/wiki/Regular_expression)
+
+****
 
 ****
