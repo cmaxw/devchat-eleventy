@@ -67,5 +67,3 @@ They discuss which activities are more likely to cause the imposter syndrome - t
 **Luis Hernandez:**
 
 * [Regular expressions](https://en.wikipedia.org/wiki/Regular_expression)
-
-****
