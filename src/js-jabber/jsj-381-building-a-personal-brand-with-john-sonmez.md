@@ -16,13 +16,14 @@ tags:
   - AJ O'Neal
   - John Somnez
 ---
-
 # [Get John's course "How to Market Yourself as a Software Developer"](https://simpleprogrammer.com/store/products/how-to-market-yourself/?ref=cmaxw&campaign=JavascriptJabber)
 
 ## **Sponsors**
 
 * [Sentry](http://sentry.io/)– use the code “devchat” for $100 credit 
 * [RxJS Live](https://www.rxjs.live/)
+
+**\*\*[**Click here to cast your vote NOW for JavaScript Jabber - Best Dev Podcast Award**](https://noonies.hackernoon.com/award/cjxrat2ogn51d0b429e2zwy52)\*\***
 
 ### **Panel**
 
@@ -38,7 +39,7 @@ John is the founder of Bulldog Mindset andSimple Programmer, which teaches softw
 
 John talks about ways to build your personal brand. One of the easiest ways is blogging but he talks about other methods like podcasts YouTube, writing books, and others. A key to building a personal brand is choosing something that you can become the best at, no matter how small it is. The panel shares their experiences of what things have gotten them attention and notoriety and talk about how other influential programmers got famous. They talk about interacting with central platforms like Medium and Github. Building a personal brand for software developers is the same as any other personal brand, such as having a consistent message, consistent logos and color schemes, and repeated exposure). Most people in the software world aren’t willing to do what’s necessary to build a personal brand, so it makes you stand out when you do it. John talks about the importance of controlling your image so that companies want to hire you. John gives a brief overview of his course How to Market Yourself as a Software Developer. 
 
-**\*\*[**Click here to cast your vote NOW for JavaScript Jabber - Best Dev Podcast Award**](https://noonies.hackernoon.com/award/cjxrat2ogn51d0b429e2zwy52)\*\***
+****
 
 ### **Links**
 
@@ -50,7 +51,7 @@ John talks about ways to build your personal brand. One of the easiest ways is b
 
 **Charles Max Wood:**
 
-* [To Sell is Human](https://amzn.to/2LP89qN4. Put this at the end instead: ?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* \[To Sell is Human](https://amzn.to/2LP89qN4. Put this at the end instead: ?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 * [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/06710270344?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 
 **John Somnez:**

@@ -19,7 +19,7 @@ tags:
 
 **Host:** Aaron Frost 
 
-**Guest Hosts:** Ryan Frost and Joe Eames
+**Guest Hosts:** Ryan Connor Frost and Joe Eames
 
 **Joined By Special Guest:** Sam Julien
 
@@ -36,3 +36,23 @@ Sam Julien, R&D Content Engineer at[ Auth0](https://auth0.com/) joins Aaron Fros
 * <https://www.upgradingangularjs.com/>
 * [Talks - Sam Julien](www.samjulien.com/talks/)
 * [Angular Denver](https://angulardenver.com/)
+
+### **Picks**
+
+**Aaron Frost:**
+
+* [Model 3 | Tesla](https://www.tesla.com/model3)
+
+**Ryan Connor Frost:**
+
+* [Fortnite](https://en.wikipedia.org/wiki/Fortnite)
+
+**Joe Eames:**
+
+* [Twice As Clever | Board Game](https://boardgamegeek.com/boardgame/269210/twice-clever) 
+
+**Sam Julien:**
+
+* [Keyboard Maestro](https://www.keyboardmaestro.com/)
+* [Automators - Relay FM](https://www.relay.fm/automators)
+* [Mac Power Users](https://www.relay.fm/mpu)

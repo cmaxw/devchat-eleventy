@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: my-javascript-story
 title: 'MJS 118: Aaron Frost'
-date: 2018-08-13T10:00:58.000Z
+date: 2019-08-13T10:00:00.000Z
 episode_number: '118'
 duration: '29:35'
 audio_url: 'https://media.devchat.tv/my-js-story/MJS_118_Aaron_Frost.mp3'
@@ -10,13 +10,12 @@ tags:
   - my_javascript_story
   - podcast
 ---
+
+
 # Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 * [CacheFly](https://www.cachefly.com/)
-
-
-
 * A $100 discount for [RxJS Live ](https://www.rxjs.live/) tickets for all listeners with the code **"chuckforlife"** 
 
 **Host:** Charles Max Wood

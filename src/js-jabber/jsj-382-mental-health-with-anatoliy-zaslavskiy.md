@@ -19,19 +19,15 @@ tags:
 ---
 ## **Sponsors**
 
+* [Sentry](http://sentry.io/)– use the code “devchat” for $100 credit 
 
-
-*   [Sentry](http://sentry.io/)– use the code “devchat” for $100 credit 
-
+**\*\*[**Click here to cast your vote NOW for JavaScript Jabber - Best Dev Podcast Award**](https://noonies.hackernoon.com/award/cjxrat2ogn51d0b429e2zwy52)\*\***
 
 ### **Panel**
 
-
-
-*   Charles Max Wood
+* Charles Max Wood
 
 With Special Guest: Anatoliy Zaslavskiy
-
 
 ### **Episode Summary**
 
@@ -43,33 +39,26 @@ Anatoliy talks about some of the symptoms and behavioral changes he has during b
 
 **Links**
 
-
-
-*   [Bipolar disorder](https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml)
-*   [Pickle.js ](https://www.picklejs.com/)
-*   [Ketamine therapy](https://www.health.harvard.edu/blog/ketamine-for-major-depression-new-tool-new-questions-2019052216673)
-*   [Ruby Rogues ep. 142: Depression and Mental Illness with Greg Bauges](https://devchat.tv/ruby-rogues/142-rr-depression-and-mental-illness-with-greg-baugues/)
-*   [JSJ 358: Pickle.js Tooling and Developer Happiness with Anatoliy Zaslavskiy](https://devchat.tv/js-jabber/jsj-358-pickle-js-tooling-and-developer-happiness-with-anatoliy-zaslavskiy/)
-*   [NAMI](https://www.nami.org/)
-*   [DBS Alliance](https://www.dbsalliance.org/)
+* [Bipolar disorder](https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml)
+* [Pickle.js ](https://www.picklejs.com/)
+* [Ketamine therapy](https://www.health.harvard.edu/blog/ketamine-for-major-depression-new-tool-new-questions-2019052216673)
+* [Ruby Rogues ep. 142: Depression and Mental Illness with Greg Bauges](https://devchat.tv/ruby-rogues/142-rr-depression-and-mental-illness-with-greg-baugues/)
+* [JSJ 358: Pickle.js Tooling and Developer Happiness with Anatoliy Zaslavskiy](https://devchat.tv/js-jabber/jsj-358-pickle-js-tooling-and-developer-happiness-with-anatoliy-zaslavskiy/)
+* [NAMI](https://www.nami.org/)
+* [DBS Alliance](https://www.dbsalliance.org/)
 
 Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
-
 
 ### **Picks**
 
 **Charles Max Wood:**
 
-
-
-*   [ExpressVPN](https://www.expressvpn.com/)
+* [ExpressVPN](https://www.expressvpn.com/)
 
 **Anatoliy Zaslavskiy:**
 
-
-
-*   Contact Anatoliy at [toli@toliycodes.com](mailto:toliy@toliycodes.com)
-*   Visit his website [tolicodes.com](https://tolicodes.com/)
-*   Misu app (in beta)
+* Contact Anatoliy at [toli@toliycodes.com](mailto:toliy@toliycodes.com)
+* Visit his website [tolicodes.com](https://tolicodes.com/)
+* Misu app (in beta)
 
 <!-- Docs to Markdown version 1.0β17 -->

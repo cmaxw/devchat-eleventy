@@ -25,7 +25,7 @@ tags:
 
 ## Episode Summary
 
-Mehdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintainers.org/) and the founder of [OAuth.io](https://oauth.io/) and [APIdays Conferences](https://www.apidays.co/). He is also the EU commission 2020 expert on open data and open APIs. He has co-authored  O’Reilly Book [“Continuous API management”](https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1492043559) and created the [Maintainers Contract](https://framagit.org/inno3/tm-contract-for-oss-maintainers/blob/master/tm-maintainers-contract.md) and ALIAS protocol. 
+Mehdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintainers.org/) and the founder of [OAuth.io](https://oauth.io/) and [APIdays Conferences](https://www.apidays.co/). He is also the EU commission 2020 expert on open data and open APIs. He has co-authored  O’Reilly Book [“Continuous API management”](https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1492043559) and created the [Maintainers Contract](https://framagit.org/inno3/tm-contract-for-oss-maintainers/blob/master/tm-maintainers-contract.md) and ALIAS protocol. Mehdi and the panel shine a light on the lack of compensation for developers that maintain open source projects. A majority of these projects are used by many profitable end products but these profits do not make its way back to the developers that contribute with their open source code. The panel explores the best methods to write open source code and still be recognized for the development effort via trademark, licensing and copyright.
 
 ## Links
 
@@ -45,13 +45,7 @@ Mehdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 * [IBM closes $34 billion Red Hat acquisition: Now it's time to deliver](https://www.zdnet.com/article/ibm-closes-34-billion-red-hat-acquisition-now-its-time-to-deliver/)
 * [Walmart's investment in open source isn't cheap](https://www.infoworld.com/article/2608897/walmart-s-investment-in-open-source-isn-t-cheap.html)
 
-
-
-
-
 ## Picks
-
-****
 
 **Eric Berry:**
 
@@ -60,18 +54,18 @@ Mehdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintain
 
 **Jon Schlinkert:**
 
-* https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123
-* https://www.amazon.com/Profit-Zone-Strategic-Business-Tomorrows/dp/0812933044
+* [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
+* [The Profit Zone](https://www.amazon.com/Profit-Zone-Strategic-Business-Tomorrows/dp/0812933044)
 
 **Richard Littauer:**
 
-* https://en.wikipedia.org/wiki/The_Cherry_Orchard
-* https://www.amazon.com/Great-Book-Amber-Complete-Chronicles/dp/0380809060
-* https://www.davidwhyte.com/
+* <https://en.wikipedia.org/wiki/The_Cherry_Orchard>
+* [The Great Book of Amber](https://www.amazon.com/Great-Book-Amber-Complete-Chronicles/dp/0380809060)
+* <https://www.davidwhyte.com/>
 
 **Mehdi Medjaoui:**
 
-* https://github.com/Droogans/unmaintainable-code
-* https://increment.com/
+* <https://github.com/Droogans/unmaintainable-code>
+* <https://increment.com/>
 
 - - -
