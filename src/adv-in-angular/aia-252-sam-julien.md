@@ -15,7 +15,7 @@ tags:
 # Sponsors
 
 * [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
-* [React Native](https://reactnativeradio.com/)
+* [React Native Radio](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## Panel
