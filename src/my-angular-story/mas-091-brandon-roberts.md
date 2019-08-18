@@ -19,12 +19,20 @@ tags:
 
 **Host:** Aaron Frost
 
+**Guest Host:** Ryan Frost
+
 **Joined By Special Guest:** Brandon Roberts  
 
 **Episode Summary**
 
+Brandon Roberts is a  Google Developer Expert in Angular and Web Technologies. He specializes in NgRx and has recently joined [Narwhal Technologies](https://nrwl.io/). He joins Aaron Frost at Angular Denver to talk about how he 
 
+ recently 
 
-### **Links**
+**Links**
 
+* [NgRx: A Reactive State of Mind (Two Day Workshop)](https://angulardenver.com/ngrx-a-reactive-state-of-mind)
+* <https://www.ng-conf.org/2019/speakers/brandon-roberts/>
+* [Brandon Roberts – Medium](https://medium.com/@brandontroberts)
+* [Brandon (@brandontroberts) | Twitter](https://twitter.com/brandontroberts?lang=en)
 *
