@@ -48,6 +48,7 @@ The panel then ask about the evolution of [Fund The Code Project](https://www.fu
 * [Maintainers III: Practice, Policy and Care](http://themaintainers.org/miii)
 * <https://publiccode.net/>
 * <https://www.fundthecode.org/>
+* <http://openmodels.fr/en/>
 
 
 
