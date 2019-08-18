@@ -25,7 +25,7 @@ tags:
 
 ## Episode Summary
 
-Bastien Guerry is the Release Manager of [Org Mode](https://orgmode.org/) and also worked as a maintainer of Org Mode between 2011-1015. He is now employed by the French Administration in a program [Entrepreneurs d'intérêt général](https://twitter.com/eigforever) inspired by [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/). Bastien wrote his first software for his girlfriend to help her with her thesis. 
+Bastien Guerry is the Release Manager of [Org Mode](https://orgmode.org/) and also worked as a maintainer of Org Mode between 2011-1015. He is now employed by the French Administration in a program [Entrepreneurs d'intérêt général](https://twitter.com/eigforever) inspired by [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/). Bastien wrote his first software for his girlfriend to help her with her thesis. Bastien 
 
 ## Links
 
@@ -38,6 +38,9 @@ Bastien Guerry is the Release Manager of [Org Mode](https://orgmode.org/) and al
 * <https://bzg.fr/en/donating-to-free-software-and-free-culture.html/>
 * <https://libraries.io/>
 * <https://backyourstack.com/>
+* <http://themaintainers.org/>
+* [Bastien Guerry (@bzg2) | Twitter](https://twitter.com/bzg2?lang=en)
+
 
 
 ## Picks
