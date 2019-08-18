@@ -33,8 +33,6 @@ Bastien Guerry is employed by the French Administration in a program named [Entr
 
 The panel then ask about the evolution of [Fund The Code Project](https://www.fundthecode.org/) which supports the free software movement by donations from sponsors. Bastien invites free software maintainers to [contact](contact@fundthecode.org) [Fund The Code Project](https://www.fundthecode.org/) for help in finding sponsors.
 
-
-
 ## Links
 
 * [Bastien Guerry - EmacsWiki](https://www.emacswiki.org/emacs/BhlMode)
@@ -55,11 +53,7 @@ The panel then ask about the evolution of [Fund The Code Project](https://www.fu
 * [SOS 005: Trademark Versus Copyright to Sustain OSS with Mehdi Medjaoui](https://devchat.tv/sustain-our-software/sos-005-trademark-versus-copyright-to-sustain-oss-with-mahdi-medjaoui/)
 * [Open Source & Software Development | O'Reilly OSCON](https://conferences.oreilly.com/oscon/oscon-or)
 
-
-
 ## Picks
-
-****
 
 **Eric Berry:**
 
@@ -67,7 +61,7 @@ The panel then ask about the evolution of [Fund The Code Project](https://www.fu
 
 **Richard Littauer:**
 
-* https://tinyletter.com/nayafia
+* [The Internet is a City](https://tinyletter.com/nayafia)
 * https://www.amazon.com/Chomsky-Anarchism-Noam/dp/1904859208
 * https://en.wikipedia.org/wiki/Shakespeare_and\_Company\_(bookstore)
 
