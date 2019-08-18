@@ -65,7 +65,7 @@ They discuss which activities are more likely to cause the imposter syndrome - t
 
 **Preston Lamb:**
 
-* How Things Work
+* Understanding how the web works
 
 **Luis Hernandez:**
 
