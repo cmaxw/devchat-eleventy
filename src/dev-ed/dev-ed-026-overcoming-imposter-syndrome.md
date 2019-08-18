@@ -21,7 +21,10 @@ tags:
 # Sponsors
 
 * [Thinkster.io](https://thinkster.io/)
+* [Adventures in DevOps - Devchat.tv](https://devchat.tv/adventures-in-devops/)
+* [My Angular Story - Devchat.tv](https://devchat.tv/my-angular-story/)
 * [CacheFly](https://www.cachefly.com/)
+
 
 ## Panel
 
