@@ -25,7 +25,7 @@ tags:
 
 ## Episode Summary
 
-Bastien Guerry is the release manager of [Org Mode](https://orgmode.org/) and also worked as a maintainer of Org Mode between 2011-1015. 
+Bastien Guerry is the Release Manager of [Org Mode](https://orgmode.org/) and also worked as a maintainer of Org Mode between 2011-1015. He is now employed by the French Administration in a program [Entrepreneurs d'intérêt général](https://twitter.com/eigforever) inspired by [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/). 
 
 ## Links
 
@@ -33,6 +33,7 @@ Bastien Guerry is the release manager of [Org Mode](https://orgmode.org/) and al
 * [Org mode](https://orgmode.org/)
 * [_DINSIC](https://twitter.com/_DINSIC)
 * [Etalab](https://twitter.com/Etalab)
+* [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/)
 
 
 ## Picks
