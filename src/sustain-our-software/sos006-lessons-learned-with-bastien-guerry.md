@@ -53,6 +53,7 @@ The panel then ask about the evolution of [Fund The Code Project](https://www.fu
 * <https://www.fundthecode.org/>
 * <http://openmodels.fr/en/>
 * [SOS 005: Trademark Versus Copyright to Sustain OSS with Mehdi Medjaoui](https://devchat.tv/sustain-our-software/sos-005-trademark-versus-copyright-to-sustain-oss-with-mahdi-medjaoui/)
+* [Open Source & Software Development | O'Reilly OSCON](https://conferences.oreilly.com/oscon/oscon-or)
 
 
 
@@ -65,6 +66,10 @@ The panel then ask about the evolution of [Fund The Code Project](https://www.fu
 * [Software Freedom Conservancy](https://sfconservancy.org/)
 
 **Richard Littauer:**
+
+* https://tinyletter.com/nayafia
+* https://www.amazon.com/Chomsky-Anarchism-Noam/dp/1904859208
+* https://en.wikipedia.org/wiki/Shakespeare_and\_Company\_(bookstore)
 
 **Bastien Guerry:**
 
