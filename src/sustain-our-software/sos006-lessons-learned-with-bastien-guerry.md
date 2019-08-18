@@ -73,4 +73,7 @@ The panel then ask about the evolution of [Fund The Code Project](https://www.fu
 
 **Bastien Guerry:**
 
+* https://www.writethedocs.org
+* https://en.wikipedia.org/wiki/The_History_of_Cardenio
+
 - - -
