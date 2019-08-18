@@ -1,9 +1,9 @@
 ---
 layout: layouts/post.njk
 podcast: adv-in-angular
-title: 'AiA 252: Upgrading AngularJS to Angular with Sam Julien'
+title: 'AiA 253: Upgrading AngularJS to Angular with Sam Julien'
 date: 2019-08-20T10:00:00.000Z
-episode_number: '252'
+episode_number: '253'
 duration: '51:47'
 audio_url: ' https://media.devchat.tv/adventures-in-angular/AiA_253_Sam_Julien.mp3'
 image: /images/uploads/angular-thumb-1400x1400.jpg
