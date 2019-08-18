@@ -25,15 +25,19 @@ tags:
 
 ## Episode Summary
 
-Mahdi Medjaoui is the Steering Committee Member of [The Maintainers](themaintainers.org/) and the founder of [OAuth.io](https://oauth.io/) and [APIdays Conferences](https://www.apidays.co/). He is also the EU commission 2020 expert on open data and open APIs. He has co-authored  O’Reilly Book [“Continuous API management”](https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1492043559). 
+Bastien Guerry is the release manager of [Org Mode](https://orgmode.org/) and also worked as a maintainer of Org Mode between 2011-1015. 
 
 ## Links
 
-* [Mahdi's LinkedIn](https://www.linkedin.com/in/mehdimedjaoui/en)
+* [Bastien Guerry - EmacsWiki](https://www.emacswiki.org/emacs/BhlMode)
+* [Org mode](https://orgmode.org/)
+* [_DINSIC](https://twitter.com/_DINSIC)
+* [Etalab](https://twitter.com/Etalab)
+
 
 ## Picks
 
-**Jon Schlinkert:**
+****
 
 **Eric Berry:**
 
