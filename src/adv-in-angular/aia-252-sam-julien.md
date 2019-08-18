@@ -56,6 +56,10 @@ The panel also talk about other reasons to upgrade from AngularJS, the most impo
 
 * [Bill Odom](https://twitter.com/wnodom?lang=en)
 
+**Joe Eames:**
+
+* [Observables for All](https://rxjs819twt-webinars.thinkster.io/)
+
 **Sam Julien:**
 
 * [Once Upon a Time In Hollywood](https://www.imdb.com/title/tt7131622/)
