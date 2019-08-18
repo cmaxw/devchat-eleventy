@@ -56,18 +56,12 @@ The panel also talk about other reasons to upgrade from AngularJS, the most impo
 
 * [Bill Odom](https://twitter.com/wnodom?lang=en)
 
-**Joe Eames:**
+**Sam Julien:**
 
 * [Once Upon a Time In Hollywood](https://www.imdb.com/title/tt7131622/)
 * [Alamo Drafthouse Cinema](https://drafthouse.com/)
+  ****
 
-
-**Aaron Frost:**
-
-* ****
-
-**Sam Julien:**
-
-* ****
+- - -
 
 - - -
