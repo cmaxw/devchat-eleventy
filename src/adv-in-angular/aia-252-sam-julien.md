@@ -29,9 +29,9 @@ tags:
 
 ## Episode Summary
 
-Sam Julien, Technical Community Manager at [Auth0](https://auth0.com/) joins the panel to talk about upgrading AngularJS to Angular. Sam has a video [course](https://www.upgradingangularjs.com/) on transitioning from AngularJS to Angular and consults with companies that are in the process of upgrading. Sam and the panel share their upgrading experiences and tips on what they have learned. They also discuss how to convince companies that do not want to upgrade to Angular and agree that sometimes it's in the best interest of the company to present the financial benefits of the upgrade rather than the discuss technical aspects.
+Sam Julien, Technical Community Manager at [Auth0](https://auth0.com/) joins the panel to talk about upgrading AngularJS to Angular. Sam has a video [course](https://www.upgradingangularjs.com/) on transitioning from AngularJS to Angular and consults with companies that are in the process of upgrading. Sam and the panel share their upgrading experiences and tips on what they have learned. They also discuss how to convince companies that do not want to upgrade to Angular and agree that sometimes it's in the best interest of the company to present the financial benefits of the upgrade rather than the discuss technical aspects. 
 
-
+The panel also talk about other reasons to upgrade from AngularJS, the most important of which is the announcement of AngularJS end of life. The final release of AngularJS will be 1.7 and will enter Long Term Support (LTS) through June 30, 2021. After that time, Google will no longer maintain the library. 
 
 ## Links
 
@@ -44,6 +44,7 @@ Sam Julien, Technical Community Manager at [Auth0](https://auth0.com/) joins the
 * [Talks - Sam Julien](www.samjulien.com/talks/)
 * [Stable AngularJS and Long Term Support](https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c?gi=7316db8aafc9)
 * [Finding the Right Path from AngularJS to Angular](https://www.youtube.com/watch?v=VAx2N5GSIqY)
+* [AngularJS End of Life Announced](<AngularJS End of Life Announced>)
 
 ## Picks
 
