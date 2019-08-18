@@ -59,6 +59,8 @@ The panel also talk about other reasons to upgrade from AngularJS, the most impo
 **Joe Eames:**
 
 * [Once Upon a Time In Hollywood](https://www.imdb.com/title/tt7131622/)
+* [Alamo Drafthouse Cinema](https://drafthouse.com/)
+
 
 **Aaron Frost:**
 
