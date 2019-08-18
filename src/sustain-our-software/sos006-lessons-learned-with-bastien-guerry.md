@@ -4,7 +4,7 @@ podcast: sustain-our-software
 title: 'SOS006: Lessons Learned with Bastien Guerry'
 date: 2019-08-20T10:00:00.000Z
 episode_number: '6'
-duration: '58:07'
+duration: '49:32'
 audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_005_Mahdi_Medjaoui.mp3'
 tags:
   - sustain_our_software
