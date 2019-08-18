@@ -15,7 +15,7 @@ tags:
 # Sponsors
 
 * [Sentry](https://sentry.io/welcome/) use the code “devchat” for 2 months free on Sentry small plan
-* [R](https://angularbootcamp.com/)eact Native
+* [React Native](https://reactnativeradio.com/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## Panel
@@ -51,6 +51,10 @@ The panel also talk about other reasons to upgrade from AngularJS, the most impo
 **Jennifer Wadella:**
 
 * [Johnnycake from Neptune Oysters](https://www.tripadvisor.com.tr/ShowUserReviews-g60745-d535627-r437273301-Neptune_Oyster-Boston_Massachusetts.html)
+
+**Alyssa Nicoll:**
+
+* [Bill Odom](https://twitter.com/wnodom?lang=en)
 
 **Aaron Frost:**
 
