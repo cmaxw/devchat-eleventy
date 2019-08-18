@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adv-in-angular
-title: 'AiA 252: Sam Julien'
+title: 'AiA 252: Upgrading AngularJS to Angular with Sam Julien'
 date: 2019-08-20T10:00:00.000Z
 episode_number: '252'
 duration: '51:47'
@@ -31,7 +31,7 @@ tags:
 
 Sam Julien, Technical Community Manager at [Auth0](https://auth0.com/) joins the panel to talk about 
 
-##  Links
+## Links
 
 * [MAS 043: Sam Julien](https://devchat.tv/my-angular-story/mas-043-sam-julien/)
 * [MAS 090: Sam Julien](https://devchat.tv/my-angular-story/mas-090-sam-julien/)
@@ -40,6 +40,7 @@ Sam Julien, Technical Community Manager at [Auth0](https://auth0.com/) joins the
 * [Auth0](https://auth0.com/) 
 * <https://www.upgradingangularjs.com/>
 * [Talks - Sam Julien](www.samjulien.com/talks/)
+* [Stable AngularJS and Long Term Support](https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c?gi=7316db8aafc9)
 
 ## Picks
 
