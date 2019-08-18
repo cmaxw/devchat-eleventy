@@ -27,7 +27,7 @@ tags:
 
 Brandon Roberts is a  Google Developer Expert in Angular and Web Technologies. He specializes in NgRx and has recently joined [Narwhal Technologies](https://nrwl.io/). He joins Aaron Frost at Angular Denver to talk about how he 
 
- recently 
+  
 
 **Links**
 
