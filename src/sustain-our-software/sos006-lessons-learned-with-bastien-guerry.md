@@ -1,11 +1,11 @@
 ---
 layout: layouts/post.njk
 podcast: sustain-our-software
-title: 'SOS006: Lessons Learned with Bastien Guerry'
+title: 'SOS 006: Lessons Learned with Bastien Guerry'
 date: 2019-08-20T10:00:00.000Z
 episode_number: '6'
 duration: '49:32'
-audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_005_Mahdi_Medjaoui.mp3'
+audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_006_Bastien_Guerry.mp3'
 tags:
   - sustain_our_software
   - podcast
