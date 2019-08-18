@@ -64,8 +64,10 @@ The panel also talk about other reasons to upgrade from AngularJS, the most impo
 
 **Aaron Frost:**
 
-****
+* ****
 
 **Sam Julien:**
+
+* ****
 
 - - -
