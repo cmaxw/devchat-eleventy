@@ -29,7 +29,7 @@ tags:
 
 ## Episode Summary
 
-Sam Julien, Technical Community Manager at [Auth0](https://auth0.com/) joins the panel to talk about 
+Sam Julien, Technical Community Manager at [Auth0](https://auth0.com/) joins the panel to talk about upgrading AngularJS to Angular. 
 
 ## Links
 
