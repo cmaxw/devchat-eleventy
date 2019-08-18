@@ -26,7 +26,7 @@ tags:
 * Lee Whalen
 * Charles Max Wood
 
-Joined by special guests: Bob Quillin
+Joined by special guest: Bob Quillin
 
 ## Episode Summary
 
@@ -50,7 +50,8 @@ Nell Shamrell-Harrington:
 
 Lee Whalen:
 
-* [AI made from a sheet of glass can recognise numbers just by looking](https://www.newscientist.com/article/2208975-ai-made-from-a-sheet-of-glass-can-recognise-numbers-just-by-looking/)
+* [AI made from a sheet of glass can recognise numbers just by looking
+  ](https://www.newscientist.com/article/2208975-ai-made-from-a-sheet-of-glass-can-recognise-numbers-just-by-looking/)
 * [Hugo](https://gohugo.io/)
 * [Micromastery: Learn Small, Learn Fast, and Unlock Your Potential to Achieve Anything](https://www.amazon.com/gp/product/B072MXPGQ7/?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 
@@ -62,6 +63,7 @@ Charles Max Wood:
 
 Bob Quillin:
 
-* [CERN Uses Kubernetes to Reduce WebLogic Deployment Time](https://www.youtube.com/watch?v=Up21bdcqXVI)
+* [CERN Uses Kubernetes to Reduce WebLogic Deployment Time
+  ](https://www.youtube.com/watch?v=Up21bdcqXVI)
 * [Cloud Native Labs - Oracle](https://cloudnative.oracle.com/index.html)
 * [Oracle Developers](https://developer.oracle.com/)
