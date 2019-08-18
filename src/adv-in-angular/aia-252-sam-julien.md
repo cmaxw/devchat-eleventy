@@ -29,7 +29,9 @@ tags:
 
 ## Episode Summary
 
-Sam Julien, Technical Community Manager at [Auth0](https://auth0.com/) joins the panel to talk about upgrading AngularJS to Angular. Sam has a video [course](https://www.upgradingangularjs.com/) on transitioning from AngularJS to Angular and consults with companies that are in the process of upgrading. Sam and the panel share their upgrading experiences and tips on what they have learned. 
+Sam Julien, Technical Community Manager at [Auth0](https://auth0.com/) joins the panel to talk about upgrading AngularJS to Angular. Sam has a video [course](https://www.upgradingangularjs.com/) on transitioning from AngularJS to Angular and consults with companies that are in the process of upgrading. Sam and the panel share their upgrading experiences and tips on what they have learned. They also discuss how to convince companies that do not want to upgrade to Angular and agree that sometimes it's in the best interest of the company to present the financial benefits of the upgrade rather than the discuss technical aspects.
+
+
 
 ## Links
 
