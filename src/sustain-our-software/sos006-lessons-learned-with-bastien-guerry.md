@@ -62,4 +62,6 @@ The panel then ask about the evolution of [Fund The Code Project](https://www.fu
 
 **Richard Littauer:**
 
+**Bastien Guerry:**
+
 - - -
