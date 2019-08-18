@@ -15,6 +15,7 @@ tags:
 
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 * [iPhreaks Show](https://devchat.tv/iphreaks/)
+* [Ruby Rogues](https://devchat.tv/ruby-rogues/)
 * [Cachefly](https://www.cachefly.com/)
 
 ## Panel
