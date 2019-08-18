@@ -41,6 +41,7 @@ Sam Julien, Technical Community Manager at [Auth0](https://auth0.com/) joins the
 * <https://www.upgradingangularjs.com/>
 * [Talks - Sam Julien](www.samjulien.com/talks/)
 * [Stable AngularJS and Long Term Support](https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c?gi=7316db8aafc9)
+* [Finding the Right Path from AngularJS to Angular](https://www.youtube.com/watch?v=VAx2N5GSIqY)
 
 ## Picks
 
