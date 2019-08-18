@@ -52,7 +52,6 @@ The panel then ask about the evolution of [Fund The Code Project](https://www.fu
 * <https://publiccode.net/>
 * <https://www.fundthecode.org/>
 * <http://openmodels.fr/en/>
-* [Software Freedom Conservancy](https://sfconservancy.org/)
 * [SOS 005: Trademark Versus Copyright to Sustain OSS with Mehdi Medjaoui](https://devchat.tv/sustain-our-software/sos-005-trademark-versus-copyright-to-sustain-oss-with-mahdi-medjaoui/)
 
 
@@ -62,6 +61,8 @@ The panel then ask about the evolution of [Fund The Code Project](https://www.fu
 ****
 
 **Eric Berry:**
+
+* [Software Freedom Conservancy](https://sfconservancy.org/)
 
 **Richard Littauer:**
 
