@@ -12,8 +12,9 @@ tags:
 ---
 **Sponsors**
 
-- [DevChatTV](https://devchat.tv/)
-- [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry's small plan
+- [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
+- [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
+- [The Freelancers Show](https://devchat.tv/freelancers/)
 - [CacheFly](https://www.cachefly.com/)
 
 **Panel**
