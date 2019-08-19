@@ -12,3 +12,47 @@ tags:
   - podcast
 ---
 # Sponsors
+
+* [Thinkster.io](https://thinkster.io/)
+* [Adventures in DevOps - Devchat.tv](https://devchat.tv/adventures-in-devops/)
+* [CacheFly](https://www.cachefly.com/)
+
+## Panel
+
+* [Joe Eames](https://thinkster.io/)
+* [Brooke Avery](https://thinkster.io/)
+* [Mike Dane](https://www.mikedane.com/)
+* [Sam Julien](https://twitter.com/samjulien?lang=en)
+* [Luis Hernandez](https://lambdaschool.com/about)
+
+Joined by special guest: [Erik Hanchett](https://www.linkedin.com/in/erikhanchett/) 
+
+## Episode Summary
+
+In this episode of the Dev Ed podcast, the panelists talk to Erik Hanchett
+
+## Links
+
+* [Erik's Twitter](https://twitter.com/ErikCH?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+## Picks
+
+**Joe Eames:**
+
+* 
+
+**Mike Dane:**
+
+* 
+
+**Sam Julien, Brooke Avery:**
+
+* 
+
+**Erik Hanchett:**
+
+* 
+
+**Luis Hernandez:**
+
+*
