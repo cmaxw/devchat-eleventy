@@ -29,11 +29,13 @@ Joined by special guest: [Erik Hanchett](https://www.linkedin.com/in/erikhanchet
 
 ## Episode Summary
 
-In this episode of the Dev Ed podcast, the panelists talk to Erik Hanchett
+In this episode of the Dev Ed podcast, the panelists talk to Erik Hanchett, software developer, author of . blogger, YouTuber, 
 
 ## Links
 
 * [Erik's Twitter](https://twitter.com/ErikCH?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [Vue.js Fundamentals](https://thinkster.io/tutorials/vue-js-fundamentals)
+* [Program with Erik](https://www.programwitherik.com/)
 
 ## Picks
 
