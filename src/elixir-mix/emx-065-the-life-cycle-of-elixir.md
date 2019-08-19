@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: elixir-mix
 title: 'EMx 065: The Life Cycle of Elixir'
-date: 2019-08-19T03:02:41.011Z
+date: 2019-08-20T10:00:41.011Z
 episode_number: '065'
 duration: '54:12'
 audio_url: 'https://media.devchat.tv/elixir-mix/EMx_065_Panel.mp3'
