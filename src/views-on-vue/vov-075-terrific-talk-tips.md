@@ -4,7 +4,7 @@ podcast: views-on-vue
 title: 'VoV 075: Terrific Talk Tips'
 date: 2019-08-20T10:00:25.442Z
 episode_number: '075'
-duration: '1:00:30'
+duration: '1:00:33'
 audio_url: 'https://media.devchat.tv/viewsonvue/VoV_075_Panel.mp3'
 tags:
   - views_on_vue
