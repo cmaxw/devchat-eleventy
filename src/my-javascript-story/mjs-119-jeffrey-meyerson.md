@@ -33,6 +33,7 @@ Jeffrey's journey as a developer started out with his interest through music and
 * <https://www.secretsofsongwriting.com/>
 * <https://www.hooktheory.com/>
 * [FindCollabs](https://findcollabs.com/) 
+* [Software Media with Charles Max Wood](https://softwareengineeringdaily.com/2019/07/11/software-media-with-charles-max-wood/)
 
 ## Picks
 
