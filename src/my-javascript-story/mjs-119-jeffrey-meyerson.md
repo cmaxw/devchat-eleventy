@@ -35,6 +35,8 @@ Jeffrey Meyerson, founder of [FindCollabs](https://findcollabs.com/) and host at
 
 **Charles Max Wood**
 
-* \#75Hard
+* \#75Hard 
 
 **Jeffrey Meyerson**
+
+* ****
