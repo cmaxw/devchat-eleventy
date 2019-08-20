@@ -43,4 +43,4 @@ Jeffrey's journey as a developer started out with his interest through music and
 
 **Jeffrey Meyerson**
 
-* Rice Cooker
+* Owning a Rice Cooker
