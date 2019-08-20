@@ -23,7 +23,9 @@ tags:
 
 ## Episode Summary
 
-Jeffrey Meyerson, founder of [FindCollabs](https://findcollabs.com/) and host at [Software Engineering Daily ](https://softwareengineeringdaily.com/) joins Charles Max Wood for a discussion about latest trends in developer world, ways of monetizing podcasts and finding ads for podcasts. He hosts  Jeffrey's journey as a developer started out with his interest through music and poker. They compare advertising through sponsoring a booth in a conference versus advertising through a podcast. 
+Jeffrey Meyerson, founder of [FindCollabs](https://findcollabs.com/) and host at [Software Engineering Daily ](https://softwareengineeringdaily.com/) joins Charles Max Wood for a discussion about latest trends in developer world, ways of monetizing podcasts and finding ads for podcasts.Jeffrey shares how he started hosts podcasts and how he became a developer. 
+
+Jeffrey's journey as a developer started out with his interest through music and poker. They compare advertising through sponsoring a booth in a conference versus advertising through a podcast. Tune in for a fun chat that covers everything from Keto dieting to software buzz words.
 
 ## Links
 
