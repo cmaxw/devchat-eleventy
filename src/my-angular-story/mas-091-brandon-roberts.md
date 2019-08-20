@@ -25,7 +25,7 @@ tags:
 
 **Episode Summary**
 
-Brandon Roberts is a  Google Developer Expert in Angular and Web Technologies. He specializes in NgRx and has recently joined [Narwhal Technologies](https://nrwl.io/) after working in the Angular team at Google. He joins Aaron Frost at Angular Denver to talk about how he got into Angular. 
+Brandon Roberts is a  Google Developer Expert in Angular and Web Technologies. He specializes in NgRx and has recently joined [Narwhal Technologies](https://nrwl.io/) after working in the Angular team at Google. He joins Aaron Frost at Angular Denver to talk about his journey as a developer which started in NASA, developing apps for launch missions.
 
 **Links**
 
