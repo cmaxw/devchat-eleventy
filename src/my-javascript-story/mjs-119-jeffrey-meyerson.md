@@ -29,4 +29,7 @@ tags:
 
 **Charles Max Wood**
 
+* https://www.secretsofsongwriting.com/
+* https://www.hooktheory.com/
+
 **Jeffrey Meyerson**
