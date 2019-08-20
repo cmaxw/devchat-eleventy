@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: sustain-our-software
-title: 'SOS 006: Lessons Learned with Bastien Guerry'
+title: 'SOS 006: Open Source Software Maintenance Lessons Learned with Bastien Guerry'
 date: 2019-08-20T10:00:00.000Z
 episode_number: '6'
 duration: '49:32'
