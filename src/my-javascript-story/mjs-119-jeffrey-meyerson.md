@@ -27,13 +27,14 @@ Jeffrey Meyerson, founder of [FindCollabs](https://findcollabs.com/) and host at
 
 ## Links
 
-
+* [Jeffrey's LinkedIn](https://www.linkedin.com/in/jeff-meyerson-05275716/)
+* <https://www.secretsofsongwriting.com/>
+* <https://www.hooktheory.com/>
 
 ## Picks
 
 **Charles Max Wood**
 
-* https://www.secretsofsongwriting.com/
-* https://www.hooktheory.com/
+* 
 
 **Jeffrey Meyerson**
