@@ -43,7 +43,7 @@ The panel also talk about other reasons to upgrade from AngularJS, the most impo
 * [Talks - Sam Julien](www.samjulien.com/talks/)
 * [Stable AngularJS and Long Term Support](https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c?gi=7316db8aafc9)
 * [Finding the Right Path from AngularJS to Angular](https://www.youtube.com/watch?v=VAx2N5GSIqY)
-* [AngularJS End of Life Announced](<AngularJS End of Life Announced>)
+* [AngularJS End of Life Announced](https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c)
 
 ## Picks
 
@@ -63,7 +63,7 @@ The panel also talk about other reasons to upgrade from AngularJS, the most impo
 
 * [Once Upon a Time In Hollywood](https://www.imdb.com/title/tt7131622/)
 * [Alamo Drafthouse Cinema](https://drafthouse.com/)
-  ****
+  - - -
 
 - - -
 
