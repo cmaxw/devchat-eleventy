@@ -32,7 +32,7 @@ Mehul is building an app for Codedamn; the panel discusses the changes he had to
 - [https://github.com/callstack/react-native-paper](https://github.com/callstack/react-native-paper)
 - [https://rnfirebase.io/](https://rnfirebase.io/)
 - [http://www.awesome-react-native.com/](http://www.awesome-react-native.com/)
-- [https://www.youtube.com/c/codedamn](https://www.youtube.com/c/codedamn)
+- [Codedamn Youtube](https://www.youtube.com/c/codedamn)
 - [Free Code Camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [React Native New Things - v0.59](https://www.youtube.com/watch?v=mFbcTYgwlXo&amp;list=PLYxzS__5yYQlGltx7Vx-VgFpfWS5HEMHO)
 - [https://www.swyx.io/writing/learn-in-public](https://www.swyx.io/writing/learn-in-public)
