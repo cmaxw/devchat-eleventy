@@ -22,7 +22,7 @@ tags:
 - Josh Justice
 - Charles Max Wood
 
-Joined by Mehul Mohan, the creator of Codedamn, shares what Codedamn is all about. A youtube channel and website, Codedamn is a free online learning resource for new developers. Helping others learn and to improve his own coding knowledge through teaching are the main reasons he is so passionate about Codedamn. The functionalities on the website and youtube channel mostly consist of tutorials and video courses.  Mehul shares the goals he has for Codedamn and is reaching out to other creators to bring other technologies to Codedamn. 
+Joined by Mehul Mohan, the creator of Codedamn, shares what Codedamn is all about. A Youtube channel and website, Codedamn is a free online learning resource for new developers. Helping others learn and to improve his own coding knowledge through teaching are the main reasons he is so passionate about Codedamn. The functionalities on the website and youtube channel mostly consist of tutorials and video courses.  Mehul shares the goals he has for Codedamn and is reaching out to other creators to bring other technologies to Codedamn. 
 
 Mehul is building an app for Codedamn; the panel discusses the changes he had to make to switch it over to React Native and what amount of reusability there was. When to use Native iOS versus when to use React Native is considered by the panel. Mehul shares his experience diving into the React Native community; he found the community helpful and was impressed by developers contributing to the code. Mehul shares some of the libraries he found that made React Native easier to use. The panel ends the episode with a discussion on their preferred Native platforms and the benefits and drawbacks of each.  
 
