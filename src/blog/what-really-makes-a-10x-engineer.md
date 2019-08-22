@@ -1,7 +1,7 @@
 ---
 title: What Really Makes a 10x Engineer
 author: charles-max-wood
-date: 2019-07-16 8:00:00
+date: 2019-08-16 8:00:00
 image: /images/uploads/unicorn.jpg
 tags:
   - blog
