@@ -1,0 +1,12 @@
+{
+  "name": "Charles Max Wood",
+  "photo": "cmaxw.jpg",
+  "bio": "Charles Max Wood is the CEO of Devchat.tv and host of several podcasts about software development at Devchat.tv. His passions are creating podcats for software developers, watching soccer, and playing Dungeons and Dragons. He lives in Utah with his wife, Heather, and 5 children.",
+  "twitter": "https://twitter.com/cmaxw",
+  "facebook": "https://facebook.com/charlesmaxwood",
+  "linkedin": "https://linkedin.com/cmaxw",
+  "instagram": "https://instagram.com/charlesmaxwood",
+  "blog": "https://devchat.tv/blog",
+  "website": "https://devchat.tv",
+  "podcasts": ["ruby-rogues", "js-jabber", "dev-rev", "my-javascript-story", "my-ruby-story", "react-native-radio"]
+}
