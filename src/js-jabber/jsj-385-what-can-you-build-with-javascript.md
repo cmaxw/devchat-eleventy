@@ -14,21 +14,14 @@ tags:
   - Charles Max Wood
   - Christopher Beucheler
 ---
-
 ## **Sponsors**
 
-
-
-*   [RxJS Live](https://www.rxjs.live/)
-
+* [RxJS Live](https://www.rxjs.live/)
 
 ### **Panel**
 
-
-
-*   Charles Max Wood
-*   Christopher Beucheler
-
+* Charles Max Wood
+* Christopher Beucheler
 
 ### **Episode Summary**
 
@@ -36,35 +29,28 @@ Today Charles and Christopher discuss what can you do with JavaScript. They talk
 
 **Links**
 
-
-
-*   [Node.js](https://nodejs.org/)
-*   [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
-*   [React](https://reactjs.org/)
-*   [React Native](https://facebook.github.io/react-native/)
-*   [Quake](https://store.steampowered.com/app/2310/QUAKE/)
-*   [TenserFlow.js](https://www.tensorflow.org/js)
-*   [WebAssembly](https://webassembly.org/)
-*   [Hermes](https://github.com/hermes-io)
+* [Node.js](https://nodejs.org/)
+* [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+* [React](https://reactjs.org/)
+* [React Native](https://facebook.github.io/react-native/)
+* [Quake](https://store.steampowered.com/app/2310/QUAKE/)
+* [TenserFlow.js](https://www.tensorflow.org/js)
+* [WebAssembly](https://webassembly.org/)
+* [Hermes](https://github.com/hermes-io) 
 
 Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
-
 
 ### **Picks**
 
 **Charles Max Wood:**
 
-
-
-*   [Instagram](https://www.instagram.com/?hl=en)
-*   [JavaScript Jabber Reccomendations](https://trello.com/b/KayprWDz/javascript-jabber-recommendations)
-*   New shows: Adventures in Block Chain, Adventures in .Net
+* [Instagram](https://www.instagram.com/?hl=en)
+* [JavaScript Jabber Reccomendations](https://trello.com/b/KayprWDz/javascript-jabber-recommendations)
+* New shows: Adventures in Block Chain, Adventures in .Net
 
 **Christopher Beucheler:**
 
-
-
-*   Pair programming
-*   [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+* Pair programming
+* [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 <!-- Docs to Markdown version 1.0β17 -->
