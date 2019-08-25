@@ -1,0 +1,9 @@
+{
+  "name": "Lee Whalen",
+  "photo": "law.jpg",
+  "bio": "Lee is founder and principle engineer of Fuzzy Logic, a Devops-as-a-Service consultancy focusing on keeping your site up on Black Friday.  Outside of work, he is a professional musician on bass guitar keeping the Pacific Northwest dancing and happy.",
+  "linkedin": "https://www.linkedin.com/in/law-fuzzylogic/",
+  "website": "https://www.fuzzy-logic.org",
+  "mastodon": "https://bsd.network/@law",
+  "podcasts": ["adventures-in-devops"]
+}
