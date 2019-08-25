@@ -46,7 +46,6 @@ Nell Shamrell-Harrington:
 Scott Nixon:
 
 * [Automated Reasoning](https://aws.amazon.com/blogs/security/tag/automated-reasoning/)
-* [Byron Cook, Amazon | AWS re:Inforce 2019
-  ](https://www.youtube.com/watch?v=J9Da3VsLH44&feature=youtu.be&t=47)
+* [Byron Cook, Amazon | AWS re:Inforce 2019](https://www.youtube.com/watch?v=J9Da3VsLH44&feature=youtu.be&t=47)
 * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07RFSSYBH/ref=sr_1_1?crid=3LF0FAWO72Q1T&keywords=atomic+habits&qid=1564614043&s=audible&sprefix=atomic%2Caudible%2C263&sr=1-1&tag=donorsclicks-20)
 * [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/B00K5JUNSU/ref=sr_1_1?crid=26LLHJHLQFTFX&keywords=the+obstacle+is+the+way&qid=1564614011&s=gateway&sprefix=the+obsta%2Caps%2C433&sr=8-1&tag=donorsclicks-20)
