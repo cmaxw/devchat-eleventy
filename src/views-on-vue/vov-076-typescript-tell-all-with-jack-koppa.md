@@ -4,7 +4,7 @@ podcast: views-on-vue
 title: 'VoV 076:  Typescript Tell All with Jack Koppa'
 date: 2019-08-27T10:00:12.152Z
 episode_number: '076'
-duration: '59:59'
+duration: '1:00:25'
 audio_url: 'https://media.devchat.tv/viewsonvue/VoV_076_Jack_Koppa.mp3'
 tags:
   - views_on_vue
@@ -14,7 +14,7 @@ tags:
 
 - [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 - [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
-- [The Freelancers Show](https://devchat.tv/freelancers/)
+- [GitLab](https://about.gitlab.com/events/commit/?utm_medium=sponsorship&utm_source=devchattv&utm_campaign=gitlabcommit&utm_content=brooklyn) | Get 30% off tickets with the promo code: DEVCHATCOMMIT
 - [CacheFly](https://www.cachefly.com/)
 
 **Panel**
