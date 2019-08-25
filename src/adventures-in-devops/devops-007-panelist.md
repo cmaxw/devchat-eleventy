@@ -16,8 +16,7 @@ tags:
 ---
 # Sponsors
 
-* [CacheFly
-  ](https://www.cachefly.com/)
+* [CacheFly](https://www.cachefly.com/)
 
 ## Panel
 
