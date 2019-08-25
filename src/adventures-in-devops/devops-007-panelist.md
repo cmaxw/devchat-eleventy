@@ -27,8 +27,21 @@ tags:
 
 In this episode of the Adventures in DevOps podcast, panelists Nell-Shamrell Harrington and Scott Nixon talk about monitoring in the software world. They start the discussion by talking about the difference between monitoring and alerting. They talk about how logging comes into the picture in monitoring, two main types of logs - structured and unstructured, log management in the DevOps framework, information storage, parsing logs, log aggregation. They list two major kinds of monitoring software - pull and push. Nell explains what they mean and how they work, and Scott gives examples of each including syslog, healthcheck,etc.
 
-They then talk about what it means by a "working" system, and consequently, when is something considered to be non-functional. This leads to answering the important question of what exactly should be monitored. They explain to what level should one go while monitoring and how to determine the level of importance of the events involved. They discuss some concepts from Mike Julian's book "Practical Monitoring" - tool obsession, what not do do in monitoring and the fact that businesses need to customize their systems based on what works for them.
+They then talk about what it means by a "working" system, and consequently, when can something be considered to be non-functional. This leads to answering the important question of what exactly should be monitored. They explain to what level should one go while monitoring and how to determine the level of importance of the events involved. They discuss some concepts from Mike Julian's book "Practical Monitoring" including anti patterns such as tool obsession, what not do do in monitoring and the fact that businesses need to customize their systems based on what works for them. They talk about Nagios, benefits in using default monitoring tools provided by the cloud systems, using monitoring as a crutch and manual configuration. They then discuss good practices from Mike's book - composable monitoring,performance monitoring from the user perspective, 'buy not build' software and continual improvements. They briefly touch on the topic of security in monitoring and wrap up the episode with picks.
 
 ## Links
 
 * [Practical Monitoring - Mike Julian](https://www.practicalmonitoring.com/)
+* [Accelerate: The State of DevOps with Dr. Nicole Forsgren](https://radiopublic.com/hanselminutes-fresh-talk-and-tec-WznErN/ep/s1!56168)gh
+* [High Output Management - Andrew S. Grove](https://www.goodreads.com/book/show/324750.High_Output_Management)
+
+## Picks
+
+Nell Shamrell-Harrington
+
+* [Mauer Museum](https://www.mauermuseum.de/en/start/)
+* [Tetris 99](https://www.nintendo.com/games/detail/tetris-99-switch/)
+
+Scott Nixon
+
+*
