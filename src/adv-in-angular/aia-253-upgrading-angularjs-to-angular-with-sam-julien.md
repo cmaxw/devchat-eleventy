@@ -63,8 +63,3 @@ The panel also talk about other reasons to upgrade from AngularJS, the most impo
 
 * [Once Upon a Time In Hollywood](https://www.imdb.com/title/tt7131622/)
 * [Alamo Drafthouse Cinema](https://drafthouse.com/)
-  - - -
-
-- - -
-
-- - -
