@@ -11,7 +11,7 @@ audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_007_Heath_Arensen.
 tags:
   - sustain_our_software
   - podcast
-  - Bastien Guerry
+  - Heath Arensen
 ---
 # Sponsors
 
