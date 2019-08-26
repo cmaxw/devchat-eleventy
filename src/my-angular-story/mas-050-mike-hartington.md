@@ -33,7 +33,7 @@ He helps other developers handle issues and figure better solutions just like ho
 
 Charles agrees with Mike's ideas about to solve a problem. When using an API, for instance, Mike doesn't want to think too hard about how to use it. He wants to keep things simple. The API should be built the way it should have been used.
 
-To hear the rest of _My Angular Mike Hartington_, download and listen to the entire episode. Get in touch&nbsp;with Mike&nbsp;and learn more about him by following [Mike on Twitter](https://twitter.com/mhartington)
+To hear the rest of our interview with _Mike Hartington_, download and listen to the entire episode. Get in touch with Mike and learn more about him by following [Mike on Twitter](https://twitter.com/mhartington)
 
 If you're short on time, here are the highlights of this interview with Mike Hartington:
 
