@@ -35,30 +35,24 @@ Charles agrees with Mike's ideas about to solve a problem. When using an API, fo
 
 To hear the rest of _My Angular Mike Hartington_, download and listen to the entire episode. Get in touch&nbsp;with Mike&nbsp;and learn more about him by following [Mike on Twitter](https://twitter.com/mhartington)
 
-If you're short on time, here are the highlights ofMy Angular Story Mike Hartington:
- 
-Mike's first experiences in programming (07:03)
+If you're short on time, here are the highlights of this interview with Mike Hartington:
 
-What led him back to programming? (09:50)
+* Mike's first experiences in programming (07:03)
+* What led him back to programming? (09:50)
+* How does design influence programming? (12:21)
+* How did Mike get into Angular? (14:06)
+* Mike's other open source projects? (17:31)
+* Mike's basis in deciding to contribute in a project? (19:17)
+* How did he get into Ionic? (24:14)
 
-How does design influence programming? (12:21)
+## Picks
 
-How did Mike get into Angular? (14:06)
-
-Mike's other open source projects? (17:31)
-
-Mike's basis in deciding to contribute in a project? (19:17)
-
-How did he get into Ionic? (24:14)
-
-## Picks:
-
-**Mike** 
+### Mike
 
 * Chuck from Angular Team for awesome language plugin
 * Westworld
 
-**Charles** 
+### Charles
 
 * ActiveCampaign
 * KSL Classifieds
