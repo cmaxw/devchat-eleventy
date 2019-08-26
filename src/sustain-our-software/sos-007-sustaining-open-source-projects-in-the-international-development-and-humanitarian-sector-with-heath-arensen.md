@@ -28,15 +28,13 @@ tags:
 
 Heath Arensen is the Director of Business Planning and Sustainability at the Digital Impact Alliance's Open Source Center. He also supports Open Source projects with consulting and advising in Business Models for sustainability. 
 
-The discussion leads with  a quote Heath has in his Twitter “Belief that the world's best software can be built in the most unlikely places”. Heath grew up in East Africa and talks about how developers from  Africa can face prejudice when it comes to their skills. 
+The discussion opens with  a discussion about a quote Heath has in his Twitter account “Belief that the world's best software can be built in the most unlikely places”. Heath grew up in East Africa and talks about how developers from  Africa can face prejudice when it comes to their skills. 
 
-They then talk about how software developer talent can be cultivated around the world. Heath defines sustainability as more than just software. Heath describes their "Open-Sourcify" check-list that they go through when they are evaluating an Open Source project's sustainability.
+They then talk about how  developer talent can be cultivated around the world. Heath defines sustainability as more than just software. Heath describes their "Open-Sourcify" check-list that they go through when they are evaluating an Open Source project's sustainability.
 
+The panel then goes through an example where two countries exchange digital services and list the challenges that can arise along the way. They then talk about some of the successful cases Heath has worked on.
 
-
-
-
-
+Heath then talks about how running a software company in Africa and Middle East got him started in projects that focus on  Open Source Sustainability 
 
 ## Links
 
@@ -45,6 +43,7 @@ They then talk about how software developer talent can be cultivated around the 
 * <https://forum.osc.dial.community/>
 * [Digital Impact Alliance](https://digitalimpactalliance.org/)
 * [Heath's LinkedIn](https://www.linkedin.com/in/heatharensen/)
+* [Heath's Twitter](https://twitter.com/heatharensen)
 
 ## Picks
 
