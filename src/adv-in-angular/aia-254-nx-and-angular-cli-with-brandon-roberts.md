@@ -53,8 +53,8 @@ They then talk about Narwhal's support plans for NgRx 9.
 
 **Joe Eames:**
 
-* [Roll for Adventure](<https://boardgamegeek.com › boardgame › roll-adventure>) Board Game
-* [Stop Thief!](<https://boardgamegeek.com › boardgame › stop-thief>) Board Game
+* [Roll for Adventure Board Game](https://boardgamegeek.com/boardgame/255683/roll-adventure)
+* [Stop Thief! Board Game](https://boardgamegeek.com/boardgame/215312/stop-thief87)
 
 **Aaron Frost:**
 
