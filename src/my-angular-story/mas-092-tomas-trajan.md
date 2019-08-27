@@ -15,8 +15,8 @@ tags:
 ## **Sponsors**
 
 * [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
-* [React Native Radio Podcast](https://devchat.tv/react-native-radio/)
 * [The Freelancer's Show Podcast ](https://devchat.tv/freelancers/)
+* [My JavaScript Story Podcast](https://devchat.tv/my-javascript-story/)
 * [CacheFly](https://www.cachefly.com/)
 
 **Host:** Aaron Frost
