@@ -23,6 +23,13 @@ tags:
 
 **Episode Summary**
 
-### **Links**
+Tomas Trajan joins Aaron Frost to talk about his journey as a developer consultant. Tomas is a Software Consultant and a  Google Developer Expert for Angular based out of Zürich, Switzerland. 
 
-\*
+Tomas and Aaron mention that they are both drop-outs from college and share different sources of self-learning. They both agree they did not learn programming in school. 
+
+Tomas shares some of the more interesting jobs he did such as selling websites door to door to local businesses. Aaron shares similar stories from his own friends circle. Tomas tells some of the more funny and stressful experiences he had while selling websites.
+
+**Links**
+
+* [Tomas LinkedIn](https://www.linkedin.com/in/tomastrajan/)
+* [Tomas Twitter](https://twitter.com/tomastrajan)
