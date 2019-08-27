@@ -23,10 +23,17 @@ tags:
 
 ## Episode Summary
 
+Thomas Grassl from SAP joins Charles Max Wood at OSCON to talk about what SAP is doing in the Open Source world. Thomas talks about SAP's recently released a UI5 Web Components.
+
+Charles wonders how the components will work with different frameworks and Thomas explains UI5 Web Components are HTML components and they should be used how regular HTML components are used. UI5 Web Components is Open Source so Thomas expects contributions from the Open Source community.
+
+Thomas then talks about UI5 Web Components'  enterprise-ready functionality and scalability features as well as the security and accessibility aspects.
+
+They then talk about Thomas' position as Developer Relations in SAP and what it entails.
+
 ## Links
 
-## Picks
-
-**Charles Max Wood**
-
-**Thomas Grassl**
+* [UI5 Web Components- SAP](<https://sap.github.io › ui5-webcomponents>)
+* [Thomas' LinkedIn](https://www.linkedin.com/in/grassl/)
+* [Thomas' Twitter](https://twitter.com/grassl)
+* [Open Source & Software Development| O'Reilly OSCON](https://conferences.oreilly.com/oscon/oscon-or)
