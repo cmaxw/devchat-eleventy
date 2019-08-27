@@ -29,6 +29,10 @@ Tomas and Aaron mention that they are both drop-outs from college and share diff
 
 Tomas shares some of the more interesting jobs he did such as selling websites door to door to local businesses. Aaron shares similar stories from his own friends circle. Tomas tells some of the more funny and stressful experiences he had while selling websites.
 
+Tomas took a year off traveling with his girlfriend where they traveled without much planning visiting many countries in South East Asia.  He talks about some of the funnier instances they had during these travels. 
+
+
+
 **Links**
 
 * [Tomas LinkedIn](https://www.linkedin.com/in/tomastrajan/)
