@@ -35,6 +35,7 @@ Aaron then asks Tomas about some of the challenges he faced when he was learning
 
 **Links**
 
+* [AiA 233: Getting Serious with Schematics with Tomas Trajan](https://devchat.tv/adv-in-angular/aia-233-getting-serious-with-schematics-with-tomas-trajan/)
 * [Tomas LinkedIn](https://www.linkedin.com/in/tomastrajan/)
 * [Tomas Twitter](https://twitter.com/tomastrajan)
 * [Angular Zürich](<https://www.meetup.com › AngularZRH>)
