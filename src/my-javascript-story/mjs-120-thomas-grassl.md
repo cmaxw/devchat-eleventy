@@ -41,3 +41,4 @@ Finally Charles and Thomas talk about how SAP approaches developer relations and
 * [Thomas' LinkedIn](https://www.linkedin.com/in/grassl/)
 * [Thomas' Twitter](https://twitter.com/grassl)
 * [Open Source & Software Development| O'Reilly OSCON](https://conferences.oreilly.com/oscon/oscon-or)
+* [SAP Open Source | Developer](<https://developers.sap.com › open-source>)
