@@ -49,6 +49,7 @@ Aaron then asks Tomas about some of the challenges he faced when he was learning
 
 **Tomas Trajan:**
 
-* ****
+* NgRx 8
+* [Angular Elements](<https://angular.io › guide › elements>) 
 
 ****
