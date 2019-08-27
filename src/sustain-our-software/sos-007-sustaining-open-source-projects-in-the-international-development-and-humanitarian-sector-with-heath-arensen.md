@@ -16,7 +16,7 @@ tags:
 # Sponsors
 
 * [Gitlab Commit](https://about.gitlab.com/events/commit/?utm_medium=sponsorship&utm_source=devchattv&utm_campaign=gitlabcommit&utm_content=brooklyn)
-* Adventures in DevOps
+* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 * [Cachefly](https://www.cachefly.com/)
 
 ## Panel
