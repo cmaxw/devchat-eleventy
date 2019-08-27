@@ -38,7 +38,7 @@ They then talk about Narwhal's support plans for NgRx 9.
 
 ## Links
 
-* [MAS 091: Brandon Roberts](<MAS 091: Brandon Roberts>)
+* [MAS 091: Brandon Roberts](<https://devchat.tv › my-angular-story › mas-091-brandon-roberts>)
 * [NgRx: A Reactive State of Mind (Two Day Workshop)](https://angulardenver.com/ngrx-a-reactive-state-of-mind)
 * <https://www.ng-conf.org/2019/speakers/brandon-roberts/>
 * [Brandon Roberts – Medium](https://medium.com/@brandontroberts)
