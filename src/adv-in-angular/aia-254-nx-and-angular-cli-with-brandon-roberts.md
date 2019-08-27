@@ -43,6 +43,7 @@ They then talk about Narwhal's support plans for NgRx 9.
 * <https://www.ng-conf.org/2019/speakers/brandon-roberts/>
 * [Brandon Roberts – Medium](https://medium.com/@brandontroberts)
 * [Brandon (@brandontroberts) | Twitter](https://twitter.com/brandontroberts?lang=en)
+* <https://github.com › nrwl › nx>
 
 ## Picks
 
