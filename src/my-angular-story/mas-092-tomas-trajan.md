@@ -37,3 +37,11 @@ Aaron then asks Tomas about some of the challenges he faced when he was learning
 
 * [Tomas LinkedIn](https://www.linkedin.com/in/tomastrajan/)
 * [Tomas Twitter](https://twitter.com/tomastrajan)
+* [Angular Zürich](<https://www.meetup.com › AngularZRH>)
+* <https://github.com/tomastrajan/angular-ngrx-material-starter>
+
+**Picks**
+
+**Aaron Frost:**
+
+* People who help their customers get off Internet Explorer
