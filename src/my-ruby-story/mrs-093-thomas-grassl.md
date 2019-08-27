@@ -32,7 +32,7 @@ Thomas then talks about UI5 Web Components'  enterprise-ready functionality and 
 
 They then talk about Thomas' position as Developer Relations in SAP and what it entails. Thomas then talks about the career opportunities that comes with customization on the enterprise scale. 
 
-Finally Charles and Thomas talk about how SAP approaches developer relations. 
+Finally Charles and Thomas talk about how SAP approaches developer relations and what developers should do if they would like to contribute to SAP Open Source project.
 
 ## Links
 
