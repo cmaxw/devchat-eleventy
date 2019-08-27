@@ -16,6 +16,7 @@ tags:
 # Sponsors
 
 * [Gitlab Commit](https://about.gitlab.com/events/commit/?utm_medium=sponsorship&utm_source=devchattv&utm_campaign=gitlabcommit&utm_content=brooklyn)
+* Adventures in DevOps
 * [Cachefly](https://www.cachefly.com/)
 
 ## Panel
@@ -30,11 +31,11 @@ Heath Arensen is the Director of Business Planning and Sustainability at the Dig
 
 The discussion opens with  a discussion about a quote Heath has in his Twitter account “Belief that the world's best software can be built in the most unlikely places”. Heath grew up in East Africa and talks about how developers from  Africa can face prejudice when it comes to their skills. 
 
-They then talk about how  developer talent can be cultivated around the world. Heath defines sustainability as more than just software. Heath describes their "Open-Sourcify" check-list that they go through when they are evaluating an Open Source project's sustainability.
+They then talk about how  developer talent can be cultivated around the world. Heath defines sustainability as more than just software. He describes their "Open-Sourcify" check-list that they go through when they are evaluating an Open Source project's sustainability.
 
 The panel then goes through an example where two countries exchange digital services and list the challenges that can arise along the way. They then talk about some of the successful cases Heath has worked on.
 
-Heath then talks about how running a software company in Africa and Middle East got him started in projects that focus on  Open Source Sustainability 
+Heath then talks about different Open Source revenue models that they go through when they evaluate an Open Source projects that benefit the community. They then invite people who are interested in being a part of an Open Source project that with to get in touch with them through their [website](https://www.osc.dial.community/).
 
 ## Links
 
@@ -49,6 +50,11 @@ Heath then talks about how running a software company in Africa and Middle East 
 
 **Eric Berry:**
 
+* <https://alteregoeffect.com/>
+* <https://www.playdemic.com/games/golf-clash>
+
 **Richard Littauer:**
+
+* Taking pics with his grandfather's Nikon camera
 
 - - -
