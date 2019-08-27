@@ -45,4 +45,10 @@ Aaron then asks Tomas about some of the challenges he faced when he was learning
 **Aaron Frost:**
 
 * People who help their customers get off Internet Explorer
-* Custom Slugbug Car Game
+* Custom Slugbug Car Game - The Game
+
+**Tomas Trajan:**
+
+* ****
+
+****
