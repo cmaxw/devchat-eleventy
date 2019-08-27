@@ -31,7 +31,7 @@ Tomas shares some of the more interesting jobs he did such as selling websites d
 
 Tomas took a year off traveling with his girlfriend where they traveled without much planning visiting many countries in South East Asia.  He talks about some of the funnier instances they had during these travels. 
 
-Aaron then asks Tomas about some of the challenges he faced when he was learning Angular especially when he was learning Observables. 
+Aaron then asks Tomas about some of the challenges he faced when he was learning Angular especially when he was learning [Observables](<https://angular.io › guide › observables>). 
 
 **Links**
 
@@ -45,3 +45,4 @@ Aaron then asks Tomas about some of the challenges he faced when he was learning
 **Aaron Frost:**
 
 * People who help their customers get off Internet Explorer
+* Slugbug Car Game
