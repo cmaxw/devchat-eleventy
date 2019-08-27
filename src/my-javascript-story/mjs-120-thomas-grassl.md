@@ -29,7 +29,7 @@ Charles wonders how the components will work with different frameworks and Thoma
 
 Thomas then talks about UI5 Web Components'  enterprise-ready functionality and scalability features as well as the security and accessibility aspects.
 
-They then talk about Thomas' position as Developer Relations in SAP and what it entails.
+They then talk about Thomas' position as Developer Relations in SAP and what it entails. Thomas then talks about the career opportunities that comes with customization on the enterprise scale.
 
 ## Links
 
