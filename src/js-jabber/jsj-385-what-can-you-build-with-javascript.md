@@ -48,7 +48,7 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP
 * [JavaScript Jabber Reccomendations](https://trello.com/b/KayprWDz/javascript-jabber-recommendations)
 * New shows: Adventures in Block Chain, Adventures in .Net
 
-**Christopher Beucheler:**
+**Christopher Buecheler:**
 
 * Pair programming
 * [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
