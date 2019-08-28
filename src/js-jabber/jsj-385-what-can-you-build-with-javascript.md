@@ -21,7 +21,7 @@ tags:
 ### **Panel**
 
 * Charles Max Wood
-* Christopher Beucheler
+* Christopher Buecheler
 
 ### **Episode Summary**
 
