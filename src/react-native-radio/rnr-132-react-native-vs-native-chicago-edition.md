@@ -10,7 +10,7 @@ tags:
   - react_native_radio
   - podcast
 ---
-**Sponso**Sponsors**
+*Sponsors**
 
 - [Radio Infinite Red](http://radio.infinite.red/)
 - [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
