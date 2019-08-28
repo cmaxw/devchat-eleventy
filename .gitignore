@@ -7,3 +7,4 @@ yarn-error.log
 .vscode/
 .DS_Store
 images/.DS_Store
+.env
