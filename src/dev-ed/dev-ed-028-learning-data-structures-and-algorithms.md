@@ -12,4 +12,22 @@ tags:
   - dev_ed
   - podcast
 ---
+# Sponsors
+
+* [Thinkster.io](https://thinkster.io/)
+* [Adventures in Blockchain - Devchat.tv](https://devchat.tv/adventures-in-blockchain/)
+* [CacheFly](https://www.cachefly.com/)
+
+## Panel
+
+* [Joe Eames](https://thinkster.io/)
+* [Brooke Avery](https://thinkster.io/)
+* [Jesse Sanders](http://briebug.com/)
+* [Mike Dane](https://www.mikedane.com/)
+* [Sam Julien](https://twitter.com/samjulien?lang=en)
+
+Joined by special guest: Dylan Israel
+
 ## Episode Summary
+
+In this episode of the Dev Ed podcast, the panelists talk to Dylan Israel.
