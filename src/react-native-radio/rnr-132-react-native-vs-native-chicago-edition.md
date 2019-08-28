@@ -12,7 +12,7 @@ tags:
 ---
 *Sponsors**
 
-- [Radio Infinite Red](http://radio.infinite.red/)
+- [Infinite Red](http://radio.infinite.red/)
 - [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 - [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&amp;utm_medium=Podcast)
 - [CacheFly](https://www.cachefly.com/)
