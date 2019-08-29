@@ -12,7 +12,7 @@ tags:
 ---
 **Sponsors**
 
-- [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
+- [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
 - [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
 - [GitLab](https://devchat.tv/gitlabcommit) | Get 30% off tickets with the promo code: DEVCHATCOMMIT
 - [CacheFly](https://www.cachefly.com/)
