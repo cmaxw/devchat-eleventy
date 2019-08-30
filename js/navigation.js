@@ -310,20 +310,14 @@
     // show/hide the search form
     plugin.toggleSearch = function() {
       if (
-        $('#search-overlay')
-          .css('display') == 'none'
+        $('#search')
+          .hasClass('open') == false
       ) {
-        $('#search-overlay')
-          .fadeIn(200);
-        $('#search-overlay')
-          .find('#search-text')
-          .focus();
+        $('#search')
+          .addClass('open');
       } else {
-        $('#search-overlay')
-          .fadeOut(200);
-        $('#search-overlay')
-          .find('#search-text')
-          .blur();
+        $('#search')
+          .removeClass('open');
       }
     };
 
