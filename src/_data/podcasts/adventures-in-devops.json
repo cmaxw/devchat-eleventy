@@ -10,5 +10,8 @@
   "email_form_id": "17",
   "color": "green",
   "spotify": "https://open.spotify.com/show/7h0KN1wSukqOmQVvMmAfan",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "rss": "https://feeds.feedwrench.com/AdventuresinDevOpsOnly.rss",
+  "itunes": "https://podcasts.apple.com/us/podcast/adventures-in-devops/id1475784710",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Ipwu7wljlszyinqnonou4zb4dri?t%3DAdventures_in_DevOps%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"
 }
