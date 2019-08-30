@@ -310,27 +310,19 @@
     // show/hide the search form
     plugin.toggleSearch = function() {
       if (
-        $(element)
-          .find('.nav-search')
-          .find('form')
+        $('#search-overlay')
           .css('display') == 'none'
       ) {
-        $(element)
-          .find('.nav-search')
-          .find('form')
+        $('#search-overlay')
           .fadeIn(200);
-        $(element)
-          .find('.nav-search')
-          .find('input')
+        $('#search-overlay')
+          .find('#search-text')
           .focus();
       } else {
-        $(element)
-          .find('.nav-search')
-          .find('form')
+        $('#search-overlay')
           .fadeOut(200);
-        $(element)
-          .find('.nav-search')
-          .find('input')
+        $('#search-overlay')
+          .find('#search-text')
           .blur();
       }
     };
