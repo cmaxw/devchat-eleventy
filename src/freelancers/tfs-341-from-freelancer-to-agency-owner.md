@@ -10,8 +10,7 @@ tags:
   - freelancers
   - podcast
 ---
-Results of converting "TFS 341_ From Freelancer to Agency Owner"
-Markdown
+
 **Sponsors**
 
 - [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
