@@ -5,7 +5,7 @@ title: 'RNR 132: React Native vs Native Chicago Edition'
 date: 2019-08-27T10:00:36.304Z
 episode_number: '132'
 duration: '43:59'
-audio_url: 'https://media.devchat.tv/reactnativeradio/RNR_130_Panel.mp3'
+audio_url: 'https://media.devchat.tv/reactnativeradio/RNR_132_Panel.mp3'
 tags:
   - react_native_radio
   - podcast
