@@ -24,7 +24,7 @@ tags:
 
 ### **Panel**
 
-* Chris Beucheler
+* Christopher Buecheler
 * AJ O’Neal
 * Aimee Knight
 
@@ -57,7 +57,7 @@ Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP
 
 * [Some things that might help you make better software](https://www.drmaciver.com/2016/10/some-things-that-might-help-you-write-better-software/)
 
-**Chris Beucheler:**
+**Christopher Buecheler:**
 
 * [Venture Cafe Providence](https://venturecafeprovidence.org/) 
 
