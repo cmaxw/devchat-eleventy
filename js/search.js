@@ -23,3 +23,7 @@ search.addWidget(
 );
 
 search.start();
+
+$('.close').click(function() {
+  $('#search').removeClass('open');
+});
