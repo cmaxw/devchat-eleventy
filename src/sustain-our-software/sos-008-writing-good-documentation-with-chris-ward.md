@@ -26,7 +26,7 @@ tags:
 
 ## Episode Summary
 
-This week, Sustain Our Software welcomes Chris Ward, Technical Writer at Ethereum from Berlin, Germany. Chris tells the story of how he became a technical writer. 
+This week, Sustain Our Software welcomes Chris Ward, Technical Writer at Ethereum from Berlin, Germany. Chris shares his story of how he became a technical writer as well tips and resources for good documentation writing. 
 
 After many years working as a developer, Chris realized he enjoyed helping others understand technical subjects. Chris defines a path of how to become a technical writer. He advises contributing to Open Source projects as well as joining the [Write the Docs Society](https://www.writethedocs.org/). 
 
