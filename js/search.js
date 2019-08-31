@@ -14,6 +14,11 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.hits({
     container: '#hits',
+    templates: {
+      item: `
+        <h2>{{ title }}</h2>
+      `
+    }
   })
 );
 

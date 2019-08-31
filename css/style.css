@@ -4680,7 +4680,7 @@ featured tab personal blog
 --------------------------*/
 
 #search {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 1);
   height: 100%;
   left: 0px;
   opacity: 0;
@@ -4690,6 +4690,7 @@ featured tab personal blog
           transform: translate(0px, -100%) scale(0, 0);
   transition: all 0.5s ease-in-out;
   width: 100%;
+  z-index: 1000;
 }
 #search input[type="text"] {
   background: rgba(0, 0, 0, 0);
