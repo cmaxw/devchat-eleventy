@@ -15,6 +15,7 @@ tags:
 
 * [Gitlab Commit](https://about.gitlab.com/events/commit/?utm_medium=sponsorship&utm_source=devchattv&utm_campaign=gitlabcommit&utm_content=brooklyn)
 * [Adventures in DevOps Podcast](https://devchat.tv/adventures-in-devops/)
+* [The DevEd Podcast](https://devchat.tv/dev-ed/)
 * [Cachefly](https://www.cachefly.com/)
 
 ## Panel
@@ -43,12 +44,20 @@ Then they talk about how the Bounties model can also be applied to documentation
 
 ## Links
 
-* kauri.io
+* Learn to Build on Ethereum with Kauri
 *  [Write the Docs Society](https://www.writethedocs.org/)
 * [On Writing](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816)
 * <https://github.com/errata-ai/vale>
+* <https://chrischinchilla.com/>
 
 ## Picks
+
+****
+
+**Chris Ward:**
+
+* [Write the Docs Society](https://www.writethedocs.org/)
+* 
 
 **Richard Littauer:**
 
