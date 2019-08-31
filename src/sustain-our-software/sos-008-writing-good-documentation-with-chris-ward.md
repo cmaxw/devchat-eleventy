@@ -28,19 +28,13 @@ Sustain Our Software welcomes Chris Ward, Technical Writer at Ethereum from Berl
 
 Chris defines a path of how to become a technical writer. He advises working on Open Source projects. 
 
-Chris and Richard discuss why having good documentation is important. 
+Chris and Richard discuss why having good documentation is important and what the minimum viable documentation for a project is. 
 
 ## Links
 
-* [Towards a More Gender-inclusive Open Source Community](https://digitalimpactalliance.org/research/towards-a-more-gender-inclusive-open-source-community/)
-* <https://www.osc.dial.community/>
-* <https://forum.osc.dial.community/>
-* [Digital Impact Alliance](https://digitalimpactalliance.org/)
-* [Heath's LinkedIn](https://www.linkedin.com/in/heatharensen/)
+* 
 
 ## Picks
-
-**Eric Berry:**
 
 **Richard Littauer:**
 
