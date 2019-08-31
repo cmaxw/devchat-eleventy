@@ -58,3 +58,7 @@
 .ais-Hits-item p{
   color: #eeeeee;
 }
+
+#hits {
+  overflow-y:auto;
+}
