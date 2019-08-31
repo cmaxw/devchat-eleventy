@@ -17,6 +17,7 @@ search.addWidget(
     templates: {
       item: `
         <h2><a href="{{url}}">{{ hierarchy.lvl1 }}</a></h2>
+        <p>{{content}}</p>
       `
     }
   })
