@@ -16,7 +16,7 @@ search.addWidget(
     container: '#hits',
     templates: {
       item: `
-        <h2><a href="{{url}}">{{ hierarchy.lvl1 }}</a></h2>
+        <h2><a href="{{url}}">{{ hierarchy.lvl0 }}</a></h2>
         <p>{{content}}</p>
       `
     },
