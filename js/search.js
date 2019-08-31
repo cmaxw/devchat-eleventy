@@ -20,7 +20,7 @@ search.addWidget(
         <p>{{content}}</p>
       `
     },
-    transformItems(item) {
+    transformItems(items) {
       return items.filter(item => !item.url.endswith('index.html'));
     }
   })
