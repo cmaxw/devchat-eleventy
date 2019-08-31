@@ -25,6 +25,8 @@ search.addWidget(
         .filter(item => !item.url.endsWith('index.html'))
         .filter(item => !item.url.endsWith('#home'))
         .filter(item => !item.url.endsWith('#viewport'))
+        .filter(item => !item.url.endsWith('#v'))
+        .filter(item => !item.url.endsWith('#profile'))
         .filter(item => !item.url.endsWith('#theme'));
     }
   })
