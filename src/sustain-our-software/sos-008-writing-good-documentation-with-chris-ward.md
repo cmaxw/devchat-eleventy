@@ -46,7 +46,7 @@ Then they talk about how the Bounties model can also be applied to documentation
 * kauri.io
 *  [Write the Docs Society](https://www.writethedocs.org/)
 * [On Writing](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816)
-* https://github.com/errata-ai/vale
+* <https://github.com/errata-ai/vale>
 
 ## Picks
 
