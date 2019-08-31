@@ -57,7 +57,7 @@ Then they talk about how the Bounties model can also be applied to documentation
 **Chris Ward:**
 
 * [Write the Docs Society](https://www.writethedocs.org/)
-* 
+* <https://git-fork.com/>
 
 **Richard Littauer:**
 
