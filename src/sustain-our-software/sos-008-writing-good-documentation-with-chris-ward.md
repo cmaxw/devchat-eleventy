@@ -9,7 +9,7 @@ audio_url: 'https://devchat.cachefly.net/sustain-our-software/SOS_008_Chris_Ward
 tags:
   - sustain_our_software
   - podcast
-  - Bastien Guerry
+  - Chris Ward
 ---
 # Sponsors
 
