@@ -61,6 +61,7 @@ Then they talk about how the Bounties model can also be applied to documentation
 
 **Richard Littauer:**
 
+* [Bird by Bird by Anne Lamott](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016)
 * [Web3 Summit 2019](https://web3summit.com)
 * <https://stevenpressfield.com/books/the-war-of-art/>
 
