@@ -19,6 +19,9 @@ search.addWidget(
         <h2><a href="{{url}}">{{ hierarchy.lvl1 }}</a></h2>
         <p>{{content}}</p>
       `
+    },
+    transformItems(item) {
+      return items.filter(item => !item.url.endswith('index.html'));
     }
   })
 );
