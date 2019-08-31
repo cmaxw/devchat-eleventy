@@ -45,6 +45,9 @@ Then they talk about how the Bounties model can also be applied to documentation
 ## Links
 
 * [Learn to Build on Ethereum with Kauri](https://kauri.io/)
+* <https://readthedocs.org/>
+* [Society for Technical Communication](https://www.stc.org/)
+* <https://www.ethereum.org/>
 *  [Write the Docs Society](https://www.writethedocs.org/)
 * [On Writing](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816)
 * <https://github.com/errata-ai/vale>
