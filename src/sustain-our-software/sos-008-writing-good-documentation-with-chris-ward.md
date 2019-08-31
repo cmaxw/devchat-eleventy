@@ -50,6 +50,7 @@ Then they talk about how the Bounties model can also be applied to documentation
 * [On Writing](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816)
 * <https://github.com/errata-ai/vale>
 * <https://chrischinchilla.com/>
+* 
 
 ## Picks
 
