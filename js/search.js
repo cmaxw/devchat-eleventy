@@ -21,7 +21,7 @@ search.addWidget(
       `
     },
     transformItems(items) {
-      return items.filter(item => !item.url.endswith('index.html'));
+      return items.filter(item => !item.url.endsWith('index.html'));
     }
   })
 );
