@@ -21,7 +21,10 @@ search.addWidget(
       `
     },
     transformItems(items) {
-      return items.filter(item => !item.url.endsWith('index.html'));
+      return items
+        .filter(item => !item.url.endsWith('index.html'))
+        .filter(item => !item.url.endsWith('#home'))
+        .filter(item => !item.url.endsWith('#theme'));
     }
   })
 );
