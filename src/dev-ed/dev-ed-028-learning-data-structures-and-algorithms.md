@@ -81,4 +81,4 @@ Jesse Sanders:
 
 Joe Eames:
 
-*
+* [Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World](https://www.goodreads.com/book/show/18222843-stuff-matters)
