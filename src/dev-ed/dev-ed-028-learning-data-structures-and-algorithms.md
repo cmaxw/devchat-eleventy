@@ -76,7 +76,8 @@ Sam Julien:
 
 Jesse Sanders:
 
-* 
+* [CSS Tricks](https://css-tricks.com/)
+* [Hawaii](https://en.wikipedia.org/wiki/Hawaii)
 
 Joe Eames:
 
