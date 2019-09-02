@@ -25,7 +25,7 @@ tags:
 
 ## Episode Summary
 
-Coming to you live this time from the studio is a brand new episode of the Adventures in DevOps podcast! Nell Shamrell
+Coming to you live this time from the studio is a brand new episode of the Adventures in DevOps podcast! Regular panelists Nell Shamrell-Harrington 
 
 
 
