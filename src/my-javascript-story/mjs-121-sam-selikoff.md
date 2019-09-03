@@ -23,10 +23,25 @@ tags:
 
 ## Episode Summary
 
+Sam Selikoff, Co-Founder at EmberMap shares his journey of how he became a developer. Sam was an Economics major in college and he really loved the theory of economics. 
+
+When he graduated, he started working as a consultant and while working with data for statistical analysis he found that he enjoyed working with SQL and that how he started his developing career.
+
+Sam explains why he prefers Ember.js framework to other frameworks. He also talks about the projects he is working on currently.
+
+Apart from coding Sam enjoys reading economics books and playing music with his family. He shares some of his favorite books to read on the Theory Of Economics. 
+
 ## Links
+
+* [JSJ 364: Ember Octane with Sam Selikoff](https://devchat.tv/js-jabber/jsj-364-ember-octane-with-sam-selikoff/)
+* [EmberMap Podcast](https://embermap.com/podcast)
+* [Sam's Twitter](https://twitter.com/samselikoff)
 
 ## Picks
 
 **Charles Max Wood**
+
+* [Podcast Movement](https://podcastmovement.com)
+* ****
 
 **Sam Selikoff**
