@@ -26,7 +26,7 @@ tags:
 
 Rachel Roumeliotis and Roger Magoulas from O'Reilly Media join Charles Max Wood at OSCON to talk about the process of content development for OSCON. Rachel is the Vice President of  Content Strategy at O'Reilly and Roger is Vice President of Radar at O'Reilly.
 
-Rachel and Roger talk about the introduction of Cloud Native, Artificial Intelligence 
+Rachel and Roger talk about the history of OSCON Conference as well as the key technologies they wanted to cover this year such as Artificial Intelligence, Machine Learning and Cloud Native.  
 
 ## Links
 
