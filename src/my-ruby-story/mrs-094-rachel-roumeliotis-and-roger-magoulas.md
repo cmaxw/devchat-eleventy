@@ -11,17 +11,6 @@ tags:
   - podcast
   - Thomas Grassl
 ---
-# Sponsors
-
-* [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* [Adventures in Devops](https://devchat.tv/adventures-in-devops/)
-* [React Native Radio](https://devchat.tv/react-native-radio/)
-* [CacheFly](https://www.cachefly.com/)
-
-**Host:** Charles Max Wood
-
-**Joined by Special Guest:** Rachel Roumeliotis and Roger Magoulas 
-
 ## Episode Summary
 
 Rachel Roumeliotis and Roger Magoulas from O'Reilly Media join Charles Max Wood at OSCON to talk about the process of content development for OSCON. Rachel is the Vice President of  Content Strategy at O'Reilly and Roger is Vice President of Radar at O'Reilly.
@@ -29,6 +18,17 @@ Rachel Roumeliotis and Roger Magoulas from O'Reilly Media join Charles Max Wood 
 Rachel and Roger talk about the history of OSCON Conference as well as the key technologies they wanted to cover this year such as Artificial Intelligence, Machine Learning and Cloud-Native applications.
 
 They then talk about the future of OSCON and the highlights they wat to cover next year such as security.
+
+**Host:** Charles Max Wood
+
+**Joined by Special Guest:** Rachel Roumeliotis and Roger Magoulas 
+
+# Sponsors
+
+* [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+* [Adventures in Devops](https://devchat.tv/adventures-in-devops/)
+* [React Native Radio](https://devchat.tv/react-native-radio/)
+* [CacheFly](https://www.cachefly.com/)
 
 ## Links
 
