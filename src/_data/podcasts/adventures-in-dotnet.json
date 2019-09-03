@@ -9,5 +9,8 @@
   "sponsor_layout": "podwrench_3_sponsors.njk",
   "email_form_id": "19",
   "color": "blue",
-  "linkedin": "https://linkedin.com/company/devchat"
+  "linkedin": "https://linkedin.com/company/devchat",
+  "twitter": "https://twitter.com/dotNET_Podcast",
+  "facebook": "https://www.facebook.com/AdventuresIn.NET",
+  "rss": "https://feeds.feedwrench.com/AdventuresInDotNet.rss"
 }
