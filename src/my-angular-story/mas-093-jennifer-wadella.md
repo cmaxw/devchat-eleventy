@@ -25,7 +25,7 @@ tags:
 
 **Episode Summary**
 
-This week, My Angular Story welcomes Jennifer Wadella, Founder of  Kansas City Women in Technology and JavaScript Developer at Bitovi. Jennifer is also a host on the Adventures in Angular Podcast. 
+This week, My Angular Story welcomes Jennifer Wadella, Founder of  Kansas City Women in Technology and JavaScript Developer at Bitovi. Jennifer is also a regular host on the Adventures in Angular Podcast as well as an international speaker and a kombucha brewer.
 
 Jennifer talks about her journey  as a developer as well as their meetups in to help support and increase female presence in developer world. [Coding & Cocktails](https://twitter.com/CodeCocktailsKC) and [Coding & Cupcakes](https://twitter.com/CodeCupcakeskc) are two of the regular web development meet- ups held by Kansas City Women in Technology.
 
