@@ -3,7 +3,7 @@ layout: layouts/post.njk
 podcast: sustain-our-software
 title: 'SOS 006: Open Source Software Maintenance Lessons Learned with Bastien Guerry'
 date: 2019-08-20T10:00:00.000Z
-episode_number: '6'
+episode_number: '006'
 duration: '49:32'
 audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_006_Bastien_Guerry.mp3'
 tags:
