@@ -24,7 +24,9 @@ tags:
 
 ## Episode Summary
 
-Rachel Roumeliotis and Roger Magoulas from O'Reilly Media join Charles Max Wood at OSCON. Rachel is the Vice President of  Content Strategy at O'Reilly Media and Roger is Vice President of Radar at O'Reilly.
+Rachel Roumeliotis and Roger Magoulas from O'Reilly Media join Charles Max Wood at OSCON to talk about the process of content development for OSCON. Rachel is the Vice President of  Content Strategy at O'Reilly and Roger is Vice President of Radar at O'Reilly.
+
+Rachel and Roger talk about the introduction of Cloud and Artificial Intelligence 
 
 ## Links
 
