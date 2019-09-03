@@ -11,18 +11,7 @@ tags:
   - podcast
   - Chris Ward
 ---
-# Sponsors
 
-* [Gitlab Commit](https://about.gitlab.com/events/commit/?utm_medium=sponsorship&utm_source=devchattv&utm_campaign=gitlabcommit&utm_content=brooklyn)
-* [Adventures in DevOps Podcast](https://devchat.tv/adventures-in-devops/)
-* [The DevEd Podcast](https://devchat.tv/dev-ed/)
-* [Cachefly](https://www.cachefly.com/)
-
-## Panel
-
-* Richard Littauer
-
-**Joined By Special Guest:** Chris Ward 
 
 ## Episode Summary
 
@@ -37,6 +26,19 @@ Then then discuss the common challenges a technical writer faces when creating d
 Chris recommends some tools for technical writing as well as a book by Stephen King called [On Writing](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816). He also recommends dogfooding or hackathons to help the developers work on usability issues. 
 
 Then they talk about how the Bounties model can also be applied to documentation writing. 
+
+## Panel
+
+* Richard Littauer
+
+**Joined By Special Guest:** Chris Ward 
+
+# Sponsors
+
+* [Gitlab Commit](https://about.gitlab.com/events/commit/?utm_medium=sponsorship&utm_source=devchattv&utm_campaign=gitlabcommit&utm_content=brooklyn)
+* [Adventures in DevOps Podcast](https://devchat.tv/adventures-in-devops/)
+* [The DevEd Podcast](https://devchat.tv/dev-ed/)
+* [Cachefly](https://www.cachefly.com/)
 
 ## Links
 
