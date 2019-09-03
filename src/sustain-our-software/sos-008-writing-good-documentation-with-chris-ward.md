@@ -3,7 +3,7 @@ layout: layouts/post.njk
 podcast: sustain-our-software
 title: 'SOS 008: Writing Good Documentation with Chris Ward'
 date: 2019-09-03T10:00:00.000Z
-episode_number: '8'
+episode_number: 008
 duration: '53:05'
 audio_url: 'https://devchat.cachefly.net/sustain-our-software/SOS_008_Chris_Ward.mp3'
 tags:
@@ -11,8 +11,6 @@ tags:
   - podcast
   - Chris Ward
 ---
-
-
 ## Episode Summary
 
 This week, Sustain Our Software welcomes Chris Ward, Technical Writer at Ethereum from Berlin, Germany. Chris shares his story of how he became a technical writer as well tips and resources for good documentation writing. 
