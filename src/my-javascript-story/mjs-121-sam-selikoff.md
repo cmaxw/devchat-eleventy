@@ -45,4 +45,5 @@ Apart from coding Sam enjoys reading economics books and playing music with his 
 
 **Sam Selikoff**
 
-* ****
+* [UPLIFT Desk](https://www.upliftdesk.com)
+* [Midsommar (2019) - IMDb](<https://www.imdb.com › title>)
