@@ -28,7 +28,7 @@ Rachel Roumeliotis and Roger Magoulas from O'Reilly Media join Charles Max Wood 
 
 Rachel and Roger talk about the history of OSCON Conference as well as the key technologies they wanted to cover this year such as Artificial Intelligence, Machine Learning and Cloud-Native applications.
 
-
+They then talk about the future of OSCON and the highlights they wat to cover next year such as security.
 
 ## Links
 
