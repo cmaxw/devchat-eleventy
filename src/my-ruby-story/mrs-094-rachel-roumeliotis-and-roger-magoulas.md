@@ -14,7 +14,7 @@ tags:
 # Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+* [Adventures in Devops](https://devchat.tv/adventures-in-devops/)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
 
@@ -26,7 +26,7 @@ tags:
 
 Rachel Roumeliotis and Roger Magoulas from O'Reilly Media join Charles Max Wood at OSCON to talk about the process of content development for OSCON. Rachel is the Vice President of  Content Strategy at O'Reilly and Roger is Vice President of Radar at O'Reilly.
 
-Rachel and Roger talk about the introduction of Cloud and Artificial Intelligence 
+Rachel and Roger talk about the introduction of Cloud Native, Artificial Intelligence 
 
 ## Links
 
@@ -34,3 +34,4 @@ Rachel and Roger talk about the introduction of Cloud and Artificial Intelligenc
 * [Roger's LinkedIn](https://www.linkedin.com/in/rmagoulas/)
 * [Open Source & Software Development| O'Reilly OSCON](https://conferences.oreilly.com/oscon/oscon-or)
 * [O'Reilly Radar](https://twitter.com/radar)
+* [O'Reilly Media - Technology and Business Training](https://www.oreilly.com)
