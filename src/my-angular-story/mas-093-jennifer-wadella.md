@@ -31,6 +31,8 @@ Jennifer talks about her journey  as a developer as well as their meetups in to 
 
 Coding&Cupcakes is an introductory session for girls to learn to code. Jennifer talks about how most parents thinks of bringing their sons along when they hear coding instead of their daughters and what they are doing to break that stigma. 
 
+Coding & Cocktails are web development classes for women learning code. 
+
 ### **Links**
 
 * [Jennifer's LinkedIn](https://www.linkedin.com/in/jennifer-wadella-7985b46/)
