@@ -23,7 +23,7 @@ tags:
 
 **Episode Summary**
 
-This week My Angular Story welcomes Jennifer Wadella, Founder of  Kansas City Women in Technology and JavaScript Developer at Bitovi. 
+This week, My Angular Story welcomes Jennifer Wadella, Founder of  Kansas City Women in Technology and JavaScript Developer at Bitovi. 
 
 ### **Links**
 
@@ -45,7 +45,3 @@ This week My Angular Story welcomes Jennifer Wadella, Founder of  Kansas City Wo
 * [2019 UtahJS Conference](https://conf.utahjs.com)
 
   ****
-
-- - -
-
-- - -
