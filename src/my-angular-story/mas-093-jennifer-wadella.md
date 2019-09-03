@@ -35,6 +35,7 @@ Coding & Cocktails are web development classes for women learning code where wom
 
 ### **Links**
 
+* [AiA 234: Control Value Accessors on Reactive Forms with Jennifer Wadella](https://devchat.tv/adv-in-angular/aia-234-control-value-accessors-on-reactive-forms-with-jennifer-wadella/)
 * [Adventures in Angular Podcast](https://devchat.tv/adv-in-angular/)
 * [Jennifer's LinkedIn](https://www.linkedin.com/in/jennifer-wadella-7985b46/)
 * [Jennifer's Twitter](https://twitter.com/likeOMGitsFEDAY)
