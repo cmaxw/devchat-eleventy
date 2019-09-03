@@ -310,28 +310,14 @@
     // show/hide the search form
     plugin.toggleSearch = function() {
       if (
-        $(element)
-          .find('.nav-search')
-          .find('form')
-          .css('display') == 'none'
+        $('#search')
+          .hasClass('open') == false
       ) {
-        $(element)
-          .find('.nav-search')
-          .find('form')
-          .fadeIn(200);
-        $(element)
-          .find('.nav-search')
-          .find('input')
-          .focus();
+        $('#search')
+          .addClass('open');
       } else {
-        $(element)
-          .find('.nav-search')
-          .find('form')
-          .fadeOut(200);
-        $(element)
-          .find('.nav-search')
-          .find('input')
-          .blur();
+        $('#search')
+          .removeClass('open');
       }
     };
 

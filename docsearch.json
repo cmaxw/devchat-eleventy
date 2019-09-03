@@ -1,0 +1,13 @@
+{
+  "index_name": "devchat.tv",
+  "start_urls": ["https://devchat.tv/"],
+  "selectors": {
+    "lvl0": ".single-post-wrapper h1, title, .single-post-wrapper .post-title h2",
+    "lvl1": ".single-post-wrapper h2",
+    "lvl2": ".single-post-wrapper h3",
+    "lvl3": ".single-post-wrapper h4",
+    "lvl4": ".single-post-wrapper h5",
+    "lvl5": ".single-post-wrapper h6",
+    "text": ".single-post-wrapper p, .single-post-wrapper ol, .single-post-wrapper ul"
+  }
+}
