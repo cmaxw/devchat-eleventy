@@ -5,7 +5,7 @@ title: >-
   SOS 007: Sustaining Open Source Projects in the International Development and
   Humanitarian Sector with Heath Arensen
 date: 2019-08-27T10:00:00.000Z
-episode_number: '7'
+episode_number: '007'
 duration: '48:23'
 audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_007_Heath_Arensen.mp3'
 tags:
