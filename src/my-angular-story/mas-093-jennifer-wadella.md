@@ -1,0 +1,46 @@
+---
+layout: layouts/post.njk
+podcast: my-angular-story
+title: 'MAS 093: Jennifer Wadella'
+date: 2019-09-03T10:00:43.307Z
+episode_number: 093
+duration: '34:30'
+audio_url: 'https://media.devchat.tv/my-angular-story/MAS_093_Jennifer_Wadella.mp3'
+image: /images/uploads/myangularstory-300x300.jpg
+tags:
+  - my_angular_story
+  - podcast
+  - Jennifer Wadella
+---
+## **Sponsors**
+
+* [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
+* [CacheFly](https://www.cachefly.com/)
+
+**Host:** Aaron Frost
+
+**Joined By Special Guest:**  Jennifer Wadella
+
+**Episode Summary**
+
+This week My Angular Story welcomes Jennifer Wadella, Founder of  Kansas City Women in Technology and JavaScript Developer at Bitovi. 
+
+
+
+### **Links**
+
+* [Jennifer's LinkedIn](https://www.linkedin.com/in/jennifer-wadella-7985b46/)
+* [Bitovi](https://www.bitovi.com)
+* [Kansas City Women in Technology](https://kcwomenintech.org)
+
+### **Picks**
+
+**Jennifer Wadella**
+
+* ****
+
+**Aaron Frost**
+
+* ****
+
+****
