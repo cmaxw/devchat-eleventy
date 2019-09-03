@@ -9,7 +9,6 @@ audio_url: 'https://media.devchat.tv/my-ruby-story/MRS_094_Rachel_and_Roger.mp3'
 tags:
   - my_ruby_story
   - podcast
-  - Thomas Grassl
 ---
 ## Episode Summary
 
