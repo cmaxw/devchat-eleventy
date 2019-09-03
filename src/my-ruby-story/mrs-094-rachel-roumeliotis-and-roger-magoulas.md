@@ -33,3 +33,4 @@ Rachel and Roger talk about the introduction of Cloud and Artificial Intelligenc
 * [Rachel's LinkedIn](https://www.linkedin.com/in/rachelroumeliotis/)
 * [Roger's LinkedIn](https://www.linkedin.com/in/rmagoulas/)
 * [Open Source & Software Development| O'Reilly OSCON](https://conferences.oreilly.com/oscon/oscon-or)
+* [O'Reilly Radar](https://twitter.com/radar)
