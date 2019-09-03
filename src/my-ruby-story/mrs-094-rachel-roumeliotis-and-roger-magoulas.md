@@ -3,7 +3,7 @@ layout: layouts/post.njk
 podcast: my-ruby-story
 title: 'MRS 094: Rachel Roumeliotis and Roger Magoulas '
 date: 2019-09-03T10:00:29.339Z
-episode_number: 093
+episode_number: 094
 duration: '37:31'
 audio_url: 'https://media.devchat.tv/my-ruby-story/MRS_094_Rachel_and_Roger.mp3'
 tags:
