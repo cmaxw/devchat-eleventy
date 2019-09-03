@@ -15,6 +15,8 @@ tags:
 ## **Sponsors**
 
 * [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
+* [The Freelancers Show](https://devchat.tv/freelancers/)
+* [My JavaScript Story](https://devchat.tv/my-javascript-story/)
 * [CacheFly](https://www.cachefly.com/)
 
 **Host:** Aaron Frost
