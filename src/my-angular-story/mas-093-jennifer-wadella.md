@@ -25,8 +25,6 @@ tags:
 
 This week My Angular Story welcomes Jennifer Wadella, Founder of  Kansas City Women in Technology and JavaScript Developer at Bitovi. 
 
-
-
 ### **Links**
 
 * [Jennifer's LinkedIn](https://www.linkedin.com/in/jennifer-wadella-7985b46/)
@@ -37,10 +35,16 @@ This week My Angular Story welcomes Jennifer Wadella, Founder of  Kansas City Wo
 
 **Jennifer Wadella**
 
-* ****
+* [prAna Halle Pants - Women's](https://www.rei.com/product/827497/prana-halle-pants-womens)
+* <https://github.com/johnpapa/angular-styleguide>
 
 **Aaron Frost**
 
-* ****
+* [NG Bolivia 2019](https://ng-bolivia.org)
+* [2019 UtahJS Conference](https://conf.utahjs.com)
 
-****
+  ****
+
+- - -
+
+- - -
