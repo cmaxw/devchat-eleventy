@@ -3,7 +3,7 @@ layout: layouts/post.njk
 podcast: sustain-our-software
 title: 'SOS 005: Trademark Versus Copyright to Sustain OSS with Mehdi Medjaoui'
 date: 2019-08-13T10:00:00.000Z
-episode_number: '5'
+episode_number: '005'
 duration: '58:07'
 audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_005_Mahdi_Medjaoui.mp3'
 tags:
