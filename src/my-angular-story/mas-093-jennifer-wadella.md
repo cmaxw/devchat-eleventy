@@ -41,6 +41,7 @@ This week My Angular Story welcomes Jennifer Wadella, Founder of  Kansas City Wo
 **Aaron Frost**
 
 * [NG Bolivia 2019](https://ng-bolivia.org)
+* [Jorge Cano](https://www.linkedin.com/in/jorge-cano-06441015/)
 * [2019 UtahJS Conference](https://conf.utahjs.com)
 
   ****
