@@ -12,17 +12,6 @@ tags:
   - podcast
   - Jennifer Wadella
 ---
-## **Sponsors**
-
-* [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
-* [The Freelancers Show](https://devchat.tv/freelancers/)
-* [My JavaScript Story](https://devchat.tv/my-javascript-story/)
-* [CacheFly](https://www.cachefly.com/)
-
-**Host:** Aaron Frost
-
-**Joined By Special Guest:**  Jennifer Wadella
-
 **Episode Summary**
 
 This week, My Angular Story welcomes Jennifer Wadella, Founder of  Kansas City Women in Technology and JavaScript Developer at Bitovi. Jennifer is also a regular host on the Adventures in Angular Podcast as well as an international speaker and a kombucha brewer.
@@ -32,6 +21,17 @@ Jennifer talks about her journey  as a developer and their meetups in to help su
 Coding&Cupcakes is an introductory session for girls to learn to code. Jennifer talks about how most parents thinks of bringing their sons along when they hear coding instead of their daughters and what they are doing to break that stigma. 
 
 Coding & Cocktails are web development classes for women learning code where women developers can get together and share cocktails, dinner and web development tips. 
+
+**Host:** Aaron Frost
+
+**Joined By Special Guest:**  Jennifer Wadella
+
+## **Sponsors**
+
+* [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
+* [The Freelancers Show](https://devchat.tv/freelancers/)
+* [My JavaScript Story](https://devchat.tv/my-javascript-story/)
+* [CacheFly](https://www.cachefly.com/)
 
 ### **Links**
 
