@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: iphreaks
-title: 'iPS 270: (iPS 252) Siri in iOS 12 with Gui'
+title: 'iPS 270: Siri in iOS 12 with Gui'
 date: 2019-09-03T10:00:35.056Z
 episode_number: '270'
 duration: '47:56'
