@@ -18,19 +18,6 @@ tags:
   - restore
   - backup
 ---
-# Sponsors
-
-* [iPhreaks - Devchat.tv](https://devchat.tv/iphreaks/)
-* [The Dev Rev - Devchat.tv](https://devchat.tv/dev-rev/)
-* [React Round Up - Devchat.tv](https://devchat.tv/react-round-up/)
-* [CacheFly
-  ](https://www.cachefly.com/)
-
-## Panel
-
-* Nell Shamrell-Harrington
-* Scott Nixon
-
 ## Episode Summary
 
 Coming to you live this time from the studio is a brand new episode of the Adventures in DevOps podcast! Regular panelists Nell Shamrell-Harrington, Principal Engineer at Chef Software, and Scott Nixon, Principal Consultant at Cloud Mechanics, discuss one of the most significant aspects of any given software environment - disaster recovery, what is it and what to do when the unimaginable happens. 
@@ -44,6 +31,18 @@ They advise listeners to make sure that the disaster recovery environment should
 Another pattern they discuss is the idea of maintaining the same IP address for an application to make disaster recovery easier, which can be possible if it's in the same region, using elastic IP or load balancing, but can be challenging with multiple cloud providers across different regions. However the solution would be quite challenging as well as expensive, so there is always a tradeoff involved. 
 
 They then move on to some common mistakes that people make in disaster recovery. Nell says that while creating a good plan it is really crucial to bring in people from across various businesses, while Scott talks about regularly documenting everything including bits and pieces like manual configurations and such. They discuss that security consistency is often overlooked, and describe some recovery services offered by cloud providers such as Amazon, Azure and some multi-cloud services like Zerto and Arcserve. They end the episode with picks.
+
+## Panel
+
+* Nell Shamrell-Harrington
+* Scott Nixon
+
+## Sponsors
+
+* [iPhreaks - Devchat.tv](https://devchat.tv/iphreaks/)
+* [The Dev Rev - Devchat.tv](https://devchat.tv/dev-rev/)
+* [React Round Up - Devchat.tv](https://devchat.tv/react-round-up/)
+* [CacheFly](https://www.cachefly.com/)
 
 ## Links
 
