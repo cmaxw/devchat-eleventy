@@ -30,7 +30,7 @@ Erik discusses the possible motivations one might have for becoming an agency ow
 
 **Links**
 
-- [http://devtech.com/](http://devtech.com/)
+- [https://daedtech.com](https://daedtech.com)
 - [https://join.dynamitecircle.com/](https://join.dynamitecircle.com/)
 - [https://www.facebook.com/freelancersshow/](https://www.facebook.com/freelancersshow/)
 
