@@ -3,7 +3,7 @@ layout: layouts/post.njk
 podcast: sustain-our-software
 title: 'SOS 008: Writing Good Documentation with Chris Ward'
 date: 2019-09-03T10:00:00.000Z
-episode_number: '8'
+episode_number: 008
 duration: '53:05'
 audio_url: 'https://devchat.cachefly.net/sustain-our-software/SOS_008_Chris_Ward.mp3'
 tags:
@@ -11,19 +11,6 @@ tags:
   - podcast
   - Chris Ward
 ---
-# Sponsors
-
-* [Gitlab Commit](https://about.gitlab.com/events/commit/?utm_medium=sponsorship&utm_source=devchattv&utm_campaign=gitlabcommit&utm_content=brooklyn)
-* [Adventures in DevOps Podcast](https://devchat.tv/adventures-in-devops/)
-* [The DevEd Podcast](https://devchat.tv/dev-ed/)
-* [Cachefly](https://www.cachefly.com/)
-
-## Panel
-
-* Richard Littauer
-
-**Joined By Special Guest:** Chris Ward 
-
 ## Episode Summary
 
 This week, Sustain Our Software welcomes Chris Ward, Technical Writer at Ethereum from Berlin, Germany. Chris shares his story of how he became a technical writer as well tips and resources for good documentation writing. 
@@ -37,6 +24,19 @@ Then then discuss the common challenges a technical writer faces when creating d
 Chris recommends some tools for technical writing as well as a book by Stephen King called [On Writing](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816). He also recommends dogfooding or hackathons to help the developers work on usability issues. 
 
 Then they talk about how the Bounties model can also be applied to documentation writing. 
+
+## Panel
+
+* Richard Littauer
+
+**Joined By Special Guest:** Chris Ward 
+
+# Sponsors
+
+* [Gitlab Commit](https://about.gitlab.com/events/commit/?utm_medium=sponsorship&utm_source=devchattv&utm_campaign=gitlabcommit&utm_content=brooklyn)
+* [Adventures in DevOps Podcast](https://devchat.tv/adventures-in-devops/)
+* [The DevEd Podcast](https://devchat.tv/dev-ed/)
+* [Cachefly](https://www.cachefly.com/)
 
 ## Links
 

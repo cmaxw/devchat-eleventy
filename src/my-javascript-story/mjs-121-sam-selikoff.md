@@ -10,17 +10,6 @@ tags:
   - my_javascript_story
   - podcast
 ---
-# Sponsors
-
-* [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* [Ruby Rogues](https://devchat.tv/ruby-rogues/)
-* [React Native Radio](https://devchat.tv/react-native-radio/)
-* [CacheFly](https://www.cachefly.com/)
-
-**Host:** Charles Max Wood
-
-**Joined by Special Guest:** Sam Selikoff
-
 ## Episode Summary
 
 Sam Selikoff, Co-Founder at EmberMap shares his journey of how he became a developer. Sam was an Economics major in college and he really loved the theory of economics. 
@@ -30,6 +19,17 @@ When he graduated, he started working as a consultant and while working with dat
 Sam explains why he prefers Ember.js framework to other frameworks. He also talks about the projects he is working on currently.
 
 Apart from coding Sam enjoys reading economics books and playing music with his family. He shares some of his favorite books to read on the Theory Of Economics. 
+
+**Host:** Charles Max Wood
+
+**Joined by Special Guest:** Sam Selikoff
+
+# Sponsors
+
+* [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+* [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+* [React Native Radio](https://devchat.tv/react-native-radio/)
+* [CacheFly](https://www.cachefly.com/)
 
 ## Links
 
