@@ -33,7 +33,7 @@ Joined by Special Guest: Ari Clark
 
 ### **Summary**
 
-Frontend developer at Liqid Inc. Ari Clark, discusses the Real-time app and answers questions for the panel. Ari explains what Real-time is and shares what went into building this app. She explains web sockets and shares libraries and tools used in building the app. As a newer developer, Ari talks about learning on the jobs and asking questions. The panel gives tips on how to ask questions, how to answer questions, learning from mistakes and how to overcome the fear of failure. Ari discusses the challenges of building this app and shares her experience doing a complete rewrite and redesign of the Real-time app into Vue. The panel discusses what they love about Vue and Ari explains why her team picked Vue for the rewrite and what she features in Vue made the rewrite easier. 
+Frontend developer at Liqid Inc. Ari Clark, discusses the Real-time app and answers questions for the panel. Ari explains what Real-time is and shares what went into building this app. She explains web sockets, shared libraries, and tools used in building the app. As a newer developer, Ari talks about learning on the jobs and asking questions. The panel gives tips on how to ask questions, how to answer questions, learning from mistakes and how to overcome the fear of failure. Ari discusses the challenges of building this app and shares her experience doing a complete rewrite and redesign of the Real-time app into Vue. The panel discusses what they love about Vue and Ari explains why her team picked Vue for the rewrite and what she features in Vue made the rewrite easier. 
 
 
 ### **Links**
