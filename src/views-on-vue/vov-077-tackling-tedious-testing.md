@@ -25,7 +25,7 @@ tags:
 
 **Summary**
 
-Joined by their newest member, Elizabeth Fine, the panel discusses testing. The share their approaches to testing and consider which approaches are best. The panel shares their experiences and testing mishaps. They share their favorite tools and libraries for testing. The different types of testing are defined and discussed, including unit testing, integration testing, cross-browser testing, accessibility testing, and snapshot testing. 
+Joined by their newest member, Elizabeth Fine, the panel discusses testing. They share their approaches to testing and consider which approaches are best. The panel shares their experiences and testing mishaps. They share their favorite tools and libraries for testing. The different types of testing are defined and discussed, including unit testing, integration testing, cross-browser testing, accessibility testing, and snapshot testing. 
 
 **Links**
 
