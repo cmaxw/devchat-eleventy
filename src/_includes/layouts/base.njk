@@ -16,6 +16,20 @@ title: Devchat.tv - A Podcast for Every Programming Community
 	<!-- Site Title- -->
 	<title>{{ title | safe }}{% if podcastTitle %} - {% endif %}{{ podcastTitle | safe }}</title>
 
+	<meta property="og:title" content="{{ title | safe }}{% if podcastTitle %} - {% endif %}{{ podcastTitle | safe }}">
+	<meta property="og:description" content="{{ description }}">
+	<meta property="og:url" content="https://devchat.tv/{{page.url}}">
+	<meta property="twitter:title" content="{{ title | safe }}{% if podcastTitle %} - {% endif %}{{ podcastTitle | safe }}">
+	<meta property="twitter:description" content="{{ description }}">
+	<meta property="twitter:url" content="https://devchat.tv/{{page.url}}">
+	{% if podcast %}
+		<meta property="og:image" content="https://devchat.tv/images/podcasts/{{ podcasts[ podcast ].artwork }}">
+		<meta property="twitter:image" content="https://devchat.tv/images/podcasts/{{ podcasts[ podcast ].artwork }}">
+	{% else %}
+		<meta property="og:image" content="https://devchat.tv/images/logo/log-web-small.jpg">
+		<meta property="twitter:image" content="https://devchat.tv/images/logo/logo-web-small.jpg">
+	{% endif %}
+
 	<!-- CSS
    ==================================================== -->
 	<!-- Bootstrap -->
