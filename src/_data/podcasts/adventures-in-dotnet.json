@@ -12,5 +12,8 @@
   "linkedin": "https://linkedin.com/company/devchat",
   "twitter": "https://twitter.com/dotNET_Podcast",
   "facebook": "https://www.facebook.com/AdventuresIn.NET",
-  "rss": "https://feeds.feedwrench.com/AdventuresInDotNet.rss"
+  "rss": "https://feeds.feedwrench.com/AdventuresInDotNet.rss",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iggric5xfbovqdx3lyahz5e2gey?t%3DAdventures_in_.NET%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16",
+  "spotify": "https://open.spotify.com/show/0Zbp6m8y06n2zlPPs59DEX",
+  "stitcher": "https://www.stitcher.com/s?fid=461012&refid=stpr"
 }
