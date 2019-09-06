@@ -1,0 +1,48 @@
+---
+layout: layouts/post.njk
+title: >
+  Subscribe
+episode_number:
+duration:
+audio_url:
+hide_date: true
+tags:
+  - page
+---
+
+<h2>Current Shows</h2>
+{% for podcast in podcastList %}
+{%- if podcast.current -%}
+<h3>{{podcast.title}}</h3>
+{%- if podcast.itunes -%}<a href="{{podcast.itunes}}"><img height="45px" src="/images/badges/itunes.png"></a>{%- endif -%}
+{%- if podcast.google_play -%}<a href='{{podcast.google_play}}' rel='nofollow'><img height='45px' alt='Listen on Google Play Music' src='https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png'/></a>{%- endif -%}
+{%- if podcast.stitcher -%}<a href="{{podcast.stitcher}}"><img height="45px" src="/images/badges/Stitcher-Badge.png"></a>{%- endif -%}
+{%- if podcast.spotify -%}<a href="{{podcast.spotify}}"><img height="45px" src="/images/badges/spotify.png"></a>{%- endif -%}
+{%- if podcast.youtube -%}<a href="{{podcast.youtube}}"><img height="45px" src="/images/badges/youtube.png"></a>{%- endif -%}
+{%- if podcast.rss -%}<a href="{{podcast.rss}}"><img height="45px" src="/images/badges/rss-subscribe.png"></a>{%- endif -%}
+{%- endif -%}
+{% endfor %}
+
+<h2>Aggregated Feeds</h2>
+{% for feed in feedList %}
+{%- if feed.current -%}
+<h3>{{feed.title}}</h3>
+{%- if feed.itunes -%}<a href="{{feed.itunes}}"><img height="45px" src="/images/badges/itunes.png"></a>{%- endif -%}
+{%- if feed.google_play -%}<a href='{{feed.google_play}}' rel='nofollow'><img height='45px' alt='Listen on Google Play Music' src='https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png'/></a>{%- endif -%}
+{%- if feed.stitcher -%}<a href="{{feed.stitcher}}"><img height="45px" src="/images/badges/Stitcher-Badge.png"></a>{%- endif -%}
+{%- if feed.rss -%}<a href="{{feed.rss}}"><img height="45px" src="/images/badges/rss-subscribe.png"></a>{%- endif -%}
+{%- endif -%}
+{% endfor %}
+
+<h2>Retired Shows</h2>
+{% for podcast in podcastList %}
+{%- if podcast.current -%}{%- else -%}
+<h3>{{podcast.title}}</h3>
+{%- if podcast.itunes -%}<a href="{{podcast.itunes}}"><img height="45px" src="/images/badges/itunes.png"></a>{%- endif -%}
+{%- if podcast.google_play -%}<a href='{{podcast.google_play}}' rel='nofollow'><img height='45px' alt='Listen on Google Play Music' src='https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png'/></a>{%- endif -%}
+{%- if podcast.stitcher -%}<a href="{{podcast.stitcher}}"><img height="45px" src="/images/badges/Stitcher-Badge.png"></a>{%- endif -%}
+{%- if podcast.spotify -%}<a href="{{podcast.spotify}}"><img height="45px" src="/images/badges/spotify.png"></a>{%- endif -%}
+{%- if podcast.youtube -%}<a href="{{podcast.youtube}}"><img height="45px" src="/images/badges/youtube.png"></a>{%- endif -%}
+{%- if podcast.rss -%}<a href="{{podcast.rss}}"><img height="45px" src="/images/badges/rss-subscribe.png"></a>{%- endif -%}
+{%- endif -%}
+{% endfor %}
