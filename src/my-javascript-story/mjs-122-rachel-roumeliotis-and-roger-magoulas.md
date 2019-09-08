@@ -23,8 +23,8 @@ They then talk about the future of OSCON and the highlights they wat to cover ne
 # Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* [Ruby Rogues](https://devchat.tv/ruby-rogues/)
-* [React Native Radio](https://devchat.tv/react-native-radio/)
+* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
+* [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
 * [CacheFly](https://www.cachefly.com/)
 
 **Host:** Charles Max Wood
@@ -38,4 +38,4 @@ They then talk about the future of OSCON and the highlights they wat to cover ne
 * [Open Source & Software Development| O'Reilly OSCON](https://conferences.oreilly.com/oscon/oscon-or)
 * [O'Reilly Radar](https://twitter.com/radar)
 * [O'Reilly Media - Technology and Business Training](https://www.oreilly.com)
-##
+  ##
