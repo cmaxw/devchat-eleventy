@@ -23,7 +23,7 @@ They then talk about the GitLab 2019 Global Developer Report results. One of the
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 * [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
-* [React Native Radio](https://devchat.tv/react-native-radio/)
+* [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
 * [CacheFly](https://www.cachefly.com/)
 
 **Host:** Charles Max Wood
