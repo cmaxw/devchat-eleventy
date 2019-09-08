@@ -17,7 +17,7 @@ This episode of My Ruby Story is coming to you live from OSCON. Joining Charles 
 
 GitLab works with an open core model, Daniel talks about the trade - offs of having code open to public, the first of which is having everything up-to-date so any contributions made will work with the latest version. Daniel calls this the "bus-factor" where if one of the team members gets hit by a bus, the rest of the team will have everything to work with.
 
-
+They then talk about the GitLab 2019 Global Developer Report results. One of the most interesting results of this survey was that remote teams outperformed on site teams. This ties into the current Twitter discussion about "10x Performing Engineers". Also remote teams by nature have to be more conscious of security. 
 
 # Sponsors
 
@@ -35,4 +35,4 @@ GitLab works with an open core model, Daniel talks about the trade - offs of hav
 * [Daniel's LinkedIn](https://www.linkedin.com/in/danielgruesso/)
 * [GitLab](https://gitlab.com)
 * [Open Source & Software Development| O'Reilly OSCON](https://conferences.oreilly.com/oscon/oscon-or)
-* GitLab 2019 Global Developer Report | GitLab
+* [GitLab 2019 Global Developer Report | GitLab](<https://about.gitlab.com › developer-survey>)
