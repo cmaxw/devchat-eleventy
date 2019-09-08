@@ -36,3 +36,4 @@ They then talk about the GitLab 2019 Global Developer Report results. One of the
 * [GitLab](https://gitlab.com)
 * [Open Source & Software Development| O'Reilly OSCON](https://conferences.oreilly.com/oscon/oscon-or)
 * [GitLab 2019 Global Developer Report | GitLab](<https://about.gitlab.com › developer-survey>)
+* [10x Engineer Twitter](https://twitter.com/skirani/status/1149302828420067328?lang=en)
