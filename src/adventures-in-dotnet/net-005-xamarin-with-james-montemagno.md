@@ -43,8 +43,8 @@ The episode ends with James giving advice and resources for getting into Xamarin
 
 **Sponsors  **
 
-- [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
-- [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+- [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
+- [The Freelancers Show](https://devchat.tv/freelancers/)
 - [React Round Up](https://devchat.tv/react-round-up/)
 - [CacheFly](https://www.cachefly.com/)
 
