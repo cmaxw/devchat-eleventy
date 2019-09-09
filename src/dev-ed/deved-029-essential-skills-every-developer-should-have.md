@@ -27,7 +27,9 @@ In this episode of the Dev Ed podcast, the panelists talk to recurring special g
 
 Sam mentions debugging with console.log in any language on any environment and explains how it can be a saviour while troubleshooting all kinds of situations. Luis says that it is important to know how to efficiently use the editor, understand related tools and know how to type faster. Joe agrees and shares a funny anecdote from his initial days as a fast typist. Aspen mentions coding efficiently, reducing duplication and writing reusable code as some of the most essential skills. 
 
-The panelists then discuss the pros and cons the AHA (Avoid Hasty Abstractions) term, the gist of which is to remove duplication when you see it happening _more_ than once and to prefer abstraction over duplication.
+The panelists then discuss the pros and cons of the AHA (Avoid Hasty Abstractions) term, the gist of which is to prefer abstraction over duplication and, to remove duplication when you see it happening _more_ than once. Brooke talks about learning how to solve problems and knowing which resources to use, and Luis suggests that while working on different frameworks, it is important to learn the language associated with them. He gives examples to further elaborate his point. 
+
+The topic then moves to languages and if there are any specific languages that developers need to learn. Aspen answers in the negative, saying that the logic is the most crucial aspect of programming, Sam agrees, and talks about learning the basics and experimenting with various languages based on developers' requirements and comfort level. Brooke advises listeners to go for the languages they are passionate about and mentions that they need to learn the right way of thinking. 
 
 
 
