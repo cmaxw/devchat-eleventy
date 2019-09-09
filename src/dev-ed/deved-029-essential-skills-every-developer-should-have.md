@@ -29,9 +29,11 @@ Sam mentions debugging with console.log in any language on any environment and e
 
 The panelists then discuss the pros and cons of the AHA (Avoid Hasty Abstractions) term, the gist of which is to prefer abstraction over duplication and, to remove duplication when you see it happening _more_ than once. Brooke talks about learning how to solve problems and knowing which resources to use, and Luis suggests that while working on different frameworks, it is important to learn the language associated with them. He gives examples to further elaborate his point. 
 
-The topic then moves to languages and if there are any specific languages that developers need to learn. Aspen answers in the negative, saying that the logic is the most crucial aspect of programming, Sam agrees, and talks about learning the basics and experimenting with various languages based on developers' requirements and comfort level. Brooke advises listeners to go for the languages they are passionate about and mentions that they need to learn the right way of thinking. 
+The topic then shifts to languages and if there are any specific languages that developers need to learn. Aspen answers in the negative, saying that the logic is the most crucial aspect of programming, Sam agrees, and talks about learning the basics and experimenting with various languages based on developers' requirements and comfort level. Brooke advises listeners to go for the languages they are passionate about and mentions that they need to learn the right way of thinking. 
 
+They discuss programming paradigms essential to be a good developer, which are mainly a mix of functional and object oriented programming concepts. Talking about software engineering skills, they list problem solving, debugging, testing, reading documentation and understanding source code written by other developers, effective pair programming, code reviews, software patterns in the later stages of development, and version control systems such as git.
 
+The next category spoken about is educational skills. Some of the necessary ones being effective communication, ability to teach others and convey ideas constructively, ability to pick up new languages and have a smooth transition, not giving up (banging head on the wall!) and working on problems relentlessly, tenacity, diligence,
 
 ## Panel
 
