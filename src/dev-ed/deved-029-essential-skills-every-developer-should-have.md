@@ -33,7 +33,9 @@ The topic then shifts to languages and if there are any specific languages that 
 
 They discuss programming paradigms essential to be a good developer, which are mainly a mix of functional and object oriented programming concepts. Talking about software engineering skills, they list problem solving, debugging, testing, reading documentation and understanding source code written by other developers, effective pair programming, code reviews, software patterns in the later stages of development, and version control systems such as git.
 
-The next category spoken about is educational skills. Some of the necessary ones being effective communication, ability to teach others and convey ideas constructively, ability to pick up new languages and have a smooth transition, not giving up (banging head on the wall!) and working on problems relentlessly, tenacity, diligence,
+The next category spoken about is educational skills. Some of the necessary ones being effective communication, ability to teach others and convey ideas constructively, ability to pick up new languages and have a smooth transition from the old ones, not giving up and working on problems relentlessly (banging head on the wall!), tenacity, diligence and also, asking for help.
+
+The final category is essential personal skills. They list great ones including ability to work in a team while listening to others' ideas, giving them feedback and taking in criticism as well, 
 
 ## Panel
 
