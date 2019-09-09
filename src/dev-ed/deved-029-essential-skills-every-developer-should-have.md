@@ -35,7 +35,7 @@ They discuss programming paradigms essential to be a good developer, which are m
 
 The next category spoken about is educational skills. Some of the necessary ones being effective communication, ability to teach others and convey ideas constructively, ability to pick up new languages and have a smooth transition from the old ones, not giving up and working on problems relentlessly (banging head on the wall!), tenacity, diligence and also, asking for help.
 
-The final category is essential personal skills. They list great ones including ability to work in a team while listening to others' ideas, giving them feedback and taking in criticism as well, 
+The final category is essential personal skills. They list great ones including ability to work in a team while listening to others' ideas, giving them feedback and taking in criticism as well, time management
 
 ## Panel
 
@@ -69,8 +69,6 @@ Brooke Avery:
 
 * [10 Day Algorithm Challenge](https://twitter.com/GoThinkster/status/1167202043620032512)
 * [The Art of Racing in the Rain](https://www.imdb.com/title/tt1478839/)
-
-
 
 Mike Dane:
 
