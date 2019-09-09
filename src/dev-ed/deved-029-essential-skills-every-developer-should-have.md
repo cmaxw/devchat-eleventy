@@ -35,7 +35,9 @@ They discuss programming paradigms essential to be a good developer, which are m
 
 The next category spoken about is educational skills. Some of the necessary ones being effective communication, ability to teach others and convey ideas constructively, ability to pick up new languages and have a smooth transition from the old ones, not giving up and working on problems relentlessly (banging head on the wall!), tenacity, diligence and also, asking for help.
 
-The final category is essential personal skills. They list great ones including ability to work in a team while listening to others' ideas, giving them feedback and taking in criticism as well, time management
+They then list great essential personal skills including the ability to work in a team while listening to others' ideas, giving them feedback and taking in criticism as well, time management, people skills, good writing, managing personal time and setting boundaries, humility and empathy.
+
+They wrap up the episode by discussing organizational skills - organizing code, managing time across the team, being organized while learning something new, and task organization and move on to picks.
 
 ## Panel
 
@@ -63,27 +65,21 @@ Joined by special guest: [Aspen Payton](https://www.linkedin.com/in/aspen-payton
 
 Luis Hernandez:
 
-* [The Imposter's Handbook Combo](https://bigmachine.io/products/imposter-season-bundle)
+* [Chrome DevTools: Copy and extract all the CSS for an element on the page](https://umaar.com/dev-tips/201-extract-element-styles/)
 
 Brooke Avery:
 
-* [10 Day Algorithm Challenge](https://twitter.com/GoThinkster/status/1167202043620032512)
-* [The Art of Racing in the Rain](https://www.imdb.com/title/tt1478839/)
-
-Mike Dane:
-
-* [Google Fi](https://fi.google.com/about/)
+* [Robocode](https://robocode.sourceforge.io/)
 
 Sam Julien:
 
-* [Base CS podcast](https://www.codenewbie.org/basecs)
-* [You need a budget](https://www.youneedabudget.com/?ref=fv88OZe2XR1Jo2Ld&utm_source=customer_referral)
+* [Toggl](https://toggl.com/)
+* [Learn Identity - Auth0](https://auth0.com/docs/videos/learn-identity)
 
-Jesse Sanders:
+Aspen Payton:
 
-* [CSS Tricks](https://css-tricks.com/)
-* [Hawaii](https://en.wikipedia.org/wiki/Hawaii)
+* [The Nightingale - Audiobook](https://www.audible.com/pd/The-Nightingale-Audiobook/B00NYBQKFQ?ipRedirectOverride=true&overrideBaseCountry=true&pf_rd_p=fd94faec-ca7e-4595-b282-5af8a02fd47b&pf_rd_r=0Q2TCJMQTM19FY1ARXA4)
 
 Joe Eames:
 
-* [Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World](https://www.goodreads.com/book/show/18222843-stuff-matters)
+* [Roll for Adventure](https://boardgamegeek.com/boardgame/255683/roll-adventure)
