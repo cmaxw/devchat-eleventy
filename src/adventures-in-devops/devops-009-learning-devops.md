@@ -6,9 +6,19 @@ date: 2019-09-10T10:00:00.000Z
 episode_number: 009
 duration: '47:21'
 audio_url: 'https://media.devchat.tv/adventures-in-devops/ADO_009_Panel.mp3'
+image: /images/uploads/adventures-in-devops.jpg
 tags:
   - adventures_in_devops
   - podcast
+  - Nell Shamrell-Harrington
+  - Lee Whalen
+  - Scott Nixon
+  - devops
+  - cloud
+  - learning
+  - containers
+  - docker
+  - kubernetes
 ---
 ## Episode Summary
 
