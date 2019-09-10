@@ -41,7 +41,7 @@ The episode ends with James giving advice and resources for getting into Xamarin
 
 - James Montemagno
 
-**Sponsors  **
+**Sponsors**
 
 - [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 - [The Freelancers Show](https://devchat.tv/freelancers/)
