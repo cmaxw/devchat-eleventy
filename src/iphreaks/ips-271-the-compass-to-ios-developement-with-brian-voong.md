@@ -42,7 +42,7 @@ The last topic they discuss in this episode is what tips and tools a developer s
 
 - Brian Voong
 
-**Sponsors  **
+**Sponsors**
 
 - [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
 - [GitLab](https://devchat.tv/gitlabcommit) | Get 30% off tickets with the promo code: DEVCHATCOMMIT
