@@ -11,6 +11,7 @@ tags:
   - podcast
 ---
 **Episode Summary**
+
 Victor Savkin, former angular team member and now cofounder of Narwhal Technologies Inc or Nrwl, returns to Adventures in Angular to teach the panel about monorepos. Victor starts by explaining what monorepos are and why you might need one. Monorepo style development is when multiple projects developed in the same repository and the tools used to manage code between those apps. 
 
 There are many benefits to using monorepos as Victor explains to the panel, such as sharing code between apps. Monorepos help you see what's going on in reality as well as helps you take control of the structure of your code. It also allows for more interesting deployment strategies. Victor talks briefly about his time at Google, working on the toolchain and using a large monorepo.
