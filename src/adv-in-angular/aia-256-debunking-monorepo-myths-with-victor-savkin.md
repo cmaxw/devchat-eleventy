@@ -48,7 +48,7 @@ To end the episode, Shai Reznik recalls how passionate Victor was about NgRx a f
 
 - Victor Savkin
 
-**Sponsors  **
+**Sponsors **
 
 - [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
 - [Angular Bootcamp](https://angularbootcamp.com/)
