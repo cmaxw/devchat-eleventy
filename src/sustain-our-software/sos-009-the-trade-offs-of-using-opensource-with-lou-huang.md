@@ -34,7 +34,7 @@ How to raise awareness and funding for sustainable software. The panel also disc
 
 - Lou Huang
 
-**Sponsors  **
+**Sponsors**
 
 - [GitLab](https://devchat.tv/gitlabcommit) | Get 30% off tickets with the promo code: DEVCHATCOMMIT
 - [DevOps](https://devchat.tv/adventures-in-devops/)
