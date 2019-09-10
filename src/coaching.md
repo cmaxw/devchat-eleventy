@@ -7,6 +7,7 @@ episode_number:
 duration:
 audio_url:
 podcast: page
+eleventyExcludeFromCollections: true
 tags:
   - page
 ---

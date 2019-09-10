@@ -7,6 +7,7 @@ episode_number:
 duration:
 audio_url:
 hide_date: true
+eleventyExcludeFromCollections: true
 tags:
   - page
 ---
