@@ -22,7 +22,7 @@ tags:
 ---
 ## Episode Summary
 
-In this episode of the Adventures in DevOps podcast, the panelists talk about getting started with DevOps and learning its principles and technologies. Lee and Scott share a similar journey where they started as system administrators while working their way into DevOps. Nell was a Ruby and .NET developer before learning cloud technologies such as Heroku, Chef, and Docker.
+In this episode of the Adventures in DevOps podcast, the panelists talk about getting started with DevOps and learning its principles and technologies. Lee and Scott mention that they share a similar journey, initially starting as system administrators and working their way into DevOps. Nell says that she was a Ruby and .NET developer before learning cloud technologies such as Heroku, Chef, and Docker.
 
 To someone with a programming background wanting to get into DevOps, Lee highly recommends three books - The Practice of System and Network Administration, The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services - Volume 2, and Time Management for System Administrators. He mentions that they are technology-agnostic and help in understanding what is really going on in the system. Scott stresses on the importance of understanding basic networking, linux systems and commands, bash scripting and knowing the core fundamentals and interactions of the underlying systems. He suggests going for online resources, tutorials and boot camps which are plenty nowadays and easily accessible as well.
 
