@@ -43,7 +43,7 @@ The final form of contributing the panel discusses is attending and speaking at 
 - David Bernheisel
 - Cory Schmitt
 
-**Sponsors  **
+**Sponsors**
 
 - [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
 - [GitLab](https://devchat.tv/gitlabcommit) | Get 30% off tickets with the promo code: DEVCHATCOMMIT
