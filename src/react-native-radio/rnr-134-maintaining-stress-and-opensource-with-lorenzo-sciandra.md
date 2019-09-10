@@ -47,7 +47,7 @@ To end the episode the panel shares some last reminders about taking care of you
 
 - Lorenzo Sciandra
 
-**Sponsors  **
+**Sponsors**
 
 - [Elixir Mix](https://devchat.tv/elixir-mix/)
 - [The Freelancers Show](https://devchat.tv/freelancers/)
