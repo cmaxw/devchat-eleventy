@@ -87,6 +87,8 @@ module.exports = function(eleventyConfig) {
       return a.date - b.date;
     }).filter(function(item) {
       return item.date <= today;
+    }).filter(function(item) {
+      return item.unlisted !== true;
     });
   });
 
