@@ -43,7 +43,7 @@ When it comes down to it, Reuven, for the most part, suggests B2B. He explains t
 
 - Reuven Lerner
 
-**Sponsors  **
+**Sponsors**
 
 - [Sentry](http://sentry.io/)– use the code &quot;devchat&quot; for two months free on Sentry&#39;s small plan
 - [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
