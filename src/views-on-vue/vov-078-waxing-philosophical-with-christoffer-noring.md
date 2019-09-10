@@ -45,7 +45,7 @@ The panel ends this episode of Views on Vue by asking Chris about his statement 
 
 - Christoffer Noring
 
-**Sponsors  **
+**Sponsors**
 
 - [Sustain Our Software](https://devchat.tv/sustain-our-software/)
 - [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
