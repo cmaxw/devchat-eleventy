@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: react-round-up
-title: 'RRU 078: The Uncanny Valley with Hakon Krogh'
+title: 'RRU 078: The Uncanny Valley with Håkon Krogh'
 date: 2019-09-10T10:00:37.997Z
 episode_number: 078
 duration: '38:58'
