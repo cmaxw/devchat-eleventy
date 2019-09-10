@@ -38,7 +38,7 @@ The panel ends with advice for those developers new to the blockchains and gives
 - Gregory McCubbin
 - Bruno Duarte Brito
 
-**Sponsors  **
+**Sponsors**
 
 - [The Freelancers Show](https://devchat.tv/freelancers/)
 - [Views on Vue](https://devchat.tv/views-on-vue/)
