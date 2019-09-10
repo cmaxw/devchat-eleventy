@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: react-round-up
-title: 'RRU 078: The Uncanny Valley with Håkon Krogh'
+title: 'RRU 078: The Uncanny Valley with Hakon Krogh'
 date: 2019-09-10T10:00:37.997Z
 episode_number: 078
 duration: '38:58'
@@ -63,7 +63,7 @@ With special guest: Håkon Krogh
 *   [Preact](https://preactjs.com/)
 *   [Inferno.js](https://infernojs.org/)
 
-Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
+Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 
 
 ### **Picks**
