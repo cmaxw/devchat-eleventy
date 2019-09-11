@@ -13,8 +13,6 @@ tags:
 ---
 ## Episode Summary
 
-
-
 ## Panel
 
 * [Joe Eames](https://thinkster.io/)
@@ -29,7 +27,7 @@ Joined by special guest: [**Dylan Israel**](https://twitter.com/pizzapokerguy?la
 ## Sponsors
 
 * [Thinkster.io](https://thinkster.io/)
-* [Adventures in Blockchain - Devchat.tv](https://devchat.tv/adventures-in-blockchain/)
+* [Sustain Our Software - Devchat.tv](https://devchat.tv/sustain-our-software/)
 * [My Ruby Story - Devchat.tv](https://devchat.tv/my-ruby-story/)
 * [CacheFly](https://www.cachefly.com/)
 
