@@ -10,10 +10,19 @@ image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast
+  - Joe Eames
+  - Sam Julien
+  - Jesse Sanders
+  - Luis Hernandez
+  - Mike Dane
+  - Nell Shamrell-Harrington
+  - developers
+  - devops
+  - learning
 ---
 ## Episode Summary
 
-In this episode of the Adventures in DevOps podcast, the panelists talk about getting started with DevOps and learning its principles and technologies. Lee and Scott mention that they share a similar journey, initially starting as system administrators and working their way into DevOps. Nell says that she was a Ruby and .NET developer before learning cloud technologies such as Heroku, Chef, and Docker.
+In this episode of the Adventures in DevOps podcast, the panelists talk to Nell Shamrell-Harrington, Principal Engineer at Chef Software. Nell introduces herself and gives a brief background about her software development journey so far and talks about how she started working with DevOps. She is also a co-host of the Adventures in DevOps podcast on Devchat.tv.
 
 To someone with a programming background wanting to get into DevOps, Lee highly recommends three books - The Practice of System and Network Administration, The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services - Volume 2, and Time Management for System Administrators. He mentions that they are technology-agnostic and help in understanding what is really going on in the system. Scott stresses on the importance of understanding basic networking, linux systems and commands, bash scripting and knowing the core fundamentals and interactions of the underlying systems. He suggests going for online resources, tutorials and boot camps which are plenty nowadays and easily accessible as well.
 
@@ -30,13 +39,12 @@ Finally, they talk about how to keep learning and expanding knowledge. Some effe
 ## Panel
 
 * [Joe Eames](https://thinkster.io/)
-* [Brooke Avery](https://thinkster.io/)
-* [Jesse Sanders](http://briebug.com/)
-* [Mike Dane](https://www.mikedane.com/)
 * [Sam Julien](https://twitter.com/samjulien?lang=en)
+* [Jesse Sanders](http://briebug.com/)
 * [Luis Hernandez](https://lambdaschool.com/about)
+* [Mike Dane](https://www.mikedane.com/)
 
-Joined by special guest: [**Dylan Israel**](https://twitter.com/pizzapokerguy?lang=en)
+Joined by special guest: [Nell Shamrell-Harrington](https://www.linkedin.com/in/nellshamrell/)
 
 ## Sponsors
 
@@ -47,8 +55,8 @@ Joined by special guest: [**Dylan Israel**](https://twitter.com/pizzapokerguy?la
 
 ## Links
 
-* [Dylan Israel - YouTube](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw)
-* [100 Algorithms Challenge](https://thinkster.io/tutorials/100-algorithms-challenge)
-* [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+* [Nell's Twitter](https://twitter.com/nellshamrell?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
+* 
 
 ## Picks
