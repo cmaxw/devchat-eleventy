@@ -24,6 +24,8 @@ tags:
 
 In this episode of the Adventures in DevOps podcast, the panelists talk to Nell Shamrell-Harrington, Principal Engineer at Chef Software. Nell introduces herself and gives a brief background about her software development journey so far and talks about how she started working with DevOps. She is also a co-host of the Adventures in DevOps podcast on Devchat.tv.
 
+The meaning of the term DevOps can be quite cloudy, so before discussing learning DevOps, they talk about what it actually means and how it differs from traditional development. Nell breaks down the term and explains in detail the approach of merging developers and operational professionals. Joe highlights the cultural aspect of DevOps and how it plays into the way of working. Nell explains the right way of organizing teams, the internal interactions among them, responsibility and accountability, and some of the dos and don'ts involved. Other panelists chime in with their views on the DevOps culture as well.
+
 To someone with a programming background wanting to get into DevOps, Lee highly recommends three books - The Practice of System and Network Administration, The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services - Volume 2, and Time Management for System Administrators. He mentions that they are technology-agnostic and help in understanding what is really going on in the system. Scott stresses on the importance of understanding basic networking, linux systems and commands, bash scripting and knowing the core fundamentals and interactions of the underlying systems. He suggests going for online resources, tutorials and boot camps which are plenty nowadays and easily accessible as well.
 
 Nell advises listeners to pick a cloud provider such as Digital Ocean and learn the basics by working with it, which can later be applied to any other cloud provider. She also recommends learning programming languages to get a good software development foundation. The panelists talk about working on specific projects and getting hands dirty rather than traditional learning, to enhance their DevOps skills.
@@ -57,6 +59,12 @@ Joined by special guest: [Nell Shamrell-Harrington](https://www.linkedin.com/in/
 
 * [Nell's Twitter](https://twitter.com/nellshamrell?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 * [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
-* 
+* [The Phoenix Project](https://www.amazon.com/dp/0988262592/ref=asc_df_09882625925978937?tag=shopz0d-20&ascsubtag=shopzilla_mp_1299-20;15681953003269658181210070301008005&creative=395261&creativeASIN=0988262592&linkCode=asn)
 
 ## Picks
+
+Sam Julien:	
+
+https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/00:53:48	
+
+Nell Shamrell-Harrington:	https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/00:54:33	Sam Julien:	https://thinkster.io/topics/docker00:56:36	Sam Julien:	https://ulysses.app/00:57:38	Nell Shamrell-Harrington:	https://apps.apple.com/us/app/round-health/id1059591124
