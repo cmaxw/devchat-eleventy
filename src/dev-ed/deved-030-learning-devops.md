@@ -30,17 +30,13 @@ Other panelists chime in with their views on the DevOps culture as well. They di
 
 The next topic of discussion is why should a beginner developer care about DevOps at all. As applications become more complex, the need arises to think about their underlying infrastructure in order to optimise them and its beneficial to have an idea of where they might be deployed.  As a developer progresses from the beginning stages to advanced ones, it is natural to know about the deployment environment, data centres, and DevOps concepts in general. Due to advancements in technology, these areas have become very accessible as well.
 
-To someone with a programming background wanting to get into DevOps, Lee highly recommends three books - The Practice of System and Network Administration, The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services - Volume 2, and Time Management for System Administrators. He mentions that they are technology-agnostic and help in understanding what is really going on in the system. Scott stresses on the importance of understanding basic networking, linux systems and commands, bash scripting and knowing the core fundamentals and interactions of the underlying systems. He suggests going for online resources, tutorials and boot camps which are plenty nowadays and easily accessible as well.
+They steer the discussion towards what parts of DevOps should one focus on while getting started, given that there are a plethora of tools and technologies involved.  Nell advises listeners to pick any major cloud provider and learn the basics by working with it, which can later be applied to any other cloud provider.  She also recommends learning programming languages to get a good software development foundation. Sam shares his own experience with Digital Ocean and highly recommends their learning materials. Mike and Jesse suggest understanding how Continuous Integration works and mention that it is a great starting point. Mike points out that knowing that there are multiple environments at play - staging, production, testing and so on helps a great deal.
 
-Nell advises listeners to pick a cloud provider such as Digital Ocean and learn the basics by working with it, which can later be applied to any other cloud provider. She also recommends learning programming languages to get a good software development foundation. The panelists talk about working on specific projects and getting hands dirty rather than traditional learning, to enhance their DevOps skills.
+Speaking about Docker, Nell says that while it is an amazing technology which made containers extremely usable on a large scale, it is not a good idea to run the entire infrastructure on just containers, given that containers can be very ephemeral and there is a risk of losing data. For learning purposes though, she recommends Docker as it runs well on local environments. She explains what Chef is and the difference between Docker and Chef. 
 
-Nell explains how they implement the 'learning by doing' concept at work. She mentions that understanding how virtual machines and physical servers work is crucial before moving on to learning about containers. Lee suggests Vagrant - a tool for building and managing virtual machine environments, as a good resource for the same. They caution that while it is important to learn things during our time off, self-care and setting healthy boundaries is paramount. It is ok to take longer to learn something given that DevOps as a whole can be extremely complex, and working in a non-pressure environment can be very beneficial. They recommend Ops School for beginners which is a comprehensive program aimed at people who want to get into operations engineering.
+The panelists then describe what Netlify is, how it works, and how good it is from the learning perspective. They then talk about some great resources for beginners to start with, Nell recommends Kubernetes, and explains what it means to orchestrate containers. Sam talks about Bruno Krebs' Kubernetes tutorial and Thinkster's Docker courses as awesome learning materials. They end the show with picks.
 
-They then share their insights on monitoring and how to get started with it. Lee recommends the book Practical Monitoring, and Sensu - a monitoring event pipeline, as good starting points.
 
-DevOps can be considered as a technical as well as a cultural movement. To that effect, they discuss where should people start learning the associated cultural elements. Nell recommends reading the books - Effective DevOps, and The Phoenix Project and Crucial Conversations. Lee advocates going old school with the writings of Richard Stallman, and books of the 80s and 90s such as The Art of C Programming. They mention that conversational skills and dealing with people are critical skills in today's work environments. Scott recommends Google's Site Reliability Engineering books which have a lot of great stuff to build a solid foundation and are also free to read online.
-
-Finally, they talk about how to keep learning and expanding knowledge. Some effective suggestions discussed include extensive practicing, working professionally, solving business problems, building expertise in programming, and attending DevOps Days events and Linux Users groups. They end the episode with picks
 
 ## Panel
 
@@ -64,11 +60,17 @@ Joined by special guest: [Nell Shamrell-Harrington](https://www.linkedin.com/in/
 * [Nell's Twitter](https://twitter.com/nellshamrell?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 * [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 * [The Phoenix Project](https://www.amazon.com/dp/0988262592/ref=asc_df_09882625925978937?tag=shopz0d-20&ascsubtag=shopzilla_mp_1299-20;15681953003269658181210070301008005&creative=395261&creativeASIN=0988262592&linkCode=asn)
+* [Digital Ocean](https://www.digitalocean.com/)
+* [Kubernetes Tutorial](https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/)
+* [Docker Courses - Thinkster.io](https://thinkster.io/topics/docker)
 
 ## Picks
 
 Sam Julien:	
 
-https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/00:53:48	
+* [Ulysses app](https://ulysses.app)
 
-Nell Shamrell-Harrington:	https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/00:54:33	Sam Julien:	https://thinkster.io/topics/docker00:56:36	Sam Julien:	https://ulysses.app/00:57:38	Nell Shamrell-Harrington:	https://apps.apple.com/us/app/round-health/id1059591124
+Nell Shamrell-Harrington:
+
+* [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
+* [Round Health](https://apps.apple.com/us/app/round-health/id1059591124)
