@@ -84,7 +84,8 @@ Nell Shamrell-Harrington:
 Jesse Sanders:
 
 * [Headspace](https://www.headspace.com/)
+* [Grammarly](https://www.grammarly.com/)
 
 Joe Eames:
 
-*
+* [Tile](https://www.amazon.com/Tile-Gen-Anything-Discontinued-Manufacturer/dp/B011HT9AL2)
