@@ -65,7 +65,7 @@ Joined by special guest: [Nell Shamrell-Harrington](https://www.linkedin.com/in/
 
 ## Picks
 
-Luis hernandez:
+Luis Hernandez:
 
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
