@@ -10,8 +10,6 @@ tags:
   - my_javascript_story
   - podcast
 ---
-
-
 # Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
@@ -32,4 +30,4 @@ Aaron then invites all listeners to attend the upcoming [RxJS Live Conference](h
 
 * [RxJS Live Conference](https://www.rxjs.live/)
 * [RxJS Conference Tickets](https://ti.to/rxjslive/2019)
-* [Aaron's Twitter](https://twitter.com/aaronfrosted?lang=en)
+* [Aaron's Twitter](https://twitter.com/aaronfrost?lang=en)
