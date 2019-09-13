@@ -15,7 +15,7 @@ tags:
   - Brooke Avery
   - Luis Hernandez
   - Joe Skeen
-  - deevlopers
+  - developers
 ---
 ## Episode Summary
 
