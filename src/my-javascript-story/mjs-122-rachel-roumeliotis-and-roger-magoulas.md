@@ -29,7 +29,7 @@ They then talk about the future of OSCON and the highlights they wat to cover ne
 
 **Host:** Charles Max Wood
 
-**Joined by Special Guest:** Rachel Roumeliotis and Roger Magoulas
+**Joined by Special Guests:** Rachel Roumeliotis and Roger Magoulas
 
 ## Links
 

@@ -29,7 +29,7 @@ They then discuss what to do after you’ve fixed a bug, such as if it is necess
 
 The panel discusses issues with invisible boundaries encountered while debugging, such as running out of memory. They talk about ways to mitigate issues that happen outside of your code base. Todd talks about the dangers of ad-blockers, and the panel agrees that it is important to consider how your website will be crippled by the user’s own technology. The end user in a production environment will have a different experience than you did writing it on a professional computer. 
 
-Todd talks about the difference between debugging for the web versus a mobile application. Todd has encountered particular problems with debugging on a remote device, and he talks about how he solved the issue. The show concludes with Todd giving a quick elevator pitch for TrackJS
+Todd talks about the difference between debugging for the web versus a mobile application. Todd has encountered particular problems with debugging on a remote device, and he talks about how he solved the issue. The show concludes with Todd giving a quick elevator pitch for TrackJS.
 
 
 ### **Panelists**
