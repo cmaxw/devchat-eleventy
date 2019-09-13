@@ -199,13 +199,13 @@ I wrote an email course that goes into much more detail about how to stay curren
   <div class="_form-content">
     <div class="_form_element _x00773874 _full_width _clear" >
       <div class="_form-title">
-        Subscribe for Email Updates
+        Get our How to Keep Current email course
       </div>
     </div>
     <div class="_form_element _x66291727 _full_width _clear" >
       <div class="_html-code">
         <p>
-          Add a descriptive message telling what your visitor is signing up for here.
+          Learn our process for keeping up on the latest technology and development topics
         </p>
       </div>
     </div>
