@@ -11,16 +11,20 @@ image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast
+  - Joe Eames
+  - Brooke Avery
+  - Luis Hernandez
+  - Joe Skeen
+  - deevlopers
 ---
 ## Episode Summary
+
+
 
 ## Panel
 
 * [Joe Eames](https://thinkster.io/)
 * [Brooke Avery](https://thinkster.io/)
-* [Jesse Sanders](http://briebug.com/)
-* [Mike Dane](https://www.mikedane.com/)
-* [Sam Julien](https://twitter.com/samjulien?lang=en)
 * [Luis Hernandez](https://lambdaschool.com/about)
 
 Joined by special guest: [Joe Skeen](https://www.linkedin.com/in/josephskeenjr/)
@@ -39,14 +43,8 @@ Joined by special guest: [Joe Skeen](https://www.linkedin.com/in/josephskeenjr/)
 
 ## Picks
 
-
-
 01:01:21 Joe Eames: quote01:03:33 Luis Hernandez: \[https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
 
-
-
 Brooke Avery's Pick: \[https://magicpuzzles.net/](https://magicpuzzles.net/)01:06:09 Joe Skeen: \[https://joeskeen.github.io/dominion-companion/randomizer](https://joeskeen.github.io/dominion-companion/randomizer)01:06:14 Joe Skeen: \[https://joeskeen.github.io/dominion-companion](https://joeskeen.github.io/dominion-companion)
-
-
 
 Joe Eames Picks: \[https://www.netlify.com/](https://www.netlify.com/) and \[https://thinkster.io/tutorials/deploying-apps-to-netlify](https://thinkster.io/tutorials/deploying-apps-to-netlify)
