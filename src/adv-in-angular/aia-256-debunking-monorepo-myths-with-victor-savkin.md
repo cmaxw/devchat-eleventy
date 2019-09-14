@@ -10,7 +10,7 @@ tags:
   - adv_in_angular
   - podcast
 ---
-**Episode Summary**
+## **Episode Summary**
 
 Victor Savkin, former angular team member and now cofounder of Narwhal Technologies Inc or Nrwl, returns to Adventures in Angular to teach the panel about monorepos. Victor starts by explaining what monorepos are and why you might need one. Monorepo style development is when multiple projects developed in the same repository and the tools used to manage code between those apps. 
 
@@ -36,66 +36,66 @@ Because Nrwl is a consulting firm, the panel hopes that Victor will have an upda
 
 To end the episode, Shai Reznik recalls how passionate Victor was about NgRx a few years ago. He asks Victor if he still feels the same way as before. Victor explains that NgRx is pretty well most of the time, has great docs, is well maintained, and he would still recommend it.
 
+## **Panelists**
 
-**Panelists**
+* Jennifer Wadella
+* Brian Love
+* Shai Reznik
+* Alyssa Nicoll
 
-- Jennifer Wadella
-- Brian Love
-- Shai Reznik
-- Alyssa Nicoll
+## **Guest**
 
-**Guest**
+* Victor Savkin
 
-- Victor Savkin
+## _**Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs**_
 
-**Sponsors **
+# **Sponsors** 
 
-- [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
-- [Angular Bootcamp](https://angularbootcamp.com/)
-- [My JavaScript Story](https://devchat.tv/my-javascript-story/)
-- [Cachefly](https://www.cachefly.com/)
+* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
+* [Angular Bootcamp](https://angularbootcamp.com/)
+* [My JavaScript Story](https://devchat.tv/my-javascript-story/)
+* [Cachefly](https://www.cachefly.com/)
 
-**Links**
+## **Links**
 
+* <https://twitter.com/victorsavkin?lang=en>
+* [Nrwl Nx — An open source toolkit for enterprise Angular applications.](https://blog.nrwl.io/nrwl-nx-an-open-source-toolkit-for-enterprise-angular-applications-38698e94d65)
+* [Effective React Development with Nx](https://connect.nrwl.io/app/books/effective-react-with-nx)
+* <https://connect.nrwl.io/app/books>
+* <https://nx.dev/angular/getting-started/what-is-nx>
+* [MAS 040: Victor Savkin](https://devchat.tv/my-angular-story/mas-040-victor-savkin/)
+* [042 AiA Dependency Injection and Change Detection with Victor Savkin](https://devchat.tv/adv-in-angular/042-aia-dependency-injection-and-change-detection-with-victor-savkin/)
+* [123 AiA Upgrading from Angular 1 to Angular 2 with Victor Savkin](https://devchat.tv/adv-in-angular/123-aia-upgrading-from-angular-1-to-angular-2-with-victor-savkin/)
+* <https://nrwl.io/>
+* <https://nx.dev/>
+* [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
+* [https://www.facebook.com/adventuresinangular](https://www.facebook.com/adventuresinangular/)
+* <https://twitter.com/angularpodcast>
 
-- [https://twitter.com/victorsavkin?lang=en](https://twitter.com/victorsavkin?lang=en)
-- [Nrwl Nx — An open source toolkit for enterprise Angular applications.](https://blog.nrwl.io/nrwl-nx-an-open-source-toolkit-for-enterprise-angular-applications-38698e94d65)
-- [Effective React Development with Nx](https://connect.nrwl.io/app/books/effective-react-with-nx)
-- [https://connect.nrwl.io/app/books](https://connect.nrwl.io/app/books)
-- [https://nx.dev/angular/getting-started/what-is-nx](https://nx.dev/angular/getting-started/what-is-nx)
-- [MAS 040: Victor Savkin](https://devchat.tv/my-angular-story/mas-040-victor-savkin/)
-- [042 AiA Dependency Injection and Change Detection with Victor Savkin](https://devchat.tv/adv-in-angular/042-aia-dependency-injection-and-change-detection-with-victor-savkin/)
-- [123 AiA Upgrading from Angular 1 to Angular 2 with Victor Savkin](https://devchat.tv/adv-in-angular/123-aia-upgrading-from-angular-1-to-angular-2-with-victor-savkin/)
-- [https://nrwl.io/](https://nrwl.io/)
-- [https://nx.dev/](https://nx.dev/)
-- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
-- [https://www.facebook.com/adventuresinangular](https://www.facebook.com/adventuresinangular/)
-- [https://twitter.com/angularpodcast](https://twitter.com/angularpodcast)
-
-**Picks**
+## **Picks**
 
 **Brain Love:**
 
-- [https://trunkbaseddevelopment.com/](https://trunkbaseddevelopment.com/)
-- [https://www.oreilly.com/library/view/why-angular-for/9781492030294/](https://www.oreilly.com/library/view/why-angular-for/9781492030294/)
+* <https://trunkbaseddevelopment.com/>
+* <https://www.oreilly.com/library/view/why-angular-for/9781492030294/>
 
 **Alyssa Nicoll:**
 
-- Caffeine Content Warning!
+* Caffeine Content Warning!
 
 **Jennnifer Wadella:**
 
-- The Fall Season
-- [NGD Conf](https://www.nvidia.com/en-us/gtc/)
-- Laptop Safety at Conferences
+* The Fall Season
+* [NGD Conf](https://www.nvidia.com/en-us/gtc/)
+* Laptop Safety at Conferences
 
 **Victor Savkin:**
 
-- [The Boys](https://www.amazon.com/dp/B07QQQ52B3/ref=dvm_us_dl_sl_go_ast_19BOY_TLe%7Cc_375798336448_m_lravi60A-dc_s__?gclid=CjwKCAjw8NfrBRA7EiwAfiVJpWIencec5syX_b3bRgeG8PGZXABeVAKIG7-g0HgHGloSjWWKfqq12RoCmzkQAvD_BwE)
-- Use Less Social Media
-- [Freedom App](https://freedom.to/)
+* [The Boys](https://www.amazon.com/dp/B07QQQ52B3/ref=dvm_us_dl_sl_go_ast_19BOY_TLe%7Cc_375798336448_m_lravi60A-dc_s__?gclid=CjwKCAjw8NfrBRA7EiwAfiVJpWIencec5syX_b3bRgeG8PGZXABeVAKIG7-g0HgHGloSjWWKfqq12RoCmzkQAvD_BwE)
+* Use Less Social Media
+* [Freedom App](https://freedom.to/)
 
 **Shai Reznik:**
 
-- [https://bit.dev/](https://bit.dev/)
-- [True Detective](https://www.amazon.com/gp/video/detail/B07NSNJBXW/ref=atv_dl_rdr)
+* <https://bit.dev/>
+* [True Detective](https://www.amazon.com/gp/video/detail/B07NSNJBXW/ref=atv_dl_rdr)
