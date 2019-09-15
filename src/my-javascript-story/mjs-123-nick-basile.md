@@ -48,7 +48,10 @@ Finally Nick talks about how he spends his life outside work in Austin, which no
 
 * [SEMrush SEO Tools](www.semrush.com/‎)
 * <https://neilpatel.com/ubersuggest/>
+* [ActiveCampaign](https://www.activecampaign.com)
+
 
 **Nick Basile:**
 
-* ****
+* [How It Actually Works](https://www.howitactuallyworks.com/welcome)
+* [Tailwind CSS](https://tailwindcss.com)
