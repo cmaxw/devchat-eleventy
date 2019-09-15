@@ -20,17 +20,17 @@ When a 10x engineer is added to a team, the productivity of the entire team incr
 
 Overall, Chuck believes these tweets are asinine because it’s impossible to measure what makes a 10x engineer in the first place, and hiring a person that fits the attributes in the list would be toxic to your company.
 
-**Panel**
+## **Panel**
 
 * Charles Max Wood
 
-**Links**
+## **Links**
 
 * [10x engineer Twitter thread](https://twitter.com/skirani/status/1149302828420067328?lang=en)
 
 Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 
-### **Picks**
+## **Picks**
 
 **Charles Max Wood:**
 
