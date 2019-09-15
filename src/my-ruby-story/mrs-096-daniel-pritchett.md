@@ -13,7 +13,9 @@ tags:
 ---
 # Episode Summary
 
+This week's My Ruby Story welcomes Daniel Pritchett, an infrastructure engineer at Gremlin. Daniel talks about his programming journey and his life in Florida where he moved to recently. 
 
+Daniel has degrees in Managament Information Systems and Computer Science from the University of Alabama. 
 
 **Host:** Charles Max Wood
 
