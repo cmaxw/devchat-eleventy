@@ -43,7 +43,7 @@ Daniel then talks about why he likes being an infrastructure engineer and the pr
 
 **Daniel Pritchett:**
 
-****
+* [Lucidchart.com](www.lucidchart.com/‎)
 
 **Charles Max Wood:**
 
