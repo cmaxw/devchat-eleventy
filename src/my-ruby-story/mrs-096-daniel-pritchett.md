@@ -32,3 +32,6 @@ Daniel has degrees in Management Information Systems and Computer Science from t
 
 * [RR 422: Build Chatbot Interactions in Ruby with Daniel Pritchett](https://devchat.tv/ruby-rogues/rr-422-build-chatbot-interactions-in-ruby-with-daniel-pritchett/)
 * [Daniel's LinkedIn](https://www.linkedin.com/in/danielpritchett/)
+* [Build Chatbot Interactions: Responsive, Intuitive Interfaces with Ruby](https://www.amazon.com/Build-Chatbot-Interactions-Responsive-Interfaces/dp/1680506323)
+
+## Picks
