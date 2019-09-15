@@ -55,3 +55,4 @@ Finally Nick talks about how he spends his life outside work in Austin, which no
 
 * [How It Actually Works](https://www.howitactuallyworks.com/welcome)
 * [Tailwind CSS](https://tailwindcss.com)
+* Gym
