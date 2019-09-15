@@ -13,9 +13,7 @@ tags:
 ---
 # Episode Summary
 
-This episode of My Ruby Story is coming to you live from OSCON. Joining Charles Max Wood is Daniel Gruesso from GitLab to talk about developing in the Open Source and the Developer Report. 
 
-GitLab works with an open core model, Daniel talks about the trade - offs of having code open to public, the first of which is having everything up-to-date so any contributions made will work with the latest version. Daniel calls this the "bus-factor" where if one of the team members gets hit by a bus, the rest of the team will have everything to work with.
 
 **Host:** Charles Max Wood
 
@@ -24,10 +22,11 @@ GitLab works with an open core model, Daniel talks about the trade - offs of hav
 # Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
+* [My Angular Story](https://devchat.tv/my-angular-story/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## Links
 
-* [Daniel's LinkedIn](https://www.linkedin.com/in/danielgruesso/)
+* [RR 422: Build Chatbot Interactions in Ruby with Daniel Pritchett](https://devchat.tv/ruby-rogues/rr-422-build-chatbot-interactions-in-ruby-with-daniel-pritchett/)
+* [Daniel's LinkedIn](https://www.linkedin.com/in/danielpritchett/)
