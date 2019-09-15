@@ -13,7 +13,9 @@ tags:
 ---
 # Episode Summary
 
-My JavaScript Story this week meets with Nick Basile, UX instructor at Lambda School from Austin, TX. Nick talks about how much he enjoys working with Laravel
+My JavaScript Story this week meets with Nick Basile, UX instructor at Lambda School from Austin, TX. Nick talks about how much he enjoys working with Laravel and Vue as well as his journey as a developer. 
+
+Nick went to 
 
 **Host:** Charles Max Wood
 
@@ -34,3 +36,10 @@ My JavaScript Story this week meets with Nick Basile, UX instructor at Lambda Sc
 * [Nick's Twitter](https://twitter.com/nickjbasile) 
 * <https://nick-basile.com/>
 * <https://laravel-news.com/the-10-best-laravel-podcasts>
+* <https://neilpatel.com/ubersuggest/>
+
+## Picks
+
+**Charles Max Wood:**
+
+**Nick Basile:**
