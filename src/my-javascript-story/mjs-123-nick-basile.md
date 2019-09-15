@@ -17,7 +17,9 @@ My JavaScript Story this week meets with Nick Basile, UX instructor at Lambda Sc
 
 Upon graduating from university in Switzerland with a degree in Economics, he started working for two start-ups doing UX/UI design. He then wanted to be able to build UI as well so he taught himself JavaScript and HTML. He then got a job as a front-end developer to further develop his skills. Charles makes a comment about how many developers don't have a Computer Science Degrees.
 
-Nick then talks about how he got into Laravel and Vue. 
+Nick then talks about how he got into Laravel and Vue and also how he started working for Lambda. They briefly discuss Lambda's business model and Nick's approach to teaching.
+
+Finally Nick talks about how he spends his life outside work in Austin nowadays looking after 4 months old daughter.
 
 **Host:** Charles Max Wood
 
@@ -38,10 +40,15 @@ Nick then talks about how he got into Laravel and Vue.
 * [Nick's Twitter](https://twitter.com/nickjbasile) 
 * <https://nick-basile.com/>
 * <https://laravel-news.com/the-10-best-laravel-podcasts>
-* <https://neilpatel.com/ubersuggest/>
+* 
 
 ## Picks
 
 **Charles Max Wood:**
 
+* [SEMrush SEO Tools](www.semrush.com/‎)
+* <https://neilpatel.com/ubersuggest/>
+
 **Nick Basile:**
+
+* ****
