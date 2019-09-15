@@ -27,7 +27,7 @@ Nick then talks about how he got into Laravel and Vue.
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 * [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
-* [React Native Radio](https://devchat.tv/react-native-radio/)
+* [Adventures in BlockChain](https://devchat.tv/adventures-in-blockchain/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## Links
