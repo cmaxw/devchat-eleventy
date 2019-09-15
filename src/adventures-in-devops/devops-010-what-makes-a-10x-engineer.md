@@ -12,7 +12,7 @@ tags:
 ---
 ### **Episode Summary**
 
-On this week's Adventures in DevOps, Chuck talks about the recent [Twitter thread](https://twitter.com/skirani/status/1149302828420067328?lang=en) about 10x engineers. He goes through each of the points in the tweet and talks about each of them in turn. There are only two points he sort of agrees with, and believes the rest to be absolute garbage. One of the issues with this tweet is that it doesn’t define what a 10x engineer is. 
+On this week's Adventures in DevOps, Chuck talks about the recent Twitter thread about 10x engineers. He goes through each of the points in the tweet and talks about each of them in turn. There are only two points he sort of agrees with, and believes the rest to be absolute garbage. One of the issues with this tweet is that it doesn’t define what a 10x engineer is. 
 
 Defining a 10x engineer is difficult because it is also impossible to measure a truly average engineer because there are many factors that play into measuring productivity. Chuck turns the discussion to what a 10x engineer is to him and how to find one. A 10x engineer is dependent on the organization that they are a part of, because they are not simply found, they are made. 
 
