@@ -24,6 +24,13 @@ Overall, Chuck believes these tweets are asinine because it’s impossible to me
 
 * Charles Max Wood
 
+## Sponsors
+
+* [iPhreaks - Devchat.tv](https://devchat.tv/iphreaks/)
+* [The Dev Rev - Devchat.tv](https://devchat.tv/dev-rev/)
+* [React Round Up - Devchat.tv](https://devchat.tv/react-round-up/)
+* [CacheFly](https://www.cachefly.com/)
+
 ## **Links**
 
 * [10x engineer Twitter thread](https://twitter.com/skirani/status/1149302828420067328?lang=en)
