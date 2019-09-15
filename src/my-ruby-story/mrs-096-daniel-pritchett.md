@@ -17,7 +17,7 @@ This week's My Ruby Story welcomes Daniel Pritchett, an infrastructure engineer 
 
 Daniel has degrees in Management Information Systems and Computer Science from the University of Alabama. He talks about the fact that even though he learned about programming in theory at school, he didn't feel confident a a programmer until he was introduced to Ruby.  
 
-Daniel then talks about why he likes being an infrastructure engineer.
+Daniel then talks about why he likes being an infrastructure engineer and the projects he has been working on. 
 
 **Host:** Charles Max Wood
 
