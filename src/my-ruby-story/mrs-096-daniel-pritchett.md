@@ -41,10 +41,14 @@ Daniel then talks about why he likes being an infrastructure engineer and the pr
 
 ## Picks
 
+**Daniel Pritchett:**
+
+****
+
 **Charles Max Wood:**
 
 * <https://villacappelli.com/>
 * The Olive Oil
 * <https://www.dropanfbomb.com/collections/nut-butters/products/macadamia-nut-butters>
 
-**Daniel Pritchett**
+****
