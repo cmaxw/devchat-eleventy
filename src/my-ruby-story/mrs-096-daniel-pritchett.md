@@ -17,6 +17,8 @@ This week's My Ruby Story welcomes Daniel Pritchett, an infrastructure engineer 
 
 Daniel has degrees in Management Information Systems and Computer Science from the University of Alabama. He talks about the fact that even though he learned about programming in theory at school, he didn't feel confident a a programmer until he was introduced to Ruby.  
 
+Daniel then talks about why he likes being an infrastructure engineer.
+
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:** Daniel Pritchett
@@ -32,6 +34,15 @@ Daniel has degrees in Management Information Systems and Computer Science from t
 
 * [RR 422: Build Chatbot Interactions in Ruby with Daniel Pritchett](https://devchat.tv/ruby-rogues/rr-422-build-chatbot-interactions-in-ruby-with-daniel-pritchett/)
 * [Daniel's LinkedIn](https://www.linkedin.com/in/danielpritchett/)
+* [Daniel's Twitter](https://twitter.com/DPritchett)
 * [Build Chatbot Interactions: Responsive, Intuitive Interfaces with Ruby](https://www.amazon.com/Build-Chatbot-Interactions-Responsive-Interfaces/dp/1680506323)
 
 ## Picks
+
+**Charles Max Wood:**
+
+* <https://villacappelli.com/>
+* The Olive Oil
+* <https://www.dropanfbomb.com/collections/nut-butters/products/macadamia-nut-butters>
+
+**Daniel Pritchett**
