@@ -47,7 +47,7 @@ To end the episode, Shai Reznik recalls how passionate Victor was about NgRx a f
 
 * Victor Savkin
 
-## _**Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs**_
+## _Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
 
 # **Sponsors** 
 
