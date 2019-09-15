@@ -19,7 +19,7 @@ Upon graduating from university in Switzerland with a degree in Economics, he st
 
 Nick then talks about how he got into Laravel and Vue and also how he started working for Lambda. They briefly discuss Lambda's business model and Nick's approach to teaching.
 
-Finally Nick talks about how he spends his life outside work in Austin, which nowadays involves looking after 4 month old daughter.
+Finally Nick talks about how he spends his life outside work in Austin, which nowadays involves looking after his 4-month old daughter.
 
 **Host:** Charles Max Wood
 
