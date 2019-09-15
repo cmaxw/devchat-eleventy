@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: views-on-vue
 title: 'VoV 079: Why Vue.js is the Best Framework Ever with Gwendolyn Faraday'
-date: 2019-09-18T04:26:09.206Z
+date: 2019-09-17T10:00:09.206Z
 episode_number: 079
 duration: ' 49:20'
 audio_url: 'https://media.devchat.tv/viewsonvue/VoV_079_Gwendolyn_Faraday.mp3'
