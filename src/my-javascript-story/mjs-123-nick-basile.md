@@ -15,7 +15,9 @@ tags:
 
 My JavaScript Story this week meets with Nick Basile, UX instructor at Lambda School from Austin, TX. Nick talks about how much he enjoys working with Laravel and Vue as well as his journey as a developer. 
 
-Nick went to 
+Upon graduating from university in Switzerland with a degree in Economics, he started working for two start-ups doing UX/UI design. He then wanted to be able to build UI as well so he taught himself JavaScript and HTML. He then got a job as a front-end developer to further develop his skills. Charles makes a comment about how many developers don't have a Computer Science Degrees.
+
+Nick then talks about how he got into Laravel and Vue. 
 
 **Host:** Charles Max Wood
 
@@ -24,7 +26,7 @@ Nick went to
 # Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
 
