@@ -36,6 +36,8 @@ Daniel then talks about why he likes being an infrastructure engineer and the pr
 * [Daniel's LinkedIn](https://www.linkedin.com/in/danielpritchett/)
 * [Daniel's Twitter](https://twitter.com/DPritchett)
 * [Build Chatbot Interactions: Responsive, Intuitive Interfaces with Ruby](https://www.amazon.com/Build-Chatbot-Interactions-Responsive-Interfaces/dp/1680506323)
+* [Daniel Pritchett](https://dpritchett.net)
+
 
 ## Picks
 
