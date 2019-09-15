@@ -59,8 +59,7 @@ Joined by special guest: [Nell Shamrell-Harrington](https://www.linkedin.com/in/
 * [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 * [The Phoenix Project](https://www.amazon.com/dp/0988262592/ref=asc_df_09882625925978937?tag=shopz0d-20&ascsubtag=shopzilla_mp_1299-20;15681953003269658181210070301008005&creative=395261&creativeASIN=0988262592&linkCode=asn)
 * [Digital Ocean](https://www.digitalocean.com/)
-* [The Illustrated Children’s Guide to Kubernetes
-  ](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
+* [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
 * [Kubernetes Tutorial](https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/)
 * [Docker Courses - Thinkster.io](https://thinkster.io/topics/docker)
 
