@@ -22,7 +22,7 @@ tags:
 ---
 ## Episode Summary
 
-In this episode of the DevEd podcast, the panelists talk to Nell Shamrell-Harrington, Principal Engineer at Chef Software. Nell introduces herself and gives a brief background about her software development journey so far and talks about how she started working with DevOps. She is also a co-host of the Adventures in DevOps podcast on Devchat.tv.
+In this episode of the Dev Ed podcast, the panelists talk to Nell Shamrell-Harrington, Principal Engineer at Chef Software. Nell introduces herself and gives a brief background about her software development journey so far and talks about how she started working with DevOps. She is also a co-host of the Adventures in DevOps podcast on Devchat.tv.
 
 The meaning of the term DevOps can be quite cloudy, so before discussing learning DevOps, they talk about what it actually means and how it differs from traditional development. Nell breaks down the term and describes in detail the approach of merging developers and operational professionals. Joe highlights the cultural aspect of DevOps and how it plays into the way of working. Nell explains the right way of organizing teams, the internal interactions among them, accountability, and some of the dos and don'ts involved. 
 
