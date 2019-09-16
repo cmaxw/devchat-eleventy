@@ -14,7 +14,7 @@ tags:
 ---
 **Episode Summary**
 
-In this week’s episode of Elixir Mix the panel is joined by David Bernheisel and Cory Schmitt, from Taxjar,  to discuss the different ways developers can contribute to the community. The first way to contribute to the Elixir community is contributing to the Elixir core code. While David shares a little of his background, he shares his first experience contributing to the elixir code by submitting a pole request about asdf. The panel all thanking him for his contribution. 
+In this week’s episode of Elixir Mix the panel is joined by David Bernheisel and Cory Schmitt, from Taxjar,  to discuss the different ways developers can contribute to the community. The first way to contribute to the Elixir community is contributing to the Elixir core code. While David shares a little of his background, he shares his first experience contributing to the elixir code by submitting a pull request about asdf. The panel all thanking him for his contribution. 
 
 The next form of contributing the panel discusses is open-sourcing projects. Cory and David share their experience getting their date-time parser open-sourced. They express gratitude at the support they received from Taxjar at open-sourcing the project. 
 
