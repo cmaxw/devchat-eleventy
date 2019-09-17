@@ -47,7 +47,7 @@ The episode ends with a discussion about what it’s like being a full-time open
 
 - Titus Wormer
 
-**Sponsors  **
+**Sponsors**
 
 - [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 - [Adventures in Angular](https://devchat.tv/adv-in-angular/)
