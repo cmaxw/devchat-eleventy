@@ -727,7 +727,8 @@ blockquote {
 .header-middle {
   padding: 20px 0; }
   .header-middle .banner-img {
-    text-align: center; }
+    text-align: center;
+    max-width: 90%; }
   .header-middle.v2 {
     background: #d72924;
     padding: 4px 0;
