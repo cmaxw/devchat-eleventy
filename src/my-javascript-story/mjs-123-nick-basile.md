@@ -50,7 +50,6 @@ Finally Nick talks about how he spends his life outside work in Austin, which no
 * <https://neilpatel.com/ubersuggest/>
 * [ActiveCampaign](https://www.activecampaign.com)
 
-
 **Nick Basile:**
 
 * [How It Actually Works](https://www.howitactuallyworks.com/welcome)
