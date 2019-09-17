@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: iphreaks
-title: 'iPS 271: The Compass to iOS Developement with Brian Voong'
+title: 'iPS 271: The Compass to iOS Development with Brian Voong'
 date: 2019-09-10T10:00:00.136Z
 episode_number: '271'
 duration: '46:33'
