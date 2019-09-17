@@ -42,7 +42,7 @@ The episode ends with the panel listing all the major benefits that an enterpris
 
 - Tomas Trajan
 
-# Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs
+## _Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
 
 **Sponsors**
 
