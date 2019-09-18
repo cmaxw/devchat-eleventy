@@ -11,6 +11,7 @@ tags:
   - podcast
 ---
 **Episode Summary**
+
 In this episode of The iPhreaks Show Andrew Madsen and Evan Stone discuss the recent Apple Event and the announcements made there. To start, the panel discusses their thoughts one the event as a whole. The panel was surprised that the event was very product-driven with only a few mentions of software changes. Andrew did notice that when they did talk about the software they introduced it with the hardware as one product, which he enjoyed as a more holistic approach than in previous years. 
 
 Apple Arcade and the games they featured is the next topic the panel discusses. Andrew explains that he is not much into gaming but even his interested was piqued by the games they demonstrated. Evan wonders how the games will translate across platforms. He is especially interested in how they will translate to the Apple TV. 
