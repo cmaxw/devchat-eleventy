@@ -3,6 +3,24 @@ title: What Really Makes a 10x Engineer
 author: charles-max-wood
 date: 2019-08-16 8:00:00
 image: /images/uploads/unicorn.jpg
+question1: What is a 10x Engineer?
+answer1: In theory a 10x Engineer would be 10 times as productive as a regular engineer. However, because measuring productivity is hard, it could be generalized as a highly experienced and fast-moving engineer.
+question2: Why are people talking about 10x engineers?
+answer2: >
+  [Shekhar Kirani](https://twitter.com/skirani) posted on [Twitter](https://twitter.com/skirani/status/1149302828420067328) a list of 11 qualities of a 10x Engineer that many people reacted negatively to.
+question3: What are the top qualities of a 10x Engineer?
+answer3: |
+  * Quality communication
+  * Consistent learning
+  * Easily understood code
+  * Writing tests
+  * Good Googling skills
+  * Expertise in a niche
+  * Good mentoring skills
+  * Alignment with culture, values, and mission
+  * Writing code in their spare time
+  * Enjoy working with other 10x engineers
+  * Identification of problems and proposed solutions
 tags:
   - blog
   - 10x-engineer
@@ -88,7 +106,7 @@ This directly contradicts Kirani's point 7:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">7. 10x engineers rarely look at help documentation of classes or methods. They know it in memory and can recall from memory. They write code at the same ease as writing English. No breaks, no pauce, just type.</p>&mdash; Shekhar Kirani (@skirani) <a href="https://twitter.com/skirani/status/1149302842504540165?ref_src=twsrc%5Etfw">July 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## 6. "10x engineer"s Pick a Niche and Fill It
+## 6. 10x engineers Pick a Niche and Fill It
 
 The reason you hire "10x engineers" is because they're good at something. They reason you hire 1x-2x engineers is because you see the potential in them to become "10x engineers".
 
