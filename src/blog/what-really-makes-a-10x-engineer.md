@@ -6,21 +6,9 @@ image: /images/uploads/unicorn.jpg
 question1: What is a 10x Engineer?
 answer1: In theory a 10x Engineer would be 10 times as productive as a regular engineer. However, because measuring productivity is hard, it could be generalized as a highly experienced and fast-moving engineer.
 question2: Why are people talking about 10x engineers?
-answer2: >
-  [Shekhar Kirani](https://twitter.com/skirani) posted on [Twitter](https://twitter.com/skirani/status/1149302828420067328) a list of 11 qualities of a 10x Engineer that many people reacted negatively to.
+answer2: Shekhar Kirani posted on Twitter a list of 11 qualities of a 10x Engineer that many people reacted negatively to primarily due to it characterizing a developer that most developers don't consider to be a skilled worker.
 question3: What are the top qualities of a 10x Engineer?
-answer3: |
-  * Quality communication
-  * Consistent learning
-  * Easily understood code
-  * Writing tests
-  * Good Googling skills
-  * Expertise in a niche
-  * Good mentoring skills
-  * Alignment with culture, values, and mission
-  * Writing code in their spare time
-  * Enjoy working with other 10x engineers
-  * Identification of problems and proposed solutions
+answer3: Quality communication, Consistent learning, Easily understood code, Writing tests, Good Googling skills, Expertise in a niche, Good mentoring skills, Alignment with culture, values, and mission, Writing code in their spare time, Enjoy working with other 10x engineers, Identification of problems and proposed solutions
 tags:
   - blog
   - 10x-engineer

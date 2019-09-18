@@ -25,13 +25,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["adv_in_angular", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "adventures-in-blockchain" # Used in routes, e.g., /admin/collections/blog
     label: "Adventures in Blockchain" # Used in the UI
@@ -50,13 +50,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["adventures_in_blockchain", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "adventures-in-devops" # Used in routes, e.g., /admin/collections/blog
     label: "Adventures in Devops" # Used in the UI
@@ -75,13 +75,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["adventures_in_devops", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
    sortableFields: ["title", "date", "episode_number"]
   - name: "adventures-in-dotnet" # Used in routes, e.g., /admin/collections/blog
     label: "Adventures in .NET" # Used in the UI
@@ -100,13 +100,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["adventures_in_dotnet", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "data-therapy" # Used in routes, e.g., /admin/collections/blog
     label: "Data Therapy" # Used in the UI
@@ -125,13 +125,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["data_therapy", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "dev-ed" # Used in routes, e.g., /admin/collections/blog
     label: "Dev Ed Podcast" # Used in the UI
@@ -150,13 +150,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["dev_ed", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "dev-rev" # Used in routes, e.g., /admin/collections/blog
     label: "The Dev Rev" # Used in the UI
@@ -175,13 +175,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["dev_rev", "video", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "elixir-mix" # Used in routes, e.g., /admin/collections/blog
     label: "Elixir Mix" # Used in the UI
@@ -200,13 +200,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["elixir_mix", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "freelancers" # Used in routes, e.g., /admin/collections/blog
     label: "The Freelancers' Show" # Used in the UI
@@ -225,13 +225,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["freelancers", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "iphreaks" # Used in routes, e.g., /admin/collections/blog
     label: "iPhreaks" # Used in the UI
@@ -250,13 +250,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["iphreaks", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "js-jabber" # Used in routes, e.g., /admin/collections/blog
     label: "JavaScript Jabber" # Used in the UI
@@ -275,13 +275,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["js_jabber", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "my-angular-story" # Used in routes, e.g., /admin/collections/blog
     label: "My Angular Story" # Used in the UI
@@ -300,13 +300,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["my_angular_story", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "my-javascript-story" # Used in routes, e.g., /admin/collections/blog
     label: "My JavaScript Story" # Used in the UI
@@ -325,13 +325,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["my_javascript_story", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "my-ruby-story" # Used in routes, e.g., /admin/collections/blog
     label: "My Ruby Story" # Used in the UI
@@ -350,13 +350,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["my_ruby_story", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "rails-clips" # Used in routes, e.g., /admin/collections/blog
     label: "Rails Clips" # Used in the UI
@@ -375,13 +375,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["rails_clips", "video", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "react-native-radio" # Used in routes, e.g., /admin/collections/blog
     label: "React Native Radio" # Used in the UI
@@ -400,13 +400,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["react_native_radio", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "react-round-up" # Used in routes, e.g., /admin/collections/blog
     label: "React Round Up" # Used in the UI
@@ -425,13 +425,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["react_round_up", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "remote-conf-talks" # Used in routes, e.g., /admin/collections/blog
     label: "Remote Conference Talks" # Used in the UI
@@ -450,13 +450,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["remote_conf_talks", "video", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "ruby-rogues" # Used in routes, e.g., /admin/collections/blog
     label: "Ruby Rogues" # Used in the UI
@@ -475,13 +475,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["ruby_rogues", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "sustain-our-software" # Used in routes, e.g., /admin/collections/blog
     label: "Sustain Our Software" # Used in the UI
@@ -500,13 +500,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["sustain_our_software", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "teachmetocode" # Used in routes, e.g., /admin/collections/blog
     label: "Teach Me To Code Podcast" # Used in the UI
@@ -525,13 +525,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["teachmetocode", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "sustain-our-software" # Used in routes, e.g., /admin/collections/blog
     label: "Sustain Our Software" # Used in the UI
@@ -550,13 +550,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["sustain_our_software", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "tmtc-screencasts" # Used in routes, e.g., /admin/collections/blog
     label: "Teach Me To Code Screencasts" # Used in the UI
@@ -575,13 +575,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["tmtc_screencasts", "video", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "views-on-vue" # Used in routes, e.g., /admin/collections/blog
     label: "Views on Vue" # Used in the UI
@@ -600,13 +600,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["views_on_vue", "podcast"] }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
@@ -622,11 +622,11 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", default: ["blog"]}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Question #1", name: "question1", widget: "string", required: false}
-      - {label: "Answer #1", name: "answer1", widget: "markdown", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
       - {label: "Question #2", name: "question2", widget: "string", required: false}
-      - {label: "Answer #2", name: "answer2", widget: "markdown", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
       - {label: "Question #3", name: "question3", widget: "string", required: false}
-      - {label: "Answer #3", name: "answer3", widget: "markdown", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
-      - {label: "Answer #4", name: "answer4", widget: "markdown", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]

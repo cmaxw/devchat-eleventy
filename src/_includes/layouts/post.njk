@@ -84,67 +84,65 @@ layout: layouts/base.njk
 							</div>
 							<div class="entry-content">
 								{{ content | safe }}
-								{%- if question1 || question2 || question3 || question4 -%}
+								{%- if question1 -%}
 								<h2>FAQ</h2>
-									{%- if question1 -%}
 									<h3>{{question1 | safe}}</h3>
 									<div>{{answer1 | safe}}</div>
-									{%- endif -%}
 									{%- if question2 -%}
 									<h3>{{question2 | safe}}</h3>
-									<div>{{answer1 | safe}}</div>
+									<div>{{answer2 | safe}}</div>
 									{%- endif -%}
 									{%- if question3 -%}
 									<h3>{{question3 | safe}}</h3>
-									<div>{{answer1 | safe}}</div>
+									<div>{{answer3 | safe}}</div>
 									{%- endif -%}
 									{%- if question4 -%}
 									<h3>{{question4 | safe}}</h3>
 									<div>{{answer4 | safe}}</div>
 									{%- endif -%}
 									{%- if question5 -%}
-									<h3>{{question4 | safe}}</h3>
-									<div>{{answer4 | safe}}</div>
+									<h3>{{question5 | safe}}</h3>
+									<div>{{answer5 | safe}}</div>
 									{%- endif -%}
 
 									<script type="application/ld+json">
 									{
 									"@context": "https://schema.org",
 									"@type": "FAQPage",
-									"mainEntity": [{%- if question1 -%}{
+									"mainEntity": [{
 									"@type": "Question",
-									"name": "{{question1}}",
+									"name": "{{question1 | safe}}",
 									"acceptedAnswer": {
 									"@type": "Answer",
-									"text": "{{answer1}}"
+									"text": "{{answer1 | safe}}"
 									}
-									}, {%- endif -%}{%- if question2 -%}{
+									}, {%- if question2 -%}{
 									"@type": "Question",
-									"name": "{{question2}}",
+									"name": "{{question2 | safe}}",
 									"acceptedAnswer": {
 									"@type": "Answer",
-									"text": "{{answer2}}"
+									"text": "{{answer2 | safe}}"
 									}
 									}, {%- endif -%}{%- if question3 -%}{
 									"@type": "Question",
-									"name": "{{question3}}",
+									"name": "{{question3 | safe}}",
 									"acceptedAnswer": {
 									"@type": "Answer",
-									"text": "{{answer3}}"
+									"text": "{{answer3 | safe}}"
 									}
 									}, {%- endif -%}{%- if question4 -%}{
 									"@type": "Question",
-									"name": "{{question4}}",
+									"name": "{{question4 | safe}}",
 									"acceptedAnswer": {
 									"@type": "Answer",
-									"text": "{{answer4}}"
+									"text": "{{answer4 | safe}}"
 									}
 									}, {%- endif -%}{%- if question5 -%}{
 									"@type": "Question",
-									"name": "{{question5}}",
+									"name": "{{question5 | safe}}",
 									"acceptedAnswer": {
 									"@type": "Answer",
-									"text": "{{answer5}}"
+									"text": "{{answer5 | safe}}"
 									}
 									}{%- endif -%}]
 									}
