@@ -121,28 +121,28 @@ layout: layouts/base.njk
 									"@type": "Answer",
 									"text": "{{answer1 | safe}}"
 									}
-									}, {%- if question2 -%}{
+									}{%- if question2 -%}, {
 									"@type": "Question",
 									"name": "{{question2 | safe}}",
 									"acceptedAnswer": {
 									"@type": "Answer",
 									"text": "{{answer2 | safe}}"
 									}
-									}, {%- endif -%}{%- if question3 -%}{
+									}{%- endif -%}{%- if question3 -%}, {
 									"@type": "Question",
 									"name": "{{question3 | safe}}",
 									"acceptedAnswer": {
 									"@type": "Answer",
 									"text": "{{answer3 | safe}}"
 									}
-									}, {%- endif -%}{%- if question4 -%}{
+									}{%- endif -%}{%- if question4 -%}, {
 									"@type": "Question",
 									"name": "{{question4 | safe}}",
 									"acceptedAnswer": {
 									"@type": "Answer",
 									"text": "{{answer4 | safe}}"
 									}
-									}, {%- endif -%}{%- if question5 -%}{
+									}{%- endif -%}{%- if question5 -%}, {
 									"@type": "Question",
 									"name": "{{question5 | safe}}",
 									"acceptedAnswer": {
