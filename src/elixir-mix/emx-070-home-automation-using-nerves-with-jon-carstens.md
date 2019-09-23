@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: elixir-mix
-title: 'EMx 070: Home Automation Using Nerves with Jon Carstens'
+title: 'EMx 070: Home Automation Using Radio Frequencies with Jon Carstens'
 date: 2019-09-24T10:00:17.605Z
 episode_number: '070'
 duration: '38:03'
