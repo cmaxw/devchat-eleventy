@@ -32,22 +32,22 @@ They then move onto talking about techniques to help out developers when they ge
 
 Speaking on finding platforms to work with custom applications, Shopify, WordPress, Google pages, can be of great help if working on your own. As the applications get more complex, it can be advantageous to hire a professional. Finally, in terms of hiring expenses, do not compromise on quality, make sure the requirements are clear and really know what the person can offer. 
 
-## Panel 
+## Panel
 
-* Joe Eames
-* Brooke Avery
-* Jesse Sanders
-* Preston Lamb
-* Luis Hernandez
+* [Joe Eames](https://thinkster.io/)
+* [Brooke Avery](https://thinkster.io/)
+* [Jesse Sanders](http://briebug.com/)
+* [Preston Lamb](https://www.linkedin.com/in/pjlamb12/)
+* [Luis Hernandez](https://lambdaschool.com/about)
 
-Joined by special guest: **Tyler Leggett**
+Joined by special guest: [**Tyler Leggett**](https://zeroslopeevents.com/about/)****
 
 ## Sponsors
 
-* Thinkster.io
-* Adventures in .NET - Devchat.tv
-* Adventures in Angular - Devchat.tv
-* CacheFly
+* [Thinkster.io](https://thinkster.io/)
+* [Adventures in .NET - Devchat.tv](https://devchat.tv/adventures-in-dotnet/)
+* [Adventures in Angular - Devchat.tv](https://devchat.tv/adv-in-angular/)
+* [CacheFly](https://www.cachefly.com/)
 
 ## Links
 
