@@ -36,7 +36,7 @@ Saverio Miroddi joins Charles Max Wood on this week's  My Ruby Story.
 
 * [Terraform Providers - GitHub](<https://github.com › saveriomiroddi › org=terraform-providers>)
 * [saveriomiroddi (Saverio Miroddi) · GitHub](<https://github.com › saveriomiroddi>)
-* [The Go Programming Language](https://golang.org)
+* [goby-lang/goby](<https://github.com › goby-lang › goby>)
 
 **Charles Max Wood**
 
