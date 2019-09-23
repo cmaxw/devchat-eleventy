@@ -34,13 +34,14 @@ Saverio Miroddi joins Charles Max Wood on this week's  My Ruby Story.
 
 **Saverio Miroddi**
 
-* 
+* [Terraform Providers - GitHub](<https://github.com › saveriomiroddi › org=terraform-providers>)
+
 * [The Go Programming Language](https://golang.org)
 
 **Charles Max Wood**
 
 * [Superfans by Pat Flynn](https://www.amazon.com/Superfans-Stand-Tribe-Successful-Business/dp/1949709469)
-* <https://meetings.hubspot.com/chuck27/15-minute-listener-call>
-* Running
+* Reach out to Charles Max Wood at <https://meetings.hubspot.com/chuck27/15-minute-listener-call>
+* Running with the right running gear
 
 - - -
