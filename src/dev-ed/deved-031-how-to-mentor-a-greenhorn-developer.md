@@ -37,7 +37,7 @@ While talking about dealing with developers who write bad code, panelists mentio
 * [Brooke Avery](https://thinkster.io/)
 * [Luis Hernandez](https://lambdaschool.com/about)
 
-Joined by special guest: [**Joe Skeen**](https://www.linkedin.com/in/josephskeenjr)****
+Joined by special guest: [**Joe Skeen**](https://www.linkedin.com/in/josephskeenjr)
 
 ## Sponsors
 
@@ -51,7 +51,7 @@ Joined by special guest: [**Joe Skeen**](https://www.linkedin.com/in/josephskeen
 * [Joe’s Twitter](https://twitter.com/joeskeenjr)
 * [Joe on Medium](https://medium.com/@joeskeen)
 
-##  Picks
+## Picks
 
  Luis Hernandez:
 
