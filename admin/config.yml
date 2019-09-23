@@ -82,7 +82,7 @@ collections:
       - {label: "Answer #3", name: "answer3", widget: "string", required: false}
       - {label: "Question #4", name: "question4", widget: "string", required: false}
       - {label: "Answer #4", name: "answer4", widget: "string", required: false}
-   sortableFields: ["title", "date", "episode_number"]
+    sortableFields: ["title", "date", "episode_number"]
   - name: "adventures-in-dotnet" # Used in routes, e.g., /admin/collections/blog
     label: "Adventures in .NET" # Used in the UI
     folder: "src/adventures-in-dotnet" # The path to the folder where the documents are stored
