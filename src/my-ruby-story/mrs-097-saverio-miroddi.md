@@ -42,9 +42,9 @@ Saverio has written several articles such as [Saverio Miroddi’s article, “An
 
 **Saverio Miroddi**
 
-* [Terraform Providers - GitHub](<https://github.com › saveriomiroddi › org=terraform-providers>)
-* [saveriomiroddi (Saverio Miroddi) · GitHub](<https://github.com › saveriomiroddi>)
-* [goby-lang/goby](<https://github.com › goby-lang › goby>)
+* Terraform Providers - GitHub
+* saveriomiroddi (Saverio Miroddi) · GitHub
+* goby-lang/goby
 
 **Charles Max Wood**
 
