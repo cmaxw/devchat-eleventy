@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: ruby-rogues
 title: 'RR 431: Building a Consulting Business with Todd Kaufman'
-date: 2019-09-24T06:28:52.974Z
+date: 2019-09-24T10:00:52.974Z
 episode_number: '431'
 duration: '1:08:29'
 audio_url: 'https://media.devchat.tv/ruby-rogues/RR_431_Todd_Kaufman.mp3'
