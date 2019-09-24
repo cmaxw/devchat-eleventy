@@ -14,7 +14,7 @@ tags:
 
 LINQ is something .NET developers use on a daily basis. The panel starts by giving a little background on LINQ. LINQ was introduced to the .NET framework 3.5 with the intent of providing a better way of dealing with data. The panel explains what they did before using LINQ and what it was like making the switch. 
 
-LINQ has two different syntaxes, the query syntax, and the lambda syntax. The panel discusses the similarities between query syntax and sequel. They explain why they didn’t just use sequel. Because sequel and query were so similar, the panel both started by using query. They share different ways to get used to the query syntax and the lambda syntax. 
+LINQ has two different syntaxes, the query syntax, and the lambda syntax. The panel discusses the similarities between query syntax and SQL. They explain why they didn’t just use SQL. Because SQL and query were so similar, the panel both started by using query. They share different ways to get used to the query syntax and the lambda syntax. 
 
 One benefit of using LING is that it is supported in all .NET languages and has been ported over to other languages such as PHP, JavaScript, and Typescript. The panel discusses using in it Angular Typescript and the similarities between it and C#. 
 
@@ -22,7 +22,7 @@ The panel reveals that there are a number of features in .NET that were built to
 
 The panel considers why some programmers are turned off by LINQ. They suppose it is because of its foreign look and that it is not highly structured. Also, LINQ has a lot of syntactic sugar, doing a lot of stuff for you behind the scenes. The panel discusses ways LINQ simplifies workflow and shares tips for using LINQ to simply code. 
 
-Programmers often complain that using LINQ to objects or LINQ to entities and chaining LINQ extensions is an improper use of LINQ.  The panel explains how using LINQ this way makes the code cleaner and more readable. The panel compares the readability of LINQ statements to sequel statements. They explain why LINQ is easier to read and understand.
+Programmers often complain that using LINQ to objects or LINQ to entities and chaining LINQ extensions is an improper use of LINQ.  The panel explains how using LINQ this way makes the code cleaner and more readable. The panel compares the readability of LINQ statements to SQL statements. They explain why LINQ is easier to read and understand.
 
 The panel shares their tips and tricks for using LINQ statements and deferred executions. They discuss the possible use cases for using deferred executions. They also consider the downsides and gotchas to watch for when using deferred executions. 
 
