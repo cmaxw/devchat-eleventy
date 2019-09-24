@@ -9,9 +9,9 @@ audio_url: 'https://media.devchat.tv/my-ruby-story/MRS_097_Saverio_Miroddi.mp3'
 tags:
   - my_ruby_story
   - podcast
-  - Daniel Pritchett
+  - Saverio Miroddi
 ---
-Saverio Miroddi joins Charles Max Wood on this week's  My Ruby Story. 
+Saverio Miroddi joins Charles Max Wood on this week's My Ruby Story. Saverio is a systems engineer and a backend programmer at Ticketsolve.
 
 **Host:** Charles Max Wood
 
@@ -29,6 +29,8 @@ Saverio Miroddi joins Charles Max Wood on this week's  My Ruby Story.
 * [RR 381: “Ruby GUI Development” with Saverio Miroddi](https://devchat.tv/ruby-rogues/rr-381-ruby-gui-development-with-saverio-miroddi/)
 * [saveriomiroddi (Saverio Miroddi) · GitHub](<https://github.com › saveriomiroddi>)
 * <https://saveriomiroddi.github.io>
+* [Saverio's Twitter](https://twitter.com/64kramsystem)
+* [Savario's Blog](https://saveriomiroddi.github.io)
 
 ## Picks
 
