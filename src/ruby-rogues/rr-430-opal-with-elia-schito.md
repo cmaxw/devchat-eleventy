@@ -21,7 +21,7 @@ tags:
 ---
 ### **Episode Summary**
 
-Today’s guest Elia Schito has been a Ruby developer for 12+ years. During his career he looked for Ruby to JavaScript translators and found Opal.
+Today’s guest Elia Schito has been a Ruby developer for 12+ years and works for Nebulab. During his career he looked for Ruby to JavaScript translators and found Opal.
 
 The panel discusses where Opal belongs within an app and when the compilation into JavaScript occurs. The main reason a person would want to use Opal is to avoid writing in JavaScript.
 
@@ -73,6 +73,7 @@ With special guest: Elia Schito
 *   [Clearwater](https://github.com/clearwater-rb/clearwater)
 *   [Reactive](http://reactivex.io/)
 *   [Volt framework](http://voltframework.com/)
+*   [Nebulab](https://nebulab.it/)
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 
@@ -104,5 +105,6 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 *   Follow Elia on [his website](https://elia.schito.me/)
 *   [Explaining Postmodernism](https://www.amazon.com/Explaining-Postmodernism-Skepticism-Socialism-Rousseau/dp/0983258406)
+*   [Texmate]
 
 <!-- Docs to Markdown version 1.0β17 -->
