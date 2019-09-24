@@ -15,9 +15,7 @@ Saverio Miroddi joins Charles Max Wood on this week's My Ruby Story. Saverio is 
 
 Saverio fell in love with programming when he was 7 years old with COmmodere 64. He didn't follow up on it however until later when he was working as a consultant working as a System Administrator where he taught himself JavaScript. Later he taught himself Ruby on the job when he was working in London. 
 
-Saverio has written several articles such as [Saverio Miroddi’s article, “An overview of Desktop Ruby GUI Development in 2018”](https://saveriomiroddi.github.io/An-overview-of-ruby-gui-development-in-2018/) and [Debugging a live/stuck Ruby process](https://saveriomiroddi.github.io/)
-
-
+Saverio has written several articles such as [Saverio Miroddi’s article, “An overview of Desktop Ruby GUI Development in 2018”](https://saveriomiroddi.github.io/An-overview-of-ruby-gui-development-in-2018/) and [Debugging a live/stuck Ruby process](https://saveriomiroddi.github.io/).
 
 **Host:** Charles Max Wood
 
