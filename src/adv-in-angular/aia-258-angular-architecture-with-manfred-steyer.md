@@ -49,7 +49,7 @@ The panel comes back to the other common mistake made with architecture which is
 
 - Manfred Steyer
 
-# Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs
+## _Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
 
 **Sponsors**
 
