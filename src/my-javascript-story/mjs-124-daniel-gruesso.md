@@ -11,7 +11,7 @@ tags:
   - podcast
   - Nick Basile
 ---
-This episode of My Ruby Story is coming to you live from OSCON. Joining Charles Max Wood is Daniel Gruesso from GitLab to talk about developing in the Open Source and the Developer Report. 
+This episode of My JavaScript Story is coming to you live from OSCON. Joining Charles Max Wood is Daniel Gruesso from GitLab to talk about developing in the Open Source and the Developer Report. 
 
 GitLab works with an open core model, Daniel talks about the trade - offs of having code open to public, the first of which is having everything up-to-date so any contributions made will work with the latest version. Daniel calls this the "bus-factor" where if one of the team members gets hit by a bus, the rest of the team will have everything to work with.
 
