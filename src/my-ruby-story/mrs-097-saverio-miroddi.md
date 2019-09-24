@@ -11,7 +11,9 @@ tags:
   - podcast
   - Saverio Miroddi
 ---
-Saverio Miroddi joins Charles Max Wood on this week's My Ruby Story. Saverio is a systems engineer and a backend programmer at Ticketsolve.
+Saverio Miroddi joins Charles Max Wood on this week's My Ruby Story. Saverio is a systems engineer and a backend programmer at Ticketsolve. 
+
+
 
 **Host:** Charles Max Wood
 
@@ -31,6 +33,7 @@ Saverio Miroddi joins Charles Max Wood on this week's My Ruby Story. Saverio is 
 * <https://saveriomiroddi.github.io>
 * [Saverio's Twitter](https://twitter.com/64kramsystem)
 * [Savario's Blog](https://saveriomiroddi.github.io)
+* [Ticketsolve](https://www.ticketsolve.com)
 
 ## Picks
 
