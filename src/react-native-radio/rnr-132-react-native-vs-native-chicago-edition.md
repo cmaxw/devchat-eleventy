@@ -20,12 +20,12 @@ tags:
 **Panel**
 
 - Peter Piekarczyk
-- Don Moro
+- Don Bora
 - Rob Volk
 
 **Summary**
 
-Don Moro, a Native developer, is being pushed by his company to cross-platform with React Native, he joins the podcast to ask the panel for advice. The panel begins by discussing the amount of code reuse. Rob and Peter explain the importance of using expo and how it can solve most problems. They share resources for Don to get started. The panel compares React Native and Native; what types of apps should be built with each. The considerations that should be made and the cost associated with cross platforming is discussed. The panel discusses Reason, React Native Web and Expo Web.
+Don Bora, a Native developer, is being pushed by his company to cross-platform with React Native, he joins the podcast to ask the panel for advice. The panel begins by discussing the amount of code reuse. Rob and Peter explain the importance of using expo and how it can solve most problems. They share resources for Don to get started. The panel compares React Native and Native; what types of apps should be built with each. The considerations that should be made and the cost associated with cross platforming is discussed. The panel discusses Reason, React Native Web and Expo Web.
 
 **Links**
 
@@ -39,7 +39,7 @@ Don Moro, a Native developer, is being pushed by his company to cross-platform w
 
 **Picks**
 
-**Don Moro:**
+**Don Bora:**
 
 - [When a Colleague is Grieving](https://hbr.org/2019/07/when-a-colleague-is-grieving)
 
