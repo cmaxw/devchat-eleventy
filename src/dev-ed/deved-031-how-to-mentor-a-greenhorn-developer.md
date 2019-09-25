@@ -69,4 +69,4 @@ Joe Eames:
 Joe Skeen:
 
 * [Dominion Companion](https://github.com/joeskeen/dominion-companion)
-* [Dominion Companion Randomizer](https://joeskeen.github.io/dominion-companion/randomizer)
+* [Dominion Companion Randomizer](https://joeskeen.github.io/dominion-companion)
