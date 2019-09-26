@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: views-on-vue
 title: 'VoV 082: Developer Tooling and Dev Setup for Working With Vue'
-date: 2019-10-01T10:00:00.000Z
+date: 2019-10-08T10:00:00.000Z
 episode_number: '82'
 duration: '1:01:56'
 audio_url: 'https://media.devchat.tv/viewsonvue/VoV_082_Panel.mp3'
