@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: views-on-vue
-title: 'Vov 082: Panelist'
+title: 'Vov 082: Developer Tooling and Dev Setup For Working With Vue'
 date: 2019-10-01T10:00:00.000Z
 episode_number: '82'
 duration: '1:01:56'
