@@ -20,7 +20,7 @@ tags:
   - Jest
   - TypeScript
 ---
-Mike Schutte is a fronted developer at TED conferences and was trained in code school at Turing in Colorado. He likes the idea of code as a communication tool, and in 2018 he gave a talk at RailsConf called _Stop Testing. Start Storytelling. _
+Mike Schutte is a fronted developer at TED Conferences and was trained in code school at Turing in Colorado. He likes the idea of code as a communication tool, and in 2018 he gave a talk at RailsConf called _Stop Testing. Start Storytelling. _
 
 Today the panel is discussing what Mike means by storytelling in testing. In order to combat the hesitancy to start testing, Mike believes that changing your mindset to think away from the implementation details while deploying these tests can help them be more efficient. In short, if the test isn’t readable by a non-developer, then it’s not telling a story, it’s just writing code. The test is almost the first point of contact away from the source code, so if that’s unwieldy in a test it will be hard to use elsewhere in the application. We have an intuition for stories, so use tests in order to communicate the intent of what the application should do under certain conditions. If it’s hard to set that up in a succinct way then maybe it should be written differently.
 
