@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: sustain-our-software
 title: 'SOS: 012 Funding of open source communities with Benjamin Nickolls'
-date: 2019-09-27T22:00:00.000Z
+date: 2019-09-27T10:00:00.000Z
 episode_number: '012'
 duration: '48:36'
 audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_012_Benjamin_Nickolls.mp3'
