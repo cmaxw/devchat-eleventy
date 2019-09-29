@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: sustain-our-software
-title: 'SOS: 012 Funding of open source communities with Benjamin Nickolls'
+title: 'SOS: 012 Funding of Open Source Communities with Benjamin Nickolls'
 date: 2019-10-01T10:00:00.000Z
 episode_number: '012'
 duration: '48:36'
@@ -13,7 +13,7 @@ tags:
 ---
 ## Episode Summary
 
-In this episode of the Sustain Our Software podcast, Benjamin Nickolls talks with the panelists about the potential for an open source community that is self-sustaining. Benjamin helped create Octobox, a notification system for GitHub, which helps filter messages that one receives through github.
+In this episode of the Sustain Our Software podcast, Benjamin Nickolls talks with the panelists about the potential for an open source community that is self-sustaining. Benjamin helped create Octobox, a notification system for GitHub, which helps filter messages that one receives through Github.
 
 Benjamin and his partner created Octobox hoping it would be a model of a sustainable open source project, and after 9 months of working on it full time they have been able to step away from it as it continues to pay for its own hosting and software development. The money that they received from the community was donated back into the community to be able to experiment with paying for development in the open source crowd. There are still times when they need to go back in and maintain it, but for the most part it is a self sustaining software.
 
@@ -51,9 +51,9 @@ Joined by special guest: [Benjamin Nickolls](https://www.linkedin.com/in/benjamu
 
 [Libraries.io](https://libraries.io/)
 
-[Save Our Software on Twitter](https://twitter.com/sos_opensource)
+[SOS Twitter](https://twitter.com/sos_opensource)
 
-[Save Our Software on Facebook ](https://www.facebook.com/Sustain-Our-Software-SOS-857471391289849/)
+[SOS Facebook ](https://www.facebook.com/Sustain-Our-Software-SOS-857471391289849/)
 
 ## Picks
 
