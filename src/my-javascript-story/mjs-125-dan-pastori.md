@@ -13,6 +13,10 @@ tags:
 ---
 On this episode of My JavaScript Story is Charles talks to Dan Pastori, Co-Founder, Software Architect at 521 Dimensions. 
 
+Charles asks about Dan's average day and what his life looks like before diving into his coding journey. Dan talks about how he got into web development. Dan taught himself PHP and JavaScript. 
+
+Charles talks about the Views on Vue episode Dan was on [VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori](<VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori>), and wants to know how Dan got into Vue. Dan compares learning times of Vue and Angular and mentions he learned Vue in a week as opposed to the months he spent learning Angular.
+
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:** Dan Pastori
