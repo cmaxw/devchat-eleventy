@@ -45,10 +45,7 @@ David has been coding since he was 13 years old. He got a Ph.D. in Cinema Studie
 * [Nikon D5600 Digital SLR Camera](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d5600.html)
 * [RØDE Microphones](https://www.rode.com/microphones/reporter)
 
-**David A. Black**
 
-* 
-* 
 
 
 
