@@ -17,7 +17,7 @@ Charles asks about Dan's average day and what his life looks like before diving 
 
 Charles talks about the Views on Vue episode Dan was on [VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori](<VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori>), and wants to know how Dan got into Vue. Dan compares learning times of Vue and Angular and mentions he learned Vue in a week as opposed to the months he spent learning Angular.
 
-Dan talks about his involvement in the Vue community and the future of Vue as well as the projects he is currently working on. They finish off with picks. 
+Dan talks about his involvement in the Vue community and the future of Vue as well as the projects he is currently working on. Dan then talks about his future projects and plans. They finish off with picks. 
 
 **Host:** Charles Max Wood
 
