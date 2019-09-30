@@ -41,3 +41,12 @@ Dan talks about his involvement in the Vue community and the future of Vue as we
 * <https://serversideup.net>
 
 ## Picks
+
+**Dan Pastori:**
+
+* Clean Code by Robert C. Martin 
+* Food Lab
+
+ **Charles Max Wood:**
+
+* Headliner App
