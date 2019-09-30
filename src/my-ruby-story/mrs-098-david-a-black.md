@@ -17,6 +17,8 @@ David has been coding since he was 13 years old. He got a Ph.D. in Cinema Studie
 
 
 
+
+
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:** David A. Black
