@@ -40,13 +40,15 @@ David has been coding since he was 13 years old. He got a Ph.D. in Cinema Studie
 
 ## Picks
 
+**Charles Max Wood**
+
+* 
+
 **David A. Black**
 
 * 
 * 
 
-**Charles Max Wood**
 
-* 
 
 - - -
