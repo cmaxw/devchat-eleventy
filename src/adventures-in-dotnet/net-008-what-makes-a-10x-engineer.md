@@ -24,9 +24,9 @@ Overall, Chuck believes these tweets are asinine because it’s impossible to me
 
 ## Sponsors
 
-* [iPhreaks - Devchat.tv](https://devchat.tv/iphreaks/)
-* [The Dev Rev - Devchat.tv](https://devchat.tv/dev-rev/)
-* [React Round Up - Devchat.tv](https://devchat.tv/react-round-up/)
+* [The Freelancers' Show](https://devchat.tv/freelancers/)
+* [Elixir Mix](https://devchat.tv/elixir-mix/)
+* [My Angular Story](https://devchat.tv/my-angular-story/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **Links**
