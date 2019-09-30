@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adventures-in-devops
-title: 'DevOps 12: Containerizing an Application'
+title: 'DevOps 012: Containerizing an Application'
 date: 2019-10-08T10:00:21.655Z
 episode_number: '12'
 duration: '46:42'
