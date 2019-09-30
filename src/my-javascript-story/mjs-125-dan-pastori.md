@@ -39,14 +39,15 @@ Dan talks about his involvement in the Vue community and the future of Vue as we
 * <https://avotoast.app/>
 * <https://github.com/521dimensions>
 * <https://serversideup.net>
+* [Dan's Twitter](https://twitter.com/danpastori)
 
 ## Picks
 
 **Dan Pastori:**
 
 * [Clean Code by Robert C. Martin ](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-* [The Food Lab: Better Home Cooking Through Science by Cherie Mason and J. Kenji López-Alt](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087)
+* [The Food Lab: Better Home Cooking Through Science by Cherie Mason and J. Kenji López-Alt](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087)****
 
- **Charles Max Wood:**
+**Charles Max Wood:**
 
 * [Headliner App](https://make.headliner.app)
