@@ -13,7 +13,7 @@ tags:
 ---
 David A. Black, Software Engineer IV at 2U, joins Charles Max Wood on this week's My Ruby Story. David A. Black has been a Ruby user for 19 years and has been writing books about Ruby for the last 14 years.
 
-David has been coding since he was 13 years old.
+David has been coding since he was 13 years old. He got a Ph.D. in Cinema Studies at New York University. 
 
 **Host:** Charles Max Wood
 
