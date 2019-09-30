@@ -11,7 +11,9 @@ tags:
   - podcast
   - David A. Black
 ---
-David A. Black  joins Charles Max Wood on this week's My Ruby Story. 
+David A. Black, Software Engineer IV at 2U, joins Charles Max Wood on this week's My Ruby Story. David A. Black has been a Ruby user for 19 years and has been writing books about Ruby for the last 14 years.
+
+David has been coding since he was 13 years old.
 
 **Host:** Charles Max Wood
 
@@ -27,7 +29,9 @@ David A. Black  joins Charles Max Wood on this week's My Ruby Story.
 ## Links
 
 * [RR 423: The Well-Grounded Rubyist with David A. Black & Joseph Leo III](https://devchat.tv/ruby-rogues/rr-423-the-well-grounded-rubyist-with-david-a-black-joseph-leo-iii/)
-* 
+* [David's Twitter](https://twitter.com/david_a_black)
+* [David's LinkedIn](https://www.linkedin.com/in/dablack/)
+* [2U](https://2u.com/)
 
 ## Picks
 
