@@ -9,7 +9,7 @@ audio_url: 'https://media.devchat.tv/my-ruby-story/MRS_098_David_A_Black.mp3'
 tags:
   - my_ruby_story
   - podcast
-  - Daniel Pritchett
+  - David A. Black
 ---
 David A. Black  joins Charles Max Wood on this week's My Ruby Story. 
 
