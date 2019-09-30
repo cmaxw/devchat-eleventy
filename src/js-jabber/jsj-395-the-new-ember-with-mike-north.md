@@ -34,99 +34,77 @@ They move on to talk about the availability of third party solutions with Ember.
 
 The last topic discussed in this show is the importance of developer education. LinkedIn looks at employment numbers and the rate at which new jobs open, and software engineering is growing like crazy and will likely continue to grow.The rate at which new people are graduating with computer science and programming degrees, as well as those from unconventional backgrounds, is not keeping up with the number of jobs. This means that there will be fewer senior people spread across bigger groups of developers with less experience. The panel agrees that it is the responsibility of people who have been around or learned something period to pass on the knowledge because the more knowledge is passed on, the more stable things will remain as seniors become more scarce. It is also important for companies to level up junior developers. They conclude by talking about tools available for people who want to learn more about Ember Octane, and Mike makes an open request to the JS community. 
 
-
 ### **Panelists**
 
-
-
-*   Charles Max Wood
-*   Steve Emmerich
-*   Chris Ferdinandi
-*   Aimee Knight
-*   AJ O’Neal
-*   Christopher Buecheler
+* Charles Max Wood
+* Steve Emmerich
+* Chris Ferdinandi
+* Aimee Knight
+* AJ O’Neal
+* Christopher Buecheler
 
 With special guest: Mike North
 
-
 ## **Sponsors**
 
-
-
-*   [React Native Radio](https://devchat.tv/react-native-radio/)
-*   [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
-*   [Dev Ed Podcast](https://devchat.tv/dev-ed/)
+* [React Native Radio](https://devchat.tv/react-native-radio/)
+* [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
+* [Dev Ed Podcast](https://devchat.tv/dev-ed/)
 
 **Links**
 
-
-
-*   [Ember](https://emberjs.com/)
-*   [Frontend Masters](https://frontendmasters.com/)
-*   [IE8](https://en.wikipedia.org/wiki/Internet_Explorer_8)
-*   [Ember Octane](https://emberjs.com/editions/octane/)
-*   [Sprout Core](https://sproutcore.com/)
-*   [TypeScript](https://www.typescriptlang.org/)
-*   [ES6](http://es6-features.org/)
-*   [Lodash](https://lodash.com/) 
-*   [Mocha](https://mochajs.org/)
-*   [Backstop.js](https://garris.github.io/BackstopJS/) 
-*   [Semver](https://www.npmjs.com/package/semver)
+* [Ember](https://emberjs.com/)
+* [Frontend Masters](https://frontendmasters.com/)
+* [IE8](https://en.wikipedia.org/wiki/Internet_Explorer_8)
+* [Ember Octane](https://emberjs.com/editions/octane/)
+* [Sprout Core](https://sproutcore.com/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [ES6](http://es6-features.org/)
+* [Lodash](https://lodash.com/) 
+* [Mocha](https://mochajs.org/)
+* [Backstop.js](https://garris.github.io/BackstopJS/) 
+* [Semver](https://www.npmjs.com/package/semver)
+* <https://twitter.com/thefalken/status/1177483501777473537>
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
-
 
 ### **Picks**
 
 **Chris Ferdinandi:**
 
-
-
-*   [Vanilla JS Academy](https://vanillajsacademy.com/), get 30% off with code ‘jsjabber’
-*   [leanweb.dev](https://leanweb.dev/)
+* [Vanilla JS Academy](https://vanillajsacademy.com/), get 30% off with code ‘jsjabber’
+* [leanweb.dev](https://leanweb.dev/)
 
 **Steve Emmerich:**
 
-
-
-*   [123 Magic](https://www.123magic.com/)
-*   [RGDK](https://findcollabs.com/project/reactive-game-development-kit-RT2BFWWXwrrD7ATH5SVo)
+* [123 Magic](https://www.123magic.com/)
+* [RGDK](https://findcollabs.com/project/reactive-game-development-kit-RT2BFWWXwrrD7ATH5SVo)
 
 **Aimee Knight:**
 
-
-
-*   [Recursion blog post](https://www.bigomega.dev/recursion)
-*   [Wholesome Provisions Protein Cereal](https://www.amazon.com/gp/product/B07G2LCDR3/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+* [Recursion blog post](https://www.bigomega.dev/recursion)
+* [Wholesome Provisions Protein Cereal](https://www.amazon.com/gp/product/B07G2LCDR3/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 
 **AJ O’Neal:**
 
-
-
-*   [Carby V2 by Insurrection Industries](https://ebay.to/2m2t5PY)
-*   [GameCube Mods](https://coolaj86.com/articles/the-gamecube-ultimate/)
+* [Carby V2 by Insurrection Industries](https://ebay.to/2m2t5PY)
+* [GameCube Mods](https://coolaj86.com/articles/the-gamecube-ultimate/)
 
 **Charles Max Wood:**
 
-
-
-*   [Nikon D5600](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d5600.html)
-*   [Rode Newsshooter](https://amzn.to/2ZO2NnL)
-*   [Viltrox light panel](https://amzn.to/2Lq4kaF)
-*   [Quest Nutrition pumpkin bars](https://amzn.to/2NfTcj5)
+* [Nikon D5600](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d5600.html)
+* [Rode Newsshooter](https://amzn.to/2ZO2NnL)
+* [Viltrox light panel](https://amzn.to/2Lq4kaF)
+* [Quest Nutrition pumpkin bars](https://amzn.to/2NfTcj5)
 
 **Christopher Buecheler:**
 
-
-
-*   Tool’s _Fear Inoculum _on [Apple Music](https://music.apple.com/us/album/fear-inoculum/1475686696), [Spotify](https://open.spotify.com/album/5a70H0qHGgEGXOVLYXamHd), and [Google Play](https://play.google.com/store/music/album/Fear_Inoculum?id=Bthpb2k2f2xykwollady6eujvta&hl=en_US)
+* Tool’s _Fear Inoculum _on [Apple Music](https://music.apple.com/us/album/fear-inoculum/1475686696), [Spotify](https://open.spotify.com/album/5a70H0qHGgEGXOVLYXamHd), and [Google Play](https://play.google.com/store/music/album/Fear_Inoculum?id=Bthpb2k2f2xykwollady6eujvta&hl=en_US)
 
 **Mike North:**
 
-
-
-*   [Github Universe](https://githubuniverse.com/)
-*   [Github Tracer Bench](https://github.com/TracerBench/tracerbench)
-*   Follow Mike [@mike-north on Github](https://github.com/mike-north), [@northm on LinkedIn](https://www.linkedin.com/in/northm/), and [@michaellnorth on Twitter](https://twitter.com/michaellnorth?lang=en)
+* [Github Universe](https://githubuniverse.com/)
+* [Github Tracer Bench](https://github.com/TracerBench/tracerbench)
+* Follow Mike [@mike-north on Github](https://github.com/mike-north), [@northm on LinkedIn](https://www.linkedin.com/in/northm/), and [@michaellnorth on Twitter](https://twitter.com/michaellnorth?lang=en)
 
 <!-- Docs to Markdown version 1.0β17 -->
