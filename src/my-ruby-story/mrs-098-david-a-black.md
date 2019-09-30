@@ -15,6 +15,8 @@ David A. Black, Software Engineer IV at 2U, joins Charles Max Wood on this week'
 
 David has been coding since he was 13 years old. He got a Ph.D. in Cinema Studies at New York University. 
 
+
+
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:** David A. Black
@@ -32,6 +34,9 @@ David has been coding since he was 13 years old. He got a Ph.D. in Cinema Studie
 * [David's Twitter](https://twitter.com/david_a_black)
 * [David's LinkedIn](https://www.linkedin.com/in/dablack/)
 * [2U](https://2u.com/)
+* [The Well-Grounded Rubyist: Covers Ruby 1.9.1 by David A. Black](https://www.amazon.com/Well-Grounded-Rubyist-Covers-Ruby-1-9-1/dp/1933988657)
+* [David A. Black Books](https://www.amazon.com/David-A.-Black/e/B001K7RPQO%3Fref=dbs_a_mng_rwt_scns_share)
+* <https://www.davidablack.net/>
 
 ## Picks
 
