@@ -13,16 +13,16 @@ tags:
 ---
 On this episode of My JavaScript Story is Charles talks to Dan Pastori, Co-Founder, Software Architect at 521 Dimensions. 
 
+**Host:** Charles Max Wood
+
+**Joined by Special Guest:** Dan Pastori
+
 # Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 * [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 * [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
 * [CacheFly](https://www.cachefly.com/)
-
-**Host:** Charles Max Wood
-
-**Joined by Special Guest:** Dan Pastori
 
 ## Links
 
@@ -31,3 +31,7 @@ On this episode of My JavaScript Story is Charles talks to Dan Pastori, Co-Found
 * <https://github.com/521dimensions/amplitudejs>
 * [521 Dimensions](https://521dimensions.com)
 * <https://avotoast.app/>
+* <https://github.com/521dimensions>
+* <https://serversideup.net>
+
+## Picks
