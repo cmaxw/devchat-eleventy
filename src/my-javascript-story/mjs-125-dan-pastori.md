@@ -32,7 +32,7 @@ Dan talks about his involvement in the Vue community and the future of Vue as we
 
 ## Links
 
-* [VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori](<VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori>)
+* [VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori](https://devchat.tv/views-on-vue/vov-012-re-using-vuejs-mixins-and-filtering-google-map-data-with-dan-pastori/)
 * [Dan's LinkedIn](https://www.linkedin.com/in/danpastori/)
 * <https://github.com/521dimensions/amplitudejs>
 * [521 Dimensions](https://521dimensions.com)
