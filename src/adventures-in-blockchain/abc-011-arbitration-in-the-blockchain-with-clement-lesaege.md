@@ -50,7 +50,7 @@ Clément finishes this week’s episode by introducing the two new exciting apps
 
 - Clément Lesaege
 
-**Sponsors  **
+**Sponsors**
 
 - [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 - [The Freelancers Show](https://devchat.tv/freelancers/)
