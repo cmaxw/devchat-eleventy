@@ -13,7 +13,7 @@ tags:
 ---
 David A. Black, Software Engineer IV at 2U, joins Charles Max Wood on this week's My Ruby Story. David A. Black has been a Ruby user for 19 years and has been writing books about Ruby for the last 14 years as well as  organizing conferences.
 
-David has been coding since he was 13 years old. He was looking at the computer section at the old bookstore Borders, in early November 2000 and stumbled into Ruby with the  Programming Ruby by Dave Thomas and Andy Hunt book.  Even though he got a Ph.D. in Cinema Studies at New York University and used his sabbatical to write the [The Well-Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-Covers-Ruby-1-9-1/dp/1933988657) book. David then quit his position as a professor to become a programmer. 
+David has been coding since he was 13 years old. He was introduced to Ruby in November 2000 when he was looking at the computer section at the old bookstore Borders and picked up  Programming Ruby book by Dave Thomas and Andy Hunt.  Even though he got a Ph.D. in Cinema Studies at New York University, David then used his sabbatical to write his own Ruby book, the [The Well-Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-Covers-Ruby-1-9-1/dp/1933988657). David then quit his position as a professor to become a full time professional programmer. 
 
 **Host:** Charles Max Wood
 
