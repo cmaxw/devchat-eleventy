@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adventures-in-blockchain
-title: 'ABC 011: Arbitration in the Blockchain with Clement Lesaege'
+title: 'ABC 011: Arbitration in Blockchain with Clement Lesaege'
 date: 2019-10-01T10:00:23.335Z
 episode_number: '011'
 duration: '39:31'
