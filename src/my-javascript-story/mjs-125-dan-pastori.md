@@ -15,7 +15,7 @@ On this episode of My JavaScript Story is Charles talks to Dan Pastori, Co-Found
 
 Charles asks about Dan's average day and what his life looks like before diving into his coding journey. Dan talks about how he got into web development. Dan taught himself PHP and JavaScript. 
 
-Charles talks about the Views on Vue episode Dan was on [VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori](<VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori>), and wants to know how Dan got into Vue. Dan compares learning times of Vue and Angular and mentions he learned Vue in a week as opposed to the months he spent learning Angular.
+Charles talks about the Views on Vue episode Dan was on [VoV 012: Re-using VueJS Mixins and Filtering Google Map Data with Dan Pastori](https://devchat.tv/views-on-vue/vov-012-re-using-vuejs-mixins-and-filtering-google-map-data-with-dan-pastori/) and wants to know how Dan got into Vue. Dan compares learning times of Vue and Angular and mentions he learned Vue in a week as opposed to the months he spent learning Angular.
 
 Dan talks about his involvement in the Vue community and the future of Vue as well as the projects he is currently working on. Dan then talks about his future projects and plans. They finish off with picks. 
 
