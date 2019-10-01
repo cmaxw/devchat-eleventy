@@ -46,7 +46,7 @@ Dan talks about his involvement in the Vue community and the future of Vue as we
 **Dan Pastori:**
 
 * [Clean Code by Robert C. Martin ](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-* [The Food Lab: Better Home Cooking Through Science by Cherie Mason and J. Kenji López-Alt](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087)****
+* [The Food Lab: Better Home Cooking Through Science by Cherie Mason and J. Kenji López-Alt](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087)
 
 **Charles Max Wood:**
 
