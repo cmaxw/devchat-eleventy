@@ -13,11 +13,9 @@ tags:
 ---
 David A. Black, Software Engineer IV at 2U, joins Charles Max Wood on this week's My Ruby Story. David A. Black has been a Ruby user for 19 years and has been writing books about Ruby for the last 14 years.
 
-David has been coding since he was 13 years old. He got a Ph.D. in Cinema Studies at New York University. 
+David has been coding since he was 13 years old. He got a Ph.D. in Cinema Studies at New York University and used his sabbatical to write the [The Well-Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-Covers-Ruby-1-9-1/dp/1933988657) book. 
 
-
-
-
+David then quit his position as a professor to become a programmer. 
 
 **Host:** Charles Max Wood
 
@@ -46,9 +44,5 @@ David has been coding since he was 13 years old. He got a Ph.D. in Cinema Studie
 
 * [Nikon D5600 Digital SLR Camera](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d5600.html)
 * [RØDE Microphones](https://www.rode.com/microphones/reporter)
-
-
-
-
 
 - - -
