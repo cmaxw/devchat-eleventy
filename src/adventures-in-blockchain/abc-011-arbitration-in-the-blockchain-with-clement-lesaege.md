@@ -9,6 +9,22 @@ audio_url: 'https://media.devchat.tv/adventures-in-blockchain/ABC_011_Clement_Le
 tags:
   - adventures_in_blockchain
   - podcast
+question1: What does Kleros do?
+answer1: >-
+  Kleros resolves disputes using a decentralized arbitration system and smart
+  contracts.
+question2: What is a smart contract?
+answer2: >-
+  Smart contracts are an agreement when something happens it there is a specific
+  outcome, all of which happens in a trustless and decentralized way.
+question3: How does Kleros work?
+answer3: ' Jurors are chosen at random, they then vote on the dispute and the smart contract carries out the verdict.'
+question4: Why Kleros chose to use a blockchain?
+answer4: >-
+  Clément explains that in the blockchain everything is transparent which helps
+  avoid bribery by the parties involved. Also, the smart contracts carry out the
+  sentence automatically, the cryptocurrency is moved around a soon as a verdict
+  has been reached by the jurors.
 ---
 In this episode of Adventures in Blockchain our panel is joined by a special guest. Clément Lesaege is a blockchain developer working at Kleros. Kleros resolves disputes using a decentralized arbitration system and smart contracts.  Clément shares some examples of how their smart contracts work with outside data. 
 
