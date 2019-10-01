@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: react-native-radio
-title: 'RNR 130: Permformance that Matters with Ram N'
+title: 'RNR 130: Performance that Matters with Ram N'
 date: 2019-08-13T10:00:36.984Z
 episode_number: '130'
 duration: '45:16'
