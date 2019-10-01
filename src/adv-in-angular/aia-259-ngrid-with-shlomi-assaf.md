@@ -45,7 +45,7 @@ The panel ends the episode by sharing information about next year's ng-conf. Tic
 
 - Shlomi Assaf
 
-# Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs
+## _Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
 
 **Sponsors**
 
