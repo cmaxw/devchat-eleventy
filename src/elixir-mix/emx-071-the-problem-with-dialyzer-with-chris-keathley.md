@@ -53,7 +53,7 @@ Chris uses Norm in all his opensource projects and in projects at work. He share
 
 - Chris Keathley
 
-**Sponsors  **
+**Sponsors**
 
 - [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
 - [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
