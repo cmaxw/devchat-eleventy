@@ -1,0 +1,83 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: hosts
+  size: 1
+  alias: host
+permalink: hosts/{{ host }}/
+---
+
+<section class="block-wrapper p-30">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-9">
+        <span class="col-lg-3 pr-10">
+          <img src="/images/hosts/{{ hosts[host].photo }}" class="rounded-circle" width="150" height="150">
+        </span>
+        <span class="col-lg-6 pr-10">
+          <span class="post-title md">{{ hosts[host].name }}</span>
+        </span>
+        <p class="host-bio">{{ hosts[host].bio }}</p>
+      </div>
+      <div class="col-lg-3">
+        <div class="widgets widgets-item">
+          <h3 class="widgets-title">
+            <span>On social</span>
+          </h3>
+
+          <ul class="ts-block-social-list">
+            {% if hosts[host]['website'] %}
+            <li class="ts-website">
+              <a href="{{hosts[host]['website']}}">
+                <i class="fa fa-globe"></i>
+                <b>Website</b>
+              </a>
+            </li>
+            {% endif %}
+            {% if hosts[host]['facebook'] %}
+            <li class="ts-facebook">
+              <a href="{{hosts[host]['facebook']}}">
+                <i class="fa fa-facebook"></i>
+                <b>Facebook </b>
+              </a>
+            </li>
+            {% endif %}
+            {% if hosts[host]['twitter'] %}
+            <li class="ts-twitter">
+              <a href="{{hosts[host]['twitter']}}">
+                <i class="fa fa-twitter"></i>
+                <b>Twitter </b>
+              </a>
+            </li>
+            {% endif %}
+            {% if hosts[host]['linkedin'] %}
+            <li class="ts-linkedin">
+              <a href="{{hosts[host]['linkedin']}}">
+                <i class="fa fa-linkedin"></i>
+                <b>LinkedIn</b>
+              </a>
+            </li>
+            {% endif %}
+            {% if hosts[host]['youtube'] %}
+            <li class="ts-youtube">
+              <a href="{{hosts[host]['youtube']}}">
+                <i class="fa fa-youtube"></i>
+                <b>YouTube</b>
+              </a>
+            </li>
+            {% endif %}
+            {% if hosts[host]['instagram'] %}
+            <li class="ts-instagram">
+              <a href="{{hosts[host]['instagram']}}">
+                <i class="fa fa-instagram"></i>
+                <b>Instagram</b>
+              </a>
+            </li>
+            {% endif %}
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
