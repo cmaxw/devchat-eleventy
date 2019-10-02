@@ -13,7 +13,7 @@ tags:
 ---
 David A. Black, Software Engineer IV at 2U, joins Charles Max Wood on this week's My Ruby Story. David A. Black has been a Ruby user for 19 years and has been writing books about Ruby for the last 14 years as well as  organizing conferences.
 
-David has been coding since he was 13 years old. He was introduced to Ruby in November 2000 when he was looking at the computer section at the old bookstore Borders and picked up  Programming Ruby book by Dave Thomas and Andy Hunt.  Even though he got a Ph.D. in Cinema Studies at New York University, David then used his sabbatical to write his own Ruby book, the [The Well-Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-Covers-Ruby-1-9-1/dp/1933988657). David then quit his position as a professor to become a full time professional programmer. 
+David has been coding since he was 13 years old. He was introduced to Ruby in November 2000 when he was looking at the computer section at the old bookstore Borders and picked up the book Programming Ruby by Dave Thomas and Andy Hunt. Five years later, David, who has a Ph.D. in Cinema Studies from New York University, resigned from a tenured professorship in the communication field to become a full-time programmer, trainer, and author. His book The Well-Grounded Rubyist is now in its third edition.
 
 **Host:** Charles Max Wood
 
@@ -32,7 +32,7 @@ David has been coding since he was 13 years old. He was introduced to Ruby in No
 * [David's Twitter](https://twitter.com/david_a_black)
 * [David's LinkedIn](https://www.linkedin.com/in/dablack/)
 * [2U](https://2u.com/)
-* [The Well-Grounded Rubyist: Covers Ruby 1.9.1 by David A. Black](https://www.amazon.com/Well-Grounded-Rubyist-Covers-Ruby-1-9-1/dp/1933988657)
+* [The Well-Grounded Rubyist: Covers Ruby 1.9.1 by David A. Black](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617295213.)
 * [David A. Black Books](https://www.amazon.com/David-A.-Black/e/B001K7RPQO%3Fref=dbs_a_mng_rwt_scns_share)
 * <https://www.davidablack.net/>
 
