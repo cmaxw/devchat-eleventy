@@ -4,7 +4,7 @@ podcast: views-on-vue
 title: 'VoV 082: Developer Tooling and Dev Setup for Working With Vue'
 date: 2019-10-08T10:00:00.000Z
 episode_number: '82'
-duration: '1:01:56'
+duration: '1:02:26'
 audio_url: 'https://media.devchat.tv/viewsonvue/VoV_082_Panel.mp3'
 image: /images/uploads/viewsonvue.jpg
 tags:
@@ -41,7 +41,7 @@ Finally the panelists share their preferences browser tooling for Vue projects i
 
 
 
-*   [The Freelancers Show](https://devchat.tv/freelancers/)
+*   [Tidelift] (https://tidelift.com/)
 *   [Sentry.io](https://sentry.io/) use code “devchat” for 2 months free
 *   [React Round Up](https://devchat.tv/react-round-up/) 
 *   [Elixir Mix](https://devchat.tv/elixir-mix/)
