@@ -11,7 +11,7 @@ tags:
   - podcast
   - Nick Basile
 ---
-On this episode of My JavaScript Story is Charles talks to Dan Pastori, Co-Founder, Software Architect at 521 Dimensions. 
+On this episode of My JavaScript Story, Charles talks to Dan Pastori, Co-Founder, Software Architect at 521 Dimensions. 
 
 Charles asks about Dan's average day and what his life looks like before diving into his coding journey. Dan talks about how he got into web development. Dan taught himself PHP and JavaScript. 
 
