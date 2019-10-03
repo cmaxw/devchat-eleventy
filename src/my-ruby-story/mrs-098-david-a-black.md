@@ -32,7 +32,7 @@ David has been coding since he was 13 years old. He was introduced to Ruby in No
 * [David's Twitter](https://twitter.com/david_a_black)
 * [David's LinkedIn](https://www.linkedin.com/in/dablack/)
 * [2U](https://2u.com/)
-* [The Well-Grounded Rubyist: Covers Ruby 1.9.1 by David A. Black](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617295213.)
+* [The Well-Grounded Rubyist: Covers Ruby 1.9.1 by David A. Black](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617295213/ref=dp_ob_image_bk)
 * [David A. Black Books](https://www.amazon.com/David-A.-Black/e/B001K7RPQO%3Fref=dbs_a_mng_rwt_scns_share)
 * <https://www.davidablack.net/>
 
