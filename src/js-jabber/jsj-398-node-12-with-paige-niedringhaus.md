@@ -10,6 +10,12 @@ image: /images/uploads/javascript_jabber_thumb.jpg
 tags:
   - js_jabber
   - podcast
+  - Node 12
+  - J.C. Hyatt
+  - Steve Edwards
+  - AJ O'Neal
+  - Paige Niedringhaus
+  - JavaScript
 question1: What are you most excited about in Node 12?
 answer1: >-
   EcmaScript support has been greatly improved,  so now things that previously
