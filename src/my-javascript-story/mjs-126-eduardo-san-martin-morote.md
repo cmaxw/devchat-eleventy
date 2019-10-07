@@ -9,9 +9,9 @@ audio_url: 'https://media.devchat.tv/my-js-story/MJS_126_Eduardo_San_Martin_Moro
 tags:
   - my_javascript_story
   - podcast
-  - Nick Basile
+  - Eduardo San Martin Morote
 ---
-In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Morote from Paris, France. Eduardo is a freelance developer, a core team member of Vue.js, and loves contributing to open source
+In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Morote from Paris, France. Eduardo is a freelance developer, a core team member of Vue.js, and loves contributing to open source.
 
 ## Sponsors
 
