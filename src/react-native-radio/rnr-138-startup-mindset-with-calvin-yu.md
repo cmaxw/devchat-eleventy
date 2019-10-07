@@ -9,6 +9,20 @@ audio_url: 'https://media.devchat.tv/reactnativeradio/RNR_138_Calvin_Yu.mp3'
 tags:
   - react_native_radio
   - podcast
+question1: What do you have to change mentally to work for a start up?
+answer1: >-
+  First, you have to realize that you don’t have all the answers and that it
+  takes a commitment. He also explains that because you don’t have all the
+  answers you will make a mistake, which means you need to be able to learn from
+  it and move on.
+question2: What technologies should you use when in a start up?
+answer2: >-
+  pick boring, old reliable technology for the parts of the app that don’t
+  matter.
+question3: Why does React Native make a great cross-platform mobile solution?
+answer3: ' React Native provides a great experience in the mobile platform, it allows you to give the users what they want.'
+question4: When should I use Flutter instead of React Native?
+answer4: Flutter is great for game design and custom UI
 ---
 In this episode of React Native Radio, Josh Justice interviews Calvin Yu. Calvin is a consultant mostly working with Ruby on Rails but also works with React Native and mobile development. He has quite the history of working with startups, all varying in size. Calvin shares what it was like working with startup companies. 
 
