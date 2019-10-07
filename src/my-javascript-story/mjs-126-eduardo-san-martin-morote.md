@@ -13,8 +13,6 @@ tags:
 ---
 In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Morote. Eduardo is a freelance developer, a core team member of Vue.js, and loves contributing to open source
 
-
-
 ## Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
@@ -25,8 +23,6 @@ In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Mo
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:** Eduardo San Martin Morote
-
-
 
 ## Links
 
@@ -39,17 +35,13 @@ In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Mo
 
 ## Picks
 
- ****
-
 **Eduardo San Martin Morote**
 
-* ****[**Tajin**](https://www.tajin.com)****
-* ****[**Eduardo's GitHub**](https://github.com/posva) ****
-
-****
+* [Tajin](https://www.tajin.com) ****
+* [Eduardo's GitHub](https://github.com/posva)
 
 **Charles Max Wood**
 
-* ****[**Subscribers**](https://app.subscribers.com/)****
+* [Subscribers](https://app.subscribers.com)
 * [Subscribe to your favorite podcast on Devchat.tv](https://devchat.tv)
-* ****[**https://canny.io/**](https://canny.io/)****
+* <https://canny.io>
