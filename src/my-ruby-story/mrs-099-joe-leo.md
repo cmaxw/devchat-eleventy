@@ -13,6 +13,8 @@ tags:
 ---
 Joe Leo joins Charles Max Wood on this week's My Ruby Story. Joe is the Founder and CEO of the agile software consultancy, Def Method. He shares his journey as a developer. Joe was tutored by his uncle and learned how to code in Basic on a command line. He wanted to be in the music industry and liked math. 
 
+He then attended New York University in the evenings to get  a Cinema degree and worked as an administrative assistant during the day where he started programming. He really enjoyed development so he decided to seek full time employment in software.
+
 Joe is currently working on holistic product development and is delving into areas such as what makes a good product manager and what makes a good product design. Charles and Joe talk about difficulties in quantifying good product management skills or writing tests and other non-coding aspects that surround making a product.
 
 **Host:** Charles Max Wood
