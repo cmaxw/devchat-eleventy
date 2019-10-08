@@ -37,7 +37,7 @@ Joe is currently working on holistic product development and is delving into are
 
 **Joe Leo**
 
-* 
+* <https://www.kobee.io/>
 * 
 
 **Charles Max Wood**
