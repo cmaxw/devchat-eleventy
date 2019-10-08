@@ -15,7 +15,11 @@ question1: How did you get introduced to Ruby?
 answer1: >-
   While taking classes in JavaScript, I was asked to code in Ruby for a customer
   we were working with. Coming from a Java background at first it was a little
-  difficult but the more i learned about it, the more i fell in love with it.
+  difficult but the more i learned about it, the more i fell in love with it. 
+question2: What is the name of the book you co-authored?
+answer2: >-
+  The Well-Grounded Rubyist: Covers Ruby 1.9.1 by David A. Black and by III
+  Joseph Leo
 ---
 Joe Leo joins Charles Max Wood on this week's My Ruby Story. Joe is the Founder and CEO of the agile software consultancy, Def Method. He shares his journey as a developer. Joe was tutored by his uncle and learned how to code in Basic on a command line. He wanted to be in the music industry and liked math. 
 
