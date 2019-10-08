@@ -25,7 +25,7 @@ Joe Leo joins Charles Max Wood on this week's My Ruby Story. Joe is the Founder 
 
 He then attended New York University in the evenings to get  a Cinema degree and worked as an administrative assistant during the day where he started programming. He really enjoyed development so he decided to seek full time employment in software.
 
-He started taking classes in JavaScript. 
+He started taking classes in JavaScript but was asked to code in Ruby for a client assignment. He then taught himself Ruby and then Rails and fell in love with it. 
 
 Joe is currently working on holistic product development and is delving into areas such as what makes a good product manager and what makes a good product design. Charles and Joe talk about difficulties in quantifying good product management skills or writing tests and other non-coding aspects that surround making a product.
 
