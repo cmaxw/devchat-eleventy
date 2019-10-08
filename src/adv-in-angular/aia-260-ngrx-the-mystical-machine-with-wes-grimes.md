@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adv-in-angular
-title: 'AiA 260:  NgRx, The Mystical Machine, with Wes Grimes'
+title: 'AiA 260: NgRx, The Mystical Machine, with Wes Grimes'
 date: 2019-10-08T10:00:23.353Z
 episode_number: '260'
 duration: '51:51'
