@@ -21,6 +21,11 @@ answer2: >-
   The Well-Grounded Rubyist: Covers Ruby 1.9.1 by David A. Black and by III
   Joseph Leo 
 question3: What do you recommend to developers that are just starting out?
+answer3: >-
+  Write code in your spare time. One way to learn if you will be a good
+  developer is to not be able to get enough of coding. After spending the whole
+  day coding, if you are still willing to learn 
+question4: What are the three pillars of application development?
 ---
 Joe Leo joins Charles Max Wood on this week's My Ruby Story. Joe is the Founder and CEO of the agile software consultancy, Def Method. He shares his journey as a developer. Joe was tutored by his uncle and learned how to code in Basic on a command line. He wanted to be in the music industry and liked math. 
 
