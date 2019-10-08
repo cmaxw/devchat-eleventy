@@ -32,6 +32,7 @@ Joe is currently working on holistic product development and is delving into are
 * [The Well-Grounded Rubyist: Covers Ruby 1.9.1 by David A. Black and by  III Joseph Leo (Author)](https://www.amazon.com/dp/1617295213/ref=asc_df_16172952135976143?tag=shopz0d-20&ascsubtag=shopzilla_mp_1299-20;15704197495970985165310080302008005&creative=395261&creativeASIN=1617295213&linkCode=asn%20joe%20leo)
 * [Joe's LinkedIn](https://www.linkedin.com/in/jleo3/)
 * [Def Method](www.defmethod.com)
+* <https://devchat.tv/blog/what-really-makes-a-10x-engineer/>
 
 ## Picks
 
