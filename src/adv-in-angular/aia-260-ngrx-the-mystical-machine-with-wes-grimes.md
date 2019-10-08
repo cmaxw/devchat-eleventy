@@ -64,7 +64,7 @@ The episode ends with Wes sharing his experience joining the NgRx core team by w
 
 - Wes Grimes
 
-# Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs
+## _Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
 
 **Sponsors**
 
