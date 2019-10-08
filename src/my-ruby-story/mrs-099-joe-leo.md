@@ -45,7 +45,7 @@ Joe is currently working on holistic product development and is delving into are
 
 * Sign Up on[ Devchat.tv](https://devchat.tv/) for our weekly episode round-up
 * [How to Stay Current in Technology Effectively in 2019](https://devchat.tv/blog/how-to-stay-current-effectively-in-2019/)
-* [All In by by Adrian Gostick and Chester Elton ](https://www.amazon.com/All-Managers-Create-Culture-Results/dp/1451659822/ref=sr_1_2?keywords=all+in&qid=1570530819&s=books&sr=1-2)
+* [All In by by Adrian Gostick and Chester Elton ](https://amzn.to/2O4kGHW)
 * [For Men Only by Shaunti Feldhahn, Jeff Feldhahn](https://www.audible.com/pd/For-Men-Only-Revised-and-Updated-Edition-Audiobook/B00DGKNUTY)
 
 
