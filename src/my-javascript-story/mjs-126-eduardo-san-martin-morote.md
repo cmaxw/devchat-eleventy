@@ -12,7 +12,7 @@ tags:
   - Eduardo San Martin Morote
   - Charles Max Wood
 question1: How did you get introduced to web development?
-answer1: 'I started with iQuery and Bootstrap at school. '
+answer1: 'I started by learning jQuery and Bootstrap at school. '
 question2: 'What are you working now in Vue Community? '
 answer2: 'Our focus right now is on Vue 3. Personally  I am working on  Vue Router. '
 ---
