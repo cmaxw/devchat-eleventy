@@ -15,6 +15,8 @@ In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Mo
 
 Eduardo works as a freelancer so he can work on Open Source projects in his free time. One of the problems he draws attention to is the sustainability of Open Source Projects. The developers that maintain the projects on Open Source are not funded, and even though many companies use Open Source code they don't have sponsor it even though they have the financial means to do so.
 
+Charles Max Wood recommends another podcast Devchat.tv hosts, Sustain Our Software that addresses this problem among others for Open Source. 
+
 ## Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
