@@ -13,8 +13,9 @@ tags:
   - Charles Max Wood
 question1: How did you get introduced to development?
 answer1: >-
-  When I was 13 years old i tried to create my own video games with a language
-  called Game Maker Language. After that I kept creating my own games.
+  When I was 13 years old, i tried to create my own video games with a language
+  called Game Maker Language. After that I kept creating my own games and
+  majored in Computer Science and Math.
 question2: 'What are you working now in Vue Community? '
 answer2: 'Our focus right now is on Vue 3. Personally  I am working on Vue Router. '
 question3: How did you get introduced to web development?
