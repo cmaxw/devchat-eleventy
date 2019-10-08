@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: js-jabber
 title: 'JSJ 399:  Debugging with Async08 with Valeri Karpov'
-date: 2019-10-08T10:00:02.307Z
+date: 2019-10-10T10:00:02.307Z
 episode_number: '399'
 duration: '1:03:47'
 audio_url: 'https://media.devchat.tv/js-jabber/JSJ_399_Valeri_Karpov.mp3'
