@@ -41,6 +41,10 @@ Joe is currently working on holistic product development and is delving into are
 
 **Charles Max Wood**
 
-* 
+* Sign Up on Devchat.tv for our weekly episode round-up
+* [How to Stay Current in Technology Effectively in 2019](https://devchat.tv/blog/how-to-stay-current-effectively-in-2019/)
+* All In 
+
+
 
 - - -
