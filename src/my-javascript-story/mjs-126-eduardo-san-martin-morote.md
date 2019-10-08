@@ -11,10 +11,14 @@ tags:
   - podcast
   - Eduardo San Martin Morote
   - Charles Max Wood
-question1: How did you get introduced to web development?
-answer1: 'I started by learning jQuery and Bootstrap at school. '
+question1: How did you get introduced to development?
+answer1: >-
+  When I was 13 years old i tried to create my own video games with a language
+  called Game Maker Language. After that I kept creating my own games.
 question2: 'What are you working now in Vue Community? '
 answer2: 'Our focus right now is on Vue 3. Personally  I am working on Vue Router. '
+question3: How did you get introduced to web development?
+answer3: 'I started by learning jQuery and Bootstrap at school. '
 ---
 In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Morote. Eduardo is a freelance developer, a core team member of Vue.js, and loves contributing to open source. Eduardo started web development with games. He then majored in Computer Science and Mathematics. 
 
