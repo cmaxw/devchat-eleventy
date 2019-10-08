@@ -16,7 +16,7 @@ answer1: >-
   While taking classes in JavaScript, I was asked to code in Ruby for a customer
   we were working with. Coming from a Java background at first it was a little
   difficult but the more i learned about it, the more i fell in love with it. 
-question2: What is the name of the book you co-authored?
+question2: What is the name of the Ruby  book you co-authored?
 answer2: >-
   The Well-Grounded Rubyist: Covers Ruby 1.9.1 by David A. Black and by III
   Joseph Leo
