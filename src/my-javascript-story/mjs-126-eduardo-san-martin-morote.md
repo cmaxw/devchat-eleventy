@@ -45,6 +45,7 @@ Eduardo and Charles talk about characters that have accents that have to be enco
 * [jQuery](https://jquery.com)
 * [Patreon](https://www.patreon.com)
 * [Open Collective](https://opencollective.com)
+* [Sustain Our Software Podcast](https://devchat.tv/sustain-our-software/)
 
 ## Picks
 
