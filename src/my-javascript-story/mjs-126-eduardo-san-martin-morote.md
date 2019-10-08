@@ -41,6 +41,8 @@ Eduardo and Charles talk about characters that have accents that have to be enco
 * [Eduardo's Twitter](@posva)
 * [J2EE](https://www.webopedia.com/TERM/J/J2EE.html)
 * [jQuery](https://jquery.com)
+* [Patreon](https://www.patreon.com)
+* [Open Collective](https://opencollective.com)
 
 ## Picks
 
