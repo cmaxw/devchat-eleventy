@@ -11,6 +11,8 @@ tags:
   - podcast
   - Eduardo San Martin Morote
   - Charles Max Wood
+question1: How did you get introduced to web development?
+answer1: 'I started with iQuery and Bootstrap at school. '
 ---
 In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Morote. Eduardo is a freelance developer, a core team member of Vue.js, and loves contributing to open source. Eduardo started web development with games. He then majored in Computer Science and Mathematics. 
 
