@@ -51,65 +51,49 @@ The panel discusses ways to make PSSR a reality. Dinesh has been experimenting w
 
 **Panelists**
 
-
-
-*   Thomas Aylott
-*   Dave Ceddia
-*   Lucas Reis
+* Thomas Aylott
+* Dave Ceddia
+* Lucas Reis
 
 With special guest: Dinesh Pandiyan
 
-
 ## **Sponsors**
 
-
-
-*   [Progress KendoReact](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-8https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-15https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-22https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-29) | Try now for FREE:[ kendoreact.com/reactroundup](http://kendoreact.com/reactroundup)
-*   [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
-*   [My JavaScript Story](https://devchat.tv/my-javascript-story/)
+* [Progress KendoReact ](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-8)| Try now for FREE: [kendoreact.com/reactroundup](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-8)
+* [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
+* [My JavaScript Story](https://devchat.tv/my-javascript-story/)
 
 **Links**
 
-
-
-*   [React Redux](https://react-redux.js.org/)
-*   [Console.log](https://developer.mozilla.org/en/docs/Web/API/Console/log) 
-*   [Puppeteer](https://developers.google.com/web/tools/puppeteer)
-*   [Webpack](https://webpack.js.org/)
-*   [Datadog](https://www.datadoghq.com/) 
-*   [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-*   [Transport headers](https://www.ibm.com/support/knowledgecenter/en/SS9H2Y_7.7.0/com.ibm.dp.doc/transport-headers_js.html)
-*   [Phoenix](https://phoenixframework.org/)
-*   [Elixir](https://elixir-lang.org/)
+* [React Redux](https://react-redux.js.org/)
+* [Console.log](https://developer.mozilla.org/en/docs/Web/API/Console/log) 
+* [Puppeteer](https://developers.google.com/web/tools/puppeteer)
+* [Webpack](https://webpack.js.org/)
+* [Datadog](https://www.datadoghq.com/) 
+* [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [Transport headers](https://www.ibm.com/support/knowledgecenter/en/SS9H2Y_7.7.0/com.ibm.dp.doc/transport-headers_js.html)
+* [Phoenix](https://phoenixframework.org/)
+* [Elixir](https://elixir-lang.org/)
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
-
 
 ### **Picks**
 
 **Lucas Reis:**
 
-
-
-*   [Ben Hoyt Wholesome Learning Elm](https://benhoyt.com/writings/learning-elm/)
-*   [Cast iron skillet](https://shop.lodgemfg.com/prodcat/skillets-and-covers.asp)
+* [Ben Hoyt Wholesome Learning Elm](https://benhoyt.com/writings/learning-elm/)
+* [Cast iron skillet](https://shop.lodgemfg.com/prodcat/skillets-and-covers.asp)
 
 **Thomas Aylott:**
 
-
-
-*   [6 Lessons Children Need to Learn](https://www.jw.org/en/publications/magazines/awake-no2-2019-jul-aug/)
+* [6 Lessons Children Need to Learn](https://www.jw.org/en/publications/magazines/awake-no2-2019-jul-aug/)
 
 **Dinesh Pandiyan:**
 
+* [To-Do List app](https://todoist.com/?lang=en)
 
+**David Ceddia:** 
 
-*   [To-Do List app](https://todoist.com/?lang=en)
-
-**David Ceddia: **
-
-
-
-*   [On the Utility of Phoenix Live View](https://jclem.net/posts/on-the-utility-of-phoenix-liveview)
+* [On the Utility of Phoenix Live View](https://jclem.net/posts/on-the-utility-of-phoenix-liveview)
 
 <!-- Docs to Markdown version 1.0β17 -->
