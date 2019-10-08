@@ -45,11 +45,13 @@ answer4: >-
   contribute to. Many libraries and frameworks on Github will have
   #goodfirstissue for a beginner problem you can tackle.
 ---
-Dylan Kearns is an Elm consultant who provides coaching and training to help people accelerate the way they write Elm so that their databases are more maintainable and easier to use. Today the panel is discussing how building libraries and frameworks can aide with the learning process. Dylan talks about how building frameworks and working with languages has helped him. He uses them as a laboratory to learn new techniques. When working on a library or framework, he always tries to bring his best programming self to that project. He believes that libraries and frameworks are a low risk way to practice your skills because they’re unlikely to get adopted when you’re starting out.
+Dillon Kearns is an Elm consultant who provides coaching and training to help people accelerate the way they write Elm to keep their codebases maintainable as they grow. He's the author of elm-graphql, and recently announced a new static site framework, elm-pages.
+
+Today the panel is discussing how building libraries and frameworks can aide with the learning process. Dillon talks about how building frameworks and working with languages has helped him. He uses them as a laboratory to learn new techniques. When working on a library or framework, he always tries to bring his best programming self to that project.He believes that libraries and frameworks are a low risk way to practice your skills because they’re unlikely to get adopted when you’re starting out.
 
 The panel defines what libraries and frameworks are and how they differ from one another. Libraries and frameworks are a type of project, with a library solving a specific class of problems. A framework is plugable and can be extended to solve problems that a framework author may not have imagined, though it does a set of core things. A library is something you put into your existing code base, a framework is the core you’re building on top of. They talk about an article, _The Difference Between a Library and a Framework, _that compares a library to a trip to Ikea when you already have a home, but you need to fill it with furniture, and a framework to building a home. 
 
-Next they talk about how libraries and frameworks are built and who builds them. Both are often built in open source, and some are funded by big companies while some are passion projects. They talk about the libraries that they’ve created and how it helped them to become a better developer. When Preston Lamb builds libraries, he learns how to do things he’s never done before. He doesn’t have a huge user base, but he finds it fun to sit down and have an idea, figure out how to do it, and make it reusable. Jesse Sanders talks about the company Rebug, and how somebody gave him the idea to write it as a schematic. Making libraries and frameworks is a continual way for developers to take a look at situations they don’t come across a lot and put them in a different mindset to make things truly reusable so that it can be adopted by others in the community. Dylan has found that making Elm GraphQL has given him the chance to be involved in very interesting conversations in the community. Creating a library or framework gives you the opportunity to be considered an expert in something and see they types of questions people are asking, problems they’re solving, and their interesting approaches.
+Next they talk about how libraries and frameworks are built and who builds them. Both are often built in open source, and some are funded by big companies while some are passion projects. They talk about the libraries that they’ve created and how it helped them to become a better developer. When Preston Lamb builds libraries, he learns how to do things he’s never done before. He doesn’t have a huge user base, but he finds it fun to sit down and have an idea, figure out how to do it, and make it reusable. Jesse Sanders talks about the company Rebug, and how somebody gave him the idea to write it as a schematic. Making libraries and frameworks is a continual way for developers to take a look at situations they don’t come across a lot and put them in a different mindset to make things truly reusable so that it can be adopted by others in the community. Dillon has found that making Elm GraphQL has given him the chance to be involved in very interesting conversations in the community. Creating a library or framework gives you the opportunity to be considered an expert in something and see they types of questions people are asking, problems they’re solving, and their interesting approaches.
 
 The panel talks about the difference between fluency and understanding, and agree that one of the best ways to learn is by teaching. By being involved in creating a library, you’re seen as an expert in that library, so people come to you with their questions and you have to figure out how to answer them. One of the most valuable things about building a library or framework is learning the core basic concepts of the language. 
 
@@ -62,14 +64,14 @@ Finally, they talk about how to decide what requires a small exercise and what r
 
 
 
-*   Brooke Avery
-*   Jesse Sanders
-*   Preston Lamb
-*   Sam Juline
-*   Mike Dane
-*   Luiz Hernandez
+*   [Brooke Avery](https://thinkster.io/)
+*   [Jesse Sanders](http://briebug.com/)
+*   [Preston Lamb](https://www.linkedin.com/in/pjlamb12/)
+*   [Sam Julien](https://twitter.com/samjulien?lang=en)
+*   [Mike Dane](https://www.mikedane.com/)
+*   [Luis Hernandez](https://lambdaschool.com/about)
 
-With special guest: Dylan Kearns
+With special guest: Dillon Kearns
 
 **Sponsors**
 
@@ -93,11 +95,13 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 ### **Picks**
 
-**Dylan Kearns:**
+**Dillon Kearns:**
 
 
 
 *   _[Non-Violent Communication: A Language of Life by Marshall B. Rosenberg](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)_
+*   [Dillon Kearns Agile Consulting](http://www.dillonkearns.com/)
+*   Follow Dillon on [Twitter](https://twitter.com/dillontkearns?lang=en), [LinkedIn](https://www.linkedin.com/in/dillonkearns/), and [Medium](https://medium.com/@dillonkearns)
 
 **Preston Lamb:**
 
@@ -117,7 +121,7 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 *   [FUNCL bluetooth headphones](https://funcl.com/)
 
-**Luiz Hernandez:**
+**Luis Hernandez:**
 
 
 
