@@ -19,7 +19,8 @@ answer1: >-
 question2: What is the name of the Ruby  book you co-authored?
 answer2: >-
   The Well-Grounded Rubyist: Covers Ruby 1.9.1 by David A. Black and by III
-  Joseph Leo
+  Joseph Leo 
+question3: What do you recommend to developers that are just starting out?
 ---
 Joe Leo joins Charles Max Wood on this week's My Ruby Story. Joe is the Founder and CEO of the agile software consultancy, Def Method. He shares his journey as a developer. Joe was tutored by his uncle and learned how to code in Basic on a command line. He wanted to be in the music industry and liked math. 
 
@@ -46,7 +47,7 @@ Joe is currently working on holistic product development and is delving into are
 * [The Well-Grounded Rubyist: Covers Ruby 1.9.1 by David A. Black and by  III Joseph Leo (Author)](https://www.amazon.com/dp/1617295213/ref=asc_df_16172952135976143?tag=shopz0d-20&ascsubtag=shopzilla_mp_1299-20;15704197495970985165310080302008005&creative=395261&creativeASIN=1617295213&linkCode=asn%20joe%20leo)
 * [Joe's LinkedIn](https://www.linkedin.com/in/jleo3/)
 * [Def Method](www.defmethod.com)
-* <https://devchat.tv/blog/what-really-makes-a-10x-engineer/>
+* [What Really Makes a 10x Engineer?](https://devchat.tv/blog/what-really-makes-a-10x-engineer/)
 
 ## Picks
 
