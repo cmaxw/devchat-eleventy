@@ -38,6 +38,7 @@ Joe is currently working on holistic product development and is delving into are
 **Joe Leo**
 
 * <https://www.kobee.io/>
+* [ACR 2019 Ruby·Rails·React Conference](https://www.ancientcityruby.com)
 
 **Charles Max Wood**
 
