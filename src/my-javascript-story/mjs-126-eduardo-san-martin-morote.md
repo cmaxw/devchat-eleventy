@@ -17,11 +17,13 @@ Eduardo works as a freelancer so he can work on Open Source projects in his free
 
 Charles Max Wood recommends another podcast Devchat.tv hosts, Sustain Our Software that addresses this problem among others for Open Source. 
 
+Eduardo and Charles talk about characters that have accents that have to be encoded    and how they deal with this problem. Eduardo then talks about some of the projects he is working on currently. 
+
 ## Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 * [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
+* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 * [CacheFly](https://www.cachefly.com/)
 
 **Host:** Charles Max Wood
