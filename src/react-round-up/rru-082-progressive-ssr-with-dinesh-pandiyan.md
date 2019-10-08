@@ -10,6 +10,7 @@ image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast
+  - Dinesh Pandiyan
 question1: How is backend development different from frontend development?
 answer1: >-
   On the backend he was working in Java and it ran on a server, but on the
