@@ -10,10 +10,18 @@ tags:
   - my_ruby_story
   - podcast
   - Joe Leo
+  - Charles Max Wood
+question1: How did you get introduced to Ruby?
+answer1: >-
+  While taking classes in JavaScript, I was asked to code in Ruby for a customer
+  we were working with. Coming from a Java background at first it was a little
+  difficult but the more i learned about it, the more i fell in love with it.
 ---
 Joe Leo joins Charles Max Wood on this week's My Ruby Story. Joe is the Founder and CEO of the agile software consultancy, Def Method. He shares his journey as a developer. Joe was tutored by his uncle and learned how to code in Basic on a command line. He wanted to be in the music industry and liked math. 
 
 He then attended New York University in the evenings to get  a Cinema degree and worked as an administrative assistant during the day where he started programming. He really enjoyed development so he decided to seek full time employment in software.
+
+He started taking classes in JavaScript. 
 
 Joe is currently working on holistic product development and is delving into areas such as what makes a good product manager and what makes a good product design. Charles and Joe talk about difficulties in quantifying good product management skills or writing tests and other non-coding aspects that surround making a product.
 
