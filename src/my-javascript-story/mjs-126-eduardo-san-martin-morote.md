@@ -11,7 +11,9 @@ tags:
   - podcast
   - Eduardo San Martin Morote
 ---
-In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Morote from Paris, France. Eduardo is a freelance developer, a core team member of Vue.js, and loves contributing to open source.
+In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Morote. Eduardo is a freelance developer, a core team member of Vue.js, and loves contributing to open source. Eduardo started web development with games. He then majored in Computer Science and Mathematics. 
+
+Eduardo works as a freelancer so he can work on Open Source projects in his free time. One of the problems he draws attention to is the sustainability of Open Source Projects. The developers that maintain the projects on Open Source are not funded, and even though many companies use Open Source code they don't have sponsor it even though they have the financial means to do so.
 
 ## Sponsors
 
@@ -37,7 +39,7 @@ In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Mo
 
 **Eduardo San Martin Morote**
 
-* [Tajin](https://www.tajin.com) ****
+* [Tajin](https://www.tajin.com) 
 * [Eduardo's GitHub](https://github.com/posva)
 
 **Charles Max Wood**
