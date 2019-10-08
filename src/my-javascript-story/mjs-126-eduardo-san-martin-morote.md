@@ -10,6 +10,7 @@ tags:
   - my_javascript_story
   - podcast
   - Eduardo San Martin Morote
+  - Charles Max Wood
 ---
 In this episode of My JavaScript Story is Charles talks to Eduardo San Martin Morote. Eduardo is a freelance developer, a core team member of Vue.js, and loves contributing to open source. Eduardo started web development with games. He then majored in Computer Science and Mathematics. 
 
