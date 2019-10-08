@@ -24,8 +24,10 @@ question3: What do you recommend to developers that are just starting out?
 answer3: >-
   Write code in your spare time. One way to learn if you will be a good
   developer is to not be able to get enough of coding. After spending the whole
-  day coding, if you are still willing to learn 
+  day coding, if you are  still willing to learn new things and spend your free
+  time coding, then a developer career is right for you.
 question4: What are the three pillars of application development?
+answer4: 'Deleopment, project management and product management.'
 ---
 Joe Leo joins Charles Max Wood on this week's My Ruby Story. Joe is the Founder and CEO of the agile software consultancy, Def Method. He shares his journey as a developer. Joe was tutored by his uncle and learned how to code in Basic on a command line. He wanted to be in the music industry and liked math. 
 
