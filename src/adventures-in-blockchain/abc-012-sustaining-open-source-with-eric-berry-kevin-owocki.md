@@ -67,7 +67,7 @@ To end the episode the panel reiterates how blockchain could change the financia
 - Eric Berry
 - Kevin Owocki
 
-**Sponsors  **
+**Sponsors**
 
 - [React Native Radio](https://devchat.tv/react-native-radio/)
 - [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
