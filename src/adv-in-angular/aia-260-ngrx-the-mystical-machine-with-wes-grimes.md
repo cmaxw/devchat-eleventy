@@ -99,8 +99,8 @@ The episode ends with Wes sharing his experience joining the NgRx core team by w
 
 **Jennifer Wadella:**
 
-- **●●** [https://twitter.com/began\_7/status/1177880930549223424](https://twitter.com/began_7/status/1177880930549223424)
-- **●●** [https://github.com/vmbrasseur/Public\_Speaking](https://github.com/vmbrasseur/Public_Speaking)
+-  [https://twitter.com/began\_7/status/1177880930549223424](https://twitter.com/began_7/status/1177880930549223424)
+-  [https://github.com/vmbrasseur/Public\_Speaking](https://github.com/vmbrasseur/Public_Speaking)
 
 **Wes Grimes:**
 
