@@ -21,6 +21,10 @@ module.exports = function(eleventyConfig) {
     }
 
     return array.slice(0, n);
+
+  });
+  eleventyConfig.addFilter('escape_quotes', (str) => {
+    return str.replace(/"/g, '\\"');
   });
 
   eleventyConfig.addFilter('embed_youtube', (key) => {
