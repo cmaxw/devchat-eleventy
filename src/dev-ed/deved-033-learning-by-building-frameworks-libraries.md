@@ -100,7 +100,7 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 
 *   _[Non-Violent Communication: A Language of Life by Marshall B. Rosenberg](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)_
-*   [Dillon Kearns Agile Consulting](http://www.dillonkearns.com/)
+*   [Dillon Kearns Agile Consulting](https://incrementalelm.com)
 *   Follow Dillon on [Twitter](https://twitter.com/dillontkearns?lang=en), [LinkedIn](https://www.linkedin.com/in/dillonkearns/), and [Medium](https://medium.com/@dillonkearns)
 
 **Preston Lamb:**
