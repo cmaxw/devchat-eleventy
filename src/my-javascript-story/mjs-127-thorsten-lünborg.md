@@ -35,6 +35,7 @@ In this episode of My JavaScript Story is Charles talks to Thorsten Lünborg.
 
 **Thorsten Lünborg**
 
+* [Preacher TV Series](https://www.imdb.com/title/tt5016504/)
 * [Borderlands 3](https://borderlands.com)
 * [Vue.js London 2019](https://vuejs.london)
 * <https://github.com/vuejs/rfcs>
