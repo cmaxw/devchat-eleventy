@@ -13,7 +13,11 @@ tags:
   - Aaron Frost
   - Philip Fulcher
 ---
-This week My Angular Story welcomes Philip Fulcher, Software Engineer at Hach.  
+This week My Angular Story welcomes Philip Fulcher, Software Engineer at Hach.  Philip gave his first talk at Angular Denver 2019 on Intro to Bazel with Bonnie Brennan  Aaron wonders why despite years of developers experience,  Philip never gave a talk at a conference before this year. 
+
+ Philip and Aaron discuss some of the best practices of giving a talk at a conference,one of which is not running over the talk's time limit. 
+
+
 
 **Host:** Aaron Frost
 
@@ -29,6 +33,7 @@ This week My Angular Story welcomes Philip Fulcher, Software Engineer at Hach.
 ### **Links**
 
 * [Philip's LinkedIn](https://www.linkedin.com/in/philip-fulcher-69931911/)
+* [Philip's Twitter](https://twitter.com/philipjfulcher?lang=en)
 * [Hach](https://www.hach.com/)
 * 
 
