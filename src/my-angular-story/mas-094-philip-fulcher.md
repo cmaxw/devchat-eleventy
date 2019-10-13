@@ -27,6 +27,7 @@ This week My Angular Story welcomes Philip Fulcher, Software Engineer at Hach.  
 ## **Sponsors**
 
 * [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
+* [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
 * [CacheFly](https://www.cachefly.com/)
 
 ### **Links**
@@ -40,7 +41,7 @@ This week My Angular Story welcomes Philip Fulcher, Software Engineer at Hach.  
 
 **Aaron Frost:**
 
-* Being Nice
+* Being Nice on [StackOverflow](https://stackoverflow.com)
 
 **Philip Fulcher:**
 
