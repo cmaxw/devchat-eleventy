@@ -29,13 +29,17 @@ In this episode of My JavaScript Story is Charles talks to Thorsten Lünborg.
 
 * [VoV 060: Our Least Favorite Parts of Vue with An Phan and Thorsten Lunborg](https://devchat.tv/views-on-vue/vov-060-our-least-favorite-parts-of-vue-with-an-phan-and-thorsten-lunborg/#viewport)
 * [VoV 022: How I became a Vue.js core team member without a professional background‌ with Thorsten Luenborg](https://devchat.tv/views-on-vue/vov-how-i-became-a-vue-js-core-team-member-without-a-professional-background-with-thorsten-luenborg/#viewport)
+* [Thorsten's Twitter](https://twitter.com/Linus_Borg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ## Picks
 
 **Thorsten Lünborg**
 
-* 
+* [Borderlands 3](https://borderlands.com)
+* [Vue.js London 2019](https://vuejs.london)
+* <https://github.com/vuejs/rfcs>
 
 **Charles Max Wood**
 
+* Running a Marathon
 * [Honeywell wifi thermometer](https://amzn.to/2HpAAbO)
