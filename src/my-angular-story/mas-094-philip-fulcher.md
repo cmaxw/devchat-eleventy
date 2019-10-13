@@ -18,6 +18,8 @@ This week My Angular Story welcomes Philip Fulcher, Software Engineer at Hach.  
 
  Philip and Aaron discuss some of the best practices of giving a talk at a conference,one of which is not running over the talk's time limit. They also talk about what it takes to get accepted to talk at a conference. Philip mentions he just submitted a proposal to give a talk in [JSConf Hawaiʻi](https://www.jsconfhi.com) which takes place on February 5th-7th 2020 in Honolulu, Hawaiʻi. 
 
+One of the interesting tips Philip shares about giving talks at conferences is how often times you will not be the person that knows the most about that subject in the room. But giving a talk gives you a chance for people to come ask you questions and therefore meeting people that you might collaborate or ask for advice from in the future.
+
 **Host:** Aaron Frost
 
 **Joined By Special Guest:**  Philip Fulcher
