@@ -21,8 +21,8 @@ In this episode of My JavaScript Story is Charles talks to Thorsten Lünborg.
 ## Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+* [Sustain Our Software](https://devchat.tv/sustain-our-software/)
 * [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
-* [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## Links
