@@ -38,4 +38,4 @@ In this episode of My JavaScript Story is Charles talks to Thorsten Lünborg.
 
 **Charles Max Wood**
 
-*
+* [Honeywell wifi thermometer](https://amzn.to/2HpAAbO)
