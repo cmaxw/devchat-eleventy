@@ -41,7 +41,7 @@ This week My Angular Story welcomes Philip Fulcher, Software Engineer at Hach.  
 
 **Aaron Frost:**
 
-* Being Nice on [StackOverflow](https://stackoverflow.com)
+* Being Nice to new people on [StackOverflow](https://stackoverflow.com)
 
 **Philip Fulcher:**
 
