@@ -16,7 +16,7 @@ question1: 'What is '
 ---
 This week My Angular Story welcomes Philip Fulcher, Software Engineer at Hach.  Philip gave his first talk at Angular Denver 2019 on Intro to Bazel with Bonnie Brennan  Aaron wonders why despite years of developers experience,  Philip never gave a talk at a conference before this year. 
 
- Philip and Aaron discuss some of the best practices of giving a talk at a conference,one of which is not running over the talk's time limit. 
+ Philip and Aaron discuss some of the best practices of giving a talk at a conference,one of which is not running over the talk's time limit. They also talk about what it takes to get accepted to talk at a conference. Philip mentions he just submitted a proposal to give a talk in [JSConf Hawaiʻi](https://www.jsconfhi.com) which takes place on February 5th-7th 2020 in Honolulu, Hawaiʻi. 
 
 **Host:** Aaron Frost
 
@@ -36,6 +36,7 @@ This week My Angular Story welcomes Philip Fulcher, Software Engineer at Hach.  
 * [Philip's Twitter](https://twitter.com/philipjfulcher?lang=en)
 * [Hach](https://www.hach.com/)
 * [Angular Denver 2019](https://angulardenver.com)
+* [JSConf Hawaiʻi](https://www.jsconfhi.com)
 
 ### **Picks**
 
