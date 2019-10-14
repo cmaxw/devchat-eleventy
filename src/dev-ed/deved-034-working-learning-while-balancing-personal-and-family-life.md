@@ -24,9 +24,9 @@ In this week's episode of the DevEd podcast, the panelists talk to Tara Z. Manic
 
 The first thing they discuss is if programmers are good at balancing work-life. The general consensus is that they aren't, but mostly because they love the job they do, and it is also fun to learn newer technologies and concepts. They talk about hackations and coding in beautiful environments away from the regular desks.
 
-They then talk about some strategies to maintain a good work-life balance especially in high-pressure scenarios where the work seems to never get over. They suggest time management, blocking off hours and segregating them into strictly work and non-work periods. Tara mentions working non-traditional hours while having an infant at home, Brooke explains how to schedule things beforehand so that knowing the tasks ahead of time helps in managing them effectively. Others chip in with their suggestions as well. Tara also speaks on the importance of having a good manager with realistic expectations.
+They talk about some strategies to maintain a good work-life balance especially in high-pressure scenarios where the work seems to never get over. They suggest time management, blocking off hours and segregating them into strictly work and non-work periods. Tara mentions working non-traditional hours while having an infant at home, Brooke explains how to schedule things beforehand so that knowing the tasks ahead of time helps in managing them effectively. Others chip in with their suggestions as well. Tara also speaks on the importance of having a good manager with realistic expectations.
 
-
+They then touch on work-life balance from the perspective of managers too, where they advise them to make sure that the employees work reasonable hours, check in with them regularly and encourage them to take personal time off for their own mental health. They share their experiences related to death marches and the stress associated with it.
 
 The Dev Ed podcast is produced by Thinkster.io and published by DevChat.TV.
 
@@ -53,13 +53,9 @@ Joined by special guest: [Tara Z. Manicsic](https://www.linkedin.com/in/tzmanics
 
 ## Picks
 
- Jesse Sanders:
+Joe Eames:
 
-* [Nebo](https://www.nebo.app/)
-
-Preston Lamb:
-
-* [Our Fake History podcast](https://ourfakehistory.com/)
+* [Beginner's Guide to Bullet Journaling | How to Start a Bullet Journal](https://www.youtube.com/watch?v=OuaaotSpifM)
 
 Luis Hernandez:
 
@@ -67,9 +63,9 @@ Luis Hernandez:
 
 Brooke Avery:
 
-* [Webflow](https://webflow.com/)
-* [Star Wars: Galaxy Edge - Disney Parks](https://disneyparks.disney.go.com/star-wars-galaxys-edge/)
+* [Sporcle](https://www.sporcle.com/)
+* [Star Wars Myths & Fables](https://www.amazon.com/Star-Myths-Fables-Lucasfilm-Press/dp/1368043453) 
 
-Tyler Leggett:
+Tara Z. Manicsic:
 
 * [Reply All](https://podcasts.apple.com/us/podcast/reply-all/id941907967)
