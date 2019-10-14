@@ -26,7 +26,7 @@ The first thing they discuss is if programmers are good at balancing work-life. 
 
 They talk about some strategies to maintain a good work-life balance especially in high-pressure scenarios where the work seems to never get over. They suggest time management, blocking off hours and segregating them into strictly work and non-work periods. Tara mentions working non-traditional hours while having an infant at home, Brooke explains how to schedule things beforehand so that knowing the tasks ahead of time helps in managing them effectively. Others chip in with their suggestions as well. Tara also speaks on the importance of having a good manager with realistic expectations.
 
-They then touch on work-life balance from the perspective of managers too, where they advise them to make sure that the employees work reasonable hours, check in with them regularly and encourage them to take personal time off for their own mental health. They share their experiences related to death marches and the stress associated with it.
+They then touch on work-life balance from the perspective of managers too, where they advise them to make sure that the employees work reasonable hours, check in with them regularly and encourage them to take personal time off for their own mental health. They share their experiences related to death marches and the stress associated with it. While working as a junior developer in a high pressure environment that is hard to keep up with, it can be hard to change jobs. To deal with these kind of situations, they talk about how important it is to like the work being done, and if it is not something enjoyable, it is time to start looking for something different. 
 
 The Dev Ed podcast is produced by Thinkster.io and published by DevChat.TV.
 
