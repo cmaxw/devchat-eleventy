@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: js-jabber
-title: 'JSJ 399:  Debugging with Async08 with Valeri Karpov'
+title: 'JSJ 399:  Debugging with Async/Await with Valeri Karpov'
 date: 2019-10-10T10:00:02.307Z
 episode_number: '399'
 duration: '1:03:47'
@@ -19,11 +19,11 @@ tags:
   - Valeri Karpov
 ---
 
-Valeri Karpov is a maintainer on Mongoose, has started a few companies, and works for a company called Booster Fuels. Today’s topic debugging with Async 08. The panel talks about some of the challenges of debugging with Async. AJ, however, has never encountered the same problems, so he shares his debugging method. 
+Valeri Karpov is a maintainer on Mongoose, has started a few companies, and works for a company called Booster Fuels. Today’s topic debugging with Async/Await. The panel talks about some of the challenges of debugging with Async. AJ, however, has never encountered the same problems, so he shares his debugging method. 
 
 Valeri differentiates between .catch vs try...catch, and talks about why he prefers .catch. There are two ways to handle all errors in an async function without leading to an unhandled promise rejection. The first is to wrap the entire body of the async function in a try...catch, has some limitations. Calling an async function always returns a promise, so the other approach is calling .catch on the promise to handle any errors that occur in that function body. One of the key differences is if you return a promise within an async function, and that return promise is wrapped in a try...catch, the catch block won’t get called if that promise is rejected, whereas if you call .catch on the promise that the function returns, you’ll actually catch that error. There are rare instances where this can get tricky and unintuitive, such as where you have to call new promise and have resolve and reject, and you can get unexpected behavior.
 
-The panel discusses Valeri’s current favorite JS interview question, which is,  “Given a stream, implement a function called ‘stream to promise’ that, given a stream, returns a promise that resolves to the concatenation of all the data chunks emitted by the stream, or rejects if the stream emits an error event.” It’s really simple to get this qustion right, and really simple to get it wrong, and the difference can be catastrophic. AJ cautions listeners to never use the data event except in the cases Val was talking about, only use the readable event.
+The panel discusses Valeri’s current favorite JS interview question, which is,  “Given a stream, implement a function called ‘stream to promise’ that, given a stream, returns a promise that resolves to the concatenation of all the data chunks emitted by the stream, or rejects if the stream emits an error event.” It’s really simple to get this question right, and really simple to get it wrong, and the difference can be catastrophic. AJ cautions listeners to never use the data event except in the cases Val was talking about, only use the readable event.
 
 The conversation turns to the function of a readable event. Since data always pushes data, when you get a readable event, it’s up to you to call read inside the function handler, and then you get back a chunk of data, call read again and again until the read returns null. When you use readable, you are in control and you avoid piling functions into RAM. In addition, the right function will return true or false to let you know if the buffer is full or not. This is a way to mix imperative style into a stream.
 
