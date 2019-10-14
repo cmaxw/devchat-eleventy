@@ -4,6 +4,8 @@ location: Takoba SF
 address: 138 Minna St, San Francisco, CA 94105
 event_date: 10/14/19
 event_time: 7:00pm
+tags:
+  - event
 ---
 
 Charles Max Wood will be in San Francisco for [JamStackConf SF 2019](https://ti.to/netlify/jamstackconf-2019/discount/devchattv) (This link includes a discount code.) He'll be interviewing speakers and attendees at the conference.
