@@ -11,6 +11,12 @@ tags:
   - podcast
   - Thorsten Lünborg
   - Charles Max Wood
+question1: How did you get introduced to JavaScript?
+answer1: >-
+  While learning Vue i also started learning JavaScript. I often go through
+  times of intense learning where i decide on something in physics for example,
+  and i watch off of YouTube videos about it and spend all my free time learning
+  it. JavaScript was like that.
 ---
 In this episode of My JavaScript Story is Charles talks to Thorsten Lünborg. Thorsten is a Business Service Manager at MVV Energy Solutions from Frankfurt Germany. Charles asks about Thorsten's developer journey in particular how he was introduced to JavaScript. 
 
