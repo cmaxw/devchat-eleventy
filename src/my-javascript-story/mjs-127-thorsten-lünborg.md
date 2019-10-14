@@ -12,7 +12,9 @@ tags:
   - Thorsten Lünborg
   - Charles Max Wood
 ---
-In this episode of My JavaScript Story is Charles talks to Thorsten Lünborg. 
+In this episode of My JavaScript Story is Charles talks to Thorsten Lünborg. Thorsten is a Business Service Manager at MVV Energy Solutions from Frankfurt Germany. Charles asks about Thorsten's developer journey in particular how he was introduced to JavaScript. 
+
+Thorsten is also a core team member for Vue.js and he talks about his involvement with the Vue community. 
 
 **Host:** Charles Max Wood
 
