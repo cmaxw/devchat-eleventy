@@ -4,6 +4,7 @@ location: Takoba SF
 address: 138 Minna St, San Francisco, CA 94105
 event_date: 10/14/19
 event_time: 7:00pm
+image: /images/uploads/sushi.jpg
 tags:
   - event
 ---

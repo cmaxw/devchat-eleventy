@@ -64,7 +64,11 @@ page_class: category-layout-5
                   {% if podcast %}
                   <a class="post-cat ts-orange-bg" href="/{{item.data.podcast}}">{{podcasts[item.data.podcast].title}}</a>
                   {% else %}
+                  {% if item.tags[0] == "event" %}
+                  <a class="post-cat ts-orange-bg" href="/events">Event</a>
+                  {% else %}
                   <a class="post-cat ts-orange-bg" href="/blog">Blog</a>
+                  {% endif %}
                   {% endif %}
                   <a href="{{item.url | url}}">
                     <img class="img-fluid" src="{{item.data.image}}" alt="">
