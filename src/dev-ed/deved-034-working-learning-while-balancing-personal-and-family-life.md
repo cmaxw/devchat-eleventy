@@ -33,7 +33,7 @@ They then touch on work-life balance from the perspective of managers too, where
 
 The next point discussed is how to deal with the need to learn along with working at a regular job and still manage to maintain a balance.  Consuming relevant content in the background while going about our day-to-day jobs, not underestimating the learning done on the job, carving out time for self development during work hours, writing blog posts of things learnt which will eventually lead to an awesome portfolio are some great recommendations.
 
-The last thing the panelists talk about is organizational tools for a great work-learn-life balance. They suggest Toggle, Asana, OmniFocus, 
+The last thing the panelists talk about is organizational tools for an awesome work-learn-life balance. They suggest Toggle, Asana, OmniFocus and Calendar. Luis mentions that given that we are constantly bombarded with information, it can be beneficial to sift through that, remove the unnecessary noise and concentrate on what is needed to free up significant amount of time. Joe recommends using a bulletting journal, being physical and tactile while organising rather than digital, and Mike suggests switching the airplane mode on. Tara and Sam talk about meditation and mindfulness. 
 
 The Dev Ed podcast is produced by Thinkster.io and published by DevChat.TV.
 
