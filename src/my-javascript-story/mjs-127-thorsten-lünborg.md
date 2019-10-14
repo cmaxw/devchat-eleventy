@@ -16,7 +16,11 @@ answer1: >-
   While learning Vue i also started learning JavaScript. I often go through
   times of intense learning where i decide on something in physics for example,
   and i watch off of YouTube videos about it and spend all my free time learning
-  it. JavaScript was like that.
+  it. JavaScript was like that. 
+question2: 'What would you recommend to developers that are just starting out? '
+answer2: >-
+  Out of all the frameworks i tried to learn,  i found Vue was the one that i
+  liked the most and i started answering questions about Vue on the forums.
 ---
 In this episode of My JavaScript Story is Charles talks to Thorsten Lünborg. Thorsten is a Business Service Manager at MVV Energy Solutions from Frankfurt Germany. Charles asks about Thorsten's developer journey in particular how he was introduced to JavaScript. 
 
