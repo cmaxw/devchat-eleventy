@@ -14,33 +14,28 @@ tags:
 ---
 
 
+The Dev Ed podcast is produced by Thinkster.io and published by DevChat.TV.
+
 ## Panel
 
 * [Joe Eames](https://thinkster.io/)
 * [Brooke Avery](https://thinkster.io/)
-* [Jesse Sanders](http://briebug.com/)
-* [Preston Lamb](https://www.linkedin.com/in/pjlamb12/)
+* [Sam Julien](https://twitter.com/samjulien?lang=en)
 * [Luis Hernandez](https://lambdaschool.com/about)
+* [Mike Dane](https://www.mikedane.com/)
 
-Joined by special guest: [**Tyler Leggett**](https://zeroslopeevents.com/about/)
+Joined by special guest: [Tara Z. Manicsic](https://www.linkedin.com/in/tzmanicsic/)
 
 ## Sponsors
 
 * [Thinkster.io](https://thinkster.io/)
-* [Adventures in .NET - Devchat.tv](https://devchat.tv/adventures-in-dotnet/)
-* [Adventures in Angular - Devchat.tv](https://devchat.tv/adv-in-angular/)
+* [Adventures in DevOps - Devchat.tv](https://devchat.tv/adventures-in-devops/)
+* [The Freelancers Show](https://devchat.tv/freelancers/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## Links
 
-* [Zero Slope Events](https://zeroslopeevents.com/)
-* [Glitch](https://glitch.com/)
-* [Webflow](https://webflow.com/)
-* [IFTTT](https://ifttt.com/)
-* [Zapier](https://zapier.com/)
-* [StackBlitz](https://stackblitz.com/)
-* [Airtable](https://airtable.com/)
-* [Stack Overflow](https://stackoverflow.com)
+* [Tara's Twitter](https://twitter.com/Tzmanics?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ## Picks
 
