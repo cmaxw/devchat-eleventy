@@ -59,7 +59,7 @@ Joe Eames:
 
 Luis Hernandez:
 
-* [unDraw](https://undraw.co/)
+* 
 
 Brooke Avery:
 
@@ -68,4 +68,4 @@ Brooke Avery:
 
 Tara Z. Manicsic:
 
-* [Reply All](https://podcasts.apple.com/us/podcast/reply-all/id941907967)
+*
