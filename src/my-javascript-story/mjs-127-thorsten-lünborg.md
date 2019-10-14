@@ -11,10 +11,20 @@ tags:
   - podcast
   - Thorsten Lünborg
   - Charles Max Wood
+question1: How did you get introduced to JavaScript?
+answer1: >-
+  While learning Vue i also started learning JavaScript. I often go through
+  times of intense learning where i decide on something in physics for example,
+  and i watch off of YouTube videos about it and spend all my free time learning
+  it. JavaScript was like that. 
+question2: 'What would you recommend to developers that are just starting out? '
+answer2: >-
+  Out of all the frameworks i tried to learn,  i found Vue was the one that i
+  liked the most and i started answering questions about Vue on the forums.
 ---
-In this episode of My JavaScript Story is Charles talks to Thorsten Lünborg. Thorsten is a Business Service Manager at MVV Energy Solutions from Frankfurt Germany. Charles asks about Thorsten's developer journey in particular how he was introduced to JavaScript. 
+In this episode of My JavaScript Story, Charles talks to Thorsten Lünborg. Thorsten is a Business Service Manager at MVV Energy Solutions from Frankfurt Germany. Charles asks about Thorsten's developer journey in particular how he was introduced to JavaScript. 
 
-Thorsten is also a core team member for Vue.js and he talks about his involvement with the Vue community. 
+Thorsten is also a core team member for Vue.js and he talks about his involvement with the Vue community. Thorsten mainly focuses on working on Vue CLI and answering questions in forums. He describes the Vue community as a very friendly and helpful one. According to Thorsten, Vue is very stable and seems to satisfy a lot of the needs of Vue community and so people are not looking for the "next best thing" with Vue. Out of all the frameworks i tried to learn,  i found Vue was the one that i liked the most and i started answering questions about Vue on the forums.
 
 **Host:** Charles Max Wood
 
