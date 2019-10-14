@@ -11,8 +11,16 @@ image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast
+  - Joe Eames
+  - Brooke Avery
+  - Sam Julien
+  - Luis Hernandez
+  - Mike Dane
+  - Tara Z. Manicsic
+  - developers
+  - education
 ---
-
+In this weeks episode of the DevEd podcast, the panelists talk to Tara Z. Manicsic. Tara is
 
 The Dev Ed podcast is produced by Thinkster.io and published by DevChat.TV.
 
