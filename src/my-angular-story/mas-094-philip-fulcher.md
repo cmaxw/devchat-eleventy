@@ -16,6 +16,17 @@ question1: 'Why did you decide to speak at conferences? '
 answer1: >-
   Being a speaker at conferences gives people a chance to come and talk to you
   and ask you questions and helps you develop a better network.
+question2: >-
+  What do you recommend to those looking to submit a proposal to give a talk at
+  a conference?
+answer2: >-
+  It really helps to apply with somebody else, preferably someone more
+  experienced. 
+question3: 'How experienced do you have to be in the subject you give a talk in? '
+answer3: >-
+  When I gave a talk on Intro to Bazel, i had never used Bazel so i used that
+  opportunity to learn about it. I find that teaching a subject is the best way
+  to learn it.
 ---
 This week My Angular Story welcomes Philip Fulcher, Software Engineer at Hach.  Philip gave his first talk at Angular Denver 2019 on Intro to Bazel with Bonnie Brennan  Aaron wonders why despite years of developers experience,  Philip never gave a talk at a conference before this year. 
 
