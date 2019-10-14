@@ -12,7 +12,10 @@ tags:
   - podcast
   - Aaron Frost
   - Philip Fulcher
-question1: 'What is '
+question1: 'Why did you decide to speak at conferences? '
+answer1: >-
+  Being a speaker at conferences gives people a chance to come and talk to you
+  and ask you questions and helps you develop a better network.
 ---
 This week My Angular Story welcomes Philip Fulcher, Software Engineer at Hach.  Philip gave his first talk at Angular Denver 2019 on Intro to Bazel with Bonnie Brennan  Aaron wonders why despite years of developers experience,  Philip never gave a talk at a conference before this year. 
 
@@ -51,7 +54,3 @@ One of the interesting tips Philip shares about giving talks at conferences is h
 * Watching Formula 1 Racing
 * [Formula 1: Drive to Survive ](https://www.youtube.com/watch?v=wtJPe1ksS6E)
 * [Shift+F1 Podcast](https://www.f1.cool)
-
-****
-
-****
