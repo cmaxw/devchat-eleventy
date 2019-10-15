@@ -7,7 +7,6 @@ episode_number: '023'
 duration: '58:28'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_023_Succeeding_Despite_Learning_Challenges.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

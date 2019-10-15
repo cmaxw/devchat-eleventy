@@ -6,7 +6,6 @@ date: 2019-07-09T10:00:00.000Z
 episode_number: '020'
 duration: '48:33'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_020_Making_Learning_Fun.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

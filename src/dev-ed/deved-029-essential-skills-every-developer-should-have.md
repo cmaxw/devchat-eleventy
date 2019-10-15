@@ -7,7 +7,6 @@ episode_number: 029
 duration: '58:00'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_029_Essential_Skills_Every_Developer_Should_Have.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

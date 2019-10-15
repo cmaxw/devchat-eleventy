@@ -7,7 +7,6 @@ date: 2019-05-28T04:00:01.000Z
 episode_number: '014'
 duration: '47:34'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_014_Online_Learning_Communities.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

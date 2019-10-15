@@ -7,7 +7,6 @@ date: 2019-03-26T04:00:05.000Z
 episode_number: '005'
 duration: '1:02:58'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_005_Boot_Camps.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

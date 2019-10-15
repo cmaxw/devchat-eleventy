@@ -7,7 +7,6 @@ episode_number: '034'
 duration: '55:04'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_034_Working_And_Learning_While_Balancing_Personal_and_Family_Life.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast
@@ -75,7 +74,8 @@ Joined by special guest: [Tara Z. Manicsic](https://www.linkedin.com/in/tzmanics
 
 Joe Eames:
 
-* [Beginner's Guide to Bullet Journaling | How to Start a Bullet Journal](https://www.youtube.com/watch?v=OuaaotSpifM)
+* [Beginner's Guide to Bullet Journaling | How to Start a Bullet Journal
+](https://www.youtube.com/watch?v=OuaaotSpifM)
 * [Boho Berry Bullet Journal introduction](https://www.bohoberry.com/bullet-journal-101-intro/)
 
 Tara Z. Manicsic:

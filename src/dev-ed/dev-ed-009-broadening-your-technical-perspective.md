@@ -8,7 +8,6 @@ episode_number: 009
 duration: '45:59'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_009_Broadening_Your_Technical_Perspective.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

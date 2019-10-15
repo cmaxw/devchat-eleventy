@@ -7,7 +7,6 @@ date: 2019-06-11T04:00:43.000Z
 episode_number: '016'
 duration: '45:28'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_016_Learning_Through_Podcasts.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

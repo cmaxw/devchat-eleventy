@@ -7,7 +7,6 @@ episode_number: '032'
 duration: '50:02'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_032_Learning_And_Using_Programming_for_People_in_Non-Programming_Jobs.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

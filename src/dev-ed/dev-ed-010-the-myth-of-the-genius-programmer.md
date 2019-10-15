@@ -8,7 +8,6 @@ episode_number: '010'
 duration: '1:03:25'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_010_The_Myth_of_the_Genius_Programmer.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

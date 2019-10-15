@@ -8,7 +8,6 @@ episode_number: '011'
 duration: '44:39'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_011_Print_Books_in_Developer_Education.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

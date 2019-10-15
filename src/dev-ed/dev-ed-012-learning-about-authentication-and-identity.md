@@ -8,7 +8,6 @@ episode_number: '012'
 duration: '56:10'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_012_Learning_About_Authentication_&_Identity.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

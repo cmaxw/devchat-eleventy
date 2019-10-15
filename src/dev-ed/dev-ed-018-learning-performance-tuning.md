@@ -6,7 +6,6 @@ date: 2019-06-25T10:00:00.000Z
 episode_number: 018
 duration: '42:41'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_018_Learning_Performance_Tuning.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

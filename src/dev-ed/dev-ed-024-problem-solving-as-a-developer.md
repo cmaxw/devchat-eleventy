@@ -6,7 +6,6 @@ date: 2019-08-06T10:00:00.000Z
 episode_number: '024'
 duration: '01:02:09'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_024_Problem_Solving_As_a_Developer.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

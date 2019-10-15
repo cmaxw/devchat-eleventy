@@ -6,7 +6,6 @@ date: 2019-08-13T10:00:00.000Z
 episode_number: '025'
 duration: '50:03'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_025_Reinventing_Yourself.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

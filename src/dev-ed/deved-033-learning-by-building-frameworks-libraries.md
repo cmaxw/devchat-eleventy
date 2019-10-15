@@ -7,7 +7,6 @@ episode_number: '033'
 duration: '55:42'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_033_Learning_By_Building_Frameworks_And_Libraries.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

@@ -8,7 +8,6 @@ episode_number: '001'
 duration: '50:08'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_001_Current_State_of_Education_in_Web_Development.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

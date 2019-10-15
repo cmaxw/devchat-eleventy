@@ -6,7 +6,6 @@ date: 2019-06-18T02:00:00.000Z
 episode_number: '017'
 duration: '57:22'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_017_What_You_Should_Learn_in_2019.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

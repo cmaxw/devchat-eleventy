@@ -7,7 +7,6 @@ episode_number: '031'
 duration: '44:54'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_031_How_to_Mentor_A_Greenhorn_Developer.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

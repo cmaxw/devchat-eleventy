@@ -6,7 +6,6 @@ date: 2019-09-17T10:00:00.000Z
 episode_number: '030'
 duration: '53:29'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_030_Learning_Devops.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

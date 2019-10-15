@@ -7,7 +7,6 @@ date: 2019-05-21T04:00:30.000Z
 episode_number: '013'
 duration: '30:29'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_013_Live_at_ng-conf.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

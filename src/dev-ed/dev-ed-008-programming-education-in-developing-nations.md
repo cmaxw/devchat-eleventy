@@ -8,7 +8,6 @@ episode_number: 008
 duration: '38:02'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_008_Programming_Education_in_Developing_Nations.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

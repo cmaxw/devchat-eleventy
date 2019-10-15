@@ -8,7 +8,6 @@ episode_number: '007'
 duration: '49:14'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_007_Using_Stackblitz_in_Developer_Education.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

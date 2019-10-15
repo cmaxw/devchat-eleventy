@@ -6,7 +6,6 @@ date: 2019-07-16T10:00:00.000Z
 episode_number: '021'
 duration: '49:32'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_021_Learning_Through_Storytelling.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

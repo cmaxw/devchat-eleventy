@@ -8,7 +8,6 @@ episode_number: '002'
 duration: '58:17'
 audio_url: >-
   https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_002_Staying_Current_in_Web_Development.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

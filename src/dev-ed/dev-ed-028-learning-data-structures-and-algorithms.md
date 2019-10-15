@@ -7,7 +7,6 @@ episode_number: 028
 duration: '47:09'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_028_Learning_Data_Structures_And_Algorithms.mp3
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast

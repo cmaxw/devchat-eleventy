@@ -6,7 +6,6 @@ date: 2019-07-02T10:00:00.000Z
 episode_number: 019
 duration: '51:56'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_019_Learning_By_Teaching.mp3'
-image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast
