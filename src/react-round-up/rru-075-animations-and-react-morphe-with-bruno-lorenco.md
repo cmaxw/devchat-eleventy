@@ -6,7 +6,6 @@ date: 2019-08-20T10:00:25.892Z
 episode_number: '075'
 duration: '58:37'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_075_Bruno_Lourenco.mp3'
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

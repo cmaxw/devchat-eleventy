@@ -6,7 +6,6 @@ date: 2019-09-17T10:00:23.631Z
 episode_number: 079
 duration: '49:32'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_079_Farzad_YousefZadeh.mp3'
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

@@ -6,7 +6,6 @@ date: 2019-10-08T10:00:32.550Z
 episode_number: 082
 duration: '50:20'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_082_Dinesh_Pandiyan.mp3'
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

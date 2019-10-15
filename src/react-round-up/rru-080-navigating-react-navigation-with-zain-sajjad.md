@@ -6,7 +6,6 @@ date: 2019-09-24T10:00:20.030Z
 episode_number: 080
 duration: '51:51'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_080_Zain_Sajjad.mp3'
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

@@ -6,7 +6,6 @@ date: 2019-10-15T10:00:02.396Z
 episode_number: 083
 duration: '50:53'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_083_Dean_Radcliffe.mp3'
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

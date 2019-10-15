@@ -7,7 +7,6 @@ episode_number: 081
 duration: '49:29'
 audio_url: >-
   https://media.devchat.tv/reactroundup/RRU_081_Jeffrey_Cross_And_Victor_Savkin.mp3
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast

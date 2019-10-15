@@ -6,7 +6,6 @@ date: 2019-09-03T10:00:03.078Z
 episode_number: '077'
 duration: '39:58'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_077_Andrey_Okonetchnikov.mp3'
-image: /images/uploads/charles-wood-react-round-up-album-art-2-300x300-1.jpg
 tags:
   - react_round_up
   - podcast
