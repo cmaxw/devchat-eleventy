@@ -49,50 +49,39 @@ Dean talks about his other tool, RX Helper. RX Helper provides an ‘after’ ab
 
 **Panelists**
 
-
-
-*   Charles Max Wood
+* Charles Max Wood
 
 With special guest: Dean Radcliffe
 
 **Sponsors**
 
-
-
-*   [Progress KendoReact](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-8https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-15https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-22https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-29) | Try now for FREE:[ kendoreact.com/reactroundup](http://kendoreact.com/reactroundup)
-*   [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
-*   [My JavaScript Story](https://devchat.tv/my-javascript-story/)
+* [Progress KendoReact ](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-15) | Try now for FREE: [kendoreact.com/reactroundup](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-15)
+* [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
+* [My JavaScript Story](https://devchat.tv/my-javascript-story/)
 
 **Links**
 
-
-
-*   [Knockout.js](https://knockoutjs.com/)
-*   [G2.com](https://www.g2.com)
-*   [Storybook](https://storybook.js.org/)
-*   [StorybookAnimate](https://github.com/deanius/storybook-animate)
-*   [RX Helper](https://github.com/deanius/rx-helper)
-*   [Meteor JS](https://www.meteor.com/)
+* [Knockout.js](https://knockoutjs.com/)
+* [G2.com](https://www.g2.com)
+* [Storybook](https://storybook.js.org/)
+* [StorybookAnimate](https://github.com/deanius/storybook-animate)
+* [RX Helper](https://github.com/deanius/rx-helper)
+* [Meteor JS](https://www.meteor.com/)
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
-
 
 ### **Picks**
 
 **Dean Radcliffe:**
 
-
-
-*   Follow him on [Github](https://github.com/deanius) and [Twitter](https://twitter.com/deaniusol) 
-*   [Kent C. Dodds](https://kentcdodds.com/)
-*   [@davidkpiano XState](https://github.com/davidkpiano/xstate)
-*   [Gangstagrass](http://gangstagrass.com/)
+* Follow him on [Github](https://github.com/deanius) and [Twitter](https://twitter.com/deaniusol) 
+* [Kent C. Dodds](https://kentcdodds.com/)
+* [@davidkpiano XState](https://github.com/davidkpiano/xstate)
+* [Gangstagrass](http://gangstagrass.com/)
 
 **Charles Max Wood:**
 
-
-
-*   [St. George Marathon](https://www.stgeorgemarathon.com/)
-*   [The 360 Degree Leader](https://www.amazon.com/360-Degree-Leader-Developing-Organization/dp/1400203597)
+* [St. George Marathon](https://www.stgeorgemarathon.com/)
+* [The 360 Degree Leader](https://www.amazon.com/360-Degree-Leader-Developing-Organization/dp/1400203597)
 
 <!-- Docs to Markdown version 1.0β17 -->
