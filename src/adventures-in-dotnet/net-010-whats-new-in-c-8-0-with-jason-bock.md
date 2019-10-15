@@ -9,6 +9,18 @@ audio_url: 'https://media.devchat.tv/adventures-in-dotnet/NET_010_Jason_Bock.mp3
 tags:
   - adventures_in_dotnet
   - podcast
+question1: 'What is the first thing developers should know about C# 8.0?'
+answer1: ' C# 8.0 is no longer tied to .NET Framework'
+question2: 'What are nullable reference types? '
+answer2: >-
+  They allow developers to annotate types in parameters and properties and say
+  that they are nullable.
+question3: 'What is Jason Bock''s advise for opting-in to nullable reference types. '
+answer3: >-
+  Jason advises developers to turn it on in new projects, but for large
+  projects, he advises developers to turn it on a profile basis.
+question4: What is the difference between an interface and an abstract class?
+answer4: An abstract class can have constructors and state whereas an interface cannot.
 ---
 In this week’s episode of Adventures in .NET the panel is joined by Wai Liu, the new panelist, and Jason Bock, the special guest. Wai shares a bit about himself, currently, he works as a PM from Australia. His focus lately has been on Azure and .NET Core. Jason Bock introduces himself next, he is a practice lead for application development in .NET. He is a writer and a speaker, often about the new features of C#.
 
@@ -19,7 +31,7 @@ The panel discusses migration to .NET Core from .NET Framework. Jason explains t
 
 The panel considers how hard it will be to move over large applications into .NET Core. Jason explains that since Microsoft has many applications in .NET framework they are in the same boat as other large enterprises. So, support for .NET Framework 4.8 will continue to be supported. The panel considers their current projects and how migrating could affect them. 
 
-Moving on to the new features of C# 8.0, the panel considers the two most exciting new features, default interface members and nullable reference types. They start by discussing nullable reference types. Nullable reference types allow developers to annotate ty[es in parameters and properties and say that they are nullable. 
+Moving on to the new features of C# 8.0, the panel considers the two most exciting new features, default interface members and nullable reference types. They start by discussing nullable reference types. Nullable reference types allow developers to annotate types in parameters and properties and say that they are nullable. 
 
 The panel discusses the opt-in function of this feature and why that is necessary at this stage of its release. Jason explains how this all works and the two main purposes for nullable reference types. First, it is trying to reduce the number of null references developers get. Second, it allows developers to try expressing intent. 
 
