@@ -38,7 +38,7 @@ answer4: 'Toggle, Asana, OmniFocus, Calendar, Bullet journals, Meditation'
 ---
 In this week's episode of the DevEd podcast, the panelists talk to Tara Z. Manicsic. Tara is an Angular Developer Experience Engineer at Netlify, a blogger, and loves to work in her community educating and learning from other developers. The topic for this episode is work-life balance with an emphasis on balancing learning as a programmer.
 
-The first thing they discuss is if programmers are good at balancing work-life. The general consensus is that they aren't, but mostly because they love their job, and it is also always fun to learn newer technologies and concepts. They talk about hackations and coding in beautiful environments away from their regular desks.
+The first thing they discuss is if programmers are good at balancing work-life. The general consensus is that they aren't, but mostly because they love their job, and it is also always fun to learn newer technologies and concepts. They talk about hackathons and coding in beautiful environments away from their regular desks.
 
 They talk about some strategies to maintain a good work-life balance especially in high-pressure scenarios where the work seems to never get over. They suggest time management, blocking off hours and segregating them into strictly work and non-work periods. Tara mentions working non-traditional hours while having an infant at home, while Brooke explains how to schedule things beforehand so that knowing the tasks ahead of time helps in managing them effectively. Others chip in with their suggestions as well. Tara also speaks on the importance of having a good manager with realistic expectations.
 
