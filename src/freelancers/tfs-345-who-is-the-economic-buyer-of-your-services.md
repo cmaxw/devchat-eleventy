@@ -44,7 +44,7 @@ Another suggestion he gives is working your way up the value chain, working thro
 
 - Erik Dietrich
 
-**Sponsors  **
+**Sponsors**
 
 - [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
 - [Sustain Our Software](https://devchat.tv/sustain-our-software/)
