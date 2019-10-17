@@ -632,6 +632,7 @@ collections:
     sortableFields: ["title", "date", "episode_number"]
   - name: "podcast" # Used in routes, e.g., /admin/collections/blog
     label: "Podcasts" # Used in the UI
+    extension: "json"
     folder: "src/_data/podcasts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
