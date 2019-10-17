@@ -630,3 +630,28 @@ collections:
       - {label: "Question #4", name: "question4", widget: "string", required: false}
       - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
+  - name: "podcast" # Used in routes, e.g., /admin/collections/blog
+    label: "Podcasts" # Used in the UI
+    folder: "src/_data/podcasts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Artwork", name: "artwork", widget: "string"}
+      - {label: "Front Page Artwork", name: "artwork_front", widget: "string"}
+      - {label: "Current", name: "current", widget: "boolean"}
+      - {label: "Podwrench Slug", name: "podwrench_slug", widget: "string"}
+      - {label: "Sponsor Layout", name: "sponsor_layout", widget: "string", options: ["podwrench_3_sponsors.njk", "podwrench_2_psonsors.njk", "sitewide_sidebar_sponsors.njk"] }
+      - {label: "Email Form ID", name: "email_form_id", widget: "string"}
+      - {label: "Color", name: "color", widget: "string"}
+      - {label: "Facebook", name: "facebook", widget: "string"}
+      - {label: "Twitter", name: "twitter", widget: "string"}
+      - {label: "Youtube", name: "youtube", widget: "string"}
+      - {label: "LinkedIn", name: "LinkedIn", widget: "string", default: "https://linkedin.com/company/devchat"}
+      - {label: "iTunes", name: "itunes", widget: "string"}
+      - {label: "Google Play", name: "google_play", widget: "string"}
+      - {label: "RSS", name: "rss", widget: "string"}
+      - {label: "Stitcher", name: "stitcher", widget: "string"}
+      - {label: "Spotify", name: "spotify", widget: "string"}
+      - {label: "iHeartRadio", name: "iheartradio", widget: "string"}
