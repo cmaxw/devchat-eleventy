@@ -136,7 +136,7 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 * [1 Second Everyday](https://1se.co/)
 
-* [One Sentence Journal](https://gretchenrubin.com/2007/08/why-i-started-k/ One Sentence Journal)
+* [One Sentence Journal](https://gretchenrubin.com/2007/08/why-i-started-k/)
 
 * Follow Ross on [Twitter](https://twitter.com/rossta?lang=en) and [Github](https://github.com/rossta), and on his [blog](https://rossta.net/)
 
