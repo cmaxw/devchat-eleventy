@@ -9,6 +9,14 @@ audio_url: 'https://media.devchat.tv/iphreaks/iPS_273_Panel.mp3'
 tags:
   - iphreaks
   - podcast
+  - developer
+  - stay
+  - current
+  - remote
+  - flex
+  - jobs
+  - Charles Max Wood
+  - devchat.tv
 ---
 In this week’s episode of The iPhreaks Show, Charles Max Wood (Chuck) shares some of his thoughts and advice for keeping current. He has started a keeping current email course through DevChat.TV and describes what lessons will be taught in this course. He encourages everyone to subscribe to the email course.
 
