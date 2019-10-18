@@ -10,10 +10,10 @@ image: /images/uploads/sustain-our-software-270.jpg
 tags:
   - sustain_our_software
   - podcast
-  - '#opensource'
-  - '#softwaredevelopers'
-  - '#opensourcesoftware'
-  - '#webdev @ApplePodcasts'
+  - open source
+  - software developers
+  - open source software
+  - webdev
   - Pia Mancini
   - Eric Berry
   - Richard Littauer
@@ -24,7 +24,7 @@ answer1: >-
   Developers work on open source projects for a multitude of reasons. Monetary
   incentives, known as bounties, pay developers for their work.
 question2: What is cryptocurrency?
-answer2: 'Cryptocurrency is an internet based form of currency. '
+answer2: 'Cryptocurrency is an internet based form of currency built on a ledger that's managed by a blockchain. '
 question3: How does blockchain support open source software?
 answer3: >-
   Blockchain is a means of storing and distributing information and works hand
