@@ -9,6 +9,10 @@ audio_url: 'https://media.devchat.tv/adventures-in-dotnet/NET_010_Jason_Bock.mp3
 tags:
   - adventures_in_dotnet
   - podcast
+  - Jason Bock
+  - Shawn Clabough
+  - Caleb Wells
+  - Wai Liu
 question1: 'What is the first thing developers should know about C# 8.0?'
 answer1: ' C# 8.0 is no longer tied to .NET Framework'
 question2: 'What are nullable reference types? '
