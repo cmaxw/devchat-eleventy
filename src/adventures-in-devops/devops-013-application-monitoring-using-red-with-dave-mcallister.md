@@ -70,7 +70,7 @@ The panelists then go on to discuss the human aspect of RED, how a team would re
 
 **Picks**
 
-**Nell Shamrell-Harrington	**	
+**Nell Shamrell-Harrington**	
 
 
 
