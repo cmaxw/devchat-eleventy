@@ -10,6 +10,9 @@ tags:
   - my_ruby_story
   - podcast
   - Daniel Pritchett
+  - Charles Max Wood
+  - Ruby
+  - Ruby_on_rails
 ---
 # Episode Summary
 
