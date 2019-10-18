@@ -9,6 +9,11 @@ audio_url: 'https://media.devchat.tv/iphreaks/iPS_274_Rob_Whitaker.mp3'
 tags:
   - iphreaks
   - podcast
+  - iOS
+  - Accessibility
+  - Rob Whitaker
+  - Jaim Zuber
+  - Peter Witham
 question1: 'What accessibility feature makes the biggest difference to the most people? '
 answer1: Dynamic text
 question2: What are the new accessibility features in iOS 13?

@@ -9,6 +9,12 @@ audio_url: 'https://media.devchat.tv/freelancers/TFS_343_Panel.mp3'
 tags:
   - freelancers
   - podcast
+  - self
+  - start-
+  - Jeremy Green
+  - Erik Dietrich
+  - remote
+  - jobs
 ---
 **Episode Summary**
 

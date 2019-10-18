@@ -9,6 +9,7 @@ audio_url: 'https://media.devchat.tv/adventures-in-devops/ADO_010_Panel.mp3'
 tags:
   - adventures_in_devops
   - podcast
+  - Charles Max Wood
 ---
 ### **Episode Summary**
 

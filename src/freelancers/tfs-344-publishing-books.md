@@ -9,6 +9,13 @@ audio_url: 'https://media.devchat.tv/freelancers/TFS_344_Panel.mp3'
 tags:
   - freelancers
   - podcast
+  - Publishing
+  - Books
+  - self-publish
+  - developer
+  - Jeremy Green
+  - Erik Dietrich
+  - Reuven Lerner
 question1: Why should you write a book?
 answer1: >-
   Not to make money, but to give yourself more credibility and to get your name

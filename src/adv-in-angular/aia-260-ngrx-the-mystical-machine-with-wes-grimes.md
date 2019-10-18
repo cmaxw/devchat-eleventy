@@ -9,6 +9,12 @@ audio_url: 'https://media.devchat.tv/adventures-in-angular/AiA_260_Wes_Grimes.mp
 tags:
   - adv_in_angular
   - podcast
+  - Wes Grimes
+  - Aaron Frost
+  - Brian Love
+  - Jennifer Wadella
+  - Shai Reznik
+  - Alyssa Nicoll
 question1: 'What is the biggest problem people run into when using NgRx. '
 answer1: They do not know where all their actions are.
 question2: What does Wes's article on best practice for NgRx cover?

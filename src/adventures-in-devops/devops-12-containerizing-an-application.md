@@ -14,6 +14,8 @@ tags:
   - kubernetes
   - docker
   - containers
+  - Charles Max Wood
+  - Scott Nixon
 question1: >-
   Is it easy to manage dependencies and infrastructure between local and cloud
   instances? 

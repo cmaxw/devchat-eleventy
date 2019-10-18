@@ -10,6 +10,9 @@ audio_url: >-
 tags:
   - adventures_in_blockchain
   - podcast
+  - Eric Berry
+  - Kevin Owocki
+  - Charles Max Wood
 question1: What is Gitcoin?
 answer1: >-
   Gitcoin is a place you can get coin if you are a software engineer working in

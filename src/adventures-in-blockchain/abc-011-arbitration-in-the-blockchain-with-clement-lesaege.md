@@ -9,6 +9,9 @@ audio_url: 'https://media.devchat.tv/adventures-in-blockchain/ABC_011_Clement_Le
 tags:
   - adventures_in_blockchain
   - podcast
+  - Clement Lesaege
+  - Gregory McCubbin
+  - Charles Max Wood
 question1: What does Kleros do?
 answer1: >-
   Kleros resolves disputes using a decentralized arbitration system and smart

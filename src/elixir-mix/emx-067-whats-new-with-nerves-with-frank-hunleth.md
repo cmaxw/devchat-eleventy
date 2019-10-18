@@ -9,6 +9,12 @@ audio_url: 'https://media.devchat.tv/elixir-mix/EMx_067_Frank_Hunleth.mp3'
 tags:
   - elixir_mix
   - podcast
+  - Frank Hunleth
+  - Mark Ericksen
+  - Michael Ries
+  - Josh Adams
+  - Eric Oestrich
+  - Nerves
 ---
 **Sponsors**
 

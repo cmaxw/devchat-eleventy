@@ -9,6 +9,10 @@ audio_url: 'https://media.devchat.tv/adventures-in-dotnet/NET_005_James_Montemag
 tags:
   - adventures_in_dotnet
   - podcast
+  - James Montemagno
+  - Xamarin
+  - Charles Max Wood
+  - Caleb Wells
 ---
 **Episode Summary**
 In this episode of Adventures in .NET, James Montemagno, a PM in the developer division at Microsoft working with Xamarin shares with the panel all of the exciting things happening in the Xamarin world. Charles Max Wood invites listeners to check out James’s appearances on a different DevChatTV podcast, The iPhreaks Show. Charles expresses his excitement to see Xamarin from a .NET perspective. 

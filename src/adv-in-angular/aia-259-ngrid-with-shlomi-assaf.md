@@ -9,6 +9,12 @@ audio_url: 'https://media.devchat.tv/adventures-in-angular/AiA_259_Shlomi_Assaf.
 tags:
   - adv_in_angular
   - podcast
+  - Shlomi Assaf
+  - Aaron Frost
+  - Brian Love
+  - Jennifer Wadella
+  - Shai Reznik
+  - Alyssa Nicoll
 question1: Why did Shlomi Assaf build ngrid?
 answer1: 'He wanted a completely opensource grid that was customizable. '
 question2: What are the major selling points for ngrid?

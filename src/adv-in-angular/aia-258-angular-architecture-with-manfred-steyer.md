@@ -9,6 +9,10 @@ audio_url: 'https://media.devchat.tv/adventures-in-angular/AIA_258_Manfred_Steye
 tags:
   - adv_in_angular
   - podcast
+  - Manfred Steyer
+  - Aaron Frost
+  - Brian Love
+  - Shai Reznik
 ---
 In this week’s episode of Adventures in Angular the panel interviews Manfred Steyer, the creator of ngx-build-plus and angular architecture expert and consultant. Ngx-build-plus is a way to extend how the CLI is doing its build. Manfred explains how ngx-build plus works in two different ways. The first is that it provides a partial webpack configurations file that merges with the webpack configuration that the CLI is using. The second, it provides a plugin with free methods that influence the CLI. 
 

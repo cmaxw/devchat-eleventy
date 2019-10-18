@@ -9,6 +9,9 @@ audio_url: 'https://media.devchat.tv/adventures-in-dotnet/NET_009_Wade_Gausden.m
 tags:
   - adventures_in_dotnet
   - podcast
+  - Wade Gausden
+  - Shawn Clabough
+  - Caleb Wells
 question1: What are some of the treasure in .NET Core 3.0?
 answer1: >-
   nullable reference types, IAsyncEnumerble, default interface methods, range

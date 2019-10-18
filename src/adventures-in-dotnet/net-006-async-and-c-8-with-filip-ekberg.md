@@ -9,6 +9,11 @@ audio_url: 'https://media.devchat.tv/adventures-in-dotnet/NET_006_Filip_Ekberg.m
 tags:
   - adventures_in_dotnet
   - podcast
+  - Shawn Clabough Caleb Wells
+  - 'C# 8'
+  - Async
+  - Shawn Clabough
+  - Charles Max Wood
 ---
 **Episode Summary**
 

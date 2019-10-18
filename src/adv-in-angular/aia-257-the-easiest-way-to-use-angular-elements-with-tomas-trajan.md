@@ -9,6 +9,9 @@ audio_url: 'https://media.devchat.tv/adventures-in-angular/AiA_257_Tomas_Trajan.
 tags:
   - adv_in_angular
   - podcast
+  - Tomas Trajan
+  - Aaron Frost
+  - Brian Love
 ---
 **Episode Summary**
 

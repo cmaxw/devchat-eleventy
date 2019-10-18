@@ -9,6 +9,12 @@ audio_url: 'https://media.devchat.tv/elixir-mix/EMx_069_Wiebe-Marten_Wijnja.mp3'
 tags:
   - elixir_mix
   - podcast
+  - elixir
+  - Wiebe-Marten ("Marten") Wijnja
+  - Mark Ericksen
+  - Josh Adams
+  - Distributed
+  - Databases
 ---
 **Episode Summary**
  
