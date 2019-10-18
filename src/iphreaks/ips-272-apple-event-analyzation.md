@@ -9,6 +9,9 @@ audio_url: 'https://media.devchat.tv/iphreaks/iPS_272_Panel.mp3'
 tags:
   - iphreaks
   - podcast
+  - Apple
+  - Andrew Madsen
+  - Evan Stone
 ---
 **Episode Summary**
 
