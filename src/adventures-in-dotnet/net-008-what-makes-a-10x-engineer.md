@@ -9,6 +9,7 @@ audio_url: 'https://media.devchat.tv/adventures-in-dotnet/NET_008_Charles_Max_Wo
 tags:
   - adventures_in_dotnet
   - podcast
+  - Charles Max Wood
 ---
 On this week's Adventures in .NET, Charles Max Wood (Chuck)  talks about the recent Twitter thread about 10x engineers. He goes through each of the points in the tweet and talks about each of them in turn. There are only two points he sort of agrees with, and believes the rest to be absolute garbage. One of the issues with this tweet is that it doesn’t define what a 10x engineer is. 
 
