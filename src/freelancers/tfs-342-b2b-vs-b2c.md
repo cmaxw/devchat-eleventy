@@ -9,6 +9,11 @@ audio_url: 'https://media.devchat.tv/freelancers/TFS_342_Panel.mp3'
 tags:
   - freelancers
   - podcast
+  - Reuven Lerner
+  - self
+  - start-up
+  - B2B
+  - B2C
 ---
 **Episode Summary**
 
