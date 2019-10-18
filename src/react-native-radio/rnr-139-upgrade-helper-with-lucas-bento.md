@@ -9,6 +9,11 @@ audio_url: 'https://media.devchat.tv/reactnativeradio/RNR_139_Lucas_Bento.mp3'
 tags:
   - react_native_radio
   - podcast
+  - Lucas Bento
+  - React
+  - Reactjs
+  - Charles Max Wood
+  - Helper
 question1: What is the best advice when upgrading from an older version of React Native?
 answer1: >-
   Do not skip versions when updating, first run the upgrade command and check
