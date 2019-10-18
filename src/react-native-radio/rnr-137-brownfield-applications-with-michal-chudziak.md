@@ -9,6 +9,9 @@ audio_url: 'https://media.devchat.tv/reactnativeradio/RNR_137_Michal Chudziak.mp
 tags:
   - react_native_radio
   - podcast
+  - Michal Chudziak
+  - Josh Justice
+  - Charles Max Wood
 question1: What new features will be added to React Native Brownfield?
 answer1: Build Scripts and a react native brownfield navigator
 question2: How do you know when to use a brownfield application?
