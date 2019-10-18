@@ -9,6 +9,12 @@ audio_url: 'https://media.devchat.tv/iphreaks/iPS_275_Dave_Verwer.mp3'
 tags:
   - iphreaks
   - podcast
+  - Dave Verwer
+  - Jaim Zuber
+  - Abbey Jackson
+  - Gui Rambo
+  - Andrew Madsen
+  - SwiftPM
 question1: What is SwiftPM Library?
 answer1: >-
   SwiftPM Library is a site that aims to make it easy for people to find quality
