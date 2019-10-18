@@ -9,6 +9,10 @@ audio_url: 'https://media.devchat.tv/viewsonvue/VoV_078_Christoffer_Noring.mp3'
 tags:
   - views_on_vue
   - podcast
+  - Christoffer Noring
+  - Ben Hong
+  - Elizabeth Fine
+  - Ari Clark
 ---
 **Episode Summary**
 
