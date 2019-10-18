@@ -9,6 +9,11 @@ audio_url: 'https://media.devchat.tv/freelancers/TFS_345_Panel.mp3'
 tags:
   - freelancers
   - podcast
+  - Erik Dietrich
+  - remote
+  - work
+  - self
+  - start-up
 question1: What is an economic buyer?
 answer1: >-
   An economic buyer is the person within an organization who has the authority
