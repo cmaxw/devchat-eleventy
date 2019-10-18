@@ -9,6 +9,8 @@ audio_url: 'https://media.devchat.tv/my-js-story/MJS_121_Sam_Selikoff.mp3'
 tags:
   - my_javascript_story
   - podcast
+  - Sam Selikoff
+  - Charles Max Wood
 ---
 ## Episode Summary
 
