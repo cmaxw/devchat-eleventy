@@ -9,6 +9,9 @@ audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_011_Laura_Gaetano.
 tags:
   - sustain_our_software
   - podcast
+  - Laura Gaetano
+  - Eric Berry
+  - Nate Hopkins
 ---
 In this week’s episode of Sustain Our Software the panel interviews Laura Gaetano. Laura is a developer and designer, whose main job was running was running Rails Girls Summer of Code. The panel considers how great Rails Girls is and all that they are doing. The panel also expresses their love for the Rails framework. 
 
