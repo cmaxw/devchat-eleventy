@@ -22,7 +22,7 @@ answer1: >-
   Developers work on open source projects for a multitude of reasons. Monetary
   incentives, known as bounties, pay developers for their work.
 question2: What is cryptocurrency?
-answer2: 'Cryptocurreny is an internet based form of currency. '
+answer2: 'Cryptocurrency is an internet based form of currency. '
 question3: How does blockchain support open source software?
 answer3: >-
   Blockchain is a means of storing and distributing information and works hand
