@@ -10,7 +10,10 @@ image: /images/uploads/viewsonvue.jpg
 tags:
   - views_on_vue
   - podcast
-  - '#ViewsonVue  #vuejs  #frameworks @ApplePodcasts'
+  - ViewsonVue
+  - vuejs
+  - frameworks
+  - ApplePodcasts
   - Ari Clark
   - Ben Hong
   - Sebastien Chopin
