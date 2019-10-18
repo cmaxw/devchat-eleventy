@@ -67,10 +67,13 @@ The panelists then go on to discuss the human aspect of RED, how a team would re
 *   [RED](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/)
 *   [Google’s Golden Signals ](https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/#xref_monitoring_golden-signals)
 *   [Kubernetes Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
+*   [Istio](https://istio.io/)
+*   [Envoy](https://www.envoyproxy.io/)
+*   [Prometheus](https://prometheus.io/)
 
 **Picks**
 
-**Nell Shamrell-Harrington	**	
+**Nell Shamrell-Harrington**	
 
 
 
