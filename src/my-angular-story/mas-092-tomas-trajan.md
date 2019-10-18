@@ -12,6 +12,7 @@ tags:
   - podcast
   - Tomas Trajan
   - Aaron Frost
+  - angular
 ---
 ## **Sponsors**
 
