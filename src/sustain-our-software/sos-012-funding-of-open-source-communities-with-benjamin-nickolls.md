@@ -9,6 +9,9 @@ audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_012_Benjamin_Nicko
 tags:
   - sustain_our_software
   - podcast
+  - Benjamin Nickolls
+  - Richard Littauer
+  - Eric Berry
 ---
 ## Episode Summary
 
