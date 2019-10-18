@@ -9,6 +9,10 @@ audio_url: 'https://media.devchat.tv/elixir-mix/EMx_070_Jon_Carstens.mp3'
 tags:
   - elixir_mix
   - podcast
+  - elixir
+  - Mark Ericksen
+  - Eric Oestrich
+  - Michael Ries
 ---
 In this episode of Elixir Mix the panel interviews Jon Carstens about his work with Nerves. Michael Ries gives a little background on Jon, as they have worked together and Jon helps run the remote nerves meet up that Michael attends.  Jon recently started working with Frank Hunleth at Smart Rent. Jon tells the panel what an adventure it is working at Smart Rent.
 
