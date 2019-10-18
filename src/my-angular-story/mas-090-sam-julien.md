@@ -11,6 +11,8 @@ tags:
   - my_angular_story
   - podcast
   - Sam Julien
+  - Aaron Frost
+  - angular
 ---
 ## **Sponsors**
 
