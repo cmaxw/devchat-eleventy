@@ -9,6 +9,10 @@ audio_url: 'https://media.devchat.tv/viewsonvue/VoV_079_Gwendolyn_Faraday.mp3'
 tags:
   - views_on_vue
   - podcast
+  - Gwendolyn Faraday
+  - Ben Hong
+  - Chris Fritz
+  - Ari Clark
 ---
 **Episode Summary**
 
