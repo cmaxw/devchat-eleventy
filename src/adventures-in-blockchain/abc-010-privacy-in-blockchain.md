@@ -9,6 +9,9 @@ audio_url: 'https://media.devchat.tv/adventures-in-blockchain/ABC_010_Panel.mp3'
 tags:
   - adventures_in_blockchain
   - podcast
+  - Gregory McCubbin
+  - Bruno Duarte Brito
+  - Charles Max Wood
 ---
 **Episode Summary**
 
