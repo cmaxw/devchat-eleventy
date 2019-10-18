@@ -7,8 +7,13 @@ episode_number: '341'
 duration: '35:52'
 audio_url: 'https://media.devchat.tv/freelancers/TFS_341_Panel.mp3'
 tags:
+  - agency
   - freelancers
   - podcast
+  - Erik Dietrich
+  - remote
+  - work
+  - ''
 ---
 
 **Sponsors**
