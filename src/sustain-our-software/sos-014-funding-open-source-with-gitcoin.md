@@ -1,30 +1,26 @@
 ---
-layout: layouts/post.njk
-podcast: sustain-our-software
 title: 'SOS 014: Funding Open Source With Gitcoin'
-date: 2019-10-15T10:00:00.000Z
+date: 2019-10-15T10:00:56.327Z
 episode_number: '014'
 duration: '1:04:46'
-audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_014_Kevin_Owocki.mp3'
-image: /images/uploads/sustain-our-software-270.jpg
+audio_url: 'https://devchat.cachefly.net/sustain-our-software/SOS_014_Kevin_Owocki.mp3'
 tags:
   - sustain_our_software
   - podcast
-  - open source
-  - software developers
-  - open source software
-  - webdev
+  - Open Source
+  - Maintainability
+  - Sustainability
+  - Cryptocurrency
   - Pia Mancini
   - Eric Berry
   - Richard Littauer
   - Kevin Owocki
-  - Gitcoin
 question1: What incentives are there for developers to work on open source?
 answer1: >-
   Developers work on open source projects for a multitude of reasons. Monetary
   incentives, known as bounties, pay developers for their work.
 question2: What is cryptocurrency?
-answer2: 'Cryptocurrency is an internet based form of currency built on a ledger that's managed by a blockchain. '
+answer2: Cryptocurrency is an internet based form of currency.
 question3: How does blockchain support open source software?
 answer3: >-
   Blockchain is a means of storing and distributing information and works hand
@@ -78,9 +74,11 @@ Kevin talks about the sustain conference and some of the great opportunities he 
 *   [Oscoin](http://oscoin.io)
 *   [Moloch DAO](https://molochdao.com/)
 
+
+
 **Picks**
 
-**Richard **
+**Richard**
 
 
 
