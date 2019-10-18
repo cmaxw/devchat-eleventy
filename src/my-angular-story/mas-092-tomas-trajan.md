@@ -11,6 +11,7 @@ tags:
   - my_angular_story
   - podcast
   - Tomas Trajan
+  - Aaron Frost
 ---
 ## **Sponsors**
 
