@@ -9,6 +9,9 @@ audio_url: 'https://media.devchat.tv/adventures-in-dotnet/NET_007_Panel.mp3'
 tags:
   - adventures_in_dotnet
   - podcast
+  - Shawn Clabough
+  - Caleb Wells
+  - LINQ
 ---
  In this week’s episode of Adventure in .NET the panel shares their experiences using LINQ or Language Integrated Query. They discuss the benefits of using LINQ  along with the struggles they have with it. They share some of their favorite tips and tricks for using LINQ. 
 
