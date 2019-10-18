@@ -8,6 +8,8 @@ duration: '1:04:46'
 audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_014_Kevin_Owocki.mp3'
 image: /images/uploads/sustain-our-software-270.jpg
 tags:
+  - sustain_our_software
+  - podcast
   - '#opensource'
   - '#softwaredevelopers'
   - '#opensourcesoftware'
