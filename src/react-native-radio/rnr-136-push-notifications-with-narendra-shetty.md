@@ -9,6 +9,10 @@ audio_url: 'https://media.devchat.tv/reactnativeradio/RNR_136_Narendra_Shetty.mp
 tags:
   - react_native_radio
   - podcast
+  - Narendra Shetty
+  - Josh Justice
+  - Charles Max Wood
+  - react_native
 ---
 In this week’s episode of React Native Radio, the panel interviews Narendra Shetty, who gave a recent talk on push notifications. Narendra introduces push notifications, explaining that every app needs something to notify customers. Push notifications have become a main feature in both mobile and web applications and there are a few things every developer needs to understand when using them. 
 
