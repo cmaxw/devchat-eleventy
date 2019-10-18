@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: sustain-our-software
 title: 'SOS 014: Funding Open Source With Gitcoin'
-date: 2019-10-15T10:00:56.874Z
+date: 2019-10-15T10:00:00.000Z
 episode_number: '014'
 duration: '1:04:46'
 audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_014_Kevin_Owocki.mp3'
