@@ -9,6 +9,10 @@ audio_url: 'https://media.devchat.tv/iphreaks/iPS_271_Brian_Voong.mp3'
 tags:
   - iphreaks
   - podcast
+  - Brian Voong
+  - Andrew Madsen
+  - Jaim Zuber
+  - Evan Stone
 ---
 **Episode Summary**
 
