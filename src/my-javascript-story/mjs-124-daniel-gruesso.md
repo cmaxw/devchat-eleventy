@@ -9,7 +9,8 @@ audio_url: ' https://media.devchat.tv/my-js-story/MJS_124_Daniel_Gruesso.mp3'
 tags:
   - my_javascript_story
   - podcast
-  - Nick Basile
+  - Daniel Gruesso
+  - Charles Max Wood
 ---
 This episode of My JavaScript Story is coming to you live from OSCON. Joining Charles Max Wood is Daniel Gruesso from GitLab to talk about developing in the Open Source and the Developer Report. 
 
