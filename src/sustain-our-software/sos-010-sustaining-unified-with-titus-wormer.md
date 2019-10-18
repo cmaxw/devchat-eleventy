@@ -9,6 +9,9 @@ audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_010_Titus_Wormer.m
 tags:
   - sustain_our_software
   - podcast
+  - Titus Wormer
+  - Eric Berry
+  - Richard Littauer
 ---
 **Episode Summary**
 
