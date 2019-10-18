@@ -9,6 +9,9 @@ audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_009_Lou_Huang.mp3'
 tags:
   - sustain_our_software
   - podcast
+  - Lou Huang
+  - Eric Berry
+  - Richard Littauer
 ---
 **Episode Summary**
 
