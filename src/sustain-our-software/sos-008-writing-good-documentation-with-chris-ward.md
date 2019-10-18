@@ -10,6 +10,8 @@ tags:
   - sustain_our_software
   - podcast
   - Chris Ward
+  - Richard Littauer
+  - open_source
 ---
 ## Episode Summary
 
