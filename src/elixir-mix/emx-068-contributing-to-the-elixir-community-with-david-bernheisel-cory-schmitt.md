@@ -11,6 +11,12 @@ audio_url: 'https://media.devchat.tv/elixir-mix/EMx_068_David_Bernheisel.mp3'
 tags:
   - elixir_mix
   - podcast
+  - David Bernheisel
+  - Cory Schmitt
+  - Elixir
+  - Mark Ericksen
+  - Michael Ries
+  - Josh Adams
 ---
 **Episode Summary**
 
