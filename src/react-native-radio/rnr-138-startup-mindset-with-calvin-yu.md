@@ -9,6 +9,11 @@ audio_url: 'https://media.devchat.tv/reactnativeradio/RNR_138_Calvin_Yu.mp3'
 tags:
   - react_native_radio
   - podcast
+  - Calvin Yu
+  - Josh Justice
+  - react
+  - reactjs
+  - ''
 question1: What do you have to change mentally to work for a start up?
 answer1: >-
   First, you have to realize that you don’t have all the answers and that it
