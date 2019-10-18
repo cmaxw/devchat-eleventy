@@ -9,6 +9,10 @@ audio_url: 'https://media.devchat.tv/viewsonvue/VoV_076_Jack_Koppa.mp3'
 tags:
   - views_on_vue
   - podcast
+  - Jack Koppa
+  - Chris Fritz
+  - Ben Hong
+  - Ari Clark
 ---
 **Sponsors**
 
