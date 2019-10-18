@@ -10,6 +10,7 @@ tags:
   - my_ruby_story
   - podcast
   - Saverio Miroddi
+  - Charles Max Wood
 ---
 Saverio Miroddi joins Charles Max Wood on this week's My Ruby Story. Saverio is a systems engineer and a backend programmer at Ticketsolve. He is originally from Italy and currently lives in Germany. Saverio shares his journey as a Ruby developer and also his passions outside of work such as bouldering. 
 
