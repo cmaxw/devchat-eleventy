@@ -9,7 +9,7 @@ audio_url: 'https://devchat.cachefly.net/my-js-story/MJS_125_Dan_Pastori.mp3'
 tags:
   - my_javascript_story
   - podcast
-  - Nick Basile
+  - Dan Pastori
   - Charles Max Wood
 ---
 In this episode of My JavaScript Story, Charles talks to Dan Pastori, Co-Founder, Software Architect at 521 Dimensions. 
