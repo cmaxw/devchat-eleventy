@@ -11,6 +11,8 @@ tags:
   - my_angular_story
   - podcast
   - Brandon Roberts
+  - aaron frost
+  - angular
 ---
 ## **Sponsors**
 
