@@ -10,6 +10,7 @@ tags:
   - my_ruby_story
   - podcast
   - David A. Black
+  - Charles Max Wood
 ---
 David A. Black, Software Engineer IV at 2U, joins Charles Max Wood on this week's My Ruby Story. David A. Black has been a Ruby user for 19 years and has been writing books about Ruby for the last 14 years as well as  organizing conferences.
 
