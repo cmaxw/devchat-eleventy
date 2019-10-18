@@ -15,7 +15,7 @@ tags:
   - Chris Fritz
   - Views on Vue
   - vue
-  - vue.js
+  - vue._js
 ---
 **Episode Summary**
 
