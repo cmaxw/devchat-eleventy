@@ -111,7 +111,7 @@ They share how the current development culture is to give the QA team enough tim
 
 
 
-*   Broccoli Rabe Philly Cheesesteak
+*   Broccoli rabe philly cheesesteak
 *   [Ultra Learning by Scott Young](https://amzn.to/31ZAGz6)
 *   [Libby app](https://meet.libbyapp.com/) 
 
