@@ -16,6 +16,10 @@ tags:
   - CICD
   - continuous integration
   - continuous delivery
+  - Nell Shamrell-Harrington
+  - Charles Max Wood
+  - Scott Nixon
+  - Julian Fahrer
 question1: What is continuous delivery?
 answer1: >-
   Continuous delivery is the ability to deploy to any environment at any point
@@ -55,7 +59,7 @@ They share how the current development culture is to give the QA team enough tim
 
 *   Nell Shamrell-Harrington
 *   Charles Max Wood
-*   Scott
+*   Scott Nixon
 
 **Guest**
 
@@ -103,7 +107,7 @@ They share how the current development culture is to give the QA team enough tim
 *   [3-2-1 method for ribs](https://heygrillhey.com/3-2-1-ribs-perfect-fall-off-the-bone-ribs/)
 *   The word delightful
 
-**Scott**
+**Scott Nixon**
 
 
 
