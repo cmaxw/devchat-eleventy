@@ -28,8 +28,8 @@ answer2: >-
   written in markdown or any outside sources, and data querying is done with
   GraphQL.
 question3: >-
-  They talk about the difference between Gatsby and server side rendering
-  frameworks such as Next.js.
+  What is the difference between Gatsby and server side rendering frameworks
+  such as Next.js?
 answer3: ' Luis explains that in server-side rendering, there is data on one side and template on the other, and each time there is a request made to the server, the data and template are assembled dynamically on the fly and not at build time. On the contrary, in case of Gatsby, this is done at build time, so everything that is sent from the server is precalculated.'
 question4: 'how does Gatsby deal with adding in other aspects,'
 answer4: >-
