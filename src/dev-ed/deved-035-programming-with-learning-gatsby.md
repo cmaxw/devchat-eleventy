@@ -11,28 +11,48 @@ image: /images/uploads/deved_logo.jpg
 tags:
   - dev_ed
   - podcast
+  - Joe Eames
+  - Brooke Avery
+  - Sam Julien
+  - Jesse Sanders
+  - Mike Dane
+  - Luis Hernandez
+  - developers
+  - education
+  - Gatsby
 ---
-
-
 ## Panel
 
 * [Joe Eames](https://thinkster.io/)
 * [Brooke Avery](https://thinkster.io/)
 * [Sam Julien](https://twitter.com/samjulien?lang=en)
-* [Luis Hernandez](https://lambdaschool.com/about)
+* [Jesse Sanders](https://briebug.com/)
 * [Mike Dane](https://www.mikedane.com/)
+* [Luis Hernandez](https://lambdaschool.com/about)
 
-Joined by special guest: [Tara Z. Manicsic](https://www.linkedin.com/in/tzmanicsic/)
+Joined by special guest: [Hudson Baker](https://briebug.com/)
 
 ## Sponsors
 
 * [Thinkster.io](https://thinkster.io/)
-* [Adventures in DevOps - Devchat.tv](https://devchat.tv/adventures-in-devops/)
-* [The Freelancers Show](https://devchat.tv/freelancers/)
+* [Adventures in .NET - Devchat.tv](https://devchat.tv/adventures-in-dotnet/)
+* [Elixir Mix](https://devchat.tv/elixir-mix/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## Links
 
-* [Tara's Twitter](https://twitter.com/Tzmanics?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [Hudson's Twitter](https://twitter.com/fussinhussin?lang=en)
 
 ## Picks
+
+Luis Hernandez:
+
+* [Focused and Diffuse: Two Modes of Thinking](https://fs.blog/blog/)
+
+Brooke Avery:
+
+* [Star Wars Pinball](https://www.nintendo.com/games/detail/star-wars-pinball-switch/)
+
+Sam Julien:
+
+* [Overcooked!](https://store.steampowered.com/app/448510/Overcooked/)
