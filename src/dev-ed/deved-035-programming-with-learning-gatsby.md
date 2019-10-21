@@ -71,6 +71,10 @@ Jesse Sanders:
 * [Grumpy Cat :(](https://en.wikipedia.org/wiki/Grumpy_Cat)
 * [DuckDuckGo](https://duckduckgo.com/)
 
+Hudson Baker:
+
+* [Storybook](https://storybook.js.org/)
+
 Brooke Avery:
 
 * [Star Wars Pinball](https://www.nintendo.com/games/detail/star-wars-pinball-switch/)
