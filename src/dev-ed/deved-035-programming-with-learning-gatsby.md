@@ -21,12 +21,12 @@ tags:
   - education
   - Gatsby
 question1: What is Gatsby?
-answer1: ' It is a static site generator which means that it takes in the data, and converts it into static files that can be hosted on any server. It has a lot of tooling and build process stuff built in, and uses modern javascript concepts along with GraphQL to build fast performance static sites. It is also a part of JAMStack.'
-question2: Speaking on what languages and technologies it is based on
+answer1: ' It is a static site generator, it takes in the data, and converts it into static files that can be hosted on any server. It has a lot of tooling and build process stuff built in, and uses modern javascript concepts along with GraphQL to build fast performance static sites. It is also a part of JAMStack.'
+question2: What languages and technologies is Gatsby based on?
 answer2: >-
-  Sam elaborates that Gatsby is built with React, the build process is webpack,
-  the content can be written in markdown or any outside sources, and data
-  querying is done with GraphQL.
+  Gatsby is built with React, the build process is webpack, the content can be
+  written in markdown or any outside sources, and data querying is done with
+  GraphQL.
 question3: >-
   They talk about the difference between Gatsby and server side rendering
   frameworks such as Next.js.
