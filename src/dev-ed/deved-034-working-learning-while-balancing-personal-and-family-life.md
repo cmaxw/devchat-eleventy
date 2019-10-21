@@ -75,12 +75,7 @@ Joined by special guest: [Tara Z. Manicsic](https://www.linkedin.com/in/tzmanics
 
 Joe Eames:
 
-<<<<<<< HEAD
-* [Beginner's Guide to Bullet Journaling | How to Start a Bullet Journal
-](https://www.youtube.com/watch?v=OuaaotSpifM)
-=======
 * [Beginner's Guide to Bullet Journaling | How to Start a Bullet Journal](https://www.youtube.com/watch?v=OuaaotSpifM)
->>>>>>> fa0c7bf1634223f78439d318084ca9fa69d04ecd
 * [Boho Berry Bullet Journal introduction](https://www.bohoberry.com/bullet-journal-101-intro/)
 
 Tara Z. Manicsic:
