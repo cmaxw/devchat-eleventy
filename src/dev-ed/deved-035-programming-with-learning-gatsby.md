@@ -62,6 +62,15 @@ Luis Hernandez:
 
 * [Focused and Diffuse: Two Modes of Thinking](https://fs.blog/blog/)
 
+Mike Dane:
+
+* [Splitwise](https://www.splitwise.com/)
+
+Jesse Sanders:
+
+* [Grumpy Cat :(](https://en.wikipedia.org/wiki/Grumpy_Cat)
+* [DuckDuckGo](https://duckduckgo.com/)
+
 Brooke Avery:
 
 * [Star Wars Pinball](https://www.nintendo.com/games/detail/star-wars-pinball-switch/)
