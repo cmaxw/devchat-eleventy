@@ -29,7 +29,7 @@ Gatsby can be a good starting point for people interested in learning React, bec
 
 They talk about the difference between Gatsby and server side rendering frameworks such as Next.js. Luis explains that in server-side rendering, there is data on one side and template on the other, and each time there is a request made to the server, the data and template are assembled dynamically on the fly and not at build time. On the contrary, in case of Gatsby, this is done at build time, so everything that is sent from the server is precalculated. Talking about performance considerations, he says that in server-side-rendering there is a price to pay in terms of just-in-time calculations. Sam also chimes in with his views on the comparison and mentions that they are really close performance-wise and feature-wise.
 
-They then move on to discussion the learning aspect of Gatsby. 
+They then move on to discussion the learning aspect of Gatsby. Sam explains that while it is easy to get quick results with Gatsby having some knowledge about React, GraphQL, CSS in JS and so on, it is still possible to secure small wins by using a starter project as a template and building on it.
 
 The Dev Ed podcast is produced by Thinkster.io and published by DevChat.TV.
 
