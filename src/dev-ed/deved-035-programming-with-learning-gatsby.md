@@ -20,6 +20,22 @@ tags:
   - developers
   - education
   - Gatsby
+question1: What is Gatsby?
+answer1: ' It is a static site generator which means that it takes in the data, and converts it into static files that can be hosted on any server. It has a lot of tooling and build process stuff built in, and uses modern javascript concepts along with GraphQL to build fast performance static sites. It is also a part of JAMStack.'
+question2: Speaking on what languages and technologies it is based on
+answer2: >-
+  Sam elaborates that Gatsby is built with React, the build process is webpack,
+  the content can be written in markdown or any outside sources, and data
+  querying is done with GraphQL.
+question3: >-
+  They talk about the difference between Gatsby and server side rendering
+  frameworks such as Next.js.
+answer3: ' Luis explains that in server-side rendering, there is data on one side and template on the other, and each time there is a request made to the server, the data and template are assembled dynamically on the fly and not at build time. On the contrary, in case of Gatsby, this is done at build time, so everything that is sent from the server is precalculated.'
+question4: 'how does Gatsby deal with adding in other aspects,'
+answer4: >-
+  Sam answers that it there maybe some little tweaking needed to get things
+  done, but it works well overall given that there are tons of plugins available
+  to get things from external resources.
 ---
 This week's episode of the DevEd podcast is joined by Hudson Baker. Hudson has been a developer for five years now, specializing in Angular, and is currently working at BrieBug Software. They kickstart the show by answering the basic question - What is Gatsby? Sam explains that it is a static site generator which means that it takes in the data, and converts it into static files that can be hosted on any server. It has a lot of tooling and build process stuff built in, and uses modern javascript concepts along with GraphQL to build fast performance static sites. It is also a part of JAMStack.
 
@@ -74,6 +90,7 @@ Jesse Sanders:
 Hudson Baker:
 
 * [Storybook](https://storybook.js.org/)
+* [Keep Talking and Nobody Explodes](https://keeptalkinggame.com/)
 
 Brooke Avery:
 
@@ -82,3 +99,7 @@ Brooke Avery:
 Sam Julien:
 
 * [Overcooked!](https://store.steampowered.com/app/448510/Overcooked/)
+
+Joe Eames:
+
+* [Claudia.js](https://claudiajs.com/tutorials/installing.html)
