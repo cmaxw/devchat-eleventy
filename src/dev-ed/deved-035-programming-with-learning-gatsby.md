@@ -27,7 +27,7 @@ Speaking on what languages and technologies it is based on, Sam elaborates that 
 
 Gatsby can be a good starting point for people interested in learning React, because it has many cool inbuilt tools, plugins and pre-packaged templates which make the learning process easier than starting React from scratch. From a teaching perspective, React is a better choice if the goal is to teach web applications, whereas Gatsby is good for knowing how to build websites.
 
-They then talk 
+They then talk about the difference between Gatsby and server side rendering.
 
 The Dev Ed podcast is produced by Thinkster.io and published by DevChat.TV.
 
