@@ -9,6 +9,17 @@ audio_url: 'https://media.devchat.tv/adventures-in-angular/AiA_261_Zama_Khan_Moh
 tags:
   - adv_in_angular
   - podcast
+question1: What makes Angular Project different than other technical books?
+answer1: It walks readers through using a project perspective.
+question2: What is covered in the first chapter of Angular Projects?
+answer2: >-
+  The first chapter walks through setting up Angular, installing Angular CLI and
+  Angular console. After the set up is complete he walks readers through a very
+  basic flashbase application.
+question3: What audience is Angular Projects geared toward?
+answer3: Developers new to Angular.
+question4: What does ngx-loadable do?
+answer4: 'It provides more control over loading, including lazy loading. '
 ---
 In this episode of Adventures in Angular the panel interviews Zama Khan Mohammed about his recent book and other open source work he has done in the Angular community. Zama explains what is so different about his book and why it is worth reading. His book takes an approach different than the common practice of walking readers through concepts, instead, his book walks readers through using a project perspective. 
 
@@ -36,11 +47,11 @@ Back on topic, Zama shares the challenges in writing, publishing and maintaining
 
 - Zama Khan Mohammed
 
-# Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs
+## _Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
 
 **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code &quot;devchat&quot; for 2 months free on Sentry small plan
+- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [Angular Bootcamp](https://angularbootcamp.com/)
 - [Flatfile](https://try.flatfile.io/we-built-your-data-importer?utm_source=Devchat-TV-Podcast-Audio-October-2019-EP-2&amp;utm_medium=Podcast&amp;utm_campaign=Devchat-TV-Podcast-EP-2&amp;utm_term=Episode-2&amp;utm_content=Engineer)
 - [Cachefly](https://www.cachefly.com/)
