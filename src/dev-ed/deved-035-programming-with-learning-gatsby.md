@@ -25,9 +25,11 @@ This week's episode of the DevEd podcast is joined by Hudson Baker. Hudson has b
 
 Speaking on what languages and technologies it is based on, Sam elaborates that Gatsby is built with React, the build process is webpack, the content can be written in markdown or any outside sources, and data querying is done with GraphQL. The next topic of discussion is static sites. They talk at length about what static sites are, if they can be written without a static site generator, the difference between Gatsby and other frameworks such as Angular and React, what makes sites static, how to identify them, and how to make a clear distinction between static and dynamic sites.
 
-Gatsby can be a good starting point for people interested in learning React, because it has many cool inbuilt tools, plugins and pre-packaged templates which make the learning process easier than starting React from scratch. From a teaching perspective, React is a better choice if the goal is to teach web applications, whereas Gatsby is good for knowing how to build websites.
+Gatsby can be a good starting point for people interested in learning React, because it has many cool inbuilt tools, plugins and pre-packaged templates which make the learning process easier than starting React from scratch. From a teaching perspective, React is a better choice if the goal is to teach web applications, whereas Gatsby is good for knowing how to build websites. 
 
-They then talk about the difference between Gatsby and server side rendering.
+They talk about the difference between Gatsby and server side rendering frameworks such as Next.js. Luis explains that in server-side rendering, there is data on one side and template on the other, and each time there is a request made to the server, the data and template are assembled dynamically on the fly and not at build time. On the contrary, in case of Gatsby, this is done at build time, so everything that is sent from the server is precalculated. Talking about performance considerations, he says that in server-side-rendering there is a price to pay in terms of just-in-time calculations. Sam also chimes in with his views on the comparison and mentions that they are really close performance-wise and feature-wise.
+
+They then move on to discussion the learning aspect of Gatsby. 
 
 The Dev Ed podcast is produced by Thinkster.io and published by DevChat.TV.
 
@@ -52,6 +54,7 @@ Joined by special guest: [Hudson Baker](https://briebug.com/)
 ## Links
 
 * [Hudson's Twitter](https://twitter.com/fussinhussin?lang=en)
+* [Comparison of Gatsby vs Next.js](https://www.gatsbyjs.org/features/jamstack/gatsby-vs-nextjs)
 
 ## Picks
 
