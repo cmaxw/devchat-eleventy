@@ -21,7 +21,7 @@ tags:
   - education
   - Gatsby
 question1: What is Gatsby?
-answer1: ' It is a static site generator that takes in data, and converts it into static files that can be hosted on any server. It has a lot of tooling and build process stuff built-in, and uses modern javascript concepts along with GraphQL to build fast-performance static sites.'
+answer1: ' It is a static site generator that takes in data and converts it into static files that can be hosted on any server. It has a lot of tooling and build process stuff built-in, and uses modern javascript concepts along with GraphQL to build fast-performance static sites.'
 question2: What languages and technologies is Gatsby based on?
 answer2: >-
   Gatsby is built with React, the build process is webpack, the content can be
@@ -46,7 +46,7 @@ answer4: >-
 ---
 This week's episode of the DevEd podcast is joined by Hudson Baker. Hudson has been a developer for five years now, specializing in Angular, and is currently working at BrieBug Software. 
 
-The panel kickstarts the episode by answering the basic question - What is Gatsby? Sam explains that it is a static site generator which means that it takes in data, and converts that into static files that can be hosted on any server. It has a lot of tooling and build process stuff built-in, and uses modern javascript concepts along with GraphQL to build fast-performance static sites. It is also a part of JAMStack.
+The panel kickstarts the episode by answering the basic question - What is Gatsby? Sam explains that it is a static site generator which means that it takes in data and converts that into static files that can be hosted on any server. It has a lot of tooling and build process stuff built-in, and uses modern javascript concepts along with GraphQL to build fast-performance static sites. It is also a part of JAMStack.
 
 Speaking on what languages and technologies it is based on, Sam elaborates that Gatsby is built with React, the build process is webpack, the content can be written in markdown or any outside sources, and data querying is done using GraphQL. The next topic of discussion is static sites. They talk at length about what static sites are, if they can be written without a static site generator, the difference between Gatsby and other frameworks such as Angular and React, what makes the sites static, how to identify them, and how to make a clear distinction between static and dynamic sites.
 
