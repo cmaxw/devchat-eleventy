@@ -30,12 +30,19 @@ answer2: >-
 question3: >-
   What is the difference between Gatsby and server side rendering frameworks
   such as Next.js?
-answer3: ' Luis explains that in server-side rendering, there is data on one side and template on the other, and each time there is a request made to the server, the data and template are assembled dynamically on the fly and not at build time. On the contrary, in case of Gatsby, this is done at build time, so everything that is sent from the server is precalculated.'
-question4: 'how does Gatsby deal with adding in other aspects,'
+answer3: >-
+  In server-side rendering, there is data on one side and template on the other,
+  and each time there is a request made to the server, the data and template are
+  assembled dynamically on the fly and not at build time. On the contrary, in
+  case of Gatsby, this is done at build time, so everything that is sent from
+  the server is precalculated.
+question4: >-
+  How does Gatsby deal with adding in extra aspects on top of the basic
+  functionalities?
 answer4: >-
-  Sam answers that it there maybe some little tweaking needed to get things
-  done, but it works well overall given that there are tons of plugins available
-  to get things from external resources.
+  There maybe some little tweaking needed to get things done, but it works well
+  overall given that there are tons of plugins available to get things from
+  external resources.
 ---
 This week's episode of the DevEd podcast is joined by Hudson Baker. Hudson has been a developer for five years now, specializing in Angular, and is currently working at BrieBug Software. They kickstart the show by answering the basic question - What is Gatsby? Sam explains that it is a static site generator which means that it takes in the data, and converts it into static files that can be hosted on any server. It has a lot of tooling and build process stuff built in, and uses modern javascript concepts along with GraphQL to build fast performance static sites. It is also a part of JAMStack.
 
