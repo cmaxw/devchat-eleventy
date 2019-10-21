@@ -25,7 +25,7 @@ This week's episode of the DevEd podcast is joined by Hudson Baker. Hudson has b
 
 Speaking on what languages and technologies it is based on, Sam elaborates that Gatsby is built with React, the build process is webpack, the content can be written in markdown or any outside sources, and data querying is done with GraphQL. The next topic of discussion is static sites. They talk at length about what static sites are, if they can be written without a static site generator, the difference between Gatsby and other frameworks such as Angular and React, what makes sites static, how to identify them, and how to make a clear distinction between static and dynamic sites.
 
-Gatsby can be a good starting point for people interested in learning React, because it has many cool inbuilt tools which make the learning process easier than starting from scratch. From a teaching perspective, React is a better choice if the goal is to teach web applications, whereas Gatsby is good for knowing how to build websites.
+Gatsby can be a good starting point for people interested in learning React, because it has many cool inbuilt tools, plugins and pre-packaged templates which make the learning process easier than starting React from scratch. From a teaching perspective, React is a better choice if the goal is to teach web applications, whereas Gatsby is good for knowing how to build websites.
 
 The Dev Ed podcast is produced by Thinkster.io and published by DevChat.TV.
 
