@@ -21,7 +21,9 @@ tags:
   - education
   - Gatsby
 ---
+This week's episode of the DevEd podcast is joined by Hudson Baker. Hudson has been a developer for five years now,
 
+The Dev Ed podcast is produced by Thinkster.io and published by DevChat.TV.
 
 ## Panel
 
