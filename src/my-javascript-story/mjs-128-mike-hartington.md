@@ -16,7 +16,7 @@ In this episode of My JavaScript Story is Charles talks to Mike Hartington. Mike
 
 Charles asks how Mike got introduced to development. Mike tried to code Tic-Tac-Toe and that was a challenge because knowing the rules to the game and trying to tell a computer the rules are two very two different things. 
 
-Mike then majored in Graphic Design at Rhode Island College, and started learning Flash and ActionScript. 
+Mike then majored in Graphic Design at Rhode Island College, and started learning Flash and ActionScript. Mike talks about what kind of projects he created with Flash and ActionScript and then the process of teaching himself JavaScript. 
 
 **Host:** Charles Max Wood
 
