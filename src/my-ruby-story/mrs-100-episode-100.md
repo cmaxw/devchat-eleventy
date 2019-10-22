@@ -35,7 +35,7 @@ Over the years, My Ruby Story has helped people get better jobs, shaped their ca
 
 **Charles Max Wood**
 
-* Extreme Ownership
-* 360 Degree Leadership
+* [Extreme Ownership by Jocko Willink (Author, Narrator), Leif Babin (Author, Narrator)](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/B015TM0RM4/ref=sr_1_1?crid=XINUXL14VFKU&keywords=extreme+ownership&qid=1571734385&s=books&sprefix=extreme+%2Cstripbooks-intl-ship%2C272&sr=1-1)
+* [The 360-Degree Leade by John C. Maxwell, Wayne Shepherd](https://www.amazon.com/360-Degree-Leader-Developing-Influence-Organization/dp/B000F4MJD2/ref=sr_1_1?keywords=360+Degree+Leadership&qid=1571734454&s=audible&sr=1-1)
 
 - - -
