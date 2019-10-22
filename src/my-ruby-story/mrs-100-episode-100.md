@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: my-ruby-story
-title: 'MRS 100: Episode 100'
+title: 'MRS 100: The Origin and Impact of  My Ruby Story '
 date: 2019-10-22T10:00:29.339Z
 episode_number: '100'
 duration: '28:16'
