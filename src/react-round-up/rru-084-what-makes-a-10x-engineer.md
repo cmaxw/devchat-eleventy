@@ -22,7 +22,7 @@ Chuck turns the discussion to what a 10x engineer is to him and how to find one.
 
 **Sponsors**
 
-* [Progress KendoReact ](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-15) | Try now for FREE: [kendoreact.com/reactroundup](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-15)
+* [Progress KendoReact](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-22)  | Try now for FREE: [kendoreact.com/reactroundup](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-15)
 * [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
 * [iPhreaks](https://devchat.tv/iphreaks)
 
