@@ -57,37 +57,37 @@ Overall, performance is the main thing users look for, so aim for good performan
 
 ### Panelists
 
-*   Dan Shapir
+* Dan Shapir
 
-*   Aimee Knight
+* Aimee Knight
 
-*  Charles Max Wood
+* Charles Max Wood
 
 With special guest: Vitali Zaidman
 
 Sponsors
 
-*   [Tidelift](https://tidelift.com/)
+* [Tidelift](https://tidelift.com/)
 
-*   [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
+* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
 
-*   [Elixir Mix](https://devchat.tv/elixir-mix/)
+* [Elixir Mix](https://devchat.tv/elixir-mix/)
 
 Links
 
-*   [SEO](https://moz.com/beginners-guide-to-seo)
+* [SEO](https://moz.com/beginners-guide-to-seo)
 
-*   [JSON](http://www.json.org/)
+* [JSON](http://www.json.org/)
 
-*   [Google Webmaster guidelines](https://support.google.com/webmasters/answer/35769?hl=en)
+* [Google Webmaster guidelines](https://support.google.com/webmasters/answer/35769?hl=en)
 
-*   [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
-*   [Chrome CrUX](https://developers.google.com/web/updates/2017/12/crux)
+* [Chrome CrUX](https://developers.google.com/web/updates/2017/12/crux)
 
-*   [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
-*   [Here's How the Google Speed Update Will Impact Your Site](https://www.wordstream.com/blog/ws/2018/01/22/google-speed-update)
+* [Here's How the Google Speed Update Will Impact Your Site](https://www.wordstream.com/blog/ws/2018/01/22/google-speed-update)
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 
@@ -95,22 +95,22 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 Aimee Knight:
 
-*   [Spotify CLI](https://github.com/Rigellute/spotify-tui)
+* [Spotify CLI](https://github.com/Rigellute/spotify-tui)
 
 Dan Shapir:
 
-*   [Chrome Dev Summit 2019](https://developer.chrome.com/devsummit/)
+* [Chrome Dev Summit 2019](https://developer.chrome.com/devsummit/)
 
-*   Dan Shapir on [Twitter](https://twitter.com/shapirdan?lang=en)
+* Dan Shapir on [Twitter](https://twitter.com/shapirdan?lang=en)
 
-*   [The Anubis Gates](https://en.wikipedia.org/wiki/The_Anubis_Gates)
+* [The Anubis Gates](https://en.wikipedia.org/wiki/The_Anubis_Gates)
 
 Charles Max Wood:
 
-*   [St. George Marathon](https://www.stgeorgemarathon.com/)
+* [St. George Marathon](https://www.stgeorgemarathon.com/)
 
 Vitali Zaidman: 
 
-*   [Vitali's website](https://vzaidman.com/)
+* [Vitali's website](https://vzaidman.com/)
 
-*   [Arzamas Academy](https://arzamas.academy)
+* [Arzamas Academy](https://arzamas.academy)
