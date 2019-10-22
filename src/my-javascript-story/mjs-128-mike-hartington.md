@@ -40,6 +40,7 @@ Mike then majored in Graphic Design at Rhode Island College, and started learnin
 
 * [Star Wars: The Rise of Skywalker Trailer ](https://www.youtube.com/watch?v=3n1T3HxHd7Y)
 
-**Charles Max Wood**
+**Charles Max Wood:**
 
-*
+* [Atomic Habits by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+* [Superfans  by Pat Flynn ](https://www.amazon.com/Superfans-Stand-Tribe-Successful-Business/dp/1949709469)
