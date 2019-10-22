@@ -24,7 +24,7 @@ question1: How did you go from Rails 5 to Rails 6 with the new webpacker?
 answer1: >-
   They took an iterative approach, moving files over one bit at a time. They
   manually divided their code so that the vendor libraries were in separate
-  files. 
+  files.
 question2: What should I consider when updating to Webpack?
 answer2: >-
   It’s important to consider your app size, your comfort level with Webpack,
@@ -46,14 +46,14 @@ answer4: >-
   cautions that it is not for everybody.
 ---
 
-Ross Kaffenberger is a software engineer at Stitch Fix and has been developing web applications for the past 12 years, mostly in Ruby and JavaScript. Today he and the panel are discussing how to survive Webpack. When many folks first encounter Webpack, they feel confused, overwhelmed, and don’t know how to get it to do what you want it to. In the latest version they tried to introduce some more sane default settings, but it is still a major change in technology. 
+Ross Kaffenberger is a software engineer at Stitch Fix and has been developing web applications for the past 12 years, mostly in Ruby and JavaScript. Today he and the panel are discussing how to survive Webpack. When many folks first encounter Webpack, they feel confused, overwhelmed, and don’t know how to get it to do what you want it to. In the latest version they tried to introduce some more sane default settings, but it is still a major change in technology.
 
 Ross talks about how his company transitioned Rails 5 to Rails 6 with the new Webpacker. His company chose to take an iterative approach and slowly migrated to Webpacker. His app was very JS heavy with a large number of libraries, many of which were not very Webpack friendly. They chose to separate out the vendor libraries into a separate bundle, that way they could contain each deploy. They still had to add some configuration, especially to make things available on global scope.As they started moving jQuery plugins over, sometimes the functionality would disappear, and Ross talks about how they figured out their mistakes. It was difficult for them to get out of their Sprockets mindset and into the new mindset of Webpack, which requires different techniques. There are also things that Webpack can do to keep you out of that situation
 
-Ross gives some strategy advice for someone who is in a position to update from Sprockets to Webpack. It’s important to consider your app size, your comfort level with Webpack, your team dynamic, and your timeframe. Ross recommends the iterative approach that they took, which took longer, but allowed them to learn as they went. 
+Ross gives some strategy advice for someone who is in a position to update from Sprockets to Webpack. It’s important to consider your app size, your comfort level with Webpack, your team dynamic, and your timeframe. Ross recommends the iterative approach that they took, which took longer, but allowed them to learn as they went.
 
 Ross talks about the changes that happened in the switch from Webpack 3 to Webpack 4, and some of the contributions they made. He talks about some of his preferred Webpack configs and plugins. They discuss some of the drawbacks of Webpack, particularly the plethora of plugins that can make it seem daunting.
- 
+
 One of the big gotchas with Webpack is the location of your source code. When you install Webpack for the first time, create a JS folder under App, it will place a ‘application.js’ file in another file called ‘Packs”. The idea of that pack file (application.js file under Packs) is that it’s the entry point for all of the JS that you’re going to add to your Webpack build. But if you add additional files to that Pack folder, Webpacker will instruct Webpack to treat each of those files as a separate entry point in a dependency graph. Make sure that only files that are intended to be the entry points for your Webpack builds are in that packs folder.
 
 It is also important to understand how you’re using global scope inside your JavaScript modules in your build. There’s a way to allow Webpack to inspect each of the files for a certain variable, such as a dollar sign. If he could go back and do it again, Ross would not split his code manually, but instead Embrace the notion that Webpack understands how to do code splitting for you, as long as instruct it to do it the right way.
@@ -83,11 +83,15 @@ With special guest: Ross Kaffenberger
 
 **Links**
 
+* [RailsConf talk: A Webpack Survival Guide for Rails Developers](https://www.youtube.com/watch?v=fKOq5_2qj54&feature=youtu.be&t=230)
+
+* [How we switched from Sprockets to Webpack](https://rossta.net/blog/from-sprockets-to-webpack.html)
+
 * [Webpack](https://webpack.js.org/)
 
 * [Webpacker](https://github.com/rails/webpacker)
 
-* [Sprockets](https://github.com/rails/sprockets) 
+* [Sprockets](https://github.com/rails/sprockets)
 
 * [Knockout.js](https://knockoutjs.com/)
 
@@ -136,7 +140,7 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 * [1 Second Everyday](https://1se.co/)
 
-* [One Sentence Journal](https://gretchenrubin.com/2007/08/why-i-started-k/ One Sentence Journal)
+* [One Sentence Journal](https://gretchenrubin.com/2007/08/why-i-started-k/)
 
 * Follow Ross on [Twitter](https://twitter.com/rossta?lang=en) and [Github](https://github.com/rossta), and on his [blog](https://rossta.net/)
 
