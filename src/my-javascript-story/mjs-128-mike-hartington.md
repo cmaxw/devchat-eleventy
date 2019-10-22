@@ -38,8 +38,8 @@ Mike then majored in Graphic Design at Rhode Island College, and started learnin
 
  **Mike Hartington**
 
-* 
+* [Star Wars: The Rise of Skywalker Trailer ](https://www.youtube.com/watch?v=3n1T3HxHd7Y)
 
 **Charles Max Wood**
 
-\*
+*
