@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: my-ruby-story
-title: 'MRS 100: The Origin and Impact of  My Ruby Story '
+title: 'MRS 100: The Origin and Impact of My Ruby Story '
 date: 2019-10-22T10:00:29.339Z
 episode_number: '100'
 duration: '28:16'
@@ -15,7 +15,7 @@ My Ruby Story celebrates its 100th episode. To commemorate the 100th episode hos
 
 My Ruby Story started off as a spin-off of Ruby Rogues. Acting upon advice from a business coach he was working with at the time, Charles misunderstood her suggestion to double on Ruby Rogues and instead proceeded to create a podcast similar to Ruby Rogues. Over the years, the show proceeded to inspire many developers who are just starting out and the show developed a fan base of its own. 
 
-Over the years, My Ruby Story has helped people get better jobs, shaped their careers. For those who have been positively affected, Charles requests them to send him an email sharing how My Ruby Story or any other Devchat.tv podcast. Ig you have any questions or are struggling with how to get a better job, how to talk to your boss, or what step to take to better your developer career,Charles  schedule a call at [Schedule a 15 Minute Call with Charles Max Wood](https://meetings.hubspot.com/chuck27/15-minute-listener-call). 
+Over the years, My Ruby Story has helped people get better jobs, shaped their careers. For those who have been positively affected, Charles requests them to send him an email sharing how My Ruby Story or any other Devchat.tv podcast. If you have any questions or are struggling with how to get a better job, how to talk to your boss, or what steps to take to better your developer career, Charles  schedule a call at [Schedule a 15 Minute Call with Charles Max Wood](https://meetings.hubspot.com/chuck27/15-minute-listener-call). 
 
 **Host:** Charles Max Wood
 
