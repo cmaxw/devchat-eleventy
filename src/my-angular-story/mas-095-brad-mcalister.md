@@ -46,4 +46,4 @@ Brad and Aaron talk about what is important for the Angular community and Brad s
 
 **Brad McAlister:**
 
-*
+* [Nx](https://nx.dev)
