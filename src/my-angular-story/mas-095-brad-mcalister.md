@@ -26,7 +26,7 @@ Brad and Aaron talk about what is important for the Angular community and Brad s
 
 ## **My Angular Story is produced by DevChat.TV in partnership with Hero Devs**
 
-## **Sponsors**
+### **Sponsors**
 
 * [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
 * [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
