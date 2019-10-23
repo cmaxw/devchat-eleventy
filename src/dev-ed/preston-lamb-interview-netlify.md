@@ -15,7 +15,7 @@ tags:
   - developers
   - education
 ---
-In this episode of the DevEd podcast, Brooke and Preston primarily talk about Netlify, JAMStack (JavaScript, APIs, and Markup) and Preston's new course - Deploying Apps to Netlify. Preston starts with explaining what JAMStack is, why is it popular right now and it's numerous benefits. He talks about the difference between single-page applications and JAM, 
+In this episode of the DevEd podcast, Brooke and Preston primarily talk about Netlify, JAMStack (JavaScript, APIs, and Markup) and Preston's new course - Deploying Apps to Netlify. Preston starts with explaining what JAMStack is, why is it popular right now and it's numerous benefits. He talks about the difference between single-page applications and JAM, and how Netlify comes into the picture. He answers questions on how to do authentication with Netlify, what is CMS (content management system) in the context of JAMStack, 
 
 
 
