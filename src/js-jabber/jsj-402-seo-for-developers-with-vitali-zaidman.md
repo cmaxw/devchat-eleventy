@@ -47,20 +47,19 @@ answer4: >-
 ---
 Vitali Zaidman is a full stack developer who works for WellDone Software Solutions and is currently working on a SEO project. Today's show is about SEO for developers. SEO stands for search engine optimization, which helps your website appear higher on search engines.
 
- SEO has changed a lot in the past 10 years. It has become much more regulated, and the "dirty tricks" of the past will actually penalize you, so it is important to do it properly. Today the best way to promote yourself on Google besides making good content is for developers to optimize the content, make it small, operational, secure, accessible, and operate on mobile. Much of it goes back to using semantic HTML since Google looks at it before looking at the structure of your website, how valuable it is, and how users interact with it. Having good semantics helps Google determine how valuable it is, so semantic HTML should be a top priority. Semantic HTML can also make your site more accessible to users, which will in turn give you a larger audience. 
+ SEO has changed a lot in the past 10 years. It has become much more regulated, and the "dirty tricks" of the past will actually penalize you, so it is important to do it properly. Today the best way to promote yourself on Google besides making good content is for developers to optimize the content, make it small, operational, secure, accessible, and operate on mobile. Much of it goes back to using semantic HTML since Google looks at it before looking at the structure of your website, how valuable it is, and how users interact with it. Having good semantics helps Google determine how valuable it is, so semantic HTML should be a top priority. Semantic HTML can also make your site more accessible to users, which will in turn give you a larger audience. 
 
-The panel talks about some of the challenges of SEO faced by companies. While bigger companies have the privilege of dedicated SEO teams, small companies often lack these specialists. Thankfully, Google has made their guidelines for SEO very accessible and gives you a lot of tools to track your optimization. The panel talks about different methods of SEO, such as including FAQ at the bottom of the web page, optimizing page speed, and image optimization. Structured data like questions and answers enriches the data that is shown for users on the search results page. To score your website's SEO, Google released the tool PageSpeed Insights, which will assign your website a performance score. 
+The panel talks about some of the challenges of SEO faced by companies. While bigger companies have the privilege of dedicated SEO teams, small companies often lack these specialists. Thankfully, Google has made their guidelines for SEO very accessible and gives you a lot of tools to track your optimization. The panel talks about different methods of SEO, such as including FAQ at the bottom of the web page, optimizing page speed, and image optimization. Structured data like questions and answers enriches the data that is shown for users on the search results page. To score your website's SEO, Google released the tool PageSpeed Insights, which will assign your website a performance score. 
 
-Google uses two main tools to track a website's SEO. First, they use real field data. If you opt in to 'help improve Chrome's features and performance' when you install Chrome, it tracks how fast websites load on your Chrome, and they collect this information to understand how webpages load. It is required that your website has a certain amount of visitors to be tracked and added to the database. Second, Google has their own devices that will check your website. Currently, they are using a Moto G4 to test for mobile access, and a slow internet connection. Because of this, it is pretty easy to get a good score on desktop, but difficult to get a good score on mobile. The technology that drives all this is called Lighthouse. 
+Google uses two main tools to track a website's SEO. First, they use real field data. If you opt in to 'help improve Chrome's features and performance' when you install Chrome, it tracks how fast websites load on your Chrome, and they collect this information to understand how webpages load. It is required that your website has a certain amount of visitors to be tracked and added to the database. Second, Google has their own devices that will check your website. Currently, they are using a Moto G4 to test for mobile access, and a slow internet connection. Because of this, it is pretty easy to get a good score on desktop, but difficult to get a good score on mobile. The technology that drives all this is called Lighthouse.  
 
-Overall, performance is the main thing users look for, so aim for good performance and fast websites. The panel discusses the correlation between performance and SEO. For example, Fox News and CNN are two of the top search results for 'news', but they have a dismal Google PSI score. They conclude that performance shouldn't be ignored, but be careful about directly correlating performance and SEO. They also caution against getting obsessed over certain aspects of SEO by themselves. 
+Overall, performance is the main thing users look for, so aim for good performance and fast websites. The panel discusses the correlation between performance and SEO. For example, Fox News and CNN are two of the top search results for 'news', but they have a dismal Google PSI score. They conclude that performance shouldn't be ignored, but be careful about directly correlating performance and SEO. They also caution against getting obsessed over certain aspects of SEO by themselves. 
 
-### Panelists
+
+**Panelists**
 
 - Dan Shapir
-
 - Aimee Knight
-
 - Charles Max Wood
 
 With special guest: Vitali Zaidman
@@ -68,30 +67,22 @@ With special guest: Vitali Zaidman
 Sponsors
 
 - [Tidelift](https://tidelift.com/)
-
-- [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
-
+- [Sentry](http://sentry.io/) use the code &quot;devchat&quot; for 2 months free on Sentry&#39;s small plan
 - [Elixir Mix](https://devchat.tv/elixir-mix/)
 
 Links
 
 - [SEO](https://moz.com/beginners-guide-to-seo)
-
 - [JSON](http://www.json.org/)
-
 - [Google Webmaster guidelines](https://support.google.com/webmasters/answer/35769?hl=en)
-
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-
 - [Chrome CrUX](https://developers.google.com/web/updates/2017/12/crux)
-
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+- [Here&#39;s How the Google Speed Update Will Impact Your Site](https://www.wordstream.com/blog/ws/2018/01/22/google-speed-update)
 
-- [Here's How the Google Speed Update Will Impact Your Site](https://www.wordstream.com/blog/ws/2018/01/22/google-speed-update)
+Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?%20__tn__%20=%2Cd%2CP-R&amp;eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and[Twitter](https://twitter.com/devchattv?lang=en)
 
-Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
-
-### Picks
+**Picks**
 
 Aimee Knight:
 
@@ -100,17 +91,14 @@ Aimee Knight:
 Dan Shapir:
 
 - [Chrome Dev Summit 2019](https://developer.chrome.com/devsummit/)
-
-- Dan Shapir on [Twitter](https://twitter.com/shapirdan?lang=en)
-
+- Dan Shapir on[Twitter](https://twitter.com/shapirdan?lang=en)
 - [The Anubis Gates](https://en.wikipedia.org/wiki/The_Anubis_Gates)
 
 Charles Max Wood:
 
 - [St. George Marathon](https://www.stgeorgemarathon.com/)
 
-Vitali Zaidman: 
+Vitali Zaidman:
 
 - [Vitali's website](https://vzaidman.com/)
-
 - [Arzamas Academy](https://arzamas.academy)
