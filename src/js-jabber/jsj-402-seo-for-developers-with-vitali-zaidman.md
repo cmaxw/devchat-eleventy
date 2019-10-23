@@ -86,7 +86,7 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?%20__tn__%20=
 
 Aimee Knight:
 
-- [Spotify CLI](https://github.com/Rigellute/spotify-tui)
+* [Spotify CLI](https://github.com/Rigellute/spotify-tui)
 
 Dan Shapir:
 
