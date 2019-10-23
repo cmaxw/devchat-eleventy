@@ -64,13 +64,13 @@ Overall, performance is the main thing users look for, so aim for good performan
 
 With special guest: Vitali Zaidman
 
-Sponsors
+**Sponsors**
 
 * [Tidelift](https://tidelift.com/)
 * [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
 * [Elixir Mix](https://devchat.tv/elixir-mix/)
 
-Links
+**Links**
 
 * [SEO](https://moz.com/beginners-guide-to-seo)
 * [JSON](http://www.json.org/)
