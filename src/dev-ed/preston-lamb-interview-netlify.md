@@ -33,5 +33,3 @@ He then talks about what made him choose Netlify as the topic for his course, th
 * [Deploying Apps to Netlify](https://thinkster.io/tutorials/deploying-apps-to-netlify)
 
 **The DevEd podcast is produced by Thinkster.io and published by DevChat.TV.**
-
-##
