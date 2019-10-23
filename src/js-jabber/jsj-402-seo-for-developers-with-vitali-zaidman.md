@@ -66,19 +66,19 @@ With special guest: Vitali Zaidman
 
 Sponsors
 
-- [Tidelift](https://tidelift.com/)
-- [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
-- [Elixir Mix](https://devchat.tv/elixir-mix/)
+* [Tidelift](https://tidelift.com/)
+* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
+* [Elixir Mix](https://devchat.tv/elixir-mix/)
 
 Links
 
-- [SEO](https://moz.com/beginners-guide-to-seo)
-- [JSON](http://www.json.org/)
-- [Google Webmaster guidelines](https://support.google.com/webmasters/answer/35769?hl=en)
-- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- [Chrome CrUX](https://developers.google.com/web/updates/2017/12/crux)
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse)
-- [Here&#39;s How the Google Speed Update Will Impact Your Site](https://www.wordstream.com/blog/ws/2018/01/22/google-speed-update)
+* [SEO](https://moz.com/beginners-guide-to-seo)
+* [JSON](http://www.json.org/)
+* [Google Webmaster guidelines](https://support.google.com/webmasters/answer/35769?hl=en)
+* [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [Chrome CrUX](https://developers.google.com/web/updates/2017/12/crux)
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+* [Here&#39;s How the Google Speed Update Will Impact Your Site](https://www.wordstream.com/blog/ws/2018/01/22/google-speed-update)
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?%20__tn__%20=%2Cd%2CP-R&amp;eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and[Twitter](https://twitter.com/devchattv?lang=en)
 
