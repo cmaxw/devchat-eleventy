@@ -90,15 +90,15 @@ Aimee Knight:
 
 Dan Shapir:
 
-- [Chrome Dev Summit 2019](https://developer.chrome.com/devsummit/)
-- Dan Shapir on[Twitter](https://twitter.com/shapirdan?lang=en)
-- [The Anubis Gates](https://en.wikipedia.org/wiki/The_Anubis_Gates)
+* [Chrome Dev Summit 2019](https://developer.chrome.com/devsummit/)
+* Dan Shapir on[Twitter](https://twitter.com/shapirdan?lang=en)
+* [The Anubis Gates](https://en.wikipedia.org/wiki/The_Anubis_Gates)
 
 Charles Max Wood:
 
-- [St. George Marathon](https://www.stgeorgemarathon.com/)
+* [St. George Marathon](https://www.stgeorgemarathon.com/)
 
 Vitali Zaidman:
 
-- [Vitali's website](https://vzaidman.com/)
-- [Arzamas Academy](https://arzamas.academy)
+* [Vitali's website](https://vzaidman.com/)
+* [Arzamas Academy](https://arzamas.academy)
