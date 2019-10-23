@@ -11,19 +11,22 @@ tags:
   - dev_ed
   - podcast
 ---
-This episode of the DevEd podcast is joined by Preston Lamb.
+In this episode of the DevEd podcast, Brooke and Preston primarily talk about Netlify, JAMStack and Preston's new course - Deploying Apps to Netlify. Preston starts with explaining what JAMStack is, why is it popular right now,
 
 
 
+## Panel
 
+* [Brooke Avery](https://thinkster.io/)
+* [Preston Lamb](https://www.linkedin.com/in/pjlamb12/)
 
 ## Sponsors
 
 * [Thinkster.io](https://thinkster.io/)
 
-****
+## Links
 
-****
+* [Deploying Apps to Netlify](https://thinkster.io/tutorials/deploying-apps-to-netlify)
 
 **The DevEd podcast is produced by Thinkster.io and published by DevChat.TV.**
 
