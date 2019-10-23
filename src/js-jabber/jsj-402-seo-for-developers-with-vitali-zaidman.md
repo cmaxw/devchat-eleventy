@@ -71,7 +71,6 @@ With special guest: Vitali Zaidman
 
 **Links**
 
-
 * [SEO](https://moz.com/beginners-guide-to-seo)
 * [JSON](http://www.json.org/)
 * [Google Webmaster guidelines](https://support.google.com/webmasters/answer/35769?hl=en)
