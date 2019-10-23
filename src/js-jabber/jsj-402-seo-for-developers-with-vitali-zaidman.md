@@ -45,7 +45,7 @@ answer4: >-
   accessible, and operate on mobile. Mobile web browsing has surpassed desktop
   traffic in volume, so making a site operate on mobile is extremely important.
 ---
-Vitali Zaidman is a full stack developer who works for WellDone Software Solutions and is currently working on a project with TakeAway.com working on SEO. Today's show is about SEO for developers. SEO stands for search engine optimization, which helps your website appear higher on search engines.
+Vitali Zaidman is a full stack developer who works for WellDone Software Solutions and is currently working on a SEO project. Today's show is about SEO for developers. SEO stands for search engine optimization, which helps your website appear higher on search engines.
 
  SEO has changed a lot in the past 10 years. It has become much more regulated, and the "dirty tricks" of the past will actually penalize you, so it is important to do it properly. Today the best way to promote yourself on Google besides making good content is for developers to optimize the content, make it small, operational, secure, accessible, and operate on mobile. Much of it goes back to using semantic HTML since Google looks at it before looking at the structure of your website, how valuable it is, and how users interact with it. Having good semantics helps Google determine how valuable it is, so semantic HTML should be a top priority. Semantic HTML can also make your site more accessible to users, which will in turn give you a larger audience. 
 
