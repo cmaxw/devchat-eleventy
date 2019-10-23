@@ -11,7 +11,15 @@ tags:
   - dev_ed
   - podcast
 ---
+This episode of the DevEd podcast is joined by Preston Lamb.
 
+
+
+
+
+## Sponsors
+
+* [Thinkster.io](https://thinkster.io/)
 
 ****
 
