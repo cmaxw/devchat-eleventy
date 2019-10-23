@@ -56,11 +56,11 @@ Google uses two main tools to track a website's SEO. First, they use real field 
 Overall, performance is the main thing users look for, so aim for good performance and fast websites. The panel discusses the correlation between performance and SEO. For example, Fox News and CNN are two of the top search results for 'news', but they have a dismal Google PSI score. They conclude that performance shouldn't be ignored, but be careful about directly correlating performance and SEO. They also caution against getting obsessed over certain aspects of SEO by themselves. 
 
 
-**Panelists**
+### **Panelists**
 
-- Dan Shapir
-- Aimee Knight
-- Charles Max Wood
+*   Dan Shapir
+*   Aimee Knight
+*   Charles Max Wood
 
 With special guest: Vitali Zaidman
 
