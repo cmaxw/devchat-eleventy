@@ -88,6 +88,6 @@ The episode ends with a discussion of Xcode bots. Peter Witham shares his experi
 
 - [https://plugins.jenkins.io/](https://plugins.jenkins.io/)
 
-** David House:**
+**David House:**
 
 - [https://gitmoji.carloscuesta.me/](https://gitmoji.carloscuesta.me/)
