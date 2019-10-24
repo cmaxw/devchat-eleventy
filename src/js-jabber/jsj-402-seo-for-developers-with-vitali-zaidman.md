@@ -78,6 +78,9 @@ With special guest: Vitali Zaidman
 * [Chrome CrUX](https://developers.google.com/web/updates/2017/12/crux)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 * [Here is How the Google Speed Update Will Impact Your Site](https://www.wordstream.com/blog/ws/2018/01/22/google-speed-update)
+* [SEO for Developers- A Quick Overview] (https://medium.com/welldone-software/seo-for-developers-a-quick-overview-5b5b7ce34679)
+* [Welldone Software Solutions] (https://welldone.software)
+* [Google Quality Guidelines] (https://support.google.com/webmasters/topic/6001971)
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?%20__tn__%20=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and[Twitter](https://twitter.com/devchattv?lang=en)
 
@@ -100,4 +103,5 @@ Charles Max Wood:
 Vitali Zaidman:
 
 * [Vitali's website](https://vzaidman.com/)
+* Follow Vitali on [Medium] (https://medium.com/@vzaidman) and [Twitter] (https://twitter.com/vzaidman)
 * [Arzamas Academy](https://arzamas.academy)
