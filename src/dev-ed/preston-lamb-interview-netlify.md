@@ -3,7 +3,7 @@ layout: layouts/post.njk
 podcast: dev-ed
 title: Preston Lamb Interview - Netlify
 date: 2019-10-24T10:00:00.000Z
-episode_number: '036'
+episode_number: 099
 duration: '32:15'
 audio_url: 'https://media.devchat.tv/dev-ed/DevEd_Preston_Lamb_Netlify.mp3'
 image: ''
