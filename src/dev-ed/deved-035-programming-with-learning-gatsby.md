@@ -7,7 +7,6 @@ episode_number: '035'
 duration: '46:38'
 audio_url: >-
   https://media.devchat.tv/dev-ed/DevEd_035_Programming_with_and_Learning_Gatsby.mp3
-image: ''
 tags:
   - dev_ed
   - podcast

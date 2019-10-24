@@ -16,7 +16,7 @@ tags:
   - Brooke Avery
   - Jesse Sanders
   - Preston Lamb
-  - Sam Juline
+  - Sam Julien
   - Mike Dane
   - Luiz Hernandez
   - Dylan Kearns
