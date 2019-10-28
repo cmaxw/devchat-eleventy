@@ -34,8 +34,8 @@ In this episode of JavaScript Jabber, Brendan Eich talks about history of JavaSc
 
 01:57 - Brendan Eich Introduction
 
-* [JavaScript \[Wiki]](https://en.wikipedia.org/wiki/JavaScript)
-* [Brendan Eich \[Wiki]](https://en.wikipedia.org/wiki/Brendan_Eich)
+* [JavaScript \[Wiki]](https://en.wikipedia.org/wiki/JavaScript) <br>
+* [Brendan Eich \[Wiki]](https://en.wikipedia.org/wiki/Brendan_Eich) <br>
   02:14 - Origin of JavaScript
 * [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 * [Netscape](https://en.wikipedia.org/wiki/Netscape)
