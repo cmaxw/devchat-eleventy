@@ -12,8 +12,6 @@ tags:
   - Charles Max Wood
   - Filipa Lacerda
 ---
-
-
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:**  Filipa Lacerda
@@ -24,13 +22,11 @@ tags:
 * <https://devchat.tv/views-on-vue/vov-009-building-modal-component-with-filipa-lacerda/>
 * <https://filipa.gitlab.io/>
 
-
-
 ## Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
-* [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
+* Adventures in .NET
+* Elixir Mix
 * [CacheFly](https://www.cachefly.com/)
 
 ## Picks
