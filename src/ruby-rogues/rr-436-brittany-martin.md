@@ -27,7 +27,7 @@ tags:
 * [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues) Try Cloud 66 Rails for FREE & get $66 free credits with promo code RubyRogues
 * 
 
-Links
+### Links
 
 * 
 
@@ -50,7 +50,7 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 **Nate Hopkins:**
 
-* ****
+- - -
 
 **Brittany Martin:**
 
