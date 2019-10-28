@@ -50,7 +50,7 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 **Nate Hopkins:**
 
-- - -
+* ****
 
 **Brittany Martin:**
 
