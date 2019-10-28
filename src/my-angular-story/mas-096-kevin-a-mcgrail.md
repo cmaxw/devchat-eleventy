@@ -12,7 +12,7 @@ tags:
   - Aaron Frost
   - Kevin A. McGrail
 ---
- Aaron Frost talks to Kevin A. McGrail, Director of Business Growth at InfraShield. on this week's My Angular Story. 
+Aaron Frost talks to Kevin A. McGrail, Director of Business Growth at InfraShield. on this week's My Angular Story. 
 
 ****
 
@@ -31,15 +31,16 @@ tags:
 ### **Links**
 
 * [Kevin's LinkedIn](https://www.linkedin.com/in/kmcgrail/)
-* [Brad's Twitter](https://twitter.com/sonicparke)
-* [SmartShopper](https://www.sapphire-digital.com/smartshopper/)
+* <https://www.npmjs.com/package/angular-prerender>
+
+
 
 ### **Picks**
 
 **Aaron Frost:**
 
-* TypeScript 3.7 optional chaining feature
+* 
 
 **Kevin A. McGrail:**
 
-\*
+*
