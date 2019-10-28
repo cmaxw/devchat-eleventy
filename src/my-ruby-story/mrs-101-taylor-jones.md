@@ -12,10 +12,6 @@ tags:
   - Charles Max Wood
   - Taylor Jones
 ---
-****
-
-****
-
 **Host:** Charles Max Wood
 
 **Joined By Special Guest:** Taylor Jones
@@ -29,14 +25,14 @@ tags:
 
 ## Links
 
-*  
+* 
 
 ## Picks
 
 **Charles Max Wood:**
 
-* ****
+- - -
 
  **Taylor Jones:**
 
-*
+\*
