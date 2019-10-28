@@ -31,8 +31,4 @@ tags:
 
 **Charles Max Wood:**
 
-- - -
-
- **Taylor Jones:**
-
-\*
+**Taylor Jones:**
