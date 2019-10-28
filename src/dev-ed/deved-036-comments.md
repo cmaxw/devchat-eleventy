@@ -18,9 +18,29 @@ tags:
   - education
   - comments
 question1: What are code smells?
+answer1: >-
+  A pattern that indicates that may be a problem in the code with a possibility
+  of improvement.
 question2: When should comments be used?
-question3: 'Where '
-question4: What are some good tips for new developers?
+answer2: >-
+  Comments could be useful for beginners, not so much for experienced folk. Too
+  many comments can cause a mess, so they ideally should be used only for large
+  complex functions. Can be used to specify if refactoring is needed at a later
+  stage, and for explaining the "why" instead of "how".
+question3: What are some good reasons to use comments?
+answer3: >-
+  If a certain piece of code is doing something unusual/non-obvious/might break
+  the consistency with the rest of the code, for new or junior developers on the
+  team in order to explain what is going on or what should not be done, when
+  using static values and constants.
+question4: Tips for new developers regarding comments?
+answer4: >-
+  Taking time to look through the codebase, checking how and where comments are
+  being used by other developers, refactoring code to write more readable
+  functions wherever things are unclear, using good naming conventions, trying
+  to write self-documenting code, asking a lot of questions to whoever has
+  written the code including the reasons why it is written a certain way and not
+  being afraid to add comments of your own.
 ---
 In this week's episode of the DevEd podcast, the panelists talk about code comments. To give a context of the chosen topic, Joe mentions that he sends out regular newsletters to Thinkser.io subscribers related to a variety of concepts, and has recently been sending out some on code smells, in one of which he talks about code comments. He gives an idea of what code smells are, and shares his opinion on using comments. A comment can be looked at as a failure or an inability to express the code function or even the technology, or to make the code completely readable to other programmers. Comments can also become out of date or get replaced.
 
