@@ -11,15 +11,11 @@ tags:
   - podcast
   - ''
 ---
-
-
 ### Panelists
 
 * Charles Max Wood
 * Andrew Mason
 * David Kimura
-
-
 
 **With Special Guest:** Brittany Martin
 
@@ -57,11 +53,12 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 **David Kimura:**
 
-* 
+* [Stay secure with CyberGhost VPN Free Proxy](https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb?hl=en)
+* <https://github.com/danmayer/coverband>
 
 **Andrew Mason:**
 
-* 
+* <http://expo.stimulusreflex.com>
 
 **Nate Hopkins:**
 
@@ -69,4 +66,5 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 **Brittany Martin:**
 
-*
+* [KBDfans – KBDfans Mechanical Keyboards Store](https://kbdfans.com)
+* [CrossFit Games: The Open](https://games.crossfit.com)
