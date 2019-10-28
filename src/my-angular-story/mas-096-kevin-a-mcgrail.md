@@ -12,9 +12,9 @@ tags:
   - Aaron Frost
   - Kevin A. McGrail
 ---
- Brad McAlister, Software Engineering Lead at Sapphire Digital. Sapphire Digital does healthcare transparency software for insurance companies. Brad works on a product called Smart Shopper which gives the costs of treatment options for same procedures at different hospitals.
+ Aaron Frost talks to Kevin A. McGrail, Director of Business Growth at InfraShield. on this week's My Angular Story. 
 
-
+****
 
 **Host:** Aaron Frost
 
@@ -42,4 +42,4 @@ tags:
 
 **Kevin A. McGrail:**
 
-*
+\*
