@@ -79,9 +79,9 @@ They share how the current development culture is to give the QA team enough tim
 
 
 
-*   [Hover](hover.to)
+*   [Hover](https://hover.to)
 *   [Launch Darkly](https://launchdarkly.com/)
-*   [Split.io](split.io)
+*   [Split.io](https://split.io)
 *   [Codefresh.io](https://codefresh.io/)
 *   [Argo CD](https://argoproj.github.io/argo-cd/)
 *   [Flux](https://fluxcd.io/)
@@ -121,4 +121,4 @@ They share how the current development culture is to give the QA team enough tim
 
 *   [Accelerate](https://amzn.to/33iuceU)
 *   [The State of DevOps](https://puppet.com/resources/whitepaper/state-of-devops-report)
-*   [Walk in Balance](walkinbalance.net)
+*   [Walk in Balance](https://walkinbalance.net)
