@@ -14,8 +14,6 @@ tags:
 ---
 Aaron Frost talks to Kevin A. McGrail, Director of Business Growth at InfraShield. on this week's My Angular Story. 
 
-****
-
 **Host:** Aaron Frost
 
 **Joined By Special Guest:** Kevin A. McGrail
