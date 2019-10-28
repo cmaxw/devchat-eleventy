@@ -1,0 +1,72 @@
+---
+layout: layouts/post.njk
+podcast: ruby-rogues
+title: 'RR 436: Brittany Martin'
+date: 2019-10-29T10:00:20.949Z
+episode_number: '436'
+duration: '48:02'
+audio_url: 'https://media.devchat.tv/ruby-rogues/RR_436_Brittany_Martin.mp3'
+tags:
+  - ruby_rogues
+  - podcast
+  - ''
+---
+
+
+### Panelists
+
+* Charles Max Wood
+* Andrew Mason
+* David Kimura
+
+
+
+**With Special Guest:** Brittany Martin
+
+## Sponsors
+
+* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
+* [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues) Try Cloud 66 Rails for FREE & get $66 free credits with promo code RubyRogues
+* 
+
+Links
+
+* [Old School JavaScript and Rails at RailsConf 2018](https://www.youtube.com/watch?v=lh5qfV2iP80)
+* [React](https://reactjs.org/)
+* [React Native](http://www.reactnative.com/)
+* [React Native Web](https://github.com/necolas/react-native-web)
+* [Jest](https://jestjs.io/)
+* [Capybara](https://github.com/teamcapybara/capybara)
+* [Webpacker](https://github.com/rails/webpacker)
+* [Rails-ujs](https://github.com/rails/rails-ujs)
+* [Turbolinks](https://github.com/turbolinks/turbolinks)
+* [Stimulus](https://stimulusjs.org/)
+* [Stimulus Reflex](https://github.com/hopsoft/stimulus_reflex)
+* [Babel](https://babeljs.io/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Actionview components](https://github.com/github/actionview-component)
+* [Angular](https://angular.io/)
+
+Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
+
+### Picks
+
+**Charles Max Wood:**
+
+* 
+
+**David Kimura:**
+
+* 
+
+**Andrew Mason:**
+
+* 
+
+**Nate Hopkins:**
+
+* ****
+
+**Brittany Martin:**
+
+*
