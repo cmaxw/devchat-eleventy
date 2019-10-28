@@ -68,3 +68,4 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 * [KBDfans – KBDfans Mechanical Keyboards Store](https://kbdfans.com)
 * [CrossFit Games: The Open](https://games.crossfit.com)
+* [ http://rubyconf.org/](http://rubyconf.org/)
