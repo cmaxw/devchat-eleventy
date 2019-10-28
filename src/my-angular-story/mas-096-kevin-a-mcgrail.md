@@ -1,0 +1,45 @@
+---
+layout: layouts/post.njk
+podcast: my-angular-story
+title: 'MAS 096:  Kevin A. McGrail'
+date: 2019-10-29T10:00:38.832Z
+episode_number: '96'
+duration: '41:07'
+audio_url: 'https://media.devchat.tv/my-angular-story/MAS_096_Kevin_A_McGrail.mp3'
+tags:
+  - my_angular_story
+  - podcast
+  - Aaron Frost
+  - Kevin A. McGrail
+---
+ Brad McAlister, Software Engineering Lead at Sapphire Digital. Sapphire Digital does healthcare transparency software for insurance companies. Brad works on a product called Smart Shopper which gives the costs of treatment options for same procedures at different hospitals.
+
+
+
+**Host:** Aaron Frost
+
+**Joined By Special Guest:** Kevin A. McGrail
+
+## **My Angular Story is produced by DevChat.TV in partnership with Hero Devs**
+
+### **Sponsors**
+
+* [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
+* [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
+* [CacheFly](https://www.cachefly.com/)
+
+### **Links**
+
+* [Kevin's LinkedIn](https://www.linkedin.com/in/kmcgrail/)
+* [Brad's Twitter](https://twitter.com/sonicparke)
+* [SmartShopper](https://www.sapphire-digital.com/smartshopper/)
+
+### **Picks**
+
+**Aaron Frost:**
+
+* TypeScript 3.7 optional chaining feature
+
+**Kevin A. McGrail:**
+
+*
