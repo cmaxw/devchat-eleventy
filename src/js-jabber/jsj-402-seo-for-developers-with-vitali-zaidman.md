@@ -6,7 +6,6 @@ date: 2019-10-22T10:00:49.956Z
 episode_number: '402'
 duration: '38:31'
 audio_url: 'https://media.devchat.tv/js-jabber/JSJ_402_Vitali_Zaidmanv.mp3'
-image: ''
 tags:
   - js_jabber
   - podcast
