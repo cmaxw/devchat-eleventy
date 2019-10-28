@@ -23,15 +23,13 @@ Aaron Frost talks to Kevin A. McGrail, Director of Business Growth at InfraShiel
 ### **Sponsors**
 
 * [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
-* [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
+* Adventures in DevOps
 * [CacheFly](https://www.cachefly.com/)
 
 ### **Links**
 
 * [Kevin's LinkedIn](https://www.linkedin.com/in/kmcgrail/)
 * <https://www.npmjs.com/package/angular-prerender>
-
-
 
 ### **Picks**
 
@@ -41,4 +39,4 @@ Aaron Frost talks to Kevin A. McGrail, Director of Business Growth at InfraShiel
 
 **Kevin A. McGrail:**
 
-*
+\*
