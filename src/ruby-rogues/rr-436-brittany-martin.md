@@ -27,21 +27,7 @@ tags:
 
 Links
 
-* [Old School JavaScript and Rails at RailsConf 2018](https://www.youtube.com/watch?v=lh5qfV2iP80)
-* [React](https://reactjs.org/)
-* [React Native](http://www.reactnative.com/)
-* [React Native Web](https://github.com/necolas/react-native-web)
-* [Jest](https://jestjs.io/)
-* [Capybara](https://github.com/teamcapybara/capybara)
-* [Webpacker](https://github.com/rails/webpacker)
-* [Rails-ujs](https://github.com/rails/rails-ujs)
-* [Turbolinks](https://github.com/turbolinks/turbolinks)
-* [Stimulus](https://stimulusjs.org/)
-* [Stimulus Reflex](https://github.com/hopsoft/stimulus_reflex)
-* [Babel](https://babeljs.io/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [Actionview components](https://github.com/github/actionview-component)
-* [Angular](https://angular.io/)
+* 
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 
