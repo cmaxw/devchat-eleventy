@@ -23,9 +23,7 @@ In this episode, the Views on Vue panel talks to Edd Yerburgh about unit testing
 
 Edd talks about some of the good patterns to use with Vue unit testing. He also describes what you should test or whether you should write the unit test in the first place. 
 
-
-
-
+The unit testing written also acts as code documentation where a developer reviewing the tests will get an idea of how the code is expected to behave and what the edge cases are. 
 
 They talk about how you would use Vue Test Utils, examples of components you would test with Vue Test Utils, and good patterns to use when testing. They also touch on snapshot testing, the [Vue Jest](https://github.com/vuejs/vue-jest) library, and more!
 
