@@ -28,7 +28,7 @@ tags:
 
 ### Discussion
 
-In this episode of JavaScript Jabber, Brendan Eich talks about history of JavaScript. They talk about where the name Mozilla came from. 
+In this episode of JavaScript Jabber, Brendan Eich,CEO/President, Brave Software, talks about history of JavaScript. They talk about where the name Mozilla came from. 
 
 
 
