@@ -9,7 +9,9 @@ audio_url: 'https://media.devchat.tv/ruby-rogues/RR_436_Brittany_Martin.mp3'
 tags:
   - ruby_rogues
   - podcast
-  - ''
+  - Charles Max Wood
+  - Andrew Mason
+  - David Kimura
 ---
 ### Panelists
 
