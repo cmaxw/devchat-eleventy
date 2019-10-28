@@ -82,3 +82,8 @@ The third prediction Patrick makes is that .NET will propose a cross-platform UI
 **Shawn Clabough:**
 
 - [https://conemu.github.io/](https://conemu.github.io/)
+
+**Patrick Smacchia:**
+
+- [Visualizing the Riemann hypothesis and analytic continuation](https://www.youtube.com/watch?v=sD0NjbwqlYw)
+
