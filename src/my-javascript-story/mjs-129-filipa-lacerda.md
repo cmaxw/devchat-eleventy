@@ -14,7 +14,7 @@ tags:
 ---
 Charles Max Wood talks to Filipa Lacerda in this week's My JavaScript Story. Filipa has been working as a front end engineer since 2011 and she currently works at GitLab. 
 
-Filipa originally wanted to study Economy but when she got to University she decided to major in Communications thinking it would be a lot more about communication and not as much about coding. At first she really didn't like the coding aspect of it but then as time went by she actually started to enjoy coding. 
+Filipa originally wanted to study Economy but when she got to university she decided to major in Communications thinking it would be a lot more about communication and not as much about coding. At first she really didn't like the coding aspect of it but then as time went by she actually started to enjoy coding. 
 
 When she first started working she started out on the User Experience side, but then she wanted to switch to building stuff with code because she wanted to see results really fast and enjoyed that aspect of coding. 
 
