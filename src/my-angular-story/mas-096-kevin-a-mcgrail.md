@@ -29,7 +29,7 @@ Aaron Frost talks to Kevin A. McGrail, Director of Business Growth at InfraShiel
 
 Kevin explains what cyber physical security entails and how it is different than IT security. It includes both information security and operational security including a wide spectrum  from computer access to building access. 
 
-Bridging both physical and cyber space security requires Kevin to use a lot of Angular but Angular is only one of the 40 languages Kevin uses in his job. Kevin gives examples of cyber security breaches he runs into and the number one failure he sees all the time is that there is a lack of process that goes from development to production. He often asks his clients " if there is a security issue in your code and i give you a one line code of patch for it, how long will it take yout o deploy that to production"? 
+Bridging both physical and cyber space security requires Kevin to use a lot of Angular but Angular is only one of the 40 languages Kevin uses in his job. Kevin gives examples of cyber security breaches he runs into and the number one failure he sees all the time is that there is a lack of process that goes from development to production. He often asks his clients " if there is a security issue in your code and i give you a one line code of patch for it, how long will it take yout o deploy that to production"? and the shorter the answer to that the better the client is in their cyber security implementation. 
 
 ****
 
