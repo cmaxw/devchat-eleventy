@@ -48,7 +48,7 @@ One of the other issue Kevin runs into often is when clients fork their Angular 
 ### **Sponsors**
 
 * [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
-* Adventures in DevOps
+* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 * [CacheFly](https://www.cachefly.com/)
 
 ### **Links**
