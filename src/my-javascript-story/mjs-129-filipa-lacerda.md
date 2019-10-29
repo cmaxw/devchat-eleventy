@@ -18,7 +18,7 @@ Filipa originally wanted to study Economy but when she got to University she dec
 
 When she first started working she started out on the User Experience side, but then she wanted to switch to building stuff with code because she wanted to see results really fast and enjoyed that aspect of coding. 
 
-Charles asks why she stuck with that degree instead of switching it and Filipa explains that at first because she didn't want to go back and re - take the exams and also decided that this degree offered many job opportunities and now she can't imagine herself doing anything else. 
+Charles asks why she stuck with that degree instead of switching it and Filipa explains that at first because she didn't want to go back and re - take the exams and also decided that this degree offered many job opportunities in many different industries and now she can't imagine herself doing anything else. 
 
 **Host:** Charles Max Wood
 
