@@ -71,7 +71,15 @@ page_class: category-layout-5
                   {% endif %}
                   {% endif %}
                   <a href="{{item.url | url}}">
-                    <img class="img-fluid" src="{{item.data.image}}" alt="">
+                    {% if item.data.image %}
+                      {% if item.data.image == '' %}
+                        <img class="img-fluid" src="/images/podcasts/{{podcasts[item.data.podcast].artwork}}" alt="">
+                      {% else %}
+                        <img class="img-fluid" src="{{item.data.image}}" alt="">
+                      {% end %}
+                    {% else %}
+                      <img class="img-fluid" src="/images/podcasts/{{podcasts[item.data.podcast].artwork}}" alt="">
+                    {% end %}
                   </a>
                 </div>
 
