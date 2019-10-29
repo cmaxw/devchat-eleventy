@@ -45,8 +45,8 @@ Filipa then talks about why she is working with Vue and all the different kind o
 ## Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* Adventures in .NET
-* Elixir Mix
+* [Adventures in .NET](https://devchat.tv/adventures-in-dotnet/)
+* [Elixir Mix](https://devchat.tv/elixir-mix/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## Picks
