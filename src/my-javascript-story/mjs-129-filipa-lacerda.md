@@ -11,6 +11,15 @@ tags:
   - podcast
   - Charles Max Wood
   - Filipa Lacerda
+question1: 'What is the best technology and how do you pick it? '
+answer1: >-
+  A lot of the times the best technology is tnot the fastest one but the one
+  that works best for your project and lets you build on top of what you already
+  have most easily. 
+question2: 'What is an aspect of Vue that draws a lot of developers ? '
+answer2: >-
+  THe Vue community, the fact that it is an open source project and  ease of use
+  and versatility are big attractions to developers.
 ---
 Charles Max Wood talks to Filipa Lacerda in this week's My JavaScript Story. Filipa has been working as a front end engineer since 2011 and she currently works at GitLab. 
 
@@ -20,7 +29,7 @@ When she first started working she started out on the User Experience side, but 
 
 Charles asks why she stuck with that degree instead of switching it and Filipa explains that at first because she didn't want to go back and re - take the exams and also decided that this degree offered many job opportunities in many different industries and now she can't imagine herself doing anything else. 
 
-Filipa then talks about all the different kind of projects she has done using Vue.js 
+Filipa then talks about why she is working with Vue and all the different kind of projects she has done using Vue. 
 
 **Host:** Charles Max Wood
 
@@ -42,6 +51,8 @@ Filipa then talks about all the different kind of projects she has done using Vu
 ## Picks
 
 **Filipa Lacerda:**
+
+* ****
 
 **Charles Max Wood:**
 
