@@ -40,6 +40,7 @@ Filipa then talks about why she is working with Vue and all the different kind o
 * <https://devchat.tv/views-on-vue/vov-025-gitlabs-journey-with-vue-with-filipa-lacerda-and-jacob-schatz/>
 * <https://devchat.tv/views-on-vue/vov-009-building-modal-component-with-filipa-lacerda/>
 * <https://filipa.gitlab.io/>
+* <https://twitter.com/FilipaLacerda>
 
 ## Sponsors
 
