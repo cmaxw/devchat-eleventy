@@ -52,8 +52,8 @@ Filipa then talks about why she is working with Vue and all the different kind o
 
 **Filipa Lacerda:**
 
-* ****
+* [Why We Sleep by Walker PhD, Matthew ](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/ref=sr_1_2?keywords=why+we+sleep&qid=1568066147&s=gateway&sr=8-2)
 
 **Charles Max Wood:**
 
-* [Why We Sleep by Walker PhD, Matthew ](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/ref=sr_1_2?keywords=why+we+sleep&qid=1568066147&s=gateway&sr=8-2)
+*
