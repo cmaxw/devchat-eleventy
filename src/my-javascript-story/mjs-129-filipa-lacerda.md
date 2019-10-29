@@ -20,6 +20,8 @@ When she first started working she started out on the User Experience side, but 
 
 Charles asks why she stuck with that degree instead of switching it and Filipa explains that at first because she didn't want to go back and re - take the exams and also decided that this degree offered many job opportunities in many different industries and now she can't imagine herself doing anything else. 
 
+Filipa then talks about all the different kind of projects she has done using Vue.js 
+
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:**  Filipa Lacerda
