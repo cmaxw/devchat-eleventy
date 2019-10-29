@@ -34,7 +34,7 @@ Finally Charles wants to know what Taylor's life is like outside of work. Taylor
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 * [React Native Radio](https://devchat.tv/react-native-radio/)
-* Adventures in DevOps
+* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## Links
