@@ -11,7 +11,10 @@ tags:
   - podcast
   - Charles Max Wood
   - Taylor Jones
-question1: ''
+question1: 'What is a key to do for a developer to build his/her network? '
+answer1: >-
+  One of the best growth points for a developer is speakin opportunities at
+  conferences.
 ---
 My Ruby Story this week welcomes Taylor Jones, Support Engineer at Heroku. Charles asks Taylor how he ended up at Heroku. Taylor shares his journey after majoring in Computer Science at Auburn University. 
 
