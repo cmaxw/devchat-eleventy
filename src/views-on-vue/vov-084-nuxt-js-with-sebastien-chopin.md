@@ -6,7 +6,6 @@ date: 2019-10-22T10:00:44.699Z
 episode_number: 084
 duration: '54:07'
 audio_url: 'https://media.devchat.tv/viewsonvue/VoV_084_Sebastien_Chopin.mp3'
-image: /images/uploads/viewsonvue.jpg
 tags:
   - views_on_vue
   - podcast

@@ -6,7 +6,6 @@ date: 2019-10-08T10:00:00.000Z
 episode_number: '82'
 duration: '1:02:26'
 audio_url: 'https://media.devchat.tv/viewsonvue/VoV_082_Panel.mp3'
-image: /images/uploads/viewsonvue.jpg
 tags:
   - views_on_vue
   - podcast
