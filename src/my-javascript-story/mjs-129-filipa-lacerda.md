@@ -18,7 +18,7 @@ answer1: >-
   have most easily. 
 question2: 'What is an aspect of Vue that draws a lot of developers ? '
 answer2: >-
-  THe Vue community, the fact that it is an open source project and  ease of use
+  The Vue community, the fact that it is an open source project and  ease of use
   and versatility are big attractions to developers.
 ---
 Charles Max Wood talks to Filipa Lacerda in this week's My JavaScript Story. Filipa has been working as a front end engineer since 2011 and she currently works at GitLab. 
