@@ -11,8 +11,11 @@ tags:
   - podcast
   - Charles Max Wood
   - Taylor Jones
+question1: ''
 ---
-My Ruby Story this week welcomes Taylor Jones, Support Engineer at Heroku. 
+My Ruby Story this week welcomes Taylor Jones, Support Engineer at Heroku. Charles asks Taylor how he ended up at Heroku. Taylor shares his journey after majoring in Computer Science at Auburn University. 
+
+Taylor had a lot of downtime in his first job so he started learning Rails online. Then after he graduated he was able to get more chances working full time with Ruby. He then started speaking at conferences such as RailsConf. 
 
 ****
 
