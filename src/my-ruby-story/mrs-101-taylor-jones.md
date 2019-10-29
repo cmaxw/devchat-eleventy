@@ -12,6 +12,10 @@ tags:
   - Charles Max Wood
   - Taylor Jones
 ---
+My Ruby Story this week welcomes Taylor Jones, Support Engineer at Heroku. 
+
+****
+
 **Host:** Charles Max Wood
 
 **Joined By Special Guest:** Taylor Jones
@@ -26,6 +30,7 @@ tags:
 ## Links
 
 * [RR 425: Rails + Webpacker with Taylor Jones](https://devchat.tv/ruby-rogues/rr-425-rails-webpacker-with-taylor-jones/#viewport)
+* <https://www.heroku.com>
 
 ## Picks
 
