@@ -17,6 +17,10 @@ My Ruby Story this week welcomes Taylor Jones, Support Engineer at Heroku. Charl
 
 Taylor had a lot of downtime in his first job so he started learning Rails online. Then after he graduated he was able to get more chances working full time with Ruby. He then started speaking at conferences such as RailsConf. 
 
+Charles and Taylor talk about how working at  a place you really want to is not a pie in the sky but actually is doable if you position yourself correctly.  For example Taylor really wanted to work at Heroku and was friends with the people at Heroku. When there was an opening his friends contacted him and Taylor was able to find a job at Heroku. 
+
+Charles wonders what drew Taylor to programming and Taylor talks about how he was introduced to developing through video games. 
+
 ****
 
 **Host:** Charles Max Wood
