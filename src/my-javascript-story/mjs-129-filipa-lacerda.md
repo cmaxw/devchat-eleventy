@@ -57,6 +57,6 @@ Filipa then talks about why she is working with Vue and all the different kind o
 
 **Charles Max Wood:**
 
-* ****[RxJS Live: Conference](https://www.rxjs.live)
+* [RxJS Live: Conference](https://www.rxjs.live)
 * Nikon D5600 Camera
 * [RØDE Microphones](http://www.rode.com/microphones/reporter)
