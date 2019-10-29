@@ -25,7 +25,7 @@ tags:
 
 ## Links
 
-* 
+* [RR 425: Rails + Webpacker with Taylor Jones](https://devchat.tv/ruby-rogues/rr-425-rails-webpacker-with-taylor-jones/#viewport)
 
 ## Picks
 
