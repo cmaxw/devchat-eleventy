@@ -42,7 +42,7 @@ Finally Charles wants to know what Taylor's life is like outside of work. Taylor
 * [RR 425: Rails + Webpacker with Taylor Jones](https://devchat.tv/ruby-rogues/rr-425-rails-webpacker-with-taylor-jones/#viewport)
 * <https://www.heroku.com>
 * <https://twitter.com/hiimtaylorjones>
-* 
+* [www.hiimtaylorjones.com](www.hiimtaylorjones.com)
 
 ## Picks
 
