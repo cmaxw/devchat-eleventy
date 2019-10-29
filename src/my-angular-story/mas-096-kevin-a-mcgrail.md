@@ -57,14 +57,13 @@ One of the other issue Kevin runs into often is when clients fork their Angular 
 
 ### **Links**
 
-* [Kevin's LinkedIn](https://www.linkedin.com/in/kmcgrail/)
-* <https://www.npmjs.com/package/angular-prerender>
+* [Kevin's LinkedIn](https://www.linkedin.com/in/kmcgrail/)   
 
 ### **Picks**
 
 **Aaron Frost:**
 
-* 
+* <https://www.npmjs.com/package/angular-prerender>
 
 **Kevin A. McGrail:**
 
