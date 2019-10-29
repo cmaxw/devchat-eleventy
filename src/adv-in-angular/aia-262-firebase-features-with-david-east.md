@@ -9,6 +9,19 @@ audio_url: 'https://media.devchat.tv/adventures-in-angular/AiA_262_David_East.mp
 tags:
   - adv_in_angular
   - podcast
+question1: What is Firebase Extenstion?
+answer1: David describes it as serverless without any code.
+question2: What is Google Analytics for Firebase?
+answer2: This allows you to use Firebase tools in conjunction with Google Analytics.
+question3: Did David East write Angular Fire?
+answer3: >-
+  Yes, David shares the story behind writing Angular Fire. Jeff Cross worked on
+  the angular team and started writing angular fire but then left for Nrwl.
+  After Jeff left, David took over and ended up rewriting the entire library.
+question4: What is David's recommendation for using Angular Fire and NgRX?
+answer4: >-
+  David’s advice is to let Firebase and NgRx do their own thing and connect the
+  dots with RxJs.
 ---
 In this episode of Adventures in Angular the panel has fun interviewing David East about Firebase. David starts by sharing what it was like at the recent Firebase Summit in Madrid. There were so many announcements they had a tough time fitting them all into the one-hour keynote address. 
 
@@ -39,7 +52,7 @@ The episode ends with a discussion of Firebase’s documentation, which is curre
 
 - David East
 
-## Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs
+## _Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
 
 **Sponsors**
 
@@ -78,4 +91,4 @@ The episode ends with a discussion of Firebase’s documentation, which is curre
 
 - Alyssa Nicoll
 - [Freakonomics](http://freakonomics.com/archive/)
-- [The Signal and the Noise: Why So Many Predictions Fail-But Some Don&#39;t](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-But/dp/159420411X/ref=asc_df_159420411X/?ie=UTF8&amp;qid=1548462018&amp;sr=8-1&amp;linkCode=ll1&amp;tag=devchattv-20&amp;linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&amp;language=en_US)
+- [The Signal and the Noise](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-But/dp/159420411X/ref=asc_df_159420411X/?ie=UTF8&amp;qid=1548462018&amp;sr=8-1&amp;linkCode=ll1&amp;tag=devchattv-20&amp;linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&amp;language=en_US)
