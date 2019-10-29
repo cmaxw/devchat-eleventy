@@ -31,8 +31,6 @@ answer3: >-
   patches they have in place. 
 question4: ''
 ---
-
-
 Aaron Frost talks to Kevin A. McGrail, Director of Business Growth at InfraShield on this week's My Angular Story. Kevin specializes in cyber security and e-mail security. At InfraShield they specialize in cyber physical security in critical infrastructures. 
 
 Kevin explains what cyber physical security entails and how it is different than IT security. It includes both information security and operational security including a wide spectrum  from computer access to building access. 
@@ -40,8 +38,6 @@ Kevin explains what cyber physical security entails and how it is different than
 Bridging both physical and cyber space security requires Kevin to use a lot of Angular but Angular is only one of the 40 languages Kevin uses in his job. Kevin gives examples of cyber security breaches he runs into and the number one failure he sees all the time is that there is a lack of process that goes from development to QA and then to production. He often asks his clients " if there is a security issue in your code and i give you a one line code of patch for it, how long will it take you to deploy that to production"? and the shorter the answer to that the better the client is in their cyber security implementation. 
 
 One of the other issue Kevin runs into often is when clients fork their Angular and then they are hesitant to update their Angular version because of all the security patches they have in place. So that becomes a catch 22 example so Kevin warns against forking Angular because it becomes a big security risk. Kevin goes on to share some of the other common mistakes that companies make that puts at them risk for security. 
-
-****
 
 **Host:** Aaron Frost
 
