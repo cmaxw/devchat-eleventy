@@ -49,8 +49,9 @@ Finally Charles wants to know what Taylor's life is like outside of work. Taylor
 **Charles Max Wood:**
 
 * <https://jamstackconf.com/sf/>
-* 
+* Impact Theory with Tom Bilyeu - Podcast
 
 **Taylor Jones:**
 
 * [Super Pumped: The Battle for Uber Book by Mike Isaac](https://www.amazon.com/Super-Pumped-Battle-Mike-Isaac/dp/0393652246)
+*
