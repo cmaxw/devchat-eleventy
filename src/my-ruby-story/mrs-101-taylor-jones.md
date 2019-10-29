@@ -22,7 +22,9 @@ Taylor had a lot of downtime in his first job so he started learning Rails onlin
 
 Charles and Taylor talk about how working at  a place you really want to is not a pie in the sky but actually is doable if you position yourself correctly.  For example Taylor really wanted to work at Heroku and was friends with the people at Heroku. When there was an opening his friends contacted him and Taylor was able to find a job at Heroku. 
 
-Charles wonders what drew Taylor to programming and Taylor talks about how he was introduced to developing through video games. Taylor also talks about the concept " if you start out with Ruby you stick with Ruby and how this was true for him. 
+Charles wonders what drew Taylor to programming and Taylor talks about how he was introduced to developing through video games. Taylor also talks about the concept " if you start out with Ruby you stick with Ruby" and how this was true for him. 
+
+Finally Charles wants to know what Taylor's life is like outside of work. Taylor talks about what he does is in his free time which is playing guitars.
 
 **Host:** Charles Max Wood
 
@@ -43,5 +45,7 @@ Charles wonders what drew Taylor to programming and Taylor talks about how he wa
 ## Picks
 
 **Charles Max Wood:**
+
+* ****
 
 **Taylor Jones:**
