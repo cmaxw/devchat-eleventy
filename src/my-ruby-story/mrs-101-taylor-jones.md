@@ -41,11 +41,16 @@ Finally Charles wants to know what Taylor's life is like outside of work. Taylor
 
 * [RR 425: Rails + Webpacker with Taylor Jones](https://devchat.tv/ruby-rogues/rr-425-rails-webpacker-with-taylor-jones/#viewport)
 * <https://www.heroku.com>
+* <https://twitter.com/hiimtaylorjones>
+* 
 
 ## Picks
 
 **Charles Max Wood:**
 
-* ****
+* <https://jamstackconf.com/sf/>
+* 
 
 **Taylor Jones:**
+
+* [Super Pumped: The Battle for Uber Book by Mike Isaac](https://www.amazon.com/Super-Pumped-Battle-Mike-Isaac/dp/0393652246)
