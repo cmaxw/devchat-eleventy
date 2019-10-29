@@ -46,6 +46,4 @@ Finally Charles wants to know what Taylor's life is like outside of work. Taylor
 
 **Charles Max Wood:**
 
-* ****
-
-**Taylor Jones:**
+* **Taylor Jones:**
