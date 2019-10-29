@@ -11,8 +11,16 @@ tags:
   - podcast
   - Aaron Frost
   - Kevin A. McGrail
+question1: 'What is cyber physical security ? '
+answer1: >-
+  Cyber physical security  is the combination of both information security and
+  operational security.
 ---
-Aaron Frost talks to Kevin A. McGrail, Director of Business Growth at InfraShield. on this week's My Angular Story. 
+
+
+Aaron Frost talks to Kevin A. McGrail, Director of Business Growth at InfraShield on this week's My Angular Story. Kevin specializes in cyber security and e-mail security. At InfraShield they specialize in cyber physical security in critical infrastructures. 
+
+Kevin explains what cyber physical security entails and how it is different than IT security. It includes both information security and operational security. 
 
 **Host:** Aaron Frost
 
