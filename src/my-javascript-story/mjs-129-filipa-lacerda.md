@@ -12,6 +12,10 @@ tags:
   - Charles Max Wood
   - Filipa Lacerda
 ---
+Charles Max Wood talks to Filipa Lacerda in this week's My JavaScript Story. Filipa has been working as a front end engineer since 2011 and she currently works at GitLab. 
+
+Filipa originally wanted to study Economy but when she got to University she decided to major in Communications thinking it would be a lot more about communication and not as much about coding. At first she really didn't like the coding aspect of it but then as time went by she actually started to enjoy coding. 
+
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:**  Filipa Lacerda
@@ -33,8 +37,6 @@ tags:
 
 **Filipa Lacerda:**
 
-* ****
-
-**Charles Max Wood**
+**Charles Max Wood:**
 
 * [Why We Sleep by Walker PhD, Matthew ](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/ref=sr_1_2?keywords=why+we+sleep&qid=1568066147&s=gateway&sr=8-2)
