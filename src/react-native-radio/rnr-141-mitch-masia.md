@@ -31,8 +31,6 @@ answer4: >-
   Charles Max Wood shares how his priorities changed with testing through the
   years.
 ---
-## Episode Summary
-
 In this episode of React Native Radio, panelists Josh Justice and Charles Max Wood interview Mitch Masia. He is a software engineer from Chicago and works with all things JavaScript, React, React Native, Node, and is currently working on a project to create a financial research platform.
 
 The product is called EEON. It is inspired by the lack of apps for people to easily research and make informed financial decisions when it comes to investing with all the amazing zero commission trading apps out there. They are looking to expand upon the information available within those apps to be able to give a rating system, real time visualizations, and data on financial statements.
