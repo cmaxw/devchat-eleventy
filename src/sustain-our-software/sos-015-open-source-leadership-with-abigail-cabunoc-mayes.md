@@ -34,8 +34,6 @@ answer4: >-
   Giving them ownership over a piece of the project will give them a reason to
   stay.
 ---
-**Episode Summary**
-
 This episode of Sustain our Software features Abigail Cabunoc Mayes. Abigail has a background in bioinformatics and computer science and has an interest in using computers to solve problems in biology. She works for the Mozilla Foundation where she is a practice lead working Open. She has been named in “100 Awesome Women in Open source” and mentioned in Github’s State of the Octoverse 2016. Abigail begins by sharing some of how she got started and what interests her in technology. The discussion then moves to altmetrics and how Abigail helps people publish code and get recognition for their work. 
 
 Richard asks Abigail how her work for mozilla fits into the type of work she is known for. Abigail shares that Mozilla is much more than the Firefox browser that it is known for. Abigail shares that “Mozilla’s mission is to ensure that the Internet is a global, public resource” that is “open and accessible to all”. This mission at Mozilla goes back to the browser wars of the early 2000’s when they created Firefox to ensure that a web browser was available to all. Abigail goes into further detail how the Mozilla foundation helps to further the internet and open source as well as what she is currently working on. 
