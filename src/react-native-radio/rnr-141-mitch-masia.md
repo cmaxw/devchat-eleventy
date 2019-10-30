@@ -62,44 +62,43 @@ Next, the panel talks about collaborating with the app and how the app will be f
 
 ## Guest
 
-* [Mitch Masia](www.linkedin.com/in/mitch-masia/)
+* [Mitch Masia](https://www.linkedin.com/in/mitch-masia/)
 
 **Sponsors**
 
-* [Infinite Red](mailchi.mp/infinitered/radio)
-* [CacheFly](www.cachefly.com/)
-* [Ruby Rogues](devchat.tv/ruby-rogues/)
-* [iPhreaks ](devchat.tv/iphreaks/)
+* [Infinite Red](https://mailchi.mp/infinitered/radio)
+* [CacheFly](https://www.cachefly.com/)
+* [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+* [iPhreaks ](https://devchat.tv/iphreaks/)
 
 ## Links
 
-* [Mitch Masia - GitHub](github.com/masiamj)
-* [Mitch Masia - Blog](medium.com/hexient-labs)
-* [EEON](www.eeon.com/)
-* [Mitch Masia - Slides](slides.com/mmasia)
-* [Expo](expo.io/)
-* [React Native Typography](github.com/hectahertz/react-native-typography)
-* [React Native Snap Carousel](github.com/archriss/react-native-snap-carousel)
-* [React Native Popmotion](popmotion.io/pose/learn/native-get-started/)
-* [Redis Pub/Sub](redis.io/topics/pubsub)
-* [RNR on Facebook](www.facebook.com/ReactNativeRadio/)
-* [RNR on Twitter](twitter.com/R_N_Radio?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [Mitch Masia - GitHub](https://github.com/masiamj)
+* [EEON](https://www.eeon.com/)
+* [Mitch Masia - Slides](https://slides.com/mmasia)
+* [Expo](https://expo.io/)
+* [React Native Typography](https://github.com/hectahertz/react-native-typography)
+* [React Native Snap Carousel](https://github.com/archriss/react-native-snap-carousel)
+* [React Native Popmotion](https://popmotion.io/pose/)
+* [Redis Pub/Sub](https://redis.io/topics/pubsub)
+* [RNR on Facebook](https://www.facebook.com/ReactNativeRadio/)
+* [RNR on Twitter](https://twitter.com/R_N_Radio?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ## Picks
 
 Josh Justice
 
-* [MobX](mobx.js.org/getting-started.html)
-* [Twitter](twitter.com/?lang=en)
+* [MobX](https://mobx.js.org/README.html)
+* [Twitter](https://twitter.com/)
 
 Charles Max Wood
 
-* [St. George Marathon](www.stgeorgemarathon.com/)
-* [CES](www.ces.tech/)
+* [St. George Marathon](https://www.stgeorgemarathon.com/)
+* [CES](https://www.ces.tech/)
 
 Mitch Masia
 
-* [Ant Design](ant.design/docs/react/introduce)
-* [GraphQL Shield](github.com/maticzav/graphql-shield)
-* [Can it be done in React Native? YouTube videos](www.youtube.com/channel/UC806fwFWpiLQV5y-qifzHnA)
+* [Ant Design](https://ant.design/docs/react/introduce)
+* [GraphQL Shield](https://github.com/maticzav/graphql-shield)
+* [Can it be done in React Native? YouTube videos](https://www.youtube.com/channel/UC806fwFWpiLQV5y-qifzHnA)
 * Raquetball
