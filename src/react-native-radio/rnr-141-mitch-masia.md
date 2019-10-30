@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: react-native-radio
-title: 'RNR 141: Mitch Masia'
+title: 'RNR 141: EEON with Mitch Masia'
 date: 2019-10-29T10:00:00.000Z
 episode_number: '141'
 duration: '54:14'
