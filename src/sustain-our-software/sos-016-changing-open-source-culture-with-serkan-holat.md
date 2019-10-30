@@ -41,8 +41,6 @@ answer4: >-
   Anybody can push the culture of open source forward. Individuals, companies,
   and governments all have roles they can play to help move forward open source.
 ---
-**Episode Summary**
-
 Serkan is a freelance software developer who has been developing web applications since 2001. Lately he has been working with Angular and ASP.NET. He shares that he has been studying sustainability of open source issues since 2014 and also shares the abridged version of how he came to be involved with the open source community. 
 
 Richard then asks Serkan to share more details on how he as a developer became interested in open source. He shares how as a developer working on proprietary software he often found himself working on similar solutions in different companies and he realized that he was building the same software solutions over and over. From this he concluded that open sourcing these types of projects would reduce the need to keep creating these projects by sharing the solutions between those that need them. Serkan points out the problem with the way open source works now is that it’s difficult to make money in it and as such he started looking for ways to fix this problem. He has the desire to find ways to move money from proprietary solutions into open source. Serkan asserts that the only real difference between proprietary software and open source software is licensing and furthermore that any software could be open source. 
