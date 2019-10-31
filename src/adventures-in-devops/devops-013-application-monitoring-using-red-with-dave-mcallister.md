@@ -28,8 +28,6 @@ answer4: >-
   Service meshes provide duration to a microservice that requires little work to
   implement.
 ---
-**Episode Summary**
-
 This episode of Adventures in Devops features Dave McAllister. Dave has an extensive background in open source starting in 1994 working with early versions of Linux. He thrives on the concepts of emerging technologies and being able to innovate things. He also loves understanding what people are doing with emerging technology. 
 
 The discussion opens up by introducing the topic of multi-dimensional monitoring in RED. Dave gives us an introduction into RED as a subset of google’s SRE Golden signals. RED stands for rate, errors, and durations and is a concept that is designed for working with micro services. The DevOps panelists discuss concepts such as saturation and how to ensure correct results from their micro services using the RED concepts as well as some best practices for managing micro services.  
