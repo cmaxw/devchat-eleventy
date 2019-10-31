@@ -26,8 +26,6 @@ answer4: >-
   CSS modules has a wide variety of usages. One specific usage noted by Tracey
   is in Ruby on Rails.
 ---
-**Episode Summary**
-
 This episode of Views on Vue features Tracey Holinka, a web application architect with the role of front-end lead for Bloomberg industry group. The Views on Vue podcaster begin by asking Tracey how she got into Vue. Her Vue experience starts at work where she didn’t like the technologies they were using so she and a colleague decided to switch over to GraphQL, Apollo Client, and Vue. One of the many things that she appreciates about Vue is its diverse array of applications.
 
  
