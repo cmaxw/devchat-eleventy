@@ -37,8 +37,6 @@ answer3: >-
 question4: Who should write integration tests for a continuous delivery system?
 answer4: It is common to have a dedicated team for writing integration tests.
 ---
-**Episode Summary**
-
 Julian Fahrer is a software engineer with a systems administration and operations background. He currently works at Hover and is helping them move towards continuous delivery. 
 
 Nell opens up the discussion by asking Julian to explain what continuous integration and continuous delivery are. He shares that continuous integration revolves around having testing and automation around the code being pushed to ensure that it works and conforms to standards. Continuous delivery feeds off of the concept of continuous integration and is the ability to deploy to any environment at any point in time. Chuck puts these ideas together by saying that continuous delivery and continuous deployment is about making sure that it’s possible to deploy at any time and actually doing so. 

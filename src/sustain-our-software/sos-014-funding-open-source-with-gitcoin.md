@@ -28,8 +28,6 @@ answer3: >-
 question4: How do I get involved with funding open source on Gitcoin?
 answer4: 'Go to https://gitcoin.co/bounties/funder'
 ---
-**Episode Summary**
-
 The special guest for this episode of Sustain our Software is Kevin Owocki. Kevin is the founder of Gitcoin, a service that links up freelance developers with people who need them and pays these developers in crypto currency. Gitcoin is a blockchain forward brand that is built on open source software and currently uses Ethereum as its crypto currency of choice rather than creating their own. They like Ethereum because of its relevance as the 2nd most popular cryptocurrency at the time of this episode. By incentivizing open source contributions, Gitcoin has become an important contributor to the funding of open source software. 
 
 Pia begins the discussion by asking Kevin how the bounty system is governed for Gitcoin and Kevin shares some of their structure, process, and philosophy on the subject as well as Gitcoin’s desire to make it easy for developers to find work on their platform. The panelists then discuss how they think the future of the job market will change with the emergence of blockchain. The discussion starts with stating that bounties are the current popular system but Eric says he would look to see a blockchain based paycheck network among other ideas. Pia questions how Eric’s ideas can scale to the larger open source ecosystems and how to have a conversation with a company to open a wallet with Ethereum. Eric responds with some of his ideas on how to make this work as well as some roadblocks they might face. One of the biggest challenges is that the technologies involved are newly emerging and this brings along some skepticism with it. 

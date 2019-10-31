@@ -33,8 +33,6 @@ answer4: >-
   Yes, and furthermore Scott thinks that every CI/CD platform should use
   containers.
 ---
-**Episode Summary**
-
 On this episode of Adventures in DevOps the panelists talk about how to containerize an app in a container using services such as Docker or Kubernetes. Charles mentions that he is wanting to host a Ruby on Rails application and Scott has experience with web deployments in Python and Django. They share that regardless of the languages and technologies used, the principles behind deploying a containerized application are the same.
 
 The next topic covered by the DevOps panelists is how to create containerized instances using Docker. The discussion centers on creating the container instances on a network and best practices that can be used for managing and maintaining them. The DevOps panelists cover the difference between an internal network deployment and what is needed to push a containerized application to a cloud instance using Kubernetes, Docker, DigitalOcean, or another service. Scott asks Charles if he is using a good CI/CD (continuous integration/ continuous delivery) mechanism, to which Charles shares that he is using Cloud 66 for its ease of use. When it comes to storage, they discuss whether to use the cloud services storage option or using a container to run a Postgres engine. They also go over the best way to run the shell commands for configuring their environment.

@@ -32,8 +32,6 @@ answer3: >-
 question4: What are some profiling tools that exist for Erlang?
 answer4: 'There are profiling tools by the names of eprof, fprof, and cprof.'
 ---
-**Episode Summary**
-
 This episode of Elixir mix opens with Lars Wikman and Emilio Nyaray sharing how they came to be working together on a project called Inky. Inky is an E-Ink display that works with Nerves and Elixir. The project started when Lars wanted to use the Inky device from Nerves but didn’t want to install Python to do it. Emilio wanted to join because he found it fascinating to be able to control this device with Elixir. Lars and Emilio share some details of how this project came about and how it works. 
 
 The inky comes in multiple sizes with the smaller pHAT display being about the size of a business card and the Inky wHAT being closer to the size of a Raspberry Pi. Lars shares that one of the biggest gotchas with these displays is the refresh rate. Once the pixels are changed the device can be turned off and still remain the same because they are physically changing. The panelists highlight that very little troubleshooting time had to go in to the Nerves portion of the project. Lars describes how he began looking at using Nerves just after it was announced and how he decided to use it in this project. He also shares how he wants to take on a project to put together a cross stitch of a bigger display that can change each day. One way to do this is by putting multiple pHATs together but Lars would prefer to use a wHAT.

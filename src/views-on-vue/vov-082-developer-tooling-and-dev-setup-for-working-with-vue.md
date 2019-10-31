@@ -16,8 +16,6 @@ tags:
   - vue
   - vue._js
 ---
-**Episode Summary**
-
 On this episode of Views on Vue the panelists discuss their preferences for their development environments and tools. They begin with their preferences for text editor, font, and theme in their Vue development environments. All three currently use Visual Studio Code as their main text editor. Ari Clark switched to VS Code from Atom because she prefers the support that it has for Vue and Ben Hong switched from Sublime. Ben prefers the night owl theme and the operator mono font. On the other hand, Ari prefers the one dark pro theme for its syntax highlighting and prefers dank mono as her font.
 
 The Views on Vue panelists then go on to discuss their preferences on using the terminal. They weigh the pros and cons of using the integrated terminal and when they turn to other shells. The other potential shells that the Vue panelists discuss are Bash, Zsh, and Fish. The panelists focus on the speed and performance of the shells, and make an important note that not all shell commands are valid on other shells and the user will have to be familiar with the shell they are using. The Vue experts discuss whether they use the command line interface (CLI) or VS Code version control to manage their git version control. The panelists then weigh the pros and cons of different terminal shells they like to use. The panelists also briefly discuss how open they are to changing their development environment setup. 

@@ -30,8 +30,6 @@ answer4: >-
   A supervisor is a process that supervises other processes. A dynamic
   superviser starts with no children and they are created on demand.
 ---
-**Episode Summary**
-
 Jeff Kreeftmeijer works at Appsignal where they create a tool for application monitoring that works in Ruby and Elixir. He works specifically with integrations focusing in Elixir and also writes articles for their Elixir and Ruby newsletters. Jeff started as a Ruby programmer but had an interest in functional programming which lead him to gain an interest in Elixir. When he started at Appsignal they were already considering an Elixir integration and that made it a perfect fit. 
 
 Jeff then shares more details about his involvement in Appsignal’s two newsletters called Ruby magic and Elixir alchemy, both of which are aimed at more experienced programmers. He also details his experience with articles that he wrote on Live Share and how he came to write them. The panelists also introduce the Go game that is written about in these articles.

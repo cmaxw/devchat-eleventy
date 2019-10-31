@@ -34,8 +34,6 @@ answer4: >-
   a significant benefit, there is little reason to refactor old code with new
   features.
 ---
-**Episode Summary**
-
 On this episode of Views on Vue the panelists are joined by Filipa Lacerda. Filipa is a senior front-end engineer at Gitlab where they have been using Vue. The topic for this episode of Views on Vue is “the good, the bad, and the ugly” where the panelists discuss some of the positives of their experience with Vue as well as some of the struggles they’ve had. 
 
 Felipa starts the discussion with sharing that Vue comes with a great deal of power to deliver to the end user as well as an example of this that she has experienced. She also shares some of the bad, such as how when she started using Vue many of the standards that exist today did not exist then. Felipa shares a story from a time in the early stages Vue when she was able to kill a browser. The panelists also highlight some Vue worst practices. 

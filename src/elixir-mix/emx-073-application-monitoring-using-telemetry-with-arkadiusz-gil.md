@@ -32,8 +32,6 @@ answer4: >-
   OpenCensus works with a variety of languages including Go, Java, C#, Node.js,
   C++, Ruby, Erlang/Elixir, Python, Scala and PHP.
 ---
-**Episode Summary**
-
 This episode of Elixir Mix features Arkadiusz Gil. Arkadiusz is a software engineer at Erlang Solutions. He is also a member of the observability working group of the Erlang Ecosystem Foundation. The purpose of this working group is to nurture different areas of the community to maintain libraries, improve tooling, and create documentation. He became a member of this group because of his work on Telemetry. The panelists discuss the background of Telemetry and Arkadiusz explains how it was originally written in Elixir and why they decided to switch over to Erlang. Arkadiusz explains how he became involved in Elixir and Erlang. When Mark asks why he prefers Elixir to Erlang he responds with explaining his affinity for the Elixir syntax and tooling that’s available. 
 
 The conversation then moves to how Telemetry came about. Telemetry started with the goal of creating a tool for monitoring Elixir applications but the creators had no idea what that application would be like. Arkadiusz then describes how he did an exercise with colleagues to identify the specific needs for such an application and how to implement it. The panelists discuss how Telemetry is integrated. They also discuss how to get started with Telemetry metrics and Arkadiusz shares some of the details of how the monitoring service works. 
