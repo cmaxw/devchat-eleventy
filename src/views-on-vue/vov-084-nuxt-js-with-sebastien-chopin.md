@@ -33,8 +33,6 @@ answer4: >-
   There is a discord server at discord.nuxtjs.org. They are on github as well at
   https://github.com/nuxt.
 ---
-**Episode Summary**
-
 Sebastien Chopin is a front end developer who works mostly in JavaScript and is the creator of Nuxt.JS, a framework based off of Vue. Nuxt started as a JavaScript framework for application rendering and today it can be used to create any kind of application. One advantage of using Nuxt with Vue comes in with server side rendering. Even though a user can use Vue for server side rendering, they will need the use of outside modules where using Nuxt will help them to get started quicker. 
 
 After the Views on Vue panelists discuss the usage of Nuxt in server side rendering, Ari asks Sebastien to elaborate on how Nuxt can be used outside of server side rendering. Sebastien describes how Nuxt has a pages system that helps streamline the directory and folder structure of an application or web page. Nuxt also has features to help with navigation among other usages described by Sebastien. He also goes into further detail about the features of the pages system. The panel then covers Vuex and using Vuex to perform asynchronous operations, as well as how Nuxt streamlines this process.
