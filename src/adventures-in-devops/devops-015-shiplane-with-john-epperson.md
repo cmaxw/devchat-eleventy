@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: adventures-in-devops
-title: 'Devops 015: Shiplane with John Epperson'
+title: 'DevOps 015: Shiplane with John Epperson'
 date: 2019-11-05T11:00:44.491Z
 episode_number: '015'
 duration: '50:02'
