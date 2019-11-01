@@ -11,7 +11,7 @@ tags:
   - podcast
   - Stephen Cooper
   - Joe Eames
-question1: What is a peoples favorite with Angular?
+question1: What is a  favorite feature in Angular?
 ---
  Brad McAlister, Software Engineering Lead at Sapphire Digital. Sapphire Digital does healthcare transparency software for insurance companies. Brad works on a product called Smart Shopper which gives the costs of treatment options for same procedures at different hospitals.
 
@@ -39,4 +39,4 @@ question1: What is a peoples favorite with Angular?
 
 **Stephen Cooper:**
 
-*
+\*
