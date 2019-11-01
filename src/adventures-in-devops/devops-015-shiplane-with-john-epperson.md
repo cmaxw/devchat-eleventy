@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: adventures-in-devops
 title: 'Devops 015: Shiplane with John Epperson'
-date: 2019-11-01T05:43:44.491Z
+date: 2019-11-05T11:00:44.491Z
 episode_number: '015'
 duration: '50:02'
 audio_url: 'https://media.devchat.tv/adventures-in-devops/ADO_015_John_Epperson.mp3'
