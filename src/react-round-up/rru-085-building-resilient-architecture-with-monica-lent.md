@@ -50,9 +50,9 @@ Monica gave a talk at React Finland and she first applies some of her principles
 
 Second, the panel discusses the merits of different practices such as whether or not to deploy on Friday and having engineers on call. In Monica's React Finland talk, she talks about the importance of constraints, which can help with these kinds of decisions. She explains that instead of thinking of architecture as something super abstract, think of it as enabling constraints, as picking ways to do less and end up with code that is safer to run, longer lasting, and has fewer bugs. Thomas shares how he used to oppose constraints and architecture, and how he changed his mind. They discuss the importance of automation over documentation for building sustainable code. 
 
-Third, Monica explains her opinion on how copying and pasting code instead of adding dependencies is a positive constraint. She prefers this method because it keeps your code flexible and avoids unnecessary specialization. 
+Third, Monica explains her opinion on how copying and pasting code instead of adding dependencies is a positive constraint. She prefers this method most of the time but not in all cases because it keeps your code flexible and avoids unnecessary specialization. However she is not advocating for copy/paste over dependencies in every situation : rather the point comes down to using copy/paste instead of inappropriate coupling.
 
-Sometimes, when you create an abstraction and combine two pieces of code, this new combination makes code more brittle than it would be otherwise
+Sometimes, when you create an abstraction and combine two pieces of code, this new combination makes code more brittle than it would be otherwise.
 
 Components put in the shared folder almost never leave. This causes the  component to become very specialized and not work in all scenarios. The panel discusses where this method may not work. Thomas talks about some of his favorite tools for simplifying complexity, React Hooks and Relay. Monica and the panelists discuss the merits of using TypeScript and proper methods for coupling code.
 
@@ -62,43 +62,30 @@ The show concludes with the panelists agreeing that it all comes down to the bal
 
 Panelists
 
--   Leslie Cohn-Wein
-
--   Thomas Aylott
-
--   Lucas Reis
+* Leslie Cohn-Wein
+* Thomas Aylott
+* Lucas Reis
 
 With special guest: Monica Lent
 
 Sponsors
 
--   [Progress KendoReact](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-8https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-15https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-22https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-29) | Try now for FREE:[  kendoreact.com/reactroundup](http://kendoreact.com/reactroundup)
-
--   [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
-
--   [Views on Vue](https://devchat.tv/views-on-vue/)
+* [Progress KendoReact](https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-8https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-15https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-22https://www.telerik.com/kendo-react-ui/campaigns/free-trial-react-8/?utm_medium=cpm&utm_source=reactroundup&utm_campaign=kendo-ui-react-trial-oct-29) | Try now for FREE:[  kendoreact.com/reactroundup](http://kendoreact.com/reactroundup)
+* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
+* [Views on Vue](https://devchat.tv/views-on-vue/)
 
 Links
 
--   [Monica's React Finland talk](https://www.youtube.com/watch?v=brMZLmZ1HR0)
-
--   [Narcissistic design talk](https://www.youtube.com/watch?v=LEZv-kQUSi4)
-
--   [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
-
--   [React Hooks](https://reactjs.org/docs/hooks-intro.html)
-
--   [Relay](https://relay.dev/)
-
--   [TypeScript](https://www.typescriptlang.org/)
-
--   [Webpack](https://webpack.js.org/)
-
--   [gRPC](https://github.com/grpc)
-
--   [Prettier](https://prettier.io/)
-
--   [7 Absolute Truths I Unlearned as a Junior Developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+* [Monica's React Finland talk](https://www.youtube.com/watch?v=brMZLmZ1HR0)
+* [Narcissistic design talk](https://www.youtube.com/watch?v=LEZv-kQUSi4)
+* [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+* [Relay](https://relay.dev/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Webpack](https://webpack.js.org/)
+* [gRPC](https://github.com/grpc)
+* [Prettier](https://prettier.io/)
+* [7 Absolute Truths I Unlearned as a Junior Developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 
@@ -106,20 +93,18 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 Leslie Cohn-Wein:
 
--   [Xochimilco, Mexico City, Mexico](https://en.wikipedia.org/wiki/Xochimilco)
-
--   [List of CSS mistakes](https://wiki.csswg.org/ideas/mistakes)
+* [Xochimilco, Mexico City, Mexico](https://en.wikipedia.org/wiki/Xochimilco)
+* [List of CSS mistakes](https://wiki.csswg.org/ideas/mistakes)
 
 Thomas Aylott:
 
--   [Get the Truth book](https://www.amazon.com/Get-Truth-Former-Officers-Persuade-ebook/dp/B00IWUI4RQ/ref=tmm_kin_swatch_0?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [Get the Truth book](https://www.amazon.com/Get-Truth-Former-Officers-Persuade-ebook/dp/B00IWUI4RQ/ref=tmm_kin_swatch_0?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 
 Lucas Reis:
 
--   [Lovevery](https://lovevery.com/)
-
--   [Zero Fasting app](https://zerofasting.com/)
+* [Lovevery](https://lovevery.com/)
+* [Zero Fasting app](https://zerofasting.com/)
 
 Monica Lent:
 
--   [The Mom Test by Rob Fitzpatrick](http://momtestbook.com/)
+* [The Mom Test by Rob Fitzpatrick](http://momtestbook.com/)
