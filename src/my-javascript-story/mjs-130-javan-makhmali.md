@@ -11,6 +11,10 @@ tags:
   - podcast
   - Javan Makhmali
   - Charles Max Wood
+question1: How  much school is needed to become a developer?
+answer1: >-
+  Computer Science is an industry which welcomes self-taught developers and a
+  lot of teaching material is available online.
 ---
 This week, My Javascript Story welcomes Javan Makhmali, Programmer at Basecamp from Ann Arbor, Michigan. 
 
