@@ -13,6 +13,10 @@ tags:
   - Joe Eames
 question1: What is a  favorite feature in Angular?
 ---
+My Angular Story hosts Stephen Cooper,Developer at G-Research from London. Joe Eames guest hosts this week's show to talk about  Stephen's latest contribution to Angular. 
+
+
+
 **Host:** Joe Eames
 
 **Joined By Special Guest:** Stephen Cooper
@@ -27,7 +31,8 @@ question1: What is a  favorite feature in Angular?
 
 ### **Links**
 
-* 
+* <https://dev.to/cooperdev/my-journey-to-angularconnect-2019-238b>
+* [Stephen's Twitter](https://twitter.com/CooperDev)
 
 ### **Picks**
 
