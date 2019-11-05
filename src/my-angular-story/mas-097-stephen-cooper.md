@@ -15,7 +15,8 @@ question1: What is the worst feature in Angular?
 answer1: 'The learning curve and onboarding process for the new comers to the team. '
 question2: What is the most confusing feature in Angular?
 answer2: 'Nothing particularly sticks out at this time. '
-question3: What is the most needed feature Angular s missing?
+question3: What is the most needed feature Angular is missing?
+question4: What is the best feature in Angular?
 ---
 My Angular Story hosts Stephen Cooper,Developer at G-Research from London. Joe Eames guest hosts this week's show to talk about  Stephen's latest contribution to Angular. 
 
