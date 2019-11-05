@@ -11,7 +11,11 @@ tags:
   - podcast
   - Stephen Cooper
   - Joe Eames
-question1: What is a  favorite feature in Angular?
+question1: What is the worst feature in Angular?
+answer1: 'The learning curve and onboarding process for the new comers to the team. '
+question2: What is the most confusing feature in Angular?
+answer2: 'Nothing particularly sticks out at this time. '
+question3: What is the most needed feature Angular s missing?
 ---
 My Angular Story hosts Stephen Cooper,Developer at G-Research from London. Joe Eames guest hosts this week's show to talk about  Stephen's latest contribution to Angular. 
 
