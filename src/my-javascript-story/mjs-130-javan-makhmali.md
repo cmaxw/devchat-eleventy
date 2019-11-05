@@ -34,4 +34,8 @@ This week, My Javascript Story welcomes Javan Makhmali
 
 **Javan Makhmali:**
 
-**Charles Max Wood**
+* ****
+
+**Charles Max Wood:**
+
+* <https://maxcoders.io/>
