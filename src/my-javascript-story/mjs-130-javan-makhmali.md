@@ -14,6 +14,10 @@ tags:
 ---
 This week, My Javascript Story welcomes Javan Makhmali, Programmer at Basecamp from Ann Arbor, Michigan. 
 
+Charles and Javan talk about Javan's journey as a developer and particularly his journey with Basecamp. 
+
+
+
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:**  Javan Makhmali
@@ -26,7 +30,7 @@ This week, My Javascript Story welcomes Javan Makhmali, Programmer at Basecamp f
 ## Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
+* [Dev Ed Podcast](https://devchat.tv/dev-ed/)
 * [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
 * [CacheFly](https://www.cachefly.com/)
 
