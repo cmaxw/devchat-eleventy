@@ -12,7 +12,7 @@ tags:
   - Javan Makhmali
   - Charles Max Wood
 ---
-This week, My Javascript Story welcomes Javan Makhmali 
+This week, My Javascript Story welcomes Javan Makhmali, Programmer at Basecamp from Ann Arbor, Michigan. 
 
 **Host:** Charles Max Wood
 
@@ -21,7 +21,7 @@ This week, My Javascript Story welcomes Javan Makhmali
 ## Links
 
 * [JSJ 376: Trix: A Rich Text Editor for Everyday Writing with Javan Makhmali](https://devchat.tv/js-jabber/jsj-376-trix-a-rich-text-editor-for-everyday-wrtiting-with-javan-makhmali/#viewport)
-* 
+* [Javan's Twitter](https://twitter.com/javan)
 
 ## Sponsors
 
@@ -31,10 +31,6 @@ This week, My Javascript Story welcomes Javan Makhmali
 * [CacheFly](https://www.cachefly.com/)
 
 ## Picks
-
-**Javan Makhmali:**
-
-* ****
 
 **Charles Max Wood:**
 
