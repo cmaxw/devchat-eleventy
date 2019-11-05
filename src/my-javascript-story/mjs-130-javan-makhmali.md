@@ -12,6 +12,8 @@ tags:
   - Javan Makhmali
   - Charles Max Wood
 ---
+This week, My Javascript Story welcomes Javan Makhmali 
+
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:**  Javan Makhmali
