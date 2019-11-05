@@ -44,7 +44,7 @@ The panel considers how JAMstack is picking up in the Angular ecosystem. Tara ou
 
 - Tara Z. Manicsic
 
-##_ Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
+## _Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
 
 **Sponsors**
 
