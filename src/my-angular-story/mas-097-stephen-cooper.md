@@ -13,8 +13,6 @@ tags:
   - Joe Eames
 question1: What is a  favorite feature in Angular?
 ---
-
-
 **Host:** Joe Eames
 
 **Joined By Special Guest:** Stephen Cooper
@@ -35,8 +33,9 @@ question1: What is a  favorite feature in Angular?
 
 **Joe Eames:**
 
-* 
+* Miniature Wargaming
+* Painting
 
 **Stephen Cooper:**
 
-\*
+* https://dev.to/
