@@ -16,6 +16,7 @@ answer1: 'The learning curve and onboarding process for the new comers to the te
 question2: What is the most confusing feature in Angular?
 answer2: 'Nothing particularly sticks out at this time. '
 question3: What is the most needed feature Angular is missing?
+answer3: 'an ability '
 question4: What is the best feature in Angular?
 answer4: >-
   NgTemplateOutlet, A string defining the template reference and optionally the
@@ -48,6 +49,9 @@ Outside of work Stephen enjoys spending time with his family, his two young kind
 * <https://dev.to/cooperdev/my-journey-to-angularconnect-2019-238b>
 * [Stephen's Twitter](https://twitter.com/CooperDev)
 * [Stephen's LinkedIn](https://www.linkedin.com/in/stephen-cooper-6962a0105/)
+* [Building with Ivy: rethinking reactive Angular | Mike Ryan | #AngularConnect 2019](https://www.youtube.com/watch?time_continue=2&v=rz-rcaGXhGk)
+
+
 
 ### **Picks**
 
