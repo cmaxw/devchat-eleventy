@@ -9,25 +9,25 @@ audio_url: 'https://media.devchat.tv/sustain-our-software/SOS_016_Serkan_Holat.m
 tags:
   - sustain_our_software
   - podcast
-  - open source
+  - open source tax
   - maintainability
   - sustainability
   - Richard Littauer
   - Pia Mancini
   - Eric Berry
   - Serkan Holat
-question1: 'Why would a proprietary company want to open source their software? '
+question1: Why should we be investing in open source more than proprietary software?
 answer1: >-
-  There are many reasons for a company to open source their software. One of
-  these is to prevent reinventing the wheel. By involving open source developers
-  a company can find solutions to their problems that have already been
+  There are many reasons to prefer open source over proprietary software. One of
+  these is to prevent reinventing the wheel; open sourcing softwares across industries
+  would lead to consolidation in solutions, therefore in investments and time.
   created. 
 question2: >-
   What is a potential solution to funding a proprietary project if it were to go
   open source?
 answer2: >-
-  One solution presented in this episode to add a micro tax on each transaction.
-  This tax would go towards funding the maintenance of the software. 
+  One solution presented in this episode to add a micro tax on each software transactions.
+  This tax would go towards funding the development and maintenance of open source software. 
 question3: >-
   How do we start changing the culture around proprietary software to be more
   friendly to open source?
@@ -87,6 +87,8 @@ Serkan closes by reiterating some thoughts he shared earlier that governments ar
 *   [sustainoss.org](https://sustainoss.org/)
 *   [Tidelift Survey](https://thenewstack.io/theres-one-thing-stopping-developers-from-using-open-source-even-more/)
 *   [Tragedy of the Commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
+*   [License Zero](https://licensezero.com/)
+*   [Black Duck Software (Synopsys)](https://www.blackducksoftware.com/)
 
 **Picks**
 
@@ -116,7 +118,6 @@ Serkan closes by reiterating some thoughts he shared earlier that governments ar
 
 
 
-*   [License Zero](https://licensezero.com/)
 *   [Marcin Jakubowski Ted Talk](https://www.ted.com/talks/marcin_jakubowski/transcript?language=en)
+*   [The Fallen of World War II](http://www.fallen.io/)
 *   [The Egg](https://www.youtube.com/watch?v=h6fcK_fRYaI)
-*   [In a Nutshell](https://kurzgesagt.org/)
