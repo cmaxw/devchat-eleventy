@@ -24,7 +24,7 @@ In this episode of the DevEd podcast, Brooke interviews Sam on Gatsby, and Sam's
 
 ## Sponsors
 
-* [Thinkster.io](https://twitter.com/samjulien?lang=en)
+* [Thinkster.io](https://thinkster.io/)
 
 ## Links
 
