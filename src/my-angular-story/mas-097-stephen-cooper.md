@@ -17,6 +17,9 @@ question2: What is the most confusing feature in Angular?
 answer2: 'Nothing particularly sticks out at this time. '
 question3: What is the most needed feature Angular is missing?
 question4: What is the best feature in Angular?
+answer4: >-
+  NgTemplateOutlet, A string defining the template reference and optionally the
+  context object for the template.
 ---
 My Angular Story hosts Stephen Cooper,Developer at G-Research from London. Joe Eames guest hosts this week's show to talk about Stephen's journey as an Angular developer and latest contribution to Angular.  
 
@@ -26,7 +29,7 @@ Joe and Stephen discuss how much math is necessary for working as a developer an
 
 Joe then asks Stephen about the talk he gave at AngularConnect which was Stephen's first major conference talk. Stephen talks about how he prepared for it and the blog piece he wrote about it at dev.to [My Journey to AngularConnect 2019](https://dev.to/cooperdev/my-journey-to-angularconnect-2019-238b). 
 
-
+Outside of work Stephen enjoys spending time with his family, his two young kinds
 
 **Host:** Joe Eames
 
