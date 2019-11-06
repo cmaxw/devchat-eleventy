@@ -56,53 +56,53 @@ The conversation turns back to certificates, and AJ explains what a certificate 
 
 ### Panelists
 
--   Steve Edwards
+* Steve Edwards
 
--   AJ O'Neal
+* AJ O'Neal
 
--   Charles Max Wood
+* Charles Max Wood
 
 Sponsors
 
--   [Tidelift](https://tidelift.com/)
+* [Tidelift](https://tidelift.com/)
 
--   [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
+* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
 
--   [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+* [Ruby Rogues](https://devchat.tv/ruby-rogues/)
 
 Links
 
--   [Let's Encrypt](https://letsencrypt.org/)
+* [Let's Encrypt](https://letsencrypt.org/)
 
--   [Greenlock](https://www.npmjs.com/package/greenlock)
+* [Greenlock](https://www.npmjs.com/package/greenlock)
 
--   [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2)
+* [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2)
 
--   [Node.js](https://nodejs.org/)
+* [Node.js](https://nodejs.org/)
 
--   [Node Crypto](https://nodejs.org/api/crypto.html)
+* [Node Crypto](https://nodejs.org/api/crypto.html)
 
--   [JWK](https://tools.ietf.org/html/rfc7517)
+* [JWK](https://tools.ietf.org/html/rfc7517)
 
--   [LZMA](https://www.7-zip.org/sdk.html)
+* [LZMA](https://www.7-zip.org/sdk.html)
 
--   [Gzip](https://www.gzip.org/)
+* [Gzip](https://www.gzip.org/)
 
--   [Broccoli.js](https://broccoli.build/)
+* [Broccoli.js](https://broccoli.build/)
 
--   [HTTPS](https://support.google.com/webmasters/answer/6073543?hl=en)
+* [HTTPS](https://support.google.com/webmasters/answer/6073543?hl=en)
 
--   [GCM](https://developers.google.com/cloud-messaging)
+* [GCM](https://developers.google.com/cloud-messaging)
 
--   [ASN.1](https://www.itu.int/en/ITU-T/asn1/Pages/introduction.aspx)
+* [ASN.1](https://www.itu.int/en/ITU-T/asn1/Pages/introduction.aspx)
 
--   [OWASP list](https://www.cloudflare.com/learning/security/threats/owasp-top-10/)
+* [OWASP list](https://www.cloudflare.com/learning/security/threats/owasp-top-10/)
 
--   [jwt.io](https://jwt.io/)
+* [jwt.io](https://jwt.io/)
 
--   [Diffie Hellman Key Exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
+* [Diffie Hellman Key Exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
 
--   [Khana Academy Diffie-Hellman Key Exchange pt.2](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-2)
+* [Khana Academy Diffie-Hellman Key Exchange pt.2](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-2)
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 
@@ -110,18 +110,18 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 Steve Edwards:
 
--   [Panasonic SD-YD250 bread machine](https://shop.panasonic.com/microwave-and-kitchen/kitchen-appliances/bread-makers/SD-YD250.html)
+* [Panasonic SD-YD250 bread machine](https://shop.panasonic.com/microwave-and-kitchen/kitchen-appliances/bread-makers/SD-YD250.html)
 
 AJ O'Neal:
 
--   [Greenlock v.3](https://git.rootprojects.org/root/greenlock.js)
+* [Greenlock v.3](https://git.rootprojects.org/root/greenlock.js)
 
--   [Samsung Evo 4 TOB ](https://www.amazon.com/Samsung-Inch-Internal-MZ-76E4T0B-AM/dp/B07864XY8B/ref=as_li_ss_tl??ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)paired with 2012 Macbook Pro
+* [Samsung Evo 4 TOB ](https://www.amazon.com/Samsung-Inch-Internal-MZ-76E4T0B-AM/dp/B07864XY8B/ref=as_li_ss_tl??ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)paired with 2012 Macbook Pro
 
--   [Dave Ramsey on Christian Healthcare Ministries](https://www.youtube.com/watch?v=RAjgCUcqXAM)
+* [Dave Ramsey on Christian Healthcare Ministries](https://www.youtube.com/watch?v=RAjgCUcqXAM)
 
 Charles Max Wood: 
 
--   [Velcro straps](https://amzn.to/2W5Nthd?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [Velcro straps](https://amzn.to/2W5Nthd?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 
--   [Mac Pro Upgrade Guide](http://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html)
+* [Mac Pro Upgrade Guide](http://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html)
