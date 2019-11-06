@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: js-jabber
 title: 'JSJ 407: Reactive JavaScript and Storybook with Dean Radcliffe'
-date: 2019-11-07T11:00:34.121Z
+date: 2019-11-12T11:00:34.121Z
 episode_number: '407'
 duration: '43:48'
 audio_url: 'https://media.devchat.tv/js-jabber/JSJ_407_Dean_Radcliffe.mp3'
