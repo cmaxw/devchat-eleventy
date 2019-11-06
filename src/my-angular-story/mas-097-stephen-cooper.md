@@ -20,7 +20,13 @@ question4: What is the best feature in Angular?
 ---
 My Angular Story hosts Stephen Cooper,Developer at G-Research from London. Joe Eames guest hosts this week's show to talk about Stephen's journey as an Angular developer and latest contribution to Angular.  
 
-In college, Stephen majored in Math and Computer Science and felt that he enjoyed Computer Science aspect  more. 
+In college, Stephen majored in Math and Computer Science and felt that he enjoyed Computer Science aspect more. At G-Research,which is an algorithmic trading platform, Stephen works as a programmer in quantitative research and analysis. Stephen explains where Angular fits in that context. 
+
+Joe and Stephen discuss how much math is necessary for working as a developer and Stephen mentions while his background may have helped him in getting the job, he doesn't use math that much in his daily work.
+
+Joe then asks Stephen about the talk he gave at AngularConnect which was Stephen's first major conference talk. Stephen talks about how he prepared for it and the blog piece he wrote about it at dev.to [My Journey to AngularConnect 2019](https://dev.to/cooperdev/my-journey-to-angularconnect-2019-238b). 
+
+
 
 **Host:** Joe Eames
 
@@ -38,6 +44,7 @@ In college, Stephen majored in Math and Computer Science and felt that he enjoye
 
 * <https://dev.to/cooperdev/my-journey-to-angularconnect-2019-238b>
 * [Stephen's Twitter](https://twitter.com/CooperDev)
+* [Stephen's LinkedIn](https://www.linkedin.com/in/stephen-cooper-6962a0105/)
 
 ### **Picks**
 
