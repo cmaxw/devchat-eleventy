@@ -30,9 +30,7 @@ In college, Stephen majored in Math and Computer Science and felt that he enjoye
 
 Joe and Stephen discuss how much math is necessary for working as a developer and Stephen mentions while his background may have helped him in getting the job, he doesn't use math that much in his daily work.
 
-Joe then asks Stephen about the talk he gave at AngularConnect which was Stephen's first major conference talk. Stephen talks about how he prepared for it and the blog piece he wrote about it at dev.to [My Journey to AngularConnect 2019](https://dev.to/cooperdev/my-journey-to-angularconnect-2019-238b). 
-
-Outside of work Stephen enjoys spending time with his family, his two young kinds
+Joe then asks Stephen about the talk he gave at AngularConnect which was Stephen's first major conference talk. Stephen talks about how he prepared for it and the blog piece he wrote about it at dev.to [My Journey to AngularConnect 2019](https://dev.to/cooperdev/my-journey-to-angularconnect-2019-238b).  
 
 **Host:** Joe Eames
 
