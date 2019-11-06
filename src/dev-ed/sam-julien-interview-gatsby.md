@@ -15,19 +15,19 @@ tags:
   - developers
   - education
 ---
-In this episode of the DevEd podcast, Brooke and Sam talk about Gatsby, and Sam's new course on Thinkster.io on Gatsby. Sam works in Developer Relations at Auth0 and is a Google Developer Expert for Angular and Web Technologies.
+In this episode of the DevEd podcast, Brooke and Sam talk about Gatsby, and Sam's new course on Thinkster.io on Gatsby. Sam works in Developer Relations at Auth0, is a Google Developer Expert for Angular and Web Technologies, and is very passionate about teaching.  Sam starts with explaining in detail what Gatsby is and what it is used for. He talks on the performance benefits of Gatsby, it's comparison to React in terms of tooling and usage as well as learning, and if there are any tools or technologies needed as a prerequisite to use Gatsby. He elaborates on what made him learn Gatsby, how it helped him advance in his programming career, both his favourite and not so favourite aspects of Gatsby,  
 
 ## Panel
 
-* [Brooke Avery](https://thinkster.io/)
+* [Brooke Avery
+  ](https://thinkster.io/)
 * [Sam Julien](https://twitter.com/samjulien?lang=en)
 
 ## Sponsors
 
-* [Thinkster.io](https://twitter.com/samjulien?lang=en)
+* [Thinkster.io
+  ](https://twitter.com/samjulien?lang=en)
 
 ## Links
-
-
 
 **The DevEd podcast is produced by Thinkster.io and published by DevChat.TV.**
