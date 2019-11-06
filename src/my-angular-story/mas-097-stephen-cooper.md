@@ -18,9 +18,9 @@ answer2: 'Nothing particularly sticks out at this time. '
 question3: What is the most needed feature Angular is missing?
 question4: What is the best feature in Angular?
 ---
-My Angular Story hosts Stephen Cooper,Developer at G-Research from London. Joe Eames guest hosts this week's show to talk about  Stephen's latest contribution to Angular. 
+My Angular Story hosts Stephen Cooper,Developer at G-Research from London. Joe Eames guest hosts this week's show to talk about Stephen's journey as an Angular developer and latest contribution to Angular.  
 
-
+In college, Stephen majored in Math and Computer Science and felt that he enjoyed Computer Science aspect  more. 
 
 **Host:** Joe Eames
 
