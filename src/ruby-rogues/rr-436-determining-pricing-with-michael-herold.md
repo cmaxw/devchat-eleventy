@@ -40,40 +40,40 @@ Determining pricing gets more complicated on a global scale, and the panelists d
 
 ### Panelists
 
--   Charles Max Wood
+* Charles Max Wood
 
--   Andrew Mason
+* Andrew Mason
 
--   David Kimura
+* David Kimura
 
 With special guest: Michael Herold
 
 Sponsors
 --------
 
--   [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
+* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
 
--   [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues) Try Cloud 66 Rails for FREE & get $66 free credits with promo code RubyRogues
+* [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues) Try Cloud 66 Rails for FREE & get $66 free credits with promo code RubyRogues
 
--   [JavaScript Jabber](https://devchat.tv/js-jabber/)
+* [JavaScript Jabber](https://devchat.tv/js-jabber/)
 
 Links
 
--   [Michael Herold RailsConf 2018](https://www.youtube.com/watch?v=DldgNBbH9aU)
+* [Michael Herold RailsConf 2018](https://www.youtube.com/watch?v=DldgNBbH9aU)
 
--   [Van Westendorp Price Sensitivity Meter](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter)
+* [Van Westendorp Price Sensitivity Meter](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter)
 
--   [Van Westendorp Price Sensitivity Meter graph](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter#/media/File:VanWestendorp1.svg)
+* [Van Westendorp Price Sensitivity Meter graph](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter#/media/File:VanWestendorp1.svg)
 
--   [Consumer surplus](https://www.investopedia.com/terms/c/consumer_surplus.asp)
+* [Consumer surplus](https://www.investopedia.com/terms/c/consumer_surplus.asp)
 
--   [Producer surplus](https://www.investopedia.com/terms/p/producer_surplus.asp)
+* [Producer surplus](https://www.investopedia.com/terms/p/producer_surplus.asp)
 
--   [Twople](https://www.npmjs.com/package/twople)
+* [Twople](https://www.npmjs.com/package/twople)
 
--   [Meetspace](https://www.meetspaceapp.com/)
+* [Meetspace](https://www.meetspaceapp.com/)
 
--   [How Users Picked Our Pricing](https://www.meetspaceapp.com/2016/09/15/meetspace-pricing.html)
+* [How Users Picked Our Pricing](https://www.meetspaceapp.com/2016/09/15/meetspace-pricing.html)
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 
@@ -81,24 +81,24 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 Charles Max Wood:
 
--   Finding human connection
+* Finding human connection
 
--   Disconnect from technology when you need to
+* Disconnect from technology when you need to
 
 David Kimura:
 
--   [Yarn upgrade-interactive](https://yarnpkg.com/lang/en/docs/cli/upgrade-interactive/)
+* [Yarn upgrade-interactive](https://yarnpkg.com/lang/en/docs/cli/upgrade-interactive/)
 
--   [Lego 4x4](https://www.lego.com/en-us/product/4x4-x-treme-off-roader-42099)
+* [Lego 4x4](https://www.lego.com/en-us/product/4x4-x-treme-off-roader-42099)
 
 Michael Herold:
 
--   Hiking
+* Hiking
 
--   [Crinkle book from Jellycat](https://www.amazon.com/Jellycat-Soft-Cloth-Books-Tails/dp/B006X1593I?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
+* [Crinkle book from Jellycat](https://www.amazon.com/Jellycat-Soft-Cloth-Books-Tails/dp/B006X1593I?ie=UTF8&qid=1548462018&sr=8-1&linkCode=ll1&tag=devchattv-20&linkId=f06bfe7482dca8bb751ed6d7cc86e2ab&language=en_US)
 
--   [Philipe Fatio blog post](https://phili.pe/posts/loading-additional-ruby-gems-in-development/)
+* [Philipe Fatio blog post](https://phili.pe/posts/loading-additional-ruby-gems-in-development/)
 
--   [The Egg by Andy Weir](http://galactanet.com/oneoff/theegg_mod.html)
+* [The Egg by Andy Weir](http://galactanet.com/oneoff/theegg_mod.html)
 
-Follow Michael [@mherold](https://twitter.com/mherold) on Twitter and Github [@michaelherold](https://github.com/michaelherold) and [michaeljherold.com](https://michaeljherold.com/)
+* Follow Michael [@mherold](https://twitter.com/mherold) on Twitter and Github [@michaelherold](https://github.com/michaelherold) and [michaeljherold.com](https://michaeljherold.com/)
