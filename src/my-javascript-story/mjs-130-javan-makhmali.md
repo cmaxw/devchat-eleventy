@@ -16,9 +16,11 @@ answer1: >-
   Computer Science is an industry which welcomes self-taught developers and a
   lot of teaching material is available online.
 ---
-This week, My Javascript Story welcomes Javan Makhmali, Programmer at Basecamp from Ann Arbor, Michigan. Javan attended Community College to study Computer Science but then decided to work as a Freelancer developer. Javan and Charles debate whether having a 4-year college degree is better to become a developer and conclude that it depends on the person. Some people prefer a structured 4 year degree to feel ready for a full time jo and some people do better with bootcamps. Javan mentions he knows several people that switched careers after  completing an 8 week bootcamp and that the industry was really flexible to accomodate both options.  
+This week, My Javascript Story welcomes Javan Makhmali,a Programmer at Basecamp from Ann Arbor, Michigan. Javan attended Community College to study Computer Science but then decided to work as a Freelancer developer. Javan and Charles debate whether having a 4-year college degree is better to become a developer and conclude that it depends on the person. Some people prefer a structured 4 year degree to feel ready for a full time jo and some people do better with bootcamps. Javan mentions he knows several people that switched careers after  completing an 8 week bootcamp and that the industry was really flexible to accomodate both options.  
 
-Charles and Javan then continue talking about Javan's journey as a developer and particularly his journey with Basecamp. 
+Charles and Javan then continue talking about Javan's journey as a developer and particularly his journey with Basecamp. Javan started out working with Ruby on Rails and after a couple of years applied for a job at Basecamp (then known as 37 Signals). Javan then started working with CoffeScript which helped him understand working with JavaScript. 
+
+Javan then started working with Trix and 
 
 
 
