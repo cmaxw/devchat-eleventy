@@ -17,7 +17,7 @@ question2: What is the most confusing feature in Angular?
 answer2: 'Nothing particularly sticks out at this time. '
 question3: What is the most needed feature Angular is missing?
 answer3: >-
-  Aan ability to layer in reactive programming, also discussed in Mike Ryan's
+  An ability to layer in reactive programming, also discussed in Mike Ryan's
   AngularConnect talk "Building with Ivy: Rethinking Reactivity".
 question4: What is the best feature in Angular?
 answer4: >-
