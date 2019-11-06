@@ -16,7 +16,9 @@ answer1: 'The learning curve and onboarding process for the new comers to the te
 question2: What is the most confusing feature in Angular?
 answer2: 'Nothing particularly sticks out at this time. '
 question3: What is the most needed feature Angular is missing?
-answer3: 'an ability '
+answer3: >-
+  Aan ability to layer in reactive programming, also discussed in Mike Ryan's
+  AngularConnect talk "Building with Ivy: Rethinking Reactivity".
 question4: What is the best feature in Angular?
 answer4: >-
   NgTemplateOutlet, A string defining the template reference and optionally the
