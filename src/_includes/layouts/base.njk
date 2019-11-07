@@ -519,17 +519,7 @@ title: Devchat.tv - A Podcast for Every Programming Community
 	<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@3.4.0/dist/instantsearch.production.min.js" integrity="sha256-pM0n88cBFRHpSn0N26ETsQdwpA7WAXJDvkHeCLh3ujI=" crossorigin="anonymous"></script>
 	<script src="/js/search.js"></script>
 
-	<script>
-		if (window.netlifyIdentity) {
-			window.netlifyIdentity.on("init", user => {
-				if (!user) {
-					window.netlifyIdentity.on("login", () => {
-						document.location.href = "/admin/";
-					});
-				}
-			});
-		}
-	</script>
+
 </body>
 
 </html>
