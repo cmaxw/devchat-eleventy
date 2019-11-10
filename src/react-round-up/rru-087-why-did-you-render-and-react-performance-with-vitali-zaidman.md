@@ -34,9 +34,9 @@ answer4: >-
   Why-did-you-render is a tool that patches React to notify you about avoidable
   re-renders. It works for React Native as well.
 ---
-Vitali Zaidman works for the WellDone Software consultancy. He has worked with a lot of different technologies, but currently works with React. In a recent React meetup, he talked about React performance. When someone says that React is not performant, Vitali disagrees and says that it is very performant unless you do certain things. If your React application is slow, it&#39;s down to the tools you use. The panelists all agree that premature optimization is the root of all evil. The difference between premature optimization and good architecture comes down to experience. It is important to be data driven and consider performance a business environment. Vitali believes that performance is a feature and should be treated like any other.
+Vitali Zaidman works for the WellDone Software consultancy. He has worked with a lot of different technologies, but currently works with React. In a recent React meetup, he talked about React performance. When someone says that React is not performant, Vitali disagrees and says that it is very performant unless you do certain things. If your React application is slow, it's down to the tools you use. The panelists all agree that premature optimization is the root of all evil. The difference between premature optimization and good architecture comes down to experience. It is important to be data driven and consider performance a business environment. Vitali believes that performance is a feature and should be treated like any other.
 
-The panel discusses accessibility versus internationalization. Launching to one language is different than launching to one set of abilities. While you don&#39;t need to internationalize on day one, don&#39;t make it impossible to internationalize. They talk about how creating a timeline of changes in your project can help you pinpoint where your performance issues came from. It is also important to remember that developers have strong computers, while users generally do not. As you build, check your product on slower devices to make sure that it works for your users.
+The panel discusses accessibility versus internationalization. Launching to one language is different than launching to one set of abilities. While you don't need to internationalize on day one, don&#39;t make it impossible to internationalize. They talk about how creating a timeline of changes in your project can help you pinpoint where your performance issues came from. It is also important to remember that developers have strong computers, while users generally do not. As you build, check your product on slower devices to make sure that it works for your users.
 
 Vitali talks about his tool why-did-you-render, which will notify you of avoidable re-renders. He also talks about considering why you are choosing to use React and whether or not is the correct choice for your project. The panel discusses their feelings on pure components. They talk about the importance of code review and manual QA since not everything can be automated, again suggesting having a slow computer or phone in the office to test as you go. They also agree that it is important to understand how your library works. They talk about the huge amount of work that is required to maintain an open source project, and how development is a team effort if you want to create sustainable software. The show concludes with Vitali talking about a performance issue he encountered and how he recognized it, diagnosed the problem, and fixed it.
 
@@ -50,16 +50,16 @@ With special guest: Vitali Zaidman
 # Sponsors
 
 - [Nrwl | Nx.Dev/React](https://nx.dev/react?utm_source=Podcast&amp;utm_medium=Banner&amp;utm_campaign=React%20Roundup&amp;utm_content=Nx)
-- [Sentry](http://sentry.io/) use the code &quot;devchat&quot; for 2 months free on Sentry&#39;s small plan
+- [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
 - [Ruby Rogues](https://devchat.tv/ruby-rogues/)
 
 **Links**
 
 - [Knockout](https://knockoutjs.com/)
 - [Why did you render](https://github.com/welldone-software/why-did-you-render)
-- [js: A Plugin-based Universal Web Framework - Leo Horie](https://www.youtube.com/watch?v=wZ0UDg1n9BQ)
+- [Fusion.js: A Plugin-based Universal Web Framework - Leo Horie](https://www.youtube.com/watch?v=wZ0UDg1n9BQ)
 
-Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/? __tn__ =%2Cd%2CP-R&amp;eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
+Follow DevChatTV on [Facebook] (https://www.facebook.com/DevChattv/) and [Twitter](https://twitter.com/devchattv?lang=en)
 
 **Picks**
 
