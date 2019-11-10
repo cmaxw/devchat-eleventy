@@ -12,20 +12,22 @@ tags:
   - Charles Max Wood
   - Chris Biscardi
 ---
+Chris is an independent consultant working with open source startups. He taught himself to program and started in open source. He talks about how he got into programming and how he learned to code. 
+
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:**  Chris Biscardi
 
 ## Links
 
-* [JSJ 376: Trix: A Rich Text Editor for Everyday Writing with Javan Makhmali](https://devchat.tv/js-jabber/jsj-376-trix-a-rich-text-editor-for-everyday-wrtiting-with-javan-makhmali/#viewport)
+* [JSJ 386: Gatsby.js with Chris Biscardi](https://devchat.tv/js-jabber/jsj-386-gatsby-js-with-chris-biscardi/#viewport)
 * 
 
 ## Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+* [iPhreaks](https://devchat.tv/iphreaks/)
 * [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
-* [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## Picks
