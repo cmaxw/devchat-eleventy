@@ -51,7 +51,7 @@ With special guest: Vitali Zaidman
 
 - [Nrwl | Nx.Dev/React](https://nx.dev/react?utm_source=Podcast&amp;utm_medium=Banner&amp;utm_campaign=React%20Roundup&amp;utm_content=Nx)
 - [Sentry](http://sentry.io/) use the code &quot;devchat&quot; for 2 months free on Sentry&#39;s small plan
-- [Views on Vue](https://devchat.tv/views-on-vue/)
+- [Ruby Rogues](https://devchat.tv/ruby-rogues/)
 
 **Links**
 
