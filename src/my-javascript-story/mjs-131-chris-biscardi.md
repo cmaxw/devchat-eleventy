@@ -22,6 +22,7 @@ Chris is an independent consultant working with open source startups. He taught 
 
 * [JSJ 386: Gatsby.js with Chris Biscardi](https://devchat.tv/js-jabber/jsj-386-gatsby-js-with-chris-biscardi/#viewport)
 * [Chris' LinkedIn](https://www.linkedin.com/in/christopherbiscardi/)
+* [Chris' Twitter](https://twitter.com/chrisbiscardi)
 
 ## Sponsors
 
