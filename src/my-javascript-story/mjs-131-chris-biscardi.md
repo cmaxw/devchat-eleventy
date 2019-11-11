@@ -41,3 +41,6 @@ Chris' first access to programming was writing index.hml files when he was young
 **Chris Biscardi:**
 
 **Charles Max Wood:**
+
+* Follow Charles Max Wood on Instagram
+* Follow Charles  at https://devchat.tv/events/
