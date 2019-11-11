@@ -14,6 +14,10 @@ tags:
 ---
 Chris is an independent consultant working with open source startups. He taught himself to program and started in open source. He talks about how he got into programming and how he learned to code. 
 
+Chris' first access to programming was writing index.hml files when he was younger and again when he was majoring in Arts in university he was introduced to ActionScript. 
+
+
+
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:**  Chris Biscardi
