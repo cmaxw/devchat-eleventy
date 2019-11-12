@@ -20,7 +20,7 @@ answer4: >-
   mental health days, do non-coding activities in your free time, focus on the
   people not the code.
 ---
-In this episode of Views on Vue panel discusses mental health. They start by sharing what they do in their free time and consider the value of having a balanced life with hobbies and time spent doing non-code related things. They discuss the importance of respecting your mental health and being aware of where you stand. It is possible to stay aware of things going on in the coding community and to be successful without coding in all your free time.
+In this episode of Views on Vue the panel discusses mental health. They start by sharing what they do in their free time and consider the value of having a balanced life with hobbies and time spent doing non-code related things. They discuss the importance of respecting your mental health and being aware of where you stand. It is possible to stay aware of things going on in the coding community and to be successful without coding in all your free time.
 
 The panel shares strategies and techniques they use to alleviate burn out. Taking breaks and days off. They stress the truth that a mental health day is a sick day. Focusing on the reason you are coding, the people. The panel warns against obligations that trap you in a toxic environment. 
 
@@ -32,36 +32,42 @@ When discussing ways to recognize when a coworker is struggling, Ben introduces 
 
 **Panelists**
 
-- Ben Hong
-- Elizabeth Fine
-- Ari Clark
+* Ben Hong
+* Elizabeth Fine
+* Ari Clark
 
-**Sponsors  **
+**Sponsors**  
 
-- [Dev Ed Podcast](https://devchat.tv/dev-ed/)
-- [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
-- [My Ruby Story](https://devchat.tv/my-ruby-story/)
-- [CacheFly](https://www.cachefly.com/)
+* [Dev Ed Podcast](https://devchat.tv/dev-ed/)
+* [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
+* [My Ruby Story](https://devchat.tv/my-ruby-story/)
+* [CacheFly](https://www.cachefly.com/)
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 **Links**
 
-- [Radical Acceptance](https://www.amazon.com/Radical-Acceptance-Embracing-Heart-Buddha/dp/0553380990)
-- [https://www.facebook.com/ViewsonVue](https://www.facebook.com/ViewsonVue)
-- [https://twitter.com/viewsonvue](https://twitter.com/viewsonvue)
+* [Radical Acceptance](https://www.amazon.com/Radical-Acceptance-Embracing-Heart-Buddha/dp/0553380990)
+* <https://www.facebook.com/ViewsonVue>
+* <https://twitter.com/viewsonvue>
 
 **Picks**
 
 **Ben Hong:**
 
-- [Cream City Code](https://fallexperiment.com/creamcitycode/)
-- [Steve Aoki](https://www.steveaoki.com/)
-- [Abstract](https://www.netflix.com/title/80057883)
+* [Cream City Code](https://fallexperiment.com/creamcitycode/)
+* [Steve Aoki](https://www.steveaoki.com/)
+* [Abstract](https://www.netflix.com/title/80057883)
 
 **Elizabeth Fine:**
 
-- [https://github.com/Domenicobrz](https://github.com/Domenicobrz)
-- [https://www.vuemastery.com/vue-cheat-sheet/](https://www.vuemastery.com/vue-cheat-sheet/)
+* <https://github.com/Domenicobrz>
+* <https://www.vuemastery.com/vue-cheat-sheet/>
 
 **Ari Clark:**
 
-- [Unbelievable](https://www.netflix.com/title/80153467)
+* [Unbelievable](https://www.netflix.com/title/80153467)
