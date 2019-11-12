@@ -58,25 +58,33 @@ In the past, David has seen some issues with autoscaling in Kubernetes clusters,
 
 #### Panelists
 
-- Andrew Mason 
-- David Kimura 
+* Andrew Mason 
+* David Kimura 
 
 With special guests: Khash Sajadi and Kasia Hoffman
 
 ### Sponsors
 
-- [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan 
-- [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues) Try Cloud 66 Rails for FREE & get $66 free credits with promo code RubyRogues 
-- [My Angular Story](https://devchat.tv/my-angular-story/) 
+* [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan 
+* [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues) Try Cloud 66 Rails for FREE & get $100 of free credits with promo code RubyRogues-19
+* [My Angular Story](https://devchat.tv/my-angular-story/) 
 
-Links
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-- [Heroku](https://www.heroku.com/) 
-- [Kubernetes](https://kubernetes.io/) 
-- [Node.js](https://nodejs.org/) 
-- [Azure](https://azure.microsoft.com/en-us/) 
-- [AWS](https://aws.amazon.com/) 
-- [Cloud 66](https://www.cloud66.com/) 
+> **Finding Your Dream Developer Job by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+>
+> 
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+### Links
+
+* [Heroku](https://www.heroku.com/) 
+* [Kubernetes](https://kubernetes.io/) 
+* [Node.js](https://nodejs.org/) 
+* [Azure](https://azure.microsoft.com/en-us/) 
+* [AWS](https://aws.amazon.com/) 
+* [Cloud 66](https://www.cloud66.com/) 
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 
@@ -84,18 +92,18 @@ Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2
 
 Andrew Mason:
 
-- [Rubocop linter action](https://github.com/andrewmcodes/rubocop-linter-action) 
+* [Rubocop linter action](https://github.com/andrewmcodes/rubocop-linter-action) 
 
 David Kimura:
 
-- [Sam’s Club Southern Style Chicken Bites](https://www.samsclub.com/p/members-mark-southern-style-chicken-bites-3lbs/prod22320888) 
-- [Cuisinart Air Fryer](https://www.cuisinart.com/shopping/appliances/airfryers/toa-60) 
-- [Kubernetic](https://kubernetic.com/) (in beta) 
+* [Sam’s Club Southern Style Chicken Bites](https://www.samsclub.com/p/members-mark-southern-style-chicken-bites-3lbs/prod22320888) 
+* [Cuisinart Air Fryer](https://www.cuisinart.com/shopping/appliances/airfryers/toa-60) 
+* [Kubernetic](https://kubernetic.com/) (in beta) 
 
 Khash Sajadi:
 
-- Follow Khash on Twitter [@khash](https://twitter.com/khash) 
+* Follow Khash on Twitter [@khash](https://twitter.com/khash) 
 
 Kasia Hoffman:
 
-- [Noticent](https://github.com/cloud66-oss/noticent)
+* [Noticent](https://github.com/cloud66-oss/noticent)
