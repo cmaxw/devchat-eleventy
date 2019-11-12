@@ -9,6 +9,20 @@ audio_url: 'https://media.devchat.tv/elixir-mix/EMx_077_Jason_Fertel.mp3'
 tags:
   - elixir_mix
   - podcast
+question1: How is PepsiCo eCommerce different than other CPG’s?
+answer1: They do not outsource to vendors.
+question2: How is the PepsiCo eCommerce approach more holistic than other CPG’s?
+answer2: >-
+  They take into account inventory, search rank, how competitors are doing, they
+  are faster and give real-time stock updates.
+question3: What does Elixir bring to the table?
+answer3: >-
+  It is straightforward, powerful, efficient, easy to learn and attracts
+  hard-working cutting-edge developers. 
+question4: What does the tech stack look like at PepsiCo eCommerce?
+answer4: >-
+  It is an umbrella application, still small and internal. They are using
+  absinthe-graphQL, Postgres, Ecto and a time-series database called Druid.
 ---
 In this episode of Elixir Mix the panel interviews Jason Fertel who runs the marketing automation team at PepsiCo eCommerce. Jason shares the story of bringing Elixir to PepsiCo eCommerce and explains how it became their go-to for application development. 
 
