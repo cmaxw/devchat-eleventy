@@ -56,14 +56,14 @@ Khash talks about how Kubernetes fits into the Cloud 66 model. Cloud 66 was star
 
 In the past, David has seen some issues with autoscaling in Kubernetes clusters, and Khash talks about how those things have been addressed and how to approach scaling in general. The first two things you need to define with scaling problems is how much is needed and what is ‘normal’ for your product. It is also important to consider if you need to scale up or scale down, as sometimes scaling down can hold more benefits. Khash has noticed that one thing that’s missing in the market is that as Rails developers they’re all about finding the best tools and getting the job done, while this approach is lacking in Kubernetes. He closes the show by talking about how Cloud 66 is trying to address what a Kubernetes deployment means for a Rails stack.
 
-#### Panelists
+## Panelists
 
 * Andrew Mason 
 * David Kimura 
 
 With special guests: Khash Sajadi and Kasia Hoffman
 
-### Sponsors
+## Sponsors
 
 * [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan 
 * [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues) Try Cloud 66 Rails for FREE & get $100 of free credits with promo code RubyRogues-19
@@ -75,7 +75,7 @@ With special guests: Khash Sajadi and Kasia Hoffman
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-### Links
+## Links
 
 * [Heroku](https://www.heroku.com/) 
 * [Kubernetes](https://kubernetes.io/) 
@@ -86,7 +86,7 @@ With special guests: Khash Sajadi and Kasia Hoffman
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 
-#### Picks
+## Picks
 
 Andrew Mason:
 
