@@ -67,7 +67,7 @@ With special guests: Khash Sajadi and Kasia Hoffman
 
 * [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan 
 * [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues) Try Cloud 66 Rails for FREE & get $100 of free credits with promo code RubyRogues-19
-* [My Angular Story](https://devchat.tv/my-angular-story/) 
+* [RedisGreen](https://redisgreen.net/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues)
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
