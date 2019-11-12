@@ -48,6 +48,7 @@ Stephen shares the best times to use ngTemplateOutlets and overviews some of the
 **Sponsors**
 
 - [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
+- [HeroDevs](herodevs.com)
 - [Flatfile](https://try.flatfile.io/we-built-your-data-importer?utm_source=Devchat-TV-Podcast-Audio-October-2019-EP-5&amp;utm_medium=Podcast&amp;utm_campaign=Devchat-TV-Podcast-EP-5&amp;utm_term=Episode-5&amp;utm_content=Engineer)
 - [Cachefly](https://www.cachefly.com/)
 
