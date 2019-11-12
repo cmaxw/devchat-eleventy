@@ -42,38 +42,44 @@ Vitali talks about his tool why-did-you-render, which will notify you of avoidab
 
 **Panelists**
 
-- Thomas Aylott
-- Lucas Reis
+* Thomas Aylott
+* Lucas Reis
 
 With special guest: Vitali Zaidman
 
 # Sponsors
 
-- [Nrwl | Nx.Dev/React](https://nx.dev/react?utm_source=Podcast&amp;utm_medium=Banner&amp;utm_campaign=React%20Roundup&amp;utm_content=Nx)
-- [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
-- [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+* [Nrwl | Nx.Dev/React](https://nx.dev/react?utm_source=Podcast&utm_medium=Banner&utm_campaign=React%20Roundup&utm_content=Nx)
+* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
+* [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 **Links**
 
-- [Knockout](https://knockoutjs.com/)
-- [Why did you render](https://github.com/welldone-software/why-did-you-render)
-- [Fusion.js: A Plugin-based Universal Web Framework - Leo Horie](https://www.youtube.com/watch?v=wZ0UDg1n9BQ)
+* [Knockout](https://knockoutjs.com/)
+* [Why did you render](https://github.com/welldone-software/why-did-you-render)
+* [Fusion.js: A Plugin-based Universal Web Framework - Leo Horie](https://www.youtube.com/watch?v=wZ0UDg1n9BQ)
 
-Follow DevChatTV on [Facebook] (https://www.facebook.com/DevChattv/) and [Twitter](https://twitter.com/devchattv?lang=en)
+Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/) and [Twitter](https://twitter.com/devchattv?lang=en)
 
 **Picks**
 
 **Thomas Aylott:**
 
-- [Face-API.js](https://github.com/justadudewhohacks/face-api.js/)
-- [React force graph](https://github.com/vasturiano/react-force-graph)
-- [React 3 Fiber](https://github.com/react-spring/react-three-fiber)
+* [Face-API.js](https://github.com/justadudewhohacks/face-api.js/)
+* [React force graph](https://github.com/vasturiano/react-force-graph)
+* [React 3 Fiber](https://github.com/react-spring/react-three-fiber)
 
 **Lucas Reis:**
 
-- [opendoodles.com](https://www.opendoodles.com/)
-- [Adopting Optimizely at Compass](https://medium.com/compass-true-north/adopting-optimizely-at-compass-158ab86b82f4)
+* [opendoodles.com](https://www.opendoodles.com/)
+* [Adopting Optimizely at Compass](https://medium.com/compass-true-north/adopting-optimizely-at-compass-158ab86b82f4)
 
 **Vitali Zaidman:**
 
-- [JSJ 402: SEO for Developers with Vitali Zaidman](https://devchat.tv/js-jabber/jsj-402-seo-for-developers-with-vitali-zaidman/)
+* [JSJ 402: SEO for Developers with Vitali Zaidman](https://devchat.tv/js-jabber/jsj-402-seo-for-developers-with-vitali-zaidman/)
