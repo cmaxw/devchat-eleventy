@@ -1,6 +1,9 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  identity_url: "http://devchat.tv/.netlify/identity"
+  gateway_url:  "http://devchat.tv/.netlify/git"
+  site_domain:  "http://devchat.tv/"
   accept_roles:
     - admin
     - show_notes
