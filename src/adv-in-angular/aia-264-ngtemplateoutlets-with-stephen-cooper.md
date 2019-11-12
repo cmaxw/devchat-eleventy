@@ -43,7 +43,7 @@ Stephen shares the best times to use ngTemplateOutlets and overviews some of the
 
 - Stephen Cooper
 
-# Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs
+## _Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
 
 **Sponsors**
 
