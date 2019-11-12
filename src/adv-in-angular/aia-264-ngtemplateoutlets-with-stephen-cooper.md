@@ -52,6 +52,12 @@ Stephen shares the best times to use ngTemplateOutlets and overviews some of the
 - [Flatfile](https://try.flatfile.io/we-built-your-data-importer?utm_source=Devchat-TV-Podcast-Audio-October-2019-EP-5&amp;utm_medium=Podcast&amp;utm_campaign=Devchat-TV-Podcast-EP-5&amp;utm_term=Episode-5&amp;utm_content=Engineer)
 - [Cachefly](https://www.cachefly.com/)
 
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
 **Links**
 
 - [ngTemplateOutlet: The secret to customisation | Stephen Cooper](https://www.youtube.com/watch?v=2SnVxPeJdwE)
