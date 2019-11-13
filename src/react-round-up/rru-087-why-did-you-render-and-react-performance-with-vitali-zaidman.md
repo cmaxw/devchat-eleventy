@@ -64,6 +64,11 @@ With special guest: Vitali Zaidman
 * [Knockout](https://knockoutjs.com/)
 * [Why did you render](https://github.com/welldone-software/why-did-you-render)
 * [Fusion.js: A Plugin-based Universal Web Framework - Leo Horie](https://www.youtube.com/watch?v=wZ0UDg1n9BQ)
+* [React Element's 'Parent' vs Rendered By](https://medium.com/welldone-software/react-elements-parent-vs-rendered-by-4f879849cd58)
+* [How To Reduce Unnecessary Re-Renders](https://medium.com/welldone-software/how-to-reduce-unnecessary-re-renders-3f840d8b2f27)
+* [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+* [Performance Impact Calculator](https://www.thinkwithgoogle.com/feature/testmysite/)
+* [Welldone Software](https://welldone.software/)
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/) and [Twitter](https://twitter.com/devchattv?lang=en)
 
