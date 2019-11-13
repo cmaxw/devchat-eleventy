@@ -33,7 +33,6 @@ Chris' first access to programming was writing index.hml files when he was young
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-
 ## Links
 
 * [JSJ 386: Gatsby.js with Chris Biscardi](https://devchat.tv/js-jabber/jsj-386-gatsby-js-with-chris-biscardi/#viewport)
@@ -49,7 +48,7 @@ Chris' first access to programming was writing index.hml files when he was young
 * Follow Charles  at [https://devchat.tv/events/ ](https://devchat.tv/events/)
 * Suggest a topic/guests on podcast pages at [https://devchat.tv](https://devchat.tv/events/)
 * Follow Devchat.tv on Instagram at devchat.tv
-* Join us on Discord by going to https://discordapp.com/invite/z7RNTHR
+* Join us on Discord by going to <https://discordapp.com/invite/z7RNTHR>
 * Go to [Maxcoders.io](https://maxcoders.io/) to find out more about MaxCoders movement
 
 **Chris Biscardi:**
