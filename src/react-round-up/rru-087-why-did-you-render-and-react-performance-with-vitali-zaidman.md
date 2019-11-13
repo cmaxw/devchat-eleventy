@@ -1,7 +1,9 @@
 ---
 layout: layouts/post.njk
 podcast: react-round-up
-title: 'RRU 087: Why Did You Render and React Performance with Vitali Zaidman'
+title: >-
+  RRU 087: The why-did-you-render Library and React Performance with Vitali
+  Zaidman
 date: 2019-11-12T11:00:00.000Z
 episode_number: 087
 duration: '45:17'
