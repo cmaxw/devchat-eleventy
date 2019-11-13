@@ -7,6 +7,8 @@ episode_number: 087
 duration: '45:17'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_087_Vitali_Zaidman.mp3'
 tags:
+  - react_round_up
+  - podcast
   - React Round Up
   - React
   - performance
