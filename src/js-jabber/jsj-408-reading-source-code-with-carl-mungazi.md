@@ -65,6 +65,12 @@ Carl talks more about his debugging process. He still relies on a debugger, but 
 - [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
 - [Adventures in Angular](https://devchat.tv/adv-in-angular/) 
 
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
 ### Links
 
 - [Mithril.js](https://mithril.js.org/) 
