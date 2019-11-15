@@ -27,62 +27,49 @@ The topic then shifts to some of the features that are in Grapevine. Eric detail
 
 **Panelists**
 
-
-
-*   Mark Ericksen
-*   Josh Adams
-*   Erik Oestrich	
+* Mark Ericksen
+* Josh Adams
+* Erik Oestrich	
 
 **Sponsors**
 
-
-
-*   [Sentry](https://sentry.io/) use code “devchat” for two months free on Sentry’s small plan. 
-*   [ElixirCasts](https://elixircasts.io/)
-*   [My Angular Story](https://devchat.tv/my-angular-story/)
+* [Sentry](https://sentry.io/) | Use code “devchat” for two months free on Sentry’s small plan. 
+* [ElixirCasts](https://elixircasts.io/) | Get 10% off with the promo code "elixirmix" 
 
 **Links**
 
-
-
-*   [SmartLogic](https://www.smartlogic.com/)
-*   [Phoenix](https://phoenixframework.org/)
-*   [Erlang](https://www.erlang.org/)
-*   [MUD](https://en.wikipedia.org/wiki/MUD)
-*   [Grapevine](https://github.com/oestrich/grapevine)
-*   [ExVenture](https://exventure.org/)
-*   [Telemetry](https://github.com/beam-telemetry/telemetry)
-*   [SmartlogicTv Twitch](http://twitch.tv/smartlogictv/)
-*   [SmartlogicTv Youtube](https://www.youtube.com/smartlogictv)
-*   [Local Clusters with epmd by Erik Oestrich](https://blog.oestrich.org/2019/03/starting-epmd-separately)
-*   [EPMD man page](http://erlang.org/doc/man/epmd.html)
-*   [Hello, production](https://blog.thepete.net/blog/2019/10/04/hello-production/)
-*   [Grapevine Stats](https://grapevine.haus/games/ChatMUD/stats)
-*   [Grapevine Metrics Github](https://github.com/oestrich/grapevine/tree/master/lib/metrics)
-*   [Eric Oestrich Twitter](https://twitter.com/ericoestrich?lang=en)
-*   [Eric Oestrich Grapevine](https://grapevine.haus/)
-*   [Eric Oestrich Github](https://github.com/oestrich)
-*   [Docker](https://www.docker.com/)
-*   [DigitalOcean](https://www.digitalocean.com/)
+* [SmartLogic](https://www.smartlogic.com/)
+* [Phoenix](https://phoenixframework.org/)
+* [Erlang](https://www.erlang.org/)
+* [MUD](https://en.wikipedia.org/wiki/MUD)
+* [Grapevine](https://github.com/oestrich/grapevine)
+* [ExVenture](https://exventure.org/)
+* [Telemetry](https://github.com/beam-telemetry/telemetry)
+* [SmartlogicTv Twitch](http://twitch.tv/smartlogictv/)
+* [SmartlogicTv Youtube](https://www.youtube.com/smartlogictv)
+* [Local Clusters with epmd by Erik Oestrich](https://blog.oestrich.org/2019/03/starting-epmd-separately)
+* [EPMD man page](http://erlang.org/doc/man/epmd.html)
+* [Hello, production](https://blog.thepete.net/blog/2019/10/04/hello-production/)
+* [Grapevine Stats](https://grapevine.haus/games/ChatMUD/stats)
+* [Grapevine Metrics Github](https://github.com/oestrich/grapevine/tree/master/lib/metrics)
+* [Eric Oestrich Twitter](https://twitter.com/ericoestrich?lang=en)
+* [Eric Oestrich Grapevine](https://grapevine.haus/)
+* [Eric Oestrich Github](https://github.com/oestrich)
+* [Docker](https://www.docker.com/)
+* [DigitalOcean](https://www.digitalocean.com/)
 
 **Picks**
 
 **Josh Adams**
 
-
-
-*   [Radiohead Glastonbury Festival](https://www.youtube.com/watch?v=Wwdj3EAAOl4)
-*   [Linux of 2000 article](https://nibblestew.blogspot.com/2019/10/apple-of-2019-is-linux-of-2000.html)
+* [Radiohead Glastonbury Festival](https://www.youtube.com/watch?v=Wwdj3EAAOl4)
+* [Linux of 2000 article](https://nibblestew.blogspot.com/2019/10/apple-of-2019-is-linux-of-2000.html)
 
 **Mark Ericksen**
 
-
-
-*   [TheOatmeal Comic: Running](https://theoatmeal.com/comics/running)
+* [TheOatmeal Comic: Running](https://theoatmeal.com/comics/running)
 
 **Eric Oestrich**
 
-
-
-*   [Squabble](https://github.com/oestrich/squabble)
-*   Playing the violin and cello
+* [Squabble](https://github.com/oestrich/squabble)
+* Playing the violin and cello
