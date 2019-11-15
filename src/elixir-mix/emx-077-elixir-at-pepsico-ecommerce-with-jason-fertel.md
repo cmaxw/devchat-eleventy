@@ -28,7 +28,7 @@ In this episode of Elixir Mix the panel interviews Jason Fertel who runs the mar
 
  Jason explains what they do at PepsiCo eCommerce. They build software to optimize everything from supply chain to marketing and sales for big companies in eCommerce like Amazon.com and InstaCart. He explains the difference between what they do at PepsiCo eCommerce and other CPG’s.
 
-The panel asks Jason about what Elixir has brought to the table at PepsiCo eCommerce. He explains why he chose Elixir when he started out as a one-man development team. Elixir is powerful, straight forward and easy to learn. It is efficient and has everything you need out of the box. Jason shares how using Elixir has also had a positive effect on hiring. The panel considers how using Elixir has benefitted hiring at their companies as well. 
+The panel asks Jason about what Elixir has brought to the table at PepsiCo eCommerce. He explains why he chose Elixir when he started out as a one-man development team. Elixir is powerful, straight forward and easy to learn. It is efficient and has everything you need out of the box. Jason shares how using Elixir has also had a positive effect on hiring. The panel considers how using Elixir has benefited hiring at their companies as well. 
 
 The episode ends with Jason outlining their stack and sharing the tools they are using. He also overviews some of the projects they are working on, including sales and marketing automation, end to end supply chain optimization and something exploratory with IoT. They try to foster a culture of exploration and innovation at PepsiCo eCommerce and Jason talks about a Nerves project they are working on to alert consumers when it is time to purchase more snacks. 
 
