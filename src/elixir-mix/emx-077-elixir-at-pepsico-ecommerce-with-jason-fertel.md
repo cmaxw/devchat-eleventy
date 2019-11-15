@@ -41,7 +41,7 @@ The episode ends with Jason outlining their stack and sharing the tools they are
 
 * Jason Fertel
 
-**Sponsors**
+## **Sponsors**
 
 * [Sentry](http://sentry.io/)  | Use the code “devchat” for two months free on Sentry’s small plan
 * ElixirCasts | [Get 10% off with the promo code &quot;](https://elixircasts.io/)[_elixirmix&quot;_](https://elixircasts.io/)
@@ -53,7 +53,7 @@ The episode ends with Jason outlining their stack and sharing the tools they are
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-**Links**
+## **Links**
 
 * <https://www.scaledagileframework.com/>
 * <https://www.erlang-solutions.com/>
@@ -70,7 +70,7 @@ The episode ends with Jason outlining their stack and sharing the tools they are
 * <https://www.facebook.com/Elixir-Mix>
 * <https://twitter.com/elixir_mix>
 
-**Picks**
+## **Picks**
 
 **Mark Ericksen:**
 
