@@ -46,80 +46,61 @@ Lastly, the panelists discuss what Jeff is currently doing to work more with the
 
 **Panelists**
 
-
-
-*   Mark Ericksen
-*   Eric Oestrich
-*   Josh Adams
-*   Michael Ries
+* Mark Ericksen
+* Eric Oestrich
+* Josh Adams
+* Michael Ries
 
 **Guest**
 
-
-
-*   Jeff Kreeftmeijer	
+* Jeff Kreeftmeijer	
 
 **Sponsors**
 
-
-
-*   [Sentry.io](https://sentry.io/) use code “devchat” for two months free.
-*   [ElixirCasts](https://elixircasts.io/)
-*   [JavaScript Jabber](https://devchat.tv/js-jabber/)
+* [**Sentry.io**](https://sentry.io/) use code “devchat” for two months free.
+* **ElixirCasts** | [Get 10% off with the promo code "elixirmix"](https://elixircasts.io/)
 
 **Links**
 
-
-
-*   [Appsignal.com](https://appsignal.com/)
-*   [Live View article](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html)
-*   [Computers and Go](https://en.wikipedia.org/wiki/Go_(game)#Computers_and_Go)
-*   [Building the Go Game in Elixir: Time Travel and the Ko Rule](https://blog.appsignal.com/2019/07/04/elixir-alchemy-building-go-in-elixir-time-travel-and-the-ko-rule.html)
-*   [Multiplayer Go with Elixir’s Registry, PubSub and Dynamic Supervisors](https://blog.appsignal.com/2019/08/13/elixir-alchemy-multiplayer-go-with-registry-pubsub-and-dynamic-supervisors.html)
-*   [Dynamic Supervisor](https://hexdocs.pm/elixir/DynamicSupervisor.html)
-*   [PubSub](https://hexdocs.pm/phoenix_pubsub/Phoenix.PubSub.html)
-*   [Hayago Github](https://github.com/jeffkreeftmeijer/hayago/tree/master)
-*   [GenServer](https://hexdocs.pm/elixir/GenServer.html)
-*   [Functional Web Development With Elixir, OTP, and Phoenix](amazon.com/Functional-Web-Development-Elixir-Phoenix/dp/1680502433)
-*   [Asciiquarium](https://robobunny.com/projects/asciiquarium/html/)
-*   [Terminal Asciiquarium](https://www.fahmi.my.id/terminal-ascii-aquarium.html)
-*   [The NeuroEvolution of Augmenting Topologies User Page](https://www.cs.ucf.edu/~kstanley/neat.html)
-*   [The NeuroEvolution of Augmenting Topologies](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
-*   [Jeff Kreeftmeijer Twitter](https://twitter.com/jkreeftmeijer)
-*   [Jeff Kreeftmeijer.com](https://jeffkreeftmeijer.com)
+* [Appsignal.com](https://appsignal.com/)
+* [Live View article](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html)
+* [Computers and Go](https://en.wikipedia.org/wiki/Go_(game)#Computers_and_Go)
+* [Building the Go Game in Elixir: Time Travel and the Ko Rule](https://blog.appsignal.com/2019/07/04/elixir-alchemy-building-go-in-elixir-time-travel-and-the-ko-rule.html)
+* [Multiplayer Go with Elixir’s Registry, PubSub and Dynamic Supervisors](https://blog.appsignal.com/2019/08/13/elixir-alchemy-multiplayer-go-with-registry-pubsub-and-dynamic-supervisors.html)
+* [Dynamic Supervisor](https://hexdocs.pm/elixir/DynamicSupervisor.html)
+* [PubSub](https://hexdocs.pm/phoenix_pubsub/Phoenix.PubSub.html)
+* [Hayago Github](https://github.com/jeffkreeftmeijer/hayago/tree/master)
+* [GenServer](https://hexdocs.pm/elixir/GenServer.html)
+* [Functional Web Development With Elixir, OTP, and Phoenix](amazon.com/Functional-Web-Development-Elixir-Phoenix/dp/1680502433)
+* [Asciiquarium](https://robobunny.com/projects/asciiquarium/html/)
+* [Terminal Asciiquarium](https://www.fahmi.my.id/terminal-ascii-aquarium.html)
+* [The NeuroEvolution of Augmenting Topologies User Page](https://www.cs.ucf.edu/~kstanley/neat.html)
+* [The NeuroEvolution of Augmenting Topologies](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
+* [Jeff Kreeftmeijer Twitter](https://twitter.com/jkreeftmeijer)
+* [Jeff Kreeftmeijer.com](https://jeffkreeftmeijer.com)
 
 **Picks**
 
 **Josh Adams**
 
-
-
-*   [Haskell Parser](https://serokell.io/blog/parsing-typed-edsl)
+* [Haskell Parser](https://serokell.io/blog/parsing-typed-edsl)
 
 **Eric Oestrich**
 
-
-
-*   [Dragon Quest 11](https://www.nintendo.com/games/detail/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch/)
-*   [Wingspan](https://stonemaiergames.com/games/wingspan/)
+* [Dragon Quest 11](https://www.nintendo.com/games/detail/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch/)
+* [Wingspan](https://stonemaiergames.com/games/wingspan/)
 
 **Michael Ries**
 
-
-
-*   [Fireball Island](https://restorationgames.com/fireball-island/)
-*   [Observer CLI](https://hex.pm/packages/observer_cli)
+* [Fireball Island](https://restorationgames.com/fireball-island/)
+* [Observer CLI](https://hex.pm/packages/observer_cli)
 
 **Mark Ericksen**
 
-
-
-*   [Acquired](https://www.acquired.fm/)
+* [Acquired](https://www.acquired.fm/)
 
 **Jeff Kreeftmeijer**
 
-
-
-*   [Go (game)](https://en.wikipedia.org/wiki/Go_(game))
-*   [Mansions of Madness](https://www.fantasyflightgames.com/en/products/mansions-of-madness-second-edition/)
-*   [Alphago Documentary](https://www.alphagomovie.com/)
+* [Go (game)](https://en.wikipedia.org/wiki/Go_(game))
+* [Mansions of Madness](https://www.fantasyflightgames.com/en/products/mansions-of-madness-second-edition/)
+* [Alphago Documentary](https://www.alphagomovie.com/)
