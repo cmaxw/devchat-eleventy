@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: dev-ed
-title: "DevEd 037: \_David Graham"
+title: 'DevEd 037: Code Ninjas & Community Learning'
 date: 2019-11-12T11:00:00.000Z
 episode_number: '037'
 duration: '51:18'
