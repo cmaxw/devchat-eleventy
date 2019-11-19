@@ -36,7 +36,7 @@ The top three submissions are shared, the panel is impressed by how different ea
 
 - Nathan Long
 
-**Sponsors  **
+**Sponsors**
 
 - [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
 - ElixirCasts |[Get 10% off with the promo code ](https://elixircasts.io/)[_"elixirmix"_](https://elixircasts.io/)
