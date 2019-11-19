@@ -34,8 +34,6 @@ answer3: >-
 
 Aaron and Ado talk about Ado's introduction to Angular and his work at Auth0. Ado has been working wth Angular for the last 7 years. His day to day is at Auth0 is focused on getting out into the developer community talking to developers about authentication access management and  securing their applications securing their Angular applications. 
 
-
-
 **Host: Aaron Frost**
 
 **Joined By Special Guest:** Ado Kukic
