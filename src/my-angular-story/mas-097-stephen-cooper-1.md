@@ -27,7 +27,9 @@ answer2: >-
 ---
  Ado Kukic has been  a professional developer since the age of 15. He is a developer Evangelist Lead at Auth0 working remotely out of Las Vegas, Nevada. 
 
-Aaron and Ado talk about Ado's introduction to Angular and his work at Auth0. 
+Aaron and Ado talk about Ado's introduction to Angular and his work at Auth0. Ado has been working wth Angular for the last 7 years. His day to day is at Auth0 is focused on getting out into the developer community talking to developers about authentication access management and  securing their applications securing their Angular applications. 
+
+
 
 **Host: Aaron Frost**
 
