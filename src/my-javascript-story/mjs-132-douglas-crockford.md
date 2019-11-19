@@ -34,6 +34,12 @@ Douglas Crockford is a language architect and helped with the development of Jav
 
 ## Picks
 
+**Charles Max Wood:**
+
+* <https://www.mypillow.com/>
+
 **Douglas Crockford:**
 
-**Charles Max Wood:**
+* ****
+
+****
