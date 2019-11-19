@@ -17,6 +17,13 @@ answer1: >-
   big things that that I've been focusing on for the last two years is figuring
   out how do we authenticate. How do we make the authentication story within
   Angular applications as simple as it can be.
+question2: How did you get introduced to AngularJS?
+answer2: >-
+  This was back in 2013 2014 and we had been running this very old traditional
+  ASP. NET C sharp stack and we decided we needed to modernize we needed modern
+  features. And I was put in charge of picking a front end framework did to kind
+  of replace that. So I was evaluating knockouts evaluating Ember and then I
+  stumbled upon Angular JS.
 ---
  Ado Kukic has been  a professional developer since the age of 15. He is a developer Evangelist Lead at Auth0 working remotely out of Las Vegas, Nevada. 
 
