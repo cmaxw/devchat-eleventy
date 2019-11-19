@@ -12,6 +12,11 @@ tags:
   - Ado Kukic
   - Aaron Frost
 question1: What are some of the hardest things you have solved with Angular at Auth0?
+answer1: >-
+  When it comes to you know that the latest Angular Angular release. One of the
+  big things that that I've been focusing on for the last two years is figuring
+  out how do we authenticate. How do we make the authentication story within
+  Angular applications as simple as it can be.
 ---
  Ado Kukic has been  a professional developer since the age of 15. He is a developer Evangelist Lead at Auth0 working remotely out of Las Vegas, Nevada. 
 
