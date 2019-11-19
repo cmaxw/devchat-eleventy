@@ -37,7 +37,7 @@ Chris shares a project, MiniPress. He was impressed with VuePress and wanted to 
 
 - Christian Kienle
 
-**Sponsors  **
+**Sponsors**
 
 - [Sentry](http://sentry.io/)–  use the code “devchat” for two months free on Sentry’s small plan
 - [CacheFly](https://www.cachefly.com/)
