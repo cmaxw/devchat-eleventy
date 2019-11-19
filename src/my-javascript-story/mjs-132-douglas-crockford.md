@@ -55,7 +55,8 @@ Douglas realized that there's going to be a convergence of TV and computing very
 
 * [JSJ 392: The Murky Past and Misty Future of JavaScript with Douglas Crockford](https://devchat.tv/js-jabber/jsj-392-the-murky-past-and-misty-future-of-javascript-with-douglas-crockford/)
 * [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
-* How JavaSript Works
+* [How JavaScript Works by Douglas Crockford](https://www.amazon.com/How-JavaScript-Works-Douglas-Crockford/dp/1949815005)  
+* <https://www.crockford.com>
 
 ## Picks
 
