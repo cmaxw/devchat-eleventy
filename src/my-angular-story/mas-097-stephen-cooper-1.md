@@ -24,6 +24,11 @@ answer2: >-
   features. And I was put in charge of picking a front end framework did to kind
   of replace that. So I was evaluating knockouts evaluating Ember and then I
   stumbled upon Angular JS.
+question3: What are some of the challenges of with authentication ?
+answer3: >-
+  Such a challenging aspect, you know, even if you're building a traditional web
+  application, there's still all sorts of considerations here, you have to take
+  into account all sorts of vulnerabilities to worry about.
 ---
  Ado Kukic has been  a professional developer since the age of 15. He is a developer Evangelist Lead at Auth0 working remotely out of Las Vegas, Nevada. 
 
