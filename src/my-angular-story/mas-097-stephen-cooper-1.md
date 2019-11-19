@@ -11,13 +11,13 @@ tags:
   - podcast
   - Ado Kukic
   - Aaron Frost
-question1: What are some of the hardest things you have solved with Angular at Auth0?
+question1: What are some of the hardest things that can be  solved with Angular at Auth0?
 answer1: >-
   When it comes to you know that the latest Angular Angular release. One of the
   big things that that I've been focusing on for the last two years is figuring
   out how do we authenticate. How do we make the authentication story within
   Angular applications as simple as it can be.
-question2: How did you get introduced to AngularJS?
+question2: How did Ado Kukic get introduced to AngularJS?
 answer2: >-
   This was back in 2013 2014 and we had been running this very old traditional
   ASP. NET C # stack and we decided we needed to modernize we needed modern
