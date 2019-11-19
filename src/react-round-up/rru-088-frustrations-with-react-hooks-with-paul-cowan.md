@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: react-round-up
 title: 'RRU 088: Frustrations with React Hooks with Paul Cowan'
-date: 2019-11-19T06:38:51.705Z
+date: 2019-11-19T11:00:51.705Z
 episode_number: 088
 duration: '1:06:50'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_088_Paul_Cowan.mp3'
