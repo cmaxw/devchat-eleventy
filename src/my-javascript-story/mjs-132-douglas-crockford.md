@@ -27,10 +27,6 @@ Douglas Crockford is a language architect and helped with the development of Jav
 
 Douglas realized that there's going to be a convergence of TV and computing very early in his career. So a lot of his career has been bridging those two things, helping the evolution toward digital media. After working for Atari he went to work at Lucasfilm.
 
-
-
-
-
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:**  Douglas Crockford
@@ -44,8 +40,8 @@ Douglas realized that there's going to be a convergence of TV and computing very
 ## Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
-* [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
+* [My Angular Story](https://devchat.tv/my-angular-story/)
+* [React Native Radio](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## Links
