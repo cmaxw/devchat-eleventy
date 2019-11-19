@@ -1,21 +1,21 @@
 ---
 layout: layouts/post.njk
 podcast: my-angular-story
-title: 'MAS 097:  Stephen Cooper'
-date: 2019-11-05T10:00:38.832Z
-episode_number: '97'
-duration: '46:34'
-audio_url: 'https://media.devchat.tv/my-angular-story/MAS_097_Stephen_Cooper.mp3'
+title: 'MAS 098: Ado Kukic'
+date: 2019-11-19T10:00:38.832Z
+episode_number: '98'
+duration: '22:11'
+audio_url: 'https://media.devchat.tv/my-angular-story/MAS_098_Ado_Kukic.mp3'
 tags:
   - my_angular_story
   - podcast
-  - Stephen Cooper
-  - Joe Eames
+  - Ado Kukic
+  - Aaron Frost
 question1: What are some of the hardest things you have solved with Angular at Auth0?
 ---
  Ado Kukic has been  a professional developer since the age of 15. He is a developer Evangelist Lead at Auth0 working remotely out of Las Vegas, Nevada. 
 
-**Host:** Aaron Frost 
+**Host: Aaron Frost**Aaron FrostAaron Frost Aaron Frost  Aaron Frost 
 
 **Joined By Special Guest:** Ado Kukic
 
