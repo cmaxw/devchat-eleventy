@@ -27,24 +27,19 @@ answer2: >-
 ---
  Ado Kukic has been  a professional developer since the age of 15. He is a developer Evangelist Lead at Auth0 working remotely out of Las Vegas, Nevada. 
 
+Aaron and Ado talk about Ado's introduction to Angular and his work at Auth0. 
+
 **Host: Aaron Frost**
 
 **Joined By Special Guest:** Ado Kukic
 
 ## **My Angular Story is produced by DevChat.TV in partnership with Hero Devs**
 
-
-
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
-
-
-
-
-
 
 ### **Sponsors**
 
