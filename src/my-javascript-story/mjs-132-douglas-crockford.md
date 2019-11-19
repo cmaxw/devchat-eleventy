@@ -12,7 +12,7 @@ tags:
   - Douglas Crockford
   - Charles Max Wood
   - javascript
-question1: 'How did you get started with programming? '
+question1: 'How did Douglas Crockford get started with programming? '
 answer1: >-
   In school i did general studies for first year and one of the requirements for
   that was for math. And one of the ways of satisfying that was Fortran. So I
@@ -22,6 +22,8 @@ answer1: >-
   that's all there was. Because computer science didn't exist yet. At least not
   at that school so I self taught the rest of it. That's how I got into
   programming.
+question2: Why did Douglas Crockford specialize in JavaScript?
+answer2: ' I always tried to be a generalist I trained myself to be a generalist, but I''m best known as being a specialist in something that I would never picked.'
 ---
 Douglas Crockford is a language architect and helped with the development of JavaScript. He popularized the data format JSON, and has developed various JavaScript related tools such as JSLint and JSMin He started working with JavaScript in 2000. He talks about his journey with the language, including his initial confusion and struggles, which led him to write his book JavaScript: The Good Parts.
 
