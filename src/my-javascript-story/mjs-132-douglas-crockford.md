@@ -20,7 +20,8 @@ answer1: >-
   to the mainframe in the library. And I was really good at it. And I really
   enjoyed it. So I took the second class. And then the third class and then
   that's all there was. Because computer science didn't exist yet. At least not
-  at that school so I self taught the rest of it.
+  at that school so I self taught the rest of it. That's how I got into
+  programming.
 ---
 Douglas Crockford is a language architect and helped with the development of JavaScript. He popularized the data format JSON, and has developed various JavaScript related tools such as JSLint and JSMin He started working with JavaScript in 2000. He talks about his journey with the language, including his initial confusion and struggles, which led him to write his book JavaScript: The Good Parts.
 
