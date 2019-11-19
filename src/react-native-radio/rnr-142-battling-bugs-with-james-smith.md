@@ -72,4 +72,4 @@ They consider how these processes could lower the number of bugs and teach devel
 **James Smith:**
 
 - [DroidCon](https://www.sf.droidcon.com/)
-- - [Legend of Zelda Link's Awakening - Nintendo Switch](https://www.amazon.com/Legend-Zelda-Links-Awakening-Nintendo-Switch/dp/B07SG15148/ref=sr_1_1?crid=EX33HHUOE4HX&amp;keywords=links+awakening+switch&amp;qid=1574162236&amp;sprefix=links+a%2Caps%2C-1&amp;sr=8-1)
+- [Legend of Zelda Link's Awakening - Nintendo Switch](https://www.amazon.com/Legend-Zelda-Links-Awakening-Nintendo-Switch/dp/B07SG15148/ref=sr_1_1?crid=EX33HHUOE4HX&amp;keywords=links+awakening+switch&amp;qid=1574162236&amp;sprefix=links+a%2Caps%2C-1&amp;sr=8-1)
