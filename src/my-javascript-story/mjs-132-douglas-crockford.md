@@ -5,7 +5,7 @@ title: 'MJS 132: Douglas Crockford'
 date: 2019-11-19T10:00:00.000Z
 episode_number: '132'
 duration: '44:11'
-audio_url: 'https://media.devchat.tv/my-js-story/MJS_132_z7_Crockford.mp3'
+audio_url: 'https://media.devchat.tv/my-js-story/MJS_132_Douglas_Crockford.mp3'
 tags:
   - my_javascript_story
   - podcast
