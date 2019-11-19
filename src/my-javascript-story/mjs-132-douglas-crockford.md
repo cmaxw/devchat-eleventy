@@ -38,8 +38,6 @@ Douglas Crockford is a language architect and helped with the development of Jav
 
 * <https://www.mypillow.com/>
 
-**Douglas Crockford:**
-
-* ****
+****
 
 ****
