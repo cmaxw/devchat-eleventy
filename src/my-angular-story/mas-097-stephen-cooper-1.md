@@ -27,7 +27,7 @@ answer2: >-
 ---
  Ado Kukic has been  a professional developer since the age of 15. He is a developer Evangelist Lead at Auth0 working remotely out of Las Vegas, Nevada. 
 
-**Host: Aaron Frost**Aaron FrostAaron Frost Aaron Frost  Aaron Frost 
+**Host: Aaron Frost**
 
 **Joined By Special Guest:** Ado Kukic
 
