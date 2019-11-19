@@ -24,6 +24,11 @@ answer1: >-
   programming.
 question2: Why did Douglas Crockford specialize in JavaScript?
 answer2: ' I always tried to be a generalist I trained myself to be a generalist, but I''m best known as being a specialist in something that I would never picked. I never wanted to be the JavaScript guy right I ever had a campaign. This is how I can take over the JavaScript field, I can get in front of this thing. It was never liked that.'
+question3: 'Who is Douglas Crockford ? '
+answer3: >-
+  Douglas Crockford is a language architect and helped with the development of
+  JavaScript. He popularized the data format JSON, and has developed various
+  JavaScript related tools such as JSLint and JSMin.
 ---
 Douglas Crockford is a language architect and helped with the development of JavaScript. He popularized the data format JSON, and has developed various JavaScript related tools such as JSLint and JSMin He started working with JavaScript in 2000. He talks about his journey with the language, including his initial confusion and struggles, which led him to write his book JavaScript: The Good Parts.
 
