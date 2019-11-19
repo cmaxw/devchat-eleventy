@@ -25,7 +25,7 @@ answer1: >-
 ---
 Douglas Crockford is a language architect and helped with the development of JavaScript. He popularized the data format JSON, and has developed various JavaScript related tools such as JSLint and JSMin He started working with JavaScript in 2000. He talks about his journey with the language, including his initial confusion and struggles, which led him to write his book JavaScript: The Good Parts.
 
-Douglas realized that there's going to be a convergence of TV and computing very early in his career. So a lot of his career has been bridging those two things, helping the evolution toward digital media.
+Douglas realized that there's going to be a convergence of TV and computing very early in his career. So a lot of his career has been bridging those two things, helping the evolution toward digital media. After working for Atari he went to work at Lucasfilm.
 
 
 
