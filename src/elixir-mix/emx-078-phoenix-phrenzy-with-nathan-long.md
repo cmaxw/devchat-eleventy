@@ -38,9 +38,8 @@ The top three submissions are shared, the panel is impressed by how different ea
 
 **Sponsors  **
 
-- [Sentry](http://sentry.io/)– use the code &quot;devchat&quot; for two months free on Sentry&#39;s small plan
+- [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
 - ElixirCasts |[Get 10% off with the promo code &quot;](https://elixircasts.io/)[_elixirmix&quot;_](https://elixircasts.io/)
-- [My Angular Story](https://devchat.tv/my-angular-story/)
 - [CacheFly](https://www.cachefly.com/)
 
 **Links**
