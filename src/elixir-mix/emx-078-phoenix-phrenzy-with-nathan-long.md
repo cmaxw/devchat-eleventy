@@ -39,9 +39,14 @@ The top three submissions are shared, the panel is impressed by how different ea
 **Sponsors  **
 
 - [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
-- ElixirCasts |[Get 10% off with the promo code &quot;](https://elixircasts.io/)[_elixirmix&quot;_](https://elixircasts.io/)
+- ElixirCasts |[Get 10% off with the promo code ](https://elixircasts.io/)[_"elixirmix"_](https://elixircasts.io/)
 - [CacheFly](https://www.cachefly.com/)
 
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 **Links**
 
 - [https://phoenixphrenzy.com/results](https://phoenixphrenzy.com/results)
