@@ -42,6 +42,11 @@ Chris shares a project, MiniPress. He was impressed with VuePress and wanted to 
 - [Sentry](http://sentry.io/)–  use the code “devchat” for two months free on Sentry’s small plan
 - [CacheFly](https://www.cachefly.com/)
 
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 **Links**
 
 - [https://github.com/ChristianKienle/minipress](https://github.com/ChristianKienle/minipress)
