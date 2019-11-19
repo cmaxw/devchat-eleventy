@@ -45,6 +45,12 @@ They consider how these processes could lower the number of bugs and teach devel
 - [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&amp;utm_medium=Podcast)
 - [CacheFly](https://www.cachefly.com/)
 
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
 **Links**
 
 - [https://stripe.com/reports/developer-coefficient-2018](https://stripe.com/reports/developer-coefficient-2018)
