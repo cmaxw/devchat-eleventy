@@ -33,6 +33,19 @@ answer2: >-
 
 ## **My Angular Story is produced by DevChat.TV in partnership with Hero Devs**
 
+
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+
+
+
+
+
 ### **Sponsors**
 
 * [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
