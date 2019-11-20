@@ -7,6 +7,8 @@ episode_number: Bonus
 duration: '14:35'
 audio_url: 'https://devchat.cachefly.net/uploads/Finding_Your_Dream_Job.mp3'
 tags:
+  - my_ruby_story
+  - podcast
   - ''
   - Charles Max Wood
   - MaxCoders
