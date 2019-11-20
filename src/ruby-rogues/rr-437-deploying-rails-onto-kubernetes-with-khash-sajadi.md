@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: ruby-rogues
-title: 'RR 437: Deploying Rails Onto Kubernetes with Khash Sajadi'
+title: 'RR 437: Deploying Rails onto Kubernetes with Khash Sajadi'
 date: 2019-11-12T11:00:31.761Z
 episode_number: '437'
 duration: '55:41'
@@ -50,7 +50,7 @@ answer4: >-
   Cloud 66 started in 2012 with the goal of making Rails deployment simple and
   infrastructure easy to understand for application developers.
 ---
-Khash and Kasia works for Cloud 66, a company started in 2012 with a goal to make Rails deployment simple and infrastructure easy to understand for application developers. As the company has moved towards containerization, they have integrated with Kubernetes. Khash talks about what distinguishes Cloud 66 from other platform as a service companies and why the company was started. He begins by talking about the structure of Heroku, how they own the entire stack down to the server, and how they are bound to a data center. Cloud 66 differs because they decided to break that unit economy from a data center to a server, so they don’t own the entire stack. Instead, they deploy what looks like an experience from Heroku onto your own server so you can go anywhere you want to go. They talk to the public API of those cloud providers within the data center that you choose that your account is in, and then provision, deploy, and maintain your application the way that you used to with Heroku, on that data center. 
+Khash and Kasia work for Cloud 66, a company started in 2012 with a goal to make Rails deployment simple and infrastructure easy to understand for application developers. As the company has moved towards containerization, they have integrated with Kubernetes. Khash talks about what distinguishes Cloud 66 from other platform as a service companies and why the company was started. He begins by talking about the structure of Heroku, how they own the entire stack down to the server, and how they are bound to a data center. Cloud 66 differs because they decided to break that unit economy from a data center to a server, so they don’t own the entire stack. Instead, they deploy what looks like an experience from Heroku onto your own server so you can go anywhere you want to go. They talk to the public API of those cloud providers within the data center that you choose that your account is in, and then provision, deploy, and maintain your application the way that you used to with Heroku, on that data center. 
 
 Khash talks about how Kubernetes fits into the Cloud 66 model. Cloud 66 was started with Rails, but they wanted to make it generic and available on any framework, and decided this was best accomplished through containerization. They originally had their own containerization service, but then moved over to Kubernetes. Their Kubernetes for Rails product makes deployment of a Rails application onto Kubernetes extremely simple. The panel discusses the different ways that people get to containerization, and situations where containerization is not the correct solution. They also discuss situations where a containerization service like Kubernetes is useful.  Containerization can help a lot with distinguishing and establishing boundaries within a team. Kubernetes can help create uniform servers because you can tell it what you want and it will help you get there, including notifying you when things don’t align. Kubernetes is also excellent at dealing with microservices, if you have a need for a repeatable environment, and provisioning the infrastructure for commits. Khash notes that since moving to a unified infrastructure powered by Kubernetes, upgrades in Cloud 66 take significantly less time and talks about how things have been streamlined.
 
@@ -71,7 +71,7 @@ With special guests: Khash Sajadi and Kasia Hoffman
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99.**
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
