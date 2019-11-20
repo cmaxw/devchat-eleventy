@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: adv-in-angular
 title: The MaxCoders Guide To Finding Your Dream Developer Job
-date: 2019-11-20T15:54:02.523Z
+date: 2019-11-20T10:00:02.523Z
 episode_number: Bonus
 duration: '14:35'
 audio_url: 'https://devchat.cachefly.net/uploads/Finding_Your_Dream_Job.mp3'
