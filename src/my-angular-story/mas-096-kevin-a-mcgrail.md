@@ -51,6 +51,12 @@ One of the other issue Kevin runs into often is when clients fork their Angular 
 * [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
 * [CacheFly](https://www.cachefly.com/)
 
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
 ### **Links**
 
 * [Kevin's LinkedIn](https://www.linkedin.com/in/kmcgrail/)   
