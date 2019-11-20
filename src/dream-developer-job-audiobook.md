@@ -15,7 +15,88 @@ tags:
 
 Charles Max Wood is recording an audio version of the book *The MaxCoders Guide to Finding Your Dream Developer Job*. If you'd like to be notified when it goes out, please enter your email address here:
 
-
+<style>
+ #_form_47_ { font-size:14px; line-height:1.6; font-family:arial, helvetica, sans-serif; margin:0; }
+ #_form_47_ * { outline:0; }
+ ._form_hide { display:none; visibility:hidden; }
+ ._form_show { display:block; visibility:visible; }
+ #_form_47_._form-top { top:0; }
+ #_form_47_._form-bottom { bottom:0; }
+ #_form_47_._form-left { left:0; }
+ #_form_47_._form-right { right:0; }
+ #_form_47_ input[type="text"],#_form_47_ input[type="date"],#_form_47_ textarea { padding:6px; height:auto; border:#979797 1px solid; border-radius:4px; color:#000 !important; font-size:13px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; }
+ #_form_47_ textarea { resize:none; }
+ #_form_47_ ._submit { -webkit-appearance:none; cursor:pointer; font-family:arial, sans-serif; font-size:14px; text-align:center; background:#333 !important; border:0 !important; -moz-border-radius:4px !important; -webkit-border-radius:4px !important; border-radius:4px !important; color:#fff !important; padding:10px !important; }
+ #_form_47_ ._close-icon { cursor:pointer; background-image:url('https://d226aj4ao1t61q.cloudfront.net/esfkyjh1u_forms-close-dark.png'); background-repeat:no-repeat; background-size:14.2px 14.2px; position:absolute; display:block; top:11px; right:9px; overflow:hidden; width:16.2px; height:16.2px; }
+ #_form_47_ ._close-icon:before { position:relative; }
+ #_form_47_ ._form-body { margin-bottom:30px; }
+ #_form_47_ ._form-image-left { width:150px; float:left; }
+ #_form_47_ ._form-content-right { margin-left:164px; }
+ #_form_47_ ._form-branding { color:#fff; font-size:10px; clear:both; text-align:left; margin-top:30px; font-weight:100; }
+ #_form_47_ ._form-branding ._logo { display:block; width:130px; height:14px; margin-top:6px; background-image:url('https://d226aj4ao1t61q.cloudfront.net/hh9ujqgv5_aclogo_li.png'); background-size:130px auto; background-repeat:no-repeat; }
+ #_form_47_ ._form-label,#_form_47_ ._form_element ._form-label { font-weight:bold; margin-bottom:5px; display:block; }
+ #_form_47_._dark ._form-branding { color:#333; }
+ #_form_47_._dark ._form-branding ._logo { background-image:url('https://d226aj4ao1t61q.cloudfront.net/jftq2c8s_aclogo_dk.png'); }
+ #_form_47_ ._form_element { position:relative; margin-bottom:10px; font-size:0; max-width:100%; }
+ #_form_47_ ._form_element * { font-size:14px; }
+ #_form_47_ ._form_element._clear { clear:both; width:100%; float:none; }
+ #_form_47_ ._form_element._clear:after { clear:left; }
+ #_form_47_ ._form_element input[type="text"],#_form_47_ ._form_element input[type="date"],#_form_47_ ._form_element select,#_form_47_ ._form_element textarea:not(.g-recaptcha-response) { display:block; width:100%; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; }
+ #_form_47_ ._field-wrapper { position:relative; }
+ #_form_47_ ._inline-style { float:left; }
+ #_form_47_ ._inline-style input[type="text"] { width:150px; }
+ #_form_47_ ._inline-style:not(._clear) + ._inline-style:not(._clear) { margin-left:20px; }
+ #_form_47_ ._form_element img._form-image { max-width:100%; }
+ #_form_47_ ._clear-element { clear:left; }
+ #_form_47_ ._full_width { width:100%; }
+ #_form_47_ ._form_full_field { display:block; width:100%; margin-bottom:10px; }
+ #_form_47_ input[type="text"]._has_error,#_form_47_ textarea._has_error { border:#f37c7b 1px solid; }
+ #_form_47_ input[type="checkbox"]._has_error { outline:#f37c7b 1px solid; }
+ #_form_47_ ._error { display:block; position:absolute; font-size:13px; z-index:10000001; }
+ #_form_47_ ._error._above { padding-bottom:4px; bottom:39px; right:0; }
+ #_form_47_ ._error._below { padding-top:4px; top:100%; right:0; }
+ #_form_47_ ._error._above ._error-arrow { bottom:0; right:15px; border-left:5px solid transparent; border-right:5px solid transparent; border-top:5px solid #f37c7b; }
+ #_form_47_ ._error._below ._error-arrow { top:0; right:15px; border-left:5px solid transparent; border-right:5px solid transparent; border-bottom:5px solid #f37c7b; }
+ #_form_47_ ._error-inner { padding:8px 12px; background-color:#f37c7b; font-size:13px; font-family:arial, sans-serif; color:#fff; text-align:center; text-decoration:none; -webkit-border-radius:4px; -moz-border-radius:4px; border-radius:4px; }
+ #_form_47_ ._error-inner._form_error { margin-bottom:5px; text-align:left; }
+ #_form_47_ ._button-wrapper ._error-inner._form_error { position:static; }
+ #_form_47_ ._error-inner._no_arrow { margin-bottom:10px; }
+ #_form_47_ ._error-arrow { position:absolute; width:0; height:0; }
+ #_form_47_ ._error-html { margin-bottom:10px; }
+ .pika-single { z-index:10000001 !important; }
+ @media all and (min-width:320px) and (max-width:667px) { ::-webkit-scrollbar { display:none; }
+ #_form_47_ { margin:0; width:100%; min-width:100%; max-width:100%; box-sizing:border-box; }
+ #_form_47_ * { -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; font-size:1em; }
+ #_form_47_ ._form-content { margin:0; width:100%; }
+ #_form_47_ ._form-inner { display:block; min-width:100%; }
+ #_form_47_ ._form-title,#_form_47_ ._inline-style { margin-top:0; margin-right:0; margin-left:0; }
+ #_form_47_ ._form-title { font-size:1.2em; }
+ #_form_47_ ._form_element { margin:0 0 20px; padding:0; width:100%; }
+ #_form_47_ ._form-element,#_form_47_ ._inline-style,#_form_47_ input[type="text"],#_form_47_ label,#_form_47_ p,#_form_47_ textarea:not(.g-recaptcha-response) { float:none; display:block; width:100%; }
+ #_form_47_ ._row._checkbox-radio label { display:inline; }
+ #_form_47_ ._row,#_form_47_ p,#_form_47_ label { margin-bottom:0.7em; width:100%; }
+ #_form_47_ ._row input[type="checkbox"],#_form_47_ ._row input[type="radio"] { margin:0 !important; vertical-align:middle !important; }
+ #_form_47_ ._row input[type="checkbox"] + span label { display:inline; }
+ #_form_47_ ._row span label { margin:0 !important; width:initial !important; vertical-align:middle !important; }
+ #_form_47_ ._form-image { max-width:100%; height:auto !important; }
+ #_form_47_ input[type="text"] { padding-left:10px; padding-right:10px; font-size:16px; line-height:1.3em; -webkit-appearance:none; }
+ #_form_47_ input[type="radio"],#_form_47_ input[type="checkbox"] { display:inline-block; width:1.3em; height:1.3em; font-size:1em; margin:0 0.3em 0 0; vertical-align:baseline; }
+ #_form_47_ button[type="submit"] { padding:20px; font-size:1.5em; }
+ #_form_47_ ._inline-style { margin:20px 0 0 !important; }
+ }
+ #_form_47_ { position:relative; text-align:left; margin:25px auto 0; padding:20px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; *zoom:1; background:#fff !important; border:0px solid #b0b0b0 !important; width:500px; -moz-border-radius:0px !important; -webkit-border-radius:0px !important; border-radius:0px !important; color:#000 !important; }
+ #_form_47_ ._form-title { font-size:22px; line-height:22px; font-weight:600; margin-bottom:0; }
+ #_form_47_:before,#_form_47_:after { content:" "; display:table; }
+ #_form_47_:after { clear:both; }
+ #_form_47_._inline-style { width:auto; display:inline-block; }
+ #_form_47_._inline-style input[type="text"],#_form_47_._inline-style input[type="date"] { padding:10px 12px; }
+ #_form_47_._inline-style button._inline-style { position:relative; top:27px; }
+ #_form_47_._inline-style p { margin:0; }
+ #_form_47_._inline-style ._button-wrapper { position:relative; margin:27px 12.5px 0 20px; }
+ #_form_47_ ._form-thank-you { position:relative; left:0; right:0; text-align:center; font-size:18px; }
+ @media all and (min-width:320px) and (max-width:667px) { #_form_47_._inline-form._inline-style ._inline-style._button-wrapper { margin-top:20px !important; margin-left:0 !important; }
+ }
+</style>
 <form method="POST" action="https://devchat.activehosted.com/proc.php" id="_form_47_" class="_form _form_47 _inline-form  _dark" novalidate>
   <input type="hidden" name="u" value="47" />
   <input type="hidden" name="f" value="47" />
