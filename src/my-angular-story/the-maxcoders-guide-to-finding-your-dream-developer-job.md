@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: my-angular-story
-title: The MaxCoders Guide To Finding Your Dream Developer Job
+title: 'The MaxCoders Guide To Finding Your Dream Developer Job '
 date: 2019-11-05T10:00:38.832Z
 episode_number: Bonus
 duration: '14:35'
