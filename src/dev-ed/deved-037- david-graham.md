@@ -34,6 +34,12 @@ Joined by special guest: [David Graham](https://twitter.com/OriginalCoder)
 * [iPhreaks - Devchat.tv](https://devchat.tv/iphreaks/)
 * [Views on Vue - Devchat.tv](https://devchat.tv/views-on-vue/)
 
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
 ## Links
 
 * [Code Ninjas](https://www.codeninjas.com/)
