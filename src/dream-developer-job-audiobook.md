@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: >
-  Get the AudioBook for The MaxCoders Guide to Finding Your Dream Developer Job
+  "Finding Your Dream Developer Job" Worksheets and Audiobook
 episode_number:
 duration:
 audio_url:
