@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: react-native-radio
 title: The MaxCoders Guide To Finding Your Dream Developer Job
-date: 2019-07-23T10:00:00.000Z
+date: 2019-11-20T19:00:00.000Z
 episode_number: Bonus
 duration: '14:35'
 audio_url: 'https://devchat.cachefly.net/uploads/Finding_Your_Dream_Job.mp3'
