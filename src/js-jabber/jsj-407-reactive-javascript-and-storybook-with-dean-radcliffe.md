@@ -45,50 +45,45 @@ The panel discusses why reactive JavaScript is not more widely used. People now 
 
 Dean talks about his stool Storybook Animate, which allows you to see what the user sees. Storybook is an actively updated product, and Dean talks about how to get started with it. The show concludes tih Dean talking about some things coming down the pipe and how he is actively involved in looking for good general solutions to help people write bulletproof code. 
 
-### Panelists
+## Panelists
 
--   JC Hiatt
+* JC Hiatt
 
 With special guest: Dean Radcliffe
 
-Sponsors
+## Sponsors
 
--   [Hasura, Inc.](https://hasura.io)
+* [Hasura, Inc.](https://hasura.io)
+* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
+* [Adventures in Angular](https://devchat.tv/adv-in-angular/)
 
--   [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
--   [Adventures in Angular](https://devchat.tv/adv-in-angular/)
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
 
-Links
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
--   [RRU 083](https://dev.to/reactroundup/rru-083-reactive-programming-with-storybook-with-dean-radcliffe)
+## Links
 
--   [Knockout.js ](https://knockoutjs.com/)
-
--   [Node.js](https://nodejs.org/)
-
--   [Meteor.js](https://www.meteor.com/)
-
--   [RXJS](https://rxjs-dev.firebaseapp.com/)
-
--   [Storybook Animate](https://github.com/deanius/storybook-animate)
-
--   [RX Helper library](https://github.com/deanius/rx-helper)
+* [RRU 083](https://dev.to/reactroundup/rru-083-reactive-programming-with-storybook-with-dean-radcliffe)
+* [Knockout.js ](https://knockoutjs.com/)
+* [Node.js](https://nodejs.org/)
+* [Meteor.js](https://www.meteor.com/)
+* [RXJS](https://rxjs-dev.firebaseapp.com/)
+* [Storybook Animate](https://github.com/deanius/storybook-animate)
+* [RX Helper library](https://github.com/deanius/rx-helper)
 
 Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
 
-### Picks
+## Picks
 
 JC Hiatt:
 
--   [Joker](https://www.imdb.com/title/tt7286456/)
-
--   [DevLifts](https://devlifts.io/)
+* [Joker](https://www.imdb.com/title/tt7286456/)
+* [DevLifts](https://devlifts.io/)
 
 Dean Radcliffe: 
 
--   Twitter [@deaniusol ](https://twitter.com/deaniusol)and Github [@deanius](https://github.com/deanius)
-
--   [The Keyframers](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA)
-
--   [Action for Healthy Kids](https://www.actionforhealthykids.org/)
+* Twitter [@deaniusol ](https://twitter.com/deaniusol)and Github [@deanius](https://github.com/deanius)
+* [The Keyframers](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA)
+* [Action for Healthy Kids](https://www.actionforhealthykids.org/)

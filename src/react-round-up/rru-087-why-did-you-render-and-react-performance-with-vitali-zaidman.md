@@ -1,12 +1,16 @@
 ---
 layout: layouts/post.njk
 podcast: react-round-up
-title: 'RRU 087: Why Did You Render and React Performance with Vitali Zaidman'
+title: >-
+  RRU 087: The why-did-you-render Library and React Performance with Vitali
+  Zaidman
 date: 2019-11-12T11:00:00.000Z
 episode_number: 087
 duration: '45:17'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_087_Vitali_Zaidman.mp3'
 tags:
+  - react_round_up
+  - podcast
   - React Round Up
   - React
   - performance
@@ -42,38 +46,49 @@ Vitali talks about his tool why-did-you-render, which will notify you of avoidab
 
 **Panelists**
 
-- Thomas Aylott
-- Lucas Reis
+* Thomas Aylott
+* Lucas Reis
 
 With special guest: Vitali Zaidman
 
 # Sponsors
 
-- [Nrwl | Nx.Dev/React](https://nx.dev/react?utm_source=Podcast&amp;utm_medium=Banner&amp;utm_campaign=React%20Roundup&amp;utm_content=Nx)
-- [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
-- [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+* [Nrwl | Nx.Dev/React](https://nx.dev/react?utm_source=Podcast&utm_medium=Banner&utm_campaign=React%20Roundup&utm_content=Nx)
+* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
+* [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 **Links**
 
-- [Knockout](https://knockoutjs.com/)
-- [Why did you render](https://github.com/welldone-software/why-did-you-render)
-- [Fusion.js: A Plugin-based Universal Web Framework - Leo Horie](https://www.youtube.com/watch?v=wZ0UDg1n9BQ)
+* [Knockout](https://knockoutjs.com/)
+* [Why did you render](https://github.com/welldone-software/why-did-you-render)
+* [Fusion.js: A Plugin-based Universal Web Framework - Leo Horie](https://www.youtube.com/watch?v=wZ0UDg1n9BQ)
+* [React Element's 'Parent' vs Rendered By](https://medium.com/welldone-software/react-elements-parent-vs-rendered-by-4f879849cd58)
+* [How To Reduce Unnecessary Re-Renders](https://medium.com/welldone-software/how-to-reduce-unnecessary-re-renders-3f840d8b2f27)
+* [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+* [Performance Impact Calculator](https://www.thinkwithgoogle.com/feature/testmysite/)
+* [Welldone Software](https://welldone.software/)
 
-Follow DevChatTV on [Facebook] (https://www.facebook.com/DevChattv/) and [Twitter](https://twitter.com/devchattv?lang=en)
+Follow DevChatTV on [Facebook](https://www.facebook.com/DevChattv/) and [Twitter](https://twitter.com/devchattv?lang=en)
 
 **Picks**
 
 **Thomas Aylott:**
 
-- [Face-API.js](https://github.com/justadudewhohacks/face-api.js/)
-- [React force graph](https://github.com/vasturiano/react-force-graph)
-- [React 3 Fiber](https://github.com/react-spring/react-three-fiber)
+* [Face-API.js](https://github.com/justadudewhohacks/face-api.js/)
+* [React force graph](https://github.com/vasturiano/react-force-graph)
+* [React 3 Fiber](https://github.com/react-spring/react-three-fiber)
 
 **Lucas Reis:**
 
-- [opendoodles.com](https://www.opendoodles.com/)
-- [Adopting Optimizely at Compass](https://medium.com/compass-true-north/adopting-optimizely-at-compass-158ab86b82f4)
+* [opendoodles.com](https://www.opendoodles.com/)
+* [Adopting Optimizely at Compass](https://medium.com/compass-true-north/adopting-optimizely-at-compass-158ab86b82f4)
 
 **Vitali Zaidman:**
 
-- [JSJ 402: SEO for Developers with Vitali Zaidman](https://devchat.tv/js-jabber/jsj-402-seo-for-developers-with-vitali-zaidman/)
+* [JSJ 402: SEO for Developers with Vitali Zaidman](https://devchat.tv/js-jabber/jsj-402-seo-for-developers-with-vitali-zaidman/)
