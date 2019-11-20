@@ -63,6 +63,12 @@ The show finishes with them discussing how they handle changes in the industry. 
 - [Nrwl |  Nx.Dev/React](https://nx.dev/react?utm_source=Podcast&utm_medium=Banner&utm_campaign=React%20Roundup&utm_content=Nx) 
 - [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
 
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
 ### Links
 
 - [Flux model](https://facebook.github.io/flux/docs/in-depth-overview/) 
