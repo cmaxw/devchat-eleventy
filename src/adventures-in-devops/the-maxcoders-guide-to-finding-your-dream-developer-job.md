@@ -14,4 +14,4 @@ tags:
   - Developer
   - Jobs
 ---
-## **The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is available on Amazon. Get your copy** [**here**](<The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is available on Amazon. Get your copy here today only for $2.99!>) **today only for $2.99!**
+## "**The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is available on Amazon. Get your copy** [**here**](<The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is available on Amazon. Get your copy here today only for $2.99!>) **today only for $2.99!**
