@@ -50,51 +50,57 @@ The show finishes with them discussing how they handle changes in the industry. 
 
 ### Panelists
 
-- Thomas Aylott 
-- Charles Max Wood 
-- Chris Reyes 
+* Thomas Aylott 
+* Charles Max Wood 
+* Chris Reyes 
 
 ### Guest
 
-- Paul Cowan 
+* Paul Cowan 
 
 ### Sponsors
 
-- [Nrwl |  Nx.Dev/React](https://nx.dev/react?utm_source=Podcast&utm_medium=Banner&utm_campaign=React%20Roundup&utm_content=Nx) 
-- [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
+* [Nrwl |  Nx.Dev/React](https://nx.dev/react?utm_source=Podcast&utm_medium=Banner&utm_campaign=React%20Roundup&utm_content=Nx) 
+* [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 ### Links
 
-- [Flux model](https://facebook.github.io/flux/docs/in-depth-overview/) 
-- [React Redux](https://react-redux.js.org/) 
-- [useReducer](https://medium.com/crowdbotics/how-to-use-usereducer-in-react-hooks-for-performance-optimization-ecafca9e7bf5) 
-- [Frustrations with React Hooks](https://blog.logrocket.com/frustrations-with-react-hooks/) 
-- [Solutions to Frustrations with React Hooks](https://blog.logrocket.com/solutions-to-frustrations-with-react-hooks/) 
-- [ESLint](https://eslint.org/) 
-- [Next.js](https://nextjs.org/) 
-- [Relay](https://relay.dev/) 
-- [Selenium](https://www.seleniumhq.org/) 
-- [StackOverflow](https://stackoverflow.com/) 
-- [ReactiveFlux](https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html) 
+* [Flux model](https://facebook.github.io/flux/docs/in-depth-overview/) 
+* [React Redux](https://react-redux.js.org/) 
+* [useReducer](https://medium.com/crowdbotics/how-to-use-usereducer-in-react-hooks-for-performance-optimization-ecafca9e7bf5) 
+* [Frustrations with React Hooks](https://blog.logrocket.com/frustrations-with-react-hooks/) 
+* [Solutions to Frustrations with React Hooks](https://blog.logrocket.com/solutions-to-frustrations-with-react-hooks/) 
+* [ESLint](https://eslint.org/) 
+* [Next.js](https://nextjs.org/) 
+* [Relay](https://relay.dev/) 
+* [Selenium](https://www.seleniumhq.org/) 
+* [StackOverflow](https://stackoverflow.com/) 
+* [ReactiveFlux](https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html) 
 
 ### Picks
 
 Thomas Aylott
 
-- [Shada](https://en.wikipedia.org/wiki/Shada_(Doctor_Who)) 
+* [Shada](https://en.wikipedia.org/wiki/Shada_(Doctor_Who)) 
 
 Charles Max Wood
 
-- [The MaxCoders Guide to Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9/ref=sr_1_1?keywords=The+MaxCoders+Guide+to+Finding+Your+Dream+Developer+Job&qid=1574145265&sr=8-1) 
-- [It’s A Wonderful Life](https://www.imdb.com/title/tt0038650/) 
-- [Mr. Kreuger’s Christmas](https://www.imdb.com/title/tt0081190/) 
+* [The MaxCoders Guide to Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9/ref=sr_1_1?keywords=The+MaxCoders+Guide+to+Finding+Your+Dream+Developer+Job&qid=1574145265&sr=8-1) 
+* [It’s A Wonderful Life](https://www.imdb.com/title/tt0038650/) 
+* [Mr. Kreuger’s Christmas](https://www.imdb.com/title/tt0081190/) 
 
 Chris Reyes
 
-- [Netlify React Hooks deep dive](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/) 
-- [AirPods Pro](https://www.apple.com/airpods-pro/) 
+* [Netlify React Hooks deep dive](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/) 
+* [AirPods Pro](https://www.apple.com/airpods-pro/) 
 
 Paul Cowan
 
-- [Solutions to Frustrations with React Hooks](https://blog.logrocket.com/solutions-to-frustrations-with-react-hooks/) 
-- Stay fit
+* [Solutions to Frustrations with React Hooks](https://blog.logrocket.com/solutions-to-frustrations-with-react-hooks/) 
+* Stay fit

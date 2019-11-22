@@ -28,33 +28,33 @@ After getting back on track, Scott and Shawn discuss WPF in WinForms. Scott expl
 
 **Panelists**
 
-- Shawn Clabough
+* Shawn Clabough
 
 **Guest:**
 
-- Scott Hunter
+* Scott Hunter
 
 **Sponsors**
 
-- [CacheFly](https://www.cachefly.com/)
+* [CacheFly](https://www.cachefly.com/)
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99.**
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 **Links**
 
-- [https://www.microsoft.com/en-us/ignite](https://www.microsoft.com/en-us/ignite)
-- [https://dotnet.microsoft.com/apps/machinelearning-ai](https://dotnet.microsoft.com/apps/machinelearning-ai)
-- [https://try.dot.net/](https://try.dot.net/)
-- [linkedin.com/in/wai-liu](http://www.linkedin.com/in/wai-liu)
-- [https://www.facebook.com/Adventures-in-NET-373059030062837/       ](https://www.facebook.com/Adventures-in-NET-373059030062837/)
-- [https://twitter.com/adventures\_net](https://twitter.com/adventures_net)
+* <https://www.microsoft.com/en-us/ignite>
+* <https://dotnet.microsoft.com/apps/machinelearning-ai>
+* <https://try.dot.net/>
+* [linkedin.com/in/wai-liu](http://www.linkedin.com/in/wai-liu)
+* [https://www.facebook.com/Adventures-in-NET-373059030062837/       ](https://www.facebook.com/Adventures-in-NET-373059030062837/)
+* <https://twitter.com/adventures_net>
 
 **Picks**
 
 **Shawn Clabough:**
 
-- [ms/podcastsweepstakes](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR6A3jm1fTq1Mgjyd2Qz8q4VUOU9EM1E4UllVR0dOSlYzWVhRVVlDMVYzSC4u)
+* [ms/podcastsweepstakes](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR6A3jm1fTq1Mgjyd2Qz8q4VUOU9EM1E4UllVR0dOSlYzWVhRVVlDMVYzSC4u)

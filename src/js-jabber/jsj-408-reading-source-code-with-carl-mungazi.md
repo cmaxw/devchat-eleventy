@@ -50,59 +50,59 @@ Carl talks more about his debugging process. He still relies on a debugger, but 
 
 ### Panelists
 
-- AJ O’Neal 
-- Dan Shapir 
-- Steve Edwards 
-- Charles Max Wood 
+* AJ O’Neal 
+* Dan Shapir 
+* Steve Edwards 
+* Charles Max Wood 
 
 ### Guest
 
-- Carl Mungazi 
+* Carl Mungazi 
 
 ### Sponsors
 
-- [Hasura.io](http://hasura.io/?utm_source=devchat&utm_medium=podcast&utm_campaign=devchat_7Nov) 
-- [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
-- [Adventures in Angular](https://devchat.tv/adv-in-angular/) 
+* [Hasura.io](http://hasura.io/?utm_source=devchat&utm_medium=podcast&utm_campaign=devchat_7Nov) 
+* [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
+* [Adventures in Angular](https://devchat.tv/adv-in-angular/) 
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99.**
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 ### Links
 
-- [Mithril.js](https://mithril.js.org/) 
-- [Preact](https://preactjs.com/) 
-- [Limejump](https://limejump.com/) 
+* [Mithril.js](https://mithril.js.org/) 
+* [Preact](https://preactjs.com/) 
+* [Limejump](https://limejump.com/) 
 
 ### Picks
 
 AJ O’Neal
 
-- [Zen of Python](https://www.python.org/dev/peps/pep-0020/) 
-- [The Go Proverbs](https://go-proverbs.github.io/) 
-- [Go with Versions](https://www.youtube.com/watch?v=F8nrpe0XWRg) 
-- [Link’s Awakening soundtrack](https://www.youtube.com/watch?v=fdRigsal9qY) 
+* [Zen of Python](https://www.python.org/dev/peps/pep-0020/) 
+* [The Go Proverbs](https://go-proverbs.github.io/) 
+* [Go with Versions](https://www.youtube.com/watch?v=F8nrpe0XWRg) 
+* [Link’s Awakening soundtrack](https://www.youtube.com/watch?v=fdRigsal9qY) 
 
 Dan Shapir
 
-- [Programming Pearls](https://www.goodreads.com/book/show/52084.Programming_Pearls) book 
-- [Lord of Light](https://en.wikipedia.org/wiki/Lord_of_Light) 
+* [Programming Pearls](https://www.goodreads.com/book/show/52084.Programming_Pearls) book 
+* [Lord of Light](https://en.wikipedia.org/wiki/Lord_of_Light) 
 
 Steve Edwards
 
-- [Jabra Elite 65T](https://www.jabra.com/bluetooth-headsets/jabra-elite-65t#/#100-99000000-02) 
+* [Jabra Elite 65T](https://www.jabra.com/bluetooth-headsets/jabra-elite-65t#/#100-99000000-02) 
 
 Charles Max Wood
 
-- [Garth Brooks](https://garthbrooks.com/) 
-- [The Rocky movies](https://en.wikipedia.org/wiki/Rocky_(film_series)) 
+* [Garth Brooks](https://garthbrooks.com/) 
+* [The Rocky movies](https://en.wikipedia.org/wiki/Rocky_(film_series)) 
 
 Carl Mungazi
 
-- Follow Carl [@CarlMungazi](https://twitter.com/carlmungazi?lang=en) and [carlmungazi.com](http://carlmungazi.com/) 
-- [EcmaScript Spec](https://www.ecma-international.org/ecma-262/10.0/index.html#Title) 
-- [HTML 5.2](https://www.w3.org/TR/html52/) 
-- [Snarky Puppy](https://snarkypuppy.com/)
+* Follow Carl [@CarlMungazi](https://twitter.com/carlmungazi?lang=en) and [carlmungazi.com](http://carlmungazi.com/) 
+* [EcmaScript Spec](https://www.ecma-international.org/ecma-262/10.0/index.html#Title) 
+* [HTML 5.2](https://www.w3.org/TR/html52/) 
+* [Snarky Puppy](https://snarkypuppy.com/)

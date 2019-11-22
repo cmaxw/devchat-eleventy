@@ -30,46 +30,45 @@ James explains what to once all the data has been gathered and the best processe
 
 They consider how these processes could lower the number of bugs and teach developers to better handle bugs. James explains that “zero bugs” is an impossible goal because there will always be more bugs, the hope is to stay on top of them so the team can reach new velocity. Performance bugs are considered and James explains how these can be measured and improved each release. 
 
-
 **Panelists**
 
-- Charles Max Wood
+* Charles Max Wood
 
 **Guest**
 
-- James Smith
+* James Smith
 
 **Sponsors**
 
-- [Infinite Red](http://radio.infinite.red/)
-- [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&amp;utm_medium=Podcast)
-- [CacheFly](https://www.cachefly.com/)
+* [Infinite Red](http://radio.infinite.red/)
+* [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast)
+* [CacheFly](https://www.cachefly.com/)
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99.**
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 **Links**
 
-- [https://stripe.com/reports/developer-coefficient-2018](https://stripe.com/reports/developer-coefficient-2018)
-- [Buckaroo](https://www.amazon.com/Hasbro-Gaming-48380-Buckaroo/dp/B0006216GO)
-- [https://square.github.io/leakcanary/](https://square.github.io/leakcanary/)
-- [https://www.bugsnag.com/](https://www.bugsnag.com/)
-- [https://twitter.com/loopj?lang=en](https://twitter.com/loopj?lang=en)
-- [https://www.facebook.com/ReactNativeRadio/](https://www.facebook.com/ReactNativeRadio/)
-- [https://twitter.com/R\_N\_Radio](https://twitter.com/R_N_Radio)
+* <https://stripe.com/reports/developer-coefficient-2018>
+* [Buckaroo](https://www.amazon.com/Hasbro-Gaming-48380-Buckaroo/dp/B0006216GO)
+* <https://square.github.io/leakcanary/>
+* <https://www.bugsnag.com/>
+* <https://twitter.com/loopj?lang=en>
+* <https://www.facebook.com/ReactNativeRadio/>
+* <https://twitter.com/R_N_Radio>
 
 **Picks**
 
 **Charles Max Wood:**
 
-- [The MaxCoders Guide To Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9/ref=sr_1_2?keywords=charles+max+wood&amp;qid=1574160229&amp;sr=8-2)
-- [It's A Wonderful Life](https://www.amazon.com/Its-Wonderful-Life-James-Stewart/dp/B07JMZ4HVH/ref=sr_1_2?crid=3SR0KBCR6KAZQ&amp;keywords=its+a+wonderful+life&amp;qid=1574160291&amp;sprefix=its+a+wonder%2Caps%2C235&amp;sr=8-2)
-- [Krueger's Christmas](https://www.amazon.com/Mr-Kruegers-Christmas-25th-Anniversary/dp/B000CBB4WU/ref=sr_1_1?keywords=Mr.+Kruegers+Christmas&amp;qid=1574160375&amp;sr=8-1)
+* [The MaxCoders Guide To Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9/ref=sr_1_2?keywords=charles+max+wood&qid=1574160229&sr=8-2)
+* [It's A Wonderful Life](https://www.amazon.com/Its-Wonderful-Life-James-Stewart/dp/B07JMZ4HVH/ref=sr_1_2?crid=3SR0KBCR6KAZQ&keywords=its+a+wonderful+life&qid=1574160291&sprefix=its+a+wonder%2Caps%2C235&sr=8-2)
+* [Krueger's Christmas](https://www.amazon.com/Mr-Kruegers-Christmas-25th-Anniversary/dp/B000CBB4WU/ref=sr_1_1?keywords=Mr.+Kruegers+Christmas&qid=1574160375&sr=8-1)
 
 **James Smith:**
 
-- [DroidCon](https://www.sf.droidcon.com/)
-- [Legend of Zelda Link's Awakening - Nintendo Switch](https://www.amazon.com/Legend-Zelda-Links-Awakening-Nintendo-Switch/dp/B07SG15148/ref=sr_1_1?crid=EX33HHUOE4HX&amp;keywords=links+awakening+switch&amp;qid=1574162236&amp;sprefix=links+a%2Caps%2C-1&amp;sr=8-1)
+* [DroidCon](https://www.sf.droidcon.com/)
+* [Legend of Zelda Link's Awakening - Nintendo Switch](https://www.amazon.com/Legend-Zelda-Links-Awakening-Nintendo-Switch/dp/B07SG15148/ref=sr_1_1?crid=EX33HHUOE4HX&keywords=links+awakening+switch&qid=1574162236&sprefix=links+a%2Caps%2C-1&sr=8-1)

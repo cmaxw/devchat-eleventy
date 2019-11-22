@@ -28,53 +28,54 @@ The top three submissions are shared, the panel is impressed by how different ea
 
 **Panelists**
 
-- Mark Ericksen
-- Josh Adams
-- Michael Ries
+* Mark Ericksen
+* Josh Adams
+* Michael Ries
 
 **Guest**
 
-- Nathan Long
+* Nathan Long
 
 **Sponsors**
 
-- [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
-- ElixirCasts |[Get 10% off with the promo code ](https://elixircasts.io/)[_"elixirmix"_](https://elixircasts.io/)
-- [CacheFly](https://www.cachefly.com/)
+* [Sentry](http://sentry.io/)– use the code "devchat" for two months free on Sentry's small plan
+* ElixirCasts |[Get 10% off with the promo code ](https://elixircasts.io/)[_"elixirmix"_](https://elixircasts.io/)
+* [CacheFly](https://www.cachefly.com/)
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $1.**
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99.**
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
 **Links**
 
-- [https://phoenixphrenzy.com/results](https://phoenixphrenzy.com/results)
-- [https://twitter.com/sleeplessgeek](https://twitter.com/sleeplessgeek)
-- [http://nathanmlong.com/blog/](http://nathanmlong.com/blog/)
-- [Ranking Programming Languages by GitHub Users](https://www.benfrederickson.com/ranking-programming-languages-by-github-users/)
--  [GOTO 2019 • The Soul of Erlang and Elixir • Saša Jurić](https://www.youtube.com/watch?v=JvBT4XBdoUE)
-- [https://twitter.com/ScenicFramework/status/1189646397147992064](https://twitter.com/ScenicFramework/status/1189646397147992064)
-- [https://hexdocs.pm/scenic/Scenic.Components.html](https://hexdocs.pm/scenic/Scenic.Components.html)
-- [https://www.facebook.com/Elixir-Mix](https://www.facebook.com/Elixir-Mix)
-- [https://twitter.com/elixir\_mix](https://twitter.com/elixir_mix)
+* <https://phoenixphrenzy.com/results>
+* <https://twitter.com/sleeplessgeek>
+* <http://nathanmlong.com/blog/>
+* [Ranking Programming Languages by GitHub Users](https://www.benfrederickson.com/ranking-programming-languages-by-github-users/)
+* [GOTO 2019 • The Soul of Erlang and Elixir • Saša Jurić](https://www.youtube.com/watch?v=JvBT4XBdoUE)
+* <https://twitter.com/ScenicFramework/status/1189646397147992064>
+* <https://hexdocs.pm/scenic/Scenic.Components.html>
+* <https://www.facebook.com/Elixir-Mix>
+* <https://twitter.com/elixir_mix>
 
 **Picks**
 
 **Mark Ericksen:**
 
-- [https://alicevision.org/](https://alicevision.org/)
-- [https://github.com/alicevision/meshroom](https://github.com/alicevision/meshroom)
+* <https://alicevision.org/>
+* <https://github.com/alicevision/meshroom>
 
 **Josh Adams:**
 
-- [Jesus is King by Kanye West](https://play.google.com/store/music/album?id=Brxodswn66j6isi2gqam5t2mffi&amp;tid=song-T7slhikbjnufns3oz4bl6m3ad4i&amp;hl=en_US)
+* [Jesus is King by Kanye West](https://play.google.com/store/music/album?id=Brxodswn66j6isi2gqam5t2mffi&tid=song-T7slhikbjnufns3oz4bl6m3ad4i&hl=en_US)
 
 **Michael Ries:**
 
-- Scenic Components
+* Scenic Components
 
 **Nathan Long:**
 
-- [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
-- [https://www.owasp.org/index.php/SameSite](https://www.owasp.org/index.php/SameSite)
+* <https://apps.ankiweb.net/>
+* <https://www.owasp.org/index.php/SameSite>

@@ -28,11 +28,11 @@ The panelists share their views about the current state of programming education
 
 Joined by special guest: [David Graham](https://twitter.com/OriginalCoder)
 
-## Sponsors
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-* [Thinkster.io](https://thinkster.io/)
-* [iPhreaks - Devchat.tv](https://devchat.tv/iphreaks/)
-* [Views on Vue - Devchat.tv](https://devchat.tv/views-on-vue/)
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99.**
+
+## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 ## Links
 
