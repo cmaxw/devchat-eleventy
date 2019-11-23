@@ -56,7 +56,7 @@ A weekly conversation with the people who build JavaScript libraries, frameworks
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all JavaScript Jabber pages for the week of the episode you sponsor
 
-## My JavaScript Story
+## <a name="my-javascript-story"></a>My JavaScript Story
 
 A weekly interview capturing the coding journey of the people who build JavaScript libraries, frameworks, tools, and standards.
 
@@ -71,7 +71,7 @@ A weekly interview capturing the coding journey of the people who build JavaScri
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all My JavaScript Story pages for the week of the episode you sponsor
 
-## Adventures in Angular
+## <a name="adventures-in-angular"></a>Adventures in Angular
 
 A weekly conversation with the people who build Angular and participate in its community.
 
@@ -87,7 +87,7 @@ A weekly conversation with the people who build Angular and participate in its c
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all Adventures in Angular pages for the week of the episode you sponsor
 
-## Ruby Rogues
+## <a name="ruby-rogues"></a>Ruby Rogues
 
 A weekly conversation with Rubyists and Rails developers.
 
@@ -103,7 +103,7 @@ A weekly conversation with Rubyists and Rails developers.
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all Ruby Rogues pages for the week of the episode you sponsor
 
-## React Native Radio
+## <a name="react-native-radio"></a>React Native Radio
 
 A weekly conversation about building mobile apps with React Native.
 
@@ -119,7 +119,7 @@ A weekly conversation about building mobile apps with React Native.
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all React Native Radio pages for the week of the episode you sponsor
 
-## Views on Vue
+## <a name="views-on-vue"></a>Views on Vue
 
 A weekly conversation with the people who build Vue applications and participate in its community.
 
@@ -135,7 +135,7 @@ A weekly conversation with the people who build Vue applications and participate
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all Views on Vue pages for the week of the episode you sponsor
 
-## My Angular Story
+## <a name="my-angular-story"></a>My Angular Story
 
 A weekly interview about the code journey of the people who work with Angular and participate in its community.
 
@@ -150,7 +150,7 @@ A weekly interview about the code journey of the people who work with Angular an
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all My Angular Story pages for the week of the episode you sponsor
 
-## Freelancers' Show
+## <a name="freelancers-show"></a>Freelancers' Show
 
 A weekly conversation about building a business and freelancing.
 
@@ -166,7 +166,7 @@ A weekly conversation about building a business and freelancing.
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all Freelancers' Show pages for the week of the episode you sponsor
 
-## iPhreaks
+## <a name="iphreaks"></a>iPhreaks
 
 A weekly conversation about building iOS applications, the Swift language, and its community.
 
@@ -182,7 +182,7 @@ A weekly conversation about building iOS applications, the Swift language, and i
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all iPhreaks pages for the week of the episode you sponsor
 
-## My Ruby Story
+## <a name="my-ruby-story"></a>My Ruby Story
 
 A weekly interview with Ruby developers showing off their coding journey.
 
@@ -197,7 +197,7 @@ A weekly interview with Ruby developers showing off their coding journey.
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all My Ruby Story pages for the week of the episode you sponsor
 
-## React Round Up
+## <a name="react-round-up"></a>React Round Up
 
 A weekly conversation with the people work in the React ecosystem and participate in its community.
 
@@ -213,7 +213,7 @@ A weekly conversation with the people work in the React ecosystem and participat
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all React Round Up pages for the week of the episode you sponsor
 
-## Elixir Mix
+## <a name="elixir-mix"></a>Elixir Mix
 
 A weekly conversation with the people build with Elixir and participate in its community.
 
@@ -229,7 +229,7 @@ A weekly conversation with the people build with Elixir and participate in its c
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all Elixir Mix pages for the week of the episode you sponsor
 
-## The Dev Ed Podcast
+## <a name="dev-ed"></a>The Dev Ed Podcast
 
 A weekly conversation about learning and growing skills as developers.
 
@@ -243,7 +243,7 @@ A weekly conversation about learning and growing skills as developers.
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all the Dev Ed Podcast pages for the week of the episode you sponsor
 
-## Adventures in DevOps
+## <a name="adventures-in-devops"></a>Adventures in DevOps
 
 A weekly conversation about applying people, process, and technology to deliver high performance software at scale.
 
@@ -257,7 +257,7 @@ A weekly conversation about applying people, process, and technology to deliver 
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all Adventures in DevOps pages for the week of the episode you sponsor
 
-## Adventures in .NET
+## <a name="adventures-in-dotnet"></a>Adventures in .NET
 
 A weekly conversation about building applications using .NET and Microsoft technologies.
 
@@ -271,7 +271,7 @@ A weekly conversation about building applications using .NET and Microsoft techn
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all Adventures in .NET pages for the week of the episode you sponsor
 
-## Adventures in Blockchain
+## <a name="adventures-in-blockchain"></a>Adventures in Blockchain
 
 A weekly conversation about programming distributed applications (Dapps) and cryptocurrencies on a blockchain.
 
@@ -285,7 +285,7 @@ A weekly conversation about programming distributed applications (Dapps) and cry
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all Adventures in Blockchain pages for the week of the episode you sponsor
 
-## Sustain Our Software
+## <a name="sustain-our-software"></a>Sustain Our Software
 
 A weekly interview with members of the Open Source community and Directors of Open Source in business.
 
@@ -299,7 +299,7 @@ A weekly interview with members of the Open Source community and Directors of Op
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all Sustain Our Software pages for the week of the episode you sponsor
 
-## The Dev Rev
+## <a name="dev-rev"></a>The Dev Rev
 
 A weekly discussion by Charles Max Wood and occasional guests about building successful careers as part of a meaningful life.
 
