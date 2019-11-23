@@ -15,6 +15,10 @@ question1: 'How old is Aaron Ma? '
 answer1: >-
   Aaron Ma is 11 years old! and is the youngest ML/AI engineer, TensorFlow and
   Apollo Auto contributor, youngest Udacity/Coursera graduate.
+question2: 'Who are some of Aaron''s heroes? '
+answer2: >-
+  Jesse Sanders, Sebastian Thrun,Tracy Lee, Sebastian Witalec are some of
+  Aaron's heroes.
 ---
 Today Aaron Frost welcomes a very cool guest on My Angular Story, Aaron Ma who is an 11 year old  software and hardware developer. Aaron mainly focuses on  on web development, self driving cars, flying cars, robotics, Python, C++ and machine learning. 
 
