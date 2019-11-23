@@ -22,7 +22,9 @@ answer2: >-
 ---
 Today Aaron Frost welcomes a very cool guest on My Angular Story, Aaron Ma who is an 11 year old  software and hardware developer. Aaron mainly focuses on  on web development, self driving cars, flying cars, robotics, Python, C++ and machine learning. 
 
-Aaron started programming at the age of 5 by teaching himself HTML by watching YouTube videos. He then continued with an Introduction to CSS course. Aaron's  father who is a full stack developer also encouraged and helped in his coding journey. 
+Aaron started programming at the age of 5 by teaching himself HTML by watching YouTube videos. He then continued with an Introduction to CSS course. Aaron's  father who is a full stack developer also encouraged and helped in his coding journey.  
+
+
 
 ### Host: Aaron Frost
 
