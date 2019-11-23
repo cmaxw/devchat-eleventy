@@ -377,7 +377,7 @@ The newsletter subscribed to by listeners of the Devchat.tv podcasts.
   * Sponsorship at the top of each outreach available for $500
 * 4 email campaign during a single week $2500
 
-## <a name="ray-wenderlich-newsletter"></a>Ray Wenderlich Newsleter
+## <a name="ray-wenderlich-newsletter"></a>Ray Wenderlich Newsletter
 
 The newsletter about iOS, Android, and VR development by Ray Wenderlich's education company.
 
