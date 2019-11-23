@@ -124,7 +124,7 @@ A weekly conversation with the people who build Angular and participate in its c
 
 ## My Angular Story
 
-A weekly conversation with the people who build Angular and participate in its community.
+A weekly interview about the code journey of the people who work with Angular and participate in its community.
 
 * Each episodes includes 1 pre-roll sponsorship and 1 mid-roll sponsorship
 * $130 for the pre-roll spot at the beginning of the show
@@ -135,37 +135,39 @@ A weekly conversation with the people who build Angular and participate in its c
 * Published weekly
 * Your link will appear on episodes you sponsor
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
-* Your 250x250 pixel banner or logo will appear on all Adventures in Angular pages for the week of the episode you sponsor
+* Your 250x250 pixel banner or logo will appear on all My Angular Story pages for the week of the episode you sponsor
 
 ## Freelancers' Show
 
-A weekly conversation with the people who build Angular and participate in its community.
+A weekly conversation about building a business and freelancing.
 
-* Each episodes includes 1 pre-roll sponsorship and 1 mid-roll sponsorship
+* Each episodes includes 1 pre-roll sponsorship and 2 mid-roll sponsorships
 * $125 for the pre-roll spot at the beginning of the show
-* $115 for the mid-roll
+* $115 for mid-roll #1
+* $105 for mid-roll #2
 * Six week minimum
 * Reaches an average of 2,000 downloads per episode
 * Reaches an average of 10,800 downloads per month across all episodes
 * Published weekly
 * Your link will appear on episodes you sponsor
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
-* Your 250x250 pixel banner or logo will appear on all Adventures in Angular pages for the week of the episode you sponsor
+* Your 250x250 pixel banner or logo will appear on all Freelancers' Show pages for the week of the episode you sponsor
 
 ## iPhreaks
 
-A weekly conversation with the people who build Angular and participate in its community.
+A weekly conversation about building iOS applications, the Swift language, and its community.
 
-* Each episodes includes 1 pre-roll sponsorship and 1 mid-roll sponsorship
+* Each episodes includes 1 pre-roll sponsorship and 2 mid-roll sponsorships
 * $115 for the pre-roll spot at the beginning of the show
-* $105 for the mid-roll
+* $105 for mid-roll #1
+* $95 for mid-roll #2
 * Six week minimum
 * Reaches an average of 1,800 downloads per episode
 * Reaches an average of 9,100 downloads per month across all episodes
 * Published weekly
 * Your link will appear on episodes you sponsor
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
-* Your 250x250 pixel banner or logo will appear on all Adventures in Angular pages for the week of the episode you sponsor
+* Your 250x250 pixel banner or logo will appear on all iPhreaks pages for the week of the episode you sponsor
 
 ## My Ruby Story
 
@@ -182,14 +184,14 @@ A weekly interview with Ruby developers showing off their coding journey.
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all My Ruby Story pages for the week of the episode you sponsor
 
-## [React Round Up](#react-round-up)
+## React Round Up
 
 A weekly conversation with the people work in the React ecosystem and participate in its community.
 
 * Each episodes includes 1 pre-roll sponsorship and 2 mid-roll sponsorships
 * $110 for the pre-roll spot at the beginning of the show
-* $100 for the mid-roll #1
-* $90 for the mid-roll #2
+* $100 for mid-roll #1
+* $90 for mid-roll #2
 * Six week minimum
 * Reaches an average of 1,800 downloads per episode
 * Reaches an average of 9,300 downloads per month across all episodes
