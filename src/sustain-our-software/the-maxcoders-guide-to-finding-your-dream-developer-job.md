@@ -4,6 +4,7 @@ podcast: sustain-our-software
 title: The MaxCoders Guide To Finding Your Dream Developer Job
 date: 2019-11-20T10:00:00.000Z
 episode_number: Bonus
+eleventyExcludeFromCollections: true
 duration: '53:05'
 audio_url: 'https://devchat.cachefly.net/uploads/Finding_Your_Dream_Job.mp3'
 tags:

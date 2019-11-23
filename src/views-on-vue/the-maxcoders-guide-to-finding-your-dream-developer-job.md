@@ -4,6 +4,7 @@ podcast: views-on-vue
 title: The MaxCoders Guide To Finding Your Dream Developer Job
 date: 2019-11-20T19:23:00.000Z
 episode_number: Bonus
+eleventyExcludeFromCollections: true
 duration: '14:35'
 audio_url: 'https://devchat.cachefly.net/uploads/Finding_Your_Dream_Job.mp3'
 tags:
