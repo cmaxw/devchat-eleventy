@@ -37,8 +37,8 @@ A weekly conversation with the people who build JavaScript libraries, frameworks
 
 * Each episodes includes 1 pre-roll sponsorship and 2 mid-roll sponsorships
 * $1160 for the pre-roll spot at the beginning of the show
-* $1060 for the first mid-roll
-* $965 for the second mid-roll
+* $1060 for mid-roll #1
+* $965 for mid-roll #2
 * Six week minimum
 * Reaches an average of 19,300 listeners per episode
 * Reaches an average of 166,500 listeners per month across all episodes
@@ -66,9 +66,10 @@ A weekly interview capturing the coding journey of the people who build JavaScri
 
 A weekly conversation with the people who build Angular and participate in its community.
 
-* Each episodes includes 1 pre-roll sponsorship and 1 mid-roll sponsorship
+* Each episodes includes 1 pre-roll sponsorship and 2 mid-roll sponsorships
 * $290 for the pre-roll spot at the beginning of the show
-* $265 for the mid-roll
+* $265 for mid-roll #1
+* $240 for mid-roll #2
 * Six week minimum
 * Reaches an average of 4,700 downloads per episode
 * Reaches an average of 24,000 downloads per month across all episodes
@@ -79,48 +80,51 @@ A weekly conversation with the people who build Angular and participate in its c
 
 ## Ruby Rogues
 
-A weekly conversation with Rubyists and Rails developers .
+A weekly conversation with Rubyists and Rails developers.
 
-* Each episodes includes 1 pre-roll sponsorship and 1 mid-roll sponsorship
+* Each episodes includes 1 pre-roll sponsorship and 2 mid-roll sponsorships
 * $290 for the pre-roll spot at the beginning of the show
-* $265 for the mid-roll
+* $265 for mid-roll #1
+* $240 for mid-roll #2
 * Six week minimum
 * Reaches an average of 4,700 downloads per episode
 * Reaches an average of 29,000 downloads per month across all episodes
 * Published weekly
 * Your link will appear on episodes you sponsor
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
-* Your 250x250 pixel banner or logo will appear on all Adventures in Angular pages for the week of the episode you sponsor
+* Your 250x250 pixel banner or logo will appear on all Ruby Rogues pages for the week of the episode you sponsor
 
 ## React Native Radio
 
-A weekly conversation with the people who build Angular and participate in its community.
+A weekly conversation about building mobile apps with React Native.
 
-* Each episodes includes 1 pre-roll sponsorship and 1 mid-roll sponsorship
+* Each episodes includes 1 pre-roll sponsorship and 2 mid-roll sponsorships
 * $215 for the pre-roll spot at the beginning of the show
-* $200 for the mid-roll
+* $200 for mid-roll #1
+* $185 for mid-roll #2
 * Six week minimum
 * Reaches an average of 3,600 downloads per episode
 * Reaches an average of 36,000 downloads per month across all episodes
 * Published weekly
 * Your link will appear on episodes you sponsor
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
-* Your 250x250 pixel banner or logo will appear on all Adventures in Angular pages for the week of the episode you sponsor
+* Your 250x250 pixel banner or logo will appear on all React Native Radio pages for the week of the episode you sponsor
 
 ## Views on Vue
 
-A weekly conversation with the people who build Angular and participate in its community.
+A weekly conversation with the people who build Vue applications and participate in its community.
 
-* Each episodes includes 1 pre-roll sponsorship and 1 mid-roll sponsorship
+* Each episodes includes 1 pre-roll sponsorship and 2 mid-roll sponsorships
 * $150 for the pre-roll spot at the beginning of the show
-* $140 for the mid-roll
+* $140 the mid-roll #1
+* $130 the mid-roll #2
 * Six week minimum
 * Reaches an average of 2,400 downloads per episode
 * Reaches an average of 14,000 downloads per month across all episodes
 * Published weekly
 * Your link will appear on episodes you sponsor
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
-* Your 250x250 pixel banner or logo will appear on all Adventures in Angular pages for the week of the episode you sponsor
+* Your 250x250 pixel banner or logo will appear on all Views on Vue pages for the week of the episode you sponsor
 
 ## My Angular Story
 
