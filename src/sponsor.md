@@ -32,6 +32,7 @@ Our podcasts topics include front-end and back-end development languages and fra
 This list is sorted by listenership.
 
 <form action="../">
+<div class="form-group">
 <select onchange="window.location.href = '#'+this.value;">
     <option value="">Choose a podcast or newsletter here...</option>
     <option value="">Devchat.tv Podcasts</option>
@@ -55,6 +56,7 @@ This list is sorted by listenership.
     <option value="sustain-our-software">Sustain Our Software</option>
     <option value="dev-rev">The Dev Rev</option>
 </select>
+</div>
 </form>
 
 ***
@@ -331,3 +333,51 @@ A weekly discussion by Charles Max Wood and occasional guests about building suc
 * Your link will appear on episodes you sponsor
 * Your link will appear in show notes delivered to the podcast app (via RSS feed)
 * Your 250x250 pixel banner or logo will appear on all Dev Rev pages for the week of the episode you sponsor
+
+# Other Podcasts (not produced by Devchat.tv)
+
+## <a name="ray-wenderlich-podcast"></a>raywenderlich.com Podcast
+
+A podcast recorded and produced by the raywenderlich.com team about iOS, Android, and VR development
+
+* Between 6,000 and 8,000 subscribers
+* Weekly podcasts in an 11-13 episode season
+* [Contact for details](https://meetings.hubspot.com/chuck27/sponsorship-call)
+
+## <a name="real-talk-javascript"></a>Real Talk JavaScript
+
+A podcast by John Papa and Dan Wahlin talking to JavaScript developers about how they built what they've made
+
+* Between 4,000 and 5,000 subscribers
+* Weekly podcast
+* [Contact for details](https://meetings.hubspot.com/chuck27/sponsorship-call)
+
+# Newsletters
+
+## <a name="devchat-newsletter"></a>Devchat.tv Mailing List
+
+The newsletter subscribed to by listeners of the Devchat.tv podcasts.
+
+* Includes 11,000 subscribers
+* Weekly podcast roundup
+  * Sponsorship at the top of the roundup available for $500 per week
+* Ongoing advice from Charles Max Wood at least twice per week
+  * Sponsorship at the top of each outreach available for $500
+* 4 email campaign during a single week $2500
+
+## <a name="ray-wenderlich-newsletter"></a>Ray Wenderlich Newsleter
+
+The newsletter about iOS, Android, and VR development by Ray Wenderlich's education company.
+
+* Includes 78,000 subscribers
+* Weekly list of articles curated by the Ray Wenderlich team
+* [Contact for details](https://meetings.hubspot.com/chuck27/sponsorship-call)
+
+## <a name="closebrace-newsletter"></a>CloseBrace Newsleter
+
+The JavaScript newsletter written by Christopher Buecheler from [closebrace.com](https://closebrace.com).
+
+* 15,000 subscribers
+* Weekly JavaScript tips curated by Christopher Buecheler
+* [Contact for details](https://meetings.hubspot.com/chuck27/sponsorship-call)
+
