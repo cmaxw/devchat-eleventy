@@ -55,6 +55,17 @@ This list is sorted by listenership.
     <option value="adventures-in-blockchain">Adventures in Blockchain</option>
     <option value="sustain-our-software">Sustain Our Software</option>
     <option value="dev-rev">The Dev Rev</option>
+    <option value=""><option>
+    <option value="">Other Podcasts(not owned by Devchat.tv)</option>
+    <option value="">---------------------------------------</option>
+    <option value="ray-wenderlich-podcast">raywenderlich.com Podcast</option>
+    <option value="real-talk-javascript">Real Talk JavaScript</option>
+    <option value=""><option>
+    <option value="">Email Newsletters</option>
+    <option value="">-----------------</option>
+    <option value="devchat-newsletter">Devchat.tv Newsletter</option>
+    <option value="ray-wenderlich-newsletter">raywenderlich.com Newsletter</option>
+    <option value="closebrace-newsletter">closebrace.com Newsletter</option>
 </select>
 </div>
 </form>
