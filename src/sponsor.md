@@ -31,6 +31,15 @@ Our podcasts topics include front-end and back-end development languages and fra
 
 This list is sorted by listenership.
 
+<form action="../">
+<select onchange="window.location.href = '#'+this.value;">
+    <option value="">Devchat.tv Podcasts</option>
+    <option value="">-------------------</option>
+    <option value="js-jabber">JavaScript Jabber</option>
+</select>
+</form>
+
+
 ## <a name="javascript-jabber"></a>JavaScript Jabber
 
 A weekly conversation with the people who build JavaScript libraries, frameworks, tools, and standards.
