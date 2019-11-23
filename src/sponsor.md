@@ -61,7 +61,7 @@ This list is sorted by listenership.
     <option value="">---------------------------------------</option>
     <option value="ray-wenderlich-podcast">raywenderlich.com Podcast</option>
     <option value="real-talk-javascript">Real Talk JavaScript</option>
-    <option value=""><option>
+    <option value=""></option>
     <option value="">Email Newsletters</option>
     <option value="">-----------------</option>
     <option value="devchat-newsletter">Devchat.tv Newsletter</option>
