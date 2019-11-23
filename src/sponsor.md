@@ -350,9 +350,9 @@ A weekly discussion by Charles Max Wood and occasional guests about building suc
 
 ## <a name="ray-wenderlich-podcast"></a>raywenderlich.com Podcast
 
-A podcast recorded and produced by the raywenderlich.com team about iOS, Android, and VR development
+A podcast recorded and produced by the [raywenderlich.com](https://raywenderlich.com) team about iOS, Android, and VR development
 
-* Between 6,000 and 8,000 subscribers
+* Between 6,000 and 8,000 weekly listeners
 * Weekly podcasts in an 11-13 episode season
 * [Contact for details](https://meetings.hubspot.com/chuck27/sponsorship-call)
 
@@ -360,7 +360,7 @@ A podcast recorded and produced by the raywenderlich.com team about iOS, Android
 
 A podcast by John Papa and Dan Wahlin talking to JavaScript developers about how they built what they've made
 
-* Between 4,000 and 5,000 subscribers
+* Between 4,000 and 5,000 weekly listeners
 * Weekly podcast
 * [Contact for details](https://meetings.hubspot.com/chuck27/sponsorship-call)
 
@@ -392,4 +392,3 @@ The JavaScript newsletter written by Christopher Buecheler from [closebrace.com]
 * 15,000 subscribers
 * Weekly JavaScript tips curated by Christopher Buecheler
 * [Contact for details](https://meetings.hubspot.com/chuck27/sponsorship-call)
-
