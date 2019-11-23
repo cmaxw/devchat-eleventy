@@ -35,6 +35,7 @@ This list is sorted by listenership.
 <div class="form-group">
 <select onchange="window.location.href = '#'+this.value;">
     <option value="">Choose a podcast or newsletter here...</option>
+    <option value=""><option>
     <option value="">Devchat.tv Podcasts</option>
     <option value="">-------------------</option>
     <option value="javascript-jabber">JavaScript Jabber</option>
