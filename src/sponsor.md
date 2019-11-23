@@ -15,7 +15,7 @@ tags:
 
 Do you need help reaching over 100,000 developers about your product?
 
-Email [chuck@devchat.tv](mailto:chuck@devchat.tv), call [801-367-6164](tel:1-801-367-6164), or [click here](https://meetings.hubspot.com/chuck27/sponsorship-call) to schedule a call.
+Email [chuck@devchat.tv](mailto:chuck@devchat.tv), or [click here](https://meetings.hubspot.com/chuck27/sponsorship-call) to schedule a video/Zoom call.
 
 ***
 
@@ -33,12 +33,31 @@ This list is sorted by listenership.
 
 <form action="../">
 <select onchange="window.location.href = '#'+this.value;">
+    <option value="">Choose a podcast or newsletter here...</option>
     <option value="">Devchat.tv Podcasts</option>
     <option value="">-------------------</option>
-    <option value="js-jabber">JavaScript Jabber</option>
+    <option value="javascript-jabber">JavaScript Jabber</option>
+    <option value="my-javascript-story">My JavaScript Story</option>
+    <option value="adventures-in-angular">Adventures in Angular</option>
+    <option value="ruby-rogues">Ruby Rogues</option>
+    <option value="react-native-radio">React Native Radio</option>
+    <option value="views-on-vue">Views on Vue</option>
+    <option value="my-angular-story">My Angular Story</option>
+    <option value="freelancers-show">Freelancers' Show</option>
+    <option value="iphreaks">iPhreaks</option>
+    <option value="my-ruby-story">My Ruby Story</option>
+    <option value="react-round-up">React Round Up</option>
+    <option value="elixir-mix">Elixir Mix</option>
+    <option value="dev-ed-podcast">Dev Ed Podcast</option>
+    <option value="adventures-in-devops">Adventures in DevOps</option>
+    <option value="adventures-in-dotnet">Adventures in .NET</option>
+    <option value="adventures-in-blockchain">Adventures in Blockchain</option>
+    <option value="sustain-our-software">Sustain Our Software</option>
+    <option value="dev-rev">The Dev Rev</option>
 </select>
 </form>
 
+***
 
 ## <a name="javascript-jabber"></a>JavaScript Jabber
 
