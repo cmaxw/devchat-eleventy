@@ -31,7 +31,7 @@ Our podcasts topics include front-end and back-end development languages and fra
 
 This list is sorted by listenership.
 
-## JavaScript Jabber
+## <a name="javascript-jabber"></a>JavaScript Jabber
 
 A weekly conversation with the people who build JavaScript libraries, frameworks, tools, and standards.
 
@@ -79,7 +79,7 @@ A weekly conversation with the people who build Angular and participate in its c
 
 ## Ruby Rogues
 
-A weekly conversation with the people who build Angular and participate in its community.
+A weekly conversation with Rubyists and Rails developers .
 
 * Each episodes includes 1 pre-roll sponsorship and 1 mid-roll sponsorship
 * $290 for the pre-roll spot at the beginning of the show
