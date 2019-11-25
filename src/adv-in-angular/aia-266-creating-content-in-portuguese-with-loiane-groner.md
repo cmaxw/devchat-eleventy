@@ -34,7 +34,7 @@ The episode ends as Loiane dives into the struggles of learning to code as a nat
 
 - Loiane Groner
 
-# Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs
+## _Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
 
 **Sponsors**
 
