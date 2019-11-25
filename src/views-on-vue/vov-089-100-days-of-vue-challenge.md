@@ -36,7 +36,9 @@ This episode of Views on Vue is coming to you live from Microsoft Ignite with Ch
 * [Microsoft Ignite](https://www.microsoft.com/en-us/ignite)
 * Click [here](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR6A3jm1fTq1Mgjyd2Qz8q4VUOU9EM1E4UllVR0dOSlYzWVhRVVlDMVYzSC4u) to win one of ten (10) prize packs as a listener of at least one of the Podcasts recorded at Microsoft Ignite 2019
 * <https://www.kiwi.com>
-* 
+* [Hyatt Regency Orlando](https://www.guestreservations.com/hyatt-regency-orlando-international-airport/booking?gclid=EAIaIQobChMIkcyrhrOG5gIViLHtCh3OwQJREAAYASAAEgJDi_D_BwE)
+* [www.doordash.com](www.doordash.com)
+* The Dev Rev
 
 
 
