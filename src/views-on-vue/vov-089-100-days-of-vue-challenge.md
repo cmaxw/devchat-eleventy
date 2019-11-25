@@ -38,7 +38,9 @@ This episode of Views on Vue is coming to you live from Microsoft Ignite with Ch
 * <https://www.kiwi.com>
 * [Hyatt Regency Orlando](https://www.guestreservations.com/hyatt-regency-orlando-international-airport/booking?gclid=EAIaIQobChMIkcyrhrOG5gIViLHtCh3OwQJREAAYASAAEgJDi_D_BwE)
 * [www.doordash.com](www.doordash.com)
-* The Dev Rev
+* <http://thedevrev.com/>
+* <https://maxcoders.io/>
+* [The MaxCoders Guide To Finding Your Dream Developer Job by Charles Max Wood](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9/ref=zg_bsnr_8493789011_2?_encoding=UTF8&psc=1&refRID=32JJJPQE5Q5DX7W7MWA3)
 
 
 
