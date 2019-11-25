@@ -38,9 +38,9 @@ answer4: Artificially create responses that can be used and controlled by tests.
 ---
 In this episode of the DevEd podcast, the panel discusses Testing and Test Driven Development. They start the conversation by talking about automated testing with the help of unit tests using various tools available. Luis explains the terms regression testing, refactoring, mocking, continuous integration and continuous delivery (CI/CD). 
 
-Everyone shares their experience with testing, mainly how and when they started learning automated testing and their journey with it so far. They then dive into the learning aspect of testing including some of the best ways to learn unit testing and give great tips and tools. The next topic discussed is Test Driven Development - the definition, division of the development community into those support the methodology and those who do not, and more importantly, how effective it can be, it's benefits and drawbacks and the comparison between TDD and BDD (Behaviour Driven Development).
+Everyone shares their experience with testing, mainly how and when they started learning automated testing and their journey with it so far. They then dive into the learning aspect of testing including some of the best ways to learn unit testing and give great tips and tools along the way. The next topic discussed is Test Driven Development - the definition, division of the development community into those support the methodology and those who do not, and more importantly, how effective it can be, it's benefits and drawbacks and the comparison between TDD and BDD (Behaviour Driven Development).
 
-They also talk about mocking, how testing can improve the quality of applications, and visual testing. In the end, they each mention their favourite and least favorite testing tools.
+They also talk about mocking, how testing can improve the quality of applications, and visual testing. In the end, they each mention their most favourite and least favorite testing tools.
 
 ## Panel
 
@@ -48,8 +48,7 @@ They also talk about mocking, how testing can improve the quality of application
 * [Luis Hernandez](https://lambdaschool.com/about)
 * [Jesse Sanders](https://briebug.com/)
 * [Mike Dane](https://www.mikedane.com/)
-* [Sam Julien
-  ](https://twitter.com/samjulien?lang=en)
+* [Sam Julien](https://twitter.com/samjulien?lang=en)
 
 ## Sponsors
 
