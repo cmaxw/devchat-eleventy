@@ -21,6 +21,7 @@ This episode of Views on Vue is coming to you live from Microsoft Ignite with Ch
 **Sponsors**
 
 * [Sentry](http://sentry.io/)–  use the code “devchat” for two months free on Sentry’s small plan
+* [Ruby Rogues Podcast](https://devchat.tv/ruby-rogues/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
