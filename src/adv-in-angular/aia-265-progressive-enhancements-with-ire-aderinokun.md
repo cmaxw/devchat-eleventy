@@ -9,6 +9,16 @@ audio_url: 'https://media.devchat.tv/adventures-in-angular/AiA_265_Ire_Aderinoku
 tags:
   - adv_in_angular
   - podcast
+question1: What is a progressive enhancement?
+answer1: >-
+  It is the approach of building your websites and web apps so they work for as
+  many as browsers and devices as possible.
+question2: What is the purpose of progressive enhancement?
+answer2: ' To provide as many people as possible with a working app or website no matter their device or browser.'
+question3: What is the basic principle of progressive enhancement?
+answer3: ' Instead of starting with the end result, start building the base experience and then enhancing it to fit more powerful devices or browsers. '
+question4: How does JAMstack empower frontend developers?
+answer4: 'They no longer have to work with the backend and backend developers. '
 ---
 In this episode of Adventures in Angular Charles Max Wood interviews Ire Aderinokun at JAMstack conf 2019. Ire works for Buycoins, a cryptocurrency exchange for Africa. She gave a lightning talk, “Headless Chrome & Cloudinary for progressively enhanced dynamic content on the web”. After giving a brief overview of her talk to Charles, Ire defines progressive enhancement for the listeners. 
 
