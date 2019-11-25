@@ -25,7 +25,7 @@ Ire shares her experience with JAMstack and explains how progressive enhancement
 
 - Ire Aderinokun
 
-# Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs
+## _Adventures in Angular is produced by DevChat.TV in partnership with Hero Devs_
 
 **Sponsors**
 
