@@ -12,7 +12,7 @@ tags:
   - Charles Max Wood
   - 100 Days of Vue Challenge
 ---
-This episode of Views on Vue is coming to you live from Microsoft Ignite with Charles Max Wood. With the changes in Views on Vue show and its hosts, Charles has decided to learn more of the Vue language. In order to do this he will be enrolling himself and whoever else wants to learn the Vue languageto a Vue challenge. He describes the #100daysofVue challenge he will launching which was modeled after a fitness challenge he did earlier. 
+This episode of Views on Vue is coming to you live from Microsoft Ignite with Charles Max Wood. With the changes in Views on Vue show and its hosts, Charles has decided to learn more of the Vue language. In order to do this he will be enrolling himself and whoever else wants to learn the Vue language to a Vue challenge. He describes the #100daysofVue challenge he will launching which was modeled after a fitness challenge he did earlier. 
 
 **Panelists**
 
