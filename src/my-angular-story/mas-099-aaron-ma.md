@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: my-angular-story
 title: 'MAS 099: Aaron Ma'
-date: 2019-11-26T12:08:00.000Z
+date: 2019-11-26T11:08:00.000Z
 episode_number: '99'
 duration: '35:58'
 audio_url: 'https://media.devchat.tv/my-angular-story/MAS_099_Aaron_Ma.mp3'
