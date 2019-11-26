@@ -12,7 +12,7 @@ tags:
   - Charles Max Wood
   - 100 Days of Vue Challenge
 ---
-This episode of Views on Vue is coming to you live from Microsoft Ignite with Charles Max Wood. 
+This episode of Views on Vue is coming to you live from Microsoft Ignite with Charles Max Wood. Charles describes the #100daysofVue challenge he will launching which was modeled after a fitness challenge he did earlier. 
 
 **Panelists**
 
@@ -42,7 +42,5 @@ This episode of Views on Vue is coming to you live from Microsoft Ignite with Ch
 * <http://thedevrev.com/>
 * <https://maxcoders.io/>
 * [The MaxCoders Guide To Finding Your Dream Developer Job by Charles Max Wood](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9/ref=zg_bsnr_8493789011_2?_encoding=UTF8&psc=1&refRID=32JJJPQE5Q5DX7W7MWA3)
-
-
 
 - - -
