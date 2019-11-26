@@ -21,20 +21,20 @@ tags:
 question1: What is regression and refactoring?
 answer1: >-
   Regression is handling new changes that affect or break legacy code,
-  refactoring is change the way code is wriietn without changing the
+  refactoring is changing the way code is written without changing the
   functionality.
 question2: What are ways to learn unit-testing?
 answer2: >-
   Learning by example, practicing using open source codes, studying existing
-  tests from a large codebase, trying to increase code-coverage, write simple
+  tests from a large codebase, trying to increase code-coverage, writing simple
   math based tests and Code Katas.
 question3: What is TDD?
 answer3: >-
   Writing tests before designing the implementation code, red-green-refactor
   approach - write a test and make it fail (red), write code to make it pass
-  (green) and refactor the code.
+  (green) and eventually refactor the code.
 question4: What is a mock?
-answer4: Artificially create responses that can be used and controlled by tests.
+answer4: Artificially created responses that can be used and controlled by tests.
 ---
 In this episode of the DevEd podcast, the panel discusses Testing and Test Driven Development. They start the conversation by talking about automated testing with the help of unit tests using various tools available. Luis explains the terms regression testing, refactoring, mocking, continuous integration and continuous delivery (CI/CD). 
 
