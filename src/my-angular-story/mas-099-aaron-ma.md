@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: my-angular-story
 title: 'MAS 099: Aaron Ma'
-date: 2019-11-26T10:00:38.832Z
+date: 2019-11-26T12:08:00.000Z
 episode_number: '99'
 duration: '35:58'
 audio_url: 'https://media.devchat.tv/my-angular-story/MAS_099_Aaron_Ma.mp3'
@@ -20,9 +20,11 @@ answer2: >-
   Jesse Sanders, Sebastian Thrun,Tracy Lee, Sebastian Witalec are some of
   Aaron's heroes.
 ---
-Today Aaron Frost welcomes a very cool guest on My Angular Story, Aaron Ma who is an 11 year old  software and hardware developer. Guest, Aaron mainly focuses on web development, self-driving cars, flying cars, robotics, Python, C++ and machine learning. 
+Today Aaron Frost welcomes a very cool guest on My Angular Story, Aaron Ma who is an 11 year old  software and hardware developer. Aaron mainly focuses on  on web development, self driving cars, flying cars, robotics, Python, C++ and machine learning. 
 
-Aaron started programming at the age of 5 by teaching himself HTML by watching YouTube videos. He then continued with an Introduction to CSS course. Aaron's  father who is a full stack developer also encouraged and helped in his coding journey.  
+Aaron started programming at the age of 5 by teaching himself HTML by watching YouTube videos. He then continued with an Introduction to CSS course. Aaron's  father who is a full stack developer also encouraged and helped in his coding journey.  Aaron Frost asks Aaron if he can remember what he learned from the first HTML video he watched and whether he thought it was hard to learn.
+
+Aaron Frost asks Aaron for tips on how parents can teach their kids how to program. Because Aaron has such an extensive background with programming already at age 11, Aaron Frost also wants to know how much and how Aaron's dad was involved with Aaron's learning process. 
 
 ### Host: Aaron Frost
 
