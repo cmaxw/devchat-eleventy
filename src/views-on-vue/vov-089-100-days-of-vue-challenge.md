@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: views-on-vue
 title: 'VoV 089: 100 Days of Vue Challenge'
-date: 2019-11-26T10:00:27.995Z
+date: 2019-11-26T10:45:00.000Z
 episode_number: '89'
 duration: '35:08'
 audio_url: 'https://media.devchat.tv/viewsonvue/VoV_089_Charles_Max_Wood.mp3'
