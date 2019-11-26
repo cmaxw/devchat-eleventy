@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: js-jabber
 title: 'JSJ 409: Swagger and Open API with Josh Ponelat'
-date: 2019-11-26T11:00:44.861Z
+date: 2019-11-26T11:24:00.000Z
 episode_number: '409'
 duration: '45:59'
 audio_url: 'https://media.devchat.tv/js-jabber/JSJ_409_Josh_Ponelat.mp3'
@@ -52,7 +52,7 @@ Josh talks about the book he’s writing, Designing APIs with Swagger and Open A
 
 * Josh Ponelat 
 
-### \*\*To receive your the 40% OFF coupon for Manning Publications !!! (good for all our products in all formats) visit us at [Facebook](https://www.facebook.com/javascriptjabber) click on "Send A Message" and type "YES"\*\*
+### \*\*To receive your the 40% OFF coupon for Manning Publications (good for all our products in all formats) visit us at [Facebook](https://www.facebook.com/javascriptjabber) click on "Send A Message" and type "YES"\*\*
 
 ### Sponsors
 
