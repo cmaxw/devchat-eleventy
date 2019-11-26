@@ -52,7 +52,7 @@ Josh talks about the book he’s writing, Designing APIs with Swagger and Open A
 
 * Josh Ponelat 
 
-### \*\*To receive your the 40% OFF coupon for Manning Publications (good for all our products in all formats) visit us at [Facebook](https://www.facebook.com/javascriptjabber) - click on "Send A Message"and type "YES"\*\*
+### \*\*To receive your the 40% OFF coupon for [Manning Publications](https://www.manning.com) (good for all our products in all formats) visit us at [Facebook](https://www.facebook.com/javascriptjabber) - click on "Send A Message"and type "YES"\*\*
 
 ### Sponsors
 
