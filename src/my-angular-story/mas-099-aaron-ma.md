@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: my-angular-story
 title: 'MAS 099: Aaron Ma'
-date: 2019-11-26T11:08:00.000Z
+date: 2019-11-26T11:14:00.000Z
 episode_number: '99'
 duration: '35:58'
 audio_url: 'https://media.devchat.tv/my-angular-story/MAS_099_Aaron_Ma.mp3'
@@ -26,12 +26,13 @@ Aaron started programming at the age of 5 by teaching himself HTML by watching Y
 
 Aaron Frost asks Aaron for tips on how parents can teach their kids how to program. Because Aaron has such an extensive background with programming already at age 11, Aaron Frost also wants to know how much and how Aaron's dad was involved with Aaron's learning process. 
 
+Aaron Frost then wants to know how Aaron taught himself TensorFlow .
+
 ### Host: Aaron Frost
 
 ### Joined By Special Guest : **Aaron Ma**
 
 ## **My Angular Story is produced by DevChat.TV in partnership with Hero Devs**
-
 
 ### Sponsors
 
