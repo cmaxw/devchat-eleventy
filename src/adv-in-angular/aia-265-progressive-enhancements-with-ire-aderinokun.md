@@ -4,7 +4,7 @@ podcast: adv-in-angular
 title: 'AiA 265: Progressive Enhancements with Ire Aderinokun'
 date: 2019-11-19T11:00:08.115Z
 episode_number: '265'
-duration: '11:41'
+duration: '12:35'
 audio_url: 'https://media.devchat.tv/adventures-in-angular/AiA_265_Ire_Aderinokun.mp3'
 tags:
   - adv_in_angular
@@ -39,6 +39,8 @@ Ire shares her experience with JAMstack and explains how progressive enhancement
 
 **Sponsors**
 
+
+* [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 - [CacheFly](https://www.cachefly.com/)
 
 **Links**
