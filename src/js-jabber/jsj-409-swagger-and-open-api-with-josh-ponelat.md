@@ -45,37 +45,39 @@ Josh talks about the book he’s writing, Designing APIs with Swagger and Open A
 
 ### Panelists
 
-- Dan Shapir 
-- Charles Max Wood 
+* Dan Shapir 
+* Charles Max Wood 
 
 ### Guest
 
-- Josh Ponelat 
+* Josh Ponelat 
+
+### \*\*To receive your the 40% OFF coupon for Manning Publications !!! (good for all our products in all formats) visit us at [Facebook](https://www.facebook.com/javascriptjabber) click on "Send A Message" and type "YES"\*\*
 
 ### Sponsors
 
-- [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
+* [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
 
 ### Links
 
-- [Swagger](https://swagger.io/) 
-- [Open API](https://www.openapis.org/) 
-- [Difference Between Swagger and Open API](https://swagger.io/blog/api-strategy/difference-between-swagger-and-openapi/) 
-- [GraphQL](https://graphql.org/) 
-- [Designing APIs with Swagger and Open API](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) 
+* [Swagger](https://swagger.io/) 
+* [Open API](https://www.openapis.org/) 
+* [Difference Between Swagger and Open API](https://swagger.io/blog/api-strategy/difference-between-swagger-and-openapi/) 
+* [GraphQL](https://graphql.org/) 
+* [Designing APIs with Swagger and Open API](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) 
 
 ### Picks
 
 Dan Shapir
 
-- [Saga of Pliocene Exile](https://en.wikipedia.org/wiki/Saga_of_Pliocene_Exile) 
+* [Saga of Pliocene Exile](https://en.wikipedia.org/wiki/Saga_of_Pliocene_Exile) 
 
 Charles Max Wood
 
-- [DevChat.tv Merchandise](https://teespring.com/stores/devchattv)  
-- [BusyCal](https://www.busymac.com/busycal/) 
+* [DevChat.tv Merchandise](https://teespring.com/stores/devchattv)  
+* [BusyCal](https://www.busymac.com/busycal/) 
 
 Josh Ponelat
 
-- [AsciiDoc](http://asciidoc.org/) 
-- [FASD tool](http://asciidoc.org/)
+* [AsciiDoc](http://asciidoc.org/) 
+* [FASD tool](http://asciidoc.org/)
