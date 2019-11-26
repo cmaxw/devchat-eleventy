@@ -30,6 +30,9 @@ Aaron Frost asks Aaron for tips on how parents can teach their kids how to progr
 
 ### Joined By Special Guest : **Aaron Ma**
 
+## **My Angular Story is produced by DevChat.TV in partnership with Hero Devs**
+
+
 ### Sponsors
 
 * [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
