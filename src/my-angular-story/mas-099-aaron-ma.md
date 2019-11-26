@@ -24,8 +24,6 @@ Today Aaron Frost welcomes a very cool guest on My Angular Story, Aaron Ma who i
 
 Aaron started programming at the age of 5 by teaching himself HTML by watching YouTube videos. He then continued with an Introduction to CSS course. Aaron's  father who is a full stack developer also encouraged and helped in his coding journey.  
 
-
-
 ### Host: Aaron Frost
 
 ### Joined By Special Guest : **Aaron Ma**
@@ -37,7 +35,7 @@ Aaron started programming at the age of 5 by teaching himself HTML by watching Y
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.  Get Your Copy** [**Here**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)**.**
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**  [**Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
