@@ -11,8 +11,19 @@ tags:
   - podcast
   - Charles Max Wood
   - 100 Days of Vue Challenge
+question1: 'What is the hashtag to be used for 100 Days of Vue Challenge? '
+answer1: '#100daysofVueChallenge'
+question2: What does the challenge entail?
+answer2: >-
+  The developer who wants to be a part of the #100daysofVueCHallenge has to
+  commit a piece of code everyday and read up on blogs articles and other
+  resources on Vue developing everyday.
 ---
-This episode of Views on Vue is coming to you live from Microsoft Ignite with Charles Max Wood. With the changes in Views on Vue show and its hosts, Charles has decided to learn more of the Vue language. In order to do this he will be enrolling himself and whoever else wants to learn the Vue language to a Vue challenge. He describes the #100daysofVue challenge he will launching which was modeled after a fitness challenge he did earlier. 
+This episode of Views on Vue is coming to you live from Microsoft Ignite with Charles Max Wood. With the changes in Views on Vue show and its hosts, Charles has decided to learn more of the Vue language. In order to do this he will be enrolling himself and whoever else wants to learn the Vue language to a Vue challenge. He describes the #100daysofVue challenge he will launching which was modeled after a fitness challenge he did earlier. The developer who wants to be a part of the #100daysofVueCHallenge has to commit a piece of code everyday and read up on blogs articles and other resources on Vue developing everyday. Charles himself will commit an hour a day to this everyday. 
+
+Charles also talks about another app he is working on for people who produced podcasts can use. There is a recording technique called the "Double Ender" where two people recording a podcast remotely essentially sound like they are in a studio together. Most often podcasts are recorded on the same soundwave and if there is a lawn mover or a dog barking or some other noise while the person is talking it is harder to remove that on a single soundwave. 
+
+What Charles is working on will remove this inconvenience, because people will be recording on their own soundwaves, if there are two people asking two questions while talking over each other will sound like there is only one person asking one question.
 
 **Panelists**
 
