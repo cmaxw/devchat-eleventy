@@ -17,7 +17,11 @@ question2: What does the challenge entail?
 answer2: >-
   The developer who wants to be a part of the #100daysofVueCHallenge has to
   commit a piece of code everyday and read up on blogs articles and other
-  resources on Vue developing everyday.
+  resources on Vue developing everyday. 
+question3: What is a double ender in podcasts?
+answer3: >-
+  It is a recording technique where two people recording a podcast remotely
+  essentially sound like they are in a studio together.
 ---
 This episode of Views on Vue is coming to you live from Microsoft Ignite with Charles Max Wood. With the changes in Views on Vue show and its hosts, Charles has decided to learn more of the Vue language. In order to do this he will be enrolling himself and whoever else wants to learn the Vue language to a Vue challenge. He describes the #100daysofVue challenge he will launching which was modeled after a fitness challenge he did earlier. The developer who wants to be a part of the #100daysofVueCHallenge has to commit a piece of code everyday and read up on blogs articles and other resources on Vue developing everyday. Charles himself will commit an hour a day to this everyday. 
 
