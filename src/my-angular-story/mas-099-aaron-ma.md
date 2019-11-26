@@ -13,8 +13,9 @@ tags:
   - Aaron Frost
 question1: 'How old is Aaron Ma? '
 answer1: >-
-  Aaron Ma is 11 years old! and is the youngest ML/AI engineer, TensorFlow and
-  Apollo Auto contributor, youngest Udacity/Coursera graduate.
+  Aaron Ma is already very experience in programming but he is 11 years old! and
+  is the youngest ML/AI engineer, TensorFlow and Apollo Auto contributor,
+  youngest Udacity/Coursera graduate.
 question2: 'Who are some of Aaron''s heroes? '
 answer2: >-
   Jesse Sanders, Sebastian Thrun,Tracy Lee, Sebastian Witalec are some of
@@ -26,7 +27,7 @@ Aaron started programming at the age of 5 by teaching himself HTML by watching Y
 
 Aaron Frost asks Aaron for tips on how parents can teach their kids how to program. Because Aaron has such an extensive background with programming already at age 11, Aaron Frost also wants to know how much and how Aaron's dad was involved with Aaron's learning process. 
 
-Aaron Frost then wants to know how Aaron taught himself TensorFlow .
+Aaron Frost then wants to know how Aaron taught himself TensorFlow as well as what the developer community can do to support young developers such as himself. Finally Aaron Frost wants to know more about Aaron's interest in self-driving vehicles and whether he considers getting good grades a priority. 
 
 ### Host: Aaron Frost
 
