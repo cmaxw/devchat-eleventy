@@ -46,9 +46,9 @@ Charles asks Douglas what he is working on now, and what his plans are for the f
 * [My Angular Story](https://devchat.tv/my-angular-story/)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
-  ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+  ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99**
+ **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99**
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
