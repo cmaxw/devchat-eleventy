@@ -32,14 +32,15 @@ answer3: >-
 ---
  Ado Kukic has been  a professional developer since the age of 15. He is a developer Evangelist Lead at Auth0 working remotely out of Las Vegas, Nevada. 
 
-Aaron and Ado talk about Ado's introduction to Angular and his work at Auth0. Ado has been working wth Angular for the last 7 years. His day to day is at Auth0 is focused on getting out into the developer community talking to developers about authentication access management and  securing their applications securing their Angular applications. 
+Aaron and Ado talk about Ado's introduction to Angular and his work at Auth0. Ado has been working wth Angular for the last 7 years. His day to day work at Auth0 is focused on getting out into the developer community talking to developers about authentication access management and  securing their applications securing their Angular applications. 
+
+
 
 **Host: Aaron Frost**
 
 **Joined By Special Guest:** Ado Kukic
 
 ## **My Angular Story is produced by DevChat.TV in partnership with Hero Devs**
-
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
@@ -49,19 +50,18 @@ Aaron and Ado talk about Ado's introduction to Angular and his work at Auth0. Ad
 * [DevEd Podcast](https://devchat.tv/dev-ed)
 * [CacheFly](https://www.cachefly.com/)
 
-
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99**
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-
-
 ### **Links**
 
 * [Ado's LinkedIn](https://www.linkedin.com/in/kukicado/)
 * <https://auth0.com/blog/the-worlds-first-rxjs-conference-just-happened-in-vegas/>
+* [Garret Reisman Keynote Speaker](https://www.youtube.com/watch?v=-AcsIz0OAa4)
+* [Ado's Twitter](https://twitter.com/kukicado?lang=en)
 
 ### **Picks**
 
