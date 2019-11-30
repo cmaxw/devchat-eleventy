@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: react-round-up
 title: 'RRU 090: How Do I Introduce New Tech at Work?'
-date: 2019-12-03T17:00:43.822Z
+date: 2019-12-03T11:00:43.822Z
 episode_number: 090
 duration: '38:25'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_090_Panel.mp3'
