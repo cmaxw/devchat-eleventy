@@ -55,7 +55,7 @@ tags:
 
 ### Picks
 
-Dave Kimura:
+Dan Shappir:
 
 * [HatchBox](https://www.hatchbox3d.com/) 
 
@@ -64,7 +64,7 @@ Charles Max Wood:
 * [The MaxCoders Guide to Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9/ref=sr_1_1?keywords=The+MaxCoders+Guide+to+Finding+Your+Dream+Developer+Job&qid=1574145265&sr=8-1) 
 * [White Christmas](https://www.imdb.com/title/tt0047673/) 
 
-Andrew Glass:
+Joshua S. Ponelat:
 
 * [Foragoodstrftime.com](https://www.foragoodstrftime.com/) 
 * Follow Andrew [@andrewglass1](https://twitter.com/andrewglass1) on Twitter and Instagram and [andyglass.co](https://www.andyglass.co/)
