@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: ruby-rogues
 title: 'RR 440: Swagger and OpenAPI with Josh Ponelat'
-date: 2019-12-02T10:00:39.255Z
+date: 2019-12-03T10:00:39.255Z
 episode_number: '440'
 duration: '46:42'
 audio_url: 'https://media.devchat.tv/ruby-rogues/RR_440_Joshua_S_Ponelat.mp3'
