@@ -9,7 +9,9 @@ audio_url: 'https://media.devchat.tv/ruby-rogues/RR_440_Joshua_S_Ponelat.mp3'
 tags:
   - ruby_rogues
   - podcast
-  - C
+  - Joshua S. Ponelat
+  - Dan Shappir
+  - Charles Max Wood
 ---
 
 
