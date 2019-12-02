@@ -61,6 +61,7 @@ Josh talks about the book he’s writing, Designing APIs with Swagger and Open A
 
 ### Links
 
+* [Josh's Twitter](https://twitter.com/jponelat)
 * [Swagger](https://swagger.io/) 
 * [Open API](https://www.openapis.org/) 
 * [Difference Between Swagger and Open API](https://swagger.io/blog/api-strategy/difference-between-swagger-and-openapi/) 
