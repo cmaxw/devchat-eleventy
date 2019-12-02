@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: ruby-rogues
-title: 'RR 440: Swagger and OpenAPI with Joshua S. Ponelat'
+title: 'RR 440: Swagger and OpenAPI with Josh Ponelat'
 date: 2019-12-02T10:00:39.255Z
 episode_number: '440'
 duration: '46:42'
@@ -12,16 +12,32 @@ tags:
   - Joshua S. Ponelat
   - Dan Shappir
   - Charles Max Wood
+question1: What is the difference between Swagger and Open API?
+answer1: >-
+  Open API is a set of protocols around describing restful APIs, and Swagger is
+  the tooling around it. 
+question2: What do Swagger and Open API do?
+answer2: >-
+  Open API is a standardized way to describe a restful API in a YAML file. Once
+  you’ve got a YAML file to describe your API, you can use tooling like Swagger
+  to leverage that and take it to the next level. 
+question3: Why is using Open API useful?
+answer3: >-
+  Using the Open API process is useful for situations where you already have an
+  API in place, but want to codify and document it so that it’s controlled. Then
+  going forward, you won’t introduce contradictions and it remains consistent
+  because it’s documented in a YAML file.
+question4: What are some of the benefits of having a standardized API?
+answer4: >-
+  A standardized API can help show developers how to use your API, SDKs, and
+  service stubs by knowing your API is consistent in style. This makes it easier
+  to find breaking changes and more.
 ---
+Today the panel discusses the difference between Swagger and Open API with Josh Ponelat. Josh details the difference between the two. Swagger is a set of protocols around describing restful APIs. Swagger was taken over by a company called SmartBear, who donated the donated the specification to the Open Linux Foundation, and that became the Open API. Swagger is the tooling surrounding these specifications. Open API is a standardized way to describe a restful API in a YAML file. Once you’ve got a YAML file to describe your API, you can use tooling like Swagger to leverage that and take it to the next level. Using the Open API process is useful for situations where you already have an API in place, but want to codify and document it so that it’s controlled. Then going forward, you won’t introduce contradictions and it remains consistent because it’s documented in a YAML file. The process leaves room for enhancement in the future as well.
 
+Josh talks about some of the benefits of standardizing your API and some of the use cases besides tooling. A standardized API can help show developers how to use your API, SDKs, and service stubs by knowing your API is consistent in style. This makes it easier to find breaking changes and more. Josh talks more about Swagger, a finite set of tooling around Open API, most of which are open source. He talks about other tools that test APIs and do linting on YAML files. Some of the companies that use Open API include Google, Amazon, and Microsoft. Josh talks about how Amazon implements Open API.
 
-
-
-
-
-
-
-
+Josh talks about the book he’s writing, Designing APIs with Swagger and Open API. The book goes over describing APIs today, how to design APIs without writing code first, and how to get the most out of the system. The show concludes with Josh talking about the power of consistency and writing things down on paper. He discusses where implications that the standardization of APIs has on the text industry.
 
 ### Panelists
 
@@ -45,27 +61,24 @@ tags:
 
 ### Links
 
-* [Human Powered Rails: Automated Crowdsourcing In Your RoR App by Andrew Glass](https://www.youtube.com/watch?v=ZF4862NLzfA) 
-* [Amazon Mechanical Turk](https://www.mturk.com/) 
-* [AWS Transcribe](https://aws.amazon.com/transcribe/) 
-* [I Found Work on an Amazon Website.  I Made 97 Cents an Hour. ](https://www.nytimes.com/interactive/2019/11/15/nyregion/amazon-mechanical-turk.html) 
-* [RTurk](https://github.com/ryantate/rturk) 
-* [Turkee](https://github.com/aantix/turkee) 
-* [AWS SDK Turk](https://github.com/aws/aws-sdk-ruby/tree/master/gems/aws-sdk-mturk) 
+* [Swagger](https://swagger.io/) 
+* [Open API](https://www.openapis.org/) 
+* [Difference Between Swagger and Open API](https://swagger.io/blog/api-strategy/difference-between-swagger-and-openapi/) 
+* [GraphQL](https://graphql.org/) 
+* [Designing APIs with Swagger and Open API](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) 
 
 ### Picks
 
-Dan Shappir:
+Dan Shappir
 
-* [HatchBox](https://www.hatchbox3d.com/) 
+* [Saga of Pliocene Exile](https://en.wikipedia.org/wiki/Saga_of_Pliocene_Exile) 
 
-Charles Max Wood:
+Charles Max Wood
 
-* [The MaxCoders Guide to Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9/ref=sr_1_1?keywords=The+MaxCoders+Guide+to+Finding+Your+Dream+Developer+Job&qid=1574145265&sr=8-1) 
-* [White Christmas](https://www.imdb.com/title/tt0047673/) 
+* [DevChat.tv Merchandise](https://teespring.com/stores/devchattv)  
+* [BusyCal](https://www.busymac.com/busycal/) 
 
-Joshua S. Ponelat:
+Josh Ponelat
 
-* [Foragoodstrftime.com](https://www.foragoodstrftime.com/) 
-* Follow Andrew [@andrewglass1](https://twitter.com/andrewglass1) on Twitter and Instagram and [andyglass.co](https://www.andyglass.co/)
-  Mark It Down • code • email • Medusis
+* [AsciiDoc](http://asciidoc.org/) 
+* [FASD tool](http://asciidoc.org/)
