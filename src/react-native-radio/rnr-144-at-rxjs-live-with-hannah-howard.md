@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: react-native-radio
 title: 'RNR 144: At RxJS Live with Hannah Howard'
-date: 2019-12-04T11:00:07.615Z
+date: 2019-12-03T11:00:07.615Z
 episode_number: '144'
 duration: '8:58'
 audio_url: 'https://media.devchat.tv/reactnativeradio/RNR_144_RxJS_Live_Hannah_Howard.mp3'
