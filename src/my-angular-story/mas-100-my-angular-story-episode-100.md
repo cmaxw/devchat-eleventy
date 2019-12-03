@@ -17,6 +17,8 @@ My Angular Story is celebrating its 100th episode today with hosts Aaron Frost a
 
 They also talk about the evolution of My Angular Story and how the show helped Charles learn more Angular. My Angular Story paved the way for more other Angular podcasts such as Angular Air. 
 
+Charles and Aaron invite community to tweet to them if they are framework agnostic. 
+
 ### Host: Aaron Frost
 
 ### Joined By Special Guest : **Charles Max Wood**
@@ -38,6 +40,9 @@ They also talk about the evolution of My Angular Story and how the show helped C
 >
 
 ### Links
+
+* [Charles Max Wood Twitter](https://twitter.com/cmaxw)
+* [Aaron Frost Twitter](https://twitter.com/aaronfrost)
 
 ### Picks
 
