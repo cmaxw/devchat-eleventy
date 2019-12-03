@@ -55,3 +55,5 @@ Charles and Aaron invite community to tweet to them if they are more agnostic or
 **Aaron Frost:**
 
 * [Angular 9](https://angular.io/guide/releases)
+* People Who Like Musicals - Next year's ng-conf will have a musical theme 
+* [Chloe Condon](https://twitter.com/ChloeCondon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
