@@ -17,7 +17,7 @@ My Angular Story is celebrating its 100th episode today with hosts Aaron Frost a
 
 They also talk about the evolution of My Angular Story and how the show helped Charles learn more Angular. My Angular Story paved the way for more other Angular podcasts such as Angular Air. 
 
-Charles and Aaron invite community to tweet to them if they are framework agnostic. 
+Charles and Aaron invite community to tweet to them if they are more agnostic or if they are more framework specific.
 
 ### Host: Aaron Frost
 
@@ -50,4 +50,4 @@ Charles and Aaron invite community to tweet to them if they are framework agnost
 
 * [The MaxCoders Guide To Finding Your Dream Developer Job by Charles Max Wood](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9/ref=zg_bsnr_154841011_5?_encoding=UTF8&psc=1&refRID=KT2EEKNN9ZGVQMPT2J3G)
 * [The Bishop's Wife](https://www.imdb.com/title/tt0039190/)- Christmas Movie
-*
+* Holiday Inn -
