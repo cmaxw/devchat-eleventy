@@ -17,7 +17,7 @@ My Angular Story is celebrating its 100th episode today with hosts Aaron Frost a
 
 They also talk about the evolution of My Angular Story and how the show helped Charles learn more Angular. My Angular Story paved the way for more other Angular podcasts such as Angular Air. 
 
-Charles and Aaron invite community to tweet to them if they are more agnostic or if they are more framework specific.
+Charles and Aaron invite community to tweet to them if they are more agnostic or if they are more framework specific. They also talk about Charles' new book "The MaxCoders Guide To Finding Your Dream Developer Job" that was published on Amazon and became a #1 New Release in several Career and Job Hunting lists. In the book Charles gives a step by step guide on how to find a job as a developer that you will love. One of the tips Charles gives is to specialize, whatever you wan to be working on be the expert or the go to guy in that area. 
 
 ### Host: Aaron Frost
 
