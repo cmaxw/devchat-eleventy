@@ -28,7 +28,6 @@ Charles and Aaron invite community to tweet to them if they are more agnostic or
 ### Sponsors
 
 * [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
-* [Adventures in DevOps Podcast](https://devchat.tv/adventures-in-devops/)
 * [Cachefly](https://www.cachefly.com/)
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
