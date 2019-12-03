@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: my-angular-story
 title: 'MAS 100: My Angular Story Episode 100!'
-date: 2019-12-03T11:42:00.000Z
+date: 2019-12-03T11:52:00.000Z
 episode_number: '100'
 duration: '41:00'
 audio_url: 'https://media.devchat.tv/my-angular-story/MAS_100_Panel.mp3'
