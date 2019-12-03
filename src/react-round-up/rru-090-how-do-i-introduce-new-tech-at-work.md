@@ -42,40 +42,40 @@ The discussion turns to methods for introducing testing, and the panelists talk 
 
 ### Panelists
 
-- Thomas Aylott 
-- Charles Max Wood 
-- Chris Reyes 
+* Thomas Aylott 
+* Charles Max Wood 
+* Chris Reyes 
 
 ### Sponsors
 
-- [Nrwl |  Nx.Dev/React](https://nx.dev/react?utm_source=Podcast&utm_medium=Banner&utm_campaign=React%20Roundup&utm_content=Nx) 
-- [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
+* [NxPlaybook.com](https://nxplaybook.com/) - Use code ‘NXDEVCHAT’ for 50% off the official <https://nx.dev/React> Advanced Workspaces course! 
+* [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-&gt; **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.** [**Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
+**"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.** [**Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 ### Links
 
-- [Vue](https://vuejs.org/) 
-- [12 React Best Practices You Need to Follow in 2019](https://www.codeinwp.com/blog/react-best-practices/#disqus_thread) 
-- [Saul](https://github.com/nadeesha/saul) 
-- [Test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) 
-- [VS Code ESLint](https://github.com/microsoft/vscode-eslint) 
+* [Vue](https://vuejs.org/) 
+* [12 React Best Practices You Need to Follow in 2019](https://www.codeinwp.com/blog/react-best-practices/#disqus_thread) 
+* [Saul](https://github.com/nadeesha/saul) 
+* [Test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) 
+* [VS Code ESLint](https://github.com/microsoft/vscode-eslint) 
 
 ### Picks
 
 Thomas Aylott
 
-- [Teachable Machine](https://teachablemachine.withgoogle.com/) 
+* [Teachable Machine](https://teachablemachine.withgoogle.com/) 
 
 Charles Max Wood
 
-- [White Christmas](https://www.imdb.com/title/tt0047673/) 
-- [Holiday Inn](https://www.imdb.com/title/tt0034862/) 
+* [White Christmas](https://www.imdb.com/title/tt0047673/) 
+* [Holiday Inn](https://www.imdb.com/title/tt0034862/) 
 
 Chris Reyes
 
-- [Practical React Hooks](https://blog.logrocket.com/practical-react-hooks-how-to-refactor-your-app-to-use-hooks-b1867e7b0a53/)
+* [Practical React Hooks](https://blog.logrocket.com/practical-react-hooks-how-to-refactor-your-app-to-use-hooks-b1867e7b0a53/)
