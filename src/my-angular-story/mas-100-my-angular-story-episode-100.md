@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: my-angular-story
 title: 'MAS 100: My Angular Story Episode 100!'
-date: 2019-12-03T11:35:00.000Z
+date: 2019-12-03T11:42:00.000Z
 episode_number: '100'
 duration: '41:00'
 audio_url: 'https://media.devchat.tv/my-angular-story/MAS_100_Panel.mp3'
@@ -40,3 +40,7 @@ They also talk about the evolution of My Angular Story and how the show helped C
 ### Links
 
 ### Picks
+
+**Charles Max Wood:**
+
+* [The MaxCoders Guide To Finding Your Dream Developer Job by Charles Max Wood](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9/ref=zg_bsnr_154841011_5?_encoding=UTF8&psc=1&refRID=KT2EEKNN9ZGVQMPT2J3G)
