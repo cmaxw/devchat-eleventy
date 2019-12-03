@@ -54,4 +54,4 @@ Charles and Aaron invite community to tweet to them if they are more agnostic or
 
 **Aaron Frost:**
 
-* Angular 9
+* [Angular 9](https://angular.io/guide/releases)
