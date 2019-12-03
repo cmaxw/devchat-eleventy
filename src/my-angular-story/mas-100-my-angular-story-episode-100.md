@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: my-angular-story
 title: 'MAS 100: My Angular Story Episode 100!'
-date: 2019-12-03T11:33:00.000Z
+date: 2019-12-03T11:35:00.000Z
 episode_number: '100'
 duration: '41:00'
 audio_url: 'https://media.devchat.tv/my-angular-story/MAS_100_Panel.mp3'
@@ -15,7 +15,7 @@ tags:
 ---
 My Angular Story is celebrating its 100th episode today with hosts Aaron Frost and Charles Max Wood. Charles and Aaron tell their stories of how they got into Angular. They compare React and AngularJS. 
 
-They also talk about the evolution of My Angular Story  and how the show helped Charles learn more Angular. 
+They also talk about the evolution of My Angular Story and how the show helped Charles learn more Angular. My Angular Story paved the way for more other Angular podcasts such as Angular Air. 
 
 ### Host: Aaron Frost
 
