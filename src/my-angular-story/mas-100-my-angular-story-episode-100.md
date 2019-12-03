@@ -49,3 +49,5 @@ Charles and Aaron invite community to tweet to them if they are framework agnost
 **Charles Max Wood:**
 
 * [The MaxCoders Guide To Finding Your Dream Developer Job by Charles Max Wood](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9/ref=zg_bsnr_154841011_5?_encoding=UTF8&psc=1&refRID=KT2EEKNN9ZGVQMPT2J3G)
+* [The Bishop's Wife](https://www.imdb.com/title/tt0039190/)- Christmas Movie
+*
