@@ -78,11 +78,11 @@ This list is sorted by listenership.
 A weekly conversation with the people who build JavaScript libraries, frameworks, tools, and standards.
 
 * Each episodes includes 1 pre-roll sponsorship and 2 mid-roll sponsorships
-* $1160 for the pre-roll spot at the beginning of the show
-* $1060 for mid-roll #1
-* $965 for mid-roll #2
+* $790 for the pre-roll spot at the beginning of the show
+* $725 for mid-roll #1
+* $660 for mid-roll #2
 * Six week minimum
-* Reaches an average of 19,300 listeners per episode
+* Reaches an average of 13,150 listeners per episode
 * Reaches an average of 166,500 listeners per month across all episodes
 * Published weekly
 * Your link will appear on episodes you sponsor
