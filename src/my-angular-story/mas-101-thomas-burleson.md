@@ -11,6 +11,12 @@ tags:
   - podcast
   - Thomas Burleson
   - Aaron Frost
+question1: 'What is immer.js ? '
+answer1: >-
+  Immer.js is an increasingly popular tool for reinforcing immutable data
+  structures in React. Immutability refers to an unchangeable, unalterable
+  state. It's important to ensure that immutability is properly enforced, even
+  when using Redux.
 ---
 Thomas Burleson, Solutions Architect focusing on React and Angular from West Des Moines, Iowa join Aaron Frost in this week's My Angular Story.  Thomas shares his journey as a developer and how he was introduced to Angular. Thomas and Aaron also talk about the evolution of the Angular community. 
 
