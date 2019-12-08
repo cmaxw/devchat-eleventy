@@ -37,6 +37,7 @@ Thomas was an Applied Physics major in college and when he failed a programming 
 
 ### Links
 
+* [AiA 135 Angular Flex Layouts with Thomas Burleson](https://devchat.tv/adv-in-angular/angular-flex-layouts-with-thomas-burleson/#viewport)
 * [Thomas Burleson Twitter](https://twitter.com/ThomasBurleson)
 * [Thomas Burleson LinkedIn](https://www.linkedin.com/in/thomasburleson/)
 
