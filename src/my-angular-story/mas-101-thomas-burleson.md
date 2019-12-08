@@ -12,7 +12,9 @@ tags:
   - Thomas Burleson
   - Aaron Frost
 ---
-Thomas Burleson, a Solutions Architect from West Des Moines, Iowa join Aaron Frost in this week's My Angular Story.  
+Thomas Burleson, a Solutions Architect from West Des Moines, Iowa join Aaron Frost in this week's My Angular Story.  Thomas shares his journey as a developer and how he was introduced to Angular. 
+
+
 
 ### Host: Aaron Frost
 
