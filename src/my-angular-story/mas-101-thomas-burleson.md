@@ -12,7 +12,7 @@ tags:
   - Thomas Burleson
   - Aaron Frost
 ---
-Thomas Burleson, a Solutions Architect from West Des Moines, Iowa join Aaron Frost in this week's My Angular Story.  Thomas shares his journey as a developer and how he was introduced to Angular. Thomas and Aaron also talk about the evolution of the Angular community. 
+Thomas Burleson, Solutions Architect focusing on React and Angular from West Des Moines, Iowa join Aaron Frost in this week's My Angular Story.  Thomas shares his journey as a developer and how he was introduced to Angular. Thomas and Aaron also talk about the evolution of the Angular community. 
 
 Thomas was an Applied Physics major in college and when he failed a programming class he never thought he would be a developer. But then he wanted to know what was behind the software he was using and he taught himself how to code. Thomas then shares some tips on what abilities you need possess if you want to become a developer, one of which is the ability to sit in front of a computer 10-12 hours a day. The second one is to be willing to put in the time to learn.  
 
