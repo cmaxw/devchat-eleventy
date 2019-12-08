@@ -48,6 +48,10 @@ Finally Aaron asks him Thomas how to get out of a "quicksand" situation where yo
 
 **Aaron Frost**
 
+* [Angular vs. React: Change Detection](https://medium.com/better-programming/angular-vs-react-change-detection-c54ae33139fe)
+
 **Thomas Burleson**
+
+* <https://github.com/immerjs/immer>
 
 ****
