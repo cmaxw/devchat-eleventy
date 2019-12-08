@@ -18,7 +18,7 @@ Thomas was an Applied Physics major in college and when he failed a programming 
 
 
 
-Aaron asks him Thomas how to get out of a "quicksand" situation where you cannot drop the things you are working on but would like to change your project or position. Thomas outlines some cases why one can find themselves in a quicksand situation and how to get out of it.  
+Aaron asks him Thomas how to get out of a "quicksand" situation where you cannot drop the things you are working on but would like to change your project or position. Thomas outlines some cases why one can find themselves in a quicksand situation and what to do about it.  
 
 ### Host: Aaron Frost
 
