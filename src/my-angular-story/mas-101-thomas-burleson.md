@@ -14,7 +14,7 @@ tags:
 ---
 Thomas Burleson, a Solutions Architect from West Des Moines, Iowa join Aaron Frost in this week's My Angular Story.  Thomas shares his journey as a developer and how he was introduced to Angular. 
 
-Thomas was an Applied Physics major in college and when he failed a programming class he never thought he would be a developer. But then he wanted to know what was behind the software he was using and he taught himself how to program. 
+Thomas was an Applied Physics major in college and when he failed a programming class he never thought he would be a developer. But then he wanted to know what was behind the software he was using and he taught himself how to code. 
 
 ### Host: Aaron Frost
 
@@ -40,5 +40,6 @@ Thomas was an Applied Physics major in college and when he failed a programming 
 * [AiA 135 Angular Flex Layouts with Thomas Burleson](https://devchat.tv/adv-in-angular/angular-flex-layouts-with-thomas-burleson/#viewport)
 * [Thomas Burleson Twitter](https://twitter.com/ThomasBurleson)
 * [Thomas Burleson LinkedIn](https://www.linkedin.com/in/thomasburleson/)
+* <https://material.angularjs.org/latest/>
 
 ### Picks
