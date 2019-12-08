@@ -45,3 +45,9 @@ Finally Aaron asks him Thomas how to get out of a "quicksand" situation where yo
 * <https://material.angularjs.org/latest/>
 
 ### Picks
+
+**Aaron Frost**
+
+**Thomas Burleson**
+
+****
