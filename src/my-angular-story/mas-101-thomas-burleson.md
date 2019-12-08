@@ -60,5 +60,6 @@ Finally Aaron asks him Thomas how to get out of a "quicksand" situation where yo
 **Thomas Burleson**
 
 * <https://github.com/immerjs/immer>
+* [Maxim Koretskyi](https://maxkoretskyi.com/)
 
 ****
