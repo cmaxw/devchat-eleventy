@@ -16,9 +16,9 @@ Thomas Burleson, a Solutions Architect from West Des Moines, Iowa join Aaron Fro
 
 Thomas was an Applied Physics major in college and when he failed a programming class he never thought he would be a developer. But then he wanted to know what was behind the software he was using and he taught himself how to code. 
 
+Thomas shares some tips on what abilities you need possess if you want to become a developer, one of which is the ability to sit in front of a computer 10-12 hours a day. The second one is to be willing to put in the time to learn.  
 
-
-Aaron asks him Thomas how to get out of a "quicksand" situation where you cannot drop the things you are working on but would like to change your project or position. Thomas outlines some cases why one can find themselves in a quicksand situation and what to do about it.  
+Aaron then asks him Thomas how to get out of a "quicksand" situation where you cannot drop the things you are working on but would like to change your project or position. Thomas outlines some cases why one can find themselves in a quicksand situation and what to do about it.  
 
 ### Host: Aaron Frost
 
