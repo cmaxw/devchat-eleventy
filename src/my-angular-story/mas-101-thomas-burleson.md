@@ -4,7 +4,7 @@ podcast: my-angular-story
 title: 'MAS 101:  Thomas Burleson'
 date: 2019-12-10T10:00:03.763Z
 episode_number: '100'
-duration: '41:00'
+duration: '1:05:52'
 audio_url: 'https://media.devchat.tv/my-angular-story/MAS_101_Thomas_Burleson.mp3'
 tags:
   - my_angular_story
