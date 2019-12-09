@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: react-round-up
 title: 'RRU 091: Variable Fonts with Mandy Michael'
-date: 2019-12-04T11:00:45.447Z
+date: 2019-12-10T10:00:00.000Z
 episode_number: 091
 duration: '19:39'
 audio_url: 'https://media.devchat.tv/reactroundup/RRU_091_Mandy_Michael.mp3'
