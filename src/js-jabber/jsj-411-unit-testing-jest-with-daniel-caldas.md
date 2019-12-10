@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: js-jabber
 title: 'JSJ 411: Unit Testing Jest with Daniel Caldas'
-date: 2019-12-10T11:00:49.652Z
+date: 2019-12-10T11:24:00.000Z
 episode_number: '411'
 duration: '59:50'
 audio_url: 'https://media.devchat.tv/js-jabber/JSJ_411_Daniel_Caldas.mp3'
