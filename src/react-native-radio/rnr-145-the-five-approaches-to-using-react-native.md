@@ -37,7 +37,6 @@ The episode ends as the panel gives recommendations for native developers wantin
 **Panelists**
 
 - Charles Max Wood
-
 - Josh Justice
 - Narendra Shetty
 - Christopher Reyes
