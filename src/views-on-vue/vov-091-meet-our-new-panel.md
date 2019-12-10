@@ -29,7 +29,7 @@ Each of the panelists shares what they are using Vue for, work and personal proj
 - Lindsay Wardell
 - Devlin Duldulao
 
-**Sponsors  **
+**Sponsors**
 
 - [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
 - [CacheFly](https://www.cachefly.com/)
