@@ -43,7 +43,7 @@ Dean is a developer from Chicago and was previously on React Round Up 083. Today
 
 The panel discusses why reactive JavaScript is not more widely used. People now tend to look for more focused tools to solve a particular part of the problem than an all in one tool like Meteor.js. Dean talks about the problems that Storybook solves. Storybook has hot reloading environments in frontend components, so you don't need the backend to run. Storybook also allows you to create a catalogue of UI states. JC and Dean talk about how Storybook could create opportunities for collaboration between engineers and designers. They discuss some causes of breakage that automation could help solve, such as styles not being applied properly and internationalization issues. Dean shares how to solve some network issues, such as having operators in RxJs. RxJs is useful for overlapping calls because it was built with cancelability from the beginning. 
 
-Dean talks about his stool Storybook Animate, which allows you to see what the user sees. Storybook is an actively updated product, and Dean talks about how to get started with it. The show concludes tih Dean talking about some things coming down the pipe and how he is actively involved in looking for good general solutions to help people write bulletproof code. 
+Dean talks about his tool Storybook Animate, which allows you to see what the user sees. Storybook is an actively updated product, and Dean talks about how to get started with it. The show concludes with Dean talking about some things coming down the pipe and how he is actively involved in looking for good general solutions to help people write bulletproof code. 
 
 ## Panelists
 

@@ -2,11 +2,10 @@
 layout: layouts/post.njk
 podcast: freelancers
 title: The MaxCoders Guide To Finding Your Dream Developer Job
-date: 2019-07-23T10:00:00.000Z
+date: 2019-11-24T09:27:00.000Z
 episode_number: Bonus
-eleventyExcludeFromCollections: true
 duration: '14:35'
-audio_url: 'https://devchat.cachefly.net/uploads/Finding_Your_Dream_Job.mp3'
+audio_url: '  https://media.devchat.tv/adventures-in-devops/Finding_Your_Dream_Job.mp3'
 tags:
   - freelancers
   - podcast

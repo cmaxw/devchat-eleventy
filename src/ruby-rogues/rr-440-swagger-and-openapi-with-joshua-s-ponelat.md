@@ -1,21 +1,17 @@
 ---
 layout: layouts/post.njk
-podcast: js-jabber
-title: 'JSJ 409: Swagger and Open API with Josh Ponelat'
-date: 2019-11-26T11:30:00.000Z
-episode_number: '409'
-duration: '45:59'
-audio_url: 'https://media.devchat.tv/js-jabber/JSJ_409_Josh_Ponelat.mp3'
+podcast: ruby-rogues
+title: 'RR 440: Swagger and OpenAPI with Josh Ponelat'
+date: 2019-12-03T10:00:39.255Z
+episode_number: '440'
+duration: '46:42'
+audio_url: 'https://media.devchat.tv/ruby-rogues/RR_440_Joshua_S_Ponelat.mp3'
 tags:
-  - js_jabber
+  - ruby_rogues
   - podcast
-  - Open API
-  - Swagger
-  - web development
-  - JavaScript
-  - API
+  - Joshua S. Ponelat
+  - Dan Shappir
   - Charles Max Wood
-  - Dan Shapir
 question1: What is the difference between Swagger and Open API?
 answer1: >-
   Open API is a set of protocols around describing restful APIs, and Swagger is
@@ -37,27 +33,27 @@ answer4: >-
   service stubs by knowing your API is consistent in style. This makes it easier
   to find breaking changes and more.
 ---
-Today the panel discusses the difference between Swagger and Open API with Josh Ponelat. Josh details the difference between the two. Swagger is a set of protocols around describing restful APIs. Swagger was taken over by a company called SmartBear, who donated the donated the specification to the Open Linux Foundation, and that became the Open API. Swagger is the tooling surrounding these specifications. Open API is a standardized way to describe a restful API in a YAML file. Once you’ve got a YAML file to describe your API, you can use tooling like Swagger to leverage that and take it to the next level. Using the Open API process is useful for situations where you already have an API in place, but want to codify and document it so that it’s controlled. Then going forward, you won’t introduce contradictions and it remains consistent because it’s documented in a YAML file. The process leaves room for enhancement in the future as well. 
+Today the panel discusses the difference between Swagger and Open API with Josh Ponelat. Josh details the difference between the two. Swagger is a set of protocols around describing restful APIs. Swagger was taken over by a company called SmartBear, who donated the donated the specification to the Open Linux Foundation, and that became the Open API. Swagger is the tooling surrounding these specifications. Open API is a standardized way to describe a restful API in a YAML file. Once you’ve got a YAML file to describe your API, you can use tooling like Swagger to leverage that and take it to the next level. Using the Open API process is useful for situations where you already have an API in place, but want to codify and document it so that it’s controlled. Then going forward, you won’t introduce contradictions and it remains consistent because it’s documented in a YAML file. The process leaves room for enhancement in the future as well.
 
 Josh talks about some of the benefits of standardizing your API and some of the use cases besides tooling. A standardized API can help show developers how to use your API, SDKs, and service stubs by knowing your API is consistent in style. This makes it easier to find breaking changes and more. Josh talks more about Swagger, a finite set of tooling around Open API, most of which are open source. He talks about other tools that test APIs and do linting on YAML files. Some of the companies that use Open API include Google, Amazon, and Microsoft. Josh talks about how Amazon implements Open API.
 
-Josh talks about the book he’s writing, Designing APIs with Swagger and Open API. The book goes over describing APIs today, how to design APIs without writing code first, and how to get the most out of the system. The show concludes with Josh talking about the power of consistency and writing things down on paper. He discusses where implications that the standardization of APIs has on the text industry. 
+Josh talks about the book he’s writing, Designing APIs with Swagger and Open API. The book goes over describing APIs today, how to design APIs without writing code first, and how to get the most out of the system. The show concludes with Josh talking about the power of consistency and writing things down on paper. He discusses where implications that the standardization of APIs has on the text industry.
 
 ### Panelists
 
-* Dan Shapir 
+* Dan Shappir 
 * Charles Max Wood 
 
 ### Guest
 
-* Josh Ponelat 
-
-### \*\*To receive your 40% OFF coupon for [Manning Publications](https://www.manning.com) (good for all our products in all formats) visit us on [Facebook](https://www.facebook.com/javascriptjabber) - click on "Send A Message"and type "YES"\*\*
+* Joshua S. Ponelat
 
 ### Sponsors
 
 * [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit 
-## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+* [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues) Try Cloud 66 Rails for FREE & get $100 of free credits with promo code RubyRogues-19 
+* [RedisGreen](https://redisgreen.net/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues) 
+  ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**  [**Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
@@ -65,6 +61,7 @@ Josh talks about the book he’s writing, Designing APIs with Swagger and Open A
 
 ### Links
 
+* [Josh's Twitter](https://twitter.com/jponelat)
 * [Swagger](https://swagger.io/) 
 * [Open API](https://www.openapis.org/) 
 * [Difference Between Swagger and Open API](https://swagger.io/blog/api-strategy/difference-between-swagger-and-openapi/) 
@@ -73,7 +70,7 @@ Josh talks about the book he’s writing, Designing APIs with Swagger and Open A
 
 ### Picks
 
-Dan Shapir
+Dan Shappir
 
 * [Saga of Pliocene Exile](https://en.wikipedia.org/wiki/Saga_of_Pliocene_Exile) 
 

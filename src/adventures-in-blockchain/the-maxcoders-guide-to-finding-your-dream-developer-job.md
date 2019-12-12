@@ -4,9 +4,8 @@ podcast: adventures-in-blockchain
 title: The MaxCoders Guide To Finding Your Dream Developer Job
 date: 2019-11-20T16:38:49.515Z
 episode_number: Bonus
-eleventyExcludeFromCollections: true
 duration: '14:35'
-audio_url: 'https://devchat.cachefly.net/uploads/Finding_Your_Dream_Job.mp3'
+audio_url: '  https://media.devchat.tv/adventures-in-devops/Finding_Your_Dream_Job.mp3'
 tags:
   - adventures_in_blockchain
   - podcast

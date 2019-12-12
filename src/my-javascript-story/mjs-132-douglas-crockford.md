@@ -34,6 +34,8 @@ Douglas Crockford self-described as the person who discovered that JavaScript ha
 
 Douglas realized that there's going to be a convergence of TV and computing very early in his career. So a lot of his career has been bridging those two things, helping the evolution toward digital media. After working for Atari he went to work at Lucasfilm where he stayed for 8 years. 
 
+Charles asks Douglas what he is working on now, and what his plans are for the future. Douglas is planning to write more books one of which is Math for Programmers.
+
 **Host:** Charles Max Wood
 
 **Joined by Special Guest:**  Douglas Crockford
@@ -44,9 +46,9 @@ Douglas realized that there's going to be a convergence of TV and computing very
 * [My Angular Story](https://devchat.tv/my-angular-story/)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
-## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+  ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99**
+ **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood will be out on November 20th on Amazon.  Get your copy on that date only for $2.99**
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 

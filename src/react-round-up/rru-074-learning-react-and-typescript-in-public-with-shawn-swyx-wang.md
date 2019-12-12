@@ -21,23 +21,17 @@ tags:
 ---
 ## **Sponsors**
 
-
-
-*   [Netlify](https://www.netlify.com/)
-*   [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
-
+* [Netlify](https://www.netlify.com/)
+* [Sentry](http://sentry.io/) use the code “devchat” for 2 months free on Sentry’s small plan
 
 ### **Panel**
 
-
-
-*   David Ceddia
-*   Thomas Aylott
-*   Leslie Cohn-Wein
-*   Lucas Reis
+* David Ceddia
+* Thomas Aylott
+* Leslie Cohn-Wein
+* Lucas Reis
 
 With special guest: Shawn Wang
-
 
 ### **Episode Summary**
 
@@ -47,56 +41,44 @@ Today’s guest Shawn Wang is a career changer starts off the show about how he 
 
 **Links**
 
-
-
-*   [VBA](https://www.excel-easy.com/vba.html)
-*   [Microsoft Excel](https://office.live.com/start/Excel.aspx)
-*   [Haskell](https://www.haskell.org/)
-*   [Hoogle](https://hoogle.haskell.org/)
-*   [Cunningham’s Law](https://medium.com/@jussiahola/cunninghams-law-and-human-motivation-d88063fdc098)
-*   [Lampshading](https://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging)
-*   [Nerd sniping](https://xkcd.com/356/)
-*   [Julia Evans cartoons](https://jvns.ca/teach-tech-with-cartoons/)
-*   [React Suspense talk by swyx](https://www.swyx.io/talks/react-suspense/)
-*   [Lin Clark code cartoons](https://wizardzines.com/)
-*   [Samantha Ming](https://www.samanthaming.com/)
-*   [React/TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-*   [Learn In Public](https://www.swyx.io/writing/learn-in-public/)
+* [VBA](https://www.excel-easy.com/vba.html)
+* [Microsoft Excel](https://office.live.com/start/Excel.aspx)
+* [Haskell](https://www.haskell.org/)
+* [Hoogle](https://hoogle.haskell.org/)
+* [Cunningham’s Law](https://medium.com/@jussiahola/cunninghams-law-and-human-motivation-d88063fdc098)
+* [Lampshading](https://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging)
+* [Nerd sniping](https://xkcd.com/356/)
+* [Julia Evans cartoons](https://jvns.ca/teach-tech-with-cartoons/)
+* [React Suspense talk by swyx](https://www.swyx.io/talks/react-suspense/)
+* [Lin Clark code cartoons](https://code-cartoons.com/)
+* [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+* [Samantha Ming](https://www.samanthaming.com/)
+* [React/TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+* [Learn In Public](https://www.swyx.io/writing/learn-in-public/)
 
 Follow DevChat on [Facebook](https://www.facebook.com/DevChattv/?__tn__=%2Cd%2CP-R&eid=ARDBDrBnK71PDmx_8gE_IeIEo5SnM7cyzylVBjAwfaOo1ck_6q3GXuRBfaUQZaWVvFGyEVjrhDwnS_tV) and [Twitter](https://twitter.com/devchattv?lang=en)
-
 
 ### **Picks**
 
 **David Ceddia:**
 
-
-
-*   [Why React Hooks](https://tylermcginnis.com/why-react-hooks/)
+* [Why React Hooks](https://tylermcginnis.com/why-react-hooks/)
 
 **Thomas Aylott:**
 
-
-
-*   [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits) 
+* [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits) 
 
 **Lucas Reis:**
 
-
-
-*   [Tweet from James Clear](https://twitter.com/JamesClear/status/1154066001937534977)
+* [Tweet from James Clear](https://twitter.com/JamesClear/status/1154066001937534977)
 
 **Leslie Cohn-Wein:**
 
-
-
-*   [Storybook Accessibility Add-on](https://www.npmjs.com/package/@storybook/addon-a11y)
+* [Storybook Accessibility Add-on](https://www.npmjs.com/package/@storybook/addon-a11y)
 
 **Shawn Wang:**
 
-
-
-*   [Lizzo’s Juice](https://www.youtube.com/watch?v=XaCrQL_8eMY) 
-*   [12 Leverage Points](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
+* [Lizzo’s Juice](https://www.youtube.com/watch?v=XaCrQL_8eMY) 
+* [12 Leverage Points](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
 
 <!-- Docs to Markdown version 1.0β17 -->
