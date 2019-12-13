@@ -46,6 +46,7 @@ module.exports = function(eleventyConfig) {
                   "adventures_in_blockchain",
                   "adventures_in_devops",
                   "adventures_in_dotnet",
+                  "clean_coders",
                   "dev_rev",
                   "dev_ed",  
                   "elixir_mix",
