@@ -106,6 +106,31 @@ collections:
       - {label: "Question #4", name: "question4", widget: "string", required: false}
       - {label: "Answer #4", name: "answer4", widget: "string", required: false}
     sortableFields: ["title", "date", "episode_number"]
+  - name: "clean-coders" # Used in routes, e.g., /admin/collections/blog
+    label: "Clean Coders Podcast" # Used in the UI
+    folder: "src/clean-coders" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Podcast", name: "podcast", widget: "hidden", default: "clean-coders"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Episode Number", name: "episode_number", widget: "string"}
+      - {label: "Duration", name: "duration", widget: "string"}
+      - {label: "Audio URL", name: "audio_url", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Tags", name: "tags", widget: "list", default: ["clean_coders", "podcast"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Question #1", name: "question1", widget: "string", required: false}
+      - {label: "Answer #1", name: "answer1", widget: "string", required: false}
+      - {label: "Question #2", name: "question2", widget: "string", required: false}
+      - {label: "Answer #2", name: "answer2", widget: "string", required: false}
+      - {label: "Question #3", name: "question3", widget: "string", required: false}
+      - {label: "Answer #3", name: "answer3", widget: "string", required: false}
+      - {label: "Question #4", name: "question4", widget: "string", required: false}
+      - {label: "Answer #4", name: "answer4", widget: "string", required: false}
+    sortableFields: ["title", "date", "episode_number"]
   - name: "data-therapy" # Used in routes, e.g., /admin/collections/blog
     label: "Data Therapy" # Used in the UI
     folder: "src/data-therapy" # The path to the folder where the documents are stored

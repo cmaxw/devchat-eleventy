@@ -1,0 +1,20 @@
+{
+  "title": "Clean Coders Podcast",
+  "slug": "clean-coders",
+  "artwork": "clean-coders-500.jpg",
+  "artwork_front": "clean-coders-270.jpg",
+  "tag": "clean_coders",
+  "current": true,
+  "podwrench_slug": "clean-coders",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "email_form_id": "19",
+  "color": "blue",
+  "linkedin": "https://linkedin.com/company/devchat",
+  "twitter": "#",
+  "facebook": "#",
+  "rss": "#",
+  "google_play": "#",
+  "spotify": "#",
+  "stitcher": "#",
+  "itunes": "#"
+}
