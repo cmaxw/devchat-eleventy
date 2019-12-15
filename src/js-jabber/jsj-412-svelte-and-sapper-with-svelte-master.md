@@ -38,6 +38,8 @@ Noah talks about how to write plugins for Svelte and embedding components. One m
 - Steve Edwards 
 - Charles Max Wood 
 
+## \*\*To receive your 40% OFF coupon for [Manning Publications](https://www.manning.com) (good for all our products in all formats) visit us on [Facebook](https://www.facebook.com/javascriptjabber) - click on "Send A Message"and type "YES"\*\*
+
 ### Guest
 
 - Noah (Svelte Master) 
