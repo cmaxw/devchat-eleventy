@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 podcast: ruby-rogues
-title: 'RR 442: Creating a CI/CD Pipeline with Eddie Zaneski'
+title: 'RR 442: GitLab Commit with Eddie Zaneski, Shamiq Islam and Jasmine James'
 date: 2019-12-17T10:00:39.255Z
 episode_number: '442'
 duration: '53:48'
@@ -13,7 +13,9 @@ tags:
   - Charles Max Wood
   - Digital Ocean
   - Kubernetes
-  - GitLab
+  - GitLab Commit
+  - Shamiq Islam
+  - Jasmine James
 ---
 Live from GitLab Commit 2019, Charles Max Wood is joined by Eddie Zaneski from Digital Ocean talk about his talk "Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes", Shamiq Islam from Coinbase to talk about his talk on  "Closing the SDLC Loop- Automating Security" and lastly Jasmine James, from Delta Air Lines on her talk " How Delta Became Cloud Native"  
 
