@@ -15,15 +15,17 @@ tags:
   - Kubernetes
   - GitLab
 ---
-Live from GitLab Commit 2019, Eddie Zaneski from Digital Ocean is on this week's Ruby Rogues episode to talk about his talk "Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes".  
+Live from GitLab Commit 2019, Charles Max Wood is joined by Eddie Zaneski from Digital Ocean talk about his talk "Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes", Shamiq Islam from Coinbase to talk about his talk on  "Closing the SDLC Loop- Automating Security" and lastly Jasmine James, from Delta Air Lines on her talk " How Delta Became Cloud Native"  
 
 ### Panelists
 
 * Charles Max Wood 
 
-### Guest
+### Guests
 
 * Eddie Zaneski
+* Shamiq Islam
+* Jasmine James
 
 ### Sponsors
 
@@ -39,6 +41,10 @@ Live from GitLab Commit 2019, Eddie Zaneski from Digital Ocean is on this week's
 ### Links
 
 * [Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes by Eddie Zaneski ](https://www.youtube.com/watch?v=-shvwiBwFVI)
-* 
+* [Hacktoberfest presented by DigitalOcean and DEV](https://hacktoberfest.digitalocean.com/)
+* [Commit Brooklyn 2019: Closing the SDLC Loop - A Security Panel  by  Shamiq Islam](https://www.youtube.com/watch?v=IxjjsU_2tyU&list=PLFGfElNsQthaaqEAb6ceZvYnZgzSM50Kg&index=10)
+* [Commit Brooklyn 2019: How Delta Became Truly Cloud Native - Avoiding the Vendor-Lock](https://www.youtube.com/watch?v=zV_hFcxoN8I&list=PLFGfElNsQthaaqEAb6ceZvYnZgzSM50Kg&index=3&t=0s)  by Jasmine James
+
+
 
 ###
