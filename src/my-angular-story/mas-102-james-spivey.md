@@ -14,7 +14,7 @@ tags:
 ---
  James Spivey, the Director of Engineering at Shutterstock joins Aaron Frost in this week's My Angular Story to talk about his journey as a developer and how he started using Angular. 
 
-Aaron and James talk about James' work at Shutterstock as well as his working experience with Angular. Aaron asks James to put him through a mock interview and asks him how to do compound selectors in NgRx. James encourages Aaron to ask him to define "compound selectors". They then talk about how James seems himself as a manager and how the leadership culture should be at a company. 
+Aaron and James talk about James' work at Shutterstock as well as his working experience with Angular. Aaron asks James to put him through a mock interview and asks him how to do compound selectors in NgRx. James encourages Aaron to ask him to define "compound selectors". They then talk about how James seems himself as a manager and how the leadership culture should be at a company especially in "inclusivity". 
 
 ### Host: Aaron Frost
 
