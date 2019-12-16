@@ -17,7 +17,7 @@ tags:
   - Shamiq Islam
   - Jasmine James
 ---
-Live from GitLab Commit 2019, Charles Max Wood is joined by Eddie Zaneski from Digital Ocean talk about his talk "Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes", Shamiq Islam from Coinbase to talk about his talk on  "Closing the SDLC Loop- Automating Security" and lastly Jasmine James, from Delta Air Lines on her talk " How Delta Became Cloud Native"  
+Live from GitLab Commit 2019, Charles Max Wood is joined by Eddie Zaneski from Digital Ocean to talk about his talk on "Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes", Shamiq Islam from Coinbase to talk about his talk on  "Closing the SDLC Loop- Automating Security" and  Jasmine James, from Delta Air Lines on her talk " How Delta Became Cloud Native" . 
 
 ### Panelists
 
