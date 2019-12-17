@@ -10,6 +10,18 @@ audio_url: >-
 tags:
   - views_on_vue
   - podcast
+question1: What is a progressive enhancement?
+answer1: >-
+  It is the approach of building your websites and web apps so they work for as
+  many as browsers and devices as possible.
+question2: What is the purpose of progressive enhancement?
+answer2: >-
+  To provide as many people as possible with a working app or website no matter
+  their device or browser.
+question3: What are the rules of thumb to avoiding high CPU time?
+answer3: 'Reduce, Monitor, Work with Vendors, Performance budgets'
+question4: How does JAMstack empower frontend developers?
+answer4: 'They no longer have to work with the backend and backend developers. '
 ---
 In this episode of Views on Vue Charles Max Wood interviews speakers at JAMstack Conf SF His first interview is with Ire Aderinokun. Ire works for Buycoins, a cryptocurrency exchange for Africa. She gave a lightning talk, "Headless Chrome & Cloudinary for progressively enhanced dynamic content on the web". After giving a brief overview of her talk to Charles, Ire defines progressive enhancement for the listeners.
 
