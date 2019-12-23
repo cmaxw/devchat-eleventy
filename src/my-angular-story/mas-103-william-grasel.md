@@ -12,7 +12,7 @@ tags:
   - Aaron Frost
   - William Grasel
 ---
-William Grasel joins Aaron Frost in this week's  My Angular Story. 
+William Grasel,Tech Lead, Google Developer Expert and Software Engineer from São Paulo, Brazil joins Aaron Frost in this week's  My Angular Story. 
 
 ### Host: **Aaron Frost**
 
