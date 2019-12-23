@@ -12,6 +12,8 @@ tags:
   - Aaron Frost
   - William Grasel
 ---
+William Grasel joins Aaron Frost in this week's  My Angular Story. 
+
 ### Host: **Aaron Frost**
 
 ### Joined By Special Guest : **William Grasel**
@@ -31,7 +33,7 @@ tags:
 
 ### Links
 
-*
+* [William's Twitter](https://twitter.com/willgmbr)
 
 ### Picks
 
