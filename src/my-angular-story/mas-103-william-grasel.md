@@ -39,6 +39,9 @@ William Grasel,Tech Lead, Google Developer Expert and Software Engineer from Sã
 
 **Aaron Frost:**
 
+* Roadtrips
+* Laffy Taffy Jokes
+
 **William Grasel:**
 
-- - -
+*
