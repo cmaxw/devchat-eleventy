@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: my-angular-story
 title: 'MAS 103:  William Grasel'
-date: 2019-12-24T11:50:00.000Z
+date: 2019-12-24T11:53:00.000Z
 episode_number: '103'
 duration: '24:09'
 audio_url: 'https://media.devchat.tv/my-angular-story/MAS_103_William_Grasel.mp3'
