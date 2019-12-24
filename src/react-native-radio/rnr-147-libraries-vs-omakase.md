@@ -37,7 +37,6 @@ The panel discusses when each approach is helpful. They share their experiences 
 **Panelists**
 
 - Charles Max Wood
-
 - Josh Justice
 - Christopher Reyes
 
