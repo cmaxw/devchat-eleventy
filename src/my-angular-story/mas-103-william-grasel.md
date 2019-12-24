@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: my-angular-story
 title: 'MAS 103:  William Grasel'
-date: 2019-12-24T10:00:43.034Z
+date: 2019-12-24T11:45:00.000Z
 episode_number: '103'
 duration: '24:09'
 audio_url: 'https://media.devchat.tv/my-angular-story/MAS_103_William_Grasel.mp3'
@@ -12,7 +12,7 @@ tags:
   - Aaron Frost
   - William Grasel
 ---
-William Grasel,Tech Lead, Google Developer Expert and Software Engineer from São Paulo, Brazil joins Aaron Frost in this week's  My Angular Story. 
+William Grasel,Tech Lead, Google Developer Expert and Software Engineer from São Paulo, Brazil joins Aaron Frost in this week's My Angular Story. William has been working with Angular since 2013. He originally started with Backbone.js and Angular.js. 
 
 ### Host: **Aaron Frost**
 
