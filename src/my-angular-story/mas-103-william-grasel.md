@@ -14,7 +14,7 @@ tags:
 ---
 William Grasel,Tech Lead, Google Developer Expert and Software Engineer from São Paulo, Brazil joins Aaron Frost in this week's My Angular Story. William has been working with Angular since 2013. He originally started with Backbone.js and Angular.js. 
 
-Aaron and William talk about what it takes to be a Google Developer Expert (GDE) and 
+Aaron and William talk about what it takes to be a Google Developer Expert (GDE) and William's experience becoming one. 
 
 ### Host: **Aaron Frost**
 
