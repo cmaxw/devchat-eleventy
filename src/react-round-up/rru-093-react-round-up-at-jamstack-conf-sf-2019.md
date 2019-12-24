@@ -64,5 +64,5 @@ Rules of thumb for avoiding these issues are explained by Tammy. First, Reduce, 
 - [https://twitter.com/Mandy\_Kerr?](https://twitter.com/Mandy_Kerr?)
 - [https://speedcurve.com/](https://speedcurve.com/)
 - [https://twitter.com/tameverts?](https://twitter.com/tameverts?)
-- [https://www.facebook.com/adventuresinangular](https://www.facebook.com/adventuresinangular/)
-- [https://twitter.com/angularpodcast](https://twitter.com/angularpodcast)
+- [https://www.facebook.com/React-Round-Up](https://www.facebook.com/React-Round-Up)
+- [https://twitter.com/reactroundup](https://twitter.com/reactroundup)
