@@ -47,4 +47,4 @@ Aaron and William talk about what it takes to be a Google Developer Expert (GDE)
 **William Grasel:**
 
 * ##### [The Last of Us ](https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/)
-* ##### [Infrastructure Code](<* https://stackify.com/what-is-infrastructure-as-code-how-it-works-best-practices-tutorials/>)
+* Infrastructure Code
