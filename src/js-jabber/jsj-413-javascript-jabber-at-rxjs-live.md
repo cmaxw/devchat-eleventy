@@ -30,34 +30,34 @@ Finally, Charles interviews Kim alone about her second talk about RxJS and state
 
 **Panelists**
 
-- Charles Max Wood
+* Charles Max Wood
 
 **Guests**
 
-- Hannah Howard
-- Ben Lesch
-- Sam Julien
-- Kim Maida
+* Hannah Howard
+* Ben Lesch
+* Sam Julien
+* Kim Maida
 
 **Sponsors**
 
-- [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
-- [CacheFly](https://www.cachefly.com/)
+* ABOUT YOU |[aboutyou.com/apply](http://aboutyou.com/apply) [](http://sentry.io/)
+* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**  [**Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**  **[Get Your Copy Today!](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)**
 
 ## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Links**
 
-- [https://www.rxjs.live/](https://www.rxjs.live/)
-- [RxJS Live Youtube Channel](https://www.youtube.com/channel/UCmvhqGbbqkhJ63V3g-l-5Gg)
-- [https://twitter.com/techgirlwonder](https://twitter.com/techgirlwonder)
-- [https://twitter.com/benlesh](https://twitter.com/benlesh)
-- [http://www.samjulien.com/](http://www.samjulien.com/)
-- [https://twitter.com/samjulien](https://twitter.com/samjulien)
-- [https://twitter.com/KimMaida](https://twitter.com/KimMaida)
-- [https://www.facebook.com/javascriptjabber](https://www.facebook.com/javascriptjabber)
-- [https://twitter.com/JSJabber](https://twitter.com/JSJabber)
+* <https://www.rxjs.live/>
+* [RxJS Live Youtube Channel](https://www.youtube.com/channel/UCmvhqGbbqkhJ63V3g-l-5Gg)
+* <https://twitter.com/techgirlwonder>
+* <https://twitter.com/benlesh>
+* <http://www.samjulien.com/>
+* <https://twitter.com/samjulien>
+* <https://twitter.com/KimMaida>
+* <https://www.facebook.com/javascriptjabber>
+* <https://twitter.com/JSJabber>
