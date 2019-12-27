@@ -4,6 +4,9 @@ backend:
   identity_url: "https://devchat.tv/.netlify/identity"
   gateway_url:  "https://devchat.tv/.netlify/git"
   site_domain:  "https://devchat.tv/"
+  accept_roles: #optional - accepts all users if left out
+    - admin
+    - editor
 
 media_folder: "images/uploads"
 
