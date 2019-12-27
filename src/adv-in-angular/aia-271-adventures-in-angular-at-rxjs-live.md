@@ -4,7 +4,7 @@ podcast: adv-in-angular
 title: 'AiA 271: Adventures in Angular at RxJS Live'
 date: 2019-12-31T11:00:43.264Z
 episode_number: '271'
-duration: '29:23'
+duration: '36:26'
 audio_url: 'https://media.devchat.tv/adventures-in-angular/AiA_271_RxJS_Live.mp3'
 tags:
   - adv_in_angular
