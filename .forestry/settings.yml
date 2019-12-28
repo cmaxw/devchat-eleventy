@@ -91,6 +91,16 @@ sections:
   label: React Round Up
   create: all
   match: "*.md"
+- type: directory
+  path: src/remote-conf-talks
+  label: Remote Conference Talks
+  create: all
+  match: "*.md"
+- type: directory
+  path: src/ruby-rogues
+  label: Ruby Rogues
+  create: all
+  match: "*.md"
 - type: heading
   label: Other Content
 - type: directory
