@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: heading
@@ -9,93 +9,129 @@ sections:
 - type: directory
   path: src/adv-in-angular
   label: Adventures in Angular
-  create: all
+  create: documents
   match: "*.md"
+  templates:
+  - adventures-in-angular
 - type: directory
   path: src/adventures-in-blockchain
   label: Adventures in Blockchain
-  create: all
+  create: documents
   match: "*.md"
+  templates:
+  - adventures-in-blockchain
 - type: directory
   path: src/adventures-in-devops
   label: Adventures in DevOps
   create: all
   match: "*.md"
+  templates:
+  - adventures-in-devops
 - type: directory
   path: src/adventures-in-dotnet
   label: Adventures in DotNet
   create: all
   match: "*.md"
+  templates:
+  - adventures-in-net
 - type: directory
   path: src/clean-coders
   label: Clean Coders
   create: all
   match: "*.md"
+  templates:
+  - clean-coders
 - type: directory
   path: src/dev-ed
   label: Dev Ed
   create: all
   match: "*.md"
+  templates:
+  - dev-ed
 - type: directory
   path: src/dev-rev
   label: The Dev Rev
   create: all
   match: "*.md"
+  templates:
+  - the-dev-rev
 - type: directory
   path: src/elixir-mix
   label: Elixir Mix
   create: all
   match: "**/*"
+  templates:
+  - elixir-mix
 - type: directory
   path: src/freelancers
   label: Freelancers' Show
   create: all
   match: "*.md"
+  templates:
+  - freelancers-show
 - type: directory
   path: src/iphreaks
   label: iPhreaks
   create: all
   match: "*.md"
+  templates:
+  - iphreaks
 - type: directory
   path: src/js-jabber
   label: JavaScript Jabber
   create: all
   match: "*.md"
+  templates:
+  - javascript-jabber
 - type: directory
   path: src/my-angular-story
   label: My Angular Story
   create: all
   match: "*.md"
+  templates:
+  - my-angular-story
 - type: directory
   path: src/my-javascript-story
   label: My JavaScript Story
   create: all
   match: "*.md"
+  templates:
+  - my-javascript-story
 - type: directory
   path: src/my-ruby-story
   label: My Ruby Story
   create: all
   match: "*.md"
+  templates:
+  - my-ruby-story
 - type: directory
   path: src/react-native-radio
   label: React Native Radio
   create: all
   match: "*.md"
+  templates:
+  - react-native-radio
 - type: directory
   path: src/react-round-up
   label: React Round Up
   create: all
   match: "*.md"
+  templates:
+  - react-round-up
 - type: directory
   path: src/ruby-rogues
   label: Ruby Rogues
   create: all
   match: "*.md"
+  templates:
+  - ruby-rogues
 - type: directory
   path: src/views-on-vue
   label: Views on Vue
   create: all
   match: "*.md"
+  templates:
+  - views-on-vue
 - type: heading
   label: Podcasts on Hiatus
 - type: directory

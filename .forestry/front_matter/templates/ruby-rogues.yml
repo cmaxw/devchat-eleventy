@@ -1,25 +1,20 @@
 ---
-label: Adventures in Angular
+label: Ruby Rogues
 hide_body: false
 fields:
 - type: text
   name: layout
   label: layout
-  default: layouts/post.njk
   hidden: true
+  default: layouts/post.njk
 - type: text
   name: title
   label: title
-  config:
-    required: true
 - type: datetime
   name: date
   label: date
   config:
     export_format: YYYY-MM-DDTHH:mm:ssZZ
-    required: true
-    display_utc: false
-    time_format: ''
 - type: number
   name: episode_number
   label: episode_number
@@ -33,10 +28,10 @@ fields:
   name: podcast
   label: podcast
   hidden: true
-  default: adv-in-angular
+  default: ruby-rogues
 - name: tags
   type: tag_list
   default:
   - podcast
-  - adv-in-angular
+  - ruby_rogues
   label: tags

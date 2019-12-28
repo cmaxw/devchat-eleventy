@@ -23,7 +23,7 @@ fields:
   label: date
   config:
     date_format: ''
-    export_format: YYYY-MM-DDThh:mm:AZZ
+    export_format: YYYY-MM-DDThh:mm:ssZZ
 - type: text
   name: episode_number
   label: episode_number
@@ -35,18 +35,9 @@ fields:
   label: audio_url
   config:
     required: true
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default:
+  - podcast
+  - adventures_in_dotnet
   label: tags
-  config:
-    use_select: true
-    source:
-      type: documents
-      section: adventures-in-dotnet
-      file: src/adventures-in-dotnet/net-001-welcome-to-adventures-in-net.md
-      path: tags
-    options:
-    - podcast
-    - adventures-in-dotnet
-    min: '2'
-    max: '2'

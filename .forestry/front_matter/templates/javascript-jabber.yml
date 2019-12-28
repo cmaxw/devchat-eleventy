@@ -1,5 +1,5 @@
 ---
-label: Adventures in Angular
+label: JavaScript Jabber
 hide_body: false
 fields:
 - type: text
@@ -10,16 +10,9 @@ fields:
 - type: text
   name: title
   label: title
-  config:
-    required: true
 - type: datetime
   name: date
   label: date
-  config:
-    export_format: YYYY-MM-DDTHH:mm:ssZZ
-    required: true
-    display_utc: false
-    time_format: ''
 - type: number
   name: episode_number
   label: episode_number
@@ -33,10 +26,10 @@ fields:
   name: podcast
   label: podcast
   hidden: true
-  default: adv-in-angular
+  default: js-jabber
 - name: tags
   type: tag_list
   default:
   - podcast
-  - adv-in-angular
+  - js_jabber
   label: tags
