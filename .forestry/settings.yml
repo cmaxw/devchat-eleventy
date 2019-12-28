@@ -77,11 +77,6 @@ sections:
   create: all
   match: "*.md"
 - type: directory
-  path: src/rails-clips
-  label: Rails Clips
-  create: all
-  match: "*.md"
-- type: directory
   path: src/react-native-radio
   label: React Native Radio
   create: all
@@ -92,13 +87,35 @@ sections:
   create: all
   match: "*.md"
 - type: directory
+  path: src/ruby-rogues
+  label: Ruby Rogues
+  create: all
+  match: "*.md"
+- type: heading
+  label: Podcasts on Hiatus
+- type: directory
+  path: src/rails-clips
+  label: Rails Clips
+  create: all
+  match: "*.md"
+- type: directory
   path: src/remote-conf-talks
   label: Remote Conference Talks
   create: all
   match: "*.md"
 - type: directory
-  path: src/ruby-rogues
-  label: Ruby Rogues
+  path: src/sustain-our-software
+  label: Sustain Our Software
+  create: all
+  match: "*.md"
+- type: directory
+  path: src/teachmetocode
+  label: Teach Me to Code
+  create: all
+  match: "*.md"
+- type: directory
+  path: tmtc-screencasts
+  label: Teach Me to Code Screencasts
   create: all
   match: "*.md"
 - type: heading
