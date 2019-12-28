@@ -31,6 +31,14 @@ sections:
   label: Clean Coders Podcast
   create: all
   match: "*.md"
+- type: heading
+  label: Admin
+- type: directory
+  path: src/_data/podcasts
+  label: Podcasts
+  create: all
+  match: "*.json"
+  new_doc_ext: ".json"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
