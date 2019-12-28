@@ -18,6 +18,8 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    export_format: YYYY-MM-DDTHH:mm:ssZZ
 - type: text
   name: episode_number
   label: episode_number
