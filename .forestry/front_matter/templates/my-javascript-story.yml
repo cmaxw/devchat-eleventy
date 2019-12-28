@@ -1,0 +1,28 @@
+---
+label: My JavaScript Story
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: episode_number
+  label: episode_number
+- type: number
+  name: duration
+  label: duration
+- type: text
+  name: audio_url
+  label: audio_url
+- type: text
+  name: podcast
+  label: podcast
+- type: list
+  name: tags
+  label: tags
