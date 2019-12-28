@@ -19,6 +19,7 @@ fields:
     export_format: YYYY-MM-DDTHH:mm:ss\Z
     required: true
     display_utc: true
+    time_format: h:mm A
 - type: number
   name: episode_number
   label: episode_number
