@@ -46,5 +46,3 @@ fields:
       path: tags
     min: '2'
     max: '2'
-pages:
-- src/adv-in-angular/999-test.md
