@@ -21,6 +21,11 @@ sections:
   label: Adventures in DevOps
   create: all
   match: "*.md"
+- type: directory
+  path: src/clean-coders
+  label: Clean Coders Podcast
+  create: all
+  match: "*.md"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
