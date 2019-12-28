@@ -9,13 +9,17 @@ sections:
 - type: directory
   path: src/adv-in-angular
   label: Adventures in Angular
-  create: all
+  create: documents
   match: "*.md"
+  templates:
+  - adventures-in-angular
 - type: directory
   path: src/adventures-in-blockchain
   label: Adventures in Blockchain
-  create: all
+  create: documents
   match: "*.md"
+  templates:
+  - adventures-in-blockchain
 - type: directory
   path: src/adventures-in-devops
   label: Adventures in DevOps
