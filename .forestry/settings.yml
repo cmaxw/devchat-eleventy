@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: src/my-javascript-story
-  label: My JavaScript Story
-  create: all
-  match: "*.md"
 - type: heading
   label: Podcasts
 - type: directory
@@ -69,6 +64,16 @@ sections:
 - type: directory
   path: src/my-angular-story
   label: My Angular Story
+  create: all
+  match: "*.md"
+- type: directory
+  path: src/my-javascript-story
+  label: My JavaScript Story
+  create: all
+  match: "*.md"
+- type: directory
+  path: src/my-ruby-story
+  label: My Ruby Story
   create: all
   match: "*.md"
 - type: heading
