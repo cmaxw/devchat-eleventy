@@ -5,9 +5,13 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: layouts/post.njk
 - type: text
   name: podcast
   label: podcast
+  hidden: true
+  default: adventures-in-blockchain
 - type: text
   name: title
   label: title
@@ -23,6 +27,9 @@ fields:
 - type: text
   name: audio_url
   label: audio_url
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default:
+  - podcast
+  - adventures_in_blockchain
   label: tags
