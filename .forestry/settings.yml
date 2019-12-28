@@ -48,13 +48,13 @@ sections:
   match: "**/*"
 - type: heading
   label: Other Content
-- type: heading
-  label: Admin
 - type: directory
   path: src/blog
   label: Blog
   create: all
   match: "*.md"
+- type: heading
+  label: Admin
 - type: directory
   path: src/_data/podcasts
   label: Podcasts
