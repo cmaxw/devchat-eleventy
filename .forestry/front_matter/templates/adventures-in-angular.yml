@@ -38,7 +38,7 @@ fields:
   name: tags
   label: tags
   config:
-    use_select: true
+    use_select: false
     source:
       type: documents
       section: adventures-in-angular
