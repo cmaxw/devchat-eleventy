@@ -37,7 +37,7 @@ sections:
   create: all
   match: "*.md"
 - type: directory
-  path: dev-rev
+  path: src/dev-rev
   label: The Dev Rev
   create: all
   match: "*.md"
