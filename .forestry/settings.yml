@@ -22,6 +22,11 @@ sections:
   create: all
   match: "*.md"
 - type: directory
+  path: src/adventures-in-dotnet
+  label: Adventures in DotNet
+  create: all
+  match: "*.md"
+- type: directory
   path: src/clean-coders
   label: Clean Coders Podcast
   create: all
