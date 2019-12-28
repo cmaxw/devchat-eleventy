@@ -17,6 +17,7 @@ fields:
   label: date
   config:
     export_format: YYYY-MM-DDTHH:mm:ss
+    required: true
 - type: number
   name: episode_number
   label: episode_number
