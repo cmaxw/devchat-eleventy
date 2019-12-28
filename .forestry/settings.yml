@@ -38,7 +38,7 @@ sections:
   label: Podcasts
   create: all
   match: "*.json"
-  new_doc_ext: ".json"
+  new_doc_ext: json
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
