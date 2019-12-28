@@ -1,0 +1,31 @@
+---
+label: Clean Coders
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: podcast
+  label: podcast
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: episode_number
+  label: episode_number
+- type: text
+  name: duration
+  label: duration
+- type: text
+  name: audio_url
+  label: audio_url
+- type: list
+  name: tags
+  label: tags
+- type: boolean
+  name: ignore
+  label: ignore
