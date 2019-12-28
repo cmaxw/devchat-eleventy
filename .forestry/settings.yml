@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: src/rails-clips
+  label: Rails Clips
+  create: all
+  match: "*.md"
 - type: heading
   label: Podcasts
 - type: directory
