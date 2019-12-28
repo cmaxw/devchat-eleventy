@@ -34,17 +34,11 @@ fields:
   label: podcast
   hidden: true
   default: adv-in-angular
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default:
+  - podcast
+  - adv-in-angular
   label: tags
-  config:
-    use_select: false
-    source:
-      type: documents
-      section: adventures-in-angular
-      file: src/adv-in-angular/002-aia-angular-meetups-with-matt-zabriskie-and-sharon-diorio.md
-      path: tags
-    min: '2'
-    max: '2'
 pages:
 - src/adv-in-angular/000-test.md
