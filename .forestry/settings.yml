@@ -46,6 +46,21 @@ sections:
   label: Elixir Mix
   create: all
   match: "**/*"
+- type: directory
+  path: src/freelancers
+  label: Freelancers' Show
+  create: all
+  match: "*.md"
+- type: directory
+  path: src/iphreaks
+  label: iPhreaks
+  create: all
+  match: "*.md"
+- type: directory
+  path: src/js-jabber
+  label: JavaScript Jabber
+  create: all
+  match: "*.md"
 - type: heading
   label: Other Content
 - type: directory
