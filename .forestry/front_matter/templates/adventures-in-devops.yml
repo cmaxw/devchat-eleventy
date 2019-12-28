@@ -5,9 +5,13 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: layouts/post.njk
+  hidden: true
 - type: text
   name: podcast
   label: podcast
+  hidden: true
+  default: adventures-in-devops
 - type: text
   name: title
   label: title
@@ -23,9 +27,9 @@ fields:
 - type: text
   name: audio_url
   label: audio_url
-- type: file
-  name: image
-  label: image
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default:
+  - podcast
+  - adventures_in_devops
   label: tags
