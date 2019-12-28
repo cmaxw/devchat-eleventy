@@ -33,6 +33,8 @@ fields:
 - type: text
   name: audio_url
   label: audio_url
+  config:
+    required: true
 - type: list
   name: tags
   label: tags
