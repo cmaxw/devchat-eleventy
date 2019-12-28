@@ -11,6 +11,11 @@ sections:
   label: Adventures in Angular
   create: all
   match: "*.md"
+- type: directory
+  path: src/adventures-in-blockchain
+  label: Adventures in Blockchain
+  create: all
+  match: "*.md"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
