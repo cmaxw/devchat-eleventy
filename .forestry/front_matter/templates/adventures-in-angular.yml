@@ -40,5 +40,3 @@ fields:
   - podcast
   - adv-in-angular
   label: tags
-pages:
-- src/adv-in-angular/000-test.md
