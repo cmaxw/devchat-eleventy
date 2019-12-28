@@ -5,9 +5,14 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: layouts/post.njk
+  hidden: true
 - type: text
   name: podcast
   label: podcast
+  hidden: true
+  description: adventures-in-dotnet
+  default: adventures-in-dotnet
 - type: text
   name: title
   label: title
@@ -26,3 +31,13 @@ fields:
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: adventures-in-dotnet
+      file: src/adventures-in-dotnet/net-001-welcome-to-adventures-in-net.md
+      path: tags
+    options:
+    - podcast
+    - adventures-in-dotnet
