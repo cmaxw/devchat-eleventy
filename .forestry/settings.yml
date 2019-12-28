@@ -64,18 +64,18 @@ sections:
 - type: heading
   label: Other Content
 - type: directory
-  path: src/_data/authors
-  label: Authors
-  create: all
-  match: "*.json"
-  new_doc_ext: ".json"
-- type: directory
   path: src/blog
   label: Blog
   create: all
   match: "*.md"
 - type: heading
   label: Admin
+- type: directory
+  path: src/_data/authors
+  label: Authors
+  create: all
+  match: "*.json"
+  new_doc_ext: ".json"
 - type: directory
   path: src/_data/podcasts
   label: Podcasts
