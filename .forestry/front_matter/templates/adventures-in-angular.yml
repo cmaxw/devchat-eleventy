@@ -33,7 +33,7 @@ fields:
   name: podcast
   label: podcast
   hidden: true
-  default: adventures-in-angular
+  default: adv-in-angular
 - type: list
   name: tags
   label: tags
