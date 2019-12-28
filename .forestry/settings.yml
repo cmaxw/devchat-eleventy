@@ -41,8 +41,20 @@ sections:
   label: The Dev Rev
   create: all
   match: "*.md"
+- type: directory
+  path: src/elixir-mix
+  label: Elixir Mix
+  create: all
+  match: "**/*"
+- type: heading
+  label: Other Content
 - type: heading
   label: Admin
+- type: directory
+  path: src/blog
+  label: Blog
+  create: all
+  match: "*.md"
 - type: directory
   path: src/_data/podcasts
   label: Podcasts
