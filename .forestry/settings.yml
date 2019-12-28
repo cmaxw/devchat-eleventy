@@ -91,6 +91,11 @@ sections:
   label: Ruby Rogues
   create: all
   match: "*.md"
+- type: directory
+  path: src/views-on-vue
+  label: Views on Vue
+  create: all
+  match: "*.md"
 - type: heading
   label: Podcasts on Hiatus
 - type: directory
@@ -116,6 +121,11 @@ sections:
 - type: directory
   path: tmtc-screencasts
   label: Teach Me to Code Screencasts
+  create: all
+  match: "*.md"
+- type: directory
+  path: src/web-security-warriors
+  label: Web Security Warriors
   create: all
   match: "*.md"
 - type: heading
