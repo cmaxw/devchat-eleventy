@@ -23,7 +23,7 @@ fields:
   label: date
   config:
     date_format: ''
-    export_format: YYYY-MM-DDThh:mm:AZZ
+    export_format: YYYY-MM-DDThh:mm:ssZZ
 - type: text
   name: episode_number
   label: episode_number
