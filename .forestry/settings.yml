@@ -31,6 +31,16 @@ sections:
   label: Clean Coders Podcast
   create: all
   match: "*.md"
+- type: directory
+  path: src/dev-ed
+  label: Dev Ed
+  create: all
+  match: "*.md"
+- type: directory
+  path: dev-rev
+  label: The Dev Rev
+  create: all
+  match: "*.md"
 - type: heading
   label: Admin
 - type: directory
