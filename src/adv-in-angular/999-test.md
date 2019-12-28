@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: adventures-in-angular
 title: 999 Test
-date: 2020-01-30T11:00:AM+0000
+date: 2020-01-30T11:01:AM+00:00
 episode_number: 
 duration: ''
 audio_url: ''
