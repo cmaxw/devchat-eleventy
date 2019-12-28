@@ -41,3 +41,5 @@ fields:
     options:
     - podcast
     - adventures-in-dotnet
+    min: '2'
+    max: '2'
