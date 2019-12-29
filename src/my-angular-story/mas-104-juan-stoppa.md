@@ -13,6 +13,7 @@ duration: 32
 audio_url: https://media.devchat.tv/my-angular-story/MAS_104_Juan_Stoppa.mp3
 
 ---
+Juan Stoppa, Head Of Development at Wealth Dynamix, joins Aaron Frost in this week's My Angular Story. 
 
 ### Host: **Aaron Frost**
 
