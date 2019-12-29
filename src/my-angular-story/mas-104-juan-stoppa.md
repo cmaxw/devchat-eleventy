@@ -3,7 +3,9 @@ layout: layouts/post.njk
 podcast: my-angular-story
 tags:
 - my_angular_story
-- podcast
+- 'podcast '
+- " Aaron Frost"
+- " Juan Stoppa"
 title: 'MAS 104:  Juan Stoppa'
 date: 2019-12-31T01:00:00+0000
 episode_number: "104"
