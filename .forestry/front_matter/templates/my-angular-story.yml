@@ -35,3 +35,5 @@ fields:
   - my_angular_story
   - podcast
   label: tags
+pages:
+- src/my-angular-story/mas-104-juan-stoppa.md
