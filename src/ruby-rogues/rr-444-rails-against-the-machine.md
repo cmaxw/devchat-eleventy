@@ -11,14 +11,16 @@ duration: '47:51'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_444_Rails_Against_the_Machine.mp3
 
 ---
-Panelists
 
-* David Kumura
+### Panelists
+
+* Dave Kimura
+* Andrew Mason
 * Charles Max Wood
 
-## Guest
+### Guest
 
-* Sven Akerman Jr.
+* Brittany Martin
 
 ## Sponsors
 
@@ -31,11 +33,6 @@ Panelists
 
 ## **____________________________________________________________**
 
-## Links
+### Links
 
-* [Outlook Insight](http://outlookinsight.com/)
-* [Scrum](https://www.scrum.org/resources/what-is-scrum)
-* [Agile development](https://www.agilealliance.org/agile101/)
-* [Kubernetes](https://kubernetes.io/)
-
-## Picks
+### Picks
