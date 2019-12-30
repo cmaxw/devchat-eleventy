@@ -7,17 +7,17 @@ tags:
 - " Aaron Frost"
 - " Juan Stoppa"
 title: 'MAS 104:  Juan Stoppa'
-date: 2019-12-31T01:00:00+0000
+date: 2019-12-31T11:00:00+0000
 episode_number: "104"
 duration: 32
 audio_url: https://media.devchat.tv/my-angular-story/MAS_104_Juan_Stoppa.mp3
 
 ---
-Juan Stoppa, Head Of Development at Wealth Dynamix, joins Aaron Frost in this week's My Angular Story. 
+Juan Stoppa, Head Of Development at Wealth Dynamix, joins Aaron Frost in this week's My Angular Story.  notebk 
 
 ### Host: **Aaron Frost**
 
-### Joined By Special Guest : **Juan Stoppa**
+### Joined By Special Guest: **Juan Stoppa**
 
 ## **My Angular Story is produced by DevChat.TV in partnership with Hero Devs.**
 
