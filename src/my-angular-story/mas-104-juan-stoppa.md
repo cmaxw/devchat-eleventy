@@ -46,5 +46,5 @@ Juan Stoppa, Head Of Development at Wealth Dynamix, joins Aaron Frost in this we
 
 **Aaron Frost:**
 
-* [Zone.js]()
-* [HeroDevs Scholarship Program](https://medium.com/@ngconf/diversity-scholarships-2020-d57de1d3f7fa "HeroDevs Scholarship Program")
+* [Zone.js](https://dev.to/herodevs/route-fully-rendered-detection-in-angular-2nh4 "Route-Fully-Rendered Detection in Angular")
+* [HeroDevs Scholarship Program](https://medium.com/@ngconf/diversity-scholarships-2020-d57de1d3f7fa "Diversity Scholarships 2020")
