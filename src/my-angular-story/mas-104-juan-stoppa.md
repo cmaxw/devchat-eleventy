@@ -40,10 +40,11 @@ Juan Stoppa, Head Of Development at Wealth Dynamix, joins Aaron Frost in this we
 
 ### Picks
 
-**Aaron Frost:**
-
-* 
-
 **Juan Stoppa:**
 
-* 
+* [Visual Studio Online](https://visualstudio.microsoft.com/tr/services/visual-studio-online/ "Visual Studio Online")
+
+**Aaron Frost:**
+
+* [Zone.js]()
+* [HeroDevs Scholarship Program](https://medium.com/@ngconf/diversity-scholarships-2020-d57de1d3f7fa "HeroDevs Scholarship Program")
