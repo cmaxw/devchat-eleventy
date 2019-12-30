@@ -11,6 +11,7 @@ duration: '47:51'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_444_Rails_Against_the_Machine.mp3
 
 ---
+###### Brittany Martin, Lead Web Developer at The Pittsburgh Cultural Trust joins the panel today to talk about .. 
 
 ### Panelists
 
