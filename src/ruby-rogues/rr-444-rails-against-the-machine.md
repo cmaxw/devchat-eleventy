@@ -17,6 +17,8 @@ Brittany Martin works for the Pittsburgh Cultural Trust as the nonprofit’s Lea
 
 Her talk's elevator pitch is as follows: "What should a development team do when a few bad users threaten their application? Online businesses are plagued with trolls and bots. Learn how your team can leverage features from RoR and AWS to monitor and (secretly) segment bad actors using automation and behavioral triggers."
 
+Together they address questions such as "When is it better to block a user instead of incorporating them into your app?" and "How do you know the difference between a security threat or something trying to game the system?"
+
 ### Panelists
 
 * Dave Kimura
