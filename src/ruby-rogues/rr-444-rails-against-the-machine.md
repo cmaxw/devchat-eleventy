@@ -68,6 +68,6 @@ Brittany and the panel address questions such as "When is it better to block a u
 
 **Brittany Martin**
 
-* [CrossFit Games: The Open](https://games.crossfit.com/sanctionals "CrossFit Games")
 * [KBDfans – KBDfans Mechanical Keyboards Store](https://kbdfans.com/ "KBDfans – KBDfans Mechanical Keyboards Store")
 * [http://rubyconf.org/](http://rubyconf.org/ "http://rubyconf.org/")
+* [CrossFit Games: The Open](https://games.crossfit.com/sanctionals "CrossFit Games")
