@@ -34,6 +34,7 @@ Together they address questions such as "When is it better to block a user inste
 
 * [Sentry](http://sentry.io/) | Use the code "devchat" for $100 credit
 * [RedisGreen](https://redisgreen.net/)
+* [Adventures in DevOps Podcast](https://devchat.tv/adventures-in-devops/)
 
 ## **____________________________________________________________**
 
