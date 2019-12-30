@@ -11,7 +11,7 @@ duration: '47:51'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_444_Rails_Against_the_Machine.mp3
 
 ---
-Brittany Martin, Lead Web Developer at the Pittsburgh Cultural Trust joins the panel today to talk about her talk "Rails Against The Machine" she has given at Southeast Ruby, Rubyconf MY and Ruby on Ice.
+Brittany Martin, Lead Web Developer at the Pittsburgh Cultural Trust joins the panel today to talk about her talk "Rails Against The Machine".  She has given this talk at Southeast Ruby, Rubyconf MY and Ruby on Ice.
 
 Brittany Martin works for the Pittsburgh Cultural Trust as the nonprofit’s Lead Web Developer, where she is part of the team that develops, supports and maintains the Trust’s ticketing and festival web applications. She is a certified AWS Developer and the host of the 5by5 Ruby on Rails podcast. Under her alter-ego, Norma Skates, Brittany officiates roller derby for the Little Steel Derby Girls.
 
