@@ -15,7 +15,7 @@ Brittany Martin, Lead Web Developer at the Pittsburgh Cultural Trust joins the p
 
 Brittany Martin works for the Pittsburgh Cultural Trust as the nonprofit’s Lead Web Developer, where she is part of the team that develops, supports and maintains the Trust’s ticketing and festival web applications. She is a certified AWS Developer and the host of the 5by5 Ruby on Rails podcast. Under her alter-ego, Norma Skates, Brittany officiates roller derby for the Little Steel Derby Girls.
 
-The talk's elevator pitch is as follows"What should a development team do when a few bad users threaten their application? Online businesses are plagued with trolls and bots. Learn how your team can leverage features from RoR and AWS to monitor and (secretly) segment bad actors using automation and behavioral triggers."
+Her talk's elevator pitch is as follows"What should a development team do when a few bad users threaten their application? Online businesses are plagued with trolls and bots. Learn how your team can leverage features from RoR and AWS to monitor and (secretly) segment bad actors using automation and behavioral triggers."
 
 ### Panelists
 
