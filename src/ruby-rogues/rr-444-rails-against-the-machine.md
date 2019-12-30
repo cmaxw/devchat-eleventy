@@ -38,3 +38,18 @@ Brittany Martin, Lead Web Developer at the Pittsburgh Cultural Trust joins the p
 ### Links
 
 ### Picks
+
+**Andrew Mason**
+
+* [http://expo.stimulusreflex.com/](http://expo.stimulusreflex.com/ "http://expo.stimulusreflex.com/")
+
+**Dave Kimura**
+
+* [https://github.com/danmayer/coverband](https://github.com/danmayer/coverband "https://github.com/danmayer/coverband")
+* [Stay secure with CyberGhost VPN Free Proxy](https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb?hl=en "Stay secure with CyberGhost VPN Free Proxy")
+
+**Brittany Martin**
+
+* [CrossFit Games: The Open](https://games.crossfit.com/sanctionals "CrossFit Games")
+* [KBDfans – KBDfans Mechanical Keyboards Store](https://kbdfans.com/ "KBDfans – KBDfans Mechanical Keyboards Store")
+* [http://rubyconf.org/](http://rubyconf.org/ "http://rubyconf.org/")
