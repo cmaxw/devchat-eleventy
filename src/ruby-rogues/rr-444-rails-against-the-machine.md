@@ -11,7 +11,9 @@ duration: '47:51'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_444_Rails_Against_the_Machine.mp3
 
 ---
-Brittany Martin, Lead Web Developer at the Pittsburgh Cultural Trust joins the panel today to talk about her talk "Rails Against The Machine" she has been giving.
+Brittany Martin, Lead Web Developer at the Pittsburgh Cultural Trust joins the panel today to talk about her talk "Rails Against The Machine" she has given at Southeast Ruby, Rubyconf MY and Ruby on Ice.
+
+The talk is about "What should a development team do when a few bad users threaten their application? Online businesses are plagued with trolls and bots. Learn how your team can leverage features from RoR and AWS to monitor and (secretly) segment bad actors using automation and behavioral triggers."
 
 ### Panelists
 
@@ -36,6 +38,10 @@ Brittany Martin, Lead Web Developer at the Pittsburgh Cultural Trust joins the p
 ## **____________________________________________________________**
 
 ### Links
+
+* [Brittany's Talk ]( https://www.youtube.com/watch?v=bmIfkcAQEE8 "Rails Against The Machine")
+* [Podcast Brittany Hosts](http://5by5.tv/rubyonrails)
+* 
 
 ### Picks
 
