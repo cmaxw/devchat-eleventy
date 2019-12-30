@@ -4,6 +4,10 @@ podcast: ruby-rogues
 tags:
 - podcast
 - ruby_rogues
+- Brittany Martin
+- Dave Kimura
+- 'Charles Max Wood '
+- Andrew Mason
 title: 'RR 444: Rails Against the Machine'
 date: 2019-12-31T11:00:00+0000
 episode_number: 444
