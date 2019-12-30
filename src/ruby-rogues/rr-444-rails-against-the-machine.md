@@ -13,6 +13,8 @@ audio_url: https://media.devchat.tv/ruby-rogues/RR_444_Rails_Against_the_Machine
 ---
 Brittany Martin, Lead Web Developer at the Pittsburgh Cultural Trust joins the panel today to talk about her talk "Rails Against The Machine" she has given at Southeast Ruby, Rubyconf MY and Ruby on Ice.
 
+Brittany Martin works for the Pittsburgh Cultural Trust as the nonprofit’s Lead Web Developer, where she is part of the team that develops, supports and maintains the Trust’s ticketing and festival web applications. She is a certified AWS Developer and the host of the 5by5 Ruby on Rails podcast. Under her alter-ego, Norma Skates, Brittany officiates roller derby for the Little Steel Derby Girls.
+
 The talk's elevator pitch is as follows"What should a development team do when a few bad users threaten their application? Online businesses are plagued with trolls and bots. Learn how your team can leverage features from RoR and AWS to monitor and (secretly) segment bad actors using automation and behavioral triggers."
 
 ### Panelists
@@ -41,7 +43,10 @@ The talk's elevator pitch is as follows"What should a development team do when a
 
 * [Brittany's Talk ]( https://www.youtube.com/watch?v=bmIfkcAQEE8 "Rails Against The Machine")
 * [Podcast Brittany Hosts](http://5by5.tv/rubyonrails)
-* 
+* [https://twitter.com/BrittJMartin](https://twitter.com/BrittJMartin "https://twitter.com/BrittJMartin")
+* [https://www.instagram.com/wonderwomaninthemaking/](https://www.instagram.com/wonderwomaninthemaking/ "https://www.instagram.com/wonderwomaninthemaking/")
+* [https://brittanymartin.dev](https://brittanymartin.dev "https://brittanymartin.dev")
+* [https://github.com/wonderwoman13](https://github.com/wonderwoman13 "https://github.com/wonderwoman13")
 
 ### Picks
 
