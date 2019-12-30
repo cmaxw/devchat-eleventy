@@ -35,3 +35,5 @@ fields:
   - podcast
   - ruby_rogues
   label: tags
+pages:
+- src/ruby-rogues/rr-444-rails-against-the-machine.md
