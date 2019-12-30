@@ -43,6 +43,7 @@ Juan Stoppa, Head Of Development at Wealth Dynamix, joins Aaron Frost in this we
 **Juan Stoppa:**
 
 * [Visual Studio Online](https://visualstudio.microsoft.com/tr/services/visual-studio-online/ "Visual Studio Online")
+* [TypeScript 3.7](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.html "optional chaining")
 
 **Aaron Frost:**
 
