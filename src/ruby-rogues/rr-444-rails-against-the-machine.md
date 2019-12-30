@@ -62,6 +62,10 @@ Brittany and the panel address questions such as "When is it better to block a u
 * [Stay secure with CyberGhost VPN Free Proxy](https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb?hl=en "Stay secure with CyberGhost VPN Free Proxy")
 * [https://github.com/danmayer/coverband](https://github.com/danmayer/coverband "https://github.com/danmayer/coverband")
 
+**Charles Max Wood**
+
+* [https://devchat.tv/events/](https://devchat.tv/events/ "https://devchat.tv/events/")
+
 **Brittany Martin**
 
 * [CrossFit Games: The Open](https://games.crossfit.com/sanctionals "CrossFit Games")
