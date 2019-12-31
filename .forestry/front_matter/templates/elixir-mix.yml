@@ -35,3 +35,5 @@ fields:
   - podcast
   - elixir_mix
   label: tags
+pages:
+- src/elixir-mix/emx-084-beyond-liveview-with-sophie-debenedetto.md
