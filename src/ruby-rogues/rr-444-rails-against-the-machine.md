@@ -9,7 +9,7 @@ tags:
 - 'Charles Max Wood '
 - Andrew Mason
 title: 'RR 444: Rails Against the Machine'
-date: 2019-12-31T10:07:00+0000
+date: 2019-12-31T11:00:00+0000
 episode_number: 444
 duration: '47:51'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_444_Rails_Against_the_Machine.mp3
