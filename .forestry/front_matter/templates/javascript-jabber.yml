@@ -33,3 +33,5 @@ fields:
   - podcast
   - js_jabber
   label: tags
+pages:
+- src/js-jabber/jsj-414-javascript-jabber-still-at-rxjs-live.md
