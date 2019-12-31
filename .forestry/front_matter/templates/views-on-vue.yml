@@ -35,3 +35,5 @@ fields:
   - podcast
   - views_on_vue
   label: tags
+pages:
+- src/views-on-vue/vov-093-vuetensils-with-austin-gil.md
