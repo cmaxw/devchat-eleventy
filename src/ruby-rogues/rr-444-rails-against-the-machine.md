@@ -9,7 +9,7 @@ tags:
 - 'Charles Max Wood '
 - Andrew Mason
 title: 'RR 444: Rails Against the Machine'
-date: 2019-12-31T11:00:00+0000
+date: 2019-12-31T11:09:00+0000
 episode_number: 444
 duration: '47:51'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_444_Rails_Against_the_Machine.mp3
@@ -26,8 +26,7 @@ Brittany and the panel address questions such as "When is it better to block a u
 ### Panelists
 
 * Dave Kimura
-
-  Andrew Mason
+* Andrew Mason
 * Charles Max Wood
 
 ### Guest
@@ -49,7 +48,7 @@ Brittany and the panel address questions such as "When is it better to block a u
 
 ### Links
 
-* [Brittany's Talk ]( https://www.youtube.com/watch?v=bmIfkcAQEE8 "Rails Against The Machine")
+* [Brittany's Talk ](https://www.youtube.com/watch?v=bmIfkcAQEE8 "Rails Against The Machine")
 * [Podcast Brittany Hosts](http://5by5.tv/rubyonrails)
 * [https://twitter.com/BrittJMartin](https://twitter.com/BrittJMartin "https://twitter.com/BrittJMartin")
 * [https://www.instagram.com/wonderwomaninthemaking/](https://www.instagram.com/wonderwomaninthemaking/ "https://www.instagram.com/wonderwomaninthemaking/")
