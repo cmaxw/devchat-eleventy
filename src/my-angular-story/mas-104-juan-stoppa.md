@@ -7,7 +7,7 @@ tags:
 - " Aaron Frost"
 - " Juan Stoppa"
 title: 'MAS 104:  Juan Stoppa'
-date: 2019-12-31T11:00:00+0000
+date: 2019-12-01T10:06:00+0000
 episode_number: "104"
 duration: 32
 audio_url: https://media.devchat.tv/my-angular-story/MAS_104_Juan_Stoppa.mp3
