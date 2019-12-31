@@ -5,8 +5,8 @@ tags:
 - podcast
 - react_native_radio
 title: 'RNR 148: Whats in My Stack?'
-date: 2019-12-31T23:00:00+0000
-episode_number: 148
+date: 2019-12-31T11:00:00+0000
+episode_number: 149
 duration: 64
 audio_url: https://media.devchat.tv/reactnativeradio/RNR_148_Panel.mp3
 
