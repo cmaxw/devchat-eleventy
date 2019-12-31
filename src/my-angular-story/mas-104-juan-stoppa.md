@@ -7,13 +7,15 @@ tags:
 - " Aaron Frost"
 - " Juan Stoppa"
 title: 'MAS 104:  Juan Stoppa'
-date: 2019-12-31T11:00:00+0000
+date: 2019-12-31T11:06:00+0000
 episode_number: "104"
 duration: 32
 audio_url: https://media.devchat.tv/my-angular-story/MAS_104_Juan_Stoppa.mp3
 
 ---
-Juan Stoppa, Head Of Development at Wealth Dynamix, joins Aaron Frost in this week's My Angular Story. Juan is originally from Argentina and he is currently based in London. 
+Juan Stoppa, Head Of Development at Wealth Dynamix, joins Aaron Frost in this week's My Angular Story. Juan is originally from Argentina and he is currently based in London.
+
+Aaron and Juan discuss Juan's current work at Wealth Dynamix and his involvement with Angular outside of work as well. Juan is looking to start a meetup in London and is looking for other interested parties.  
 
 ### Host: **Aaron Frost**
 
