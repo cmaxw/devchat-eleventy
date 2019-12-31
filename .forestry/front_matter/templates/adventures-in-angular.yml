@@ -40,3 +40,5 @@ fields:
   - podcast
   - adv-in-angular
   label: tags
+pages:
+- src/adv-in-angular/aia-272-adventures-in-angular-still-at-rxjs-live.md
