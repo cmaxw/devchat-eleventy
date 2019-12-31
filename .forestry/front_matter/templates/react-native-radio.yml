@@ -35,3 +35,5 @@ fields:
   - podcast
   - react_native_radio
   label: tags
+pages:
+- src/react-native-radio/rnr-148-whats-in-my-stack.md
