@@ -3,28 +3,6 @@ label: iPhreaks
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-  hidden: true
-  default: layouts/post.njk
-- type: text
-  name: title
-  label: title
-- type: datetime
-  name: date
-  label: date
-  config:
-    export_format: YYYY-MM-DDTHH:mm:ssZZ
-- type: number
-  name: episode_number
-  label: episode_number
-- type: text
-  name: duration
-  label: duration
-- type: text
-  name: audio_url
-  label: audio_url
-- type: text
   name: podcast
   label: podcast
   default: iphreaks
@@ -35,3 +13,8 @@ fields:
   - podcast
   - iphreaks
   label: tags
+- name: podcast_fields
+  type: include
+  config: {}
+  template: podcast
+  label: Podcast Fields
