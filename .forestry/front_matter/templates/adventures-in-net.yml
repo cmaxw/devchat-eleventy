@@ -3,41 +3,19 @@ label: Adventures in .NET
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-  default: layouts/post.njk
-  hidden: true
-- type: text
   name: podcast
   label: podcast
   hidden: true
   description: adventures-in-dotnet
   default: adventures-in-dotnet
-- type: text
-  name: title
-  label: title
-  config:
-    required: true
-- type: datetime
-  name: date
-  label: date
-  config:
-    date_format: ''
-    export_format: YYYY-MM-DDThh:mm:ssZZ
-- type: text
-  name: episode_number
-  label: episode_number
-- type: text
-  name: duration
-  label: duration
-- type: text
-  name: audio_url
-  label: audio_url
-  config:
-    required: true
 - name: tags
   type: tag_list
   default:
   - podcast
   - adventures_in_dotnet
   label: tags
+- name: podcast_fields
+  type: include
+  config: {}
+  template: podcast
+  label: Podcast Fields
