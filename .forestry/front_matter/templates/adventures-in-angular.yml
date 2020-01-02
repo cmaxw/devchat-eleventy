@@ -3,33 +3,6 @@ label: Adventures in Angular
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-  default: layouts/post.njk
-  hidden: true
-- type: text
-  name: title
-  label: title
-  config:
-    required: true
-- type: datetime
-  name: date
-  label: date
-  config:
-    export_format: YYYY-MM-DDTHH:mm:ssZZ
-    required: true
-    display_utc: false
-    time_format: ''
-- type: number
-  name: episode_number
-  label: episode_number
-- type: text
-  name: duration
-  label: duration
-- type: text
-  name: audio_url
-  label: audio_url
-- type: text
   name: podcast
   label: podcast
   hidden: true
@@ -40,5 +13,10 @@ fields:
   - podcast
   - adv-in-angular
   label: tags
+- name: podcast_fields
+  type: include
+  config: {}
+  template: podcast
+  label: Podcast Fields
 pages:
 - src/adv-in-angular/aia-272-adventures-in-angular-still-at-rxjs-live.md
