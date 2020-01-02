@@ -6,9 +6,6 @@ fields:
   name: layout
   label: layout
 - type: text
-  name: podcast
-  label: podcast
-- type: text
   name: title
   label: title
 - type: datetime
@@ -18,11 +15,66 @@ fields:
   name: episode_number
   label: episode_number
 - type: text
-  name: duration
-  label: duration
-- type: text
   name: audio_url
   label: audio_url
-- type: list
-  name: tags
-  label: tags
+- name: duration
+  type: text
+  config:
+    required: false
+  label: duration
+- name: question1
+  type: text
+  config:
+    required: false
+  label: 'Question #1'
+- name: answer1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: 'Answer #1'
+- name: question2
+  type: text
+  config:
+    required: false
+  label: 'Question #2'
+- name: answer2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: 'Answer #2'
+- name: question3
+  type: text
+  config:
+    required: false
+  label: 'Question #3'
+- name: answer3
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: 'Answer #3'
+- name: question4
+  type: text
+  config:
+    required: false
+  label: 'Question #4'
+- name: answer4
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: 'Answer #4'
