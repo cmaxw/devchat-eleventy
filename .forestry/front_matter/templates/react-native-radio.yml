@@ -18,9 +18,6 @@ fields:
 - type: number
   name: episode_number
   label: episode_number
-- type: number
-  name: duration
-  label: duration
 - type: text
   name: audio_url
   label: audio_url
@@ -35,5 +32,10 @@ fields:
   - podcast
   - react_native_radio
   label: tags
+- name: duration
+  type: text
+  config:
+    required: false
+  label: duration
 pages:
 - src/react-native-radio/rnr-148-whats-in-my-stack.md
