@@ -3,25 +3,6 @@ label: React Native Radio
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-  default: layouts/post.njk
-  hidden: true
-- type: text
-  name: title
-  label: title
-- type: datetime
-  name: date
-  label: date
-  config:
-    export_format: YYYY-MM-DDTHH:mm:ssZZ
-- type: number
-  name: episode_number
-  label: episode_number
-- type: text
-  name: audio_url
-  label: audio_url
-- type: text
   name: podcast
   label: podcast
   default: react-native-radio
@@ -32,10 +13,10 @@ fields:
   - podcast
   - react_native_radio
   label: tags
-- name: duration
-  type: text
-  config:
-    required: false
-  label: duration
+- name: podcast_fields
+  type: include
+  config: {}
+  template: podcast
+  label: Podcast Fields
 pages:
 - src/react-native-radio/rnr-148-whats-in-my-stack.md
