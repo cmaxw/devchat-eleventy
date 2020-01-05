@@ -3,6 +3,12 @@ podcast: ruby-rogues
 tags:
 - podcast
 - ruby_rogues
+- location service
+- mobility
+- mapping
+- Ruby
+- Ruby on Rails
+- privacy
 layout: layouts/post.njk
 title: 'RR 445: Location Services with Mithun Dhar'
 date: 2020-01-07T11:00:00+0000
