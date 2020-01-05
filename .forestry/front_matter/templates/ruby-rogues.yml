@@ -20,3 +20,4 @@ fields:
   label: Podcast Fields
 pages:
 - src/ruby-rogues/rr-444-rails-against-the-machine.md
+- src/ruby-rogues/rr-445-location-services-with-mithun-dhar.md
