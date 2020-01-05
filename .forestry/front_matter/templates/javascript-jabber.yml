@@ -35,3 +35,4 @@ fields:
   label: tags
 pages:
 - src/js-jabber/jsj-414-javascript-jabber-still-at-rxjs-live.md
+- src/js-jabber/jsj-415-progressive-web-apps-with-maximiliano-firtman.md
