@@ -19,3 +19,5 @@ fields:
   config: {}
   template: podcast
   label: Podcast Fields
+pages:
+- src/adventures-in-dotnet/net-017-finding-your-focus.md
