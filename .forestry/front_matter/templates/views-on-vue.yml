@@ -20,3 +20,4 @@ fields:
   label: Podcast Fields
 pages:
 - src/views-on-vue/vov-093-vuetensils-with-austin-gil.md
+- src/views-on-vue/vov-094-head-to-toe-development-set-up.md
