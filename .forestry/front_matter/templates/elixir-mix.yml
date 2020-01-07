@@ -20,3 +20,4 @@ fields:
   label: Podcast Fields
 pages:
 - src/elixir-mix/emx-084-beyond-liveview-with-sophie-debenedetto.md
+- src/elixir-mix/emx-085-raik-core-and-partisan-with-mariano-guerra.md
