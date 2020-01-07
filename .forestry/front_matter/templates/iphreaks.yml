@@ -18,3 +18,5 @@ fields:
   config: {}
   template: podcast
   label: Podcast Fields
+pages:
+- src/iphreaks/ips-280-siri-shortcuts-with-christina-moulton.md
