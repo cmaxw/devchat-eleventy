@@ -3,6 +3,7 @@ podcast: adventures-in-dotnet
 tags:
 - " podcast"
 - adventures_in_dotnet
+- podcast
 layout: layouts/post.njk
 title: ".NET 017: Finding Your Focus"
 date: 2020-01-07T18:52:00+0000
