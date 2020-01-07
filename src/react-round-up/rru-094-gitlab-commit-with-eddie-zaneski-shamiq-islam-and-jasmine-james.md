@@ -27,6 +27,10 @@ In this episode of React Round Up Charles Max Wood interviews speakers at GitLab
 
 Eddie, Shamiq, and Jasmine give the 5 min "elevator pitch" for the talks they gave at the conference. 
 
+In his talk, Eddie deploys a fake startup going through the whole pipeline: building the application, containerizing an application and shipping it off  to Kubernetes.
+
+Shamiq, talks about how in conventional approach to security is to consider it at the very end after all developer have wrapped up their work. 
+
 **Panelists**
 
 * Charles Max Wood
