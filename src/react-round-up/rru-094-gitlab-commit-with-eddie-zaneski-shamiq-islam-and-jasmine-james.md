@@ -2,6 +2,8 @@
 podcast: react-round-up
 layout: layouts/post.njk
 tags:
+- GitLab_Commit
+- Jasmine James
 - 'Shamiq İslam '
 - Eddie Zaneski
 - react_round_up
