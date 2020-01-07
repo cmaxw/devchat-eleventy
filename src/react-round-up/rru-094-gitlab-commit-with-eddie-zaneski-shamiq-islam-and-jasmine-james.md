@@ -2,6 +2,8 @@
 podcast: react-round-up
 layout: layouts/post.njk
 tags:
+- 'Shamiq İslam '
+- Eddie Zaneski
 - react_round_up
 - podcast
 title: 'RRU 094: GitLab Commit with Eddie Zaneski, Shamiq Islam, and Jasmine James'
