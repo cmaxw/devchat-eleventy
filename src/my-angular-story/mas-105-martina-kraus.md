@@ -62,3 +62,4 @@ Martina then talks about some of the things she is excited about in Angular righ
 ###### Martina Kraus
 
 * [https://www.preethikasireddy.com/](https://www.preethikasireddy.com/ "https://www.preethikasireddy.com/")
+* Find something that scares you and do it
