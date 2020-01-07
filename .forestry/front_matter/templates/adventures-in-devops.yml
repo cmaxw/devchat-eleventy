@@ -18,3 +18,5 @@ fields:
   config: {}
   template: podcast
   label: Podcast Fields
+pages:
+- src/adventures-in-devops/devops-019-devops-next-generation-with-lance-albertson.md
