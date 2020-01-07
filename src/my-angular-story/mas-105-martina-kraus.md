@@ -26,87 +26,7 @@ Martina mentions that her Angular Conference experience was the ngVikings and sh
 
 Martina also shares her Google Developer Experience as well. Martina believes developers should work on improving their strengths. For example, if a developer does not like to give talks at the conferences then maybe she should focus on writing blog pieces instead. 
 
-Martina then talks about some of the things she is excited about in Angular right now. ￼One of them is Angular Ivy and Martina is currently in the process of writing a blog piece on Angular Ivy. Aaron and Martina both agree that developers should try the Ivy update and see if their app works.  
-
-layouts/post.njk
-
-TITLE
-
-￼
-
-MAS 105: Martina Kraus
-
-DATE
-
-￼
-
-01/07/2020 2:00 PM
-
-EPISODE NUMBER
-
-￼
-
-105
-
-AUDIO URL
-
-￼
-
-[https://media.devchat.tv/my-angular-story/MAS_105_Martina_Kraus.mp3](https://media.devchat.tv/my-angular-story/MAS_105_Martina_Kraus.mp3 "https://media.devchat.tv/my-angular-story/MAS_105_Martina_Kraus.mp3")
-
-DURATION
-
-￼
-
-34:42
-
-QUESTION #1
-
-￼
-
-Question #1 goes here...
-
-ANSWER #1
-
-￼
-
-Answer #1 goes here...
-
-QUESTION #2
-
-￼
-
-Question #2 goes here...
-
-ANSWER #2
-
-￼
-
-Answer #2 goes here...
-
-QUESTION #3
-
-￼
-
-Question #3 goes here...
-
-ANSWER #3
-
-￼
-
-Answer #3 goes here...
-
-QUESTION #4
-
-￼
-
-Question #4 goes here...
-
-ANSWER #4
-
-￼
-
-Answer #4 goes here...
+Martina then talks about some of the things she is excited about in Angular right now. ￼One of them is Angular Ivy and Martina is currently in the process of writing a blog piece on Angular Ivy. Aaron and Martina both agree that developers should try the Ivy update and see if their app works.
 
 ### Host: **Aaron Frost**
 
@@ -132,11 +52,13 @@ Answer #4 goes here...
 
 ### Picks
 
-###### Martina Kraus**:**
+###### Martina Kraus
 
-* 
+* [https://www.preethikasireddy.com/](https://www.preethikasireddy.com/ "https://www.preethikasireddy.com/")
 
 **Aaron Frost:**
 
+* Control Value Accessor Interface in Angular
+* Pinewood Derby
 * [Hero Devs Scholarship Program](https://medium.com/@ngconf/diversity-scholarships-2020-d57de1d3f7fa "ng-conf Diversity Scholarships")
 * [https://www.youtube.com/watch?v=nlD9JYP8u5E](https://www.youtube.com/watch?v=nlD9JYP8u5E "https://www.youtube.com/watch?v=nlD9JYP8u5E")
