@@ -62,7 +62,9 @@ They finish by sharing the physical set-ups in their offices. They discuss furni
 **Charles Max Wood:**
 
 * [A Christmas Story](https://www.imdb.com/title/tt0085334/)
-* Claymation Christmas Movies
+* [Rudolf the Red-Nosed Reindeer](https://www.imdb.com/title/tt0058536/)
+* [The Little Drummer Boy](https://www.imdb.com/title/tt0063230/?ref_=fn_al_tt_1)
+* [Santa Claus Is Comin' to Town](https://www.imdb.com/title/tt0066327/?ref_=fn_al_tt_5)
 * [The Ultimate Gift](https://www.imdb.com/title/tt0482629/)
 
 **Lindsay Wardell:**
