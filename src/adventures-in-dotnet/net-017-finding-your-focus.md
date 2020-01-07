@@ -1,7 +1,6 @@
 ---
 podcast: adventures-in-dotnet
 tags:
-- " podcast"
 - adventures_in_dotnet
 - podcast
 layout: layouts/post.njk
