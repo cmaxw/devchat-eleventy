@@ -4,7 +4,7 @@ layout: layouts/post.njk
 tags:
 - react_round_up
 - podcast
-title: 'RRU 094: GitLab Commit with Eddie Zaneski, Shamiq Islam and Jasmine James'
+title: 'RRU 094: GitLab Commit with Eddie Zaneski, Shamiq Islam, and Jasmine James'
 date: 2020-01-07T11:00:00+0000
 episode_number: '94'
 audio_url: https://media.devchat.tv/reactroundup/RRU_094_Gitlab.mp3
@@ -34,6 +34,7 @@ In this episode of React Round Up Charles Max Wood interviews speakers at GitLab
 **Sponsors**
 
 * [NxPlaybook.com](http://nxplaybook.com/) - Use code ‘NXDEVCHAT’ for 50% off the official [https://nx.dev/React](https://nx.dev/React "https://nx.dev/React")Advanced Workspaces course!
+* ABOUT YOU | [aboutyou.com/jobs](http://aboutyou.com/jobs)
 * [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
 * [Cachefly](https://www.cachefly.com/)
 
