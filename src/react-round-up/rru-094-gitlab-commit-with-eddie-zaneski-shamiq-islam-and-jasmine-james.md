@@ -39,12 +39,11 @@ In this episode of React Round Up Charles Max Wood interviews speakers at GitLab
 
 * [NxPlaybook.com](http://nxplaybook.com/) - Use code ‘NXDEVCHAT’ for 50% off the official [https://nx.dev/React](https://nx.dev/React "https://nx.dev/React")Advanced Workspaces course!
 * ABOUT YOU | [aboutyou.com/jobs](http://aboutyou.com/jobs)
-* [Sentry](http://sentry.io/) use the code "devchat" for 2 months free on Sentry's small plan
 * [Cachefly](https://www.cachefly.com/)
 
 **Links**
 
 * [Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes by Eddie Zaneski](https://www.youtube.com/watch?v=-shvwiBwFVI)
 * [Hacktoberfest presented by DigitalOcean and DEV](https://hacktoberfest.digitalocean.com/)
-* [Commit Brooklyn 2019: Closing the SDLC Loop - A Security Panel by Shamiq Islam](https://www.youtube.com/watch?v=IxjjsU_2tyU&list=PLFGfElNsQthaaqEAb6ceZvYnZgzSM50Kg&index=10)
+* [Commit Brooklyn 2019: Closing the SDLC Loop - A Security Panel by Shamiq Islam]()
 * [Commit Brooklyn 2019: How Delta Became Truly Cloud Native - Avoiding the Vendor-Lock by Jasmine James](https://www.youtube.com/watch?v=zV_hFcxoN8I "https://www.youtube.com/watch?v=zV_hFcxoN8I")
