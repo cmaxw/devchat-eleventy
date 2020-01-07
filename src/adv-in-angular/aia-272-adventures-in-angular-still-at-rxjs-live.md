@@ -11,10 +11,19 @@ tags:
 - Dean Radcliffe
 - Joe Eames
 title: 'AiA 272: Adventures in Angular Still at RxJS Live'
-date: 2020-01-07T11:00:00+0000
+date: 2020-01-07T11:00:00.000+00:00
 episode_number: 272
 duration: '40:07'
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_272_RxJS_Live.mp3
+question1: How many operators does the average developer usually need to know?
+answer1: '20'
+question2: What is the DevEd Podcast?
+answer2: 'A DevchatTV style podcast that dives into developer education. '
+question3: What makes Thinkster different from other online education?
+answer3: 'Its more than watching video and trying to replicate it, they have hands
+  on training and terrific classes. '
+question4: What are the 3 approaches to error handling?
+answer4: " Retry, Catch and Rethrow and, Catch and Replace"
 
 ---
 In this episode of Adventures in Angular Charles Max Wood continues interviewing speakers at RxJS Live. First, he interviews Mike Ryan and Sam Julien. They gave a talk about Groupby, a little known operator. They overview the common problems other mapping operators have and how Groupby addresses these problems. The discuss with Charles where these types of operators are most commonly used and use an analogy to explain the different mapping operators.
