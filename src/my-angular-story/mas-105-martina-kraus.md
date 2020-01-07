@@ -3,6 +3,8 @@ podcast: my-angular-story
 tags:
 - my_angular_story
 - podcast
+- Martina Kraus
+- Aaron Frost
 layout: layouts/post.njk
 title: 'MAS 105: Martina Kraus'
 date: 2020-01-07T11:00:00+0000
@@ -14,8 +16,8 @@ answer1: 'Angular 8. Angular 8 is the latest major release, released in May 2019
 question2: what is Angular Ivy?
 answer2: Ivy is the code name for Angular's next-generation compilation and rendering
   pipeline.
-question3: ''
-answer3: ''
+question3: What is Martina Kraus' focus these days?
+answer3: 'Martina Kraus is focusing on Angular Ivy and web assembly. '
 question4: ''
 answer4: ''
 
