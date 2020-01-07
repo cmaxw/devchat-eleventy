@@ -52,13 +52,13 @@ Martina then talks about some of the things she is excited about in Angular righ
 
 ### Picks
 
-###### Martina Kraus
-
-* [https://www.preethikasireddy.com/](https://www.preethikasireddy.com/ "https://www.preethikasireddy.com/")
-
 **Aaron Frost:**
 
 * Control Value Accessor Interface in Angular
 * Pinewood Derby
 * [Hero Devs Scholarship Program](https://medium.com/@ngconf/diversity-scholarships-2020-d57de1d3f7fa "ng-conf Diversity Scholarships")
 * [https://www.youtube.com/watch?v=nlD9JYP8u5E](https://www.youtube.com/watch?v=nlD9JYP8u5E "https://www.youtube.com/watch?v=nlD9JYP8u5E")
+
+###### Martina Kraus
+
+* [https://www.preethikasireddy.com/](https://www.preethikasireddy.com/ "https://www.preethikasireddy.com/")
