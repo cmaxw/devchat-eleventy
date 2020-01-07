@@ -15,3 +15,5 @@ fields:
   config: {}
   template: podcast
   label: Podcast Fields
+pages:
+- src/react-round-up/rru-094-gitlab-commit-with-eddie-zaneski-shamiq-islam-and-jasmine-james.md
