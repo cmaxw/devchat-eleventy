@@ -2,16 +2,10 @@
 layout: layouts/post.njk
 podcast: adv-in-angular
 tags:
+- adv_in_angular
 - podcast
-- adv-in-angular
-- Charles Max Wood
-- 'Mike Ryan '
-- Sam Julien
-- Tracy Lee
-- Dean Radcliffe
-- Joe Eames
 title: 'AiA 272: Adventures in Angular Still at RxJS Live'
-date: 2020-01-07T11:00:00+0000
+date: 2020-01-07T18:00:00+0000
 episode_number: 272
 duration: '40:07'
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_272_RxJS_Live.mp3
