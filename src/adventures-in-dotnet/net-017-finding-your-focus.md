@@ -5,7 +5,7 @@ tags:
 - " podcast"
 layout: layouts/post.njk
 title: ".NET 017: Finding Your Focus"
-date: 2020-01-07T18:16:00+0000
+date: 2020-01-07T18:21:00+0000
 episode_number: '017'
 audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_017_Panel.mp3
 duration: '42:42'
