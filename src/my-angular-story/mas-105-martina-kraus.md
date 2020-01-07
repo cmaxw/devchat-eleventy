@@ -19,11 +19,13 @@ question4: ''
 answer4: ''
 
 ---
-Martina Kraus is a Google Developer Expert, consultant, and trainer. She joins Aaron on this week's My Angular Story to share her experiences with the Angular community. Both Aaron and Martina agree that Angular community is very accepting and friendly. 
+Martina Kraus is a Google Developer Expert, consultant, and trainer. She joins Aaron on this week's My Angular Story to share her experiences with the Angular community. Both Aaron and Martina agree that Angular community is very accepting and friendly.
 
-Martina mentions that her Angular Conference experience was the ngVikings and she felt very included and welcome the whole time she was there. 
+Martina mentions that her Angular Conference experience was the ngVikings and she felt very included and welcome the whole time she was there.
 
-￼
+Martina also shares her Google Developer Experience as well. Martina believes developers should work on improving their strengths. For example if a developer does not like to give talks at the conferences then maybe focus on writing how to blog pieces instead. 
+
+Martina then talks about some of the things she is excited about in Angular right now. ￼One of them is Angular Ivy and Martina is currently in the process of writing a blog piece on Angular Ivy. 
 
 layouts/post.njk
 
@@ -49,7 +51,7 @@ AUDIO URL
 
 ￼
 
- [https://media.devchat.tv/my-angular-story/MAS_105_Martina_Kraus.mp3](https://media.devchat.tv/my-angular-story/MAS_105_Martina_Kraus.mp3 "https://media.devchat.tv/my-angular-story/MAS_105_Martina_Kraus.mp3")
+[https://media.devchat.tv/my-angular-story/MAS_105_Martina_Kraus.mp3](https://media.devchat.tv/my-angular-story/MAS_105_Martina_Kraus.mp3 "https://media.devchat.tv/my-angular-story/MAS_105_Martina_Kraus.mp3")
 
 DURATION
 
