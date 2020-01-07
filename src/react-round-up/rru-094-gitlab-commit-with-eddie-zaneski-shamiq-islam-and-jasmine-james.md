@@ -29,7 +29,7 @@ Eddie, Shamiq, and Jasmine give the 5 min "elevator pitch" for the talks they ga
 
 In his talk, Eddie deploys a fake startup going through the whole pipeline: building the application, containerizing an application and shipping it off to Kubernetes.
 
-Shamiq, talks about how the conventional approach to security is to consider it at the very end after all developer has wrapped up their work.
+Shamiq, talks about how the conventional approach to security is to consider it at the very end after all developer has wrapped up their work and why that should change.
 
 Jasmine explains more in-depth what it means for a big corporation like Delta to be in a Vendor Lock.
 
