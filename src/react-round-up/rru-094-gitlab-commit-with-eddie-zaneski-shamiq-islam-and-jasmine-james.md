@@ -23,7 +23,7 @@ question4: ''
 answer4: ''
 
 ---
-In this episode of React Round Up Charles Max Wood interviews speakers at GitLab Commit 2019. Eddie Zaneski from Digital Ocean talks about  "Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes", Shamiq Islam from Coinbase talks about  "Closing the SDLC Loop- Automating Security" and Jasmine James, from Delta Air Lines discusses " How Delta Became Cloud Native".
+In this episode of React Round Up Charles Max Wood interviews speakers at GitLab Commit 2019. Eddie Zaneski from Digital Ocean talks about  "Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes", Shamiq Islam from Coinbase talks about  "Closing the SDLC Loop- Automating Security" and Jasmine James, from Delta AirLines, discusses " How Delta Became Cloud Native".
 
 **Panelists**
 
