@@ -18,3 +18,5 @@ fields:
   config: {}
   template: podcast
   label: Podcast Fields
+pages:
+- src/freelancers/tfs-348-how-to-get-into-freelancing.md
