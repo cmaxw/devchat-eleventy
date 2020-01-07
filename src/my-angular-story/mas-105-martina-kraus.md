@@ -23,7 +23,7 @@ Martina Kraus is a Google Developer Expert, consultant, and trainer. She joins A
 
 Martina mentions that her Angular Conference experience was the ngVikings and she felt very included and welcome the whole time she was there.
 
-Martina also shares her Google Developer Experience as well. Martina believes developers should work on improving their strengths. For example if a developer does not like to give talks at the conferences then maybe focus on writing how to blog pieces instead. 
+Martina also shares her Google Developer Experience as well. Martina believes developers should work on improving their strengths. For example, if a developer does not like to give talks at the conferences then maybe she should focus on writing blog pieces instead. 
 
 Martina then talks about some of the things she is excited about in Angular right now. ￼One of them is Angular Ivy and Martina is currently in the process of writing a blog piece on Angular Ivy. Aaron and Martina both agree that developers should try the Ivy update and see if their app works.  
 
