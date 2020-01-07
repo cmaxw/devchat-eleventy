@@ -31,7 +31,7 @@ In his talk, Eddie deploys a fake startup going through the whole pipeline: buil
 
 Shamiq, talks about how the conventional approach to security is to consider it at the very end after all developer has wrapped up their work.
 
-Jasmine explains more in-depth to what it means for a big corporation like Delta to be in a Vendor Lock.
+Jasmine explains more in-depth what it means for a big corporation like Delta to be in a Vendor Lock.
 
 **Panelists**
 
