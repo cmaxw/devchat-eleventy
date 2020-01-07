@@ -47,6 +47,12 @@ The panel asks how much work is managed by the students. Lance explains how open
 
 * [CacheFly](https://www.cachefly.com/)
 
+  ## **____________________________________________________________**
+
+  **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
+
+  ## **____________________________________________________________**
+
 ### **Links**
 
 * [https://osuosl.org/](https://osuosl.org/ "https://osuosl.org/")
