@@ -25,7 +25,7 @@ Martina mentions that her Angular Conference experience was the ngVikings and sh
 
 Martina also shares her Google Developer Experience as well. Martina believes developers should work on improving their strengths. For example if a developer does not like to give talks at the conferences then maybe focus on writing how to blog pieces instead. 
 
-Martina then talks about some of the things she is excited about in Angular right now. ￼One of them is Angular Ivy and Martina is currently in the process of writing a blog piece on Angular Ivy. 
+Martina then talks about some of the things she is excited about in Angular right now. ￼One of them is Angular Ivy and Martina is currently in the process of writing a blog piece on Angular Ivy. Aaron and Martina both agree that developers should try the Ivy update and see if their app works.  
 
 layouts/post.njk
 
