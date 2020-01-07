@@ -9,10 +9,11 @@ date: 2020-01-07T11:00:00+0000
 episode_number: '105'
 audio_url: " https://media.devchat.tv/my-angular-story/MAS_105_Martina_Kraus.mp3"
 duration: '34:42'
-question1: ''
-answer1: ''
-question2: ''
-answer2: ''
+question1: What is the latest Angular version?
+answer1: 'Angular 8. Angular 8 is the latest major release, released in May 2019. '
+question2: what is Angular Ivy?
+answer2: Ivy is the code name for Angular's next-generation compilation and rendering
+  pipeline.
 question3: ''
 answer3: ''
 question4: ''
