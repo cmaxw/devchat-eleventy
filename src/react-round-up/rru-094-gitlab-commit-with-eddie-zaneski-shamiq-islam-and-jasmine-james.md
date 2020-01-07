@@ -9,7 +9,7 @@ tags:
 - react_round_up
 - podcast
 title: 'RRU 094: GitLab Commit with Eddie Zaneski, Shamiq Islam, and Jasmine James'
-date: 2020-01-07T11:00:00+0000
+date: 2020-01-07T11:44:00+0000
 episode_number: '94'
 audio_url: https://media.devchat.tv/reactroundup/RRU_094_Gitlab.mp3
 duration: '54:08'
@@ -24,6 +24,8 @@ answer4: ''
 
 ---
 In this episode of React Round Up Charles Max Wood interviews speakers at GitLab Commit 2019. Eddie Zaneski from Digital Ocean talks about  "Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes", Shamiq Islam from Coinbase talks about  "Closing the SDLC Loop- Automating Security" and Jasmine James, from Delta AirLines, discusses " How Delta Became Cloud Native".
+
+Eddie, Shma
 
 **Panelists**
 
