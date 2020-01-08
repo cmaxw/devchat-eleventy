@@ -8,7 +8,7 @@ tags:
 - Eddie Zaneski
 - react_round_up
 - podcast
-title: 'RRU 094: GitLab Commit with Eddie Zaneski, Shamiq Islam, and Jasmine James'
+title: 'RRU 094: React Round Up Live at GitLab Commit 2019'
 date: 2020-01-07T20:15:00+0000
 episode_number: '94'
 audio_url: https://media.devchat.tv/reactroundup/RRU_094_Gitlab.mp3
