@@ -28,8 +28,7 @@ Shamiq, talks about how the conventional approach to security is to consider it 
 
 Jasmine explains more in-depth what it means for a big corporation like Delta to be in a Vendor Lock.
 
-###   
-Sponsors
+### Sponsors
 
 * [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit
 * [Cloud 66 - Pain Free Rails Deployments](https://cloud66.com/rails?utm_source=-&utm_medium=-&utm_campaign=ruby-rogues) Try Cloud 66 Rails for FREE & get $100 of free credits with promo code RubyRogues-19
