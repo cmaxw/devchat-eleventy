@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: ruby-rogues
 title: RR 442:Ruby Rogues Live at GitLab Commit 2019
-date: 2019-12-17T10:00:39.255+00:00
+date: 2020-01-08T20:09:39+0000
 episode_number: '442'
 duration: '53:48'
 audio_url: https://devchat.cachefly.net/rubyrogues/RR_442_Eddie_Shamek_Jasmine.mp3
