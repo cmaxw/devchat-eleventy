@@ -33,16 +33,6 @@ Shamiq, talks about how the conventional approach to security is to consider it 
 
 Jasmine explains more in-depth what it means for a big corporation like Delta to be in a Vendor Lock.
 
-**Panelists**
-
-* Charles Max Wood
-
-**Guest**
-
-* Eddie Zaneski
-* Shamiq Islam
-* Jasmine James
-
 **Sponsors**
 
 * [NxPlaybook.com](http://nxplaybook.com/) - Use code ‘NXDEVCHAT’ for 50% off the official [https://nx.dev/React](https://nx.dev/React "https://nx.dev/React") Advanced Workspaces course!
