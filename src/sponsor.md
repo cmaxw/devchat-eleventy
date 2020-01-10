@@ -19,17 +19,29 @@ Email [chuck@devchat.tv](mailto:chuck@devchat.tv), or [click here](https://meeti
 
 ***
 
-If you're trying to find developers who are striving for excellence and looking for the best resources and tools, you're in the right place.
+Podcast sponsorships can help you reach your target markets at an incredible ROI. To understand how it works, you need to understand how people by solutions to their programming problems.
 
-Our mission is to produce a podcast for every programming community that leads them to build successful careers and meaningful lives.
+Most people buy solutions when they have a problem that causes them enough pain to take action. (Yes, some buy proactively because they're aware that they'll likely run into that pain. This approach works for them too.)
 
-We only promote brands and products that help developers grow success in their careers or lead better lives. We don't compromise on our mission or our listeners' trust for sponsorships.
+When they're thinking about or discussing the problem, you want to have positioned yourself as the solution already.
 
-Our podcast listeners range from new programmers and DevOps engineers learning the craft up to Directors and CTO's. We receive a steady stream of "thank you"s from our listeners who are finding better jobs, learning new skills, and building software they care about.
+For example, when a bug is hard to track down on production systems, having had a repeated message played that tells them that "debugging in production doesn't have to be a pain. Ditch the tail and grep commands and get Sentry!" will play back when they start talking or thinking about it.
 
-Our podcasts topics include front-end and back-end development languages and frameworks, mobile development paradigms, careers, learning, and DevOps.
+Another example of this is when my mattress started causing my wife and I back pain. We mentioned it to my father-in-law, who told us to get a Casper mattress.
 
-This list is sorted by listenership.
+It turns out&mdash;I asked him over Christmas 2019&mdash;he has never slept on a Casper and doesn't know anyone who owns one. But, he'd heard about it repeatedly on talk radio.
+
+To get the message out to our audiences, we recommend you get the initial repetitions in over 3-4 episodes, then skip 1 week and sponsor the next. Then follow up every 3-4 weeks. This leaves our audiences having had your messages reinforced within that last few weeks.
+
+If you couple this with newsletters they subscribe to, ads on social media and search engines they use, and messages on websites they go to, you'll increase the effectiveness of your outreach.
+
+For a more thorough walkthrough, email [chuck@devchat.tv](mailto:chuck@devchat.tv), or [click here](https://meetings.hubspot.com/chuck27/sponsorship-call) to schedule a video/Zoom call.
+
+***
+
+## Podcasts and Newsletters
+
+This list is sorted by listenership and includes some resources not managed by Devchat.tv.
 
 <form action="../">
 <div class="form-group">
