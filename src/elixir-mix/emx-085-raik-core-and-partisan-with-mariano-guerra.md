@@ -8,8 +8,8 @@ tags:
 - Sophie DeBenedetto
 - Mariano Guerra
 layout: layouts/post.njk
-title: 'EMx 085: Raik Core and Partisan with Mariano Guerra'
-date: 2020-01-07T11:00:00+0000
+title: 'EMx 085: Riak Core and Partisan with Mariano Guerra'
+date: 2020-01-07T11:00:00.000+00:00
 episode_number: '085'
 audio_url: https://media.devchat.tv/elixir-mix/EMx_085_Mariano_Guerra.mp3
 duration: '48:32'
