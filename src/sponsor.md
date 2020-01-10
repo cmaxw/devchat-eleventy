@@ -13,7 +13,7 @@ tags:
   - page
 ---
 
-Do you need help reaching over 100,000 developers about your product?
+Reach thousands of developers in targeted development communities!
 
 Email [chuck@devchat.tv](mailto:chuck@devchat.tv), or [click here](https://meetings.hubspot.com/chuck27/sponsorship-call) to schedule a video/Zoom call.
 
