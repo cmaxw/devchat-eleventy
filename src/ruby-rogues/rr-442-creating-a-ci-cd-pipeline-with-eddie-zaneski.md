@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 podcast: ruby-rogues
 title: RR 442:Ruby Rogues Live at GitLab Commit 2019
-date: 2020-01-08T20:09:39+0000
+date: 2020-01-06T20:09:39+0000
 episode_number: '442'
 duration: '53:48'
 audio_url: https://devchat.cachefly.net/rubyrogues/RR_442_Eddie_Shamek_Jasmine.mp3
@@ -47,4 +47,4 @@ Jasmine explains more in-depth what it means for a big corporation like Delta to
 * [Commit Brooklyn 2019: Closing the SDLC Loop - A Security Panel  by  Shamiq Islam](https://www.youtube.com/watch?v=IxjjsU_2tyU&list=PLFGfElNsQthaaqEAb6ceZvYnZgzSM50Kg&index=10)
 * [Commit Brooklyn 2019: How Delta Became Truly Cloud Native - Avoiding the Vendor-Lock](https://www.youtube.com/watch?v=zV_hFcxoN8I&list=PLFGfElNsQthaaqEAb6ceZvYnZgzSM50Kg&index=3&t=0s)  by Jasmine James
 
-### 
+###
