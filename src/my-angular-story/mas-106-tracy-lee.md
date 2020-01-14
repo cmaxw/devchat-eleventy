@@ -21,7 +21,9 @@ question4: ''
 answer4: ''
 
 ---
-Tracy Lee, Co-Founder at This Dot Labs joins Aaron on this week's My Angular Story to share her coding journey.
+Tracy Lee, is a Google Developer Expert, and Co-Founder of This Dot Labs and This Dot Media joins Aaron on this week's My Angular Story to share her coding journey.
+
+Tracy majored in marketing and was interested in coding because her boyfriend was a developer. She also loves building communities and has helped build 12 companies in the past 14 years. Her main interests are coding in Angular, React, and Ember.
 
 ### Host: **Aaron Frost**
 
