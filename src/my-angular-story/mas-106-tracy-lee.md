@@ -11,8 +11,9 @@ date: 2020-01-14T11:00:00+0000
 episode_number: '106'
 audio_url: https://devchat.cachefly.net/my-angular-story/MAS_106_Tracy_Lee.mp3
 duration: '32:07'
-question1: ''
-answer1: ''
+question1: 'What does Tracy Lee''s companies work on these days? '
+answer1: 'One area  This Dot Labs help out companies is by helping out optimization
+  of call scripts. '
 question2: ''
 answer2: ''
 question3: ''
