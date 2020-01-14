@@ -19,7 +19,7 @@ question4: How do you reduce stress?
 answer4: Mindfulness and Meditation
 
 ---
-In this episode of The Freelancers Show the panel interviews Mike Volkin. Mike explains what neuroplasticity is and how it can make you a better entrepreneur. He outlines 5 tips to increase your neuroplasticity. The first tip is to get enough sleep. They discuss ways to make sure you get enough sleep and how to wake up the right way.
+In this episode of The Freelancers Show the panel interviews Mike Volkin. Mike explains what neuroplasticity is and how it can make you a better entrepreneur. He outlines five tips to increase your neuroplasticity. The first tip is to get enough sleep. They discuss ways to make sure you get enough sleep and how to wake up the right way.
 
 The second tip is to stand up or kneel while working. They discuss ways to do this, setting a timer, using standing mats and kneeling chairs. Tip number three is continuous learning. Mike explains that it doesn’t have to be something for your business, it can be anything that makes you happy. The panel shares some of their hobbies and discusses time management and the importance of setting goals.
 
