@@ -11,7 +11,7 @@ tags:
 - JavaScript
 - mobile web development
 title: 'JSJ 415: Progressive Web Apps with Maximiliano Firtman'
-date: 2020-01-07T11:00:00Z
+date: 2020-01-07T11:00:00.000+00:00
 episode_number: 415
 duration: '39:43'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_415_Maximiliano_Firtman.mp3
@@ -50,7 +50,7 @@ Progressive web apps are a set of best practices to create web apps that are ins
 
 **Steve Edwards:**
 
-* [The Club](https://www.imdb.com/title/tt10833132/)
+* [The Club](https://en.wikipedia.org/wiki/The_Club_(automotive))
 
 **Maximiliano Firtman:**
 
