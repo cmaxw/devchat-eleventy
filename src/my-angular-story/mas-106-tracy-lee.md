@@ -53,6 +53,8 @@ In her free time, she runs Venture Hacked with the mission to help create relati
 
 **Aaron Frost:**
 
-* CBS Survivor
+* [CBS Survivor](https://www.cbs.com/shows/survivor/)
 
 ###### Tracy Lee:
+
+* 
