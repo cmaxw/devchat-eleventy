@@ -4,7 +4,7 @@ tags:
 - podcast
 - freelancers
 layout: layouts/post.njk
-title: 'TFS 349: The Nueroplastic Entrepreneur with Mike Volkin'
+title: 'TFS 349: The Neuroplastic Entrepreneur with Mike Volkin'
 date: 2020-01-14T11:00:00+0000
 episode_number: '349'
 audio_url: https://media.devchat.tv/freelancers/TFS_349_Mike_Volkin.mp3
