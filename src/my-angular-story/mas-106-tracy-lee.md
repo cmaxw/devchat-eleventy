@@ -57,4 +57,4 @@ In her free time, she runs Venture Hacked with the mission to help create relati
 
 ###### Tracy Lee:
 
-* Scan-witch
+* Scanwich
