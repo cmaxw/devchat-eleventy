@@ -25,6 +25,8 @@ Tracy Lee, is a Google Developer Expert, and Co-Founder of This Dot Labs and Thi
 
 Tracy majored in marketing and was interested in coding because her boyfriend was a developer. She also loves building communities and has helped build 12 companies in the past 14 years. Her main interests are coding in Angular, React, and Ember.
 
+In her free time, she runs Venture Hacked with the mission to help create relationships between startups and investors as well as give talks at conferences on her coding adventures and enjoys pairing with friends.
+
 ### Host: **Aaron Frost**
 
 ### Joined By Special Guest: **Martina Kraus**
