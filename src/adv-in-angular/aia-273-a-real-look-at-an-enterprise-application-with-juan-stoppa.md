@@ -3,9 +3,10 @@ podcast: adv-in-angular
 tags:
 - 'adv_in_angular '
 - podcast
+- adv_in_angular
 layout: layouts/post.njk
 title: 'AiA 273: A Real Look at an Enterprise Application with Juan Stoppa'
-date: 2020-01-14T16:49:00+0000
+date: 2020-01-14T19:35:00+0000
 episode_number: '273'
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_273_Juan_Stoppa.mp3
 duration: '50:50'
