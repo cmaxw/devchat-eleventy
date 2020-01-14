@@ -9,7 +9,7 @@ tags:
 - Austin Gil
 - Mirjam Bäuerlein
 layout: layouts/post.njk
-title: 'VoV 095: New to Vue with Mirjam Bäuerlein'
+title: 'VoV 095: New to Vue with Mirjam Bauerlein'
 date: 2020-01-14T11:00:00+0000
 episode_number: '095'
 audio_url: https://media.devchat.tv/viewsonvue/VoV_095_Mirjam_Bauerlein.mp3
