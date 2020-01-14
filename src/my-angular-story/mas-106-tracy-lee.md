@@ -30,7 +30,7 @@ In her free time, she runs Venture Hacked with the mission to help create relati
 
 ### Host: **Aaron Frost**
 
-### Joined By Special Guest: **Martina Kraus**
+### Joined By Special Guest: **Tracy Lee**
 
 ## **My Angular Story is produced by DevChat.TV in partnership with Hero Devs.**
 
@@ -56,6 +56,6 @@ In her free time, she runs Venture Hacked with the mission to help create relati
 
 * [CBS Survivor](https://www.cbs.com/shows/survivor/)
 
-###### Tracy Lee:
+##### Tracy Lee:
 
 * Scanwich (Scandinavian Sandwitch)
