@@ -15,14 +15,17 @@ date: 2020-01-21T11:00:00+0000
 episode_number: '096'
 audio_url: https://media.devchat.tv/reactroundup/RRU_096_RXJS_Live.mp3
 duration: '39:15'
-question1: ''
-answer1: ''
-question2: ''
-answer2: ''
-question3: ''
-answer3: ''
-question4: ''
-answer4: ''
+question1: How many operators does the average developer usually need to know?
+answer1: " 20"
+question2: What is the DevEd Podcast?
+answer2: A DevchatTV style podcast that dives into developer education.
+question3: What makes Thinkster different from other online education?
+answer3: "Its more than watching video and trying to replicate it, they have hands
+  on training and terrific classes. \n"
+question4: What are the 3 approaches to error handling?
+answer4: 'Retry, Catch and Rethrow and, Catch and Replace
+
+'
 
 ---
 In this episode of React Native Radio Charles Max Wood continues interviewing speakers at RxJS Live. First, he interviews Mike Ryan and Sam Julien. They gave a talk about Groupby, a little known operator. They overview the common problems other mapping operators have and how Groupby addresses these problems. The discuss with Charles where these types of operators are most commonly used and use an analogy to explain the different mapping operators.
