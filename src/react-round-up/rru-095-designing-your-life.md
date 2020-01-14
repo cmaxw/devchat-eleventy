@@ -1,9 +1,11 @@
 ---
 podcast: react-round-up
 layout: layouts/post.njk
-tags: []
+tags:
+- podcast
+- react_round_up
 title: 'RRU 095:  Designing Your Life'
-date: 2020-01-14T11:00:00+0000
+date: 2020-01-14T16:50:00+0000
 episode_number: '095'
 audio_url: https://media.devchat.tv/reactroundup/RRU_095_Charles_Max_Wood.mp3
 duration: '28:48'
