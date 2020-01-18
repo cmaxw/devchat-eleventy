@@ -16,7 +16,7 @@ tags:
 
 If you'd like to be a guest on one of our podcasts, the process is pretty simple!
 
-If you have a topic that you think would pay off for developers or devops engineers, email (team@devchat.tv)[mailto:team@devchat.tv] and let us know what you'd like to talk about.
+If you have a topic that you think would pay off for developers or devops engineers, email [team@devchat.tv](mailto:team@devchat.tv) and let us know what you'd like to talk about.
 
 Here are a few ideas about what make great topics:
 
@@ -30,6 +30,6 @@ Here are a few more concrete examples:
 * If you've vastly improved SEO on your website, come talk to us about how developers can achieve the same thing for their employers.
 * If you're image resizing software or provide CI/CD pipelines or system security, come talk about the first steps developers can implement to do better with image resizing, CI/CD, or system security on their own.
 
-If you're interested in being or referring a guest, email team@devchat.tv and explain what the show will be about and we'll evaluate your request and let you know how to get scheduled.
+If you're interested in being or referring a guest, email [team@devchat.tv](mailto:team@devchat.tv) and explain what the show will be about and we'll evaluate your request and let you know how to get scheduled.
 
-If you'd like to sponsor one of our podcasts or start your own podcast, (click here)[https://devchat.tv/sponsor] to schedule a call for more information.
+If you'd like to sponsor one of our podcasts or start your own podcast, [click here](https://devchat.tv/sponsor) to schedule a call for more information.
