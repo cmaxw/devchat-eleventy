@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: >
   Be Our Guest
-image: /images/podcast-duo.jpg
+image: /images/uploads/podcast-duo.jpg
 episode_number:
 duration:
 audio_url:
