@@ -42,7 +42,6 @@ Zama Khan Mohammed is a Software Architect, building Enterprise Web Applications
 
 * [Zama's LinkedIn](https://www.linkedin.com/in/tracyslee/ "Tracy Lee")
 * [Angular Projects: Build Nine Real-world Applications from Scratch Using Angular 8 and TypeScript](https://www.amazon.com/Zama-Khan-Mohammed/e/B07Y32KT5C%3Fref=dbs_a_mng_rwt_scns_share)
-* 
 
 ### Picks
 
