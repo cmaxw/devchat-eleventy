@@ -53,7 +53,7 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 * [http://erlang.org/doc/man/ets.html](http://erlang.org/doc/man/ets.html "http://erlang.org/doc/man/ets.html")
 * [https://github.com/TheFirstAvenger/ets](https://github.com/TheFirstAvenger/ets "https://github.com/TheFirstAvenger/ets")
 * [https://github.com/TheFirstAvenger/ironman](https://github.com/TheFirstAvenger/ironman "https://github.com/TheFirstAvenger/ironman")
-* [https://twitter.com/1stAvenger](https://twitter.com/1stAvenger "Mike's Twitter")
+* [Mike's Twitter](https://twitter.com/1stAvenger)
 * [Mike's GitHub](https://github.com/TheFirstAvenger)
 * [Mike's Blog]( https://dockyard.com/blog/authors/mike-binns)
 * [https://www.facebook.com/Elixir-Mix](https://www.facebook.com/Elixir-Mix "https://www.facebook.com/Elixir-Mix")
