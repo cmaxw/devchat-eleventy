@@ -3,6 +3,8 @@ podcast: my-angular-story
 tags:
 - my_angular_story
 - podcast
+- Aaron Frost
+- Zama Khan Mohammed
 layout: layouts/post.njk
 title: 'MAS 107: Zama Khan Mohammed'
 date: 2020-01-21T11:00:00+0000
