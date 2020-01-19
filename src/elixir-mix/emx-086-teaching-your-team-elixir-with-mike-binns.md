@@ -74,4 +74,3 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 
 * [https://github.com/elbow-jason/annex](https://github.com/elbow-jason/annex "https://github.com/elbow-jason/annex") 
 *  [https://github.com/elbow-jason/open_cl_rust](https://github.com/elbow-jason/open_cl_rust "https://github.com/elbow-jason/open_cl_rust")
-* 
