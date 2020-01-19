@@ -65,13 +65,10 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 * Upgrading your graphics card
 * 
 
-    https://github.com/elbow-jason/annex
-
-    https://github.com/elbow-jason/annex
-
-**Mike Binns:**
-
-**Josh Adams:**
+* [https://github.com/elbow-jason/annex](https://github.com/elbow-jason/annex "https://github.com/elbow-jason/annex") 
+*  [https://github.com/elbow-jason/open_cl_rust](https://github.com/elbow-jason/open_cl_rust "https://github.com/elbow-jason/open_cl_rust")
 
 * [https://hexdocs.pm/zigler/Zigler.html](https://hexdocs.pm/zigler/Zigler.html "https://hexdocs.pm/zigler/Zigler.html")
+
+
 * [https://ziglang.org/](https://ziglang.org/ "https://ziglang.org/")
