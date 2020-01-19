@@ -74,7 +74,7 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 
 * [https://thinkingelixir.com/elixir-in-vs-code/](https://thinkingelixir.com/elixir-in-vs-code/ "https://thinkingelixir.com/elixir-in-vs-code/")
 * [https://thinkingelixir.com/vs-code-broken-for-elixir/](https://thinkingelixir.com/vs-code-broken-for-elixir/ "https://thinkingelixir.com/vs-code-broken-for-elixir/")
-* Upgrading your graphics card - AMD Radeon RX 590
+* Upgrading your graphics card - [AMD Radeon RX 590]()
 
 **Mike Binns:** 
 
