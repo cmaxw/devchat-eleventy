@@ -18,3 +18,5 @@ fields:
   config: {}
   template: podcast
   label: Podcast Fields
+pages:
+- src/my-ruby-story/mrs-102-elia-schito.md
