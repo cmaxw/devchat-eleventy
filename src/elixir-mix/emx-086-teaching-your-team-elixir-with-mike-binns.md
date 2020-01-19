@@ -4,7 +4,7 @@ tags:
 - podcast
 - elixir_mix
 layout: layouts/post.njk
-title: 'EMx 086: Teaching your team Elixir with Mike Binns'
+title: 'EMx 086: Teaching Your Team Elixir with Mike Binns'
 date: 2020-01-21T11:00:00+0000
 episode_number: '86'
 audio_url: https://media.devchat.tv/elixir-mix/EMx_086_Mike_Binns.mp3
