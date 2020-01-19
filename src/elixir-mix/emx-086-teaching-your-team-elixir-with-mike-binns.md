@@ -63,8 +63,8 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 
 **Josh Adams:**
 
-* [https://hexdocs.pm/zigler/Zigler.html](https://hexdocs.pm/zigler/Zigler.html "https://hexdocs.pm/zigler/Zigler.html")
-* [https://ziglang.org/](https://hexdocs.pm/zigler/Zigler.html "https://hexdocs.pm/zigler/Zigler.html")
+* [Zigler](https://hexdocs.pm/zigler/Zigler.html)
+* [Zig Programming Language](https://ziglang.org/)
 
 **Sophie DeBenedetto:**
 
