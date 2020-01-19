@@ -51,9 +51,11 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 * [https://code.visualstudio.com/](https://code.visualstudio.com/ "https://code.visualstudio.com/")
 * [https://github.com/elixir-lsp/vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls "https://github.com/elixir-lsp/vscode-elixir-ls")
 * [http://erlang.org/doc/man/ets.html](http://erlang.org/doc/man/ets.html "http://erlang.org/doc/man/ets.html")
-* [https://github.com/TheFirstAvenger](https://github.com/TheFirstAvenger "https://github.com/TheFirstAvenger")
 * [https://github.com/TheFirstAvenger/ets](https://github.com/TheFirstAvenger/ets "https://github.com/TheFirstAvenger/ets")
 * [https://github.com/TheFirstAvenger/ironman](https://github.com/TheFirstAvenger/ironman "https://github.com/TheFirstAvenger/ironman")
+* [https://twitter.com/1stAvenger](https://twitter.com/1stAvenger "Mike's Twitter")
+* [Mike's GitHub](https://github.com/TheFirstAvenger)
+* [Mike's Blog]( https://dockyard.com/blog/authors/mike-binns)
 * [https://www.facebook.com/Elixir-Mix](https://www.facebook.com/Elixir-Mix "https://www.facebook.com/Elixir-Mix")
 * [https://twitter.com/elixir_mix](https://twitter.com/elixir_mix "https://twitter.com/elixir_mix")
 
@@ -63,6 +65,10 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 
 * [https://hexdocs.pm/zigler/Zigler.html](https://hexdocs.pm/zigler/Zigler.html "https://hexdocs.pm/zigler/Zigler.html")
 * [https://ziglang.org/](https://hexdocs.pm/zigler/Zigler.html "https://hexdocs.pm/zigler/Zigler.html")
+
+**Sophie DeBenedetto:**
+
+* [https://badanimals.net/should-i-level-up-my-technical-skills-before-starting-a-freelance-business/](https://badanimals.net/should-i-level-up-my-technical-skills-before-starting-a-freelance-business/ "https://badanimals.net/should-i-level-up-my-technical-skills-before-starting-a-freelance-business/")
 
 **Mark Ericksen:** 
 
