@@ -41,14 +41,11 @@ Zama Khan Mohammed is a Software Architect, building Enterprise Web Applications
 ### Links
 
 * [Zama's LinkedIn](https://www.linkedin.com/in/tracyslee/ "Tracy Lee")
+* npx Zama Khan Mohammed
 * [Angular Projects: Build Nine Real-world Applications from Scratch Using Angular 8 and TypeScript](https://www.amazon.com/Zama-Khan-Mohammed/e/B07Y32KT5C%3Fref=dbs_a_mng_rwt_scns_share)
 
 ### Picks
 
-**Aaron Frost:**
-
-* [CBS Survivor](https://www.cbs.com/shows/survivor/)
-
 ##### Zama Khan Mohammed:
 
-* Scanwich (Scandinavian Sandwitch)
+* [https://developer.chrome.com/devsummit/](https://developer.chrome.com/devsummit/ "https://developer.chrome.com/devsummit/")
