@@ -18,3 +18,5 @@ fields:
   config: {}
   template: podcast
   label: Podcast Field
+pages:
+- src/my-javascript-story/mjs-133-jonathan-martin.md
