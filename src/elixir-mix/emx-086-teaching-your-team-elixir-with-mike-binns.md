@@ -59,16 +59,19 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 
 ### **Picks**
 
+**Josh Adams:**
+
+* [https://hexdocs.pm/zigler/Zigler.html](https://hexdocs.pm/zigler/Zigler.html "https://hexdocs.pm/zigler/Zigler.html")
+* [https://ziglang.org/](https://hexdocs.pm/zigler/Zigler.html "https://hexdocs.pm/zigler/Zigler.html")
+
 **Mark Ericksen:** 
 
-* [https://github.com/elbow-jason/annex](https://github.com/elbow-jason/annex "https://github.com/elbow-jason/annex")
-* Upgrading your graphics card
-* 
+* [https://thinkingelixir.com/elixir-in-vs-code/](https://thinkingelixir.com/elixir-in-vs-code/ "https://thinkingelixir.com/elixir-in-vs-code/")
+* [https://thinkingelixir.com/vs-code-broken-for-elixir/](https://thinkingelixir.com/vs-code-broken-for-elixir/ "https://thinkingelixir.com/vs-code-broken-for-elixir/")
+* Upgrading your graphics card - AMD Radeon RX 590
+
+**Mike Binns:** 
 
 * [https://github.com/elbow-jason/annex](https://github.com/elbow-jason/annex "https://github.com/elbow-jason/annex") 
 *  [https://github.com/elbow-jason/open_cl_rust](https://github.com/elbow-jason/open_cl_rust "https://github.com/elbow-jason/open_cl_rust")
-
-* [https://hexdocs.pm/zigler/Zigler.html](https://hexdocs.pm/zigler/Zigler.html "https://hexdocs.pm/zigler/Zigler.html")
-
-
-* [https://ziglang.org/](https://ziglang.org/ "https://ziglang.org/")
+* 
