@@ -54,19 +54,10 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 
 **Mark Ericksen:**
 
-* [Immutability - Computerphile](https://www.youtube.com/watch?v=8Sf6ToPNiA4)
-* [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf)
-
-**Mariano Guerra:**
-
-* [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir)
-* [Practical TLA+: Planning Driven Development](https://www.amazon.com/Practical-TLA-Planning-Driven-Development/dp/1484238281)
+**Mike Binns:**
 
 **Josh Adams:**
 
-* [Rewriting GitHub Pages with Riak Core, Riak KV, and Webmachine: Jesse Newland](https://www.youtube.com/watch?v=CIQnleQPtZA)
+* 
 
 **Sophie DeBenedetto:**
-
-* [How to Compose Queries in Ecto](https://medium.com/flatiron-labs/how-to-compose-queries-in-ecto-b71311729dac)
-* [Basque Burnt Cheesecake](https://www.bonappetit.com/recipe/basque-burnt-cheesecake)
