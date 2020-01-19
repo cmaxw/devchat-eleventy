@@ -50,10 +50,4 @@ My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. El
 
 **Charles Max Wood:**
 
-* [https://jamstackconf.com/sf/](https://jamstackconf.com/sf/ "https://jamstackconf.com/sf/")
-* Impact Theory with Tom Bilyeu - Podcast
-
 **Elia Schito:**
-
-* [Super Pumped: The Battle for Uber Book by Mike Isaac](https://www.amazon.com/Super-Pumped-Battle-Mike-Isaac/dp/0393652246)
-* [https://www.youneedabudget.com/podcasts/](https://www.youneedabudget.com/podcasts/ "https://www.youneedabudget.com/podcasts/")
