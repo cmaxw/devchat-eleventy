@@ -44,10 +44,17 @@ My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. El
 ## Links
 
 * [RR 430: Opal with Elia Schito](https://devchat.tv/ruby-rogues/rr-430-opal-with-elia-schito/)
-* 
+* [Elia's LinkedIn](https://www.linkedin.com/in/eliaschito/)
+* [Elia's Twitter](https://twitter.com/eliaschito)
 
 ## Picks
 
 **Charles Max Wood:**
 
+* Devchat.tv Supporters
+
 **Elia Schito:**
+
+* [Devchat.tv](https://twitter.com/eliaschito)
+* [Henry V](https://en.wikipedia.org/wiki/Henry_V_(1989_film))
+* [https://opalrb.com/](https://opalrb.com/ "https://opalrb.com/")
