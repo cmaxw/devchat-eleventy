@@ -57,4 +57,5 @@ My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. El
 
 * [Devchat.tv](https://twitter.com/eliaschito)
 * [Henry V](https://en.wikipedia.org/wiki/Henry_V_(1989_film))
+* [Orthodoxy by Gilbert Keith Chesterton](https://www.amazon.com/Orthodoxy-G-K-Chesterton/dp/1519305680)
 * [https://opalrb.com/](https://opalrb.com/ "https://opalrb.com/")
