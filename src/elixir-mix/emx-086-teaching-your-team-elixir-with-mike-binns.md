@@ -21,6 +21,8 @@ answer4: ''
 ---
 In this episode of Elixir Mix the panel interviews Mike Binns. Mike is a Senior Software Engineer at DockYard, Inc. and he presented at ElixirConf 2019 about getting a whole team new to Elixir up to speed quickly with Cars.com.
 
+Mike explains why was Elixir chosen as the technology to use and how much effort and planning goes into helping a team transition.
+
 ### **Panelists**
 
 * Mark Ericksen
