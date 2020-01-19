@@ -3,6 +3,8 @@ podcast: my-ruby-story
 tags:
 - podcast
 - my_ruby_story
+- Elia Schito
+- Charles Max Wood
 layout: layouts/post.njk
 title: 'MRS 102: Elia Schito'
 date: 2020-01-21T11:00:00+0000
@@ -19,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. Elia has been working with Ruby for the past 12 years. Charles starts off by asking how Elia became a developer. 
+My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. Elia has been working with Ruby for the past 12 years. Charles starts off by asking how Elia became a developer.
 
 **Host:** Charles Max Wood
 
@@ -30,6 +32,14 @@ My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. El
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
+
+## **______________________________________**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.** [**Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
+
+## **______________________________________**
+
+> 
 
 ## Links
 
