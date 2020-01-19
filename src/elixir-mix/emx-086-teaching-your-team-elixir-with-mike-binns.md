@@ -35,7 +35,8 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 
 ### **Sponsors**
 
-* [Sentry](http://sentry.io/)– use the code “devchat” for two months free on Sentry’s small plan
+* [Adventures in Angular Podcast](https://devchat.tv/adv-in-angular/)
+* [React Native Radio Podcast](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
