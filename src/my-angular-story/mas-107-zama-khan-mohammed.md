@@ -19,7 +19,7 @@ question4: ''
 answer4: ''
 
 ---
-Zama Khan Mohammed is a Software Architect, building Enterprise Web Applications with more than 7 years of experience. He currently works at Tekzenit. He has recently authored a book "Angular Projects: Build Nine Real-world Applications from Scratch Using Angular 8 and TypeScript" which is available at Amazon. 
+Zama Khan Mohammed is a Software Architect, building Enterprise Web Applications with more than 7 years of experience. He currently works at Tekzenit. He has recently authored a book "Angular Projects: Build Nine Real-world Applications from Scratch Using Angular 8 and TypeScript" which is available at Amazon. Zama talks about the 9 projects he covers in his book.  
 
 ### Host: **Aaron Frost**
 
@@ -40,7 +40,6 @@ Zama Khan Mohammed is a Software Architect, building Enterprise Web Applications
 
 ### Links
 
-* [Tracy's Twitter](https://twitter.com/mstracylee "Tracy Lee")
 * [Zama's LinkedIn](https://www.linkedin.com/in/tracyslee/ "Tracy Lee")
 * [Angular Projects: Build Nine Real-world Applications from Scratch Using Angular 8 and TypeScript](https://www.amazon.com/Zama-Khan-Mohammed/e/B07Y32KT5C%3Fref=dbs_a_mng_rwt_scns_share)
 * 
