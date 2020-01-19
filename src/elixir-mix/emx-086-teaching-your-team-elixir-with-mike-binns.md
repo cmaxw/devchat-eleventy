@@ -47,17 +47,31 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 ### **Links**
 
 * [ElixirConf 2019 - 0-60 in under 3: How Cars.com and DockYard Manufactured a Productive Elixir Team in Under 3 Months ](https://www.youtube.com/watch?v=zKifFG4i-bY)
+* [https://github.com/jeremyjh/dialyxir](https://github.com/jeremyjh/dialyxir "https://github.com/jeremyjh/dialyxir")
+* [https://code.visualstudio.com/](https://code.visualstudio.com/ "https://code.visualstudio.com/")
+* [https://github.com/elixir-lsp/vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls "https://github.com/elixir-lsp/vscode-elixir-ls")
+* [http://erlang.org/doc/man/ets.html](http://erlang.org/doc/man/ets.html "http://erlang.org/doc/man/ets.html")
+* [https://github.com/TheFirstAvenger](https://github.com/TheFirstAvenger "https://github.com/TheFirstAvenger")
+* [https://github.com/TheFirstAvenger/ets](https://github.com/TheFirstAvenger/ets "https://github.com/TheFirstAvenger/ets")
+* [https://github.com/TheFirstAvenger/ironman](https://github.com/TheFirstAvenger/ironman "https://github.com/TheFirstAvenger/ironman")
 * [https://www.facebook.com/Elixir-Mix](https://www.facebook.com/Elixir-Mix "https://www.facebook.com/Elixir-Mix")
 * [https://twitter.com/elixir_mix](https://twitter.com/elixir_mix "https://twitter.com/elixir_mix")
 
 ### **Picks**
 
-**Mark Ericksen:**
+**Mark Ericksen:** 
+
+* [https://github.com/elbow-jason/annex](https://github.com/elbow-jason/annex "https://github.com/elbow-jason/annex")
+* Upgrading your graphics card
+* 
+
+    https://github.com/elbow-jason/annex
+
+    https://github.com/elbow-jason/annex
 
 **Mike Binns:**
 
 **Josh Adams:**
 
-* 
-
-**Sophie DeBenedetto:**
+* [https://hexdocs.pm/zigler/Zigler.html](https://hexdocs.pm/zigler/Zigler.html "https://hexdocs.pm/zigler/Zigler.html")
+* [https://ziglang.org/](https://ziglang.org/ "https://ziglang.org/")
