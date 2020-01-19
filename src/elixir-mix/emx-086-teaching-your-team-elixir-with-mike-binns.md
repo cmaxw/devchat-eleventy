@@ -47,6 +47,8 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 ### **Links**
 
 * [ElixirConf 2019 - 0-60 in under 3: How Cars.com and DockYard Manufactured a Productive Elixir Team in Under 3 Months ](https://www.youtube.com/watch?v=zKifFG4i-bY)
+* [https://basecamp.com/shapeup](https://basecamp.com/shapeup "https://basecamp.com/shapeup")
+* [https://github.com/rrrene/credo](https://github.com/rrrene/credo "https://github.com/rrrene/credo")
 * [https://github.com/jeremyjh/dialyxir](https://github.com/jeremyjh/dialyxir "https://github.com/jeremyjh/dialyxir")
 * [https://code.visualstudio.com/](https://code.visualstudio.com/ "https://code.visualstudio.com/")
 * [https://github.com/elixir-lsp/vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls "https://github.com/elixir-lsp/vscode-elixir-ls")
