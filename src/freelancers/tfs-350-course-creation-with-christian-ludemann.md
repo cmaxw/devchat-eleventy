@@ -7,7 +7,7 @@ tags:
 - Brad Large
 - Christian Lüdeman
 layout: layouts/post.njk
-title: 'TFS 350: Course Creation with Christian Ludemann'
+title: 'TFS 350: Course Creation with Christian Lüdemann'
 date: 2020-01-21T11:00:00+0000
 episode_number: '350'
 audio_url: https://media.devchat.tv/freelancers/TFS_350_Christian_Ludemann.mp3
