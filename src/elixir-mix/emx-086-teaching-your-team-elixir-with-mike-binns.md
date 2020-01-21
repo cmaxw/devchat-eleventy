@@ -26,7 +26,7 @@ In this episode of Elixir Mix the panel interviews Mike Binns. Mike is a Senior 
 
 Mike explains why  Elixir was chosen as the technology to use and how much effort and planning goes into helping a team transition. Cars.com had already decided to move onto Elixir and brought on DockYard to train their engineers.
 
-Mike advises recognizing the existing team's previous skill set and experience levels.  Mike and fellow DockYard colleague captured what they learned in  [Project Ironman](https://github.com/TheFirstAvenger/ironman) which automatically adds things like credo, dialyzer, coveralls, mix test watch, etc… to your project. They then talk about what mob programming is and how it helps to arm a new team.  Finally, the panel asks Mike if he would do anything differently and tips for bringing new developers into a running project and team.
+Mike advises recognizing the existing team's previous skillset and experience levels.  Mike and fellow DockYard colleague captured what they learned in  [Project Ironman](https://github.com/TheFirstAvenger/ironman) which automatically adds things like credo, dialyzer, coveralls, mix test watch, etc… to your project. They then talk about what mob programming is and how it helps to arm a new team.  Finally, the panel asks Mike if he would do anything differently and tips for bringing new developers into a running project and team.
 
 ### **Panelists**
 
