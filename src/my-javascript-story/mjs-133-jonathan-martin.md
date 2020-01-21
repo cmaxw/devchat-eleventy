@@ -16,8 +16,9 @@ answer1: 'Jonathan Lee Martin has training bootcamps that last for 16 weeks that
 question2: 'What does programming consist of mainly? '
 answer2: Programming or coding involves tweaking or debugging a piece of code until
   it works or becomes optimal.
-question3: ''
-answer3: ''
+question3: 'How does pair programming help with learning how to code? '
+answer3: 'Pair programming is essentially a mentorship exercise where a developer
+  gets to code together with an expert to learn how to get past a problem. '
 question4: ''
 answer4: ''
 
