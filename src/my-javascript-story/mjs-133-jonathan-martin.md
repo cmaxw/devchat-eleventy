@@ -19,7 +19,7 @@ question4: ''
 answer4: ''
 
 ---
-My JavaScript Story this week welcomes Jonathan Martin
+My JavaScript Story this week welcomes Jonathan is an educator, speaker, and author. He started out by teaching at Big Nerd Ranch and currently has his own teaching brand. 
 
 **Host:** Charles Max Wood
 
@@ -27,7 +27,7 @@ My JavaScript Story this week welcomes Jonathan Martin
 
 ## Sponsors
 
-* [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast) 
+* [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
 
@@ -41,12 +41,13 @@ My JavaScript Story this week welcomes Jonathan Martin
 
 ## Links
 
-* [RR 430: Opal with Elia Schito](https://devchat.tv/ruby-rogues/rr-430-opal-with-elia-schito/)
-* [Elia's LinkedIn](https://www.linkedin.com/in/eliaschito/)
-* [Elia's Twitter](https://twitter.com/eliaschito)
+* [JSJ 396: Publishing Your Book with Jonathan Lee Martin](https://devchat.tv/js-jabber/jsj-396-publishing-your-book-with-jonathan-lee-martin/)
+* [Jonathan's LinkedIn](https://www.linkedin.com/in/nybblr/)
+* [Jonathan's Twitter](https://twitter.com/nybblr)
+* [https://jonathanleemartin.com/](https://jonathanleemartin.com/ "https://jonathanleemartin.com/")
 
 ## Picks
 
 **Charles Max Wood:**
 
- **Jonathan Martin:**
+**Jonathan Martin:**
