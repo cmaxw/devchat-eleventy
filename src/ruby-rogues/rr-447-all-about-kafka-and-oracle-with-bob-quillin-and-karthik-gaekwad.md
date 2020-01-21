@@ -14,7 +14,7 @@ tags:
 - Karthik Gaekwad
 layout: layouts/post.njk
 title: 'RR 447: All About Kafka and Oracle with Bob Quillin and Karthik Gaekwad'
-date: 2020-01-01T11:00:00+0000
+date: 2020-01-21T11:00:00+0000
 episode_number: '447'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_447_About_Kafka.mp3
 duration: '46:57'
