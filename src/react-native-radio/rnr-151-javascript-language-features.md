@@ -26,7 +26,7 @@ answer4: It can expand the way you think about code and better your ability to u
   these new features by seeing them in their native habitat.
 
 ---
-In this episode of React Native Radion the panel discusses JavaScript Language Features. They discuss their uses, which ones they prefer and how they shape the language. Josh Justice starts the discussion with Babel, a transpiling tool. They explain what it is and invite listeners to donate to the project. Josh also explains what ECMAScript is.
+In this episode of React Native Radio the panel discusses JavaScript Language Features. They discuss their uses, which ones they prefer and how they shape the language. Josh Justice starts the discussion with Babel, a transpiling tool. They explain what it is and invite listeners to donate to the project. Josh also explains what ECMAScript is.
 
 Next, they discuss arrow functions, explaining what they are used for. Arrow functions clean up code and encourage clean programming. They also help with “this” keyword binding. The panel discusses the class keyword, and how it made its way into JavaScript. They discuss class features, class properties, and private fields.
 
@@ -74,6 +74,4 @@ The panel discusses destructuring and shares experiences from their own work. Th
 **Jamon Holmgren:**
 
 * [https://academy.infinite.red/](https://academy.infinite.red/ "https://academy.infinite.red/")
-
-
 * [Beginning Machine Learning with TensorFlow.js](https://academy.infinite.red/)
