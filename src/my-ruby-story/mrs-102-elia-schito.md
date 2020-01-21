@@ -10,9 +10,9 @@ title: 'MRS 102: Elia Schito'
 date: 2020-01-21T11:00:00+0000
 episode_number: '102'
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_102_Elia_Schito.mp3
-duration: ''
-question1: ''
-answer1: ''
+duration: '38:54'
+question1: 'What is Opal? '
+answer1: Opal is a Ruby to JavaScript source-to-source compiler.
 question2: ''
 answer2: ''
 question3: ''
