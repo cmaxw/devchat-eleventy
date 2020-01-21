@@ -21,7 +21,7 @@ answer4: ''
 ---
 In this episode of Elixir Mix the panel interviews Mike Binns. Mike is a Senior Software Engineer at DockYard, Inc. and he presented at ElixirConf 2019 about getting a whole team new to Elixir up to speed quickly with Cars.com.
 
-Mike explains why  Elixir was chosen as the technology to use and how much effort and planning goes into helping a team transition.
+Mike explains why  Elixir was chosen as the technology to use and how much effort and planning goes into helping a team transition. Cars.com had already decided to move onto Elixir and brought on DockYard to train their engineers. 
 
 ### **Panelists**
 
@@ -58,7 +58,7 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 * [https://github.com/TheFirstAvenger/ironman](https://github.com/TheFirstAvenger/ironman "https://github.com/TheFirstAvenger/ironman")
 * [Mike's Twitter](https://twitter.com/1stAvenger)
 * [Mike's GitHub](https://github.com/TheFirstAvenger)
-* [Mike's Blog]( https://dockyard.com/blog/authors/mike-binns)
+* [Mike's Blog](https://dockyard.com/blog/authors/mike-binns)
 * [https://www.facebook.com/Elixir-Mix](https://www.facebook.com/Elixir-Mix "https://www.facebook.com/Elixir-Mix")
 * [https://twitter.com/elixir_mix](https://twitter.com/elixir_mix "https://twitter.com/elixir_mix")
 
@@ -73,13 +73,13 @@ Mike explains why  Elixir was chosen as the technology to use and how much effor
 
 * [https://badanimals.net/should-i-level-up-my-technical-skills-before-starting-a-freelance-business/](https://badanimals.net/should-i-level-up-my-technical-skills-before-starting-a-freelance-business/ "https://badanimals.net/should-i-level-up-my-technical-skills-before-starting-a-freelance-business/")
 
-**Mark Ericksen:** 
+**Mark Ericksen:**
 
 * [https://thinkingelixir.com/elixir-in-vs-code/](https://thinkingelixir.com/elixir-in-vs-code/ "https://thinkingelixir.com/elixir-in-vs-code/")
 * [https://thinkingelixir.com/vs-code-broken-for-elixir/](https://thinkingelixir.com/vs-code-broken-for-elixir/ "https://thinkingelixir.com/vs-code-broken-for-elixir/")
 * Upgrading your graphics card - [AMD Radeon RX 590]()
 
-**Mike Binns:** 
+**Mike Binns:**
 
-* [https://github.com/elbow-jason/annex](https://github.com/elbow-jason/annex "https://github.com/elbow-jason/annex") 
-*  [https://github.com/elbow-jason/open_cl_rust](https://github.com/elbow-jason/open_cl_rust "https://github.com/elbow-jason/open_cl_rust")
+* [https://github.com/elbow-jason/annex](https://github.com/elbow-jason/annex "https://github.com/elbow-jason/annex")
+* [https://github.com/elbow-jason/open_cl_rust](https://github.com/elbow-jason/open_cl_rust "https://github.com/elbow-jason/open_cl_rust")
