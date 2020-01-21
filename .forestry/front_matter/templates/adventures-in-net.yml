@@ -21,3 +21,4 @@ fields:
   label: Podcast Fields
 pages:
 - src/adventures-in-dotnet/net-017-finding-your-focus.md
+- src/adventures-in-dotnet/net-018-fun-and-development-with-unit-testing-graphql-and-firebase-auth.md
