@@ -13,8 +13,9 @@ question1: What is Project Ironman?
 answer1: "What is mob coding? \n\nMob coding or Mob programming is an exercise where
   the whole team works on the same problem at the same time at the same computer to
   bond and learn together."
-question2: ''
-answer2: ''
+question2: 'How is mob programming similar to or different than pair programming. '
+answer2: 'Pair programming involves more of a mentor mentality where it is an exercise
+  to elevate a developers code with the expertise of the pair. '
 question3: ''
 answer3: ''
 question4: ''
