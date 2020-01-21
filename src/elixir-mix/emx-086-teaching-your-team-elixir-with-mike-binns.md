@@ -24,7 +24,7 @@ answer4: ''
 ---
 In this episode of Elixir Mix the panel interviews Mike Binns. Mike is a Senior Software Engineer at DockYard, Inc. and he presented at ElixirConf 2019 about getting a whole team new to Elixir up to speed quickly with Cars.com.
 
-Mike explains why  Elixir was chosen as the technology to use and how much effort and planning goes into helping a team transition. Cars.com had already decided to move onto Elixir and brought on DockYard to train their engineers. 
+Mike explains why  Elixir was chosen as the technology to use and how much effort and planning goes into helping a team transition. Cars.com had already decided to move onto Elixir and brought on DockYard to train their engineers.
 
 Mike advises recognizing the existing team's previous skill set and experience levels.  Mike and fellow DockYard colleague captured what they learned in  [Project Ironman](https://github.com/TheFirstAvenger/ironman) which automatically adds things like credo, dialyzer, coveralls, mix test watch, etc… to your project. They then talk about what mob programming is and how it helps to arm a new team.  Finally, the panel asks Mike if he would do anything differently and tips for bringing new developers into a running project and team.
 
@@ -41,7 +41,6 @@ Mike advises recognizing the existing team's previous skill set and experience l
 ### **Sponsors**
 
 * [Adventures in Angular Podcast](https://devchat.tv/adv-in-angular/)
-* [React Native Radio Podcast](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
