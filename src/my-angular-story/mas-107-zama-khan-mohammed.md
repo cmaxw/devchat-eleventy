@@ -11,8 +11,10 @@ date: 2020-01-21T11:00:00+0000
 episode_number: '107'
 audio_url: https://media.devchat.tv/my-angular-story/MAS_107_Zama.mp3
 duration: '31:41'
-question1: ''
-answer1: ''
+question1: When learning development how effective is it to attend a bootcamp?
+answer1: Bootcamps are important in the sense that it provides an engineer a mentor
+  but upon finishing the bootcamp you still have to teach yourself a lot. So self
+  - taught is for the long run.
 question2: ''
 answer2: ''
 question3: ''
