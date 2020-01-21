@@ -2,6 +2,7 @@
 podcast: react-round-up
 layout: layouts/post.njk
 tags:
+- podcast
 - Joe Eames
 - Dean Radcliffe
 - Tracy Lee
@@ -9,9 +10,8 @@ tags:
 - 'Mike Ryan '
 - Charles Max Wood
 - RxJS Live
-- React Round Up
 title: 'RRU 096: React Round Up at RxJS Live'
-date: 2020-01-21T11:00:00+0000
+date: 2020-01-21T11:00:00.000+00:00
 episode_number: '096'
 audio_url: https://media.devchat.tv/reactroundup/RRU_096_RXJS_Live.mp3
 duration: '39:15'
