@@ -23,6 +23,8 @@ In this episode of Elixir Mix the panel interviews Mike Binns. Mike is a Senior 
 
 Mike explains why  Elixir was chosen as the technology to use and how much effort and planning goes into helping a team transition. Cars.com had already decided to move onto Elixir and brought on DockYard to train their engineers. 
 
+Mike advises recognizing the existing team's previous skill set and experience levels.  
+
 ### **Panelists**
 
 * Mark Ericksen
