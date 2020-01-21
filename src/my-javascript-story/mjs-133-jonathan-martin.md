@@ -19,7 +19,7 @@ question4: ''
 answer4: ''
 
 ---
-My JavaScript Story this week welcomes Jonathan is an educator, speaker, and author. He started out by teaching at Big Nerd Ranch and currently has his own teaching brand. 
+My JavaScript Story this week welcomes Jonathan is an educator, speaker, and author.h Jonathan has been a developer since high school and he started out by teaching at Big Nerd Ranch and currently has his own teaching brand. He teaches career switchers and senior developers and also has written a book "Functional Design Patterns for Express.js". Teaching career switchers has led him to adopt a pedagogy approach to teaching where he focuses on getting people to absorb relevant information faster. Some of the lessons he has learned when working with career switchers is the role of failure in the classroom. He noticed when something did not work in their code career switchers tended to want to start out again instead of debugging what was wrong with the code. Jonathan had to show most of developing is turning failure into success. 
 
 **Host:** Charles Max Wood
 
@@ -45,9 +45,16 @@ My JavaScript Story this week welcomes Jonathan is an educator, speaker, and aut
 * [Jonathan's LinkedIn](https://www.linkedin.com/in/nybblr/)
 * [Jonathan's Twitter](https://twitter.com/nybblr)
 * [https://jonathanleemartin.com/](https://jonathanleemartin.com/ "https://jonathanleemartin.com/")
+* [Functional Design Patterns for Express.js](https://www.amazon.com/Jonathan-Lee-Martin/e/B07THDLV9L?ref=sr_ntt_srch_lnk_1&qid=1579582388&sr=8-1)
 
 ## Picks
 
 **Charles Max Wood:**
 
+* Pomodoro Timer
+* [Amazon Fire tv stick](https://www.amazon.com/Fire-TV-Stick-with-Alexa-Voice-Remote/dp/B0791TX5P5) 
+
 **Jonathan Martin:**
+
+* [WebXR Device API](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
+* [Innergie USB C Charger](https://www.amazon.com/Innergie-Adapter-US-PowerDelivery-Technology-USB-World-Small/dp/B07GBYVF4Q)
