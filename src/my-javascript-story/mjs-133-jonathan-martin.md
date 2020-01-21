@@ -9,8 +9,10 @@ date: 2020-01-21T11:00:00+0000
 episode_number: '133'
 audio_url: https://media.devchat.tv/my-js-story/MJS_133_Jonathan_Martin.mp3
 duration: '44:07'
-question1: ''
-answer1: ''
+question1: What is an approximate amount of training that would help someone switch
+  careers tp become a developer?
+answer1: 'Jonathan Lee Martin has training bootcamps that last for 16 weeks that help
+  those who want to switch careers to become a programmer. '
 question2: ''
 answer2: ''
 question3: ''
