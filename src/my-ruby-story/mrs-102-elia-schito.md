@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. Elia has been working with Ruby for the past 12 years. Charles starts off by asking how Elia became a developer.
+My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. Elia has been working with Ruby for the past 12 years. Charles starts off by asking how Elia became a developer. One of the reasons Elia was drawn to Rails was that it is easy to set up. Upon graduation Elia worked for a company that built test equipment for satellites.  
 
 **Host:** Charles Max Wood
 
