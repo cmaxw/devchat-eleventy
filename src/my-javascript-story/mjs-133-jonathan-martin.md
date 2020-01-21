@@ -3,6 +3,10 @@ podcast: my-javascript-story
 tags:
 - podcast
 - my_javascript_story
+- 'jonathan lee martin '
+- career switch
+- charles max wood
+- pair programming
 layout: layouts/post.njk
 title: 'MJS 133: Jonathan Martin'
 date: 2020-01-21T11:00:00+0000
