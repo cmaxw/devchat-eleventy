@@ -12,7 +12,7 @@ tags:
 - Charles Max Wood
 - RxJS Live
 title: 'RRU 096: React Round Up at RxJS Live'
-date: 2020-01-21T11:00:00.000+00:00
+date: 2020-01-21T11:00:00+0000
 episode_number: '096'
 audio_url: https://media.devchat.tv/reactroundup/RRU_096_RXJS_Live.mp3
 duration: '39:15'
