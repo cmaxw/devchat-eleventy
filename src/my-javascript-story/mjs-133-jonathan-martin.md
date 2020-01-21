@@ -13,8 +13,9 @@ question1: What is an approximate amount of training that would help someone swi
   careers to become a developer?
 answer1: 'Jonathan Lee Martin has training bootcamps that last for 16 weeks that help
   those who want to switch careers to become a programmer. '
-question2: ''
-answer2: ''
+question2: 'What does programming consist of mainly? '
+answer2: Programming or coding involves tweaking or debugging a piece of code until
+  it works or becomes optimal.
 question3: ''
 answer3: ''
 question4: ''
