@@ -8,7 +8,7 @@ tags:
 - Paul Castro
 - Nick Mitchell
 layout: layouts/post.njk
-title: 'DevOps 020: Kui with The Cloud Research Team'
+title: 'DevOps 020: Kui with The IBM Cloud Research Team'
 date: 2020-01-21T11:00:00+0000
 episode_number: '020'
 audio_url: https://media.devchat.tv/adventures-in-devops/ADO_020_Priya_Nagpurkar.mp3
