@@ -9,8 +9,10 @@ date: 2020-01-21T11:00:00+0000
 episode_number: '86'
 audio_url: https://media.devchat.tv/elixir-mix/EMx_086_Mike_Binns.mp3
 duration: '42:35'
-question1: ''
-answer1: ''
+question1: What is Project Ironman?
+answer1: "What is mob coding? \n\nMob coding or Mob programming is an exercise where
+  the whole team works on the same problem at the same time at the same computer to
+  bond and learn together."
 question2: ''
 answer2: ''
 question3: ''
