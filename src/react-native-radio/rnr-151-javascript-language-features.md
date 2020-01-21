@@ -73,6 +73,7 @@ The panel discusses destructuring and shares experiences from their own work. Th
 
 **Jamon Holmgren:**
 
-* Academy.infinite.red
+* [https://academy.infinite.red/](https://academy.infinite.red/ "https://academy.infinite.red/")
 
-[Beginning Machine Learning with TensorFlow.js](https://academy.infinite.red/)
+
+* [Beginning Machine Learning with TensorFlow.js](https://academy.infinite.red/)
