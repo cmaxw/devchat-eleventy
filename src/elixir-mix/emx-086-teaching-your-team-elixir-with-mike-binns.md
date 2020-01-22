@@ -40,7 +40,6 @@ Mike advises recognizing the existing team's previous skillset and experience le
 
 ### **Sponsors**
 
-* [Adventures in Angular Podcast](https://devchat.tv/adv-in-angular/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
