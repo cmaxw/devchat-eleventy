@@ -36,7 +36,7 @@ My JavaScript Story this week welcomes Jonathan Lee Martin. Jonathan is an educa
 ## Sponsors
 
 * [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast)
-* [CacheFly](https://www.cachefly.com/)
+* [CacheFly](https://www.cachefly.com/) 
 
 ## **______________________________________**
 
