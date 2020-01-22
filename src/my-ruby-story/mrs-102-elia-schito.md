@@ -7,7 +7,7 @@ tags:
 - Charles Max Wood
 layout: layouts/post.njk
 title: 'MRS 102: Elia Schito'
-date: 2020-01-21T11:00:00+0000
+date: 2020-01-21T11:00:00.000+00:00
 episode_number: '102'
 audio_url: https://media.devchat.tv/my-ruby-story/MRS_102_Elia_Schito.mp3
 duration: '38:54'
@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. Elia has been working with Ruby for the past 12 years. Charles starts off by asking how Elia became a developer. One of the reasons Elia was drawn to Rails was that it is easy to set up. Upon graduation Elia worked for a company that built test equipment for satellites.  He then moved onto Web application project and development using Ruby and Rails. Elia and Charles then talk about Opal, a Ruby to JavaScript source-to-source compiler and its uses and benefits.  Charles asks about what a day in Elia's life looks like and the current projects he is working on. 
+My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. Elia has been working with Ruby for the past 12 years. Charles starts off by asking how Elia became a developer. One of the reasons Elia was drawn to Rails was that it is easy to set up. Upon graduation Elia worked for a company that built test equipment for satellites.  He then moved onto Web application project and development using Ruby and Rails. Elia and Charles then talk about Opal, a Ruby to JavaScript source-to-source compiler and its uses and benefits.  Charles asks about what a day in Elia's life looks like and the current projects he is working on.
 
 **Host:** Charles Max Wood
 
@@ -30,7 +30,6 @@ My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. El
 ## Sponsors
 
 * [Sentry](https://sentry.io/) use the code “devchat” for 2 months free on Sentry small plan
-* [React Native Radio](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **______________________________________**

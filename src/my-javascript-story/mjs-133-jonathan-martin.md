@@ -9,7 +9,7 @@ tags:
 - pair programming
 layout: layouts/post.njk
 title: 'MJS 133: Jonathan Martin'
-date: 2020-01-21T11:00:00+0000
+date: 2020-01-21T11:00:00.000+00:00
 episode_number: '133'
 audio_url: https://media.devchat.tv/my-js-story/MJS_133_Jonathan_Martin.mp3
 duration: '44:07'
@@ -36,7 +36,6 @@ My JavaScript Story this week welcomes Jonathan Lee Martin. Jonathan is an educa
 ## Sponsors
 
 * [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast)
-* [React Native Radio](https://devchat.tv/react-native-radio/)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **______________________________________**
