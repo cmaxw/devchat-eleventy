@@ -1,17 +1,16 @@
 ---
 layout: layouts/post.njk
-title: >
-  MJS My JS Story 022 Cory House
-date: 2017-06-21 04:00:03
-episode_number: 022
-duration: 46:31
+title: 'MJS 022: Cory House'
+date: 2017-06-21T04:00:03.000+00:00
+episode_number: 18
+duration: 2791
 audio_url: https://devchat.cachefly.net/my-js-story/MJS_022_Cory_House.mp3
 podcast: js-jabber
 tags:
-  - js_jabber
-  - podcast
----
+- js_jabber
+- podcast
 
+---
 ---
 
 ##### My JS Story Cory House
