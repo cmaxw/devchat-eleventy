@@ -1,17 +1,16 @@
 ---
 layout: layouts/post.njk
-title: >
-  MJS 007 My JS Story Mikeal Rogers
-date: 2017-03-02 05:00:16
-episode_number: 007
-duration: 55:28
+title: 'MJS 007: Mikeal Rogers'
+date: 2017-03-02T05:00:16.000+00:00
+episode_number: 7
+duration: 3328
 audio_url: https://media.devchat.tv/js-jabber/MJS_007_Mikeal_Rogers.mp3
 podcast: js-jabber
 tags:
-  - js_jabber
-  - podcast
----
+- js_jabber
+- podcast
 
+---
 ## My JS Story&nbsp;Mikeal Rogers
 
 On today's episode of My JS Story, Charles Max Wood welcomes Mikeal Rogers. Mikeal&nbsp;is the creator of NodeConf and request, community organizer at Node.js Foundation, and a co-host of RFC podcast. Tune in&nbsp;to **My JS&nbsp;Story Mikeal Rogers** &nbsp;to learn more about&nbsp;how he started in programming and what he is currently up to.
