@@ -42,20 +42,11 @@ My JavaScript Story this week welcomes Jonathan Lee Martin. Jonathan is an educa
 
 ## Links
 
-* [JSJ 396: Publishing Your Book with Jonathan Lee Martin](https://devchat.tv/js-jabber/jsj-396-publishing-your-book-with-jonathan-lee-martin/)
-* [Jonathan's LinkedIn](https://www.linkedin.com/in/nybblr/)
-* [Jonathan's Twitter](https://twitter.com/nybblr)
-* [https://jonathanleemartin.com/](https://jonathanleemartin.com/ "https://jonathanleemartin.com/")
-* [Functional Design Patterns for Express.js](https://www.amazon.com/Jonathan-Lee-Martin/e/B07THDLV9L?ref=sr_ntt_srch_lnk_1&qid=1579582388&sr=8-1)
+* [JSJ 415: Progressive Web Apps with Maximiliano Firtman](https://devchat.tv/js-jabber/jsj-415-progressive-web-apps-with-maximiliano-firtman/)
+* 
 
 ## Picks
 
 **Charles Max Wood:**
 
-* Pomodoro Timer
-* [Amazon Fire tv stick](https://www.amazon.com/Fire-TV-Stick-with-Alexa-Voice-Remote/dp/B0791TX5P5)
-
 **Maximiliano Firtman:**
-
-* [WebXR Device API](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
-* [Innergie USB C Charger](https://www.amazon.com/Innergie-Adapter-US-PowerDelivery-Technology-USB-World-Small/dp/B07GBYVF4Q)
