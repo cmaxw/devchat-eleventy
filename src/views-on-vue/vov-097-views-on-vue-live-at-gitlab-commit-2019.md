@@ -3,6 +3,9 @@ podcast: views-on-vue
 tags:
 - podcast
 - views_on_vue
+- Eddie Zaneski
+- Shamiq Islam
+- Jasmine James
 layout: layouts/post.njk
 title: 'VoV 097: Views on Vue Live at Gitlab Commit 2019'
 date: 2020-01-28T11:00:00+0000
