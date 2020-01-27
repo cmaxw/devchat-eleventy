@@ -42,12 +42,16 @@ Dave Cooper Mohammed is a Software Architect, building Enterprise Web Applicatio
 
 ### Links
 
-* [Zama's LinkedIn](https://www.linkedin.com/in/tracyslee/ "Tracy Lee")
-* npx Zama Khan Mohammed
-* [Angular Projects: Build Nine Real-world Applications from Scratch Using Angular 8 and TypeScript](https://www.amazon.com/Zama-Khan-Mohammed/e/B07Y32KT5C%3Fref=dbs_a_mng_rwt_scns_share)
+* [Dave's Twitter](@davewritescodes)
+* 
+* [https://www.npmjs.com/package/data-mocks](https://www.npmjs.com/package/data-mocks "https://www.npmjs.com/package/data-mocks")
 
 ### Picks
 
+##### Aaron Frost:
+
+* Survivor - TV Show
+
 ##### Dave Cooper:
 
-* [https://developer.chrome.com/devsummit/](https://developer.chrome.com/devsummit/ "https://developer.chrome.com/devsummit/")
+* 
