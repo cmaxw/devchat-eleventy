@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-My JavaScript Story this week welcomes Maximiliano Firtman. Jonathan is an educator, speaker, and author. He has been a developer since high school and he started out by teaching at Big Nerd Ranch and currently has his own teaching brand. He teaches career switchers and senior developers and also has written a book "Functional Design Patterns for Express.js". Teaching career switchers has led him to adopt a pedagogy approach to teaching where he focuses on getting people to absorb relevant information faster. Some of the lessons he has learned when working with career switchers is the role of failure in the classroom. He noticed when something did not work in their code career switchers tended to want to start out again instead of debugging what was wrong with the code. Jonathan had to show that most of developing is turning failure into success and getting code that doesn't work bu debugging and asking for help.
+My JavaScript Story this week welcomes Maximiliano Firtman. Maximiliano Firtman is a mobile web developer from Buenos Ares, Argentina. He has been a developer for 24 years and his most recent focus has been on progressive web apps.
 
 **Host:** Charles Max Wood
 
