@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-Dave Cooper is a Data Analyst at E Database Marketing from London,UK. 
+Dave Cooper is a Data Analyst at E Database Marketing from London, UK. 
 
 ### Host: **Aaron Frost**
 
@@ -54,4 +54,4 @@ Dave Cooper is a Data Analyst at E Database Marketing from London,UK.
 
 ##### Dave Cooper:
 
-* 
+* Become a locksmith
