@@ -43,7 +43,7 @@ Dave Cooper Mohammed is a Software Architect, building Enterprise Web Applicatio
 ### Links
 
 * [Dave's Twitter](@davewritescodes)
-* 
+* [Dave's LinkedIn](https://www.linkedin.com/in/dave-cooper-9109ba79/)
 * [https://www.npmjs.com/package/data-mocks](https://www.npmjs.com/package/data-mocks "https://www.npmjs.com/package/data-mocks")
 
 ### Picks
