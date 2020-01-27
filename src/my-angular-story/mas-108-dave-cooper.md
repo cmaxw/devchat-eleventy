@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-Dave Cooper Mohammed is a Software Architect, building Enterprise Web Applications with more than 7 years of experience. He currently works at Tekzenit. Aaron and Zama discuss how many developers are actually self-taught and whether it is advisable to attend a Bootcamp. He has recently authored a book "Angular Projects: Build Nine Real-world Applications from Scratch Using Angular 8 and TypeScript" which is available at Amazon. Zama talks about the 9 projects he covers in his book.
+Dave Cooper is a Data Analyst at E Database Marketing from London,UK. 
 
 ### Host: **Aaron Frost**
 
