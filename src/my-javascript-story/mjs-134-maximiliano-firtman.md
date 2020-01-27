@@ -52,4 +52,8 @@ Maximiliano started coding when he was 11 years old by creating games and digita
 
 **Charles Max Wood:**
 
+* [Generation Z Unfiltered by Tim Elmore](https://www.amazon.com/Generation-Unfiltered-Challenges-Anxious-Population/dp/1732070342)
+
 **Maximiliano Firtman:**
+
+* 
