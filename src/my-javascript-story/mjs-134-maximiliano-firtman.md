@@ -23,6 +23,8 @@ answer4: ''
 ---
 My JavaScript Story this week welcomes Maximiliano Firtman. Maximiliano Firtman is a mobile web developer from Buenos Ares, Argentina. He has been a developer for 24 years and his most recent focus has been on progressive web apps.
 
+Maximiliano started coding when he was 11 years old by creating games and digital magazines. He got into web development by learning HTML in college. 
+
 **Host:** Charles Max Wood
 
 **Joined By Special Guest:** Maximiliano Firtman
@@ -43,7 +45,8 @@ My JavaScript Story this week welcomes Maximiliano Firtman. Maximiliano Firtman 
 ## Links
 
 * [JSJ 415: Progressive Web Apps with Maximiliano Firtman](https://devchat.tv/js-jabber/jsj-415-progressive-web-apps-with-maximiliano-firtman/)
-* 
+*  [Maximiliano Firtman Website](https://firt.mobi/books)
+* [Maximiliano Firtman Twitter](https://twitter.com/firt)
 
 ## Picks
 
