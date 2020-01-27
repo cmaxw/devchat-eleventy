@@ -3,9 +3,6 @@ podcast: views-on-vue
 tags:
 - podcast
 - views_on_vue
-- Eddie Zaneski
-- Shamiq Islam
-- Jasmine James
 layout: layouts/post.njk
 title: 'VoV 097: Views on Vue Live at Gitlab Commit 2019'
 date: 2020-01-28T11:00:00+0000
@@ -22,7 +19,7 @@ question4: ''
 answer4: ''
 
 ---
-In this episode of Views on Vue  Charles Max Wood interviews speakers at GitLab Commit 2019. Eddie Zaneski from Digital Ocean talks about "Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes", Shamiq Islam from Coinbase talks about "Closing the SDLC Loop- Automating Security" and Jasmine James, from Delta Airlines, discusses " How Delta Became Cloud Native-Avoiding the Vendor Lock".
+In this episode of Views on Vue,  Charles Max Wood interviews speakers at GitLab Commit 2019. Eddie Zaneski from Digital Ocean talks about "Creating a CI/CD Pipeline with GitLab and Kubernetes in 20 minutes", Shamiq Islam from Coinbase talks about "Closing the SDLC Loop- Automating Security" and Jasmine James, from Delta Airlines, discusses " How Delta Became Cloud Native-Avoiding the Vendor Lock".
 
 Eddie, Shamiq, and Jasmine give the 5 min "elevator pitch" for the talks they gave at the conference.
 
