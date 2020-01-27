@@ -10,7 +10,7 @@ title: 'MJS 134: Maximiliano Firtman'
 date: 2020-01-28T11:00:00+0000
 episode_number: '134'
 audio_url: https://media.devchat.tv/my-js-story/MJS_134_Maximiliano_Firtman.mp3
-duration: '34:49'
+duration: '39:49'
 question1: ''
 answer1: ''
 question2: ''
