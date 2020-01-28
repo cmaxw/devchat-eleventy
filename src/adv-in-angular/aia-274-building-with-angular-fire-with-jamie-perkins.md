@@ -5,6 +5,7 @@ tags:
 - adv-in-angular
 - Charles Max Wood
 - Jamie Perkins
+- adv_in_angular
 layout: layouts/post.njk
 title: 'AiA 274:  Building with Angular Fire with Jamie Perkins'
 date: 2020-01-28T11:00:00+0000
