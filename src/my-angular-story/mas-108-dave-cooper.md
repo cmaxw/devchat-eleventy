@@ -5,6 +5,7 @@ tags:
 - podcast
 - Aaron Frost
 - Dave Cooper
+- nail_interview
 layout: layouts/post.njk
 title: 'MAS 108: Dave Cooper'
 date: 2020-01-28T11:00:00+0000
