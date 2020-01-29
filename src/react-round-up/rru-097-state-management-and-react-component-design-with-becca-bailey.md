@@ -2,6 +2,7 @@
 podcast: react-round-up
 layout: layouts/post.njk
 tags:
+- podcast
 - Becca Bailey
 - Charles Max Wood
 - Dave Cooper
