@@ -1,23 +1,24 @@
 ---
 layout: layouts/post.njk
 podcast: adventures-in-dotnet
-title: '.NET 001:Welcome to Adventures in .NET'
-date: 2019-09-03T10:00:46.213Z
+title: ".NET 001:Welcome to Adventures in .NET"
+date: 2019-09-03T10:00:46.213+00:00
 episode_number: '001'
 duration: '27:31'
-audio_url: 'https://media.devchat.tv/adventures-in-dotnet/NET_001_Adventures_in_NET.mp3'
+audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_001_Adventures_in_NET.mp3
 tags:
-  - adventures_in_dotnet
-  - podcast
+- adventures_in_dotnet
+- podcast
+
 ---
 **Sponsors**
 
-- [CacheFly](https://www.cachefly.com/)
+* [CacheFly](https://www.cachefly.com/)
 
 **Panel**
 
-- Caleb Wells
-- Shawn Clabough
+* Caleb Wells
+* Shawn Clabough
 
 **Summary**
 
@@ -25,18 +26,18 @@ In this very first episode of Adventures in .NET the panel starts by introducing
 
 **Links**
 
-- [https://www.linkedin.com/in/calebcwells](https://www.linkedin.com/in/calebcwells)
-- [https://twitter.com/wopr\_dev](https://twitter.com/wopr_dev)
-- [https://www.facebook.com/Adventures-in-NET-373059030062837/       ](https://www.facebook.com/Adventures-in-NET-373059030062837/)
-- [https://twitter.com/adventures\_net](https://twitter.com/adventures_net)
+* [https://www.linkedin.com/in/calebcwells](https://www.linkedin.com/in/calebcwells)
+* [https://twitter.com/wopr_dev](https://twitter.com/wopr_dev)
+* [https://www.facebook.com/Adventures-in-NET-373059030062837/       ](https://www.facebook.com/Adventures-in-NET-373059030062837/)
+* [https://twitter.com/dotNET_Podcast](https://twitter.com/dotNET_Podcast "https://twitter.com/dotNET_Podcast")
 
 **Picks**
 
 **Caleb Wells:**
 
-- [Enneagram](https://www.enneagraminstitute.com/type-descriptions)
+* [Enneagram](https://www.enneagraminstitute.com/type-descriptions)
 
 **Shawn Clabough:**
 
-- [WarGames](https://www.imdb.com/title/tt0086567/)
-- [https://www.dotnetconf.net/](https://www.dotnetconf.net/)
+* [WarGames](https://www.imdb.com/title/tt0086567/)
+* [https://www.dotnetconf.net/](https://www.dotnetconf.net/)
