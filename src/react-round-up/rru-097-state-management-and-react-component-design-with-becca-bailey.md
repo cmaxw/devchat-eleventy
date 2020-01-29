@@ -45,32 +45,32 @@ Becca and the panel discuss alternatives to using Redux for state management, an
 
 ## **____________________________________________________________**
 
-## **Links**
+## Links
 
-* [**Becca’s ReactConf Talk**](https://conf.reactjs.org/event.html?beccaliz)
-* [**Formidable**](https://formidable.com/)
-* [**Redux**](https://redux.js.org/)
-* [**React Context**](https://www.smashingmagazine.com/2020/01/introduction-react-context-api/)
-* [**Angular**](https://angular.io/)
-* [**Dojo.io**](https://dojo.io/)
-* [**Prettier**](https://prettier.io/)
+* [Becca’s ReactConf Talk](https://conf.reactjs.org/event.html?beccaliz)
+* [Formidable](https://formidable.com/)
+* [Redux](https://redux.js.org/)
+* [React Context](https://www.smashingmagazine.com/2020/01/introduction-react-context-api/)
+* [Angular](https://angular.io/)
+* [Dojo.io](https://dojo.io/)
+* [Prettier](https://prettier.io/)
 
-## **Picks**
+## Picks
 
-**Thomas Aylott**
+Thomas Aylott
 
-* [**Rome research**](https://romeresearchcorp.com/)
+* [Rome research](https://romeresearchcorp.com/)
 
-**Charles Max Wood**
+Charles Max Wood
 
-* [**Bose Soundlink Headphones**](https://www.bose.com/en_us/products/headphones/over_ear_headphones/soundlink-around-ear-wireless-headphones-ii.html)
+* [Bose Soundlink Headphones](https://www.bose.com/en_us/products/headphones/over_ear_headphones/soundlink-around-ear-wireless-headphones-ii.html)
 
-**Dave Cooper**
+Dave Cooper
 
-* [**Styled components**](https://www.styled-components.com/)
-* [**Gatsby**](https://www.gatsbyjs.org/)
+* [Styled components](https://www.styled-components.com/)
+* [Gatsby](https://www.gatsbyjs.org/)
 
-**Becca Bailey**
+Becca Bailey
 
-* [**Victory**](https://formidable.com/open-source/victory/)
-* [**Brotopia**](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534)
+* [Victory](https://formidable.com/open-source/victory/)
+* [Brotopia](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534)
