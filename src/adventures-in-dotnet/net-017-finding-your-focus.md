@@ -5,7 +5,7 @@ tags:
 - podcast
 layout: layouts/post.njk
 title: ".NET 017: Finding Your Focus"
-date: 2020-01-07T18:52:00+0000
+date: 2020-01-07T18:52:00.000+00:00
 episode_number: '017'
 audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_017_Panel.mp3
 duration: '42:42'
@@ -20,7 +20,7 @@ question4: How can meditation help you find your focus?
 answer4: It calms you and clears your head.
 
 ---
-In this episode of Adventures in .NET the panel discusses the tools and techniques they use to find their focus while developing. They begin by discussing their personal obstacles when trying to focus on their work. Some of the panelists suffer from ADD, ADHD, and OCD, they explain the challenges these problems bring to their work. They also discuss the flow state good focus can bring and what can be accomplished during that time of deep work.
+The panelists of Adventures in .NET discuss the tools and techniques they use to find their focus while developing. They begin by discussing their personal obstacles when trying to focus on their work. Some of the panelists suffer from ADD, ADHD, and OCD, they explain the challenges these problems bring to their work. They also discuss the flow state good focus can bring and what can be accomplished during that time of deep work.
 
 The first tool they discuss that helps them focus is music. Music can be a distraction if it is the wrong music. They discuss the types of music that help them focus. The benefits of classical music, music without words and even rock music are considered by the panel.
 
@@ -40,7 +40,7 @@ They consider the merits of meditation. They all agree that meditation has many 
 
 ## **____________________________________________________________**
 
-**"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
 ## **____________________________________________________________**
 
@@ -50,7 +50,7 @@ They consider the merits of meditation. They all agree that meditation has many 
 * [www.linkedin.com/in/wai-liu](http://www.linkedin.com/in/wai-liu)
 * [https://twitter.com/WOPR_Dev](https://twitter.com/WOPR_Dev "https://twitter.com/WOPR_Dev")
 * [https://www.facebook.com/Adventures-in-NET-373059030062837/](https://www.facebook.com/Adventures-in-NET-373059030062837/ "https://www.facebook.com/Adventures-in-NET-373059030062837/")
-* [https://twitter.com/adventures_net](https://twitter.com/adventures_net "https://twitter.com/adventures_net")
+* [https://twitter.com/dotNET_Podcast](https://twitter.com/dotNET_Podcast "https://twitter.com/dotNET_Podcast")
 
 ### **Picks**
 
