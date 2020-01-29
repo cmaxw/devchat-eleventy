@@ -20,7 +20,7 @@ question4: When does refactoring become necessary?
 answer4: 'Refactoring becomes necessary when it becomes hard to make simple changes. '
 
 ---
-**Guest Becca Bailey gave a talk at ReactConf in 2019 called The State of React State in 2019 and will be giving another talk at an upcoming conference. She gives a summary of her ReactConf talk, which was inspired by her experiences she has had as a developer. In her talk, she talks about different tools and testing for state management. She and the panelists discuss how to recommend changing tools to a team instead of individuals. She shares some experiences from her job. They discuss ways to keep a work culture from turning toxic and how to start the conversation about state management. The React experts talk about strategies when you chose something for a project that ends up being the wrong decision, and prevent poor decisions like that in the future. It’s important to strike a balance between preparing for the future and anticipating it.**
+**React Round Up's guest, Becca Bailey gave a talk at ReactConf in 2019 called The State of React State in 2019 and will be giving another talk at an upcoming conference. She gives a summary of her ReactConf talk, which was inspired by her experiences she has had as a developer. In her talk, she talks about different tools and testing for state management. She and the panelists discuss how to recommend changing tools to a team instead of individuals. She shares some experiences from her job. They discuss ways to keep a work culture from turning toxic and how to start the conversation about state management. The React experts talk about strategies when you chose something for a project that ends up being the wrong decision, and prevent poor decisions like that in the future. It’s important to strike a balance between preparing for the future and anticipating it.**
 
 **Becca and the panel discuss alternatives to using Redux for state management, and some of the advantages of using it. They discuss how to decide what is put into local versus global state and how to know when you can depreciate shared state. Becca has helped teams decide what conventions they will use moving forward for managing local and global state, which gives you a standard for code reviews that reduces decision fatigue. They discuss common use cases for refactoring. Put simply, refactoring becomes necessary when it becomes hard to make simple changes. Becca also talks about being intentional about managing team culture and ways to prevent problems from arising in the future.**
 
@@ -36,7 +36,7 @@ answer4: 'Refactoring becomes necessary when it becomes hard to make simple chan
 
 ## **Sponsors**
 
-* [**NxPlaybook.com**](http://nxplaybook.com/) **- Use code ‘NXDEVCHAT’ for 50% off the official **[**https://nx.dev/React**](https://nx.dev/React "https://nx.dev/React") **Advanced Workspaces course!**
+* [**NxPlaybook.com__](http://nxplaybook.com/) **- Use code ‘NXDEVCHAT’ for 50% off the official **[**https://nx.dev/React**](https://nx.dev/React "https://nx.dev/React") **Advanced Workspaces course!**
 * [**G2i**](https://www.g2i.co/)
 
 ## **____________________________**
