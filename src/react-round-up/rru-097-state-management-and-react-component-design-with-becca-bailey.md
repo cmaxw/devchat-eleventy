@@ -2,6 +2,7 @@
 podcast: react-round-up
 layout: layouts/post.njk
 tags:
+- react_round_up
 - podcast
 - Becca Bailey
 - Charles Max Wood
