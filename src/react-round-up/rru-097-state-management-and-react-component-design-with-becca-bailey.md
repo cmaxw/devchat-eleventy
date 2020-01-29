@@ -2,8 +2,8 @@
 podcast: react-round-up
 layout: layouts/post.njk
 tags:
-- react_round_up
 - podcast
+- react_round_up
 title: 'RRU 097: State Management and React Component Design with Becca Bailey'
 date: 2020-01-28T11:00:00+0000
 episode_number: '097'
