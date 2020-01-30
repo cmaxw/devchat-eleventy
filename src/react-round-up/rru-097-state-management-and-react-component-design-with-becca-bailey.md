@@ -59,7 +59,7 @@ Becca and the panel discuss alternatives to using Redux for state management, an
 
 Thomas Aylott
 
-* [Rome research](https://romeresearchcorp.com/)
+* [Roam Research]()
 
 Charles Max Wood
 
