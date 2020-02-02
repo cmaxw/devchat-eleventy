@@ -40,8 +40,7 @@ My JavaScript Story this week welcomes Paul Cowan.
 
 ## Links
 
-* [JSJ 396: Publishing Your Book with Jonathan Lee Martin](https://devchat.tv/js-jabber/jsj-396-publishing-your-book-with-jonathan-lee-martin/)
-* [Jonathan's LinkedIn](https://www.linkedin.com/in/nybblr/)
+* [RRU 088: Frustrations with React Hooks with Paul Cowan](https://devchat.tv/react-round-up/rru-088-frustrations-with-react-hooks-with-paul-cowan/)
 * [Jonathan's Twitter](https://twitter.com/nybblr)
 * [https://jonathanleemartin.com/](https://jonathanleemartin.com/ "https://jonathanleemartin.com/")
 * [Functional Design Patterns for Express.js](https://www.amazon.com/Jonathan-Lee-Martin/e/B07THDLV9L?ref=sr_ntt_srch_lnk_1&qid=1579582388&sr=8-1)
