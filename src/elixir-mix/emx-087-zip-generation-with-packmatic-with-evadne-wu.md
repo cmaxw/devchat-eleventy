@@ -19,7 +19,7 @@ question4: ''
 answer4: ''
 
 ---
-In this episode of Elixir Mix the panel interviews Evadne Wu. 
+In this episode of Elixir Mix the panel interviews Evadne Wu about the Packmatic Library.
 
 The show begins with recent announcements specifically the acquisition of Plataformatec.
 
@@ -46,6 +46,11 @@ The show begins with recent announcements specifically the acquisition of Plataf
 ### **Links**
 
 * [https://elixirforum.com/t/plataformatec-acqui-hired-by-nubank/28072/7?u=brainlid](https://elixirforum.com/t/plataformatec-acqui-hired-by-nubank/28072/7?u=brainlid "https://elixirforum.com/t/plataformatec-acqui-hired-by-nubank/28072/7?u=brainlid")
+* [http://blog.plataformatec.com.br/2020/01/important-information-about-our-elixir-and-ruby-open-source-projects/](http://blog.plataformatec.com.br/2020/01/important-information-about-our-elixir-and-ruby-open-source-projects/ "http://blog.plataformatec.com.br/2020/01/important-information-about-our-elixir-and-ruby-open-source-projects/")
+* [https://medium.com/building-nubank/tech-perspectives-behind-nubanks-first-acquisition-deal-what-this-business-move-means-and-how-it-d7d1233c72b8](https://medium.com/building-nubank/tech-perspectives-behind-nubanks-first-acquisition-deal-what-this-business-move-means-and-how-it-d7d1233c72b8 "https://medium.com/building-nubank/tech-perspectives-behind-nubanks-first-acquisition-deal-what-this-business-move-means-and-how-it-d7d1233c72b8")
+* [Evadne's Twitter](https://twitter.com/evadne)
+* [Evadne's GitHub](https://github.com/evadne)
+* [Evadne's Website](https://about.radi.ws)
 
 ### **Picks**
 
