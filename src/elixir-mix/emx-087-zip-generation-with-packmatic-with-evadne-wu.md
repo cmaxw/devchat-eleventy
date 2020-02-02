@@ -3,6 +3,11 @@ podcast: elixir-mix
 tags:
 - podcast
 - elixir_mix
+- Mark Ericksen
+- Eric Oestrich
+- Sophie DeBenedetto
+- Evadne Wu
+- Packmatic
 layout: layouts/post.njk
 title: 'EMx 087: Zip Generation with Packmatic with Evadne Wu'
 date: 2020-02-04T11:00:00+0000
