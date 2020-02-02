@@ -19,11 +19,9 @@ question4: ''
 answer4: ''
 
 ---
-In this episode of Elixir Mix the panel interviews Mike Binns. Mike is a Senior Software Engineer at DockYard, Inc. and he presented at ElixirConf 2019 about getting a whole team new to Elixir up to speed quickly with Cars.com.
+In this episode of Elixir Mix the panel interviews Evadne Wu. 
 
-Mike explains why Elixir was chosen as the technology to use and how much effort and planning goes into helping a team transition. Cars.com had already decided to move onto Elixir and brought on DockYard to train their engineers.
-
-Mike advises recognizing the existing team's previous skillset and experience levels. Mike and fellow DockYard colleague captured what they learned in [Project Ironman](https://github.com/TheFirstAvenger/ironman) which automatically adds things like credo, dialyzer, coveralls, mix test watch, etc… to your project. They then talk about what mob programming is and how it helps to arm a new team. Finally, the panel asks Mike if he would do anything differently and tips for bringing new developers into a running project and team.
+The show begins with recent announcements specifically the acquisition of Plataformatec.
 
 ### **Panelists**
 
@@ -47,20 +45,7 @@ Mike advises recognizing the existing team's previous skillset and experience le
 
 ### **Links**
 
-* [ElixirConf 2019 - 0-60 in under 3: How Cars.com and DockYard Manufactured a Productive Elixir Team in Under 3 Months](https://www.youtube.com/watch?v=zKifFG4i-bY)
-* [https://basecamp.com/shapeup](https://basecamp.com/shapeup "https://basecamp.com/shapeup")
-* [https://github.com/rrrene/credo](https://github.com/rrrene/credo "https://github.com/rrrene/credo")
-* [https://github.com/jeremyjh/dialyxir](https://github.com/jeremyjh/dialyxir "https://github.com/jeremyjh/dialyxir")
-* [https://code.visualstudio.com/](https://code.visualstudio.com/ "https://code.visualstudio.com/")
-* [https://github.com/elixir-lsp/vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls "https://github.com/elixir-lsp/vscode-elixir-ls")
-* [http://erlang.org/doc/man/ets.html](http://erlang.org/doc/man/ets.html "http://erlang.org/doc/man/ets.html")
-* [https://github.com/TheFirstAvenger/ets](https://github.com/TheFirstAvenger/ets "https://github.com/TheFirstAvenger/ets")
-* [https://github.com/TheFirstAvenger/ironman](https://github.com/TheFirstAvenger/ironman "https://github.com/TheFirstAvenger/ironman")
-* [Mike's Twitter](https://twitter.com/1stAvenger)
-* [Mike's GitHub](https://github.com/TheFirstAvenger)
-* [Mike's Blog](https://dockyard.com/blog/authors/mike-binns)
-* [https://www.facebook.com/Elixir-Mix](https://www.facebook.com/Elixir-Mix "https://www.facebook.com/Elixir-Mix")
-* [https://twitter.com/elixir_mix](https://twitter.com/elixir_mix "https://twitter.com/elixir_mix")
+* [https://elixirforum.com/t/plataformatec-acqui-hired-by-nubank/28072/7?u=brainlid](https://elixirforum.com/t/plataformatec-acqui-hired-by-nubank/28072/7?u=brainlid "https://elixirforum.com/t/plataformatec-acqui-hired-by-nubank/28072/7?u=brainlid")
 
 ### **Picks**
 
