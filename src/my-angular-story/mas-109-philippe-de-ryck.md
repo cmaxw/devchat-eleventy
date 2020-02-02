@@ -25,9 +25,7 @@ Dave Cooper is a Data Analyst at E Database Marketing from London, UK. Dave shar
 
 ### Joined By Special Guest: Philippe De Ryck
 
-## **My Angular Story is produced by DevChat.TV in partnership with Hero Devs.**
-
-### Sponsors
+## Sponsors
 
 * [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit
 * [Cachefly](https://www.cachefly.com/)
