@@ -63,8 +63,7 @@ Evadne then talks about what the Packmatic Library is, why he created it, and ho
 
 **Eric Oestrich:**
 
-* [Zigler](https://hexdocs.pm/zigler/Zigler.html)
-* [Zig Programming Language](https://ziglang.org/)
+* [https://bulletjournal.com/](https://bulletjournal.com/)
 
 **Sophie DeBenedetto:**
 
@@ -73,9 +72,8 @@ Evadne then talks about what the Packmatic Library is, why he created it, and ho
 
 **Mark Ericksen:**
 
-* [https://thinkingelixir.com/elixir-in-vs-code/](https://thinkingelixir.com/elixir-in-vs-code/ "https://thinkingelixir.com/elixir-in-vs-code/")
-* [https://thinkingelixir.com/vs-code-broken-for-elixir/](https://thinkingelixir.com/vs-code-broken-for-elixir/ "https://thinkingelixir.com/vs-code-broken-for-elixir/")
-* Upgrading your graphics card - [AMD Radeon RX 590](https://devchat.tv/elixir-mix/emx-086-teaching-your-team-elixir-with-mike-binns/)
+* [https://weasyprint.org/](https://weasyprint.org/ "https://weasyprint.org/")
+* [https://weasyprint.readthedocs.io/en/latest/index.html](https://weasyprint.readthedocs.io/en/latest/index.html "https://weasyprint.readthedocs.io/en/latest/index.html")
 
 **Evadne Wu:**
 
