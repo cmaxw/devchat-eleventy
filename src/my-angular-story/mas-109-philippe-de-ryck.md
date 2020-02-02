@@ -46,8 +46,8 @@ Philippe De Ryck is a web security expert out of Belgium.
 ##### **Charles Max Wood**:
 
 * [Security Engineering Book](https://amzn.to/2PDJGF9)
-* [https://amzn.to/2Pi14jQ](https://amzn.to/2Pi14jQ "https://amzn.to/2Pi14jQ")
-* [https://amzn.to/35gFDoD](https://amzn.to/35gFDoD "https://amzn.to/35gFDoD")
+* [Anova Culinary Sous Vide Precision Cooker Nano](https://amzn.to/2Pi14jQ)
+* [Masterbuilt Smoke Hollow SH19079518 Digital Electric Smoker](https://amzn.to/35gFDoD)
 
 ##### Philippe De Ryck:
 
