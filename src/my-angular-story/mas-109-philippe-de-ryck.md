@@ -38,8 +38,7 @@ Dave Cooper is a Data Analyst at E Database Marketing from London, UK. Dave shar
 
 ### Links
 
-* [Dave's Twitter](https://devchat.tv/my-angular-story/mas-108-dave-cooper/@davewritescodes)
-* [Dave's LinkedIn](https://www.linkedin.com/in/dave-cooper-9109ba79/)
+* [AiA 268: Secure Angular Apps with Philippe De Ryck](https://devchat.tv/adv-in-angular/aia-268-secure-angular-apps-with-philippe-de-ryck/)
 * [https://pragmaticwebsecurity.com](https://pragmaticwebsecurity.com "https://pragmaticwebsecurity.com")
 
 ### Picks
