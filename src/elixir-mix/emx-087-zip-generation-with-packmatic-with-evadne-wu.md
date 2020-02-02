@@ -23,7 +23,7 @@ In this episode of Elixir Mix the panel interviews Evadne Wu about the Packmatic
 
 The show begins with recent announcements specifically the acquisition of Plataformatec. 
 
-Evadne then talks about what the Packmatic Library is, why he created it, and how it works. 
+Evadne then talks about what the Packmatic Library is, why he created it, and how it works. He then talks about how his experience been writing, promoting and maintaining an open source library.
 
 ### **Panelists**
 
