@@ -3,6 +3,8 @@ podcast: my-angular-story
 tags:
 - my_angular_story
 - podcast
+- Charles Max Wood
+- Philippe De Ryck
 layout: layouts/post.njk
 title: 'MAS 109: Philippe De Ryck'
 date: 2020-02-04T11:00:00+0000
