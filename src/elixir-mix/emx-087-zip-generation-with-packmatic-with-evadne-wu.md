@@ -77,5 +77,5 @@ Evadne then talks about what the Packmatic Library is, why he created it, and ho
 
 **Evadne Wu:**
 
-* [https://github.com/elbow-jason/annex](https://github.com/elbow-jason/annex "https://github.com/elbow-jason/annex")
-* [https://github.com/elbow-jason/open_cl_rust](https://github.com/elbow-jason/open_cl_rust "https://github.com/elbow-jason/open_cl_rust")
+* [http://smallmemory.com/book.html](http://smallmemory.com/book.html "http://smallmemory.com/book.html")
+* [https://github.com/holsee/chroxy](https://github.com/holsee/chroxy "https://github.com/holsee/chroxy")
