@@ -46,7 +46,7 @@ Dave Cooper is a Data Analyst at E Database Marketing from London, UK. Dave shar
 
 ### Picks
 
-##### Aaron Frost:
+##### **Charles Max Wood**:
 
 * Survivor - TV Show
 
