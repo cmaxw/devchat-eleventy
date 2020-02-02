@@ -21,7 +21,9 @@ answer4: ''
 ---
 In this episode of Elixir Mix the panel interviews Evadne Wu about the Packmatic Library.
 
-The show begins with recent announcements specifically the acquisition of Plataformatec.
+The show begins with recent announcements specifically the acquisition of Plataformatec. 
+
+Evadne then talks about what the Packmatic Library is, why he created it, and how it works. 
 
 ### **Panelists**
 
@@ -51,6 +53,11 @@ The show begins with recent announcements specifically the acquisition of Plataf
 * [Evadne's Twitter](https://twitter.com/evadne)
 * [Evadne's GitHub](https://github.com/evadne)
 * [Evadne's Website](https://about.radi.ws)
+* [https://github.com/evadne/packmatic](https://github.com/evadne/packmatic "https://github.com/evadne/packmatic")
+* [https://elixirforum.com/t/packmatic-on-the-fly-zip-generation/26464](https://elixirforum.com/t/packmatic-on-the-fly-zip-generation/26464 "https://elixirforum.com/t/packmatic-on-the-fly-zip-generation/26464")
+* [https://en.wikipedia.org/wiki/Zip_(file_format)#ZIP64](https://en.wikipedia.org/wiki/Zip_(file_format)#ZIP64)
+* [https://hexdocs.pm/plug/Plug.Conn.html#send_chunked/2](https://hexdocs.pm/plug/Plug.Conn.html#send_chunked/2 "https://hexdocs.pm/plug/Plug.Conn.html#send_chunked/2")
+* [https://github.com/evadne/packmatic#source-types](https://github.com/evadne/packmatic#source-types "https://github.com/evadne/packmatic#source-types")
 
 ### **Picks**
 
