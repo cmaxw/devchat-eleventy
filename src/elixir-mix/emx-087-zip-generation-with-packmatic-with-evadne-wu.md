@@ -28,7 +28,7 @@ Evadne then talks about what the Packmatic Library is, why he created it, and ho
 ### **Panelists**
 
 * Mark Ericksen
-* Eric
+* Eric Oestrich
 * Sophie DeBenedetto
 
 ### **Guest**
@@ -61,7 +61,7 @@ Evadne then talks about what the Packmatic Library is, why he created it, and ho
 
 ### **Picks**
 
-**Eric :**
+**Eric Oestrich:**
 
 * [Zigler](https://hexdocs.pm/zigler/Zigler.html)
 * [Zig Programming Language](https://ziglang.org/)
