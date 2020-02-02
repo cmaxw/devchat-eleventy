@@ -19,7 +19,7 @@ question4: ''
 answer4: ''
 
 ---
-Dave Cooper is a Data Analyst at E Database Marketing from London, UK. Dave shares how he got introduced to Angular and AngularJS. Dave also shares a funny anecdote about how before a job interview the code he practiced was what was asked in the interview and so he nailed that interview. Dave and Aaron talk about how rare that is and Aaron asks the audience to tweet him with similar interview stories.
+Philippe De Ryck is a web security expert out of Belgium.
 
 ### Host: **Charles Max Wood**
 
