@@ -68,7 +68,8 @@ Evadne then talks about what the Packmatic Library is, why he created it, and ho
 
 **Sophie DeBenedetto:**
 
-* [https://badanimals.net/should-i-level-up-my-technical-skills-before-starting-a-freelance-business/](https://badanimals.net/should-i-level-up-my-technical-skills-before-starting-a-freelance-business/ "https://badanimals.net/should-i-level-up-my-technical-skills-before-starting-a-freelance-business/")
+* [https://grox.io/series/quad](https://grox.io/series/quad "https://grox.io/series/quad")
+* [Williams Sonoma Mug](https://www.williams-sonoma.com/products/gold-monogram-mug-2017/?catalogId=61&sku=2605587&cm_ven=PLA&cm_cat=Google&cm_pla=Tabletop%20%26%20Bar%20%3E%20Coffee%20Mugs%20%26%20Tea%20Cups&cm_ite=2605587&gclid=Cj0KCQiA9dDwBRC9ARIsABbedBMn2xHUR3B8JGi4YOuzlrPwK78DeIzEG01leC8dLRzDVGj5HBx_s_YaAuAbEALw_wcB)
 
 **Mark Ericksen:**
 
