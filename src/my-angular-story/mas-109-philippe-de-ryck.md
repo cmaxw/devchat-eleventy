@@ -40,14 +40,18 @@ Dave Cooper is a Data Analyst at E Database Marketing from London, UK. Dave shar
 
 * [Dave's Twitter](https://devchat.tv/my-angular-story/mas-108-dave-cooper/@davewritescodes)
 * [Dave's LinkedIn](https://www.linkedin.com/in/dave-cooper-9109ba79/)
-* [https://www.npmjs.com/package/data-mocks](https://www.npmjs.com/package/data-mocks "https://www.npmjs.com/package/data-mocks")
+* [https://pragmaticwebsecurity.com](https://pragmaticwebsecurity.com "https://pragmaticwebsecurity.com")
 
 ### Picks
 
 ##### **Charles Max Wood**:
 
-* Survivor - TV Show
+* [Security Engineering Book](https://amzn.to/2PDJGF9)
+* [https://amzn.to/2Pi14jQ](https://amzn.to/2Pi14jQ "https://amzn.to/2Pi14jQ")
+* [https://amzn.to/35gFDoD](https://amzn.to/35gFDoD "https://amzn.to/35gFDoD")
 
 ##### Philippe De Ryck:
 
-* Become a locksmith
+* [https://www.foodpairing.com/en/home](https://www.foodpairing.com/en/home)
+* [https://letsencrypt.org/](https://letsencrypt.org/ "https://letsencrypt.org/")
+* [https://www.chefsteps.com/](https://www.chefsteps.com/ "https://www.chefsteps.com/")
