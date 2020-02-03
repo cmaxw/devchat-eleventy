@@ -21,7 +21,6 @@ question4: ''
 answer4: ''
 
 ---
-
 My JavaScript Story this week welcomes Paul Cowan. Paul Cowan was a painter and decorator for 30 years until he switched to front end development.
 
 **Host:** Charles Max Wood
@@ -42,7 +41,8 @@ My JavaScript Story this week welcomes Paul Cowan. Paul Cowan was a painter and 
 ## Links
 
 * [RRU 088: Frustrations with React Hooks with Paul Cowan](https://devchat.tv/react-round-up/rru-088-frustrations-with-react-hooks-with-paul-cowan/)
-* 
+* [Paul's Twitter](https://twitter.com/dagda1)
+* [Paul's Blog]()
 
 ## Picks
 
