@@ -46,6 +46,16 @@ My JavaScript Story this week welcomes Paul Cowan. Paul Cowan was a painter and 
 
 ## Picks
 
+**Paul Cowan:**
+
+* [https://blog.logrocket.com/](https://blog.logrocket.com/ "https://blog.logrocket.com/")
+* Fitness and MMA Fight
+
 **Charles Max Wood:**
 
-**Paul Cowan:**
+* #100daysofvue @ Devchat.tv YouTube Channel [https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw/videos](https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw/videos "https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw/videos")
+* Devchat.tv Upcoming Workshops:
+  * "How To Stay Current"
+  *  "How to Find Your Dream Developer Job"
+  * "How to Start a Podcast" 
+* Sign up for the Newsletter @ [https://devchat.tv/subscribe/](https://devchat.tv/subscribe/    "https://devchat.tv/subscribe/") to receive information about our upcoming workshops 
