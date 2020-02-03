@@ -3,6 +3,8 @@ podcast: my-javascript-story
 tags:
 - podcast
 - my_javascript_story
+- Charles Max Wood
+- Paul Cowan
 layout: layouts/post.njk
 title: 'MJS 135: Paul Cowan'
 date: 2020-02-04T11:00:00+0000
