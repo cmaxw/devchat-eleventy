@@ -53,9 +53,9 @@ My JavaScript Story this week welcomes Paul Cowan. Paul Cowan was a painter and 
 
 **Charles Max Wood:**
 
-* "#100daysofvue"  Vue Leaning Challenge@ Devchat.tv YouTube Channel [https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw/videos](https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw/videos "https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw/videos")
+* "#100daysofvue"  Vue Learning Challenge @ Devchat.tv YouTube Channel [https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw/videos](https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw/videos "https://www.youtube.com/channel/UCABJEQ57MIn6X3TIHIebJUw/videos")
 * Devchat.tv Upcoming Workshops:
   * "How To Stay Current"
-  *  "How to Find Your Dream Developer Job"
-  * "How to Start a Podcast" 
-* Sign up for the newsletter @ [https://devchat.tv/subscribe/](https://devchat.tv/subscribe/    "https://devchat.tv/subscribe/") to receive information about our upcoming workshops 
+  * "How to Find Your Dream Developer Job"
+  * "How to Start a Podcast"
+* Sign up for the newsletter @ [https://devchat.tv/subscribe/](https://devchat.tv/subscribe/    "https://devchat.tv/subscribe/") to receive information about our upcoming workshops
