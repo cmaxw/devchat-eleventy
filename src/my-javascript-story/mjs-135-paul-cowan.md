@@ -47,10 +47,4 @@ My JavaScript Story this week welcomes Paul Cowan. Paul Cowan was a painter and 
 
 **Charles Max Wood:**
 
-* Pomodoro Timer
-* [Amazon Fire tv stick](https://www.amazon.com/Fire-TV-Stick-with-Alexa-Voice-Remote/dp/B0791TX5P5)
-
 **Paul Cowan:**
-
-* [https://blog.logrocket.com/make-your-react-website-accessible/](https://blog.logrocket.com/make-your-react-website-accessible/ "https://blog.logrocket.com/make-your-react-website-accessible/")
-* [https://bigtestjs.io](https://bigtestjs.io "https://bigtestjs.io")
