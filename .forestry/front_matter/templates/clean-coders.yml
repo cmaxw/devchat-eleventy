@@ -18,3 +18,5 @@ fields:
   config: {}
   template: podcast
   label: Podcast Fields
+pages:
+- src/clean-coders/cc-001-clean-agile-with-robert-uncle-bob-martin.md
