@@ -28,6 +28,8 @@ In this episode of Elixir Mix the panel interviews Evadne Wu about the Packmatic
 
 The show begins with recent announcements specifically the acquisition of Plataformatec.
 
+Evadne works at Faria Education Group developing apps using Elixir. He works with a small team and he talks about the pros and cons of working in a small team.
+
 Evadne then talks about what the Packmatic Library is, why he created it, and how it works. He then talks about how his experience been writing, promoting and maintaining an open source library. 
 
 ### **Panelists**
