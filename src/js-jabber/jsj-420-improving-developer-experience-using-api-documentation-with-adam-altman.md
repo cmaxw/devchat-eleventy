@@ -34,7 +34,7 @@ Chuck or Host Summary
 
 ## Sponsors
 
-* [G2i](https://www.g2i.co/)
+* [G2i](https://www.g2i.co/?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
 
 ## **____________________________**
 
