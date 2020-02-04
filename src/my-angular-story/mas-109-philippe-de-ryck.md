@@ -22,7 +22,9 @@ question4: ''
 answer4: ''
 
 ---
-Philippe De Ryck is a web security expert out of Belgium. 
+Philippe De Ryck is a web security expert out of Belgium. Philippe trains developers on building secure apps. 
+
+Phlippe started coding in high school and worked on system administration projects. He then went onto get a PhD in security. Along with security he also worked on development so when he is working with clients he can go through the code and point out security problems. 
 
 ### Host: **Charles Max Wood**
 
