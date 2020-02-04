@@ -7,7 +7,7 @@ tags:
 - Paul Cowan
 layout: layouts/post.njk
 title: 'MJS 135: Paul Cowan'
-date: 2020-02-04T11:00:00+0000
+date: 2020-02-04T11:00:00.000+00:00
 episode_number: '135'
 audio_url: https://media.devchat.tv/my-js-story/MJS_135_Paul_Cowan.mp3
 duration: '43:52'
@@ -21,7 +21,9 @@ question4: ''
 answer4: ''
 
 ---
-My JavaScript Story this week welcomes Paul Cowan. Paul Cowan was a painter and decorator for 30 years until he switched to front end development.
+My JavaScript Story this week welcomes Paul Cowan. Paul works as a consultant in front end development. He learned how to program at a really early age but didn't own an email address until he was 30 years old. When he was 30 years old he wanted to change his lifestyle and attended a course in London and took a job as a software developer. 
+
+Paul was interested in React because, for him, much of programming didn’t make a whole lot of sense until he read about the flux model and React Redux was one of the few frameworks that followed the flux model. Spending most of his life outside of the programming world has granted him a unique perspective framework like React.
 
 **Host:** Charles Max Wood
 

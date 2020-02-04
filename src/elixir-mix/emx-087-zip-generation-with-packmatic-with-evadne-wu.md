@@ -10,7 +10,7 @@ tags:
 - Packmatic
 layout: layouts/post.njk
 title: 'EMx 087: Zip Generation with Packmatic with Evadne Wu'
-date: 2020-02-04T11:00:00+0000
+date: 2020-02-04T11:00:00.000+00:00
 episode_number: '87'
 audio_url: https://media.devchat.tv/elixir-mix/EMx_087_Evadne_Wu.mp3
 duration: '46:09'
@@ -26,9 +26,11 @@ answer4: ''
 ---
 In this episode of Elixir Mix the panel interviews Evadne Wu about the Packmatic Library.
 
-The show begins with recent announcements specifically the acquisition of Plataformatec. 
+The show begins with recent announcements specifically the acquisition of Plataformatec.
 
-Evadne then talks about what the Packmatic Library is, why he created it, and how it works. He then talks about how his experience been writing, promoting and maintaining an open source library.
+Evadne works at Faria Education Group as Head of Exam Sytems developing apps using Elixir. Evadne works with a small team and he talks about the pros and cons of working in a small team.
+
+Evadne then talks about what the Packmatic Library is, why it was created, and how it works. Finally, Evadne talks about writing, promoting and maintaining an open source library.
 
 ### **Panelists**
 
