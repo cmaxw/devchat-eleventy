@@ -10,11 +10,5 @@
   "email_form_id": "19",
   "color": "blue",
   "linkedin": "https://linkedin.com/company/devchat",
-  "twitter": "#",
-  "facebook": "#",
-  "rss": "#",
-  "google_play": "#",
-  "spotify": "#",
-  "stitcher": "#",
-  "itunes": "#"
+  "rss": "https://feeds.feedwrench.com/cleancoders.rss"
 }
