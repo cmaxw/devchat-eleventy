@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-My JavaScript Story this week welcomes Paul Cowan. Paul works as a consultant in front end development. He learned how to program at a really early age but didn't own an email address until he was 30 years old. When he was 30 years old he wanted to change his lifestyle and attended a course in London and took a job as a software developer as a front end developer. 
+My JavaScript Story this week welcomes Paul Cowan. Paul works as a consultant in front end development. He learned how to program at a really early age but didn't own an email address until he was 30 years old. When he was 30 years old he wanted to change his lifestyle and attended a course in London and took a job as a software developer. 
 
 Paul was interested in React because, for him, much of programming didn’t make a whole lot of sense until he read about the flux model and React Redux was one of the few frameworks that followed the flux model. Spending most of his life outside of the programming world has granted him a unique perspective framework like React.
 
