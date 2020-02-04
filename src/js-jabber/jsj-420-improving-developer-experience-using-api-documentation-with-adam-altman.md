@@ -13,13 +13,13 @@ tags:
 - Dan Shappir
 title: 'JSJ 420: Improving Developer Experience Using API Documentation with Adam
   Altman'
-date: 2020-02-11T11:00:00Z
+date: 2020-02-11T11:00:00.000+00:00
 episode_number: 420
 duration: '45:45'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_420_Adam_Altman.mp3
 
 ---
-Chuck or Host Summary 
+Chuck or Host Summary
 
 ## Panelists
 
@@ -34,7 +34,7 @@ Chuck or Host Summary
 
 ## Sponsors
 
-* [G2i](JavaScript JabberG2i.co?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
+* [G2i](https://www.g2i.co/)
 
 ## **____________________________**
 
@@ -52,22 +52,21 @@ Chuck or Host Summary
 
 **Steve Edwards:**
 
-* [King Kong Apparel](https://kingkongapparel.com/)
+* [https://wesbos.com/announcing-my-css-grid-course/](https://wesbos.com/announcing-my-css-grid-course/)
+* [https://flexbox.io/](https://flexbox.io/ "https://flexbox.io/")
 
 **Aimee Knight:**
 
-* [Developers Mentoring Other Developers](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/)
+* [ https://github.com/ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList)
 
 **Dan Shappir:**
 
-* [The Web Almanac](https://almanac.httparchive.org/en/2019/)
+* [Old Kingdom Book Series](https://en.wikipedia.org/wiki/Old_Kingdom_(book_series))
 
 **AJ O’Neal:**
 
-* Photography
-* [Magic Lantern](https://magiclantern.fm/)
+* [Final Fantasy VII and VIII (Physical Copy, English) on Play Asia](https://www.play-asia.com/final-fantasy-vii-final-fantasy-viii-remastered-twin-pack-multi/13/70cs9p)
 
 **Adam Altman:**
 
-* [Cold Turkey app](https://getcoldturkey.com/)
-* Follow Ben at [Benlcollins.com](https://www.benlcollins.com/) and [Twitter](https://twitter.com/benlcollins?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [concepts.app](concepts.app)
