@@ -20,3 +20,4 @@ fields:
   label: Podcast Fields
 pages:
 - src/clean-coders/cc-001-clean-agile-with-robert-uncle-bob-martin.md
+- src/clean-coders/cc-002-agile-model-for-success-and-infoops-with-daniel-markham.md
