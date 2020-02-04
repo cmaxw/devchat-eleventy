@@ -21,7 +21,9 @@ question4: ''
 answer4: ''
 
 ---
-My JavaScript Story this week welcomes Paul Cowan. Paul Cowan was a painter and decorator for 30 years until he switched to front end development. He got into React because for him, much of programming didn’t make a whole lot of sense until he read about the flux model, and React Redux was one of the few frameworks that followed the flux model. Spending most of his life outside of the programming world has granted him a unique perspective frameworks like React.
+My JavaScript Story this week welcomes Paul Cowan. Paul learned how to program at a really early age but didn't own an email address until he was 30 years old. He attended a course in London and took a job as a software developer as a front end developer. 
+
+He got into React because for him, much of programming didn’t make a whole lot of sense until he read about the flux model, and React Redux was one of the few frameworks that followed the flux model. Spending most of his life outside of the programming world has granted him a unique perspective frameworks like React.
 
 **Host:** Charles Max Wood
 
