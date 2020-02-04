@@ -5,7 +5,7 @@ tags:
 - react_native_radio
 layout: layouts/post.njk
 title: 'RNR 153: Getting Down with Native Code'
-date: 2020-02-04T11:00:00+0000
+date: 2020-02-04T11:00:00.000+00:00
 episode_number: '153'
 audio_url: https://media.devchat.tv/reactnativeradio/RNR_153_Panel.mp3
 duration: '56:21'
@@ -27,8 +27,6 @@ The panel shares use cases for native code, when native SDKs need to be integrat
 ### **Panelists**
 
 * Josh Justice
-
-
 * Jamon Holmgren
 * Christopher Reyes
 
