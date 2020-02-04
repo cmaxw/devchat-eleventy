@@ -34,7 +34,7 @@ Chuck or Host Summary
 
 ## Sponsors
 
-* [G2i](JavaScript JabberG2i.co?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
+* [G2i](https://www.g2i.co/)
 
 ## **____________________________**
 
@@ -57,7 +57,7 @@ Chuck or Host Summary
 
 **Aimee Knight:**
 
-* [ https://github.com/ErikCH/DevYouTubeList]( https://github.com/ErikCH/DevYouTubeList)
+* [ https://github.com/ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList)
 
 **Dan Shappir:**
 
