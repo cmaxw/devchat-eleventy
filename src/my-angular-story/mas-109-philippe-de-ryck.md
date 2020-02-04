@@ -26,6 +26,8 @@ Philippe De Ryck is a web security expert out of Belgium. Philippe trains develo
 
 Phlippe started coding in high school and worked on system administration projects. He then went onto get a PhD in security. Along with security he also worked on development so when he is working with clients he can go through the code and point out security problems. 
 
+Philippe also gives some tips to those who want to get started on security consulting. Philippe says its a mindset and a person just needs to dive in and start reading books and blogs about it to develop the approach. 
+
 ### Host: **Charles Max Wood**
 
 ### Joined By Special Guest: Philippe De Ryck
