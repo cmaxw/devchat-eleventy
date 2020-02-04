@@ -1,16 +1,18 @@
 ---
 layout: layouts/post.njk
 podcast: clean-coders
-title: >
-  Clean Agile with Robert "Uncle Bob" Martin
-date: 2010-12-12T10:00:46.213Z
+title: 'Clean Agile with Robert "Uncle Bob" Martin
+
+'
+date: 2037-12-11T10:00:46+0000
 episode_number: '001'
 duration: '27:31'
-audio_url: 'https://media.devchat.tv/adventures-in-dotnet/NET_001_Adventures_in_NET.mp3'
+audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_001_Adventures_in_NET.mp3
 tags:
-  - clean_coders
-  - podcast
+- clean_coders
+- podcast
 ignore: true
+
 ---
 **Sponsors**
 
