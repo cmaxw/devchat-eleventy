@@ -48,12 +48,12 @@ summary
 ### **Links**
 
 * [https://www.instagram.com/fromseedtospoon/](https://www.instagram.com/fromseedtospoon/ "https://www.instagram.com/fromseedtospoon/")
-* [https://amzn.to/383fTNu](https://amzn.to/383fTNu "The Depression Cure")
+* [The Depression Cure](https://amzn.to/383fTNu)
 * [https://www.seedtospoon.net/](https://www.seedtospoon.net/ "https://www.seedtospoon.net/")
 * [https://capacitor.ionicframework.com/](https://capacitor.ionicframework.com/ "https://capacitor.ionicframework.com/")
 * [https://getbootstrap.com/](https://getbootstrap.com/ "https://getbootstrap.com/")
 * [https://cordova.apache.org/](https://cordova.apache.org/ "https://cordova.apache.org/")
-* [https://amzn.to/2TjWSCo](https://amzn.to/2TjWSCo "Essentialism")
+* [Essentialism](https://amzn.to/2TjWSCo)
 * [https://www.facebook.com/adventuresinangular](https://www.facebook.com/adventuresinangular "https://www.facebook.com/adventuresinangular")
 * [https://twitter.com/angularpodcast](https://twitter.com/angularpodcast "https://twitter.com/angularpodcast")
 
