@@ -3,6 +3,10 @@ podcast: react-native-radio
 tags:
 - podcast
 - react_native_radio
+- Josh Justice
+- Jamon Holmgren
+- Christopher Reyes
+- Omri Bruchim
 layout: layouts/post.njk
 title: 'RNR 154: Working with React Native in Scale with Omri Bruchim'
 date: 2020-02-11T11:00:00+0000
