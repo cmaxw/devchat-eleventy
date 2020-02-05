@@ -1,17 +1,16 @@
 ---
 layout: layouts/post.njk
-title: >
-  129 JSJ BaaS with Ryan Done
-date: 2014-10-08 13:00:00
+title: 'JSJ 129: BaaS with Ryan Done'
+date: 2014-10-08T13:00:00.000+00:00
 episode_number: 129
-duration:
+duration: 
 audio_url: https://media.devchat.tv/js-jabber/JSJ129BaaS.mp3
 podcast: js-jabber
 tags:
-  - js_jabber
-  - podcast
----
+- js_jabber
+- podcast
 
+---
 ### Panel
 
 - Ryan Done ([twitter](https://twitter.com/pickledego)&nbsp;[github](https://github.com/rbdone))
