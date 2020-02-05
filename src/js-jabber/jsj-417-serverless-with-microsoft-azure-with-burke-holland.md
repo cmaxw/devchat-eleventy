@@ -15,7 +15,7 @@ tags:
 - Charles Max Wood
 - 'Burke Holland '
 title: 'JSJ 417: Serverless with Microsoft Azure with Burke Holland'
-date: 2020-01-21T11:00:00Z
+date: 2020-01-21T11:00:00.000+00:00
 episode_number: 417
 duration: '1:18:00'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_417_Burke_Holland.mp3
@@ -41,7 +41,7 @@ They talk about ways to set up more secure functions to keep things from racking
 
 ## Sponsors
 
-* [G2i](https://www.g2i.co/)
+* [G2i](https://www.g2i.co/?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
 * [Split](https://on.split.io/37M1fu2)
 
 ## **____________________________**
