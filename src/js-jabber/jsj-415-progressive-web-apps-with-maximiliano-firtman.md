@@ -31,7 +31,7 @@ Progressive web apps are a set of best practices to create web apps that are ins
 
 ## Sponsors
 
-* [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast)
+* [G2i](https://www.g2i.co/?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
 
 ## **______________________________________________**
 
