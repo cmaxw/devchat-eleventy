@@ -78,7 +78,7 @@ summary
 * [The Riftwar Saga](http://www.crydee.com/raymond-feist/book-series/the-riftwar-saga)
 * [The Man In A High Castle](https://www.imdb.com/title/tt1740299/)
 
-**Dale Spoonmore:**
+**Dale Spoonemore:**
 
 * [Smart Pots Gardening Containers](https://www.amazon.com/s?k=Smart+Pots+Gardening+Containers&ref=nb_sb_noss)
 * [SodaStream](https://www.amazon.com/s?k=soda+stream&crid=1EPM9NR47XVQU&sprefix=soda+stream%2Caps%2C368&ref=nb_sb_ss_i_1_11)
