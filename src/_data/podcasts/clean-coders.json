@@ -10,5 +10,7 @@
   "email_form_id": "19",
   "color": "blue",
   "linkedin": "https://linkedin.com/company/devchat",
-  "rss": "https://feeds.feedwrench.com/cleancoders.rss"
+  "rss": "https://feeds.feedwrench.com/cleancoders.rss",
+  "itunes": "https://podcasts.apple.com/us/podcast/clean-coders/id1497337173",
+  "google_play": "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Igc646invsefs6yw2i2ozaiout4?t%3DClean_Coders%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"
 }
