@@ -33,6 +33,12 @@ Tweet Will [@wbucksoft](https://twitter.com/wbucksoft), and let him know you hea
 
 ## Picks:
 
-Will: dodge ball, Ultimate Dodgeball, Elite Dodgeball, [Codex: Card-Time Strategy board game](https://boardgamegeek.com/boardgame/131111/codex-card-time-strategy-deluxe-set), Rails Charles: [Sports Photography Course (For Parents)](https://shultzphotoschool.com/sports-photography-course-charter-early/), Angular Rants on YouTube
+Will: 
+
+dodge ball, Ultimate Dodgeball, Elite Dodgeball, [Codex: Card-Time Strategy board game](https://boardgamegeek.com/boardgame/131111/codex-card-time-strategy-deluxe-set), Rails 
+
+Charles: 
+
+[Sports Photography Course (For Parents)](https://shultzphotoschool.com/sports-photography-course-charter-early/), Angular Rants on YouTube
 
 ### Transcript
