@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-Summary
+This My JavaScript Story episode is a discussion with Kaelig Deloumeau-Prigent. Kaelig works on the Polaris design system from Shopify. We walk through his journey into programming, HTML, and CSS. We wander through is career until he was building design systems at Shopify.
 
 **Host:** Charles Max Wood
 
