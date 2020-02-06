@@ -23,7 +23,7 @@ question4: ''
 answer4: ''
 
 ---
-Summary
+Olga Andrienko is a Search Engine Optimization and content marketing expert at SEMRush. She walks us through the process of selecting keywords and designing content to get a snippet, or better spot on Google and other search engine searches.
 
 ### **Panelists**
 
