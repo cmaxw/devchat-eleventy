@@ -4,22 +4,22 @@ podcast: js-jabber
 tags:
 - podcast
 - js_jabber
-- Adam Altman
 - API
-- 'Aimee Knight '
-- AJ ONeal
-- Steve Edwards
+- OpenAPI
+- " Redoc"
 - Adam Altman
+- Steve Edwards
+- AJ ONeal
 - Dan Shappir
-title: 'JSJ 420: Improving Developer Experience Using API Documentation with Adam
-  Altman'
-date: 2020-02-11T11:00:00.000+00:00
+- Aimee Knight
+title: 'JSJ 420: OpenAPI, Redoc, and API Documentation with Adam Altman'
+date: 2020-02-11T11:00:00Z
 episode_number: 420
 duration: '45:45'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_420_Adam_Altman.mp3
 
 ---
-Chuck or Host Summary
+Adam dives into how to document your application using OpenAPI (formerly Swagger) and then how to generate great documentation for your API's using Redoc. He gives us the history of Redoc, breaks down the process for building API documentation, and understanding the OpenAPI specification.
 
 ## Panelists
 
@@ -46,18 +46,18 @@ Chuck or Host Summary
 
 * [https://twitter.com/redocly](https://twitter.com/redocly "https://twitter.com/redocly")
 * [Https://Redoc.ly](https://redoc.ly)
-* [https://www.facebook.com/redocly](https://www.facebook.com/redocly "https://www.facebook.com/redocly")
+* [https://www.facebook.com/redocly](https://twitter.com/redocly "https://twitter.com/redocly")
 
 ## Picks
 
 **Steve Edwards:**
 
-* [https://wesbos.com/announcing-my-css-grid-course/](https://wesbos.com/announcing-my-css-grid-course/)
-* [https://flexbox.io/](https://flexbox.io/ "https://flexbox.io/")
+* [https://wesbos.com/announcing-my-css-grid-course/](https://twitter.com/redocly "https://twitter.com/redocly")
+* [https://flexbox.io/](https://twitter.com/redocly "https://twitter.com/redocly")
 
 **Aimee Knight:**
 
-* [ https://github.com/ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList)
+* [ ](https://github.com/ErikCH/DevYouTubeList)[https://github.com/ErikCH/DevYouTubeList](https://twitter.com/redocly "https://twitter.com/redocly")
 
 **Dan Shappir:**
 
