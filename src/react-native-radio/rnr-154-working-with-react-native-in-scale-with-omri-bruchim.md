@@ -23,7 +23,7 @@ question4: ''
 answer4: ''
 
 ---
-Summary
+Omri explains how to build React Native apps that will be used by thousands and thousands of users across a large website infrastructure. He explains the architecture and modules used and how they approach native code for Wix's applications.
 
 ### **Panelists**
 
@@ -37,8 +37,8 @@ Summary
 
 ### **Sponsors**
 
-* [G2i](https://www.g2i.co/?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
-* [Infinite Red](http://radio.infinite.red/)
+* \[G2i\](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast Link&utm_campaign=First Sponsor runthrough)
+* [Infinite Red](https://mailchi.mp/infinitered/radio)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
