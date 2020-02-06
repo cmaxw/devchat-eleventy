@@ -1,18 +1,17 @@
 ---
 layout: layouts/post.njk
-title: >
-  MAS 010 Minko Gechev: My Angular Story
-date: 2017-03-23 05:00:52
-episode_number: 010
-duration: 25:36
+title: 'MAS 010: Minko Gechev'
+date: 2017-03-23T05:00:52.000+00:00
+episode_number: 8
+duration: 1536
 audio_url: https://media.devchat.tv/my-angular-story/AiA_010_Minko_Gechev.mp3
 podcast: adv-in-angular
 tags:
-  - adv_in_angular
-  - podcast
----
+- adv_in_angular
+- podcast
 
-## MAS 010 Minko Gechev: My Angular Story
+---
+## MAS 010: Minko Gechev
 
 On today's episode of My Angular Story, Charles Max Wood interviews **Minko Gechev**. Minko is a software engineer at Learn Capital and has been contributing to the open source community. He talked about [Immutability with Angular in episode 54 of the Adventures in Angular Show](https://devchat.tv/adv-in-angular/054-aia-immutability-with-angular-with-minko-gechev). Listen to how he got into programming and what he's currently up to!
 
@@ -26,18 +25,18 @@ He got excited about JavaScript when he was still in high school. He bought a [b
 
 ## His Discovery of Angular
 
-After his experience with his previous company, he moved to another where he was involved with a very interesting project. He had to run a Java outlet in a browser. He did remote desktop sharing and rendered the outlet on the canvass in the user browser. After that, a company in Silicon Valley found his blog and invited him to work for them. They wanted to build a web application for education. He chose Angular when he was asked which technology he wanted to use. Angular captured him because its objectives, principles, and features made him really excited. To hear about _MAS 010 Minko Gechev: My Angular Story_, download and listen&nbsp;to the entire episode.
+After his experience with his previous company, he moved to another where he was involved with a very interesting project. He had to run a Java outlet in a browser. He did remote desktop sharing and rendered the outlet on the canvass in the user browser. After that, a company in Silicon Valley found his blog and invited him to work for them. They wanted to build a web application for education. He chose Angular when he was asked which technology he wanted to use. Angular captured him because its objectives, principles, and features made him really excited. To hear about _MAS 010 Minko Gechev: My Angular Story_, download and listen to the entire episode.
 
 ## Get Connected
 
-Minko would love to hear from you! Visit him through&nbsp;the links below. Don't forget to let Minko know you heard about him on Devchat.tv's Adventures in Angular My Angular Story![Minko's Twitter](https://twitter.com/mgechev)[Minko's Github](https://github.com/mgechev?tab=repositories)If you're short on time, here are the highlights of MAS 010 Minko Gechev: My Angular Story:Beginning of Minko's programming journey? (1:19) Encounter with JavaScript? (6:04) His excitement about JavaScript? (7:13) His discovery of Angular? (8:15) Open source Angular projects? (10:06) His Angular inspiration? (11:43) His current projects? (14:48) Lessons from his experience? (17:51)
+Minko would love to hear from you! Visit him through the links below. Don't forget to let Minko know you heard about him on Devchat.tv's Adventures in Angular My Angular Story![Minko's Twitter](https://twitter.com/mgechev)[Minko's Github](https://github.com/mgechev?tab=repositories)If you're short on time, here are the highlights of MAS 010 Minko Gechev: My Angular Story:Beginning of Minko's programming journey? (1:19) Encounter with JavaScript? (6:04) His excitement about JavaScript? (7:13) His discovery of Angular? (8:15) Open source Angular projects? (10:06) His Angular inspiration? (11:43) His current projects? (14:48) Lessons from his experience? (17:51)
 
 ## Picks:
 
-Minko: [Text and Programming Languages by MIT Press](https://mitpress.mit.edu/books/types-and-programming-languages)&nbsp;and EFF programming language Charles: [The Eventual Millionaire by Jaime Masters](https://eventualmillionaire.com/)&nbsp;and [Deep Work Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+Minko: [Text and Programming Languages by MIT Press](https://mitpress.mit.edu/books/types-and-programming-languages) and EFF programming language Charles: [The Eventual Millionaire by Jaime Masters](https://eventualmillionaire.com/) and [Deep Work Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 
 ## Episode Links:
 
-[Angular in Patterns](https://github.com/mgechev/angularjs-in-patterns),&nbsp;[AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide),&nbsp;[John Papa’s Style Guide](https://github.com/johnpapa/angular-styleguide),&nbsp;[Switching to Angular 2 by Minko Gechev](https://www.amazon.com/Switching-Angular-2-Minko-Gechev-ebook/dp/B0171UHKYA),&nbsp;[Getting Started with Angular by Minko Gechev](https://www.amazon.com/Getting-started-Angular-Minko-Gechev-ebook/dp/B01MU0LE1A),&nbsp;[Eve programming language](https://witheve.com/), [VMWare](https://www.vmware.com/asean.html)
+[Angular in Patterns](https://github.com/mgechev/angularjs-in-patterns), [AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide), [John Papa’s Style Guide](https://github.com/johnpapa/angular-styleguide), [Switching to Angular 2 by Minko Gechev](https://www.amazon.com/Switching-Angular-2-Minko-Gechev-ebook/dp/B0171UHKYA), [Getting Started with Angular by Minko Gechev](https://www.amazon.com/Getting-started-Angular-Minko-Gechev-ebook/dp/B01MU0LE1A), [Eve programming language](https://witheve.com/), [VMWare](https://www.vmware.com/asean.html)
 
 ### Transcript
