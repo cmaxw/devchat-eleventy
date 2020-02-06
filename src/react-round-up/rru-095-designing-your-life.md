@@ -5,7 +5,7 @@ tags:
 - podcast
 - react_round_up
 title: 'RRU 095:  Designing Your Life'
-date: 2020-01-14T16:50:00+0000
+date: 2020-01-14T16:50:00.000+00:00
 episode_number: '095'
 audio_url: https://media.devchat.tv/reactroundup/RRU_095_Charles_Max_Wood.mp3
 duration: '28:48'
@@ -19,7 +19,7 @@ question4: What holds people back from reaching their goals?
 answer4: Getting it in their heads that they can’t.
 
 ---
-In this episode of React Round Up Charles Max Wood hosts a solo podcast sharing his perspective on designing your perfect life. In this episode he addresses finding your dream job, building your dream life, and staying current. Start by deciding where you want to end up. Do you see yourself retiring? Working forever? Charles shares his vision for his future and discusses the retirements of others in his life.
+In this episode of React Round Up, Charles Max Wood hosts a solo podcast sharing his perspective on designing your perfect life. In this episode he addresses finding your dream job, building your dream life, and staying current. Start by deciding where you want to end up. Do you see yourself retiring? Working forever? Charles shares his vision for his future and discusses the retirements of others in his life.
 
 Working back from the end of your life, Charles has you ask yourself what kind of life and career you want. Charles shares his vision for both his personal life and his career. After you pick your goal, build the skills, and knowledge to reach that goal. He uses the example of becoming a speaker at conferences. He also recommends you find a mentor or someone who has sone what you want to and get there help.
 
@@ -32,7 +32,7 @@ Charles explains how important it is to get out of your own way mentally. Many p
 ### **Sponsors**
 
 * [NxPlaybook.com](http://nxplaybook.com/) - Use code ‘NXDEVCHAT’ for 50% off the official[ ](https://nx.dev/React)[https://nx.dev/React](https://nx.dev/React "https://nx.dev/React") Advanced Workspaces course!
-* [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast)
+* [G2i](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevChat)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
