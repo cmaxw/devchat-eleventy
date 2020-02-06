@@ -8,7 +8,7 @@ tags:
 - Christopher Reyes
 - Omri Bruchim
 layout: layouts/post.njk
-title: 'RNR 154: Working with React Native in Scale with Omri Bruchim'
+title: 'RNR 154: React Native at Scale at Wix with Omri Bruchim'
 date: 2020-02-11T11:00:00+0000
 episode_number: '154'
 audio_url: https://media.devchat.tv/reactnativeradio/RNR_154_Omri_Bruchim.mp3
