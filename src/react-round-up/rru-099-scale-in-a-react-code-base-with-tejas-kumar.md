@@ -36,7 +36,7 @@ Tejas, Thomas, and Chuck talk about what Design Systems are, how they're used, a
 
 ## Sponsors
 
-* G2i link
+* [G2i](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevChat)
 
 ## **____________________________**
 
