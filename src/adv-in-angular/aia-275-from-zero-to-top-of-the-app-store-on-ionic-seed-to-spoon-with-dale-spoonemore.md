@@ -11,6 +11,7 @@ tags:
 - Alyssa Nicoll
 - App Store
 - Ionic
+- adv_in_angular
 layout: layouts/post.njk
 title: 'AiA 275:  From Zero to Top of the App Store on Ionic: Seed to Spoon with Dale
   Spoonemore'
