@@ -37,7 +37,7 @@ Summary
 
 ### **Sponsors**
 
-* [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast)
+* [G2i](https://www.g2i.co/?utm_source=Freelancers_Show&utm_medium=Podcast&utm_campaign=DevChat)
 * [Sentry](http://sentry.io/) | Use the code “devchat” for $100 credit
 * [CacheFly](https://www.cachefly.com/)
 
