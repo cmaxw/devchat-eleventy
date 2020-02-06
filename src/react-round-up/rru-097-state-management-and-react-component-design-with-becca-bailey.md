@@ -5,7 +5,7 @@ tags:
 - podcast
 - react_round_up
 title: 'RRU 097: State Management and React Component Design with Becca Bailey'
-date: 2020-01-28T11:00:00+0000
+date: 2020-01-28T11:00:00.000+00:00
 episode_number: '097'
 audio_url: https://media.devchat.tv/reactroundup/RRU_097_Becca_Bailey.mp3
 duration: '59:10'
@@ -37,11 +37,11 @@ Becca and the panel discuss alternatives to using Redux for state management, an
 ## Sponsors
 
 * [NxPlaybook.com](http://nxplaybook.com/) - Use code ‘NXDEVCHAT’ for 50% off the official [Advanced Workspaces course!](https://nx.dev/React "Advanced Workspaces course!")
-* [**G2i**](https://www.g2i.co/)
+* [**G2i**](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevChat)
 
-## **____________________________**
+## **______________________________________________**
 
-> **> "The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.** [**Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.** [**Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
 ## **____________________________________________________________**
 
