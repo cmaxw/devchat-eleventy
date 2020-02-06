@@ -5,7 +5,7 @@ tags:
 - freelancers
 layout: layouts/post.njk
 title: 'TFS 351: Nine Traits to Attract High Paying Clients'
-date: 2020-01-28T11:00:00+0000
+date: 2020-01-28T11:00:00.000+00:00
 episode_number: '351'
 audio_url: https://media.devchat.tv/freelancers/TFS_351_Mike_Volkin.mp3
 duration: '56:12'
@@ -36,13 +36,11 @@ The final trait is to be a good manager. Manage yourself and manage up with your
 
 * Brad Large
 * Brooks Forsyth
-
-
 * Mike Volkin
 
 ### **Sponsors**
 
-* [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast)
+* [G2i](https://www.g2i.co/?utm_source=Freelancers_Show&utm_medium=Podcast&utm_campaign=DevChat)
 * [Sentry](http://sentry.io/) | Use the code “devchat” for 2 months free on Sentrys small plan
 * [CacheFly](https://www.cachefly.com/)
 
