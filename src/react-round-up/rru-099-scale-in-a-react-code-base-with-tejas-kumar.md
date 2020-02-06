@@ -1,10 +1,16 @@
 ---
 podcast: react-round-up
 layout: layouts/post.njk
-tags: []
+tags:
+- Design Systems
+- Thomas Aylott
+- Tejas Kumar
+- Charles Max Wood
+- podcast
+- react_round_up
 title: 'RRU 099: Scale: In a React Code Base with Tejas Kumar'
-date: 
-episode_number: ''
+date: 2020-02-11T11:00:00+0000
+episode_number: '099'
 audio_url: ''
 duration: ''
 question1: ''
