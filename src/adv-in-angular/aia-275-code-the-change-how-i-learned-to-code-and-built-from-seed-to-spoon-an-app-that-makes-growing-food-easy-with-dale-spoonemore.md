@@ -10,8 +10,8 @@ tags:
 - Charles Max Wood
 - seedtospoon
 layout: layouts/post.njk
-title: 'AiA 275:  Code the Change: How I Learned to Code and Built From Seed to Spoon,
-  an App that Makes Growing Food Easy! with Dale Spoonemore'
+title: 'AiA 275:  From Zero to Top of the App Store on Ionic: Seed to Spoon with Dale
+  Spoonemore'
 date: 2020-02-11T11:00:00+0000
 episode_number: '275'
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_275_Dale_Spoonemore.mp3
@@ -26,7 +26,7 @@ question4: ''
 answer4: ''
 
 ---
-summary
+Dale Spoonemore joins the adventure to talk about his journey from no coding experience to writing one of the most popular gardening apps on the web with Ionic. Dale explains how learning to garden sparked a journey that led him to teach himself Angular and Ionic to build the Seed to Spoon app.
 
 ### **Panelists**
 
