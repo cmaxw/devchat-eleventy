@@ -21,7 +21,7 @@ answer4: Getting it in their heads that they can’t.
 ---
 In this episode of React Round Up, Charles Max Wood hosts a solo podcast sharing his perspective on designing your perfect life. In this episode he addresses finding your dream job, building your dream life, and staying current. Start by deciding where you want to end up. Do you see yourself retiring? Working forever? Charles shares his vision for his future and discusses the retirements of others in his life.
 
-Working back from the end of your life, Charles has you ask yourself what kind of life and career you want. Charles shares his vision for both his personal life and his career. After you pick your goal, build the skills, and knowledge to reach that goal. He uses the example of becoming a speaker at conferences. He also recommends you find a mentor or someone who has sone what you want to and get there help.
+Working back from the end of your life, Charles has you ask yourself what kind of life and career you want. Charles shares his vision for both his personal life and his career. After you pick your goal, build the skills, and knowledge to reach that goal. He uses the example of becoming a speaker at conferences. He also recommends you find a mentor or someone who has what you want and get their help.
 
 Charles explains how important it is to get out of your own way mentally. Many people find reasons real or imagined as to why they can’t reach their goal. He agrees that the world is unfair and barriers can be real. The best way to show others they can overcome barriers is by doing it yourself and working towards your goals. You can if you believe you can and you work for it.
 
