@@ -46,17 +46,16 @@ Richard tells the panel what it’s like to manage conferences. His goals for co
 
 ## **____________________________________________________________**
 
-**"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
 ## **____________________________________________________________**
 
 ### **Links**
 
-* 
 * [www.linkedin.com/in/wai-liu](http://www.linkedin.com/in/wai-liu)
 * [https://twitter.com/WOPR_Dev](https://twitter.com/WOPR_Dev "https://twitter.com/WOPR_Dev")
 * [https://www.facebook.com/Adventures-in-NET-373059030062837/](https://www.facebook.com/Adventures-in-NET-373059030062837/ "https://www.facebook.com/Adventures-in-NET-373059030062837/")
-* [https://twitter.com/adventures_net](https://twitter.com/adventures_net "https://twitter.com/adventures_net")
+* [https://twitter.com/dotNET_Podcast](https://twitter.com/dotNET_Podcast "https://twitter.com/dotNET_Podcast")
 
 ### **Picks**
 
