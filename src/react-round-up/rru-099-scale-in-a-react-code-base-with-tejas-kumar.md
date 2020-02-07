@@ -38,25 +38,20 @@ Tejas, Thomas, and Chuck talk about what Design Systems are, how they're used, a
 
 * [G2i](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevChat)
 
-## **____________________________**
+### ____________________________________________________________________________________________
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
-## **____________________________________________________________**
+### ____________________________________________________________________________________________
 
-## Links
+### Links
 
-* [https://microsoft.github.io/monaco-editor/](https://microsoft.github.io/monaco-editor/ "https://microsoft.github.io/monaco-editor/")
-* [http://operational-ui.netlify.com/](http://operational-ui.netlify.com/ "http://operational-ui.netlify.com/")
-* [https://kentcdodds.com/blog/introducing-downshift-for-react/](https://kentcdodds.com/blog/introducing-downshift-for-react/ "https://kentcdodds.com/blog/introducing-downshift-for-react/")
+* [Monaco Editor](https://microsoft.github.io/monaco-editor/)
+* [Operational UI](http://operational-ui.netlify.com/)
+* [Kent Dodds - Introducing Downshift for React]()
 * [https://reacttraining.com/reach-ui/](https://reacttraining.com/reach-ui/ "https://reacttraining.com/reach-ui/")
 
-## Picks
-
-**Tejas Kumar**
-
-* Follow Tejas on [Twitter](https://twitter.com/brittanyirl?lang=en)
-* 
+### Picks
 
 **Charles Max Wood**
 
@@ -65,3 +60,14 @@ Tejas, Thomas, and Chuck talk about what Design Systems are, how they're used, a
 * [Clean Coders Podcast](https://devchat.tv/clean-coders)
 
 **Thomas Aylott**
+
+* [The Checklist Manifesto]()
+
+**Tejas Kumar**
+
+* Follow Tejas on [Twitter](https://twitter.com/tejaskumar_?lang=en)
+* [https://github.com/TejasQ](https://github.com/TejasQ "https://github.com/TejasQ")
+* [https://tej.as](https://github.com/TejasQ "https://github.com/TejasQ")
+* [next.js](https://nextjs.org/)
+* [Beautiful Letdown by Switchfoot](https://open.spotify.com/album/2irQlNl19nZomaE1A4K50c)
+* [Power Mentoring book by Susan Murphy](https://www.amazon.com/Power-Mentoring-Successful-Proteges-Relationships/dp/078797952X)
