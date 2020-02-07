@@ -11,7 +11,7 @@ layout: layouts/post.njk
 title: 'TFS 353: Content Marketing to Rank at the Top of Google with Olga Andrienko'
 date: 2020-02-11T11:00:00+0000
 episode_number: '353'
-audio_url: https://media.devchat.tv/freelancers/TFS_353_Olga_Adrienko.mp3
+audio_url: https://media.devchat.tv/freelancers/TFS_353_Olga_Andrienko.mp3
 duration: '55:19'
 question1: ''
 answer1: ''
