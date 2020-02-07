@@ -18,9 +18,6 @@ fields:
   config: {}
   template: podcast
   label: Podcast Fields
-- type: list
-  name: tags1
-  label: tags1
 pages:
 - src/react-round-up/rru-094-gitlab-commit-with-eddie-zaneski-shamiq-islam-and-jasmine-james.md
 - src/react-round-up/rru-095-designing-your-life.md
