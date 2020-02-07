@@ -11,7 +11,7 @@ tags:
 title: 'RRU 099: Scale: In a React Code Base with Tejas Kumar'
 date: 2020-02-11T11:00:00+0000
 episode_number: '099'
-audio_url: ''
+audio_url: https://media.devchat.tv/reactroundup/RRU_099_Tejas_Kumar.mp3
 duration: '44:35'
 question1: ''
 answer1: ''
