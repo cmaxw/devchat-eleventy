@@ -37,7 +37,7 @@ Omri explains how to build React Native apps that will be used by thousands and 
 
 ### **Sponsors**
 
-* [G2i]()
+* [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast Link&utm_campaign=First Sponsor runthrough)
 * [Infinite Red](https://mailchi.mp/infinitered/radio)
 * [CacheFly](https://www.cachefly.com/)
 
