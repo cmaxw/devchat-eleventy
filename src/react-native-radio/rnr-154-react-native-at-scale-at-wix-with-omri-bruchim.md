@@ -3,9 +3,11 @@ podcast: react-native-radio
 tags:
 - podcast
 - react_native_radio
-- Josh Justic
 - Jamon Holmgrn
 - Christopher Reyes
+- Josh Justice
+- React Native
+- Wix
 layout: layouts/post.njk
 title: 'RNR 154: React Native at Scale at Wix with Omri Bruchim'
 date: 2020-02-11T11:00:00+0000
@@ -36,7 +38,7 @@ Omri explains how to build React Native apps that will be used by thousands and 
 
 ### **Sponsors**
 
-* \[G2i\]([https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast "https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast") Link&utm_campaign=First Sponsor runthrough)
+* [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast)
 * [Infinite Red](https://mailchi.mp/infinitered/radio)
 * [CacheFly](https://www.cachefly.com/)
 
