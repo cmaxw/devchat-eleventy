@@ -46,6 +46,7 @@ Tejas, Thomas, and Chuck talk about what Design Systems are, how they're used, a
 
 ### Links
 
+* [Scalable Design Systems with TypeScript Tejas Kumar Talk](https://www.youtube.com/watch?v=ZsBW4S8hYMU&list=PL-a9lBflNu2oW1lU7fUvW0oAnbj-mxk2a&index=21)
 * [Monaco Editor](https://microsoft.github.io/monaco-editor/)
 * [Operational UI](http://operational-ui.netlify.com/)
 * [Kent Dodds - Introducing Downshift for React](https://kentcdodds.com/blog/introducing-downshift-for-react)
