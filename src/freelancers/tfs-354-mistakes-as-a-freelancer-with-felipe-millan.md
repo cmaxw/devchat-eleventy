@@ -3,6 +3,10 @@ podcast: freelancers
 tags:
 - podcast
 - freelancers
+- Charles Max Wood
+- Brad Large
+- Brooks Forsyth
+- Felipe Millan
 layout: layouts/post.njk
 title: 'TFS 354: Mistakes as a Freelancer with Felipe Millan'
 date: 2020-02-18T11:00:00+0000
