@@ -47,7 +47,7 @@ Or Weis is the CEO of Rookout. He walks us through the problems of tracking bugs
 
 ### **Links**
 
-* \[Anodot\](00:43:38	Scott Nixon:	https://www.anodot.com/)
+* [Anodot](https://www.anodot.com/)
 
 ### **Picks**
 
