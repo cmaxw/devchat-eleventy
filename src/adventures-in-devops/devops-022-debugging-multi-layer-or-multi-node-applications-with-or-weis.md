@@ -47,14 +47,14 @@ Or Weis is the CEO of Rookout. He walks us through the problems of tracking bugs
 
 ### **Links**
 
-* [Anodot](00:43:38	Scott Nixon:	https://www.anodot.com/)
+* \[Anodot\](00:43:38	Scott Nixon:	https://www.anodot.com/)
 
 ### **Picks**
 
 **Nell Shamrell-Harrington:**
 
 * [Team of Teams](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486)
-* [Alaska Airlines](00:51:57	Nell Shamrell-Harrington:	Alaska Airlines https://www.alaskaair.com/?semid=Google%7c%7cSEMBrand%7c%7c&gclid=EAIaIQobChMIi6Or2rHA5gIVDttkCh1rqgveEAAYASAAEgKUufD_BwE&gclsrc=aw.ds)
+* [Alaska Airlines](https://www.alaskaair.com/?semid=Google%7c%7cSEMBrand%7c%7c&gclid=EAIaIQobChMIi6Or2rHA5gIVDttkCh1rqgveEAAYASAAEgKUufD_BwE&gclsrc=aw.ds)
 
 **Scott Nixon:**
 
