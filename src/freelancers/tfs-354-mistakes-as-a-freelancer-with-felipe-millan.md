@@ -12,7 +12,7 @@ title: 'TFS 354: Mistakes as a Freelancer with Felipe Millan'
 date: 2020-02-18T11:00:00+0000
 episode_number: '354'
 audio_url: https://media.devchat.tv/freelancers/TFS_354_Felipe_Millan.mp3
-duration: ''
+duration: '1:11:03'
 question1: ''
 answer1: ''
 question2: ''
