@@ -7,10 +7,10 @@ tags:
 layout: layouts/post.njk
 title: ".NET 020: Demos are cool, but it is time to talk about the real world! with
   Gabriel Baptista"
-date: 2020-02-18T11:00:00+0000
+date: 2020-02-18T11:00:00.000+00:00
 episode_number: '020'
 audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_020_Gabriel_Baptista.mp3
-duration: ''
+duration: '48:57'
 question1: ''
 answer1: ''
 question2: ''
